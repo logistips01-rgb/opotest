@@ -3654,3 +3654,487 @@ window.addQuestions('aux-admin-zaragoza', 20, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 19 · lote 2026-08-10 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 19, [
+  {
+    "q": "Según el artículo 90.1 de la LBRL, las plantillas de las Corporaciones locales deberán responder a los principios de:",
+    "options": [
+      "Racionalidad, economía y eficiencia, y establecerse de acuerdo con la ordenación general de la economía.",
+      "Eficacia, jerarquía, descentralización y coordinación, con sujeción plena a la ley y al Derecho.",
+      "Objetividad, imparcialidad e independencia en el ejercicio de la función pública."
+    ],
+    "correct": 0,
+    "exp": "El art. 90.1, párrafo segundo, LBRL dispone que las plantillas deberán responder a los principios de racionalidad, economía y eficiencia y establecerse de acuerdo con la ordenación general de la economía, sin que los gastos de personal puedan rebasar los límites que se fijen con carácter general.",
+    "fuente": "Art. 90.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 90.2 de la LBRL, establecer las normas con arreglo a las cuales hayan de confeccionarse las relaciones de puestos de trabajo, la descripción de puestos de trabajo tipo y las condiciones requeridas para su creación corresponde:",
+    "options": [
+      "A cada Corporación local, en el ejercicio de su potestad de autoorganización.",
+      "Al Estado.",
+      "A las Comunidades Autónomas, salvo en las ciudades con estatuto de autonomía."
+    ],
+    "correct": 1,
+    "exp": "El art. 90.2, párrafo segundo, LBRL atribuye al Estado establecer las normas con arreglo a las cuales hayan de confeccionarse las relaciones de puestos de trabajo, la descripción de puestos de trabajo tipo y las condiciones requeridas para su creación.",
+    "fuente": "Art. 90.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 90.2 de la LBRL, ¿a quién corresponde establecer las normas básicas de la carrera administrativa, especialmente por lo que se refiere a la promoción de los funcionarios a niveles y grupos superiores?",
+    "options": [
+      "A la Comunidad Autónoma en cuyo territorio radique la entidad local.",
+      "A cada entidad local mediante su reglamento orgánico.",
+      "Al Estado."
+    ],
+    "correct": 2,
+    "exp": "El art. 90.2, párrafo segundo, LBRL reserva al Estado, junto a las normas sobre relaciones de puestos de trabajo, el establecimiento de las normas básicas de la carrera administrativa, especialmente por lo que se refiere a la promoción de los funcionarios a niveles y grupos superiores.",
+    "fuente": "Art. 90.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 90.3 de la LBRL establece que las Corporaciones locales constituirán Registros de personal:",
+    "options": [
+      "Coordinados con los de las demás Administraciones públicas, según las normas aprobadas por el Gobierno.",
+      "Integrados en el Registro Central de Personal de la Administración General del Estado, según las normas que apruebe cada Comunidad Autónoma.",
+      "De carácter estrictamente interno, sin necesidad de coordinación con otras Administraciones públicas."
+    ],
+    "correct": 0,
+    "exp": "El art. 90.3 LBRL dispone que las Corporaciones locales constituirán Registros de personal, coordinados con los de las demás Administraciones públicas, según las normas aprobadas por el Gobierno.",
+    "fuente": "Art. 90.3 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 90.3 de la LBRL, los datos inscritos en el Registro de personal de la Corporación local:",
+    "options": [
+      "Tienen valor meramente estadístico y no producen efectos económicos.",
+      "Determinarán las nóminas, a efectos de la debida justificación de todas las retribuciones.",
+      "Sirven exclusivamente para la elaboración de la oferta de empleo público del ejercicio siguiente."
+    ],
+    "correct": 1,
+    "exp": "Según el art. 90.3 LBRL, los datos inscritos en el Registro de personal determinarán las nóminas, a efectos de la debida justificación de todas las retribuciones.",
+    "fuente": "Art. 90.3 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 92.1 de la LBRL, los funcionarios al servicio de la Administración local se rigen, en lo no dispuesto en dicha Ley, por:",
+    "options": [
+      "La Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, la restante legislación del Estado en materia de función pública y la legislación de las Comunidades Autónomas.",
+      "Exclusivamente por la legislación de la Comunidad Autónoma en que se integre la entidad local.",
+      "El texto refundido de las disposiciones legales vigentes en materia de Régimen Local y, subsidiariamente, por el Estatuto de los Trabajadores."
+    ],
+    "correct": 0,
+    "exp": "El art. 92.1 LBRL remite, en lo no dispuesto en la propia Ley, a la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, a la restante legislación del Estado en materia de función pública y a la legislación de las Comunidades Autónomas, en los términos del art. 149.1.18.ª de la Constitución.",
+    "fuente": "Art. 92.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En el artículo 92.1 de la LBRL, la aplicación de la legislación de las Comunidades Autónomas a los funcionarios al servicio de la Administración local se produce:",
+    "options": [
+      "Solo cuando la Comunidad Autónoma haya asumido competencia exclusiva en materia de régimen local.",
+      "Con carácter preferente sobre la legislación estatal de función pública.",
+      "En los términos del artículo 149.1.18.ª de la Constitución."
+    ],
+    "correct": 2,
+    "exp": "El art. 92.1 LBRL cierra la remisión normativa señalando que la legislación de las Comunidades Autónomas se aplica «en los términos del artículo 149.1.18.ª de la Constitución».",
+    "fuente": "Art. 92.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el artículo 92.2 de la LBRL, los puestos de trabajo en la Administración local y sus Organismos Autónomos:",
+    "options": [
+      "Serán desempeñados indistintamente por personal funcionario o laboral, según decida la relación de puestos de trabajo.",
+      "Con carácter general, serán desempeñados por personal funcionario.",
+      "Serán desempeñados por personal laboral, salvo los que impliquen ejercicio de autoridad."
+    ],
+    "correct": 1,
+    "exp": "El art. 92.2 LBRL establece que, con carácter general, los puestos de trabajo en la Administración local y sus Organismos Autónomos serán desempeñados por personal funcionario.",
+    "fuente": "Art. 92.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 92 bis.1 de la LBRL, las funciones públicas cuya responsabilidad administrativa está reservada a funcionarios de administración local con habilitación de carácter nacional son funciones necesarias:",
+    "options": [
+      "Solo en los municipios de más de 5.000 habitantes y en las Diputaciones Provinciales.",
+      "En los municipios de gran población y en las entidades locales supramunicipales.",
+      "En todas las Corporaciones locales."
+    ],
+    "correct": 2,
+    "exp": "El art. 92 bis.1 LBRL califica esas funciones como «funciones públicas necesarias en todas las Corporaciones locales», cuya responsabilidad administrativa está reservada a funcionarios de administración local con habilitación de carácter nacional.",
+    "fuente": "Art. 92 bis.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 92 bis.1.b) de la LBRL, es función pública necesaria reservada a funcionarios de administración local con habilitación de carácter nacional:",
+    "options": [
+      "El control y la fiscalización interna de la gestión económico-financiera y presupuestaria, y la contabilidad, tesorería y recaudación.",
+      "La fe pública y el asesoramiento legal preceptivo, así como la contabilidad.",
+      "La gestión del padrón municipal de habitantes y la inspección tributaria local."
+    ],
+    "correct": 0,
+    "exp": "El art. 92 bis.1.b) LBRL reserva el control y la fiscalización interna de la gestión económico-financiera y presupuestaria, y la contabilidad, tesorería y recaudación. La fe pública y el asesoramiento legal preceptivo integran la función de Secretaría del apartado 1.a).",
+    "fuente": "Art. 92 bis.1.b) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Respecto de las funciones públicas necesarias del artículo 92 bis.1 de la LBRL, en los municipios de gran población:",
+    "options": [
+      "Quedan excluidas de la reserva a funcionarios con habilitación de carácter nacional.",
+      "Se tendrá en cuenta lo dispuesto en el Título X de la propia LBRL.",
+      "Se aplicará únicamente la legislación autonómica de régimen local."
+    ],
+    "correct": 1,
+    "exp": "El párrafo final del art. 92 bis.1 LBRL precisa que en los municipios de gran población se tendrá en cuenta lo dispuesto en el Título X de la LBRL.",
+    "fuente": "Art. 92 bis.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El párrafo final del artículo 92 bis.1 de la LBRL se remite, para los municipios de Madrid y de Barcelona, a la regulación contenida en:",
+    "options": [
+      "La Ley 1/2006, de 13 de marzo, para Madrid, y la Ley 22/2006, de 4 de julio, para Barcelona.",
+      "Los respectivos Estatutos de Autonomía de la Comunidad de Madrid y de Cataluña.",
+      "La Ley 22/2006, de 4 de julio, de Capitalidad y de Régimen Especial de Madrid, y la Ley 1/2006, de 13 de marzo, por la que se regula el Régimen Especial del municipio de Barcelona."
+    ],
+    "correct": 2,
+    "exp": "El art. 92 bis.1, párrafo final, LBRL remite a la Ley 22/2006, de 4 de julio, de Capitalidad y de Régimen Especial de Madrid, y a la Ley 1/2006, de 13 de marzo, por la que se regula el Régimen Especial del municipio de Barcelona.",
+    "fuente": "Art. 92 bis.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 92 bis.3 de la LBRL, los funcionarios de las subescalas de Secretaría e Intervención-tesorería estarán integrados en una de estas categorías:",
+    "options": [
+      "Entrada o superior.",
+      "Primera, segunda o tercera.",
+      "Básica, media o superior."
+    ],
+    "correct": 0,
+    "exp": "El art. 92 bis.3 LBRL dispone que los funcionarios de las subescalas de Secretaría e Intervención-tesorería estarán integrados en una de estas dos categorías: entrada o superior.",
+    "fuente": "Art. 92 bis.3 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 92 bis.4 de la LBRL, las especialidades de la creación, clasificación y supresión de puestos reservados a funcionarios de administración local con habilitación de carácter nacional se regularán:",
+    "options": [
+      "Por el Gobierno, mediante real decreto.",
+      "Por cada Comunidad Autónoma, mediante decreto de su Consejo de Gobierno.",
+      "Por orden del Ministerio de Hacienda y Administraciones Públicas."
+    ],
+    "correct": 0,
+    "exp": "El art. 92 bis.4 LBRL atribuye al Gobierno, mediante real decreto, la regulación de las especialidades de la creación, clasificación y supresión de esos puestos.",
+    "fuente": "Art. 92 bis.4 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Además de la creación, clasificación y supresión de puestos, el real decreto previsto en el artículo 92 bis.4 de la LBRL regulará las especialidades que puedan corresponder:",
+    "options": [
+      "A la forma de provisión de los puestos y al baremo de méritos generales.",
+      "Al régimen disciplinario y de situaciones administrativas de estos funcionarios.",
+      "Al régimen retributivo y a la carrera horizontal de estos funcionarios."
+    ],
+    "correct": 1,
+    "exp": "El art. 92 bis.4 LBRL menciona, junto a la creación, clasificación y supresión de puestos, «las que puedan corresponder a su régimen disciplinario y de situaciones administrativas».",
+    "fuente": "Art. 92 bis.4 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El ámbito territorial de los concursos para la provisión de puestos reservados a funcionarios de administración local con habilitación de carácter nacional es, según el artículo 92 bis.6 de la LBRL:",
+    "options": [
+      "De carácter autonómico, salvo para los puestos de Diputaciones Provinciales.",
+      "De carácter provincial.",
+      "De carácter estatal."
+    ],
+    "correct": 2,
+    "exp": "El art. 92 bis.6, párrafo primero, LBRL establece que el ámbito territorial de los concursos será de carácter estatal.",
+    "fuente": "Art. 92 bis.6 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 92 bis.6 de la LBRL, ¿cuántos concursos anuales existirán para la provisión de estos puestos y de qué clase?",
+    "options": [
+      "Dos: el concurso ordinario y el concurso unitario, que tendrá naturaleza supletoria.",
+      "Uno solo, el concurso unitario, convocado por las Comunidades Autónomas.",
+      "Dos: el concurso ordinario y el concurso extraordinario, ambos con igual naturaleza."
+    ],
+    "correct": 0,
+    "exp": "El art. 92 bis.6 LBRL dispone que existirán dos concursos anuales: el concurso ordinario y el concurso unitario, que tendrá naturaleza supletoria.",
+    "fuente": "Art. 92 bis.6 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el artículo 92 bis.6 de la LBRL, el concurso unitario será convocado por:",
+    "options": [
+      "La Corporación local en la que se encuentre el puesto vacante.",
+      "La Administración del Estado.",
+      "La Comunidad Autónoma en cuyo territorio radiquen los puestos vacantes."
+    ],
+    "correct": 1,
+    "exp": "El art. 92 bis.6 LBRL señala expresamente que el concurso unitario será convocado por la Administración del Estado.",
+    "fuente": "Art. 92 bis.6 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 92 bis.6 de la LBRL, las Corporaciones locales con puestos vacantes aprobarán las bases del concurso ordinario y efectuarán las convocatorias:",
+    "options": [
+      "Publicándolas directamente en el «Boletín Oficial del Estado», sin intervención de otras Administraciones.",
+      "Previa autorización expresa del Ministerio de Hacienda y Administraciones Públicas.",
+      "Remitiéndolas a la correspondiente Comunidad Autónoma para su publicación simultánea en los diarios oficiales."
+    ],
+    "correct": 2,
+    "exp": "El art. 92 bis.6 LBRL obliga a las Corporaciones locales con puestos vacantes a aprobar las bases del concurso ordinario de acuerdo con el modelo de convocatoria y bases comunes aprobado por real decreto, y a remitir las convocatorias a la correspondiente Comunidad Autónoma para su publicación simultánea en los diarios oficiales.",
+    "fuente": "Art. 92 bis.6 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 92 bis.6 de la LBRL, la cobertura excepcional por libre designación de puestos con funciones reservadas a funcionarios con habilitación de carácter nacional se admite, entre otras entidades, en:",
+    "options": [
+      "Las Diputaciones Provinciales, Áreas Metropolitanas, Cabildos y Consejos Insulares y las ciudades con estatuto de autonomía de Ceuta y Melilla.",
+      "Todos los municipios de más de 20.000 habitantes y sus organismos autónomos.",
+      "Las Mancomunidades de municipios y las Comarcas, cuando así lo prevea la legislación autonómica."
+    ],
+    "correct": 0,
+    "exp": "El art. 92 bis.6 LBRL permite excepcionalmente la libre designación en las Entidades Locales incluidas en el ámbito subjetivo de los arts. 111 y 135 del TRLRHL, así como en las Diputaciones Provinciales, Áreas Metropolitanas, Cabildos y Consejos Insulares y las ciudades con estatuto de autonomía de Ceuta y Melilla.",
+    "fuente": "Art. 92 bis.6 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando el artículo 92 bis.6 de la LBRL admite excepcionalmente la libre designación para cubrir puestos con funciones reservadas, esta se efectuará:",
+    "options": [
+      "Entre funcionarios de carrera del subgrupo A1 de cualquier Administración pública.",
+      "Entre funcionarios de la subescala y categoría correspondiente.",
+      "Libremente entre cualquier funcionario con habilitación de carácter nacional, sin exigencia de subescala ni categoría."
+    ],
+    "correct": 1,
+    "exp": "El art. 92 bis.6 LBRL precisa que dichos puestos se podrán cubrir por el sistema de libre designación «entre funcionarios de la subescala y categoría correspondiente».",
+    "fuente": "Art. 92 bis.6 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En los supuestos de cese de funcionarios con funciones reservadas del artículo 92 bis.1 nombrados por libre designación, el artículo 92 bis.6 de la LBRL exige que el acuerdo de cese:",
+    "options": [
+      "Sea ratificado por el Pleno de la Corporación en la primera sesión que celebre.",
+      "Sea autorizado previamente por la Comunidad Autónoma correspondiente.",
+      "Sea comunicado al órgano competente de la Administración General del Estado en materia de Función Pública, incluyendo la motivación del cese referida al desempeño profesional del funcionario."
+    ],
+    "correct": 2,
+    "exp": "El art. 92 bis.6 LBRL obliga a comunicar el acuerdo de cese al órgano competente de la Administración General del Estado en materia de Función Pública, con la correspondiente motivación referida al desempeño profesional del funcionario.",
+    "fuente": "Art. 92 bis.6 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Acordado el cese en un puesto de libre designación, el artículo 92 bis.6 de la LBRL establece que la Corporación local deberá:",
+    "options": [
+      "Asignar al funcionario cesado un puesto de trabajo de su mismo grupo de titulación.",
+      "Declarar al funcionario cesado en situación de excedencia forzosa hasta que obtenga nuevo destino por concurso.",
+      "Reservarle el mismo puesto durante un plazo máximo de dos años."
+    ],
+    "correct": 0,
+    "exp": "El último párrafo del art. 92 bis.6 LBRL dispone que, acordado el cese en un puesto de libre designación, la Corporación local deberá asignar al funcionario cesado un puesto de trabajo de su mismo grupo de titulación.",
+    "fuente": "Art. 92 bis.6 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 92 bis.7 de la LBRL, los nombramientos provisionales de funcionarios con habilitación de carácter nacional, las comisiones de servicios, las acumulaciones y los nombramientos de personal interino y accidental los efectúan:",
+    "options": [
+      "El Ministerio de Hacienda y Administraciones Públicas.",
+      "Las Comunidades Autónomas.",
+      "Las propias Corporaciones locales afectadas."
+    ],
+    "correct": 1,
+    "exp": "El art. 92 bis.7 LBRL atribuye a las Comunidades Autónomas efectuar los nombramientos provisionales, las comisiones de servicios, acumulaciones, nombramientos de personal interino y de personal accidental.",
+    "fuente": "Art. 92 bis.7 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Las actuaciones que el artículo 92 bis.7 de la LBRL encomienda a las Comunidades Autónomas se llevan a cabo:",
+    "options": [
+      "Conforme a la normativa que cada Comunidad Autónoma apruebe con plena autonomía.",
+      "Previo informe favorable y vinculante de la Corporación local afectada.",
+      "De acuerdo con la normativa establecida por la Administración del Estado."
+    ],
+    "correct": 2,
+    "exp": "El art. 92 bis.7 LBRL comienza señalando que las Comunidades Autónomas efectuarán esos nombramientos «de acuerdo con la normativa establecida por la Administración del Estado».",
+    "fuente": "Art. 92 bis.7 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 92 bis.8 de la LBRL, para poder participar en los concursos de provisión de puestos de trabajo o ser nombrados con carácter provisional en otro puesto, estos funcionarios deberán permanecer en cada puesto obtenido por concurso un mínimo de:",
+    "options": [
+      "Un año.",
+      "Dos años.",
+      "Tres años."
+    ],
+    "correct": 1,
+    "exp": "El art. 92 bis.8 LBRL exige una permanencia mínima de dos años en cada puesto de trabajo obtenido por concurso.",
+    "fuente": "Art. 92 bis.8 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La exigencia de permanencia mínima del artículo 92 bis.8 de la LBRL no se aplica:",
+    "options": [
+      "Cuando el funcionario pertenezca a la categoría superior de su subescala.",
+      "Cuando el puesto de destino esté clasificado en clase primera.",
+      "En el ámbito de una misma Entidad Local."
+    ],
+    "correct": 2,
+    "exp": "El art. 92 bis.8 LBRL exceptúa expresamente de la permanencia mínima de dos años los movimientos «en el ámbito de una misma Entidad Local».",
+    "fuente": "Art. 92 bis.8 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 92 bis.8 de la LBRL, antes de transcurrir el plazo de permanencia mínima podrán efectuarse excepcionalmente nombramientos con carácter provisional:",
+    "options": [
+      "Por el Ministerio de Hacienda y Administraciones Públicas, cuando existan razones y circunstancias que requieran la cobertura urgente del puesto.",
+      "Por la Comunidad Autónoma, cuando lo solicite motivadamente la Corporación local.",
+      "Por el Presidente de la Corporación local, dando cuenta al Pleno."
+    ],
+    "correct": 0,
+    "exp": "El art. 92 bis.8, párrafo segundo, LBRL permite excepcionalmente nombramientos provisionales por el Ministerio de Hacienda y Administraciones Públicas, siempre que existan razones y circunstancias que requieran la cobertura del puesto con carácter urgente y la imposibilidad de efectuar un nombramiento provisional conforme al párrafo anterior.",
+    "fuente": "Art. 92 bis.8 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El Registro de funcionarios de administración local con habilitación de carácter nacional previsto en el artículo 92 bis.9 de la LBRL existirá en:",
+    "options": [
+      "La Federación Española de Municipios y Provincias.",
+      "Cada Comunidad Autónoma, coordinado con el estatal.",
+      "El Ministerio de Hacienda y Administraciones Públicas, integrado con las Comunidades Autónomas."
+    ],
+    "correct": 2,
+    "exp": "El art. 92 bis.9 LBRL dispone que en el Ministerio de Hacienda y Administraciones Públicas existirá un Registro de funcionarios de administración local con habilitación de carácter nacional integrado con las Comunidades Autónomas.",
+    "fuente": "Art. 92 bis.9 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En el Registro del artículo 92 bis.9 de la LBRL se inscribirán y anotarán:",
+    "options": [
+      "Todos los actos que afecten a la vida administrativa de estos funcionarios.",
+      "Únicamente los nombramientos definitivos obtenidos por concurso y las jubilaciones.",
+      "Exclusivamente las sanciones disciplinarias por faltas graves y muy graves."
+    ],
+    "correct": 0,
+    "exp": "Conforme al art. 92 bis.9 LBRL, en dicho Registro se inscribirán y anotarán todos los actos que afecten a la vida administrativa de estos funcionarios.",
+    "fuente": "Art. 92 bis.9 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 92 bis.10 de la LBRL, cuando los hechos imputados a un funcionario con habilitación de carácter nacional pudieran ser constitutivos de falta leve, la incoación del expediente disciplinario corresponde:",
+    "options": [
+      "Al Ministerio de Hacienda y Administraciones Públicas.",
+      "Al órgano correspondiente de la Corporación donde el funcionario hubiera cometido los hechos que se le imputan.",
+      "A la Comunidad Autónoma en cuyo ámbito territorial radique la Corporación."
+    ],
+    "correct": 1,
+    "exp": "El art. 92 bis.10.a) LBRL atribuye la incoación al órgano correspondiente de la Corporación donde el funcionario hubiera cometido los hechos que se le imputan, cuando pudieran ser constitutivos de falta leve.",
+    "fuente": "Art. 92 bis.10.a) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 92 bis.10 de la LBRL, la incoación de expedientes disciplinarios por hechos que pudieran ser constitutivos de faltas muy graves tipificadas en la normativa básica estatal corresponde:",
+    "options": [
+      "A la Comunidad Autónoma respectiva.",
+      "Al órgano local competente de la Corporación afectada.",
+      "Al Ministerio de Hacienda y Administraciones Públicas."
+    ],
+    "correct": 2,
+    "exp": "El art. 92 bis.10.c) LBRL reserva al Ministerio de Hacienda y Administraciones Públicas la incoación cuando los hechos denunciados pudieran ser constitutivos de faltas muy graves tipificadas en la normativa básica estatal; la Comunidad Autónoma incoa respecto de los funcionarios de su ámbito territorial salvo en ese supuesto.",
+    "fuente": "Art. 92 bis.10.c) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el artículo 92 bis.10 de la LBRL, el órgano competente para acordar la incoación del expediente disciplinario lo será también para:",
+    "options": [
+      "Nombrar instructor, decretar o alzar la suspensión provisional del expedientado e instruir diligencias previas antes de decidir sobre la incoación.",
+      "Imponer, en todo caso, la sanción que resulte procedente al término del expediente.",
+      "Resolver los recursos administrativos que se interpongan contra la resolución sancionadora."
+    ],
+    "correct": 0,
+    "exp": "El art. 92 bis.10 LBRL precisa que el órgano competente para acordar la incoación lo será también para nombrar instructor y decretar o alzar la suspensión provisional del expedientado, así como para instruir diligencias previas antes de decidir sobre tal incoación.",
+    "fuente": "Art. 92 bis.10 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 92 bis.10 de la LBRL, la instrucción del expediente disciplinario se efectuará por:",
+    "options": [
+      "Un funcionario con habilitación de carácter nacional de categoría superior, en todo caso.",
+      "Un funcionario de carrera de cualquiera de los Cuerpos o Escalas del Subgrupo A1 de titulación, incluida la Escala de Funcionarios con Habilitación de carácter nacional, que cuente con conocimientos en la materia a la que se refiera la infracción.",
+      "Un funcionario de carrera perteneciente a los Subgrupos A1 o A2, designado por sorteo entre los de la propia Corporación."
+    ],
+    "correct": 1,
+    "exp": "El art. 92 bis.10, último párrafo, LBRL exige que la instrucción se efectúe por un funcionario de carrera de cualquiera de los Cuerpos o Escalas del Subgrupo A1 de titulación, incluida la Escala de Funcionarios con Habilitación de carácter nacional, que cuente con conocimientos en la materia a la que se refiera la infracción.",
+    "fuente": "Art. 92 bis.10 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 92 bis.11 de la LBRL, la imposición de sanciones disciplinarias por falta muy grave tipificada en la normativa básica estatal corresponde:",
+    "options": [
+      "Al Pleno de la Corporación local afectada.",
+      "A la Comunidad Autónoma respectiva.",
+      "Al Ministro de Hacienda y Administraciones Públicas."
+    ],
+    "correct": 2,
+    "exp": "El art. 92 bis.11.a) LBRL atribuye al Ministro de Hacienda y Administraciones Públicas la imposición de la sanción cuando esta recaiga por falta muy grave tipificada en la normativa básica estatal.",
+    "fuente": "Art. 92 bis.11.a) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 92 bis.11 de la LBRL, ¿a quién corresponde imponer las sanciones de suspensión de funciones y destitución no comprendidas entre las derivadas de faltas muy graves tipificadas en la normativa básica estatal?",
+    "options": [
+      "A la Comunidad Autónoma.",
+      "Al órgano local competente.",
+      "Al Ministro de Hacienda y Administraciones Públicas."
+    ],
+    "correct": 0,
+    "exp": "El art. 92 bis.11.b) LBRL atribuye a la Comunidad Autónoma la imposición de las sanciones de suspensión de funciones y destitución no comprendidas en la letra a) del mismo apartado.",
+    "fuente": "Art. 92 bis.11.b) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el artículo 92 bis.11 de la LBRL, la imposición de sanciones por faltas leves a los funcionarios de administración local con habilitación de carácter nacional corresponde:",
+    "options": [
+      "A la Comunidad Autónoma respectiva.",
+      "Al órgano local competente.",
+      "Al órgano del Ministerio de Hacienda y Administraciones Públicas que haya incoado el expediente."
+    ],
+    "correct": 1,
+    "exp": "El art. 92 bis.11.c) LBRL atribuye al órgano local competente la imposición de sanciones cuando se trate de faltas leves.",
+    "fuente": "Art. 92 bis.11.c) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 92 bis.11 de la LBRL, si en el momento de la ejecución el funcionario sancionado se encontrara ocupando un puesto distinto de aquel en el que se produjeron los hechos:",
+    "options": [
+      "La sanción quedará sin efecto y deberá reiniciarse el expediente en la nueva Corporación.",
+      "La ejecución quedará en suspenso hasta que el funcionario regrese a la Corporación de origen.",
+      "La sanción impuesta se ejecutará en sus propios términos."
+    ],
+    "correct": 2,
+    "exp": "El art. 92 bis.11 LBRL establece que la sanción impuesta se ejecutará en sus propios términos, aun cuando en el momento de la ejecución el funcionario se encontrara ocupando un puesto distinto a aquel en el que se produjeron los hechos que dieron lugar a la sanción.",
+    "fuente": "Art. 92 bis.11 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 92 bis.11 de la LBRL, la sanción de destitución implicará la pérdida del puesto de trabajo con la prohibición de obtener destino en la misma Corporación en la que tuvo lugar la sanción, en el plazo que se fije, con un máximo de:",
+    "options": [
+      "Seis años para las faltas muy graves y tres años para las faltas graves.",
+      "Tres años para las faltas muy graves y un año para las faltas graves.",
+      "Diez años para las faltas muy graves y cinco años para las faltas graves."
+    ],
+    "correct": 0,
+    "exp": "El art. 92 bis.11 LBRL fija para la destitución la prohibición de obtener destino en la misma Corporación, con el máximo de seis años para las faltas muy graves y de tres años para las faltas graves.",
+    "fuente": "Art. 92 bis.11 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 92 bis.11 de la LBRL, la sanción de suspensión de funciones tendrá una duración máxima de:",
+    "options": [
+      "Tres años para las faltas muy graves y un año para las faltas graves.",
+      "Seis años para las faltas muy graves y tres años para las faltas graves.",
+      "Cinco años para las faltas muy graves y dos años para las faltas graves."
+    ],
+    "correct": 1,
+    "exp": "El art. 92 bis.11, último párrafo, LBRL dispone que la sanción de suspensión de funciones tendrá una duración máxima de seis años para las faltas muy graves y de tres años para las faltas graves.",
+    "fuente": "Art. 92 bis.11 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  }
+]);

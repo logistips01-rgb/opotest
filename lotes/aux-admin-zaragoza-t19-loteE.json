@@ -1,0 +1,487 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 19,
+  "tramo": "TRRL (RDLeg 781/1986): personal local",
+  "preguntas": [
+    {
+      "q": "Conforme al art. 126.1 TRRL, las plantillas de las Entidades locales, que deberán comprender todos los puestos de trabajo debidamente clasificados reservados a funcionarios, personal laboral y eventual, se aprobarán:",
+      "options": [
+        "Anualmente, con ocasión de la aprobación del Presupuesto",
+        "Cada cuatro años, coincidiendo con el mandato de la Corporación",
+        "Anualmente, dentro del mes siguiente a la aprobación de la oferta de empleo público"
+      ],
+      "correct": 0,
+      "exp": "El art. 126.1 TRRL ordena que las plantillas se aprueben anualmente con ocasión de la aprobación del Presupuesto, respondiendo a los principios del art. 90.1 LBRL, y que a ellas se unan los antecedentes, estudios y documentos acreditativos de que se ajustan a esos principios.",
+      "fuente": "Art. 126.1 TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 126.2 TRRL permite ampliar las plantillas en dos supuestos: uno de ellos es que el incremento del gasto quede compensado mediante la reducción de otras unidades o capítulos de gastos corrientes no ampliables. El otro supuesto es:",
+      "options": [
+        "Que la ampliación no exceda del 10 por 100 del número total de plazas de la plantilla",
+        "Que exista informe favorable del órgano competente en materia de régimen local de la Comunidad Autónoma",
+        "Que el incremento de las dotaciones sea consecuencia del establecimiento o ampliación de servicios de carácter obligatorio que resulten impuestos por disposiciones legales"
+      ],
+      "correct": 2,
+      "exp": "El art. 126.2 TRRL contempla dos supuestos de ampliación: la compensación del incremento del gasto con reducción de otras unidades o capítulos de gastos corrientes no ampliables (letra a) y que el incremento de dotaciones derive del establecimiento o ampliación de servicios de carácter obligatorio impuestos por disposiciones legales (letra b), sin perjuicio de las limitaciones de leyes especiales o coyunturales.",
+      "fuente": "Art. 126.2.b) TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "De acuerdo con el art. 126.4 TRRL, las relaciones de puestos de trabajo de las Entidades locales:",
+      "options": [
+        "Tendrán el contenido que libremente determine cada Corporación, sin sujeción a normas estatales",
+        "Tendrán en todo caso el contenido previsto en la legislación básica sobre función pública y se confeccionarán con arreglo a las normas previstas en el artículo 90.2 de la Ley 7/1985",
+        "Serán aprobadas por la Comunidad Autónoma a propuesta de la Corporación local"
+      ],
+      "correct": 1,
+      "exp": "El art. 126.4 TRRL remite el contenido de las relaciones de puestos de trabajo a la legislación básica sobre función pública y su confección a las normas previstas en el art. 90.2 de la Ley 7/1985.",
+      "fuente": "Art. 126.4 TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Una vez aprobada la plantilla y la relación de puestos de trabajo, el art. 127 TRRL exige remitir copia a la Administración del Estado y, en su caso, a la de la Comunidad Autónoma respectiva dentro del plazo de:",
+      "options": [
+        "Quince días",
+        "Treinta días",
+        "Dos meses"
+      ],
+      "correct": 1,
+      "exp": "El art. 127 TRRL fija un plazo de treinta días para la remisión de copia, sin perjuicio de la publicación íntegra de la plantilla y la relación de puestos de trabajo en el «Boletín Oficial de la Provincia», junto con el resumen del Presupuesto.",
+      "fuente": "Art. 127 TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Las Corporaciones locales aprobarán y publicarán anualmente la oferta de empleo público para el año correspondiente, según el art. 128.1 TRRL, dentro del plazo de:",
+      "options": [
+        "Un mes desde la aprobación de su Presupuesto",
+        "Tres meses desde el comienzo del ejercicio",
+        "Un mes desde la publicación íntegra de la plantilla en el Boletín Oficial de la Provincia"
+      ],
+      "correct": 0,
+      "exp": "El art. 128.1 TRRL impone aprobar y publicar la oferta de empleo público dentro del plazo de un mes desde la aprobación del Presupuesto, ajustándose a la legislación básica del Estado sobre función pública y a los criterios reglamentarios de coordinación con las ofertas de las demás Administraciones.",
+      "fuente": "Art. 128.1 TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 128.2 TRRL, no podrá nombrarse personal interino para plazas que no se hayan incluido en la oferta de empleo público:",
+      "options": [
+        "Sin excepción alguna",
+        "Salvo autorización expresa del Pleno de la Corporación",
+        "Salvo cuando se trate de vacantes realmente producidas con posterioridad a su aprobación"
+      ],
+      "correct": 2,
+      "exp": "El art. 128.2 TRRL admite como única excepción las vacantes realmente producidas con posterioridad a la aprobación de la oferta. Añade que el interino cesa automáticamente al tomar posesión los funcionarios de carrera aprobados en la respectiva convocatoria.",
+      "fuente": "Art. 128.2 TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Establecer los límites máximos y mínimos de las retribuciones complementarias de los funcionarios de Administración Local corresponde, según el art. 129.1.a) TRRL, a:",
+      "options": [
+        "El Gobierno, a propuesta del Ministro de Administración Territorial",
+        "El Ministerio de Administración Territorial",
+        "El Pleno de cada Corporación local"
+      ],
+      "correct": 0,
+      "exp": "El art. 129.1 TRRL atribuye al Gobierno, a propuesta del Ministro de Administración Territorial, tanto los límites máximos y mínimos de las retribuciones complementarias (letra a) como los límites generales a los gastos de personal (letra b) y las normas básicas específicas de la carrera administrativa (letra c).",
+      "fuente": "Art. 129.1.a) TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "La determinación del procedimiento de ingreso en las Subescalas de Administración Especial corresponde, conforme al art. 129.3 TRRL, a:",
+      "options": [
+        "El Ministerio de Administración Territorial",
+        "Los órganos de la Corporación local",
+        "La Comunidad Autónoma respectiva"
+      ],
+      "correct": 1,
+      "exp": "El art. 129.3 TRRL reserva a los órganos de la Corporación local, entre otras competencias, la aprobación de plantillas y relaciones de puestos de trabajo, el establecimiento de escalas, subescalas y clases y la determinación del procedimiento de ingreso en las Subescalas de Administración Especial; estos acuerdos deben comunicarse en el plazo de treinta días.",
+      "fuente": "Art. 129.3.c) TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 130.2 TRRL, son funcionarios de carrera de la Administración Local los que, en virtud de nombramiento legal, desempeñen servicios de carácter permanente en una Entidad local, figuren en las correspondientes plantillas y:",
+      "options": [
+        "Hayan superado un período de prácticas de dos años",
+        "Estén inscritos en el Registro Central de Personal de la Administración del Estado",
+        "Perciban sueldos o asignaciones fijas con cargo a las consignaciones de personal del presupuesto de las Corporaciones"
+      ],
+      "correct": 2,
+      "exp": "El art. 130.2 TRRL exige cuatro notas: nombramiento legal, servicios de carácter permanente, figurar en las plantillas y percibir sueldos o asignaciones fijas con cargo a las consignaciones de personal del presupuesto.",
+      "fuente": "Art. 130.2 TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "De acuerdo con el art. 131.1 TRRL, los funcionarios de carrera que no ocupen puestos de trabajo reservados a funcionarios con habilitación de carácter nacional se integrarán en:",
+      "options": [
+        "Los cuerpos y escalas de la Comunidad Autónoma respectiva",
+        "Un cuerpo único de funcionarios de Administración local de ámbito estatal",
+        "Las escalas, subescalas, clases y categorías de cada Corporación"
+      ],
+      "correct": 2,
+      "exp": "El art. 131.1 TRRL integra a estos funcionarios en las escalas, subescalas, clases y categorías de cada Corporación, con arreglo a lo previsto en el propio texto refundido.",
+      "fuente": "Art. 131.1 TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 131.2 TRRL, las subescalas, clases y categorías quedarán agrupadas, conforme a la legislación básica del Estado, en los grupos que ésta determine de acuerdo con:",
+      "options": [
+        "La titulación exigida para su ingreso",
+        "El nivel de complemento de destino asignado al puesto",
+        "La antigüedad media de sus integrantes"
+      ],
+      "correct": 0,
+      "exp": "El criterio de agrupación en grupos que emplea el art. 131.2 TRRL es la titulación exigida para el ingreso, remitiendo la determinación de los grupos a la legislación básica del Estado.",
+      "fuente": "Art. 131.2 TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 133 TRRL dispone que el procedimiento de selección de los funcionarios de Administración Local se ajustará a la legislación básica del Estado sobre función pública y se establecerá teniendo en cuenta la conexión entre el tipo de pruebas a superar y la adecuación a los puestos de trabajo que se hayan de desempeñar, incluyendo a tal efecto:",
+      "options": [
+        "Una entrevista personal, en todo caso",
+        "Las pruebas prácticas que sean precisas",
+        "Un curso selectivo de formación, en todo caso"
+      ],
+      "correct": 1,
+      "exp": "El art. 133 TRRL cierra el precepto exigiendo incluir «las pruebas prácticas que sean precisas» para garantizar la conexión entre las pruebas y los puestos a desempeñar.",
+      "fuente": "Art. 133 TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 134.1 TRRL, las convocatorias serán siempre libres, si bien podrá reservarse para promoción interna:",
+      "options": [
+        "Hasta un máximo del 25 por 100 de las plazas convocadas",
+        "Hasta un máximo del 50 por 100 de las plazas convocadas",
+        "Hasta un máximo del 40 por 100 de las plazas convocadas"
+      ],
+      "correct": 1,
+      "exp": "El art. 134.1 TRRL permite reservar hasta un máximo del 50 por 100 de las plazas convocadas para promoción interna, en favor de funcionarios que reúnan la titulación y los demás requisitos exigidos en la convocatoria.",
+      "fuente": "Art. 134.1 TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Entre los requisitos que el art. 135 TRRL exige para ser admitido a las pruebas de acceso a la Función Pública local figura estar en posesión del título exigible, o en condiciones de obtenerlo, en la fecha en que:",
+      "options": [
+        "Termine el plazo de presentación de instancias",
+        "Se celebre el primer ejercicio de la oposición",
+        "Se produzca la toma de posesión"
+      ],
+      "correct": 0,
+      "exp": "El art. 135.c) TRRL sitúa el momento de referencia de la titulación en la fecha en que termine el plazo de presentación de instancias, en cada caso.",
+      "fuente": "Art. 135.c) TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 136.1 TRRL, el nombramiento de los aspirantes que superen las pruebas establecidas y, en su caso, los correspondientes cursos selectivos corresponde a:",
+      "options": [
+        "El Pleno de la Corporación",
+        "El órgano de selección, mediante propuesta que se eleva a la Comunidad Autónoma",
+        "El Alcalde o Presidente, o el miembro de la Corporación que, por delegación de aquél, ostente la jefatura directa de personal"
+      ],
+      "correct": 2,
+      "exp": "El art. 136.1 TRRL atribuye el nombramiento al Alcalde o Presidente, o al miembro de la Corporación que por delegación ostente la jefatura directa de personal. El apartado 2 declara nulo el nombramiento de quienes estén incursos en causas de incapacidad específica, regla aplicable también al personal interino del art. 128.2.",
+      "fuente": "Art. 136.1 TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 137 TRRL establece que la condición de funcionario de carrera se adquiere por el cumplimiento sucesivo de determinados requisitos. ¿Cuál de los siguientes NO figura entre ellos?",
+      "options": [
+        "Superar un período de prueba de seis meses en el puesto adjudicado",
+        "Prestar juramento o promesa en la forma legalmente establecida",
+        "Tomar posesión dentro del plazo señalado reglamentariamente"
+      ],
+      "correct": 0,
+      "exp": "Los requisitos sucesivos del art. 137 TRRL son: superar las pruebas de selección y, en su caso, los cursos de formación preceptivos; nombramiento por la autoridad competente; prestar juramento o promesa; y tomar posesión dentro del plazo reglamentario. No se contempla ningún período de prueba de seis meses.",
+      "fuente": "Art. 137 TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuál de las siguientes NO es una causa de pérdida de la condición de funcionario de carrera de la Administración local enumerada en el art. 138.1 TRRL?",
+      "options": [
+        "La renuncia",
+        "La declaración de excedencia voluntaria por interés particular",
+        "La pérdida de la nacionalidad española"
+      ],
+      "correct": 1,
+      "exp": "El art. 138.1 TRRL enumera cinco causas: renuncia, pérdida de la nacionalidad española, sanción disciplinaria de separación del servicio, imposición de la pena de inhabilitación absoluta o especial y jubilación forzosa o voluntaria. La excedencia voluntaria es una situación administrativa (art. 140.1.c), no una causa de pérdida de la condición de funcionario.",
+      "fuente": "Art. 138.1 TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 139.1.c) TRRL, la jubilación tendrá lugar a instancia del interesado por haber cumplido:",
+      "options": [
+        "Sesenta y cinco años de edad y veinte años de servicios efectivos",
+        "Sesenta y dos años de edad y veinticinco años de servicios efectivos",
+        "Sesenta años de edad y treinta años de servicios efectivos"
+      ],
+      "correct": 2,
+      "exp": "El art. 139.1 TRRL prevé tres modalidades de jubilación: forzosa por cumplimiento de la edad; de oficio o a petición del interesado por incapacidad permanente; y a instancia del interesado por haber cumplido sesenta años de edad y haber completado treinta años de servicios efectivos.",
+      "fuente": "Art. 139.1.c) TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 139.2 TRRL, la jubilación forzosa se declarará de oficio al cumplir el funcionario:",
+      "options": [
+        "Los sesenta y cinco años de edad",
+        "Los sesenta y siete años de edad",
+        "Los setenta años de edad"
+      ],
+      "correct": 0,
+      "exp": "El art. 139.2 TRRL ordena declarar de oficio la jubilación forzosa al cumplir el funcionario los sesenta y cinco años de edad. El apartado 3 remite los derechos pasivos a su legislación específica, homologada a la de los funcionarios civiles del Estado.",
+      "fuente": "Art. 139.2 TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 140.1 TRRL enumera las situaciones en que pueden hallarse los funcionarios de carrera de la Administración local. ¿Cuál de las siguientes figura expresamente en dicha enumeración?",
+      "options": [
+        "Expectativa de destino",
+        "Servicio en Comunidades Autónomas",
+        "Excedencia por cuidado de familiares"
+      ],
+      "correct": 1,
+      "exp": "El art. 140.1 TRRL enumera cinco situaciones: servicio activo, servicio en Comunidades Autónomas, excedencia forzosa o voluntaria, servicios especiales y suspensión. Su apartado 2 las remite a la normativa básica estatal, a la legislación de función pública de la Comunidad Autónoma y, supletoriamente, a la de los funcionarios del Estado.",
+      "fuente": "Art. 140.1.b) TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 155.1 TRRL, el funcionario que preste sus servicios sucesivamente en distintos cuerpos o, en su caso, subescalas, clases o categorías:",
+      "options": [
+        "Tendrá derecho a seguir percibiendo los trienios devengados en los anteriores",
+        "Perderá los trienios devengados en los anteriores, que se computarán de nuevo desde el nuevo nombramiento",
+        "Conservará únicamente la mitad de los trienios devengados en los anteriores"
+      ],
+      "correct": 0,
+      "exp": "El art. 155.1 TRRL garantiza el derecho a seguir percibiendo los trienios devengados en los cuerpos, subescalas, clases o categorías anteriores. Además, el apartado 2 dispone que si el cambio se produce antes de completar un trienio, la fracción de tiempo transcurrido se considera prestada en el nuevo.",
+      "fuente": "Art. 155.1 TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "De acuerdo con el art. 156 TRRL, el disfrute de las retribuciones complementarias:",
+      "options": [
+        "Creará derechos adquiridos transcurridos dos años de percepción continuada",
+        "No creará derechos adquiridos en ningún caso, sin excepción alguna",
+        "No creará derechos adquiridos, salvo lo establecido legalmente respecto del grado consolidado en relación con el nivel de complemento de destino"
+      ],
+      "correct": 2,
+      "exp": "El art. 156 TRRL niega el carácter de derecho adquirido a las retribuciones complementarias, con la única salvedad de lo legalmente establecido respecto del grado consolidado en relación con el nivel de complemento de destino.",
+      "fuente": "Art. 156 TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 157 TRRL, en materia de indemnizaciones del personal al servicio de las Corporaciones locales:",
+      "options": [
+        "La indemnización por casa-habitación se reconoce a los funcionarios con habilitación de carácter nacional",
+        "En ningún caso habrá derecho a percibir indemnización por casa-habitación",
+        "La indemnización por casa-habitación la fija cada Corporación en su presupuesto"
+      ],
+      "correct": 1,
+      "exp": "El art. 157 TRRL equipara la ayuda familiar y las indemnizaciones por razón del servicio o por residencia a las del personal al servicio de la Administración del Estado y añade expresamente que en ningún caso habrá derecho a percibir indemnización por casa-habitación.",
+      "fuente": "Art. 157 TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 167.3 TRRL, la Escala de Administración Especial se divide en las Subescalas:",
+      "options": [
+        "Técnica, de Servicios Especiales y de Personal de Oficios",
+        "Técnica, Administrativa y de Servicios Especiales",
+        "Técnica y de Servicios Especiales"
+      ],
+      "correct": 2,
+      "exp": "El art. 167.3 TRRL divide la Escala de Administración Especial en solo dos subescalas: Técnica y de Servicios Especiales. El Personal de Oficios no es subescala, sino una de las clases de la Subescala de Servicios Especiales (art. 172.2.d).",
+      "fuente": "Art. 167.3 TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 167.4 TRRL, la creación de Escalas, Subescalas y clases de funcionarios y la clasificación de los mismos dentro de cada una de ellas se hará por:",
+      "options": [
+        "El Ministerio competente en materia de Administración Local",
+        "Cada Corporación, de acuerdo con lo previsto en el propio texto refundido",
+        "La Comunidad Autónoma en cuyo territorio radique la Entidad local"
+      ],
+      "correct": 1,
+      "exp": "El art. 167.4 TRRL atribuye a cada Corporación la creación de Escalas, Subescalas y clases y la clasificación de los funcionarios dentro de cada una de ellas, de acuerdo con lo previsto en la propia norma (en coherencia con el art. 129.3.b).",
+      "fuente": "Art. 167.4 TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 168 TRRL establece que la provisión de puestos de trabajo que, de conformidad con la relación aprobada, estén reservados o puedan ser desempeñados por funcionarios de carrera se regirá por las normas que dicte:",
+      "options": [
+        "La Administración del Estado, en desarrollo de la legislación básica en materia de función pública local",
+        "Cada Corporación local, en su reglamento orgánico",
+        "La Comunidad Autónoma respectiva, en todo caso"
+      ],
+      "correct": 0,
+      "exp": "El art. 168 TRRL remite la provisión de esos puestos a las normas que, en desarrollo de la legislación básica en materia de función pública local, dicte la Administración del Estado.",
+      "fuente": "Art. 168 TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 169.1.a) TRRL, pertenecerán a la Subescala Técnica de Administración General los funcionarios que realicen:",
+      "options": [
+        "Tareas de apoyo a las funciones de nivel superior",
+        "Tareas administrativas, normalmente de trámite y colaboración",
+        "Tareas de gestión, estudio y propuesta de carácter administrativo de nivel superior"
+      ],
+      "correct": 2,
+      "exp": "El art. 169.1.a) TRRL define la Subescala Técnica de Administración General por las tareas de gestión, estudio y propuesta de carácter administrativo de nivel superior. Las tareas de apoyo a las funciones de nivel superior corresponden a la subescala de gestión (letra b) y las de trámite y colaboración a la administrativa (letra c).",
+      "fuente": "Art. 169.1.a) TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 169.1 TRRL, los funcionarios que realizan tareas administrativas, normalmente de trámite y colaboración, pertenecen a la:",
+      "options": [
+        "Subescala Administrativa de Administración General",
+        "Subescala de Gestión de Administración General",
+        "Subescala Auxiliar de Administración General"
+      ],
+      "correct": 0,
+      "exp": "El art. 169.1.c) TRRL adscribe a la Subescala Administrativa de Administración General a los funcionarios que realizan tareas administrativas, normalmente de trámite y colaboración.",
+      "fuente": "Art. 169.1.c) TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 169.1.d) TRRL, pertenecerán a la Subescala Auxiliar de Administración General los funcionarios que realicen tareas de:",
+      "options": [
+        "Vigilancia y custodia interior de oficinas, así como misiones de Conserje, Ujier o Portero",
+        "Mecanografía, taquigrafía, despacho de correspondencia, cálculo sencillo, manejo de máquinas, archivo de documentos y otros similares",
+        "Apoyo a las funciones de nivel superior"
+      ],
+      "correct": 1,
+      "exp": "El art. 169.1.d) TRRL describe la Subescala Auxiliar por las tareas de mecanografía, taquigrafía, despacho de correspondencia, cálculo sencillo, manejo de máquinas, archivo de documentos y otras similares. La vigilancia y custodia interior corresponde a la Subescala de Subalternos (letra e).",
+      "fuente": "Art. 169.1.d) TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Los funcionarios que realizan tareas de vigilancia y custodia interior de oficinas, así como misiones de Conserje, Ujier, Portero u otras análogas en edificios y servicios de la Corporación, pertenecen, según el art. 169.1.e) TRRL, a la:",
+      "options": [
+        "Subescala Auxiliar de Administración General",
+        "Subescala de Servicios Especiales, clase de Personal de Oficios",
+        "Subescala de Subalternos de Administración General"
+      ],
+      "correct": 2,
+      "exp": "El art. 169.1.e) TRRL define así la Subescala de Subalternos de Administración General y añade que podrá establecerse la normativa adecuada para que sus puestos puedan ser desempeñados por funcionarios de Servicios Especiales que, por edad u otras razones, tengan disminuida su capacidad para misiones de particular esfuerzo o penosidad pero conserven la requerida para las tareas de Subalterno.",
+      "fuente": "Art. 169.1.e) TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 169.2.a) TRRL, para el ingreso en la Subescala Técnica de Administración General, que se hará por oposición libre, se reservará para promoción interna:",
+      "options": [
+        "El 25 por 100 de los puestos de trabajo, para Administrativos de la propia Corporación que posean la titulación indicada y cuenten, como mínimo, con cinco años de servicios en la Subescala de procedencia",
+        "El 50 por 100 de los puestos de trabajo, para Administrativos de la propia Corporación que cuenten con tres años de servicios",
+        "El 25 por 100 de los puestos de trabajo, para funcionarios de cualquier subescala que cuenten con diez años de servicios"
+      ],
+      "correct": 0,
+      "exp": "El art. 169.2.a) TRRL exige para la Subescala Técnica de Administración General oposición libre y titulación de Licenciado en Derecho, en Ciencias Políticas, Económicas o Empresariales, Intendente Mercantil o Actuario, reservando el 25 por 100 de los puestos para promoción interna de Administrativos de la propia Corporación con la titulación indicada y un mínimo de cinco años de servicios en la subescala de procedencia.",
+      "fuente": "Art. 169.2.a) TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 169.2.b) TRRL, el ingreso en la Subescala Administrativa de Administración General se hará por oposición libre y se precisará estar en posesión del título de:",
+      "options": [
+        "Graduado Escolar, Formación Profesional de primer grado, o equivalente",
+        "Bachiller, Formación Profesional de segundo grado, o equivalente",
+        "Diplomado universitario, Ingeniero Técnico o equivalente"
+      ],
+      "correct": 1,
+      "exp": "El art. 169.2.b) TRRL exige el título de Bachiller, Formación Profesional de segundo grado o equivalente, reservando además el 50 por 100 de los puestos existentes para promoción interna de los pertenecientes a la Subescala de Auxiliares de Administración General que posean esa titulación y cuenten con cinco años de servicios en la subescala.",
+      "fuente": "Art. 169.2.b) TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 169.2.c) TRRL, el ingreso en la Subescala Auxiliar de Administración General se hará por oposición libre, con exigencia, en todo caso, de:",
+      "options": [
+        "El certificado de escolaridad",
+        "El título de Bachiller o Formación Profesional de segundo grado",
+        "El título de Graduado Escolar, Formación Profesional de primer grado, o equivalente"
+      ],
+      "correct": 2,
+      "exp": "El art. 169.2.c) TRRL exige en todo caso el título de Graduado Escolar, Formación Profesional de primer grado o equivalente. El certificado de escolaridad se exige para la Subescala Subalterna (letra d).",
+      "fuente": "Art. 169.2.c) TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 169.2.d) TRRL prevé que el ingreso en la Subescala Subalterna se hará por concurso, oposición o concurso-oposición libre, según acuerdo de la Corporación, y con exigencia de:",
+      "options": [
+        "El título de Graduado Escolar o equivalente",
+        "El certificado de escolaridad",
+        "Ninguna titulación ni acreditación académica"
+      ],
+      "correct": 1,
+      "exp": "El art. 169.2.d) TRRL es la única letra del precepto que no impone oposición libre como sistema único: admite concurso, oposición o concurso-oposición libre según acuerdo de la Corporación, exigiendo el certificado de escolaridad.",
+      "fuente": "Art. 169.2.d) TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 170.1 TRRL, tendrán la consideración de funcionarios de Administración Especial:",
+      "options": [
+        "Los que tengan atribuido el desempeño de las funciones que constituyen el objeto peculiar de una carrera, profesión, arte u oficio",
+        "Los que desempeñen funciones comunes al ejercicio de la actividad administrativa",
+        "Los que ocupen puestos de trabajo reservados a funcionarios con habilitación de carácter nacional"
+      ],
+      "correct": 0,
+      "exp": "El art. 170.1 TRRL define a los funcionarios de Administración Especial por el desempeño de las funciones que constituyen el objeto peculiar de una carrera, profesión, arte u oficio, frente a las funciones comunes de la actividad administrativa propias de la Escala de Administración General (art. 169.1).",
+      "fuente": "Art. 170.1 TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 175 bis TRRL, añadido por la Ley 4/2024, de 8 de noviembre, dispone que se integrarán en la clase de agentes forestales y medioambientales las personas funcionarias que tengan asignadas funciones de:",
+      "options": [
+        "Extinción de incendios y salvamento en el medio natural",
+        "Cometidos especiales de carácter predominantemente no manual en materia ambiental",
+        "Vigilancia, policía y custodia de bienes medioambientales y forestales"
+      ],
+      "correct": 2,
+      "exp": "El art. 175 bis TRRL integra en esa clase a las personas funcionarias con funciones de vigilancia, policía y custodia de bienes medioambientales y forestales, y exige para el acceso disponer de la titulación correspondiente en función del subgrupo de clasificación del TREBEP en el que se incluya la categoría.",
+      "fuente": "Art. 175 bis TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 171.1 TRRL, en atención al carácter y nivel del título exigido, los funcionarios de la Subescala Técnica de Administración Especial se dividen en:",
+      "options": [
+        "Técnicos Superiores, Medios y Auxiliares",
+        "Técnicos Superiores y Técnicos Medios",
+        "Técnicos Superiores, Medios, Auxiliares y Subalternos"
+      ],
+      "correct": 0,
+      "exp": "El art. 171.1 TRRL divide la Subescala Técnica de Administración Especial en Técnicos Superiores, Medios y Auxiliares, pudiendo cada clase comprender distintas ramas y especialidades. Su ingreso se hará por oposición, concurso o concurso-oposición libre, según acuerde la Corporación (art. 171.2).",
+      "fuente": "Art. 171.1 TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 172.2 TRRL, se comprenden en la Subescala de Servicios Especiales, sin perjuicio de las peculiaridades de cada Corporación, las clases siguientes:",
+      "options": [
+        "Policía Local y sus auxiliares; Servicio de Extinción de Incendios; y Personal de Oficios, únicamente",
+        "Policía Local y sus auxiliares; Servicio de Extinción de Incendios; Plazas de Cometidos Especiales; Personal de Oficios; y Agentes forestales y medioambientales",
+        "Técnicos Superiores, Técnicos Medios y Técnicos Auxiliares"
+      ],
+      "correct": 1,
+      "exp": "El art. 172.2 TRRL enumera cinco clases: Policía Local y sus auxiliares, Servicio de Extinción de Incendios, Plazas de Cometidos Especiales, Personal de Oficios y Agentes forestales y medioambientales (letra e añadida por la Ley 4/2024, de 8 de noviembre).",
+      "fuente": "Art. 172.2 TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 174 TRRL, se comprenderán en la clase de cometidos especiales el personal de las Bandas de Música y los restantes funcionarios que realicen tareas:",
+      "options": [
+        "De carácter predominantemente manual referidas a un determinado oficio, industria o arte",
+        "De carácter predominantemente no manual, no comprendidas en el artículo 171.1, en las diversas ramas o sectores de actuación de las Corporaciones locales",
+        "De vigilancia y custodia interior de oficinas y edificios de la Corporación"
+      ],
+      "correct": 1,
+      "exp": "El art. 174 TRRL delimita la clase de cometidos especiales por las tareas de carácter predominantemente no manual no comprendidas en el art. 171.1, subdividiéndolas en categorías según el nivel de titulación exigido. Las tareas predominantemente manuales corresponden al Personal de Oficios (art. 175.1).",
+      "fuente": "Art. 174 TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 175.2 TRRL clasifica al Personal de Oficios, dentro de cada oficio, industria o arte y según el grado de responsabilidad o de especialización, en:",
+      "options": [
+        "Encargado, Maestro, Oficial, Ayudante y Operario",
+        "Jefe, Encargado, Oficial y Peón",
+        "Maestro, Oficial de primera, Oficial de segunda y Operario"
+      ],
+      "correct": 0,
+      "exp": "El art. 175.2 TRRL establece cinco categorías: Encargado, Maestro, Oficial, Ayudante y Operario, siendo necesario en todo caso poseer la titulación exigida para el ingreso conforme a la legislación básica de función pública.",
+      "fuente": "Art. 175.2 TRRL (RDLeg 781/1986)",
+      "confianza": "alta"
+    }
+  ]
+}
