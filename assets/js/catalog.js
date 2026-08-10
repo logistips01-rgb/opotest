@@ -22,9 +22,9 @@
       color:'#c8102e',
       // el primero es el banco base; tools/fusionar.js añade aquí
       // los archivos de ampliación cuando los crea
-      files:['data/aux-admin-zaragoza.js'],
+      files:['data/aux-admin-zaragoza.js', 'data/aux-admin-zaragoza.ampliacion.js'],
       // nº aproximado de preguntas; se corrige solo al abrir la oposición
-      preguntas:2581
+      preguntas:2601
     },
     {
       slug:'policia-local-zaragoza',
