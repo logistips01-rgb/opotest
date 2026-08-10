@@ -3170,3 +3170,487 @@ window.addQuestions('aux-admin-zaragoza', 20, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 20 · lote 2026-08-10 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 20, [
+  {
+    "q": "Conforme al artículo 1 del Reglamento de los Servicios de Prevención, la prevención de riesgos laborales deberá integrarse en el sistema general de gestión de la empresa a través de:",
+    "options": [
+      "La implantación y aplicación de un plan de prevención de riesgos laborales.",
+      "La suscripción obligatoria de un concierto con un servicio de prevención ajeno acreditado.",
+      "La constitución de un comité de seguridad y salud en cada uno de sus centros de trabajo."
+    ],
+    "correct": 0,
+    "exp": "El art. 1.1 RD 39/1997 dispone que la prevención de riesgos laborales deberá integrarse en el sistema general de gestión de la empresa, comprendiendo tanto el conjunto de las actividades como todos sus niveles jerárquicos, a través de la implantación y aplicación de un plan de prevención de riesgos laborales.",
+    "fuente": "Art. 1.1 RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el Reglamento de los Servicios de Prevención, el Plan de prevención de riesgos laborales:",
+    "options": [
+      "Debe ser aprobado por el Comité de Seguridad y Salud y ratificado por la autoridad laboral competente.",
+      "Debe ser elaborado y aprobado por el servicio de prevención ajeno con el que la empresa concierte la actividad preventiva.",
+      "Debe ser aprobado por la dirección de la empresa, asumido por toda su estructura organizativa y conocido por todos sus trabajadores."
+    ],
+    "correct": 2,
+    "exp": "El art. 2.1, párrafo segundo, RD 39/1997 establece que el Plan de prevención debe ser aprobado por la dirección de la empresa, asumido por toda su estructura organizativa, en particular por todos sus niveles jerárquicos, y conocido por todos sus trabajadores.",
+    "fuente": "Art. 2.1 RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El Reglamento de los Servicios de Prevención permite reflejar en un único documento el plan de prevención, la evaluación de riesgos y la planificación de la actividad preventiva a:",
+    "options": [
+      "Las empresas de hasta 50 trabajadores que no desarrollen actividades del anexo I.",
+      "Todas las empresas de hasta 100 trabajadores, cualquiera que sea su actividad.",
+      "Únicamente a las empresas en que el empresario haya asumido personalmente la actividad preventiva."
+    ],
+    "correct": 0,
+    "exp": "El art. 2.4 RD 39/1997 (añadido por el RD 337/2010) permite a las empresas de hasta 50 trabajadores que no desarrollen actividades del anexo I reflejar en un único documento, de extensión reducida y fácil comprensión, el plan de prevención, la evaluación de riesgos y la planificación de la actividad preventiva.",
+    "fuente": "Art. 2.4 RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el artículo 3 del Reglamento de los Servicios de Prevención, la evaluación de los riesgos laborales se define como el proceso dirigido a:",
+    "options": [
+      "Investigar las causas de los accidentes de trabajo ya producidos en la empresa y depurar responsabilidades.",
+      "Estimar la magnitud de aquellos riesgos que no hayan podido evitarse, obteniendo la información necesaria para que el empresario esté en condiciones de tomar una decisión apropiada sobre la necesidad de adoptar medidas preventivas.",
+      "Comprobar el estado de salud de los trabajadores expuestos a riesgos de naturaleza higiénica."
+    ],
+    "correct": 1,
+    "exp": "El art. 3.1 RD 39/1997 define la evaluación de riesgos como el proceso dirigido a estimar la magnitud de aquellos riesgos que no hayan podido evitarse, obteniendo la información necesaria para que el empresario esté en condiciones de tomar una decisión apropiada sobre la necesidad de adoptar medidas preventivas y, en tal caso, sobre el tipo de medidas que deben adoptarse.",
+    "fuente": "Art. 3.1 RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 3 del Reglamento de los Servicios de Prevención, sobre el procedimiento de evaluación a utilizar en la empresa o centro de trabajo el empresario deberá:",
+    "options": [
+      "Solicitar autorización previa a la Inspección de Trabajo y Seguridad Social.",
+      "Someterlo a la aprobación de la administración sanitaria competente.",
+      "Consultar a los representantes de los trabajadores, o a los propios trabajadores en ausencia de representantes."
+    ],
+    "correct": 2,
+    "exp": "El art. 3.2 RD 39/1997, de acuerdo con el art. 33 LPRL, obliga al empresario a consultar a los representantes de los trabajadores, o a los propios trabajadores en ausencia de representantes, acerca del procedimiento de evaluación a utilizar en la empresa o centro de trabajo.",
+    "fuente": "Art. 3.2 RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "A partir de la evaluación inicial, el artículo 4 del Reglamento de los Servicios de Prevención obliga a volver a evaluar los puestos de trabajo que puedan verse afectados por:",
+    "options": [
+      "La elección de equipos de trabajo, sustancias o preparados químicos, la introducción de nuevas tecnologías o la modificación en el acondicionamiento de los lugares de trabajo.",
+      "El cambio de titularidad de la empresa o la modificación de su denominación social.",
+      "La renovación anual del concierto suscrito con el servicio de prevención ajeno."
+    ],
+    "correct": 0,
+    "exp": "El art. 4.2.a) RD 39/1997 obliga a volver a evaluar los puestos afectados por la elección de equipos de trabajo, sustancias o preparados químicos, la introducción de nuevas tecnologías o la modificación en el acondicionamiento de los lugares de trabajo; también por el cambio en las condiciones de trabajo y por la incorporación de un trabajador especialmente sensible.",
+    "fuente": "Art. 4.2.a) RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando la evaluación exija mediciones, análisis o ensayos y la normativa no concrete los métodos que deben emplearse, el Reglamento de los Servicios de Prevención permite utilizar, si existen, los métodos o criterios recogidos en:",
+    "options": [
+      "Exclusivamente las normas UNE aprobadas por la asociación española de normalización.",
+      "Únicamente los protocolos aprobados por la Comisión Nacional de Seguridad y Salud en el Trabajo.",
+      "Normas UNE; guías del Instituto Nacional de Seguridad e Higiene en el Trabajo y del Instituto Nacional de Silicosis; y normas internacionales."
+    ],
+    "correct": 2,
+    "exp": "El art. 5.3 RD 39/1997 enumera, por este orden, las normas UNE; las guías del INSHT, del Instituto Nacional de Silicosis y los protocolos y guías del Ministerio de Sanidad y Consumo y de las instituciones competentes de las Comunidades Autónomas; las normas internacionales; y, en ausencia de los anteriores, guías de otras entidades de reconocido prestigio.",
+    "fuente": "Art. 5.3 RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Al margen de los supuestos de revisión obligatoria, ¿con qué periodicidad debe revisarse la evaluación inicial de riesgos según el Reglamento de los Servicios de Prevención?",
+    "options": [
+      "Con la periodicidad que se acuerde entre la empresa y los representantes de los trabajadores.",
+      "Cada tres años en todo caso, y cada año en las actividades del anexo I.",
+      "Anualmente, coincidiendo con la elaboración de la memoria del servicio de prevención."
+    ],
+    "correct": 0,
+    "exp": "El art. 6.2 RD 39/1997 dispone que la evaluación inicial deberá revisarse con la periodicidad que se acuerde entre la empresa y los representantes de los trabajadores, teniendo en cuenta en particular el deterioro por el transcurso del tiempo de los elementos que integran el proceso productivo.",
+    "fuente": "Art. 6.2 RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 7 del Reglamento de los Servicios de Prevención, en la documentación de la evaluación debe reflejarse, para cada puesto de trabajo cuya evaluación ponga de manifiesto la necesidad de tomar alguna medida preventiva:",
+    "options": [
+      "El coste económico estimado de cada medida preventiva y su imputación presupuestaria.",
+      "El riesgo o riesgos existentes y la relación de trabajadores afectados.",
+      "La identidad del Delegado de Prevención que haya participado en la evaluación."
+    ],
+    "correct": 1,
+    "exp": "El art. 7.b) RD 39/1997 exige reflejar el riesgo o riesgos existentes y la relación de trabajadores afectados, junto con la identificación del puesto, el resultado de la evaluación y las medidas preventivas procedentes, y la referencia de los criterios, procedimientos y métodos utilizados.",
+    "fuente": "Art. 7.b) RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando el resultado de la evaluación ponga de manifiesto situaciones de riesgo, el empresario planificará la actividad preventiva conforme a un orden de prioridades establecido en función de:",
+    "options": [
+      "El coste de las medidas correctoras y la disponibilidad presupuestaria de la empresa.",
+      "La antigüedad de los trabajadores afectados en sus respectivos puestos de trabajo.",
+      "La magnitud de los riesgos y el número de trabajadores expuestos a los mismos."
+    ],
+    "correct": 2,
+    "exp": "El art. 8 RD 39/1997 establece que el empresario planificará la actividad preventiva conforme a un orden de prioridades en función de la magnitud de los riesgos y del número de trabajadores expuestos a los mismos.",
+    "fuente": "Art. 8 RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 9 del Reglamento de los Servicios de Prevención, si el período en que se desarrolle la actividad preventiva planificada es superior a un año:",
+    "options": [
+      "Deberá establecerse un programa anual de actividades.",
+      "Deberá someterse la planificación a auditoría externa con carácter previo.",
+      "Deberá comunicarse la planificación a la autoridad laboral antes de su ejecución."
+    ],
+    "correct": 0,
+    "exp": "El art. 9.3 RD 39/1997 exige planificar la actividad preventiva para un período determinado y, cuando ese período sea superior a un año, establecer un programa anual de actividades.",
+    "fuente": "Art. 9.3 RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El Reglamento de los Servicios de Prevención señala que los servicios de prevención tendrán carácter interdisciplinario, entendiendo como tal:",
+    "options": [
+      "La participación conjunta de la empresa y de los representantes de los trabajadores en la actividad preventiva.",
+      "La conjunción coordinada de dos o más disciplinas técnicas o científicas en materia de prevención de riesgos laborales.",
+      "La actuación simultánea de un servicio de prevención propio y de uno ajeno en la misma empresa."
+    ],
+    "correct": 1,
+    "exp": "El art. 10.3 RD 39/1997 define el carácter interdisciplinario de los servicios de prevención como la conjunción coordinada de dos o más disciplinas técnicas o científicas en materia de prevención de riesgos laborales.",
+    "fuente": "Art. 10.3 RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Además de los requisitos de plantilla y de actividad, ¿qué otra circunstancia exige el artículo 11 del Reglamento de los Servicios de Prevención para que el empresario pueda asumir personalmente la actividad preventiva?",
+    "options": [
+      "Que la empresa no tenga constituido comité de seguridad y salud.",
+      "Que haya obtenido autorización previa de la autoridad laboral competente.",
+      "Que desarrolle de forma habitual su actividad profesional en el centro de trabajo."
+    ],
+    "correct": 2,
+    "exp": "El art. 11.1.c) RD 39/1997 exige que el empresario desarrolle de forma habitual su actividad profesional en el centro de trabajo; la letra d) añade que tenga la capacidad correspondiente a las funciones preventivas que va a desarrollar, de acuerdo con el capítulo VI.",
+    "fuente": "Art. 11.1.c) RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando el empresario asume personalmente la actividad preventiva, la vigilancia de la salud de los trabajadores:",
+    "options": [
+      "Queda excluida de esa asunción personal y deberá cubrirse mediante alguna de las restantes modalidades de organización preventiva.",
+      "Podrá ser asumida por el propio empresario si acredita la formación de nivel básico.",
+      "Solo será exigible si así lo acuerda el Comité de Seguridad y Salud de la empresa."
+    ],
+    "correct": 0,
+    "exp": "El art. 11.1 RD 39/1997 excluye expresamente de la asunción personal las actividades relativas a la vigilancia de la salud, y el art. 11.2 dispone que esta, así como las demás actividades preventivas no asumidas personalmente, deberán cubrirse mediante alguna de las restantes modalidades de organización preventiva previstas en el capítulo III.",
+    "fuente": "Art. 11.2 RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 14 del Reglamento de los Servicios de Prevención, el empresario deberá constituir un servicio de prevención propio cuando se trate de empresas de entre 250 y 500 trabajadores que:",
+    "options": [
+      "Cuenten con más de un centro de trabajo en distintas provincias.",
+      "Hayan sido sancionadas por infracción grave en materia de prevención de riesgos laborales.",
+      "Desarrollen alguna de las actividades incluidas en el anexo I."
+    ],
+    "correct": 2,
+    "exp": "El art. 14.b) RD 39/1997 obliga a constituir servicio de prevención propio a las empresas de entre 250 y 500 trabajadores que desarrollen alguna de las actividades incluidas en el anexo I.",
+    "fuente": "Art. 14.b) RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando la autoridad laboral decida que una empresa debe constituir un servicio de prevención propio en atención a la peligrosidad de su actividad o a su siniestralidad, la resolución fijará un plazo para su constitución que:",
+    "options": [
+      "No podrá ser inferior a dos años desde la notificación de la resolución.",
+      "No será superior a un año.",
+      "Será de seis meses, prorrogable por otros seis a instancia de la empresa."
+    ],
+    "correct": 1,
+    "exp": "El art. 14, párrafo final, RD 39/1997 dispone que, teniendo en cuenta las circunstancias existentes, la resolución de la autoridad laboral fijará un plazo no superior a un año para que, en caso de optarse por un servicio de prevención propio, la empresa lo constituya.",
+    "fuente": "Art. 14, párrafo final, RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Respecto de la organización de los servicios de prevención propios, el Reglamento de los Servicios de Prevención establece que:",
+    "options": [
+      "Constituirán una unidad organizativa específica y sus integrantes dedicarán de forma exclusiva su actividad en la empresa a la finalidad del mismo.",
+      "Podrán integrarse en el departamento de recursos humanos, compatibilizando sus integrantes las tareas preventivas con otras funciones.",
+      "Deberán estar dirigidos necesariamente por un médico especialista en medicina del trabajo."
+    ],
+    "correct": 0,
+    "exp": "El art. 15.1 RD 39/1997 exige que el servicio de prevención propio constituya una unidad organizativa específica y que sus integrantes dediquen de forma exclusiva su actividad en la empresa a la finalidad del mismo.",
+    "fuente": "Art. 15.1 RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Con cuántas especialidades o disciplinas preventivas debe contar, como mínimo, un servicio de prevención propio?",
+    "options": [
+      "Con una, la correspondiente al riesgo predominante en la empresa.",
+      "Con las cuatro especialidades o disciplinas preventivas.",
+      "Con dos de las especialidades o disciplinas preventivas previstas en el artículo 34."
+    ],
+    "correct": 2,
+    "exp": "El art. 15.2, párrafo segundo, RD 39/1997 exige que el servicio de prevención propio cuente como mínimo con dos de las especialidades o disciplinas preventivas previstas en el art. 34, desarrolladas por expertos con la capacitación requerida, además del personal necesario con capacitación de nivel básico e intermedio.",
+    "fuente": "Art. 15.2 RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La memoria y programación anual del servicio de prevención propio, según el Reglamento de los Servicios de Prevención:",
+    "options": [
+      "Se remitirá cada año a la Inspección de Trabajo y Seguridad Social para su aprobación.",
+      "Se elaborará anualmente por la empresa y se mantendrá a disposición de las autoridades laborales y sanitarias competentes y del comité de seguridad y salud.",
+      "Se elaborará cada dos años y bastará con conservarla en el archivo del servicio de prevención."
+    ],
+    "correct": 1,
+    "exp": "El art. 15.5 RD 39/1997 obliga a la empresa a elaborar anualmente y mantener a disposición de las autoridades laborales y sanitarias competentes y del comité de seguridad y salud la memoria y programación anual del servicio de prevención a que se refiere el art. 39.2.d) LPRL.",
+    "fuente": "Art. 15.5 RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Antes de adoptar la decisión de concertar la actividad preventiva con uno o varios servicios de prevención ajenos, el empresario debe:",
+    "options": [
+      "Comunicarlo a la autoridad laboral con una antelación mínima de quince días.",
+      "Obtener el acuerdo mayoritario de la plantilla en votación secreta.",
+      "Consultar a los representantes de los trabajadores con carácter previo."
+    ],
+    "correct": 2,
+    "exp": "El art. 16.2 RD 39/1997, de conformidad con el art. 33.1 LPRL, exige que los representantes de los trabajadores sean consultados por el empresario con carácter previo a la adopción de la decisión de concertar la actividad preventiva con uno o varios servicios de prevención ajenos; además, los criterios de selección y las características técnicas del concierto se debatirán en el seno del Comité de Seguridad y Salud.",
+    "fuente": "Art. 16.2 RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Las entidades especializadas acreditadas como servicios de prevención ajenos deben contar, en todo caso, con:",
+    "options": [
+      "Al menos dos de las cuatro especialidades preventivas, a elección de la entidad.",
+      "Las especialidades de medicina del trabajo, seguridad en el trabajo, higiene industrial, y ergonomía y psicosociología aplicada.",
+      "Las especialidades de seguridad en el trabajo e higiene industrial, siendo optativas las restantes."
+    ],
+    "correct": 1,
+    "exp": "El art. 18.2.a) RD 39/1997 exige que las entidades especializadas acreditadas como servicios de prevención ajenos cuenten con las cuatro especialidades o disciplinas preventivas: medicina del trabajo, seguridad en el trabajo, higiene industrial, y ergonomía y psicosociología aplicada.",
+    "fuente": "Art. 18.2.a) RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 21 del Reglamento de los Servicios de Prevención, las empresas que tengan obligación legal de disponer de un servicio de prevención propio:",
+    "options": [
+      "Pueden integrarse en cualquier servicio de prevención mancomunado si lo autoriza la autoridad laboral.",
+      "No podrán formar parte de servicios de prevención mancomunados constituidos para las empresas de un determinado sector, aunque sí de los constituidos para empresas del mismo grupo.",
+      "Quedan excluidas en todo caso de cualquier servicio de prevención mancomunado."
+    ],
+    "correct": 1,
+    "exp": "El art. 21.1, párrafo tercero, RD 39/1997 dispone que las empresas obligadas legalmente a disponer de servicio de prevención propio no podrán formar parte de servicios mancomunados constituidos para las empresas de un determinado sector, aunque sí de los constituidos para empresas del mismo grupo.",
+    "fuente": "Art. 21.1 RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Los servicios de prevención mancomunados, tengan o no personalidad jurídica diferenciada:",
+    "options": [
+      "Tienen la consideración de servicios de prevención ajenos y deben ser acreditados como tales.",
+      "Tienen la consideración de servicios propios y habrán de contar con, al menos, dos especialidades preventivas.",
+      "Tienen la consideración de servicios propios de las empresas que los constituyan y habrán de contar con, al menos, tres especialidades o disciplinas preventivas."
+    ],
+    "correct": 2,
+    "exp": "El art. 21.3 RD 39/1997 establece que los servicios mancomunados, tengan o no personalidad jurídica diferenciada, tendrán la consideración de servicios propios de las empresas que los constituyan y habrán de contar con, al menos, tres especialidades o disciplinas preventivas.",
+    "fuente": "Art. 21.3 RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "A efectos de la presencia de recursos preventivos, el Reglamento de los Servicios de Prevención entiende por «espacio confinado»:",
+    "options": [
+      "El recinto con aberturas limitadas de entrada y salida y ventilación natural desfavorable, en el que pueden acumularse contaminantes tóxicos o inflamables o puede haber una atmósfera deficiente en oxígeno, y que no está concebido para su ocupación continuada por los trabajadores.",
+      "Todo local de trabajo cuya superficie libre por trabajador sea inferior a dos metros cuadrados.",
+      "Cualquier recinto subterráneo en el que se realicen trabajos de excavación o movimiento de tierras."
+    ],
+    "correct": 0,
+    "exp": "El art. 22 bis.1.b).4.º RD 39/1997 define el espacio confinado como el recinto con aberturas limitadas de entrada y salida y ventilación natural desfavorable, en el que pueden acumularse contaminantes tóxicos o inflamables o puede haber una atmósfera deficiente en oxígeno, y que no está concebido para su ocupación continuada por los trabajadores.",
+    "fuente": "Art. 22 bis.1.b).4.º RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En la solicitud de acreditación como servicio de prevención ajeno debe constar el compromiso de tener suscrita una póliza de seguro o garantía financiera equivalente que cubra su responsabilidad por una cuantía mínima de:",
+    "options": [
+      "900.000 euros.",
+      "1.841.000 euros.",
+      "3.000.000 de euros."
+    ],
+    "correct": 1,
+    "exp": "El art. 23.f) RD 39/1997, en la redacción dada por el RD 899/2015, fija en 1.841.000 euros la cuantía mínima de la póliza o garantía financiera equivalente, sin que dicha cuantía constituya el límite de la responsabilidad del servicio.",
+    "fuente": "Art. 23.f) RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En qué plazo debe dictarse y notificarse la resolución sobre la solicitud de acreditación de una entidad especializada como servicio de prevención ajeno?",
+    "options": [
+      "En el plazo de tres meses, ampliable a seis meses cuando deba recabarse informe preceptivo de otras comunidades autónomas.",
+      "En el plazo de un mes, improrrogable.",
+      "En el plazo de seis meses, sin posibilidad de ampliación."
+    ],
+    "correct": 0,
+    "exp": "El art. 25.5 RD 39/1997 fija un plazo de tres meses desde la entrada de la solicitud en el registro del órgano competente, ampliable a seis meses en el supuesto del apartado 3 (informe preceptivo de las comunidades autónomas donde radiquen instalaciones). Transcurrido el plazo sin resolución expresa, la solicitud podrá entenderse desestimada.",
+    "fuente": "Art. 25.5 RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Las entidades especializadas acreditadas deben comunicar a la autoridad laboral competente cualquier variación que pudiera afectar a sus requisitos de funcionamiento en un plazo máximo de:",
+    "options": [
+      "Un mes.",
+      "Diez días.",
+      "Veinticuatro horas."
+    ],
+    "correct": 1,
+    "exp": "El art. 26.1, párrafo segundo, RD 39/1997 obliga a las entidades especializadas a comunicar a la autoridad laboral competente, a través de los correspondientes registros, cualquier variación que pudiera afectar a los requisitos de funcionamiento, en un plazo máximo de diez días.",
+    "fuente": "Art. 26.1 RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Los órganos que gestionan el registro de entidades especializadas acreditadas deben enviar copia de todo asiento practicado en sus registros a la Dirección General de Empleo en el plazo de:",
+    "options": [
+      "Un mes.",
+      "Quince días naturales.",
+      "Ocho días hábiles."
+    ],
+    "correct": 2,
+    "exp": "El art. 28.4 RD 39/1997 establece que los órganos a que se refiere el apartado 1 enviarán a la Dirección General de Empleo, en el plazo de ocho días hábiles, copia de todo asiento practicado en sus respectivos registros.",
+    "fuente": "Art. 28.4 RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Se considera cumplida la obligación de someterse a auditoría, mediante la remisión a la autoridad laboral de la notificación del anexo II, en el caso de:",
+    "options": [
+      "Las empresas de hasta 50 trabajadores cuyas actividades no estén incluidas en el anexo I que desarrollen las actividades preventivas con recursos propios y en las que la eficacia del sistema preventivo resulte evidente.",
+      "Todas las empresas de hasta 250 trabajadores que hayan designado trabajadores para la actividad preventiva.",
+      "Las empresas que hayan concertado la totalidad de la actividad preventiva con un servicio de prevención ajeno."
+    ],
+    "correct": 0,
+    "exp": "El art. 29.3 RD 39/1997 (redacción del RD 337/2010) permite a las empresas de hasta 50 trabajadores cuyas actividades no estén incluidas en el anexo I, que desarrollen las actividades preventivas con recursos propios y en las que la eficacia del sistema preventivo resulte evidente, cumplir la obligación de auditoría remitiendo a la autoridad laboral la notificación según el modelo del anexo II.",
+    "fuente": "Art. 29.3 RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El Reglamento de los Servicios de Prevención define la auditoría como un instrumento de gestión que persigue:",
+    "options": [
+      "Certificar el cumplimiento de las normas UNE de gestión de la prevención por parte de la empresa.",
+      "Reflejar la imagen fiel del sistema de prevención de riesgos laborales de la empresa, valorando su eficacia y detectando las deficiencias que puedan dar lugar a incumplimientos de la normativa vigente.",
+      "Determinar las responsabilidades administrativas y penales derivadas de los accidentes de trabajo ocurridos."
+    ],
+    "correct": 1,
+    "exp": "El art. 30.1 RD 39/1997 define la auditoría como un instrumento de gestión que persigue reflejar la imagen fiel del sistema de prevención de riesgos laborales de la empresa, valorando su eficacia y detectando las deficiencias que puedan dar lugar a incumplimientos de la normativa vigente, para permitir la adopción de decisiones dirigidas a su perfeccionamiento y mejora.",
+    "fuente": "Art. 30.1 RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 30 del Reglamento de los Servicios de Prevención, la primera auditoría del sistema de prevención debe llevarse a cabo y repetirse, respectivamente:",
+    "options": [
+      "Dentro de los doce meses siguientes a disponerse de la planificación de la actividad preventiva, y repetirse cada cuatro años, salvo en actividades del anexo I, en que el plazo será de dos años.",
+      "Dentro de los seis meses siguientes al inicio de la actividad, y repetirse cada dos años en todo caso.",
+      "Dentro de los veinticuatro meses siguientes a la evaluación inicial, y repetirse cada cinco años."
+    ],
+    "correct": 0,
+    "exp": "El art. 30.4 RD 39/1997 exige realizar la primera auditoría dentro de los doce meses siguientes al momento en que se disponga de la planificación de la actividad preventiva, y repetirla cada cuatro años, salvo cuando se realicen actividades del anexo I, en que el plazo será de dos años; estos plazos se amplían en dos años si la modalidad de organización preventiva ha sido acordada con la representación especializada de los trabajadores.",
+    "fuente": "Art. 30.4 RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En relación con el contenido del informe de auditoría, el Reglamento de los Servicios de Prevención dispone que:",
+    "options": [
+      "Podrá omitirse la información recibida de los representantes de los trabajadores cuando sea contradictoria con la documentación de la empresa.",
+      "Deberá reflejar fielmente la realidad verificada en la empresa, estando prohibida toda alteración o falseamiento del mismo.",
+      "Deberá ser aprobado por la autoridad laboral antes de su entrega a la empresa auditada."
+    ],
+    "correct": 1,
+    "exp": "El art. 31.3 RD 39/1997 establece que el contenido del informe de auditoría deberá reflejar fielmente la realidad verificada en la empresa, estando prohibida toda alteración o falseamiento del mismo. El informe se mantendrá a disposición de la autoridad laboral y de los representantes de los trabajadores (art. 31.1).",
+    "fuente": "Art. 31.3 RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La formación mínima exigida para desempeñar las funciones de nivel básico tendrá una duración no inferior a:",
+    "options": [
+      "20 horas con carácter general y 40 horas en las actividades del anexo I.",
+      "60 horas en todo caso, cualquiera que sea la actividad de la empresa.",
+      "50 horas en el caso de empresas que desarrollen alguna de las actividades incluidas en el anexo I, o de 30 horas en los demás casos."
+    ],
+    "correct": 2,
+    "exp": "El art. 35.2.a) RD 39/1997 exige una formación mínima con el contenido del anexo IV, de duración no inferior a 50 horas en el caso de empresas que desarrollen alguna de las actividades del anexo I, o de 30 horas en los demás casos.",
+    "fuente": "Art. 35.2.a) RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Para desempeñar las funciones de nivel intermedio, el Reglamento de los Servicios de Prevención exige una formación mínima, con el contenido del anexo V, de duración no inferior a:",
+    "options": [
+      "300 horas.",
+      "150 horas.",
+      "600 horas."
+    ],
+    "correct": 0,
+    "exp": "El art. 36.2 RD 39/1997 exige poseer una formación mínima con el contenido especificado en el programa del anexo V, cuyo desarrollo tendrá una duración no inferior a 300 horas y una distribución horaria adecuada a cada proyecto formativo.",
+    "fuente": "Art. 36.2 RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Para desempeñar las funciones de nivel superior será preciso:",
+    "options": [
+      "Acreditar una experiencia profesional mínima de cinco años en un servicio de prevención ajeno.",
+      "Contar con una titulación universitaria oficial y poseer una formación mínima acreditada por una universidad, con el contenido del anexo VI, de duración no inferior a seiscientas horas.",
+      "Superar las pruebas de habilitación convocadas anualmente por el Instituto Nacional de Seguridad e Higiene en el Trabajo."
+    ],
+    "correct": 1,
+    "exp": "El art. 37.2 RD 39/1997 (redacción del RD 337/2010) exige contar con una titulación universitaria oficial y poseer una formación mínima acreditada por una universidad con el contenido del programa del anexo VI, con una duración no inferior a seiscientas horas.",
+    "fuente": "Art. 37.2 RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Los servicios de prevención que desarrollen funciones de vigilancia y control de la salud de los trabajadores deberán contar con:",
+    "options": [
+      "Un licenciado en medicina y un fisioterapeuta, con dedicación a tiempo parcial.",
+      "Un técnico de nivel superior en la especialidad de higiene industrial.",
+      "Un médico especialista en Medicina del Trabajo o diplomado en Medicina de Empresa y un ATS/DUE de empresa."
+    ],
+    "correct": 2,
+    "exp": "El art. 37.3.a) RD 39/1997 exige que los servicios de prevención que desarrollen funciones de vigilancia y control de la salud cuenten con un médico especialista en Medicina del Trabajo o diplomado en Medicina de Empresa y un ATS/DUE de empresa, sin perjuicio de la participación de otros profesionales sanitarios con competencia técnica, formación y capacidad acreditada.",
+    "fuente": "Art. 37.3.a) RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes actividades figura expresamente en el anexo I del Reglamento de los Servicios de Prevención?",
+    "options": [
+      "Los trabajos administrativos con pantallas de visualización de datos durante más de cuatro horas diarias.",
+      "La manipulación manual de cargas de peso superior a 25 kilogramos.",
+      "Los trabajos con riesgos eléctricos en alta tensión."
+    ],
+    "correct": 2,
+    "exp": "El anexo I RD 39/1997 incluye en su letra l) los trabajos con riesgos eléctricos en alta tensión. Ni los trabajos con pantallas de visualización ni la manipulación manual de cargas figuran en dicho anexo.",
+    "fuente": "Anexo I, letra l) RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El programa formativo de nivel superior previsto en el anexo VI del Reglamento de los Servicios de Prevención consta de tres partes con las siguientes duraciones mínimas:",
+    "options": [
+      "Parte común obligatoria de 350 horas, especialización optativa de 100 horas y trabajo final o actividades preventivas en un centro de trabajo equivalentes a 150 horas.",
+      "Parte común obligatoria de 300 horas, especialización optativa de 200 horas y trabajo final de 100 horas.",
+      "Parte común obligatoria de 400 horas, especialización optativa de 150 horas y trabajo final de 50 horas."
+    ],
+    "correct": 0,
+    "exp": "El anexo VI RD 39/1997 estructura el programa de nivel superior en una parte obligatoria y común con un mínimo de 350 horas lectivas, una especialización optativa (seguridad en el trabajo, higiene industrial o ergonomía y psicosociología aplicada) de 100 horas mínimo cada una, y la realización de un trabajo final o de actividades preventivas en un centro de trabajo con una duración mínima equivalente a 150 horas.",
+    "fuente": "Anexo VI RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la disposición adicional cuarta del Reglamento de los Servicios de Prevención, en el ámbito de las Administraciones públicas:",
+    "options": [
+      "Las obligaciones en materia de auditorías del capítulo V se aplican con carácter básico y sin excepción alguna.",
+      "No serán de aplicación las obligaciones en materia de auditorías contenidas en el capítulo V del Reglamento.",
+      "Las auditorías deberán realizarse cada dos años por la Inspección de Trabajo y Seguridad Social."
+    ],
+    "correct": 1,
+    "exp": "La disposición adicional cuarta, apartado 2, del RD 39/1997 establece que no serán de aplicación a las Administraciones públicas las obligaciones en materia de auditorías contenidas en el capítulo V del Reglamento, debiendo la normativa específica establecer los adecuados instrumentos de control.",
+    "fuente": "Disposición adicional cuarta, apartado 2, RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  },
+  {
+    "q": "A efectos de la coordinación de actividades empresariales regulada en el Real Decreto 171/2004, el Reglamento de los Servicios de Prevención considera actividades o procesos peligrosos o con riesgos especiales:",
+    "options": [
+      "Los incluidos en el anexo I del propio Reglamento de los Servicios de Prevención.",
+      "Únicamente los trabajos en obras de construcción sometidos al Real Decreto 1627/1997.",
+      "Los que así determine en cada caso el Comité de Seguridad y Salud del empresario titular del centro."
+    ],
+    "correct": 0,
+    "exp": "La disposición adicional undécima del RD 39/1997, añadida por el RD 604/2006, dispone que, a efectos del art. 13.1.a) del RD 171/2004, se consideran actividades o procesos peligrosos o con riesgos especiales los incluidos en el anexo I del propio Reglamento de los Servicios de Prevención.",
+    "fuente": "Disposición adicional undécima RD 39/1997 (Reglamento de los Servicios de Prevención)",
+    "confianza": "alta"
+  }
+]);
