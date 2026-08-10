@@ -1230,3 +1230,971 @@ window.addQuestions('aux-admin-zaragoza', 20, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 20 · lote 2026-08-10 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 20, [
+  {
+    "q": "Conforme al artículo 14.1 de la LPRL, ¿cuál de los siguientes NO se enumera expresamente como derecho que forma parte del derecho de los trabajadores a una protección eficaz en materia de seguridad y salud en el trabajo?",
+    "options": [
+      "La paralización de la actividad en caso de riesgo grave e inminente.",
+      "La vigilancia de su estado de salud.",
+      "La elección de la modalidad de organización preventiva de la empresa."
+    ],
+    "correct": 2,
+    "exp": "El art. 14.1 LPRL integra en el derecho a una protección eficaz los derechos de información, consulta y participación, formación en materia preventiva, paralización de la actividad en caso de riesgo grave e inminente y vigilancia del estado de salud. La elección de la modalidad organizativa preventiva no figura en esa enumeración.",
+    "fuente": "Art. 14.1 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 14.1 de la LPRL, el deber de protección de los trabajadores frente a los riesgos laborales:",
+    "options": [
+      "Constituye igualmente un deber de las Administraciones públicas respecto del personal a su servicio.",
+      "Corresponde en exclusiva al empresario privado, quedando las Administraciones públicas sujetas únicamente a su normativa funcionarial.",
+      "Recae por igual sobre el empresario y sobre el propio trabajador, en la misma medida."
+    ],
+    "correct": 0,
+    "exp": "El art. 14.1 LPRL, tras afirmar que al derecho del trabajador corresponde un correlativo deber de protección del empresario, añade que este deber de protección constituye, igualmente, un deber de las Administraciones públicas respecto del personal a su servicio.",
+    "fuente": "Art. 14.1 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el artículo 14.4 de la LPRL, el recurso al concierto con entidades especializadas para el desarrollo de actividades de prevención:",
+    "options": [
+      "Exime al empresario de su deber de protección en la parte de actividad concertada.",
+      "Complementa las acciones del empresario, sin que por ello le exima del cumplimiento de su deber en esta materia.",
+      "Traslada íntegramente las obligaciones preventivas del empresario a la entidad especializada."
+    ],
+    "correct": 1,
+    "exp": "El art. 14.4 LPRL señala que las obligaciones de los trabajadores, la atribución de funciones preventivas a trabajadores o servicios de la empresa y el concierto con entidades especializadas complementan las acciones del empresario, sin que por ello le eximan del cumplimiento de su deber, sin perjuicio de las acciones que pueda ejercitar contra cualquier otra persona.",
+    "fuente": "Art. 14.4 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 14.5 de la LPRL, el coste de las medidas relativas a la seguridad y la salud en el trabajo:",
+    "options": [
+      "Se repartirá entre empresario y trabajadores en la proporción que fije el convenio colectivo aplicable.",
+      "Recaerá sobre el trabajador cuando la medida consista en la entrega de un equipo de protección individual.",
+      "No deberá recaer en modo alguno sobre los trabajadores."
+    ],
+    "correct": 2,
+    "exp": "El art. 14.5 LPRL es terminante: el coste de las medidas relativas a la seguridad y la salud en el trabajo no deberá recaer en modo alguno sobre los trabajadores.",
+    "fuente": "Art. 14.5 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En la enumeración de principios de la acción preventiva del artículo 15.1 de la LPRL, el principio que figura inmediatamente después de «Evitar los riesgos» es:",
+    "options": [
+      "Evaluar los riesgos que no se puedan evitar.",
+      "Combatir los riesgos en su origen.",
+      "Sustituir lo peligroso por lo que entrañe poco o ningún peligro."
+    ],
+    "correct": 0,
+    "exp": "El art. 15.1 LPRL ordena los principios así: a) evitar los riesgos; b) evaluar los riesgos que no se puedan evitar; c) combatir los riesgos en su origen. Por tanto, tras «evitar los riesgos» viene «evaluar los riesgos que no se puedan evitar».",
+    "fuente": "Art. 15.1.b) LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El principio de «adaptar el trabajo a la persona» del artículo 15.1.d) de la LPRL se refiere en particular a la concepción de los puestos de trabajo y a la elección de los equipos y los métodos de trabajo y de producción, con miras especialmente a:",
+    "options": [
+      "Ajustar la jornada laboral a las circunstancias familiares del trabajador.",
+      "Atenuar el trabajo monótono y repetitivo y a reducir los efectos del mismo en la salud.",
+      "Asignar las tareas en función de la antigüedad del trabajador en la empresa."
+    ],
+    "correct": 1,
+    "exp": "El art. 15.1.d) LPRL precisa que la adaptación del trabajo a la persona se proyecta sobre la concepción de los puestos y la elección de equipos y métodos de trabajo y de producción, con miras, en particular, a atenuar el trabajo monótono y repetitivo y a reducir sus efectos en la salud.",
+    "fuente": "Art. 15.1.d) LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme a la letra h) del artículo 15.1 de la LPRL, el empresario debe adoptar medidas que:",
+    "options": [
+      "Antepongan la protección individual a la colectiva.",
+      "Sitúen en el mismo plano la protección colectiva y la individual.",
+      "Antepongan la protección colectiva a la individual."
+    ],
+    "correct": 2,
+    "exp": "La letra h) del art. 15.1 LPRL formula el principio como «Adoptar medidas que antepongan la protección colectiva a la individual».",
+    "fuente": "Art. 15.1.h) LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El último de los nueve principios de la acción preventiva enumerados en el artículo 15.1 de la LPRL, letra i), es:",
+    "options": [
+      "Dar las debidas instrucciones a los trabajadores.",
+      "Adoptar medidas que antepongan la protección colectiva a la individual.",
+      "Planificar la prevención buscando un conjunto coherente."
+    ],
+    "correct": 0,
+    "exp": "La enumeración del art. 15.1 LPRL se cierra con la letra i): «Dar las debidas instrucciones a los trabajadores». La protección colectiva sobre la individual es la letra h) y la planificación de la prevención la letra g).",
+    "fuente": "Art. 15.1.i) LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 15.2 de la LPRL, el empresario tomará en consideración las capacidades profesionales de los trabajadores en materia de seguridad y de salud:",
+    "options": [
+      "Únicamente en el momento de formalizar su contratación inicial.",
+      "En el momento de encomendarles las tareas.",
+      "Solo cuando se trate de trabajadores especialmente sensibles a determinados riesgos."
+    ],
+    "correct": 1,
+    "exp": "El art. 15.2 LPRL dispone que el empresario tomará en consideración las capacidades profesionales de los trabajadores en materia de seguridad y de salud en el momento de encomendarles las tareas.",
+    "fuente": "Art. 15.2 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el artículo 15.3 de la LPRL, el empresario adoptará las medidas necesarias para garantizar que a las zonas de riesgo grave y específico solo puedan acceder los trabajadores que:",
+    "options": [
+      "Hayan superado previamente un reconocimiento médico de aptitud.",
+      "Cuenten con una antigüedad mínima de un año en el puesto de trabajo.",
+      "Hayan recibido información suficiente y adecuada."
+    ],
+    "correct": 2,
+    "exp": "El art. 15.3 LPRL condiciona el acceso a las zonas de riesgo grave y específico a que el trabajador haya recibido información suficiente y adecuada.",
+    "fuente": "Art. 15.3 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 16.1 de la LPRL, la prevención de riesgos laborales deberá integrarse en el sistema general de gestión de la empresa:",
+    "options": [
+      "Tanto en el conjunto de sus actividades como en todos los niveles jerárquicos de ésta.",
+      "Solo en las actividades calificadas de especial peligrosidad y en los niveles jerárquicos superiores.",
+      "Únicamente en los centros de trabajo que cuenten con más de cincuenta trabajadores."
+    ],
+    "correct": 0,
+    "exp": "El art. 16.1 LPRL exige integrar la prevención en el sistema general de gestión de la empresa, tanto en el conjunto de sus actividades como en todos los niveles jerárquicos, a través de la implantación y aplicación de un plan de prevención de riesgos laborales.",
+    "fuente": "Art. 16.1 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El plan de prevención de riesgos laborales, según el artículo 16.1 de la LPRL, deberá incluir:",
+    "options": [
+      "La relación nominal de trabajadores especialmente sensibles y el resultado de sus reconocimientos médicos.",
+      "La estructura organizativa, las responsabilidades, las funciones, las prácticas, los procedimientos, los procesos y los recursos necesarios para realizar la acción de prevención de riesgos en la empresa.",
+      "La memoria económica anual de la actividad preventiva y el informe de su auditoría externa."
+    ],
+    "correct": 1,
+    "exp": "El art. 16.1, párrafo segundo, LPRL enumera el contenido del plan de prevención: estructura organizativa, responsabilidades, funciones, prácticas, procedimientos, procesos y recursos necesarios para realizar la acción de prevención de riesgos en la empresa, en los términos que reglamentariamente se establezcan.",
+    "fuente": "Art. 16.1 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La evaluación inicial de los riesgos regulada en el artículo 16.2.a) de la LPRL deberá tener en cuenta, con carácter general:",
+    "options": [
+      "El volumen de facturación de la empresa y su posición en el sector de actividad.",
+      "Exclusivamente los índices de siniestralidad registrados en los tres ejercicios anteriores.",
+      "La naturaleza de la actividad, las características de los puestos de trabajo existentes y de los trabajadores que deban desempeñarlos."
+    ],
+    "correct": 2,
+    "exp": "El art. 16.2.a) LPRL ordena realizar una evaluación inicial de los riesgos teniendo en cuenta, con carácter general, la naturaleza de la actividad, las características de los puestos de trabajo existentes y de los trabajadores que deban desempeñarlos.",
+    "fuente": "Art. 16.2.a) LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 16.2.a) de la LPRL, la evaluación de riesgos:",
+    "options": [
+      "Será actualizada cuando cambien las condiciones de trabajo y, en todo caso, se someterá a consideración y se revisará, si fuera necesario, con ocasión de los daños para la salud que se hayan producido.",
+      "Deberá repetirse obligatoriamente cada dos años, aunque no varíen las condiciones de trabajo.",
+      "Solo se actualizará cuando lo solicite expresamente el Comité de Seguridad y Salud."
+    ],
+    "correct": 0,
+    "exp": "El art. 16.2.a) LPRL vincula la actualización de la evaluación al cambio de las condiciones de trabajo y, en todo caso, a su reconsideración y revisión, si fuera necesario, con ocasión de los daños para la salud que se hayan producido.",
+    "fuente": "Art. 16.2.a) LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando los resultados de la evaluación pongan de manifiesto situaciones de riesgo, el artículo 16.2.b) de la LPRL exige que la planificación de las actividades preventivas incluya, para cada una de ellas:",
+    "options": [
+      "Su coste estimado y el criterio de imputación proporcional a los trabajadores beneficiados.",
+      "El plazo para llevarla a cabo, la designación de responsables y los recursos humanos y materiales necesarios para su ejecución.",
+      "El informe favorable previo de la Inspección de Trabajo y Seguridad Social."
+    ],
+    "correct": 1,
+    "exp": "El art. 16.2.b) LPRL exige planificar las actividades preventivas incluyendo, para cada actividad, el plazo para llevarla a cabo, la designación de responsables y los recursos humanos y materiales necesarios para su ejecución.",
+    "fuente": "Art. 16.2.b) LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 16.3 de la LPRL, el empresario llevará a cabo una investigación para detectar las causas de los hechos cuando:",
+    "options": [
+      "Lo requiera la autoridad laboral tras la denuncia de los representantes de los trabajadores.",
+      "Se supere el índice medio de siniestralidad del sector de actividad correspondiente.",
+      "Se haya producido un daño para la salud de los trabajadores o cuando, con ocasión de la vigilancia de la salud, aparezcan indicios de que las medidas de prevención resultan insuficientes."
+    ],
+    "correct": 2,
+    "exp": "El art. 16.3 LPRL impone la investigación de causas en dos supuestos: cuando se haya producido un daño para la salud de los trabajadores y cuando, con ocasión de la vigilancia de la salud prevista en el art. 22, aparezcan indicios de que las medidas de prevención resultan insuficientes.",
+    "fuente": "Art. 16.3 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 17.1 de la LPRL obliga al empresario a adoptar las medidas necesarias con el fin de que los equipos de trabajo:",
+    "options": [
+      "Sean adecuados para el trabajo que deba realizarse y convenientemente adaptados a tal efecto, de forma que garanticen la seguridad y la salud de los trabajadores al utilizarlos.",
+      "Sean renovados con una periodicidad máxima de cinco años desde su puesta en servicio.",
+      "Cuenten con un seguro específico que cubra los daños que puedan causar a los trabajadores."
+    ],
+    "correct": 0,
+    "exp": "El art. 17.1, párrafo primero, LPRL exige que los equipos de trabajo sean adecuados para el trabajo que deba realizarse y convenientemente adaptados a tal efecto, de forma que garanticen la seguridad y la salud de los trabajadores al utilizarlos.",
+    "fuente": "Art. 17.1 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando la utilización de un equipo de trabajo pueda presentar un riesgo específico para la seguridad y la salud, el artículo 17.1 de la LPRL exige que los trabajos de reparación, transformación, mantenimiento o conservación sean realizados por:",
+    "options": [
+      "Cualquier trabajador que disponga del equipo de protección individual adecuado.",
+      "Los trabajadores específicamente capacitados para ello.",
+      "Personal ajeno a la empresa que se encuentre debidamente acreditado."
+    ],
+    "correct": 1,
+    "exp": "La letra b) del art. 17.1 LPRL reserva los trabajos de reparación, transformación, mantenimiento o conservación a los trabajadores específicamente capacitados para ello; la letra a) reserva la utilización del equipo a los encargados de dicha utilización.",
+    "fuente": "Art. 17.1.b) LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En materia de equipos de protección individual, el artículo 17.2 de la LPRL impone al empresario el deber de:",
+    "options": [
+      "Facilitarlos únicamente a los trabajadores que los soliciten por escrito.",
+      "Repercutir su coste en la nómina del trabajador cuando el deterioro le sea imputable.",
+      "Proporcionar a sus trabajadores equipos adecuados para el desempeño de sus funciones y velar por el uso efectivo de los mismos cuando sean necesarios."
+    ],
+    "correct": 2,
+    "exp": "El art. 17.2, párrafo primero, LPRL obliga al empresario a proporcionar equipos de protección individual adecuados para el desempeño de las funciones y a velar por el uso efectivo de los mismos cuando, por la naturaleza de los trabajos realizados, sean necesarios.",
+    "fuente": "Art. 17.2 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 17.2 de la LPRL, los equipos de protección individual deberán utilizarse cuando los riesgos:",
+    "options": [
+      "No se puedan evitar o no puedan limitarse suficientemente por medios técnicos de protección colectiva o mediante medidas, métodos o procedimientos de organización del trabajo.",
+      "Hayan sido calificados como graves e inminentes por el servicio de prevención.",
+      "Afecten a más de la mitad de la plantilla del centro de trabajo."
+    ],
+    "correct": 0,
+    "exp": "El art. 17.2, párrafo segundo, LPRL configura el equipo de protección individual como medida subsidiaria: procede cuando los riesgos no se puedan evitar o no puedan limitarse suficientemente por medios técnicos de protección colectiva o mediante medidas, métodos o procedimientos de organización del trabajo.",
+    "fuente": "Art. 17.2 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 18.1 de la LPRL obliga al empresario a adoptar las medidas adecuadas para que los trabajadores reciban información en relación con:",
+    "options": [
+      "Los resultados económicos de la empresa y su plan de inversiones en materia de seguridad.",
+      "Los riesgos para la seguridad y la salud en el trabajo, tanto aquellos que afecten a la empresa en su conjunto como a cada tipo de puesto de trabajo o función.",
+      "Las sanciones impuestas a la empresa por la Inspección de Trabajo y Seguridad Social."
+    ],
+    "correct": 1,
+    "exp": "La letra a) del art. 18.1 LPRL se refiere a los riesgos para la seguridad y la salud de los trabajadores, tanto los que afecten a la empresa en su conjunto como a cada tipo de puesto de trabajo o función; las letras b) y c) añaden las medidas de protección y prevención aplicables y las medidas adoptadas conforme al art. 20.",
+    "fuente": "Art. 18.1.a) LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 18.1 de la LPRL, en las empresas que cuenten con representantes de los trabajadores, la información en materia preventiva:",
+    "options": [
+      "Se facilitará directamente a cada trabajador, quedando los representantes al margen de su transmisión.",
+      "Se canalizará exclusivamente a través de dichos representantes, sin excepción alguna.",
+      "Se facilitará a través de dichos representantes, si bien deberá informarse directamente a cada trabajador de los riesgos específicos que afecten a su puesto de trabajo o función y de las medidas de protección y prevención aplicables."
+    ],
+    "correct": 2,
+    "exp": "El último párrafo del art. 18.1 LPRL establece la canalización a través de los representantes, pero con el deber añadido de informar directamente a cada trabajador de los riesgos específicos de su puesto o función y de las medidas de protección y prevención aplicables a dichos riesgos.",
+    "fuente": "Art. 18.1 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el artículo 18.2 de la LPRL, los trabajadores tendrán derecho a efectuar propuestas dirigidas a la mejora de los niveles de protección de la seguridad y la salud en la empresa:",
+    "options": [
+      "Al empresario, así como a los órganos de participación y representación previstos en el capítulo V de la Ley.",
+      "Únicamente ante el Comité de Seguridad y Salud y siempre por escrito.",
+      "Exclusivamente por conducto de la Inspección de Trabajo y Seguridad Social."
+    ],
+    "correct": 0,
+    "exp": "El art. 18.2, párrafo segundo, LPRL reconoce a los trabajadores el derecho a efectuar propuestas al empresario y a los órganos de participación y representación previstos en el capítulo V de la Ley, dirigidas a mejorar los niveles de protección de la seguridad y la salud en la empresa.",
+    "fuente": "Art. 18.2 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 19.1 de la LPRL, el empresario deberá garantizar que cada trabajador reciba formación teórica y práctica, suficiente y adecuada, en materia preventiva:",
+    "options": [
+      "Solo cuando se trate de contratos indefinidos y a jornada completa.",
+      "Tanto en el momento de su contratación, cualquiera que sea la modalidad o duración de ésta, como cuando se produzcan cambios en las funciones que desempeñe o se introduzcan nuevas tecnologías o cambios en los equipos de trabajo.",
+      "Únicamente cuando la evaluación del puesto revele la existencia de un riesgo grave."
+    ],
+    "correct": 1,
+    "exp": "El art. 19.1 LPRL exige la formación en el momento de la contratación, cualquiera que sea la modalidad o duración de ésta, y también cuando se produzcan cambios en las funciones desempeñadas o se introduzcan nuevas tecnologías o cambios en los equipos de trabajo.",
+    "fuente": "Art. 19.1 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 19.1 de la LPRL, la formación en materia preventiva deberá:",
+    "options": [
+      "Ser común para toda la plantilla e impartirse una sola vez al inicio de la relación laboral.",
+      "Estar homologada en todo caso por la autoridad laboral competente.",
+      "Estar centrada específicamente en el puesto de trabajo o función de cada trabajador, adaptarse a la evolución de los riesgos y a la aparición de otros nuevos y repetirse periódicamente, si fuera necesario."
+    ],
+    "correct": 2,
+    "exp": "El párrafo segundo del art. 19.1 LPRL exige que la formación esté centrada específicamente en el puesto de trabajo o función de cada trabajador, se adapte a la evolución de los riesgos y a la aparición de otros nuevos y se repita periódicamente, si fuera necesario.",
+    "fuente": "Art. 19.1 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 19.2 de la LPRL establece, respecto de la formación en materia preventiva, que:",
+    "options": [
+      "Deberá impartirse, siempre que sea posible, dentro de la jornada de trabajo o, en su defecto, en otras horas pero con el descuento en aquélla del tiempo invertido, y su coste no recaerá en ningún caso sobre los trabajadores.",
+      "Se impartirá siempre fuera de la jornada de trabajo, sin derecho a compensación en tiempo ni en dinero.",
+      "Su coste se financiará al cincuenta por ciento entre la empresa y el trabajador cuando se imparta fuera de la jornada."
+    ],
+    "correct": 0,
+    "exp": "El art. 19.2 LPRL ordena impartir la formación, siempre que sea posible, dentro de la jornada de trabajo o, en su defecto, en otras horas con descuento en la jornada del tiempo invertido; puede impartirse con medios propios o concertándola con servicios ajenos, y su coste no recaerá en ningún caso sobre los trabajadores.",
+    "fuente": "Art. 19.2 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 20 de la LPRL obliga al empresario a analizar las posibles situaciones de emergencia y adoptar las medidas necesarias en materia de:",
+    "options": [
+      "Primeros auxilios, vigilancia de la salud y protección de la maternidad.",
+      "Primeros auxilios, lucha contra incendios y evacuación de los trabajadores.",
+      "Lucha contra incendios, señalización de seguridad y coordinación de actividades empresariales."
+    ],
+    "correct": 1,
+    "exp": "El art. 20 LPRL enumera tres materias en las que deben adoptarse las medidas de emergencia: primeros auxilios, lucha contra incendios y evacuación de los trabajadores, designando al personal encargado de ponerlas en práctica y comprobando periódicamente su correcto funcionamiento.",
+    "fuente": "Art. 20 LPRL (Ley 31/1995), párrafo primero",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 20 de la LPRL, el personal designado por el empresario para poner en práctica las medidas de emergencia deberá:",
+    "options": [
+      "Estar integrado necesariamente en un servicio de prevención propio de la empresa.",
+      "Contar con la habilitación previa de la autoridad competente en materia de protección civil.",
+      "Poseer la formación necesaria, ser suficiente en número y disponer del material adecuado."
+    ],
+    "correct": 2,
+    "exp": "El art. 20 LPRL exige que el personal encargado de poner en práctica las medidas de emergencia posea la formación necesaria, sea suficiente en número y disponga del material adecuado, en función del tamaño y la actividad de la empresa y de la posible presencia de personas ajenas a la misma.",
+    "fuente": "Art. 20 LPRL (Ley 31/1995), párrafo primero",
+    "confianza": "alta"
+  },
+  {
+    "q": "Para la aplicación de las medidas de emergencia adoptadas, el artículo 20 de la LPRL exige al empresario organizar las relaciones necesarias con servicios externos a la empresa, en particular en materia de:",
+    "options": [
+      "Primeros auxilios, asistencia médica de urgencia, salvamento y lucha contra incendios.",
+      "Auditoría del sistema de prevención y formación continua de los trabajadores.",
+      "Vigilancia de la salud y coordinación de actividades empresariales."
+    ],
+    "correct": 0,
+    "exp": "El párrafo segundo del art. 20 LPRL obliga a organizar las relaciones con servicios externos, en particular en materia de primeros auxilios, asistencia médica de urgencia, salvamento y lucha contra incendios, de forma que quede garantizada la rapidez y eficacia de las mismas.",
+    "fuente": "Art. 20 LPRL (Ley 31/1995), párrafo segundo",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando los trabajadores estén o puedan estar expuestos a un riesgo grave e inminente con ocasión de su trabajo, la letra a) del artículo 21.1 de la LPRL obliga al empresario a:",
+    "options": [
+      "Comunicar la situación a la autoridad laboral en el plazo máximo de veinticuatro horas.",
+      "Informar lo antes posible a todos los trabajadores afectados acerca de la existencia de dicho riesgo y de las medidas adoptadas o que, en su caso, deban adoptarse en materia de protección.",
+      "Suspender de forma automática toda la actividad del centro de trabajo."
+    ],
+    "correct": 1,
+    "exp": "El art. 21.1.a) LPRL impone informar lo antes posible a todos los trabajadores afectados sobre la existencia del riesgo y sobre las medidas adoptadas o que deban adoptarse en materia de protección. El plazo de veinticuatro horas del art. 21.3 se refiere a la actuación de la autoridad laboral ante una paralización acordada por los representantes.",
+    "fuente": "Art. 21.1.a) LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la letra b) del artículo 21.1 de la LPRL, cuando los trabajadores hayan interrumpido su actividad y, en su caso, abandonado el lugar de trabajo por un peligro grave, inminente e inevitable:",
+    "options": [
+      "Podrá exigírseles la reanudación de la actividad transcurridas veinticuatro horas desde la interrupción.",
+      "Deberán reanudarla en cuanto lo acuerde el Comité de Seguridad y Salud.",
+      "No podrá exigírseles que reanuden su actividad mientras persista el peligro, salvo excepción debidamente justificada por razones de seguridad y determinada reglamentariamente."
+    ],
+    "correct": 2,
+    "exp": "El art. 21.1.b) LPRL, tras obligar al empresario a adoptar medidas e instrucciones para que los trabajadores puedan interrumpir la actividad y abandonar de inmediato el lugar de trabajo, prohíbe exigir la reanudación mientras persista el peligro, salvo excepción debidamente justificada por razones de seguridad y determinada reglamentariamente.",
+    "fuente": "Art. 21.1.b) LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 21.2 de la LPRL, el trabajador tendrá derecho a interrumpir su actividad y abandonar el lugar de trabajo, en caso necesario, cuando:",
+    "options": [
+      "Considere que dicha actividad entraña un riesgo grave e inminente para su vida o su salud.",
+      "Obtenga la autorización previa de su superior jerárquico inmediato.",
+      "Así lo acuerden por mayoría los Delegados de Prevención de la empresa."
+    ],
+    "correct": 0,
+    "exp": "El art. 21.2 LPRL, en relación con el art. 14.1, reconoce directamente al trabajador el derecho a interrumpir su actividad y abandonar el lugar de trabajo, en caso necesario, cuando considere que la actividad entraña un riesgo grave e inminente para su vida o su salud, sin exigir autorización previa.",
+    "fuente": "Art. 21.2 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 21.3 de la LPRL, el acuerdo de paralización de la actividad podrá ser adoptado por decisión mayoritaria de los Delegados de Prevención cuando:",
+    "options": [
+      "El riesgo grave e inminente afecte a más de la mitad de la plantilla del centro de trabajo.",
+      "No resulte posible reunir con la urgencia requerida al órgano de representación del personal.",
+      "La empresa carezca de Comité de Seguridad y Salud constituido."
+    ],
+    "correct": 1,
+    "exp": "El párrafo segundo del art. 21.3 LPRL permite que el acuerdo de paralización, que corresponde en principio a los representantes legales de los trabajadores por mayoría de sus miembros, sea adoptado por decisión mayoritaria de los Delegados de Prevención cuando no resulte posible reunir con la urgencia requerida al órgano de representación del personal.",
+    "fuente": "Art. 21.3 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el artículo 21.4 de la LPRL, los trabajadores o sus representantes no podrán sufrir perjuicio alguno derivado de la adopción de las medidas previstas en dicho artículo, a menos que:",
+    "options": [
+      "La autoridad laboral anule finalmente la paralización acordada.",
+      "La paralización hubiera ocasionado a la empresa un perjuicio económico relevante.",
+      "Hubieran obrado de mala fe o cometido negligencia grave."
+    ],
+    "correct": 2,
+    "exp": "El art. 21.4 LPRL protege a trabajadores y representantes frente a cualquier perjuicio derivado de las medidas de los apartados anteriores, con la única salvedad de que hubieran obrado de mala fe o cometido negligencia grave.",
+    "fuente": "Art. 21.4 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Las excepciones al carácter voluntario de la vigilancia de la salud previstas en el artículo 22.1 de la LPRL exigen, como requisito procedimental previo:",
+    "options": [
+      "Informe previo de los representantes de los trabajadores.",
+      "Autorización previa de la autoridad sanitaria competente.",
+      "Acuerdo adoptado por mayoría en el Comité de Seguridad y Salud."
+    ],
+    "correct": 0,
+    "exp": "El art. 22.1 LPRL dispone que del carácter voluntario de la vigilancia de la salud «sólo se exceptuarán, previo informe de los representantes de los trabajadores», los supuestos que a continuación enumera.",
+    "fuente": "Art. 22.1 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 22.2 de la LPRL, las medidas de vigilancia y control de la salud de los trabajadores se llevarán a cabo respetando siempre:",
+    "options": [
+      "El derecho del empresario a conocer el historial clínico completo del trabajador.",
+      "El derecho a la intimidad y a la dignidad de la persona del trabajador y la confidencialidad de toda la información relacionada con su estado de salud.",
+      "El principio de publicidad de los resultados ante el Comité de Seguridad y Salud."
+    ],
+    "correct": 1,
+    "exp": "El art. 22.2 LPRL somete la vigilancia y control de la salud al respeto del derecho a la intimidad y a la dignidad de la persona del trabajador y a la confidencialidad de toda la información relacionada con su estado de salud.",
+    "fuente": "Art. 22.2 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 22.3 de la LPRL, los resultados de la vigilancia de la salud:",
+    "options": [
+      "Se comunicarán únicamente al servicio de prevención y al empresario.",
+      "Se depositarán ante la autoridad sanitaria sin comunicación al interesado.",
+      "Serán comunicados a los trabajadores afectados."
+    ],
+    "correct": 2,
+    "exp": "El art. 22.3 LPRL establece de forma escueta que los resultados de la vigilancia serán comunicados a los trabajadores afectados.",
+    "fuente": "Art. 22.3 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 22.4 de la LPRL dispone que el acceso a la información médica de carácter personal se limitará:",
+    "options": [
+      "Al personal médico y a las autoridades sanitarias que lleven a cabo la vigilancia de la salud, sin que pueda facilitarse al empresario o a otras personas sin consentimiento expreso del trabajador.",
+      "Al empresario y a los Delegados de Prevención de la empresa.",
+      "Al servicio de prevención y al Comité de Seguridad y Salud."
+    ],
+    "correct": 0,
+    "exp": "El art. 22.4 LPRL, además de prohibir el uso de los datos con fines discriminatorios o en perjuicio del trabajador, limita el acceso a la información médica de carácter personal al personal médico y a las autoridades sanitarias que lleven a cabo la vigilancia de la salud, sin que pueda facilitarse al empresario u otras personas sin consentimiento expreso del trabajador.",
+    "fuente": "Art. 22.4 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 22.5 de la LPRL, cuando la naturaleza de los riesgos inherentes al trabajo lo haga necesario, el derecho de los trabajadores a la vigilancia periódica de su estado de salud:",
+    "options": [
+      "Se limitará a un único reconocimiento anual mientras dure la relación laboral.",
+      "Deberá ser prolongado más allá de la finalización de la relación laboral, en los términos que reglamentariamente se determinen.",
+      "Se transferirá automáticamente al sistema público de salud, sin coste alguno para la empresa."
+    ],
+    "correct": 1,
+    "exp": "El art. 22.5 LPRL prevé la prolongación del derecho a la vigilancia periódica del estado de salud más allá de la finalización de la relación laboral, en los términos que reglamentariamente se determinen, cuando la naturaleza de los riesgos inherentes al trabajo lo haga necesario.",
+    "fuente": "Art. 22.5 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el artículo 22.6 de la LPRL, las medidas de vigilancia y control de la salud de los trabajadores se llevarán a cabo por:",
+    "options": [
+      "Los técnicos de prevención de nivel superior adscritos al servicio de prevención.",
+      "Cualquier profesional designado al efecto por el Comité de Seguridad y Salud.",
+      "Personal sanitario con competencia técnica, formación y capacidad acreditada."
+    ],
+    "correct": 2,
+    "exp": "El art. 22.6 LPRL reserva la realización de las medidas de vigilancia y control de la salud a personal sanitario con competencia técnica, formación y capacidad acreditada.",
+    "fuente": "Art. 22.6 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  }
+]);
+
+/* tema 20 · lote 2026-08-10 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 20, [
+  {
+    "q": "Conforme al artículo 32 bis.1 de la LPRL, la presencia de los recursos preventivos en el centro de trabajo será necesaria, entre otros supuestos, cuando dicha presencia sea requerida por:",
+    "options": [
+      "El Comité de Seguridad y Salud, si aprecia deficiencias en las condiciones de trabajo.",
+      "La Inspección de Trabajo y Seguridad Social, si las circunstancias del caso así lo exigieran debido a las condiciones de trabajo detectadas.",
+      "La autoridad laboral de la Comunidad Autónoma, previo informe del servicio de prevención."
+    ],
+    "correct": 1,
+    "exp": "El art. 32 bis.1.c) exige la presencia de recursos preventivos «cuando la necesidad de dicha presencia sea requerida por la Inspección de Trabajo y Seguridad Social, si las circunstancias del caso así lo exigieran debido a las condiciones de trabajo detectadas».",
+    "fuente": "Art. 32 bis.1.c) LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 32 bis.2 de la LPRL, ¿a quién puede asignar el empresario la presencia como recurso preventivo?",
+    "options": [
+      "A uno o varios trabajadores designados de la empresa, a uno o varios miembros del servicio de prevención propio o a uno o varios miembros de los servicios de prevención ajenos concertados.",
+      "Únicamente a miembros del servicio de prevención propio de la empresa.",
+      "A los Delegados de Prevención y, en su defecto, a los miembros del Comité de Seguridad y Salud."
+    ],
+    "correct": 0,
+    "exp": "El art. 32 bis.2 enumera como recursos preventivos: a) trabajadores designados; b) miembros del servicio de prevención propio; c) miembros del o los servicios de prevención ajenos concertados. Los Delegados de Prevención no figuran en esa lista.",
+    "fuente": "Art. 32 bis.2 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el artículo 32 bis.3 de la LPRL, los recursos preventivos deberán permanecer en el centro de trabajo:",
+    "options": [
+      "Durante toda la jornada laboral de la plantilla, con independencia del riesgo de que se trate.",
+      "Un mínimo de dos horas diarias mientras se desarrolle la actividad peligrosa.",
+      "Durante el tiempo en que se mantenga la situación que determine su presencia."
+    ],
+    "correct": 2,
+    "exp": "El art. 32 bis.3 exige que los recursos preventivos tengan capacidad suficiente, dispongan de los medios necesarios y sean suficientes en número, «debiendo permanecer en el centro de trabajo durante el tiempo en que se mantenga la situación que determine su presencia».",
+    "fuente": "Art. 32 bis.3 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 32 bis.4 de la LPRL permite al empresario asignar expresamente la presencia a trabajadores que no formen parte del servicio de prevención propio ni sean trabajadores designados, siempre que, además de reunir los conocimientos, la cualificación y la experiencia necesarios, cuenten con una formación preventiva correspondiente, como mínimo, a las funciones de:",
+    "options": [
+      "Nivel intermedio.",
+      "Nivel superior.",
+      "Nivel básico."
+    ],
+    "correct": 2,
+    "exp": "El art. 32 bis.4 exige que esos trabajadores «cuenten con la formación preventiva correspondiente, como mínimo, a las funciones del nivel básico», debiendo además mantener la necesaria colaboración con los recursos preventivos del empresario.",
+    "fuente": "Art. 32 bis.4 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la disposición adicional decimocuarta de la LPRL, en las obras de construcción reguladas por el Real Decreto 1627/1997 la preceptiva presencia de recursos preventivos:",
+    "options": [
+      "Corresponde en exclusiva al promotor de la obra.",
+      "Se aplicará a cada contratista.",
+      "Recae en el coordinador en materia de seguridad y salud durante la ejecución de la obra."
+    ],
+    "correct": 1,
+    "exp": "La D.A. 14.ª.1.a) establece como primera especialidad que «la preceptiva presencia de recursos preventivos se aplicará a cada contratista»; su apartado 2 aclara que ello se entiende sin perjuicio de las obligaciones del coordinador de seguridad y salud.",
+    "fuente": "D.A. 14.ª.1.a) LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Entre las decisiones que el empresario debe consultar a los trabajadores con la debida antelación, el artículo 33.1 de la LPRL menciona expresamente:",
+    "options": [
+      "La designación de los trabajadores encargados de las medidas de emergencia.",
+      "La designación del médico del trabajo adscrito al servicio de prevención.",
+      "La aprobación del calendario laboral anual del centro de trabajo."
+    ],
+    "correct": 0,
+    "exp": "El art. 33.1.c) incluye entre las materias de consulta obligatoria «la designación de los trabajadores encargados de las medidas de emergencia».",
+    "fuente": "Art. 33.1.c) LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 33.2 de la LPRL, en las empresas que cuenten con representantes de los trabajadores, las consultas previstas en dicho artículo:",
+    "options": [
+      "Deberán someterse a referéndum del conjunto de la plantilla.",
+      "Se sustituyen por la información escrita e individual a cada trabajador afectado.",
+      "Se llevarán a cabo con dichos representantes."
+    ],
+    "correct": 2,
+    "exp": "El art. 33.2 dispone literalmente que «en las empresas que cuenten con representantes de los trabajadores, las consultas a que se refiere el apartado anterior se llevarán a cabo con dichos representantes».",
+    "fuente": "Art. 33.2 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 34.1 de la LPRL, la participación de los trabajadores se canalizará a través de sus representantes y de la representación especializada regulada en el capítulo V en las empresas o centros de trabajo que cuenten con:",
+    "options": [
+      "Diez o más trabajadores.",
+      "Veinticinco o más trabajadores.",
+      "Seis o más trabajadores."
+    ],
+    "correct": 2,
+    "exp": "El art. 34.1, párrafo segundo, fija el umbral: «En las empresas o centros de trabajo que cuenten con seis o más trabajadores, la participación de éstos se canalizará a través de sus representantes y de la representación especializada que se regula en este capítulo».",
+    "fuente": "Art. 34.1 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Para llevar a cabo la adaptación del derecho de participación en el ámbito de la Administración General del Estado, el artículo 34.3.a) de la LPRL establece que dicha adaptación:",
+    "options": [
+      "Podrá reducir hasta la mitad el número de Delegados de Prevención resultante de la escala legal.",
+      "En ningún caso podrá afectar a las competencias, facultades y garantías que la Ley reconoce a los Delegados de Prevención y a los Comités de Seguridad y Salud.",
+      "Permitirá sustituir a los Delegados de Prevención por funcionarios designados por el órgano competente."
+    ],
+    "correct": 1,
+    "exp": "El primero de los criterios del art. 34.3 es la letra a): «En ningún caso dicha adaptación podrá afectar a las competencias, facultades y garantías que se reconocen en esta Ley a los Delegados de Prevención y a los Comités de Seguridad y Salud».",
+    "fuente": "Art. 34.3.a) LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 34.3.d) de la LPRL, el Comité de Seguridad y Salud que con carácter general se constituya en el ámbito de los órganos de representación del personal al servicio de las Administraciones públicas estará integrado por los Delegados de Prevención designados en dicho ámbito y por representantes de la Administración en número:",
+    "options": [
+      "No superior al de Delegados.",
+      "Igual al doble del de Delegados de Prevención.",
+      "Que determine libremente el órgano competente de la Administración."
+    ],
+    "correct": 0,
+    "exp": "El art. 34.3.d) prevé un único Comité de Seguridad y Salud integrado por los Delegados de Prevención designados en ese ámbito, tanto del personal administrativo o estatutario como del laboral, «y por representantes de la Administración en número no superior al de Delegados».",
+    "fuente": "Art. 34.3.d) LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 35.2 de la LPRL, en las empresas de treinta y uno a cuarenta y nueve trabajadores habrá:",
+    "options": [
+      "Dos Delegados de Prevención designados por el Comité de Empresa.",
+      "Ningún Delegado de Prevención, asumiendo sus funciones directamente el empresario.",
+      "Un Delegado de Prevención, que será elegido por y entre los Delegados de Personal."
+    ],
+    "correct": 2,
+    "exp": "El párrafo final del art. 35.2 dispone: «En las empresas de hasta treinta trabajadores el Delegado de Prevención será el Delegado de Personal. En las empresas de treinta y uno a cuarenta y nueve trabajadores habrá un Delegado de Prevención que será elegido por y entre los Delegados de Personal».",
+    "fuente": "Art. 35.2 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "A efectos de determinar el número de Delegados de Prevención, el artículo 35.3.a) de la LPRL dispone que los trabajadores vinculados por contratos de duración determinada superior a un año:",
+    "options": [
+      "Se computarán como trabajadores fijos de plantilla.",
+      "No se computarán en ningún caso.",
+      "Se computarán como medio trabajador cada uno de ellos."
+    ],
+    "correct": 0,
+    "exp": "El art. 35.3.a) establece que «los trabajadores vinculados por contratos de duración determinada superior a un año se computarán como trabajadores fijos de plantilla».",
+    "fuente": "Art. 35.3.a) LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 35.4 de la LPRL, en los convenios colectivos podrán establecerse otros sistemas de designación de los Delegados de Prevención, siempre que se garantice que la facultad de designación corresponde a:",
+    "options": [
+      "La dirección de la empresa, oído el servicio de prevención.",
+      "La autoridad laboral competente por razón del territorio.",
+      "Los representantes del personal o a los propios trabajadores."
+    ],
+    "correct": 2,
+    "exp": "El art. 35.4, párrafo primero, admite otros sistemas de designación en convenio colectivo «siempre que se garantice que la facultad de designación corresponde a los representantes del personal o a los propios trabajadores».",
+    "fuente": "Art. 35.4 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 36.1 de la LPRL incluye entre las competencias de los Delegados de Prevención:",
+    "options": [
+      "Ordenar la paralización inmediata de los trabajos cuando aprecien riesgo grave e inminente.",
+      "Imponer sanciones a los trabajadores que incumplan las medidas preventivas.",
+      "Ser consultados por el empresario, con carácter previo a su ejecución, acerca de las decisiones a que se refiere el artículo 33 de la Ley."
+    ],
+    "correct": 2,
+    "exp": "El art. 36.1.c) recoge como competencia «ser consultados por el empresario, con carácter previo a su ejecución, acerca de las decisiones a que se refiere el artículo 33 de la presente Ley». La paralización inmediata corresponde al Inspector de Trabajo (art. 44.1).",
+    "fuente": "Art. 36.1.c) LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando una empresa no cuente con Comité de Seguridad y Salud por no alcanzar el número mínimo de trabajadores del artículo 38.2, el artículo 36.1 de la LPRL dispone que las competencias atribuidas a dicho Comité serán ejercidas por:",
+    "options": [
+      "El servicio de prevención, propio o ajeno.",
+      "Los Delegados de Prevención.",
+      "El Comité de Empresa reunido en pleno."
+    ],
+    "correct": 1,
+    "exp": "El párrafo final del art. 36.1 establece que en esas empresas «las competencias atribuidas a aquél en la presente Ley serán ejercidas por los Delegados de Prevención».",
+    "fuente": "Art. 36.1 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Entre las facultades del artículo 36.2 de la LPRL, los Delegados de Prevención, una vez informados por el empresario de los daños producidos en la salud de los trabajadores, podrán presentarse en el lugar de los hechos para conocer sus circunstancias:",
+    "options": [
+      "Sólo dentro de su jornada laboral y previa autorización del empresario.",
+      "Aun fuera de su jornada laboral.",
+      "Únicamente cuando así lo acuerde el Comité de Seguridad y Salud."
+    ],
+    "correct": 1,
+    "exp": "El art. 36.2.c) les faculta para ser informados de los daños «pudiendo presentarse, aún fuera de su jornada laboral, en el lugar de los hechos para conocer las circunstancias de los mismos».",
+    "fuente": "Art. 36.2.c) LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 36.2.g) de la LPRL, los Delegados de Prevención están facultados para:",
+    "options": [
+      "Acordar por sí mismos la paralización de las actividades en caso de riesgo grave e inminente.",
+      "Solicitar a la autoridad laboral la clausura del centro de trabajo.",
+      "Proponer al órgano de representación de los trabajadores la adopción del acuerdo de paralización de actividades a que se refiere el artículo 21.3."
+    ],
+    "correct": 2,
+    "exp": "El art. 36.2.g) reconoce la facultad de «proponer al órgano de representación de los trabajadores la adopción del acuerdo de paralización de actividades a que se refiere el apartado 3 del artículo 21»; el acuerdo lo adopta el órgano de representación, no el Delegado.",
+    "fuente": "Art. 36.2.g) LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Los informes que deban emitir los Delegados de Prevención por haber sido consultados conforme al artículo 36.1.c) se elaborarán, según el artículo 36.3 de la LPRL, en un plazo de:",
+    "options": [
+      "Quince días, o en el tiempo imprescindible cuando se trate de adoptar medidas dirigidas a prevenir riesgos inminentes.",
+      "Un mes, prorrogable por otro mes a petición del Delegado.",
+      "Diez días hábiles, sin posibilidad alguna de reducción."
+    ],
+    "correct": 0,
+    "exp": "El art. 36.3 fija el plazo de quince días (o el tiempo imprescindible ante riesgos inminentes) y añade que, transcurrido el plazo sin haberse emitido el informe, el empresario podrá poner en práctica su decisión.",
+    "fuente": "Art. 36.3 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 36.4 de la LPRL, la decisión negativa del empresario a la adopción de las medidas preventivas propuestas por el Delegado de Prevención al amparo del artículo 36.2.f):",
+    "options": [
+      "No requiere justificación alguna, por tratarse de una facultad organizativa.",
+      "Debe ser autorizada previamente por la Inspección de Trabajo y Seguridad Social.",
+      "Deberá ser motivada."
+    ],
+    "correct": 2,
+    "exp": "El art. 36.4 dispone que «la decisión negativa del empresario a la adopción de las medidas propuestas por el Delegado de Prevención a tenor de lo dispuesto en la letra f) del apartado 2 de este artículo deberá ser motivada».",
+    "fuente": "Art. 36.4 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 37.1 de la LPRL declara aplicable a los Delegados de Prevención, en su condición de representantes de los trabajadores, lo previsto en materia de garantías en:",
+    "options": [
+      "El artículo 68 del Estatuto de los Trabajadores.",
+      "El artículo 64 del Estatuto de los Trabajadores.",
+      "El artículo 10 de la Ley Orgánica de Libertad Sindical."
+    ],
+    "correct": 0,
+    "exp": "El art. 37.1, párrafo primero, remite en materia de garantías al art. 68 del Estatuto de los Trabajadores, y su párrafo segundo al crédito de horas mensuales retribuidas de la letra e) de ese mismo artículo.",
+    "fuente": "Art. 37.1 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el artículo 37.1 de la LPRL, ¿qué tiempo se considera en todo caso de trabajo efectivo, sin imputación al crédito de horas mensuales retribuidas?",
+    "options": [
+      "Cualquier actividad relacionada con la prevención que realice el Delegado, sea o no convocada por el empresario.",
+      "Exclusivamente el correspondiente a las reuniones del Comité de Seguridad y Salud.",
+      "El de las reuniones del Comité de Seguridad y Salud y de cualesquiera otras convocadas por el empresario en materia de prevención, así como el destinado a las visitas previstas en las letras a) y c) del artículo 36.2."
+    ],
+    "correct": 2,
+    "exp": "El art. 37.1, párrafo tercero, excluye del crédito horario el tiempo de las reuniones del Comité de Seguridad y Salud y de cualesquiera otras convocadas por el empresario en materia de prevención, y el destinado a las visitas de las letras a) y c) del número 2 del artículo anterior (art. 36.2).",
+    "fuente": "Art. 37.1 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Respecto de la formación en materia preventiva de los Delegados de Prevención, el artículo 37.2 de la LPRL establece que:",
+    "options": [
+      "El tiempo dedicado a la formación se imputará al crédito horario mensual del Delegado.",
+      "El coste de la formación se repartirá por mitades entre la empresa y el Delegado.",
+      "El tiempo dedicado a la formación será considerado como tiempo de trabajo a todos los efectos y su coste no podrá recaer en ningún caso sobre los Delegados de Prevención."
+    ],
+    "correct": 2,
+    "exp": "El art. 37.2 obliga al empresario a proporcionar medios y formación, que podrá facilitar por sus propios medios o mediante concierto con organismos o entidades especializadas, y cierra: el tiempo dedicado a la formación es tiempo de trabajo a todos los efectos y su coste no puede recaer en ningún caso sobre los Delegados.",
+    "fuente": "Art. 37.2 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El sigilo profesional debido por los Delegados de Prevención respecto de las informaciones a que tuviesen acceso como consecuencia de su actuación en la empresa se rige, conforme al artículo 37.3 de la LPRL, por lo dispuesto en:",
+    "options": [
+      "El apartado 2 del artículo 65 del Estatuto de los Trabajadores.",
+      "El apartado 4 del artículo 22 de la propia Ley de Prevención de Riesgos Laborales.",
+      "El artículo 53 del texto refundido del Estatuto Básico del Empleado Público."
+    ],
+    "correct": 0,
+    "exp": "El art. 37.3 remite expresamente al «apartado 2 del artículo 65 del Estatuto de los Trabajadores en cuanto al sigilo profesional debido».",
+    "fuente": "Art. 37.3 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En el caso de las relaciones de carácter administrativo o estatutario del personal al servicio de las Administraciones públicas, el artículo 37.4 de la LPRL remite, en materia de garantías y sigilo profesional de los Delegados de Prevención, a:",
+    "options": [
+      "Los artículos 40 y 41 del texto refundido del Estatuto Básico del Empleado Público.",
+      "Los artículos 68 y 65 del Estatuto de los Trabajadores, sin excepción alguna.",
+      "Los artículos 10, párrafo segundo, y 11 de la Ley 9/1987, de 12 de junio, de Órganos de Representación, Determinación de las Condiciones de Trabajo y Participación del Personal al Servicio de las Administraciones Públicas."
+    ],
+    "correct": 2,
+    "exp": "El art. 37.4 remite, para el personal con relación administrativa o estatutaria, «a la regulación contenida en los artículos 10, párrafo segundo, y 11 de la Ley 9/1987, de 12 de junio».",
+    "fuente": "Art. 37.4 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 38.1 de la LPRL define el Comité de Seguridad y Salud como:",
+    "options": [
+      "Un órgano técnico de asesoramiento dependiente del servicio de prevención.",
+      "El órgano paritario y colegiado de participación destinado a la consulta regular y periódica de las actuaciones de la empresa en materia de prevención de riesgos.",
+      "Un órgano consultivo de composición mayoritariamente empresarial y reunión anual."
+    ],
+    "correct": 1,
+    "exp": "Definición literal del art. 38.1: «El Comité de Seguridad y Salud es el órgano paritario y colegiado de participación destinado a la consulta regular y periódica de las actuaciones de la empresa en materia de prevención de riesgos».",
+    "fuente": "Art. 38.1 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 38.2 de la LPRL, el Comité de Seguridad y Salud estará formado por:",
+    "options": [
+      "Los Delegados de Prevención, de una parte, y por el empresario y/o sus representantes en número igual al de los Delegados de Prevención, de la otra.",
+      "Los Delegados de Prevención y un número de representantes del empresario equivalente al doble de aquéllos.",
+      "Los Delegados Sindicales y los responsables técnicos de la prevención en la empresa."
+    ],
+    "correct": 0,
+    "exp": "El art. 38.2, párrafo segundo, establece la composición paritaria: Delegados de Prevención de una parte, y el empresario y/o sus representantes en número igual al de aquéllos, de la otra.",
+    "fuente": "Art. 38.2 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 38.2 de la LPRL, participan en las reuniones del Comité de Seguridad y Salud con voz pero sin voto:",
+    "options": [
+      "Los Inspectores de Trabajo y Seguridad Social del ámbito territorial correspondiente.",
+      "Los Delegados Sindicales y los responsables técnicos de la prevención en la empresa que no estén incluidos en la composición paritaria del Comité.",
+      "Todos los trabajadores del centro de trabajo que lo soliciten por escrito."
+    ],
+    "correct": 1,
+    "exp": "El art. 38.2, párrafo tercero, prevé la participación con voz pero sin voto de los Delegados Sindicales y de los responsables técnicos de la prevención en la empresa no incluidos en la composición paritaria; en las mismas condiciones podrán participar trabajadores especialmente cualificados y técnicos ajenos, si lo solicita alguna de las representaciones.",
+    "fuente": "Art. 38.2 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 38.3 de la LPRL dispone, en cuanto al funcionamiento del Comité de Seguridad y Salud, que:",
+    "options": [
+      "Su régimen de funcionamiento se fijará mediante reglamento aprobado por el Gobierno.",
+      "El Comité adoptará sus propias normas de funcionamiento.",
+      "Le será de aplicación directa el régimen de los órganos colegiados de las Administraciones públicas."
+    ],
+    "correct": 1,
+    "exp": "El art. 38.3 señala que el Comité se reunirá trimestralmente y siempre que lo solicite alguna de las representaciones, y añade que «el Comité adoptará sus propias normas de funcionamiento».",
+    "fuente": "Art. 38.3 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Es competencia del Comité de Seguridad y Salud, conforme al artículo 39.1.b) de la LPRL:",
+    "options": [
+      "Promover iniciativas sobre métodos y procedimientos para la efectiva prevención de los riesgos, proponiendo a la empresa la mejora de las condiciones o la corrección de las deficiencias existentes.",
+      "Aprobar el plan de prevención de riesgos laborales de la empresa.",
+      "Designar a los trabajadores encargados de las medidas de emergencia."
+    ],
+    "correct": 0,
+    "exp": "El art. 39.1 atribuye al Comité dos competencias: participar en la elaboración, puesta en práctica y evaluación de los planes y programas de prevención [letra a)] y promover iniciativas sobre métodos y procedimientos para la efectiva prevención [letra b)].",
+    "fuente": "Art. 39.1.b) LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Entre las facultades del Comité de Seguridad y Salud, el artículo 39.2 de la LPRL recoge expresamente:",
+    "options": [
+      "Sancionar los incumplimientos del empresario en materia preventiva.",
+      "Elaborar la evaluación de riesgos del centro de trabajo.",
+      "Conocer e informar la memoria y programación anual de servicios de prevención."
+    ],
+    "correct": 2,
+    "exp": "El art. 39.2.d) faculta al Comité para «conocer e informar la memoria y programación anual de servicios de prevención»; las demás facultades son conocer la situación preventiva realizando visitas, conocer documentos e informes y analizar los daños producidos.",
+    "fuente": "Art. 39.2.d) LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 40.2 de la LPRL, en las visitas a los centros de trabajo el Inspector de Trabajo y Seguridad Social comunicará su presencia al empresario o a su representante, al Comité de Seguridad y Salud, al Delegado de Prevención o, en su ausencia, a los representantes legales de los trabajadores, salvo:",
+    "options": [
+      "Que la visita se realice fuera del horario habitual de trabajo.",
+      "Que considere que dichas comunicaciones puedan perjudicar el éxito de sus funciones.",
+      "Que la empresa cuente con menos de cincuenta trabajadores."
+    ],
+    "correct": 1,
+    "exp": "El art. 40.2 exige esa comunicación «a fin de que puedan acompañarle durante el desarrollo de su visita y formularle las observaciones que estimen oportunas, a menos que considere que dichas comunicaciones puedan perjudicar el éxito de sus funciones».",
+    "fuente": "Art. 40.2 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 40.4 de la LPRL prevé la consulta previa a las organizaciones sindicales y empresariales más representativas sobre los planes de actuación de la Inspección de Trabajo y Seguridad Social en materia preventiva, en especial respecto de los programas específicos para empresas de:",
+    "options": [
+      "Menos de seis trabajadores.",
+      "Menos de veinticinco trabajadores.",
+      "Menos de cincuenta trabajadores."
+    ],
+    "correct": 0,
+    "exp": "El art. 40.4 se refiere «en especial [a] los programas específicos para empresas de menos de seis trabajadores», y añade que dichas organizaciones serán informadas del resultado de los planes.",
+    "fuente": "Art. 40.4 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 41.1 de la LPRL, los fabricantes, importadores y suministradores de productos y sustancias químicas de utilización en el trabajo están obligados a:",
+    "options": [
+      "Realizar la evaluación de riesgos del puesto de trabajo en que vayan a emplearse.",
+      "Impartir directamente la formación a los trabajadores de la empresa usuaria.",
+      "Envasarlos y etiquetarlos de forma que se permita su conservación y manipulación en condiciones de seguridad y se identifique claramente su contenido y los riesgos que su almacenamiento o utilización comporten."
+    ],
+    "correct": 2,
+    "exp": "El art. 41.1, párrafo segundo, impone a fabricantes, importadores y suministradores de productos y sustancias químicas la obligación de envasado y etiquetado en esos términos.",
+    "fuente": "Art. 41.1 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 42.1 de la LPRL, el incumplimiento por los empresarios de sus obligaciones en materia de prevención de riesgos laborales dará lugar a:",
+    "options": [
+      "Únicamente responsabilidades administrativas.",
+      "Responsabilidades administrativas y, en su caso, penales y civiles por los daños y perjuicios que puedan derivarse de dicho incumplimiento.",
+      "Responsabilidades disciplinarias impuestas por el Comité de Seguridad y Salud."
+    ],
+    "correct": 1,
+    "exp": "El art. 42.1 —precepto que además tiene carácter básico conforme a la D.A. 3.ª.2.a)— enumera responsabilidades administrativas y, en su caso, penales y civiles por los daños y perjuicios derivados del incumplimiento.",
+    "fuente": "Art. 42.1 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 42.3 de la LPRL declara que las responsabilidades administrativas derivadas del procedimiento sancionador son compatibles con:",
+    "options": [
+      "Las indemnizaciones por los daños y perjuicios causados y con el recargo de prestaciones económicas del sistema de la Seguridad Social.",
+      "Ninguna otra responsabilidad, por aplicación del principio non bis in idem.",
+      "Exclusivamente con las responsabilidades penales que puedan declararse."
+    ],
+    "correct": 0,
+    "exp": "El art. 42.3 declara compatibles las responsabilidades administrativas con las indemnizaciones por daños y perjuicios y con el recargo de prestaciones económicas de la Seguridad Social fijado por el órgano competente. Los apartados 2, 4 y 5 del art. 42 fueron derogados por el RDLeg 5/2000.",
+    "fuente": "Art. 42.3 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando el Inspector de Trabajo y Seguridad Social comprueba la existencia de una infracción a la normativa de prevención, el artículo 43.1 de la LPRL le obliga a requerir al empresario la subsanación de las deficiencias observadas, salvo:",
+    "options": [
+      "Que el empresario alegue por escrito su disconformidad con la actuación inspectora.",
+      "Que por la gravedad e inminencia de los riesgos procediese acordar la paralización prevista en el artículo 44.",
+      "Que la empresa tenga constituido Comité de Seguridad y Salud."
+    ],
+    "correct": 1,
+    "exp": "El art. 43.1 exceptúa el requerimiento cuando «por la gravedad e inminencia de los riesgos procediese acordar la paralización prevista en el artículo 44», y todo ello sin perjuicio de la propuesta de sanción que en su caso corresponda.",
+    "fuente": "Art. 43.1 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 43.2 de la LPRL, el requerimiento formulado por el Inspector de Trabajo y Seguridad Social se hará saber por escrito al empresario presuntamente responsable y se pondrá asimismo en conocimiento de:",
+    "options": [
+      "La autoridad laboral de la Comunidad Autónoma.",
+      "Los Delegados de Prevención.",
+      "El servicio de prevención ajeno concertado por la empresa."
+    ],
+    "correct": 1,
+    "exp": "El art. 43.2 exige que el requerimiento señale las anomalías o deficiencias apreciadas con indicación del plazo para su subsanación y que «se pondrá, asimismo, en conocimiento de los Delegados de Prevención».",
+    "fuente": "Art. 43.2 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Ordenada por el Inspector de Trabajo y Seguridad Social la paralización inmediata de trabajos por riesgo grave e inminente, el artículo 44.1 de la LPRL permite a la empresa impugnar la decisión ante la autoridad laboral en el plazo de:",
+    "options": [
+      "Tres días hábiles, debiendo resolverse tal impugnación en el plazo máximo de veinticuatro horas.",
+      "Cinco días hábiles, debiendo resolverse en el plazo máximo de tres días.",
+      "Un mes, conforme al régimen general del recurso de alzada."
+    ],
+    "correct": 0,
+    "exp": "El art. 44.1, párrafo segundo, prevé la impugnación ante la autoridad laboral en el plazo de tres días hábiles —sin perjuicio del cumplimiento inmediato de la decisión— y su resolución en el plazo máximo de veinticuatro horas, resolución que será ejecutiva sin perjuicio de los recursos que procedan.",
+    "fuente": "Art. 44.1 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 44.2 de la LPRL dispone que los supuestos de paralización de trabajos que regula se entenderán, en todo caso:",
+    "options": [
+      "Sin perjuicio del pago del salario o de las indemnizaciones que procedan y de las medidas que puedan arbitrarse para su garantía.",
+      "Con suspensión del contrato de trabajo y sin derecho a retribución mientras dure la paralización.",
+      "Con derecho de la empresa a recuperar posteriormente las horas no trabajadas."
+    ],
+    "correct": 0,
+    "exp": "El art. 44.2 extiende esta regla tanto a las paralizaciones del propio artículo como a las previstas en la normativa reguladora de las actividades del art. 7.2 de la Ley.",
+    "fuente": "Art. 44.2 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La disposición adicional cuarta de la LPRL prevé que, en los centros de trabajo que carezcan de representantes de los trabajadores por no existir trabajadores con la antigüedad suficiente para ser electores o elegibles:",
+    "options": [
+      "No podrá ejercerse el derecho de participación hasta que se celebren elecciones sindicales.",
+      "Los trabajadores podrán elegir por mayoría a un trabajador que ejerza las competencias del Delegado de Prevención.",
+      "El empresario designará libremente al Delegado de Prevención entre la plantilla."
+    ],
+    "correct": 1,
+    "exp": "La D.A. 4.ª permite esa elección por mayoría; el trabajador elegido tendrá las facultades, garantías y obligaciones de sigilo profesional de los Delegados de Prevención, y su actuación cesará cuando se reúnan los requisitos de antigüedad para celebrar elecciones, prorrogándose por el tiempo indispensable para su efectiva celebración.",
+    "fuente": "D.A. 4.ª LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  }
+]);
