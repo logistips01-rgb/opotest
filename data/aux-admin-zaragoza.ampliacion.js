@@ -6594,3 +6594,2423 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 18 · lote 2026-08-10 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 18, [
+  {
+    "q": "Los funcionarios de carrera que, en virtud de procesos de transferencias o de procedimientos de provisión de puestos de trabajo, obtienen destino en una Administración Pública distinta, serán declarados en la situación de:",
+    "options": [
+      "Servicio en otras Administraciones Públicas",
+      "Servicios especiales",
+      "Excedencia voluntaria por interés particular"
+    ],
+    "correct": 0,
+    "exp": "El art. 88.1 declara en situación de servicio en otras Administraciones Públicas a los funcionarios que, por transferencias o por procedimientos de provisión de puestos, obtienen destino en otra Administración distinta.",
+    "fuente": "Art. 88.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 88.1 del TREBEP, un funcionario declarado en servicio en otras Administraciones Públicas se mantendrá en dicha situación aunque:",
+    "options": [
+      "Transcurran más de diez años en el puesto",
+      "La Administración de destino lo integre como personal propio por disposición legal",
+      "Sea objeto de un expediente disciplinario"
+    ],
+    "correct": 1,
+    "exp": "El art. 88.1 establece que se mantendrán en esta situación en el caso de que por disposición legal de la Administración a la que acceden se integren como personal propio de ésta.",
+    "fuente": "Art. 88.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Los funcionarios transferidos a las comunidades autónomas se integran plenamente en la organización de la función pública autonómica, hallándose en situación de:",
+    "options": [
+      "Servicio en otras Administraciones Públicas",
+      "Excedencia voluntaria por agrupación familiar",
+      "Servicio activo en la función pública de la comunidad autónoma"
+    ],
+    "correct": 2,
+    "exp": "El art. 88.2 dispone que los funcionarios transferidos a las comunidades autónomas se integran plenamente en su función pública, hallándose en situación de servicio activo en la función pública de la comunidad autónoma en la que se integran.",
+    "fuente": "Art. 88.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Al integrar a los funcionarios transferidos como personal propio, las comunidades autónomas deben respetar, conforme al artículo 88.2 del TREBEP:",
+    "options": [
+      "El Grupo o Subgrupo del cuerpo o escala de procedencia y los derechos económicos inherentes a la posición en la carrera reconocida",
+      "Únicamente la antigüedad reconocida en la Administración de origen",
+      "El régimen disciplinario aplicable en la Administración de origen"
+    ],
+    "correct": 0,
+    "exp": "El art. 88.2 exige respetar el Grupo o Subgrupo del cuerpo o escala de procedencia, así como los derechos económicos inherentes a la posición en la carrera que tuviesen reconocido.",
+    "fuente": "Art. 88.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Los funcionarios transferidos a una comunidad autónoma mantienen en la Administración Pública de origen:",
+    "options": [
+      "Ningún derecho, al perder su vinculación con la Administración de origen",
+      "Todos sus derechos, como si se hallaran en servicio activo, conforme a los respectivos Estatutos de Autonomía",
+      "Solo el derecho a la reserva del puesto de trabajo durante dos años"
+    ],
+    "correct": 1,
+    "exp": "El art. 88.2 señala que los funcionarios transferidos mantienen todos sus derechos en la Administración Pública de origen como si se hallaran en servicio activo, de acuerdo con los respectivos Estatutos de Autonomía.",
+    "fuente": "Art. 88.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 88.2 del TREBEP reconoce la igualdad entre todos los funcionarios propios de las comunidades autónomas:",
+    "options": [
+      "Solo cuando proceden de la misma Administración de origen",
+      "Únicamente a efectos retributivos, no de carrera",
+      "Con independencia de su Administración de procedencia"
+    ],
+    "correct": 2,
+    "exp": "El art. 88.2 reconoce la igualdad entre todos los funcionarios propios de las comunidades autónomas con independencia de su Administración de procedencia.",
+    "fuente": "Art. 88.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Los funcionarios de carrera en situación de servicio en otras Administraciones Públicas por haber obtenido puesto mediante los sistemas de provisión previstos en el TREBEP conservan:",
+    "options": [
+      "Su condición de funcionario de la Administración de origen y el derecho a participar en las convocatorias de provisión de puestos que ésta efectúe",
+      "Únicamente el derecho a percibir retribuciones de la Administración de origen",
+      "La obligación de solicitar autorización previa de la Administración de origen para cualquier ascenso"
+    ],
+    "correct": 0,
+    "exp": "El art. 88.3 establece que conservan su condición de funcionario de la Administración de origen y el derecho a participar en las convocatorias de provisión de puestos que efectúe esta última.",
+    "fuente": "Art. 88.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 88.3 del TREBEP, el tiempo de servicio prestado en la Administración Pública en la que estén destinados los funcionarios en dicha situación se les computará como:",
+    "options": [
+      "Tiempo de excedencia voluntaria",
+      "Servicio activo en su cuerpo o escala de origen",
+      "Tiempo no computable a ningún efecto"
+    ],
+    "correct": 1,
+    "exp": "El art. 88.3 señala que el tiempo de servicio en la Administración Pública en la que estén destinados se les computará como de servicio activo en su cuerpo o escala de origen.",
+    "fuente": "Art. 88.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Los funcionarios que reingresen al servicio activo en su Administración de origen procedentes de la situación de servicio en otras Administraciones Públicas obtendrán, conforme al artículo 88.4 del TREBEP:",
+    "options": [
+      "La pérdida automática de la antigüedad reconocida",
+      "El derecho a una excedencia voluntaria de un año",
+      "El reconocimiento profesional de los progresos alcanzados en el sistema de carrera profesional y sus efectos retributivos"
+    ],
+    "correct": 2,
+    "exp": "El art. 88.4 reconoce a estos funcionarios el reconocimiento profesional de los progresos alcanzados en el sistema de carrera profesional y sus efectos sobre la posición retributiva.",
+    "fuente": "Art. 88.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántas modalidades de excedencia contempla el artículo 89.1 del TREBEP?",
+    "options": [
+      "Cinco",
+      "Tres",
+      "Cuatro"
+    ],
+    "correct": 0,
+    "exp": "El art. 89.1 recoge cinco modalidades: interés particular, agrupación familiar, cuidado de familiares, violencia de género o sexual, y violencia terrorista.",
+    "fuente": "Art. 89.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La excedencia por razón de violencia terrorista se recoge en el artículo 89.1 del TREBEP en la letra:",
+    "options": [
+      "c)",
+      "e)",
+      "d)"
+    ],
+    "correct": 1,
+    "exp": "El art. 89.1.e) contempla la excedencia por razón de violencia terrorista.",
+    "fuente": "Art. 89.1.e) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La excedencia voluntaria por agrupación familiar se regula en el artículo 89.1 del TREBEP en la letra:",
+    "options": [
+      "c)",
+      "d)",
+      "b)"
+    ],
+    "correct": 2,
+    "exp": "El art. 89.1.b) recoge la excedencia voluntaria por agrupación familiar.",
+    "fuente": "Art. 89.1.b) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La concesión de la excedencia voluntaria por interés particular queda subordinada, conforme al artículo 89.2 del TREBEP, a:",
+    "options": [
+      "Las necesidades del servicio debidamente motivadas",
+      "La antigüedad del funcionario en el puesto",
+      "El informe favorable del sindicato mayoritario"
+    ],
+    "correct": 0,
+    "exp": "El art. 89.2 subordina la concesión de esta excedencia a las necesidades del servicio debidamente motivadas.",
+    "fuente": "Art. 89.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 89.2 del TREBEP, la excedencia voluntaria por interés particular no podrá declararse cuando:",
+    "options": [
+      "El funcionario disfrute de vacaciones ese año",
+      "Al funcionario se le esté instruyendo expediente disciplinario",
+      "El puesto de trabajo esté vacante"
+    ],
+    "correct": 1,
+    "exp": "El art. 89.2 establece que no podrá declararse esta excedencia cuando al funcionario público se le instruya expediente disciplinario.",
+    "fuente": "Art. 89.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Procederá declarar de oficio la excedencia voluntaria por interés particular, conforme al artículo 89.2 del TREBEP, cuando:",
+    "options": [
+      "El funcionario lo solicite expresamente por escrito",
+      "Transcurran cinco años desde el ingreso en la función pública",
+      "Finalizada la causa que determinó el pase a una situación distinta de servicio activo, se incumpla la obligación de solicitar el reingreso en plazo"
+    ],
+    "correct": 2,
+    "exp": "El art. 89.2 dispone que procederá declarar de oficio esta excedencia cuando, finalizada la causa que determinó el pase a una situación distinta de servicio activo, se incumpla la obligación de solicitar el reingreso en el plazo reglamentario.",
+    "fuente": "Art. 89.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Quienes se encuentren en situación de excedencia voluntaria por interés particular, conforme al artículo 89.2 del TREBEP:",
+    "options": [
+      "No devengarán retribuciones, ni les será computable el tiempo a efectos de ascensos, trienios y derechos de Seguridad Social",
+      "Devengarán retribuciones reducidas al 50 por ciento",
+      "Mantendrán el cómputo a efectos de trienios pero no de ascensos"
+    ],
+    "correct": 0,
+    "exp": "El art. 89.2 señala que no devengarán retribuciones, ni les será computable el tiempo que permanezcan en tal situación a efectos de ascensos, trienios y derechos de Seguridad Social.",
+    "fuente": "Art. 89.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 89.2 del TREBEP permite que las leyes de función pública que se dicten en su desarrollo:",
+    "options": [
+      "Supriman la excedencia voluntaria por interés particular",
+      "Establezcan una duración menor del periodo de servicios exigido y determinen los periodos mínimos de permanencia",
+      "Amplíen el periodo exigido a diez años en todo caso"
+    ],
+    "correct": 1,
+    "exp": "El art. 89.2 permite que las leyes de función pública establezcan una duración menor del periodo de prestación de servicios exigido y determinen los periodos mínimos de permanencia en la excedencia.",
+    "fuente": "Art. 89.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La excedencia voluntaria por agrupación familiar podrá concederse, conforme al artículo 89.3 del TREBEP:",
+    "options": [
+      "Solo si el funcionario ha prestado cinco años de servicios efectivos",
+      "Únicamente a funcionarios sin hijos a cargo",
+      "Sin el requisito de haber prestado servicios efectivos durante el periodo establecido"
+    ],
+    "correct": 2,
+    "exp": "El art. 89.3 permite conceder esta excedencia sin el requisito de haber prestado servicios efectivos durante el periodo establecido para la excedencia por interés particular.",
+    "fuente": "Art. 89.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La excedencia voluntaria por agrupación familiar exige que el cónyuge del funcionario resida en otra localidad por haber obtenido y estar desempeñando un puesto de trabajo de carácter:",
+    "options": [
+      "Definitivo, como funcionario de carrera o laboral fijo",
+      "Temporal como interino",
+      "Provisional en comisión de servicios"
+    ],
+    "correct": 0,
+    "exp": "El art. 89.3 exige que el cónyuge resida en otra localidad por haber obtenido y estar desempeñando un puesto de trabajo de carácter definitivo, como funcionario de carrera o como laboral fijo.",
+    "fuente": "Art. 89.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 89.3 del TREBEP, el puesto de trabajo definitivo del cónyuge que da lugar a la excedencia por agrupación familiar puede desempeñarse, entre otros ámbitos, en:",
+    "options": [
+      "Únicamente en la Administración General del Estado",
+      "La Unión Europea o en organizaciones internacionales",
+      "Exclusivamente en empresas privadas concesionarias de servicios públicos"
+    ],
+    "correct": 1,
+    "exp": "El art. 89.3 incluye entre los ámbitos posibles la Unión Europea o las organizaciones internacionales, además de las Administraciones Públicas y órganos constitucionales o del Poder Judicial.",
+    "fuente": "Art. 89.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Quienes se encuentren en situación de excedencia voluntaria por agrupación familiar, conforme al artículo 89.3 del TREBEP:",
+    "options": [
+      "Conservan el cómputo del tiempo a efectos de trienios",
+      "Tienen derecho a reserva de puesto durante dos años",
+      "No devengarán retribuciones ni les será computable el tiempo a efectos de ascensos, trienios y Seguridad Social"
+    ],
+    "correct": 2,
+    "exp": "El art. 89.3 dispone que no devengarán retribuciones, ni les será computable el tiempo que permanezcan en tal situación a efectos de ascensos, trienios y Seguridad Social.",
+    "fuente": "Art. 89.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La excedencia por cuidado de familiares para atender a un familiar a su cargo hasta el segundo grado de consanguinidad o afinidad exige, conforme al artículo 89.4 del TREBEP, que dicho familiar:",
+    "options": [
+      "No pueda valerse por sí mismo por razones de edad, accidente, enfermedad o discapacidad y no desempeñe actividad retribuida",
+      "Resida en el mismo domicilio que el funcionario",
+      "Tenga reconocida una discapacidad igual o superior al 65 por ciento"
+    ],
+    "correct": 0,
+    "exp": "El art. 89.4 exige que el familiar, por razones de edad, accidente, enfermedad o discapacidad, no pueda valerse por sí mismo y no desempeñe actividad retribuida.",
+    "fuente": "Art. 89.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 89.4 del TREBEP, el periodo de excedencia por cuidado de familiares será:",
+    "options": [
+      "Acumulable indefinidamente por cada nuevo sujeto causante",
+      "Único por cada sujeto causante, de modo que un nuevo sujeto causante pone fin al que se viniera disfrutando",
+      "Prorrogable automáticamente hasta la jubilación del funcionario"
+    ],
+    "correct": 1,
+    "exp": "El art. 89.4 establece que el período de excedencia será único por cada sujeto causante, y que un nuevo sujeto causante pone fin al que se viniera disfrutando.",
+    "fuente": "Art. 89.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Si dos funcionarios generasen el derecho a disfrutar de la excedencia por cuidado de familiares por el mismo sujeto causante, el artículo 89.4 del TREBEP permite a la Administración:",
+    "options": [
+      "Denegarla automáticamente a ambos",
+      "Obligar a que la disfrute solo el funcionario de mayor antigüedad",
+      "Limitar su ejercicio simultáneo por razones justificadas relacionadas con el funcionamiento de los servicios"
+    ],
+    "correct": 2,
+    "exp": "El art. 89.4 permite a la Administración limitar el ejercicio simultáneo de esta excedencia por razones justificadas relacionadas con el funcionamiento de los servicios.",
+    "fuente": "Art. 89.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El tiempo de permanencia en la excedencia por cuidado de familiares, conforme al artículo 89.4 del TREBEP, será computable a efectos de:",
+    "options": [
+      "Trienios, carrera y derechos en el régimen de Seguridad Social aplicable",
+      "Únicamente a efectos de antigüedad, no de Seguridad Social",
+      "Ningún efecto, salvo el reingreso"
+    ],
+    "correct": 0,
+    "exp": "El art. 89.4 señala que el tiempo de permanencia será computable a efectos de trienios, carrera y derechos en el régimen de Seguridad Social que sea de aplicación.",
+    "fuente": "Art. 89.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En la excedencia por cuidado de familiares, el puesto de trabajo desempeñado se reservará, conforme al artículo 89.4 del TREBEP:",
+    "options": [
+      "Durante todo el periodo de excedencia, sin límite",
+      "Al menos durante dos años, y transcurrido este periodo la reserva será a un puesto en la misma localidad y de igual retribución",
+      "Solo durante los primeros seis meses"
+    ],
+    "correct": 1,
+    "exp": "El art. 89.4 establece que el puesto se reservará al menos durante dos años, y transcurrido este periodo la reserva será a un puesto en la misma localidad y de igual retribución.",
+    "fuente": "Art. 89.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Los funcionarios en situación de excedencia por cuidado de familiares, conforme al artículo 89.4 del TREBEP:",
+    "options": [
+      "Tienen prohibido participar en cursos de formación convocados por la Administración",
+      "Solo podrán formarse por cuenta propia y sin relación con la Administración",
+      "Podrán participar en los cursos de formación que convoque la Administración"
+    ],
+    "correct": 2,
+    "exp": "El art. 89.4 reconoce a estos funcionarios el derecho a participar en los cursos de formación que convoque la Administración.",
+    "fuente": "Art. 89.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Las funcionarias víctimas de violencia de género o de violencia sexual tendrán derecho a solicitar la excedencia, conforme al artículo 89.5 del TREBEP:",
+    "options": [
+      "Sin tener que haber prestado un tiempo mínimo de servicios previos y sin que sea exigible plazo de permanencia",
+      "Solo tras haber prestado cinco años de servicios efectivos",
+      "Con un plazo mínimo de permanencia de un año"
+    ],
+    "correct": 0,
+    "exp": "El art. 89.5 reconoce este derecho sin tener que haber prestado un tiempo mínimo de servicios previos y sin que sea exigible plazo de permanencia en la excedencia.",
+    "fuente": "Art. 89.5 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Durante los seis primeros meses de la excedencia por razón de violencia de género o sexual, dicho periodo será computable, conforme al artículo 89.5 del TREBEP, a efectos de:",
+    "options": [
+      "Solo a efectos de antigüedad",
+      "Antigüedad, carrera y derechos del régimen de Seguridad Social aplicable",
+      "No será computable a ningún efecto"
+    ],
+    "correct": 1,
+    "exp": "El art. 89.5 dispone que dicho período de reserva será computable a efectos de antigüedad, carrera y derechos del régimen de Seguridad Social que sea de aplicación.",
+    "fuente": "Art. 89.5 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando las actuaciones judiciales lo exigieran, el periodo de reserva de puesto en la excedencia por violencia de género o sexual podrá prorrogarse, conforme al artículo 89.5 del TREBEP:",
+    "options": [
+      "Por seis meses, sin límite máximo",
+      "Por un año adicional improrrogable",
+      "Por tres meses, con un máximo de dieciocho meses"
+    ],
+    "correct": 2,
+    "exp": "El art. 89.5 permite prorrogar el periodo por tres meses, con un máximo de dieciocho meses, cuando las actuaciones judiciales lo exijan.",
+    "fuente": "Art. 89.5 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Durante los dos primeros meses de la excedencia por razón de violencia de género o sexual, la funcionaria tendrá derecho, conforme al artículo 89.5 del TREBEP, a percibir:",
+    "options": [
+      "Las retribuciones íntegras y, en su caso, las prestaciones familiares por hijo a cargo",
+      "El 50 por ciento de sus retribuciones",
+      "Únicamente las retribuciones básicas, sin complementos"
+    ],
+    "correct": 0,
+    "exp": "El art. 89.5 reconoce el derecho a percibir las retribuciones íntegras y, en su caso, las prestaciones familiares por hijo a cargo durante los dos primeros meses.",
+    "fuente": "Art. 89.5 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La finalidad de la excedencia por razón de violencia de género o de violencia sexual, conforme al artículo 89.5 del TREBEP, es hacer efectiva:",
+    "options": [
+      "La reducción de jornada laboral de la víctima",
+      "La protección de la víctima o su derecho a la asistencia social integral",
+      "La conciliación de la vida laboral y familiar en general"
+    ],
+    "correct": 1,
+    "exp": "El art. 89.5 señala que esta excedencia tiene por objeto hacer efectiva la protección de la víctima o su derecho a la asistencia social integral.",
+    "fuente": "Art. 89.5 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Tendrán derecho a la excedencia por razón de violencia terrorista, conforme al artículo 89.6 del TREBEP, los funcionarios que hayan sufrido daños físicos o psíquicos como consecuencia de la actividad terrorista, así como:",
+    "options": [
+      "Cualquier funcionario que resida en una zona de riesgo",
+      "Los familiares de segundo grado de una víctima del terrorismo",
+      "Los amenazados en los términos del artículo 5 de la Ley 29/2011, de 22 de septiembre"
+    ],
+    "correct": 2,
+    "exp": "El art. 89.6 extiende este derecho a los amenazados en los términos del artículo 5 de la Ley 29/2011, de Reconocimiento y Protección Integral a las Víctimas del Terrorismo.",
+    "fuente": "Art. 89.6 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El derecho a la excedencia por razón de violencia terrorista, conforme al artículo 89.6 del TREBEP, requiere el previo reconocimiento de:",
+    "options": [
+      "El Ministerio del Interior o sentencia judicial firme",
+      "El Ministerio de Justicia únicamente",
+      "El Defensor del Pueblo"
+    ],
+    "correct": 0,
+    "exp": "El art. 89.6 exige el previo reconocimiento del Ministerio del Interior o de sentencia judicial firme.",
+    "fuente": "Art. 89.6 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Los funcionarios que accedan a la excedencia por razón de violencia terrorista disfrutarán de dicho periodo, conforme al artículo 89.6 del TREBEP:",
+    "options": [
+      "En condiciones distintas y menos favorables que las víctimas de violencia de género",
+      "En las mismas condiciones que las víctimas de violencia de género o de violencia sexual",
+      "Solo durante un máximo de tres meses"
+    ],
+    "correct": 1,
+    "exp": "El art. 89.6 reconoce el derecho a disfrutar de la excedencia en las mismas condiciones que las víctimas de violencia de género o de violencia sexual.",
+    "fuente": "Art. 89.6 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La excedencia por razón de violencia terrorista será autorizada y mantenida en el tiempo, conforme al artículo 89.6 del TREBEP:",
+    "options": [
+      "Durante un plazo fijo de dieciocho meses en todo caso",
+      "Únicamente hasta que se dicte sentencia firme en el procedimiento penal",
+      "En tanto resulte necesaria para la protección y asistencia social integral de la persona, por las secuelas o la amenaza, en los términos previstos reglamentariamente"
+    ],
+    "correct": 2,
+    "exp": "El art. 89.6 dispone que la excedencia será autorizada y mantenida en tanto resulte necesaria para la protección y asistencia social integral de la persona, ya sea por las secuelas de la acción terrorista, ya sea por la amenaza, en los términos reglamentarios.",
+    "fuente": "Art. 89.6 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 90.1 del TREBEP, el funcionario declarado en situación de suspensión quedará privado durante el tiempo de permanencia en la misma de:",
+    "options": [
+      "El ejercicio de sus funciones y de todos los derechos inherentes a su condición",
+      "Solo del ejercicio de sus funciones, conservando el resto de derechos",
+      "Únicamente de las retribuciones complementarias"
+    ],
+    "correct": 0,
+    "exp": "El art. 90.1 establece que el funcionario suspendido queda privado del ejercicio de sus funciones y de todos los derechos inherentes a la condición durante el tiempo de permanencia en la situación.",
+    "fuente": "Art. 90.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La suspensión firme, conforme al artículo 90.2 del TREBEP, se impondrá en virtud de:",
+    "options": [
+      "Resolución administrativa de cese en el puesto",
+      "Sentencia dictada en causa criminal o de sanción disciplinaria",
+      "Decisión unilateral del superior jerárquico"
+    ],
+    "correct": 1,
+    "exp": "El art. 90.2 dispone que la suspensión firme se impondrá en virtud de sentencia dictada en causa criminal o en virtud de sanción disciplinaria.",
+    "fuente": "Art. 90.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El funcionario declarado en situación de suspensión de funciones, conforme al artículo 90.3 del TREBEP, no podrá:",
+    "options": [
+      "Residir fuera del municipio donde prestaba servicios",
+      "Ejercer cualquier profesión, incluidas las del sector privado",
+      "Prestar servicios en ninguna Administración Pública ni en los organismos, agencias o entidades de derecho público dependientes o vinculadas a ellas durante el cumplimiento de la pena o sanción"
+    ],
+    "correct": 2,
+    "exp": "El art. 90.3 prohíbe prestar servicios en ninguna Administración Pública ni en los organismos, agencias o entidades de derecho público dependientes o vinculadas a ellas durante el tiempo de cumplimiento de la pena o sanción.",
+    "fuente": "Art. 90.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 90.4 del TREBEP permite acordar la suspensión de funciones con carácter provisional:",
+    "options": [
+      "Con ocasión de la tramitación de un procedimiento judicial o expediente disciplinario, en los términos establecidos en el Estatuto",
+      "Solo tras sentencia firme condenatoria",
+      "Exclusivamente por decisión del Ministerio Fiscal"
+    ],
+    "correct": 0,
+    "exp": "El art. 90.4 permite acordar la suspensión provisional con ocasión de la tramitación de un procedimiento judicial o expediente disciplinario, en los términos establecidos en el Estatuto.",
+    "fuente": "Art. 90.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  }
+]);
+
+/* tema 18 · lote 2026-08-10 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 18, [
+  {
+    "q": "Según el art. 93.1 TREBEP, ¿a qué régimen quedan sujetos los funcionarios públicos y el personal laboral en materia disciplinaria?",
+    "options": [
+      "Al régimen disciplinario establecido en el título correspondiente del TREBEP y en las normas que las leyes de Función Pública dicten en su desarrollo",
+      "Únicamente al régimen disciplinario que establezca el convenio colectivo aplicable",
+      "Al régimen disciplinario previsto en el Código Penal en todo caso"
+    ],
+    "correct": 0,
+    "exp": "El art. 93.1 TREBEP establece que funcionarios públicos y personal laboral quedan sujetos al régimen disciplinario establecido en el presente título y en las normas que las leyes de Función Pública dicten en desarrollo de este Estatuto.",
+    "fuente": "Art. 93.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué responsabilidad establece el art. 93.2 TREBEP para el funcionario público o personal laboral que induce a otro a realizar una conducta constitutiva de falta disciplinaria?",
+    "options": [
+      "Una responsabilidad atenuada respecto de la del autor material",
+      "La misma responsabilidad que la de quien realiza materialmente la conducta",
+      "Ninguna responsabilidad disciplinaria, sin perjuicio de la penal"
+    ],
+    "correct": 1,
+    "exp": "El art. 93.2 TREBEP dispone que quienes indujeren a otros a la realización de actos o conductas constitutivos de falta disciplinaria incurrirán en la misma responsabilidad que éstos.",
+    "fuente": "Art. 93.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 93.3 TREBEP, ¿qué requisito adicional exige la norma para que el encubrimiento de faltas consumadas muy graves o graves genere responsabilidad disciplinaria?",
+    "options": [
+      "Que el encubridor ostente la condición de superior jerárquico del autor",
+      "Que la falta encubierta haya sido ya objeto de sanción firme",
+      "Que de dichos actos se derive daño grave para la Administración o los ciudadanos"
+    ],
+    "correct": 2,
+    "exp": "El art. 93.3 TREBEP exige que de los actos de encubrimiento se derive daño grave para la Administración o los ciudadanos.",
+    "fuente": "Art. 93.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 93.4 TREBEP, el régimen disciplinario del personal laboral, en lo no previsto en el título dedicado al régimen disciplinario del TREBEP, se rige por...",
+    "options": [
+      "La legislación laboral",
+      "El Estatuto Básico del Empleado Público, sin remisión alguna a otra normativa",
+      "El Código Civil"
+    ],
+    "correct": 0,
+    "exp": "El art. 93.4 TREBEP establece que el régimen disciplinario del personal laboral se regirá, en lo no previsto en el presente título, por la legislación laboral.",
+    "fuente": "Art. 93.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 94.1 TREBEP, la corrección disciplinaria de las infracciones del personal cometidas en el ejercicio de sus funciones y cargos se entiende...",
+    "options": [
+      "Excluyente de cualquier otra responsabilidad patrimonial o penal",
+      "Sin perjuicio de la responsabilidad patrimonial o penal que pudiera derivarse de tales infracciones",
+      "Condicionada a que exista previamente sentencia penal firme"
+    ],
+    "correct": 1,
+    "exp": "El art. 94.1 TREBEP señala que las Administraciones Públicas corregirán disciplinariamente las infracciones sin perjuicio de la responsabilidad patrimonial o penal que pudiera derivarse.",
+    "fuente": "Art. 94.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué principio de la potestad disciplinaria recoge la letra a) del art. 94.2 TREBEP?",
+    "options": [
+      "Principio de proporcionalidad",
+      "Principio de culpabilidad",
+      "Principio de legalidad y tipicidad de las faltas y sanciones"
+    ],
+    "correct": 2,
+    "exp": "El art. 94.2.a) TREBEP recoge el principio de legalidad y tipicidad de las faltas y sanciones, a través de la predeterminación normativa o, en el caso del personal laboral, de los convenios colectivos.",
+    "fuente": "Art. 94.2.a) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El principio de irretroactividad de las disposiciones sancionadoras no favorables y de retroactividad de las favorables al presunto infractor, ¿en qué letra del art. 94.2 TREBEP se recoge?",
+    "options": [
+      "Letra b)",
+      "Letra d)",
+      "Letra e)"
+    ],
+    "correct": 0,
+    "exp": "El art. 94.2.b) TREBEP recoge el principio de irretroactividad de las disposiciones sancionadoras no favorables y de retroactividad de las favorables al presunto infractor.",
+    "fuente": "Art. 94.2.b) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 94.2.c) TREBEP, el principio de proporcionalidad resulta aplicable a...",
+    "options": [
+      "Solo a la aplicación de las sanciones, no a su clasificación",
+      "Tanto a la clasificación de las infracciones y sanciones como a su aplicación",
+      "Únicamente a la clasificación de las infracciones, no a las sanciones"
+    ],
+    "correct": 1,
+    "exp": "El art. 94.2.c) TREBEP dispone que el principio de proporcionalidad es aplicable tanto a la clasificación de las infracciones y sanciones como a su aplicación.",
+    "fuente": "Art. 94.2.c) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de los siguientes es uno de los principios de la potestad disciplinaria recogidos en el art. 94.2 TREBEP?",
+    "options": [
+      "Principio de oportunidad",
+      "Principio de jerarquía normativa",
+      "Principio de culpabilidad"
+    ],
+    "correct": 2,
+    "exp": "El art. 94.2.d) TREBEP incluye entre los principios de la potestad disciplinaria el principio de culpabilidad.",
+    "fuente": "Art. 94.2.d) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La letra e) del art. 94.2 TREBEP, entre los principios de la potestad disciplinaria, recoge el principio de...",
+    "options": [
+      "Presunción de inocencia",
+      "Buena fe",
+      "Confianza legítima"
+    ],
+    "correct": 0,
+    "exp": "El art. 94.2.e) TREBEP recoge el principio de presunción de inocencia como uno de los principios de la potestad disciplinaria.",
+    "fuente": "Art. 94.2.e) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 94.3 TREBEP, ¿qué efecto tienen los hechos declarados probados por resoluciones judiciales firmes?",
+    "options": [
+      "Solo tienen valor orientativo para el órgano disciplinario",
+      "Vinculan a la Administración",
+      "Deben ser revisados por el Ministerio Fiscal antes de vincular a la Administración"
+    ],
+    "correct": 1,
+    "exp": "El art. 94.3 TREBEP establece que los hechos declarados probados por resoluciones judiciales firmes vinculan a la Administración.",
+    "fuente": "Art. 94.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes conductas constituye falta muy grave conforme a la letra a) del art. 95.2 TREBEP?",
+    "options": [
+      "El abandono del servicio, así como no hacerse cargo voluntariamente de las tareas o funciones encomendadas",
+      "La adopción de acuerdos manifiestamente ilegales que causen perjuicio grave a la Administración o a los ciudadanos",
+      "El incumplimiento del deber de respeto a la Constitución y a los respectivos Estatutos de Autonomía en el ejercicio de la función pública"
+    ],
+    "correct": 2,
+    "exp": "El art. 95.2.a) TREBEP tipifica como falta muy grave el incumplimiento del deber de respeto a la Constitución y a los respectivos Estatutos de Autonomía de las comunidades autónomas y ciudades de Ceuta y Melilla, en el ejercicio de la función pública.",
+    "fuente": "Art. 95.2.a) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La letra b) del art. 95.2 TREBEP tipifica como falta muy grave, entre otras conductas, el acoso por razón de sexo, origen racial o étnico, religión o convicciones, discapacidad, edad u orientación sexual, así como...",
+    "options": [
+      "El acoso moral y sexual",
+      "La negligencia en la custodia de secretos oficiales",
+      "La desobediencia abierta a las órdenes de un superior"
+    ],
+    "correct": 0,
+    "exp": "El art. 95.2.b) TREBEP tipifica toda actuación que suponga discriminación por diversos motivos, así como el acoso por razón de sexo, origen racial o étnico, religión o convicciones, discapacidad, edad, orientación sexual, expresión de género, características sexuales, y el acoso moral y sexual.",
+    "fuente": "Art. 95.2.b) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 95.2.c) TREBEP, constituye falta muy grave el abandono del servicio, así como...",
+    "options": [
+      "La negligencia en la custodia de secretos oficiales",
+      "No hacerse cargo voluntariamente de las tareas o funciones que se tienen encomendadas",
+      "La incomparecencia injustificada en las Comisiones de Investigación de las Cortes Generales"
+    ],
+    "correct": 1,
+    "exp": "El art. 95.2.c) TREBEP tipifica el abandono del servicio, así como no hacerse cargo voluntariamente de las tareas o funciones que se tienen encomendadas.",
+    "fuente": "Art. 95.2.c) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué conducta tipifica como falta muy grave la letra d) del art. 95.2 TREBEP?",
+    "options": [
+      "La violación de la imparcialidad utilizando las facultades atribuidas para influir en procesos electorales",
+      "El notorio incumplimiento de las funciones esenciales inherentes al puesto de trabajo",
+      "La adopción de acuerdos manifiestamente ilegales que causen perjuicio grave a la Administración o a los ciudadanos"
+    ],
+    "correct": 2,
+    "exp": "El art. 95.2.d) TREBEP tipifica como falta muy grave la adopción de acuerdos manifiestamente ilegales que causen perjuicio grave a la Administración o a los ciudadanos.",
+    "fuente": "Art. 95.2.d) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La letra e) del art. 95.2 TREBEP tipifica como falta muy grave...",
+    "options": [
+      "La publicación o utilización indebida de la documentación o información a que se tenga o haya tenido acceso por razón del cargo o función",
+      "El incumplimiento de las normas sobre incompatibilidades cuando dé lugar a una situación de incompatibilidad",
+      "La obstaculización al ejercicio de las libertades públicas y derechos sindicales"
+    ],
+    "correct": 0,
+    "exp": "El art. 95.2.e) TREBEP tipifica la publicación o utilización indebida de la documentación o información a que tengan o hayan tenido acceso por razón de su cargo o función.",
+    "fuente": "Art. 95.2.e) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué conducta se tipifica en la letra f) del art. 95.2 TREBEP?",
+    "options": [
+      "El acoso laboral",
+      "La negligencia en la custodia de secretos oficiales, declarados así por Ley o clasificados como tales, que sea causa de su publicación o provoque su difusión o conocimiento indebido",
+      "La realización de actos encaminados a coartar el libre ejercicio del derecho de huelga"
+    ],
+    "correct": 1,
+    "exp": "El art. 95.2.f) TREBEP tipifica la negligencia en la custodia de secretos oficiales, declarados así por Ley o clasificados como tales, que sea causa de su publicación o que provoque su difusión o conocimiento indebido.",
+    "fuente": "Art. 95.2.f) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la letra g) del art. 95.2 TREBEP, constituye falta muy grave...",
+    "options": [
+      "El incumplimiento de la obligación de atender los servicios esenciales en caso de huelga",
+      "La desobediencia abierta a las órdenes o instrucciones de un superior",
+      "El notorio incumplimiento de las funciones esenciales inherentes al puesto de trabajo o funciones encomendadas"
+    ],
+    "correct": 2,
+    "exp": "El art. 95.2.g) TREBEP tipifica el notorio incumplimiento de las funciones esenciales inherentes al puesto de trabajo o funciones encomendadas.",
+    "fuente": "Art. 95.2.g) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La letra h) del art. 95.2 TREBEP tipifica como falta muy grave...",
+    "options": [
+      "La violación de la imparcialidad, utilizando las facultades atribuidas para influir en procesos electorales de cualquier naturaleza y ámbito",
+      "La prevalencia de la condición de empleado público para obtener un beneficio indebido para sí o para otro",
+      "El incumplimiento del deber de respeto a la Constitución"
+    ],
+    "correct": 0,
+    "exp": "El art. 95.2.h) TREBEP tipifica la violación de la imparcialidad, utilizando las facultades atribuidas para influir en procesos electorales de cualquier naturaleza y ámbito.",
+    "fuente": "Art. 95.2.h) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la letra i) del art. 95.2 TREBEP, constituye falta muy grave...",
+    "options": [
+      "La obstaculización al ejercicio de las libertades públicas y derechos sindicales",
+      "La desobediencia abierta a las órdenes o instrucciones de un superior, salvo que constituyan infracción manifiesta del Ordenamiento jurídico",
+      "El acoso laboral"
+    ],
+    "correct": 1,
+    "exp": "El art. 95.2.i) TREBEP tipifica la desobediencia abierta a las órdenes o instrucciones de un superior, salvo que constituyan infracción manifiesta del Ordenamiento jurídico.",
+    "fuente": "Art. 95.2.i) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué conducta tipifica la letra j) del art. 95.2 TREBEP?",
+    "options": [
+      "El notorio incumplimiento de las funciones esenciales inherentes al puesto de trabajo",
+      "La incomparecencia injustificada en las Comisiones de Investigación de las Cortes Generales",
+      "La prevalencia de la condición de empleado público para obtener un beneficio indebido para sí o para otro"
+    ],
+    "correct": 2,
+    "exp": "El art. 95.2.j) TREBEP tipifica la prevalencia de la condición de empleado público para obtener un beneficio indebido para sí o para otro.",
+    "fuente": "Art. 95.2.j) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La letra k) del art. 95.2 TREBEP tipifica como falta muy grave...",
+    "options": [
+      "La obstaculización al ejercicio de las libertades públicas y derechos sindicales",
+      "El incumplimiento de las normas sobre incompatibilidades cuando ello dé lugar a una situación de incompatibilidad",
+      "Los actos encaminados a coartar el libre ejercicio del derecho de huelga"
+    ],
+    "correct": 0,
+    "exp": "El art. 95.2.k) TREBEP tipifica la obstaculización al ejercicio de las libertades públicas y derechos sindicales.",
+    "fuente": "Art. 95.2.k) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la letra l) del art. 95.2 TREBEP, constituye falta muy grave...",
+    "options": [
+      "El incumplimiento de la obligación de atender los servicios esenciales en caso de huelga",
+      "La realización de actos encaminados a coartar el libre ejercicio del derecho de huelga",
+      "La obstaculización al ejercicio de las libertades públicas y derechos sindicales"
+    ],
+    "correct": 1,
+    "exp": "El art. 95.2.l) TREBEP tipifica la realización de actos encaminados a coartar el libre ejercicio del derecho de huelga.",
+    "fuente": "Art. 95.2.l) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué conducta tipifica la letra m) del art. 95.2 TREBEP?",
+    "options": [
+      "La realización de actos encaminados a coartar el libre ejercicio del derecho de huelga",
+      "El incumplimiento de las normas sobre incompatibilidades",
+      "El incumplimiento de la obligación de atender los servicios esenciales en caso de huelga"
+    ],
+    "correct": 2,
+    "exp": "El art. 95.2.m) TREBEP tipifica el incumplimiento de la obligación de atender los servicios esenciales en caso de huelga.",
+    "fuente": "Art. 95.2.m) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la letra n) del art. 95.2 TREBEP, el incumplimiento de las normas sobre incompatibilidades constituye falta muy grave cuando...",
+    "options": [
+      "Ello dé lugar a una situación de incompatibilidad",
+      "Se produzca durante el primer año de servicio activo",
+      "Afecte a un puesto de trabajo de nivel superior"
+    ],
+    "correct": 0,
+    "exp": "El art. 95.2.n) TREBEP tipifica el incumplimiento de las normas sobre incompatibilidades cuando ello dé lugar a una situación de incompatibilidad.",
+    "fuente": "Art. 95.2.n) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué conducta tipifica la letra ñ) del art. 95.2 TREBEP?",
+    "options": [
+      "El acoso laboral",
+      "La incomparecencia injustificada en las Comisiones de Investigación de las Cortes Generales y de las asambleas legislativas de las comunidades autónomas",
+      "La violación de la imparcialidad utilizando las facultades atribuidas para influir en procesos electorales"
+    ],
+    "correct": 1,
+    "exp": "El art. 95.2.ñ) TREBEP tipifica la incomparecencia injustificada en las Comisiones de Investigación de las Cortes Generales y de las asambleas legislativas de las comunidades autónomas.",
+    "fuente": "Art. 95.2.ñ) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La letra o) del art. 95.2 TREBEP tipifica expresamente como falta muy grave...",
+    "options": [
+      "El abandono del servicio",
+      "La negligencia en la custodia de secretos oficiales",
+      "El acoso laboral"
+    ],
+    "correct": 2,
+    "exp": "El art. 95.2.o) TREBEP tipifica el acoso laboral como falta muy grave.",
+    "fuente": "Art. 95.2.o) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la letra p) del art. 95.2 TREBEP, también tendrán la consideración de faltas muy graves...",
+    "options": [
+      "Las que queden tipificadas como tales en ley de las Cortes Generales o de la asamblea legislativa de la correspondiente comunidad autónoma, o por los convenios colectivos en el caso de personal laboral",
+      "Las que establezca el reglamento orgánico de cada Ayuntamiento sin necesidad de rango legal",
+      "Las que determine motivadamente el órgano competente para incoar el procedimiento disciplinario"
+    ],
+    "correct": 0,
+    "exp": "El art. 95.2.p) TREBEP establece que también serán faltas muy graves las que queden tipificadas como tales en ley de las Cortes Generales o de la asamblea legislativa de la correspondiente comunidad autónoma o por los convenios colectivos en el caso de personal laboral.",
+    "fuente": "Art. 95.2.p) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Además de la discriminación por los motivos enumerados, ¿qué otra conducta incluye la letra b) del art. 95.2 TREBEP entre las faltas muy graves?",
+    "options": [
+      "La negligencia en la custodia de secretos oficiales",
+      "El acoso moral y sexual",
+      "La incomparecencia injustificada en las Comisiones de Investigación"
+    ],
+    "correct": 1,
+    "exp": "La letra b) del art. 95.2 TREBEP, además de tipificar la discriminación por diversos motivos, incluye expresamente el acoso moral y sexual.",
+    "fuente": "Art. 95.2.b) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La desobediencia abierta a las órdenes o instrucciones de un superior tipificada en la letra i) del art. 95.2 TREBEP deja de constituir falta muy grave cuando...",
+    "options": [
+      "El superior no ostente la condición de funcionario de carrera",
+      "El empleado público hubiera formulado previamente una queja formal",
+      "Las órdenes constituyan infracción manifiesta del Ordenamiento jurídico"
+    ],
+    "correct": 2,
+    "exp": "El art. 95.2.i) TREBEP exceptúa de la falta muy grave la desobediencia cuando las órdenes o instrucciones constituyan infracción manifiesta del Ordenamiento jurídico.",
+    "fuente": "Art. 95.2.i) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Para que la adopción de acuerdos manifiestamente ilegales sea falta muy grave conforme a la letra d) del art. 95.2 TREBEP, es necesario que...",
+    "options": [
+      "Causen perjuicio grave a la Administración o a los ciudadanos",
+      "Hayan sido recurridos previamente en vía administrativa",
+      "Se adopten por un órgano colegiado"
+    ],
+    "correct": 0,
+    "exp": "El art. 95.2.d) TREBEP exige que los acuerdos manifiestamente ilegales causen perjuicio grave a la Administración o a los ciudadanos para constituir falta muy grave.",
+    "fuente": "Art. 95.2.d) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la letra f) del art. 95.2 TREBEP, los secretos oficiales cuya custodia negligente constituye falta muy grave son aquellos...",
+    "options": [
+      "Que afecten exclusivamente a la seguridad nacional",
+      "Declarados así por Ley o clasificados como tales",
+      "Que hayan sido divulgados previamente en medios de comunicación"
+    ],
+    "correct": 1,
+    "exp": "El art. 95.2.f) TREBEP se refiere a secretos oficiales declarados así por Ley o clasificados como tales.",
+    "fuente": "Art. 95.2.f) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la letra p) del art. 95.2 TREBEP, en el caso del personal laboral, la tipificación de faltas muy graves adicionales corresponde a...",
+    "options": [
+      "El reglamento interno de cada entidad local",
+      "La resolución del órgano de personal competente",
+      "Los convenios colectivos"
+    ],
+    "correct": 2,
+    "exp": "El art. 95.2.p) TREBEP prevé que, en el caso del personal laboral, también serán faltas muy graves las tipificadas como tales por los convenios colectivos.",
+    "fuente": "Art. 95.2.p) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 95.3 TREBEP, ¿qué órgano establece las faltas graves de los empleados públicos?",
+    "options": [
+      "La ley de las Cortes Generales o de la asamblea legislativa de la correspondiente comunidad autónoma, o los convenios colectivos en el caso de personal laboral",
+      "Directamente el propio TREBEP, en un listado cerrado equivalente al de las faltas muy graves",
+      "Exclusivamente el reglamento orgánico de cada Administración"
+    ],
+    "correct": 0,
+    "exp": "El art. 95.3 TREBEP establece que las faltas graves serán establecidas por ley de las Cortes Generales o de la asamblea legislativa de la correspondiente comunidad autónoma o por los convenios colectivos en el caso de personal laboral.",
+    "fuente": "Art. 95.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué determinan las leyes de Función Pública que se dicten en desarrollo del TREBEP respecto de las faltas leves, según el art. 95.4?",
+    "options": [
+      "Únicamente el plazo de prescripción de las faltas leves",
+      "El régimen aplicable a las faltas leves, atendiendo a las circunstancias del apartado 3",
+      "La creación de un registro estatal único de faltas leves"
+    ],
+    "correct": 1,
+    "exp": "El art. 95.4 TREBEP dispone que las leyes de Función Pública que se dicten en desarrollo del Estatuto determinarán el régimen aplicable a las faltas leves, atendiendo a las circunstancias señaladas en el apartado anterior.",
+    "fuente": "Art. 95.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué diferencia a la falta muy grave de la letra k) del art. 95.2 TREBEP respecto de la letra l) del mismo apartado?",
+    "options": [
+      "La letra k) se refiere al derecho de huelga y la letra l) a los derechos sindicales en general",
+      "No existe diferencia, ambas letras regulan la misma conducta con distinta sanción",
+      "La letra k) se refiere a la obstaculización de libertades públicas y derechos sindicales, mientras que la letra l) se refiere a coartar el libre ejercicio del derecho de huelga"
+    ],
+    "correct": 2,
+    "exp": "El art. 95.2.k) TREBEP tipifica la obstaculización al ejercicio de las libertades públicas y derechos sindicales, mientras que el art. 95.2.l) tipifica los actos encaminados a coartar el libre ejercicio del derecho de huelga.",
+    "fuente": "Art. 95.2.k) y l) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En qué se diferencia la falta muy grave de la letra l) respecto de la letra m) del art. 95.2 TREBEP, ambas relacionadas con el derecho de huelga?",
+    "options": [
+      "La letra l) sanciona coartar el libre ejercicio del derecho de huelga, mientras que la letra m) sanciona no atender los servicios esenciales durante la huelga",
+      "No hay diferencia real, son idénticas en su redacción",
+      "La letra l) se aplica solo al personal laboral y la letra m) solo a los funcionarios"
+    ],
+    "correct": 0,
+    "exp": "El art. 95.2.l) TREBEP tipifica los actos encaminados a coartar el libre ejercicio del derecho de huelga, y el art. 95.2.m) tipifica el incumplimiento de la obligación de atender los servicios esenciales en caso de huelga.",
+    "fuente": "Art. 95.2.l) y m) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes letras del art. 95.2 TREBEP tipifica una conducta relacionada con procesos electorales?",
+    "options": [
+      "Letra ñ), incomparecencia en Comisiones de Investigación",
+      "Letra h), violación de la imparcialidad para influir en procesos electorales",
+      "Letra n), incumplimiento de normas sobre incompatibilidades"
+    ],
+    "correct": 1,
+    "exp": "El art. 95.2.h) TREBEP tipifica la violación de la imparcialidad, utilizando las facultades atribuidas para influir en procesos electorales de cualquier naturaleza y ámbito.",
+    "fuente": "Art. 95.2.h) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes letras del art. 95.2 TREBEP se refiere específicamente al incumplimiento de comparecer ante órganos parlamentarios?",
+    "options": [
+      "Letra j), prevalencia de la condición de empleado público",
+      "Letra g), notorio incumplimiento de funciones esenciales",
+      "Letra ñ), incomparecencia injustificada en las Comisiones de Investigación de las Cortes Generales y de las asambleas legislativas de las comunidades autónomas"
+    ],
+    "correct": 2,
+    "exp": "El art. 95.2.ñ) TREBEP tipifica la incomparecencia injustificada en las Comisiones de Investigación de las Cortes Generales y de las asambleas legislativas de las comunidades autónomas.",
+    "fuente": "Art. 95.2.ñ) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué letra del art. 95.2 TREBEP tipifica de forma autónoma el acoso laboral, con independencia de la referencia al acoso que ya contiene la letra b)?",
+    "options": [
+      "Letra o)",
+      "Letra e)",
+      "Letra c)"
+    ],
+    "correct": 0,
+    "exp": "El art. 95.2.o) TREBEP tipifica de forma autónoma el acoso laboral como falta muy grave.",
+    "fuente": "Art. 95.2.o) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  }
+]);
+
+/* tema 18 · lote 2026-08-10 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 18, [
+  {
+    "q": "¿Cuántas situaciones administrativas de los funcionarios de carrera enumera el artículo 85.1 del TREBEP?",
+    "options": [
+      "Cinco",
+      "Cuatro",
+      "Seis"
+    ],
+    "correct": 0,
+    "exp": "El art. 85.1 enumera cinco situaciones: servicio activo, servicios especiales, servicio en otras Administraciones Públicas, excedencia y suspensión de funciones.",
+    "fuente": "Art. 85.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 85.1 TREBEP, la situación de 'servicio en otras Administraciones Públicas' se corresponde con la letra:",
+    "options": [
+      "b)",
+      "c)",
+      "d)"
+    ],
+    "correct": 1,
+    "exp": "El art. 85.1 ordena las situaciones así: a) servicio activo, b) servicios especiales, c) servicio en otras Administraciones Públicas, d) excedencia, e) suspensión de funciones.",
+    "fuente": "Art. 85.1.c TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el art. 85.2.a) TREBEP, las leyes de Función Pública que desarrollen el Estatuto podrán regular otras situaciones administrativas cuando concurra la existencia de:",
+    "options": [
+      "Una sanción disciplinaria firme impuesta al funcionario",
+      "La superación de la edad máxima de permanencia en el servicio activo",
+      "Razones organizativas, de reestructuración interna o exceso de personal que generen una imposibilidad transitoria de asignar puesto de trabajo"
+    ],
+    "correct": 2,
+    "exp": "El art. 85.2.a) cita como circunstancia las razones organizativas, de reestructuración interna o exceso de personal, o la conveniencia de incentivar la cesación en el servicio activo.",
+    "fuente": "Art. 85.2.a TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 85.2.b) TREBEP contempla como causa para regular otras situaciones administrativas el supuesto de funcionarios que:",
+    "options": [
+      "Accedan por promoción interna u otros sistemas de acceso a otros cuerpos o escalas sin que les corresponda quedar en ninguna situación prevista en el Estatuto, o pasen a prestar servicios en entidades del sector público en régimen distinto al de funcionario de carrera",
+      "Sean nombrados para desempeñar un cargo de confianza en un grupo parlamentario",
+      "Sean autorizados a realizar una misión internacional superior a seis meses"
+    ],
+    "correct": 0,
+    "exp": "El art. 85.2.b) se refiere al acceso a otros cuerpos o escalas por promoción interna u otros sistemas, o al paso a prestar servicios en el sector público en régimen distinto al de funcionario de carrera.",
+    "fuente": "Art. 85.2.b TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el último párrafo del art. 85.2 TREBEP, la regulación de esas otras situaciones administrativas podrá conllevar garantías de índole retributiva o imponer derechos u obligaciones en relación con:",
+    "options": [
+      "La jubilación forzosa",
+      "El reingreso al servicio activo",
+      "El régimen disciplinario aplicable"
+    ],
+    "correct": 1,
+    "exp": "El precepto establece que dicha regulación podrá conllevar garantías retributivas o imponer derechos u obligaciones en relación con el reingreso al servicio activo.",
+    "fuente": "Art. 85.2 TREBEP (último párrafo)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué situación administrativa aparece en primer lugar en la relación del art. 85.1 TREBEP?",
+    "options": [
+      "Los servicios especiales",
+      "La excedencia",
+      "El servicio activo"
+    ],
+    "correct": 2,
+    "exp": "El art. 85.1 comienza su enumeración con la letra a) servicio activo.",
+    "fuente": "Art. 85.1.a TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 86.1 TREBEP, se hallan en situación de servicio activo los funcionarios que prestan servicios en tal condición:",
+    "options": [
+      "Cualquiera que sea la Administración, organismo público o entidad en que estén destinados, siempre que no les corresponda quedar en otra situación",
+      "Únicamente cuando prestan servicios en la Administración que les nombró funcionarios de carrera",
+      "Solo cuando ocupan un puesto de trabajo mediante concurso específico en su Administración de origen"
+    ],
+    "correct": 0,
+    "exp": "El art. 86.1 no exige que se presten servicios en la Administración de origen, sino que basta con hacerlo como funcionario público sin que corresponda otra situación.",
+    "fuente": "Art. 86.1 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 86.1 TREBEP, para hallarse en servicio activo es necesario, además de prestar servicios como funcionario público, que:",
+    "options": [
+      "Haya solicitado expresamente esa situación ante la Administración",
+      "No le corresponda quedar en ninguna otra situación administrativa",
+      "Lleve más de dos años en el puesto de trabajo"
+    ],
+    "correct": 1,
+    "exp": "El art. 86.1 exige que no corresponda al funcionario quedar en otra situación administrativa distinta del servicio activo.",
+    "fuente": "Art. 86.1 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 86.2 TREBEP establece que los funcionarios de carrera en servicio activo:",
+    "options": [
+      "Solo conservan los derechos económicos, pero no los deberes propios de la función pública",
+      "Quedan sujetos a los deberes de la función pública pero pierden temporalmente sus derechos",
+      "Gozan de todos los derechos inherentes a su condición de funcionarios y quedan sujetos a los deberes y responsabilidades derivados de la misma"
+    ],
+    "correct": 2,
+    "exp": "El art. 86.2 reconoce a estos funcionarios todos los derechos y, a la vez, los sujeta a los deberes y responsabilidades de su condición.",
+    "fuente": "Art. 86.2 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Por qué normas se rigen los funcionarios de carrera en servicio activo según el art. 86.2 TREBEP?",
+    "options": [
+      "Por las normas del propio Estatuto y por la normativa de función pública de la Administración Pública en que presten servicios",
+      "Exclusivamente por el convenio colectivo del personal laboral de la Administración de destino",
+      "Únicamente por las normas de la Administración en la que ingresaron originariamente como funcionarios"
+    ],
+    "correct": 0,
+    "exp": "El art. 86.2 remite al propio Estatuto y a la normativa de función pública de la Administración en la que efectivamente presten servicios.",
+    "fuente": "Art. 86.2 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes circunstancias impide, según el art. 86.1 TREBEP, que un funcionario se halle en situación de servicio activo?",
+    "options": [
+      "Que preste servicios en una Administración distinta de aquella en la que ingresó",
+      "Que le corresponda quedar en otra de las situaciones administrativas previstas",
+      "Que ocupe un puesto de trabajo de nivel superior al de su grupo de titulación"
+    ],
+    "correct": 1,
+    "exp": "El servicio activo exige precisamente que no corresponda al funcionario hallarse en otra situación administrativa.",
+    "fuente": "Art. 86.1 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 87.1.a) TREBEP, además de miembros del Gobierno, de órganos de gobierno de CCAA y de Ceuta y Melilla, o de instituciones de la UE u organizaciones internacionales, pasan a servicios especiales quienes sean nombrados:",
+    "options": [
+      "Asesores de un grupo parlamentario de las Cortes Generales",
+      "Vocales del Consejo General del Poder Judicial",
+      "Altos cargos de las citadas Administraciones Públicas o Instituciones"
+    ],
+    "correct": 2,
+    "exp": "El art. 87.1.a) incluye también a quienes sean nombrados altos cargos de dichas Administraciones o Instituciones.",
+    "fuente": "Art. 87.1.a TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 87.1.b) TREBEP contempla el supuesto de funcionarios autorizados a realizar una misión en organismos internacionales, gobiernos o entidades públicas extranjeras, o en programas de cooperación internacional, cuando dicha misión tenga una duración:",
+    "options": [
+      "Superior a seis meses",
+      "Superior a un año",
+      "Superior a tres meses"
+    ],
+    "correct": 0,
+    "exp": "El precepto exige que la misión sea por un periodo determinado superior a seis meses.",
+    "fuente": "Art. 87.1.b TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 87.1.c) TREBEP, procede la situación de servicios especiales cuando el funcionario sea nombrado para desempeñar puestos o cargos en organismos públicos o entidades dependientes o vinculados a las Administraciones Públicas que:",
+    "options": [
+      "Requieran una misión internacional superior a seis meses",
+      "Estén asimilados en su rango administrativo a altos cargos",
+      "Estén calificados como puestos de confianza o asesoramiento político"
+    ],
+    "correct": 1,
+    "exp": "La letra c) exige que dichos organismos o entidades estén asimilados en su rango administrativo a altos cargos, conforme a lo que establezca la Administración correspondiente.",
+    "fuente": "Art. 87.1.c TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 87.1.d) TREBEP sitúa en servicios especiales a los funcionarios adscritos a los servicios del Tribunal Constitucional o del Defensor del Pueblo, o destinados a:",
+    "options": [
+      "El Consejo General del Poder Judicial",
+      "Los consejos de justicia de las comunidades autónomas",
+      "El Tribunal de Cuentas, en los términos del art. 93.3 de la Ley 7/1988"
+    ],
+    "correct": 2,
+    "exp": "La letra d) remite expresamente al Tribunal de Cuentas en los términos del art. 93.3 de la Ley 7/1988, de Funcionamiento del Tribunal de Cuentas.",
+    "fuente": "Art. 87.1.d TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 87.1.e) TREBEP, los funcionarios que accedan a la condición de Diputado o Senador de las Cortes Generales, o de miembro de una asamblea legislativa autonómica, pasan a servicios especiales siempre que:",
+    "options": [
+      "Perciban retribuciones periódicas por la realización de esa función",
+      "Desempeñen el cargo con dedicación exclusiva en una entidad local",
+      "Sean designados asesores de su grupo parlamentario"
+    ],
+    "correct": 0,
+    "exp": "La letra e) exige que se perciban retribuciones periódicas por el ejercicio de la función.",
+    "fuente": "Art. 87.1.e TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 87.1.e) TREBEP, si un Diputado o Senador pierde tal condición por disolución de las Cámaras o terminación de su mandato, puede permanecer en servicios especiales:",
+    "options": [
+      "Durante un máximo de seis meses adicionales",
+      "Hasta la nueva constitución de las Cámaras",
+      "Hasta que reingrese voluntariamente al servicio activo"
+    ],
+    "correct": 1,
+    "exp": "El precepto permite la permanencia en servicios especiales hasta la nueva constitución de las correspondientes Cámaras.",
+    "fuente": "Art. 87.1.e TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 87.1.f) TREBEP incluye en servicios especiales, entre otros supuestos, el desempeño de cargos electivos en las Asambleas de Ceuta y Melilla y en las entidades locales cuando dichos cargos sean:",
+    "options": [
+      "De carácter honorífico y sin retribución",
+      "De duración inferior a seis meses",
+      "Retribuidos y de dedicación exclusiva"
+    ],
+    "correct": 2,
+    "exp": "La letra f) exige que los cargos electivos sean retribuidos y de dedicación exclusiva.",
+    "fuente": "Art. 87.1.f TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 87.1.g) TREBEP, pasan a servicios especiales los funcionarios designados para formar parte de:",
+    "options": [
+      "El Consejo General del Poder Judicial o de los consejos de justicia de las comunidades autónomas",
+      "Los Órganos Constitucionales o los órganos estatutarios de las comunidades autónomas",
+      "Los grupos parlamentarios de las Cortes Generales"
+    ],
+    "correct": 0,
+    "exp": "La letra g) se refiere específicamente a la designación para el CGPJ o los consejos de justicia autonómicos.",
+    "fuente": "Art. 87.1.g TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 87.1.h) TREBEP se refiere a los funcionarios elegidos o designados para formar parte de:",
+    "options": [
+      "El Consejo General del Poder Judicial exclusivamente",
+      "Los Órganos Constitucionales o de los órganos estatutarios de las comunidades autónomas u otros cuya elección corresponda al Congreso, al Senado o a las asambleas legislativas autonómicas",
+      "Los órganos de gobierno de las entidades locales"
+    ],
+    "correct": 1,
+    "exp": "La letra h) es una cláusula más amplia que la g), referida a Órganos Constitucionales, órganos estatutarios autonómicos u otros de elección parlamentaria.",
+    "fuente": "Art. 87.1.h TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 87.1.i) TREBEP, los funcionarios designados como personal eventual para ocupar puestos calificados de confianza o asesoramiento político pasan a servicios especiales:",
+    "options": [
+      "En todo caso, sin posibilidad de elegir otra situación",
+      "Únicamente si el nombramiento supera los seis meses de duración",
+      "Cuando no opten por permanecer en la situación de servicio activo"
+    ],
+    "correct": 2,
+    "exp": "La letra i) reconoce a estos funcionarios la opción de permanecer en servicio activo; solo si no la ejercen pasan a servicios especiales.",
+    "fuente": "Art. 87.1.i TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 87.1.j) TREBEP declara en servicios especiales a los funcionarios que:",
+    "options": [
+      "Adquieran la condición de funcionarios al servicio de organizaciones internacionales",
+      "Sean autorizados a realizar una misión temporal en un gobierno extranjero",
+      "Sean designados asesores de un grupo parlamentario autonómico"
+    ],
+    "correct": 0,
+    "exp": "La letra j) se refiere a la adquisición de la condición de funcionario al servicio de organizaciones internacionales.",
+    "fuente": "Art. 87.1.j TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 87.1.k) TREBEP, se declara la situación de servicios especiales cuando el funcionario es designado:",
+    "options": [
+      "Miembro de un consejo de justicia autonómico",
+      "Asesor de los grupos parlamentarios de las Cortes Generales o de las asambleas legislativas de las comunidades autónomas",
+      "Alto cargo de una organización internacional"
+    ],
+    "correct": 1,
+    "exp": "La letra k) contempla específicamente el nombramiento como asesor de grupos parlamentarios estatales o autonómicos.",
+    "fuente": "Art. 87.1.k TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 87.1.l) TREBEP contempla la situación de servicios especiales para los funcionarios que:",
+    "options": [
+      "Sean llamados a filas como reservistas obligatorios",
+      "Sean nombrados vocales de un tribunal de oposiciones militares",
+      "Sean activados como reservistas voluntarios para prestar servicios en las Fuerzas Armadas"
+    ],
+    "correct": 2,
+    "exp": "La letra l), última del listado, se refiere a la activación como reservistas voluntarios en las Fuerzas Armadas.",
+    "fuente": "Art. 87.1.l TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál es la diferencia esencial entre los supuestos de las letras b) y c) del art. 87.1 TREBEP?",
+    "options": [
+      "La letra b) exige una misión superior a seis meses en el extranjero o en organismos internacionales, mientras que la letra c) se refiere al nombramiento en organismos o entidades vinculados a las Administraciones Públicas asimilados a altos cargos",
+      "Ambas letras regulan exactamente el mismo supuesto de designación como alto cargo autonómico",
+      "La letra b) se aplica solo a funcionarios docentes y la letra c) solo a funcionarios sanitarios"
+    ],
+    "correct": 0,
+    "exp": "Se trata de dos supuestos distintos: misión internacional temporal (b) frente a nombramiento en entidad vinculada asimilada a alto cargo (c).",
+    "fuente": "Art. 87.1.b y 87.1.c TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Respecto de los cargos electivos, ¿qué diferencia existe entre las letras e) y f) del art. 87.1 TREBEP?",
+    "options": [
+      "La letra e) exige dedicación exclusiva y la letra f) no exige ningún requisito de dedicación",
+      "La letra e) se refiere a Diputados y Senadores de las Cortes Generales o miembros de asambleas legislativas autonómicas, mientras que la letra f) se refiere a cargos electivos locales y de las Asambleas de Ceuta y Melilla",
+      "Ambas letras regulan el mismo supuesto para evitar lagunas normativas"
+    ],
+    "correct": 1,
+    "exp": "La letra e) atiende al ámbito parlamentario estatal y autonómico, y la letra f) al ámbito local y de las ciudades de Ceuta y Melilla.",
+    "fuente": "Art. 87.1.e y 87.1.f TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En qué se diferencian los supuestos de personal eventual de confianza (letra i) y de asesor de grupo parlamentario (letra k) del art. 87.1 TREBEP?",
+    "options": [
+      "Ambos supuestos exigen superar un periodo mínimo de seis meses en el puesto",
+      "La letra k) solo se aplica a funcionarios docentes designados por el Ministerio",
+      "La letra i) exige que el funcionario no opte por permanecer en servicio activo, mientras que la letra k) no contempla esa opción y declara directamente la situación"
+    ],
+    "correct": 2,
+    "exp": "La letra i) prevé la posibilidad de optar por seguir en servicio activo; la letra k), referida a asesores de grupos parlamentarios, no recoge esa opción.",
+    "fuente": "Art. 87.1.i y 87.1.k TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 87.2 TREBEP dispone que, con independencia de las retribuciones del cargo desempeñado, los funcionarios en servicios especiales conservan el derecho a percibir:",
+    "options": [
+      "Los trienios que tengan reconocidos en cada momento",
+      "El complemento específico de su puesto de origen",
+      "La totalidad de las retribuciones complementarias de su puesto de funcionario de carrera"
+    ],
+    "correct": 0,
+    "exp": "El art. 87.2 salva expresamente el derecho a percibir los trienios reconocidos, sin perjuicio de las retribuciones del puesto o cargo desempeñado.",
+    "fuente": "Art. 87.2 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿A cuál de los siguientes efectos NO menciona expresamente el art. 87.2 TREBEP que se compute el tiempo permanecido en servicios especiales?",
+    "options": [
+      "Ascensos",
+      "Consolidación del grado personal",
+      "Promoción interna"
+    ],
+    "correct": 1,
+    "exp": "El art. 87.2 cita como efectos del cómputo los ascensos, el reconocimiento de trienios, la promoción interna y los derechos de Seguridad Social; la consolidación del grado se trata en el apartado 3, no en el 2.",
+    "fuente": "Art. 87.2 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 87.2 TREBEP, el tiempo en situación de servicios especiales se computa, entre otros efectos, a efectos de derechos en el régimen de:",
+    "options": [
+      "Clases pasivas del Estado exclusivamente",
+      "Mutualidad de funcionarios de su Administración de origen",
+      "Seguridad Social que les sea de aplicación"
+    ],
+    "correct": 2,
+    "exp": "El precepto se refiere a los derechos en el régimen de Seguridad Social que resulte aplicable al funcionario.",
+    "fuente": "Art. 87.2 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 87.2 TREBEP excluye de su régimen de cómputo a los funcionarios que, habiendo ingresado al servicio de las instituciones comunitarias europeas o de entidades y organismos asimilados, ejerciten:",
+    "options": [
+      "El derecho de transferencia establecido en el estatuto de los funcionarios de las Comunidades Europeas",
+      "El derecho de reingreso inmediato en su puesto de origen",
+      "El derecho a percibir simultáneamente ambas retribuciones"
+    ],
+    "correct": 0,
+    "exp": "El precepto excluye expresamente a quienes ejerciten el derecho de transferencia previsto en el estatuto de los funcionarios de las Comunidades Europeas.",
+    "fuente": "Art. 87.2 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 87.2 TREBEP, el tiempo en servicios especiales computa a efectos de ascensos y de:",
+    "options": [
+      "Concurso de traslados",
+      "Promoción interna",
+      "Carrera horizontal"
+    ],
+    "correct": 1,
+    "exp": "El art. 87.2 enumera conjuntamente los ascensos, el reconocimiento de trienios, la promoción interna y los derechos de Seguridad Social.",
+    "fuente": "Art. 87.2 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿A qué retribuciones NO tienen derecho, con carácter general, los funcionarios en situación de servicios especiales, según el art. 87.2 TREBEP?",
+    "options": [
+      "A las retribuciones del puesto o cargo que desempeñen",
+      "A los trienios que tuvieran reconocidos en cada momento",
+      "A las que les correspondan como funcionarios de carrera, salvo los trienios reconocidos"
+    ],
+    "correct": 2,
+    "exp": "El art. 87.2 excluye las retribuciones de funcionario de carrera, manteniendo únicamente, como excepción, el derecho a los trienios reconocidos.",
+    "fuente": "Art. 87.2 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 87.3 TREBEP, los funcionarios en servicios especiales tienen derecho, al menos, a reingresar al servicio activo:",
+    "options": [
+      "En la misma localidad, en las condiciones y con las retribuciones correspondientes a la categoría, nivel o escalón de la carrera consolidados",
+      "En cualquier localidad del territorio nacional, con las retribuciones del cargo previamente desempeñado",
+      "Únicamente en la localidad donde ejerció el cargo que motivó el pase a esa situación"
+    ],
+    "correct": 0,
+    "exp": "El derecho mínimo reconocido es el reingreso en la misma localidad, con las condiciones y retribuciones de la categoría, nivel o escalón consolidados.",
+    "fuente": "Art. 87.3 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 87.3 TREBEP señala que las condiciones y retribuciones del reingreso se determinarán conforme a:",
+    "options": [
+      "El sistema de carrera administrativa de la última Administración en la que prestaron el cargo",
+      "El sistema de carrera administrativa vigente en la Administración Pública a la que pertenezcan",
+      "Un baremo único establecido reglamentariamente para todo el personal en servicios especiales"
+    ],
+    "correct": 1,
+    "exp": "El precepto remite al sistema de carrera administrativa vigente en la Administración Pública a la que pertenezca el funcionario.",
+    "fuente": "Art. 87.3 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Además del derecho mínimo de reingreso, el art. 87.3 TREBEP reconoce a estos funcionarios:",
+    "options": [
+      "El derecho automático a la promoción a un cuerpo o escala superior",
+      "El derecho a una indemnización económica única al reingresar",
+      "Los derechos que cada Administración Pública pueda establecer en función del cargo que originó el pase a esa situación"
+    ],
+    "correct": 2,
+    "exp": "El art. 87.3 añade los derechos que cada Administración establezca en atención al cargo que motivó el pase a servicios especiales.",
+    "fuente": "Art. 87.3 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 87.3 TREBEP obliga a las Administraciones Públicas a velar para que no haya menoscabo en el derecho a la carrera profesional, entre otros, de los funcionarios que hayan sido:",
+    "options": [
+      "Alcaldes retribuidos y con dedicación exclusiva, o presidentes de diputaciones, cabildos o consejos insulares",
+      "Concejales sin dedicación exclusiva de cualquier ayuntamiento",
+      "Vocales de una junta de gobierno local sin retribución"
+    ],
+    "correct": 0,
+    "exp": "El precepto exige, expresamente, retribución y dedicación exclusiva para los alcaldes, y menciona también a los presidentes de diputaciones, cabildos o consejos insulares.",
+    "fuente": "Art. 87.3 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 87.3 TREBEP, los funcionarios nombrados altos cargos, miembros del Poder Judicial u otros órganos constitucionales o estatutarios recibirán, como mínimo, en la consolidación del grado y conjunto de complementos, el mismo tratamiento que el establecido para quienes hayan sido:",
+    "options": [
+      "Jefes de servicio de la Administración General del Estado",
+      "Directores generales y otros cargos superiores de la correspondiente Administración Pública",
+      "Presidentes de las diputaciones provinciales"
+    ],
+    "correct": 1,
+    "exp": "El art. 87.3 fija como referente mínimo el tratamiento dado a los directores generales y otros cargos superiores.",
+    "fuente": "Art. 87.3 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 87.3 TREBEP incluye expresamente entre los colectivos protegidos frente al menoscabo de su carrera profesional a los Diputados y Senadores de las Cortes Generales y a:",
+    "options": [
+      "Los asesores de los grupos parlamentarios de las Cortes Generales",
+      "Los diputados provinciales sin dedicación exclusiva",
+      "Los miembros de las asambleas legislativas de las comunidades autónomas"
+    ],
+    "correct": 2,
+    "exp": "El precepto cita expresamente, junto a Diputados y Senadores, a los miembros de las asambleas legislativas de las comunidades autónomas.",
+    "fuente": "Art. 87.3 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 87.4 TREBEP, la declaración de la situación de servicios especiales procederá en todo caso:",
+    "options": [
+      "En los supuestos que se determinen en el propio Estatuto y en las leyes de Función Pública que se dicten en su desarrollo",
+      "Únicamente cuando lo solicite expresamente el funcionario interesado",
+      "Solo cuando lo acuerde el órgano de gobierno de la Administración correspondiente, sin necesidad de norma alguna"
+    ],
+    "correct": 0,
+    "exp": "El art. 87.4 remite a los supuestos determinados en el propio TREBEP y en las leyes de Función Pública de desarrollo.",
+    "fuente": "Art. 87.4 TREBEP",
+    "confianza": "alta"
+  }
+]);
+
+/* tema 18 · lote 2026-08-10 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 18, [
+  {
+    "q": "¿Qué determina, con carácter general, el artículo 91 del TREBEP sobre el reingreso al servicio activo de los funcionarios de carrera?",
+    "options": [
+      "Que se regularán reglamentariamente los plazos, procedimientos y condiciones para solicitarlo, según las situaciones de procedencia, respetando la reserva de puesto cuando proceda.",
+      "Que el reingreso se producirá automáticamente al finalizar cualquier situación administrativa, sin necesidad de solicitud.",
+      "Que el reingreso corresponde decidirlo, en todo caso, a la Comisión de Coordinación del Empleo Público."
+    ],
+    "correct": 0,
+    "exp": "El art. 91 remite a desarrollo reglamentario los plazos, procedimientos y condiciones del reingreso, según la situación de procedencia, con respeto al derecho a reserva de puesto cuando proceda.",
+    "fuente": "Art. 91 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 91 TREBEP vincula la regulación del reingreso al servicio activo a:",
+    "options": [
+      "La categoría profesional acreditada en el sector privado.",
+      "Las situaciones administrativas de procedencia del funcionario de carrera.",
+      "El resultado de una nueva prueba selectiva de acceso."
+    ],
+    "correct": 1,
+    "exp": "El art. 91 establece que los plazos, procedimientos y condiciones del reingreso se regularán 'según las situaciones administrativas de procedencia'.",
+    "fuente": "Art. 91 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 91 TREBEP, en el reingreso al servicio activo se respetará:",
+    "options": [
+      "El derecho a percibir retribuciones atrasadas correspondientes a la situación administrativa previa.",
+      "El derecho a elegir libremente el puesto de trabajo sin sujeción a convocatoria alguna.",
+      "El derecho a la reserva del puesto de trabajo en los casos en que proceda conforme al Estatuto."
+    ],
+    "correct": 2,
+    "exp": "El artículo señala que el reingreso se regulará 'con respeto al derecho a la reserva del puesto de trabajo en los casos en que proceda conforme al presente Estatuto'.",
+    "fuente": "Art. 91 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 92 TREBEP, el personal laboral al servicio de las Administraciones Públicas se rige por:",
+    "options": [
+      "El Estatuto de los Trabajadores y los Convenios Colectivos que le sean de aplicación.",
+      "El propio TREBEP con exclusión de cualquier otra norma laboral.",
+      "El Estatuto Básico del Empleado Público y el Código de Comercio."
+    ],
+    "correct": 0,
+    "exp": "El art. 92 dispone que 'el personal laboral se regirá por el Estatuto de los Trabajadores y por los Convenios Colectivos que les sean de aplicación'.",
+    "fuente": "Art. 92 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 92 TREBEP permite que los convenios colectivos determinen la aplicación al personal laboral de:",
+    "options": [
+      "El régimen disciplinario recogido en el Título VII del propio Estatuto.",
+      "El capítulo de situaciones administrativas, en lo que resulte compatible con el Estatuto de los Trabajadores.",
+      "El sistema retributivo previsto para los funcionarios de carrera."
+    ],
+    "correct": 1,
+    "exp": "El precepto añade que 'los convenios colectivos podrán determinar la aplicación de este capítulo al personal incluido en su ámbito de aplicación en lo que resulte compatible con el Estatuto de los Trabajadores'.",
+    "fuente": "Art. 92 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 92, dedicado a las «situaciones del personal laboral», se encuentra ubicado en el TREBEP dentro de:",
+    "options": [
+      "El Título VII, régimen disciplinario.",
+      "Un título autónomo dedicado en exclusiva al personal laboral.",
+      "El Título VI, situaciones administrativas, cerrando dicho título."
+    ],
+    "correct": 2,
+    "exp": "El art. 92 es el último artículo del Título VI ('Situaciones administrativas'); a continuación se abre el Título VII ('Régimen disciplinario') con el art. 93.",
+    "fuente": "Art. 92 TREBEP (RDLeg 5/2015); rúbrica del Título VI",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 96.1.a) TREBEP, la separación del servicio impuesta a un funcionario interino comportará:",
+    "options": [
+      "La revocación de su nombramiento.",
+      "El traslado forzoso con cambio de residencia.",
+      "La suspensión firme de funciones por seis años."
+    ],
+    "correct": 0,
+    "exp": "El art. 96.1.a) señala que la separación del servicio 'en el caso de los funcionarios interinos comportará la revocación de su nombramiento'.",
+    "fuente": "Art. 96.1.a) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La sanción de separación del servicio prevista en el art. 96.1.a) TREBEP solo podrá imponerse por la comisión de:",
+    "options": [
+      "Faltas graves.",
+      "Faltas muy graves.",
+      "Faltas leves reiteradas."
+    ],
+    "correct": 1,
+    "exp": "El precepto establece que la separación del servicio 'sólo podrá sancionar la comisión de faltas muy graves'.",
+    "fuente": "Art. 96.1.a) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El despido disciplinario del personal laboral, regulado en el art. 96.1.b) TREBEP, comporta:",
+    "options": [
+      "El traslado forzoso a otra localidad.",
+      "El demérito a efectos de carrera y promoción.",
+      "La inhabilitación para ser titular de un nuevo contrato de trabajo con funciones similares."
+    ],
+    "correct": 2,
+    "exp": "El art. 96.1.b) indica que el despido disciplinario 'comportará la inhabilitación para ser titular de un nuevo contrato de trabajo con funciones similares a las que desempeñaban'.",
+    "fuente": "Art. 96.1.b) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué falta puede sancionarse con el despido disciplinario del personal laboral conforme al art. 96.1.b) TREBEP?",
+    "options": [
+      "Únicamente las faltas muy graves.",
+      "Las faltas muy graves y las graves.",
+      "Cualquier falta, incluidas las leves."
+    ],
+    "correct": 0,
+    "exp": "El art. 96.1.b) señala que el despido disciplinario 'sólo podrá sancionar la comisión de faltas muy graves'.",
+    "fuente": "Art. 96.1.b) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La duración máxima de la suspensión firme de funciones, o de empleo y sueldo en el caso del personal laboral, conforme al art. 96.1.c) TREBEP, es de:",
+    "options": [
+      "Tres años.",
+      "Seis años.",
+      "Dos años."
+    ],
+    "correct": 1,
+    "exp": "El art. 96.1.c) fija para la suspensión firme 'una duración máxima de 6 años'.",
+    "fuente": "Art. 96.1.c) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 96.1.d) TREBEP define el traslado forzoso como una sanción consistente en:",
+    "options": [
+      "La revocación del nombramiento del funcionario interino.",
+      "El despido disciplinario con inhabilitación.",
+      "El traslado, con o sin cambio de localidad de residencia, por el periodo que en cada caso se establezca."
+    ],
+    "correct": 2,
+    "exp": "El art. 96.1.d) describe el 'traslado forzoso, con o sin cambio de localidad de residencia, por el período que en cada caso se establezca'.",
+    "fuente": "Art. 96.1.d) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 96.1.e) TREBEP, la sanción de demérito consiste en:",
+    "options": [
+      "La penalización a efectos de carrera, promoción o movilidad voluntaria.",
+      "La suspensión de empleo y sueldo hasta seis años.",
+      "El apercibimiento formal por escrito."
+    ],
+    "correct": 0,
+    "exp": "El art. 96.1.e) define el demérito como la sanción 'que consistirá en la penalización a efectos de carrera, promoción o movilidad voluntaria'.",
+    "fuente": "Art. 96.1.e) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 96.1.g) TREBEP contempla, entre las sanciones disciplinarias, una cláusula de cierre consistente en:",
+    "options": [
+      "El traslado forzoso con cambio de residencia.",
+      "Cualquier otra sanción que se establezca por ley.",
+      "La separación del servicio de los funcionarios interinos."
+    ],
+    "correct": 1,
+    "exp": "El art. 96.1.g) cierra la lista de sanciones admitiendo 'cualquier otra que se establezca por ley'.",
+    "fuente": "Art. 96.1.g) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 96.2 TREBEP, procederá la readmisión del personal laboral fijo cuando:",
+    "options": [
+      "Se le imponga la sanción de demérito.",
+      "Se le imponga la sanción de apercibimiento.",
+      "Sea declarado improcedente el despido acordado como consecuencia de un expediente disciplinario por falta muy grave."
+    ],
+    "correct": 2,
+    "exp": "El art. 96.2 establece que 'procederá la readmisión del personal laboral fijo cuando sea declarado improcedente el despido acordado como consecuencia de la incoación de un expediente disciplinario por la comisión de una falta muy grave'.",
+    "fuente": "Art. 96.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Entre los criterios que, conforme al art. 96.3 TREBEP, deben valorarse para fijar el alcance de la sanción se encuentra:",
+    "options": [
+      "El grado de intencionalidad, descuido o negligencia revelado en la conducta.",
+      "La antigüedad del funcionario en el puesto de trabajo.",
+      "El número de recursos administrativos previos presentados por el interesado."
+    ],
+    "correct": 0,
+    "exp": "El art. 96.3 dispone que el alcance de la sanción se establecerá teniendo en cuenta 'el grado de intencionalidad, descuido o negligencia que se revele en la conducta'.",
+    "fuente": "Art. 96.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 96.3 TREBEP exige tener en cuenta, para fijar el alcance de la sanción, el grado de participación del responsable, junto con:",
+    "options": [
+      "El número de sanciones impuestas por la Administración ese año.",
+      "El daño causado al interés público.",
+      "La opinión de los representantes sindicales."
+    ],
+    "correct": 1,
+    "exp": "El art. 96.3 cita entre los criterios 'el daño al interés público' además del grado de intencionalidad, la reiteración o reincidencia y el grado de participación.",
+    "fuente": "Art. 96.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 96.3 TREBEP, ¿qué circunstancia relativa a la conducta reiterada del infractor debe valorarse para el alcance de la sanción?",
+    "options": [
+      "La antigüedad en el cuerpo o escala.",
+      "El nivel de complemento de destino que percibe.",
+      "La reiteración o reincidencia."
+    ],
+    "correct": 2,
+    "exp": "El art. 96.3 incluye expresamente 'la reiteración o reincidencia' entre los criterios para establecer el alcance de la sanción.",
+    "fuente": "Art. 96.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La sanción de suspensión firme regulada en el art. 96.1.c) TREBEP se denomina, respecto del personal laboral, como:",
+    "options": [
+      "Suspensión de empleo y sueldo.",
+      "Despido disciplinario.",
+      "Demérito."
+    ],
+    "correct": 0,
+    "exp": "El art. 96.1.c) habla de 'suspensión firme de funciones, o de empleo y sueldo en el caso del personal laboral'.",
+    "fuente": "Art. 96.1.c) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 96.1 TREBEP contempla el apercibimiento como sanción en su letra:",
+    "options": [
+      "d).",
+      "f).",
+      "b)."
+    ],
+    "correct": 1,
+    "exp": "El apercibimiento figura en el art. 96.1.f), tras la sanción de demérito (letra e) y antes de la cláusula de cierre (letra g).",
+    "fuente": "Art. 96.1.f) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El traslado forzoso previsto en el art. 96.1.d) TREBEP podrá acordarse:",
+    "options": [
+      "Solo cuando exista cambio de localidad de residencia.",
+      "Solo cuando el interesado lo solicite voluntariamente.",
+      "Con o sin cambio de localidad de residencia, según se establezca en cada caso."
+    ],
+    "correct": 2,
+    "exp": "El art. 96.1.d) permite el traslado forzoso 'con o sin cambio de localidad de residencia, por el período que en cada caso se establezca'.",
+    "fuente": "Art. 96.1.d) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 97.1 TREBEP, la sanción impuesta por una falta grave prescribirá a los:",
+    "options": [
+      "Dos años.",
+      "Tres años.",
+      "Seis meses."
+    ],
+    "correct": 0,
+    "exp": "El art. 97.1 dispone que 'las sanciones impuestas por faltas muy graves prescribirán a los tres años, las impuestas por faltas graves a los dos años y las impuestas por faltas leves al año'.",
+    "fuente": "Art. 97.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 97.1 TREBEP establece que la sanción impuesta por una falta muy grave prescribirá a los:",
+    "options": [
+      "Un año.",
+      "Tres años.",
+      "Dos años."
+    ],
+    "correct": 1,
+    "exp": "Conforme al art. 97.1, las sanciones impuestas por faltas muy graves prescriben a los tres años.",
+    "fuente": "Art. 97.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿A los cuántos años prescribe la infracción disciplinaria calificada como grave, conforme al art. 97.1 TREBEP?",
+    "options": [
+      "Tres años.",
+      "Seis meses.",
+      "Dos años."
+    ],
+    "correct": 2,
+    "exp": "El art. 97.1 fija que 'las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses'.",
+    "fuente": "Art. 97.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 97.2 TREBEP, el plazo de prescripción de las faltas comenzará a contarse:",
+    "options": [
+      "Desde que se hubieran cometido.",
+      "Desde que se incoe el expediente disciplinario.",
+      "Desde que la sanción adquiera firmeza."
+    ],
+    "correct": 0,
+    "exp": "El art. 97.2 señala que 'el plazo de prescripción de las faltas comenzará a contarse desde que se hubieran cometido'.",
+    "fuente": "Art. 97.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En el caso de faltas continuadas, el art. 97.2 TREBEP dispone que el plazo de prescripción se contará desde:",
+    "options": [
+      "La fecha de la primera actuación que integra la falta.",
+      "El cese de su comisión.",
+      "La notificación del pliego de cargos."
+    ],
+    "correct": 1,
+    "exp": "El art. 97.2 precisa que el plazo se contará desde que se cometieron las faltas, 'y desde el cese de su comisión cuando se trate de faltas continuadas'.",
+    "fuente": "Art. 97.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El plazo de prescripción de las sanciones, conforme al art. 97.2 TREBEP, comenzará a contarse desde:",
+    "options": [
+      "La fecha de comisión de la falta.",
+      "La incoación del expediente disciplinario.",
+      "La firmeza de la resolución sancionadora."
+    ],
+    "correct": 2,
+    "exp": "El art. 97.2 establece que el plazo de prescripción de las sanciones se cuenta 'desde la firmeza de la resolución sancionadora'.",
+    "fuente": "Art. 97.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La infracción disciplinaria leve prescribe, conforme al art. 97.1 TREBEP, a los:",
+    "options": [
+      "Seis meses.",
+      "Un año.",
+      "Dos años."
+    ],
+    "correct": 0,
+    "exp": "El art. 97.1 dispone que 'las leves' (infracciones) prescribirán 'a los seis meses'.",
+    "fuente": "Art. 97.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 98.1 TREBEP, la imposición de sanciones por faltas leves se llevará a cabo mediante:",
+    "options": [
+      "El mismo procedimiento que para las faltas muy graves.",
+      "Un procedimiento sumario con audiencia al interesado.",
+      "Resolución directa sin trámite de audiencia."
+    ],
+    "correct": 1,
+    "exp": "El art. 98.1 dispone que 'la imposición de sanciones por faltas leves se llevará a cabo por procedimiento sumario con audiencia al interesado'.",
+    "fuente": "Art. 98.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 98.1 TREBEP, no podrá imponerse sanción por faltas muy graves o graves sino mediante:",
+    "options": [
+      "Resolución motivada sin procedimiento previo.",
+      "Acuerdo verbal del superior jerárquico.",
+      "El procedimiento previamente establecido."
+    ],
+    "correct": 2,
+    "exp": "El art. 98.1 señala que 'no podrá imponerse sanción por la comisión de faltas muy graves o graves sino mediante el procedimiento previamente establecido'.",
+    "fuente": "Art. 98.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 98.2 TREBEP establece que el procedimiento disciplinario se estructurará atendiendo a los principios de:",
+    "options": [
+      "Eficacia, celeridad y economía procesal.",
+      "Oralidad, publicidad y contradicción.",
+      "Jerarquía, coordinación y descentralización."
+    ],
+    "correct": 0,
+    "exp": "El art. 98.2 indica que el procedimiento se estructurará 'atendiendo a los principios de eficacia, celeridad y economía procesal, con pleno respeto a los derechos y garantías de defensa'.",
+    "fuente": "Art. 98.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 98.2 TREBEP, en el procedimiento disciplinario debe quedar establecida la debida separación entre:",
+    "options": [
+      "El órgano de personal y el órgano presupuestario.",
+      "La fase instructora y la fase sancionadora, encomendadas a órganos distintos.",
+      "La Administración General del Estado y las Comunidades Autónomas."
+    ],
+    "correct": 1,
+    "exp": "El art. 98.2 dispone que 'quedará establecida la debida separación entre la fase instructora y la sancionadora, encomendándose a órganos distintos'.",
+    "fuente": "Art. 98.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 98.3 TREBEP, las medidas de carácter provisional en el procedimiento sancionador se adoptarán mediante:",
+    "options": [
+      "Simple comunicación verbal al interesado.",
+      "Acuerdo del pleno de la corporación en todo caso.",
+      "Resolución motivada, cuando así esté previsto en las normas reguladoras del procedimiento."
+    ],
+    "correct": 2,
+    "exp": "El art. 98.3 indica que 'se podrá adoptar mediante resolución motivada medidas de carácter provisional que aseguren la eficacia de la resolución final', cuando así esté previsto en las normas reguladoras.",
+    "fuente": "Art. 98.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 98.3 TREBEP, la suspensión provisional acordada durante la tramitación de un procedimiento judicial se mantendrá por el tiempo:",
+    "options": [
+      "A que se extienda la prisión provisional u otras medidas judiciales que impidan desempeñar el puesto de trabajo.",
+      "Máximo de seis meses, sin posibilidad de prórroga.",
+      "Que determine el órgano de personal, con independencia de la resolución judicial."
+    ],
+    "correct": 0,
+    "exp": "El art. 98.3 dispone que la suspensión provisional acordada durante un procedimiento judicial 'se mantendrá por el tiempo a que se extienda la prisión provisional u otras medidas decretadas por el juez que determinen la imposibilidad de desempeñar el puesto de trabajo'.",
+    "fuente": "Art. 98.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Si la suspensión provisional acordada durante un procedimiento judicial excede de seis meses, conforme al art. 98.3 TREBEP:",
+    "options": [
+      "Supondrá automáticamente la pérdida del puesto de trabajo.",
+      "No supondrá pérdida del puesto de trabajo.",
+      "Se convertirá de forma automática en sanción de separación del servicio."
+    ],
+    "correct": 1,
+    "exp": "El art. 98.3 precisa que en ese caso, 'si la suspensión provisional excediera de seis meses no supondrá pérdida del puesto de trabajo'.",
+    "fuente": "Art. 98.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El funcionario en suspensión provisional tiene derecho, conforme al art. 98.3 TREBEP, a percibir durante la suspensión:",
+    "options": [
+      "La totalidad de sus retribuciones, incluidas las complementarias.",
+      "Ninguna retribución hasta que se resuelva el expediente.",
+      "Las retribuciones básicas y, en su caso, las prestaciones familiares por hijo a cargo."
+    ],
+    "correct": 2,
+    "exp": "El art. 98.3 reconoce al funcionario suspenso provisional el derecho a percibir 'las retribuciones básicas y, en su caso, las prestaciones familiares por hijo a cargo'.",
+    "fuente": "Art. 98.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando la suspensión provisional se eleve a definitiva, conforme al art. 98.4 TREBEP, el funcionario deberá:",
+    "options": [
+      "Devolver lo percibido durante el tiempo de duración de la suspensión provisional.",
+      "Reincorporarse de inmediato a su puesto de trabajo.",
+      "Percibir con carácter retroactivo el complemento de productividad."
+    ],
+    "correct": 0,
+    "exp": "El art. 98.4 dispone que 'cuando la suspensión provisional se eleve a definitiva, el funcionario deberá devolver lo percibido durante el tiempo de duración de aquélla'.",
+    "fuente": "Art. 98.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Si la suspensión provisional no llegara a convertirse en sanción definitiva, conforme al art. 98.4 TREBEP, la Administración deberá:",
+    "options": [
+      "Iniciar un nuevo expediente disciplinario de oficio.",
+      "Restituir al funcionario la diferencia entre los haberes realmente percibidos y los que hubiera debido percibir con plenitud de derechos.",
+      "Abonar una indemnización equivalente al doble de los haberes dejados de percibir."
+    ],
+    "correct": 1,
+    "exp": "El art. 98.4 establece que, en ese caso, 'la Administración deberá restituir al funcionario la diferencia entre los haberes realmente percibidos y los que hubiera debido percibir si se hubiera encontrado con plenitud de derechos'.",
+    "fuente": "Art. 98.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 98.4 TREBEP, el tiempo de permanencia en suspensión provisional será:",
+    "options": [
+      "Descontado del periodo vacacional del funcionario.",
+      "Computado únicamente a efectos de trienios.",
+      "De abono para el cumplimiento de la suspensión firme."
+    ],
+    "correct": 2,
+    "exp": "El art. 98.4 señala que 'el tiempo de permanencia en suspensión provisional será de abono para el cumplimiento de la suspensión firme'.",
+    "fuente": "Art. 98.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando la suspensión no sea declarada firme, el art. 98.4 TREBEP dispone que el tiempo de duración de aquella:",
+    "options": [
+      "Se computará como de servicio activo, con reincorporación inmediata y reconocimiento de los derechos económicos desde la fecha de suspensión.",
+      "Se computará como situación de excedencia voluntaria.",
+      "No generará derecho alguno para el funcionario afectado."
+    ],
+    "correct": 0,
+    "exp": "El art. 98.4 establece que 'cuando la suspensión no sea declarada firme, el tiempo de duración de la misma se computará como de servicio activo, debiendo acordarse la inmediata reincorporación del funcionario a su puesto de trabajo, con reconocimiento de todos los derechos económicos y demás que procedan desde la fecha de suspensión'.",
+    "fuente": "Art. 98.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  }
+]);
+
+/* tema 18 · lote 2026-08-10 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 18, [
+  {
+    "q": "Según el art. 1.1 del RD 365/1995, ¿a qué funcionarios resulta de aplicación este Reglamento?",
+    "options": [
+      "A los funcionarios de la Administración General del Estado y sus Organismos autónomos comprendidos en el ámbito de la Ley 30/1984, de 2 de agosto",
+      "A todos los funcionarios públicos de cualquier Administración, incluidas las Comunidades Autónomas y Entidades Locales",
+      "Únicamente a los funcionarios de los Cuerpos docentes del Estado"
+    ],
+    "correct": 0,
+    "exp": "El art. 1.1 delimita el ámbito subjetivo del Reglamento a los funcionarios de la AGE y sus Organismos autónomos comprendidos en la Ley 30/1984.",
+    "fuente": "Art. 1.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el art. 1.2 del RD 365/1995, ¿qué ocurre con los funcionarios de los Cuerpos o Escalas de la función pública docente?",
+    "options": [
+      "Quedan excluidos por completo del ámbito del Reglamento",
+      "No les son de aplicación las disposiciones del Reglamento relativas a las situaciones aludidas en el párrafo segundo de la disposición adicional decimoquinta de la Ley 30/1984",
+      "Se les aplica el Reglamento en su totalidad sin ninguna excepción"
+    ],
+    "correct": 1,
+    "exp": "El art. 1.2 excluye para estos funcionarios solo las disposiciones referidas a las situaciones aludidas en dicha disposición adicional, no todo el Reglamento.",
+    "fuente": "Art. 1.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántas situaciones administrativas distintas enumera el art. 2 del RD 365/1995?",
+    "options": [
+      "Nueve",
+      "Trece",
+      "Once"
+    ],
+    "correct": 2,
+    "exp": "El art. 2 enumera once situaciones, de la letra a) a la k).",
+    "fuente": "Art. 2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 2 del RD 365/1995, ¿qué situación administrativa corresponde a la letra e)?",
+    "options": [
+      "Excedencia forzosa",
+      "Suspensión de funciones",
+      "Servicio en Comunidades Autónomas"
+    ],
+    "correct": 0,
+    "exp": "La letra e) del art. 2 recoge la excedencia forzosa; la letra k) recoge la suspensión de funciones y la letra c) el servicio en Comunidades Autónomas.",
+    "fuente": "Art. 2.e) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 3 del RD 365/1995, ¿en cuál de estos supuestos se considera al funcionario en situación de servicio activo?",
+    "options": [
+      "Cuando se encuentre en excedencia voluntaria por interés particular",
+      "Cuando se encuentre en comisión de servicios",
+      "Cuando se encuentre en suspensión firme de funciones"
+    ],
+    "correct": 1,
+    "exp": "El art. 3.c) incluye en servicio activo al funcionario que se encuentre en comisión de servicios.",
+    "fuente": "Art. 3.c) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 3.e) del RD 365/1995, se hallan en servicio activo los funcionarios que presten servicios en...",
+    "options": [
+      "Organismos internacionales por más de seis meses",
+      "Los órganos de gobierno de las Comunidades Autónomas como altos cargos",
+      "Las Cortes Generales o el Tribunal de Cuentas, cuando no les corresponda quedar en otra situación"
+    ],
+    "correct": 2,
+    "exp": "El art. 3.e) incluye en servicio activo a quienes presten servicios en las Cortes Generales o el Tribunal de Cuentas, si no corresponde otra situación.",
+    "fuente": "Art. 3.e) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el art. 3.g) del RD 365/1995, los funcionarios que acceden a la condición de miembros de las Corporaciones Locales permanecen en servicio activo, salvo que...",
+    "options": [
+      "Desempeñen cargo retribuido y de dedicación exclusiva en las mismas",
+      "Sean nombrados Diputados o Senadores",
+      "Pasen a prestar servicios en una Comunidad Autónoma"
+    ],
+    "correct": 0,
+    "exp": "El art. 3.g) prevé el servicio activo para miembros de Corporaciones Locales, salvo que desempeñen cargo retribuido y de dedicación exclusiva.",
+    "fuente": "Art. 3.g) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 3.i) del RD 365/1995, permanece en servicio activo el funcionario que...",
+    "options": [
+      "Es declarado en expectativa de destino",
+      "Cesa en un puesto por haber obtenido otro mediante procedimientos de provisión de puestos, durante el plazo posesorio",
+      "Solicita la excedencia voluntaria por agrupación familiar"
+    ],
+    "correct": 1,
+    "exp": "El art. 3.i) mantiene en servicio activo, durante el plazo posesorio, a quien cesa en un puesto por haber obtenido otro mediante procedimientos de provisión.",
+    "fuente": "Art. 3.i) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 3.l) del RD 365/1995 incluye como supuesto de servicio activo...",
+    "options": [
+      "La suspensión provisional de funciones",
+      "La reserva de puesto de trabajo tras servicios especiales",
+      "El supuesto de cesación progresiva de actividades"
+    ],
+    "correct": 2,
+    "exp": "La letra l) del art. 3 incluye expresamente el supuesto de cesación progresiva de actividades.",
+    "fuente": "Art. 3.l) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 4.a) del RD 365/1995, se declara la situación de servicios especiales cuando el funcionario es autorizado para realizar una misión en Organismos internacionales, Gobiernos o Entidades públicas extranjeras...",
+    "options": [
+      "Por un período determinado superior a seis meses",
+      "Por un período determinado superior a un año",
+      "Sin límite mínimo de duración"
+    ],
+    "correct": 0,
+    "exp": "El art. 4.a) exige un período determinado superior a seis meses para declarar servicios especiales por este motivo.",
+    "fuente": "Art. 4.a) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 4.b) del RD 365/1995, procede declarar servicios especiales cuando el funcionario...",
+    "options": [
+      "Es nombrado Delegado del Gobierno",
+      "Adquiere la condición de funcionario al servicio de Organizaciones internacionales o de carácter supranacional",
+      "Obtiene un puesto de libre designación en su Ministerio"
+    ],
+    "correct": 1,
+    "exp": "El art. 4.b) contempla la adquisición de la condición de funcionario al servicio de Organizaciones internacionales o supranacionales.",
+    "fuente": "Art. 4.b) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 4.e) del RD 365/1995, están en servicios especiales los funcionarios adscritos a los servicios de...",
+    "options": [
+      "Las Corporaciones Locales de su provincia",
+      "El Tribunal Constitucional o el Defensor del Pueblo, o destinados al Tribunal de Cuentas, en los términos previstos legalmente",
+      "Los Gabinetes de los Delegados del Gobierno o Gobernadores Civiles"
+    ],
+    "correct": 1,
+    "exp": "El art. 4.e) declara servicios especiales para los adscritos al Tribunal Constitucional, Defensor del Pueblo o destinados al Tribunal de Cuentas.",
+    "fuente": "Art. 4.e) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 4.f) del RD 365/1995 declara en servicios especiales a quienes...",
+    "options": [
+      "Accedan a la condición de Diputado o Senador de las Cortes Generales",
+      "Sean nombrados funcionarios en comisión de servicios",
+      "Pasen a la situación de expectativa de destino"
+    ],
+    "correct": 0,
+    "exp": "La letra f) del art. 4 declara servicios especiales para quienes accedan a la condición de Diputado o Senador.",
+    "fuente": "Art. 4.f) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 4.k) del RD 365/1995, se declara la situación de servicios especiales cuando el funcionario...",
+    "options": [
+      "Solicite la excedencia voluntaria por interés particular",
+      "Cumpla el servicio militar o prestación social sustitutoria equivalente",
+      "Obtenga un puesto de trabajo en la misma provincia"
+    ],
+    "correct": 1,
+    "exp": "El art. 4.k) declara servicios especiales cuando el funcionario cumple el servicio militar o la prestación social sustitutoria equivalente.",
+    "fuente": "Art. 4.k) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 4.l) del RD 365/1995, quedan en servicios especiales los funcionarios que sean...",
+    "options": [
+      "Nombrados miembros de un Ayuntamiento sin dedicación exclusiva",
+      "Destinados a una Comunidad Autónoma por concurso",
+      "Elegidos miembros del Parlamento Europeo"
+    ],
+    "correct": 2,
+    "exp": "La letra l) del art. 4 declara servicios especiales para los funcionarios elegidos miembros del Parlamento Europeo.",
+    "fuente": "Art. 4.l) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 5 del RD 365/1995, ¿qué se entiende por 'cargo de carácter político' a efectos del pase a servicios especiales?",
+    "options": [
+      "El cargo de confianza que no implique una relación profesional de carácter permanente, del que se derive incompatibilidad para ejercer la función pública y que conlleve responsabilidades directivas o de asesoramiento a nivel político",
+      "Cualquier puesto de trabajo obtenido por libre designación",
+      "Todo puesto directivo en un Organismo autónomo estatal"
+    ],
+    "correct": 0,
+    "exp": "El art. 5 define el cargo de carácter político como cargo de confianza sin relación profesional permanente, con incompatibilidad y responsabilidades directivas o de asesoramiento político.",
+    "fuente": "Art. 5 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 5 del RD 365/1995 atribuye el establecimiento de los criterios para calificar un cargo como de carácter político a...",
+    "options": [
+      "El Ministerio de Asuntos Exteriores",
+      "El Ministerio para las Administraciones Públicas",
+      "El Consejo de Estado"
+    ],
+    "correct": 1,
+    "exp": "Conforme al art. 5, dichos criterios los establece el Ministerio para las Administraciones Públicas.",
+    "fuente": "Art. 5 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 6.1 del RD 365/1995, el pase a la situación de servicios especiales se declara...",
+    "options": [
+      "Solo a instancia del interesado, nunca de oficio",
+      "Exclusivamente mediante resolución del Consejo de Ministros",
+      "De oficio o a instancia del interesado, con efectos desde el momento en que se produjo el supuesto"
+    ],
+    "correct": 2,
+    "exp": "El art. 6.1 permite la declaración de oficio o a instancia del interesado, con efectos desde que se produjo el supuesto.",
+    "fuente": "Art. 6.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 6.2 del RD 365/1995, la autorización para realizar una misión de carácter internacional requiere que conste el interés de la Administración según los criterios que establezca...",
+    "options": [
+      "El Ministerio de Asuntos Exteriores",
+      "El Ministerio para las Administraciones Públicas",
+      "La Secretaría de Estado para la Administración Pública"
+    ],
+    "correct": 0,
+    "exp": "El art. 6.2 exige que el interés de la Administración conste conforme a los criterios que establezca el Ministerio de Asuntos Exteriores.",
+    "fuente": "Art. 6.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 7.1.a) del RD 365/1995, cuando el puesto desempeñado antes de pasar a servicios especiales se hubiera obtenido por libre designación, al reingreso se adjudicará...",
+    "options": [
+      "Un puesto de igual nivel y similares retribuciones, con carácter definitivo, en el mismo Ministerio",
+      "Un puesto de igual nivel y similares retribuciones, con carácter provisional, en el mismo municipio, hasta obtener otro con carácter definitivo",
+      "El mismo puesto que desempeñaba, con carácter definitivo"
+    ],
+    "correct": 1,
+    "exp": "El art. 7.1.a) prevé un puesto provisional de igual nivel y similares retribuciones en el mismo municipio para quienes procedían de un puesto de libre designación.",
+    "fuente": "Art. 7.1.a) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En los supuestos no correspondientes a libre designación, el art. 7.1.b) del RD 365/1995 dispone que se adjudicará al funcionario, con carácter definitivo...",
+    "options": [
+      "Cualquier puesto vacante en la Administración, sin garantía de nivel",
+      "Un puesto de nivel superior en otro Ministerio",
+      "Un puesto de igual nivel y similares retribuciones en el mismo Ministerio y municipio"
+    ],
+    "correct": 2,
+    "exp": "El art. 7.1.b) adjudica, con carácter definitivo, un puesto de igual nivel y similares retribuciones en el mismo Ministerio y municipio.",
+    "fuente": "Art. 7.1.b) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 8.1 del RD 365/1995, los funcionarios en situación de servicios especiales perciben...",
+    "options": [
+      "La retribución del puesto o cargo efectivo que desempeñen, y no la que les corresponda como funcionarios",
+      "Las retribuciones que les corresponderían como funcionarios en servicio activo",
+      "Únicamente las retribuciones básicas y los trienios"
+    ],
+    "correct": 0,
+    "exp": "El art. 8.1 establece que perciben la retribución del puesto o cargo efectivo desempeñado, y no la de funcionario.",
+    "fuente": "Art. 8.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 8.2 del RD 365/1995 establece que el tiempo en servicios especiales se computará a efectos de...",
+    "options": [
+      "Únicamente a efectos de antigüedad, sin repercusión en derechos pasivos",
+      "Ascensos, consolidación de grado personal, trienios y derechos pasivos, así como para el período mínimo de excedencia voluntaria por interés particular",
+      "Solo a efectos de trienios, quedando excluidos los ascensos"
+    ],
+    "correct": 1,
+    "exp": "El art. 8.2 computa el tiempo en servicios especiales a efectos de ascensos, grado personal, trienios, derechos pasivos y período mínimo para la excedencia voluntaria por interés particular.",
+    "fuente": "Art. 8.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 8.1 del RD 365/1995, cuando las retribuciones por trienios no puedan percibirse con cargo a los presupuestos correspondientes, ¿quién debe abonarlas?",
+    "options": [
+      "La Secretaría de Estado para la Administración Pública",
+      "El propio Organismo internacional o entidad donde presta servicio",
+      "El Departamento en el que el funcionario desempeñaba su último puesto en servicio activo"
+    ],
+    "correct": 2,
+    "exp": "El art. 8.1 atribuye ese abono excepcional al Departamento donde el funcionario desempeñaba su último puesto en activo.",
+    "fuente": "Art. 8.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 9.1 del RD 365/1995, quienes pierdan la condición que motivó su declaración en servicios especiales deben solicitar el reingreso al servicio activo en el plazo de...",
+    "options": [
+      "Un mes",
+      "Quince días",
+      "Tres meses"
+    ],
+    "correct": 0,
+    "exp": "El art. 9.1 fija en un mes el plazo para solicitar el reingreso tras perder la condición que motivó los servicios especiales.",
+    "fuente": "Art. 9.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 9.1 del RD 365/1995, si no se solicita el reingreso en plazo, se declara al funcionario en...",
+    "options": [
+      "Suspensión provisional de funciones",
+      "Excedencia voluntaria por interés particular, con efectos desde el día en que perdió la condición",
+      "Expectativa de destino"
+    ],
+    "correct": 1,
+    "exp": "El art. 9.1 declara la excedencia voluntaria por interés particular, con efectos desde el día en que se perdió la condición, si no se solicita el reingreso en plazo.",
+    "fuente": "Art. 9.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 9.2 del RD 365/1995, los Diputados, Senadores o miembros de las Asambleas Legislativas que pierdan su condición por disolución de las Cámaras...",
+    "options": [
+      "Deben reincorporarse de inmediato al servicio activo",
+      "Pasan automáticamente a excedencia forzosa",
+      "Podrán permanecer en situación de servicios especiales hasta la nueva constitución de las Cámaras"
+    ],
+    "correct": 2,
+    "exp": "El art. 9.2 permite permanecer en servicios especiales hasta la nueva constitución de las Cámaras en caso de disolución.",
+    "fuente": "Art. 9.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 10.1 del RD 365/1995, los funcionarios transferidos a las Comunidades Autónomas se integran plenamente en la organización de éstas, hallándose en situación de...",
+    "options": [
+      "Servicio activo en la Comunidad Autónoma, permaneciendo en 'servicio en Comunidades Autónomas' en su Cuerpo o Escala de origen",
+      "Excedencia voluntaria por servicios en el sector público",
+      "Servicios especiales en todo caso"
+    ],
+    "correct": 0,
+    "exp": "El art. 10.1 sitúa a los funcionarios transferidos en servicio activo en la Comunidad Autónoma, y en 'servicio en Comunidades Autónomas' respecto de su Cuerpo o Escala de origen.",
+    "fuente": "Art. 10.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 10.2 del RD 365/1995, la sanción de separación del servicio de un funcionario transferido será acordada por el órgano competente de la Comunidad Autónoma...",
+    "options": [
+      "Sin necesidad de ningún informe previo",
+      "Previo dictamen del Consejo de Estado",
+      "Previa autorización del Ministerio para las Administraciones Públicas"
+    ],
+    "correct": 1,
+    "exp": "El art. 10.2 exige que la sanción de separación se acuerde previo dictamen del Consejo de Estado.",
+    "fuente": "Art. 10.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 11.1 del RD 365/1995, los funcionarios de la Administración del Estado que pasan a ocupar puestos en Comunidades Autónomas mediante concurso, libre designación o reasignación de efectivos...",
+    "options": [
+      "Pierden su condición de funcionarios de la Administración del Estado",
+      "Pasan automáticamente a la situación de excedencia voluntaria",
+      "Conservan su condición de funcionarios de la Administración del Estado, en situación de servicio en Comunidades Autónomas"
+    ],
+    "correct": 2,
+    "exp": "El art. 11.1 les mantiene la condición de funcionarios del Estado, en la situación de servicio en Comunidades Autónomas.",
+    "fuente": "Art. 11.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 11.2 del RD 365/1995, la sanción de separación del servicio de estos funcionarios corresponde acordarla a...",
+    "options": [
+      "El Ministro del Departamento al que esté adscrito el Cuerpo o Escala, previa incoación de expediente por la Comunidad Autónoma de destino",
+      "El órgano competente de la Comunidad Autónoma de destino, sin más trámite",
+      "El Consejo de Ministros, en todo caso"
+    ],
+    "correct": 0,
+    "exp": "El art. 11.2 reserva al Ministro del Departamento de adscripción del Cuerpo o Escala la sanción de separación, previa incoación del expediente por la Comunidad Autónoma de destino.",
+    "fuente": "Art. 11.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 12.1 del RD 365/1995, pasan a la situación de expectativa de destino los funcionarios afectados por un procedimiento de reasignación de efectivos que...",
+    "options": [
+      "Hayan solicitado voluntariamente la excedencia",
+      "No hayan obtenido puesto en las dos primeras fases de reasignación, adscribiéndose al Ministerio para las Administraciones Públicas",
+      "Hayan sido sancionados con suspensión firme de funciones"
+    ],
+    "correct": 1,
+    "exp": "El art. 12.1 declara en expectativa de destino a quienes no obtuvieron puesto en las dos primeras fases de reasignación, adscribiéndolos al Ministerio para las Administraciones Públicas.",
+    "fuente": "Art. 12.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Entre las obligaciones de los funcionarios en expectativa de destino que recoge el art. 12.3 del RD 365/1995 se encuentra...",
+    "options": [
+      "Trasladarse a cualquier provincia del territorio nacional sin condición alguna",
+      "Renunciar a la condición de funcionario si no aceptan el primer puesto ofrecido",
+      "Aceptar los puestos de características similares que se les ofrezcan en la provincia donde estaban destinados y participar en los concursos y cursos de capacitación que se les notifiquen"
+    ],
+    "correct": 2,
+    "exp": "El art. 12.3 obliga a aceptar puestos similares en la provincia de destino y a participar en concursos y cursos de capacitación notificados.",
+    "fuente": "Art. 12.3 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 12.4 del RD 365/1995, la declaración y cese en la situación de expectativa de destino corresponde a...",
+    "options": [
+      "La Secretaría de Estado para la Administración Pública",
+      "El Consejo de Ministros",
+      "El Ministro del Departamento de origen del funcionario"
+    ],
+    "correct": 0,
+    "exp": "El art. 12.4 atribuye la declaración y cese a la Secretaría de Estado para la Administración Pública.",
+    "fuente": "Art. 12.4 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 12.5 del RD 365/1995, los funcionarios en expectativa de destino perciben las retribuciones básicas, el complemento de destino correspondiente y...",
+    "options": [
+      "El 100 por 100 del complemento específico que percibieran",
+      "El 50 por 100 del complemento específico que percibieran al pasar a esta situación",
+      "Ningún complemento específico"
+    ],
+    "correct": 1,
+    "exp": "El art. 12.5 reconoce el 50 por 100 del complemento específico que se percibiera al pasar a la situación.",
+    "fuente": "Art. 12.5 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13.1.a) del RD 365/1995, una de las causas de la excedencia forzosa es...",
+    "options": [
+      "La solicitud voluntaria del funcionario para el cuidado de hijos",
+      "La obtención de un puesto de trabajo mediante concurso",
+      "El transcurso del período máximo de expectativa de destino o el incumplimiento de las obligaciones que ésta impone"
+    ],
+    "correct": 2,
+    "exp": "El art. 13.1.a) señala como causa el transcurso del plazo máximo de expectativa de destino o el incumplimiento de sus obligaciones.",
+    "fuente": "Art. 13.1.a) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 13.1.b) del RD 365/1995, también procede la excedencia forzosa cuando el funcionario en situación de suspensión firme, sin puesto reservado, solicita el reingreso y...",
+    "options": [
+      "No se le concede en el plazo de seis meses desde la extinción de la responsabilidad penal o disciplinaria",
+      "No se le concede en el plazo de un año desde su solicitud",
+      "Es rechazado de forma expresa y motivada por el órgano competente"
+    ],
+    "correct": 0,
+    "exp": "El art. 13.1.b) exige que no se le conceda el reingreso en el plazo de seis meses desde la extinción de la responsabilidad penal o disciplinaria.",
+    "fuente": "Art. 13.1.b) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13.4 del RD 365/1995, el incumplimiento de las obligaciones del excedente forzoso determina...",
+    "options": [
+      "La apertura automática de un expediente disciplinario por falta muy grave",
+      "El pase a la situación de excedencia voluntaria por interés particular",
+      "La pérdida definitiva de la condición de funcionario"
+    ],
+    "correct": 1,
+    "exp": "El art. 13.4 sanciona el incumplimiento con el pase a la excedencia voluntaria por interés particular.",
+    "fuente": "Art. 13.4 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 13.5 del RD 365/1995, los excedentes forzosos...",
+    "options": [
+      "Solo pueden trabajar en el sector público si es en su misma provincia de destino",
+      "Pueden desempeñar libremente puestos en el sector público bajo relación laboral",
+      "No pueden desempeñar puestos de trabajo en el sector público bajo ningún tipo de relación funcionarial o contractual; si lo hacen, pasan a excedencia voluntaria"
+    ],
+    "correct": 2,
+    "exp": "El art. 13.5 prohíbe a los excedentes forzosos desempeñar puestos en el sector público bajo cualquier relación; si obtienen puesto, pasan a excedencia voluntaria.",
+    "fuente": "Art. 13.5 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13.6 del RD 365/1995, los funcionarios en excedencia forzosa tienen derecho a percibir...",
+    "options": [
+      "Las retribuciones básicas y, en su caso, las prestaciones familiares por hijo a cargo, con cómputo del tiempo a efectos de derechos pasivos y trienios",
+      "La totalidad de sus retribuciones, incluido el complemento específico",
+      "Únicamente una indemnización única a la extinción de la situación"
+    ],
+    "correct": 0,
+    "exp": "El art. 13.6 reconoce retribuciones básicas y, en su caso, prestaciones familiares por hijo a cargo, computándose el tiempo a efectos de derechos pasivos y trienios.",
+    "fuente": "Art. 13.6 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  }
+]);

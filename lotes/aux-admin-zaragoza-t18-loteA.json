@@ -1,0 +1,487 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 18,
+  "tramo": "TREBEP arts. 85-87",
+  "preguntas": [
+    {
+      "q": "¿Cuántas situaciones administrativas de los funcionarios de carrera enumera el artículo 85.1 del TREBEP?",
+      "options": [
+        "Cinco",
+        "Cuatro",
+        "Seis"
+      ],
+      "correct": 0,
+      "exp": "El art. 85.1 enumera cinco situaciones: servicio activo, servicios especiales, servicio en otras Administraciones Públicas, excedencia y suspensión de funciones.",
+      "fuente": "Art. 85.1 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 85.1 TREBEP, la situación de 'servicio en otras Administraciones Públicas' se corresponde con la letra:",
+      "options": [
+        "b)",
+        "c)",
+        "d)"
+      ],
+      "correct": 1,
+      "exp": "El art. 85.1 ordena las situaciones así: a) servicio activo, b) servicios especiales, c) servicio en otras Administraciones Públicas, d) excedencia, e) suspensión de funciones.",
+      "fuente": "Art. 85.1.c TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "De acuerdo con el art. 85.2.a) TREBEP, las leyes de Función Pública que desarrollen el Estatuto podrán regular otras situaciones administrativas cuando concurra la existencia de:",
+      "options": [
+        "Una sanción disciplinaria firme impuesta al funcionario",
+        "La superación de la edad máxima de permanencia en el servicio activo",
+        "Razones organizativas, de reestructuración interna o exceso de personal que generen una imposibilidad transitoria de asignar puesto de trabajo"
+      ],
+      "correct": 2,
+      "exp": "El art. 85.2.a) cita como circunstancia las razones organizativas, de reestructuración interna o exceso de personal, o la conveniencia de incentivar la cesación en el servicio activo.",
+      "fuente": "Art. 85.2.a TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 85.2.b) TREBEP contempla como causa para regular otras situaciones administrativas el supuesto de funcionarios que:",
+      "options": [
+        "Accedan por promoción interna u otros sistemas de acceso a otros cuerpos o escalas sin que les corresponda quedar en ninguna situación prevista en el Estatuto, o pasen a prestar servicios en entidades del sector público en régimen distinto al de funcionario de carrera",
+        "Sean nombrados para desempeñar un cargo de confianza en un grupo parlamentario",
+        "Sean autorizados a realizar una misión internacional superior a seis meses"
+      ],
+      "correct": 0,
+      "exp": "El art. 85.2.b) se refiere al acceso a otros cuerpos o escalas por promoción interna u otros sistemas, o al paso a prestar servicios en el sector público en régimen distinto al de funcionario de carrera.",
+      "fuente": "Art. 85.2.b TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el último párrafo del art. 85.2 TREBEP, la regulación de esas otras situaciones administrativas podrá conllevar garantías de índole retributiva o imponer derechos u obligaciones en relación con:",
+      "options": [
+        "La jubilación forzosa",
+        "El reingreso al servicio activo",
+        "El régimen disciplinario aplicable"
+      ],
+      "correct": 1,
+      "exp": "El precepto establece que dicha regulación podrá conllevar garantías retributivas o imponer derechos u obligaciones en relación con el reingreso al servicio activo.",
+      "fuente": "Art. 85.2 TREBEP (último párrafo)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué situación administrativa aparece en primer lugar en la relación del art. 85.1 TREBEP?",
+      "options": [
+        "Los servicios especiales",
+        "La excedencia",
+        "El servicio activo"
+      ],
+      "correct": 2,
+      "exp": "El art. 85.1 comienza su enumeración con la letra a) servicio activo.",
+      "fuente": "Art. 85.1.a TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 86.1 TREBEP, se hallan en situación de servicio activo los funcionarios que prestan servicios en tal condición:",
+      "options": [
+        "Cualquiera que sea la Administración, organismo público o entidad en que estén destinados, siempre que no les corresponda quedar en otra situación",
+        "Únicamente cuando prestan servicios en la Administración que les nombró funcionarios de carrera",
+        "Solo cuando ocupan un puesto de trabajo mediante concurso específico en su Administración de origen"
+      ],
+      "correct": 0,
+      "exp": "El art. 86.1 no exige que se presten servicios en la Administración de origen, sino que basta con hacerlo como funcionario público sin que corresponda otra situación.",
+      "fuente": "Art. 86.1 TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 86.1 TREBEP, para hallarse en servicio activo es necesario, además de prestar servicios como funcionario público, que:",
+      "options": [
+        "Haya solicitado expresamente esa situación ante la Administración",
+        "No le corresponda quedar en ninguna otra situación administrativa",
+        "Lleve más de dos años en el puesto de trabajo"
+      ],
+      "correct": 1,
+      "exp": "El art. 86.1 exige que no corresponda al funcionario quedar en otra situación administrativa distinta del servicio activo.",
+      "fuente": "Art. 86.1 TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 86.2 TREBEP establece que los funcionarios de carrera en servicio activo:",
+      "options": [
+        "Solo conservan los derechos económicos, pero no los deberes propios de la función pública",
+        "Quedan sujetos a los deberes de la función pública pero pierden temporalmente sus derechos",
+        "Gozan de todos los derechos inherentes a su condición de funcionarios y quedan sujetos a los deberes y responsabilidades derivados de la misma"
+      ],
+      "correct": 2,
+      "exp": "El art. 86.2 reconoce a estos funcionarios todos los derechos y, a la vez, los sujeta a los deberes y responsabilidades de su condición.",
+      "fuente": "Art. 86.2 TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Por qué normas se rigen los funcionarios de carrera en servicio activo según el art. 86.2 TREBEP?",
+      "options": [
+        "Por las normas del propio Estatuto y por la normativa de función pública de la Administración Pública en que presten servicios",
+        "Exclusivamente por el convenio colectivo del personal laboral de la Administración de destino",
+        "Únicamente por las normas de la Administración en la que ingresaron originariamente como funcionarios"
+      ],
+      "correct": 0,
+      "exp": "El art. 86.2 remite al propio Estatuto y a la normativa de función pública de la Administración en la que efectivamente presten servicios.",
+      "fuente": "Art. 86.2 TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuál de las siguientes circunstancias impide, según el art. 86.1 TREBEP, que un funcionario se halle en situación de servicio activo?",
+      "options": [
+        "Que preste servicios en una Administración distinta de aquella en la que ingresó",
+        "Que le corresponda quedar en otra de las situaciones administrativas previstas",
+        "Que ocupe un puesto de trabajo de nivel superior al de su grupo de titulación"
+      ],
+      "correct": 1,
+      "exp": "El servicio activo exige precisamente que no corresponda al funcionario hallarse en otra situación administrativa.",
+      "fuente": "Art. 86.1 TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 87.1.a) TREBEP, además de miembros del Gobierno, de órganos de gobierno de CCAA y de Ceuta y Melilla, o de instituciones de la UE u organizaciones internacionales, pasan a servicios especiales quienes sean nombrados:",
+      "options": [
+        "Asesores de un grupo parlamentario de las Cortes Generales",
+        "Vocales del Consejo General del Poder Judicial",
+        "Altos cargos de las citadas Administraciones Públicas o Instituciones"
+      ],
+      "correct": 2,
+      "exp": "El art. 87.1.a) incluye también a quienes sean nombrados altos cargos de dichas Administraciones o Instituciones.",
+      "fuente": "Art. 87.1.a TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 87.1.b) TREBEP contempla el supuesto de funcionarios autorizados a realizar una misión en organismos internacionales, gobiernos o entidades públicas extranjeras, o en programas de cooperación internacional, cuando dicha misión tenga una duración:",
+      "options": [
+        "Superior a seis meses",
+        "Superior a un año",
+        "Superior a tres meses"
+      ],
+      "correct": 0,
+      "exp": "El precepto exige que la misión sea por un periodo determinado superior a seis meses.",
+      "fuente": "Art. 87.1.b TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 87.1.c) TREBEP, procede la situación de servicios especiales cuando el funcionario sea nombrado para desempeñar puestos o cargos en organismos públicos o entidades dependientes o vinculados a las Administraciones Públicas que:",
+      "options": [
+        "Requieran una misión internacional superior a seis meses",
+        "Estén asimilados en su rango administrativo a altos cargos",
+        "Estén calificados como puestos de confianza o asesoramiento político"
+      ],
+      "correct": 1,
+      "exp": "La letra c) exige que dichos organismos o entidades estén asimilados en su rango administrativo a altos cargos, conforme a lo que establezca la Administración correspondiente.",
+      "fuente": "Art. 87.1.c TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 87.1.d) TREBEP sitúa en servicios especiales a los funcionarios adscritos a los servicios del Tribunal Constitucional o del Defensor del Pueblo, o destinados a:",
+      "options": [
+        "El Consejo General del Poder Judicial",
+        "Los consejos de justicia de las comunidades autónomas",
+        "El Tribunal de Cuentas, en los términos del art. 93.3 de la Ley 7/1988"
+      ],
+      "correct": 2,
+      "exp": "La letra d) remite expresamente al Tribunal de Cuentas en los términos del art. 93.3 de la Ley 7/1988, de Funcionamiento del Tribunal de Cuentas.",
+      "fuente": "Art. 87.1.d TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 87.1.e) TREBEP, los funcionarios que accedan a la condición de Diputado o Senador de las Cortes Generales, o de miembro de una asamblea legislativa autonómica, pasan a servicios especiales siempre que:",
+      "options": [
+        "Perciban retribuciones periódicas por la realización de esa función",
+        "Desempeñen el cargo con dedicación exclusiva en una entidad local",
+        "Sean designados asesores de su grupo parlamentario"
+      ],
+      "correct": 0,
+      "exp": "La letra e) exige que se perciban retribuciones periódicas por el ejercicio de la función.",
+      "fuente": "Art. 87.1.e TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 87.1.e) TREBEP, si un Diputado o Senador pierde tal condición por disolución de las Cámaras o terminación de su mandato, puede permanecer en servicios especiales:",
+      "options": [
+        "Durante un máximo de seis meses adicionales",
+        "Hasta la nueva constitución de las Cámaras",
+        "Hasta que reingrese voluntariamente al servicio activo"
+      ],
+      "correct": 1,
+      "exp": "El precepto permite la permanencia en servicios especiales hasta la nueva constitución de las correspondientes Cámaras.",
+      "fuente": "Art. 87.1.e TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 87.1.f) TREBEP incluye en servicios especiales, entre otros supuestos, el desempeño de cargos electivos en las Asambleas de Ceuta y Melilla y en las entidades locales cuando dichos cargos sean:",
+      "options": [
+        "De carácter honorífico y sin retribución",
+        "De duración inferior a seis meses",
+        "Retribuidos y de dedicación exclusiva"
+      ],
+      "correct": 2,
+      "exp": "La letra f) exige que los cargos electivos sean retribuidos y de dedicación exclusiva.",
+      "fuente": "Art. 87.1.f TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 87.1.g) TREBEP, pasan a servicios especiales los funcionarios designados para formar parte de:",
+      "options": [
+        "El Consejo General del Poder Judicial o de los consejos de justicia de las comunidades autónomas",
+        "Los Órganos Constitucionales o los órganos estatutarios de las comunidades autónomas",
+        "Los grupos parlamentarios de las Cortes Generales"
+      ],
+      "correct": 0,
+      "exp": "La letra g) se refiere específicamente a la designación para el CGPJ o los consejos de justicia autonómicos.",
+      "fuente": "Art. 87.1.g TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 87.1.h) TREBEP se refiere a los funcionarios elegidos o designados para formar parte de:",
+      "options": [
+        "El Consejo General del Poder Judicial exclusivamente",
+        "Los Órganos Constitucionales o de los órganos estatutarios de las comunidades autónomas u otros cuya elección corresponda al Congreso, al Senado o a las asambleas legislativas autonómicas",
+        "Los órganos de gobierno de las entidades locales"
+      ],
+      "correct": 1,
+      "exp": "La letra h) es una cláusula más amplia que la g), referida a Órganos Constitucionales, órganos estatutarios autonómicos u otros de elección parlamentaria.",
+      "fuente": "Art. 87.1.h TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 87.1.i) TREBEP, los funcionarios designados como personal eventual para ocupar puestos calificados de confianza o asesoramiento político pasan a servicios especiales:",
+      "options": [
+        "En todo caso, sin posibilidad de elegir otra situación",
+        "Únicamente si el nombramiento supera los seis meses de duración",
+        "Cuando no opten por permanecer en la situación de servicio activo"
+      ],
+      "correct": 2,
+      "exp": "La letra i) reconoce a estos funcionarios la opción de permanecer en servicio activo; solo si no la ejercen pasan a servicios especiales.",
+      "fuente": "Art. 87.1.i TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 87.1.j) TREBEP declara en servicios especiales a los funcionarios que:",
+      "options": [
+        "Adquieran la condición de funcionarios al servicio de organizaciones internacionales",
+        "Sean autorizados a realizar una misión temporal en un gobierno extranjero",
+        "Sean designados asesores de un grupo parlamentario autonómico"
+      ],
+      "correct": 0,
+      "exp": "La letra j) se refiere a la adquisición de la condición de funcionario al servicio de organizaciones internacionales.",
+      "fuente": "Art. 87.1.j TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 87.1.k) TREBEP, se declara la situación de servicios especiales cuando el funcionario es designado:",
+      "options": [
+        "Miembro de un consejo de justicia autonómico",
+        "Asesor de los grupos parlamentarios de las Cortes Generales o de las asambleas legislativas de las comunidades autónomas",
+        "Alto cargo de una organización internacional"
+      ],
+      "correct": 1,
+      "exp": "La letra k) contempla específicamente el nombramiento como asesor de grupos parlamentarios estatales o autonómicos.",
+      "fuente": "Art. 87.1.k TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 87.1.l) TREBEP contempla la situación de servicios especiales para los funcionarios que:",
+      "options": [
+        "Sean llamados a filas como reservistas obligatorios",
+        "Sean nombrados vocales de un tribunal de oposiciones militares",
+        "Sean activados como reservistas voluntarios para prestar servicios en las Fuerzas Armadas"
+      ],
+      "correct": 2,
+      "exp": "La letra l), última del listado, se refiere a la activación como reservistas voluntarios en las Fuerzas Armadas.",
+      "fuente": "Art. 87.1.l TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuál es la diferencia esencial entre los supuestos de las letras b) y c) del art. 87.1 TREBEP?",
+      "options": [
+        "La letra b) exige una misión superior a seis meses en el extranjero o en organismos internacionales, mientras que la letra c) se refiere al nombramiento en organismos o entidades vinculados a las Administraciones Públicas asimilados a altos cargos",
+        "Ambas letras regulan exactamente el mismo supuesto de designación como alto cargo autonómico",
+        "La letra b) se aplica solo a funcionarios docentes y la letra c) solo a funcionarios sanitarios"
+      ],
+      "correct": 0,
+      "exp": "Se trata de dos supuestos distintos: misión internacional temporal (b) frente a nombramiento en entidad vinculada asimilada a alto cargo (c).",
+      "fuente": "Art. 87.1.b y 87.1.c TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Respecto de los cargos electivos, ¿qué diferencia existe entre las letras e) y f) del art. 87.1 TREBEP?",
+      "options": [
+        "La letra e) exige dedicación exclusiva y la letra f) no exige ningún requisito de dedicación",
+        "La letra e) se refiere a Diputados y Senadores de las Cortes Generales o miembros de asambleas legislativas autonómicas, mientras que la letra f) se refiere a cargos electivos locales y de las Asambleas de Ceuta y Melilla",
+        "Ambas letras regulan el mismo supuesto para evitar lagunas normativas"
+      ],
+      "correct": 1,
+      "exp": "La letra e) atiende al ámbito parlamentario estatal y autonómico, y la letra f) al ámbito local y de las ciudades de Ceuta y Melilla.",
+      "fuente": "Art. 87.1.e y 87.1.f TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿En qué se diferencian los supuestos de personal eventual de confianza (letra i) y de asesor de grupo parlamentario (letra k) del art. 87.1 TREBEP?",
+      "options": [
+        "Ambos supuestos exigen superar un periodo mínimo de seis meses en el puesto",
+        "La letra k) solo se aplica a funcionarios docentes designados por el Ministerio",
+        "La letra i) exige que el funcionario no opte por permanecer en servicio activo, mientras que la letra k) no contempla esa opción y declara directamente la situación"
+      ],
+      "correct": 2,
+      "exp": "La letra i) prevé la posibilidad de optar por seguir en servicio activo; la letra k), referida a asesores de grupos parlamentarios, no recoge esa opción.",
+      "fuente": "Art. 87.1.i y 87.1.k TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 87.2 TREBEP dispone que, con independencia de las retribuciones del cargo desempeñado, los funcionarios en servicios especiales conservan el derecho a percibir:",
+      "options": [
+        "Los trienios que tengan reconocidos en cada momento",
+        "El complemento específico de su puesto de origen",
+        "La totalidad de las retribuciones complementarias de su puesto de funcionario de carrera"
+      ],
+      "correct": 0,
+      "exp": "El art. 87.2 salva expresamente el derecho a percibir los trienios reconocidos, sin perjuicio de las retribuciones del puesto o cargo desempeñado.",
+      "fuente": "Art. 87.2 TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿A cuál de los siguientes efectos NO menciona expresamente el art. 87.2 TREBEP que se compute el tiempo permanecido en servicios especiales?",
+      "options": [
+        "Ascensos",
+        "Consolidación del grado personal",
+        "Promoción interna"
+      ],
+      "correct": 1,
+      "exp": "El art. 87.2 cita como efectos del cómputo los ascensos, el reconocimiento de trienios, la promoción interna y los derechos de Seguridad Social; la consolidación del grado se trata en el apartado 3, no en el 2.",
+      "fuente": "Art. 87.2 TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 87.2 TREBEP, el tiempo en situación de servicios especiales se computa, entre otros efectos, a efectos de derechos en el régimen de:",
+      "options": [
+        "Clases pasivas del Estado exclusivamente",
+        "Mutualidad de funcionarios de su Administración de origen",
+        "Seguridad Social que les sea de aplicación"
+      ],
+      "correct": 2,
+      "exp": "El precepto se refiere a los derechos en el régimen de Seguridad Social que resulte aplicable al funcionario.",
+      "fuente": "Art. 87.2 TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 87.2 TREBEP excluye de su régimen de cómputo a los funcionarios que, habiendo ingresado al servicio de las instituciones comunitarias europeas o de entidades y organismos asimilados, ejerciten:",
+      "options": [
+        "El derecho de transferencia establecido en el estatuto de los funcionarios de las Comunidades Europeas",
+        "El derecho de reingreso inmediato en su puesto de origen",
+        "El derecho a percibir simultáneamente ambas retribuciones"
+      ],
+      "correct": 0,
+      "exp": "El precepto excluye expresamente a quienes ejerciten el derecho de transferencia previsto en el estatuto de los funcionarios de las Comunidades Europeas.",
+      "fuente": "Art. 87.2 TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 87.2 TREBEP, el tiempo en servicios especiales computa a efectos de ascensos y de:",
+      "options": [
+        "Concurso de traslados",
+        "Promoción interna",
+        "Carrera horizontal"
+      ],
+      "correct": 1,
+      "exp": "El art. 87.2 enumera conjuntamente los ascensos, el reconocimiento de trienios, la promoción interna y los derechos de Seguridad Social.",
+      "fuente": "Art. 87.2 TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿A qué retribuciones NO tienen derecho, con carácter general, los funcionarios en situación de servicios especiales, según el art. 87.2 TREBEP?",
+      "options": [
+        "A las retribuciones del puesto o cargo que desempeñen",
+        "A los trienios que tuvieran reconocidos en cada momento",
+        "A las que les correspondan como funcionarios de carrera, salvo los trienios reconocidos"
+      ],
+      "correct": 2,
+      "exp": "El art. 87.2 excluye las retribuciones de funcionario de carrera, manteniendo únicamente, como excepción, el derecho a los trienios reconocidos.",
+      "fuente": "Art. 87.2 TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 87.3 TREBEP, los funcionarios en servicios especiales tienen derecho, al menos, a reingresar al servicio activo:",
+      "options": [
+        "En la misma localidad, en las condiciones y con las retribuciones correspondientes a la categoría, nivel o escalón de la carrera consolidados",
+        "En cualquier localidad del territorio nacional, con las retribuciones del cargo previamente desempeñado",
+        "Únicamente en la localidad donde ejerció el cargo que motivó el pase a esa situación"
+      ],
+      "correct": 0,
+      "exp": "El derecho mínimo reconocido es el reingreso en la misma localidad, con las condiciones y retribuciones de la categoría, nivel o escalón consolidados.",
+      "fuente": "Art. 87.3 TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 87.3 TREBEP señala que las condiciones y retribuciones del reingreso se determinarán conforme a:",
+      "options": [
+        "El sistema de carrera administrativa de la última Administración en la que prestaron el cargo",
+        "El sistema de carrera administrativa vigente en la Administración Pública a la que pertenezcan",
+        "Un baremo único establecido reglamentariamente para todo el personal en servicios especiales"
+      ],
+      "correct": 1,
+      "exp": "El precepto remite al sistema de carrera administrativa vigente en la Administración Pública a la que pertenezca el funcionario.",
+      "fuente": "Art. 87.3 TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Además del derecho mínimo de reingreso, el art. 87.3 TREBEP reconoce a estos funcionarios:",
+      "options": [
+        "El derecho automático a la promoción a un cuerpo o escala superior",
+        "El derecho a una indemnización económica única al reingresar",
+        "Los derechos que cada Administración Pública pueda establecer en función del cargo que originó el pase a esa situación"
+      ],
+      "correct": 2,
+      "exp": "El art. 87.3 añade los derechos que cada Administración establezca en atención al cargo que motivó el pase a servicios especiales.",
+      "fuente": "Art. 87.3 TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 87.3 TREBEP obliga a las Administraciones Públicas a velar para que no haya menoscabo en el derecho a la carrera profesional, entre otros, de los funcionarios que hayan sido:",
+      "options": [
+        "Alcaldes retribuidos y con dedicación exclusiva, o presidentes de diputaciones, cabildos o consejos insulares",
+        "Concejales sin dedicación exclusiva de cualquier ayuntamiento",
+        "Vocales de una junta de gobierno local sin retribución"
+      ],
+      "correct": 0,
+      "exp": "El precepto exige, expresamente, retribución y dedicación exclusiva para los alcaldes, y menciona también a los presidentes de diputaciones, cabildos o consejos insulares.",
+      "fuente": "Art. 87.3 TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 87.3 TREBEP, los funcionarios nombrados altos cargos, miembros del Poder Judicial u otros órganos constitucionales o estatutarios recibirán, como mínimo, en la consolidación del grado y conjunto de complementos, el mismo tratamiento que el establecido para quienes hayan sido:",
+      "options": [
+        "Jefes de servicio de la Administración General del Estado",
+        "Directores generales y otros cargos superiores de la correspondiente Administración Pública",
+        "Presidentes de las diputaciones provinciales"
+      ],
+      "correct": 1,
+      "exp": "El art. 87.3 fija como referente mínimo el tratamiento dado a los directores generales y otros cargos superiores.",
+      "fuente": "Art. 87.3 TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 87.3 TREBEP incluye expresamente entre los colectivos protegidos frente al menoscabo de su carrera profesional a los Diputados y Senadores de las Cortes Generales y a:",
+      "options": [
+        "Los asesores de los grupos parlamentarios de las Cortes Generales",
+        "Los diputados provinciales sin dedicación exclusiva",
+        "Los miembros de las asambleas legislativas de las comunidades autónomas"
+      ],
+      "correct": 2,
+      "exp": "El precepto cita expresamente, junto a Diputados y Senadores, a los miembros de las asambleas legislativas de las comunidades autónomas.",
+      "fuente": "Art. 87.3 TREBEP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 87.4 TREBEP, la declaración de la situación de servicios especiales procederá en todo caso:",
+      "options": [
+        "En los supuestos que se determinen en el propio Estatuto y en las leyes de Función Pública que se dicten en su desarrollo",
+        "Únicamente cuando lo solicite expresamente el funcionario interesado",
+        "Solo cuando lo acuerde el órgano de gobierno de la Administración correspondiente, sin necesidad de norma alguna"
+      ],
+      "correct": 0,
+      "exp": "El art. 87.4 remite a los supuestos determinados en el propio TREBEP y en las leyes de Función Pública de desarrollo.",
+      "fuente": "Art. 87.4 TREBEP",
+      "confianza": "alta"
+    }
+  ]
+}

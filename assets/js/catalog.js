@@ -24,7 +24,7 @@
       // los archivos de ampliación cuando los crea
       files:['data/aux-admin-zaragoza.js', 'data/aux-admin-zaragoza.ampliacion.js'],
       // nº aproximado de preguntas; se corrige solo al abrir la oposición
-      preguntas:3124
+      preguntas:3324
     },
     {
       slug:'policia-local-zaragoza',
