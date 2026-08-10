@@ -8,7 +8,7 @@ GitHub Pages y usarla desde el móvil.
 
 | Oposición | Organismo | Preguntas | Estado |
 |---|---|---|---|
-| Auxiliar Administrativo | Ayuntamiento de Zaragoza | 2.640 | Banco completo (incluye el examen oficial de 1-jun-2025 y 59 preguntas con cita de artículo) |
+| Auxiliar Administrativo | Ayuntamiento de Zaragoza | 2.640 | Banco completo, en formato de **3 opciones** como el examen oficial. Incluye el examen real de 1-jun-2025 y 59 preguntas con cita de artículo |
 | Policía Local | Ayuntamiento de Zaragoza | 64 | Banco inicial, pendiente de ampliar |
 | Policía Nacional · Escala Básica | Ministerio del Interior | 68 | Banco inicial, pendiente de ampliar |
 | Auxiliar Administrativo | Gobierno de Aragón (DGA) | 58 | Banco inicial, pendiente de ampliar |
@@ -31,6 +31,8 @@ tools/fuentes.json          Norma legal de referencia de cada tema
 tools/validar.js            Valida formato, duplicados y recuentos
 tools/fusionar.js           Integra un lote revisado en el banco
 tools/corregir-duplicados.js  Arregla preguntas con opciones repetidas
+tools/normalizar-opciones.js  Reduce de 4 a 3 opciones y reparte la posición
+                              de la respuesta correcta
 ```
 
 Cada banco se carga **solo cuando se abre esa oposición**, inyectando su
@@ -75,9 +77,23 @@ window.registerOposicion({slug:'mi-oposicion', temas:TEMAS, questions:QUESTIONS}
 }
 ```
 
-No hay que tocar nada más. Las preguntas admiten 3 o 4 opciones (los exámenes
-oficiales de Zaragoza son de 3), y las opciones se muestran siempre en orden
-aleatorio.
+No hay que tocar nada más. Las preguntas admiten 3 o 4 opciones y se muestran
+siempre en orden aleatorio.
+
+Cada oposición debe usar el formato de **su** examen: el de Auxiliar
+Administrativo de Zaragoza es de 3 opciones y el de Policía Nacional escala
+básica es de 4. Para pasar un banco de 4 a 3, y de paso repartir la posición
+de la respuesta correcta entre todas las posiciones:
+
+```bash
+node tools/normalizar-opciones.js data/mi-oposicion.js --reducir --muestra 5   # simular
+node tools/normalizar-opciones.js data/mi-oposicion.js --reducir --aplicar
+```
+
+No elimina la última opción, sino el distractor menos confundible con la
+respuesta correcta, para no dejar la pregunta con dos alternativas absurdas.
+Omite `--reducir` para solo repartir posiciones. Y **no lo pases sobre
+preguntas que reproduzcan un examen real**: esas deben conservarse tal cual.
 
 3. Comprueba que todo está bien:
 
@@ -104,38 +120,33 @@ dudosa por su cuenta.
 
 ## Estado actual y siguiente paso
 
-Última tanda: temas 18, 19 y 20 de Zaragoza ampliados con 59 preguntas
-verificadas (de 60 generadas). Pendiente, por orden de valor:
+Los cuatro bancos suman 2.830 preguntas. Zaragoza está en formato de 3
+opciones y con la posición de la respuesta correcta repartida; los otros tres
+siguen en 4 opciones, que es el formato de sus exámenes. Pendiente, por orden
+de valor:
 
-1. **Reabrir `boe.es`.** Las tandas anteriores se hicieron con el acceso
-   directo al BOE bloqueado, solo con búsqueda. Ese fue el origen de los
-   tres errores de cita detectados en el tema 18. Si al empezar una sesión
-   `curl -sS -o /dev/null -w "%{http_code}" "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"`
-   responde `200`, el bloqueo ya no está y hay que:
-   - Actualizar la sección «Limitación de red importante» de
-     [tools/generar.md](tools/generar.md): los redactores deben descargar el
-     texto consolidado y citar el artículo leído, en vez de cruzar
-     resúmenes de búsqueda.
-   - Volver a pasar un revisor sobre las 59 preguntas ya integradas de
-     `data/aux-admin-zaragoza.ampliacion.js`, esta vez contra texto literal.
+1. **Rehacer la verificación de las 59 preguntas generadas.** Se escribieron
+   con `boe.es` bloqueado, cruzando resúmenes de búsqueda, y de ahí salieron
+   tres citas de apartado mal atribuidas. Ahora el consolidado se descarga con
+   `curl` (ver [tools/generar.md](tools/generar.md)), así que conviene pasarles
+   un revisor contra texto literal.
 
 2. **Recuperar la pregunta apartada** de
-   `data/pendientes/aux-admin-zaragoza-t18-revisar.json`. Es correcta pero
-   cita mal la norma: el plazo mínimo de dos años en excedencia voluntaria
-   por interés particular no está en el art. 89.2 TREBEP, que lo remite a
-   las leyes de desarrollo. Falta confirmar el artículo exacto del
-   RD 365/1995 (¿15 o 16?). La nota de revisión lleva el arreglo.
+   `data/pendientes/aux-admin-zaragoza-t18-revisar.json`. Es correcta pero cita
+   mal la norma: el plazo mínimo de dos años en excedencia voluntaria por
+   interés particular no está en el art. 89.2 TREBEP, que lo remite a las leyes
+   de desarrollo. Falta confirmar el artículo exacto del RD 365/1995. Con el
+   BOE accesible se resuelve en una descarga.
 
-3. **Ampliar los tres bancos nuevos.** Policía Local Zaragoza, Policía
-   Nacional y Auxiliar Administrativo DGA suman 190 preguntas en 36 temas.
-   Las fuentes legales de cada tema están en
-   [tools/fuentes.json](tools/fuentes.json), con avisos en las materias que
-   cambian a menudo. Conviene ir por tandas de 3-4 temas para poder revisar
-   los lotes por el camino.
+3. **Ampliar los tres bancos nuevos.** Policía Local Zaragoza, Policía Nacional
+   y Auxiliar Administrativo DGA suman 190 preguntas en 36 temas. Las fuentes
+   legales de cada tema están en [tools/fuentes.json](tools/fuentes.json), con
+   avisos en las materias que cambian a menudo. Conviene ir por tandas de 3-4
+   temas para poder revisar los lotes por el camino.
 
 4. **Dos enunciados repetidos** en Zaragoza (temas 8 y 14) que `validar.js`
-   marca como aviso. La app los distingue por su solución, así que no
-   rompen nada; queda decidir si sobra uno de cada par.
+   marca como aviso. La app los distingue por su solución, así que no rompen
+   nada; queda decidir si sobra uno de cada par.
 
 ## Progreso y copia de seguridad
 
