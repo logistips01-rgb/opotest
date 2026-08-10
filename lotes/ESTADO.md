@@ -119,6 +119,57 @@ para una segunda vuelta (arts. 2.4, 3.2.g/k/l, 4.2.a/f/k, 8.3-8.4, 9.2-9.3,
 DT 6ª.1-2), suficiente para otros 25-30 sin repetirse. Como en el tema 20, ir
 más allá con estas mismas fuentes significa preguntas cada vez más finas.
 
+## Tema 18 · Situaciones administrativas y régimen disciplinario — PRIMERA VUELTA CERRADA
+
+**262 preguntas** (de 22 que había), todas de 3 opciones y 260 con el artículo
+citado. Seis lotes de 40, cada uno sobre un tramo distinto de TREBEP arts.
+85-98 y RD 365/1995, escritos leyendo el consolidado del BOE y revisados uno
+por uno.
+
+| Lote | Tramo | Confirmadas | Corregidas | Rechazadas |
+|---|---|---|---|---|
+| A | TREBEP arts. 85-87 | 40 | 0 | 0 |
+| B | TREBEP arts. 88-90 | 40 | 0 | 0 |
+| C | TREBEP arts. 93-95 (faltas, 17 letras) | 40 | 0 | 0 |
+| D | TREBEP arts. 91, 92, 96-98 | 40 | 0 | 0 |
+| E | RD 365/1995 arts. 1-13 | 40 | 0 | 0 |
+| F | RD 365/1995 arts. 14-23 | 39 | 1 | 0 |
+
+**239 de 240 sin tocar, 1 corregida, 0 rechazadas.** La corrección: una pregunta
+sobre la duración de la excedencia por cuidado de hijos citaba el art. 14.1 del
+RD 365/1995, pero ese precepto, en su literalidad, solo fija el nacimiento como
+inicio del cómputo de los tres años — la mención a la resolución judicial de
+adopción en el reglamento se refiere solo a cuándo puede *solicitarse*. La
+opción que se daba por correcta coincide en cambio con el art. 89.4 TREBEP
+vigente («a contar desde la fecha de nacimiento o, en su caso, de la
+resolución judicial o administrativa»). Se trasladó la cita al TREBEP.
+
+Este tema tenía un riesgo específico, distinto del de los temas 19 y 20: el RD
+365/1995 es un reglamento de 1995 que puede haber quedado desplazado por el
+TREBEP (2015), norma de rango legal posterior. Los redactores lo gestionaron
+bien por su cuenta, sin necesitar que el revisor rechazara nada:
+
+- El lote F detectó que el art. 14.1 del reglamento restringe el disfrute
+  simultáneo de la excedencia por cuidado de hijos a que «solo uno» de los
+  progenitores la ejerza, mientras que el art. 89.4 TREBEP vigente permite a
+  la Administración *limitarlo* por razones justificadas, que es una regla
+  distinta. El redactor no escribió ninguna pregunta sobre esa restricción.
+- El lote E, sobre la clasificación de 11 situaciones del art. 2 del
+  reglamento frente a las 5 del art. 85 TREBEP, formuló sus preguntas
+  limitándose a «qué dice el reglamento» sin inducir a creer que esa
+  clasificación de 1995 sigue vigente sin matices.
+- El lote D corrigió el encargo original, que suponía que el art. 92 TREBEP
+  trataba de remisión a leyes de Función Pública: el texto real regula las
+  situaciones del personal laboral.
+
+### Para llegar a 500
+
+Con 262 preguntas está bien cubierto el articulado preguntable de las dos
+normas del tema. Queda margen menor para una segunda vuelta (el lote F dejó
+sin usar las disposiciones transitorias del reglamento, de escaso valor por
+sus remisiones a la Ley 30/1984 con fechas de los años 80-90). Como en los
+temas 19 y 20, llegar a 500 con estas mismas fuentes sería relleno.
+
 ## Temas siguientes, cuando el 20 esté cerrado
 
 Del 19 hacia atrás. Estado y déficit hasta 500:
@@ -126,7 +177,7 @@ Del 19 hacia atrás. Estado y déficit hasta 500:
 | Tema | Actual | Faltan |
 |---|---|---|
 | 19 · FP local | 265 | 235 |
-| 18 · Situaciones y disciplinario | 22 | 478 |
+| 18 · Situaciones y disciplinario | 262 | 238 |
 | 17 · Empleados públicos: clases | 100 | 400 |
 | 16 · Reglamentos y ordenanzas | 100 | 400 |
 | 15 · Participación ciudadana | 150 | 350 |

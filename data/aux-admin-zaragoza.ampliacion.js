@@ -9014,3 +9014,488 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 18 · lote 2026-08-10 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 18, [
+  {
+    "q": "Según el artículo 89.4 del TREBEP, la excedencia para el cuidado de hijos tendrá, en todo caso, una duración máxima de tres años contados desde:",
+    "options": [
+      "La fecha de nacimiento o de la resolución judicial de adopción",
+      "La fecha de solicitud de la excedencia",
+      "La fecha de reincorporación del otro progenitor al servicio activo"
+    ],
+    "correct": 0,
+    "exp": "El art. 89.4 TREBEP fija una duración máxima de tres años a contar desde la fecha de nacimiento o, en su caso, de la resolución judicial o administrativa. El art. 14.1 del RD 365/1995, en su literalidad, solo menciona el nacimiento como día inicial del cómputo; la resolución judicial de adopción fija allí únicamente el momento desde el que puede solicitarse la excedencia.",
+    "fuente": "Art. 89.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "correccionPropuesta": "Fundamentar la respuesta en el art. 89.4 TREBEP (que sí incluye expresamente «o, en su caso, de la resolución judicial o administrativa» como término inicial del cómputo) en lugar de, o además de, el art. 14.1 RD 365/1995, cuyo texto literal solo fija el nacimiento como día inicial de los tres años; alternativamente, matizar en la explicación que el art. 14.1, en su literalidad, no menciona la resolución judicial de adopción como término de cómputo de la duración."
+  },
+  {
+    "q": "El RD 365/1995 condiciona la concesión de la excedencia para el cuidado de hijos a que el peticionario declare previamente que:",
+    "options": [
+      "Ha agotado previamente el permiso de maternidad o paternidad",
+      "No desempeña actividad que pueda impedir o menoscabar el cuidado personal del hijo menor",
+      "Cuenta con la conformidad expresa de su unidad de destino"
+    ],
+    "correct": 1,
+    "exp": "El art. 14.1 exige declaración previa del peticionario de que no desempeña actividad que impida o menoscabe el cuidado personal del hijo menor.",
+    "fuente": "Art. 14.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el artículo 14.2 del RD 365/1995, además de la reserva del puesto de trabajo, los funcionarios en excedencia por cuidado de hijos tienen derecho al cómputo del período a efectos de:",
+    "options": [
+      "Cómputo a efectos de antigüedad para el complemento de productividad",
+      "Cómputo a efectos de la carrera horizontal exclusivamente",
+      "Trienios, consolidación de grado personal y derechos pasivos"
+    ],
+    "correct": 2,
+    "exp": "El art. 14.2 reconoce reserva de puesto y cómputo a efectos de trienios, consolidación de grado personal, derechos pasivos y solicitud de excedencia por interés particular.",
+    "fuente": "Art. 14.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Si un funcionario en excedencia por cuidado de hijos no solicita el reingreso al servicio activo antes de finalizar el período, el artículo 14.3 del RD 365/1995 dispone que será declarado de oficio en situación de:",
+    "options": [
+      "Excedencia voluntaria por interés particular",
+      "Excedencia forzosa",
+      "Suspensión provisional de funciones"
+    ],
+    "correct": 0,
+    "exp": "El art. 14.3 prevé la declaración de oficio en excedencia voluntaria por interés particular si no se pide el reingreso antes de finalizar el período.",
+    "fuente": "Art. 14.3 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 15.1 del RD 365/1995, ¿qué circunstancia NO habilita para pasar a la excedencia voluntaria por prestación de servicios en el sector público?",
+    "options": [
+      "Prestar servicios como personal laboral fijo en organismos o entidades del sector público",
+      "Desempeñar el puesto con carácter de funcionario interino o de personal laboral temporal",
+      "Encontrarse en servicio activo en otro cuerpo o escala de otra Administración pública sin haber obtenido compatibilidad"
+    ],
+    "correct": 1,
+    "exp": "El art. 15.1 excluye expresamente que el desempeño de puestos como interino o laboral temporal habilite para esta situación.",
+    "fuente": "Art. 15.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "A efectos del artículo 15.1 del RD 365/1995, ¿cuándo se consideran incluidas en el sector público las empresas controladas por las Administraciones públicas?",
+    "options": [
+      "Cuando su capital social sea íntegramente público",
+      "Cuando coticen en un mercado regulado",
+      "Cuando la participación directa o indirecta de las Administraciones públicas sea igual o superior al porcentaje legalmente establecido"
+    ],
+    "correct": 2,
+    "exp": "El art. 15.1 remite al porcentaje de participación (directa o indirecta) legalmente establecido para considerar incluida a la empresa en el sector público.",
+    "fuente": "Art. 15.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 15.2 del RD 365/1995 extiende la excedencia voluntaria por prestación de servicios en el sector público al caso de los funcionarios del Estado integrados en la función pública de las Comunidades Autónomas que:",
+    "options": [
+      "Ingresen voluntariamente en Cuerpos o Escalas propios de la Comunidad Autónoma distintos de aquellos en que inicialmente se integraron",
+      "Pasen automáticamente a la situación de servicios especiales",
+      "Queden en excedencia forzosa hasta que se resuelva su integración definitiva"
+    ],
+    "correct": 0,
+    "exp": "El art. 15.2 aplica esta modalidad de excedencia también a quienes ingresen voluntariamente en Cuerpos o Escalas propios de la Comunidad Autónoma distintos de los iniciales.",
+    "fuente": "Art. 15.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 15.3 del RD 365/1995, una vez producido el cese como funcionario de carrera o personal laboral fijo, ¿en qué plazo máximo debe solicitarse el reingreso al servicio activo?",
+    "options": [
+      "Dos meses",
+      "Un mes",
+      "Quince días"
+    ],
+    "correct": 1,
+    "exp": "El art. 15.3 fija un plazo máximo de un mes para solicitar el reingreso tras el cese; de no hacerlo, se declara de oficio la excedencia por interés particular.",
+    "fuente": "Art. 15.3 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 16.1 del RD 365/1995, la excedencia voluntaria por interés particular se declarará:",
+    "options": [
+      "Únicamente a petición del funcionario",
+      "Únicamente de oficio por la Administración",
+      "A petición del funcionario o, de oficio, en los supuestos establecidos reglamentariamente"
+    ],
+    "correct": 2,
+    "exp": "El art. 16.1 admite tanto la declaración a petición del interesado como la declaración de oficio en los supuestos reglamentariamente previstos.",
+    "fuente": "Art. 16.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 16.2 del RD 365/1995, para solicitar la excedencia voluntaria por interés particular es preciso haber prestado servicios efectivos en cualquier Administración pública durante:",
+    "options": [
+      "Los cinco años inmediatamente anteriores a la solicitud",
+      "Los tres años inmediatamente anteriores a la solicitud",
+      "Un curso de reciclaje profesional previo, cualquiera que sea su duración"
+    ],
+    "correct": 0,
+    "exp": "El art. 16.2 exige servicios efectivos durante los cinco años inmediatamente anteriores a la solicitud.",
+    "fuente": "Art. 16.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 16.3 del RD 365/1995, cada período de excedencia voluntaria por interés particular no podrá superar, como máximo:",
+    "options": [
+      "Un número de años equivalente al doble de los servicios prestados",
+      "Un número de años equivalente a los servicios acreditados en cualquier Administración pública, con un máximo de quince",
+      "Diez años, cualquiera que sea el tiempo de servicios prestados"
+    ],
+    "correct": 1,
+    "exp": "El art. 16.3 limita cada período al número de años acreditados de servicios, con un máximo absoluto de quince años.",
+    "fuente": "Art. 16.3 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 16.4 del RD 365/1995, si el funcionario no solicita el reingreso al servicio activo dentro del plazo máximo expresado en la resolución de concesión de la excedencia por interés particular, se produce:",
+    "options": [
+      "La declaración de oficio en suspensión provisional",
+      "La apertura automática de expediente disciplinario",
+      "La pérdida de la condición de funcionario"
+    ],
+    "correct": 2,
+    "exp": "El art. 16.4 sanciona la falta de petición de reingreso dentro de plazo con la pérdida de la condición de funcionario.",
+    "fuente": "Art. 16.4 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 16.5 del RD 365/1995, la concesión de la excedencia voluntaria por interés particular a solicitud del funcionario:",
+    "options": [
+      "No podrá declararse cuando al funcionario se le instruya expediente disciplinario",
+      "Es automática una vez cumplidos los requisitos de servicios previos",
+      "Requiere el informe favorable previo del Registro Central de Personal"
+    ],
+    "correct": 0,
+    "exp": "El art. 16.5 subordina la concesión a las necesidades del servicio y prohíbe declararla cuando se instruye expediente disciplinario al funcionario.",
+    "fuente": "Art. 16.5 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La excedencia voluntaria por agrupación familiar regulada en el artículo 17.1 del RD 365/1995 tendrá una duración:",
+    "options": [
+      "Mínima de un año y máxima de diez",
+      "Mínima de dos años y máxima de quince",
+      "Mínima de tres años y máxima de veinte"
+    ],
+    "correct": 1,
+    "exp": "El art. 17.1 fija una duración mínima de dos años y máxima de quince para esta modalidad.",
+    "fuente": "Art. 17.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 17.1 del RD 365/1995, ¿qué requisito debe cumplir el cónyuge del funcionario para que pueda concederse la excedencia voluntaria por agrupación familiar?",
+    "options": [
+      "Que se encuentre en situación de excedencia voluntaria en el mismo municipio",
+      "Que acredite estudios superiores en el municipio de destino",
+      "Que resida en otro municipio por haber obtenido y estar desempeñando un puesto de trabajo de carácter definitivo"
+    ],
+    "correct": 2,
+    "exp": "El art. 17.1 exige que el cónyuge resida en otro municipio por haber obtenido y desempeñar un puesto definitivo, como funcionario o laboral.",
+    "fuente": "Art. 17.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 17.1 del RD 365/1995 incluye, entre los ámbitos donde el cónyuge puede desempeñar el puesto definitivo que genera derecho a esta excedencia:",
+    "options": [
+      "Cualquier Administración pública, Organismo autónomo, Entidad Gestora de la Seguridad Social, Órganos Constitucionales o del Poder Judicial",
+      "Exclusivamente empresas privadas radicadas en territorio nacional",
+      "Únicamente organizaciones internacionales con sede en España"
+    ],
+    "correct": 0,
+    "exp": "El art. 17.1 enumera Administraciones públicas, Organismos autónomos, Entidades Gestoras de la Seguridad Social, Órganos Constitucionales y del Poder Judicial.",
+    "fuente": "Art. 17.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Si no se solicita el reingreso al servicio activo antes de finalizar el período de quince años de excedencia por agrupación familiar, el artículo 17.2 del RD 365/1995 dispone que:",
+    "options": [
+      "Se le declara en excedencia forzosa",
+      "Se le declara de oficio en la situación de excedencia voluntaria por interés particular",
+      "Pierde automáticamente la condición de funcionario sin declaración expresa"
+    ],
+    "correct": 1,
+    "exp": "El art. 17.2 establece la declaración de oficio en excedencia voluntaria por interés particular si no se pide el reingreso antes de los quince años.",
+    "fuente": "Art. 17.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 18.1 del RD 365/1995, ¿quiénes pueden ser declarados, a su solicitud, en situación de excedencia voluntaria incentivada?",
+    "options": [
+      "Cualquier funcionario que lo solicite, sin más requisitos",
+      "Los funcionarios en situación de servicios especiales que lo soliciten",
+      "Los funcionarios afectados por un proceso de reasignación de efectivos que se encuentren en alguna de las dos primeras fases"
+    ],
+    "correct": 2,
+    "exp": "El art. 18.1 reserva esta posibilidad a los funcionarios afectados por un proceso de reasignación de efectivos en sus dos primeras fases.",
+    "fuente": "Art. 18.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 18.2 del RD 365/1995, también tienen derecho a pasar, a su solicitud, a la excedencia voluntaria incentivada:",
+    "options": [
+      "Quienes se encuentren en expectativa de destino o excedencia forzosa como consecuencia de la aplicación de un Plan de Empleo",
+      "Quienes se encuentren en situación de servicio activo en otro cuerpo",
+      "Quienes hayan sido declarados en suspensión provisional de funciones"
+    ],
+    "correct": 0,
+    "exp": "El art. 18.2 extiende este derecho a quienes estén en expectativa de destino o excedencia forzosa por aplicación de un Plan de Empleo.",
+    "fuente": "Art. 18.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 18.3 del RD 365/1995, ¿a qué órgano corresponde acordar la declaración de excedencia voluntaria incentivada?",
+    "options": [
+      "Al Ministro del Departamento de origen",
+      "A la Secretaría de Estado para la Administración Pública",
+      "Al Registro Central de Personal"
+    ],
+    "correct": 1,
+    "exp": "El art. 18.3 atribuye esta competencia a la Secretaría de Estado para la Administración Pública.",
+    "fuente": "Art. 18.3 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La excedencia voluntaria incentivada, según el artículo 18.4 del RD 365/1995, tendrá una duración de:",
+    "options": [
+      "Tres años",
+      "Diez años",
+      "Cinco años"
+    ],
+    "correct": 2,
+    "exp": "El art. 18.4 fija en cinco años la duración de la excedencia voluntaria incentivada.",
+    "fuente": "Art. 18.4 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 18.5 del RD 365/1995, quienes pasen a la excedencia voluntaria incentivada tendrán derecho, por cada año completo de servicios efectivos, a:",
+    "options": [
+      "Una mensualidad de retribuciones periódicas, con un máximo de doce mensualidades",
+      "Una paga extraordinaria completa, sin límite de mensualidades",
+      "El 50 por 100 del sueldo anual en un pago único"
+    ],
+    "correct": 0,
+    "exp": "El art. 18.5 reconoce una mensualidad de retribuciones periódicas por año completo de servicios, con un máximo de doce mensualidades.",
+    "fuente": "Art. 18.5 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 19 del RD 365/1995, un efecto común a todas las modalidades de excedencia voluntaria es que:",
+    "options": [
+      "Reservan el puesto de trabajo durante los dos primeros años",
+      "No producen, en ningún caso, reserva de puesto de trabajo",
+      "Solo se reserva el puesto en la modalidad de interés particular"
+    ],
+    "correct": 1,
+    "exp": "El art. 19 establece que las distintas modalidades de excedencia voluntaria no producen, en ningún caso, reserva de puesto de trabajo.",
+    "fuente": "Art. 19 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Respecto a las retribuciones durante la excedencia voluntaria, el artículo 19 del RD 365/1995 dispone que:",
+    "options": [
+      "Se perciben íntegras durante el primer año de excedencia",
+      "Se percibe el 75 por 100 del sueldo",
+      "No se devengan retribuciones, salvo lo previsto en el apartado 5 del artículo anterior"
+    ],
+    "correct": 2,
+    "exp": "El art. 19 excluye el devengo de retribuciones, con la única salvedad de la compensación prevista en el art. 18.5 para la excedencia incentivada.",
+    "fuente": "Art. 19 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 19 del RD 365/1995 establece que el tiempo permanecido en excedencia voluntaria no será computable a efectos de:",
+    "options": [
+      "Promoción, trienios y derechos pasivos",
+      "Antigüedad a efectos de vacaciones, exclusivamente",
+      "Cómputo de servicios para el acceso a la función pública"
+    ],
+    "correct": 0,
+    "exp": "El art. 19 excluye el cómputo del tiempo en excedencia voluntaria a efectos de promoción, trienios y derechos pasivos.",
+    "fuente": "Art. 19 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 20.1 del RD 365/1995, la situación de suspensión de funciones podrá ser:",
+    "options": [
+      "Temporal o definitiva",
+      "Provisional o firme",
+      "Preventiva o sancionadora"
+    ],
+    "correct": 1,
+    "exp": "El art. 20.1 distingue entre suspensión provisional y suspensión firme.",
+    "fuente": "Art. 20.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 20.2 del RD 365/1995, si el funcionario declarado en suspensión firme pertenece a varios Cuerpos o Escalas incluidos en el ámbito del Reglamento:",
+    "options": [
+      "Solo se ve afectado el Cuerpo o Escala en el que cometió la falta",
+      "Se suspende automáticamente su ingreso en cualquier futuro Cuerpo",
+      "Debe pasar a dicha situación en todos ellos, comunicándolo el órgano que acuerde la declaración a los Departamentos ministeriales correspondientes"
+    ],
+    "correct": 2,
+    "exp": "El art. 20.2 exige extender la suspensión firme a todos los Cuerpos o Escalas del funcionario, con comunicación a los Departamentos ministeriales de adscripción.",
+    "fuente": "Art. 20.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 21.2 del RD 365/1995, si durante un procedimiento judicial se decreta la prisión provisional de un funcionario:",
+    "options": [
+      "Se le declara en suspensión provisional por el tiempo a que se extiendan dichas medidas",
+      "Se le declara automáticamente en suspensión firme",
+      "Pasa directamente a la situación de excedencia forzosa"
+    ],
+    "correct": 0,
+    "exp": "El art. 21.2 vincula la duración de la suspensión provisional al tiempo de extensión de la prisión provisional u otras medidas judiciales.",
+    "fuente": "Art. 21.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Sobre la suspensión provisional como medida preventiva en un expediente disciplinario, el artículo 21.3 del RD 365/1995 establece que:",
+    "options": [
+      "No puede exceder de tres meses en ningún caso",
+      "Puede acordarla la autoridad que ordenó la incoación del expediente, sin exceder de seis meses salvo paralización imputable al interesado",
+      "Solo puede acordarla el Ministro del ramo correspondiente"
+    ],
+    "correct": 1,
+    "exp": "El art. 21.3 atribuye la potestad a la autoridad que ordenó la incoación y fija un límite de seis meses, salvo paralización imputable al interesado.",
+    "fuente": "Art. 21.3 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 21.4 del RD 365/1995, el funcionario en suspensión provisional tendrá derecho a percibir:",
+    "options": [
+      "El 50 por 100 del sueldo, sin trienios ni pagas extraordinarias",
+      "La totalidad del sueldo, excepto el complemento específico",
+      "El 75 por 100 de su sueldo, trienios y pagas extraordinarias, además de la totalidad de la prestación económica por hijo a cargo"
+    ],
+    "correct": 2,
+    "exp": "El art. 21.4 fija en el 75 por 100 el sueldo, trienios y pagas extraordinarias del suspenso provisional, con percepción íntegra de la prestación por hijo a cargo.",
+    "fuente": "Art. 21.4 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 21.5 del RD 365/1995, si la suspensión provisional no es declarada firme:",
+    "options": [
+      "El tiempo se computa como de servicio activo y el funcionario se reincorpora de inmediato con reconocimiento de derechos económicos",
+      "El tiempo se computa como excedencia voluntaria por interés particular",
+      "El funcionario pierde el derecho a reincorporarse a su mismo puesto"
+    ],
+    "correct": 0,
+    "exp": "El art. 21.5 ordena computar el tiempo como servicio activo y la inmediata incorporación con reconocimiento de derechos económicos y demás que procedan.",
+    "fuente": "Art. 21.5 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 22.1 del RD 365/1995, ¿en qué caso la condena o sanción firme NO determina la pérdida del puesto de trabajo?",
+    "options": [
+      "Cuando el funcionario tenga más de veinte años de servicio",
+      "Cuando la suspensión firme no exceda de seis meses",
+      "Cuando la sanción se recurra en vía contencioso-administrativa"
+    ],
+    "correct": 1,
+    "exp": "El art. 22.1 exceptúa la pérdida del puesto cuando la suspensión firme no exceda de seis meses.",
+    "fuente": "Art. 22.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 22.2 del RD 365/1995, mientras no transcurra el plazo de la suspensión de funciones:",
+    "options": [
+      "El funcionario puede solicitar cualquier cambio de situación administrativa",
+      "Solo puede solicitarse el reingreso condicionado a un puesto concreto",
+      "No procederá ningún cambio de situación administrativa"
+    ],
+    "correct": 2,
+    "exp": "El art. 22.2 impide cualquier cambio de situación administrativa mientras no transcurra el plazo de la suspensión.",
+    "fuente": "Art. 22.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 22.3 del RD 365/1995, el funcionario que haya perdido su puesto de trabajo por condena o sanción debe solicitar el reingreso al servicio activo:",
+    "options": [
+      "Con un mes de antelación a la finalización del período de duración de la suspensión",
+      "Con quince días de antelación a la finalización de la suspensión",
+      "Dentro de los tres meses siguientes a la extinción de la responsabilidad"
+    ],
+    "correct": 0,
+    "exp": "El art. 22.3 exige solicitar el reingreso con un mes de antelación a la finalización del período de suspensión.",
+    "fuente": "Art. 22.3 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 22.5 del RD 365/1995, si solicitado el reingreso al servicio activo este no se concede en el plazo de seis meses, el funcionario será declarado de oficio en la situación de:",
+    "options": [
+      "Suspensión firme prorrogada",
+      "Excedencia forzosa prevista en el artículo 13.1.b), con efectos desde la extinción de la responsabilidad",
+      "Pérdida definitiva de la condición de funcionario"
+    ],
+    "correct": 1,
+    "exp": "El art. 22.5 remite a la excedencia forzosa del art. 13.1.b) si no se concede el reingreso solicitado dentro de seis meses.",
+    "fuente": "Art. 22.5 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 23.1 del RD 365/1995, los cambios de situación administrativa:",
+    "options": [
+      "Requieren siempre el reingreso previo al servicio activo",
+      "Solo pueden comunicarse anualmente al Registro Central de Personal",
+      "Deben comunicarse siempre al Registro Central de Personal y pueden tener lugar sin necesidad de reingreso previo, si se reúnen los requisitos exigidos"
+    ],
+    "correct": 2,
+    "exp": "El art. 23.1 exige la comunicación al Registro Central de Personal y permite el cambio de situación sin reingreso previo cuando se cumplen los requisitos.",
+    "fuente": "Art. 23.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Si la nueva situación administrativa conlleva derecho a la reserva de un puesto de trabajo, el artículo 23.2 del RD 365/1995 permite a los funcionarios:",
+    "options": [
+      "Participar en convocatorias de concurso, reservándoseles un puesto de igual nivel y similares retribuciones en el mismo Ministerio y Municipio",
+      "Solicitar el reingreso inmediato sin poder participar en concursos",
+      "Renunciar a la reserva de puesto para agilizar su participación en el concurso"
+    ],
+    "correct": 0,
+    "exp": "El art. 23.2 permite participar en concursos manteniéndose la reserva de un puesto de igual nivel y similares retribuciones en el mismo Ministerio y Municipio.",
+    "fuente": "Art. 23.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la disposición adicional segunda del RD 365/1995, respecto a la sanción de separación del servicio de los funcionarios de la Administración General del Estado destinados en Corporaciones Locales:",
+    "options": [
+      "Es acordada directamente por la Corporación Local, sin intervención estatal",
+      "Será acordada por el Ministro del Departamento al que esté adscrito su Cuerpo o Escala, previa incoación de expediente disciplinario por la Corporación Local",
+      "Quedan exentos de responsabilidad disciplinaria mientras estén destinados fuera de la Administración General del Estado"
+    ],
+    "correct": 1,
+    "exp": "La disposición adicional segunda atribuye la sanción de separación del servicio al Ministro del Departamento de adscripción, previa incoación del expediente por la Corporación Local.",
+    "fuente": "Disposición adicional segunda RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la disposición adicional cuarta del RD 365/1995, la competencia en materia de situaciones administrativas de los funcionarios docentes universitarios y del personal de Administración y Servicios propio de las Universidades corresponde a:",
+    "options": [
+      "El Ministerio competente en materia de Universidades",
+      "El Consejo Social de la Universidad",
+      "El Rector"
+    ],
+    "correct": 2,
+    "exp": "La disposición adicional cuarta atribuye esta competencia al Rector, conforme a la Ley Orgánica de Reforma Universitaria citada.",
+    "fuente": "Disposición adicional cuarta RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la disposición adicional quinta.3 del RD 365/1995, la jornada de trabajo reducida por cesación progresiva de actividades puede ser igual a la mitad o a los dos tercios de la jornada general, percibiendo el funcionario, respectivamente:",
+    "options": [
+      "El 60 por 100 y el 80 por 100 de las retribuciones básicas y de los complementos de destino y específico correspondientes",
+      "El 50 por 100 y el 75 por 100 de las retribuciones totales",
+      "El 70 por 100 y el 90 por 100 del sueldo base únicamente"
+    ],
+    "correct": 0,
+    "exp": "La disposición adicional quinta.3 fija retribuciones del 60 por 100 y del 80 por 100, según la jornada sea la mitad o los dos tercios de la general.",
+    "fuente": "Disposición adicional quinta.3 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta"
+  }
+]);
