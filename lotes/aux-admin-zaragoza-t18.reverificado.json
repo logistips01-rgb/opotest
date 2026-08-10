@@ -1,0 +1,272 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 18,
+  "fechaRevision": "2026-08-10",
+  "fuentesVerificadas": [
+    "TREBEP, RDLeg 5/2015 — BOE-A-2015-11719 (texto consolidado, última actualización 02/08/2024)",
+    "RD 365/1995, Reglamento de Situaciones Administrativas de los Funcionarios Civiles de la AGE — BOE-A-1995-8730 (texto consolidado, última actualización 04/03/2006)"
+  ],
+  "preguntas": [
+    {
+      "q": "Según el artículo 85.1 del TREBEP, ¿cuál de las siguientes NO constituye una de las situaciones administrativas de los funcionarios de carrera?",
+      "options": [
+        "Suspensión de funciones",
+        "Servicios especiales",
+        "Expectativa de destino"
+      ],
+      "correct": 2,
+      "exp": "El art. 85.1 TREBEP enumera cinco situaciones: servicio activo, servicios especiales, servicio en otras Administraciones Públicas, excedencia y suspensión de funciones. La expectativa de destino no figura en esa relación básica: se regula en el Reglamento de Situaciones Administrativas (RD 365/1995).",
+      "fuente": "Art. 85.1 TREBEP (RDLeg 5/2015)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 85.1 TREBEP literal: «Los funcionarios de carrera se hallarán en alguna de las siguientes situaciones: a) Servicio activo. b) Servicios especiales. c) Servicio en otras Administraciones Públicas. d) Excedencia. e) Suspensión de funciones.» La expectativa de destino no figura; está en el art. 12 del RD 365/1995 (Capítulo V «Expectativa de destino»). Cita y apartado exactos. Distractores: «Suspensión de funciones» = 85.1.e) y «Servicios especiales» = 85.1.b), ambos sí figuran, luego la respuesta es única."
+    },
+    {
+      "q": "Los funcionarios de carrera declarados en la situación de servicios especiales percibirán:",
+      "options": [
+        "Las retribuciones del puesto o cargo efectivo que desempeñen, y no las que les correspondan como funcionarios de carrera, sin perjuicio de los trienios que tengan reconocidos",
+        "Solo las retribuciones básicas que les correspondan como funcionarios de carrera, más el complemento de destino del puesto reservado",
+        "El cincuenta por ciento de las retribuciones del puesto o cargo efectivo que desempeñen"
+      ],
+      "correct": 0,
+      "exp": "El art. 87.2 TREBEP establece que quienes se hallen en servicios especiales percibirán las retribuciones del puesto o cargo efectivo que desempeñen y no las que les correspondan como funcionarios de carrera, sin perjuicio del derecho a percibir los trienios que tengan reconocidos en cada momento.",
+      "fuente": "Art. 87.2 TREBEP (RDLeg 5/2015)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 87.2 TREBEP, primera frase, literal: «Quienes se encuentren en situación de servicios especiales percibirán las retribuciones del puesto o cargo que desempeñen y no las que les correspondan como funcionarios de carrera, sin perjuicio del derecho a percibir los trienios que tengan reconocidos en cada momento.» El apartado citado (87.2) es el correcto: NO es el 87.3, que regula el derecho al reingreso. Respuesta única: ni «solo retribuciones básicas + complemento de destino» ni «el 50 %» tienen apoyo en el precepto (el 50 % del complemento específico aparece en el art. 12.5 RD 365/1995, pero referido a la expectativa de destino, no a servicios especiales). Observación menor: el BOE dice «puesto o cargo que desempeñen»; el adjetivo «efectivo» que emplean la opción y la explicación no está en el texto literal, aunque no altera el sentido."
+    },
+    {
+      "q": "El tiempo que un funcionario permanezca en la situación de servicios especiales se le computará a efectos de:",
+      "options": [
+        "Exclusivamente derechos pasivos, quedando excluido el reconocimiento de trienios",
+        "Ascensos, reconocimiento de trienios, promoción interna y derechos en el régimen de Seguridad Social que le sea de aplicación",
+        "Únicamente antigüedad, quedando excluidos los ascensos y la promoción interna"
+      ],
+      "correct": 1,
+      "exp": "Conforme al art. 87.2 TREBEP, párrafo segundo,, el tiempo en servicios especiales se computa a efectos de ascensos, reconocimiento de trienios, promoción interna y derechos en el régimen de Seguridad Social aplicable.",
+      "fuente": "Art. 87.2 TREBEP (RDLeg 5/2015)",
+      "veredicto": "CORREGIR",
+      "notaRevision": "La regla está en el art. 87.2 TREBEP, segunda frase del MISMO párrafo: «El tiempo que permanezcan en tal situación se les computará a efectos de ascensos, reconocimiento de trienios, promoción interna y derechos en el régimen de Seguridad Social que les sea de aplicación.» El artículo y el apartado citados son correctos, pero la explicación remite a un «párrafo segundo» del art. 87.2 que no existe: el apartado 2 es un párrafo único y la regla del cómputo va en su segunda frase, inmediatamente después de la de retribuciones. La explicación arrastra además una errata tipográfica («párrafo segundo,,»). Respuesta única: los trienios sí se computan (queda descartada la opción a) y también se computan ascensos y promoción interna (queda descartada la opción c).",
+      "correccionPropuesta": {
+        "fuente": "Art. 87.2 TREBEP (RDLeg 5/2015)",
+        "exp": "El art. 87.2 TREBEP, en la segunda frase de ese mismo apartado, dispone que el tiempo que se permanezca en servicios especiales «se les computará a efectos de ascensos, reconocimiento de trienios, promoción interna y derechos en el régimen de Seguridad Social que les sea de aplicación»."
+      }
+    },
+    {
+      "q": "Respecto de los funcionarios de carrera en la situación de servicio en otras Administraciones Públicas, el TREBEP dispone que:",
+      "options": [
+        "Pierden la condición de funcionario de la Administración de origen desde la toma de posesión del nuevo puesto",
+        "El tiempo de servicio en la Administración de destino solo les computa a efectos de derechos pasivos",
+        "Conservan su condición de funcionario de la Administración de origen y el tiempo de servicio en la Administración en que estén destinados se les computa como de servicio activo en su cuerpo o escala de origen"
+      ],
+      "correct": 2,
+      "exp": "El art. 88 TREBEP mantiene la condición de funcionario de la Administración de origen y ordena computar el tiempo servido en la Administración de destino como de servicio activo en el cuerpo o escala de origen.",
+      "fuente": "Art. 88.3 TREBEP (RDLeg 5/2015)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 88.3 TREBEP literal: «Los funcionarios de carrera en la situación de servicio en otras Administraciones Públicas que se encuentren en dicha situación por haber obtenido un puesto de trabajo mediante los sistemas de provisión previstos en este Estatuto, se rigen por la legislación de la Administración en la que estén destinados de forma efectiva y conservan su condición de funcionario de la Administración de origen y el derecho a participar en las convocatorias para la provisión de puestos de trabajo que se efectúen por esta última. El tiempo de servicio en la Administración Pública en la que estén destinados se les computará como de servicio activo en su cuerpo o escala de origen.» Cita y apartado exactos (la regla está en el 88.3, no en el 88.1 ni en el 88.2). Las otras dos opciones contradicen frontalmente ese texto, luego la respuesta es única."
+    },
+    {
+      "q": "¿Cuál de las siguientes modalidades de excedencia NO se contempla en el artículo 89.1 del TREBEP?",
+      "options": [
+        "Excedencia forzosa por supresión del puesto de trabajo",
+        "Excedencia por cuidado de familiares",
+        "Excedencia por razón de violencia terrorista"
+      ],
+      "correct": 0,
+      "exp": "El art. 89.1 TREBEP recoge cinco modalidades: excedencia voluntaria por interés particular, voluntaria por agrupación familiar, por cuidado de familiares, por razón de violencia de género y por razón de violencia terrorista. La excedencia forzosa no aparece en ese precepto, sino en el RD 365/1995.",
+      "fuente": "Art. 89.1 TREBEP (RDLeg 5/2015)",
+      "veredicto": "CORREGIR",
+      "notaRevision": "Art. 89.1 TREBEP literal (redacción vigente tras la disp. final 10.3 de la LO 2/2024): «a) Excedencia voluntaria por interés particular. b) Excedencia voluntaria por agrupación familiar. c) Excedencia por cuidado de familiares. d) Excedencia por razón de violencia de género o de violencia sexual. e) Excedencia por razón de violencia terrorista.» La excedencia forzosa no aparece (se regula en el art. 13 del RD 365/1995), luego la opción marcada es correcta y las otras dos sí figuran (letras c y e): respuesta única. Lo que hay que arreglar es la explicación: enumera la letra d) como «por razón de violencia de género», omitiendo «o de violencia sexual», que es la redacción vigente del precepto.",
+      "correccionPropuesta": {
+        "fuente": "Art. 89.1 TREBEP (RDLeg 5/2015)",
+        "exp": "El art. 89.1 TREBEP recoge cinco modalidades: excedencia voluntaria por interés particular, voluntaria por agrupación familiar, por cuidado de familiares, por razón de violencia de género o de violencia sexual y por razón de violencia terrorista. La excedencia forzosa no aparece en ese precepto, sino en el art. 13 del RD 365/1995."
+      }
+    },
+    {
+      "q": "Para obtener la excedencia voluntaria por interés particular se exige haber prestado servicios efectivos en cualquiera de las Administraciones Públicas durante un período mínimo, inmediatamente anterior, de:",
+      "options": [
+        "Cuatro años",
+        "Cinco años",
+        "Diez años"
+      ],
+      "correct": 1,
+      "exp": "El art. 89.2 TREBEP exige haber prestado servicios efectivos en cualquiera de las Administraciones Públicas durante un período mínimo de cinco años inmediatamente anteriores a la solicitud.",
+      "fuente": "Art. 89.2 TREBEP (RDLeg 5/2015)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 89.2 TREBEP, primer párrafo, literal: «Los funcionarios de carrera podrán obtener la excedencia voluntaria por interés particular cuando hayan prestado servicios efectivos en cualquiera de las Administraciones Públicas durante un periodo mínimo de cinco años inmediatamente anteriores.» Cita y apartado exactos. Cinco años es el único plazo del precepto; ni cuatro ni diez tienen apoyo. Coincide además con el art. 16.2 RD 365/1995 («durante los cinco años inmediatamente anteriores a la solicitud»), lo que refuerza la unicidad."
+    },
+    {
+      "q": "La excedencia por cuidado de familiares, para atender al cuidado de cada hijo, tiene una duración no superior a:",
+      "options": [
+        "Cuatro años",
+        "Dos años",
+        "Tres años"
+      ],
+      "correct": 2,
+      "exp": "El art. 89.4 TREBEP reconoce un período de excedencia no superior a tres años para atender al cuidado de cada hijo, natural o por adopción, o del menor sujeto a guarda con fines de adopción o acogimiento permanente, a contar desde la fecha de nacimiento o de la resolución judicial o administrativa.",
+      "fuente": "Art. 89.4 TREBEP (RDLeg 5/2015)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 89.4 TREBEP, primer párrafo, literal: «Los funcionarios de carrera tendrán derecho a un período de excedencia de duración no superior a tres años para atender al cuidado de cada hijo, tanto cuando lo sea por naturaleza como por adopción, o de cada menor sujeto a guarda con fines de adopción o acogimiento permanente, a contar desde la fecha de nacimiento o, en su caso, de la resolución judicial o administrativa.» Cita y apartado exactos. Ojo al distractor «Dos años»: en el mismo apartado 89.4 aparecen dos años, pero referidos a la reserva del puesto («El puesto de trabajo desempeñado se reservará, al menos, durante dos años»), no a la duración de la excedencia, por lo que no es defendible como respuesta al enunciado."
+    },
+    {
+      "q": "En la excedencia por razón de violencia de género, la funcionaria tendrá derecho a la reserva del puesto de trabajo que desempeñara durante:",
+      "options": [
+        "Los seis primeros meses",
+        "Los dos primeros meses",
+        "Los tres primeros meses"
+      ],
+      "correct": 0,
+      "exp": "El art. 89.5 TREBEP reconoce la reserva del puesto durante los seis primeros meses, período computable a efectos de antigüedad, carrera y derechos del régimen de Seguridad Social aplicable, sin perjuicio de las prórrogas judiciales que pueden llegar hasta dieciocho meses.",
+      "fuente": "Art. 89.5 TREBEP (RDLeg 5/2015)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 89.5 TREBEP, párrafo segundo, literal: «Durante los seis primeros meses tendrán derecho a la reserva del puesto de trabajo que desempeñarán, siendo computable dicho período a efectos de antigüedad, carrera y derechos del régimen de Seguridad Social que sea de aplicación.» Cita y apartado exactos. Los distractores corresponden a otras reglas del mismo apartado y no responden al enunciado: «tres meses» es el módulo de prórroga judicial («se podrá prorrogar este periodo por tres meses, con un máximo de dieciocho») y «dos meses» es el período con retribuciones íntegras («Durante los dos primeros meses de esta excedencia la funcionaria tendrá derecho a percibir las retribuciones íntegras»). Respuesta única. La explicación es exacta, incluido el máximo de dieciocho meses."
+    },
+    {
+      "q": "Conforme al artículo 90 del TREBEP, la suspensión determinará la pérdida del puesto de trabajo cuando exceda de:",
+      "options": [
+        "Tres meses",
+        "Seis meses",
+        "Dos años"
+      ],
+      "correct": 1,
+      "exp": "El art. 90.1 TREBEP dispone que la suspensión determina la pérdida del puesto de trabajo cuando exceda de seis meses; no obstante, la suspensión provisional que exceda de ese plazo por la tramitación de un procedimiento judicial no supondrá la pérdida del puesto.",
+      "fuente": "Art. 90.1 TREBEP (RDLeg 5/2015)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 90.1 TREBEP literal: «La suspensión determinará la pérdida del puesto de trabajo cuando exceda de seis meses.» Cita y apartado exactos. El inciso final de la explicación también está verificado, aunque procede del art. 98.3 TREBEP: «si la suspensión provisional excediera de seis meses no supondrá pérdida del puesto de trabajo» (referido a la suspensión provisional durante la tramitación de un procedimiento judicial). Ni tres meses ni dos años aparecen en el art. 90: respuesta única."
+    },
+    {
+      "q": "La suspensión firme impuesta en virtud de sanción disciplinaria no podrá exceder de:",
+      "options": [
+        "Tres años",
+        "Diez años",
+        "Seis años"
+      ],
+      "correct": 2,
+      "exp": "El art. 90 TREBEP establece que la suspensión firme por sanción disciplinaria no podrá exceder de seis años, límite coincidente con la duración máxima de la sanción de suspensión firme del art. 96.1.c).",
+      "fuente": "Art. 90.2 TREBEP (RDLeg 5/2015)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 90.2 TREBEP literal: «La suspensión firme se impondrá en virtud de sentencia dictada en causa criminal o en virtud de sanción disciplinaria. La suspensión firme por sanción disciplinaria no podrá exceder de seis años.» Cita y apartado exactos. La remisión de la explicación al art. 96.1.c) también se verifica: «Suspensión firme de funciones, o de empleo y sueldo en el caso del personal laboral, con una duración máxima de 6 años.» Tres y diez años no tienen apoyo: respuesta única."
+    },
+    {
+      "q": "Los empleados públicos que encubrieren faltas disciplinarias consumadas muy graves o graves incurrirán en responsabilidad:",
+      "options": [
+        "Cuando de dichos actos se derive daño grave para la Administración o para los ciudadanos",
+        "En todo caso, con independencia de las consecuencias del encubrimiento",
+        "Solo si son además autores materiales de otra falta disciplinaria"
+      ],
+      "correct": 0,
+      "exp": "El art. 93.3 TREBEP condiciona la responsabilidad del encubridor de faltas consumadas muy graves o graves a que de dichos actos se derive daño grave para la Administración o los ciudadanos; en cambio, quien induce responde siempre en la misma medida que el autor (art. 93.2).",
+      "fuente": "Art. 93.3 TREBEP (RDLeg 5/2015)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 93.3 TREBEP literal: «Igualmente, incurrirán en responsabilidad los funcionarios públicos o personal laboral que encubrieren las faltas consumadas muy graves o graves, cuando de dichos actos se derive daño grave para la Administración o los ciudadanos.» Cita y apartado exactos. La condición del daño grave descarta la opción «en todo caso», y el precepto no exige ser autor material de otra falta, lo que descarta la tercera: respuesta única. El contraste con la inducción que hace la explicación se verifica en el art. 93.2: «los que indujeren a otros a la realización de actos o conductas constitutivos de falta disciplinaria incurrirán en la misma responsabilidad que éstos»."
+    },
+    {
+      "q": "Cuando de la instrucción de un procedimiento disciplinario resulte la existencia de indicios fundados de criminalidad:",
+      "options": [
+        "Se continuará la tramitación hasta la resolución sancionadora y solo después se dará cuenta al órgano judicial",
+        "Se suspenderá su tramitación, poniéndolo en conocimiento del Ministerio Fiscal",
+        "Se remitirá el expediente al órgano superior jerárquico para que avoque su resolución"
+      ],
+      "correct": 1,
+      "exp": "El art. 94.3 TREBEP ordena suspender la tramitación del procedimiento disciplinario y ponerlo en conocimiento del Ministerio Fiscal cuando aparezcan indicios fundados de criminalidad.",
+      "fuente": "Art. 94.3 TREBEP (RDLeg 5/2015)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 94.3 TREBEP, primer párrafo, literal: «Cuando de la instrucción de un procedimiento disciplinario resulte la existencia de indicios fundados de criminalidad, se suspenderá su tramitación poniéndolo en conocimiento del Ministerio Fiscal.» Cita y apartado exactos. Ni la continuación hasta la resolución sancionadora ni la remisión al órgano superior jerárquico aparecen en el precepto: respuesta única."
+    },
+    {
+      "q": "El artículo 95.3 del TREBEP enumera las circunstancias que deben atenderse para el establecimiento de las faltas graves. ¿Cuál de las siguientes NO es una de ellas?",
+      "options": [
+        "La gravedad de los daños causados al interés público, patrimonio o bienes de la Administración o de los ciudadanos",
+        "El descrédito para la imagen pública de la Administración",
+        "La reiteración o reincidencia del infractor en el último año"
+      ],
+      "correct": 2,
+      "exp": "El art. 95.3 TREBEP sólo menciona tres circunstancias: grado de vulneración de la legalidad, gravedad de los daños causados y descrédito para la imagen pública de la Administración. La reiteración o reincidencia es un criterio de graduación del alcance de la sanción (art. 96.3), no de tipificación de las faltas graves.",
+      "fuente": "Art. 95.3 TREBEP (RDLeg 5/2015)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 95.3 TREBEP literal: «Las faltas graves serán establecidas por ley (…) atendiendo a las siguientes circunstancias: a) El grado en que se haya vulnerado la legalidad. b) La gravedad de los daños causados al interés público, patrimonio o bienes de la Administración o de los ciudadanos. c) El descrédito para la imagen pública de la Administración.» Solo tres circunstancias, y la reiteración o reincidencia no está entre ellas: la opción marcada es la única correcta, porque las otras dos reproducen literalmente las letras b) y c). La remisión de la explicación al art. 96.3 se verifica: «El alcance de cada sanción se establecerá teniendo en cuenta el grado de intencionalidad, descuido o negligencia (…), la reiteración o reincidencia, así como el grado de participación.»"
+    },
+    {
+      "q": "¿Cuál de las siguientes NO figura entre las sanciones enumeradas en el artículo 96.1 del TREBEP?",
+      "options": [
+        "Multa de cuantía proporcional a las retribuciones del empleado público",
+        "Demérito, que consiste en la penalización a efectos de carrera, promoción o movilidad voluntaria",
+        "Traslado forzoso, con o sin cambio de localidad de residencia"
+      ],
+      "correct": 0,
+      "exp": "El art. 96.1 TREBEP enumera la separación del servicio, el despido disciplinario del personal laboral, la suspensión firme de funciones o de empleo y sueldo, el traslado forzoso, el demérito, el apercibimiento y cualquier otra que se establezca por ley. La multa no está prevista.",
+      "fuente": "Art. 96.1 TREBEP (RDLeg 5/2015)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 96.1 TREBEP literal: a) separación del servicio; b) despido disciplinario del personal laboral; c) suspensión firme de funciones, o de empleo y sueldo en el caso del personal laboral, con una duración máxima de 6 años; d) traslado forzoso, con o sin cambio de localidad de residencia, por el período que en cada caso se establezca; e) demérito, «que consistirá en la penalización a efectos de carrera, promoción o movilidad voluntaria»; f) apercibimiento; g) cualquier otra que se establezca por ley. La multa no figura, y las otras dos opciones reproducen las letras e) y d): respuesta única. Cita y apartado exactos."
+    },
+    {
+      "q": "El alcance de cada sanción disciplinaria se establecerá teniendo en cuenta:",
+      "options": [
+        "El nivel de complemento de destino del puesto que ocupe el infractor y su antigüedad en el cuerpo",
+        "El grado de intencionalidad, descuido o negligencia que se revele en la conducta, el daño al interés público, la reiteración o reincidencia, así como el grado de participación",
+        "El informe vinculante de la representación sindical del empleado público expedientado"
+      ],
+      "correct": 1,
+      "exp": "El art. 96.3 TREBEP fija esos cuatro criterios de graduación: intencionalidad, descuido o negligencia; daño al interés público; reiteración o reincidencia; y grado de participación.",
+      "fuente": "Art. 96.3 TREBEP (RDLeg 5/2015)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 96.3 TREBEP literal: «El alcance de cada sanción se establecerá teniendo en cuenta el grado de intencionalidad, descuido o negligencia que se revele en la conducta, el daño al interés público, la reiteración o reincidencia, así como el grado de participación.» Cita y apartado exactos. Ni el nivel de complemento de destino ni ningún informe sindical vinculante aparecen en el TREBEP como criterios de graduación: respuesta única."
+    },
+    {
+      "q": "Conforme al artículo 97 del TREBEP, las faltas muy graves, graves y leves prescriben, respectivamente, a los:",
+      "options": [
+        "Tres años, un año y seis meses",
+        "Dos años, un año y seis meses",
+        "Tres años, dos años y seis meses"
+      ],
+      "correct": 2,
+      "exp": "El art. 97 TREBEP fija la prescripción de las faltas en tres años (muy graves), dos años (graves) y seis meses (leves), contados desde su comisión y, en las faltas continuadas, desde el cese de la misma.",
+      "fuente": "Art. 97 TREBEP (RDLeg 5/2015)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 97.1 TREBEP literal: «Las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses (…).» La opción marcada («Tres años, dos años y seis meses») es la única que coincide; la combinación «tres años, un año y seis meses» mezcla el plazo de prescripción de las SANCIONES leves (un año) con el de las faltas. El cómputo que menciona la explicación está en el art. 97.2: «El plazo de prescripción de las faltas comenzará a contarse desde que se hubieran cometido, y desde el cese de su comisión cuando se trate de faltas continuadas.» La cita «Art. 97 TREBEP» no es errónea, pero gana precisión indicando 97.1 (plazos) y 97.2 (cómputo)."
+    },
+    {
+      "q": "Las sanciones impuestas por faltas leves prescriben:",
+      "options": [
+        "Al año",
+        "A los dos años",
+        "A los tres años"
+      ],
+      "correct": 0,
+      "exp": "El art. 97 TREBEP distingue la prescripción de la falta y la de la sanción: las sanciones impuestas por faltas muy graves prescriben a los tres años, las de faltas graves a los dos años y las de faltas leves al año, computándose el plazo desde la firmeza de la resolución sancionadora.",
+      "fuente": "Art. 97 TREBEP (RDLeg 5/2015)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 97.1 TREBEP, segundo inciso, literal: «(…) las sanciones impuestas por faltas muy graves prescribirán a los tres años, las impuestas por faltas graves a los dos años y las impuestas por faltas leves al año.» La opción marcada («Al año») es la única correcta; «dos años» y «tres años» son los plazos de las sanciones por faltas graves y muy graves, no leves. El dies a quo que cita la explicación se verifica en el art. 97.2: «El de las sanciones, desde la firmeza de la resolución sancionadora.» La cita «Art. 97 TREBEP» no es errónea; la regla concreta está en el apartado 1."
+    },
+    {
+      "q": "La suspensión provisional acordada como medida cautelar durante la tramitación de un expediente disciplinario no podrá exceder de:",
+      "options": [
+        "Tres meses, prorrogables por otros tres mediante resolución motivada",
+        "Seis meses, salvo en caso de paralización del procedimiento imputable al interesado",
+        "Un año en todo caso, sin posibilidad de prórroga"
+      ],
+      "correct": 1,
+      "exp": "El art. 98.3 TREBEP limita a seis meses la suspensión provisional acordada en expediente disciplinario, salvo paralización del procedimiento imputable al interesado; el suspenso provisional percibe las retribuciones básicas y, en su caso, las prestaciones familiares por hijo a cargo.",
+      "fuente": "Art. 98.3 TREBEP (RDLeg 5/2015)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 98.3 TREBEP, párrafo segundo, literal: «La suspensión provisional como medida cautelar en la tramitación de un expediente disciplinario no podrá exceder de 6 meses, salvo en caso de paralización del procedimiento imputable al interesado.» El apartado citado es el correcto: es el 98.3, NO el 98.4 (que regula la elevación a definitiva y la devolución/restitución de haberes). El inciso retributivo de la explicación también pertenece al 98.3, párrafo tercero: «El funcionario suspenso provisional tendrá derecho a percibir durante la suspensión las retribuciones básicas y, en su caso, las prestaciones familiares por hijo a cargo.» Las otras dos opciones (tres meses prorrogables; un año sin prórroga) no tienen apoyo alguno en el precepto: respuesta única."
+    },
+    {
+      "q": "Según el Reglamento de Situaciones Administrativas de los Funcionarios Civiles de la AGE, los funcionarios permanecerán en la situación de expectativa de destino un tiempo máximo de un año, transcurrido el cual pasarán a:",
+      "options": [
+        "La excedencia voluntaria por interés particular",
+        "La situación de suspensión de funciones",
+        "La situación de excedencia forzosa"
+      ],
+      "correct": 2,
+      "exp": "El art. 12 del RD 365/1995 fija en un año el tiempo máximo de permanencia en expectativa de destino, tras el cual el funcionario pasa a excedencia forzosa, situación en la que percibe las retribuciones básicas.",
+      "fuente": "Art. 12 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 12.2 RD 365/1995 literal: «Los funcionarios permanecerán en esta situación un período máximo de un año, transcurrido el cual pasarán a la situación de excedencia forzosa.» La cita «Art. 12 RD 365/1995» es correcta; el apartado exacto es el 12.2. El resto de la explicación también se verifica: la excedencia forzosa por transcurso del plazo máximo de la expectativa de destino está en el art. 13.1.a), y las retribuciones básicas en el art. 13.6 («tendrán derecho a percibir las retribuciones básicas y, en su caso, las prestaciones familiares por hijo a cargo»). Ni la excedencia voluntaria por interés particular ni la suspensión de funciones son el destino previsto: respuesta única."
+    }
+  ],
+  "preguntaApartada": {
+    "pregunta": "El período mínimo de permanencia en la situación de excedencia voluntaria por interés particular es de: (respuesta marcada: «Dos años»)",
+    "articuloExacto": "Art. 16.3 del Reglamento de Situaciones Administrativas de los Funcionarios Civiles de la Administración General del Estado, aprobado por RD 365/1995, de 10 de marzo (BOE-A-1995-8730)",
+    "textoLiteral": "Cada período de excedencia tendrá una duración no inferior a dos años continuados ni superior a un número de años equivalente a los que el funcionario acredite haber prestado en cualquiera de las Administraciones Públicas, con un máximo de quince.",
+    "conclusion": "RESUELTO Y CONFIRMADO. El plazo mínimo de dos años SÍ está en el RD 365/1995, y el apartado exacto es el 16.3 (art. 16 «Excedencia voluntaria por interés particular», apartado 3), no el art. 89.2 TREBEP que citaba la pregunta. El art. 89.2 TREBEP no fija plazo mínimo de permanencia alguno: se limita a remitir a la legislación de desarrollo — «No obstante, las leyes de Función Pública que se dicten en desarrollo del presente Estatuto podrán establecer una duración menor del periodo de prestación de servicios exigido para que el funcionario de carrera pueda solicitar la excedencia y se determinarán los periodos mínimos de permanencia en la misma». Lo que el art. 89.2 TREBEP sí contiene es la otra afirmación de la explicación: «La concesión de excedencia voluntaria por interés particular quedará subordinada a las necesidades del servicio debidamente motivadas. No podrá declararse cuando al funcionario público se le instruya expediente disciplinario» (regla que se repite en el art. 16.5 RD 365/1995). ARREGLO PROPUESTO: cambiar la fuente a «Art. 16.3 RD 365/1995 (Reglamento de Situaciones Administrativas)», mencionar esa norma en el enunciado (el TREBEP por sí solo no permite responder) y reescribir la exp así: «El art. 16.3 del RD 365/1995 dispone que cada período de excedencia voluntaria por interés particular tendrá una duración no inferior a dos años continuados ni superior a un número de años equivalente a los que el funcionario acredite haber prestado en cualquiera de las Administraciones Públicas, con un máximo de quince. El art. 89.2 TREBEP no fija ese plazo: remite a las leyes de Función Pública de desarrollo, y sí establece que la excedencia no podrá declararse cuando al funcionario se le instruya expediente disciplinario». Nota adicional: la pregunta apartada conserva 4 opciones, mientras que las 19 del lote están reducidas a 3; si se reincorpora, habrá que eliminar un distractor («Tres años» es el más prescindible, ya que «Un año» y «Seis meses» son distractores más naturales)."
+  }
+}

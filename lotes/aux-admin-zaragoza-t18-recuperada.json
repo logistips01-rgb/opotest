@@ -1,0 +1,15 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 18,
+  "preguntas": [
+    {
+      "q": "Según el Reglamento de Situaciones Administrativas (RD 365/1995), cada período de excedencia voluntaria por interés particular tendrá una duración no inferior a:",
+      "options": ["Un año", "Dos años continuados", "Tres años continuados"],
+      "correct": 1,
+      "exp": "El art. 16.3 del RD 365/1995 dispone que «cada período de excedencia tendrá una duración no inferior a dos años continuados ni superior a un número de años equivalente a los que el funcionario acredite haber prestado en cualquiera de las Administraciones Públicas, con un máximo de quince». El art. 89.2 TREBEP no fija plazo: remite a las leyes de Función Pública de desarrollo la determinación de los periodos mínimos de permanencia.",
+      "fuente": "Art. 16.3 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Recuperada tras verificar el texto literal del consolidado del BOE (BOE-A-1995-8730). Se reescribe el enunciado para mencionar la norma, se corrige la fuente (estaba atribuida al art. 89.2 TREBEP, que no fija plazo) y se reduce a tres opciones como el resto del banco."
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 20,
+  "preguntas": [
+    {
+      "q": "Según el artículo 4 de la LPRL, se entenderá como «riesgo laboral grave e inminente»:",
+      "options": [
+        "Aquel que resulte probable racionalmente que se materialice en un futuro inmediato y pueda suponer un daño grave para la salud de los trabajadores.",
+        "Aquel que ya ha producido un daño efectivo en la salud de al menos un trabajador de la empresa.",
+        "Cualquier riesgo derivado de la exposición a agentes químicos, con independencia de su probabilidad de materialización."
+      ],
+      "correct": 0,
+      "exp": "El art. 4.4 LPRL define el riesgo laboral grave e inminente como aquel que resulte probable racionalmente que se materialice en un futuro inmediato y pueda suponer un daño grave para la salud de los trabajadores.",
+      "fuente": "Art. 4.4 LPRL (Ley 31/1995)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 4 LPRL, ordinal 4.º (consolidado, últ. act. 09/04/2026): «Se entenderá como «riesgo laboral grave e inminente» aquel que resulte probable racionalmente que se materialice en un futuro inmediato y pueda suponer un daño grave para la salud de los trabajadores.» La opción 0 reproduce el precepto casi literalmente. La opción 1 (daño ya producido) no aparece en el precepto: la definición es prospectiva. La opción 2 es falsa porque el párrafo segundo del ordinal 4.º exige también para los agentes que «sea probable racionalmente que se materialice en un futuro inmediato una exposición», no basta la exposición a agentes químicos. Cita correcta (los apartados del art. 4 se numeran con ordinales 1.º a 8.º; «4.4» es la forma usual de citarlos)."
+    },
+    {
+      "q": "Conforme a las definiciones del artículo 4 de la LPRL, los «daños derivados del trabajo» son:",
+      "options": [
+        "Únicamente los accidentes de trabajo calificados como graves o mortales.",
+        "Las enfermedades, patologías o lesiones sufridas con motivo u ocasión del trabajo.",
+        "Las enfermedades comunes que se manifiesten durante la jornada laboral, aunque no guarden relación con el trabajo."
+      ],
+      "correct": 1,
+      "exp": "El art. 4.3 LPRL considera daños derivados del trabajo las enfermedades, patologías o lesiones sufridas con motivo u ocasión del trabajo.",
+      "fuente": "Art. 4.3 LPRL (Ley 31/1995)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 4 LPRL, ordinal 3.º: «Se considerarán como «daños derivados del trabajo» las enfermedades, patologías o lesiones sufridas con motivo u ocasión del trabajo.» La opción 1 es literal. La 0 restringe a accidentes graves o mortales (no consta en el precepto) y la 2 exige que no guarden relación con el trabajo, lo que contradice el «con motivo u ocasión del trabajo». Cita correcta."
+    },
+    {
+      "q": "El primero de los principios de la acción preventiva enumerados en el artículo 15.1 de la LPRL es:",
+      "options": [
+        "Evaluar los riesgos que no se puedan evitar.",
+        "Combatir los riesgos en su origen.",
+        "Evitar los riesgos."
+      ],
+      "correct": 2,
+      "exp": "El art. 15.1 LPRL abre la enumeración de principios con la letra a) «Evitar los riesgos»; solo después procede evaluar los que no se puedan evitar y combatirlos en su origen.",
+      "fuente": "Art. 15.1.a) LPRL (Ley 31/1995)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 15.1 LPRL: la enumeración es «a) Evitar los riesgos. b) Evaluar los riesgos que no se puedan evitar. c) Combatir los riesgos en su origen.» Las tres opciones son principios reales del art. 15.1, pero el enunciado pregunta por EL PRIMERO, y el orden legal es inequívoco: solo la letra a) («Evitar los riesgos», opción 2) es válida. No hay ambigüedad. Cita correcta."
+    },
+    {
+      "q": "Según el artículo 16 de la LPRL, los instrumentos esenciales para la gestión y aplicación del plan de prevención de riesgos laborales son:",
+      "options": [
+        "La evaluación de los riesgos laborales y la planificación de la actividad preventiva.",
+        "La auditoría del sistema de prevención y la memoria anual de actividades.",
+        "La formación de los trabajadores y la vigilancia periódica de su salud."
+      ],
+      "correct": 0,
+      "exp": "El art. 16.2 LPRL califica expresamente la evaluación de los riesgos y la planificación de la actividad preventiva como los instrumentos esenciales para la gestión y aplicación del plan de prevención.",
+      "fuente": "Art. 16.2 LPRL (Ley 31/1995)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 16.2 LPRL: «Los instrumentos esenciales para la gestión y aplicación del plan de prevención de riesgos, que podrán ser llevados a cabo por fases de forma programada, son la evaluación de riesgos laborales y la planificación de la actividad preventiva…». La opción 0 es literal. Auditoría y memoria anual (opción 1) y formación y vigilancia de la salud (opción 2) no reciben esa calificación en el art. 16. Cita correcta."
+    },
+    {
+      "q": "De acuerdo con el artículo 22 de la LPRL, la vigilancia del estado de salud de los trabajadores:",
+      "options": [
+        "Es siempre obligatoria para el trabajador, sin excepción alguna.",
+        "Solo podrá llevarse a cabo cuando el trabajador preste su consentimiento, siendo con carácter general voluntaria, salvo las excepciones previstas en la propia Ley.",
+        "Requiere en todo caso autorización previa de la Inspección de Trabajo y Seguridad Social."
+      ],
+      "correct": 1,
+      "exp": "El art. 22.1 LPRL dispone que la vigilancia de la salud solo podrá llevarse a cabo cuando el trabajador preste su consentimiento, con los supuestos excepcionales de obligatoriedad que el propio precepto contempla.",
+      "fuente": "Art. 22.1 LPRL (Ley 31/1995)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 22.1 LPRL, párrafo 2.º: «Esta vigilancia sólo podrá llevarse a cabo cuando el trabajador preste su consentimiento. De este carácter voluntario sólo se exceptuarán, previo informe de los representantes de los trabajadores, los supuestos en los que…». La opción 1 recoge la regla y su salvedad. La 0 («siempre obligatoria, sin excepción alguna») la invierte y la 2 (autorización de la Inspección) no figura en el precepto. Cita correcta."
+    },
+    {
+      "q": "Cuando los representantes legales de los trabajadores acuerden por mayoría de sus miembros la paralización de la actividad por riesgo grave e inminente, la autoridad laboral anulará o ratificará dicha paralización en el plazo de:",
+      "options": [
+        "48 horas",
+        "72 horas",
+        "24 horas"
+      ],
+      "correct": 2,
+      "exp": "El art. 21.3 LPRL establece que el acuerdo se comunicará de inmediato a la empresa y a la autoridad laboral, la cual, en el plazo de veinticuatro horas, anulará o ratificará la paralización acordada.",
+      "fuente": "Art. 21.3 LPRL (Ley 31/1995)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 21.3 LPRL: «…los representantes legales de éstos podrán acordar, por mayoría de sus miembros, la paralización de la actividad de los trabajadores afectados por dicho riesgo. Tal acuerdo será comunicado de inmediato a la empresa y a la autoridad laboral, la cual, en el plazo de veinticuatro horas, anulará o ratificará la paralización acordada.» Solo 24 horas (opción 2) es defendible; 48 y 72 horas no aparecen en el precepto. Cita correcta."
+    },
+    {
+      "q": "El artículo 29 de la LPRL impone a cada trabajador, con arreglo a su formación y a las instrucciones del empresario, la obligación de:",
+      "options": [
+        "Velar, según sus posibilidades y mediante el cumplimiento de las medidas de prevención, por su propia seguridad y salud y por la de aquellas otras personas a las que pueda afectar su actividad profesional.",
+        "Elaborar y firmar la evaluación de riesgos de su propio puesto de trabajo.",
+        "Sufragar el coste de los equipos de protección individual que se le entreguen."
+      ],
+      "correct": 0,
+      "exp": "El art. 29.1 LPRL configura como obligación del trabajador velar por su propia seguridad y salud y por la de las personas a las que pueda afectar su actividad profesional, conforme a su formación y a las instrucciones recibidas.",
+      "fuente": "Art. 29.1 LPRL (Ley 31/1995)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 29.1 LPRL: «Corresponde a cada trabajador velar, según sus posibilidades y mediante el cumplimiento de las medidas de prevención que en cada caso sean adoptadas, por su propia seguridad y salud en el trabajo y por la de aquellas otras personas a las que pueda afectar su actividad profesional…, de conformidad con su formación y las instrucciones del empresario.» La opción 0 es prácticamente literal. La 1 (elaborar la evaluación de riesgos) corresponde al empresario (art. 16.2.a) y la 2 contradice el art. 17.2 LPRL, que impone al empresario el coste de los EPI. Cita correcta."
+    },
+    {
+      "q": "Según el artículo 33 de la LPRL, el empresario deberá consultar a los trabajadores, con la debida antelación, la adopción de decisiones relativas, entre otras materias, a:",
+      "options": [
+        "La fijación de la cuantía de los salarios y complementos del personal.",
+        "La organización y desarrollo de las actividades de protección de la salud y prevención de riesgos, incluida la designación de los trabajadores encargados de tales actividades o el recurso a un servicio de prevención externo.",
+        "El nombramiento de los Inspectores de Trabajo y Seguridad Social competentes."
+      ],
+      "correct": 1,
+      "exp": "El art. 33.1.b) LPRL incluye entre las materias de consulta obligatoria la organización y desarrollo de las actividades de protección de la salud y prevención de riesgos, con la designación de los trabajadores encargados o el recurso a un servicio de prevención externo.",
+      "fuente": "Art. 33.1.b) LPRL (Ley 31/1995)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 33.1.b) LPRL, texto literal: «La organización y desarrollo de las actividades de protección de la salud y prevención de los riesgos profesionales en la empresa, incluida la designación de los trabajadores encargados de dichas actividades o el recurso a un servicio de prevención externo.» VERIFICADO EL PUNTO DE RIESGO: el BOE dice efectivamente «servicio de prevención externo» (no «ajeno»), tal y como recogen la opción 1 y la explicación. Las opciones 0 (salarios) y 2 (nombramiento de Inspectores) no figuran en la lista del art. 33.1. Cita correcta."
+    },
+    {
+      "q": "Conforme a la escala del artículo 35.2 de la LPRL, en una empresa de 80 trabajadores el número de Delegados de Prevención será de:",
+      "options": [
+        "3 Delegados de Prevención",
+        "4 Delegados de Prevención",
+        "2 Delegados de Prevención"
+      ],
+      "correct": 2,
+      "exp": "La escala del art. 35.2 LPRL asigna 2 Delegados de Prevención al tramo «de 50 a 100 trabajadores», en el que se encuadra una empresa de 80.",
+      "fuente": "Art. 35.2 LPRL (Ley 31/1995)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Escala del art. 35.2 LPRL: «De 50 a 100 trabajadores: 2 Delegados de Prevención. De 101 a 500 trabajadores: 3 Delegados de Prevención…». 80 trabajadores cae en el tramo 50-100, luego 2 Delegados (opción 2). El tramo contiguo (101-500) daría 3, pero 80 no lo alcanza; 4 corresponde a 501-1.000. Única respuesta posible. Cita correcta."
+    },
+    {
+      "q": "Según la escala del artículo 35.2 de la LPRL, una empresa con 600 trabajadores contará con:",
+      "options": [
+        "4 Delegados de Prevención",
+        "5 Delegados de Prevención",
+        "6 Delegados de Prevención"
+      ],
+      "correct": 0,
+      "exp": "El art. 35.2 LPRL fija 4 Delegados de Prevención para el tramo «de 501 a 1.000 trabajadores»; 3 corresponden a 101-500 y 5 a 1.001-2.000.",
+      "fuente": "Art. 35.2 LPRL (Ley 31/1995)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Escala del art. 35.2 LPRL: «De 501 a 1.000 trabajadores: 4 Delegados de Prevención», siendo 3 para 101-500 y 5 para 1.001-2.000. 600 trabajadores está en 501-1.000, luego 4 Delegados (opción 0). Las opciones 5 y 6 corresponden a los tramos 1.001-2.000 y 2.001-3.000, no aplicables. Cita y explicación exactas."
+    },
+    {
+      "q": "En las empresas de hasta 30 trabajadores, el artículo 35.2 de la LPRL establece que el Delegado de Prevención:",
+      "options": [
+        "Será designado libremente por el empresario entre el personal de la plantilla.",
+        "Será el Delegado de Personal.",
+        "Será nombrado por la autoridad laboral a propuesta del sindicato más representativo."
+      ],
+      "correct": 1,
+      "exp": "El art. 35.2 LPRL dispone que en las empresas de hasta treinta trabajadores el Delegado de Prevención será el Delegado de Personal; en las de 31 a 49 habrá un Delegado de Prevención elegido por y entre los Delegados de Personal.",
+      "fuente": "Art. 35.2 LPRL (Ley 31/1995)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 35.2 LPRL, párrafo final: «En las empresas de hasta treinta trabajadores el Delegado de Prevención será el Delegado de Personal. En las empresas de treinta y uno a cuarenta y nueve trabajadores habrá un Delegado de Prevención que será elegido por y entre los Delegados de Personal.» La opción 1 es literal. Las opciones 0 (designación por el empresario) y 2 (nombramiento por la autoridad laboral) contradicen el art. 35.2, que reserva la designación a los representantes del personal. Cita correcta."
+    },
+    {
+      "q": "A efectos de determinar el número de Delegados de Prevención, los trabajadores con contrato de duración determinada de hasta un año se computan por los días trabajados en el periodo de doce meses anterior a la designación, contándose como un trabajador más cada:",
+      "options": [
+        "100 días trabajados o fracción",
+        "250 días trabajados o fracción",
+        "200 días trabajados o fracción"
+      ],
+      "correct": 2,
+      "exp": "El art. 35.3 LPRL computa como fijos de plantilla a los vinculados por contratos de duración determinada superior a un año y, para los de hasta un año, cada doscientos días trabajados o fracción equivale a un trabajador más.",
+      "fuente": "Art. 35.3 LPRL (Ley 31/1995)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 35.3.b) LPRL: «Los contratados por término de hasta un año se computarán según el número de días trabajados en el período de un año anterior a la designación. Cada doscientos días trabajados o fracción se computarán como un trabajador más.» Confirmado el punto de riesgo: son 200 días (opción 2); 100 y 250 no aparecen en el precepto. Matiz de redacción sin efecto sobre la respuesta: el BOE dice «en el período de un año anterior a la designación» y el enunciado lo expresa como «en el periodo de doce meses anterior a la designación» (equivalente). Cita correcta."
+    },
+    {
+      "q": "Entre las facultades que el artículo 36.2 de la LPRL reconoce a los Delegados de Prevención se encuentra:",
+      "options": [
+        "Acompañar a los técnicos en las evaluaciones de carácter preventivo del medio ambiente de trabajo y a los Inspectores de Trabajo y Seguridad Social en sus visitas y verificaciones en los centros de trabajo.",
+        "Imponer sanciones disciplinarias a los trabajadores que incumplan las medidas preventivas.",
+        "Aprobar formalmente la evaluación de riesgos elaborada por el servicio de prevención."
+      ],
+      "correct": 0,
+      "exp": "El art. 36.2.a) LPRL faculta a los Delegados de Prevención para acompañar a los técnicos en las evaluaciones preventivas y a los Inspectores de Trabajo y Seguridad Social en sus visitas, pudiendo formular ante ellos las observaciones que estimen oportunas.",
+      "fuente": "Art. 36.2.a) LPRL (Ley 31/1995)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 36.2.a) LPRL: «Acompañar a los técnicos en las evaluaciones de carácter preventivo del medio ambiente de trabajo, así como, en los términos previstos en el artículo 40 de esta Ley, a los Inspectores de Trabajo y Seguridad Social en las visitas y verificaciones que realicen en los centros de trabajo…, pudiendo formular ante ellos las observaciones que estimen oportunas.» La opción 0 es literal. Imponer sanciones disciplinarias (opción 1) y aprobar la evaluación de riesgos (opción 2) no figuran entre las facultades del art. 36.2 ni entre las competencias del 36.1. Cita correcta."
+    },
+    {
+      "q": "Según el artículo 38.2 de la LPRL, se constituirá un Comité de Seguridad y Salud en todas las empresas o centros de trabajo que cuenten con:",
+      "options": [
+        "30 o más trabajadores",
+        "50 o más trabajadores",
+        "250 o más trabajadores"
+      ],
+      "correct": 1,
+      "exp": "El art. 38.2 LPRL exige la constitución del Comité de Seguridad y Salud en todas las empresas o centros de trabajo que cuenten con 50 o más trabajadores.",
+      "fuente": "Art. 38.2 LPRL (Ley 31/1995)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 38.2 LPRL, primer párrafo: «Se constituirá un Comité de Seguridad y Salud en todas las empresas o centros de trabajo que cuenten con 50 o más trabajadores.» Confirmado el umbral: 50 o más (opción 1). Ni 30 ni 250 aparecen en el art. 38. Cita correcta."
+    },
+    {
+      "q": "El Comité de Seguridad y Salud, conforme al artículo 38.3 de la LPRL, se reunirá:",
+      "options": [
+        "Mensualmente y siempre que lo solicite el empresario.",
+        "Semestralmente y siempre que lo solicite la mayoría absoluta de sus miembros.",
+        "Trimestralmente y siempre que lo solicite alguna de las representaciones en el mismo."
+      ],
+      "correct": 2,
+      "exp": "El art. 38.3 LPRL establece que el Comité se reunirá trimestralmente y siempre que lo solicite alguna de las representaciones en el mismo, adoptando sus propias normas de funcionamiento.",
+      "fuente": "Art. 38.3 LPRL (Ley 31/1995)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 38.3 LPRL: «El Comité de Seguridad y Salud se reunirá trimestralmente y siempre que lo solicite alguna de las representaciones en el mismo. El Comité adoptará sus propias normas de funcionamiento.» Confirmada la periodicidad trimestral y el segundo inciso (opción 2). Las opciones 0 (mensual) y 1 (semestral con mayoría absoluta) no se corresponden con el texto. Cita y explicación exactas."
+    },
+    {
+      "q": "Según el artículo 11 del Reglamento de los Servicios de Prevención, el empresario podrá desarrollar personalmente la actividad preventiva, con excepción de la vigilancia de la salud, cuando se trate de:",
+      "options": [
+        "Empresa de hasta diez trabajadores o, tratándose de empresa que ocupe hasta veinticinco trabajadores, que disponga de un único centro de trabajo, cumpliendo además los restantes requisitos del precepto.",
+        "Empresa de hasta cincuenta trabajadores con un único centro de trabajo.",
+        "Empresa de hasta cien trabajadores no incluida en el anexo I del Reglamento."
+      ],
+      "correct": 0,
+      "exp": "El art. 11.1.a) del RD 39/1997 permite la asunción personal de la actividad preventiva por el empresario en empresas de hasta diez trabajadores, o de hasta veinticinco si cuentan con un único centro de trabajo, siempre que no realicen actividades del anexo I, desarrolle habitualmente su actividad en el centro y tenga la capacidad exigida.",
+      "fuente": "Art. 11.1 RD 39/1997 (Reglamento de los Servicios de Prevención)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 11.1 RD 39/1997 en su redacción VIGENTE (apartado 1.a) modificado por el art. único.1 del RD 899/2015, últ. actualización publicada el 10/10/2015): «El empresario podrá desarrollar personalmente la actividad de prevención, con excepción de las actividades relativas a la vigilancia de la salud de los trabajadores, cuando concurran las siguientes circunstancias: a) Que se trate de empresa de hasta diez trabajadores; o que, tratándose de empresa que ocupe hasta veinticinco trabajadores, disponga de un único centro de trabajo. b) Que las actividades desarrolladas en la empresa no estén incluidas en el anexo I. c) Que desarrolle de forma habitual su actividad profesional en el centro de trabajo. d) Que tenga la capacidad correspondiente a las funciones preventivas…». La opción 0 reproduce la letra a) vigente más la remisión a los demás requisitos. Los umbrales de 50 (opción 1) y 100 trabajadores (opción 2) no existen en el art. 11. Cita correcta."
+    },
+    {
+      "q": "De acuerdo con el artículo 14 del Reglamento de los Servicios de Prevención, el empresario deberá constituir un servicio de prevención propio, en todo caso, cuando la empresa cuente con:",
+      "options": [
+        "más de 100 trabajadores",
+        "más de 500 trabajadores",
+        "más de 250 trabajadores"
+      ],
+      "correct": 1,
+      "exp": "El art. 14 del RD 39/1997 obliga a constituir servicio de prevención propio en las empresas de más de 500 trabajadores, y en las de entre 250 y 500 cuando desarrollen actividades del anexo I.",
+      "fuente": "Art. 14 RD 39/1997 (Reglamento de los Servicios de Prevención)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 14 RD 39/1997: «El empresario deberá constituir un servicio de prevención propio cuando concurra alguno de los siguientes supuestos: a) Que se trate de empresas que cuenten con más de 500 trabajadores. b) Que, tratándose de empresas de entre 250 y 500 trabajadores, desarrollen alguna de las actividades incluidas en el anexo I. c) Que… así lo decida la autoridad laboral…». La regla del «en todo caso» es la letra a): más de 500 (opción 1). 250 (opción 2) solo obliga si además hay actividad del anexo I, y 100 (opción 0) no figura en el precepto; el enunciado dice «en todo caso», lo que descarta la opción de 250. El art. 14 no está dividido en apartados numerados, por lo que la cita «Art. 14» es correcta (la regla concreta está en su letra a). Explicación exacta."
+    },
+    {
+      "q": "El Anexo I del RD 486/1997, sobre lugares de trabajo, exige que los locales de trabajo dispongan, por cada trabajador, de una superficie libre mínima de:",
+      "options": [
+        "2,5 metros cuadrados",
+        "3 metros cuadrados",
+        "2 metros cuadrados"
+      ],
+      "correct": 2,
+      "exp": "El Anexo I del RD 486/1997 fija como dimensiones mínimas 3 metros de altura (reducibles a 2,5 en locales comerciales, de servicios, oficinas y despachos), 2 metros cuadrados de superficie libre y 10 metros cúbicos no ocupados por trabajador.",
+      "fuente": "Anexo I.2 RD 486/1997 (lugares de trabajo)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Anexo I del RD 486/1997 (texto consolidado, últ. act. publicada el 12/05/2023), parte A), apartado 2 «Espacios de trabajo y zonas peligrosas», punto 1.º: «Sus dimensiones mínimas serán las siguientes: a) 3 metros de altura desde el piso hasta el techo. No obstante, en locales comerciales, de servicios, oficinas y despachos, la altura podrá reducirse a 2,5 metros. b) 2 metros cuadrados de superficie libre por trabajador. c) 10 metros cúbicos, no ocupados, por trabajador.» La superficie libre son 2 m² (opción 2); 2,5 y 3 son valores de ALTURA, no de superficie, de ahí que los distractores sean plausibles pero incorrectos. La parte B) del anexo declara aplicable la parte A) a los lugares ya utilizados antes de la entrada en vigor sin exceptuar el apartado 2, de modo que la regla es general. La explicación reproduce con exactitud las tres magnitudes y la cita «Anexo I.2» identifica correctamente el apartado."
+    },
+    {
+      "q": "Según el Anexo III del RD 486/1997, la temperatura de los locales donde se realicen trabajos sedentarios propios de oficinas o similares estará comprendida entre:",
+      "options": [
+        "17 y 27 ºC",
+        "14 y 25 ºC",
+        "18 y 24 ºC"
+      ],
+      "correct": 0,
+      "exp": "El Anexo III del RD 486/1997 establece 17-27 ºC para los trabajos sedentarios propios de oficinas o similares y 14-25 ºC para los trabajos ligeros.",
+      "fuente": "Anexo III.3 RD 486/1997 (lugares de trabajo)",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Anexo III del RD 486/1997, apartado 3.a): «La temperatura de los locales donde se realicen trabajos sedentarios propios de oficinas o similares estará comprendida entre 17 y 27 ºC. La temperatura de los locales donde se realicen trabajos ligeros estará comprendida entre 14 y 25 ºC.» El intervalo correcto para oficinas es 17-27 ºC (opción 0). La opción 1 (14-25 ºC) es el rango de los trabajos LIGEROS, no de los sedentarios de oficina, luego no es defendible aquí; 18-24 ºC no figura en la norma. Cita y explicación exactas."
+    },
+    {
+      "q": "Conforme al artículo 4 del RD 488/1997, cuando los resultados de la vigilancia de la salud lo hagan necesario, los trabajadores usuarios de equipos con pantallas de visualización tendrán derecho a:",
+      "options": [
+        "Un cambio definitivo de puesto de trabajo dentro de la empresa.",
+        "Un reconocimiento oftalmológico.",
+        "Una indemnización a cargo de la mutua colaboradora con la Seguridad Social."
+      ],
+      "correct": 1,
+      "exp": "El art. 4 del RD 488/1997 reconoce el derecho a un reconocimiento oftalmológico cuando los resultados de la vigilancia de la salud —ofrecida antes de comenzar a trabajar con la pantalla, periódicamente y cuando aparezcan trastornos— lo hagan necesario.",
+      "fuente": "Art. 4 RD 488/1997 (pantallas de visualización)",
+      "veredicto": "CORREGIR",
+      "notaRevision": "Art. 4 del RD 488/1997, apartado 2 (texto literal): «Cuando los resultados de la vigilancia de la salud a que se refiere el apartado 1 lo hiciese necesario, los trabajadores tendrán derecho a un reconocimiento oftalmológico.» Confirmada la respuesta marcada (opción 1). Las otras dos no constan: el cambio de puesto no se contempla en el art. 4 y lo que el apartado 3 sí reconoce es la entrega gratuita de «dispositivos correctores especiales», no una indemnización de la mutua. ÚNICO DEFECTO: la fuente cita el artículo sin apartado; la regla está en el art. 4.2 (las ocasiones de la vigilancia que menciona la explicación —antes de comenzar, periódicamente y cuando aparezcan trastornos— están en el art. 4.1, letras a, b y c). Se propone precisar la cita y la explicación.",
+      "correccionPropuesta": {
+        "fuente": "Art. 4.2 RD 488/1997 (pantallas de visualización)",
+        "exp": "El art. 4.2 del RD 488/1997 dispone que «cuando los resultados de la vigilancia de la salud a que se refiere el apartado 1 lo hiciese necesario, los trabajadores tendrán derecho a un reconocimiento oftalmológico». Esa vigilancia debe ofrecerse, según el art. 4.1, antes de comenzar a trabajar con una pantalla de visualización, periódicamente y cuando aparezcan trastornos que pudieran deberse a este tipo de trabajo."
+      }
+    }
+  ]
+}

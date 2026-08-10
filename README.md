@@ -8,7 +8,7 @@ GitHub Pages y usarla desde el móvil.
 
 | Oposición | Organismo | Preguntas | Estado |
 |---|---|---|---|
-| Auxiliar Administrativo | Ayuntamiento de Zaragoza | 2.640 | Banco completo, en formato de **3 opciones** como el examen oficial. Incluye el examen real de 1-jun-2025 y 59 preguntas con cita de artículo |
+| Auxiliar Administrativo | Ayuntamiento de Zaragoza | 2.641 | Banco completo, en formato de **3 opciones** como el examen oficial. Incluye el examen real de 1-jun-2025 y 59 preguntas con cita de artículo |
 | Policía Local | Ayuntamiento de Zaragoza | 64 | Banco inicial, pendiente de ampliar |
 | Policía Nacional · Escala Básica | Ministerio del Interior | 68 | Banco inicial, pendiente de ampliar |
 | Auxiliar Administrativo | Gobierno de Aragón (DGA) | 58 | Banco inicial, pendiente de ampliar |
@@ -120,33 +120,29 @@ dudosa por su cuenta.
 
 ## Estado actual y siguiente paso
 
-Los cuatro bancos suman 2.830 preguntas. Zaragoza está en formato de 3
-opciones y con la posición de la respuesta correcta repartida; los otros tres
-siguen en 4 opciones, que es el formato de sus exámenes. Pendiente, por orden
-de valor:
+Los cuatro bancos suman 2.831 preguntas. Zaragoza está en formato de 3
+opciones, con la posición de la respuesta correcta repartida y con sus 60
+preguntas generadas verificadas contra el texto literal del BOE; los otros tres
+siguen en 4 opciones, que es el formato de sus exámenes.
 
-1. **Rehacer la verificación de las 59 preguntas generadas.** Se escribieron
-   con `boe.es` bloqueado, cruzando resúmenes de búsqueda, y de ahí salieron
-   tres citas de apartado mal atribuidas. Ahora el consolidado se descarga con
-   `curl` (ver [tools/generar.md](tools/generar.md)), así que conviene pasarles
-   un revisor contra texto literal.
+Pendiente, por orden de valor:
 
-2. **Recuperar la pregunta apartada** de
-   `data/pendientes/aux-admin-zaragoza-t18-revisar.json`. Es correcta pero cita
-   mal la norma: el plazo mínimo de dos años en excedencia voluntaria por
-   interés particular no está en el art. 89.2 TREBEP, que lo remite a las leyes
-   de desarrollo. Falta confirmar el artículo exacto del RD 365/1995. Con el
-   BOE accesible se resuelve en una descarga.
-
-3. **Ampliar los tres bancos nuevos.** Policía Local Zaragoza, Policía Nacional
+1. **Ampliar los tres bancos nuevos.** Policía Local Zaragoza, Policía Nacional
    y Auxiliar Administrativo DGA suman 190 preguntas en 36 temas. Las fuentes
    legales de cada tema están en [tools/fuentes.json](tools/fuentes.json), con
    avisos en las materias que cambian a menudo. Conviene ir por tandas de 3-4
-   temas para poder revisar los lotes por el camino.
+   temas para poder revisar los lotes por el camino. Ahora que `boe.es` es
+   accesible por `curl`, los redactores deben trabajar sobre el consolidado:
+   ver [tools/generar.md](tools/generar.md).
 
-4. **Dos enunciados repetidos** en Zaragoza (temas 8 y 14) que `validar.js`
+2. **Dos enunciados repetidos** en Zaragoza (temas 8 y 14) que `validar.js`
    marca como aviso. La app los distingue por su solución, así que no rompen
    nada; queda decidir si sobra uno de cada par.
+
+3. **Citar la fuente en el banco base.** Solo 60 de las 2.641 preguntas de
+   Zaragoza llevan el artículo citado, las generadas. El resto viene del banco
+   original y no lo tiene. No es urgente, pero es lo que permite comprobar una
+   pregunta que chirríe.
 
 ## Progreso y copia de seguridad
 

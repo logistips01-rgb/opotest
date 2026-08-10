@@ -9,6 +9,10 @@
 /* tema 20 · lote 2026-08-10 · 20 preguntas revisadas */
 
 /* tema 20 · 20 preguntas revisadas */
+
+/* tema 20 · 20 preguntas revisadas */
+
+/* tema 20 · 20 preguntas revisadas */
 window.addQuestions('aux-admin-zaragoza', 20, [
   {
     "q": "Según el artículo 4 de la LPRL, se entenderá como «riesgo laboral grave e inminente»:",
@@ -246,8 +250,8 @@ window.addQuestions('aux-admin-zaragoza', 20, [
       "Una indemnización a cargo de la mutua colaboradora con la Seguridad Social."
     ],
     "correct": 1,
-    "exp": "El art. 4 del RD 488/1997 reconoce el derecho a un reconocimiento oftalmológico cuando los resultados de la vigilancia de la salud —ofrecida antes de comenzar a trabajar con la pantalla, periódicamente y cuando aparezcan trastornos— lo hagan necesario.",
-    "fuente": "Art. 4 RD 488/1997 (pantallas de visualización)",
+    "exp": "El art. 4.2 del RD 488/1997 dispone que «cuando los resultados de la vigilancia de la salud a que se refiere el apartado 1 lo hiciese necesario, los trabajadores tendrán derecho a un reconocimiento oftalmológico». Esa vigilancia debe ofrecerse, según el art. 4.1, antes de comenzar a trabajar con una pantalla de visualización, periódicamente y cuando aparezcan trastornos que pudieran deberse a este tipo de trabajo.",
+    "fuente": "Art. 4.2 RD 488/1997 (pantallas de visualización)",
     "confianza": "alta"
   }
 ]);
@@ -286,7 +290,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
       "Únicamente antigüedad, quedando excluidos los ascensos y la promoción interna"
     ],
     "correct": 1,
-    "exp": "Conforme al art. 87.2 TREBEP, párrafo segundo,, el tiempo en servicios especiales se computa a efectos de ascensos, reconocimiento de trienios, promoción interna y derechos en el régimen de Seguridad Social aplicable.",
+    "exp": "El art. 87.2 TREBEP, en la segunda frase de ese mismo apartado, dispone que el tiempo que se permanezca en servicios especiales «se les computará a efectos de ascensos, reconocimiento de trienios, promoción interna y derechos en el régimen de Seguridad Social que les sea de aplicación».",
     "fuente": "Art. 87.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
   },
@@ -310,7 +314,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
       "Excedencia por razón de violencia terrorista"
     ],
     "correct": 0,
-    "exp": "El art. 89.1 TREBEP recoge cinco modalidades: excedencia voluntaria por interés particular, voluntaria por agrupación familiar, por cuidado de familiares, por razón de violencia de género y por razón de violencia terrorista. La excedencia forzosa no aparece en ese precepto, sino en el RD 365/1995.",
+    "exp": "El art. 89.1 TREBEP recoge cinco modalidades: excedencia voluntaria por interés particular, voluntaria por agrupación familiar, por cuidado de familiares, por razón de violencia de género o de violencia sexual y por razón de violencia terrorista. La excedencia forzosa no aparece en ese precepto, sino en el art. 13 del RD 365/1995.",
     "fuente": "Art. 89.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
   },
@@ -443,7 +447,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     ],
     "correct": 2,
     "exp": "El art. 97 TREBEP fija la prescripción de las faltas en tres años (muy graves), dos años (graves) y seis meses (leves), contados desde su comisión y, en las faltas continuadas, desde el cese de la misma.",
-    "fuente": "Art. 97 TREBEP (RDLeg 5/2015)",
+    "fuente": "Art. 97.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
   },
   {
@@ -455,7 +459,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     ],
     "correct": 0,
     "exp": "El art. 97 TREBEP distingue la prescripción de la falta y la de la sanción: las sanciones impuestas por faltas muy graves prescriben a los tres años, las de faltas graves a los dos años y las de faltas leves al año, computándose el plazo desde la firmeza de la resolución sancionadora.",
-    "fuente": "Art. 97 TREBEP (RDLeg 5/2015)",
+    "fuente": "Art. 97.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
   },
   {
@@ -479,7 +483,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     ],
     "correct": 2,
     "exp": "El art. 12 del RD 365/1995 fija en un año el tiempo máximo de permanencia en expectativa de destino, tras el cual el funcionario pasa a excedencia forzosa, situación en la que percibe las retribuciones básicas.",
-    "fuente": "Art. 12 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "fuente": "Art. 12.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
   }
 ]);
@@ -554,8 +558,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
       "Técnica, de Gestión, Administrativa, Auxiliar y Subalterna"
     ],
     "correct": 2,
-    "exp": "El art. 167 TRRL divide la escala de Administración General en cinco subescalas: Técnica, de Gestión, Administrativa, Auxiliar y Subalterna. La división en Técnica y de Servicios Especiales corresponde a la escala de Administración Especial.",
-    "fuente": "Art. 167 TRRL (Real Decreto Legislativo 781/1986)",
+    "exp": "El art. 167.2 TRRL divide la escala de Administración General en cinco subescalas: Técnica, de Gestión, Administrativa, Auxiliar y Subalterna. La división en Técnica y de Servicios Especiales corresponde a la escala de Administración Especial.",
+    "fuente": "Art. 167.2 TRRL (Real Decreto Legislativo 781/1986)",
     "confianza": "alta"
   },
   {
@@ -725,5 +729,20 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "exp": "El art. 104 bis.1.g) LBRL fija para los municipios de más de 500.000 habitantes el límite del 0,7 por ciento del número total de puestos de trabajo de la plantilla. Los límites del número de concejales y de la mitad de concejales corresponden, respectivamente, a los tramos de 75.000 a 500.000 y de 50.000 a 75.000 habitantes.",
     "fuente": "Art. 104 bis.1.g) LBRL (Ley 7/1985)",
     "confianza": "alta"
+  }
+]);
+
+/* tema 18 · lote 2026-08-10 · 1 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 18, [
+  {
+    "q": "Según el Reglamento de Situaciones Administrativas (RD 365/1995), cada período de excedencia voluntaria por interés particular tendrá una duración no inferior a:",
+    "options": [
+      "Un año",
+      "Dos años continuados",
+      "Tres años continuados"
+    ],
+    "correct": 1,
+    "exp": "El art. 16.3 del RD 365/1995 dispone que «cada período de excedencia tendrá una duración no inferior a dos años continuados ni superior a un número de años equivalente a los que el funcionario acredite haber prestado en cualquiera de las Administraciones Públicas, con un máximo de quince». El art. 89.2 TREBEP no fija plazo: remite a las leyes de Función Pública de desarrollo la determinación de los periodos mínimos de permanencia.",
+    "fuente": "Art. 16.3 RD 365/1995 (Reglamento de Situaciones Administrativas)"
   }
 ]);
