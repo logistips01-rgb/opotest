@@ -8,7 +8,7 @@ GitHub Pages y usarla desde el móvil.
 
 | Oposición | Organismo | Preguntas | Estado |
 |---|---|---|---|
-| Auxiliar Administrativo | Ayuntamiento de Zaragoza | 2.581 | Banco completo (incluye el examen oficial de 1-jun-2025) |
+| Auxiliar Administrativo | Ayuntamiento de Zaragoza | 2.640 | Banco completo (incluye el examen oficial de 1-jun-2025 y 59 preguntas con cita de artículo) |
 | Policía Local | Ayuntamiento de Zaragoza | 64 | Banco inicial, pendiente de ampliar |
 | Policía Nacional · Escala Básica | Ministerio del Interior | 68 | Banco inicial, pendiente de ampliar |
 | Auxiliar Administrativo | Gobierno de Aragón (DGA) | 58 | Banco inicial, pendiente de ampliar |

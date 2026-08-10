@@ -520,3 +520,267 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 19 · lote 2026-08-10 · 20 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 19, [
+  {
+    "q": "Conforme al artículo 89 de la Ley 7/1985, reguladora de las Bases del Régimen Local, el personal al servicio de las entidades locales está integrado por:",
+    "options": [
+      "Funcionarios de carrera, funcionarios interinos y personal directivo profesional",
+      "Funcionarios de carrera, personal laboral fijo y personal laboral temporal, exclusivamente",
+      "Funcionarios de carrera, contratados en régimen de derecho laboral y personal eventual que desempeña puestos de confianza o asesoramiento especial",
+      "Funcionarios de carrera, personal eventual y personal directivo profesional"
+    ],
+    "correct": 2,
+    "exp": "El art. 89 LBRL enumera tres clases de personal: funcionarios de carrera, contratados en régimen de derecho laboral y personal eventual que desempeña puestos de confianza o asesoramiento especial. Ni los funcionarios interinos ni el personal directivo aparecen en esa enumeración.",
+    "fuente": "Art. 89 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La plantilla de la Corporación local, que debe comprender todos los puestos de trabajo reservados a funcionarios, personal laboral y eventual, se aprueba:",
+    "options": [
+      "Anualmente por la Corporación local, a través del Presupuesto",
+      "Cada cuatro años por el Pleno, al comienzo del mandato corporativo",
+      "Anualmente por la Junta de Gobierno Local, junto con la liquidación del Presupuesto",
+      "Anualmente por la Comunidad Autónoma, a propuesta de la Corporación local"
+    ],
+    "correct": 0,
+    "exp": "El art. 90.1 LBRL dispone que corresponde a cada Corporación local aprobar anualmente, a través del Presupuesto, la plantilla, que ha de comprender todos los puestos de trabajo reservados a funcionarios, personal laboral y eventual.",
+    "fuente": "Art. 90.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Respecto de la relación de todos los puestos de trabajo existentes en la organización de la entidad local, la LBRL establece que:",
+    "options": [
+      "La forma el Estado, a través del Ministerio competente en materia de función pública",
+      "Es sustituida, en las entidades locales, por la plantilla presupuestaria, que cumple sus mismas funciones",
+      "Solo resulta obligatoria en los municipios de más de 20.000 habitantes",
+      "La forman las propias Corporaciones locales, en los términos previstos en la legislación básica sobre función pública"
+    ],
+    "correct": 3,
+    "exp": "El art. 90.2 LBRL atribuye a las Corporaciones locales la formación de la relación de todos los puestos de trabajo existentes en su organización, en los términos previstos en la legislación básica sobre función pública. Plantilla y relación de puestos de trabajo son instrumentos distintos y complementarios.",
+    "fuente": "Art. 90.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la LBRL, las Corporaciones locales formularán públicamente su oferta de empleo ajustándose:",
+    "options": [
+      "A los criterios que fije libremente cada Comunidad Autónoma",
+      "A los criterios fijados en la normativa básica estatal",
+      "A los criterios que apruebe la Federación Española de Municipios y Provincias",
+      "A los criterios que acuerde la Mesa General de Negociación de la propia entidad local"
+    ],
+    "correct": 1,
+    "exp": "El art. 91.1 LBRL señala que las Corporaciones locales formularán públicamente su oferta de empleo, ajustándose a los criterios fijados en la normativa básica estatal.",
+    "fuente": "Art. 91.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el artículo 91.2 LBRL, la selección de todo el personal al servicio de la entidad local, sea funcionario o laboral, debe realizarse:",
+    "options": [
+      "Mediante concurso de méritos en todo caso, sin necesidad de oferta de empleo público previa",
+      "De acuerdo con la oferta de empleo público, pudiendo prescindirse de la convocatoria pública cuando se trate de personal laboral",
+      "Por libre designación del Alcalde cuando se trate de puestos de contenido técnico",
+      "De acuerdo con la oferta de empleo público, mediante convocatoria pública y a través del sistema de concurso, oposición o concurso-oposición libre"
+    ],
+    "correct": 3,
+    "exp": "El art. 91.2 LBRL exige que la selección de todo el personal, funcionario o laboral, se realice de acuerdo con la oferta de empleo público, mediante convocatoria pública y a través del sistema de concurso, oposición o concurso-oposición libre, garantizando los principios de igualdad, mérito, capacidad y publicidad.",
+    "fuente": "Art. 91.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Los funcionarios de carrera de la Administración local que no tengan habilitación de carácter nacional se integran en las escalas de Administración General y de Administración Especial de cada Corporación. La escala de Administración General se divide en las subescalas:",
+    "options": [
+      "Técnica, de Gestión, Administrativa, Auxiliar y Subalterna",
+      "Técnica y de Servicios Especiales",
+      "Superior, de Gestión, Administrativa y Auxiliar",
+      "Técnica, Administrativa, Auxiliar y Subalterna"
+    ],
+    "correct": 0,
+    "exp": "El art. 167 TRRL divide la escala de Administración General en cinco subescalas: Técnica, de Gestión, Administrativa, Auxiliar y Subalterna. La división en Técnica y de Servicios Especiales corresponde a la escala de Administración Especial.",
+    "fuente": "Art. 167 TRRL (Real Decreto Legislativo 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Corresponde exclusivamente a los funcionarios de carrera al servicio de la Administración local el ejercicio de las funciones que impliquen:",
+    "options": [
+      "La gestión de los servicios económicos de titularidad privada de la entidad",
+      "Las tareas de vigilancia y mantenimiento de los edificios municipales",
+      "La participación directa o indirecta en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales",
+      "La prestación de servicios de asesoramiento especial a los miembros de la Corporación"
+    ],
+    "correct": 2,
+    "exp": "El art. 92.3 LBRL reserva en exclusiva a los funcionarios de carrera las funciones que impliquen participación directa o indirecta en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales, así como las que impliquen ejercicio de autoridad.",
+    "fuente": "Art. 92.3 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "A tenor del artículo 92 bis.1 LBRL, la función pública necesaria de Secretaría es comprensiva de:",
+    "options": [
+      "La fe pública y el control y la fiscalización interna de la gestión económico-financiera",
+      "El asesoramiento legal preceptivo y la tesorería y recaudación",
+      "La contabilidad, la tesorería y la recaudación",
+      "La fe pública y el asesoramiento legal preceptivo"
+    ],
+    "correct": 3,
+    "exp": "El art. 92 bis.1.a) LBRL define la función de Secretaría como 'comprensiva de la fe pública y el asesoramiento legal preceptivo'. El control y fiscalización interna, la contabilidad, la tesorería y la recaudación integran la función descrita en la letra b).",
+    "fuente": "Art. 92 bis.1.a) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La escala de funcionarios de administración local con habilitación de carácter nacional se subdivide, conforme al artículo 92 bis.2 LBRL, en las siguientes subescalas:",
+    "options": [
+      "Secretaría, Intervención y Tesorería",
+      "Secretaría, Intervención-tesorería y Secretaría-intervención",
+      "Secretaría, Intervención-tesorería, Secretaría-intervención y Depositaría",
+      "Administración General y Administración Especial"
+    ],
+    "correct": 1,
+    "exp": "El art. 92 bis.2 LBRL prevé tres subescalas: Secretaría (funciones del apartado 1.a), Intervención-tesorería (funciones del apartado 1.b) y Secretaría-intervención (funciones de ambos apartados).",
+    "fuente": "Art. 92 bis.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La aprobación de la oferta de empleo público, la selección, la formación y la habilitación de los funcionarios de administración local con habilitación de carácter nacional corresponde a:",
+    "options": [
+      "Cada Corporación local en la que radique el puesto reservado",
+      "La Comunidad Autónoma en cuyo territorio radique la entidad local",
+      "El Estado, a través del Ministerio competente en materia de Hacienda y Administraciones Públicas",
+      "Las Diputaciones Provinciales, por delegación del Estado"
+    ],
+    "correct": 2,
+    "exp": "El art. 92 bis.5 LBRL, tras la reforma de la Ley 27/2013, atribuye al Estado, a través del Ministerio de Hacienda y Administraciones Públicas, la aprobación de la oferta de empleo público, la selección, la formación y la habilitación de estos funcionarios, conforme a las bases y programas aprobados reglamentariamente.",
+    "fuente": "Art. 92 bis.5 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En cuanto a la provisión de los puestos reservados a funcionarios de administración local con habilitación de carácter nacional, la LBRL dispone que:",
+    "options": [
+      "La libre designación es el sistema normal de provisión y el ámbito territorial de los concursos es autonómico",
+      "El concurso es el sistema normal de provisión y el ámbito territorial de los concursos es autonómico",
+      "El único sistema admisible es el nombramiento provisional efectuado por la Comunidad Autónoma",
+      "El concurso es el sistema normal de provisión y el ámbito territorial de los concursos es de carácter estatal"
+    ],
+    "correct": 3,
+    "exp": "El art. 92 bis.6 LBRL establece que, en todo caso, el concurso será el sistema normal de provisión de puestos de trabajo y que el ámbito territorial de los concursos será de carácter estatal.",
+    "fuente": "Art. 92 bis.6 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En los concursos para la provisión de puestos reservados a funcionarios de administración local con habilitación de carácter nacional, los méritos generales, de preceptiva valoración, se determinan por la Administración del Estado y su puntuación alcanzará:",
+    "options": [
+      "Un mínimo del 80 por ciento del total posible",
+      "Un máximo del 50 por ciento del total posible",
+      "Un mínimo del 15 por ciento del total posible",
+      "Un máximo del 5 por ciento del total posible"
+    ],
+    "correct": 0,
+    "exp": "El art. 92 bis.6 LBRL fija los méritos generales, determinados por la Administración del Estado, en un mínimo del 80 por ciento del total posible; los méritos de las especialidades de cada Comunidad Autónoma pueden alcanzar hasta el 15 por ciento y los de la Corporación local hasta el 5 por ciento.",
+    "fuente": "Art. 92 bis.6 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La selección de los funcionarios de la Administración local que no tengan habilitación de carácter nacional corresponde, según la LBRL, a:",
+    "options": [
+      "El Estado, que además efectúa directamente los nombramientos",
+      "Cada Corporación local, correspondiendo al Estado establecer las reglas básicas y los programas mínimos a que debe ajustarse el procedimiento de selección y formación",
+      "La Comunidad Autónoma respectiva, que aprueba las bases y realiza las pruebas selectivas",
+      "Cada Corporación local, sin que el Estado pueda fijar reglas básicas ni programas mínimos"
+    ],
+    "correct": 1,
+    "exp": "El art. 100 LBRL atribuye a cada Corporación local la selección de sus funcionarios propios, reservando a la Administración del Estado el establecimiento de las reglas básicas y los programas mínimos del procedimiento de selección y formación (desarrollados por el RD 896/1991).",
+    "fuente": "Art. 100 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Los puestos de trabajo vacantes que deban ser cubiertos por los funcionarios a que se refiere el artículo 100 LBRL se proveerán, en convocatoria pública, por los procedimientos de:",
+    "options": [
+      "Oposición libre o concurso-oposición",
+      "Comisión de servicios o adscripción provisional",
+      "Concurso de méritos o libre designación",
+      "Permuta o reingreso al servicio activo"
+    ],
+    "correct": 2,
+    "exp": "El art. 101 LBRL prevé que los puestos de trabajo vacantes se provean en convocatoria pública por los procedimientos de concurso de méritos o de libre designación, conforme a las normas que regulan estos procedimientos en todas las Administraciones públicas.",
+    "fuente": "Art. 101 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Las bases de las pruebas de selección y de los concursos para la provisión de puestos de trabajo en las entidades locales se aprueban, y su convocatoria corresponde, a:",
+    "options": [
+      "El Presidente de la Corporación, a quien el tribunal elevará la relación de aprobados para efectuar el nombramiento",
+      "El Pleno de la Corporación, que también efectúa los nombramientos",
+      "La Junta de Gobierno Local, correspondiendo el nombramiento al Pleno",
+      "El Secretario de la Corporación, por su condición de funcionario con habilitación de carácter nacional"
+    ],
+    "correct": 0,
+    "exp": "El art. 102 LBRL atribuye al Presidente de la Corporación la aprobación de las bases y la convocatoria; el tribunal u órgano similar le eleva la relación de aprobados para el nombramiento, y también le corresponde la resolución motivada de los concursos, previa propuesta del órgano de selección.",
+    "fuente": "Art. 102 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 103 LBRL, el personal laboral al servicio de las entidades locales:",
+    "options": [
+      "Será seleccionado por la Comunidad Autónoma, que remitirá la relación de aprobados a la Corporación",
+      "Queda excluido de la exigencia de convocatoria pública prevista en el artículo 91 LBRL",
+      "Será seleccionado mediante libre designación del Presidente de la Corporación",
+      "Será seleccionado por la propia Corporación ateniéndose, en todo caso, a lo dispuesto en el artículo 91, con el máximo respeto al principio de igualdad de oportunidades de cuantos reúnan los requisitos exigidos"
+    ],
+    "correct": 3,
+    "exp": "El art. 103 LBRL remite expresamente al art. 91 y exige que la selección del personal laboral la efectúe la propia Corporación con el máximo respeto al principio de igualdad de oportunidades de cuantos reúnan los requisitos exigidos.",
+    "fuente": "Art. 103 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Las Corporaciones locales deben aprobar anualmente la masa salarial del personal laboral del sector público local. Una vez aprobada, dicha masa salarial:",
+    "options": [
+      "Se remitirá al Tribunal de Cuentas, sin necesidad de publicación",
+      "Se publicará en la sede electrónica de la Corporación y en el Boletín Oficial de la Provincia o, en su caso, de la Comunidad Autónoma uniprovincial, en el plazo de 20 días",
+      "Se publicará únicamente en el Boletín Oficial del Estado, en el plazo de un mes",
+      "No requiere publicación alguna, al afectar a personal sometido al Derecho laboral"
+    ],
+    "correct": 1,
+    "exp": "El art. 103 bis LBRL, introducido por la Ley 27/2013, obliga a aprobar anualmente la masa salarial del personal laboral respetando los límites de la Ley de Presupuestos Generales del Estado y a publicarla en la sede electrónica y en el boletín oficial correspondiente en el plazo de 20 días.",
+    "fuente": "Art. 103 bis LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El número, características y retribuciones del personal eventual de las entidades locales:",
+    "options": [
+      "Los fija el Alcalde mediante decreto, dando cuenta al Pleno en la sesión siguiente",
+      "Los fija la Junta de Gobierno Local en cualquier momento del mandato",
+      "Los determina el Pleno de cada Corporación al comienzo de su mandato, y solo pueden modificarse con motivo de la aprobación de los Presupuestos anuales",
+      "Los determina el Pleno en la sesión de aprobación de la liquidación del Presupuesto de cada ejercicio"
+    ],
+    "correct": 2,
+    "exp": "El art. 104.1 LBRL reserva al Pleno de cada Corporación la determinación del número, características y retribuciones del personal eventual al comienzo de su mandato, y limita su modificación a la aprobación de los Presupuestos anuales.",
+    "fuente": "Art. 104.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El nombramiento y cese del personal eventual de las entidades locales:",
+    "options": [
+      "Requiere acuerdo del Pleno adoptado por mayoría absoluta",
+      "Es libre y corresponde al Alcalde o al Presidente de la entidad local, cesando automáticamente cuando cese la autoridad a la que preste su función de confianza o asesoramiento",
+      "Es libre, pero corresponde a la Junta de Gobierno Local, y su cese exige expediente contradictorio",
+      "Corresponde al Alcalde, pero solo puede acordarse el cese por causas disciplinarias tasadas"
+    ],
+    "correct": 1,
+    "exp": "El art. 104.2 LBRL establece que el nombramiento y cese de estos funcionarios es libre y corresponde al Alcalde o al Presidente de la entidad local, y que cesan automáticamente en todo caso cuando se produzca el cese o expire el mandato de la autoridad a la que presten su función de confianza o asesoramiento.",
+    "fuente": "Art. 104.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En los Ayuntamientos de municipios con población superior a 500.000 habitantes, el número de puestos de trabajo cuya cobertura corresponda a personal eventual no podrá exceder de:",
+    "options": [
+      "El 0,7 por ciento del número total de puestos de trabajo de la plantilla de las respectivas entidades locales",
+      "El número de concejales de la Corporación local",
+      "La mitad del número de concejales de la Corporación local",
+      "El 5 por ciento del número total de puestos de trabajo de la plantilla"
+    ],
+    "correct": 0,
+    "exp": "El art. 104 bis.1.g) LBRL fija para los municipios de más de 500.000 habitantes el límite del 0,7 por ciento del número total de puestos de trabajo de la plantilla. Los límites del número de concejales y de la mitad de concejales corresponden, respectivamente, a los tramos de 75.000 a 500.000 y de 50.000 a 75.000 habitantes.",
+    "fuente": "Art. 104 bis.1.g) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  }
+]);
