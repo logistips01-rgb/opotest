@@ -78,13 +78,54 @@ Los redactores anotaron lo que no usaron:
 - El consolidado del RD 486/1997 no se sirve por `act.php?id=BOE-A-1997-8669`
   (502 cacheado): hay que usar `https://www.boe.es/eli/es/rd/1997/04/14/486/con`.
 
+## Tema 19 · Función pública local — PRIMERA VUELTA CERRADA
+
+**265 preguntas** (de 22 que había), todas de 3 opciones y 263 con el artículo
+citado. Seis lotes de 40 (uno de 43), cada uno sobre un tramo distinto,
+escritos leyendo el consolidado del BOE y revisados uno por uno.
+
+| Lote | Tramo | Confirmadas | Corregidas | Rechazadas |
+|---|---|---|---|---|
+| A | LBRL arts. 89-92 bis | 40 | 0 | 0 |
+| B | RD 128/2018: subescalas y funciones | 40 | 0 | 0 |
+| C | RD 128/2018: provisión y disciplina | 43 | 0 | 0 |
+| D | LBRL arts. 93-104 bis | 40 | 0 | 0 |
+| E | TRRL (RDLeg 781/1986), Título VII | 40 | 0 | 0 |
+| F | RD 896/1991 + TREBEP en lo local | 40 | 0 | 0 |
+
+**243 de 243 sin tocar, 0 corregidas, 0 rechazadas.** El tema con menos ruido de
+toda la campaña hasta ahora, con dos comprobaciones de derogación resueltas
+correctamente por los redactores sin intervención del revisor:
+
+- Los arts. 158 a 166 del TRRL (funcionarios con habilitación de carácter
+  nacional) están derogados desde 2015 por el TREBEP. El lote E salta
+  deliberadamente del art. 157 al 167 sin tocar esa zona.
+- Los arts. 98 y 99 de la LBRL (Capítulo III) están derogados por el mismo
+  motivo. Ninguna pregunta del lote D se apoya en ellos.
+- El RD 896/1991 sigue íntegro desde su publicación: no ha sido modificado ni
+  derogado por el TREBEP ni por normativa posterior.
+- El RD 128/2018 no tiene modificaciones desde su publicación de 2018.
+- Ninguna pregunta depende de la autorización estatal de libre designación
+  del art. 92 bis.6 LBRL que suprimió el RD-ley 13/2026: era un riesgo que se
+  señaló expresamente y los redactores lo evitaron.
+
+### Para llegar a 500
+
+Con 265 preguntas está bien cubierto el articulado preguntable de las cinco
+normas del tema (LBRL Título VII, TRRL Título VII, RD 128/2018, RD 896/1991 y
+los preceptos locales del TREBEP). El lote B dejó anotado material sin usar
+para una segunda vuelta (arts. 2.4, 3.2.g/k/l, 4.2.a/f/k, 8.3-8.4, 9.2-9.3,
+10.2-10.3, 14.1-14.3, 15.2-15.4, 16.2-16.3, 25, 26, DA 4ª.2.b-c y 3ª, DA 5ª-7ª,
+DT 6ª.1-2), suficiente para otros 25-30 sin repetirse. Como en el tema 20, ir
+más allá con estas mismas fuentes significa preguntas cada vez más finas.
+
 ## Temas siguientes, cuando el 20 esté cerrado
 
 Del 19 hacia atrás. Estado y déficit hasta 500:
 
 | Tema | Actual | Faltan |
 |---|---|---|
-| 19 · FP local | 22 | 478 |
+| 19 · FP local | 265 | 235 |
 | 18 · Situaciones y disciplinario | 22 | 478 |
 | 17 · Empleados públicos: clases | 100 | 400 |
 | 16 · Reglamentos y ordenanzas | 100 | 400 |

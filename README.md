@@ -8,7 +8,7 @@ GitHub Pages y usarla desde el móvil.
 
 | Oposición | Organismo | Preguntas | Estado |
 |---|---|---|---|
-| Auxiliar Administrativo | Ayuntamiento de Zaragoza | 2.881 | Banco completo, en formato de **3 opciones** como el examen oficial. Incluye el examen real de 1-jun-2025 y 59 preguntas con cita de artículo |
+| Auxiliar Administrativo | Ayuntamiento de Zaragoza | 3.124 | Banco completo, en formato de **3 opciones** como el examen oficial. Incluye el examen real de 1-jun-2025 y 59 preguntas con cita de artículo |
 | Policía Local | Ayuntamiento de Zaragoza | 64 | Banco inicial, pendiente de ampliar |
 | Policía Nacional · Escala Básica | Ministerio del Interior | 68 | Banco inicial, pendiente de ampliar |
 | Auxiliar Administrativo | Gobierno de Aragón (DGA) | 58 | Banco inicial, pendiente de ampliar |
@@ -120,8 +120,8 @@ dudosa por su cuenta.
 
 ## Estado actual y siguiente paso
 
-Los cuatro bancos suman 3.071 preguntas. Zaragoza está en formato de 3
-opciones, con la posición de la respuesta correcta repartida y con sus 300
+Los cuatro bancos suman 3.314 preguntas. Zaragoza está en formato de 3
+opciones, con la posición de la respuesta correcta repartida y con sus 543
 preguntas generadas verificadas contra el texto literal del BOE; los otros tres
 siguen en 4 opciones, que es el formato de sus exámenes.
 
