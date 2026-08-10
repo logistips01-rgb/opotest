@@ -165,11 +165,11 @@
         "El conjunto de trabajadores que desarrollan una misma tarea bajo un mando único."
       ],
       "correct": 0,
-      "exp": "El art. 4.6.º LPRL define «equipo de trabajo» como cualquier máquina, aparato, instrumento o instalación utilizada en el trabajo. La primera opción corresponde al equipo de protección individual (art. 4.8.º).",
+      "exp": "El art. 4.6.º LPRL define «equipo de trabajo» como cualquier máquina, aparato, instrumento o instalación utilizada en el trabajo. La segunda opción corresponde al equipo de protección individual (art. 4.8.º).",
       "fuente": "Art. 4.6º LPRL (Ley 31/1995)",
       "confianza": "alta",
-      "veredicto": "CORREGIR",
-      "notaRevision": "La opción marcada es la correcta y el ordinal citado también. Art. 4.6.º: «Se entenderá como “equipo de trabajo” cualquier máquina, aparato, instrumento o instalación utilizada en el trabajo.» El error está en la explicación, que afirma «La primera opción corresponde al equipo de protección individual (art. 4.8.º)»: la primera opción es precisamente la respuesta correcta (equipo de trabajo). Es la SEGUNDA opción la que reproduce el art. 4.8.º: «cualquier equipo destinado a ser llevado o sujetado por el trabajador para que le proteja de uno o varios riesgos que puedan amenazar su seguridad o su salud en el trabajo». Debe sustituirse «primera» por «segunda»; tal como está, la explicación contradice la clave.",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "La opción marcada es la correcta y el ordinal citado también. Art. 4.6.º: «Se entenderá como “equipo de trabajo” cualquier máquina, aparato, instrumento o instalación utilizada en el trabajo.» El error está en la explicación, que afirma «La primera opción corresponde al equipo de protección individual (art. 4.8.º)»: la primera opción es precisamente la respuesta correcta (equipo de trabajo). Es la SEGUNDA opción la que reproduce el art. 4.8.º: «cualquier equipo destinado a ser llevado o sujetado por el trabajador para que le proteja de uno o varios riesgos que puedan amenazar su seguridad o su salud en el trabajo». Debe sustituirse «primera» por «segunda»; tal como está, la explicación contradice la clave. Corrección aplicada: la explicación señalaba como distractor la primera opción, que es la respuesta correcta.",
       "correccionPropuesta": {
         "exp": "El art. 4.6.º LPRL define «equipo de trabajo» como cualquier máquina, aparato, instrumento o instalación utilizada en el trabajo. La segunda opción corresponde al equipo de protección individual (art. 4.8.º).",
         "fuente": "Art. 4.6º LPRL (Ley 31/1995)"

@@ -2682,3 +2682,491 @@ window.addQuestions('aux-admin-zaragoza', 20, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 20 · lote 2026-08-10 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 20, [
+  {
+    "q": "Conforme al artículo 1 de la LPRL, la normativa sobre prevención de riesgos laborales está constituida por:",
+    "options": [
+      "Exclusivamente por la Ley 31/1995 y por sus disposiciones reglamentarias de desarrollo.",
+      "La Ley 31/1995, sus disposiciones de desarrollo o complementarias y cuantas otras normas, legales o convencionales, contengan prescripciones relativas a la adopción de medidas preventivas en el ámbito laboral o susceptibles de producirlas en dicho ámbito.",
+      "La Ley 31/1995 y las normas convencionales, quedando excluidas las de rango reglamentario."
+    ],
+    "correct": 1,
+    "exp": "El art. 1 LPRL integra en la normativa preventiva la propia Ley, sus disposiciones de desarrollo o complementarias y cuantas otras normas, legales o convencionales, contengan prescripciones sobre medidas preventivas en el ámbito laboral o susceptibles de producirlas.",
+    "fuente": "Art. 1 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 2.1 de la LPRL, el objeto de la Ley es:",
+    "options": [
+      "Promover la seguridad y la salud de los trabajadores mediante la aplicación de medidas y el desarrollo de las actividades necesarias para la prevención de riesgos derivados del trabajo.",
+      "Regular el régimen de infracciones y sanciones en el orden social en materia de seguridad e higiene en el trabajo.",
+      "Armonizar las condiciones de trabajo del personal al servicio de las Administraciones públicas con las del sector privado."
+    ],
+    "correct": 0,
+    "exp": "El art. 2.1 LPRL fija como objeto promover la seguridad y la salud de los trabajadores mediante la aplicación de medidas y el desarrollo de las actividades necesarias para la prevención de riesgos derivados del trabajo.",
+    "fuente": "Art. 2.1 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Las disposiciones de carácter laboral contenidas en la LPRL y en sus normas reglamentarias tienen, conforme al artículo 2.2:",
+    "options": [
+      "Carácter dispositivo, pudiendo ser excluidas por convenio colectivo.",
+      "Carácter de Derecho necesario absoluto, no susceptible de mejora por la negociación colectiva.",
+      "En todo caso el carácter de Derecho necesario mínimo indisponible, pudiendo ser mejoradas y desarrolladas en los convenios colectivos."
+    ],
+    "correct": 2,
+    "exp": "El art. 2.2 LPRL les atribuye en todo caso el carácter de Derecho necesario mínimo indisponible, mejorable y desarrollable en los convenios colectivos.",
+    "fuente": "Art. 2.2 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el artículo 3.1 de la LPRL, la Ley y sus normas de desarrollo son de aplicación:",
+    "options": [
+      "Solo en el ámbito de las relaciones laborales reguladas en el texto refundido de la Ley del Estatuto de los Trabajadores.",
+      "Tanto en el ámbito de las relaciones laborales reguladas en el texto refundido de la Ley del Estatuto de los Trabajadores como en el de las relaciones de carácter administrativo o estatutario del personal al servicio de las Administraciones públicas.",
+      "En el ámbito de las relaciones laborales comunes, quedando el personal funcionario sometido íntegramente y en exclusiva a su normativa específica."
+    ],
+    "correct": 1,
+    "exp": "El art. 3.1 LPRL extiende la Ley a las relaciones laborales del Estatuto de los Trabajadores y a las relaciones administrativas o estatutarias del personal al servicio de las Administraciones públicas, con las peculiaridades previstas en la Ley o en sus normas de desarrollo.",
+    "fuente": "Art. 3.1 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 3.1 de la LPRL, la Ley resulta igualmente aplicable a las sociedades cooperativas:",
+    "options": [
+      "En las que existan socios cuya actividad consista en la prestación de un trabajo personal, con las peculiaridades derivadas de su normativa específica.",
+      "Únicamente cuando tengan contratados trabajadores por cuenta ajena además de los socios.",
+      "En ningún caso, por no existir relación laboral entre el socio trabajador y la cooperativa."
+    ],
+    "correct": 0,
+    "exp": "El art. 3.1 LPRL declara aplicable la Ley a las cooperativas constituidas conforme a su legislación en las que existan socios cuya actividad consista en la prestación de un trabajo personal, con las peculiaridades de su normativa específica.",
+    "fuente": "Art. 3.1 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 3.2 de la LPRL excluye la aplicación de la Ley, en aquellas actividades cuyas particularidades lo impidan, en el ámbito de ciertas funciones públicas. ¿Cuál de las siguientes figura expresamente entre ellas?",
+    "options": [
+      "Los servicios de prevención, extinción de incendios y salvamento de las entidades locales.",
+      "Policía, seguridad y resguardo aduanero.",
+      "Los servicios sanitarios de urgencias y emergencias."
+    ],
+    "correct": 1,
+    "exp": "El art. 3.2 LPRL enumera como funciones públicas excluidas las de policía, seguridad y resguardo aduanero; servicios operativos de protección civil y peritaje forense en casos de grave riesgo, catástrofe y calamidad pública; y Fuerzas Armadas y actividades militares de la Guardia Civil.",
+    "fuente": "Art. 3.2 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 3.3 de la LPRL, la adaptación a la Ley de aquellas actividades de los establecimientos penitenciarios cuyas características justifiquen una regulación especial se llevará a efecto en los términos señalados en:",
+    "options": [
+      "La Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria.",
+      "La Ley 7/1990, de 19 de julio, sobre negociación colectiva y participación en la determinación de las condiciones de trabajo de los empleados públicos.",
+      "El texto refundido de la Ley del Estatuto Básico del Empleado Público."
+    ],
+    "correct": 1,
+    "exp": "El art. 3.3 LPRL remite expresamente a la Ley 7/1990, de 19 de julio, sobre negociación colectiva y participación en la determinación de las condiciones de trabajo de los empleados públicos.",
+    "fuente": "Art. 3.3 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "A efectos de la LPRL y de las normas que la desarrollen, se entenderá por «prevención»:",
+    "options": [
+      "El conjunto de actividades o medidas adoptadas o previstas en todas las fases de actividad de la empresa con el fin de evitar o disminuir los riesgos derivados del trabajo.",
+      "El conjunto de medidas de protección colectiva e individual adoptadas tras la materialización de un daño derivado del trabajo.",
+      "La evaluación periódica de las condiciones de trabajo realizada por el servicio de prevención de la empresa."
+    ],
+    "correct": 0,
+    "exp": "Definición literal del art. 4.1.º LPRL: conjunto de actividades o medidas adoptadas o previstas en todas las fases de actividad de la empresa para evitar o disminuir los riesgos derivados del trabajo.",
+    "fuente": "Art. 4.1º LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En las definiciones del artículo 4 de la LPRL, «riesgo laboral» se entiende como:",
+    "options": [
+      "Toda enfermedad, patología o lesión sufrida con motivo u ocasión del trabajo.",
+      "Cualquier característica del trabajo que pueda tener una influencia significativa en la generación de riesgos.",
+      "La posibilidad de que un trabajador sufra un determinado daño derivado del trabajo."
+    ],
+    "correct": 2,
+    "exp": "El art. 4.2.º LPRL define «riesgo laboral» como la posibilidad de que un trabajador sufra un determinado daño derivado del trabajo. Las otras opciones corresponden a «daños derivados del trabajo» (4.3.º) y a «condición de trabajo» (4.7.º).",
+    "fuente": "Art. 4.2º LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Para calificar un riesgo desde el punto de vista de su gravedad, el artículo 4 de la LPRL exige valorar conjuntamente:",
+    "options": [
+      "La frecuencia de la exposición y el número de trabajadores afectados.",
+      "La probabilidad de que se produzca el daño y la severidad del mismo.",
+      "La naturaleza del agente presente y el tiempo de permanencia en el puesto."
+    ],
+    "correct": 1,
+    "exp": "El art. 4.2.º LPRL dispone que, para calificar un riesgo según su gravedad, se valorarán conjuntamente la probabilidad de que se produzca el daño y la severidad del mismo.",
+    "fuente": "Art. 4.2º LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 4 de la LPRL, se entenderán como procesos, actividades, operaciones, equipos o productos «potencialmente peligrosos»:",
+    "options": [
+      "Aquellos que, en ausencia de medidas preventivas específicas, originen riesgos para la seguridad y la salud de los trabajadores que los desarrollan o utilizan.",
+      "Aquellos que hayan sido causa de algún accidente de trabajo grave durante los doce meses anteriores.",
+      "Aquellos que estén sometidos a autorización administrativa previa por su normativa reguladora."
+    ],
+    "correct": 0,
+    "exp": "Definición literal del art. 4.5.º LPRL, que vincula el carácter potencialmente peligroso a la generación de riesgos en ausencia de medidas preventivas específicas.",
+    "fuente": "Art. 4.5º LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El concepto de «equipo de trabajo» que recoge el artículo 4 de la LPRL comprende:",
+    "options": [
+      "Cualquier máquina, aparato, instrumento o instalación utilizada en el trabajo.",
+      "Cualquier equipo destinado a ser llevado o sujetado por el trabajador para protegerle de uno o varios riesgos.",
+      "El conjunto de trabajadores que desarrollan una misma tarea bajo un mando único."
+    ],
+    "correct": 0,
+    "exp": "El art. 4.6.º LPRL define «equipo de trabajo» como cualquier máquina, aparato, instrumento o instalación utilizada en el trabajo. La segunda opción corresponde al equipo de protección individual (art. 4.8.º).",
+    "fuente": "Art. 4.6º LPRL (Ley 31/1995)",
+    "confianza": "alta",
+    "correccionPropuesta": {
+      "exp": "El art. 4.6.º LPRL define «equipo de trabajo» como cualquier máquina, aparato, instrumento o instalación utilizada en el trabajo. La segunda opción corresponde al equipo de protección individual (art. 4.8.º).",
+      "fuente": "Art. 4.6º LPRL (Ley 31/1995)"
+    }
+  },
+  {
+    "q": "Conforme al artículo 4 de la LPRL, se entenderá como «condición de trabajo» cualquier característica del mismo que pueda tener:",
+    "options": [
+      "Una influencia significativa en la generación de riesgos para la seguridad y la salud del trabajador.",
+      "Una repercusión directa en la productividad y en la organización de la empresa.",
+      "Consecuencias sobre la jornada, el salario o la clasificación profesional del trabajador."
+    ],
+    "correct": 0,
+    "exp": "El art. 4.7.º LPRL define «condición de trabajo» como cualquier característica del trabajo que pueda tener una influencia significativa en la generación de riesgos para la seguridad y la salud del trabajador.",
+    "fuente": "Art. 4.7º LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El «equipo de protección individual», según el artículo 4 de la LPRL, es cualquier equipo destinado a ser llevado o sujetado por el trabajador para que le proteja de uno o varios riesgos que puedan amenazar su seguridad o su salud en el trabajo:",
+    "options": [
+      "Quedando expresamente excluidos los complementos y accesorios.",
+      "Así como cualquier complemento o accesorio destinado a tal fin.",
+      "Siempre que haya sido previamente certificado por un organismo de control acreditado."
+    ],
+    "correct": 1,
+    "exp": "El art. 4.8.º LPRL extiende la definición de equipo de protección individual a cualquier complemento o accesorio destinado a esa misma finalidad protectora.",
+    "fuente": "Art. 4.8º LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 5.1 de la LPRL, la elaboración de la política preventiva se llevará a cabo con la participación de los empresarios y de los trabajadores a través de:",
+    "options": [
+      "Los comités de seguridad y salud constituidos en las empresas de más de 50 trabajadores.",
+      "Los delegados de prevención designados en cada centro de trabajo.",
+      "Sus organizaciones empresariales y sindicales más representativas."
+    ],
+    "correct": 2,
+    "exp": "La letra b) del art. 5.1 LPRL exige que la política preventiva se elabore con la participación de empresarios y trabajadores a través de sus organizaciones empresariales y sindicales más representativas.",
+    "fuente": "Art. 5.1.b) LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 5 de la LPRL, las Administraciones públicas promoverán la efectividad del principio de igualdad entre mujeres y hombres considerando las variables relacionadas con el sexo:",
+    "options": [
+      "Tanto en los sistemas de recogida y tratamiento de datos como en el estudio e investigación generales en materia de prevención de riesgos laborales.",
+      "Únicamente en los protocolos de vigilancia de la salud aplicables a las trabajadoras embarazadas o en período de lactancia.",
+      "Exclusivamente en las estadísticas oficiales de siniestralidad laboral publicadas anualmente."
+    ],
+    "correct": 0,
+    "exp": "El art. 5.4 LPRL ordena considerar las variables relacionadas con el sexo tanto en los sistemas de recogida y tratamiento de datos como en el estudio e investigación generales, con el objetivo de detectar y prevenir daños vinculados al sexo de los trabajadores.",
+    "fuente": "Art. 5.4 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 5 de la LPRL establece que la política en materia de prevención de riesgos laborales deberá promover:",
+    "options": [
+      "La externalización de la actividad preventiva en servicios de prevención ajenos acreditados.",
+      "La constitución de un servicio de prevención propio en toda empresa de más de 250 trabajadores.",
+      "La integración eficaz de la prevención de riesgos laborales en el sistema de gestión de la empresa."
+    ],
+    "correct": 2,
+    "exp": "El art. 5.5 LPRL, añadido por la Ley 25/2009, impone que la política preventiva promueva la integración eficaz de la prevención de riesgos laborales en el sistema de gestión de la empresa.",
+    "fuente": "Art. 5.5 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 6.1 de la LPRL, la regulación por vía reglamentaria de las materias que en él se relacionan corresponde:",
+    "options": [
+      "Al Ministerio de Trabajo y Seguridad Social, previo informe del Instituto Nacional de Seguridad e Higiene en el Trabajo.",
+      "Al Gobierno, previa consulta a las organizaciones sindicales y empresariales más representativas.",
+      "A la Comisión Nacional de Seguridad y Salud en el Trabajo, oídas las Comunidades Autónomas."
+    ],
+    "correct": 1,
+    "exp": "El art. 6.1 LPRL atribuye al Gobierno la regulación de esas materias a través de las correspondientes normas reglamentarias y previa consulta a las organizaciones sindicales y empresariales más representativas.",
+    "fuente": "Art. 6.1 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Entre las materias que el artículo 6.1 de la LPRL reserva a las normas reglamentarias figura expresamente:",
+    "options": [
+      "El régimen de recursos administrativos frente a las sanciones impuestas en materia preventiva.",
+      "La determinación de las cuantías de las sanciones por infracciones graves y muy graves.",
+      "Los procedimientos de evaluación de los riesgos para la salud de los trabajadores, la normalización de metodologías y las guías de actuación preventiva."
+    ],
+    "correct": 2,
+    "exp": "La letra d) del art. 6.1 LPRL relaciona los procedimientos de evaluación de los riesgos para la salud de los trabajadores, la normalización de metodologías y las guías de actuación preventiva.",
+    "fuente": "Art. 6.1.d) LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 7.1 de la LPRL atribuye a las Administraciones públicas competentes en materia laboral el desarrollo de funciones de:",
+    "options": [
+      "Instrucción y resolución de los procedimientos de recargo de prestaciones económicas de la Seguridad Social.",
+      "Auditoría y acreditación de los servicios de prevención ajenos y de las entidades formativas.",
+      "Promoción de la prevención, asesoramiento técnico, vigilancia y control del cumplimiento de la normativa preventiva, así como sanción de las infracciones a dicha normativa."
+    ],
+    "correct": 2,
+    "exp": "El art. 7.1 LPRL enumera esas cuatro líneas de actuación: promoción de la prevención, asesoramiento técnico, vigilancia y control, y sanción de las infracciones con arreglo al capítulo VII de la Ley.",
+    "fuente": "Art. 7.1 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 7.2 de la LPRL, en los trabajos en minas, canteras y túneles que exijan la aplicación de técnica minera, en los que impliquen explosivos o en los que empleen energía nuclear, las funciones de las Administraciones competentes en materia laboral:",
+    "options": [
+      "Se atribuyen en exclusiva a la Inspección de Trabajo y Seguridad Social.",
+      "Continuarán siendo desarrolladas por los órganos específicos contemplados en su normativa reguladora.",
+      "Quedan en suspenso en tanto no se apruebe la correspondiente norma reglamentaria de desarrollo."
+    ],
+    "correct": 1,
+    "exp": "El art. 7.2 LPRL mantiene el desarrollo de esas funciones en manos de los órganos específicos previstos en la normativa reguladora de dichas actividades.",
+    "fuente": "Art. 7.2 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 8.1 de la LPRL configura al Instituto Nacional de Seguridad e Higiene en el Trabajo como:",
+    "options": [
+      "Una entidad de derecho público con personalidad jurídica propia integrada en la Seguridad Social.",
+      "Un organismo autónomo dependiente de la Dirección General de la Inspección de Trabajo y Seguridad Social.",
+      "El órgano científico técnico especializado de la Administración General del Estado que tiene como misión el análisis y estudio de las condiciones de seguridad y salud en el trabajo, así como la promoción y apoyo a la mejora de las mismas."
+    ],
+    "correct": 2,
+    "exp": "Definición del art. 8.1 LPRL, que además le impone establecer la cooperación necesaria con los órganos de las Comunidades Autónomas competentes en la materia.",
+    "fuente": "Art. 8.1 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Entre las funciones del Instituto Nacional de Seguridad e Higiene en el Trabajo, el artículo 8.1 de la LPRL incluye el apoyo técnico y la colaboración con la Inspección de Trabajo y Seguridad Social en su función de vigilancia y control:",
+    "options": [
+      "En el ámbito de las Administraciones públicas.",
+      "En el ámbito de las empresas de más de quinientos trabajadores.",
+      "En todos los sectores de la actividad privada, con exclusión del sector público."
+    ],
+    "correct": 0,
+    "exp": "La letra c) del art. 8.1 LPRL circunscribe ese apoyo técnico y colaboración con la Inspección, prevista en el art. 9 de la Ley, al ámbito de las Administraciones públicas.",
+    "fuente": "Art. 8.1.c) LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En relación con las Instituciones de la Unión Europea, el artículo 8 de la LPRL dispone que el Instituto Nacional de Seguridad e Higiene en el Trabajo actuará como:",
+    "options": [
+      "Autoridad nacional de acreditación de los servicios de prevención ajenos.",
+      "Centro de referencia nacional, garantizando la coordinación y transmisión de la información que deberá facilitar a escala nacional.",
+      "Órgano de representación permanente de España ante el Consejo de la Unión Europea en materia laboral."
+    ],
+    "correct": 1,
+    "exp": "El art. 8.3 LPRL le asigna la condición de centro de referencia nacional, en particular respecto de la Agencia Europea para la Seguridad y la Salud en el Trabajo y su Red.",
+    "fuente": "Art. 8.3 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 8 de la LPRL, el Instituto Nacional de Seguridad e Higiene en el Trabajo ejercerá, respecto de la Comisión Nacional de Seguridad y Salud en el Trabajo:",
+    "options": [
+      "Su Presidencia.",
+      "Una de las cuatro Vicepresidencias.",
+      "La Secretaría General, prestándole la asistencia técnica y científica necesaria para el desarrollo de sus competencias."
+    ],
+    "correct": 2,
+    "exp": "El art. 8.4 LPRL atribuye al Instituto la Secretaría General de la Comisión Nacional, con la asistencia técnica y científica necesaria; en coherencia, el art. 13.6 sitúa la Secretaría en la Dirección del Instituto.",
+    "fuente": "Art. 8.4 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La Inspección de Trabajo y Seguridad Social puede ordenar la paralización inmediata de trabajos, según el artículo 9.1 de la LPRL, cuando:",
+    "options": [
+      "Lo solicite el comité de seguridad y salud por mayoría de sus miembros.",
+      "A juicio del inspector se advierta la existencia de riesgo grave e inminente para la seguridad o salud de los trabajadores.",
+      "La empresa carezca de plan de prevención de riesgos laborales o de evaluación de riesgos."
+    ],
+    "correct": 1,
+    "exp": "La letra f) del art. 9.1 LPRL habilita al inspector a ordenar la paralización inmediata de los trabajos cuando, a su juicio, se advierta riesgo grave e inminente para la seguridad o salud de los trabajadores.",
+    "fuente": "Art. 9.1.f) LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 9.1 de la LPRL, la Inspección de Trabajo y Seguridad Social informará a la autoridad laboral sobre los accidentes de trabajo:",
+    "options": [
+      "Únicamente sobre los accidentes de trabajo mortales.",
+      "Sobre todos los accidentes que hayan causado baja médica superior a tres días.",
+      "Mortales, muy graves o graves, y sobre aquellos otros en que, por sus características o por los sujetos afectados, se considere necesario dicho informe."
+    ],
+    "correct": 2,
+    "exp": "La letra d) del art. 9.1 LPRL extiende el deber de informar a los accidentes mortales, muy graves o graves y a aquellos otros en que, por sus características o sujetos afectados, se considere necesario, así como a las enfermedades profesionales con esas calificaciones.",
+    "fuente": "Art. 9.1.d) LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el artículo 9.2 de la LPRL, en el ámbito de la Administración General del Estado la colaboración pericial y el asesoramiento técnico necesarios a la Inspección de Trabajo y Seguridad Social serán prestados por:",
+    "options": [
+      "El Instituto Nacional de Seguridad e Higiene en el Trabajo.",
+      "El Instituto Nacional de la Seguridad Social.",
+      "La Dirección General de Trabajo del Ministerio competente."
+    ],
+    "correct": 0,
+    "exp": "El art. 9.2 LPRL señala que, en el ámbito de la Administración General del Estado, esa colaboración pericial y asesoramiento técnico serán prestados por el Instituto Nacional de Seguridad e Higiene en el Trabajo.",
+    "fuente": "Art. 9.2 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando de las actuaciones comprobatorias de los funcionarios técnicos se deduzca la existencia de infracción, el artículo 9.3 de la LPRL dispone que el funcionario actuante remitirá informe a la Inspección de Trabajo y Seguridad Social:",
+    "options": [
+      "En todo caso y de forma inmediata a la comprobación de los hechos.",
+      "Siempre que haya mediado incumplimiento de previo requerimiento.",
+      "Solamente si el empresario no subsana las deficiencias en el plazo de un mes."
+    ],
+    "correct": 1,
+    "exp": "El art. 9.3 LPRL condiciona la remisión del informe, a efectos de que se levante en su caso acta de infracción, a que haya mediado incumplimiento de previo requerimiento.",
+    "fuente": "Art. 9.3 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Las actuaciones de las Administraciones públicas competentes en materia sanitaria referentes a la salud laboral se llevarán a cabo, según el artículo 10 de la LPRL, a través de las acciones y en relación con los aspectos señalados en:",
+    "options": [
+      "El Título III de la Ley 33/2011, de 4 de octubre, General de Salud Pública.",
+      "El capítulo IV del Título I de la Ley 14/1986, de 25 de abril, General de Sanidad, y disposiciones dictadas para su desarrollo.",
+      "El texto refundido de la Ley General de la Seguridad Social, en materia de contingencias profesionales."
+    ],
+    "correct": 1,
+    "exp": "El párrafo primero del art. 10 LPRL remite al capítulo IV del Título I de la Ley 14/1986, General de Sanidad, y a sus disposiciones de desarrollo.",
+    "fuente": "Art. 10 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Corresponde a las Administraciones públicas competentes en materia sanitaria, conforme al artículo 10 de la LPRL:",
+    "options": [
+      "La autorización y acreditación de los servicios de prevención propios constituidos por las empresas.",
+      "La imposición de sanciones por incumplimiento de las obligaciones empresariales de vigilancia de la salud.",
+      "La implantación de sistemas de información que permitan elaborar, junto con las autoridades laborales competentes, mapas de riesgos laborales, así como realizar estudios epidemiológicos."
+    ],
+    "correct": 2,
+    "exp": "La letra b) del art. 10 LPRL les atribuye la implantación de sistemas de información para elaborar, junto con las autoridades laborales, mapas de riesgos laborales y realizar estudios epidemiológicos, posibilitando un rápido intercambio de información.",
+    "fuente": "Art. 10.b) LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 11 de la LPRL determina la necesidad de coordinar las actuaciones de las Administraciones competentes en materia:",
+    "options": [
+      "Laboral, sanitaria y de industria.",
+      "Laboral, sanitaria y educativa.",
+      "Laboral, de industria y de medio ambiente."
+    ],
+    "correct": 0,
+    "exp": "El art. 11 LPRL, bajo la rúbrica «Coordinación administrativa», exige coordinar las actuaciones de las Administraciones competentes en materia laboral, sanitaria y de industria para una más eficaz protección de la seguridad y la salud de los trabajadores.",
+    "fuente": "Art. 11 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 12 de la LPRL, la participación de empresarios y trabajadores, a través de las organizaciones empresariales y sindicales más representativas, en la planificación, programación, organización y control de la gestión relacionada con la mejora de las condiciones de trabajo es:",
+    "options": [
+      "Una facultad potestativa que las Administraciones públicas competentes pueden articular reglamentariamente.",
+      "Un derecho de configuración legal exigible únicamente en empresas de más de cincuenta trabajadores.",
+      "Principio básico de la política de prevención de riesgos laborales, a desarrollar por las Administraciones públicas competentes en los distintos niveles territoriales."
+    ],
+    "correct": 2,
+    "exp": "El art. 12 LPRL califica esa participación como principio básico de la política de prevención de riesgos laborales, que deben desarrollar las Administraciones públicas competentes en los distintos niveles territoriales.",
+    "fuente": "Art. 12 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La Comisión Nacional de Seguridad y Salud en el Trabajo se crea en el artículo 13 de la LPRL como:",
+    "options": [
+      "Órgano colegiado asesor de las Administraciones públicas en la formulación de las políticas de prevención y órgano de participación institucional en materia de seguridad y salud en el trabajo.",
+      "Órgano de resolución de los conflictos de competencia entre las Administraciones laboral, sanitaria y de industria.",
+      "Organismo autónomo adscrito al Ministerio de Trabajo y Seguridad Social, con personalidad jurídica y patrimonio propios."
+    ],
+    "correct": 0,
+    "exp": "El art. 13.1 LPRL la crea con esa doble naturaleza: órgano colegiado asesor en la formulación de las políticas de prevención y órgano de participación institucional en seguridad y salud en el trabajo.",
+    "fuente": "Art. 13.1 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 13 de la LPRL, la Comisión Nacional de Seguridad y Salud en el Trabajo está integrada por:",
+    "options": [
+      "Dos representantes de cada Comunidad Autónoma y otros tantos de las organizaciones sindicales más representativas.",
+      "Un representante de cada una de las Comunidades Autónomas, igual número de miembros de la Administración General del Estado y, paritariamente con todos los anteriores, representantes de las organizaciones empresariales y sindicales más representativas.",
+      "Un representante de cada Comunidad Autónoma, uno de la Administración local y uno de la Administración General del Estado por cada uno de ellos."
+    ],
+    "correct": 1,
+    "exp": "Composición del art. 13.2 LPRL: un representante por Comunidad Autónoma, igual número de miembros de la Administración General del Estado y, paritariamente con todos ellos, representantes de las organizaciones empresariales y sindicales más representativas.",
+    "fuente": "Art. 13.2 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Respecto de la adopción de acuerdos por la Comisión Nacional de Seguridad y Salud en el Trabajo, el artículo 13 de la LPRL establece que:",
+    "options": [
+      "Todos los miembros disponen de un voto y los acuerdos se adoptan por mayoría de dos tercios.",
+      "Los acuerdos requieren el voto favorable de la mayoría de cada uno de los cuatro grupos que la integran.",
+      "Los acuerdos se adoptan por mayoría, teniendo los representantes de las Administraciones públicas cada uno un voto y dos los de las organizaciones empresariales y sindicales."
+    ],
+    "correct": 2,
+    "exp": "Regla del art. 13.4 LPRL: acuerdos por mayoría, con un voto para cada representante de las Administraciones públicas y dos votos para los de las organizaciones empresariales y sindicales.",
+    "fuente": "Art. 13.4 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 13 de la LPRL, la Presidencia de la Comisión Nacional de Seguridad y Salud en el Trabajo corresponde:",
+    "options": [
+      "Al Secretario general de Empleo y Relaciones Laborales.",
+      "Al Director del Instituto Nacional de Seguridad e Higiene en el Trabajo.",
+      "Al Subsecretario de Sanidad y Consumo."
+    ],
+    "correct": 0,
+    "exp": "El art. 13.5 LPRL atribuye la Presidencia al Secretario general de Empleo y Relaciones Laborales; el Subsecretario de Sanidad y Consumo ocupa la Vicepresidencia correspondiente a la Administración General del Estado.",
+    "fuente": "Art. 13.5 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La Secretaría de la Comisión Nacional de Seguridad y Salud en el Trabajo, como órgano de apoyo técnico y administrativo, recae conforme al artículo 13 de la LPRL en:",
+    "options": [
+      "La Dirección del Instituto Nacional de Seguridad e Higiene en el Trabajo.",
+      "La Subsecretaría del Ministerio de Trabajo y Seguridad Social.",
+      "La Dirección General de la Inspección de Trabajo y Seguridad Social."
+    ],
+    "correct": 0,
+    "exp": "El art. 13.6 LPRL sitúa la Secretaría de la Comisión, como órgano de apoyo técnico y administrativo, en la Dirección del Instituto Nacional de Seguridad e Higiene en el Trabajo.",
+    "fuente": "Art. 13.6 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el artículo 13 de la LPRL, la Comisión Nacional de Seguridad y Salud en el Trabajo funcionará:",
+    "options": [
+      "En Pleno, en Comisión Permanente o en Grupos de Trabajo.",
+      "Únicamente en Pleno y en Comisión Permanente.",
+      "En Pleno, en Comisión Ejecutiva y en Ponencias técnicas sectoriales."
+    ],
+    "correct": 0,
+    "exp": "El art. 13.7 LPRL prevé el funcionamiento en Pleno, en Comisión Permanente o en Grupos de Trabajo, conforme a la normativa que establezca su Reglamento interno.",
+    "fuente": "Art. 13.7 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 13 de la LPRL, la Comisión Nacional de Seguridad y Salud en el Trabajo conocerá las actuaciones que desarrollen las Administraciones públicas competentes en promoción de la prevención, asesoramiento técnico y vigilancia y control a que se refieren:",
+    "options": [
+      "Los artículos 5, 6 y 7 de la Ley.",
+      "Los artículos 8, 9, 10 y 12 de la Ley.",
+      "Los artículos 7, 8, 9 y 11 de la Ley."
+    ],
+    "correct": 2,
+    "exp": "El art. 13.3 LPRL remite expresamente a las actuaciones de los artículos 7, 8, 9 y 11 de la Ley, sobre las que la Comisión podrá informar y formular propuestas.",
+    "fuente": "Art. 13.3 LPRL (Ley 31/1995)",
+    "confianza": "alta"
+  }
+]);
