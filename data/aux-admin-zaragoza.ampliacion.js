@@ -2198,3 +2198,487 @@ window.addQuestions('aux-admin-zaragoza', 20, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 20 · lote 2026-08-10 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 20, [
+  {
+    "q": "El RD 486/1997, sobre disposiciones mínimas de seguridad y salud en los lugares de trabajo, NO será de aplicación a:",
+    "options": [
+      "Los comedores instalados en el centro de trabajo.",
+      "Los locales de descanso y los servicios higiénicos.",
+      "Los buques de pesca."
+    ],
+    "correct": 2,
+    "exp": "El art. 1.2 excluye los medios de transporte utilizados fuera de la empresa y los lugares de trabajo situados en ellos, las obras de construcción temporales o móviles, las industrias de extracción, los buques de pesca y los campos de cultivo, bosques y otros terrenos situados fuera de la zona edificada. En cambio, el art. 2.1 incluye expresamente en la definición de lugar de trabajo los servicios higiénicos, los locales de descanso, los locales de primeros auxilios y los comedores.",
+    "fuente": "Art. 1.2.d) RD 486/1997 (lugares de trabajo)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la disposición adicional única del RD 486/1997, la adaptación de las condiciones de trabajo, incluida la reducción o modificación de las horas de desarrollo de la jornada prevista, resulta obligatoria cuando se emite un aviso de fenómenos meteorológicos adversos de nivel:",
+    "options": [
+      "Naranja o rojo.",
+      "Amarillo o naranja.",
+      "Rojo, y únicamente de rojo."
+    ],
+    "correct": 0,
+    "exp": "La disposición adicional única, apartado 3, se refiere al aviso emitido por la AEMET o el órgano autonómico correspondiente de fenómenos meteorológicos adversos de nivel naranja o rojo cuando las medidas preventivas previas no garanticen la protección de la persona trabajadora.",
+    "fuente": "Disposición adicional única, apartado 3, RD 486/1997 (lugares de trabajo)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al Anexo I del RD 486/1997, la altura mínima de los locales de trabajo desde el piso hasta el techo es de 3 metros, si bien en locales comerciales, de servicios, oficinas y despachos podrá reducirse a:",
+    "options": [
+      "2,20 metros.",
+      "2,50 metros.",
+      "2,75 metros."
+    ],
+    "correct": 1,
+    "exp": "El Anexo I.A).2.1º.a) fija 3 metros de altura desde el piso hasta el techo, con la salvedad de los locales comerciales, de servicios, oficinas y despachos, en los que la altura podrá reducirse a 2,5 metros.",
+    "fuente": "Anexo I.A).2.1º.a) RD 486/1997 (lugares de trabajo)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El Anexo I del RD 486/1997 exige, como dimensión mínima de los locales de trabajo, un volumen no ocupado por trabajador de:",
+    "options": [
+      "10 metros cúbicos.",
+      "6 metros cúbicos.",
+      "15 metros cúbicos."
+    ],
+    "correct": 0,
+    "exp": "El Anexo I.A).2.1º.c) establece 10 metros cúbicos, no ocupados, por trabajador, junto a los 3 metros de altura y los 2 metros cuadrados de superficie libre por trabajador.",
+    "fuente": "Anexo I.A).2.1º.c) RD 486/1997 (lugares de trabajo)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el Anexo I del RD 486/1997, deberán protegerse mediante barandillas u otros sistemas de protección equivalente los lados abiertos de las escaleras y rampas de más de:",
+    "options": [
+      "1 metro de altura.",
+      "90 centímetros de altura.",
+      "60 centímetros de altura."
+    ],
+    "correct": 2,
+    "exp": "El Anexo I.A).3.2º.c) obliga a proteger los lados abiertos de las escaleras y rampas de más de 60 centímetros de altura; los lados cerrados tendrán un pasamanos a una altura mínima de 90 centímetros si la anchura de la escalera es mayor de 1,2 metros.",
+    "fuente": "Anexo I.A).3.2º.c) RD 486/1997 (lugares de trabajo)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el Anexo I del RD 486/1997, las barandillas serán de materiales rígidos y tendrán una altura mínima de:",
+    "options": [
+      "1 metro.",
+      "90 centímetros.",
+      "75 centímetros."
+    ],
+    "correct": 1,
+    "exp": "El Anexo I.A).3.3º exige barandillas de materiales rígidos, con una altura mínima de 90 centímetros y dotadas de una protección que impida el paso o deslizamiento por debajo de las mismas o la caída de objetos sobre personas.",
+    "fuente": "Anexo I.A).3.3º RD 486/1997 (lugares de trabajo)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El Anexo I del RD 486/1997 fija la anchura mínima de las puertas exteriores y de los pasillos, respectivamente, en:",
+    "options": [
+      "1 metro y 1,20 metros.",
+      "70 centímetros y 90 centímetros.",
+      "80 centímetros y 1 metro."
+    ],
+    "correct": 2,
+    "exp": "El Anexo I.A).5.3º dispone literalmente que «la anchura mínima de las puertas exteriores y de los pasillos será de 80 centímetros y 1 metro, respectivamente».",
+    "fuente": "Anexo I.A).5.3º RD 486/1997 (lugares de trabajo)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el Anexo I del RD 486/1997, las puertas transparentes deberán tener una señalización situada:",
+    "options": [
+      "En su parte inferior, a ras del suelo.",
+      "A la altura de la vista.",
+      "En ambos lados del marco, a 90 centímetros del suelo."
+    ],
+    "correct": 1,
+    "exp": "El Anexo I.A).6.1º establece que las puertas transparentes deberán tener una señalización a la altura de la vista.",
+    "fuente": "Anexo I.A).6.1º RD 486/1997 (lugares de trabajo)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En las escaleras o plataformas con pavimentos perforados de los lugares de trabajo utilizados por primera vez tras la entrada en vigor del RD 486/1997, la abertura máxima de los intersticios será de:",
+    "options": [
+      "8 milímetros.",
+      "10 milímetros.",
+      "5 milímetros."
+    ],
+    "correct": 0,
+    "exp": "El Anexo I.A).7.2º fija la abertura máxima de los intersticios en 8 milímetros. Para los lugares de trabajo ya utilizados antes de la entrada en vigor del Real Decreto, el Anexo I.B).b) eleva ese máximo a 10 milímetros.",
+    "fuente": "Anexo I.A).7.2º RD 486/1997 (lugares de trabajo)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al Anexo I del RD 486/1997, las rampas tendrán una pendiente máxima del 12 por 100 cuando su longitud sea menor que:",
+    "options": [
+      "10 metros.",
+      "3 metros.",
+      "5 metros."
+    ],
+    "correct": 1,
+    "exp": "El Anexo I.A).7.3º establece una pendiente máxima del 12 por 100 cuando la longitud de la rampa sea menor que 3 metros, del 10 por 100 cuando sea menor que 10 metros y del 8 por 100 en el resto de los casos.",
+    "fuente": "Anexo I.A).7.3º RD 486/1997 (lugares de trabajo)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el Anexo I del RD 486/1997, la anchura mínima de las escaleras de servicio será de:",
+    "options": [
+      "55 centímetros.",
+      "1 metro.",
+      "90 centímetros."
+    ],
+    "correct": 0,
+    "exp": "El Anexo I.A).7.4º fija una anchura mínima de 1 metro para las escaleras, excepto en las de servicio, cuya anchura mínima será de 55 centímetros.",
+    "fuente": "Anexo I.A).7.4º RD 486/1997 (lugares de trabajo)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Para los escalones de las escaleras que no sean de servicio, el Anexo I del RD 486/1997 establece:",
+    "options": [
+      "Una huella entre 15 y 25 centímetros y una contrahuella entre 10 y 18 centímetros.",
+      "Una huella entre 20 y 30 centímetros y una contrahuella entre 15 y 22 centímetros.",
+      "Una huella entre 23 y 36 centímetros y una contrahuella entre 13 y 20 centímetros."
+    ],
+    "correct": 2,
+    "exp": "El Anexo I.A).7.6º fija para las escaleras que no sean de servicio una huella comprendida entre 23 y 36 centímetros y una contrahuella entre 13 y 20 centímetros; las de servicio tendrán una huella mínima de 15 centímetros y una contrahuella máxima de 25 centímetros.",
+    "fuente": "Anexo I.A).7.6º RD 486/1997 (lugares de trabajo)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El Anexo I del RD 486/1997 dispone que la anchura mínima de las escalas fijas y la distancia máxima entre sus peldaños serán, respectivamente:",
+    "options": [
+      "50 centímetros y 25 centímetros.",
+      "40 centímetros y 30 centímetros.",
+      "40 centímetros y 25 centímetros."
+    ],
+    "correct": 1,
+    "exp": "El Anexo I.A).8.1º señala que la anchura mínima de las escalas fijas será de 40 centímetros y la distancia máxima entre peldaños de 30 centímetros.",
+    "fuente": "Anexo I.A).8.1º RD 486/1997 (lugares de trabajo)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Si se emplean escalas fijas para alturas mayores de 9 metros, el Anexo I del RD 486/1997 obliga a instalar plataformas de descanso cada:",
+    "options": [
+      "4 metros o fracción.",
+      "6 metros o fracción.",
+      "9 metros o fracción."
+    ],
+    "correct": 2,
+    "exp": "El Anexo I.A).8.5º exige instalar plataformas de descanso cada 9 metros o fracción cuando se empleen escalas fijas para alturas mayores de 9 metros. Con carácter previo, el apartado 8.4º exige protección circundante a partir de los 4 metros de altura.",
+    "fuente": "Anexo I.A).8.5º RD 486/1997 (lugares de trabajo)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Respecto de las puertas de emergencia, el Anexo I del RD 486/1997 establece que:",
+    "options": [
+      "Deberán abrirse hacia el exterior y estarán prohibidas las puertas específicamente de emergencia que sean correderas o giratorias.",
+      "Deberán abrirse hacia el interior y podrán ser correderas cuando su accionamiento sea automático.",
+      "Podrán cerrarse con llave siempre que ésta se guarde en una caja rompible situada junto a la puerta."
+    ],
+    "correct": 0,
+    "exp": "El Anexo I.A).10.5º exige que las puertas de emergencia se abran hacia el exterior y no estén cerradas, prohibiendo expresamente las puertas específicamente de emergencia correderas o giratorias. El apartado 10.8º añade que las puertas de emergencia no deberán cerrarse con llave.",
+    "fuente": "Anexo I.A).10.5º RD 486/1997 (lugares de trabajo)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El Anexo II del RD 486/1997, sobre orden, limpieza y mantenimiento, dispone que, si se utiliza una instalación de ventilación:",
+    "options": [
+      "Deberá someterse a una revisión oficial anual por un organismo de control autorizado.",
+      "Deberá sustituirse íntegramente cada cinco años.",
+      "Deberá mantenerse en buen estado de funcionamiento y un sistema de control deberá indicar toda avería siempre que sea necesario para la salud de los trabajadores."
+    ],
+    "correct": 2,
+    "exp": "El Anexo II.4, dentro del mantenimiento periódico de los lugares de trabajo y sus instalaciones, exige que la instalación de ventilación se mantenga en buen estado de funcionamiento y que un sistema de control indique toda avería siempre que sea necesario para la salud de los trabajadores.",
+    "fuente": "Anexo II.4 RD 486/1997 (lugares de trabajo)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el Anexo III del RD 486/1997, en los locales de trabajo cerrados la humedad relativa estará comprendida entre el 30 y el 70 por 100, salvo en los locales donde existan riesgos por electricidad estática, en los que el límite inferior será el:",
+    "options": [
+      "40 por 100.",
+      "50 por 100.",
+      "60 por 100."
+    ],
+    "correct": 1,
+    "exp": "El Anexo III.3.b) fija la horquilla general del 30 al 70 por 100 de humedad relativa y eleva el límite inferior al 50 por 100 en los locales donde existan riesgos por electricidad estática.",
+    "fuente": "Anexo III.3.b) RD 486/1997 (lugares de trabajo)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El Anexo III del RD 486/1997 fija la renovación mínima del aire de los locales de trabajo, en el caso de trabajos sedentarios en ambientes no calurosos ni contaminados por humo de tabaco, en:",
+    "options": [
+      "30 metros cúbicos de aire limpio por hora y trabajador.",
+      "50 metros cúbicos de aire limpio por hora y trabajador.",
+      "20 metros cúbicos de aire limpio por hora y trabajador."
+    ],
+    "correct": 0,
+    "exp": "El Anexo III.3.d) establece 30 metros cúbicos de aire limpio por hora y trabajador en trabajos sedentarios en ambientes no calurosos ni contaminados por humo de tabaco, y 50 metros cúbicos en los casos restantes.",
+    "fuente": "Anexo III.3.d) RD 486/1997 (lugares de trabajo)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme a la tabla del Anexo IV del RD 486/1997, el nivel mínimo de iluminación de las zonas donde se ejecuten tareas con exigencias visuales altas es de:",
+    "options": [
+      "500 lux.",
+      "1.000 lux.",
+      "200 lux."
+    ],
+    "correct": 0,
+    "exp": "La tabla del Anexo IV.3 fija 100 lux para bajas exigencias visuales, 200 para exigencias moderadas, 500 para exigencias altas y 1.000 lux para exigencias visuales muy altas.",
+    "fuente": "Anexo IV.3 RD 486/1997 (lugares de trabajo)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el Anexo V del RD 486/1997, los vestuarios estarán provistos de:",
+    "options": [
+      "Duchas de agua corriente caliente y fría, en todo caso.",
+      "Un local de descanso anexo dotado de mesas y asientos con respaldo.",
+      "Asientos y de armarios o taquillas individuales con llave."
+    ],
+    "correct": 2,
+    "exp": "El Anexo V.A).2.2º exige que los vestuarios estén provistos de asientos y de armarios o taquillas individuales con llave, con capacidad suficiente para guardar la ropa y el calzado. Las duchas solo son exigibles, conforme al apartado 2.4º, cuando se realicen habitualmente trabajos sucios, contaminantes o que originen elevada sudoración.",
+    "fuente": "Anexo V.A).2.2º RD 486/1997 (lugares de trabajo)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El Anexo V del RD 486/1997 exige que los retretes dispongan de:",
+    "options": [
+      "Ventilación forzada y detector de presencia.",
+      "Descarga automática de agua y papel higiénico.",
+      "Un sistema de apertura automática y pavimento antideslizante certificado."
+    ],
+    "correct": 1,
+    "exp": "El Anexo V.A).2.7º dispone que los retretes dispondrán de descarga automática de agua y papel higiénico; en los que hayan de ser utilizados por mujeres se instalarán recipientes especiales y cerrados, y las cabinas estarán provistas de una puerta con cierre interior y de una percha.",
+    "fuente": "Anexo V.A).2.7º RD 486/1997 (lugares de trabajo)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el Anexo VI del RD 486/1997, el contenido mínimo del botiquín portátil de que debe disponer todo lugar de trabajo es:",
+    "options": [
+      "Desinfectantes y antisépticos autorizados, gasas estériles, algodón hidrófilo, venda, esparadrapo, apósitos adhesivos, tijeras, pinzas, guantes desechables y analgésicos de uso común.",
+      "Desinfectantes y antisépticos autorizados, gasas estériles, algodón hidrófilo, venda, esparadrapo, apósitos adhesivos, tijeras, pinzas y guantes desechables.",
+      "Desinfectantes y antisépticos autorizados, gasas estériles, algodón hidrófilo, venda, esparadrapo, tijeras, pinzas, guantes desechables y una camilla plegable."
+    ],
+    "correct": 1,
+    "exp": "El Anexo VI.A).3 enumera como contenido mínimo del botiquín portátil: desinfectantes y antisépticos autorizados, gasas estériles, algodón hidrófilo, venda, esparadrapo, apósitos adhesivos, tijeras, pinzas y guantes desechables. No incluye medicamentos ni camilla.",
+    "fuente": "Anexo VI.A).3 RD 486/1997 (lugares de trabajo)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el Anexo VI del RD 486/1997, deberán disponer de un local destinado a los primeros auxilios y otras posibles atenciones sanitarias los lugares de trabajo de más de:",
+    "options": [
+      "100 trabajadores.",
+      "25 trabajadores, en todo caso.",
+      "50 trabajadores."
+    ],
+    "correct": 2,
+    "exp": "El Anexo VI.A).5 impone el local de primeros auxilios a los lugares de trabajo de más de 50 trabajadores, y también a los de más de 25 trabajadores para los que así lo determine la autoridad laboral atendiendo a la peligrosidad de la actividad y a las dificultades de acceso al centro de asistencia médica más próximo.",
+    "fuente": "Anexo VI.A).5 RD 486/1997 (lugares de trabajo)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Los locales de primeros auxilios dispondrán, como mínimo y según el Anexo VI del RD 486/1997, de:",
+    "options": [
+      "Un botiquín, una camilla y una fuente de agua potable.",
+      "Un botiquín, un desfibrilador externo automatizado y una camilla.",
+      "Una camilla, una fuente de agua potable y una ducha de emergencia."
+    ],
+    "correct": 0,
+    "exp": "El Anexo VI.A).6 exige que los locales de primeros auxilios dispongan como mínimo de un botiquín, una camilla y una fuente de agua potable, estén próximos a los puestos de trabajo y sean de fácil acceso para las camillas.",
+    "fuente": "Anexo VI.A).6 RD 486/1997 (lugares de trabajo)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de los siguientes queda expresamente excluido del ámbito de aplicación del RD 488/1997, sobre equipos con pantallas de visualización?",
+    "options": [
+      "El puesto de un auxiliar administrativo que utiliza un ordenador de sobremesa durante toda su jornada.",
+      "El puesto de trabajo dotado de pantalla, teclado, asiento y mesa de una oficina administrativa.",
+      "Las máquinas de escribir de diseño clásico, conocidas como máquinas de ventanilla."
+    ],
+    "correct": 2,
+    "exp": "El art. 1.3 excluye los puestos de conducción de vehículos o máquinas, los sistemas informáticos embarcados en un medio de transporte, los destinados prioritariamente al público, los sistemas portátiles no utilizados de modo continuado en un puesto de trabajo, las calculadoras, cajas registradoras y equipos con pequeños dispositivos de visualización, y las máquinas de escribir de diseño clásico o de ventanilla.",
+    "fuente": "Art. 1.3.f) RD 488/1997 (pantallas de visualización)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 1.3 del RD 488/1997, los sistemas llamados portátiles quedan excluidos de su ámbito de aplicación:",
+    "options": [
+      "Siempre y cuando no se utilicen de modo continuado en un puesto de trabajo.",
+      "En todo caso, por su propia naturaleza.",
+      "Únicamente cuando se utilicen fuera del centro de trabajo."
+    ],
+    "correct": 0,
+    "exp": "El art. 1.3.d) excluye «los sistemas llamados portátiles, siempre y cuando no se utilicen de modo continuado en un puesto de trabajo»; si el uso es continuado en el puesto, el Real Decreto sí resulta aplicable.",
+    "fuente": "Art. 1.3.d) RD 488/1997 (pantallas de visualización)",
+    "confianza": "alta"
+  },
+  {
+    "q": "A efectos del RD 488/1997, se entiende por pantalla de visualización:",
+    "options": [
+      "Cualquier monitor de tecnología LCD o LED conectado a un ordenador personal.",
+      "Una pantalla alfanumérica o gráfica, independientemente del método de representación visual utilizado.",
+      "Todo dispositivo de visualización de datos, incluidas las calculadoras y las cajas registradoras."
+    ],
+    "correct": 1,
+    "exp": "El art. 2.a) define la pantalla de visualización como «una pantalla alfanumérica o gráfica, independientemente del método de representación visual utilizado». Las calculadoras y cajas registradoras están, además, excluidas por el art. 1.3.e).",
+    "fuente": "Art. 2.a) RD 488/1997 (pantallas de visualización)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El RD 488/1997 define como «trabajador», a sus efectos, a cualquier trabajador que:",
+    "options": [
+      "Utilice un equipo con pantalla de visualización más de cuatro horas diarias o veinte semanales.",
+      "Ocupe un puesto que incluya una pantalla de visualización, con independencia del tiempo de uso.",
+      "Habitualmente y durante una parte relevante de su trabajo normal utilice un equipo con pantalla de visualización."
+    ],
+    "correct": 2,
+    "exp": "El art. 2.c) emplea un criterio cualitativo: es trabajador a estos efectos quien habitualmente y durante una parte relevante de su trabajo normal utiliza un equipo con pantalla de visualización. El Real Decreto no fija umbrales horarios.",
+    "fuente": "Art. 2.c) RD 488/1997 (pantallas de visualización)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Al evaluar los riesgos de los puestos con pantallas de visualización, el artículo 3.2 del RD 488/1997 obliga a tomar en consideración especialmente:",
+    "options": [
+      "El tiempo promedio de utilización diaria del equipo, el tiempo máximo de atención continua a la pantalla y el grado de atención que exija la tarea.",
+      "La edad del trabajador, su agudeza visual previa y los antecedentes familiares de patología ocular.",
+      "La antigüedad del equipo, su potencia de cálculo y la resolución de la pantalla."
+    ],
+    "correct": 0,
+    "exp": "El art. 3.2 exige evaluar los riesgos atendiendo en particular a los riesgos para la vista y a los problemas físicos y de carga mental, considerando entre las exigencias de la tarea el tiempo promedio de utilización diaria del equipo, el tiempo máximo de atención continua a la pantalla y el grado de atención que exija la tarea.",
+    "fuente": "Art. 3.2 RD 488/1997 (pantallas de visualización)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Si la evaluación revela que el trabajo con pantallas de visualización supone o puede suponer un riesgo, el artículo 3.3 del RD 488/1997 obliga al empresario, en particular, a:",
+    "options": [
+      "Sustituir el equipo por otro de tecnología distinta en el plazo de seis meses.",
+      "Reducir la duración máxima del trabajo continuado en pantalla, organizando la actividad diaria de forma que esta tarea se alterne con otras o estableciendo las pausas necesarias.",
+      "Reducir la jornada laboral del trabajador afectado sin merma de sus retribuciones."
+    ],
+    "correct": 1,
+    "exp": "El art. 3.3 obliga a adoptar las medidas técnicas u organizativas necesarias y, en particular, a reducir la duración máxima del trabajo continuado en pantalla alternando la tarea con otras o estableciendo pausas cuando la alternancia no sea posible o no baste.",
+    "fuente": "Art. 3.3 RD 488/1997 (pantallas de visualización)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 3.4 del RD 488/1997, ¿qué podrá acordarse en los convenios colectivos?",
+    "options": [
+      "La periodicidad, duración y condiciones de organización de los cambios de actividad y pausas.",
+      "La supresión de la vigilancia de la salud para los usuarios ocasionales de pantallas.",
+      "La sustitución de los reconocimientos oftalmológicos por un complemento retributivo."
+    ],
+    "correct": 0,
+    "exp": "El art. 3.4 remite a la negociación colectiva la periodicidad, duración y condiciones de organización de los cambios de actividad y pausas previstos en el apartado 3.",
+    "fuente": "Art. 3.4 RD 488/1997 (pantallas de visualización)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 4.1 del RD 488/1997 exige que la vigilancia de la salud se ofrezca a los usuarios de equipos con pantallas de visualización:",
+    "options": [
+      "Únicamente con carácter anual mientras dure la exposición.",
+      "Solo cuando el trabajador la solicite por escrito.",
+      "Antes de comenzar a trabajar con una pantalla, posteriormente con una periodicidad ajustada al nivel de riesgo a juicio del médico responsable, y cuando aparezcan trastornos que pudieran deberse a este tipo de trabajo."
+    ],
+    "correct": 2,
+    "exp": "El art. 4.1 enumera las tres ocasiones en las que debe ofrecerse la vigilancia de la salud: antes de comenzar a trabajar con una pantalla de visualización; posteriormente, con una periodicidad ajustada al nivel de riesgo a juicio del médico responsable; y cuando aparezcan trastornos que pudieran deberse a este tipo de trabajo.",
+    "fuente": "Art. 4.1 RD 488/1997 (pantallas de visualización)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 4.3 del RD 488/1997, el empresario proporcionará gratuitamente dispositivos correctores especiales para la protección de la vista cuando la vigilancia de la salud demuestre su necesidad y, además:",
+    "options": [
+      "El trabajador supere las cuatro horas diarias de uso de pantalla.",
+      "No puedan utilizarse dispositivos correctores normales.",
+      "Lo autorice previamente el servicio de prevención ajeno."
+    ],
+    "correct": 1,
+    "exp": "El art. 4.3 condiciona la entrega gratuita de dispositivos correctores especiales a que los resultados de la vigilancia de la salud demuestren su necesidad y a que no puedan utilizarse dispositivos correctores normales.",
+    "fuente": "Art. 4.3 RD 488/1997 (pantallas de visualización)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 5.3 del RD 488/1997 obliga a garantizar que cada trabajador reciba una formación adecuada sobre las modalidades de uso de los equipos con pantallas de visualización:",
+    "options": [
+      "Antes de comenzar este tipo de trabajo y cada vez que la organización del puesto de trabajo se modifique de manera apreciable.",
+      "Dentro del primer mes de trabajo y, a partir de entonces, con carácter bienal.",
+      "Solo cuando el trabajador cambie de puesto de trabajo dentro de la empresa."
+    ],
+    "correct": 0,
+    "exp": "El art. 5.3 exige formación adecuada sobre las modalidades de uso antes de comenzar este tipo de trabajo y cada vez que la organización del puesto de trabajo se modifique de manera apreciable.",
+    "fuente": "Art. 5.3 RD 488/1997 (pantallas de visualización)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La disposición transitoria única del RD 488/1997 concedió, para que los equipos con pantallas de visualización ya puestos a disposición de los trabajadores antes de su entrada en vigor se ajustaran a los requisitos del anexo, un plazo de:",
+    "options": [
+      "Seis meses.",
+      "Veinticuatro meses.",
+      "Doce meses."
+    ],
+    "correct": 2,
+    "exp": "La disposición transitoria única fijó un plazo de doce meses desde la entrada en vigor del Real Decreto para adaptar al anexo los equipos ya puestos a disposición de los trabajadores.",
+    "fuente": "Disposición transitoria única RD 488/1997 (pantallas de visualización)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El anexo del RD 488/1997 exige, respecto del teclado, que:",
+    "options": [
+      "Sea de superficie brillante y esté integrado en la pantalla para ahorrar espacio en la mesa.",
+      "Sea inclinable e independiente de la pantalla, con superficie mate y con espacio suficiente delante de él para que el usuario pueda apoyar los brazos y las manos.",
+      "Disponga obligatoriamente de reposamuñecas acolchado y de teclas retroiluminadas."
+    ],
+    "correct": 1,
+    "exp": "El anexo, apartado 1.c), exige un teclado inclinable e independiente de la pantalla, con espacio suficiente delante para apoyar brazos y manos, superficie mate para evitar reflejos y símbolos de las teclas legibles desde la posición normal de trabajo.",
+    "fuente": "Anexo, apartado 1.c) RD 488/1997 (pantallas de visualización)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el anexo del RD 488/1997, el soporte de los documentos deberá:",
+    "options": [
+      "Ser estable y regulable y estar colocado de tal modo que se reduzcan al mínimo los movimientos incómodos de la cabeza y los ojos.",
+      "Estar fijado a la pared, a la izquierda de la pantalla y a la altura de los ojos del usuario.",
+      "Situarse siempre entre el teclado y el borde de la mesa."
+    ],
+    "correct": 0,
+    "exp": "El anexo, apartado 1.d), relativo a la mesa o superficie de trabajo, exige que ésta sea poco reflectante y de dimensiones suficientes y que el soporte de los documentos sea estable y regulable y esté colocado de modo que se reduzcan al mínimo los movimientos incómodos de la cabeza y los ojos.",
+    "fuente": "Anexo, apartado 1.d) RD 488/1997 (pantallas de visualización)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Respecto del asiento de trabajo, el anexo del RD 488/1997 establece que:",
+    "options": [
+      "Deberá llevar reposabrazos regulables y cinco ruedas dotadas de freno.",
+      "Su altura deberá ser regulable, el respaldo reclinable y de altura ajustable, y se pondrá un reposapiés a disposición de quienes lo deseen.",
+      "El reposapiés será obligatorio para todos los usuarios de equipos con pantalla."
+    ],
+    "correct": 1,
+    "exp": "El anexo, apartado 1.e), exige un asiento estable que proporcione libertad de movimiento y una postura confortable, con altura regulable y respaldo reclinable y de altura ajustable, y añade que «se pondrá un reposapiés a disposición de quienes lo deseen».",
+    "fuente": "Anexo, apartado 1.e) RD 488/1997 (pantallas de visualización)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El anexo del RD 488/1997, en materia de reflejos y deslumbramientos, dispone que las ventanas:",
+    "options": [
+      "Deberán permanecer cerradas durante toda la jornada de trabajo.",
+      "Se situarán siempre detrás de la pantalla para aprovechar al máximo la luz natural.",
+      "Deberán ir equipadas con un dispositivo de cobertura adecuado y regulable para atenuar la luz del día que ilumine el puesto de trabajo."
+    ],
+    "correct": 2,
+    "exp": "El anexo, apartado 2.c), obliga a instalar los puestos de forma que las fuentes de luz no provoquen deslumbramiento directo ni reflejos molestos en la pantalla, y exige que las ventanas vayan equipadas con un dispositivo de cobertura adecuado y regulable.",
+    "fuente": "Anexo, apartado 2.c) RD 488/1997 (pantallas de visualización)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En cuanto a la interconexión ordenador/persona, el anexo del RD 488/1997 señala que no deberá utilizarse ningún dispositivo cuantitativo o cualitativo de control:",
+    "options": [
+      "Sin que los trabajadores hayan sido informados y previa consulta con sus representantes.",
+      "Salvo que lo autorice previamente la Inspección de Trabajo y Seguridad Social.",
+      "En ningún caso, por resultar contrario a la intimidad de los trabajadores."
+    ],
+    "correct": 0,
+    "exp": "El anexo, apartado 3.b), tras exigir que el programa sea fácil de utilizar y adaptable al nivel de conocimientos del usuario, añade que «no deberá utilizarse ningún dispositivo cuantitativo o cualitativo de control sin que los trabajadores hayan sido informados y previa consulta con sus representantes».",
+    "fuente": "Anexo, apartado 3.b) RD 488/1997 (pantallas de visualización)",
+    "confianza": "alta"
+  }
+]);
