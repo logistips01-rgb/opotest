@@ -1,0 +1,23 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 18,
+  "fecha": "2026-08-10",
+  "preguntas": [
+    {
+      "q": "El período mínimo de permanencia en la situación de excedencia voluntaria por interés particular es de:",
+      "options": [
+        "Dos años",
+        "Un año",
+        "Seis meses",
+        "Tres años"
+      ],
+      "correct": 0,
+      "exp": "El art. 89.2 TREBEP fija en dos años la duración mínima de permanencia en esta excedencia; además, no podrá declararse cuando al funcionario se le instruya expediente disciplinario.",
+      "fuente": "Art. 89.2 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "La respuesta 'dos años' es correcta, pero NO por el artículo citado: el art. 89.2 TREBEP no fija ningún plazo de permanencia, remite a las leyes de Función Pública de desarrollo ('se determinarán los periodos mínimos de permanencia en la misma'). El plazo de dos años está en el art. 16 RD 365/1995 ('cada período de excedencia tendrá una duración no inferior a dos años continuados ni superior a un número de años equivalente a los que el funcionario acredite haber prestado (...) con un máximo de quince'). ARREGLO: cambiar la fuente al art. 16 RD 365/1995, mencionar esa norma en el enunciado y corregir la exp (la parte de 'no podrá declararse cuando se le instruya expediente disciplinario' sí es del art. 89.2 TREBEP). Tal como está, la exp enseña una atribución normativa falsa.",
+      "_motivo": "veredicto DUDOSA"
+    }
+  ]
+}
