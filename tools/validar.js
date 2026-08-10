@@ -2,74 +2,82 @@
 /* =======================================================
    Validador de bancos de preguntas
    Uso:  node tools/validar.js
-   Comprueba que cada data/<slug>.js se puede cargar, que
-   todas las preguntas están bien formadas y que el número
-   de preguntas del catálogo coincide con la realidad.
+   Comprueba, para cada oposición del catálogo:
+     · que los archivos cargan y registran bien la oposición
+     · que las preguntas están bien formadas
+     · que no hay enunciados repetidos
+     · que el recuento del catálogo coincide con la realidad
    ======================================================= */
 'use strict';
 
-const path = require('path');
-const fs = require('fs');
-const ROOT = path.join(__dirname, '..');
+const { normalizar, normalizarOpcion, catalogo, cargarOposicion } = require('./lib/cargar.js');
 
-let errores = 0;
-function error(msg){ errores++; console.log('  ✗ ' + msg); }
+let errores = 0, avisos = 0;
+const error = m=>{ errores++; console.log('  ✗ ' + m); };
+const aviso = m=>{ avisos++; console.log('  ⚠ ' + m); };
 
-/* ---- catálogo ---- */
-const catalogo = [];
-global.window = {
-  OPOSICIONES: null,
-  registerOposicion(){},
-  getOposicion(){ return null; }
-};
-const catalogSrc = fs.readFileSync(path.join(ROOT,'assets/js/catalog.js'),'utf8');
-new Function('window', catalogSrc)(global.window);
-global.window.OPOSICIONES.forEach(o=>catalogo.push(o));
+const { entradas } = catalogo();
 
-/* ---- bancos ---- */
-catalogo.forEach(meta=>{
-  let registrado = null;
-  global.window.registerOposicion = payload=>{ registrado = payload; };
-
-  const file = path.join(ROOT, meta.file);
-  if(!fs.existsSync(file)){ error(`${meta.slug}: no existe ${meta.file}`); return; }
-
+entradas.forEach(entrada=>{
+  let oposicion;
   try{
-    new Function('window', fs.readFileSync(file,'utf8'))(global.window);
+    oposicion = cargarOposicion(entrada.slug);
   }catch(e){
-    error(`${meta.slug}: error de sintaxis en ${meta.file} → ${e.message}`);
+    error(`${entrada.slug}: ${e.message}`);
     return;
   }
-  if(!registrado){ error(`${meta.slug}: ${meta.file} no llamó a registerOposicion`); return; }
-  if(registrado.slug !== meta.slug) error(`${meta.slug}: el archivo registra el slug '${registrado.slug}'`);
 
-  const {temas, questions} = registrado;
-  const ids = new Set(temas.map(t=>t.id));
-  temas.forEach(t=>{
-    if(typeof t.id !== 'number' || !t.title) error(`${meta.slug}: tema mal definido → ${JSON.stringify(t)}`);
+  const { data, cargados } = oposicion;
+  const ids = new Set(data.temas.map(t=>t.id));
+  data.temas.forEach(t=>{
+    if(typeof t.id !== 'number' || !t.title) error(`${entrada.slug}: tema mal definido → ${JSON.stringify(t)}`);
   });
 
-  let total = 0;
-  Object.keys(questions).forEach(k=>{
-    if(!ids.has(Number(k))) error(`${meta.slug}: hay preguntas del tema ${k} pero ese tema no está en TEMAS`);
-    questions[k].forEach((q,i)=>{
-      const ref = `${meta.slug} · tema ${k} · pregunta ${i+1}`;
+  const enunciados = new Map();
+  let total = 0, conFuente = 0;
+
+  Object.keys(data.questions).forEach(k=>{
+    if(!ids.has(Number(k))) error(`${entrada.slug}: hay preguntas del tema ${k} pero ese tema no está en TEMAS`);
+    data.questions[k].forEach((q,i)=>{
+      const ref = `${entrada.slug} · tema ${k} · pregunta ${i+1}`;
+      total++;
+
       if(!q.q) error(`${ref}: falta el enunciado`);
       if(!Array.isArray(q.options) || q.options.length < 2) error(`${ref}: necesita al menos 2 opciones`);
-      else if(!Number.isInteger(q.correct) || q.correct < 0 || q.correct >= q.options.length)
-        error(`${ref}: 'correct' (${q.correct}) fuera del rango de opciones`);
+      else{
+        if(!Number.isInteger(q.correct) || q.correct < 0 || q.correct >= q.options.length)
+          error(`${ref}: 'correct' (${q.correct}) fuera del rango de opciones`);
+        if(new Set(q.options.map(normalizarOpcion)).size !== q.options.length)
+          error(`${ref}: tiene opciones repetidas (una respuesta correcta puede contar como fallo)`);
+      }
       if(!q.exp) error(`${ref}: falta la explicación (exp)`);
-      total++;
+      if(q.fuente) conFuente++;
+
+      if(q.q){
+        const clave = normalizar(q.q);
+        if(enunciados.has(clave)) aviso(`${ref}: enunciado repetido (ya aparece en ${enunciados.get(clave)}); la app las distingue por su solución, pero conviene revisar si sobra una`);
+        else enunciados.set(clave, `tema ${k} · pregunta ${i+1}`);
+      }
     });
   });
 
-  const temasVacios = temas.filter(t=>!(questions[t.id]||[]).length).map(t=>t.id);
-  if(meta.preguntas !== total)
-    console.log(`  ⚠ ${meta.slug}: catalog.js dice ${meta.preguntas} preguntas y hay ${total} (actualiza 'preguntas')`);
+  if(entrada.preguntas !== total)
+    aviso(`${entrada.slug}: catalog.js dice ${entrada.preguntas} preguntas y hay ${total} (actualiza 'preguntas')`);
 
-  console.log(`  · ${meta.slug.padEnd(24)} ${String(total).padStart(5)} preguntas · ${temas.length} temas` +
-    (temasVacios.length ? ` · sin preguntas: ${temasVacios.join(', ')}` : ''));
+  const vacios = data.temas.filter(t=>!(data.questions[t.id]||[]).length).map(t=>t.id);
+  const flojos = data.temas.filter(t=>{
+    const n = (data.questions[t.id]||[]).length;
+    return n > 0 && n < 10;
+  }).map(t=>`${t.id} (${(data.questions[t.id]||[]).length})`);
+
+  console.log(`  · ${entrada.slug.padEnd(24)} ${String(total).padStart(5)} preguntas · ${data.temas.length} temas · ${conFuente} con fuente citada`);
+  console.log(`    ${cargados.length} archivo(s): ${cargados.join(', ')}`);
+  if(vacios.length) console.log(`    temas sin preguntas: ${vacios.join(', ')}`);
+  if(flojos.length) console.log(`    temas con menos de 10: ${flojos.join(', ')}`);
+  oposicion.avisos.forEach(a=>aviso(`${entrada.slug}: ${a}`));
 });
 
-console.log(errores ? `\n${errores} error(es) encontrados.` : '\nTodo correcto.');
+console.log('');
+if(errores) console.log(`${errores} error(es) y ${avisos} aviso(s).`);
+else console.log(avisos ? `Sin errores. ${avisos} aviso(s).` : 'Todo correcto.');
 process.exit(errores ? 1 : 0);

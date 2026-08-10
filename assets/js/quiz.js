@@ -34,6 +34,15 @@
   function getTemaStats(id){
     return state.progress[id] || {seen:0, correct:0};
   }
+
+  /* Identifica un fallo guardado. Hay bancos con dos preguntas de igual
+     enunciado y distractores distintos, así que el enunciado por sí solo no
+     basta: se incluye la solución para no confundirlas. Las entradas
+     antiguas, guardadas sin `sol`, siguen encajando por enunciado. */
+  function mismoFallo(f, tema, enunciado, solucion){
+    if(f.tema !== tema || f.q !== enunciado) return false;
+    return !f.sol || !solucion || f.sol === solucion;
+  }
   function temaTitle(id){
     const t = TEMAS.find(t=>t.id===id);
     return t ? t.title : 'Tema ' + id;
@@ -107,7 +116,8 @@
       pool = shuffle(pool).slice(0, MIX_SIZE);
     } else if(mode==='fails'){
       pool = state.failHistory.map(f=>{
-        const original = (QUESTIONS[f.tema]||[]).find(q=>q.q===f.q);
+        const candidatas = (QUESTIONS[f.tema]||[]).filter(q=>q.q===f.q);
+        const original = candidatas.find(q=>!f.sol || q.options[q.correct]===f.sol) || candidatas[0];
         return original ? {...original, tema:f.tema} : null;
       }).filter(Boolean);
       if(pool.length===0){
@@ -186,16 +196,21 @@
     s.seen++; if(isCorrect) s.correct++;
     state.progress[q.tema] = s;
 
-    // histórico de fallos (una entrada por enunciado)
+    // histórico de fallos (una entrada por pregunta)
+    const solucion = q.options[q.correct];
     if(!isCorrect){
-      if(!state.failHistory.find(f=>f.q===q.q)) state.failHistory.push({tema:q.tema, q:q.q});
+      if(!state.failHistory.some(f=>mismoFallo(f, q.tema, q.q, solucion))){
+        state.failHistory.push({tema:q.tema, q:q.q, sol:solucion});
+      }
     } else {
-      state.failHistory = state.failHistory.filter(f=>f.q!==q.q);
+      state.failHistory = state.failHistory.filter(f=>!mismoFallo(f, q.tema, q.q, solucion));
     }
     saveState();
 
     document.getElementById('explain-box').innerHTML = `
-      <div class="explain">${isCorrect ? '✅ ¡Correcto! ' : '❌ Incorrecto. '}${esc(q.exp||'')}</div>
+      <div class="explain">${isCorrect ? '✅ ¡Correcto! ' : '❌ Incorrecto. '}${esc(q.exp||'')}${
+        q.fuente ? `<div class="fuente">📖 ${esc(q.fuente)}</div>` : ''
+      }</div>
       <button class="next-btn" id="btn-next">${quizState.index+1 < quizState.questions.length ? 'Siguiente →' : 'Ver resultados'}</button>
     `;
     document.getElementById('btn-next').addEventListener('click', nextQuestion);

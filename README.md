@@ -8,7 +8,7 @@ GitHub Pages y usarla desde el móvil.
 
 | Oposición | Organismo | Preguntas | Estado |
 |---|---|---|---|
-| Auxiliar Administrativo | Ayuntamiento de Zaragoza | 2.582 | Banco completo (incluye el examen oficial de 1-jun-2025) |
+| Auxiliar Administrativo | Ayuntamiento de Zaragoza | 2.581 | Banco completo (incluye el examen oficial de 1-jun-2025) |
 | Policía Local | Ayuntamiento de Zaragoza | 64 | Banco inicial, pendiente de ampliar |
 | Policía Nacional · Escala Básica | Ministerio del Interior | 68 | Banco inicial, pendiente de ampliar |
 | Auxiliar Administrativo | Gobierno de Aragón (DGA) | 58 | Banco inicial, pendiente de ampliar |
@@ -24,8 +24,13 @@ assets/js/catalog.js        Catálogo de oposiciones + carga perezosa de bancos
 assets/js/storage.js        Capa de persistencia (única puerta al almacenamiento)
 assets/js/hub.js            Lógica de la pantalla de inicio
 assets/js/quiz.js           Motor de test (temas, examen mezclado, repaso de fallos)
-data/<slug>.js              Un banco de preguntas por oposición
-tools/validar.js            Comprueba que todos los bancos están bien formados
+data/<slug>.js              Banco base de una oposición
+data/<slug>.ampliacion.js   Lotes de preguntas añadidos después (opcional)
+tools/generar.md            Cómo ampliar un banco con agentes, sin colar errores
+tools/fuentes.json          Norma legal de referencia de cada tema
+tools/validar.js            Valida formato, duplicados y recuentos
+tools/fusionar.js           Integra un lote revisado en el banco
+tools/corregir-duplicados.js  Arregla preguntas con opciones repetidas
 ```
 
 Cada banco se carga **solo cuando se abre esa oposición**, inyectando su
@@ -79,6 +84,23 @@ aleatorio.
 ```bash
 node tools/validar.js
 ```
+
+## Ampliar los bancos con agentes
+
+Está documentado en **[tools/generar.md](tools/generar.md)**. En resumen: un
+agente redacta preguntas consultando el articulado, otro las verifica por
+separado contra la misma norma, y solo las confirmadas se integran:
+
+```bash
+node tools/fusionar.js lotes/aux-admin-zaragoza-t18.json --simular
+node tools/fusionar.js lotes/aux-admin-zaragoza-t18.json
+node tools/validar.js
+```
+
+Cada pregunta generada lleva un campo `fuente` con el artículo concreto, que la
+app muestra debajo de la explicación. Las que no superan la revisión quedan en
+`data/pendientes/` para decidirlas a mano: el script nunca aprueba una pregunta
+dudosa por su cuenta.
 
 ## Progreso y copia de seguridad
 

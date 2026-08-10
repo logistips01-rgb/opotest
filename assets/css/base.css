@@ -325,6 +325,14 @@ h2.section-title{
   line-height:1.4;
   color:#6b5900;
 }
+.explain .fuente{
+  margin-top:8px;
+  padding-top:8px;
+  border-top:1px solid #ffe58f;
+  font-size:11.5px;
+  font-weight:600;
+  opacity:.85;
+}
 .next-btn{
   margin-top:16px;
   width:100%;
