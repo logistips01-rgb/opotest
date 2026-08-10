@@ -102,6 +102,41 @@ app muestra debajo de la explicación. Las que no superan la revisión quedan en
 `data/pendientes/` para decidirlas a mano: el script nunca aprueba una pregunta
 dudosa por su cuenta.
 
+## Estado actual y siguiente paso
+
+Última tanda: temas 18, 19 y 20 de Zaragoza ampliados con 59 preguntas
+verificadas (de 60 generadas). Pendiente, por orden de valor:
+
+1. **Reabrir `boe.es`.** Las tandas anteriores se hicieron con el acceso
+   directo al BOE bloqueado, solo con búsqueda. Ese fue el origen de los
+   tres errores de cita detectados en el tema 18. Si al empezar una sesión
+   `curl -sS -o /dev/null -w "%{http_code}" "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"`
+   responde `200`, el bloqueo ya no está y hay que:
+   - Actualizar la sección «Limitación de red importante» de
+     [tools/generar.md](tools/generar.md): los redactores deben descargar el
+     texto consolidado y citar el artículo leído, en vez de cruzar
+     resúmenes de búsqueda.
+   - Volver a pasar un revisor sobre las 59 preguntas ya integradas de
+     `data/aux-admin-zaragoza.ampliacion.js`, esta vez contra texto literal.
+
+2. **Recuperar la pregunta apartada** de
+   `data/pendientes/aux-admin-zaragoza-t18-revisar.json`. Es correcta pero
+   cita mal la norma: el plazo mínimo de dos años en excedencia voluntaria
+   por interés particular no está en el art. 89.2 TREBEP, que lo remite a
+   las leyes de desarrollo. Falta confirmar el artículo exacto del
+   RD 365/1995 (¿15 o 16?). La nota de revisión lleva el arreglo.
+
+3. **Ampliar los tres bancos nuevos.** Policía Local Zaragoza, Policía
+   Nacional y Auxiliar Administrativo DGA suman 190 preguntas en 36 temas.
+   Las fuentes legales de cada tema están en
+   [tools/fuentes.json](tools/fuentes.json), con avisos en las materias que
+   cambian a menudo. Conviene ir por tandas de 3-4 temas para poder revisar
+   los lotes por el camino.
+
+4. **Dos enunciados repetidos** en Zaragoza (temas 8 y 14) que `validar.js`
+   marca como aviso. La app los distingue por su solución, así que no
+   rompen nada; queda decidir si sobra uno de cada par.
+
 ## Progreso y copia de seguridad
 
 El progreso (aciertos por tema y preguntas falladas) se guarda **en el
