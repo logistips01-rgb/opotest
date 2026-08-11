@@ -15044,3 +15044,527 @@ window.addQuestions('aux-admin-zaragoza', 15, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 15 · lote 2026-08-11 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 15, [
+  {
+    "q": "Según el art. 1 del Real Decreto 208/1996, de 9 de febrero, la información administrativa es un cauce adecuado a través del cual los ciudadanos pueden acceder al conocimiento de:",
+    "options": [
+      "Sus derechos y obligaciones y a la utilización de los bienes y servicios públicos",
+      "Los expedientes disciplinarios en tramitación",
+      "Las bases de datos de otros ciudadanos",
+      "El contenido de las sentencias judiciales firmes"
+    ],
+    "correct": 0,
+    "exp": "El art. 1 define la información administrativa como cauce para que los ciudadanos accedan al conocimiento de sus derechos y obligaciones y a la utilización de los bienes y servicios públicos.",
+    "fuente": "Art. 1 RD 208/1996, de 9 de febrero (BOE-A-1996-4997)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 1 del RD 208/1996, la información encomendada a las unidades y oficinas reguladas en su capítulo II podrá ser:",
+    "options": [
+      "Preceptiva o facultativa",
+      "Oral o escrita únicamente",
+      "General o particular",
+      "Pública o reservada"
+    ],
+    "correct": 2,
+    "exp": "El art. 1, párrafo segundo, dice literalmente que dicha información 'podrá ser general o particular'.",
+    "fuente": "Art. 1, párr. 2º, RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 2.1 del RD 208/1996, la información general es, entre otros extremos, la relativa a:",
+    "options": [
+      "Las retribuciones del personal funcionario de cada unidad",
+      "La identificación, fines, competencia, estructura, funcionamiento y localización de organismos y unidades administrativas",
+      "El contenido íntegro de los expedientes en tramitación de cada interesado",
+      "Los datos personales de los empleados públicos destinados en cada oficina"
+    ],
+    "correct": 1,
+    "exp": "El art. 2.1 describe la información general como la relativa a la identificación, fines, competencia, estructura, funcionamiento y localización de organismos y unidades administrativas, entre otros aspectos.",
+    "fuente": "Art. 2.1 RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 2.2 del RD 208/1996, la información general se facilitará a los ciudadanos:",
+    "options": [
+      "Solo previa acreditación de la condición de interesado",
+      "Únicamente a solicitud escrita y motivada",
+      "Obligatoriamente, sin exigir para ello la acreditación de legitimación alguna",
+      "Solo a través de representante legal"
+    ],
+    "correct": 2,
+    "exp": "El art. 2.2 establece que la información general se facilitará obligatoriamente a los ciudadanos, sin exigir para ello la acreditación de legitimación alguna.",
+    "fuente": "Art. 2.2 RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 2.3 del RD 208/1996, cuando resulte conveniente una mayor difusión, la información de carácter general deberá ofrecerse a:",
+    "options": [
+      "Los grupos sociales o instituciones que estén interesados en su conocimiento",
+      "Únicamente a los medios de comunicación social acreditados",
+      "Exclusivamente a las demás Administraciones públicas",
+      "Solo a las Cortes Generales"
+    ],
+    "correct": 0,
+    "exp": "El art. 2.3 dispone que, cuando convenga mayor difusión, la información general deberá ofrecerse a los grupos sociales o instituciones interesados en su conocimiento.",
+    "fuente": "Art. 2.3 RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 2.4 del RD 208/1996, para la difusión de la información general se potenciarán especialmente los medios que permitan:",
+    "options": [
+      "La comparecencia personal obligatoria en las oficinas",
+      "La notificación edictal en el BOE",
+      "La información a distancia (publicaciones, sistemas telefónicos u otras formas de comunicación)",
+      "La comunicación exclusivamente por vía judicial"
+    ],
+    "correct": 2,
+    "exp": "El art. 2.4 señala que se utilizarán los medios de difusión adecuados, potenciando los que permitan la información a distancia, ya se trate de publicaciones, sistemas telefónicos o cualquier otra forma de comunicación.",
+    "fuente": "Art. 2.4 RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 3.1 del RD 208/1996, la información particular sobre el estado o contenido de los procedimientos en tramitación solo podrá facilitarse a:",
+    "options": [
+      "Los medios de comunicación acreditados",
+      "Las personas que tengan la condición de interesados en cada procedimiento o a sus representantes legales",
+      "Los colegios profesionales relacionados con la materia",
+      "Cualquier ciudadano que lo solicite por escrito"
+    ],
+    "correct": 1,
+    "exp": "El art. 3.1 reserva la información particular sobre procedimientos en tramitación a quienes tengan la condición de interesados o a sus representantes legales.",
+    "fuente": "Art. 3.1 RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 3.2 del RD 208/1996, la información sobre documentos que contengan datos de carácter personal que afecten a la intimidad o privacidad de las personas físicas estará reservada a:",
+    "options": [
+      "Cualquier ciudadano que acredite un interés genérico",
+      "Las personas a que se refieran, con las limitaciones legalmente establecidas",
+      "Los medios de comunicación",
+      "Los partidos políticos con representación parlamentaria"
+    ],
+    "correct": 1,
+    "exp": "El art. 3.2 reserva esa información a las personas a que se refieran los datos, con las limitaciones y en los términos legalmente establecidos.",
+    "fuente": "Art. 3.2 RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 3.3 del RD 208/1996, ¿quién aporta la información particular?",
+    "options": [
+      "El Defensor del Pueblo",
+      "Las unidades de gestión de la Administración General del Estado",
+      "Exclusivamente el Centro de Información Administrativa",
+      "Las Cortes Generales"
+    ],
+    "correct": 1,
+    "exp": "El art. 3.3 dispone que esta información será aportada por las unidades de gestión de la Administración General del Estado.",
+    "fuente": "Art. 3.3 RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 4 del RD 208/1996, ¿cuántas funciones comprende la atención personalizada al ciudadano?",
+    "options": [
+      "Cuatro",
+      "Ocho",
+      "Seis (letras a) a f))",
+      "Diez"
+    ],
+    "correct": 2,
+    "exp": "El art. 4 enumera seis funciones, de la letra a) a la f), que comprende la atención personalizada al ciudadano.",
+    "fuente": "Art. 4 RD 208/1996 (enumeración a) a f))",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 4.a) del RD 208/1996, la función de recepción y acogida a los ciudadanos tiene como finalidad, en particular:",
+    "options": [
+      "Elaborar estadísticas de satisfacción ciudadana",
+      "Facilitar la orientación y ayuda que precisen en el momento inicial de su visita, en particular la localización de dependencias y funcionarios",
+      "Formalizar convenios de colaboración entre Administraciones",
+      "Resolver en el acto todos los procedimientos administrativos"
+    ],
+    "correct": 1,
+    "exp": "El art. 4.a) define la función de recepción y acogida como la de facilitar orientación y ayuda en el momento inicial de la visita, en particular sobre localización de dependencias y funcionarios.",
+    "fuente": "Art. 4.a) RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 4.b) del RD 208/1996, la función de orientación e información, en ningún caso podrá entrañar:",
+    "options": [
+      "La entrega de formularios normalizados",
+      "La ayuda en la cumplimentación de impresos",
+      "Una interpretación normativa, a la que se refiere el art. 37.10 de la Ley de Régimen Jurídico de las AAPP",
+      "La determinación de conceptos básicos"
+    ],
+    "correct": 2,
+    "exp": "El art. 4.b) precisa que esta forma de facilitar el ejercicio de derechos en ningún caso podrá entrañar una interpretación normativa, a la que se refiere el art. 37.10 de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.",
+    "fuente": "Art. 4.b) RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 4.c) del RD 208/1996, la función de 'gestión' de las oficinas de información y atención al ciudadano comprende la recepción de la documentación inicial de un expediente cuando así se haya dispuesto:",
+    "options": [
+      "Por costumbre administrativa",
+      "Por acuerdo verbal del interesado",
+      "Reglamentariamente",
+      "Por resolución judicial"
+    ],
+    "correct": 2,
+    "exp": "El art. 4.c) condiciona esta función de gestión a que la recepción de documentación inicial se haya dispuesto reglamentariamente.",
+    "fuente": "Art. 4.c) RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 4.d) del RD 208/1996, las iniciativas o sugerencias presentadas en las oficinas y centros de información administrativa se tramitan mediante:",
+    "options": [
+      "Un recurso de alzada",
+      "Un expediente sancionador",
+      "Las hojas del Libro de Quejas y Sugerencias",
+      "Una reclamación previa en vía administrativa"
+    ],
+    "correct": 2,
+    "exp": "El art. 4.d) remite la tramitación de iniciativas y sugerencias a las hojas del Libro de Quejas y Sugerencias, con arreglo al capítulo III del Real Decreto.",
+    "fuente": "Art. 4.d) RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 4.e) del RD 208/1996, la función de recepción de quejas y reclamaciones se refiere a las que formulen los ciudadanos por:",
+    "options": [
+      "Disconformidad con una sentencia judicial",
+      "Conflictos laborales entre empleados públicos",
+      "Discrepancias con el contenido de una ley",
+      "Tardanzas, desatenciones o cualquier otra actuación irregular en el funcionamiento de las dependencias administrativas"
+    ],
+    "correct": 3,
+    "exp": "El art. 4.e) atribuye esta función a la recepción de quejas y reclamaciones de los ciudadanos por tardanzas, desatenciones o cualquier otra actuación irregular en el funcionamiento de las dependencias administrativas.",
+    "fuente": "Art. 4.e) RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 4.f) del RD 208/1996, las unidades de información administrativa orientan a los ciudadanos sobre el ejercicio del derecho de petición reconocido en:",
+    "options": [
+      "El art. 24 de la Ley 7/1985 (LBRL)",
+      "Los arts. 23 y 105 de la Constitución",
+      "Los arts. 29 y 77 de la Constitución",
+      "El art. 43 de la Ley 30/1992"
+    ],
+    "correct": 2,
+    "exp": "El art. 4.f) atribuye a estas unidades la función de asistencia a los ciudadanos en el ejercicio del derecho de petición reconocido por los arts. 29 y 77 de la Constitución.",
+    "fuente": "Art. 4.f) RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 5.1 del RD 208/1996, la jefatura de la unidad departamental de información administrativa la ostenta:",
+    "options": [
+      "El Director del Centro de Información Administrativa",
+      "El Ministro del ramo",
+      "El titular de la Subdirección General que tenga encomendada la competencia sobre información administrativa",
+      "El Subsecretario del Departamento"
+    ],
+    "correct": 2,
+    "exp": "El art. 5.1 atribuye la jefatura de la unidad departamental al titular de la Subdirección General que tenga encomendada la competencia sobre información administrativa en cada Ministerio.",
+    "fuente": "Art. 5.1 RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 5.3.a) del RD 208/1996, entre las funciones de las unidades departamentales de información administrativa está:",
+    "options": [
+      "Ejercer la potestad sancionadora del Departamento",
+      "Dirigir las oficinas de información y atención al ciudadano del Departamento",
+      "Nombrar a los altos cargos del Ministerio",
+      "Aprobar los presupuestos generales del Departamento"
+    ],
+    "correct": 1,
+    "exp": "El art. 5.3.a) atribuye a estas unidades la función de dirigir las oficinas de información y atención al ciudadano del Departamento, incluidas las sectoriales de ámbito territorial que dependan de él.",
+    "fuente": "Art. 5.3.a) RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 5.3.b) del RD 208/1996, las unidades departamentales crean y mantienen actualizada la base de datos de información administrativa del Departamento para:",
+    "options": [
+      "Su remisión anual al Congreso",
+      "Su venta a empresas privadas",
+      "Su explotación conjunta con otros órganos administrativos",
+      "Su archivo histórico exclusivamente"
+    ],
+    "correct": 2,
+    "exp": "El art. 5.3.b) atribuye esta función con la finalidad de la explotación conjunta con otros órganos administrativos, desarrollando cooperación y colaboración en materia informativa.",
+    "fuente": "Art. 5.3.b) RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 5.4.a).1º del RD 208/1996, entre los cometidos de gestión interna de obtención, tratamiento y actualización de la información se incluye:",
+    "options": [
+      "La instrucción de expedientes disciplinarios",
+      "La relación permanente con las fuentes orgánicas de la información",
+      "La firma de convenios internacionales",
+      "La resolución de recursos de reposición"
+    ],
+    "correct": 1,
+    "exp": "El art. 5.4.a), cometido 1º, incluye la relación permanente con las fuentes orgánicas de la información entre los cometidos de gestión interna.",
+    "fuente": "Art. 5.4.a).1º RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 5.4.b) del RD 208/1996, entre los cometidos de distribución y difusión de la información está:",
+    "options": [
+      "La convocatoria de procesos selectivos",
+      "La imposición de sanciones disciplinarias",
+      "La distribución a las unidades dependientes de la propia organización y a las unidades exteriores",
+      "La aprobación de los presupuestos generales del Estado"
+    ],
+    "correct": 2,
+    "exp": "El art. 5.4.b), en sus cometidos 2º y 3º, incluye la distribución a las unidades dependientes de la propia organización y a las unidades exteriores.",
+    "fuente": "Art. 5.4.b) RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 6.1 del RD 208/1996, el Centro de Información Administrativa se halla adscrito a:",
+    "options": [
+      "El Congreso de los Diputados",
+      "El Ministerio de Justicia",
+      "La Presidencia del Gobierno directamente",
+      "La Secretaría de Estado para la Administración Pública, a través de la Inspección General de Servicios"
+    ],
+    "correct": 3,
+    "exp": "El art. 6.1 adscribe el Centro de Información Administrativa a la Secretaría de Estado para la Administración Pública, a través de la Inspección General de Servicios de la Administración Pública.",
+    "fuente": "Art. 6.1 RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 6.1 del RD 208/1996, el Centro de Información Administrativa tiene el nivel orgánico de:",
+    "options": [
+      "Subsecretaría",
+      "Secretaría General Técnica",
+      "Subdirección General",
+      "Dirección General"
+    ],
+    "correct": 2,
+    "exp": "El art. 6.1 atribuye al Centro de Información Administrativa nivel orgánico de Subdirección General.",
+    "fuente": "Art. 6.1 RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 6.2.a) del RD 208/1996, el Centro de Información Administrativa mantiene actualizadas y distribuye las bases de datos de:",
+    "options": [
+      "Los organismos internacionales",
+      "Las entidades locales exclusivamente",
+      "Las Comunidades Autónomas únicamente",
+      "La Administración General del Estado, con la colaboración de las unidades departamentales"
+    ],
+    "correct": 3,
+    "exp": "El art. 6.2.a) atribuye al Centro esta función referida a la Administración General del Estado, con colaboración de las demás unidades departamentales de información administrativa.",
+    "fuente": "Art. 6.2.a) RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 6.2.b) del RD 208/1996, el sistema de información administrativa al ciudadano que sostiene el Centro de Información Administrativa es, eminentemente:",
+    "options": [
+      "Presencial exclusivamente",
+      "Postal",
+      "Telefónico",
+      "Telegráfico"
+    ],
+    "correct": 2,
+    "exp": "El art. 6.2.b) describe este sistema de información al ciudadano como eminentemente telefónico, mediante el establecimiento y coordinación de centros y oficinas centralizadas de información.",
+    "fuente": "Art. 6.2.b) RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 6.2.c) del RD 208/1996, el Centro de Información Administrativa coopera en el desarrollo de las unidades y oficinas de información de los demás Departamentos procurando, en particular:",
+    "options": [
+      "Centralizar toda la información en un único registro secreto",
+      "Externalizar el servicio a empresas privadas",
+      "Mantener la necesaria coordinación y cohesión para lograr un nivel y un sistema homogéneos de atención al ciudadano",
+      "Suprimir las oficinas de menor actividad"
+    ],
+    "correct": 2,
+    "exp": "El art. 6.2.c) señala que esta cooperación busca mantener la necesaria coordinación y cohesión entre las oficinas para lograr un nivel y un sistema homogéneos de atención al ciudadano.",
+    "fuente": "Art. 6.2.c) RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 7.1 del RD 208/1996, todas las oficinas de información y atención al ciudadano realizan las funciones del capítulo I y los cometidos de gestión interna que les delegue o encomiende:",
+    "options": [
+      "La Comisión Nacional de la Competencia",
+      "El Centro de Información Administrativa o la unidad de información administrativa respectiva",
+      "El Ministerio de Justicia",
+      "El Tribunal de Cuentas"
+    ],
+    "correct": 1,
+    "exp": "El art. 7.1 atribuye la delegación o encomienda de estos cometidos al Centro de Información Administrativa o a la unidad de información administrativa respectiva, según los recursos disponibles.",
+    "fuente": "Art. 7.1 RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 8 del RD 208/1996, ¿cuántos tipos de oficinas de información y atención al ciudadano existen en los servicios centrales?",
+    "options": [
+      "Cuatro",
+      "Una sola",
+      "Tres",
+      "Dos"
+    ],
+    "correct": 3,
+    "exp": "El art. 8 distingue dos tipos: las oficinas centrales de información y atención al ciudadano (letra a) y las de entidades de derecho público vinculadas o dependientes (letra b).",
+    "fuente": "Art. 8 RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 8.a) del RD 208/1996, las oficinas centrales de información y atención al ciudadano radicarán, salvo circunstancias singulares, en:",
+    "options": [
+      "La sede de la Presidencia del Gobierno únicamente",
+      "La capital de cada provincia",
+      "La sede de cada Departamento ministerial",
+      "La sede del Ministerio de Hacienda exclusivamente"
+    ],
+    "correct": 2,
+    "exp": "El art. 8.a) sitúa estas oficinas centrales en la sede de cada Departamento ministerial, salvo que circunstancias singulares aconsejen otro emplazamiento.",
+    "fuente": "Art. 8.a) RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 9.1 del RD 208/1996, existirán oficinas centrales de información y atención al ciudadano dependientes de:",
+    "options": [
+      "Los Juzgados de Primera Instancia",
+      "Las Diputaciones Provinciales",
+      "Los Ayuntamientos exclusivamente",
+      "Las Delegaciones del Gobierno en las Comunidades Autónomas, los Gobiernos Civiles y las Delegaciones Insulares del Gobierno"
+    ],
+    "correct": 3,
+    "exp": "El art. 9.1 atribuye este carácter de oficinas centrales a las dependientes de las Delegaciones del Gobierno en las Comunidades Autónomas, los Gobiernos Civiles y las Delegaciones Insulares del Gobierno.",
+    "fuente": "Art. 9.1 RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 9.2 del RD 208/1996 (en su redacción conforme a la corrección de errores publicada en el BOE núm. 75, de 27 de marzo de 1996), podrán existir oficinas de carácter sectorial en los servicios y dependencias provinciales cuando:",
+    "options": [
+      "Lo solicite la Unión Europea",
+      "Lo exija una sentencia judicial firme",
+      "El volumen y la especialidad de la demanda informativa justifiquen su existencia",
+      "Lo decida el Ayuntamiento correspondiente"
+    ],
+    "correct": 2,
+    "exp": "El art. 9.2 condiciona la existencia de estas oficinas sectoriales provinciales a que el volumen y la especialidad de la demanda informativa la justifiquen.",
+    "fuente": "Art. 9.2 RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 9.3 del RD 208/1996, las oficinas de carácter central asumen, respecto a las demás oficinas de su ámbito territorial, funciones de:",
+    "options": [
+      "Potestad expropiatoria",
+      "Coordinación, apoyo y tutela propias de las unidades informativas departamentales",
+      "Régimen disciplinario",
+      "Inspección tributaria"
+    ],
+    "correct": 1,
+    "exp": "El art. 9.3 atribuye a las oficinas centrales, respecto de las demás de su ámbito territorial, las funciones de coordinación, apoyo y tutela propias de las unidades informativas departamentales.",
+    "fuente": "Art. 9.3 RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 9.4 del RD 208/1996, todas las oficinas de información y atención al ciudadano deben transmitir al Centro de Información Administrativa:",
+    "options": [
+      "La relación de puestos de trabajo vacantes",
+      "El presupuesto anual de la oficina",
+      "Las variaciones que experimenten los datos referentes a los órganos de la AGE y entidades vinculadas en su ámbito territorial",
+      "El número de quejas presentadas por cada funcionario"
+    ],
+    "correct": 2,
+    "exp": "El art. 9.4 impone a todas las oficinas la obligación de transmitir al Centro de Información Administrativa (y, en su caso, a la unidad departamental) las variaciones que experimenten esos datos.",
+    "fuente": "Art. 9.4 RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 9.5 del RD 208/1996, el Centro de Información Administrativa actúa, respecto a las unidades territoriales, como:",
+    "options": [
+      "Autoridad de protección de datos",
+      "Órgano de control presupuestario",
+      "Coordinador territorial de la información administrativa",
+      "Órgano de apelación jerárquica"
+    ],
+    "correct": 2,
+    "exp": "El art. 9.5 atribuye al Centro de Información Administrativa la función de coordinador territorial de la información administrativa, para asegurar la conexión funcional permanente entre las unidades territoriales y con el propio Centro.",
+    "fuente": "Art. 9.5 RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 10 del RD 208/1996, mediante convenio de colaboración suscrito entre distintas Administraciones públicas podrá acordarse:",
+    "options": [
+      "La supresión de las oficinas de información existentes",
+      "La delegación de la potestad legislativa",
+      "Que desde las oficinas de información de cualquiera de ellas se ofrezca al ciudadano información de las otras, incluida la creación de oficinas integradas",
+      "La cesión de la titularidad del patrimonio público"
+    ],
+    "correct": 2,
+    "exp": "El art. 10 permite, mediante convenio de colaboración, que las oficinas de una Administración ofrezcan información de otras, articulando mecanismos de comunicación e incluso oficinas integradas con participación de varias Administraciones.",
+    "fuente": "Art. 10 RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 14 del RD 208/1996, los órganos colegiados de información administrativa ajustan su régimen jurídico y actuación a lo dispuesto en la sección correspondiente y en:",
+    "options": [
+      "El Reglamento del Congreso de los Diputados",
+      "La Ley 50/1997, del Gobierno",
+      "El Título I de la Constitución Española",
+      "El capítulo II del Título II de la Ley 30/1992, de 26 de noviembre"
+    ],
+    "correct": 3,
+    "exp": "El art. 14 remite el régimen jurídico y la actuación de estos órganos colegiados al capítulo II del Título II de la Ley 30/1992, de 26 de noviembre.",
+    "fuente": "Art. 14 RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la disposición adicional única del RD 208/1996, la regulación de la información y atención a los ciudadanos en hospitales e instituciones dependientes del INSALUD corresponde aprobarla a:",
+    "options": [
+      "Cada Comunidad Autónoma, sin excepción",
+      "El Instituto Nacional de Administración Pública",
+      "El Ministerio de Sanidad y Consumo",
+      "El Ministerio para las Administraciones Públicas"
+    ],
+    "correct": 2,
+    "exp": "La disposición adicional única reserva al Ministerio de Sanidad y Consumo la aprobación de las disposiciones que regulen la información y atención a los ciudadanos en hospitales e instituciones sanitarias del INSALUD.",
+    "fuente": "Disposición adicional única RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la disposición transitoria única, apartado 1, del RD 208/1996, la adaptación organizativa y de funcionamiento que debe llevar a cabo cada Departamento ministerial se efectuará en el plazo de:",
+    "options": [
+      "Un mes",
+      "Tres meses",
+      "Un año",
+      "Seis meses desde su entrada en vigor"
+    ],
+    "correct": 3,
+    "exp": "La disposición transitoria única.1 fija en seis meses, desde la entrada en vigor del Real Decreto, el plazo para la adaptación organizativa y de funcionamiento de cada Departamento.",
+    "fuente": "Disposición transitoria única, apartado 1, RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la disposición derogatoria única del RD 208/1996, queda derogado, entre otras normas:",
+    "options": [
+      "El Real Decreto 221/1987, de 20 de febrero",
+      "La Ley 30/1992, de 26 de noviembre",
+      "La Ley de Procedimiento Administrativo de 1958 en su totalidad",
+      "El Decreto 93/1965, de 28 de enero"
+    ],
+    "correct": 3,
+    "exp": "La disposición derogatoria única deroga expresamente el Decreto 93/1965, de 28 de enero, junto con las órdenes ministeriales de 22 de octubre de 1958 y de 5 de enero de 1959.",
+    "fuente": "Disposición derogatoria única RD 208/1996",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la disposición final segunda del RD 208/1996, su entrada en vigor se produce:",
+    "options": [
+      "A los tres meses de su publicación",
+      "El 1 de enero de 1997",
+      "El día siguiente al de su publicación en el BOE",
+      "A los veinte días de su publicación"
+    ],
+    "correct": 2,
+    "exp": "La disposición final segunda establece que el Real Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Estado.",
+    "fuente": "Disposición final segunda RD 208/1996",
+    "confianza": "alta"
+  }
+]);
