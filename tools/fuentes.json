@@ -31,6 +31,13 @@
         "Real Decreto 2568/1986, Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales (ROF), en lo relativo al procedimiento de elaboración de ordenanzas y a las Comisiones Informativas"
       ]
     },
+    "13": {
+      "titulo": "Haciendas Locales (II): presupuesto, gasto público, tesorería, contabilidad y control",
+      "normas": [
+        "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales (TRLRHL), Título VI 'Presupuesto y gasto público' (arts. 162 a 223): presupuesto general (Cap. I, arts. 162-169), créditos y sus modificaciones (Cap. II, arts. 172-182), ejecución de los presupuestos (Cap. III, arts. 183-190), liquidación de los presupuestos (Cap. IV, arts. 191-193 bis), tesorería (Cap. V, arts. 194-199), contabilidad (Cap. VI, arts. 200-212) y control y fiscalización (Cap. VII, arts. 213-223)"
+      ],
+      "aviso": "Verificar el ID BOE exacto del TRLRHL por curl antes de generar (probable BOE-A-2004-4214, pero no asumir de memoria)."
+    },
     "14": {
       "titulo": "El municipio: organización y competencias. Régimen especial de Zaragoza",
       "normas": [
