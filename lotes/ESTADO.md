@@ -170,6 +170,38 @@ sin usar las disposiciones transitorias del reglamento, de escaso valor por
 sus remisiones a la Ley 30/1984 con fechas de los años 80-90). Como en los
 temas 19 y 20, llegar a 500 con estas mismas fuentes sería relleno.
 
+## Tema 17 · Empleados públicos I: clases — PRIMERA VUELTA CERRADA
+
+**340 preguntas** (de 100 que había, sin cita de fuente ninguna de ellas —
+venían del banco original). Seis lotes de 40 sobre territorio de TREBEP que
+las 100 preguntas originales no tocaban: retribuciones (huecos), negociación
+colectiva, deberes y código de conducta, pérdida de la relación de servicio,
+huecos del Título II y ordenación de la actividad profesional.
+
+| Lote | Tramo | Confirmadas | Corregidas | Rechazadas |
+|---|---|---|---|---|
+| A | TREBEP arts. 21-30 (retribuciones, huecos) | 40 | 0 | 0 |
+| B | TREBEP arts. 31-46 (negociación colectiva) | 40 | 0 | 0 |
+| C | TREBEP arts. 52-54 (deberes y código de conducta) | 40 | 0 | 0 |
+| D | TREBEP arts. 63-68 (pérdida de la relación de servicio) | 40 | 0 | 0 |
+| E | TREBEP arts. 8-13 (huecos del Título II) | 40 | 0 | 0 |
+| F | TREBEP arts. 69-84 (ordenación de la actividad profesional) | 40 | 0 | 0 |
+
+**240 de 240 sin tocar, 0 corregidas, 0 rechazadas.** El tema con menos ruido
+de la campaña, igualado con el 19. Dos autocorrecciones de numeración de
+capítulo, sin afectar al contenido: el tramo de negociación colectiva es el
+Capítulo IV del Título III (no el V, como decía el encargo original), y el de
+retribuciones el Capítulo III (mismo error). El lote F confirmó que el Título
+V comprende los arts. 69 a 84 en tres capítulos (planificación de RRHH,
+estructuración del empleo público, provisión y movilidad).
+
+Con 340 preguntas, **este tema todavía no llega a 500**: quedan 160. A
+diferencia de los temas 18-20, aquí sí queda margen real dentro de las mismas
+fuentes, porque el propio TREBEP es una ley larga y varios lotes dejaron
+material sin explotar (el lote B, por ejemplo, dejó sin usar buena parte del
+art. 37 y de los arts. 38-46). Candidata natural para una segunda vuelta antes
+de recurrir a otras normas.
+
 ## Temas siguientes, cuando el 20 esté cerrado
 
 Del 19 hacia atrás. Estado y déficit hasta 500:
@@ -178,7 +210,7 @@ Del 19 hacia atrás. Estado y déficit hasta 500:
 |---|---|---|
 | 19 · FP local | 265 | 235 |
 | 18 · Situaciones y disciplinario | 262 | 238 |
-| 17 · Empleados públicos: clases | 100 | 400 |
+| 17 · Empleados públicos: clases | 340 | 160 |
 | 16 · Reglamentos y ordenanzas | 100 | 400 |
 | 15 · Participación ciudadana | 150 | 350 |
 | 14 · Municipio y régimen especial Zgz | 349 | 151 |
