@@ -6,10 +6,10 @@ const fs = require('fs');
 const path = require('path');
 const { cargarOposicion } = require('./lib/cargar.js');
 
+const archivoEntrada = process.argv[2] || path.join(__dirname, '..', 'lotes', 'importacion-3opc-policia.json');
+
 const { meta, data } = cargarOposicion('policia-local-zaragoza');
-const nuevas = JSON.parse(
-  fs.readFileSync(path.join(__dirname, '..', 'lotes', 'importacion-3opc-policia.json'), 'utf8')
-);
+const nuevas = JSON.parse(fs.readFileSync(archivoEntrada, 'utf8'));
 
 const questions = {};
 Object.keys(data.questions).forEach(t => { questions[t] = data.questions[t].slice(); });

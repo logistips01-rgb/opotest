@@ -1,0 +1,4838 @@
+{
+  "1": [
+    {
+      "q": "¿En qué fecha se celebró el referéndum de aprobación de la Constitución Española?",
+      "options": [
+        "6 de diciembre de 1978",
+        "29 de diciembre de 1978",
+        "15 de diciembre de 1978"
+      ],
+      "correct": 0,
+      "exp": "El referéndum se celebró el 6 de diciembre de 1978."
+    },
+    {
+      "q": "¿En qué número del BOE se publicó la Constitución Española?",
+      "options": [
+        "BOE núm. 1",
+        "BOE núm. 366",
+        "BOE núm. 311"
+      ],
+      "correct": 2,
+      "exp": "Se publicó en el «BOE» núm. 311, de 29 de diciembre de 1978."
+    },
+    {
+      "q": "¿Cuándo entró en vigor la Constitución Española de 1978?",
+      "options": [
+        "El mismo día de su publicación en el BOE, el 29 de diciembre de 1978",
+        "20 días después de su publicación",
+        "El 1 de enero de 1979"
+      ],
+      "correct": 0,
+      "exp": "La Constitución entró en vigor el mismo día de su publicación en el BOE: 29 de diciembre de 1978."
+    },
+    {
+      "q": "¿Cuántos ponentes compusieron la ponencia constitucional encargada de redactar el anteproyecto de Constitución, conocidos popularmente como los 'padres de la Constitución'?",
+      "options": [
+        "5",
+        "7",
+        "9"
+      ],
+      "correct": 1,
+      "exp": "La ponencia constitucional estuvo formada por siete miembros, comúnmente conocidos como los 'padres de la Constitución'."
+    },
+    {
+      "q": "La Constitución de 1978 ha sido calificada históricamente como la Constitución:",
+      "options": [
+        "De la ruptura",
+        "De la restauración",
+        "Del consenso"
+      ],
+      "correct": 2,
+      "exp": "Se redactó a partir de negociaciones y acuerdos entre los distintos partidos con representación parlamentaria, por lo que ha sido calificada como la 'Constitución del consenso'."
+    },
+    {
+      "q": "¿Quién sancionó y promulgó la Constitución Española de 1978?",
+      "options": [
+        "Juan Carlos I",
+        "Adolfo Suárez",
+        "El Consejo del Reino"
+      ],
+      "correct": 0,
+      "exp": "La Constitución fue sancionada por el Rey Don Juan Carlos I, tal y como consta en su encabezamiento."
+    },
+    {
+      "q": "Según el Preámbulo, la Constitución fue aprobada por las Cortes y ratificada por:",
+      "options": [
+        "El Rey exclusivamente",
+        "El pueblo español",
+        "El Tribunal Constitucional"
+      ],
+      "correct": 1,
+      "exp": "El texto constitucional señala: 'las Cortes aprueban y el pueblo español ratifica la siguiente Constitución.'"
+    },
+    {
+      "q": "Según el artículo 1.1 CE, España se constituye en un Estado:",
+      "options": [
+        "Liberal de Derecho",
+        "Federal de Derecho",
+        "Social y democrático de Derecho"
+      ],
+      "correct": 2,
+      "exp": "Art. 1.1: 'España se constituye en un Estado social y democrático de Derecho...'"
+    },
+    {
+      "q": "¿Cuál de los siguientes NO es uno de los valores superiores del ordenamiento jurídico recogidos en el art. 1.1 CE?",
+      "options": [
+        "La solidaridad",
+        "La libertad",
+        "La justicia"
+      ],
+      "correct": 0,
+      "exp": "El art. 1.1 recoge como valores superiores la libertad, la justicia, la igualdad y el pluralismo político; la solidaridad se menciona en el art. 2, no aquí."
+    },
+    {
+      "q": "Según el art. 1.2 CE, ¿dónde reside la soberanía nacional?",
+      "options": [
+        "En el Rey",
+        "En el pueblo español",
+        "En el Gobierno"
+      ],
+      "correct": 1,
+      "exp": "Art. 1.2: 'La soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado.'"
+    },
+    {
+      "q": "Según el art. 1.3 CE, ¿cuál es la forma política del Estado español?",
+      "options": [
+        "República parlamentaria",
+        "Monarquía absoluta",
+        "Monarquía parlamentaria"
+      ],
+      "correct": 2,
+      "exp": "Art. 1.3: 'La forma política del Estado español es la Monarquía parlamentaria.'"
+    },
+    {
+      "q": "Según el art. 2 CE, la Constitución se fundamenta en:",
+      "options": [
+        "La indisoluble unidad de la Nación española",
+        "La federación libre de territorios",
+        "La confederación de nacionalidades"
+      ],
+      "correct": 0,
+      "exp": "Art. 2: 'La Constitución se fundamenta en la indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles...'"
+    },
+    {
+      "q": "El art. 2 CE reconoce y garantiza el derecho a la autonomía de:",
+      "options": [
+        "Únicamente las provincias",
+        "Las nacionalidades y regiones que integran España",
+        "Las Fuerzas Armadas"
+      ],
+      "correct": 1,
+      "exp": "Art. 2: '...reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas.'"
+    },
+    {
+      "q": "Además de la autonomía, el art. 2 CE reconoce entre las nacionalidades y regiones:",
+      "options": [
+        "La igualdad absoluta de rentas",
+        "La subordinación jerárquica",
+        "La solidaridad entre todas ellas"
+      ],
+      "correct": 2,
+      "exp": "Art. 2 CE reconoce y garantiza tanto el derecho a la autonomía como 'la solidaridad entre todas ellas'."
+    },
+    {
+      "q": "Según el art. 3.1 CE, el castellano es:",
+      "options": [
+        "La lengua española oficial del Estado",
+        "Una lengua cooficial más",
+        "La lengua oficial solo en algunas CCAA"
+      ],
+      "correct": 0,
+      "exp": "Art. 3.1: 'El castellano es la lengua española oficial del Estado.'"
+    },
+    {
+      "q": "Según el art. 3.1 CE, los españoles tienen el deber de conocer el castellano y el derecho a:",
+      "options": [
+        "Enseñarla obligatoriamente",
+        "Usarla",
+        "Sustituirla por otras lenguas"
+      ],
+      "correct": 1,
+      "exp": "Art. 3.1: 'Todos los españoles tienen el deber de conocerla y el derecho a usarla.'"
+    },
+    {
+      "q": "Según el art. 3.2 CE, las demás lenguas españolas serán también oficiales en las respectivas Comunidades Autónomas de acuerdo con:",
+      "options": [
+        "Un Real Decreto estatal",
+        "El Reglamento del Congreso",
+        "Sus Estatutos"
+      ],
+      "correct": 2,
+      "exp": "Art. 3.2: '...serán también oficiales en las respectivas Comunidades Autónomas de acuerdo con sus Estatutos.'"
+    },
+    {
+      "q": "El art. 3.3 CE califica la riqueza de las distintas modalidades lingüísticas de España como:",
+      "options": [
+        "Un patrimonio cultural objeto de especial respeto y protección",
+        "Un obstáculo a la unidad nacional",
+        "Un elemento a erradicar progresivamente"
+      ],
+      "correct": 0,
+      "exp": "Art. 3.3: 'La riqueza de las distintas modalidades lingüísticas de España es un patrimonio cultural que será objeto de especial respeto y protección.'"
+    },
+    {
+      "q": "Según el art. 4.1 CE, ¿de qué colores son las tres franjas horizontales de la bandera de España?",
+      "options": [
+        "Roja, amarilla y verde",
+        "Roja, amarilla y roja",
+        "Amarilla, roja y amarilla"
+      ],
+      "correct": 1,
+      "exp": "Art. 4.1: 'La bandera de España está formada por tres franjas horizontales, roja, amarilla y roja...'"
+    },
+    {
+      "q": "Según el art. 4.1 CE, ¿qué franja de la bandera de España tiene doble anchura que las otras dos?",
+      "options": [
+        "La primera franja roja",
+        "La segunda franja roja",
+        "La franja amarilla"
+      ],
+      "correct": 2,
+      "exp": "Art. 4.1: '...siendo la amarilla de doble anchura que cada una de las rojas.'"
+    },
+    {
+      "q": "Según el art. 4.2 CE, las banderas propias de las Comunidades Autónomas se utilizarán:",
+      "options": [
+        "Junto a la bandera de España en sus edificios públicos y actos oficiales",
+        "En sustitución de la bandera de España",
+        "Solo en actos deportivos"
+      ],
+      "correct": 0,
+      "exp": "Art. 4.2: '...se utilizarán junto a la bandera de España en sus edificios públicos y en sus actos oficiales.'"
+    },
+    {
+      "q": "Según el art. 5 CE, ¿cuál es la capital del Estado?",
+      "options": [
+        "Toledo",
+        "Madrid",
+        "Sevilla"
+      ],
+      "correct": 1,
+      "exp": "Art. 5: 'La capital del Estado es la villa de Madrid.'"
+    },
+    {
+      "q": "Según el art. 6 CE, los partidos políticos expresan:",
+      "options": [
+        "La soberanía compartida",
+        "El monopolio de la representación",
+        "El pluralismo político"
+      ],
+      "correct": 2,
+      "exp": "Art. 6: 'Los partidos políticos expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular...'"
+    },
+    {
+      "q": "Según el art. 6 CE, la creación de partidos políticos y el ejercicio de su actividad son libres dentro del respeto a:",
+      "options": [
+        "La Constitución y la ley",
+        "El programa del Gobierno",
+        "La Junta Electoral Central"
+      ],
+      "correct": 0,
+      "exp": "Art. 6: 'Su creación y el ejercicio de su actividad son libres dentro del respeto a la Constitución y a la ley.'"
+    },
+    {
+      "q": "Según el art. 6 CE, la estructura interna y el funcionamiento de los partidos políticos deberán ser:",
+      "options": [
+        "Jerárquicos",
+        "Democráticos",
+        "Confederales"
+      ],
+      "correct": 1,
+      "exp": "Art. 6, última frase: 'Su estructura interna y funcionamiento deberán ser democráticos.'"
+    },
+    {
+      "q": "Según el art. 7 CE, ¿quiénes contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios?",
+      "options": [
+        "Solo los sindicatos de trabajadores",
+        "Los colegios profesionales",
+        "Los sindicatos de trabajadores y las asociaciones empresariales"
+      ],
+      "correct": 2,
+      "exp": "Art. 7: 'Los sindicatos de trabajadores y las asociaciones empresariales contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios.'"
+    },
+    {
+      "q": "Según el art. 8.1 CE, ¿por qué cuerpos están constituidas las Fuerzas Armadas?",
+      "options": [
+        "Ejército de Tierra, la Armada y el Ejército del Aire",
+        "Guardia Civil, Policía Nacional y Ejército de Tierra",
+        "Solo el Ejército de Tierra y la Armada"
+      ],
+      "correct": 0,
+      "exp": "Art. 8.1: 'Las Fuerzas Armadas, constituidas por el Ejército de Tierra, la Armada y el Ejército del Aire...'"
+    },
+    {
+      "q": "Según el art. 8.1 CE, la misión de las Fuerzas Armadas es garantizar la soberanía e independencia de España, defender su integridad territorial y:",
+      "options": [
+        "El orden público en todo momento",
+        "El ordenamiento constitucional",
+        "La política exterior del Gobierno"
+      ],
+      "correct": 1,
+      "exp": "Art. 8.1: '...tienen como misión garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional.'"
+    },
+    {
+      "q": "Según el art. 8.2 CE, ¿qué tipo de norma regula las bases de la organización militar?",
+      "options": [
+        "Real Decreto",
+        "Ley ordinaria",
+        "Ley orgánica"
+      ],
+      "correct": 2,
+      "exp": "Art. 8.2: 'Una ley orgánica regulará las bases de la organización militar conforme a los principios de la presente Constitución.'"
+    },
+    {
+      "q": "Según el art. 9.1 CE, los ciudadanos y los poderes públicos están sujetos a:",
+      "options": [
+        "La Constitución y al resto del ordenamiento jurídico",
+        "Únicamente a las leyes orgánicas",
+        "Los tratados internacionales exclusivamente"
+      ],
+      "correct": 0,
+      "exp": "Art. 9.1: 'Los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico.'"
+    },
+    {
+      "q": "Según el art. 9.2 CE, corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad sean:",
+      "options": [
+        "Formales y declarativas",
+        "Reales y efectivas",
+        "Progresivas y limitadas"
+      ],
+      "correct": 1,
+      "exp": "Art. 9.2: '...promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas...'"
+    },
+    {
+      "q": "El art. 9.2 CE también encomienda a los poderes públicos facilitar la participación de todos los ciudadanos en la vida:",
+      "options": [
+        "Exclusivamente política",
+        "Religiosa y política",
+        "Política, económica, cultural y social"
+      ],
+      "correct": 2,
+      "exp": "Art. 9.2: '...facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social.'"
+    },
+    {
+      "q": "¿Cuál de los siguientes principios NO aparece expresamente en el art. 9.3 CE?",
+      "options": [
+        "La presunción de inocencia",
+        "La jerarquía normativa",
+        "La publicidad de las normas"
+      ],
+      "correct": 0,
+      "exp": "El art. 9.3 recoge legalidad, jerarquía normativa, publicidad de las normas, irretroactividad de disposiciones sancionadoras no favorables, seguridad jurídica, responsabilidad e interdicción de la arbitrariedad. La presunción de inocencia se regula en el art. 24.2."
+    },
+    {
+      "q": "Según el art. 9.3 CE, la irretroactividad de las disposiciones sancionadoras se predica de aquellas que sean no favorables o restrictivas de:",
+      "options": [
+        "Potestades administrativas",
+        "Derechos individuales",
+        "Facultades del Gobierno"
+      ],
+      "correct": 1,
+      "exp": "Art. 9.3: '...la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales...'"
+    },
+    {
+      "q": "Según el art. 9.3 CE, junto a la seguridad jurídica y la responsabilidad, la Constitución garantiza la interdicción de:",
+      "options": [
+        "La iniciativa legislativa popular",
+        "La disolución de las Cortes",
+        "La arbitrariedad de los poderes públicos"
+      ],
+      "correct": 2,
+      "exp": "Art. 9.3 in fine: '...la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos.'"
+    },
+    {
+      "q": "¿Cuál de estos principios SÍ figura expresamente en el art. 9.3 CE?",
+      "options": [
+        "La jerarquía normativa",
+        "La tutela judicial efectiva",
+        "La unidad de mercado"
+      ],
+      "correct": 0,
+      "exp": "El art. 9.3 enumera: legalidad, jerarquía normativa, publicidad de las normas, irretroactividad sancionadora desfavorable, seguridad jurídica, responsabilidad e interdicción de la arbitrariedad."
+    },
+    {
+      "q": "El Título Preliminar de la Constitución Española comprende los artículos:",
+      "options": [
+        "1 a 15",
+        "1 a 9",
+        "1 a 8"
+      ],
+      "correct": 1,
+      "exp": "El Título Preliminar abarca los artículos 1 a 9, antes de que comience el Título I (art. 10 en adelante)."
+    },
+    {
+      "q": "¿Cuántos artículos tiene la Constitución Española, sin contar disposiciones adicionales, transitorias, derogatoria y final?",
+      "options": [
+        "178",
+        "149",
+        "169"
+      ],
+      "correct": 2,
+      "exp": "La Constitución consta de 169 artículos articulados en un Título Preliminar y diez Títulos (I a X)."
+    },
+    {
+      "q": "Tras el Título Preliminar, la Constitución se estructura en:",
+      "options": [
+        "Doce títulos numerados del I al XII",
+        "Diez títulos numerados del I al X",
+        "Cinco títulos numerados del I al V"
+      ],
+      "correct": 1,
+      "exp": "La Constitución tiene diez títulos (I a X) además del Título Preliminar."
+    },
+    {
+      "q": "¿Cuál de las siguientes NO es parte de las disposiciones finales del articulado de la Constitución?",
+      "options": [
+        "Disposiciones adicionales",
+        "Disposición derogatoria",
+        "Disposición inicial"
+      ],
+      "correct": 2,
+      "exp": "Tras el Título X, la Constitución incluye disposiciones adicionales, transitorias, una disposición derogatoria y una disposición final; no existe una 'disposición inicial'."
+    },
+    {
+      "q": "Según el Preámbulo, la Nación española proclama su voluntad de consolidar un Estado de Derecho que asegure:",
+      "options": [
+        "El imperio de la ley como expresión de la voluntad popular",
+        "El poder absoluto del Jefe del Estado",
+        "El monopolio estatal de la economía"
+      ],
+      "correct": 0,
+      "exp": "El Preámbulo proclama la voluntad de 'Consolidar un Estado de Derecho que asegure el imperio de la ley como expresión de la voluntad popular.'"
+    },
+    {
+      "q": "Entre las voluntades que proclama el Preámbulo de la Constitución se encuentra establecer una:",
+      "options": [
+        "Monarquía absoluta reformada",
+        "Sociedad democrática avanzada",
+        "Confederación de reinos históricos"
+      ],
+      "correct": 1,
+      "exp": "El Preámbulo proclama, entre otras voluntades, 'Establecer una sociedad democrática avanzada'."
+    },
+    {
+      "q": "¿Cuántas disposiciones adicionales tiene la Constitución Española tras su articulado?",
+      "options": [
+        "Tres",
+        "Cuatro",
+        "Seis"
+      ],
+      "correct": 1,
+      "exp": "La Constitución cuenta con cuatro disposiciones adicionales (primera a cuarta)."
+    },
+    {
+      "q": "Según el Preámbulo, la Nación española proclama su voluntad 'en uso de su':",
+      "options": [
+        "Autoridad delegada",
+        "Potestad reglamentaria",
+        "Soberanía"
+      ],
+      "correct": 2,
+      "exp": "El Preámbulo comienza: 'La Nación española... en uso de su soberanía, proclama su voluntad de...'"
+    },
+    {
+      "q": "Entre los principios del art. 9.3 CE se incluye expresamente, junto a la jerarquía normativa, el principio de:",
+      "options": [
+        "Legalidad",
+        "Oportunidad",
+        "Territorialidad"
+      ],
+      "correct": 0,
+      "exp": "Art. 9.3: 'La Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas...'"
+    },
+    {
+      "q": "¿En qué año se aprobó la primera Constitución española?",
+      "options": [
+        "1814.",
+        "1812.",
+        "1815."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 1 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de las siguientes Constituciones no existió en España?",
+      "options": [
+        "Constitución española de 1869.",
+        "Constitución española de 1876.",
+        "Constitución española de 1875."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 2 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En qué año se aprobó la Constitución inmediata anterior a la actual de 1978?",
+      "options": [
+        "1931.",
+        "1936.",
+        "1933."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 3 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "De las siguientes Constituciones españolas, ¿cuál no establece la división de poderes?",
+      "options": [
+        "La Constitución de 1837.",
+        "El Estatuto Real de 1834.",
+        "La Constitución de 1879."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 4 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En qué fecha fue promulgada la Ley para la Reforma Política?",
+      "options": [
+        "El 15 de diciembre de 1977.",
+        "El 4 de enero de 1977.",
+        "El 12 de enero de 1976."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 7 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de las siguientes Constituciones extranjeras no se considera una influencia de la Constitución de 1978?",
+      "options": [
+        "La Constitución francesa de 1958.",
+        "La Constitución portuguesa de 1976.",
+        "La Constitución italiana de 1974."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 8 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de las siguientes características no es predicable de la Constitución española de 1978?",
+      "options": [
+        "Todas las otras caracteristicas se consideran características de la Constitución española de 1978.",
+        "Es una Constitución consensuada.",
+        "Es una Constitución extensa."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 9 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En qué fecha fue publicada la Constitución española en el Boletín Oficial del Estado?",
+      "options": [
+        "El 6 de diciembre de 1978.",
+        "El 29 de diciembre de 1978.",
+        "El 27 de diciembre de 1978."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 10 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En qué fecha fue promulgada la Constitución española de 1978?",
+      "options": [
+        "El 6 de diciembre de 1978.",
+        "El 29 de diciembre de 1978.",
+        "El 27 de diciembre de 1978."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 11 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En qué fecha se creó la Comisión Constitucional que nombró a la ponencia encargada de redactar la Constitución española de 1978?",
+      "options": [
+        "El 25 de julio de 1977.",
+        "El 20 de julio de 1978.",
+        "El 20 de julio de 1977."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 12 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Quién aprobó la Constitución española de 1978?",
+      "options": [
+        "El pueblo español.",
+        "El Congreso de los Diputados.",
+        "Las Cortes Generales."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 14 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Quién ratificó la Constitución española de 1978?",
+      "options": [
+        "El pueblo español.",
+        "Las Cortes Generales.",
+        "El Rey."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 15 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En qué fecha fue sancionada la Constitución española de 1978?",
+      "options": [
+        "El 6 de diciembre de 1978.",
+        "El 27 de diciembre de 1978.",
+        "El 29 de diciembre de 1978."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 16 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué día entró en vigor la Constitución española de 1978?",
+      "options": [
+        "El 28 de diciembre de 1978.",
+        "El 27 de diciembre de 1978.",
+        "El 29 de diciembre de 1978."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 17 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "De las siguientes partes, ¿cuál abre el texto de la Constitución española de 1978?",
+      "options": [
+        "El Preámbulo.",
+        "El Título Preliminar.",
+        "El Título I."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 18 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué parte de la Constitución española de 1978 no tiene fuerza jurídica?",
+      "options": [
+        "Las Disposiciones adicionales.",
+        "El Preámbulo.",
+        "El Título Preliminar."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 19 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿De cuántos Títulos consta la Constitución española de 1978?",
+      "options": [
+        "De doce Títulos.",
+        "De trece Títulos.",
+        "De once Títulos."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 20 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué artículos comprende el Título Preliminar?",
+      "options": [
+        "Del 1 al 8.",
+        "Del 1 al 9.",
+        "Del 1 al 14."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 22 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuántas Disposiciones Adicionales tiene la Constitución española de 1978?",
+      "options": [
+        "Cuatro.",
+        "Nueve.",
+        "Cinco."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 24 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué Título de la Constitución española de 1978 está dedicado a la organización territorial del Estado?",
+      "options": [
+        "El Título VII.",
+        "El Título VI.",
+        "El Título VIII."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 26 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿De cuántos artículos consta la Constitución española de 1978?",
+      "options": [
+        "De 169.",
+        "De 167.",
+        "De 165."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 27 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué artículos comprende el Título I de la Constitución española de 1978?",
+      "options": [
+        "Del 10 al 55.",
+        "Del 14 al 55.",
+        "Del 9 al 55."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 29 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "A tenor del contenido del artículo 1.1. de la Constitución española de 1978, ¿en qué tipo de Estado se constituyó el Estado español?",
+      "options": [
+        "Social, liberal y de derecho.",
+        "Democrático, de derecho y social.",
+        "Social, democrático y capitalista."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 31 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿De cuántas partes se compone la Constitución española de 1978?",
+      "options": [
+        "De tres, orgánica, dogmática y estructural.",
+        "De dos, orgánica y estructural.",
+        "De dos, dogmática y orgánica."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 32 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué contenido tiene la Disposición Final de la Constitución española de 1978?",
+      "options": [
+        "Ninguna de las otras respuestas es correcta.",
+        "Contiene una cláusula derogatoria y el mandato de publicación en todas las lenguas españolas además del castellano.",
+        "Contiene solamente el mandato de vigencia inmediata."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 33 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Dónde reside la soberanía nacional a tenor del contenido del art.1.2. de la Constitución española de 1978?",
+      "options": [
+        "En el Jefe del Estado y en el pueblo español.",
+        "En el pueblo español.",
+        "En las distintas partes que forman el Estado español."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 34 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál es la forma política del Estado español?",
+      "options": [
+        "Estado democrático.",
+        "Constitucional y democrático.",
+        "Monarquía parlamentaria."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 35 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En qué se fundamenta la Constitución, según el art. 2 de la misma?",
+      "options": [
+        "En la indisoluble unidad de la nación española.",
+        "En el pueblo español que la refrendó.",
+        "En el poder soberano de las Cortes Generales."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 36 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué artículo de la Constitución de 1978 recoge el principio de autonomía de nacionalidades y regiones?",
+      "options": [
+        "El artículo 3.",
+        "El artículo 2.",
+        "El artículo 4."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 37 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál es la lengua oficial del Estado español?",
+      "options": [
+        "El español exclusivamente.",
+        "El castellano y las demás lenguas de acuerdo con los Estatutos de las Comunidades Autónomas.",
+        "El castellano."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 38 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué artículo de la Constitución española de 1978 recoge la bandera española?",
+      "options": [
+        "El artículo 4.",
+        "El artículo 5.",
+        "El artículo 7."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 39 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál es el artículo más corto de toda la Constitución?",
+      "options": [
+        "El artículo 3.",
+        "El artículo 5.",
+        "El artículo 6."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 40 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿A quién le corresponde la defensa del ordenamiento constitucional?",
+      "options": [
+        "A las Cortes Generales.",
+        "Al Gobierno y a las Cortes Generales.",
+        "A las Fuerzas Armadas."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 41 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "Según el artículo 9 de la Constitución española de 1978, ¿ a qué están sujetos los poderes públicos y los ciudadanos?",
+      "options": [
+        "A la Constitución y al resto del ordenamiento jurídico.",
+        "A la ley y al ordenamiento jurídico.",
+        "A la Constitución, a la ley y al resto del ordenamiento jurídico."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 42 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué disposiciones son irretroactivas?",
+      "options": [
+        "Las sancionadoras que limiten derechos individuales exclusivamente.",
+        "Ninguna de las otras respuestas es correcta.",
+        "Las disposiciones favorables que limiten derechos adquiridos."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 43 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué significado tiene el principio de publicidad normativa?",
+      "options": [
+        "Que a los ciudadanos están obligados a conocer las normas para que les pueda ser exigible su contenido.",
+        "Que todas las normas deben publicarse en un periódico de difusión nacional.",
+        "Que todas las normas deben ser publicadas en un diario oficial."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 44 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué artículo de la Constitución hace referencia a los sindicatos de trabajadores?",
+      "options": [
+        "El artículo 7.",
+        "El artículo 8.",
+        "El artículo 9."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 45 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿De qué plazo disponen los miembros de las Cámaras para solicitar, en el caso anterior, la celebración de un referéndum?",
+      "options": [
+        "De diez días hábiles.",
+        "De quince días.",
+        "De veinte días."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 49 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En cuál de los siguientes casos se aplica el procedimiento reformista del artículo 168?",
+      "options": [
+        "Cuando se pretenda reformar el artículo 2 de la Constitución.",
+        "Cuando se pretenda la reforma del Título VI de la Constitución.",
+        "Cuando se pretenda la reforma del Título X de la Constitución."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 50 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En cuántos Capítulos se estructura el Título I de la Constitución española de 1978?",
+      "options": [
+        "En cuatro.",
+        "En tres.",
+        "En cinco."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 51 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué artículo cierra el Título I?",
+      "options": [
+        "El artículo 55.",
+        "El artículo 54.",
+        "El artículo 56."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 52 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿De cuántas secciones consta el Capítulo II del Título I?",
+      "options": [
+        "De tres.",
+        "De dos.",
+        "De cuatro."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 53 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué artículos forman la sección denominada \" Derechos fundamentales y libertades públicas?",
+      "options": [
+        "Los artículos del 14 al 29 ambos inclusive.",
+        "Los artículos del 15 al 30 ambos inclusive.",
+        "Los artículos del 15 al 29 ambos inclusive."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 54 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué artículo del Título I recoge la regulación de la suspensión de los derechos y libertades?",
+      "options": [
+        "El artículo 55.",
+        "El artículo 51.",
+        "El artículo 57."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 55 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué artículo del Título I recoge el principio de igualdad jurídica de los españoles ante la ley?",
+      "options": [
+        "El artículo 11.",
+        "El artículo 14.",
+        "El artículo 16."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 56 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿A qué edad se alcanza la mayoría de edad a tenor del contenido del artículo 10 de la Constitución?",
+      "options": [
+        "A los dieciocho años, pero se establece en el artículo 15.",
+        "A los dieciocho años pero se regula en el artículo 18.",
+        "A los dieciocho años pero no se regula en el artículo 10."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 57 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de las siguientes afirmaciones no es correcta?",
+      "options": [
+        "La pena de muerte está abolida en la actualidad incluso en el campo militar y en tiempo de guerra.",
+        "La pena de muerte está abolida en todos los casos.",
+        "La pena de muerte no está abolida en España en el campo militar aún en tiempo de paz."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 58 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de las siguientes normas contiene la respuesta correcta de la pregunta anterior?",
+      "options": [
+        "La Ley Orgánica 1/ 1995, de 27 de enero.",
+        "La Ley Orgánica 11/ 1995, de 27 de noviembre.",
+        "La Ley Orgánica 21/ 1995, de 24 de febrero."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 59 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "En relación con el derecho a la libertad religiosa ¿qué declara la Constitución española?",
+      "options": [
+        "La reconoce y la garantiza.",
+        "La reconoce, la garantiza y la protege.",
+        "La garantiza."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 60 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En qué casos se puede obligar a un ciudadano a declarar sobre su ideología?",
+      "options": [
+        "En ningún caso.",
+        "En caso de ciudadanos extranjeros.",
+        "En cualquier caso."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 61 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué carácter tiene el estado español a tenor del contenido del artículo 16 de la Constitución española de 1978?",
+      "options": [
+        "Estado laico.",
+        "Estado católico.",
+        "Estado civil."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 62 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En qué año fue aprobada la Ley Orgánica de Libertad Religiosa?",
+      "options": [
+        "En 1979.",
+        "En 1981.",
+        "En 1980."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 63 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En qué artículo de la Constitución española de 1978 se contiene el derecho a la libertad y seguridad individual?",
+      "options": [
+        "En el artículo 17.",
+        "En el artículo 18.",
+        "En el artículo 21."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 64 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál es el tiempo máximo de duración de la detención preventiva a tenor del contenido del artículo anterior?",
+      "options": [
+        "24 horas.",
+        "72 horas.",
+        "36 horas."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 65 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué debe hacerse con un detenido en el momento en que se agote el tiempo máximo de detención preventiva?",
+      "options": [
+        "Ponerlo en libertad.",
+        "Ponerlo a disposición judicial para que declare la puesta en libertad.",
+        "Ponerlo en libertad o a disposición judicial."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 66 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "En el caso de la detención preventiva ¿en qué trámites está garantizada por la Constitución, la asistencia de abogado?",
+      "options": [
+        "En las diligencias policiales y en judiciales.",
+        "En las diligencias policiales.",
+        "Sólo en las diligencias judiciales."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 67 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cómo se denomina el procedimiento judicial por el que se debe poner a un detenido a disposición inmediata de la autoridad judicial?",
+      "options": [
+        "Proceso sumario.",
+        "Habeas Corpus.",
+        "Proceso de amparo."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 68 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En qué casos se puede proceder a la entrada en un domicilio particular?",
+      "options": [
+        "En caso de delito flagrante o resolución judicial exclusivamente.",
+        "En caso de autorización del titular o resolución judicial exclusivamente.",
+        "En caso de autorización del titular, resolución judicial o flagrante delito."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 69 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué artículo de la Constitución recoge el secreto de las comunicaciones?",
+      "options": [
+        "En el artículo 18.",
+        "En el artículo 22.",
+        "En el artículo 24."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 70 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Pueden interceptarse las comunicaciones postales?",
+      "options": [
+        "Sí, por medio de resolución administrativa.",
+        "Sólo mediante resolución judicial.",
+        "Sí, por medio de resolución judicial o administrativa."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 71 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Puede limitarse el derecho a la entrada y salida de territorio español por motivos ideológicos a los ciudadanos españoles?",
+      "options": [
+        "Sí, a tenor del contenido del artículo 20 de la Constitución.",
+        "No, a tenor del artículo 21 de la Constitución.",
+        "No, a tenor del contenido del artículo 19 de la Constitución."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 72 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En qué artículo de la Constitución se regula el derecho a la cláusula de conciencia y al secreto profesional?",
+      "options": [
+        "En el artículo 20.",
+        "En el artículo 24.",
+        "En el artículo 27."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 73 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En qué ámbito están prohibidos los Tribunales de Honor?",
+      "options": [
+        "En el ámbito de la Administración civil y militar.",
+        "En el ámbito de la Administración civil y militar y en el de las organizaciones profesionales.",
+        "En el ámbito de la Administración civil y en el de las organizaciones profesionales."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 75 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Puede, la Administración civil, imponer sanciones que impliquen privación de libertad?",
+      "options": [
+        "No, ni de forma directa ni de forma indirecta o subsidiaria.",
+        "No de forma directa, pero si de forma subsidiaria.",
+        "Sí, tanto de forma indirecta como directa."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 76 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "Las penas privativas de libertad ¿pueden consistir en trabajos forzados?",
+      "options": [
+        "Sí, mediante resolución judicial.",
+        "En ningún caso.",
+        "Sólo en casos excepcionalmente recogidos en la legislación vigente."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 77 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de los siguientes derechos no se engloba en el derecho a la tutela judicial efectiva?",
+      "options": [
+        "El derecho al cumplimiento de las resoluciones judiciales.",
+        "El derecho a obtener una decisión por parte de los jueces y tribunales.",
+        "El derecho al juez subsidiario."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 78 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En qué articulo de la Constitución se contempla el derecho al matrimonio?",
+      "options": [
+        "En el artículo 32.",
+        "En el artículo 33.",
+        "En el artículo 34."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 79 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Se delimita, en la Constitución española de 1978, el derecho a la propiedad privada?",
+      "options": [
+        "Sí, de acuerdo con las normas extraordinarias dictadas por el Tribunal Constitucional.",
+        "Sí, de acuerdo con las leyes y en virtud de su función social.",
+        "No. La propiedad privada no tiene delimitación constitucional."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 80 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué asociaciones son ilegales?",
+      "options": [
+        "Las que no estén inscritas en el registro correspondiente del Ministerio del Interior.",
+        "Las que se reúnan sin autorización previa.",
+        "Las que persigan fines o utilicen medios tipificados como delito."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 81 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué asociaciones están prohibidas?",
+      "options": [
+        "Las asociaciones paramilitares y las secretas.",
+        "Las asociaciones ilegales y las paramilitares.",
+        "Las asociaciones paramilitares, ilegales y secretas."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 82 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué españoles pueden ejercer el derecho de petición solo de manera individual?",
+      "options": [
+        "Los miembros de las Fuerzas Armadas.",
+        "Los miembros de los institutos armados con disciplina militar y los pertenecientes a las Fuerzas Armadas.",
+        "Los miembros de las Fuerzas Armadas y los miembros del Poder Judicial."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 83 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué artículo de la Constitución recoge el derecho y el deber de trabajar?",
+      "options": [
+        "El artículo 37.",
+        "El artículo 39.",
+        "El artículo 35."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 84 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué contenido tiene el artículo 44 de la Constitución?",
+      "options": [
+        "El derecho de acceso a la cultura.",
+        "El derecho a la salud.",
+        "El derecho a una vivienda adecuada."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 85 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cómo se adquiere, se conserva y se pierde la nacionalidad española?",
+      "options": [
+        "De acuerdo con la Constitución.",
+        "De acuerdo con la ley.",
+        "De acuerdo con las normas internacionales."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 86 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué tipo de delitos están excluidos de la extradición?",
+      "options": [
+        "Los delitos sociales y políticos.",
+        "Los delitos sociales, pero no los políticos.",
+        "Los delitos políticos."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 87 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Ante quién se presenta el recurso de amparo?",
+      "options": [
+        "Ante el Tribunal Constitucional.",
+        "Ante el Tribunal Supremo.",
+        "Ante cualquier juzgado o tribunal."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 88 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué tipo de ley es necesaria para regular el desarrollo del artículo 21 de la Constitución española de 1978?",
+      "options": [
+        "Ley ordinaria.",
+        "Ley de bases.",
+        "Ley orgánica."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 90 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál es el origen de la figura del Defensor del Pueblo?",
+      "options": [
+        "El Ombudsman.",
+        "Los jurados populares.",
+        "Los Tribunales de Honor."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 91 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Ante quién debe rendir cuenta el Defensor del Pueblo?",
+      "options": [
+        "Ante el Congreso de los Diputados.",
+        "Ante las Cortes Generales.",
+        "Ante los Tribunales y el Congreso de los Diputados."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 92 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuánto dura el mandato del Defensor del Pueblo?",
+      "options": [
+        "Cinco años.",
+        "Cuatro años.",
+        "Dos años."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 94 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuántos adjuntos asisten al Defensor del Pueblo?",
+      "options": [
+        "Tres.",
+        "Dos.",
+        "Cinco."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 95 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿De quién recibe órdenes el Defensor del Pueblo?",
+      "options": [
+        "De las Cortes Generales.",
+        "Del Gobierno.",
+        "No está sometido a mandato imperativo."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 96 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Quién nombra al Defensor del Pueblo?",
+      "options": [
+        "Las Cortes Generales.",
+        "El Presidente del Gobierno.",
+        "La Comisión Mixta Congreso-Senado para las relaciones con el Defensor del Pueblo."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 97 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué Real Decreto de los indicados a continuación regula los Títulos, Tratamientos y Honores de la Familia Real?",
+      "options": [
+        "RD 1386/ 1987, de 6 de noviembre.",
+        "RD 1386/ 1986, de 6 de noviembre.",
+        "RD 1686/ 1987, de 6 de noviembre."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 106 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué tratamiento recibe el Consorte de la Reina?",
+      "options": [
+        "Alteza.",
+        "Alteza Real.",
+        "Excelentísimo."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 107 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué línea es preferida en la Sucesión?",
+      "options": [
+        "La directa sobre la colateral.",
+        "La colateral sobre la indirecta.",
+        "La descendente sobre la colateral."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 114 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Quién tiene preferencia en la Sucesión en el caso de que se de un supuesto de igualdad de grado?",
+      "options": [
+        "Los varones sobre las mujeres.",
+        "Las mujeres sobre los varones.",
+        "La persona de más edad sobre la de menos."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 115 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de los siguientes principios se aplica a la Sucesión?",
+      "options": [
+        "El principio de prioridad.",
+        "El principio de representación.",
+        "El principio de asunción."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 116 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué grado es preferido en el caso de que se dé un supuesto de igualdad de línea?",
+      "options": [
+        "El grado más remoto al más cercano.",
+        "El grado más directo al indirecto.",
+        "El grado más próximo al más remoto."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 117 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Ante quién presta juramento el Regente?",
+      "options": [
+        "Ante el Congreso de los Diputados.",
+        "Ante las Cortes Generales.",
+        "Ante el Senado y el Gobierno."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 122 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué artículo de la Constitución establece los supuestos de exclusión a la Sucesión?",
+      "options": [
+        "El artículo 57.2.",
+        "El artículo 57.3.",
+        "El artículo 57.4."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 123 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Pueden acumularse los cargos de Tutor y Regente en una misma persona?",
+      "options": [
+        "Sí, en el padre, la madre, o ascendientes directos del Rey menor.",
+        "Sólo en el caso de la madre o el padre del Rey menor.",
+        "Sólo en el caso de ascendientes indirectos del Rey menor."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 127 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En cuál de los siguientes casos es imprescindible ser español de nacimiento?",
+      "options": [
+        "Para ejercer la Regencia.",
+        "Para ejercer la tutela testamentaria.",
+        "Para ejercer la Regencia y la tutela testamentaria."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 128 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cómo deben regularse las dudas relacionadas con la abdicación?",
+      "options": [
+        "Por Ley ordinaria.",
+        "Por Decreto ley.",
+        "Por Ley orgánica."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 129 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En qué artículo de la Constitución se recoge el juramento del Príncipe Heredero?",
+      "options": [
+        "En el artículo 61.3.",
+        "En el artículo 64.2.",
+        "En el artículo 61.2."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 135 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué Real Decreto regula la Casa Real?",
+      "options": [
+        "El Real Decreto 434/ 1998, de 6 de mayo.",
+        "El Real Decreto 434/ 1987, de 6 de mayo.",
+        "El Real Decreto 434/ 1988, de 6 de mayo."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 144 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿De quién dependen todos los Servicios de la Casa Real?",
+      "options": [
+        "Del Jefe de la Casa Real.",
+        "De la Secretaría General.",
+        "Del Ministro del Interior."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 145 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Quién nombra a los miembros de la Casa Real?",
+      "options": [
+        "El Jefe de la Casa Real.",
+        "El Rey.",
+        "El Ministro del Interior."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 146 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿De qué año es el Real Decreto que regula el Registro Civil de la Familia Real?:.",
+      "options": [
+        "De 1781.",
+        "De 1681.",
+        "De 1981."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 147 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué Tratamiento se aplica a los hijos de los Infantes de España?",
+      "options": [
+        "Excelentísimo.",
+        "Ilustrísimo.",
+        "Señoría."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 148 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué órgano asume la función de las Cámaras entre los periodos de sesiones?",
+      "options": [
+        "La Diputación Permanente de cada Cámara.",
+        "La Diputación Permanente del Congreso.",
+        "La Diputación Permanente del Senado."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 157 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué meses abarca el primer periodo de sesiones de las Cámaras?",
+      "options": [
+        "De septiembre a diciembre.",
+        "De septiembre a enero.",
+        "De enero a julio."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 160 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Quién elabora el reglamento interno de cada Cámara?",
+      "options": [
+        "La Diputación Permanente.",
+        "Los Presidentes de las Cámaras.",
+        "Cada una de las Cámaras."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 162 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de los siguientes no es un órgano interno de las Cámaras?",
+      "options": [
+        "Las Comisiones.",
+        "El Presidente de la Cámara.",
+        "La Comisión de Plenos."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 165 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿A quién le corresponde fijar el calendario de trabajo del Pleno?",
+      "options": [
+        "Al Presidente de la Mesa.",
+        "A la Mesa.",
+        "A la Junta de Diputados."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 167 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En cuál de los siguientes casos no es necesario que se constituya una comisión mixta, en caso de que no exista acuerdo entre ambas Cámaras?",
+      "options": [
+        "Para realizar la distribución del Fondo de Compensación Interterritorial.",
+        "Para otorgar la autorización para suscribir un Tratado Internacional.",
+        "Para nombrar al Presidente del Tribunal Supremo."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 171 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Por qué tipo de mayoría se adoptan las decisiones en el seno de la Junta de Portavoces?",
+      "options": [
+        "Por medio del voto ponderado.",
+        "Por mayoría simple.",
+        "Por mayoría absoluta."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 172 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de las siguientes funciones no puede ser ejercida por los Grupos Parlamentarios?",
+      "options": [
+        "Ser consultados por la Mesa antes de fijar el calendario de actividades.",
+        "Determinar la elección de los miembros de la Mesa de la Cámara.",
+        "Designar los miembros que de cada Grupo Parlamentario, han de formar parte de las Comisiones."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 175 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál es el número de miembros que componen la Diputación Permanente del Congreso?",
+      "options": [
+        "15.",
+        "21.",
+        "24."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 176 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Quién representa al pueblo español?",
+      "options": [
+        "El Congreso de los Diputados.",
+        "Las Cortes Generales.",
+        "El Senado."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 182 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Pueden vincular las conclusiones de una Comisión de Investigación a los Tribunales?",
+      "options": [
+        "En ningún caso.",
+        "Sólo en caso de que se traten materias penales.",
+        "En cualquier caso."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 184 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de las siguientes definiciones corresponden al concepto de inmunidad parlamentaria?",
+      "options": [
+        "Consiste en que los Diputados o Senadores no pueden ser detenidos en ningún caso.",
+        "Consiste en que los Diputados o Senadores no están obligados a declarar.",
+        "Consiste en que los Diputados o Senadores no pueden ser detenidos salvo en los casos de flagrante delito."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 186 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de los siguientes cargos es incompatible con el ejercicio de la función parlamentaria?",
+      "options": [
+        "Pertenecer a la Junta de Portavoces.",
+        "Ser miembro de una Junta Electora.",
+        "Pertenecer a una comisión permanente no legislativa."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 187 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de los siguientes Ministerios no existe en la actualidad?",
+      "options": [
+        "Ministerio de Fomento.",
+        "Ministerio de Economía y Hacienda.",
+        "Ministerio de Sanidad y Consumo."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 209 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de los siguientes órganos indicados es un órgano superior de un departamento ministerial?",
+      "options": [
+        "El Secretario General.",
+        "El Secretario General Técnico.",
+        "El Secretario de Estado."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 210 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cómo se clasifican los órganos de un Ministerio según la Ley de Organización y Funcionamiento de la Administración General del Estado?",
+      "options": [
+        "En órganos superiores y directivos.",
+        "En órganos superiores y dependientes.",
+        "En órganos directivos y ejecutivos."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 211 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En qué año fue aprobada la Ley de Organización y Funcionamiento de la Administración General del Estado?",
+      "options": [
+        "1997.",
+        "1998.",
+        "1999."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 214 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Quién nombra a los Ministros?",
+      "options": [
+        "El Rey con refrendo del Presidente del Congreso.",
+        "El Rey con refrendo del Presidente del Gobierno.",
+        "El Rey con refrendo del Presidente de las Cortes."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 221 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Por medio de qué documento se nombra a un ministro?",
+      "options": [
+        "Por Decreto.",
+        "Por Orden Ministerial.",
+        "Por Real Decreto."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 222 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cómo son nombrados los Secretarios de Estado?",
+      "options": [
+        "Por Real Decreto del Consejo de Ministros.",
+        "Por Decreto del Presidente del Gobierno.",
+        "Por Real Decreto refrendado por el Presidente del Gobierno."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 237 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cómo se crean las unidades administrativas que no tengan la consideración de órganos de la Administración General del Estado?",
+      "options": [
+        "A través de las relaciones de puestos de trabajo.",
+        "Por Real Decreto del Consejo de Ministros.",
+        "Por Decreto de la Presidencia del Gobierno."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 238 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué rango ostentan los Secretarios Generales Técnicos?",
+      "options": [
+        "De Director General.",
+        "De Subdirector General.",
+        "De Secretario General."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 244 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de los siguientes principios no es aplicable a la organización administrativa?",
+      "options": [
+        "Descentralización.",
+        "Territorialidad.",
+        "Desconcentración."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 245 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué artículo de la Constitución recoge los principios a los que debe ajustarse la Administración en su actuación?",
+      "options": [
+        "El artículo 103.",
+        "El artículo 104.",
+        "El artículo 106."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 247 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuántos Ministerios existen en la actualidad?",
+      "options": [
+        "15.",
+        "14.",
+        "12."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 250 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de las siguientes notas características es predicable de la ley como fuente del derecho?",
+      "options": [
+        "Es una fuente indirecta.",
+        "Es una fuente recogida en el art. 1 del Código Civil.",
+        "Es una fuente recogida en el art. 23 de la Constitución."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 251 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuándo entran en vigor las leyes?",
+      "options": [
+        "A los quince días de su completa publicación en el Boletín Oficial del Estado.",
+        "En el mismo día de su publicación íntegra en el Boletín Oficial del Estado.",
+        "A los veinte días de su publicación íntegra en el Boletín Oficial del Estado salvo que en ellas se disponga otra cosa."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 252 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "La regla general en relación con el contenido de las leyes es:",
+      "options": [
+        "Que sólo tienen efecto retroactivo cuando lo establezca su contenido.",
+        "Que nunca tienen efecto retroactivo.",
+        "Que sólo tienen efecto irretroactivo cuando se establece en las mismas."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 253 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué artículo de la Constitución está dedicado a la irretroactividad de las disposiciones desfavorables o restrictivas de derechos individuales?",
+      "options": [
+        "El art. 9.2.",
+        "El art. 9.3.",
+        "El art. 9.4."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 254 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de las siguientes materias no requiere desarrollo por medio de ley orgánica?",
+      "options": [
+        "La alteración de los límites provinciales.",
+        "La regulación del funcionamiento del Tribunal de Cuentas.",
+        "La alteración del nombre de una provincia."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 255 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En cuál de los siguientes órganos puede delegarse la elaboración de leyes orgánicas?",
+      "options": [
+        "Su elaboración es indelegable.",
+        "En las comisiones legislativas de las Cámaras.",
+        "En la Diputación permanente de las Cámaras."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 256 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué artículo de la Constitución establece las materias que deben ser desarrolladas por medio de ley orgánica?",
+      "options": [
+        "El art. 85.",
+        "El art. 81.",
+        "El art. 83."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 257 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de los siguientes no tiene capacidad para ejercer la iniciativa legislativa?",
+      "options": [
+        "Las Asambleas legislativas de las Comunidades Autónomas.",
+        "El Gobierno.",
+        "Los Gobiernos de las Comunidades Autónomas."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 258 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuántos componentes tiene que tener la delegación autonómica encargada de la defensa de una proposición de ley autonómica?",
+      "options": [
+        "Tres.",
+        "Dos.",
+        "Cuatro."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 262 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál es el número de firmas necesario para el ejercicio de la iniciativa legislativa popular?",
+      "options": [
+        "500.000.",
+        "No menos de 500.000.",
+        "Más de 600.000."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 263 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En cual de las siguientes materias procede la iniciativa legislativa popular?",
+      "options": [
+        "En materias de carácter internacional.",
+        "En materias relativas a la prerrogativa de gracia.",
+        "En materias relacionadas con las comunidades de vecinos."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 264 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de los siguientes requisitos debe cumplirse en la tramitación de proposiciones de ley?",
+      "options": [
+        "Deben remitirse al Gobierno para que de su aprobación antes de ser tramitadas en algunos casos.",
+        "Deben ser remitidas exclusivamente a la Mesa del Congreso.",
+        "No deben remitirse a ningún órgano externo al Congreso en ningún caso."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 265 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué artículo de la Constitución está dedicado a la regulación de los decretos leyes?",
+      "options": [
+        "El art. 86.",
+        "El art. 87.",
+        "El art. 82."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 268 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de las siguientes materias si es regulable por medio de decreto ley?",
+      "options": [
+        "El régimen de las Comunidades Autónomas.",
+        "Las materias objeto de ley ordinaria.",
+        "El derecho electoral general."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 269 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Quién convalida un decreto ley?",
+      "options": [
+        "El Senado.",
+        "Las Cortes Generales.",
+        "El Congreso de los Diputados."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 270 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿De qué plazo dispone el órgano competente para convalidar o no un decreto ley?",
+      "options": [
+        "Treinta días.",
+        "Veinte días.",
+        "Veinticinco días."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 271 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Quién convalida un decreto ley en caso de que sea aprobado durante el mes de agosto?",
+      "options": [
+        "El Gobierno.",
+        "La Diputación permanente del Congreso.",
+        "La Diputación permanente del Senado."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 272 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué otro nombre reciben los decretos legislativos?",
+      "options": [
+        "Legislación ejecutiva.",
+        "Legislación delegante.",
+        "Legislación delegada."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 273 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "Si se dicta una ley de bases ¿qué contenido tendrá el decreto legislativo de desarrollo?",
+      "options": [
+        "Texto articulado.",
+        "Texto refundido.",
+        "Texto delegado."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 274 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "Si la delegación se realiza por medio de ley ordinaria ¿qué contenido tendrá el decreto legislativo de desarrollo?",
+      "options": [
+        "Texto articulado.",
+        "Texto refundido.",
+        "Texto delegado."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 275 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de las siguientes materias puede autorizar una ley de bases?",
+      "options": [
+        "Facultar la aprobación de normas de carácter retroactivo.",
+        "Facultar y autorizar la modificación de la propia ley de bases, dictando normas de carácter retroactivo.",
+        "Autorizar la aprobación de normas de carácter irretroactivo."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 276 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de las siguientes afirmaciones no es correcta en relación con la autorización contenida en la ley de delegación?",
+      "options": [
+        "Puede otorgarse de forma tácita.",
+        "Debe otorgarse para materia concreta.",
+        "Debe otorgarse de forma expresa."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 277 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué procedimiento debe seguirse para la denuncia de un Tratado Internacional?",
+      "options": [
+        "Es suficiente denuncia del Gobierno.",
+        "Denuncia del Gobierno previa autorización del Senado.",
+        "El mismo que para su aprobación."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 282 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuándo pasan a formar parte del ordenamiento nacional, los tratados firmados válidamente por España?",
+      "options": [
+        "Una vez publicados íntegramente en España.",
+        "El mismo día de su publicación.",
+        "En el momento de su firma solemne."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 283 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cómo se denominan los reglamentos que se encargan de desarrollar el contenido de una ley?",
+      "options": [
+        "Reglamentos ejecutivos.",
+        "Reglamentos normativos.",
+        "Reglamentos ad extra."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 286 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué requisito debe cumplirse para dictar un reglamento general de ejecución de una ley?",
+      "options": [
+        "Dictamen favorable del Consejo de Estado.",
+        "Informe previo del Consejo de Estado.",
+        "Dictamen previo del Ministerio de Presidencia."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 287 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "Si la Administración ejercita su facultad de autoorganización y dicta un reglamento para regular sus servicios, estamos ante un reglamento:",
+      "options": [
+        "De necesidad.",
+        "Ejecutivo.",
+        "Organizativo."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 288 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuándo se aplica la costumbre como fuente del derecho?",
+      "options": [
+        "En cualquier caso en que resulte de aplicación por la materia.",
+        "En defecto de ley aplicable.",
+        "En cualquier caso aunque exista ley aplicable."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 290 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "Si un reglamento está dirigido a todos los ciudadanos y ha de ser cumplido por los nacionales que actúan en un Estado, estamos ante un reglamento:",
+      "options": [
+        "Especial.",
+        "Inaplicable.",
+        "General."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 291 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de las siguientes clases de leyes no existe?",
+      "options": [
+        "Leyes reglamentarias.",
+        "Leyes armonizadoras.",
+        "Leyes de transferencia."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 292 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "Las disposiciones que contradigan lo establecido en una norma de carácter superior:",
+      "options": [
+        "Deben ser adaptadas.",
+        "Son nulas de pleno derecho.",
+        "Son anuladas por las Cortes Generales."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 293 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué artículo del Código Civil establece las fuentes del Derecho?",
+      "options": [
+        "El art. 18.",
+        "El art. 1.",
+        "El art. 35."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 296 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Dónde deben publicarse las leyes?",
+      "options": [
+        "En cualquier diario oficial.",
+        "En el Diario de la Unión Europea.",
+        "En el BOE."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 297 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué norma puede regular la institución del Defensor del Pueblo?",
+      "options": [
+        "Una ley orgánica.",
+        "Una ley ordinaria.",
+        "Un decreto ley."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 298 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué norma puede regular la institución del Consejo de Estado?",
+      "options": [
+        "Una ley ordinaria.",
+        "Un decreto ley.",
+        "Una ley orgánica."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 300 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál es el origen que la Constitución atribuye a la Justicia?",
+      "options": [
+        "Legislativo.",
+        "Popular.",
+        "Positivista."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 302 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿De quién emana la Justicia?",
+      "options": [
+        "De las Instituciones democráticas del Estado.",
+        "De la Constitución y del Derecho.",
+        "Del pueblo."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 303 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En nombre de quién se administra la Justicia?",
+      "options": [
+        "En nombre del Rey.",
+        "En nombre del pueblo español.",
+        "En nombre de España."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 304 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de los siguientes procedimientos es una forma de participación del pueblo en la Administración de Justicia?",
+      "options": [
+        "La asistencia libre a los Juzgados.",
+        "La institución del Jurado.",
+        "La presentación de querellas criminales."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 305 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En qué artículo de la Constitución se recoge el principio de unidad jurisdiccional?",
+      "options": [
+        "117.1.",
+        "115.",
+        "117.5."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 306 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En qué artículo de la Constitución se reconoce el derecho de acceso a la Justicia?",
+      "options": [
+        "24.",
+        "25.",
+        "26."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 307 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de las siguientes no es una jurisdicción especial?",
+      "options": [
+        "Constitucional.",
+        "Penal.",
+        "Militar."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 308 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de los siguientes principios no es predicable de la Justicia en España?",
+      "options": [
+        "Principio de Exclusividad.",
+        "Principio de Oralidad.",
+        "Principio de Movilidad."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 309 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de las siguientes normas regula la asistencia jurídica gratuita?",
+      "options": [
+        "Ley 1/ 1996, de 10 de enero.",
+        "Ley 11/ 1996, de 10 de enero.",
+        "Ley 10/ 1996, de 10 de enero."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 310 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué tipo de Tribunales están prohibidos por la Constitución?",
+      "options": [
+        "Los Tribunales de Honor y los Tribunales consuetudinarios.",
+        "Los Tribunales de excepción y los Tribunales de Honor.",
+        "Los Tribunales consuetudinarios y los Tribunales de excepción."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 311 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué artículo de la Constitución recoge el principio de exclusividad del ejercicio de la potestad jurisdiccional?",
+      "options": [
+        "117.5.",
+        "117.2.",
+        "117. 3."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 312 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué ley, de las indicadas a continuación, aprueba la normativa referente a la institución del jurado?",
+      "options": [
+        "Ley Orgánica 5/ 1995, de 22 de mayo.",
+        "Ley Orgánica 15/ 1995, de 22 de mayo.",
+        "Ley Orgánica 25/ 1995, de 22 de mayo."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 313 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué artículo de la Constitución española de 1978 recoge el principio de gratuidad de la justicia?",
+      "options": [
+        "El art. 118.",
+        "El art. 121.",
+        "El art. 119."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 315 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En qué año se aprobó la Ley de Demarcación y Planta Judicial?",
+      "options": [
+        "1978.",
+        "1988.",
+        "1979."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 317 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Quién puede modificar, el número de órganos judiciales mediante la creación de Secciones y Juzgados, sin alterar la demarcación judicial?",
+      "options": [
+        "El Congreso de los Diputados.",
+        "El Jefe del Estado.",
+        "El Gobierno."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 318 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál es la mayoría necesaria para proponer a un juez como vocal del Consejo?",
+      "options": [
+        "2/3.",
+        "3/5.",
+        "1/3."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 326 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuántos miembros del Consejo son nombrados de entre profesiones distintas a las de Juez y Magistrado?",
+      "options": [
+        "Ocho.",
+        "Seis.",
+        "Diez."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 328 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Dónde tiene su sede la Audiencia Nacional?",
+      "options": [
+        "En Sevilla.",
+        "En Madrid.",
+        "En Valencia."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 344 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuántas Salas tiene la Audiencia Nacional?",
+      "options": [
+        "Tres.",
+        "Dos.",
+        "Cinco."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 346 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de los siguientes Tribunales o Juzgados no existe?",
+      "options": [
+        "Juzgado de lo Penal.",
+        "Juzgado de Instrucción.",
+        "Magistratura de Trabajo."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 348 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de las siguientes Salas no existe en un Tribunal Superior de Justicia?",
+      "options": [
+        "La Sala de lo Penal.",
+        "La Sala de Instrucción.",
+        "La Sala de lo Civil."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 350 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué Título de la Constitución está dedicado a la regulación de la Organización territorial del Estado?",
+      "options": [
+        "El Título VII.",
+        "El Título VI.",
+        "El Título VIII."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 401 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿Qué artículo de la Constitución recoge el principio de autonomía?",
+      "options": [
+        "El artículo 2.",
+        "El artículo 5.",
+        "El articulo 1."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 402 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿A quién se reconoce autonomía en la Constitución española?",
+      "options": [
+        "A las nacionalidades y comunidades autónomas.",
+        "A las regiones y a las nacionalidades.",
+        "A las comunidades autónomas y a las regiones."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 403 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿En qué año fue plesbiscitado, por primera vez, el Estatuto Gallego?",
+      "options": [
+        "1932.",
+        "1936.",
+        "1933."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 406 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿En qué fecha se firmaron los Acuerdos Autonómicos?",
+      "options": [
+        "1 de julio de 1981.",
+        "2 de junio de 1980.",
+        "31 de julio de 1981."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 407 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿En qué año se firmaron los pactos Autonómicos?",
+      "options": [
+        "1992.",
+        "1993.",
+        "1994."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 408 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿Cuál de los siguientes principios no se recoge en el artículo 2 de la Constitución española de 1978?",
+      "options": [
+        "Unidad.",
+        "Subsidiariedad.",
+        "Solidaridad."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 409 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿Cuál de los siguientes principios no es predicable del Estado autonómico?",
+      "options": [
+        "Principio de progresividad.",
+        "Principio de supremacía estatal.",
+        "Principio de dependencia financiera."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 410 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿Qué artículos de la Constitución recogen las vías de acceso a la autonomía, de los indicados a continuación?",
+      "options": [
+        "Art. 144 y art. 143.",
+        "Art. 143 y art. 151.",
+        "Art. 153 y 151."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 412 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿Cómo se denominan a las dos principales vías de acceso a la autonomía?",
+      "options": [
+        "Vía común y vía lenta.",
+        "Vía especial y vía rápida.",
+        "Vía lenta y vía rápida."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 413 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿En qué artículo de la Constitución se establecen los contenidos mínimos que deben recoger los Estatutos de autonomía?",
+      "options": [
+        "151.2.",
+        "147.2.",
+        "148.4."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 424 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿Qué artículo de la Constitución recoge las competencias exclusivas del Estado?",
+      "options": [
+        "150.",
+        "149.",
+        "151."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 427 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿En qué Título de la Constitución se regula la Administración Local?",
+      "options": [
+        "El Título VIII.",
+        "El Título VII.",
+        "El Título VI."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 432 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿Qué artículo de la Constitución recoge el Fondo de Compensación Interterritorial?",
+      "options": [
+        "158.3.",
+        "158.2.",
+        "158.4."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 433 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿De qué año es la Ley Reguladora de las Bases del Régimen Local?",
+      "options": [
+        "1984.",
+        "1986.",
+        "1985."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 434 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿Cuál de los siguientes artículos no hace referncia a la Administración Local en la Constitución española de 1978?",
+      "options": [
+        "141.",
+        "143.",
+        "142."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 436 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿Quién integra un Ayuntamiento?",
+      "options": [
+        "El Alcalde y los Concejales.",
+        "Los Concejales.",
+        "El Alcalde."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 441 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿Quién elige al Alcalde?",
+      "options": [
+        "Los Concejales.",
+        "Los concejales o los vecinos.",
+        "Los vecinos."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 442 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿Por qué tipo de sufragio se elige a los Concejales?",
+      "options": [
+        "Por sufragio universal igual, libre, directo y secreto, en la forma establecida por el Gobierno.",
+        "Por sufragio universal igual, libre, directo y secreto, en la forma establecida por el derecho.",
+        "Por sufragio universal igual, libre, directo y secreto, en la forma establecida por la ley."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 443 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿Cuál de las siguientes afirmaciones es correcta?",
+      "options": [
+        "La provincia es una entidad local, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado.",
+        "La provincia es una entidad local, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Gobierno.",
+        "La provincia es una entidad local, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades de los vecinos."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 444 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿Qué es un Cabildo Insular?",
+      "options": [
+        "El órgano de gobierno de las Islas Baleares.",
+        "El órgano de administración propio de las Islas Canarias.",
+        "Un órgano de consulta provincial."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 448 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿De qué año es el Texto Refundido de Disposiciones legales vigentes en materia de régimen local?",
+      "options": [
+        "1987.",
+        "1988.",
+        "1986."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 449 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿De qué año es la Ley de Haciendas Locales?",
+      "options": [
+        "1988.",
+        "1987.",
+        "1989."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 450 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    }
+  ],
+  "2": [
+    {
+      "q": "¿En qué fecha sancionó el Rey la Constitución Española?",
+      "options": [
+        "6 de diciembre de 1978",
+        "27 de diciembre de 1978",
+        "29 de diciembre de 1978"
+      ],
+      "correct": 1,
+      "exp": "Don Juan Carlos I sancionó la Constitución el 27 de diciembre de 1978."
+    },
+    {
+      "q": "¿En qué Título de la Constitución se regula 'De la Corona'?",
+      "options": [
+        "Título II",
+        "Título I",
+        "Título III"
+      ],
+      "correct": 0,
+      "exp": "El Título II (arts. 56 a 65) se dedica a 'De la Corona'."
+    },
+    {
+      "q": "¿Quién dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado, según el art. 97 CE?",
+      "options": [
+        "El Rey",
+        "El Congreso de los Diputados",
+        "El Gobierno"
+      ],
+      "correct": 2,
+      "exp": "Art. 97: 'El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado.'"
+    },
+    {
+      "q": "Según el art. 97 CE, además de la función ejecutiva, el Gobierno ejerce:",
+      "options": [
+        "La potestad reglamentaria",
+        "La potestad legislativa ordinaria",
+        "La potestad tributaria exclusiva"
+      ],
+      "correct": 0,
+      "exp": "Art. 97: 'Ejerce la función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las leyes.'"
+    },
+    {
+      "q": "Según el art. 98.1 CE, el Gobierno se compone del Presidente, de los Vicepresidentes en su caso, de los Ministros y:",
+      "options": [
+        "De los Secretarios de Estado obligatoriamente",
+        "De los demás miembros que establezca la ley",
+        "De los Subsecretarios ministeriales"
+      ],
+      "correct": 1,
+      "exp": "Art. 98.1: '...y de los demás miembros que establezca la ley.'"
+    },
+    {
+      "q": "Según el art. 98.2 CE, el Presidente del Gobierno dirige la acción de este y:",
+      "options": [
+        "Sustituye a los Ministros cuando lo estima oportuno",
+        "Nombra directamente a los altos cargos sin propuesta",
+        "Coordina las funciones de los demás miembros del mismo"
+      ],
+      "correct": 2,
+      "exp": "Art. 98.2: 'El Presidente dirige la acción del Gobierno y coordina las funciones de los demás miembros del mismo, sin perjuicio de la competencia y responsabilidad directa de éstos en su gestión.'"
+    },
+    {
+      "q": "Según el art. 98.3 CE, los miembros del Gobierno, además del mandato parlamentario, no podrán ejercer:",
+      "options": [
+        "Otra función pública que no derive de su cargo, ni actividad profesional o mercantil alguna",
+        "Ninguna función en absoluto durante su mandato",
+        "El derecho de sufragio activo"
+      ],
+      "correct": 0,
+      "exp": "Art. 98.3: '...ni cualquier otra función pública que no derive de su cargo, ni actividad profesional o mercantil alguna.'"
+    },
+    {
+      "q": "Según el art. 99.3 CE, para ser investido Presidente del Gobierno en la primera votación, el candidato necesita el voto de:",
+      "options": [
+        "La mayoría simple del Congreso",
+        "La mayoría absoluta del Congreso de los Diputados",
+        "La mayoría absoluta del Senado"
+      ],
+      "correct": 1,
+      "exp": "Art. 99.3: 'Si el Congreso de los Diputados, por el voto de la mayoría absoluta de sus miembros, otorgare su confianza a dicho candidato, el Rey le nombrará Presidente.'"
+    },
+    {
+      "q": "Si no se alcanza la mayoría absoluta en la primera votación de investidura, según el art. 99.3, la nueva votación se celebra:",
+      "options": [
+        "Una semana después, exigiendo mayoría absoluta",
+        "Un mes después, sin mayoría exigida",
+        "48 horas después, bastando mayoría simple"
+      ],
+      "correct": 2,
+      "exp": "Art. 99.3: 'se someterá la misma propuesta a nueva votación cuarenta y ocho horas después de la anterior, y la confianza se entenderá otorgada si obtuviere la mayoría simple.'"
+    },
+    {
+      "q": "Según el art. 99.5 CE, si transcurridos dos meses desde la primera votación de investidura ningún candidato ha obtenido la confianza del Congreso:",
+      "options": [
+        "El Rey disolverá ambas Cámaras y convocará nuevas elecciones",
+        "El Gobierno en funciones continúa indefinidamente",
+        "Se repite el proceso sin límite de tiempo"
+      ],
+      "correct": 0,
+      "exp": "Art. 99.5: '...el Rey disolverá ambas Cámaras y convocará nuevas elecciones con el refrendo del Presidente del Congreso.'"
+    },
+    {
+      "q": "Según el art. 100 CE, los Ministros son nombrados y separados por:",
+      "options": [
+        "El Congreso de los Diputados por mayoría simple",
+        "El Rey, a propuesta del Presidente del Gobierno",
+        "El Presidente del Gobierno sin intervención del Rey"
+      ],
+      "correct": 1,
+      "exp": "Art. 100: 'Los demás miembros del Gobierno serán nombrados y separados por el Rey, a propuesta de su Presidente.'"
+    },
+    {
+      "q": "¿Cuál de las siguientes NO es una causa de cese del Gobierno según el art. 101.1 CE?",
+      "options": [
+        "Celebración de elecciones generales",
+        "Dimisión de su Presidente",
+        "Aprobación de los Presupuestos Generales del Estado"
+      ],
+      "correct": 2,
+      "exp": "Art. 101.1 recoge como causas de cese: celebración de elecciones generales, pérdida de la confianza parlamentaria, dimisión o fallecimiento del Presidente. La aprobación de los PGE no es causa de cese."
+    },
+    {
+      "q": "Según el art. 101.2 CE, el Gobierno cesante continuará en funciones hasta:",
+      "options": [
+        "La toma de posesión del nuevo Gobierno",
+        "La disolución de las Cortes",
+        "Que se convoquen nuevas elecciones"
+      ],
+      "correct": 0,
+      "exp": "Art. 101.2: 'El Gobierno cesante continuará en funciones hasta la toma de posesión del nuevo Gobierno.'"
+    },
+    {
+      "q": "Según el art. 102.1 CE, la responsabilidad criminal del Presidente y de los demás miembros del Gobierno es exigible ante:",
+      "options": [
+        "El Tribunal Constitucional",
+        "La Sala de lo Penal del Tribunal Supremo",
+        "El Congreso de los Diputados en pleno"
+      ],
+      "correct": 1,
+      "exp": "Art. 102.1: 'La responsabilidad criminal del Presidente y los demás miembros del Gobierno será exigible, en su caso, ante la Sala de lo Penal del Tribunal Supremo.'"
+    },
+    {
+      "q": "Según el art. 103.1 CE, la Administración Pública sirve con objetividad:",
+      "options": [
+        "Los intereses del partido en el Gobierno",
+        "Los intereses de sus empleados públicos",
+        "Los intereses generales"
+      ],
+      "correct": 2,
+      "exp": "Art. 103.1: 'La Administración Pública sirve con objetividad los intereses generales...'"
+    },
+    {
+      "q": "¿Cuál de los siguientes NO es uno de los principios de actuación de la Administración Pública recogidos en el art. 103.1 CE?",
+      "options": [
+        "Proporcionalidad",
+        "Jerarquía",
+        "Desconcentración"
+      ],
+      "correct": 0,
+      "exp": "El art. 103.1 recoge los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación. La proporcionalidad no figura en este artículo."
+    },
+    {
+      "q": "Según el art. 103.1 CE, la Administración Pública actúa con sometimiento pleno a:",
+      "options": [
+        "Las instrucciones del Gobierno exclusivamente",
+        "La ley y al Derecho",
+        "El interés del funcionario actuante"
+      ],
+      "correct": 1,
+      "exp": "Art. 103.1 in fine: '...con sometimiento pleno a la ley y al Derecho.'"
+    },
+    {
+      "q": "Según el art. 103.2 CE, los órganos de la Administración del Estado son creados, regidos y coordinados de acuerdo con:",
+      "options": [
+        "Costumbre administrativa",
+        "Circular interna de cada organismo",
+        "La ley"
+      ],
+      "correct": 2,
+      "exp": "Art. 103.2: 'Los órganos de la Administración del Estado son creados, regidos y coordinados de acuerdo con la ley.'"
+    },
+    {
+      "q": "Según el art. 103.3 CE, el acceso a la función pública se rige por los principios de:",
+      "options": [
+        "Mérito y capacidad",
+        "Antigüedad exclusivamente",
+        "Libre designación general"
+      ],
+      "correct": 0,
+      "exp": "Art. 103.3: 'La ley regulará... el acceso a la función pública de acuerdo con los principios de mérito y capacidad...'"
+    },
+    {
+      "q": "Además del estatuto de los funcionarios y el acceso por mérito y capacidad, el art. 103.3 CE encomienda a la ley regular:",
+      "options": [
+        "El régimen fiscal de las empresas públicas",
+        "Las peculiaridades del ejercicio del derecho de sindicación, el sistema de incompatibilidades y las garantías de imparcialidad",
+        "La composición del Consejo de Ministros"
+      ],
+      "correct": 1,
+      "exp": "Art. 103.3: '...las peculiaridades del ejercicio de su derecho a sindicación, el sistema de incompatibilidades y las garantías para la imparcialidad en el ejercicio de sus funciones.'"
+    },
+    {
+      "q": "Según el art. 104.1 CE, las Fuerzas y Cuerpos de Seguridad, bajo dependencia del Gobierno, tienen como misión proteger el libre ejercicio de los derechos y libertades y garantizar:",
+      "options": [
+        "La política exterior del Estado",
+        "La recaudación tributaria",
+        "La seguridad ciudadana"
+      ],
+      "correct": 2,
+      "exp": "Art. 104.1: '...tendrán como misión proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana.'"
+    },
+    {
+      "q": "Según el art. 104.2 CE, ¿qué tipo de ley determina las funciones, principios básicos de actuación y estatutos de las Fuerzas y Cuerpos de Seguridad?",
+      "options": [
+        "Ley orgánica",
+        "Ley ordinaria",
+        "Real Decreto-ley"
+      ],
+      "correct": 0,
+      "exp": "Art. 104.2: 'Una ley orgánica determinará las funciones, principios básicos de actuación y estatutos de las Fuerzas y Cuerpos de seguridad.'"
+    },
+    {
+      "q": "Según el art. 105 a) CE, la ley regulará la audiencia de los ciudadanos en el procedimiento de elaboración de:",
+      "options": [
+        "Los tratados internacionales",
+        "Las disposiciones administrativas que les afecten",
+        "Las sentencias judiciales"
+      ],
+      "correct": 1,
+      "exp": "Art. 105 a): 'La audiencia de los ciudadanos... en el procedimiento de elaboración de las disposiciones administrativas que les afecten.'"
+    },
+    {
+      "q": "Según el art. 105 b) CE, el acceso de los ciudadanos a los archivos y registros administrativos tiene como límite, entre otros, la seguridad y defensa del Estado, la averiguación de los delitos y:",
+      "options": [
+        "La antigüedad del expediente",
+        "La disponibilidad horaria del funcionario",
+        "La intimidad de las personas"
+      ],
+      "correct": 2,
+      "exp": "Art. 105 b): '...salvo en lo que afecte a la seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de las personas.'"
+    },
+    {
+      "q": "Según el art. 105 c) CE, la ley regulará el procedimiento a través del cual deben producirse los actos administrativos, garantizando, cuando proceda:",
+      "options": [
+        "La audiencia del interesado",
+        "El silencio administrativo negativo",
+        "La doble instancia obligatoria"
+      ],
+      "correct": 0,
+      "exp": "Art. 105 c): '...garantizando, cuando proceda, la audiencia del interesado.'"
+    },
+    {
+      "q": "Según el art. 106.1 CE, los Tribunales controlan la potestad reglamentaria y:",
+      "options": [
+        "Los actos de las Cortes Generales",
+        "La legalidad de la actuación administrativa",
+        "La actividad de los partidos políticos"
+      ],
+      "correct": 1,
+      "exp": "Art. 106.1: 'Los Tribunales controlan la potestad reglamentaria y la legalidad de la actuación administrativa, así como el sometimiento de ésta a los fines que la justifican.'"
+    },
+    {
+      "q": "Según el art. 106.2 CE, los particulares tendrán derecho a ser indemnizados por toda lesión en sus bienes y derechos, salvo en los casos de:",
+      "options": [
+        "Error material",
+        "Silencio administrativo",
+        "Fuerza mayor"
+      ],
+      "correct": 2,
+      "exp": "Art. 106.2: '...salvo en los casos de fuerza mayor, siempre que la lesión sea consecuencia del funcionamiento de los servicios públicos.'"
+    },
+    {
+      "q": "Según el art. 106.2 CE, la lesión indemnizable debe ser consecuencia del funcionamiento de:",
+      "options": [
+        "Los servicios públicos",
+        "Las Fuerzas Armadas exclusivamente",
+        "Los partidos políticos"
+      ],
+      "correct": 0,
+      "exp": "Art. 106.2 exige que la lesión sea 'consecuencia del funcionamiento de los servicios públicos', fundamento de la responsabilidad patrimonial de la Administración."
+    },
+    {
+      "q": "Según el art. 107 CE, el Consejo de Estado es:",
+      "options": [
+        "Un órgano jurisdiccional de última instancia",
+        "El supremo órgano consultivo del Gobierno",
+        "Un órgano de control presupuestario"
+      ],
+      "correct": 1,
+      "exp": "Art. 107: 'El Consejo de Estado es el supremo órgano consultivo del Gobierno.'"
+    },
+    {
+      "q": "¿Qué tipo de ley regula la composición y competencia del Consejo de Estado según el art. 107 CE?",
+      "options": [
+        "Ley ordinaria",
+        "Decreto-ley",
+        "Ley orgánica"
+      ],
+      "correct": 2,
+      "exp": "Art. 107 in fine: 'Una ley orgánica regulará su composición y competencia.'"
+    },
+    {
+      "q": "¿Qué artículos comprende el Título IV de la Constitución, 'Del Gobierno y de la Administración'?",
+      "options": [
+        "Del 97 al 107",
+        "Del 90 al 100",
+        "Del 103 al 116"
+      ],
+      "correct": 0,
+      "exp": "El Título IV abarca los artículos 97 a 107."
+    },
+    {
+      "q": "Dentro de los principios del art. 103.1 CE, el reparto de competencias hacia entes territoriales distintos del Estado se corresponde con el principio de:",
+      "options": [
+        "Coordinación",
+        "Descentralización",
+        "Eficacia"
+      ],
+      "correct": 1,
+      "exp": "La descentralización, uno de los principios del art. 103.1, supone el traspaso de competencias hacia otros entes territoriales (CCAA, entidades locales)."
+    },
+    {
+      "q": "Dentro de los principios del art. 103.1 CE, el traspaso de funciones dentro del mismo ente hacia órganos de rango inferior se corresponde con el principio de:",
+      "options": [
+        "Descentralización",
+        "Objetividad",
+        "Desconcentración"
+      ],
+      "correct": 2,
+      "exp": "La desconcentración implica el traspaso de competencias de órganos superiores a inferiores dentro de la misma Administración, a diferencia de la descentralización, que implica trasladarlas a otro ente."
+    },
+    {
+      "q": "¿En qué fecha fue proclamado Rey D. Juan Carlos I?",
+      "options": [
+        "20 de noviembre de 1975.",
+        "23 de noviembre de 1976.",
+        "22 de noviembre de 1975."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 5 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Ante qué órgano fue proclamado Rey D. Juan Carlos I?",
+      "options": [
+        "Ante las Cortes Generales.",
+        "Ante el Congreso de los Diputados.",
+        "Ante el Consejo del Reino."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 6 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Ante quién sancionó el Rey la Constitución española de 1978?",
+      "options": [
+        "Ante el Congreso de los Diputados.",
+        "Ante las Cortes Generales.",
+        "Ante el Senado y el Gobierno."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 13 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿A qué materia está dedicado el Título IV?",
+      "options": [
+        "Al Gobierno y a la Administración.",
+        "Al Gobierno.",
+        "Al Gobierno y a las Cortes Generales."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 21 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En qué Título de la Constitución española de 1978 encontramos regulado el Poder Judicial?",
+      "options": [
+        "En el Título V.",
+        "En el Título VII.",
+        "En el Título VI."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 23 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué artículo abre el Título II de la Constitución española de 1978?",
+      "options": [
+        "El artículo 54.",
+        "Ninguna de las otras respuestas es correcta.",
+        "El artículo 57."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 25 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En qué Título de la Constitución española de 1978 se trata la Corona?",
+      "options": [
+        "En el Título II.",
+        "En el Título III.",
+        "En el Título I."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 30 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Quiénes tienen derecho a la tutela judicial efectiva de jueces y tribunales?",
+      "options": [
+        "Todos los españoles pero no los extranjeros no legalizados.",
+        "Todas las personas.",
+        "Todos los ciudadanos de la Unión Europea y los españoles, pero no los extranjeros ajenos a ese ámbito."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 74 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿A qué órgano le encomienda el artículo 124 de la Constitución la defensa de los derechos de los ciudadanos?",
+      "options": [
+        "Al Tribunal Constitucional.",
+        "Al Ministerio Fiscal.",
+        "Al Tribunal Supremo."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 89 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Por qué tipo de mayoría se adoptan las decisiones en la Comisión Mixta Congreso- Senado para las relaciones con el Defensor del Pueblo?",
+      "options": [
+        "Por mayoría absoluta.",
+        "Por mayoría de 3/5.",
+        "Por mayoría simple."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 93 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuántos miembros del Tribunal Constitucional son nombrados a propuesta del Pleno del Consejo General del Poder Judicial?",
+      "options": [
+        "Tres.",
+        "Cinco.",
+        "Dos."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 99 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué Título de la Constitución de 1978 está dedicado a la regulación de la Corona?",
+      "options": [
+        "El Título III.",
+        "El Título II.",
+        "El Título IV."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 101 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué artículo abre el Título de la Constitución dedicado a la regulación de la Corona?",
+      "options": [
+        "El artículo 57.",
+        "El artículo 54.",
+        "El artículo 56."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 102 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué artículo de la Constitución concluye el Título dedicado a la regulación de la Corona?",
+      "options": [
+        "El artículo 65.",
+        "El artículo 64.",
+        "El artículo 66."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 103 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué carácter tiene el Rey de España dentro de la estructura general del Estado?",
+      "options": [
+        "Es Jefe de Estado y de Gobierno.",
+        "Es Jefe de Estado.",
+        "No es Jefe de Estado ni de Gobierno."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 104 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "El Rey asume la más alta representación del Estado en las relaciones internacionales, pero la Constitución matiza que dicha representación será especialmente con:.",
+      "options": [
+        "Con los países Iberoamericanos.",
+        "Con los países de su entorno cultural y geográfico.",
+        "Con los países de su comunidad histórica."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 105 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Ante quien se proclama al Rey?",
+      "options": [
+        "Ante el Congreso de los Diputados.",
+        "Ante el Gobierno.",
+        "Ante las Cortes Generales."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 108 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuándo debe prestar juramento el Rey?",
+      "options": [
+        "Al ser proclamado como tal.",
+        "Al ser proclamado heredero.",
+        "Dentro de los veinte días siguientes a su proclamación."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 109 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Puede el Príncipe Heredero, pasar a ejercer la Regencia?",
+      "options": [
+        "No, en ningún caso.",
+        "Sólo si es mayor de edad en el momento en que se produzca el llamamiento.",
+        "Sí, en cualquier caso."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 110 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de las siguientes funciones no es ejercida por el Rey?",
+      "options": [
+        "Expedir los Decretos acordados en el Consejo de Ministros.",
+        "Nombrar al Presidente del Tribunal Constitucional.",
+        "Declarar la guerra y hacer la paz, previa autorización del Congreso de los Diputados."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 111 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de las siguientes funciones sí es ejercida por el Rey?",
+      "options": [
+        "Sancionar los Estatutos de Autonomía.",
+        "Proponer el nombramiento de los miembros del Gobierno.",
+        "Nombrar al Defensor del Pueblo."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 112 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿A cuál de los siguientes cargos no nombra el Rey?",
+      "options": [
+        "Al Presidente del Tribunal Supremo.",
+        "A los vocales de los Tribunales Consuetudinarios.",
+        "A los vocales del Consejo General del Poder Judicial."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 113 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Quién debe reconocer la imposibilidad del Rey para ejercer sus funciones?",
+      "options": [
+        "Las Cortes Generales.",
+        "El Congreso de los Diputados.",
+        "La Familia Real."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 118 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué tipos de Regencia existen?",
+      "options": [
+        "Legítima y por sucesión.",
+        "Dativa y legítima.",
+        "Dativa y representativa."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 119 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En nombre de quien se ejerce la Regencia?",
+      "options": [
+        "En nombre de España.",
+        "En nombre del pueblo español.",
+        "En nombre del Rey."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 120 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Por qué mandato se ejerce la Regencia?",
+      "options": [
+        "Por mandato constitucional.",
+        "Por mandato real.",
+        "Por mandato popular."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 121 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Quién es llamado en primer lugar en caso de que se deba declarar la Regencia por inhabilitación del Rey?",
+      "options": [
+        "El Príncipe Heredero si es mayor de edad.",
+        "El Príncipe Heredero en cualquier caso.",
+        "El pariente de más edad del Rey."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 124 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "En el caso de que no exista Tutor testamentario del Rey menor ¿quién será Tutor del mismo?",
+      "options": [
+        "El pariente de más edad del Rey menor.",
+        "El padre o la madre, mientras permanezcan viudos.",
+        "El padre o la madre, en cualquier caso."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 125 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuándo es nombrado el Tutor del Rey menor por las Cortes Generales?",
+      "options": [
+        "En cualquier caso.",
+        "Cuando no exista Tutor testamentario.",
+        "Cuando no exista Tutor testamentario ni legítimo."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 126 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "El Rey confiere empleos civiles y militares con arreglo a...:.",
+      "options": [
+        "La Constitución y las leyes.",
+        "La Constitución.",
+        "Las Leyes."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 130 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué tipo de indulto no puede realizar el Rey?",
+      "options": [
+        "Indulto a un condenado con sentencia firme.",
+        "Indultos generales.",
+        "Indultos políticos."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 131 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de las siguientes funciones no es realizada por el Rey?",
+      "options": [
+        "La convocatoria de elecciones generales.",
+        "La convocatoria de las Cortes Generales.",
+        "La convocatoria de la Diputación Permanente del Congreso de los Diputados."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 132 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Puede presidir el Rey el Consejo de Ministros?",
+      "options": [
+        "Sí, previa petición del Presidente del Gobierno.",
+        "Sólo en casos excepcionales en el caso de declaración del estado de excepción.",
+        "Sí, cuando lo estime oportuno sin más requisitos."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 133 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuándo nombra el Rey al Presidente del Gobierno?",
+      "options": [
+        "En ningún caso, es nombrado por el Congreso de los Diputados.",
+        "En todos los casos.",
+        "En ningún caso."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 134 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de los siguientes contenidos no aparece en el juramento del Rey?",
+      "options": [
+        "El respeto a los derechos de las colectividades históricas.",
+        "El respeto a los derechos de los ciudadanos.",
+        "El respeto a los derechos de las Comunidades Autónomas."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 136 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "El juramento del Príncipe es el mismo que el del Rey, pero se añade un contenido relativo a:.",
+      "options": [
+        "El respeto a los derechos humanos.",
+        "La fidelidad al Rey.",
+        "El respeto a las funciones sociales."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 137 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué función tiene el Rey según la Constitución?",
+      "options": [
+        "Representa los derechos históricos de los españoles.",
+        "Es símbolo de la diversidad del Estado.",
+        "Arbitra y modera el funcionamiento de las instituciones."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 138 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de los siguientes cargos no tiene competencia para refrendar los actos del Rey?",
+      "options": [
+        "El Presidente del Senado.",
+        "El Presidente del Gobierno.",
+        "El Presidente del Congreso."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 139 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué efecto tiene el refrendo?",
+      "options": [
+        "Implanta la responsabilidad en el Rey.",
+        "Confiere validez al acto refrendado.",
+        "Traslada la responsabilidad del acto, al Gobierno."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 140 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Existe algún acto del Rey que pueda realizarse sin refrendo?",
+      "options": [
+        "Sí, la designación de su Sucesor.",
+        "Sí, los relacionados con nombramientos constitucionales.",
+        "Sí, los relacionados con la Casa Real y la distribución del Presupuesto de la misma."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 141 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Quién refrenda al Rey en la propuesta de nombramiento de candidato a la Presidencia del Gobierno?",
+      "options": [
+        "El Presidente del Congreso de los Diputados.",
+        "El Presidente del Gobierno saliente.",
+        "El Jefe de la Casa Real."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 142 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Quién refrenda al Rey en la convocatoria de elecciones generales periódicas?",
+      "options": [
+        "El Presidente del Congreso de los Diputados en cualquier caso.",
+        "El Presidente del Gobierno.",
+        "El Presidente de las Cortes Generales."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 143 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Quién debe proponer al Rey el nombramiento de un Ministro?",
+      "options": [
+        "El Presidente del Congreso.",
+        "El Presidente del Gobierno.",
+        "El Presidente del Tribunal Supremo."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 149 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué carácter tiene la Corona de España, a tenor del artículo 57.1 de la Constitución?",
+      "options": [
+        "Constitucional.",
+        "Formal.",
+        "Hereditaria."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 150 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué Título de la Constitución de 1978 está dedicado a la regulación de las Cortes Generales?",
+      "options": [
+        "El Título III.",
+        "El Título II.",
+        "El Título IV."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 151 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de las siguientes características no es predicable de las Cortes Generales?",
+      "options": [
+        "Es un órgano permanente.",
+        "Es un órgano unicameral.",
+        "Es un órgano legislativo."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 152 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué principio rige para la elección de los Diputados?",
+      "options": [
+        "El Mayoritario.",
+        "El Equivalente.",
+        "El Proporcional."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 153 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué principio rige para la elección de los Senadores?",
+      "options": [
+        "El mayoritario.",
+        "El equivalente.",
+        "El Censitario."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 154 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "En caso de que se celebre sesión conjunta del Congreso de los Diputados y del Senado ¿quién debe presidirla?",
+      "options": [
+        "El Presidente del Gobierno.",
+        "El Presidente del Congreso de los Diputados.",
+        "El Presidente del Senado."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 155 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En qué casos deben proveer las Cortes Generales a la Sucesión?",
+      "options": [
+        "En ningún caso, porque los criterios de Sucesión están establecidos constitucionalmente.",
+        "En caso de que se produzca la abdicación del Rey en el Heredero.",
+        "En caso de que se agoten las líneas de Sucesión a la Corona."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 156 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál es el número máximo de miembros del Congreso de los Diputados, según la Constitución?",
+      "options": [
+        "300.",
+        "400.",
+        "500."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 158 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de las siguientes funciones no está asignada a las Cortes Generales?",
+      "options": [
+        "Reconocer la incapacidad del Rey en caso de que se produzca.",
+        "Otorgar autorización al Rey para declarar la guerra.",
+        "Nombrar al Presidente del Gobierno."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 159 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué meses abarca el segundo periodo de sesiones del Senado?",
+      "options": [
+        "De enero a julio.",
+        "De febrero a junio.",
+        "De enero a mayo."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 161 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿De qué fecha es el Reglamento interno del Congreso de los Diputados?",
+      "options": [
+        "De 10 de febrero de 1982.",
+        "De 8 de febrero de 1982.",
+        "De 7 de febrero de 1982."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 163 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿De qué fecha es el Reglamento interno del Senado?",
+      "options": [
+        "De 1 de mayo de 1994.",
+        "De 3 de mayo de 1994.",
+        "De 5 de mayo de 1994."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 164 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Quién ostenta la representación del Congreso de los Diputados?",
+      "options": [
+        "El Presidente.",
+        "El Pleno.",
+        "La Diputación Permanente."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 166 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de las siguientes funciones no le corresponde ejercer a la Mesa del Senado?",
+      "options": [
+        "Ordenar los trabajos parlamentarios.",
+        "Elaborar el presupuesto del Senado.",
+        "La dirección de los trabajos del Senado."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 168 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de las siguientes no es una Comisión legislativa permanente del Congreso de los Diputados?",
+      "options": [
+        "La Comisión de Derechos Humanos.",
+        "La Comisión de Defensa.",
+        "La Comisión de Justicia e Interior."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 169 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de las siguientes sí es una Comisión permanente no legislativa del Senado?",
+      "options": [
+        "La Comisión de Nombramientos.",
+        "La Comisión de Asuntos Exteriores.",
+        "La Comisión de Peticiones."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 170 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál es el número mínimo de miembros de un partido político para constituir grupo parlamentario en el Congreso de los Diputados?",
+      "options": [
+        "20 Diputados.",
+        "15 Diputados.",
+        "30 Diputados."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 173 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál es el número mínimo de Senadores necesario para constituir Grupo Parlamentario en el Senado?",
+      "options": [
+        "18 Senadores.",
+        "20 Senadores.",
+        "10 Senadores."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 174 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál es la circunscripción electoral del Congreso de los Diputados?",
+      "options": [
+        "El municipio.",
+        "La Comunidad Autónoma.",
+        "La provincia."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 177 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuántos Senadores se eligen por cada provincia?",
+      "options": [
+        "Cuatro.",
+        "Dos.",
+        "Tres."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 178 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuántos Senadores elige Ceuta?",
+      "options": [
+        "Uno.",
+        "Dos.",
+        "Tres."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 179 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuántos Diputados componen el Congreso de los Diputados actualmente?",
+      "options": [
+        "400.",
+        "450.",
+        "350."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 180 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuánto tiempo dura el mandato de los Diputados?",
+      "options": [
+        "Cuatro años.",
+        "Dos años.",
+        "Seis años."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 181 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué órgano de los siguientes no puede solicitar la convocatoria extraordinaria del Congreso de los Diputados?",
+      "options": [
+        "El Gobierno de la nación.",
+        "La Diputación Permanente.",
+        "El Rey."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 183 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuántos Vicepresidentes forman la Mesa del Senado?",
+      "options": [
+        "Tres.",
+        "Dos.",
+        "Uno."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 185 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué Tribunal es competente en una causa penal que se siga contra un Diputado?",
+      "options": [
+        "La Sala II del Tribunal Constitucional.",
+        "La Sala II del Tribunal Supremo.",
+        "La Sala I del Tribunal Supremo."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 188 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuantos Senadores elige una Comunidad Autónoma por el simple hecho de serlo?",
+      "options": [
+        "Dos.",
+        "Ninguno.",
+        "Uno."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 189 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuántos Consejeros de Cuentas son designados por el Congreso de los Diputados?",
+      "options": [
+        "Cinco.",
+        "Ocho.",
+        "Seis."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 195 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué Título de la Constitución está dedicado a la regulación del Gobierno?",
+      "options": [
+        "El Título III.",
+        "El Título V.",
+        "El Título IV."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 201 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué artículo de la Constitución recoge las funciones del Gobierno?",
+      "options": [
+        "El artículo 97.",
+        "El artículo 99.",
+        "El artículo 96."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 202 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "Según el artículo correspondiente, ¿cuál de las siguientes funciones no está atribuida al Gobierno?",
+      "options": [
+        "Dirigir la defensa del Estado.",
+        "Ejercer la función legislativa.",
+        "Ejercer la función ejecutiva."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 203 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué artículo de la Constitución está dedicado a establecer la composición del Gobierno?",
+      "options": [
+        "El artículo 109.",
+        "El artículo 87.",
+        "El artículo 98."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 204 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de las siguientes figuras no es imprescindible en la composición del Gobierno?",
+      "options": [
+        "Los Vicepresidentes.",
+        "El Presidente.",
+        "Los Vicepresidentes y los Ministros."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 205 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de las siguientes es la Ley del Gobierno?",
+      "options": [
+        "Ley 50/ 1997, de 22 de noviembre.",
+        "Ley 50/ 1997, de 27 de noviembre.",
+        "Ley 50/ 1997, de 21 de noviembre."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 206 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál es el máximo órgano consultivo del Gobierno?",
+      "options": [
+        "El Consejo del Reino.",
+        "El Consejo Consultivo.",
+        "El Consejo de Estado."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 207 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En qué artículo de la Constitución se regula el máximo órgano consultivo del Gobierno?",
+      "options": [
+        "En el artículo 107.",
+        "En el artículo 106.",
+        "En el artículo 108."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 208 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué rango ostentan los Delegados del Gobierno en las Comunidades Autónomas?",
+      "options": [
+        "Subsecretario General.",
+        "Subsecretario.",
+        "Secretario de Estado."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 212 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué rango ostentan los Subdelegados del Gobierno?",
+      "options": [
+        "Secretario General.",
+        "Secretario General Técnico.",
+        "Subdirector General."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 213 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuántos Vicepresidentes deben existir en la composición del Gobierno?",
+      "options": [
+        "Uno.",
+        "Ninguno.",
+        "Tres."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 215 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Quién nombra al Presidente del Gobierno?",
+      "options": [
+        "El Congreso de los Diputados.",
+        "El Senado.",
+        "El Rey."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 216 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Quién elige al Presidente del Gobierno?",
+      "options": [
+        "El Congreso de los Diputados.",
+        "Las Cortes Generales.",
+        "El Senado."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 217 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué mayoría se requiere para ser nombrado Presidente del Gobierno?",
+      "options": [
+        "Mayoría simple en todo caso.",
+        "Mayoría absoluta o mayoría simple.",
+        "Mayoría absoluta en todo caso."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 218 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Quién propone el candidato a la Presidencia del Gobierno?",
+      "options": [
+        "El pueblo español.",
+        "El Congreso de los Diputados.",
+        "El Rey."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 219 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál es el plazo, pasado el cual, si ningún candidato alcanza la mayoría necesaria para ser nombrado Presidente del Gobierno, se debe proceder a la convocatoria de nuevas elecciones?",
+      "options": [
+        "Dos meses desde la primera votación.",
+        "Un mes desde la primera votación.",
+        "Dos meses desde la tercera votación."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 220 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En cuál de los siguientes casos no cesa el Gobierno?",
+      "options": [
+        "Por dimisión del Vicepresidente.",
+        "Por fallecimiento del Presidente.",
+        "Por la celebración de elecciones generales."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 223 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué artículo de la Constitución recoge la institución del Gobierno en funciones?",
+      "options": [
+        "El artículo 106.",
+        "El artículo 107.",
+        "El artículo 108."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 224 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de las siguientes funciones puede ser ejercida por un Presidente del Gobierno en funciones?",
+      "options": [
+        "El planteamiento de una cuestión de confianza.",
+        "La propuesta al Rey de celebración de un referéndum consultivo.",
+        "La celebración de Consejos de Ministros."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 225 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de los siguientes no es un órgano de colaboración y apoyo al Gobierno?",
+      "options": [
+        "Los Secretarios Generales Técnicos.",
+        "La Comisión de Secretarios de Estado y Subsecretarios.",
+        "Los Secretarios de Estado."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 226 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Ante quien es exigible la responsabilidad penal del Presidente del Gobierno?",
+      "options": [
+        "Ante la Sala II del Tribunal Constitucional.",
+        "Ante la Sala II del Tribunal Supremo.",
+        "Ante la Sala I del Tribunal Supremo."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 227 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En qué Título de la Constitución se regulan las relaciones entre el Gobierno y las Cortes Generales?",
+      "options": [
+        "En el Título IV.",
+        "En el Título VII.",
+        "En el Título V."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 228 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Ante quién responde solidariamente el Gobierno de su gestión política?",
+      "options": [
+        "Ante el Congreso de los Diputados.",
+        "Ante el pueblo español.",
+        "Ante el Rey."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 229 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Quién puede plantear una cuestión de confianza?",
+      "options": [
+        "El Congreso de los Diputados.",
+        "El Presidente del Gobierno.",
+        "El Gobierno."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 230 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de los siguientes trámites es necesario realizar antes de plantear una cuestión de confianza?",
+      "options": [
+        "Deliberación del Presidente del Gobierno.",
+        "Comunicación al Jefe del Estado.",
+        "Deliberación del Consejo de Ministros."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 231 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué mayoría es necesario alcanzar para entender otorgada la confianza en un proceso de cuestión de confianza?",
+      "options": [
+        "Mayoría simple.",
+        "Mayoría absoluta.",
+        "Mayoría de 2/3."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 232 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿A quién debe presentar el Presidente del Gobierno su dimisión en el supuesto de que no obtenga la mayoría necesaria en una votación de cuestión de confianza?",
+      "options": [
+        "Ante el Congreso de los Diputados.",
+        "Ante el Rey.",
+        "Ante el Consejo de Ministros."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 233 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué número de Diputados es necesario para interponer una moción de censura?",
+      "options": [
+        "Mayoría simple de la Cámara.",
+        "Mayoría absoluta de la Cámara.",
+        "Una décima parte de la Cámara."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 234 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuántos días deben transcurrir desde que se presente una moción de censura hasta que pueda ser votada?",
+      "options": [
+        "Cinco días.",
+        "Dos días.",
+        "Cuatro días."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 235 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué mayoría es necesaria para que se entienda aprobada una moción de censura?",
+      "options": [
+        "Mayoría simple.",
+        "Mayoría absoluta.",
+        "Mayoría de 1/3."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 236 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Quién actúa como Secretario de las reuniones del Consejo de Ministros?",
+      "options": [
+        "El Ministro de Administraciones Públicas.",
+        "El Ministro de la Presidencia.",
+        "El Ministro del Interior."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 239 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de las siguientes funciones no está asignada al Consejo de Ministros?",
+      "options": [
+        "Aprobar el proyecto de ley de presupuestos generales del Estado.",
+        "Aprobar los decretos leyes.",
+        "Declarar el estado de sitio."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 240 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué carácter tienen las deliberaciones del Consejo de Ministros?",
+      "options": [
+        "Secretas.",
+        "Públicas.",
+        "Solemnes."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 241 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Quién representa al Gobierno?",
+      "options": [
+        "El Ministro de la Presidencia.",
+        "El Presidente.",
+        "Los Ministros."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 242 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de las siguientes funciones no le corresponde ejercer al Presidente del Gobierno?",
+      "options": [
+        "Interponer el recurso de inconstitucionalidad.",
+        "Proponer la disolución de las Cortes Generales.",
+        "Interponer moción de confianza."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 243 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Quién nombra a los Subdelegados del Gobierno?",
+      "options": [
+        "El Consejo de Ministros.",
+        "El Presidente del Gobierno.",
+        "El Delegado del Gobierno."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 246 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En cuál de las siguientes Comunidades Autónomas no existen Subdelegados del Gobierno?",
+      "options": [
+        "Cataluña.",
+        "Cantabria.",
+        "Andalucía."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 248 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿De qué año es el Real Decreto que establece la regulación de las figuras de los Delegados y Subdelegados del Gobierno?",
+      "options": [
+        "1998.",
+        "1999.",
+        "1997."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 249 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En cuál de las siguientes materias el gobierno ejerce el monopolio de la iniciativa legislativa?",
+      "options": [
+        "En materia de desarrollo de la institución de la Corona.",
+        "En materia de desarrollo de derechos fundamentales.",
+        "En materia de planificación económica y presupuestaria."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 259 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál es el número mínimo de Diputados necesario para presentar una proposición de ley?",
+      "options": [
+        "Doce en cualquier caso.",
+        "Quince o un grupo parlamentario.",
+        "Un grupo parlamentario o catorce."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 260 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál es el número mínimo de Senadores necesario para presentar una proposición de ley?",
+      "options": [
+        "Quince o un grupo parlamentario.",
+        "Doce o un grupo parlamentario.",
+        "Veinticinco o un grupo parlamentario."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 261 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué mayoría se necesita en el Senado para oponer un veto a una proposición de ley aprobada en el Congreso de los Diputados?",
+      "options": [
+        "Mayoría simple.",
+        "Mayoría absoluta.",
+        "Mayoría de 2/3."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 266 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿De qué plazo dispone el Rey para sancionar las leyes?",
+      "options": [
+        "Diez días.",
+        "Veinte días.",
+        "Quince días."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 267 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Puede el Gobierno subdelegar la facultad de dictar legislación delegada?",
+      "options": [
+        "Sí, siempre que delegue en autoridades administrativas.",
+        "En ningún caso.",
+        "No, salvo que delegue en órganos administrativos."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 278 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cómo se denominan las normas con rango de ley aprobadas por el Gobierno, que contienen legislación delegada?",
+      "options": [
+        "Decretos leyes.",
+        "Decretos.",
+        "Decretos legislativos."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 279 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En qué Capítulo del Título III se regulan los Tratados Internacionales?",
+      "options": [
+        "En el III.",
+        "En el I.",
+        "En el II."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 280 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de los siguientes tratados no requiere de autorización previa de las Cortes Generales?",
+      "options": [
+        "Los tratados de carácter político.",
+        "Los tratados de colaboración social.",
+        "Los tratados de carácter militar."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 281 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué artículo de la ley del Gobierno establece las normas de jerarquía de los reglamentos?",
+      "options": [
+        "El art. 23.",
+        "El art. 32.",
+        "El art. 37."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 289 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué mayoría se requiere en el Congreso de los Diputados para la aprobación de una ley orgánica?",
+      "options": [
+        "Simple.",
+        "De 1/3 .",
+        "Absoluta."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 294 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué mayoría se requiere en el Senado para la aprobación de una ley orgánica?",
+      "options": [
+        "Simple.",
+        "Absoluta.",
+        "De 1/3."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 295 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué Título de la Constitución española de 1978 está dedicado a la regulación del Poder Judicial?",
+      "options": [
+        "El Título VI.",
+        "El Título II.",
+        "El Título IV."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 301 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué contenido tiene el artículo 118 de la Constitución?",
+      "options": [
+        "Recoge el principio de publicidad judicial.",
+        "Recoge el principio de obligatoriedad en el cumplimiento de sentencias y resoluciones judiciales.",
+        "Recoge el principio de legitimidad judicial."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 314 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de las siguientes es la Ley Orgánica del Poder Judicial?",
+      "options": [
+        "La LO 6/ 1985, de 1 de julio.",
+        "La LO 6/ 1984, de 1 de julio.",
+        "La LO 6/ 1985, de 11 de julio."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 316 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué artículo de la Constitución española de 1978 establece la composición del Consejo General del Poder Judicial?",
+      "options": [
+        "El art. 122.3.",
+        "El art. 122.4.",
+        "El art. 122.5."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 319 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuántos vocales componen el Consejo General del Poder Judicial?",
+      "options": [
+        "Quince.",
+        "Veinte.",
+        "Diez."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 320 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuánto tiempo dura el mandato de los vocales del Consejo General del Poder Judicial?",
+      "options": [
+        "Cuatro años.",
+        "Seis años.",
+        "Cinco años."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 321 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de las siguientes leyes ha modificado a la Ley reguladora del poder judicial?",
+      "options": [
+        "Ley Orgánica 2/ 2001, de 28 de junio.",
+        "Ley Orgánica 2/ 2001, de 8 de junio.",
+        "Ley Orgánica 2/ 2001, de 21 de junio."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 322 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Quién preside el Consejo General del Poder Judicial?",
+      "options": [
+        "El Presidente del Tribunal Constitucional.",
+        "El Presidente del Tribunal Supremo.",
+        "El Magistrado de mayor edad."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 323 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuántos miembros del Consejo General del Poder Judicial son propuestos de entre Jueces y Magistrados de todas las categorías judiciales?",
+      "options": [
+        "Seis.",
+        "Diez.",
+        "Doce."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 324 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En cuál de los siguientes casos se puede proceder a la elección de un Magistrado para que sea vocal del Consejo General del Poder Judicial?",
+      "options": [
+        "Un juez que se encuentre en servicio activo.",
+        "Un juez que no se encuentre en activo.",
+        "Un juez que sea vocal saliente."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 325 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál es el máximo de candidatos que se pueden presentar por las asociaciones profesionales de jueces y magistrados?",
+      "options": [
+        "El doble del número de puestos a cubrir.",
+        "El número de puestos a cubrir.",
+        "El triple del número de puestos a cubrir."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 327 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de los siguientes órganos no forma parte de la composición del Consejo General del Poder Judicial?",
+      "options": [
+        "La Comisión Disciplinaria.",
+        "La Comisión de Estudios.",
+        "La Comisión de Calificación."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 329 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Quién nombra al Presidente del Consejo General del Poder Judicial?",
+      "options": [
+        "El Jefe de Gobierno.",
+        "El Gobierno.",
+        "El Jefe del Estado."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 330 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Ante quién toma posesión el Presidente del Consejo General del Poder Judicial?",
+      "options": [
+        "Ante los plenos del Consejo y del Tribunal Supremo en sesión conjunta.",
+        "Ante el Congreso y el Senado en reunión conjunta.",
+        "Ante el Consejo de Ministros."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 331 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Quién representa al Consejo General del Poder Judicial?",
+      "options": [
+        "El Pleno.",
+        "El Presidente.",
+        "El Vicepresidente."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 332 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cómo se realiza el nombramiento del Presidente del Consejo General del Poder Judicial?",
+      "options": [
+        "Por Ley ordinaria.",
+        "Por Decreto.",
+        "Por Real Decreto."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 333 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Quién debe refrendar el nombramiento del Presidente del Consejo General del Poder Judicial?",
+      "options": [
+        "El Presidente del Gobierno.",
+        "El Presidente de las Cortes Generales.",
+        "El Presidente del Senado."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 334 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuántos Vocales forman parte de la Comisión Permanente del Consejo General del Poder Judicial?",
+      "options": [
+        "Seis.",
+        "Cuatro.",
+        "Ocho."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 335 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál es el número de vocales que componen la Comisión Disciplinaria del Consejo General del Poder Judicial?",
+      "options": [
+        "Cuatro.",
+        "Seis.",
+        "Cinco."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 336 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál es el número de vocales que componen la Comisión de Calificación del Consejo General del Poder Judicial?",
+      "options": [
+        "Cinco.",
+        "Cuatro.",
+        "Seis."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 337 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál es el número de vocales que componen la Comisión Presupuestaria del Consejo General del Poder Judicial?",
+      "options": [
+        "Cuatro.",
+        "Cinco.",
+        "Seis."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 338 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál es el número de vocales que componen la Comisión de Estudios e Informes del Consejo General del Poder Judicial?",
+      "options": [
+        "Cuatro.",
+        "Seis.",
+        "Cinco."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 339 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿A quién debe remitir, el Consejo General del Poder Judicial, anualmente un informe sobre el funcionamiento de la Justicia?",
+      "options": [
+        "A las Cortes Generales.",
+        "Al Gobierno de la nación.",
+        "Al Defensor del Pueblo."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 340 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de las siguientes funciones no es realizada por el Consejo General del Poder Judicial?",
+      "options": [
+        "Propone el nombramiento del Presidente del Tribunal Supremo.",
+        "Propone el nombramiento del Presidente del Tribunal Constitucional.",
+        "Propone el nombramiento del miembros del Tribunal Constitucional."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 341 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Quién nombra al Fiscal General del Estado?",
+      "options": [
+        "El Rey, a propuesta del Congreso, oído el Consejo General del Poder Judicial.",
+        "El Rey, a propuesta del Tribunal de Cuentas, oído el Consejo General del Poder Judicial.",
+        "El Rey, a propuesta del Gobierno, oído el Consejo General del Poder Judicial."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 342 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué artículo de la Constitución recoge el modo de nombramiento del Fiscal General del Estado?",
+      "options": [
+        "El art. 124.4.",
+        "El art. 123.4.",
+        "El art. 123.5."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 343 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuántas Salas jurisdiccionales tiene el Tribunal Supremo?",
+      "options": [
+        "Cuatro.",
+        "Siete.",
+        "Cinco."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 345 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cuál de los siguientes jueces no es un juez profesional?",
+      "options": [
+        "Juez de Paz.",
+        "Juez de lo Social.",
+        "Juez de Instrucción."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 349 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Cómo se denomina generalmente, al órgano de gobierno de la Comunidad Autónoma?",
+      "options": [
+        "Consejo de Gobierno.",
+        "Consejo colegiado.",
+        "Consejo."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 429 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿A quién corresponde el Gobierno y Administración de los Municipios?",
+      "options": [
+        "Al Alcalde.",
+        "Al Pleno de los Ayuntamientos.",
+        "Al Ayuntamiento."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 440 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿A quién está encomendado el gobierno y administración de las provincias?",
+      "options": [
+        "A las Diputaciones en cualquier caso.",
+        "A las Comunidades Autónomas en cualquier caso.",
+        "A las Diputaciones en algunos casos."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 446 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    }
+  ],
+  "3": [
+    {
+      "q": "Según el art. 137 CE, todas las entidades en que se organiza territorialmente el Estado gozan de autonomía para:",
+      "options": [
+        "Declarar la independencia si lo deciden",
+        "La gestión de sus respectivos intereses",
+        "Modificar la Constitución"
+      ],
+      "correct": 1,
+      "exp": "Art. 137: 'Todas estas entidades gozan de autonomía para la gestión de sus respectivos intereses.'"
+    },
+    {
+      "q": "Según el art. 138.1 CE, el Estado garantiza la realización efectiva del principio de:",
+      "options": [
+        "Subsidiariedad",
+        "Reciprocidad",
+        "Solidaridad"
+      ],
+      "correct": 2,
+      "exp": "Art. 138.1: 'El Estado garantiza la realización efectiva del principio de solidaridad consagrado en el artículo 2...'"
+    },
+    {
+      "q": "Según el art. 138.1 CE, al velar por el equilibrio económico entre territorios, el Estado atiende en particular a las circunstancias de:",
+      "options": [
+        "El hecho insular",
+        "El hecho fronterizo",
+        "El hecho lingüístico"
+      ],
+      "correct": 0,
+      "exp": "Art. 138.1: '...atendiendo en particular a las circunstancias del hecho insular.'"
+    },
+    {
+      "q": "Según el art. 138.2 CE, las diferencias entre los Estatutos de las distintas Comunidades Autónomas no podrán implicar, en ningún caso:",
+      "options": [
+        "Distinta denominación institucional",
+        "Privilegios económicos o sociales",
+        "Distinta capital autonómica"
+      ],
+      "correct": 1,
+      "exp": "Art. 138.2: 'Las diferencias entre los Estatutos de las distintas Comunidades Autónomas no podrán implicar, en ningún caso, privilegios económicos o sociales.'"
+    },
+    {
+      "q": "Según el art. 139.1 CE, todos los españoles tienen los mismos derechos y obligaciones:",
+      "options": [
+        "Solo en territorio de su municipio de nacimiento",
+        "En función de su Comunidad Autónoma de origen",
+        "En cualquier parte del territorio del Estado"
+      ],
+      "correct": 2,
+      "exp": "Art. 139.1: 'Todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado.'"
+    },
+    {
+      "q": "Según el art. 139.2 CE, ninguna autoridad podrá adoptar medidas que obstaculicen:",
+      "options": [
+        "La libertad de circulación y establecimiento de personas y la libre circulación de bienes",
+        "La celebración de referéndums autonómicos",
+        "La creación de nuevos partidos políticos"
+      ],
+      "correct": 0,
+      "exp": "Art. 139.2: 'Ninguna autoridad podrá adoptar medidas que directa o indirectamente obstaculicen la libertad de circulación y establecimiento de las personas y la libre circulación de bienes en todo el territorio español.'"
+    },
+    {
+      "q": "Según el art. 140 CE, la Constitución garantiza la autonomía de:",
+      "options": [
+        "Las Diputaciones Provinciales",
+        "Los municipios",
+        "Las mancomunidades"
+      ],
+      "correct": 1,
+      "exp": "Art. 140: 'La Constitución garantiza la autonomía de los municipios.'"
+    },
+    {
+      "q": "Según el art. 140 CE, los municipios gozarán de:",
+      "options": [
+        "Personalidad jurídica limitada a efectos fiscales",
+        "Personalidad jurídica derivada de la provincia",
+        "Personalidad jurídica plena"
+      ],
+      "correct": 2,
+      "exp": "Art. 140: 'Estos gozarán de personalidad jurídica plena.'"
+    },
+    {
+      "q": "Según el art. 140 CE, el gobierno y la administración del municipio corresponde a:",
+      "options": [
+        "Sus respectivos Ayuntamientos",
+        "La Diputación Provincial",
+        "El Delegado del Gobierno"
+      ],
+      "correct": 0,
+      "exp": "Art. 140: 'Su gobierno y administración corresponde a sus respectivos Ayuntamientos.'"
+    },
+    {
+      "q": "Según el art. 140 CE, los Ayuntamientos están integrados por:",
+      "options": [
+        "Solo el Alcalde y el Secretario",
+        "Los Alcaldes y los Concejales",
+        "Los Concejales y el Interventor"
+      ],
+      "correct": 1,
+      "exp": "Art. 140: '...integrados por los Alcaldes y los Concejales.'"
+    },
+    {
+      "q": "Según el art. 140 CE, los Concejales serán elegidos por los vecinos del municipio mediante sufragio:",
+      "options": [
+        "Universal pero indirecto",
+        "Restringido a los propietarios",
+        "Universal, igual, libre, directo y secreto"
+      ],
+      "correct": 2,
+      "exp": "Art. 140: 'Los Concejales serán elegidos por los vecinos del municipio mediante sufragio universal, igual, libre, directo y secreto, en la forma establecida por la ley.'"
+    },
+    {
+      "q": "Según el art. 140 CE, los Alcaldes serán elegidos por:",
+      "options": [
+        "Los Concejales o por los vecinos",
+        "Únicamente por los vecinos",
+        "La Diputación Provincial"
+      ],
+      "correct": 0,
+      "exp": "Art. 140: 'Los Alcaldes serán elegidos por los Concejales o por los vecinos.'"
+    },
+    {
+      "q": "Según el art. 140 CE, la ley regulará las condiciones en las que proceda el régimen de:",
+      "options": [
+        "Mancomunidad forzosa",
+        "Concejo abierto",
+        "Fusión municipal automática"
+      ],
+      "correct": 1,
+      "exp": "Art. 140 in fine: 'La ley regulará las condiciones en las que proceda el régimen del concejo abierto.'"
+    },
+    {
+      "q": "Según el art. 141.1 CE, la provincia es una entidad local con personalidad jurídica propia, determinada por:",
+      "options": [
+        "La agrupación de Comunidades Autónomas limítrofes",
+        "La decisión exclusiva de cada Ayuntamiento",
+        "La agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado"
+      ],
+      "correct": 2,
+      "exp": "Art. 141.1: 'La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado.'"
+    },
+    {
+      "q": "Según el art. 141.1 CE, cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales mediante:",
+      "options": [
+        "Ley orgánica",
+        "Ley ordinaria",
+        "Decreto-ley"
+      ],
+      "correct": 0,
+      "exp": "Art. 141.1: 'Cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales mediante ley orgánica.'"
+    },
+    {
+      "q": "Según el art. 141.2 CE, el gobierno y la administración autónoma de las provincias estarán encomendados a:",
+      "options": [
+        "Los Ayuntamientos de la capital de provincia",
+        "Diputaciones u otras Corporaciones de carácter representativo",
+        "Las Comunidades Autónomas directamente"
+      ],
+      "correct": 1,
+      "exp": "Art. 141.2: 'El gobierno y la administración autónoma de las provincias estarán encomendados a Diputaciones u otras Corporaciones de carácter representativo.'"
+    },
+    {
+      "q": "Según el art. 141.3 CE, además de la provincia, la Constitución permite crear:",
+      "options": [
+        "Nuevas Comunidades Autónomas sin límite",
+        "Regiones históricas con rango constitucional propio",
+        "Agrupaciones de municipios diferentes de la provincia"
+      ],
+      "correct": 2,
+      "exp": "Art. 141.3: 'Se podrán crear agrupaciones de municipios diferentes de la provincia.'"
+    },
+    {
+      "q": "Según el art. 141.4 CE, en los archipiélagos, las islas tendrán además su administración propia en forma de:",
+      "options": [
+        "Cabildos o Consejos",
+        "Ayuntamientos insulares únicos",
+        "Juntas de Distrito"
+      ],
+      "correct": 0,
+      "exp": "Art. 141.4: 'En los archipiélagos, las islas tendrán además su administración propia en forma de Cabildos o Consejos.'"
+    },
+    {
+      "q": "Según el art. 142 CE, las Haciendas locales deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a:",
+      "options": [
+        "Las Comunidades Autónomas",
+        "Las Corporaciones respectivas",
+        "Los organismos autónomos estatales"
+      ],
+      "correct": 1,
+      "exp": "Art. 142: 'Las Haciendas locales deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas...'"
+    },
+    {
+      "q": "Según el art. 142 CE, las Haciendas locales se nutrirán fundamentalmente de tributos propios y de participación en los tributos de:",
+      "options": [
+        "Solo el Estado",
+        "Solo las Comunidades Autónomas",
+        "El Estado y de las Comunidades Autónomas"
+      ],
+      "correct": 2,
+      "exp": "Art. 142: '...se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas.'"
+    },
+    {
+      "q": "¿Qué artículos comprende el Capítulo Segundo del Título VIII CE, 'De la Administración Local'?",
+      "options": [
+        "Del 140 al 142",
+        "Del 143 al 158",
+        "Del 148 al 149"
+      ],
+      "correct": 0,
+      "exp": "El Capítulo Segundo del Título VIII, dedicado a la Administración Local, comprende los artículos 140, 141 y 142."
+    },
+    {
+      "q": "Según el procedimiento contenido en el artículo 167 de la Constitución, ¿qué mayoría es necesaria para aprobar una reforma constitucional que afecte a un artículo del Título VIII, en primera votación?",
+      "options": [
+        "Mayoría de 3/5.",
+        "Mayoría simple.",
+        "Mayoría de 2/5."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 48 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué artículo de la Constitución recoge las delegaciones legislativas a favor de las Comunidades Autónomas?",
+      "options": [
+        "El art. 159.",
+        "El art. 150.",
+        "El art. 167."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 284 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "Si el Estado quiere dictar una ley que contenga los principios necesarios para armonizar las disposiciones normativas de las Comunidades Autónomas en una materia, dictará:",
+      "options": [
+        "Una ley de bases.",
+        "Una ley de delegación.",
+        "Una ley de armonización."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 285 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿Qué órgano culmina la organización judicial en el territorio de una Comunidad Autónoma?",
+      "options": [
+        "El Tribunal Supremo.",
+        "El Tribunal Superior de Justicia.",
+        "Las Audiencias Territoriales."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 347 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+    },
+    {
+      "q": "¿En qué año se establecen las provincias como división territorial del Estado?",
+      "options": [
+        "1834.",
+        "1835.",
+        "1833."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 404 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿Cuál de los siguientes nombres está relacionado con la división del territorio en provincias?",
+      "options": [
+        "Javier de Burgos.",
+        "Rafael de Burgos.",
+        "Vicente Burgos."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 405 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿Cuál de los siguientes territorios no podía constituirse como Comunidad Autónoma?",
+      "options": [
+        "Los territorios con entidad provincial histórica.",
+        "Los territorios limítrofes con características históricas, culturales, sociales y económicas comunes.",
+        "Los territorios no integrados en la organización provincial."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 411 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿Cuál de las siguientes Comunidades Autónomas es uniprovincial?",
+      "options": [
+        "Murcia.",
+        "Valencia.",
+        "Aragón."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 414 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿Cuál de las siguientes Comunidades Autónomas es histórica?",
+      "options": [
+        "Valencia.",
+        "Cataluña.",
+        "Castilla la Mancha."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 415 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿Cuál de las siguientes Comunidades Autónomas no es pluriprovincial?",
+      "options": [
+        "Cataluña.",
+        "Canarias.",
+        "Baleares."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 416 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿Qué competencias del art. 151 asumen las Comunidades Autónomas que accedieron por la vía rápida?",
+      "options": [
+        "Ningunas.",
+        "Todas.",
+        "Las negociadas con el gobierno central en el proceso autonómico."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 417 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿Qué norma aprueba un Estatuto de Autonomía?",
+      "options": [
+        "Una ley ordinaria.",
+        "Una Ley orgánica.",
+        "Un Decreto ley."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 418 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿Cuántos municipios debían formar parte de la iniciativa autonómica en el caso de las Comunidades que accedieron por la vía especial, en el caso de que no hubieran plesbiscitado estatutos en el pasado?",
+      "options": [
+        "2/3 partes.",
+        "2/4 partes.",
+        "¾ partes."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 419 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿Cuántos municipios debían formar parte de la iniciativa autonómica en el caso de las Comunidades que accedieron por la vía especial, en el caso de que si hubieran plesbiscitado estatutos en el pasado?",
+      "options": [
+        "Ningún porcentaje.",
+        "2/3 partes.",
+        "2/4 partes."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 420 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿Cuántos municipios debían formar parte de la iniciativa autonómica en el caso de las Comunidades que accedieron por la vía común, en el caso de que no tuvieran régimen provisional de autonomía?",
+      "options": [
+        "2/4 partes.",
+        "2/3 partes.",
+        "3/4 partes."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 421 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿Cuántos municipios debían formar parte de la iniciativa autonómica en el caso de las Comunidades que accedieron por la vía común, en el caso de que tuvieran régimen provisional de autonomía? .",
+      "options": [
+        "2/3 partes.",
+        "2/4 partes.",
+        "Ningún porcentaje."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 422 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿Cuál de los siguientes extremos no debe aparecer obligatoriamente en un Estatuto de Autonomía?",
+      "options": [
+        "Las competencias por asumir.",
+        "La sede de las Instituciones.",
+        "Las competencias asumidas."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 423 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿Qué artículo prevé que las Comunidades Autónomas puedan reclamar como propias competencias sobre materias no atribuidas expresamente al Estado por la Constitución?",
+      "options": [
+        "134.2.",
+        "151.3.",
+        "149.3."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 425 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "Además del contenido mínimo ordinario, ¿cuál de los siguientes debe incluir en su estatuto, una Comunidad Autónoma de vía especial?",
+      "options": [
+        "Un Tribunal Superior de Justicia.",
+        "Un Tribunal Supremo.",
+        "Un Defensor autonómico."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 426 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "Qué artículo de la Constitución recoge las competencias asumibles por las Comunidades Autónomas?",
+      "options": [
+        "151.",
+        "149.",
+        "148."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 428 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿Cómo se denomina generalmente, al órgano legislativo de la Comunidad Autónoma?",
+      "options": [
+        "Legislador.",
+        "Asamblea.",
+        "Cortes autonómicas."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 430 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿Cuánto tiempo debieron esperar las Comunidades Autónomas de vía común para acceder a mayor número de competencias que las reconocidas inicialmente en el Estatuto de Autonomía?",
+      "options": [
+        "Dos años.",
+        "Cuatro años.",
+        "Cinco años."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 431 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿Qué artículo de la Constitución establece el derecho de autonomía de provincias y municipios?",
+      "options": [
+        "El art. 137.",
+        "El art.2.",
+        "El art. 153.2."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 435 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿Qué artículo de la Constitución establece la autonomía de los municipios?",
+      "options": [
+        "141.",
+        "142.",
+        "140."
+      ],
+      "correct": 2,
+      "exp": "Pregunta 437 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿De qué tipo de personalidad jurídica gozan los municipios?",
+      "options": [
+        "Plena.",
+        "Propia.",
+        "Orgánica."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 438 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿De qué tipo de personalidad jurídica gozan las provincias?",
+      "options": [
+        "Plena.",
+        "Propia.",
+        "Orgánica."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 439 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "Cualquier alteración de los límites de una provincia deberá ser aprobada por:",
+      "options": [
+        "Ley ordinaria de las Cortes Generales.",
+        "Ley orgánica de las Cortes Generales.",
+        "Acuerdo entre las Cortes Generales y la Comunidad Autónoma afectada."
+      ],
+      "correct": 1,
+      "exp": "Pregunta 445 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    },
+    {
+      "q": "¿Pueden crearse agrupaciones de municipios distintas de la provincia?",
+      "options": [
+        "Sí.",
+        "No, en ningún caso.",
+        "Sí, con autorización previa del Senado."
+      ],
+      "correct": 0,
+      "exp": "Pregunta 447 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    }
+  ]
+}

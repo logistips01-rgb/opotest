@@ -6,6 +6,40 @@ un tema por tanda y con parada entre temas.
 El tema 21 queda **fuera del objetivo**: reproduce el examen oficial del
 1-jun-2025 y rellenarlo con preguntas generadas destruiría lo que lo hace útil.
 
+## Policía Local Zaragoza · importación de la Constitución desde Aux. Admin. (11-ago-2026)
+
+Segunda importación cruzada, esta vez con conversión real de 4→3 opciones
+(no era "gratis" como la de temas 16-20): el tema 1 de aux-admin-zaragoza
+("La Constitución Española") tenía 500 preguntas de 4 opciones, sin `fuente`
+(banco original, previo a la campaña de agentes). Se redujeron a 3 con
+`tools/normalizar-opciones.js --reducir --aplicar` (elige el distractor
+menos confundible, nunca al azar) y se clasificaron por Título/artículo de
+la CE citado en el propio enunciado con `tools/importar-constitucion-a-policia.js`:
+
+| Destino en Policía Local | Preguntas |
+|---|---|
+| Tema 1 · Constitución (Tít. Preliminar y I) | 249 |
+| Tema 2 · Corona/Cortes/Gobierno/P. Judicial (Tít. II-VI) | 185 |
+| Tema 3 · Organización territorial (Tít. VIII) | 49 |
+| Descartadas (Tít. VII Hacienda, IX TC, X reforma: sin tema en Policía) | 16 |
+
+De paso se corrigió un problema real que esto dejó al descubierto: al
+aplicar la importación, el banco de Policía Local quedó con una mezcla de
+1.587 preguntas de 3 opciones y las 64 originales del banco inicial que
+seguían en 4 (nunca se habían reducido, porque hasta ahora nadie había
+verificado que el examen real es de 3). Se corrigió reduciendo también esas
+64 con la misma herramienta, así que **todo el banco de Policía Local está
+ya, de forma consistente, en 3 opciones** — sin excepciones ni mezcla.
+
+Bug encontrado y documentado en `normalizar-opciones.js`: si el archivo de
+entrada empieza directamente con `window.addQuestions(` (sin ningún
+carácter antes, ni un comentario), `--aplicar` no localiza bien el final de
+la "cabecera" y duplica el contenido en vez de sustituirlo. Hay que empezar
+siempre el archivo con un comentario en la primera línea. Quedó anotado en
+la cabecera del propio script para no repetirlo.
+
+Banco de Policía Local tras esta importación: **1.651 preguntas**.
+
 ## Policía Local Zaragoza · importación cruzada desde el atasco de 3 opciones de Aux. Admin. (11-ago-2026)
 
 El examen de Policía Local Zaragoza resultó ser de **3 opciones**

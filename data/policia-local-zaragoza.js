@@ -67,80 +67,4413 @@ const QUESTIONS = {
   {
     "q": "Según el art. 17.2 CE, la detención preventiva no podrá durar más del tiempo estrictamente necesario y, en todo caso, en el plazo máximo de ______ horas el detenido deberá ser puesto en libertad o a disposición de la autoridad judicial.",
     "options": [
-      "24 horas",
-      "48 horas",
       "72 horas",
+      "48 horas",
       "96 horas"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "Art. 17.2 CE: plazo máximo de setenta y dos horas."
   },
   {
     "q": "Según el art. 18.2 CE, ¿en qué caso puede entrarse en un domicilio sin consentimiento del titular ni resolución judicial?",
     "options": [
       "Cuando lo ordene el Alcalde",
-      "Cuando lo autorice el Delegado del Gobierno",
-      "Nunca, sin excepción alguna",
-      "En caso de flagrante delito"
+      "En caso de flagrante delito",
+      "Nunca, sin excepción alguna"
     ],
-    "correct": 3,
+    "correct": 1,
     "exp": "Art. 18.2 CE: 'Ninguna entrada o registro podrá hacerse en él sin consentimiento del titular o resolución judicial, salvo en caso de flagrante delito.'"
   },
   {
     "q": "Según el art. 25.2 CE, las penas privativas de libertad estarán orientadas a:",
     "options": [
-      "La reeducación y reinserción social",
       "La retribución del daño causado",
       "La prevención general exclusivamente",
-      "El resarcimiento de la víctima"
+      "La reeducación y reinserción social"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "Art. 25.2 CE: las penas privativas de libertad y las medidas de seguridad estarán orientadas a la reeducación y reinserción social."
   },
   {
     "q": "El derecho a la vida y a la integridad física y moral se recoge en el:",
     "options": [
-      "Art. 14 CE",
       "Art. 15 CE",
       "Art. 16 CE",
       "Art. 17 CE"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "Art. 15 CE: 'Todos tienen derecho a la vida y a la integridad física y moral...'"
+  },
+  {
+    "q": "¿En qué fecha se celebró el referéndum de aprobación de la Constitución Española?",
+    "options": [
+      "29 de diciembre de 1978",
+      "6 de diciembre de 1978",
+      "15 de diciembre de 1978"
+    ],
+    "correct": 1,
+    "exp": "El referéndum se celebró el 6 de diciembre de 1978."
+  },
+  {
+    "q": "¿En qué número del BOE se publicó la Constitución Española?",
+    "options": [
+      "BOE núm. 1",
+      "BOE núm. 366",
+      "BOE núm. 311"
+    ],
+    "correct": 2,
+    "exp": "Se publicó en el «BOE» núm. 311, de 29 de diciembre de 1978."
+  },
+  {
+    "q": "¿Cuándo entró en vigor la Constitución Española de 1978?",
+    "options": [
+      "El mismo día de su publicación en el BOE, el 29 de diciembre de 1978",
+      "20 días después de su publicación",
+      "El 1 de enero de 1979"
+    ],
+    "correct": 0,
+    "exp": "La Constitución entró en vigor el mismo día de su publicación en el BOE: 29 de diciembre de 1978."
+  },
+  {
+    "q": "¿Cuántos ponentes compusieron la ponencia constitucional encargada de redactar el anteproyecto de Constitución, conocidos popularmente como los 'padres de la Constitución'?",
+    "options": [
+      "5",
+      "7",
+      "9"
+    ],
+    "correct": 1,
+    "exp": "La ponencia constitucional estuvo formada por siete miembros, comúnmente conocidos como los 'padres de la Constitución'."
+  },
+  {
+    "q": "La Constitución de 1978 ha sido calificada históricamente como la Constitución:",
+    "options": [
+      "De la ruptura",
+      "De la restauración",
+      "Del consenso"
+    ],
+    "correct": 2,
+    "exp": "Se redactó a partir de negociaciones y acuerdos entre los distintos partidos con representación parlamentaria, por lo que ha sido calificada como la 'Constitución del consenso'."
+  },
+  {
+    "q": "¿Quién sancionó y promulgó la Constitución Española de 1978?",
+    "options": [
+      "Juan Carlos I",
+      "Adolfo Suárez",
+      "El Consejo del Reino"
+    ],
+    "correct": 0,
+    "exp": "La Constitución fue sancionada por el Rey Don Juan Carlos I, tal y como consta en su encabezamiento."
+  },
+  {
+    "q": "Según el Preámbulo, la Constitución fue aprobada por las Cortes y ratificada por:",
+    "options": [
+      "El Rey exclusivamente",
+      "El pueblo español",
+      "El Tribunal Constitucional"
+    ],
+    "correct": 1,
+    "exp": "El texto constitucional señala: 'las Cortes aprueban y el pueblo español ratifica la siguiente Constitución.'"
+  },
+  {
+    "q": "Según el artículo 1.1 CE, España se constituye en un Estado:",
+    "options": [
+      "Liberal de Derecho",
+      "Federal de Derecho",
+      "Social y democrático de Derecho"
+    ],
+    "correct": 2,
+    "exp": "Art. 1.1: 'España se constituye en un Estado social y democrático de Derecho...'"
+  },
+  {
+    "q": "¿Cuál de los siguientes NO es uno de los valores superiores del ordenamiento jurídico recogidos en el art. 1.1 CE?",
+    "options": [
+      "La solidaridad",
+      "La libertad",
+      "La justicia"
+    ],
+    "correct": 0,
+    "exp": "El art. 1.1 recoge como valores superiores la libertad, la justicia, la igualdad y el pluralismo político; la solidaridad se menciona en el art. 2, no aquí."
+  },
+  {
+    "q": "Según el art. 1.2 CE, ¿dónde reside la soberanía nacional?",
+    "options": [
+      "En el Rey",
+      "En el pueblo español",
+      "En el Gobierno"
+    ],
+    "correct": 1,
+    "exp": "Art. 1.2: 'La soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado.'"
+  },
+  {
+    "q": "Según el art. 1.3 CE, ¿cuál es la forma política del Estado español?",
+    "options": [
+      "República parlamentaria",
+      "Monarquía absoluta",
+      "Monarquía parlamentaria"
+    ],
+    "correct": 2,
+    "exp": "Art. 1.3: 'La forma política del Estado español es la Monarquía parlamentaria.'"
+  },
+  {
+    "q": "Según el art. 2 CE, la Constitución se fundamenta en:",
+    "options": [
+      "La indisoluble unidad de la Nación española",
+      "La federación libre de territorios",
+      "La confederación de nacionalidades"
+    ],
+    "correct": 0,
+    "exp": "Art. 2: 'La Constitución se fundamenta en la indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles...'"
+  },
+  {
+    "q": "El art. 2 CE reconoce y garantiza el derecho a la autonomía de:",
+    "options": [
+      "Únicamente las provincias",
+      "Las nacionalidades y regiones que integran España",
+      "Las Fuerzas Armadas"
+    ],
+    "correct": 1,
+    "exp": "Art. 2: '...reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas.'"
+  },
+  {
+    "q": "Además de la autonomía, el art. 2 CE reconoce entre las nacionalidades y regiones:",
+    "options": [
+      "La igualdad absoluta de rentas",
+      "La subordinación jerárquica",
+      "La solidaridad entre todas ellas"
+    ],
+    "correct": 2,
+    "exp": "Art. 2 CE reconoce y garantiza tanto el derecho a la autonomía como 'la solidaridad entre todas ellas'."
+  },
+  {
+    "q": "Según el art. 3.1 CE, el castellano es:",
+    "options": [
+      "La lengua española oficial del Estado",
+      "Una lengua cooficial más",
+      "La lengua oficial solo en algunas CCAA"
+    ],
+    "correct": 0,
+    "exp": "Art. 3.1: 'El castellano es la lengua española oficial del Estado.'"
+  },
+  {
+    "q": "Según el art. 3.1 CE, los españoles tienen el deber de conocer el castellano y el derecho a:",
+    "options": [
+      "Enseñarla obligatoriamente",
+      "Usarla",
+      "Sustituirla por otras lenguas"
+    ],
+    "correct": 1,
+    "exp": "Art. 3.1: 'Todos los españoles tienen el deber de conocerla y el derecho a usarla.'"
+  },
+  {
+    "q": "Según el art. 3.2 CE, las demás lenguas españolas serán también oficiales en las respectivas Comunidades Autónomas de acuerdo con:",
+    "options": [
+      "Un Real Decreto estatal",
+      "El Reglamento del Congreso",
+      "Sus Estatutos"
+    ],
+    "correct": 2,
+    "exp": "Art. 3.2: '...serán también oficiales en las respectivas Comunidades Autónomas de acuerdo con sus Estatutos.'"
+  },
+  {
+    "q": "El art. 3.3 CE califica la riqueza de las distintas modalidades lingüísticas de España como:",
+    "options": [
+      "Un patrimonio cultural objeto de especial respeto y protección",
+      "Un obstáculo a la unidad nacional",
+      "Un elemento a erradicar progresivamente"
+    ],
+    "correct": 0,
+    "exp": "Art. 3.3: 'La riqueza de las distintas modalidades lingüísticas de España es un patrimonio cultural que será objeto de especial respeto y protección.'"
+  },
+  {
+    "q": "Según el art. 4.1 CE, ¿de qué colores son las tres franjas horizontales de la bandera de España?",
+    "options": [
+      "Roja, amarilla y verde",
+      "Roja, amarilla y roja",
+      "Amarilla, roja y amarilla"
+    ],
+    "correct": 1,
+    "exp": "Art. 4.1: 'La bandera de España está formada por tres franjas horizontales, roja, amarilla y roja...'"
+  },
+  {
+    "q": "Según el art. 4.1 CE, ¿qué franja de la bandera de España tiene doble anchura que las otras dos?",
+    "options": [
+      "La primera franja roja",
+      "La segunda franja roja",
+      "La franja amarilla"
+    ],
+    "correct": 2,
+    "exp": "Art. 4.1: '...siendo la amarilla de doble anchura que cada una de las rojas.'"
+  },
+  {
+    "q": "Según el art. 4.2 CE, las banderas propias de las Comunidades Autónomas se utilizarán:",
+    "options": [
+      "Junto a la bandera de España en sus edificios públicos y actos oficiales",
+      "En sustitución de la bandera de España",
+      "Solo en actos deportivos"
+    ],
+    "correct": 0,
+    "exp": "Art. 4.2: '...se utilizarán junto a la bandera de España en sus edificios públicos y en sus actos oficiales.'"
+  },
+  {
+    "q": "Según el art. 5 CE, ¿cuál es la capital del Estado?",
+    "options": [
+      "Toledo",
+      "Madrid",
+      "Sevilla"
+    ],
+    "correct": 1,
+    "exp": "Art. 5: 'La capital del Estado es la villa de Madrid.'"
+  },
+  {
+    "q": "Según el art. 6 CE, los partidos políticos expresan:",
+    "options": [
+      "La soberanía compartida",
+      "El monopolio de la representación",
+      "El pluralismo político"
+    ],
+    "correct": 2,
+    "exp": "Art. 6: 'Los partidos políticos expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular...'"
+  },
+  {
+    "q": "Según el art. 6 CE, la creación de partidos políticos y el ejercicio de su actividad son libres dentro del respeto a:",
+    "options": [
+      "La Constitución y la ley",
+      "El programa del Gobierno",
+      "La Junta Electoral Central"
+    ],
+    "correct": 0,
+    "exp": "Art. 6: 'Su creación y el ejercicio de su actividad son libres dentro del respeto a la Constitución y a la ley.'"
+  },
+  {
+    "q": "Según el art. 6 CE, la estructura interna y el funcionamiento de los partidos políticos deberán ser:",
+    "options": [
+      "Jerárquicos",
+      "Democráticos",
+      "Confederales"
+    ],
+    "correct": 1,
+    "exp": "Art. 6, última frase: 'Su estructura interna y funcionamiento deberán ser democráticos.'"
+  },
+  {
+    "q": "Según el art. 7 CE, ¿quiénes contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios?",
+    "options": [
+      "Solo los sindicatos de trabajadores",
+      "Los colegios profesionales",
+      "Los sindicatos de trabajadores y las asociaciones empresariales"
+    ],
+    "correct": 2,
+    "exp": "Art. 7: 'Los sindicatos de trabajadores y las asociaciones empresariales contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios.'"
+  },
+  {
+    "q": "Según el art. 8.1 CE, ¿por qué cuerpos están constituidas las Fuerzas Armadas?",
+    "options": [
+      "Ejército de Tierra, la Armada y el Ejército del Aire",
+      "Guardia Civil, Policía Nacional y Ejército de Tierra",
+      "Solo el Ejército de Tierra y la Armada"
+    ],
+    "correct": 0,
+    "exp": "Art. 8.1: 'Las Fuerzas Armadas, constituidas por el Ejército de Tierra, la Armada y el Ejército del Aire...'"
+  },
+  {
+    "q": "Según el art. 8.1 CE, la misión de las Fuerzas Armadas es garantizar la soberanía e independencia de España, defender su integridad territorial y:",
+    "options": [
+      "El orden público en todo momento",
+      "El ordenamiento constitucional",
+      "La política exterior del Gobierno"
+    ],
+    "correct": 1,
+    "exp": "Art. 8.1: '...tienen como misión garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional.'"
+  },
+  {
+    "q": "Según el art. 8.2 CE, ¿qué tipo de norma regula las bases de la organización militar?",
+    "options": [
+      "Real Decreto",
+      "Ley ordinaria",
+      "Ley orgánica"
+    ],
+    "correct": 2,
+    "exp": "Art. 8.2: 'Una ley orgánica regulará las bases de la organización militar conforme a los principios de la presente Constitución.'"
+  },
+  {
+    "q": "Según el art. 9.1 CE, los ciudadanos y los poderes públicos están sujetos a:",
+    "options": [
+      "La Constitución y al resto del ordenamiento jurídico",
+      "Únicamente a las leyes orgánicas",
+      "Los tratados internacionales exclusivamente"
+    ],
+    "correct": 0,
+    "exp": "Art. 9.1: 'Los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico.'"
+  },
+  {
+    "q": "Según el art. 9.2 CE, corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad sean:",
+    "options": [
+      "Formales y declarativas",
+      "Reales y efectivas",
+      "Progresivas y limitadas"
+    ],
+    "correct": 1,
+    "exp": "Art. 9.2: '...promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas...'"
+  },
+  {
+    "q": "El art. 9.2 CE también encomienda a los poderes públicos facilitar la participación de todos los ciudadanos en la vida:",
+    "options": [
+      "Exclusivamente política",
+      "Religiosa y política",
+      "Política, económica, cultural y social"
+    ],
+    "correct": 2,
+    "exp": "Art. 9.2: '...facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social.'"
+  },
+  {
+    "q": "¿Cuál de los siguientes principios NO aparece expresamente en el art. 9.3 CE?",
+    "options": [
+      "La presunción de inocencia",
+      "La jerarquía normativa",
+      "La publicidad de las normas"
+    ],
+    "correct": 0,
+    "exp": "El art. 9.3 recoge legalidad, jerarquía normativa, publicidad de las normas, irretroactividad de disposiciones sancionadoras no favorables, seguridad jurídica, responsabilidad e interdicción de la arbitrariedad. La presunción de inocencia se regula en el art. 24.2."
+  },
+  {
+    "q": "Según el art. 9.3 CE, la irretroactividad de las disposiciones sancionadoras se predica de aquellas que sean no favorables o restrictivas de:",
+    "options": [
+      "Potestades administrativas",
+      "Derechos individuales",
+      "Facultades del Gobierno"
+    ],
+    "correct": 1,
+    "exp": "Art. 9.3: '...la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales...'"
+  },
+  {
+    "q": "Según el art. 9.3 CE, junto a la seguridad jurídica y la responsabilidad, la Constitución garantiza la interdicción de:",
+    "options": [
+      "La iniciativa legislativa popular",
+      "La disolución de las Cortes",
+      "La arbitrariedad de los poderes públicos"
+    ],
+    "correct": 2,
+    "exp": "Art. 9.3 in fine: '...la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos.'"
+  },
+  {
+    "q": "¿Cuál de estos principios SÍ figura expresamente en el art. 9.3 CE?",
+    "options": [
+      "La jerarquía normativa",
+      "La tutela judicial efectiva",
+      "La unidad de mercado"
+    ],
+    "correct": 0,
+    "exp": "El art. 9.3 enumera: legalidad, jerarquía normativa, publicidad de las normas, irretroactividad sancionadora desfavorable, seguridad jurídica, responsabilidad e interdicción de la arbitrariedad."
+  },
+  {
+    "q": "El Título Preliminar de la Constitución Española comprende los artículos:",
+    "options": [
+      "1 a 15",
+      "1 a 9",
+      "1 a 8"
+    ],
+    "correct": 1,
+    "exp": "El Título Preliminar abarca los artículos 1 a 9, antes de que comience el Título I (art. 10 en adelante)."
+  },
+  {
+    "q": "¿Cuántos artículos tiene la Constitución Española, sin contar disposiciones adicionales, transitorias, derogatoria y final?",
+    "options": [
+      "178",
+      "149",
+      "169"
+    ],
+    "correct": 2,
+    "exp": "La Constitución consta de 169 artículos articulados en un Título Preliminar y diez Títulos (I a X)."
+  },
+  {
+    "q": "Tras el Título Preliminar, la Constitución se estructura en:",
+    "options": [
+      "Diez títulos numerados del I al X",
+      "Doce títulos numerados del I al XII",
+      "Cinco títulos numerados del I al V"
+    ],
+    "correct": 0,
+    "exp": "La Constitución tiene diez títulos (I a X) además del Título Preliminar."
+  },
+  {
+    "q": "¿Cuál de las siguientes NO es parte de las disposiciones finales del articulado de la Constitución?",
+    "options": [
+      "Disposiciones adicionales",
+      "Disposición inicial",
+      "Disposición derogatoria"
+    ],
+    "correct": 1,
+    "exp": "Tras el Título X, la Constitución incluye disposiciones adicionales, transitorias, una disposición derogatoria y una disposición final; no existe una 'disposición inicial'."
+  },
+  {
+    "q": "Según el Preámbulo, la Nación española proclama su voluntad de consolidar un Estado de Derecho que asegure:",
+    "options": [
+      "El poder absoluto del Jefe del Estado",
+      "El monopolio estatal de la economía",
+      "El imperio de la ley como expresión de la voluntad popular"
+    ],
+    "correct": 2,
+    "exp": "El Preámbulo proclama la voluntad de 'Consolidar un Estado de Derecho que asegure el imperio de la ley como expresión de la voluntad popular.'"
+  },
+  {
+    "q": "Entre las voluntades que proclama el Preámbulo de la Constitución se encuentra establecer una:",
+    "options": [
+      "Sociedad democrática avanzada",
+      "Monarquía absoluta reformada",
+      "Confederación de reinos históricos"
+    ],
+    "correct": 0,
+    "exp": "El Preámbulo proclama, entre otras voluntades, 'Establecer una sociedad democrática avanzada'."
+  },
+  {
+    "q": "¿Cuántas disposiciones adicionales tiene la Constitución Española tras su articulado?",
+    "options": [
+      "Tres",
+      "Cuatro",
+      "Seis"
+    ],
+    "correct": 1,
+    "exp": "La Constitución cuenta con cuatro disposiciones adicionales (primera a cuarta)."
+  },
+  {
+    "q": "Según el Preámbulo, la Nación española proclama su voluntad 'en uso de su':",
+    "options": [
+      "Autoridad delegada",
+      "Potestad reglamentaria",
+      "Soberanía"
+    ],
+    "correct": 2,
+    "exp": "El Preámbulo comienza: 'La Nación española... en uso de su soberanía, proclama su voluntad de...'"
+  },
+  {
+    "q": "Entre los principios del art. 9.3 CE se incluye expresamente, junto a la jerarquía normativa, el principio de:",
+    "options": [
+      "Legalidad",
+      "Oportunidad",
+      "Territorialidad"
+    ],
+    "correct": 0,
+    "exp": "Art. 9.3: 'La Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas...'"
+  },
+  {
+    "q": "¿En qué año se aprobó la primera Constitución española?",
+    "options": [
+      "1814.",
+      "1812.",
+      "1815."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 1 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de las siguientes Constituciones no existió en España?",
+    "options": [
+      "Constitución española de 1869.",
+      "Constitución española de 1876.",
+      "Constitución española de 1875."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 2 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En qué año se aprobó la Constitución inmediata anterior a la actual de 1978?",
+    "options": [
+      "1931.",
+      "1936.",
+      "1933."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 3 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "De las siguientes Constituciones españolas, ¿cuál no establece la división de poderes?",
+    "options": [
+      "La Constitución de 1837.",
+      "El Estatuto Real de 1834.",
+      "La Constitución de 1879."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 4 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En qué fecha fue promulgada la Ley para la Reforma Política?",
+    "options": [
+      "El 15 de diciembre de 1977.",
+      "El 12 de enero de 1976.",
+      "El 4 de enero de 1977."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 7 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de las siguientes Constituciones extranjeras no se considera una influencia de la Constitución de 1978?",
+    "options": [
+      "La Constitución italiana de 1974.",
+      "La Constitución francesa de 1958.",
+      "La Constitución portuguesa de 1976."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 8 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de las siguientes características no es predicable de la Constitución española de 1978?",
+    "options": [
+      "Es una Constitución consensuada.",
+      "Todas las otras caracteristicas se consideran características de la Constitución española de 1978.",
+      "Es una Constitución extensa."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 9 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En qué fecha fue publicada la Constitución española en el Boletín Oficial del Estado?",
+    "options": [
+      "El 6 de diciembre de 1978.",
+      "El 27 de diciembre de 1978.",
+      "El 29 de diciembre de 1978."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 10 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En qué fecha fue promulgada la Constitución española de 1978?",
+    "options": [
+      "El 27 de diciembre de 1978.",
+      "El 6 de diciembre de 1978.",
+      "El 29 de diciembre de 1978."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 11 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En qué fecha se creó la Comisión Constitucional que nombró a la ponencia encargada de redactar la Constitución española de 1978?",
+    "options": [
+      "El 20 de julio de 1978.",
+      "El 25 de julio de 1977.",
+      "El 20 de julio de 1977."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 12 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Quién aprobó la Constitución española de 1978?",
+    "options": [
+      "El pueblo español.",
+      "El Congreso de los Diputados.",
+      "Las Cortes Generales."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 14 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Quién ratificó la Constitución española de 1978?",
+    "options": [
+      "El pueblo español.",
+      "Las Cortes Generales.",
+      "El Rey."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 15 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En qué fecha fue sancionada la Constitución española de 1978?",
+    "options": [
+      "El 6 de diciembre de 1978.",
+      "El 27 de diciembre de 1978.",
+      "El 29 de diciembre de 1978."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 16 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué día entró en vigor la Constitución española de 1978?",
+    "options": [
+      "El 28 de diciembre de 1978.",
+      "El 27 de diciembre de 1978.",
+      "El 29 de diciembre de 1978."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 17 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "De las siguientes partes, ¿cuál abre el texto de la Constitución española de 1978?",
+    "options": [
+      "El Preámbulo.",
+      "El Título Preliminar.",
+      "El Título I."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 18 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué parte de la Constitución española de 1978 no tiene fuerza jurídica?",
+    "options": [
+      "Las Disposiciones adicionales.",
+      "El Preámbulo.",
+      "El Título Preliminar."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 19 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿De cuántos Títulos consta la Constitución española de 1978?",
+    "options": [
+      "De doce Títulos.",
+      "De trece Títulos.",
+      "De once Títulos."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 20 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué artículos comprende el Título Preliminar?",
+    "options": [
+      "Del 1 al 9.",
+      "Del 1 al 8.",
+      "Del 1 al 14."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 22 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuántas Disposiciones Adicionales tiene la Constitución española de 1978?",
+    "options": [
+      "Nueve.",
+      "Cuatro.",
+      "Cinco."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 24 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué Título de la Constitución española de 1978 está dedicado a la organización territorial del Estado?",
+    "options": [
+      "El Título VII.",
+      "El Título VI.",
+      "El Título VIII."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 26 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿De cuántos artículos consta la Constitución española de 1978?",
+    "options": [
+      "De 169.",
+      "De 167.",
+      "De 165."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 27 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué artículos comprende el Título I de la Constitución española de 1978?",
+    "options": [
+      "Del 10 al 55.",
+      "Del 9 al 55.",
+      "Del 14 al 55."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 29 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "A tenor del contenido del artículo 1.1. de la Constitución española de 1978, ¿en qué tipo de Estado se constituyó el Estado español?",
+    "options": [
+      "Social, liberal y de derecho.",
+      "Social, democrático y capitalista.",
+      "Democrático, de derecho y social."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 31 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿De cuántas partes se compone la Constitución española de 1978?",
+    "options": [
+      "De dos, dogmática y orgánica.",
+      "De tres, orgánica, dogmática y estructural.",
+      "De dos, orgánica y estructural."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 32 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué contenido tiene la Disposición Final de la Constitución española de 1978?",
+    "options": [
+      "Contiene una cláusula derogatoria y el mandato de publicación en todas las lenguas españolas además del castellano.",
+      "Ninguna de las otras respuestas es correcta.",
+      "Contiene solamente el mandato de vigencia inmediata."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 33 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Dónde reside la soberanía nacional a tenor del contenido del art.1.2. de la Constitución española de 1978?",
+    "options": [
+      "En el Jefe del Estado y en el pueblo español.",
+      "En las distintas partes que forman el Estado español.",
+      "En el pueblo español."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 34 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál es la forma política del Estado español?",
+    "options": [
+      "Monarquía parlamentaria.",
+      "Estado democrático.",
+      "Constitucional y democrático."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 35 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En qué se fundamenta la Constitución, según el art. 2 de la misma?",
+    "options": [
+      "En el pueblo español que la refrendó.",
+      "En la indisoluble unidad de la nación española.",
+      "En el poder soberano de las Cortes Generales."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 36 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué artículo de la Constitución de 1978 recoge el principio de autonomía de nacionalidades y regiones?",
+    "options": [
+      "El artículo 3.",
+      "El artículo 4.",
+      "El artículo 2."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 37 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál es la lengua oficial del Estado español?",
+    "options": [
+      "El castellano.",
+      "El español exclusivamente.",
+      "El castellano y las demás lenguas de acuerdo con los Estatutos de las Comunidades Autónomas."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 38 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué artículo de la Constitución española de 1978 recoge la bandera española?",
+    "options": [
+      "El artículo 5.",
+      "El artículo 4.",
+      "El artículo 7."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 39 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál es el artículo más corto de toda la Constitución?",
+    "options": [
+      "El artículo 3.",
+      "El artículo 6.",
+      "El artículo 5."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 40 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿A quién le corresponde la defensa del ordenamiento constitucional?",
+    "options": [
+      "A las Fuerzas Armadas.",
+      "A las Cortes Generales.",
+      "Al Gobierno y a las Cortes Generales."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 41 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "Según el artículo 9 de la Constitución española de 1978, ¿ a qué están sujetos los poderes públicos y los ciudadanos?",
+    "options": [
+      "A la ley y al ordenamiento jurídico.",
+      "A la Constitución y al resto del ordenamiento jurídico.",
+      "A la Constitución, a la ley y al resto del ordenamiento jurídico."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 42 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué disposiciones son irretroactivas?",
+    "options": [
+      "Las sancionadoras que limiten derechos individuales exclusivamente.",
+      "Las disposiciones favorables que limiten derechos adquiridos.",
+      "Ninguna de las otras respuestas es correcta."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 43 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué significado tiene el principio de publicidad normativa?",
+    "options": [
+      "Que todas las normas deben ser publicadas en un diario oficial.",
+      "Que a los ciudadanos están obligados a conocer las normas para que les pueda ser exigible su contenido.",
+      "Que todas las normas deben publicarse en un periódico de difusión nacional."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 44 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué artículo de la Constitución hace referencia a los sindicatos de trabajadores?",
+    "options": [
+      "El artículo 8.",
+      "El artículo 7.",
+      "El artículo 9."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 45 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿De qué plazo disponen los miembros de las Cámaras para solicitar, en el caso anterior, la celebración de un referéndum?",
+    "options": [
+      "De diez días hábiles.",
+      "De veinte días.",
+      "De quince días."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 49 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En cuál de los siguientes casos se aplica el procedimiento reformista del artículo 168?",
+    "options": [
+      "Cuando se pretenda reformar el artículo 2 de la Constitución.",
+      "Cuando se pretenda la reforma del Título VI de la Constitución.",
+      "Cuando se pretenda la reforma del Título X de la Constitución."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 50 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En cuántos Capítulos se estructura el Título I de la Constitución española de 1978?",
+    "options": [
+      "En cuatro.",
+      "En cinco.",
+      "En tres."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 51 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué artículo cierra el Título I?",
+    "options": [
+      "El artículo 54.",
+      "El artículo 56.",
+      "El artículo 55."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 52 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿De cuántas secciones consta el Capítulo II del Título I?",
+    "options": [
+      "De dos.",
+      "De tres.",
+      "De cuatro."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 53 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué artículos forman la sección denominada \" Derechos fundamentales y libertades públicas?",
+    "options": [
+      "Los artículos del 14 al 29 ambos inclusive.",
+      "Los artículos del 15 al 29 ambos inclusive.",
+      "Los artículos del 15 al 30 ambos inclusive."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 54 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué artículo del Título I recoge la regulación de la suspensión de los derechos y libertades?",
+    "options": [
+      "El artículo 51.",
+      "El artículo 57.",
+      "El artículo 55."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 55 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué artículo del Título I recoge el principio de igualdad jurídica de los españoles ante la ley?",
+    "options": [
+      "El artículo 14.",
+      "El artículo 11.",
+      "El artículo 16."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 56 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿A qué edad se alcanza la mayoría de edad a tenor del contenido del artículo 10 de la Constitución?",
+    "options": [
+      "A los dieciocho años, pero se establece en el artículo 15.",
+      "A los dieciocho años pero no se regula en el artículo 10.",
+      "A los dieciocho años pero se regula en el artículo 18."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 57 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de las siguientes afirmaciones no es correcta?",
+    "options": [
+      "La pena de muerte está abolida en todos los casos.",
+      "La pena de muerte no está abolida en España en el campo militar aún en tiempo de paz.",
+      "La pena de muerte está abolida en la actualidad incluso en el campo militar y en tiempo de guerra."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 58 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de las siguientes normas contiene la respuesta correcta de la pregunta anterior?",
+    "options": [
+      "La Ley Orgánica 11/ 1995, de 27 de noviembre.",
+      "La Ley Orgánica 1/ 1995, de 27 de enero.",
+      "La Ley Orgánica 21/ 1995, de 24 de febrero."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 59 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "En relación con el derecho a la libertad religiosa ¿qué declara la Constitución española?",
+    "options": [
+      "La reconoce y la garantiza.",
+      "La garantiza.",
+      "La reconoce, la garantiza y la protege."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 60 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En qué casos se puede obligar a un ciudadano a declarar sobre su ideología?",
+    "options": [
+      "En caso de ciudadanos extranjeros.",
+      "En cualquier caso.",
+      "En ningún caso."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 61 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué carácter tiene el estado español a tenor del contenido del artículo 16 de la Constitución española de 1978?",
+    "options": [
+      "Estado católico.",
+      "Estado laico.",
+      "Estado civil."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 62 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En qué año fue aprobada la Ley Orgánica de Libertad Religiosa?",
+    "options": [
+      "En 1979.",
+      "En 1980.",
+      "En 1981."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 63 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En qué artículo de la Constitución española de 1978 se contiene el derecho a la libertad y seguridad individual?",
+    "options": [
+      "En el artículo 18.",
+      "En el artículo 21.",
+      "En el artículo 17."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 64 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál es el tiempo máximo de duración de la detención preventiva a tenor del contenido del artículo anterior?",
+    "options": [
+      "72 horas.",
+      "24 horas.",
+      "36 horas."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 65 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué debe hacerse con un detenido en el momento en que se agote el tiempo máximo de detención preventiva?",
+    "options": [
+      "Ponerlo en libertad.",
+      "Ponerlo en libertad o a disposición judicial.",
+      "Ponerlo a disposición judicial para que declare la puesta en libertad."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 66 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "En el caso de la detención preventiva ¿en qué trámites está garantizada por la Constitución, la asistencia de abogado?",
+    "options": [
+      "En las diligencias policiales.",
+      "Sólo en las diligencias judiciales.",
+      "En las diligencias policiales y en judiciales."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 67 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cómo se denomina el procedimiento judicial por el que se debe poner a un detenido a disposición inmediata de la autoridad judicial?",
+    "options": [
+      "Habeas Corpus.",
+      "Proceso sumario.",
+      "Proceso de amparo."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 68 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En qué casos se puede proceder a la entrada en un domicilio particular?",
+    "options": [
+      "En caso de delito flagrante o resolución judicial exclusivamente.",
+      "En caso de autorización del titular, resolución judicial o flagrante delito.",
+      "En caso de autorización del titular o resolución judicial exclusivamente."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 69 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué artículo de la Constitución recoge el secreto de las comunicaciones?",
+    "options": [
+      "En el artículo 22.",
+      "En el artículo 24.",
+      "En el artículo 18."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 70 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Pueden interceptarse las comunicaciones postales?",
+    "options": [
+      "Sólo mediante resolución judicial.",
+      "Sí, por medio de resolución administrativa.",
+      "Sí, por medio de resolución judicial o administrativa."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 71 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Puede limitarse el derecho a la entrada y salida de territorio español por motivos ideológicos a los ciudadanos españoles?",
+    "options": [
+      "Sí, a tenor del contenido del artículo 20 de la Constitución.",
+      "No, a tenor del contenido del artículo 19 de la Constitución.",
+      "No, a tenor del artículo 21 de la Constitución."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 72 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En qué artículo de la Constitución se regula el derecho a la cláusula de conciencia y al secreto profesional?",
+    "options": [
+      "En el artículo 24.",
+      "En el artículo 27.",
+      "En el artículo 20."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 73 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En qué ámbito están prohibidos los Tribunales de Honor?",
+    "options": [
+      "En el ámbito de la Administración civil y en el de las organizaciones profesionales.",
+      "En el ámbito de la Administración civil y militar.",
+      "En el ámbito de la Administración civil y militar y en el de las organizaciones profesionales."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 75 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Puede, la Administración civil, imponer sanciones que impliquen privación de libertad?",
+    "options": [
+      "No de forma directa, pero si de forma subsidiaria.",
+      "No, ni de forma directa ni de forma indirecta o subsidiaria.",
+      "Sí, tanto de forma indirecta como directa."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 76 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "Las penas privativas de libertad ¿pueden consistir en trabajos forzados?",
+    "options": [
+      "Sí, mediante resolución judicial.",
+      "Sólo en casos excepcionalmente recogidos en la legislación vigente.",
+      "En ningún caso."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 77 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de los siguientes derechos no se engloba en el derecho a la tutela judicial efectiva?",
+    "options": [
+      "El derecho al juez subsidiario.",
+      "El derecho al cumplimiento de las resoluciones judiciales.",
+      "El derecho a obtener una decisión por parte de los jueces y tribunales."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 78 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En qué articulo de la Constitución se contempla el derecho al matrimonio?",
+    "options": [
+      "En el artículo 33.",
+      "En el artículo 32.",
+      "En el artículo 34."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 79 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Se delimita, en la Constitución española de 1978, el derecho a la propiedad privada?",
+    "options": [
+      "Sí, de acuerdo con las normas extraordinarias dictadas por el Tribunal Constitucional.",
+      "No. La propiedad privada no tiene delimitación constitucional.",
+      "Sí, de acuerdo con las leyes y en virtud de su función social."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 80 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué asociaciones son ilegales?",
+    "options": [
+      "Las que persigan fines o utilicen medios tipificados como delito.",
+      "Las que no estén inscritas en el registro correspondiente del Ministerio del Interior.",
+      "Las que se reúnan sin autorización previa."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 81 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué asociaciones están prohibidas?",
+    "options": [
+      "Las asociaciones ilegales y las paramilitares.",
+      "Las asociaciones paramilitares y las secretas.",
+      "Las asociaciones paramilitares, ilegales y secretas."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 82 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué españoles pueden ejercer el derecho de petición solo de manera individual?",
+    "options": [
+      "Los miembros de las Fuerzas Armadas.",
+      "Los miembros de las Fuerzas Armadas y los miembros del Poder Judicial.",
+      "Los miembros de los institutos armados con disciplina militar y los pertenecientes a las Fuerzas Armadas."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 83 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué artículo de la Constitución recoge el derecho y el deber de trabajar?",
+    "options": [
+      "El artículo 35.",
+      "El artículo 37.",
+      "El artículo 39."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 84 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué contenido tiene el artículo 44 de la Constitución?",
+    "options": [
+      "El derecho a la salud.",
+      "El derecho de acceso a la cultura.",
+      "El derecho a una vivienda adecuada."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 85 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cómo se adquiere, se conserva y se pierde la nacionalidad española?",
+    "options": [
+      "De acuerdo con la Constitución.",
+      "De acuerdo con las normas internacionales.",
+      "De acuerdo con la ley."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 86 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué tipo de delitos están excluidos de la extradición?",
+    "options": [
+      "Los delitos políticos.",
+      "Los delitos sociales y políticos.",
+      "Los delitos sociales, pero no los políticos."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 87 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Ante quién se presenta el recurso de amparo?",
+    "options": [
+      "Ante el Tribunal Supremo.",
+      "Ante el Tribunal Constitucional.",
+      "Ante cualquier juzgado o tribunal."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 88 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué tipo de ley es necesaria para regular el desarrollo del artículo 21 de la Constitución española de 1978?",
+    "options": [
+      "Ley ordinaria.",
+      "Ley de bases.",
+      "Ley orgánica."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 90 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál es el origen de la figura del Defensor del Pueblo?",
+    "options": [
+      "El Ombudsman.",
+      "Los jurados populares.",
+      "Los Tribunales de Honor."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 91 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Ante quién debe rendir cuenta el Defensor del Pueblo?",
+    "options": [
+      "Ante el Congreso de los Diputados.",
+      "Ante las Cortes Generales.",
+      "Ante los Tribunales y el Congreso de los Diputados."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 92 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuánto dura el mandato del Defensor del Pueblo?",
+    "options": [
+      "Cuatro años.",
+      "Dos años.",
+      "Cinco años."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 94 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuántos adjuntos asisten al Defensor del Pueblo?",
+    "options": [
+      "Dos.",
+      "Tres.",
+      "Cinco."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 95 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿De quién recibe órdenes el Defensor del Pueblo?",
+    "options": [
+      "De las Cortes Generales.",
+      "No está sometido a mandato imperativo.",
+      "Del Gobierno."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 96 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Quién nombra al Defensor del Pueblo?",
+    "options": [
+      "El Presidente del Gobierno.",
+      "La Comisión Mixta Congreso-Senado para las relaciones con el Defensor del Pueblo.",
+      "Las Cortes Generales."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 97 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué Real Decreto de los indicados a continuación regula los Títulos, Tratamientos y Honores de la Familia Real?",
+    "options": [
+      "RD 1386/ 1987, de 6 de noviembre.",
+      "RD 1386/ 1986, de 6 de noviembre.",
+      "RD 1686/ 1987, de 6 de noviembre."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 106 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué tratamiento recibe el Consorte de la Reina?",
+    "options": [
+      "Alteza.",
+      "Alteza Real.",
+      "Excelentísimo."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 107 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué línea es preferida en la Sucesión?",
+    "options": [
+      "La directa sobre la colateral.",
+      "La colateral sobre la indirecta.",
+      "La descendente sobre la colateral."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 114 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Quién tiene preferencia en la Sucesión en el caso de que se de un supuesto de igualdad de grado?",
+    "options": [
+      "Los varones sobre las mujeres.",
+      "Las mujeres sobre los varones.",
+      "La persona de más edad sobre la de menos."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 115 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de los siguientes principios se aplica a la Sucesión?",
+    "options": [
+      "El principio de prioridad.",
+      "El principio de representación.",
+      "El principio de asunción."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 116 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué grado es preferido en el caso de que se dé un supuesto de igualdad de línea?",
+    "options": [
+      "El grado más remoto al más cercano.",
+      "El grado más directo al indirecto.",
+      "El grado más próximo al más remoto."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 117 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Ante quién presta juramento el Regente?",
+    "options": [
+      "Ante las Cortes Generales.",
+      "Ante el Congreso de los Diputados.",
+      "Ante el Senado y el Gobierno."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 122 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué artículo de la Constitución establece los supuestos de exclusión a la Sucesión?",
+    "options": [
+      "El artículo 57.2.",
+      "El artículo 57.4.",
+      "El artículo 57.3."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 123 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Pueden acumularse los cargos de Tutor y Regente en una misma persona?",
+    "options": [
+      "Sólo en el caso de la madre o el padre del Rey menor.",
+      "Sólo en el caso de ascendientes indirectos del Rey menor.",
+      "Sí, en el padre, la madre, o ascendientes directos del Rey menor."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 127 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En cuál de los siguientes casos es imprescindible ser español de nacimiento?",
+    "options": [
+      "Para ejercer la tutela testamentaria.",
+      "Para ejercer la Regencia.",
+      "Para ejercer la Regencia y la tutela testamentaria."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 128 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cómo deben regularse las dudas relacionadas con la abdicación?",
+    "options": [
+      "Por Ley ordinaria.",
+      "Por Ley orgánica.",
+      "Por Decreto ley."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 129 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En qué artículo de la Constitución se recoge el juramento del Príncipe Heredero?",
+    "options": [
+      "En el artículo 61.3.",
+      "En el artículo 64.2.",
+      "En el artículo 61.2."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 135 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué Real Decreto regula la Casa Real?",
+    "options": [
+      "El Real Decreto 434/ 1988, de 6 de mayo.",
+      "El Real Decreto 434/ 1998, de 6 de mayo.",
+      "El Real Decreto 434/ 1987, de 6 de mayo."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 144 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿De quién dependen todos los Servicios de la Casa Real?",
+    "options": [
+      "De la Secretaría General.",
+      "Del Jefe de la Casa Real.",
+      "Del Ministro del Interior."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 145 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Quién nombra a los miembros de la Casa Real?",
+    "options": [
+      "El Jefe de la Casa Real.",
+      "El Ministro del Interior.",
+      "El Rey."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 146 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿De qué año es el Real Decreto que regula el Registro Civil de la Familia Real?:.",
+    "options": [
+      "De 1981.",
+      "De 1781.",
+      "De 1681."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 147 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué Tratamiento se aplica a los hijos de los Infantes de España?",
+    "options": [
+      "Ilustrísimo.",
+      "Excelentísimo.",
+      "Señoría."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 148 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué órgano asume la función de las Cámaras entre los periodos de sesiones?",
+    "options": [
+      "La Diputación Permanente del Congreso.",
+      "La Diputación Permanente del Senado.",
+      "La Diputación Permanente de cada Cámara."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 157 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué meses abarca el primer periodo de sesiones de las Cámaras?",
+    "options": [
+      "De septiembre a diciembre.",
+      "De septiembre a enero.",
+      "De enero a julio."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 160 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Quién elabora el reglamento interno de cada Cámara?",
+    "options": [
+      "La Diputación Permanente.",
+      "Cada una de las Cámaras.",
+      "Los Presidentes de las Cámaras."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 162 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de los siguientes no es un órgano interno de las Cámaras?",
+    "options": [
+      "Las Comisiones.",
+      "El Presidente de la Cámara.",
+      "La Comisión de Plenos."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 165 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿A quién le corresponde fijar el calendario de trabajo del Pleno?",
+    "options": [
+      "A la Mesa.",
+      "Al Presidente de la Mesa.",
+      "A la Junta de Diputados."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 167 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En cuál de los siguientes casos no es necesario que se constituya una comisión mixta, en caso de que no exista acuerdo entre ambas Cámaras?",
+    "options": [
+      "Para realizar la distribución del Fondo de Compensación Interterritorial.",
+      "Para nombrar al Presidente del Tribunal Supremo.",
+      "Para otorgar la autorización para suscribir un Tratado Internacional."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 171 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Por qué tipo de mayoría se adoptan las decisiones en el seno de la Junta de Portavoces?",
+    "options": [
+      "Por mayoría simple.",
+      "Por mayoría absoluta.",
+      "Por medio del voto ponderado."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 172 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de las siguientes funciones no puede ser ejercida por los Grupos Parlamentarios?",
+    "options": [
+      "Ser consultados por la Mesa antes de fijar el calendario de actividades.",
+      "Determinar la elección de los miembros de la Mesa de la Cámara.",
+      "Designar los miembros que de cada Grupo Parlamentario, han de formar parte de las Comisiones."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 175 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál es el número de miembros que componen la Diputación Permanente del Congreso?",
+    "options": [
+      "15.",
+      "21.",
+      "24."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 176 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Quién representa al pueblo español?",
+    "options": [
+      "El Congreso de los Diputados.",
+      "El Senado.",
+      "Las Cortes Generales."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 182 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Pueden vincular las conclusiones de una Comisión de Investigación a los Tribunales?",
+    "options": [
+      "En ningún caso.",
+      "Sólo en caso de que se traten materias penales.",
+      "En cualquier caso."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 184 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de las siguientes definiciones corresponden al concepto de inmunidad parlamentaria?",
+    "options": [
+      "Consiste en que los Diputados o Senadores no pueden ser detenidos en ningún caso.",
+      "Consiste en que los Diputados o Senadores no pueden ser detenidos salvo en los casos de flagrante delito.",
+      "Consiste en que los Diputados o Senadores no están obligados a declarar."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 186 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de los siguientes cargos es incompatible con el ejercicio de la función parlamentaria?",
+    "options": [
+      "Ser miembro de una Junta Electora.",
+      "Pertenecer a una comisión permanente no legislativa.",
+      "Pertenecer a la Junta de Portavoces."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 187 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de los siguientes Ministerios no existe en la actualidad?",
+    "options": [
+      "Ministerio de Economía y Hacienda.",
+      "Ministerio de Fomento.",
+      "Ministerio de Sanidad y Consumo."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 209 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de los siguientes órganos indicados es un órgano superior de un departamento ministerial?",
+    "options": [
+      "El Secretario General.",
+      "El Secretario de Estado.",
+      "El Secretario General Técnico."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 210 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cómo se clasifican los órganos de un Ministerio según la Ley de Organización y Funcionamiento de la Administración General del Estado?",
+    "options": [
+      "En órganos superiores y dependientes.",
+      "En órganos directivos y ejecutivos.",
+      "En órganos superiores y directivos."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 211 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En qué año fue aprobada la Ley de Organización y Funcionamiento de la Administración General del Estado?",
+    "options": [
+      "1997.",
+      "1998.",
+      "1999."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 214 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Quién nombra a los Ministros?",
+    "options": [
+      "El Rey con refrendo del Presidente del Congreso.",
+      "El Rey con refrendo del Presidente del Gobierno.",
+      "El Rey con refrendo del Presidente de las Cortes."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 221 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Por medio de qué documento se nombra a un ministro?",
+    "options": [
+      "Por Decreto.",
+      "Por Orden Ministerial.",
+      "Por Real Decreto."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 222 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cómo son nombrados los Secretarios de Estado?",
+    "options": [
+      "Por Real Decreto refrendado por el Presidente del Gobierno.",
+      "Por Real Decreto del Consejo de Ministros.",
+      "Por Decreto del Presidente del Gobierno."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 237 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cómo se crean las unidades administrativas que no tengan la consideración de órganos de la Administración General del Estado?",
+    "options": [
+      "Por Real Decreto del Consejo de Ministros.",
+      "A través de las relaciones de puestos de trabajo.",
+      "Por Decreto de la Presidencia del Gobierno."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 238 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué rango ostentan los Secretarios Generales Técnicos?",
+    "options": [
+      "De Subdirector General.",
+      "De Secretario General.",
+      "De Director General."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 244 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de los siguientes principios no es aplicable a la organización administrativa?",
+    "options": [
+      "Territorialidad.",
+      "Descentralización.",
+      "Desconcentración."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 245 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué artículo de la Constitución recoge los principios a los que debe ajustarse la Administración en su actuación?",
+    "options": [
+      "El artículo 104.",
+      "El artículo 103.",
+      "El artículo 106."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 247 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuántos Ministerios existen en la actualidad?",
+    "options": [
+      "14.",
+      "12.",
+      "15."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 250 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de las siguientes notas características es predicable de la ley como fuente del derecho?",
+    "options": [
+      "Es una fuente recogida en el art. 1 del Código Civil.",
+      "Es una fuente indirecta.",
+      "Es una fuente recogida en el art. 23 de la Constitución."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 251 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuándo entran en vigor las leyes?",
+    "options": [
+      "A los quince días de su completa publicación en el Boletín Oficial del Estado.",
+      "A los veinte días de su publicación íntegra en el Boletín Oficial del Estado salvo que en ellas se disponga otra cosa.",
+      "En el mismo día de su publicación íntegra en el Boletín Oficial del Estado."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 252 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "La regla general en relación con el contenido de las leyes es:",
+    "options": [
+      "Que nunca tienen efecto retroactivo.",
+      "Que sólo tienen efecto irretroactivo cuando se establece en las mismas.",
+      "Que sólo tienen efecto retroactivo cuando lo establezca su contenido."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 253 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué artículo de la Constitución está dedicado a la irretroactividad de las disposiciones desfavorables o restrictivas de derechos individuales?",
+    "options": [
+      "El art. 9.3.",
+      "El art. 9.2.",
+      "El art. 9.4."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 254 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de las siguientes materias no requiere desarrollo por medio de ley orgánica?",
+    "options": [
+      "La alteración de los límites provinciales.",
+      "La alteración del nombre de una provincia.",
+      "La regulación del funcionamiento del Tribunal de Cuentas."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 255 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En cuál de los siguientes órganos puede delegarse la elaboración de leyes orgánicas?",
+    "options": [
+      "En las comisiones legislativas de las Cámaras.",
+      "En la Diputación permanente de las Cámaras.",
+      "Su elaboración es indelegable."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 256 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué artículo de la Constitución establece las materias que deben ser desarrolladas por medio de ley orgánica?",
+    "options": [
+      "El art. 81.",
+      "El art. 85.",
+      "El art. 83."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 257 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de los siguientes no tiene capacidad para ejercer la iniciativa legislativa?",
+    "options": [
+      "Las Asambleas legislativas de las Comunidades Autónomas.",
+      "Los Gobiernos de las Comunidades Autónomas.",
+      "El Gobierno."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 258 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuántos componentes tiene que tener la delegación autonómica encargada de la defensa de una proposición de ley autonómica?",
+    "options": [
+      "Dos.",
+      "Cuatro.",
+      "Tres."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 262 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál es el número de firmas necesario para el ejercicio de la iniciativa legislativa popular?",
+    "options": [
+      "No menos de 500.000.",
+      "500.000.",
+      "Más de 600.000."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 263 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En cual de las siguientes materias procede la iniciativa legislativa popular?",
+    "options": [
+      "En materias de carácter internacional.",
+      "En materias relacionadas con las comunidades de vecinos.",
+      "En materias relativas a la prerrogativa de gracia."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 264 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de los siguientes requisitos debe cumplirse en la tramitación de proposiciones de ley?",
+    "options": [
+      "Deben ser remitidas exclusivamente a la Mesa del Congreso.",
+      "No deben remitirse a ningún órgano externo al Congreso en ningún caso.",
+      "Deben remitirse al Gobierno para que de su aprobación antes de ser tramitadas en algunos casos."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 265 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué artículo de la Constitución está dedicado a la regulación de los decretos leyes?",
+    "options": [
+      "El art. 86.",
+      "El art. 87.",
+      "El art. 82."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 268 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de las siguientes materias si es regulable por medio de decreto ley?",
+    "options": [
+      "El régimen de las Comunidades Autónomas.",
+      "Las materias objeto de ley ordinaria.",
+      "El derecho electoral general."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 269 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Quién convalida un decreto ley?",
+    "options": [
+      "El Senado.",
+      "Las Cortes Generales.",
+      "El Congreso de los Diputados."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 270 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿De qué plazo dispone el órgano competente para convalidar o no un decreto ley?",
+    "options": [
+      "Treinta días.",
+      "Veinte días.",
+      "Veinticinco días."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 271 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Quién convalida un decreto ley en caso de que sea aprobado durante el mes de agosto?",
+    "options": [
+      "El Gobierno.",
+      "La Diputación permanente del Congreso.",
+      "La Diputación permanente del Senado."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 272 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué otro nombre reciben los decretos legislativos?",
+    "options": [
+      "Legislación ejecutiva.",
+      "Legislación delegante.",
+      "Legislación delegada."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 273 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "Si se dicta una ley de bases ¿qué contenido tendrá el decreto legislativo de desarrollo?",
+    "options": [
+      "Texto articulado.",
+      "Texto refundido.",
+      "Texto delegado."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 274 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "Si la delegación se realiza por medio de ley ordinaria ¿qué contenido tendrá el decreto legislativo de desarrollo?",
+    "options": [
+      "Texto articulado.",
+      "Texto refundido.",
+      "Texto delegado."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 275 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de las siguientes materias puede autorizar una ley de bases?",
+    "options": [
+      "Facultar la aprobación de normas de carácter retroactivo.",
+      "Facultar y autorizar la modificación de la propia ley de bases, dictando normas de carácter retroactivo.",
+      "Autorizar la aprobación de normas de carácter irretroactivo."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 276 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de las siguientes afirmaciones no es correcta en relación con la autorización contenida en la ley de delegación?",
+    "options": [
+      "Puede otorgarse de forma tácita.",
+      "Debe otorgarse para materia concreta.",
+      "Debe otorgarse de forma expresa."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 277 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué procedimiento debe seguirse para la denuncia de un Tratado Internacional?",
+    "options": [
+      "Es suficiente denuncia del Gobierno.",
+      "El mismo que para su aprobación.",
+      "Denuncia del Gobierno previa autorización del Senado."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 282 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuándo pasan a formar parte del ordenamiento nacional, los tratados firmados válidamente por España?",
+    "options": [
+      "El mismo día de su publicación.",
+      "En el momento de su firma solemne.",
+      "Una vez publicados íntegramente en España."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 283 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cómo se denominan los reglamentos que se encargan de desarrollar el contenido de una ley?",
+    "options": [
+      "Reglamentos ejecutivos.",
+      "Reglamentos normativos.",
+      "Reglamentos ad extra."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 286 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué requisito debe cumplirse para dictar un reglamento general de ejecución de una ley?",
+    "options": [
+      "Dictamen favorable del Consejo de Estado.",
+      "Informe previo del Consejo de Estado.",
+      "Dictamen previo del Ministerio de Presidencia."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 287 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "Si la Administración ejercita su facultad de autoorganización y dicta un reglamento para regular sus servicios, estamos ante un reglamento:",
+    "options": [
+      "De necesidad.",
+      "Ejecutivo.",
+      "Organizativo."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 288 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuándo se aplica la costumbre como fuente del derecho?",
+    "options": [
+      "En defecto de ley aplicable.",
+      "En cualquier caso en que resulte de aplicación por la materia.",
+      "En cualquier caso aunque exista ley aplicable."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 290 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "Si un reglamento está dirigido a todos los ciudadanos y ha de ser cumplido por los nacionales que actúan en un Estado, estamos ante un reglamento:",
+    "options": [
+      "Especial.",
+      "General.",
+      "Inaplicable."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 291 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de las siguientes clases de leyes no existe?",
+    "options": [
+      "Leyes armonizadoras.",
+      "Leyes de transferencia.",
+      "Leyes reglamentarias."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 292 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "Las disposiciones que contradigan lo establecido en una norma de carácter superior:",
+    "options": [
+      "Son nulas de pleno derecho.",
+      "Deben ser adaptadas.",
+      "Son anuladas por las Cortes Generales."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 293 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué artículo del Código Civil establece las fuentes del Derecho?",
+    "options": [
+      "El art. 18.",
+      "El art. 1.",
+      "El art. 35."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 296 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Dónde deben publicarse las leyes?",
+    "options": [
+      "En cualquier diario oficial.",
+      "En el Diario de la Unión Europea.",
+      "En el BOE."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 297 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué norma puede regular la institución del Defensor del Pueblo?",
+    "options": [
+      "Una ley orgánica.",
+      "Una ley ordinaria.",
+      "Un decreto ley."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 298 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué norma puede regular la institución del Consejo de Estado?",
+    "options": [
+      "Una ley ordinaria.",
+      "Una ley orgánica.",
+      "Un decreto ley."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 300 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál es el origen que la Constitución atribuye a la Justicia?",
+    "options": [
+      "Legislativo.",
+      "Positivista.",
+      "Popular."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 302 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿De quién emana la Justicia?",
+    "options": [
+      "Del pueblo.",
+      "De las Instituciones democráticas del Estado.",
+      "De la Constitución y del Derecho."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 303 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En nombre de quién se administra la Justicia?",
+    "options": [
+      "En nombre del pueblo español.",
+      "En nombre del Rey.",
+      "En nombre de España."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 304 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de los siguientes procedimientos es una forma de participación del pueblo en la Administración de Justicia?",
+    "options": [
+      "La asistencia libre a los Juzgados.",
+      "La presentación de querellas criminales.",
+      "La institución del Jurado."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 305 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En qué artículo de la Constitución se recoge el principio de unidad jurisdiccional?",
+    "options": [
+      "117.5.",
+      "117.1.",
+      "115."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 306 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En qué artículo de la Constitución se reconoce el derecho de acceso a la Justicia?",
+    "options": [
+      "25.",
+      "24.",
+      "26."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 307 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de las siguientes no es una jurisdicción especial?",
+    "options": [
+      "Constitucional.",
+      "Militar.",
+      "Penal."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 308 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de los siguientes principios no es predicable de la Justicia en España?",
+    "options": [
+      "Principio de Movilidad.",
+      "Principio de Exclusividad.",
+      "Principio de Oralidad."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 309 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de las siguientes normas regula la asistencia jurídica gratuita?",
+    "options": [
+      "Ley 11/ 1996, de 10 de enero.",
+      "Ley 1/ 1996, de 10 de enero.",
+      "Ley 10/ 1996, de 10 de enero."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 310 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué tipo de Tribunales están prohibidos por la Constitución?",
+    "options": [
+      "Los Tribunales de Honor y los Tribunales consuetudinarios.",
+      "Los Tribunales consuetudinarios y los Tribunales de excepción.",
+      "Los Tribunales de excepción y los Tribunales de Honor."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 311 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué artículo de la Constitución recoge el principio de exclusividad del ejercicio de la potestad jurisdiccional?",
+    "options": [
+      "117. 3.",
+      "117.5.",
+      "117.2."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 312 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué ley, de las indicadas a continuación, aprueba la normativa referente a la institución del jurado?",
+    "options": [
+      "Ley Orgánica 15/ 1995, de 22 de mayo.",
+      "Ley Orgánica 5/ 1995, de 22 de mayo.",
+      "Ley Orgánica 25/ 1995, de 22 de mayo."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 313 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué artículo de la Constitución española de 1978 recoge el principio de gratuidad de la justicia?",
+    "options": [
+      "El art. 118.",
+      "El art. 121.",
+      "El art. 119."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 315 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En qué año se aprobó la Ley de Demarcación y Planta Judicial?",
+    "options": [
+      "1988.",
+      "1978.",
+      "1979."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 317 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Quién puede modificar, el número de órganos judiciales mediante la creación de Secciones y Juzgados, sin alterar la demarcación judicial?",
+    "options": [
+      "El Congreso de los Diputados.",
+      "El Gobierno.",
+      "El Jefe del Estado."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 318 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál es la mayoría necesaria para proponer a un juez como vocal del Consejo?",
+    "options": [
+      "2/3.",
+      "1/3.",
+      "3/5."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 326 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuántos miembros del Consejo son nombrados de entre profesiones distintas a las de Juez y Magistrado?",
+    "options": [
+      "Ocho.",
+      "Seis.",
+      "Diez."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 328 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Dónde tiene su sede la Audiencia Nacional?",
+    "options": [
+      "En Sevilla.",
+      "En Madrid.",
+      "En Valencia."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 344 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuántas Salas tiene la Audiencia Nacional?",
+    "options": [
+      "Dos.",
+      "Cinco.",
+      "Tres."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 346 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de los siguientes Tribunales o Juzgados no existe?",
+    "options": [
+      "Magistratura de Trabajo.",
+      "Juzgado de lo Penal.",
+      "Juzgado de Instrucción."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 348 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de las siguientes Salas no existe en un Tribunal Superior de Justicia?",
+    "options": [
+      "La Sala de lo Penal.",
+      "La Sala de Instrucción.",
+      "La Sala de lo Civil."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 350 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué Título de la Constitución está dedicado a la regulación de la Organización territorial del Estado?",
+    "options": [
+      "El Título VII.",
+      "El Título VI.",
+      "El Título VIII."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 401 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Qué artículo de la Constitución recoge el principio de autonomía?",
+    "options": [
+      "El artículo 2.",
+      "El artículo 5.",
+      "El articulo 1."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 402 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿A quién se reconoce autonomía en la Constitución española?",
+    "options": [
+      "A las nacionalidades y comunidades autónomas.",
+      "A las regiones y a las nacionalidades.",
+      "A las comunidades autónomas y a las regiones."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 403 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿En qué año fue plesbiscitado, por primera vez, el Estatuto Gallego?",
+    "options": [
+      "1932.",
+      "1933.",
+      "1936."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 406 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿En qué fecha se firmaron los Acuerdos Autonómicos?",
+    "options": [
+      "31 de julio de 1981.",
+      "1 de julio de 1981.",
+      "2 de junio de 1980."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 407 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿En qué año se firmaron los pactos Autonómicos?",
+    "options": [
+      "1993.",
+      "1992.",
+      "1994."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 408 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cuál de los siguientes principios no se recoge en el artículo 2 de la Constitución española de 1978?",
+    "options": [
+      "Unidad.",
+      "Solidaridad.",
+      "Subsidiariedad."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 409 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cuál de los siguientes principios no es predicable del Estado autonómico?",
+    "options": [
+      "Principio de dependencia financiera.",
+      "Principio de progresividad.",
+      "Principio de supremacía estatal."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 410 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Qué artículos de la Constitución recogen las vías de acceso a la autonomía, de los indicados a continuación?",
+    "options": [
+      "Art. 144 y art. 143.",
+      "Art. 143 y art. 151.",
+      "Art. 153 y 151."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 412 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cómo se denominan a las dos principales vías de acceso a la autonomía?",
+    "options": [
+      "Vía común y vía lenta.",
+      "Vía especial y vía rápida.",
+      "Vía lenta y vía rápida."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 413 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿En qué artículo de la Constitución se establecen los contenidos mínimos que deben recoger los Estatutos de autonomía?",
+    "options": [
+      "147.2.",
+      "151.2.",
+      "148.4."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 424 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Qué artículo de la Constitución recoge las competencias exclusivas del Estado?",
+    "options": [
+      "150.",
+      "149.",
+      "151."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 427 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿En qué Título de la Constitución se regula la Administración Local?",
+    "options": [
+      "El Título VII.",
+      "El Título VI.",
+      "El Título VIII."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 432 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Qué artículo de la Constitución recoge el Fondo de Compensación Interterritorial?",
+    "options": [
+      "158.2.",
+      "158.3.",
+      "158.4."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 433 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿De qué año es la Ley Reguladora de las Bases del Régimen Local?",
+    "options": [
+      "1984.",
+      "1985.",
+      "1986."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 434 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cuál de los siguientes artículos no hace referncia a la Administración Local en la Constitución española de 1978?",
+    "options": [
+      "141.",
+      "142.",
+      "143."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 436 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Quién integra un Ayuntamiento?",
+    "options": [
+      "El Alcalde y los Concejales.",
+      "Los Concejales.",
+      "El Alcalde."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 441 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Quién elige al Alcalde?",
+    "options": [
+      "Los Concejales.",
+      "Los concejales o los vecinos.",
+      "Los vecinos."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 442 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Por qué tipo de sufragio se elige a los Concejales?",
+    "options": [
+      "Por sufragio universal igual, libre, directo y secreto, en la forma establecida por el Gobierno.",
+      "Por sufragio universal igual, libre, directo y secreto, en la forma establecida por el derecho.",
+      "Por sufragio universal igual, libre, directo y secreto, en la forma establecida por la ley."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 443 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cuál de las siguientes afirmaciones es correcta?",
+    "options": [
+      "La provincia es una entidad local, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado.",
+      "La provincia es una entidad local, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Gobierno.",
+      "La provincia es una entidad local, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades de los vecinos."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 444 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Qué es un Cabildo Insular?",
+    "options": [
+      "El órgano de gobierno de las Islas Baleares.",
+      "El órgano de administración propio de las Islas Canarias.",
+      "Un órgano de consulta provincial."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 448 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿De qué año es el Texto Refundido de Disposiciones legales vigentes en materia de régimen local?",
+    "options": [
+      "1987.",
+      "1988.",
+      "1986."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 449 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿De qué año es la Ley de Haciendas Locales?",
+    "options": [
+      "1988.",
+      "1987.",
+      "1989."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 450 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
   }
 ],
 2:[
   {
     "q": "Según el art. 104.1 CE, las Fuerzas y Cuerpos de Seguridad dependen de:",
     "options": [
-      "El Gobierno",
-      "Las Cortes Generales",
       "El Poder Judicial",
+      "El Gobierno",
       "El Ministerio Fiscal"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "Art. 104.1 CE: 'Las Fuerzas y Cuerpos de Seguridad, bajo la dependencia del Gobierno, tendrán como misión proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana.' Este artículo se ubica en el Título IV, dedicado al Gobierno y la Administración."
   },
   {
     "q": "Según el art. 104.1 CE, ¿cuál es la misión de las Fuerzas y Cuerpos de Seguridad?",
     "options": [
       "Garantizar la unidad de mercado",
-      "Proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana",
-      "La defensa territorial frente a agresiones exteriores",
-      "La instrucción de los procesos penales"
+      "La instrucción de los procesos penales",
+      "Proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana"
+    ],
+    "correct": 2,
+    "exp": "La defensa frente a agresiones exteriores corresponde a las Fuerzas Armadas (art. 8 CE); la instrucción penal, al Poder Judicial."
+  },
+  {
+    "q": "¿En qué fecha sancionó el Rey la Constitución Española?",
+    "options": [
+      "27 de diciembre de 1978",
+      "6 de diciembre de 1978",
+      "29 de diciembre de 1978"
+    ],
+    "correct": 0,
+    "exp": "Don Juan Carlos I sancionó la Constitución el 27 de diciembre de 1978."
+  },
+  {
+    "q": "¿En qué Título de la Constitución se regula 'De la Corona'?",
+    "options": [
+      "Título I",
+      "Título II",
+      "Título III"
     ],
     "correct": 1,
-    "exp": "La defensa frente a agresiones exteriores corresponde a las Fuerzas Armadas (art. 8 CE); la instrucción penal, al Poder Judicial."
+    "exp": "El Título II (arts. 56 a 65) se dedica a 'De la Corona'."
+  },
+  {
+    "q": "¿Quién dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado, según el art. 97 CE?",
+    "options": [
+      "El Rey",
+      "El Congreso de los Diputados",
+      "El Gobierno"
+    ],
+    "correct": 2,
+    "exp": "Art. 97: 'El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado.'"
+  },
+  {
+    "q": "Según el art. 97 CE, además de la función ejecutiva, el Gobierno ejerce:",
+    "options": [
+      "La potestad reglamentaria",
+      "La potestad legislativa ordinaria",
+      "La potestad tributaria exclusiva"
+    ],
+    "correct": 0,
+    "exp": "Art. 97: 'Ejerce la función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las leyes.'"
+  },
+  {
+    "q": "Según el art. 98.1 CE, el Gobierno se compone del Presidente, de los Vicepresidentes en su caso, de los Ministros y:",
+    "options": [
+      "De los Secretarios de Estado obligatoriamente",
+      "De los demás miembros que establezca la ley",
+      "De los Subsecretarios ministeriales"
+    ],
+    "correct": 1,
+    "exp": "Art. 98.1: '...y de los demás miembros que establezca la ley.'"
+  },
+  {
+    "q": "Según el art. 98.2 CE, el Presidente del Gobierno dirige la acción de este y:",
+    "options": [
+      "Sustituye a los Ministros cuando lo estima oportuno",
+      "Nombra directamente a los altos cargos sin propuesta",
+      "Coordina las funciones de los demás miembros del mismo"
+    ],
+    "correct": 2,
+    "exp": "Art. 98.2: 'El Presidente dirige la acción del Gobierno y coordina las funciones de los demás miembros del mismo, sin perjuicio de la competencia y responsabilidad directa de éstos en su gestión.'"
+  },
+  {
+    "q": "Según el art. 98.3 CE, los miembros del Gobierno, además del mandato parlamentario, no podrán ejercer:",
+    "options": [
+      "Otra función pública que no derive de su cargo, ni actividad profesional o mercantil alguna",
+      "Ninguna función en absoluto durante su mandato",
+      "El derecho de sufragio activo"
+    ],
+    "correct": 0,
+    "exp": "Art. 98.3: '...ni cualquier otra función pública que no derive de su cargo, ni actividad profesional o mercantil alguna.'"
+  },
+  {
+    "q": "Según el art. 99.3 CE, para ser investido Presidente del Gobierno en la primera votación, el candidato necesita el voto de:",
+    "options": [
+      "La mayoría simple del Congreso",
+      "La mayoría absoluta del Congreso de los Diputados",
+      "La mayoría absoluta del Senado"
+    ],
+    "correct": 1,
+    "exp": "Art. 99.3: 'Si el Congreso de los Diputados, por el voto de la mayoría absoluta de sus miembros, otorgare su confianza a dicho candidato, el Rey le nombrará Presidente.'"
+  },
+  {
+    "q": "Si no se alcanza la mayoría absoluta en la primera votación de investidura, según el art. 99.3, la nueva votación se celebra:",
+    "options": [
+      "Una semana después, exigiendo mayoría absoluta",
+      "Un mes después, sin mayoría exigida",
+      "48 horas después, bastando mayoría simple"
+    ],
+    "correct": 2,
+    "exp": "Art. 99.3: 'se someterá la misma propuesta a nueva votación cuarenta y ocho horas después de la anterior, y la confianza se entenderá otorgada si obtuviere la mayoría simple.'"
+  },
+  {
+    "q": "Según el art. 99.5 CE, si transcurridos dos meses desde la primera votación de investidura ningún candidato ha obtenido la confianza del Congreso:",
+    "options": [
+      "El Rey disolverá ambas Cámaras y convocará nuevas elecciones",
+      "El Gobierno en funciones continúa indefinidamente",
+      "Se repite el proceso sin límite de tiempo"
+    ],
+    "correct": 0,
+    "exp": "Art. 99.5: '...el Rey disolverá ambas Cámaras y convocará nuevas elecciones con el refrendo del Presidente del Congreso.'"
+  },
+  {
+    "q": "Según el art. 100 CE, los Ministros son nombrados y separados por:",
+    "options": [
+      "El Congreso de los Diputados por mayoría simple",
+      "El Rey, a propuesta del Presidente del Gobierno",
+      "El Presidente del Gobierno sin intervención del Rey"
+    ],
+    "correct": 1,
+    "exp": "Art. 100: 'Los demás miembros del Gobierno serán nombrados y separados por el Rey, a propuesta de su Presidente.'"
+  },
+  {
+    "q": "¿Cuál de las siguientes NO es una causa de cese del Gobierno según el art. 101.1 CE?",
+    "options": [
+      "Celebración de elecciones generales",
+      "Dimisión de su Presidente",
+      "Aprobación de los Presupuestos Generales del Estado"
+    ],
+    "correct": 2,
+    "exp": "Art. 101.1 recoge como causas de cese: celebración de elecciones generales, pérdida de la confianza parlamentaria, dimisión o fallecimiento del Presidente. La aprobación de los PGE no es causa de cese."
+  },
+  {
+    "q": "Según el art. 101.2 CE, el Gobierno cesante continuará en funciones hasta:",
+    "options": [
+      "La toma de posesión del nuevo Gobierno",
+      "La disolución de las Cortes",
+      "Que se convoquen nuevas elecciones"
+    ],
+    "correct": 0,
+    "exp": "Art. 101.2: 'El Gobierno cesante continuará en funciones hasta la toma de posesión del nuevo Gobierno.'"
+  },
+  {
+    "q": "Según el art. 102.1 CE, la responsabilidad criminal del Presidente y de los demás miembros del Gobierno es exigible ante:",
+    "options": [
+      "El Tribunal Constitucional",
+      "La Sala de lo Penal del Tribunal Supremo",
+      "El Congreso de los Diputados en pleno"
+    ],
+    "correct": 1,
+    "exp": "Art. 102.1: 'La responsabilidad criminal del Presidente y los demás miembros del Gobierno será exigible, en su caso, ante la Sala de lo Penal del Tribunal Supremo.'"
+  },
+  {
+    "q": "Según el art. 103.1 CE, la Administración Pública sirve con objetividad:",
+    "options": [
+      "Los intereses del partido en el Gobierno",
+      "Los intereses de sus empleados públicos",
+      "Los intereses generales"
+    ],
+    "correct": 2,
+    "exp": "Art. 103.1: 'La Administración Pública sirve con objetividad los intereses generales...'"
+  },
+  {
+    "q": "¿Cuál de los siguientes NO es uno de los principios de actuación de la Administración Pública recogidos en el art. 103.1 CE?",
+    "options": [
+      "Proporcionalidad",
+      "Jerarquía",
+      "Desconcentración"
+    ],
+    "correct": 0,
+    "exp": "El art. 103.1 recoge los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación. La proporcionalidad no figura en este artículo."
+  },
+  {
+    "q": "Según el art. 103.1 CE, la Administración Pública actúa con sometimiento pleno a:",
+    "options": [
+      "Las instrucciones del Gobierno exclusivamente",
+      "La ley y al Derecho",
+      "El interés del funcionario actuante"
+    ],
+    "correct": 1,
+    "exp": "Art. 103.1 in fine: '...con sometimiento pleno a la ley y al Derecho.'"
+  },
+  {
+    "q": "Según el art. 103.2 CE, los órganos de la Administración del Estado son creados, regidos y coordinados de acuerdo con:",
+    "options": [
+      "Costumbre administrativa",
+      "Circular interna de cada organismo",
+      "La ley"
+    ],
+    "correct": 2,
+    "exp": "Art. 103.2: 'Los órganos de la Administración del Estado son creados, regidos y coordinados de acuerdo con la ley.'"
+  },
+  {
+    "q": "Según el art. 103.3 CE, el acceso a la función pública se rige por los principios de:",
+    "options": [
+      "Mérito y capacidad",
+      "Antigüedad exclusivamente",
+      "Libre designación general"
+    ],
+    "correct": 0,
+    "exp": "Art. 103.3: 'La ley regulará... el acceso a la función pública de acuerdo con los principios de mérito y capacidad...'"
+  },
+  {
+    "q": "Además del estatuto de los funcionarios y el acceso por mérito y capacidad, el art. 103.3 CE encomienda a la ley regular:",
+    "options": [
+      "El régimen fiscal de las empresas públicas",
+      "Las peculiaridades del ejercicio del derecho de sindicación, el sistema de incompatibilidades y las garantías de imparcialidad",
+      "La composición del Consejo de Ministros"
+    ],
+    "correct": 1,
+    "exp": "Art. 103.3: '...las peculiaridades del ejercicio de su derecho a sindicación, el sistema de incompatibilidades y las garantías para la imparcialidad en el ejercicio de sus funciones.'"
+  },
+  {
+    "q": "Según el art. 104.1 CE, las Fuerzas y Cuerpos de Seguridad, bajo dependencia del Gobierno, tienen como misión proteger el libre ejercicio de los derechos y libertades y garantizar:",
+    "options": [
+      "La política exterior del Estado",
+      "La recaudación tributaria",
+      "La seguridad ciudadana"
+    ],
+    "correct": 2,
+    "exp": "Art. 104.1: '...tendrán como misión proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana.'"
+  },
+  {
+    "q": "Según el art. 104.2 CE, ¿qué tipo de ley determina las funciones, principios básicos de actuación y estatutos de las Fuerzas y Cuerpos de Seguridad?",
+    "options": [
+      "Ley orgánica",
+      "Ley ordinaria",
+      "Real Decreto-ley"
+    ],
+    "correct": 0,
+    "exp": "Art. 104.2: 'Una ley orgánica determinará las funciones, principios básicos de actuación y estatutos de las Fuerzas y Cuerpos de seguridad.'"
+  },
+  {
+    "q": "Según el art. 105 a) CE, la ley regulará la audiencia de los ciudadanos en el procedimiento de elaboración de:",
+    "options": [
+      "Los tratados internacionales",
+      "Las disposiciones administrativas que les afecten",
+      "Las sentencias judiciales"
+    ],
+    "correct": 1,
+    "exp": "Art. 105 a): 'La audiencia de los ciudadanos... en el procedimiento de elaboración de las disposiciones administrativas que les afecten.'"
+  },
+  {
+    "q": "Según el art. 105 b) CE, el acceso de los ciudadanos a los archivos y registros administrativos tiene como límite, entre otros, la seguridad y defensa del Estado, la averiguación de los delitos y:",
+    "options": [
+      "La antigüedad del expediente",
+      "La disponibilidad horaria del funcionario",
+      "La intimidad de las personas"
+    ],
+    "correct": 2,
+    "exp": "Art. 105 b): '...salvo en lo que afecte a la seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de las personas.'"
+  },
+  {
+    "q": "Según el art. 105 c) CE, la ley regulará el procedimiento a través del cual deben producirse los actos administrativos, garantizando, cuando proceda:",
+    "options": [
+      "La audiencia del interesado",
+      "El silencio administrativo negativo",
+      "La doble instancia obligatoria"
+    ],
+    "correct": 0,
+    "exp": "Art. 105 c): '...garantizando, cuando proceda, la audiencia del interesado.'"
+  },
+  {
+    "q": "Según el art. 106.1 CE, los Tribunales controlan la potestad reglamentaria y:",
+    "options": [
+      "Los actos de las Cortes Generales",
+      "La legalidad de la actuación administrativa",
+      "La actividad de los partidos políticos"
+    ],
+    "correct": 1,
+    "exp": "Art. 106.1: 'Los Tribunales controlan la potestad reglamentaria y la legalidad de la actuación administrativa, así como el sometimiento de ésta a los fines que la justifican.'"
+  },
+  {
+    "q": "Según el art. 106.2 CE, los particulares tendrán derecho a ser indemnizados por toda lesión en sus bienes y derechos, salvo en los casos de:",
+    "options": [
+      "Error material",
+      "Silencio administrativo",
+      "Fuerza mayor"
+    ],
+    "correct": 2,
+    "exp": "Art. 106.2: '...salvo en los casos de fuerza mayor, siempre que la lesión sea consecuencia del funcionamiento de los servicios públicos.'"
+  },
+  {
+    "q": "Según el art. 106.2 CE, la lesión indemnizable debe ser consecuencia del funcionamiento de:",
+    "options": [
+      "Los servicios públicos",
+      "Las Fuerzas Armadas exclusivamente",
+      "Los partidos políticos"
+    ],
+    "correct": 0,
+    "exp": "Art. 106.2 exige que la lesión sea 'consecuencia del funcionamiento de los servicios públicos', fundamento de la responsabilidad patrimonial de la Administración."
+  },
+  {
+    "q": "Según el art. 107 CE, el Consejo de Estado es:",
+    "options": [
+      "Un órgano jurisdiccional de última instancia",
+      "El supremo órgano consultivo del Gobierno",
+      "Un órgano de control presupuestario"
+    ],
+    "correct": 1,
+    "exp": "Art. 107: 'El Consejo de Estado es el supremo órgano consultivo del Gobierno.'"
+  },
+  {
+    "q": "¿Qué tipo de ley regula la composición y competencia del Consejo de Estado según el art. 107 CE?",
+    "options": [
+      "Ley ordinaria",
+      "Decreto-ley",
+      "Ley orgánica"
+    ],
+    "correct": 2,
+    "exp": "Art. 107 in fine: 'Una ley orgánica regulará su composición y competencia.'"
+  },
+  {
+    "q": "¿Qué artículos comprende el Título IV de la Constitución, 'Del Gobierno y de la Administración'?",
+    "options": [
+      "Del 97 al 107",
+      "Del 90 al 100",
+      "Del 103 al 116"
+    ],
+    "correct": 0,
+    "exp": "El Título IV abarca los artículos 97 a 107."
+  },
+  {
+    "q": "Dentro de los principios del art. 103.1 CE, el reparto de competencias hacia entes territoriales distintos del Estado se corresponde con el principio de:",
+    "options": [
+      "Coordinación",
+      "Descentralización",
+      "Eficacia"
+    ],
+    "correct": 1,
+    "exp": "La descentralización, uno de los principios del art. 103.1, supone el traspaso de competencias hacia otros entes territoriales (CCAA, entidades locales)."
+  },
+  {
+    "q": "Dentro de los principios del art. 103.1 CE, el traspaso de funciones dentro del mismo ente hacia órganos de rango inferior se corresponde con el principio de:",
+    "options": [
+      "Descentralización",
+      "Objetividad",
+      "Desconcentración"
+    ],
+    "correct": 2,
+    "exp": "La desconcentración implica el traspaso de competencias de órganos superiores a inferiores dentro de la misma Administración, a diferencia de la descentralización, que implica trasladarlas a otro ente."
+  },
+  {
+    "q": "¿En qué fecha fue proclamado Rey D. Juan Carlos I?",
+    "options": [
+      "22 de noviembre de 1975.",
+      "20 de noviembre de 1975.",
+      "23 de noviembre de 1976."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 5 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Ante qué órgano fue proclamado Rey D. Juan Carlos I?",
+    "options": [
+      "Ante el Congreso de los Diputados.",
+      "Ante las Cortes Generales.",
+      "Ante el Consejo del Reino."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 6 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Ante quién sancionó el Rey la Constitución española de 1978?",
+    "options": [
+      "Ante el Congreso de los Diputados.",
+      "Ante el Senado y el Gobierno.",
+      "Ante las Cortes Generales."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 13 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿A qué materia está dedicado el Título IV?",
+    "options": [
+      "Al Gobierno y a la Administración.",
+      "Al Gobierno.",
+      "Al Gobierno y a las Cortes Generales."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 21 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En qué Título de la Constitución española de 1978 encontramos regulado el Poder Judicial?",
+    "options": [
+      "En el Título V.",
+      "En el Título VI.",
+      "En el Título VII."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 23 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué artículo abre el Título II de la Constitución española de 1978?",
+    "options": [
+      "El artículo 54.",
+      "El artículo 57.",
+      "Ninguna de las otras respuestas es correcta."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 25 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En qué Título de la Constitución española de 1978 se trata la Corona?",
+    "options": [
+      "En el Título II.",
+      "En el Título III.",
+      "En el Título I."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 30 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Quiénes tienen derecho a la tutela judicial efectiva de jueces y tribunales?",
+    "options": [
+      "Todos los españoles pero no los extranjeros no legalizados.",
+      "Todas las personas.",
+      "Todos los ciudadanos de la Unión Europea y los españoles, pero no los extranjeros ajenos a ese ámbito."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 74 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿A qué órgano le encomienda el artículo 124 de la Constitución la defensa de los derechos de los ciudadanos?",
+    "options": [
+      "Al Tribunal Constitucional.",
+      "Al Tribunal Supremo.",
+      "Al Ministerio Fiscal."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 89 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Por qué tipo de mayoría se adoptan las decisiones en la Comisión Mixta Congreso- Senado para las relaciones con el Defensor del Pueblo?",
+    "options": [
+      "Por mayoría simple.",
+      "Por mayoría absoluta.",
+      "Por mayoría de 3/5."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 93 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuántos miembros del Tribunal Constitucional son nombrados a propuesta del Pleno del Consejo General del Poder Judicial?",
+    "options": [
+      "Tres.",
+      "Dos.",
+      "Cinco."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 99 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué Título de la Constitución de 1978 está dedicado a la regulación de la Corona?",
+    "options": [
+      "El Título III.",
+      "El Título IV.",
+      "El Título II."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 101 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué artículo abre el Título de la Constitución dedicado a la regulación de la Corona?",
+    "options": [
+      "El artículo 56.",
+      "El artículo 57.",
+      "El artículo 54."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 102 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué artículo de la Constitución concluye el Título dedicado a la regulación de la Corona?",
+    "options": [
+      "El artículo 64.",
+      "El artículo 65.",
+      "El artículo 66."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 103 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué carácter tiene el Rey de España dentro de la estructura general del Estado?",
+    "options": [
+      "Es Jefe de Estado y de Gobierno.",
+      "No es Jefe de Estado ni de Gobierno.",
+      "Es Jefe de Estado."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 104 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "El Rey asume la más alta representación del Estado en las relaciones internacionales, pero la Constitución matiza que dicha representación será especialmente con:.",
+    "options": [
+      "Con los países de su comunidad histórica.",
+      "Con los países Iberoamericanos.",
+      "Con los países de su entorno cultural y geográfico."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 105 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Ante quien se proclama al Rey?",
+    "options": [
+      "Ante el Congreso de los Diputados.",
+      "Ante las Cortes Generales.",
+      "Ante el Gobierno."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 108 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuándo debe prestar juramento el Rey?",
+    "options": [
+      "Al ser proclamado heredero.",
+      "Dentro de los veinte días siguientes a su proclamación.",
+      "Al ser proclamado como tal."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 109 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Puede el Príncipe Heredero, pasar a ejercer la Regencia?",
+    "options": [
+      "Sólo si es mayor de edad en el momento en que se produzca el llamamiento.",
+      "No, en ningún caso.",
+      "Sí, en cualquier caso."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 110 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de las siguientes funciones no es ejercida por el Rey?",
+    "options": [
+      "Expedir los Decretos acordados en el Consejo de Ministros.",
+      "Declarar la guerra y hacer la paz, previa autorización del Congreso de los Diputados.",
+      "Nombrar al Presidente del Tribunal Constitucional."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 111 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de las siguientes funciones sí es ejercida por el Rey?",
+    "options": [
+      "Proponer el nombramiento de los miembros del Gobierno.",
+      "Nombrar al Defensor del Pueblo.",
+      "Sancionar los Estatutos de Autonomía."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 112 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿A cuál de los siguientes cargos no nombra el Rey?",
+    "options": [
+      "A los vocales de los Tribunales Consuetudinarios.",
+      "Al Presidente del Tribunal Supremo.",
+      "A los vocales del Consejo General del Poder Judicial."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 113 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Quién debe reconocer la imposibilidad del Rey para ejercer sus funciones?",
+    "options": [
+      "El Congreso de los Diputados.",
+      "Las Cortes Generales.",
+      "La Familia Real."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 118 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué tipos de Regencia existen?",
+    "options": [
+      "Legítima y por sucesión.",
+      "Dativa y representativa.",
+      "Dativa y legítima."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 119 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En nombre de quien se ejerce la Regencia?",
+    "options": [
+      "En nombre del Rey.",
+      "En nombre de España.",
+      "En nombre del pueblo español."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 120 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Por qué mandato se ejerce la Regencia?",
+    "options": [
+      "Por mandato real.",
+      "Por mandato constitucional.",
+      "Por mandato popular."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 121 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Quién es llamado en primer lugar en caso de que se deba declarar la Regencia por inhabilitación del Rey?",
+    "options": [
+      "El Príncipe Heredero en cualquier caso.",
+      "El pariente de más edad del Rey.",
+      "El Príncipe Heredero si es mayor de edad."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 124 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "En el caso de que no exista Tutor testamentario del Rey menor ¿quién será Tutor del mismo?",
+    "options": [
+      "El padre o la madre, mientras permanezcan viudos.",
+      "El pariente de más edad del Rey menor.",
+      "El padre o la madre, en cualquier caso."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 125 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuándo es nombrado el Tutor del Rey menor por las Cortes Generales?",
+    "options": [
+      "En cualquier caso.",
+      "Cuando no exista Tutor testamentario ni legítimo.",
+      "Cuando no exista Tutor testamentario."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 126 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "El Rey confiere empleos civiles y militares con arreglo a...:.",
+    "options": [
+      "La Constitución.",
+      "Las Leyes.",
+      "La Constitución y las leyes."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 130 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué tipo de indulto no puede realizar el Rey?",
+    "options": [
+      "Indultos generales.",
+      "Indulto a un condenado con sentencia firme.",
+      "Indultos políticos."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 131 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de las siguientes funciones no es realizada por el Rey?",
+    "options": [
+      "La convocatoria de elecciones generales.",
+      "La convocatoria de la Diputación Permanente del Congreso de los Diputados.",
+      "La convocatoria de las Cortes Generales."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 132 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Puede presidir el Rey el Consejo de Ministros?",
+    "options": [
+      "Sólo en casos excepcionales en el caso de declaración del estado de excepción.",
+      "Sí, cuando lo estime oportuno sin más requisitos.",
+      "Sí, previa petición del Presidente del Gobierno."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 133 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuándo nombra el Rey al Presidente del Gobierno?",
+    "options": [
+      "En todos los casos.",
+      "En ningún caso, es nombrado por el Congreso de los Diputados.",
+      "En ningún caso."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 134 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de los siguientes contenidos no aparece en el juramento del Rey?",
+    "options": [
+      "El respeto a los derechos de los ciudadanos.",
+      "El respeto a los derechos de las colectividades históricas.",
+      "El respeto a los derechos de las Comunidades Autónomas."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 136 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "El juramento del Príncipe es el mismo que el del Rey, pero se añade un contenido relativo a:.",
+    "options": [
+      "El respeto a los derechos humanos.",
+      "El respeto a las funciones sociales.",
+      "La fidelidad al Rey."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 137 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué función tiene el Rey según la Constitución?",
+    "options": [
+      "Arbitra y modera el funcionamiento de las instituciones.",
+      "Representa los derechos históricos de los españoles.",
+      "Es símbolo de la diversidad del Estado."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 138 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de los siguientes cargos no tiene competencia para refrendar los actos del Rey?",
+    "options": [
+      "El Presidente del Gobierno.",
+      "El Presidente del Senado.",
+      "El Presidente del Congreso."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 139 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué efecto tiene el refrendo?",
+    "options": [
+      "Implanta la responsabilidad en el Rey.",
+      "Traslada la responsabilidad del acto, al Gobierno.",
+      "Confiere validez al acto refrendado."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 140 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Existe algún acto del Rey que pueda realizarse sin refrendo?",
+    "options": [
+      "Sí, los relacionados con la Casa Real y la distribución del Presupuesto de la misma.",
+      "Sí, la designación de su Sucesor.",
+      "Sí, los relacionados con nombramientos constitucionales."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 141 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Quién refrenda al Rey en la propuesta de nombramiento de candidato a la Presidencia del Gobierno?",
+    "options": [
+      "El Presidente del Gobierno saliente.",
+      "El Presidente del Congreso de los Diputados.",
+      "El Jefe de la Casa Real."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 142 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Quién refrenda al Rey en la convocatoria de elecciones generales periódicas?",
+    "options": [
+      "El Presidente del Congreso de los Diputados en cualquier caso.",
+      "El Presidente de las Cortes Generales.",
+      "El Presidente del Gobierno."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 143 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Quién debe proponer al Rey el nombramiento de un Ministro?",
+    "options": [
+      "El Presidente del Gobierno.",
+      "El Presidente del Congreso.",
+      "El Presidente del Tribunal Supremo."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 149 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué carácter tiene la Corona de España, a tenor del artículo 57.1 de la Constitución?",
+    "options": [
+      "Constitucional.",
+      "Hereditaria.",
+      "Formal."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 150 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué Título de la Constitución de 1978 está dedicado a la regulación de las Cortes Generales?",
+    "options": [
+      "El Título II.",
+      "El Título IV.",
+      "El Título III."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 151 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de las siguientes características no es predicable de las Cortes Generales?",
+    "options": [
+      "Es un órgano unicameral.",
+      "Es un órgano permanente.",
+      "Es un órgano legislativo."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 152 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué principio rige para la elección de los Diputados?",
+    "options": [
+      "El Mayoritario.",
+      "El Proporcional.",
+      "El Equivalente."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 153 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué principio rige para la elección de los Senadores?",
+    "options": [
+      "El equivalente.",
+      "El Censitario.",
+      "El mayoritario."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 154 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "En caso de que se celebre sesión conjunta del Congreso de los Diputados y del Senado ¿quién debe presidirla?",
+    "options": [
+      "El Presidente del Congreso de los Diputados.",
+      "El Presidente del Gobierno.",
+      "El Presidente del Senado."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 155 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En qué casos deben proveer las Cortes Generales a la Sucesión?",
+    "options": [
+      "En ningún caso, porque los criterios de Sucesión están establecidos constitucionalmente.",
+      "En caso de que se agoten las líneas de Sucesión a la Corona.",
+      "En caso de que se produzca la abdicación del Rey en el Heredero."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 156 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál es el número máximo de miembros del Congreso de los Diputados, según la Constitución?",
+    "options": [
+      "300.",
+      "500.",
+      "400."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 158 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de las siguientes funciones no está asignada a las Cortes Generales?",
+    "options": [
+      "Nombrar al Presidente del Gobierno.",
+      "Reconocer la incapacidad del Rey en caso de que se produzca.",
+      "Otorgar autorización al Rey para declarar la guerra."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 159 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué meses abarca el segundo periodo de sesiones del Senado?",
+    "options": [
+      "De enero a julio.",
+      "De febrero a junio.",
+      "De enero a mayo."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 161 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿De qué fecha es el Reglamento interno del Congreso de los Diputados?",
+    "options": [
+      "De 8 de febrero de 1982.",
+      "De 7 de febrero de 1982.",
+      "De 10 de febrero de 1982."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 163 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿De qué fecha es el Reglamento interno del Senado?",
+    "options": [
+      "De 3 de mayo de 1994.",
+      "De 1 de mayo de 1994.",
+      "De 5 de mayo de 1994."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 164 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Quién ostenta la representación del Congreso de los Diputados?",
+    "options": [
+      "El Pleno.",
+      "El Presidente.",
+      "La Diputación Permanente."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 166 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de las siguientes funciones no le corresponde ejercer a la Mesa del Senado?",
+    "options": [
+      "Ordenar los trabajos parlamentarios.",
+      "Elaborar el presupuesto del Senado.",
+      "La dirección de los trabajos del Senado."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 168 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de las siguientes no es una Comisión legislativa permanente del Congreso de los Diputados?",
+    "options": [
+      "La Comisión de Derechos Humanos.",
+      "La Comisión de Defensa.",
+      "La Comisión de Justicia e Interior."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 169 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de las siguientes sí es una Comisión permanente no legislativa del Senado?",
+    "options": [
+      "La Comisión de Nombramientos.",
+      "La Comisión de Asuntos Exteriores.",
+      "La Comisión de Peticiones."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 170 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál es el número mínimo de miembros de un partido político para constituir grupo parlamentario en el Congreso de los Diputados?",
+    "options": [
+      "20 Diputados.",
+      "30 Diputados.",
+      "15 Diputados."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 173 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál es el número mínimo de Senadores necesario para constituir Grupo Parlamentario en el Senado?",
+    "options": [
+      "10 Senadores.",
+      "18 Senadores.",
+      "20 Senadores."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 174 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál es la circunscripción electoral del Congreso de los Diputados?",
+    "options": [
+      "El municipio.",
+      "La provincia.",
+      "La Comunidad Autónoma."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 177 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuántos Senadores se eligen por cada provincia?",
+    "options": [
+      "Dos.",
+      "Tres.",
+      "Cuatro."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 178 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuántos Senadores elige Ceuta?",
+    "options": [
+      "Dos.",
+      "Uno.",
+      "Tres."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 179 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuántos Diputados componen el Congreso de los Diputados actualmente?",
+    "options": [
+      "400.",
+      "350.",
+      "450."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 180 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuánto tiempo dura el mandato de los Diputados?",
+    "options": [
+      "Dos años.",
+      "Seis años.",
+      "Cuatro años."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 181 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué órgano de los siguientes no puede solicitar la convocatoria extraordinaria del Congreso de los Diputados?",
+    "options": [
+      "El Rey.",
+      "El Gobierno de la nación.",
+      "La Diputación Permanente."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 183 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuántos Vicepresidentes forman la Mesa del Senado?",
+    "options": [
+      "Tres.",
+      "Dos.",
+      "Uno."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 185 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué Tribunal es competente en una causa penal que se siga contra un Diputado?",
+    "options": [
+      "La Sala II del Tribunal Constitucional.",
+      "La Sala I del Tribunal Supremo.",
+      "La Sala II del Tribunal Supremo."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 188 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuantos Senadores elige una Comunidad Autónoma por el simple hecho de serlo?",
+    "options": [
+      "Uno.",
+      "Dos.",
+      "Ninguno."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 189 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuántos Consejeros de Cuentas son designados por el Congreso de los Diputados?",
+    "options": [
+      "Cinco.",
+      "Seis.",
+      "Ocho."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 195 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué Título de la Constitución está dedicado a la regulación del Gobierno?",
+    "options": [
+      "El Título III.",
+      "El Título V.",
+      "El Título IV."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 201 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué artículo de la Constitución recoge las funciones del Gobierno?",
+    "options": [
+      "El artículo 97.",
+      "El artículo 99.",
+      "El artículo 96."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 202 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "Según el artículo correspondiente, ¿cuál de las siguientes funciones no está atribuida al Gobierno?",
+    "options": [
+      "Dirigir la defensa del Estado.",
+      "Ejercer la función legislativa.",
+      "Ejercer la función ejecutiva."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 203 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué artículo de la Constitución está dedicado a establecer la composición del Gobierno?",
+    "options": [
+      "El artículo 109.",
+      "El artículo 87.",
+      "El artículo 98."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 204 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de las siguientes figuras no es imprescindible en la composición del Gobierno?",
+    "options": [
+      "Los Vicepresidentes.",
+      "El Presidente.",
+      "Los Vicepresidentes y los Ministros."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 205 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de las siguientes es la Ley del Gobierno?",
+    "options": [
+      "Ley 50/ 1997, de 22 de noviembre.",
+      "Ley 50/ 1997, de 27 de noviembre.",
+      "Ley 50/ 1997, de 21 de noviembre."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 206 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál es el máximo órgano consultivo del Gobierno?",
+    "options": [
+      "El Consejo del Reino.",
+      "El Consejo Consultivo.",
+      "El Consejo de Estado."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 207 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En qué artículo de la Constitución se regula el máximo órgano consultivo del Gobierno?",
+    "options": [
+      "En el artículo 107.",
+      "En el artículo 106.",
+      "En el artículo 108."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 208 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué rango ostentan los Delegados del Gobierno en las Comunidades Autónomas?",
+    "options": [
+      "Subsecretario General.",
+      "Subsecretario.",
+      "Secretario de Estado."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 212 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué rango ostentan los Subdelegados del Gobierno?",
+    "options": [
+      "Secretario General.",
+      "Secretario General Técnico.",
+      "Subdirector General."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 213 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuántos Vicepresidentes deben existir en la composición del Gobierno?",
+    "options": [
+      "Ninguno.",
+      "Uno.",
+      "Tres."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 215 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Quién nombra al Presidente del Gobierno?",
+    "options": [
+      "El Congreso de los Diputados.",
+      "El Rey.",
+      "El Senado."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 216 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Quién elige al Presidente del Gobierno?",
+    "options": [
+      "Las Cortes Generales.",
+      "El Senado.",
+      "El Congreso de los Diputados."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 217 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué mayoría se requiere para ser nombrado Presidente del Gobierno?",
+    "options": [
+      "Mayoría absoluta o mayoría simple.",
+      "Mayoría simple en todo caso.",
+      "Mayoría absoluta en todo caso."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 218 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Quién propone el candidato a la Presidencia del Gobierno?",
+    "options": [
+      "El pueblo español.",
+      "El Rey.",
+      "El Congreso de los Diputados."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 219 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál es el plazo, pasado el cual, si ningún candidato alcanza la mayoría necesaria para ser nombrado Presidente del Gobierno, se debe proceder a la convocatoria de nuevas elecciones?",
+    "options": [
+      "Un mes desde la primera votación.",
+      "Dos meses desde la tercera votación.",
+      "Dos meses desde la primera votación."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 220 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En cuál de los siguientes casos no cesa el Gobierno?",
+    "options": [
+      "Por dimisión del Vicepresidente.",
+      "Por fallecimiento del Presidente.",
+      "Por la celebración de elecciones generales."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 223 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué artículo de la Constitución recoge la institución del Gobierno en funciones?",
+    "options": [
+      "El artículo 106.",
+      "El artículo 107.",
+      "El artículo 108."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 224 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de las siguientes funciones puede ser ejercida por un Presidente del Gobierno en funciones?",
+    "options": [
+      "El planteamiento de una cuestión de confianza.",
+      "La propuesta al Rey de celebración de un referéndum consultivo.",
+      "La celebración de Consejos de Ministros."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 225 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de los siguientes no es un órgano de colaboración y apoyo al Gobierno?",
+    "options": [
+      "Los Secretarios Generales Técnicos.",
+      "La Comisión de Secretarios de Estado y Subsecretarios.",
+      "Los Secretarios de Estado."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 226 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Ante quien es exigible la responsabilidad penal del Presidente del Gobierno?",
+    "options": [
+      "Ante la Sala II del Tribunal Constitucional.",
+      "Ante la Sala II del Tribunal Supremo.",
+      "Ante la Sala I del Tribunal Supremo."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 227 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En qué Título de la Constitución se regulan las relaciones entre el Gobierno y las Cortes Generales?",
+    "options": [
+      "En el Título IV.",
+      "En el Título VII.",
+      "En el Título V."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 228 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Ante quién responde solidariamente el Gobierno de su gestión política?",
+    "options": [
+      "Ante el Congreso de los Diputados.",
+      "Ante el pueblo español.",
+      "Ante el Rey."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 229 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Quién puede plantear una cuestión de confianza?",
+    "options": [
+      "El Congreso de los Diputados.",
+      "El Presidente del Gobierno.",
+      "El Gobierno."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 230 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de los siguientes trámites es necesario realizar antes de plantear una cuestión de confianza?",
+    "options": [
+      "Deliberación del Presidente del Gobierno.",
+      "Comunicación al Jefe del Estado.",
+      "Deliberación del Consejo de Ministros."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 231 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué mayoría es necesario alcanzar para entender otorgada la confianza en un proceso de cuestión de confianza?",
+    "options": [
+      "Mayoría simple.",
+      "Mayoría absoluta.",
+      "Mayoría de 2/3."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 232 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿A quién debe presentar el Presidente del Gobierno su dimisión en el supuesto de que no obtenga la mayoría necesaria en una votación de cuestión de confianza?",
+    "options": [
+      "Ante el Congreso de los Diputados.",
+      "Ante el Rey.",
+      "Ante el Consejo de Ministros."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 233 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué número de Diputados es necesario para interponer una moción de censura?",
+    "options": [
+      "Mayoría simple de la Cámara.",
+      "Mayoría absoluta de la Cámara.",
+      "Una décima parte de la Cámara."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 234 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuántos días deben transcurrir desde que se presente una moción de censura hasta que pueda ser votada?",
+    "options": [
+      "Cinco días.",
+      "Dos días.",
+      "Cuatro días."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 235 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué mayoría es necesaria para que se entienda aprobada una moción de censura?",
+    "options": [
+      "Mayoría simple.",
+      "Mayoría absoluta.",
+      "Mayoría de 1/3."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 236 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Quién actúa como Secretario de las reuniones del Consejo de Ministros?",
+    "options": [
+      "El Ministro de Administraciones Públicas.",
+      "El Ministro del Interior.",
+      "El Ministro de la Presidencia."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 239 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de las siguientes funciones no está asignada al Consejo de Ministros?",
+    "options": [
+      "Declarar el estado de sitio.",
+      "Aprobar el proyecto de ley de presupuestos generales del Estado.",
+      "Aprobar los decretos leyes."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 240 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué carácter tienen las deliberaciones del Consejo de Ministros?",
+    "options": [
+      "Públicas.",
+      "Secretas.",
+      "Solemnes."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 241 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Quién representa al Gobierno?",
+    "options": [
+      "El Ministro de la Presidencia.",
+      "Los Ministros.",
+      "El Presidente."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 242 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de las siguientes funciones no le corresponde ejercer al Presidente del Gobierno?",
+    "options": [
+      "Interponer moción de confianza.",
+      "Interponer el recurso de inconstitucionalidad.",
+      "Proponer la disolución de las Cortes Generales."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 243 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Quién nombra a los Subdelegados del Gobierno?",
+    "options": [
+      "El Consejo de Ministros.",
+      "El Delegado del Gobierno.",
+      "El Presidente del Gobierno."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 246 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En cuál de las siguientes Comunidades Autónomas no existen Subdelegados del Gobierno?",
+    "options": [
+      "Cataluña.",
+      "Andalucía.",
+      "Cantabria."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 248 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿De qué año es el Real Decreto que establece la regulación de las figuras de los Delegados y Subdelegados del Gobierno?",
+    "options": [
+      "1997.",
+      "1998.",
+      "1999."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 249 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En cuál de las siguientes materias el gobierno ejerce el monopolio de la iniciativa legislativa?",
+    "options": [
+      "En materia de desarrollo de derechos fundamentales.",
+      "En materia de desarrollo de la institución de la Corona.",
+      "En materia de planificación económica y presupuestaria."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 259 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál es el número mínimo de Diputados necesario para presentar una proposición de ley?",
+    "options": [
+      "Doce en cualquier caso.",
+      "Un grupo parlamentario o catorce.",
+      "Quince o un grupo parlamentario."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 260 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál es el número mínimo de Senadores necesario para presentar una proposición de ley?",
+    "options": [
+      "Veinticinco o un grupo parlamentario.",
+      "Quince o un grupo parlamentario.",
+      "Doce o un grupo parlamentario."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 261 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué mayoría se necesita en el Senado para oponer un veto a una proposición de ley aprobada en el Congreso de los Diputados?",
+    "options": [
+      "Mayoría simple.",
+      "Mayoría absoluta.",
+      "Mayoría de 2/3."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 266 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿De qué plazo dispone el Rey para sancionar las leyes?",
+    "options": [
+      "Diez días.",
+      "Veinte días.",
+      "Quince días."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 267 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Puede el Gobierno subdelegar la facultad de dictar legislación delegada?",
+    "options": [
+      "En ningún caso.",
+      "Sí, siempre que delegue en autoridades administrativas.",
+      "No, salvo que delegue en órganos administrativos."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 278 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cómo se denominan las normas con rango de ley aprobadas por el Gobierno, que contienen legislación delegada?",
+    "options": [
+      "Decretos leyes.",
+      "Decretos legislativos.",
+      "Decretos."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 279 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En qué Capítulo del Título III se regulan los Tratados Internacionales?",
+    "options": [
+      "En el I.",
+      "En el II.",
+      "En el III."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 280 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de los siguientes tratados no requiere de autorización previa de las Cortes Generales?",
+    "options": [
+      "Los tratados de colaboración social.",
+      "Los tratados de carácter político.",
+      "Los tratados de carácter militar."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 281 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué artículo de la ley del Gobierno establece las normas de jerarquía de los reglamentos?",
+    "options": [
+      "El art. 32.",
+      "El art. 23.",
+      "El art. 37."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 289 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué mayoría se requiere en el Congreso de los Diputados para la aprobación de una ley orgánica?",
+    "options": [
+      "Simple.",
+      "De 1/3 .",
+      "Absoluta."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 294 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué mayoría se requiere en el Senado para la aprobación de una ley orgánica?",
+    "options": [
+      "Simple.",
+      "Absoluta.",
+      "De 1/3."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 295 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué Título de la Constitución española de 1978 está dedicado a la regulación del Poder Judicial?",
+    "options": [
+      "El Título II.",
+      "El Título VI.",
+      "El Título IV."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 301 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué contenido tiene el artículo 118 de la Constitución?",
+    "options": [
+      "Recoge el principio de publicidad judicial.",
+      "Recoge el principio de legitimidad judicial.",
+      "Recoge el principio de obligatoriedad en el cumplimiento de sentencias y resoluciones judiciales."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 314 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de las siguientes es la Ley Orgánica del Poder Judicial?",
+    "options": [
+      "La LO 6/ 1985, de 1 de julio.",
+      "La LO 6/ 1984, de 1 de julio.",
+      "La LO 6/ 1985, de 11 de julio."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 316 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué artículo de la Constitución española de 1978 establece la composición del Consejo General del Poder Judicial?",
+    "options": [
+      "El art. 122.4.",
+      "El art. 122.3.",
+      "El art. 122.5."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 319 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuántos vocales componen el Consejo General del Poder Judicial?",
+    "options": [
+      "Quince.",
+      "Diez.",
+      "Veinte."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 320 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuánto tiempo dura el mandato de los vocales del Consejo General del Poder Judicial?",
+    "options": [
+      "Cinco años.",
+      "Cuatro años.",
+      "Seis años."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 321 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de las siguientes leyes ha modificado a la Ley reguladora del poder judicial?",
+    "options": [
+      "Ley Orgánica 2/ 2001, de 8 de junio.",
+      "Ley Orgánica 2/ 2001, de 28 de junio.",
+      "Ley Orgánica 2/ 2001, de 21 de junio."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 322 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Quién preside el Consejo General del Poder Judicial?",
+    "options": [
+      "El Presidente del Tribunal Constitucional.",
+      "El Magistrado de mayor edad.",
+      "El Presidente del Tribunal Supremo."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 323 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuántos miembros del Consejo General del Poder Judicial son propuestos de entre Jueces y Magistrados de todas las categorías judiciales?",
+    "options": [
+      "Doce.",
+      "Seis.",
+      "Diez."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 324 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En cuál de los siguientes casos se puede proceder a la elección de un Magistrado para que sea vocal del Consejo General del Poder Judicial?",
+    "options": [
+      "Un juez que no se encuentre en activo.",
+      "Un juez que se encuentre en servicio activo.",
+      "Un juez que sea vocal saliente."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 325 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál es el máximo de candidatos que se pueden presentar por las asociaciones profesionales de jueces y magistrados?",
+    "options": [
+      "El doble del número de puestos a cubrir.",
+      "El número de puestos a cubrir.",
+      "El triple del número de puestos a cubrir."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 327 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de los siguientes órganos no forma parte de la composición del Consejo General del Poder Judicial?",
+    "options": [
+      "La Comisión de Estudios.",
+      "La Comisión Disciplinaria.",
+      "La Comisión de Calificación."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 329 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Quién nombra al Presidente del Consejo General del Poder Judicial?",
+    "options": [
+      "El Jefe de Gobierno.",
+      "El Jefe del Estado.",
+      "El Gobierno."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 330 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Ante quién toma posesión el Presidente del Consejo General del Poder Judicial?",
+    "options": [
+      "Ante el Congreso y el Senado en reunión conjunta.",
+      "Ante el Consejo de Ministros.",
+      "Ante los plenos del Consejo y del Tribunal Supremo en sesión conjunta."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 331 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Quién representa al Consejo General del Poder Judicial?",
+    "options": [
+      "El Presidente.",
+      "El Pleno.",
+      "El Vicepresidente."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 332 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cómo se realiza el nombramiento del Presidente del Consejo General del Poder Judicial?",
+    "options": [
+      "Por Ley ordinaria.",
+      "Por Real Decreto.",
+      "Por Decreto."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 333 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Quién debe refrendar el nombramiento del Presidente del Consejo General del Poder Judicial?",
+    "options": [
+      "El Presidente de las Cortes Generales.",
+      "El Presidente del Senado.",
+      "El Presidente del Gobierno."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 334 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuántos Vocales forman parte de la Comisión Permanente del Consejo General del Poder Judicial?",
+    "options": [
+      "Cuatro.",
+      "Seis.",
+      "Ocho."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 335 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál es el número de vocales que componen la Comisión Disciplinaria del Consejo General del Poder Judicial?",
+    "options": [
+      "Cuatro.",
+      "Cinco.",
+      "Seis."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 336 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál es el número de vocales que componen la Comisión de Calificación del Consejo General del Poder Judicial?",
+    "options": [
+      "Cuatro.",
+      "Seis.",
+      "Cinco."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 337 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál es el número de vocales que componen la Comisión Presupuestaria del Consejo General del Poder Judicial?",
+    "options": [
+      "Cinco.",
+      "Cuatro.",
+      "Seis."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 338 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál es el número de vocales que componen la Comisión de Estudios e Informes del Consejo General del Poder Judicial?",
+    "options": [
+      "Cuatro.",
+      "Cinco.",
+      "Seis."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 339 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿A quién debe remitir, el Consejo General del Poder Judicial, anualmente un informe sobre el funcionamiento de la Justicia?",
+    "options": [
+      "Al Gobierno de la nación.",
+      "Al Defensor del Pueblo.",
+      "A las Cortes Generales."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 340 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de las siguientes funciones no es realizada por el Consejo General del Poder Judicial?",
+    "options": [
+      "Propone el nombramiento del Presidente del Tribunal Constitucional.",
+      "Propone el nombramiento del Presidente del Tribunal Supremo.",
+      "Propone el nombramiento del miembros del Tribunal Constitucional."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 341 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Quién nombra al Fiscal General del Estado?",
+    "options": [
+      "El Rey, a propuesta del Congreso, oído el Consejo General del Poder Judicial.",
+      "El Rey, a propuesta del Gobierno, oído el Consejo General del Poder Judicial.",
+      "El Rey, a propuesta del Tribunal de Cuentas, oído el Consejo General del Poder Judicial."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 342 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué artículo de la Constitución recoge el modo de nombramiento del Fiscal General del Estado?",
+    "options": [
+      "El art. 123.4.",
+      "El art. 123.5.",
+      "El art. 124.4."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 343 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuántas Salas jurisdiccionales tiene el Tribunal Supremo?",
+    "options": [
+      "Cinco.",
+      "Cuatro.",
+      "Siete."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 345 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de los siguientes jueces no es un juez profesional?",
+    "options": [
+      "Juez de lo Social.",
+      "Juez de Paz.",
+      "Juez de Instrucción."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 349 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cómo se denomina generalmente, al órgano de gobierno de la Comunidad Autónoma?",
+    "options": [
+      "Consejo colegiado.",
+      "Consejo.",
+      "Consejo de Gobierno."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 429 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿A quién corresponde el Gobierno y Administración de los Municipios?",
+    "options": [
+      "Al Ayuntamiento.",
+      "Al Alcalde.",
+      "Al Pleno de los Ayuntamientos."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 440 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿A quién está encomendado el gobierno y administración de las provincias?",
+    "options": [
+      "A las Diputaciones en cualquier caso.",
+      "A las Diputaciones en algunos casos.",
+      "A las Comunidades Autónomas en cualquier caso."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 446 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
   }
 ],
 3:[
   {
     "q": "Según el art. 137 CE, el Estado se organiza territorialmente en:",
     "options": [
-      "Municipios, comarcas y regiones",
       "Provincias y Comunidades Autónomas únicamente",
-      "Municipios, provincias y Comunidades Autónomas",
-      "Municipios y provincias únicamente"
+      "Municipios y provincias únicamente",
+      "Municipios, provincias y Comunidades Autónomas"
     ],
     "correct": 2,
     "exp": "Art. 137 CE: 'El Estado se organiza territorialmente en municipios, en provincias y en las Comunidades Autónomas que se constituyan.'"
@@ -148,124 +4481,603 @@ const QUESTIONS = {
   {
     "q": "Según el art. 140 CE, los Concejales serán elegidos:",
     "options": [
-      "Por el Alcalde",
+      "Por sufragio universal, igual, libre, directo y secreto de los vecinos",
       "Por la Diputación Provincial",
-      "Por el Pleno de la Comunidad Autónoma",
-      "Por sufragio universal, igual, libre, directo y secreto de los vecinos"
+      "Por el Pleno de la Comunidad Autónoma"
     ],
-    "correct": 3,
+    "correct": 0,
     "exp": "Art. 140 CE: los Concejales serán elegidos por los vecinos del municipio mediante sufragio universal, igual, libre, directo y secreto."
   },
   {
     "q": "Según el art. 141.1 CE, la provincia es:",
     "options": [
-      "Una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado",
-      "Una simple demarcación electoral",
       "Un órgano desconcentrado de la Comunidad Autónoma",
+      "Una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado",
       "Una mancomunidad voluntaria de municipios"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "Definición literal del art. 141.1 CE."
   },
   {
     "q": "La seguridad pública, conforme al art. 149.1.29 CE, es competencia:",
     "options": [
       "Exclusiva de las Comunidades Autónomas",
-      "Exclusiva del Estado, sin perjuicio de la posibilidad de creación de policías por las CCAA en la forma que establezcan sus Estatutos",
-      "Compartida a partes iguales entre Estado y municipios",
-      "Exclusiva de las entidades locales"
+      "Exclusiva de las entidades locales",
+      "Exclusiva del Estado, sin perjuicio de la posibilidad de creación de policías por las CCAA en la forma que establezcan sus Estatutos"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "Art. 149.1.29 CE reserva al Estado la seguridad pública, sin perjuicio de las policías autonómicas en el marco de la Ley Orgánica correspondiente."
   },
   {
     "q": "Según el art. 143.1 CE, para acceder al autogobierno pueden constituirse en Comunidad Autónoma:",
     "options": [
-      "Solo las provincias de más de un millón de habitantes",
-      "Únicamente los territorios que lo soliciten al Rey",
       "Las provincias limítrofes con características históricas, culturales y económicas comunes, los territorios insulares y las provincias con entidad regional histórica",
-      "Cualquier agrupación de municipios"
+      "Solo las provincias de más de un millón de habitantes",
+      "Únicamente los territorios que lo soliciten al Rey"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "Art. 143.1 CE, en ejercicio del derecho a la autonomía del art. 2."
   },
   {
     "q": "El régimen especial del municipio de Zaragoza como capital de Aragón se regula en:",
     "options": [
-      "La Ley 7/1985, de 2 de abril",
       "El Decreto 347/2002, de 19 de noviembre",
-      "La Ley 10/2017, de 30 de marzo",
-      "La Ley 10/2017, de 30 de noviembre"
+      "La Ley 10/2017, de 30 de noviembre",
+      "La Ley 10/2017, de 30 de marzo"
     ],
-    "correct": 3,
+    "correct": 1,
     "exp": "Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón."
   },
   {
     "q": "Según el Estatuto de Autonomía de Aragón, la capital de Aragón es:",
     "options": [
-      "Zaragoza",
       "Huesca",
       "Teruel",
-      "Se fija cada legislatura por las Cortes"
+      "Zaragoza"
+    ],
+    "correct": 2,
+    "exp": "El Estatuto de Autonomía de Aragón fija la capital de la Comunidad Autónoma en la ciudad de Zaragoza."
+  },
+  {
+    "q": "Según el art. 137 CE, todas las entidades en que se organiza territorialmente el Estado gozan de autonomía para:",
+    "options": [
+      "La gestión de sus respectivos intereses",
+      "Declarar la independencia si lo deciden",
+      "Modificar la Constitución"
     ],
     "correct": 0,
-    "exp": "El Estatuto de Autonomía de Aragón fija la capital de la Comunidad Autónoma en la ciudad de Zaragoza."
+    "exp": "Art. 137: 'Todas estas entidades gozan de autonomía para la gestión de sus respectivos intereses.'"
+  },
+  {
+    "q": "Según el art. 138.1 CE, el Estado garantiza la realización efectiva del principio de:",
+    "options": [
+      "Subsidiariedad",
+      "Solidaridad",
+      "Reciprocidad"
+    ],
+    "correct": 1,
+    "exp": "Art. 138.1: 'El Estado garantiza la realización efectiva del principio de solidaridad consagrado en el artículo 2...'"
+  },
+  {
+    "q": "Según el art. 138.1 CE, al velar por el equilibrio económico entre territorios, el Estado atiende en particular a las circunstancias de:",
+    "options": [
+      "El hecho fronterizo",
+      "El hecho lingüístico",
+      "El hecho insular"
+    ],
+    "correct": 2,
+    "exp": "Art. 138.1: '...atendiendo en particular a las circunstancias del hecho insular.'"
+  },
+  {
+    "q": "Según el art. 138.2 CE, las diferencias entre los Estatutos de las distintas Comunidades Autónomas no podrán implicar, en ningún caso:",
+    "options": [
+      "Privilegios económicos o sociales",
+      "Distinta denominación institucional",
+      "Distinta capital autonómica"
+    ],
+    "correct": 0,
+    "exp": "Art. 138.2: 'Las diferencias entre los Estatutos de las distintas Comunidades Autónomas no podrán implicar, en ningún caso, privilegios económicos o sociales.'"
+  },
+  {
+    "q": "Según el art. 139.1 CE, todos los españoles tienen los mismos derechos y obligaciones:",
+    "options": [
+      "Solo en territorio de su municipio de nacimiento",
+      "En cualquier parte del territorio del Estado",
+      "En función de su Comunidad Autónoma de origen"
+    ],
+    "correct": 1,
+    "exp": "Art. 139.1: 'Todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado.'"
+  },
+  {
+    "q": "Según el art. 139.2 CE, ninguna autoridad podrá adoptar medidas que obstaculicen:",
+    "options": [
+      "La celebración de referéndums autonómicos",
+      "La creación de nuevos partidos políticos",
+      "La libertad de circulación y establecimiento de personas y la libre circulación de bienes"
+    ],
+    "correct": 2,
+    "exp": "Art. 139.2: 'Ninguna autoridad podrá adoptar medidas que directa o indirectamente obstaculicen la libertad de circulación y establecimiento de las personas y la libre circulación de bienes en todo el territorio español.'"
+  },
+  {
+    "q": "Según el art. 140 CE, la Constitución garantiza la autonomía de:",
+    "options": [
+      "Los municipios",
+      "Las Diputaciones Provinciales",
+      "Las mancomunidades"
+    ],
+    "correct": 0,
+    "exp": "Art. 140: 'La Constitución garantiza la autonomía de los municipios.'"
+  },
+  {
+    "q": "Según el art. 140 CE, los municipios gozarán de:",
+    "options": [
+      "Personalidad jurídica limitada a efectos fiscales",
+      "Personalidad jurídica plena",
+      "Personalidad jurídica derivada de la provincia"
+    ],
+    "correct": 1,
+    "exp": "Art. 140: 'Estos gozarán de personalidad jurídica plena.'"
+  },
+  {
+    "q": "Según el art. 140 CE, el gobierno y la administración del municipio corresponde a:",
+    "options": [
+      "La Diputación Provincial",
+      "El Delegado del Gobierno",
+      "Sus respectivos Ayuntamientos"
+    ],
+    "correct": 2,
+    "exp": "Art. 140: 'Su gobierno y administración corresponde a sus respectivos Ayuntamientos.'"
+  },
+  {
+    "q": "Según el art. 140 CE, los Ayuntamientos están integrados por:",
+    "options": [
+      "Los Alcaldes y los Concejales",
+      "Solo el Alcalde y el Secretario",
+      "Los Concejales y el Interventor"
+    ],
+    "correct": 0,
+    "exp": "Art. 140: '...integrados por los Alcaldes y los Concejales.'"
+  },
+  {
+    "q": "Según el art. 140 CE, los Concejales serán elegidos por los vecinos del municipio mediante sufragio:",
+    "options": [
+      "Universal pero indirecto",
+      "Universal, igual, libre, directo y secreto",
+      "Restringido a los propietarios"
+    ],
+    "correct": 1,
+    "exp": "Art. 140: 'Los Concejales serán elegidos por los vecinos del municipio mediante sufragio universal, igual, libre, directo y secreto, en la forma establecida por la ley.'"
+  },
+  {
+    "q": "Según el art. 140 CE, los Alcaldes serán elegidos por:",
+    "options": [
+      "Únicamente por los vecinos",
+      "La Diputación Provincial",
+      "Los Concejales o por los vecinos"
+    ],
+    "correct": 2,
+    "exp": "Art. 140: 'Los Alcaldes serán elegidos por los Concejales o por los vecinos.'"
+  },
+  {
+    "q": "Según el art. 140 CE, la ley regulará las condiciones en las que proceda el régimen de:",
+    "options": [
+      "Concejo abierto",
+      "Mancomunidad forzosa",
+      "Fusión municipal automática"
+    ],
+    "correct": 0,
+    "exp": "Art. 140 in fine: 'La ley regulará las condiciones en las que proceda el régimen del concejo abierto.'"
+  },
+  {
+    "q": "Según el art. 141.1 CE, la provincia es una entidad local con personalidad jurídica propia, determinada por:",
+    "options": [
+      "La agrupación de Comunidades Autónomas limítrofes",
+      "La agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado",
+      "La decisión exclusiva de cada Ayuntamiento"
+    ],
+    "correct": 1,
+    "exp": "Art. 141.1: 'La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado.'"
+  },
+  {
+    "q": "Según el art. 141.1 CE, cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales mediante:",
+    "options": [
+      "Ley ordinaria",
+      "Decreto-ley",
+      "Ley orgánica"
+    ],
+    "correct": 2,
+    "exp": "Art. 141.1: 'Cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales mediante ley orgánica.'"
+  },
+  {
+    "q": "Según el art. 141.2 CE, el gobierno y la administración autónoma de las provincias estarán encomendados a:",
+    "options": [
+      "Diputaciones u otras Corporaciones de carácter representativo",
+      "Los Ayuntamientos de la capital de provincia",
+      "Las Comunidades Autónomas directamente"
+    ],
+    "correct": 0,
+    "exp": "Art. 141.2: 'El gobierno y la administración autónoma de las provincias estarán encomendados a Diputaciones u otras Corporaciones de carácter representativo.'"
+  },
+  {
+    "q": "Según el art. 141.3 CE, además de la provincia, la Constitución permite crear:",
+    "options": [
+      "Nuevas Comunidades Autónomas sin límite",
+      "Agrupaciones de municipios diferentes de la provincia",
+      "Regiones históricas con rango constitucional propio"
+    ],
+    "correct": 1,
+    "exp": "Art. 141.3: 'Se podrán crear agrupaciones de municipios diferentes de la provincia.'"
+  },
+  {
+    "q": "Según el art. 141.4 CE, en los archipiélagos, las islas tendrán además su administración propia en forma de:",
+    "options": [
+      "Ayuntamientos insulares únicos",
+      "Juntas de Distrito",
+      "Cabildos o Consejos"
+    ],
+    "correct": 2,
+    "exp": "Art. 141.4: 'En los archipiélagos, las islas tendrán además su administración propia en forma de Cabildos o Consejos.'"
+  },
+  {
+    "q": "Según el art. 142 CE, las Haciendas locales deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a:",
+    "options": [
+      "Las Corporaciones respectivas",
+      "Las Comunidades Autónomas",
+      "Los organismos autónomos estatales"
+    ],
+    "correct": 0,
+    "exp": "Art. 142: 'Las Haciendas locales deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas...'"
+  },
+  {
+    "q": "Según el art. 142 CE, las Haciendas locales se nutrirán fundamentalmente de tributos propios y de participación en los tributos de:",
+    "options": [
+      "Solo el Estado",
+      "El Estado y de las Comunidades Autónomas",
+      "Solo las Comunidades Autónomas"
+    ],
+    "correct": 1,
+    "exp": "Art. 142: '...se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas.'"
+  },
+  {
+    "q": "¿Qué artículos comprende el Capítulo Segundo del Título VIII CE, 'De la Administración Local'?",
+    "options": [
+      "Del 143 al 158",
+      "Del 148 al 149",
+      "Del 140 al 142"
+    ],
+    "correct": 2,
+    "exp": "El Capítulo Segundo del Título VIII, dedicado a la Administración Local, comprende los artículos 140, 141 y 142."
+  },
+  {
+    "q": "Según el procedimiento contenido en el artículo 167 de la Constitución, ¿qué mayoría es necesaria para aprobar una reforma constitucional que afecte a un artículo del Título VIII, en primera votación?",
+    "options": [
+      "Mayoría de 3/5.",
+      "Mayoría simple.",
+      "Mayoría de 2/5."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 48 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué artículo de la Constitución recoge las delegaciones legislativas a favor de las Comunidades Autónomas?",
+    "options": [
+      "El art. 159.",
+      "El art. 150.",
+      "El art. 167."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 284 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "Si el Estado quiere dictar una ley que contenga los principios necesarios para armonizar las disposiciones normativas de las Comunidades Autónomas en una materia, dictará:",
+    "options": [
+      "Una ley de bases.",
+      "Una ley de delegación.",
+      "Una ley de armonización."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 285 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué órgano culmina la organización judicial en el territorio de una Comunidad Autónoma?",
+    "options": [
+      "El Tribunal Superior de Justicia.",
+      "El Tribunal Supremo.",
+      "Las Audiencias Territoriales."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 347 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En qué año se establecen las provincias como división territorial del Estado?",
+    "options": [
+      "1834.",
+      "1833.",
+      "1835."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 404 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cuál de los siguientes nombres está relacionado con la división del territorio en provincias?",
+    "options": [
+      "Rafael de Burgos.",
+      "Vicente Burgos.",
+      "Javier de Burgos."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 405 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cuál de los siguientes territorios no podía constituirse como Comunidad Autónoma?",
+    "options": [
+      "Los territorios con entidad provincial histórica.",
+      "Los territorios limítrofes con características históricas, culturales, sociales y económicas comunes.",
+      "Los territorios no integrados en la organización provincial."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 411 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cuál de las siguientes Comunidades Autónomas es uniprovincial?",
+    "options": [
+      "Valencia.",
+      "Murcia.",
+      "Aragón."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 414 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cuál de las siguientes Comunidades Autónomas es histórica?",
+    "options": [
+      "Valencia.",
+      "Castilla la Mancha.",
+      "Cataluña."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 415 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cuál de las siguientes Comunidades Autónomas no es pluriprovincial?",
+    "options": [
+      "Baleares.",
+      "Cataluña.",
+      "Canarias."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 416 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Qué competencias del art. 151 asumen las Comunidades Autónomas que accedieron por la vía rápida?",
+    "options": [
+      "Todas.",
+      "Ningunas.",
+      "Las negociadas con el gobierno central en el proceso autonómico."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 417 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Qué norma aprueba un Estatuto de Autonomía?",
+    "options": [
+      "Una ley ordinaria.",
+      "Un Decreto ley.",
+      "Una Ley orgánica."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 418 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cuántos municipios debían formar parte de la iniciativa autonómica en el caso de las Comunidades que accedieron por la vía especial, en el caso de que no hubieran plesbiscitado estatutos en el pasado?",
+    "options": [
+      "¾ partes.",
+      "2/3 partes.",
+      "2/4 partes."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 419 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cuántos municipios debían formar parte de la iniciativa autonómica en el caso de las Comunidades que accedieron por la vía especial, en el caso de que si hubieran plesbiscitado estatutos en el pasado?",
+    "options": [
+      "2/3 partes.",
+      "Ningún porcentaje.",
+      "2/4 partes."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 420 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cuántos municipios debían formar parte de la iniciativa autonómica en el caso de las Comunidades que accedieron por la vía común, en el caso de que no tuvieran régimen provisional de autonomía?",
+    "options": [
+      "2/4 partes.",
+      "3/4 partes.",
+      "2/3 partes."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 421 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cuántos municipios debían formar parte de la iniciativa autonómica en el caso de las Comunidades que accedieron por la vía común, en el caso de que tuvieran régimen provisional de autonomía? .",
+    "options": [
+      "Ningún porcentaje.",
+      "2/3 partes.",
+      "2/4 partes."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 422 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cuál de los siguientes extremos no debe aparecer obligatoriamente en un Estatuto de Autonomía?",
+    "options": [
+      "La sede de las Instituciones.",
+      "Las competencias por asumir.",
+      "Las competencias asumidas."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 423 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Qué artículo prevé que las Comunidades Autónomas puedan reclamar como propias competencias sobre materias no atribuidas expresamente al Estado por la Constitución?",
+    "options": [
+      "134.2.",
+      "151.3.",
+      "149.3."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 425 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "Además del contenido mínimo ordinario, ¿cuál de los siguientes debe incluir en su estatuto, una Comunidad Autónoma de vía especial?",
+    "options": [
+      "Un Tribunal Superior de Justicia.",
+      "Un Tribunal Supremo.",
+      "Un Defensor autonómico."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 426 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "Qué artículo de la Constitución recoge las competencias asumibles por las Comunidades Autónomas?",
+    "options": [
+      "151.",
+      "148.",
+      "149."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 428 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cómo se denomina generalmente, al órgano legislativo de la Comunidad Autónoma?",
+    "options": [
+      "Legislador.",
+      "Cortes autonómicas.",
+      "Asamblea."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 430 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cuánto tiempo debieron esperar las Comunidades Autónomas de vía común para acceder a mayor número de competencias que las reconocidas inicialmente en el Estatuto de Autonomía?",
+    "options": [
+      "Cinco años.",
+      "Dos años.",
+      "Cuatro años."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 431 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Qué artículo de la Constitución establece el derecho de autonomía de provincias y municipios?",
+    "options": [
+      "El art.2.",
+      "El art. 137.",
+      "El art. 153.2."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 435 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Qué artículo de la Constitución establece la autonomía de los municipios?",
+    "options": [
+      "141.",
+      "142.",
+      "140."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 437 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿De qué tipo de personalidad jurídica gozan los municipios?",
+    "options": [
+      "Plena.",
+      "Propia.",
+      "Orgánica."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 438 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿De qué tipo de personalidad jurídica gozan las provincias?",
+    "options": [
+      "Plena.",
+      "Propia.",
+      "Orgánica."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 439 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "Cualquier alteración de los límites de una provincia deberá ser aprobada por:",
+    "options": [
+      "Ley ordinaria de las Cortes Generales.",
+      "Acuerdo entre las Cortes Generales y la Comunidad Autónoma afectada.",
+      "Ley orgánica de las Cortes Generales."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 445 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Pueden crearse agrupaciones de municipios distintas de la provincia?",
+    "options": [
+      "Sí.",
+      "No, en ningún caso.",
+      "Sí, con autorización previa del Senado."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 447 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
   }
 ],
 4:[
   {
     "q": "El procedimiento administrativo común de las Administraciones Públicas se regula en:",
     "options": [
-      "La Ley 39/2015, de 1 de octubre",
       "La Ley 40/2015, de 1 de octubre",
-      "La Ley 30/1992, de 26 de noviembre",
-      "El Real Decreto Legislativo 5/2015"
+      "La Ley 39/2015, de 1 de octubre",
+      "La Ley 30/1992, de 26 de noviembre"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas."
   },
   {
     "q": "El plazo para interponer recurso de alzada, cuando el acto es expreso, es de:",
     "options": [
       "Diez días",
-      "Un mes",
-      "Quince días",
-      "Tres meses"
+      "Tres meses",
+      "Un mes"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "Art. 122.1 Ley 39/2015: un mes si el acto es expreso."
   },
   {
     "q": "El plazo para interponer recurso potestativo de reposición contra un acto que ponga fin a la vía administrativa, cuando es expreso, es de:",
     "options": [
-      "Dos meses",
-      "Tres meses",
       "Un mes",
-      "Quince días"
+      "Dos meses",
+      "Tres meses"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "Art. 124.1 Ley 39/2015: un mes si el acto es expreso."
   },
   {
     "q": "Cuando las normas reguladoras no fijen plazo máximo para resolver, éste será de:",
     "options": [
       "Un mes",
-      "Seis meses",
-      "Un año",
-      "Tres meses"
+      "Tres meses",
+      "Seis meses"
     ],
-    "correct": 3,
+    "correct": 1,
     "exp": "Art. 21.3 Ley 39/2015: el plazo será de tres meses."
   },
   {
     "q": "En los plazos señalados por días, salvo que se indique otra cosa, se entiende que son:",
     "options": [
-      "Días hábiles, excluyéndose sábados, domingos y festivos",
-      "Días naturales",
       "Días hábiles incluyendo los sábados",
-      "Días laborables del interesado"
+      "Días laborables del interesado",
+      "Días hábiles, excluyéndose sábados, domingos y festivos"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "Art. 30.2 Ley 39/2015: se excluyen del cómputo los sábados, los domingos y los declarados festivos."
   }
 ],
@@ -273,23 +5085,21 @@ const QUESTIONS = {
   {
     "q": "Por su población, al Ayuntamiento de Zaragoza le resulta aplicable:",
     "options": [
-      "El régimen de concejo abierto",
       "El régimen de organización de los municipios de gran población de la Ley de Bases de Régimen Local",
       "El régimen especial de las entidades locales menores",
       "Únicamente el régimen común, sin especialidades"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "Zaragoza se rige por el título de municipios de gran población de la LBRL, además de su ley de régimen especial como capital de Aragón."
   },
   {
     "q": "El territorio del municipio de Zaragoza se organiza, entre otras entidades de participación, en:",
     "options": [
       "Únicamente en Juntas Municipales",
-      "Únicamente en Juntas Vecinales",
       "Juntas Municipales de distrito y Juntas Vecinales de barrios rurales",
-      "Comarcas urbanas"
+      "Únicamente en Juntas Vecinales"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "Zaragoza cuenta con Juntas Municipales en los distritos urbanos y Juntas Vecinales en los barrios rurales."
   }
 ],
@@ -298,10 +5108,10 @@ const QUESTIONS = {
     "q": "¿A qué órgano corresponde, en los municipios de gran población, la aprobación de los proyectos de ordenanzas y de los reglamentos, incluidos los orgánicos, con la excepción de las normas reguladoras del Pleno y sus comisiones?",
     "options": [
       "Al Pleno de la Corporación",
-      "A la Junta de Gobierno Local",
-      "Al Alcalde o Presidente"
+      "Al Alcalde o Presidente",
+      "A la Junta de Gobierno Local"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 127.1.a) LBRL atribuye a la Junta de Gobierno Local la aprobación de los proyectos de ordenanzas y de los reglamentos, incluidos los orgánicos, con excepción de las normas reguladoras del Pleno y sus comisiones.",
     "fuente": "Art. 127.1.a) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -322,10 +5132,10 @@ const QUESTIONS = {
     "q": "¿A qué órgano corresponde el ejercicio de la potestad sancionadora en los municipios de gran población, según el art. 127.1.l) LBRL?",
     "options": [
       "Al Pleno, salvo que una ley la atribuya a otro órgano",
-      "Al Alcalde, en todo caso y sin excepciones",
-      "A la Junta de Gobierno Local, salvo que por ley esté atribuida a otro órgano"
+      "A la Junta de Gobierno Local, salvo que por ley esté atribuida a otro órgano",
+      "Al Alcalde, en todo caso y sin excepciones"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 127.1.l) LBRL atribuye a la Junta de Gobierno Local el ejercicio de la potestad sancionadora salvo que por ley esté atribuida a otro órgano.",
     "fuente": "Art. 127.1.l) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -334,10 +5144,10 @@ const QUESTIONS = {
     "q": "De las funciones que el art. 127.1 LBRL atribuye a la Junta de Gobierno Local, ¿cuál de las siguientes NO puede ser delegada en ningún caso, conforme al art. 127.2 LBRL?",
     "options": [
       "El desarrollo de la gestión económica ordinaria",
-      "La aprobación de la relación de puestos de trabajo",
-      "La concesión de licencias no reservadas a otro órgano"
+      "La concesión de licencias no reservadas a otro órgano",
+      "La aprobación de la relación de puestos de trabajo"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 127.2 LBRL excluye de la delegación, entre otras, la aprobación de la relación de puestos de trabajo, las retribuciones del personal, la oferta de empleo público, el número y régimen del personal eventual y la separación del servicio de los funcionarios.",
     "fuente": "Art. 127.2 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -357,11 +5167,11 @@ const QUESTIONS = {
   {
     "q": "¿Qué funciones de gestión económica atribuye el art. 127.1.g) LBRL a la Junta de Gobierno Local?",
     "options": [
-      "El desarrollo de la gestión económica, autorizar y disponer gastos en materia de su competencia, y la gestión del personal",
       "La aprobación definitiva de los presupuestos generales del Ayuntamiento",
+      "El desarrollo de la gestión económica, autorizar y disponer gastos en materia de su competencia, y la gestión del personal",
       "La fiscalización previa de todos los gastos municipales, sustituyendo a la Intervención"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 127.1.g) LBRL atribuye a la Junta de Gobierno Local el desarrollo de la gestión económica, autorizar y disponer gastos en materia de su competencia, disponer gastos previamente autorizados por el Pleno, y la gestión del personal.",
     "fuente": "Art. 127.1.g) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -369,11 +5179,11 @@ const QUESTIONS = {
   {
     "q": "El ejercicio de las acciones judiciales y administrativas en materia de su competencia corresponde, en los municipios de gran población, a:",
     "options": [
-      "La Junta de Gobierno Local, conforme al art. 127.1.j) LBRL",
       "El Pleno, mediante acuerdo adoptado en sesión extraordinaria",
-      "El Secretario general del Pleno, por delegación permanente"
+      "El Secretario general del Pleno, por delegación permanente",
+      "La Junta de Gobierno Local, conforme al art. 127.1.j) LBRL"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 127.1.j) LBRL atribuye a la Junta de Gobierno Local el ejercicio de las acciones judiciales y administrativas en materia de su competencia.",
     "fuente": "Art. 127.1.j) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -394,10 +5204,10 @@ const QUESTIONS = {
     "q": "Según el art. 128.1 LBRL, los ayuntamientos de gran población:",
     "options": [
       "Podrán crear distritos únicamente si lo solicita la mayoría de los vecinos",
-      "Deberán suprimir cualquier distrito preexistente al iniciar cada mandato corporativo",
-      "Deberán crear distritos, como divisiones territoriales propias dotadas de órganos de gestión desconcentrada"
+      "Deberán crear distritos, como divisiones territoriales propias dotadas de órganos de gestión desconcentrada",
+      "Deberán suprimir cualquier distrito preexistente al iniciar cada mandato corporativo"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 128.1 LBRL establece que los ayuntamientos deberán crear distritos, como divisiones territoriales propias, dotadas de órganos de gestión desconcentrada, para impulsar y desarrollar la participación ciudadana.",
     "fuente": "Art. 128.1 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -405,11 +5215,11 @@ const QUESTIONS = {
   {
     "q": "¿A qué órgano corresponde la creación de los distritos y su regulación, según el art. 128.2 LBRL?",
     "options": [
-      "Al Pleno de la Corporación",
       "A la Junta de Gobierno Local",
-      "Al Alcalde o Presidente, mediante decreto"
+      "Al Alcalde o Presidente, mediante decreto",
+      "Al Pleno de la Corporación"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 128.2 LBRL atribuye al Pleno de la Corporación la creación de los distritos y su regulación.",
     "fuente": "Art. 128.2 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -417,11 +5227,11 @@ const QUESTIONS = {
   {
     "q": "El porcentaje mínimo de recursos presupuestarios de la corporación que deben gestionar los distritos en su conjunto debe determinarse, conforme al art. 128.2 LBRL, mediante:",
     "options": [
+      "Una norma de carácter orgánico",
       "Una ordenanza fiscal específica de distritos",
-      "Un decreto motivado de la Alcaldía",
-      "Una norma de carácter orgánico"
+      "Un decreto motivado de la Alcaldía"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 128.2 LBRL exige que el porcentaje mínimo de recursos presupuestarios que deben gestionar los distritos se determine en una norma de carácter orgánico.",
     "fuente": "Art. 128.2 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -441,11 +5251,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al art. 139 LBRL, la habilitación para tipificar infracciones y sanciones en ordenanzas locales se refiere a la ordenación de las relaciones de convivencia de interés local y del uso de:",
     "options": [
-      "Sus servicios, equipamientos, infraestructuras, instalaciones y espacios públicos",
       "Exclusivamente las vías públicas de titularidad municipal",
-      "Los bienes de dominio público marítimo-terrestre"
+      "Los bienes de dominio público marítimo-terrestre",
+      "Sus servicios, equipamientos, infraestructuras, instalaciones y espacios públicos"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 139 LBRL habilita a los entes locales a tipificar infracciones para la adecuada ordenación de las relaciones de convivencia de interés local y del uso de sus servicios, equipamientos, infraestructuras, instalaciones y espacios públicos.",
     "fuente": "Art. 139 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -453,11 +5263,11 @@ const QUESTIONS = {
   {
     "q": "La habilitación del art. 139 LBRL para que los entes locales tipifiquen infracciones mediante ordenanza opera:",
     "options": [
+      "En defecto de normativa sectorial específica",
       "En cualquier caso, con independencia de que exista normativa sectorial",
-      "Solo previa autorización expresa de la comunidad autónoma respectiva",
-      "En defecto de normativa sectorial específica"
+      "Solo previa autorización expresa de la comunidad autónoma respectiva"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 139 LBRL condiciona la potestad tipificadora local a que no exista normativa sectorial específica sobre la materia.",
     "fuente": "Art. 139 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -465,11 +5275,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 140.1.a) LBRL, la perturbación relevante de la convivencia que afecte de manera grave, inmediata y directa a la tranquilidad o al ejercicio de derechos legítimos de otras personas se considera infracción muy grave siempre que:",
     "options": [
-      "Se trate de conductas no subsumibles en los tipos del capítulo IV de la Ley Orgánica 1/1992, de Protección de la Seguridad Ciudadana",
       "Se haya cometido en un inmueble de titularidad municipal",
+      "Se trate de conductas no subsumibles en los tipos del capítulo IV de la Ley Orgánica 1/1992, de Protección de la Seguridad Ciudadana",
       "Haya sido denunciada por escrito ante el registro municipal"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 140.1.a) LBRL exige, para calificar esa perturbación como infracción muy grave, que se trate de conductas no subsumibles en los tipos previstos en el capítulo IV de la Ley Orgánica 1/1992, de Protección de la Seguridad Ciudadana.",
     "fuente": "Art. 140.1.a) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -478,10 +5288,10 @@ const QUESTIONS = {
     "q": "¿Cuál de las siguientes conductas tipifica como infracción muy grave el art. 140.1.c) LBRL?",
     "options": [
       "El impedimento del uso de un servicio público por persona con derecho a su utilización",
-      "El impedimento o la grave y relevante obstrucción al normal funcionamiento de un servicio público",
-      "El deterioro grave y relevante de espacios públicos derivado de alteraciones de la seguridad ciudadana"
+      "El deterioro grave y relevante de espacios públicos derivado de alteraciones de la seguridad ciudadana",
+      "El impedimento o la grave y relevante obstrucción al normal funcionamiento de un servicio público"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 140.1.c) LBRL tipifica como infracción muy grave el impedimento o la grave y relevante obstrucción al normal funcionamiento de un servicio público, distinto del impedimento de uso regulado en la letra b) y del deterioro de espacios de la letra f).",
     "fuente": "Art. 140.1.c) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -489,11 +5299,11 @@ const QUESTIONS = {
   {
     "q": "El art. 140.1.f) LBRL tipifica como infracción muy grave el deterioro grave y relevante de espacios públicos o de sus instalaciones y elementos, muebles o inmuebles, siempre que:",
     "options": [
+      "No derive de alteraciones de la seguridad ciudadana",
       "Haya sido cometido por menores de edad",
-      "Se produzca en horario nocturno",
-      "No derive de alteraciones de la seguridad ciudadana"
+      "Se produzca en horario nocturno"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 140.1.f) LBRL exige que esos actos de deterioro no deriven de alteraciones de la seguridad ciudadana, para diferenciarlos de los tipos de la Ley Orgánica 1/1992.",
     "fuente": "Art. 140.1.f) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -501,11 +5311,11 @@ const QUESTIONS = {
   {
     "q": "Para clasificar en graves y leves las infracciones distintas de las muy graves, el art. 140.2.a) LBRL atiende, entre otros criterios, a:",
     "options": [
-      "La intensidad de la perturbación ocasionada en la tranquilidad o en el pacífico ejercicio de los derechos de otras personas",
       "El importe de la fianza depositada por el presunto infractor",
+      "La intensidad de la perturbación ocasionada en la tranquilidad o en el pacífico ejercicio de los derechos de otras personas",
       "La existencia de antecedentes penales del infractor"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 140.2.a) LBRL incluye entre los criterios de clasificación la intensidad de la perturbación ocasionada en la tranquilidad o en el pacífico ejercicio de los derechos de otras personas o actividades.",
     "fuente": "Art. 140.2.a) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -525,11 +5335,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al art. 141 LBRL, salvo previsión legal distinta, el límite máximo de las multas por infracciones muy graves de las ordenanzas locales es de:",
     "options": [
+      "3.000 euros",
       "1.500 euros",
-      "750 euros",
-      "3.000 euros"
+      "750 euros"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 141 LBRL fija en 3.000 euros el límite máximo de las multas por infracciones muy graves de ordenanzas locales, salvo previsión legal distinta.",
     "fuente": "Art. 141 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -537,11 +5347,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al art. 141 LBRL, salvo previsión legal distinta, el límite máximo de las multas por infracciones leves de las ordenanzas locales es de:",
     "options": [
-      "750 euros",
       "1.500 euros",
+      "750 euros",
       "3.000 euros"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 141 LBRL fija en 750 euros el límite máximo de las multas por infracciones leves de ordenanzas locales, salvo previsión legal distinta.",
     "fuente": "Art. 141 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -550,10 +5360,10 @@ const QUESTIONS = {
     "q": "El art. 141 LBRL, al fijar las cuantías máximas de las multas por infracción de ordenanzas locales, comienza con la salvedad:",
     "options": [
       "\"Sin perjuicio de lo dispuesto en la legislación autonómica\"",
-      "\"Salvo previsión legal distinta\"",
-      "\"Previa autorización de la Administración del Estado\""
+      "\"Previa autorización de la Administración del Estado\"",
+      "\"Salvo previsión legal distinta\""
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 141 LBRL dispone que, salvo previsión legal distinta, las multas por infracción de ordenanzas locales deberán respetar las cuantías que a continuación establece.",
     "fuente": "Art. 141 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -561,11 +5371,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 123.1 ROF, las Comisiones Informativas son órganos que:",
     "options": [
-      "Tienen atribuciones resolutorias delegadas por el Pleno",
       "Carecen de atribuciones resolutorias y tienen función de estudio, informe o consulta de los asuntos sometidos al Pleno",
+      "Tienen atribuciones resolutorias delegadas por el Pleno",
       "Sustituyen a la Junta de Gobierno Local en su ausencia"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 123.1 ROF define las Comisiones Informativas como órganos sin atribuciones resolutorias, cuya función es el estudio, informe o consulta de los asuntos que hayan de someterse a la decisión del Pleno.",
     "fuente": "Art. 123.1 ROF (RD 2568/1986)",
     "confianza": "alta"
@@ -574,10 +5384,10 @@ const QUESTIONS = {
     "q": "Según el art. 124 ROF, las Comisiones informativas permanentes se caracterizan por:",
     "options": [
       "Constituirse para un asunto concreto y extinguirse al dictaminarlo",
-      "Estar integradas únicamente por personal técnico municipal",
-      "Constituirse con carácter general, distribuyendo entre ellas las materias que han de someterse al Pleno"
+      "Constituirse con carácter general, distribuyendo entre ellas las materias que han de someterse al Pleno",
+      "Estar integradas únicamente por personal técnico municipal"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 124.2 ROF establece que son Comisiones informativas permanentes las que se constituyen con carácter general, distribuyendo entre ellas las materias que han de someterse al Pleno.",
     "fuente": "Art. 124.2 ROF (RD 2568/1986)",
     "confianza": "alta"
@@ -585,11 +5395,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al art. 124.3 ROF, las Comisiones informativas especiales:",
     "options": [
-      "Se extinguen automáticamente una vez que han dictaminado o informado sobre su objeto, salvo que el acuerdo plenario disponga otra cosa",
       "Permanecen constituidas durante todo el mandato corporativo",
-      "Solo pueden crearse para asuntos de personal"
+      "Solo pueden crearse para asuntos de personal",
+      "Se extinguen automáticamente una vez que han dictaminado o informado sobre su objeto, salvo que el acuerdo plenario disponga otra cosa"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 124.3 ROF dispone que las Comisiones informativas especiales se extinguen automáticamente una vez que hayan dictaminado o informado sobre el asunto que constituye su objeto, salvo que el acuerdo plenario que las creó disponga otra cosa.",
     "fuente": "Art. 124.3 ROF (RD 2568/1986)",
     "confianza": "alta"
@@ -597,11 +5407,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 125.a) ROF, la presidencia de las Comisiones Informativas corresponde:",
     "options": [
+      "Al Alcalde o Presidente, como presidente nato, aunque puede delegar la presidencia efectiva en un miembro de la Corporación a propuesta de la propia Comisión",
       "A un concejal elegido democráticamente entre los miembros de cada Comisión",
-      "Al Alcalde o Presidente de la Corporación, como presidente nato, sin posibilidad de delegación",
-      "Al Alcalde o Presidente, como presidente nato, aunque puede delegar la presidencia efectiva en un miembro de la Corporación a propuesta de la propia Comisión"
+      "Al Alcalde o Presidente de la Corporación, como presidente nato, sin posibilidad de delegación"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 125.a) ROF establece que el Alcalde o Presidente es el presidente nato de todas las Comisiones Informativas, pudiendo delegar la presidencia efectiva en cualquier miembro de la Corporación, a propuesta de la propia Comisión.",
     "fuente": "Art. 125.a) ROF (RD 2568/1986)",
     "confianza": "alta"
@@ -633,11 +5443,11 @@ const QUESTIONS = {
   {
     "q": "Si el Pleno adopta, por razones de urgencia, un acuerdo sobre un asunto no dictaminado por la Comisión Informativa correspondiente, el art. 126.2 ROF exige que:",
     "options": [
-      "El acuerdo se anule automáticamente si no hay dictamen previo",
       "Se dé cuenta del acuerdo adoptado a la Comisión Informativa en la primera sesión que ésta celebre",
+      "El acuerdo se anule automáticamente si no hay dictamen previo",
       "El Secretario deniegue la incorporación del acuerdo al Libro de Actas"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 126.2 ROF dispone que, en supuestos de urgencia sin dictamen previo, del acuerdo adoptado deberá darse cuenta a la Comisión Informativa en la primera sesión que se celebre, pudiendo el Pleno deliberar sobre la urgencia acordada.",
     "fuente": "Art. 126.2 ROF (RD 2568/1986)",
     "confianza": "alta"
@@ -646,10 +5456,10 @@ const QUESTIONS = {
     "q": "Según el art. 78.1 ROF, la periodicidad de las sesiones ordinarias del Pleno se fija:",
     "options": [
       "Por decreto del Alcalde o Presidente, sin necesidad de acuerdo plenario",
-      "Libremente por cada grupo municipal para las sesiones que le afecten",
-      "Por acuerdo del propio Pleno adoptado en sesión extraordinaria convocada dentro de los treinta días siguientes a la sesión constitutiva"
+      "Por acuerdo del propio Pleno adoptado en sesión extraordinaria convocada dentro de los treinta días siguientes a la sesión constitutiva",
+      "Libremente por cada grupo municipal para las sesiones que le afecten"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 78.1 ROF exige que la periodicidad de las sesiones ordinarias se fije por acuerdo del propio Pleno, adoptado en sesión extraordinaria que el Alcalde o Presidente debe convocar dentro de los treinta días siguientes a la sesión constitutiva.",
     "fuente": "Art. 78.1 ROF (RD 2568/1986)",
     "confianza": "alta"
@@ -658,10 +5468,10 @@ const QUESTIONS = {
     "q": "Cuando una sesión extraordinaria del Pleno se solicita a instancia de la cuarta parte de los miembros de la Corporación, el art. 78.3 ROF dispone que la convocatoria:",
     "options": [
       "Podrá demorarse indefinidamente si el Alcalde lo estima oportuno",
-      "Deberá efectuarse dentro de los cuatro días siguientes a la petición, sin que la celebración pueda demorarse más de dos meses desde su entrada en el registro",
-      "Requiere la conformidad previa de la Comisión de Gobierno"
+      "Requiere la conformidad previa de la Comisión de Gobierno",
+      "Deberá efectuarse dentro de los cuatro días siguientes a la petición, sin que la celebración pueda demorarse más de dos meses desde su entrada en el registro"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 78.3 ROF establece que la convocatoria de la sesión extraordinaria a instancia de miembros de la Corporación debe efectuarse dentro de los cuatro días siguientes a la petición, sin que su celebración pueda demorarse más de dos meses desde la entrada del escrito en el Registro General.",
     "fuente": "Art. 78.3 ROF (RD 2568/1986)",
     "confianza": "alta"
@@ -681,11 +5491,11 @@ const QUESTIONS = {
   {
     "q": "¿A quién corresponde convocar todas las sesiones del Pleno, según el art. 80.1 ROF?",
     "options": [
-      "Al Alcalde o Presidente",
       "Al Secretario general de la Corporación",
+      "Al Alcalde o Presidente",
       "A la Comisión Informativa que corresponda por razón de la materia"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 80.1 ROF atribuye al Alcalde o Presidente la convocatoria de todas las sesiones del Pleno, debiendo ser motivada la de las sesiones extraordinarias.",
     "fuente": "Art. 80.1 ROF (RD 2568/1986)",
     "confianza": "alta"
@@ -705,11 +5515,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 82.2 ROF, ¿qué asuntos pueden incluirse en el orden del día de una sesión del Pleno?",
     "options": [
-      "Cualquier asunto que proponga un concejal, aunque no haya sido informado por ninguna Comisión",
       "Solo los asuntos previamente dictaminados, informados o sometidos a consulta de la Comisión Informativa que corresponda",
+      "Cualquier asunto que proponga un concejal, aunque no haya sido informado por ninguna Comisión",
       "Únicamente los asuntos que figuren en la ordenanza de organización municipal"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 82.2 ROF dispone que en el orden del día sólo pueden incluirse los asuntos que hayan sido previamente dictaminados, informados o sometidos a consulta de la Comisión Informativa correspondiente.",
     "fuente": "Art. 82.2 ROF (RD 2568/1986)",
     "confianza": "alta"
@@ -741,11 +5551,11 @@ const QUESTIONS = {
   {
     "q": "Para la válida constitución del Pleno, el art. 90.1 ROF exige la asistencia de:",
     "options": [
-      "La mayoría absoluta de los miembros de la Corporación",
       "Un tercio del número legal de miembros de la Corporación, sin que pueda ser inferior a tres, además de Presidente y Secretario",
+      "La mayoría absoluta de los miembros de la Corporación",
       "Dos tercios de los miembros, salvo en sesiones extraordinarias"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 90.1 ROF exige, para la válida constitución del Pleno, la asistencia de un tercio del número legal de miembros de la Corporación (nunca inferior a tres), además de la presencia del Presidente y del Secretario.",
     "fuente": "Art. 90.1 ROF (RD 2568/1986)",
     "confianza": "alta"
@@ -754,10 +5564,10 @@ const QUESTIONS = {
     "q": "Si en primera convocatoria del Pleno no se alcanza el quórum exigido, el art. 90.2 ROF dispone que:",
     "options": [
       "La sesión queda definitivamente suspendida hasta la siguiente ordinaria",
-      "Se reduce el quórum exigido a la cuarta parte de los miembros",
-      "Se entiende convocada la sesión automáticamente a la misma hora, dos días después"
+      "Se entiende convocada la sesión automáticamente a la misma hora, dos días después",
+      "Se reduce el quórum exigido a la cuarta parte de los miembros"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 90.2 ROF establece que, si en primera convocatoria no existiera el quórum necesario, se entenderá convocada la sesión automáticamente a la misma hora, dos días después.",
     "fuente": "Art. 90.2 ROF (RD 2568/1986)",
     "confianza": "alta"
@@ -766,10 +5576,10 @@ const QUESTIONS = {
     "q": "Según el art. 97.1 ROF, se denomina \"dictamen\" a:",
     "options": [
       "La propuesta que cualquier miembro somete directamente al Pleno sin pasar por Comisión Informativa",
-      "La propuesta sometida al Pleno tras el estudio del expediente por la Comisión Informativa, con una parte expositiva y un acuerdo a adoptar",
-      "El informe jurídico emitido por la Secretaría sobre la legalidad de un acuerdo"
+      "El informe jurídico emitido por la Secretaría sobre la legalidad de un acuerdo",
+      "La propuesta sometida al Pleno tras el estudio del expediente por la Comisión Informativa, con una parte expositiva y un acuerdo a adoptar"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 97.1 ROF define el dictamen como la propuesta sometida al Pleno tras el estudio del expediente por la Comisión Informativa, que contiene una parte expositiva y un acuerdo a adoptar.",
     "fuente": "Art. 97.1 ROF (RD 2568/1986)",
     "confianza": "alta"
@@ -789,21 +5599,21 @@ const QUESTIONS = {
   {
     "q": "Según el art. 8.2 del TREBEP, los empleados públicos se clasifican en:",
     "options": [
-      "Funcionarios de carrera, funcionarios interinos, personal laboral y personal eventual",
       "Únicamente funcionarios de carrera y personal laboral",
+      "Funcionarios de carrera, funcionarios interinos, personal laboral y personal eventual",
       "Solo personal laboral fijo y personal laboral temporal"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "Art. 8.2 TREBEP: los empleados públicos se clasifican en funcionarios de carrera, funcionarios interinos, personal laboral (fijo, por tiempo indefinido o temporal) y personal eventual."
   },
   {
     "q": "Según el art. 9.1 del TREBEP, son funcionarios de carrera quienes están vinculados a una Administración Pública por una relación:",
     "options": [
-      "Estatutaria regulada por el Derecho Administrativo",
       "Laboral regulada por el Estatuto de los Trabajadores",
-      "Mercantil regulada por el Código de Comercio"
+      "Mercantil regulada por el Código de Comercio",
+      "Estatutaria regulada por el Derecho Administrativo"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "Art. 9.1 TREBEP: 'Son funcionarios de carrera quienes, en virtud de nombramiento legal, están vinculados a una Administración Pública por una relación estatutaria regulada por el Derecho Administrativo.'"
   },
   {
@@ -819,21 +5629,21 @@ const QUESTIONS = {
   {
     "q": "Según el art. 10.1 del TREBEP, son funcionarios interinos los que se nombran, con carácter temporal, por razones expresamente justificadas de:",
     "options": [
-      "Necesidad y urgencia",
       "Antigüedad y experiencia previa",
+      "Necesidad y urgencia",
       "Confianza política del nombrante"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "Art. 10.1 TREBEP: 'Son funcionarios interinos los que, por razones expresamente justificadas de necesidad y urgencia, son nombrados como tales.'"
   },
   {
     "q": "Según el art. 10.1 a) del TREBEP, es supuesto de nombramiento de funcionario interino la existencia de:",
     "options": [
-      "Plazas vacantes cuando no sea posible su cobertura por funcionarios de carrera",
       "Un contrato mercantil previamente suscrito",
-      "Una sanción disciplinaria pendiente de resolver"
+      "Una sanción disciplinaria pendiente de resolver",
+      "Plazas vacantes cuando no sea posible su cobertura por funcionarios de carrera"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "Art. 10.1 a) TREBEP: procede el nombramiento de interino cuando existan plazas vacantes cuando no sea posible su cobertura por funcionarios de carrera."
   },
   {
@@ -849,21 +5659,21 @@ const QUESTIONS = {
   {
     "q": "Según el art. 10.1 d) del TREBEP, procede el nombramiento de funcionario interino por exceso o acumulación de tareas por un plazo máximo de:",
     "options": [
-      "Nueve meses, dentro de un período de dieciocho meses",
       "Tres meses, sin posibilidad de prórroga",
+      "Nueve meses, dentro de un período de dieciocho meses",
       "Un año, renovable indefinidamente"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "Art. 10.1 d) TREBEP: procede el nombramiento por exceso o acumulación de tareas por plazo máximo de nueve meses, dentro de un periodo de dieciocho meses."
   },
   {
     "q": "Según el art. 11.1 del TREBEP, es personal laboral quien presta servicios retribuidos por las Administraciones Públicas en virtud de:",
     "options": [
-      "Contrato de trabajo formalizado por escrito",
       "Nombramiento verbal del Alcalde",
-      "Un acto administrativo unilateral sin ningún contrato"
+      "Un acto administrativo unilateral sin ningún contrato",
+      "Contrato de trabajo formalizado por escrito"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "Art. 11.1 TREBEP: 'Es personal laboral quien en virtud de contrato de trabajo formalizado por escrito, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios retribuidos por las Administraciones Públicas.'"
   },
   {
@@ -879,21 +5689,21 @@ const QUESTIONS = {
   {
     "q": "Según el art. 12.1 del TREBEP, es personal eventual el que, en virtud de nombramiento y con carácter no permanente, ocupa un puesto de trabajo considerado como de:",
     "options": [
-      "Confianza o asesoramiento especial",
       "Máxima antigüedad en la plantilla",
+      "Confianza o asesoramiento especial",
       "Habilitación de carácter nacional"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "Art. 12.1 TREBEP: 'Es personal eventual el que, en virtud de nombramiento y con carácter no permanente, sólo realiza funciones expresamente calificadas como de confianza o asesoramiento especial.'"
   },
   {
     "q": "Según el art. 12.3 del TREBEP, el personal eventual cesa automáticamente cuando:",
     "options": [
-      "Se produzca el cese o expire el mandato de la autoridad a la que preste su función de confianza o asesoramiento",
       "Cumpla veinte años de antigüedad en el puesto",
-      "Apruebe un proceso selectivo de acceso a la función pública"
+      "Apruebe un proceso selectivo de acceso a la función pública",
+      "Se produzca el cese o expire el mandato de la autoridad a la que preste su función de confianza o asesoramiento"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "Art. 12.3 TREBEP: 'El personal eventual cesará automáticamente cuando se produzca el cese o expire el mandato de la autoridad a la que preste su función de confianza o asesoramiento.'"
   },
   {
@@ -909,21 +5719,21 @@ const QUESTIONS = {
   {
     "q": "Según el art. 13 del TREBEP, el personal directivo profesional se rige por:",
     "options": [
-      "Los principios de mérito y capacidad, criterios de idoneidad, y sometido a evaluación con arreglo a criterios de eficacia y eficiencia",
       "Exclusivamente el Estatuto de los Trabajadores sin más matices",
+      "Los principios de mérito y capacidad, criterios de idoneidad, y sometido a evaluación con arreglo a criterios de eficacia y eficiencia",
       "Ninguna norma específica, queda a discreción absoluta de cada Administración"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "Art. 13 TREBEP: el personal directivo profesional se rige por los principios de mérito y capacidad y criterios de idoneidad, y se somete a evaluación con arreglo a los criterios de eficacia y eficiencia."
   },
   {
     "q": "Según la regulación de la huelga en el TREBEP, quienes ejerciten este derecho no devengarán ni percibirán las retribuciones correspondientes al tiempo en que hayan permanecido en esa situación, sin que dicha deducción tenga carácter de:",
     "options": [
-      "Sanción",
       "Retribución complementaria",
-      "Indemnización por razón del servicio"
+      "Indemnización por razón del servicio",
+      "Sanción"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El TREBEP establece que la deducción de haberes por el ejercicio de la huelga no tendrá carácter de sanción, ni afectará al régimen de las prestaciones sociales."
   },
   {
@@ -939,21 +5749,21 @@ const QUESTIONS = {
   {
     "q": "¿Qué relación existe entre el funcionario de carrera y el funcionario interino, en cuanto al tipo de vínculo jurídico?",
     "options": [
-      "Ambos tienen una relación estatutaria regulada por el Derecho Administrativo, pero el interino con carácter temporal",
       "El interino tiene una relación laboral, mientras que el de carrera tiene una relación estatutaria",
+      "Ambos tienen una relación estatutaria regulada por el Derecho Administrativo, pero el interino con carácter temporal",
       "Ambos tienen exactamente el mismo régimen de inamovilidad"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "Tanto el funcionario de carrera como el interino tienen una relación estatutaria regulada por el Derecho Administrativo; la diferencia esencial radica en el carácter permanente (carrera) o temporal y justificado por necesidad y urgencia (interino) de dicha relación."
   },
   {
     "q": "¿Puede el personal eventual ejercer funciones que impliquen participación directa o indirecta en el ejercicio de las potestades públicas?",
     "options": [
-      "No, dado que su función se limita a tareas de confianza o asesoramiento especial",
       "Sí, sin ninguna limitación",
-      "Sí, siempre que lo autorice el Pleno de la Corporación"
+      "Sí, siempre que lo autorice el Pleno de la Corporación",
+      "No, dado que su función se limita a tareas de confianza o asesoramiento especial"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El personal eventual, al desempeñar únicamente funciones de confianza o asesoramiento especial, no puede ejercer, con carácter general, funciones que impliquen participación directa o indirecta en el ejercicio de las potestades públicas, reservadas a los funcionarios."
   },
   {
@@ -969,21 +5779,21 @@ const QUESTIONS = {
   {
     "q": "¿Qué relación existe entre las cuatro clases de empleados públicos del art. 8 TREBEP y el régimen jurídico que les resulta aplicable?",
     "options": [
-      "Los funcionarios (de carrera e interinos) se rigen por el Derecho Administrativo mediante una relación estatutaria; el personal laboral se rige por el Derecho Laboral mediante contrato de trabajo; el personal eventual tiene un régimen de nombramiento de confianza no permanente",
       "Todas las clases de personal se rigen exactamente por el mismo régimen jurídico, sin ninguna distinción",
+      "Los funcionarios (de carrera e interinos) se rigen por el Derecho Administrativo mediante una relación estatutaria; el personal laboral se rige por el Derecho Laboral mediante contrato de trabajo; el personal eventual tiene un régimen de nombramiento de confianza no permanente",
       "Únicamente el personal laboral tiene un régimen jurídico reconocido por el TREBEP"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El TREBEP distingue el régimen estatutario (Derecho Administrativo) propio de los funcionarios de carrera e interinos, del régimen contractual laboral del personal laboral, y del régimen de nombramiento de confianza, no permanente, propio del personal eventual."
   },
   {
     "q": "En síntesis, ¿qué dos grandes bloques regula el Título II del TREBEP en relación con el personal al servicio de las Administraciones Públicas?",
     "options": [
-      "Las clases de personal (arts. 8 a 12) y el personal directivo profesional (art. 13)",
       "Únicamente el régimen retributivo del personal funcionario",
-      "Solo el régimen disciplinario aplicable a todo el personal"
+      "Solo el régimen disciplinario aplicable a todo el personal",
+      "Las clases de personal (arts. 8 a 12) y el personal directivo profesional (art. 13)"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El Título II del TREBEP se estructura en el Capítulo I ('Clases de personal', arts. 8 a 12) y el Capítulo II ('Personal directivo', art. 13)."
   },
   {
@@ -999,21 +5809,21 @@ const QUESTIONS = {
   {
     "q": "¿En qué Capítulo del Título III del TREBEP se regulan las retribuciones de los empleados públicos (arts. 21 a 30)?",
     "options": [
-      "Capítulo III, dedicado a los derechos retributivos",
       "Capítulo I, dedicado a los derechos de los empleados públicos",
+      "Capítulo III, dedicado a los derechos retributivos",
       "Capítulo VI, dedicado a los deberes y código de conducta"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "Las retribuciones (arts. 21 a 30) se regulan en el Capítulo III del Título III del TREBEP, dedicado a los 'Derechos retributivos.'"
   },
   {
     "q": "¿En qué artículo del TREBEP se regulan específicamente los permisos por motivos de conciliación de la vida personal, familiar y laboral, por razón de violencia de género o violencia sexual, y para víctimas de terrorismo?",
     "options": [
-      "El artículo 49",
       "El artículo 48, íntegramente",
-      "El artículo 52"
+      "El artículo 52",
+      "El artículo 49"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 49 TREBEP regula específicamente los permisos por conciliación de la vida personal, familiar y laboral, violencia de género o sexual, y víctimas de terrorismo, de forma diferenciada del art. 48."
   },
   {
@@ -1029,21 +5839,21 @@ const QUESTIONS = {
   {
     "q": "¿En qué Capítulo del Título III del TREBEP se regula el derecho a la carrera profesional y a la promoción interna, incluida la evaluación del desempeño (arts. 16 a 20)?",
     "options": [
-      "Capítulo II",
       "Capítulo I",
+      "Capítulo II",
       "Capítulo VI"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El Capítulo II del Título III del TREBEP se titula 'Derecho a la carrera profesional y a la promoción interna. La evaluación del desempeño' y comprende los arts. 16 a 20."
   },
   {
     "q": "¿Qué precepto del TREBEP regula específicamente la carrera profesional y la promoción del personal laboral, de forma diferenciada de la de los funcionarios de carrera?",
     "options": [
-      "El artículo 19",
       "El artículo 16, sin ninguna especialidad adicional",
-      "El artículo 13, relativo al personal directivo"
+      "El artículo 13, relativo al personal directivo",
+      "El artículo 19"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 19 TREBEP se ocupa específicamente de la carrera profesional y la promoción del personal laboral, remitiendo a lo que establezcan los convenios colectivos aplicables."
   },
   {
@@ -1059,21 +5869,21 @@ const QUESTIONS = {
   {
     "q": "En definitiva, ¿qué papel desempeña conjuntamente el bloque de arts. 8 a 20 del TREBEP dentro del régimen general del empleo público?",
     "options": [
-      "Configura el marco básico de las clases de personal, sus derechos individuales y colectivos, y el sistema de carrera profesional y evaluación del desempeño aplicable a los empleados públicos",
       "Se limita a regular exclusivamente el régimen disciplinario",
+      "Configura el marco básico de las clases de personal, sus derechos individuales y colectivos, y el sistema de carrera profesional y evaluación del desempeño aplicable a los empleados públicos",
       "Solo resulta aplicable al personal de la Administración General del Estado"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El conjunto de los arts. 8 a 20 del TREBEP configura el marco básico y transversal aplicable a todas las Administraciones Públicas en materia de clases de personal, derechos de los empleados públicos y sistema de carrera profesional y evaluación del desempeño."
   },
   {
     "q": "Según el art. 8.2 del TREBEP, ¿qué letra corresponde al personal laboral dentro de la clasificación de los empleados públicos?",
     "options": [
-      "Letra c)",
       "Letra a)",
-      "Letra d)"
+      "Letra d)",
+      "Letra c)"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 8.2 clasifica a los empleados públicos en a) funcionarios de carrera, b) funcionarios interinos, c) personal laboral y d) personal eventual.",
     "fuente": "Art. 8.2.c) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1081,11 +5891,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 9.2 del TREBEP, el ejercicio de las funciones que impliquen participación directa o indirecta en el ejercicio de las potestades públicas corresponde:",
     "options": [
-      "Indistintamente a funcionarios y personal laboral",
       "Exclusivamente a los funcionarios públicos",
+      "Indistintamente a funcionarios y personal laboral",
       "Al personal directivo profesional"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 9.2 dispone que el ejercicio de esas funciones corresponde exclusivamente a los funcionarios públicos, en los términos que establezca la ley de desarrollo de cada Administración.",
     "fuente": "Art. 9.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1094,10 +5904,10 @@ const QUESTIONS = {
     "q": "El art. 9.2 del TREBEP reserva en todo caso a los funcionarios públicos, además de las potestades públicas, la salvaguardia de:",
     "options": [
       "Los intereses particulares de los ciudadanos",
-      "Los intereses de las entidades colaboradoras",
-      "Los intereses generales del Estado y de las Administraciones Públicas"
+      "Los intereses generales del Estado y de las Administraciones Públicas",
+      "Los intereses de las entidades colaboradoras"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 9.2 se refiere a la participación en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales del Estado y de las Administraciones Públicas.",
     "fuente": "Art. 9.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1105,11 +5915,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 9.2 del TREBEP, la concreción de las funciones reservadas a los funcionarios públicos se remite a:",
     "options": [
-      "La ley de desarrollo de cada Administración Pública",
       "Un reglamento estatal único",
-      "Los convenios colectivos aplicables"
+      "Los convenios colectivos aplicables",
+      "La ley de desarrollo de cada Administración Pública"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El propio art. 9.2 remite la determinación de esas funciones a la ley de desarrollo de cada Administración Pública.",
     "fuente": "Art. 9.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1117,11 +5927,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 10.1.b) del TREBEP, es causa de nombramiento de funcionario interino:",
     "options": [
-      "La existencia de plazas vacantes sin cobertura posible",
       "La sustitución transitoria de los titulares, durante el tiempo estrictamente necesario",
+      "La existencia de plazas vacantes sin cobertura posible",
       "El exceso o acumulación de tareas"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 10.1.b) contempla la sustitución transitoria de los titulares, durante el tiempo estrictamente necesario, como causa de nombramiento de funcionario interino.",
     "fuente": "Art. 10.1.b) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1130,10 +5940,10 @@ const QUESTIONS = {
     "q": "Conforme al art. 10.1.c) del TREBEP, la ejecución de programas de carácter temporal como causa de nombramiento de interino tiene una duración máxima de:",
     "options": [
       "Nueve meses, ampliables a doce",
-      "Un año, sin posibilidad de ampliación",
-      "Tres años, ampliables hasta doce meses más por las leyes de Función Pública"
+      "Tres años, ampliables hasta doce meses más por las leyes de Función Pública",
+      "Un año, sin posibilidad de ampliación"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 10.1.c) fija un máximo de tres años, ampliable hasta doce meses más por las leyes de Función Pública que se dicten en desarrollo del Estatuto.",
     "fuente": "Art. 10.1.c) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1141,11 +5951,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 10.1.d) del TREBEP, el exceso o acumulación de tareas como causa de interinidad tiene un plazo máximo de nueve meses dentro de un periodo de:",
     "options": [
-      "Dieciocho meses",
       "Doce meses",
-      "Veinticuatro meses"
+      "Veinticuatro meses",
+      "Dieciocho meses"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 10.1.d) señala un plazo máximo de nueve meses dentro de un periodo de dieciocho meses.",
     "fuente": "Art. 10.1.d) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1153,11 +5963,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 10.2 del TREBEP, los procedimientos de selección de personal funcionario interino se rigen, entre otros, por los principios de igualdad, mérito, capacidad, publicidad y:",
     "options": [
-      "Confidencialidad",
       "Celeridad",
+      "Confidencialidad",
       "Antigüedad"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 10.2 exige que los procedimientos se rijan por los principios de igualdad, mérito, capacidad, publicidad y celeridad.",
     "fuente": "Art. 10.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1166,10 +5976,10 @@ const QUESTIONS = {
     "q": "De acuerdo con el art. 10.2 del TREBEP, el nombramiento derivado de los procedimientos de selección de personal interino:",
     "options": [
       "Da lugar automáticamente a la condición de funcionario de carrera tras dos años",
-      "Da lugar a dicha condición si el interino supera una evaluación de desempeño",
-      "En ningún caso dará lugar al reconocimiento de la condición de funcionario de carrera"
+      "En ningún caso dará lugar al reconocimiento de la condición de funcionario de carrera",
+      "Da lugar a dicha condición si el interino supera una evaluación de desempeño"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 10.2 establece expresamente que ese nombramiento en ningún caso dará lugar al reconocimiento de la condición de funcionario de carrera.",
     "fuente": "Art. 10.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1177,11 +5987,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 10.3.a) del TREBEP, la Administración formalizará de oficio la finalización de la relación de interinidad, sin derecho a compensación alguna, por:",
     "options": [
-      "La cobertura reglada del puesto por personal funcionario de carrera",
       "La jubilación anticipada del interino",
-      "La solicitud voluntaria del propio interino"
+      "La solicitud voluntaria del propio interino",
+      "La cobertura reglada del puesto por personal funcionario de carrera"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 10.3.a) prevé la finalización por la cobertura reglada del puesto por personal funcionario de carrera a través de los procedimientos legalmente establecidos.",
     "fuente": "Art. 10.3.a) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1189,11 +5999,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al art. 10.3.b) del TREBEP, es causa de finalización de oficio de la interinidad:",
     "options": [
-      "El traslado voluntario a otra Administración",
       "Las razones organizativas que den lugar a la supresión o amortización de los puestos asignados",
+      "El traslado voluntario a otra Administración",
       "La superación de un curso de formación"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 10.3.b) recoge las razones organizativas que den lugar a la supresión o a la amortización de los puestos asignados.",
     "fuente": "Art. 10.3.b) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1202,10 +6012,10 @@ const QUESTIONS = {
     "q": "Según el art. 10.3.c) y d) del TREBEP, son también causas de finalización de la interinidad, respectivamente:",
     "options": [
       "La jubilación forzosa y la incapacidad permanente",
-      "El cambio de puesto de trabajo y la movilidad geográfica",
-      "La finalización del plazo autorizado en el nombramiento y la finalización de la causa que dio lugar al nombramiento"
+      "La finalización del plazo autorizado en el nombramiento y la finalización de la causa que dio lugar al nombramiento",
+      "El cambio de puesto de trabajo y la movilidad geográfica"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 10.3.c) y d) prevén la finalización del plazo autorizado expresamente en el nombramiento y la finalización de la causa que dio lugar al nombramiento.",
     "fuente": "Art. 10.3.c) y d) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1213,11 +6023,11 @@ const QUESTIONS = {
   {
     "q": "Además de las causas del art. 10.3, ¿a qué otro artículo del TREBEP remite este apartado como causa adicional de finalización de la interinidad?",
     "options": [
-      "Al artículo 63",
       "Al artículo 70",
-      "Al artículo 9.2"
+      "Al artículo 9.2",
+      "Al artículo 63"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 10.3 dispone que la finalización de oficio opera por las causas que enumera, 'además de por las previstas en el artículo 63'.",
     "fuente": "Art. 10.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1225,11 +6035,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 10.4 del TREBEP, transcurrido el plazo de tres años desde el nombramiento del interino por vacante, se produce el fin de la relación de interinidad y la vacante solo podrá ser ocupada por:",
     "options": [
-      "Personal laboral fijo",
       "Personal funcionario de carrera, salvo que el proceso selectivo quede desierto",
+      "Personal laboral fijo",
       "Personal eventual con carácter transitorio"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 10.4 establece que, transcurridos tres años, la vacante solo podrá ser ocupada por personal funcionario de carrera, salvo que el proceso selectivo correspondiente quede desierto, en cuyo caso cabe otro nombramiento de interino.",
     "fuente": "Art. 10.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1238,10 +6048,10 @@ const QUESTIONS = {
     "q": "Conforme al art. 10.4 del TREBEP, ¿qué mecanismos deben usarse para cubrir las plazas vacantes desempeñadas por funcionario interino del art. 10.1.a)?",
     "options": [
       "Únicamente el concurso de traslados",
-      "Exclusivamente la promoción interna",
-      "Cualquiera de los mecanismos de provisión o movilidad previstos en la normativa de cada Administración Pública"
+      "Cualquiera de los mecanismos de provisión o movilidad previstos en la normativa de cada Administración Pública",
+      "Exclusivamente la promoción interna"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 10.4 exige que esas plazas sean objeto de cobertura mediante cualquiera de los mecanismos de provisión o movilidad previstos en la normativa de cada Administración Pública.",
     "fuente": "Art. 10.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1249,11 +6059,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 10.4, párrafo tercero, del TREBEP, el funcionario interino que permanece excepcionalmente en la plaza tras publicarse la convocatoria dentro del plazo de tres años puede continuar hasta la resolución de la convocatoria, siendo su cese:",
     "options": [
-      "Sin que dé lugar a compensación económica",
       "Compensado económicamente en todo caso",
-      "Compensado solo si supera los cinco años de servicio"
+      "Compensado solo si supera los cinco años de servicio",
+      "Sin que dé lugar a compensación económica"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 10.4 señala que, en ese supuesto excepcional, el interino podrá permanecer hasta la resolución de la convocatoria, sin que su cese dé lugar a compensación económica.",
     "fuente": "Art. 10.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1261,11 +6071,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 10.5 del TREBEP, al personal funcionario interino le será aplicable el régimen general del personal funcionario de carrera, salvo:",
     "options": [
-      "Los derechos económicos básicos",
       "Aquellos derechos inherentes a la condición de funcionario de carrera",
+      "Los derechos económicos básicos",
       "El régimen disciplinario"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 10.5 aplica al interino el régimen general del funcionario de carrera en cuanto sea adecuado a su condición temporal, salvo los derechos inherentes a la condición de funcionario de carrera.",
     "fuente": "Art. 10.5 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1274,10 +6084,10 @@ const QUESTIONS = {
     "q": "El art. 10.5 del TREBEP condiciona la aplicación del régimen general de carrera al personal interino a que sea adecuado a la naturaleza de su condición temporal y al carácter:",
     "options": [
       "Provisional y revisable de su plaza",
-      "Voluntario de su cese",
-      "Extraordinario y urgente de su nombramiento"
+      "Extraordinario y urgente de su nombramiento",
+      "Voluntario de su cese"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 10.5 se refiere expresamente al carácter extraordinario y urgente del nombramiento del interino.",
     "fuente": "Art. 10.5 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1285,11 +6095,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 11.1 del TREBEP, el contrato de trabajo del personal laboral debe formalizarse:",
     "options": [
-      "Por escrito",
       "Verbalmente ante testigos",
-      "Mediante acta administrativa"
+      "Mediante acta administrativa",
+      "Por escrito"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 11.1 exige que el contrato de trabajo del personal laboral se formalice por escrito.",
     "fuente": "Art. 11.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1297,11 +6107,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al art. 11.2 del TREBEP, ¿a qué leyes corresponde establecer los criterios para determinar qué puestos pueden ser desempeñados por personal laboral?",
     "options": [
-      "A los convenios colectivos sectoriales",
       "A las leyes de Función Pública que se dicten en desarrollo del Estatuto",
+      "A los convenios colectivos sectoriales",
       "A los estatutos de autonomía"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 11.2 atribuye a las leyes de Función Pública que se dicten en desarrollo del Estatuto establecer esos criterios.",
     "fuente": "Art. 11.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1310,10 +6120,10 @@ const QUESTIONS = {
     "q": "El art. 11.2 del TREBEP exige que los criterios sobre puestos desempeñables por personal laboral respeten en todo caso lo establecido en:",
     "options": [
       "El artículo 10.1",
-      "El artículo 8.2",
-      "El artículo 9.2"
+      "El artículo 9.2",
+      "El artículo 8.2"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 11.2 remite al respeto de lo establecido en el artículo 9.2, es decir, las funciones reservadas a funcionarios públicos.",
     "fuente": "Art. 11.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1321,11 +6131,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 11.3 del TREBEP, los procedimientos de selección del personal laboral se rigen en todo caso por los principios de:",
     "options": [
-      "Igualdad, mérito y capacidad",
       "Antigüedad, jerarquía y eficacia",
-      "Confianza, idoneidad y discrecionalidad"
+      "Confianza, idoneidad y discrecionalidad",
+      "Igualdad, mérito y capacidad"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 11.3 establece que los procedimientos de selección del personal laboral se rigen por los principios de igualdad, mérito y capacidad.",
     "fuente": "Art. 11.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1333,11 +6143,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al art. 11.3 del TREBEP, en el caso del personal laboral temporal, además de igualdad, mérito y capacidad, la selección se rige igualmente por el principio de:",
     "options": [
-      "Movilidad",
       "Celeridad",
+      "Movilidad",
       "Rotación"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 11.3 añade que la selección del personal laboral temporal se rige igualmente por el principio de celeridad, para atender razones justificadas de necesidad y urgencia.",
     "fuente": "Art. 11.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1346,10 +6156,10 @@ const QUESTIONS = {
     "q": "Según el art. 11.3 del TREBEP, la selección del personal laboral temporal, regida por el principio de celeridad, tiene por finalidad atender razones expresamente justificadas de:",
     "options": [
       "Eficiencia presupuestaria",
-      "Renovación generacional",
-      "Necesidad y urgencia"
+      "Necesidad y urgencia",
+      "Renovación generacional"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 11.3 indica que la finalidad es atender razones expresamente justificadas de necesidad y urgencia.",
     "fuente": "Art. 11.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1357,11 +6167,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 12.1 del TREBEP, el personal eventual es retribuido con cargo a:",
     "options": [
-      "Los créditos presupuestarios consignados para este fin",
       "Un fondo específico de confianza política",
-      "Las tasas administrativas del organismo"
+      "Las tasas administrativas del organismo",
+      "Los créditos presupuestarios consignados para este fin"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 12.1 señala que el personal eventual es retribuido con cargo a los créditos presupuestarios consignados para este fin.",
     "fuente": "Art. 12.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1369,11 +6179,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al art. 12.2 del TREBEP, ¿quién determina el número máximo de personal eventual?",
     "options": [
-      "El Ministerio de Hacienda en exclusiva",
       "Los respectivos órganos de gobierno",
+      "El Ministerio de Hacienda en exclusiva",
       "El Congreso de los Diputados"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 12.2 dispone que el número máximo se establecerá por los respectivos órganos de gobierno.",
     "fuente": "Art. 12.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1382,10 +6192,10 @@ const QUESTIONS = {
     "q": "Según el art. 12.2 del TREBEP, el número máximo de personal eventual y sus condiciones retributivas tendrán carácter:",
     "options": [
       "Reservadas",
-      "Confidenciales",
-      "Públicas"
+      "Públicas",
+      "Confidenciales"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 12.2 establece que ese número y las condiciones retributivas serán públicas.",
     "fuente": "Art. 12.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1393,11 +6203,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al art. 12.2 del TREBEP, ¿a qué corresponde determinar qué órganos de gobierno de las Administraciones Públicas pueden disponer de personal eventual?",
     "options": [
-      "A las leyes de Función Pública que se dicten en desarrollo del Estatuto",
       "A los reglamentos internos de cada unidad",
-      "A la Ley de Presupuestos Generales del Estado exclusivamente"
+      "A la Ley de Presupuestos Generales del Estado exclusivamente",
+      "A las leyes de Función Pública que se dicten en desarrollo del Estatuto"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 12.2 remite a las leyes de Función Pública que se dicten en desarrollo del Estatuto la determinación de qué órganos de gobierno pueden disponer de este tipo de personal.",
     "fuente": "Art. 12.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1405,11 +6215,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 12.3 del TREBEP, el nombramiento y cese del personal eventual serán:",
     "options": [
-      "Reglados mediante concurso",
       "Libres",
+      "Reglados mediante concurso",
       "Sujetos a informe previo del comité de empresa"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 12.3 establece que tanto el nombramiento como el cese del personal eventual serán libres.",
     "fuente": "Art. 12.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1418,10 +6228,10 @@ const QUESTIONS = {
     "q": "Conforme al art. 12.3 del TREBEP, el cese del personal eventual tendrá lugar, en todo caso, cuando se produzca:",
     "options": [
       "El nombramiento de un nuevo secretario general",
-      "La aprobación de los presupuestos anuales",
-      "El de la autoridad a la que se preste la función de confianza o asesoramiento"
+      "El de la autoridad a la que se preste la función de confianza o asesoramiento",
+      "La aprobación de los presupuestos anuales"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 12.3 vincula el cese al de la autoridad a la que se preste la función de confianza o asesoramiento especial.",
     "fuente": "Art. 12.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1429,11 +6239,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 12.5 del TREBEP, al personal eventual le será aplicable, en lo que sea adecuado a la naturaleza de su condición, el régimen general de:",
     "options": [
-      "Los funcionarios de carrera",
       "Los funcionarios interinos",
-      "El personal laboral fijo"
+      "El personal laboral fijo",
+      "Los funcionarios de carrera"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 12.5 aplica al personal eventual, en lo adecuado a su condición, el régimen general de los funcionarios de carrera.",
     "fuente": "Art. 12.5 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1441,11 +6251,11 @@ const QUESTIONS = {
   {
     "q": "Según el encabezado del art. 13 del TREBEP, además del Gobierno, ¿quién puede establecer el régimen jurídico específico del personal directivo?",
     "options": [
-      "Los ayuntamientos de gran población exclusivamente",
       "Los órganos de gobierno de las comunidades autónomas",
+      "Los ayuntamientos de gran población exclusivamente",
       "Las diputaciones provinciales"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 13 atribuye esa facultad al Gobierno y a los órganos de gobierno de las comunidades autónomas.",
     "fuente": "Art. 13 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1454,10 +6264,10 @@ const QUESTIONS = {
     "q": "Según el art. 13.1 del TREBEP, las funciones directivas profesionales del personal directivo se definen como tales en:",
     "options": [
       "El propio TREBEP de forma cerrada",
-      "Los estatutos de los sindicatos",
-      "Las normas específicas de cada Administración"
+      "Las normas específicas de cada Administración",
+      "Los estatutos de los sindicatos"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 13.1 remite a las normas específicas de cada Administración la definición de las funciones directivas profesionales.",
     "fuente": "Art. 13.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1465,11 +6275,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al art. 13.2 del TREBEP, la designación del personal directivo atenderá a principios de mérito y capacidad y a criterios de idoneidad, llevándose a cabo mediante procedimientos que garanticen:",
     "options": [
-      "La publicidad y concurrencia",
       "La confidencialidad y celeridad",
-      "La antigüedad y jerarquía"
+      "La antigüedad y jerarquía",
+      "La publicidad y concurrencia"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 13.2 exige procedimientos que garanticen la publicidad y concurrencia en la designación del personal directivo.",
     "fuente": "Art. 13.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1477,11 +6287,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 13.3 del TREBEP, el personal directivo estará sujeto a evaluación con arreglo a los criterios de eficacia y eficiencia, responsabilidad por su gestión y:",
     "options": [
-      "Antigüedad en el puesto directivo",
       "Control de resultados en relación con los objetivos fijados",
+      "Antigüedad en el puesto directivo",
       "Valoración sindical periódica"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 13.3 añade el control de resultados en relación con los objetivos que les hayan sido fijados como criterio de evaluación.",
     "fuente": "Art. 13.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1490,10 +6300,10 @@ const QUESTIONS = {
     "q": "Conforme al art. 13.4 del TREBEP, la determinación de las condiciones de empleo del personal directivo:",
     "options": [
       "Se negociará obligatoriamente con los sindicatos",
-      "Se fijará por convenio colectivo sectorial",
-      "No tendrá la consideración de materia objeto de negociación colectiva"
+      "No tendrá la consideración de materia objeto de negociación colectiva",
+      "Se fijará por convenio colectivo sectorial"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 13.4 excluye expresamente esas condiciones de empleo de la negociación colectiva a los efectos de la ley.",
     "fuente": "Art. 13.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1501,11 +6311,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 13.4 del TREBEP, cuando el personal directivo reúna la condición de personal laboral, estará sometido a:",
     "options": [
-      "La relación laboral de carácter especial de alta dirección",
       "El régimen laboral común ordinario",
-      "El régimen estatutario de los funcionarios de carrera"
+      "El régimen estatutario de los funcionarios de carrera",
+      "La relación laboral de carácter especial de alta dirección"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 13.4 dispone que el personal directivo laboral se somete a la relación laboral de carácter especial de alta dirección.",
     "fuente": "Art. 13.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1513,11 +6323,11 @@ const QUESTIONS = {
   {
     "q": "Comparando los arts. 10.3 y 12.3 del TREBEP, ¿qué diferencia existe respecto a la formalización del cese?",
     "options": [
-      "Ambos cesan siempre de forma libre y sin causa",
       "El interino cesa por causas tasadas de oficio, mientras que el eventual cesa libremente",
+      "Ambos cesan siempre de forma libre y sin causa",
       "Ambos requieren resolución motivada con audiencia previa"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 10.3 enumera causas tasadas para la finalización de oficio de la interinidad, mientras que el art. 12.3 declara libre el cese del personal eventual.",
     "fuente": "Arts. 10.3 y 12.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1526,10 +6336,10 @@ const QUESTIONS = {
     "q": "Comparando los arts. 10.5 y 12.5 del TREBEP, ambos preceptos aplican de forma supletoria, en lo adecuado a la naturaleza de la condición respectiva, el régimen general de:",
     "options": [
       "El personal laboral fijo",
-      "El personal directivo profesional",
-      "Los funcionarios de carrera"
+      "Los funcionarios de carrera",
+      "El personal directivo profesional"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "Tanto el art. 10.5 (interinos) como el art. 12.5 (eventuales) remiten, en lo adecuado, al régimen general del personal funcionario de carrera.",
     "fuente": "Arts. 10.5 y 12.5 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -1537,11 +6347,11 @@ const QUESTIONS = {
   {
     "q": "Comparando el art. 10.2 y el art. 11.3 del TREBEP, ¿qué principio de selección es exigido para los interinos y también, de forma añadida, para el personal laboral temporal?",
     "options": [
-      "El principio de celeridad",
       "El principio de jerarquía",
-      "El principio de rotación"
+      "El principio de rotación",
+      "El principio de celeridad"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 10.2 incluye la celeridad entre los principios de selección de los interinos, y el art. 11.3 lo añade específicamente para el personal laboral temporal.",
     "fuente": "Arts. 10.2 y 11.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -2041,11 +6851,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 90.1 de la LBRL, las plantillas de las Corporaciones locales deberán responder a los principios de:",
     "options": [
-      "Racionalidad, economía y eficiencia, y establecerse de acuerdo con la ordenación general de la economía.",
       "Eficacia, jerarquía, descentralización y coordinación, con sujeción plena a la ley y al Derecho.",
-      "Objetividad, imparcialidad e independencia en el ejercicio de la función pública."
+      "Objetividad, imparcialidad e independencia en el ejercicio de la función pública.",
+      "Racionalidad, economía y eficiencia, y establecerse de acuerdo con la ordenación general de la economía."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 90.1, párrafo segundo, LBRL dispone que las plantillas deberán responder a los principios de racionalidad, economía y eficiencia y establecerse de acuerdo con la ordenación general de la economía, sin que los gastos de personal puedan rebasar los límites que se fijen con carácter general.",
     "fuente": "Art. 90.1 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2053,11 +6863,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al artículo 90.2 de la LBRL, establecer las normas con arreglo a las cuales hayan de confeccionarse las relaciones de puestos de trabajo, la descripción de puestos de trabajo tipo y las condiciones requeridas para su creación corresponde:",
     "options": [
-      "A cada Corporación local, en el ejercicio de su potestad de autoorganización.",
       "Al Estado.",
+      "A cada Corporación local, en el ejercicio de su potestad de autoorganización.",
       "A las Comunidades Autónomas, salvo en las ciudades con estatuto de autonomía."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 90.2, párrafo segundo, LBRL atribuye al Estado establecer las normas con arreglo a las cuales hayan de confeccionarse las relaciones de puestos de trabajo, la descripción de puestos de trabajo tipo y las condiciones requeridas para su creación.",
     "fuente": "Art. 90.2 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2066,10 +6876,10 @@ const QUESTIONS = {
     "q": "Según el artículo 90.2 de la LBRL, ¿a quién corresponde establecer las normas básicas de la carrera administrativa, especialmente por lo que se refiere a la promoción de los funcionarios a niveles y grupos superiores?",
     "options": [
       "A la Comunidad Autónoma en cuyo territorio radique la entidad local.",
-      "A cada entidad local mediante su reglamento orgánico.",
-      "Al Estado."
+      "Al Estado.",
+      "A cada entidad local mediante su reglamento orgánico."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 90.2, párrafo segundo, LBRL reserva al Estado, junto a las normas sobre relaciones de puestos de trabajo, el establecimiento de las normas básicas de la carrera administrativa, especialmente por lo que se refiere a la promoción de los funcionarios a niveles y grupos superiores.",
     "fuente": "Art. 90.2 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2077,11 +6887,11 @@ const QUESTIONS = {
   {
     "q": "El artículo 90.3 de la LBRL establece que las Corporaciones locales constituirán Registros de personal:",
     "options": [
-      "Coordinados con los de las demás Administraciones públicas, según las normas aprobadas por el Gobierno.",
       "Integrados en el Registro Central de Personal de la Administración General del Estado, según las normas que apruebe cada Comunidad Autónoma.",
-      "De carácter estrictamente interno, sin necesidad de coordinación con otras Administraciones públicas."
+      "De carácter estrictamente interno, sin necesidad de coordinación con otras Administraciones públicas.",
+      "Coordinados con los de las demás Administraciones públicas, según las normas aprobadas por el Gobierno."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 90.3 LBRL dispone que las Corporaciones locales constituirán Registros de personal, coordinados con los de las demás Administraciones públicas, según las normas aprobadas por el Gobierno.",
     "fuente": "Art. 90.3 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2089,11 +6899,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al artículo 90.3 de la LBRL, los datos inscritos en el Registro de personal de la Corporación local:",
     "options": [
-      "Tienen valor meramente estadístico y no producen efectos económicos.",
       "Determinarán las nóminas, a efectos de la debida justificación de todas las retribuciones.",
+      "Tienen valor meramente estadístico y no producen efectos económicos.",
       "Sirven exclusivamente para la elaboración de la oferta de empleo público del ejercicio siguiente."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "Según el art. 90.3 LBRL, los datos inscritos en el Registro de personal determinarán las nóminas, a efectos de la debida justificación de todas las retribuciones.",
     "fuente": "Art. 90.3 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2101,11 +6911,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 92.1 de la LBRL, los funcionarios al servicio de la Administración local se rigen, en lo no dispuesto en dicha Ley, por:",
     "options": [
-      "La Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, la restante legislación del Estado en materia de función pública y la legislación de las Comunidades Autónomas.",
       "Exclusivamente por la legislación de la Comunidad Autónoma en que se integre la entidad local.",
+      "La Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, la restante legislación del Estado en materia de función pública y la legislación de las Comunidades Autónomas.",
       "El texto refundido de las disposiciones legales vigentes en materia de Régimen Local y, subsidiariamente, por el Estatuto de los Trabajadores."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 92.1 LBRL remite, en lo no dispuesto en la propia Ley, a la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, a la restante legislación del Estado en materia de función pública y a la legislación de las Comunidades Autónomas, en los términos del art. 149.1.18.ª de la Constitución.",
     "fuente": "Art. 92.1 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2125,11 +6935,11 @@ const QUESTIONS = {
   {
     "q": "De acuerdo con el artículo 92.2 de la LBRL, los puestos de trabajo en la Administración local y sus Organismos Autónomos:",
     "options": [
-      "Serán desempeñados indistintamente por personal funcionario o laboral, según decida la relación de puestos de trabajo.",
       "Con carácter general, serán desempeñados por personal funcionario.",
+      "Serán desempeñados indistintamente por personal funcionario o laboral, según decida la relación de puestos de trabajo.",
       "Serán desempeñados por personal laboral, salvo los que impliquen ejercicio de autoridad."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 92.2 LBRL establece que, con carácter general, los puestos de trabajo en la Administración local y sus Organismos Autónomos serán desempeñados por personal funcionario.",
     "fuente": "Art. 92.2 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2138,10 +6948,10 @@ const QUESTIONS = {
     "q": "Según el artículo 92 bis.1 de la LBRL, las funciones públicas cuya responsabilidad administrativa está reservada a funcionarios de administración local con habilitación de carácter nacional son funciones necesarias:",
     "options": [
       "Solo en los municipios de más de 5.000 habitantes y en las Diputaciones Provinciales.",
-      "En los municipios de gran población y en las entidades locales supramunicipales.",
-      "En todas las Corporaciones locales."
+      "En todas las Corporaciones locales.",
+      "En los municipios de gran población y en las entidades locales supramunicipales."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 92 bis.1 LBRL califica esas funciones como «funciones públicas necesarias en todas las Corporaciones locales», cuya responsabilidad administrativa está reservada a funcionarios de administración local con habilitación de carácter nacional.",
     "fuente": "Art. 92 bis.1 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2149,11 +6959,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al artículo 92 bis.1.b) de la LBRL, es función pública necesaria reservada a funcionarios de administración local con habilitación de carácter nacional:",
     "options": [
-      "El control y la fiscalización interna de la gestión económico-financiera y presupuestaria, y la contabilidad, tesorería y recaudación.",
       "La fe pública y el asesoramiento legal preceptivo, así como la contabilidad.",
-      "La gestión del padrón municipal de habitantes y la inspección tributaria local."
+      "La gestión del padrón municipal de habitantes y la inspección tributaria local.",
+      "El control y la fiscalización interna de la gestión económico-financiera y presupuestaria, y la contabilidad, tesorería y recaudación."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 92 bis.1.b) LBRL reserva el control y la fiscalización interna de la gestión económico-financiera y presupuestaria, y la contabilidad, tesorería y recaudación. La fe pública y el asesoramiento legal preceptivo integran la función de Secretaría del apartado 1.a).",
     "fuente": "Art. 92 bis.1.b) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2161,11 +6971,11 @@ const QUESTIONS = {
   {
     "q": "Respecto de las funciones públicas necesarias del artículo 92 bis.1 de la LBRL, en los municipios de gran población:",
     "options": [
-      "Quedan excluidas de la reserva a funcionarios con habilitación de carácter nacional.",
       "Se tendrá en cuenta lo dispuesto en el Título X de la propia LBRL.",
+      "Quedan excluidas de la reserva a funcionarios con habilitación de carácter nacional.",
       "Se aplicará únicamente la legislación autonómica de régimen local."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El párrafo final del art. 92 bis.1 LBRL precisa que en los municipios de gran población se tendrá en cuenta lo dispuesto en el Título X de la LBRL.",
     "fuente": "Art. 92 bis.1 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2174,10 +6984,10 @@ const QUESTIONS = {
     "q": "El párrafo final del artículo 92 bis.1 de la LBRL se remite, para los municipios de Madrid y de Barcelona, a la regulación contenida en:",
     "options": [
       "La Ley 1/2006, de 13 de marzo, para Madrid, y la Ley 22/2006, de 4 de julio, para Barcelona.",
-      "Los respectivos Estatutos de Autonomía de la Comunidad de Madrid y de Cataluña.",
-      "La Ley 22/2006, de 4 de julio, de Capitalidad y de Régimen Especial de Madrid, y la Ley 1/2006, de 13 de marzo, por la que se regula el Régimen Especial del municipio de Barcelona."
+      "La Ley 22/2006, de 4 de julio, de Capitalidad y de Régimen Especial de Madrid, y la Ley 1/2006, de 13 de marzo, por la que se regula el Régimen Especial del municipio de Barcelona.",
+      "Los respectivos Estatutos de Autonomía de la Comunidad de Madrid y de Cataluña."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 92 bis.1, párrafo final, LBRL remite a la Ley 22/2006, de 4 de julio, de Capitalidad y de Régimen Especial de Madrid, y a la Ley 1/2006, de 13 de marzo, por la que se regula el Régimen Especial del municipio de Barcelona.",
     "fuente": "Art. 92 bis.1 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2185,11 +6995,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 92 bis.3 de la LBRL, los funcionarios de las subescalas de Secretaría e Intervención-tesorería estarán integrados en una de estas categorías:",
     "options": [
-      "Entrada o superior.",
       "Primera, segunda o tercera.",
-      "Básica, media o superior."
+      "Básica, media o superior.",
+      "Entrada o superior."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 92 bis.3 LBRL dispone que los funcionarios de las subescalas de Secretaría e Intervención-tesorería estarán integrados en una de estas dos categorías: entrada o superior.",
     "fuente": "Art. 92 bis.3 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2341,11 +7151,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 92 bis.8 de la LBRL, para poder participar en los concursos de provisión de puestos de trabajo o ser nombrados con carácter provisional en otro puesto, estos funcionarios deberán permanecer en cada puesto obtenido por concurso un mínimo de:",
     "options": [
-      "Un año.",
       "Dos años.",
+      "Un año.",
       "Tres años."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 92 bis.8 LBRL exige una permanencia mínima de dos años en cada puesto de trabajo obtenido por concurso.",
     "fuente": "Art. 92 bis.8 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2354,10 +7164,10 @@ const QUESTIONS = {
     "q": "La exigencia de permanencia mínima del artículo 92 bis.8 de la LBRL no se aplica:",
     "options": [
       "Cuando el funcionario pertenezca a la categoría superior de su subescala.",
-      "Cuando el puesto de destino esté clasificado en clase primera.",
-      "En el ámbito de una misma Entidad Local."
+      "En el ámbito de una misma Entidad Local.",
+      "Cuando el puesto de destino esté clasificado en clase primera."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 92 bis.8 LBRL exceptúa expresamente de la permanencia mínima de dos años los movimientos «en el ámbito de una misma Entidad Local».",
     "fuente": "Art. 92 bis.8 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2365,11 +7175,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al artículo 92 bis.8 de la LBRL, antes de transcurrir el plazo de permanencia mínima podrán efectuarse excepcionalmente nombramientos con carácter provisional:",
     "options": [
-      "Por el Ministerio de Hacienda y Administraciones Públicas, cuando existan razones y circunstancias que requieran la cobertura urgente del puesto.",
       "Por la Comunidad Autónoma, cuando lo solicite motivadamente la Corporación local.",
-      "Por el Presidente de la Corporación local, dando cuenta al Pleno."
+      "Por el Presidente de la Corporación local, dando cuenta al Pleno.",
+      "Por el Ministerio de Hacienda y Administraciones Públicas, cuando existan razones y circunstancias que requieran la cobertura urgente del puesto."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 92 bis.8, párrafo segundo, LBRL permite excepcionalmente nombramientos provisionales por el Ministerio de Hacienda y Administraciones Públicas, siempre que existan razones y circunstancias que requieran la cobertura del puesto con carácter urgente y la imposibilidad de efectuar un nombramiento provisional conforme al párrafo anterior.",
     "fuente": "Art. 92 bis.8 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2377,11 +7187,11 @@ const QUESTIONS = {
   {
     "q": "El Registro de funcionarios de administración local con habilitación de carácter nacional previsto en el artículo 92 bis.9 de la LBRL existirá en:",
     "options": [
+      "El Ministerio de Hacienda y Administraciones Públicas, integrado con las Comunidades Autónomas.",
       "La Federación Española de Municipios y Provincias.",
-      "Cada Comunidad Autónoma, coordinado con el estatal.",
-      "El Ministerio de Hacienda y Administraciones Públicas, integrado con las Comunidades Autónomas."
+      "Cada Comunidad Autónoma, coordinado con el estatal."
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 92 bis.9 LBRL dispone que en el Ministerio de Hacienda y Administraciones Públicas existirá un Registro de funcionarios de administración local con habilitación de carácter nacional integrado con las Comunidades Autónomas.",
     "fuente": "Art. 92 bis.9 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2389,11 +7199,11 @@ const QUESTIONS = {
   {
     "q": "En el Registro del artículo 92 bis.9 de la LBRL se inscribirán y anotarán:",
     "options": [
-      "Todos los actos que afecten a la vida administrativa de estos funcionarios.",
       "Únicamente los nombramientos definitivos obtenidos por concurso y las jubilaciones.",
+      "Todos los actos que afecten a la vida administrativa de estos funcionarios.",
       "Exclusivamente las sanciones disciplinarias por faltas graves y muy graves."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "Conforme al art. 92 bis.9 LBRL, en dicho Registro se inscribirán y anotarán todos los actos que afecten a la vida administrativa de estos funcionarios.",
     "fuente": "Art. 92 bis.9 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2402,10 +7212,10 @@ const QUESTIONS = {
     "q": "Según el artículo 92 bis.10 de la LBRL, cuando los hechos imputados a un funcionario con habilitación de carácter nacional pudieran ser constitutivos de falta leve, la incoación del expediente disciplinario corresponde:",
     "options": [
       "Al Ministerio de Hacienda y Administraciones Públicas.",
-      "Al órgano correspondiente de la Corporación donde el funcionario hubiera cometido los hechos que se le imputan.",
-      "A la Comunidad Autónoma en cuyo ámbito territorial radique la Corporación."
+      "A la Comunidad Autónoma en cuyo ámbito territorial radique la Corporación.",
+      "Al órgano correspondiente de la Corporación donde el funcionario hubiera cometido los hechos que se le imputan."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 92 bis.10.a) LBRL atribuye la incoación al órgano correspondiente de la Corporación donde el funcionario hubiera cometido los hechos que se le imputan, cuando pudieran ser constitutivos de falta leve.",
     "fuente": "Art. 92 bis.10.a) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2413,11 +7223,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al artículo 92 bis.10 de la LBRL, la incoación de expedientes disciplinarios por hechos que pudieran ser constitutivos de faltas muy graves tipificadas en la normativa básica estatal corresponde:",
     "options": [
+      "Al Ministerio de Hacienda y Administraciones Públicas.",
       "A la Comunidad Autónoma respectiva.",
-      "Al órgano local competente de la Corporación afectada.",
-      "Al Ministerio de Hacienda y Administraciones Públicas."
+      "Al órgano local competente de la Corporación afectada."
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 92 bis.10.c) LBRL reserva al Ministerio de Hacienda y Administraciones Públicas la incoación cuando los hechos denunciados pudieran ser constitutivos de faltas muy graves tipificadas en la normativa básica estatal; la Comunidad Autónoma incoa respecto de los funcionarios de su ámbito territorial salvo en ese supuesto.",
     "fuente": "Art. 92 bis.10.c) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2425,11 +7235,11 @@ const QUESTIONS = {
   {
     "q": "De acuerdo con el artículo 92 bis.10 de la LBRL, el órgano competente para acordar la incoación del expediente disciplinario lo será también para:",
     "options": [
-      "Nombrar instructor, decretar o alzar la suspensión provisional del expedientado e instruir diligencias previas antes de decidir sobre la incoación.",
       "Imponer, en todo caso, la sanción que resulte procedente al término del expediente.",
+      "Nombrar instructor, decretar o alzar la suspensión provisional del expedientado e instruir diligencias previas antes de decidir sobre la incoación.",
       "Resolver los recursos administrativos que se interpongan contra la resolución sancionadora."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 92 bis.10 LBRL precisa que el órgano competente para acordar la incoación lo será también para nombrar instructor y decretar o alzar la suspensión provisional del expedientado, así como para instruir diligencias previas antes de decidir sobre tal incoación.",
     "fuente": "Art. 92 bis.10 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2438,10 +7248,10 @@ const QUESTIONS = {
     "q": "Según el artículo 92 bis.10 de la LBRL, la instrucción del expediente disciplinario se efectuará por:",
     "options": [
       "Un funcionario con habilitación de carácter nacional de categoría superior, en todo caso.",
-      "Un funcionario de carrera de cualquiera de los Cuerpos o Escalas del Subgrupo A1 de titulación, incluida la Escala de Funcionarios con Habilitación de carácter nacional, que cuente con conocimientos en la materia a la que se refiera la infracción.",
-      "Un funcionario de carrera perteneciente a los Subgrupos A1 o A2, designado por sorteo entre los de la propia Corporación."
+      "Un funcionario de carrera perteneciente a los Subgrupos A1 o A2, designado por sorteo entre los de la propia Corporación.",
+      "Un funcionario de carrera de cualquiera de los Cuerpos o Escalas del Subgrupo A1 de titulación, incluida la Escala de Funcionarios con Habilitación de carácter nacional, que cuente con conocimientos en la materia a la que se refiera la infracción."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 92 bis.10, último párrafo, LBRL exige que la instrucción se efectúe por un funcionario de carrera de cualquiera de los Cuerpos o Escalas del Subgrupo A1 de titulación, incluida la Escala de Funcionarios con Habilitación de carácter nacional, que cuente con conocimientos en la materia a la que se refiera la infracción.",
     "fuente": "Art. 92 bis.10 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2449,11 +7259,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al artículo 92 bis.11 de la LBRL, la imposición de sanciones disciplinarias por falta muy grave tipificada en la normativa básica estatal corresponde:",
     "options": [
+      "Al Ministro de Hacienda y Administraciones Públicas.",
       "Al Pleno de la Corporación local afectada.",
-      "A la Comunidad Autónoma respectiva.",
-      "Al Ministro de Hacienda y Administraciones Públicas."
+      "A la Comunidad Autónoma respectiva."
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 92 bis.11.a) LBRL atribuye al Ministro de Hacienda y Administraciones Públicas la imposición de la sanción cuando esta recaiga por falta muy grave tipificada en la normativa básica estatal.",
     "fuente": "Art. 92 bis.11.a) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2461,11 +7271,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 92 bis.11 de la LBRL, ¿a quién corresponde imponer las sanciones de suspensión de funciones y destitución no comprendidas entre las derivadas de faltas muy graves tipificadas en la normativa básica estatal?",
     "options": [
-      "A la Comunidad Autónoma.",
       "Al órgano local competente.",
+      "A la Comunidad Autónoma.",
       "Al Ministro de Hacienda y Administraciones Públicas."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 92 bis.11.b) LBRL atribuye a la Comunidad Autónoma la imposición de las sanciones de suspensión de funciones y destitución no comprendidas en la letra a) del mismo apartado.",
     "fuente": "Art. 92 bis.11.b) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2474,10 +7284,10 @@ const QUESTIONS = {
     "q": "De acuerdo con el artículo 92 bis.11 de la LBRL, la imposición de sanciones por faltas leves a los funcionarios de administración local con habilitación de carácter nacional corresponde:",
     "options": [
       "A la Comunidad Autónoma respectiva.",
-      "Al órgano local competente.",
-      "Al órgano del Ministerio de Hacienda y Administraciones Públicas que haya incoado el expediente."
+      "Al órgano del Ministerio de Hacienda y Administraciones Públicas que haya incoado el expediente.",
+      "Al órgano local competente."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 92 bis.11.c) LBRL atribuye al órgano local competente la imposición de sanciones cuando se trate de faltas leves.",
     "fuente": "Art. 92 bis.11.c) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2485,11 +7295,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 92 bis.11 de la LBRL, si en el momento de la ejecución el funcionario sancionado se encontrara ocupando un puesto distinto de aquel en el que se produjeron los hechos:",
     "options": [
+      "La sanción impuesta se ejecutará en sus propios términos.",
       "La sanción quedará sin efecto y deberá reiniciarse el expediente en la nueva Corporación.",
-      "La ejecución quedará en suspenso hasta que el funcionario regrese a la Corporación de origen.",
-      "La sanción impuesta se ejecutará en sus propios términos."
+      "La ejecución quedará en suspenso hasta que el funcionario regrese a la Corporación de origen."
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 92 bis.11 LBRL establece que la sanción impuesta se ejecutará en sus propios términos, aun cuando en el momento de la ejecución el funcionario se encontrara ocupando un puesto distinto a aquel en el que se produjeron los hechos que dieron lugar a la sanción.",
     "fuente": "Art. 92 bis.11 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2497,11 +7307,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al artículo 92 bis.11 de la LBRL, la sanción de destitución implicará la pérdida del puesto de trabajo con la prohibición de obtener destino en la misma Corporación en la que tuvo lugar la sanción, en el plazo que se fije, con un máximo de:",
     "options": [
-      "Seis años para las faltas muy graves y tres años para las faltas graves.",
       "Tres años para las faltas muy graves y un año para las faltas graves.",
+      "Seis años para las faltas muy graves y tres años para las faltas graves.",
       "Diez años para las faltas muy graves y cinco años para las faltas graves."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 92 bis.11 LBRL fija para la destitución la prohibición de obtener destino en la misma Corporación, con el máximo de seis años para las faltas muy graves y de tres años para las faltas graves.",
     "fuente": "Art. 92 bis.11 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2510,10 +7320,10 @@ const QUESTIONS = {
     "q": "Según el artículo 92 bis.11 de la LBRL, la sanción de suspensión de funciones tendrá una duración máxima de:",
     "options": [
       "Tres años para las faltas muy graves y un año para las faltas graves.",
-      "Seis años para las faltas muy graves y tres años para las faltas graves.",
-      "Cinco años para las faltas muy graves y dos años para las faltas graves."
+      "Cinco años para las faltas muy graves y dos años para las faltas graves.",
+      "Seis años para las faltas muy graves y tres años para las faltas graves."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 92 bis.11, último párrafo, LBRL dispone que la sanción de suspensión de funciones tendrá una duración máxima de seis años para las faltas muy graves y de tres años para las faltas graves.",
     "fuente": "Art. 92 bis.11 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2521,11 +7331,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 93.1 de la LBRL, las retribuciones básicas de los funcionarios locales tendrán:",
     "options": [
-      "La estructura general de la función pública, pero con cuantía fijada libremente por cada Corporación",
       "La misma estructura e idéntica cuantía que las establecidas con carácter general para toda la función pública",
+      "La estructura general de la función pública, pero con cuantía fijada libremente por cada Corporación",
       "Estructura y cuantía determinadas por la Comunidad Autónoma correspondiente"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 93.1 LBRL dispone literalmente que las retribuciones básicas de los funcionarios locales tendrán la misma estructura e idéntica cuantía que las establecidas con carácter general para toda la función pública.",
     "fuente": "Art. 93.1 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2533,11 +7343,11 @@ const QUESTIONS = {
   {
     "q": "La cuantía global de las retribuciones complementarias de los funcionarios locales será fijada, conforme al artículo 93.2 de la LBRL, por:",
     "options": [
-      "El Pleno de la Corporación, dentro de los límites máximos y mínimos que se señalen por el Estado",
       "El Alcalde o Presidente de la Corporación, dentro de los límites fijados por la Comunidad Autónoma",
+      "El Pleno de la Corporación, dentro de los límites máximos y mínimos que se señalen por el Estado",
       "El Estado, directamente en la Ley de Presupuestos Generales del Estado"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 93.2 LBRL atribuye al Pleno de la Corporación la fijación de la cuantía global de las retribuciones complementarias, pero dentro de los límites máximos y mínimos que señale el Estado.",
     "fuente": "Art. 93.2 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2569,11 +7379,11 @@ const QUESTIONS = {
   {
     "q": "La jornada de trabajo de los funcionarios de la Administración local será, en cómputo anual:",
     "options": [
-      "La misma que se fije para los funcionarios de la Administración Civil del Estado",
       "La que fije el Pleno de cada Corporación, sin sujeción a referencia externa alguna",
+      "La misma que se fije para los funcionarios de la Administración Civil del Estado",
       "La misma que se fije para el personal al servicio de las Comunidades Autónomas"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 94 LBRL establece que la jornada de trabajo de los funcionarios de la Administración local será en cómputo anual la misma que se fije para los funcionarios de la Administración Civil del Estado.",
     "fuente": "Art. 94 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2593,11 +7403,11 @@ const QUESTIONS = {
   {
     "q": "La participación de los funcionarios locales, a través de sus organizaciones sindicales, en la determinación de sus condiciones de empleo será, según el artículo 95 de la LBRL:",
     "options": [
+      "La establecida con carácter general para todas las Administraciones públicas en el Estatuto básico de la función pública",
       "La prevista en la legislación autonómica de función pública de cada Comunidad Autónoma",
-      "La que acuerde cada Corporación local mediante su reglamento orgánico",
-      "La establecida con carácter general para todas las Administraciones públicas en el Estatuto básico de la función pública"
+      "La que acuerde cada Corporación local mediante su reglamento orgánico"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 95 LBRL remite a la regulación establecida con carácter general para todas las Administraciones públicas en el Estatuto básico de la función pública.",
     "fuente": "Art. 95 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2605,11 +7415,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 96 de la LBRL, el Instituto de Estudios de Administración Local desarrollará, para los funcionarios al servicio de las entidades locales, cursos de:",
     "options": [
-      "Perfeccionamiento, especialización y promoción",
       "Ingreso, habilitación y provisión de puestos",
+      "Perfeccionamiento, especialización y promoción",
       "Formación inicial y prácticas selectivas"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 96 LBRL encomienda al Instituto de Estudios de Administración Local el desarrollo de cursos de perfeccionamiento, especialización y promoción para los funcionarios al servicio de las entidades locales.",
     "fuente": "Art. 96 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2617,11 +7427,11 @@ const QUESTIONS = {
   {
     "q": "En el desarrollo de los cursos previstos en el artículo 96 de la LBRL, el Instituto de Estudios de Administración Local colaborará con:",
     "options": [
-      "Los Institutos o Escuelas de funcionarios de las Comunidades Autónomas y con las instituciones de este tipo que acuerden constituir las propias Corporaciones",
       "Únicamente con el Instituto Nacional de Administración Pública",
-      "Exclusivamente con las Diputaciones provinciales y los Cabildos insulares"
+      "Exclusivamente con las Diputaciones provinciales y los Cabildos insulares",
+      "Los Institutos o Escuelas de funcionarios de las Comunidades Autónomas y con las instituciones de este tipo que acuerden constituir las propias Corporaciones"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 96 LBRL prevé la colaboración con los Institutos o Escuelas de funcionarios de las Comunidades Autónomas, así como con las instituciones de este tipo que acuerden constituir las propias Corporaciones.",
     "fuente": "Art. 96 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2629,11 +7439,11 @@ const QUESTIONS = {
   {
     "q": "Los anuncios de convocatorias de pruebas de acceso a la función pública local y de concursos para la provisión de puestos de trabajo deberán publicarse, según el artículo 97 de la LBRL, en:",
     "options": [
-      "El Boletín Oficial de la Provincia",
       "El Boletín Oficial del Estado",
+      "El Boletín Oficial de la Provincia",
       "El boletín oficial de la Comunidad Autónoma"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El primer párrafo del art. 97 LBRL exige la publicación de los anuncios de estas convocatorias en el Boletín Oficial del Estado.",
     "fuente": "Art. 97 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2653,11 +7463,11 @@ const QUESTIONS = {
   {
     "q": "Las bases relativas a las convocatorias de pruebas selectivas para la obtención de la habilitación de carácter nacional se publicarán, como excepción a la regla general del artículo 97 de la LBRL, en:",
     "options": [
-      "El Boletín Oficial del Estado",
       "El boletín oficial de la Comunidad Autónoma",
-      "El Boletín Oficial de la Provincia y en el propio de la Corporación"
+      "El Boletín Oficial de la Provincia y en el propio de la Corporación",
+      "El Boletín Oficial del Estado"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 97 LBRL exceptúa de la publicación en el Boletín Oficial de la Provincia las bases de las convocatorias de pruebas selectivas para la obtención de la habilitación de carácter nacional, que se publican en el Boletín Oficial del Estado.",
     "fuente": "Art. 97 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2665,11 +7475,11 @@ const QUESTIONS = {
   {
     "q": "Las Corporaciones locales aprobarán anualmente la masa salarial del personal laboral del sector público local respetando los límites y las condiciones que se establezcan con carácter básico en:",
     "options": [
-      "El convenio colectivo de ámbito estatal aplicable al sector público",
       "La correspondiente Ley de Presupuestos Generales del Estado",
+      "El convenio colectivo de ámbito estatal aplicable al sector público",
       "La ley de presupuestos de la Comunidad Autónoma respectiva"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 103 bis.1 LBRL remite a los límites y condiciones que se establezcan con carácter básico en la correspondiente Ley de Presupuestos Generales del Estado.",
     "fuente": "Art. 103 bis.1 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2677,11 +7487,11 @@ const QUESTIONS = {
   {
     "q": "La aprobación de la masa salarial del artículo 103 bis de la LBRL comprende, además de la referente a la propia Entidad Local:",
     "options": [
-      "La de organismos, entidades públicas empresariales y demás entes públicos y sociedades mercantiles locales dependientes, así como la de los consorcios adscritos a la misma y la de determinadas fundaciones",
       "Únicamente la de los organismos autónomos de ella dependientes",
+      "La de organismos, entidades públicas empresariales y demás entes públicos y sociedades mercantiles locales dependientes, así como la de los consorcios adscritos a la misma y la de determinadas fundaciones",
       "Solo la de las sociedades mercantiles locales de capital íntegramente público"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 103 bis.2 LBRL extiende la aprobación a los organismos, entidades públicas empresariales y demás entes públicos y sociedades mercantiles locales dependientes, a los consorcios adscritos a la entidad y a las fundaciones en que concurra alguna de las circunstancias de sus letras a) y b).",
     "fuente": "Art. 103 bis.2 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2690,10 +7500,10 @@ const QUESTIONS = {
     "q": "Entre las fundaciones cuya masa salarial se incluye en la aprobación del artículo 103 bis de la LBRL están, conforme a su letra a), las que se constituyan con:",
     "options": [
       "Una aportación directa de la entidad local no inferior al 25 por 100",
-      "Una aportación mayoritaria, directa o indirecta, de las entidades citadas en ese apartado",
-      "Cualquier aportación, aunque sea minoritaria, de la entidad local"
+      "Cualquier aportación, aunque sea minoritaria, de la entidad local",
+      "Una aportación mayoritaria, directa o indirecta, de las entidades citadas en ese apartado"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 103 bis.2.a) LBRL se refiere a las fundaciones constituidas con una aportación mayoritaria, directa o indirecta, de las entidades citadas en dicho apartado.",
     "fuente": "Art. 103 bis.2.a) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2701,11 +7511,11 @@ const QUESTIONS = {
   {
     "q": "El artículo 103 bis.2.b) de la LBRL incluye también las fundaciones cuyo patrimonio fundacional, con carácter de permanencia, esté formado por bienes o derechos aportados o cedidos por las referidas entidades en más de un:",
     "options": [
-      "25 por 100",
       "50 por 100",
+      "25 por 100",
       "75 por 100"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 103 bis.2.b) LBRL fija el umbral en más de un 50 por 100 del patrimonio fundacional, con carácter de permanencia.",
     "fuente": "Art. 103 bis.2.b) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2714,10 +7524,10 @@ const QUESTIONS = {
     "q": "Los nombramientos de funcionarios de empleo, el régimen de sus retribuciones y su dedicación se publicarán, según el artículo 104.3 de la LBRL, en:",
     "options": [
       "El Boletín Oficial del Estado y en el de la Comunidad Autónoma",
-      "Únicamente en la sede electrónica de la Corporación",
-      "El «Boletín Oficial» de la Provincia y, en su caso, en el propio de la Corporación"
+      "El «Boletín Oficial» de la Provincia y, en su caso, en el propio de la Corporación",
+      "Únicamente en la sede electrónica de la Corporación"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 104.3 LBRL ordena la publicación de los nombramientos de funcionarios de empleo, del régimen de sus retribuciones y de su dedicación en el «Boletín Oficial» de la Provincia y, en su caso, en el propio de la Corporación.",
     "fuente": "Art. 104.3 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2726,10 +7536,10 @@ const QUESTIONS = {
     "q": "Los Municipios de población entre 2.000 y 5.000 habitantes podrán, según el artículo 104 bis.1.a) de la LBRL:",
     "options": [
       "Contar con un puesto de personal eventual por cada tres concejales, sin condición alguna",
-      "Contar excepcionalmente con un puesto de trabajo cuya cobertura corresponda a personal eventual cuando no haya miembros de la corporación local con dedicación exclusiva",
-      "Contar en todo caso con dos puestos de trabajo cuya cobertura corresponda a personal eventual"
+      "Contar en todo caso con dos puestos de trabajo cuya cobertura corresponda a personal eventual",
+      "Contar excepcionalmente con un puesto de trabajo cuya cobertura corresponda a personal eventual cuando no haya miembros de la corporación local con dedicación exclusiva"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 104 bis.1.a) LBRL permite a los Municipios de 2.000 a 5.000 habitantes contar excepcionalmente con un puesto de personal eventual, y solo cuando no haya miembros de la corporación local con dedicación exclusiva.",
     "fuente": "Art. 104 bis.1.a) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2750,10 +7560,10 @@ const QUESTIONS = {
     "q": "En los Ayuntamientos de Municipios con población superior a 5.000 y no superior a 10.000 habitantes, los puestos de trabajo de personal eventual no podrán exceder de:",
     "options": [
       "Tres",
-      "Dos",
-      "Uno"
+      "Uno",
+      "Dos"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 104 bis.1.b) LBRL fija para el tramo de más de 5.000 y hasta 10.000 habitantes un número que no podrá exceder de uno.",
     "fuente": "Art. 104 bis.1.b) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2762,10 +7572,10 @@ const QUESTIONS = {
     "q": "En los Ayuntamientos de Municipios con población superior a 10.000 y no superior a 20.000 habitantes, los puestos de trabajo de personal eventual no podrán exceder de:",
     "options": [
       "Siete",
-      "Dos",
-      "Cuatro"
+      "Cuatro",
+      "Dos"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 104 bis.1.c) LBRL fija para el tramo de más de 10.000 y hasta 20.000 habitantes un número que no podrá exceder de dos.",
     "fuente": "Art. 104 bis.1.c) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2773,11 +7583,11 @@ const QUESTIONS = {
   {
     "q": "En los Ayuntamientos de Municipios con población superior a 20.000 y no superior a 50.000 habitantes, los puestos de trabajo de personal eventual no podrán exceder de:",
     "options": [
+      "Siete",
       "Diez",
-      "Cinco",
-      "Siete"
+      "Cinco"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 104 bis.1.d) LBRL fija para el tramo de más de 20.000 y hasta 50.000 habitantes un número que no podrá exceder de siete.",
     "fuente": "Art. 104 bis.1.d) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2785,11 +7595,11 @@ const QUESTIONS = {
   {
     "q": "En los Ayuntamientos de Municipios con población superior a 50.000 y no superior a 75.000 habitantes, los puestos de trabajo de personal eventual no podrán exceder de:",
     "options": [
-      "La mitad de concejales de la Corporación local",
       "El número de concejales de la Corporación local",
+      "La mitad de concejales de la Corporación local",
       "Un tercio del número de concejales de la Corporación local"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 104 bis.1.e) LBRL fija para el tramo de más de 50.000 y hasta 75.000 habitantes el límite de la mitad de concejales de la Corporación local.",
     "fuente": "Art. 104 bis.1.e) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2821,11 +7631,11 @@ const QUESTIONS = {
   {
     "q": "¿A qué tramo de población corresponde, en el artículo 104 bis.1 de la LBRL, el límite máximo de siete puestos de trabajo de personal eventual?",
     "options": [
-      "Superior a 20.000 y no superior a 50.000 habitantes",
       "Superior a 10.000 y no superior a 20.000 habitantes",
+      "Superior a 20.000 y no superior a 50.000 habitantes",
       "Superior a 50.000 y no superior a 75.000 habitantes"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El máximo de siete puestos es el de la letra d) del art. 104 bis.1 LBRL, correspondiente al tramo de más de 20.000 y hasta 50.000 habitantes.",
     "fuente": "Art. 104 bis.1.d) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2834,10 +7644,10 @@ const QUESTIONS = {
     "q": "El límite de personal eventual igual al «número de concejales de la Corporación local» se aplica a los Ayuntamientos de Municipios con población:",
     "options": [
       "Superior a 50.000 y no superior a 75.000 habitantes",
-      "Superior a 75.000 y no superior a 500.000 habitantes",
-      "Superior a 500.000 habitantes"
+      "Superior a 500.000 habitantes",
+      "Superior a 75.000 y no superior a 500.000 habitantes"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El límite igual al número de concejales es el de la letra f) del art. 104 bis.1 LBRL, aplicable al tramo de más de 75.000 y hasta 500.000 habitantes.",
     "fuente": "Art. 104 bis.1.f) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2881,11 +7691,11 @@ const QUESTIONS = {
   {
     "q": "Si el Municipio de mayor población de un Área Metropolitana tiene una población entre 1.000.001 y 1.500.000 habitantes, el número adicional de puestos de personal eventual no podrá exceder de:",
     "options": [
+      "Doce",
       "Dieciocho",
-      "Seis",
-      "Doce"
+      "Seis"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 104 bis.1.g), segundo párrafo, LBRL fija el número adicional en doce para los Municipios con población entre 1.000.001 y 1.500.000 habitantes.",
     "fuente": "Art. 104 bis.1.g) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2894,10 +7704,10 @@ const QUESTIONS = {
     "q": "El número adicional máximo de dieciocho puestos de personal eventual del artículo 104 bis.1.g) de la LBRL corresponde a un Municipio con población:",
     "options": [
       "Entre 500.000 y 1.000.000 de habitantes",
-      "Entre 1.000.001 y 1.500.000 habitantes",
-      "De más de 1.500.000 habitantes"
+      "De más de 1.500.000 habitantes",
+      "Entre 1.000.001 y 1.500.000 habitantes"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 104 bis.1.g), segundo párrafo, LBRL fija el número adicional en dieciocho para los Municipios de más de 1.500.000 habitantes.",
     "fuente": "Art. 104 bis.1.g) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2917,11 +7727,11 @@ const QUESTIONS = {
   {
     "q": "El número de puestos de trabajo cuya cobertura corresponda a personal eventual en las Diputaciones provinciales será, según el artículo 104 bis.2 de la LBRL:",
     "options": [
-      "El equivalente al 0,7 por ciento de la plantilla provincial",
       "El mismo que el del tramo correspondiente a la Corporación del Municipio más poblado de su Provincia",
+      "El equivalente al 0,7 por ciento de la plantilla provincial",
       "El mismo que el del tramo correspondiente a la capital de la Provincia"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 104 bis.2 LBRL equipara el número de personal eventual de las Diputaciones provinciales al del tramo correspondiente a la Corporación del Municipio más poblado de su Provincia, que no necesariamente es la capital.",
     "fuente": "Art. 104 bis.2 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2941,11 +7751,11 @@ const QUESTIONS = {
   {
     "q": "En las islas de menos de 800.000 habitantes, el criterio que el artículo 104 bis.2 de la LBRL aplica a los Cabildos o Consejos Insulares es:",
     "options": [
-      "El 60 % de los cargos electos en cada Cabildo o Consejo Insular",
       "El 40 % de los cargos electos en cada Cabildo o Consejo Insular",
-      "El número de cargos electos reducido en 2"
+      "El número de cargos electos reducido en 2",
+      "El 60 % de los cargos electos en cada Cabildo o Consejo Insular"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 104 bis.2 LBRL fija para las islas de menos de 800.000 habitantes el 60 % de los cargos electos en cada Cabildo o Consejo Insular.",
     "fuente": "Art. 104 bis.2 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2953,11 +7763,11 @@ const QUESTIONS = {
   {
     "q": "La cifra de población que el artículo 104 bis.2 de la LBRL utiliza para diferenciar los dos regímenes de personal eventual de los Consejos y Cabildos insulares es:",
     "options": [
+      "800.000 habitantes",
       "1.000.000 de habitantes",
-      "500.000 habitantes",
-      "800.000 habitantes"
+      "500.000 habitantes"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 104 bis.2 LBRL distingue entre las islas con más de 800.000 habitantes y las de menos de 800.000 habitantes.",
     "fuente": "Art. 104 bis.2 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2966,10 +7776,10 @@ const QUESTIONS = {
     "q": "Conforme al artículo 104 bis.5 de la LBRL, las Corporaciones locales publicarán el número de puestos de trabajo reservados a personal eventual:",
     "options": [
       "Anualmente, únicamente en el Boletín Oficial de la Provincia",
-      "Trimestralmente, únicamente en su sede electrónica",
-      "Semestralmente, en su sede electrónica y en el Boletín Oficial de la Provincia o, en su caso, de la Comunidad Autónoma uniprovincial"
+      "Semestralmente, en su sede electrónica y en el Boletín Oficial de la Provincia o, en su caso, de la Comunidad Autónoma uniprovincial",
+      "Trimestralmente, únicamente en su sede electrónica"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 104 bis.5 LBRL impone una publicación semestral en la sede electrónica y en el Boletín Oficial de la Provincia o, en su caso, de la Comunidad Autónoma uniprovincial.",
     "fuente": "Art. 104 bis.5 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2978,10 +7788,10 @@ const QUESTIONS = {
     "q": "El cumplimiento de lo previsto en el artículo 104 bis de la LBRL sobre personal eventual se informa al Pleno:",
     "options": [
       "Por el Interventor, con ocasión de la liquidación del presupuesto",
-      "Por el Presidente de la Entidad Local, con carácter trimestral",
-      "Por el Secretario de la Corporación, con carácter semestral"
+      "Por el Secretario de la Corporación, con carácter semestral",
+      "Por el Presidente de la Entidad Local, con carácter trimestral"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 104 bis.6 LBRL dispone que el Presidente de la Entidad Local informará al Pleno con carácter trimestral del cumplimiento de lo previsto en ese artículo.",
     "fuente": "Art. 104 bis.6 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -2989,11 +7799,11 @@ const QUESTIONS = {
   {
     "q": "En el texto consolidado de la LBRL, los apartados 3 y 4 del artículo 104 bis figuran:",
     "options": [
-      "Vigentes, regulando el régimen de dedicación exclusiva del personal eventual",
       "Anulados, al haber sido declarados inconstitucionales y nulos por la Sentencia del Tribunal Constitucional 54/2017, de 11 de mayo",
+      "Vigentes, regulando el régimen de dedicación exclusiva del personal eventual",
       "Derogados por el texto refundido de la Ley del Estatuto Básico del Empleado Público de 2015"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El texto consolidado recoge los apartados 3 y 4 del art. 104 bis LBRL como «(Anulado)», por haber sido declarados inconstitucionales y nulos, en la redacción dada por la Ley 27/2013, por la STC 54/2017, de 11 de mayo.",
     "fuente": "Art. 104 bis.3 y 4 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -3014,10 +7824,10 @@ const QUESTIONS = {
     "q": "Conforme al artículo 2.2 del RD 128/2018, quien ostente la responsabilidad administrativa de cada una de las funciones públicas necesarias:",
     "options": [
       "Ejercerá sus funciones bajo la dependencia jerárquica del titular del área de organización de la Corporación",
-      "Tendrá atribuida la dirección de los servicios encargados de su realización, sin perjuicio de las atribuciones de los órganos de gobierno en materia de organización de los servicios administrativos",
-      "Tendrá atribuida la dirección de los servicios encargados de su realización, desplazando cualquier atribución de los órganos de gobierno en materia de organización administrativa"
+      "Tendrá atribuida la dirección de los servicios encargados de su realización, desplazando cualquier atribución de los órganos de gobierno en materia de organización administrativa",
+      "Tendrá atribuida la dirección de los servicios encargados de su realización, sin perjuicio de las atribuciones de los órganos de gobierno en materia de organización de los servicios administrativos"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 2.2 RD 128/2018 atribuye al responsable de cada función la dirección de los servicios encargados de su realización, pero lo hace 'sin perjuicio de las atribuciones de los órganos de gobierno de la Corporación Local en materia de organización de los servicios administrativos'.",
     "fuente": "Art. 2.2 RD 128/2018",
     "confianza": "alta"
@@ -3025,11 +7835,11 @@ const QUESTIONS = {
   {
     "q": "De acuerdo con el artículo 2.3 del RD 128/2018, corresponderán a los funcionarios de Administración Local con habilitación de carácter nacional, dentro de su ámbito de actuación, las funciones necesarias para garantizar:",
     "options": [
-      "Únicamente el principio de transparencia, por remisión a la legislación específica en la materia",
       "El principio de transparencia y los principios de estabilidad presupuestaria y sostenibilidad económico-financiera",
+      "Únicamente el principio de transparencia, por remisión a la legislación específica en la materia",
       "El principio de eficacia administrativa y el de jerarquía normativa"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 2.3 RD 128/2018 les atribuye las funciones necesarias, dentro de su ámbito de actuación, para garantizar el principio de transparencia y los principios de estabilidad presupuestaria y sostenibilidad económico-financiera.",
     "fuente": "Art. 2.3 RD 128/2018",
     "confianza": "alta"
@@ -3037,11 +7847,11 @@ const QUESTIONS = {
   {
     "q": "Dentro de la función de fe pública, la preparación de los asuntos que hayan de incluirse en el orden del día de las sesiones del Pleno, la Junta de Gobierno y otros órganos colegiados que adopten acuerdos vinculantes se realiza:",
     "options": [
-      "De conformidad con lo establecido por el Alcalde o Presidente, asistiendo a éste en la realización de la correspondiente convocatoria",
       "Con plena autonomía del Secretario, que fija el orden del día y convoca la sesión",
+      "De conformidad con lo establecido por el Alcalde o Presidente, asistiendo a éste en la realización de la correspondiente convocatoria",
       "De conformidad con lo acordado por la Junta de Portavoces, que asiste al Secretario en la convocatoria"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 3.2.a) RD 128/2018 configura esta tarea como preparación de los asuntos 'de conformidad con lo establecido por el Alcalde o Presidente de la misma, y la asistencia a éste en la realización de la correspondiente convocatoria'.",
     "fuente": "Art. 3.2.a) RD 128/2018",
     "confianza": "alta"
@@ -3050,10 +7860,10 @@ const QUESTIONS = {
     "q": "Cuando el soporte del Libro de Actas sea electrónico, el RD 128/2018 exige que el Secretario:",
     "options": [
       "Remita el acta al Boletín Oficial de la Provincia para su íntegra publicación",
-      "Redacte en todo caso un extracto en papel comprensivo, entre otros datos, del lugar, fecha y hora de la sesión, su carácter ordinario o extraordinario, los asistentes y el contenido de los acuerdos",
-      "Conserve una copia de seguridad certificada por el Alcalde, sin necesidad de ningún documento en papel"
+      "Conserve una copia de seguridad certificada por el Alcalde, sin necesidad de ningún documento en papel",
+      "Redacte en todo caso un extracto en papel comprensivo, entre otros datos, del lugar, fecha y hora de la sesión, su carácter ordinario o extraordinario, los asistentes y el contenido de los acuerdos"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 3.2.d) RD 128/2018 obliga, en el supuesto de soporte electrónico, a redactar en todo caso un extracto en papel con lugar, fecha y hora, carácter ordinario o extraordinario, asistentes y excusados, contenido de los acuerdos y opiniones sintetizadas con expresión del sentido del voto.",
     "fuente": "Art. 3.2.d) RD 128/2018",
     "confianza": "alta"
@@ -3086,10 +7896,10 @@ const QUESTIONS = {
     "q": "Dentro de la función de asesoramiento legal preceptivo, la emisión de informes previos procede cuando lo ordene el Presidente de la Corporación o cuando lo solicite:",
     "options": [
       "La mayoría absoluta del número legal de miembros de la Corporación",
-      "Un tercio de miembros de la Corporación, con antelación suficiente a la celebración de la sesión en que hubiere de tratarse el asunto",
-      "Cualquier miembro de la Corporación, en el propio acto de la sesión"
+      "Cualquier miembro de la Corporación, en el propio acto de la sesión",
+      "Un tercio de miembros de la Corporación, con antelación suficiente a la celebración de la sesión en que hubiere de tratarse el asunto"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 3.3.a) RD 128/2018 exige informe previo cuando lo ordene el Presidente o lo solicite un tercio de miembros de la Corporación, con antelación suficiente a la sesión; tales informes deben señalar la legislación aplicable y la adecuación a la misma de los acuerdos en proyecto.",
     "fuente": "Art. 3.3.a) RD 128/2018",
     "confianza": "alta"
@@ -3097,11 +7907,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al artículo 3.3 del RD 128/2018, la emisión de informe previo del Secretario procede siempre que se trate de asuntos para cuya aprobación se exija:",
     "options": [
+      "La mayoría absoluta del número legal de miembros de la Corporación o cualquier otra mayoría cualificada",
       "La mayoría simple del número de miembros presentes",
-      "Únicamente la mayoría de dos tercios del número legal de miembros",
-      "La mayoría absoluta del número legal de miembros de la Corporación o cualquier otra mayoría cualificada"
+      "Únicamente la mayoría de dos tercios del número legal de miembros"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 3.3.c) RD 128/2018 exige informe previo siempre que se trate de asuntos para cuya aprobación se exija la mayoría absoluta del número legal de miembros de la Corporación o cualquier otra mayoría cualificada.",
     "fuente": "Art. 3.3.c) RD 128/2018",
     "confianza": "alta"
@@ -3110,10 +7920,10 @@ const QUESTIONS = {
     "q": "En la resolución de recursos administrativos, el RD 128/2018 exige informe previo del Secretario cuando por la naturaleza de los asuntos así se requiera, salvo:",
     "options": [
       "Cuando el recurso se interponga contra actos dictados por delegación del Alcalde",
-      "Cuando el recurso haya sido informado previamente por la asesoría jurídica de la Corporación",
-      "Cuando se interpongan en el seno de expedientes instruidos por infracción de ordenanzas locales o de la normativa de tráfico y seguridad vial, o se trate de recursos contra actos de naturaleza tributaria"
+      "Cuando se interpongan en el seno de expedientes instruidos por infracción de ordenanzas locales o de la normativa de tráfico y seguridad vial, o se trate de recursos contra actos de naturaleza tributaria",
+      "Cuando el recurso haya sido informado previamente por la asesoría jurídica de la Corporación"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 3.3.d).4.º RD 128/2018 excluye los recursos interpuestos en expedientes por infracción de ordenanzas locales o de la normativa reguladora de tráfico y seguridad vial, así como los recursos contra actos de naturaleza tributaria.",
     "fuente": "Art. 3.3.d).4.º RD 128/2018",
     "confianza": "alta"
@@ -3121,11 +7931,11 @@ const QUESTIONS = {
   {
     "q": "¿En cuál de los siguientes supuestos exige el artículo 3.3.d) del RD 128/2018 informe previo del Secretario en todo caso?",
     "options": [
-      "Aprobación y modificación de relaciones de puestos de trabajo y catálogos de personal",
       "Aprobación de la liquidación del Presupuesto y concertación de operaciones de crédito",
-      "Aprobación de la Cuenta General y de los estados consolidados de cuentas"
+      "Aprobación de la Cuenta General y de los estados consolidados de cuentas",
+      "Aprobación y modificación de relaciones de puestos de trabajo y catálogos de personal"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 3.3.d).6.º RD 128/2018 incluye entre los supuestos de informe previo preceptivo la aprobación y modificación de relaciones de puestos de trabajo y catálogos de personal. El informe previo a la liquidación del presupuesto y a las operaciones de crédito corresponde al órgano interventor (art. 4.1.b).3.º y 4.º).",
     "fuente": "Art. 3.3.d).6.º RD 128/2018",
     "confianza": "alta"
@@ -3169,11 +7979,11 @@ const QUESTIONS = {
   {
     "q": "Los informes, dictámenes y propuestas en materia económico-financiera o presupuestaria que el órgano interventor debe emitir se solicitan, conforme al artículo 4.1.b) del RD 128/2018, por:",
     "options": [
-      "La presidencia o por la mayoría absoluta del número legal de miembros de la Corporación",
       "La presidencia, por un tercio de los Concejales o Diputados, o cuando se trate de materias para las que legalmente se exija una mayoría especial",
+      "La presidencia o por la mayoría absoluta del número legal de miembros de la Corporación",
       "Exclusivamente la presidencia de la Corporación o el Pleno"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 4.1.b).5.º RD 128/2018 recoge la solicitud por la presidencia, por un tercio de los Concejales o Diputados o cuando se trate de materias para las que legalmente se exija una mayoría especial, junto con el dictamen sobre la procedencia de implantar nuevos servicios o reformar los existentes.",
     "fuente": "Art. 4.1.b).5.º RD 128/2018",
     "confianza": "alta"
@@ -3205,11 +8015,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al artículo 5.1 del RD 128/2018, la realización de los cobros y pagos se efectúa de conformidad con la normativa vigente, el Plan de Disposición de Fondos y las directrices de la Presidencia, autorizando los pagos materiales contra las cuentas bancarias:",
     "options": [
+      "El Tesorero junto con el ordenador de pagos y el interventor",
       "El Tesorero en solitario, como titular del órgano correspondiente",
-      "El Tesorero junto con el Secretario de la Corporación",
-      "El Tesorero junto con el ordenador de pagos y el interventor"
+      "El Tesorero junto con el Secretario de la Corporación"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 5.1.b).3.º RD 128/2018 exige que el Tesorero autorice los pagos materiales contra las cuentas bancarias correspondientes 'junto con el ordenador de pagos y el interventor'.",
     "fuente": "Art. 5.1.b).3.º RD 128/2018",
     "confianza": "alta"
@@ -3217,11 +8027,11 @@ const QUESTIONS = {
   {
     "q": "La elaboración y acreditación del periodo medio de pago a proveedores de la Entidad Local, así como de otros datos estadísticos e indicadores de gestión que deban suministrarse o publicarse, corresponde a la función de tesorería:",
     "options": [
-      "Siempre que se refieran a funciones propias de la tesorería",
       "En todo caso, con independencia de la función a la que se refieran",
+      "Siempre que se refieran a funciones propias de la tesorería",
       "Solo cuando lo requiera expresamente el órgano interventor"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 5.1.e) RD 128/2018 delimita esta función con la cláusula 'siempre que se refieran a funciones propias de la tesorería'.",
     "fuente": "Art. 5.1.e) RD 128/2018",
     "confianza": "alta"
@@ -3254,10 +8064,10 @@ const QUESTIONS = {
     "q": "Según el artículo 7 del RD 128/2018, actuarán como delegados de la Junta Electoral de Zona:",
     "options": [
       "Únicamente el Interventor general municipal de los municipios de gran población",
-      "El Secretario de todas las Entidades Locales, sin excepción, incluidas las mancomunidades",
-      "El Secretario del Ayuntamiento y el Secretario General del Pleno en los municipios de gran población, así como en los Cabildos Insulares Canarios"
+      "El Secretario del Ayuntamiento y el Secretario General del Pleno en los municipios de gran población, así como en los Cabildos Insulares Canarios",
+      "El Secretario de todas las Entidades Locales, sin excepción, incluidas las mancomunidades"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 7.2 RD 128/2018 atribuye esa condición al Secretario del Ayuntamiento y al Secretario General del Pleno en los municipios incluidos en el ámbito del título X LBRL y en los Cabildos Insulares Canarios, en los términos de la LOREG.",
     "fuente": "Art. 7.2 RD 128/2018",
     "confianza": "alta"
@@ -3277,11 +8087,11 @@ const QUESTIONS = {
   {
     "q": "Se clasifican en clase segunda las Secretarías de Ayuntamientos de municipios cuya población esté comprendida entre 5.001 y 20.000 habitantes, así como los de población inferior a 5.001 habitantes:",
     "options": [
+      "Cuyo presupuesto supere los 3.000.000 de euros",
       "Cuyo presupuesto no exceda los 3.000.000 de euros",
-      "Cuyo presupuesto supere los 200.000 euros",
-      "Cuyo presupuesto supere los 3.000.000 de euros"
+      "Cuyo presupuesto supere los 200.000 euros"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 8.1.b) RD 128/2018 sitúa en clase segunda a los municipios de 5.001 a 20.000 habitantes y a los de menos de 5.001 habitantes cuyo presupuesto supere los 3.000.000 de euros; los de menos de 5.001 habitantes cuyo presupuesto no exceda esa cifra son clase tercera (art. 8.1.c).",
     "fuente": "Art. 8.1.b) RD 128/2018",
     "confianza": "alta"
@@ -3290,10 +8100,10 @@ const QUESTIONS = {
     "q": "El ámbito territorial de las agrupaciones de Entidades Locales para el mantenimiento en común del puesto de Secretaría es:",
     "options": [
       "Provincial, sin excepciones",
-      "Estatal, por corresponder al Ministerio de Hacienda y Función Pública su constitución",
-      "Autonómico, sin perjuicio de los convenios o acuerdos que puedan celebrar las Comunidades Autónomas para constituir agrupaciones entre Entidades Locales de diferentes Comunidades Autónomas"
+      "Autonómico, sin perjuicio de los convenios o acuerdos que puedan celebrar las Comunidades Autónomas para constituir agrupaciones entre Entidades Locales de diferentes Comunidades Autónomas",
+      "Estatal, por corresponder al Ministerio de Hacienda y Función Pública su constitución"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 9.1 RD 128/2018 fija el ámbito autonómico de estas agrupaciones, admitiendo convenios o acuerdos entre Comunidades Autónomas para agrupar Entidades Locales de distintas Comunidades.",
     "fuente": "Art. 9.1 RD 128/2018",
     "confianza": "alta"
@@ -3301,11 +8111,11 @@ const QUESTIONS = {
   {
     "q": "Pueden ser eximidas por la Comunidad Autónoma, previo informe de la Diputación Provincial, Cabildo o Consejo Insular, de la obligación de crear o mantener el puesto de Secretaría, cuando no sea posible la agrupación, las Entidades Locales con:",
     "options": [
-      "Población inferior a 500 habitantes y presupuesto inferior a 200.000 euros",
       "Población inferior a 1.000 habitantes y presupuesto inferior a 500.000 euros",
-      "Población inferior a 5.001 habitantes y presupuesto inferior a 3.000.000 de euros"
+      "Población inferior a 5.001 habitantes y presupuesto inferior a 3.000.000 de euros",
+      "Población inferior a 500 habitantes y presupuesto inferior a 200.000 euros"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 10.1 RD 128/2018 fija el doble umbral de población inferior a 500 habitantes y presupuesto inferior a 200.000 euros, en el supuesto de que no fuese posible efectuar una agrupación.",
     "fuente": "Art. 10.1 RD 128/2018",
     "confianza": "alta"
@@ -3326,10 +8136,10 @@ const QUESTIONS = {
     "q": "Pueden agruparse entre sí para el sostenimiento en común de un puesto único de Intervención las Entidades Locales cuyas Secretarías estén clasificadas en:",
     "options": [
       "Primera o segunda clase",
-      "Exclusivamente tercera clase",
-      "Segunda o tercera clase"
+      "Segunda o tercera clase",
+      "Exclusivamente tercera clase"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 12.1 RD 128/2018 permite la agrupación para sostener en común un puesto único de Intervención a las Entidades Locales cuyas Secretarías estén clasificadas en segunda o tercera clase.",
     "fuente": "Art. 12.1 RD 128/2018",
     "confianza": "alta"
@@ -3337,11 +8147,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 13 del RD 128/2018, los puestos de trabajo de Intervención se clasifican en:",
     "options": [
-      "Dos clases: primera, cuando la Secretaría de la Entidad esté clasificada en clase primera; y segunda, cuando lo esté en clase segunda, así como los puestos de Intervención en régimen de agrupación",
       "Tres clases, correspondiendo la tercera a los puestos de Intervención en régimen de agrupación",
-      "Dos clases, atendiendo exclusivamente al importe del presupuesto de la Entidad Local"
+      "Dos clases, atendiendo exclusivamente al importe del presupuesto de la Entidad Local",
+      "Dos clases: primera, cuando la Secretaría de la Entidad esté clasificada en clase primera; y segunda, cuando lo esté en clase segunda, así como los puestos de Intervención en régimen de agrupación"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 13 RD 128/2018 solo prevé dos clases de Intervención: clase primera (Entidades cuya Secretaría sea de clase primera) y clase segunda (Entidades cuya Secretaría sea de clase segunda y puestos de Intervención en régimen de agrupación).",
     "fuente": "Art. 13 RD 128/2018",
     "confianza": "alta"
@@ -3373,11 +8183,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al artículo 15.3 del RD 128/2018, corresponde a los puestos de colaboración la sustitución de los titulares de los puestos de Secretaría, Intervención y Tesorería en los casos de:",
     "options": [
-      "Vacante, ausencia, enfermedad o concurrencia de causa de abstención o recusación legal o reglamentaria de los mismos",
       "Vacante y ausencia, exclusivamente",
-      "Vacante, ausencia o enfermedad, quedando excluidos los supuestos de abstención y recusación"
+      "Vacante, ausencia o enfermedad, quedando excluidos los supuestos de abstención y recusación",
+      "Vacante, ausencia, enfermedad o concurrencia de causa de abstención o recusación legal o reglamentaria de los mismos"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 15.3 RD 128/2018 enumera los supuestos de sustitución: vacante, ausencia, enfermedad o concurrencia de causa de abstención o recusación legal o reglamentaria de los titulares.",
     "fuente": "Art. 15.3 RD 128/2018",
     "confianza": "alta"
@@ -3385,11 +8195,11 @@ const QUESTIONS = {
   {
     "q": "Las Diputaciones Provinciales, Cabildos, Consejos insulares o entes supramunicipales, al incluir en sus relaciones de puestos de trabajo los reservados necesarios para el ejercicio de las funciones en Entidades Locales eximidas, deben garantizar en todo caso la prestación de los servicios de secretaría e intervención y tesorería y recaudación en los municipios de menos de:",
     "options": [
-      "500 habitantes",
       "1.000 habitantes",
+      "500 habitantes",
       "5.001 habitantes"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 16.1 RD 128/2018 impone esa garantía en los municipios de menos de 1.000 habitantes, precisando que ello no implica la supresión del puesto de Secretaría reservado a la subescala de Secretaría-Intervención en los municipios que lo tengan creado y clasificado.",
     "fuente": "Art. 16.1 RD 128/2018",
     "confianza": "alta"
@@ -3410,10 +8220,10 @@ const QUESTIONS = {
     "q": "A efectos del artículo 76 del TREBEP, las tres subescalas en que se estructura la escala de habilitación de carácter nacional se integran, según el RD 128/2018, en:",
     "options": [
       "El grupo A, subgrupos A1 y A2, según la subescala",
-      "El grupo A, subgrupo A1",
-      "El grupo A, subgrupo A1, salvo la subescala de Secretaría-Intervención, que se integra en el A2"
+      "El grupo A, subgrupo A1, salvo la subescala de Secretaría-Intervención, que se integra en el A2",
+      "El grupo A, subgrupo A1"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 18.3 RD 128/2018 integra las tres subescalas en el grupo A, subgrupo A1; coherentemente, el art. 18.1 exige para participar en las pruebas selectivas la titulación universitaria requerida para el ingreso en cuerpos o escalas del subgrupo A1.",
     "fuente": "Art. 18.3 RD 128/2018",
     "confianza": "alta"
@@ -3434,10 +8244,10 @@ const QUESTIONS = {
     "q": "En los municipios de gran población, el puesto de Secretario General del Pleno está reservado, según el RD 128/2018, a:",
     "options": [
       "La subescala de Secretaría, categoría de entrada, y debe clasificarse en clase 2.ª",
-      "La subescala de Secretaría-Intervención, con clasificación en clase 1.ª",
-      "La subescala de Secretaría, categoría superior, y debe clasificarse en clase 1.ª"
+      "La subescala de Secretaría, categoría superior, y debe clasificarse en clase 1.ª",
+      "La subescala de Secretaría-Intervención, con clasificación en clase 1.ª"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "La disposición adicional cuarta, apartado 2.a) RD 128/2018 reserva el puesto de Secretario General del Pleno a la subescala de Secretaría, categoría superior, con clasificación obligatoria en clase 1.ª",
     "fuente": "Disposición adicional cuarta, apartado 2.a) RD 128/2018",
     "confianza": "alta"
@@ -3445,11 +8255,11 @@ const QUESTIONS = {
   {
     "q": "En los municipios de gran población, el puesto o puestos del órgano u órganos que tengan asignadas las funciones de contabilidad, tesorería y recaudación, así como las de presupuestación en su caso, están reservados a:",
     "options": [
-      "La subescala de Intervención-Tesorería, pudiendo ser desempeñados por funcionarios de categoría de entrada o superior",
       "La subescala de Intervención-Tesorería, exigiéndose en todo caso la categoría superior",
-      "La subescala de Secretaría-Intervención"
+      "La subescala de Secretaría-Intervención",
+      "La subescala de Intervención-Tesorería, pudiendo ser desempeñados por funcionarios de categoría de entrada o superior"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "La disposición adicional cuarta, apartado 2.d) RD 128/2018 los reserva a la subescala de Intervención-Tesorería, pudiendo ser desempeñados por funcionarios pertenecientes a la categoría de entrada o superior dentro de la misma. Es el puesto de Intervención General municipal el que exige categoría superior y clase 1.ª (letra c).",
     "fuente": "Disposición adicional cuarta, apartado 2.d) RD 128/2018",
     "confianza": "alta"
@@ -3457,11 +8267,11 @@ const QUESTIONS = {
   {
     "q": "A los efectos del ejercicio en soporte electrónico de las funciones reservadas, el RD 128/2018 dispone que los puestos reservados a estos funcionarios:",
     "options": [
+      "Tendrán la consideración de órganos, sin perjuicio de lo dispuesto en el título X de la LBRL",
       "Tendrán la consideración de unidades administrativas dependientes de la Alcaldía",
-      "Deberán integrarse en la sede electrónica como registros auxiliares",
-      "Tendrán la consideración de órganos, sin perjuicio de lo dispuesto en el título X de la LBRL"
+      "Deberán integrarse en la sede electrónica como registros auxiliares"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "La disposición adicional octava RD 128/2018 atribuye a los puestos reservados la consideración de órganos a efectos del ejercicio electrónico de las funciones reservadas, sin perjuicio del título X LBRL.",
     "fuente": "Disposición adicional octava RD 128/2018",
     "confianza": "alta"
@@ -3469,11 +8279,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al régimen transitorio de las funciones de tesorería del RD 128/2018, en las Corporaciones Locales cuya Secretaría esté clasificada en clase 3.ª, la función de tesorería se desempeñará excepcionalmente por el titular del puesto de Secretaría:",
     "options": [
-      "Siempre que no sea posible ejercerla mediante agrupación de Tesorería, por los servicios de asistencia técnica, por acumulación, a través de un puesto de colaboración o por funcionario propio de la Entidad Local",
       "En todo caso, por ser inherente al puesto de Secretaría de clase tercera",
+      "Siempre que no sea posible ejercerla mediante agrupación de Tesorería, por los servicios de asistencia técnica, por acumulación, a través de un puesto de colaboración o por funcionario propio de la Entidad Local",
       "Cuando así lo acuerde el Pleno por mayoría absoluta, sin necesidad de agotar otras alternativas"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "La disposición transitoria sexta, apartado 3 RD 128/2018 configura ese desempeño como excepcional y subsidiario: solo cuando no sea posible la agrupación de Tesorería, ni el ejercicio por Diputaciones, entidades equivalentes o Comunidades Autónomas uniprovinciales a través de sus servicios de asistencia técnica, ni por acumulación, ni mediante puesto de colaboración, ni por funcionario propio de la Entidad.",
     "fuente": "Disposición transitoria sexta, apartado 3 RD 128/2018",
     "confianza": "alta"
@@ -3481,11 +8291,11 @@ const QUESTIONS = {
   {
     "q": "El Real Decreto 896/1991, de 7 de junio, es de aplicación a los procedimientos de selección de los funcionarios al servicio de las Entidades Locales:",
     "options": [
-      "No comprendidos en el número 3 del artículo 92 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local.",
       "Comprendidos en el número 3 del artículo 92 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local.",
-      "Sin excepción alguna, cualquiera que sea la escala o subescala a la que pertenezcan las plazas."
+      "Sin excepción alguna, cualquiera que sea la escala o subescala a la que pertenezcan las plazas.",
+      "No comprendidos en el número 3 del artículo 92 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 1 delimita el ámbito: se aplica a los procedimientos de selección de los funcionarios al servicio de las Entidades Locales «no comprendidos en el número 3 del artículo 92 de la Ley 7/1985».",
     "fuente": "Art. 1 RD 896/1991",
     "confianza": "alta"
@@ -3493,11 +8303,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al artículo 2 del RD 896/1991, el ingreso en la Función Pública Local se realizará, con carácter general, a través del sistema de:",
     "options": [
-      "Concurso.",
       "Oposición.",
+      "Concurso.",
       "Concurso-oposición."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "Art. 2: «El ingreso en la Función Pública Local se realizará, con carácter general, a través del sistema de oposición», salvo que resulte más adecuado el concurso-oposición o el concurso.",
     "fuente": "Art. 2 RD 896/1991",
     "confianza": "alta"
@@ -3506,10 +8316,10 @@ const QUESTIONS = {
     "q": "Según el artículo 2 del RD 896/1991, la utilización del sistema de concurso-oposición o de concurso, en lugar de la oposición, procede cuando sea más adecuada por razón de:",
     "options": [
       "El número de plazas convocadas y la población del municipio.",
-      "La urgencia en la cobertura de las plazas apreciada por el Pleno.",
-      "La naturaleza de las plazas o de las funciones a desempeñar."
+      "La naturaleza de las plazas o de las funciones a desempeñar.",
+      "La urgencia en la cobertura de las plazas apreciada por el Pleno."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 2 admite el concurso-oposición o el concurso «por la naturaleza de las plazas o de las funciones a desempeñar».",
     "fuente": "Art. 2 RD 896/1991",
     "confianza": "alta"
@@ -3517,11 +8327,11 @@ const QUESTIONS = {
   {
     "q": "De acuerdo con el artículo 3 del RD 896/1991, las bases de convocatoria por las que se rigen los procedimientos de selección se aprueban:",
     "options": [
-      "Por el órgano correspondiente de la Corporación, para cada una de las Escalas, subescalas y clases de funcionarios.",
       "Por el órgano competente de la Comunidad Autónoma, para cada Corporación y con carácter uniforme.",
-      "Por el Tribunal calificador, una vez constituido, para cada convocatoria."
+      "Por el Tribunal calificador, una vez constituido, para cada convocatoria.",
+      "Por el órgano correspondiente de la Corporación, para cada una de las Escalas, subescalas y clases de funcionarios."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "Art. 3: los procedimientos de selección se regirán por las bases de convocatoria que apruebe el órgano correspondiente de la Corporación «para cada una de las Escalas, subescalas y clases de funcionarios».",
     "fuente": "Art. 3 RD 896/1991",
     "confianza": "alta"
@@ -3529,11 +8339,11 @@ const QUESTIONS = {
   {
     "q": "Respecto de las pruebas de aptitud o de conocimientos que han de recoger las bases, el RD 896/1991 exige que, en todo caso:",
     "options": [
-      "Todos los ejercicios tengan carácter práctico.",
       "Uno de los ejercicios obligatorios tenga carácter práctico.",
+      "Todos los ejercicios tengan carácter práctico.",
       "Al menos dos de los ejercicios obligatorios tengan carácter práctico."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "Art. 4.c): «En todo caso, uno de los ejercicios obligatorios deberá tener carácter práctico».",
     "fuente": "Art. 4.c) RD 896/1991",
     "confianza": "alta"
@@ -3554,10 +8364,10 @@ const QUESTIONS = {
     "q": "En las pruebas selectivas que se realicen por el sistema de concurso-oposición, conforme al RD 896/1991, la fase de concurso:",
     "options": [
       "Será posterior a la de oposición y tendrá carácter eliminatorio.",
-      "Será previa a la de oposición, no tendrá carácter eliminatorio ni podrá tenerse en cuenta para superar las pruebas de la fase de oposición.",
-      "Será simultánea a la de oposición y su puntuación se sumará a la de los ejercicios para superarlos."
+      "Será simultánea a la de oposición y su puntuación se sumará a la de los ejercicios para superarlos.",
+      "Será previa a la de oposición, no tendrá carácter eliminatorio ni podrá tenerse en cuenta para superar las pruebas de la fase de oposición."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "Art. 4.c): la fase de concurso «será previa a la de oposición, no tendrá carácter eliminatorio ni podrá tenerse en cuenta para superar las pruebas de la fase de oposición».",
     "fuente": "Art. 4.c) RD 896/1991",
     "confianza": "alta"
@@ -3565,11 +8375,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al artículo 4.c) del RD 896/1991, las entrevistas curriculares podrán establecerse en los sistemas de:",
     "options": [
+      "Concurso o concurso-oposición.",
       "Oposición y concurso-oposición.",
-      "Oposición exclusivamente.",
-      "Concurso o concurso-oposición."
+      "Oposición exclusivamente."
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "Art. 4.c): «En los sistemas de concurso o concurso-oposición podrán establecerse entrevistas curriculares».",
     "fuente": "Art. 4.c) RD 896/1991",
     "confianza": "alta"
@@ -3577,11 +8387,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 4.c) del RD 896/1991, las pruebas de carácter voluntario no eliminatorio podrán establecerse en los sistemas de:",
     "options": [
-      "Oposición y de concurso-oposición.",
       "Concurso y de concurso-oposición.",
+      "Oposición y de concurso-oposición.",
       "Concurso exclusivamente."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "Art. 4.c): «En los de oposición y de concurso-oposición podrán establecerse pruebas de carácter voluntario no eliminatorio».",
     "fuente": "Art. 4.c) RD 896/1991",
     "confianza": "alta"
@@ -3590,10 +8400,10 @@ const QUESTIONS = {
     "q": "De acuerdo con el artículo 4.e) del RD 896/1991, los Tribunales de selección contarán con:",
     "options": [
       "Un Presidente, un Vicepresidente, un Secretario y los Vocales que determine la convocatoria.",
-      "Un Presidente, un Secretario y los Vocales que determine la convocatoria, con composición predominantemente técnica.",
-      "Un Presidente y un número par de Vocales, actuando como Secretario el de la Corporación."
+      "Un Presidente y un número par de Vocales, actuando como Secretario el de la Corporación.",
+      "Un Presidente, un Secretario y los Vocales que determine la convocatoria, con composición predominantemente técnica."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "Art. 4.e): los Tribunales «contarán con un Presidente, un Secretario y los Vocales que determine la convocatoria. Su composición será predominantemente técnica».",
     "fuente": "Art. 4.e) RD 896/1991",
     "confianza": "alta"
@@ -3614,10 +8424,10 @@ const QUESTIONS = {
     "q": "Según el artículo 4.f) del RD 896/1991, el número de miembros de los Tribunales de selección:",
     "options": [
       "En ningún caso será superior a cinco.",
-      "Será necesariamente de cinco miembros.",
-      "En ningún caso será inferior a cinco."
+      "En ningún caso será inferior a cinco.",
+      "Será necesariamente de cinco miembros."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "Art. 4.f): las bases determinarán el número de miembros de los Tribunales, «que en ningún caso será inferior a cinco».",
     "fuente": "Art. 4.f) RD 896/1991",
     "confianza": "alta"
@@ -3626,10 +8436,10 @@ const QUESTIONS = {
     "q": "A tenor del artículo 4.f) del RD 896/1991, actuará como Presidente del Tribunal:",
     "options": [
       "El Secretario de la Corporación o funcionario en quien delegue.",
-      "El de la Corporación o miembro de la misma en quien delegue.",
-      "El vocal de mayor titulación y, en caso de empate, el de mayor antigüedad."
+      "El vocal de mayor titulación y, en caso de empate, el de mayor antigüedad.",
+      "El de la Corporación o miembro de la misma en quien delegue."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "Art. 4.f): «Actuará como Presidente el de la Corporación o miembro de la misma en quien delegue».",
     "fuente": "Art. 4.f) RD 896/1991",
     "confianza": "alta"
@@ -3650,10 +8460,10 @@ const QUESTIONS = {
     "q": "Según el artículo 5 del RD 896/1991, corresponde convocar las pruebas selectivas, una vez publicada la oferta de empleo público y dentro del plazo legalmente establecido:",
     "options": [
       "Al Pleno de la Corporación.",
-      "Al Tribunal calificador designado al efecto.",
-      "Al Presidente de la Corporación."
+      "Al Presidente de la Corporación.",
+      "Al Tribunal calificador designado al efecto."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "Art. 5: «El Presidente de la Corporación, una vez publicada la oferta de empleo público (…) y dentro del plazo legalmente establecido, procederá a convocar las pruebas selectivas».",
     "fuente": "Art. 5 RD 896/1991",
     "confianza": "alta"
@@ -3661,11 +8471,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al artículo 5 del RD 896/1991, las convocatorias determinarán el número y características de las plazas que deban ser provistas, con referencia a las bases aprobadas por:",
     "options": [
-      "El Pleno.",
       "La Junta de Gobierno Local.",
-      "El Presidente de la Corporación."
+      "El Presidente de la Corporación.",
+      "El Pleno."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "Art. 5, párrafo segundo: las convocatorias se harán «con referencia a las bases aprobadas por el Pleno», especificando las plazas de promoción interna.",
     "fuente": "Art. 5 RD 896/1991",
     "confianza": "alta"
@@ -3673,11 +8483,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 6.1 del RD 896/1991, las bases de las pruebas selectivas y las correspondientes convocatorias se publicarán en:",
     "options": [
-      "El «Boletín Oficial del Estado» y, en su caso, en el «Boletín Oficial» de la provincia.",
       "El «Boletín Oficial» de la provincia, en el de la Comunidad Autónoma y, en su caso, en otros diarios oficiales o en el periódico oficial de la Corporación interesada.",
+      "El «Boletín Oficial del Estado» y, en su caso, en el «Boletín Oficial» de la provincia.",
       "Exclusivamente en el periódico oficial de la Corporación interesada y en el tablón de anuncios."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "Art. 6.1: bases y convocatorias se publican en el «Boletín Oficial» de la provincia, en el de la Comunidad Autónoma y, en su caso, en otros diarios oficiales o en el periódico oficial de la Corporación interesada.",
     "fuente": "Art. 6.1 RD 896/1991",
     "confianza": "alta"
@@ -3686,10 +8496,10 @@ const QUESTIONS = {
     "q": "De acuerdo con el artículo 6.2 del RD 896/1991, el anuncio de las convocatorias se publicará en el «Boletín Oficial del Estado» y deberá contener, entre otros extremos:",
     "options": [
       "El programa completo de las materias comunes y específicas de los ejercicios teóricos.",
-      "La composición nominal del Tribunal calificador y la fecha del primer ejercicio.",
-      "La fecha y número del Boletín o diarios oficiales en que se han publicado las bases y la convocatoria."
+      "La fecha y número del Boletín o diarios oficiales en que se han publicado las bases y la convocatoria.",
+      "La composición nominal del Tribunal calificador y la fecha del primer ejercicio."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "Art. 6.2: el anuncio en el BOE debe contener, además de la denominación de Escala, subescala y clase, la Corporación convocante, clase y número de plazas y reservas, «fecha y número del Boletín o diarios oficiales en que se han publicado las bases y la convocatoria».",
     "fuente": "Art. 6.2 RD 896/1991",
     "confianza": "alta"
@@ -3697,11 +8507,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 7 del RD 896/1991, la resolución de las pruebas selectivas y los correspondientes nombramientos se efectúan por el Presidente de la Corporación de acuerdo con la propuesta del Tribunal, propuesta que tendrá carácter:",
     "options": [
-      "Vinculante.",
       "Meramente consultivo.",
-      "Vinculante solo en cuanto al orden de puntuación, pero no en cuanto a los aspirantes propuestos."
+      "Vinculante solo en cuanto al orden de puntuación, pero no en cuanto a los aspirantes propuestos.",
+      "Vinculante."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "Art. 7: los nombramientos se efectúan por el Presidente de la Corporación «de acuerdo con la propuesta del Tribunal, que tendrá carácter vinculante».",
     "fuente": "Art. 7 RD 896/1991",
     "confianza": "alta"
@@ -3709,11 +8519,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al artículo 7 del RD 896/1991, en ningún caso podrá aprobarse ni declararse que ha superado las pruebas selectivas:",
     "options": [
-      "Un número de aspirantes inferior al de las plazas convocadas.",
       "Un número de aspirantes superior al de las plazas convocadas.",
+      "Un número de aspirantes inferior al de las plazas convocadas.",
       "Un aspirante que no haya obtenido la máxima calificación en el ejercicio práctico."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "Art. 7: no podrá declararse que han superado las pruebas «un número de aspirantes superior al de las plazas convocadas».",
     "fuente": "Art. 7 RD 896/1991",
     "confianza": "alta"
@@ -3721,11 +8531,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 8.2.A) del RD 896/1991, las materias comunes de los programas de los ejercicios teóricos constituirán:",
     "options": [
-      "Al menos una quinta parte del contenido del programa.",
       "Como máximo una décima parte del contenido del programa.",
+      "Al menos una quinta parte del contenido del programa.",
       "Al menos dos quintas partes del contenido del programa."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "Art. 8.2.A): las materias comunes «constituirán, al menos, una quinta parte de dicho contenido».",
     "fuente": "Art. 8.2.A) RD 896/1991",
     "confianza": "alta"
@@ -3745,11 +8555,11 @@ const QUESTIONS = {
   {
     "q": "En las pruebas selectivas para el acceso a la Escala de Administración General, según el artículo 8.2.B).b) del RD 896/1991:",
     "options": [
-      "Todos los temas del programa desarrollarán en profundidad las materias comunes enunciadas.",
       "Dos quintas partes de los temas del programa desarrollarán en profundidad alguna o algunas de las materias comunes enunciadas.",
+      "Todos los temas del programa desarrollarán en profundidad las materias comunes enunciadas.",
       "Cuatro quintas partes de los temas del programa desarrollarán en profundidad alguna o algunas de las materias comunes enunciadas."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "Art. 8.2.B).b): dos quintas partes de temas desarrollarán en profundidad alguna o algunas de las materias comunes, y las dos quintas restantes versarán sobre materias relacionadas directamente con las funciones encomendadas.",
     "fuente": "Art. 8.2.B).b) RD 896/1991",
     "confianza": "alta"
@@ -3757,11 +8567,11 @@ const QUESTIONS = {
   {
     "q": "Si se trata de pruebas selectivas para el acceso a la Escala de Administración Especial, el artículo 8.2.B).c) del RD 896/1991 exige que los programas contengan:",
     "options": [
-      "Cuatro quintas partes de materias que permitan determinar la capacidad profesional de los aspirantes.",
       "Una quinta parte de materias que permitan determinar la capacidad profesional de los aspirantes.",
+      "Cuatro quintas partes de materias que permitan determinar la capacidad profesional de los aspirantes.",
       "La mitad de materias que permitan determinar la capacidad profesional de los aspirantes."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "Art. 8.2.B).c): los programas contendrán «cuatro quintas partes de materias que permitan determinar la capacidad profesional de los aspirantes», así como la normativa específica relacionada con las funciones a desempeñar.",
     "fuente": "Art. 8.2.B).c) RD 896/1991",
     "confianza": "alta"
@@ -3781,11 +8591,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al artículo 8.3 del RD 896/1991, el número mínimo de temas exigido para el ingreso en la subescala del grupo A es de:",
     "options": [
-      "60 temas.",
       "90 temas.",
+      "60 temas.",
       "120 temas."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "Art. 8.3: «Para el ingreso en la subescala del grupo A: 90 temas».",
     "fuente": "Art. 8.3 RD 896/1991",
     "confianza": "alta"
@@ -3793,11 +8603,11 @@ const QUESTIONS = {
   {
     "q": "El artículo 9 del RD 896/1991, al referirse a los ejercicios prácticos, menciona expresamente entre otros:",
     "options": [
-      "Tests psicotécnicos, mecanografía, tratamientos de textos, redacción de informes y proyectos y solución de supuestos.",
       "Pruebas de aptitud física, reconocimiento médico y entrevista personal de idoneidad.",
+      "Tests psicotécnicos, mecanografía, tratamientos de textos, redacción de informes y proyectos y solución de supuestos.",
       "Exposición oral de temas del programa y traducción directa e inversa de una lengua extranjera."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "Art. 9: las pruebas comprenderán uno o varios ejercicios prácticos, tests psicotécnicos, mecanografía, tratamientos de textos, redacción de informes y proyectos, solución de supuestos y otros similares.",
     "fuente": "Art. 9 RD 896/1991",
     "confianza": "alta"
@@ -3806,10 +8616,10 @@ const QUESTIONS = {
     "q": "Según la disposición adicional primera del RD 896/1991, el Presidente de la Corporación podrá efectuar nombramientos de personal funcionario interino para plazas vacantes:",
     "options": [
       "Libremente y sin convocatoria, por razones de urgencia.",
-      "Previa convocatoria pública y con respeto de los principios de mérito y capacidad, siempre que no sea posible, con la urgencia exigida por las circunstancias, la prestación del servicio por funcionarios de carrera.",
-      "Solo cuando la plaza no esté dotada presupuestariamente ni incluida en la oferta de empleo público."
+      "Solo cuando la plaza no esté dotada presupuestariamente ni incluida en la oferta de empleo público.",
+      "Previa convocatoria pública y con respeto de los principios de mérito y capacidad, siempre que no sea posible, con la urgencia exigida por las circunstancias, la prestación del servicio por funcionarios de carrera."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "La DA 1ª exige convocatoria pública previa y respeto de los principios de mérito y capacidad, y que no sea posible, con la urgencia exigida, la prestación del servicio por funcionarios de carrera; las plazas han de estar dotadas presupuestariamente e incluidas en la oferta de empleo público, salvo vacantes producidas con posterioridad.",
     "fuente": "Disposición adicional primera RD 896/1991",
     "confianza": "alta"
@@ -3830,10 +8640,10 @@ const QUESTIONS = {
     "q": "Según el artículo 3.1 del TREBEP, el personal funcionario de las entidades locales se rige por:",
     "options": [
       "Exclusivamente por la legislación de las comunidades autónomas y por los reglamentos de cada Corporación.",
-      "Únicamente por el propio Estatuto Básico del Empleado Público.",
-      "La legislación estatal que resulte de aplicación, de la que forma parte el propio Estatuto, y por la legislación de las comunidades autónomas, con respeto a la autonomía local."
+      "La legislación estatal que resulte de aplicación, de la que forma parte el propio Estatuto, y por la legislación de las comunidades autónomas, con respeto a la autonomía local.",
+      "Únicamente por el propio Estatuto Básico del Empleado Público."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "Art. 3.1 TREBEP: «El personal funcionario de las entidades locales se rige por la legislación estatal que resulte de aplicación, de la que forma parte este Estatuto y por la legislación de las comunidades autónomas, con respeto a la autonomía local».",
     "fuente": "Art. 3.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -3841,11 +8651,11 @@ const QUESTIONS = {
   {
     "q": "El artículo 3.1 del TREBEP cierra la enumeración de la normativa aplicable al personal funcionario de las entidades locales con la expresión:",
     "options": [
-      "«con respeto a la autonomía local».",
       "«sin perjuicio del principio de suficiencia financiera».",
-      "«en el marco de la legislación básica de régimen local»."
+      "«en el marco de la legislación básica de régimen local».",
+      "«con respeto a la autonomía local»."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 3.1 TREBEP termina con la cláusula «con respeto a la autonomía local».",
     "fuente": "Art. 3.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -3865,11 +8675,11 @@ const QUESTIONS = {
   {
     "q": "El artículo 2.1 del TREBEP, al enumerar las Administraciones Públicas a cuyo personal se aplica el Estatuto, incluye:",
     "options": [
-      "Las Administraciones de las entidades locales, en la letra c).",
       "Las entidades locales solo cuando así lo prevea la legislación autonómica de desarrollo.",
+      "Las Administraciones de las entidades locales, en la letra c).",
       "Únicamente las Diputaciones Provinciales y los municipios de gran población."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "Art. 2.1.c) TREBEP: el Estatuto se aplica al personal funcionario y, en lo que proceda, al personal laboral al servicio de «las Administraciones de las entidades locales».",
     "fuente": "Art. 2.1.c) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -3878,10 +8688,10 @@ const QUESTIONS = {
     "q": "Según la disposición adicional primera del TREBEP, los principios contenidos en los artículos 52, 53, 54, 55 y 59 son de aplicación:",
     "options": [
       "Solo a las entidades del sector público estatal no incluidas en el artículo 2 del Estatuto.",
-      "En las entidades del sector público estatal, autonómico y local que no estén incluidas en el artículo 2 del Estatuto y que estén definidas así en su normativa específica.",
-      "Exclusivamente al personal funcionario de carrera de las entidades locales de más de 50.000 habitantes."
+      "Exclusivamente al personal funcionario de carrera de las entidades locales de más de 50.000 habitantes.",
+      "En las entidades del sector público estatal, autonómico y local que no estén incluidas en el artículo 2 del Estatuto y que estén definidas así en su normativa específica."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "La DA 1ª TREBEP extiende los principios de los arts. 52 a 55 y 59 a las entidades del sector público estatal, autonómico y local no incluidas en el art. 2 y definidas así en su normativa específica.",
     "fuente": "Disposición adicional primera TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -3889,11 +8699,11 @@ const QUESTIONS = {
   {
     "q": "De acuerdo con la disposición adicional segunda, apartado 2, del TREBEP, en el ámbito de la Comunidad Autónoma del País Vasco las facultades previstas en el artículo 92 bis de la Ley 7/1985 respecto de los funcionarios con habilitación de carácter nacional serán ostentadas por:",
     "options": [
+      "Las Instituciones Forales de sus territorios históricos o por las Instituciones Comunes de la Comunidad Autónoma, en los términos que establezca la normativa autonómica.",
       "El Ministerio competente en materia de Administraciones Públicas, en todo caso.",
-      "Las Diputaciones Forales exclusivamente, sin intervención de las Instituciones Comunes.",
-      "Las Instituciones Forales de sus territorios históricos o por las Instituciones Comunes de la Comunidad Autónoma, en los términos que establezca la normativa autonómica."
+      "Las Diputaciones Forales exclusivamente, sin intervención de las Instituciones Comunes."
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "DA 2ª.2 TREBEP: esas facultades «serán ostentadas por las Instituciones Forales de sus territorios históricos o por las Instituciones Comunes de la Comunidad Autónoma, en los términos que establezca la normativa autonómica».",
     "fuente": "Disposición adicional segunda, apartado 2, TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -3901,11 +8711,11 @@ const QUESTIONS = {
   {
     "q": "La disposición derogatoria única del TREBEP declara derogado el capítulo III del título VII de:",
     "options": [
-      "La Ley 7/1985, de 2 de abril, y del Real Decreto Legislativo 781/1986, de 18 de abril.",
       "La Ley 7/1985, de 2 de abril, únicamente.",
+      "La Ley 7/1985, de 2 de abril, y del Real Decreto Legislativo 781/1986, de 18 de abril.",
       "El Real Decreto Legislativo 781/1986, de 18 de abril, únicamente."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "Las letras d) y e) de la disposición derogatoria única del TREBEP derogan el capítulo III del título VII tanto de la Ley 7/1985 como del Real Decreto Legislativo 781/1986.",
     "fuente": "Disposición derogatoria única, letras d) y e), TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -3914,10 +8724,10 @@ const QUESTIONS = {
     "q": "Las derogaciones que enumera la disposición derogatoria única del TREBEP se producen:",
     "options": [
       "De forma inmediata y plena desde la entrada en vigor del Estatuto, sin condicionamiento alguno.",
-      "Con el alcance establecido en el apartado 2 de la disposición final cuarta del Estatuto.",
-      "Cuando cada comunidad autónoma lo determine expresamente en su legislación de función pública."
+      "Cuando cada comunidad autónoma lo determine expresamente en su legislación de función pública.",
+      "Con el alcance establecido en el apartado 2 de la disposición final cuarta del Estatuto."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "La disposición derogatoria única comienza: «Quedan derogadas con el alcance establecido en el apartado 2 de la disposición final cuarta, las siguientes disposiciones (…)».",
     "fuente": "Disposición derogatoria única TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -3925,11 +8735,11 @@ const QUESTIONS = {
   {
     "q": "Según la disposición final cuarta, apartado 2, del TREBEP, hasta que se dicten las leyes de Función Pública y las normas reglamentarias de desarrollo:",
     "options": [
-      "Quedan sin efecto todas las normas anteriores sobre gestión de recursos humanos en cada Administración.",
       "Se mantendrán en vigor en cada Administración Pública las normas vigentes sobre ordenación, planificación y gestión de recursos humanos en tanto no se opongan a lo establecido en el Estatuto.",
+      "Quedan sin efecto todas las normas anteriores sobre gestión de recursos humanos en cada Administración.",
       "Se aplicará supletoriamente la legislación laboral común a todo el personal funcionario."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "DF 4ª.2 TREBEP: se mantienen en vigor en cada Administración Pública las normas vigentes sobre ordenación, planificación y gestión de recursos humanos «en tanto no se opongan a lo establecido en este Estatuto».",
     "fuente": "Disposición final cuarta, apartado 2, TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -3938,10 +8748,10 @@ const QUESTIONS = {
     "q": "La disposición final primera del TREBEP señala que sus disposiciones se dictan, entre otros títulos, al amparo del artículo 149.1.18.ª de la Constitución, constituyendo:",
     "options": [
       "Legislación exclusiva del Estado en materia de régimen local.",
-      "Normas de aplicación supletoria respecto de la legislación autonómica.",
-      "Las bases del régimen estatutario de los funcionarios."
+      "Las bases del régimen estatutario de los funcionarios.",
+      "Normas de aplicación supletoria respecto de la legislación autonómica."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "DF 1ª TREBEP: se dictan al amparo del art. 149.1.18.ª CE, «constituyendo aquellas bases del régimen estatutario de los funcionarios», así como al amparo de los arts. 149.1.7.ª y 149.1.13.ª CE.",
     "fuente": "Disposición final primera TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -3949,11 +8759,11 @@ const QUESTIONS = {
   {
     "q": "Conforme a la disposición adicional tercera del TREBEP, corresponde a las Asambleas de Ceuta y Melilla, además de lo previsto con carácter general:",
     "options": [
-      "El establecimiento, modificación y supresión de Escalas, Subescalas y clases de funcionarios y su clasificación.",
       "La habilitación de los funcionarios con habilitación de carácter nacional destinados en su territorio.",
-      "La determinación de las faltas y sanciones disciplinarias muy graves de su personal funcionario."
+      "La determinación de las faltas y sanciones disciplinarias muy graves de su personal funcionario.",
+      "El establecimiento, modificación y supresión de Escalas, Subescalas y clases de funcionarios y su clasificación."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "La DA 3ª.2 TREBEP atribuye a esas Asambleas el establecimiento, modificación y supresión de Escalas, Subescalas y clases de funcionarios y su clasificación, la aprobación de plantillas y RPT, la regulación de la provisión de puestos directivos y la determinación de las faltas y sanciones disciplinarias leves.",
     "fuente": "Disposición adicional tercera, apartado 2, letra a), TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -3974,10 +8784,10 @@ const QUESTIONS = {
     "q": "El art. 126.2 TRRL permite ampliar las plantillas en dos supuestos: uno de ellos es que el incremento del gasto quede compensado mediante la reducción de otras unidades o capítulos de gastos corrientes no ampliables. El otro supuesto es:",
     "options": [
       "Que la ampliación no exceda del 10 por 100 del número total de plazas de la plantilla",
-      "Que exista informe favorable del órgano competente en materia de régimen local de la Comunidad Autónoma",
-      "Que el incremento de las dotaciones sea consecuencia del establecimiento o ampliación de servicios de carácter obligatorio que resulten impuestos por disposiciones legales"
+      "Que el incremento de las dotaciones sea consecuencia del establecimiento o ampliación de servicios de carácter obligatorio que resulten impuestos por disposiciones legales",
+      "Que exista informe favorable del órgano competente en materia de régimen local de la Comunidad Autónoma"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 126.2 TRRL contempla dos supuestos de ampliación: la compensación del incremento del gasto con reducción de otras unidades o capítulos de gastos corrientes no ampliables (letra a) y que el incremento de dotaciones derive del establecimiento o ampliación de servicios de carácter obligatorio impuestos por disposiciones legales (letra b), sin perjuicio de las limitaciones de leyes especiales o coyunturales.",
     "fuente": "Art. 126.2.b) TRRL (RDLeg 781/1986)",
     "confianza": "alta"
@@ -3986,10 +8796,10 @@ const QUESTIONS = {
     "q": "De acuerdo con el art. 126.4 TRRL, las relaciones de puestos de trabajo de las Entidades locales:",
     "options": [
       "Tendrán el contenido que libremente determine cada Corporación, sin sujeción a normas estatales",
-      "Tendrán en todo caso el contenido previsto en la legislación básica sobre función pública y se confeccionarán con arreglo a las normas previstas en el artículo 90.2 de la Ley 7/1985",
-      "Serán aprobadas por la Comunidad Autónoma a propuesta de la Corporación local"
+      "Serán aprobadas por la Comunidad Autónoma a propuesta de la Corporación local",
+      "Tendrán en todo caso el contenido previsto en la legislación básica sobre función pública y se confeccionarán con arreglo a las normas previstas en el artículo 90.2 de la Ley 7/1985"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 126.4 TRRL remite el contenido de las relaciones de puestos de trabajo a la legislación básica sobre función pública y su confección a las normas previstas en el art. 90.2 de la Ley 7/1985.",
     "fuente": "Art. 126.4 TRRL (RDLeg 781/1986)",
     "confianza": "alta"
@@ -3997,11 +8807,11 @@ const QUESTIONS = {
   {
     "q": "Una vez aprobada la plantilla y la relación de puestos de trabajo, el art. 127 TRRL exige remitir copia a la Administración del Estado y, en su caso, a la de la Comunidad Autónoma respectiva dentro del plazo de:",
     "options": [
-      "Quince días",
       "Treinta días",
+      "Quince días",
       "Dos meses"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 127 TRRL fija un plazo de treinta días para la remisión de copia, sin perjuicio de la publicación íntegra de la plantilla y la relación de puestos de trabajo en el «Boletín Oficial de la Provincia», junto con el resumen del Presupuesto.",
     "fuente": "Art. 127 TRRL (RDLeg 781/1986)",
     "confianza": "alta"
@@ -4009,11 +8819,11 @@ const QUESTIONS = {
   {
     "q": "Las Corporaciones locales aprobarán y publicarán anualmente la oferta de empleo público para el año correspondiente, según el art. 128.1 TRRL, dentro del plazo de:",
     "options": [
-      "Un mes desde la aprobación de su Presupuesto",
       "Tres meses desde el comienzo del ejercicio",
+      "Un mes desde la aprobación de su Presupuesto",
       "Un mes desde la publicación íntegra de la plantilla en el Boletín Oficial de la Provincia"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 128.1 TRRL impone aprobar y publicar la oferta de empleo público dentro del plazo de un mes desde la aprobación del Presupuesto, ajustándose a la legislación básica del Estado sobre función pública y a los criterios reglamentarios de coordinación con las ofertas de las demás Administraciones.",
     "fuente": "Art. 128.1 TRRL (RDLeg 781/1986)",
     "confianza": "alta"
@@ -4069,11 +8879,11 @@ const QUESTIONS = {
   {
     "q": "De acuerdo con el art. 131.1 TRRL, los funcionarios de carrera que no ocupen puestos de trabajo reservados a funcionarios con habilitación de carácter nacional se integrarán en:",
     "options": [
+      "Las escalas, subescalas, clases y categorías de cada Corporación",
       "Los cuerpos y escalas de la Comunidad Autónoma respectiva",
-      "Un cuerpo único de funcionarios de Administración local de ámbito estatal",
-      "Las escalas, subescalas, clases y categorías de cada Corporación"
+      "Un cuerpo único de funcionarios de Administración local de ámbito estatal"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 131.1 TRRL integra a estos funcionarios en las escalas, subescalas, clases y categorías de cada Corporación, con arreglo a lo previsto en el propio texto refundido.",
     "fuente": "Art. 131.1 TRRL (RDLeg 781/1986)",
     "confianza": "alta"
@@ -4081,11 +8891,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 131.2 TRRL, las subescalas, clases y categorías quedarán agrupadas, conforme a la legislación básica del Estado, en los grupos que ésta determine de acuerdo con:",
     "options": [
-      "La titulación exigida para su ingreso",
       "El nivel de complemento de destino asignado al puesto",
+      "La titulación exigida para su ingreso",
       "La antigüedad media de sus integrantes"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El criterio de agrupación en grupos que emplea el art. 131.2 TRRL es la titulación exigida para el ingreso, remitiendo la determinación de los grupos a la legislación básica del Estado.",
     "fuente": "Art. 131.2 TRRL (RDLeg 781/1986)",
     "confianza": "alta"
@@ -4094,10 +8904,10 @@ const QUESTIONS = {
     "q": "El art. 133 TRRL dispone que el procedimiento de selección de los funcionarios de Administración Local se ajustará a la legislación básica del Estado sobre función pública y se establecerá teniendo en cuenta la conexión entre el tipo de pruebas a superar y la adecuación a los puestos de trabajo que se hayan de desempeñar, incluyendo a tal efecto:",
     "options": [
       "Una entrevista personal, en todo caso",
-      "Las pruebas prácticas que sean precisas",
-      "Un curso selectivo de formación, en todo caso"
+      "Un curso selectivo de formación, en todo caso",
+      "Las pruebas prácticas que sean precisas"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 133 TRRL cierra el precepto exigiendo incluir «las pruebas prácticas que sean precisas» para garantizar la conexión entre las pruebas y los puestos a desempeñar.",
     "fuente": "Art. 133 TRRL (RDLeg 781/1986)",
     "confianza": "alta"
@@ -4105,11 +8915,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al art. 134.1 TRRL, las convocatorias serán siempre libres, si bien podrá reservarse para promoción interna:",
     "options": [
-      "Hasta un máximo del 25 por 100 de las plazas convocadas",
       "Hasta un máximo del 50 por 100 de las plazas convocadas",
+      "Hasta un máximo del 25 por 100 de las plazas convocadas",
       "Hasta un máximo del 40 por 100 de las plazas convocadas"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 134.1 TRRL permite reservar hasta un máximo del 50 por 100 de las plazas convocadas para promoción interna, en favor de funcionarios que reúnan la titulación y los demás requisitos exigidos en la convocatoria.",
     "fuente": "Art. 134.1 TRRL (RDLeg 781/1986)",
     "confianza": "alta"
@@ -4117,11 +8927,11 @@ const QUESTIONS = {
   {
     "q": "Entre los requisitos que el art. 135 TRRL exige para ser admitido a las pruebas de acceso a la Función Pública local figura estar en posesión del título exigible, o en condiciones de obtenerlo, en la fecha en que:",
     "options": [
-      "Termine el plazo de presentación de instancias",
       "Se celebre el primer ejercicio de la oposición",
+      "Termine el plazo de presentación de instancias",
       "Se produzca la toma de posesión"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 135.c) TRRL sitúa el momento de referencia de la titulación en la fecha en que termine el plazo de presentación de instancias, en cada caso.",
     "fuente": "Art. 135.c) TRRL (RDLeg 781/1986)",
     "confianza": "alta"
@@ -4201,11 +9011,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al art. 155.1 TRRL, el funcionario que preste sus servicios sucesivamente en distintos cuerpos o, en su caso, subescalas, clases o categorías:",
     "options": [
-      "Tendrá derecho a seguir percibiendo los trienios devengados en los anteriores",
       "Perderá los trienios devengados en los anteriores, que se computarán de nuevo desde el nuevo nombramiento",
-      "Conservará únicamente la mitad de los trienios devengados en los anteriores"
+      "Conservará únicamente la mitad de los trienios devengados en los anteriores",
+      "Tendrá derecho a seguir percibiendo los trienios devengados en los anteriores"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 155.1 TRRL garantiza el derecho a seguir percibiendo los trienios devengados en los cuerpos, subescalas, clases o categorías anteriores. Además, el apartado 2 dispone que si el cambio se produce antes de completar un trienio, la fracción de tiempo transcurrido se considera prestada en el nuevo.",
     "fuente": "Art. 155.1 TRRL (RDLeg 781/1986)",
     "confianza": "alta"
@@ -4213,11 +9023,11 @@ const QUESTIONS = {
   {
     "q": "De acuerdo con el art. 156 TRRL, el disfrute de las retribuciones complementarias:",
     "options": [
+      "No creará derechos adquiridos, salvo lo establecido legalmente respecto del grado consolidado en relación con el nivel de complemento de destino",
       "Creará derechos adquiridos transcurridos dos años de percepción continuada",
-      "No creará derechos adquiridos en ningún caso, sin excepción alguna",
-      "No creará derechos adquiridos, salvo lo establecido legalmente respecto del grado consolidado en relación con el nivel de complemento de destino"
+      "No creará derechos adquiridos en ningún caso, sin excepción alguna"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 156 TRRL niega el carácter de derecho adquirido a las retribuciones complementarias, con la única salvedad de lo legalmente establecido respecto del grado consolidado en relación con el nivel de complemento de destino.",
     "fuente": "Art. 156 TRRL (RDLeg 781/1986)",
     "confianza": "alta"
@@ -4249,11 +9059,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 167.4 TRRL, la creación de Escalas, Subescalas y clases de funcionarios y la clasificación de los mismos dentro de cada una de ellas se hará por:",
     "options": [
-      "El Ministerio competente en materia de Administración Local",
       "Cada Corporación, de acuerdo con lo previsto en el propio texto refundido",
+      "El Ministerio competente en materia de Administración Local",
       "La Comunidad Autónoma en cuyo territorio radique la Entidad local"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 167.4 TRRL atribuye a cada Corporación la creación de Escalas, Subescalas y clases y la clasificación de los funcionarios dentro de cada una de ellas, de acuerdo con lo previsto en la propia norma (en coherencia con el art. 129.3.b).",
     "fuente": "Art. 167.4 TRRL (RDLeg 781/1986)",
     "confianza": "alta"
@@ -4261,11 +9071,11 @@ const QUESTIONS = {
   {
     "q": "El art. 168 TRRL establece que la provisión de puestos de trabajo que, de conformidad con la relación aprobada, estén reservados o puedan ser desempeñados por funcionarios de carrera se regirá por las normas que dicte:",
     "options": [
-      "La Administración del Estado, en desarrollo de la legislación básica en materia de función pública local",
       "Cada Corporación local, en su reglamento orgánico",
+      "La Administración del Estado, en desarrollo de la legislación básica en materia de función pública local",
       "La Comunidad Autónoma respectiva, en todo caso"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 168 TRRL remite la provisión de esos puestos a las normas que, en desarrollo de la legislación básica en materia de función pública local, dicte la Administración del Estado.",
     "fuente": "Art. 168 TRRL (RDLeg 781/1986)",
     "confianza": "alta"
@@ -4357,11 +9167,11 @@ const QUESTIONS = {
   {
     "q": "El art. 169.2.d) TRRL prevé que el ingreso en la Subescala Subalterna se hará por concurso, oposición o concurso-oposición libre, según acuerdo de la Corporación, y con exigencia de:",
     "options": [
-      "El título de Graduado Escolar o equivalente",
       "El certificado de escolaridad",
+      "El título de Graduado Escolar o equivalente",
       "Ninguna titulación ni acreditación académica"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 169.2.d) TRRL es la única letra del precepto que no impone oposición libre como sistema único: admite concurso, oposición o concurso-oposición libre según acuerdo de la Corporación, exigiendo el certificado de escolaridad.",
     "fuente": "Art. 169.2.d) TRRL (RDLeg 781/1986)",
     "confianza": "alta"
@@ -4369,11 +9179,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 170.1 TRRL, tendrán la consideración de funcionarios de Administración Especial:",
     "options": [
-      "Los que tengan atribuido el desempeño de las funciones que constituyen el objeto peculiar de una carrera, profesión, arte u oficio",
       "Los que desempeñen funciones comunes al ejercicio de la actividad administrativa",
+      "Los que tengan atribuido el desempeño de las funciones que constituyen el objeto peculiar de una carrera, profesión, arte u oficio",
       "Los que ocupen puestos de trabajo reservados a funcionarios con habilitación de carácter nacional"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 170.1 TRRL define a los funcionarios de Administración Especial por el desempeño de las funciones que constituyen el objeto peculiar de una carrera, profesión, arte u oficio, frente a las funciones comunes de la actividad administrativa propias de la Escala de Administración General (art. 169.1).",
     "fuente": "Art. 170.1 TRRL (RDLeg 781/1986)",
     "confianza": "alta"
@@ -4418,10 +9228,10 @@ const QUESTIONS = {
     "q": "Según el art. 174 TRRL, se comprenderán en la clase de cometidos especiales el personal de las Bandas de Música y los restantes funcionarios que realicen tareas:",
     "options": [
       "De carácter predominantemente manual referidas a un determinado oficio, industria o arte",
-      "De carácter predominantemente no manual, no comprendidas en el artículo 171.1, en las diversas ramas o sectores de actuación de las Corporaciones locales",
-      "De vigilancia y custodia interior de oficinas y edificios de la Corporación"
+      "De vigilancia y custodia interior de oficinas y edificios de la Corporación",
+      "De carácter predominantemente no manual, no comprendidas en el artículo 171.1, en las diversas ramas o sectores de actuación de las Corporaciones locales"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 174 TRRL delimita la clase de cometidos especiales por las tareas de carácter predominantemente no manual no comprendidas en el art. 171.1, subdividiéndolas en categorías según el nivel de titulación exigido. Las tareas predominantemente manuales corresponden al Personal de Oficios (art. 175.1).",
     "fuente": "Art. 174 TRRL (RDLeg 781/1986)",
     "confianza": "alta"
@@ -4441,11 +9251,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al RD 128/2018, el ingreso en las subescalas de la habilitación de carácter nacional se lleva a cabo conforme a las bases y programas aprobados por el Ministerio de Hacienda y Función Pública, que designará los tribunales calificadores. La gestión y ejecución de los procesos selectivos corresponde a:",
     "options": [
-      "El Instituto Nacional de Administración Pública",
       "La Federación Española de Municipios y Provincias",
+      "El Instituto Nacional de Administración Pública",
       "La Comunidad Autónoma en cuyo territorio radiquen los puestos ofertados"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 19.2 RD 128/2018 atribuye al Ministerio de Hacienda y Función Pública la aprobación de las bases y programas y la designación de los tribunales calificadores, correspondiendo al Instituto Nacional de Administración Pública la gestión y ejecución de los procesos selectivos.",
     "fuente": "Art. 19.2 RD 128/2018",
     "confianza": "alta"
@@ -4454,10 +9264,10 @@ const QUESTIONS = {
     "q": "El acceso a las subescalas de Secretaría-Intervención, Secretaría e Intervención-Tesorería se efectúa mediante un proceso selectivo de dos fases. Quienes superan la primera fase (sistema selectivo de oposición):",
     "options": [
       "Ingresan directamente en la subescala como funcionarios de carrera",
-      "Serán nombrados funcionarios en prácticas",
-      "Serán nombrados funcionarios interinos hasta que superen el curso selectivo"
+      "Serán nombrados funcionarios interinos hasta que superen el curso selectivo",
+      "Serán nombrados funcionarios en prácticas"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 19.3.a) RD 128/2018 dispone que quienes superen la primera fase, consistente en un sistema selectivo de oposición, serán nombrados funcionarios en prácticas. La segunda fase implica la superación de un curso selectivo en el INAP o en Institutos o Escuelas de funcionarios de las Comunidades Autónomas con convenio al efecto.",
     "fuente": "Art. 19.3.a) RD 128/2018",
     "confianza": "alta"
@@ -4465,11 +9275,11 @@ const QUESTIONS = {
   {
     "q": "El acceso a la categoría superior dentro de las subescalas de Secretaría e Intervención-Tesorería exigirá, en todo caso, una antigüedad mínima de servicio activo en la categoría de entrada de:",
     "options": [
+      "Dos años",
       "Un año",
-      "Tres años",
-      "Dos años"
+      "Tres años"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 20.1 RD 128/2018 exige al menos dos años de antigüedad de servicio activo en la categoría de entrada de la subescala respectiva, computados a partir de la publicación del nombramiento en el «Boletín Oficial del Estado». El acceso se acuerda por el Ministerio de Hacienda y Función Pública, previa convocatoria pública.",
     "fuente": "Art. 20.1 RD 128/2018",
     "confianza": "alta"
@@ -4478,10 +9288,10 @@ const QUESTIONS = {
     "q": "El acceso a la categoría superior dentro de la misma subescala se llevará a cabo mediante alguno de los siguientes procedimientos:",
     "options": [
       "Únicamente mediante libre designación entre funcionarios de la categoría de entrada",
-      "Únicamente mediante concurso-oposición convocado por cada Corporación Local",
-      "Por concurso de méritos entre funcionarios de la categoría de entrada, o mediante la superación de pruebas de aptitud"
+      "Por concurso de méritos entre funcionarios de la categoría de entrada, o mediante la superación de pruebas de aptitud",
+      "Únicamente mediante concurso-oposición convocado por cada Corporación Local"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 20.2 RD 128/2018 prevé dos procedimientos: concurso de méritos, que se resuelve aplicando el baremo de méritos generales del art. 32.1, párrafos a) a f), o la superación de pruebas de aptitud, cuya gestión podrá encomendarse al INAP. El número de plazas por cada vía se concreta en la convocatoria.",
     "fuente": "Art. 20.2 RD 128/2018",
     "confianza": "alta"
@@ -4489,11 +9299,11 @@ const QUESTIONS = {
   {
     "q": "Para promocionar desde la subescala de Secretaría-Intervención a las subescalas de Secretaría o de Intervención-Tesorería, los funcionarios deberán, en todo caso:",
     "options": [
-      "Tener dos años de servicio activo en la subescala y poseer la titulación del artículo 18 del RD 128/2018",
       "Tener cinco años de servicio activo en la subescala y poseer la titulación del artículo 18 del RD 128/2018",
-      "Tener tres años de servicio activo en la subescala, sin exigencia de titulación adicional"
+      "Tener tres años de servicio activo en la subescala, sin exigencia de titulación adicional",
+      "Tener dos años de servicio activo en la subescala y poseer la titulación del artículo 18 del RD 128/2018"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 21.1 RD 128/2018 exige, en todo caso, dos años de servicio activo en la subescala de Secretaría-Intervención y poseer la titulación a que se refiere el art. 18. La promoción se produce mediante la superación de los correspondientes procesos selectivos, en los que puede establecerse la exención de pruebas sobre conocimientos ya exigidos.",
     "fuente": "Art. 21.1 RD 128/2018",
     "confianza": "alta"
@@ -4525,11 +9335,11 @@ const QUESTIONS = {
   {
     "q": "Transcurrido el plazo para la prescripción de una sanción disciplinaria impuesta a un funcionario con habilitación de carácter nacional, la cancelación de la anotación correspondiente:",
     "options": [
-      "Se acordará de oficio por el órgano competente para imponer la sanción, notificándolo a los interesados",
       "Requerirá solicitud previa del interesado dirigida al Ministerio de Hacienda y Función Pública",
-      "Se acordará de oficio por la Comunidad Autónoma, cualquiera que fuera el órgano sancionador"
+      "Se acordará de oficio por la Comunidad Autónoma, cualquiera que fuera el órgano sancionador",
+      "Se acordará de oficio por el órgano competente para imponer la sanción, notificándolo a los interesados"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 68 RD 128/2018 dispone que, transcurrido el plazo para la prescripción de la sanción, el órgano competente para imponerla acordará de oficio la cancelación de la anotación en el expediente personal y lo notificará a los interesados.",
     "fuente": "Art. 68 RD 128/2018",
     "confianza": "alta"
@@ -4537,11 +9347,11 @@ const QUESTIONS = {
   {
     "q": "Las permutas de puestos entre dos funcionarios de Administración Local con habilitación de carácter nacional, cuando los puestos exceden del ámbito territorial de una Comunidad Autónoma, podrán ser autorizadas por:",
     "options": [
-      "La Comunidad Autónoma en la que radique el puesto de mayor población",
       "La Dirección General de la Función Pública",
+      "La Comunidad Autónoma en la que radique el puesto de mayor población",
       "El Pleno de cada una de las Corporaciones Locales afectadas"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 27.1.c).3.º RD 128/2018 permite a las Comunidades Autónomas autorizar las permutas cuando ambos puestos se encuentren en su ámbito territorial, de acuerdo con su normativa específica; cuando excedan de dicho ámbito, podrá autorizarlas la Dirección General de la Función Pública. La permuta se considera nombramiento de carácter definitivo.",
     "fuente": "Art. 27.1.c).3.º RD 128/2018",
     "confianza": "alta"
@@ -4550,10 +9360,10 @@ const QUESTIONS = {
     "q": "Los concursos ordinarios de méritos para la provisión de puestos reservados a funcionarios con habilitación de carácter nacional se convocan:",
     "options": [
       "Con carácter bienal por el Pleno de las Corporaciones Locales, publicándose por el Ministerio",
-      "Con carácter anual por el órgano competente de la Comunidad Autónoma, publicándose por cada Corporación",
-      "Con carácter anual por los Presidentes de las Corporaciones Locales y se publican simultáneamente por el órgano competente de la Comunidad Autónoma"
+      "Con carácter anual por los Presidentes de las Corporaciones Locales y se publican simultáneamente por el órgano competente de la Comunidad Autónoma",
+      "Con carácter anual por el órgano competente de la Comunidad Autónoma, publicándose por cada Corporación"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 29.1 RD 128/2018 atribuye la convocatoria anual de los concursos ordinarios a los Presidentes de las Corporaciones Locales, con publicación simultánea por el órgano competente de la Comunidad Autónoma.",
     "fuente": "Art. 29.1 RD 128/2018",
     "confianza": "alta"
@@ -4561,11 +9371,11 @@ const QUESTIONS = {
   {
     "q": "La duración de los procedimientos de provisión de puestos reservados a funcionarios con habilitación de carácter nacional no podrá exceder de:",
     "options": [
-      "Seis meses a partir de la publicación conjunta en el «Boletín Oficial del Estado» de las respectivas convocatorias",
       "Tres meses a partir de la publicación conjunta en el «Boletín Oficial del Estado» de las respectivas convocatorias",
-      "Un año a partir de la publicación conjunta en el «Boletín Oficial del Estado» de las respectivas convocatorias"
+      "Un año a partir de la publicación conjunta en el «Boletín Oficial del Estado» de las respectivas convocatorias",
+      "Seis meses a partir de la publicación conjunta en el «Boletín Oficial del Estado» de las respectivas convocatorias"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 29.3 RD 128/2018 fija en seis meses el plazo máximo de duración de los procedimientos de provisión, a contar desde la publicación conjunta en el «Boletín Oficial del Estado» de las respectivas convocatorias.",
     "fuente": "Art. 29.3 RD 128/2018",
     "confianza": "alta"
@@ -4586,10 +9396,10 @@ const QUESTIONS = {
     "q": "Las bases de cada concurso ordinario, configuradas con arreglo al modelo de convocatoria y bases comunes anexo al RD 128/2018, serán aprobadas por:",
     "options": [
       "El Pleno de la Corporación respectiva",
-      "El órgano competente de la Comunidad Autónoma",
-      "El Alcalde o Presidente de la Corporación respectiva"
+      "El Alcalde o Presidente de la Corporación respectiva",
+      "El órgano competente de la Comunidad Autónoma"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 35 RD 128/2018 atribuye la aprobación de las bases de cada concurso al Alcalde o Presidente de la Corporación respectiva, con el contenido que el propio artículo enumera (clase de los puestos, subescala y categoría, niveles y complementos, méritos específicos, composición del tribunal y, en su caso, previsión de entrevista).",
     "fuente": "Art. 35 RD 128/2018",
     "confianza": "alta"
@@ -4609,11 +9419,11 @@ const QUESTIONS = {
   {
     "q": "Los Presidentes de las Corporaciones Locales con puestos vacantes deben aprobar la convocatoria de concurso ordinario anual y remitirla a la Comunidad Autónoma respectiva:",
     "options": [
-      "Dentro de los diez primeros días de enero de cada año, para su publicación conjunta antes del 1 de marzo",
       "Dentro de los diez primeros días de febrero de cada año, para su publicación conjunta dentro del mismo mes",
+      "Dentro de los diez primeros días de enero de cada año, para su publicación conjunta antes del 1 de marzo",
       "Dentro del primer trimestre de cada año, para su publicación conjunta antes del 30 de junio"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 37 RD 128/2018 obliga a remitir la convocatoria a la Comunidad Autónoma dentro de los diez primeros días de febrero de cada año, para su publicación conjunta dentro del mismo mes. El Ministerio publica en el BOE un extracto de todas las convocatorias, que sirve de base para el cómputo de plazos.",
     "fuente": "Art. 37 RD 128/2018",
     "confianza": "alta"
@@ -4621,11 +9431,11 @@ const QUESTIONS = {
   {
     "q": "El plazo de presentación de solicitudes para tomar parte en los concursos de provisión de puestos reservados es de:",
     "options": [
-      "Quince días hábiles a partir de la publicación de la convocatoria en el «Boletín Oficial del Estado»",
       "Veinte días hábiles a partir de la publicación de la convocatoria en el diario oficial de la Comunidad Autónoma",
+      "Quince días hábiles a partir de la publicación de la convocatoria en el «Boletín Oficial del Estado»",
       "Diez días hábiles a partir de la publicación de la convocatoria en el «Boletín Oficial del Estado»"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 38.1 RD 128/2018 fija el plazo en quince días hábiles a partir de la publicación de la convocatoria en el «Boletín Oficial del Estado». En igual plazo los concursantes comunican al Ministerio el orden de prelación de los puestos solicitados si concursan a más de uno.",
     "fuente": "Art. 38.1 RD 128/2018",
     "confianza": "alta"
@@ -4634,10 +9444,10 @@ const QUESTIONS = {
     "q": "El Tribunal de valoración del concurso ordinario, de composición técnica incluido su Presidente:",
     "options": [
       "Es nombrado por el órgano competente de la Comunidad Autónoma y se compone de un número impar de vocales",
-      "Es nombrado por la Corporación y se compone de un número par de vocales, uno de ellos a propuesta de la Comunidad Autónoma si desea ejercitar tal facultad",
-      "Es nombrado por el Ministerio de Hacienda y Función Pública y todos sus vocales han de ser funcionarios con habilitación de carácter nacional"
+      "Es nombrado por el Ministerio de Hacienda y Función Pública y todos sus vocales han de ser funcionarios con habilitación de carácter nacional",
+      "Es nombrado por la Corporación y se compone de un número par de vocales, uno de ellos a propuesta de la Comunidad Autónoma si desea ejercitar tal facultad"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 39.1 RD 128/2018 dispone que el Tribunal es nombrado por la Corporación y está compuesto por un número par de vocales, uno de los cuales se nombra a propuesta de la Comunidad Autónoma si ésta desea ejercitar tal facultad. Al menos un vocal debe ser funcionario con habilitación de carácter nacional de igual o superior categoría que la del puesto convocado.",
     "fuente": "Art. 39.1 RD 128/2018",
     "confianza": "alta"
@@ -4645,11 +9455,11 @@ const QUESTIONS = {
   {
     "q": "En caso de que dos o más concursantes obtengan la misma puntuación total en un concurso ordinario, el empate se resolverá en primer lugar a favor del candidato que hubiera obtenido:",
     "options": [
+      "Mayor puntuación global por méritos específicos",
       "Mayor puntuación global por méritos generales",
-      "Mejor número de orden en el proceso selectivo de ingreso",
-      "Mayor puntuación global por méritos específicos"
+      "Mejor número de orden en el proceso selectivo de ingreso"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 39.3 RD 128/2018 establece el siguiente orden de desempate en el concurso ordinario: méritos específicos, méritos autonómicos, méritos generales, orden de prelación de los méritos generales según su enumeración en el art. 32 y, en última instancia, orden de prelación en el proceso selectivo.",
     "fuente": "Art. 39.3 RD 128/2018",
     "confianza": "alta"
@@ -4658,10 +9468,10 @@ const QUESTIONS = {
     "q": "La resolución del concurso ordinario, comprensiva de la totalidad de los candidatos no excluidos según su orden de puntuación, se remitirá por la Corporación al Ministerio de Hacienda y Función Pública dentro de:",
     "options": [
       "Los quince días hábiles siguientes a la fecha de la resolución del concurso",
-      "Un mes desde la publicación de la convocatoria en el «Boletín Oficial del Estado»",
-      "Los treinta días hábiles siguientes a la fecha de finalización del plazo de presentación de solicitudes"
+      "Los treinta días hábiles siguientes a la fecha de finalización del plazo de presentación de solicitudes",
+      "Un mes desde la publicación de la convocatoria en el «Boletín Oficial del Estado»"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 40.1 RD 128/2018 fija ese plazo en treinta días hábiles siguientes a la finalización del plazo de presentación de solicitudes. Transcurrido dicho plazo, el Ministerio coordina las resoluciones coincidentes y formaliza los nombramientos en el plazo de un mes, publicándolos en el BOE (art. 40.2).",
     "fuente": "Art. 40.1 RD 128/2018",
     "confianza": "alta"
@@ -4669,11 +9479,11 @@ const QUESTIONS = {
   {
     "q": "El plazo de toma de posesión en el nuevo destino obtenido por concurso es de:",
     "options": [
-      "Tres días hábiles si se trata de puestos de la misma localidad, o de un mes si se trata de primer destino o de puestos en localidad distinta",
       "Cinco días hábiles si se trata de puestos de la misma localidad, o de quince días hábiles si se trata de localidad distinta",
-      "Tres días naturales si se trata de puestos de la misma localidad, o de dos meses si se trata de primer destino o de localidad distinta"
+      "Tres días naturales si se trata de puestos de la misma localidad, o de dos meses si se trata de primer destino o de localidad distinta",
+      "Tres días hábiles si se trata de puestos de la misma localidad, o de un mes si se trata de primer destino o de puestos en localidad distinta"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 41.1 RD 128/2018 establece tres días hábiles para puestos de la misma localidad y un mes para el primer destino o puestos en localidad distinta. El plazo se cuenta desde el día siguiente al cese, que debe efectuarse dentro de los tres días hábiles siguientes a la publicación de la resolución del concurso en el BOE.",
     "fuente": "Art. 41.1 RD 128/2018",
     "confianza": "alta"
@@ -4681,11 +9491,11 @@ const QUESTIONS = {
   {
     "q": "Por necesidades del servicio, mediante acuerdo de los Presidentes de las Corporaciones en que haya de cesar y tomar posesión el concursante, el cese y la toma de posesión podrán diferirse hasta un máximo de:",
     "options": [
-      "Un mes",
       "Tres meses",
+      "Un mes",
       "Seis meses"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 41.2 RD 128/2018 permite diferir el cese y la toma de posesión hasta un máximo de tres meses por necesidades del servicio, mediante acuerdo de los Presidentes de ambas Corporaciones, debiendo el segundo de ellos dar cuenta del acuerdo a la Comunidad Autónoma.",
     "fuente": "Art. 41.2 RD 128/2018",
     "confianza": "alta"
@@ -4705,11 +9515,11 @@ const QUESTIONS = {
   {
     "q": "La convocatoria anual de los puestos vacantes que, encontrándose vacantes, no hubiesen sido convocados por las Corporaciones Locales en el concurso ordinario o hubiesen quedado desiertos en él, corresponde efectuarla supletoriamente a:",
     "options": [
-      "El Ministerio de Hacienda y Función Pública, mediante concurso unitario",
       "La Comunidad Autónoma respectiva, mediante concurso subsidiario de ámbito autonómico",
-      "La Diputación Provincial o entidad equivalente, a través de sus servicios de asistencia"
+      "La Diputación Provincial o entidad equivalente, a través de sus servicios de asistencia",
+      "El Ministerio de Hacienda y Función Pública, mediante concurso unitario"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 43.1 RD 128/2018 encomienda al Ministerio de Hacienda y Función Pública la convocatoria anual supletoria (concurso unitario) de los puestos no convocados, los que quedaron desiertos, los no adjudicados por otras causas y los que resultaron vacantes tras la convocatoria del concurso ordinario cuando se solicite expresamente su inclusión.",
     "fuente": "Art. 43.1 RD 128/2018",
     "confianza": "alta"
@@ -4717,11 +9527,11 @@ const QUESTIONS = {
   {
     "q": "En cuanto a la participación en el concurso unitario, el RD 128/2018 dispone que:",
     "options": [
+      "Están obligados a participar los funcionarios con nombramiento provisional",
       "Está prohibida la participación de los funcionarios con nombramiento provisional",
-      "La participación es siempre voluntaria, sin excepción alguna",
-      "Están obligados a participar los funcionarios con nombramiento provisional"
+      "La participación es siempre voluntaria, sin excepción alguna"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 44.3 RD 128/2018 remite en materia de participación al art. 36, si bien establece que estarán obligados a participar en el concurso unitario los funcionarios con nombramiento provisional.",
     "fuente": "Art. 44.3 RD 128/2018",
     "confianza": "alta"
@@ -4729,11 +9539,11 @@ const QUESTIONS = {
   {
     "q": "La convocatoria para cubrir un puesto por el sistema de libre designación corresponde al Presidente de la Corporación y deberá realizarse en el plazo máximo de:",
     "options": [
-      "Tres meses desde que el puesto se hubiera clasificado a libre designación o hubiese resultado vacante",
       "Un mes desde que el puesto se hubiera clasificado a libre designación o hubiese resultado vacante",
+      "Tres meses desde que el puesto se hubiera clasificado a libre designación o hubiese resultado vacante",
       "Seis meses desde que el puesto se hubiera clasificado a libre designación o hubiese resultado vacante"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 46.2 RD 128/2018 fija el plazo máximo de tres meses. El Presidente remite la convocatoria al órgano competente de la Comunidad Autónoma para su publicación y remisión al Ministerio en el plazo máximo de diez días. Si no convoca en plazo, la Comunidad Autónoma le requerirá, advirtiéndole de que se iniciará un procedimiento de modificación de las características del puesto y su forma de provisión.",
     "fuente": "Art. 46.2 RD 128/2018",
     "confianza": "alta"
@@ -4741,11 +9551,11 @@ const QUESTIONS = {
   {
     "q": "En el procedimiento de libre designación, concluido el plazo de quince días hábiles de presentación de solicitudes, el Presidente de la Corporación dictará la resolución correspondiente:",
     "options": [
-      "En el plazo de un mes, dando cuenta al Pleno de la Corporación",
       "En el plazo de quince días hábiles, dando cuenta al órgano competente de la Comunidad Autónoma",
-      "En el plazo de dos meses, previa autorización del Pleno de la Corporación"
+      "En el plazo de dos meses, previa autorización del Pleno de la Corporación",
+      "En el plazo de un mes, dando cuenta al Pleno de la Corporación"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 46.3 RD 128/2018 establece que las solicitudes se dirigen al órgano convocante dentro de los quince días hábiles siguientes a la publicación y que el Presidente resuelve en el plazo de un mes, dando cuenta al Pleno de la Corporación, previa constatación de los requisitos y a la vista de la trayectoria profesional y los méritos acreditados.",
     "fuente": "Art. 46.3 RD 128/2018",
     "confianza": "alta"
@@ -4753,11 +9563,11 @@ const QUESTIONS = {
   {
     "q": "El funcionario nombrado para un puesto de libre designación podrá ser cesado con carácter discrecional por el mismo órgano que lo nombró, garantizándosele un puesto de su mismo grupo de titulación adecuado a las funciones de su subescala que no sea inferior:",
     "options": [
-      "En más de un nivel al del puesto para el que fue designado",
       "En más de dos niveles al del puesto para el que fue designado",
+      "En más de un nivel al del puesto para el que fue designado",
       "En más de tres niveles al del puesto para el que fue designado"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 47.1 RD 128/2018 garantiza un puesto del mismo grupo de titulación, no inferior en más de dos niveles al del puesto para el que fue designado y con el complemento específico normalizado entre los puestos reservados. En dicho puesto se puede permanecer hasta obtener otro (art. 47.2) y el acuerdo de cese debe motivarse por referencia al desempeño profesional (art. 47.4).",
     "fuente": "Art. 47.1 RD 128/2018",
     "confianza": "alta"
@@ -4766,10 +9576,10 @@ const QUESTIONS = {
     "q": "En los supuestos de reingreso al servicio activo, de supresión de puestos de colaboración o de cese en puestos de libre designación, la Comunidad Autónoma garantizará un nombramiento provisional. En estos casos:",
     "options": [
       "La comisión de servicios tendrá preferencia sobre el nombramiento provisional",
-      "La acumulación tendrá preferencia sobre el nombramiento provisional",
-      "Tendrá preferencia la provisión del puesto por nombramiento provisional sobre el resto de nombramientos de carácter no definitivo"
+      "Tendrá preferencia la provisión del puesto por nombramiento provisional sobre el resto de nombramientos de carácter no definitivo",
+      "La acumulación tendrá preferencia sobre el nombramiento provisional"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 49.1 RD 128/2018 garantiza en esos supuestos un nombramiento provisional, preferentemente en un puesto de la misma subescala y categoría y previo informe de la Corporación Local, estableciendo expresamente la preferencia del nombramiento provisional sobre el resto de nombramientos de carácter no definitivo.",
     "fuente": "Art. 49.1 RD 128/2018",
     "confianza": "alta"
@@ -4778,10 +9588,10 @@ const QUESTIONS = {
     "q": "Cuando no fuera posible cubrir un puesto mediante nombramiento provisional con un funcionario de la subescala y categoría correspondientes al mismo, circunstancia que deberá quedar acreditada en el expediente:",
     "options": [
       "No podrá efectuarse nombramiento provisional alguno y habrá de acudirse necesariamente a un nombramiento interino",
-      "Podrá efectuarse el nombramiento provisional a funcionario de diferente categoría dentro de la subescala y, si tampoco fuera posible, a funcionario de diferente subescala",
-      "Podrá efectuarse el nombramiento provisional a un funcionario propio de la Corporación del subgrupo A1"
+      "Podrá efectuarse el nombramiento provisional a un funcionario propio de la Corporación del subgrupo A1",
+      "Podrá efectuarse el nombramiento provisional a funcionario de diferente categoría dentro de la subescala y, si tampoco fuera posible, a funcionario de diferente subescala"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 49.2 RD 128/2018 permite, acreditada la imposibilidad, el nombramiento provisional a funcionario de diferente categoría dentro de la subescala y, en su defecto, a funcionario de diferente subescala.",
     "fuente": "Art. 49.2 RD 128/2018",
     "confianza": "alta"
@@ -4825,11 +9635,11 @@ const QUESTIONS = {
   {
     "q": "En los nombramientos accidentales, en las Corporaciones Locales de más de 5.000 habitantes el nombrado será, en todo caso:",
     "options": [
+      "Un funcionario de carrera perteneciente al subgrupo A1",
       "Un funcionario de carrera de la propia Corporación perteneciente al subgrupo A2",
-      "Un funcionario, de carrera o interino, con titulación universitaria",
-      "Un funcionario de carrera perteneciente al subgrupo A1"
+      "Un funcionario, de carrera o interino, con titulación universitaria"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 52.1 RD 128/2018 permite a las Corporaciones solicitar el nombramiento accidental de uno de sus funcionarios con preparación técnica adecuada y, siempre que sea posible, del subgrupo A1 o con titulación universitaria; en las Corporaciones de más de 5.000 habitantes será en todo caso un funcionario de carrera del subgrupo A1.",
     "fuente": "Art. 52.1 RD 128/2018",
     "confianza": "alta"
@@ -4849,11 +9659,11 @@ const QUESTIONS = {
   {
     "q": "El funcionario interino cuyo nombramiento propongan las Corporaciones Locales a la Comunidad Autónoma para un puesto reservado deberá estar en posesión de:",
     "options": [
-      "La titulación exigida para el acceso al subgrupo A1",
       "La titulación exigida para el acceso al subgrupo A2",
-      "La habilitación de carácter nacional en la subescala correspondiente al puesto"
+      "La habilitación de carácter nacional en la subescala correspondiente al puesto",
+      "La titulación exigida para el acceso al subgrupo A1"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 53.1 RD 128/2018 exige que el funcionario interino esté en posesión de la titulación exigida para el acceso al subgrupo A1, con respeto a los principios de igualdad, mérito, capacidad y publicidad. La resolución del nombramiento corresponde al órgano competente de la Comunidad Autónoma, debiendo acreditarse en el expediente la imposibilidad de proveer el puesto por funcionario con habilitación de carácter nacional (art. 53.3).",
     "fuente": "Art. 53.1 RD 128/2018",
     "confianza": "alta"
@@ -4861,11 +9671,11 @@ const QUESTIONS = {
   {
     "q": "Las comisiones circunstanciales para la realización de cometidos especiales, en casos de ausencia, enfermedad o abstención legal o reglamentaria del funcionario con habilitación de carácter nacional, están previstas en municipios de menos de:",
     "options": [
-      "5.000 habitantes",
       "1.000 habitantes",
+      "5.000 habitantes",
       "2.000 habitantes"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 55 RD 128/2018 las prevé en municipios de menos de 1.000 habitantes, a petición de la Corporación interesada; las concede la Administración o Corporación Local que atienda los servicios de asistencia, por el tiempo imprescindible.",
     "fuente": "Art. 55 RD 128/2018",
     "confianza": "alta"
@@ -4897,11 +9707,11 @@ const QUESTIONS = {
   {
     "q": "La incoación de expedientes disciplinarios a funcionarios con habilitación de carácter nacional por hechos que pudieran ser constitutivos de faltas muy graves tipificadas en la normativa básica estatal corresponde a:",
     "options": [
+      "El Ministerio de Hacienda y Función Pública",
       "La Comunidad Autónoma respecto de los funcionarios de Corporaciones Locales de su ámbito territorial",
-      "El órgano correspondiente de la Corporación donde el funcionario hubiera cometido los hechos",
-      "El Ministerio de Hacienda y Función Pública"
+      "El órgano correspondiente de la Corporación donde el funcionario hubiera cometido los hechos"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 61.1 RD 128/2018 distribuye la competencia de incoación: la Corporación donde se cometieron los hechos, si pudieran ser falta leve; la Comunidad Autónoma, salvo cuando los hechos pudieran ser faltas muy graves de la normativa básica estatal; y el Ministerio de Hacienda y Función Pública en este último caso. Esa competencia estatal no alcanza a las faltas muy graves tipificadas sólo en leyes autonómicas (art. 61.2).",
     "fuente": "Art. 61.1.c) RD 128/2018",
     "confianza": "alta"
@@ -4921,11 +9731,11 @@ const QUESTIONS = {
   {
     "q": "La sanción de destitución implica la pérdida del puesto de trabajo con prohibición de obtener destino en la misma Corporación en la que se cometieron las faltas, en el plazo que se fije, con el máximo de:",
     "options": [
-      "Seis años para las faltas muy graves y tres años para las faltas graves",
       "Tres años para las faltas muy graves y un año para las faltas graves",
-      "Diez años para las faltas muy graves y cinco años para las faltas graves"
+      "Diez años para las faltas muy graves y cinco años para las faltas graves",
+      "Seis años para las faltas muy graves y tres años para las faltas graves"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 64.1.b) RD 128/2018 fija el máximo en seis años para las faltas muy graves y tres años para las graves. El art. 65 precisa que el destituido puede obtener nombramiento provisional o concursar, mientras dure la sanción, a puestos de Corporación distinta de aquella en la que fue sancionado.",
     "fuente": "Art. 64.1.b) RD 128/2018",
     "confianza": "alta"
@@ -4933,11 +9743,11 @@ const QUESTIONS = {
   {
     "q": "La suspensión firme de funciones, con una duración máxima de seis años, implica la pérdida del puesto de trabajo cuando es superior a:",
     "options": [
+      "Seis meses",
       "Un año",
-      "Tres meses",
-      "Seis meses"
+      "Tres meses"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 64.1.c) RD 128/2018 establece que la suspensión firme de funciones tiene una duración máxima de seis años e implica la pérdida del puesto de trabajo cuando es superior a seis meses.",
     "fuente": "Art. 64.1.c) RD 128/2018",
     "confianza": "alta"
@@ -4945,11 +9755,11 @@ const QUESTIONS = {
   {
     "q": "En los expedientes disciplinarios cuya incoación corresponde al Ministerio de Hacienda y Función Pública, el plazo para que la Administración donde el funcionario presta servicios contteste a la solicitud de autorización de nombramiento de instructor es de diez días hábiles, transcurrido el cual sin pronunciamiento:",
     "options": [
-      "Se entenderá concedida la autorización",
       "Se entenderá denegada la autorización",
+      "Se entenderá concedida la autorización",
       "Deberá reiterarse la solicitud por otros diez días hábiles"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 67.4.d) RD 128/2018 establece que, en los expedientes incoados por el Ministerio, el plazo para contestar a la solicitud de autorización de nombramiento de instructor es de diez días hábiles, entendiéndose concedida la autorización transcurrido dicho plazo sin pronunciamiento. La instrucción se efectúa por un funcionario de carrera del subgrupo A1 con conocimientos en la materia (art. 67.4.b).",
     "fuente": "Art. 67.4.d) RD 128/2018",
     "confianza": "alta"
@@ -4959,11 +9769,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 14 a) del TREBEP, los empleados públicos tienen derecho a la inamovilidad en la condición de:",
     "options": [
-      "Funcionario de carrera",
       "Personal eventual",
-      "Personal laboral temporal"
+      "Personal laboral temporal",
+      "Funcionario de carrera"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "Art. 14 a) TREBEP: los empleados públicos tienen derecho 'A la inamovilidad en la condición de funcionario de carrera.'"
   },
   {
@@ -4979,21 +9789,21 @@ const QUESTIONS = {
   {
     "q": "Según el art. 14 c) del TREBEP, los empleados públicos tienen derecho a la progresión en la carrera profesional y promoción interna según principios constitucionales de:",
     "options": [
-      "Igualdad, mérito y capacidad",
       "Antigüedad exclusivamente, sin otro criterio",
+      "Igualdad, mérito y capacidad",
       "Discrecionalidad absoluta del superior jerárquico"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "Art. 14 c) TREBEP: derecho 'A la progresión en la carrera profesional y promoción interna según principios constitucionales de igualdad, mérito y capacidad mediante la implantación de sistemas objetivos y transparentes de evaluación.'"
   },
   {
     "q": "Según el art. 14 g) del TREBEP, los empleados públicos tienen derecho a la formación continua y a la actualización permanente de sus conocimientos y capacidades profesionales, preferentemente:",
     "options": [
-      "En horario laboral",
       "Fuera del horario laboral, sin ninguna excepción",
-      "Únicamente durante los períodos vacacionales"
+      "Únicamente durante los períodos vacacionales",
+      "En horario laboral"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "Art. 14 g) TREBEP: derecho 'A la formación continua y a la actualización permanente de sus conocimientos y capacidades profesionales, preferentemente en horario laboral.'"
   },
   {
@@ -5009,21 +9819,21 @@ const QUESTIONS = {
   {
     "q": "Según el art. 14 h) del TREBEP, los empleados públicos tienen derecho al respeto de su intimidad, orientación e identidad sexual, especialmente frente a:",
     "options": [
-      "El acoso sexual, por razón de sexo, moral y laboral",
       "Cualquier tipo de evaluación de su desempeño profesional",
+      "El acoso sexual, por razón de sexo, moral y laboral",
       "La rotación ordinaria de puestos de trabajo"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "Art. 14 h) TREBEP: derecho al respeto de su intimidad y dignidad en el trabajo, 'especialmente frente al acoso sexual y por razón de sexo, moral y laboral.'"
   },
   {
     "q": "Según el art. 15 del TREBEP, los empleados públicos tienen, entre otros, como derechos individuales ejercidos de forma colectiva, el derecho a:",
     "options": [
-      "La libertad sindical",
       "Percibir individualmente cualquier retribución sin control alguno",
-      "La inamovilidad absoluta en cualquier puesto de trabajo elegido"
+      "La inamovilidad absoluta en cualquier puesto de trabajo elegido",
+      "La libertad sindical"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "Art. 15 TREBEP: entre los derechos individuales ejercidos colectivamente se incluye la libertad sindical, junto con la negociación colectiva y la participación en la determinación de las condiciones de trabajo."
   },
   {
@@ -5039,21 +9849,21 @@ const QUESTIONS = {
   {
     "q": "¿Cómo se denomina el Capítulo I del Título III del TREBEP, que contiene el art. 14?",
     "options": [
-      "Derechos de los empleados públicos",
       "Deberes de los empleados públicos",
+      "Derechos de los empleados públicos",
       "Régimen disciplinario"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El Capítulo I del Título III del TREBEP se titula 'Derechos de los empleados públicos' y comprende los arts. 14 y 15."
   },
   {
     "q": "Según el art. 22.1 del TREBEP, las retribuciones de los funcionarios de carrera se clasifican en:",
     "options": [
-      "Básicas y complementarias",
       "Únicamente básicas, sin categoría complementaria",
-      "Fijas y variables según el mérito"
+      "Fijas y variables según el mérito",
+      "Básicas y complementarias"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "Art. 22.1 TREBEP: 'Las retribuciones de los funcionarios de carrera se clasifican en básicas y complementarias.'"
   },
   {
@@ -5069,21 +9879,21 @@ const QUESTIONS = {
   {
     "q": "Según el art. 22.2 del TREBEP, dentro de las retribuciones básicas están comprendidos los componentes de:",
     "options": [
-      "Sueldo y trienios",
       "Complemento de destino y de productividad",
+      "Sueldo y trienios",
       "Gratificaciones por servicios extraordinarios"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "Art. 22.2 TREBEP: dentro de las retribuciones básicas están comprendidos los componentes de sueldo y trienios de las pagas extraordinarias."
   },
   {
     "q": "Según el art. 22.3 del TREBEP, las retribuciones complementarias retribuyen las características de los puestos de trabajo, la carrera profesional o:",
     "options": [
-      "El desempeño, rendimiento o resultados alcanzados por el funcionario",
       "Únicamente la antigüedad en el cuerpo o escala",
-      "Exclusivamente el nivel de estudios acreditado en el momento del ingreso"
+      "Exclusivamente el nivel de estudios acreditado en el momento del ingreso",
+      "El desempeño, rendimiento o resultados alcanzados por el funcionario"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "Art. 22.3 TREBEP: las retribuciones complementarias retribuyen las características de los puestos de trabajo, la carrera profesional o el desempeño, rendimiento o resultados alcanzados por el funcionario."
   },
   {
@@ -5099,21 +9909,21 @@ const QUESTIONS = {
   {
     "q": "Según el art. 23 del TREBEP, las retribuciones básicas se fijan en:",
     "options": [
-      "La Ley de Presupuestos Generales del Estado",
       "Cada convenio colectivo local de forma independiente",
+      "La Ley de Presupuestos Generales del Estado",
       "Un decreto del Ministerio de Hacienda al margen de la Ley de Presupuestos"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "Art. 23 TREBEP: 'Las retribuciones básicas, que se fijan en la Ley de Presupuestos Generales del Estado, estarán integradas única y exclusivamente por el sueldo y los trienios.'"
   },
   {
     "q": "Según el art. 23 a) del TREBEP, el sueldo se asigna a cada:",
     "options": [
-      "Subgrupo o Grupo de clasificación profesional, en el supuesto de que éste no tenga Subgrupo",
       "Puesto de trabajo concreto, con independencia del cuerpo o escala",
-      "Funcionario individualmente, según su rendimiento personal"
+      "Funcionario individualmente, según su rendimiento personal",
+      "Subgrupo o Grupo de clasificación profesional, en el supuesto de que éste no tenga Subgrupo"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "Art. 23 a) TREBEP: el sueldo es 'el asignado a cada Subgrupo o Grupo de clasificación profesional, en el supuesto de que éste no tenga Subgrupo.'"
   },
   {
@@ -5129,21 +9939,21 @@ const QUESTIONS = {
   {
     "q": "Según el art. 24 del TREBEP, la cuantía y estructura de las retribuciones complementarias de los funcionarios se establece por:",
     "options": [
-      "Las correspondientes leyes de cada Administración Pública",
       "El propio TREBEP de forma exhaustiva y cerrada, sin remisión posterior",
+      "Las correspondientes leyes de cada Administración Pública",
       "Un acuerdo exclusivamente sindical sin intervención legal"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "Art. 24 TREBEP: la cuantía y estructura de las retribuciones complementarias se establece por las correspondientes leyes de cada Administración Pública, atendiendo a varios factores."
   },
   {
     "q": "Según el art. 24 a) del TREBEP, entre los factores que determinan las retribuciones complementarias se encuentra la progresión alcanzada por el funcionario dentro de:",
     "options": [
-      "El sistema de carrera administrativa",
       "El escalafón de antigüedad exclusivamente",
-      "La clasificación de su titulación académica"
+      "La clasificación de su titulación académica",
+      "El sistema de carrera administrativa"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "Art. 24 a) TREBEP: entre los factores de las retribuciones complementarias se incluye 'La progresión alcanzada por el funcionario dentro del sistema de carrera administrativa.'"
   },
   {
@@ -5159,21 +9969,21 @@ const QUESTIONS = {
   {
     "q": "Según el art. 27 del TREBEP, las retribuciones del personal laboral se determinan de acuerdo con:",
     "options": [
-      "La legislación laboral, el convenio colectivo aplicable y el contrato de trabajo",
       "Exclusivamente las normas aplicables a los funcionarios de carrera",
+      "La legislación laboral, el convenio colectivo aplicable y el contrato de trabajo",
       "Un acuerdo verbal individual sin ningún marco normativo"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "Art. 27 TREBEP: 'Las retribuciones del personal laboral se determinarán de acuerdo con la legislación laboral, el convenio colectivo que sea aplicable y el contrato de trabajo.'"
   },
   {
     "q": "¿Qué relación existe entre el 'sueldo' y los 'trienios', ambos como componentes de las retribuciones básicas del art. 23 TREBEP?",
     "options": [
-      "El sueldo depende del Subgrupo o Grupo de clasificación profesional, mientras que los trienios retribuyen la antigüedad, siendo ambos igual de cuantía para todo el Subgrupo o Grupo",
       "Ambos conceptos son exactamente sinónimos sin ninguna diferencia",
-      "Los trienios dependen del puesto de trabajo concreto ocupado, no de la antigüedad"
+      "Los trienios dependen del puesto de trabajo concreto ocupado, no de la antigüedad",
+      "El sueldo depende del Subgrupo o Grupo de clasificación profesional, mientras que los trienios retribuyen la antigüedad, siendo ambos igual de cuantía para todo el Subgrupo o Grupo"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El sueldo retribuye la pertenencia a un Subgrupo o Grupo de clasificación profesional; los trienios retribuyen específicamente la antigüedad, devengándose una cantidad igual para todo el Subgrupo o Grupo cada tres años de servicio."
   },
   {
@@ -5189,21 +9999,21 @@ const QUESTIONS = {
   {
     "q": "Según el art. 48 a) del TREBEP, el permiso por accidente o enfermedad graves del cónyuge, pareja de hecho o parientes hasta el primer grado de consanguinidad o afinidad, cuando precise reposo domiciliario, es de:",
     "options": [
-      "Cinco días hábiles",
       "Dos días hábiles",
+      "Cinco días hábiles",
       "Diez días hábiles"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "Art. 48 a) TREBEP: el permiso en estos casos es de cinco días hábiles cuando el suceso se produzca en la misma localidad."
   },
   {
     "q": "Según el art. 48 a) del TREBEP, cuando el accidente o enfermedad grave afecte a un pariente de segundo grado de consanguinidad o afinidad, el permiso es de:",
     "options": [
-      "Cuatro días hábiles",
       "Cinco días hábiles, idéntico al primer grado",
-      "Un día hábil"
+      "Un día hábil",
+      "Cuatro días hábiles"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "Art. 48 a) TREBEP: para parientes de segundo grado de consanguinidad o afinidad, el permiso es de cuatro días hábiles (en la misma localidad; se ampliaría en distinta localidad)."
   },
   {
@@ -5219,21 +10029,21 @@ const QUESTIONS = {
   {
     "q": "Según el art. 48 del TREBEP, el permiso para concurrir a exámenes finales y demás pruebas definitivas de aptitud se concede:",
     "options": [
-      "Durante los días de su celebración",
       "Únicamente el día anterior al examen",
+      "Durante los días de su celebración",
       "Solo si el funcionario tiene más de cinco años de antigüedad"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "Art. 48 TREBEP: 'Para concurrir a exámenes finales y demás pruebas definitivas de aptitud, durante los días de su celebración.'"
   },
   {
     "q": "Según el art. 48 del TREBEP, el permiso por lactancia de un hijo menor de doce meses da derecho a una ausencia del trabajo de:",
     "options": [
-      "Una hora, que podrá dividir en dos fracciones",
       "Media hora, sin posibilidad de fraccionamiento",
-      "Dos horas, exclusivamente al inicio de la jornada"
+      "Dos horas, exclusivamente al inicio de la jornada",
+      "Una hora, que podrá dividir en dos fracciones"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "Art. 48 TREBEP: el permiso de lactancia da derecho a una hora de ausencia del trabajo, que se podrá dividir en dos fracciones."
   },
   {
@@ -5249,21 +10059,21 @@ const QUESTIONS = {
   {
     "q": "Según el art. 48 k) del TREBEP, los días de permiso por asuntos particulares no pueden acumularse a:",
     "options": [
-      "Las vacaciones anuales",
       "Los permisos por matrimonio",
+      "Las vacaciones anuales",
       "Los permisos por lactancia"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "Art. 48 k) TREBEP: los días de permiso por asuntos particulares no podrán acumularse a las vacaciones anuales retribuidas."
   },
   {
     "q": "Según el art. 48 l) del TREBEP, el permiso por matrimonio o constitución de pareja de hecho es de:",
     "options": [
-      "Quince días",
       "Cinco días",
-      "Un mes"
+      "Un mes",
+      "Quince días"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "Art. 48 l) TREBEP: 'El permiso por matrimonio será de quince días.'"
   },
   {
@@ -5279,21 +10089,21 @@ const QUESTIONS = {
   {
     "q": "Según el art. 50 del TREBEP, los funcionarios tendrán derecho a disfrutar, durante cada año completo de servicio activo, de unas vacaciones retribuidas de:",
     "options": [
-      "Veintidós días hábiles, o los días que correspondan proporcionalmente si el tiempo de servicio fue menor",
       "Treinta días naturales sin excepción",
+      "Veintidós días hábiles, o los días que correspondan proporcionalmente si el tiempo de servicio fue menor",
       "Quince días hábiles improrrogables"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "Art. 50.1 TREBEP: los funcionarios tendrán derecho a disfrutar, durante cada año completo de servicio activo, de una vacación retribuida de veintidós días hábiles, o de los días que correspondan proporcionalmente al tiempo de servicios efectivos."
   },
   {
     "q": "Según el art. 50 del TREBEP, además de los días de vacación ordinaria, se puede tener derecho a días adicionales de vacación en función de:",
     "options": [
-      "Los años de servicio prestados, conforme a la escala que se determine",
       "La titulación académica obtenida",
-      "El número de hijos a cargo del funcionario"
+      "El número de hijos a cargo del funcionario",
+      "Los años de servicio prestados, conforme a la escala que se determine"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 50 TREBEP (en relación con la disposición adicional decimocuarta) prevé el disfrute de días adicionales de vacación en función de los años de servicio prestados."
   },
   {
@@ -5309,21 +10119,21 @@ const QUESTIONS = {
   {
     "q": "Según el art. 51 del TREBEP, la jornada de trabajo, los permisos y las vacaciones del personal laboral se rigen, en primer término, por:",
     "options": [
-      "El TREBEP y la legislación laboral correspondiente",
       "Únicamente el Estatuto de los Trabajadores, sin ninguna especialidad",
+      "El TREBEP y la legislación laboral correspondiente",
       "Exclusivamente lo que decida cada Ayuntamiento sin ningún marco legal"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "Art. 51 TREBEP: la jornada de trabajo, permisos y vacaciones del personal laboral se rigen por el propio TREBEP y por la legislación laboral correspondiente."
   },
   {
     "q": "¿Qué relación existe entre el permiso por matrimonio (art. 48 l TREBEP) y el permiso por traslado de domicilio (art. 48 b TREBEP), en cuanto a su duración?",
     "options": [
-      "El permiso por matrimonio (quince días) es sustancialmente más extenso que el permiso por traslado de domicilio (un día)",
       "Ambos permisos tienen exactamente la misma duración",
-      "El permiso por traslado de domicilio es más extenso que el de matrimonio"
+      "El permiso por traslado de domicilio es más extenso que el de matrimonio",
+      "El permiso por matrimonio (quince días) es sustancialmente más extenso que el permiso por traslado de domicilio (un día)"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El permiso por matrimonio o constitución de pareja de hecho (quince días) es sustancialmente más extenso que el permiso por traslado de domicilio sin cambio de residencia (un día), reflejando la distinta naturaleza y trascendencia de cada supuesto."
   },
   {
@@ -5339,21 +10149,21 @@ const QUESTIONS = {
   {
     "q": "¿Qué relación existe entre los 'días de asuntos particulares' del art. 48 k) TREBEP y las 'vacaciones anuales' del art. 50 TREBEP?",
     "options": [
-      "Son conceptos jurídicamente distintos, no pudiendo acumularse los días de asuntos particulares a las vacaciones anuales retribuidas",
       "Son exactamente el mismo concepto con dos nombres distintos",
+      "Son conceptos jurídicamente distintos, no pudiendo acumularse los días de asuntos particulares a las vacaciones anuales retribuidas",
       "Los días de asuntos particulares sustituyen automáticamente a las vacaciones anuales"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El TREBEP distingue claramente los días de asuntos particulares (permiso específico del art. 48 k) de las vacaciones anuales retribuidas (art. 50), estableciendo expresamente que no pueden acumularse entre sí."
   },
   {
     "q": "¿Qué relación existe, con carácter general, entre la duración de la jornada de trabajo (art. 47 TREBEP) y la normativa sobre incompatibilidades del personal al servicio de las Administraciones Públicas?",
     "options": [
-      "La jornada máxima establecida debe respetar los límites fijados por la normativa sobre incompatibilidades, que limita la posibilidad de desempeñar actividades adicionales",
       "No existe ninguna relación entre ambas normativas",
-      "La normativa de incompatibilidades permite superar libremente cualquier límite de jornada"
+      "La normativa de incompatibilidades permite superar libremente cualquier límite de jornada",
+      "La jornada máxima establecida debe respetar los límites fijados por la normativa sobre incompatibilidades, que limita la posibilidad de desempeñar actividades adicionales"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 47 TREBEP remite expresamente a la normativa sobre incompatibilidades para fijar la duración máxima de la jornada de trabajo, en coherencia con los límites que dicha normativa impone al desempeño de actividades adicionales por los empleados públicos."
   },
   {
@@ -5369,21 +10179,21 @@ const QUESTIONS = {
   {
     "q": "Según el art. 16.3 a) del TREBEP, la carrera horizontal consiste en la progresión de grado, categoría, escalón u otros conceptos análogos:",
     "options": [
-      "Sin necesidad de cambiar de puesto de trabajo",
       "Únicamente cambiando de puesto de trabajo en todo caso",
+      "Sin necesidad de cambiar de puesto de trabajo",
       "Solo mediante concurso de traslados"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "Art. 16.3 a) TREBEP: la carrera horizontal 'consiste en la progresión de grado, categoría, escalón u otros conceptos análogos, sin necesidad de cambiar de puesto de trabajo.'"
   },
   {
     "q": "Según el art. 16.3 b) del TREBEP, la carrera vertical consiste en el ascenso en la estructura de puestos de trabajo por los procedimientos de:",
     "options": [
-      "Provisión establecidos en el Capítulo III del Título V del Estatuto",
       "Oposición libre exclusivamente",
-      "Sorteo entre los candidatos con mayor antigüedad"
+      "Sorteo entre los candidatos con mayor antigüedad",
+      "Provisión establecidos en el Capítulo III del Título V del Estatuto"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "Art. 16.3 b) TREBEP: la carrera vertical 'consiste en el ascenso en la estructura de puestos de trabajo por los procedimientos de provisión establecidos en el capítulo III del título V de este Estatuto.'"
   },
   {
@@ -5399,21 +10209,21 @@ const QUESTIONS = {
   {
     "q": "Según el art. 16.3 d) del TREBEP, la promoción interna horizontal consiste en el acceso a cuerpos o escalas de:",
     "options": [
-      "El mismo Subgrupo profesional",
       "Un Subgrupo inmediatamente inferior",
+      "El mismo Subgrupo profesional",
       "Cualquier Subgrupo, sin ninguna limitación"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "Art. 16.3 d) TREBEP: la promoción interna horizontal 'consiste en el acceso a cuerpos o escalas del mismo Subgrupo profesional.'"
   },
   {
     "q": "Según el art. 18.2 del TREBEP, para participar en los procesos selectivos de promoción interna, los funcionarios de carrera deben tener una antigüedad de al menos:",
     "options": [
-      "Dos años de servicio activo en el inferior Subgrupo o Grupo de clasificación",
       "Diez años de servicio activo, sin excepción",
-      "Ningún requisito de antigüedad es exigible"
+      "Ningún requisito de antigüedad es exigible",
+      "Dos años de servicio activo en el inferior Subgrupo o Grupo de clasificación"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "Art. 18.2 TREBEP: se exige, con carácter general, una antigüedad de al menos dos años de servicio activo en el Subgrupo o Grupo de clasificación profesional inferior."
   },
   {
@@ -5429,21 +10239,21 @@ const QUESTIONS = {
   {
     "q": "Según el art. 20.1 del TREBEP, los sistemas de evaluación del desempeño deben adecuarse a criterios de transparencia, objetividad y:",
     "options": [
-      "No discriminación",
       "Confidencialidad absoluta frente al evaluado",
+      "No discriminación",
       "Discrecionalidad exclusiva del superior jerárquico"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "Art. 20.1 TREBEP: los sistemas de evaluación deben adecuarse a criterios de transparencia, objetividad, imparcialidad y no discriminación, sin menoscabar los derechos de los empleados públicos."
   },
   {
     "q": "Según el art. 20.3 del TREBEP, las Administraciones Públicas determinarán los efectos de la evaluación del desempeño en, entre otros aspectos, la percepción de:",
     "options": [
-      "Las retribuciones complementarias",
       "Únicamente las retribuciones básicas",
-      "Ninguna retribución, tiene efectos solo honoríficos"
+      "Ninguna retribución, tiene efectos solo honoríficos",
+      "Las retribuciones complementarias"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "Art. 20.3 TREBEP: la evaluación del desempeño tiene efectos, entre otros, en la carrera profesional horizontal, la formación, la provisión de puestos y la percepción de retribuciones complementarias."
   },
   {
@@ -5459,21 +10269,21 @@ const QUESTIONS = {
   {
     "q": "¿Qué relación existe entre la carrera horizontal (art. 16.3 a TREBEP) y la carrera vertical (art. 16.3 b TREBEP)?",
     "options": [
-      "La horizontal permite progresar sin cambiar de puesto de trabajo, mientras que la vertical implica el ascenso en la estructura de puestos mediante los procedimientos de provisión correspondientes",
       "Ambas modalidades son exactamente idénticas en su forma de aplicación",
+      "La horizontal permite progresar sin cambiar de puesto de trabajo, mientras que la vertical implica el ascenso en la estructura de puestos mediante los procedimientos de provisión correspondientes",
       "La carrera vertical no implica ningún cambio en la estructura de puestos de trabajo"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "La diferencia esencial radica en que la carrera horizontal implica progreso de grado o categoría sin cambiar de puesto de trabajo, mientras que la carrera vertical implica el ascenso efectivo en la estructura de puestos mediante los procedimientos de provisión (concurso, libre designación, etc.)."
   },
   {
     "q": "¿Qué relación existe entre la 'promoción interna vertical' y la 'promoción interna horizontal' reguladas en el art. 16.3 TREBEP?",
     "options": [
-      "La vertical implica ascender a un Subgrupo o Grupo superior; la horizontal implica acceder a otro cuerpo o escala dentro del mismo Subgrupo",
       "Ambas modalidades implican necesariamente cambiar de Administración Pública",
-      "La promoción interna horizontal siempre supone un ascenso económico mayor que la vertical"
+      "La promoción interna horizontal siempre supone un ascenso económico mayor que la vertical",
+      "La vertical implica ascender a un Subgrupo o Grupo superior; la horizontal implica acceder a otro cuerpo o escala dentro del mismo Subgrupo"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "La promoción interna vertical implica el ascenso a un Subgrupo o Grupo de clasificación superior; la promoción interna horizontal implica el acceso a cuerpos o escalas distintos dentro del mismo Subgrupo profesional, sin cambio de nivel."
   },
   {
@@ -5489,21 +10299,21 @@ const QUESTIONS = {
   {
     "q": "En síntesis, ¿qué cuatro modalidades de progresión profesional distingue el art. 16.3 del TREBEP para los funcionarios de carrera?",
     "options": [
-      "Carrera horizontal, carrera vertical, promoción interna vertical y promoción interna horizontal",
       "Únicamente ascenso por antigüedad y ascenso por mérito",
+      "Carrera horizontal, carrera vertical, promoción interna vertical y promoción interna horizontal",
       "Solo oposición libre y concurso de traslados"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 16.3 TREBEP distingue cuatro modalidades de progresión profesional: carrera horizontal, carrera vertical, promoción interna vertical y promoción interna horizontal, que pueden aplicarse de forma aislada o simultánea según determinen las leyes de función pública correspondientes."
   },
   {
     "q": "Según el art. 17 del TREBEP, las leyes de Función Pública que se dicten en desarrollo del Estatuto regularán, entre otros aspectos de la carrera horizontal, un sistema de:",
     "options": [
-      "Grados, categorías o escalones de ascenso, fijándose la remuneración correspondiente a cada uno de ellos",
       "Sorteo anual entre todos los funcionarios del mismo Grupo",
-      "Rotación obligatoria de puesto cada dos años"
+      "Rotación obligatoria de puesto cada dos años",
+      "Grados, categorías o escalones de ascenso, fijándose la remuneración correspondiente a cada uno de ellos"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 17 TREBEP prevé que la carrera horizontal se articule mediante un sistema de grados, categorías o escalones de ascenso, con la remuneración correspondiente a cada uno de ellos."
   },
   {
@@ -5519,21 +10329,21 @@ const QUESTIONS = {
   {
     "q": "¿Qué relación existe entre el art. 18 TREBEP y los principios constitucionales de igualdad, mérito y capacidad?",
     "options": [
-      "El art. 18 exige que la promoción interna se realice mediante procesos selectivos que garanticen el cumplimiento de dichos principios constitucionales",
       "El art. 18 excluye expresamente la aplicación de estos principios a la promoción interna",
+      "El art. 18 exige que la promoción interna se realice mediante procesos selectivos que garanticen el cumplimiento de dichos principios constitucionales",
       "La promoción interna se rige exclusivamente por la antigüedad, sin relación con estos principios"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 18 TREBEP exige que la promoción interna (vertical y horizontal) se realice mediante procesos selectivos que garanticen el cumplimiento de los principios constitucionales de igualdad, mérito y capacidad, así como los del art. 55.2 TREBEP."
   },
   {
     "q": "Según el artículo 31.1 del TREBEP, el derecho a la negociación colectiva, representación y participación institucional que se reconoce a los empleados públicos tiene como finalidad:",
     "options": [
-      "La determinación de sus condiciones de trabajo.",
       "La fijación unilateral de la relación de puestos de trabajo de cada Administración.",
-      "La elección directa de los titulares de los órganos directivos de la Administración."
+      "La elección directa de los titulares de los órganos directivos de la Administración.",
+      "La determinación de sus condiciones de trabajo."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 31.1 TREBEP reconoce a los empleados públicos el derecho a la negociación colectiva, representación y participación institucional para la determinación de sus condiciones de trabajo.",
     "fuente": "Art. 31.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5541,11 +10351,11 @@ const QUESTIONS = {
   {
     "q": "El artículo 31.2 TREBEP define la «negociación colectiva», a los efectos de esta ley, como:",
     "options": [
-      "El derecho a suscribir convenios colectivos con eficacia general para todo el personal, funcionario y laboral, del conjunto de las Administraciones Públicas.",
       "El derecho a negociar la determinación de condiciones de trabajo de los empleados de la Administración Pública.",
+      "El derecho a suscribir convenios colectivos con eficacia general para todo el personal, funcionario y laboral, del conjunto de las Administraciones Públicas.",
       "La facultad de las organizaciones sindicales de vetar las decisiones de organización de cada Administración Pública."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 31.2 TREBEP define la negociación colectiva, a los efectos de la ley, como el derecho a negociar la determinación de condiciones de trabajo de los empleados de la Administración Pública.",
     "fuente": "Art. 31.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5554,10 +10364,10 @@ const QUESTIONS = {
     "q": "Conforme al artículo 31.3 TREBEP, por «representación», a los efectos de esta ley, se entiende:",
     "options": [
       "El derecho de cada empleado público a ser recibido individualmente por el titular del órgano de personal.",
-      "La facultad de las organizaciones sindicales de designar directamente a los Delegados de Personal sin proceso electoral.",
-      "La facultad de elegir representantes y constituir órganos unitarios a través de los cuales se instrumente la interlocución entre las Administraciones Públicas y sus empleados."
+      "La facultad de elegir representantes y constituir órganos unitarios a través de los cuales se instrumente la interlocución entre las Administraciones Públicas y sus empleados.",
+      "La facultad de las organizaciones sindicales de designar directamente a los Delegados de Personal sin proceso electoral."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 31.3 TREBEP define la representación como la facultad de elegir representantes y constituir órganos unitarios de interlocución entre las Administraciones Públicas y sus empleados.",
     "fuente": "Art. 31.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5565,11 +10375,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 31.4 TREBEP, la «participación institucional» se entiende como el derecho a participar:",
     "options": [
-      "A través de las organizaciones sindicales, en los órganos de control y seguimiento de las entidades u organismos que legalmente se determine.",
       "A través de los partidos políticos, en la elaboración de los presupuestos de cada Administración Pública.",
-      "Directamente y a título individual, en los consejos de administración de las entidades públicas empresariales."
+      "Directamente y a título individual, en los consejos de administración de las entidades públicas empresariales.",
+      "A través de las organizaciones sindicales, en los órganos de control y seguimiento de las entidades u organismos que legalmente se determine."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 31.4 TREBEP define la participación institucional como el derecho a participar, a través de las organizaciones sindicales, en los órganos de control y seguimiento de las entidades u organismos que legalmente se determine.",
     "fuente": "Art. 31.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5577,11 +10387,11 @@ const QUESTIONS = {
   {
     "q": "El artículo 31.6 TREBEP legitima para la interposición de recursos en vía administrativa y jurisdiccional contra las resoluciones de los órganos de selección:",
     "options": [
-      "A cualquier ciudadano que acredite interés legítimo en el proceso selectivo.",
       "A las organizaciones sindicales más representativas en el ámbito de la Función Pública.",
+      "A cualquier ciudadano que acredite interés legítimo en el proceso selectivo.",
       "Exclusivamente al Ministerio Fiscal, a instancia de los aspirantes perjudicados."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 31.6 TREBEP legitima a las organizaciones sindicales más representativas en el ámbito de la Función Pública para recurrir en vía administrativa y jurisdiccional las resoluciones de los órganos de selección.",
     "fuente": "Art. 31.6 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5590,10 +10400,10 @@ const QUESTIONS = {
     "q": "Según el artículo 32.1 TREBEP, la negociación colectiva, representación y participación de los empleados públicos con contrato laboral se rige por:",
     "options": [
       "Exclusivamente por las normas de este capítulo, sin remisión alguna a la legislación laboral común.",
-      "Los convenios colectivos sectoriales estatales, con exclusión de cualquier norma estatutaria.",
-      "La legislación laboral, sin perjuicio de los preceptos del capítulo que expresamente les son de aplicación."
+      "La legislación laboral, sin perjuicio de los preceptos del capítulo que expresamente les son de aplicación.",
+      "Los convenios colectivos sectoriales estatales, con exclusión de cualquier norma estatutaria."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 32.1 TREBEP somete la negociación, representación y participación del personal laboral a la legislación laboral, sin perjuicio de los preceptos del capítulo que expresamente le sean de aplicación.",
     "fuente": "Art. 32.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5601,11 +10411,11 @@ const QUESTIONS = {
   {
     "q": "De acuerdo con el artículo 32.2 TREBEP, el cumplimiento de los convenios colectivos y acuerdos que afecten al personal laboral puede ser suspendido o modificado por los órganos de gobierno de las Administraciones Públicas:",
     "options": [
-      "Excepcionalmente y por causa grave de interés público derivada de una alteración sustancial de las circunstancias económicas, en la medida estrictamente necesaria.",
       "En cualquier momento y sin necesidad de motivación, mediante simple resolución del órgano de personal competente.",
-      "Únicamente cuando así lo solicite la mayoría de las organizaciones sindicales firmantes."
+      "Únicamente cuando así lo solicite la mayoría de las organizaciones sindicales firmantes.",
+      "Excepcionalmente y por causa grave de interés público derivada de una alteración sustancial de las circunstancias económicas, en la medida estrictamente necesaria."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 32.2 TREBEP permite la suspensión o modificación excepcional, por causa grave de interés público derivada de alteración sustancial de las circunstancias económicas, en la medida estrictamente necesaria para salvaguardar el interés público.",
     "fuente": "Art. 32.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5613,11 +10423,11 @@ const QUESTIONS = {
   {
     "q": "El artículo 33.1 TREBEP sujeta la negociación colectiva de condiciones de trabajo de los funcionarios públicos a los principios de:",
     "options": [
-      "Legalidad, jerarquía normativa, eficacia, economía y celeridad.",
       "Legalidad, cobertura presupuestaria, obligatoriedad, buena fe negocial, publicidad y transparencia.",
+      "Legalidad, jerarquía normativa, eficacia, economía y celeridad.",
       "Igualdad, mérito, capacidad, publicidad y transparencia."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 33.1 TREBEP sujeta la negociación colectiva de los funcionarios a los principios de legalidad, cobertura presupuestaria, obligatoriedad, buena fe negocial, publicidad y transparencia.",
     "fuente": "Art. 33.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5626,10 +10436,10 @@ const QUESTIONS = {
     "q": "Conforme al artículo 33.1 TREBEP, además de los representantes de la Administración, están legitimados para estar presentes en las Mesas de Negociación las organizaciones sindicales más representativas a nivel estatal y de comunidad autónoma, así como:",
     "options": [
       "Los sindicatos que cuenten con al menos cien afiliados en la unidad electoral correspondiente.",
-      "Cualquier sindicato legalmente constituido que lo solicite, con independencia de su resultado electoral.",
-      "Los sindicatos que hayan obtenido el 10 por 100 o más de los representantes en las elecciones para Delegados y Juntas de Personal en la unidad electoral correspondiente."
+      "Los sindicatos que hayan obtenido el 10 por 100 o más de los representantes en las elecciones para Delegados y Juntas de Personal en la unidad electoral correspondiente.",
+      "Cualquier sindicato legalmente constituido que lo solicite, con independencia de su resultado electoral."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 33.1 TREBEP añade a la legitimación de los sindicatos más representativos la de aquellos que hayan obtenido el 10 por 100 o más de los representantes en las elecciones a Delegados y Juntas de Personal en las unidades electorales de su ámbito.",
     "fuente": "Art. 33.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5637,11 +10447,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 33.2 TREBEP, cuando las Administraciones Públicas encargan el desarrollo de la negociación colectiva a órganos técnicos creados por ellas, los acuerdos alcanzados por dichos órganos:",
     "options": [
-      "Requieren la ratificación de los órganos de gobierno o administrativos con competencia para ello.",
       "Son directamente aplicables sin necesidad de ratificación posterior.",
-      "Deben ser sometidos a referéndum entre el conjunto del personal afectado."
+      "Deben ser sometidos a referéndum entre el conjunto del personal afectado.",
+      "Requieren la ratificación de los órganos de gobierno o administrativos con competencia para ello."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 33.2 TREBEP exige la ratificación de los acuerdos alcanzados por los órganos técnicos de negociación por parte de los órganos de gobierno o administrativos con competencia para ello.",
     "fuente": "Art. 33.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5649,11 +10459,11 @@ const QUESTIONS = {
   {
     "q": "El artículo 34.1 TREBEP prevé la constitución de una Mesa General de Negociación, a los efectos de la negociación colectiva de los funcionarios públicos, en el ámbito de:",
     "options": [
-      "La Administración General del Estado exclusivamente, con Mesas Sectoriales delegadas en el resto de Administraciones.",
       "La Administración General del Estado, cada una de las Comunidades Autónomas, las ciudades de Ceuta y Melilla y las Entidades Locales.",
+      "La Administración General del Estado exclusivamente, con Mesas Sectoriales delegadas en el resto de Administraciones.",
       "Cada Ministerio y cada Consejería de las Comunidades Autónomas por separado."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 34.1 TREBEP constituye una Mesa General de Negociación en la AGE, en cada Comunidad Autónoma, en las ciudades de Ceuta y Melilla y en las Entidades Locales.",
     "fuente": "Art. 34.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5662,10 +10472,10 @@ const QUESTIONS = {
     "q": "Según el artículo 34.4 TREBEP, las Mesas Sectoriales:",
     "options": [
       "Se constituyen con carácter obligatorio en todo organismo con más de cien funcionarios, sin necesidad de acuerdo previo.",
-      "Sustituyen a la Mesa General de Negociación en la totalidad de las materias objeto de negociación.",
-      "Podrán constituirse dependiendo de las Mesas Generales de Negociación y por acuerdo de las mismas, en atención a las condiciones específicas de trabajo o a las peculiaridades de sectores concretos de funcionarios."
+      "Podrán constituirse dependiendo de las Mesas Generales de Negociación y por acuerdo de las mismas, en atención a las condiciones específicas de trabajo o a las peculiaridades de sectores concretos de funcionarios.",
+      "Sustituyen a la Mesa General de Negociación en la totalidad de las materias objeto de negociación."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 34.4 TREBEP permite constituir Mesas Sectoriales dependientes de las Mesas Generales, por acuerdo de éstas, en atención a las condiciones específicas de trabajo o a las peculiaridades de sectores concretos de funcionarios.",
     "fuente": "Art. 34.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5673,11 +10483,11 @@ const QUESTIONS = {
   {
     "q": "Cuando no exista acuerdo sobre la fecha de apertura del proceso de negociación en una Mesa, el artículo 34.6 TREBEP dispone que dicho proceso se iniciará:",
     "options": [
-      "En el plazo máximo de un mes desde que la mayoría de una de las partes legitimadas lo promueva, salvo causas legales o pactadas que lo impidan.",
       "En el plazo máximo de quince días desde la constitución de la Mesa correspondiente.",
-      "Al inicio del ejercicio presupuestario siguiente a la petición formulada por cualquiera de las partes."
+      "Al inicio del ejercicio presupuestario siguiente a la petición formulada por cualquiera de las partes.",
+      "En el plazo máximo de un mes desde que la mayoría de una de las partes legitimadas lo promueva, salvo causas legales o pactadas que lo impidan."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 34.6 TREBEP fija el inicio del proceso negociador, a falta de acuerdo, en el plazo máximo de un mes desde que la mayoría de una de las partes legitimadas lo promueva.",
     "fuente": "Art. 34.6 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5685,11 +10495,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 35.1 TREBEP, para que las Mesas de Negociación queden válidamente constituidas es necesario que las organizaciones sindicales legitimadas representen, como mínimo:",
     "options": [
-      "Dos tercios de los miembros de los órganos unitarios de representación en el ámbito de que se trate.",
       "La mayoría absoluta de los miembros de los órganos unitarios de representación en el ámbito de que se trate.",
+      "Dos tercios de los miembros de los órganos unitarios de representación en el ámbito de que se trate.",
       "El 10 por 100 de los representantes elegidos en el conjunto de las Administraciones Públicas."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 35.1 TREBEP exige, para la válida constitución de las Mesas, que las organizaciones sindicales legitimadas representen como mínimo la mayoría absoluta de los miembros de los órganos unitarios de representación del ámbito correspondiente.",
     "fuente": "Art. 35.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5698,10 +10508,10 @@ const QUESTIONS = {
     "q": "De acuerdo con el artículo 35.4 TREBEP, en las normas de desarrollo del Estatuto se establecerá la composición numérica de las Mesas correspondientes, sin que ninguna de las partes pueda superar:",
     "options": [
       "El número de veintiún miembros.",
-      "El número de nueve miembros.",
-      "El número de quince miembros."
+      "El número de quince miembros.",
+      "El número de nueve miembros."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 35.4 TREBEP fija en quince el número máximo de miembros que puede tener cada una de las partes en las Mesas de Negociación.",
     "fuente": "Art. 35.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5709,11 +10519,11 @@ const QUESTIONS = {
   {
     "q": "El artículo 36.1 TREBEP dispone que la Mesa General de Negociación de las Administraciones Públicas estará presidida por:",
     "options": [
-      "La Administración General del Estado.",
       "La Comunidad Autónoma de mayor población.",
-      "La Federación Española de Municipios y Provincias."
+      "La Federación Española de Municipios y Provincias.",
+      "La Administración General del Estado."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 36.1 TREBEP atribuye la presidencia de la Mesa General de Negociación de las Administraciones Públicas a la Administración General del Estado, contando además con representantes de las Comunidades Autónomas, Ceuta y Melilla y la FEMP.",
     "fuente": "Art. 36.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5721,11 +10531,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 36.2 TREBEP, será específicamente objeto de negociación en el ámbito de la Mesa General de Negociación de las Administraciones Públicas:",
     "options": [
-      "La aprobación definitiva de las relaciones de puestos de trabajo de cada Comunidad Autónoma.",
       "El incremento global de las retribuciones del personal al servicio de las Administraciones Públicas que corresponda incluir en el Proyecto de Ley de Presupuestos Generales del Estado de cada año.",
+      "La aprobación definitiva de las relaciones de puestos de trabajo de cada Comunidad Autónoma.",
       "El régimen disciplinario aplicable al personal funcionario de cada Entidad Local."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 36.2 TREBEP reserva específicamente a esta Mesa el incremento global de las retribuciones que corresponda incluir en el Proyecto de Ley de Presupuestos Generales del Estado de cada año.",
     "fuente": "Art. 36.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5734,10 +10544,10 @@ const QUESTIONS = {
     "q": "El artículo 36.3 TREBEP prevé la constitución de una Mesa General de Negociación en cada Administración Pública para negociar:",
     "options": [
       "Exclusivamente las materias que afecten al personal laboral, quedando el personal funcionario excluido de esta Mesa.",
-      "Únicamente las materias retributivas del personal directivo de esa Administración.",
-      "Todas aquellas materias y condiciones de trabajo comunes al personal funcionario, estatutario y laboral de esa Administración."
+      "Todas aquellas materias y condiciones de trabajo comunes al personal funcionario, estatutario y laboral de esa Administración.",
+      "Únicamente las materias retributivas del personal directivo de esa Administración."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 36.3 TREBEP constituye en cada Administración una Mesa General de Negociación para las materias y condiciones de trabajo comunes al personal funcionario, estatutario y laboral.",
     "fuente": "Art. 36.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5745,11 +10555,11 @@ const QUESTIONS = {
   {
     "q": "Entre las materias objeto de negociación que enumera el artículo 37.1 TREBEP figura:",
     "options": [
-      "Las que afecten a las condiciones de trabajo y a las retribuciones de los funcionarios, cuya regulación exija norma con rango de ley.",
       "La regulación y determinación concreta de los sistemas y procedimientos de acceso al empleo público.",
-      "Los poderes de dirección y control propios de la relación jerárquica."
+      "Los poderes de dirección y control propios de la relación jerárquica.",
+      "Las que afecten a las condiciones de trabajo y a las retribuciones de los funcionarios, cuya regulación exija norma con rango de ley."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 37.1.k) TREBEP incluye entre las materias negociables las que afecten a las condiciones de trabajo y a las retribuciones de los funcionarios cuando su regulación exija norma con rango de ley; las otras dos opciones son materias excluidas por el art. 37.2.",
     "fuente": "Art. 37.1.k) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5757,11 +10567,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 37.1.m) TREBEP, será objeto de negociación lo referido a:",
     "options": [
-      "La estructura orgánica de las unidades administrativas y su denominación.",
       "Calendario laboral, horarios, jornadas, vacaciones, permisos, movilidad funcional y geográfica, en aquellos aspectos que afecten a condiciones de trabajo de los empleados públicos.",
+      "La estructura orgánica de las unidades administrativas y su denominación.",
       "El procedimiento de formación de los actos y disposiciones administrativas."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 37.1.m) TREBEP incluye entre las materias negociables el calendario laboral, horarios, jornadas, vacaciones, permisos y movilidad funcional y geográfica, en lo que afecte a condiciones de trabajo.",
     "fuente": "Art. 37.1.m) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5770,10 +10580,10 @@ const QUESTIONS = {
     "q": "El artículo 37.2.a) TREBEP excluye de la obligatoriedad de la negociación:",
     "options": [
       "Los criterios generales sobre ofertas de empleo público.",
-      "Las propuestas sobre derechos sindicales y de participación.",
-      "Las decisiones de las Administraciones Públicas que afecten a sus potestades de organización."
+      "Las decisiones de las Administraciones Públicas que afecten a sus potestades de organización.",
+      "Las propuestas sobre derechos sindicales y de participación."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 37.2.a) TREBEP excluye de la negociación obligatoria las decisiones que afecten a las potestades de organización, sin perjuicio de negociar sus repercusiones sobre condiciones de trabajo.",
     "fuente": "Art. 37.2.a) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5781,11 +10591,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al artículo 38.3 TREBEP, para su validez y eficacia, los Acuerdos que versen sobre materias competencia de los órganos de gobierno de las Administraciones Públicas requieren:",
     "options": [
-      "Su aprobación expresa y formal por dichos órganos.",
       "Su publicación en el Boletín Oficial correspondiente, sin necesidad de aprobación adicional.",
-      "El voto favorable de dos tercios de los miembros de la Mesa de Negociación que los suscribió."
+      "El voto favorable de dos tercios de los miembros de la Mesa de Negociación que los suscribió.",
+      "Su aprobación expresa y formal por dichos órganos."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 38.3 TREBEP exige, para la validez y eficacia de los Acuerdos sobre materias competencia de los órganos de gobierno, su aprobación expresa y formal por dichos órganos.",
     "fuente": "Art. 38.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5793,11 +10603,11 @@ const QUESTIONS = {
   {
     "q": "Si los Acuerdos ratificados tratan sobre materias sometidas a reserva de ley, el artículo 38.3 TREBEP establece que su contenido:",
     "options": [
-      "Será directamente aplicable al personal incluido en su ámbito desde el momento de su ratificación.",
       "Carecerá de eficacia directa, si bien el órgano de gobierno con iniciativa legislativa deberá elaborar, aprobar y remitir a las Cortes o asambleas legislativas el correspondiente proyecto de ley.",
+      "Será directamente aplicable al personal incluido en su ámbito desde el momento de su ratificación.",
       "Quedará automáticamente incorporado a la siguiente Ley de Presupuestos, sin tramitación legislativa específica."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 38.3 TREBEP priva de eficacia directa a los Acuerdos sobre materias de reserva de ley, si bien obliga al órgano de gobierno con iniciativa legislativa a tramitar el proyecto de ley conforme al contenido acordado.",
     "fuente": "Art. 38.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5806,10 +10616,10 @@ const QUESTIONS = {
     "q": "El artículo 38.4 TREBEP exige que los Pactos y Acuerdos determinen, entre otros extremos:",
     "options": [
       "La composición numérica exacta de la Comisión Paritaria de seguimiento, con indicación de sus suplentes.",
-      "El régimen sancionador aplicable en caso de incumplimiento por cualquiera de las partes.",
-      "Las partes que los conciertan, el ámbito personal, funcional, territorial y temporal, y la forma, plazo de preaviso y condiciones de denuncia."
+      "Las partes que los conciertan, el ámbito personal, funcional, territorial y temporal, y la forma, plazo de preaviso y condiciones de denuncia.",
+      "El régimen sancionador aplicable en caso de incumplimiento por cualquiera de las partes."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 38.4 TREBEP obliga a que los Pactos y Acuerdos determinen las partes que los conciertan, su ámbito personal, funcional, territorial y temporal, así como forma, plazo de preaviso y condiciones de denuncia.",
     "fuente": "Art. 38.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5817,11 +10627,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 38.5 TREBEP, para el seguimiento de los Pactos y Acuerdos se establecerán:",
     "options": [
-      "Comisiones Paritarias, con la composición y funciones que las partes determinen.",
       "Juntas Arbitrales, integradas exclusivamente por personal funcionario de carrera.",
-      "Inspecciones de Servicios, dependientes del órgano de gobierno respectivo."
+      "Inspecciones de Servicios, dependientes del órgano de gobierno respectivo.",
+      "Comisiones Paritarias, con la composición y funciones que las partes determinen."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 38.5 TREBEP prevé el establecimiento de Comisiones Paritarias de seguimiento de los Pactos y Acuerdos, con la composición y funciones que las partes determinen.",
     "fuente": "Art. 38.5 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5829,11 +10639,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 38.11 TREBEP, salvo acuerdo en contrario, los Pactos y Acuerdos:",
     "options": [
-      "Se extinguirán automáticamente al concluir su vigencia inicial, sin posibilidad de prórroga.",
       "Se prorrogarán de año en año si no mediara denuncia expresa de una de las partes.",
+      "Se extinguirán automáticamente al concluir su vigencia inicial, sin posibilidad de prórroga.",
       "Quedarán en suspenso hasta que se apruebe un nuevo Pacto o Acuerdo que los sustituya."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 38.11 TREBEP establece la prórroga anual de los Pactos y Acuerdos, salvo acuerdo en contrario, en tanto no medie denuncia expresa de una de las partes.",
     "fuente": "Art. 38.11 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5842,10 +10652,10 @@ const QUESTIONS = {
     "q": "El artículo 39.1 TREBEP identifica como órganos específicos de representación de los funcionarios:",
     "options": [
       "Los Comités de Empresa y los Delegados Sindicales.",
-      "Las Mesas Sectoriales y las Comisiones Paritarias.",
-      "Los Delegados de Personal y las Juntas de Personal."
+      "Los Delegados de Personal y las Juntas de Personal.",
+      "Las Mesas Sectoriales y las Comisiones Paritarias."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 39.1 TREBEP señala como órganos específicos de representación de los funcionarios a los Delegados de Personal y a las Juntas de Personal.",
     "fuente": "Art. 39.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5853,11 +10663,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 39.2 TREBEP, en las unidades electorales donde el número de funcionarios sea igual o superior a 6 e inferior a 50, la representación corresponderá a los Delegados de Personal, eligiéndose:",
     "options": [
-      "Un Delegado hasta 30 funcionarios y tres Delegados de 31 a 49 funcionarios, que actúan conjunta y mancomunadamente.",
       "Un Delegado hasta 25 funcionarios y cinco Delegados de 26 a 49 funcionarios.",
-      "Tres Delegados en todo caso, con independencia del número exacto de funcionarios de la unidad."
+      "Tres Delegados en todo caso, con independencia del número exacto de funcionarios de la unidad.",
+      "Un Delegado hasta 30 funcionarios y tres Delegados de 31 a 49 funcionarios, que actúan conjunta y mancomunadamente."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 39.2 TREBEP fija en un Delegado la representación hasta 30 funcionarios y en tres Delegados, con actuación conjunta y mancomunada, la de 31 a 49 funcionarios.",
     "fuente": "Art. 39.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5865,11 +10675,11 @@ const QUESTIONS = {
   {
     "q": "El artículo 39.3 TREBEP dispone que las Juntas de Personal se constituirán en las unidades electorales que cuenten con un censo mínimo de:",
     "options": [
-      "25 funcionarios.",
       "50 funcionarios.",
+      "25 funcionarios.",
       "100 funcionarios."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 39.3 TREBEP exige un censo mínimo de 50 funcionarios en la unidad electoral para que se constituya una Junta de Personal.",
     "fuente": "Art. 39.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5878,10 +10688,10 @@ const QUESTIONS = {
     "q": "Según la escala del artículo 39.5 TREBEP, una unidad electoral con censo de entre 101 y 250 funcionarios elegirá una Junta de Personal compuesta por:",
     "options": [
       "13 miembros.",
-      "5 miembros.",
-      "9 miembros."
+      "9 miembros.",
+      "5 miembros."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 39.5 TREBEP asigna 9 miembros a la Junta de Personal en unidades electorales de entre 101 y 250 funcionarios; 13 corresponde al tramo de 251 a 500 y 5 al de 50 a 100.",
     "fuente": "Art. 39.5 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5889,11 +10699,11 @@ const QUESTIONS = {
   {
     "q": "Entre las funciones que el artículo 40.1 TREBEP atribuye a las Juntas y Delegados de Personal figura la de:",
     "options": [
-      "Ser informados de todas las sanciones impuestas por faltas muy graves.",
       "Autorizar previamente el traslado de instalaciones o la revisión de los sistemas de organización.",
-      "Imponer directamente las sanciones derivadas de faltas muy graves cometidas por el personal."
+      "Imponer directamente las sanciones derivadas de faltas muy graves cometidas por el personal.",
+      "Ser informados de todas las sanciones impuestas por faltas muy graves."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 40.1.c) TREBEP atribuye a los órganos de representación la función de ser informados de todas las sanciones impuestas por faltas muy graves, no la de autorizarlas ni imponerlas.",
     "fuente": "Art. 40.1.c) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5901,11 +10711,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 40.2 TREBEP, para iniciar procedimientos administrativos y ejercitar acciones en vía administrativa o judicial en el ámbito de sus funciones, están legitimados:",
     "options": [
-      "Únicamente el Presidente de la Junta de Personal, a título individual.",
       "Las Juntas de Personal, colegiadamente por decisión mayoritaria de sus miembros, y los Delegados de Personal, mancomunadamente.",
+      "Únicamente el Presidente de la Junta de Personal, a título individual.",
       "Cualquier empleado público afectado, sin necesidad de intervención de los órganos de representación."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 40.2 TREBEP legitima a las Juntas de Personal, colegiadamente por decisión mayoritaria, y a los Delegados de Personal, mancomunadamente, para iniciar procedimientos y ejercitar acciones en el ámbito de sus funciones.",
     "fuente": "Art. 40.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5914,10 +10724,10 @@ const QUESTIONS = {
     "q": "Entre las garantías reconocidas a los miembros de las Juntas de Personal y a los Delegados de Personal, el artículo 41.1.c) TREBEP incluye:",
     "options": [
       "La inmunidad frente a cualquier expediente disciplinario mientras dure su mandato representativo.",
-      "El derecho a ser defendidos por letrado designado por la propia Administración en cualquier procedimiento.",
-      "La audiencia en los expedientes disciplinarios a que pudieran ser sometidos sus miembros durante el tiempo de su mandato y durante el año inmediatamente posterior."
+      "La audiencia en los expedientes disciplinarios a que pudieran ser sometidos sus miembros durante el tiempo de su mandato y durante el año inmediatamente posterior.",
+      "El derecho a ser defendidos por letrado designado por la propia Administración en cualquier procedimiento."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 41.1.c) TREBEP garantiza la audiencia en los expedientes disciplinarios durante el mandato y el año inmediatamente posterior, sin perjuicio de la audiencia al interesado del procedimiento sancionador; no reconoce inmunidad disciplinaria.",
     "fuente": "Art. 41.1.c) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5925,11 +10735,11 @@ const QUESTIONS = {
   {
     "q": "Según la escala del artículo 41.1.d) TREBEP, el crédito de horas mensuales retribuidas para una unidad electoral de hasta 100 funcionarios es de:",
     "options": [
-      "15 horas.",
       "20 horas.",
-      "35 horas."
+      "35 horas.",
+      "15 horas."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 41.1.d) TREBEP fija en 15 horas mensuales el crédito para unidades electorales de hasta 100 funcionarios; 20 corresponde al tramo de 101 a 250 y 35 al de 501 a 750.",
     "fuente": "Art. 41.1.d) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5937,11 +10747,11 @@ const QUESTIONS = {
   {
     "q": "El artículo 41.1.e) TREBEP garantiza a los representantes del personal no ser trasladados ni sancionados por causas relacionadas con el ejercicio de su mandato representativo:",
     "options": [
-      "Durante toda su vida profesional, con independencia de la fecha de extinción del mandato.",
       "Ni durante la vigencia del mandato ni durante el año siguiente a su extinción, salvo que ésta se produzca por revocación o dimisión.",
+      "Durante toda su vida profesional, con independencia de la fecha de extinción del mandato.",
       "Únicamente durante los seis primeros meses de ejercicio del mandato representativo."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 41.1.e) TREBEP extiende esta garantía a todo el mandato y al año siguiente a su extinción, exceptuando la extinción por revocación o dimisión.",
     "fuente": "Art. 41.1.e) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5950,10 +10760,10 @@ const QUESTIONS = {
     "q": "Según el artículo 42 TREBEP, el mandato de los miembros de las Juntas de Personal y de los Delegados de Personal tendrá una duración de:",
     "options": [
       "Dos años, sin posibilidad de reelección inmediata.",
-      "Cinco años, coincidiendo con la legislatura municipal.",
-      "Cuatro años, pudiendo ser reelegidos."
+      "Cuatro años, pudiendo ser reelegidos.",
+      "Cinco años, coincidiendo con la legislatura municipal."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 42 TREBEP fija en cuatro años la duración del mandato, con posibilidad de reelección, y su prórroga si a su término no se han promovido nuevas elecciones.",
     "fuente": "Art. 42 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5961,11 +10771,11 @@ const QUESTIONS = {
   {
     "q": "Entre los legitimados para promover la celebración de elecciones a Delegados y Juntas de Personal, el artículo 43.1 TREBEP incluye a:",
     "options": [
-      "Los sindicatos que, sin ser más representativos, hayan conseguido al menos el 10 por 100 de los representantes en el conjunto de las Administraciones Públicas.",
       "Cualquier partido político con representación parlamentaria en las Cortes Generales.",
-      "El órgano de gobierno de la Administración Pública correspondiente, de oficio."
+      "El órgano de gobierno de la Administración Pública correspondiente, de oficio.",
+      "Los sindicatos que, sin ser más representativos, hayan conseguido al menos el 10 por 100 de los representantes en el conjunto de las Administraciones Públicas."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 43.1.c) TREBEP legitima para promover elecciones a los sindicatos que, sin ser más representativos, hayan obtenido al menos el 10 por 100 de los representantes en el conjunto de las Administraciones Públicas.",
     "fuente": "Art. 43.1.c) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5973,11 +10783,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 44.d) TREBEP, en el procedimiento electoral para la elección de los órganos de representación del personal funcionario:",
     "options": [
-      "Tanto las Juntas de Personal como los Delegados de Personal se elegirán mediante listas cerradas y sistema proporcional puro.",
       "Las Juntas de Personal se elegirán mediante listas cerradas a través de un sistema proporcional corregido, y los Delegados de Personal mediante listas abiertas y sistema mayoritario.",
+      "Tanto las Juntas de Personal como los Delegados de Personal se elegirán mediante listas cerradas y sistema proporcional puro.",
       "Las Juntas de Personal se elegirán por sistema mayoritario y los Delegados de Personal por sistema proporcional corregido."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 44.d) TREBEP distingue el sistema electoral: listas cerradas y sistema proporcional corregido para las Juntas de Personal, y listas abiertas y sistema mayoritario para los Delegados de Personal.",
     "fuente": "Art. 44.d) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5986,10 +10796,10 @@ const QUESTIONS = {
     "q": "Sobre los sistemas de solución extrajudicial de conflictos colectivos, el artículo 45.3 TREBEP dispone que la mediación:",
     "options": [
       "Solo podrá iniciarse por acuerdo previo y expreso de ambas partes, sin que ninguna pueda imponerla unilateralmente.",
-      "Vincula obligatoriamente a las partes desde el momento en que el mediador emite su propuesta de solución.",
-      "Será obligatoria cuando lo solicite una de las partes, aunque las propuestas de solución del mediador podrán ser libremente aceptadas o rechazadas."
+      "Será obligatoria cuando lo solicite una de las partes, aunque las propuestas de solución del mediador podrán ser libremente aceptadas o rechazadas.",
+      "Vincula obligatoriamente a las partes desde el momento en que el mediador emite su propuesta de solución."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 45.3 TREBEP hace obligatoria la mediación cuando la solicite una de las partes, si bien las propuestas del mediador pueden ser libremente aceptadas o rechazadas por las partes.",
     "fuente": "Art. 45.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5997,11 +10807,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 46.1.d) TREBEP, además de las organizaciones sindicales y los órganos de representación del personal, están legitimados para convocar una reunión:",
     "options": [
-      "Los empleados públicos de las Administraciones respectivas en número no inferior al 40 por 100 del colectivo convocado.",
       "Los empleados públicos en número no inferior al 25 por 100 del colectivo convocado.",
-      "Cualquier grupo de al menos diez empleados públicos, con independencia del tamaño del colectivo convocado."
+      "Cualquier grupo de al menos diez empleados públicos, con independencia del tamaño del colectivo convocado.",
+      "Los empleados públicos de las Administraciones respectivas en número no inferior al 40 por 100 del colectivo convocado."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 46.1.d) TREBEP legitima para convocar una reunión a los empleados públicos de las Administraciones respectivas en número no inferior al 40 por 100 del colectivo convocado.",
     "fuente": "Art. 46.1.d) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6489,11 +11299,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 21.1 del TREBEP, ¿qué debe reflejarse para cada ejercicio presupuestario en la correspondiente ley de presupuestos respecto de los funcionarios?",
     "options": [
-      "Las cuantías de las retribuciones básicas de los funcionarios",
       "El incremento de la masa salarial de los funcionarios",
+      "Las cuantías de las retribuciones básicas de los funcionarios",
       "El importe global de las indemnizaciones por razón del servicio"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 21.1 exige reflejar en la ley de presupuestos las cuantías de las retribuciones básicas (no solo su incremento) de los funcionarios de carrera.",
     "fuente": "Art. 21.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6502,10 +11312,10 @@ const QUESTIONS = {
     "q": "Según el art. 21.1 del TREBEP, respecto de las retribuciones complementarias de los funcionarios, ¿qué debe reflejarse en la ley de presupuestos de cada ejercicio?",
     "options": [
       "La cuantía íntegra de cada complemento",
-      "El incremento de las cuantías globales",
-      "El porcentaje que representan sobre el sueldo"
+      "El porcentaje que representan sobre el sueldo",
+      "El incremento de las cuantías globales"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "A diferencia de las básicas (cuya cuantía íntegra se refleja), de las complementarias solo se refleja el incremento de las cuantías globales.",
     "fuente": "Art. 21.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6513,11 +11323,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 21.1 del TREBEP, en relación con el personal laboral, ¿qué magnitud debe reflejarse en la correspondiente ley de presupuestos?",
     "options": [
+      "El incremento de la masa salarial",
       "El importe íntegro del convenio colectivo aplicable",
-      "El número de trienios reconocidos",
-      "El incremento de la masa salarial"
+      "El número de trienios reconocidos"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 21.1 exige reflejar, para el personal laboral, el incremento de la masa salarial en la ley de presupuestos de cada ejercicio.",
     "fuente": "Art. 21.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6525,11 +11335,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 21.2 del TREBEP, no podrán acordarse incrementos retributivos que globalmente supongan un incremento de la masa salarial superior a:",
     "options": [
-      "Los límites fijados anualmente en la Ley de Presupuestos Generales del Estado para el personal",
       "El índice de revalorización de las pensiones del ejercicio anterior",
+      "Los límites fijados anualmente en la Ley de Presupuestos Generales del Estado para el personal",
       "El porcentaje que determine cada convenio colectivo sectorial"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 21.2 fija como techo los límites que anualmente establezca la Ley de Presupuestos Generales del Estado para el personal.",
     "fuente": "Art. 21.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6658,10 +11468,10 @@ const QUESTIONS = {
     "q": "Según el art. 25.1 del TREBEP, además de las retribuciones básicas y complementarias señaladas, los funcionarios interinos percibirán las correspondientes a:",
     "options": [
       "La categoría máxima alcanzable en el cuerpo o escala",
-      "El grado personal consolidado por el funcionario de carrera sustituido",
-      "La categoría de entrada en el cuerpo o escala en el que se les nombre"
+      "La categoría de entrada en el cuerpo o escala en el que se les nombre",
+      "El grado personal consolidado por el funcionario de carrera sustituido"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 25.1 añade las retribuciones correspondientes a la categoría de entrada en el cuerpo o escala en que se nombre al interino.",
     "fuente": "Art. 25.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6669,11 +11479,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 25.2 del TREBEP, respecto de los funcionarios interinos, ¿qué se reconocerá en relación con los trienios?",
     "options": [
-      "Los correspondientes a los servicios prestados antes de la entrada en vigor del Estatuto",
       "El doble de su cuantía durante los cinco primeros años",
-      "Ninguno, al no consolidarse la antigüedad en la interinidad"
+      "Ninguno, al no consolidarse la antigüedad en la interinidad",
+      "Los correspondientes a los servicios prestados antes de la entrada en vigor del Estatuto"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 25.2 reconoce a los interinos los trienios correspondientes a servicios prestados antes de la entrada en vigor del Estatuto.",
     "fuente": "Art. 25.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6681,11 +11491,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 25.2 del TREBEP, los trienios reconocidos por servicios prestados antes de la entrada en vigor del Estatuto tendrán efectos retributivos:",
     "options": [
-      "Con carácter retroactivo desde el inicio de dichos servicios",
       "Únicamente a partir de la entrada en vigor del propio Estatuto",
+      "Con carácter retroactivo desde el inicio de dichos servicios",
       "Solo tras la superación del proceso selectivo correspondiente"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 25.2 precisa que esos trienios tendrán efectos retributivos únicamente a partir de la entrada en vigor del Estatuto.",
     "fuente": "Art. 25.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6694,10 +11504,10 @@ const QUESTIONS = {
     "q": "Según el art. 26 del TREBEP, las retribuciones de los funcionarios en prácticas se corresponderán, como mínimo, con:",
     "options": [
       "La totalidad de las retribuciones básicas y complementarias del puesto",
-      "El salario mínimo interprofesional vigente",
-      "El sueldo del Subgrupo o Grupo en que aspiren a ingresar"
+      "El sueldo del Subgrupo o Grupo en que aspiren a ingresar",
+      "El salario mínimo interprofesional vigente"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 26 fija como suelo mínimo el sueldo del Subgrupo o Grupo (o Grupo si no tiene Subgrupo) en que aspiren a ingresar, sin impedir que se fije una cuantía mayor.",
     "fuente": "Art. 26 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6705,11 +11515,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 27 del TREBEP, las retribuciones del personal laboral, fijadas según la legislación laboral, el convenio colectivo y el contrato de trabajo, deben respetar en todo caso lo establecido en:",
     "options": [
-      "El artículo 21 del propio Estatuto",
       "El artículo 24 del propio Estatuto",
-      "El Estatuto de los Trabajadores en su integridad"
+      "El Estatuto de los Trabajadores en su integridad",
+      "El artículo 21 del propio Estatuto"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 27 cierra remitiendo a que, en todo caso, se respete lo establecido en el artículo 21 (límites de incremento de la masa salarial).",
     "fuente": "Art. 27 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6717,11 +11527,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 28 del TREBEP, ¿qué percibirán los funcionarios además de sus retribuciones básicas y complementarias?",
     "options": [
-      "Un complemento de disponibilidad permanente con carácter general",
       "Las indemnizaciones correspondientes por razón del servicio",
+      "Un complemento de disponibilidad permanente con carácter general",
       "Una paga extraordinaria adicional por antigüedad"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 28 establece que los funcionarios percibirán las indemnizaciones correspondientes por razón del servicio.",
     "fuente": "Art. 28 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6730,10 +11540,10 @@ const QUESTIONS = {
     "q": "Según el art. 28 del TREBEP, las indemnizaciones que perciben los funcionarios se justifican:",
     "options": [
       "Por razón de cargas familiares",
-      "Por razón de residencia en zonas de especial dificultad",
-      "Por razón del servicio"
+      "Por razón del servicio",
+      "Por razón de residencia en zonas de especial dificultad"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 28 vincula expresamente las indemnizaciones al concepto 'por razón del servicio'.",
     "fuente": "Art. 28 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6741,11 +11551,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 29 del TREBEP, las Administraciones Públicas podrán destinar cantidades de la masa salarial a financiar:",
     "options": [
-      "Aportaciones a planes de pensiones de empleo o contratos de seguro colectivos",
       "Anticipos reintegrables sin interés para todo el personal",
-      "Complementos de productividad extraordinarios de fin de año"
+      "Complementos de productividad extraordinarios de fin de año",
+      "Aportaciones a planes de pensiones de empleo o contratos de seguro colectivos"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 29 permite destinar cantidades a financiar aportaciones a planes de pensiones de empleo o contratos de seguro colectivos.",
     "fuente": "Art. 29 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6753,11 +11563,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 29 del TREBEP, los planes de pensiones de empleo o contratos de seguro colectivo a que se refiere deben incluir la cobertura de la contingencia de:",
     "options": [
-      "Incapacidad temporal",
       "Jubilación",
+      "Incapacidad temporal",
       "Desempleo"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 29 exige que esos instrumentos incluyan la cobertura de la contingencia de jubilación.",
     "fuente": "Art. 29 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6766,10 +11576,10 @@ const QUESTIONS = {
     "q": "Según el art. 29 del TREBEP, las cantidades destinadas a financiar aportaciones a planes de pensiones de empleo tienen como límite:",
     "options": [
       "El 5 por ciento de la masa salarial en todo caso",
-      "El importe equivalente a una paga extraordinaria por trabajador",
-      "El porcentaje de la masa salarial que se fije en las correspondientes Leyes de Presupuestos Generales del Estado"
+      "El porcentaje de la masa salarial que se fije en las correspondientes Leyes de Presupuestos Generales del Estado",
+      "El importe equivalente a una paga extraordinaria por trabajador"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 29 remite el límite al porcentaje de la masa salarial que fijen las correspondientes Leyes de Presupuestos Generales del Estado.",
     "fuente": "Art. 29 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6777,11 +11587,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 29 del TREBEP, las aportaciones a planes de pensiones de empleo se destinan, para la contingencia de jubilación, a:",
     "options": [
-      "El personal incluido en sus ámbitos",
       "Exclusivamente los funcionarios de carrera con más de veinte años de servicio",
-      "El personal directivo de las Administraciones Públicas"
+      "El personal directivo de las Administraciones Públicas",
+      "El personal incluido en sus ámbitos"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 29 se refiere al personal incluido en sus ámbitos, sin restringirlo a un colectivo concreto.",
     "fuente": "Art. 29 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6789,11 +11599,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 29 del TREBEP, las cantidades destinadas a financiar aportaciones a planes de pensiones o contratos de seguros tendrán la consideración de:",
     "options": [
-      "Indemnización por razón del servicio",
       "Retribución diferida, a todos los efectos",
+      "Indemnización por razón del servicio",
       "Complemento de destino no consolidable"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 29 califica esas cantidades, a todos los efectos, como retribución diferida.",
     "fuente": "Art. 29 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6802,10 +11612,10 @@ const QUESTIONS = {
     "q": "Según el art. 30.1 del TREBEP, la parte de jornada no realizada dará lugar a:",
     "options": [
       "La pérdida total de las retribuciones complementarias del mes",
-      "La apertura automática de expediente disciplinario",
-      "La deducción proporcional de haberes"
+      "La deducción proporcional de haberes",
+      "La apertura automática de expediente disciplinario"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 30.1 establece que la parte de jornada no realizada da lugar a la deducción proporcional de haberes.",
     "fuente": "Art. 30.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6813,11 +11623,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 30.1 del TREBEP, la deducción proporcional de haberes por la jornada no realizada se aplica:",
     "options": [
-      "Sin perjuicio de la sanción disciplinaria que pueda corresponder",
       "En sustitución de cualquier sanción disciplinaria que pudiera corresponder",
-      "Solo cuando no exista posibilidad de sanción disciplinaria"
+      "Solo cuando no exista posibilidad de sanción disciplinaria",
+      "Sin perjuicio de la sanción disciplinaria que pueda corresponder"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 30.1 aclara que la deducción opera sin perjuicio de la sanción disciplinaria que, en su caso, pueda corresponder.",
     "fuente": "Art. 30.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6825,11 +11635,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 30.1 del TREBEP, la deducción proporcional de haberes por la parte de jornada no realizada:",
     "options": [
-      "Tendrá siempre carácter sancionador",
       "No tendrá carácter sancionador",
+      "Tendrá siempre carácter sancionador",
       "Solo se aplicará tras resolución sancionadora firme"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 30.1 señala expresamente que esa deducción no tendrá carácter sancionador.",
     "fuente": "Art. 30.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6838,10 +11648,10 @@ const QUESTIONS = {
     "q": "Según el art. 30.2 del TREBEP, quienes ejerciten el derecho de huelga:",
     "options": [
       "Devengarán íntegramente sus retribuciones básicas durante la huelga",
-      "Percibirán solo el sueldo, pero no los trienios",
-      "No devengarán ni percibirán las retribuciones correspondientes al tiempo en que hayan permanecido en esa situación"
+      "No devengarán ni percibirán las retribuciones correspondientes al tiempo en que hayan permanecido en esa situación",
+      "Percibirán solo el sueldo, pero no los trienios"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 30.2 dispone que quienes ejerzan el derecho de huelga no devengarán ni percibirán las retribuciones del tiempo de huelga.",
     "fuente": "Art. 30.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6849,11 +11659,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 30.2 del TREBEP, la deducción de haberes que se efectúe por el ejercicio del derecho de huelga:",
     "options": [
-      "No tendrá carácter de sanción",
       "Tendrá siempre la consideración de sanción leve",
-      "Requerirá la apertura de expediente disciplinario previo"
+      "Requerirá la apertura de expediente disciplinario previo",
+      "No tendrá carácter de sanción"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 30.2 precisa que esa deducción de haberes no tiene carácter de sanción.",
     "fuente": "Art. 30.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6861,11 +11671,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 30.2 del TREBEP, la deducción de haberes por el ejercicio del derecho de huelga:",
     "options": [
-      "Afecta proporcionalmente al régimen de prestaciones sociales",
       "No afecta al régimen respectivo de las prestaciones sociales",
+      "Afecta proporcionalmente al régimen de prestaciones sociales",
       "Suspende automáticamente el alta en Seguridad Social"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 30.2 garantiza que dicha deducción no afecta al régimen respectivo de las prestaciones sociales del empleado.",
     "fuente": "Art. 30.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6874,10 +11684,10 @@ const QUESTIONS = {
     "q": "¿Qué artículo del TREBEP lleva por título 'Determinación de las cuantías y de los incrementos retributivos'?",
     "options": [
       "Artículo 20",
-      "Artículo 22",
-      "Artículo 21"
+      "Artículo 21",
+      "Artículo 22"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "Ese es el título del artículo 21, dentro del capítulo de derechos retributivos.",
     "fuente": "Art. 21 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6885,11 +11695,11 @@ const QUESTIONS = {
   {
     "q": "¿Qué artículo del TREBEP lleva por título 'Indemnizaciones'?",
     "options": [
-      "Artículo 28",
       "Artículo 27",
-      "Artículo 29"
+      "Artículo 29",
+      "Artículo 28"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El título 'Indemnizaciones' corresponde al artículo 28 del TREBEP.",
     "fuente": "Art. 28 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6897,11 +11707,11 @@ const QUESTIONS = {
   {
     "q": "¿Qué artículo del TREBEP lleva por título 'Retribuciones diferidas'?",
     "options": [
-      "Artículo 28",
       "Artículo 29",
+      "Artículo 28",
       "Artículo 30"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El título 'Retribuciones diferidas' corresponde al artículo 29 del TREBEP.",
     "fuente": "Art. 29 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6910,10 +11720,10 @@ const QUESTIONS = {
     "q": "¿Qué artículo del TREBEP lleva por título 'Deducción de retribuciones'?",
     "options": [
       "Artículo 22",
-      "Artículo 25",
-      "Artículo 30"
+      "Artículo 30",
+      "Artículo 25"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El título 'Deducción de retribuciones' corresponde al artículo 30 del TREBEP.",
     "fuente": "Art. 30 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6921,11 +11731,11 @@ const QUESTIONS = {
   {
     "q": "¿Qué artículo del TREBEP lleva por título 'Retribuciones de los funcionarios interinos'?",
     "options": [
-      "Artículo 25",
       "Artículo 26",
-      "Artículo 27"
+      "Artículo 27",
+      "Artículo 25"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El título 'Retribuciones de los funcionarios interinos' corresponde al artículo 25 del TREBEP.",
     "fuente": "Art. 25 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6933,11 +11743,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 29 del TREBEP, las aportaciones a planes de pensiones de empleo se realizarán de acuerdo con lo establecido en:",
     "options": [
-      "El convenio colectivo estatal de aplicación general",
       "La normativa reguladora de los Planes de Pensiones",
+      "El convenio colectivo estatal de aplicación general",
       "El reglamento de régimen interior de cada Administración"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 29 remite a la normativa reguladora de los Planes de Pensiones para la realización de esas aportaciones.",
     "fuente": "Art. 29 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6946,10 +11756,10 @@ const QUESTIONS = {
     "q": "¿Cuántos apartados numerados contiene el artículo 30 del TREBEP ('Deducción de retribuciones')?",
     "options": [
       "Tres",
-      "Cuatro",
-      "Dos"
+      "Dos",
+      "Cuatro"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El artículo 30 se estructura en dos apartados: el 30.1 (deducción proporcional de haberes) y el 30.2 (deducción por huelga).",
     "fuente": "Art. 30 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6957,11 +11767,11 @@ const QUESTIONS = {
   {
     "q": "¿Cuántos apartados numerados contiene el artículo 21 del TREBEP ('Determinación de las cuantías y de los incrementos retributivos')?",
     "options": [
-      "Dos",
       "Uno",
-      "Tres"
+      "Tres",
+      "Dos"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El artículo 21 se estructura en dos apartados: el 21.1 (reflejo en la ley de presupuestos) y el 21.2 (límite anual de incremento).",
     "fuente": "Art. 21 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7449,11 +12259,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 96.1.a) TREBEP, la separación del servicio impuesta a un funcionario interino comportará:",
     "options": [
-      "La revocación de su nombramiento.",
       "El traslado forzoso con cambio de residencia.",
+      "La revocación de su nombramiento.",
       "La suspensión firme de funciones por seis años."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 96.1.a) señala que la separación del servicio 'en el caso de los funcionarios interinos comportará la revocación de su nombramiento'.",
     "fuente": "Art. 96.1.a) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7462,10 +12272,10 @@ const QUESTIONS = {
     "q": "La sanción de separación del servicio prevista en el art. 96.1.a) TREBEP solo podrá imponerse por la comisión de:",
     "options": [
       "Faltas graves.",
-      "Faltas muy graves.",
-      "Faltas leves reiteradas."
+      "Faltas leves reiteradas.",
+      "Faltas muy graves."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El precepto establece que la separación del servicio 'sólo podrá sancionar la comisión de faltas muy graves'.",
     "fuente": "Art. 96.1.a) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7473,11 +12283,11 @@ const QUESTIONS = {
   {
     "q": "El despido disciplinario del personal laboral, regulado en el art. 96.1.b) TREBEP, comporta:",
     "options": [
+      "La inhabilitación para ser titular de un nuevo contrato de trabajo con funciones similares.",
       "El traslado forzoso a otra localidad.",
-      "El demérito a efectos de carrera y promoción.",
-      "La inhabilitación para ser titular de un nuevo contrato de trabajo con funciones similares."
+      "El demérito a efectos de carrera y promoción."
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 96.1.b) indica que el despido disciplinario 'comportará la inhabilitación para ser titular de un nuevo contrato de trabajo con funciones similares a las que desempeñaban'.",
     "fuente": "Art. 96.1.b) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7485,11 +12295,11 @@ const QUESTIONS = {
   {
     "q": "¿Qué falta puede sancionarse con el despido disciplinario del personal laboral conforme al art. 96.1.b) TREBEP?",
     "options": [
-      "Únicamente las faltas muy graves.",
       "Las faltas muy graves y las graves.",
+      "Únicamente las faltas muy graves.",
       "Cualquier falta, incluidas las leves."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 96.1.b) señala que el despido disciplinario 'sólo podrá sancionar la comisión de faltas muy graves'.",
     "fuente": "Art. 96.1.b) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7498,10 +12308,10 @@ const QUESTIONS = {
     "q": "La duración máxima de la suspensión firme de funciones, o de empleo y sueldo en el caso del personal laboral, conforme al art. 96.1.c) TREBEP, es de:",
     "options": [
       "Tres años.",
-      "Seis años.",
-      "Dos años."
+      "Dos años.",
+      "Seis años."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 96.1.c) fija para la suspensión firme 'una duración máxima de 6 años'.",
     "fuente": "Art. 96.1.c) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7509,11 +12319,11 @@ const QUESTIONS = {
   {
     "q": "El art. 96.1.d) TREBEP define el traslado forzoso como una sanción consistente en:",
     "options": [
+      "El traslado, con o sin cambio de localidad de residencia, por el periodo que en cada caso se establezca.",
       "La revocación del nombramiento del funcionario interino.",
-      "El despido disciplinario con inhabilitación.",
-      "El traslado, con o sin cambio de localidad de residencia, por el periodo que en cada caso se establezca."
+      "El despido disciplinario con inhabilitación."
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 96.1.d) describe el 'traslado forzoso, con o sin cambio de localidad de residencia, por el período que en cada caso se establezca'.",
     "fuente": "Art. 96.1.d) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7521,11 +12331,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 96.1.e) TREBEP, la sanción de demérito consiste en:",
     "options": [
-      "La penalización a efectos de carrera, promoción o movilidad voluntaria.",
       "La suspensión de empleo y sueldo hasta seis años.",
+      "La penalización a efectos de carrera, promoción o movilidad voluntaria.",
       "El apercibimiento formal por escrito."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 96.1.e) define el demérito como la sanción 'que consistirá en la penalización a efectos de carrera, promoción o movilidad voluntaria'.",
     "fuente": "Art. 96.1.e) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7534,10 +12344,10 @@ const QUESTIONS = {
     "q": "El art. 96.1.g) TREBEP contempla, entre las sanciones disciplinarias, una cláusula de cierre consistente en:",
     "options": [
       "El traslado forzoso con cambio de residencia.",
-      "Cualquier otra sanción que se establezca por ley.",
-      "La separación del servicio de los funcionarios interinos."
+      "La separación del servicio de los funcionarios interinos.",
+      "Cualquier otra sanción que se establezca por ley."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 96.1.g) cierra la lista de sanciones admitiendo 'cualquier otra que se establezca por ley'.",
     "fuente": "Art. 96.1.g) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7545,11 +12355,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al art. 96.2 TREBEP, procederá la readmisión del personal laboral fijo cuando:",
     "options": [
+      "Sea declarado improcedente el despido acordado como consecuencia de un expediente disciplinario por falta muy grave.",
       "Se le imponga la sanción de demérito.",
-      "Se le imponga la sanción de apercibimiento.",
-      "Sea declarado improcedente el despido acordado como consecuencia de un expediente disciplinario por falta muy grave."
+      "Se le imponga la sanción de apercibimiento."
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 96.2 establece que 'procederá la readmisión del personal laboral fijo cuando sea declarado improcedente el despido acordado como consecuencia de la incoación de un expediente disciplinario por la comisión de una falta muy grave'.",
     "fuente": "Art. 96.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7557,11 +12367,11 @@ const QUESTIONS = {
   {
     "q": "Entre los criterios que, conforme al art. 96.3 TREBEP, deben valorarse para fijar el alcance de la sanción se encuentra:",
     "options": [
-      "El grado de intencionalidad, descuido o negligencia revelado en la conducta.",
       "La antigüedad del funcionario en el puesto de trabajo.",
+      "El grado de intencionalidad, descuido o negligencia revelado en la conducta.",
       "El número de recursos administrativos previos presentados por el interesado."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 96.3 dispone que el alcance de la sanción se establecerá teniendo en cuenta 'el grado de intencionalidad, descuido o negligencia que se revele en la conducta'.",
     "fuente": "Art. 96.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7570,10 +12380,10 @@ const QUESTIONS = {
     "q": "El art. 96.3 TREBEP exige tener en cuenta, para fijar el alcance de la sanción, el grado de participación del responsable, junto con:",
     "options": [
       "El número de sanciones impuestas por la Administración ese año.",
-      "El daño causado al interés público.",
-      "La opinión de los representantes sindicales."
+      "La opinión de los representantes sindicales.",
+      "El daño causado al interés público."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 96.3 cita entre los criterios 'el daño al interés público' además del grado de intencionalidad, la reiteración o reincidencia y el grado de participación.",
     "fuente": "Art. 96.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7581,11 +12391,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 96.3 TREBEP, ¿qué circunstancia relativa a la conducta reiterada del infractor debe valorarse para el alcance de la sanción?",
     "options": [
+      "La reiteración o reincidencia.",
       "La antigüedad en el cuerpo o escala.",
-      "El nivel de complemento de destino que percibe.",
-      "La reiteración o reincidencia."
+      "El nivel de complemento de destino que percibe."
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 96.3 incluye expresamente 'la reiteración o reincidencia' entre los criterios para establecer el alcance de la sanción.",
     "fuente": "Art. 96.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7593,11 +12403,11 @@ const QUESTIONS = {
   {
     "q": "La sanción de suspensión firme regulada en el art. 96.1.c) TREBEP se denomina, respecto del personal laboral, como:",
     "options": [
-      "Suspensión de empleo y sueldo.",
       "Despido disciplinario.",
+      "Suspensión de empleo y sueldo.",
       "Demérito."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 96.1.c) habla de 'suspensión firme de funciones, o de empleo y sueldo en el caso del personal laboral'.",
     "fuente": "Art. 96.1.c) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7606,10 +12416,10 @@ const QUESTIONS = {
     "q": "El art. 96.1 TREBEP contempla el apercibimiento como sanción en su letra:",
     "options": [
       "d).",
-      "f).",
-      "b)."
+      "b).",
+      "f)."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El apercibimiento figura en el art. 96.1.f), tras la sanción de demérito (letra e) y antes de la cláusula de cierre (letra g).",
     "fuente": "Art. 96.1.f) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7617,11 +12427,11 @@ const QUESTIONS = {
   {
     "q": "El traslado forzoso previsto en el art. 96.1.d) TREBEP podrá acordarse:",
     "options": [
+      "Con o sin cambio de localidad de residencia, según se establezca en cada caso.",
       "Solo cuando exista cambio de localidad de residencia.",
-      "Solo cuando el interesado lo solicite voluntariamente.",
-      "Con o sin cambio de localidad de residencia, según se establezca en cada caso."
+      "Solo cuando el interesado lo solicite voluntariamente."
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 96.1.d) permite el traslado forzoso 'con o sin cambio de localidad de residencia, por el período que en cada caso se establezca'.",
     "fuente": "Art. 96.1.d) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7629,11 +12439,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 97.1 TREBEP, la sanción impuesta por una falta grave prescribirá a los:",
     "options": [
-      "Dos años.",
       "Tres años.",
+      "Dos años.",
       "Seis meses."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 97.1 dispone que 'las sanciones impuestas por faltas muy graves prescribirán a los tres años, las impuestas por faltas graves a los dos años y las impuestas por faltas leves al año'.",
     "fuente": "Art. 97.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7642,10 +12452,10 @@ const QUESTIONS = {
     "q": "El art. 97.1 TREBEP establece que la sanción impuesta por una falta muy grave prescribirá a los:",
     "options": [
       "Un año.",
-      "Tres años.",
-      "Dos años."
+      "Dos años.",
+      "Tres años."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "Conforme al art. 97.1, las sanciones impuestas por faltas muy graves prescriben a los tres años.",
     "fuente": "Art. 97.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7653,11 +12463,11 @@ const QUESTIONS = {
   {
     "q": "¿A los cuántos años prescribe la infracción disciplinaria calificada como grave, conforme al art. 97.1 TREBEP?",
     "options": [
+      "Dos años.",
       "Tres años.",
-      "Seis meses.",
-      "Dos años."
+      "Seis meses."
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 97.1 fija que 'las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses'.",
     "fuente": "Art. 97.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7665,11 +12475,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al art. 97.2 TREBEP, el plazo de prescripción de las faltas comenzará a contarse:",
     "options": [
-      "Desde que se hubieran cometido.",
       "Desde que se incoe el expediente disciplinario.",
+      "Desde que se hubieran cometido.",
       "Desde que la sanción adquiera firmeza."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 97.2 señala que 'el plazo de prescripción de las faltas comenzará a contarse desde que se hubieran cometido'.",
     "fuente": "Art. 97.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7678,10 +12488,10 @@ const QUESTIONS = {
     "q": "En el caso de faltas continuadas, el art. 97.2 TREBEP dispone que el plazo de prescripción se contará desde:",
     "options": [
       "La fecha de la primera actuación que integra la falta.",
-      "El cese de su comisión.",
-      "La notificación del pliego de cargos."
+      "La notificación del pliego de cargos.",
+      "El cese de su comisión."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 97.2 precisa que el plazo se contará desde que se cometieron las faltas, 'y desde el cese de su comisión cuando se trate de faltas continuadas'.",
     "fuente": "Art. 97.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7689,11 +12499,11 @@ const QUESTIONS = {
   {
     "q": "El plazo de prescripción de las sanciones, conforme al art. 97.2 TREBEP, comenzará a contarse desde:",
     "options": [
+      "La firmeza de la resolución sancionadora.",
       "La fecha de comisión de la falta.",
-      "La incoación del expediente disciplinario.",
-      "La firmeza de la resolución sancionadora."
+      "La incoación del expediente disciplinario."
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 97.2 establece que el plazo de prescripción de las sanciones se cuenta 'desde la firmeza de la resolución sancionadora'.",
     "fuente": "Art. 97.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7701,11 +12511,11 @@ const QUESTIONS = {
   {
     "q": "La infracción disciplinaria leve prescribe, conforme al art. 97.1 TREBEP, a los:",
     "options": [
-      "Seis meses.",
       "Un año.",
+      "Seis meses.",
       "Dos años."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 97.1 dispone que 'las leves' (infracciones) prescribirán 'a los seis meses'.",
     "fuente": "Art. 97.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7714,10 +12524,10 @@ const QUESTIONS = {
     "q": "Conforme al art. 98.1 TREBEP, la imposición de sanciones por faltas leves se llevará a cabo mediante:",
     "options": [
       "El mismo procedimiento que para las faltas muy graves.",
-      "Un procedimiento sumario con audiencia al interesado.",
-      "Resolución directa sin trámite de audiencia."
+      "Resolución directa sin trámite de audiencia.",
+      "Un procedimiento sumario con audiencia al interesado."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 98.1 dispone que 'la imposición de sanciones por faltas leves se llevará a cabo por procedimiento sumario con audiencia al interesado'.",
     "fuente": "Art. 98.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7725,11 +12535,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 98.1 TREBEP, no podrá imponerse sanción por faltas muy graves o graves sino mediante:",
     "options": [
+      "El procedimiento previamente establecido.",
       "Resolución motivada sin procedimiento previo.",
-      "Acuerdo verbal del superior jerárquico.",
-      "El procedimiento previamente establecido."
+      "Acuerdo verbal del superior jerárquico."
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 98.1 señala que 'no podrá imponerse sanción por la comisión de faltas muy graves o graves sino mediante el procedimiento previamente establecido'.",
     "fuente": "Art. 98.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7737,11 +12547,11 @@ const QUESTIONS = {
   {
     "q": "El art. 98.2 TREBEP establece que el procedimiento disciplinario se estructurará atendiendo a los principios de:",
     "options": [
-      "Eficacia, celeridad y economía procesal.",
       "Oralidad, publicidad y contradicción.",
+      "Eficacia, celeridad y economía procesal.",
       "Jerarquía, coordinación y descentralización."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 98.2 indica que el procedimiento se estructurará 'atendiendo a los principios de eficacia, celeridad y economía procesal, con pleno respeto a los derechos y garantías de defensa'.",
     "fuente": "Art. 98.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7750,10 +12560,10 @@ const QUESTIONS = {
     "q": "Conforme al art. 98.2 TREBEP, en el procedimiento disciplinario debe quedar establecida la debida separación entre:",
     "options": [
       "El órgano de personal y el órgano presupuestario.",
-      "La fase instructora y la fase sancionadora, encomendadas a órganos distintos.",
-      "La Administración General del Estado y las Comunidades Autónomas."
+      "La Administración General del Estado y las Comunidades Autónomas.",
+      "La fase instructora y la fase sancionadora, encomendadas a órganos distintos."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 98.2 dispone que 'quedará establecida la debida separación entre la fase instructora y la sancionadora, encomendándose a órganos distintos'.",
     "fuente": "Art. 98.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7761,11 +12571,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 98.3 TREBEP, las medidas de carácter provisional en el procedimiento sancionador se adoptarán mediante:",
     "options": [
+      "Resolución motivada, cuando así esté previsto en las normas reguladoras del procedimiento.",
       "Simple comunicación verbal al interesado.",
-      "Acuerdo del pleno de la corporación en todo caso.",
-      "Resolución motivada, cuando así esté previsto en las normas reguladoras del procedimiento."
+      "Acuerdo del pleno de la corporación en todo caso."
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 98.3 indica que 'se podrá adoptar mediante resolución motivada medidas de carácter provisional que aseguren la eficacia de la resolución final', cuando así esté previsto en las normas reguladoras.",
     "fuente": "Art. 98.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7773,11 +12583,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al art. 98.3 TREBEP, la suspensión provisional acordada durante la tramitación de un procedimiento judicial se mantendrá por el tiempo:",
     "options": [
-      "A que se extienda la prisión provisional u otras medidas judiciales que impidan desempeñar el puesto de trabajo.",
       "Máximo de seis meses, sin posibilidad de prórroga.",
+      "A que se extienda la prisión provisional u otras medidas judiciales que impidan desempeñar el puesto de trabajo.",
       "Que determine el órgano de personal, con independencia de la resolución judicial."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 98.3 dispone que la suspensión provisional acordada durante un procedimiento judicial 'se mantendrá por el tiempo a que se extienda la prisión provisional u otras medidas decretadas por el juez que determinen la imposibilidad de desempeñar el puesto de trabajo'.",
     "fuente": "Art. 98.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7786,10 +12596,10 @@ const QUESTIONS = {
     "q": "Si la suspensión provisional acordada durante un procedimiento judicial excede de seis meses, conforme al art. 98.3 TREBEP:",
     "options": [
       "Supondrá automáticamente la pérdida del puesto de trabajo.",
-      "No supondrá pérdida del puesto de trabajo.",
-      "Se convertirá de forma automática en sanción de separación del servicio."
+      "Se convertirá de forma automática en sanción de separación del servicio.",
+      "No supondrá pérdida del puesto de trabajo."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 98.3 precisa que en ese caso, 'si la suspensión provisional excediera de seis meses no supondrá pérdida del puesto de trabajo'.",
     "fuente": "Art. 98.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7797,11 +12607,11 @@ const QUESTIONS = {
   {
     "q": "El funcionario en suspensión provisional tiene derecho, conforme al art. 98.3 TREBEP, a percibir durante la suspensión:",
     "options": [
+      "Las retribuciones básicas y, en su caso, las prestaciones familiares por hijo a cargo.",
       "La totalidad de sus retribuciones, incluidas las complementarias.",
-      "Ninguna retribución hasta que se resuelva el expediente.",
-      "Las retribuciones básicas y, en su caso, las prestaciones familiares por hijo a cargo."
+      "Ninguna retribución hasta que se resuelva el expediente."
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 98.3 reconoce al funcionario suspenso provisional el derecho a percibir 'las retribuciones básicas y, en su caso, las prestaciones familiares por hijo a cargo'.",
     "fuente": "Art. 98.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7809,11 +12619,11 @@ const QUESTIONS = {
   {
     "q": "Cuando la suspensión provisional se eleve a definitiva, conforme al art. 98.4 TREBEP, el funcionario deberá:",
     "options": [
-      "Devolver lo percibido durante el tiempo de duración de la suspensión provisional.",
       "Reincorporarse de inmediato a su puesto de trabajo.",
+      "Devolver lo percibido durante el tiempo de duración de la suspensión provisional.",
       "Percibir con carácter retroactivo el complemento de productividad."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 98.4 dispone que 'cuando la suspensión provisional se eleve a definitiva, el funcionario deberá devolver lo percibido durante el tiempo de duración de aquélla'.",
     "fuente": "Art. 98.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7822,10 +12632,10 @@ const QUESTIONS = {
     "q": "Si la suspensión provisional no llegara a convertirse en sanción definitiva, conforme al art. 98.4 TREBEP, la Administración deberá:",
     "options": [
       "Iniciar un nuevo expediente disciplinario de oficio.",
-      "Restituir al funcionario la diferencia entre los haberes realmente percibidos y los que hubiera debido percibir con plenitud de derechos.",
-      "Abonar una indemnización equivalente al doble de los haberes dejados de percibir."
+      "Abonar una indemnización equivalente al doble de los haberes dejados de percibir.",
+      "Restituir al funcionario la diferencia entre los haberes realmente percibidos y los que hubiera debido percibir con plenitud de derechos."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 98.4 establece que, en ese caso, 'la Administración deberá restituir al funcionario la diferencia entre los haberes realmente percibidos y los que hubiera debido percibir si se hubiera encontrado con plenitud de derechos'.",
     "fuente": "Art. 98.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7833,11 +12643,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al art. 98.4 TREBEP, el tiempo de permanencia en suspensión provisional será:",
     "options": [
+      "De abono para el cumplimiento de la suspensión firme.",
       "Descontado del periodo vacacional del funcionario.",
-      "Computado únicamente a efectos de trienios.",
-      "De abono para el cumplimiento de la suspensión firme."
+      "Computado únicamente a efectos de trienios."
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 98.4 señala que 'el tiempo de permanencia en suspensión provisional será de abono para el cumplimiento de la suspensión firme'.",
     "fuente": "Art. 98.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7845,11 +12655,11 @@ const QUESTIONS = {
   {
     "q": "Cuando la suspensión no sea declarada firme, el art. 98.4 TREBEP dispone que el tiempo de duración de aquella:",
     "options": [
-      "Se computará como de servicio activo, con reincorporación inmediata y reconocimiento de los derechos económicos desde la fecha de suspensión.",
       "Se computará como situación de excedencia voluntaria.",
+      "Se computará como de servicio activo, con reincorporación inmediata y reconocimiento de los derechos económicos desde la fecha de suspensión.",
       "No generará derecho alguno para el funcionario afectado."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 98.4 establece que 'cuando la suspensión no sea declarada firme, el tiempo de duración de la misma se computará como de servicio activo, debiendo acordarse la inmediata reincorporación del funcionario a su puesto de trabajo, con reconocimiento de todos los derechos económicos y demás que procedan desde la fecha de suspensión'.",
     "fuente": "Art. 98.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7859,11 +12669,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 55.1 del TREBEP, todos los ciudadanos tienen derecho al acceso al empleo público de acuerdo con los principios constitucionales de:",
     "options": [
-      "Igualdad, mérito y capacidad",
       "Antigüedad y confianza política",
-      "Nacionalidad exclusivamente"
+      "Nacionalidad exclusivamente",
+      "Igualdad, mérito y capacidad"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "Art. 55.1 TREBEP: 'Todos los ciudadanos tienen derecho al acceso al empleo público de acuerdo con los principios constitucionales de igualdad, mérito y capacidad.'"
   },
   {
@@ -7879,21 +12689,21 @@ const QUESTIONS = {
   {
     "q": "Según el art. 56.1 del TREBEP, para participar en los procesos selectivos, entre otros requisitos, se exige tener la nacionalidad española o cumplir:",
     "options": [
-      "Los requisitos previstos para el acceso al empleo público de nacionales de otros Estados",
       "Únicamente el requisito de residencia continuada de diez años",
+      "Los requisitos previstos para el acceso al empleo público de nacionales de otros Estados",
       "Solo haber prestado servicio militar previo"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "Art. 56.1 a) TREBEP: se exige poseer la nacionalidad española, sin perjuicio de lo dispuesto en el art. 57 sobre acceso de nacionales de otros Estados."
   },
   {
     "q": "Según el art. 56.1 del TREBEP, entre los requisitos generales para participar en procesos selectivos se exige poseer la capacidad funcional para el desempeño de las tareas, y no haber sido separado mediante:",
     "options": [
-      "Expediente disciplinario del servicio de cualquier Administración Pública",
       "Un simple acuerdo verbal sin ningún expediente",
-      "Una excedencia voluntaria por interés particular"
+      "Una excedencia voluntaria por interés particular",
+      "Expediente disciplinario del servicio de cualquier Administración Pública"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "Art. 56.1 d) TREBEP: se exige no haber sido separado mediante expediente disciplinario del servicio de cualquiera de las Administraciones Públicas."
   },
   {
@@ -7909,21 +12719,21 @@ const QUESTIONS = {
   {
     "q": "Según el art. 57.1 del TREBEP, tienen acceso al empleo público, en igualdad de condiciones que los españoles, los nacionales de:",
     "options": [
-      "Los Estados miembros de la Unión Europea",
       "Cualquier país sin ninguna limitación",
+      "Los Estados miembros de la Unión Europea",
       "Únicamente países con convenio bilateral vigente"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "Art. 57.1 TREBEP: tienen acceso, en igualdad de condiciones que los españoles, los nacionales de los Estados miembros de la Unión Europea."
   },
   {
     "q": "Según el art. 57.4 del TREBEP, por razones de interés general, puede eximirse del requisito de la nacionalidad para el acceso a la condición de personal funcionario, salvo para aquellos que impliquen participación directa o indirecta en el ejercicio de potestades públicas, mediante:",
     "options": [
-      "Ley de las Cortes Generales o de las Asambleas Legislativas de las Comunidades Autónomas",
       "Decreto del Gobierno sin más trámite",
-      "Resolución del Secretario de Estado de Función Pública"
+      "Resolución del Secretario de Estado de Función Pública",
+      "Ley de las Cortes Generales o de las Asambleas Legislativas de las Comunidades Autónomas"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "Art. 57.4 TREBEP: la exención del requisito de nacionalidad, en su caso, se realiza mediante ley de las Cortes Generales o de las Asambleas Legislativas de las Comunidades Autónomas."
   },
   {
@@ -7939,21 +12749,21 @@ const QUESTIONS = {
   {
     "q": "Según el art. 59.1 del TREBEP, de ese cupo del siete por ciento, al menos el dos por ciento de las plazas ofertadas debe reservarse para personas que acrediten discapacidad:",
     "options": [
-      "Intelectual",
       "Física exclusivamente",
+      "Intelectual",
       "Sensorial auditiva únicamente"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "Art. 59.1 TREBEP: al menos el dos por ciento de las plazas ofertadas debe reservarse para personas que acrediten discapacidad intelectual, y el resto para cualquier otro tipo de discapacidad."
   },
   {
     "q": "Según el art. 60.1 del TREBEP, los órganos de selección deben ajustar su actuación a los principios de imparcialidad y profesionalidad, y tender a la paridad entre:",
     "options": [
-      "Mujeres y hombres",
       "Funcionarios de carrera e interinos",
-      "Personal laboral y personal eventual"
+      "Personal laboral y personal eventual",
+      "Mujeres y hombres"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "Art. 60.1 TREBEP: los órganos de selección serán colegiados y su composición deberá ajustarse a los principios de imparcialidad y profesionalidad, tendiendo a la paridad entre mujer y hombre."
   },
   {
@@ -7969,21 +12779,21 @@ const QUESTIONS = {
   {
     "q": "Según el art. 61.2 del TREBEP, los sistemas selectivos de funcionarios de carrera serán, con carácter general, la oposición o el:",
     "options": [
-      "Concurso-oposición, con las fases que se establezcan reglamentariamente",
       "Sorteo público entre los candidatos presentados",
+      "Concurso-oposición, con las fases que se establezcan reglamentariamente",
       "Nombramiento directo por la autoridad competente"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "Art. 61.2 TREBEP: los sistemas selectivos de funcionarios de carrera serán, con carácter general, la oposición o el concurso-oposición, que deberán incluir, en todo caso, una o varias pruebas."
   },
   {
     "q": "Según el art. 62.1 del TREBEP, la condición de funcionario de carrera se adquiere por el cumplimiento sucesivo de los requisitos de superar el proceso selectivo, ser nombrado por el órgano competente, y además:",
     "options": [
-      "Prestar juramento o promesa y acatamiento a la Constitución y al resto del ordenamiento jurídico, y tomar posesión dentro del plazo establecido",
       "Superar un examen médico adicional posterior al nombramiento",
-      "Obtener la aprobación expresa de una autoridad distinta a la que efectuó el nombramiento"
+      "Obtener la aprobación expresa de una autoridad distinta a la que efectuó el nombramiento",
+      "Prestar juramento o promesa y acatamiento a la Constitución y al resto del ordenamiento jurídico, y tomar posesión dentro del plazo establecido"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "Art. 62.1 TREBEP: la condición de funcionario de carrera se adquiere sucesivamente por la superación del proceso selectivo, el nombramiento por el órgano competente, la prestación de juramento o promesa de acatamiento a la Constitución y al resto del ordenamiento jurídico, y la toma de posesión dentro del plazo establecido."
   },
   {
@@ -7999,11 +12809,11 @@ const QUESTIONS = {
   {
     "q": "¿Cuál de las siguientes NO es una causa de pérdida de la condición de funcionario de carrera según el art. 63 TREBEP?",
     "options": [
-      "El traslado voluntario a otra Administración Pública",
       "La jubilación total del funcionario",
+      "El traslado voluntario a otra Administración Pública",
       "La pérdida de la nacionalidad"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 63 enumera taxativamente las causas de pérdida de la condición de funcionario: renuncia, pérdida de nacionalidad, jubilación total, sanción disciplinaria de separación firme y pena de inhabilitación firme. El traslado a otra Administración no figura entre ellas.",
     "fuente": "Art. 63 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8012,10 +12822,10 @@ const QUESTIONS = {
     "q": "¿Cuál de las siguientes es, según el art. 63 TREBEP, una causa de pérdida de la condición de funcionario de carrera?",
     "options": [
       "El traslado forzoso a otro puesto de trabajo",
-      "La renuncia a la condición de funcionario",
-      "El pase a la situación de excedencia voluntaria"
+      "El pase a la situación de excedencia voluntaria",
+      "La renuncia a la condición de funcionario"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 63.a) incluye la renuncia entre las causas de pérdida de la condición de funcionario de carrera.",
     "fuente": "Art. 63.a) TREBEP",
     "confianza": "alta"
@@ -8023,11 +12833,11 @@ const QUESTIONS = {
   {
     "q": "Para que la sanción disciplinaria de separación del servicio constituya causa de pérdida de la condición de funcionario, el art. 63.d) TREBEP exige que...",
     "options": [
+      "tenga carácter firme",
       "sea propuesta por el órgano instructor del expediente",
-      "haya sido notificada al interesado en el plazo de un mes",
-      "tenga carácter firme"
+      "haya sido notificada al interesado en el plazo de un mes"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 63.d) exige que la sanción disciplinaria de separación del servicio tuviere carácter firme.",
     "fuente": "Art. 63.d) TREBEP",
     "confianza": "alta"
@@ -8035,11 +12845,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 63.e) TREBEP, la pena principal o accesoria de inhabilitación absoluta o especial para cargo público es causa de pérdida de la condición de funcionario cuando...",
     "options": [
-      "tenga carácter firme",
       "se haya dictado auto de apertura de juicio oral",
+      "tenga carácter firme",
       "el funcionario esté en situación de suspensión provisional"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 63.e) exige que la pena de inhabilitación tuviere carácter firme.",
     "fuente": "Art. 63.e) TREBEP",
     "confianza": "alta"
@@ -8048,10 +12858,10 @@ const QUESTIONS = {
     "q": "La renuncia voluntaria a la condición de funcionario, según el art. 64.1 TREBEP, habrá de...",
     "options": [
       "ser aprobada por el Pleno de la Corporación en todo caso",
-      "ser manifestada por escrito y aceptada expresamente por la Administración, salvo excepción",
-      "comunicarse verbalmente al superior jerárquico y ratificarse en el plazo de quince días"
+      "comunicarse verbalmente al superior jerárquico y ratificarse en el plazo de quince días",
+      "ser manifestada por escrito y aceptada expresamente por la Administración, salvo excepción"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 64.1 dispone que la renuncia habrá de ser manifestada por escrito y aceptada expresamente por la Administración, salvo lo dispuesto en el apartado siguiente.",
     "fuente": "Art. 64.1 TREBEP",
     "confianza": "alta"
@@ -8059,11 +12869,11 @@ const QUESTIONS = {
   {
     "q": "¿En qué caso, conforme al art. 64.2 TREBEP, NO podrá ser aceptada la renuncia de un funcionario?",
     "options": [
+      "Cuando el funcionario esté sujeto a expediente disciplinario o exista auto de procesamiento o de apertura de juicio oral por delito",
       "Cuando el funcionario lleve menos de un año en el puesto",
-      "Cuando la renuncia se presente en periodo vacacional",
-      "Cuando el funcionario esté sujeto a expediente disciplinario o exista auto de procesamiento o de apertura de juicio oral por delito"
+      "Cuando la renuncia se presente en periodo vacacional"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 64.2 impide aceptar la renuncia cuando el funcionario esté sujeto a expediente disciplinario o se haya dictado en su contra auto de procesamiento o de apertura de juicio oral por delito.",
     "fuente": "Art. 64.2 TREBEP",
     "confianza": "alta"
@@ -8071,11 +12881,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 64.3 TREBEP, la renuncia a la condición de funcionario...",
     "options": [
-      "no inhabilita para ingresar de nuevo en la Administración Pública mediante el procedimiento de selección establecido",
       "inhabilita de forma permanente para volver a ingresar en la Administración Pública",
+      "no inhabilita para ingresar de nuevo en la Administración Pública mediante el procedimiento de selección establecido",
       "solo permite el reingreso transcurridos cinco años"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 64.3 aclara que la renuncia no inhabilita para ingresar de nuevo en la Administración Pública a través del procedimiento de selección establecido.",
     "fuente": "Art. 64.3 TREBEP",
     "confianza": "alta"
@@ -8084,10 +12894,10 @@ const QUESTIONS = {
     "q": "La pérdida de la nacionalidad española, según el art. 65 TREBEP, determina la pérdida de la condición de funcionario salvo que...",
     "options": [
       "el funcionario acredite diez años de servicios efectivos",
-      "simultáneamente se adquiera la nacionalidad de otro de los Estados a que se refiere el precepto",
-      "el interesado presente recurso de alzada en el plazo de un mes"
+      "el interesado presente recurso de alzada en el plazo de un mes",
+      "simultáneamente se adquiera la nacionalidad de otro de los Estados a que se refiere el precepto"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 65 exceptúa la pérdida de la condición de funcionario cuando simultáneamente se adquiera la nacionalidad de alguno de los Estados a que se refiere el precepto.",
     "fuente": "Art. 65 TREBEP",
     "confianza": "alta"
@@ -8095,11 +12905,11 @@ const QUESTIONS = {
   {
     "q": "El art. 65 TREBEP se refiere a la pérdida de la nacionalidad española o de...",
     "options": [
+      "cualquier Estado miembro de la Unión Europea o de aquellos a los que sea aplicable la libre circulación de trabajadores",
       "cualquier país iberoamericano con convenio de reciprocidad",
-      "cualquier Estado con el que España mantenga relaciones diplomáticas",
-      "cualquier Estado miembro de la Unión Europea o de aquellos a los que sea aplicable la libre circulación de trabajadores"
+      "cualquier Estado con el que España mantenga relaciones diplomáticas"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 65 se refiere a la pérdida de la nacionalidad española o de cualquier otro Estado miembro de la UE o de aquellos Estados a los que, por tratados internacionales, les sea aplicable la libre circulación de trabajadores.",
     "fuente": "Art. 65 TREBEP",
     "confianza": "alta"
@@ -8107,11 +12917,11 @@ const QUESTIONS = {
   {
     "q": "Para que la pérdida de la nacionalidad determine la pérdida de la condición de funcionario, el art. 65 TREBEP exige que dicha nacionalidad...",
     "options": [
-      "haya sido tenida en cuenta para el nombramiento",
       "se hubiera obtenido tras el ingreso en el cuerpo",
+      "haya sido tenida en cuenta para el nombramiento",
       "conste inscrita en el Registro Civil del municipio de destino"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 65 exige que la nacionalidad perdida haya sido tenida en cuenta para el nombramiento del funcionario.",
     "fuente": "Art. 65 TREBEP",
     "confianza": "alta"
@@ -8120,10 +12930,10 @@ const QUESTIONS = {
     "q": "La pena principal o accesoria de inhabilitación ABSOLUTA, firme, produce, según el art. 66 TREBEP, la pérdida de la condición de funcionario respecto de...",
     "options": [
       "únicamente el puesto de trabajo que ocupaba en el momento de la condena",
-      "todos los empleos o cargos que tuviere",
-      "el cuerpo o escala de procedencia, manteniendo otros empleos públicos"
+      "el cuerpo o escala de procedencia, manteniendo otros empleos públicos",
+      "todos los empleos o cargos que tuviere"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 66 dispone que la inhabilitación absoluta firme produce la pérdida de la condición de funcionario respecto a todos los empleos o cargos que tuviere.",
     "fuente": "Art. 66 TREBEP",
     "confianza": "alta"
@@ -8131,11 +12941,11 @@ const QUESTIONS = {
   {
     "q": "La pena de inhabilitación ESPECIAL para cargo público, firme, produce, conforme al art. 66 TREBEP, la pérdida de la condición de funcionario respecto de...",
     "options": [
+      "aquellos empleos o cargos especificados en la sentencia",
       "todos los empleos o cargos públicos, sin excepción",
-      "el empleo de mayor retribución entre los que desempeñe",
-      "aquellos empleos o cargos especificados en la sentencia"
+      "el empleo de mayor retribución entre los que desempeñe"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 66 dispone que la inhabilitación especial firme produce la pérdida de la condición de funcionario respecto de los empleos o cargos especificados en la sentencia.",
     "fuente": "Art. 66 TREBEP",
     "confianza": "alta"
@@ -8143,11 +12953,11 @@ const QUESTIONS = {
   {
     "q": "El art. 66 TREBEP exige, para que la pena de inhabilitación produzca la pérdida de la condición de funcionario, que...",
     "options": [
-      "la sentencia que la imponga haya adquirido firmeza",
       "se haya dictado sentencia en primera instancia",
+      "la sentencia que la imponga haya adquirido firmeza",
       "el Ministerio Fiscal ratifique la condena"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 66 exige en ambos casos (inhabilitación absoluta y especial) que la sentencia que la imponga hubiere adquirido firmeza.",
     "fuente": "Art. 66 TREBEP",
     "confianza": "alta"
@@ -8156,10 +12966,10 @@ const QUESTIONS = {
     "q": "Según el art. 67.1 TREBEP, la jubilación de los funcionarios podrá ser voluntaria, forzosa o...",
     "options": [
       "parcial, a solicitud del interesado",
-      "por la declaración de incapacidad permanente para el ejercicio de las funciones de su cuerpo o escala",
-      "anticipada, sin causa justificada"
+      "anticipada, sin causa justificada",
+      "por la declaración de incapacidad permanente para el ejercicio de las funciones de su cuerpo o escala"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 67.1.c) contempla la jubilación por declaración de incapacidad permanente para el ejercicio de las funciones propias del cuerpo o escala, o por reconocimiento de pensión de incapacidad permanente absoluta o total.",
     "fuente": "Art. 67.1.c) TREBEP",
     "confianza": "alta"
@@ -8167,11 +12977,11 @@ const QUESTIONS = {
   {
     "q": "La jubilación voluntaria de los funcionarios, según el art. 67.1.a) TREBEP, se produce...",
     "options": [
+      "a solicitud del funcionario",
       "de oficio al cumplir sesenta años",
-      "por resolución motivada de la Administración sin petición del interesado",
-      "a solicitud del funcionario"
+      "por resolución motivada de la Administración sin petición del interesado"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 67.1.a) califica la jubilación voluntaria como aquella que se produce a solicitud del funcionario.",
     "fuente": "Art. 67.1.a) TREBEP",
     "confianza": "alta"
@@ -8179,11 +12989,11 @@ const QUESTIONS = {
   {
     "q": "La jubilación forzosa, conforme al art. 67.1.b) TREBEP, se produce...",
     "options": [
-      "al cumplir el funcionario la edad legalmente establecida",
       "cuando lo decida el órgano de selección",
+      "al cumplir el funcionario la edad legalmente establecida",
       "transcurridos treinta años de servicios efectivos, con independencia de la edad"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 67.1.b) define la jubilación forzosa como la que se produce al cumplir la edad legalmente establecida.",
     "fuente": "Art. 67.1.b) TREBEP",
     "confianza": "alta"
@@ -8192,10 +13002,10 @@ const QUESTIONS = {
     "q": "Para que proceda la jubilación voluntaria, el art. 67.2 TREBEP exige que el funcionario...",
     "options": [
       "cuente con la autorización previa del Consejo de Ministros",
-      "reúna los requisitos y condiciones establecidos en el Régimen de Seguridad Social que le sea aplicable",
-      "haya cumplido al menos sesenta años de edad"
+      "haya cumplido al menos sesenta años de edad",
+      "reúna los requisitos y condiciones establecidos en el Régimen de Seguridad Social que le sea aplicable"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 67.2 exige que el funcionario reúna los requisitos y condiciones establecidos en el Régimen de Seguridad Social que le sea aplicable.",
     "fuente": "Art. 67.2 TREBEP",
     "confianza": "alta"
@@ -8203,11 +13013,11 @@ const QUESTIONS = {
   {
     "q": "La jubilación forzosa se declarará de oficio, según el art. 67.3 TREBEP, al cumplir el funcionario...",
     "options": [
+      "los sesenta y cinco años de edad",
       "los setenta años de edad",
-      "los sesenta años de edad",
-      "los sesenta y cinco años de edad"
+      "los sesenta años de edad"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 67.3 fija que la jubilación forzosa se declarará de oficio al cumplir el funcionario los sesenta y cinco años de edad.",
     "fuente": "Art. 67.3 TREBEP",
     "confianza": "alta"
@@ -8215,11 +13025,11 @@ const QUESTIONS = {
   {
     "q": "El art. 67.3 TREBEP permite solicitar la prolongación de la permanencia en el servicio activo, como máximo, hasta...",
     "options": [
-      "que se cumplan setenta años de edad",
       "que se cumplan sesenta y ocho años de edad",
+      "que se cumplan setenta años de edad",
       "los cinco años posteriores a la edad de jubilación forzosa, sin límite de edad"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 67.3 permite solicitar la prolongación de la permanencia en el servicio activo como máximo hasta que se cumplan setenta años de edad.",
     "fuente": "Art. 67.3 TREBEP",
     "confianza": "alta"
@@ -8228,10 +13038,10 @@ const QUESTIONS = {
     "q": "Sobre la solicitud de prolongación de la permanencia en el servicio activo, el art. 67.3 TREBEP establece que la Administración Pública competente...",
     "options": [
       "no está obligada a resolver, operando el silencio positivo",
-      "deberá resolver de forma motivada la aceptación o denegación",
-      "solo puede denegarla si concurre causa disciplinaria"
+      "solo puede denegarla si concurre causa disciplinaria",
+      "deberá resolver de forma motivada la aceptación o denegación"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 67.3 obliga a la Administración competente a resolver de forma motivada la aceptación o denegación de la prolongación.",
     "fuente": "Art. 67.3 TREBEP",
     "confianza": "alta"
@@ -8239,11 +13049,11 @@ const QUESTIONS = {
   {
     "q": "Quedan excluidos de las reglas generales de jubilación forzosa y prolongación de servicio activo del art. 67.3 TREBEP...",
     "options": [
+      "los funcionarios que tengan normas estatales específicas de jubilación",
       "los funcionarios en situación de servicios especiales",
-      "los funcionarios interinos",
-      "los funcionarios que tengan normas estatales específicas de jubilación"
+      "los funcionarios interinos"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 67.3 excluye de dichas reglas a los funcionarios que tengan normas estatales específicas de jubilación.",
     "fuente": "Art. 67.3 TREBEP",
     "confianza": "alta"
@@ -8251,11 +13061,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 67.4 TREBEP, la edad de jubilación forzosa del personal funcionario incluido en el Régimen General de la Seguridad Social será...",
     "options": [
-      "la que prevean las normas reguladoras de dicho régimen para el acceso a la pensión de jubilación contributiva sin coeficiente reductor por razón de edad",
       "siempre los sesenta y cinco años, sin excepción",
+      "la que prevean las normas reguladoras de dicho régimen para el acceso a la pensión de jubilación contributiva sin coeficiente reductor por razón de edad",
       "la fijada libremente por cada Administración Pública"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 67.4 establece que, con independencia de la edad legal del apartado 3, la edad de jubilación forzosa del personal en el Régimen General de la Seguridad Social será la prevista en las normas de dicho régimen para el acceso a la pensión contributiva sin coeficiente reductor por razón de edad.",
     "fuente": "Art. 67.4 TREBEP",
     "confianza": "alta"
@@ -8264,10 +13074,10 @@ const QUESTIONS = {
     "q": "La jubilación por incapacidad, según el art. 67.1.c) TREBEP, procede por la declaración de incapacidad permanente para las funciones del cuerpo o escala, o por...",
     "options": [
       "el simple transcurso de un año en situación de incapacidad temporal",
-      "el reconocimiento de una pensión de incapacidad permanente absoluta o total en relación con dichas funciones",
-      "la solicitud del jefe de servicio, sin informe médico"
+      "la solicitud del jefe de servicio, sin informe médico",
+      "el reconocimiento de una pensión de incapacidad permanente absoluta o total en relación con dichas funciones"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 67.1.c) incluye también el reconocimiento de una pensión de incapacidad permanente absoluta o total en relación con el ejercicio de las funciones del cuerpo o escala.",
     "fuente": "Art. 67.1.c) TREBEP",
     "confianza": "alta"
@@ -8275,11 +13085,11 @@ const QUESTIONS = {
   {
     "q": "En caso de extinción de la relación de servicio por pérdida de la nacionalidad o por jubilación por incapacidad permanente, el art. 68.1 TREBEP dispone que, desaparecida la causa, el interesado...",
     "options": [
+      "podrá solicitar la rehabilitación, que le será concedida",
       "podrá solicitar la rehabilitación, quedando a la libre discrecionalidad de la Administración",
-      "deberá superar de nuevo el proceso selectivo íntegro",
-      "podrá solicitar la rehabilitación, que le será concedida"
+      "deberá superar de nuevo el proceso selectivo íntegro"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 68.1 establece que, desaparecida la causa objetiva que motivó la pérdida de nacionalidad o la jubilación por incapacidad, el interesado podrá solicitar la rehabilitación, que le será concedida.",
     "fuente": "Art. 68.1 TREBEP",
     "confianza": "alta"
@@ -8287,11 +13097,11 @@ const QUESTIONS = {
   {
     "q": "La rehabilitación de quien perdió la condición de funcionario por condena a pena de inhabilitación, según el art. 68.2 TREBEP, podrá concederse...",
     "options": [
-      "con carácter excepcional, a petición del interesado, atendiendo a las circunstancias y entidad del delito",
       "de forma automática transcurridos dos años",
+      "con carácter excepcional, a petición del interesado, atendiendo a las circunstancias y entidad del delito",
       "únicamente mediante ley que así lo autorice expresamente"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 68.2 permite a los órganos de gobierno conceder, con carácter excepcional y a petición del interesado, la rehabilitación atendiendo a las circunstancias y entidad del delito cometido.",
     "fuente": "Art. 68.2 TREBEP",
     "confianza": "alta"
@@ -8300,10 +13110,10 @@ const QUESTIONS = {
     "q": "Si transcurrido el plazo para resolver sobre la rehabilitación del art. 68.2 TREBEP no se dicta resolución expresa, se entenderá...",
     "options": [
       "estimada la solicitud por silencio positivo",
-      "desestimada la solicitud",
-      "que el plazo queda suspendido hasta nueva petición"
+      "que el plazo queda suspendido hasta nueva petición",
+      "desestimada la solicitud"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 68.2 establece que si transcurrido el plazo para dictar resolución no se hubiera producido de forma expresa, se entenderá desestimada la solicitud.",
     "fuente": "Art. 68.2 TREBEP",
     "confianza": "alta"
@@ -8311,11 +13121,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al art. 68.2 TREBEP, la rehabilitación con carácter excepcional del funcionario condenado a pena de inhabilitación corresponde conceder a...",
     "options": [
+      "los órganos de gobierno de las Administraciones Públicas",
       "el Juez o Tribunal sentenciador",
-      "el Defensor del Pueblo",
-      "los órganos de gobierno de las Administraciones Públicas"
+      "el Defensor del Pueblo"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 68.2 atribuye esta facultad excepcional a los órganos de gobierno de las Administraciones Públicas.",
     "fuente": "Art. 68.2 TREBEP",
     "confianza": "alta"
@@ -8323,11 +13133,11 @@ const QUESTIONS = {
   {
     "q": "El art. 68 TREBEP distingue dos supuestos de rehabilitación: el del apartado 1, aplicable a la pérdida de nacionalidad y jubilación por incapacidad, y el del apartado 2, aplicable a...",
     "options": [
-      "quien perdió la condición de funcionario por condena a pena principal o accesoria de inhabilitación",
       "quien renunció voluntariamente a la condición de funcionario",
+      "quien perdió la condición de funcionario por condena a pena principal o accesoria de inhabilitación",
       "quien fue separado del servicio por sanción disciplinaria firme no derivada de delito"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 68.2 se refiere específicamente a quien hubiera perdido la condición de funcionario por haber sido condenado a la pena principal o accesoria de inhabilitación.",
     "fuente": "Art. 68 TREBEP",
     "confianza": "alta"
@@ -8371,11 +13181,11 @@ const QUESTIONS = {
   {
     "q": "Salvo el supuesto de imposibilidad legal del art. 64.2 TREBEP, la renuncia voluntaria del funcionario debe ser...",
     "options": [
-      "aceptada expresamente por la Administración",
       "comunicada al Boletín Oficial sin necesidad de aceptación",
-      "ratificada ante notario"
+      "ratificada ante notario",
+      "aceptada expresamente por la Administración"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 64.1 exige que la renuncia sea aceptada expresamente por la Administración, salvo lo dispuesto en el apartado siguiente.",
     "fuente": "Art. 64.1 TREBEP",
     "confianza": "alta"
@@ -8383,11 +13193,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 64.2 TREBEP, no podrá aceptarse la renuncia del funcionario contra el que se haya dictado...",
     "options": [
-      "sentencia firme absolutoria",
       "auto de procesamiento o de apertura de juicio oral por la comisión de un delito",
+      "sentencia firme absolutoria",
       "resolución de archivo de diligencias"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 64.2 impide aceptar la renuncia cuando se haya dictado contra el funcionario auto de procesamiento o de apertura de juicio oral por la comisión de algún delito.",
     "fuente": "Art. 64.2 TREBEP",
     "confianza": "alta"
@@ -8396,10 +13206,10 @@ const QUESTIONS = {
     "q": "Si un funcionario pierde la nacionalidad española pero adquiere simultáneamente la de otro Estado miembro de la UE, según el art. 65 TREBEP...",
     "options": [
       "pierde igualmente la condición de funcionario",
-      "pierde la condición de funcionario, pero puede solicitar la rehabilitación de forma automática",
-      "no pierde la condición de funcionario"
+      "no pierde la condición de funcionario",
+      "pierde la condición de funcionario, pero puede solicitar la rehabilitación de forma automática"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 65 exceptúa expresamente este supuesto: la pérdida de nacionalidad no determina la pérdida de la condición de funcionario si simultáneamente se adquiere la de otro de los Estados a que se refiere el precepto.",
     "fuente": "Art. 65 TREBEP",
     "confianza": "alta"
@@ -8407,11 +13217,11 @@ const QUESTIONS = {
   {
     "q": "El art. 66 TREBEP diferencia los efectos de la pena de inhabilitación según sea...",
     "options": [
-      "absoluta o especial",
       "temporal o permanente",
-      "principal o accesoria, con distinto alcance temporal"
+      "principal o accesoria, con distinto alcance temporal",
+      "absoluta o especial"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 66 distingue entre inhabilitación absoluta (pérdida respecto a todos los empleos o cargos) e inhabilitación especial (pérdida respecto de los empleos o cargos especificados en la sentencia).",
     "fuente": "Art. 66 TREBEP",
     "confianza": "alta"
@@ -8419,11 +13229,11 @@ const QUESTIONS = {
   {
     "q": "Los tres tipos de jubilación de los funcionarios de carrera que enumera el art. 67.1 TREBEP son...",
     "options": [
-      "voluntaria, anticipada y parcial",
       "voluntaria, forzosa y por incapacidad permanente",
+      "voluntaria, anticipada y parcial",
       "forzosa, disciplinaria y por incapacidad temporal"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 67.1 distingue jubilación voluntaria, forzosa y por declaración de incapacidad permanente (o reconocimiento de pensión de incapacidad permanente absoluta o total).",
     "fuente": "Art. 67.1 TREBEP",
     "confianza": "alta"
@@ -8432,10 +13242,10 @@ const QUESTIONS = {
     "q": "La jubilación forzosa por edad se declara, según el art. 67.3 TREBEP...",
     "options": [
       "a instancia de parte, mediante solicitud del interesado",
-      "solo tras informe favorable del órgano de personal",
-      "de oficio"
+      "de oficio",
+      "solo tras informe favorable del órgano de personal"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 67.3 dispone que la jubilación forzosa se declarará de oficio al cumplir el funcionario los sesenta y cinco años de edad.",
     "fuente": "Art. 67.3 TREBEP",
     "confianza": "alta"
@@ -8444,10 +13254,10 @@ const QUESTIONS = {
     "q": "A diferencia de la rehabilitación excepcional del art. 68.2 TREBEP, la rehabilitación del art. 68.1 TREBEP (pérdida de nacionalidad o jubilación por incapacidad, desaparecida la causa)...",
     "options": [
       "queda al arbitrio discrecional de la Administración",
-      "le será concedida al interesado que la solicite",
-      "requiere autorización previa del Ministerio de Hacienda"
+      "requiere autorización previa del Ministerio de Hacienda",
+      "le será concedida al interesado que la solicite"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 68.1 emplea un mandato imperativo ('le será concedida'), a diferencia del carácter excepcional y potestativo del art. 68.2 para los casos de condena a inhabilitación.",
     "fuente": "Art. 68.1 TREBEP",
     "confianza": "alta"
@@ -8478,11 +13288,11 @@ const QUESTIONS = {
   {
     "q": "Los funcionarios de carrera que, en virtud de procesos de transferencias o de procedimientos de provisión de puestos de trabajo, obtienen destino en una Administración Pública distinta, serán declarados en la situación de:",
     "options": [
-      "Servicio en otras Administraciones Públicas",
       "Servicios especiales",
-      "Excedencia voluntaria por interés particular"
+      "Excedencia voluntaria por interés particular",
+      "Servicio en otras Administraciones Públicas"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 88.1 declara en situación de servicio en otras Administraciones Públicas a los funcionarios que, por transferencias o por procedimientos de provisión de puestos, obtienen destino en otra Administración distinta.",
     "fuente": "Art. 88.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8490,11 +13300,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 88.1 del TREBEP, un funcionario declarado en servicio en otras Administraciones Públicas se mantendrá en dicha situación aunque:",
     "options": [
-      "Transcurran más de diez años en el puesto",
       "La Administración de destino lo integre como personal propio por disposición legal",
+      "Transcurran más de diez años en el puesto",
       "Sea objeto de un expediente disciplinario"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 88.1 establece que se mantendrán en esta situación en el caso de que por disposición legal de la Administración a la que acceden se integren como personal propio de ésta.",
     "fuente": "Art. 88.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8503,10 +13313,10 @@ const QUESTIONS = {
     "q": "Los funcionarios transferidos a las comunidades autónomas se integran plenamente en la organización de la función pública autonómica, hallándose en situación de:",
     "options": [
       "Servicio en otras Administraciones Públicas",
-      "Excedencia voluntaria por agrupación familiar",
-      "Servicio activo en la función pública de la comunidad autónoma"
+      "Servicio activo en la función pública de la comunidad autónoma",
+      "Excedencia voluntaria por agrupación familiar"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 88.2 dispone que los funcionarios transferidos a las comunidades autónomas se integran plenamente en su función pública, hallándose en situación de servicio activo en la función pública de la comunidad autónoma en la que se integran.",
     "fuente": "Art. 88.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8514,11 +13324,11 @@ const QUESTIONS = {
   {
     "q": "Al integrar a los funcionarios transferidos como personal propio, las comunidades autónomas deben respetar, conforme al artículo 88.2 del TREBEP:",
     "options": [
-      "El Grupo o Subgrupo del cuerpo o escala de procedencia y los derechos económicos inherentes a la posición en la carrera reconocida",
       "Únicamente la antigüedad reconocida en la Administración de origen",
-      "El régimen disciplinario aplicable en la Administración de origen"
+      "El régimen disciplinario aplicable en la Administración de origen",
+      "El Grupo o Subgrupo del cuerpo o escala de procedencia y los derechos económicos inherentes a la posición en la carrera reconocida"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 88.2 exige respetar el Grupo o Subgrupo del cuerpo o escala de procedencia, así como los derechos económicos inherentes a la posición en la carrera que tuviesen reconocido.",
     "fuente": "Art. 88.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8526,11 +13336,11 @@ const QUESTIONS = {
   {
     "q": "Los funcionarios transferidos a una comunidad autónoma mantienen en la Administración Pública de origen:",
     "options": [
-      "Ningún derecho, al perder su vinculación con la Administración de origen",
       "Todos sus derechos, como si se hallaran en servicio activo, conforme a los respectivos Estatutos de Autonomía",
+      "Ningún derecho, al perder su vinculación con la Administración de origen",
       "Solo el derecho a la reserva del puesto de trabajo durante dos años"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 88.2 señala que los funcionarios transferidos mantienen todos sus derechos en la Administración Pública de origen como si se hallaran en servicio activo, de acuerdo con los respectivos Estatutos de Autonomía.",
     "fuente": "Art. 88.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8539,10 +13349,10 @@ const QUESTIONS = {
     "q": "El artículo 88.2 del TREBEP reconoce la igualdad entre todos los funcionarios propios de las comunidades autónomas:",
     "options": [
       "Solo cuando proceden de la misma Administración de origen",
-      "Únicamente a efectos retributivos, no de carrera",
-      "Con independencia de su Administración de procedencia"
+      "Con independencia de su Administración de procedencia",
+      "Únicamente a efectos retributivos, no de carrera"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 88.2 reconoce la igualdad entre todos los funcionarios propios de las comunidades autónomas con independencia de su Administración de procedencia.",
     "fuente": "Art. 88.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8550,11 +13360,11 @@ const QUESTIONS = {
   {
     "q": "Los funcionarios de carrera en situación de servicio en otras Administraciones Públicas por haber obtenido puesto mediante los sistemas de provisión previstos en el TREBEP conservan:",
     "options": [
-      "Su condición de funcionario de la Administración de origen y el derecho a participar en las convocatorias de provisión de puestos que ésta efectúe",
       "Únicamente el derecho a percibir retribuciones de la Administración de origen",
-      "La obligación de solicitar autorización previa de la Administración de origen para cualquier ascenso"
+      "La obligación de solicitar autorización previa de la Administración de origen para cualquier ascenso",
+      "Su condición de funcionario de la Administración de origen y el derecho a participar en las convocatorias de provisión de puestos que ésta efectúe"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 88.3 establece que conservan su condición de funcionario de la Administración de origen y el derecho a participar en las convocatorias de provisión de puestos que efectúe esta última.",
     "fuente": "Art. 88.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8562,11 +13372,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al artículo 88.3 del TREBEP, el tiempo de servicio prestado en la Administración Pública en la que estén destinados los funcionarios en dicha situación se les computará como:",
     "options": [
-      "Tiempo de excedencia voluntaria",
       "Servicio activo en su cuerpo o escala de origen",
+      "Tiempo de excedencia voluntaria",
       "Tiempo no computable a ningún efecto"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 88.3 señala que el tiempo de servicio en la Administración Pública en la que estén destinados se les computará como de servicio activo en su cuerpo o escala de origen.",
     "fuente": "Art. 88.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8575,10 +13385,10 @@ const QUESTIONS = {
     "q": "Los funcionarios que reingresen al servicio activo en su Administración de origen procedentes de la situación de servicio en otras Administraciones Públicas obtendrán, conforme al artículo 88.4 del TREBEP:",
     "options": [
       "La pérdida automática de la antigüedad reconocida",
-      "El derecho a una excedencia voluntaria de un año",
-      "El reconocimiento profesional de los progresos alcanzados en el sistema de carrera profesional y sus efectos retributivos"
+      "El reconocimiento profesional de los progresos alcanzados en el sistema de carrera profesional y sus efectos retributivos",
+      "El derecho a una excedencia voluntaria de un año"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 88.4 reconoce a estos funcionarios el reconocimiento profesional de los progresos alcanzados en el sistema de carrera profesional y sus efectos sobre la posición retributiva.",
     "fuente": "Art. 88.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8586,11 +13396,11 @@ const QUESTIONS = {
   {
     "q": "¿Cuántas modalidades de excedencia contempla el artículo 89.1 del TREBEP?",
     "options": [
-      "Cinco",
       "Tres",
-      "Cuatro"
+      "Cuatro",
+      "Cinco"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 89.1 recoge cinco modalidades: interés particular, agrupación familiar, cuidado de familiares, violencia de género o sexual, y violencia terrorista.",
     "fuente": "Art. 89.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8598,11 +13408,11 @@ const QUESTIONS = {
   {
     "q": "La excedencia por razón de violencia terrorista se recoge en el artículo 89.1 del TREBEP en la letra:",
     "options": [
-      "c)",
       "e)",
+      "c)",
       "d)"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 89.1.e) contempla la excedencia por razón de violencia terrorista.",
     "fuente": "Art. 89.1.e) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8611,10 +13421,10 @@ const QUESTIONS = {
     "q": "La excedencia voluntaria por agrupación familiar se regula en el artículo 89.1 del TREBEP en la letra:",
     "options": [
       "c)",
-      "d)",
-      "b)"
+      "b)",
+      "d)"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 89.1.b) recoge la excedencia voluntaria por agrupación familiar.",
     "fuente": "Art. 89.1.b) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8622,11 +13432,11 @@ const QUESTIONS = {
   {
     "q": "La concesión de la excedencia voluntaria por interés particular queda subordinada, conforme al artículo 89.2 del TREBEP, a:",
     "options": [
-      "Las necesidades del servicio debidamente motivadas",
       "La antigüedad del funcionario en el puesto",
-      "El informe favorable del sindicato mayoritario"
+      "El informe favorable del sindicato mayoritario",
+      "Las necesidades del servicio debidamente motivadas"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 89.2 subordina la concesión de esta excedencia a las necesidades del servicio debidamente motivadas.",
     "fuente": "Art. 89.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8634,11 +13444,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 89.2 del TREBEP, la excedencia voluntaria por interés particular no podrá declararse cuando:",
     "options": [
-      "El funcionario disfrute de vacaciones ese año",
       "Al funcionario se le esté instruyendo expediente disciplinario",
+      "El funcionario disfrute de vacaciones ese año",
       "El puesto de trabajo esté vacante"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 89.2 establece que no podrá declararse esta excedencia cuando al funcionario público se le instruya expediente disciplinario.",
     "fuente": "Art. 89.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8647,10 +13457,10 @@ const QUESTIONS = {
     "q": "Procederá declarar de oficio la excedencia voluntaria por interés particular, conforme al artículo 89.2 del TREBEP, cuando:",
     "options": [
       "El funcionario lo solicite expresamente por escrito",
-      "Transcurran cinco años desde el ingreso en la función pública",
-      "Finalizada la causa que determinó el pase a una situación distinta de servicio activo, se incumpla la obligación de solicitar el reingreso en plazo"
+      "Finalizada la causa que determinó el pase a una situación distinta de servicio activo, se incumpla la obligación de solicitar el reingreso en plazo",
+      "Transcurran cinco años desde el ingreso en la función pública"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 89.2 dispone que procederá declarar de oficio esta excedencia cuando, finalizada la causa que determinó el pase a una situación distinta de servicio activo, se incumpla la obligación de solicitar el reingreso en el plazo reglamentario.",
     "fuente": "Art. 89.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8658,11 +13468,11 @@ const QUESTIONS = {
   {
     "q": "Quienes se encuentren en situación de excedencia voluntaria por interés particular, conforme al artículo 89.2 del TREBEP:",
     "options": [
-      "No devengarán retribuciones, ni les será computable el tiempo a efectos de ascensos, trienios y derechos de Seguridad Social",
       "Devengarán retribuciones reducidas al 50 por ciento",
-      "Mantendrán el cómputo a efectos de trienios pero no de ascensos"
+      "Mantendrán el cómputo a efectos de trienios pero no de ascensos",
+      "No devengarán retribuciones, ni les será computable el tiempo a efectos de ascensos, trienios y derechos de Seguridad Social"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 89.2 señala que no devengarán retribuciones, ni les será computable el tiempo que permanezcan en tal situación a efectos de ascensos, trienios y derechos de Seguridad Social.",
     "fuente": "Art. 89.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8670,11 +13480,11 @@ const QUESTIONS = {
   {
     "q": "El artículo 89.2 del TREBEP permite que las leyes de función pública que se dicten en su desarrollo:",
     "options": [
-      "Supriman la excedencia voluntaria por interés particular",
       "Establezcan una duración menor del periodo de servicios exigido y determinen los periodos mínimos de permanencia",
+      "Supriman la excedencia voluntaria por interés particular",
       "Amplíen el periodo exigido a diez años en todo caso"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 89.2 permite que las leyes de función pública establezcan una duración menor del periodo de prestación de servicios exigido y determinen los periodos mínimos de permanencia en la excedencia.",
     "fuente": "Art. 89.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8683,10 +13493,10 @@ const QUESTIONS = {
     "q": "La excedencia voluntaria por agrupación familiar podrá concederse, conforme al artículo 89.3 del TREBEP:",
     "options": [
       "Solo si el funcionario ha prestado cinco años de servicios efectivos",
-      "Únicamente a funcionarios sin hijos a cargo",
-      "Sin el requisito de haber prestado servicios efectivos durante el periodo establecido"
+      "Sin el requisito de haber prestado servicios efectivos durante el periodo establecido",
+      "Únicamente a funcionarios sin hijos a cargo"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 89.3 permite conceder esta excedencia sin el requisito de haber prestado servicios efectivos durante el periodo establecido para la excedencia por interés particular.",
     "fuente": "Art. 89.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8694,11 +13504,11 @@ const QUESTIONS = {
   {
     "q": "La excedencia voluntaria por agrupación familiar exige que el cónyuge del funcionario resida en otra localidad por haber obtenido y estar desempeñando un puesto de trabajo de carácter:",
     "options": [
-      "Definitivo, como funcionario de carrera o laboral fijo",
       "Temporal como interino",
-      "Provisional en comisión de servicios"
+      "Provisional en comisión de servicios",
+      "Definitivo, como funcionario de carrera o laboral fijo"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 89.3 exige que el cónyuge resida en otra localidad por haber obtenido y estar desempeñando un puesto de trabajo de carácter definitivo, como funcionario de carrera o como laboral fijo.",
     "fuente": "Art. 89.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8706,11 +13516,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 89.3 del TREBEP, el puesto de trabajo definitivo del cónyuge que da lugar a la excedencia por agrupación familiar puede desempeñarse, entre otros ámbitos, en:",
     "options": [
-      "Únicamente en la Administración General del Estado",
       "La Unión Europea o en organizaciones internacionales",
+      "Únicamente en la Administración General del Estado",
       "Exclusivamente en empresas privadas concesionarias de servicios públicos"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 89.3 incluye entre los ámbitos posibles la Unión Europea o las organizaciones internacionales, además de las Administraciones Públicas y órganos constitucionales o del Poder Judicial.",
     "fuente": "Art. 89.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8719,10 +13529,10 @@ const QUESTIONS = {
     "q": "Quienes se encuentren en situación de excedencia voluntaria por agrupación familiar, conforme al artículo 89.3 del TREBEP:",
     "options": [
       "Conservan el cómputo del tiempo a efectos de trienios",
-      "Tienen derecho a reserva de puesto durante dos años",
-      "No devengarán retribuciones ni les será computable el tiempo a efectos de ascensos, trienios y Seguridad Social"
+      "No devengarán retribuciones ni les será computable el tiempo a efectos de ascensos, trienios y Seguridad Social",
+      "Tienen derecho a reserva de puesto durante dos años"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 89.3 dispone que no devengarán retribuciones, ni les será computable el tiempo que permanezcan en tal situación a efectos de ascensos, trienios y Seguridad Social.",
     "fuente": "Art. 89.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8730,11 +13540,11 @@ const QUESTIONS = {
   {
     "q": "La excedencia por cuidado de familiares para atender a un familiar a su cargo hasta el segundo grado de consanguinidad o afinidad exige, conforme al artículo 89.4 del TREBEP, que dicho familiar:",
     "options": [
-      "No pueda valerse por sí mismo por razones de edad, accidente, enfermedad o discapacidad y no desempeñe actividad retribuida",
       "Resida en el mismo domicilio que el funcionario",
-      "Tenga reconocida una discapacidad igual o superior al 65 por ciento"
+      "Tenga reconocida una discapacidad igual o superior al 65 por ciento",
+      "No pueda valerse por sí mismo por razones de edad, accidente, enfermedad o discapacidad y no desempeñe actividad retribuida"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 89.4 exige que el familiar, por razones de edad, accidente, enfermedad o discapacidad, no pueda valerse por sí mismo y no desempeñe actividad retribuida.",
     "fuente": "Art. 89.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8742,11 +13552,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al artículo 89.4 del TREBEP, el periodo de excedencia por cuidado de familiares será:",
     "options": [
-      "Acumulable indefinidamente por cada nuevo sujeto causante",
       "Único por cada sujeto causante, de modo que un nuevo sujeto causante pone fin al que se viniera disfrutando",
+      "Acumulable indefinidamente por cada nuevo sujeto causante",
       "Prorrogable automáticamente hasta la jubilación del funcionario"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 89.4 establece que el período de excedencia será único por cada sujeto causante, y que un nuevo sujeto causante pone fin al que se viniera disfrutando.",
     "fuente": "Art. 89.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8755,10 +13565,10 @@ const QUESTIONS = {
     "q": "Si dos funcionarios generasen el derecho a disfrutar de la excedencia por cuidado de familiares por el mismo sujeto causante, el artículo 89.4 del TREBEP permite a la Administración:",
     "options": [
       "Denegarla automáticamente a ambos",
-      "Obligar a que la disfrute solo el funcionario de mayor antigüedad",
-      "Limitar su ejercicio simultáneo por razones justificadas relacionadas con el funcionamiento de los servicios"
+      "Limitar su ejercicio simultáneo por razones justificadas relacionadas con el funcionamiento de los servicios",
+      "Obligar a que la disfrute solo el funcionario de mayor antigüedad"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 89.4 permite a la Administración limitar el ejercicio simultáneo de esta excedencia por razones justificadas relacionadas con el funcionamiento de los servicios.",
     "fuente": "Art. 89.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8766,11 +13576,11 @@ const QUESTIONS = {
   {
     "q": "El tiempo de permanencia en la excedencia por cuidado de familiares, conforme al artículo 89.4 del TREBEP, será computable a efectos de:",
     "options": [
-      "Trienios, carrera y derechos en el régimen de Seguridad Social aplicable",
       "Únicamente a efectos de antigüedad, no de Seguridad Social",
-      "Ningún efecto, salvo el reingreso"
+      "Ningún efecto, salvo el reingreso",
+      "Trienios, carrera y derechos en el régimen de Seguridad Social aplicable"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 89.4 señala que el tiempo de permanencia será computable a efectos de trienios, carrera y derechos en el régimen de Seguridad Social que sea de aplicación.",
     "fuente": "Art. 89.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8778,11 +13588,11 @@ const QUESTIONS = {
   {
     "q": "En la excedencia por cuidado de familiares, el puesto de trabajo desempeñado se reservará, conforme al artículo 89.4 del TREBEP:",
     "options": [
-      "Durante todo el periodo de excedencia, sin límite",
       "Al menos durante dos años, y transcurrido este periodo la reserva será a un puesto en la misma localidad y de igual retribución",
+      "Durante todo el periodo de excedencia, sin límite",
       "Solo durante los primeros seis meses"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 89.4 establece que el puesto se reservará al menos durante dos años, y transcurrido este periodo la reserva será a un puesto en la misma localidad y de igual retribución.",
     "fuente": "Art. 89.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8791,10 +13601,10 @@ const QUESTIONS = {
     "q": "Los funcionarios en situación de excedencia por cuidado de familiares, conforme al artículo 89.4 del TREBEP:",
     "options": [
       "Tienen prohibido participar en cursos de formación convocados por la Administración",
-      "Solo podrán formarse por cuenta propia y sin relación con la Administración",
-      "Podrán participar en los cursos de formación que convoque la Administración"
+      "Podrán participar en los cursos de formación que convoque la Administración",
+      "Solo podrán formarse por cuenta propia y sin relación con la Administración"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 89.4 reconoce a estos funcionarios el derecho a participar en los cursos de formación que convoque la Administración.",
     "fuente": "Art. 89.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8802,11 +13612,11 @@ const QUESTIONS = {
   {
     "q": "Las funcionarias víctimas de violencia de género o de violencia sexual tendrán derecho a solicitar la excedencia, conforme al artículo 89.5 del TREBEP:",
     "options": [
-      "Sin tener que haber prestado un tiempo mínimo de servicios previos y sin que sea exigible plazo de permanencia",
       "Solo tras haber prestado cinco años de servicios efectivos",
-      "Con un plazo mínimo de permanencia de un año"
+      "Con un plazo mínimo de permanencia de un año",
+      "Sin tener que haber prestado un tiempo mínimo de servicios previos y sin que sea exigible plazo de permanencia"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 89.5 reconoce este derecho sin tener que haber prestado un tiempo mínimo de servicios previos y sin que sea exigible plazo de permanencia en la excedencia.",
     "fuente": "Art. 89.5 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8814,11 +13624,11 @@ const QUESTIONS = {
   {
     "q": "Durante los seis primeros meses de la excedencia por razón de violencia de género o sexual, dicho periodo será computable, conforme al artículo 89.5 del TREBEP, a efectos de:",
     "options": [
-      "Solo a efectos de antigüedad",
       "Antigüedad, carrera y derechos del régimen de Seguridad Social aplicable",
+      "Solo a efectos de antigüedad",
       "No será computable a ningún efecto"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 89.5 dispone que dicho período de reserva será computable a efectos de antigüedad, carrera y derechos del régimen de Seguridad Social que sea de aplicación.",
     "fuente": "Art. 89.5 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8827,10 +13637,10 @@ const QUESTIONS = {
     "q": "Cuando las actuaciones judiciales lo exigieran, el periodo de reserva de puesto en la excedencia por violencia de género o sexual podrá prorrogarse, conforme al artículo 89.5 del TREBEP:",
     "options": [
       "Por seis meses, sin límite máximo",
-      "Por un año adicional improrrogable",
-      "Por tres meses, con un máximo de dieciocho meses"
+      "Por tres meses, con un máximo de dieciocho meses",
+      "Por un año adicional improrrogable"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 89.5 permite prorrogar el periodo por tres meses, con un máximo de dieciocho meses, cuando las actuaciones judiciales lo exijan.",
     "fuente": "Art. 89.5 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8838,11 +13648,11 @@ const QUESTIONS = {
   {
     "q": "Durante los dos primeros meses de la excedencia por razón de violencia de género o sexual, la funcionaria tendrá derecho, conforme al artículo 89.5 del TREBEP, a percibir:",
     "options": [
-      "Las retribuciones íntegras y, en su caso, las prestaciones familiares por hijo a cargo",
       "El 50 por ciento de sus retribuciones",
-      "Únicamente las retribuciones básicas, sin complementos"
+      "Únicamente las retribuciones básicas, sin complementos",
+      "Las retribuciones íntegras y, en su caso, las prestaciones familiares por hijo a cargo"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 89.5 reconoce el derecho a percibir las retribuciones íntegras y, en su caso, las prestaciones familiares por hijo a cargo durante los dos primeros meses.",
     "fuente": "Art. 89.5 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8850,11 +13660,11 @@ const QUESTIONS = {
   {
     "q": "La finalidad de la excedencia por razón de violencia de género o de violencia sexual, conforme al artículo 89.5 del TREBEP, es hacer efectiva:",
     "options": [
-      "La reducción de jornada laboral de la víctima",
       "La protección de la víctima o su derecho a la asistencia social integral",
+      "La reducción de jornada laboral de la víctima",
       "La conciliación de la vida laboral y familiar en general"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 89.5 señala que esta excedencia tiene por objeto hacer efectiva la protección de la víctima o su derecho a la asistencia social integral.",
     "fuente": "Art. 89.5 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8863,10 +13673,10 @@ const QUESTIONS = {
     "q": "Tendrán derecho a la excedencia por razón de violencia terrorista, conforme al artículo 89.6 del TREBEP, los funcionarios que hayan sufrido daños físicos o psíquicos como consecuencia de la actividad terrorista, así como:",
     "options": [
       "Cualquier funcionario que resida en una zona de riesgo",
-      "Los familiares de segundo grado de una víctima del terrorismo",
-      "Los amenazados en los términos del artículo 5 de la Ley 29/2011, de 22 de septiembre"
+      "Los amenazados en los términos del artículo 5 de la Ley 29/2011, de 22 de septiembre",
+      "Los familiares de segundo grado de una víctima del terrorismo"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 89.6 extiende este derecho a los amenazados en los términos del artículo 5 de la Ley 29/2011, de Reconocimiento y Protección Integral a las Víctimas del Terrorismo.",
     "fuente": "Art. 89.6 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8874,11 +13684,11 @@ const QUESTIONS = {
   {
     "q": "El derecho a la excedencia por razón de violencia terrorista, conforme al artículo 89.6 del TREBEP, requiere el previo reconocimiento de:",
     "options": [
-      "El Ministerio del Interior o sentencia judicial firme",
       "El Ministerio de Justicia únicamente",
-      "El Defensor del Pueblo"
+      "El Defensor del Pueblo",
+      "El Ministerio del Interior o sentencia judicial firme"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 89.6 exige el previo reconocimiento del Ministerio del Interior o de sentencia judicial firme.",
     "fuente": "Art. 89.6 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8886,11 +13696,11 @@ const QUESTIONS = {
   {
     "q": "Los funcionarios que accedan a la excedencia por razón de violencia terrorista disfrutarán de dicho periodo, conforme al artículo 89.6 del TREBEP:",
     "options": [
-      "En condiciones distintas y menos favorables que las víctimas de violencia de género",
       "En las mismas condiciones que las víctimas de violencia de género o de violencia sexual",
+      "En condiciones distintas y menos favorables que las víctimas de violencia de género",
       "Solo durante un máximo de tres meses"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 89.6 reconoce el derecho a disfrutar de la excedencia en las mismas condiciones que las víctimas de violencia de género o de violencia sexual.",
     "fuente": "Art. 89.6 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8899,10 +13709,10 @@ const QUESTIONS = {
     "q": "La excedencia por razón de violencia terrorista será autorizada y mantenida en el tiempo, conforme al artículo 89.6 del TREBEP:",
     "options": [
       "Durante un plazo fijo de dieciocho meses en todo caso",
-      "Únicamente hasta que se dicte sentencia firme en el procedimiento penal",
-      "En tanto resulte necesaria para la protección y asistencia social integral de la persona, por las secuelas o la amenaza, en los términos previstos reglamentariamente"
+      "En tanto resulte necesaria para la protección y asistencia social integral de la persona, por las secuelas o la amenaza, en los términos previstos reglamentariamente",
+      "Únicamente hasta que se dicte sentencia firme en el procedimiento penal"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 89.6 dispone que la excedencia será autorizada y mantenida en tanto resulte necesaria para la protección y asistencia social integral de la persona, ya sea por las secuelas de la acción terrorista, ya sea por la amenaza, en los términos reglamentarios.",
     "fuente": "Art. 89.6 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8910,11 +13720,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al artículo 90.1 del TREBEP, el funcionario declarado en situación de suspensión quedará privado durante el tiempo de permanencia en la misma de:",
     "options": [
-      "El ejercicio de sus funciones y de todos los derechos inherentes a su condición",
       "Solo del ejercicio de sus funciones, conservando el resto de derechos",
-      "Únicamente de las retribuciones complementarias"
+      "Únicamente de las retribuciones complementarias",
+      "El ejercicio de sus funciones y de todos los derechos inherentes a su condición"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 90.1 establece que el funcionario suspendido queda privado del ejercicio de sus funciones y de todos los derechos inherentes a la condición durante el tiempo de permanencia en la situación.",
     "fuente": "Art. 90.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8922,11 +13732,11 @@ const QUESTIONS = {
   {
     "q": "La suspensión firme, conforme al artículo 90.2 del TREBEP, se impondrá en virtud de:",
     "options": [
-      "Resolución administrativa de cese en el puesto",
       "Sentencia dictada en causa criminal o de sanción disciplinaria",
+      "Resolución administrativa de cese en el puesto",
       "Decisión unilateral del superior jerárquico"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 90.2 dispone que la suspensión firme se impondrá en virtud de sentencia dictada en causa criminal o en virtud de sanción disciplinaria.",
     "fuente": "Art. 90.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8935,10 +13745,10 @@ const QUESTIONS = {
     "q": "El funcionario declarado en situación de suspensión de funciones, conforme al artículo 90.3 del TREBEP, no podrá:",
     "options": [
       "Residir fuera del municipio donde prestaba servicios",
-      "Ejercer cualquier profesión, incluidas las del sector privado",
-      "Prestar servicios en ninguna Administración Pública ni en los organismos, agencias o entidades de derecho público dependientes o vinculadas a ellas durante el cumplimiento de la pena o sanción"
+      "Prestar servicios en ninguna Administración Pública ni en los organismos, agencias o entidades de derecho público dependientes o vinculadas a ellas durante el cumplimiento de la pena o sanción",
+      "Ejercer cualquier profesión, incluidas las del sector privado"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 90.3 prohíbe prestar servicios en ninguna Administración Pública ni en los organismos, agencias o entidades de derecho público dependientes o vinculadas a ellas durante el tiempo de cumplimiento de la pena o sanción.",
     "fuente": "Art. 90.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8946,11 +13756,11 @@ const QUESTIONS = {
   {
     "q": "El artículo 90.4 del TREBEP permite acordar la suspensión de funciones con carácter provisional:",
     "options": [
-      "Con ocasión de la tramitación de un procedimiento judicial o expediente disciplinario, en los términos establecidos en el Estatuto",
       "Solo tras sentencia firme condenatoria",
-      "Exclusivamente por decisión del Ministerio Fiscal"
+      "Exclusivamente por decisión del Ministerio Fiscal",
+      "Con ocasión de la tramitación de un procedimiento judicial o expediente disciplinario, en los términos establecidos en el Estatuto"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 90.4 permite acordar la suspensión provisional con ocasión de la tramitación de un procedimiento judicial o expediente disciplinario, en los términos establecidos en el Estatuto.",
     "fuente": "Art. 90.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -9438,11 +14248,11 @@ const QUESTIONS = {
   {
     "q": "¿Qué determina, con carácter general, el artículo 91 del TREBEP sobre el reingreso al servicio activo de los funcionarios de carrera?",
     "options": [
-      "Que se regularán reglamentariamente los plazos, procedimientos y condiciones para solicitarlo, según las situaciones de procedencia, respetando la reserva de puesto cuando proceda.",
       "Que el reingreso se producirá automáticamente al finalizar cualquier situación administrativa, sin necesidad de solicitud.",
+      "Que se regularán reglamentariamente los plazos, procedimientos y condiciones para solicitarlo, según las situaciones de procedencia, respetando la reserva de puesto cuando proceda.",
       "Que el reingreso corresponde decidirlo, en todo caso, a la Comisión de Coordinación del Empleo Público."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 91 remite a desarrollo reglamentario los plazos, procedimientos y condiciones del reingreso, según la situación de procedencia, con respeto al derecho a reserva de puesto cuando proceda.",
     "fuente": "Art. 91 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -9451,10 +14261,10 @@ const QUESTIONS = {
     "q": "El artículo 91 TREBEP vincula la regulación del reingreso al servicio activo a:",
     "options": [
       "La categoría profesional acreditada en el sector privado.",
-      "Las situaciones administrativas de procedencia del funcionario de carrera.",
-      "El resultado de una nueva prueba selectiva de acceso."
+      "El resultado de una nueva prueba selectiva de acceso.",
+      "Las situaciones administrativas de procedencia del funcionario de carrera."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 91 establece que los plazos, procedimientos y condiciones del reingreso se regularán 'según las situaciones administrativas de procedencia'.",
     "fuente": "Art. 91 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -9462,11 +14272,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al art. 91 TREBEP, en el reingreso al servicio activo se respetará:",
     "options": [
+      "El derecho a la reserva del puesto de trabajo en los casos en que proceda conforme al Estatuto.",
       "El derecho a percibir retribuciones atrasadas correspondientes a la situación administrativa previa.",
-      "El derecho a elegir libremente el puesto de trabajo sin sujeción a convocatoria alguna.",
-      "El derecho a la reserva del puesto de trabajo en los casos en que proceda conforme al Estatuto."
+      "El derecho a elegir libremente el puesto de trabajo sin sujeción a convocatoria alguna."
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El artículo señala que el reingreso se regulará 'con respeto al derecho a la reserva del puesto de trabajo en los casos en que proceda conforme al presente Estatuto'.",
     "fuente": "Art. 91 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -9474,11 +14284,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 92 TREBEP, el personal laboral al servicio de las Administraciones Públicas se rige por:",
     "options": [
-      "El Estatuto de los Trabajadores y los Convenios Colectivos que le sean de aplicación.",
       "El propio TREBEP con exclusión de cualquier otra norma laboral.",
+      "El Estatuto de los Trabajadores y los Convenios Colectivos que le sean de aplicación.",
       "El Estatuto Básico del Empleado Público y el Código de Comercio."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 92 dispone que 'el personal laboral se regirá por el Estatuto de los Trabajadores y por los Convenios Colectivos que les sean de aplicación'.",
     "fuente": "Art. 92 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -9487,10 +14297,10 @@ const QUESTIONS = {
     "q": "El art. 92 TREBEP permite que los convenios colectivos determinen la aplicación al personal laboral de:",
     "options": [
       "El régimen disciplinario recogido en el Título VII del propio Estatuto.",
-      "El capítulo de situaciones administrativas, en lo que resulte compatible con el Estatuto de los Trabajadores.",
-      "El sistema retributivo previsto para los funcionarios de carrera."
+      "El sistema retributivo previsto para los funcionarios de carrera.",
+      "El capítulo de situaciones administrativas, en lo que resulte compatible con el Estatuto de los Trabajadores."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El precepto añade que 'los convenios colectivos podrán determinar la aplicación de este capítulo al personal incluido en su ámbito de aplicación en lo que resulte compatible con el Estatuto de los Trabajadores'.",
     "fuente": "Art. 92 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -9498,11 +14308,11 @@ const QUESTIONS = {
   {
     "q": "El artículo 92, dedicado a las «situaciones del personal laboral», se encuentra ubicado en el TREBEP dentro de:",
     "options": [
+      "El Título VI, situaciones administrativas, cerrando dicho título.",
       "El Título VII, régimen disciplinario.",
-      "Un título autónomo dedicado en exclusiva al personal laboral.",
-      "El Título VI, situaciones administrativas, cerrando dicho título."
+      "Un título autónomo dedicado en exclusiva al personal laboral."
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 92 es el último artículo del Título VI ('Situaciones administrativas'); a continuación se abre el Título VII ('Régimen disciplinario') con el art. 93.",
     "fuente": "Art. 92 TREBEP (RDLeg 5/2015); rúbrica del Título VI",
     "confianza": "alta"
@@ -9510,11 +14320,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 1.1 del RD 365/1995, ¿a qué funcionarios resulta de aplicación este Reglamento?",
     "options": [
-      "A los funcionarios de la Administración General del Estado y sus Organismos autónomos comprendidos en el ámbito de la Ley 30/1984, de 2 de agosto",
       "A todos los funcionarios públicos de cualquier Administración, incluidas las Comunidades Autónomas y Entidades Locales",
+      "A los funcionarios de la Administración General del Estado y sus Organismos autónomos comprendidos en el ámbito de la Ley 30/1984, de 2 de agosto",
       "Únicamente a los funcionarios de los Cuerpos docentes del Estado"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 1.1 delimita el ámbito subjetivo del Reglamento a los funcionarios de la AGE y sus Organismos autónomos comprendidos en la Ley 30/1984.",
     "fuente": "Art. 1.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9523,10 +14333,10 @@ const QUESTIONS = {
     "q": "De acuerdo con el art. 1.2 del RD 365/1995, ¿qué ocurre con los funcionarios de los Cuerpos o Escalas de la función pública docente?",
     "options": [
       "Quedan excluidos por completo del ámbito del Reglamento",
-      "No les son de aplicación las disposiciones del Reglamento relativas a las situaciones aludidas en el párrafo segundo de la disposición adicional decimoquinta de la Ley 30/1984",
-      "Se les aplica el Reglamento en su totalidad sin ninguna excepción"
+      "Se les aplica el Reglamento en su totalidad sin ninguna excepción",
+      "No les son de aplicación las disposiciones del Reglamento relativas a las situaciones aludidas en el párrafo segundo de la disposición adicional decimoquinta de la Ley 30/1984"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 1.2 excluye para estos funcionarios solo las disposiciones referidas a las situaciones aludidas en dicha disposición adicional, no todo el Reglamento.",
     "fuente": "Art. 1.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9534,11 +14344,11 @@ const QUESTIONS = {
   {
     "q": "¿Cuántas situaciones administrativas distintas enumera el art. 2 del RD 365/1995?",
     "options": [
+      "Once",
       "Nueve",
-      "Trece",
-      "Once"
+      "Trece"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 2 enumera once situaciones, de la letra a) a la k).",
     "fuente": "Art. 2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9546,11 +14356,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 2 del RD 365/1995, ¿qué situación administrativa corresponde a la letra e)?",
     "options": [
-      "Excedencia forzosa",
       "Suspensión de funciones",
+      "Excedencia forzosa",
       "Servicio en Comunidades Autónomas"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "La letra e) del art. 2 recoge la excedencia forzosa; la letra k) recoge la suspensión de funciones y la letra c) el servicio en Comunidades Autónomas.",
     "fuente": "Art. 2.e) RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9559,10 +14369,10 @@ const QUESTIONS = {
     "q": "Conforme al art. 3 del RD 365/1995, ¿en cuál de estos supuestos se considera al funcionario en situación de servicio activo?",
     "options": [
       "Cuando se encuentre en excedencia voluntaria por interés particular",
-      "Cuando se encuentre en comisión de servicios",
-      "Cuando se encuentre en suspensión firme de funciones"
+      "Cuando se encuentre en suspensión firme de funciones",
+      "Cuando se encuentre en comisión de servicios"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 3.c) incluye en servicio activo al funcionario que se encuentre en comisión de servicios.",
     "fuente": "Art. 3.c) RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9570,11 +14380,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 3.e) del RD 365/1995, se hallan en servicio activo los funcionarios que presten servicios en...",
     "options": [
+      "Las Cortes Generales o el Tribunal de Cuentas, cuando no les corresponda quedar en otra situación",
       "Organismos internacionales por más de seis meses",
-      "Los órganos de gobierno de las Comunidades Autónomas como altos cargos",
-      "Las Cortes Generales o el Tribunal de Cuentas, cuando no les corresponda quedar en otra situación"
+      "Los órganos de gobierno de las Comunidades Autónomas como altos cargos"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 3.e) incluye en servicio activo a quienes presten servicios en las Cortes Generales o el Tribunal de Cuentas, si no corresponde otra situación.",
     "fuente": "Art. 3.e) RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9582,11 +14392,11 @@ const QUESTIONS = {
   {
     "q": "De acuerdo con el art. 3.g) del RD 365/1995, los funcionarios que acceden a la condición de miembros de las Corporaciones Locales permanecen en servicio activo, salvo que...",
     "options": [
-      "Desempeñen cargo retribuido y de dedicación exclusiva en las mismas",
       "Sean nombrados Diputados o Senadores",
+      "Desempeñen cargo retribuido y de dedicación exclusiva en las mismas",
       "Pasen a prestar servicios en una Comunidad Autónoma"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 3.g) prevé el servicio activo para miembros de Corporaciones Locales, salvo que desempeñen cargo retribuido y de dedicación exclusiva.",
     "fuente": "Art. 3.g) RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9595,10 +14405,10 @@ const QUESTIONS = {
     "q": "Según el art. 3.i) del RD 365/1995, permanece en servicio activo el funcionario que...",
     "options": [
       "Es declarado en expectativa de destino",
-      "Cesa en un puesto por haber obtenido otro mediante procedimientos de provisión de puestos, durante el plazo posesorio",
-      "Solicita la excedencia voluntaria por agrupación familiar"
+      "Solicita la excedencia voluntaria por agrupación familiar",
+      "Cesa en un puesto por haber obtenido otro mediante procedimientos de provisión de puestos, durante el plazo posesorio"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 3.i) mantiene en servicio activo, durante el plazo posesorio, a quien cesa en un puesto por haber obtenido otro mediante procedimientos de provisión.",
     "fuente": "Art. 3.i) RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9606,11 +14416,11 @@ const QUESTIONS = {
   {
     "q": "El art. 3.l) del RD 365/1995 incluye como supuesto de servicio activo...",
     "options": [
+      "El supuesto de cesación progresiva de actividades",
       "La suspensión provisional de funciones",
-      "La reserva de puesto de trabajo tras servicios especiales",
-      "El supuesto de cesación progresiva de actividades"
+      "La reserva de puesto de trabajo tras servicios especiales"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "La letra l) del art. 3 incluye expresamente el supuesto de cesación progresiva de actividades.",
     "fuente": "Art. 3.l) RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9618,11 +14428,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 4.a) del RD 365/1995, se declara la situación de servicios especiales cuando el funcionario es autorizado para realizar una misión en Organismos internacionales, Gobiernos o Entidades públicas extranjeras...",
     "options": [
-      "Por un período determinado superior a seis meses",
       "Por un período determinado superior a un año",
+      "Por un período determinado superior a seis meses",
       "Sin límite mínimo de duración"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 4.a) exige un período determinado superior a seis meses para declarar servicios especiales por este motivo.",
     "fuente": "Art. 4.a) RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9631,10 +14441,10 @@ const QUESTIONS = {
     "q": "Conforme al art. 4.b) del RD 365/1995, procede declarar servicios especiales cuando el funcionario...",
     "options": [
       "Es nombrado Delegado del Gobierno",
-      "Adquiere la condición de funcionario al servicio de Organizaciones internacionales o de carácter supranacional",
-      "Obtiene un puesto de libre designación en su Ministerio"
+      "Obtiene un puesto de libre designación en su Ministerio",
+      "Adquiere la condición de funcionario al servicio de Organizaciones internacionales o de carácter supranacional"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 4.b) contempla la adquisición de la condición de funcionario al servicio de Organizaciones internacionales o supranacionales.",
     "fuente": "Art. 4.b) RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9642,11 +14452,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 4.e) del RD 365/1995, están en servicios especiales los funcionarios adscritos a los servicios de...",
     "options": [
-      "Las Corporaciones Locales de su provincia",
       "El Tribunal Constitucional o el Defensor del Pueblo, o destinados al Tribunal de Cuentas, en los términos previstos legalmente",
+      "Las Corporaciones Locales de su provincia",
       "Los Gabinetes de los Delegados del Gobierno o Gobernadores Civiles"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 4.e) declara servicios especiales para los adscritos al Tribunal Constitucional, Defensor del Pueblo o destinados al Tribunal de Cuentas.",
     "fuente": "Art. 4.e) RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9654,11 +14464,11 @@ const QUESTIONS = {
   {
     "q": "El art. 4.f) del RD 365/1995 declara en servicios especiales a quienes...",
     "options": [
-      "Accedan a la condición de Diputado o Senador de las Cortes Generales",
       "Sean nombrados funcionarios en comisión de servicios",
+      "Accedan a la condición de Diputado o Senador de las Cortes Generales",
       "Pasen a la situación de expectativa de destino"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "La letra f) del art. 4 declara servicios especiales para quienes accedan a la condición de Diputado o Senador.",
     "fuente": "Art. 4.f) RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9667,10 +14477,10 @@ const QUESTIONS = {
     "q": "Según el art. 4.k) del RD 365/1995, se declara la situación de servicios especiales cuando el funcionario...",
     "options": [
       "Solicite la excedencia voluntaria por interés particular",
-      "Cumpla el servicio militar o prestación social sustitutoria equivalente",
-      "Obtenga un puesto de trabajo en la misma provincia"
+      "Obtenga un puesto de trabajo en la misma provincia",
+      "Cumpla el servicio militar o prestación social sustitutoria equivalente"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 4.k) declara servicios especiales cuando el funcionario cumple el servicio militar o la prestación social sustitutoria equivalente.",
     "fuente": "Art. 4.k) RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9678,11 +14488,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al art. 4.l) del RD 365/1995, quedan en servicios especiales los funcionarios que sean...",
     "options": [
+      "Elegidos miembros del Parlamento Europeo",
       "Nombrados miembros de un Ayuntamiento sin dedicación exclusiva",
-      "Destinados a una Comunidad Autónoma por concurso",
-      "Elegidos miembros del Parlamento Europeo"
+      "Destinados a una Comunidad Autónoma por concurso"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "La letra l) del art. 4 declara servicios especiales para los funcionarios elegidos miembros del Parlamento Europeo.",
     "fuente": "Art. 4.l) RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9690,11 +14500,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 5 del RD 365/1995, ¿qué se entiende por 'cargo de carácter político' a efectos del pase a servicios especiales?",
     "options": [
-      "El cargo de confianza que no implique una relación profesional de carácter permanente, del que se derive incompatibilidad para ejercer la función pública y que conlleve responsabilidades directivas o de asesoramiento a nivel político",
       "Cualquier puesto de trabajo obtenido por libre designación",
+      "El cargo de confianza que no implique una relación profesional de carácter permanente, del que se derive incompatibilidad para ejercer la función pública y que conlleve responsabilidades directivas o de asesoramiento a nivel político",
       "Todo puesto directivo en un Organismo autónomo estatal"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 5 define el cargo de carácter político como cargo de confianza sin relación profesional permanente, con incompatibilidad y responsabilidades directivas o de asesoramiento político.",
     "fuente": "Art. 5 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9703,10 +14513,10 @@ const QUESTIONS = {
     "q": "El art. 5 del RD 365/1995 atribuye el establecimiento de los criterios para calificar un cargo como de carácter político a...",
     "options": [
       "El Ministerio de Asuntos Exteriores",
-      "El Ministerio para las Administraciones Públicas",
-      "El Consejo de Estado"
+      "El Consejo de Estado",
+      "El Ministerio para las Administraciones Públicas"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "Conforme al art. 5, dichos criterios los establece el Ministerio para las Administraciones Públicas.",
     "fuente": "Art. 5 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9714,11 +14524,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 6.1 del RD 365/1995, el pase a la situación de servicios especiales se declara...",
     "options": [
+      "De oficio o a instancia del interesado, con efectos desde el momento en que se produjo el supuesto",
       "Solo a instancia del interesado, nunca de oficio",
-      "Exclusivamente mediante resolución del Consejo de Ministros",
-      "De oficio o a instancia del interesado, con efectos desde el momento en que se produjo el supuesto"
+      "Exclusivamente mediante resolución del Consejo de Ministros"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 6.1 permite la declaración de oficio o a instancia del interesado, con efectos desde que se produjo el supuesto.",
     "fuente": "Art. 6.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9726,11 +14536,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al art. 6.2 del RD 365/1995, la autorización para realizar una misión de carácter internacional requiere que conste el interés de la Administración según los criterios que establezca...",
     "options": [
-      "El Ministerio de Asuntos Exteriores",
       "El Ministerio para las Administraciones Públicas",
+      "El Ministerio de Asuntos Exteriores",
       "La Secretaría de Estado para la Administración Pública"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 6.2 exige que el interés de la Administración conste conforme a los criterios que establezca el Ministerio de Asuntos Exteriores.",
     "fuente": "Art. 6.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9739,10 +14549,10 @@ const QUESTIONS = {
     "q": "Según el art. 7.1.a) del RD 365/1995, cuando el puesto desempeñado antes de pasar a servicios especiales se hubiera obtenido por libre designación, al reingreso se adjudicará...",
     "options": [
       "Un puesto de igual nivel y similares retribuciones, con carácter definitivo, en el mismo Ministerio",
-      "Un puesto de igual nivel y similares retribuciones, con carácter provisional, en el mismo municipio, hasta obtener otro con carácter definitivo",
-      "El mismo puesto que desempeñaba, con carácter definitivo"
+      "El mismo puesto que desempeñaba, con carácter definitivo",
+      "Un puesto de igual nivel y similares retribuciones, con carácter provisional, en el mismo municipio, hasta obtener otro con carácter definitivo"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 7.1.a) prevé un puesto provisional de igual nivel y similares retribuciones en el mismo municipio para quienes procedían de un puesto de libre designación.",
     "fuente": "Art. 7.1.a) RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9750,11 +14560,11 @@ const QUESTIONS = {
   {
     "q": "En los supuestos no correspondientes a libre designación, el art. 7.1.b) del RD 365/1995 dispone que se adjudicará al funcionario, con carácter definitivo...",
     "options": [
+      "Un puesto de igual nivel y similares retribuciones en el mismo Ministerio y municipio",
       "Cualquier puesto vacante en la Administración, sin garantía de nivel",
-      "Un puesto de nivel superior en otro Ministerio",
-      "Un puesto de igual nivel y similares retribuciones en el mismo Ministerio y municipio"
+      "Un puesto de nivel superior en otro Ministerio"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 7.1.b) adjudica, con carácter definitivo, un puesto de igual nivel y similares retribuciones en el mismo Ministerio y municipio.",
     "fuente": "Art. 7.1.b) RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9762,11 +14572,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 8.1 del RD 365/1995, los funcionarios en situación de servicios especiales perciben...",
     "options": [
-      "La retribución del puesto o cargo efectivo que desempeñen, y no la que les corresponda como funcionarios",
       "Las retribuciones que les corresponderían como funcionarios en servicio activo",
+      "La retribución del puesto o cargo efectivo que desempeñen, y no la que les corresponda como funcionarios",
       "Únicamente las retribuciones básicas y los trienios"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 8.1 establece que perciben la retribución del puesto o cargo efectivo desempeñado, y no la de funcionario.",
     "fuente": "Art. 8.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9775,10 +14585,10 @@ const QUESTIONS = {
     "q": "El art. 8.2 del RD 365/1995 establece que el tiempo en servicios especiales se computará a efectos de...",
     "options": [
       "Únicamente a efectos de antigüedad, sin repercusión en derechos pasivos",
-      "Ascensos, consolidación de grado personal, trienios y derechos pasivos, así como para el período mínimo de excedencia voluntaria por interés particular",
-      "Solo a efectos de trienios, quedando excluidos los ascensos"
+      "Solo a efectos de trienios, quedando excluidos los ascensos",
+      "Ascensos, consolidación de grado personal, trienios y derechos pasivos, así como para el período mínimo de excedencia voluntaria por interés particular"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 8.2 computa el tiempo en servicios especiales a efectos de ascensos, grado personal, trienios, derechos pasivos y período mínimo para la excedencia voluntaria por interés particular.",
     "fuente": "Art. 8.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9786,11 +14596,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 8.1 del RD 365/1995, cuando las retribuciones por trienios no puedan percibirse con cargo a los presupuestos correspondientes, ¿quién debe abonarlas?",
     "options": [
+      "El Departamento en el que el funcionario desempeñaba su último puesto en servicio activo",
       "La Secretaría de Estado para la Administración Pública",
-      "El propio Organismo internacional o entidad donde presta servicio",
-      "El Departamento en el que el funcionario desempeñaba su último puesto en servicio activo"
+      "El propio Organismo internacional o entidad donde presta servicio"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 8.1 atribuye ese abono excepcional al Departamento donde el funcionario desempeñaba su último puesto en activo.",
     "fuente": "Art. 8.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9798,11 +14608,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 9.1 del RD 365/1995, quienes pierdan la condición que motivó su declaración en servicios especiales deben solicitar el reingreso al servicio activo en el plazo de...",
     "options": [
-      "Un mes",
       "Quince días",
+      "Un mes",
       "Tres meses"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 9.1 fija en un mes el plazo para solicitar el reingreso tras perder la condición que motivó los servicios especiales.",
     "fuente": "Art. 9.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9811,10 +14621,10 @@ const QUESTIONS = {
     "q": "Conforme al art. 9.1 del RD 365/1995, si no se solicita el reingreso en plazo, se declara al funcionario en...",
     "options": [
       "Suspensión provisional de funciones",
-      "Excedencia voluntaria por interés particular, con efectos desde el día en que perdió la condición",
-      "Expectativa de destino"
+      "Expectativa de destino",
+      "Excedencia voluntaria por interés particular, con efectos desde el día en que perdió la condición"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 9.1 declara la excedencia voluntaria por interés particular, con efectos desde el día en que se perdió la condición, si no se solicita el reingreso en plazo.",
     "fuente": "Art. 9.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9822,11 +14632,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 9.2 del RD 365/1995, los Diputados, Senadores o miembros de las Asambleas Legislativas que pierdan su condición por disolución de las Cámaras...",
     "options": [
+      "Podrán permanecer en situación de servicios especiales hasta la nueva constitución de las Cámaras",
       "Deben reincorporarse de inmediato al servicio activo",
-      "Pasan automáticamente a excedencia forzosa",
-      "Podrán permanecer en situación de servicios especiales hasta la nueva constitución de las Cámaras"
+      "Pasan automáticamente a excedencia forzosa"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 9.2 permite permanecer en servicios especiales hasta la nueva constitución de las Cámaras en caso de disolución.",
     "fuente": "Art. 9.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9834,11 +14644,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 10.1 del RD 365/1995, los funcionarios transferidos a las Comunidades Autónomas se integran plenamente en la organización de éstas, hallándose en situación de...",
     "options": [
-      "Servicio activo en la Comunidad Autónoma, permaneciendo en 'servicio en Comunidades Autónomas' en su Cuerpo o Escala de origen",
       "Excedencia voluntaria por servicios en el sector público",
+      "Servicio activo en la Comunidad Autónoma, permaneciendo en 'servicio en Comunidades Autónomas' en su Cuerpo o Escala de origen",
       "Servicios especiales en todo caso"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 10.1 sitúa a los funcionarios transferidos en servicio activo en la Comunidad Autónoma, y en 'servicio en Comunidades Autónomas' respecto de su Cuerpo o Escala de origen.",
     "fuente": "Art. 10.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9847,10 +14657,10 @@ const QUESTIONS = {
     "q": "Conforme al art. 10.2 del RD 365/1995, la sanción de separación del servicio de un funcionario transferido será acordada por el órgano competente de la Comunidad Autónoma...",
     "options": [
       "Sin necesidad de ningún informe previo",
-      "Previo dictamen del Consejo de Estado",
-      "Previa autorización del Ministerio para las Administraciones Públicas"
+      "Previa autorización del Ministerio para las Administraciones Públicas",
+      "Previo dictamen del Consejo de Estado"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 10.2 exige que la sanción de separación se acuerde previo dictamen del Consejo de Estado.",
     "fuente": "Art. 10.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9858,11 +14668,11 @@ const QUESTIONS = {
   {
     "q": "Según el art. 11.1 del RD 365/1995, los funcionarios de la Administración del Estado que pasan a ocupar puestos en Comunidades Autónomas mediante concurso, libre designación o reasignación de efectivos...",
     "options": [
+      "Conservan su condición de funcionarios de la Administración del Estado, en situación de servicio en Comunidades Autónomas",
       "Pierden su condición de funcionarios de la Administración del Estado",
-      "Pasan automáticamente a la situación de excedencia voluntaria",
-      "Conservan su condición de funcionarios de la Administración del Estado, en situación de servicio en Comunidades Autónomas"
+      "Pasan automáticamente a la situación de excedencia voluntaria"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 11.1 les mantiene la condición de funcionarios del Estado, en la situación de servicio en Comunidades Autónomas.",
     "fuente": "Art. 11.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9870,11 +14680,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al art. 11.2 del RD 365/1995, la sanción de separación del servicio de estos funcionarios corresponde acordarla a...",
     "options": [
-      "El Ministro del Departamento al que esté adscrito el Cuerpo o Escala, previa incoación de expediente por la Comunidad Autónoma de destino",
       "El órgano competente de la Comunidad Autónoma de destino, sin más trámite",
+      "El Ministro del Departamento al que esté adscrito el Cuerpo o Escala, previa incoación de expediente por la Comunidad Autónoma de destino",
       "El Consejo de Ministros, en todo caso"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 11.2 reserva al Ministro del Departamento de adscripción del Cuerpo o Escala la sanción de separación, previa incoación del expediente por la Comunidad Autónoma de destino.",
     "fuente": "Art. 11.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9990,11 +14800,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 89.4 del TREBEP, la excedencia para el cuidado de hijos tendrá, en todo caso, una duración máxima de tres años contados desde:",
     "options": [
-      "La fecha de nacimiento o de la resolución judicial de adopción",
       "La fecha de solicitud de la excedencia",
+      "La fecha de nacimiento o de la resolución judicial de adopción",
       "La fecha de reincorporación del otro progenitor al servicio activo"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 89.4 TREBEP fija una duración máxima de tres años a contar desde la fecha de nacimiento o, en su caso, de la resolución judicial o administrativa. El art. 14.1 del RD 365/1995, en su literalidad, solo menciona el nacimiento como día inicial del cómputo; la resolución judicial de adopción fija allí únicamente el momento desde el que puede solicitarse la excedencia.",
     "fuente": "Art. 89.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta",
@@ -10004,10 +14814,10 @@ const QUESTIONS = {
     "q": "El RD 365/1995 condiciona la concesión de la excedencia para el cuidado de hijos a que el peticionario declare previamente que:",
     "options": [
       "Ha agotado previamente el permiso de maternidad o paternidad",
-      "No desempeña actividad que pueda impedir o menoscabar el cuidado personal del hijo menor",
-      "Cuenta con la conformidad expresa de su unidad de destino"
+      "Cuenta con la conformidad expresa de su unidad de destino",
+      "No desempeña actividad que pueda impedir o menoscabar el cuidado personal del hijo menor"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 14.1 exige declaración previa del peticionario de que no desempeña actividad que impida o menoscabe el cuidado personal del hijo menor.",
     "fuente": "Art. 14.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -10015,11 +14825,11 @@ const QUESTIONS = {
   {
     "q": "De acuerdo con el artículo 14.2 del RD 365/1995, además de la reserva del puesto de trabajo, los funcionarios en excedencia por cuidado de hijos tienen derecho al cómputo del período a efectos de:",
     "options": [
+      "Trienios, consolidación de grado personal y derechos pasivos",
       "Cómputo a efectos de antigüedad para el complemento de productividad",
-      "Cómputo a efectos de la carrera horizontal exclusivamente",
-      "Trienios, consolidación de grado personal y derechos pasivos"
+      "Cómputo a efectos de la carrera horizontal exclusivamente"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 14.2 reconoce reserva de puesto y cómputo a efectos de trienios, consolidación de grado personal, derechos pasivos y solicitud de excedencia por interés particular.",
     "fuente": "Art. 14.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -10027,11 +14837,11 @@ const QUESTIONS = {
   {
     "q": "Si un funcionario en excedencia por cuidado de hijos no solicita el reingreso al servicio activo antes de finalizar el período, el artículo 14.3 del RD 365/1995 dispone que será declarado de oficio en situación de:",
     "options": [
-      "Excedencia voluntaria por interés particular",
       "Excedencia forzosa",
+      "Excedencia voluntaria por interés particular",
       "Suspensión provisional de funciones"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 14.3 prevé la declaración de oficio en excedencia voluntaria por interés particular si no se pide el reingreso antes de finalizar el período.",
     "fuente": "Art. 14.3 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -10040,10 +14850,10 @@ const QUESTIONS = {
     "q": "Según el artículo 15.1 del RD 365/1995, ¿qué circunstancia NO habilita para pasar a la excedencia voluntaria por prestación de servicios en el sector público?",
     "options": [
       "Prestar servicios como personal laboral fijo en organismos o entidades del sector público",
-      "Desempeñar el puesto con carácter de funcionario interino o de personal laboral temporal",
-      "Encontrarse en servicio activo en otro cuerpo o escala de otra Administración pública sin haber obtenido compatibilidad"
+      "Encontrarse en servicio activo en otro cuerpo o escala de otra Administración pública sin haber obtenido compatibilidad",
+      "Desempeñar el puesto con carácter de funcionario interino o de personal laboral temporal"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 15.1 excluye expresamente que el desempeño de puestos como interino o laboral temporal habilite para esta situación.",
     "fuente": "Art. 15.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -10051,11 +14861,11 @@ const QUESTIONS = {
   {
     "q": "A efectos del artículo 15.1 del RD 365/1995, ¿cuándo se consideran incluidas en el sector público las empresas controladas por las Administraciones públicas?",
     "options": [
+      "Cuando la participación directa o indirecta de las Administraciones públicas sea igual o superior al porcentaje legalmente establecido",
       "Cuando su capital social sea íntegramente público",
-      "Cuando coticen en un mercado regulado",
-      "Cuando la participación directa o indirecta de las Administraciones públicas sea igual o superior al porcentaje legalmente establecido"
+      "Cuando coticen en un mercado regulado"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 15.1 remite al porcentaje de participación (directa o indirecta) legalmente establecido para considerar incluida a la empresa en el sector público.",
     "fuente": "Art. 15.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -10063,11 +14873,11 @@ const QUESTIONS = {
   {
     "q": "El artículo 15.2 del RD 365/1995 extiende la excedencia voluntaria por prestación de servicios en el sector público al caso de los funcionarios del Estado integrados en la función pública de las Comunidades Autónomas que:",
     "options": [
-      "Ingresen voluntariamente en Cuerpos o Escalas propios de la Comunidad Autónoma distintos de aquellos en que inicialmente se integraron",
       "Pasen automáticamente a la situación de servicios especiales",
+      "Ingresen voluntariamente en Cuerpos o Escalas propios de la Comunidad Autónoma distintos de aquellos en que inicialmente se integraron",
       "Queden en excedencia forzosa hasta que se resuelva su integración definitiva"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 15.2 aplica esta modalidad de excedencia también a quienes ingresen voluntariamente en Cuerpos o Escalas propios de la Comunidad Autónoma distintos de los iniciales.",
     "fuente": "Art. 15.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -10076,10 +14886,10 @@ const QUESTIONS = {
     "q": "Según el artículo 15.3 del RD 365/1995, una vez producido el cese como funcionario de carrera o personal laboral fijo, ¿en qué plazo máximo debe solicitarse el reingreso al servicio activo?",
     "options": [
       "Dos meses",
-      "Un mes",
-      "Quince días"
+      "Quince días",
+      "Un mes"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 15.3 fija un plazo máximo de un mes para solicitar el reingreso tras el cese; de no hacerlo, se declara de oficio la excedencia por interés particular.",
     "fuente": "Art. 15.3 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -10087,11 +14897,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 16.1 del RD 365/1995, la excedencia voluntaria por interés particular se declarará:",
     "options": [
+      "A petición del funcionario o, de oficio, en los supuestos establecidos reglamentariamente",
       "Únicamente a petición del funcionario",
-      "Únicamente de oficio por la Administración",
-      "A petición del funcionario o, de oficio, en los supuestos establecidos reglamentariamente"
+      "Únicamente de oficio por la Administración"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 16.1 admite tanto la declaración a petición del interesado como la declaración de oficio en los supuestos reglamentariamente previstos.",
     "fuente": "Art. 16.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -10099,11 +14909,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al artículo 16.2 del RD 365/1995, para solicitar la excedencia voluntaria por interés particular es preciso haber prestado servicios efectivos en cualquier Administración pública durante:",
     "options": [
-      "Los cinco años inmediatamente anteriores a la solicitud",
       "Los tres años inmediatamente anteriores a la solicitud",
+      "Los cinco años inmediatamente anteriores a la solicitud",
       "Un curso de reciclaje profesional previo, cualquiera que sea su duración"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 16.2 exige servicios efectivos durante los cinco años inmediatamente anteriores a la solicitud.",
     "fuente": "Art. 16.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -10112,10 +14922,10 @@ const QUESTIONS = {
     "q": "Conforme al artículo 16.3 del RD 365/1995, cada período de excedencia voluntaria por interés particular no podrá superar, como máximo:",
     "options": [
       "Un número de años equivalente al doble de los servicios prestados",
-      "Un número de años equivalente a los servicios acreditados en cualquier Administración pública, con un máximo de quince",
-      "Diez años, cualquiera que sea el tiempo de servicios prestados"
+      "Diez años, cualquiera que sea el tiempo de servicios prestados",
+      "Un número de años equivalente a los servicios acreditados en cualquier Administración pública, con un máximo de quince"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 16.3 limita cada período al número de años acreditados de servicios, con un máximo absoluto de quince años.",
     "fuente": "Art. 16.3 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -10123,11 +14933,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 16.4 del RD 365/1995, si el funcionario no solicita el reingreso al servicio activo dentro del plazo máximo expresado en la resolución de concesión de la excedencia por interés particular, se produce:",
     "options": [
+      "La pérdida de la condición de funcionario",
       "La declaración de oficio en suspensión provisional",
-      "La apertura automática de expediente disciplinario",
-      "La pérdida de la condición de funcionario"
+      "La apertura automática de expediente disciplinario"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 16.4 sanciona la falta de petición de reingreso dentro de plazo con la pérdida de la condición de funcionario.",
     "fuente": "Art. 16.4 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -10135,11 +14945,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 16.5 del RD 365/1995, la concesión de la excedencia voluntaria por interés particular a solicitud del funcionario:",
     "options": [
-      "No podrá declararse cuando al funcionario se le instruya expediente disciplinario",
       "Es automática una vez cumplidos los requisitos de servicios previos",
+      "No podrá declararse cuando al funcionario se le instruya expediente disciplinario",
       "Requiere el informe favorable previo del Registro Central de Personal"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 16.5 subordina la concesión a las necesidades del servicio y prohíbe declararla cuando se instruye expediente disciplinario al funcionario.",
     "fuente": "Art. 16.5 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -10148,10 +14958,10 @@ const QUESTIONS = {
     "q": "La excedencia voluntaria por agrupación familiar regulada en el artículo 17.1 del RD 365/1995 tendrá una duración:",
     "options": [
       "Mínima de un año y máxima de diez",
-      "Mínima de dos años y máxima de quince",
-      "Mínima de tres años y máxima de veinte"
+      "Mínima de tres años y máxima de veinte",
+      "Mínima de dos años y máxima de quince"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 17.1 fija una duración mínima de dos años y máxima de quince para esta modalidad.",
     "fuente": "Art. 17.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -10159,11 +14969,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 17.1 del RD 365/1995, ¿qué requisito debe cumplir el cónyuge del funcionario para que pueda concederse la excedencia voluntaria por agrupación familiar?",
     "options": [
+      "Que resida en otro municipio por haber obtenido y estar desempeñando un puesto de trabajo de carácter definitivo",
       "Que se encuentre en situación de excedencia voluntaria en el mismo municipio",
-      "Que acredite estudios superiores en el municipio de destino",
-      "Que resida en otro municipio por haber obtenido y estar desempeñando un puesto de trabajo de carácter definitivo"
+      "Que acredite estudios superiores en el municipio de destino"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 17.1 exige que el cónyuge resida en otro municipio por haber obtenido y desempeñar un puesto definitivo, como funcionario o laboral.",
     "fuente": "Art. 17.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -10171,11 +14981,11 @@ const QUESTIONS = {
   {
     "q": "El artículo 17.1 del RD 365/1995 incluye, entre los ámbitos donde el cónyuge puede desempeñar el puesto definitivo que genera derecho a esta excedencia:",
     "options": [
-      "Cualquier Administración pública, Organismo autónomo, Entidad Gestora de la Seguridad Social, Órganos Constitucionales o del Poder Judicial",
       "Exclusivamente empresas privadas radicadas en territorio nacional",
+      "Cualquier Administración pública, Organismo autónomo, Entidad Gestora de la Seguridad Social, Órganos Constitucionales o del Poder Judicial",
       "Únicamente organizaciones internacionales con sede en España"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 17.1 enumera Administraciones públicas, Organismos autónomos, Entidades Gestoras de la Seguridad Social, Órganos Constitucionales y del Poder Judicial.",
     "fuente": "Art. 17.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -10184,10 +14994,10 @@ const QUESTIONS = {
     "q": "Si no se solicita el reingreso al servicio activo antes de finalizar el período de quince años de excedencia por agrupación familiar, el artículo 17.2 del RD 365/1995 dispone que:",
     "options": [
       "Se le declara en excedencia forzosa",
-      "Se le declara de oficio en la situación de excedencia voluntaria por interés particular",
-      "Pierde automáticamente la condición de funcionario sin declaración expresa"
+      "Pierde automáticamente la condición de funcionario sin declaración expresa",
+      "Se le declara de oficio en la situación de excedencia voluntaria por interés particular"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 17.2 establece la declaración de oficio en excedencia voluntaria por interés particular si no se pide el reingreso antes de los quince años.",
     "fuente": "Art. 17.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -10471,11 +15281,11 @@ const QUESTIONS = {
   {
     "q": "Entre la documentación del artículo 23.1 de la LPRL figura la relación de accidentes de trabajo y enfermedades profesionales que hayan causado al trabajador una incapacidad laboral:",
     "options": [
-      "Superior a un día de trabajo.",
       "Superior a tres días de trabajo.",
+      "Superior a un día de trabajo.",
       "Superior a cuatro días de trabajo."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "La letra e) del art. 23.1 LPRL se refiere a la relación de accidentes de trabajo y enfermedades profesionales que hayan causado al trabajador una incapacidad laboral superior a un día de trabajo.",
     "fuente": "Art. 23.1.e) LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -10495,11 +15305,11 @@ const QUESTIONS = {
   {
     "q": "De acuerdo con el artículo 23.4 de la LPRL, la documentación a que se refiere dicho artículo deberá también ponerse a disposición de:",
     "options": [
-      "Las organizaciones sindicales más representativas del sector.",
       "Las autoridades sanitarias, para que puedan cumplir con lo dispuesto en el artículo 10 de la LPRL y en el artículo 21 de la Ley 14/1986, General de Sanidad.",
+      "Las organizaciones sindicales más representativas del sector.",
       "La Fiscalía, en todo caso y con carácter previo a cualquier actuación inspectora."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 23.4 LPRL prevé que la documentación se ponga también a disposición de las autoridades sanitarias, al objeto de que estas puedan cumplir con lo dispuesto en el art. 10 LPRL y en el art. 21 de la Ley 14/1986, de 25 de abril, General de Sanidad.",
     "fuente": "Art. 23.4 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -10531,11 +15341,11 @@ const QUESTIONS = {
   {
     "q": "El deber de vigilar el cumplimiento de la normativa de prevención de riesgos laborales por contratistas y subcontratistas, previsto en el artículo 24.3 de la LPRL, se impone a las empresas que contraten o subcontraten con otras la realización de obras o servicios:",
     "options": [
-      "De cualquier clase, siempre que se ejecuten en territorio español.",
       "Correspondientes a la propia actividad de aquellas y que se desarrollen en sus propios centros de trabajo.",
+      "De cualquier clase, siempre que se ejecuten en territorio español.",
       "Correspondientes a la propia actividad, aunque se desarrollen fuera de sus centros de trabajo."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 24.3 LPRL exige la doble condición de que las obras o servicios contratados o subcontratados correspondan a la propia actividad de la empresa principal y de que se desarrollen en sus propios centros de trabajo.",
     "fuente": "Art. 24.3 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -10544,10 +15354,10 @@ const QUESTIONS = {
     "q": "Según el artículo 24.4 de la LPRL, las obligaciones del último párrafo del artículo 41.1 se aplican también cuando los trabajadores de la contratista o subcontratista no presten servicios en los centros de trabajo de la empresa principal, siempre que:",
     "options": [
       "La contrata tenga una duración superior a seis meses.",
-      "La empresa principal ocupe más de cincuenta trabajadores.",
-      "Dichos trabajadores deban operar con maquinaria, equipos, productos, materias primas o útiles proporcionados por la empresa principal."
+      "Dichos trabajadores deban operar con maquinaria, equipos, productos, materias primas o útiles proporcionados por la empresa principal.",
+      "La empresa principal ocupe más de cincuenta trabajadores."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 24.4 LPRL condiciona esa extensión a que los trabajadores de la contratista o subcontratista deban operar con maquinaria, equipos, productos, materias primas o útiles proporcionados por la empresa principal.",
     "fuente": "Art. 24.4 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -10555,11 +15365,11 @@ const QUESTIONS = {
   {
     "q": "De acuerdo con el artículo 24.5 de la LPRL, los deberes de cooperación y de información e instrucción recogidos en los apartados 1 y 2 de dicho artículo:",
     "options": [
-      "Serán de aplicación respecto de los trabajadores autónomos que desarrollen actividades en dichos centros de trabajo.",
       "No alcanzan en ningún caso a los trabajadores autónomos, por carecer de relación laboral.",
-      "Solo alcanzan a los trabajadores autónomos cuando estos tengan a su vez trabajadores por cuenta ajena."
+      "Solo alcanzan a los trabajadores autónomos cuando estos tengan a su vez trabajadores por cuenta ajena.",
+      "Serán de aplicación respecto de los trabajadores autónomos que desarrollen actividades en dichos centros de trabajo."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 24.5 LPRL extiende expresamente los deberes de cooperación y de información e instrucción de los apartados 1 y 2 a los trabajadores autónomos que desarrollen actividades en dichos centros de trabajo.",
     "fuente": "Art. 24.5 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -10567,11 +15377,11 @@ const QUESTIONS = {
   {
     "q": "En relación con la protección de los trabajadores especialmente sensibles, el artículo 25.1 de la LPRL establece que el empresario garantizará de manera específica la protección de aquellos trabajadores que:",
     "options": [
-      "Superen los cincuenta y cinco años de edad o acumulen más de veinte años de antigüedad.",
       "Por sus propias características personales o estado biológico conocido, incluidos los que tengan reconocida la situación de discapacidad física, psíquica o sensorial, sean especialmente sensibles a los riesgos derivados del trabajo.",
+      "Superen los cincuenta y cinco años de edad o acumulen más de veinte años de antigüedad.",
       "Hayan sufrido con anterioridad un accidente de trabajo con baja médica."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 25.1 LPRL define a los trabajadores especialmente sensibles por sus propias características personales o estado biológico conocido, incluidos los que tengan reconocida la situación de discapacidad física, psíquica o sensorial, debiendo el empresario tener en cuenta dichos aspectos en las evaluaciones de riesgos.",
     "fuente": "Art. 25.1 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -10580,10 +15390,10 @@ const QUESTIONS = {
     "q": "El párrafo segundo del artículo 25.1 de la LPRL prohíbe emplear a los trabajadores en aquellos puestos de trabajo en los que, a causa de sus características personales, estado biológico o discapacidad debidamente reconocida, puedan ponerse en situación de peligro:",
     "options": [
       "Únicamente ellos mismos.",
-      "Ellos mismos o los demás trabajadores de su propio centro de trabajo, con exclusión de terceros.",
-      "Ellos, los demás trabajadores u otras personas relacionadas con la empresa."
+      "Ellos, los demás trabajadores u otras personas relacionadas con la empresa.",
+      "Ellos mismos o los demás trabajadores de su propio centro de trabajo, con exclusión de terceros."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 25.1, párrafo segundo, LPRL extiende la prohibición a los supuestos en que puedan ponerse en situación de peligro ellos, los demás trabajadores u otras personas relacionadas con la empresa, así como cuando se encuentren manifiestamente en estados o situaciones transitorias que no respondan a las exigencias psicofísicas del puesto.",
     "fuente": "Art. 25.1 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -10591,11 +15401,11 @@ const QUESTIONS = {
   {
     "q": "El artículo 25.2 de la LPRL obliga al empresario a tener en cuenta en las evaluaciones los factores de riesgo que puedan incidir en la función de procreación de los trabajadores y trabajadoras, en particular por la exposición a agentes:",
     "options": [
-      "Físicos, químicos y biológicos que puedan ejercer efectos mutagénicos o de toxicidad para la procreación.",
       "Exclusivamente químicos y biológicos de naturaleza cancerígena.",
-      "Físicos y ergonómicos derivados de la manipulación manual de cargas."
+      "Físicos y ergonómicos derivados de la manipulación manual de cargas.",
+      "Físicos, químicos y biológicos que puedan ejercer efectos mutagénicos o de toxicidad para la procreación."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 25.2 LPRL se refiere a la exposición a agentes físicos, químicos y biológicos que puedan ejercer efectos mutagénicos o de toxicidad para la procreación, tanto en los aspectos de la fertilidad como del desarrollo de la descendencia.",
     "fuente": "Art. 25.2 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -10603,11 +15413,11 @@ const QUESTIONS = {
   {
     "q": "Si los resultados de la evaluación revelasen un riesgo para la seguridad y la salud o una posible repercusión sobre el embarazo o la lactancia, la primera medida que el artículo 26.1 de la LPRL impone al empresario es:",
     "options": [
-      "Declarar la suspensión del contrato por riesgo durante el embarazo.",
       "Adoptar las medidas necesarias para evitar la exposición al riesgo a través de una adaptación de las condiciones o del tiempo de trabajo de la trabajadora afectada.",
+      "Declarar la suspensión del contrato por riesgo durante el embarazo.",
       "Asignar de inmediato a la trabajadora un puesto de trabajo o función diferente y compatible con su estado."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 26.1 LPRL ordena, como primera respuesta, la adaptación de las condiciones o del tiempo de trabajo de la trabajadora afectada, medidas que incluirán, cuando resulte necesario, la no realización de trabajo nocturno o de trabajo a turnos. El cambio de puesto y la suspensión son medidas posteriores y subsidiarias.",
     "fuente": "Art. 26.1 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -10615,11 +15425,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 26.2 de la LPRL, para que proceda el desempeño por la trabajadora de un puesto de trabajo o función diferente y compatible con su estado se exige certificación de:",
     "options": [
-      "Los Servicios Médicos del Instituto Nacional de la Seguridad Social o de las Mutuas, en función de la Entidad con la que la empresa tenga concertada la cobertura de los riesgos profesionales, con el informe del médico del Servicio Nacional de Salud que asista facultativamente a la trabajadora.",
       "El servicio de prevención de la empresa, con el visto bueno del Comité de Seguridad y Salud.",
+      "Los Servicios Médicos del Instituto Nacional de la Seguridad Social o de las Mutuas, en función de la Entidad con la que la empresa tenga concertada la cobertura de los riesgos profesionales, con el informe del médico del Servicio Nacional de Salud que asista facultativamente a la trabajadora.",
       "La Inspección Médica de la autoridad laboral competente, previo informe del Delegado de Prevención."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 26.2 LPRL exige la certificación de los Servicios Médicos del INSS o de las Mutuas, según la Entidad con la que la empresa tenga concertada la cobertura de los riesgos profesionales, con el informe del médico del Servicio Nacional de Salud que asista facultativamente a la trabajadora.",
     "fuente": "Art. 26.2 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -10628,10 +15438,10 @@ const QUESTIONS = {
     "q": "A efectos del cambio de puesto de trabajo por riesgo durante el embarazo, el artículo 26.2 de la LPRL dispone que la relación de los puestos de trabajo exentos de riesgos será determinada por:",
     "options": [
       "El Comité de Seguridad y Salud, mediante acuerdo adoptado por mayoría.",
-      "El empresario, previa consulta con los representantes de los trabajadores.",
-      "La autoridad laboral, a propuesta del servicio de prevención."
+      "La autoridad laboral, a propuesta del servicio de prevención.",
+      "El empresario, previa consulta con los representantes de los trabajadores."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 26.2 LPRL establece que el empresario deberá determinar, previa consulta con los representantes de los trabajadores, la relación de los puestos de trabajo exentos de riesgos a estos efectos.",
     "fuente": "Art. 26.2 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -10783,11 +15593,11 @@ const QUESTIONS = {
   {
     "q": "Entre las obligaciones que el artículo 29.2 de la LPRL impone en particular a los trabajadores figura, en primer lugar:",
     "options": [
-      "Cooperar con el empresario para que este pueda garantizar unas condiciones de trabajo seguras.",
       "Usar adecuadamente, de acuerdo con su naturaleza y los riesgos previsibles, las máquinas, aparatos, herramientas, sustancias peligrosas, equipos de transporte y, en general, cualesquiera otros medios con los que desarrollen su actividad.",
+      "Cooperar con el empresario para que este pueda garantizar unas condiciones de trabajo seguras.",
       "Utilizar correctamente los medios y equipos de protección facilitados por el empresario."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "La obligación 1.ª del art. 29.2 LPRL es usar adecuadamente, de acuerdo con su naturaleza y los riesgos previsibles, las máquinas, aparatos, herramientas, sustancias peligrosas, equipos de transporte y, en general, cualesquiera otros medios con los que desarrollen su actividad. El uso correcto de los equipos de protección es la 2.ª y la cooperación con el empresario la 6.ª.",
     "fuente": "Art. 29.2.1.º LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -10796,10 +15606,10 @@ const QUESTIONS = {
     "q": "El artículo 29.2 de la LPRL establece, en relación con los dispositivos de seguridad existentes o que se instalen en los medios relacionados con la actividad del trabajador o en los lugares de trabajo, el deber de:",
     "options": [
       "Comprobar mensualmente su estado de conservación y emitir el correspondiente parte.",
-      "Sustituirlos por su cuenta cuando aprecien deficiencias en su funcionamiento.",
-      "No ponerlos fuera de funcionamiento y utilizarlos correctamente."
+      "No ponerlos fuera de funcionamiento y utilizarlos correctamente.",
+      "Sustituirlos por su cuenta cuando aprecien deficiencias en su funcionamiento."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "La obligación 3.ª del art. 29.2 LPRL consiste en no poner fuera de funcionamiento y utilizar correctamente los dispositivos de seguridad existentes o que se instalen en los medios relacionados con su actividad o en los lugares de trabajo en los que esta tenga lugar.",
     "fuente": "Art. 29.2.3.º LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -10807,11 +15617,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al artículo 29.2 de la LPRL, ante cualquier situación que a su juicio entrañe, por motivos razonables, un riesgo para la seguridad y la salud de los trabajadores, el trabajador deberá informar de inmediato a:",
     "options": [
-      "Su superior jerárquico directo y a los trabajadores designados para realizar actividades de protección y de prevención o, en su caso, al servicio de prevención.",
       "La Inspección de Trabajo y Seguridad Social y al Delegado de Prevención.",
-      "El Comité de Seguridad y Salud, que dará traslado al empresario."
+      "El Comité de Seguridad y Salud, que dará traslado al empresario.",
+      "Su superior jerárquico directo y a los trabajadores designados para realizar actividades de protección y de prevención o, en su caso, al servicio de prevención."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "La obligación 4.ª del art. 29.2 LPRL exige informar de inmediato a su superior jerárquico directo y a los trabajadores designados para realizar actividades de protección y de prevención o, en su caso, al servicio de prevención.",
     "fuente": "Art. 29.2.4.º LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -10832,10 +15642,10 @@ const QUESTIONS = {
     "q": "Según el artículo 29.3 de la LPRL, el incumplimiento por los trabajadores de sus obligaciones en materia de prevención de riesgos tendrá la consideración de:",
     "options": [
       "Infracción administrativa grave sancionable por la autoridad laboral.",
-      "Falta muy grave en todo caso, con independencia del régimen aplicable.",
-      "Incumplimiento laboral a los efectos previstos en el artículo 58.1 del Estatuto de los Trabajadores o de falta, en su caso, conforme a la normativa sobre régimen disciplinario de los funcionarios públicos o del personal estatutario."
+      "Incumplimiento laboral a los efectos previstos en el artículo 58.1 del Estatuto de los Trabajadores o de falta, en su caso, conforme a la normativa sobre régimen disciplinario de los funcionarios públicos o del personal estatutario.",
+      "Falta muy grave en todo caso, con independencia del régimen aplicable."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 29.3 LPRL califica el incumplimiento como incumplimiento laboral a los efectos del art. 58.1 del Estatuto de los Trabajadores o como falta conforme a la normativa disciplinaria de funcionarios públicos o personal estatutario, siendo igualmente aplicable a los socios de las cooperativas cuya actividad consista en la prestación de su trabajo.",
     "fuente": "Art. 29.3 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -10843,11 +15653,11 @@ const QUESTIONS = {
   {
     "q": "Respecto de los trabajadores designados por el empresario para ocuparse de la actividad preventiva, el artículo 30.2 de la LPRL exige que:",
     "options": [
-      "Tengan la capacidad necesaria, dispongan del tiempo y de los medios precisos y sean suficientes en número, teniendo en cuenta el tamaño de la empresa, los riesgos a que están expuestos los trabajadores y su distribución en la misma.",
       "Posean en todo caso titulación universitaria superior en alguna de las especialidades preventivas.",
-      "Sean elegidos por y entre los representantes de los trabajadores en la empresa."
+      "Sean elegidos por y entre los representantes de los trabajadores en la empresa.",
+      "Tengan la capacidad necesaria, dispongan del tiempo y de los medios precisos y sean suficientes en número, teniendo en cuenta el tamaño de la empresa, los riesgos a que están expuestos los trabajadores y su distribución en la misma."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 30.2 LPRL exige a los trabajadores designados capacidad necesaria, disposición del tiempo y de los medios precisos y suficiencia en número, atendiendo al tamaño de la empresa, a los riesgos a que están expuestos los trabajadores y a su distribución, con el alcance que determinen las disposiciones del art. 6.1.e) LPRL.",
     "fuente": "Art. 30.2 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -10855,11 +15665,11 @@ const QUESTIONS = {
   {
     "q": "El artículo 30.4 de la LPRL dispone que los trabajadores designados no podrán sufrir ningún perjuicio derivado de sus actividades de protección y prevención y, en el ejercicio de esta función, gozarán en particular de:",
     "options": [
+      "Las garantías que para los representantes de los trabajadores establecen las letras a), b) y c) del artículo 68 y el apartado 4 del artículo 56 del Estatuto de los Trabajadores.",
       "La condición de autoridad pública a los efectos de sus actuaciones dentro de la empresa.",
-      "Una reducción de jornada retribuida equivalente a la de los Delegados de Prevención.",
-      "Las garantías que para los representantes de los trabajadores establecen las letras a), b) y c) del artículo 68 y el apartado 4 del artículo 56 del Estatuto de los Trabajadores."
+      "Una reducción de jornada retribuida equivalente a la de los Delegados de Prevención."
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 30.4 LPRL remite a las garantías de las letras a), b) y c) del art. 68 y del art. 56.4 del texto refundido de la Ley del Estatuto de los Trabajadores, garantía que alcanza también a los trabajadores integrantes del servicio de prevención cuando la empresa decida constituirlo, quedando todos ellos obligados a guardar sigilo profesional.",
     "fuente": "Art. 30.4 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -10867,11 +15677,11 @@ const QUESTIONS = {
   {
     "q": "Además del supuesto de las empresas de hasta diez trabajadores, el artículo 30.5 de la LPRL reconoce la posibilidad de que el empresario asuma personalmente las funciones preventivas al empresario que, cumpliendo los mismos requisitos, ocupe hasta veinticinco trabajadores, siempre y cuando:",
     "options": [
-      "La empresa disponga de un único centro de trabajo.",
       "La empresa no desarrolle ninguna de las actividades del anexo I del Reglamento de los Servicios de Prevención.",
+      "La empresa disponga de un único centro de trabajo.",
       "La empresa haya superado favorablemente una auditoría externa en los dos años anteriores."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 30.5 LPRL, tras regular el supuesto de las empresas de hasta diez trabajadores, reconoce la misma posibilidad al empresario que, cumpliendo tales requisitos, ocupe hasta 25 trabajadores, siempre y cuando la empresa disponga de un único centro de trabajo.",
     "fuente": "Art. 30.5 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -10880,10 +15690,10 @@ const QUESTIONS = {
     "q": "Según el artículo 30.6 de la LPRL, deberá someter su sistema de prevención al control de una auditoría o evaluación externa, en los términos que reglamentariamente se determinen:",
     "options": [
       "Toda empresa que ocupe a más de cincuenta trabajadores, cualquiera que sea la modalidad preventiva elegida.",
-      "El empresario que no hubiere concertado el servicio de prevención con una entidad especializada ajena a la empresa.",
-      "Únicamente el empresario que haya asumido personalmente la actividad preventiva."
+      "Únicamente el empresario que haya asumido personalmente la actividad preventiva.",
+      "El empresario que no hubiere concertado el servicio de prevención con una entidad especializada ajena a la empresa."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 30.6 LPRL impone la auditoría o evaluación externa al empresario que no hubiere concertado el servicio de prevención con una entidad especializada ajena a la empresa.",
     "fuente": "Art. 30.6 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -10891,11 +15701,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al artículo 30.7 de la LPRL, las personas o entidades especializadas que pretendan desarrollar la actividad de auditoría del sistema de prevención habrán de contar con:",
     "options": [
+      "Una única autorización de la autoridad laboral, que tendrá validez en todo el territorio español.",
       "Una autorización de la autoridad laboral por cada comunidad autónoma en la que vayan a operar.",
-      "La acreditación conjunta de la autoridad laboral y de la autoridad sanitaria.",
-      "Una única autorización de la autoridad laboral, que tendrá validez en todo el territorio español."
+      "La acreditación conjunta de la autoridad laboral y de la autoridad sanitaria."
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 30.7 LPRL exige una única autorización de la autoridad laboral con validez en todo el territorio español, entendiéndose desestimada la solicitud por silencio administrativo si vence el plazo máximo del procedimiento sin resolución expresa.",
     "fuente": "Art. 30.7 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -10903,11 +15713,11 @@ const QUESTIONS = {
   {
     "q": "El artículo 31.1 de la LPRL obliga al empresario a recurrir a uno o varios servicios de prevención propios o ajenos cuando:",
     "options": [
-      "La designación de uno o varios trabajadores fuera insuficiente para la realización de las actividades de prevención, en función del tamaño de la empresa, de los riesgos a que están expuestos los trabajadores o de la peligrosidad de las actividades desarrolladas.",
       "La empresa cuente con representación legal de los trabajadores constituida.",
+      "La designación de uno o varios trabajadores fuera insuficiente para la realización de las actividades de prevención, en función del tamaño de la empresa, de los riesgos a que están expuestos los trabajadores o de la peligrosidad de las actividades desarrolladas.",
       "Así lo acuerde por mayoría el Comité de Seguridad y Salud."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 31.1 LPRL vincula el recurso a servicios de prevención propios o ajenos, que colaborarán cuando sea necesario, a la insuficiencia de la designación de trabajadores atendiendo al tamaño de la empresa, a los riesgos y a la peligrosidad de las actividades. Añade que en las Administraciones públicas se tendrá en cuenta su estructura organizativa y la existencia de ámbitos sectoriales y descentralizados.",
     "fuente": "Art. 31.1 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -10916,10 +15726,10 @@ const QUESTIONS = {
     "q": "Según la definición del artículo 31.2 de la LPRL, se entiende por servicio de prevención:",
     "options": [
       "El órgano paritario y colegiado de participación destinado a la consulta regular y periódica de las actuaciones de la empresa en materia preventiva.",
-      "El conjunto de medios humanos y materiales necesarios para realizar las actividades preventivas a fin de garantizar la adecuada protección de la seguridad y la salud de los trabajadores, asesorando y asistiendo para ello al empresario, a los trabajadores y a sus representantes y a los órganos de representación especializados.",
-      "La entidad especializada acreditada por la autoridad laboral a la que el empresario concierta obligatoriamente la vigilancia de la salud."
+      "La entidad especializada acreditada por la autoridad laboral a la que el empresario concierta obligatoriamente la vigilancia de la salud.",
+      "El conjunto de medios humanos y materiales necesarios para realizar las actividades preventivas a fin de garantizar la adecuada protección de la seguridad y la salud de los trabajadores, asesorando y asistiendo para ello al empresario, a los trabajadores y a sus representantes y a los órganos de representación especializados."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 31.2 LPRL define el servicio de prevención como el conjunto de medios humanos y materiales necesarios para realizar las actividades preventivas, asesorando y asistiendo al empresario, a los trabajadores y a sus representantes y a los órganos de representación especializados.",
     "fuente": "Art. 31.2 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -10927,11 +15737,11 @@ const QUESTIONS = {
   {
     "q": "Entre las materias sobre las que, conforme al artículo 31.3 de la LPRL, los servicios de prevención deben estar en condiciones de proporcionar asesoramiento y apoyo a la empresa se encuentra:",
     "options": [
+      "La prestación de los primeros auxilios y planes de emergencia.",
       "La instrucción de los expedientes disciplinarios por incumplimientos en materia preventiva.",
-      "La representación de la empresa ante la Inspección de Trabajo y Seguridad Social.",
-      "La prestación de los primeros auxilios y planes de emergencia."
+      "La representación de la empresa ante la Inspección de Trabajo y Seguridad Social."
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "La letra e) del art. 31.3 LPRL incluye la prestación de los primeros auxilios y planes de emergencia entre las materias de asesoramiento y apoyo, junto al diseño e implantación del plan de prevención, la evaluación de los factores de riesgo, la planificación de la actividad preventiva, la información y formación de los trabajadores y la vigilancia de la salud.",
     "fuente": "Art. 31.3.e) LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -10939,11 +15749,11 @@ const QUESTIONS = {
   {
     "q": "El artículo 31.5 de la LPRL establece que, para poder actuar como servicios de prevención, las entidades especializadas deberán ser objeto de:",
     "options": [
-      "Una acreditación por la autoridad laboral, única y con validez en todo el territorio español, previa aprobación de la autoridad sanitaria en cuanto a los aspectos de carácter sanitario.",
       "Una simple comunicación previa a la autoridad laboral de la comunidad autónoma donde tengan su domicilio.",
+      "Una acreditación por la autoridad laboral, única y con validez en todo el territorio español, previa aprobación de la autoridad sanitaria en cuanto a los aspectos de carácter sanitario.",
       "Una inscripción en el registro mercantil acompañada de aval bancario a favor de la autoridad laboral."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 31.5 LPRL exige una acreditación por la autoridad laboral, única y con validez en todo el territorio español, mediante la comprobación de los requisitos reglamentarios y previa aprobación de la autoridad sanitaria en los aspectos sanitarios, debiendo además suscribir una póliza de seguro que cubra su responsabilidad sin que esta constituya el límite de la responsabilidad del servicio.",
     "fuente": "Art. 31.5 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -11431,11 +16241,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al artículo 32 bis.1 de la LPRL, la presencia de los recursos preventivos en el centro de trabajo será necesaria, entre otros supuestos, cuando dicha presencia sea requerida por:",
     "options": [
-      "El Comité de Seguridad y Salud, si aprecia deficiencias en las condiciones de trabajo.",
       "La Inspección de Trabajo y Seguridad Social, si las circunstancias del caso así lo exigieran debido a las condiciones de trabajo detectadas.",
+      "El Comité de Seguridad y Salud, si aprecia deficiencias en las condiciones de trabajo.",
       "La autoridad laboral de la Comunidad Autónoma, previo informe del servicio de prevención."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 32 bis.1.c) exige la presencia de recursos preventivos «cuando la necesidad de dicha presencia sea requerida por la Inspección de Trabajo y Seguridad Social, si las circunstancias del caso así lo exigieran debido a las condiciones de trabajo detectadas».",
     "fuente": "Art. 32 bis.1.c) LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -11443,11 +16253,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 32 bis.2 de la LPRL, ¿a quién puede asignar el empresario la presencia como recurso preventivo?",
     "options": [
-      "A uno o varios trabajadores designados de la empresa, a uno o varios miembros del servicio de prevención propio o a uno o varios miembros de los servicios de prevención ajenos concertados.",
       "Únicamente a miembros del servicio de prevención propio de la empresa.",
+      "A uno o varios trabajadores designados de la empresa, a uno o varios miembros del servicio de prevención propio o a uno o varios miembros de los servicios de prevención ajenos concertados.",
       "A los Delegados de Prevención y, en su defecto, a los miembros del Comité de Seguridad y Salud."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 32 bis.2 enumera como recursos preventivos: a) trabajadores designados; b) miembros del servicio de prevención propio; c) miembros del o los servicios de prevención ajenos concertados. Los Delegados de Prevención no figuran en esa lista.",
     "fuente": "Art. 32 bis.2 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -11467,11 +16277,11 @@ const QUESTIONS = {
   {
     "q": "El artículo 32 bis.4 de la LPRL permite al empresario asignar expresamente la presencia a trabajadores que no formen parte del servicio de prevención propio ni sean trabajadores designados, siempre que, además de reunir los conocimientos, la cualificación y la experiencia necesarios, cuenten con una formación preventiva correspondiente, como mínimo, a las funciones de:",
     "options": [
+      "Nivel básico.",
       "Nivel intermedio.",
-      "Nivel superior.",
-      "Nivel básico."
+      "Nivel superior."
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 32 bis.4 exige que esos trabajadores «cuenten con la formación preventiva correspondiente, como mínimo, a las funciones del nivel básico», debiendo además mantener la necesaria colaboración con los recursos preventivos del empresario.",
     "fuente": "Art. 32 bis.4 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -11491,11 +16301,11 @@ const QUESTIONS = {
   {
     "q": "Entre las decisiones que el empresario debe consultar a los trabajadores con la debida antelación, el artículo 33.1 de la LPRL menciona expresamente:",
     "options": [
-      "La designación de los trabajadores encargados de las medidas de emergencia.",
       "La designación del médico del trabajo adscrito al servicio de prevención.",
-      "La aprobación del calendario laboral anual del centro de trabajo."
+      "La aprobación del calendario laboral anual del centro de trabajo.",
+      "La designación de los trabajadores encargados de las medidas de emergencia."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 33.1.c) incluye entre las materias de consulta obligatoria «la designación de los trabajadores encargados de las medidas de emergencia».",
     "fuente": "Art. 33.1.c) LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -11503,11 +16313,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al artículo 33.2 de la LPRL, en las empresas que cuenten con representantes de los trabajadores, las consultas previstas en dicho artículo:",
     "options": [
+      "Se llevarán a cabo con dichos representantes.",
       "Deberán someterse a referéndum del conjunto de la plantilla.",
-      "Se sustituyen por la información escrita e individual a cada trabajador afectado.",
-      "Se llevarán a cabo con dichos representantes."
+      "Se sustituyen por la información escrita e individual a cada trabajador afectado."
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 33.2 dispone literalmente que «en las empresas que cuenten con representantes de los trabajadores, las consultas a que se refiere el apartado anterior se llevarán a cabo con dichos representantes».",
     "fuente": "Art. 33.2 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -11516,10 +16326,10 @@ const QUESTIONS = {
     "q": "Según el artículo 34.1 de la LPRL, la participación de los trabajadores se canalizará a través de sus representantes y de la representación especializada regulada en el capítulo V en las empresas o centros de trabajo que cuenten con:",
     "options": [
       "Diez o más trabajadores.",
-      "Veinticinco o más trabajadores.",
-      "Seis o más trabajadores."
+      "Seis o más trabajadores.",
+      "Veinticinco o más trabajadores."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 34.1, párrafo segundo, fija el umbral: «En las empresas o centros de trabajo que cuenten con seis o más trabajadores, la participación de éstos se canalizará a través de sus representantes y de la representación especializada que se regula en este capítulo».",
     "fuente": "Art. 34.1 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -11528,10 +16338,10 @@ const QUESTIONS = {
     "q": "Para llevar a cabo la adaptación del derecho de participación en el ámbito de la Administración General del Estado, el artículo 34.3.a) de la LPRL establece que dicha adaptación:",
     "options": [
       "Podrá reducir hasta la mitad el número de Delegados de Prevención resultante de la escala legal.",
-      "En ningún caso podrá afectar a las competencias, facultades y garantías que la Ley reconoce a los Delegados de Prevención y a los Comités de Seguridad y Salud.",
-      "Permitirá sustituir a los Delegados de Prevención por funcionarios designados por el órgano competente."
+      "Permitirá sustituir a los Delegados de Prevención por funcionarios designados por el órgano competente.",
+      "En ningún caso podrá afectar a las competencias, facultades y garantías que la Ley reconoce a los Delegados de Prevención y a los Comités de Seguridad y Salud."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El primero de los criterios del art. 34.3 es la letra a): «En ningún caso dicha adaptación podrá afectar a las competencias, facultades y garantías que se reconocen en esta Ley a los Delegados de Prevención y a los Comités de Seguridad y Salud».",
     "fuente": "Art. 34.3.a) LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -11552,10 +16362,10 @@ const QUESTIONS = {
     "q": "Conforme al artículo 35.2 de la LPRL, en las empresas de treinta y uno a cuarenta y nueve trabajadores habrá:",
     "options": [
       "Dos Delegados de Prevención designados por el Comité de Empresa.",
-      "Ningún Delegado de Prevención, asumiendo sus funciones directamente el empresario.",
-      "Un Delegado de Prevención, que será elegido por y entre los Delegados de Personal."
+      "Un Delegado de Prevención, que será elegido por y entre los Delegados de Personal.",
+      "Ningún Delegado de Prevención, asumiendo sus funciones directamente el empresario."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El párrafo final del art. 35.2 dispone: «En las empresas de hasta treinta trabajadores el Delegado de Prevención será el Delegado de Personal. En las empresas de treinta y uno a cuarenta y nueve trabajadores habrá un Delegado de Prevención que será elegido por y entre los Delegados de Personal».",
     "fuente": "Art. 35.2 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -11563,11 +16373,11 @@ const QUESTIONS = {
   {
     "q": "A efectos de determinar el número de Delegados de Prevención, el artículo 35.3.a) de la LPRL dispone que los trabajadores vinculados por contratos de duración determinada superior a un año:",
     "options": [
-      "Se computarán como trabajadores fijos de plantilla.",
       "No se computarán en ningún caso.",
-      "Se computarán como medio trabajador cada uno de ellos."
+      "Se computarán como medio trabajador cada uno de ellos.",
+      "Se computarán como trabajadores fijos de plantilla."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 35.3.a) establece que «los trabajadores vinculados por contratos de duración determinada superior a un año se computarán como trabajadores fijos de plantilla».",
     "fuente": "Art. 35.3.a) LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -11575,11 +16385,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 35.4 de la LPRL, en los convenios colectivos podrán establecerse otros sistemas de designación de los Delegados de Prevención, siempre que se garantice que la facultad de designación corresponde a:",
     "options": [
+      "Los representantes del personal o a los propios trabajadores.",
       "La dirección de la empresa, oído el servicio de prevención.",
-      "La autoridad laboral competente por razón del territorio.",
-      "Los representantes del personal o a los propios trabajadores."
+      "La autoridad laboral competente por razón del territorio."
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 35.4, párrafo primero, admite otros sistemas de designación en convenio colectivo «siempre que se garantice que la facultad de designación corresponde a los representantes del personal o a los propios trabajadores».",
     "fuente": "Art. 35.4 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -11588,10 +16398,10 @@ const QUESTIONS = {
     "q": "El artículo 36.1 de la LPRL incluye entre las competencias de los Delegados de Prevención:",
     "options": [
       "Ordenar la paralización inmediata de los trabajos cuando aprecien riesgo grave e inminente.",
-      "Imponer sanciones a los trabajadores que incumplan las medidas preventivas.",
-      "Ser consultados por el empresario, con carácter previo a su ejecución, acerca de las decisiones a que se refiere el artículo 33 de la Ley."
+      "Ser consultados por el empresario, con carácter previo a su ejecución, acerca de las decisiones a que se refiere el artículo 33 de la Ley.",
+      "Imponer sanciones a los trabajadores que incumplan las medidas preventivas."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 36.1.c) recoge como competencia «ser consultados por el empresario, con carácter previo a su ejecución, acerca de las decisiones a que se refiere el artículo 33 de la presente Ley». La paralización inmediata corresponde al Inspector de Trabajo (art. 44.1).",
     "fuente": "Art. 36.1.c) LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -11600,10 +16410,10 @@ const QUESTIONS = {
     "q": "Cuando una empresa no cuente con Comité de Seguridad y Salud por no alcanzar el número mínimo de trabajadores del artículo 38.2, el artículo 36.1 de la LPRL dispone que las competencias atribuidas a dicho Comité serán ejercidas por:",
     "options": [
       "El servicio de prevención, propio o ajeno.",
-      "Los Delegados de Prevención.",
-      "El Comité de Empresa reunido en pleno."
+      "El Comité de Empresa reunido en pleno.",
+      "Los Delegados de Prevención."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El párrafo final del art. 36.1 establece que en esas empresas «las competencias atribuidas a aquél en la presente Ley serán ejercidas por los Delegados de Prevención».",
     "fuente": "Art. 36.1 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -11611,11 +16421,11 @@ const QUESTIONS = {
   {
     "q": "Entre las facultades del artículo 36.2 de la LPRL, los Delegados de Prevención, una vez informados por el empresario de los daños producidos en la salud de los trabajadores, podrán presentarse en el lugar de los hechos para conocer sus circunstancias:",
     "options": [
-      "Sólo dentro de su jornada laboral y previa autorización del empresario.",
       "Aun fuera de su jornada laboral.",
+      "Sólo dentro de su jornada laboral y previa autorización del empresario.",
       "Únicamente cuando así lo acuerde el Comité de Seguridad y Salud."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 36.2.c) les faculta para ser informados de los daños «pudiendo presentarse, aún fuera de su jornada laboral, en el lugar de los hechos para conocer las circunstancias de los mismos».",
     "fuente": "Art. 36.2.c) LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -11624,10 +16434,10 @@ const QUESTIONS = {
     "q": "Conforme al artículo 36.2.g) de la LPRL, los Delegados de Prevención están facultados para:",
     "options": [
       "Acordar por sí mismos la paralización de las actividades en caso de riesgo grave e inminente.",
-      "Solicitar a la autoridad laboral la clausura del centro de trabajo.",
-      "Proponer al órgano de representación de los trabajadores la adopción del acuerdo de paralización de actividades a que se refiere el artículo 21.3."
+      "Proponer al órgano de representación de los trabajadores la adopción del acuerdo de paralización de actividades a que se refiere el artículo 21.3.",
+      "Solicitar a la autoridad laboral la clausura del centro de trabajo."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 36.2.g) reconoce la facultad de «proponer al órgano de representación de los trabajadores la adopción del acuerdo de paralización de actividades a que se refiere el apartado 3 del artículo 21»; el acuerdo lo adopta el órgano de representación, no el Delegado.",
     "fuente": "Art. 36.2.g) LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -11635,11 +16445,11 @@ const QUESTIONS = {
   {
     "q": "Los informes que deban emitir los Delegados de Prevención por haber sido consultados conforme al artículo 36.1.c) se elaborarán, según el artículo 36.3 de la LPRL, en un plazo de:",
     "options": [
-      "Quince días, o en el tiempo imprescindible cuando se trate de adoptar medidas dirigidas a prevenir riesgos inminentes.",
       "Un mes, prorrogable por otro mes a petición del Delegado.",
-      "Diez días hábiles, sin posibilidad alguna de reducción."
+      "Diez días hábiles, sin posibilidad alguna de reducción.",
+      "Quince días, o en el tiempo imprescindible cuando se trate de adoptar medidas dirigidas a prevenir riesgos inminentes."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 36.3 fija el plazo de quince días (o el tiempo imprescindible ante riesgos inminentes) y añade que, transcurrido el plazo sin haberse emitido el informe, el empresario podrá poner en práctica su decisión.",
     "fuente": "Art. 36.3 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -11647,11 +16457,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 36.4 de la LPRL, la decisión negativa del empresario a la adopción de las medidas preventivas propuestas por el Delegado de Prevención al amparo del artículo 36.2.f):",
     "options": [
+      "Deberá ser motivada.",
       "No requiere justificación alguna, por tratarse de una facultad organizativa.",
-      "Debe ser autorizada previamente por la Inspección de Trabajo y Seguridad Social.",
-      "Deberá ser motivada."
+      "Debe ser autorizada previamente por la Inspección de Trabajo y Seguridad Social."
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 36.4 dispone que «la decisión negativa del empresario a la adopción de las medidas propuestas por el Delegado de Prevención a tenor de lo dispuesto en la letra f) del apartado 2 de este artículo deberá ser motivada».",
     "fuente": "Art. 36.4 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -11659,11 +16469,11 @@ const QUESTIONS = {
   {
     "q": "El artículo 37.1 de la LPRL declara aplicable a los Delegados de Prevención, en su condición de representantes de los trabajadores, lo previsto en materia de garantías en:",
     "options": [
-      "El artículo 68 del Estatuto de los Trabajadores.",
       "El artículo 64 del Estatuto de los Trabajadores.",
+      "El artículo 68 del Estatuto de los Trabajadores.",
       "El artículo 10 de la Ley Orgánica de Libertad Sindical."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 37.1, párrafo primero, remite en materia de garantías al art. 68 del Estatuto de los Trabajadores, y su párrafo segundo al crédito de horas mensuales retribuidas de la letra e) de ese mismo artículo.",
     "fuente": "Art. 37.1 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -11683,11 +16493,11 @@ const QUESTIONS = {
   {
     "q": "Respecto de la formación en materia preventiva de los Delegados de Prevención, el artículo 37.2 de la LPRL establece que:",
     "options": [
+      "El tiempo dedicado a la formación será considerado como tiempo de trabajo a todos los efectos y su coste no podrá recaer en ningún caso sobre los Delegados de Prevención.",
       "El tiempo dedicado a la formación se imputará al crédito horario mensual del Delegado.",
-      "El coste de la formación se repartirá por mitades entre la empresa y el Delegado.",
-      "El tiempo dedicado a la formación será considerado como tiempo de trabajo a todos los efectos y su coste no podrá recaer en ningún caso sobre los Delegados de Prevención."
+      "El coste de la formación se repartirá por mitades entre la empresa y el Delegado."
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 37.2 obliga al empresario a proporcionar medios y formación, que podrá facilitar por sus propios medios o mediante concierto con organismos o entidades especializadas, y cierra: el tiempo dedicado a la formación es tiempo de trabajo a todos los efectos y su coste no puede recaer en ningún caso sobre los Delegados.",
     "fuente": "Art. 37.2 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -11695,11 +16505,11 @@ const QUESTIONS = {
   {
     "q": "El sigilo profesional debido por los Delegados de Prevención respecto de las informaciones a que tuviesen acceso como consecuencia de su actuación en la empresa se rige, conforme al artículo 37.3 de la LPRL, por lo dispuesto en:",
     "options": [
-      "El apartado 2 del artículo 65 del Estatuto de los Trabajadores.",
       "El apartado 4 del artículo 22 de la propia Ley de Prevención de Riesgos Laborales.",
+      "El apartado 2 del artículo 65 del Estatuto de los Trabajadores.",
       "El artículo 53 del texto refundido del Estatuto Básico del Empleado Público."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 37.3 remite expresamente al «apartado 2 del artículo 65 del Estatuto de los Trabajadores en cuanto al sigilo profesional debido».",
     "fuente": "Art. 37.3 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -11719,11 +16529,11 @@ const QUESTIONS = {
   {
     "q": "El artículo 38.1 de la LPRL define el Comité de Seguridad y Salud como:",
     "options": [
-      "Un órgano técnico de asesoramiento dependiente del servicio de prevención.",
       "El órgano paritario y colegiado de participación destinado a la consulta regular y periódica de las actuaciones de la empresa en materia de prevención de riesgos.",
+      "Un órgano técnico de asesoramiento dependiente del servicio de prevención.",
       "Un órgano consultivo de composición mayoritariamente empresarial y reunión anual."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "Definición literal del art. 38.1: «El Comité de Seguridad y Salud es el órgano paritario y colegiado de participación destinado a la consulta regular y periódica de las actuaciones de la empresa en materia de prevención de riesgos».",
     "fuente": "Art. 38.1 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -11731,11 +16541,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al artículo 38.2 de la LPRL, el Comité de Seguridad y Salud estará formado por:",
     "options": [
-      "Los Delegados de Prevención, de una parte, y por el empresario y/o sus representantes en número igual al de los Delegados de Prevención, de la otra.",
       "Los Delegados de Prevención y un número de representantes del empresario equivalente al doble de aquéllos.",
+      "Los Delegados de Prevención, de una parte, y por el empresario y/o sus representantes en número igual al de los Delegados de Prevención, de la otra.",
       "Los Delegados Sindicales y los responsables técnicos de la prevención en la empresa."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 38.2, párrafo segundo, establece la composición paritaria: Delegados de Prevención de una parte, y el empresario y/o sus representantes en número igual al de aquéllos, de la otra.",
     "fuente": "Art. 38.2 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -11744,10 +16554,10 @@ const QUESTIONS = {
     "q": "Según el artículo 38.2 de la LPRL, participan en las reuniones del Comité de Seguridad y Salud con voz pero sin voto:",
     "options": [
       "Los Inspectores de Trabajo y Seguridad Social del ámbito territorial correspondiente.",
-      "Los Delegados Sindicales y los responsables técnicos de la prevención en la empresa que no estén incluidos en la composición paritaria del Comité.",
-      "Todos los trabajadores del centro de trabajo que lo soliciten por escrito."
+      "Todos los trabajadores del centro de trabajo que lo soliciten por escrito.",
+      "Los Delegados Sindicales y los responsables técnicos de la prevención en la empresa que no estén incluidos en la composición paritaria del Comité."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 38.2, párrafo tercero, prevé la participación con voz pero sin voto de los Delegados Sindicales y de los responsables técnicos de la prevención en la empresa no incluidos en la composición paritaria; en las mismas condiciones podrán participar trabajadores especialmente cualificados y técnicos ajenos, si lo solicita alguna de las representaciones.",
     "fuente": "Art. 38.2 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -11755,11 +16565,11 @@ const QUESTIONS = {
   {
     "q": "El artículo 38.3 de la LPRL dispone, en cuanto al funcionamiento del Comité de Seguridad y Salud, que:",
     "options": [
-      "Su régimen de funcionamiento se fijará mediante reglamento aprobado por el Gobierno.",
       "El Comité adoptará sus propias normas de funcionamiento.",
+      "Su régimen de funcionamiento se fijará mediante reglamento aprobado por el Gobierno.",
       "Le será de aplicación directa el régimen de los órganos colegiados de las Administraciones públicas."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 38.3 señala que el Comité se reunirá trimestralmente y siempre que lo solicite alguna de las representaciones, y añade que «el Comité adoptará sus propias normas de funcionamiento».",
     "fuente": "Art. 38.3 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -11767,11 +16577,11 @@ const QUESTIONS = {
   {
     "q": "Es competencia del Comité de Seguridad y Salud, conforme al artículo 39.1.b) de la LPRL:",
     "options": [
-      "Promover iniciativas sobre métodos y procedimientos para la efectiva prevención de los riesgos, proponiendo a la empresa la mejora de las condiciones o la corrección de las deficiencias existentes.",
       "Aprobar el plan de prevención de riesgos laborales de la empresa.",
+      "Promover iniciativas sobre métodos y procedimientos para la efectiva prevención de los riesgos, proponiendo a la empresa la mejora de las condiciones o la corrección de las deficiencias existentes.",
       "Designar a los trabajadores encargados de las medidas de emergencia."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 39.1 atribuye al Comité dos competencias: participar en la elaboración, puesta en práctica y evaluación de los planes y programas de prevención [letra a)] y promover iniciativas sobre métodos y procedimientos para la efectiva prevención [letra b)].",
     "fuente": "Art. 39.1.b) LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -11791,11 +16601,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 40.2 de la LPRL, en las visitas a los centros de trabajo el Inspector de Trabajo y Seguridad Social comunicará su presencia al empresario o a su representante, al Comité de Seguridad y Salud, al Delegado de Prevención o, en su ausencia, a los representantes legales de los trabajadores, salvo:",
     "options": [
-      "Que la visita se realice fuera del horario habitual de trabajo.",
       "Que considere que dichas comunicaciones puedan perjudicar el éxito de sus funciones.",
+      "Que la visita se realice fuera del horario habitual de trabajo.",
       "Que la empresa cuente con menos de cincuenta trabajadores."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 40.2 exige esa comunicación «a fin de que puedan acompañarle durante el desarrollo de su visita y formularle las observaciones que estimen oportunas, a menos que considere que dichas comunicaciones puedan perjudicar el éxito de sus funciones».",
     "fuente": "Art. 40.2 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -11803,11 +16613,11 @@ const QUESTIONS = {
   {
     "q": "El artículo 40.4 de la LPRL prevé la consulta previa a las organizaciones sindicales y empresariales más representativas sobre los planes de actuación de la Inspección de Trabajo y Seguridad Social en materia preventiva, en especial respecto de los programas específicos para empresas de:",
     "options": [
-      "Menos de seis trabajadores.",
       "Menos de veinticinco trabajadores.",
+      "Menos de seis trabajadores.",
       "Menos de cincuenta trabajadores."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 40.4 se refiere «en especial [a] los programas específicos para empresas de menos de seis trabajadores», y añade que dichas organizaciones serán informadas del resultado de los planes.",
     "fuente": "Art. 40.4 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -11827,11 +16637,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 42.1 de la LPRL, el incumplimiento por los empresarios de sus obligaciones en materia de prevención de riesgos laborales dará lugar a:",
     "options": [
-      "Únicamente responsabilidades administrativas.",
       "Responsabilidades administrativas y, en su caso, penales y civiles por los daños y perjuicios que puedan derivarse de dicho incumplimiento.",
+      "Únicamente responsabilidades administrativas.",
       "Responsabilidades disciplinarias impuestas por el Comité de Seguridad y Salud."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 42.1 —precepto que además tiene carácter básico conforme a la D.A. 3.ª.2.a)— enumera responsabilidades administrativas y, en su caso, penales y civiles por los daños y perjuicios derivados del incumplimiento.",
     "fuente": "Art. 42.1 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -11839,11 +16649,11 @@ const QUESTIONS = {
   {
     "q": "El artículo 42.3 de la LPRL declara que las responsabilidades administrativas derivadas del procedimiento sancionador son compatibles con:",
     "options": [
-      "Las indemnizaciones por los daños y perjuicios causados y con el recargo de prestaciones económicas del sistema de la Seguridad Social.",
       "Ninguna otra responsabilidad, por aplicación del principio non bis in idem.",
+      "Las indemnizaciones por los daños y perjuicios causados y con el recargo de prestaciones económicas del sistema de la Seguridad Social.",
       "Exclusivamente con las responsabilidades penales que puedan declararse."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 42.3 declara compatibles las responsabilidades administrativas con las indemnizaciones por daños y perjuicios y con el recargo de prestaciones económicas de la Seguridad Social fijado por el órgano competente. Los apartados 2, 4 y 5 del art. 42 fueron derogados por el RDLeg 5/2000.",
     "fuente": "Art. 42.3 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -11852,10 +16662,10 @@ const QUESTIONS = {
     "q": "Cuando el Inspector de Trabajo y Seguridad Social comprueba la existencia de una infracción a la normativa de prevención, el artículo 43.1 de la LPRL le obliga a requerir al empresario la subsanación de las deficiencias observadas, salvo:",
     "options": [
       "Que el empresario alegue por escrito su disconformidad con la actuación inspectora.",
-      "Que por la gravedad e inminencia de los riesgos procediese acordar la paralización prevista en el artículo 44.",
-      "Que la empresa tenga constituido Comité de Seguridad y Salud."
+      "Que la empresa tenga constituido Comité de Seguridad y Salud.",
+      "Que por la gravedad e inminencia de los riesgos procediese acordar la paralización prevista en el artículo 44."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 43.1 exceptúa el requerimiento cuando «por la gravedad e inminencia de los riesgos procediese acordar la paralización prevista en el artículo 44», y todo ello sin perjuicio de la propuesta de sanción que en su caso corresponda.",
     "fuente": "Art. 43.1 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -11863,11 +16673,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al artículo 43.2 de la LPRL, el requerimiento formulado por el Inspector de Trabajo y Seguridad Social se hará saber por escrito al empresario presuntamente responsable y se pondrá asimismo en conocimiento de:",
     "options": [
-      "La autoridad laboral de la Comunidad Autónoma.",
       "Los Delegados de Prevención.",
+      "La autoridad laboral de la Comunidad Autónoma.",
       "El servicio de prevención ajeno concertado por la empresa."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 43.2 exige que el requerimiento señale las anomalías o deficiencias apreciadas con indicación del plazo para su subsanación y que «se pondrá, asimismo, en conocimiento de los Delegados de Prevención».",
     "fuente": "Art. 43.2 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -11875,11 +16685,11 @@ const QUESTIONS = {
   {
     "q": "Ordenada por el Inspector de Trabajo y Seguridad Social la paralización inmediata de trabajos por riesgo grave e inminente, el artículo 44.1 de la LPRL permite a la empresa impugnar la decisión ante la autoridad laboral en el plazo de:",
     "options": [
-      "Tres días hábiles, debiendo resolverse tal impugnación en el plazo máximo de veinticuatro horas.",
       "Cinco días hábiles, debiendo resolverse en el plazo máximo de tres días.",
+      "Tres días hábiles, debiendo resolverse tal impugnación en el plazo máximo de veinticuatro horas.",
       "Un mes, conforme al régimen general del recurso de alzada."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 44.1, párrafo segundo, prevé la impugnación ante la autoridad laboral en el plazo de tres días hábiles —sin perjuicio del cumplimiento inmediato de la decisión— y su resolución en el plazo máximo de veinticuatro horas, resolución que será ejecutiva sin perjuicio de los recursos que procedan.",
     "fuente": "Art. 44.1 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -11887,11 +16697,11 @@ const QUESTIONS = {
   {
     "q": "El artículo 44.2 de la LPRL dispone que los supuestos de paralización de trabajos que regula se entenderán, en todo caso:",
     "options": [
-      "Sin perjuicio del pago del salario o de las indemnizaciones que procedan y de las medidas que puedan arbitrarse para su garantía.",
       "Con suspensión del contrato de trabajo y sin derecho a retribución mientras dure la paralización.",
-      "Con derecho de la empresa a recuperar posteriormente las horas no trabajadas."
+      "Con derecho de la empresa a recuperar posteriormente las horas no trabajadas.",
+      "Sin perjuicio del pago del salario o de las indemnizaciones que procedan y de las medidas que puedan arbitrarse para su garantía."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 44.2 extiende esta regla tanto a las paralizaciones del propio artículo como a las previstas en la normativa reguladora de las actividades del art. 7.2 de la Ley.",
     "fuente": "Art. 44.2 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -11899,11 +16709,11 @@ const QUESTIONS = {
   {
     "q": "La disposición adicional cuarta de la LPRL prevé que, en los centros de trabajo que carezcan de representantes de los trabajadores por no existir trabajadores con la antigüedad suficiente para ser electores o elegibles:",
     "options": [
-      "No podrá ejercerse el derecho de participación hasta que se celebren elecciones sindicales.",
       "Los trabajadores podrán elegir por mayoría a un trabajador que ejerza las competencias del Delegado de Prevención.",
+      "No podrá ejercerse el derecho de participación hasta que se celebren elecciones sindicales.",
       "El empresario designará libremente al Delegado de Prevención entre la plantilla."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "La D.A. 4.ª permite esa elección por mayoría; el trabajador elegido tendrá las facultades, garantías y obligaciones de sigilo profesional de los Delegados de Prevención, y su actuación cesará cuando se reúnan los requisitos de antigüedad para celebrar elecciones, prorrogándose por el tiempo indispensable para su efectiva celebración.",
     "fuente": "D.A. 4.ª LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -11912,10 +16722,10 @@ const QUESTIONS = {
     "q": "El RD 486/1997, sobre disposiciones mínimas de seguridad y salud en los lugares de trabajo, NO será de aplicación a:",
     "options": [
       "Los comedores instalados en el centro de trabajo.",
-      "Los locales de descanso y los servicios higiénicos.",
-      "Los buques de pesca."
+      "Los buques de pesca.",
+      "Los locales de descanso y los servicios higiénicos."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 1.2 excluye los medios de transporte utilizados fuera de la empresa y los lugares de trabajo situados en ellos, las obras de construcción temporales o móviles, las industrias de extracción, los buques de pesca y los campos de cultivo, bosques y otros terrenos situados fuera de la zona edificada. En cambio, el art. 2.1 incluye expresamente en la definición de lugar de trabajo los servicios higiénicos, los locales de descanso, los locales de primeros auxilios y los comedores.",
     "fuente": "Art. 1.2.d) RD 486/1997 (lugares de trabajo)",
     "confianza": "alta"
@@ -11923,11 +16733,11 @@ const QUESTIONS = {
   {
     "q": "Según la disposición adicional única del RD 486/1997, la adaptación de las condiciones de trabajo, incluida la reducción o modificación de las horas de desarrollo de la jornada prevista, resulta obligatoria cuando se emite un aviso de fenómenos meteorológicos adversos de nivel:",
     "options": [
-      "Naranja o rojo.",
       "Amarillo o naranja.",
-      "Rojo, y únicamente de rojo."
+      "Rojo, y únicamente de rojo.",
+      "Naranja o rojo."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "La disposición adicional única, apartado 3, se refiere al aviso emitido por la AEMET o el órgano autonómico correspondiente de fenómenos meteorológicos adversos de nivel naranja o rojo cuando las medidas preventivas previas no garanticen la protección de la persona trabajadora.",
     "fuente": "Disposición adicional única, apartado 3, RD 486/1997 (lugares de trabajo)",
     "confianza": "alta"
@@ -11935,11 +16745,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al Anexo I del RD 486/1997, la altura mínima de los locales de trabajo desde el piso hasta el techo es de 3 metros, si bien en locales comerciales, de servicios, oficinas y despachos podrá reducirse a:",
     "options": [
-      "2,20 metros.",
       "2,50 metros.",
+      "2,20 metros.",
       "2,75 metros."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El Anexo I.A).2.1º.a) fija 3 metros de altura desde el piso hasta el techo, con la salvedad de los locales comerciales, de servicios, oficinas y despachos, en los que la altura podrá reducirse a 2,5 metros.",
     "fuente": "Anexo I.A).2.1º.a) RD 486/1997 (lugares de trabajo)",
     "confianza": "alta"
@@ -11947,11 +16757,11 @@ const QUESTIONS = {
   {
     "q": "El Anexo I del RD 486/1997 exige, como dimensión mínima de los locales de trabajo, un volumen no ocupado por trabajador de:",
     "options": [
-      "10 metros cúbicos.",
       "6 metros cúbicos.",
+      "10 metros cúbicos.",
       "15 metros cúbicos."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El Anexo I.A).2.1º.c) establece 10 metros cúbicos, no ocupados, por trabajador, junto a los 3 metros de altura y los 2 metros cuadrados de superficie libre por trabajador.",
     "fuente": "Anexo I.A).2.1º.c) RD 486/1997 (lugares de trabajo)",
     "confianza": "alta"
@@ -11971,11 +16781,11 @@ const QUESTIONS = {
   {
     "q": "De acuerdo con el Anexo I del RD 486/1997, las barandillas serán de materiales rígidos y tendrán una altura mínima de:",
     "options": [
-      "1 metro.",
       "90 centímetros.",
+      "1 metro.",
       "75 centímetros."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El Anexo I.A).3.3º exige barandillas de materiales rígidos, con una altura mínima de 90 centímetros y dotadas de una protección que impida el paso o deslizamiento por debajo de las mismas o la caída de objetos sobre personas.",
     "fuente": "Anexo I.A).3.3º RD 486/1997 (lugares de trabajo)",
     "confianza": "alta"
@@ -11984,10 +16794,10 @@ const QUESTIONS = {
     "q": "El Anexo I del RD 486/1997 fija la anchura mínima de las puertas exteriores y de los pasillos, respectivamente, en:",
     "options": [
       "1 metro y 1,20 metros.",
-      "70 centímetros y 90 centímetros.",
-      "80 centímetros y 1 metro."
+      "80 centímetros y 1 metro.",
+      "70 centímetros y 90 centímetros."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El Anexo I.A).5.3º dispone literalmente que «la anchura mínima de las puertas exteriores y de los pasillos será de 80 centímetros y 1 metro, respectivamente».",
     "fuente": "Anexo I.A).5.3º RD 486/1997 (lugares de trabajo)",
     "confianza": "alta"
@@ -11996,10 +16806,10 @@ const QUESTIONS = {
     "q": "Según el Anexo I del RD 486/1997, las puertas transparentes deberán tener una señalización situada:",
     "options": [
       "En su parte inferior, a ras del suelo.",
-      "A la altura de la vista.",
-      "En ambos lados del marco, a 90 centímetros del suelo."
+      "En ambos lados del marco, a 90 centímetros del suelo.",
+      "A la altura de la vista."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El Anexo I.A).6.1º establece que las puertas transparentes deberán tener una señalización a la altura de la vista.",
     "fuente": "Anexo I.A).6.1º RD 486/1997 (lugares de trabajo)",
     "confianza": "alta"
@@ -12031,11 +16841,11 @@ const QUESTIONS = {
   {
     "q": "Según el Anexo I del RD 486/1997, la anchura mínima de las escaleras de servicio será de:",
     "options": [
-      "55 centímetros.",
       "1 metro.",
-      "90 centímetros."
+      "90 centímetros.",
+      "55 centímetros."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El Anexo I.A).7.4º fija una anchura mínima de 1 metro para las escaleras, excepto en las de servicio, cuya anchura mínima será de 55 centímetros.",
     "fuente": "Anexo I.A).7.4º RD 486/1997 (lugares de trabajo)",
     "confianza": "alta"
@@ -12043,11 +16853,11 @@ const QUESTIONS = {
   {
     "q": "Para los escalones de las escaleras que no sean de servicio, el Anexo I del RD 486/1997 establece:",
     "options": [
+      "Una huella entre 23 y 36 centímetros y una contrahuella entre 13 y 20 centímetros.",
       "Una huella entre 15 y 25 centímetros y una contrahuella entre 10 y 18 centímetros.",
-      "Una huella entre 20 y 30 centímetros y una contrahuella entre 15 y 22 centímetros.",
-      "Una huella entre 23 y 36 centímetros y una contrahuella entre 13 y 20 centímetros."
+      "Una huella entre 20 y 30 centímetros y una contrahuella entre 15 y 22 centímetros."
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El Anexo I.A).7.6º fija para las escaleras que no sean de servicio una huella comprendida entre 23 y 36 centímetros y una contrahuella entre 13 y 20 centímetros; las de servicio tendrán una huella mínima de 15 centímetros y una contrahuella máxima de 25 centímetros.",
     "fuente": "Anexo I.A).7.6º RD 486/1997 (lugares de trabajo)",
     "confianza": "alta"
@@ -12092,10 +16902,10 @@ const QUESTIONS = {
     "q": "El Anexo II del RD 486/1997, sobre orden, limpieza y mantenimiento, dispone que, si se utiliza una instalación de ventilación:",
     "options": [
       "Deberá someterse a una revisión oficial anual por un organismo de control autorizado.",
-      "Deberá sustituirse íntegramente cada cinco años.",
-      "Deberá mantenerse en buen estado de funcionamiento y un sistema de control deberá indicar toda avería siempre que sea necesario para la salud de los trabajadores."
+      "Deberá mantenerse en buen estado de funcionamiento y un sistema de control deberá indicar toda avería siempre que sea necesario para la salud de los trabajadores.",
+      "Deberá sustituirse íntegramente cada cinco años."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El Anexo II.4, dentro del mantenimiento periódico de los lugares de trabajo y sus instalaciones, exige que la instalación de ventilación se mantenga en buen estado de funcionamiento y que un sistema de control indique toda avería siempre que sea necesario para la salud de los trabajadores.",
     "fuente": "Anexo II.4 RD 486/1997 (lugares de trabajo)",
     "confianza": "alta"
@@ -12104,10 +16914,10 @@ const QUESTIONS = {
     "q": "Según el Anexo III del RD 486/1997, en los locales de trabajo cerrados la humedad relativa estará comprendida entre el 30 y el 70 por 100, salvo en los locales donde existan riesgos por electricidad estática, en los que el límite inferior será el:",
     "options": [
       "40 por 100.",
-      "50 por 100.",
-      "60 por 100."
+      "60 por 100.",
+      "50 por 100."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El Anexo III.3.b) fija la horquilla general del 30 al 70 por 100 de humedad relativa y eleva el límite inferior al 50 por 100 en los locales donde existan riesgos por electricidad estática.",
     "fuente": "Anexo III.3.b) RD 486/1997 (lugares de trabajo)",
     "confianza": "alta"
@@ -12127,11 +16937,11 @@ const QUESTIONS = {
   {
     "q": "Conforme a la tabla del Anexo IV del RD 486/1997, el nivel mínimo de iluminación de las zonas donde se ejecuten tareas con exigencias visuales altas es de:",
     "options": [
-      "500 lux.",
       "1.000 lux.",
+      "500 lux.",
       "200 lux."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "La tabla del Anexo IV.3 fija 100 lux para bajas exigencias visuales, 200 para exigencias moderadas, 500 para exigencias altas y 1.000 lux para exigencias visuales muy altas.",
     "fuente": "Anexo IV.3 RD 486/1997 (lugares de trabajo)",
     "confianza": "alta"
@@ -12151,11 +16961,11 @@ const QUESTIONS = {
   {
     "q": "El Anexo V del RD 486/1997 exige que los retretes dispongan de:",
     "options": [
-      "Ventilación forzada y detector de presencia.",
       "Descarga automática de agua y papel higiénico.",
+      "Ventilación forzada y detector de presencia.",
       "Un sistema de apertura automática y pavimento antideslizante certificado."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El Anexo V.A).2.7º dispone que los retretes dispondrán de descarga automática de agua y papel higiénico; en los que hayan de ser utilizados por mujeres se instalarán recipientes especiales y cerrados, y las cabinas estarán provistas de una puerta con cierre interior y de una percha.",
     "fuente": "Anexo V.A).2.7º RD 486/1997 (lugares de trabajo)",
     "confianza": "alta"
@@ -12200,10 +17010,10 @@ const QUESTIONS = {
     "q": "¿Cuál de los siguientes queda expresamente excluido del ámbito de aplicación del RD 488/1997, sobre equipos con pantallas de visualización?",
     "options": [
       "El puesto de un auxiliar administrativo que utiliza un ordenador de sobremesa durante toda su jornada.",
-      "El puesto de trabajo dotado de pantalla, teclado, asiento y mesa de una oficina administrativa.",
-      "Las máquinas de escribir de diseño clásico, conocidas como máquinas de ventanilla."
+      "Las máquinas de escribir de diseño clásico, conocidas como máquinas de ventanilla.",
+      "El puesto de trabajo dotado de pantalla, teclado, asiento y mesa de una oficina administrativa."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 1.3 excluye los puestos de conducción de vehículos o máquinas, los sistemas informáticos embarcados en un medio de transporte, los destinados prioritariamente al público, los sistemas portátiles no utilizados de modo continuado en un puesto de trabajo, las calculadoras, cajas registradoras y equipos con pequeños dispositivos de visualización, y las máquinas de escribir de diseño clásico o de ventanilla.",
     "fuente": "Art. 1.3.f) RD 488/1997 (pantallas de visualización)",
     "confianza": "alta"
@@ -12211,11 +17021,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 1.3 del RD 488/1997, los sistemas llamados portátiles quedan excluidos de su ámbito de aplicación:",
     "options": [
-      "Siempre y cuando no se utilicen de modo continuado en un puesto de trabajo.",
       "En todo caso, por su propia naturaleza.",
-      "Únicamente cuando se utilicen fuera del centro de trabajo."
+      "Únicamente cuando se utilicen fuera del centro de trabajo.",
+      "Siempre y cuando no se utilicen de modo continuado en un puesto de trabajo."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 1.3.d) excluye «los sistemas llamados portátiles, siempre y cuando no se utilicen de modo continuado en un puesto de trabajo»; si el uso es continuado en el puesto, el Real Decreto sí resulta aplicable.",
     "fuente": "Art. 1.3.d) RD 488/1997 (pantallas de visualización)",
     "confianza": "alta"
@@ -12223,11 +17033,11 @@ const QUESTIONS = {
   {
     "q": "A efectos del RD 488/1997, se entiende por pantalla de visualización:",
     "options": [
-      "Cualquier monitor de tecnología LCD o LED conectado a un ordenador personal.",
       "Una pantalla alfanumérica o gráfica, independientemente del método de representación visual utilizado.",
+      "Cualquier monitor de tecnología LCD o LED conectado a un ordenador personal.",
       "Todo dispositivo de visualización de datos, incluidas las calculadoras y las cajas registradoras."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 2.a) define la pantalla de visualización como «una pantalla alfanumérica o gráfica, independientemente del método de representación visual utilizado». Las calculadoras y cajas registradoras están, además, excluidas por el art. 1.3.e).",
     "fuente": "Art. 2.a) RD 488/1997 (pantallas de visualización)",
     "confianza": "alta"
@@ -12236,10 +17046,10 @@ const QUESTIONS = {
     "q": "El RD 488/1997 define como «trabajador», a sus efectos, a cualquier trabajador que:",
     "options": [
       "Utilice un equipo con pantalla de visualización más de cuatro horas diarias o veinte semanales.",
-      "Ocupe un puesto que incluya una pantalla de visualización, con independencia del tiempo de uso.",
-      "Habitualmente y durante una parte relevante de su trabajo normal utilice un equipo con pantalla de visualización."
+      "Habitualmente y durante una parte relevante de su trabajo normal utilice un equipo con pantalla de visualización.",
+      "Ocupe un puesto que incluya una pantalla de visualización, con independencia del tiempo de uso."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 2.c) emplea un criterio cualitativo: es trabajador a estos efectos quien habitualmente y durante una parte relevante de su trabajo normal utiliza un equipo con pantalla de visualización. El Real Decreto no fija umbrales horarios.",
     "fuente": "Art. 2.c) RD 488/1997 (pantallas de visualización)",
     "confianza": "alta"
@@ -12247,11 +17057,11 @@ const QUESTIONS = {
   {
     "q": "Al evaluar los riesgos de los puestos con pantallas de visualización, el artículo 3.2 del RD 488/1997 obliga a tomar en consideración especialmente:",
     "options": [
-      "El tiempo promedio de utilización diaria del equipo, el tiempo máximo de atención continua a la pantalla y el grado de atención que exija la tarea.",
       "La edad del trabajador, su agudeza visual previa y los antecedentes familiares de patología ocular.",
-      "La antigüedad del equipo, su potencia de cálculo y la resolución de la pantalla."
+      "La antigüedad del equipo, su potencia de cálculo y la resolución de la pantalla.",
+      "El tiempo promedio de utilización diaria del equipo, el tiempo máximo de atención continua a la pantalla y el grado de atención que exija la tarea."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 3.2 exige evaluar los riesgos atendiendo en particular a los riesgos para la vista y a los problemas físicos y de carga mental, considerando entre las exigencias de la tarea el tiempo promedio de utilización diaria del equipo, el tiempo máximo de atención continua a la pantalla y el grado de atención que exija la tarea.",
     "fuente": "Art. 3.2 RD 488/1997 (pantallas de visualización)",
     "confianza": "alta"
@@ -12259,11 +17069,11 @@ const QUESTIONS = {
   {
     "q": "Si la evaluación revela que el trabajo con pantallas de visualización supone o puede suponer un riesgo, el artículo 3.3 del RD 488/1997 obliga al empresario, en particular, a:",
     "options": [
-      "Sustituir el equipo por otro de tecnología distinta en el plazo de seis meses.",
       "Reducir la duración máxima del trabajo continuado en pantalla, organizando la actividad diaria de forma que esta tarea se alterne con otras o estableciendo las pausas necesarias.",
+      "Sustituir el equipo por otro de tecnología distinta en el plazo de seis meses.",
       "Reducir la jornada laboral del trabajador afectado sin merma de sus retribuciones."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 3.3 obliga a adoptar las medidas técnicas u organizativas necesarias y, en particular, a reducir la duración máxima del trabajo continuado en pantalla alternando la tarea con otras o estableciendo pausas cuando la alternancia no sea posible o no baste.",
     "fuente": "Art. 3.3 RD 488/1997 (pantallas de visualización)",
     "confianza": "alta"
@@ -12271,11 +17081,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al artículo 3.4 del RD 488/1997, ¿qué podrá acordarse en los convenios colectivos?",
     "options": [
-      "La periodicidad, duración y condiciones de organización de los cambios de actividad y pausas.",
       "La supresión de la vigilancia de la salud para los usuarios ocasionales de pantallas.",
+      "La periodicidad, duración y condiciones de organización de los cambios de actividad y pausas.",
       "La sustitución de los reconocimientos oftalmológicos por un complemento retributivo."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 3.4 remite a la negociación colectiva la periodicidad, duración y condiciones de organización de los cambios de actividad y pausas previstos en el apartado 3.",
     "fuente": "Art. 3.4 RD 488/1997 (pantallas de visualización)",
     "confianza": "alta"
@@ -12295,11 +17105,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 4.3 del RD 488/1997, el empresario proporcionará gratuitamente dispositivos correctores especiales para la protección de la vista cuando la vigilancia de la salud demuestre su necesidad y, además:",
     "options": [
-      "El trabajador supere las cuatro horas diarias de uso de pantalla.",
       "No puedan utilizarse dispositivos correctores normales.",
+      "El trabajador supere las cuatro horas diarias de uso de pantalla.",
       "Lo autorice previamente el servicio de prevención ajeno."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 4.3 condiciona la entrega gratuita de dispositivos correctores especiales a que los resultados de la vigilancia de la salud demuestren su necesidad y a que no puedan utilizarse dispositivos correctores normales.",
     "fuente": "Art. 4.3 RD 488/1997 (pantallas de visualización)",
     "confianza": "alta"
@@ -12307,11 +17117,11 @@ const QUESTIONS = {
   {
     "q": "El artículo 5.3 del RD 488/1997 obliga a garantizar que cada trabajador reciba una formación adecuada sobre las modalidades de uso de los equipos con pantallas de visualización:",
     "options": [
-      "Antes de comenzar este tipo de trabajo y cada vez que la organización del puesto de trabajo se modifique de manera apreciable.",
       "Dentro del primer mes de trabajo y, a partir de entonces, con carácter bienal.",
+      "Antes de comenzar este tipo de trabajo y cada vez que la organización del puesto de trabajo se modifique de manera apreciable.",
       "Solo cuando el trabajador cambie de puesto de trabajo dentro de la empresa."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 5.3 exige formación adecuada sobre las modalidades de uso antes de comenzar este tipo de trabajo y cada vez que la organización del puesto de trabajo se modifique de manera apreciable.",
     "fuente": "Art. 5.3 RD 488/1997 (pantallas de visualización)",
     "confianza": "alta"
@@ -12331,11 +17141,11 @@ const QUESTIONS = {
   {
     "q": "El anexo del RD 488/1997 exige, respecto del teclado, que:",
     "options": [
-      "Sea de superficie brillante y esté integrado en la pantalla para ahorrar espacio en la mesa.",
       "Sea inclinable e independiente de la pantalla, con superficie mate y con espacio suficiente delante de él para que el usuario pueda apoyar los brazos y las manos.",
+      "Sea de superficie brillante y esté integrado en la pantalla para ahorrar espacio en la mesa.",
       "Disponga obligatoriamente de reposamuñecas acolchado y de teclas retroiluminadas."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El anexo, apartado 1.c), exige un teclado inclinable e independiente de la pantalla, con espacio suficiente delante para apoyar brazos y manos, superficie mate para evitar reflejos y símbolos de las teclas legibles desde la posición normal de trabajo.",
     "fuente": "Anexo, apartado 1.c) RD 488/1997 (pantallas de visualización)",
     "confianza": "alta"
@@ -12343,11 +17153,11 @@ const QUESTIONS = {
   {
     "q": "Según el anexo del RD 488/1997, el soporte de los documentos deberá:",
     "options": [
-      "Ser estable y regulable y estar colocado de tal modo que se reduzcan al mínimo los movimientos incómodos de la cabeza y los ojos.",
       "Estar fijado a la pared, a la izquierda de la pantalla y a la altura de los ojos del usuario.",
+      "Ser estable y regulable y estar colocado de tal modo que se reduzcan al mínimo los movimientos incómodos de la cabeza y los ojos.",
       "Situarse siempre entre el teclado y el borde de la mesa."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El anexo, apartado 1.d), relativo a la mesa o superficie de trabajo, exige que ésta sea poco reflectante y de dimensiones suficientes y que el soporte de los documentos sea estable y regulable y esté colocado de modo que se reduzcan al mínimo los movimientos incómodos de la cabeza y los ojos.",
     "fuente": "Anexo, apartado 1.d) RD 488/1997 (pantallas de visualización)",
     "confianza": "alta"
@@ -12356,10 +17166,10 @@ const QUESTIONS = {
     "q": "Respecto del asiento de trabajo, el anexo del RD 488/1997 establece que:",
     "options": [
       "Deberá llevar reposabrazos regulables y cinco ruedas dotadas de freno.",
-      "Su altura deberá ser regulable, el respaldo reclinable y de altura ajustable, y se pondrá un reposapiés a disposición de quienes lo deseen.",
-      "El reposapiés será obligatorio para todos los usuarios de equipos con pantalla."
+      "El reposapiés será obligatorio para todos los usuarios de equipos con pantalla.",
+      "Su altura deberá ser regulable, el respaldo reclinable y de altura ajustable, y se pondrá un reposapiés a disposición de quienes lo deseen."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El anexo, apartado 1.e), exige un asiento estable que proporcione libertad de movimiento y una postura confortable, con altura regulable y respaldo reclinable y de altura ajustable, y añade que «se pondrá un reposapiés a disposición de quienes lo deseen».",
     "fuente": "Anexo, apartado 1.e) RD 488/1997 (pantallas de visualización)",
     "confianza": "alta"
@@ -12367,11 +17177,11 @@ const QUESTIONS = {
   {
     "q": "El anexo del RD 488/1997, en materia de reflejos y deslumbramientos, dispone que las ventanas:",
     "options": [
+      "Deberán ir equipadas con un dispositivo de cobertura adecuado y regulable para atenuar la luz del día que ilumine el puesto de trabajo.",
       "Deberán permanecer cerradas durante toda la jornada de trabajo.",
-      "Se situarán siempre detrás de la pantalla para aprovechar al máximo la luz natural.",
-      "Deberán ir equipadas con un dispositivo de cobertura adecuado y regulable para atenuar la luz del día que ilumine el puesto de trabajo."
+      "Se situarán siempre detrás de la pantalla para aprovechar al máximo la luz natural."
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El anexo, apartado 2.c), obliga a instalar los puestos de forma que las fuentes de luz no provoquen deslumbramiento directo ni reflejos molestos en la pantalla, y exige que las ventanas vayan equipadas con un dispositivo de cobertura adecuado y regulable.",
     "fuente": "Anexo, apartado 2.c) RD 488/1997 (pantallas de visualización)",
     "confianza": "alta"
@@ -12379,11 +17189,11 @@ const QUESTIONS = {
   {
     "q": "En cuanto a la interconexión ordenador/persona, el anexo del RD 488/1997 señala que no deberá utilizarse ningún dispositivo cuantitativo o cualitativo de control:",
     "options": [
-      "Sin que los trabajadores hayan sido informados y previa consulta con sus representantes.",
       "Salvo que lo autorice previamente la Inspección de Trabajo y Seguridad Social.",
+      "Sin que los trabajadores hayan sido informados y previa consulta con sus representantes.",
       "En ningún caso, por resultar contrario a la intimidad de los trabajadores."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El anexo, apartado 3.b), tras exigir que el programa sea fácil de utilizar y adaptable al nivel de conocimientos del usuario, añade que «no deberá utilizarse ningún dispositivo cuantitativo o cualitativo de control sin que los trabajadores hayan sido informados y previa consulta con sus representantes».",
     "fuente": "Anexo, apartado 3.b) RD 488/1997 (pantallas de visualización)",
     "confianza": "alta"
@@ -12392,10 +17202,10 @@ const QUESTIONS = {
     "q": "Conforme al artículo 1 de la LPRL, la normativa sobre prevención de riesgos laborales está constituida por:",
     "options": [
       "Exclusivamente por la Ley 31/1995 y por sus disposiciones reglamentarias de desarrollo.",
-      "La Ley 31/1995, sus disposiciones de desarrollo o complementarias y cuantas otras normas, legales o convencionales, contengan prescripciones relativas a la adopción de medidas preventivas en el ámbito laboral o susceptibles de producirlas en dicho ámbito.",
-      "La Ley 31/1995 y las normas convencionales, quedando excluidas las de rango reglamentario."
+      "La Ley 31/1995 y las normas convencionales, quedando excluidas las de rango reglamentario.",
+      "La Ley 31/1995, sus disposiciones de desarrollo o complementarias y cuantas otras normas, legales o convencionales, contengan prescripciones relativas a la adopción de medidas preventivas en el ámbito laboral o susceptibles de producirlas en dicho ámbito."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 1 LPRL integra en la normativa preventiva la propia Ley, sus disposiciones de desarrollo o complementarias y cuantas otras normas, legales o convencionales, contengan prescripciones sobre medidas preventivas en el ámbito laboral o susceptibles de producirlas.",
     "fuente": "Art. 1 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -12416,10 +17226,10 @@ const QUESTIONS = {
     "q": "Las disposiciones de carácter laboral contenidas en la LPRL y en sus normas reglamentarias tienen, conforme al artículo 2.2:",
     "options": [
       "Carácter dispositivo, pudiendo ser excluidas por convenio colectivo.",
-      "Carácter de Derecho necesario absoluto, no susceptible de mejora por la negociación colectiva.",
-      "En todo caso el carácter de Derecho necesario mínimo indisponible, pudiendo ser mejoradas y desarrolladas en los convenios colectivos."
+      "En todo caso el carácter de Derecho necesario mínimo indisponible, pudiendo ser mejoradas y desarrolladas en los convenios colectivos.",
+      "Carácter de Derecho necesario absoluto, no susceptible de mejora por la negociación colectiva."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 2.2 LPRL les atribuye en todo caso el carácter de Derecho necesario mínimo indisponible, mejorable y desarrollable en los convenios colectivos.",
     "fuente": "Art. 2.2 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -12428,10 +17238,10 @@ const QUESTIONS = {
     "q": "De acuerdo con el artículo 3.1 de la LPRL, la Ley y sus normas de desarrollo son de aplicación:",
     "options": [
       "Solo en el ámbito de las relaciones laborales reguladas en el texto refundido de la Ley del Estatuto de los Trabajadores.",
-      "Tanto en el ámbito de las relaciones laborales reguladas en el texto refundido de la Ley del Estatuto de los Trabajadores como en el de las relaciones de carácter administrativo o estatutario del personal al servicio de las Administraciones públicas.",
-      "En el ámbito de las relaciones laborales comunes, quedando el personal funcionario sometido íntegramente y en exclusiva a su normativa específica."
+      "En el ámbito de las relaciones laborales comunes, quedando el personal funcionario sometido íntegramente y en exclusiva a su normativa específica.",
+      "Tanto en el ámbito de las relaciones laborales reguladas en el texto refundido de la Ley del Estatuto de los Trabajadores como en el de las relaciones de carácter administrativo o estatutario del personal al servicio de las Administraciones públicas."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 3.1 LPRL extiende la Ley a las relaciones laborales del Estatuto de los Trabajadores y a las relaciones administrativas o estatutarias del personal al servicio de las Administraciones públicas, con las peculiaridades previstas en la Ley o en sus normas de desarrollo.",
     "fuente": "Art. 3.1 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -12464,10 +17274,10 @@ const QUESTIONS = {
     "q": "Según el artículo 3.3 de la LPRL, la adaptación a la Ley de aquellas actividades de los establecimientos penitenciarios cuyas características justifiquen una regulación especial se llevará a efecto en los términos señalados en:",
     "options": [
       "La Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria.",
-      "La Ley 7/1990, de 19 de julio, sobre negociación colectiva y participación en la determinación de las condiciones de trabajo de los empleados públicos.",
-      "El texto refundido de la Ley del Estatuto Básico del Empleado Público."
+      "El texto refundido de la Ley del Estatuto Básico del Empleado Público.",
+      "La Ley 7/1990, de 19 de julio, sobre negociación colectiva y participación en la determinación de las condiciones de trabajo de los empleados públicos."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 3.3 LPRL remite expresamente a la Ley 7/1990, de 19 de julio, sobre negociación colectiva y participación en la determinación de las condiciones de trabajo de los empleados públicos.",
     "fuente": "Art. 3.3 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -12488,10 +17298,10 @@ const QUESTIONS = {
     "q": "En las definiciones del artículo 4 de la LPRL, «riesgo laboral» se entiende como:",
     "options": [
       "Toda enfermedad, patología o lesión sufrida con motivo u ocasión del trabajo.",
-      "Cualquier característica del trabajo que pueda tener una influencia significativa en la generación de riesgos.",
-      "La posibilidad de que un trabajador sufra un determinado daño derivado del trabajo."
+      "La posibilidad de que un trabajador sufra un determinado daño derivado del trabajo.",
+      "Cualquier característica del trabajo que pueda tener una influencia significativa en la generación de riesgos."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 4.2.º LPRL define «riesgo laboral» como la posibilidad de que un trabajador sufra un determinado daño derivado del trabajo. Las otras opciones corresponden a «daños derivados del trabajo» (4.3.º) y a «condición de trabajo» (4.7.º).",
     "fuente": "Art. 4.2º LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -12500,10 +17310,10 @@ const QUESTIONS = {
     "q": "Para calificar un riesgo desde el punto de vista de su gravedad, el artículo 4 de la LPRL exige valorar conjuntamente:",
     "options": [
       "La frecuencia de la exposición y el número de trabajadores afectados.",
-      "La probabilidad de que se produzca el daño y la severidad del mismo.",
-      "La naturaleza del agente presente y el tiempo de permanencia en el puesto."
+      "La naturaleza del agente presente y el tiempo de permanencia en el puesto.",
+      "La probabilidad de que se produzca el daño y la severidad del mismo."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 4.2.º LPRL dispone que, para calificar un riesgo según su gravedad, se valorarán conjuntamente la probabilidad de que se produzca el daño y la severidad del mismo.",
     "fuente": "Art. 4.2º LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -12523,11 +17333,11 @@ const QUESTIONS = {
   {
     "q": "El concepto de «equipo de trabajo» que recoge el artículo 4 de la LPRL comprende:",
     "options": [
-      "Cualquier máquina, aparato, instrumento o instalación utilizada en el trabajo.",
       "Cualquier equipo destinado a ser llevado o sujetado por el trabajador para protegerle de uno o varios riesgos.",
+      "Cualquier máquina, aparato, instrumento o instalación utilizada en el trabajo.",
       "El conjunto de trabajadores que desarrollan una misma tarea bajo un mando único."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 4.6.º LPRL define «equipo de trabajo» como cualquier máquina, aparato, instrumento o instalación utilizada en el trabajo. La segunda opción corresponde al equipo de protección individual (art. 4.8.º).",
     "fuente": "Art. 4.6º LPRL (Ley 31/1995)",
     "confianza": "alta",
@@ -12539,11 +17349,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al artículo 4 de la LPRL, se entenderá como «condición de trabajo» cualquier característica del mismo que pueda tener:",
     "options": [
-      "Una influencia significativa en la generación de riesgos para la seguridad y la salud del trabajador.",
       "Una repercusión directa en la productividad y en la organización de la empresa.",
-      "Consecuencias sobre la jornada, el salario o la clasificación profesional del trabajador."
+      "Consecuencias sobre la jornada, el salario o la clasificación profesional del trabajador.",
+      "Una influencia significativa en la generación de riesgos para la seguridad y la salud del trabajador."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 4.7.º LPRL define «condición de trabajo» como cualquier característica del trabajo que pueda tener una influencia significativa en la generación de riesgos para la seguridad y la salud del trabajador.",
     "fuente": "Art. 4.7º LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -12551,11 +17361,11 @@ const QUESTIONS = {
   {
     "q": "El «equipo de protección individual», según el artículo 4 de la LPRL, es cualquier equipo destinado a ser llevado o sujetado por el trabajador para que le proteja de uno o varios riesgos que puedan amenazar su seguridad o su salud en el trabajo:",
     "options": [
-      "Quedando expresamente excluidos los complementos y accesorios.",
       "Así como cualquier complemento o accesorio destinado a tal fin.",
+      "Quedando expresamente excluidos los complementos y accesorios.",
       "Siempre que haya sido previamente certificado por un organismo de control acreditado."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 4.8.º LPRL extiende la definición de equipo de protección individual a cualquier complemento o accesorio destinado a esa misma finalidad protectora.",
     "fuente": "Art. 4.8º LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -12564,10 +17374,10 @@ const QUESTIONS = {
     "q": "Conforme al artículo 5.1 de la LPRL, la elaboración de la política preventiva se llevará a cabo con la participación de los empresarios y de los trabajadores a través de:",
     "options": [
       "Los comités de seguridad y salud constituidos en las empresas de más de 50 trabajadores.",
-      "Los delegados de prevención designados en cada centro de trabajo.",
-      "Sus organizaciones empresariales y sindicales más representativas."
+      "Sus organizaciones empresariales y sindicales más representativas.",
+      "Los delegados de prevención designados en cada centro de trabajo."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "La letra b) del art. 5.1 LPRL exige que la política preventiva se elabore con la participación de empresarios y trabajadores a través de sus organizaciones empresariales y sindicales más representativas.",
     "fuente": "Art. 5.1.b) LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -12575,11 +17385,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 5 de la LPRL, las Administraciones públicas promoverán la efectividad del principio de igualdad entre mujeres y hombres considerando las variables relacionadas con el sexo:",
     "options": [
-      "Tanto en los sistemas de recogida y tratamiento de datos como en el estudio e investigación generales en materia de prevención de riesgos laborales.",
       "Únicamente en los protocolos de vigilancia de la salud aplicables a las trabajadoras embarazadas o en período de lactancia.",
-      "Exclusivamente en las estadísticas oficiales de siniestralidad laboral publicadas anualmente."
+      "Exclusivamente en las estadísticas oficiales de siniestralidad laboral publicadas anualmente.",
+      "Tanto en los sistemas de recogida y tratamiento de datos como en el estudio e investigación generales en materia de prevención de riesgos laborales."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 5.4 LPRL ordena considerar las variables relacionadas con el sexo tanto en los sistemas de recogida y tratamiento de datos como en el estudio e investigación generales, con el objetivo de detectar y prevenir daños vinculados al sexo de los trabajadores.",
     "fuente": "Art. 5.4 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -12587,11 +17397,11 @@ const QUESTIONS = {
   {
     "q": "El artículo 5 de la LPRL establece que la política en materia de prevención de riesgos laborales deberá promover:",
     "options": [
+      "La integración eficaz de la prevención de riesgos laborales en el sistema de gestión de la empresa.",
       "La externalización de la actividad preventiva en servicios de prevención ajenos acreditados.",
-      "La constitución de un servicio de prevención propio en toda empresa de más de 250 trabajadores.",
-      "La integración eficaz de la prevención de riesgos laborales en el sistema de gestión de la empresa."
+      "La constitución de un servicio de prevención propio en toda empresa de más de 250 trabajadores."
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 5.5 LPRL, añadido por la Ley 25/2009, impone que la política preventiva promueva la integración eficaz de la prevención de riesgos laborales en el sistema de gestión de la empresa.",
     "fuente": "Art. 5.5 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -12623,11 +17433,11 @@ const QUESTIONS = {
   {
     "q": "El artículo 7.1 de la LPRL atribuye a las Administraciones públicas competentes en materia laboral el desarrollo de funciones de:",
     "options": [
+      "Promoción de la prevención, asesoramiento técnico, vigilancia y control del cumplimiento de la normativa preventiva, así como sanción de las infracciones a dicha normativa.",
       "Instrucción y resolución de los procedimientos de recargo de prestaciones económicas de la Seguridad Social.",
-      "Auditoría y acreditación de los servicios de prevención ajenos y de las entidades formativas.",
-      "Promoción de la prevención, asesoramiento técnico, vigilancia y control del cumplimiento de la normativa preventiva, así como sanción de las infracciones a dicha normativa."
+      "Auditoría y acreditación de los servicios de prevención ajenos y de las entidades formativas."
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 7.1 LPRL enumera esas cuatro líneas de actuación: promoción de la prevención, asesoramiento técnico, vigilancia y control, y sanción de las infracciones con arreglo al capítulo VII de la Ley.",
     "fuente": "Art. 7.1 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -12695,11 +17505,11 @@ const QUESTIONS = {
   {
     "q": "La Inspección de Trabajo y Seguridad Social puede ordenar la paralización inmediata de trabajos, según el artículo 9.1 de la LPRL, cuando:",
     "options": [
-      "Lo solicite el comité de seguridad y salud por mayoría de sus miembros.",
       "A juicio del inspector se advierta la existencia de riesgo grave e inminente para la seguridad o salud de los trabajadores.",
+      "Lo solicite el comité de seguridad y salud por mayoría de sus miembros.",
       "La empresa carezca de plan de prevención de riesgos laborales o de evaluación de riesgos."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "La letra f) del art. 9.1 LPRL habilita al inspector a ordenar la paralización inmediata de los trabajos cuando, a su juicio, se advierta riesgo grave e inminente para la seguridad o salud de los trabajadores.",
     "fuente": "Art. 9.1.f) LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -12708,10 +17518,10 @@ const QUESTIONS = {
     "q": "Según el artículo 9.1 de la LPRL, la Inspección de Trabajo y Seguridad Social informará a la autoridad laboral sobre los accidentes de trabajo:",
     "options": [
       "Únicamente sobre los accidentes de trabajo mortales.",
-      "Sobre todos los accidentes que hayan causado baja médica superior a tres días.",
-      "Mortales, muy graves o graves, y sobre aquellos otros en que, por sus características o por los sujetos afectados, se considere necesario dicho informe."
+      "Mortales, muy graves o graves, y sobre aquellos otros en que, por sus características o por los sujetos afectados, se considere necesario dicho informe.",
+      "Sobre todos los accidentes que hayan causado baja médica superior a tres días."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "La letra d) del art. 9.1 LPRL extiende el deber de informar a los accidentes mortales, muy graves o graves y a aquellos otros en que, por sus características o sujetos afectados, se considere necesario, así como a las enfermedades profesionales con esas calificaciones.",
     "fuente": "Art. 9.1.d) LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -12719,11 +17529,11 @@ const QUESTIONS = {
   {
     "q": "De acuerdo con el artículo 9.2 de la LPRL, en el ámbito de la Administración General del Estado la colaboración pericial y el asesoramiento técnico necesarios a la Inspección de Trabajo y Seguridad Social serán prestados por:",
     "options": [
-      "El Instituto Nacional de Seguridad e Higiene en el Trabajo.",
       "El Instituto Nacional de la Seguridad Social.",
-      "La Dirección General de Trabajo del Ministerio competente."
+      "La Dirección General de Trabajo del Ministerio competente.",
+      "El Instituto Nacional de Seguridad e Higiene en el Trabajo."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 9.2 LPRL señala que, en el ámbito de la Administración General del Estado, esa colaboración pericial y asesoramiento técnico serán prestados por el Instituto Nacional de Seguridad e Higiene en el Trabajo.",
     "fuente": "Art. 9.2 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -12731,11 +17541,11 @@ const QUESTIONS = {
   {
     "q": "Cuando de las actuaciones comprobatorias de los funcionarios técnicos se deduzca la existencia de infracción, el artículo 9.3 de la LPRL dispone que el funcionario actuante remitirá informe a la Inspección de Trabajo y Seguridad Social:",
     "options": [
-      "En todo caso y de forma inmediata a la comprobación de los hechos.",
       "Siempre que haya mediado incumplimiento de previo requerimiento.",
+      "En todo caso y de forma inmediata a la comprobación de los hechos.",
       "Solamente si el empresario no subsana las deficiencias en el plazo de un mes."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 9.3 LPRL condiciona la remisión del informe, a efectos de que se levante en su caso acta de infracción, a que haya mediado incumplimiento de previo requerimiento.",
     "fuente": "Art. 9.3 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -12780,10 +17590,10 @@ const QUESTIONS = {
     "q": "Según el artículo 12 de la LPRL, la participación de empresarios y trabajadores, a través de las organizaciones empresariales y sindicales más representativas, en la planificación, programación, organización y control de la gestión relacionada con la mejora de las condiciones de trabajo es:",
     "options": [
       "Una facultad potestativa que las Administraciones públicas competentes pueden articular reglamentariamente.",
-      "Un derecho de configuración legal exigible únicamente en empresas de más de cincuenta trabajadores.",
-      "Principio básico de la política de prevención de riesgos laborales, a desarrollar por las Administraciones públicas competentes en los distintos niveles territoriales."
+      "Principio básico de la política de prevención de riesgos laborales, a desarrollar por las Administraciones públicas competentes en los distintos niveles territoriales.",
+      "Un derecho de configuración legal exigible únicamente en empresas de más de cincuenta trabajadores."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 12 LPRL califica esa participación como principio básico de la política de prevención de riesgos laborales, que deben desarrollar las Administraciones públicas competentes en los distintos niveles territoriales.",
     "fuente": "Art. 12 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -12791,11 +17601,11 @@ const QUESTIONS = {
   {
     "q": "La Comisión Nacional de Seguridad y Salud en el Trabajo se crea en el artículo 13 de la LPRL como:",
     "options": [
-      "Órgano colegiado asesor de las Administraciones públicas en la formulación de las políticas de prevención y órgano de participación institucional en materia de seguridad y salud en el trabajo.",
       "Órgano de resolución de los conflictos de competencia entre las Administraciones laboral, sanitaria y de industria.",
-      "Organismo autónomo adscrito al Ministerio de Trabajo y Seguridad Social, con personalidad jurídica y patrimonio propios."
+      "Organismo autónomo adscrito al Ministerio de Trabajo y Seguridad Social, con personalidad jurídica y patrimonio propios.",
+      "Órgano colegiado asesor de las Administraciones públicas en la formulación de las políticas de prevención y órgano de participación institucional en materia de seguridad y salud en el trabajo."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 13.1 LPRL la crea con esa doble naturaleza: órgano colegiado asesor en la formulación de las políticas de prevención y órgano de participación institucional en seguridad y salud en el trabajo.",
     "fuente": "Art. 13.1 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -12803,11 +17613,11 @@ const QUESTIONS = {
   {
     "q": "Conforme al artículo 13 de la LPRL, la Comisión Nacional de Seguridad y Salud en el Trabajo está integrada por:",
     "options": [
-      "Dos representantes de cada Comunidad Autónoma y otros tantos de las organizaciones sindicales más representativas.",
       "Un representante de cada una de las Comunidades Autónomas, igual número de miembros de la Administración General del Estado y, paritariamente con todos los anteriores, representantes de las organizaciones empresariales y sindicales más representativas.",
+      "Dos representantes de cada Comunidad Autónoma y otros tantos de las organizaciones sindicales más representativas.",
       "Un representante de cada Comunidad Autónoma, uno de la Administración local y uno de la Administración General del Estado por cada uno de ellos."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "Composición del art. 13.2 LPRL: un representante por Comunidad Autónoma, igual número de miembros de la Administración General del Estado y, paritariamente con todos ellos, representantes de las organizaciones empresariales y sindicales más representativas.",
     "fuente": "Art. 13.2 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -12816,10 +17626,10 @@ const QUESTIONS = {
     "q": "Respecto de la adopción de acuerdos por la Comisión Nacional de Seguridad y Salud en el Trabajo, el artículo 13 de la LPRL establece que:",
     "options": [
       "Todos los miembros disponen de un voto y los acuerdos se adoptan por mayoría de dos tercios.",
-      "Los acuerdos requieren el voto favorable de la mayoría de cada uno de los cuatro grupos que la integran.",
-      "Los acuerdos se adoptan por mayoría, teniendo los representantes de las Administraciones públicas cada uno un voto y dos los de las organizaciones empresariales y sindicales."
+      "Los acuerdos se adoptan por mayoría, teniendo los representantes de las Administraciones públicas cada uno un voto y dos los de las organizaciones empresariales y sindicales.",
+      "Los acuerdos requieren el voto favorable de la mayoría de cada uno de los cuatro grupos que la integran."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "Regla del art. 13.4 LPRL: acuerdos por mayoría, con un voto para cada representante de las Administraciones públicas y dos votos para los de las organizaciones empresariales y sindicales.",
     "fuente": "Art. 13.4 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -12827,11 +17637,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 13 de la LPRL, la Presidencia de la Comisión Nacional de Seguridad y Salud en el Trabajo corresponde:",
     "options": [
-      "Al Secretario general de Empleo y Relaciones Laborales.",
       "Al Director del Instituto Nacional de Seguridad e Higiene en el Trabajo.",
-      "Al Subsecretario de Sanidad y Consumo."
+      "Al Subsecretario de Sanidad y Consumo.",
+      "Al Secretario general de Empleo y Relaciones Laborales."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 13.5 LPRL atribuye la Presidencia al Secretario general de Empleo y Relaciones Laborales; el Subsecretario de Sanidad y Consumo ocupa la Vicepresidencia correspondiente a la Administración General del Estado.",
     "fuente": "Art. 13.5 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -12851,11 +17661,11 @@ const QUESTIONS = {
   {
     "q": "De acuerdo con el artículo 13 de la LPRL, la Comisión Nacional de Seguridad y Salud en el Trabajo funcionará:",
     "options": [
-      "En Pleno, en Comisión Permanente o en Grupos de Trabajo.",
       "Únicamente en Pleno y en Comisión Permanente.",
+      "En Pleno, en Comisión Permanente o en Grupos de Trabajo.",
       "En Pleno, en Comisión Ejecutiva y en Ponencias técnicas sectoriales."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 13.7 LPRL prevé el funcionamiento en Pleno, en Comisión Permanente o en Grupos de Trabajo, conforme a la normativa que establezca su Reglamento interno.",
     "fuente": "Art. 13.7 LPRL (Ley 31/1995)",
     "confianza": "alta"
@@ -12888,10 +17698,10 @@ const QUESTIONS = {
     "q": "Según el Reglamento de los Servicios de Prevención, el Plan de prevención de riesgos laborales:",
     "options": [
       "Debe ser aprobado por el Comité de Seguridad y Salud y ratificado por la autoridad laboral competente.",
-      "Debe ser elaborado y aprobado por el servicio de prevención ajeno con el que la empresa concierte la actividad preventiva.",
-      "Debe ser aprobado por la dirección de la empresa, asumido por toda su estructura organizativa y conocido por todos sus trabajadores."
+      "Debe ser aprobado por la dirección de la empresa, asumido por toda su estructura organizativa y conocido por todos sus trabajadores.",
+      "Debe ser elaborado y aprobado por el servicio de prevención ajeno con el que la empresa concierte la actividad preventiva."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 2.1, párrafo segundo, RD 39/1997 establece que el Plan de prevención debe ser aprobado por la dirección de la empresa, asumido por toda su estructura organizativa, en particular por todos sus niveles jerárquicos, y conocido por todos sus trabajadores.",
     "fuente": "Art. 2.1 RD 39/1997 (Reglamento de los Servicios de Prevención)",
     "confianza": "alta"
@@ -12899,11 +17709,11 @@ const QUESTIONS = {
   {
     "q": "El Reglamento de los Servicios de Prevención permite reflejar en un único documento el plan de prevención, la evaluación de riesgos y la planificación de la actividad preventiva a:",
     "options": [
-      "Las empresas de hasta 50 trabajadores que no desarrollen actividades del anexo I.",
       "Todas las empresas de hasta 100 trabajadores, cualquiera que sea su actividad.",
-      "Únicamente a las empresas en que el empresario haya asumido personalmente la actividad preventiva."
+      "Únicamente a las empresas en que el empresario haya asumido personalmente la actividad preventiva.",
+      "Las empresas de hasta 50 trabajadores que no desarrollen actividades del anexo I."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 2.4 RD 39/1997 (añadido por el RD 337/2010) permite a las empresas de hasta 50 trabajadores que no desarrollen actividades del anexo I reflejar en un único documento, de extensión reducida y fácil comprensión, el plan de prevención, la evaluación de riesgos y la planificación de la actividad preventiva.",
     "fuente": "Art. 2.4 RD 39/1997 (Reglamento de los Servicios de Prevención)",
     "confianza": "alta"
@@ -12911,11 +17721,11 @@ const QUESTIONS = {
   {
     "q": "De acuerdo con el artículo 3 del Reglamento de los Servicios de Prevención, la evaluación de los riesgos laborales se define como el proceso dirigido a:",
     "options": [
-      "Investigar las causas de los accidentes de trabajo ya producidos en la empresa y depurar responsabilidades.",
       "Estimar la magnitud de aquellos riesgos que no hayan podido evitarse, obteniendo la información necesaria para que el empresario esté en condiciones de tomar una decisión apropiada sobre la necesidad de adoptar medidas preventivas.",
+      "Investigar las causas de los accidentes de trabajo ya producidos en la empresa y depurar responsabilidades.",
       "Comprobar el estado de salud de los trabajadores expuestos a riesgos de naturaleza higiénica."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 3.1 RD 39/1997 define la evaluación de riesgos como el proceso dirigido a estimar la magnitud de aquellos riesgos que no hayan podido evitarse, obteniendo la información necesaria para que el empresario esté en condiciones de tomar una decisión apropiada sobre la necesidad de adoptar medidas preventivas y, en tal caso, sobre el tipo de medidas que deben adoptarse.",
     "fuente": "Art. 3.1 RD 39/1997 (Reglamento de los Servicios de Prevención)",
     "confianza": "alta"
@@ -12924,10 +17734,10 @@ const QUESTIONS = {
     "q": "Según el artículo 3 del Reglamento de los Servicios de Prevención, sobre el procedimiento de evaluación a utilizar en la empresa o centro de trabajo el empresario deberá:",
     "options": [
       "Solicitar autorización previa a la Inspección de Trabajo y Seguridad Social.",
-      "Someterlo a la aprobación de la administración sanitaria competente.",
-      "Consultar a los representantes de los trabajadores, o a los propios trabajadores en ausencia de representantes."
+      "Consultar a los representantes de los trabajadores, o a los propios trabajadores en ausencia de representantes.",
+      "Someterlo a la aprobación de la administración sanitaria competente."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 3.2 RD 39/1997, de acuerdo con el art. 33 LPRL, obliga al empresario a consultar a los representantes de los trabajadores, o a los propios trabajadores en ausencia de representantes, acerca del procedimiento de evaluación a utilizar en la empresa o centro de trabajo.",
     "fuente": "Art. 3.2 RD 39/1997 (Reglamento de los Servicios de Prevención)",
     "confianza": "alta"
@@ -12935,11 +17745,11 @@ const QUESTIONS = {
   {
     "q": "A partir de la evaluación inicial, el artículo 4 del Reglamento de los Servicios de Prevención obliga a volver a evaluar los puestos de trabajo que puedan verse afectados por:",
     "options": [
-      "La elección de equipos de trabajo, sustancias o preparados químicos, la introducción de nuevas tecnologías o la modificación en el acondicionamiento de los lugares de trabajo.",
       "El cambio de titularidad de la empresa o la modificación de su denominación social.",
-      "La renovación anual del concierto suscrito con el servicio de prevención ajeno."
+      "La renovación anual del concierto suscrito con el servicio de prevención ajeno.",
+      "La elección de equipos de trabajo, sustancias o preparados químicos, la introducción de nuevas tecnologías o la modificación en el acondicionamiento de los lugares de trabajo."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 4.2.a) RD 39/1997 obliga a volver a evaluar los puestos afectados por la elección de equipos de trabajo, sustancias o preparados químicos, la introducción de nuevas tecnologías o la modificación en el acondicionamiento de los lugares de trabajo; también por el cambio en las condiciones de trabajo y por la incorporación de un trabajador especialmente sensible.",
     "fuente": "Art. 4.2.a) RD 39/1997 (Reglamento de los Servicios de Prevención)",
     "confianza": "alta"
@@ -12947,11 +17757,11 @@ const QUESTIONS = {
   {
     "q": "Cuando la evaluación exija mediciones, análisis o ensayos y la normativa no concrete los métodos que deben emplearse, el Reglamento de los Servicios de Prevención permite utilizar, si existen, los métodos o criterios recogidos en:",
     "options": [
+      "Normas UNE; guías del Instituto Nacional de Seguridad e Higiene en el Trabajo y del Instituto Nacional de Silicosis; y normas internacionales.",
       "Exclusivamente las normas UNE aprobadas por la asociación española de normalización.",
-      "Únicamente los protocolos aprobados por la Comisión Nacional de Seguridad y Salud en el Trabajo.",
-      "Normas UNE; guías del Instituto Nacional de Seguridad e Higiene en el Trabajo y del Instituto Nacional de Silicosis; y normas internacionales."
+      "Únicamente los protocolos aprobados por la Comisión Nacional de Seguridad y Salud en el Trabajo."
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 5.3 RD 39/1997 enumera, por este orden, las normas UNE; las guías del INSHT, del Instituto Nacional de Silicosis y los protocolos y guías del Ministerio de Sanidad y Consumo y de las instituciones competentes de las Comunidades Autónomas; las normas internacionales; y, en ausencia de los anteriores, guías de otras entidades de reconocido prestigio.",
     "fuente": "Art. 5.3 RD 39/1997 (Reglamento de los Servicios de Prevención)",
     "confianza": "alta"
@@ -12959,11 +17769,11 @@ const QUESTIONS = {
   {
     "q": "Al margen de los supuestos de revisión obligatoria, ¿con qué periodicidad debe revisarse la evaluación inicial de riesgos según el Reglamento de los Servicios de Prevención?",
     "options": [
-      "Con la periodicidad que se acuerde entre la empresa y los representantes de los trabajadores.",
       "Cada tres años en todo caso, y cada año en las actividades del anexo I.",
+      "Con la periodicidad que se acuerde entre la empresa y los representantes de los trabajadores.",
       "Anualmente, coincidiendo con la elaboración de la memoria del servicio de prevención."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 6.2 RD 39/1997 dispone que la evaluación inicial deberá revisarse con la periodicidad que se acuerde entre la empresa y los representantes de los trabajadores, teniendo en cuenta en particular el deterioro por el transcurso del tiempo de los elementos que integran el proceso productivo.",
     "fuente": "Art. 6.2 RD 39/1997 (Reglamento de los Servicios de Prevención)",
     "confianza": "alta"
@@ -12972,10 +17782,10 @@ const QUESTIONS = {
     "q": "Según el artículo 7 del Reglamento de los Servicios de Prevención, en la documentación de la evaluación debe reflejarse, para cada puesto de trabajo cuya evaluación ponga de manifiesto la necesidad de tomar alguna medida preventiva:",
     "options": [
       "El coste económico estimado de cada medida preventiva y su imputación presupuestaria.",
-      "El riesgo o riesgos existentes y la relación de trabajadores afectados.",
-      "La identidad del Delegado de Prevención que haya participado en la evaluación."
+      "La identidad del Delegado de Prevención que haya participado en la evaluación.",
+      "El riesgo o riesgos existentes y la relación de trabajadores afectados."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 7.b) RD 39/1997 exige reflejar el riesgo o riesgos existentes y la relación de trabajadores afectados, junto con la identificación del puesto, el resultado de la evaluación y las medidas preventivas procedentes, y la referencia de los criterios, procedimientos y métodos utilizados.",
     "fuente": "Art. 7.b) RD 39/1997 (Reglamento de los Servicios de Prevención)",
     "confianza": "alta"
@@ -12983,11 +17793,11 @@ const QUESTIONS = {
   {
     "q": "Cuando el resultado de la evaluación ponga de manifiesto situaciones de riesgo, el empresario planificará la actividad preventiva conforme a un orden de prioridades establecido en función de:",
     "options": [
+      "La magnitud de los riesgos y el número de trabajadores expuestos a los mismos.",
       "El coste de las medidas correctoras y la disponibilidad presupuestaria de la empresa.",
-      "La antigüedad de los trabajadores afectados en sus respectivos puestos de trabajo.",
-      "La magnitud de los riesgos y el número de trabajadores expuestos a los mismos."
+      "La antigüedad de los trabajadores afectados en sus respectivos puestos de trabajo."
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 8 RD 39/1997 establece que el empresario planificará la actividad preventiva conforme a un orden de prioridades en función de la magnitud de los riesgos y del número de trabajadores expuestos a los mismos.",
     "fuente": "Art. 8 RD 39/1997 (Reglamento de los Servicios de Prevención)",
     "confianza": "alta"
@@ -12995,11 +17805,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 9 del Reglamento de los Servicios de Prevención, si el período en que se desarrolle la actividad preventiva planificada es superior a un año:",
     "options": [
-      "Deberá establecerse un programa anual de actividades.",
       "Deberá someterse la planificación a auditoría externa con carácter previo.",
+      "Deberá establecerse un programa anual de actividades.",
       "Deberá comunicarse la planificación a la autoridad laboral antes de su ejecución."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 9.3 RD 39/1997 exige planificar la actividad preventiva para un período determinado y, cuando ese período sea superior a un año, establecer un programa anual de actividades.",
     "fuente": "Art. 9.3 RD 39/1997 (Reglamento de los Servicios de Prevención)",
     "confianza": "alta"
@@ -13008,10 +17818,10 @@ const QUESTIONS = {
     "q": "El Reglamento de los Servicios de Prevención señala que los servicios de prevención tendrán carácter interdisciplinario, entendiendo como tal:",
     "options": [
       "La participación conjunta de la empresa y de los representantes de los trabajadores en la actividad preventiva.",
-      "La conjunción coordinada de dos o más disciplinas técnicas o científicas en materia de prevención de riesgos laborales.",
-      "La actuación simultánea de un servicio de prevención propio y de uno ajeno en la misma empresa."
+      "La actuación simultánea de un servicio de prevención propio y de uno ajeno en la misma empresa.",
+      "La conjunción coordinada de dos o más disciplinas técnicas o científicas en materia de prevención de riesgos laborales."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 10.3 RD 39/1997 define el carácter interdisciplinario de los servicios de prevención como la conjunción coordinada de dos o más disciplinas técnicas o científicas en materia de prevención de riesgos laborales.",
     "fuente": "Art. 10.3 RD 39/1997 (Reglamento de los Servicios de Prevención)",
     "confianza": "alta"
@@ -13019,11 +17829,11 @@ const QUESTIONS = {
   {
     "q": "Además de los requisitos de plantilla y de actividad, ¿qué otra circunstancia exige el artículo 11 del Reglamento de los Servicios de Prevención para que el empresario pueda asumir personalmente la actividad preventiva?",
     "options": [
+      "Que desarrolle de forma habitual su actividad profesional en el centro de trabajo.",
       "Que la empresa no tenga constituido comité de seguridad y salud.",
-      "Que haya obtenido autorización previa de la autoridad laboral competente.",
-      "Que desarrolle de forma habitual su actividad profesional en el centro de trabajo."
+      "Que haya obtenido autorización previa de la autoridad laboral competente."
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 11.1.c) RD 39/1997 exige que el empresario desarrolle de forma habitual su actividad profesional en el centro de trabajo; la letra d) añade que tenga la capacidad correspondiente a las funciones preventivas que va a desarrollar, de acuerdo con el capítulo VI.",
     "fuente": "Art. 11.1.c) RD 39/1997 (Reglamento de los Servicios de Prevención)",
     "confianza": "alta"
@@ -13031,11 +17841,11 @@ const QUESTIONS = {
   {
     "q": "Cuando el empresario asume personalmente la actividad preventiva, la vigilancia de la salud de los trabajadores:",
     "options": [
-      "Queda excluida de esa asunción personal y deberá cubrirse mediante alguna de las restantes modalidades de organización preventiva.",
       "Podrá ser asumida por el propio empresario si acredita la formación de nivel básico.",
+      "Queda excluida de esa asunción personal y deberá cubrirse mediante alguna de las restantes modalidades de organización preventiva.",
       "Solo será exigible si así lo acuerda el Comité de Seguridad y Salud de la empresa."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 11.1 RD 39/1997 excluye expresamente de la asunción personal las actividades relativas a la vigilancia de la salud, y el art. 11.2 dispone que esta, así como las demás actividades preventivas no asumidas personalmente, deberán cubrirse mediante alguna de las restantes modalidades de organización preventiva previstas en el capítulo III.",
     "fuente": "Art. 11.2 RD 39/1997 (Reglamento de los Servicios de Prevención)",
     "confianza": "alta"
@@ -13055,11 +17865,11 @@ const QUESTIONS = {
   {
     "q": "Cuando la autoridad laboral decida que una empresa debe constituir un servicio de prevención propio en atención a la peligrosidad de su actividad o a su siniestralidad, la resolución fijará un plazo para su constitución que:",
     "options": [
-      "No podrá ser inferior a dos años desde la notificación de la resolución.",
       "No será superior a un año.",
+      "No podrá ser inferior a dos años desde la notificación de la resolución.",
       "Será de seis meses, prorrogable por otros seis a instancia de la empresa."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 14, párrafo final, RD 39/1997 dispone que, teniendo en cuenta las circunstancias existentes, la resolución de la autoridad laboral fijará un plazo no superior a un año para que, en caso de optarse por un servicio de prevención propio, la empresa lo constituya.",
     "fuente": "Art. 14, párrafo final, RD 39/1997 (Reglamento de los Servicios de Prevención)",
     "confianza": "alta"
@@ -13067,11 +17877,11 @@ const QUESTIONS = {
   {
     "q": "Respecto de la organización de los servicios de prevención propios, el Reglamento de los Servicios de Prevención establece que:",
     "options": [
-      "Constituirán una unidad organizativa específica y sus integrantes dedicarán de forma exclusiva su actividad en la empresa a la finalidad del mismo.",
       "Podrán integrarse en el departamento de recursos humanos, compatibilizando sus integrantes las tareas preventivas con otras funciones.",
+      "Constituirán una unidad organizativa específica y sus integrantes dedicarán de forma exclusiva su actividad en la empresa a la finalidad del mismo.",
       "Deberán estar dirigidos necesariamente por un médico especialista en medicina del trabajo."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 15.1 RD 39/1997 exige que el servicio de prevención propio constituya una unidad organizativa específica y que sus integrantes dediquen de forma exclusiva su actividad en la empresa a la finalidad del mismo.",
     "fuente": "Art. 15.1 RD 39/1997 (Reglamento de los Servicios de Prevención)",
     "confianza": "alta"
@@ -13091,11 +17901,11 @@ const QUESTIONS = {
   {
     "q": "La memoria y programación anual del servicio de prevención propio, según el Reglamento de los Servicios de Prevención:",
     "options": [
-      "Se remitirá cada año a la Inspección de Trabajo y Seguridad Social para su aprobación.",
       "Se elaborará anualmente por la empresa y se mantendrá a disposición de las autoridades laborales y sanitarias competentes y del comité de seguridad y salud.",
+      "Se remitirá cada año a la Inspección de Trabajo y Seguridad Social para su aprobación.",
       "Se elaborará cada dos años y bastará con conservarla en el archivo del servicio de prevención."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 15.5 RD 39/1997 obliga a la empresa a elaborar anualmente y mantener a disposición de las autoridades laborales y sanitarias competentes y del comité de seguridad y salud la memoria y programación anual del servicio de prevención a que se refiere el art. 39.2.d) LPRL.",
     "fuente": "Art. 15.5 RD 39/1997 (Reglamento de los Servicios de Prevención)",
     "confianza": "alta"
@@ -13104,10 +17914,10 @@ const QUESTIONS = {
     "q": "Antes de adoptar la decisión de concertar la actividad preventiva con uno o varios servicios de prevención ajenos, el empresario debe:",
     "options": [
       "Comunicarlo a la autoridad laboral con una antelación mínima de quince días.",
-      "Obtener el acuerdo mayoritario de la plantilla en votación secreta.",
-      "Consultar a los representantes de los trabajadores con carácter previo."
+      "Consultar a los representantes de los trabajadores con carácter previo.",
+      "Obtener el acuerdo mayoritario de la plantilla en votación secreta."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 16.2 RD 39/1997, de conformidad con el art. 33.1 LPRL, exige que los representantes de los trabajadores sean consultados por el empresario con carácter previo a la adopción de la decisión de concertar la actividad preventiva con uno o varios servicios de prevención ajenos; además, los criterios de selección y las características técnicas del concierto se debatirán en el seno del Comité de Seguridad y Salud.",
     "fuente": "Art. 16.2 RD 39/1997 (Reglamento de los Servicios de Prevención)",
     "confianza": "alta"
@@ -13116,10 +17926,10 @@ const QUESTIONS = {
     "q": "Las entidades especializadas acreditadas como servicios de prevención ajenos deben contar, en todo caso, con:",
     "options": [
       "Al menos dos de las cuatro especialidades preventivas, a elección de la entidad.",
-      "Las especialidades de medicina del trabajo, seguridad en el trabajo, higiene industrial, y ergonomía y psicosociología aplicada.",
-      "Las especialidades de seguridad en el trabajo e higiene industrial, siendo optativas las restantes."
+      "Las especialidades de seguridad en el trabajo e higiene industrial, siendo optativas las restantes.",
+      "Las especialidades de medicina del trabajo, seguridad en el trabajo, higiene industrial, y ergonomía y psicosociología aplicada."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 18.2.a) RD 39/1997 exige que las entidades especializadas acreditadas como servicios de prevención ajenos cuenten con las cuatro especialidades o disciplinas preventivas: medicina del trabajo, seguridad en el trabajo, higiene industrial, y ergonomía y psicosociología aplicada.",
     "fuente": "Art. 18.2.a) RD 39/1997 (Reglamento de los Servicios de Prevención)",
     "confianza": "alta"
@@ -13127,11 +17937,11 @@ const QUESTIONS = {
   {
     "q": "Según el artículo 21 del Reglamento de los Servicios de Prevención, las empresas que tengan obligación legal de disponer de un servicio de prevención propio:",
     "options": [
-      "Pueden integrarse en cualquier servicio de prevención mancomunado si lo autoriza la autoridad laboral.",
       "No podrán formar parte de servicios de prevención mancomunados constituidos para las empresas de un determinado sector, aunque sí de los constituidos para empresas del mismo grupo.",
+      "Pueden integrarse en cualquier servicio de prevención mancomunado si lo autoriza la autoridad laboral.",
       "Quedan excluidas en todo caso de cualquier servicio de prevención mancomunado."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 21.1, párrafo tercero, RD 39/1997 dispone que las empresas obligadas legalmente a disponer de servicio de prevención propio no podrán formar parte de servicios mancomunados constituidos para las empresas de un determinado sector, aunque sí de los constituidos para empresas del mismo grupo.",
     "fuente": "Art. 21.1 RD 39/1997 (Reglamento de los Servicios de Prevención)",
     "confianza": "alta"
@@ -13140,10 +17950,10 @@ const QUESTIONS = {
     "q": "Los servicios de prevención mancomunados, tengan o no personalidad jurídica diferenciada:",
     "options": [
       "Tienen la consideración de servicios de prevención ajenos y deben ser acreditados como tales.",
-      "Tienen la consideración de servicios propios y habrán de contar con, al menos, dos especialidades preventivas.",
-      "Tienen la consideración de servicios propios de las empresas que los constituyan y habrán de contar con, al menos, tres especialidades o disciplinas preventivas."
+      "Tienen la consideración de servicios propios de las empresas que los constituyan y habrán de contar con, al menos, tres especialidades o disciplinas preventivas.",
+      "Tienen la consideración de servicios propios y habrán de contar con, al menos, dos especialidades preventivas."
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "El art. 21.3 RD 39/1997 establece que los servicios mancomunados, tengan o no personalidad jurídica diferenciada, tendrán la consideración de servicios propios de las empresas que los constituyan y habrán de contar con, al menos, tres especialidades o disciplinas preventivas.",
     "fuente": "Art. 21.3 RD 39/1997 (Reglamento de los Servicios de Prevención)",
     "confianza": "alta"
@@ -13151,11 +17961,11 @@ const QUESTIONS = {
   {
     "q": "A efectos de la presencia de recursos preventivos, el Reglamento de los Servicios de Prevención entiende por «espacio confinado»:",
     "options": [
-      "El recinto con aberturas limitadas de entrada y salida y ventilación natural desfavorable, en el que pueden acumularse contaminantes tóxicos o inflamables o puede haber una atmósfera deficiente en oxígeno, y que no está concebido para su ocupación continuada por los trabajadores.",
       "Todo local de trabajo cuya superficie libre por trabajador sea inferior a dos metros cuadrados.",
-      "Cualquier recinto subterráneo en el que se realicen trabajos de excavación o movimiento de tierras."
+      "Cualquier recinto subterráneo en el que se realicen trabajos de excavación o movimiento de tierras.",
+      "El recinto con aberturas limitadas de entrada y salida y ventilación natural desfavorable, en el que pueden acumularse contaminantes tóxicos o inflamables o puede haber una atmósfera deficiente en oxígeno, y que no está concebido para su ocupación continuada por los trabajadores."
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El art. 22 bis.1.b).4.º RD 39/1997 define el espacio confinado como el recinto con aberturas limitadas de entrada y salida y ventilación natural desfavorable, en el que pueden acumularse contaminantes tóxicos o inflamables o puede haber una atmósfera deficiente en oxígeno, y que no está concebido para su ocupación continuada por los trabajadores.",
     "fuente": "Art. 22 bis.1.b).4.º RD 39/1997 (Reglamento de los Servicios de Prevención)",
     "confianza": "alta"
@@ -13163,11 +17973,11 @@ const QUESTIONS = {
   {
     "q": "En la solicitud de acreditación como servicio de prevención ajeno debe constar el compromiso de tener suscrita una póliza de seguro o garantía financiera equivalente que cubra su responsabilidad por una cuantía mínima de:",
     "options": [
-      "900.000 euros.",
       "1.841.000 euros.",
+      "900.000 euros.",
       "3.000.000 de euros."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "El art. 23.f) RD 39/1997, en la redacción dada por el RD 899/2015, fija en 1.841.000 euros la cuantía mínima de la póliza o garantía financiera equivalente, sin que dicha cuantía constituya el límite de la responsabilidad del servicio.",
     "fuente": "Art. 23.f) RD 39/1997 (Reglamento de los Servicios de Prevención)",
     "confianza": "alta"
@@ -13175,11 +17985,11 @@ const QUESTIONS = {
   {
     "q": "¿En qué plazo debe dictarse y notificarse la resolución sobre la solicitud de acreditación de una entidad especializada como servicio de prevención ajeno?",
     "options": [
-      "En el plazo de tres meses, ampliable a seis meses cuando deba recabarse informe preceptivo de otras comunidades autónomas.",
       "En el plazo de un mes, improrrogable.",
+      "En el plazo de tres meses, ampliable a seis meses cuando deba recabarse informe preceptivo de otras comunidades autónomas.",
       "En el plazo de seis meses, sin posibilidad de ampliación."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 25.5 RD 39/1997 fija un plazo de tres meses desde la entrada de la solicitud en el registro del órgano competente, ampliable a seis meses en el supuesto del apartado 3 (informe preceptivo de las comunidades autónomas donde radiquen instalaciones). Transcurrido el plazo sin resolución expresa, la solicitud podrá entenderse desestimada.",
     "fuente": "Art. 25.5 RD 39/1997 (Reglamento de los Servicios de Prevención)",
     "confianza": "alta"
@@ -13188,10 +17998,10 @@ const QUESTIONS = {
     "q": "Las entidades especializadas acreditadas deben comunicar a la autoridad laboral competente cualquier variación que pudiera afectar a sus requisitos de funcionamiento en un plazo máximo de:",
     "options": [
       "Un mes.",
-      "Diez días.",
-      "Veinticuatro horas."
+      "Veinticuatro horas.",
+      "Diez días."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 26.1, párrafo segundo, RD 39/1997 obliga a las entidades especializadas a comunicar a la autoridad laboral competente, a través de los correspondientes registros, cualquier variación que pudiera afectar a los requisitos de funcionamiento, en un plazo máximo de diez días.",
     "fuente": "Art. 26.1 RD 39/1997 (Reglamento de los Servicios de Prevención)",
     "confianza": "alta"
@@ -13199,11 +18009,11 @@ const QUESTIONS = {
   {
     "q": "Los órganos que gestionan el registro de entidades especializadas acreditadas deben enviar copia de todo asiento practicado en sus registros a la Dirección General de Empleo en el plazo de:",
     "options": [
+      "Ocho días hábiles.",
       "Un mes.",
-      "Quince días naturales.",
-      "Ocho días hábiles."
+      "Quince días naturales."
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El art. 28.4 RD 39/1997 establece que los órganos a que se refiere el apartado 1 enviarán a la Dirección General de Empleo, en el plazo de ocho días hábiles, copia de todo asiento practicado en sus respectivos registros.",
     "fuente": "Art. 28.4 RD 39/1997 (Reglamento de los Servicios de Prevención)",
     "confianza": "alta"
@@ -13211,11 +18021,11 @@ const QUESTIONS = {
   {
     "q": "Se considera cumplida la obligación de someterse a auditoría, mediante la remisión a la autoridad laboral de la notificación del anexo II, en el caso de:",
     "options": [
-      "Las empresas de hasta 50 trabajadores cuyas actividades no estén incluidas en el anexo I que desarrollen las actividades preventivas con recursos propios y en las que la eficacia del sistema preventivo resulte evidente.",
       "Todas las empresas de hasta 250 trabajadores que hayan designado trabajadores para la actividad preventiva.",
+      "Las empresas de hasta 50 trabajadores cuyas actividades no estén incluidas en el anexo I que desarrollen las actividades preventivas con recursos propios y en las que la eficacia del sistema preventivo resulte evidente.",
       "Las empresas que hayan concertado la totalidad de la actividad preventiva con un servicio de prevención ajeno."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 29.3 RD 39/1997 (redacción del RD 337/2010) permite a las empresas de hasta 50 trabajadores cuyas actividades no estén incluidas en el anexo I, que desarrollen las actividades preventivas con recursos propios y en las que la eficacia del sistema preventivo resulte evidente, cumplir la obligación de auditoría remitiendo a la autoridad laboral la notificación según el modelo del anexo II.",
     "fuente": "Art. 29.3 RD 39/1997 (Reglamento de los Servicios de Prevención)",
     "confianza": "alta"
@@ -13224,10 +18034,10 @@ const QUESTIONS = {
     "q": "El Reglamento de los Servicios de Prevención define la auditoría como un instrumento de gestión que persigue:",
     "options": [
       "Certificar el cumplimiento de las normas UNE de gestión de la prevención por parte de la empresa.",
-      "Reflejar la imagen fiel del sistema de prevención de riesgos laborales de la empresa, valorando su eficacia y detectando las deficiencias que puedan dar lugar a incumplimientos de la normativa vigente.",
-      "Determinar las responsabilidades administrativas y penales derivadas de los accidentes de trabajo ocurridos."
+      "Determinar las responsabilidades administrativas y penales derivadas de los accidentes de trabajo ocurridos.",
+      "Reflejar la imagen fiel del sistema de prevención de riesgos laborales de la empresa, valorando su eficacia y detectando las deficiencias que puedan dar lugar a incumplimientos de la normativa vigente."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 30.1 RD 39/1997 define la auditoría como un instrumento de gestión que persigue reflejar la imagen fiel del sistema de prevención de riesgos laborales de la empresa, valorando su eficacia y detectando las deficiencias que puedan dar lugar a incumplimientos de la normativa vigente, para permitir la adopción de decisiones dirigidas a su perfeccionamiento y mejora.",
     "fuente": "Art. 30.1 RD 39/1997 (Reglamento de los Servicios de Prevención)",
     "confianza": "alta"
@@ -13307,11 +18117,11 @@ const QUESTIONS = {
   {
     "q": "¿Cuál de las siguientes actividades figura expresamente en el anexo I del Reglamento de los Servicios de Prevención?",
     "options": [
+      "Los trabajos con riesgos eléctricos en alta tensión.",
       "Los trabajos administrativos con pantallas de visualización de datos durante más de cuatro horas diarias.",
-      "La manipulación manual de cargas de peso superior a 25 kilogramos.",
-      "Los trabajos con riesgos eléctricos en alta tensión."
+      "La manipulación manual de cargas de peso superior a 25 kilogramos."
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "El anexo I RD 39/1997 incluye en su letra l) los trabajos con riesgos eléctricos en alta tensión. Ni los trabajos con pantallas de visualización ni la manipulación manual de cargas figuran en dicho anexo.",
     "fuente": "Anexo I, letra l) RD 39/1997 (Reglamento de los Servicios de Prevención)",
     "confianza": "alta"
@@ -13319,11 +18129,11 @@ const QUESTIONS = {
   {
     "q": "El programa formativo de nivel superior previsto en el anexo VI del Reglamento de los Servicios de Prevención consta de tres partes con las siguientes duraciones mínimas:",
     "options": [
-      "Parte común obligatoria de 350 horas, especialización optativa de 100 horas y trabajo final o actividades preventivas en un centro de trabajo equivalentes a 150 horas.",
       "Parte común obligatoria de 300 horas, especialización optativa de 200 horas y trabajo final de 100 horas.",
+      "Parte común obligatoria de 350 horas, especialización optativa de 100 horas y trabajo final o actividades preventivas en un centro de trabajo equivalentes a 150 horas.",
       "Parte común obligatoria de 400 horas, especialización optativa de 150 horas y trabajo final de 50 horas."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El anexo VI RD 39/1997 estructura el programa de nivel superior en una parte obligatoria y común con un mínimo de 350 horas lectivas, una especialización optativa (seguridad en el trabajo, higiene industrial o ergonomía y psicosociología aplicada) de 100 horas mínimo cada una, y la realización de un trabajo final o de actividades preventivas en un centro de trabajo con una duración mínima equivalente a 150 horas.",
     "fuente": "Anexo VI RD 39/1997 (Reglamento de los Servicios de Prevención)",
     "confianza": "alta"
@@ -13332,10 +18142,10 @@ const QUESTIONS = {
     "q": "Según la disposición adicional cuarta del Reglamento de los Servicios de Prevención, en el ámbito de las Administraciones públicas:",
     "options": [
       "Las obligaciones en materia de auditorías del capítulo V se aplican con carácter básico y sin excepción alguna.",
-      "No serán de aplicación las obligaciones en materia de auditorías contenidas en el capítulo V del Reglamento.",
-      "Las auditorías deberán realizarse cada dos años por la Inspección de Trabajo y Seguridad Social."
+      "Las auditorías deberán realizarse cada dos años por la Inspección de Trabajo y Seguridad Social.",
+      "No serán de aplicación las obligaciones en materia de auditorías contenidas en el capítulo V del Reglamento."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "La disposición adicional cuarta, apartado 2, del RD 39/1997 establece que no serán de aplicación a las Administraciones públicas las obligaciones en materia de auditorías contenidas en el capítulo V del Reglamento, debiendo la normativa específica establecer los adecuados instrumentos de control.",
     "fuente": "Disposición adicional cuarta, apartado 2, RD 39/1997 (Reglamento de los Servicios de Prevención)",
     "confianza": "alta"
@@ -13357,12 +18167,11 @@ const QUESTIONS = {
   {
     "q": "La legítima defensa está regulada, como causa que exime de responsabilidad criminal, en el:",
     "options": [
-      "Art. 21 CP",
       "Art. 22 CP",
       "Art. 20 CP",
       "Art. 23 CP"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "Art. 20.4 CP recoge la legítima defensa entre las causas que eximen de responsabilidad criminal, dentro del Capítulo II del Título I del Libro I."
   }
 ],
@@ -13370,12 +18179,11 @@ const QUESTIONS = {
   {
     "q": "El delito de omisión del deber de socorro se recoge en el:",
     "options": [
-      "Art. 195 CP",
       "Art. 172 CP",
-      "Art. 550 CP",
-      "Art. 263 CP"
+      "Art. 263 CP",
+      "Art. 195 CP"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "Art. 195 CP: no socorrer a una persona desamparada y en peligro manifiesto y grave, pudiendo hacerlo sin riesgo propio ni de tercero. Se ubica en el Libro II, Título IX."
   }
 ],
@@ -13383,12 +18191,11 @@ const QUESTIONS = {
   {
     "q": "La diferencia esencial entre hurto y robo está en:",
     "options": [
-      "El valor de lo sustraído",
+      "El empleo de fuerza en las cosas o de violencia o intimidación en las personas",
       "El lugar de comisión",
-      "La condición del autor",
-      "El empleo de fuerza en las cosas o de violencia o intimidación en las personas"
+      "La condición del autor"
     ],
-    "correct": 3,
+    "correct": 0,
     "exp": "El robo exige fuerza en las cosas para acceder o abandonar el lugar, o violencia o intimidación en las personas (arts. 237 y ss. CP, Libro II, Título XIII)."
   }
 ],
@@ -13396,9 +18203,8 @@ const QUESTIONS = {
   {
     "q": "Conducir un vehículo de motor con una tasa de alcohol en aire espirado superior a ______ constituye delito del art. 379.2 del Código Penal.",
     "options": [
-      "0,25 mg/l",
-      "0,60 mg/l",
       "0,50 mg/l",
+      "0,60 mg/l",
       "0,15 mg/l"
     ],
     "correct": 1,
@@ -13407,10 +18213,9 @@ const QUESTIONS = {
   {
     "q": "Según el art. 379.1 CP, conducir a velocidad superior en ______ km/h a la permitida en vía urbana es delito.",
     "options": [
-      "40 km/h",
       "50 km/h",
-      "60 km/h",
-      "80 km/h"
+      "80 km/h",
+      "60 km/h"
     ],
     "correct": 2,
     "exp": "Art. 379.1 CP: 60 km/h en vía urbana y 80 km/h en vía interurbana por encima del límite permitido."
@@ -13420,12 +18225,11 @@ const QUESTIONS = {
   {
     "q": "Agredir o intimidar gravemente a un agente de la autoridad en el ejercicio de sus funciones constituye delito de:",
     "options": [
-      "Desobediencia leve",
       "Atentado contra la autoridad",
-      "Coacciones",
+      "Desobediencia leve",
       "Desórdenes públicos"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "Art. 550 CP: atentado contra la autoridad, sus agentes y funcionarios públicos (Libro II, Título XXII)."
   }
 ],
@@ -13434,22 +18238,20 @@ const QUESTIONS = {
     "q": "Las medidas de protección integral contra la violencia de género se regulan en:",
     "options": [
       "La Ley Orgánica 3/2007, de 22 de marzo",
-      "La Ley 39/2015, de 1 de octubre",
       "La Ley Orgánica 1/2004, de 28 de diciembre",
       "La Ley Orgánica 4/2015, de 30 de marzo"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género."
   },
   {
     "q": "La igualdad efectiva de mujeres y hombres se regula en:",
     "options": [
       "La Ley Orgánica 1/2004",
-      "La Ley 30/2003",
       "La Ley Orgánica 3/2018",
       "La Ley Orgánica 3/2007, de 22 de marzo"
     ],
-    "correct": 3,
+    "correct": 2,
     "exp": "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres."
   },
   {
@@ -13457,7 +18259,6 @@ const QUESTIONS = {
     "options": [
       "Sistema VioGén",
       "Sistema SIRAJ",
-      "Sistema ATENPRO",
       "Sistema SIGO"
     ],
     "correct": 0,
@@ -13468,7 +18269,6 @@ const QUESTIONS = {
     "options": [
       "El Alcalde",
       "El Juez",
-      "El Delegado del Gobierno",
       "El Jefe de la Policía Local"
     ],
     "correct": 1,
@@ -13477,10 +18277,9 @@ const QUESTIONS = {
   {
     "q": "Según la LO 1/2004, la violencia de género comprende actos de violencia física y psicológica ejercidos sobre la mujer por:",
     "options": [
-      "Cualquier persona de su entorno laboral",
       "Únicamente el cónyuge con convivencia actual",
-      "Quien sea o haya sido su cónyuge o esté o haya estado ligado a ella por relaciones similares de afectividad, aun sin convivencia",
-      "Cualquier persona, sin relación previa"
+      "Cualquier persona, sin relación previa",
+      "Quien sea o haya sido su cónyuge o esté o haya estado ligado a ella por relaciones similares de afectividad, aun sin convivencia"
     ],
     "correct": 2,
     "exp": "Art. 1.1 LO 1/2004."
@@ -13490,41 +18289,37 @@ const QUESTIONS = {
   {
     "q": "Las Fuerzas y Cuerpos de Seguridad, según la LO 2/1986, están integradas por:",
     "options": [
-      "Solo la Policía Nacional y la Guardia Civil",
       "Las Fuerzas y Cuerpos de Seguridad del Estado, los Cuerpos de Policía de las Comunidades Autónomas y los Cuerpos de Policía de las Corporaciones Locales",
       "Las Fuerzas Armadas y la Guardia Civil",
       "La Policía Nacional, la Guardia Civil y la seguridad privada"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "Art. 2 LO 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad."
   },
   {
     "q": "Según el art. 52 LO 2/1986, los Cuerpos de Policía Local son:",
     "options": [
       "Institutos armados de naturaleza militar",
-      "Servicios administrativos sin carácter armado",
       "Institutos armados de naturaleza civil, con estructura y organización jerarquizada",
       "Cuerpos de naturaleza mixta"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "Art. 52.1 LO 2/1986: institutos armados de naturaleza civil, con estructura y organización jerarquizada."
   },
   {
     "q": "Los Cuerpos de Policía Local, con carácter general, solo podrán actuar:",
     "options": [
       "En todo el territorio de la Comunidad Autónoma",
-      "En cualquier municipio limítrofe",
       "En todo el territorio nacional",
       "En el ámbito territorial de su municipio, salvo situaciones de emergencia y previo requerimiento de las autoridades competentes"
     ],
-    "correct": 3,
+    "correct": 2,
     "exp": "Art. 51.3 LO 2/1986."
   },
   {
     "q": "¿Cuál de las siguientes NO es una función de los Cuerpos de Policía Local según el art. 53 LO 2/1986?",
     "options": [
       "El control de entrada y salida de extranjeros del territorio nacional",
-      "Ordenar, señalizar y dirigir el tráfico en el casco urbano",
       "Instruir atestados por accidentes de circulación dentro del casco urbano",
       "Proteger a las autoridades de las Corporaciones locales"
     ],
@@ -13536,7 +18331,6 @@ const QUESTIONS = {
     "options": [
       "La adecuación al ordenamiento jurídico",
       "La obediencia debida a órdenes que constituyan delito",
-      "El secreto profesional",
       "La dedicación profesional"
     ],
     "correct": 1,
@@ -13546,9 +18340,8 @@ const QUESTIONS = {
     "q": "Según el art. 5 LO 2/1986, en la utilización de armas de fuego los miembros de las FCS deben regirse por los principios de:",
     "options": [
       "Eficacia y celeridad",
-      "Jerarquía y disciplina",
-      "Oportunidad, congruencia y proporcionalidad",
-      "Libre apreciación del agente"
+      "Libre apreciación del agente",
+      "Oportunidad, congruencia y proporcionalidad"
     ],
     "correct": 2,
     "exp": "El uso de armas se rige por los principios de congruencia, oportunidad y proporcionalidad."
@@ -13558,67 +18351,61 @@ const QUESTIONS = {
   {
     "q": "La protección de la seguridad ciudadana se regula en:",
     "options": [
+      "La Ley Orgánica 4/2015, de 30 de marzo",
       "La Ley Orgánica 1/1992, de 21 de febrero",
-      "La Ley Orgánica 2/1986, de 13 de marzo",
-      "La Ley 39/2015, de 1 de octubre",
-      "La Ley Orgánica 4/2015, de 30 de marzo"
+      "La Ley Orgánica 2/1986, de 13 de marzo"
     ],
-    "correct": 3,
+    "correct": 0,
     "exp": "Ley Orgánica 4/2015, de 30 de marzo, de protección de la seguridad ciudadana."
   },
   {
     "q": "Las infracciones tipificadas en la LO 4/2015 se clasifican en:",
     "options": [
-      "Muy graves, graves y leves",
       "Graves y leves",
-      "Muy graves y graves",
-      "Gravísimas, graves, leves y levísimas"
+      "Muy graves, graves y leves",
+      "Muy graves y graves"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "Art. 33 LO 4/2015: las infracciones se clasifican en muy graves, graves y leves."
   },
   {
     "q": "Según la LO 4/2015, las infracciones leves se sancionan con multa de:",
     "options": [
-      "601 a 30.000 euros",
-      "100 a 600 euros",
       "30.001 a 600.000 euros",
-      "Hasta 100 euros"
+      "Hasta 100 euros",
+      "100 a 600 euros"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "Art. 39.1: leves, de 100 a 600 €; graves, de 601 a 30.000 €; muy graves, de 30.001 a 600.000 €."
   },
   {
     "q": "Las infracciones muy graves de la LO 4/2015 se sancionan con multa de:",
     "options": [
-      "601 a 30.000 euros",
-      "6.001 a 60.000 euros",
       "30.001 a 600.000 euros",
-      "Hasta 1.000.000 de euros"
+      "601 a 30.000 euros",
+      "6.001 a 60.000 euros"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "Art. 39.1 LO 4/2015: de 30.001 a 600.000 euros."
   },
   {
     "q": "Si no se logra la identificación de una persona por ningún medio, el traslado a dependencias policiales para su identificación no podrá superar:",
     "options": [
       "Dos horas",
-      "Doce horas",
-      "Veinticuatro horas",
-      "Seis horas"
+      "Seis horas",
+      "Doce horas"
     ],
-    "correct": 3,
+    "correct": 1,
     "exp": "Art. 16.2 LO 4/2015: el tiempo estrictamente necesario, que en ningún caso podrá superar las seis horas."
   },
   {
     "q": "La obligación de obtener el Documento Nacional de Identidad alcanza a los españoles mayores de:",
     "options": [
-      "14 años",
-      "12 años",
       "16 años",
-      "18 años"
+      "18 años",
+      "14 años"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "Art. 9.2 LO 4/2015: los españoles mayores de catorce años residentes en España tienen el derecho y la obligación de obtener el DNI."
   }
 ],
@@ -13626,45 +18413,41 @@ const QUESTIONS = {
   {
     "q": "La coordinación de las Policías Locales de Aragón corresponde a:",
     "options": [
-      "El Ministerio del Interior",
+      "La Comunidad Autónoma de Aragón",
       "Cada Diputación Provincial",
-      "La Federación Española de Municipios",
-      "La Comunidad Autónoma de Aragón"
+      "La Federación Española de Municipios"
     ],
-    "correct": 3,
+    "correct": 0,
     "exp": "La coordinación de las policías locales es competencia de la Comunidad Autónoma, conforme a la CE, al Estatuto de Autonomía y a la LO 2/1986."
   },
   {
     "q": "Las funciones de coordinación autonómica de las Policías Locales incluyen, entre otras:",
     "options": [
-      "La homogeneización de medios técnicos, uniformidad y retribuciones básicas",
-      "El nombramiento directo de los agentes municipales",
       "La sustitución del Alcalde en la jefatura del Cuerpo",
+      "La homogeneización de medios técnicos, uniformidad y retribuciones básicas",
       "La instrucción de los procedimientos penales"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "La coordinación se orienta a homogeneizar medios, uniformes, formación y criterios de actuación, respetando la autonomía municipal."
   },
   {
     "q": "La jefatura superior de la Policía Local corresponde a:",
     "options": [
       "El Delegado del Gobierno",
-      "El Alcalde",
-      "El Consejero de Interior de la Comunidad Autónoma",
-      "El Subdelegado del Gobierno"
+      "El Subdelegado del Gobierno",
+      "El Alcalde"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El Alcalde ostenta la jefatura superior de la Policía Local, sin perjuicio de la estructura jerárquica interna del Cuerpo."
   },
   {
     "q": "La formación de los miembros de las Policías Locales de Aragón se imparte principalmente a través de:",
     "options": [
-      "Cada Ayuntamiento por separado, sin coordinación",
-      "La Academia de la Guardia Civil",
       "La academia o escuela de formación de la propia Comunidad Autónoma",
-      "Centros privados acreditados por el Ministerio"
+      "Cada Ayuntamiento por separado, sin coordinación",
+      "La Academia de la Guardia Civil"
     ],
-    "correct": 2,
+    "correct": 0,
     "exp": "Uno de los instrumentos clave de la coordinación autonómica es la formación centralizada en la escuela autonómica correspondiente."
   }
 ],
@@ -13673,22 +18456,20 @@ const QUESTIONS = {
     "q": "El texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial se aprobó por:",
     "options": [
       "Real Decreto 1428/2003, de 21 de noviembre",
-      "Ley 18/2009, de 23 de noviembre",
-      "Real Decreto Legislativo 339/1990",
-      "Real Decreto Legislativo 6/2015, de 30 de octubre"
+      "Real Decreto Legislativo 6/2015, de 30 de octubre",
+      "Real Decreto Legislativo 339/1990"
     ],
-    "correct": 3,
+    "correct": 1,
     "exp": "Real Decreto Legislativo 6/2015, de 30 de octubre."
   },
   {
     "q": "Un conductor que obtiene por primera vez el permiso de conducción parte de un saldo inicial de:",
     "options": [
-      "8 puntos",
       "6 puntos",
-      "12 puntos",
-      "15 puntos"
+      "15 puntos",
+      "8 puntos"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "Parte de 8 puntos y pasa a 12 transcurridos tres años sin haber sido sancionado con pérdida de puntos. Régimen regulado en la propia Ley de Tráfico."
   }
 ],
@@ -13697,7 +18478,6 @@ const QUESTIONS = {
     "q": "En vías urbanas de un único carril por sentido de circulación, la velocidad máxima genérica es de:",
     "options": [
       "30 km/h",
-      "20 km/h",
       "40 km/h",
       "50 km/h"
     ],
@@ -13707,9 +18487,8 @@ const QUESTIONS = {
   {
     "q": "En vías urbanas que dispongan de dos o más carriles por sentido de circulación, la velocidad máxima genérica es de:",
     "options": [
-      "30 km/h",
-      "50 km/h",
       "40 km/h",
+      "50 km/h",
       "60 km/h"
     ],
     "correct": 1,
@@ -13719,9 +18498,8 @@ const QUESTIONS = {
     "q": "La tasa máxima de alcohol en aire espirado para un conductor general (no novel ni profesional) es de:",
     "options": [
       "0,15 mg/l",
-      "0,30 mg/l",
-      "0,25 mg/l",
-      "0,50 mg/l"
+      "0,50 mg/l",
+      "0,25 mg/l"
     ],
     "correct": 2,
     "exp": "0,25 mg/l en aire espirado (0,5 g/l en sangre). Para noveles y profesionales, 0,15 mg/l (0,3 g/l en sangre)."
@@ -13729,12 +18507,11 @@ const QUESTIONS = {
   {
     "q": "La tasa máxima de alcohol en aire espirado para conductores noveles y profesionales es de:",
     "options": [
+      "0,15 mg/l",
       "0,25 mg/l",
-      "0,10 mg/l",
-      "0,20 mg/l",
-      "0,15 mg/l"
+      "0,10 mg/l"
     ],
-    "correct": 3,
+    "correct": 0,
     "exp": "0,15 mg/l en aire espirado, equivalente a 0,3 g/l en sangre."
   },
   {
@@ -13742,8 +18519,7 @@ const QUESTIONS = {
     "options": [
       "Al vehículo, salvo que el peatón haya iniciado el cruce",
       "Al peatón",
-      "Al vehículo en todo caso",
-      "Se establece por cortesía, sin regla"
+      "Al vehículo en todo caso"
     ],
     "correct": 1,
     "exp": "El conductor debe ceder el paso a los peatones en los pasos para peatones señalizados."
@@ -13755,10 +18531,9 @@ const QUESTIONS = {
     "options": [
       "Ebro y Jalón",
       "Ebro, Cinca y Segre",
-      "Únicamente el Ebro",
       "Ebro, Huerva y Gállego"
     ],
-    "correct": 3,
+    "correct": 2,
     "exp": "El Ebro, el Huerva y el Gállego, además del Canal Imperial de Aragón."
   },
   {
@@ -13766,8 +18541,7 @@ const QUESTIONS = {
     "options": [
       "Río Ebro",
       "Río Huerva",
-      "Río Gállego",
-      "Canal Imperial de Aragón"
+      "Río Gállego"
     ],
     "correct": 0,
     "exp": "La Basílica del Pilar se alza en la ribera derecha del Ebro, en el centro histórico de Zaragoza."
@@ -13777,7 +18551,6 @@ const QUESTIONS = {
     "options": [
       "El Ayuntamiento de Zaragoza",
       "Las Cortes de Aragón",
-      "La Delegación del Gobierno",
       "El Justicia de Aragón"
     ],
     "correct": 1,
@@ -13787,9 +18560,8 @@ const QUESTIONS = {
     "q": "La Exposición Internacional celebrada en Zaragoza tuvo lugar en el año:",
     "options": [
       "2004",
-      "2010",
-      "2008",
-      "2012"
+      "2012",
+      "2008"
     ],
     "correct": 2,
     "exp": "La Expo 2008 de Zaragoza tuvo como lema 'Agua y desarrollo sostenible'."
@@ -13797,12 +18569,11 @@ const QUESTIONS = {
   {
     "q": "La catedral de San Salvador de Zaragoza es conocida popularmente como:",
     "options": [
+      "La Seo",
       "El Pilar",
-      "La Lonja",
-      "San Pablo",
-      "La Seo"
+      "La Lonja"
     ],
-    "correct": 3,
+    "correct": 0,
     "exp": "La Seo del Salvador es la otra catedral de Zaragoza, junto a la Basílica del Pilar."
   }
 ],
@@ -13810,56 +18581,51 @@ const QUESTIONS = {
   {
     "q": "El acrónimo PAS aplicado a la conducta ante un accidente significa:",
     "options": [
-      "Prevenir, Auxiliar, Sanar",
       "Parar, Analizar, Solicitar",
-      "Priorizar, Atender, Salvar",
-      "Proteger, Avisar, Socorrer"
+      "Proteger, Avisar, Socorrer",
+      "Priorizar, Atender, Salvar"
     ],
-    "correct": 3,
+    "correct": 1,
     "exp": "Proteger el lugar, Avisar a los servicios de emergencia y Socorrer a las víctimas, en ese orden."
   },
   {
     "q": "El teléfono único europeo de emergencias es el:",
     "options": [
-      "112",
-      "091",
       "092",
-      "061"
+      "061",
+      "112"
     ],
-    "correct": 0,
+    "correct": 2,
     "exp": "El 112 es el número único de emergencias en toda la Unión Europea."
   },
   {
     "q": "En la reanimación cardiopulmonar de un adulto, la relación entre compresiones y ventilaciones es de:",
     "options": [
-      "15 compresiones y 2 ventilaciones",
       "30 compresiones y 2 ventilaciones",
-      "5 compresiones y 1 ventilación",
+      "15 compresiones y 2 ventilaciones",
       "10 compresiones y 2 ventilaciones"
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "30 compresiones por cada 2 ventilaciones, con un ritmo de 100-120 compresiones por minuto."
   },
   {
     "q": "Ante una persona inconsciente que respira con normalidad y sin sospecha de lesión medular, la actuación indicada es:",
     "options": [
       "Sentarla y darle agua",
-      "Iniciar compresiones torácicas",
       "Colocarla en posición lateral de seguridad y vigilar la respiración",
-      "Elevarle las piernas 90 grados"
+      "Iniciar compresiones torácicas"
     ],
-    "correct": 2,
+    "correct": 1,
     "exp": "La posición lateral de seguridad mantiene la vía aérea permeable y evita la broncoaspiración."
   },
   {
     "q": "Como norma general, a una víctima de accidente de tráfico:",
     "options": [
       "Se la debe mover cuanto antes al arcén",
-      "Se le debe retirar siempre el casco",
       "Se la debe incorporar para que respire mejor",
       "No se la debe mover salvo peligro inminente para su vida"
     ],
-    "correct": 3,
+    "correct": 2,
     "exp": "Cualquier movilización innecesaria puede agravar lesiones, especialmente de columna vertebral."
   }
 ]

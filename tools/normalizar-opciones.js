@@ -4,6 +4,14 @@
    Uso:
      node tools/normalizar-opciones.js <archivo.js> [--reducir] [--aplicar] [--muestra N]
 
+   Ojo si generas el <archivo.js> a mano para una pasada puntual (por
+   ejemplo, en /tmp, para reducir un lote antes de importarlo a otra
+   oposición): tiene que haber un salto de línea ANTES del primer
+   'window.addQuestions(', o si no --aplicar no encuentra el final de la
+   'cabecera' (busca '\nwindow.addQuestions(') y duplica todo el contenido
+   en vez de sustituirlo. Empieza el archivo con un comentario en la
+   primera línea, nunca con 'window.addQuestions(' a pelo.
+
    Hace dos cosas independientes:
 
    1. REPARTIR la posición de la respuesta correcta (siempre).
