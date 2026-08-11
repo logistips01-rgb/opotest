@@ -1,0 +1,526 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 13,
+  "preguntas": [
+    {
+      "q": "¿Quién ordena, según el TRLRHL, la incoación del expediente de crédito extraordinario o de suplemento de crédito?",
+      "options": [
+        "El interventor de la entidad",
+        "El presidente de la corporación",
+        "El Pleno de la corporación",
+        "El secretario general"
+      ],
+      "correct": 1,
+      "exp": "El art. 177.1 TRLRHL atribuye al presidente de la corporación la orden de incoación de este expediente.",
+      "fuente": "Art. 177.1 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 177.1 TRLRHL, se tramitará un crédito extraordinario cuando el gasto no pueda demorarse y...",
+      "options": [
+        "exista crédito consignado pero resulte insuficiente",
+        "no exista en el presupuesto crédito para ese gasto",
+        "el crédito sea de naturaleza ampliable",
+        "se trate de una transferencia entre grupos de función"
+      ],
+      "correct": 1,
+      "exp": "El crédito extraordinario procede cuando no existe crédito para el gasto; el suplemento, cuando existe pero es insuficiente o no ampliable.",
+      "fuente": "Art. 177.1 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El expediente de crédito extraordinario o suplemento de crédito debe ser informado previamente por...",
+      "options": [
+        "el Pleno de la corporación",
+        "la Intervención",
+        "la Junta de Gobierno Local",
+        "el órgano competente del organismo autónomo afectado"
+      ],
+      "correct": 1,
+      "exp": "El art. 177.2 TRLRHL exige informe previo de la Intervención antes de someter el expediente a aprobación.",
+      "fuente": "Art. 177.2 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El expediente de crédito extraordinario o suplemento de crédito se somete a la aprobación de...",
+      "options": [
+        "la Junta de Gobierno Local, por razones de urgencia",
+        "el Pleno de la corporación, con los mismos trámites y requisitos que los presupuestos",
+        "el Alcalde-Presidente, mediante decreto",
+        "el Delegado de Hacienda"
+      ],
+      "correct": 1,
+      "exp": "El art. 177.2 TRLRHL dispone que el expediente se somete a la aprobación del Pleno, con idénticos trámites y requisitos que los presupuestos.",
+      "fuente": "Art. 177.2 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Si la insuficiencia de crédito se produce en el presupuesto de un organismo autónomo, el expediente propuesto inicialmente por su órgano competente...",
+      "options": [
+        "se aprueba directamente por el propio organismo autónomo",
+        "se remite a la entidad local para su tramitación",
+        "requiere autorización previa de la Administración del Estado",
+        "solo puede tramitarse en el ejercicio siguiente"
+      ],
+      "correct": 1,
+      "exp": "El art. 177.3 TRLRHL establece que el expediente se remite a la entidad local para su tramitación conforme al apartado anterior.",
+      "fuente": "Art. 177.3 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 177.4 TRLRHL, el expediente de crédito extraordinario o suplemento de crédito deberá especificar...",
+      "options": [
+        "únicamente la cuantía global del presupuesto",
+        "la concreta partida presupuestaria a incrementar y el medio o recurso que financia el aumento",
+        "el nombre del funcionario responsable del gasto",
+        "el plazo máximo de ejecución del gasto"
+      ],
+      "correct": 1,
+      "exp": "El art. 177.4 TRLRHL exige que el expediente especifique la partida a incrementar y el medio o recurso financiador del aumento.",
+      "fuente": "Art. 177.4 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuál de las siguientes NO es una fuente de financiación admitida por el art. 177.4 TRLRHL para créditos extraordinarios o suplementos de crédito?",
+      "options": [
+        "El remanente líquido de tesorería",
+        "Nuevos o mayores ingresos recaudados sobre los totales previstos",
+        "Anulaciones o bajas de créditos de otras partidas no comprometidos",
+        "Endeudamiento a largo plazo sin límite alguno"
+      ],
+      "correct": 3,
+      "exp": "El art. 177.4 TRLRHL solo admite remanente líquido de tesorería, mayores ingresos y anulaciones o bajas de créditos no comprometidos; no contempla endeudamiento sin límite.",
+      "fuente": "Art. 177.4 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Los acuerdos excepcionales previstos en el art. 177.5 TRLRHL para financiar gastos con operaciones de crédito exigen el quórum establecido en...",
+      "options": [
+        "el artículo 47.3 de la Ley 7/1985",
+        "el artículo 22.2 de la Ley 7/1985",
+        "el artículo 123 de la Ley 7/1985",
+        "el artículo 180 del propio TRLRHL"
+      ],
+      "correct": 0,
+      "exp": "El art. 177.5 TRLRHL remite al quórum del art. 47.3 de la Ley 7/1985, de 2 de abril (LBRL).",
+      "fuente": "Art. 177.5 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 177.5 TRLRHL, el importe total anual de las operaciones de crédito allí previstas no podrá superar...",
+      "options": [
+        "el 25 por ciento de los recursos por operaciones corrientes",
+        "el 5 por ciento de los recursos por operaciones corrientes",
+        "el 10 por ciento del presupuesto total",
+        "el 50 por ciento de los recursos por operaciones corrientes"
+      ],
+      "correct": 1,
+      "exp": "El art. 177.5 TRLRHL fija en el 5 por ciento de los recursos por operaciones corrientes el límite del importe total anual.",
+      "fuente": "Art. 177.5 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 177.5 TRLRHL, la carga financiera total de la entidad, incluida la derivada de las operaciones proyectadas, no podrá superar...",
+      "options": [
+        "el 5 por ciento de los recursos por operaciones corrientes",
+        "el 15 por ciento de los expresados recursos",
+        "el 25 por ciento de los expresados recursos",
+        "el 30 por ciento de los expresados recursos"
+      ],
+      "correct": 2,
+      "exp": "El art. 177.5 TRLRHL exige que la carga financiera total no supere el 25 por ciento de los recursos por operaciones corrientes.",
+      "fuente": "Art. 177.5 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Las reclamaciones contra los acuerdos de habilitación o suplemento de créditos por calamidades públicas u otras de excepcional interés general deben sustanciarse, según el art. 177.6 TRLRHL, dentro de...",
+      "options": [
+        "quince días",
+        "un mes",
+        "los ocho días siguientes a su presentación",
+        "veinte días hábiles"
+      ],
+      "correct": 2,
+      "exp": "El art. 177.6 TRLRHL fija en ocho días el plazo para sustanciar dichas reclamaciones, entendiéndose desestimadas si no se notifica resolución en ese plazo.",
+      "fuente": "Art. 177.6 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 178 TRLRHL, tendrán la condición de ampliables aquellos créditos que...",
+      "options": [
+        "se relacionen de modo taxativo y debidamente explicitados en las bases de ejecución del presupuesto",
+        "correspondan a gastos de personal en todo caso",
+        "sean créditos de operaciones de capital",
+        "hayan sido concedidos en el último trimestre del ejercicio"
+      ],
+      "correct": 0,
+      "exp": "El art. 178 TRLRHL exige que los créditos ampliables se relacionen taxativamente en las bases de ejecución del presupuesto.",
+      "fuente": "Art. 178 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El incremento de la cuantía de un crédito ampliable, según el art. 178 TRLRHL, está condicionado a...",
+      "options": [
+        "la autorización previa del Pleno en cada caso concreto",
+        "la efectividad de los recursos afectados, previo cumplimiento de los requisitos exigidos reglamentariamente",
+        "el informe favorable del Tribunal de Cuentas",
+        "la aprobación del presupuesto del ejercicio siguiente"
+      ],
+      "correct": 1,
+      "exp": "El art. 178 TRLRHL condiciona el incremento del crédito ampliable a la efectividad de los recursos afectados y al cumplimiento de los requisitos reglamentarios.",
+      "fuente": "Art. 178 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El régimen de créditos ampliables regulado en el art. 178 TRLRHL constituye una excepción a lo dispuesto en...",
+      "options": [
+        "el apartado 2 del artículo 172 de la ley",
+        "el artículo 169 de la ley",
+        "el artículo 176 de la ley",
+        "el artículo 47.3 de la Ley 7/1985"
+      ],
+      "correct": 0,
+      "exp": "El propio art. 178 TRLRHL comienza señalando 'No obstante lo dispuesto en el apartado 2 del artículo 172 de esta ley'.",
+      "fuente": "Art. 178 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 179.1 TRLRHL, ¿quién regula el régimen de transferencias de crédito estableciendo el órgano competente para autorizarlas?",
+      "options": [
+        "El Ministerio de Hacienda",
+        "Las propias entidades locales, en las bases de ejecución del presupuesto",
+        "La Intervención General de la Administración del Estado",
+        "El Tribunal de Cuentas"
+      ],
+      "correct": 1,
+      "exp": "El art. 179.1 TRLRHL remite a las entidades locales la regulación del régimen de transferencias en las bases de ejecución del presupuesto.",
+      "fuente": "Art. 179.1 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Con carácter general, la aprobación de las transferencias de crédito entre distintos grupos de función corresponde, según el art. 179.2 TRLRHL, a...",
+      "options": [
+        "la Junta de Gobierno Local",
+        "el Pleno de la corporación",
+        "el Alcalde-Presidente",
+        "el interventor"
+      ],
+      "correct": 1,
+      "exp": "El art. 179.2 TRLRHL atribuye al Pleno la aprobación de transferencias entre distintos grupos de función, salvo la excepción prevista.",
+      "fuente": "Art. 179.2 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "La competencia del Pleno para aprobar transferencias entre distintos grupos de función, conforme al art. 179.2 TRLRHL, no se aplica cuando...",
+      "options": [
+        "se trate de créditos de operaciones de capital",
+        "las bajas y las altas afecten a créditos de personal",
+        "el importe supere el 5 por ciento del presupuesto",
+        "intervenga un organismo autónomo"
+      ],
+      "correct": 1,
+      "exp": "El art. 179.2 TRLRHL exceptúa de la competencia del Pleno el caso en que las bajas y altas afecten a créditos de personal.",
+      "fuente": "Art. 179.2 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 179.3 TRLRHL, los organismos autónomos podrán realizar operaciones de transferencias de crédito...",
+      "options": [
+        "sin ninguna limitación",
+        "solo con autorización expresa del Pleno para cada operación concreta",
+        "con sujeción a lo dispuesto en los apartados 1 y 2 del mismo artículo",
+        "únicamente si lo prevé una norma autonómica"
+      ],
+      "correct": 2,
+      "exp": "El art. 179.3 TRLRHL sujeta a los organismos autónomos a lo dispuesto en los apartados anteriores del propio artículo.",
+      "fuente": "Art. 179.3 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Las modificaciones presupuestarias por transferencia de crédito aprobadas por el Pleno siguen las normas sobre información, reclamaciones, recursos y publicidad de los artículos...",
+      "options": [
+        "162, 163 y 164 de la ley",
+        "169, 170 y 171 de la ley",
+        "191, 192 y 193 de la ley",
+        "200 a 212 de la ley"
+      ],
+      "correct": 1,
+      "exp": "El art. 179.4 TRLRHL remite a los artículos 169, 170 y 171 para información, reclamaciones, recursos y publicidad.",
+      "fuente": "Art. 179.4 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 180.1.a) TRLRHL, las transferencias de crédito de cualquier clase no afectarán a...",
+      "options": [
+        "los créditos de personal en general",
+        "los créditos ampliables ni a los extraordinarios concedidos durante el ejercicio",
+        "los créditos de operaciones corrientes",
+        "los créditos de los organismos autónomos"
+      ],
+      "correct": 1,
+      "exp": "El art. 180.1.a) TRLRHL prohíbe que las transferencias afecten a créditos ampliables ni a los extraordinarios concedidos durante el ejercicio.",
+      "fuente": "Art. 180.1.a) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 180.1.b) TRLRHL, no podrán minorarse, salvo que afecten a créditos de personal, los créditos que hayan sido incrementados con...",
+      "options": [
+        "suplementos o transferencias",
+        "remanentes de tesorería no afectados",
+        "ingresos de naturaleza tributaria",
+        "operaciones de capital"
+      ],
+      "correct": 0,
+      "exp": "El art. 180.1.b) TRLRHL impide minorar los créditos incrementados con suplementos o transferencias, salvo que afecten a créditos de personal.",
+      "fuente": "Art. 180.1.b) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 180.1.b) TRLRHL también impide minorar los créditos incorporados como consecuencia de...",
+      "options": [
+        "remanentes no comprometidos procedentes de presupuestos cerrados",
+        "créditos extraordinarios concedidos en el propio ejercicio",
+        "generaciones de crédito por prestación de servicios",
+        "anulaciones de crédito acordadas por el Pleno"
+      ],
+      "correct": 0,
+      "exp": "El art. 180.1.b) TRLRHL extiende la prohibición de minoración a los créditos incorporados por remanentes no comprometidos de presupuestos cerrados.",
+      "fuente": "Art. 180.1.b) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 180.1.c) TRLRHL, no podrán incrementarse, salvo que afecten a créditos de personal, los créditos que...",
+      "options": [
+        "hayan sido objeto de minoración como consecuencia de otras transferencias",
+        "sean de naturaleza ampliable",
+        "procedan de remanente líquido de tesorería",
+        "estén financiados con ingresos afectados"
+      ],
+      "correct": 0,
+      "exp": "El art. 180.1.c) TRLRHL prohíbe incrementar créditos que hayan sido minorados por otras transferencias, salvo que afecten a créditos de personal.",
+      "fuente": "Art. 180.1.c) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Las limitaciones del art. 180.1 TRLRHL no afectan, según el art. 180.2, a las transferencias de crédito que se refieran a...",
+      "options": [
+        "los programas de imprevistos y funciones no clasificadas",
+        "los créditos de personal laboral fijo",
+        "los créditos de operaciones de capital",
+        "los créditos generados por prestación de servicios"
+      ],
+      "correct": 0,
+      "exp": "El art. 180.2 TRLRHL excluye de las limitaciones del apartado 1 las transferencias referidas a programas de imprevistos y funciones no clasificadas.",
+      "fuente": "Art. 180.2 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 180.2 TRLRHL, las limitaciones del apartado 1 tampoco se aplican cuando los créditos se modifiquen como consecuencia de...",
+      "options": [
+        "reorganizaciones administrativas aprobadas por el Pleno",
+        "una fiscalización del Tribunal de Cuentas",
+        "un cambio de legislatura municipal",
+        "la liquidación del presupuesto del ejercicio anterior"
+      ],
+      "correct": 0,
+      "exp": "El art. 180.2 TRLRHL exime de las limitaciones del apartado 1 a las modificaciones derivadas de reorganizaciones administrativas aprobadas por el Pleno.",
+      "fuente": "Art. 180.2 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 181 TRLRHL, las generaciones de crédito en los estados de gastos del presupuesto proceden de ingresos de naturaleza...",
+      "options": [
+        "tributaria exclusivamente",
+        "no tributaria",
+        "estrictamente sancionadora",
+        "patrimonial exclusivamente"
+      ],
+      "correct": 1,
+      "exp": "El art. 181 TRLRHL circunscribe las generaciones de crédito a ingresos de naturaleza no tributaria derivados de las operaciones que enumera.",
+      "fuente": "Art. 181 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuál de las siguientes operaciones da lugar a una generación de crédito conforme al art. 181.a) TRLRHL?",
+      "options": [
+        "Aportaciones o compromisos firmes de aportación de personas físicas o jurídicas para financiar gastos comprendidos en los fines de la entidad",
+        "Un préstamo bancario concertado por la entidad local",
+        "Un incremento de la recaudación por el Impuesto sobre Bienes Inmuebles",
+        "Una subvención finalista aún no comprometida"
+      ],
+      "correct": 0,
+      "exp": "El art. 181.a) TRLRHL contempla las aportaciones o compromisos firmes de aportación de terceros como fuente de generación de crédito.",
+      "fuente": "Art. 181.a) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 181.b) TRLRHL, constituye también fuente de generación de crédito...",
+      "options": [
+        "las enajenaciones de bienes de la entidad local o de sus organismos autónomos",
+        "las bajas por anulación de crédito",
+        "la incorporación de remanentes de crédito",
+        "las transferencias entre grupos de función"
+      ],
+      "correct": 0,
+      "exp": "El art. 181.b) TRLRHL incluye las enajenaciones de bienes de la entidad local o de sus organismos autónomos entre las operaciones generadoras de crédito.",
+      "fuente": "Art. 181.b) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Entre las operaciones que, según el art. 181.c) TRLRHL, generan crédito se encuentra...",
+      "options": [
+        "la prestación de servicios",
+        "la contratación de personal temporal",
+        "la aprobación de un suplemento de crédito",
+        "la ampliación reglamentaria de un crédito"
+      ],
+      "correct": 0,
+      "exp": "El art. 181.c) TRLRHL incluye la prestación de servicios entre las operaciones generadoras de crédito.",
+      "fuente": "Art. 181.c) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 181.d) TRLRHL, también puede generar crédito...",
+      "options": [
+        "el reembolso de préstamos",
+        "el aplazamiento de deudas tributarias",
+        "la compensación de créditos tributarios",
+        "el embargo de bienes"
+      ],
+      "correct": 0,
+      "exp": "El art. 181.d) TRLRHL contempla el reembolso de préstamos como operación generadora de crédito.",
+      "fuente": "Art. 181.d) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 181.e) TRLRHL, los reintegros de pagos indebidos con cargo al presupuesto corriente generan crédito...",
+      "options": [
+        "en ningún caso",
+        "en cuanto a reposición del crédito en la correspondiente cuantía",
+        "solo si superan el 5 por ciento del presupuesto",
+        "únicamente tras autorización expresa del Pleno"
+      ],
+      "correct": 1,
+      "exp": "El art. 181.e) TRLRHL permite generar crédito por reintegros de pagos indebidos, en cuanto a reposición del crédito en la cuantía correspondiente.",
+      "fuente": "Art. 181.e) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuántas modalidades de operaciones susceptibles de generar crédito enumera el art. 181 TRLRHL?",
+      "options": [
+        "Tres",
+        "Cuatro",
+        "Cinco",
+        "Seis"
+      ],
+      "correct": 2,
+      "exp": "El art. 181 TRLRHL enumera cinco operaciones, en sus letras a) a e), que pueden dar lugar a generación de crédito.",
+      "fuente": "Art. 181 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "La incorporación de créditos regulada en el art. 182.1 TRLRHL constituye una excepción a lo dispuesto en el artículo...",
+      "options": [
+        "172 de la ley",
+        "175 de la ley",
+        "169 de la ley",
+        "179 de la ley"
+      ],
+      "correct": 1,
+      "exp": "El art. 182.1 TRLRHL comienza señalando 'No obstante lo dispuesto en el artículo 175 de esta ley'.",
+      "fuente": "Art. 182.1 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 182.1.a) TRLRHL, pueden incorporarse al ejercicio siguiente los créditos extraordinarios, suplementos y transferencias de crédito concedidos o autorizados en...",
+      "options": [
+        "el primer trimestre del ejercicio",
+        "el último trimestre del ejercicio",
+        "cualquier momento del ejercicio, sin restricción temporal",
+        "los dos últimos meses del ejercicio anterior"
+      ],
+      "correct": 1,
+      "exp": "El art. 182.1.a) TRLRHL exige que dichos créditos hayan sido concedidos o autorizados en el último trimestre del ejercicio.",
+      "fuente": "Art. 182.1.a) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 182.1.b) TRLRHL permite incorporar los créditos que amparen los compromisos de gasto a que hace referencia...",
+      "options": [
+        "el apartado 2.b) del artículo 176 de la ley",
+        "el apartado 1 del artículo 172 de la ley",
+        "el artículo 169 de la ley",
+        "el artículo 47.3 de la Ley 7/1985"
+      ],
+      "correct": 0,
+      "exp": "El art. 182.1.b) TRLRHL remite expresamente al apartado 2.b) del artículo 176 de la ley.",
+      "fuente": "Art. 182.1.b) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Entre los créditos susceptibles de incorporación al ejercicio siguiente conforme al art. 182.1.c) TRLRHL se encuentran...",
+      "options": [
+        "los créditos por operaciones de capital",
+        "los créditos de personal",
+        "los créditos ampliables por su propia naturaleza",
+        "los créditos de los organismos autónomos exclusivamente"
+      ],
+      "correct": 0,
+      "exp": "El art. 182.1.c) TRLRHL incluye los créditos por operaciones de capital entre los incorporables al ejercicio siguiente.",
+      "fuente": "Art. 182.1.c) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 182.1.d) TRLRHL permite incorporar también los créditos autorizados en función de...",
+      "options": [
+        "la efectiva recaudación de los derechos afectados",
+        "la liquidación definitiva del presupuesto del ejercicio",
+        "el informe favorable de la Intervención",
+        "el acuerdo unánime del Pleno"
+      ],
+      "correct": 0,
+      "exp": "El art. 182.1.d) TRLRHL contempla los créditos autorizados en función de la efectiva recaudación de derechos afectados.",
+      "fuente": "Art. 182.1.d) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 182.2 TRLRHL, los remanentes incorporados podrán aplicarse...",
+      "options": [
+        "en cualquier ejercicio posterior, sin límite temporal",
+        "tan sólo dentro del ejercicio presupuestario al que la incorporación se acuerde",
+        "únicamente en el ejercicio en que se generó originalmente el remanente",
+        "solo previa autorización del Ministerio de Hacienda"
+      ],
+      "correct": 1,
+      "exp": "El art. 182.2 TRLRHL limita la aplicación de los remanentes incorporados al ejercicio presupuestario al que se acuerde la incorporación.",
+      "fuente": "Art. 182.2 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "En el supuesto de los créditos incorporados conforme al art. 182.1.a), los remanentes deberán aplicarse, según el art. 182.2 TRLRHL, a...",
+      "options": [
+        "cualquier gasto del presupuesto vigente",
+        "los mismos gastos que motivaron, en cada caso, su concesión y autorización",
+        "gastos de personal con carácter preferente",
+        "la amortización de deuda pública"
+      ],
+      "correct": 1,
+      "exp": "El art. 182.2 TRLRHL exige, para el supuesto del párrafo a) del apartado 1, que los remanentes se destinen a los mismos gastos que motivaron su concesión y autorización.",
+      "fuente": "Art. 182.2 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 182.3 TRLRHL, los créditos que amparen proyectos financiados con ingresos afectados...",
+      "options": [
+        "podrán incorporarse de forma potestativa, a criterio del Pleno",
+        "deberán incorporarse obligatoriamente, salvo que se desista total o parcialmente de la ejecución del gasto",
+        "no podrán incorporarse en ningún caso",
+        "solo se incorporan si lo autoriza expresamente la Intervención"
+      ],
+      "correct": 1,
+      "exp": "El art. 182.3 TRLRHL impone la incorporación obligatoria de estos créditos, salvo desistimiento total o parcial de la ejecución del gasto.",
+      "fuente": "Art. 182.3 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta"
+    }
+  ]
+}
