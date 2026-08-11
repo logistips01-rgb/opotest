@@ -6,6 +6,47 @@ un tema por tanda y con parada entre temas.
 El tema 21 queda **fuera del objetivo**: reproduce el examen oficial del
 1-jun-2025 y rellenarlo con preguntas generadas destruiría lo que lo hace útil.
 
+## Tema 12 · Haciendas Locales I: recursos, tributos e impuestos municipales — PRIMERA VUELTA CERRADA
+
+**340 preguntas** (de 100 que había), todas de 4 opciones. Primer tema
+generado con las dos medidas de ahorro pedidas explícitamente: **4 lotes en
+vez de 6** y **una sola descarga compartida** del TRLRHL para los 4
+redactores (en vez de que cada uno la repitiera).
+
+| Lote | Tramo | Confirmadas | Corregidas | Rechazadas | Llamadas de herramienta (redactor) |
+|---|---|---|---|---|---|
+| A | Tributos: normas generales, ordenanzas fiscales, tasas (arts. 6-27) | 40 | 0 | 0 | 21 |
+| B | Contribuciones especiales, recargos, participación, precios públicos (arts. 28-47) | 40 | 0 | 0 | 9 |
+| C | IBI e IVTM (arts. 60-77, 92-99) | 40 | 0 | 0 | 15 |
+| D | IAE, ICIO, IIVTNU (arts. 78-91, 100-103, 104-110) | 40 | 0 | 0 | 10 |
+
+Media de 14 llamadas de herramienta por redactor, frente a las 20-40 de
+rondas anteriores (p. ej. tema 14: 21-42). El ahorro viene sobre todo de no
+repetir el curl + troceo de HTML por cada agente: se descargó una vez el
+consolidado a `tools/temarios/_trlrhl-consolidado.txt` (excluido de git,
+ver `.gitignore`) y los 4 redactores y los 4 revisores leyeron ese mismo
+archivo, verificando cada uno de forma independiente sobre él.
+
+Notas:
+- El redactor B detectó que la numeración de `fuentes.json` para este tema
+  estaba desplazada en un artículo (art. 38 = impuestos y recargos, no
+  contribuciones especiales; art. 39 = participación, no recargos); se
+  corrigió en el propio archivo con la numeración real verificada por dos
+  agentes independientes.
+- El revisor D verificó con cuidado extra los arts. 103.2 (ICIO) y 107.4
+  (IIVTNU/plusvalía), que han tenido varias modificaciones por RDL con
+  derogación parlamentaria posterior en 2025-2026; confirmó que las
+  preguntas usan la redacción vigente a día de la revisión.
+- Título III (recursos de las provincias) y Títulos IV-V (otras entidades)
+  quedaron fuera de esta ronda por decisión explícita de presupuesto;
+  pendientes de una posible segunda ronda.
+
+**Aprovechado para Policía Local**: los temas 12 (340) y 13 (340, cerrado
+antes) se redujeron juntos a 3 opciones y se volcaron íntegros al tema 7 de
+Policía Local ("Presupuesto. Régimen jurídico de los ingresos y gastos
+locales"), sin agentes adicionales — 600 preguntas nuevas, 0 duplicadas.
+Banco de Policía Local: de 1.651 a **2.251 preguntas**.
+
 ## Policía Local Zaragoza · importación de la Constitución desde Aux. Admin. (11-ago-2026)
 
 Segunda importación cruzada, esta vez con conversión real de 4→3 opciones
