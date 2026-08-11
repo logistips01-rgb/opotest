@@ -72,6 +72,20 @@ Antes de lanzar un redactor, comprueba en `assets/js/catalog.js` cuántas
 opciones tiene el banco de la oposición (mira cualquier pregunta existente) y
 dile explícitamente al agente cuántas opciones debe usar. No asumas.
 
+**Cada oposición puede tener un número de opciones distinto**, aunque sea del
+mismo Ayuntamiento. Confirmado por bases oficiales:
+
+| Oposición | Opciones | Fuente |
+|---|---|---|
+| Auxiliar Administrativo, Ayto. Zaragoza | 4 | ver más arriba |
+| Policía Local, Ayto. Zaragoza | 3 | base 8.4.C de las bases generales (TRBGTL), ver [tools/temarios/policia-local-zaragoza.md](temarios/policia-local-zaragoza.md) |
+
+El banco `data/policia-local-zaragoza.js` está todavía en 4 opciones
+(heredado del banco inicial, antes de verificar el formato real); hay que
+reducirlo a 3 antes de generar contenido nuevo para esa oposición, con
+`tools/normalizar-opciones.js --reducir` (esta vez sí corresponde usarlo: es
+el caso real, no una suposición).
+
 ## Etapa 1 · Redactor
 
 Un agente por tema. Recibe:

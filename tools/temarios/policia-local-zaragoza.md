@@ -140,6 +140,31 @@ de esta lista, no la fuente.
     II de la Ordenanza Municipal de Medios de Intervención de la Actividad
     Urbanística.
 
+## Formato del examen (primer ejercicio)
+
+Confirmado por descarga directa (curl) de las bases generales (TRBGTL),
+`https://www.zaragoza.es/cont/paginas/oferta/archivos/bases-textorefundido/bases_turno_libre.pdf`
+(guardadas también en este directorio como `bases-generales-trbgtl-2025.pdf`),
+base 8.4.C, página 61:
+
+> «Consistirá en contestar a un cuestionario de cien preguntas tipo test con
+> 3 respuestas alternativas, así como a doce preguntas de reserva sobre el
+> contenido comprendido en el anexo (temario)... siendo solo una de las
+> respuestas la correcta o más correcta de entre las alternativas
+> planteadas.»
+
+**El examen de Policía Local de Zaragoza es de 3 opciones**, a diferencia
+del de Auxiliar Administrativo del mismo Ayuntamiento (que es de 4, según
+`tools/generar.md`). No dar por supuesto que todas las oposiciones del mismo
+Ayuntamiento comparten formato — verificar siempre en la fuente antes de
+generar. El banco `data/policia-local-zaragoza.js` está todavía en 4
+opciones (heredado del banco inicial); pendiente de reducir a 3 antes o
+durante la próxima campaña de generación con agentes.
+
+Puntuación: acierto = nota máxima / nº preguntas a valorar; error penaliza
+1/4 de ese valor; en blanco no penaliza. Mínimo 5/10 para superar el
+ejercicio, más una nota de corte según el número máximo de plazas.
+
 **Nota de la convocatoria**: "Los temas cuyos epígrafes o contenido se
 refieran a normas jurídicas y a programas o servicios municipales, se
 desarrollarán conforme a las normas, programas o servicios vigentes en el
