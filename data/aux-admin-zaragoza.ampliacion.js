@@ -20196,3 +20196,1051 @@ window.addQuestions('aux-admin-zaragoza', 13, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 13 · lote 2026-08-11 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 13, [
+  {
+    "q": "Según el art. 200.1 del TRLRHL, las entidades locales y sus organismos autónomos quedan sometidos, en materia contable, al régimen de:",
+    "options": [
+      "Contabilidad pública, en los términos establecidos en la propia ley",
+      "Contabilidad exclusivamente privada, conforme al Código de Comercio",
+      "Contabilidad simplificada obligatoria en todo caso",
+      "Contabilidad nacional, gestionada directamente por el INE"
+    ],
+    "correct": 0,
+    "exp": "Art. 200.1: 'Las entidades locales y sus organismos autónomos quedan sometidos al régimen de contabilidad pública en los términos establecidos en esta ley.'",
+    "fuente": "Art. 200.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 200.2 del TRLRHL, las sociedades mercantiles en cuyo capital tengan participación total o mayoritaria las entidades locales:",
+    "options": [
+      "Están igualmente sometidas al régimen de contabilidad pública, sin perjuicio de adaptarse al Código de Comercio y al Plan General de Contabilidad de las empresas españolas",
+      "Quedan excluidas de cualquier régimen de contabilidad pública o mercantil",
+      "Solo se someten a contabilidad pública si su capital es íntegramente local",
+      "Se rigen exclusivamente por la normativa contable de la Unión Europea"
+    ],
+    "correct": 0,
+    "exp": "Art. 200.2: estas sociedades 'estarán igualmente sometidas al régimen de contabilidad pública, sin perjuicio de que se adapten a las disposiciones del Código de Comercio y demás legislación mercantil y al Plan General de Contabilidad vigente para las empresas españolas.'",
+    "fuente": "Art. 200.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 201 del TRLRHL, la sujeción al régimen de contabilidad pública lleva consigo la obligación de rendir cuentas de las respectivas operaciones, cualquiera que sea su naturaleza, a:",
+    "options": [
+      "El Tribunal de Cuentas",
+      "El Ministerio de Hacienda exclusivamente",
+      "La Comunidad Autónoma respectiva en todo caso",
+      "El Defensor del Pueblo"
+    ],
+    "correct": 0,
+    "exp": "Art. 201: 'La sujeción al régimen de contabilidad pública lleva consigo la obligación de rendir cuentas de las respectivas operaciones, cualquiera que sea su naturaleza, al Tribunal de Cuentas.'",
+    "fuente": "Art. 201 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 202 del TRLRHL, el ejercicio contable de las entidades locales:",
+    "options": [
+      "Coincidirá con el ejercicio presupuestario",
+      "Coincidirá con el año escolar",
+      "Abarcará un período de dieciocho meses",
+      "Se fija libremente por cada Ayuntamiento en sus bases de ejecución"
+    ],
+    "correct": 0,
+    "exp": "Art. 202: 'El ejercicio contable coincidirá con el ejercicio presupuestario.'",
+    "fuente": "Art. 202 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 203.1 a) del TRLRHL, corresponde al Ministerio de Hacienda, a propuesta de la Intervención General de la Administración del Estado:",
+    "options": [
+      "Aprobar las normas contables de carácter general a las que deberá ajustarse la organización de la contabilidad de los entes locales y sus organismos autónomos",
+      "Aprobar directamente los presupuestos de cada entidad local",
+      "Nombrar al Interventor de cada Ayuntamiento",
+      "Fijar el tipo de interés de las operaciones de crédito local"
+    ],
+    "correct": 0,
+    "exp": "Art. 203.1 a): corresponde al Ministerio de Hacienda, a propuesta de la IGAE, 'Aprobar las normas contables de carácter general a las que tendrá que ajustarse la organización de la contabilidad de los entes locales y sus organismos autónomos.'",
+    "fuente": "Art. 203.1 a) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 203.1 b) del TRLRHL, corresponde al Ministerio de Hacienda:",
+    "options": [
+      "Aprobar la adaptación del Plan General de Contabilidad Pública para las entidades locales y su normativa de desarrollo",
+      "Aprobar el Plan General de Contabilidad de la empresa española en su totalidad",
+      "Aprobar las ordenanzas fiscales de cada municipio",
+      "Determinar el número de concejales de cada Corporación"
+    ],
+    "correct": 0,
+    "exp": "Art. 203.1 b): corresponde al Ministerio de Hacienda 'Aprobar la adaptación del Plan General de Contabilidad Pública para las entidades locales, su normativa de desarrollo y los planes especiales o parciales que se elaboren conforme a la misma...'",
+    "fuente": "Art. 203.1 b) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 203.1 c) del TRLRHL, corresponde al Ministerio de Hacienda:",
+    "options": [
+      "Establecer los libros que, como regla general y con carácter obligatorio, deban llevarse",
+      "Establecer el calendario de cobro de tributos locales",
+      "Aprobar el catálogo de puestos de trabajo de cada entidad local",
+      "Determinar la plantilla de personal funcionario de cada municipio"
+    ],
+    "correct": 0,
+    "exp": "Art. 203.1 c): corresponde al Ministerio de Hacienda 'Establecer los libros que, como regla general y con carácter obligatorio, deban llevarse.'",
+    "fuente": "Art. 203.1 c) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 203.1 d) del TRLRHL, corresponde al Ministerio de Hacienda:",
+    "options": [
+      "Determinar la estructura y justificación de las cuentas, estados y demás documentos relativos a la contabilidad pública",
+      "Determinar la estructura orgánica de cada Ayuntamiento",
+      "Fijar las retribuciones del personal eventual",
+      "Aprobar el inventario de bienes de cada entidad local"
+    ],
+    "correct": 0,
+    "exp": "Art. 203.1 d): corresponde al Ministerio de Hacienda 'Determinar la estructura y justificación de las cuentas, estados y demás documentos relativos a la contabilidad pública.'",
+    "fuente": "Art. 203.1 d) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 203.2 del TRLRHL, serán objeto de tratamiento contable simplificado:",
+    "options": [
+      "Aquellas entidades locales cuyas características así lo requieran, fijadas reglamentariamente por el Ministerio de Hacienda",
+      "Todas las entidades locales sin excepción",
+      "Únicamente las Diputaciones Provinciales",
+      "Solo las entidades locales que carezcan de Interventor propio"
+    ],
+    "correct": 0,
+    "exp": "Art. 203.2: 'serán objeto de tratamiento contable simplificado aquellas entidades locales cuyas características así lo requieran y que serán fijadas reglamentariamente por el Ministerio de Hacienda.'",
+    "fuente": "Art. 203.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 204.1 del TRLRHL, corresponde a la Intervención de las entidades locales:",
+    "options": [
+      "Llevar y desarrollar la contabilidad financiera y el seguimiento, en términos financieros, de la ejecución de los presupuestos",
+      "Aprobar definitivamente el presupuesto general",
+      "Fiscalizar externamente las cuentas del Ayuntamiento",
+      "Nombrar a los miembros de la Comisión Especial de Cuentas"
+    ],
+    "correct": 0,
+    "exp": "Art. 204.1: 'A la Intervención de las entidades locales le corresponde llevar y desarrollar la contabilidad financiera y el seguimiento, en términos financieros, de la ejecución de los presupuestos de acuerdo con las normas generales y las dictadas por el Pleno de la corporación.'",
+    "fuente": "Art. 204.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 204.2 del TRLRHL, la Intervención tiene también competencia para:",
+    "options": [
+      "Inspeccionar la contabilidad de los organismos autónomos y de las sociedades mercantiles dependientes de la entidad local, según los procedimientos que establezca el Pleno",
+      "Fijar libremente las retribuciones del personal directivo",
+      "Aprobar las ordenanzas de tráfico del municipio",
+      "Convocar las sesiones del Pleno"
+    ],
+    "correct": 0,
+    "exp": "Art. 204.2: 'Asimismo, competerá a la Intervención la inspección de la contabilidad de los organismos autónomos y de las sociedades mercantiles dependientes de la entidad local, de acuerdo con los procedimientos que establezca el Pleno.'",
+    "fuente": "Art. 204.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 205 c) del TRLRHL, entre los fines de la contabilidad pública local se encuentra:",
+    "options": [
+      "Determinar los resultados analíticos poniendo de manifiesto el coste y rendimiento de los servicios",
+      "Fijar el precio de los bienes patrimoniales enajenables",
+      "Establecer el censo electoral del municipio",
+      "Aprobar el escalafón del personal funcionario"
+    ],
+    "correct": 0,
+    "exp": "Art. 205 c): la contabilidad estará organizada, entre otros fines, para 'Determinar los resultados analíticos poniendo de manifiesto el coste y rendimiento de los servicios.'",
+    "fuente": "Art. 205 c) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 205 e) del TRLRHL, entre los fines de la contabilidad pública local se encuentra:",
+    "options": [
+      "Registrar los movimientos y situación de la tesorería local",
+      "Elaborar el padrón municipal de habitantes",
+      "Tramitar los expedientes sancionadores en materia de tráfico",
+      "Redactar los proyectos de obras municipales"
+    ],
+    "correct": 0,
+    "exp": "Art. 205 e): entre los fines de la contabilidad pública local está 'Registrar los movimientos y situación de la tesorería local.'",
+    "fuente": "Art. 205 e) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 205 g) del TRLRHL, la contabilidad de los entes locales debe, entre otros fines:",
+    "options": [
+      "Facilitar la información necesaria para la confección de estadísticas económico-financieras por parte del Ministerio de Hacienda",
+      "Elaborar directamente las estadísticas de población del INE",
+      "Sustituir a la Cuenta General en los municipios pequeños",
+      "Suprimir la necesidad de rendir cuentas al Tribunal de Cuentas"
+    ],
+    "correct": 0,
+    "exp": "Art. 205 g): entre los fines de la contabilidad local está 'Facilitar la información necesaria para la confección de estadísticas económico-financieras por parte del Ministerio de Hacienda.'",
+    "fuente": "Art. 205 g) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 205 j) del TRLRHL, uno de los fines de la contabilidad pública local es:",
+    "options": [
+      "Posibilitar el ejercicio de los controles de legalidad, financiero y de eficacia",
+      "Fijar el tipo impositivo del IBI",
+      "Aprobar el organigrama municipal",
+      "Convocar los procesos selectivos de personal"
+    ],
+    "correct": 0,
+    "exp": "Art. 205 j): la contabilidad debe 'Posibilitar el ejercicio de los controles de legalidad, financiero y de eficacia.'",
+    "fuente": "Art. 205 j) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 205 k) del TRLRHL, la contabilidad pública local debe posibilitar, entre otros aspectos:",
+    "options": [
+      "El inventario y control del inmovilizado material, inmaterial y financiero, y el control del endeudamiento",
+      "La elaboración de las ordenanzas fiscales",
+      "La convocatoria de las elecciones locales",
+      "El nombramiento del Secretario General del Pleno"
+    ],
+    "correct": 0,
+    "exp": "Art. 205 k): la contabilidad debe 'Posibilitar el inventario y el control del inmovilizado material, inmaterial y financiero, el control del endeudamiento y el seguimiento individualizado de la situación deudora o acreedora de los interesados que se relacionen con la entidad local.'",
+    "fuente": "Art. 205 k) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 207 del TRLRHL, la Intervención de la entidad local remitirá al Pleno, por conducto de la presidencia, información de la ejecución de los presupuestos y del movimiento de la tesorería:",
+    "options": [
+      "En los plazos y con la periodicidad que el Pleno establezca",
+      "Únicamente una vez al año, coincidiendo con la Cuenta General",
+      "Solo cuando lo solicite expresamente el Tribunal de Cuentas",
+      "Cada cuatro años, coincidiendo con el mandato corporativo"
+    ],
+    "correct": 0,
+    "exp": "Art. 207: la Intervención remitirá dicha información al Pleno, por conducto de la presidencia, 'en los plazos y con la periodicidad que el Pleno establezca.'",
+    "fuente": "Art. 207 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 208 del TRLRHL, la cuenta general que forman las entidades locales a la terminación del ejercicio presupuestario pone de manifiesto la gestión realizada en los aspectos:",
+    "options": [
+      "Económico, financiero, patrimonial y presupuestario",
+      "Únicamente el aspecto presupuestario",
+      "Solo el aspecto patrimonial y urbanístico",
+      "Exclusivamente el aspecto tributario"
+    ],
+    "correct": 0,
+    "exp": "Art. 208: 'Las entidades locales, a la terminación del ejercicio presupuestario, formarán la cuenta general que pondrá de manifiesto la gestión realizada en los aspectos económico, financiero, patrimonial y presupuestario.'",
+    "fuente": "Art. 208 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 209.1 c) del TRLRHL, la cuenta general de las entidades locales está integrada por la de la propia entidad, la de los organismos autónomos y:",
+    "options": [
+      "Las de las sociedades mercantiles de capital íntegramente propiedad de las entidades locales",
+      "Las de cualquier empresa privada radicada en el término municipal",
+      "Las de las asociaciones vecinales subvencionadas",
+      "Las de los colegios profesionales del municipio"
+    ],
+    "correct": 0,
+    "exp": "Art. 209.1: la cuenta general estará integrada por a) la de la propia entidad, b) la de los organismos autónomos, y c) 'Las de las sociedades mercantiles de capital íntegramente propiedad de las entidades locales.'",
+    "fuente": "Art. 209.1 c) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 209.2 del TRLRHL, las cuentas de la propia entidad y de los organismos autónomos deben reflejar la situación económico-financiera y patrimonial, los resultados económico-patrimoniales y:",
+    "options": [
+      "La ejecución y liquidación de los presupuestos",
+      "Únicamente el balance consolidado del grupo local",
+      "Solo el resultado de las últimas elecciones municipales",
+      "Exclusivamente el inventario de vehículos oficiales"
+    ],
+    "correct": 0,
+    "exp": "Art. 209.2: dichas cuentas 'reflejarán la situación económico-financiera y patrimonial, los resultados económico-patrimoniales y la ejecución y liquidación de los presupuestos.'",
+    "fuente": "Art. 209.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 209.3 del TRLRHL, las cuentas de las sociedades mercantiles de capital íntegramente local que integran la cuenta general serán, en todo caso:",
+    "options": [
+      "Las que deban elaborarse de acuerdo con la normativa mercantil",
+      "Las mismas que las de la propia entidad local, sin adaptación alguna",
+      "Únicamente un resumen verbal ante el Pleno",
+      "Las aprobadas por el Tribunal de Cuentas con carácter previo"
+    ],
+    "correct": 0,
+    "exp": "Art. 209.3: 'Las cuentas a que se refiere el apartado 1.c) anterior serán, en todo caso, las que deban elaborarse de acuerdo con la normativa mercantil.'",
+    "fuente": "Art. 209.3 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 209.4 del TRLRHL, los estados consolidados que deben acompañar a la Cuenta General se determinan por:",
+    "options": [
+      "El Ministro de Hacienda y Función Pública, en los términos de las normas de consolidación para el sector público local",
+      "Cada entidad local libremente, sin norma común",
+      "El Tribunal de Cuentas, en cada fiscalización concreta",
+      "La Comisión Especial de Cuentas de cada entidad, sin criterio general"
+    ],
+    "correct": 0,
+    "exp": "Art. 209.4: 'Las entidades locales unirán a la Cuenta General los estados consolidados que determine el Ministro de Hacienda y Función Pública, en los términos previstos en las normas de consolidación que apruebe para el sector público local...'",
+    "fuente": "Art. 209.4 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 210 del TRLRHL, el contenido, estructura y normas de elaboración de las cuentas de la propia entidad y de sus organismos autónomos se determinan por:",
+    "options": [
+      "El Ministerio de Hacienda, a propuesta de la Intervención General de la Administración del Estado",
+      "El Pleno de cada Corporación, sin sujeción a norma estatal",
+      "El Tribunal de Cuentas mediante instrucción anual",
+      "Cada Comunidad Autónoma, con carácter exclusivo"
+    ],
+    "correct": 0,
+    "exp": "Art. 210: 'El contenido, estructura y normas de elaboración de las cuentas a que se refieren los párrafos a) y b) del apartado 1 del artículo anterior, se determinarán por el Ministerio de Hacienda, a propuesta de la Intervención General de la Administración del Estado.'",
+    "fuente": "Art. 210 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 211 a) del TRLRHL, los municipios de más de 50.000 habitantes y las demás entidades locales de ámbito superior deben acompañar a la cuenta general:",
+    "options": [
+      "Una memoria justificativa del coste y rendimiento de los servicios públicos",
+      "Un informe favorable del Tribunal Constitucional",
+      "Una certificación bancaria de solvencia municipal",
+      "Un dictamen del Consejo de Estado"
+    ],
+    "correct": 0,
+    "exp": "Art. 211 a): dichas entidades acompañarán a la cuenta general 'Una memoria justificativa del coste y rendimiento de los servicios públicos.'",
+    "fuente": "Art. 211 a) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 211 b) del TRLRHL, junto a la memoria de costes, los municipios de más de 50.000 habitantes deben acompañar a la cuenta general:",
+    "options": [
+      "Una memoria demostrativa del grado en que se hayan cumplido los objetivos programados, con indicación de los previstos y alcanzados y su coste",
+      "Un plan de igualdad actualizado",
+      "Un informe de la Policía Local sobre siniestralidad viaria",
+      "Una memoria sobre el estado de los parques y jardines"
+    ],
+    "correct": 0,
+    "exp": "Art. 211 b): también deben acompañar 'Una memoria demostrativa del grado en que se hayan cumplido los objetivos programados con indicación de los previstos y alcanzados, con su coste.'",
+    "fuente": "Art. 211 b) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 212.1 del TRLRHL, los estados y cuentas de la entidad local serán rendidos por su presidente antes del día:",
+    "options": [
+      "15 de mayo del ejercicio siguiente al que correspondan",
+      "1 de junio del propio ejercicio",
+      "1 de octubre del ejercicio siguiente",
+      "31 de diciembre del propio ejercicio"
+    ],
+    "correct": 0,
+    "exp": "Art. 212.1: 'Los estados y cuentas de la entidad local serán rendidas por su presidente antes del día 15 de mayo del ejercicio siguiente al que correspondan.'",
+    "fuente": "Art. 212.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 212.2 del TRLRHL, la cuenta general formada por la Intervención será sometida antes del día 1 de junio a informe de:",
+    "options": [
+      "La Comisión Especial de Cuentas de la entidad local",
+      "El Tribunal de Cuentas directamente",
+      "El Ministerio de Hacienda",
+      "El Consejo de Ministros"
+    ],
+    "correct": 0,
+    "exp": "Art. 212.2: 'La cuenta general formada por la Intervención será sometida antes del día 1 de junio a informe de la Comisión Especial de Cuentas de la entidad local, que estará constituida por miembros de los distintos grupos políticos integrantes de la corporación.'",
+    "fuente": "Art. 212.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 213 del TRLRHL, las funciones de control interno sobre la gestión económica de las entidades locales se ejercen en las modalidades de función interventora, función de control financiero y:",
+    "options": [
+      "Función de control de la eficacia",
+      "Función de control disciplinario",
+      "Función notarial",
+      "Función de control urbanístico"
+    ],
+    "correct": 0,
+    "exp": "Art. 213: el control interno se ejerce 'en sus modalidades de función interventora, función de control financiero, incluida la auditoría de cuentas de las entidades que se determinen reglamentariamente, y función de control de la eficacia.'",
+    "fuente": "Art. 213 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 213 del TRLRHL, los órganos interventores de las entidades locales remitirán con carácter anual un informe resumen de los resultados de los controles desarrollados en cada ejercicio a:",
+    "options": [
+      "La Intervención General de la Administración del Estado",
+      "El Tribunal Constitucional",
+      "El Defensor del Pueblo",
+      "La Fiscalía Anticorrupción"
+    ],
+    "correct": 0,
+    "exp": "Art. 213 in fine: 'Los órganos interventores de las Entidades Locales remitirán con carácter anual a la Intervención General de la Administración del Estado un informe resumen de los resultados de los citados controles desarrollados en cada ejercicio...'",
+    "fuente": "Art. 213 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 214.1 del TRLRHL, la función interventora tiene por objeto fiscalizar todos los actos de las entidades locales y sus organismos autónomos que den lugar al reconocimiento y liquidación de derechos y obligaciones, así como:",
+    "options": [
+      "Los ingresos y pagos que de aquéllos se deriven y la recaudación, inversión y aplicación de los caudales públicos administrados",
+      "Únicamente los actos de mero trámite sin repercusión económica",
+      "Solo los actos relativos a personal eventual",
+      "Exclusivamente los expedientes de contratación menor"
+    ],
+    "correct": 0,
+    "exp": "Art. 214.1: la función interventora fiscaliza los actos que dan lugar al reconocimiento y liquidación de derechos y obligaciones, 'los ingresos y pagos que de aquéllos se deriven, y la recaudación, inversión y aplicación, en general, de los caudales públicos administrados, con el fin de que la gestión se ajuste a las disposiciones aplicables en cada caso.'",
+    "fuente": "Art. 214.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 214.2 a) del TRLRHL, el ejercicio de la función interventora comprende, en primer lugar:",
+    "options": [
+      "La intervención crítica o previa de todo acto, documento o expediente susceptible de producir derechos u obligaciones de contenido económico o movimiento de fondos de valores",
+      "La intervención material del pago exclusivamente",
+      "La auditoría externa anual de la Cuenta General",
+      "La comprobación material de las inversiones únicamente"
+    ],
+    "correct": 0,
+    "exp": "Art. 214.2 a): el ejercicio de la función interventora comprenderá 'La intervención crítica o previa de todo acto, documento o expediente susceptible de producir derechos u obligaciones de contenido económico o movimiento de fondos de valores.'",
+    "fuente": "Art. 214.2 a) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 215 del TRLRHL, si en el ejercicio de la función interventora el órgano interventor se manifestara en desacuerdo con el fondo o la forma de los actos examinados, deberá formular sus reparos:",
+    "options": [
+      "Por escrito, antes de la adopción del acuerdo o resolución",
+      "Verbalmente, ante el Pleno en sesión pública",
+      "Solo si lo solicita expresamente el Alcalde",
+      "Ante el Tribunal de Cuentas, nunca ante el propio órgano gestor"
+    ],
+    "correct": 0,
+    "exp": "Art. 215: el órgano interventor, en caso de desacuerdo, 'deberá formular sus reparos por escrito antes de la adopción del acuerdo o resolución.'",
+    "fuente": "Art. 215 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 216.1 del TRLRHL, cuando la disconformidad del órgano interventor se refiera al reconocimiento o liquidación de derechos a favor de la entidad local, la oposición se formaliza en nota de reparo que:",
+    "options": [
+      "En ningún caso suspenderá la tramitación del expediente",
+      "Suspende siempre la tramitación hasta su resolución por el Pleno",
+      "Determina automáticamente la nulidad del expediente",
+      "Obliga a repetir el procedimiento desde el inicio"
+    ],
+    "correct": 0,
+    "exp": "Art. 216.1: en ese supuesto, 'la oposición se formalizará en nota de reparo que, en ningún caso, suspenderá la tramitación del expediente.'",
+    "fuente": "Art. 216.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 216.2 a) del TRLRHL, la tramitación del expediente se suspenderá cuando el reparo afecte a la disposición de gastos, reconocimiento de obligaciones u ordenación de pagos, entre otros supuestos, cuando el reparo:",
+    "options": [
+      "Se base en la insuficiencia de crédito o el propuesto no sea adecuado",
+      "Se refiera a cuestiones meramente ortográficas del expediente",
+      "Sea formulado por un funcionario distinto del Interventor titular",
+      "Se produzca fuera del horario de atención al público"
+    ],
+    "correct": 0,
+    "exp": "Art. 216.2 a): la tramitación se suspende, entre otros casos, 'Cuando se base en la insuficiencia de crédito o el propuesto no sea adecuado.'",
+    "fuente": "Art. 216.2 a) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 217.1 del TRLRHL, cuando el órgano al que afecte el reparo no esté de acuerdo con este, corresponde resolver la discrepancia a:",
+    "options": [
+      "El presidente de la entidad local, siendo su resolución ejecutiva y no delegable en ningún caso",
+      "El Secretario General del Pleno, con carácter delegable",
+      "El propio órgano interventor que formuló el reparo",
+      "La Comunidad Autónoma respectiva"
+    ],
+    "correct": 0,
+    "exp": "Art. 217.1: 'corresponderá al presidente de la entidad local resolver la discrepancia, siendo su resolución ejecutiva. Esta facultad no será delegable en ningún caso.'",
+    "fuente": "Art. 217.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 217.2 b) del TRLRHL, corresponderá al Pleno, y no al presidente, la resolución de las discrepancias cuando los reparos se basen en insuficiencia o inadecuación de crédito, o cuando:",
+    "options": [
+      "Se refieran a obligaciones o gastos cuya aprobación sea de competencia del propio Pleno",
+      "Se refieran a gastos de cuantía inferior a mil euros",
+      "Los formule un funcionario interino",
+      "Afecten a contratos ya extinguidos"
+    ],
+    "correct": 0,
+    "exp": "Art. 217.2 b): corresponde al Pleno resolver la discrepancia cuando los reparos 'Se refieran a obligaciones o gastos cuya aprobación sea de su competencia.'",
+    "fuente": "Art. 217.2 b) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 218.1 del TRLRHL, el órgano interventor elevará informe al Pleno de todas las resoluciones adoptadas por el Presidente de la Entidad Local que sean contrarias a los reparos efectuados, así como:",
+    "options": [
+      "Un resumen de las principales anomalías detectadas en materia de ingresos",
+      "Un informe sobre el estado de conservación del patrimonio histórico",
+      "Una relación del personal eventual cesado en el ejercicio",
+      "Un listado de las sanciones de tráfico impuestas"
+    ],
+    "correct": 0,
+    "exp": "Art. 218.1: el órgano interventor eleva al Pleno informe de las resoluciones del Presidente contrarias a los reparos, 'así como un resumen de las principales anomalías detectadas en materia de ingresos.'",
+    "fuente": "Art. 218.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 219.1 del TRLRHL, no estarán sometidos a intervención previa los gastos de material no inventariable, los contratos menores y, entre otros, los gastos periódicos y demás de tracto sucesivo:",
+    "options": [
+      "Una vez intervenido el gasto correspondiente al período inicial del acto o contrato del que deriven o sus modificaciones",
+      "En ningún caso, ya que siempre requieren intervención previa",
+      "Solo si superan los 3.005,06 euros",
+      "Únicamente si lo autoriza expresamente el Tribunal de Cuentas"
+    ],
+    "correct": 0,
+    "exp": "Art. 219.1: quedan excluidos de intervención previa, entre otros, los gastos periódicos y de tracto sucesivo, 'una vez intervenido el gasto correspondiente al período inicial del acto o contrato del que deriven o sus modificaciones.'",
+    "fuente": "Art. 219.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 219.1 del TRLRHL, también quedan excluidos de la intervención previa otros gastos menores de una determinada cuantía que se hagan efectivos a través del sistema de anticipos de caja fija. ¿Cuál es esa cuantía?",
+    "options": [
+      "3.005,06 euros",
+      "6.000 euros",
+      "1.502,53 euros",
+      "15.000 euros"
+    ],
+    "correct": 0,
+    "exp": "Art. 219.1: quedan excluidos, entre otros, 'otros gastos menores de 3.005,06 euros que, de acuerdo con la normativa vigente, se hagan efectivos a través del sistema de anticipos de caja fija.'",
+    "fuente": "Art. 219.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 219.2 a) del TRLRHL, el Pleno puede acordar, a propuesta del presidente y previo informe del órgano interventor, que la intervención previa se limite a comprobar, entre otros extremos, la existencia de crédito presupuestario y:",
+    "options": [
+      "Que el propuesto es el adecuado a la naturaleza del gasto u obligación que se proponga contraer",
+      "Que el gasto haya sido previamente aprobado por el Tribunal de Cuentas",
+      "Que el proveedor esté inscrito en el Registro Mercantil",
+      "Que el gasto se refiera a inversiones financieramente sostenibles"
+    ],
+    "correct": 0,
+    "exp": "Art. 219.2 a): la intervención previa limitada comprueba 'La existencia de crédito presupuestario y que el propuesto es el adecuado a la naturaleza de gasto u obligación que se proponga contraer.'",
+    "fuente": "Art. 219.2 a) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  }
+]);
+
+/* tema 13 · lote 2026-08-11 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 13, [
+  {
+    "q": "Según el art. 169.6 del TRLRHL, cuando el presupuesto queda automáticamente prorrogado por no haber entrado en vigor el nuevo al iniciarse el ejercicio, ¿a qué créditos NO afecta esa prórroga?",
+    "options": [
+      "A los créditos para servicios o programas que deban concluir en el ejercicio anterior o que estén financiados con crédito u otros ingresos específicos o afectados",
+      "A los créditos destinados a gastos de personal funcionario, en todo caso",
+      "A los créditos del capítulo de inversiones reales, sin excepción alguna",
+      "A los créditos que hayan sido objeto de transferencia en el ejercicio anterior"
+    ],
+    "correct": 0,
+    "exp": "Art. 169.6: la prórroga automática del presupuesto 'no afectará a los créditos para servicios o programas que deban concluir en el ejercicio anterior o que estén financiados con crédito u otros ingresos específicos o afectados'.",
+    "fuente": "Art. 169.6 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 169.6 del TRLRHL prevé que la prórroga automática del presupuesto se entiende sin perjuicio de las modificaciones que se realicen conforme a lo dispuesto en los artículos:",
+    "options": [
+      "172, 173 y 174 de la propia ley",
+      "177, 178 y 179 de la propia ley",
+      "162 a 168 de la propia ley",
+      "213 a 223 de la propia ley"
+    ],
+    "correct": 1,
+    "exp": "Art. 169.6: la prórroga opera 'sin perjuicio de las modificaciones que se realicen conforme a lo dispuesto en los artículos 177, 178 y 179 de esta ley y hasta la entrada en vigor del nuevo presupuesto'.",
+    "fuente": "Art. 169.6 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 169.7 del TRLRHL, ¿durante qué período debe hallarse a disposición del público, a efectos informativos, la copia del presupuesto y de sus modificaciones?",
+    "options": [
+      "Durante los 15 días de la exposición pública inicial únicamente",
+      "Solo durante el primer trimestre del ejercicio",
+      "Desde su aprobación definitiva hasta la finalización del ejercicio",
+      "Desde su aprobación inicial hasta su aprobación definitiva"
+    ],
+    "correct": 2,
+    "exp": "Art. 169.7: 'La copia del presupuesto y de sus modificaciones deberá hallarse a disposición del público, a efectos informativos, desde su aprobación definitiva hasta la finalización del ejercicio.'",
+    "fuente": "Art. 169.7 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 170.1 del TRLRHL, los colegios oficiales, cámaras oficiales, sindicatos y asociaciones legalmente constituidas tienen la consideración de interesados para reclamar contra el presupuesto cuando actúen:",
+    "options": [
+      "En representación genérica de cualquier ciudadano, sin necesidad de interés propio",
+      "Exclusivamente por encargo del Ministerio de Hacienda",
+      "Solo si acreditan más de 1.000 asociados inscritos",
+      "En defensa de los intereses profesionales, económicos o vecinales que les son propios"
+    ],
+    "correct": 3,
+    "exp": "Art. 170.1 c): tendrán la consideración de interesados '...cuando actúen en defensa de los que les son propios' (intereses profesionales, económicos y vecinales).",
+    "fuente": "Art. 170.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 170.1 b) del TRLRHL, tienen la consideración de interesados para reclamar contra el presupuesto:",
+    "options": [
+      "Los que resulten directamente afectados, aunque no habiten en el territorio de la entidad local",
+      "Únicamente los habitantes empadronados en el municipio",
+      "Solo los propietarios de bienes inmuebles en el término municipal",
+      "Exclusivamente los funcionarios de la propia entidad local"
+    ],
+    "correct": 0,
+    "exp": "Art. 170.1 b): 'Los que resulten directamente afectados, aunque no habiten en el territorio de la entidad local.'",
+    "fuente": "Art. 170.1 b) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 170.1 del TRLRHL, al enumerar quiénes tienen la consideración de interesados para reclamar contra el presupuesto, se remite expresamente a lo dispuesto en el apartado 1 del artículo anterior. ¿A qué artículo se refiere esa remisión?",
+    "options": [
+      "Al art. 171 (recurso contencioso-administrativo)",
+      "Al art. 169 (publicidad, aprobación definitiva y entrada en vigor)",
+      "Al art. 168 (formación y aprobación inicial del presupuesto)",
+      "Al art. 173 (exigibilidad de las obligaciones)"
+    ],
+    "correct": 1,
+    "exp": "Art. 170.1: 'A los efectos de lo dispuesto en el apartado 1 del artículo anterior, tendrán la consideración de interesados...', remitiéndose al art. 169.1.",
+    "fuente": "Art. 170.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántas causas tasadas para reclamar contra el presupuesto general establece el art. 170.2 del TRLRHL?",
+    "options": [
+      "Dos",
+      "Cuatro",
+      "Tres",
+      "Cinco"
+    ],
+    "correct": 2,
+    "exp": "Art. 170.2 enumera tres causas tasadas, en las letras a), b) y c).",
+    "fuente": "Art. 170.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 170.2 c) del TRLRHL, es causa tasada de reclamación contra el presupuesto:",
+    "options": [
+      "No haber remitido copia a la comunidad autónoma dentro de plazo",
+      "No haberse publicado el anuncio en un diario de máxima difusión",
+      "Haberse superado el límite de gasto no financiero fijado por el Estado",
+      "Ser de manifiesta insuficiencia los ingresos con relación a los gastos presupuestados, o estos respecto a las necesidades para las que estén previstos"
+    ],
+    "correct": 3,
+    "exp": "Art. 170.2 c): '...por ser de manifiesta insuficiencia los ingresos con relación a los gastos presupuestados o bien de estos respecto a las necesidades para las que esté previsto'.",
+    "fuente": "Art. 170.2 c) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 171.1 del TRLRHL, contra la aprobación definitiva del presupuesto general podrá interponerse directamente:",
+    "options": [
+      "Recurso contencioso-administrativo, en la forma y plazos que establecen las normas de dicha jurisdicción",
+      "Recurso de alzada ante el Tribunal de Cuentas",
+      "Recurso de reposición potestativo ante el Pleno",
+      "Recurso extraordinario de revisión ante el Delegado del Gobierno"
+    ],
+    "correct": 0,
+    "exp": "Art. 171.1: 'Contra la aprobación definitiva del presupuesto podrá interponerse directamente recurso contencioso-administrativo, en la forma y plazos que establecen las normas de dicha jurisdicción.'",
+    "fuente": "Art. 171.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 171.2 del TRLRHL, ¿qué órgano debe informar previamente a la resolución del recurso contencioso-administrativo contra el presupuesto cuando la impugnación afecte a la nivelación presupuestaria?",
+    "options": [
+      "El Ministerio de Hacienda",
+      "El Tribunal de Cuentas",
+      "La Intervención General de la Administración del Estado",
+      "El órgano de control económico-financiero de la comunidad autónoma"
+    ],
+    "correct": 1,
+    "exp": "Art. 171.2: 'El Tribunal de Cuentas deberá informar previamente a la resolución del recurso cuando la impugnación afecte o se refiera a la nivelación presupuestaria.'",
+    "fuente": "Art. 171.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 171.3 del TRLRHL, la interposición del recurso contencioso-administrativo contra el presupuesto definitivamente aprobado:",
+    "options": [
+      "Suspende automáticamente su ejecución hasta que haya sentencia firme",
+      "Obliga a tramitar de oficio un nuevo presupuesto prorrogado",
+      "No suspenderá por sí sola la aplicación del presupuesto",
+      "Suspende únicamente la ejecución de los créditos de inversión"
+    ],
+    "correct": 2,
+    "exp": "Art. 171.3: 'La interposición de recursos no suspenderá por sí sola la aplicación del presupuesto definitivamente aprobado por la corporación.'",
+    "fuente": "Art. 171.3 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 172.1 del TRLRHL, los créditos para gastos se destinarán exclusivamente a:",
+    "options": [
+      "Cualquier finalidad que decida el Interventor en cada momento",
+      "La finalidad que fije la Junta de Gobierno Local sin modificación presupuestaria",
+      "La finalidad genérica del capítulo presupuestario, sin mayor concreción",
+      "La finalidad específica para la cual hayan sido autorizados en el presupuesto general o por sus modificaciones debidamente aprobadas"
+    ],
+    "correct": 3,
+    "exp": "Art. 172.1: 'Los créditos para gastos se destinarán exclusivamente a la finalidad específica para la cual hayan sido autorizados en el presupuesto general de la entidad local o por sus modificaciones debidamente aprobadas.'",
+    "fuente": "Art. 172.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 172.2 del TRLRHL, los créditos autorizados en el presupuesto de gastos tienen carácter:",
+    "options": [
+      "Limitativo y vinculante",
+      "Meramente informativo y estimativo",
+      "Ampliable sin restricción alguna",
+      "Discrecional para el órgano gestor del gasto"
+    ],
+    "correct": 0,
+    "exp": "Art. 172.2: 'Los créditos autorizados tienen carácter limitativo y vinculante.'",
+    "fuente": "Art. 172.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 172.2 del TRLRHL, ¿quién determina los niveles de vinculación de los créditos, salvo que reglamentariamente se disponga otra cosa?",
+    "options": [
+      "Cada entidad local libremente en sus bases de ejecución, sin sujeción a norma estatal alguna",
+      "La legislación presupuestaria del Estado",
+      "El Tribunal de Cuentas",
+      "La comunidad autónoma respectiva, en todo caso"
+    ],
+    "correct": 1,
+    "exp": "Art. 172.2: 'Los niveles de vinculación serán los que vengan establecidos en cada momento por la legislación presupuestaria del Estado, salvo que reglamentariamente se disponga otra cosa.'",
+    "fuente": "Art. 172.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 172 del TRLRHL, titulado 'Especialidad y limitación de los créditos', recoge conjuntamente dos principios presupuestarios básicos, que son:",
+    "options": [
+      "El principio de anualidad y el de unidad de caja",
+      "El principio de estabilidad presupuestaria y el de sostenibilidad financiera",
+      "Que los créditos se destinan a una finalidad específica (especialidad) y que tienen carácter limitativo y vinculante (limitación)",
+      "El principio de universalidad presupuestaria y el de transparencia"
+    ],
+    "correct": 2,
+    "exp": "El art. 172.1 establece la especialidad (destino a finalidad específica) y el art. 172.2 la limitación (carácter limitativo y vinculante) de los créditos.",
+    "fuente": "Art. 172.1 y 172.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 173.1 del TRLRHL, las obligaciones de pago solo serán exigibles de la hacienda local cuando resulten de:",
+    "options": [
+      "Un simple acuerdo verbal del Alcalde-Presidente",
+      "La mera consignación presupuestaria, aunque no se haya ejecutado el gasto",
+      "Un informe favorable de la Intervención, sin más requisitos",
+      "La ejecución de sus respectivos presupuestos, con los límites señalados en el artículo anterior, o de sentencia judicial firme"
+    ],
+    "correct": 3,
+    "exp": "Art. 173.1: 'Las obligaciones de pago sólo serán exigibles de la hacienda local cuando resulten de la ejecución de sus respectivos presupuestos, con los límites señalados en el artículo anterior, o de sentencia judicial firme.'",
+    "fuente": "Art. 173.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 173.2 del TRLRHL, los tribunales, jueces y autoridades administrativas no podrán dictar providencias de embargo contra los bienes de la hacienda local, excepto cuando se trate de:",
+    "options": [
+      "Bienes patrimoniales no afectados a un uso o servicio público",
+      "Bienes de dominio público, en todo caso",
+      "Bienes comunales, exclusivamente",
+      "Cualquier bien de la entidad local, sin excepción alguna"
+    ],
+    "correct": 0,
+    "exp": "Art. 173.2: prohíbe despachar mandamientos de ejecución o dictar providencias de embargo contra los bienes de la hacienda local, 'excepto cuando se trate de bienes patrimoniales no afectados a un uso o servicio público'.",
+    "fuente": "Art. 173.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 173.3 del TRLRHL, el cumplimiento de las resoluciones judiciales que determinen obligaciones a cargo de las entidades locales corresponde:",
+    "options": [
+      "Al Tribunal de Cuentas, que ejecuta subsidiariamente",
+      "Exclusivamente a aquéllas, sin perjuicio de las facultades de suspensión o inejecución de sentencias previstas en las leyes",
+      "A la Administración General del Estado, por sustitución automática",
+      "Al juzgado ejecutante, mediante embargo directo de fondos"
+    ],
+    "correct": 1,
+    "exp": "Art. 173.3: el cumplimiento de esas resoluciones 'corresponderá exclusivamente a aquéllas, sin perjuicio de las facultades de suspensión o inejecución de sentencias previstas en las leyes'.",
+    "fuente": "Art. 173.3 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 173.4 del TRLRHL, si para pagar una obligación derivada de una resolución judicial fuera necesario un crédito extraordinario o un suplemento de crédito, ¿a qué órgano debe solicitarse?",
+    "options": [
+      "A la Junta de Gobierno Local",
+      "Al Interventor municipal",
+      "Al Pleno de la corporación",
+      "Al órgano judicial que dictó la resolución"
+    ],
+    "correct": 2,
+    "exp": "Art. 173.4: 'deberá solicitarse del Pleno uno u otro dentro de los tres meses siguientes al día de notificación de la resolución judicial'.",
+    "fuente": "Art. 173.4 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 173.4 del TRLRHL, la solicitud de crédito extraordinario o suplemento de crédito para cumplir una resolución judicial debe formularse dentro de:",
+    "options": [
+      "Los quince días siguientes a la firmeza de la sentencia",
+      "El mes siguiente a la notificación",
+      "El ejercicio presupuestario en curso, sin plazo concreto",
+      "Los tres meses siguientes al día de notificación de la resolución judicial"
+    ],
+    "correct": 3,
+    "exp": "Art. 173.4: la solicitud al Pleno debe hacerse 'dentro de los tres meses siguientes al día de notificación de la resolución judicial'.",
+    "fuente": "Art. 173.4 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 173.6 a) del TRLRHL, la disponibilidad de determinados créditos presupuestarios financiados con aportaciones de terceros queda condicionada, en todo caso, a:",
+    "options": [
+      "La existencia de documentos fehacientes que acrediten compromisos firmes de aportación",
+      "La aprobación previa del Tribunal de Cuentas",
+      "La publicación de la aportación en el Boletín Oficial del Estado",
+      "La ratificación por la comunidad autónoma"
+    ],
+    "correct": 0,
+    "exp": "Art. 173.6 a): condiciona la disponibilidad a 'la existencia de documentos fehacientes que acrediten compromisos firmes de aportación', en caso de ayudas, subvenciones, donaciones u otras cesiones de recursos por terceros.",
+    "fuente": "Art. 173.6 a) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 173.6 b) del TRLRHL, cuando existan previsiones iniciales dentro del capítulo IX del estado de ingresos, la disponibilidad de los créditos correspondientes queda condicionada a:",
+    "options": [
+      "La aprobación de una ordenanza fiscal específica",
+      "La concesión de las autorizaciones previstas en el art. 53 de la propia ley",
+      "El informe favorable del Ministerio de Hacienda",
+      "La celebración de una consulta popular previa"
+    ],
+    "correct": 1,
+    "exp": "Art. 173.6 b): condiciona la disponibilidad a 'la concesión de las autorizaciones previstas en el artículo 53, de conformidad con las reglas contenidas en el capítulo VII del título I de esta ley, en el caso de que existan previsiones iniciales dentro del capítulo IX del estado de ingresos'.",
+    "fuente": "Art. 173.6 b) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 174.1 del TRLRHL, la autorización o realización de los gastos de carácter plurianual se subordinará a:",
+    "options": [
+      "La autorización previa del Tribunal de Cuentas para todo el período",
+      "Un informe vinculante de la Intervención General del Estado",
+      "El crédito que para cada ejercicio autoricen los respectivos presupuestos",
+      "El remanente de tesorería del ejercicio en que se adquiere el compromiso"
+    ],
+    "correct": 2,
+    "exp": "Art. 174.1: 'La autorización o realización de los gastos de carácter plurianual se subordinará al crédito que para cada ejercicio autoricen los respectivos presupuestos.'",
+    "fuente": "Art. 174.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 174.2 del TRLRHL, para poder adquirirse compromisos de gasto que se extiendan a ejercicios posteriores es necesario, entre otros requisitos, que:",
+    "options": [
+      "Se trate siempre de gastos de personal funcionario",
+      "Cuenten con autorización previa del Delegado de Hacienda del Estado",
+      "Se financien exclusivamente con operaciones de crédito a largo plazo",
+      "Su ejecución se inicie en el propio ejercicio en que se autoricen"
+    ],
+    "correct": 3,
+    "exp": "Art. 174.2: 'Podrán adquirirse compromisos por gastos que hayan de extenderse a ejercicios posteriores..., siempre que su ejecución se inicie en el propio ejercicio y que, además, se encuentren en alguno de los casos siguientes...'.",
+    "fuente": "Art. 174.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de los siguientes gastos NO figura entre los supuestos que, según el art. 174.2 del TRLRHL, permiten adquirir compromisos de gasto de carácter plurianual?",
+    "options": [
+      "Los gastos corrientes de personal funcionario de plantilla",
+      "Las inversiones y transferencias de capital",
+      "Los arrendamientos de bienes inmuebles",
+      "Las cargas financieras de las deudas de la entidad local y sus organismos autónomos"
+    ],
+    "correct": 0,
+    "exp": "Art. 174.2 enumera taxativamente: a) inversiones y transferencias de capital; b) determinados contratos; c) arrendamientos de inmuebles; d) cargas financieras de las deudas; e) transferencias corrientes de convenios. Los gastos corrientes de personal no figuran en la lista.",
+    "fuente": "Art. 174.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 174.2 c) del TRLRHL, pueden ser objeto de compromiso de gasto plurianual:",
+    "options": [
+      "Las adquisiciones de bienes muebles de escaso valor",
+      "Los arrendamientos de bienes inmuebles",
+      "Las subvenciones nominativas a asociaciones vecinales",
+      "Los gastos de representación del Alcalde-Presidente"
+    ],
+    "correct": 1,
+    "exp": "Art. 174.2 c): 'Arrendamientos de bienes inmuebles.'",
+    "fuente": "Art. 174.2 c) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 174.2 e) del TRLRHL, pueden dar lugar a compromisos de gasto plurianual las transferencias corrientes que se deriven de:",
+    "options": [
+      "Convenios urbanísticos con promotores privados",
+      "Contratos de obra pública con empresas concesionarias",
+      "Convenios suscritos por las corporaciones locales con otras entidades públicas o privadas sin ánimo de lucro",
+      "Acuerdos de colaboración con partidos políticos"
+    ],
+    "correct": 2,
+    "exp": "Art. 174.2 e): 'Transferencias corrientes que se deriven de convenios suscritos por las corporaciones locales con otras entidades públicas o privadas sin ánimo de lucro.'",
+    "fuente": "Art. 174.2 e) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 174.2 b) del TRLRHL, los contratos de suministro, consultoría, asistencia técnica y científica o prestación de servicios susceptibles de compromiso plurianual se sometían, conforme a la remisión de este precepto, a las normas de:",
+    "options": [
+      "La Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "El Real Decreto 1098/2001, Reglamento General de la LCAP",
+      "La Ley 30/2007, de Contratos del Sector Público",
+      "El Real Decreto Legislativo 2/2000, de 16 de junio, texto refundido de la Ley de Contratos de las Administraciones Públicas"
+    ],
+    "correct": 3,
+    "exp": "Art. 174.2 b) cita expresamente '...sometidos a las normas del Real Decreto Legislativo 2/2000, de 16 de junio, por el que se aprueba el texto refundido de la Ley de Contratos de las Administraciones Públicas...'.",
+    "fuente": "Art. 174.2 b) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 174.3 del TRLRHL, el número de ejercicios a los que pueden aplicarse los gastos de los párrafos a), b) y e) del apartado 2 de este artículo no puede ser superior a:",
+    "options": [
+      "Cuatro",
+      "Dos",
+      "Seis",
+      "Diez"
+    ],
+    "correct": 0,
+    "exp": "Art. 174.3: 'El número de ejercicios a que pueden aplicarse los gastos referidos en los párrafos a), b) y e) del apartado anterior no será superior a cuatro.'",
+    "fuente": "Art. 174.3 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 174.3 del TRLRHL, los porcentajes máximos (70 %, 60 % y 50 %) que limitan el gasto imputable a cada ejercicio futuro se aplican únicamente a los compromisos incluidos en los párrafos:",
+    "options": [
+      "a), b) y e) del apartado 2",
+      "a) y e) del apartado 2",
+      "Todos los párrafos del apartado 2, sin excepción",
+      "Únicamente el párrafo d) del apartado 2"
+    ],
+    "correct": 1,
+    "exp": "Art. 174.3: '...en los casos incluidos en los párrafos a) y e), el gasto que se impute a cada uno de los ejercicios futuros autorizados no podrá exceder...', a diferencia del límite de cuatro ejercicios, que sí alcanza también a la letra b).",
+    "fuente": "Art. 174.3 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 174.4 del TRLRHL, para los programas y proyectos de inversión que taxativamente se especifiquen en las bases de ejecución del presupuesto, pueden adquirirse compromisos de gasto plurianual:",
+    "options": [
+      "Sin ningún límite temporal ni cuantitativo",
+      "Solo hasta el ejercicio inmediatamente siguiente",
+      "Hasta el importe que para cada una de las anualidades se determine",
+      "Únicamente si cuentan con financiación afectada de la Unión Europea"
+    ],
+    "correct": 2,
+    "exp": "Art. 174.4: 'podrán adquirirse compromisos de gastos que hayan de extenderse a ejercicios futuros hasta el importe que para cada una de las anualidades se determine'.",
+    "fuente": "Art. 174.4 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 174.4, párrafo segundo, del TRLRHL, cuando los créditos presupuestarios incluyan proyectos especificados en las bases de ejecución del presupuesto, los porcentajes del art. 174.3 se aplican sobre esos créditos:",
+    "options": [
+      "Sin deducción alguna, sobre el crédito total inicial",
+      "Duplicando el porcentaje ordinario previsto en el apartado 3",
+      "Solo si el Pleno lo autoriza expresamente cada año",
+      "Una vez deducida la anualidad correspondiente a dichos proyectos"
+    ],
+    "correct": 3,
+    "exp": "Art. 174.4: '...los porcentajes a los que se refiere el apartado 3 de este artículo se aplicarán sobre dichos créditos una vez deducida la anualidad correspondiente a dichos proyectos.'",
+    "fuente": "Art. 174.4 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 174.5 del TRLRHL, en casos excepcionales, ¿qué órgano puede ampliar el número de anualidades o elevar los porcentajes del apartado 3 de este artículo?",
+    "options": [
+      "El Pleno de la corporación",
+      "El Interventor municipal",
+      "La Delegación de Hacienda del Estado",
+      "El Tribunal de Cuentas"
+    ],
+    "correct": 0,
+    "exp": "Art. 174.5: 'En casos excepcionales el Pleno de la corporación podrá ampliar el número de anualidades así como elevar los porcentajes a que se refiere el apartado 3 de este artículo.'",
+    "fuente": "Art. 174.5 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 174.6 del TRLRHL, los compromisos de gasto plurianual a que se refiere el apartado 2 de este artículo deberán:",
+    "options": [
+      "Aprobarse mediante ordenanza específica cada ejercicio",
+      "Ser objeto de adecuada e independiente contabilización",
+      "Comunicarse individualmente al Tribunal de Cuentas antes de su ejecución",
+      "Financiarse siempre con operaciones de crédito a largo plazo"
+    ],
+    "correct": 1,
+    "exp": "Art. 174.6: 'Los compromisos a que se refiere el apartado 2 de este artículo deberán ser objeto de adecuada e independiente contabilización.'",
+    "fuente": "Art. 174.6 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 175 del TRLRHL, los créditos para gastos que el último día del ejercicio presupuestario no estén afectados al cumplimiento de obligaciones ya reconocidas:",
+    "options": [
+      "Se incorporarán automáticamente al ejercicio siguiente",
+      "Pasarán a incrementar el remanente de tesorería sin más trámite",
+      "Quedarán anulados de pleno derecho",
+      "Se destinarán de oficio a amortizar deuda pública"
+    ],
+    "correct": 2,
+    "exp": "Art. 175 (Bajas por anulación de créditos): 'Los créditos para gastos que el último día del ejercicio presupuestario no estén afectados al cumplimiento de obligaciones ya reconocidas quedarán anulados de pleno derecho...'.",
+    "fuente": "Art. 175 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 175 del TRLRHL, la anulación de pleno derecho de los créditos no comprometidos al final del ejercicio no tiene más excepciones que las señaladas en:",
+    "options": [
+      "El art. 169 de la propia ley",
+      "El art. 21 de la Ley 47/2003, General Presupuestaria",
+      "El art. 8 de la LO 2/2012, de Estabilidad Presupuestaria",
+      "El art. 182 de la propia ley"
+    ],
+    "correct": 3,
+    "exp": "Art. 175: los créditos no comprometidos 'quedarán anulados de pleno derecho, sin más excepciones que las señaladas en el artículo 182 de esta ley'.",
+    "fuente": "Art. 175 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 176.1 del TRLRHL, con cargo a los créditos del estado de gastos de cada presupuesto solo pueden contraerse obligaciones derivadas de gastos que se realicen:",
+    "options": [
+      "En el año natural del propio ejercicio presupuestario",
+      "En cualquier momento, sin límite temporal",
+      "Dentro de los dos ejercicios siguientes a su consignación",
+      "Exclusivamente en el primer semestre del ejercicio"
+    ],
+    "correct": 0,
+    "exp": "Art. 176.1 (Temporalidad de los créditos): las obligaciones deben derivarse de prestaciones o gastos 'que se realicen en el año natural del propio ejercicio presupuestario'.",
+    "fuente": "Art. 176.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántas excepciones a la regla de temporalidad de los créditos enumera el art. 176.2 del TRLRHL?",
+    "options": [
+      "Una",
+      "Dos",
+      "Tres",
+      "Cuatro"
+    ],
+    "correct": 1,
+    "exp": "Art. 176.2 enumera dos excepciones, en las letras a) y b), a la regla general de temporalidad del apartado 1.",
+    "fuente": "Art. 176.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 176.2 a) del TRLRHL, se aplican a los créditos del presupuesto vigente, en el momento de su reconocimiento, las obligaciones derivadas de:",
+    "options": [
+      "Contratos de obra formalizados en ejercicios futuros",
+      "Subvenciones concedidas por la comunidad autónoma",
+      "La liquidación de atrasos a favor del personal que perciba sus retribuciones con cargo a los presupuestos de la entidad local",
+      "Sanciones tributarias impuestas a la entidad local"
+    ],
+    "correct": 2,
+    "exp": "Art. 176.2 a): '...las que resulten de la liquidación de atrasos a favor del personal que perciba sus retribuciones con cargo a los presupuestos generales de la entidad local.'",
+    "fuente": "Art. 176.2 a) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 176.2 b) del TRLRHL, se aplican a los créditos del presupuesto vigente las obligaciones derivadas de compromisos de gasto debidamente adquiridos en ejercicios anteriores, previa incorporación de los créditos en el supuesto establecido en:",
+    "options": [
+      "El art. 174.6 de la propia ley",
+      "El art. 169.6 de la propia ley",
+      "El art. 21.2 de la Ley 47/2003, General Presupuestaria",
+      "El art. 182.3 de la propia ley"
+    ],
+    "correct": 3,
+    "exp": "Art. 176.2 b): '...las derivadas de compromisos de gastos debidamente adquiridos en ejercicios anteriores, previa incorporación de los créditos en el supuesto establecido en el artículo 182.3.'",
+    "fuente": "Art. 176.2 b) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  }
+]);

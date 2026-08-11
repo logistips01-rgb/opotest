@@ -1,0 +1,606 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 13,
+  "preguntas": [
+    {
+      "q": "Según el art. 169.6 del TRLRHL, cuando el presupuesto queda automáticamente prorrogado por no haber entrado en vigor el nuevo al iniciarse el ejercicio, ¿a qué créditos NO afecta esa prórroga?",
+      "options": [
+        "A los créditos para servicios o programas que deban concluir en el ejercicio anterior o que estén financiados con crédito u otros ingresos específicos o afectados",
+        "A los créditos destinados a gastos de personal funcionario, en todo caso",
+        "A los créditos del capítulo de inversiones reales, sin excepción alguna",
+        "A los créditos que hayan sido objeto de transferencia en el ejercicio anterior"
+      ],
+      "correct": 0,
+      "exp": "Art. 169.6: la prórroga automática del presupuesto 'no afectará a los créditos para servicios o programas que deban concluir en el ejercicio anterior o que estén financiados con crédito u otros ingresos específicos o afectados'.",
+      "fuente": "Art. 169.6 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 169.6 TRLRHL cotejado: 'La prórroga no afectará a los créditos para servicios o programas que deban concluir en el ejercicio anterior o que estén financiados con crédito u otros ingresos específicos o afectados.' Coincide con la opción marcada."
+    },
+    {
+      "q": "El art. 169.6 del TRLRHL prevé que la prórroga automática del presupuesto se entiende sin perjuicio de las modificaciones que se realicen conforme a lo dispuesto en los artículos:",
+      "options": [
+        "172, 173 y 174 de la propia ley",
+        "177, 178 y 179 de la propia ley",
+        "162 a 168 de la propia ley",
+        "213 a 223 de la propia ley"
+      ],
+      "correct": 1,
+      "exp": "Art. 169.6: la prórroga opera 'sin perjuicio de las modificaciones que se realicen conforme a lo dispuesto en los artículos 177, 178 y 179 de esta ley y hasta la entrada en vigor del nuevo presupuesto'.",
+      "fuente": "Art. 169.6 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 169.6 TRLRHL cotejado: '...sin perjuicio de las modificaciones que se realicen conforme a lo dispuesto en los artículos 177, 178 y 179 de esta ley...'. Coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 169.7 del TRLRHL, ¿durante qué período debe hallarse a disposición del público, a efectos informativos, la copia del presupuesto y de sus modificaciones?",
+      "options": [
+        "Durante los 15 días de la exposición pública inicial únicamente",
+        "Solo durante el primer trimestre del ejercicio",
+        "Desde su aprobación definitiva hasta la finalización del ejercicio",
+        "Desde su aprobación inicial hasta su aprobación definitiva"
+      ],
+      "correct": 2,
+      "exp": "Art. 169.7: 'La copia del presupuesto y de sus modificaciones deberá hallarse a disposición del público, a efectos informativos, desde su aprobación definitiva hasta la finalización del ejercicio.'",
+      "fuente": "Art. 169.7 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 169.7 TRLRHL cotejado: 'La copia del presupuesto y de sus modificaciones deberá hallarse a disposición del público, a efectos informativos, desde su aprobación definitiva hasta la finalización del ejercicio.' Coincide."
+    },
+    {
+      "q": "Según el art. 170.1 del TRLRHL, los colegios oficiales, cámaras oficiales, sindicatos y asociaciones legalmente constituidas tienen la consideración de interesados para reclamar contra el presupuesto cuando actúen:",
+      "options": [
+        "En representación genérica de cualquier ciudadano, sin necesidad de interés propio",
+        "Exclusivamente por encargo del Ministerio de Hacienda",
+        "Solo si acreditan más de 1.000 asociados inscritos",
+        "En defensa de los intereses profesionales, económicos o vecinales que les son propios"
+      ],
+      "correct": 3,
+      "exp": "Art. 170.1 c): tendrán la consideración de interesados '...cuando actúen en defensa de los que les son propios' (intereses profesionales, económicos y vecinales).",
+      "fuente": "Art. 170.1 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 170.1 c) TRLRHL cotejado: '...cuando actúen en defensa de los que les son propios' (intereses profesionales, económicos y vecinales). Coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 170.1 b) del TRLRHL, tienen la consideración de interesados para reclamar contra el presupuesto:",
+      "options": [
+        "Los que resulten directamente afectados, aunque no habiten en el territorio de la entidad local",
+        "Únicamente los habitantes empadronados en el municipio",
+        "Solo los propietarios de bienes inmuebles en el término municipal",
+        "Exclusivamente los funcionarios de la propia entidad local"
+      ],
+      "correct": 0,
+      "exp": "Art. 170.1 b): 'Los que resulten directamente afectados, aunque no habiten en el territorio de la entidad local.'",
+      "fuente": "Art. 170.1 b) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 170.1 b) TRLRHL cotejado: 'Los que resulten directamente afectados, aunque no habiten en el territorio de la entidad local.' Coincide."
+    },
+    {
+      "q": "El art. 170.1 del TRLRHL, al enumerar quiénes tienen la consideración de interesados para reclamar contra el presupuesto, se remite expresamente a lo dispuesto en el apartado 1 del artículo anterior. ¿A qué artículo se refiere esa remisión?",
+      "options": [
+        "Al art. 171 (recurso contencioso-administrativo)",
+        "Al art. 169 (publicidad, aprobación definitiva y entrada en vigor)",
+        "Al art. 168 (formación y aprobación inicial del presupuesto)",
+        "Al art. 173 (exigibilidad de las obligaciones)"
+      ],
+      "correct": 1,
+      "exp": "Art. 170.1: 'A los efectos de lo dispuesto en el apartado 1 del artículo anterior, tendrán la consideración de interesados...', remitiéndose al art. 169.1.",
+      "fuente": "Art. 170.1 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 170.1 TRLRHL cotejado: 'A los efectos de lo dispuesto en el apartado 1 del artículo anterior...', y el art. 169 (artículo anterior a 170) se titula 'Publicidad, aprobación definitiva y entrada en vigor'. Coincide."
+    },
+    {
+      "q": "¿Cuántas causas tasadas para reclamar contra el presupuesto general establece el art. 170.2 del TRLRHL?",
+      "options": [
+        "Dos",
+        "Cuatro",
+        "Tres",
+        "Cinco"
+      ],
+      "correct": 2,
+      "exp": "Art. 170.2 enumera tres causas tasadas, en las letras a), b) y c).",
+      "fuente": "Art. 170.2 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 170.2 TRLRHL cotejado: enumera tres causas en las letras a), b) y c). Coincide."
+    },
+    {
+      "q": "Según el art. 170.2 c) del TRLRHL, es causa tasada de reclamación contra el presupuesto:",
+      "options": [
+        "No haber remitido copia a la comunidad autónoma dentro de plazo",
+        "No haberse publicado el anuncio en un diario de máxima difusión",
+        "Haberse superado el límite de gasto no financiero fijado por el Estado",
+        "Ser de manifiesta insuficiencia los ingresos con relación a los gastos presupuestados, o estos respecto a las necesidades para las que estén previstos"
+      ],
+      "correct": 3,
+      "exp": "Art. 170.2 c): '...por ser de manifiesta insuficiencia los ingresos con relación a los gastos presupuestados o bien de estos respecto a las necesidades para las que esté previsto'.",
+      "fuente": "Art. 170.2 c) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 170.2 c) TRLRHL cotejado: '...por ser de manifiesta insuficiencia los ingresos con relación a los gastos presupuestados o bien de estos respecto a las necesidades para las que esté previsto.' Coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 171.1 del TRLRHL, contra la aprobación definitiva del presupuesto general podrá interponerse directamente:",
+      "options": [
+        "Recurso contencioso-administrativo, en la forma y plazos que establecen las normas de dicha jurisdicción",
+        "Recurso de alzada ante el Tribunal de Cuentas",
+        "Recurso de reposición potestativo ante el Pleno",
+        "Recurso extraordinario de revisión ante el Delegado del Gobierno"
+      ],
+      "correct": 0,
+      "exp": "Art. 171.1: 'Contra la aprobación definitiva del presupuesto podrá interponerse directamente recurso contencioso-administrativo, en la forma y plazos que establecen las normas de dicha jurisdicción.'",
+      "fuente": "Art. 171.1 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 171.1 TRLRHL cotejado: 'Contra la aprobación definitiva del presupuesto podrá interponerse directamente recurso contencioso-administrativo, en la forma y plazos que establecen las normas de dicha jurisdicción.' Coincide."
+    },
+    {
+      "q": "Según el art. 171.2 del TRLRHL, ¿qué órgano debe informar previamente a la resolución del recurso contencioso-administrativo contra el presupuesto cuando la impugnación afecte a la nivelación presupuestaria?",
+      "options": [
+        "El Ministerio de Hacienda",
+        "El Tribunal de Cuentas",
+        "La Intervención General de la Administración del Estado",
+        "El órgano de control económico-financiero de la comunidad autónoma"
+      ],
+      "correct": 1,
+      "exp": "Art. 171.2: 'El Tribunal de Cuentas deberá informar previamente a la resolución del recurso cuando la impugnación afecte o se refiera a la nivelación presupuestaria.'",
+      "fuente": "Art. 171.2 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 171.2 TRLRHL cotejado: 'El Tribunal de Cuentas deberá informar previamente a la resolución del recurso cuando la impugnación afecte o se refiera a la nivelación presupuestaria.' Coincide."
+    },
+    {
+      "q": "Según el art. 171.3 del TRLRHL, la interposición del recurso contencioso-administrativo contra el presupuesto definitivamente aprobado:",
+      "options": [
+        "Suspende automáticamente su ejecución hasta que haya sentencia firme",
+        "Obliga a tramitar de oficio un nuevo presupuesto prorrogado",
+        "No suspenderá por sí sola la aplicación del presupuesto",
+        "Suspende únicamente la ejecución de los créditos de inversión"
+      ],
+      "correct": 2,
+      "exp": "Art. 171.3: 'La interposición de recursos no suspenderá por sí sola la aplicación del presupuesto definitivamente aprobado por la corporación.'",
+      "fuente": "Art. 171.3 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 171.3 TRLRHL cotejado: 'La interposición de recursos no suspenderá por sí sola la aplicación del presupuesto definitivamente aprobado por la corporación.' Coincide."
+    },
+    {
+      "q": "Según el art. 172.1 del TRLRHL, los créditos para gastos se destinarán exclusivamente a:",
+      "options": [
+        "Cualquier finalidad que decida el Interventor en cada momento",
+        "La finalidad que fije la Junta de Gobierno Local sin modificación presupuestaria",
+        "La finalidad genérica del capítulo presupuestario, sin mayor concreción",
+        "La finalidad específica para la cual hayan sido autorizados en el presupuesto general o por sus modificaciones debidamente aprobadas"
+      ],
+      "correct": 3,
+      "exp": "Art. 172.1: 'Los créditos para gastos se destinarán exclusivamente a la finalidad específica para la cual hayan sido autorizados en el presupuesto general de la entidad local o por sus modificaciones debidamente aprobadas.'",
+      "fuente": "Art. 172.1 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 172.1 TRLRHL cotejado: 'Los créditos para gastos se destinarán exclusivamente a la finalidad específica para la cual hayan sido autorizados en el presupuesto general de la entidad local o por sus modificaciones debidamente aprobadas.' Coincide."
+    },
+    {
+      "q": "Según el art. 172.2 del TRLRHL, los créditos autorizados en el presupuesto de gastos tienen carácter:",
+      "options": [
+        "Limitativo y vinculante",
+        "Meramente informativo y estimativo",
+        "Ampliable sin restricción alguna",
+        "Discrecional para el órgano gestor del gasto"
+      ],
+      "correct": 0,
+      "exp": "Art. 172.2: 'Los créditos autorizados tienen carácter limitativo y vinculante.'",
+      "fuente": "Art. 172.2 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 172.2 TRLRHL cotejado: 'Los créditos autorizados tienen carácter limitativo y vinculante.' Coincide."
+    },
+    {
+      "q": "Según el art. 172.2 del TRLRHL, ¿quién determina los niveles de vinculación de los créditos, salvo que reglamentariamente se disponga otra cosa?",
+      "options": [
+        "Cada entidad local libremente en sus bases de ejecución, sin sujeción a norma estatal alguna",
+        "La legislación presupuestaria del Estado",
+        "El Tribunal de Cuentas",
+        "La comunidad autónoma respectiva, en todo caso"
+      ],
+      "correct": 1,
+      "exp": "Art. 172.2: 'Los niveles de vinculación serán los que vengan establecidos en cada momento por la legislación presupuestaria del Estado, salvo que reglamentariamente se disponga otra cosa.'",
+      "fuente": "Art. 172.2 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 172.2 TRLRHL cotejado: '...los niveles de vinculación serán los que vengan establecidos en cada momento por la legislación presupuestaria del Estado, salvo que reglamentariamente se disponga otra cosa.' Coincide."
+    },
+    {
+      "q": "El art. 172 del TRLRHL, titulado 'Especialidad y limitación de los créditos', recoge conjuntamente dos principios presupuestarios básicos, que son:",
+      "options": [
+        "El principio de anualidad y el de unidad de caja",
+        "El principio de estabilidad presupuestaria y el de sostenibilidad financiera",
+        "Que los créditos se destinan a una finalidad específica (especialidad) y que tienen carácter limitativo y vinculante (limitación)",
+        "El principio de universalidad presupuestaria y el de transparencia"
+      ],
+      "correct": 2,
+      "exp": "El art. 172.1 establece la especialidad (destino a finalidad específica) y el art. 172.2 la limitación (carácter limitativo y vinculante) de los créditos.",
+      "fuente": "Art. 172.1 y 172.2 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 172 TRLRHL cotejado (título 'Especialidad y limitación de los créditos'): el apdo. 1 fija el destino a finalidad específica (especialidad) y el apdo. 2 el carácter limitativo y vinculante (limitación). Coincide con la síntesis de la opción marcada."
+    },
+    {
+      "q": "Según el art. 173.1 del TRLRHL, las obligaciones de pago solo serán exigibles de la hacienda local cuando resulten de:",
+      "options": [
+        "Un simple acuerdo verbal del Alcalde-Presidente",
+        "La mera consignación presupuestaria, aunque no se haya ejecutado el gasto",
+        "Un informe favorable de la Intervención, sin más requisitos",
+        "La ejecución de sus respectivos presupuestos, con los límites señalados en el artículo anterior, o de sentencia judicial firme"
+      ],
+      "correct": 3,
+      "exp": "Art. 173.1: 'Las obligaciones de pago sólo serán exigibles de la hacienda local cuando resulten de la ejecución de sus respectivos presupuestos, con los límites señalados en el artículo anterior, o de sentencia judicial firme.'",
+      "fuente": "Art. 173.1 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 173.1 TRLRHL cotejado: 'Las obligaciones de pago sólo serán exigibles de la hacienda local cuando resulten de la ejecución de sus respectivos presupuestos, con los límites señalados en el artículo anterior, o de sentencia judicial firme.' Coincide."
+    },
+    {
+      "q": "Según el art. 173.2 del TRLRHL, los tribunales, jueces y autoridades administrativas no podrán dictar providencias de embargo contra los bienes de la hacienda local, excepto cuando se trate de:",
+      "options": [
+        "Bienes patrimoniales no afectados a un uso o servicio público",
+        "Bienes de dominio público, en todo caso",
+        "Bienes comunales, exclusivamente",
+        "Cualquier bien de la entidad local, sin excepción alguna"
+      ],
+      "correct": 0,
+      "exp": "Art. 173.2: prohíbe despachar mandamientos de ejecución o dictar providencias de embargo contra los bienes de la hacienda local, 'excepto cuando se trate de bienes patrimoniales no afectados a un uso o servicio público'.",
+      "fuente": "Art. 173.2 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 173.2 TRLRHL cotejado: '...excepto cuando se trate de bienes patrimoniales no afectados a un uso o servicio público.' Coincide."
+    },
+    {
+      "q": "Según el art. 173.3 del TRLRHL, el cumplimiento de las resoluciones judiciales que determinen obligaciones a cargo de las entidades locales corresponde:",
+      "options": [
+        "Al Tribunal de Cuentas, que ejecuta subsidiariamente",
+        "Exclusivamente a aquéllas, sin perjuicio de las facultades de suspensión o inejecución de sentencias previstas en las leyes",
+        "A la Administración General del Estado, por sustitución automática",
+        "Al juzgado ejecutante, mediante embargo directo de fondos"
+      ],
+      "correct": 1,
+      "exp": "Art. 173.3: el cumplimiento de esas resoluciones 'corresponderá exclusivamente a aquéllas, sin perjuicio de las facultades de suspensión o inejecución de sentencias previstas en las leyes'.",
+      "fuente": "Art. 173.3 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 173.3 TRLRHL cotejado: 'corresponderá exclusivamente a aquéllas, sin perjuicio de las facultades de suspensión o inejecución de sentencias previstas en las leyes.' Coincide."
+    },
+    {
+      "q": "Según el art. 173.4 del TRLRHL, si para pagar una obligación derivada de una resolución judicial fuera necesario un crédito extraordinario o un suplemento de crédito, ¿a qué órgano debe solicitarse?",
+      "options": [
+        "A la Junta de Gobierno Local",
+        "Al Interventor municipal",
+        "Al Pleno de la corporación",
+        "Al órgano judicial que dictó la resolución"
+      ],
+      "correct": 2,
+      "exp": "Art. 173.4: 'deberá solicitarse del Pleno uno u otro dentro de los tres meses siguientes al día de notificación de la resolución judicial'.",
+      "fuente": "Art. 173.4 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 173.4 TRLRHL cotejado: 'deberá solicitarse del Pleno uno u otro dentro de los tres meses siguientes...'. Coincide con la opción marcada (el Pleno)."
+    },
+    {
+      "q": "Según el art. 173.4 del TRLRHL, la solicitud de crédito extraordinario o suplemento de crédito para cumplir una resolución judicial debe formularse dentro de:",
+      "options": [
+        "Los quince días siguientes a la firmeza de la sentencia",
+        "El mes siguiente a la notificación",
+        "El ejercicio presupuestario en curso, sin plazo concreto",
+        "Los tres meses siguientes al día de notificación de la resolución judicial"
+      ],
+      "correct": 3,
+      "exp": "Art. 173.4: la solicitud al Pleno debe hacerse 'dentro de los tres meses siguientes al día de notificación de la resolución judicial'.",
+      "fuente": "Art. 173.4 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 173.4 TRLRHL cotejado: '...dentro de los tres meses siguientes al día de notificación de la resolución judicial.' Coincide."
+    },
+    {
+      "q": "Según el art. 173.6 a) del TRLRHL, la disponibilidad de determinados créditos presupuestarios financiados con aportaciones de terceros queda condicionada, en todo caso, a:",
+      "options": [
+        "La existencia de documentos fehacientes que acrediten compromisos firmes de aportación",
+        "La aprobación previa del Tribunal de Cuentas",
+        "La publicación de la aportación en el Boletín Oficial del Estado",
+        "La ratificación por la comunidad autónoma"
+      ],
+      "correct": 0,
+      "exp": "Art. 173.6 a): condiciona la disponibilidad a 'la existencia de documentos fehacientes que acrediten compromisos firmes de aportación', en caso de ayudas, subvenciones, donaciones u otras cesiones de recursos por terceros.",
+      "fuente": "Art. 173.6 a) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 173.6 a) TRLRHL cotejado: 'La existencia de documentos fehacientes que acrediten compromisos firmes de aportación...'. Coincide."
+    },
+    {
+      "q": "Según el art. 173.6 b) del TRLRHL, cuando existan previsiones iniciales dentro del capítulo IX del estado de ingresos, la disponibilidad de los créditos correspondientes queda condicionada a:",
+      "options": [
+        "La aprobación de una ordenanza fiscal específica",
+        "La concesión de las autorizaciones previstas en el art. 53 de la propia ley",
+        "El informe favorable del Ministerio de Hacienda",
+        "La celebración de una consulta popular previa"
+      ],
+      "correct": 1,
+      "exp": "Art. 173.6 b): condiciona la disponibilidad a 'la concesión de las autorizaciones previstas en el artículo 53, de conformidad con las reglas contenidas en el capítulo VII del título I de esta ley, en el caso de que existan previsiones iniciales dentro del capítulo IX del estado de ingresos'.",
+      "fuente": "Art. 173.6 b) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 173.6 b) TRLRHL cotejado: 'La concesión de las autorizaciones previstas en el artículo 53, de conformidad con las reglas contenidas en el capítulo VII del título I de esta ley, en el caso de que existan previsiones iniciales dentro del capítulo IX del estado de ingresos.' Coincide."
+    },
+    {
+      "q": "Según el art. 174.1 del TRLRHL, la autorización o realización de los gastos de carácter plurianual se subordinará a:",
+      "options": [
+        "La autorización previa del Tribunal de Cuentas para todo el período",
+        "Un informe vinculante de la Intervención General del Estado",
+        "El crédito que para cada ejercicio autoricen los respectivos presupuestos",
+        "El remanente de tesorería del ejercicio en que se adquiere el compromiso"
+      ],
+      "correct": 2,
+      "exp": "Art. 174.1: 'La autorización o realización de los gastos de carácter plurianual se subordinará al crédito que para cada ejercicio autoricen los respectivos presupuestos.'",
+      "fuente": "Art. 174.1 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 174.1 TRLRHL cotejado: 'La autorización o realización de los gastos de carácter plurianual se subordinará al crédito que para cada ejercicio autoricen los respectivos presupuestos.' Coincide."
+    },
+    {
+      "q": "Según el art. 174.2 del TRLRHL, para poder adquirirse compromisos de gasto que se extiendan a ejercicios posteriores es necesario, entre otros requisitos, que:",
+      "options": [
+        "Se trate siempre de gastos de personal funcionario",
+        "Cuenten con autorización previa del Delegado de Hacienda del Estado",
+        "Se financien exclusivamente con operaciones de crédito a largo plazo",
+        "Su ejecución se inicie en el propio ejercicio en que se autoricen"
+      ],
+      "correct": 3,
+      "exp": "Art. 174.2: 'Podrán adquirirse compromisos por gastos que hayan de extenderse a ejercicios posteriores..., siempre que su ejecución se inicie en el propio ejercicio y que, además, se encuentren en alguno de los casos siguientes...'.",
+      "fuente": "Art. 174.2 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 174.2 TRLRHL cotejado: '...siempre que su ejecución se inicie en el propio ejercicio y que, además, se encuentren en alguno de los casos siguientes...'. Coincide."
+    },
+    {
+      "q": "¿Cuál de los siguientes gastos NO figura entre los supuestos que, según el art. 174.2 del TRLRHL, permiten adquirir compromisos de gasto de carácter plurianual?",
+      "options": [
+        "Los gastos corrientes de personal funcionario de plantilla",
+        "Las inversiones y transferencias de capital",
+        "Los arrendamientos de bienes inmuebles",
+        "Las cargas financieras de las deudas de la entidad local y sus organismos autónomos"
+      ],
+      "correct": 0,
+      "exp": "Art. 174.2 enumera taxativamente: a) inversiones y transferencias de capital; b) determinados contratos; c) arrendamientos de inmuebles; d) cargas financieras de las deudas; e) transferencias corrientes de convenios. Los gastos corrientes de personal no figuran en la lista.",
+      "fuente": "Art. 174.2 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 174.2 TRLRHL cotejado: la lista taxativa (a-e) no incluye los gastos corrientes de personal funcionario; la opción marcada como NO incluida es correcta."
+    },
+    {
+      "q": "Según el art. 174.2 c) del TRLRHL, pueden ser objeto de compromiso de gasto plurianual:",
+      "options": [
+        "Las adquisiciones de bienes muebles de escaso valor",
+        "Los arrendamientos de bienes inmuebles",
+        "Las subvenciones nominativas a asociaciones vecinales",
+        "Los gastos de representación del Alcalde-Presidente"
+      ],
+      "correct": 1,
+      "exp": "Art. 174.2 c): 'Arrendamientos de bienes inmuebles.'",
+      "fuente": "Art. 174.2 c) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 174.2 c) TRLRHL cotejado: 'Arrendamientos de bienes inmuebles.' Coincide."
+    },
+    {
+      "q": "Según el art. 174.2 e) del TRLRHL, pueden dar lugar a compromisos de gasto plurianual las transferencias corrientes que se deriven de:",
+      "options": [
+        "Convenios urbanísticos con promotores privados",
+        "Contratos de obra pública con empresas concesionarias",
+        "Convenios suscritos por las corporaciones locales con otras entidades públicas o privadas sin ánimo de lucro",
+        "Acuerdos de colaboración con partidos políticos"
+      ],
+      "correct": 2,
+      "exp": "Art. 174.2 e): 'Transferencias corrientes que se deriven de convenios suscritos por las corporaciones locales con otras entidades públicas o privadas sin ánimo de lucro.'",
+      "fuente": "Art. 174.2 e) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 174.2 e) TRLRHL cotejado: 'Transferencias corrientes que se deriven de convenios suscritos por las corporaciones locales con otras entidades públicas o privadas sin ánimo de lucro.' Coincide."
+    },
+    {
+      "q": "Según el art. 174.2 b) del TRLRHL, los contratos de suministro, consultoría, asistencia técnica y científica o prestación de servicios susceptibles de compromiso plurianual se sometían, conforme a la remisión de este precepto, a las normas de:",
+      "options": [
+        "La Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+        "El Real Decreto 1098/2001, Reglamento General de la LCAP",
+        "La Ley 30/2007, de Contratos del Sector Público",
+        "El Real Decreto Legislativo 2/2000, de 16 de junio, texto refundido de la Ley de Contratos de las Administraciones Públicas"
+      ],
+      "correct": 3,
+      "exp": "Art. 174.2 b) cita expresamente '...sometidos a las normas del Real Decreto Legislativo 2/2000, de 16 de junio, por el que se aprueba el texto refundido de la Ley de Contratos de las Administraciones Públicas...'.",
+      "fuente": "Art. 174.2 b) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 174.2 b) TRLRHL cotejado: '...sometidos a las normas del Real Decreto Legislativo 2/2000, de 16 de junio, por el que se aprueba el texto refundido de la Ley de Contratos de las Administraciones Públicas...'. Coincide literalmente con el texto consolidado vigente."
+    },
+    {
+      "q": "Según el art. 174.3 del TRLRHL, el número de ejercicios a los que pueden aplicarse los gastos de los párrafos a), b) y e) del apartado 2 de este artículo no puede ser superior a:",
+      "options": [
+        "Cuatro",
+        "Dos",
+        "Seis",
+        "Diez"
+      ],
+      "correct": 0,
+      "exp": "Art. 174.3: 'El número de ejercicios a que pueden aplicarse los gastos referidos en los párrafos a), b) y e) del apartado anterior no será superior a cuatro.'",
+      "fuente": "Art. 174.3 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 174.3 TRLRHL cotejado: 'El número de ejercicios a que pueden aplicarse los gastos referidos en los párrafos a), b) y e) del apartado anterior no será superior a cuatro.' Coincide."
+    },
+    {
+      "q": "Según el art. 174.3 del TRLRHL, los porcentajes máximos (70 %, 60 % y 50 %) que limitan el gasto imputable a cada ejercicio futuro se aplican únicamente a los compromisos incluidos en los párrafos:",
+      "options": [
+        "a), b) y e) del apartado 2",
+        "a) y e) del apartado 2",
+        "Todos los párrafos del apartado 2, sin excepción",
+        "Únicamente el párrafo d) del apartado 2"
+      ],
+      "correct": 1,
+      "exp": "Art. 174.3: '...en los casos incluidos en los párrafos a) y e), el gasto que se impute a cada uno de los ejercicios futuros autorizados no podrá exceder...', a diferencia del límite de cuatro ejercicios, que sí alcanza también a la letra b).",
+      "fuente": "Art. 174.3 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 174.3 TRLRHL cotejado: 'en los casos incluidos en los párrafos a) y e), el gasto que se impute a cada uno de los ejercicios futuros...'. Coincide (el límite de 4 ejercicios sí alcanza a a), b) y e), pero los porcentajes solo a a) y e))."
+    },
+    {
+      "q": "Según el art. 174.4 del TRLRHL, para los programas y proyectos de inversión que taxativamente se especifiquen en las bases de ejecución del presupuesto, pueden adquirirse compromisos de gasto plurianual:",
+      "options": [
+        "Sin ningún límite temporal ni cuantitativo",
+        "Solo hasta el ejercicio inmediatamente siguiente",
+        "Hasta el importe que para cada una de las anualidades se determine",
+        "Únicamente si cuentan con financiación afectada de la Unión Europea"
+      ],
+      "correct": 2,
+      "exp": "Art. 174.4: 'podrán adquirirse compromisos de gastos que hayan de extenderse a ejercicios futuros hasta el importe que para cada una de las anualidades se determine'.",
+      "fuente": "Art. 174.4 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 174.4 TRLRHL cotejado: 'podrán adquirirse compromisos de gastos que hayan de extenderse a ejercicios futuros hasta el importe que para cada una de las anualidades se determine.' Coincide."
+    },
+    {
+      "q": "Según el art. 174.4, párrafo segundo, del TRLRHL, cuando los créditos presupuestarios incluyan proyectos especificados en las bases de ejecución del presupuesto, los porcentajes del art. 174.3 se aplican sobre esos créditos:",
+      "options": [
+        "Sin deducción alguna, sobre el crédito total inicial",
+        "Duplicando el porcentaje ordinario previsto en el apartado 3",
+        "Solo si el Pleno lo autoriza expresamente cada año",
+        "Una vez deducida la anualidad correspondiente a dichos proyectos"
+      ],
+      "correct": 3,
+      "exp": "Art. 174.4: '...los porcentajes a los que se refiere el apartado 3 de este artículo se aplicarán sobre dichos créditos una vez deducida la anualidad correspondiente a dichos proyectos.'",
+      "fuente": "Art. 174.4 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 174.4, párrafo segundo, TRLRHL cotejado: '...los porcentajes a los que se refiere el apartado 3 de este artículo se aplicarán sobre dichos créditos una vez deducida la anualidad correspondiente a dichos proyectos.' Coincide."
+    },
+    {
+      "q": "Según el art. 174.5 del TRLRHL, en casos excepcionales, ¿qué órgano puede ampliar el número de anualidades o elevar los porcentajes del apartado 3 de este artículo?",
+      "options": [
+        "El Pleno de la corporación",
+        "El Interventor municipal",
+        "La Delegación de Hacienda del Estado",
+        "El Tribunal de Cuentas"
+      ],
+      "correct": 0,
+      "exp": "Art. 174.5: 'En casos excepcionales el Pleno de la corporación podrá ampliar el número de anualidades así como elevar los porcentajes a que se refiere el apartado 3 de este artículo.'",
+      "fuente": "Art. 174.5 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 174.5 TRLRHL cotejado: 'En casos excepcionales el Pleno de la corporación podrá ampliar el número de anualidades así como elevar los porcentajes a que se refiere el apartado 3 de este artículo.' Coincide."
+    },
+    {
+      "q": "Según el art. 174.6 del TRLRHL, los compromisos de gasto plurianual a que se refiere el apartado 2 de este artículo deberán:",
+      "options": [
+        "Aprobarse mediante ordenanza específica cada ejercicio",
+        "Ser objeto de adecuada e independiente contabilización",
+        "Comunicarse individualmente al Tribunal de Cuentas antes de su ejecución",
+        "Financiarse siempre con operaciones de crédito a largo plazo"
+      ],
+      "correct": 1,
+      "exp": "Art. 174.6: 'Los compromisos a que se refiere el apartado 2 de este artículo deberán ser objeto de adecuada e independiente contabilización.'",
+      "fuente": "Art. 174.6 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 174.6 TRLRHL cotejado: 'Los compromisos a que se refiere el apartado 2 de este artículo deberán ser objeto de adecuada e independiente contabilización.' Coincide."
+    },
+    {
+      "q": "Según el art. 175 del TRLRHL, los créditos para gastos que el último día del ejercicio presupuestario no estén afectados al cumplimiento de obligaciones ya reconocidas:",
+      "options": [
+        "Se incorporarán automáticamente al ejercicio siguiente",
+        "Pasarán a incrementar el remanente de tesorería sin más trámite",
+        "Quedarán anulados de pleno derecho",
+        "Se destinarán de oficio a amortizar deuda pública"
+      ],
+      "correct": 2,
+      "exp": "Art. 175 (Bajas por anulación de créditos): 'Los créditos para gastos que el último día del ejercicio presupuestario no estén afectados al cumplimiento de obligaciones ya reconocidas quedarán anulados de pleno derecho...'.",
+      "fuente": "Art. 175 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 175 TRLRHL cotejado: 'Los créditos para gastos que el último día del ejercicio presupuestario no estén afectados al cumplimiento de obligaciones ya reconocidas quedarán anulados de pleno derecho...'. Coincide."
+    },
+    {
+      "q": "Según el art. 175 del TRLRHL, la anulación de pleno derecho de los créditos no comprometidos al final del ejercicio no tiene más excepciones que las señaladas en:",
+      "options": [
+        "El art. 169 de la propia ley",
+        "El art. 21 de la Ley 47/2003, General Presupuestaria",
+        "El art. 8 de la LO 2/2012, de Estabilidad Presupuestaria",
+        "El art. 182 de la propia ley"
+      ],
+      "correct": 3,
+      "exp": "Art. 175: los créditos no comprometidos 'quedarán anulados de pleno derecho, sin más excepciones que las señaladas en el artículo 182 de esta ley'.",
+      "fuente": "Art. 175 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 175 TRLRHL cotejado: '...sin más excepciones que las señaladas en el artículo 182 de esta ley.' Coincide."
+    },
+    {
+      "q": "Según el art. 176.1 del TRLRHL, con cargo a los créditos del estado de gastos de cada presupuesto solo pueden contraerse obligaciones derivadas de gastos que se realicen:",
+      "options": [
+        "En el año natural del propio ejercicio presupuestario",
+        "En cualquier momento, sin límite temporal",
+        "Dentro de los dos ejercicios siguientes a su consignación",
+        "Exclusivamente en el primer semestre del ejercicio"
+      ],
+      "correct": 0,
+      "exp": "Art. 176.1 (Temporalidad de los créditos): las obligaciones deben derivarse de prestaciones o gastos 'que se realicen en el año natural del propio ejercicio presupuestario'.",
+      "fuente": "Art. 176.1 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 176.1 TRLRHL cotejado: '...que se realicen en el año natural del propio ejercicio presupuestario.' Coincide."
+    },
+    {
+      "q": "¿Cuántas excepciones a la regla de temporalidad de los créditos enumera el art. 176.2 del TRLRHL?",
+      "options": [
+        "Una",
+        "Dos",
+        "Tres",
+        "Cuatro"
+      ],
+      "correct": 1,
+      "exp": "Art. 176.2 enumera dos excepciones, en las letras a) y b), a la regla general de temporalidad del apartado 1.",
+      "fuente": "Art. 176.2 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 176.2 TRLRHL cotejado: enumera dos excepciones en las letras a) y b). Coincide."
+    },
+    {
+      "q": "Según el art. 176.2 a) del TRLRHL, se aplican a los créditos del presupuesto vigente, en el momento de su reconocimiento, las obligaciones derivadas de:",
+      "options": [
+        "Contratos de obra formalizados en ejercicios futuros",
+        "Subvenciones concedidas por la comunidad autónoma",
+        "La liquidación de atrasos a favor del personal que perciba sus retribuciones con cargo a los presupuestos de la entidad local",
+        "Sanciones tributarias impuestas a la entidad local"
+      ],
+      "correct": 2,
+      "exp": "Art. 176.2 a): '...las que resulten de la liquidación de atrasos a favor del personal que perciba sus retribuciones con cargo a los presupuestos generales de la entidad local.'",
+      "fuente": "Art. 176.2 a) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 176.2 a) TRLRHL cotejado: 'Las que resulten de la liquidación de atrasos a favor del personal que perciba sus retribuciones con cargo a los presupuestos generales de la entidad local.' Coincide."
+    },
+    {
+      "q": "Según el art. 176.2 b) del TRLRHL, se aplican a los créditos del presupuesto vigente las obligaciones derivadas de compromisos de gasto debidamente adquiridos en ejercicios anteriores, previa incorporación de los créditos en el supuesto establecido en:",
+      "options": [
+        "El art. 174.6 de la propia ley",
+        "El art. 169.6 de la propia ley",
+        "El art. 21.2 de la Ley 47/2003, General Presupuestaria",
+        "El art. 182.3 de la propia ley"
+      ],
+      "correct": 3,
+      "exp": "Art. 176.2 b): '...las derivadas de compromisos de gastos debidamente adquiridos en ejercicios anteriores, previa incorporación de los créditos en el supuesto establecido en el artículo 182.3.'",
+      "fuente": "Art. 176.2 b) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 176.2 b) TRLRHL cotejado: 'Las derivadas de compromisos de gastos debidamente adquiridos en ejercicios anteriores, previa incorporación de los créditos en el supuesto establecido en el artículo 182.3.' Coincide."
+    }
+  ]
+}

@@ -1,0 +1,616 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 13,
+  "revision": {
+    "norma": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales (TRLRHL)",
+    "fuenteVerificacion": "BOE-A-2004-4214, texto consolidado descargado por curl desde https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214",
+    "fechaRevision": "2026-08-11",
+    "resumen": {
+      "CONFIRMADA": 40,
+      "CORREGIR": 0,
+      "RECHAZADA": 0
+    }
+  },
+  "preguntas": [
+    {
+      "q": "Según el art. 200.1 del TRLRHL, las entidades locales y sus organismos autónomos quedan sometidos, en materia contable, al régimen de:",
+      "options": [
+        "Contabilidad pública, en los términos establecidos en la propia ley",
+        "Contabilidad exclusivamente privada, conforme al Código de Comercio",
+        "Contabilidad simplificada obligatoria en todo caso",
+        "Contabilidad nacional, gestionada directamente por el INE"
+      ],
+      "correct": 0,
+      "exp": "Art. 200.1: 'Las entidades locales y sus organismos autónomos quedan sometidos al régimen de contabilidad pública en los términos establecidos en esta ley.'",
+      "fuente": "Art. 200.1 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 200.1 TRLRHL en el consolidado BOE-A-2004-4214 dice literalmente: 'Las entidades locales y sus organismos autónomos quedan sometidos al régimen de contabilidad pública en los términos establecidos en esta ley.' Coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 200.2 del TRLRHL, las sociedades mercantiles en cuyo capital tengan participación total o mayoritaria las entidades locales:",
+      "options": [
+        "Están igualmente sometidas al régimen de contabilidad pública, sin perjuicio de adaptarse al Código de Comercio y al Plan General de Contabilidad de las empresas españolas",
+        "Quedan excluidas de cualquier régimen de contabilidad pública o mercantil",
+        "Solo se someten a contabilidad pública si su capital es íntegramente local",
+        "Se rigen exclusivamente por la normativa contable de la Unión Europea"
+      ],
+      "correct": 0,
+      "exp": "Art. 200.2: estas sociedades 'estarán igualmente sometidas al régimen de contabilidad pública, sin perjuicio de que se adapten a las disposiciones del Código de Comercio y demás legislación mercantil y al Plan General de Contabilidad vigente para las empresas españolas.'",
+      "fuente": "Art. 200.2 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 200.2 TRLRHL: 'Las sociedades mercantiles en cuyo capital tengan participación total o mayoritaria las entidades locales estarán igualmente sometidas al régimen de contabilidad pública, sin perjuicio de que se adapten a las disposiciones del Código de Comercio y demás legislación mercantil y al Plan General de Contabilidad vigente para las empresas españolas.' Coincide."
+    },
+    {
+      "q": "Según el art. 201 del TRLRHL, la sujeción al régimen de contabilidad pública lleva consigo la obligación de rendir cuentas de las respectivas operaciones, cualquiera que sea su naturaleza, a:",
+      "options": [
+        "El Tribunal de Cuentas",
+        "El Ministerio de Hacienda exclusivamente",
+        "La Comunidad Autónoma respectiva en todo caso",
+        "El Defensor del Pueblo"
+      ],
+      "correct": 0,
+      "exp": "Art. 201: 'La sujeción al régimen de contabilidad pública lleva consigo la obligación de rendir cuentas de las respectivas operaciones, cualquiera que sea su naturaleza, al Tribunal de Cuentas.'",
+      "fuente": "Art. 201 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 201 TRLRHL: 'La sujeción al régimen de contabilidad pública lleva consigo la obligación de rendir cuentas de las respectivas operaciones, cualquiera que sea su naturaleza, al Tribunal de Cuentas.' Coincide."
+    },
+    {
+      "q": "Según el art. 202 del TRLRHL, el ejercicio contable de las entidades locales:",
+      "options": [
+        "Coincidirá con el ejercicio presupuestario",
+        "Coincidirá con el año escolar",
+        "Abarcará un período de dieciocho meses",
+        "Se fija libremente por cada Ayuntamiento en sus bases de ejecución"
+      ],
+      "correct": 0,
+      "exp": "Art. 202: 'El ejercicio contable coincidirá con el ejercicio presupuestario.'",
+      "fuente": "Art. 202 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 202 TRLRHL: 'El ejercicio contable coincidirá con el ejercicio presupuestario.' Coincide."
+    },
+    {
+      "q": "Según el art. 203.1 a) del TRLRHL, corresponde al Ministerio de Hacienda, a propuesta de la Intervención General de la Administración del Estado:",
+      "options": [
+        "Aprobar las normas contables de carácter general a las que deberá ajustarse la organización de la contabilidad de los entes locales y sus organismos autónomos",
+        "Aprobar directamente los presupuestos de cada entidad local",
+        "Nombrar al Interventor de cada Ayuntamiento",
+        "Fijar el tipo de interés de las operaciones de crédito local"
+      ],
+      "correct": 0,
+      "exp": "Art. 203.1 a): corresponde al Ministerio de Hacienda, a propuesta de la IGAE, 'Aprobar las normas contables de carácter general a las que tendrá que ajustarse la organización de la contabilidad de los entes locales y sus organismos autónomos.'",
+      "fuente": "Art. 203.1 a) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 203.1 a) TRLRHL: corresponde al Ministerio de Hacienda, a propuesta de la IGAE, 'Aprobar las normas contables de carácter general a las que tendrá que ajustarse la organización de la contabilidad de los entes locales y sus organismos autónomos.' Coincide (apartado vigente, modificado por Ley 22/2021 solo en la letra b)."
+    },
+    {
+      "q": "Según el art. 203.1 b) del TRLRHL, corresponde al Ministerio de Hacienda:",
+      "options": [
+        "Aprobar la adaptación del Plan General de Contabilidad Pública para las entidades locales y su normativa de desarrollo",
+        "Aprobar el Plan General de Contabilidad de la empresa española en su totalidad",
+        "Aprobar las ordenanzas fiscales de cada municipio",
+        "Determinar el número de concejales de cada Corporación"
+      ],
+      "correct": 0,
+      "exp": "Art. 203.1 b): corresponde al Ministerio de Hacienda 'Aprobar la adaptación del Plan General de Contabilidad Pública para las entidades locales, su normativa de desarrollo y los planes especiales o parciales que se elaboren conforme a la misma...'",
+      "fuente": "Art. 203.1 b) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 203.1 b) TRLRHL, en su redacción vigente (modificada por la disposición final 14 de la Ley 22/2021): 'Aprobar la adaptación del Plan General de Contabilidad Pública para las entidades locales, su normativa de desarrollo y los planes especiales o parciales que se elaboren conforme a la misma...'. La opción resume fielmente el inicio del precepto sin alterar su sentido."
+    },
+    {
+      "q": "Según el art. 203.1 c) del TRLRHL, corresponde al Ministerio de Hacienda:",
+      "options": [
+        "Establecer los libros que, como regla general y con carácter obligatorio, deban llevarse",
+        "Establecer el calendario de cobro de tributos locales",
+        "Aprobar el catálogo de puestos de trabajo de cada entidad local",
+        "Determinar la plantilla de personal funcionario de cada municipio"
+      ],
+      "correct": 0,
+      "exp": "Art. 203.1 c): corresponde al Ministerio de Hacienda 'Establecer los libros que, como regla general y con carácter obligatorio, deban llevarse.'",
+      "fuente": "Art. 203.1 c) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 203.1 c) TRLRHL: 'Establecer los libros que, como regla general y con carácter obligatorio, deban llevarse.' Coincide."
+    },
+    {
+      "q": "Según el art. 203.1 d) del TRLRHL, corresponde al Ministerio de Hacienda:",
+      "options": [
+        "Determinar la estructura y justificación de las cuentas, estados y demás documentos relativos a la contabilidad pública",
+        "Determinar la estructura orgánica de cada Ayuntamiento",
+        "Fijar las retribuciones del personal eventual",
+        "Aprobar el inventario de bienes de cada entidad local"
+      ],
+      "correct": 0,
+      "exp": "Art. 203.1 d): corresponde al Ministerio de Hacienda 'Determinar la estructura y justificación de las cuentas, estados y demás documentos relativos a la contabilidad pública.'",
+      "fuente": "Art. 203.1 d) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 203.1 d) TRLRHL: 'Determinar la estructura y justificación de las cuentas, estados y demás documentos relativos a la contabilidad pública.' Coincide."
+    },
+    {
+      "q": "Según el art. 203.2 del TRLRHL, serán objeto de tratamiento contable simplificado:",
+      "options": [
+        "Aquellas entidades locales cuyas características así lo requieran, fijadas reglamentariamente por el Ministerio de Hacienda",
+        "Todas las entidades locales sin excepción",
+        "Únicamente las Diputaciones Provinciales",
+        "Solo las entidades locales que carezcan de Interventor propio"
+      ],
+      "correct": 0,
+      "exp": "Art. 203.2: 'serán objeto de tratamiento contable simplificado aquellas entidades locales cuyas características así lo requieran y que serán fijadas reglamentariamente por el Ministerio de Hacienda.'",
+      "fuente": "Art. 203.2 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 203.2 TRLRHL: 'serán objeto de tratamiento contable simplificado aquellas entidades locales cuyas características así lo requieran y que serán fijadas reglamentariamente por el Ministerio de Hacienda.' Coincide."
+    },
+    {
+      "q": "Según el art. 204.1 del TRLRHL, corresponde a la Intervención de las entidades locales:",
+      "options": [
+        "Llevar y desarrollar la contabilidad financiera y el seguimiento, en términos financieros, de la ejecución de los presupuestos",
+        "Aprobar definitivamente el presupuesto general",
+        "Fiscalizar externamente las cuentas del Ayuntamiento",
+        "Nombrar a los miembros de la Comisión Especial de Cuentas"
+      ],
+      "correct": 0,
+      "exp": "Art. 204.1: 'A la Intervención de las entidades locales le corresponde llevar y desarrollar la contabilidad financiera y el seguimiento, en términos financieros, de la ejecución de los presupuestos de acuerdo con las normas generales y las dictadas por el Pleno de la corporación.'",
+      "fuente": "Art. 204.1 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 204.1 TRLRHL: 'A la Intervención de las entidades locales le corresponde llevar y desarrollar la contabilidad financiera y el seguimiento, en términos financieros, de la ejecución de los presupuestos...'. Coincide."
+    },
+    {
+      "q": "Según el art. 204.2 del TRLRHL, la Intervención tiene también competencia para:",
+      "options": [
+        "Inspeccionar la contabilidad de los organismos autónomos y de las sociedades mercantiles dependientes de la entidad local, según los procedimientos que establezca el Pleno",
+        "Fijar libremente las retribuciones del personal directivo",
+        "Aprobar las ordenanzas de tráfico del municipio",
+        "Convocar las sesiones del Pleno"
+      ],
+      "correct": 0,
+      "exp": "Art. 204.2: 'Asimismo, competerá a la Intervención la inspección de la contabilidad de los organismos autónomos y de las sociedades mercantiles dependientes de la entidad local, de acuerdo con los procedimientos que establezca el Pleno.'",
+      "fuente": "Art. 204.2 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 204.2 TRLRHL: 'Asimismo, competerá a la Intervención la inspección de la contabilidad de los organismos autónomos y de las sociedades mercantiles dependientes de la entidad local, de acuerdo con los procedimientos que establezca el Pleno.' Coincide."
+    },
+    {
+      "q": "Según el art. 205 c) del TRLRHL, entre los fines de la contabilidad pública local se encuentra:",
+      "options": [
+        "Determinar los resultados analíticos poniendo de manifiesto el coste y rendimiento de los servicios",
+        "Fijar el precio de los bienes patrimoniales enajenables",
+        "Establecer el censo electoral del municipio",
+        "Aprobar el escalafón del personal funcionario"
+      ],
+      "correct": 0,
+      "exp": "Art. 205 c): la contabilidad estará organizada, entre otros fines, para 'Determinar los resultados analíticos poniendo de manifiesto el coste y rendimiento de los servicios.'",
+      "fuente": "Art. 205 c) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 205 c) TRLRHL, entre los fines de la contabilidad: 'Determinar los resultados analíticos poniendo de manifiesto el coste y rendimiento de los servicios.' Coincide."
+    },
+    {
+      "q": "Según el art. 205 e) del TRLRHL, entre los fines de la contabilidad pública local se encuentra:",
+      "options": [
+        "Registrar los movimientos y situación de la tesorería local",
+        "Elaborar el padrón municipal de habitantes",
+        "Tramitar los expedientes sancionadores en materia de tráfico",
+        "Redactar los proyectos de obras municipales"
+      ],
+      "correct": 0,
+      "exp": "Art. 205 e): entre los fines de la contabilidad pública local está 'Registrar los movimientos y situación de la tesorería local.'",
+      "fuente": "Art. 205 e) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 205 e) TRLRHL: 'Registrar los movimientos y situación de la tesorería local.' Coincide."
+    },
+    {
+      "q": "Según el art. 205 g) del TRLRHL, la contabilidad de los entes locales debe, entre otros fines:",
+      "options": [
+        "Facilitar la información necesaria para la confección de estadísticas económico-financieras por parte del Ministerio de Hacienda",
+        "Elaborar directamente las estadísticas de población del INE",
+        "Sustituir a la Cuenta General en los municipios pequeños",
+        "Suprimir la necesidad de rendir cuentas al Tribunal de Cuentas"
+      ],
+      "correct": 0,
+      "exp": "Art. 205 g): entre los fines de la contabilidad local está 'Facilitar la información necesaria para la confección de estadísticas económico-financieras por parte del Ministerio de Hacienda.'",
+      "fuente": "Art. 205 g) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 205 g) TRLRHL: 'Facilitar la información necesaria para la confección de estadísticas económico-financieras por parte del Ministerio de Hacienda.' Coincide."
+    },
+    {
+      "q": "Según el art. 205 j) del TRLRHL, uno de los fines de la contabilidad pública local es:",
+      "options": [
+        "Posibilitar el ejercicio de los controles de legalidad, financiero y de eficacia",
+        "Fijar el tipo impositivo del IBI",
+        "Aprobar el organigrama municipal",
+        "Convocar los procesos selectivos de personal"
+      ],
+      "correct": 0,
+      "exp": "Art. 205 j): la contabilidad debe 'Posibilitar el ejercicio de los controles de legalidad, financiero y de eficacia.'",
+      "fuente": "Art. 205 j) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 205 j) TRLRHL: 'Posibilitar el ejercicio de los controles de legalidad, financiero y de eficacia.' Coincide."
+    },
+    {
+      "q": "Según el art. 205 k) del TRLRHL, la contabilidad pública local debe posibilitar, entre otros aspectos:",
+      "options": [
+        "El inventario y control del inmovilizado material, inmaterial y financiero, y el control del endeudamiento",
+        "La elaboración de las ordenanzas fiscales",
+        "La convocatoria de las elecciones locales",
+        "El nombramiento del Secretario General del Pleno"
+      ],
+      "correct": 0,
+      "exp": "Art. 205 k): la contabilidad debe 'Posibilitar el inventario y el control del inmovilizado material, inmaterial y financiero, el control del endeudamiento y el seguimiento individualizado de la situación deudora o acreedora de los interesados que se relacionen con la entidad local.'",
+      "fuente": "Art. 205 k) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 205 k) TRLRHL: 'Posibilitar el inventario y el control del inmovilizado material, inmaterial y financiero, el control del endeudamiento y el seguimiento individualizado de la situación deudora o acreedora...'. Coincide."
+    },
+    {
+      "q": "Según el art. 207 del TRLRHL, la Intervención de la entidad local remitirá al Pleno, por conducto de la presidencia, información de la ejecución de los presupuestos y del movimiento de la tesorería:",
+      "options": [
+        "En los plazos y con la periodicidad que el Pleno establezca",
+        "Únicamente una vez al año, coincidiendo con la Cuenta General",
+        "Solo cuando lo solicite expresamente el Tribunal de Cuentas",
+        "Cada cuatro años, coincidiendo con el mandato corporativo"
+      ],
+      "correct": 0,
+      "exp": "Art. 207: la Intervención remitirá dicha información al Pleno, por conducto de la presidencia, 'en los plazos y con la periodicidad que el Pleno establezca.'",
+      "fuente": "Art. 207 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 207 TRLRHL: 'La Intervención de la entidad local remitirá al Pleno de la entidad, por conducto de la presidencia, información de la ejecución de los presupuestos y del movimiento de la tesorería... en los plazos y con la periodicidad que el Pleno establezca.' Coincide."
+    },
+    {
+      "q": "Según el art. 208 del TRLRHL, la cuenta general que forman las entidades locales a la terminación del ejercicio presupuestario pone de manifiesto la gestión realizada en los aspectos:",
+      "options": [
+        "Económico, financiero, patrimonial y presupuestario",
+        "Únicamente el aspecto presupuestario",
+        "Solo el aspecto patrimonial y urbanístico",
+        "Exclusivamente el aspecto tributario"
+      ],
+      "correct": 0,
+      "exp": "Art. 208: 'Las entidades locales, a la terminación del ejercicio presupuestario, formarán la cuenta general que pondrá de manifiesto la gestión realizada en los aspectos económico, financiero, patrimonial y presupuestario.'",
+      "fuente": "Art. 208 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 208 TRLRHL: 'Las entidades locales, a la terminación del ejercicio presupuestario, formarán la cuenta general que pondrá de manifiesto la gestión realizada en los aspectos económico, financiero, patrimonial y presupuestario.' Coincide."
+    },
+    {
+      "q": "Según el art. 209.1 c) del TRLRHL, la cuenta general de las entidades locales está integrada por la de la propia entidad, la de los organismos autónomos y:",
+      "options": [
+        "Las de las sociedades mercantiles de capital íntegramente propiedad de las entidades locales",
+        "Las de cualquier empresa privada radicada en el término municipal",
+        "Las de las asociaciones vecinales subvencionadas",
+        "Las de los colegios profesionales del municipio"
+      ],
+      "correct": 0,
+      "exp": "Art. 209.1: la cuenta general estará integrada por a) la de la propia entidad, b) la de los organismos autónomos, y c) 'Las de las sociedades mercantiles de capital íntegramente propiedad de las entidades locales.'",
+      "fuente": "Art. 209.1 c) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 209.1 c) TRLRHL: la cuenta general está integrada por a) la propia entidad, b) organismos autónomos y c) 'Las de las sociedades mercantiles de capital íntegramente propiedad de las entidades locales.' Coincide."
+    },
+    {
+      "q": "Según el art. 209.2 del TRLRHL, las cuentas de la propia entidad y de los organismos autónomos deben reflejar la situación económico-financiera y patrimonial, los resultados económico-patrimoniales y:",
+      "options": [
+        "La ejecución y liquidación de los presupuestos",
+        "Únicamente el balance consolidado del grupo local",
+        "Solo el resultado de las últimas elecciones municipales",
+        "Exclusivamente el inventario de vehículos oficiales"
+      ],
+      "correct": 0,
+      "exp": "Art. 209.2: dichas cuentas 'reflejarán la situación económico-financiera y patrimonial, los resultados económico-patrimoniales y la ejecución y liquidación de los presupuestos.'",
+      "fuente": "Art. 209.2 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 209.2 TRLRHL: dichas cuentas 'reflejarán la situación económico-financiera y patrimonial, los resultados económico-patrimoniales y la ejecución y liquidación de los presupuestos.' Coincide."
+    },
+    {
+      "q": "Según el art. 209.3 del TRLRHL, las cuentas de las sociedades mercantiles de capital íntegramente local que integran la cuenta general serán, en todo caso:",
+      "options": [
+        "Las que deban elaborarse de acuerdo con la normativa mercantil",
+        "Las mismas que las de la propia entidad local, sin adaptación alguna",
+        "Únicamente un resumen verbal ante el Pleno",
+        "Las aprobadas por el Tribunal de Cuentas con carácter previo"
+      ],
+      "correct": 0,
+      "exp": "Art. 209.3: 'Las cuentas a que se refiere el apartado 1.c) anterior serán, en todo caso, las que deban elaborarse de acuerdo con la normativa mercantil.'",
+      "fuente": "Art. 209.3 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 209.3 TRLRHL: 'Las cuentas a que se refiere el apartado 1.c) anterior serán, en todo caso, las que deban elaborarse de acuerdo con la normativa mercantil.' Coincide."
+    },
+    {
+      "q": "Según el art. 209.4 del TRLRHL, los estados consolidados que deben acompañar a la Cuenta General se determinan por:",
+      "options": [
+        "El Ministro de Hacienda y Función Pública, en los términos de las normas de consolidación para el sector público local",
+        "Cada entidad local libremente, sin norma común",
+        "El Tribunal de Cuentas, en cada fiscalización concreta",
+        "La Comisión Especial de Cuentas de cada entidad, sin criterio general"
+      ],
+      "correct": 0,
+      "exp": "Art. 209.4: 'Las entidades locales unirán a la Cuenta General los estados consolidados que determine el Ministro de Hacienda y Función Pública, en los términos previstos en las normas de consolidación que apruebe para el sector público local...'",
+      "fuente": "Art. 209.4 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 209.4 TRLRHL (redacción vigente tras la disposición final 13.1 de la Ley 3/2017): 'Las entidades locales unirán a la Cuenta General los estados consolidados que determine el Ministro de Hacienda y Función Pública, en los términos previstos en las normas de consolidación...'. Coincide."
+    },
+    {
+      "q": "Según el art. 210 del TRLRHL, el contenido, estructura y normas de elaboración de las cuentas de la propia entidad y de sus organismos autónomos se determinan por:",
+      "options": [
+        "El Ministerio de Hacienda, a propuesta de la Intervención General de la Administración del Estado",
+        "El Pleno de cada Corporación, sin sujeción a norma estatal",
+        "El Tribunal de Cuentas mediante instrucción anual",
+        "Cada Comunidad Autónoma, con carácter exclusivo"
+      ],
+      "correct": 0,
+      "exp": "Art. 210: 'El contenido, estructura y normas de elaboración de las cuentas a que se refieren los párrafos a) y b) del apartado 1 del artículo anterior, se determinarán por el Ministerio de Hacienda, a propuesta de la Intervención General de la Administración del Estado.'",
+      "fuente": "Art. 210 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 210 TRLRHL: 'El contenido, estructura y normas de elaboración de las cuentas a que se refieren los párrafos a) y b) del apartado 1 del artículo anterior, se determinarán por el Ministerio de Hacienda, a propuesta de la Intervención General de la Administración del Estado.' Coincide."
+    },
+    {
+      "q": "Según el art. 211 a) del TRLRHL, los municipios de más de 50.000 habitantes y las demás entidades locales de ámbito superior deben acompañar a la cuenta general:",
+      "options": [
+        "Una memoria justificativa del coste y rendimiento de los servicios públicos",
+        "Un informe favorable del Tribunal Constitucional",
+        "Una certificación bancaria de solvencia municipal",
+        "Un dictamen del Consejo de Estado"
+      ],
+      "correct": 0,
+      "exp": "Art. 211 a): dichas entidades acompañarán a la cuenta general 'Una memoria justificativa del coste y rendimiento de los servicios públicos.'",
+      "fuente": "Art. 211 a) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 211 a) TRLRHL: los municipios de más de 50.000 habitantes y demás entidades de ámbito superior acompañarán a la cuenta general 'Una memoria justificativa del coste y rendimiento de los servicios públicos.' Coincide."
+    },
+    {
+      "q": "Según el art. 211 b) del TRLRHL, junto a la memoria de costes, los municipios de más de 50.000 habitantes deben acompañar a la cuenta general:",
+      "options": [
+        "Una memoria demostrativa del grado en que se hayan cumplido los objetivos programados, con indicación de los previstos y alcanzados y su coste",
+        "Un plan de igualdad actualizado",
+        "Un informe de la Policía Local sobre siniestralidad viaria",
+        "Una memoria sobre el estado de los parques y jardines"
+      ],
+      "correct": 0,
+      "exp": "Art. 211 b): también deben acompañar 'Una memoria demostrativa del grado en que se hayan cumplido los objetivos programados con indicación de los previstos y alcanzados, con su coste.'",
+      "fuente": "Art. 211 b) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 211 b) TRLRHL: acompañarán también 'Una memoria demostrativa del grado en que se hayan cumplido los objetivos programados con indicación de los previstos y alcanzados, con su coste.' Coincide."
+    },
+    {
+      "q": "Según el art. 212.1 del TRLRHL, los estados y cuentas de la entidad local serán rendidos por su presidente antes del día:",
+      "options": [
+        "15 de mayo del ejercicio siguiente al que correspondan",
+        "1 de junio del propio ejercicio",
+        "1 de octubre del ejercicio siguiente",
+        "31 de diciembre del propio ejercicio"
+      ],
+      "correct": 0,
+      "exp": "Art. 212.1: 'Los estados y cuentas de la entidad local serán rendidas por su presidente antes del día 15 de mayo del ejercicio siguiente al que correspondan.'",
+      "fuente": "Art. 212.1 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 212.1 TRLRHL (redacción vigente): 'Los estados y cuentas de la entidad local serán rendidas por su presidente antes del día 15 de mayo del ejercicio siguiente al que correspondan.' Coincide."
+    },
+    {
+      "q": "Según el art. 212.2 del TRLRHL, la cuenta general formada por la Intervención será sometida antes del día 1 de junio a informe de:",
+      "options": [
+        "La Comisión Especial de Cuentas de la entidad local",
+        "El Tribunal de Cuentas directamente",
+        "El Ministerio de Hacienda",
+        "El Consejo de Ministros"
+      ],
+      "correct": 0,
+      "exp": "Art. 212.2: 'La cuenta general formada por la Intervención será sometida antes del día 1 de junio a informe de la Comisión Especial de Cuentas de la entidad local, que estará constituida por miembros de los distintos grupos políticos integrantes de la corporación.'",
+      "fuente": "Art. 212.2 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 212.2 TRLRHL: 'La cuenta general formada por la Intervención será sometida antes del día 1 de junio a informe de la Comisión Especial de Cuentas de la entidad local...'. Coincide."
+    },
+    {
+      "q": "Según el art. 213 del TRLRHL, las funciones de control interno sobre la gestión económica de las entidades locales se ejercen en las modalidades de función interventora, función de control financiero y:",
+      "options": [
+        "Función de control de la eficacia",
+        "Función de control disciplinario",
+        "Función notarial",
+        "Función de control urbanístico"
+      ],
+      "correct": 0,
+      "exp": "Art. 213: el control interno se ejerce 'en sus modalidades de función interventora, función de control financiero, incluida la auditoría de cuentas de las entidades que se determinen reglamentariamente, y función de control de la eficacia.'",
+      "fuente": "Art. 213 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 213 TRLRHL (redacción vigente tras Ley 27/2013): el control interno se ejerce 'en sus modalidades de función interventora, función de control financiero, incluida la auditoría de cuentas... y función de control de la eficacia.' Coincide."
+    },
+    {
+      "q": "Según el art. 213 del TRLRHL, los órganos interventores de las entidades locales remitirán con carácter anual un informe resumen de los resultados de los controles desarrollados en cada ejercicio a:",
+      "options": [
+        "La Intervención General de la Administración del Estado",
+        "El Tribunal Constitucional",
+        "El Defensor del Pueblo",
+        "La Fiscalía Anticorrupción"
+      ],
+      "correct": 0,
+      "exp": "Art. 213 in fine: 'Los órganos interventores de las Entidades Locales remitirán con carácter anual a la Intervención General de la Administración del Estado un informe resumen de los resultados de los citados controles desarrollados en cada ejercicio...'",
+      "fuente": "Art. 213 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 213 TRLRHL, párrafo final: 'Los órganos interventores de las Entidades Locales remitirán con carácter anual a la Intervención General de la Administración del Estado un informe resumen de los resultados de los citados controles...'. Coincide."
+    },
+    {
+      "q": "Según el art. 214.1 del TRLRHL, la función interventora tiene por objeto fiscalizar todos los actos de las entidades locales y sus organismos autónomos que den lugar al reconocimiento y liquidación de derechos y obligaciones, así como:",
+      "options": [
+        "Los ingresos y pagos que de aquéllos se deriven y la recaudación, inversión y aplicación de los caudales públicos administrados",
+        "Únicamente los actos de mero trámite sin repercusión económica",
+        "Solo los actos relativos a personal eventual",
+        "Exclusivamente los expedientes de contratación menor"
+      ],
+      "correct": 0,
+      "exp": "Art. 214.1: la función interventora fiscaliza los actos que dan lugar al reconocimiento y liquidación de derechos y obligaciones, 'los ingresos y pagos que de aquéllos se deriven, y la recaudación, inversión y aplicación, en general, de los caudales públicos administrados, con el fin de que la gestión se ajuste a las disposiciones aplicables en cada caso.'",
+      "fuente": "Art. 214.1 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 214.1 TRLRHL: la función interventora fiscaliza los actos de reconocimiento y liquidación de derechos y obligaciones, 'los ingresos y pagos que de aquéllos se deriven, y la recaudación, inversión y aplicación, en general, de los caudales públicos administrados...'. Coincide."
+    },
+    {
+      "q": "Según el art. 214.2 a) del TRLRHL, el ejercicio de la función interventora comprende, en primer lugar:",
+      "options": [
+        "La intervención crítica o previa de todo acto, documento o expediente susceptible de producir derechos u obligaciones de contenido económico o movimiento de fondos de valores",
+        "La intervención material del pago exclusivamente",
+        "La auditoría externa anual de la Cuenta General",
+        "La comprobación material de las inversiones únicamente"
+      ],
+      "correct": 0,
+      "exp": "Art. 214.2 a): el ejercicio de la función interventora comprenderá 'La intervención crítica o previa de todo acto, documento o expediente susceptible de producir derechos u obligaciones de contenido económico o movimiento de fondos de valores.'",
+      "fuente": "Art. 214.2 a) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 214.2 a) TRLRHL: el ejercicio de la función interventora comprende 'La intervención crítica o previa de todo acto, documento o expediente susceptible de producir derechos u obligaciones de contenido económico o movimiento de fondos de valores.' Coincide."
+    },
+    {
+      "q": "Según el art. 215 del TRLRHL, si en el ejercicio de la función interventora el órgano interventor se manifestara en desacuerdo con el fondo o la forma de los actos examinados, deberá formular sus reparos:",
+      "options": [
+        "Por escrito, antes de la adopción del acuerdo o resolución",
+        "Verbalmente, ante el Pleno en sesión pública",
+        "Solo si lo solicita expresamente el Alcalde",
+        "Ante el Tribunal de Cuentas, nunca ante el propio órgano gestor"
+      ],
+      "correct": 0,
+      "exp": "Art. 215: el órgano interventor, en caso de desacuerdo, 'deberá formular sus reparos por escrito antes de la adopción del acuerdo o resolución.'",
+      "fuente": "Art. 215 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 215 TRLRHL: el órgano interventor, en caso de desacuerdo, 'deberá formular sus reparos por escrito antes de la adopción del acuerdo o resolución.' Coincide."
+    },
+    {
+      "q": "Según el art. 216.1 del TRLRHL, cuando la disconformidad del órgano interventor se refiera al reconocimiento o liquidación de derechos a favor de la entidad local, la oposición se formaliza en nota de reparo que:",
+      "options": [
+        "En ningún caso suspenderá la tramitación del expediente",
+        "Suspende siempre la tramitación hasta su resolución por el Pleno",
+        "Determina automáticamente la nulidad del expediente",
+        "Obliga a repetir el procedimiento desde el inicio"
+      ],
+      "correct": 0,
+      "exp": "Art. 216.1: en ese supuesto, 'la oposición se formalizará en nota de reparo que, en ningún caso, suspenderá la tramitación del expediente.'",
+      "fuente": "Art. 216.1 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 216.1 TRLRHL: en ese supuesto, 'la oposición se formalizará en nota de reparo que, en ningún caso, suspenderá la tramitación del expediente.' Coincide."
+    },
+    {
+      "q": "Según el art. 216.2 a) del TRLRHL, la tramitación del expediente se suspenderá cuando el reparo afecte a la disposición de gastos, reconocimiento de obligaciones u ordenación de pagos, entre otros supuestos, cuando el reparo:",
+      "options": [
+        "Se base en la insuficiencia de crédito o el propuesto no sea adecuado",
+        "Se refiera a cuestiones meramente ortográficas del expediente",
+        "Sea formulado por un funcionario distinto del Interventor titular",
+        "Se produzca fuera del horario de atención al público"
+      ],
+      "correct": 0,
+      "exp": "Art. 216.2 a): la tramitación se suspende, entre otros casos, 'Cuando se base en la insuficiencia de crédito o el propuesto no sea adecuado.'",
+      "fuente": "Art. 216.2 a) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 216.2 a) TRLRHL: la tramitación se suspende, entre otros casos, 'Cuando se base en la insuficiencia de crédito o el propuesto no sea adecuado.' Coincide."
+    },
+    {
+      "q": "Según el art. 217.1 del TRLRHL, cuando el órgano al que afecte el reparo no esté de acuerdo con este, corresponde resolver la discrepancia a:",
+      "options": [
+        "El presidente de la entidad local, siendo su resolución ejecutiva y no delegable en ningún caso",
+        "El Secretario General del Pleno, con carácter delegable",
+        "El propio órgano interventor que formuló el reparo",
+        "La Comunidad Autónoma respectiva"
+      ],
+      "correct": 0,
+      "exp": "Art. 217.1: 'corresponderá al presidente de la entidad local resolver la discrepancia, siendo su resolución ejecutiva. Esta facultad no será delegable en ningún caso.'",
+      "fuente": "Art. 217.1 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 217.1 TRLRHL: 'corresponderá al presidente de la entidad local resolver la discrepancia, siendo su resolución ejecutiva. Esta facultad no será delegable en ningún caso.' Coincide."
+    },
+    {
+      "q": "Según el art. 217.2 b) del TRLRHL, corresponderá al Pleno, y no al presidente, la resolución de las discrepancias cuando los reparos se basen en insuficiencia o inadecuación de crédito, o cuando:",
+      "options": [
+        "Se refieran a obligaciones o gastos cuya aprobación sea de competencia del propio Pleno",
+        "Se refieran a gastos de cuantía inferior a mil euros",
+        "Los formule un funcionario interino",
+        "Afecten a contratos ya extinguidos"
+      ],
+      "correct": 0,
+      "exp": "Art. 217.2 b): corresponde al Pleno resolver la discrepancia cuando los reparos 'Se refieran a obligaciones o gastos cuya aprobación sea de su competencia.'",
+      "fuente": "Art. 217.2 b) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 217.2 b) TRLRHL: corresponde al Pleno resolver la discrepancia cuando los reparos 'Se refieran a obligaciones o gastos cuya aprobación sea de su competencia.' Coincide."
+    },
+    {
+      "q": "Según el art. 218.1 del TRLRHL, el órgano interventor elevará informe al Pleno de todas las resoluciones adoptadas por el Presidente de la Entidad Local que sean contrarias a los reparos efectuados, así como:",
+      "options": [
+        "Un resumen de las principales anomalías detectadas en materia de ingresos",
+        "Un informe sobre el estado de conservación del patrimonio histórico",
+        "Una relación del personal eventual cesado en el ejercicio",
+        "Un listado de las sanciones de tráfico impuestas"
+      ],
+      "correct": 0,
+      "exp": "Art. 218.1: el órgano interventor eleva al Pleno informe de las resoluciones del Presidente contrarias a los reparos, 'así como un resumen de las principales anomalías detectadas en materia de ingresos.'",
+      "fuente": "Art. 218.1 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 218.1 TRLRHL: el órgano interventor eleva al Pleno informe de las resoluciones del Presidente contrarias a los reparos, 'así como un resumen de las principales anomalías detectadas en materia de ingresos.' Coincide."
+    },
+    {
+      "q": "Según el art. 219.1 del TRLRHL, no estarán sometidos a intervención previa los gastos de material no inventariable, los contratos menores y, entre otros, los gastos periódicos y demás de tracto sucesivo:",
+      "options": [
+        "Una vez intervenido el gasto correspondiente al período inicial del acto o contrato del que deriven o sus modificaciones",
+        "En ningún caso, ya que siempre requieren intervención previa",
+        "Solo si superan los 3.005,06 euros",
+        "Únicamente si lo autoriza expresamente el Tribunal de Cuentas"
+      ],
+      "correct": 0,
+      "exp": "Art. 219.1: quedan excluidos de intervención previa, entre otros, los gastos periódicos y de tracto sucesivo, 'una vez intervenido el gasto correspondiente al período inicial del acto o contrato del que deriven o sus modificaciones.'",
+      "fuente": "Art. 219.1 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 219.1 TRLRHL: quedan excluidos de intervención previa, entre otros, los gastos periódicos y de tracto sucesivo, 'una vez intervenido el gasto correspondiente al período inicial del acto o contrato del que deriven o sus modificaciones.' Coincide."
+    },
+    {
+      "q": "Según el art. 219.1 del TRLRHL, también quedan excluidos de la intervención previa otros gastos menores de una determinada cuantía que se hagan efectivos a través del sistema de anticipos de caja fija. ¿Cuál es esa cuantía?",
+      "options": [
+        "3.005,06 euros",
+        "6.000 euros",
+        "1.502,53 euros",
+        "15.000 euros"
+      ],
+      "correct": 0,
+      "exp": "Art. 219.1: quedan excluidos, entre otros, 'otros gastos menores de 3.005,06 euros que, de acuerdo con la normativa vigente, se hagan efectivos a través del sistema de anticipos de caja fija.'",
+      "fuente": "Art. 219.1 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 219.1 TRLRHL, inciso final: quedan excluidos también 'otros gastos menores de 3.005,06 euros que, de acuerdo con la normativa vigente, se hagan efectivos a través del sistema de anticipos de caja fija.' Coincide exactamente con la cuantía marcada."
+    },
+    {
+      "q": "Según el art. 219.2 a) del TRLRHL, el Pleno puede acordar, a propuesta del presidente y previo informe del órgano interventor, que la intervención previa se limite a comprobar, entre otros extremos, la existencia de crédito presupuestario y:",
+      "options": [
+        "Que el propuesto es el adecuado a la naturaleza del gasto u obligación que se proponga contraer",
+        "Que el gasto haya sido previamente aprobado por el Tribunal de Cuentas",
+        "Que el proveedor esté inscrito en el Registro Mercantil",
+        "Que el gasto se refiera a inversiones financieramente sostenibles"
+      ],
+      "correct": 0,
+      "exp": "Art. 219.2 a): la intervención previa limitada comprueba 'La existencia de crédito presupuestario y que el propuesto es el adecuado a la naturaleza de gasto u obligación que se proponga contraer.'",
+      "fuente": "Art. 219.2 a) TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 219.2 a) TRLRHL: la intervención previa limitada comprueba 'La existencia de crédito presupuestario y que el propuesto es el adecuado a la naturaleza de gasto u obligación que se proponga contraer.' Coincide."
+    }
+  ]
+}
