@@ -35,7 +35,7 @@
       // el primero es el banco base; tools/fusionar.js añade aquí
       // los archivos de ampliación cuando los crea
       files:['data/policia-local-zaragoza.js'],
-      preguntas:64
+      preguntas:1168
     },
     {
       slug:'policia-nacional',

@@ -6,6 +6,46 @@ un tema por tanda y con parada entre temas.
 El tema 21 queda **fuera del objetivo**: reproduce el examen oficial del
 1-jun-2025 y rellenarlo con preguntas generadas destruiría lo que lo hace útil.
 
+## Policía Local Zaragoza · importación cruzada desde el atasco de 3 opciones de Aux. Admin. (11-ago-2026)
+
+El examen de Policía Local Zaragoza resultó ser de **3 opciones**
+(confirmado en `tools/temarios/policia-local-zaragoza.md`, base 8.4.C de las
+bases generales TRBGTL). Esto convierte en aprovechable, sin tocar nada, el
+contenido que quedó parado en Auxiliar Administrativo tras el error de
+opciones: 1.104 preguntas de los temas 16-20 de esa oposición ya estaban
+redactadas y revisadas en 3 opciones (solo eran "inválidas" para Auxiliar,
+que necesita 4 — para Policía Local son perfectas tal cual).
+
+Con `tools/importar-3opc-a-policia.js` (extrae y reparte por artículo citado)
+y `tools/aplicar-importacion-policia.js` (reescribe el banco), se trasladaron
+sin generar ni revisar nada nuevo:
+
+| Origen (aux-admin-zaragoza) | Preguntas | Destino (policia-local-zaragoza) |
+|---|---|---|
+| Tema 16 · Reglamentos y ordenanzas | 40 | Tema 6 · Bienes EL y reglamentos/ordenanzas |
+| Tema 17 · Empleados públicos I (TREBEP Tít. II-V) | 340 | Repartidas por artículo: T8 (clases, Tít. II y V), T9 (derechos/deberes, Tít. III), T10 (adquisición/pérdida, Tít. IV) |
+| Tema 18 · Empleados públicos II (situaciones/disciplinario) | 241 | T9 (disciplinario, arts. 93-98) y T10 (situaciones, RD 365/1995 y arts. 85-92) |
+| Tema 19 · Empleados públicos III (función pública local) | 243 | Tema 8 (íntegro; es el tema que en Policía cubre "el personal al servicio de las corporaciones locales") |
+| Tema 20 · Prevención de Riesgos Laborales | 240 | Tema 10 (coincide literalmente con el enunciado de ese tema en Policía) |
+
+**Total importado: 1.104 preguntas** (0 duplicados con lo que ya había).
+Banco de Policía Local: de 64 a **1.168 preguntas**.
+
+El banco de Auxiliar Administrativo **no se ha tocado**: sigue con sus 166
+preguntas de 4 opciones (las ya recuperadas) intactas y sus ~1.104 preguntas
+de 3 opciones de los temas 16-20 igual de "atascadas" que antes — esta
+importación las copia, no las mueve. Cuando llegue la pasada de "añadir
+cuarta opción" para Auxiliar, no afecta a lo ya copiado a Policía Local.
+
+Aviso de calidad: el reparto por artículo (temas 17 y 18) es fiable porque
+usa la cita `fuente`; el de los temas 16, 19 y 20 es "en bloque" (todo el
+tema a un único destino), así que alguna pregunta suelta puede encajar mejor
+en un tema de Policía distinto del asignado (p. ej., alguna de disciplina de
+funcionarios con habilitación nacional del tema 19 quedó en el tema 8 en
+lugar del 9). No se ha revisado pregunta a pregunta el encaje fino, solo el
+patrón general — más una pasada de repaso si se detectan casos claramente
+descolocados.
+
 ## Tema 13 · Haciendas Locales II: presupuesto, gasto público, tesorería, contabilidad y control — PRIMERA VUELTA CERRADA
 
 **340 preguntas** (de 100 que había), todas de 4 opciones. Seis lotes de 40,
