@@ -16093,3 +16093,449 @@ window.addQuestions('aux-admin-zaragoza', 15, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 14 · lote 2026-08-11 · 34 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 14, [
+  {
+    "q": "Según el art. 121.1 LBRL, ¿a partir de qué población se aplica el régimen de organización de los municipios de gran población a un municipio, sin necesidad de ningún otro requisito adicional?",
+    "options": [
+      "100.000 habitantes",
+      "150.000 habitantes",
+      "250.000 habitantes",
+      "500.000 habitantes"
+    ],
+    "correct": 2,
+    "exp": "El art. 121.1.a) LBRL establece la aplicación de este título a los municipios cuya población supere los 250.000 habitantes, sin exigir ningún requisito adicional (a diferencia de los demás supuestos del artículo).",
+    "fuente": "Art. 121.1.a) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 121.1.d) LBRL, ¿a partir de qué cifra de población puede aplicarse este título a un municipio con circunstancias económicas, sociales, históricas o culturales especiales, si así lo decide la Asamblea Legislativa correspondiente?",
+    "options": [
+      "50.000 habitantes",
+      "75.000 habitantes",
+      "100.000 habitantes",
+      "125.000 habitantes"
+    ],
+    "correct": 1,
+    "exp": "El art. 121.1.d) LBRL prevé la aplicación del título a los municipios que superen los 75.000 habitantes con circunstancias económicas, sociales, históricas o culturales especiales, exigiéndose la decisión de la Asamblea Legislativa a iniciativa del ayuntamiento.",
+    "fuente": "Art. 121.1.d) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando un municipio alcanza, según la revisión del padrón, la población requerida para la aplicación del Título X LBRL, ¿de qué plazo máximo dispone la nueva corporación desde su constitución para adaptar su organización?",
+    "options": [
+      "Tres meses",
+      "Seis meses",
+      "Un año",
+      "Dos años"
+    ],
+    "correct": 1,
+    "exp": "El art. 121.2 LBRL establece un plazo máximo de seis meses desde la constitución de la nueva corporación para adaptar su organización al contenido del Título X.",
+    "fuente": "Art. 121.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 122.1 LBRL, el Pleno de los municipios de gran población está formado por:",
+    "options": [
+      "El Alcalde, los Concejales y el Secretario general",
+      "El Alcalde y los Concejales",
+      "Los Concejales y los titulares de los órganos directivos",
+      "El Alcalde, los Tenientes de Alcalde y los Concejales"
+    ],
+    "correct": 1,
+    "exp": "El art. 122.1 LBRL define el Pleno como el órgano formado por el Alcalde y los Concejales, órgano de máxima representación política de los ciudadanos en el gobierno municipal.",
+    "fuente": "Art. 122.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 122.3 LBRL, el reglamento que se dote el Pleno tendrá la naturaleza de:",
+    "options": [
+      "Reglamento ejecutivo",
+      "Reglamento orgánico",
+      "Ordenanza municipal",
+      "Instrucción interna"
+    ],
+    "correct": 1,
+    "exp": "El art. 122.3 LBRL establece que el Pleno se dotará de su propio reglamento, que tendrá la naturaleza de orgánico.",
+    "fuente": "Art. 122.3 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 122.5 LBRL, ¿a quién corresponde el asesoramiento legal al Pleno y a las comisiones en los municipios de gran población?",
+    "options": [
+      "Al titular de la asesoría jurídica municipal",
+      "Al secretario general del Pleno",
+      "Al interventor general municipal",
+      "Al concejal-secretario de la Junta de Gobierno Local"
+    ],
+    "correct": 1,
+    "exp": "El art. 122.5.e) LBRL atribuye al secretario general del Pleno el asesoramiento legal al Pleno y a las comisiones, siendo preceptivo en determinados supuestos tasados en el propio precepto.",
+    "fuente": "Art. 122.5.e) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 123.1.b) LBRL, la votación de la moción de censura al Alcalde en los municipios de gran población:",
+    "options": [
+      "Será secreta y se realizará mediante papeleta",
+      "Será pública y se realizará mediante llamamiento nominal en todo caso",
+      "Se decidirá por el Alcalde con voto de calidad",
+      "Se delegará en la Junta de Gobierno Local"
+    ],
+    "correct": 1,
+    "exp": "El art. 123.1.b) LBRL dispone que la votación de la moción de censura al Alcalde y de la cuestión de confianza será pública y se realizará mediante llamamiento nominal en todo caso.",
+    "fuente": "Art. 123.1.b) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué mayoría exige el art. 123.2 LBRL para la aprobación de los reglamentos de naturaleza orgánica por el Pleno de un municipio de gran población?",
+    "options": [
+      "Mayoría simple",
+      "Mayoría absoluta del número legal de miembros",
+      "Dos tercios del número legal de miembros",
+      "Unanimidad"
+    ],
+    "correct": 1,
+    "exp": "El art. 123.2 LBRL requiere el voto favorable de la mayoría absoluta del número legal de miembros del Pleno para la adopción, entre otros, de los acuerdos de aprobación de reglamentos orgánicos (párrafo c).",
+    "fuente": "Art. 123.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 124.3 LBRL, ¿qué tratamiento tendrá el Alcalde en un municipio de gran población?",
+    "options": [
+      "Ilustrísima",
+      "Señoría",
+      "Excelencia",
+      "Excelentísima"
+    ],
+    "correct": 2,
+    "exp": "El art. 124.3 LBRL establece que el Alcalde tendrá el tratamiento de Excelencia.",
+    "fuente": "Art. 124.3 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el art. 124.4.j) LBRL, ¿qué función corresponde en particular al Alcalde de un municipio de gran población?",
+    "options": [
+      "La Jefatura de la Policía Municipal",
+      "La presidencia de la Comisión Especial de Sugerencias y Reclamaciones",
+      "La aprobación de la relación de puestos de trabajo",
+      "La designación del Secretario general del Pleno"
+    ],
+    "correct": 0,
+    "exp": "El art. 124.4.j) LBRL atribuye al Alcalde la Jefatura de la Policía Municipal, entre las funciones que se le reservan en particular.",
+    "fuente": "Art. 124.4.j) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 125.1 LBRL, ¿entre quiénes puede el Alcalde nombrar a los Tenientes de Alcalde en un municipio de gran población?",
+    "options": [
+      "Entre cualquier concejal, sea o no miembro de la Junta de Gobierno Local",
+      "Entre los concejales que formen parte de la Junta de Gobierno Local",
+      "Entre los funcionarios de habilitación nacional",
+      "Entre los titulares de los órganos directivos"
+    ],
+    "correct": 1,
+    "exp": "El art. 125.1 LBRL dispone que el Alcalde podrá nombrar entre los concejales que formen parte de la Junta de Gobierno Local a los Tenientes de Alcalde, que le sustituirán por el orden de su nombramiento en los casos de vacante, ausencia o enfermedad.",
+    "fuente": "Art. 125.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 126.2 LBRL, el número de miembros de la Junta de Gobierno Local, además del Alcalde, no podrá exceder de:",
+    "options": [
+      "Un cuarto del número legal de miembros del Pleno",
+      "Un tercio del número legal de miembros del Pleno",
+      "La mitad del número legal de miembros del Pleno",
+      "Dos tercios del número legal de miembros del Pleno"
+    ],
+    "correct": 1,
+    "exp": "El art. 126.2 LBRL atribuye al Alcalde nombrar y separar libremente a los miembros de la Junta de Gobierno Local, cuyo número no podrá exceder de un tercio del número legal de miembros del Pleno, además del Alcalde.",
+    "fuente": "Art. 126.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 126.3 LBRL, ¿ante quién responde políticamente la Junta de Gobierno Local de su gestión?",
+    "options": [
+      "Ante el Alcalde",
+      "Ante el Pleno, de forma solidaria",
+      "Ante el Consejo Social de la Ciudad",
+      "Ante la Comisión Especial de Sugerencias y Reclamaciones"
+    ],
+    "correct": 1,
+    "exp": "El art. 126.3 LBRL establece que la Junta de Gobierno Local responde políticamente ante el Pleno de su gestión de forma solidaria, sin perjuicio de la responsabilidad directa de cada uno de sus miembros por su gestión.",
+    "fuente": "Art. 126.3 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 127.1.h) LBRL, la composición de los tribunales de oposiciones en los municipios de gran población será:",
+    "options": [
+      "Exclusivamente política",
+      "Predominantemente técnica",
+      "Mixta a partes iguales",
+      "Determinada libremente por el Alcalde"
+    ],
+    "correct": 1,
+    "exp": "El art. 127.1.h) LBRL establece que la composición de los tribunales de oposiciones será predominantemente técnica, debiendo poseer todos sus miembros un nivel de titulación igual o superior al exigido para el ingreso en las plazas convocadas.",
+    "fuente": "Art. 127.1.h) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 127.1.i) LBRL, ¿a quién corresponde el nombramiento y cese de los titulares de los órganos directivos de la Administración municipal, sin perjuicio de lo dispuesto para los funcionarios con habilitación de carácter nacional?",
+    "options": [
+      "Al Pleno",
+      "Al Alcalde en exclusiva",
+      "A la Junta de Gobierno Local",
+      "Al Consejo Social de la Ciudad"
+    ],
+    "correct": 2,
+    "exp": "El art. 127.1.i) LBRL atribuye a la Junta de Gobierno Local el nombramiento y el cese de los titulares de los órganos directivos de la Administración municipal.",
+    "fuente": "Art. 127.1.i) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 128.3 LBRL, ¿a quién corresponde en todo caso la presidencia de un distrito?",
+    "options": [
+      "A un funcionario de habilitación nacional",
+      "A un concejal",
+      "Al vecino de mayor edad del distrito",
+      "Al titular del órgano directivo del área"
+    ],
+    "correct": 1,
+    "exp": "El art. 128.3 LBRL establece que la presidencia del distrito corresponderá en todo caso a un concejal.",
+    "fuente": "Art. 128.3 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 130.1 LBRL, ¿cuáles de los siguientes son órganos superiores municipales en un municipio de gran población?",
+    "options": [
+      "El Alcalde y los miembros de la Junta de Gobierno Local",
+      "El Secretario general del Pleno y el interventor general",
+      "Los coordinadores generales y los directores generales",
+      "El titular de la asesoría jurídica y el titular del órgano de gestión tributaria"
+    ],
+    "correct": 0,
+    "exp": "El art. 130.1.A) LBRL enumera como órganos superiores al Alcalde y a los miembros de la Junta de Gobierno Local, distinguiéndolos de los órganos directivos enumerados en el apartado B).",
+    "fuente": "Art. 130.1.A) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 130.1.B) LBRL, ¿cuál de los siguientes es un órgano directivo municipal en un municipio de gran población?",
+    "options": [
+      "El Alcalde",
+      "Los miembros de la Junta de Gobierno Local",
+      "El interventor general municipal",
+      "El Pleno"
+    ],
+    "correct": 2,
+    "exp": "El art. 130.1.B).f) LBRL incluye entre los órganos directivos al interventor general municipal, junto con los coordinadores generales, los directores generales, el titular del órgano de apoyo a la Junta de Gobierno Local, el titular de la asesoría jurídica y el Secretario general del Pleno.",
+    "fuente": "Art. 130.1.B).f) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 132.1 LBRL, ¿qué órgano crea el Pleno para la defensa de los derechos de los vecinos ante la Administración municipal?",
+    "options": [
+      "El Consejo Social de la Ciudad",
+      "La Comisión Especial de Sugerencias y Reclamaciones",
+      "El Defensor del Vecino",
+      "El órgano de gestión tributaria"
+    ],
+    "correct": 1,
+    "exp": "El art. 132.1 LBRL dispone que, para la defensa de los derechos de los vecinos ante la Administración municipal, el Pleno creará una Comisión especial de Sugerencias y Reclamaciones, cuyo funcionamiento se regulará en normas de carácter orgánico.",
+    "fuente": "Art. 132.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 133 LBRL, ¿cuál de los siguientes es uno de los criterios a los que debe ajustarse la gestión económico-financiera en los municipios de gran población?",
+    "options": [
+      "La unificación de las funciones de contabilidad y fiscalización en un único órgano",
+      "La separación de las funciones de contabilidad y de fiscalización de la gestión económico-financiera",
+      "La supresión del control de legalidad presupuestaria",
+      "La gestión exclusivamente centralizada sin seguimiento de costes"
+    ],
+    "correct": 1,
+    "exp": "El art. 133.b) LBRL enumera, entre los criterios de la gestión económico-financiera, la separación de las funciones de contabilidad y de fiscalización de la gestión económico-financiera.",
+    "fuente": "Art. 133.b) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 134.2 LBRL, el titular del órgano u órganos de gestión económico-financiera y presupuestaria deberá ser un funcionario de Administración local con habilitación de carácter nacional, salvo:",
+    "options": [
+      "El titular del órgano que desarrolle las funciones de presupuestación",
+      "El titular del órgano que desarrolle las funciones de recaudación",
+      "El titular del órgano que desarrolle las funciones de tesorería",
+      "No existe ninguna excepción a esta regla"
+    ],
+    "correct": 0,
+    "exp": "El art. 134.2 LBRL exige que el titular de dicho órgano u órganos sea funcionario de Administración local con habilitación de carácter nacional, salvo el del órgano que desarrolle las funciones de presupuestación.",
+    "fuente": "Art. 134.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 135.1 LBRL, el órgano de gestión tributaria que pueden crear los Pleno de los municipios de gran población se rige, entre otros, por los principios de:",
+    "options": [
+      "Jerarquía y coordinación",
+      "Eficiencia, suficiencia, agilidad y unidad en la gestión",
+      "Publicidad y transparencia exclusivamente",
+      "Descentralización y desconcentración"
+    ],
+    "correct": 1,
+    "exp": "El art. 135.1 LBRL habilita al Pleno para crear un órgano de gestión tributaria regido por los principios de eficiencia, suficiencia, agilidad y unidad en la gestión.",
+    "fuente": "Art. 135.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 136.1 LBRL, la función pública de control y fiscalización interna de la gestión económico-financiera y presupuestaria corresponde a un órgano administrativo denominado:",
+    "options": [
+      "Órgano de gestión tributaria",
+      "Intervención general municipal",
+      "Asesoría jurídica municipal",
+      "Órgano de resolución de reclamaciones económico-administrativas"
+    ],
+    "correct": 1,
+    "exp": "El art. 136.1 LBRL atribuye esta función, en su triple acepción de función interventora, función de control financiero y función de control de eficacia, a un órgano administrativo con la denominación de Intervención general municipal.",
+    "fuente": "Art. 136.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 137.4 LBRL, ¿cuál es el número mínimo de miembros del órgano para la resolución de las reclamaciones económico-administrativas en los municipios de gran población?",
+    "options": [
+      "Dos",
+      "Tres",
+      "Cinco",
+      "Siete"
+    ],
+    "correct": 1,
+    "exp": "El art. 137.4 LBRL exige que el órgano esté constituido por un número impar de miembros, con un mínimo de tres, designados por el Pleno con el voto favorable de la mayoría absoluta de sus miembros.",
+    "fuente": "Art. 137.4 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 138 LBRL, la Conferencia de Ciudades se constituye en el seno de:",
+    "options": [
+      "La Comisión Nacional de Administración Local",
+      "La Conferencia sectorial para asuntos locales",
+      "El Consejo Social de la Ciudad",
+      "El Consejo de Ministros"
+    ],
+    "correct": 1,
+    "exp": "El art. 138 LBRL dispone que, en el seno de la Conferencia sectorial para asuntos locales, existirá una Conferencia de ciudades de la que formarán parte la Administración General del Estado, las comunidades autónomas y los alcaldes de los municipios comprendidos en el ámbito de aplicación del Título X.",
+    "fuente": "Art. 138 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 137 CE, ¿de qué gozan los municipios, las provincias y las Comunidades Autónomas para la gestión de sus respectivos intereses?",
+    "options": [
+      "De soberanía plena",
+      "De autonomía",
+      "De independencia funcional",
+      "De potestad legislativa exclusiva"
+    ],
+    "correct": 1,
+    "exp": "El art. 137 CE establece que todas estas entidades (municipios, provincias y Comunidades Autónomas) gozan de autonomía para la gestión de sus respectivos intereses.",
+    "fuente": "Art. 137 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 138.1 CE, el Estado garantiza la realización efectiva del principio de solidaridad consagrado en el art. 2 CE, velando por el establecimiento de un equilibrio económico entre las diversas partes del territorio español y atendiendo en particular a las circunstancias de:",
+    "options": [
+      "La despoblación rural",
+      "El hecho insular",
+      "La frontera terrestre",
+      "La densidad de población urbana"
+    ],
+    "correct": 1,
+    "exp": "El art. 138.1 CE exige que el Estado atienda en particular a las circunstancias del hecho insular al velar por el equilibrio económico entre las diversas partes del territorio.",
+    "fuente": "Art. 138.1 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 139.2 CE, ninguna autoridad podrá adoptar medidas que directa o indirectamente obstaculicen:",
+    "options": [
+      "La libertad de circulación y establecimiento de las personas y la libre circulación de bienes en todo el territorio español",
+      "La libertad de expresión en el territorio autonómico",
+      "El derecho de reunión en espacios públicos",
+      "El derecho de sufragio activo y pasivo"
+    ],
+    "correct": 0,
+    "exp": "El art. 139.2 CE prohíbe a cualquier autoridad adoptar medidas que directa o indirectamente obstaculicen la libertad de circulación y establecimiento de las personas y la libre circulación de bienes en todo el territorio español.",
+    "fuente": "Art. 139.2 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 140 CE, la Constitución garantiza:",
+    "options": [
+      "La autonomía de las provincias",
+      "La autonomía de los municipios",
+      "La autonomía de las Comunidades Autónomas",
+      "La autonomía de las Diputaciones"
+    ],
+    "correct": 1,
+    "exp": "El art. 140 CE dispone expresamente que 'La Constitución garantiza la autonomía de los municipios', desarrollando a continuación su personalidad jurídica y su gobierno.",
+    "fuente": "Art. 140 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 140 CE, el gobierno y administración de los municipios corresponde a:",
+    "options": [
+      "Sus respectivas Diputaciones",
+      "Sus respectivos Ayuntamientos, integrados por los Alcaldes y los Concejales",
+      "Los Delegados del Gobierno",
+      "Las Comunidades Autónomas respectivas"
+    ],
+    "correct": 1,
+    "exp": "El art. 140 CE establece que el gobierno y administración de los municipios corresponde a sus respectivos Ayuntamientos, integrados por los Alcaldes y los Concejales.",
+    "fuente": "Art. 140 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 140 CE, ¿cómo serán elegidos los Concejales?",
+    "options": [
+      "Por los Alcaldes de los municipios limítrofes",
+      "Por sufragio universal, igual, libre, directo y secreto de los vecinos del municipio",
+      "Por designación de la Comunidad Autónoma",
+      "Por sorteo entre los vecinos censados"
+    ],
+    "correct": 1,
+    "exp": "El art. 140 CE establece que los Concejales serán elegidos por los vecinos del municipio mediante sufragio universal, igual, libre, directo y secreto, en la forma establecida por la ley.",
+    "fuente": "Art. 140 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 140 CE, ¿quiénes pueden elegir al Alcalde?",
+    "options": [
+      "Únicamente los Concejales",
+      "Únicamente los vecinos, mediante sufragio directo",
+      "Los Concejales o los vecinos",
+      "El Delegado del Gobierno en la Comunidad Autónoma"
+    ],
+    "correct": 2,
+    "exp": "El art. 140 CE dispone que los Alcaldes serán elegidos por los Concejales o por los vecinos, remitiendo a la ley la regulación de las condiciones en que proceda el régimen de concejo abierto.",
+    "fuente": "Art. 140 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 141.1 CE, ¿mediante qué tipo de norma debe aprobarse cualquier alteración de los límites provinciales?",
+    "options": [
+      "Real Decreto",
+      "Ley ordinaria",
+      "Ley orgánica",
+      "Decreto-ley"
+    ],
+    "correct": 2,
+    "exp": "El art. 141.1 CE exige que cualquier alteración de los límites provinciales sea aprobada por las Cortes Generales mediante ley orgánica.",
+    "fuente": "Art. 141.1 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 142 CE, las Haciendas locales deberán disponer de los medios suficientes para el desempeño de sus funciones, nutriéndose fundamentalmente de:",
+    "options": [
+      "Subvenciones estatales condicionadas exclusivamente",
+      "Tributos propios y de participación en los del Estado y de las Comunidades Autónomas",
+      "Operaciones de crédito a largo plazo",
+      "Aportaciones voluntarias de los vecinos"
+    ],
+    "correct": 1,
+    "exp": "El art. 142 CE dispone que las Haciendas locales deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas y se nutrirán fundamentalmente de tributos propios y de participación en los tributos del Estado y de las Comunidades Autónomas.",
+    "fuente": "Art. 142 CE",
+    "confianza": "alta"
+  }
+]);
