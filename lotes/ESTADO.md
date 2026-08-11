@@ -6,6 +6,41 @@ un tema por tanda y con parada entre temas.
 El tema 21 queda **fuera del objetivo**: reproduce el examen oficial del
 1-jun-2025 y rellenarlo con preguntas generadas destruiría lo que lo hace útil.
 
+## Tema 14 · El municipio: organización y competencias. Régimen especial de Zaragoza — CERRADO
+
+**688 preguntas** (de 349 que había), todas de 4 opciones. Cuatro lotes de 40,
+escritos leyendo el consolidado del BOE (o de la Ley 10/2017 en el caso de la
+Ley de Capitalidad) y revisados uno por uno.
+
+| Lote | Tramo | Confirmadas | Corregidas | Rechazadas | Apartadas (duplicado) |
+|---|---|---|---|---|---|
+| A | LBRL arts. 13-26 (municipio, organización, competencias) | 39 | 0 | 0 | 1 |
+| B | LBRL arts. 24 bis, 45, 25-30, Título III (provincia) | 39 | 1 | 0 | 0 |
+| C | Ley 10/2017 de régimen especial de Zaragoza (Ley de Capitalidad) | 40 | 0 | 0 | 0 |
+| D | LBRL Título X (gran población) + CE arts. 137-142 | 34 | 0 | 0 | 6 |
+
+Notas:
+- Lote C identificó y verificó de forma independiente (dos veces: redactor y
+  revisor) la identidad de la "Ley de Capitalidad" citada de forma genérica en
+  el temario clásico: es la **Ley 10/2017, de 30 de noviembre**, publicada en
+  BOA núm. 231 (01/12/2017) y también en BOE-A-2018-1683. Queda fijada en
+  `fuentes.json` para no tener que re-verificarla en el futuro.
+- Lote A verificó una modificación legal muy reciente (letra p) del art. 25.2
+  LBRL sobre comunidades ciudadanas de energía, añadida por el Real
+  Decreto-ley 7/2026, de 20 de marzo, en vigor desde el 22/03/2026) contra el
+  consolidado real, de forma independiente por redactor y revisor: es
+  correcta y verificable, no una alucinación.
+- Lote A señaló, de paso, una posible cita desactualizada en el banco
+  ORIGINAL (no en este lote): dos preguntas ya existentes citan "art. 26.3
+  LBRL" para la propuesta de la Diputación al Ministerio de Hacienda, pero
+  ese contenido está hoy en el art. 26.2. Pendiente de revisar en una futura
+  pasada de corrección del banco original, no urgente.
+- La primera tanda de redactores se relanzó tras perderse sin aviso (igual que
+  pasó con el tema 15); esta vez no hubo pérdida, los cuatro lotes llegaron.
+
+Con 688 preguntas ya se supera de sobra el objetivo de 500; no se ha
+considerado necesaria una segunda ronda para este tema.
+
 ## Tema 15 · Participación ciudadana y atención al ciudadano — PRIMERA VUELTA CERRADA
 
 **350 preguntas** (de 150 que había), todas de 4 opciones. Seis lotes de 40,
