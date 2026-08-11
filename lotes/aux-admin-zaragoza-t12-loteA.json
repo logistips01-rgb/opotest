@@ -75,14 +75,6 @@
       "confianza": "alta"
     },
     {
-      "q": "Según el art. 9.1 TRLRHL, no podrán reconocerse otros beneficios fiscales en los tributos locales que los expresamente previstos en:",
-      "options": ["Normas con rango de ley o los derivados de la aplicación de tratados internacionales", "Cualquier disposición reglamentaria del Ayuntamiento", "Circulares de la Agencia Tributaria", "Decretos del Alcalde"],
-      "correct": 0,
-      "exp": "El art. 9.1 TRLRHL dispone que no podrán reconocerse otros beneficios fiscales en los tributos locales que los expresamente previstos en normas con rango de ley o los derivados de la aplicación de los tratados internacionales.",
-      "fuente": "Art. 9.1 TRLRHL",
-      "confianza": "alta"
-    },
-    {
       "q": "Según el art. 9.3 TRLRHL, cuando el Estado otorgue moratorias o aplazamientos en el pago de tributos locales a alguna persona o entidad, queda obligado a:",
       "options": ["Arbitrar las fórmulas de compensación o anticipo que procedan en favor de la entidad local respectiva", "Asumir directamente la deuda tributaria correspondiente", "Suprimir el tributo afectado", "Transferir la competencia de recaudación a la comunidad autónoma"],
       "correct": 0,
