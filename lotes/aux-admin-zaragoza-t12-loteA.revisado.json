@@ -1,0 +1,606 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 12,
+  "preguntas": [
+    {
+      "q": "Según el art. 6 TRLRHL, los tributos que establezcan las entidades locales se dictan al amparo de lo dispuesto en un artículo de la Ley 7/1985, de 2 de abril (LBRL). ¿En cuál?",
+      "options": [
+        "Artículo 106.1",
+        "Artículo 105.1",
+        "Artículo 107.2",
+        "Artículo 4.1"
+      ],
+      "correct": 0,
+      "exp": "El art. 6 TRLRHL indica que los tributos que establezcan las entidades locales al amparo de lo dispuesto en el artículo 106.1 de la LBRL respetarán los principios que a continuación enumera.",
+      "fuente": "Art. 6 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal en consolidado: 'Los tributos que establezcan las entidades locales al amparo de lo dispuesto en el artículo 106.1 de la Ley 7/1985...'. Opción correcta y distractores sin ambigüedad."
+    },
+    {
+      "q": "¿Cuál de los siguientes es uno de los principios que deben respetar los tributos locales según el art. 6 TRLRHL?",
+      "options": [
+        "Necesitar la aprobación previa del Ministerio de Hacienda",
+        "No implicar obstáculo alguno para la libre circulación de personas, mercancías o servicios y capitales",
+        "Aplicarse únicamente a residentes en el municipio",
+        "Tener una vigencia máxima de cinco años"
+      ],
+      "correct": 1,
+      "exp": "El art. 6.c) TRLRHL exige que los tributos locales no impliquen obstáculo alguno para la libre circulación de personas, mercancías o servicios y capitales, ni afecten a la fijación de residencia de las personas o ubicación de empresas y capitales dentro del territorio español.",
+      "fuente": "Art. 6.c) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: letra c) del art. 6 cita textualmente 'No implicar obstáculo alguno para la libre circulación de personas, mercancías o servicios y capitales'."
+    },
+    {
+      "q": "Según el art. 6.a) TRLRHL, los tributos locales no podrán someter a gravamen:",
+      "options": [
+        "Cualquier bien mueble con independencia de su ubicación",
+        "Solo los bienes inmuebles situados dentro del término municipal",
+        "Bienes situados, actividades desarrolladas, rendimientos originados ni gastos realizados fuera del territorio de la entidad",
+        "Las actividades desarrolladas por no residentes dentro del municipio"
+      ],
+      "correct": 2,
+      "exp": "El art. 6.a) TRLRHL prohíbe someter a gravamen bienes situados, actividades desarrolladas, rendimientos originados ni gastos realizados fuera del territorio de la respectiva entidad.",
+      "fuente": "Art. 6.a) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: letra a) del art. 6 prohíbe gravar bienes/actividades/rendimientos/gastos fuera del territorio de la entidad, coincide con la opción correcta."
+    },
+    {
+      "q": "Según el art. 7.2 TRLRHL, ¿qué órgano debe adoptar el acuerdo por el que se fija el alcance y contenido de la delegación de facultades tributarias?",
+      "options": [
+        "El Alcalde-Presidente",
+        "La Junta de Gobierno Local",
+        "El Interventor municipal",
+        "El Pleno de la corporación"
+      ],
+      "correct": 3,
+      "exp": "El art. 7.2 TRLRHL establece que el acuerdo que adopte el Pleno de la corporación habrá de fijar el alcance y contenido de la referida delegación.",
+      "fuente": "Art. 7.2 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: 'El acuerdo que adopte el Pleno de la corporación habrá de fijar el alcance y contenido de la referida delegación'."
+    },
+    {
+      "q": "Según el art. 7.1 TRLRHL, ¿en quién pueden delegar las entidades locales sus facultades de gestión, liquidación, inspección y recaudación tributarias?",
+      "options": [
+        "En la comunidad autónoma o en otras entidades locales en cuyo territorio estén integradas",
+        "Únicamente en la Agencia Estatal de Administración Tributaria",
+        "En cualquier empresa privada especializada en recaudación",
+        "En el Tribunal de Cuentas"
+      ],
+      "correct": 0,
+      "exp": "El art. 7.1 TRLRHL permite delegar las facultades de gestión, liquidación, inspección y recaudación tributarias en la comunidad autónoma o en otras entidades locales en cuyo territorio estén integradas.",
+      "fuente": "Art. 7.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: primer párrafo del art. 7.1 permite delegar en la comunidad autónoma o en otras entidades locales en cuyo territorio estén integradas."
+    },
+    {
+      "q": "Según el art. 7.3 TRLRHL, ¿qué norma se aplica de forma supletoria al ejercicio de las facultades tributarias delegadas por una entidad local?",
+      "options": [
+        "El Código Civil",
+        "La Ley General Tributaria",
+        "La Ley de Contratos del Sector Público",
+        "La Ley 39/2015, del Procedimiento Administrativo Común"
+      ],
+      "correct": 1,
+      "exp": "El art. 7.3 TRLRHL dispone que el ejercicio de las facultades delegadas se ajustará a los procedimientos de esta ley y, supletoriamente, a los que prevé la Ley General Tributaria.",
+      "fuente": "Art. 7.3 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: 'supletoriamente, a las que prevé la Ley General Tributaria'."
+    },
+    {
+      "q": "Según el art. 8.3 TRLRHL, las actuaciones de inspección o recaudación ejecutiva que deban efectuarse fuera del territorio de la entidad local, dentro del ámbito territorial de la comunidad autónoma, serán practicadas por:",
+      "options": [
+        "Los órganos competentes del Estado en todo caso",
+        "El propio Ayuntamiento mediante convenio con un tercero",
+        "Los órganos competentes de la correspondiente comunidad autónoma",
+        "Los órganos competentes de la Diputación Provincial exclusivamente"
+      ],
+      "correct": 2,
+      "exp": "El art. 8.3 TRLRHL señala que dichas actuaciones serán practicadas por los órganos competentes de la comunidad autónoma cuando deban realizarse en su ámbito territorial, y por los del Estado en otro caso, previa solicitud del presidente de la corporación.",
+      "fuente": "Art. 8.3 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: actuaciones fuera del territorio de la entidad, practicadas por la comunidad autónoma cuando corresponda a su ámbito territorial (y por el Estado en otro caso)."
+    },
+    {
+      "q": "Según el art. 8.1 TRLRHL, ¿qué Administraciones deben colaborar en todos los órdenes de gestión, liquidación, inspección y recaudación de los tributos locales?",
+      "options": [
+        "Únicamente las entidades locales entre sí",
+        "El Estado y el Banco de España",
+        "Las comunidades autónomas exclusivamente",
+        "Las Administraciones tributarias del Estado, de las comunidades autónomas y de las entidades locales"
+      ],
+      "correct": 3,
+      "exp": "El art. 8.1 TRLRHL establece que las Administraciones tributarias del Estado, de las comunidades autónomas y de las entidades locales colaborarán en todos los órdenes de gestión, liquidación, inspección y recaudación de los tributos locales.",
+      "fuente": "Art. 8.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: 'las Administraciones tributarias del Estado, de las comunidades autónomas y de las entidades locales colaborarán en todos los órdenes...'."
+    },
+    {
+      "q": "Según el art. 9.1 TRLRHL, ¿hasta qué porcentaje de bonificación pueden establecer las ordenanzas fiscales a favor de los sujetos pasivos que domicilien sus deudas de vencimiento periódico, anticipen pagos o colaboren en la recaudación?",
+      "options": [
+        "Hasta el 5 por ciento de la cuota",
+        "Hasta el 10 por ciento de la cuota",
+        "Hasta el 50 por ciento de la cuota",
+        "Hasta el 95 por ciento de la cuota"
+      ],
+      "correct": 0,
+      "exp": "El art. 9.1 TRLRHL permite establecer una bonificación de hasta el cinco por ciento de la cuota a favor de los sujetos pasivos que domicilien sus deudas de vencimiento periódico, anticipen pagos o colaboren en la recaudación de ingresos.",
+      "fuente": "Art. 9.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: bonificación de hasta el cinco por ciento de la cuota para domiciliación, anticipo de pagos o colaboración en la recaudación."
+    },
+    {
+      "q": "Según el art. 9.3 TRLRHL, cuando el Estado otorgue moratorias o aplazamientos en el pago de tributos locales a alguna persona o entidad, queda obligado a:",
+      "options": [
+        "Asumir directamente la deuda tributaria correspondiente",
+        "Arbitrar las fórmulas de compensación o anticipo que procedan en favor de la entidad local respectiva",
+        "Suprimir el tributo afectado",
+        "Transferir la competencia de recaudación a la comunidad autónoma"
+      ],
+      "correct": 1,
+      "exp": "El art. 9.3 TRLRHL establece que cuando el Estado otorgue moratorias o aplazamientos en el pago de tributos locales quedará obligado a arbitrar las fórmulas de compensación o anticipo que procedan en favor de la entidad local respectiva.",
+      "fuente": "Art. 9.3 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: el Estado queda obligado a arbitrar fórmulas de compensación o anticipo en favor de la entidad local cuando otorgue moratorias o aplazamientos."
+    },
+    {
+      "q": "Según el art. 15.1 TRLRHL, salvo en los supuestos previstos en el art. 59.1 de la ley, las entidades locales deberán acordar la imposición y supresión de sus tributos propios y aprobar:",
+      "options": [
+        "Un reglamento orgánico específico",
+        "Un plan de saneamiento financiero",
+        "Las correspondientes ordenanzas fiscales reguladoras de estos",
+        "Un convenio con la Agencia Tributaria"
+      ],
+      "correct": 2,
+      "exp": "El art. 15.1 TRLRHL exige que las entidades locales acuerden la imposición y supresión de sus tributos propios y aprueben las correspondientes ordenanzas fiscales reguladoras de estos.",
+      "fuente": "Art. 15.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: 'las entidades locales deberán acordar la imposición y supresión de sus tributos propios, y aprobar las correspondientes ordenanzas fiscales reguladoras de estos'."
+    },
+    {
+      "q": "Según el art. 15.3 TRLRHL, la potestad reglamentaria a que se refiere el apartado 2 del art. 12 de la ley puede ejercerse en las ordenanzas fiscales reguladoras de los distintos tributos locales, o bien mediante:",
+      "options": [
+        "Bandos del Alcalde",
+        "Instrucciones internas del Interventor",
+        "Decretos de la comunidad autónoma",
+        "La aprobación de ordenanzas fiscales específicamente reguladoras de la gestión, liquidación, inspección y recaudación de los tributos locales"
+      ],
+      "correct": 3,
+      "exp": "El art. 15.3 TRLRHL permite ejercer dicha potestad reglamentaria en las ordenanzas fiscales de cada tributo o mediante ordenanzas fiscales específicamente reguladoras de la gestión, liquidación, inspección y recaudación de los tributos locales.",
+      "fuente": "Art. 15.3 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: potestad reglamentaria del art. 12.2 ejercida en las ordenanzas de cada tributo o mediante ordenanzas específicas de gestión/liquidación/inspección/recaudación."
+    },
+    {
+      "q": "Según el art. 16.1.a) TRLRHL, ¿cuál de los siguientes conjuntos de elementos deben contener, al menos, las ordenanzas fiscales?",
+      "options": [
+        "El hecho imponible, sujeto pasivo, responsables, exenciones, reducciones y bonificaciones, base imponible y liquidable, tipo de gravamen o cuota tributaria, período impositivo y devengo",
+        "Únicamente el tipo de gravamen aplicable",
+        "El nombre del funcionario responsable de su gestión",
+        "La relación de bienes municipales afectados"
+      ],
+      "correct": 0,
+      "exp": "El art. 16.1.a) TRLRHL exige que las ordenanzas fiscales contengan, al menos, la determinación del hecho imponible, sujeto pasivo, responsables, exenciones, reducciones y bonificaciones, base imponible y liquidable, tipo de gravamen o cuota tributaria, período impositivo y devengo.",
+      "fuente": "Art. 16.1.a) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: contenido mínimo de las ordenanzas según letra a) del apartado 1, enumeración completa coincide."
+    },
+    {
+      "q": "Según el art. 16.1 TRLRHL, los acuerdos de modificación de las ordenanzas fiscales deberán contener:",
+      "options": [
+        "Solo la fecha de aprobación",
+        "La nueva redacción de las normas afectadas y las fechas de su aprobación y del comienzo de su aplicación",
+        "Un informe de impacto normativo preceptivo del Consejo de Estado",
+        "La firma de todos los grupos municipales"
+      ],
+      "correct": 1,
+      "exp": "El art. 16.1 TRLRHL, último párrafo, establece que los acuerdos de modificación de las ordenanzas fiscales deberán contener la nueva redacción de las normas afectadas y las fechas de su aprobación y del comienzo de su aplicación.",
+      "fuente": "Art. 16.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: último párrafo del apartado 1 exige nueva redacción de las normas afectadas y fechas de aprobación y aplicación en los acuerdos de modificación."
+    },
+    {
+      "q": "Según el art. 17.1 TRLRHL, los acuerdos provisionales de establecimiento de tributos y las ordenanzas fiscales se expondrán en el tablón de anuncios de la entidad durante un mínimo de:",
+      "options": [
+        "Quince días",
+        "Diez días",
+        "Treinta días",
+        "Veinte días"
+      ],
+      "correct": 2,
+      "exp": "El art. 17.1 TRLRHL exige la exposición en el tablón de anuncios de la entidad durante treinta días, como mínimo, dentro de los cuales los interesados pueden examinar el expediente y presentar reclamaciones.",
+      "fuente": "Art. 17.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: exposición en el tablón de anuncios durante treinta días como mínimo."
+    },
+    {
+      "q": "Según el art. 17.2 TRLRHL, además de publicar el anuncio de exposición en el boletín oficial de la provincia, ¿qué ayuntamientos deben publicarlo también en un diario de mayor difusión de la provincia?",
+      "options": [
+        "Los de población superior a 5.000 habitantes",
+        "Los de población superior a 20.000 habitantes",
+        "Todos los ayuntamientos, sin excepción",
+        "Los de población superior a 10.000 habitantes"
+      ],
+      "correct": 3,
+      "exp": "El art. 17.2 TRLRHL obliga a las diputaciones provinciales, órganos de gobierno de entidades supramunicipales y a los ayuntamientos de población superior a 10.000 habitantes a publicar además el anuncio en un diario de mayor difusión de la provincia.",
+      "fuente": "Art. 17.2 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: ayuntamientos de población superior a 10.000 habitantes deben publicar además en un diario de mayor difusión de la provincia."
+    },
+    {
+      "q": "Según el art. 17.4 TRLRHL, los acuerdos definitivos y el texto íntegro de las ordenanzas fiscales o de sus modificaciones:",
+      "options": [
+        "Habrán de ser publicados en el boletín oficial de la provincia (o de la comunidad autónoma uniprovincial), sin que entren en vigor hasta que se haya llevado a cabo dicha publicación",
+        "Entran en vigor el día de su aprobación por el Pleno, sin necesidad de publicación",
+        "Solo deben notificarse individualmente a cada contribuyente",
+        "Entran en vigor a los seis meses de su aprobación"
+      ],
+      "correct": 0,
+      "exp": "El art. 17.4 TRLRHL exige la publicación en el boletín oficial de la provincia o, en su caso, de la comunidad autónoma uniprovincial, sin que las ordenanzas entren en vigor hasta que se haya llevado a cabo dicha publicación.",
+      "fuente": "Art. 17.4 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: publicación en el BOP (o BO de la CA uniprovincial) como condición de entrada en vigor."
+    },
+    {
+      "q": "Según el art. 17.5 TRLRHL, las entidades locales cuya población sea superior a 20.000 habitantes deben editar el texto íntegro de sus ordenanzas fiscales reguladoras de sus tributos:",
+      "options": [
+        "Dentro del primer mes del ejercicio económico",
+        "Dentro del primer cuatrimestre del ejercicio económico correspondiente",
+        "Antes del 31 de diciembre del ejercicio anterior",
+        "En el plazo de un año desde su aprobación"
+      ],
+      "correct": 1,
+      "exp": "El art. 17.5 TRLRHL obliga a las diputaciones, consejos, cabildos insulares y demás entidades locales con población superior a 20.000 habitantes a editar el texto íntegro de las ordenanzas fiscales dentro del primer cuatrimestre del ejercicio económico correspondiente.",
+      "fuente": "Art. 17.5 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: entidades locales con población superior a 20.000 habitantes editan el texto íntegro dentro del primer cuatrimestre del ejercicio económico."
+    },
+    {
+      "q": "Según el art. 18 TRLRHL, tendrán la consideración de interesados a efectos de reclamar contra los acuerdos provisionales, entre otros:",
+      "options": [
+        "Cualquier ciudadano de cualquier municipio del Estado, sin necesidad de acreditar interés",
+        "Solo los funcionarios municipales del área tributaria",
+        "Los colegios oficiales, cámaras oficiales y asociaciones legalmente constituidas para velar por intereses profesionales, económicos o vecinales, cuando actúen en defensa de los que les son propios",
+        "Exclusivamente los partidos políticos con representación en el Pleno"
+      ],
+      "correct": 2,
+      "exp": "El art. 18.b) TRLRHL reconoce la condición de interesados a los colegios oficiales, cámaras oficiales, asociaciones y demás entidades legalmente constituidas para velar por intereses profesionales, económicos o vecinales, cuando actúen en defensa de los que les son propios.",
+      "fuente": "Art. 18 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: letra b) reconoce como interesados a colegios oficiales, cámaras oficiales y asociaciones legalmente constituidas en defensa de intereses propios; el enunciado señala correctamente 'entre otros' porque también existe la letra a)."
+    },
+    {
+      "q": "Según el art. 19.1 TRLRHL, contra las ordenanzas fiscales de las entidades locales no cabe otro recurso que:",
+      "options": [
+        "El de alzada ante la comunidad autónoma",
+        "El de reposición potestativo ante el Pleno",
+        "El de súplica ante el Tribunal Constitucional",
+        "El contencioso-administrativo"
+      ],
+      "correct": 3,
+      "exp": "El art. 19.1 TRLRHL establece que las ordenanzas fiscales regirán durante el plazo previsto en ellas, sin que quepa contra ellas otro recurso que el contencioso-administrativo.",
+      "fuente": "Art. 19.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: contra las ordenanzas fiscales no cabe otro recurso que el contencioso-administrativo."
+    },
+    {
+      "q": "Según el art. 20.1 TRLRHL, las entidades locales podrán establecer tasas por la utilización privativa o el aprovechamiento especial del dominio público local, así como por:",
+      "options": [
+        "La prestación de servicios públicos o la realización de actividades administrativas de competencia local que afecten de modo particular a los sujetos pasivos",
+        "La simple titularidad de bienes inmuebles urbanos",
+        "El ejercicio del derecho de sufragio activo",
+        "La prestación de servicios de competencia estatal"
+      ],
+      "correct": 0,
+      "exp": "El art. 20.1 TRLRHL permite establecer tasas por la utilización privativa o el aprovechamiento especial del dominio público local, así como por la prestación de servicios públicos o realización de actividades administrativas de competencia local que se refieran, afecten o beneficien de modo particular a los sujetos pasivos.",
+      "fuente": "Art. 20.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: tasas por utilización privativa/aprovechamiento especial del dominio público, así como por prestación de servicios o actividades administrativas que afecten de modo particular a los sujetos pasivos."
+    },
+    {
+      "q": "Según el art. 20.1.B).a) TRLRHL, ¿cuándo se considera que la solicitud o recepción de un servicio no es voluntaria para los administrados?",
+      "options": [
+        "Cuando el servicio sea gratuito",
+        "Cuando venga impuesta por disposiciones legales o reglamentarias, o cuando los bienes, servicios o actividades requeridos sean imprescindibles para la vida privada o social del solicitante",
+        "Cuando lo decida unilateralmente el prestador del servicio",
+        "Cuando el administrado no disponga de medios electrónicos"
+      ],
+      "correct": 1,
+      "exp": "El art. 20.1.B).a) TRLRHL precisa que no se considerará voluntaria la solicitud o recepción cuando venga impuesta por disposiciones legales o reglamentarias, o cuando los bienes, servicios o actividades requeridos sean imprescindibles para la vida privada o social del solicitante.",
+      "fuente": "Art. 20.1.B).a) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: no se considera voluntaria la solicitud/recepción cuando venga impuesta por disposiciones legales o reglamentarias, o cuando sea imprescindible para la vida privada o social del solicitante."
+    },
+    {
+      "q": "Según el art. 20.1.B).b) TRLRHL, además de la falta de voluntariedad, ¿qué otra circunstancia determina que una prestación patrimonial tenga la consideración de tasa?",
+      "options": [
+        "Que el servicio se preste exclusivamente por una empresa mixta",
+        "Que el importe supere los 100 euros",
+        "Que el servicio o actividad no se preste o realice por el sector privado, esté o no reservado a favor del sector público",
+        "Que el servicio dure más de un año"
+      ],
+      "correct": 2,
+      "exp": "El art. 20.1.B).b) TRLRHL exige que el servicio o actividad no se preste o realice por el sector privado, esté o no establecida su reserva a favor del sector público conforme a la normativa vigente.",
+      "fuente": "Art. 20.1.B).b) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: 'que no se presten o realicen por el sector privado, esté o no establecida su reserva a favor del sector público'."
+    },
+    {
+      "q": "Según el art. 20.5 TRLRHL, ¿qué entidades pueden establecer una tasa por la celebración de matrimonios en forma civil?",
+      "options": [
+        "Las Diputaciones Provinciales",
+        "Las Comunidades Autónomas",
+        "Los Cabildos y Consejos insulares",
+        "Los Ayuntamientos"
+      ],
+      "correct": 3,
+      "exp": "El art. 20.5 TRLRHL atribuye específicamente a los Ayuntamientos la facultad de establecer una tasa para la celebración de los matrimonios en forma civil.",
+      "fuente": "Art. 20.5 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: 'Los Ayuntamientos podrán establecer una tasa para la celebración de los matrimonios en forma civil'."
+    },
+    {
+      "q": "Según el art. 20.6 TRLRHL, las contraprestaciones económicas por servicios públicos prestados mediante personificación privada o gestión indirecta tienen la consideración de:",
+      "options": [
+        "Prestaciones patrimoniales de carácter público no tributario, conforme al art. 31.3 de la Constitución",
+        "Tasas ordinarias en todo caso",
+        "Precios privados sin regulación alguna",
+        "Contribuciones especiales"
+      ],
+      "correct": 0,
+      "exp": "El art. 20.6 TRLRHL califica las contraprestaciones económicas establecidas coactivamente por servicios prestados de forma directa mediante personificación privada o mediante gestión indirecta como prestaciones patrimoniales de carácter público no tributario, conforme al art. 31.3 de la Constitución.",
+      "fuente": "Art. 20.6 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: contraprestaciones por servicios mediante personificación privada o gestión indirecta tienen la consideración de prestación patrimonial de carácter público no tributario (art. 31.3 CE)."
+    },
+    {
+      "q": "Según el art. 21.1 TRLRHL, ¿por cuál de los siguientes servicios NO podrán las entidades locales exigir tasas?",
+      "options": [
+        "Suministro domiciliario de agua potable",
+        "Alumbrado de vías públicas",
+        "Recogida de residuos sólidos urbanos",
+        "Cementerios locales"
+      ],
+      "correct": 1,
+      "exp": "El art. 21.1.b) TRLRHL prohíbe exigir tasas por el alumbrado de vías públicas; el resto de servicios mencionados (agua domiciliaria, residuos, cementerios) sí pueden sujetarse a tasa conforme al art. 20.4.",
+      "fuente": "Art. 21.1.b) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: letra b) del art. 21.1 excluye el alumbrado de vías públicas; el resto de opciones (agua domiciliaria, residuos, cementerios) sí son gravables conforme al art. 20.4."
+    },
+    {
+      "q": "Según el art. 21.1 TRLRHL, ¿cuál de los siguientes servicios está expresamente excluido de tasas por las entidades locales?",
+      "options": [
+        "La expedición de licencias urbanísticas",
+        "El servicio de matadero",
+        "La enseñanza en los niveles de educación obligatoria",
+        "La ocupación de vía pública con mesas y sillas"
+      ],
+      "correct": 2,
+      "exp": "El art. 21.1.f) TRLRHL incluye la enseñanza en los niveles de educación obligatoria entre los servicios por los que las entidades locales no podrán exigir tasas.",
+      "fuente": "Art. 21.1.f) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: letra f) excluye la enseñanza en niveles de educación obligatoria; los demás distractores corresponden a servicios sí sujetos a tasa (art. 20.4)."
+    },
+    {
+      "q": "Según el art. 21.2 TRLRHL, el Estado, las comunidades autónomas y las entidades locales no estarán obligados al pago de tasas por utilización privativa o aprovechamiento especial del dominio público cuando se trate de aprovechamientos que interesen inmediatamente a:",
+      "options": [
+        "El turismo local",
+        "El deporte municipal",
+        "La promoción cultural",
+        "La seguridad ciudadana o la defensa nacional"
+      ],
+      "correct": 3,
+      "exp": "El art. 21.2 TRLRHL exime del pago de tasas por aprovechamientos inherentes a servicios públicos de comunicaciones explotados directamente y por todos los que inmediatamente interesen a la seguridad ciudadana o a la defensa nacional.",
+      "fuente": "Art. 21.2 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: exención de pago de tasas por aprovechamientos que interesen inmediatamente a la seguridad ciudadana o la defensa nacional."
+    },
+    {
+      "q": "Según el art. 22 TRLRHL, la exacción de tasas por la prestación de servicios:",
+      "options": [
+        "No excluye la exacción de contribuciones especiales por el establecimiento o ampliación de aquellos servicios",
+        "Impide en todo caso el cobro posterior de contribuciones especiales",
+        "Sustituye a cualquier otro tributo local aplicable al mismo servicio",
+        "Solo es compatible con el Impuesto sobre Bienes Inmuebles"
+      ],
+      "correct": 0,
+      "exp": "El art. 22 TRLRHL establece que las tasas por la prestación de servicios no excluyen la exacción de contribuciones especiales por el establecimiento o ampliación de aquéllos.",
+      "fuente": "Art. 22 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: las tasas por prestación de servicios no excluyen la exacción de contribuciones especiales por establecimiento o ampliación de aquellos."
+    },
+    {
+      "q": "Según el art. 23.1 TRLRHL, son sujetos pasivos de las tasas, en concepto de contribuyentes, las personas físicas y jurídicas, así como las entidades a que se refiere el art. 35.4 de:",
+      "options": [
+        "La Ley 39/2015, del Procedimiento Administrativo Común",
+        "La Ley 58/2003, General Tributaria",
+        "La Ley 7/1985, Reguladora de las Bases del Régimen Local",
+        "El Real Decreto Legislativo 781/1986"
+      ],
+      "correct": 1,
+      "exp": "El art. 23.1 TRLRHL remite al art. 35.4 de la Ley 58/2003, General Tributaria, para identificar a las entidades sin personalidad jurídica que también pueden ser sujetos pasivos contribuyentes de las tasas.",
+      "fuente": "Art. 23.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: remisión al art. 35.4 de la Ley 58/2003, General Tributaria, para identificar entidades sin personalidad jurídica."
+    },
+    {
+      "q": "Según el art. 23.2.a) TRLRHL, en las tasas establecidas por razón de servicios que afecten a los ocupantes de viviendas o locales, ¿quiénes tienen la condición de sustitutos del contribuyente?",
+      "options": [
+        "Los arrendatarios de los inmuebles en todo caso",
+        "La comunidad de propietarios como persona jurídica",
+        "Los propietarios de dichos inmuebles, quienes podrán repercutir las cuotas sobre los beneficiarios",
+        "El Ayuntamiento, que asume el pago con cargo a sus presupuestos"
+      ],
+      "correct": 2,
+      "exp": "El art. 23.2.a) TRLRHL atribuye la condición de sustitutos del contribuyente a los propietarios de las viviendas o locales, quienes podrán repercutir, en su caso, las cuotas sobre los respectivos beneficiarios.",
+      "fuente": "Art. 23.2.a) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: propietarios de viviendas o locales como sustitutos del contribuyente, con posibilidad de repercutir cuotas."
+    },
+    {
+      "q": "Según el art. 23.2.b) TRLRHL, en las tasas establecidas por el otorgamiento de licencias urbanísticas, tienen la condición de sustitutos del contribuyente:",
+      "options": [
+        "Los arquitectos directores de la obra",
+        "Los propietarios colindantes a la obra",
+        "El promotor únicamente si es persona física",
+        "Los constructores y contratistas de las obras"
+      ],
+      "correct": 3,
+      "exp": "El art. 23.2.b) TRLRHL atribuye la condición de sustitutos del contribuyente, en las tasas por licencias urbanísticas, a los constructores y contratistas de obras.",
+      "fuente": "Art. 23.2.b) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: constructores y contratistas de obras como sustitutos del contribuyente en tasas por licencias urbanísticas."
+    },
+    {
+      "q": "Según el art. 24.1.a) TRLRHL, con carácter general, ¿cómo se fija el importe de las tasas por utilización privativa o aprovechamiento especial del dominio público local?",
+      "options": [
+        "Tomando como referencia el valor que tendría en el mercado la utilidad derivada de dicha utilización o aprovechamiento si los bienes no fuesen de dominio público",
+        "Aplicando siempre un tipo fijo del 1 por ciento sobre el valor catastral",
+        "Mediante subasta pública obligatoria en todos los casos",
+        "Según el coste de construcción de la vía pública afectada"
+      ],
+      "correct": 0,
+      "exp": "El art. 24.1.a) TRLRHL fija como regla general el valor que tendría en el mercado la utilidad derivada de la utilización o aprovechamiento si los bienes afectados no fuesen de dominio público.",
+      "fuente": "Art. 24.1.a) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: regla general del valor de mercado de la utilidad derivada si los bienes no fuesen de dominio público."
+    },
+    {
+      "q": "Según el art. 24.1.c) TRLRHL, el importe de las tasas por aprovechamientos especiales constituidos en el suelo, subsuelo o vuelo de las vías públicas a favor de empresas explotadoras de servicios de suministros de interés general consistirá, sin excepción, en:",
+      "options": [
+        "El 3 por ciento de los ingresos brutos anuales",
+        "El 1,5 por ciento de los ingresos brutos procedentes de la facturación que obtengan anualmente en cada término municipal",
+        "El 1,5 por ciento del beneficio neto de la empresa",
+        "Una cantidad fija de 1.500 euros anuales"
+      ],
+      "correct": 1,
+      "exp": "El art. 24.1.c) TRLRHL fija en el 1,5 por ciento de los ingresos brutos procedentes de la facturación anual en cada término municipal el importe de estas tasas, sin excepción alguna, salvo para los servicios de telefonía móvil, que quedan excluidos de este régimen especial.",
+      "fuente": "Art. 24.1.c) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: 1,5 por ciento de los ingresos brutos de facturación anual en cada término municipal; el texto usa la expresión literal 'en todo caso y sin excepción alguna' para ese régimen (la excepción de telefonía móvil que menciona el 'exp' no afecta a la cifra ni a la opción correcta)."
+    },
+    {
+      "q": "Según el art. 24.2 TRLRHL, el importe de las tasas por la prestación de un servicio o realización de una actividad no podrá exceder, en su conjunto, de:",
+      "options": [
+        "El doble del coste real del servicio",
+        "El importe recaudado el ejercicio anterior por el mismo concepto",
+        "El coste real o previsible del servicio o actividad de que se trate, o en su defecto, del valor de la prestación recibida",
+        "Un tercio del presupuesto municipal anual"
+      ],
+      "correct": 2,
+      "exp": "El art. 24.2 TRLRHL establece que el importe de las tasas por prestación de servicios no podrá exceder, en su conjunto, del coste real o previsible del servicio o actividad, o en su defecto, del valor de la prestación recibida.",
+      "fuente": "Art. 24.2 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: límite del coste real o previsible del servicio, o en su defecto, del valor de la prestación recibida."
+    },
+    {
+      "q": "Según el art. 24.3 TRLRHL, la cuota tributaria de las tasas consistirá, según disponga la ordenanza fiscal correspondiente, en:",
+      "options": [
+        "Únicamente una cantidad fija determinada por el Pleno",
+        "Un porcentaje variable decidido anualmente por el Interventor",
+        "Un importe idéntico para todos los servicios municipales",
+        "La cantidad resultante de aplicar una tarifa, una cantidad fija señalada al efecto, o la aplicación conjunta de ambos procedimientos"
+      ],
+      "correct": 3,
+      "exp": "El art. 24.3 TRLRHL permite que la cuota tributaria consista, según disponga la ordenanza, en la cantidad resultante de aplicar una tarifa, una cantidad fija señalada al efecto, o la aplicación conjunta de ambos procedimientos.",
+      "fuente": "Art. 24.3 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: cuota tributaria mediante tarifa, cantidad fija, o aplicación conjunta de ambos procedimientos."
+    },
+    {
+      "q": "Según el art. 24.6 TRLRHL, las entidades locales podrán establecer mediante ordenanza una bonificación de hasta qué porcentaje de la cuota íntegra de la tasa de recogida de residuos sólidos urbanos para determinadas empresas de distribución alimentaria y de restauración?",
+      "options": [
+        "El 95 por ciento",
+        "El 50 por ciento",
+        "El 75 por ciento",
+        "El 100 por ciento"
+      ],
+      "correct": 0,
+      "exp": "El art. 24.6 TRLRHL permite una bonificación de hasta un 95 por ciento de la cuota íntegra de la tasa de recogida de residuos sólidos urbanos para empresas de distribución alimentaria y de restauración que reduzcan de forma significativa y verificable sus residuos alimentarios en colaboración con entidades de economía social.",
+      "fuente": "Art. 24.6 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: bonificación de hasta el 95 por ciento de la cuota íntegra de la tasa de recogida de residuos sólidos urbanos para empresas de distribución alimentaria y restauración."
+    },
+    {
+      "q": "Según el art. 25 TRLRHL, los acuerdos de establecimiento de tasas por la utilización privativa o el aprovechamiento especial del dominio público, o para financiar nuevos servicios, deberán adoptarse a la vista de:",
+      "options": [
+        "Un dictamen preceptivo del Consejo de Estado",
+        "Informes técnico-económicos en los que se ponga de manifiesto el valor de mercado o la previsible cobertura del coste",
+        "Una consulta pública vinculante",
+        "Un informe de la Intervención General del Estado"
+      ],
+      "correct": 1,
+      "exp": "El art. 25 TRLRHL exige que los acuerdos de establecimiento de tasas se adopten a la vista de informes técnico-económicos que pongan de manifiesto el valor de mercado o la previsible cobertura del coste del servicio, informe que se incorporará al expediente.",
+      "fuente": "Art. 25 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: informes técnico-económicos que acrediten el valor de mercado o la previsible cobertura del coste, incorporados al expediente."
+    },
+    {
+      "q": "Según el art. 26.2 TRLRHL, cuando la naturaleza de la tasa exija el devengo periódico de esta, y así lo determine la ordenanza fiscal, ¿cuándo tendrá lugar el devengo?",
+      "options": [
+        "El último día de cada trimestre natural",
+        "El día en que se apruebe el presupuesto municipal",
+        "El 1 de enero de cada año, comprendiendo el período impositivo el año natural",
+        "El 30 de junio de cada año"
+      ],
+      "correct": 2,
+      "exp": "El art. 26.2 TRLRHL establece que, cuando proceda el devengo periódico, este tendrá lugar el 1 de enero de cada año y el período impositivo comprenderá el año natural, salvo en los supuestos de inicio o cese en la utilización, aprovechamiento o servicio.",
+      "fuente": "Art. 26.2 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: devengo periódico el 1 de enero de cada año, con período impositivo igual al año natural (salvo inicio/cese)."
+    },
+    {
+      "q": "Según el art. 27.1 TRLRHL, ¿en qué régimen pueden las entidades locales exigir las tasas?",
+      "options": [
+        "Exclusivamente mediante liquidación notificada individualmente",
+        "Únicamente mediante padrón anual aprobado por el Pleno",
+        "En régimen de subasta pública",
+        "En régimen de autoliquidación"
+      ],
+      "correct": 3,
+      "exp": "El art. 27.1 TRLRHL permite a las entidades locales exigir las tasas en régimen de autoliquidación.",
+      "fuente": "Art. 27.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado literal: 'Las entidades locales podrán exigir las tasas en régimen de autoliquidación'."
+    }
+  ]
+}
