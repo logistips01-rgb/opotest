@@ -19147,3 +19147,1052 @@ window.addQuestions('aux-admin-zaragoza', 13, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 13 · lote 2026-08-11 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 13, [
+  {
+    "q": "Según el art. 162 del TRLRHL, para que las previsiones de ingresos y gastos de una sociedad mercantil se incluyan en el presupuesto general de la entidad local, el capital social de dicha sociedad debe pertenecer a la entidad local:",
+    "options": [
+      "De forma mayoritaria, aunque sea parcial",
+      "Íntegramente",
+      "En al menos un 50%",
+      "En cualquier porcentaje, por mínimo que sea"
+    ],
+    "correct": 1,
+    "exp": "Art. 162 in fine: el presupuesto general incluye 'las previsiones de ingresos y gastos de las sociedades mercantiles cuyo capital social pertenezca íntegramente a la entidad local correspondiente'. El umbral de capital íntegro (162) no debe confundirse con el de participación mayoritaria que exige el art. 166.1 b) para otros anexos.",
+    "fuente": "Art. 162 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál es la rúbrica del art. 163 del TRLRHL, dentro del Capítulo I del Título VI?",
+    "options": [
+      "Ámbito de aplicación",
+      "Ámbito subjetivo",
+      "Ámbito temporal",
+      "Ámbito material"
+    ],
+    "correct": 2,
+    "exp": "El art. 163 TRLRHL lleva por rúbrica 'Ámbito temporal' y establece que el ejercicio presupuestario coincidirá con el año natural.",
+    "fuente": "Art. 163 TRLRHL (rúbrica) (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 164.1 del TRLRHL, ¿con qué periodicidad deben elaborar y aprobar las entidades locales su presupuesto general?",
+    "options": [
+      "Bienalmente",
+      "Anualmente",
+      "Cada cuatro años, coincidiendo con el mandato corporativo",
+      "Semestralmente"
+    ],
+    "correct": 1,
+    "exp": "Art. 164.1: 'Las entidades locales elaborarán y aprobarán anualmente un presupuesto general en el que se integrarán...'",
+    "fuente": "Art. 164.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 164.2 in fine del TRLRHL, las normas de creación de cada organismo autónomo local deberán:",
+    "options": [
+      "Ser aprobadas por el Ministerio de Hacienda",
+      "Indicar expresamente su carácter administrativo o comercial, industrial, financiero o análogo",
+      "Fijar su disolución automática a los cuatro años",
+      "Remitirse para su ratificación al Tribunal de Cuentas"
+    ],
+    "correct": 1,
+    "exp": "Art. 164.2 in fine: 'Las normas de creación de cada organismo autónomo deberán indicar expresamente su carácter', es decir, si es de carácter administrativo o de carácter comercial, industrial, financiero o análogo.",
+    "fuente": "Art. 164.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 165.1 del TRLRHL, el presupuesto general debe atender al cumplimiento del principio de estabilidad en los términos previstos en:",
+    "options": [
+      "La Ley 7/1985, Reguladora de las Bases del Régimen Local",
+      "La Ley 18/2001, General de Estabilidad Presupuestaria",
+      "La Ley 47/2003, General Presupuestaria",
+      "La Ley 39/2015, del Procedimiento Administrativo Común"
+    ],
+    "correct": 1,
+    "exp": "Art. 165.1: 'El presupuesto general atenderá al cumplimiento del principio de estabilidad en los términos previstos en la Ley 18/2001, General de Estabilidad Presupuestaria...'",
+    "fuente": "Art. 165.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 165.1 a) del TRLRHL, en los estados de gastos de los presupuestos integrantes del presupuesto general se incluirán, con la debida especificación:",
+    "options": [
+      "Las estimaciones de los distintos recursos económicos a liquidar durante el ejercicio",
+      "Los créditos necesarios para atender al cumplimiento de las obligaciones",
+      "Únicamente los créditos de personal fijo",
+      "Solo los créditos financiados con recursos afectados"
+    ],
+    "correct": 1,
+    "exp": "Art. 165.1 a): los estados de gastos incluirán, con la debida especificación, 'los créditos necesarios para atender al cumplimiento de las obligaciones'.",
+    "fuente": "Art. 165.1 a) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 165.1 b) del TRLRHL, en los estados de ingresos de los presupuestos integrantes del presupuesto general figurarán:",
+    "options": [
+      "Las estimaciones de los distintos recursos económicos a liquidar durante el ejercicio",
+      "Los créditos necesarios para atender al cumplimiento de las obligaciones",
+      "Únicamente los ingresos tributarios ya recaudados",
+      "Solo los ingresos procedentes de operaciones de crédito"
+    ],
+    "correct": 0,
+    "exp": "Art. 165.1 b): en los estados de ingresos 'figurarán las estimaciones de los distintos recursos económicos a liquidar durante el ejercicio'.",
+    "fuente": "Art. 165.1 b) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 165.1 del TRLRHL, las bases de ejecución del presupuesto, al adaptar las disposiciones generales en materia presupuestaria a la organización de la entidad, NO pueden:",
+    "options": [
+      "Establecer prevenciones para la mejor recaudación de los recursos",
+      "Modificar lo legislado para la administración económica ni comprender preceptos administrativos que requieran legalmente procedimiento distinto",
+      "Adaptarse a las circunstancias propias de la entidad",
+      "Contener prevenciones para la mejor realización de los gastos"
+    ],
+    "correct": 1,
+    "exp": "Art. 165.1 in fine: las bases de ejecución no pueden 'modificar lo legislado para la administración económica ni comprender preceptos de orden administrativo que requieran legalmente procedimiento y solemnidades específicas distintas de lo previsto para el presupuesto'.",
+    "fuente": "Art. 165.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 165.2 del TRLRHL, los recursos de la entidad local y de cada uno de sus organismos autónomos y sociedades mercantiles se destinarán a satisfacer el conjunto de sus respectivas obligaciones, salvo:",
+    "options": [
+      "El caso de ingresos específicos afectados a fines determinados",
+      "Que el Pleno acuerde lo contrario por mayoría simple",
+      "Los ingresos procedentes de contribuciones especiales",
+      "Los ingresos derivados de operaciones de crédito a largo plazo"
+    ],
+    "correct": 0,
+    "exp": "Art. 165.2: los recursos se destinan a satisfacer el conjunto de las obligaciones, 'salvo en el caso de ingresos específicos afectados a fines determinados'.",
+    "fuente": "Art. 165.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 165.3 del TRLRHL, los derechos liquidados y las obligaciones reconocidas se aplicarán a los presupuestos:",
+    "options": [
+      "Por su importe íntegro, quedando prohibido atender obligaciones mediante minoración de los derechos, salvo autorización legal expresa",
+      "Por su importe neto, previa compensación entre ambos",
+      "Únicamente si superan la cuantía de 3.000 euros",
+      "Solo tras su fiscalización previa por el Tribunal de Cuentas"
+    ],
+    "correct": 0,
+    "exp": "Art. 165.3: 'Los derechos liquidados y las obligaciones reconocidas se aplicarán a los presupuestos por su importe íntegro, quedando prohibido atender obligaciones mediante minoración de los derechos a liquidar o ya ingresados, salvo que la ley lo autorice de modo expreso.'",
+    "fuente": "Art. 165.3 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 165.3 del TRLRHL, se exceptúa de la prohibición de minorar derechos para atender obligaciones el supuesto de:",
+    "options": [
+      "Las devoluciones de ingresos que se declaren indebidos por tribunal o autoridad competentes",
+      "Las subvenciones finalistas de la Comunidad Autónoma",
+      "Los anticipos de tesorería a corto plazo",
+      "Las contribuciones especiales no cobradas"
+    ],
+    "correct": 0,
+    "exp": "Art. 165.3 in fine: 'Se exceptúan de lo anterior las devoluciones de ingresos que se declaren indebidos por tribunal o autoridad competentes.'",
+    "fuente": "Art. 165.3 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 166.1 a) del TRLRHL, ¿qué entidades pueden formular los planes y programas de inversión y financiación que se unen como anexo al presupuesto general?",
+    "options": [
+      "Cualquier entidad local, sin excepción alguna",
+      "Los municipios y demás entidades locales de ámbito supramunicipal",
+      "Únicamente las Diputaciones Provinciales",
+      "Solo los municipios de gran población"
+    ],
+    "correct": 1,
+    "exp": "Art. 166.1 a): se unen como anexo 'los planes y programas de inversión y financiación que, para un plazo de cuatro años, podrán formular los municipios y demás entidades locales de ámbito supramunicipal'.",
+    "fuente": "Art. 166.1 a) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 166.1 b) del TRLRHL, se unen como anexo al presupuesto general los programas anuales de actuación, inversiones y financiación de las sociedades mercantiles:",
+    "options": [
+      "De cuyo capital social sea titular único o partícipe mayoritario la entidad local",
+      "Cuyo capital social pertenezca íntegramente a la entidad local",
+      "Que hayan suscrito un convenio de colaboración con la entidad local",
+      "Que presten servicios públicos en régimen de concesión"
+    ],
+    "correct": 0,
+    "exp": "Art. 166.1 b): anexo de 'los programas anuales de actuación, inversiones y financiación de las sociedades mercantiles de cuyo capital social sea titular único o partícipe mayoritario la entidad local'.",
+    "fuente": "Art. 166.1 b) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 166.1 c) del TRLRHL, uno de los anexos del presupuesto general es:",
+    "options": [
+      "El informe económico-financiero sobre suficiencia de créditos",
+      "El estado de consolidación del presupuesto de la propia entidad con el de todos los presupuestos y estados de previsión de sus organismos autónomos y sociedades mercantiles",
+      "La memoria explicativa de las modificaciones respecto al presupuesto vigente",
+      "El anexo de personal de la entidad local"
+    ],
+    "correct": 1,
+    "exp": "Art. 166.1 c): se une como anexo 'el estado de consolidación del presupuesto de la propia entidad con el de todos los presupuestos y estados de previsión de sus organismos autónomos y sociedades mercantiles'.",
+    "fuente": "Art. 166.1 c) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 166.1 d) del TRLRHL, el estado de previsión de movimientos y situación de la deuda que se une como anexo al presupuesto general debe distinguir, entre otros extremos:",
+    "options": [
+      "Operaciones a corto plazo, operaciones a largo plazo, de recurrencia al mercado de capitales y operaciones realizadas en divisas o similares",
+      "Únicamente el importe total de la deuda viva a 1 de enero",
+      "Solo las operaciones de crédito concertadas con el Estado",
+      "Exclusivamente las amortizaciones ya realizadas en el ejercicio anterior"
+    ],
+    "correct": 0,
+    "exp": "Art. 166.1 d): el estado de previsión de la deuda comprende el detalle de operaciones pendientes de reembolso, las nuevas previstas y el volumen de endeudamiento al cierre, 'con distinción de operaciones a corto plazo, operaciones a largo plazo, de recurrencia al mercado de capitales y realizadas en divisas o similares', así como las amortizaciones previstas.",
+    "fuente": "Art. 166.1 d) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta",
+    "correccion": "La opción marcada como correcta omitía una de las cuatro categorías que el art. 166.1 d) TRLRHL exige distinguir ('de recurrencia al mercado de capitales'), limitándose a tres. Se corrige el texto de esa opción para incluir la categoría omitida y que enumere las cuatro distinciones literales del artículo. No cambia el índice de la opción correcta (0), que sigue siendo la única opción cierta frente a las demás, redactadas con 'únicamente/solo/exclusivamente'."
+  },
+  {
+    "q": "Según el art. 166.2 del TRLRHL, el programa financiero que completa el plan de inversiones debe contener, entre otros extremos:",
+    "options": [
+      "Únicamente el listado de proveedores adjudicatarios de las obras",
+      "Las operaciones de crédito necesarias para completar la financiación, con indicación de los costes que vayan a generar",
+      "Solo el calendario de licitación de los contratos de obra",
+      "Exclusivamente el informe de fiscalización previa de la Intervención"
+    ],
+    "correct": 1,
+    "exp": "Art. 166.2 c): el programa financiero contendrá 'las operaciones de crédito que resulten necesarias para completar la financiación, con indicación de los costes que vayan a generar'.",
+    "fuente": "Art. 166.2 c) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 166.2 del TRLRHL, el plan de inversiones que se une como anexo al presupuesto general deberá coordinarse, en su caso, con:",
+    "options": [
+      "El programa de actuación y planes de etapas de planeamiento urbanístico",
+      "El plan director de la Policía Local",
+      "El plan de emergencias municipal",
+      "El calendario de fiestas locales"
+    ],
+    "correct": 0,
+    "exp": "Art. 166.2: 'El plan de inversiones que deberá coordinarse, en su caso, con el programa de actuación y planes de etapas de planeamiento urbanístico, se completará con el programa financiero...'",
+    "fuente": "Art. 166.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 166.3 del TRLRHL, de los planes y programas de inversión y financiación se dará cuenta, en su caso, al Pleno de la Corporación:",
+    "options": [
+      "Coincidiendo con la aprobación del presupuesto, debiendo ser objeto de revisión anual añadiendo un nuevo ejercicio a sus previsiones",
+      "Solo cuando lo solicite expresamente un grupo municipal",
+      "Una vez cada cuatro años, al inicio del mandato corporativo",
+      "Únicamente si superan el 20% del presupuesto total"
+    ],
+    "correct": 0,
+    "exp": "Art. 166.3: 'De los planes y programas de inversión y financiación se dará cuenta, en su caso, al Pleno de la Corporación coincidiendo con la aprobación del presupuesto, debiendo ser objeto de revisión anual, añadiendo un nuevo ejercicio a sus previsiones.'",
+    "fuente": "Art. 166.3 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 167.1 del TRLRHL, la competencia para establecer con carácter general la estructura de los presupuestos de las entidades locales corresponde a:",
+    "options": [
+      "El Pleno de cada entidad local",
+      "El Ministerio de Hacienda y Administraciones Públicas",
+      "El Tribunal de Cuentas",
+      "La Comisión Nacional de Administración Local"
+    ],
+    "correct": 1,
+    "exp": "Art. 167.1: 'El Ministerio de Hacienda y Administraciones Públicas establecerá con carácter general la estructura de los presupuestos de las entidades locales...'",
+    "fuente": "Art. 167.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 167.2 del TRLRHL, las entidades locales podrán clasificar los gastos e ingresos atendiendo a su propia estructura de acuerdo con:",
+    "options": [
+      "Sus reglamentos o decretos de organización",
+      "Una autorización expresa del Ministerio de Hacienda para cada ejercicio",
+      "Un convenio previo con la Comunidad Autónoma",
+      "El criterio exclusivo de la Intervención municipal"
+    ],
+    "correct": 0,
+    "exp": "Art. 167.2: 'Las entidades locales podrán clasificar los gastos e ingresos atendiendo a su propia estructura de acuerdo con sus reglamentos o decretos de organización.'",
+    "fuente": "Art. 167.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 167.3 a) del TRLRHL, la clasificación por programas de los estados de gastos constará de los siguientes niveles: el primero relativo al área de gasto, el segundo a la política de gasto, y el tercero a:",
+    "options": [
+      "Los grupos de programas, que se subdividirán en programas",
+      "Los capítulos presupuestarios",
+      "Las aplicaciones orgánicas",
+      "Los conceptos económicos"
+    ],
+    "correct": 0,
+    "exp": "Art. 167.3 a): la clasificación por programas consta de tres niveles: 'el primero relativo al área de gasto, el segundo a la política de gasto, el tercero a los grupos de programas, que se subdividirán en programas'.",
+    "fuente": "Art. 167.3 a) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 167.3 a) in fine del TRLRHL, los niveles de área de gasto y de política de gasto de la clasificación por programas se ajustarán, con las peculiaridades locales que puedan concurrir, a:",
+    "options": [
+      "Los establecidos para la Administración del Estado",
+      "Los que libremente determine cada Comunidad Autónoma",
+      "Los fijados por el Tribunal de Cuentas europeo",
+      "Los criterios contables de la empresa privada"
+    ],
+    "correct": 0,
+    "exp": "Art. 167.3 a) in fine: 'los niveles de área de gasto y de política de gasto se ajustarán a los establecidos para la Administración del Estado'.",
+    "fuente": "Art. 167.3 a) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 167.3 b) del TRLRHL, en los créditos para gastos de capital se incluirán las inversiones reales, las variaciones de activos y pasivos financieros y:",
+    "options": [
+      "Las transferencias de capital",
+      "Los intereses de la deuda",
+      "Las transferencias corrientes",
+      "Los gastos de funcionamiento de los servicios"
+    ],
+    "correct": 0,
+    "exp": "Art. 167.3 b): 'En los créditos para gastos de capital, los de inversiones reales, las transferencias de capital y las variaciones de activos y pasivos financieros.' Los intereses y las transferencias corrientes se clasifican, en cambio, como gastos corrientes.",
+    "fuente": "Art. 167.3 b) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 167.3 c) del TRLRHL, la clasificación económica de los estados de gastos constará de tres niveles: el primero relativo al capítulo, el segundo al artículo y el tercero:",
+    "options": [
+      "Al concepto",
+      "Al subconcepto",
+      "A la partida",
+      "Al programa"
+    ],
+    "correct": 0,
+    "exp": "Art. 167.3 c): 'la clasificación económica constará de tres niveles, el primero relativo al capítulo, el segundo al artículo y el tercero al concepto', ampliable en subconcepto y partida.",
+    "fuente": "Art. 167.3 c) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 167.4 del TRLRHL, el control contable de los gastos se realizará sobre la aplicación presupuestaria, mientras que el control fiscal se realizará sobre:",
+    "options": [
+      "El nivel de vinculación determinado conforme al art. 172 de la propia ley",
+      "El importe total del capítulo presupuestario",
+      "El resultado de la liquidación del ejercicio anterior",
+      "El remanente de tesorería disponible"
+    ],
+    "correct": 0,
+    "exp": "Art. 167.4: 'El control contable de los gastos se realizará sobre la aplicación presupuestaria antes definida y el fiscal sobre el nivel de vinculación determinado conforme dispone el artículo 172 de esta Ley.'",
+    "fuente": "Art. 167.4 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 167.5 del TRLRHL, corresponde al Ministerio de Hacienda y Administraciones Públicas establecer:",
+    "options": [
+      "La estructura de la información de los presupuestos, de su ejecución y liquidación, a la que deben ajustarse las entidades locales",
+      "El importe máximo del presupuesto de cada entidad local",
+      "La composición de la Comisión Especial de Cuentas",
+      "El calendario electoral de cada corporación"
+    ],
+    "correct": 0,
+    "exp": "Art. 167.5: 'El Ministerio de Hacienda y Administraciones Públicas establecerá la estructura de la información de los presupuestos, de su ejecución y liquidación, a la que deberán ajustarse todas las entidades locales a efectos del cumplimiento de sus obligaciones de remisión de dicha información.'",
+    "fuente": "Art. 167.5 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 168.1 a) del TRLRHL, entre la documentación que ha de unirse al presupuesto formado por el Presidente de la Entidad Local figura:",
+    "options": [
+      "Una memoria explicativa de su contenido y de las principales modificaciones que presente en relación con el vigente",
+      "El acta de constitución de la corporación",
+      "El padrón municipal de habitantes actualizado",
+      "El inventario general de bienes muebles"
+    ],
+    "correct": 0,
+    "exp": "Art. 168.1 a): entre la documentación exigida figura la 'Memoria explicativa de su contenido y de las principales modificaciones que presente en relación con el vigente'.",
+    "fuente": "Art. 168.1 a) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 168.1 b) del TRLRHL, junto al presupuesto debe unirse la liquidación del presupuesto del ejercicio anterior y un avance de la del corriente, referido, al menos, a:",
+    "options": [
+      "Seis meses del ejercicio corriente",
+      "Tres meses del ejercicio corriente",
+      "El primer trimestre del ejercicio anterior",
+      "La totalidad del ejercicio anterior"
+    ],
+    "correct": 0,
+    "exp": "Art. 168.1 b): se exige 'Liquidación del presupuesto del ejercicio anterior y avance de la del corriente, referida, al menos, a seis meses del ejercicio corriente'.",
+    "fuente": "Art. 168.1 b) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 168.1 c) del TRLRHL, entre la documentación que se une al presupuesto de la Entidad Local figura:",
+    "options": [
+      "El anexo de personal de la Entidad Local",
+      "El anexo de beneficios fiscales en tributos locales",
+      "El informe económico-financiero",
+      "El anexo de inversiones a realizar en el ejercicio"
+    ],
+    "correct": 0,
+    "exp": "Art. 168.1 c): entre los documentos exigidos figura el 'Anexo de personal de la Entidad Local', distinto del anexo de inversiones (letra d) y del anexo de beneficios fiscales (letra e).",
+    "fuente": "Art. 168.1 c) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 168.1 e) del TRLRHL, el anexo de beneficios fiscales en tributos locales que se une al presupuesto debe contener información detallada de dichos beneficios y de:",
+    "options": [
+      "Su incidencia en los ingresos de cada Entidad Local",
+      "Su repercusión en el gasto de personal",
+      "Su efecto sobre el remanente de tesorería",
+      "Su incidencia en el plan de pensiones municipal"
+    ],
+    "correct": 0,
+    "exp": "Art. 168.1 e): 'Anexo de beneficios fiscales en tributos locales conteniendo información detallada de los beneficios fiscales y su incidencia en los ingresos de cada Entidad Local.'",
+    "fuente": "Art. 168.1 e) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 168.1 f) del TRLRHL, entre la documentación anexa al presupuesto debe figurar información relativa a los convenios suscritos con las Comunidades Autónomas en materia de:",
+    "options": [
+      "Gasto social",
+      "Régimen electoral",
+      "Ordenación del territorio",
+      "Sanidad exterior"
+    ],
+    "correct": 0,
+    "exp": "Art. 168.1 f): 'Anexo con información relativa a los convenios suscritos con las Comunidades Autónomas en materia de gasto social, con especificación de la cuantía de las obligaciones de pago y de los derechos económicos...'",
+    "fuente": "Art. 168.1 f) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 168.1 g) del TRLRHL, el informe económico-financiero que se une al presupuesto debe exponer, entre otros extremos:",
+    "options": [
+      "Las bases utilizadas para la evaluación de los ingresos y de las operaciones de crédito previstas, y la efectiva nivelación del presupuesto",
+      "Únicamente el organigrama del personal directivo",
+      "Solo el balance de situación del ejercicio anterior",
+      "Exclusivamente el listado de contratos menores adjudicados"
+    ],
+    "correct": 0,
+    "exp": "Art. 168.1 g): el informe económico-financiero expone 'las bases utilizadas para la evaluación de los ingresos y de las operaciones de crédito previstas, la suficiencia de los créditos... y, en consecuencia, la efectiva nivelación del presupuesto'.",
+    "fuente": "Art. 168.1 g) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 168.2 del TRLRHL, el presupuesto de cada organismo autónomo integrante del presupuesto general, propuesto inicialmente por su órgano competente, debe remitirse a la Entidad Local de la que dependa antes del:",
+    "options": [
+      "15 de septiembre de cada año",
+      "15 de octubre de cada año",
+      "1 de enero del ejercicio siguiente",
+      "31 de diciembre del propio ejercicio"
+    ],
+    "correct": 0,
+    "exp": "Art. 168.2: el presupuesto de cada organismo autónomo 'será remitido a la Entidad Local de la que dependan antes del 15 de septiembre de cada año, acompañado de la documentación detallada en el apartado anterior'.",
+    "fuente": "Art. 168.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 168.3 del TRLRHL, las sociedades mercantiles, incluso aquellas en cuyo capital sea mayoritaria la participación de la Entidad Local, deben remitir a esta, antes del 15 de septiembre de cada año:",
+    "options": [
+      "Sus previsiones de gastos e ingresos y los programas anuales de actuación, inversiones y financiación para el ejercicio siguiente",
+      "El balance definitivo del ejercicio en curso",
+      "El acta de la junta general de socios",
+      "La memoria de responsabilidad social corporativa"
+    ],
+    "correct": 0,
+    "exp": "Art. 168.3: las sociedades mercantiles remitirán a la Entidad Local, antes del 15 de septiembre, 'sus previsiones de gastos e ingresos, así como los programas anuales de actuación, inversiones y financiación para el ejercicio siguiente'.",
+    "fuente": "Art. 168.3 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 169.1 del TRLRHL, el anuncio previo a la exposición pública del presupuesto general aprobado inicialmente se publica en el boletín oficial de la provincia o, en su caso, en:",
+    "options": [
+      "El de la comunidad autónoma uniprovincial",
+      "El Boletín Oficial del Estado",
+      "El Diario Oficial de la Unión Europea",
+      "El boletín de la Diputación limítrofe"
+    ],
+    "correct": 0,
+    "exp": "Art. 169.1: el presupuesto se expone al público 'previo anuncio en el boletín oficial de la provincia o, en su caso, de la comunidad autónoma uniprovincial'.",
+    "fuente": "Art. 169.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 169.3 del TRLRHL, el presupuesto general definitivamente aprobado será insertado en el boletín oficial de la corporación, si lo tuviera, y en el de la provincia:",
+    "options": [
+      "Resumido por capítulos de cada uno de los presupuestos que lo integran",
+      "De forma íntegra y detallada hasta el nivel de partida",
+      "Únicamente en su estado de ingresos",
+      "Solo si supera un determinado importe total"
+    ],
+    "correct": 0,
+    "exp": "Art. 169.3: el presupuesto definitivamente aprobado 'será insertado en el boletín oficial de la corporación, si lo tuviera, y, resumido por capítulos de cada uno de los presupuestos que lo integran, en el de la provincia o, en su caso, de la comunidad autónoma uniprovincial'.",
+    "fuente": "Art. 169.3 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 169.4 del TRLRHL, del presupuesto general definitivamente aprobado se remitirá copia a la Administración del Estado y a la correspondiente comunidad autónoma:",
+    "options": [
+      "Simultáneamente al envío al boletín oficial a que se refiere el apartado anterior",
+      "En el plazo de un mes tras su entrada en vigor",
+      "Solo si lo solicita expresamente el Delegado del Gobierno",
+      "Antes del 15 de octubre del ejercicio anterior"
+    ],
+    "correct": 0,
+    "exp": "Art. 169.4: 'Del presupuesto general definitivamente aprobado se remitirá copia a la Administración del Estado y a la correspondiente comunidad autónoma. La remisión se realizará simultáneamente al envío al boletín oficial a que se refiere el apartado anterior.'",
+    "fuente": "Art. 169.4 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 169.5 del TRLRHL, el presupuesto entrará en vigor, en el ejercicio correspondiente:",
+    "options": [
+      "Una vez publicado en la forma prevista en el apartado 3 de este artículo",
+      "El mismo día de su aprobación definitiva por el Pleno",
+      "El 1 de enero del ejercicio, en todo caso",
+      "Transcurridos quince días desde su aprobación inicial"
+    ],
+    "correct": 0,
+    "exp": "Art. 169.5: 'El presupuesto entrará en vigor, en el ejercicio correspondiente, una vez publicado en la forma prevista en el apartado 3 de este artículo.'",
+    "fuente": "Art. 169.5 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 169.6 del TRLRHL, la prórroga automática del presupuesto del ejercicio anterior cuando no haya entrado en vigor el nuevo NO afectará a los créditos para servicios o programas que deban concluir en el ejercicio anterior o que estén financiados con:",
+    "options": [
+      "Crédito u otros ingresos específicos o afectados",
+      "Recursos procedentes de tasas municipales",
+      "Transferencias corrientes del Estado",
+      "El Fondo de Cooperación Local"
+    ],
+    "correct": 0,
+    "exp": "Art. 169.6 in fine: 'La prórroga no afectará a los créditos para servicios o programas que deban concluir en el ejercicio anterior o que estén financiados con crédito u otros ingresos específicos o afectados.'",
+    "fuente": "Art. 169.6 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 169.7 del TRLRHL, la copia del presupuesto y de sus modificaciones deberá hallarse a disposición del público, a efectos informativos:",
+    "options": [
+      "Desde su aprobación definitiva hasta la finalización del ejercicio",
+      "Únicamente durante el mes de enero del ejercicio",
+      "Solo mientras dure el trámite de exposición pública inicial",
+      "Desde su aprobación inicial hasta su aprobación definitiva"
+    ],
+    "correct": 0,
+    "exp": "Art. 169.7: 'La copia del presupuesto y de sus modificaciones deberá hallarse a disposición del público, a efectos informativos, desde su aprobación definitiva hasta la finalización del ejercicio.'",
+    "fuente": "Art. 169.7 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  }
+]);
+
+/* tema 13 · lote 2026-08-11 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 13, [
+  {
+    "q": "Según el art. 191.1 TRLRHL, ¿en qué fecha se liquida el presupuesto de cada ejercicio en cuanto a la recaudación de derechos y al pago de obligaciones?",
+    "options": [
+      "El 31 de diciembre del año natural correspondiente",
+      "El 31 de enero del ejercicio siguiente",
+      "El 1 de marzo del ejercicio siguiente",
+      "El 30 de junio del ejercicio siguiente"
+    ],
+    "correct": 0,
+    "exp": "El art. 191.1 TRLRHL establece que el presupuesto de cada ejercicio se liquidará, en cuanto a la recaudación de derechos y al pago de obligaciones, el 31 de diciembre del año natural correspondiente.",
+    "fuente": "Art. 191.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el art. 191.1 TRLRHL, tras la liquidación del presupuesto a 31 de diciembre, ¿quién queda a cargo de los ingresos y pagos pendientes?",
+    "options": [
+      "La Tesorería local, según sus respectivas contracciones",
+      "La Intervención municipal",
+      "El Pleno de la corporación",
+      "La Junta de Gobierno Local"
+    ],
+    "correct": 0,
+    "exp": "El artículo señala que quedan a cargo de la Tesorería local los ingresos y pagos pendientes, según sus respectivas contracciones.",
+    "fuente": "Art. 191.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué conceptos configuran el remanente de tesorería de la entidad local, según el art. 191.2 TRLRHL?",
+    "options": [
+      "Las obligaciones reconocidas y liquidadas no satisfechas el último día del ejercicio, los derechos pendientes de cobro y los fondos líquidos a 31 de diciembre",
+      "Los créditos definitivos, las obligaciones reconocidas y los derechos anulados",
+      "El presupuesto inicial, las modificaciones de crédito y los remanentes de crédito",
+      "Los ingresos presupuestarios corrientes y los gastos de capital pendientes de pago"
+    ],
+    "correct": 0,
+    "exp": "El art. 191.2 TRLRHL indica que las obligaciones reconocidas y liquidadas no satisfechas el último día del ejercicio, los derechos pendientes de cobro y los fondos líquidos a 31 de diciembre configuran el remanente de tesorería.",
+    "fuente": "Art. 191.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Al cuantificar el remanente de tesorería, ¿qué debe tenerse en cuenta según el art. 191.2 TRLRHL?",
+    "options": [
+      "Los posibles ingresos afectados y la minoración, en los términos reglamentarios, de los derechos pendientes de cobro de difícil o imposible recaudación",
+      "Únicamente el resultado presupuestario del ejercicio",
+      "Solo las desviaciones de financiación positivas del ejercicio",
+      "Exclusivamente el saldo de las operaciones de crédito a largo plazo"
+    ],
+    "correct": 0,
+    "exp": "El art. 191.2 TRLRHL exige tener en cuenta los posibles ingresos afectados y minorar, conforme a lo que reglamentariamente se establezca, los derechos pendientes de cobro que se consideren de difícil o imposible recaudación.",
+    "fuente": "Art. 191.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Antes de qué fecha deben las entidades locales confeccionar la liquidación de su presupuesto, según el art. 191.3 TRLRHL?",
+    "options": [
+      "Antes del día 30 de abril del ejercicio siguiente",
+      "Antes del día 1 de marzo del ejercicio siguiente",
+      "Antes del día 1 de enero del ejercicio siguiente",
+      "Antes del día 31 de marzo del ejercicio siguiente"
+    ],
+    "correct": 1,
+    "exp": "El art. 191.3 TRLRHL obliga a confeccionar la liquidación del presupuesto antes del día primero de marzo del ejercicio siguiente.",
+    "fuente": "Art. 191.3 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La aprobación de la liquidación del presupuesto de la entidad local corresponde, según el art. 191.3 TRLRHL, a...",
+    "options": [
+      "El Pleno de la corporación, previo informe de la Intervención",
+      "El presidente de la entidad local, previo informe de la Intervención",
+      "La Junta de Gobierno Local, a propuesta del Interventor",
+      "El Interventor, con el visto bueno del presidente"
+    ],
+    "correct": 1,
+    "exp": "El párrafo segundo del art. 191.3 TRLRHL atribuye la aprobación de la liquidación del presupuesto al presidente de la entidad local, previo informe de la Intervención.",
+    "fuente": "Art. 191.3 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 192.1 TRLRHL, ¿a qué se ajustará la liquidación de los presupuestos de los organismos autónomos?",
+    "options": [
+      "A lo dispuesto en el apartado 1 del artículo anterior (art. 191.1 TRLRHL)",
+      "A lo dispuesto en el artículo 213 TRLRHL sobre control interno",
+      "A lo dispuesto en el artículo 162 TRLRHL sobre el presupuesto general",
+      "A lo dispuesto en la Ley 47/2003 exclusivamente, sin remisión al art. 191"
+    ],
+    "correct": 0,
+    "exp": "El art. 192.1 TRLRHL establece que la liquidación de los presupuestos de los organismos autónomos se ajustará a lo dispuesto en el apartado 1 del artículo anterior.",
+    "fuente": "Art. 192.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cómo se regularán las operaciones de cierre del ejercicio económico y de liquidación de los presupuestos de los organismos autónomos, conforme al art. 192.1 TRLRHL?",
+    "options": [
+      "Por acuerdo del Pleno de la entidad local matriz",
+      "Reglamentariamente, atendiendo al carácter de los citados organismos",
+      "Mediante ordenanza fiscal específica",
+      "Por instrucción de la Intervención General de la Administración del Estado"
+    ],
+    "correct": 1,
+    "exp": "El art. 192.1 TRLRHL remite a la vía reglamentaria la regulación de las operaciones de cierre y liquidación de los presupuestos de los organismos autónomos, atendiendo a su carácter.",
+    "fuente": "Art. 192.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La liquidación de los presupuestos de los organismos autónomos, según el art. 192.2 TRLRHL, debe ser informada por... y propuesta por..., remitiéndose después a la entidad local para su aprobación por...",
+    "options": [
+      "la Intervención correspondiente; el órgano competente del organismo; su presidente",
+      "el Interventor de la entidad matriz; el Pleno del organismo; la Junta de Gobierno Local",
+      "el Tribunal de Cuentas; el presidente del organismo; el Pleno de la entidad local",
+      "la Intervención General del Estado; el gerente del organismo; el Delegado del Gobierno"
+    ],
+    "correct": 0,
+    "exp": "El art. 192.2 TRLRHL exige que la liquidación sea informada por la Intervención correspondiente y propuesta por el órgano competente del organismo autónomo, remitiéndose a la entidad local para su aprobación por el presidente.",
+    "fuente": "Art. 192.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La remisión de la liquidación de los presupuestos de los organismos autónomos a la entidad local, según el art. 192.2 TRLRHL, se hace para su aprobación por el presidente y, además, a los efectos previstos en...",
+    "options": [
+      "el artículo 187 TRLRHL, sobre el plan de disposición de fondos",
+      "el artículo siguiente (art. 193 TRLRHL, remanente de tesorería negativo)",
+      "el artículo 213 TRLRHL, sobre control interno",
+      "el artículo 200 TRLRHL, sobre régimen jurídico contable"
+    ],
+    "correct": 1,
+    "exp": "El art. 192.2 TRLRHL indica expresamente que la remisión se hace para la aprobación por el presidente 'y a los efectos previstos en el artículo siguiente', es decir, el art. 193 sobre remanente de tesorería negativo.",
+    "fuente": "Art. 192.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Si la liquidación del presupuesto de una corporación local arroja un remanente de tesorería negativo, el Pleno debe, en la primera sesión que celebre, según el art. 193.1 TRLRHL...",
+    "options": [
+      "Aprobar obligatoriamente una operación de crédito por el importe del déficit",
+      "Proceder a la reducción de gastos del nuevo presupuesto por cuantía igual al déficit producido",
+      "Elevar consulta previa a la comunidad autónoma antes de actuar",
+      "Suspender la ejecución del presupuesto vigente hasta nueva liquidación"
+    ],
+    "correct": 1,
+    "exp": "El art. 193.1 TRLRHL obliga al Pleno de la corporación (o al órgano competente del organismo autónomo) a reducir gastos del nuevo presupuesto por cuantía igual al déficit, en la primera sesión que celebre.",
+    "fuente": "Art. 193.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La reducción de gastos acordada por remanente de tesorería negativo, conforme al art. 193.1 TRLRHL, solo podrá revocarse...",
+    "options": [
+      "Por decreto del presidente, sin intervención del Pleno",
+      "Por acuerdo del Pleno, a propuesta del presidente y previo informe del Interventor, si el desarrollo del presupuesto y la tesorería lo consintiesen",
+      "Por acuerdo de la Junta de Gobierno Local, previo informe del secretario",
+      "Automáticamente al cierre del ejercicio siguiente"
+    ],
+    "correct": 1,
+    "exp": "El art. 193.1 TRLRHL exige acuerdo del Pleno, a propuesta del presidente y previo informe del Interventor, y solo cuando el desarrollo normal del presupuesto y la situación de la tesorería lo consintiesen.",
+    "fuente": "Art. 193.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Si el remanente de tesorería negativo corresponde a un organismo autónomo local, ¿qué órgano debe proceder a la reducción de gastos según el art. 193.1 TRLRHL?",
+    "options": [
+      "El Pleno de la corporación matriz, en todo caso",
+      "El órgano competente del organismo autónomo",
+      "El presidente del organismo autónomo, sin necesidad de acuerdo alguno",
+      "La Intervención del organismo autónomo"
+    ],
+    "correct": 1,
+    "exp": "El art. 193.1 TRLRHL atribuye la decisión al Pleno de la corporación o al órgano competente del organismo autónomo, 'según corresponda'.",
+    "fuente": "Art. 193.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Si la reducción de gastos por remanente de tesorería negativo no resulta posible, el art. 193.2 TRLRHL permite acudir a...",
+    "options": [
+      "Una subida de tipos impositivos en el ejercicio corriente",
+      "El concierto de una operación de crédito por su importe, en las condiciones del art. 177.5 TRLRHL",
+      "La venta anticipada de patrimonio municipal del suelo",
+      "Una subvención finalista solicitada al Estado"
+    ],
+    "correct": 1,
+    "exp": "El art. 193.2 TRLRHL prevé, si no resulta posible la reducción de gastos, acudir al concierto de una operación de crédito por su importe, siempre que se den las condiciones del art. 177.5 TRLRHL.",
+    "fuente": "Art. 193.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 193.3 TRLRHL, si no se adopta ni la reducción de gastos ni el concierto de operación de crédito por remanente negativo, el presupuesto del ejercicio siguiente...",
+    "options": [
+      "Quedará automáticamente prorrogado sin liquidación",
+      "Habrá de aprobarse con un superávit inicial de cuantía no inferior al déficit repetido",
+      "Se remitirá a la comunidad autónoma para su aprobación directa",
+      "Se declarará provisional hasta cubrir el déficit en dos ejercicios"
+    ],
+    "correct": 1,
+    "exp": "El art. 193.3 TRLRHL exige que, de no adoptarse ninguna de las dos medidas anteriores, el presupuesto siguiente se apruebe con un superávit inicial no inferior al déficit producido.",
+    "fuente": "Art. 193.3 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De la liquidación de cada uno de los presupuestos que integran el presupuesto general y de los estados financieros de las sociedades mercantiles dependientes, una vez aprobada, según el art. 193.4 TRLRHL, se dará cuenta...",
+    "options": [
+      "Al Tribunal de Cuentas, en el plazo de un mes",
+      "Al Pleno, en la primera sesión que celebre",
+      "A la Junta de Gobierno Local, en la sesión siguiente",
+      "A la Intervención General del Estado, en el plazo de quince días"
+    ],
+    "correct": 1,
+    "exp": "El art. 193.4 TRLRHL exige dar cuenta al Pleno, en la primera sesión que celebre, de la liquidación de cada presupuesto integrante del presupuesto general y de los estados financieros de las sociedades mercantiles dependientes.",
+    "fuente": "Art. 193.4 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Antes de qué fecha deben las entidades locales remitir copia de la liquidación de sus presupuestos a la Administración del Estado y a la comunidad autónoma, según el art. 193.5 TRLRHL?",
+    "options": [
+      "Antes del 1 de enero del ejercicio siguiente",
+      "Antes de finalizar el mes de marzo del ejercicio siguiente al que corresponda",
+      "Antes del 30 de junio del ejercicio siguiente",
+      "Antes del 31 de diciembre del ejercicio liquidado"
+    ],
+    "correct": 1,
+    "exp": "El art. 193.5 TRLRHL fija el plazo de remisión de la copia de la liquidación antes de finalizar el mes de marzo del ejercicio siguiente al que corresponda.",
+    "fuente": "Art. 193.5 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué consecuencia prevé el art. 193.5 TRLRHL para la falta de remisión de la liquidación en el plazo señalado?",
+    "options": [
+      "La suspensión automática de las transferencias del Estado a la entidad",
+      "Faculta a la Administración para utilizar como actuales, a cualquier efecto, los datos que conozca relativos a la entidad",
+      "La apertura automática de expediente disciplinario al Interventor",
+      "La intervención directa de la tesorería local por el Estado"
+    ],
+    "correct": 1,
+    "exp": "El art. 193.5 TRLRHL establece que la falta de remisión en plazo faculta a la Administración para utilizar como actuales, a cualquier efecto, los datos que conozca relativos a la entidad de que se trate.",
+    "fuente": "Art. 193.5 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 193 bis TRLRHL, ¿a quién deben informar las entidades locales del resultado de aplicar los criterios de derechos de difícil o imposible recaudación?",
+    "options": [
+      "Solo al Tribunal de Cuentas",
+      "Al Ministerio de Hacienda y Administraciones Públicas y a su Pleno, u órgano equivalente",
+      "Solo a la Intervención General de la Administración del Estado",
+      "A la comunidad autónoma y al Defensor del Pueblo"
+    ],
+    "correct": 1,
+    "exp": "El art. 193 bis TRLRHL obliga a informar al Ministerio de Hacienda y Administraciones Públicas y al Pleno de la entidad, u órgano equivalente, del resultado de aplicar los criterios de derechos de difícil o imposible recaudación.",
+    "fuente": "Art. 193 bis TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 193 bis.a) TRLRHL, los derechos pendientes de cobro liquidados dentro de los presupuestos de los dos ejercicios anteriores al de la liquidación se minorarán, como mínimo, en...",
+    "options": [
+      "Un 10 por ciento",
+      "Un 25 por ciento",
+      "Un 50 por ciento",
+      "Un 75 por ciento"
+    ],
+    "correct": 1,
+    "exp": "El art. 193 bis.a) TRLRHL fija una minoración mínima del 25 por ciento para los derechos pendientes de cobro de los dos ejercicios anteriores al de la liquidación.",
+    "fuente": "Art. 193 bis.a) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 193 bis.b) TRLRHL, los derechos pendientes de cobro liquidados dentro del presupuesto del ejercicio tercero anterior al de la liquidación se minorarán, como mínimo, en...",
+    "options": [
+      "Un 25 por ciento",
+      "Un 50 por ciento",
+      "Un 75 por ciento",
+      "Un 100 por ciento"
+    ],
+    "correct": 1,
+    "exp": "El art. 193 bis.b) TRLRHL establece una minoración mínima del 50 por ciento para los derechos del ejercicio tercero anterior al de la liquidación.",
+    "fuente": "Art. 193 bis.b) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 193 bis.c) TRLRHL, los derechos pendientes de cobro liquidados dentro de los presupuestos de los ejercicios cuarto a quinto anteriores al de la liquidación se minorarán, como mínimo, en...",
+    "options": [
+      "Un 50 por ciento",
+      "Un 75 por ciento",
+      "Un 25 por ciento",
+      "Un 100 por ciento"
+    ],
+    "correct": 1,
+    "exp": "El art. 193 bis.c) TRLRHL fija una minoración mínima del 75 por ciento para los derechos de los ejercicios cuarto a quinto anteriores al de la liquidación.",
+    "fuente": "Art. 193 bis.c) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 193 bis.d) TRLRHL, los derechos pendientes de cobro liquidados dentro de los presupuestos de los restantes ejercicios anteriores al de la liquidación se minorarán en...",
+    "options": [
+      "Un 75 por ciento",
+      "Un 100 por ciento",
+      "Un 50 por ciento",
+      "Un 90 por ciento"
+    ],
+    "correct": 1,
+    "exp": "El art. 193 bis.d) TRLRHL exige minorar en un 100 por ciento los derechos pendientes de cobro de los restantes ejercicios anteriores no comprendidos en las letras a), b) y c).",
+    "fuente": "Art. 193 bis.d) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 193 bis TRLRHL, relativo a los derechos de difícil o imposible recaudación, fue incorporado al texto refundido por...",
+    "options": [
+      "El artículo 2.1 de la Ley 27/2013, de 27 de diciembre",
+      "La disposición final primera de la Ley 7/1985",
+      "El artículo 186 de la propia Ley 47/2003, General Presupuestaria",
+      "El Real Decreto 1463/2007, de desarrollo de la Ley de Estabilidad Presupuestaria"
+    ],
+    "correct": 0,
+    "exp": "El propio texto consolidado del art. 193 bis TRLRHL indica: 'Se añade por el art. 2.1 de la Ley 27/2013, de 27 de diciembre', con entrada en vigor el 31/12/2013.",
+    "fuente": "Art. 193 bis TRLRHL, nota de vigencia (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 194.1 TRLRHL, ¿qué constituye la tesorería de las entidades locales?",
+    "options": [
+      "Únicamente el efectivo depositado en la caja municipal",
+      "Todos los recursos financieros, sean dinero, valores o créditos, tanto por operaciones presupuestarias como extrapresupuestarias",
+      "Solo los créditos presupuestarios definitivos del ejercicio en curso",
+      "Exclusivamente los ingresos tributarios recaudados en el ejercicio"
+    ],
+    "correct": 1,
+    "exp": "El art. 194.1 TRLRHL define la tesorería local como todos los recursos financieros, sean dinero, valores o créditos, de la entidad local, tanto por operaciones presupuestarias como extrapresupuestarias.",
+    "fuente": "Art. 194.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Los preceptos del capítulo dedicado a la tesorería de las entidades locales (arts. 194 a 199 TRLRHL) son de aplicación, según el art. 194.2, también...",
+    "options": [
+      "Solo a las entidades locales de más de 20.000 habitantes",
+      "A los organismos autónomos",
+      "Únicamente a los municipios de gran población",
+      "También a las sociedades mercantiles íntegramente privadas ajenas a la entidad"
+    ],
+    "correct": 1,
+    "exp": "El art. 194.2 TRLRHL extiende expresamente los preceptos del capítulo a los organismos autónomos.",
+    "fuente": "Art. 194.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En lo no previsto en el capítulo relativo a la tesorería, esta se regirá, en cuanto le sea de aplicación, según el art. 194.3 TRLRHL, por...",
+    "options": [
+      "El Reglamento Orgánico de la propia entidad local",
+      "Las normas del capítulo tercero del título cuarto de la Ley 47/2003, de 26 de noviembre, General Presupuestaria",
+      "La Ley 39/2015, de Procedimiento Administrativo Común",
+      "La Ley 9/2017, de Contratos del Sector Público"
+    ],
+    "correct": 1,
+    "exp": "El art. 194.3 TRLRHL remite, en lo aplicable, a las normas del capítulo tercero del título cuarto de la Ley 47/2003, General Presupuestaria.",
+    "fuente": "Art. 194.3 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 195 TRLRHL, las disponibilidades de la tesorería local y sus variaciones quedan sujetas a...",
+    "options": [
+      "Auditoría externa exclusivamente",
+      "Intervención y al régimen de la contabilidad pública",
+      "Fiscalización previa exclusiva del Tribunal de Cuentas",
+      "Aprobación previa del Pleno en cada operación de tesorería"
+    ],
+    "correct": 1,
+    "exp": "El art. 195 TRLRHL dispone que las disponibilidades de la tesorería y sus variaciones quedan sujetas a intervención y al régimen de la contabilidad pública.",
+    "fuente": "Art. 195 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes NO figura entre las funciones de la tesorería de las entidades locales que enumera el art. 196.1 TRLRHL?",
+    "options": [
+      "Recaudar los derechos y pagar las obligaciones",
+      "Servir al principio de unidad de caja mediante la centralización de fondos y valores",
+      "Aprobar los pliegos de cláusulas administrativas particulares de los contratos",
+      "Responder de los avales contraídos"
+    ],
+    "correct": 2,
+    "exp": "El art. 196.1 TRLRHL enumera cinco funciones (recaudar y pagar, unidad de caja, distribuir disponibilidades, responder de avales y las demás relacionadas); la aprobación de pliegos de contratación no es una de ellas.",
+    "fuente": "Art. 196.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 196.1.c) TRLRHL, una de las funciones de la tesorería local es...",
+    "options": [
+      "Aprobar el presupuesto general de la entidad",
+      "Distribuir en el tiempo las disponibilidades dinerarias para la puntual satisfacción de las obligaciones",
+      "Fiscalizar previamente los actos de gestión económica",
+      "Formar el inventario de bienes municipales"
+    ],
+    "correct": 1,
+    "exp": "El art. 196.1.c) TRLRHL atribuye a la tesorería la función de distribuir en el tiempo las disponibilidades dinerarias para la puntual satisfacción de las obligaciones.",
+    "fuente": "Art. 196.1.c) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Entre las funciones de la tesorería local que enumera el art. 196.1 TRLRHL se encuentra, en su letra d)...",
+    "options": [
+      "Autorizar el gasto mediante acto administrativo",
+      "Responder de los avales contraídos",
+      "Fiscalizar previamente los expedientes de contratación",
+      "Aprobar las bases de ejecución del presupuesto"
+    ],
+    "correct": 1,
+    "exp": "El art. 196.1.d) TRLRHL incluye entre las funciones de la tesorería responder de los avales contraídos.",
+    "fuente": "Art. 196.1.d) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Las funciones de la tesorería enumeradas en el art. 196.1 TRLRHL se ejercerán, en su caso, según el art. 196.2, por...",
+    "options": [
+      "La Intervención General del Estado",
+      "La unidad central de tesorería a que hace referencia el artículo 186 de esta ley",
+      "El Pleno de la corporación",
+      "La Junta de Gobierno Local"
+    ],
+    "correct": 1,
+    "exp": "El art. 196.2 TRLRHL remite el ejercicio de estas funciones, en su caso, a la unidad central de tesorería del art. 186 TRLRHL.",
+    "fuente": "Art. 196.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de los siguientes tipos de cuenta NO se menciona en el art. 197.1 TRLRHL entre las que pueden abrir las entidades locales con entidades de crédito?",
+    "options": [
+      "Cuentas operativas de ingresos y pagos",
+      "Cuentas restringidas de recaudación",
+      "Cuentas de anticipos de caja fija sin fiscalización previa",
+      "Cuentas financieras de colocación de excedentes de tesorería"
+    ],
+    "correct": 2,
+    "exp": "El art. 197.1 TRLRHL enumera cuatro tipos de cuentas (operativas de ingresos y pagos, restringidas de recaudación, restringidas de pagos y financieras de colocación de excedentes); las cuentas de anticipos de caja fija no figuran entre ellas.",
+    "fuente": "Art. 197.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 197.1.c) TRLRHL, uno de los tipos de cuenta que las entidades locales pueden concertar con entidades de crédito es...",
+    "options": [
+      "Cuentas de valores negociables a corto plazo",
+      "Cuentas restringidas de pagos",
+      "Cuentas de anticipos reintegrables al personal",
+      "Cuentas de patrimonio municipal del suelo"
+    ],
+    "correct": 1,
+    "exp": "El art. 197.1.c) TRLRHL incluye entre los tipos de cuenta las cuentas restringidas de pagos.",
+    "fuente": "Art. 197.1.c) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 197.2 TRLRHL, las entidades locales podrán autorizar la existencia de cajas de efectivo para...",
+    "options": [
+      "La custodia de valores mobiliarios a largo plazo",
+      "Los fondos de las operaciones diarias, sujetas a las limitaciones que reglamentariamente se establezcan",
+      "El pago de subvenciones plurianuales",
+      "La gestión de operaciones de crédito a largo plazo"
+    ],
+    "correct": 1,
+    "exp": "El art. 197.2 TRLRHL permite autorizar cajas de efectivo para los fondos de las operaciones diarias, sujetas a las limitaciones reglamentarias.",
+    "fuente": "Art. 197.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 198.1 TRLRHL, ¿mediante qué medios pueden las entidades locales dictar reglas especiales para el ingreso del producto de la recaudación de los recursos?",
+    "options": [
+      "Únicamente mediante transferencia bancaria",
+      "Efectivo, transferencias, cheques o cualquier otro medio o documento de pago, sean o no bancarios",
+      "Solo en efectivo, en las cajas de efectivo municipales",
+      "Exclusivamente mediante domiciliación bancaria"
+    ],
+    "correct": 1,
+    "exp": "El art. 198.1 TRLRHL admite el ingreso mediante efectivo, transferencias, cheques o cualquier otro medio o documento de pago, sean o no bancarios.",
+    "fuente": "Art. 198.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 198.2 TRLRHL, las entidades locales podrán pagar sus obligaciones...",
+    "options": [
+      "Únicamente mediante transferencia bancaria",
+      "Por cualquiera de los medios a que se refiere el apartado anterior del propio artículo",
+      "Solo en efectivo, en la caja municipal",
+      "Exclusivamente mediante cheque nominativo"
+    ],
+    "correct": 1,
+    "exp": "El art. 198.2 TRLRHL permite pagar las obligaciones por cualquiera de los medios señalados en el apartado 1 del mismo artículo (efectivo, transferencias, cheques u otros medios de pago).",
+    "fuente": "Art. 198.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 199.1 TRLRHL, las entidades locales podrán concertar operaciones de tesorería con entidades financieras para...",
+    "options": [
+      "Financiar inversiones de capital a largo plazo",
+      "Cubrir déficits temporales de liquidez derivados de las diferencias de vencimientos de sus pagos e ingresos",
+      "Refinanciar deuda a largo plazo ya vencida",
+      "Cubrir el déficit estructural del presupuesto corriente"
+    ],
+    "correct": 1,
+    "exp": "El art. 199.1 TRLRHL permite concertar operaciones de tesorería para cubrir déficits temporales de liquidez derivados de las diferencias de vencimientos de pagos e ingresos.",
+    "fuente": "Art. 199.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Las operaciones de tesorería previstas en el art. 199.1 TRLRHL se concertarán de acuerdo con lo establecido en...",
+    "options": [
+      "El artículo 177.5 de esta ley",
+      "El artículo 51 de esta ley",
+      "El artículo 186 de esta ley",
+      "El artículo 213 de esta ley"
+    ],
+    "correct": 1,
+    "exp": "El art. 199.1 TRLRHL remite expresamente al artículo 51 de la propia ley para concertar las operaciones de tesorería.",
+    "fuente": "Art. 199.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 199.2 TRLRHL, las entidades locales podrán rentabilizar sus excedentes temporales de tesorería mediante...",
+    "options": [
+      "Inversiones en renta variable sin límite alguno",
+      "Inversiones que reúnan las condiciones de liquidez y seguridad",
+      "Operaciones de crédito a largo plazo",
+      "La adquisición de patrimonio inmobiliario"
+    ],
+    "correct": 1,
+    "exp": "El art. 199.2 TRLRHL permite rentabilizar los excedentes temporales de tesorería mediante inversiones que reúnan las condiciones de liquidez y seguridad.",
+    "fuente": "Art. 199.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  }
+]);
