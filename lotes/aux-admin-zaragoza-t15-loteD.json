@@ -1,0 +1,326 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 15,
+  "preguntas": [
+    {
+      "q": "¿Qué precepto de la Constitución Española desarrolla el derecho de acceso a la información pública regulado en el artículo 12 de la Ley 19/2013, de 9 de diciembre?",
+      "options": ["Artículo 105.b)", "Artículo 20.1.d)", "Artículo 23.1", "Artículo 103.1"],
+      "correct": 0,
+      "exp": "El art. 12 establece que todas las personas tienen derecho a acceder a la información pública 'en los términos previstos en el artículo 105.b) de la Constitución Española, desarrollados por esta Ley'.",
+      "fuente": "Art. 12 Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 12 de la Ley 19/2013, ¿quiénes tienen derecho a acceder a la información pública?",
+      "options": ["Únicamente los ciudadanos españoles mayores de edad", "Todas las personas", "Solo quienes tengan la condición de interesados en un procedimiento", "Únicamente las personas físicas, no las jurídicas"],
+      "correct": 1,
+      "exp": "El artículo 12 comienza diciendo: 'Todas las personas tienen derecho a acceder a la información pública...'",
+      "fuente": "Art. 12 Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 13 de la Ley 19/2013, ¿qué se entiende por información pública?",
+      "options": ["Únicamente los documentos en soporte papel que obren en poder de la Administración", "Los contenidos o documentos, cualquiera que sea su formato o soporte, que obren en poder de los sujetos incluidos en el ámbito de este título y hayan sido elaborados o adquiridos en ejercicio de sus funciones", "Solo la información que las Administraciones Públicas publican de oficio en su portal de transparencia", "Los datos estadísticos elaborados exclusivamente por organismos públicos"],
+      "correct": 1,
+      "exp": "El art. 13 define información pública como los contenidos o documentos, cualquiera que sea su formato o soporte, que obren en poder de los sujetos incluidos en el ámbito de aplicación de este título y hayan sido elaborados o adquiridos en el ejercicio de sus funciones.",
+      "fuente": "Art. 13 Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "De acuerdo con el artículo 13 de la Ley 19/2013, ¿es determinante el formato o soporte de un contenido para que sea considerado información pública?",
+      "options": ["Sí, solo se considera información pública si está en soporte electrónico", "No, la ley se refiere a contenidos o documentos 'cualquiera que sea su formato o soporte'", "Sí, solo los documentos en papel registrados", "No es información pública si no ha sido publicada previamente"],
+      "correct": 1,
+      "exp": "El art. 13 es expreso: 'contenidos o documentos, cualquiera que sea su formato o soporte'.",
+      "fuente": "Art. 13 Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuántas causas de limitación al derecho de acceso enumera el apartado 1 del artículo 14 de la Ley 19/2013?",
+      "options": ["8", "10", "12", "15"],
+      "correct": 2,
+      "exp": "El art. 14.1 enumera las causas en las letras a) a l), es decir, 12 causas de limitación.",
+      "fuente": "Art. 14.1 Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 14.1 de la Ley 19/2013, ¿cuál de las siguientes es una causa que puede limitar el derecho de acceso a la información pública?",
+      "options": ["La protección del medio ambiente", "El interés turístico del municipio", "La protección del patrimonio histórico artístico", "La eficiencia en el gasto público"],
+      "correct": 0,
+      "exp": "La letra l) del art. 14.1 recoge 'la protección del medio ambiente' como límite; las demás opciones no figuran en el listado legal.",
+      "fuente": "Art. 14.1.l) Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 14.2 de la Ley 19/2013, ¿cómo debe ser la aplicación de los límites al derecho de acceso?",
+      "options": ["Discrecional y no motivada", "Justificada y proporcionada a su objeto y finalidad de protección", "Automática siempre que exista oposición de un tercero", "Solo aplicable previa autorización judicial"],
+      "correct": 1,
+      "exp": "El art. 14.2 exige que 'la aplicación de los límites será justificada y proporcionada a su objeto y finalidad de protección'.",
+      "fuente": "Art. 14.2 Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "En el artículo 14.1 de la Ley 19/2013, ¿en qué letra se recogen 'los intereses económicos y comerciales' como límite al derecho de acceso?",
+      "options": ["Letra e)", "Letra h)", "Letra k)", "Letra c)"],
+      "correct": 1,
+      "exp": "La letra h) del art. 14.1 recoge 'los intereses económicos y comerciales' como límite al derecho de acceso.",
+      "fuente": "Art. 14.1.h) Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 15.1 de la Ley 19/2013, si la información solicitada contuviera datos personales que revelen la ideología o afiliación sindical del afectado, ¿en qué caso podrá autorizarse el acceso, con carácter general?",
+      "options": ["Cuando lo solicite un investigador con fines científicos", "Cuando se cuente con el consentimiento expreso y por escrito del afectado, salvo que este los hubiera hecho manifiestamente públicos", "Cuando lo autorice el superior jerárquico del órgano", "Nunca podrá autorizarse el acceso a este tipo de datos"],
+      "correct": 1,
+      "exp": "El art. 15.1 exige el consentimiento expreso y por escrito del afectado, salvo que hubiese hecho manifiestamente públicos los datos con anterioridad a la solicitud.",
+      "fuente": "Art. 15.1 Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 15.2 de la Ley 19/2013, con carácter general, ¿qué tipo de información se concederá salvo que prevalezca la protección de datos personales u otros derechos?",
+      "options": ["La que contenga datos relativos al origen racial o la salud", "La que contenga datos meramente identificativos relacionados con la organización, funcionamiento o actividad pública del órgano", "La que contenga datos genéticos o biométricos", "La que afecte a menores de edad"],
+      "correct": 1,
+      "exp": "El art. 15.2 dispone que, con carácter general, se concederá el acceso a información que contenga datos meramente identificativos relacionados con la organización, funcionamiento o actividad pública del órgano.",
+      "fuente": "Art. 15.2 Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "El apartado 1 del artículo 15 de la Ley 19/2013 fue modificado por la disposición final 11.2 de una norma posterior. ¿A qué norma corresponde esa modificación?",
+      "options": ["Ley Orgánica 3/2018, de 5 de diciembre", "Ley Orgánica 3/2007, de 22 de marzo", "Ley 39/2015, de 1 de octubre", "Ley Orgánica 15/1999, de 13 de diciembre"],
+      "correct": 0,
+      "exp": "El texto consolidado indica: 'Se modifica el apartado 1 por la disposición final 11.2 de la Ley Orgánica 3/2018, de 5 de diciembre'.",
+      "fuente": "Art. 15.1 Ley 19/2013 (modificado por LO 3/2018, disp. final 11.2)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 15.4 de la Ley 19/2013, ¿cuándo no será aplicable lo establecido en los apartados anteriores sobre protección de datos personales?",
+      "options": ["Cuando lo solicite un medio de comunicación", "Cuando el acceso se efectúe previa disociación de los datos de carácter personal de modo que se impida la identificación de las personas afectadas", "Cuando haya transcurrido un año desde la generación del documento", "Cuando el solicitante sea una Administración Pública"],
+      "correct": 1,
+      "exp": "El art. 15.4 exceptúa la aplicación de los apartados anteriores 'si el acceso se efectúa previa disociación de los datos de carácter personal de modo que se impida la identificación de las personas afectadas'.",
+      "fuente": "Art. 15.4 Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 16 de la Ley 19/2013, cuando la aplicación de un límite no afecte a la totalidad de la información, ¿qué deberá concederse?",
+      "options": ["El acceso parcial, previa omisión de la información afectada por el límite", "La denegación total de la solicitud", "El acceso íntegro sin excepciones", "Un plazo adicional de tres meses para resolver"],
+      "correct": 0,
+      "exp": "El art. 16 dispone que se concederá el acceso parcial previa omisión de la información afectada por el límite, salvo que resulte una información distorsionada o carente de sentido.",
+      "fuente": "Art. 16 Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "El artículo 16 de la Ley 19/2013 remite a los límites previstos en otro artículo de la misma Ley para regular el acceso parcial. ¿A qué artículo remite?",
+      "options": ["Artículo 12", "Artículo 14", "Artículo 18", "Artículo 20"],
+      "correct": 1,
+      "exp": "El art. 16 comienza: 'En los casos en que la aplicación de alguno de los límites previstos en el artículo 14 no afecte a la totalidad de la información...'",
+      "fuente": "Art. 16 Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 17.3 de la Ley 19/2013, ¿está el solicitante obligado a motivar su solicitud de acceso a la información?",
+      "options": ["Sí, siempre debe justificar por escrito el motivo de su solicitud", "No, aunque podrá exponer los motivos, y la ausencia de motivación no será por sí sola causa de rechazo", "Solo si la información afecta a terceros", "Solo si la solicitud se presenta por vía electrónica"],
+      "correct": 1,
+      "exp": "El art. 17.3 establece que el solicitante no está obligado a motivar su solicitud, aunque podrá exponer motivos, y que la ausencia de motivación no será por sí sola causa de rechazo.",
+      "fuente": "Art. 17.3 Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 17.2 de la Ley 19/2013, la solicitud de acceso podrá presentarse por cualquier medio que permita tener constancia de varios extremos. ¿Cuál de los siguientes NO se exige expresamente en dicho apartado?",
+      "options": ["La identidad del solicitante", "La información que se solicita", "Una dirección de contacto, preferentemente electrónica", "La motivación jurídica de la petición"],
+      "correct": 3,
+      "exp": "El art. 17.2 exige constancia de la identidad, la información solicitada, una dirección de contacto y, en su caso, la modalidad de acceso preferida; la motivación no es exigible conforme al art. 17.3.",
+      "fuente": "Art. 17.2 Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 17.4 de la Ley 19/2013, ¿en qué lenguas pueden dirigirse los solicitantes de información a las Administraciones Públicas?",
+      "options": ["Únicamente en castellano", "En cualquiera de las lenguas cooficiales del Estado en el territorio en que radique la Administración en cuestión", "Solo en la lengua en que esté redactado el documento solicitado", "En cualquier idioma de la Unión Europea"],
+      "correct": 1,
+      "exp": "El art. 17.4 permite dirigirse en cualquiera de las lenguas cooficiales del Estado en el territorio en el que radique la Administración en cuestión.",
+      "fuente": "Art. 17.4 Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuántas causas de inadmisión a trámite de las solicitudes de acceso enumera el artículo 18.1 de la Ley 19/2013?",
+      "options": ["Tres", "Cuatro", "Cinco", "Seis"],
+      "correct": 2,
+      "exp": "El art. 18.1 enumera las causas de inadmisión en las letras a) a e), es decir, cinco causas.",
+      "fuente": "Art. 18.1 Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 18.1.b) de la Ley 19/2013, se inadmitirán las solicitudes referidas a información que tenga carácter auxiliar o de apoyo, como la contenida en:",
+      "options": ["Notas, borradores, opiniones, resúmenes, comunicaciones e informes internos o entre órganos o entidades administrativas", "Resoluciones firmes ya publicadas en el BOE", "Actas de los plenos municipales", "Presupuestos generales aprobados"],
+      "correct": 0,
+      "exp": "El art. 18.1.b) se refiere a información de carácter auxiliar o de apoyo, 'como la contenida en notas, borradores, opiniones, resúmenes, comunicaciones e informes internos o entre órganos o entidades administrativas'.",
+      "fuente": "Art. 18.1.b) Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 18.2 de la Ley 19/2013, cuando se inadmita una solicitud por desconocerse el órgano competente para conocerla (causa de la letra d), ¿qué debe hacer el órgano que acuerde la inadmisión?",
+      "options": ["Archivar el expediente sin más trámite", "Indicar en la resolución el órgano que, a su juicio, es competente para conocer de la solicitud", "Remitir directamente la solicitud al Consejo de Transparencia y Buen Gobierno", "Conceder un plazo de tres meses al solicitante para identificar el órgano competente"],
+      "correct": 1,
+      "exp": "El art. 18.2 exige que el órgano que acuerde la inadmisión por la causa de la letra d) indique en la resolución el órgano que, a su juicio, es competente para conocer de la solicitud.",
+      "fuente": "Art. 18.2 Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 19.2 de la Ley 19/2013, cuando la solicitud no identifique de forma suficiente la información, ¿de qué plazo dispone el solicitante para concretarla?",
+      "options": ["Cinco días", "Diez días", "Quince días", "Un mes"],
+      "correct": 1,
+      "exp": "El art. 19.2 concede un plazo de diez días para concretar la solicitud, con la advertencia de que, de no hacerlo, se tendrá al solicitante por desistido.",
+      "fuente": "Art. 19.2 Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 19.3 de la Ley 19/2013, si la información solicitada pudiera afectar a derechos o intereses de terceros identificados, ¿de qué plazo dispondrán estos para realizar alegaciones?",
+      "options": ["Diez días", "Quince días", "Veinte días", "Un mes"],
+      "correct": 1,
+      "exp": "El art. 19.3 concede a los terceros afectados un plazo de quince días para realizar las alegaciones que estimen oportunas.",
+      "fuente": "Art. 19.3 Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 19.1 de la Ley 19/2013, si la solicitud se refiere a información que no obra en poder del sujeto al que se dirige, ¿qué debe hacer este?",
+      "options": ["Denegar automáticamente la solicitud", "Remitirla al competente, si lo conociera, e informar de esta circunstancia al solicitante", "Archivar la solicitud sin comunicación al interesado", "Requerir al solicitante que la presente de nuevo ante otro órgano"],
+      "correct": 1,
+      "exp": "El art. 19.1 establece que, si la solicitud se refiere a información que no obra en poder del sujeto al que se dirige, este la remitirá al competente, si lo conociera, e informará de esta circunstancia al solicitante.",
+      "fuente": "Art. 19.1 Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 20.1 de la Ley 19/2013, ¿cuál es el plazo máximo para notificar la resolución sobre una solicitud de acceso a la información pública, y en qué caso puede ampliarse?",
+      "options": ["Quince días, ampliable por otros quince", "Un mes desde la recepción de la solicitud, ampliable por otro mes si el volumen o complejidad de la información lo hace necesario", "Dos meses, no ampliable", "Tres meses, ampliable por otros tres"],
+      "correct": 1,
+      "exp": "El art. 20.1 fija un plazo máximo de un mes desde la recepción de la solicitud por el órgano competente, ampliable por otro mes cuando el volumen o la complejidad de la información lo hagan necesario, previa notificación al solicitante.",
+      "fuente": "Art. 20.1 Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 20.4 de la Ley 19/2013, ¿qué efecto tiene el transcurso del plazo máximo para resolver sin que se haya dictado y notificado resolución expresa?",
+      "options": ["Se entenderá que la solicitud ha sido estimada", "Se entenderá que la solicitud ha sido desestimada", "El procedimiento se declara caducado sin más efectos", "El solicitante deberá reiterar la solicitud"],
+      "correct": 1,
+      "exp": "El art. 20.4 establece que, transcurrido el plazo máximo para resolver sin resolución expresa notificada, se entenderá que la solicitud ha sido desestimada.",
+      "fuente": "Art. 20.4 Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 20.6 de la Ley 19/2013, ¿qué consideración tiene el incumplimiento reiterado de la obligación de resolver en plazo las solicitudes de acceso?",
+      "options": ["Infracción leve", "Infracción grave a efectos del régimen disciplinario", "Mera irregularidad no sancionable", "Falta muy grave solo si hay reincidencia en el mismo año natural"],
+      "correct": 1,
+      "exp": "El art. 20.6 dispone que el incumplimiento reiterado de la obligación de resolver en plazo tendrá la consideración de infracción grave a los efectos de la aplicación del régimen disciplinario.",
+      "fuente": "Art. 20.6 Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 20.5 de la Ley 19/2013, las resoluciones dictadas en materia de acceso a la información pública son recurribles directamente ante:",
+      "options": ["La Jurisdicción Social", "La Jurisdicción Contencioso-Administrativa", "La Jurisdicción Civil", "El Tribunal Constitucional"],
+      "correct": 1,
+      "exp": "El art. 20.5 señala que dichas resoluciones son recurribles directamente ante la Jurisdicción Contencioso-Administrativa, sin perjuicio de la reclamación potestativa del art. 24.",
+      "fuente": "Art. 20.5 Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuántas funciones enumera el artículo 21.2 de la Ley 19/2013 para las unidades especializadas de información en el ámbito de la Administración General del Estado?",
+      "options": ["Cinco", "Seis", "Ocho", "Diez"],
+      "correct": 2,
+      "exp": "El art. 21.2 enumera las funciones de las unidades especializadas en las letras a) a h), es decir, ocho funciones.",
+      "fuente": "Art. 21.2 Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 21.2.e) de la Ley 19/2013, entre las funciones de las unidades de información se encuentra:",
+      "options": ["Resolver directamente las reclamaciones ante el Consejo de Transparencia", "Llevar un registro de las solicitudes de acceso a la información", "Aprobar el presupuesto anual de publicidad activa", "Elaborar el informe anual del Defensor del Pueblo"],
+      "correct": 1,
+      "exp": "El art. 21.2.e) atribuye a las unidades de información la función de 'llevar un registro de las solicitudes de acceso a la información'.",
+      "fuente": "Art. 21.2.e) Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 21.1 de la Ley 19/2013, ¿qué deben establecer las Administraciones Públicas incluidas en el ámbito de aplicación de este título?",
+      "options": ["Un registro único estatal de solicitudes", "Sistemas para integrar la gestión de solicitudes de información de los ciudadanos en el funcionamiento de su organización interna", "Una tasa por la tramitación de cada solicitud", "Un plazo de un año para resolver las solicitudes acumuladas"],
+      "correct": 1,
+      "exp": "El art. 21.1 exige establecer sistemas para integrar la gestión de solicitudes de información de los ciudadanos en el funcionamiento de la organización interna.",
+      "fuente": "Art. 21.1 Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 22.1 de la Ley 19/2013, cuando no pueda darse el acceso a la información en el momento de la notificación de la resolución, ¿en qué plazo máximo deberá otorgarse en cualquier caso?",
+      "options": ["Cinco días", "Diez días", "Un mes", "Quince días"],
+      "correct": 1,
+      "exp": "El art. 22.1 establece que, cuando no pueda darse el acceso en el momento de la notificación, deberá otorgarse en un plazo no superior a diez días.",
+      "fuente": "Art. 22.1 Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 22.4 de la Ley 19/2013, el acceso a la información pública será, con carácter general:",
+      "options": ["Gratuito, sin excepción alguna", "Gratuito, sin perjuicio de que la expedición de copias o la trasposición a un formato diferente pueda dar lugar a exacciones", "Siempre sujeto al pago de una tasa fija", "Gratuito solo para las personas físicas"],
+      "correct": 1,
+      "exp": "El art. 22.4 declara que el acceso será gratuito, aunque la expedición de copias o la trasposición a un formato diferente al original podrá dar lugar a exigencia de exacciones.",
+      "fuente": "Art. 22.4 Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 22.4 de la Ley 19/2013, ¿qué norma se cita como referencia para la exigencia de exacciones por la expedición de copias o la trasposición de formato?",
+      "options": ["La Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos", "La Ley 58/2003, de 17 de diciembre, General Tributaria", "La Ley 39/2015, de 1 de octubre", "La Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local"],
+      "correct": 0,
+      "exp": "El art. 22.4 remite a la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos, sin perjuicio de la normativa autonómica o local aplicable.",
+      "fuente": "Art. 22.4 Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 23.1 de la Ley 19/2013, la reclamación prevista en el artículo 24 tiene la consideración de:",
+      "options": ["Recurso extraordinario de revisión", "Sustitutiva de los recursos administrativos", "Recurso de alzada ordinario", "Denuncia ante la Fiscalía"],
+      "correct": 1,
+      "exp": "El art. 23.1 señala que la reclamación del art. 24 'tendrá la consideración de sustitutiva de los recursos administrativos'.",
+      "fuente": "Art. 23.1 Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 23.2 de la Ley 19/2013, contra las resoluciones dictadas por los órganos previstos en el artículo 2.1.f), ¿qué recurso cabrá?",
+      "options": ["Únicamente la reclamación potestativa ante el Consejo de Transparencia", "Recurso de alzada ante el superior jerárquico", "Únicamente la interposición de recurso contencioso-administrativo", "Recurso de reposición previo y obligatorio"],
+      "correct": 2,
+      "exp": "El art. 23.2 dispone que contra las resoluciones de los órganos del art. 2.1.f) 'sólo cabrá la interposición de recurso contencioso-administrativo'.",
+      "fuente": "Art. 23.2 Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 24.1 de la Ley 19/2013, frente a toda resolución expresa o presunta en materia de acceso podrá interponerse una reclamación, con carácter potestativo, ante:",
+      "options": ["El Defensor del Pueblo", "El Consejo de Transparencia y Buen Gobierno", "El Tribunal Superior de Justicia", "El Ministerio de Hacienda"],
+      "correct": 1,
+      "exp": "El art. 24.1 prevé la reclamación, con carácter potestativo y previo a la vía contencioso-administrativa, ante el Consejo de Transparencia y Buen Gobierno.",
+      "fuente": "Art. 24.1 Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 24.2 de la Ley 19/2013, ¿en qué plazo debe interponerse la reclamación ante el Consejo de Transparencia y Buen Gobierno?",
+      "options": ["Quince días", "Un mes", "Dos meses", "Tres meses"],
+      "correct": 1,
+      "exp": "El art. 24.2 fija el plazo de un mes a contar desde el día siguiente a la notificación del acto impugnado o desde los efectos del silencio administrativo.",
+      "fuente": "Art. 24.2 Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 24.4 de la Ley 19/2013, ¿cuál es el plazo máximo para resolver y notificar la resolución de la reclamación ante el Consejo de Transparencia y Buen Gobierno, transcurrido el cual se entenderá desestimada?",
+      "options": ["Un mes", "Dos meses", "Tres meses", "Seis meses"],
+      "correct": 2,
+      "exp": "El art. 24.4 establece un plazo máximo de tres meses para resolver y notificar, transcurrido el cual la reclamación se entenderá desestimada.",
+      "fuente": "Art. 24.4 Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 24.5 de la Ley 19/2013, ¿a quién comunicará el Presidente del Consejo de Transparencia y Buen Gobierno las resoluciones que dicte en aplicación de este artículo?",
+      "options": ["Al Tribunal Constitucional", "Al Defensor del Pueblo", "A la Fiscalía General del Estado", "Al Congreso de los Diputados"],
+      "correct": 1,
+      "exp": "El art. 24.5 indica que el Presidente del Consejo de Transparencia y Buen Gobierno comunicará al Defensor del Pueblo las resoluciones que dicte en aplicación de este artículo.",
+      "fuente": "Art. 24.5 Ley 19/2013",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 24.6 de la Ley 19/2013, la competencia para conocer de las reclamaciones corresponde al Consejo de Transparencia y Buen Gobierno, salvo que:",
+      "options": ["El solicitante sea una persona jurídica", "Las Comunidades Autónomas atribuyan dicha competencia a un órgano específico, de acuerdo con la disposición adicional cuarta", "La reclamación se presente fuera de plazo", "La información afecte a la seguridad nacional"],
+      "correct": 1,
+      "exp": "El art. 24.6 atribuye la competencia al Consejo de Transparencia y Buen Gobierno, salvo en los supuestos en que las Comunidades Autónomas atribuyan dicha competencia a un órgano específico, de acuerdo con la disposición adicional cuarta.",
+      "fuente": "Art. 24.6 Ley 19/2013",
+      "confianza": "alta"
+    }
+  ]
+}
