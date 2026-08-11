@@ -16539,3 +16539,528 @@ window.addQuestions('aux-admin-zaragoza', 14, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 14 · lote 2026-08-11 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 14, [
+  {
+    "q": "Según el art. 24 bis.1 de la LBRL, los entes de ámbito territorial inferior al municipio (caseríos, parroquias, aldeas, barrios, anteiglesias, concejos, pedanías, lugares anejos y análogos) se caracterizan por:",
+    "options": [
+      "Carecer de personalidad jurídica, como forma de organización desconcentrada del municipio",
+      "Tener personalidad jurídica propia e independiente del municipio",
+      "Constituir una provincia de nueva creación",
+      "Ser una modalidad de mancomunidad de municipios"
+    ],
+    "correct": 0,
+    "exp": "Art. 24 bis.1 LBRL: las leyes de las Comunidades Autónomas sobre régimen local regularán los entes de ámbito territorial inferior al Municipio, que carecerán de personalidad jurídica, como forma de organización desconcentrada del mismo.",
+    "fuente": "Art. 24 bis.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 24 bis.2 de la LBRL, ¿a quién corresponde la iniciativa para la creación de un ente de ámbito territorial inferior al municipio?",
+    "options": [
+      "Indistintamente a la población interesada o al Ayuntamiento correspondiente, debiendo ser oído este último en todo caso",
+      "Exclusivamente a la Diputación Provincial",
+      "Únicamente al Delegado del Gobierno",
+      "Solo puede iniciarla de oficio la Comunidad Autónoma"
+    ],
+    "correct": 0,
+    "exp": "Art. 24 bis.2: la iniciativa corresponderá indistintamente a la población interesada o al Ayuntamiento correspondiente, que debe ser oído en todo caso.",
+    "fuente": "Art. 24 bis.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 45 de la LBRL, que originalmente regulaba las entidades de ámbito territorial inferior al municipio, actualmente:",
+    "options": [
+      "Está sin contenido, tras ser derogado por el art. 1.14 de la Ley 27/2013",
+      "Regula el régimen de Concejo Abierto",
+      "Regula las competencias de las Diputaciones",
+      "Establece los servicios mínimos obligatorios de los municipios"
+    ],
+    "correct": 0,
+    "exp": "El art. 45 LBRL aparece en el consolidado vigente como 'Sin contenido', al haber sido dejado sin contenido por el art. 1.14 de la Ley 27/2013, de 27 de diciembre; la materia de entidades de ámbito territorial inferior al municipio pasó a regularse en el art. 24 bis.",
+    "fuente": "Art. 45 LBRL (Ley 7/1985), texto consolidado vigente",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 25.1 de la LBRL, el Municipio, para la gestión de sus intereses y en el ámbito de sus competencias, puede promover actividades y prestar servicios públicos que contribuyan a satisfacer:",
+    "options": [
+      "Las necesidades y aspiraciones de la comunidad vecinal",
+      "Exclusivamente las necesidades declaradas de interés estatal",
+      "Únicamente las necesidades de la Diputación Provincial",
+      "Las directrices del Plan Nacional de Reformas"
+    ],
+    "correct": 0,
+    "exp": "Art. 25.1: el Municipio puede promover actividades y prestar los servicios públicos que contribuyan a satisfacer las necesidades y aspiraciones de la comunidad vecinal.",
+    "fuente": "Art. 25.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 25.2 de la LBRL, entre las materias en que el Municipio ejerce en todo caso competencias propias figura:",
+    "options": [
+      "Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística",
+      "La ordenación del sistema financiero",
+      "La política exterior y de defensa",
+      "La legislación penal"
+    ],
+    "correct": 0,
+    "exp": "Art. 25.2 a): el Municipio ejercerá en todo caso competencias propias en materia de Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística, entre otras materias enumeradas.",
+    "fuente": "Art. 25.2 a) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 25.2 f) de la LBRL, ¿cuál de las siguientes es competencia propia municipal?",
+    "options": [
+      "Policía local, protección civil, prevención y extinción de incendios",
+      "La emisión de deuda pública estatal",
+      "La gestión del Registro Civil central",
+      "La expedición del DNI"
+    ],
+    "correct": 0,
+    "exp": "Art. 25.2 f): entre las competencias propias municipales figura la Policía local, protección civil, prevención y extinción de incendios.",
+    "fuente": "Art. 25.2 f) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 25.2 p) de la LBRL, entre las competencias propias municipales se incluye la promoción y participación en:",
+    "options": [
+      "Comunidades ciudadanas de energía y comunidades de energías renovables",
+      "Comunidades autónomas limítrofes",
+      "Organismos internacionales de cooperación",
+      "Consorcios interprovinciales de defensa"
+    ],
+    "correct": 0,
+    "exp": "Art. 25.2 p): el municipio ejerce competencias propias en la promoción y participación en comunidades ciudadanas de energía y comunidades de energías renovables, para contribuir a beneficios medioambientales, económicos o sociales y a la transición energética.",
+    "fuente": "Art. 25.2 p) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 25.3 de la LBRL, las competencias municipales en las materias enunciadas en dicho artículo se determinan por:",
+    "options": [
+      "Ley, evaluando la conveniencia de la implantación de servicios locales conforme a principios de descentralización, eficiencia, estabilidad y sostenibilidad financiera",
+      "Reglamento del Ayuntamiento aprobado por el Alcalde",
+      "Decreto del Consejo de Ministros sin más trámite",
+      "Costumbre local sin necesidad de norma escrita"
+    ],
+    "correct": 0,
+    "exp": "Art. 25.3: las competencias municipales en las materias del art. 25 se determinarán por Ley, debiendo evaluar la conveniencia de la implantación de servicios locales conforme a los principios de descentralización, eficiencia, estabilidad y sostenibilidad financiera.",
+    "fuente": "Art. 25.3 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 26.1 a) de la LBRL, ¿qué servicio deben prestar en todo caso TODOS los municipios, sea cual sea su población?",
+    "options": [
+      "Alumbrado público, cementerio, recogida de residuos, limpieza viaria, abastecimiento domiciliario de agua potable, alcantarillado, acceso a los núcleos de población y pavimentación de vías públicas",
+      "Transporte colectivo urbano de viajeros",
+      "Instalaciones deportivas de uso público",
+      "Biblioteca pública"
+    ],
+    "correct": 0,
+    "exp": "Art. 26.1 a): en todos los municipios, sin excepción, deben prestarse esos servicios mínimos obligatorios básicos.",
+    "fuente": "Art. 26.1 a) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 26.1 b) de la LBRL, en los municipios con población superior a 5.000 habitantes, además de los servicios generales, debe prestarse:",
+    "options": [
+      "Parque público, biblioteca pública y tratamiento de residuos",
+      "Protección civil y extinción de incendios",
+      "Medio ambiente urbano y transporte colectivo urbano",
+      "Servicios sociales especializados de atención a la dependencia"
+    ],
+    "correct": 0,
+    "exp": "Art. 26.1 b): en los municipios con población superior a 5.000 habitantes, además de los servicios mínimos generales, debe prestarse parque público, biblioteca pública y tratamiento de residuos.",
+    "fuente": "Art. 26.1 b) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 26.1 c) de la LBRL, en los municipios con población superior a 20.000 habitantes debe prestarse, además, entre otros:",
+    "options": [
+      "Protección civil, evaluación e información de situaciones de necesidad social, prevención y extinción de incendios e instalaciones deportivas de uso público",
+      "Transporte colectivo urbano de viajeros y medio ambiente urbano",
+      "Parque público y biblioteca pública",
+      "Cementerio y alumbrado público"
+    ],
+    "correct": 0,
+    "exp": "Art. 26.1 c): en municipios con población superior a 20.000 habitantes, además de los servicios anteriores, debe prestarse protección civil, evaluación e información de situaciones de necesidad social y atención inmediata a personas en riesgo de exclusión, prevención y extinción de incendios e instalaciones deportivas de uso público.",
+    "fuente": "Art. 26.1 c) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 26.1 d) de la LBRL, en los municipios con población superior a 50.000 habitantes debe prestarse, además de los anteriores:",
+    "options": [
+      "Transporte colectivo urbano de viajeros y medio ambiente urbano",
+      "Cementerio y recogida de residuos",
+      "Alcantarillado y pavimentación de vías públicas",
+      "Biblioteca pública y parque público"
+    ],
+    "correct": 0,
+    "exp": "Art. 26.1 d): en los municipios con población superior a 50.000 habitantes, debe prestarse además transporte colectivo urbano de viajeros y medio ambiente urbano.",
+    "fuente": "Art. 26.1 d) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 26.2 de la LBRL, en los municipios con población inferior a 20.000 habitantes, ¿quién coordina la prestación de servicios como la recogida y tratamiento de residuos o el abastecimiento de agua potable?",
+    "options": [
+      "La Diputación provincial o entidad equivalente",
+      "El Delegado del Gobierno en la Comunidad Autónoma",
+      "El Ministerio de Hacienda directamente sin intervención provincial",
+      "La Mancomunidad de municipios limítrofes con carácter obligatorio"
+    ],
+    "correct": 0,
+    "exp": "Art. 26.2: en los municipios con población inferior a 20.000 habitantes será la Diputación provincial o entidad equivalente la que coordine la prestación de los servicios enumerados (residuos, agua potable, limpieza viaria, accesos, pavimentación, alumbrado público).",
+    "fuente": "Art. 26.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 27.1 de la LBRL, la delegación de competencias del Estado o las Comunidades Autónomas en los Municipios debe tener una duración no inferior a:",
+    "options": [
+      "Cinco años",
+      "Un año",
+      "Dos años",
+      "Diez años"
+    ],
+    "correct": 0,
+    "exp": "Art. 27.1: la delegación deberá determinar el alcance, contenido, condiciones y duración de ésta, que no podrá ser inferior a cinco años.",
+    "fuente": "Art. 27.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 27.2 de la LBRL, cuando el Estado o las Comunidades Autónomas deleguen en dos o más municipios de la misma provincia una o varias competencias comunes, dicha delegación debe realizarse:",
+    "options": [
+      "Siguiendo criterios homogéneos",
+      "De forma discrecional según el color político del Ayuntamiento",
+      "Solo si lo aprueba el Consejo de Ministros",
+      "Únicamente mediante ley orgánica"
+    ],
+    "correct": 0,
+    "exp": "Art. 27.2: cuando se delegue en dos o más municipios de la misma provincia una o varias competencias comunes, la delegación deberá realizarse siguiendo criterios homogéneos.",
+    "fuente": "Art. 27.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 27.3 de la LBRL, ¿cuál de las siguientes es una competencia que la Administración del Estado o de las Comunidades Autónomas puede delegar en los municipios?",
+    "options": [
+      "Vigilancia y control de la contaminación ambiental",
+      "La declaración del estado de alarma",
+      "La expedición de pasaportes",
+      "La acuñación de moneda"
+    ],
+    "correct": 0,
+    "exp": "Art. 27.3 a): entre las competencias delegables se cita la vigilancia y control de la contaminación ambiental, junto a otras como protección del medio natural o servicios sociales.",
+    "fuente": "Art. 27.3 a) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 27.4 de la LBRL, la Administración delegante puede, para dirigir y controlar el ejercicio de los servicios delegados:",
+    "options": [
+      "Dictar instrucciones técnicas de carácter general y recabar información sobre la gestión municipal",
+      "Disolver el Ayuntamiento delegado sin trámite alguno",
+      "Suprimir automáticamente el municipio delegado",
+      "Nombrar directamente al Alcalde del municipio delegado"
+    ],
+    "correct": 0,
+    "exp": "Art. 27.4: la Administración delegante podrá dictar instrucciones técnicas de carácter general, recabar información sobre la gestión municipal, enviar comisionados y formular requerimientos, pudiendo revocar la delegación en caso de incumplimiento.",
+    "fuente": "Art. 27.4 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 28 de la LBRL vigente, los sistemas de gestión colaborativa dirigidos a garantizar recursos suficientes para el cumplimiento de las competencias municipales pueden establecerse en:",
+    "options": [
+      "Municipios determinados de menos de 20.000 habitantes",
+      "Únicamente en municipios de más de 50.000 habitantes",
+      "Exclusivamente en municipios turísticos",
+      "En todas las Diputaciones provinciales sin excepción"
+    ],
+    "correct": 0,
+    "exp": "Art. 28 (redacción dada por el RDL 6/2023): podrán establecerse en municipios determinados de menos de 20.000 habitantes sistemas de gestión colaborativa mediante racionalización organizativa, gestión comunes o asociativa, sostenimiento del personal en común y fomento del desarrollo económico y social.",
+    "fuente": "Art. 28 LBRL (Ley 7/1985, redacción RDL 6/2023)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 29.1 de la LBRL, ¿en qué municipios funciona el régimen de Concejo Abierto?",
+    "options": [
+      "En los que tradicional y voluntariamente cuenten con ese régimen, y en aquellos en que por su localización geográfica u otras circunstancias lo hagan aconsejable",
+      "Únicamente en los municipios de menos de 100 habitantes sin excepción",
+      "Solo en las capitales de provincia",
+      "Exclusivamente en los municipios insulares"
+    ],
+    "correct": 0,
+    "exp": "Art. 29.1: funcionan en Concejo Abierto los municipios que tradicional y voluntariamente cuenten con ese singular régimen, y aquellos en los que por su localización geográfica, la mejor gestión de intereses municipales u otras circunstancias lo hagan aconsejable.",
+    "fuente": "Art. 29.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 29.2 de la LBRL, la constitución en Concejo Abierto de un municipio por conveniencia (art. 29.1.b) requiere:",
+    "options": [
+      "Petición de la mayoría de los vecinos, decisión favorable por mayoría de dos tercios de los miembros del Ayuntamiento y aprobación de la Comunidad Autónoma",
+      "Únicamente el acuerdo del Alcalde",
+      "Solo un informe no vinculante de la Diputación Provincial",
+      "La aprobación por mayoría simple del Congreso de los Diputados"
+    ],
+    "correct": 0,
+    "exp": "Art. 29.2: la constitución en concejo abierto de los municipios del apartado b) del número anterior requiere petición de la mayoría de los vecinos, decisión favorable por mayoría de dos tercios de los miembros del Ayuntamiento y aprobación por la Comunidad Autónoma.",
+    "fuente": "Art. 29.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 29.3 de la LBRL, en el régimen de Concejo Abierto el gobierno y la administración municipales corresponden a:",
+    "options": [
+      "Un Alcalde y una asamblea vecinal de la que forman parte todos los electores",
+      "Un Pleno de Concejales elegidos por sufragio universal",
+      "Una Junta de Gobierno Local designada por el Alcalde",
+      "Un Comisionado nombrado por la Comunidad Autónoma"
+    ],
+    "correct": 0,
+    "exp": "Art. 29.3: en el régimen de Concejo Abierto, el gobierno y la administración municipales corresponden a un Alcalde y una asamblea vecinal de la que forman parte todos los electores, ajustando su funcionamiento a usos, costumbres y tradiciones locales.",
+    "fuente": "Art. 29.3 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 30 de la LBRL, las leyes sobre régimen local de las Comunidades Autónomas podrán establecer regímenes especiales para municipios pequeños o de carácter rural y para aquellos que:",
+    "options": [
+      "Reúnan otras características que lo hagan aconsejable, como su carácter histórico-artístico o el predominio de actividades turísticas, industriales o mineras",
+      "Hayan sido capital de provincia en algún momento de su historia",
+      "Cuenten con puerto de interés general",
+      "Tengan una población superior a 500.000 habitantes"
+    ],
+    "correct": 0,
+    "exp": "Art. 30: las leyes sobre régimen local de las CCAA, en el marco de la LBRL, podrán establecer regímenes especiales para municipios pequeños o rurales y para los que por su carácter histórico-artístico o predominio de actividades turísticas, industriales, mineras u otras semejantes lo hagan aconsejable.",
+    "fuente": "Art. 30 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 31.1 de la LBRL, la Provincia es una entidad local determinada por:",
+    "options": [
+      "La agrupación de Municipios, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines",
+      "La agrupación de Comunidades Autónomas limítrofes",
+      "Decisión unilateral del Estado sin base territorial preestablecida",
+      "La agrupación de comarcas de nueva creación"
+    ],
+    "correct": 0,
+    "exp": "Art. 31.1: la Provincia es una entidad local determinada por la agrupación de Municipios, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines.",
+    "fuente": "Art. 31.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 31.2 de la LBRL, son fines propios y específicos de la Provincia garantizar los principios de:",
+    "options": [
+      "Solidaridad y equilibrio intermunicipales, en el marco de la política económica y social",
+      "Igualdad de género y transparencia presupuestaria exclusivamente",
+      "Autonomía fiscal absoluta de cada municipio",
+      "Centralización administrativa del Estado"
+    ],
+    "correct": 0,
+    "exp": "Art. 31.2: son fines propios y específicos de la Provincia garantizar los principios de solidaridad y equilibrio intermunicipales, en el marco de la política económica y social.",
+    "fuente": "Art. 31.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 31.3 de la LBRL, el gobierno y la administración autónoma de la Provincia corresponden a:",
+    "options": [
+      "La Diputación u otras Corporaciones de carácter representativo",
+      "El Delegado del Gobierno en la Comunidad Autónoma",
+      "El Presidente de la Comunidad Autónoma",
+      "El Ministerio de Política Territorial"
+    ],
+    "correct": 0,
+    "exp": "Art. 31.3: el gobierno y la administración autónoma de la Provincia corresponden a la Diputación u otras Corporaciones de carácter representativo.",
+    "fuente": "Art. 31.3 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 32.1 de la LBRL, ¿qué órganos existen en todas las Diputaciones?",
+    "options": [
+      "El Presidente, los Vicepresidentes, la Junta de Gobierno y el Pleno",
+      "Únicamente el Presidente y el Secretario",
+      "Solo el Pleno y el Interventor",
+      "El Alcalde-Presidente y los Tenientes de Alcalde"
+    ],
+    "correct": 0,
+    "exp": "Art. 32.1: la organización provincial responde a la regla de que el Presidente, los Vicepresidentes, la Junta de Gobierno y el Pleno existen en todas las Diputaciones.",
+    "fuente": "Art. 32.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 32 bis de la LBRL, el nombramiento del personal directivo de las Diputaciones, Cabildos y Consejos Insulares debe efectuarse de acuerdo con:",
+    "options": [
+      "Criterios de competencia profesional y experiencia, entre funcionarios de carrera clasificados en el subgrupo A1",
+      "El resultado de las últimas elecciones locales",
+      "La antigüedad exclusiva en el puesto de trabajo",
+      "Un sorteo público entre los aspirantes"
+    ],
+    "correct": 0,
+    "exp": "Art. 32 bis: el nombramiento del personal directivo que hubiera en Diputaciones, Cabildos y Consejos Insulares debe efectuarse de acuerdo a criterios de competencia profesional y experiencia, entre funcionarios de carrera del Estado, CCAA, Entidades Locales o con habilitación nacional, clasificados en el subgrupo A1.",
+    "fuente": "Art. 32 bis LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 33.1 de la LBRL, el Pleno de la Diputación está constituido por:",
+    "options": [
+      "El Presidente y los Diputados",
+      "El Presidente y los Vicepresidentes exclusivamente",
+      "El Secretario, el Interventor y el Presidente",
+      "Los Alcaldes de todos los municipios de la provincia"
+    ],
+    "correct": 0,
+    "exp": "Art. 33.1: el Pleno de la Diputación está constituido por el Presidente y los Diputados.",
+    "fuente": "Art. 33.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 33.2 c) de la LBRL, corresponde en todo caso al Pleno de la Diputación:",
+    "options": [
+      "La aprobación y modificación de los Presupuestos y la aprobación provisional de las cuentas",
+      "La firma de convenios internacionales",
+      "El nombramiento del Secretario General del Ayuntamiento",
+      "La declaración del estado de excepción"
+    ],
+    "correct": 0,
+    "exp": "Art. 33.2 c): corresponde en todo caso al Pleno la aprobación y modificación de los Presupuestos, la disposición de gastos dentro de los límites de su competencia y la aprobación provisional de las cuentas.",
+    "fuente": "Art. 33.2 c) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 33.4 de la LBRL, el Pleno puede delegar el ejercicio de sus atribuciones en el Presidente y en la Comisión de Gobierno, salvo, entre otras, la enunciada en la letra:",
+    "options": [
+      "b) La aprobación de las ordenanzas",
+      "g) La alteración de la calificación jurídica de los bienes de dominio público, que sí es delegable",
+      "i) El ejercicio de acciones judiciales, que sí es delegable",
+      "m) La aprobación de proyectos de obra aún no previstos en el presupuesto, que sí es delegable"
+    ],
+    "correct": 0,
+    "exp": "Art. 33.4: el Pleno puede delegar sus atribuciones salvo las enunciadas en el número 2, letras a), b), c), d), e), f), h) y ñ), y el número 3; la letra b) (aprobación de ordenanzas) es indelegable.",
+    "fuente": "Art. 33.4 LBRL (Ley 7/1985)",
+    "confianza": "alta",
+    "correccion": "Dos imprecisiones menores en esta pregunta, corregidas: (1) el enunciado decía 'la Junta de Gobierno', pero el texto vigente del art. 33.4 LBRL dice literalmente 'la Comisión de Gobierno' (terminología no actualizada en este artículo tras el cambio general a 'Junta de Gobierno' por la Ley 57/2003); se corrige el enunciado para citar el término exacto del artículo. (2) La opción de la letra m) decía 'proyectos de obra YA PREVISTOS en el presupuesto', invirtiendo la condición real de la letra m) del art. 33.2, que habla de proyectos de obra CUANDO AÚN NO ESTÉN PREVISTOS en los Presupuestos; se corrige el texto de esa opción para reflejar la condición correcta. Ninguna de las dos correcciones afecta a la respuesta marcada como correcta (opción b, indelegable), que sigue siendo la correcta."
+  },
+  {
+    "q": "Según el art. 34.1 a) de la LBRL, corresponde en todo caso al Presidente de la Diputación:",
+    "options": [
+      "Dirigir el gobierno y la administración de la provincia",
+      "Aprobar las ordenanzas provinciales",
+      "Aprobar los Presupuestos definitivamente",
+      "Fiscalizar los propios actos del Presidente"
+    ],
+    "correct": 0,
+    "exp": "Art. 34.1 a): corresponde en todo caso al Presidente de la Diputación dirigir el gobierno y la administración de la provincia.",
+    "fuente": "Art. 34.1 a) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 35.1 de la LBRL, la Junta de Gobierno de la Diputación se integra por el Presidente y un número de Diputados que no puede superar:",
+    "options": [
+      "El tercio del número legal de miembros de la Diputación",
+      "La mitad del número legal de miembros",
+      "Dos tercios del número legal de miembros",
+      "Cinco Diputados, sea cual sea el tamaño de la Diputación"
+    ],
+    "correct": 0,
+    "exp": "Art. 35.1: la Junta de Gobierno se integra por el Presidente y un número de Diputados no superior al tercio del número legal de los mismos, nombrados y separados libremente por aquél, dando cuenta al Pleno.",
+    "fuente": "Art. 35.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 36.1 a) de la LBRL, es competencia propia de la Diputación:",
+    "options": [
+      "La coordinación de los servicios municipales entre sí para garantizar la prestación integral y adecuada de servicios",
+      "La aprobación de los Estatutos de Autonomía",
+      "La designación de los Senadores autonómicos",
+      "La convocatoria de elecciones municipales"
+    ],
+    "correct": 0,
+    "exp": "Art. 36.1 a): son competencias propias de la Diputación, entre otras, la coordinación de los servicios municipales entre sí para la garantía de la prestación integral y adecuada a que se refiere el art. 31.2.a).",
+    "fuente": "Art. 36.1 a) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 36.1 b) de la LBRL, la Diputación garantizará en todo caso en los municipios de menos de 1.000 habitantes la prestación de los servicios de:",
+    "options": [
+      "Secretaría e intervención",
+      "Policía local y bomberos",
+      "Transporte urbano y recogida de basuras",
+      "Biblioteca pública y archivo municipal"
+    ],
+    "correct": 0,
+    "exp": "Art. 36.1 b): la Diputación presta asistencia y cooperación a los municipios, especialmente los de menor capacidad, y en todo caso garantizará en los municipios de menos de 1.000 habitantes la prestación de los servicios de secretaría e intervención.",
+    "fuente": "Art. 36.1 b) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 36.1 c) de la LBRL, la Diputación asumirá la prestación del servicio de tratamiento de residuos en los municipios de menos de:",
+    "options": [
+      "5.000 habitantes, cuando estos no procedan a su prestación",
+      "1.000 habitantes exclusivamente",
+      "10.000 habitantes en todo caso, sin excepción",
+      "20.000 habitantes, con carácter voluntario para la Diputación"
+    ],
+    "correct": 0,
+    "exp": "Art. 36.1 c): la Diputación asumirá la prestación de los servicios de tratamiento de residuos en los municipios de menos de 5.000 habitantes, y de prevención y extinción de incendios en los de menos de 20.000 habitantes, cuando estos no procedan a su prestación.",
+    "fuente": "Art. 36.1 c) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 37.1 de la LBRL, cuando las Comunidades Autónomas encomiendan a las Diputaciones la gestión ordinaria de servicios propios, estas actuarán:",
+    "options": [
+      "Con sujeción plena a las instrucciones generales y particulares de las Comunidades",
+      "Con total autonomía, sin ninguna sujeción a instrucciones autonómicas",
+      "Solo si medía autorización previa del Estado",
+      "Únicamente si lo aprueba el Senado"
+    ],
+    "correct": 0,
+    "exp": "Art. 37.1: las Comunidades Autónomas podrán delegar competencias en las Diputaciones y encomendarles la gestión ordinaria de servicios propios; en este último supuesto las Diputaciones actuarán con sujeción plena a las instrucciones generales y particulares de las Comunidades.",
+    "fuente": "Art. 37.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 38 de la LBRL, las previsiones establecidas para la Diputación en la Ley son de aplicación a:",
+    "options": [
+      "Aquellas otras Corporaciones de carácter representativo a las que corresponda el gobierno y administración autónoma de la Provincia",
+      "Las Comunidades Autónomas uniprovinciales exclusivamente",
+      "Los Ayuntamientos de más de 50.000 habitantes",
+      "Las Mancomunidades de municipios de carácter voluntario"
+    ],
+    "correct": 0,
+    "exp": "Art. 38: las previsiones establecidas para la Diputación en este Capítulo y en los restantes de la Ley serán de aplicación a aquellas otras Corporaciones de carácter representativo a las que corresponda el gobierno y la administración autónoma de la Provincia.",
+    "fuente": "Art. 38 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 39 de la LBRL, los órganos forales de Álava, Guipúzcoa y Vizcaya conservan su régimen peculiar en el marco de:",
+    "options": [
+      "El Estatuto de Autonomía de la Comunidad Autónoma del País Vasco",
+      "La Constitución Española exclusivamente, sin referencia estatutaria",
+      "El Estatuto de Autonomía de Navarra",
+      "Un convenio bilateral con el Estado sin rango estatutario"
+    ],
+    "correct": 0,
+    "exp": "Art. 39: los órganos forales de Álava, Guipúzcoa y Vizcaya conservan su régimen peculiar en el marco del Estatuto de Autonomía del País Vasco, sin perjuicio de la aplicación supletoria de la LBRL.",
+    "fuente": "Art. 39 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 40 de la LBRL, las Comunidades Autónomas uniprovinciales y la Foral de Navarra asumen las competencias, medios y recursos que en el régimen ordinario corresponden a las Diputaciones Provinciales, exceptuando:",
+    "options": [
+      "La Comunidad Autónoma de las Islas Baleares, en los términos de su Estatuto propio",
+      "La Comunidad de Madrid",
+      "El Principado de Asturias",
+      "La Región de Murcia"
+    ],
+    "correct": 0,
+    "exp": "Art. 40: las Comunidades Autónomas uniprovinciales y la Foral de Navarra asumen las competencias, medios y recursos de las Diputaciones Provinciales, exceptuándose la Comunidad Autónoma de las Islas Baleares en los términos de su Estatuto propio.",
+    "fuente": "Art. 40 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 41.1 de la LBRL, los Cabildos Insulares Canarios se rigen, como órganos de gobierno, administración y representación de cada isla, por las normas de la disposición adicional decimocuarta de la Ley y, supletoriamente, por las normas de organización y funcionamiento de:",
+    "options": [
+      "Las Diputaciones provinciales, asumiendo sus competencias",
+      "Los Ayuntamientos de gran población",
+      "El Consejo de Gobierno autonómico",
+      "Las Comunidades Autónomas uniprovinciales"
+    ],
+    "correct": 0,
+    "exp": "Art. 41.1: los Cabildos Insulares Canarios se rigen por la disposición adicional decimocuarta y, supletoriamente, por las normas que regulan la organización y funcionamiento de las Diputaciones provinciales, asumiendo sus competencias.",
+    "fuente": "Art. 41.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  }
+]);
