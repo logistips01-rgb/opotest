@@ -1,0 +1,606 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 12,
+  "preguntas": [
+    {
+      "q": "Según el art. 78.1 TRLRHL, el Impuesto sobre Actividades Económicas es un tributo...",
+      "options": [
+        "directo de carácter real, cuyo hecho imponible es el mero ejercicio de actividades empresariales, profesionales o artísticas",
+        "indirecto de carácter real, cuyo hecho imponible es el mero ejercicio de actividades empresariales, profesionales o artísticas",
+        "directo de carácter personal, cuyo hecho imponible es el mero ejercicio de actividades empresariales, profesionales o artísticas",
+        "indirecto de carácter personal, cuyo hecho imponible es la titularidad de un patrimonio empresarial"
+      ],
+      "correct": 0,
+      "exp": "El art. 78.1 TRLRHL define el IAE como tributo directo de carácter real, cuyo hecho imponible está constituido por el mero ejercicio, en territorio nacional, de actividades empresariales, profesionales o artísticas.",
+      "fuente": "Art. 78.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 78.1 TRLRHL literal: 'tributo directo de carácter real, cuyo hecho imponible está constituido por el mero ejercicio, en territorio nacional, de actividades empresariales, profesionales o artísticas...'. Coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 78.2 TRLRHL, ¿cuál de los siguientes NO es uno de los supuestos en que se considera que existe ganadería independiente a efectos del IAE?",
+      "options": [
+        "El que paste o se alimente fundamentalmente en tierras que no sean explotadas agrícola o forestalmente por el dueño del ganado",
+        "El estabulado fuera de las fincas rústicas",
+        "El que se alimente fundamentalmente con piensos producidos en la propia finca en que se críe",
+        "El trashumante o trasterminante"
+      ],
+      "correct": 2,
+      "exp": "El art. 78.2.d) TRLRHL exige lo contrario: que el ganado se alimente fundamentalmente con piensos NO producidos en la finca en que se críe; los otros tres supuestos sí figuran literalmente en el precepto.",
+      "fuente": "Art. 78.2 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 78.2 TRLRHL literal, letra d): 'Aquel que se alimente fundamentalmente con piensos no producidos en la finca en que se críe.' La opción marcada (c) invierte el sentido ('producidos' en vez de 'no producidos'), por lo que es la que NO figura; las letras a), b) y c) del texto (trashumante) sí constan literalmente."
+    },
+    {
+      "q": "Conforme al art. 79.1 TRLRHL, se considera que una actividad se ejerce con carácter empresarial, profesional o artístico cuando suponga...",
+      "options": [
+        "la ordenación por cuenta propia de medios de producción y de recursos humanos, o de uno de ambos, con la finalidad de intervenir en la producción o distribución de bienes o servicios",
+        "la ordenación por cuenta ajena de medios de producción, con la finalidad de obtener una renta salarial",
+        "la mera titularidad de bienes inmuebles urbanos destinados a arrendamiento",
+        "la inscripción en el Registro Mercantil como empresario individual"
+      ],
+      "correct": 0,
+      "exp": "El art. 79.1 TRLRHL define así el ejercicio de actividad con carácter empresarial, profesional o artístico.",
+      "fuente": "Art. 79.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 79.1 TRLRHL literal: '...cuando suponga la ordenación por cuenta propia de medios de producción y de recursos humanos o de uno de ambos, con la finalidad de intervenir en la producción o distribución de bienes o servicios.' Coincide."
+    },
+    {
+      "q": "Según el art. 81.1 TRLRHL, no constituye hecho imponible del IAE la enajenación de bienes integrados en el activo fijo de las empresas cuando...",
+      "options": [
+        "hubieran figurado inventariados como inmovilizado con más de dos años de antelación a la fecha de transmitirse",
+        "hubieran figurado inventariados como inmovilizado con más de cinco años de antelación a la fecha de transmitirse",
+        "hubieran figurado inventariados como inmovilizado con más de un año de antelación a la fecha de transmitirse",
+        "hubieran figurado inventariados como inmovilizado con más de tres años de antelación a la fecha de transmitirse"
+      ],
+      "correct": 0,
+      "exp": "El art. 81.1 TRLRHL fija el plazo de más de dos años de antelación a la transmisión para este supuesto de no sujeción.",
+      "fuente": "Art. 81.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 81.1 TRLRHL literal: 'La enajenación de bienes integrados en el activo fijo de las empresas que hubieran figurado debidamente inventariados como tal inmovilizado con más de dos años de antelación a la fecha de transmitirse...'. Coincide."
+    },
+    {
+      "q": "El art. 82.1.a) TRLRHL declara exentos del IAE, entre otros, a...",
+      "options": [
+        "el Estado, las comunidades autónomas y las entidades locales, así como sus organismos autónomos y las entidades de derecho público de análogo carácter",
+        "únicamente el Estado y las comunidades autónomas, quedando excluidas las entidades locales",
+        "las sociedades mercantiles públicas de capital íntegramente estatal",
+        "los organismos autónomos del Estado, pero no los de las comunidades autónomas ni de las entidades locales"
+      ],
+      "correct": 0,
+      "exp": "El art. 82.1.a) TRLRHL incluye expresamente al Estado, comunidades autónomas y entidades locales, junto con sus organismos autónomos y entidades de derecho público análogas.",
+      "fuente": "Art. 82.1.a) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 82.1.a) TRLRHL literal: 'El Estado, las comunidades autónomas y las entidades locales, así como los organismos autónomos del Estado y las entidades de derecho público de análogo carácter de las comunidades autónomas y de las entidades locales.' Coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 82.1.c) TRLRHL, están exentos del IAE los sujetos pasivos del Impuesto sobre Sociedades y las sociedades civiles cuyo importe neto de la cifra de negocios sea inferior a...",
+      "options": [
+        "1.000.000 de euros",
+        "600.000 euros",
+        "2.000.000 de euros",
+        "500.000 euros"
+      ],
+      "correct": 0,
+      "exp": "El art. 82.1.c) TRLRHL fija el umbral en un importe neto de la cifra de negocios inferior a 1.000.000 de euros.",
+      "fuente": "Art. 82.1.c) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 82.1.c) TRLRHL literal (redacción vigente tras Ley 11/2021): '...que tengan un importe neto de la cifra de negocios inferior a 1.000.000 de euros.' Coincide."
+    },
+    {
+      "q": "De acuerdo con el art. 82.4 TRLRHL, las exenciones previstas en los párrafos e) y f) del apartado 1 del art. 82 (organismos públicos de investigación y centros de enseñanza; asociaciones y fundaciones de discapacitados) tienen carácter...",
+      "options": [
+        "rogado, concediéndose a instancia de parte",
+        "automático, aplicándose de oficio sin necesidad de solicitud",
+        "temporal, limitado a los dos primeros años de actividad",
+        "provisional, sujeto a ratificación anual por el Pleno"
+      ],
+      "correct": 0,
+      "exp": "El art. 82.4 TRLRHL establece que estas exenciones tendrán carácter rogado, concediéndose a instancia de parte.",
+      "fuente": "Art. 82.4 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 82.4 TRLRHL literal: 'Las exenciones previstas en los párrafos e) y f) del apartado 1 de este artículo tendrán carácter rogado y se concederán, cuando proceda, a instancia de parte.' Coincide."
+    },
+    {
+      "q": "Según la base Cuarta del art. 85.1 TRLRHL, las cuotas resultantes de la aplicación de las tarifas del IAE no podrán exceder de qué porcentaje del beneficio medio presunto de la actividad gravada?",
+      "options": [
+        "15 por ciento",
+        "25 por ciento",
+        "10 por ciento",
+        "20 por ciento"
+      ],
+      "correct": 0,
+      "exp": "La base Cuarta del art. 85.1 TRLRHL fija el límite del 15 por ciento del beneficio medio presunto de la actividad gravada.",
+      "fuente": "Art. 85.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 85.1 TRLRHL, base Cuarta, literal: 'Las cuotas resultantes de la aplicación de las tarifas no podrán exceder del 15 por ciento del beneficio medio presunto de la actividad gravada...'. Coincide."
+    },
+    {
+      "q": "Según la tabla del art. 86 TRLRHL, ¿qué coeficiente de ponderación corresponde a un sujeto pasivo con un importe neto de la cifra de negocios de entre 50.000.000,01 y 100.000.000,00 euros?",
+      "options": [
+        "1,33",
+        "1,32",
+        "1,35",
+        "1,30"
+      ],
+      "correct": 0,
+      "exp": "El cuadro del art. 86 TRLRHL asigna el coeficiente 1,33 al tramo comprendido entre 50.000.000,01 y 100.000.000,00 euros.",
+      "fuente": "Art. 86 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado el cuadro del Art. 86 TRLRHL: el tramo 'Desde 50.000.000,01 hasta 100.000.000,00' euros tiene asignado el coeficiente 1,33. Coincide."
+    },
+    {
+      "q": "Conforme al art. 87.2 TRLRHL, el coeficiente de situación que los ayuntamientos pueden establecer en el IAE...",
+      "options": [
+        "no podrá ser inferior a 0,4 ni superior a 3,8",
+        "no podrá ser inferior a 0,1 ni superior a 2",
+        "no podrá ser inferior a 1 ni superior a 5",
+        "no podrá ser inferior a 0,5 ni superior a 4"
+      ],
+      "correct": 0,
+      "exp": "El art. 87.2 TRLRHL fija los límites del coeficiente de situación entre 0,4 y 3,8.",
+      "fuente": "Art. 87.2 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 87.2 TRLRHL literal: 'Dicho coeficiente no podrá ser inferior a 0,4 ni superior a 3,8.' Coincide."
+    },
+    {
+      "q": "Según el art. 87.3 TRLRHL, el número de categorías de calles que debe establecer cada municipio a efectos del coeficiente de situación del IAE no podrá ser inferior a...",
+      "options": [
+        "2 ni superior a 9",
+        "3 ni superior a 10",
+        "1 ni superior a 8",
+        "4 ni superior a 12"
+      ],
+      "correct": 0,
+      "exp": "El art. 87.3 TRLRHL exige que el número de categorías de calles no sea inferior a 2 ni superior a 9.",
+      "fuente": "Art. 87.3 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 87.3 TRLRHL literal: 'el número de categorías de calles que debe establecer cada municipio no podrá ser inferior a 2 ni superior a 9.' Coincide."
+    },
+    {
+      "q": "El art. 88.1.b) TRLRHL establece una bonificación obligatoria del 50 por ciento de la cuota del IAE para quienes inicien el ejercicio de cualquier actividad profesional, durante cuántos años de actividad siguientes a la conclusión del segundo período impositivo?",
+      "options": [
+        "cinco años",
+        "tres años",
+        "dos años",
+        "diez años"
+      ],
+      "correct": 0,
+      "exp": "El art. 88.1.b) TRLRHL fija la duración de esta bonificación en cinco años de actividad.",
+      "fuente": "Art. 88.1.b) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 88.1.b) TRLRHL literal: 'Una bonificación del 50 por ciento de la cuota correspondiente, para quienes inicien el ejercicio de cualquier actividad profesional, durante los cinco años de actividad siguientes a la conclusión del segundo período impositivo de desarrollo de aquélla.' Coincide."
+    },
+    {
+      "q": "Según el art. 88.2.e) TRLRHL, la bonificación potestativa de hasta el 95 por ciento de la cuota del IAE para actividades declaradas de especial interés o utilidad municipal debe acordarse por...",
+      "options": [
+        "el Pleno de la Corporación, previa solicitud del sujeto pasivo, por voto favorable de la mayoría simple de sus miembros",
+        "la Junta de Gobierno Local, por mayoría absoluta",
+        "el Alcalde-Presidente, mediante decreto motivado",
+        "el Pleno de la Corporación, por mayoría de dos tercios"
+      ],
+      "correct": 0,
+      "exp": "El art. 88.2.e) TRLRHL atribuye esta declaración al Pleno de la Corporación, exigiendo solicitud previa del sujeto pasivo y mayoría simple.",
+      "fuente": "Art. 88.2.e) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 88.2.e) TRLRHL literal: 'Corresponderá dicha declaración al Pleno de la Corporación y se acordará, previa solicitud del sujeto pasivo, por voto favorable de la mayoría simple de sus miembros.' Coincide."
+    },
+    {
+      "q": "Según el art. 89.1 TRLRHL, el período impositivo del IAE coincide con...",
+      "options": [
+        "el año natural, salvo en las declaraciones de alta, en que abarcará desde el comienzo de la actividad hasta el final del año natural",
+        "el ejercicio económico de la empresa, que puede no coincidir con el año natural",
+        "el trimestre natural en que se ejerza la actividad",
+        "el semestre natural, computado desde la fecha de alta en la matrícula"
+      ],
+      "correct": 0,
+      "exp": "El art. 89.1 TRLRHL establece que el período impositivo coincide con el año natural, con la excepción de las declaraciones de alta.",
+      "fuente": "Art. 89.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 89.1 TRLRHL literal: 'El período impositivo coincide con el año natural, excepto cuando se trate de declaraciones de alta, en cuyo caso abarcará desde la fecha de comienzo de la actividad hasta el final del año natural.' Coincide."
+    },
+    {
+      "q": "Conforme al art. 91.2 TRLRHL, ¿a quién corresponde la liquidación y recaudación, así como la revisión de los actos de gestión tributaria, del IAE?",
+      "options": [
+        "a los ayuntamientos",
+        "a la Agencia Estatal de Administración Tributaria",
+        "a las diputaciones provinciales en todo caso",
+        "a las comunidades autónomas"
+      ],
+      "correct": 0,
+      "exp": "El art. 91.2 TRLRHL atribuye a los ayuntamientos la liquidación, recaudación y revisión de los actos de gestión tributaria del IAE.",
+      "fuente": "Art. 91.2 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 91.2 TRLRHL literal: 'La liquidación y recaudación, así como la revisión de los actos dictados en vía de gestión tributaria de este impuesto se llevará a cabo por los ayuntamientos...'. Coincide."
+    },
+    {
+      "q": "Según el art. 100.1 TRLRHL, el Impuesto sobre Construcciones, Instalaciones y Obras (ICIO) es un tributo...",
+      "options": [
+        "indirecto, cuyo hecho imponible es la realización de cualquier construcción, instalación u obra para la que se exija licencia, se haya obtenido o no dicha licencia",
+        "directo, cuyo hecho imponible es la titularidad de la construcción una vez concluida",
+        "indirecto, cuyo hecho imponible es exclusivamente la obtención de la licencia de obras",
+        "directo, cuyo hecho imponible es el mero ejercicio de una actividad empresarial de construcción"
+      ],
+      "correct": 0,
+      "exp": "El art. 100.1 TRLRHL califica el ICIO como tributo indirecto cuyo hecho imponible es la realización de la construcción, instalación u obra sujeta a licencia, se haya obtenido o no.",
+      "fuente": "Art. 100.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 100.1 TRLRHL literal (redacción vigente tras Ley 12/2012/RDL 19/2012): tributo indirecto cuyo hecho imponible es la realización de la construcción, instalación u obra sujeta a licencia de obras o urbanística, se haya obtenido o no. La opción marcada es correcta, aunque simplifica: el texto vigente añade también el supuesto de declaración responsable o comunicación previa, no recogido en la opción, sin que ello invalide la respuesta frente a las otras tres opciones (claramente erróneas)."
+    },
+    {
+      "q": "El art. 100.2 TRLRHL declara exenta la realización de construcciones, instalaciones u obras de las que sea dueño el Estado, las comunidades autónomas o las entidades locales cuando se destinen directamente a...",
+      "options": [
+        "carreteras, ferrocarriles, puertos, aeropuertos, obras hidráulicas y saneamiento de poblaciones y de sus aguas residuales",
+        "edificios administrativos y sedes de organismos públicos",
+        "viviendas de protección oficial promovidas por el ayuntamiento",
+        "centros educativos y sanitarios de titularidad pública"
+      ],
+      "correct": 0,
+      "exp": "El art. 100.2 TRLRHL enumera estos destinos concretos como condición para la exención.",
+      "fuente": "Art. 100.2 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 100.2 TRLRHL literal: exención cuando se destine directamente a 'carreteras, ferrocarriles, puertos, aeropuertos, obras hidráulicas, saneamiento de poblaciones y de sus aguas residuales'. Coincide."
+    },
+    {
+      "q": "Según el art. 101.1 TRLRHL, tiene la consideración de sujeto pasivo contribuyente del ICIO...",
+      "options": [
+        "quien sea dueño de la construcción, instalación u obra, sea o no propietario del inmueble sobre el que se realice",
+        "únicamente el propietario del inmueble sobre el que se ejecute la obra",
+        "el arquitecto o técnico director de la obra",
+        "la empresa constructora que ejecute materialmente los trabajos, en todo caso"
+      ],
+      "correct": 0,
+      "exp": "El art. 101.1 TRLRHL define como contribuyente a quien sea dueño de la construcción, con independencia de que sea o no propietario del inmueble.",
+      "fuente": "Art. 101.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 101.1 TRLRHL literal: contribuyentes '...que sean dueños de la construcción, instalación u obra, sean o no propietarios del inmueble sobre el que se realice aquélla.' Coincide."
+    },
+    {
+      "q": "De acuerdo con el art. 101.2 TRLRHL, cuando la construcción, instalación u obra no sea realizada por el sujeto pasivo contribuyente, tendrán la condición de sujetos pasivos sustitutos...",
+      "options": [
+        "quienes soliciten las licencias, presenten las declaraciones responsables o comunicaciones previas, o quienes realicen las construcciones, instalaciones u obras",
+        "los notarios que autoricen la escritura de obra nueva",
+        "los registradores de la propiedad que inscriban la declaración de obra nueva",
+        "el ayuntamiento que otorgue la licencia"
+      ],
+      "correct": 0,
+      "exp": "El art. 101.2 TRLRHL atribuye la condición de sustituto a quienes soliciten las licencias, presenten las declaraciones responsables/comunicaciones previas, o ejecuten las obras.",
+      "fuente": "Art. 101.2 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 101.2 TRLRHL literal (redacción vigente tras Ley 12/2012): sustitutos '...quienes soliciten las correspondientes licencias o presenten las correspondientes declaraciones responsables o comunicaciones previas o quienes realicen las construcciones, instalaciones u obras.' Coincide."
+    },
+    {
+      "q": "La base imponible del ICIO, según el art. 102.1 TRLRHL, está constituida por...",
+      "options": [
+        "el coste real y efectivo de la construcción, instalación u obra, entendido como el coste de ejecución material",
+        "el valor catastral del inmueble sobre el que se realiza la obra",
+        "el presupuesto de contrata incluyendo el beneficio empresarial del contratista",
+        "el valor de mercado del inmueble una vez finalizada la obra"
+      ],
+      "correct": 0,
+      "exp": "El art. 102.1 TRLRHL define la base imponible como el coste real y efectivo, identificado con el coste de ejecución material.",
+      "fuente": "Art. 102.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 102.1 TRLRHL literal: base imponible '...el coste real y efectivo de la construcción, instalación u obra, y se entiende por tal, a estos efectos, el coste de ejecución material de aquélla.' Coincide."
+    },
+    {
+      "q": "Según el art. 102.1 TRLRHL, ¿cuál de los siguientes conceptos NO forma parte de la base imponible del ICIO?",
+      "options": [
+        "el beneficio empresarial del contratista",
+        "los materiales empleados en la ejecución material de la obra",
+        "la mano de obra directamente empleada en la ejecución material",
+        "los medios auxiliares imputados a la ejecución material"
+      ],
+      "correct": 0,
+      "exp": "El art. 102.1 TRLRHL excluye expresamente de la base imponible, entre otros, el beneficio empresarial del contratista, al no integrar el coste de ejecución material.",
+      "fuente": "Art. 102.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 102.1 TRLRHL literal: excluye expresamente de la base imponible 'los honorarios de profesionales, el beneficio empresarial del contratista ni cualquier otro concepto que no integre, estrictamente, el coste de ejecución material'; materiales, mano de obra y medios auxiliares sí forman parte del coste de ejecución material. Coincide."
+    },
+    {
+      "q": "Conforme al art. 102.3 TRLRHL, el tipo de gravamen del ICIO, fijado por cada ayuntamiento, no podrá exceder de...",
+      "options": [
+        "el 4 por cien",
+        "el 10 por cien",
+        "el 30 por cien",
+        "el 2 por cien"
+      ],
+      "correct": 0,
+      "exp": "El art. 102.3 TRLRHL fija el límite máximo del tipo de gravamen en el 4 por cien.",
+      "fuente": "Art. 102.3 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 102.3 TRLRHL literal: 'El tipo de gravamen del impuesto será el fijado por cada ayuntamiento, sin que dicho tipo pueda exceder del cuatro por cien.' Coincide."
+    },
+    {
+      "q": "Según el art. 102.4 TRLRHL, el ICIO se devenga...",
+      "options": [
+        "en el momento de iniciarse la construcción, instalación u obra, aun cuando no se haya obtenido la correspondiente licencia",
+        "en el momento de concederse la licencia de obras",
+        "en el momento de finalizar la construcción, instalación u obra",
+        "el primer día del período impositivo, coincidente con el año natural"
+      ],
+      "correct": 0,
+      "exp": "El art. 102.4 TRLRHL sitúa el devengo en el inicio de la construcción, instalación u obra, se haya obtenido o no la licencia.",
+      "fuente": "Art. 102.4 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 102.4 TRLRHL literal: 'El impuesto se devenga en el momento de iniciarse la construcción, instalación u obra, aun cuando no se haya obtenido la correspondiente licencia.' Coincide."
+    },
+    {
+      "q": "El art. 103.2.a) TRLRHL permite a las ordenanzas fiscales regular una bonificación de hasta el 95 por ciento de la cuota del ICIO a favor de construcciones declaradas de especial interés o utilidad municipal, declaración que corresponde a...",
+      "options": [
+        "el Pleno de la Corporación, por voto favorable de la mayoría simple de sus miembros, previa solicitud del sujeto pasivo",
+        "la Comisión de Gobierno, por mayoría absoluta",
+        "el Alcalde-Presidente, mediante resolución motivada",
+        "el Pleno de la Corporación, por mayoría de dos tercios"
+      ],
+      "correct": 0,
+      "exp": "El art. 103.2.a) TRLRHL atribuye esta declaración al Pleno de la Corporación, con solicitud previa del sujeto pasivo y mayoría simple.",
+      "fuente": "Art. 103.2.a) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 103.2.a) TRLRHL literal: 'Corresponderá dicha declaración al Pleno de la Corporación y se acordará, previa solicitud del sujeto pasivo, por voto favorable de la mayoría simple de sus miembros.' Coincide. Comprobación reforzada por el aviso sobre modificaciones recientes del art. 103.2: la letra afectada por el RDL 7/2025 (después derogado por el Congreso) y por el RDL 7/2026 es la letra b) (bonificación por energía solar/térmica), no la a), que no ha sido tocada por esas normas."
+    },
+    {
+      "q": "Según el art. 103.2.e) TRLRHL, las ordenanzas fiscales pueden regular una bonificación de hasta qué porcentaje de la cuota del ICIO a favor de construcciones que favorezcan las condiciones de acceso y habitabilidad de los discapacitados?",
+      "options": [
+        "el 90 por ciento",
+        "el 50 por ciento",
+        "el 95 por ciento",
+        "el 65 por ciento"
+      ],
+      "correct": 0,
+      "exp": "El art. 103.2.e) TRLRHL fija esta bonificación potestativa en hasta el 90 por ciento.",
+      "fuente": "Art. 103.2.e) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 103.2.e) TRLRHL literal: 'Una bonificación de hasta el 90 por ciento a favor de las construcciones, instalaciones u obras que favorezcan las condiciones de acceso y habitabilidad de los discapacitados.' Coincide. Comprobación reforzada por el mismo aviso: la letra e) no ha sido afectada por las modificaciones y derogaciones de la letra b) (RDL 7/2025, derogado por Resolución de 22/07/2025, y RDL 7/2026)."
+    },
+    {
+      "q": "Según el art. 104.1 TRLRHL, el IIVTNU (plusvalía municipal) es un tributo...",
+      "options": [
+        "directo que grava el incremento de valor que experimenten los terrenos y se ponga de manifiesto a consecuencia de la transmisión de su propiedad o de la constitución o transmisión de un derecho real de goce limitativo del dominio",
+        "indirecto que grava la mera titularidad de terrenos de naturaleza urbana",
+        "directo que grava el valor catastral total del terreno en el momento del devengo",
+        "indirecto que grava exclusivamente las transmisiones a título lucrativo de terrenos rústicos"
+      ],
+      "correct": 0,
+      "exp": "El art. 104.1 TRLRHL define el IIVTNU como tributo directo que grava el incremento de valor puesto de manifiesto con la transmisión de la propiedad o de derechos reales de goce sobre los terrenos.",
+      "fuente": "Art. 104.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 104.1 TRLRHL literal: tributo directo que grava el incremento de valor '...a consecuencia de la transmisión de la propiedad de los terrenos por cualquier título o de la constitución o transmisión de cualquier derecho real de goce, limitativo del dominio...'. Coincide."
+    },
+    {
+      "q": "Conforme al art. 104.2 TRLRHL, no está sujeto al IIVTNU el incremento de valor que experimenten los terrenos que...",
+      "options": [
+        "tengan la consideración de rústicos a efectos del Impuesto sobre Bienes Inmuebles",
+        "estén calificados como solar sin edificar en el planeamiento urbanístico",
+        "hayan sido adquiridos por herencia hace más de veinte años",
+        "pertenezcan a una persona jurídica no residente"
+      ],
+      "correct": 0,
+      "exp": "El art. 104.2 TRLRHL excluye de la sujeción los terrenos con la consideración de rústicos a efectos del IBI.",
+      "fuente": "Art. 104.2 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 104.2 TRLRHL literal: 'No está sujeto a este impuesto el incremento de valor que experimenten los terrenos que tengan la consideración de rústicos a efectos del Impuesto sobre Bienes Inmuebles.' Coincide."
+    },
+    {
+      "q": "Según el art. 104.3 TRLRHL, no se producirá la sujeción al IIVTNU en los supuestos de...",
+      "options": [
+        "aportaciones de bienes y derechos realizadas por los cónyuges a la sociedad conyugal y las adjudicaciones que a su favor y en pago de ellas se verifiquen",
+        "transmisiones onerosas de terrenos entre particulares no emparentados",
+        "constitución de hipotecas sobre terrenos de naturaleza urbana",
+        "transmisiones de terrenos a favor de sociedades mercantiles"
+      ],
+      "correct": 0,
+      "exp": "El art. 104.3 TRLRHL contempla como supuesto de no sujeción las aportaciones a la sociedad conyugal y las adjudicaciones en pago de ellas.",
+      "fuente": "Art. 104.3 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 104.3 TRLRHL literal: 'No se producirá la sujeción al impuesto en los supuestos de aportaciones de bienes y derechos realizadas por los cónyuges a la sociedad conyugal, adjudicaciones que a su favor y en pago de ellas se verifiquen...'. Coincide."
+    },
+    {
+      "q": "El art. 104.5 TRLRHL establece que no se producirá la sujeción al impuesto cuando...",
+      "options": [
+        "se constate la inexistencia de incremento de valor por diferencia entre los valores del terreno en las fechas de transmisión y adquisición",
+        "el terreno haya sido adquirido hace más de veinte años",
+        "el sujeto pasivo sea una persona física residente fiscal en el municipio",
+        "el valor catastral del terreno no haya sido actualizado en los últimos cinco años"
+      ],
+      "correct": 0,
+      "exp": "El art. 104.5 TRLRHL prevé la no sujeción cuando se constate la inexistencia de incremento de valor comparando los valores de adquisición y transmisión.",
+      "fuente": "Art. 104.5 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 104.5 TRLRHL literal: 'No se producirá la sujeción al impuesto en las transmisiones de terrenos respecto de los cuales se constate la inexistencia de incremento de valor por diferencia entre los valores de dichos terrenos en las fechas de transmisión y adquisición.' Coincide."
+    },
+    {
+      "q": "Según el art. 105.1.c) TRLRHL, están exentas del IIVTNU las transmisiones realizadas por personas físicas con ocasión de...",
+      "options": [
+        "la dación en pago de la vivienda habitual del deudor hipotecario o garante, para la cancelación de deudas garantizadas con hipoteca sobre la misma",
+        "la compraventa de la vivienda habitual con motivo de un cambio de residencia",
+        "la permuta de la vivienda habitual por otra de igual valor",
+        "el arrendamiento con opción de compra de la vivienda habitual"
+      ],
+      "correct": 0,
+      "exp": "El art. 105.1.c) TRLRHL exime la dación en pago de la vivienda habitual del deudor hipotecario o garante para cancelar la deuda hipotecaria.",
+      "fuente": "Art. 105.1.c) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 105.1.c) TRLRHL literal: exención de 'las transmisiones realizadas por personas físicas con ocasión de la dación en pago de la vivienda habitual del deudor hipotecario o garante del mismo, para la cancelación de deudas garantizadas con hipoteca que recaiga sobre la misma...'. Coincide."
+    },
+    {
+      "q": "Conforme al art. 105.2.f) TRLRHL, está exenta del IIVTNU cuando la obligación de satisfacerlo recaiga sobre...",
+      "options": [
+        "la Cruz Roja Española",
+        "la Conferencia Episcopal Española",
+        "los colegios profesionales de ámbito estatal",
+        "las cámaras de comercio, industria y navegación"
+      ],
+      "correct": 0,
+      "exp": "El art. 105.2.f) TRLRHL incluye expresamente a la Cruz Roja Española entre los sujetos cuya obligación tributaria está exenta.",
+      "fuente": "Art. 105.2.f) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 105.2.f) TRLRHL literal: 'f) La Cruz Roja Española.' Coincide, verificado el orden de letras del apartado 2 (a-Estado/CCAA/EELL, b-municipio, c-instituciones benéficas, d-entidades gestoras SS, e-concesiones revertibles, f-Cruz Roja, g-tratados internacionales)."
+    },
+    {
+      "q": "Según el art. 106.1.a) TRLRHL, en las transmisiones de terrenos a título lucrativo, es sujeto pasivo del IIVTNU a título de contribuyente...",
+      "options": [
+        "la persona física o jurídica que adquiera el terreno o a cuyo favor se constituya o transmita el derecho real de que se trate",
+        "la persona física o jurídica que transmita el terreno",
+        "el notario que autorice la escritura de transmisión",
+        "el ayuntamiento en cuyo término radique el terreno"
+      ],
+      "correct": 0,
+      "exp": "El art. 106.1.a) TRLRHL designa como contribuyente, en las transmisiones lucrativas, a quien adquiere el terreno o el derecho real.",
+      "fuente": "Art. 106.1.a) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 106.1.a) TRLRHL literal: contribuyente en transmisiones a título lucrativo '...la persona física o jurídica...que adquiera el terreno o a cuyo favor se constituya o transmita el derecho real de que se trate.' Coincide."
+    },
+    {
+      "q": "Según el art. 106.1.b) TRLRHL, en las transmisiones de terrenos a título oneroso, es sujeto pasivo contribuyente del IIVTNU...",
+      "options": [
+        "la persona física o jurídica que transmita el terreno, o que constituya o transmita el derecho real de que se trate",
+        "la persona física o jurídica que adquiera el terreno",
+        "el adquirente y el transmitente de forma solidaria",
+        "quien figure como titular catastral en el momento de la transmisión, sea o no parte en el negocio jurídico"
+      ],
+      "correct": 0,
+      "exp": "El art. 106.1.b) TRLRHL designa como contribuyente, en las transmisiones onerosas, a quien transmite el terreno o el derecho real.",
+      "fuente": "Art. 106.1.b) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 106.1.b) TRLRHL literal: contribuyente en transmisiones a título oneroso '...la persona física o jurídica...que transmita el terreno, o que constituya o transmita el derecho real de que se trate.' Coincide."
+    },
+    {
+      "q": "Conforme al art. 106.2 TRLRHL, en las transmisiones a título oneroso, tendrá la consideración de sujeto pasivo sustituto del contribuyente el adquirente del terreno cuando...",
+      "options": [
+        "el contribuyente sea una persona física no residente en España",
+        "el contribuyente sea una persona jurídica extranjera con establecimiento permanente",
+        "el valor de la transmisión supere el millón de euros",
+        "la transmisión se realice mediante subasta judicial"
+      ],
+      "correct": 0,
+      "exp": "El art. 106.2 TRLRHL prevé la sustitución del adquirente cuando el contribuyente sea una persona física no residente en España.",
+      "fuente": "Art. 106.2 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 106.2 TRLRHL literal: sustituto el adquirente '...cuando el contribuyente sea una persona física no residente en España.' Coincide."
+    },
+    {
+      "q": "Según el art. 107.1 TRLRHL, la base imponible del IIVTNU se determina en función del incremento de valor puesto de manifiesto en el momento del devengo, experimentado a lo largo de un periodo máximo de...",
+      "options": [
+        "veinte años",
+        "diez años",
+        "veinticinco años",
+        "quince años"
+      ],
+      "correct": 0,
+      "exp": "El art. 107.1 TRLRHL fija en veinte años el periodo máximo de generación del incremento de valor a efectos de la base imponible.",
+      "fuente": "Art. 107.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 107.1 TRLRHL literal: incremento de valor '...experimentado a lo largo de un periodo máximo de veinte años...'. Coincide."
+    },
+    {
+      "q": "Según la tabla del art. 107.4 TRLRHL, el coeficiente máximo aplicable cuando el periodo de generación del incremento de valor sea igual o superior a 20 años es...",
+      "options": [
+        "0,40",
+        "0,23",
+        "0,20",
+        "0,15"
+      ],
+      "correct": 0,
+      "exp": "La tabla del art. 107.4 TRLRHL asigna el coeficiente 0,40 al periodo de generación igual o superior a 20 años.",
+      "fuente": "Art. 107.4 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con especial cuidado por el aviso sobre modificaciones recientes: el Art. 107.4 TRLRHL ha sufrido varias modificaciones de los coeficientes máximos (RDL 8/2023 vigente desde 2024; RDL 9/2024 para 2025, dejado sin efecto por Resolución del Congreso de 22/01/2025; RDL 16/2025 para 2026, dejado sin efecto por Resolución del Congreso de 27/01/2026). La tabla vigente en el consolidado descargado hoy (última actualización 28/01/2026, tras la derogación del RDL 16/2025) asigna coeficiente 0,40 al periodo de generación igual o superior a 20 años. Coincide con la opción marcada."
+    },
+    {
+      "q": "Conforme al art. 108.1 TRLRHL, el tipo de gravamen del IIVTNU fijado por cada ayuntamiento no podrá exceder de...",
+      "options": [
+        "el 30 por ciento",
+        "el 4 por ciento",
+        "el 15 por ciento",
+        "el 50 por ciento"
+      ],
+      "correct": 0,
+      "exp": "El art. 108.1 TRLRHL fija el límite máximo del tipo de gravamen en el 30 por ciento.",
+      "fuente": "Art. 108.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 108.1 TRLRHL literal: 'El tipo de gravamen del impuesto será el fijado por cada ayuntamiento, sin que dicho tipo pueda exceder del 30 por ciento.' Coincide."
+    },
+    {
+      "q": "Según el art. 108.4 TRLRHL, las ordenanzas fiscales pueden regular una bonificación de hasta el 95 por ciento de la cuota íntegra del IIVTNU en las transmisiones realizadas a título lucrativo por causa de muerte a favor de...",
+      "options": [
+        "los descendientes y adoptados, los cónyuges y los ascendientes y adoptantes",
+        "cualquier heredero, sin distinción de grado de parentesco",
+        "los colaterales hasta el cuarto grado",
+        "los legatarios de cosa específica no emparentados con el causante"
+      ],
+      "correct": 0,
+      "exp": "El art. 108.4 TRLRHL circunscribe esta bonificación potestativa a descendientes, adoptados, cónyuges, ascendientes y adoptantes.",
+      "fuente": "Art. 108.4 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 108.4 TRLRHL literal: bonificación '...a favor de los descendientes y adoptados, los cónyuges y los ascendientes y adoptantes.' Coincide."
+    },
+    {
+      "q": "Según el art. 110.2.a) TRLRHL, cuando se trate de actos ínter vivos, el plazo para presentar la declaración del IIVTNU será de...",
+      "options": [
+        "treinta días hábiles",
+        "un mes natural",
+        "quince días hábiles",
+        "dos meses"
+      ],
+      "correct": 0,
+      "exp": "El art. 110.2.a) TRLRHL fija el plazo de declaración en treinta días hábiles desde el devengo, para los actos ínter vivos.",
+      "fuente": "Art. 110.2.a) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 110.2.a) TRLRHL literal: 'Cuando se trate de actos ínter vivos, el plazo será de treinta días hábiles.' Coincide."
+    },
+    {
+      "q": "Conforme al art. 110.2.b) TRLRHL, cuando se trate de actos por causa de muerte, el plazo para presentar la declaración del IIVTNU será de...",
+      "options": [
+        "seis meses, prorrogables hasta un año a solicitud del sujeto pasivo",
+        "treinta días hábiles, improrrogables",
+        "un año, prorrogable hasta dos años",
+        "tres meses, prorrogables hasta seis meses"
+      ],
+      "correct": 0,
+      "exp": "El art. 110.2.b) TRLRHL fija el plazo en seis meses, prorrogables hasta un año a solicitud del sujeto pasivo, para los actos por causa de muerte.",
+      "fuente": "Art. 110.2.b) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 110.2.b) TRLRHL literal: 'Cuando se trate de actos por causa de muerte, el plazo será de seis meses prorrogables hasta un año a solicitud del sujeto pasivo.' Coincide."
+    }
+  ]
+}
