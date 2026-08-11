@@ -1,0 +1,326 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 11,
+  "preguntas": [
+    {
+      "q": "Según el art. 85.1 LBRL, ¿qué se consideran servicios públicos locales?",
+      "options": ["Los que prestan las entidades locales en el ámbito de sus competencias", "Los que presta el Estado en el ámbito territorial local", "Los que prestan las Comunidades Autónomas por delegación", "Los que prestan exclusivamente las sociedades mercantiles de capital público"],
+      "correct": 0,
+      "exp": "El art. 85.1 LBRL dispone literalmente: 'Son servicios públicos locales los que prestan las entidades locales en el ámbito de sus competencias.'",
+      "fuente": "Art. 85.1 LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 85.2 LBRL establece que los servicios públicos de competencia local habrán de gestionarse:",
+      "options": ["De la forma más sostenible y eficiente de entre las formas enumeradas en el propio artículo", "Siempre mediante gestión indirecta a través de concesión", "Exclusivamente mediante organismo autónomo local", "De la forma que decida libremente el Alcalde sin necesidad de motivación"],
+      "correct": 0,
+      "exp": "Art. 85.2: los servicios públicos de competencia local habrán de gestionarse de la forma más sostenible y eficiente de entre las enumeradas a continuación (gestión directa e indirecta).",
+      "fuente": "Art. 85.2 LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuántas formas de gestión directa enumera el art. 85.2.A) LBRL para los servicios públicos locales?",
+      "options": ["Dos", "Tres", "Cuatro", "Cinco"],
+      "correct": 2,
+      "exp": "El art. 85.2.A) enumera cuatro formas: a) gestión por la propia Entidad Local, b) organismo autónomo local, c) entidad pública empresarial local, d) sociedad mercantil local de capital público.",
+      "fuente": "Art. 85.2.A) LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "Entre las formas de gestión directa del art. 85.2.A) LBRL se encuentra, en su letra a):",
+      "options": ["Gestión por la propia Entidad Local", "Concesión administrativa", "Sociedad mercantil de capital mixto", "Contrato de gestión de servicios públicos"],
+      "correct": 0,
+      "exp": "Art. 85.2.A).a) LBRL: 'Gestión por la propia Entidad Local.'",
+      "fuente": "Art. 85.2.A).a) LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "La letra b) del art. 85.2.A) LBRL prevé como forma de gestión directa:",
+      "options": ["El organismo autónomo local", "La entidad pública empresarial local", "La sociedad mercantil local", "El consorcio"],
+      "correct": 0,
+      "exp": "Art. 85.2.A).b) LBRL: 'Organismo autónomo local.'",
+      "fuente": "Art. 85.2.A).b) LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "La letra c) del art. 85.2.A) LBRL prevé como forma de gestión directa:",
+      "options": ["La entidad pública empresarial local", "El organismo autónomo local", "La gestión por la propia entidad local", "La concesión"],
+      "correct": 0,
+      "exp": "Art. 85.2.A).c) LBRL: 'Entidad pública empresarial local.'",
+      "fuente": "Art. 85.2.A).c) LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "La letra d) del art. 85.2.A) LBRL prevé como forma de gestión directa la sociedad mercantil local cuyo capital social sea:",
+      "options": ["De titularidad pública", "Mayoritariamente público", "Mixto, público y privado", "Íntegramente privado"],
+      "correct": 0,
+      "exp": "Art. 85.2.A).d) LBRL: 'Sociedad mercantil local, cuyo capital social sea de titularidad pública.'",
+      "fuente": "Art. 85.2.A).d) LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 85.2 LBRL, solo podrá hacerse uso de las formas de entidad pública empresarial local y sociedad mercantil local cuando quede acreditado, mediante memoria justificativa, que:",
+      "options": ["Resultan más sostenibles y eficientes que la gestión propia y el organismo autónomo local", "Son más baratas que la gestión indirecta", "Lo solicite la mayoría de los vecinos", "Existe un informe favorable del Ministerio de Hacienda"],
+      "correct": 0,
+      "exp": "Art. 85.2: solo podrá hacerse uso de las letras c) y d) cuando quede acreditado, mediante memoria justificativa, que resultan más sostenibles y eficientes que las formas de las letras a) y b).",
+      "fuente": "Art. 85.2 LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "Para elaborar la memoria justificativa del art. 85.2 LBRL sobre las formas de gestión directa mediante EPE local o sociedad mercantil local, deberán tenerse en cuenta los criterios de:",
+      "options": ["Rentabilidad económica y recuperación de la inversión", "Número de empleados públicos disponibles", "Antigüedad del servicio prestado", "Población del municipio"],
+      "correct": 0,
+      "exp": "Art. 85.2: para elaborar la memoria justificativa se deberán tener en cuenta los criterios de rentabilidad económica y recuperación de la inversión.",
+      "fuente": "Art. 85.2 LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 85.2 LBRL exige recabar informe de qué órgano para valorar la sostenibilidad financiera de la propuesta de gestión directa mediante entidad pública empresarial local o sociedad mercantil?",
+      "options": ["Del interventor local", "Del Secretario del Ayuntamiento", "Del Consejo de Administración", "De la Intervención General del Estado"],
+      "correct": 0,
+      "exp": "Art. 85.2: se recabará informe del interventor local, quien valorará la sostenibilidad financiera de las propuestas planteadas, de conformidad con el art. 4 de la LO 2/2012.",
+      "fuente": "Art. 85.2 LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿A qué órgano debe elevarse la memoria justificativa prevista en el art. 85.2 LBRL para su aprobación?",
+      "options": ["Al Pleno", "A la Junta de Gobierno Local", "Al Alcalde", "A la Comisión Informativa"],
+      "correct": 0,
+      "exp": "Art. 85.2: deberá constar en el expediente la memoria justificativa del asesoramiento recibido, que se elevará al Pleno para su aprobación.",
+      "fuente": "Art. 85.2 LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "La gestión indirecta de los servicios públicos locales, según el art. 85.2.B) LBRL, se realiza mediante las formas previstas para el contrato de gestión de servicios públicos en:",
+      "options": ["El texto refundido de la Ley de Contratos del Sector Público (RDLeg 3/2011)", "El Estatuto Básico del Empleado Público", "La propia Ley de Bases del Régimen Local", "El Reglamento de Servicios de las Corporaciones Locales"],
+      "correct": 0,
+      "exp": "Art. 85.2.B): gestión indirecta mediante las distintas formas previstas para el contrato de gestión de servicios públicos en el texto refundido de la Ley de Contratos del Sector Público, aprobado por RDLeg 3/2011, de 14 de noviembre.",
+      "fuente": "Art. 85.2.B) LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 85.2 LBRL, la forma de gestión que se elija deberá tener en cuenta lo dispuesto en el art. 9 del Estatuto Básico del Empleado Público en lo relativo a:",
+      "options": ["El ejercicio de funciones que corresponden en exclusiva a funcionarios públicos", "Las retribuciones del personal directivo", "El régimen disciplinario de los empleados públicos", "La jornada de trabajo del personal laboral"],
+      "correct": 0,
+      "exp": "Art. 85.2: la forma de gestión deberá tener en cuenta el art. 9 del EBEP en lo que respecta al ejercicio de funciones que corresponden en exclusiva a funcionarios públicos.",
+      "fuente": "Art. 85.2 LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 85 bis.1 LBRL remite el régimen de los organismos autónomos locales y de las entidades públicas empresariales locales a lo dispuesto, respectivamente, en:",
+      "options": ["Los artículos 45 a 52 y 53 a 60 de la Ley 6/1997, de 14 de abril", "Los artículos 1 a 10 de la Ley 40/2015", "Los artículos 85 a 90 de la propia LBRL", "El texto refundido de la Ley de Sociedades de Capital"],
+      "correct": 0,
+      "exp": "Art. 85 bis.1: la gestión directa mediante OAL y EPE locales se regirá por lo dispuesto en los artículos 45 a 52 y 53 a 60 de la Ley 6/1997, de 14 de abril (LOFAGE), con las especialidades del propio artículo.",
+      "fuente": "Art. 85 bis.1 LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 85 bis.1.a) LBRL, la creación, modificación, refundición y supresión de los organismos autónomos locales y entidades públicas empresariales locales corresponde:",
+      "options": ["Al Pleno de la entidad local, que aprobará sus estatutos", "Al Alcalde, mediante decreto", "A la Junta de Gobierno Local", "Al Consejo de Administración del organismo"],
+      "correct": 0,
+      "exp": "Art. 85 bis.1.a): su creación, modificación, refundición y supresión corresponderá al Pleno de la entidad local, quien aprobará sus estatutos.",
+      "fuente": "Art. 85 bis.1.a) LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 85 bis.1.a) LBRL, los organismos autónomos locales y entidades públicas empresariales locales deberán quedar adscritos, con carácter general, a:",
+      "options": ["Una Concejalía, Área u órgano equivalente de la entidad local", "El Pleno directamente", "La Diputación Provincial", "El Ministerio competente por razón de la materia"],
+      "correct": 0,
+      "exp": "Art. 85 bis.1.a): deberán quedar adscritas a una Concejalía, Área u órgano equivalente de la entidad local, aunque las entidades públicas empresariales también podrán estarlo a un organismo autónomo local.",
+      "fuente": "Art. 85 bis.1.a) LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 85 bis.1.b) LBRL, el titular del máximo órgano de dirección de un organismo autónomo local o entidad pública empresarial local debe ser funcionario de carrera o laboral, o profesional del sector privado, titulados superiores en ambos casos, y en el segundo con más de:",
+      "options": ["Cinco años de ejercicio profesional", "Un año de ejercicio profesional", "Diez años de ejercicio profesional", "Dos años de ejercicio profesional"],
+      "correct": 0,
+      "exp": "Art. 85 bis.1.b): el titular del máximo órgano de dirección debe ser funcionario de carrera o laboral, o profesional del sector privado, titulados superiores en ambos casos, con más de cinco años de ejercicio profesional en el segundo.",
+      "fuente": "Art. 85 bis.1.b) LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 85 bis.1.c) LBRL, en los organismos autónomos locales deberá existir:",
+      "options": ["Un consejo rector", "Un consejo de administración", "Una junta general", "Un comité ejecutivo"],
+      "correct": 0,
+      "exp": "Art. 85 bis.1.c): en los organismos autónomos locales deberá existir un consejo rector, cuya composición se determinará en sus estatutos.",
+      "fuente": "Art. 85 bis.1.c) LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 85 bis.1.d) LBRL, en las entidades públicas empresariales locales deberá existir:",
+      "options": ["Un consejo de administración", "Un consejo rector", "Una junta general de accionistas", "Una comisión de control"],
+      "correct": 0,
+      "exp": "Art. 85 bis.1.d): en las entidades públicas empresariales locales deberá existir un consejo de administración, cuya composición se determinará en sus Estatutos.",
+      "fuente": "Art. 85 bis.1.d) LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "El secretario del Consejo de Administración de una entidad pública empresarial local, según el art. 85 bis.1.d) LBRL, debe ser funcionario público con titulación superior y ejercerá funciones de:",
+      "options": ["Fe pública y asesoramiento legal de los órganos unipersonales y colegiados", "Tesorería y recaudación", "Intervención y control financiero", "Representación procesal de la entidad"],
+      "correct": 0,
+      "exp": "Art. 85 bis.1.d): el secretario del Consejo de Administración, funcionario público con titulación superior exigida para su ingreso, ejercerá las funciones de fe pública y asesoramiento legal de los órganos unipersonales y colegiados.",
+      "fuente": "Art. 85 bis.1.d) LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 85 bis.1.e) LBRL, la determinación y modificación de las condiciones retributivas del personal directivo y del resto del personal de estos organismos deberá ajustarse a las normas que apruebe:",
+      "options": ["El Pleno o la Junta de Gobierno, según corresponda", "Exclusivamente el Alcalde", "El Consejo de Administración del propio organismo", "El Ministerio de Hacienda"],
+      "correct": 0,
+      "exp": "Art. 85 bis.1.e): la determinación y modificación de las condiciones retributivas deberán ajustarse en todo caso a las normas que apruebe el Pleno o la Junta de Gobierno, según corresponda.",
+      "fuente": "Art. 85 bis.1.e) LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 85 bis.1.f) LBRL, los organismos autónomos locales y entidades públicas empresariales locales estarán sometidos a controles específicos sobre:",
+      "options": ["La evolución de los gastos de personal y la gestión de sus recursos humanos", "Exclusivamente su cifra de negocio anual", "El número de licitaciones adjudicadas", "La composición de su accionariado"],
+      "correct": 0,
+      "exp": "Art. 85 bis.1.f): estarán sometidos a controles específicos sobre la evolución de los gastos de personal y de la gestión de sus recursos humanos por las correspondientes concejalías, áreas u órganos equivalentes.",
+      "fuente": "Art. 85 bis.1.f) LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 85 bis.1.g) LBRL, el inventario de bienes y derechos de estos organismos se remitirá:",
+      "options": ["Anualmente a la concejalía, área u órgano equivalente de la entidad local", "Trimestralmente al Tribunal de Cuentas", "Solo cuando lo solicite el Pleno", "Nunca, salvo disolución del organismo"],
+      "correct": 0,
+      "exp": "Art. 85 bis.1.g): su inventario de bienes y derechos se remitirá anualmente a la concejalía, área u órgano equivalente de la entidad local.",
+      "fuente": "Art. 85 bis.1.g) LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 85 bis.1.h) LBRL, para celebrar contratos de cuantía superior a las cantidades previamente fijadas por la concejalía, área u órgano equivalente, estos organismos necesitan:",
+      "options": ["Autorización de dicha concejalía, área u órgano equivalente", "Autorización del Tribunal de Cuentas", "Un referéndum municipal vinculante", "Ninguna autorización adicional"],
+      "correct": 0,
+      "exp": "Art. 85 bis.1.h): será necesaria la autorización de la concejalía, área u órgano equivalente de la entidad local a la que se encuentren adscritos, para celebrar contratos de cuantía superior a las cantidades previamente fijadas por aquélla.",
+      "fuente": "Art. 85 bis.1.h) LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 85 bis.1.i) LBRL, estos organismos estarán sometidos a un control de:",
+      "options": ["Eficacia, por la concejalía, área u órgano equivalente al que estén adscritos", "Constitucionalidad, por el Tribunal Constitucional", "Legalidad exclusivamente, por el Consejo de Estado", "Oportunidad política, por el Congreso de los Diputados"],
+      "correct": 0,
+      "exp": "Art. 85 bis.1.i): estarán sometidos a un control de eficacia por la concejalía, área u órgano equivalente de la entidad local a la que estén adscritos.",
+      "fuente": "Art. 85 bis.1.i) LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 85 bis.2.a) LBRL, los estatutos de los organismos autónomos locales y entidades públicas empresariales locales deben determinar, entre otros extremos:",
+      "options": ["Los máximos órganos de dirección del organismo y su forma de designación", "El nombre comercial del organismo únicamente", "La plantilla de personal laboral fijo", "El domicilio fiscal del organismo"],
+      "correct": 0,
+      "exp": "Art. 85 bis.2.a): los estatutos comprenderán la determinación de los máximos órganos de dirección del organismo, unipersonales o colegiados, así como su forma de designación.",
+      "fuente": "Art. 85 bis.2.a) LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 85 bis.2.b) LBRL, los estatutos de estos organismos también determinarán:",
+      "options": ["Las funciones y competencias del organismo, con indicación de las potestades administrativas que puede ejercitar", "Únicamente el logotipo institucional", "El calendario laboral anual", "Las tarifas del servicio para el ejercicio en curso"],
+      "correct": 0,
+      "exp": "Art. 85 bis.2.b): los estatutos comprenderán las funciones y competencias del organismo, con indicación de las potestades administrativas generales que éste puede ejercitar.",
+      "fuente": "Art. 85 bis.2.b) LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 85 bis.2.f) LBRL, el régimen presupuestario, económico-financiero, de contabilidad, de intervención y de control financiero y de eficacia de estos organismos debe ser conforme, en todo caso, con:",
+      "options": ["La legislación sobre las Haciendas Locales y el capítulo III del título X de la LBRL", "Exclusivamente la normativa mercantil general", "El Código Civil", "La normativa autonómica de función pública"],
+      "correct": 0,
+      "exp": "Art. 85 bis.2.f): el régimen presupuestario, económico-financiero, de contabilidad, de intervención, control financiero y control de eficacia serán, en todo caso, conformes con la legislación sobre las Haciendas Locales y con el capítulo III del título X de la LBRL.",
+      "fuente": "Art. 85 bis.2.f) LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 85 bis.3 LBRL, los estatutos de los organismos autónomos locales y entidades públicas empresariales locales deberán ser aprobados y publicados:",
+      "options": ["Con carácter previo a la entrada en funcionamiento efectivo del organismo", "En el plazo de un año desde su entrada en funcionamiento", "Dentro de los tres meses siguientes a su creación", "Sin plazo determinado por la ley"],
+      "correct": 0,
+      "exp": "Art. 85 bis.3: los estatutos deberán ser aprobados y publicados con carácter previo a la entrada en funcionamiento efectivo del organismo público correspondiente.",
+      "fuente": "Art. 85 bis.3 LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 85 ter.1 LBRL, las sociedades mercantiles locales se rigen íntegramente, cualquiera que sea su forma jurídica, por:",
+      "options": ["El ordenamiento jurídico privado, salvo las materias en que resulte de aplicación normativa especial", "El Derecho administrativo en su totalidad", "El Derecho penal económico", "El ordenamiento jurídico de la Unión Europea exclusivamente"],
+      "correct": 0,
+      "exp": "Art. 85 ter.1: las sociedades mercantiles locales se regirán íntegramente, cualquiera que sea su forma jurídica, por el ordenamiento jurídico privado, salvo las materias en que les sea de aplicación la normativa especial que el propio artículo cita.",
+      "fuente": "Art. 85 ter.1 LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 85 ter.1 LBRL, a las sociedades mercantiles locales les es de aplicación la normativa especial en materia de:",
+      "options": ["Presupuestaria, contable, de control financiero, de control de eficacia y contratación", "Únicamente urbanística", "Exclusivamente de protección de datos", "De régimen electoral general"],
+      "correct": 0,
+      "exp": "Art. 85 ter.1: se regirán por el Derecho privado salvo en las materias en que les sea de aplicación la normativa presupuestaria, contable, de control financiero, de control de eficacia y contratación.",
+      "fuente": "Art. 85 ter.1 LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 85 ter.2 LBRL, la sociedad mercantil local deberá adoptar una de las formas previstas en:",
+      "options": ["El texto refundido de la Ley de Sociedades de Capital (RDLeg 1/2010)", "La Ley de Contratos del Sector Público", "El Código de Comercio de 1885, sin modificaciones posteriores", "La Ley 7/1985, de Bases del Régimen Local"],
+      "correct": 0,
+      "exp": "Art. 85 ter.2: la sociedad deberá adoptar una de las formas previstas en el texto refundido de la Ley de Sociedades de Capital, aprobado por RDLeg 1/2010, de 2 de julio.",
+      "fuente": "Art. 85 ter.2 LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 85 ter.2 LBRL, en la escritura de constitución de la sociedad mercantil local deberá constar que el capital ha sido aportado por:",
+      "options": ["Las Administraciones Públicas o entidades del sector público dependientes de las mismas", "Cualquier persona física interesada, sin límite", "Entidades financieras privadas exclusivamente", "Los propios trabajadores del servicio"],
+      "correct": 0,
+      "exp": "Art. 85 ter.2: en la escritura de constitución constará el capital, que deberá ser aportado por las Administraciones Públicas o por las entidades del sector público dependientes de las mismas a las que corresponda su titularidad.",
+      "fuente": "Art. 85 ter.2 LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 85 ter.3 LBRL, los estatutos de la sociedad mercantil local determinarán la forma de designación y el funcionamiento de:",
+      "options": ["La Junta General y del Consejo de Administración", "Únicamente la Junta General", "El Consejo Rector exclusivamente", "La Comisión de Auditoría"],
+      "correct": 0,
+      "exp": "Art. 85 ter.3: los estatutos determinarán la forma de designación y el funcionamiento de la Junta General y del Consejo de Administración, así como los máximos órganos de dirección de las mismas.",
+      "fuente": "Art. 85 ter.3 LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 86.1 LBRL, las Entidades Locales podrán ejercer la iniciativa pública para el desarrollo de actividades económicas siempre que esté garantizado el cumplimiento de:",
+      "options": ["El objetivo de estabilidad presupuestaria y de sostenibilidad financiera del ejercicio de sus competencias", "El equilibrio de la balanza comercial municipal", "El pleno empleo en el municipio", "El principio de unidad de caja"],
+      "correct": 0,
+      "exp": "Art. 86.1: las Entidades Locales podrán ejercer la iniciativa pública para el desarrollo de actividades económicas, siempre que esté garantizado el cumplimiento del objetivo de estabilidad presupuestaria y de la sostenibilidad financiera del ejercicio de sus competencias.",
+      "fuente": "Art. 86.1 LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 86.1 LBRL, el expediente acreditativo de la conveniencia y oportunidad de la iniciativa pública económica debe contener un análisis de mercado relativo a:",
+      "options": ["La oferta y la demanda existente, la rentabilidad y los posibles efectos sobre la concurrencia empresarial", "Únicamente el precio final del producto o servicio", "La opinión de los sindicatos más representativos", "El número de licencias urbanísticas concedidas"],
+      "correct": 0,
+      "exp": "Art. 86.1: el expediente debe contener un análisis del mercado, relativo a la oferta y a la demanda existente, a la rentabilidad y a los posibles efectos de la actividad local sobre la concurrencia empresarial.",
+      "fuente": "Art. 86.1 LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 86.1 LBRL, corresponde la aprobación del expediente de iniciativa pública económica, que determinará la forma concreta de gestión del servicio, a:",
+      "options": ["El Pleno de la respectiva Corporación local", "El Alcalde-Presidente", "La Junta de Gobierno Local", "El interventor municipal"],
+      "correct": 0,
+      "exp": "Art. 86.1: corresponde al Pleno de la respectiva Corporación local la aprobación del expediente, que determinará la forma concreta de gestión del servicio.",
+      "fuente": "Art. 86.1 LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 86.2 LBRL, se declara la reserva en favor de las Entidades Locales de las siguientes actividades o servicios esenciales:",
+      "options": ["Abastecimiento domiciliario y depuración de aguas; recogida, tratamiento y aprovechamiento de residuos; y transporte público de viajeros", "Alumbrado público, limpieza viaria y parques y jardines", "Enseñanza, sanidad y servicios sociales", "Policía local, protección civil y extinción de incendios"],
+      "correct": 0,
+      "exp": "Art. 86.2: se declara la reserva a favor de las Entidades Locales del abastecimiento domiciliario y depuración de aguas; recogida, tratamiento y aprovechamiento de residuos; y transporte público de viajeros.",
+      "fuente": "Art. 86.2 LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 86.2 LBRL, además de la reserva a favor de las Entidades Locales, ¿quién puede establecer mediante Ley idéntica reserva para otras actividades y servicios?",
+      "options": ["El Estado y las Comunidades Autónomas, en el ámbito de sus respectivas competencias", "Únicamente el Parlamento Europeo", "Solo la Diputación Provincial correspondiente", "Ninguna otra Administración puede ampliar la reserva"],
+      "correct": 0,
+      "exp": "Art. 86.2: el Estado y las Comunidades Autónomas, en el ámbito de sus respectivas competencias, podrán establecer, mediante Ley, idéntica reserva para otras actividades y servicios.",
+      "fuente": "Art. 86.2 LBRL",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 86.2 LBRL, la efectiva ejecución en régimen de monopolio de las actividades reservadas requiere, además del acuerdo de aprobación del Pleno de la Corporación local:",
+      "options": ["La aprobación por el órgano competente de la Comunidad Autónoma", "La autorización previa del Consejo de Ministros", "Un referéndum municipal vinculante", "La ratificación de las Cortes Generales"],
+      "correct": 0,
+      "exp": "Art. 86.2: la efectiva ejecución de estas actividades en régimen de monopolio requiere, además del acuerdo de aprobación del pleno de la correspondiente Corporación local, la aprobación por el órgano competente de la Comunidad Autónoma.",
+      "fuente": "Art. 86.2 LBRL",
+      "confianza": "alta"
+    }
+  ]
+}
