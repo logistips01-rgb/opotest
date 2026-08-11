@@ -4,99 +4,19 @@
   "fecha": "2026-08-11",
   "preguntas": [
     {
-      "q": "Según el art. 137 CE, el Estado se organiza territorialmente en:",
+      "q": "Según el art. 18.2 de la LBRL, la inscripción de los extranjeros en el padrón municipal:",
       "options": [
-        "Municipios, provincias y regiones",
-        "Municipios, provincias y las Comunidades Autónomas que se constituyan",
-        "Comarcas, provincias y Comunidades Autónomas",
-        "Municipios, comarcas y Comunidades Autónomas"
-      ],
-      "correct": 1,
-      "exp": "El art. 137 CE dispone que el Estado se organiza territorialmente en municipios, en provincias y en las Comunidades Autónomas que se constituyan.",
-      "fuente": "Art. 137 CE",
-      "confianza": "alta",
-      "veredicto": "CONFIRMADA",
-      "notaRevision": "Art. 137 CE literal: 'El Estado se organiza territorialmente en municipios, en provincias y en las Comunidades Autónomas que se constituyan.' Coincide.",
-      "_motivo": "ya está en el banco"
-    },
-    {
-      "q": "Según el art. 138.2 CE, las diferencias entre los Estatutos de las distintas Comunidades Autónomas no podrán implicar, en ningún caso:",
-      "options": [
-        "Diferencias en su denominación oficial",
-        "Privilegios económicos o sociales",
-        "Distinta composición de sus asambleas legislativas",
-        "Distinta duración del mandato de su presidente"
-      ],
-      "correct": 1,
-      "exp": "El art. 138.2 CE dispone que las diferencias entre los Estatutos de las distintas Comunidades Autónomas no podrán implicar, en ningún caso, privilegios económicos o sociales.",
-      "fuente": "Art. 138.2 CE",
-      "confianza": "alta",
-      "veredicto": "CONFIRMADA",
-      "notaRevision": "Art. 138.2 CE literal: 'Las diferencias entre los Estatutos de las distintas Comunidades Autónomas no podrán implicar, en ningún caso, privilegios económicos o sociales.' Coincide.",
-      "_motivo": "ya está en el banco"
-    },
-    {
-      "q": "Según el art. 139.1 CE, todos los españoles tienen los mismos derechos y obligaciones:",
-      "options": [
-        "Solo en su Comunidad Autónoma de residencia",
-        "En cualquier parte del territorio del Estado",
-        "Solo en los municipios de más de 100.000 habitantes",
-        "Únicamente en materia electoral"
-      ],
-      "correct": 1,
-      "exp": "El art. 139.1 CE establece que todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado.",
-      "fuente": "Art. 139.1 CE",
-      "confianza": "alta",
-      "veredicto": "CONFIRMADA",
-      "notaRevision": "Art. 139.1 CE literal: 'Todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado.' Coincide.",
-      "_motivo": "ya está en el banco"
-    },
-    {
-      "q": "Según el art. 141.1 CE, la provincia es una entidad local con personalidad jurídica propia, determinada por:",
-      "options": [
-        "La agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado",
-        "La agrupación de Comunidades Autónomas limítrofes",
-        "Decisión exclusiva de las Cortes Generales sin criterio territorial",
-        "La existencia de una Diputación histórica"
+        "No constituirá prueba de su residencia legal en España ni les atribuirá ningún derecho que no les confiera la legislación vigente",
+        "Constituye por sí misma prueba plena de residencia legal en España",
+        "Equivale automáticamente a la obtención del permiso de residencia",
+        "Solo produce efectos si el extranjero acredita previamente su regularidad administrativa"
       ],
       "correct": 0,
-      "exp": "El art. 141.1 CE define la provincia como entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado.",
-      "fuente": "Art. 141.1 CE",
+      "exp": "Art. 18.2: «La inscripción de los extranjeros en el padrón municipal no constituirá prueba de su residencia legal en España ni les atribuirá ningún derecho que no les confiera la legislación vigente...»",
+      "fuente": "Art. 18.2 LBRL (Ley 7/1985)",
       "confianza": "alta",
       "veredicto": "CONFIRMADA",
-      "notaRevision": "Art. 141.1 CE literal: 'La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado.' Coincide.",
-      "_motivo": "ya está en el banco"
-    },
-    {
-      "q": "Según el art. 141.2 CE, el gobierno y la administración autónoma de las provincias estarán encomendados a:",
-      "options": [
-        "Los Gobernadores civiles",
-        "Diputaciones u otras Corporaciones de carácter representativo",
-        "Los Delegados del Gobierno",
-        "Las Comunidades Autónomas directamente"
-      ],
-      "correct": 1,
-      "exp": "El art. 141.2 CE dispone que el gobierno y la administración autónoma de las provincias estarán encomendados a Diputaciones u otras Corporaciones de carácter representativo.",
-      "fuente": "Art. 141.2 CE",
-      "confianza": "alta",
-      "veredicto": "CONFIRMADA",
-      "notaRevision": "Art. 141.2 CE literal: 'El gobierno y la administración autónoma de las provincias estarán encomendados a Diputaciones u otras Corporaciones de carácter representativo.' Coincide.",
-      "_motivo": "ya está en el banco"
-    },
-    {
-      "q": "Según el art. 141.4 CE, en los archipiélagos las islas tendrán además su administración propia en forma de:",
-      "options": [
-        "Mancomunidades",
-        "Cabildos o Consejos",
-        "Comarcas insulares",
-        "Diputaciones insulares únicamente"
-      ],
-      "correct": 1,
-      "exp": "El art. 141.4 CE establece que, en los archipiélagos, las islas tendrán además su administración propia en forma de Cabildos o Consejos.",
-      "fuente": "Art. 141.4 CE",
-      "confianza": "alta",
-      "veredicto": "CONFIRMADA",
-      "notaRevision": "Art. 141.4 CE literal: 'En los archipiélagos, las islas tendrán además su administración propia en forma de Cabildos o Consejos.' Coincide.",
+      "notaRevision": "Art. 18.2 LBRL comprobado: la inscripción de extranjeros no prueba residencia legal ni atribuye derechos no conferidos por la legislación vigente; coincide literalmente.",
       "_motivo": "ya está en el banco"
     }
   ]

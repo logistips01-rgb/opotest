@@ -17588,3 +17588,514 @@ window.addQuestions('aux-admin-zaragoza', 14, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 14 · lote 2026-08-11 · 39 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 14, [
+  {
+    "q": "Según el art. 13.1 de la LBRL, la alteración de términos municipales requiere en todo caso audiencia de los municipios interesados y dictamen del Consejo de Estado (u órgano consultivo superior de la CA) e informe de la Administración que ejerza la tutela financiera. Además, esa alteración:",
+    "options": [
+      "No podrá suponer en ningún caso modificación de los límites provinciales",
+      "Debe ser aprobada previamente por las Cortes Generales mediante ley orgánica",
+      "Solo puede acordarse si medía sentencia judicial firme",
+      "Requiere referéndum vinculante en todos los municipios afectados"
+    ],
+    "correct": 0,
+    "exp": "Art. 13.1: la alteración de términos municipales se regula por la legislación autonómica de régimen local, «sin que la alteración de términos municipales pueda suponer, en ningún caso, modificación de los límites provinciales», y requiere audiencia de los municipios interesados, dictamen del Consejo de Estado u órgano consultivo superior de la CA e informe de la Administración que ejerza la tutela financiera.",
+    "fuente": "Art. 13.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13.2 de la LBRL, la creación de nuevos municipios solo podrá realizarse sobre la base de núcleos de población territorialmente diferenciados que cuenten, como mínimo, con:",
+    "options": [
+      "4.000 habitantes",
+      "1.000 habitantes",
+      "5.000 habitantes",
+      "250.000 habitantes"
+    ],
+    "correct": 0,
+    "exp": "Art. 13.2: «La creación de nuevos municipios solo podrá realizarse sobre la base de núcleos de población territorialmente diferenciados, de al menos 4.000 habitantes y siempre que los municipios resultantes sean financieramente sostenibles...»",
+    "fuente": "Art. 13.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13.4 de la LBRL, cuando dos municipios colindantes de la misma provincia acuerdan su fusión mediante convenio, el nuevo municipio resultante no podrá segregarse hasta que hayan transcurrido:",
+    "options": [
+      "Diez años desde la adopción del convenio de fusión",
+      "Cinco años desde la adopción del convenio de fusión",
+      "Dos años desde la constitución de la nueva corporación",
+      "Veinte años desde la publicación en el BOE"
+    ],
+    "correct": 0,
+    "exp": "Art. 13.4: «El nuevo municipio resultante de la fusión no podrá segregarse hasta transcurridos diez años desde la adopción del convenio de fusión.»",
+    "fuente": "Art. 13.4 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13.6 de la LBRL, el convenio de fusión de municipios deberá ser aprobado por:",
+    "options": [
+      "Mayoría simple de cada uno de los plenos de los municipios fusionados",
+      "Mayoría absoluta de cada uno de los plenos de los municipios fusionados",
+      "Dos tercios de cada uno de los plenos de los municipios fusionados",
+      "Referéndum vecinal vinculante en cada municipio"
+    ],
+    "correct": 0,
+    "exp": "Art. 13.6: «El convenio de fusión deberá ser aprobado por mayoría simple de cada uno de los plenos de los municipios fusionados.»",
+    "fuente": "Art. 13.6 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 14.1 de la LBRL, un cambio de denominación de un Municipio solo tendrá carácter oficial cuando, tras haber sido anotado en el Registro creado por la Administración del Estado, se produzca:",
+    "options": [
+      "Su publicación en el «Boletín Oficial del Estado»",
+      "Su publicación en el Boletín Oficial de la Provincia",
+      "Su comunicación al Instituto Nacional de Estadística",
+      "Su ratificación por la Comunidad Autónoma respectiva"
+    ],
+    "correct": 0,
+    "exp": "Art. 14.1: los cambios de denominación de los Municipios «solo tendrán carácter oficial cuando, tras haber sido anotados en un Registro creado por la Administración del Estado... se publiquen en el «Boletín Oficial del Estado».»",
+    "fuente": "Art. 14.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 14.2 de la LBRL, la denominación de los Municipios podrá ser, a todos los efectos:",
+    "options": [
+      "En castellano, en cualquier otra lengua española oficial en la respectiva Comunidad Autónoma, o en ambas",
+      "Únicamente en castellano, sin excepción alguna",
+      "Solo en la lengua oficial de la Comunidad Autónoma, nunca en castellano",
+      "En cualquier idioma, incluidos los no oficiales en España"
+    ],
+    "correct": 0,
+    "exp": "Art. 14.2: «La denominación de los Municipios podrá ser, a todos los efectos, en castellano, en cualquier otra lengua española oficial en la respectiva Comunidad Autónoma, o en ambas.»",
+    "fuente": "Art. 14.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 15 de la LBRL, la persona que viva habitualmente en varios municipios deberá inscribirse en el Padrón:",
+    "options": [
+      "Únicamente en el municipio en que habite durante más tiempo al año",
+      "En todos los municipios en que resida durante el año",
+      "En el municipio de su lugar de nacimiento",
+      "En el municipio que ella misma elija libremente, sin más criterio"
+    ],
+    "correct": 0,
+    "exp": "Art. 15: «Quien viva en varios municipios deberá inscribirse únicamente en el que habite durante más tiempo al año.»",
+    "fuente": "Art. 15 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 15 de la LBRL, ¿en qué momento se adquiere la condición de vecino de un municipio?",
+    "options": [
+      "En el mismo momento de la inscripción en el Padrón municipal",
+      "Transcurrido un año desde la inscripción en el Padrón",
+      "Al obtener la nacionalidad española",
+      "Cuando lo declare expresamente el Pleno del Ayuntamiento"
+    ],
+    "correct": 0,
+    "exp": "Art. 15: «Los inscritos en el Padrón municipal son los vecinos del municipio. La condición de vecino se adquiere en el mismo momento de su inscripción en el Padrón.»",
+    "fuente": "Art. 15 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.1 de la LBRL, la inscripción padronal debe ser objeto de renovación periódica cada dos años cuando se trate de la inscripción de:",
+    "options": [
+      "Extranjeros sin autorización de residencia de larga duración, no pertenecientes a un Estado miembro de la UE ni del EEE",
+      "Cualquier vecino, español o extranjero, sin excepción",
+      "Menores de edad no acompañados",
+      "Personas jurídicas domiciliadas en el municipio"
+    ],
+    "correct": 0,
+    "exp": "Art. 16.1: la inscripción «deberá ser objeto de renovación periódica cada dos años cuando se trate de la inscripción de extranjeros sin autorización de residencia de larga duración, no pertenecientes a un Estado miembro de la Unión Europea, a Estados parte en el Acuerdo sobre el Espacio Económico Europeo...»",
+    "fuente": "Art. 16.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.2 de la LBRL, entre los datos obligatorios de la inscripción en el Padrón municipal figura:",
+    "options": [
+      "El certificado o título escolar o académico que se posea",
+      "El número de cuenta bancaria del interesado",
+      "La afiliación sindical o política del interesado",
+      "El historial médico del interesado"
+    ],
+    "correct": 0,
+    "exp": "Art. 16.2 g): entre los datos obligatorios del Padrón figura el «Certificado o título escolar o académico que se posea.»",
+    "fuente": "Art. 16.2 g) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.3 de la LBRL, los datos obligatorios del Padrón municipal pueden cederse a otras Administraciones públicas que lo soliciten, sin consentimiento previo del afectado, cuando:",
+    "options": [
+      "Les sean necesarios para el ejercicio de sus respectivas competencias y la residencia o el domicilio sean datos relevantes",
+      "Lo solicite cualquier particular con interés legítimo",
+      "Lo autorice previamente el Defensor del Pueblo",
+      "Se trate de datos de aportación voluntaria del vecino"
+    ],
+    "correct": 0,
+    "exp": "Art. 16.3: los datos obligatorios se cederán a otras Administraciones que lo soliciten sin consentimiento previo «solamente cuando les sean necesarios para el ejercicio de sus respectivas competencias, y exclusivamente para asuntos en los que la residencia o el domicilio sean datos relevantes.» Los datos de aportación voluntaria no son cedibles en ningún caso.",
+    "fuente": "Art. 16.3 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 17.1 de la LBRL, ¿qué entidades asumen la gestión informatizada de los padrones de los municipios que, por su insuficiente capacidad económica y de gestión, no puedan mantener sus datos de forma automatizada?",
+    "options": [
+      "Las Diputaciones Provinciales o entidades equivalentes, Cabildos y Consejos insulares",
+      "El Instituto Nacional de Estadística directamente",
+      "El Ministerio del Interior",
+      "La Comunidad Autónoma respectiva en todo caso"
+    ],
+    "correct": 0,
+    "exp": "Art. 17.1: «Las Diputaciones Provinciales o entidades equivalentes, Cabildos y Consejos insulares asumirán la gestión informatizada de los Padrones de los municipios que, por su insuficiente capacidad económica y de gestión, no puedan mantener los datos de forma automatizada.»",
+    "fuente": "Art. 17.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 17.2 de la LBRL, si un Ayuntamiento no mantiene actualizado su Padrón y rechaza el requerimiento previo del Instituto Nacional de Estadística, este último, sin perjuicio de los recursos jurisdiccionales que procedan, podrá:",
+    "options": [
+      "Acudir a la ejecución sustitutoria prevista en el artículo 60 de la LBRL",
+      "Disolver directamente la corporación municipal",
+      "Suspender el pago de todas las subvenciones estatales al municipio",
+      "Nombrar un gestor padronal designado por el Gobierno"
+    ],
+    "correct": 0,
+    "exp": "Art. 17.2: si el ayuntamiento rechaza el requerimiento del INE, este «podrá acudir a la ejecución sustitutoria prevista en el artículo 60 de la presente ley.»",
+    "fuente": "Art. 17.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 17.4 de la LBRL, el Consejo de Empadronamiento está adscrito al Ministerio de Economía y Hacienda y es presidido por:",
+    "options": [
+      "El Presidente del Instituto Nacional de Estadística",
+      "El Ministro de Economía y Hacienda",
+      "El Alcalde del municipio de mayor población",
+      "El Presidente de la Federación Española de Municipios y Provincias"
+    ],
+    "correct": 0,
+    "exp": "Art. 17.4: «Adscrito al Ministerio de Economía y Hacienda se crea el Consejo de Empadronamiento... El Consejo será presidido por el Presidente del Instituto Nacional de Estadística y estará formado por representantes de la Administración General del Estado y de los Entes Locales.»",
+    "fuente": "Art. 17.4 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 18.1 de la LBRL, el derecho de los vecinos a ejercer la iniciativa popular se remite a los términos previstos en:",
+    "options": [
+      "El artículo 70 bis de la propia LBRL",
+      "El artículo 22.3 de la LBRL",
+      "El artículo 105 de la Constitución",
+      "El artículo 45 de la LBRL"
+    ],
+    "correct": 0,
+    "exp": "Art. 18.1 h): son derechos de los vecinos «Ejercer la iniciativa popular en los términos previstos en el artículo 70 bis.»",
+    "fuente": "Art. 18.1 h) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 18.1 de la LBRL, el derecho de los vecinos a ser informados, previa petición razonada, y a dirigir solicitudes a la Administración municipal sobre expedientes y documentación municipal se reconoce de acuerdo con lo previsto en:",
+    "options": [
+      "El artículo 105 de la Constitución",
+      "El artículo 20 de la Constitución",
+      "El artículo 23.1 de la LBRL",
+      "El artículo 13 de la Ley 39/2015"
+    ],
+    "correct": 0,
+    "exp": "Art. 18.1 e): los vecinos tienen derecho a «Ser informado, previa petición razonada, y dirigir solicitudes a la Administración municipal en relación a todos los expedientes y documentación municipal, de acuerdo con lo previsto en el artículo 105 de la Constitución.»",
+    "fuente": "Art. 18.1 e) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 19.1 de la LBRL, el Gobierno y la administración municipal corresponden al ayuntamiento, integrado por el Alcalde y los Concejales, salvo en aquellos municipios que legalmente funcionen en régimen de:",
+    "options": [
+      "Concejo Abierto",
+      "Junta de Gobierno Local reforzada",
+      "Comisión gestora provisional",
+      "Administración desconcentrada especial"
+    ],
+    "correct": 0,
+    "exp": "Art. 19.1: «El Gobierno y la administración municipal, salvo en aquellos municipios que legalmente funcionen en régimen de Concejo Abierto, corresponde al ayuntamiento, integrado por el Alcalde y los Concejales.»",
+    "fuente": "Art. 19.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 19.2 de la LBRL, en los términos que establezca la legislación electoral general, el Alcalde es elegido:",
+    "options": [
+      "Por los Concejales o por los vecinos",
+      "Únicamente por los vecinos mediante sufragio directo en todo caso",
+      "Únicamente por el Pleno saliente de la corporación anterior",
+      "Por sorteo entre los cabezas de lista más votados"
+    ],
+    "correct": 0,
+    "exp": "Art. 19.2: «Los Concejales son elegidos mediante sufragio universal, igual, libre, directo y secreto, y el Alcalde es elegido por los Concejales o por los vecinos; todo ello en los términos que establezca la legislación electoral general.»",
+    "fuente": "Art. 19.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 19.3 de la LBRL, en lo no previsto por el Título X (municipios de gran población), a estos municipios les será de aplicación:",
+    "options": [
+      "El régimen común regulado en los artículos siguientes del Título II",
+      "Exclusivamente el régimen de Concejo Abierto",
+      "El régimen específico de las Diputaciones Provinciales",
+      "Ningún régimen supletorio, por tratarse de una laguna deliberada"
+    ],
+    "correct": 0,
+    "exp": "Art. 19.3: «El régimen de organización de los municipios señalados en el título X de esta ley se ajustará a lo dispuesto en el mismo. En lo no previsto por dicho título, será de aplicación el régimen común regulado en los artículos siguientes.»",
+    "fuente": "Art. 19.3 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 20.1 c) de la LBRL, en los órganos municipales de estudio, informe o consulta de los asuntos que han de sometarse al Pleno, todos los grupos políticos de la corporación tienen derecho a participar mediante concejales:",
+    "options": [
+      "En proporción al número de Concejales que tengan en el Pleno",
+      "En número igual para todos los grupos, cualquiera que sea su representación",
+      "Solo si forman parte del equipo de gobierno",
+      "Únicamente mediante un representante por cada grupo, sin excepción"
+    ],
+    "correct": 0,
+    "exp": "Art. 20.1 c): «Todos los grupos políticos integrantes de la corporación tendrán derecho a participar en dichos órganos, mediante la presencia de concejales pertenecientes a los mismos en proporción al número de Concejales que tengan en el Pleno.»",
+    "fuente": "Art. 20.1 c) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 20.1 d) de la LBRL, fuera de los municipios del Título X, la Comisión Especial de Sugerencias y Reclamaciones existe cuando el Pleno así lo acuerda mediante:",
+    "options": [
+      "El voto favorable de la mayoría absoluta del número legal de sus miembros",
+      "El voto favorable de la mayoría simple de los presentes",
+      "Unanimidad de todos los concejales",
+      "Dos tercios del número legal de miembros"
+    ],
+    "correct": 0,
+    "exp": "Art. 20.1 d): «La Comisión Especial de Sugerencias y Reclamaciones existe en los municipios señalados en el título X, y en aquellos otros en que el Pleno así lo acuerde, por el voto favorable de la mayoría absoluta del número legal de sus miembros, o así lo disponga su Reglamento orgánico.»",
+    "fuente": "Art. 20.1 d) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 20.1 e) de la LBRL, la Comisión Especial de Cuentas:",
+    "options": [
+      "Existe en todos los municipios, de acuerdo con la estructura prevista en el artículo 116",
+      "Solo existe en los municipios de gran población del Título X",
+      "Es un órgano potestativo que cada Pleno puede o no crear libremente",
+      "Solo existe en municipios con población superior a 20.000 habitantes"
+    ],
+    "correct": 0,
+    "exp": "Art. 20.1 e): «La Comisión Especial de Cuentas existe en todos los municipios, de acuerdo con la estructura prevista en el artículo 116.»",
+    "fuente": "Art. 20.1 e) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 21.1 f) de la LBRL, el Alcalde puede concertar operaciones de crédito previstas en el Presupuesto siempre que su importe acumulado en cada ejercicio no supere:",
+    "options": [
+      "El 10 por ciento de los recursos ordinarios (15 por ciento para las de tesorería)",
+      "El 25 por ciento de los recursos ordinarios en todo caso",
+      "El 50 por ciento del presupuesto total del ejercicio",
+      "El 5 por ciento de los recursos ordinarios (10 por ciento para las de tesorería)"
+    ],
+    "correct": 0,
+    "exp": "Art. 21.1 f): el Alcalde puede concertar operaciones de crédito «siempre que aquéllas estén previstas en el Presupuesto y su importe acumulado dentro de cada ejercicio económico no supere el 10 por ciento de sus recursos ordinarios, salvo las de tesorería que le corresponderán cuando el importe acumulado de las operaciones vivas en cada momento no supere el 15 por ciento de los ingresos corrientes liquidados en el ejercicio anterior.»",
+    "fuente": "Art. 21.1 f) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 21.1 g) de la LBRL, corresponde al Alcalde, de acuerdo con el Presupuesto y la plantilla aprobados por el Pleno:",
+    "options": [
+      "Aprobar la oferta de empleo público y las bases de las pruebas de selección de personal",
+      "Aprobar directamente la creación de nuevas plazas de personal funcionario",
+      "Fijar la plantilla de personal del Ayuntamiento",
+      "Aprobar la relación de puestos de trabajo del Ayuntamiento"
+    ],
+    "correct": 0,
+    "exp": "Art. 21.1 g): corresponde al Alcalde «Aprobar la oferta de empleo público de acuerdo con el Presupuesto y la plantilla aprobados por el Pleno, aprobar las bases de las pruebas para la selección del personal y para los concursos de provisión de puestos de trabajo y distribuir las retribuciones complementarias que no sean fijas y periódicas.» La aprobación de la plantilla y de la RPT corresponde al Pleno (art. 22.2 i).",
+    "fuente": "Art. 21.1 g) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 21.1 k) de la LBRL, el Alcalde ejerce las acciones judiciales y administrativas del ayuntamiento y, en caso de urgencia, incluso en materias de la competencia del Pleno, debiendo en ese supuesto:",
+    "options": [
+      "Dar cuenta al Pleno en la primera sesión que celebre, para su ratificación",
+      "Solicitar autorización previa del Pleno antes de actuar",
+      "Comunicarlo únicamente al Secretario municipal",
+      "Recabar dictamen previo del Consejo de Estado"
+    ],
+    "correct": 0,
+    "exp": "Art. 21.1 k): el Alcalde ejerce «el ejercicio de las acciones judiciales y administrativas y la defensa del ayuntamiento... y, en caso de urgencia, en materias de la competencia del Pleno, en este supuesto dando cuenta al mismo en la primera sesión que celebre para su ratificación.»",
+    "fuente": "Art. 21.1 k) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 21.3 de la LBRL, la aprobación de los instrumentos de planeamiento de desarrollo no atribuidos al Pleno (párrafo j del apartado 1) no es delegable con carácter general por el Alcalde, pero el propio precepto permite que se delegue específicamente en:",
+    "options": [
+      "La Junta de Gobierno Local",
+      "Cualquier Teniente de Alcalde individualmente",
+      "El Secretario de la Corporación",
+      "La Comisión Especial de Cuentas"
+    ],
+    "correct": 0,
+    "exp": "Art. 21.3: tras excluir de la delegación, entre otras, la letra j) del apartado 1, añade: «No obstante, podrá delegar en la Junta de Gobierno Local el ejercicio de las atribuciones contempladas en el párrafo j).»",
+    "fuente": "Art. 21.3 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 22.2 b) de la LBRL, corresponde en todo caso al Pleno adoptar, entre otros, los acuerdos relativos a:",
+    "options": [
+      "La alteración de la capitalidad del municipio y el cambio de nombre de éste, así como la adopción o modificación de su bandera, enseña o escudo",
+      "El otorgamiento de licencias de obras menores",
+      "La contratación de personal laboral temporal",
+      "La aprobación de bandos de la Alcaldía"
+    ],
+    "correct": 0,
+    "exp": "Art. 22.2 b): corresponde al Pleno «Los acuerdos relativos a la participación en organizaciones supramunicipales; alteración del término municipal...; alteración de la capitalidad del municipio y el cambio de nombre de éste... y la adopción o modificación de su bandera, enseña o escudo.»",
+    "fuente": "Art. 22.2 b) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 22.2 m) de la LBRL, la concertación de operaciones de crédito corresponde al Pleno (y no al Alcalde) cuando su cuantía acumulada, dentro de cada ejercicio económico, exceda de:",
+    "options": [
+      "El 10 por ciento de los recursos ordinarios del Presupuesto",
+      "El 30 por ciento de los recursos ordinarios del Presupuesto",
+      "El 5 por ciento de los recursos ordinarios del Presupuesto",
+      "El 50 por ciento de los recursos ordinarios del Presupuesto"
+    ],
+    "correct": 0,
+    "exp": "Art. 22.2 m): corresponde al Pleno «La concertación de las operaciones de crédito cuya cuantía acumulada, dentro de cada ejercicio económico, exceda del 10 por ciento de los recursos ordinarios del Presupuesto -salvo las de tesorería, que le corresponderán cuando el importe acumulado de las operaciones vivas en cada momento supere el 15 por ciento de los ingresos corrientes liquidados en el ejercicio anterior-.»",
+    "fuente": "Art. 22.2 m) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 22.3 de la LBRL, la votación sobre la moción de censura al Alcalde y sobre la cuestión de confianza planteada por el mismo:",
+    "options": [
+      "Serán públicas y se realizarán mediante llamamiento nominal en todo caso",
+      "Serán secretas mediante papeleta cerrada",
+      "Se realizarán por asentimiento, salvo oposición expresa de algún concejal",
+      "Se delegan en la Junta de Gobierno Local cuando el Pleno no alcance el cuórum"
+    ],
+    "correct": 0,
+    "exp": "Art. 22.3: «Corresponde, igualmente, al Pleno la votación sobre la moción de censura al Alcalde y sobre la cuestión de confianza planteada por el mismo, que serán públicas y se realizarán mediante llamamiento nominal en todo caso, y se rigen por lo dispuesto en la legislación electoral general.»",
+    "fuente": "Art. 22.3 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 22.4 de la LBRL, el Pleno puede delegar el ejercicio de sus atribuciones en el Alcalde y en la Junta de Gobierno Local, salvo, entre otras, las relativas a:",
+    "options": [
+      "El control y fiscalización de los órganos de gobierno, y la votación de la moción de censura y la cuestión de confianza",
+      "La aprobación de las cuentas del ejercicio ya cerrado, siempre delegable",
+      "El otorgamiento de licencias urbanísticas",
+      "La aprobación de bandos del Alcalde"
+    ],
+    "correct": 0,
+    "exp": "Art. 22.4: el Pleno puede delegar sus atribuciones «salvo las enunciadas en el apartado 2, párrafos a), b), c), d), e), f), g), h), i), l) y p), y en el apartado 3 de este artículo.» El párrafo a) es precisamente «el control y la fiscalización de los órganos de gobierno», y el apartado 3 recoge la moción de censura y la cuestión de confianza.",
+    "fuente": "Art. 22.4 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 23.3 de la LBRL, los Tenientes de Alcalde sustituyen al Alcalde, en los casos de vacante, ausencia o enfermedad, siguiendo:",
+    "options": [
+      "El orden de su nombramiento",
+      "El orden alfabético de sus apellidos",
+      "El orden de mayor edad entre ellos",
+      "El orden decidido cada vez por el propio Pleno mediante votación"
+    ],
+    "correct": 0,
+    "exp": "Art. 23.3: «Los Tenientes de Alcalde sustituyen, por el orden de su nombramiento y en los casos de vacante, ausencia o enfermedad, al Alcalde, siendo libremente designados y removidos por éste de entre los miembros de la Junta de Gobierno Local y, donde ésta no exista, de entre los Concejales.»",
+    "fuente": "Art. 23.3 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 23.4 de la LBRL, cuando en un municipio no exista Junta de Gobierno Local, el Alcalde puede delegar el ejercicio de determinadas atribuciones en:",
+    "options": [
+      "Los Tenientes de Alcalde",
+      "El Secretario de la Corporación en todo caso",
+      "Los presidentes de las Comisiones informativas",
+      "El Concejal de mayor antigüedad"
+    ],
+    "correct": 0,
+    "exp": "Art. 23.4: «El Alcalde puede delegar el ejercicio de determinadas atribuciones en los miembros de la Junta de Gobierno Local y, donde ésta no exista, en los Tenientes de Alcalde, sin perjuicio de las delegaciones especiales que, para cometidos específicos, pueda realizar en favor de cualesquiera Concejales, aunque no pertenecieran a aquélla.»",
+    "fuente": "Art. 23.4 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 24.1 de la LBRL, los órganos territoriales de gestión desconcentrada que los municipios pueden establecer para facilitar la participación ciudadana se crean:",
+    "options": [
+      "Sin perjuicio de la unidad de gobierno y gestión del municipio",
+      "Suprimiendo automáticamente las competencias del Alcalde en esa zona",
+      "Solo si lo autoriza expresamente la Comunidad Autónoma mediante decreto",
+      "Con personalidad jurídica propia e independiente del municipio"
+    ],
+    "correct": 0,
+    "exp": "Art. 24.1: los municipios podrán establecer «órganos territoriales de gestión desconcentrada, con la organización, funciones y competencias que cada ayuntamiento les confiera, atendiendo a las características del asentamiento de la población en el término municipal, sin perjuicio de la unidad de gobierno y gestión del municipio.»",
+    "fuente": "Art. 24.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 24 bis.1 de la LBRL, los entes de ámbito territorial inferior al Municipio (caseríos, parroquias, aldeas, barrios, anteiglesias, concejos, pedanías, etc.), regulados por las leyes autonómicas de régimen local:",
+    "options": [
+      "Carecerán de personalidad jurídica",
+      "Tendrán siempre personalidad jurídica propia e independiente del municipio",
+      "Se equipararán en todo a las provincias",
+      "Sustituirán íntegramente al Ayuntamiento en su ámbito territorial"
+    ],
+    "correct": 0,
+    "exp": "Art. 24 bis.1: «Las leyes de las Comunidades Autónomas sobre régimen local regularán los entes de ámbito territorial inferior al Municipio, que carecerán de personalidad jurídica, como forma de organización desconcentrada del mismo para la administración de núcleos de población separados...»",
+    "fuente": "Art. 24 bis.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 24 bis.3 de la LBRL, los entes de ámbito territorial inferior al Municipio solo podrán crearse si constituyen una opción más eficiente para la administración desconcentrada, de acuerdo con los principios previstos en:",
+    "options": [
+      "La Ley Orgánica 2/2012, de Estabilidad Presupuestaria y Sostenibilidad Financiera",
+      "La Ley 39/2015, del Procedimiento Administrativo Común",
+      "El Estatuto de Autonomía correspondiente",
+      "La Ley de Bases del Régimen Local en su Título X"
+    ],
+    "correct": 0,
+    "exp": "Art. 24 bis.3: «Solo podrán crearse este tipo de entes si resulta una opción más eficiente para la administración desconcentrada de núcleos de población separados de acuerdo con los principios previstos en la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.»",
+    "fuente": "Art. 24 bis.3 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 25.2 p) de la LBRL (letra añadida por el Real Decreto-ley 7/2026, de 20 de marzo), constituye competencia propia municipal la promoción y participación en:",
+    "options": [
+      "Comunidades ciudadanas de energía y comunidades de energías renovables",
+      "Sociedades mercantiles de capital íntegramente estatal",
+      "Consorcios de gestión aeroportuaria",
+      "Entidades bancarias de titularidad pública"
+    ],
+    "correct": 0,
+    "exp": "Art. 25.2 p): «Promoción y participación en comunidades ciudadanas de energía y comunidades de energías renovables que permitan contribuir a la obtención de beneficios medioambientales, económicos o sociales... así como el impulso de actuaciones de transición energética...» Letra añadida por la disposición final 2 del RDL 7/2026, de 20 de marzo.",
+    "fuente": "Art. 25.2 p) LBRL (Ley 7/1985, redacción RDL 7/2026)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 25.4 de la LBRL, la ley que determine las competencias municipales propias en las materias del art. 25 deberá ir acompañada de:",
+    "options": [
+      "Una memoria económica que refleje el impacto sobre los recursos financieros de las Administraciones afectadas y el cumplimiento de los principios de estabilidad, sostenibilidad financiera y eficiencia",
+      "Un informe vinculante del Tribunal Constitucional",
+      "La autorización previa de todos los municipios afectados",
+      "Un referéndum autonómico previo"
+    ],
+    "correct": 0,
+    "exp": "Art. 25.4: «La Ley a que se refiere el apartado anterior deberá ir acompañada de una memoria económica que refleje el impacto sobre los recursos financieros de las Administraciones Públicas afectadas y el cumplimiento de los principios de estabilidad, sostenibilidad financiera y eficiencia del servicio o la actividad.»",
+    "fuente": "Art. 25.4 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 25.6 de la LBRL, con carácter previo a la atribución de competencias a los municipios, de acuerdo con el principio de diferenciación, debe realizarse:",
+    "options": [
+      "Una ponderación específica de la capacidad de gestión de la entidad local, constando en la motivación del instrumento jurídico atributivo",
+      "Una consulta popular vinculante en cada municipio afectado",
+      "Un informe preceptivo y vinculante del Consejo de Estado",
+      "Una auditoría económica externa con validez de cinco años"
+    ],
+    "correct": 0,
+    "exp": "Art. 25.6: «Con carácter previo a la atribución de competencias a los municipios, de acuerdo con el principio de diferenciación, deberá realizarse una ponderación específica de la capacidad de gestión de la entidad local, dejando constancia de tal ponderación en la motivación del instrumento jurídico que realice la atribución competencial...»",
+    "fuente": "Art. 25.6 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 26.2 de la LBRL, cuando un municipio de menos de 20.000 habitantes justifica ante la Diputación que puede prestar los servicios coordinados con un coste efectivo menor que el derivado de la forma de gestión propuesta por ésta:",
+    "options": [
+      "El municipio podrá asumir la prestación y coordinación de esos servicios si la Diputación lo considera acreditado",
+      "El municipio queda automáticamente exento de prestar dichos servicios",
+      "La Diputación debe ceder la titularidad del servicio al Estado",
+      "El municipio pierde la posibilidad de prestar el servicio, que pasa obligatoriamente a la Diputación"
+    ],
+    "correct": 0,
+    "exp": "Art. 26.2, último párrafo: «Cuando el municipio justifique ante la Diputación que puede prestar estos servicios con un coste efectivo menor que el derivado de la forma de gestión propuesta por la Diputación provincial o entidad equivalente, el municipio podrá asumir la prestación y coordinación de estos servicios si la Diputación lo considera acreditado.»",
+    "fuente": "Art. 26.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  }
+]);
