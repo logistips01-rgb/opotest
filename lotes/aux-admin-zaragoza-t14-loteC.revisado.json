@@ -1,0 +1,606 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 14,
+  "preguntas": [
+    {
+      "q": "Según el art. 2 de la Ley 10/2017, el municipio de Zaragoza goza, de acuerdo con la autonomía garantizada constitucionalmente:",
+      "options": [
+        "De personalidad jurídica propia, plena capacidad de obrar y potestades suficientes para ordenar y gestionar los asuntos de interés público que afecten a sus ciudadanos",
+        "Únicamente de capacidad de obrar limitada a los asuntos tributarios",
+        "De personalidad jurídica derivada y subordinada a la de la Diputación Provincial de Zaragoza",
+        "De potestades exclusivamente consultivas, sin capacidad de obrar propia"
+      ],
+      "correct": 0,
+      "exp": "El art. 2 reconoce al municipio de Zaragoza personalidad jurídica propia, plena capacidad de obrar y potestades suficientes para ordenar y gestionar los asuntos de interés público de sus ciudadanos.",
+      "fuente": "Art. 2 Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 2 verificado en consolidado BOE-A-2018-1683: 'goza de personalidad jurídica propia, plena capacidad de obrar y potestades suficientes para ordenar y gestionar los asuntos de interés público que afecten a sus ciudadanos'; coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 4 de la Ley 10/2017, además de la plena capacidad para actuar ante la jurisdicción ordinaria, el municipio de Zaragoza tiene legitimación para:",
+      "options": [
+        "Plantear conflictos en defensa de la autonomía local y promover su impugnación ante el Tribunal Constitucional",
+        "Disolver por acuerdo del Pleno las Cortes de Aragón",
+        "Vetar cualquier Ley aprobada por las Cortes de Aragón sin necesidad de recurso",
+        "Sustituir al Tribunal Constitucional en los conflictos de competencia con el Estado"
+      ],
+      "correct": 0,
+      "exp": "El art. 4 reconoce al municipio de Zaragoza legitimación para plantear conflictos en defensa de la autonomía local contra disposiciones con rango de Ley que la lesionen y para promover su impugnación ante el TC.",
+      "fuente": "Art. 4 Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 4 verificado: reconoce legitimación para plantear conflictos en defensa de la autonomía local contra disposiciones con rango de Ley que la lesionen y para promover su impugnación ante el TC; coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 5 de la Ley 10/2017, el Ayuntamiento de Zaragoza y el Gobierno de Aragón promoverán actividades de interés común, en especial:",
+      "options": [
+        "Con las ciudades próximas, con las demás Administraciones Públicas y con instituciones internacionales en el ámbito de sus competencias",
+        "Exclusivamente con la Unión Europea",
+        "Únicamente con los municipios de menos de 5.000 habitantes de la provincia",
+        "Solo con el Estado central, excluyendo a otras Comunidades Autónomas"
+      ],
+      "correct": 0,
+      "exp": "El art. 5 prevé que ambas Administraciones promuevan actividades de interés común con otras ciudades, en especial las próximas, con las demás Administraciones Públicas y con instituciones internacionales.",
+      "fuente": "Art. 5 Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 5 verificado: el Ayuntamiento y el Gobierno de Aragón promoverán actividades de interés común con otras ciudades, en especial las próximas, con las demás Administraciones Públicas y con instituciones internacionales; coincide."
+    },
+    {
+      "q": "Según el art. 8.1 de la Ley 10/2017, ¿cuáles son los órganos a los que corresponde el gobierno y la administración del Ayuntamiento de Zaragoza?",
+      "options": [
+        "El Pleno; los órganos ejecutivos de dirección política y administrativa; y los órganos directivos y demás órganos creados conforme a la legislación básica y al Reglamento orgánico",
+        "Únicamente el Alcalde y el Secretario General",
+        "El Pleno y la Diputación Provincial de Zaragoza, de forma conjunta",
+        "Solo el Gobierno de Zaragoza, sin intervención del Pleno"
+      ],
+      "correct": 0,
+      "exp": "El art. 8.1 distingue tres bloques de órganos: el Pleno, los órganos ejecutivos de dirección política y administrativa, y los órganos directivos y demás previstos por la legislación básica y el Reglamento orgánico.",
+      "fuente": "Art. 8.1 Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 8.1 verificado: enumera los tres bloques de órganos (Pleno; órganos ejecutivos de dirección política y administrativa; órganos directivos y demás creados conforme a la legislación básica y el Reglamento orgánico); coincide."
+    },
+    {
+      "q": "Según el art. 8.2 de la Ley 10/2017, la Administración del municipio de Zaragoza actuará, entre otros, de acuerdo con los principios de:",
+      "options": [
+        "Eficacia, eficiencia, descentralización, desconcentración, coordinación y servicio a los ciudadanos",
+        "Jerarquía militar y disciplina exclusivamente",
+        "Autarquía financiera total respecto de la Comunidad Autónoma",
+        "Confidencialidad absoluta de toda su actuación administrativa"
+      ],
+      "correct": 0,
+      "exp": "El art. 8.2 enumera los principios de eficacia, eficiencia, descentralización, desconcentración, coordinación y servicio a los ciudadanos, con sometimiento pleno a la Ley y al Derecho.",
+      "fuente": "Art. 8.2 Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 8.2 verificado: cita literalmente los principios de eficacia, eficiencia, descentralización, desconcentración, coordinación y servicio a los ciudadanos; coincide."
+    },
+    {
+      "q": "Según el art. 9.1 de la Ley 10/2017, las competencias del Pleno, del Gobierno de Zaragoza, del Alcalde y de los restantes órganos ejecutivos serán las establecidas en:",
+      "options": [
+        "La regulación básica de régimen local y demás disposiciones normativas vigentes de aplicación",
+        "Exclusivamente en los Estatutos de la Diputación Provincial de Zaragoza",
+        "Un decreto anual del Gobierno de Aragón que las fija discrecionalmente",
+        "Las ordenanzas fiscales municipales, con carácter exclusivo"
+      ],
+      "correct": 0,
+      "exp": "El art. 9.1 remite la determinación de estas competencias a la regulación básica de régimen local y demás disposiciones normativas vigentes de aplicación.",
+      "fuente": "Art. 9.1 Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 9.1 verificado: remite la determinación de estas competencias a la regulación básica de régimen local y demás disposiciones normativas vigentes de aplicación; coincide."
+    },
+    {
+      "q": "Según el art. 11.1.b) de la Ley 10/2017, corresponde al Pleno la votación de la moción de censura al Alcalde y de la cuestión de confianza planteada por este, que:",
+      "options": [
+        "Será pública, se realizará mediante llamamiento nominal en todo caso y se regirá por la legislación electoral general",
+        "Será siempre secreta y por escrito",
+        "Se decidirá exclusivamente por el Gobierno de Zaragoza sin intervención del Pleno",
+        "No requiere llamamiento nominal, bastando el asentimiento general"
+      ],
+      "correct": 0,
+      "exp": "El art. 11.1.b) establece que esta votación será pública, mediante llamamiento nominal en todo caso, rigiéndose en todos sus aspectos por la legislación electoral general.",
+      "fuente": "Art. 11.1.b Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 11.1.b) verificado: la votación será pública, mediante llamamiento nominal en todo caso, y se regirá en todos sus aspectos por la legislación electoral general; coincide."
+    },
+    {
+      "q": "Según el art. 11.1.c) de la Ley 10/2017, ¿cuál de las siguientes materias reviste en todo caso naturaleza orgánica en el Reglamento del Pleno?",
+      "options": [
+        "La regulación del Consejo Social de la ciudad",
+        "La fijación de las tarifas del transporte urbano de viajeros",
+        "La aprobación de los precios públicos por prestación de servicios deportivos",
+        "El nombramiento de los titulares de los órganos directivos municipales"
+      ],
+      "correct": 0,
+      "exp": "El art. 11.1.c) enumera entre las cuestiones de naturaleza orgánica, junto a la regulación del Pleno, la regulación del Consejo Social de la ciudad, de la Comisión Especial de Sugerencias y Reclamaciones y de los distritos, entre otras.",
+      "fuente": "Art. 11.1.c Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 11.1.c) verificado: entre las cuestiones que revisten en todo caso naturaleza orgánica figura la regulación del Consejo Social de la ciudad (2.ª); las demás opciones no aparecen en ese listado; coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 11.1.e) de la Ley 10/2017, corresponde al Pleno adoptar los acuerdos relativos, entre otros extremos, a:",
+      "options": [
+        "La alteración de la capitalidad del municipio y el cambio de denominación de este o de sus entidades inframunicipales",
+        "La concesión individual de licencias de apertura de establecimientos",
+        "La resolución de los expedientes de responsabilidad patrimonial por funcionamiento de servicios públicos",
+        "El otorgamiento de cualquier tipo de licencia urbanística"
+      ],
+      "correct": 0,
+      "exp": "El art. 11.1.e) atribuye al Pleno los acuerdos sobre delimitación y alteración del término municipal, creación o supresión de entidades inframunicipales, alteración de la capitalidad y cambio de denominación, entre otros.",
+      "fuente": "Art. 11.1.e Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 11.1.e) verificado: incluye entre los acuerdos del Pleno la alteración de la capitalidad del municipio y el cambio de denominación de este o de sus entidades inframunicipales; coincide."
+    },
+    {
+      "q": "Según el art. 11.2 de la Ley 10/2017, con carácter general los acuerdos del Pleno se adoptarán por:",
+      "options": [
+        "Mayoría simple de votos, salvo los casos en que la legislación básica exija mayoría absoluta",
+        "Unanimidad de todos los concejales presentes",
+        "Mayoría de dos tercios en todos los casos, sin excepción",
+        "Voto de calidad del Alcalde, sin someterse a votación del Pleno"
+      ],
+      "correct": 0,
+      "exp": "El art. 11.2 establece que, con carácter general, los acuerdos se adoptan por mayoría simple, requiriéndose mayoría absoluta del número legal de miembros para los acuerdos que así lo exija la legislación básica.",
+      "fuente": "Art. 11.2 Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 11.2 verificado: con carácter general los acuerdos se adoptan por mayoría simple, exigiéndose mayoría absoluta solo cuando lo establezca la legislación básica; coincide."
+    },
+    {
+      "q": "Según el art. 11.3 de la Ley 10/2017, ¿cuál de las siguientes competencias del Pleno NO puede ser objeto de delegación en ningún caso?",
+      "options": [
+        "La determinación de los recursos propios de carácter tributario",
+        "La aprobación y modificación de las ordenanzas y Reglamentos municipales (no orgánicos)",
+        "El ejercicio de acciones judiciales y administrativas y la defensa jurídica del Pleno",
+        "La aprobación del código ético de actuación de los miembros del Pleno"
+      ],
+      "correct": 0,
+      "exp": "El art. 11.3 excluye de toda delegación, entre otras, la competencia de determinación de los recursos propios de carácter tributario (letra g), mientras que las restantes opciones solo pueden delegarse en Comisiones del Pleno.",
+      "fuente": "Art. 11.3 Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 11.3 verificado: la letra g) (recursos propios de carácter tributario) está en el listado de competencias no delegables en ningún caso, mientras que d), n) y o) solo son delegables en Comisiones del Pleno (por tanto sí delegables); coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 12.1.j) de la Ley 10/2017, corresponde al Alcalde de Zaragoza:",
+      "options": [
+        "La Jefatura de la Policía Local",
+        "La Presidencia del Consejo Social de la ciudad, con carácter indelegable",
+        "La aprobación definitiva de las ordenanzas fiscales",
+        "El nombramiento del Interventor General municipal"
+      ],
+      "correct": 0,
+      "exp": "El art. 12.1.j) atribuye al Alcalde la Jefatura de la Policía Local, dentro del listado de atribuciones que le corresponden.",
+      "fuente": "Art. 12.1.j Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 12.1.j) verificado: atribuye al Alcalde la Jefatura de la Policía Local; coincide."
+    },
+    {
+      "q": "Según el art. 13.2 de la Ley 10/2017, el número de miembros del Gobierno de Zaragoza, nombrados y separados libremente por el Alcalde, no podrá exceder de:",
+      "options": [
+        "Un tercio del número legal de miembros del Pleno, además del Alcalde",
+        "La mitad del número legal de miembros del Pleno",
+        "Un cuarto del número legal de miembros del Pleno",
+        "Diez miembros en todo caso, cualquiera que sea el tamaño del Pleno"
+      ],
+      "correct": 0,
+      "exp": "El art. 13.2 fija en un tercio del número legal de miembros del Pleno, además del Alcalde, el máximo de miembros del Gobierno de Zaragoza.",
+      "fuente": "Art. 13.2 Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 13.2 verificado: el número de miembros del Gobierno de Zaragoza no podrá exceder de un tercio del número legal de miembros del Pleno, además del Alcalde; coincide."
+    },
+    {
+      "q": "Según el art. 13.3 de la Ley 10/2017, el Gobierno de Zaragoza responde políticamente ante el Pleno de su gestión:",
+      "options": [
+        "De forma solidaria, sin perjuicio de la responsabilidad directa de cada uno de sus miembros por su gestión",
+        "Únicamente de forma individual, sin responsabilidad colectiva alguna",
+        "Solo cuando lo solicite expresamente el Gobierno de Aragón",
+        "De forma exclusivamente ante el Consejo Bilateral de Capitalidad"
+      ],
+      "correct": 0,
+      "exp": "El art. 13.3 establece la responsabilidad solidaria del Gobierno de Zaragoza ante el Pleno, sin perjuicio de la responsabilidad directa de cada miembro por su propia gestión.",
+      "fuente": "Art. 13.3 Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 13.3 verificado: responsabilidad solidaria del Gobierno de Zaragoza ante el Pleno, sin perjuicio de la responsabilidad directa de cada miembro por su gestión; coincide."
+    },
+    {
+      "q": "Según el art. 13.5 de la Ley 10/2017, las deliberaciones del Gobierno de Zaragoza son:",
+      "options": [
+        "Secretas, excepto en las decisiones relativas a las atribuciones delegadas por el Pleno",
+        "Siempre públicas, sin excepción alguna",
+        "Públicas solo si lo acuerda el Consejo Bilateral de Capitalidad",
+        "Secretas únicamente cuando lo decida el Gobierno de Aragón"
+      ],
+      "correct": 0,
+      "exp": "El art. 13.5 dispone que las deliberaciones del Gobierno de Zaragoza son secretas, salvo en las decisiones relativas a las atribuciones delegadas por el Pleno.",
+      "fuente": "Art. 13.5 Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 13.5 verificado: las deliberaciones del Gobierno de Zaragoza son secretas, excepto en las decisiones relativas a las atribuciones delegadas por el Pleno; coincide."
+    },
+    {
+      "q": "Según el art. 14.1.f) de la Ley 10/2017, corresponden al Gobierno de Zaragoza las competencias como órgano de contratación que la legislación sobre contratos del sector público atribuye:",
+      "options": [
+        "A la Junta de Gobierno Local en los municipios de gran población a los que se refiere la Ley 7/1985, de Bases del Régimen Local",
+        "Exclusivamente al Pleno municipal, sin excepción",
+        "Al Gobierno de Aragón, en sustitución del Ayuntamiento",
+        "Al Consejo Bilateral de Capitalidad"
+      ],
+      "correct": 0,
+      "exp": "El art. 14.1.f) atribuye al Gobierno de Zaragoza las competencias de órgano de contratación que la legislación de contratos del sector público reconoce a la Junta de Gobierno Local en los municipios de gran población del Título X LBRL.",
+      "fuente": "Art. 14.1.f Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 14.1.f) verificado: atribuye al Gobierno de Zaragoza las competencias de órgano de contratación que la legislación de contratos del sector público reconoce a la Junta de Gobierno Local en los municipios de gran población de la Ley 7/1985; coincide."
+    },
+    {
+      "q": "Según el art. 15 de la Ley 10/2017, los grupos municipales, constituidos conforme al Reglamento orgánico, pueden formular:",
+      "options": [
+        "Directrices, orientaciones y recomendaciones en la forma y procedimiento que dicho Reglamento establezca",
+        "Sentencias vinculantes para el resto de grupos municipales",
+        "Vetos absolutos a cualquier decisión del Gobierno de Zaragoza",
+        "Sanciones disciplinarias contra otros concejales"
+      ],
+      "correct": 0,
+      "exp": "El art. 15 reconoce a los grupos municipales la facultad de formular directrices, orientaciones y recomendaciones conforme al procedimiento del Reglamento orgánico.",
+      "fuente": "Art. 15 Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 15 verificado: los grupos municipales pueden formular directrices, orientaciones y recomendaciones en la forma y procedimiento que establezca el Reglamento orgánico; coincide."
+    },
+    {
+      "q": "Según el art. 16 de la Ley 10/2017, la Junta de Portavoces está constituida por:",
+      "options": [
+        "Los portavoces de los grupos municipales, presidida por el Alcalde o Teniente de Alcalde en quien delegue",
+        "Los presidentes de todas las Comisiones del Pleno",
+        "Exclusivamente los miembros del Gobierno de Zaragoza",
+        "Los Alcaldes de barrio y Presidentes de distrito"
+      ],
+      "correct": 0,
+      "exp": "El art. 16 define la Junta de Portavoces como el órgano formado por los portavoces de los grupos municipales, presidido por el Alcalde o el Teniente de Alcalde en quien delegue.",
+      "fuente": "Art. 16 Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 16 verificado: la Junta de Portavoces la constituyen los portavoces de los grupos municipales, presidida por el Alcalde o Teniente de Alcalde en quien delegue; coincide."
+    },
+    {
+      "q": "Según el art. 17 de la Ley 10/2017, el Consejo Jurídico Municipal, que puede crear el Gobierno de Zaragoza, tiene por función emitir informes y dictámenes:",
+      "options": [
+        "De carácter no vinculante sobre cualesquiera asuntos de interés municipal",
+        "De carácter vinculante y ejecutivo sobre todos los actos del Ayuntamiento",
+        "Exclusivamente sobre recursos de reposición en materia tributaria",
+        "Solo sobre la legalidad de las mociones de censura"
+      ],
+      "correct": 0,
+      "exp": "El art. 17 prevé la posible creación de un Consejo Jurídico Municipal para emitir informes y dictámenes de carácter no vinculante sobre asuntos de interés municipal.",
+      "fuente": "Art. 17 Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 17 verificado: el Consejo Jurídico Municipal, que puede crear el Gobierno de Zaragoza, emite informes y dictámenes de carácter no vinculante sobre cualesquiera asuntos de interés municipal; coincide."
+    },
+    {
+      "q": "Según el art. 18 de la Ley 10/2017, las Comisiones específicas de asesoramiento que pueden constituirse tienen como función:",
+      "options": [
+        "Dictaminar recursos administrativos",
+        "Sustituir al Pleno en la aprobación de ordenanzas fiscales",
+        "Ejercer la potestad sancionadora en materia urbanística",
+        "Representar al Ayuntamiento ante el Tribunal Constitucional"
+      ],
+      "correct": 0,
+      "exp": "El art. 18 prevé que estas Comisiones específicas de asesoramiento se constituyan para dictaminar recursos administrativos, con funciones, composición y funcionamiento fijados por el Gobierno de Zaragoza.",
+      "fuente": "Art. 18 Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 18 verificado: las Comisiones específicas de asesoramiento pueden constituirse para dictaminar recursos administrativos; coincide."
+    },
+    {
+      "q": "Según el art. 19 de la Ley 10/2017, la Administración de la Comunidad Autónoma de Aragón y el Ayuntamiento de Zaragoza ajustarán sus relaciones a los criterios de:",
+      "options": [
+        "Información mutua, colaboración, coordinación y respeto a los ámbitos competenciales respectivos",
+        "Subordinación jerárquica del Ayuntamiento al Gobierno de Aragón",
+        "Confidencialidad absoluta, sin intercambio de información",
+        "Competencia exclusiva y excluyente entre ambas Administraciones"
+      ],
+      "correct": 0,
+      "exp": "El art. 19 fija como criterios rectores de las relaciones entre ambas Administraciones la información mutua, la colaboración, la coordinación y el respeto a los ámbitos competenciales respectivos.",
+      "fuente": "Art. 19 Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 19 verificado: las relaciones entre la Comunidad Autónoma de Aragón y el Ayuntamiento de Zaragoza se ajustarán a los criterios de información mutua, colaboración, coordinación y respeto a los ámbitos competenciales respectivos; coincide."
+    },
+    {
+      "q": "Según el art. 20.1 de la Ley 10/2017, el Consejo Bilateral de Capitalidad es un órgano colegiado que tiene por objeto:",
+      "options": [
+        "La coordinación y colaboración entre el Gobierno de Aragón y el Ayuntamiento de Zaragoza en lo que afecta a sus competencias derivadas de la capitalidad autonómica",
+        "Sustituir a la Diputación Provincial de Zaragoza en todas sus funciones",
+        "Ejercer funciones jurisdiccionales sobre conflictos entre particulares",
+        "Aprobar directamente el presupuesto del Ayuntamiento de Zaragoza"
+      ],
+      "correct": 0,
+      "exp": "El art. 20.1 define el Consejo Bilateral de Capitalidad como órgano colegiado permanente para la coordinación y colaboración entre ambas Administraciones en lo relativo a la capitalidad autonómica.",
+      "fuente": "Art. 20.1 Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 20.1 verificado: el Consejo Bilateral de Capitalidad es un órgano colegiado permanente para la coordinación y colaboración entre el Gobierno de Aragón y el Ayuntamiento de Zaragoza en lo relativo a la capitalidad autonómica; coincide."
+    },
+    {
+      "q": "Según el art. 20.3 de la Ley 10/2017, la Presidencia del Consejo Bilateral de Capitalidad se ejerce:",
+      "options": [
+        "De modo alternativo por un representante del Gobierno de Aragón y del Gobierno de Zaragoza",
+        "Siempre por el Presidente del Gobierno de Aragón",
+        "Siempre por el Alcalde de Zaragoza",
+        "Por sorteo anual entre todos los Consejeros y Concejales"
+      ],
+      "correct": 0,
+      "exp": "El art. 20.3 establece que la Presidencia del Consejo Bilateral de Capitalidad se ejercerá de modo alternativo entre un representante del Gobierno de Aragón y otro del Gobierno de Zaragoza.",
+      "fuente": "Art. 20.3 Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 20.3 verificado: la Presidencia se ejerce de modo alternativo por un representante del Gobierno de Aragón y del Gobierno de Zaragoza; coincide."
+    },
+    {
+      "q": "Según el art. 21.b) de la Ley 10/2017, el Consejo Bilateral de Capitalidad se reunirá como mínimo:",
+      "options": [
+        "Una vez cada semestre, y en todo caso en el plazo de dos meses desde el inicio de cada legislatura o mandato corporativo",
+        "Una vez cada mes, sin excepción",
+        "Una vez al año, coincidiendo con la aprobación del presupuesto",
+        "Cada quince días mientras dure la legislatura"
+      ],
+      "correct": 0,
+      "exp": "El art. 21.b) fija una reunión mínima semestral, además de una reunión en el plazo de dos meses desde el inicio de cada legislatura, mandato corporativo o cambio de Gobierno.",
+      "fuente": "Art. 21.b Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 21.b) verificado: se celebrará como mínimo una reunión cada semestre y, en todo caso, se reunirá en el plazo de dos meses desde el inicio de cada legislatura o mandato corporativo; coincide."
+    },
+    {
+      "q": "Según el art. 21.e) de la Ley 10/2017, el Consejo Bilateral de Capitalidad adopta sus acuerdos mediante:",
+      "options": [
+        "El voto favorable de la mayoría absoluta de sus miembros",
+        "El voto favorable de dos tercios de sus miembros",
+        "La unanimidad de todos sus miembros",
+        "El voto de calidad exclusivo de su Presidente"
+      ],
+      "correct": 0,
+      "exp": "El art. 21.e) exige el voto favorable de la mayoría absoluta de los miembros del Consejo Bilateral de Capitalidad para adoptar acuerdos.",
+      "fuente": "Art. 21.e Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 21.e) verificado: los acuerdos se adoptan mediante el voto favorable de la mayoría absoluta de sus miembros; coincide."
+    },
+    {
+      "q": "Según el art. 22 de la Ley 10/2017, entre las funciones del Consejo Bilateral de Capitalidad se encuentra:",
+      "options": [
+        "La preparación del Convenio bilateral económico-financiero regulado en el art. 57 de la Ley",
+        "La aprobación definitiva del Plan General de Ordenación Urbana de Zaragoza",
+        "El nombramiento de los Tenientes de Alcalde",
+        "La convocatoria de elecciones municipales anticipadas"
+      ],
+      "correct": 0,
+      "exp": "El art. 22.i) atribuye al Consejo Bilateral de Capitalidad la preparación del Convenio bilateral económico-financiero previsto en el art. 57 de la Ley.",
+      "fuente": "Art. 22.i Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 22.i) verificado: entre las funciones del Consejo Bilateral de Capitalidad figura la preparación del Convenio bilateral económico-financiero regulado en el art. 57; coincide."
+    },
+    {
+      "q": "Según el art. 23.1.a) de la Ley 10/2017, en la composición del Consejo de Ordenación del Territorio de Aragón se asegurará:",
+      "options": [
+        "La presencia institucional del Ayuntamiento de Zaragoza",
+        "La mayoría absoluta de representantes municipales de Zaragoza frente a los del Gobierno de Aragón",
+        "La exclusión de cualquier representante municipal",
+        "La presidencia rotatoria entre todos los municipios aragoneses"
+      ],
+      "correct": 0,
+      "exp": "El art. 23.1.a) exige asegurar la presencia institucional del Ayuntamiento de Zaragoza en la composición del Consejo de Ordenación del Territorio de Aragón.",
+      "fuente": "Art. 23.1.a Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 23.1.a) verificado: en la composición del Consejo de Ordenación del Territorio de Aragón se asegurará la presencia institucional del Ayuntamiento de Zaragoza; coincide."
+    },
+    {
+      "q": "Según el art. 24.c) de la Ley 10/2017, la gestión de los sectores concertados de urbanización prioritaria que se declaren en el término municipal de Zaragoza corresponde:",
+      "options": [
+        "En exclusiva al Ayuntamiento de Zaragoza",
+        "Conjuntamente al Gobierno de Aragón y al Ayuntamiento, por mitades",
+        "Al Consejo Provincial de Urbanismo de Zaragoza",
+        "A la Diputación Provincial de Zaragoza"
+      ],
+      "correct": 0,
+      "exp": "El art. 24.c) atribuye en exclusiva al Ayuntamiento de Zaragoza la gestión de los sectores concertados de urbanización prioritaria declarados en su término municipal.",
+      "fuente": "Art. 24.c Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 24.c) verificado: la gestión de los sectores concertados de urbanización prioritaria declarados en el término municipal corresponde en exclusiva al Ayuntamiento de Zaragoza; coincide."
+    },
+    {
+      "q": "Según el art. 25.1 de la Ley 10/2017, el municipio de Zaragoza, por incluir conjuntos históricos declarados y contar con una comisión municipal de patrimonio histórico-artístico, se considera:",
+      "options": [
+        "Municipio monumental, con los efectos previstos por la normativa de patrimonio cultural y de régimen local",
+        "Municipio de interés turístico nacional exclusivamente",
+        "Municipio Patrimonio de la Humanidad por declaración de la UNESCO en virtud de esta Ley",
+        "Municipio exento de la legislación de patrimonio cultural aragonés"
+      ],
+      "correct": 0,
+      "exp": "El art. 25.1 reconoce a Zaragoza la condición de municipio monumental, con los efectos previstos por la regulación de patrimonio cultural y por la normativa de organización y régimen local.",
+      "fuente": "Art. 25.1 Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 25.1 verificado: Zaragoza se considera municipio monumental, con los efectos previstos por la regulación de patrimonio cultural y la normativa de organización y régimen local; coincide."
+    },
+    {
+      "q": "Según el art. 26.4 de la Ley 10/2017, la planificación, organización de la promoción y gestión del Parque de Viviendas de Protección Pública pertenecientes al Ayuntamiento de Zaragoza es competencia de:",
+      "options": [
+        "El propio Ayuntamiento de Zaragoza",
+        "El Gobierno de Aragón, con carácter exclusivo",
+        "El Consejo Bilateral de Capitalidad",
+        "La Diputación Provincial de Zaragoza"
+      ],
+      "correct": 0,
+      "exp": "El art. 26.4 atribuye al Ayuntamiento de Zaragoza la competencia sobre la planificación, promoción y gestión de su propio Parque de Viviendas de Protección Pública.",
+      "fuente": "Art. 26.4 Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 26.4 verificado: la planificación, promoción y gestión del Parque de Viviendas de Protección Pública del Ayuntamiento es competencia de este; coincide."
+    },
+    {
+      "q": "Según el art. 29.2 de la Ley 10/2017, el plan municipal de protección civil de Zaragoza deberá revisarse, al menos:",
+      "options": [
+        "Cada cuatro años",
+        "Cada año",
+        "Cada dos años",
+        "Cada seis años"
+      ],
+      "correct": 0,
+      "exp": "El art. 29.2 exige que el Ayuntamiento de Zaragoza revise su plan municipal de protección civil, al menos, cada cuatro años, homologado por la Comisión de Protección Civil de Aragón.",
+      "fuente": "Art. 29.2 Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 29.2 verificado: el plan municipal de protección civil deberá revisarse, al menos, cada cuatro años, y ser homologado por la Comisión de Protección Civil de Aragón; coincide."
+    },
+    {
+      "q": "Según el art. 33.1.a) de la Ley 10/2017, en materia de servicios sociales, el municipio de Zaragoza ejerce como propia la competencia de:",
+      "options": [
+        "Estudio y detección de las necesidades sociales en su término municipal",
+        "Aprobación exclusiva y sin participación autonómica del Mapa de Servicios Sociales de Aragón",
+        "Fijación de las prestaciones económicas del sistema de dependencia estatal",
+        "Determinación de los baremos de la Renta Mínima autonómica"
+      ],
+      "correct": 0,
+      "exp": "El art. 33.1.a) atribuye al municipio de Zaragoza, como competencia propia en el marco del Sistema Público de Servicios Sociales, el estudio y detección de las necesidades sociales de su término municipal.",
+      "fuente": "Art. 33.1.a Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 33.1.a) verificado: entre las competencias propias en materia de servicios sociales figura el estudio y detección de las necesidades sociales en el término municipal; coincide."
+    },
+    {
+      "q": "Según el art. 34.1 de la Ley 10/2017, el Ayuntamiento de Zaragoza se dotará de un instrumento de planificación en materia de igualdad denominado:",
+      "options": [
+        "Plan Municipal de Igualdad",
+        "Estrategia Aragonesa de Igualdad",
+        "Programa Nacional de Igualdad de Zaragoza",
+        "Carta Municipal de Igualdad de Oportunidades"
+      ],
+      "correct": 0,
+      "exp": "El art. 34.1 obliga al Ayuntamiento de Zaragoza a dotarse de un Plan Municipal de Igualdad, con medidas para eliminar la discriminación por razón de sexo y género, revisado periódicamente.",
+      "fuente": "Art. 34.1 Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 34.1 verificado: el Ayuntamiento se dotará de un Plan Municipal de Igualdad; coincide."
+    },
+    {
+      "q": "Según el art. 35.2 de la Ley 10/2017, el municipio de Zaragoza contará con su propio:",
+      "options": [
+        "Cuerpo de Voluntariado, para proporcionar a la ciudad la colaboración de un colectivo organizado y estable en actividades de interés general",
+        "Cuerpo de Policía Judicial, con funciones jurisdiccionales propias",
+        "Cuerpo Diplomático municipal para relaciones internacionales",
+        "Cuerpo de Inspección Tributaria autónomo del estatal"
+      ],
+      "correct": 0,
+      "exp": "El art. 35.2 prevé que el municipio de Zaragoza cuente con su propio Cuerpo de Voluntariado, orientado a la colaboración ciudadana organizada en actividades de interés general.",
+      "fuente": "Art. 35.2 Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 35.2 verificado: el municipio contará con su propio Cuerpo de Voluntariado, orientado a la colaboración ciudadana organizada en actividades de interés general; coincide."
+    },
+    {
+      "q": "Según el art. 41 de la Ley 10/2017, en materia de turismo, el municipio de Zaragoza ejercerá en su término municipal:",
+      "options": [
+        "Las mismas competencias en materia de turismo que las atribuidas a las comarcas, en los términos legalmente establecidos",
+        "Competencias exclusivas y excluyentes, sin sujeción a la legislación autonómica de turismo",
+        "Únicamente competencias de promoción, sin ninguna facultad de ordenación",
+        "Las competencias atribuidas a las Diputaciones Provinciales en materia turística"
+      ],
+      "correct": 0,
+      "exp": "El art. 41 equipara las competencias turísticas del municipio de Zaragoza a las atribuidas a las comarcas, en los términos y condiciones legalmente establecidos.",
+      "fuente": "Art. 41 Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 41 verificado: el municipio ejercerá en materia de turismo las mismas competencias atribuidas a las comarcas, en los términos legalmente establecidos; coincide."
+    },
+    {
+      "q": "Según el art. 48.3.b) de la Ley 10/2017, en la elaboración de ordenanzas y Reglamentos, la información pública y audiencia a los interesados se realizará por un plazo mínimo de:",
+      "options": [
+        "Treinta días naturales",
+        "Quince días naturales",
+        "Diez días hábiles",
+        "Dos meses"
+      ],
+      "correct": 0,
+      "exp": "El art. 48.3.b) exige un plazo mínimo de treinta días naturales de información pública y audiencia a los interesados para la presentación de reclamaciones y sugerencias.",
+      "fuente": "Art. 48.3.b Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 48.3.b) verificado: información pública y audiencia a los interesados por un plazo mínimo de treinta días naturales; coincide."
+    },
+    {
+      "q": "Según el art. 50.c) de la Ley 10/2017, el proyecto de presupuesto general del Ayuntamiento de Zaragoza se remitirá al Pleno antes del día:",
+      "options": [
+        "Quince de octubre de cada año",
+        "Uno de enero de cada año",
+        "Treinta y uno de diciembre de cada año",
+        "Uno de septiembre de cada año"
+      ],
+      "correct": 0,
+      "exp": "El art. 50.c) fija que el proyecto de presupuesto se remita al Pleno antes del día quince de octubre de cada año.",
+      "fuente": "Art. 50.c Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 50.c) verificado: el proyecto de presupuesto se remitirá al Pleno antes del día quince de octubre de cada año; coincide."
+    },
+    {
+      "q": "Según el art. 51.1.a) de la Ley 10/2017, para determinar las formas de gestión de los servicios públicos municipales, el procedimiento se inicia con:",
+      "options": [
+        "La elaboración de una memoria justificativa por una comisión especial designada por el Alcalde",
+        "La aprobación directa por el Pleno sin trámites previos",
+        "Un referéndum municipal vinculante",
+        "Un informe preceptivo del Consejo Bilateral de Capitalidad, sin más trámite"
+      ],
+      "correct": 0,
+      "exp": "El art. 51.1.a) inicia el procedimiento con la elaboración de una memoria justificativa por una comisión especial designada por el Alcalde, integrada por personal técnico propio o externo.",
+      "fuente": "Art. 51.1.a Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 51.1.a) verificado: el procedimiento se inicia con la elaboración de una memoria justificativa por una comisión especial designada por el Alcalde; coincide."
+    },
+    {
+      "q": "Según el art. 54 de la Ley 10/2017, esta Ley establece para el municipio de Zaragoza:",
+      "options": [
+        "Un régimen especial de financiación propio, sin perjuicio del modelo de financiación local de la legislación de haciendas locales",
+        "La exención total de tributos estatales",
+        "Un sistema de financiación idéntico al del resto de municipios aragoneses, sin especialidad alguna",
+        "La cesión íntegra del IRPF recaudado en el municipio"
+      ],
+      "correct": 0,
+      "exp": "El art. 54 establece un régimen especial de financiación propio para Zaragoza, sin perjuicio del modelo general de financiación local previsto en la legislación de haciendas locales.",
+      "fuente": "Art. 54 Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 54 verificado: establece un régimen especial de financiación propio para Zaragoza, sin perjuicio del modelo de financiación local de la legislación de haciendas locales; coincide."
+    },
+    {
+      "q": "Según la Disposición transitoria tercera.1 de la Ley 10/2017, hasta la aprobación de la regulación de la participación de los entes locales en los ingresos de la Comunidad Autónoma de Aragón, el Ayuntamiento de Zaragoza recibirá anualmente:",
+      "options": [
+        "Ocho millones de euros",
+        "Cinco millones de euros",
+        "Trece millones y medio de euros",
+        "Veinte millones de euros"
+      ],
+      "correct": 0,
+      "exp": "La Disposición transitoria tercera.1 fija en ocho millones de euros anuales la cantidad que percibirá el Ayuntamiento de Zaragoza hasta que se apruebe la regulación definitiva de la participación en ingresos de la Comunidad Autónoma.",
+      "fuente": "Art. Disposición transitoria tercera.1 Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (BOE-A-2018-1683 / BOA núm. 231, de 01/12/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Disposición transitoria tercera.1 verificada: hasta la aprobación de la regulación de participación de los entes locales en los ingresos de la Comunidad Autónoma, el Ayuntamiento recibirá anualmente ocho millones de euros; coincide."
+    }
+  ]
+}
