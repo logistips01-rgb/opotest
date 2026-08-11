@@ -16,19 +16,6 @@
       "confianza": "alta"
     },
     {
-      "q": "De acuerdo con el art. 121.1.b) LBRL, el régimen de organización de los municipios de gran población se aplica a los municipios capitales de provincia cuya población supere:",
-      "options": [
-        "100.000 habitantes",
-        "175.000 habitantes",
-        "200.000 habitantes",
-        "250.000 habitantes"
-      ],
-      "correct": 1,
-      "exp": "El art. 121.1.b) LBRL fija el umbral en los municipios capitales de provincia cuya población sea superior a los 175.000 habitantes.",
-      "fuente": "Art. 121.1.b) LBRL (Ley 7/1985)",
-      "confianza": "alta"
-    },
-    {
       "q": "Según el art. 121.1.d) LBRL, ¿a partir de qué cifra de población puede aplicarse este título a un municipio con circunstancias económicas, sociales, históricas o culturales especiales, si así lo decide la Asamblea Legislativa correspondiente?",
       "options": [
         "50.000 habitantes",
@@ -55,19 +42,6 @@
       "confianza": "alta"
     },
     {
-      "q": "Según el art. 121.3 LBRL, si un municipio sometido al régimen de gran población reduce posteriormente su cifra oficial de población por debajo del límite legal, ¿qué ocurre?",
-      "options": [
-        "Deja de aplicarse el Título X de forma automática e inmediata",
-        "Continúa rigiéndose por el régimen del Título X aun así",
-        "Se somete a un nuevo acuerdo del Pleno para decidir si continúa",
-        "Se aplica un régimen transitorio de dos años antes de excluirlo"
-      ],
-      "correct": 1,
-      "exp": "El art. 121.3 LBRL dispone que los municipios a los que resulte de aplicación este régimen continuarán rigiéndose por el mismo aun cuando su cifra oficial de población se reduzca posteriormente por debajo del límite establecido.",
-      "fuente": "Art. 121.3 LBRL (Ley 7/1985)",
-      "confianza": "alta"
-    },
-    {
       "q": "Según el art. 122.1 LBRL, el Pleno de los municipios de gran población está formado por:",
       "options": [
         "El Alcalde, los Concejales y el Secretario general",
@@ -81,19 +55,6 @@
       "confianza": "alta"
     },
     {
-      "q": "En los municipios de gran población, ¿en quién puede delegar el Alcalde exclusivamente la convocatoria y la presidencia del Pleno, según el art. 122.2 LBRL?",
-      "options": [
-        "En el Secretario general del Pleno",
-        "En cualquier funcionario con habilitación de carácter nacional",
-        "En uno de los concejales",
-        "En el Teniente de Alcalde de mayor antigüedad"
-      ],
-      "correct": 2,
-      "exp": "El art. 122.2 LBRL permite al Alcalde delegar exclusivamente la convocatoria y la presidencia del Pleno, cuando lo estime oportuno, en uno de los concejales.",
-      "fuente": "Art. 122.2 LBRL (Ley 7/1985)",
-      "confianza": "alta"
-    },
-    {
       "q": "Según el art. 122.3 LBRL, el reglamento que se dote el Pleno tendrá la naturaleza de:",
       "options": [
         "Reglamento ejecutivo",
@@ -104,19 +65,6 @@
       "correct": 1,
       "exp": "El art. 122.3 LBRL establece que el Pleno se dotará de su propio reglamento, que tendrá la naturaleza de orgánico.",
       "fuente": "Art. 122.3 LBRL (Ley 7/1985)",
-      "confianza": "alta"
-    },
-    {
-      "q": "De acuerdo con el art. 122.4 LBRL, ¿a quién corresponde el seguimiento de la gestión del Alcalde y de su equipo de gobierno, sin perjuicio del superior control que corresponde al Pleno?",
-      "options": [
-        "A la Junta de Gobierno Local",
-        "A las comisiones del Pleno",
-        "A la Comisión Especial de Sugerencias y Reclamaciones",
-        "Al Consejo Social de la Ciudad"
-      ],
-      "correct": 1,
-      "exp": "El art. 122.4.b) LBRL atribuye a las comisiones del Pleno el seguimiento de la gestión del Alcalde y de su equipo de gobierno, sin perjuicio del superior control y fiscalización que corresponde al Pleno.",
-      "fuente": "Art. 122.4.b) LBRL (Ley 7/1985)",
       "confianza": "alta"
     },
     {
@@ -159,32 +107,6 @@
       "confianza": "alta"
     },
     {
-      "q": "Según el art. 123.1.c) LBRL, ¿cuál de las siguientes materias tiene en todo caso naturaleza orgánica cuando la regula el Pleno de un municipio de gran población?",
-      "options": [
-        "La determinación de las formas de gestión de los servicios",
-        "La regulación del Consejo Social de la Ciudad",
-        "La aprobación de los presupuestos",
-        "El planteamiento de conflictos de competencia"
-      ],
-      "correct": 1,
-      "exp": "El art. 123.1.c) LBRL enumera entre las materias de naturaleza orgánica la regulación del Consejo Social de la Ciudad, junto con la regulación del Pleno, la Comisión Especial de Sugerencias y Reclamaciones, los órganos complementarios y otras que cita expresamente.",
-      "fuente": "Art. 123.1.c) LBRL (Ley 7/1985)",
-      "confianza": "alta"
-    },
-    {
-      "q": "Según el art. 123.3 LBRL, ¿a favor de qué órgano puede delegar el Pleno la competencia relativa a la aprobación y modificación de ordenanzas y reglamentos municipales [párrafo d) del apartado 1]?",
-      "options": [
-        "De la Junta de Gobierno Local",
-        "Del Alcalde",
-        "De las comisiones del artículo 122.4",
-        "Del Consejo Social de la Ciudad"
-      ],
-      "correct": 2,
-      "exp": "El art. 123.3 LBRL permite delegar únicamente las competencias del Pleno referidas en los párrafos d), k), m) y ñ) a favor de las comisiones referidas en el apartado 4 del artículo 122.",
-      "fuente": "Art. 123.3 LBRL (Ley 7/1985)",
-      "confianza": "alta"
-    },
-    {
       "q": "Según el art. 124.3 LBRL, ¿qué tratamiento tendrá el Alcalde en un municipio de gran población?",
       "options": [
         "Ilustrísima",
@@ -211,19 +133,6 @@
       "confianza": "alta"
     },
     {
-      "q": "Según el art. 124.5 LBRL, ¿cuáles de las siguientes competencias del Alcalde sólo son delegables en la Junta de Gobierno Local, y no en concejales u otros órganos?",
-      "options": [
-        "Las previstas en los párrafos c) y k) del apartado 4",
-        "Las previstas en los párrafos a) y ñ) del apartado 4",
-        "Las previstas en los párrafos e) y j) del apartado 4",
-        "Todas las competencias del Alcalde son delegables en cualquier órgano municipal"
-      ],
-      "correct": 0,
-      "exp": "El art. 124.5 LBRL señala que las atribuciones previstas en los párrafos c) [establecer directrices generales] y k) [organización de la administración ejecutiva] sólo serán delegables en la Junta de Gobierno Local.",
-      "fuente": "Art. 124.5 LBRL (Ley 7/1985)",
-      "confianza": "alta"
-    },
-    {
       "q": "Según el art. 125.1 LBRL, ¿entre quiénes puede el Alcalde nombrar a los Tenientes de Alcalde en un municipio de gran población?",
       "options": [
         "Entre cualquier concejal, sea o no miembro de la Junta de Gobierno Local",
@@ -237,19 +146,6 @@
       "confianza": "alta"
     },
     {
-      "q": "Según el art. 125.2 LBRL, ¿qué tratamiento tendrán los Tenientes de Alcalde en los municipios de gran población?",
-      "options": [
-        "Excelencia",
-        "Señoría",
-        "Ilustrísima",
-        "Ilustre"
-      ],
-      "correct": 2,
-      "exp": "El art. 125.2 LBRL establece que los Tenientes de Alcalde tendrán el tratamiento de Ilustrísima.",
-      "fuente": "Art. 125.2 LBRL (Ley 7/1985)",
-      "confianza": "alta"
-    },
-    {
       "q": "Según el art. 126.2 LBRL, el número de miembros de la Junta de Gobierno Local, además del Alcalde, no podrá exceder de:",
       "options": [
         "Un cuarto del número legal de miembros del Pleno",
@@ -259,19 +155,6 @@
       ],
       "correct": 1,
       "exp": "El art. 126.2 LBRL atribuye al Alcalde nombrar y separar libremente a los miembros de la Junta de Gobierno Local, cuyo número no podrá exceder de un tercio del número legal de miembros del Pleno, además del Alcalde.",
-      "fuente": "Art. 126.2 LBRL (Ley 7/1985)",
-      "confianza": "alta"
-    },
-    {
-      "q": "Según el art. 126.2 LBRL, si el Alcalde nombra miembros de la Junta de Gobierno Local que no ostenten la condición de concejales, ¿qué límite se les aplica?",
-      "options": [
-        "No pueden superar un tercio de los miembros de la Junta, excluido el Alcalde",
-        "No pueden superar la mitad de los miembros de la Junta",
-        "Deben ser, como máximo, dos personas",
-        "No existe límite alguno para estos nombramientos"
-      ],
-      "correct": 0,
-      "exp": "El art. 126.2 LBRL permite nombrar como miembros de la Junta de Gobierno Local a personas que no ostenten la condición de concejales, siempre que su número no supere un tercio de sus miembros, excluido el Alcalde.",
       "fuente": "Art. 126.2 LBRL (Ley 7/1985)",
       "confianza": "alta"
     },
@@ -289,19 +172,6 @@
       "confianza": "alta"
     },
     {
-      "q": "Según el art. 126.5 LBRL, ¿cómo son las deliberaciones de la Junta de Gobierno Local en los municipios de gran población?",
-      "options": [
-        "Públicas y abiertas a cualquier ciudadano",
-        "Secretas",
-        "Públicas salvo que se acuerde lo contrario",
-        "Retransmitidas obligatoriamente"
-      ],
-      "correct": 1,
-      "exp": "El art. 126.5 LBRL dispone que las deliberaciones de la Junta de Gobierno Local son secretas, pudiendo asistir a sus sesiones los concejales no pertenecientes a ella y los titulares de órganos directivos cuando sean convocados expresamente por el Alcalde.",
-      "fuente": "Art. 126.5 LBRL (Ley 7/1985)",
-      "confianza": "alta"
-    },
-    {
       "q": "Según el art. 127.1.h) LBRL, la composición de los tribunales de oposiciones en los municipios de gran población será:",
       "options": [
         "Exclusivamente política",
@@ -312,19 +182,6 @@
       "correct": 1,
       "exp": "El art. 127.1.h) LBRL establece que la composición de los tribunales de oposiciones será predominantemente técnica, debiendo poseer todos sus miembros un nivel de titulación igual o superior al exigido para el ingreso en las plazas convocadas.",
       "fuente": "Art. 127.1.h) LBRL (Ley 7/1985)",
-      "confianza": "alta"
-    },
-    {
-      "q": "Según el art. 127.1.a) LBRL, ¿a quién corresponde la aprobación de los proyectos de ordenanzas y reglamentos, incluidos los orgánicos, con excepción de las normas reguladoras del Pleno y sus comisiones?",
-      "options": [
-        "Al Pleno",
-        "A la Junta de Gobierno Local",
-        "Al Alcalde",
-        "Al Consejo Social de la Ciudad"
-      ],
-      "correct": 1,
-      "exp": "El art. 127.1.a) LBRL atribuye a la Junta de Gobierno Local la aprobación de los proyectos de ordenanzas y de los reglamentos, incluidos los orgánicos, con excepción de las normas reguladoras del Pleno y sus comisiones.",
-      "fuente": "Art. 127.1.a) LBRL (Ley 7/1985)",
       "confianza": "alta"
     },
     {
@@ -341,19 +198,6 @@
       "confianza": "alta"
     },
     {
-      "q": "Según el art. 128.1 LBRL, los distritos son divisiones territoriales propias del municipio, dotadas de órganos de gestión desconcentrada, cuya finalidad es:",
-      "options": [
-        "Sustituir a la Junta de Gobierno Local en la gestión ordinaria",
-        "Impulsar y desarrollar la participación ciudadana en la gestión de los asuntos municipales",
-        "Ejercer la potestad tributaria de forma independiente del Ayuntamiento",
-        "Sustituir al Pleno en la aprobación de ordenanzas"
-      ],
-      "correct": 1,
-      "exp": "El art. 128.1 LBRL define los distritos como divisiones territoriales propias, dotadas de órganos de gestión desconcentrada, para impulsar y desarrollar la participación ciudadana en la gestión de los asuntos municipales y su mejora, sin perjuicio de la unidad de gobierno y gestión del municipio.",
-      "fuente": "Art. 128.1 LBRL (Ley 7/1985)",
-      "confianza": "alta"
-    },
-    {
       "q": "Según el art. 128.3 LBRL, ¿a quién corresponde en todo caso la presidencia de un distrito?",
       "options": [
         "A un funcionario de habilitación nacional",
@@ -364,19 +208,6 @@
       "correct": 1,
       "exp": "El art. 128.3 LBRL establece que la presidencia del distrito corresponderá en todo caso a un concejal.",
       "fuente": "Art. 128.3 LBRL (Ley 7/1985)",
-      "confianza": "alta"
-    },
-    {
-      "q": "Según el art. 129.2 LBRL, ¿a quién corresponde nombrar y separar al titular de la asesoría jurídica en los municipios de gran población?",
-      "options": [
-        "Al Pleno",
-        "Al Alcalde",
-        "A la Junta de Gobierno Local",
-        "Al Consejo Social de la Ciudad"
-      ],
-      "correct": 2,
-      "exp": "El art. 129.2 LBRL atribuye a la Junta de Gobierno Local el nombramiento y la separación del titular de la asesoría jurídica, entre personas que reúnan los requisitos de titulación y habilitación que exige el precepto.",
-      "fuente": "Art. 129.2 LBRL (Ley 7/1985)",
       "confianza": "alta"
     },
     {
@@ -406,32 +237,6 @@
       "confianza": "alta"
     },
     {
-      "q": "Según el art. 130.3 LBRL, el nombramiento de los coordinadores generales y directores generales debe efectuarse, como regla general, entre funcionarios de carrera pertenecientes a cuerpos o escalas clasificados en:",
-      "options": [
-        "El subgrupo A1",
-        "El subgrupo A2",
-        "El subgrupo C1",
-        "Cualquier subgrupo, sin distinción"
-      ],
-      "correct": 0,
-      "exp": "El art. 130.3 LBRL exige que el nombramiento de coordinadores generales y directores generales se efectúe, atendiendo a criterios de competencia profesional y experiencia, entre funcionarios de carrera que pertenezcan a cuerpos o escalas clasificados en el subgrupo A1, salvo la excepción que prevé el propio precepto.",
-      "fuente": "Art. 130.3 LBRL (Ley 7/1985)",
-      "confianza": "alta"
-    },
-    {
-      "q": "Según el art. 131.1 LBRL, el Consejo Social de la Ciudad está integrado por representantes de:",
-      "options": [
-        "Los grupos políticos representados en el Pleno",
-        "Las organizaciones económicas, sociales, profesionales y de vecinos más representativas",
-        "Los funcionarios con habilitación de carácter nacional",
-        "Los titulares de los órganos directivos municipales"
-      ],
-      "correct": 1,
-      "exp": "El art. 131.1 LBRL establece que el Consejo Social de la Ciudad estará integrado por representantes de las organizaciones económicas, sociales, profesionales y de vecinos más representativas.",
-      "fuente": "Art. 131.1 LBRL (Ley 7/1985)",
-      "confianza": "alta"
-    },
-    {
       "q": "Según el art. 132.1 LBRL, ¿qué órgano crea el Pleno para la defensa de los derechos de los vecinos ante la Administración municipal?",
       "options": [
         "El Consejo Social de la Ciudad",
@@ -442,19 +247,6 @@
       "correct": 1,
       "exp": "El art. 132.1 LBRL dispone que, para la defensa de los derechos de los vecinos ante la Administración municipal, el Pleno creará una Comisión especial de Sugerencias y Reclamaciones, cuyo funcionamiento se regulará en normas de carácter orgánico.",
       "fuente": "Art. 132.1 LBRL (Ley 7/1985)",
-      "confianza": "alta"
-    },
-    {
-      "q": "Según el art. 132.3 LBRL, ¿con qué periodicidad debe la Comisión Especial de Sugerencias y Reclamaciones dar cuenta al Pleno, mediante un informe, de las quejas presentadas?",
-      "options": [
-        "Mensual",
-        "Trimestral",
-        "Semestral",
-        "Anual, mediante informe anual"
-      ],
-      "correct": 3,
-      "exp": "El art. 132.3 LBRL establece que la Comisión deberá dar cuenta al Pleno, mediante un informe anual, de las quejas presentadas y de las deficiencias observadas, sin perjuicio de que también pueda realizar informes extraordinarios cuando la gravedad o urgencia lo aconsejen.",
-      "fuente": "Art. 132.3 LBRL (Ley 7/1985)",
       "confianza": "alta"
     },
     {
@@ -510,19 +302,6 @@
       "confianza": "alta"
     },
     {
-      "q": "Según el art. 136.3 LBRL, ¿entre quiénes debe nombrarse al titular de la Intervención general municipal?",
-      "options": [
-        "Entre concejales de la Junta de Gobierno Local",
-        "Entre funcionarios de Administración local con habilitación de carácter nacional",
-        "Entre personal laboral fijo del Ayuntamiento",
-        "Entre miembros del Consejo Social de la Ciudad"
-      ],
-      "correct": 1,
-      "exp": "El art. 136.3 LBRL exige que el titular de la Intervención general municipal sea nombrado entre funcionarios de Administración local con habilitación de carácter nacional.",
-      "fuente": "Art. 136.3 LBRL (Ley 7/1985)",
-      "confianza": "alta"
-    },
-    {
       "q": "Según el art. 137.4 LBRL, ¿cuál es el número mínimo de miembros del órgano para la resolución de las reclamaciones económico-administrativas en los municipios de gran población?",
       "options": [
         "Dos",
@@ -533,19 +312,6 @@
       "correct": 1,
       "exp": "El art. 137.4 LBRL exige que el órgano esté constituido por un número impar de miembros, con un mínimo de tres, designados por el Pleno con el voto favorable de la mayoría absoluta de sus miembros.",
       "fuente": "Art. 137.4 LBRL (Ley 7/1985)",
-      "confianza": "alta"
-    },
-    {
-      "q": "Según el art. 137.2 LBRL, la resolución que dicte el órgano para la resolución de las reclamaciones económico-administrativas:",
-      "options": [
-        "Es recurrible en alzada ante el Pleno",
-        "Pone fin a la vía administrativa y sólo cabe contra ella el recurso contencioso-administrativo",
-        "Puede ser recurrida ante la Junta de Gobierno Local",
-        "Requiere ratificación del Alcalde para ser eficaz"
-      ],
-      "correct": 1,
-      "exp": "El art. 137.2 LBRL establece que la resolución que se dicte pone fin a la vía administrativa y contra ella sólo cabrá la interposición del recurso contencioso-administrativo.",
-      "fuente": "Art. 137.2 LBRL (Ley 7/1985)",
       "confianza": "alta"
     },
     {
