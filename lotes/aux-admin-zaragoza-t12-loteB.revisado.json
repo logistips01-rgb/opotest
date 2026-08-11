@@ -1,0 +1,606 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 12,
+  "preguntas": [
+    {
+      "q": "¿Cuál es el hecho imponible de las contribuciones especiales conforme al TRLRHL?",
+      "options": [
+        "La utilización privativa o el aprovechamiento especial del dominio público local",
+        "La obtención por el sujeto pasivo de un beneficio o de un aumento de valor de sus bienes como consecuencia de la realización de obras públicas o del establecimiento o ampliación de servicios públicos de carácter local",
+        "La prestación de un servicio público solicitado voluntariamente por el interesado",
+        "La titularidad de bienes inmuebles situados en el término municipal"
+      ],
+      "correct": 1,
+      "exp": "El art. 28 TRLRHL define el hecho imponible de las contribuciones especiales como la obtención de un beneficio o aumento de valor de los bienes por la realización de obras o el establecimiento/ampliación de servicios públicos locales.",
+      "fuente": "Art. 28 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 28 localizado (linea 1163): hecho imponible coincide literalmente con la opcion correcta."
+    },
+    {
+      "q": "Según el art. 29.1.a) TRLRHL, ¿qué obras o servicios tienen la consideración de locales a efectos de contribuciones especiales?",
+      "options": [
+        "Únicamente los ejecutados directamente por el ayuntamiento sin intervención de terceros",
+        "Solo los que se financien íntegramente con fondos propios de la entidad local",
+        "Exclusivamente las obras declaradas de interés general por el Estado",
+        "Los que realicen las entidades locales dentro del ámbito de sus competencias para cumplir los fines que les estén atribuidos, salvo los que ejecuten a título de dueños de sus bienes patrimoniales"
+      ],
+      "correct": 3,
+      "exp": "El art. 29.1.a) TRLRHL considera obra o servicio local el ejecutado por la entidad local en el ámbito de sus competencias, salvo a título de dueño de bienes patrimoniales.",
+      "fuente": "Art. 29.1.a) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 29.1.a) localizado (linea 1169): texto coincide con la opcion correcta."
+    },
+    {
+      "q": "El art. 29.1.c) TRLRHL atribuye también la consideración de obras o servicios locales a:",
+      "options": [
+        "Los que realicen otras entidades públicas, o sus concesionarios, con aportaciones económicas de la entidad local",
+        "Los ejecutados por el Estado sin ninguna participación económica local",
+        "Los realizados por particulares sin ningún tipo de aportación pública",
+        "Los declarados de utilidad pública por la comunidad autónoma"
+      ],
+      "correct": 0,
+      "exp": "El art. 29.1.c) TRLRHL atribuye la consideración de obra o servicio local a los realizados por otras entidades públicas o sus concesionarios con aportación económica de la entidad local.",
+      "fuente": "Art. 29.1.c) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 29.1.c) localizado (linea 1171): texto coincide con la opcion correcta."
+    },
+    {
+      "q": "De acuerdo con el art. 29.2 TRLRHL, las obras o servicios del art. 29.1.a) no pierden su consideración de locales aunque sean realizados por:",
+      "options": [
+        "Empresas privadas sin ninguna vinculación con la entidad local",
+        "Otras entidades locales limítrofes sin acuerdo previo",
+        "Organismos autónomos o sociedades mercantiles cuyo capital pertenezca íntegramente a una entidad local, concesionarios con aportaciones de dicha entidad, o asociaciones de contribuyentes",
+        "La Administración General del Estado en exclusiva"
+      ],
+      "correct": 2,
+      "exp": "El art. 29.2 TRLRHL aclara que las obras del art. 29.1.a) no pierden su condición de locales aunque las realicen organismos autónomos, sociedades mercantiles íntegramente públicas, concesionarios con aportación local o asociaciones de contribuyentes.",
+      "fuente": "Art. 29.2 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 29.2 localizado (linea 1172): enumeracion de organismos/sociedades/concesionarios/asociaciones coincide."
+    },
+    {
+      "q": "¿A qué pueden destinarse las cantidades recaudadas por contribuciones especiales según el art. 29.3 TRLRHL?",
+      "options": [
+        "A cualquier gasto corriente del presupuesto municipal",
+        "Exclusivamente a sufragar los gastos de la obra o del servicio por cuya razón se hubiesen exigido",
+        "A la financiación de nuevas obras distintas de las que motivaron su exigencia",
+        "A la amortización de la deuda pública municipal en general"
+      ],
+      "correct": 1,
+      "exp": "El art. 29.3 TRLRHL limita el destino de lo recaudado por contribuciones especiales a los gastos de la obra o servicio que las originó.",
+      "fuente": "Art. 29.3 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 29.3 localizado (linea 1173): destino exclusivo a la obra/servicio coincide."
+    },
+    {
+      "q": "Según el art. 30.1 TRLRHL, ¿quiénes son sujetos pasivos de las contribuciones especiales?",
+      "options": [
+        "Únicamente los propietarios de bienes inmuebles colindantes con la obra",
+        "Solo las empresas concesionarias que ejecuten materialmente la obra",
+        "Cualquier residente en el municipio, beneficiado o no por la obra",
+        "Las personas físicas y jurídicas y las entidades del art. 35.4 de la Ley General Tributaria especialmente beneficiadas por la realización de las obras o el establecimiento o ampliación de los servicios locales"
+      ],
+      "correct": 3,
+      "exp": "El art. 30.1 TRLRHL remite al art. 35.4 LGT y exige que el sujeto pasivo resulte especialmente beneficiado por la obra o servicio.",
+      "fuente": "Art. 30.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 30.1 localizado (linea 1179-1182): remision al art. 35.4 LGT y beneficio especial coinciden."
+    },
+    {
+      "q": "El art. 30.2.a) TRLRHL considera personas especialmente beneficiadas, en las contribuciones especiales por obras que afecten a bienes inmuebles, a:",
+      "options": [
+        "Sus propietarios",
+        "Los arrendatarios de dichos inmuebles",
+        "Los ocupantes precarios del inmueble",
+        "Cualquier titular de un derecho real de garantía sobre el inmueble"
+      ],
+      "correct": 0,
+      "exp": "El art. 30.2.a) TRLRHL considera especialmente beneficiados, en obras que afecten a bienes inmuebles, a sus propietarios.",
+      "fuente": "Art. 30.2.a) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 30.2.a) localizado (linea 1184): propietarios como beneficiados en obras sobre inmuebles, coincide."
+    },
+    {
+      "q": "En las contribuciones especiales por establecimiento o ampliación de servicios de extinción de incendios, el art. 30.2.c) TRLRHL considera especialmente beneficiadas, además de a los propietarios de los bienes afectados, a:",
+      "options": [
+        "Los cuerpos de bomberos voluntarios del municipio",
+        "Las empresas suministradoras de energía eléctrica",
+        "Las compañías de seguros que desarrollen su actividad en el ramo en el término municipal correspondiente",
+        "Los titulares de licencias de actividad clasificada"
+      ],
+      "correct": 2,
+      "exp": "El art. 30.2.c) TRLRHL añade a los propietarios de bienes afectados, como especialmente beneficiadas, a las compañías de seguros del ramo que operen en el municipio.",
+      "fuente": "Art. 30.2.c) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 30.2.c) localizado (linea 1186): companias de seguros del ramo ademas de propietarios, coincide."
+    },
+    {
+      "q": "¿Cuál es el porcentaje máximo del coste que puede constituir la base imponible de las contribuciones especiales según el art. 31.1 TRLRHL?",
+      "options": [
+        "El 100 por ciento del coste total de la obra",
+        "El 90 por ciento del coste que la entidad local soporte por la realización de las obras o el establecimiento o ampliación de los servicios",
+        "El 50 por ciento del coste soportado por la entidad local",
+        "El 75 por ciento del coste presupuestado"
+      ],
+      "correct": 1,
+      "exp": "El art. 31.1 TRLRHL fija en el 90 por ciento del coste soportado por la entidad local el máximo de la base imponible.",
+      "fuente": "Art. 31.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 31.1 localizado (linea 1194): limite del 90 por ciento del coste soportado, coincide."
+    },
+    {
+      "q": "Entre los conceptos que integran el coste de las obras a efectos de la base imponible de las contribuciones especiales, el art. 31.2.a) TRLRHL incluye:",
+      "options": [
+        "Los gastos de publicidad institucional de la entidad local",
+        "Los gastos de personal funcionario ajenos a la obra",
+        "El coste de mantenimiento posterior a la finalización de la obra",
+        "El coste real de los trabajos periciales, de redacción de proyectos y de dirección de obras, planes y programas técnicos"
+      ],
+      "correct": 3,
+      "exp": "El art. 31.2.a) TRLRHL incluye en el coste el importe de los trabajos periciales, proyectos y dirección de obras.",
+      "fuente": "Art. 31.2.a) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 31.2.a) localizado (linea 1196): coste real de trabajos periciales/proyectos/direccion de obras, coincide."
+    },
+    {
+      "q": "Según el art. 31.3 TRLRHL, si el coste real de las obras o servicios fuese mayor o menor que el presupuestado inicialmente, ¿qué coste se tomará para el cálculo de las cuotas?",
+      "options": [
+        "El coste real, ya que el coste total presupuestado tiene carácter de mera previsión",
+        "Siempre el coste presupuestado inicialmente, sin posibilidad de modificación",
+        "La media aritmética entre el coste presupuestado y el coste real",
+        "El coste que resulte más favorable para la entidad local"
+      ],
+      "correct": 0,
+      "exp": "El art. 31.3 TRLRHL establece que el coste presupuestado es una mera previsión y que a efectos del cálculo de cuotas se toma el coste real.",
+      "fuente": "Art. 31.3 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 31.3 localizado (linea 1203): coste presupuestado es mera prevision, se toma el coste real; interpretacion gramatical de \"aquel\" verificada (se refiere al coste real, primer termino mencionado en la frase), coincide con la opcion correcta."
+    },
+    {
+      "q": "A efectos de determinar la base imponible, ¿cómo se calcula el coste soportado por la entidad local según el art. 31.5 TRLRHL?",
+      "options": [
+        "Sumando al coste total el importe de todas las subvenciones recibidas",
+        "Aplicando directamente el coste total presupuestado sin ajustes",
+        "Restando a la cifra del coste total el importe de las subvenciones o auxilios que la entidad local obtenga del Estado o de cualquier otra persona o entidad pública o privada",
+        "Multiplicando el coste total por el porcentaje de beneficio obtenido por los sujetos pasivos"
+      ],
+      "correct": 2,
+      "exp": "El art. 31.5 TRLRHL determina el coste soportado restando al coste total las subvenciones o auxilios obtenidos por la entidad local.",
+      "fuente": "Art. 31.5 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 31.5 localizado (linea 1205): coste soportado = coste total menos subvenciones/auxilios, coincide."
+    },
+    {
+      "q": "Con carácter general, ¿qué módulos de reparto pueden aplicarse conjunta o separadamente para distribuir la base imponible de las contribuciones especiales según el art. 32.1.a) TRLRHL?",
+      "options": [
+        "Exclusivamente el número de habitantes empadronados en cada inmueble",
+        "Los metros lineales de fachada de los inmuebles, su superficie, su volumen edificable y el valor catastral a efectos del IBI",
+        "Únicamente la renta declarada por cada sujeto pasivo",
+        "Solo el valor de mercado actualizado de cada inmueble"
+      ],
+      "correct": 1,
+      "exp": "El art. 32.1.a) TRLRHL enumera como módulos de reparto generales los metros lineales de fachada, superficie, volumen edificable y valor catastral a efectos del IBI.",
+      "fuente": "Art. 32.1.a) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 32.1.a) localizado (linea 1214): modulos de reparto (fachada, superficie, volumen, valor catastral IBI), coincide."
+    },
+    {
+      "q": "En las contribuciones especiales por establecimiento y mejora del servicio de extinción de incendios, si la cuota exigible a un sujeto pasivo supera el 5 por ciento del importe de las primas recaudadas por este, según el art. 32.1.b) TRLRHL, el exceso:",
+      "options": [
+        "Se condona automáticamente sin más trámite",
+        "Se repercute íntegramente sobre los propietarios de los bienes afectados",
+        "Se ingresa en un fondo estatal de compensación de riesgos",
+        "Se trasladará a los ejercicios sucesivos hasta su total amortización"
+      ],
+      "correct": 3,
+      "exp": "El art. 32.1.b) TRLRHL dispone que el exceso de cuota sobre el 5 por ciento de las primas recaudadas se traslada a ejercicios sucesivos hasta su total amortización.",
+      "fuente": "Art. 32.1.b) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 32.1.b) localizado (linea 1215): exceso sobre el 5% de primas se traslada a ejercicios sucesivos, coincide."
+    },
+    {
+      "q": "En las obras relativas a galerías subterráneas del art. 30.2.d) TRLRHL, el art. 32.1.c) TRLRHL distribuye el importe total de la contribución especial entre las compañías o empresas que hayan de utilizarlas en función de:",
+      "options": [
+        "El espacio reservado a cada una o en proporción a la total sección de aquellas, aun cuando no las usen inmediatamente",
+        "El número de empleados de cada empresa suministradora",
+        "La facturación anual de cada compañía en el municipio",
+        "El orden de antigüedad de cada empresa en el sector"
+      ],
+      "correct": 0,
+      "exp": "El art. 32.1.c) TRLRHL reparte el importe de la contribución especial por galerías subterráneas en función del espacio reservado o de la sección total, aunque no se use de inmediato.",
+      "fuente": "Art. 32.1.c) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 32.1.c) y art. 30.2.d) localizados (lineas 1216 y 1187): galerias subterraneas, reparto por espacio reservado/seccion total, coincide."
+    },
+    {
+      "q": "Una vez determinada la cuota a satisfacer por contribuciones especiales, ¿por qué plazo máximo puede la corporación conceder el fraccionamiento o aplazamiento de aquella, según el art. 32.3 TRLRHL?",
+      "options": [
+        "Dos años",
+        "Diez años",
+        "Cinco años",
+        "Un año"
+      ],
+      "correct": 2,
+      "exp": "El art. 32.3 TRLRHL permite conceder el fraccionamiento o aplazamiento de la cuota por un plazo máximo de cinco años.",
+      "fuente": "Art. 32.3 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 32.3 localizado (linea 1218): fraccionamiento/aplazamiento maximo de cinco anos, coincide."
+    },
+    {
+      "q": "¿Cuándo se devengan las contribuciones especiales según el art. 33.1 TRLRHL?",
+      "options": [
+        "En el momento de la aprobación del acuerdo de ordenación, con independencia de la ejecución",
+        "En el momento en que las obras se hayan ejecutado o el servicio haya comenzado a prestarse",
+        "En el momento de la notificación individual de la cuota a cada sujeto pasivo",
+        "En el momento de la solicitud de la licencia de obras"
+      ],
+      "correct": 1,
+      "exp": "El art. 33.1 TRLRHL sitúa el devengo de las contribuciones especiales en la ejecución de la obra o el inicio de la prestación del servicio.",
+      "fuente": "Art. 33.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 33.1 localizado (linea 1222): devengo con ejecucion de obra o inicio de prestacion del servicio, coincide."
+    },
+    {
+      "q": "Según el art. 33.2 TRLRHL, una vez aprobado el acuerdo concreto de imposición y ordenación, ¿puede la entidad local exigir el pago anticipado de las contribuciones especiales?",
+      "options": [
+        "No, en ningún caso, hasta que las obras estén totalmente finalizadas",
+        "Sí, pero solo con autorización expresa del Ministerio de Hacienda",
+        "Sí, únicamente si lo solicitan todos los sujetos pasivos por unanimidad",
+        "Sí, en función del importe del coste previsto para el año siguiente, sin poder exigir el anticipo de una nueva anualidad sin que se hayan ejecutado las obras del anticipo anterior"
+      ],
+      "correct": 3,
+      "exp": "El art. 33.2 TRLRHL permite exigir el pago anticipado en función del coste previsto para el año siguiente, condicionado a la ejecución previa de las obras ya anticipadas.",
+      "fuente": "Art. 33.2 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 33.2 localizado (linea 1223): pago anticipado segun coste previsto del ano siguiente, sin anticipo de nueva anualidad sin ejecucion previa, coincide."
+    },
+    {
+      "q": "Si quien figura como sujeto pasivo en el acuerdo concreto de ordenación transmite los derechos sobre los bienes que motivan la imposición antes del devengo, ¿de qué plazo dispone para comunicarlo a la Administración según el art. 33.3 TRLRHL?",
+      "options": [
+        "Un mes desde la fecha de la transmisión",
+        "Quince días desde la fecha de la transmisión",
+        "Tres meses desde la fecha de la transmisión",
+        "Seis meses desde la fecha de la transmisión"
+      ],
+      "correct": 0,
+      "exp": "El art. 33.3 TRLRHL obliga a dar cuenta de la transmisión de derechos a la Administración dentro del plazo de un mes desde su fecha.",
+      "fuente": "Art. 33.3 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 33.3 localizado (linea 1224, tercer apartado numerado): plazo de un mes desde la transmision para comunicarla, coincide."
+    },
+    {
+      "q": "Según el art. 34.1 y 2 TRLRHL, ¿qué debe adoptarse con carácter previo a la exacción de las contribuciones especiales, y qué efecto tiene sobre la ejecución de la obra?",
+      "options": [
+        "Basta con la aprobación de los presupuestos anuales de la entidad local",
+        "Un informe no vinculante de la Diputación Provincial",
+        "Un acuerdo de imposición en cada caso concreto, sin que la obra pueda ejecutarse hasta que se apruebe además la ordenación concreta de las contribuciones",
+        "Un acuerdo de ordenación general, sin necesidad de acuerdo de imposición específico"
+      ],
+      "correct": 2,
+      "exp": "Los apartados 1 y 2 del art. 34 TRLRHL exigen acuerdo de imposición previo y prohíben ejecutar la obra hasta que se apruebe la ordenación concreta.",
+      "fuente": "Art. 34.1 y 34.2 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 34.1 y 34.2 localizados (lineas 1234-1235): acuerdo de imposicion previo y prohibicion de ejecutar sin ordenacion concreta, coincide."
+    },
+    {
+      "q": "Una vez notificadas individualmente las cuotas de contribuciones especiales, ¿qué recurso pueden formular los interesados según el art. 34.4 TRLRHL?",
+      "options": [
+        "Recurso de alzada ante la comunidad autónoma",
+        "Recurso de reposición ante el ayuntamiento, que puede versar sobre la procedencia de las contribuciones, el porcentaje del coste a satisfacer o las cuotas asignadas",
+        "Recurso contencioso-administrativo directo sin recurso previo posible",
+        "Recurso de súplica ante el Tribunal Superior de Justicia"
+      ],
+      "correct": 1,
+      "exp": "El art. 34.4 TRLRHL habilita el recurso de reposición ante el ayuntamiento sobre procedencia, porcentaje del coste o cuotas asignadas.",
+      "fuente": "Art. 34.4 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 34.4 localizado (linea 1237): recurso de reposicion ante el ayuntamiento sobre procedencia/porcentaje/cuotas, coincide."
+    },
+    {
+      "q": "Cuando las obras o servicios sean realizados por una entidad local con la colaboración económica de otra y se impongan contribuciones especiales, ¿a quién corresponde la gestión y recaudación según el art. 35.1 TRLRHL?",
+      "options": [
+        "Siempre a la Diputación Provincial correspondiente",
+        "A la Agencia Estatal de Administración Tributaria en todo caso",
+        "A ambas entidades por mitad, con independencia de quién ejecute la obra",
+        "A la entidad que tome a su cargo la realización de las obras o el establecimiento o ampliación de los servicios"
+      ],
+      "correct": 3,
+      "exp": "El art. 35.1 TRLRHL atribuye la gestión y recaudación a la entidad que asuma la ejecución de la obra o el establecimiento del servicio.",
+      "fuente": "Art. 35.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 35.1 localizado (linea 1241): gestion y recaudacion por la entidad que ejecuta la obra/servicio, coincide."
+    },
+    {
+      "q": "Según el art. 36.1 TRLRHL, ¿qué pueden hacer los propietarios o titulares afectados por unas obras para promover su realización por la entidad local?",
+      "options": [
+        "Constituirse en asociación administrativa de contribuyentes, comprometiéndose a sufragar la parte que corresponda a la entidad local si su situación financiera no lo permitiera",
+        "Exigir a la entidad local la ejecución inmediata sin ningún compromiso económico",
+        "Solicitar la expropiación forzosa de los terrenos colindantes",
+        "Constituirse en una sociedad mercantil de capital íntegramente privado"
+      ],
+      "correct": 0,
+      "exp": "El art. 36.1 TRLRHL permite a los afectados constituirse en asociación administrativa de contribuyentes para promover la obra, asumiendo la parte de la entidad local si esta no puede financiarla.",
+      "fuente": "Art. 36.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 36.1 localizado (linea 1249): asociacion administrativa de contribuyentes y compromiso de sufragar la parte de la entidad local, coincide."
+    },
+    {
+      "q": "¿Qué mayoría se exige para constituir una asociación administrativa de contribuyentes según el art. 37 TRLRHL?",
+      "options": [
+        "Mayoría simple de los afectados, sin exigencia adicional sobre las cuotas",
+        "Unanimidad de todos los afectados por la obra",
+        "Mayoría absoluta de los afectados, siempre que representen al menos los dos tercios de las cuotas que deban satisfacerse",
+        "Mayoría de tres quintos de los afectados, representando la mitad de las cuotas"
+      ],
+      "correct": 2,
+      "exp": "El art. 37 TRLRHL exige mayoría absoluta de afectados que representen, al menos, dos tercios de las cuotas para constituir la asociación administrativa de contribuyentes.",
+      "fuente": "Art. 37 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 37 localizado (linea 1254): mayoria absoluta de afectados representando al menos dos tercios de las cuotas, coincide."
+    },
+    {
+      "q": "Según el art. 38.1 TRLRHL, ¿necesitan las entidades locales un acuerdo de imposición para exigir los impuestos previstos en la ley?",
+      "options": [
+        "Sí, siempre es necesario un acuerdo de imposición previo para cualquier impuesto",
+        "No, salvo en los casos en que dicho acuerdo se requiera expresamente por la propia ley",
+        "Sí, pero solo si el impuesto supera una determinada cuantía",
+        "No, en ningún caso puede exigirse acuerdo de imposición para los impuestos"
+      ],
+      "correct": 1,
+      "exp": "El art. 38.1 TRLRHL exime a las entidades locales de necesitar acuerdo de imposición para exigir los impuestos previstos, salvo que la ley lo requiera expresamente.",
+      "fuente": "Art. 38.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 38.1 localizado (linea 1261, bajo Seccion 5a \"Impuestos y recargos\"): confirmada la renumeracion real (art. 38 = impuestos y recargos, no arts. 28-38 como decia el encargo original); texto coincide."
+    },
+    {
+      "q": "Fuera de los supuestos expresamente previstos en la ley, ¿sobre qué impuestos pueden las entidades locales establecer recargos según el art. 38.2 TRLRHL?",
+      "options": [
+        "Sobre cualquier impuesto estatal sin necesidad de habilitación legal",
+        "Únicamente sobre el Impuesto sobre la Renta de las Personas Físicas",
+        "Sobre los impuestos de otras entidades locales sin límite ni habilitación previa",
+        "Sobre los impuestos propios de la respectiva comunidad autónoma y de otras entidades locales, en los casos previstos en las leyes de la comunidad autónoma"
+      ],
+      "correct": 3,
+      "exp": "El art. 38.2 TRLRHL permite establecer recargos sobre impuestos propios de la comunidad autónoma y de otras entidades locales, cuando lo prevean las leyes autonómicas.",
+      "fuente": "Art. 38.2 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 38.2 localizado (linea 1262): recargos sobre impuestos propios de CCAA y de otras entidades locales en los casos previstos por ley autonomica, coincide."
+    },
+    {
+      "q": "Según el art. 39.1 TRLRHL, ¿en qué participan las entidades locales respecto de los tributos del Estado?",
+      "options": [
+        "Participan en la cuantía y según los criterios que se establecen en la propia ley",
+        "No tienen derecho a participación alguna en los tributos estatales",
+        "Participan únicamente si así lo acuerda anualmente el Consejo de Ministros",
+        "Participan solo las entidades locales de más de 500.000 habitantes"
+      ],
+      "correct": 0,
+      "exp": "El art. 39.1 TRLRHL reconoce la participación de las entidades locales en los tributos del Estado en la cuantía y criterios de la propia ley.",
+      "fuente": "Art. 39.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 39.1 localizado (linea 1270, bajo Capitulo IV \"Participaciones en los tributos del Estado y de las CCAA\"): confirmada la renumeracion real (art. 39 = participacion, no art. 40 como decia el encargo original); texto coincide."
+    },
+    {
+      "q": "¿Cómo participan las entidades locales en los tributos propios de las comunidades autónomas según el art. 39.2 TRLRHL?",
+      "options": [
+        "En un porcentaje fijo del 10 por ciento establecido directamente por el TRLRHL",
+        "Solo mediante convenio bilateral aprobado por las Cortes Generales",
+        "En la forma y cuantía que se determine por las leyes de los respectivos Parlamentos autonómicos",
+        "No existe participación alguna de las entidades locales en tributos autonómicos"
+      ],
+      "correct": 2,
+      "exp": "El art. 39.2 TRLRHL remite a las leyes de los Parlamentos autonómicos la forma y cuantía de la participación local en los tributos propios de las CCAA.",
+      "fuente": "Art. 39.2 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 39.2 localizado (linea 1271): participacion en tributos propios de CCAA segun leyes de los Parlamentos autonomicos, coincide."
+    },
+    {
+      "q": "¿Para qué pueden las entidades locales establecer precios públicos según el art. 41 TRLRHL?",
+      "options": [
+        "Únicamente por la utilización privativa del dominio público local",
+        "Por la prestación de servicios o la realización de actividades de la competencia de la entidad local, siempre que no concurra ninguna de las circunstancias del art. 20.1.B) de la ley",
+        "Solo por servicios prestados a otras administraciones públicas",
+        "Exclusivamente por actividades de fomento del empleo local"
+      ],
+      "correct": 1,
+      "exp": "El art. 41 TRLRHL condiciona el establecimiento de precios públicos a que no concurran las circunstancias del art. 20.1.B) de la ley.",
+      "fuente": "Art. 41 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 41 localizado (linea 1292): precios publicos condicionados a que no concurran las circunstancias del art. 20.1.B), coincide. (Art. 40, subvenciones, queda correctamente fuera del lote.)"
+    },
+    {
+      "q": "Según el art. 42 TRLRHL, ¿pueden exigirse precios públicos por los servicios y actividades enumerados en el art. 21 de la ley?",
+      "options": [
+        "Sí, siempre que lo apruebe el Pleno por mayoría absoluta",
+        "Sí, pero solo con carácter transitorio durante un ejercicio presupuestario",
+        "Sí, si medía informe favorable de la Diputación Provincial",
+        "No, esos servicios y actividades están excluidos de la exigencia de precios públicos"
+      ],
+      "correct": 3,
+      "exp": "El art. 42 TRLRHL excluye de la exigencia de precios públicos los servicios y actividades enumerados en el art. 21 de la ley.",
+      "fuente": "Art. 42 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 42 localizado (linea 1296): exclusion de precios publicos para servicios del art. 21, coincide."
+    },
+    {
+      "q": "¿Quiénes están obligados al pago de los precios públicos según el art. 43 TRLRHL?",
+      "options": [
+        "Quienes se beneficien de los servicios o actividades por los que deban satisfacerse aquellos",
+        "Únicamente los propietarios de inmuebles situados en el término municipal",
+        "Todos los residentes empadronados en el municipio, se beneficien o no",
+        "Solo las personas jurídicas que contraten con la entidad local"
+      ],
+      "correct": 0,
+      "exp": "El art. 43 TRLRHL obliga al pago de los precios públicos a quienes se beneficien de los servicios o actividades correspondientes.",
+      "fuente": "Art. 43 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 43 localizado (linea 1303): obligados al pago quienes se beneficien del servicio/actividad, coincide."
+    },
+    {
+      "q": "¿Qué debe cubrir, como mínimo, el importe de los precios públicos según el art. 44.1 TRLRHL?",
+      "options": [
+        "El doble del coste del servicio prestado",
+        "El coste medio de servicios similares en municipios limítrofes",
+        "El coste del servicio prestado o de la actividad realizada",
+        "Un porcentaje fijado anualmente por el Ministerio de Hacienda"
+      ],
+      "correct": 2,
+      "exp": "El art. 44.1 TRLRHL exige que el importe del precio público cubra, como mínimo, el coste del servicio o actividad.",
+      "fuente": "Art. 44.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 44.1 localizado (linea 1311): importe minimo = coste del servicio/actividad, coincide."
+    },
+    {
+      "q": "Cuando existan razones sociales, benéficas, culturales o de interés público, según el art. 44.2 TRLRHL, ¿puede la entidad local fijar precios públicos por debajo del coste del servicio?",
+      "options": [
+        "No, el importe debe cubrir siempre el coste íntegro sin excepción",
+        "Sí, debiendo consignar en los presupuestos de la entidad las dotaciones oportunas para cubrir la diferencia resultante",
+        "Sí, pero solo con autorización previa del Estado",
+        "Sí, sin necesidad de consignar dotación presupuestaria alguna"
+      ],
+      "correct": 1,
+      "exp": "El art. 44.2 TRLRHL permite fijar precios públicos por debajo del coste por razones sociales, benéficas, culturales o de interés público, consignando la dotación presupuestaria oportuna.",
+      "fuente": "Art. 44.2 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 44.2 localizado (linea 1312): precios por debajo del coste por razones sociales/beneficas/culturales/interes publico, con dotacion presupuestaria, coincide."
+    },
+    {
+      "q": "¿En qué régimen pueden las entidades locales exigir los precios públicos según el art. 45 TRLRHL?",
+      "options": [
+        "Exclusivamente mediante liquidación practicada por la Administración del Estado",
+        "Únicamente mediante subasta pública previa",
+        "En régimen de estimación objetiva obligatoria",
+        "En régimen de autoliquidación"
+      ],
+      "correct": 3,
+      "exp": "El art. 45 TRLRHL permite a las entidades locales exigir los precios públicos en régimen de autoliquidación.",
+      "fuente": "Art. 45 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 45 localizado (linea 1316): regimen de autoliquidacion, coincide."
+    },
+    {
+      "q": "Según el art. 46.1 TRLRHL, ¿desde cuándo nace la obligación de pagar el precio público?",
+      "options": [
+        "Desde que se inicia la prestación del servicio o la realización de la actividad, pudiendo exigirse el depósito previo de su importe total o parcial",
+        "Desde la fecha de aprobación de la ordenanza que lo regula, con independencia de la prestación efectiva",
+        "Desde que finaliza completamente la prestación del servicio",
+        "Desde el primer día del ejercicio presupuestario siguiente"
+      ],
+      "correct": 0,
+      "exp": "El art. 46.1 TRLRHL fija el nacimiento de la obligación de pago desde el inicio de la prestación, permitiendo exigir depósito previo.",
+      "fuente": "Art. 46.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 46.1 localizado (linea 1323): nacimiento de la obligacion desde el inicio de la prestacion, con posible deposito previo, coincide."
+    },
+    {
+      "q": "Si por causas no imputables al obligado al pago el servicio o actividad no se presta o desarrolla, ¿qué procede según el art. 46.2 TRLRHL?",
+      "options": [
+        "La conservación íntegra del importe abonado a favor de la entidad local",
+        "La compensación automática con otras deudas tributarias del obligado",
+        "La devolución del importe correspondiente",
+        "El fraccionamiento obligatorio del importe pagado en cinco anualidades"
+      ],
+      "correct": 2,
+      "exp": "El art. 46.2 TRLRHL ordena la devolución del importe cuando el servicio o actividad no se presta por causas no imputables al obligado al pago.",
+      "fuente": "Art. 46.2 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 46.2 localizado (linea 1324): devolucion del importe si el servicio no se presta por causa no imputable al obligado, coincide."
+    },
+    {
+      "q": "¿Por qué procedimiento pueden exigirse las deudas por precios públicos según el art. 46.3 TRLRHL?",
+      "options": [
+        "Únicamente por la vía civil ordinaria",
+        "Por el procedimiento administrativo de apremio",
+        "Exclusivamente mediante compensación con subvenciones futuras",
+        "Por el procedimiento penal de responsabilidad civil"
+      ],
+      "correct": 1,
+      "exp": "El art. 46.3 TRLRHL permite exigir las deudas por precios públicos mediante el procedimiento administrativo de apremio.",
+      "fuente": "Art. 46.3 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 46.3 localizado (linea 1325): procedimiento administrativo de apremio, coincide."
+    },
+    {
+      "q": "¿A quién corresponde el establecimiento o modificación de los precios públicos según el art. 47.1 TRLRHL?",
+      "options": [
+        "Al alcalde en exclusiva, sin posibilidad de delegación",
+        "A la Junta de Gobierno Local en todo caso, sin intervención del Pleno",
+        "A la Diputación Provincial correspondiente",
+        "Al Pleno de la corporación, sin perjuicio de sus facultades de delegación en la Comisión de Gobierno"
+      ],
+      "correct": 3,
+      "exp": "El art. 47.1 TRLRHL atribuye al Pleno el establecimiento o modificación de los precios públicos, sin perjuicio de la delegación en la Comisión de Gobierno.",
+      "fuente": "Art. 47.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 47.1 localizado (linea 1332): competencia del Pleno, sin perjuicio de delegacion en la Comision de Gobierno, coincide."
+    },
+    {
+      "q": "Según el art. 47.2 TRLRHL, ¿pueden las entidades locales atribuir a sus organismos autónomos la fijación de los precios públicos de los servicios a su cargo?",
+      "options": [
+        "Sí, salvo cuando los precios no cubran el coste del servicio",
+        "No, esa competencia es indelegable y corresponde siempre al Pleno",
+        "Sí, en todo caso y sin ninguna excepción",
+        "Sí, pero únicamente si lo autoriza previamente el Ministerio de Hacienda"
+      ],
+      "correct": 0,
+      "exp": "El art. 47.2 TRLRHL permite atribuir a los organismos autónomos la fijación de los precios públicos de sus servicios, salvo que no cubran el coste.",
+      "fuente": "Art. 47.2 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 47.2 localizado (linea 1335, primera frase): atribucion a organismos autonomos salvo que no cubran el coste, coincide."
+    },
+    {
+      "q": "Cuando un organismo autónomo o un consorcio fija los precios públicos de los servicios a su cargo, ¿qué obligación le impone el art. 47.2 TRLRHL frente al ente local del que dependen?",
+      "options": [
+        "Publicar la propuesta en el Boletín Oficial del Estado antes de su aplicación",
+        "Someter la propuesta a información pública durante seis meses",
+        "Enviar copia de la propuesta y del estado económico del que se desprenda que los precios cubren el coste del servicio",
+        "Solicitar autorización previa de la comunidad autónoma correspondiente"
+      ],
+      "correct": 2,
+      "exp": "El art. 47.2 TRLRHL obliga a los organismos autónomos y consorcios a enviar al ente local copia de la propuesta y del estado económico acreditativo de la cobertura del coste.",
+      "fuente": "Art. 47.2 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 47.2 localizado (linea 1336, segunda frase): obligacion de enviar copia de la propuesta y del estado economico acreditativo del coste, coincide."
+    }
+  ]
+}

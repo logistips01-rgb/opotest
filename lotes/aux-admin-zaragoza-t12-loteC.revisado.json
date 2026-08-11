@@ -1,0 +1,606 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 12,
+  "preguntas": [
+    {
+      "q": "¿Qué naturaleza tiene el Impuesto sobre Bienes Inmuebles (IBI) conforme al art. 60 TRLRHL?",
+      "options": [
+        "Tributo directo de carácter real que grava el valor de los bienes inmuebles",
+        "Tributo indirecto de carácter real",
+        "Tributo directo de carácter personal",
+        "Tasa municipal de carácter real"
+      ],
+      "correct": 0,
+      "exp": "El art. 60 TRLRHL define el IBI como un tributo directo de carácter real que grava el valor de los bienes inmuebles en los términos establecidos en la ley.",
+      "fuente": "Art. 60 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 60: texto literal 'tributo directo de carácter real que grava el valor de los bienes inmuebles en los términos establecidos en esta ley'. Coincide con exp y opción correcta."
+    },
+    {
+      "q": "Según el art. 61.1 TRLRHL, ¿cuál de los siguientes derechos NO constituye hecho imponible del IBI?",
+      "options": [
+        "Concesión administrativa sobre el inmueble",
+        "Derecho real de superficie",
+        "Derecho real de servidumbre",
+        "Derecho de propiedad"
+      ],
+      "correct": 2,
+      "exp": "El art. 61.1 TRLRHL enumera como hecho imponible la concesión administrativa, el derecho real de superficie, el derecho real de usufructo y el derecho de propiedad; la servidumbre no figura entre ellos.",
+      "fuente": "Art. 61.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 61.1: enumera concesión administrativa, derecho real de superficie, derecho real de usufructo y derecho de propiedad; la servidumbre no aparece. Opción correcta (servidumbre) confirmada."
+    },
+    {
+      "q": "Cuando concurren varios de los derechos del art. 61.1 TRLRHL sobre un mismo inmueble, ¿qué efecto produce, según el art. 61.2, la realización del hecho imponible de mayor prelación?",
+      "options": [
+        "Se aplican simultáneamente todas las modalidades",
+        "Determina la no sujeción del inmueble a las restantes modalidades previstas en el mismo apartado",
+        "Se suspende el devengo del impuesto ese ejercicio",
+        "Se declara exento el inmueble"
+      ],
+      "correct": 1,
+      "exp": "El art. 61.2 TRLRHL establece que la realización del hecho imponible de mayor prelación determina la no sujeción del inmueble a las restantes modalidades previstas en el apartado 1.",
+      "fuente": "Art. 61.2 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 61.2: 'la realización del hecho imponible... determinará la no sujeción del inmueble... a las restantes modalidades en el mismo previstas'. Coincide."
+    },
+    {
+      "q": "¿Qué bienes declara no sujetos al IBI el art. 61.5.a) TRLRHL, siempre que sean de aprovechamiento público y gratuito para los usuarios?",
+      "options": [
+        "Los solares urbanos sin edificar",
+        "Las carreteras, caminos y demás vías terrestres y los bienes de dominio público marítimo-terrestre e hidráulico",
+        "Los inmuebles arrendados a particulares",
+        "Las viviendas de protección oficial"
+      ],
+      "correct": 1,
+      "exp": "El art. 61.5.a) TRLRHL excluye de sujeción las carreteras, caminos, demás vías terrestres y los bienes del dominio público marítimo-terrestre e hidráulico de aprovechamiento público y gratuito.",
+      "fuente": "Art. 61.5.a) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 61.5.a): 'Las carreteras, los caminos, las demás vías terrestres y los bienes del dominio público marítimo-terrestre e hidráulico, siempre que sean de aprovechamiento público y gratuito para los usuarios'. Coincide literalmente."
+    },
+    {
+      "q": "El art. 62.1.a) TRLRHL declara exentos del IBI los inmuebles propiedad del Estado, CCAA o entidades locales directamente afectos a determinados fines. ¿Cuáles?",
+      "options": [
+        "Seguridad ciudadana, servicios educativos y penitenciarios, y los del Estado afectos a la defensa nacional",
+        "Todos los inmuebles de titularidad pública sin excepción",
+        "Los inmuebles de empresas públicas mercantiles",
+        "Los inmuebles afectos a la recaudación tributaria"
+      ],
+      "correct": 0,
+      "exp": "El art. 62.1.a) TRLRHL limita la exención a los inmuebles afectos a seguridad ciudadana, servicios educativos y penitenciarios, y a los del Estado afectos a defensa nacional.",
+      "fuente": "Art. 62.1.a) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 62.1.a): exención limitada a inmuebles afectos a seguridad ciudadana, servicios educativos y penitenciarios, y los del Estado afectos a defensa nacional. Coincide."
+    },
+    {
+      "q": "La exención del IBI a favor de los bienes de la Iglesia Católica, prevista en el art. 62.1.c) TRLRHL, se aplica en los términos de:",
+      "options": [
+        "El Acuerdo entre el Estado Español y la Santa Sede sobre Asuntos Económicos, de 3 de enero de 1979",
+        "La Ley Orgánica de Libertad Religiosa",
+        "El Concordato de 1953",
+        "Únicamente el artículo 16 de la Constitución"
+      ],
+      "correct": 0,
+      "exp": "El art. 62.1.c) TRLRHL remite al Acuerdo entre el Estado Español y la Santa Sede sobre Asuntos Económicos, de 3 de enero de 1979.",
+      "fuente": "Art. 62.1.c) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 62.1.c): remite al 'Acuerdo entre el Estado Español y la Santa Sede sobre Asuntos Económicos, de 3 de enero de 1979'. Coincide literalmente."
+    },
+    {
+      "q": "¿Qué entidad benéfica goza de exención expresa en el IBI conforme al art. 62.1.d) TRLRHL?",
+      "options": [
+        "Cáritas Española",
+        "La Cruz Roja Española",
+        "La ONCE",
+        "Médicos sin Fronteras"
+      ],
+      "correct": 1,
+      "exp": "El art. 62.1.d) TRLRHL declara exentos los bienes de la Cruz Roja Española.",
+      "fuente": "Art. 62.1.d) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 62.1.d): 'Los de la Cruz Roja Española'. Coincide."
+    },
+    {
+      "q": "El art. 62.1.g) TRLRHL exime del IBI los terrenos ocupados por líneas de ferrocarril y sus edificios dedicados a estaciones o almacenes. ¿Qué instalaciones quedan expresamente excluidas de esa exención?",
+      "options": [
+        "Los pasos a nivel",
+        "Los establecimientos de hostelería, espectáculos, comerciales y de esparcimiento",
+        "Los talleres de mantenimiento de vías",
+        "Las oficinas de seguridad ferroviaria"
+      ],
+      "correct": 1,
+      "exp": "El art. 62.1.g) TRLRHL excluye de la exención los establecimientos de hostelería, espectáculos, comerciales y de esparcimiento, las viviendas de empleados, las oficinas de dirección y las instalaciones fabriles.",
+      "fuente": "Art. 62.1.g) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 62.1.g): excluye expresamente 'los establecimientos de hostelería, espectáculos, comerciales y de esparcimiento, las casas destinadas a viviendas de los empleados, las oficinas de la dirección ni las instalaciones fabriles'. Coincide."
+    },
+    {
+      "q": "La exención previa solicitud del art. 62.2.a) TRLRHL para inmuebles destinados a enseñanza por centros con concierto educativo alcanza:",
+      "options": [
+        "A la totalidad del centro, tenga o no otros usos",
+        "A la superficie afectada a la enseñanza concertada",
+        "Solo a centros de titularidad pública",
+        "Únicamente a la enseñanza universitaria"
+      ],
+      "correct": 1,
+      "exp": "El art. 62.2.a) TRLRHL limita la exención a la superficie afectada a la enseñanza concertada.",
+      "fuente": "Art. 62.2.a) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 62.2.a): exención 'en cuanto a la superficie afectada a la enseñanza concertada'. Coincide."
+    },
+    {
+      "q": "La exención del IBI para montes objeto de repoblación forestal o regeneración de masas arboladas sujetas a proyectos de ordenación, prevista en el art. 62.2.c) TRLRHL, tiene una duración de:",
+      "options": [
+        "10 años",
+        "15 años",
+        "20 años",
+        "25 años"
+      ],
+      "correct": 1,
+      "exp": "El art. 62.2.c) TRLRHL fija la duración de esta exención en 15 años, contados desde el período impositivo siguiente a aquel en que se realice la solicitud.",
+      "fuente": "Art. 62.2.c) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 62.2.c): 'Esta exención tendrá una duración de 15 años, contados a partir del período impositivo siguiente a aquel en que se realice su solicitud'. Coincide."
+    },
+    {
+      "q": "La exención del IBI a favor de bienes de centros sanitarios de titularidad pública, prevista en el art. 62.3 TRLRHL, tiene carácter:",
+      "options": [
+        "Obligatorio en todos los municipios",
+        "Potestativo, mediante regulación en ordenanza fiscal",
+        "Automático sin necesidad de ordenanza",
+        "Reservado a hospitales militares"
+      ],
+      "correct": 1,
+      "exp": "El art. 62.3 TRLRHL habilita a las ordenanzas fiscales a regular esta exención, siempre que los bienes estén afectados al cumplimiento de los fines específicos del centro sanitario público.",
+      "fuente": "Art. 62.3 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 62.3: 'Las ordenanzas fiscales podrán regular una exención a favor de los bienes... centros sanitarios de titularidad pública'. Carácter potestativo confirmado."
+    },
+    {
+      "q": "Según el art. 63.1 TRLRHL, son sujetos pasivos a título de contribuyentes del IBI:",
+      "options": [
+        "El arrendatario del inmueble en todo caso",
+        "Las personas naturales y jurídicas y entidades del art. 35.4 LGT que ostenten la titularidad del derecho constitutivo del hecho imponible",
+        "Solo las personas físicas residentes en el municipio",
+        "Quien figure inscrito en el Registro de la Propiedad, aunque no coincida con el titular catastral"
+      ],
+      "correct": 1,
+      "exp": "El art. 63.1 TRLRHL atribuye la condición de contribuyente a quienes ostenten la titularidad del derecho constitutivo del hecho imponible, remitiendo al art. 35.4 de la Ley General Tributaria para las entidades sin personalidad.",
+      "fuente": "Art. 63.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 63.1: 'personas naturales y jurídicas y las entidades a que se refiere el artículo 35.4 de la Ley 58/2003... que ostenten la titularidad del derecho... constitutivo del hecho imponible'. Coincide."
+    },
+    {
+      "q": "En caso de cambio de titularidad de los derechos que constituyen el hecho imponible del IBI, el art. 64.1 TRLRHL establece que el inmueble queda afecto al pago de la totalidad de la cuota tributaria en régimen de:",
+      "options": [
+        "Responsabilidad solidaria",
+        "Responsabilidad subsidiaria",
+        "Responsabilidad objetiva directa",
+        "Responsabilidad mancomunada"
+      ],
+      "correct": 1,
+      "exp": "El art. 64.1 TRLRHL dispone que el bien queda afecto al pago de la totalidad de la cuota tributaria en régimen de responsabilidad subsidiaria, conforme a la Ley General Tributaria.",
+      "fuente": "Art. 64.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 64.1: 'los bienes inmuebles objeto de dichos derechos quedarán afectos al pago de la totalidad de la cuota tributaria, en régimen de responsabilidad subsidiaria'. Coincide (la 'responsabilidad solidaria' del título del artículo corresponde al apartado 2, sobre cotitularidad, no al 64.1)."
+    },
+    {
+      "q": "La base imponible del IBI está constituida, conforme al art. 65 TRLRHL, por:",
+      "options": [
+        "El valor de mercado del inmueble",
+        "El valor catastral de los bienes inmuebles",
+        "El valor de adquisición actualizado",
+        "El valor de tasación pericial contradictoria"
+      ],
+      "correct": 1,
+      "exp": "El art. 65 TRLRHL fija la base imponible en el valor catastral de los bienes inmuebles, determinado conforme a las normas reguladoras del Catastro Inmobiliario.",
+      "fuente": "Art. 65 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 65: 'La base imponible de este impuesto estará constituida por el valor catastral de los bienes inmuebles'. Coincide."
+    },
+    {
+      "q": "Según el art. 66.1 TRLRHL, la base liquidable del IBI resulta de:",
+      "options": [
+        "Aplicar directamente el tipo de gravamen a la base imponible",
+        "Practicar en la base imponible la reducción a que se refieren los artículos siguientes",
+        "Sumar a la base imponible los recargos provinciales",
+        "Multiplicar la base imponible por el coeficiente de actualización presupuestaria"
+      ],
+      "correct": 1,
+      "exp": "El art. 66.1 TRLRHL define la base liquidable como el resultado de practicar en la base imponible la reducción regulada en los artículos siguientes.",
+      "fuente": "Art. 66.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 66.1: 'La base liquidable de este impuesto será el resultado de practicar en la base imponible la reducción a que se refieren los artículos siguientes'. Coincide."
+    },
+    {
+      "q": "La reducción en la base imponible del IBI regulada a partir del art. 67 TRLRHL se aplica, según el art. 68.1, durante un período de:",
+      "options": [
+        "Cinco años",
+        "Siete años",
+        "Nueve años",
+        "Diez años"
+      ],
+      "correct": 2,
+      "exp": "El art. 68.1 TRLRHL fija en nueve años el período de aplicación de la reducción, a contar desde la entrada en vigor de los nuevos valores catastrales.",
+      "fuente": "Art. 68.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 68.1: 'La reducción se aplicará durante un período de nueve años a contar desde la entrada en vigor de los nuevos valores catastrales'. Coincide."
+    },
+    {
+      "q": "El coeficiente reductor de la reducción en base imponible del IBI, conforme al art. 68.3 TRLRHL, tiene el valor de 0,9 el primer año de aplicación y a partir de ahí:",
+      "options": [
+        "Permanece constante durante los nueve años",
+        "Va disminuyendo en 0,1 anualmente hasta su desaparición",
+        "Aumenta en 0,1 cada año",
+        "Se reduce a la mitad cada año"
+      ],
+      "correct": 1,
+      "exp": "El art. 68.3 TRLRHL establece que el coeficiente reductor vale 0,9 el primer año e irá disminuyendo en 0,1 anualmente hasta desaparecer.",
+      "fuente": "Art. 68.3 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 68.3: 'El coeficiente reductor tendrá el valor de 0,9 el primer año de su aplicación e irá disminuyendo en 0,1 anualmente hasta su desaparición'. Coincide."
+    },
+    {
+      "q": "Conforme al art. 71.2 TRLRHL, la cuota líquida del IBI se obtiene:",
+      "options": [
+        "Sumando a la cuota íntegra el recargo provincial",
+        "Minorando la cuota íntegra en el importe de las bonificaciones previstas legalmente",
+        "Aplicando el tipo de gravamen directamente a la base imponible",
+        "Dividiendo la cuota íntegra entre el número de sujetos pasivos"
+      ],
+      "correct": 1,
+      "exp": "El art. 71.2 TRLRHL define la cuota líquida como la cuota íntegra minorada en el importe de las bonificaciones legalmente previstas.",
+      "fuente": "Art. 71.2 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 71.2: 'La cuota líquida se obtendrá minorando la cuota íntegra en el importe de las bonificaciones previstas legalmente'. Coincide."
+    },
+    {
+      "q": "Según el art. 72.1 TRLRHL, el tipo de gravamen mínimo y supletorio del IBI para bienes inmuebles urbanos es del 0,4 por ciento. ¿Cuál es el máximo para esos mismos bienes urbanos?",
+      "options": [
+        "0,90 por ciento",
+        "1,10 por ciento",
+        "1,30 por ciento",
+        "0,6 por ciento"
+      ],
+      "correct": 1,
+      "exp": "El art. 72.1 TRLRHL fija el tipo máximo del IBI en el 1,10 por ciento para bienes inmuebles urbanos (y 0,90 por ciento para rústicos).",
+      "fuente": "Art. 72.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 72.1: tipo mínimo/supletorio 0,4% urbanos, máximo 1,10% urbanos (0,90% rústicos). Coincide con la redacción vigente hoy."
+    },
+    {
+      "q": "El recargo que los ayuntamientos pueden exigir sobre la cuota líquida del IBI a inmuebles de uso residencial desocupados con carácter permanente por un plazo superior a dos años puede alcanzar, según el art. 72.4 TRLRHL, hasta el 50 por ciento, pudiendo llegar hasta:",
+      "options": [
+        "El 75 por ciento en todo caso",
+        "El 100 por ciento si la desocupación supera los tres años",
+        "El 100 por ciento desde el primer año de desocupación",
+        "El 60 por ciento como máximo absoluto"
+      ],
+      "correct": 1,
+      "exp": "El art. 72.4 TRLRHL permite un recargo de hasta el 50 por ciento por desocupación superior a dos años, que puede llegar hasta el 100 por ciento cuando la desocupación supera los tres años.",
+      "fuente": "Art. 72.4 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 72.4: recargo de hasta 50% por desocupación superior a 2 años, 'podrá ser de hasta el 100 por ciento... cuando el periodo de desocupación sea superior a tres años'. Coincide con redacción vigente (introducida por la reforma del recargo de vivienda vacía)."
+    },
+    {
+      "q": "La bonificación obligatoria del art. 73.1 TRLRHL a favor de inmuebles objeto de la actividad de empresas de urbanización, construcción y promoción inmobiliaria oscila entre el 50 y el 90 por ciento de la cuota íntegra, sin que su plazo de aplicación pueda exceder de:",
+      "options": [
+        "Dos períodos impositivos",
+        "Tres períodos impositivos",
+        "Cinco períodos impositivos",
+        "Diez períodos impositivos"
+      ],
+      "correct": 1,
+      "exp": "El art. 73.1 TRLRHL limita el plazo de aplicación de esta bonificación a un máximo de tres períodos impositivos.",
+      "fuente": "Art. 73.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 73.1: bonificación 50-90%, 'sin que, en ningún caso, pueda exceder de tres períodos impositivos'. Coincide."
+    },
+    {
+      "q": "Las viviendas de protección oficial tienen derecho, conforme al art. 73.2 TRLRHL, a una bonificación del 50 por ciento en la cuota íntegra del IBI durante:",
+      "options": [
+        "Un único período impositivo",
+        "Los tres períodos impositivos siguientes al del otorgamiento de la calificación definitiva",
+        "Los cinco primeros años desde la escritura",
+        "Diez años desde la construcción"
+      ],
+      "correct": 1,
+      "exp": "El art. 73.2 TRLRHL reconoce la bonificación del 50 por ciento durante los tres períodos impositivos siguientes al del otorgamiento de la calificación definitiva.",
+      "fuente": "Art. 73.2 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 73.2: bonificación 50% VPO 'durante los tres períodos impositivos siguientes al del otorgamiento de la calificación definitiva'. Coincide."
+    },
+    {
+      "q": "¿Hasta qué porcentaje de bonificación potestativa en la cuota íntegra del IBI pueden establecer las ordenanzas fiscales a favor de sujetos pasivos titulares de familia numerosa, según el art. 74.4 TRLRHL?",
+      "options": [
+        "Hasta el 50 por ciento",
+        "Hasta el 75 por ciento",
+        "Hasta el 90 por ciento",
+        "Hasta el 95 por ciento"
+      ],
+      "correct": 2,
+      "exp": "El art. 74.4 TRLRHL permite a las ordenanzas fiscales regular una bonificación de hasta el 90 por ciento de la cuota íntegra a favor de los titulares de familia numerosa.",
+      "fuente": "Art. 74.4 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 74.4: 'Las ordenanzas fiscales podrán regular una bonificación de hasta el 90 por ciento de la cuota íntegra del impuesto a favor de aquellos sujetos pasivos que ostenten la condición de titulares de familia numerosa'. Coincide; no hay modificaciones pendientes de este apartado."
+    },
+    {
+      "q": "El IBI se devenga, conforme al art. 75.1 TRLRHL:",
+      "options": [
+        "El último día del período impositivo",
+        "El 30 de junio de cada año",
+        "El primer día del período impositivo",
+        "En el momento de la notificación del padrón catastral"
+      ],
+      "correct": 2,
+      "exp": "El art. 75.1 TRLRHL establece que el impuesto se devengará el primer día del período impositivo, que coincide con el año natural (art. 75.2).",
+      "fuente": "Art. 75.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 75.1: 'El impuesto se devengará el primer día del período impositivo'. Coincide."
+    },
+    {
+      "q": "La liquidación y recaudación del IBI, así como la revisión de los actos dictados en vía de gestión tributaria, corresponde, según el art. 77.1 TRLRHL, con carácter exclusivo a:",
+      "options": [
+        "La Dirección General del Catastro",
+        "Las Diputaciones Provinciales en todo caso",
+        "Los ayuntamientos",
+        "La Agencia Estatal de Administración Tributaria"
+      ],
+      "correct": 2,
+      "exp": "El art. 77.1 TRLRHL atribuye la liquidación, recaudación y revisión de los actos de gestión tributaria del IBI con carácter exclusivo a los ayuntamientos.",
+      "fuente": "Art. 77.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 77.1: 'La liquidación y recaudación, así como la revisión de los actos dictados en vía de gestión tributaria de este impuesto, serán competencia exclusiva de los ayuntamientos'. Coincide."
+    },
+    {
+      "q": "El Impuesto sobre Vehículos de Tracción Mecánica (IVTM) es, conforme al art. 92.1 TRLRHL, un tributo:",
+      "options": [
+        "Indirecto que grava la adquisición de vehículos",
+        "Directo que grava la titularidad de los vehículos aptos para circular por las vías públicas, cualquiera que sea su clase y categoría",
+        "Directo que grava exclusivamente la circulación por autopistas",
+        "Real que grava el consumo de carburante"
+      ],
+      "correct": 1,
+      "exp": "El art. 92.1 TRLRHL define el IVTM como un tributo directo que grava la titularidad de los vehículos de esta naturaleza aptos para circular por las vías públicas, cualquiera que sea su clase y categoría.",
+      "fuente": "Art. 92.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 92.1: 'tributo directo que grava la titularidad de los vehículos... aptos para circular por las vías públicas, cualesquiera que sean su clase y categoría'. Coincide."
+    },
+    {
+      "q": "Según el art. 98.1 TRLRHL, los ayuntamientos pueden exigir el IVTM en régimen de:",
+      "options": [
+        "Retención en origen",
+        "Estimación objetiva",
+        "Autoliquidación",
+        "Liquidación provisional obligatoria para todos los sujetos pasivos"
+      ],
+      "correct": 2,
+      "exp": "El art. 98.1 TRLRHL permite a los ayuntamientos exigir el IVTM en régimen de autoliquidación.",
+      "fuente": "Art. 98.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 98.1: 'Los ayuntamientos podrán exigir este impuesto en régimen de autoliquidación'. Coincide."
+    },
+    {
+      "q": "Conforme al art. 92.3.b) TRLRHL, los remolques y semirremolques arrastrados por vehículos de tracción mecánica no están sujetos al IVTM cuando su carga útil no sea superior a:",
+      "options": [
+        "500 kilogramos",
+        "750 kilogramos",
+        "1.000 kilogramos",
+        "2.000 kilogramos"
+      ],
+      "correct": 1,
+      "exp": "El art. 92.3.b) TRLRHL excluye de sujeción a los remolques y semirremolques con carga útil no superior a 750 kilogramos.",
+      "fuente": "Art. 92.3.b) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 92.3.b): 'Los remolques y semirremolques arrastrados por vehículos de tracción mecánica cuya carga útil no sea superior a 750 kilogramos'. Coincide."
+    },
+    {
+      "q": "¿Qué vehículos declara exentos del IVTM el art. 93.1.d) TRLRHL, por su destino a la asistencia sanitaria?",
+      "options": [
+        "Los taxis adaptados para personas con movilidad reducida",
+        "Las ambulancias y demás vehículos destinados a la asistencia sanitaria o al traslado de heridos o enfermos",
+        "Los vehículos de protección civil sin excepción alguna",
+        "Los vehículos de bomberos exclusivamente"
+      ],
+      "correct": 1,
+      "exp": "El art. 93.1.d) TRLRHL exime del IVTM a las ambulancias y demás vehículos directamente destinados a la asistencia sanitaria o al traslado de heridos o enfermos.",
+      "fuente": "Art. 93.1.d) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 93.1.d): 'Las ambulancias y demás vehículos directamente destinados a la asistencia sanitaria o al traslado de heridos o enfermos'. Coincide."
+    },
+    {
+      "q": "Según el art. 93.1.e) TRLRHL, la exención del IVTM para vehículos matriculados a nombre de personas con discapacidad para su uso exclusivo exige un grado de minusvalía igual o superior al:",
+      "options": [
+        "25 por ciento",
+        "33 por ciento",
+        "50 por ciento",
+        "65 por ciento"
+      ],
+      "correct": 1,
+      "exp": "El art. 93.1.e) TRLRHL considera personas con minusvalía, a estos efectos, a quienes tengan esa condición legal en grado igual o superior al 33 por ciento.",
+      "fuente": "Art. 93.1.e) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 93.1.e): 'se considerarán personas con minusvalía quienes tengan esta condición legal en grado igual o superior al 33 por ciento'. Coincide."
+    },
+    {
+      "q": "La exención del IVTM para autobuses y demás vehículos adscritos al servicio de transporte público urbano, prevista en el art. 93.1.f) TRLRHL, exige una capacidad que exceda de:",
+      "options": [
+        "Cinco plazas",
+        "Nueve plazas, incluida la del conductor",
+        "Quince plazas",
+        "Veinte plazas"
+      ],
+      "correct": 1,
+      "exp": "El art. 93.1.f) TRLRHL exige que la capacidad exceda de nueve plazas, incluida la del conductor.",
+      "fuente": "Art. 93.1.f) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 93.1.f): 'siempre que tengan una capacidad que exceda de nueve plazas, incluida la del conductor'. Coincide."
+    },
+    {
+      "q": "¿Qué requisito exige el art. 93.1.g) TRLRHL para que tractores, remolques, semirremolques y maquinaria estén exentos del IVTM?",
+      "options": [
+        "Estar inscritos en el Registro de Explotaciones Agrarias",
+        "Tener más de diez años de antigüedad",
+        "Estar matriculados en zona rural",
+        "Estar provistos de Cartilla de Inspección Agrícola"
+      ],
+      "correct": 3,
+      "exp": "El art. 93.1.g) TRLRHL exige que estén provistos de Cartilla de Inspección Agrícola.",
+      "fuente": "Art. 93.1.g) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 93.1.g): 'Los tractores, remolques, semirremolques y maquinaria provistos de Cartilla de Inspección Agrícola'. Coincide."
+    },
+    {
+      "q": "Para aplicar las exenciones del IVTM previstas en las letras e) y g) del art. 93.1 TRLRHL, el art. 93.2 exige que los interesados:",
+      "options": [
+        "No es necesario ningún trámite, se aplican de oficio",
+        "Lo soliciten únicamente ante la Jefatura Provincial de Tráfico",
+        "Insten su concesión indicando las características del vehículo, su matrícula y la causa del beneficio",
+        "Esperen la revisión anual automática del ayuntamiento"
+      ],
+      "correct": 2,
+      "exp": "El art. 93.2 TRLRHL exige que los interesados insten la concesión de estas exenciones indicando las características del vehículo, su matrícula y la causa del beneficio.",
+      "fuente": "Art. 93.2 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 93.2: 'Para poder aplicar las exenciones... párrafos e) y g)... los interesados deberán instar su concesión indicando las características del vehículo, su matrícula y la causa del beneficio'. Coincide."
+    },
+    {
+      "q": "Son sujetos pasivos del IVTM, conforme al art. 94 TRLRHL, las personas físicas o jurídicas y entidades del art. 35.4 LGT:",
+      "options": [
+        "Que hayan abonado el seguro obligatorio del vehículo",
+        "A cuyo nombre conste el vehículo en el permiso de circulación",
+        "Que utilicen habitualmente el vehículo, aunque no figuren en el permiso",
+        "Que figuren como conductores habituales en la póliza de seguro"
+      ],
+      "correct": 1,
+      "exp": "El art. 94 TRLRHL atribuye la condición de sujeto pasivo a quien conste como titular del vehículo en el permiso de circulación.",
+      "fuente": "Art. 94 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 94: sujeto pasivo 'a cuyo nombre conste el vehículo en el permiso de circulación'. Coincide."
+    },
+    {
+      "q": "Según el art. 95.4 TRLRHL, el coeficiente con el que los ayuntamientos pueden incrementar las cuotas del cuadro de tarifas del IVTM no podrá ser superior a:",
+      "options": [
+        "1,5",
+        "2",
+        "2,5",
+        "3"
+      ],
+      "correct": 1,
+      "exp": "El art. 95.4 TRLRHL fija en 2 el coeficiente máximo de incremento de las cuotas del IVTM.",
+      "fuente": "Art. 95.4 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 95.4: coeficiente de incremento 'el cual no podrá ser superior a 2'. Coincide."
+    },
+    {
+      "q": "Las ordenanzas fiscales pueden regular, conforme al art. 95.6.c) TRLRHL, una bonificación de hasta el 100 por cien de la cuota del IVTM para vehículos históricos o con una antigüedad mínima de:",
+      "options": [
+        "Quince años",
+        "Veinte años",
+        "Veinticinco años",
+        "Treinta años"
+      ],
+      "correct": 2,
+      "exp": "El art. 95.6.c) TRLRHL permite esta bonificación para vehículos históricos o con una antigüedad mínima de veinticinco años desde su fabricación (o, en su defecto, primera matriculación).",
+      "fuente": "Art. 95.6.c) TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 95.6.c): bonificación hasta 100% 'para los vehículos históricos o aquellos que tengan una antigüedad mínima de veinticinco años'. Coincide."
+    },
+    {
+      "q": "El período impositivo del IVTM coincide con el año natural, salvo, conforme al art. 96.1 TRLRHL, en el caso de:",
+      "options": [
+        "Transferencia entre particulares",
+        "Cambio de domicilio del titular",
+        "Primera adquisición del vehículo, en que el período comienza el día de la adquisición",
+        "Baja temporal por robo o sustracción"
+      ],
+      "correct": 2,
+      "exp": "El art. 96.1 TRLRHL establece que, en caso de primera adquisición del vehículo, el período impositivo comienza el día en que se produce dicha adquisición.",
+      "fuente": "Art. 96.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 96.1: 'El período impositivo coincide con el año natural, salvo en el caso de primera adquisición de los vehículos... comenzará el día en que se produzca dicha adquisición'. Coincide."
+    },
+    {
+      "q": "En los casos de primera adquisición o baja definitiva del vehículo, el art. 96.3 TRLRHL establece que el importe de la cuota del IVTM se prorrateará por:",
+      "options": [
+        "Meses naturales",
+        "Trimestres naturales",
+        "Semestres naturales",
+        "Días naturales"
+      ],
+      "correct": 1,
+      "exp": "El art. 96.3 TRLRHL dispone el prorrateo de la cuota por trimestres naturales en los casos de primera adquisición, baja definitiva o baja temporal por sustracción o robo.",
+      "fuente": "Art. 96.3 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 96.3: 'El importe de la cuota del impuesto se prorrateará por trimestres naturales en los casos de primera adquisición o baja definitiva del vehículo'. Coincide."
+    },
+    {
+      "q": "La gestión, liquidación, inspección y recaudación del IVTM corresponde, según el art. 97 TRLRHL, al ayuntamiento:",
+      "options": [
+        "De la provincia donde esté matriculado el vehículo",
+        "Del lugar donde se adquirió el vehículo",
+        "Del domicilio fiscal del concesionario vendedor",
+        "Del domicilio que conste en el permiso de circulación del vehículo"
+      ],
+      "correct": 3,
+      "exp": "El art. 97 TRLRHL atribuye la gestión, liquidación, inspección y recaudación del IVTM al ayuntamiento del domicilio que conste en el permiso de circulación del vehículo.",
+      "fuente": "Art. 97 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 97: gestión 'corresponde al ayuntamiento del domicilio que conste en el permiso de circulación del vehículo'. Coincide."
+    },
+    {
+      "q": "Quienes soliciten ante la Jefatura Provincial de Tráfico la matriculación o certificación de aptitud para circular de un vehículo deben, conforme al art. 99.1 TRLRHL:",
+      "options": [
+        "Abonar el impuesto en el mismo momento ante la propia Jefatura",
+        "Acreditar previamente el pago del impuesto",
+        "Presentar únicamente el permiso de circulación anterior",
+        "Nada, la Jefatura lo comprueba de oficio sin necesidad de acreditación"
+      ],
+      "correct": 1,
+      "exp": "El art. 99.1 TRLRHL exige acreditar previamente el pago del impuesto para tramitar la matriculación o la certificación de aptitud para circular.",
+      "fuente": "Art. 99.1 TRLRHL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 99.1: 'deberán acreditar previamente el pago del impuesto'. Coincide."
+    }
+  ]
+}
