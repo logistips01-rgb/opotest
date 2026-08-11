@@ -6,6 +6,41 @@ un tema por tanda y con parada entre temas.
 El tema 21 queda **fuera del objetivo**: reproduce el examen oficial del
 1-jun-2025 y rellenarlo con preguntas generadas destruiría lo que lo hace útil.
 
+## Tema 15 · Participación ciudadana y atención al ciudadano — PRIMERA VUELTA CERRADA
+
+**350 preguntas** (de 150 que había), todas de 4 opciones. Seis lotes de 40,
+sobre tramos distintos del temario, escritos leyendo el consolidado del BOE
+(o, en el caso del ROTPC, el texto municipal) y revisados uno por uno.
+
+| Lote | Tramo | Confirmadas | Corregidas | Rechazadas |
+|---|---|---|---|---|
+| F | CE arts. 20/105 + LO 3/2018 protección de datos | 40 | 0 | 0 |
+| A | LBRL arts. 18, 69, 70, 70 bis, 72 | 40 | 0 | 0 |
+| B | RD 208/1996 (información administrativa y atención al ciudadano) | 40 | 0 | 0 |
+| C | LPAC arts. 13, 16, 53 | 40 | 0 | 0 |
+| D | Ley 19/2013 transparencia, arts. 12-24 | 40 | 0 | 0 |
+| E | ROTPC (huecos: Juntas Municipales, Consejos, sesiones, iniciativas) | 40 | 1 | 0 |
+
+Notas:
+- Lote B resolvió una identidad de norma que llevaba pendiente desde el tema
+  17: el bloque clásico "información administrativa y atención al ciudadano"
+  corresponde al **Real Decreto 208/1996, de 9 de febrero** (BOE-A-1996-4997,
+  verificado por el redactor y re-verificado de forma independiente por el
+  revisor vía el permalink ELI). Sus arts. 11-13 y el capítulo III completo
+  (arts. 15-24, Libro de Quejas y Sugerencias) están derogados por el RD
+  776/2011 y el RD 951/2005 respectivamente; ninguna pregunta los cita como
+  vigentes.
+- Lote E accedió al texto consolidado íntegro del ROTPC (117 artículos) vía
+  `https://www.zaragoza.es/sede/servicio/normativa/109`, no boe.es. Queda
+  documentado aquí como fuente válida para futuras rondas sobre este tema.
+- La primera tanda de 5 lotes (A-E) se perdió sin aviso (agentes en segundo
+  plano no reachables, sin fichero en disco) y hubo que relanzarla entera;
+  quedó documentado para no repetir la espera pasiva sin comprobar el disco.
+
+Quedan 150 preguntas para llegar a 500: pendiente de segunda ronda si se
+decide seguir profundizando en este tema, o dejarlo así y continuar con el
+siguiente cuando llegue su turno.
+
 ## Tema 20 · Prevención de Riesgos Laborales — PRIMERA VUELTA CERRADA
 
 **263 preguntas** (de 23 que había), todas de 3 opciones y 260 con el artículo
