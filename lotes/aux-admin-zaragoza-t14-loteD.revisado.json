@@ -1,6 +1,16 @@
 {
   "slug": "aux-admin-zaragoza",
   "tema": 14,
+  "revision": {
+    "revisor": "REVISOR automatizado",
+    "fecha": "2026-08-11",
+    "fuenteCotejada": "Texto consolidado de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (BOE-A-1985-5392), Título X (arts. 121 a 138), descargado directamente de boe.es/buscar/act.php; y texto consolidado de la Constitución Española (BOE-A-1978-31229), arts. 137 a 142, descargado igualmente de boe.es. Descarga propia, independiente de la realizada por el redactor.",
+    "resumen": {
+      "CONFIRMADA": 40,
+      "CORREGIR": 0,
+      "RECHAZADA": 0
+    }
+  },
   "preguntas": [
     {
       "q": "Según el art. 121.1 LBRL, ¿a partir de qué población se aplica el régimen de organización de los municipios de gran población a un municipio, sin necesidad de ningún otro requisito adicional?",
@@ -15,7 +25,7 @@
       "fuente": "Art. 121.1.a) LBRL (Ley 7/1985)",
       "confianza": "alta",
       "veredicto": "CONFIRMADA",
-      "notaRevision": "Art. 121.1.a) LBRL literal: 'A los municipios cuya población supere los 250.000 habitantes.' Es el único de los cuatro supuestos del art. 121.1 que no exige decisión de la Asamblea Legislativa (esa exigencia solo se aplica a los párrafos c) y d)). Coincide con la opción marcada."
+      "notaRevision": "Art. 121.1.a) LBRL literal: 'A los municipios cuya población supere los 250.000 habitantes.' Es el único supuesto del art. 121.1 sin requisito adicional (a diferencia de b, capital de provincia >175.000; c, sin cifra pero con decisión de la Asamblea; d, 75.000 + circunstancias + decisión)."
     },
     {
       "q": "Según el art. 121.1.d) LBRL, ¿a partir de qué cifra de población puede aplicarse este título a un municipio con circunstancias económicas, sociales, históricas o culturales especiales, si así lo decide la Asamblea Legislativa correspondiente?",
@@ -30,7 +40,7 @@
       "fuente": "Art. 121.1.d) LBRL (Ley 7/1985)",
       "confianza": "alta",
       "veredicto": "CONFIRMADA",
-      "notaRevision": "Art. 121.1.d) LBRL literal: 'los municipios cuya población supere los 75.000 habitantes, que presenten circunstancias económicas, sociales, históricas o culturales especiales', exigiéndose decisión de la Asamblea Legislativa a iniciativa del ayuntamiento. Coincide."
+      "notaRevision": "Art. 121.1.d) LBRL literal: 'Asimismo, a los municipios cuya población supere los 75.000 habitantes, que presenten circunstancias económicas, sociales, históricas o culturales especiales', exigiéndose decisión de la Asamblea Legislativa a iniciativa del ayuntamiento (párrafo siguiente). Coincide."
     },
     {
       "q": "Cuando un municipio alcanza, según la revisión del padrón, la población requerida para la aplicación del Título X LBRL, ¿de qué plazo máximo dispone la nueva corporación desde su constitución para adaptar su organización?",
@@ -60,7 +70,7 @@
       "fuente": "Art. 122.1 LBRL (Ley 7/1985)",
       "confianza": "alta",
       "veredicto": "CONFIRMADA",
-      "notaRevision": "Art. 122.1 LBRL literal: 'El Pleno, formado por el Alcalde y los Concejales, es el órgano de máxima representación política de los ciudadanos en el gobierno municipal.' Coincide."
+      "notaRevision": "Art. 122.1 LBRL literal: 'El Pleno, formado por el Alcalde y los Concejales, es el órgano de máxima representación política...' Coincide."
     },
     {
       "q": "Según el art. 122.3 LBRL, el reglamento que se dote el Pleno tendrá la naturaleza de:",
@@ -90,7 +100,7 @@
       "fuente": "Art. 122.5.e) LBRL (Ley 7/1985)",
       "confianza": "alta",
       "veredicto": "CONFIRMADA",
-      "notaRevision": "Art. 122.5.e) LBRL literal: 'Corresponderá al secretario general del Pleno, que lo será también de las comisiones, las siguientes funciones: ... e) El asesoramiento legal al Pleno y a las comisiones, que será preceptivo en los siguientes supuestos...' Coincide."
+      "notaRevision": "Art. 122.5.e) LBRL literal: 'Corresponderá al secretario general del Pleno... e) El asesoramiento legal al Pleno y a las comisiones, que será preceptivo en los siguientes supuestos...' Coincide."
     },
     {
       "q": "Según el art. 123.1.b) LBRL, la votación de la moción de censura al Alcalde en los municipios de gran población:",
@@ -120,7 +130,7 @@
       "fuente": "Art. 123.2 LBRL (Ley 7/1985)",
       "confianza": "alta",
       "veredicto": "CONFIRMADA",
-      "notaRevision": "Art. 123.2 LBRL literal: 'Se requerirá el voto favorable de la mayoría absoluta del número legal de miembros del Pleno, para la adopción de los acuerdos referidos en los párrafos c)...' (c = aprobación y modificación de reglamentos orgánicos). Coincide."
+      "notaRevision": "Art. 123.2 LBRL literal: 'Se requerirá el voto favorable de la mayoría absoluta del número legal de miembros del Pleno, para la adopción de los acuerdos referidos en los párrafos c)...' y el párrafo c) del apartado 1 es la aprobación y modificación de los reglamentos de naturaleza orgánica. Coincide."
     },
     {
       "q": "Según el art. 124.3 LBRL, ¿qué tratamiento tendrá el Alcalde en un municipio de gran población?",
@@ -165,7 +175,7 @@
       "fuente": "Art. 125.1 LBRL (Ley 7/1985)",
       "confianza": "alta",
       "veredicto": "CONFIRMADA",
-      "notaRevision": "Art. 125.1 LBRL literal: 'El Alcalde podrá nombrar entre los concejales que formen parte de la Junta de Gobierno Local a los Tenientes de Alcalde, que le sustituirán, por el orden de su nombramiento, en los casos de vacante, ausencia o enfermedad.' Coincide."
+      "notaRevision": "Art. 125.1 LBRL literal: 'El Alcalde podrá nombrar entre los concejales que formen parte de la Junta de Gobierno Local a los Tenientes de Alcalde...' Coincide."
     },
     {
       "q": "Según el art. 126.2 LBRL, el número de miembros de la Junta de Gobierno Local, además del Alcalde, no podrá exceder de:",
@@ -180,7 +190,7 @@
       "fuente": "Art. 126.2 LBRL (Ley 7/1985)",
       "confianza": "alta",
       "veredicto": "CONFIRMADA",
-      "notaRevision": "Art. 126.2 LBRL literal: 'Corresponde al Alcalde nombrar y separar libremente a los miembros de la Junta de Gobierno Local, cuyo número no podrá exceder de un tercio del número legal de miembros del Pleno, además del Alcalde.' Coincide."
+      "notaRevision": "Art. 126.2 LBRL literal: '...cuyo número no podrá exceder de un tercio del número legal de miembros del Pleno, además del Alcalde.' Coincide."
     },
     {
       "q": "Según el art. 126.3 LBRL, ¿ante quién responde políticamente la Junta de Gobierno Local de su gestión?",
@@ -195,7 +205,7 @@
       "fuente": "Art. 126.3 LBRL (Ley 7/1985)",
       "confianza": "alta",
       "veredicto": "CONFIRMADA",
-      "notaRevision": "Art. 126.3 LBRL literal: 'La Junta de Gobierno Local responde políticamente ante el Pleno de su gestión de forma solidaria, sin perjuicio de la responsabilidad directa de cada uno de sus miembros por su gestión.' Coincide."
+      "notaRevision": "Art. 126.3 LBRL literal: 'La Junta de Gobierno Local responde políticamente ante el Pleno de su gestión de forma solidaria...' Coincide."
     },
     {
       "q": "Según el art. 127.1.h) LBRL, la composición de los tribunales de oposiciones en los municipios de gran población será:",
@@ -210,7 +220,7 @@
       "fuente": "Art. 127.1.h) LBRL (Ley 7/1985)",
       "confianza": "alta",
       "veredicto": "CONFIRMADA",
-      "notaRevision": "Art. 127.1.h) LBRL literal: 'La composición de los tribunales de oposiciones será predominantemente técnica, debiendo poseer todos sus miembros un nivel de titulación igual o superior al exigido para el ingreso en las plazas convocadas.' Coincide."
+      "notaRevision": "Art. 127.1.h) LBRL literal (continuación del párrafo h): 'La composición de los tribunales de oposiciones será predominantemente técnica, debiendo poseer todos sus miembros un nivel de titulación igual o superior al exigido...' Coincide."
     },
     {
       "q": "Según el art. 127.1.i) LBRL, ¿a quién corresponde el nombramiento y cese de los titulares de los órganos directivos de la Administración municipal, sin perjuicio de lo dispuesto para los funcionarios con habilitación de carácter nacional?",
@@ -225,7 +235,7 @@
       "fuente": "Art. 127.1.i) LBRL (Ley 7/1985)",
       "confianza": "alta",
       "veredicto": "CONFIRMADA",
-      "notaRevision": "Art. 127.1.i) LBRL literal: 'El nombramiento y el cese de los titulares de los órganos directivos de la Administración municipal, sin perjuicio de lo dispuesto en la disposición adicional octava para los funcionarios de Administración local con habilitación de carácter nacional.' Se atribuye a la Junta de Gobierno Local (encabezado del apartado 1: 'Corresponde a la Junta de Gobierno Local'). Coincide."
+      "notaRevision": "Art. 127.1.i) LBRL literal: 'i) El nombramiento y el cese de los titulares de los órganos directivos de la Administración municipal, sin perjuicio de lo dispuesto en la disposición adicional octava...' (atribuido a la Junta de Gobierno Local en el encabezado del apartado 1). Coincide."
     },
     {
       "q": "Según el art. 128.3 LBRL, ¿a quién corresponde en todo caso la presidencia de un distrito?",
@@ -270,7 +280,7 @@
       "fuente": "Art. 130.1.B).f) LBRL (Ley 7/1985)",
       "confianza": "alta",
       "veredicto": "CONFIRMADA",
-      "notaRevision": "Art. 130.1.B).f) LBRL literal: 'B) Órganos directivos: ... f) El interventor general municipal.' Coincide."
+      "notaRevision": "Art. 130.1.B).f) LBRL literal: 'B) Órganos directivos: ... f) El interventor general municipal.' Coincide; las otras tres opciones corresponden a órganos superiores o al Pleno."
     },
     {
       "q": "Según el art. 132.1 LBRL, ¿qué órgano crea el Pleno para la defensa de los derechos de los vecinos ante la Administración municipal?",
@@ -285,7 +295,7 @@
       "fuente": "Art. 132.1 LBRL (Ley 7/1985)",
       "confianza": "alta",
       "veredicto": "CONFIRMADA",
-      "notaRevision": "Art. 132.1 LBRL literal: 'Para la defensa de los derechos de los vecinos ante la Administración municipal, el Pleno creará una Comisión especial de Sugerencias y Reclamaciones, cuyo funcionamiento se regulará en normas de carácter orgánico.' Coincide."
+      "notaRevision": "Art. 132.1 LBRL literal: 'el Pleno creará una Comisión especial de Sugerencias y Reclamaciones, cuyo funcionamiento se regulará en normas de carácter orgánico.' Coincide."
     },
     {
       "q": "Según el art. 133 LBRL, ¿cuál de los siguientes es uno de los criterios a los que debe ajustarse la gestión económico-financiera en los municipios de gran población?",
@@ -315,7 +325,7 @@
       "fuente": "Art. 134.2 LBRL (Ley 7/1985)",
       "confianza": "alta",
       "veredicto": "CONFIRMADA",
-      "notaRevision": "Art. 134.2 LBRL literal: 'El titular o titulares de dicho órgano u órganos deberá ser un funcionario de Administración local con habilitación de carácter nacional, salvo el del órgano que desarrolle las funciones de presupuestación.' Coincide."
+      "notaRevision": "Art. 134.2 LBRL literal: '...deberá ser un funcionario de Administración local con habilitación de carácter nacional, salvo el del órgano que desarrolle las funciones de presupuestación.' Coincide."
     },
     {
       "q": "Según el art. 135.1 LBRL, el órgano de gestión tributaria que pueden crear los Pleno de los municipios de gran población se rige, entre otros, por los principios de:",
@@ -330,7 +340,7 @@
       "fuente": "Art. 135.1 LBRL (Ley 7/1985)",
       "confianza": "alta",
       "veredicto": "CONFIRMADA",
-      "notaRevision": "Art. 135.1 LBRL literal: 'gestión integral del sistema tributario municipal, regido por los principios de eficiencia, suficiencia, agilidad y unidad en la gestión...' Coincide."
+      "notaRevision": "Art. 135.1 LBRL literal: '...regido por los principios de eficiencia, suficiencia, agilidad y unidad en la gestión...' Coincide."
     },
     {
       "q": "Según el art. 136.1 LBRL, la función pública de control y fiscalización interna de la gestión económico-financiera y presupuestaria corresponde a un órgano administrativo denominado:",
@@ -345,7 +355,7 @@
       "fuente": "Art. 136.1 LBRL (Ley 7/1985)",
       "confianza": "alta",
       "veredicto": "CONFIRMADA",
-      "notaRevision": "Art. 136.1 LBRL literal: 'La función pública de control y fiscalización interna de la gestión económico-financiera y presupuestaria, en su triple acepción de función interventora, función de control financiero y función de control de eficacia, corresponderá a un órgano administrativo, con la denominación de Intervención general municipal.' Coincide."
+      "notaRevision": "Art. 136.1 LBRL literal: '...corresponderá a un órgano administrativo, con la denominación de Intervención general municipal.' Coincide."
     },
     {
       "q": "Según el art. 137.4 LBRL, ¿cuál es el número mínimo de miembros del órgano para la resolución de las reclamaciones económico-administrativas en los municipios de gran población?",
@@ -375,7 +385,7 @@
       "fuente": "Art. 138 LBRL (Ley 7/1985)",
       "confianza": "alta",
       "veredicto": "CONFIRMADA",
-      "notaRevision": "Art. 138 LBRL literal (artículo sin apartados numerados): 'En el seno de la Conferencia sectorial para asuntos locales, existirá una Conferencia de ciudades de la que formarán parte la Administración General del Estado, las comunidades autónomas y los alcaldes de los municipios comprendidos en el ámbito de aplicación del título X de esta ley.' Coincide."
+      "notaRevision": "Art. 138 LBRL literal: 'En el seno de la Conferencia sectorial para asuntos locales, existirá una Conferencia de ciudades...' Coincide."
     },
     {
       "q": "Según el art. 137 CE, el Estado se organiza territorialmente en:",
@@ -420,7 +430,7 @@
       "fuente": "Art. 138.1 CE",
       "confianza": "alta",
       "veredicto": "CONFIRMADA",
-      "notaRevision": "Art. 138.1 CE literal: '...velando por el establecimiento de un equilibrio económico, adecuado y justo entre las diversas partes del territorio español, y atendiendo en particular a las circunstancias del hecho insular.' Coincide."
+      "notaRevision": "Art. 138.1 CE literal: '...atendiendo en particular a las circunstancias del hecho insular.' Coincide."
     },
     {
       "q": "Según el art. 138.2 CE, las diferencias entre los Estatutos de las distintas Comunidades Autónomas no podrán implicar, en ningún caso:",
@@ -435,7 +445,7 @@
       "fuente": "Art. 138.2 CE",
       "confianza": "alta",
       "veredicto": "CONFIRMADA",
-      "notaRevision": "Art. 138.2 CE literal: 'Las diferencias entre los Estatutos de las distintas Comunidades Autónomas no podrán implicar, en ningún caso, privilegios económicos o sociales.' Coincide."
+      "notaRevision": "Art. 138.2 CE literal: '...no podrán implicar, en ningún caso, privilegios económicos o sociales.' Coincide."
     },
     {
       "q": "Según el art. 139.1 CE, todos los españoles tienen los mismos derechos y obligaciones:",
@@ -510,7 +520,7 @@
       "fuente": "Art. 140 CE",
       "confianza": "alta",
       "veredicto": "CONFIRMADA",
-      "notaRevision": "Art. 140 CE literal: 'Los Concejales serán elegidos por los vecinos del municipio mediante sufragio universal, igual, libre, directo y secreto, en la forma establecida por la ley.' Coincide."
+      "notaRevision": "Art. 140 CE literal: 'Los Concejales serán elegidos por los vecinos del municipio mediante sufragio universal, igual, libre, directo y secreto...' Coincide."
     },
     {
       "q": "Según el art. 140 CE, ¿quiénes pueden elegir al Alcalde?",
@@ -600,7 +610,7 @@
       "fuente": "Art. 142 CE",
       "confianza": "alta",
       "veredicto": "CONFIRMADA",
-      "notaRevision": "Art. 142 CE literal: 'se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas.' Coincide."
+      "notaRevision": "Art. 142 CE literal: '...se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas.' Coincide."
     }
   ]
 }
