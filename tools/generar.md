@@ -55,6 +55,23 @@ Ese modo degradado fue el origen de los tres errores de cita detectados en el
 tema 18: la respuesta era correcta pero el apartado citado no, porque los
 resúmenes parciales inducían a confundir 87.2 con 87.3 o 98.3 con 98.4.
 
+## Número de opciones
+
+**El examen oficial de Auxiliar Administrativo del Ayuntamiento de Zaragoza es
+de 4 opciones.** Todo lo que se redacte para esa oposición debe tener 4
+opciones, nunca 3.
+
+Esto no siempre fue así en este proyecto: entre el 10 y el 11 de agosto de
+2026 se asumió erróneamente que era de 3 (por la proporción de la reproducción
+del examen real de 1-jun-2025 en el tema 21, que en realidad mezcla 3 y 4 según
+la prueba) y se redujeron a 3 tanto el banco base como todo lo generado para
+los temas 16 a 20. Ese error está documentado y pendiente de arreglo en
+[ESTADO.md](../lotes/ESTADO.md); no lo repitas en temas nuevos.
+
+Antes de lanzar un redactor, comprueba en `assets/js/catalog.js` cuántas
+opciones tiene el banco de la oposición (mira cualquier pregunta existente) y
+dile explícitamente al agente cuántas opciones debe usar. No asumas.
+
 ## Etapa 1 · Redactor
 
 Un agente por tema. Recibe:

@@ -202,6 +202,37 @@ material sin explotar (el lote B, por ejemplo, dejó sin usar buena parte del
 art. 37 y de los arts. 38-46). Candidata natural para una segunda vuelta antes
 de recurrir a otras normas.
 
+## ⚠️ PENDIENTE: los temas 16 a 20 están en 3 opciones, deben ser 4
+
+El 11 de agosto de 2026 se descubrió que el examen oficial de Auxiliar
+Administrativo de Zaragoza es de **4 opciones**, no de 3 como se había
+asumido (por la proporción de la reproducción del examen real del tema 21,
+que en realidad mezcla 3 y 4 opciones según la prueba). Ya se corrigieron
+gratis, restaurando desde el historial de git, 2.479 preguntas: el banco
+base completo (salvo el tema 17, que ya venía en 3 opciones desde el primer
+archivo subido, antes de cualquier trabajo de esta campaña) y la primera
+ronda de 59 preguntas generadas.
+
+**Quedan pendientes, sin atajo de git posible, ~1.110 preguntas en 3
+opciones** que hay que llevar a 4 añadiéndoles un distractor real,
+verificado contra la misma fuente que ya citan (no inventado):
+
+| Tema | En 3 opciones |
+|---|---|
+| 16 · Reglamentos y ordenanzas | 40 (más los lotes A-E, que quedaron a medias: los agentes se perdieron entre reinicios de sesión sin escribir su archivo; no se han relanzado) |
+| 17 · Empleados públicos I: clases | 340 (incluye las 100 originales, que ya venían en 3 opciones desde el primer archivo subido) |
+| 18 · Situaciones y disciplinario | 241 |
+| 19 · Función pública local | 243 |
+| 20 · Prevención de Riesgos Laborales | 240 |
+| 1, 6, 14 (preguntas sueltas «todas las anteriores») | 6 |
+
+El tema 21 (examen oficial real del 1-jun-2025) **no se toca**: su mezcla de
+3 y 4 opciones es la de la prueba real.
+
+Decisión tomada: dejar estos temas en pausa tal cual están y seguir
+avanzando con el resto del temario en 4 opciones. Se arregla todo junto al
+terminar la campaña, con un pase de «añadir cuarta opción» tema por tema.
+
 ## Temas siguientes, cuando el 20 esté cerrado
 
 Del 19 hacia atrás. Estado y déficit hasta 500:
