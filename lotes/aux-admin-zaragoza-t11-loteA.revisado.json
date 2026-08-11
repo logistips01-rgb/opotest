@@ -1,0 +1,606 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 11,
+  "preguntas": [
+    {
+      "q": "¿Cuántos medios de intervención administrativa en la actividad de los ciudadanos enumera el art. 84.1 LBRL?",
+      "options": [
+        "Cuatro",
+        "Seis",
+        "Cinco",
+        "Tres"
+      ],
+      "correct": 2,
+      "exp": "El art. 84.1 LBRL enumera cinco medios de intervención, en las letras a) a e): ordenanzas y bandos; sometimiento a previa licencia; sometimiento a comunicación previa o declaración responsable; sometimiento a control posterior al inicio de la actividad; y órdenes individuales.",
+      "fuente": "Art. 84.1 LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado en el cuerpo real del art. 84.1 LBRL (línea 2059 de _lbrl.txt): enumera exactamente 5 medios, letras a) a e)."
+    },
+    {
+      "q": "Según el art. 84.1.a) LBRL, uno de los medios mediante los que las Entidades locales pueden intervenir la actividad de los ciudadanos es:",
+      "options": [
+        "Las circulares internas de servicio",
+        "Ordenanzas y bandos",
+        "Los decretos de necesidad del Alcalde",
+        "Las instrucciones técnicas municipales"
+      ],
+      "correct": 1,
+      "exp": "El art. 84.1.a) LBRL cita, como primer medio de intervención administrativa, las 'ordenanzas y bandos'.",
+      "fuente": "Art. 84.1.a) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: letra a) del art. 84.1 LBRL dice literalmente 'Ordenanzas y bandos.' (línea 2060)."
+    },
+    {
+      "q": "El art. 84.1.b) LBRL contempla, como medio de intervención administrativa, el:",
+      "options": [
+        "Requerimiento de fianza definitiva",
+        "Sometimiento a previa licencia y otros actos de control preventivo",
+        "Embargo preventivo de bienes",
+        "Cierre cautelar del establecimiento"
+      ],
+      "correct": 1,
+      "exp": "El art. 84.1.b) LBRL contempla el sometimiento a previa licencia y otros actos de control preventivo como medio de intervención.",
+      "fuente": "Art. 84.1.b) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: letra b) del art. 84.1 LBRL dice 'Sometimiento a previa licencia y otros actos de control preventivo.' (línea 2061)."
+    },
+    {
+      "q": "Conforme al art. 84.1.b) LBRL, cuando se trate del acceso y ejercicio de actividades de servicios incluidas en el ámbito de la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio:",
+      "options": [
+        "Se exigirá en todo caso licencia previa municipal",
+        "Se estará a lo dispuesto en dicha ley",
+        "Quedan excluidas de cualquier control administrativo",
+        "Se aplicará subsidiariamente la legislación autonómica"
+      ],
+      "correct": 1,
+      "exp": "El art. 84.1.b) LBRL dispone que, tratándose de actividades de servicios incluidas en la Ley 17/2009, se estará a lo dispuesto en la misma.",
+      "fuente": "Art. 84.1.b) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: el inciso de la letra b) sobre Ley 17/2009 dice literalmente 'se estará a lo dispuesto en la misma' (líneas 2061-2063)."
+    },
+    {
+      "q": "El sometimiento a comunicación previa o a declaración responsable, conforme al art. 84.1.c) LBRL, se rige de conformidad con lo establecido en:",
+      "options": [
+        "El artículo 84 bis de la propia LBRL",
+        "El artículo 4 de la Ley 17/2009, de 23 de noviembre",
+        "El artículo 71 bis de la Ley 30/1992, de 26 de noviembre",
+        "El artículo 69 de la Ley 39/2015, de 1 de octubre"
+      ],
+      "correct": 2,
+      "exp": "El art. 84.1.c) LBRL remite, de forma expresa, al artículo 71 bis de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.",
+      "fuente": "Art. 84.1.c) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: la letra c) remite expresamente al 'artículo 71 bis de la Ley 30/1992, de 26 de noviembre' (líneas 2064-2066)."
+    },
+    {
+      "q": "El art. 84.1.d) LBRL somete determinadas actividades a un control posterior al inicio de la actividad a efectos de:",
+      "options": [
+        "Verificar el cumplimiento de la normativa reguladora de la misma",
+        "Recaudar la tasa municipal correspondiente",
+        "Notificar el cambio de titularidad",
+        "Inscribir la actividad en el registro mercantil"
+      ],
+      "correct": 0,
+      "exp": "El art. 84.1.d) LBRL contempla el sometimiento a control posterior al inicio de la actividad, a efectos de verificar el cumplimiento de la normativa reguladora de la misma.",
+      "fuente": "Art. 84.1.d) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: letra d) dice 'a efectos de verificar el cumplimiento de la normativa reguladora de la misma' (línea 2067), coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 84.1.e) LBRL, constituyen medio de intervención de las Entidades locales:",
+      "options": [
+        "Los planes de ordenación urbana definitivamente aprobados",
+        "Las órdenes individuales constitutivas de mandato para la ejecución de un acto o la prohibición del mismo",
+        "Los presupuestos generales de la entidad",
+        "Los convenios de colaboración interadministrativa"
+      ],
+      "correct": 1,
+      "exp": "El art. 84.1.e) LBRL incluye, como último medio de intervención, las órdenes individuales constitutivas de mandato para la ejecución de un acto o la prohibición del mismo.",
+      "fuente": "Art. 84.1.e) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: letra e) coincide literalmente con 'Órdenes individuales constitutivas de mandato para la ejecución de un acto o la prohibición del mismo' (línea 2068)."
+    },
+    {
+      "q": "El art. 84.2 LBRL dispone que la actividad de intervención de las Entidades locales se ajustará, en todo caso, a los principios de:",
+      "options": [
+        "Eficacia, jerarquía y descentralización",
+        "Igualdad de trato, necesidad y proporcionalidad con el objetivo que se persigue",
+        "Publicidad, concurrencia y transparencia",
+        "Legalidad, tipicidad y non bis in idem"
+      ],
+      "correct": 1,
+      "exp": "El art. 84.2 LBRL establece que la actividad de intervención se ajustará, en todo caso, a los principios de igualdad de trato, necesidad y proporcionalidad con el objetivo que se persigue.",
+      "fuente": "Art. 84.2 LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: el art. 84.2 LBRL dice literalmente 'principios de igualdad de trato, necesidad y proporcionalidad con el objetivo que se persigue' (línea 2069)."
+    },
+    {
+      "q": "Conforme al art. 84.3 LBRL, las licencias o autorizaciones otorgadas por otras Administraciones Públicas:",
+      "options": [
+        "Eximen automáticamente de obtener licencia de la Entidad Local",
+        "Sustituyen a la licencia local si son de fecha anterior",
+        "No eximen a sus titulares de obtener las correspondientes licencias de las Entidades locales",
+        "Solo son eficaces si son ratificadas por el Pleno municipal"
+      ],
+      "correct": 2,
+      "exp": "El art. 84.3 LBRL dispone que las licencias o autorizaciones otorgadas por otras Administraciones Públicas no eximen a sus titulares de obtener las correspondientes licencias de las Entidades locales, respetándose en todo caso lo dispuesto en las leyes sectoriales.",
+      "fuente": "Art. 84.3 LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: el art. 84.3 LBRL dice 'no eximen a sus titulares de obtener las correspondientes licencias de las Entidades locales' (línea 2070)."
+    },
+    {
+      "q": "El sometimiento a comunicación previa o a declaración responsable se regula, dentro del art. 84.1 LBRL, en la letra:",
+      "options": [
+        "a)",
+        "b)",
+        "c)",
+        "e)"
+      ],
+      "correct": 2,
+      "exp": "La letra c) del art. 84.1 LBRL es la que contempla el sometimiento a comunicación previa o a declaración responsable.",
+      "fuente": "Art. 84.1.c) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: comunicación previa o declaración responsable está en la letra c) del art. 84.1 (línea 2064), no en a), b) ni e)."
+    },
+    {
+      "q": "¿En qué letra del art. 84.1 LBRL se contempla el sometimiento a previa licencia y otros actos de control preventivo?",
+      "options": [
+        "e)",
+        "b)",
+        "c)",
+        "d)"
+      ],
+      "correct": 1,
+      "exp": "El sometimiento a previa licencia y otros actos de control preventivo se recoge en la letra b) del art. 84.1 LBRL.",
+      "fuente": "Art. 84.1.b) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: previa licencia y otros actos de control preventivo está en la letra b) del art. 84.1 (línea 2061), no en e), c) ni d)."
+    },
+    {
+      "q": "El control posterior al inicio de la actividad, para verificar el cumplimiento de la normativa reguladora, se recoge en el art. 84.1, letra:",
+      "options": [
+        "a)",
+        "c)",
+        "d)",
+        "e)"
+      ],
+      "correct": 2,
+      "exp": "La letra d) del art. 84.1 LBRL somete la actividad a control posterior al inicio de la misma.",
+      "fuente": "Art. 84.1.d) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: control posterior al inicio de la actividad está en la letra d) del art. 84.1 (línea 2067), no en a), c) ni e)."
+    },
+    {
+      "q": "Las órdenes individuales constitutivas de mandato para la ejecución de un acto o su prohibición se regulan en el art. 84.1, letra:",
+      "options": [
+        "b)",
+        "c)",
+        "d)",
+        "e)"
+      ],
+      "correct": 3,
+      "exp": "La letra e) del art. 84.1 LBRL es la que recoge las órdenes individuales constitutivas de mandato para la ejecución de un acto o la prohibición del mismo.",
+      "fuente": "Art. 84.1.e) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: órdenes individuales constitutivas de mandato están en la letra e) del art. 84.1 (línea 2068), no en b), c) ni d)."
+    },
+    {
+      "q": "¿Cuál de las siguientes NO es una de las técnicas de intervención administrativa recogidas en el art. 84.1 LBRL?",
+      "options": [
+        "La expropiación forzosa de bienes y derechos",
+        "Ordenanzas y bandos",
+        "Sometimiento a previa licencia y otros actos de control preventivo",
+        "Órdenes individuales constitutivas de mandato"
+      ],
+      "correct": 0,
+      "exp": "El art. 84.1 LBRL no cita la expropiación forzosa entre sus cinco medios de intervención (letras a) a e)); sí figuran las ordenanzas y bandos, la previa licencia y las órdenes individuales.",
+      "fuente": "Art. 84.1 LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: repasadas las 5 letras a)-e) del art. 84.1 (líneas 2060-2068), la expropiación forzosa no aparece entre ellas; las otras tres opciones sí figuran literalmente."
+    },
+    {
+      "q": "Según el art. 84 bis.1, párrafo primero, LBRL, con carácter general, el ejercicio de actividades:",
+      "options": [
+        "Se someterá siempre a licencia previa municipal",
+        "Quedará sujeto a autorización expresa del Pleno",
+        "No se someterá a la obtención de licencia u otro medio de control preventivo",
+        "Requerirá informe previo autonómico vinculante"
+      ],
+      "correct": 2,
+      "exp": "El art. 84 bis.1 LBRL establece que, con carácter general, el ejercicio de actividades no se someterá a la obtención de licencia u otro medio de control preventivo.",
+      "fuente": "Art. 84 bis.1 LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: el art. 84 bis.1 LBRL, primer párrafo, dice 'con carácter general, el ejercicio de actividades no se someterá a la obtención de licencia u otro medio de control preventivo' (línea 2082)."
+    },
+    {
+      "q": "El art. 84 bis.1 LBRL introduce la regla general de no exigencia de licencia:",
+      "options": [
+        "Sin perjuicio de lo dispuesto en el artículo anterior",
+        "Derogando expresamente el artículo 84 LBRL",
+        "Con efecto retroactivo a la entrada en vigor de la LBRL",
+        "Solo para los municipios de gran población"
+      ],
+      "correct": 0,
+      "exp": "El art. 84 bis.1 LBRL comienza precisando que rige 'sin perjuicio de lo dispuesto en el artículo anterior', es decir, del art. 84 LBRL.",
+      "fuente": "Art. 84 bis.1 LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: el art. 84 bis.1 comienza literalmente 'Sin perjuicio de lo dispuesto en el artículo anterior' (línea 2082)."
+    },
+    {
+      "q": "Conforme al art. 84 bis.1.a) LBRL, podrá exigirse licencia u otro medio de control preventivo cuando esté justificado por razones de:",
+      "options": [
+        "Conveniencia presupuestaria del Ayuntamiento",
+        "Orden público, seguridad pública, salud pública o protección del medio ambiente en el lugar concreto donde se realiza la actividad",
+        "Antigüedad del establecimiento",
+        "Preferencia del equipo de gobierno municipal"
+      ],
+      "correct": 1,
+      "exp": "El art. 84 bis.1.a) LBRL permite exigir licencia cuando esté justificado por razones de orden público, seguridad pública, salud pública o protección del medio ambiente en el lugar concreto donde se realiza la actividad.",
+      "fuente": "Art. 84 bis.1.a) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: la letra a) del art. 84 bis.1 cita 'razones de orden público, seguridad pública, salud pública o protección del medio ambiente en el lugar concreto donde se realiza la actividad' (línea 2084)."
+    },
+    {
+      "q": "El art. 84 bis.1.a) LBRL exige, además de la concurrencia de esas razones, que:",
+      "options": [
+        "El Pleno lo apruebe por mayoría absoluta",
+        "Exista informe previo de la Comunidad Autónoma",
+        "Esas razones no puedan salvaguardarse mediante la presentación de una declaración responsable o de una comunicación",
+        "La actividad genere ingresos fiscales para el municipio"
+      ],
+      "correct": 2,
+      "exp": "El art. 84 bis.1.a) LBRL condiciona la exigencia de licencia a que esas razones no puedan salvaguardarse mediante la presentación de una declaración responsable o de una comunicación.",
+      "fuente": "Art. 84 bis.1.a) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: la letra a) del art. 84 bis.1 añade 'estas razones no puedan salvaguardarse mediante la presentación de una declaración responsable o de una comunicación' (línea 2084)."
+    },
+    {
+      "q": "Según el art. 84 bis.1.b) LBRL, podrá exigirse licencia u otro medio de control preventivo cuando el número de operadores económicos del mercado sea limitado en función de:",
+      "options": [
+        "El volumen de facturación de la empresa",
+        "La ubicación de la actividad en el centro histórico",
+        "La escasez de recursos naturales, la utilización del dominio público, inequívocos impedimentos técnicos o la existencia de servicios públicos sometidos a tarifas reguladas",
+        "El número de trabajadores contratados"
+      ],
+      "correct": 2,
+      "exp": "El art. 84 bis.1.b) LBRL permite exigir licencia cuando, por escasez de recursos naturales, utilización de dominio público, inequívocos impedimentos técnicos o existencia de servicios públicos sometidos a tarifas reguladas, el número de operadores económicos del mercado sea limitado.",
+      "fuente": "Art. 84 bis.1.b) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: la letra b) del art. 84 bis.1 cita 'escasez de recursos naturales, la utilización de dominio público, la existencia de inequívocos impedimentos técnicos o... servicios públicos sometidos a tarifas reguladas' (línea 2085)."
+    },
+    {
+      "q": "El art. 84 bis.1 LBRL permite, como excepción a la regla general, exigir licencia u otro medio de control preventivo respecto a aquellas actividades económicas en dos supuestos. ¿Cuáles son?",
+      "options": [
+        "Solo cuando lo solicite voluntariamente el interesado",
+        "Cuando esté justificado por razones de orden público, seguridad, salud pública o protección del medio ambiente, o cuando el número de operadores esté limitado por escasez de recursos naturales, uso del dominio público, impedimentos técnicos o tarifas reguladas",
+        "Únicamente cuando la actividad se ubique en suelo urbano consolidado",
+        "Únicamente cuando la actividad genere ingresos tributarios"
+      ],
+      "correct": 1,
+      "exp": "El art. 84 bis.1 LBRL recoge en sus letras a) y b) los dos únicos supuestos en que puede exigirse licencia u otro medio de control preventivo: razones de orden público, seguridad, salud pública o medio ambiente (letra a), o limitación del número de operadores por escasez de recursos, dominio público, impedimentos técnicos o tarifas reguladas (letra b).",
+      "fuente": "Art. 84 bis.1 LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: las letras a) y b) del art. 84 bis.1 (líneas 2084-2085) son los dos únicos supuestos excepcionales descritos, coincide con la opción marcada."
+    },
+    {
+      "q": "El art. 84 bis.2 LBRL establece que las instalaciones o infraestructuras físicas para el ejercicio de actividades económicas solo se someterán a un régimen de autorización cuando:",
+      "options": [
+        "Lo decida el Alcalde mediante decreto motivado",
+        "Lo establezca una Ley que defina sus requisitos esenciales, sean susceptibles de generar los daños previstos y resulte proporcionado",
+        "Lo solicite voluntariamente el titular de la actividad",
+        "Exista precedente de autorización en otro municipio de la provincia"
+      ],
+      "correct": 1,
+      "exp": "El art. 84 bis.2 LBRL exige que sea una Ley la que defina los requisitos esenciales, que las instalaciones sean susceptibles de generar los daños que la norma prevé, y que la exigencia de autorización resulte proporcionada.",
+      "fuente": "Art. 84 bis.2 LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: el art. 84 bis.2 LBRL exige que 'lo establezca una Ley que defina sus requisitos esenciales y las mismas sean susceptibles de generar daños... y resulte proporcionado' (línea 2086)."
+    },
+    {
+      "q": "Según el art. 84 bis.2 LBRL, el régimen de autorización de instalaciones exige que éstas sean susceptibles de generar daños sobre:",
+      "options": [
+        "Exclusivamente los intereses económicos municipales",
+        "El medioambiente y el entorno urbano, la seguridad o la salud públicas y el patrimonio histórico",
+        "Únicamente el tráfico rodado",
+        "Exclusivamente la salud de los trabajadores de la instalación"
+      ],
+      "correct": 1,
+      "exp": "El art. 84 bis.2 LBRL exige que la instalación sea susceptible de generar daños sobre el medioambiente y el entorno urbano, la seguridad o la salud públicas y el patrimonio histórico.",
+      "fuente": "Art. 84 bis.2 LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: el art. 84 bis.2 cita literalmente 'el medioambiente y el entorno urbano, la seguridad o la salud públicas y el patrimonio histórico' (línea 2086)."
+    },
+    {
+      "q": "¿Cuántas características enumera, como mínimo, el art. 84 bis.2 LBRL para determinar la evaluación del riesgo de las instalaciones o infraestructuras físicas?",
+      "options": [
+        "Cuatro",
+        "Cinco",
+        "Siete",
+        "Seis"
+      ],
+      "correct": 3,
+      "exp": "El art. 84 bis.2 LBRL enumera seis características, en las letras a) a f): potencia eléctrica o energética, capacidad o aforo, contaminación acústica, composición de aguas residuales, materiales inflamables o contaminantes, y afectación a bienes de patrimonio histórico.",
+      "fuente": "Art. 84 bis.2 LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: el art. 84 bis.2 enumera seis características en las letras a) a f) (líneas 2087-2092), introducidas con la fórmula abierta 'entre las que estarán las siguientes', compatible con el enunciado 'como mínimo'."
+    },
+    {
+      "q": "Entre las características citadas en el art. 84 bis.2.a) LBRL para evaluar el riesgo de una instalación se encuentra:",
+      "options": [
+        "La potencia eléctrica o energética de la instalación",
+        "El volumen de negocio anual de la empresa titular",
+        "El número de accionistas de la sociedad",
+        "La antigüedad de la licencia de obras"
+      ],
+      "correct": 0,
+      "exp": "El art. 84 bis.2.a) LBRL cita la potencia eléctrica o energética de la instalación como característica a valorar.",
+      "fuente": "Art. 84 bis.2.a) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: la letra a) del art. 84 bis.2 dice 'La potencia eléctrica o energética de la instalación' (línea 2087)."
+    },
+    {
+      "q": "El art. 84 bis.2.b) LBRL incluye, entre las características a valorar, la:",
+      "options": [
+        "Titularidad pública o privada del suelo",
+        "Capacidad o aforo de la instalación",
+        "Distancia a la sede del Ayuntamiento",
+        "Fecha de constitución de la sociedad titular"
+      ],
+      "correct": 1,
+      "exp": "El art. 84 bis.2.b) LBRL cita la capacidad o aforo de la instalación como característica a valorar.",
+      "fuente": "Art. 84 bis.2.b) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: la letra b) del art. 84 bis.2 dice 'La capacidad o aforo de la instalación' (línea 2088)."
+    },
+    {
+      "q": "Según el art. 84 bis.2.c) LBRL, es un factor a considerar en la evaluación del riesgo de la instalación:",
+      "options": [
+        "El coste de construcción de la instalación",
+        "El horario comercial de apertura",
+        "La contaminación acústica",
+        "El número de plazas de aparcamiento"
+      ],
+      "correct": 2,
+      "exp": "El art. 84 bis.2.c) LBRL cita la contaminación acústica como característica a valorar en la evaluación del riesgo.",
+      "fuente": "Art. 84 bis.2.c) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: la letra c) del art. 84 bis.2 dice 'La contaminación acústica' (línea 2089)."
+    },
+    {
+      "q": "El art. 84 bis.2.d) LBRL cita, entre las características de la instalación a evaluar:",
+      "options": [
+        "La composición de las aguas residuales que emita la instalación y su capacidad de depuración",
+        "El régimen fiscal aplicable a la actividad",
+        "La nacionalidad del titular de la instalación",
+        "El número de licencias urbanísticas previas concedidas"
+      ],
+      "correct": 0,
+      "exp": "El art. 84 bis.2.d) LBRL cita la composición de las aguas residuales que emita la instalación y su capacidad de depuración.",
+      "fuente": "Art. 84 bis.2.d) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: la letra d) del art. 84 bis.2 dice 'La composición de las aguas residuales que emita la instalación y su capacidad de depuración' (línea 2090)."
+    },
+    {
+      "q": "Conforme al art. 84 bis.2.e) LBRL, se tendrá en cuenta como factor de riesgo:",
+      "options": [
+        "La existencia de materiales inflamables o contaminantes",
+        "La proximidad a un centro educativo",
+        "El horario de apertura al público",
+        "La existencia de aparcamiento propio"
+      ],
+      "correct": 0,
+      "exp": "El art. 84 bis.2.e) LBRL cita la existencia de materiales inflamables o contaminantes como factor a valorar.",
+      "fuente": "Art. 84 bis.2.e) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: la letra e) del art. 84 bis.2 dice 'La existencia de materiales inflamables o contaminantes' (línea 2091)."
+    },
+    {
+      "q": "El art. 84 bis.2.f) LBRL incluye entre los factores de evaluación del riesgo:",
+      "options": [
+        "Las instalaciones situadas en suelo rústico",
+        "Las instalaciones que afecten a bienes declarados integrantes del patrimonio histórico",
+        "Las instalaciones con más de diez trabajadores",
+        "Las instalaciones de titularidad extranjera"
+      ],
+      "correct": 1,
+      "exp": "El art. 84 bis.2.f) LBRL cita las instalaciones que afecten a bienes declarados integrantes del patrimonio histórico.",
+      "fuente": "Art. 84 bis.2.f) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: la letra f) del art. 84 bis.2 dice 'Las instalaciones que afecten a bienes declarados integrantes del patrimonio histórico' (línea 2092)."
+    },
+    {
+      "q": "¿Cuál de las siguientes características NO figura entre las enumeradas en el art. 84 bis.2 LBRL para evaluar el riesgo de una instalación?",
+      "options": [
+        "El volumen de negocio anual de la empresa titular",
+        "La potencia eléctrica o energética de la instalación",
+        "La capacidad o aforo de la instalación",
+        "La contaminación acústica"
+      ],
+      "correct": 0,
+      "exp": "El art. 84 bis.2 LBRL no incluye el volumen de negocio entre sus seis características (letras a) a f)); sí figuran la potencia eléctrica, la capacidad o aforo y la contaminación acústica.",
+      "fuente": "Art. 84 bis.2 LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: repasadas las letras a)-f) del art. 84 bis.2 (líneas 2087-2092), el volumen de negocio anual no figura; las otras tres opciones sí aparecen literalmente."
+    },
+    {
+      "q": "Según el art. 84 bis.3 LBRL, en caso de existencia de licencias o autorizaciones concurrentes entre una Entidad Local y otra Administración, la Entidad Local deberá:",
+      "options": [
+        "Renunciar automáticamente a exigir su propia licencia",
+        "Motivar expresamente, en la justificación de la necesidad de la autorización o licencia, el interés general concreto que se pretende proteger",
+        "Solicitar autorización previa de la Comunidad Autónoma",
+        "Suspender el procedimiento hasta que se resuelva el conflicto de competencias"
+      ],
+      "correct": 1,
+      "exp": "El art. 84 bis.3 LBRL exige que la Entidad Local motive expresamente, en la justificación de la necesidad de la autorización o licencia, el interés general concreto que se pretende proteger.",
+      "fuente": "Art. 84 bis.3 LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: el art. 84 bis.3 LBRL exige 'motivar expresamente en la justificación de la necesidad de la autorización o licencia el interés general concreto que se pretende proteger' (línea 2093)."
+    },
+    {
+      "q": "El art. 84 bis.3 LBRL exige que la Entidad Local justifique, además del interés general concreto, que dicho interés:",
+      "options": [
+        "Genera ingresos tributarios suficientes",
+        "Cuenta con el respaldo de la opinión pública local",
+        "No se encuentra ya cubierto mediante otra autorización ya existente",
+        "Ha sido informado favorablemente por el Consejo de Estado"
+      ],
+      "correct": 2,
+      "exp": "El art. 84 bis.3 LBRL exige justificar que el interés general concreto que se pretende proteger no se encuentra ya cubierto mediante otra autorización ya existente.",
+      "fuente": "Art. 84 bis.3 LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: el art. 84 bis.3 exige además 'que éste no se encuentra ya cubierto mediante otra autorización ya existente' (línea 2093)."
+    },
+    {
+      "q": "Conforme al art. 84 bis.3 LBRL, en el supuesto de licencias concurrentes con otra Administración, ¿cuál de las siguientes NO es una exigencia impuesta a la Entidad Local?",
+      "options": [
+        "Obtener el visto bueno previo de la Administración concurrente",
+        "Motivar expresamente el interés general concreto que se pretende proteger",
+        "Justificar que ese interés no está ya cubierto por otra autorización existente",
+        "Hacerlo en la justificación de la necesidad de la autorización o licencia"
+      ],
+      "correct": 0,
+      "exp": "El art. 84 bis.3 LBRL no exige el visto bueno previo de la Administración concurrente; sí exige motivar el interés general concreto y justificar que no está ya cubierto por otra autorización, dentro de la justificación de la necesidad de la autorización o licencia.",
+      "fuente": "Art. 84 bis.3 LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: el art. 84 bis.3 (línea 2093) no menciona en ningún momento un visto bueno previo de la Administración concurrente; las otras tres opciones sí son exigencias literales del precepto."
+    },
+    {
+      "q": "El art. 84 ter LBRL dispone que, cuando el ejercicio de actividades no precise autorización habilitante y previa, las Entidades locales deberán:",
+      "options": [
+        "Suprimir todo control sobre la actividad",
+        "Establecer y planificar los procedimientos de comunicación necesarios, así como los de verificación posterior del cumplimiento de los requisitos precisos",
+        "Delegar el control de la actividad en la Comunidad Autónoma",
+        "Exigir en todo caso una declaración jurada ante notario"
+      ],
+      "correct": 1,
+      "exp": "El art. 84 ter LBRL obliga a las Entidades locales a establecer y planificar los procedimientos de comunicación necesarios, así como los de verificación posterior del cumplimiento de los requisitos precisos para el ejercicio de la actividad.",
+      "fuente": "Art. 84 ter LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: el art. 84 ter LBRL dice literalmente 'las Entidades locales deberán establecer y planificar los procedimientos de comunicación necesarios, así como los de verificación posterior del cumplimiento de los requisitos precisos' (línea 2107)."
+    },
+    {
+      "q": "Según el art. 84 ter LBRL, los procedimientos de verificación posterior tienen por objeto comprobar el cumplimiento de los requisitos previstos para el ejercicio de la actividad por los interesados en:",
+      "options": [
+        "El Código Civil",
+        "La legislación sectorial",
+        "Las ordenanzas fiscales municipales exclusivamente",
+        "El Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales"
+      ],
+      "correct": 1,
+      "exp": "El art. 84 ter LBRL remite a los requisitos precisos para el ejercicio de la actividad por los interesados previstos en la legislación sectorial.",
+      "fuente": "Art. 84 ter LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: el art. 84 ter remite a los requisitos 'previstos en la legislación sectorial' (línea 2107)."
+    },
+    {
+      "q": "El art. 84 ter LBRL se aplica a las actividades que:",
+      "options": [
+        "Precisen siempre autorización previa",
+        "No precisen autorización habilitante y previa",
+        "Estén sujetas a evaluación de impacto ambiental ordinaria",
+        "Sean ejercidas exclusivamente por funcionarios públicos"
+      ],
+      "correct": 1,
+      "exp": "El art. 84 ter LBRL se refiere expresamente al ejercicio de actividades que no precisen autorización habilitante y previa.",
+      "fuente": "Art. 84 ter LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: el art. 84 ter se aplica 'cuando el ejercicio de actividades no precise autorización habilitante y previa' (línea 2107)."
+    },
+    {
+      "q": "Conforme al art. 84 ter LBRL, las Entidades locales deben planificar dos tipos de procedimientos. ¿Cuáles son?",
+      "options": [
+        "Los de comunicación necesarios y los de verificación posterior del cumplimiento de los requisitos",
+        "Los de inspección tributaria y los de recaudación ejecutiva",
+        "Los de contratación pública y los de fiscalización previa",
+        "Los de responsabilidad patrimonial y los de revisión de oficio"
+      ],
+      "correct": 0,
+      "exp": "El art. 84 ter LBRL exige planificar los procedimientos de comunicación necesarios y los de verificación posterior del cumplimiento de los requisitos precisos para el ejercicio de la actividad.",
+      "fuente": "Art. 84 ter LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: el art. 84 ter cita los dos procedimientos 'de comunicación necesarios' y 'de verificación posterior del cumplimiento de los requisitos precisos' (línea 2107)."
+    },
+    {
+      "q": "El art. 84.1.c) LBRL somete determinadas actividades a:",
+      "options": [
+        "Comunicación previa o a declaración responsable",
+        "Autorización sectorial exclusiva",
+        "Régimen sancionador especial",
+        "Inscripción registral obligatoria"
+      ],
+      "correct": 0,
+      "exp": "El art. 84.1.c) LBRL contempla el sometimiento a comunicación previa o a declaración responsable como medio de intervención administrativa.",
+      "fuente": "Art. 84.1.c) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: la letra c) del art. 84.1 somete a 'comunicación previa o a declaración responsable' (línea 2064), redundante con otra pregunta del lote pero correcta."
+    },
+    {
+      "q": "¿Cuántos apartados tiene el art. 84 LBRL, tal y como está redactado tras sus modificaciones?",
+      "options": [
+        "Dos",
+        "Tres",
+        "Cuatro",
+        "Uno"
+      ],
+      "correct": 1,
+      "exp": "El art. 84 LBRL consta de tres apartados: el 1 (medios de intervención, con letras a) a e)), el 2 (principios de igualdad de trato, necesidad y proporcionalidad) y el 3 (licencias de otras Administraciones).",
+      "fuente": "Art. 84 LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: el art. 84 LBRL vigente consta de tres apartados numerados 1, 2 y 3 (líneas 2059, 2069 y 2070)."
+    },
+    {
+      "q": "El art. 84 bis LBRL distingue dos regímenes distintos de control preventivo. ¿Cuáles son, según sus apartados 1 y 2?",
+      "options": [
+        "El aplicable al ejercicio de actividades económicas en general (apartado 1) y el aplicable a las instalaciones o infraestructuras físicas (apartado 2)",
+        "El aplicable a personas físicas (apartado 1) y a personas jurídicas (apartado 2)",
+        "El aplicable a la Administración General del Estado (apartado 1) y a las Comunidades Autónomas (apartado 2)",
+        "El aplicable en suelo urbano (apartado 1) y en suelo rústico (apartado 2)"
+      ],
+      "correct": 0,
+      "exp": "El art. 84 bis.1 LBRL regula el régimen general de no exigencia de licencia para el ejercicio de actividades económicas y sus excepciones, mientras que el art. 84 bis.2 LBRL regula específicamente el régimen de autorización de instalaciones o infraestructuras físicas.",
+      "fuente": "Art. 84 bis LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado: el art. 84 bis.1 regula el régimen general y sus excepciones para 'el ejercicio de actividades' (línea 2082) y el art. 84 bis.2 regula específicamente 'las instalaciones o infraestructuras físicas para el ejercicio de actividades económicas' (línea 2086)."
+    }
+  ]
+}
