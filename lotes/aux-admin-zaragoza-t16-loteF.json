@@ -1,0 +1,487 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 16,
+  "tramo": "LBRL arts. 127-141 (gran población, convivencia, sanciones) + ROF",
+  "preguntas": [
+    {
+      "q": "¿A qué órgano corresponde, en los municipios de gran población, la aprobación de los proyectos de ordenanzas y de los reglamentos, incluidos los orgánicos, con la excepción de las normas reguladoras del Pleno y sus comisiones?",
+      "options": [
+        "Al Pleno de la Corporación",
+        "A la Junta de Gobierno Local",
+        "Al Alcalde o Presidente"
+      ],
+      "correct": 1,
+      "exp": "El art. 127.1.a) LBRL atribuye a la Junta de Gobierno Local la aprobación de los proyectos de ordenanzas y de los reglamentos, incluidos los orgánicos, con excepción de las normas reguladoras del Pleno y sus comisiones.",
+      "fuente": "Art. 127.1.a) LBRL (Ley 7/1985)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 127.1.a) LBRL, ¿qué normas quedan excluidas de la competencia de la Junta de Gobierno Local para aprobar proyectos de ordenanzas y reglamentos?",
+      "options": [
+        "Las normas reguladoras del Pleno y sus comisiones",
+        "Las ordenanzas fiscales de cualquier tipo",
+        "Los reglamentos de régimen interior del personal municipal"
+      ],
+      "correct": 0,
+      "exp": "El art. 127.1.a) LBRL excluye expresamente de la competencia de la Junta de Gobierno Local las normas reguladoras del Pleno y sus comisiones, que corresponden al Pleno.",
+      "fuente": "Art. 127.1.a) LBRL (Ley 7/1985)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿A qué órgano corresponde el ejercicio de la potestad sancionadora en los municipios de gran población, según el art. 127.1.l) LBRL?",
+      "options": [
+        "Al Pleno, salvo que una ley la atribuya a otro órgano",
+        "Al Alcalde, en todo caso y sin excepciones",
+        "A la Junta de Gobierno Local, salvo que por ley esté atribuida a otro órgano"
+      ],
+      "correct": 2,
+      "exp": "El art. 127.1.l) LBRL atribuye a la Junta de Gobierno Local el ejercicio de la potestad sancionadora salvo que por ley esté atribuida a otro órgano.",
+      "fuente": "Art. 127.1.l) LBRL (Ley 7/1985)",
+      "confianza": "alta"
+    },
+    {
+      "q": "De las funciones que el art. 127.1 LBRL atribuye a la Junta de Gobierno Local, ¿cuál de las siguientes NO puede ser delegada en ningún caso, conforme al art. 127.2 LBRL?",
+      "options": [
+        "El desarrollo de la gestión económica ordinaria",
+        "La aprobación de la relación de puestos de trabajo",
+        "La concesión de licencias no reservadas a otro órgano"
+      ],
+      "correct": 1,
+      "exp": "El art. 127.2 LBRL excluye de la delegación, entre otras, la aprobación de la relación de puestos de trabajo, las retribuciones del personal, la oferta de empleo público, el número y régimen del personal eventual y la separación del servicio de los funcionarios.",
+      "fuente": "Art. 127.2 LBRL (Ley 7/1985)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 127.1.c) LBRL, la Junta de Gobierno Local aprueba los proyectos de instrumentos de ordenación urbanística:",
+      "options": [
+        "Cuya aprobación definitiva o provisional corresponda al Pleno",
+        "En todo caso, sin excepción alguna",
+        "Únicamente cuando lo delegue expresamente el Pleno mediante ordenanza"
+      ],
+      "correct": 0,
+      "exp": "El art. 127.1.c) LBRL atribuye a la Junta de Gobierno Local la aprobación de los proyectos de instrumentos de ordenación urbanística cuya aprobación definitiva o provisional corresponda al Pleno.",
+      "fuente": "Art. 127.1.c) LBRL (Ley 7/1985)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué funciones de gestión económica atribuye el art. 127.1.g) LBRL a la Junta de Gobierno Local?",
+      "options": [
+        "El desarrollo de la gestión económica, autorizar y disponer gastos en materia de su competencia, y la gestión del personal",
+        "La aprobación definitiva de los presupuestos generales del Ayuntamiento",
+        "La fiscalización previa de todos los gastos municipales, sustituyendo a la Intervención"
+      ],
+      "correct": 0,
+      "exp": "El art. 127.1.g) LBRL atribuye a la Junta de Gobierno Local el desarrollo de la gestión económica, autorizar y disponer gastos en materia de su competencia, disponer gastos previamente autorizados por el Pleno, y la gestión del personal.",
+      "fuente": "Art. 127.1.g) LBRL (Ley 7/1985)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El ejercicio de las acciones judiciales y administrativas en materia de su competencia corresponde, en los municipios de gran población, a:",
+      "options": [
+        "La Junta de Gobierno Local, conforme al art. 127.1.j) LBRL",
+        "El Pleno, mediante acuerdo adoptado en sesión extraordinaria",
+        "El Secretario general del Pleno, por delegación permanente"
+      ],
+      "correct": 0,
+      "exp": "El art. 127.1.j) LBRL atribuye a la Junta de Gobierno Local el ejercicio de las acciones judiciales y administrativas en materia de su competencia.",
+      "fuente": "Art. 127.1.j) LBRL (Ley 7/1985)",
+      "confianza": "alta"
+    },
+    {
+      "q": "La facultad de revisión de oficio de sus propios actos corresponde, según el art. 127.1.k) LBRL, a:",
+      "options": [
+        "La propia Junta de Gobierno Local",
+        "El Pleno de la Corporación, en todo caso",
+        "El Alcalde, previo dictamen preceptivo del Consejo de Estado"
+      ],
+      "correct": 0,
+      "exp": "El art. 127.1.k) LBRL atribuye a la Junta de Gobierno Local las facultades de revisión de oficio de sus propios actos.",
+      "fuente": "Art. 127.1.k) LBRL (Ley 7/1985)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 128.1 LBRL, los ayuntamientos de gran población:",
+      "options": [
+        "Podrán crear distritos únicamente si lo solicita la mayoría de los vecinos",
+        "Deberán suprimir cualquier distrito preexistente al iniciar cada mandato corporativo",
+        "Deberán crear distritos, como divisiones territoriales propias dotadas de órganos de gestión desconcentrada"
+      ],
+      "correct": 2,
+      "exp": "El art. 128.1 LBRL establece que los ayuntamientos deberán crear distritos, como divisiones territoriales propias, dotadas de órganos de gestión desconcentrada, para impulsar y desarrollar la participación ciudadana.",
+      "fuente": "Art. 128.1 LBRL (Ley 7/1985)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿A qué órgano corresponde la creación de los distritos y su regulación, según el art. 128.2 LBRL?",
+      "options": [
+        "Al Pleno de la Corporación",
+        "A la Junta de Gobierno Local",
+        "Al Alcalde o Presidente, mediante decreto"
+      ],
+      "correct": 0,
+      "exp": "El art. 128.2 LBRL atribuye al Pleno de la Corporación la creación de los distritos y su regulación.",
+      "fuente": "Art. 128.2 LBRL (Ley 7/1985)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El porcentaje mínimo de recursos presupuestarios de la corporación que deben gestionar los distritos en su conjunto debe determinarse, conforme al art. 128.2 LBRL, mediante:",
+      "options": [
+        "Una ordenanza fiscal específica de distritos",
+        "Un decreto motivado de la Alcaldía",
+        "Una norma de carácter orgánico"
+      ],
+      "correct": 2,
+      "exp": "El art. 128.2 LBRL exige que el porcentaje mínimo de recursos presupuestarios que deben gestionar los distritos se determine en una norma de carácter orgánico.",
+      "fuente": "Art. 128.2 LBRL (Ley 7/1985)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 128.3 LBRL, la presidencia de un distrito corresponderá en todo caso a:",
+      "options": [
+        "Un vecino del distrito elegido por el consejo de participación",
+        "Un concejal",
+        "El funcionario municipal de mayor antigüedad destinado en el distrito"
+      ],
+      "correct": 1,
+      "exp": "El art. 128.3 LBRL dispone que la presidencia del distrito corresponderá en todo caso a un concejal.",
+      "fuente": "Art. 128.3 LBRL (Ley 7/1985)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 139 LBRL, la habilitación para tipificar infracciones y sanciones en ordenanzas locales se refiere a la ordenación de las relaciones de convivencia de interés local y del uso de:",
+      "options": [
+        "Sus servicios, equipamientos, infraestructuras, instalaciones y espacios públicos",
+        "Exclusivamente las vías públicas de titularidad municipal",
+        "Los bienes de dominio público marítimo-terrestre"
+      ],
+      "correct": 0,
+      "exp": "El art. 139 LBRL habilita a los entes locales a tipificar infracciones para la adecuada ordenación de las relaciones de convivencia de interés local y del uso de sus servicios, equipamientos, infraestructuras, instalaciones y espacios públicos.",
+      "fuente": "Art. 139 LBRL (Ley 7/1985)",
+      "confianza": "alta"
+    },
+    {
+      "q": "La habilitación del art. 139 LBRL para que los entes locales tipifiquen infracciones mediante ordenanza opera:",
+      "options": [
+        "En cualquier caso, con independencia de que exista normativa sectorial",
+        "Solo previa autorización expresa de la comunidad autónoma respectiva",
+        "En defecto de normativa sectorial específica"
+      ],
+      "correct": 2,
+      "exp": "El art. 139 LBRL condiciona la potestad tipificadora local a que no exista normativa sectorial específica sobre la materia.",
+      "fuente": "Art. 139 LBRL (Ley 7/1985)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 140.1.a) LBRL, la perturbación relevante de la convivencia que afecte de manera grave, inmediata y directa a la tranquilidad o al ejercicio de derechos legítimos de otras personas se considera infracción muy grave siempre que:",
+      "options": [
+        "Se trate de conductas no subsumibles en los tipos del capítulo IV de la Ley Orgánica 1/1992, de Protección de la Seguridad Ciudadana",
+        "Se haya cometido en un inmueble de titularidad municipal",
+        "Haya sido denunciada por escrito ante el registro municipal"
+      ],
+      "correct": 0,
+      "exp": "El art. 140.1.a) LBRL exige, para calificar esa perturbación como infracción muy grave, que se trate de conductas no subsumibles en los tipos previstos en el capítulo IV de la Ley Orgánica 1/1992, de Protección de la Seguridad Ciudadana.",
+      "fuente": "Art. 140.1.a) LBRL (Ley 7/1985)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuál de las siguientes conductas tipifica como infracción muy grave el art. 140.1.c) LBRL?",
+      "options": [
+        "El impedimento del uso de un servicio público por persona con derecho a su utilización",
+        "El impedimento o la grave y relevante obstrucción al normal funcionamiento de un servicio público",
+        "El deterioro grave y relevante de espacios públicos derivado de alteraciones de la seguridad ciudadana"
+      ],
+      "correct": 1,
+      "exp": "El art. 140.1.c) LBRL tipifica como infracción muy grave el impedimento o la grave y relevante obstrucción al normal funcionamiento de un servicio público, distinto del impedimento de uso regulado en la letra b) y del deterioro de espacios de la letra f).",
+      "fuente": "Art. 140.1.c) LBRL (Ley 7/1985)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 140.1.f) LBRL tipifica como infracción muy grave el deterioro grave y relevante de espacios públicos o de sus instalaciones y elementos, muebles o inmuebles, siempre que:",
+      "options": [
+        "Haya sido cometido por menores de edad",
+        "Se produzca en horario nocturno",
+        "No derive de alteraciones de la seguridad ciudadana"
+      ],
+      "correct": 2,
+      "exp": "El art. 140.1.f) LBRL exige que esos actos de deterioro no deriven de alteraciones de la seguridad ciudadana, para diferenciarlos de los tipos de la Ley Orgánica 1/1992.",
+      "fuente": "Art. 140.1.f) LBRL (Ley 7/1985)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Para clasificar en graves y leves las infracciones distintas de las muy graves, el art. 140.2.a) LBRL atiende, entre otros criterios, a:",
+      "options": [
+        "La intensidad de la perturbación ocasionada en la tranquilidad o en el pacífico ejercicio de los derechos de otras personas",
+        "El importe de la fianza depositada por el presunto infractor",
+        "La existencia de antecedentes penales del infractor"
+      ],
+      "correct": 0,
+      "exp": "El art. 140.2.a) LBRL incluye entre los criterios de clasificación la intensidad de la perturbación ocasionada en la tranquilidad o en el pacífico ejercicio de los derechos de otras personas o actividades.",
+      "fuente": "Art. 140.2.a) LBRL (Ley 7/1985)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuál de los siguientes NO figura entre los criterios que el art. 140.2 LBRL enumera para clasificar en graves y leves las infracciones de las ordenanzas de convivencia?",
+      "options": [
+        "La intensidad de la perturbación causada a la salubridad u ornato públicos",
+        "La intensidad de los daños ocasionados a los equipamientos, infraestructuras o instalaciones de un servicio público",
+        "El grado de reincidencia del infractor en los últimos cinco años"
+      ],
+      "correct": 2,
+      "exp": "El art. 140.2 LBRL enumera cinco criterios (letras a a e) referidos a la intensidad de la perturbación o de los daños; no menciona la reincidencia.",
+      "fuente": "Art. 140.2 LBRL (Ley 7/1985)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 141 LBRL, salvo previsión legal distinta, el límite máximo de las multas por infracciones muy graves de las ordenanzas locales es de:",
+      "options": [
+        "1.500 euros",
+        "750 euros",
+        "3.000 euros"
+      ],
+      "correct": 2,
+      "exp": "El art. 141 LBRL fija en 3.000 euros el límite máximo de las multas por infracciones muy graves de ordenanzas locales, salvo previsión legal distinta.",
+      "fuente": "Art. 141 LBRL (Ley 7/1985)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 141 LBRL, salvo previsión legal distinta, el límite máximo de las multas por infracciones leves de las ordenanzas locales es de:",
+      "options": [
+        "750 euros",
+        "1.500 euros",
+        "3.000 euros"
+      ],
+      "correct": 0,
+      "exp": "El art. 141 LBRL fija en 750 euros el límite máximo de las multas por infracciones leves de ordenanzas locales, salvo previsión legal distinta.",
+      "fuente": "Art. 141 LBRL (Ley 7/1985)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 141 LBRL, al fijar las cuantías máximas de las multas por infracción de ordenanzas locales, comienza con la salvedad:",
+      "options": [
+        "\"Sin perjuicio de lo dispuesto en la legislación autonómica\"",
+        "\"Salvo previsión legal distinta\"",
+        "\"Previa autorización de la Administración del Estado\""
+      ],
+      "correct": 1,
+      "exp": "El art. 141 LBRL dispone que, salvo previsión legal distinta, las multas por infracción de ordenanzas locales deberán respetar las cuantías que a continuación establece.",
+      "fuente": "Art. 141 LBRL (Ley 7/1985)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 123.1 ROF, las Comisiones Informativas son órganos que:",
+      "options": [
+        "Tienen atribuciones resolutorias delegadas por el Pleno",
+        "Carecen de atribuciones resolutorias y tienen función de estudio, informe o consulta de los asuntos sometidos al Pleno",
+        "Sustituyen a la Junta de Gobierno Local en su ausencia"
+      ],
+      "correct": 1,
+      "exp": "El art. 123.1 ROF define las Comisiones Informativas como órganos sin atribuciones resolutorias, cuya función es el estudio, informe o consulta de los asuntos que hayan de someterse a la decisión del Pleno.",
+      "fuente": "Art. 123.1 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 124 ROF, las Comisiones informativas permanentes se caracterizan por:",
+      "options": [
+        "Constituirse para un asunto concreto y extinguirse al dictaminarlo",
+        "Estar integradas únicamente por personal técnico municipal",
+        "Constituirse con carácter general, distribuyendo entre ellas las materias que han de someterse al Pleno"
+      ],
+      "correct": 2,
+      "exp": "El art. 124.2 ROF establece que son Comisiones informativas permanentes las que se constituyen con carácter general, distribuyendo entre ellas las materias que han de someterse al Pleno.",
+      "fuente": "Art. 124.2 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 124.3 ROF, las Comisiones informativas especiales:",
+      "options": [
+        "Se extinguen automáticamente una vez que han dictaminado o informado sobre su objeto, salvo que el acuerdo plenario disponga otra cosa",
+        "Permanecen constituidas durante todo el mandato corporativo",
+        "Solo pueden crearse para asuntos de personal"
+      ],
+      "correct": 0,
+      "exp": "El art. 124.3 ROF dispone que las Comisiones informativas especiales se extinguen automáticamente una vez que hayan dictaminado o informado sobre el asunto que constituye su objeto, salvo que el acuerdo plenario que las creó disponga otra cosa.",
+      "fuente": "Art. 124.3 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 125.a) ROF, la presidencia de las Comisiones Informativas corresponde:",
+      "options": [
+        "A un concejal elegido democráticamente entre los miembros de cada Comisión",
+        "Al Alcalde o Presidente de la Corporación, como presidente nato, sin posibilidad de delegación",
+        "Al Alcalde o Presidente, como presidente nato, aunque puede delegar la presidencia efectiva en un miembro de la Corporación a propuesta de la propia Comisión"
+      ],
+      "correct": 2,
+      "exp": "El art. 125.a) ROF establece que el Alcalde o Presidente es el presidente nato de todas las Comisiones Informativas, pudiendo delegar la presidencia efectiva en cualquier miembro de la Corporación, a propuesta de la propia Comisión.",
+      "fuente": "Art. 125.a) ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "La composición de cada Comisión Informativa debe respetar, según el art. 125.b) ROF, el criterio de:",
+      "options": [
+        "Igualdad de representantes por cada grupo político, con independencia de su tamaño",
+        "Proporcionalidad respecto de los distintos grupos políticos representados en la Corporación",
+        "Mayoría absoluta para el grupo de gobierno en todas las Comisiones"
+      ],
+      "correct": 1,
+      "exp": "El art. 125.b) ROF exige que cada Comisión esté integrada de forma que su composición se acomode a la proporcionalidad existente entre los distintos grupos políticos representados en la Corporación.",
+      "fuente": "Art. 125.b) ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 126.1 ROF, los dictámenes de las Comisiones informativas tienen carácter:",
+      "options": [
+        "Preceptivo y vinculante para el Pleno",
+        "Facultativo y no vinculante",
+        "Preceptivo y no vinculante"
+      ],
+      "correct": 2,
+      "exp": "El art. 126.1 ROF establece expresamente que los dictámenes de las Comisiones informativas tienen carácter preceptivo y no vinculante.",
+      "fuente": "Art. 126.1 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Si el Pleno adopta, por razones de urgencia, un acuerdo sobre un asunto no dictaminado por la Comisión Informativa correspondiente, el art. 126.2 ROF exige que:",
+      "options": [
+        "El acuerdo se anule automáticamente si no hay dictamen previo",
+        "Se dé cuenta del acuerdo adoptado a la Comisión Informativa en la primera sesión que ésta celebre",
+        "El Secretario deniegue la incorporación del acuerdo al Libro de Actas"
+      ],
+      "correct": 1,
+      "exp": "El art. 126.2 ROF dispone que, en supuestos de urgencia sin dictamen previo, del acuerdo adoptado deberá darse cuenta a la Comisión Informativa en la primera sesión que se celebre, pudiendo el Pleno deliberar sobre la urgencia acordada.",
+      "fuente": "Art. 126.2 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 78.1 ROF, la periodicidad de las sesiones ordinarias del Pleno se fija:",
+      "options": [
+        "Por decreto del Alcalde o Presidente, sin necesidad de acuerdo plenario",
+        "Libremente por cada grupo municipal para las sesiones que le afecten",
+        "Por acuerdo del propio Pleno adoptado en sesión extraordinaria convocada dentro de los treinta días siguientes a la sesión constitutiva"
+      ],
+      "correct": 2,
+      "exp": "El art. 78.1 ROF exige que la periodicidad de las sesiones ordinarias se fije por acuerdo del propio Pleno, adoptado en sesión extraordinaria que el Alcalde o Presidente debe convocar dentro de los treinta días siguientes a la sesión constitutiva.",
+      "fuente": "Art. 78.1 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Cuando una sesión extraordinaria del Pleno se solicita a instancia de la cuarta parte de los miembros de la Corporación, el art. 78.3 ROF dispone que la convocatoria:",
+      "options": [
+        "Podrá demorarse indefinidamente si el Alcalde lo estima oportuno",
+        "Deberá efectuarse dentro de los cuatro días siguientes a la petición, sin que la celebración pueda demorarse más de dos meses desde su entrada en el registro",
+        "Requiere la conformidad previa de la Comisión de Gobierno"
+      ],
+      "correct": 1,
+      "exp": "El art. 78.3 ROF establece que la convocatoria de la sesión extraordinaria a instancia de miembros de la Corporación debe efectuarse dentro de los cuatro días siguientes a la petición, sin que su celebración pueda demorarse más de dos meses desde la entrada del escrito en el Registro General.",
+      "fuente": "Art. 78.3 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "En las sesiones extraordinarias urgentes del Pleno, el art. 79 ROF exige que:",
+      "options": [
+        "Se incluya como primer punto del orden del día el pronunciamiento del Pleno sobre la urgencia",
+        "Se prescinda de la lectura del acta de la sesión anterior",
+        "Se limite el debate a un máximo de diez minutos por grupo"
+      ],
+      "correct": 0,
+      "exp": "El art. 79 ROF exige incluir como primer punto del orden del día el pronunciamiento del Pleno sobre la urgencia; si ésta no se aprecia, se levanta la sesión.",
+      "fuente": "Art. 79 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿A quién corresponde convocar todas las sesiones del Pleno, según el art. 80.1 ROF?",
+      "options": [
+        "Al Alcalde o Presidente",
+        "Al Secretario general de la Corporación",
+        "A la Comisión Informativa que corresponda por razón de la materia"
+      ],
+      "correct": 0,
+      "exp": "El art. 80.1 ROF atribuye al Alcalde o Presidente la convocatoria de todas las sesiones del Pleno, debiendo ser motivada la de las sesiones extraordinarias.",
+      "fuente": "Art. 80.1 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 80.4 ROF, entre la convocatoria y la celebración de una sesión ordinaria o extraordinaria (no urgente) del Pleno no podrán transcurrir menos de:",
+      "options": [
+        "Cinco días naturales",
+        "Veinticuatro horas",
+        "Dos días hábiles"
+      ],
+      "correct": 2,
+      "exp": "El art. 80.4 ROF exige que entre la convocatoria y la celebración de la sesión no transcurran menos de dos días hábiles, salvo en las sesiones extraordinarias urgentes.",
+      "fuente": "Art. 80.4 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 82.2 ROF, ¿qué asuntos pueden incluirse en el orden del día de una sesión del Pleno?",
+      "options": [
+        "Cualquier asunto que proponga un concejal, aunque no haya sido informado por ninguna Comisión",
+        "Solo los asuntos previamente dictaminados, informados o sometidos a consulta de la Comisión Informativa que corresponda",
+        "Únicamente los asuntos que figuren en la ordenanza de organización municipal"
+      ],
+      "correct": 1,
+      "exp": "El art. 82.2 ROF dispone que en el orden del día sólo pueden incluirse los asuntos que hayan sido previamente dictaminados, informados o sometidos a consulta de la Comisión Informativa correspondiente.",
+      "fuente": "Art. 82.2 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Cuando el Alcalde incluye en el orden del día, por razones de urgencia, un asunto no informado previamente por la Comisión Informativa correspondiente, el art. 82.3 ROF exige que:",
+      "options": [
+        "El asunto se retire automáticamente del orden del día",
+        "El Pleno ratifique su inclusión en el orden del día antes de poder adoptar acuerdo alguno sobre él",
+        "La Comisión de Gobierno apruebe el asunto en sustitución del Pleno"
+      ],
+      "correct": 1,
+      "exp": "El art. 82.3 ROF exige que, en estos casos de urgencia, no pueda adoptarse acuerdo alguno sin que el Pleno ratifique previamente la inclusión del asunto en el orden del día.",
+      "fuente": "Art. 82.3 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 83 ROF, los acuerdos adoptados en sesión ordinaria sobre materias no incluidas en el respectivo orden del día son:",
+      "options": [
+        "Válidos si se ratifican en la sesión siguiente",
+        "Anulables únicamente a instancia de parte interesada",
+        "Nulos, salvo previa declaración de urgencia con el voto favorable de la mayoría exigida"
+      ],
+      "correct": 2,
+      "exp": "El art. 83 ROF declara nulos los acuerdos adoptados en sesiones ordinarias sobre materias no incluidas en el orden del día, salvo especial y previa declaración de urgencia con el voto favorable de la mayoría legalmente exigida.",
+      "fuente": "Art. 83 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Para la válida constitución del Pleno, el art. 90.1 ROF exige la asistencia de:",
+      "options": [
+        "La mayoría absoluta de los miembros de la Corporación",
+        "Un tercio del número legal de miembros de la Corporación, sin que pueda ser inferior a tres, además de Presidente y Secretario",
+        "Dos tercios de los miembros, salvo en sesiones extraordinarias"
+      ],
+      "correct": 1,
+      "exp": "El art. 90.1 ROF exige, para la válida constitución del Pleno, la asistencia de un tercio del número legal de miembros de la Corporación (nunca inferior a tres), además de la presencia del Presidente y del Secretario.",
+      "fuente": "Art. 90.1 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Si en primera convocatoria del Pleno no se alcanza el quórum exigido, el art. 90.2 ROF dispone que:",
+      "options": [
+        "La sesión queda definitivamente suspendida hasta la siguiente ordinaria",
+        "Se reduce el quórum exigido a la cuarta parte de los miembros",
+        "Se entiende convocada la sesión automáticamente a la misma hora, dos días después"
+      ],
+      "correct": 2,
+      "exp": "El art. 90.2 ROF establece que, si en primera convocatoria no existiera el quórum necesario, se entenderá convocada la sesión automáticamente a la misma hora, dos días después.",
+      "fuente": "Art. 90.2 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 97.1 ROF, se denomina \"dictamen\" a:",
+      "options": [
+        "La propuesta que cualquier miembro somete directamente al Pleno sin pasar por Comisión Informativa",
+        "La propuesta sometida al Pleno tras el estudio del expediente por la Comisión Informativa, con una parte expositiva y un acuerdo a adoptar",
+        "El informe jurídico emitido por la Secretaría sobre la legalidad de un acuerdo"
+      ],
+      "correct": 1,
+      "exp": "El art. 97.1 ROF define el dictamen como la propuesta sometida al Pleno tras el estudio del expediente por la Comisión Informativa, que contiene una parte expositiva y un acuerdo a adoptar.",
+      "fuente": "Art. 97.1 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    }
+  ]
+}
