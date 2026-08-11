@@ -1,0 +1,608 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 15,
+  "tramo": "ROTPC (Reglamento de Órganos Territoriales y de la Participación Ciudadana del Ayuntamiento de Zaragoza) arts. 16 a 117: Juntas Municipales/Vecinales, Consejos de Distrito, Consejos Sectoriales, Consejo de la Ciudad, entidades de Interés público/ciudadano",
+  "preguntas": [
+    {
+      "q": "Según el art. 17.c) del ROTPC, además del Presidente y los diez Vocales, forman parte del Pleno de la Junta Municipal:",
+      "options": [
+        "Los Presidentes de los Concejos Locales que se hayan nombrado conforme al Reglamento",
+        "Los funcionarios de mayor antigüedad de la oficina administrativa de la Junta",
+        "Todos los concejales del Ayuntamiento sin excepción",
+        "El Defensor del Pueblo de Aragón"
+      ],
+      "correct": 0,
+      "exp": "Art. 17.c) ROTPC: son miembros del Pleno de la Junta Municipal 'Los Presidentes de los Concejos Locales que se hayan nombrado conforme a este Reglamento.'",
+      "fuente": "Art. 17.c) ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 17.c) ROTPC literal (fuente descargada de zaragoza.es/sede/servicio/normativa/109): 'Los Presidentes de los Concejos Locales que se hayan nombrado conforme a este Reglamento.' Coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 17 del ROTPC, un Vocal de la Junta Municipal puede ser cesado por el Alcalde cuando el grupo político que lo propuso:",
+      "options": [
+        "Le retire expresamente su confianza mediante comunicación escrita al Alcalde o al Presidente de la Junta",
+        "Cambie de nombre o sigla en el Registro de Partidos",
+        "Pierda la mayoría en el Ayuntamiento Pleno",
+        "Lo solicite verbalmente en una rueda de prensa"
+      ],
+      "correct": 0,
+      "exp": "Art. 17 ROTPC, causas de cese de los Vocales: 'Cuando el grupo político que los propuso para su nombramiento les retire expresamente su confianza, mediante comunicación escrita al Alcalde o al Presidente de la Junta.'",
+      "fuente": "Art. 17 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 17 ROTPC, lista de causas de cese (sin letra en el texto original): 'Cuando el grupo político que los propuso para su nombramiento les retire expresamente su confianza, mediante comunicación escrita al Alcalde o al Presidente de la Junta.' Coincide."
+    },
+    {
+      "q": "Según el art. 17.e) del ROTPC, entre los miembros del Pleno de la Junta Municipal con voz y sin voto se incluye, además de otros representantes sectoriales, a:",
+      "options": [
+        "Un representante por las Asociaciones de Empresarios y Comerciantes",
+        "Un representante de cada partido con representación en las Cortes de Aragón",
+        "Un delegado del Gobierno de España en Aragón",
+        "Un representante de la Diputación Provincial de Zaragoza"
+      ],
+      "correct": 0,
+      "exp": "Art. 17.e) ROTPC: serán miembros del Pleno, con voz y sin voto, entre otros, 'Un representante por las Asociaciones de Empresarios y Comerciantes' además de representantes de padres de alumnos, juveniles, de mayores y del resto de entidades ciudadanas.",
+      "fuente": "Art. 17.e) ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 17.e) ROTPC literal: entre los miembros con voz y sin voto, 'Un representante por las Asociaciones de Empresarios y Comerciantes', junto a padres de alumnos, juveniles, mayores y resto de entidades. Coincide."
+    },
+    {
+      "q": "Según el art. 17 del ROTPC, ¿pueden ser nombrados Vocales de la Junta Municipal los funcionarios o trabajadores municipales?",
+      "options": [
+        "Sí, excepcionalmente, salvo que sean altos cargos municipales o desempeñen su trabajo en el Área de Participación Ciudadana",
+        "No, en ningún caso puede nombrarse Vocal a un empleado municipal",
+        "Sí, siempre y sin ninguna excepción",
+        "Solo si pertenecen al cuerpo de la Policía Local"
+      ],
+      "correct": 0,
+      "exp": "Art. 17 ROTPC: 'Excepcionalmente se podrá nombrar para el cargo de vocal a funcionarios y trabajadores municipales que no sean altos cargos municipales o desempeñen su trabajo en el Área de Participación Ciudadana.'",
+      "fuente": "Art. 17 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 17 ROTPC literal: 'Excepcionalmente se podrá nombrar para el cargo de vocal a funcionarios y trabajadores municipales que no sean altos cargos municipales o desempeñen su trabajo en el Área de Participación Ciudadana.' Coincide."
+    },
+    {
+      "q": "Según el art. 18 del ROTPC, corresponde en todo caso al Pleno de la Junta Municipal:",
+      "options": [
+        "El control de la gestión del Presidente y la reprobación de ésta",
+        "La convocatoria de elecciones municipales anticipadas",
+        "La modificación de los Estatutos del Ayuntamiento",
+        "La designación del Secretario General del Pleno del Ayuntamiento"
+      ],
+      "correct": 0,
+      "exp": "Art. 18 ROTPC: entre las competencias que corresponden en todo caso al Pleno de la Junta Municipal figura 'El control de la gestión del Presidente y la reprobación de ésta.'",
+      "fuente": "Art. 18 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 18 ROTPC, competencias del Pleno 'en todo caso': figura literalmente 'El control de la gestión del Presidente y la reprobación de ésta.' Coincide."
+    },
+    {
+      "q": "Según el art. 18 del ROTPC, la aprobación del Manual de Funcionamiento Interno de la Junta Municipal corresponde:",
+      "options": [
+        "Al Pleno de la Junta Municipal",
+        "Exclusivamente al Presidente de la Junta, sin necesidad de aprobación colegiada",
+        "Al Ayuntamiento Pleno en exclusiva, sin intervención de la Junta",
+        "Al Consejo de la Ciudad de Zaragoza"
+      ],
+      "correct": 0,
+      "exp": "Art. 18 ROTPC: corresponde al Pleno de la Junta Municipal 'La aprobación del Manual de Funcionamiento Interno de la Junta.'",
+      "fuente": "Art. 18 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 18 ROTPC literal: entre las competencias del Pleno, 'La aprobación del Manual de Funcionamiento Interno de la Junta.' Coincide."
+    },
+    {
+      "q": "Según el art. 19 del ROTPC, el Consejo Rector de la Junta Municipal, de creación potestativa, lo forman el Presidente, un Vocal por cada grupo político municipal con representación en la Junta, los Presidentes de Concejos Locales y:",
+      "options": [
+        "Con voz y sin voto, un representante por todas las Asociaciones de Vecinos",
+        "Todos los funcionarios de la oficina administrativa de la Junta",
+        "Diez Vocales adicionales elegidos por sorteo",
+        "El Alcalde de la ciudad en persona, con voto de calidad permanente"
+      ],
+      "correct": 0,
+      "exp": "Art. 19 ROTPC: el Consejo Rector 'lo forman el Presidente, un Vocal por cada uno de los grupos políticos municipales con representación en la Junta Municipal, los Presidentes de Concejos Locales... y, con voz y sin voto, un representante por todas las Asociaciones de Vecinos.'",
+      "fuente": "Art. 19 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 19 ROTPC literal: 'El Consejo Rector de la Junta Municipal, creado potestativamente... lo forman el Presidente, un Vocal por cada uno de los grupos políticos municipales..., los Presidentes de Concejos Locales..., y con voz y sin voto, un representante por todas las Asociaciones de Vecinos.' Coincide."
+    },
+    {
+      "q": "Según el art. 20.1 del ROTPC, en las Comisiones de Trabajo de carácter permanente de las Juntas Municipales, el Presidente designará para cada una de ellas, a propuesta de sus miembros, a:",
+      "options": [
+        "Un Coordinador, que ejercerá las funciones de dirección, impulso, coordinación y secretaría de la misma",
+        "Un Vicepresidente con voto de calidad",
+        "Un Secretario General propio e independiente del de la Junta",
+        "Un Interventor delegado"
+      ],
+      "correct": 0,
+      "exp": "Art. 20.1 ROTPC: 'El Presidente, a propuesta de los miembros de las Comisiones de Trabajo y de entre los Vocales adscritos a las mismas, designará para cada una de ellas un Coordinador, que ejercerá las funciones de dirección, impulso, coordinación y secretaría de la misma.'",
+      "fuente": "Art. 20.1 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 20.1 ROTPC literal: 'El Presidente, a propuesta de los miembros de las Comisiones de Trabajo y de entre los Vocales adscritos a las mismas, designará para cada una de ellas un Coordinador, que ejercerá las funciones de dirección, impulso, coordinación y secretaría de la misma.' Coincide."
+    },
+    {
+      "q": "Según el art. 16 del ROTPC, al convocar y presidir las sesiones del Pleno y del Consejo Rector de la Junta Municipal, el Presidente dirime los empates:",
+      "options": [
+        "Con su voto de calidad",
+        "Mediante sorteo entre los votos empatados",
+        "Repitiendo la votación hasta tres veces",
+        "Remitiendo la decisión al Alcalde de la ciudad"
+      ],
+      "correct": 0,
+      "exp": "Art. 16 ROTPC: corresponde al Presidente 'Convocar y presidir las sesiones del Consejo Rector, las del Pleno y de cualesquiera otros órganos complementarios de la Junta, dirimiendo los empates con voto de calidad.'",
+      "fuente": "Art. 16 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 16 ROTPC literal, entre las funciones del Presidente: 'Convocar y presidir las sesiones del Consejo Rector, las del Pleno y de cualesquiera otros órganos complementarios de la Junta, dirimiendo los empates con voto de calidad.' Coincide."
+    },
+    {
+      "q": "Según el art. 16 del ROTPC, corresponde al Presidente de la Junta Municipal disponer gastos:",
+      "options": [
+        "Dentro de los límites de su competencia, de acuerdo con los Decretos de delegación de la Alcaldía-Presidencia",
+        "Sin ningún límite, con cargo al presupuesto general del Ayuntamiento",
+        "Solo previa autorización expresa del Pleno del Ayuntamiento en cada caso",
+        "Únicamente en concepto de dietas de los Vocales"
+      ],
+      "correct": 0,
+      "exp": "Art. 16 ROTPC: corresponde al Presidente 'Disponer gastos dentro de los límites de su competencia, de acuerdo con lo dispuesto en los Decretos de delegación de la Alcaldía-Presidencia.'",
+      "fuente": "Art. 16 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 16 ROTPC literal: 'Disponer gastos dentro de los límites de su competencia, de acuerdo con lo dispuesto en los Decretos de delegación de la Alcaldía-Presidencia.' Coincide."
+    },
+    {
+      "q": "Según el art. 41.2 del ROTPC, el Presidente del Consejo de Distrito designará libremente un Vicepresidente de entre:",
+      "options": [
+        "Los Concejales Presidentes de Juntas Municipales de su territorio",
+        "Los Alcaldes de Barrio del término municipal",
+        "Los Vocales de mayor antigüedad de cualquier Junta",
+        "Los representantes de las Asociaciones de Vecinos"
+      ],
+      "correct": 0,
+      "exp": "Art. 41.2 ROTPC: 'El Presidente del Consejo de Distrito, de entre los Concejales Presidentes de Juntas Municipales de su territorio, designará libremente un Vicepresidente que le sustituirá en caso de vacante, ausencia o enfermedad.'",
+      "fuente": "Art. 41.2 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 41.2 ROTPC literal: 'El Presidente del Consejo de Distrito, de entre los Concejales Presidentes de Juntas Municipales de su territorio, designará libremente un Vicepresidente que le sustituirá en caso de vacante, ausencia o enfermedad.' Coincide."
+    },
+    {
+      "q": "Según el art. 41.3 del ROTPC, en caso de emergencia, el Presidente del Consejo de Distrito puede adoptar las medidas urgentes necesarias para la seguridad de personas y bienes, debiendo:",
+      "options": [
+        "Dar cuenta inmediatamente de ello a la Alcaldía",
+        "Convocar primero un referéndum vecinal urgente",
+        "Solicitar autorización previa del Gobierno de Aragón",
+        "Esperar la ratificación del Pleno del Ayuntamiento antes de actuar"
+      ],
+      "correct": 0,
+      "exp": "Art. 41.3 ROTPC: corresponde al Presidente del Consejo de Distrito 'Velar por la protección ciudadana en el Distrito y adoptar, en caso de emergencia las medidas necesarias de carácter urgente para la seguridad de las personas y bienes, de las que debe dar cuenta inmediatamente a la Alcaldía.'",
+      "fuente": "Art. 41.3 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 41.3 ROTPC literal, entre las competencias mínimas del Presidente del Consejo de Distrito: 'Velar por la protección ciudadana en el Distrito y adoptar, en caso de emergencia las medidas necesarias de carácter urgente... de las que debe dar cuenta inmediatamente a la Alcaldía.' Coincide."
+    },
+    {
+      "q": "Según el art. 41.3 del ROTPC, corresponde al Presidente del Consejo de Distrito, como mínimo:",
+      "options": [
+        "Elaborar la propuesta de plantilla orgánica y definir la organización de los Consejos de Distrito",
+        "Aprobar los Presupuestos Generales del Estado en su ámbito territorial",
+        "Nombrar al Secretario General del Ayuntamiento",
+        "Disolver el Consejo de la Ciudad de Zaragoza"
+      ],
+      "correct": 0,
+      "exp": "Art. 41.3 ROTPC: entre las competencias mínimas del Presidente del Consejo de Distrito figura 'Elaborar la propuesta de plantilla orgánica y definir la organización de los Consejos de Distrito.'",
+      "fuente": "Art. 41.3 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 41.3 ROTPC literal: entre las competencias mínimas figura 'Elaborar la propuesta de plantilla orgánica y definir la organización de los Consejos de Distrito.' Coincide."
+    },
+    {
+      "q": "Según el art. 41.3 del ROTPC, corresponde al Presidente del Consejo de Distrito asegurar la relación constante del Consejo y de los Concejales Presidentes de las Juntas Municipales que lo integran con:",
+      "options": [
+        "Distintos sectores de la Administración municipal",
+        "Exclusivamente la Administración General del Estado",
+        "Los medios de comunicación privados",
+        "Las entidades bancarias con sede en el Distrito"
+      ],
+      "correct": 0,
+      "exp": "Art. 41.3 ROTPC: corresponde al Presidente 'Asegurar la relación constante del Consejo de Distrito y de los Concejales Presidentes de las Juntas Municipales que lo integran con distintos sectores de la Administración municipal.'",
+      "fuente": "Art. 41.3 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 41.3 ROTPC literal: 'Asegurar la relación constante del Consejo de Distrito y de los Concejales Presidentes de las Juntas Municipales que lo integran con distintos sectores de la Administración municipal.' Coincide."
+    },
+    {
+      "q": "Según el art. 116.1 del ROTPC, todos los Consejos Sectoriales y los instrumentos de participación sectorial funcionarán de forma coordinada y:",
+      "options": [
+        "Bajo la dependencia del Consejo de la Ciudad",
+        "Bajo la dependencia directa del Ayuntamiento Pleno, sin intervención del Consejo de la Ciudad",
+        "De manera totalmente independiente entre ellos",
+        "Bajo la dependencia de la Diputación Provincial de Zaragoza"
+      ],
+      "correct": 0,
+      "exp": "Art. 116.1 ROTPC: 'Todos los Consejos Sectoriales y los instrumentos de participación sectorial funcionarán de forma coordinada y bajo la dependencia del Consejo de la Ciudad en aras de una mayor eficacia y eficiencia en beneficio del ciudadano.'",
+      "fuente": "Art. 116.1 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 116.1 ROTPC literal: 'Todos los Consejos Sectoriales y los instrumentos de participación sectorial funcionarán de forma coordinada y bajo la dependencia del Consejo de la Ciudad en aras de una mayor eficacia y eficiencia en beneficio del ciudadano.' Coincide."
+    },
+    {
+      "q": "Según el art. 116.2 del ROTPC, los Consejos Sectoriales son órganos de naturaleza consultiva que se crearán:",
+      "options": [
+        "Con carácter excepcional, previo informe positivo del Consejo de la Ciudad al existir causas objetivas para ello",
+        "Con carácter permanente y obligatorio en todas las Áreas Municipales",
+        "Únicamente por iniciativa popular mediante consulta ciudadana",
+        "Por Decreto directo de la Alcaldía sin más trámite"
+      ],
+      "correct": 0,
+      "exp": "Art. 116.2 ROTPC: 'Los Consejos Sectoriales se crearán con carácter excepcional, de forma que el Consejo de la Ciudad, del cual dependerán y con el que se coordinarán plenamente, informe positivamente respecto a su creación al existir causas objetivas para ello.'",
+      "fuente": "Art. 116.2 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 116.2 ROTPC literal: 'Los Consejos Sectoriales se crearán con carácter excepcional, de forma que el Consejo de la Ciudad... informe positivamente respecto a su creación al existir causas objetivas para ello.' Coincide."
+    },
+    {
+      "q": "Según el art. 116.2 del ROTPC, el acuerdo de creación de cada Consejo Sectorial será adoptado por:",
+      "options": [
+        "El Pleno Municipal, previo informe del Área o Áreas competentes y del Consejo de la Ciudad",
+        "El propio Consejo Sectorial mediante autoconstitución",
+        "El Alcalde por decreto, sin informes previos",
+        "El Gobierno de Aragón a propuesta del Ayuntamiento"
+      ],
+      "correct": 0,
+      "exp": "Art. 116.2 ROTPC: 'El acuerdo de creación de cada Consejo será adoptado por el Pleno Municipal, previo informe del Área o Áreas competentes y del Consejo de la Ciudad... y dictamen de la Delegación de Participación Ciudadana.'",
+      "fuente": "Art. 116.2 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 116.2 ROTPC literal: 'El acuerdo de creación de cada Consejo será adoptado por el Pleno Municipal, previo informe del Área o Áreas competentes y del Consejo de la Ciudad... y dictamen de la Delegación de Participación Ciudadana.' Coincide."
+    },
+    {
+      "q": "Según el art. 117 del ROTPC, son funciones de los Consejos Sectoriales, entre otras:",
+      "options": [
+        "Presentar iniciativas, sugerencias y propuestas para ser debatidas en los Órganos Municipales correspondientes",
+        "Aprobar directamente el presupuesto de su sector sin intervención del Pleno",
+        "Sustituir al Consejo de la Ciudad en todas sus funciones",
+        "Nombrar a los Concejales Delegados de cada Área"
+      ],
+      "correct": 0,
+      "exp": "Art. 117 ROTPC: entre las funciones de los Consejos Sectoriales se incluye 'Presentar iniciativas, sugerencias y propuestas para ser debatidas en los Órganos Municipales correspondientes.'",
+      "fuente": "Art. 117 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 117 ROTPC literal, funciones de los Consejos Sectoriales: 'Presentar iniciativas, sugerencias y propuestas para ser debatidas en los Órganos Municipales correspondientes.' Coincide; el texto consolidado descargado llega hasta este art. 117 y las disposiciones finales."
+    },
+    {
+      "q": "Según el art. 97 del ROTPC, el Consejo Municipal de Niños/as es un órgano de participación ciudadana cuyo funcionamiento y seguimiento promueve:",
+      "options": [
+        "El Consejo de la Ciudad de Zaragoza",
+        "El Consejo Territorial de Alcaldes de Barrio",
+        "La Comisión Especial de Sugerencias y Reclamaciones",
+        "Exclusivamente el Área de Educación, sin relación con Participación Ciudadana"
+      ],
+      "correct": 0,
+      "exp": "Art. 97 ROTPC: 'El Consejo de la Ciudad promueve el Consejo de Niños y Niñas y su funcionamiento, realizando el seguimiento y estudio de las propuestas y temas que sean objeto de trabajo del Consejo.'",
+      "fuente": "Art. 97 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 97 ROTPC literal: 'El Consejo de la Ciudad promueve el Consejo de Niños y Niñas y su funcionamiento, realizando el seguimiento y estudio de las propuestas y temas que sean objeto de trabajo del Consejo.' Coincide."
+    },
+    {
+      "q": "Según el art. 30 del ROTPC, el Consejo Territorial de Alcaldes de Barrio está integrado por el Concejal Presidente del Distrito Rural, que será su Presidente, por todos los Alcaldes de Barrio y por:",
+      "options": [
+        "Los Portavoces de los Grupos Municipales en la Comisión del Pleno de Participación Ciudadana",
+        "Los Presidentes de todas las Juntas Municipales urbanas",
+        "Un representante del Gobierno de Aragón",
+        "El Consejo de la Ciudad de Zaragoza en pleno"
+      ],
+      "correct": 0,
+      "exp": "Art. 30 ROTPC: el Consejo Territorial de Alcaldes de Barrio 'Estará integrado por el Concejal Presidente del Distrito Rural, que será su Presidente, por todos los Alcaldes de Barrio y por los Portavoces de los Grupos Municipales en la Comisión del Pleno de Participación Ciudadana.'",
+      "fuente": "Art. 30 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 30 ROTPC literal: el Consejo Territorial de Alcaldes de Barrio 'Estará integrado por el Concejal Presidente del Distrito Rural, que será su Presidente, por todos los Alcaldes de Barrio y por los Portavoces de los Grupos Municipales en la Comisión del Pleno de Participación Ciudadana.' Coincide."
+    },
+    {
+      "q": "Según el art. 30 del ROTPC, el Consejo Territorial de Alcaldes de Barrio se reúne en sesión ordinaria, como mínimo:",
+      "options": [
+        "Una vez al trimestre",
+        "Una vez a la semana",
+        "Una vez cada dos años",
+        "Nunca de forma ordinaria, solo con carácter extraordinario"
+      ],
+      "correct": 0,
+      "exp": "Art. 30 ROTPC: 'Este órgano se reunirá en sesión ordinaria, como mínimo, una vez al trimestre, y de forma extraordinaria cuando fuere preciso, a iniciativa del Presidente o de un tercio del número de Alcaldes de Barrio.'",
+      "fuente": "Art. 30 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 30 ROTPC literal: 'Este órgano se reunirá en sesión ordinaria, como mínimo, una vez al trimestre, y de forma extraordinaria cuando fuere preciso...' Coincide."
+    },
+    {
+      "q": "Según el art. 42 del ROTPC, el Consejo Rector del Consejo de Distrito está formado por el Presidente del Consejo de Distrito y los Presidentes de las Juntas, integrándose además, con voz y sin voto:",
+      "options": [
+        "Un Vocal en representación de cada uno de los grupos municipales y un representante del movimiento vecinal",
+        "Todos los funcionarios de las oficinas administrativas del Distrito",
+        "El Alcalde de la ciudad, además del Presidente del Consejo",
+        "Un representante de cada empresa concesionaria de servicios del Distrito"
+      ],
+      "correct": 0,
+      "exp": "Art. 42 ROTPC: 'El Consejo Rector está formado por el Presidente del Consejo de Distrito y los Presidentes de las Juntas. Asimismo se integran en él, con voz y sin voto, un Vocal en representación de cada uno de los grupos municipales y un representante del movimiento vecinal.'",
+      "fuente": "Art. 42 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 42 ROTPC literal: 'El Consejo Rector está formado por el Presidente del Consejo de Distrito y los Presidentes de las Juntas. Asimismo se integran en él, con voz y sin voto, un Vocal en representación de cada uno de los grupos municipales y un representante del movimiento vecinal.' Coincide."
+    },
+    {
+      "q": "Según el art. 39 del ROTPC, la creación de cada Consejo de Distrito y la asignación de los recursos humanos y materiales necesarios corresponde acordarla a:",
+      "options": [
+        "El Pleno del Ayuntamiento de Zaragoza",
+        "El Alcalde por Decreto, sin intervención del Pleno",
+        "El Consejo de la Ciudad de Zaragoza",
+        "Cada Junta Municipal de forma independiente"
+      ],
+      "correct": 0,
+      "exp": "Art. 39 ROTPC: 'El Pleno del Ayuntamiento de Zaragoza acordará la creación de cada uno de los Consejos de Distrito y la asignación de los recursos humanos y materiales necesarios para desempeñar las funciones que les atribuyan los decretos y acuerdos municipales.'",
+      "fuente": "Art. 39 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 39 ROTPC literal: 'El Pleno del Ayuntamiento de Zaragoza acordará la creación de cada uno de los Consejos de Distrito y la asignación de los recursos humanos y materiales necesarios...' Coincide."
+    },
+    {
+      "q": "Según el art. 21.1 del ROTPC, las Juntas Municipales y Vecinales celebrarán con carácter general sesión plenaria ordinaria:",
+      "options": [
+        "Una vez al mes, sin perjuicio de que el Manual de Funcionamiento Interno establezca como mínimo una reunión trimestral",
+        "Una vez a la semana, sin excepción posible",
+        "Solo una vez al año, coincidiendo con el debate del presupuesto",
+        "Cada dos años, coincidiendo con la mitad del mandato"
+      ],
+      "correct": 0,
+      "exp": "Art. 21.1 ROTPC: 'Las Juntas Municipales y Vecinales celebrarán con carácter general sesión plenaria ordinaria una vez al mes, sin perjuicio de lo señalado en el Manual de Funcionamiento Interno que establecerá como mínimo una reunión trimestral.'",
+      "fuente": "Art. 21.1 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 21.1 ROTPC literal: 'Las Juntas Municipales y Vecinales celebrarán con carácter general sesión plenaria ordinaria una vez al mes, sin perjuicio de lo señalado en el Manual de Funcionamiento Interno que establecerá como mínimo una reunión trimestral.' Coincide."
+    },
+    {
+      "q": "Según el art. 21.3 del ROTPC, el debate y votación de asuntos que puedan afectar al derecho fundamental del art. 18.1 de la Constitución podrán ser secretos cuando así se acuerde:",
+      "options": [
+        "Por mayoría absoluta",
+        "Por unanimidad de todos los Vocales sin excepción",
+        "Por mayoría simple de los presentes",
+        "Por decisión exclusiva del Secretario de la Junta"
+      ],
+      "correct": 0,
+      "exp": "Art. 21.3 ROTPC: 'podrán ser secretos el debate y votación de aquellos asuntos que puedan afectar al derecho fundamental de los ciudadanos al que se refiere el Artículo 18.1 de la Constitución, cuando así se acuerde por mayoría absoluta.'",
+      "fuente": "Art. 21.3 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 21.3 ROTPC literal: 'podrán ser secretos el debate y votación de aquellos asuntos que puedan afectar al derecho fundamental de los ciudadanos al que se refiere el Artículo 18.1 de la Constitución, cuando así se acuerde por mayoría absoluta.' Coincide."
+    },
+    {
+      "q": "Según el art. 22 del ROTPC, son sesiones extraordinarias de las Juntas Municipales y Vecinales las que se celebren, entre otros supuestos, cuando lo solicite:",
+      "options": [
+        "La cuarta parte, al menos, del número legal de miembros de la Junta con derecho a voto",
+        "Un único Vocal, sin ningún otro requisito",
+        "La totalidad de los Vocales de la oposición",
+        "El Secretario de la Junta por iniciativa propia"
+      ],
+      "correct": 0,
+      "exp": "Art. 22 ROTPC: son sesiones extraordinarias las que se celebren 'cuando así lo decida el Concejal-Presidente o Alcalde de Barrio, o lo solicite la cuarta parte, al menos, del número legal de miembros de la Junta con derecho a voto.'",
+      "fuente": "Art. 22.2 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "correccion": "La cita en \"fuente\" debe precisar el apartado: \"Art. 22.2 ROTPC\" en vez de \"Art. 22 ROTPC\", ya que el contenido citado (sesiones extraordinarias a solicitud de la cuarta parte de los miembros) corresponde específicamente al apartado 2 del artículo (el art. 22 tiene apartados 1, 2 y 3 numerados en el texto consolidado). El contenido de la pregunta y la opción correcta son fieles al texto.",
+      "notaRevision": "Art. 22.2 ROTPC literal (el texto descargado numera el artículo en apartados 1/2/3, y el contenido citado está en el apartado 2, no repartido en todo el art. 22): 'Son sesiones extraordinarias las que se celebren... o lo solicite la cuarta parte, al menos del numero legal de miembros de la Junta con derecho a voto...' El fondo de la pregunta y la opción correcta son fieles al texto; se corrige solo la precisión de la cita."
+    },
+    {
+      "q": "Según el art. 23.4 del ROTPC, si el Presidente no convoca la sesión extraordinaria solicitada por los Vocales dentro de los quince días hábiles siguientes a la solicitud, ésta queda automáticamente convocada:",
+      "options": [
+        "Para el décimo día hábil siguiente a la finalización de dicho plazo, a las diecinueve horas",
+        "Para el mismo día en que venza el plazo, a cualquier hora",
+        "Para el primer día hábil del mes siguiente, a las nueve horas",
+        "No existe convocatoria automática; la solicitud simplemente decae"
+      ],
+      "correct": 0,
+      "exp": "Art. 23.4 ROTPC: 'Si el Presidente no la convocara para su celebración dentro de los quince días hábiles siguientes al de la solicitud, quedará automáticamente convocada la sesión plenaria de la Junta para el décimo día hábil siguiente al de la finalización de dicho plazo, a las diecinueve horas.'",
+      "fuente": "Art. 23.4 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 23.4 ROTPC literal: 'Si el Presidente no la convocara para su celebración dentro de los quince días hábiles siguientes al de la solicitud, quedará automáticamente convocada la sesión plenaria de la Junta para el décimo día hábil siguiente al de la finalización de dicho plazo, a las diecinueve horas...' Coincide."
+    },
+    {
+      "q": "Según el art. 24.3 del ROTPC, la convocatoria y el orden del día de las sesiones plenarias de la Junta se remitirán, además de a los miembros del Pleno, a:",
+      "options": [
+        "Al Teniente Alcalde de Participación Ciudadana y a los Grupos Políticos, entre otros",
+        "Únicamente al Alcalde de la ciudad, sin más destinatarios",
+        "A todos los vecinos empadronados individualmente por correo postal",
+        "Al Boletín Oficial del Estado para su publicación"
+      ],
+      "correct": 0,
+      "exp": "Art. 24.3 ROTPC: la convocatoria y el orden del día 'se expondrán en el tablón de anuncios del Distrito... remitiéndose a todos los miembros del Pleno de la Junta. Asimismo se remitirá al Teniente Alcalde de Participación Ciudadana, Grupos Políticos, Servicios del Área de Participación Ciudadana...'",
+      "fuente": "Art. 24.3 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 24.3 ROTPC literal: la convocatoria y orden del día 'se remitirá al Teniente Alcalde de Participación Ciudadana, Grupos Políticos, Servicios del Área de Participación Ciudadana, así como a aquellas Áreas Municipales y entidades...' Coincide."
+    },
+    {
+      "q": "Según el art. 25.2 del ROTPC, en el orden del día de las sesiones de las Juntas, el primer punto será siempre:",
+      "options": [
+        "La aprobación del acta de la sesión anterior",
+        "El turno de ruegos y preguntas del público",
+        "La votación de las mociones de urgencia",
+        "El informe del Secretario sobre asistencia"
+      ],
+      "correct": 0,
+      "exp": "Art. 25.2 ROTPC: 'La aprobación del acta de la sesión anterior será el primer punto del orden del día.'",
+      "fuente": "Art. 25.2 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 25.2 ROTPC literal: 'La aprobación del acta de la sesión anterior será el primer punto del orden del día.' Coincide."
+    },
+    {
+      "q": "Según el art. 26.2 del ROTPC, dirigir la sesión y mantener el orden de la misma corresponde a:",
+      "options": [
+        "El Concejal Presidente o Alcalde de Barrio",
+        "El Vocal de mayor edad presente",
+        "El representante de las Asociaciones de Vecinos",
+        "El público asistente por votación"
+      ],
+      "correct": 0,
+      "exp": "Art. 26.2 ROTPC: 'Corresponde al Concejal Presidente o Alcalde de Barrio dirigir la sesión y mantener el orden de la misma, pudiendo intervenir para hacer las aclaraciones que estime oportunas sobre el fondo del asunto.'",
+      "fuente": "Art. 26.2 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 26.2 ROTPC literal: 'Corresponde al Concejal Presidente o Alcalde de Barrio dirigir la sesión y mantener el orden de la misma...' Coincide."
+    },
+    {
+      "q": "Según el art. 27 del ROTPC, entre los extremos que debe recoger el acta de cada sesión de la Junta figura:",
+      "options": [
+        "El carácter ordinario, extraordinario o urgente de la sesión y si se celebra en primera o segunda convocatoria",
+        "Únicamente la firma del Alcalde de la ciudad",
+        "El resultado de las últimas elecciones municipales",
+        "El presupuesto anual íntegro del Ayuntamiento"
+      ],
+      "correct": 0,
+      "exp": "Art. 27.c) ROTPC: el acta debe recoger 'El carácter ordinario, extraordinario o urgente de la sesión y si se celebra en primera o segunda convocatoria.'",
+      "fuente": "Art. 27.c) ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 27.c) ROTPC literal: entre los extremos del acta, 'El carácter ordinario, extraordinario o urgente de la sesión y si se celebra en primera o segunda convocatoria.' Coincide."
+    },
+    {
+      "q": "Según el art. 28 del ROTPC, la reprobación de la gestión del Presidente de una Junta Municipal requiere la solicitud de, al menos, un tercio de los miembros con derecho a voto del órgano colegiado de gobierno y:",
+      "options": [
+        "La celebración de sesión extraordinaria con ese único asunto en el orden del día",
+        "Un referéndum vecinal previo vinculante",
+        "La conformidad expresa del Alcalde de la ciudad",
+        "El informe favorable del Consejo de la Ciudad"
+      ],
+      "correct": 0,
+      "exp": "Art. 28 ROTPC: 'La reprobación de la gestión de los Presidentes de las Juntas Municipales... requerirá la solicitud de, al menos, un tercio de los miembros con derecho a voto del órgano colegiado de gobierno respectivo y la celebración de sesión extraordinaria con este único asunto en el orden del día.'",
+      "fuente": "Art. 28 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 28 ROTPC literal: 'La reprobación de la gestión de los Presidentes de las Juntas Municipales... requerirá la solicitud de, al menos, un tercio de los miembros con derecho a voto del órgano colegiado de gobierno respectivo y la celebración de sesión extraordinaria con este único asunto en el orden del día.' Coincide."
+    },
+    {
+      "q": "Según el art. 52 del ROTPC, para solicitar la Audiencia Pública de ámbito de Junta Municipal o Vecinal, no será necesario en ningún caso aportar más de:",
+      "options": [
+        "300 firmas para las Juntas Vecinales y 3.000 para las Juntas Municipales",
+        "3.000 firmas para las Juntas Vecinales y 300 para las Juntas Municipales",
+        "100 firmas en cualquier caso, sin distinción",
+        "10.000 firmas en cualquier caso, sin distinción"
+      ],
+      "correct": 0,
+      "exp": "Art. 52 ROTPC: para la Audiencia Pública de ámbito de Junta, 'sin que sea necesario en ningún caso aportar más de 300 firmas para las Juntas Vecinales y 3.000 para las Juntas Municipales.'",
+      "fuente": "Art. 52 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 52 ROTPC literal, Audiencia Pública de ámbito de Junta: '...sin que sea necesario en ningún caso aportar más de 300 firmas para las Juntas Vecinales y 3.000 para las Juntas Municipales.' Coincide."
+    },
+    {
+      "q": "Según el art. 53 del ROTPC, tras el acuerdo del Pleno del Ayuntamiento sobre la solicitud de Consulta Popular, la Corporación remite una copia literal del acuerdo a:",
+      "options": [
+        "La Diputación General de Aragón, que a su vez la enviará al Gobierno del Estado",
+        "Directamente al Congreso de los Diputados",
+        "Al Tribunal Constitucional para su visto bueno",
+        "A la Junta Electoral Central"
+      ],
+      "correct": 0,
+      "exp": "Art. 53 ROTPC: 'La Corporación remitirá a la Diputación General de Aragón una copia literal del acuerdo adoptado por el Pleno del Ayuntamiento... El Gobierno de Aragón enviará la solicitud municipal al Gobierno del Estado.'",
+      "fuente": "Art. 53 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 53 ROTPC literal: 'La Corporación remitirá a la Diputación General de Aragón una copia literal del acuerdo adoptado por el Pleno del Ayuntamiento... El Gobierno de Aragón enviará la solicitud municipal al Gobierno del Estado.' Coincide."
+    },
+    {
+      "q": "Según el art. 54 del ROTPC, si se solicita una encuesta ciudadana para un Barrio Rural, los peticionarios deben representar, como mínimo:",
+      "options": [
+        "El 25% del Padrón Municipal del Barrio Rural",
+        "El 3% del Padrón Municipal de toda la ciudad",
+        "El 50% del Padrón Municipal del Barrio Rural",
+        "El 10% del Padrón Municipal del Distrito Rural completo"
+      ],
+      "correct": 0,
+      "exp": "Art. 54 ROTPC: 'En el caso de solicitar la encuesta para un Distrito o un Barrio Rural, los peticionarios deberán... representar el 10% del Padrón Municipal del Distrito o el 25% en el caso del Barrio Rural.'",
+      "fuente": "Art. 54 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 54 ROTPC literal: 'En el caso de solicitar la encuesta para un Distrito o un Barrio Rural, los peticionarios deberán... representar el 10% del Padrón Municipal del Distrito o el 25% en el caso del Barrio Rural.' Coincide."
+    },
+    {
+      "q": "Según el art. 51 del ROTPC, una vez que el Área de Participación Ciudadana informa la Iniciativa Ciudadana, la decisión final sobre su aceptación corresponde a:",
+      "options": [
+        "La Junta de Gobierno Local o al Pleno de la Corporación",
+        "El Presidente de la Junta Municipal en exclusiva",
+        "El Consejo de la Ciudad de Zaragoza",
+        "El Justicia de Aragón"
+      ],
+      "correct": 0,
+      "exp": "Art. 51 ROTPC: 'el Área de Participación Ciudadana, previos los informes oportunos, resolverá la Iniciativa Ciudadana y todas las cuestiones relacionadas, correspondiendo la decisión final a la Junta de Gobierno Local o al Pleno de la Corporación.'",
+      "fuente": "Art. 51 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 51 ROTPC literal: 'el Área de Participación Ciudadana, previos los informes oportunos, resolverá la Iniciativa Ciudadana y todas las cuestiones relacionadas, correspondiendo la decisión final a la Junta de Gobierno Local o al Pleno de la Corporación.' Coincide."
+    },
+    {
+      "q": "Según el art. 68 del ROTPC, entre los derechos de las entidades declaradas de Interés público municipal se incluye:",
+      "options": [
+        "Participar en el Consejo de la Ciudad de Zaragoza, conforme a lo establecido en el Artículo 92 de este Reglamento",
+        "Vetar los acuerdos del Pleno del Ayuntamiento",
+        "Percibir automáticamente una subvención anual fija sin concurrencia",
+        "Nombrar a un representante permanente en la Junta de Gobierno Local con voto"
+      ],
+      "correct": 0,
+      "exp": "Art. 68 ROTPC: entre los derechos de las entidades de Interés público municipal figura 'Participar en el Consejo de la Ciudad de Zaragoza, conforme a lo establecido en el Artículo 92 de este Reglamento.'",
+      "fuente": "Art. 68 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 68 ROTPC literal, entre los derechos de las entidades de Interés público municipal: 'Participar en el Consejo de la Ciudad de Zaragoza, conforme a lo establecido en el Artículo 92 de este Reglamento.' Coincide."
+    },
+    {
+      "q": "Según el art. 72 del ROTPC, las entidades declaradas de Interés ciudadano tienen, entre otros derechos:",
+      "options": [
+        "Preferencia respecto de las entidades sin esta declaración en el acceso a subvenciones municipales y a la utilización de locales públicos",
+        "Exención total del pago de todos los tributos municipales",
+        "Representación permanente con voto en el Ayuntamiento Pleno",
+        "Potestad para convocar Consultas Populares por sí mismas"
+      ],
+      "correct": 0,
+      "exp": "Art. 72 ROTPC: la declaración de Interés ciudadano supone 'Tener preferencia respecto de las entidades sin ésta declaración en el acceso a las subvenciones municipales y a la utilización de locales públicos y espacios en Centros Cívicos, culturales y otros de naturaleza municipal.'",
+      "fuente": "Art. 72 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 72 ROTPC literal, derechos de las entidades de Interés ciudadano: 'Tener preferencia respecto de las entidades sin ésta declaración en el acceso a las subvenciones municipales y a la utilización de locales públicos y espacios en Centros Cívicos, culturales y otros de naturaleza municipal.' Coincide."
+    },
+    {
+      "q": "Según el art. 31 del ROTPC, son órganos necesarios de cada Barrio Rural:",
+      "options": [
+        "El Presidente, que recibe el nombre tradicional de Alcalde del Barrio, y el Pleno",
+        "Únicamente el Consejo Rector, de carácter obligatorio en todo caso",
+        "El Concejal Presidente del Distrito Rural en exclusiva",
+        "Una Comisión de Trabajo permanente de nombre 'Alcaldía'"
+      ],
+      "correct": 0,
+      "exp": "Art. 31 ROTPC: 'Son órganos necesarios de cada Barrio Rural los siguientes: El Presidente, que recibe el nombre tradicional de Alcalde del Barrio. El Pleno...'",
+      "fuente": "Art. 31 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 31 ROTPC literal: 'Son órganos necesarios de cada Barrio Rural los siguientes: El Presidente, que recibe el nombre tradicional de Alcalde del Barrio. El Pleno...' Coincide."
+    },
+    {
+      "q": "Según el art. 32 del ROTPC, a diferencia del cargo de Vocal de la Junta Municipal, que es honorífico, el cargo de Alcalde de Barrio:",
+      "options": [
+        "Será retribuido en la cuantía y condiciones que apruebe el Pleno de la Corporación",
+        "Es igualmente honorífico y nunca puede ser retribuido",
+        "Se retribuye exclusivamente con cargo a fondos de la Diputación Provincial",
+        "Solo se retribuye si el barrio supera los 2.000 habitantes"
+      ],
+      "correct": 0,
+      "exp": "Art. 32 ROTPC: 'El cargo de Alcalde de Barrio será retribuido en la cuantía y condiciones que apruebe el Pleno de la Corporación', a diferencia del cargo de Vocal, calificado como honorífico en el art. 17.",
+      "fuente": "Art. 32 ROTPC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 32 ROTPC literal: 'El cargo de Alcalde de Barrio será retribuido en la cuantía y condiciones que apruebe el Pleno de la Corporación', frente al carácter honorífico del Vocal (art. 17). Coincide."
+    }
+  ]
+}
