@@ -18623,3 +18623,527 @@ window.addQuestions('aux-admin-zaragoza', 13, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 13 · lote 2026-08-11 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 13, [
+  {
+    "q": "Según el art. 183 del TRLRHL, ¿conforme a qué se efectúa la ejecución de los créditos consignados en el presupuesto de gastos de las entidades locales?",
+    "options": [
+      "Conforme a lo dispuesto en la Sección 3.ª del Capítulo I del Título VI y, complementariamente, por las normas que dicte cada entidad, plasmadas en las bases de ejecución del presupuesto",
+      "Conforme a lo que determine el Ministerio de Hacienda mediante orden ministerial anual",
+      "Conforme a lo dispuesto exclusivamente en la Ley 47/2003, General Presupuestaria",
+      "Conforme al acuerdo que adopte anualmente la Comisión Especial de Cuentas"
+    ],
+    "correct": 0,
+    "exp": "El art. 183 TRLRHL dispone que la ejecución de los créditos se efectuará conforme a lo dispuesto en la presente sección (Sección 3.ª, 'Ejecución y liquidación') y, complementariamente, por las normas que dicte cada entidad y queden plasmadas en las bases de ejecución del presupuesto.",
+    "fuente": "Art. 183 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 183 del TRLRHL, ¿en qué documento se plasman las normas complementarias que cada entidad local dicta para la ejecución de los créditos de su presupuesto de gastos?",
+    "options": [
+      "En el Reglamento Orgánico de la Corporación",
+      "En la Instrucción de Contabilidad",
+      "En las bases de ejecución del presupuesto",
+      "En el plan de disposición de fondos"
+    ],
+    "correct": 2,
+    "exp": "El art. 183 TRLRHL remite a las normas que dicte cada entidad y 'queden plasmadas en las bases de ejecución del presupuesto'.",
+    "fuente": "Art. 183 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 184.1 del TRLRHL, ¿en cuántas fases se realiza la gestión del presupuesto de gastos?",
+    "options": [
+      "En tres fases",
+      "En cuatro fases",
+      "En cinco fases",
+      "En dos fases"
+    ],
+    "correct": 1,
+    "exp": "El art. 184.1 TRLRHL enumera cuatro fases: a) autorización de gasto; b) disposición o compromiso de gasto; c) reconocimiento o liquidación de la obligación; d) ordenación de pago.",
+    "fuente": "Art. 184.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál es, según el art. 184.1.a) del TRLRHL, la primera fase de la gestión del presupuesto de gastos?",
+    "options": [
+      "La ordenación de pago",
+      "La disposición o compromiso de gasto",
+      "La autorización de gasto",
+      "El reconocimiento de la obligación"
+    ],
+    "correct": 2,
+    "exp": "El art. 184.1.a) TRLRHL sitúa la autorización de gasto como primera fase de la gestión del presupuesto de gastos.",
+    "fuente": "Art. 184.1.a) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 184.1 del TRLRHL, ¿qué fase de gestión del gasto sigue inmediatamente a la 'disposición o compromiso de gasto'?",
+    "options": [
+      "La ordenación de pago",
+      "El reconocimiento o liquidación de la obligación",
+      "La autorización de gasto",
+      "El pago material"
+    ],
+    "correct": 1,
+    "exp": "El art. 184.1 TRLRHL ordena las fases: a) autorización; b) disposición o compromiso de gasto; c) reconocimiento o liquidación de la obligación; d) ordenación de pago. Tras la disposición viene el reconocimiento o liquidación.",
+    "fuente": "Art. 184.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál es la última de las fases enumeradas en el art. 184.1 del TRLRHL para la gestión del presupuesto de gastos?",
+    "options": [
+      "El reconocimiento o liquidación de la obligación",
+      "La disposición o compromiso de gasto",
+      "La ordenación de pago",
+      "El pago material de la obligación"
+    ],
+    "correct": 2,
+    "exp": "El art. 184.1.d) TRLRHL cierra la enumeración de fases con la ordenación de pago.",
+    "fuente": "Art. 184.1.d) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 184.1 del TRLRHL, ¿cómo se establece el contenido de cada una de las fases de gestión del presupuesto de gastos?",
+    "options": [
+      "Reglamentariamente",
+      "Mediante ordenanza fiscal",
+      "Mediante acuerdo plenario anual",
+      "Mediante instrucción del interventor"
+    ],
+    "correct": 0,
+    "exp": "El art. 184.1 TRLRHL indica que la gestión del presupuesto de gastos se realizará en las fases enumeradas 'cuyo contenido se establecerá reglamentariamente'.",
+    "fuente": "Art. 184.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 184.2 del TRLRHL, ¿qué posibilidad se reconoce a las entidades locales respecto de las fases de gestión del gasto?",
+    "options": [
+      "Suprimir la fase de ordenación de pago en presupuestos inferiores a determinada cuantía",
+      "Abarcar en un solo acto administrativo dos o más de las fases enumeradas, en la forma que reglamentariamente se establezca",
+      "Delegar todas las fases en el interventor",
+      "Sustituir las cuatro fases por una fase única de 'gestión global'"
+    ],
+    "correct": 1,
+    "exp": "El art. 184.2 TRLRHL permite que las entidades locales, en la forma reglamentaria que se establezca, abarquen en un solo acto administrativo dos o más de las fases de ejecución enumeradas en el apartado 1.",
+    "fuente": "Art. 184.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 185.1 del TRLRHL, dentro del importe de los créditos autorizados en los presupuestos, ¿a quién corresponde la autorización y disposición de los gastos?",
+    "options": [
+      "Exclusivamente al interventor",
+      "Al presidente o al Pleno de la entidad, de acuerdo con la atribución de competencias de la normativa vigente",
+      "Exclusivamente al Pleno en todo caso",
+      "Al tesorero de la entidad"
+    ],
+    "correct": 1,
+    "exp": "El art. 185.1 TRLRHL atribuye la autorización y disposición de los gastos, dentro del importe de los créditos autorizados, al presidente o al Pleno de la entidad, según la atribución de competencias de la normativa vigente.",
+    "fuente": "Art. 185.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 185.2 del TRLRHL, ¿a quién corresponde el reconocimiento y liquidación de las obligaciones derivadas de compromisos de gasto legalmente adquiridos?",
+    "options": [
+      "Al Pleno de la corporación",
+      "Al interventor general",
+      "Al presidente de la corporación",
+      "A la Comisión Especial de Cuentas"
+    ],
+    "correct": 2,
+    "exp": "El art. 185.2 TRLRHL atribuye al presidente de la corporación el reconocimiento y liquidación de las obligaciones derivadas de compromisos de gastos legalmente adquiridos.",
+    "fuente": "Art. 185.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 185.3 del TRLRHL, ¿en virtud de qué precepto pueden desconcentrarse o delegarse las facultades de gestión de gastos citadas en el propio artículo?",
+    "options": [
+      "El art. 21.3 de la Ley 7/1985",
+      "El art. 23 de la Ley 7/1985, de 2 de abril",
+      "El art. 13 de la Ley 40/2015",
+      "El art. 9 de la Ley 39/2015"
+    ],
+    "correct": 1,
+    "exp": "El art. 185.3 TRLRHL remite al art. 23 de la Ley 7/1985, de 2 de abril, para la desconcentración o delegación de las facultades de gestión de gastos.",
+    "fuente": "Art. 185.3 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 185.3 del TRLRHL, las desconcentraciones o delegaciones de las facultades de gestión de gastos deben recogerse, para cada ejercicio, en:",
+    "options": [
+      "El Reglamento Orgánico Municipal",
+      "Las bases de ejecución del presupuesto",
+      "El plan de disposición de fondos",
+      "La Memoria de la Cuenta General"
+    ],
+    "correct": 1,
+    "exp": "El art. 185.3 TRLRHL exige que las desconcentraciones o delegaciones de estas facultades se recojan, para cada ejercicio, en las bases de ejecución del presupuesto.",
+    "fuente": "Art. 185.3 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 185.4 del TRLRHL, en los organismos autónomos, ¿a quién corresponden las facultades de gestión de gastos indicadas en el propio artículo?",
+    "options": [
+      "Siempre al presidente de la entidad local matriz",
+      "A los órganos de aquéllos a los que sus estatutos atribuyan dichas competencias",
+      "Al interventor de la entidad local matriz",
+      "Al Pleno de la entidad local matriz en todo caso"
+    ],
+    "correct": 1,
+    "exp": "El art. 185.4 TRLRHL establece que en los organismos autónomos las facultades indicadas se ejercerán en los términos expuestos, correspondiendo a los órganos de aquéllos a los que sus estatutos atribuyan dichas competencias.",
+    "fuente": "Art. 185.4 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 186.1 del TRLRHL, ¿a quién competen las funciones de ordenación de pagos?",
+    "options": [
+      "Al interventor",
+      "Al tesorero",
+      "Al presidente de la entidad local",
+      "Al Pleno"
+    ],
+    "correct": 2,
+    "exp": "El art. 186.1 TRLRHL atribuye al presidente de la entidad local las funciones de ordenación de pagos.",
+    "fuente": "Art. 186.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 186.2 del TRLRHL, ¿quién puede crear una unidad de ordenación de pagos y a propuesta de quién?",
+    "options": [
+      "El presidente, a propuesta del interventor",
+      "El Pleno, a propuesta del presidente",
+      "El interventor, por iniciativa propia",
+      "El tesorero, a propuesta del Pleno"
+    ],
+    "correct": 1,
+    "exp": "El art. 186.2 TRLRHL prevé que el Pleno de la entidad local, a propuesta del presidente, pueda crear una unidad de ordenación de pagos que, bajo la superior autoridad de éste, ejerza las funciones administrativas de la ordenación de pagos.",
+    "fuente": "Art. 186.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 186.3 del TRLRHL, ¿a partir de qué número de habitantes de derecho puede el Pleno crear una unidad central de tesorería?",
+    "options": [
+      "Más de 50.000 habitantes",
+      "Más de 100.000 habitantes",
+      "Más de 500.000 habitantes",
+      "Más de 1.000.000 de habitantes"
+    ],
+    "correct": 2,
+    "exp": "El art. 186.3 TRLRHL permite al Pleno de las entidades locales de más de 500.000 habitantes de derecho, a propuesta del presidente, crear una unidad central de tesorería.",
+    "fuente": "Art. 186.3 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 186.3 del TRLRHL, la unidad central de tesorería en entidades de más de 500.000 habitantes de derecho la crea el Pleno:",
+    "options": [
+      "A propuesta del interventor",
+      "A propuesta del presidente",
+      "De oficio, sin propuesta previa",
+      "A propuesta del tesorero"
+    ],
+    "correct": 1,
+    "exp": "El art. 186.3 TRLRHL exige que la creación de la unidad central de tesorería por el Pleno se haga 'a propuesta del presidente'.",
+    "fuente": "Art. 186.3 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 186.4 del TRLRHL, en los organismos autónomos, ¿quién ejerce la ordenación de pagos?",
+    "options": [
+      "El presidente de la entidad local matriz en todo caso",
+      "El órgano de éstos que, por estatutos, la tenga atribuida",
+      "El interventor de la entidad local matriz",
+      "Siempre el gerente del organismo autónomo"
+    ],
+    "correct": 1,
+    "exp": "El art. 186.4 TRLRHL establece que la ordenación de pagos en los organismos autónomos la ejercerá el órgano de éstos que, por estatutos, la tenga atribuida.",
+    "fuente": "Art. 186.4 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 187 del TRLRHL, ¿a qué debe acomodarse la expedición de las órdenes de pago?",
+    "options": [
+      "Al presupuesto de tesorería anual aprobado por el Pleno",
+      "Al plan de disposición de fondos de la tesorería que establezca el presidente",
+      "Al informe previo de la Intervención",
+      "Al calendario de subvenciones vigente"
+    ],
+    "correct": 1,
+    "exp": "El art. 187 TRLRHL dispone que la expedición de las órdenes de pago habrá de acomodarse al plan de disposición de fondos de la tesorería que se establezca por el presidente.",
+    "fuente": "Art. 187 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 187 del TRLRHL, ¿qué debe recoger en todo caso el plan de disposición de fondos de la tesorería?",
+    "options": [
+      "La prioridad de los gastos de personal y de las obligaciones contraídas en ejercicios anteriores",
+      "La prioridad de las subvenciones a entidades sin fines de lucro",
+      "La prioridad de las inversiones financieramente sostenibles",
+      "La prioridad de los gastos electorales"
+    ],
+    "correct": 0,
+    "exp": "El art. 187 TRLRHL exige que el plan de disposición de fondos, en todo caso, recoja la prioridad de los gastos de personal y de las obligaciones contraídas en ejercicios anteriores.",
+    "fuente": "Art. 187 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 188 del TRLRHL, ¿quiénes son, en todo caso, personalmente responsables de todo gasto que autoricen sin crédito suficiente?",
+    "options": [
+      "Los interventores, exclusivamente",
+      "Los ordenadores de gastos y de pagos",
+      "Los tesoreros, exclusivamente",
+      "Los miembros del Pleno"
+    ],
+    "correct": 1,
+    "exp": "El art. 188 TRLRHL declara personalmente responsables, en todo caso, a los ordenadores de gastos y de pagos de todo gasto que autoricen y de toda obligación que reconozcan, liquiden o paguen sin crédito suficiente.",
+    "fuente": "Art. 188 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 188 del TRLRHL, ¿en qué caso no incurren en responsabilidad personal los interventores de las entidades locales respecto de un gasto sin crédito suficiente?",
+    "options": [
+      "Cuando el gasto sea inferior a una determinada cuantía",
+      "Cuando adviertan por escrito su improcedencia",
+      "Cuando el Pleno ratifique el gasto a posteriori",
+      "Cuando el gasto se refiera a atenciones periódicas"
+    ],
+    "correct": 1,
+    "exp": "El art. 188 TRLRHL exonera de responsabilidad a los interventores 'cuando no adviertan por escrito su improcedencia', es decir, si lo advierten por escrito no responden personalmente.",
+    "fuente": "Art. 188 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 188 del TRLRHL, si no advierten por escrito su improcedencia, ¿de qué son personalmente responsables los interventores de las entidades locales?",
+    "options": [
+      "De toda obligación que reconozcan, liquiden o paguen sin crédito suficiente",
+      "De toda infracción tributaria cometida por los contribuyentes",
+      "De los déficits de tesorería del ejercicio",
+      "De los errores materiales de la Cuenta General"
+    ],
+    "correct": 0,
+    "exp": "El art. 188 TRLRHL hace responsables a los interventores, cuando no adviertan por escrito su improcedencia, de toda obligación que reconozcan, liquiden o paguen sin crédito suficiente.",
+    "fuente": "Art. 188 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 189.1 del TRLRHL, ¿qué debe acreditarse documentalmente, con carácter previo a la expedición de las órdenes de pago?",
+    "options": [
+      "La realización de la prestación o el derecho del acreedor, conforme a los acuerdos que autorizaron y comprometieron el gasto",
+      "La existencia de remanente de tesorería positivo",
+      "El informe favorable del Tribunal de Cuentas",
+      "La aprobación definitiva del presupuesto del ejercicio"
+    ],
+    "correct": 0,
+    "exp": "El art. 189.1 TRLRHL exige acreditar documentalmente, previamente a la expedición de las órdenes de pago, la realización de la prestación o el derecho del acreedor, de conformidad con los acuerdos que autorizaron y comprometieron el gasto.",
+    "fuente": "Art. 189.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 189.1 del TRLRHL, ¿ante qué órgano debe acreditarse documentalmente la realización de la prestación antes de expedir las órdenes de pago?",
+    "options": [
+      "Ante el Pleno de la corporación",
+      "Ante el órgano que haya de reconocer las obligaciones",
+      "Ante el Tribunal de Cuentas",
+      "Ante la Comisión Especial de Cuentas"
+    ],
+    "correct": 1,
+    "exp": "El art. 189.1 TRLRHL exige que esa acreditación se haga 'ante el órgano que haya de reconocer las obligaciones'.",
+    "fuente": "Art. 189.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 189.2 del TRLRHL, ¿qué deben acreditar los perceptores de subvenciones con cargo a los presupuestos de las entidades locales, antes de su percepción?",
+    "options": [
+      "Que se encuentran al corriente de sus obligaciones fiscales con la entidad",
+      "Que carecen de deudas con la Seguridad Social a nivel estatal",
+      "Que han presentado la declaración de la renta del ejercicio anterior",
+      "Que disponen de un aval bancario equivalente al importe de la subvención"
+    ],
+    "correct": 0,
+    "exp": "El art. 189.2 TRLRHL obliga a los perceptores de subvenciones a acreditar, antes de su percepción, que se encuentran al corriente de sus obligaciones fiscales con la entidad.",
+    "fuente": "Art. 189.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 189.2 del TRLRHL, con posterioridad a la percepción de la subvención, ¿qué deben justificar sus beneficiarios?",
+    "options": [
+      "La aplicación de los fondos recibidos",
+      "El cumplimiento de la normativa medioambiental",
+      "La renovación del aval bancario",
+      "La actualización del padrón de habitantes"
+    ],
+    "correct": 0,
+    "exp": "El art. 189.2 TRLRHL exige a los perceptores de subvenciones justificar, posteriormente, la aplicación de los fondos recibidos.",
+    "fuente": "Art. 189.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 190.1 del TRLRHL, ¿qué carácter tienen las órdenes de pago cuyos documentos no se pueden acompañar en el momento de su expedición?",
+    "options": [
+      "Carácter de anticipo de caja fija",
+      "Carácter de a justificar",
+      "Carácter de pago indebido",
+      "Carácter de gasto plurianual"
+    ],
+    "correct": 1,
+    "exp": "El art. 190.1 TRLRHL dispone que las órdenes de pago cuyos documentos no se puedan acompañar en el momento de su expedición tendrán el carácter de a justificar.",
+    "fuente": "Art. 190.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 190.1 del TRLRHL, las órdenes de pago a justificar se aplicarán a:",
+    "options": [
+      "Los correspondientes créditos presupuestarios",
+      "Una cuenta extrapresupuestaria de operaciones no presupuestarias",
+      "El remanente de tesorería para gastos generales",
+      "El Fondo de Contingencia del presupuesto"
+    ],
+    "correct": 0,
+    "exp": "El art. 190.1 TRLRHL establece que las órdenes de pago a justificar 'se aplicarán a los correspondientes créditos presupuestarios'.",
+    "fuente": "Art. 190.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 190.2 del TRLRHL, ¿qué órgano debe informar, con carácter previo, las normas de las bases de ejecución que regulen la expedición de órdenes de pago a justificar?",
+    "options": [
+      "La Tesorería",
+      "La Intervención",
+      "El Pleno",
+      "El Tribunal de Cuentas"
+    ],
+    "correct": 1,
+    "exp": "El art. 190.2 TRLRHL exige el informe previo de la Intervención para las normas de las bases de ejecución que regulen la expedición de órdenes de pago a justificar.",
+    "fuente": "Art. 190.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 190.2 del TRLRHL, las normas de las bases de ejecución sobre órdenes de pago a justificar deben determinar:",
+    "options": [
+      "Los criterios generales, los límites cuantitativos y los conceptos presupuestarios a los que sean aplicables",
+      "Únicamente el importe máximo global anual",
+      "Únicamente el órgano competente para su expedición",
+      "Únicamente el plazo de prescripción de la acción de reintegro"
+    ],
+    "correct": 0,
+    "exp": "El art. 190.2 TRLRHL exige que dichas normas determinen los criterios generales, los límites cuantitativos y los conceptos presupuestarios a los que sean aplicables.",
+    "fuente": "Art. 190.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 190.2 del TRLRHL, ¿en qué plazo máximo quedan obligados los perceptores de órdenes de pago a justificar a justificar la aplicación de las cantidades percibidas?",
+    "options": [
+      "Un mes",
+      "Dos meses",
+      "Tres meses",
+      "Seis meses"
+    ],
+    "correct": 2,
+    "exp": "El art. 190.2 TRLRHL fija el plazo máximo de tres meses para que los perceptores de órdenes de pago a justificar justifiquen la aplicación de las cantidades percibidas.",
+    "fuente": "Art. 190.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 190.2 del TRLRHL, los perceptores de órdenes de pago a justificar quedan sujetos, en cuanto a su justificación, a:",
+    "options": [
+      "El régimen de responsabilidades que establece la normativa vigente",
+      "El régimen disciplinario de la función pública, exclusivamente",
+      "El régimen sancionador tributario, exclusivamente",
+      "Ningún régimen específico de responsabilidad"
+    ],
+    "correct": 0,
+    "exp": "El art. 190.2 TRLRHL sujeta a los perceptores de estas órdenes de pago al régimen de responsabilidades que establece la normativa vigente.",
+    "fuente": "Art. 190.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 190.2 del TRLRHL, ¿pueden expedirse nuevas órdenes de pago a justificar, por los mismos conceptos presupuestarios, a perceptores que tuviesen aún en su poder fondos pendientes de justificación?",
+    "options": [
+      "Sí, siempre que lo autorice el interventor",
+      "Sí, hasta un máximo de dos órdenes simultáneas",
+      "En ningún caso",
+      "Sí, si el Pleno lo aprueba expresamente"
+    ],
+    "correct": 2,
+    "exp": "El art. 190.2 TRLRHL prohíbe expresamente expedir nuevas órdenes de pago a justificar, por los mismos conceptos presupuestarios, a perceptores que tuviesen aún en su poder fondos pendientes de justificación: 'en ningún caso podrán expedirse'.",
+    "fuente": "Art. 190.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 190.3 del TRLRHL, los fondos librados a justificar podrán tener el carácter de anticipos de caja fija cuando se destinen a:",
+    "options": [
+      "Inversiones financieramente sostenibles",
+      "Atenciones de carácter periódico o repetitivo",
+      "Gastos plurianuales de carácter extraordinario",
+      "Operaciones de crédito a corto plazo"
+    ],
+    "correct": 1,
+    "exp": "El art. 190.3 TRLRHL reserva el carácter de anticipos de caja fija a los fondos librados a justificar para atenciones de carácter periódico o repetitivo.",
+    "fuente": "Art. 190.3 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 190.3 del TRLRHL, ¿hasta cuándo quedan obligados los perceptores de anticipos de caja fija a justificar la aplicación de las cantidades percibidas?",
+    "options": [
+      "En el plazo máximo de tres meses, igual que los pagos a justificar ordinarios",
+      "A lo largo del ejercicio presupuestario en que se constituyó el anticipo",
+      "En el plazo de un mes desde la percepción",
+      "Antes del 31 de marzo del ejercicio siguiente"
+    ],
+    "correct": 1,
+    "exp": "El art. 190.3 TRLRHL obliga a los perceptores de anticipos de caja fija a justificar la aplicación de las cantidades percibidas 'a lo largo del ejercicio presupuestario en que se constituyó el anticipo', a diferencia del plazo de tres meses de los pagos a justificar ordinarios del apartado 2.",
+    "fuente": "Art. 190.3 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál es el título exacto del art. 190 del TRLRHL?",
+    "options": [
+      "\"Anticipos de tesorería y pagos aplazados\"",
+      "\"Pagos a justificar. Anticipos de caja fija.\"",
+      "\"Gastos reservados y pagos en firme\"",
+      "\"Pagos a justificar. Anticipos reintegrables.\""
+    ],
+    "correct": 1,
+    "exp": "El art. 190 TRLRHL se titula literalmente 'Pagos a justificar. Anticipos de caja fija.'",
+    "fuente": "Art. 190 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Comparando los apartados 2 y 3 del art. 190 del TRLRHL, ¿cuál es la principal diferencia en el plazo de justificación entre los pagos a justificar ordinarios y los anticipos de caja fija?",
+    "options": [
+      "No existe diferencia, ambos se justifican en tres meses",
+      "Los pagos a justificar ordinarios se justifican en tres meses, mientras que los anticipos de caja fija se justifican a lo largo del ejercicio presupuestario en que se constituyeron",
+      "Los anticipos de caja fija se justifican en tres meses y los pagos a justificar ordinarios a lo largo del ejercicio",
+      "Ambos carecen de plazo legal de justificación"
+    ],
+    "correct": 1,
+    "exp": "El art. 190.2 TRLRHL fija tres meses para los pagos a justificar ordinarios, mientras que el art. 190.3 TRLRHL extiende el plazo de justificación de los anticipos de caja fija a lo largo de todo el ejercicio presupuestario en que se constituyeron.",
+    "fuente": "Arts. 190.2 y 190.3 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Los arts. 183 a 190 del TRLRHL, relativos a la ejecución del presupuesto de gastos, se integran en:",
+    "options": [
+      "La Sección 3.ª ('Ejecución y liquidación') del Capítulo I del Título VI",
+      "El Capítulo III del Título VI, dedicado a la contabilidad",
+      "El Capítulo V del Título VI, dedicado al control y fiscalización",
+      "La Sección 2.ª ('De los créditos y sus modificaciones') del Capítulo I del Título VI"
+    ],
+    "correct": 0,
+    "exp": "En el texto consolidado del TRLRHL, los arts. 183 a 190 forman la Sección 3.ª ('Ejecución y liquidación') del Capítulo I del Título VI, inmediatamente después de la Sección 2.ª ('De los créditos y sus modificaciones', arts. 172-182).",
+    "fuente": "Sección 3.ª, Capítulo I, Título VI TRLRHL (arts. 183-190, RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 185.3 del TRLRHL remite al art. 23 de la Ley 7/1985, de 2 de abril, para la desconcentración o delegación de las facultades de gestión de gastos. ¿Cómo se denomina esta ley?",
+    "options": [
+      "Ley Reguladora de las Bases del Régimen Local",
+      "Ley General Presupuestaria",
+      "Ley Reguladora de las Haciendas Locales",
+      "Ley de Bases de Régimen Jurídico de las Administraciones Públicas"
+    ],
+    "correct": 0,
+    "exp": "La Ley 7/1985, de 2 de abril, a la que remite el art. 185.3 TRLRHL, es la Ley Reguladora de las Bases del Régimen Local (LBRL).",
+    "fuente": "Art. 185.3 TRLRHL (RDLeg 2/2004), en relación con el art. 23 de la Ley 7/1985",
+    "confianza": "alta"
+  }
+]);
