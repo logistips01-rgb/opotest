@@ -1,0 +1,567 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 17,
+  "tramo": "TREBEP Título V: ordenación de la actividad profesional",
+  "preguntas": [
+    {
+      "q": "Según el art. 69.1 TREBEP, ¿cuál es la finalidad de la planificación de los recursos humanos en las Administraciones Públicas?",
+      "options": [
+        "Contribuir a la eficacia en la prestación de servicios y a la eficiencia en la utilización de los recursos económicos disponibles",
+        "Garantizar la estabilidad en el empleo de todo el personal funcionario de carrera",
+        "Reducir de forma permanente el número de efectivos de las plantillas públicas"
+      ],
+      "correct": 0,
+      "exp": "El art. 69.1 fija como objetivo de la planificación contribuir a la eficacia en la prestación de servicios y a la eficiencia en el uso de los recursos económicos, mediante la dimensión adecuada de efectivos, su distribución, formación, promoción profesional y movilidad.",
+      "fuente": "Art. 69.1 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 69.1: 'tendrá como objetivo contribuir a la consecución de la eficacia en la prestación de los servicios y de la eficiencia en la utilización de los recursos económicos disponibles'."
+    },
+    {
+      "q": "De acuerdo con el art. 69.2.a) TREBEP, entre las medidas que pueden incluir los Planes de ordenación de recursos humanos figura:",
+      "options": [
+        "La supresión automática de todos los cuerpos y escalas existentes",
+        "El análisis de las disponibilidades y necesidades de personal, tanto en número de efectivos como en perfiles profesionales o niveles de cualificación",
+        "La externalización obligatoria de los servicios que presenten déficit de personal"
+      ],
+      "correct": 1,
+      "exp": "El art. 69.2.a) incluye entre las medidas de los planes el análisis de disponibilidades y necesidades de personal, tanto desde el número de efectivos como desde los perfiles profesionales o niveles de cualificación.",
+      "fuente": "Art. 69.2.a) TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 69.2.a): 'Análisis de las disponibilidades y necesidades de personal, tanto desde el punto de vista del número de efectivos, como del de los perfiles profesionales o niveles de cualificación de los mismos'."
+    },
+    {
+      "q": "Según el art. 69.2.c) TREBEP, entre las medidas de movilidad que pueden figurar en los Planes de ordenación de recursos humanos se encuentra:",
+      "options": [
+        "La obligación de que todo el personal cambie de puesto cada cinco años",
+        "La eliminación de los concursos de provisión de puestos de trabajo",
+        "La convocatoria de concursos de provisión de puestos limitados a personal de ámbitos que se determinen"
+      ],
+      "correct": 2,
+      "exp": "El art. 69.2.c) contempla como medida de movilidad la suspensión de incorporaciones de personal externo a un ámbito determinado o la convocatoria de concursos de provisión limitados a personal de ámbitos que se determinen.",
+      "fuente": "Art. 69.2.c) TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 69.2.c): '...o la convocatoria de concursos de provisión de puestos limitados a personal de ámbitos que se determinen'."
+    },
+    {
+      "q": "El art. 69.2.d) TREBEP remite, para las medidas de promoción interna, formación y movilidad forzosa incluidas en los Planes de ordenación de recursos humanos, a lo dispuesto en:",
+      "options": [
+        "El capítulo III del título V del Estatuto",
+        "El capítulo I del título IV del Estatuto",
+        "El título VI del Estatuto, relativo a las situaciones administrativas"
+      ],
+      "correct": 0,
+      "exp": "El art. 69.2.d) contempla medidas de promoción interna, formación y movilidad forzosa 'de conformidad con lo dispuesto en el capítulo III del presente título', es decir, el capítulo III del título V (provisión de puestos y movilidad).",
+      "fuente": "Art. 69.2.d) TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 69.2.d): 'Medidas de promoción interna y de formación del personal y de movilidad forzosa de conformidad con lo dispuesto en el capítulo III del presente título de este Estatuto' (el 'presente título' es el Título V)."
+    },
+    {
+      "q": "Conforme al art. 69.3 TREBEP, cada Administración Pública planificará sus recursos humanos:",
+      "options": [
+        "Siguiendo en todo caso un modelo único aprobado por el Ministerio de Hacienda",
+        "De acuerdo con los sistemas que establezcan las normas que le sean de aplicación",
+        "Únicamente cuando lo autorice expresamente la Conferencia Sectorial de Administración Pública"
+      ],
+      "correct": 1,
+      "exp": "El art. 69.3 establece que cada Administración Pública planificará sus recursos humanos de acuerdo con los sistemas que establezcan las normas que le sean de aplicación.",
+      "fuente": "Art. 69.3 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 69.3: 'Cada Administración Pública planificará sus recursos humanos de acuerdo con los sistemas que establezcan las normas que les sean de aplicación'."
+    },
+    {
+      "q": "Según el art. 70.1 TREBEP, la Oferta de empleo público comportará la obligación de convocar los procesos selectivos correspondientes a las plazas comprometidas y hasta un porcentaje adicional de:",
+      "options": [
+        "Un veinte por cien",
+        "Un cinco por cien",
+        "Un diez por cien"
+      ],
+      "correct": 2,
+      "exp": "El art. 70.1 dispone que la Oferta de empleo público comportará la obligación de convocar los procesos selectivos para las plazas comprometidas y hasta un diez por cien adicional.",
+      "fuente": "Art. 70.1 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 70.1: '...hasta un diez por cien adicional...'."
+    },
+    {
+      "q": "¿Cuál es el plazo máximo para la ejecución de la Oferta de empleo público o instrumento similar según el art. 70.1 TREBEP?",
+      "options": [
+        "Tres años, con carácter improrrogable",
+        "Cinco años, prorrogable por otros dos",
+        "Un año, contado desde su publicación"
+      ],
+      "correct": 0,
+      "exp": "El art. 70.1 señala que la ejecución de la oferta de empleo público o instrumento similar deberá desarrollarse dentro del plazo improrrogable de tres años.",
+      "fuente": "Art. 70.1 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 70.1: 'la ejecución de la oferta de empleo público o instrumento similar deberá desarrollarse dentro del plazo improrrogable de tres años'."
+    },
+    {
+      "q": "Según el art. 70.2 TREBEP, la Oferta de empleo público o instrumento similar se aprobará:",
+      "options": [
+        "Cada dos años y no requiere publicación oficial mientras no se convoquen procesos selectivos",
+        "Anualmente por los órganos de Gobierno de las Administraciones Públicas y deberá publicarse en el diario oficial correspondiente",
+        "Trimestralmente por los órganos de personal de cada unidad administrativa"
+      ],
+      "correct": 1,
+      "exp": "El art. 70.2 establece que la Oferta de empleo público o instrumento similar se aprobará anualmente por los órganos de Gobierno de las Administraciones Públicas y deberá ser publicada en el Diario oficial correspondiente.",
+      "fuente": "Art. 70.2 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 70.2: 'que se aprobará anualmente por los órganos de Gobierno de las Administraciones Públicas, deberá ser publicada en el Diario oficial correspondiente'."
+    },
+    {
+      "q": "De acuerdo con el art. 70.3 TREBEP, la Oferta de empleo público o instrumento similar:",
+      "options": [
+        "No podrá en ningún caso vincularse a los planes de ordenación de recursos humanos",
+        "Solo puede referirse a plazas de nuevo ingreso de personal laboral fijo",
+        "Podrá contener medidas derivadas de la planificación de recursos humanos"
+      ],
+      "correct": 2,
+      "exp": "El art. 70.3 dispone que la Oferta de empleo público o instrumento similar podrá contener medidas derivadas de la planificación de recursos humanos.",
+      "fuente": "Art. 70.3 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 70.3: 'La Oferta de empleo público o instrumento similar podrá contener medidas derivadas de la planificación de recursos humanos'."
+    },
+    {
+      "q": "Según el art. 71.1 TREBEP, cada Administración Pública constituirá un Registro en el que se inscribirán:",
+      "options": [
+        "Los datos relativos al personal contemplado en los artículos 2 y 5 del Estatuto, teniendo en cuenta las peculiaridades de determinados colectivos",
+        "Únicamente los datos del personal directivo profesional",
+        "Exclusivamente los datos económicos de las retribuciones del personal funcionario"
+      ],
+      "correct": 0,
+      "exp": "El art. 71.1 establece que cada Administración Pública constituirá un Registro en el que se inscribirán los datos relativos al personal de los arts. 2 y 5 del Estatuto, teniendo en cuenta las peculiaridades de determinados colectivos.",
+      "fuente": "Art. 71.1 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 71.1: 'se inscribirán los datos relativos al personal contemplado en los artículos 2 y 5 del presente Estatuto y que tendrá en cuenta las peculiaridades de determinados colectivos'."
+    },
+    {
+      "q": "El art. 71.3 TREBEP prevé que los contenidos mínimos comunes de los Registros de personal y los criterios de intercambio homogéneo de información entre Administraciones se establecerán mediante:",
+      "options": [
+        "Real Decreto del Consejo de Ministros",
+        "Convenio de Conferencia Sectorial",
+        "Acuerdo bilateral entre cada dos Administraciones afectadas"
+      ],
+      "correct": 1,
+      "exp": "Según el art. 71.3, mediante convenio de Conferencia Sectorial se establecerán los contenidos mínimos comunes de los Registros de personal y los criterios para el intercambio homogéneo de información entre Administraciones.",
+      "fuente": "Art. 71.3 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 71.3: 'Mediante convenio de Conferencia Sectorial se establecerán los contenidos mínimos comunes de los Registros de personal y los criterios que permitan el intercambio homogéneo de la información entre Administraciones'."
+    },
+    {
+      "q": "Conforme al art. 71.4 TREBEP, las Administraciones Públicas:",
+      "options": [
+        "Estarán obligadas a unificar sus Registros de personal en un único registro estatal",
+        "Deberán externalizar la gestión de sus Registros de personal",
+        "Impulsarán la gestión integrada de recursos humanos"
+      ],
+      "correct": 2,
+      "exp": "El art. 71.4 dispone que las Administraciones Públicas impulsarán la gestión integrada de recursos humanos.",
+      "fuente": "Art. 71.4 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 71.4: 'Las Administraciones Públicas impulsarán la gestión integrada de recursos humanos'."
+    },
+    {
+      "q": "Según el art. 71.5 TREBEP, cuando las Entidades Locales no cuenten con suficiente capacidad financiera o técnica para la gestión de sus Registros de personal:",
+      "options": [
+        "La Administración General del Estado y las Comunidades Autónomas cooperarán con aquéllas",
+        "Quedarán exentas de constituir Registro de personal",
+        "Deberán integrar su personal en el Registro de la Diputación Provincial"
+      ],
+      "correct": 0,
+      "exp": "El art. 71.5 establece que cuando las Entidades Locales no cuenten con suficiente capacidad financiera o técnica, la AGE y las Comunidades Autónomas cooperarán con aquéllas a los efectos contemplados en el artículo.",
+      "fuente": "Art. 71.5 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 71.5: 'la Administración General del Estado y las Comunidades Autónomas cooperarán con aquéllas a los efectos contemplados en este artículo'."
+    },
+    {
+      "q": "Según el art. 72 TREBEP, las Administraciones Públicas estructuran sus recursos humanos, en el marco de sus competencias de autoorganización, de acuerdo con las normas que regulan:",
+      "options": [
+        "Exclusivamente el régimen retributivo del personal funcionario",
+        "La selección, la promoción profesional, la movilidad y la distribución de funciones",
+        "Únicamente los procedimientos disciplinarios aplicables al personal"
+      ],
+      "correct": 1,
+      "exp": "El art. 72 dispone que las Administraciones Públicas estructuran sus recursos humanos, en el marco de sus competencias de autoorganización, de acuerdo con las normas que regulan la selección, la promoción profesional, la movilidad y la distribución de funciones.",
+      "fuente": "Art. 72 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 72: 'las Administraciones Públicas estructuran sus recursos humanos... de acuerdo con las normas que regulan la selección, la promoción profesional, la movilidad y la distribución de funciones'."
+    },
+    {
+      "q": "Según el art. 73.1 TREBEP, los empleados públicos tienen derecho:",
+      "options": [
+        "A elegir libremente el puesto de trabajo que deseen desempeñar en cualquier momento de su carrera",
+        "A permanecer indefinidamente en el primer puesto de trabajo obtenido tras el proceso selectivo",
+        "Al desempeño de un puesto de trabajo de acuerdo con el sistema de estructuración del empleo público que establezcan las leyes de desarrollo del Estatuto"
+      ],
+      "correct": 2,
+      "exp": "El art. 73.1 reconoce el derecho de los empleados públicos al desempeño de un puesto de trabajo de acuerdo con el sistema de estructuración del empleo público que establezcan las leyes de desarrollo del Estatuto.",
+      "fuente": "Art. 73.1 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 73.1: 'Los empleados públicos tienen derecho al desempeño de un puesto de trabajo de acuerdo con el sistema de estructuración del empleo público que establezcan las leyes de desarrollo del presente Estatuto'."
+    },
+    {
+      "q": "De acuerdo con el art. 73.2 TREBEP, las Administraciones Públicas podrán asignar a su personal funciones, tareas o responsabilidades distintas a las de su puesto de trabajo siempre que:",
+      "options": [
+        "Resulten adecuadas a su clasificación, grado o categoría, cuando las necesidades del servicio lo justifiquen y sin merma en las retribuciones",
+        "Medie el consentimiento previo de la totalidad de la plantilla del centro de trabajo",
+        "Se trate de funciones de un grupo de clasificación profesional superior al del funcionario"
+      ],
+      "correct": 0,
+      "exp": "El art. 73.2 permite asignar funciones, tareas o responsabilidades distintas a las del puesto siempre que sean adecuadas a la clasificación, grado o categoría del empleado, cuando las necesidades del servicio lo justifiquen, sin merma en las retribuciones.",
+      "fuente": "Art. 73.2 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 73.2: 'siempre que resulten adecuadas a su clasificación, grado o categoría, cuando las necesidades del servicio lo justifiquen sin merma en las retribuciones'."
+    },
+    {
+      "q": "Según el art. 73.3 TREBEP, los puestos de trabajo podrán agruparse en función de sus características para ordenar:",
+      "options": [
+        "Únicamente el régimen de incompatibilidades",
+        "La selección, la formación y la movilidad",
+        "Solo los procesos de promoción interna del personal laboral"
+      ],
+      "correct": 1,
+      "exp": "El art. 73.3 establece que los puestos de trabajo podrán agruparse en función de sus características para ordenar la selección, la formación y la movilidad.",
+      "fuente": "Art. 73.3 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 73.3: 'Los puestos de trabajo podrán agruparse en función de sus características para ordenar la selección, la formación y la movilidad'."
+    },
+    {
+      "q": "Según el art. 74 TREBEP, las Administraciones Públicas estructurarán su organización a través de relaciones de puestos de trabajo u otros instrumentos organizativos similares, que comprenderán al menos:",
+      "options": [
+        "El nombre y apellidos del titular del puesto, su antigüedad y su domicilio",
+        "Exclusivamente el organigrama jerárquico de cada unidad administrativa",
+        "La denominación de los puestos, los grupos de clasificación profesional, los cuerpos o escalas a que estén adscritos, los sistemas de provisión y las retribuciones complementarias"
+      ],
+      "correct": 2,
+      "exp": "El art. 74 dispone que las Administraciones Públicas estructurarán su organización a través de relaciones de puestos de trabajo u otros instrumentos organizativos similares que comprenderán, al menos, la denominación de los puestos, los grupos de clasificación profesional, los cuerpos o escalas a que estén adscritos, los sistemas de provisión y las retribuciones complementarias.",
+      "fuente": "Art. 74 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 74: '...comprenderán, al menos, la denominación de los puestos, los grupos de clasificación profesional, los cuerpos o escalas, en su caso, a que estén adscritos, los sistemas de provisión y las retribuciones complementarias'."
+    },
+    {
+      "q": "Conforme al art. 74 TREBEP, las relaciones de puestos de trabajo u otros instrumentos organizativos similares:",
+      "options": [
+        "Serán públicos",
+        "Tendrán carácter reservado y de acceso restringido al personal directivo",
+        "Solo deberán publicarse cuando lo solicite expresamente algún funcionario afectado"
+      ],
+      "correct": 0,
+      "exp": "El art. 74 finaliza estableciendo expresamente que dichos instrumentos (las relaciones de puestos de trabajo u otros instrumentos organizativos similares) serán públicos.",
+      "fuente": "Art. 74 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 74: 'Dichos instrumentos serán públicos'."
+    },
+    {
+      "q": "Según el art. 75.1 TREBEP, los funcionarios se agrupan en cuerpos, escalas, especialidades u otros sistemas que incorporen:",
+      "options": [
+        "Antigüedad y méritos acumulados durante toda su carrera profesional",
+        "Competencias, capacidades y conocimientos comunes acreditados a través de un proceso selectivo",
+        "Un mismo nivel retributivo con independencia de su titulación"
+      ],
+      "correct": 1,
+      "exp": "El art. 75.1 establece que los funcionarios se agrupan en cuerpos, escalas, especialidades u otros sistemas que incorporen competencias, capacidades y conocimientos comunes acreditados a través de un proceso selectivo.",
+      "fuente": "Art. 75.1 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 75.1: 'Los funcionarios se agrupan en cuerpos, escalas, especialidades u otros sistemas que incorporen competencias, capacidades y conocimientos comunes acreditados a través de un proceso selectivo'."
+    },
+    {
+      "q": "Según el art. 75.2 TREBEP, los cuerpos y escalas de funcionarios se crean, modifican y suprimen:",
+      "options": [
+        "Por real decreto del Consejo de Ministros a propuesta del Ministerio competente en función pública",
+        "Por acuerdo de la Mesa General de Negociación de las Administraciones Públicas",
+        "Por ley de las Cortes Generales o de las asambleas legislativas de las comunidades autónomas"
+      ],
+      "correct": 2,
+      "exp": "El art. 75.2 dispone que los cuerpos y escalas de funcionarios se crean, modifican y suprimen por ley de las Cortes Generales o de las asambleas legislativas de las comunidades autónomas.",
+      "fuente": "Art. 75.2 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 75.2: 'Los cuerpos y escalas de funcionarios se crean, modifican y suprimen por ley de las Cortes Generales o de las asambleas legislativas de las comunidades autónomas'."
+    },
+    {
+      "q": "Según el art. 76 TREBEP, para el acceso a los cuerpos o escalas del Subgrupo A1 o A2 se exigirá estar en posesión de:",
+      "options": [
+        "El título universitario de Grado, salvo que la ley exija otro título universitario",
+        "El título de Bachiller o Técnico",
+        "El título de Técnico Superior"
+      ],
+      "correct": 0,
+      "exp": "El art. 76 establece que para el acceso a los cuerpos o escalas del Grupo A (Subgrupos A1 y A2) se exigirá estar en posesión del título universitario de Grado, salvo que la ley exija otro título universitario, en cuyo caso será éste el que se tenga en cuenta.",
+      "fuente": "Art. 76 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 76, Grupo A (A1/A2): 'Para el acceso a los cuerpos o escalas de este Grupo se exigirá estar en posesión del título universitario de Grado. En aquellos supuestos en los que la ley exija otro título universitario será éste el que se tenga en cuenta'."
+    },
+    {
+      "q": "De acuerdo con el art. 76 TREBEP, para el acceso a los cuerpos o escalas del Grupo B se exigirá estar en posesión de:",
+      "options": [
+        "El título universitario de Grado",
+        "El título de Técnico Superior",
+        "El título de Graduado en Educación Secundaria Obligatoria"
+      ],
+      "correct": 1,
+      "exp": "El art. 76 dispone que para el acceso a los cuerpos o escalas del Grupo B se exigirá estar en posesión del título de Técnico Superior.",
+      "fuente": "Art. 76 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 76, Grupo B: 'Para el acceso a los cuerpos o escalas del Grupo B se exigirá estar en posesión del título de Técnico Superior'."
+    },
+    {
+      "q": "Según el art. 76 TREBEP, el Subgrupo C1 exige para el ingreso estar en posesión de:",
+      "options": [
+        "El título de Graduado en Educación Secundaria Obligatoria",
+        "El título universitario de Grado",
+        "El título de Bachiller o Técnico"
+      ],
+      "correct": 2,
+      "exp": "El art. 76 establece que el Grupo C se divide en dos Subgrupos, C1 y C2, exigiéndose en el Subgrupo C1 el título de Bachiller o Técnico.",
+      "fuente": "Art. 76 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 76, Subgrupo C1: 'C1: Título de Bachiller o Técnico'."
+    },
+    {
+      "q": "Según el art. 76 TREBEP, para el ingreso en el Subgrupo C2 se exige estar en posesión de:",
+      "options": [
+        "El título de Graduado en Educación Secundaria Obligatoria",
+        "El título de Bachiller o Técnico",
+        "El título de Técnico Superior"
+      ],
+      "correct": 0,
+      "exp": "El art. 76 dispone que el Subgrupo C2 exige para el ingreso el título de Graduado en Educación Secundaria Obligatoria.",
+      "fuente": "Art. 76 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 76, Subgrupo C2: 'C2: Título de Graduado en Educación Secundaria Obligatoria'."
+    },
+    {
+      "q": "Según el art. 77 TREBEP, el personal laboral se clasificará:",
+      "options": [
+        "De acuerdo con los mismos grupos de clasificación que el personal funcionario de carrera",
+        "De conformidad con la legislación laboral",
+        "Según lo que disponga en cada caso la relación de puestos de trabajo, sin sujeción a otra normativa"
+      ],
+      "correct": 1,
+      "exp": "El art. 77 dispone escuetamente que el personal laboral se clasificará de conformidad con la legislación laboral.",
+      "fuente": "Art. 77 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 77: 'El personal laboral se clasificará de conformidad con la legislación laboral'."
+    },
+    {
+      "q": "Según el art. 78.1 TREBEP, las Administraciones Públicas proveerán los puestos de trabajo mediante procedimientos basados en los principios de:",
+      "options": [
+        "Antigüedad, jerarquía y confianza",
+        "Eficacia, economía y celeridad",
+        "Igualdad, mérito, capacidad y publicidad"
+      ],
+      "correct": 2,
+      "exp": "El art. 78.1 establece que las Administraciones Públicas proveerán los puestos de trabajo mediante procedimientos basados en los principios de igualdad, mérito, capacidad y publicidad.",
+      "fuente": "Art. 78.1 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 78.1: 'las Administraciones Públicas proveerán los puestos de trabajo mediante procedimientos basados en los principios de igualdad, mérito, capacidad y publicidad'."
+    },
+    {
+      "q": "De acuerdo con el art. 78.2 TREBEP, la provisión de puestos de trabajo del personal funcionario de carrera se llevará a cabo, con carácter general, por los procedimientos de:",
+      "options": [
+        "Concurso y libre designación con convocatoria pública",
+        "Oposición y concurso-oposición",
+        "Nombramiento directo y comisión de servicios"
+      ],
+      "correct": 0,
+      "exp": "El art. 78.2 señala que la provisión de puestos de trabajo en cada Administración Pública se llevará a cabo por los procedimientos de concurso y de libre designación con convocatoria pública.",
+      "fuente": "Art. 78.2 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 78.2: 'La provisión de puestos de trabajo en cada Administración Pública se llevará a cabo por los procedimientos de concurso y de libre designación con convocatoria pública'."
+    },
+    {
+      "q": "Según el art. 79.1 TREBEP, el concurso, como procedimiento normal de provisión de puestos de trabajo, consiste en:",
+      "options": [
+        "La apreciación discrecional del órgano competente sobre la idoneidad de los candidatos",
+        "La valoración de los méritos y capacidades, y en su caso aptitudes, de los candidatos por órganos colegiados de carácter técnico",
+        "La superación de una prueba selectiva única de carácter eliminatorio"
+      ],
+      "correct": 1,
+      "exp": "El art. 79.1 define el concurso como el procedimiento normal de provisión de puestos de trabajo, consistente en la valoración de los méritos y capacidades, y en su caso aptitudes, de los candidatos por órganos colegiados de carácter técnico.",
+      "fuente": "Art. 79.1 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 79.1: 'consistirá en la valoración de los méritos y capacidades y, en su caso, aptitudes de los candidatos por órganos colegiados de carácter técnico'."
+    },
+    {
+      "q": "Según el art. 79.4 TREBEP, en caso de supresión o remoción de los puestos obtenidos por concurso se deberá:",
+      "options": [
+        "Declarar de oficio al funcionario en situación de excedencia voluntaria",
+        "Convocar automáticamente un nuevo concurso general para todo el cuerpo o escala",
+        "Asignar un puesto de trabajo conforme al sistema de carrera profesional propio de cada Administración Pública, con las garantías inherentes a dicho sistema"
+      ],
+      "correct": 2,
+      "exp": "El art. 79.4 dispone que en caso de supresión o remoción de los puestos obtenidos por concurso se deberá asignar al funcionario un puesto de trabajo conforme al sistema de carrera profesional propio de cada Administración, con las garantías inherentes a dicho sistema.",
+      "fuente": "Art. 79.4 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 79.4: 'se deberá asignar un puesto de trabajo conforme al sistema de carrera profesional propio de cada Administración Pública y con las garantías inherentes de dicho sistema'."
+    },
+    {
+      "q": "Según el art. 80.1 TREBEP, la libre designación con convocatoria pública consiste en:",
+      "options": [
+        "La apreciación discrecional por el órgano competente de la idoneidad de los candidatos en relación con los requisitos exigidos para el desempeño del puesto",
+        "La valoración de méritos y capacidades por órganos colegiados de carácter técnico",
+        "La aplicación estricta del baremo de antigüedad y formación"
+      ],
+      "correct": 0,
+      "exp": "El art. 80.1 define la libre designación con convocatoria pública como la apreciación discrecional por el órgano competente de la idoneidad de los candidatos en relación con los requisitos exigidos para el desempeño del puesto.",
+      "fuente": "Art. 80.1 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 80.1: 'consiste en la apreciación discrecional por el órgano competente de la idoneidad de los candidatos en relación con los requisitos exigidos para el desempeño del puesto'."
+    },
+    {
+      "q": "Según el art. 80.4 TREBEP, los titulares de puestos provistos por libre designación con convocatoria pública podrán ser cesados discrecionalmente, y en caso de cese:",
+      "options": [
+        "Pasarán automáticamente a la situación de excedencia forzosa",
+        "Se les deberá asignar un puesto de trabajo conforme al sistema de carrera profesional propio de cada Administración, con las garantías inherentes a dicho sistema",
+        "Deberán superar de nuevo el proceso selectivo de acceso al cuerpo o escala"
+      ],
+      "correct": 1,
+      "exp": "El art. 80.4 establece que los titulares de puestos de libre designación con convocatoria pública podrán ser cesados discrecionalmente, y en caso de cese se les deberá asignar un puesto de trabajo conforme al sistema de carrera profesional propio de cada Administración, con las garantías inherentes a dicho sistema.",
+      "fuente": "Art. 80.4 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 80.4: 'podrán ser cesados discrecionalmente. En caso de cese, se les deberá asignar un puesto de trabajo conforme al sistema de carrera profesional propio de cada Administración Pública y con las garantías inherentes de dicho sistema'."
+    },
+    {
+      "q": "Según el art. 81.2 TREBEP, cuando las Administraciones Públicas trasladen a sus funcionarios por necesidades del servicio o funcionales a unidades, departamentos u organismos distintos de los de su destino, deberán respetar:",
+      "options": [
+        "Únicamente su nivel de complemento de destino, sin más garantías",
+        "Solo la localidad de residencia habitual del funcionario",
+        "Sus retribuciones y condiciones esenciales de trabajo"
+      ],
+      "correct": 2,
+      "exp": "El art. 81.2 dispone que las Administraciones Públicas, de manera motivada, podrán trasladar a sus funcionarios por necesidades de servicio o funcionales, respetando sus retribuciones y condiciones esenciales de trabajo.",
+      "fuente": "Art. 81.2 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 81.2: 'respetando sus retribuciones, condiciones esenciales de trabajo'."
+    },
+    {
+      "q": "Según el art. 81.3 TREBEP, en caso de urgente e inaplazable necesidad, los puestos de trabajo podrán proveerse:",
+      "options": [
+        "Con carácter provisional, debiendo procederse a su convocatoria pública dentro del plazo que señalen las normas aplicables",
+        "Únicamente mediante libre designación, sin necesidad de convocatoria posterior",
+        "Solo con personal interino de nuevo ingreso"
+      ],
+      "correct": 0,
+      "exp": "El art. 81.3 señala que en caso de urgente e inaplazable necesidad los puestos de trabajo podrán proveerse con carácter provisional, debiendo procederse a su convocatoria pública dentro del plazo que señalen las normas que sean de aplicación.",
+      "fuente": "Art. 81.3 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 81.3: 'los puestos de trabajo podrán proveerse con carácter provisional debiendo procederse a su convocatoria pública dentro del plazo que señalen las normas que sean de aplicación'."
+    },
+    {
+      "q": "Según el art. 82.1 TREBEP, las mujeres víctimas de violencia de género o violencia sexual que se vean obligadas a abandonar su puesto de trabajo tendrán derecho:",
+      "options": [
+        "A una excedencia forzosa de al menos un año con reserva de puesto",
+        "Al traslado a otro puesto propio de su cuerpo, escala o categoría profesional de análogas características, sin necesidad de que sea vacante de necesaria cobertura",
+        "Únicamente a una reducción de jornada del cincuenta por cien"
+      ],
+      "correct": 1,
+      "exp": "El art. 82.1 reconoce a las mujeres víctimas de violencia de género o sexual el derecho al traslado a otro puesto propio de su cuerpo, escala o categoría profesional de análogas características, sin necesidad de que sea vacante de necesaria cobertura.",
+      "fuente": "Art. 82.1 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 82.1: 'tendrán derecho al traslado a otro puesto de trabajo propio de su cuerpo, escala o categoría profesional, de análogas características, sin necesidad de que sea vacante de necesaria cobertura' (víctimas de violencia de género o sexual, no confundir con el régimen de víctimas del terrorismo del art. 82.2)."
+    },
+    {
+      "q": "Según el art. 82.1 TREBEP, el traslado de la funcionaria víctima de violencia de género o sexual a otro puesto de trabajo tendrá la consideración de:",
+      "options": [
+        "Traslado voluntario a todos los efectos",
+        "Permuta entre puestos de trabajo",
+        "Traslado forzoso"
+      ],
+      "correct": 2,
+      "exp": "El art. 82.1 establece expresamente que este traslado 'tendrá la consideración de traslado forzoso'.",
+      "fuente": "Art. 82.1 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 82.1: 'Este traslado tendrá la consideración de traslado forzoso'."
+    },
+    {
+      "q": "Según el art. 83 TREBEP, la provisión de puestos y movilidad del personal laboral se realizará de conformidad con lo que establezcan los convenios colectivos aplicables y, en su defecto:",
+      "options": [
+        "Por el sistema de provisión de puestos y movilidad del personal funcionario de carrera",
+        "Por lo que decida discrecionalmente el órgano de personal competente",
+        "Mediante concurso-oposición convocado anualmente por el Ministerio de Trabajo"
+      ],
+      "correct": 0,
+      "exp": "El art. 83 dispone que la provisión de puestos y movilidad del personal laboral se realizará conforme a los convenios colectivos aplicables y, en su defecto, por el sistema de provisión de puestos y movilidad del personal funcionario de carrera.",
+      "fuente": "Art. 83 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 83: 'se realizará de conformidad con lo que establezcan los convenios colectivos que sean de aplicación y, en su defecto por el sistema de provisión de puestos y movilidad del personal funcionario de carrera'."
+    },
+    {
+      "q": "Según el art. 84.1 TREBEP, las medidas de movilidad interadministrativa se establecerán preferentemente mediante:",
+      "options": [
+        "Ley orgánica aprobada por las Cortes Generales",
+        "Convenio de Conferencia Sectorial u otros instrumentos de colaboración",
+        "Acuerdo unilateral de la Administración de destino"
+      ],
+      "correct": 1,
+      "exp": "El art. 84.1 dispone que la Administración General del Estado, las comunidades autónomas y las entidades locales establecerán medidas de movilidad interadministrativa, preferentemente mediante convenio de Conferencia Sectorial u otros instrumentos de colaboración.",
+      "fuente": "Art. 84.1 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 84.1: 'establecerán medidas de movilidad interadministrativa, preferentemente mediante convenio de Conferencia Sectorial u otros instrumentos de colaboración'."
+    },
+    {
+      "q": "Según el art. 84.3 TREBEP, los funcionarios de carrera que obtengan destino en otra Administración Pública a través de los procedimientos de movilidad quedarán, respecto de su Administración de origen, en la situación administrativa de:",
+      "options": [
+        "Excedencia voluntaria por interés particular",
+        "Servicios especiales",
+        "Servicio en otras Administraciones Públicas"
+      ],
+      "correct": 2,
+      "exp": "El art. 84.3 establece que los funcionarios de carrera que obtengan destino en otra Administración Pública a través de procedimientos de movilidad quedarán, respecto de su Administración de origen, en la situación administrativa de servicio en otras Administraciones Públicas.",
+      "fuente": "Art. 84.3 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 84.3: 'quedarán respecto de su Administración de origen en la situación administrativa de servicio en otras Administraciones Públicas'."
+    },
+    {
+      "q": "Según el art. 84.3 TREBEP, si el funcionario cesado en un puesto obtenido por libre designación en la Administración de destino no solicita el reingreso al servicio activo en el plazo indicado, será declarado de oficio en situación de:",
+      "options": [
+        "Excedencia voluntaria por interés particular",
+        "Servicios especiales",
+        "Suspensión firme de funciones"
+      ],
+      "correct": 0,
+      "exp": "El art. 84.3 dispone que, de no solicitarse el reingreso al servicio activo en el plazo indicado, el funcionario será declarado de oficio en situación de excedencia voluntaria por interés particular, con efectos desde el día siguiente al cese en la Administración de destino.",
+      "fuente": "Art. 84.3 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 84.3: 'De no solicitarse el reingreso al servicio activo en el plazo indicado será declarado de oficio en situación de excedencia voluntaria por interés particular...'."
+    }
+  ]
+}

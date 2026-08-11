@@ -9499,3 +9499,2423 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 17 · lote 2026-08-10 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 17, [
+  {
+    "q": "Según el art. 8.2 del TREBEP, ¿qué letra corresponde al personal laboral dentro de la clasificación de los empleados públicos?",
+    "options": [
+      "Letra c)",
+      "Letra a)",
+      "Letra d)"
+    ],
+    "correct": 0,
+    "exp": "El art. 8.2 clasifica a los empleados públicos en a) funcionarios de carrera, b) funcionarios interinos, c) personal laboral y d) personal eventual.",
+    "fuente": "Art. 8.2.c) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 9.2 del TREBEP, el ejercicio de las funciones que impliquen participación directa o indirecta en el ejercicio de las potestades públicas corresponde:",
+    "options": [
+      "Indistintamente a funcionarios y personal laboral",
+      "Exclusivamente a los funcionarios públicos",
+      "Al personal directivo profesional"
+    ],
+    "correct": 1,
+    "exp": "El art. 9.2 dispone que el ejercicio de esas funciones corresponde exclusivamente a los funcionarios públicos, en los términos que establezca la ley de desarrollo de cada Administración.",
+    "fuente": "Art. 9.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 9.2 del TREBEP reserva en todo caso a los funcionarios públicos, además de las potestades públicas, la salvaguardia de:",
+    "options": [
+      "Los intereses particulares de los ciudadanos",
+      "Los intereses de las entidades colaboradoras",
+      "Los intereses generales del Estado y de las Administraciones Públicas"
+    ],
+    "correct": 2,
+    "exp": "El art. 9.2 se refiere a la participación en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales del Estado y de las Administraciones Públicas.",
+    "fuente": "Art. 9.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 9.2 del TREBEP, la concreción de las funciones reservadas a los funcionarios públicos se remite a:",
+    "options": [
+      "La ley de desarrollo de cada Administración Pública",
+      "Un reglamento estatal único",
+      "Los convenios colectivos aplicables"
+    ],
+    "correct": 0,
+    "exp": "El propio art. 9.2 remite la determinación de esas funciones a la ley de desarrollo de cada Administración Pública.",
+    "fuente": "Art. 9.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 10.1.b) del TREBEP, es causa de nombramiento de funcionario interino:",
+    "options": [
+      "La existencia de plazas vacantes sin cobertura posible",
+      "La sustitución transitoria de los titulares, durante el tiempo estrictamente necesario",
+      "El exceso o acumulación de tareas"
+    ],
+    "correct": 1,
+    "exp": "El art. 10.1.b) contempla la sustitución transitoria de los titulares, durante el tiempo estrictamente necesario, como causa de nombramiento de funcionario interino.",
+    "fuente": "Art. 10.1.b) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 10.1.c) del TREBEP, la ejecución de programas de carácter temporal como causa de nombramiento de interino tiene una duración máxima de:",
+    "options": [
+      "Nueve meses, ampliables a doce",
+      "Un año, sin posibilidad de ampliación",
+      "Tres años, ampliables hasta doce meses más por las leyes de Función Pública"
+    ],
+    "correct": 2,
+    "exp": "El art. 10.1.c) fija un máximo de tres años, ampliable hasta doce meses más por las leyes de Función Pública que se dicten en desarrollo del Estatuto.",
+    "fuente": "Art. 10.1.c) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 10.1.d) del TREBEP, el exceso o acumulación de tareas como causa de interinidad tiene un plazo máximo de nueve meses dentro de un periodo de:",
+    "options": [
+      "Dieciocho meses",
+      "Doce meses",
+      "Veinticuatro meses"
+    ],
+    "correct": 0,
+    "exp": "El art. 10.1.d) señala un plazo máximo de nueve meses dentro de un periodo de dieciocho meses.",
+    "fuente": "Art. 10.1.d) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 10.2 del TREBEP, los procedimientos de selección de personal funcionario interino se rigen, entre otros, por los principios de igualdad, mérito, capacidad, publicidad y:",
+    "options": [
+      "Confidencialidad",
+      "Celeridad",
+      "Antigüedad"
+    ],
+    "correct": 1,
+    "exp": "El art. 10.2 exige que los procedimientos se rijan por los principios de igualdad, mérito, capacidad, publicidad y celeridad.",
+    "fuente": "Art. 10.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el art. 10.2 del TREBEP, el nombramiento derivado de los procedimientos de selección de personal interino:",
+    "options": [
+      "Da lugar automáticamente a la condición de funcionario de carrera tras dos años",
+      "Da lugar a dicha condición si el interino supera una evaluación de desempeño",
+      "En ningún caso dará lugar al reconocimiento de la condición de funcionario de carrera"
+    ],
+    "correct": 2,
+    "exp": "El art. 10.2 establece expresamente que ese nombramiento en ningún caso dará lugar al reconocimiento de la condición de funcionario de carrera.",
+    "fuente": "Art. 10.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 10.3.a) del TREBEP, la Administración formalizará de oficio la finalización de la relación de interinidad, sin derecho a compensación alguna, por:",
+    "options": [
+      "La cobertura reglada del puesto por personal funcionario de carrera",
+      "La jubilación anticipada del interino",
+      "La solicitud voluntaria del propio interino"
+    ],
+    "correct": 0,
+    "exp": "El art. 10.3.a) prevé la finalización por la cobertura reglada del puesto por personal funcionario de carrera a través de los procedimientos legalmente establecidos.",
+    "fuente": "Art. 10.3.a) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 10.3.b) del TREBEP, es causa de finalización de oficio de la interinidad:",
+    "options": [
+      "El traslado voluntario a otra Administración",
+      "Las razones organizativas que den lugar a la supresión o amortización de los puestos asignados",
+      "La superación de un curso de formación"
+    ],
+    "correct": 1,
+    "exp": "El art. 10.3.b) recoge las razones organizativas que den lugar a la supresión o a la amortización de los puestos asignados.",
+    "fuente": "Art. 10.3.b) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 10.3.c) y d) del TREBEP, son también causas de finalización de la interinidad, respectivamente:",
+    "options": [
+      "La jubilación forzosa y la incapacidad permanente",
+      "El cambio de puesto de trabajo y la movilidad geográfica",
+      "La finalización del plazo autorizado en el nombramiento y la finalización de la causa que dio lugar al nombramiento"
+    ],
+    "correct": 2,
+    "exp": "El art. 10.3.c) y d) prevén la finalización del plazo autorizado expresamente en el nombramiento y la finalización de la causa que dio lugar al nombramiento.",
+    "fuente": "Art. 10.3.c) y d) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Además de las causas del art. 10.3, ¿a qué otro artículo del TREBEP remite este apartado como causa adicional de finalización de la interinidad?",
+    "options": [
+      "Al artículo 63",
+      "Al artículo 70",
+      "Al artículo 9.2"
+    ],
+    "correct": 0,
+    "exp": "El art. 10.3 dispone que la finalización de oficio opera por las causas que enumera, 'además de por las previstas en el artículo 63'.",
+    "fuente": "Art. 10.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 10.4 del TREBEP, transcurrido el plazo de tres años desde el nombramiento del interino por vacante, se produce el fin de la relación de interinidad y la vacante solo podrá ser ocupada por:",
+    "options": [
+      "Personal laboral fijo",
+      "Personal funcionario de carrera, salvo que el proceso selectivo quede desierto",
+      "Personal eventual con carácter transitorio"
+    ],
+    "correct": 1,
+    "exp": "El art. 10.4 establece que, transcurridos tres años, la vacante solo podrá ser ocupada por personal funcionario de carrera, salvo que el proceso selectivo correspondiente quede desierto, en cuyo caso cabe otro nombramiento de interino.",
+    "fuente": "Art. 10.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 10.4 del TREBEP, ¿qué mecanismos deben usarse para cubrir las plazas vacantes desempeñadas por funcionario interino del art. 10.1.a)?",
+    "options": [
+      "Únicamente el concurso de traslados",
+      "Exclusivamente la promoción interna",
+      "Cualquiera de los mecanismos de provisión o movilidad previstos en la normativa de cada Administración Pública"
+    ],
+    "correct": 2,
+    "exp": "El art. 10.4 exige que esas plazas sean objeto de cobertura mediante cualquiera de los mecanismos de provisión o movilidad previstos en la normativa de cada Administración Pública.",
+    "fuente": "Art. 10.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 10.4, párrafo tercero, del TREBEP, el funcionario interino que permanece excepcionalmente en la plaza tras publicarse la convocatoria dentro del plazo de tres años puede continuar hasta la resolución de la convocatoria, siendo su cese:",
+    "options": [
+      "Sin que dé lugar a compensación económica",
+      "Compensado económicamente en todo caso",
+      "Compensado solo si supera los cinco años de servicio"
+    ],
+    "correct": 0,
+    "exp": "El art. 10.4 señala que, en ese supuesto excepcional, el interino podrá permanecer hasta la resolución de la convocatoria, sin que su cese dé lugar a compensación económica.",
+    "fuente": "Art. 10.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 10.5 del TREBEP, al personal funcionario interino le será aplicable el régimen general del personal funcionario de carrera, salvo:",
+    "options": [
+      "Los derechos económicos básicos",
+      "Aquellos derechos inherentes a la condición de funcionario de carrera",
+      "El régimen disciplinario"
+    ],
+    "correct": 1,
+    "exp": "El art. 10.5 aplica al interino el régimen general del funcionario de carrera en cuanto sea adecuado a su condición temporal, salvo los derechos inherentes a la condición de funcionario de carrera.",
+    "fuente": "Art. 10.5 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 10.5 del TREBEP condiciona la aplicación del régimen general de carrera al personal interino a que sea adecuado a la naturaleza de su condición temporal y al carácter:",
+    "options": [
+      "Provisional y revisable de su plaza",
+      "Voluntario de su cese",
+      "Extraordinario y urgente de su nombramiento"
+    ],
+    "correct": 2,
+    "exp": "El art. 10.5 se refiere expresamente al carácter extraordinario y urgente del nombramiento del interino.",
+    "fuente": "Art. 10.5 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 11.1 del TREBEP, el contrato de trabajo del personal laboral debe formalizarse:",
+    "options": [
+      "Por escrito",
+      "Verbalmente ante testigos",
+      "Mediante acta administrativa"
+    ],
+    "correct": 0,
+    "exp": "El art. 11.1 exige que el contrato de trabajo del personal laboral se formalice por escrito.",
+    "fuente": "Art. 11.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 11.2 del TREBEP, ¿a qué leyes corresponde establecer los criterios para determinar qué puestos pueden ser desempeñados por personal laboral?",
+    "options": [
+      "A los convenios colectivos sectoriales",
+      "A las leyes de Función Pública que se dicten en desarrollo del Estatuto",
+      "A los estatutos de autonomía"
+    ],
+    "correct": 1,
+    "exp": "El art. 11.2 atribuye a las leyes de Función Pública que se dicten en desarrollo del Estatuto establecer esos criterios.",
+    "fuente": "Art. 11.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 11.2 del TREBEP exige que los criterios sobre puestos desempeñables por personal laboral respeten en todo caso lo establecido en:",
+    "options": [
+      "El artículo 10.1",
+      "El artículo 8.2",
+      "El artículo 9.2"
+    ],
+    "correct": 2,
+    "exp": "El art. 11.2 remite al respeto de lo establecido en el artículo 9.2, es decir, las funciones reservadas a funcionarios públicos.",
+    "fuente": "Art. 11.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 11.3 del TREBEP, los procedimientos de selección del personal laboral se rigen en todo caso por los principios de:",
+    "options": [
+      "Igualdad, mérito y capacidad",
+      "Antigüedad, jerarquía y eficacia",
+      "Confianza, idoneidad y discrecionalidad"
+    ],
+    "correct": 0,
+    "exp": "El art. 11.3 establece que los procedimientos de selección del personal laboral se rigen por los principios de igualdad, mérito y capacidad.",
+    "fuente": "Art. 11.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 11.3 del TREBEP, en el caso del personal laboral temporal, además de igualdad, mérito y capacidad, la selección se rige igualmente por el principio de:",
+    "options": [
+      "Movilidad",
+      "Celeridad",
+      "Rotación"
+    ],
+    "correct": 1,
+    "exp": "El art. 11.3 añade que la selección del personal laboral temporal se rige igualmente por el principio de celeridad, para atender razones justificadas de necesidad y urgencia.",
+    "fuente": "Art. 11.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 11.3 del TREBEP, la selección del personal laboral temporal, regida por el principio de celeridad, tiene por finalidad atender razones expresamente justificadas de:",
+    "options": [
+      "Eficiencia presupuestaria",
+      "Renovación generacional",
+      "Necesidad y urgencia"
+    ],
+    "correct": 2,
+    "exp": "El art. 11.3 indica que la finalidad es atender razones expresamente justificadas de necesidad y urgencia.",
+    "fuente": "Art. 11.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 12.1 del TREBEP, el personal eventual es retribuido con cargo a:",
+    "options": [
+      "Los créditos presupuestarios consignados para este fin",
+      "Un fondo específico de confianza política",
+      "Las tasas administrativas del organismo"
+    ],
+    "correct": 0,
+    "exp": "El art. 12.1 señala que el personal eventual es retribuido con cargo a los créditos presupuestarios consignados para este fin.",
+    "fuente": "Art. 12.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 12.2 del TREBEP, ¿quién determina el número máximo de personal eventual?",
+    "options": [
+      "El Ministerio de Hacienda en exclusiva",
+      "Los respectivos órganos de gobierno",
+      "El Congreso de los Diputados"
+    ],
+    "correct": 1,
+    "exp": "El art. 12.2 dispone que el número máximo se establecerá por los respectivos órganos de gobierno.",
+    "fuente": "Art. 12.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 12.2 del TREBEP, el número máximo de personal eventual y sus condiciones retributivas tendrán carácter:",
+    "options": [
+      "Reservadas",
+      "Confidenciales",
+      "Públicas"
+    ],
+    "correct": 2,
+    "exp": "El art. 12.2 establece que ese número y las condiciones retributivas serán públicas.",
+    "fuente": "Art. 12.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 12.2 del TREBEP, ¿a qué corresponde determinar qué órganos de gobierno de las Administraciones Públicas pueden disponer de personal eventual?",
+    "options": [
+      "A las leyes de Función Pública que se dicten en desarrollo del Estatuto",
+      "A los reglamentos internos de cada unidad",
+      "A la Ley de Presupuestos Generales del Estado exclusivamente"
+    ],
+    "correct": 0,
+    "exp": "El art. 12.2 remite a las leyes de Función Pública que se dicten en desarrollo del Estatuto la determinación de qué órganos de gobierno pueden disponer de este tipo de personal.",
+    "fuente": "Art. 12.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 12.3 del TREBEP, el nombramiento y cese del personal eventual serán:",
+    "options": [
+      "Reglados mediante concurso",
+      "Libres",
+      "Sujetos a informe previo del comité de empresa"
+    ],
+    "correct": 1,
+    "exp": "El art. 12.3 establece que tanto el nombramiento como el cese del personal eventual serán libres.",
+    "fuente": "Art. 12.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 12.3 del TREBEP, el cese del personal eventual tendrá lugar, en todo caso, cuando se produzca:",
+    "options": [
+      "El nombramiento de un nuevo secretario general",
+      "La aprobación de los presupuestos anuales",
+      "El de la autoridad a la que se preste la función de confianza o asesoramiento"
+    ],
+    "correct": 2,
+    "exp": "El art. 12.3 vincula el cese al de la autoridad a la que se preste la función de confianza o asesoramiento especial.",
+    "fuente": "Art. 12.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 12.5 del TREBEP, al personal eventual le será aplicable, en lo que sea adecuado a la naturaleza de su condición, el régimen general de:",
+    "options": [
+      "Los funcionarios de carrera",
+      "Los funcionarios interinos",
+      "El personal laboral fijo"
+    ],
+    "correct": 0,
+    "exp": "El art. 12.5 aplica al personal eventual, en lo adecuado a su condición, el régimen general de los funcionarios de carrera.",
+    "fuente": "Art. 12.5 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el encabezado del art. 13 del TREBEP, además del Gobierno, ¿quién puede establecer el régimen jurídico específico del personal directivo?",
+    "options": [
+      "Los ayuntamientos de gran población exclusivamente",
+      "Los órganos de gobierno de las comunidades autónomas",
+      "Las diputaciones provinciales"
+    ],
+    "correct": 1,
+    "exp": "El art. 13 atribuye esa facultad al Gobierno y a los órganos de gobierno de las comunidades autónomas.",
+    "fuente": "Art. 13 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13.1 del TREBEP, las funciones directivas profesionales del personal directivo se definen como tales en:",
+    "options": [
+      "El propio TREBEP de forma cerrada",
+      "Los estatutos de los sindicatos",
+      "Las normas específicas de cada Administración"
+    ],
+    "correct": 2,
+    "exp": "El art. 13.1 remite a las normas específicas de cada Administración la definición de las funciones directivas profesionales.",
+    "fuente": "Art. 13.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 13.2 del TREBEP, la designación del personal directivo atenderá a principios de mérito y capacidad y a criterios de idoneidad, llevándose a cabo mediante procedimientos que garanticen:",
+    "options": [
+      "La publicidad y concurrencia",
+      "La confidencialidad y celeridad",
+      "La antigüedad y jerarquía"
+    ],
+    "correct": 0,
+    "exp": "El art. 13.2 exige procedimientos que garanticen la publicidad y concurrencia en la designación del personal directivo.",
+    "fuente": "Art. 13.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13.3 del TREBEP, el personal directivo estará sujeto a evaluación con arreglo a los criterios de eficacia y eficiencia, responsabilidad por su gestión y:",
+    "options": [
+      "Antigüedad en el puesto directivo",
+      "Control de resultados en relación con los objetivos fijados",
+      "Valoración sindical periódica"
+    ],
+    "correct": 1,
+    "exp": "El art. 13.3 añade el control de resultados en relación con los objetivos que les hayan sido fijados como criterio de evaluación.",
+    "fuente": "Art. 13.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 13.4 del TREBEP, la determinación de las condiciones de empleo del personal directivo:",
+    "options": [
+      "Se negociará obligatoriamente con los sindicatos",
+      "Se fijará por convenio colectivo sectorial",
+      "No tendrá la consideración de materia objeto de negociación colectiva"
+    ],
+    "correct": 2,
+    "exp": "El art. 13.4 excluye expresamente esas condiciones de empleo de la negociación colectiva a los efectos de la ley.",
+    "fuente": "Art. 13.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13.4 del TREBEP, cuando el personal directivo reúna la condición de personal laboral, estará sometido a:",
+    "options": [
+      "La relación laboral de carácter especial de alta dirección",
+      "El régimen laboral común ordinario",
+      "El régimen estatutario de los funcionarios de carrera"
+    ],
+    "correct": 0,
+    "exp": "El art. 13.4 dispone que el personal directivo laboral se somete a la relación laboral de carácter especial de alta dirección.",
+    "fuente": "Art. 13.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Comparando los arts. 10.3 y 12.3 del TREBEP, ¿qué diferencia existe respecto a la formalización del cese?",
+    "options": [
+      "Ambos cesan siempre de forma libre y sin causa",
+      "El interino cesa por causas tasadas de oficio, mientras que el eventual cesa libremente",
+      "Ambos requieren resolución motivada con audiencia previa"
+    ],
+    "correct": 1,
+    "exp": "El art. 10.3 enumera causas tasadas para la finalización de oficio de la interinidad, mientras que el art. 12.3 declara libre el cese del personal eventual.",
+    "fuente": "Arts. 10.3 y 12.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Comparando los arts. 10.5 y 12.5 del TREBEP, ambos preceptos aplican de forma supletoria, en lo adecuado a la naturaleza de la condición respectiva, el régimen general de:",
+    "options": [
+      "El personal laboral fijo",
+      "El personal directivo profesional",
+      "Los funcionarios de carrera"
+    ],
+    "correct": 2,
+    "exp": "Tanto el art. 10.5 (interinos) como el art. 12.5 (eventuales) remiten, en lo adecuado, al régimen general del personal funcionario de carrera.",
+    "fuente": "Arts. 10.5 y 12.5 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Comparando el art. 10.2 y el art. 11.3 del TREBEP, ¿qué principio de selección es exigido para los interinos y también, de forma añadida, para el personal laboral temporal?",
+    "options": [
+      "El principio de celeridad",
+      "El principio de jerarquía",
+      "El principio de rotación"
+    ],
+    "correct": 0,
+    "exp": "El art. 10.2 incluye la celeridad entre los principios de selección de los interinos, y el art. 11.3 lo añade específicamente para el personal laboral temporal.",
+    "fuente": "Arts. 10.2 y 11.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  }
+]);
+
+/* tema 17 · lote 2026-08-11 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 17, [
+  {
+    "q": "Según el artículo 31.1 del TREBEP, el derecho a la negociación colectiva, representación y participación institucional que se reconoce a los empleados públicos tiene como finalidad:",
+    "options": [
+      "La determinación de sus condiciones de trabajo.",
+      "La fijación unilateral de la relación de puestos de trabajo de cada Administración.",
+      "La elección directa de los titulares de los órganos directivos de la Administración."
+    ],
+    "correct": 0,
+    "exp": "El art. 31.1 TREBEP reconoce a los empleados públicos el derecho a la negociación colectiva, representación y participación institucional para la determinación de sus condiciones de trabajo.",
+    "fuente": "Art. 31.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 31.2 TREBEP define la «negociación colectiva», a los efectos de esta ley, como:",
+    "options": [
+      "El derecho a suscribir convenios colectivos con eficacia general para todo el personal, funcionario y laboral, del conjunto de las Administraciones Públicas.",
+      "El derecho a negociar la determinación de condiciones de trabajo de los empleados de la Administración Pública.",
+      "La facultad de las organizaciones sindicales de vetar las decisiones de organización de cada Administración Pública."
+    ],
+    "correct": 1,
+    "exp": "El art. 31.2 TREBEP define la negociación colectiva, a los efectos de la ley, como el derecho a negociar la determinación de condiciones de trabajo de los empleados de la Administración Pública.",
+    "fuente": "Art. 31.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 31.3 TREBEP, por «representación», a los efectos de esta ley, se entiende:",
+    "options": [
+      "El derecho de cada empleado público a ser recibido individualmente por el titular del órgano de personal.",
+      "La facultad de las organizaciones sindicales de designar directamente a los Delegados de Personal sin proceso electoral.",
+      "La facultad de elegir representantes y constituir órganos unitarios a través de los cuales se instrumente la interlocución entre las Administraciones Públicas y sus empleados."
+    ],
+    "correct": 2,
+    "exp": "El art. 31.3 TREBEP define la representación como la facultad de elegir representantes y constituir órganos unitarios de interlocución entre las Administraciones Públicas y sus empleados.",
+    "fuente": "Art. 31.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 31.4 TREBEP, la «participación institucional» se entiende como el derecho a participar:",
+    "options": [
+      "A través de las organizaciones sindicales, en los órganos de control y seguimiento de las entidades u organismos que legalmente se determine.",
+      "A través de los partidos políticos, en la elaboración de los presupuestos de cada Administración Pública.",
+      "Directamente y a título individual, en los consejos de administración de las entidades públicas empresariales."
+    ],
+    "correct": 0,
+    "exp": "El art. 31.4 TREBEP define la participación institucional como el derecho a participar, a través de las organizaciones sindicales, en los órganos de control y seguimiento de las entidades u organismos que legalmente se determine.",
+    "fuente": "Art. 31.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 31.6 TREBEP legitima para la interposición de recursos en vía administrativa y jurisdiccional contra las resoluciones de los órganos de selección:",
+    "options": [
+      "A cualquier ciudadano que acredite interés legítimo en el proceso selectivo.",
+      "A las organizaciones sindicales más representativas en el ámbito de la Función Pública.",
+      "Exclusivamente al Ministerio Fiscal, a instancia de los aspirantes perjudicados."
+    ],
+    "correct": 1,
+    "exp": "El art. 31.6 TREBEP legitima a las organizaciones sindicales más representativas en el ámbito de la Función Pública para recurrir en vía administrativa y jurisdiccional las resoluciones de los órganos de selección.",
+    "fuente": "Art. 31.6 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 32.1 TREBEP, la negociación colectiva, representación y participación de los empleados públicos con contrato laboral se rige por:",
+    "options": [
+      "Exclusivamente por las normas de este capítulo, sin remisión alguna a la legislación laboral común.",
+      "Los convenios colectivos sectoriales estatales, con exclusión de cualquier norma estatutaria.",
+      "La legislación laboral, sin perjuicio de los preceptos del capítulo que expresamente les son de aplicación."
+    ],
+    "correct": 2,
+    "exp": "El art. 32.1 TREBEP somete la negociación, representación y participación del personal laboral a la legislación laboral, sin perjuicio de los preceptos del capítulo que expresamente le sean de aplicación.",
+    "fuente": "Art. 32.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el artículo 32.2 TREBEP, el cumplimiento de los convenios colectivos y acuerdos que afecten al personal laboral puede ser suspendido o modificado por los órganos de gobierno de las Administraciones Públicas:",
+    "options": [
+      "Excepcionalmente y por causa grave de interés público derivada de una alteración sustancial de las circunstancias económicas, en la medida estrictamente necesaria.",
+      "En cualquier momento y sin necesidad de motivación, mediante simple resolución del órgano de personal competente.",
+      "Únicamente cuando así lo solicite la mayoría de las organizaciones sindicales firmantes."
+    ],
+    "correct": 0,
+    "exp": "El art. 32.2 TREBEP permite la suspensión o modificación excepcional, por causa grave de interés público derivada de alteración sustancial de las circunstancias económicas, en la medida estrictamente necesaria para salvaguardar el interés público.",
+    "fuente": "Art. 32.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 33.1 TREBEP sujeta la negociación colectiva de condiciones de trabajo de los funcionarios públicos a los principios de:",
+    "options": [
+      "Legalidad, jerarquía normativa, eficacia, economía y celeridad.",
+      "Legalidad, cobertura presupuestaria, obligatoriedad, buena fe negocial, publicidad y transparencia.",
+      "Igualdad, mérito, capacidad, publicidad y transparencia."
+    ],
+    "correct": 1,
+    "exp": "El art. 33.1 TREBEP sujeta la negociación colectiva de los funcionarios a los principios de legalidad, cobertura presupuestaria, obligatoriedad, buena fe negocial, publicidad y transparencia.",
+    "fuente": "Art. 33.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 33.1 TREBEP, además de los representantes de la Administración, están legitimados para estar presentes en las Mesas de Negociación las organizaciones sindicales más representativas a nivel estatal y de comunidad autónoma, así como:",
+    "options": [
+      "Los sindicatos que cuenten con al menos cien afiliados en la unidad electoral correspondiente.",
+      "Cualquier sindicato legalmente constituido que lo solicite, con independencia de su resultado electoral.",
+      "Los sindicatos que hayan obtenido el 10 por 100 o más de los representantes en las elecciones para Delegados y Juntas de Personal en la unidad electoral correspondiente."
+    ],
+    "correct": 2,
+    "exp": "El art. 33.1 TREBEP añade a la legitimación de los sindicatos más representativos la de aquellos que hayan obtenido el 10 por 100 o más de los representantes en las elecciones a Delegados y Juntas de Personal en las unidades electorales de su ámbito.",
+    "fuente": "Art. 33.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 33.2 TREBEP, cuando las Administraciones Públicas encargan el desarrollo de la negociación colectiva a órganos técnicos creados por ellas, los acuerdos alcanzados por dichos órganos:",
+    "options": [
+      "Requieren la ratificación de los órganos de gobierno o administrativos con competencia para ello.",
+      "Son directamente aplicables sin necesidad de ratificación posterior.",
+      "Deben ser sometidos a referéndum entre el conjunto del personal afectado."
+    ],
+    "correct": 0,
+    "exp": "El art. 33.2 TREBEP exige la ratificación de los acuerdos alcanzados por los órganos técnicos de negociación por parte de los órganos de gobierno o administrativos con competencia para ello.",
+    "fuente": "Art. 33.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 34.1 TREBEP prevé la constitución de una Mesa General de Negociación, a los efectos de la negociación colectiva de los funcionarios públicos, en el ámbito de:",
+    "options": [
+      "La Administración General del Estado exclusivamente, con Mesas Sectoriales delegadas en el resto de Administraciones.",
+      "La Administración General del Estado, cada una de las Comunidades Autónomas, las ciudades de Ceuta y Melilla y las Entidades Locales.",
+      "Cada Ministerio y cada Consejería de las Comunidades Autónomas por separado."
+    ],
+    "correct": 1,
+    "exp": "El art. 34.1 TREBEP constituye una Mesa General de Negociación en la AGE, en cada Comunidad Autónoma, en las ciudades de Ceuta y Melilla y en las Entidades Locales.",
+    "fuente": "Art. 34.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 34.4 TREBEP, las Mesas Sectoriales:",
+    "options": [
+      "Se constituyen con carácter obligatorio en todo organismo con más de cien funcionarios, sin necesidad de acuerdo previo.",
+      "Sustituyen a la Mesa General de Negociación en la totalidad de las materias objeto de negociación.",
+      "Podrán constituirse dependiendo de las Mesas Generales de Negociación y por acuerdo de las mismas, en atención a las condiciones específicas de trabajo o a las peculiaridades de sectores concretos de funcionarios."
+    ],
+    "correct": 2,
+    "exp": "El art. 34.4 TREBEP permite constituir Mesas Sectoriales dependientes de las Mesas Generales, por acuerdo de éstas, en atención a las condiciones específicas de trabajo o a las peculiaridades de sectores concretos de funcionarios.",
+    "fuente": "Art. 34.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando no exista acuerdo sobre la fecha de apertura del proceso de negociación en una Mesa, el artículo 34.6 TREBEP dispone que dicho proceso se iniciará:",
+    "options": [
+      "En el plazo máximo de un mes desde que la mayoría de una de las partes legitimadas lo promueva, salvo causas legales o pactadas que lo impidan.",
+      "En el plazo máximo de quince días desde la constitución de la Mesa correspondiente.",
+      "Al inicio del ejercicio presupuestario siguiente a la petición formulada por cualquiera de las partes."
+    ],
+    "correct": 0,
+    "exp": "El art. 34.6 TREBEP fija el inicio del proceso negociador, a falta de acuerdo, en el plazo máximo de un mes desde que la mayoría de una de las partes legitimadas lo promueva.",
+    "fuente": "Art. 34.6 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 35.1 TREBEP, para que las Mesas de Negociación queden válidamente constituidas es necesario que las organizaciones sindicales legitimadas representen, como mínimo:",
+    "options": [
+      "Dos tercios de los miembros de los órganos unitarios de representación en el ámbito de que se trate.",
+      "La mayoría absoluta de los miembros de los órganos unitarios de representación en el ámbito de que se trate.",
+      "El 10 por 100 de los representantes elegidos en el conjunto de las Administraciones Públicas."
+    ],
+    "correct": 1,
+    "exp": "El art. 35.1 TREBEP exige, para la válida constitución de las Mesas, que las organizaciones sindicales legitimadas representen como mínimo la mayoría absoluta de los miembros de los órganos unitarios de representación del ámbito correspondiente.",
+    "fuente": "Art. 35.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el artículo 35.4 TREBEP, en las normas de desarrollo del Estatuto se establecerá la composición numérica de las Mesas correspondientes, sin que ninguna de las partes pueda superar:",
+    "options": [
+      "El número de veintiún miembros.",
+      "El número de nueve miembros.",
+      "El número de quince miembros."
+    ],
+    "correct": 2,
+    "exp": "El art. 35.4 TREBEP fija en quince el número máximo de miembros que puede tener cada una de las partes en las Mesas de Negociación.",
+    "fuente": "Art. 35.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 36.1 TREBEP dispone que la Mesa General de Negociación de las Administraciones Públicas estará presidida por:",
+    "options": [
+      "La Administración General del Estado.",
+      "La Comunidad Autónoma de mayor población.",
+      "La Federación Española de Municipios y Provincias."
+    ],
+    "correct": 0,
+    "exp": "El art. 36.1 TREBEP atribuye la presidencia de la Mesa General de Negociación de las Administraciones Públicas a la Administración General del Estado, contando además con representantes de las Comunidades Autónomas, Ceuta y Melilla y la FEMP.",
+    "fuente": "Art. 36.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 36.2 TREBEP, será específicamente objeto de negociación en el ámbito de la Mesa General de Negociación de las Administraciones Públicas:",
+    "options": [
+      "La aprobación definitiva de las relaciones de puestos de trabajo de cada Comunidad Autónoma.",
+      "El incremento global de las retribuciones del personal al servicio de las Administraciones Públicas que corresponda incluir en el Proyecto de Ley de Presupuestos Generales del Estado de cada año.",
+      "El régimen disciplinario aplicable al personal funcionario de cada Entidad Local."
+    ],
+    "correct": 1,
+    "exp": "El art. 36.2 TREBEP reserva específicamente a esta Mesa el incremento global de las retribuciones que corresponda incluir en el Proyecto de Ley de Presupuestos Generales del Estado de cada año.",
+    "fuente": "Art. 36.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 36.3 TREBEP prevé la constitución de una Mesa General de Negociación en cada Administración Pública para negociar:",
+    "options": [
+      "Exclusivamente las materias que afecten al personal laboral, quedando el personal funcionario excluido de esta Mesa.",
+      "Únicamente las materias retributivas del personal directivo de esa Administración.",
+      "Todas aquellas materias y condiciones de trabajo comunes al personal funcionario, estatutario y laboral de esa Administración."
+    ],
+    "correct": 2,
+    "exp": "El art. 36.3 TREBEP constituye en cada Administración una Mesa General de Negociación para las materias y condiciones de trabajo comunes al personal funcionario, estatutario y laboral.",
+    "fuente": "Art. 36.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Entre las materias objeto de negociación que enumera el artículo 37.1 TREBEP figura:",
+    "options": [
+      "Las que afecten a las condiciones de trabajo y a las retribuciones de los funcionarios, cuya regulación exija norma con rango de ley.",
+      "La regulación y determinación concreta de los sistemas y procedimientos de acceso al empleo público.",
+      "Los poderes de dirección y control propios de la relación jerárquica."
+    ],
+    "correct": 0,
+    "exp": "El art. 37.1.k) TREBEP incluye entre las materias negociables las que afecten a las condiciones de trabajo y a las retribuciones de los funcionarios cuando su regulación exija norma con rango de ley; las otras dos opciones son materias excluidas por el art. 37.2.",
+    "fuente": "Art. 37.1.k) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 37.1.m) TREBEP, será objeto de negociación lo referido a:",
+    "options": [
+      "La estructura orgánica de las unidades administrativas y su denominación.",
+      "Calendario laboral, horarios, jornadas, vacaciones, permisos, movilidad funcional y geográfica, en aquellos aspectos que afecten a condiciones de trabajo de los empleados públicos.",
+      "El procedimiento de formación de los actos y disposiciones administrativas."
+    ],
+    "correct": 1,
+    "exp": "El art. 37.1.m) TREBEP incluye entre las materias negociables el calendario laboral, horarios, jornadas, vacaciones, permisos y movilidad funcional y geográfica, en lo que afecte a condiciones de trabajo.",
+    "fuente": "Art. 37.1.m) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 37.2.a) TREBEP excluye de la obligatoriedad de la negociación:",
+    "options": [
+      "Los criterios generales sobre ofertas de empleo público.",
+      "Las propuestas sobre derechos sindicales y de participación.",
+      "Las decisiones de las Administraciones Públicas que afecten a sus potestades de organización."
+    ],
+    "correct": 2,
+    "exp": "El art. 37.2.a) TREBEP excluye de la negociación obligatoria las decisiones que afecten a las potestades de organización, sin perjuicio de negociar sus repercusiones sobre condiciones de trabajo.",
+    "fuente": "Art. 37.2.a) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 38.3 TREBEP, para su validez y eficacia, los Acuerdos que versen sobre materias competencia de los órganos de gobierno de las Administraciones Públicas requieren:",
+    "options": [
+      "Su aprobación expresa y formal por dichos órganos.",
+      "Su publicación en el Boletín Oficial correspondiente, sin necesidad de aprobación adicional.",
+      "El voto favorable de dos tercios de los miembros de la Mesa de Negociación que los suscribió."
+    ],
+    "correct": 0,
+    "exp": "El art. 38.3 TREBEP exige, para la validez y eficacia de los Acuerdos sobre materias competencia de los órganos de gobierno, su aprobación expresa y formal por dichos órganos.",
+    "fuente": "Art. 38.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Si los Acuerdos ratificados tratan sobre materias sometidas a reserva de ley, el artículo 38.3 TREBEP establece que su contenido:",
+    "options": [
+      "Será directamente aplicable al personal incluido en su ámbito desde el momento de su ratificación.",
+      "Carecerá de eficacia directa, si bien el órgano de gobierno con iniciativa legislativa deberá elaborar, aprobar y remitir a las Cortes o asambleas legislativas el correspondiente proyecto de ley.",
+      "Quedará automáticamente incorporado a la siguiente Ley de Presupuestos, sin tramitación legislativa específica."
+    ],
+    "correct": 1,
+    "exp": "El art. 38.3 TREBEP priva de eficacia directa a los Acuerdos sobre materias de reserva de ley, si bien obliga al órgano de gobierno con iniciativa legislativa a tramitar el proyecto de ley conforme al contenido acordado.",
+    "fuente": "Art. 38.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 38.4 TREBEP exige que los Pactos y Acuerdos determinen, entre otros extremos:",
+    "options": [
+      "La composición numérica exacta de la Comisión Paritaria de seguimiento, con indicación de sus suplentes.",
+      "El régimen sancionador aplicable en caso de incumplimiento por cualquiera de las partes.",
+      "Las partes que los conciertan, el ámbito personal, funcional, territorial y temporal, y la forma, plazo de preaviso y condiciones de denuncia."
+    ],
+    "correct": 2,
+    "exp": "El art. 38.4 TREBEP obliga a que los Pactos y Acuerdos determinen las partes que los conciertan, su ámbito personal, funcional, territorial y temporal, así como forma, plazo de preaviso y condiciones de denuncia.",
+    "fuente": "Art. 38.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 38.5 TREBEP, para el seguimiento de los Pactos y Acuerdos se establecerán:",
+    "options": [
+      "Comisiones Paritarias, con la composición y funciones que las partes determinen.",
+      "Juntas Arbitrales, integradas exclusivamente por personal funcionario de carrera.",
+      "Inspecciones de Servicios, dependientes del órgano de gobierno respectivo."
+    ],
+    "correct": 0,
+    "exp": "El art. 38.5 TREBEP prevé el establecimiento de Comisiones Paritarias de seguimiento de los Pactos y Acuerdos, con la composición y funciones que las partes determinen.",
+    "fuente": "Art. 38.5 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 38.11 TREBEP, salvo acuerdo en contrario, los Pactos y Acuerdos:",
+    "options": [
+      "Se extinguirán automáticamente al concluir su vigencia inicial, sin posibilidad de prórroga.",
+      "Se prorrogarán de año en año si no mediara denuncia expresa de una de las partes.",
+      "Quedarán en suspenso hasta que se apruebe un nuevo Pacto o Acuerdo que los sustituya."
+    ],
+    "correct": 1,
+    "exp": "El art. 38.11 TREBEP establece la prórroga anual de los Pactos y Acuerdos, salvo acuerdo en contrario, en tanto no medie denuncia expresa de una de las partes.",
+    "fuente": "Art. 38.11 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 39.1 TREBEP identifica como órganos específicos de representación de los funcionarios:",
+    "options": [
+      "Los Comités de Empresa y los Delegados Sindicales.",
+      "Las Mesas Sectoriales y las Comisiones Paritarias.",
+      "Los Delegados de Personal y las Juntas de Personal."
+    ],
+    "correct": 2,
+    "exp": "El art. 39.1 TREBEP señala como órganos específicos de representación de los funcionarios a los Delegados de Personal y a las Juntas de Personal.",
+    "fuente": "Art. 39.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 39.2 TREBEP, en las unidades electorales donde el número de funcionarios sea igual o superior a 6 e inferior a 50, la representación corresponderá a los Delegados de Personal, eligiéndose:",
+    "options": [
+      "Un Delegado hasta 30 funcionarios y tres Delegados de 31 a 49 funcionarios, que actúan conjunta y mancomunadamente.",
+      "Un Delegado hasta 25 funcionarios y cinco Delegados de 26 a 49 funcionarios.",
+      "Tres Delegados en todo caso, con independencia del número exacto de funcionarios de la unidad."
+    ],
+    "correct": 0,
+    "exp": "El art. 39.2 TREBEP fija en un Delegado la representación hasta 30 funcionarios y en tres Delegados, con actuación conjunta y mancomunada, la de 31 a 49 funcionarios.",
+    "fuente": "Art. 39.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 39.3 TREBEP dispone que las Juntas de Personal se constituirán en las unidades electorales que cuenten con un censo mínimo de:",
+    "options": [
+      "25 funcionarios.",
+      "50 funcionarios.",
+      "100 funcionarios."
+    ],
+    "correct": 1,
+    "exp": "El art. 39.3 TREBEP exige un censo mínimo de 50 funcionarios en la unidad electoral para que se constituya una Junta de Personal.",
+    "fuente": "Art. 39.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la escala del artículo 39.5 TREBEP, una unidad electoral con censo de entre 101 y 250 funcionarios elegirá una Junta de Personal compuesta por:",
+    "options": [
+      "13 miembros.",
+      "5 miembros.",
+      "9 miembros."
+    ],
+    "correct": 2,
+    "exp": "El art. 39.5 TREBEP asigna 9 miembros a la Junta de Personal en unidades electorales de entre 101 y 250 funcionarios; 13 corresponde al tramo de 251 a 500 y 5 al de 50 a 100.",
+    "fuente": "Art. 39.5 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Entre las funciones que el artículo 40.1 TREBEP atribuye a las Juntas y Delegados de Personal figura la de:",
+    "options": [
+      "Ser informados de todas las sanciones impuestas por faltas muy graves.",
+      "Autorizar previamente el traslado de instalaciones o la revisión de los sistemas de organización.",
+      "Imponer directamente las sanciones derivadas de faltas muy graves cometidas por el personal."
+    ],
+    "correct": 0,
+    "exp": "El art. 40.1.c) TREBEP atribuye a los órganos de representación la función de ser informados de todas las sanciones impuestas por faltas muy graves, no la de autorizarlas ni imponerlas.",
+    "fuente": "Art. 40.1.c) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 40.2 TREBEP, para iniciar procedimientos administrativos y ejercitar acciones en vía administrativa o judicial en el ámbito de sus funciones, están legitimados:",
+    "options": [
+      "Únicamente el Presidente de la Junta de Personal, a título individual.",
+      "Las Juntas de Personal, colegiadamente por decisión mayoritaria de sus miembros, y los Delegados de Personal, mancomunadamente.",
+      "Cualquier empleado público afectado, sin necesidad de intervención de los órganos de representación."
+    ],
+    "correct": 1,
+    "exp": "El art. 40.2 TREBEP legitima a las Juntas de Personal, colegiadamente por decisión mayoritaria, y a los Delegados de Personal, mancomunadamente, para iniciar procedimientos y ejercitar acciones en el ámbito de sus funciones.",
+    "fuente": "Art. 40.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Entre las garantías reconocidas a los miembros de las Juntas de Personal y a los Delegados de Personal, el artículo 41.1.c) TREBEP incluye:",
+    "options": [
+      "La inmunidad frente a cualquier expediente disciplinario mientras dure su mandato representativo.",
+      "El derecho a ser defendidos por letrado designado por la propia Administración en cualquier procedimiento.",
+      "La audiencia en los expedientes disciplinarios a que pudieran ser sometidos sus miembros durante el tiempo de su mandato y durante el año inmediatamente posterior."
+    ],
+    "correct": 2,
+    "exp": "El art. 41.1.c) TREBEP garantiza la audiencia en los expedientes disciplinarios durante el mandato y el año inmediatamente posterior, sin perjuicio de la audiencia al interesado del procedimiento sancionador; no reconoce inmunidad disciplinaria.",
+    "fuente": "Art. 41.1.c) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la escala del artículo 41.1.d) TREBEP, el crédito de horas mensuales retribuidas para una unidad electoral de hasta 100 funcionarios es de:",
+    "options": [
+      "15 horas.",
+      "20 horas.",
+      "35 horas."
+    ],
+    "correct": 0,
+    "exp": "El art. 41.1.d) TREBEP fija en 15 horas mensuales el crédito para unidades electorales de hasta 100 funcionarios; 20 corresponde al tramo de 101 a 250 y 35 al de 501 a 750.",
+    "fuente": "Art. 41.1.d) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 41.1.e) TREBEP garantiza a los representantes del personal no ser trasladados ni sancionados por causas relacionadas con el ejercicio de su mandato representativo:",
+    "options": [
+      "Durante toda su vida profesional, con independencia de la fecha de extinción del mandato.",
+      "Ni durante la vigencia del mandato ni durante el año siguiente a su extinción, salvo que ésta se produzca por revocación o dimisión.",
+      "Únicamente durante los seis primeros meses de ejercicio del mandato representativo."
+    ],
+    "correct": 1,
+    "exp": "El art. 41.1.e) TREBEP extiende esta garantía a todo el mandato y al año siguiente a su extinción, exceptuando la extinción por revocación o dimisión.",
+    "fuente": "Art. 41.1.e) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 42 TREBEP, el mandato de los miembros de las Juntas de Personal y de los Delegados de Personal tendrá una duración de:",
+    "options": [
+      "Dos años, sin posibilidad de reelección inmediata.",
+      "Cinco años, coincidiendo con la legislatura municipal.",
+      "Cuatro años, pudiendo ser reelegidos."
+    ],
+    "correct": 2,
+    "exp": "El art. 42 TREBEP fija en cuatro años la duración del mandato, con posibilidad de reelección, y su prórroga si a su término no se han promovido nuevas elecciones.",
+    "fuente": "Art. 42 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Entre los legitimados para promover la celebración de elecciones a Delegados y Juntas de Personal, el artículo 43.1 TREBEP incluye a:",
+    "options": [
+      "Los sindicatos que, sin ser más representativos, hayan conseguido al menos el 10 por 100 de los representantes en el conjunto de las Administraciones Públicas.",
+      "Cualquier partido político con representación parlamentaria en las Cortes Generales.",
+      "El órgano de gobierno de la Administración Pública correspondiente, de oficio."
+    ],
+    "correct": 0,
+    "exp": "El art. 43.1.c) TREBEP legitima para promover elecciones a los sindicatos que, sin ser más representativos, hayan obtenido al menos el 10 por 100 de los representantes en el conjunto de las Administraciones Públicas.",
+    "fuente": "Art. 43.1.c) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 44.d) TREBEP, en el procedimiento electoral para la elección de los órganos de representación del personal funcionario:",
+    "options": [
+      "Tanto las Juntas de Personal como los Delegados de Personal se elegirán mediante listas cerradas y sistema proporcional puro.",
+      "Las Juntas de Personal se elegirán mediante listas cerradas a través de un sistema proporcional corregido, y los Delegados de Personal mediante listas abiertas y sistema mayoritario.",
+      "Las Juntas de Personal se elegirán por sistema mayoritario y los Delegados de Personal por sistema proporcional corregido."
+    ],
+    "correct": 1,
+    "exp": "El art. 44.d) TREBEP distingue el sistema electoral: listas cerradas y sistema proporcional corregido para las Juntas de Personal, y listas abiertas y sistema mayoritario para los Delegados de Personal.",
+    "fuente": "Art. 44.d) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Sobre los sistemas de solución extrajudicial de conflictos colectivos, el artículo 45.3 TREBEP dispone que la mediación:",
+    "options": [
+      "Solo podrá iniciarse por acuerdo previo y expreso de ambas partes, sin que ninguna pueda imponerla unilateralmente.",
+      "Vincula obligatoriamente a las partes desde el momento en que el mediador emite su propuesta de solución.",
+      "Será obligatoria cuando lo solicite una de las partes, aunque las propuestas de solución del mediador podrán ser libremente aceptadas o rechazadas."
+    ],
+    "correct": 2,
+    "exp": "El art. 45.3 TREBEP hace obligatoria la mediación cuando la solicite una de las partes, si bien las propuestas del mediador pueden ser libremente aceptadas o rechazadas por las partes.",
+    "fuente": "Art. 45.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 46.1.d) TREBEP, además de las organizaciones sindicales y los órganos de representación del personal, están legitimados para convocar una reunión:",
+    "options": [
+      "Los empleados públicos de las Administraciones respectivas en número no inferior al 40 por 100 del colectivo convocado.",
+      "Los empleados públicos en número no inferior al 25 por 100 del colectivo convocado.",
+      "Cualquier grupo de al menos diez empleados públicos, con independencia del tamaño del colectivo convocado."
+    ],
+    "correct": 0,
+    "exp": "El art. 46.1.d) TREBEP legitima para convocar una reunión a los empleados públicos de las Administraciones respectivas en número no inferior al 40 por 100 del colectivo convocado.",
+    "fuente": "Art. 46.1.d) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  }
+]);
+
+/* tema 17 · lote 2026-08-11 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 17, [
+  {
+    "q": "Según el art. 52 TREBEP, ¿con qué deben desempeñar los empleados públicos las tareas que tengan asignadas?",
+    "options": [
+      "Con diligencia",
+      "Con premura",
+      "Con discrecionalidad"
+    ],
+    "correct": 0,
+    "exp": "El art. 52 dice literalmente que los empleados públicos 'deberán desempeñar con diligencia las tareas que tengan asignadas'.",
+    "fuente": "Art. 52 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 52 TREBEP señala que los empleados públicos deben velar por los intereses generales con sujeción y observancia de...",
+    "options": [
+      "los Estatutos de la función pública y sus reglamentos",
+      "la Constitución y el resto del ordenamiento jurídico",
+      "el Código de Conducta y las normas internas de cada Administración"
+    ],
+    "correct": 1,
+    "exp": "El precepto exige velar por los intereses generales 'con sujeción y observancia de la Constitución y del resto del ordenamiento jurídico'.",
+    "fuente": "Art. 52 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 52 TREBEP, el Código de Conducta de los empleados públicos está configurado por...",
+    "options": [
+      "los principios constitucionales de mérito y capacidad",
+      "las normas deontológicas de cada cuerpo funcionarial",
+      "los principios éticos y de conducta regulados en los artículos siguientes"
+    ],
+    "correct": 2,
+    "exp": "El art. 52 indica que los principios enumerados 'inspiran el Código de Conducta de los empleados públicos configurado por los principios éticos y de conducta regulados en los artículos siguientes' (arts. 53 y 54).",
+    "fuente": "Art. 52 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 52 TREBEP, ¿qué informarán los principios y reglas establecidos en este capítulo?",
+    "options": [
+      "la interpretación y aplicación del régimen disciplinario de los empleados públicos",
+      "la clasificación de los puestos de trabajo",
+      "el procedimiento de provisión de vacantes"
+    ],
+    "correct": 0,
+    "exp": "El art. 52 concluye: 'Los principios y reglas establecidos en este capítulo informarán la interpretación y aplicación del régimen disciplinario de los empleados públicos'.",
+    "fuente": "Art. 52 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de los siguientes términos aparece expresamente en la enumeración de principios del art. 52 TREBEP?",
+    "options": [
+      "Eficiencia",
+      "Accesibilidad",
+      "Lealtad"
+    ],
+    "correct": 1,
+    "exp": "El art. 52 enumera, entre otros, 'accesibilidad'. 'Eficiencia' aparece en el art. 53.8 (junto con eficacia y economía) y 'lealtad' en el art. 53.3, pero ninguno de los dos figura en la lista del art. 52.",
+    "fuente": "Art. 52 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de los siguientes principios figura en la enumeración del art. 52 TREBEP?",
+    "options": [
+      "Lealtad",
+      "Buena fe",
+      "Confidencialidad"
+    ],
+    "correct": 2,
+    "exp": "'Confidencialidad' está en la lista de principios del art. 52. 'Lealtad' y 'buena fe' son principios recogidos en el art. 53.3, no en el art. 52.",
+    "fuente": "Art. 52 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 53.1 TREBEP (principios éticos), los empleados públicos respetarán...",
+    "options": [
+      "la Constitución y el resto de normas que integran el ordenamiento jurídico",
+      "los reglamentos internos de cada Administración y sus códigos deontológicos",
+      "las instrucciones de sus superiores jerárquicos en todo caso"
+    ],
+    "correct": 0,
+    "exp": "El art. 53.1 establece que 'los empleados públicos respetarán la Constitución y el resto de normas que integran el ordenamiento jurídico'.",
+    "fuente": "Art. 53.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 53.2 TREBEP establece que la actuación de los empleados públicos perseguirá...",
+    "options": [
+      "la eficiencia presupuestaria de su unidad administrativa",
+      "la satisfacción de los intereses generales de los ciudadanos",
+      "el cumplimiento estricto de los objetivos de su superior jerárquico"
+    ],
+    "correct": 1,
+    "exp": "El art. 53.2 dice que 'su actuación perseguirá la satisfacción de los intereses generales de los ciudadanos'.",
+    "fuente": "Art. 53.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 53.2 TREBEP, la actuación de los empleados públicos se fundamentará en consideraciones objetivas orientadas hacia...",
+    "options": [
+      "la lealtad institucional y la jerarquía administrativa",
+      "la eficacia y la economía procedimental",
+      "la imparcialidad y el interés común"
+    ],
+    "correct": 2,
+    "exp": "El art. 53.2 señala que la actuación 'se fundamentará en consideraciones objetivas orientadas hacia la imparcialidad y el interés común'.",
+    "fuente": "Art. 53.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 53.3 TREBEP dispone que los empleados públicos ajustarán su actuación a los principios de...",
+    "options": [
+      "lealtad y buena fe",
+      "austeridad y eficacia",
+      "objetividad y neutralidad"
+    ],
+    "correct": 0,
+    "exp": "El art. 53.3 establece que 'ajustarán su actuación a los principios de lealtad y buena fe' con la Administración, superiores, compañeros, subordinados y ciudadanos.",
+    "fuente": "Art. 53.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 53.4 TREBEP, la conducta de los empleados públicos se basará en el respeto de...",
+    "options": [
+      "los principios de jerarquía y coordinación administrativa",
+      "los derechos fundamentales y libertades públicas",
+      "los criterios de mérito y capacidad en el acceso al empleo"
+    ],
+    "correct": 1,
+    "exp": "El art. 53.4 dice que 'su conducta se basará en el respeto de los derechos fundamentales y libertades públicas', evitando toda discriminación.",
+    "fuente": "Art. 53.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 53.4 TREBEP exige evitar toda actuación que pueda producir discriminación por razón de, entre otras causas,...",
+    "options": [
+      "la antigüedad en el puesto de trabajo",
+      "el nivel de complemento específico percibido",
+      "la orientación e identidad sexual"
+    ],
+    "correct": 2,
+    "exp": "El art. 53.4 enumera entre las causas de discriminación a evitar 'la orientación e identidad sexual', junto con nacimiento, origen racial o étnico, género, sexo, religión, discapacidad, edad, etc.",
+    "fuente": "Art. 53.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 53.5 TREBEP, los empleados públicos se abstendrán en aquellos asuntos en los que tengan...",
+    "options": [
+      "un interés personal",
+      "una relación de coordinación funcional",
+      "una discrepancia técnica con el informe preceptivo"
+    ],
+    "correct": 0,
+    "exp": "El art. 53.5 dice que 'se abstendrán en aquellos asuntos en los que tengan un interés personal, así como de toda actividad privada o interés que pueda suponer un riesgo de plantear conflictos de intereses con su puesto público'.",
+    "fuente": "Art. 53.5 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 53.6 TREBEP prohíbe a los empleados públicos contraer obligaciones económicas o intervenir en operaciones financieras cuando...",
+    "options": [
+      "el importe supere el salario mínimo interprofesional",
+      "pueda suponer un conflicto de intereses con las obligaciones de su puesto público",
+      "no exista autorización previa del órgano de personal"
+    ],
+    "correct": 1,
+    "exp": "El art. 53.6 establece que no contraerán obligaciones económicas ni intervendrán en operaciones financieras, patrimoniales o negocios jurídicos 'cuando pueda suponer un conflicto de intereses con las obligaciones de su puesto público'.",
+    "fuente": "Art. 53.6 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 53.7 TREBEP, los empleados públicos no aceptarán...",
+    "options": [
+      "instrucciones de órganos de inspección distintos al propio",
+      "encargos de tareas que excedan su puesto de trabajo",
+      "ningún trato de favor o situación que implique privilegio o ventaja injustificada"
+    ],
+    "correct": 2,
+    "exp": "El art. 53.7 dice que 'no aceptarán ningún trato de favor o situación que implique privilegio o ventaja injustificada, por parte de personas físicas o entidades privadas'.",
+    "fuente": "Art. 53.7 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 53.8 TREBEP establece que los empleados públicos actuarán de acuerdo con los principios de...",
+    "options": [
+      "eficacia, economía y eficiencia",
+      "austeridad, transparencia y ejemplaridad",
+      "objetividad, integridad y neutralidad"
+    ],
+    "correct": 0,
+    "exp": "El art. 53.8 dice que 'actuarán de acuerdo con los principios de eficacia, economía y eficiencia'.",
+    "fuente": "Art. 53.8 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 53.8 TREBEP, además de aplicar los principios de eficacia, economía y eficiencia, los empleados públicos vigilarán...",
+    "options": [
+      "la correcta aplicación del régimen disciplinario",
+      "la consecución del interés general y el cumplimiento de los objetivos de la organización",
+      "el respeto a la igualdad entre mujeres y hombres"
+    ],
+    "correct": 1,
+    "exp": "El art. 53.8 añade que 'vigilarán la consecución del interés general y el cumplimiento de los objetivos de la organización'.",
+    "fuente": "Art. 53.8 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 53.9 TREBEP prohíbe influir en la agilización o resolución de un trámite o procedimiento administrativo...",
+    "options": [
+      "sin autorización del secretario general",
+      "sin informe jurídico previo",
+      "sin justa causa"
+    ],
+    "correct": 2,
+    "exp": "El art. 53.9 dice que 'no influirán en la agilización o resolución de trámite o procedimiento administrativo sin justa causa'.",
+    "fuente": "Art. 53.9 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 53.10 TREBEP, los empleados públicos cumplirán con diligencia las tareas que les correspondan y, en su caso,...",
+    "options": [
+      "resolverán dentro de plazo los procedimientos o expedientes de su competencia",
+      "elevarán consulta preceptiva a la Abogacía del Estado",
+      "delegarán su resolución en el superior jerárquico"
+    ],
+    "correct": 0,
+    "exp": "El art. 53.10 dice que cumplirán con diligencia las tareas y, en su caso, 'resolverán dentro de plazo los procedimientos o expedientes de su competencia'.",
+    "fuente": "Art. 53.10 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 53.11 TREBEP señala que los empleados públicos ejercerán sus atribuciones según el principio de...",
+    "options": [
+      "jerarquía normativa",
+      "dedicación al servicio público",
+      "descentralización funcional"
+    ],
+    "correct": 1,
+    "exp": "El art. 53.11 dice que 'ejercerán sus atribuciones según el principio de dedicación al servicio público'.",
+    "fuente": "Art. 53.11 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 53.11 TREBEP, el principio de dedicación al servicio público implica abstenerse de conductas contrarias al mismo y de cualesquiera otras que comprometan...",
+    "options": [
+      "la austeridad en el gasto público",
+      "la transparencia en la contratación pública",
+      "la neutralidad en el ejercicio de los servicios públicos"
+    ],
+    "correct": 2,
+    "exp": "El art. 53.11 concreta que deben abstenerse 'no solo de conductas contrarias al mismo, sino también de cualesquiera otras que comprometan la neutralidad en el ejercicio de los servicios públicos'.",
+    "fuente": "Art. 53.11 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 53.12 TREBEP obliga a los empleados públicos a guardar secreto de...",
+    "options": [
+      "las materias clasificadas u otras cuya difusión esté prohibida legalmente",
+      "las instrucciones verbales de sus superiores jerárquicos",
+      "los expedientes disciplinarios ya archivados"
+    ],
+    "correct": 0,
+    "exp": "El art. 53.12 dice que 'guardarán secreto de las materias clasificadas u otras cuya difusión esté prohibida legalmente'.",
+    "fuente": "Art. 53.12 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 53.12 TREBEP, los empleados públicos no podrán hacer uso de la información obtenida por razón de su cargo para...",
+    "options": [
+      "elaborar informes técnicos internos",
+      "beneficio propio o de terceros, o en perjuicio del interés público",
+      "justificar la interposición de recursos administrativos"
+    ],
+    "correct": 1,
+    "exp": "El art. 53.12 concluye que no podrán 'hacer uso de la información obtenida para beneficio propio o de terceros, o en perjuicio del interés público'.",
+    "fuente": "Art. 53.12 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cómo se titula el art. 53 del TREBEP?",
+    "options": [
+      "Principios de conducta",
+      "Código deontológico",
+      "Principios éticos"
+    ],
+    "correct": 2,
+    "exp": "El art. 53 se titula 'Principios éticos', frente al art. 54, titulado 'Principios de conducta'.",
+    "fuente": "Art. 53 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 54.1 TREBEP (principios de conducta), los empleados públicos tratarán con atención y respeto a...",
+    "options": [
+      "los ciudadanos, sus superiores y los restantes empleados públicos",
+      "los ciudadanos y las autoridades judiciales exclusivamente",
+      "sus superiores jerárquicos y los órganos de control interno"
+    ],
+    "correct": 0,
+    "exp": "El art. 54.1 dice que 'tratarán con atención y respeto a los ciudadanos, a sus superiores y a los restantes empleados públicos'.",
+    "fuente": "Art. 54.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 54.2 TREBEP establece que el desempeño de las tareas del puesto de trabajo se realizará de forma diligente...",
+    "options": [
+      "con subordinación a los objetivos anuales del departamento",
+      "cumpliendo la jornada y el horario establecidos",
+      "conforme a las instrucciones específicas de cada usuario"
+    ],
+    "correct": 1,
+    "exp": "El art. 54.2 dice que el desempeño 'se realizará de forma diligente y cumpliendo la jornada y el horario establecidos'.",
+    "fuente": "Art. 54.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 54.3 TREBEP, los empleados públicos obedecerán las instrucciones y órdenes profesionales de sus superiores, salvo que...",
+    "options": [
+      "no estén motivadas por escrito",
+      "procedan de un órgano distinto al de su adscripción",
+      "constituyan una infracción manifiesta del ordenamiento jurídico"
+    ],
+    "correct": 2,
+    "exp": "El art. 54.3 dice que obedecerán las instrucciones de los superiores 'salvo que constituyan una infracción manifiesta del ordenamiento jurídico'.",
+    "fuente": "Art. 54.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 54.3 TREBEP indica que, cuando una orden constituya una infracción manifiesta del ordenamiento jurídico, el empleado público deberá...",
+    "options": [
+      "ponerla inmediatamente en conocimiento de los órganos de inspección procedentes",
+      "ejecutarla y reservarse la reclamación posterior",
+      "solicitar la ratificación por escrito antes de ejecutarla"
+    ],
+    "correct": 0,
+    "exp": "El art. 54.3 añade que, en ese caso, 'las pondrán inmediatamente en conocimiento de los órganos de inspección procedentes'.",
+    "fuente": "Art. 54.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 54.4 TREBEP, los empleados públicos informarán a los ciudadanos sobre...",
+    "options": [
+      "el contenido íntegro de los expedientes en tramitación de terceros",
+      "aquellas materias o asuntos que tengan derecho a conocer",
+      "las deliberaciones internas de los órganos colegiados"
+    ],
+    "correct": 1,
+    "exp": "El art. 54.4 dice que 'informarán a los ciudadanos sobre aquellas materias o asuntos que tengan derecho a conocer, y facilitarán el ejercicio de sus derechos y el cumplimiento de sus obligaciones'.",
+    "fuente": "Art. 54.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 54.5 TREBEP dispone que los empleados públicos administrarán los recursos y bienes públicos con...",
+    "options": [
+      "eficiencia normativa",
+      "discrecionalidad técnica",
+      "austeridad"
+    ],
+    "correct": 2,
+    "exp": "El art. 54.5 dice que 'administrarán los recursos y bienes públicos con austeridad, y no utilizarán los mismos en provecho propio o de personas allegadas'.",
+    "fuente": "Art. 54.5 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 54.5 TREBEP, además de administrar los recursos públicos con austeridad, los empleados públicos tendrán el deber de...",
+    "options": [
+      "velar por su conservación",
+      "reportar mensualmente su inventario",
+      "someterlos a auditoría externa anual"
+    ],
+    "correct": 0,
+    "exp": "El art. 54.5 añade que 'tendrán, asimismo, el deber de velar por su conservación'.",
+    "fuente": "Art. 54.5 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 54.6 TREBEP establece que se rechazará cualquier regalo, favor o servicio en condiciones ventajosas que vaya más allá de...",
+    "options": [
+      "los límites fijados por el código presupuestario",
+      "los usos habituales, sociales y de cortesía",
+      "el valor de veinte euros anuales"
+    ],
+    "correct": 1,
+    "exp": "El art. 54.6 dice que 'se rechazará cualquier regalo, favor o servicio en condiciones ventajosas que vaya más allá de los usos habituales, sociales y de cortesía, sin perjuicio de lo establecido en el Código Penal'.",
+    "fuente": "Art. 54.6 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 54.7 TREBEP, los empleados públicos garantizarán la constancia y permanencia de los documentos para...",
+    "options": [
+      "su publicación íntegra en el portal de transparencia",
+      "su custodia exclusiva en el archivo central",
+      "su transmisión y entrega a sus posteriores responsables"
+    ],
+    "correct": 2,
+    "exp": "El art. 54.7 dice que 'garantizarán la constancia y permanencia de los documentos para su transmisión y entrega a sus posteriores responsables'.",
+    "fuente": "Art. 54.7 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 54.8 TREBEP obliga a los empleados públicos a mantener actualizada su...",
+    "options": [
+      "formación y cualificación",
+      "adscripción funcional",
+      "carrera horizontal"
+    ],
+    "correct": 0,
+    "exp": "El art. 54.8 dice que 'mantendrán actualizada su formación y cualificación'.",
+    "fuente": "Art. 54.8 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 54.9 TREBEP, los empleados públicos observarán las normas sobre...",
+    "options": [
+      "protección de datos personales",
+      "seguridad y salud laboral",
+      "contratación administrativa"
+    ],
+    "correct": 1,
+    "exp": "El art. 54.9 dice que 'observarán las normas sobre seguridad y salud laboral'.",
+    "fuente": "Art. 54.9 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 54.10 TREBEP establece que los empleados públicos pondrán en conocimiento de sus superiores o de los órganos competentes...",
+    "options": [
+      "las incidencias de asistencia de sus compañeros",
+      "los expedientes disciplinarios en curso",
+      "las propuestas que consideren adecuadas para mejorar el desarrollo de las funciones de la unidad"
+    ],
+    "correct": 2,
+    "exp": "El art. 54.10 dice que 'pondrán en conocimiento de sus superiores o de los órganos competentes las propuestas que consideren adecuadas para mejorar el desarrollo de las funciones de la unidad en la que estén destinados'.",
+    "fuente": "Art. 54.10 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 54.10 TREBEP, a los efectos de recibir propuestas de mejora, se podrá prever la creación de...",
+    "options": [
+      "la instancia adecuada competente para centralizar la recepción de las propuestas",
+      "una comisión paritaria de seguimiento retributivo",
+      "un registro específico de sugerencias vinculado a la carrera profesional"
+    ],
+    "correct": 0,
+    "exp": "El art. 54.10 añade que 'se podrá prever la creación de la instancia adecuada competente para centralizar la recepción de las propuestas de los empleados públicos o administrados que sirvan para mejorar la eficacia en el servicio'.",
+    "fuente": "Art. 54.10 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 54.11 TREBEP garantiza la atención al ciudadano...",
+    "options": [
+      "exclusivamente en la lengua oficial del Estado",
+      "en la lengua que lo solicite siempre que sea oficial en el territorio",
+      "en la lengua que determine el reglamento interno de cada Administración"
+    ],
+    "correct": 1,
+    "exp": "El art. 54.11 dice que 'garantizarán la atención al ciudadano en la lengua que lo solicite siempre que sea oficial en el territorio'.",
+    "fuente": "Art. 54.11 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de los siguientes es un principio de CONDUCTA (art. 54) y no un principio ÉTICO (art. 53) del TREBEP?",
+    "options": [
+      "Guardar secreto de las materias clasificadas",
+      "Ajustar la actuación a los principios de lealtad y buena fe",
+      "Tratar con atención y respeto a los ciudadanos y compañeros"
+    ],
+    "correct": 2,
+    "exp": "'Tratar con atención y respeto' es un principio de conducta del art. 54.1. 'Guardar secreto' (art. 53.12) y 'lealtad y buena fe' (art. 53.3) son principios éticos del art. 53.",
+    "fuente": "Art. 54.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes obligaciones corresponde a los principios de conducta regulados en el art. 54 TREBEP?",
+    "options": [
+      "Rechazar cualquier regalo o favor en condiciones ventajosas",
+      "Abstenerse en los asuntos en que tengan un interés personal",
+      "Actuar conforme a los principios de eficacia, economía y eficiencia"
+    ],
+    "correct": 0,
+    "exp": "Rechazar regalos o favores ventajosos es un principio de conducta (art. 54.6). Abstenerse por interés personal (art. 53.5) y actuar con eficacia, economía y eficiencia (art. 53.8) son principios éticos.",
+    "fuente": "Art. 54.6 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  }
+]);
+
+/* tema 17 · lote 2026-08-11 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 17, [
+  {
+    "q": "Según el art. 69.1 TREBEP, ¿cuál es la finalidad de la planificación de los recursos humanos en las Administraciones Públicas?",
+    "options": [
+      "Contribuir a la eficacia en la prestación de servicios y a la eficiencia en la utilización de los recursos económicos disponibles",
+      "Garantizar la estabilidad en el empleo de todo el personal funcionario de carrera",
+      "Reducir de forma permanente el número de efectivos de las plantillas públicas"
+    ],
+    "correct": 0,
+    "exp": "El art. 69.1 fija como objetivo de la planificación contribuir a la eficacia en la prestación de servicios y a la eficiencia en el uso de los recursos económicos, mediante la dimensión adecuada de efectivos, su distribución, formación, promoción profesional y movilidad.",
+    "fuente": "Art. 69.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el art. 69.2.a) TREBEP, entre las medidas que pueden incluir los Planes de ordenación de recursos humanos figura:",
+    "options": [
+      "La supresión automática de todos los cuerpos y escalas existentes",
+      "El análisis de las disponibilidades y necesidades de personal, tanto en número de efectivos como en perfiles profesionales o niveles de cualificación",
+      "La externalización obligatoria de los servicios que presenten déficit de personal"
+    ],
+    "correct": 1,
+    "exp": "El art. 69.2.a) incluye entre las medidas de los planes el análisis de disponibilidades y necesidades de personal, tanto desde el número de efectivos como desde los perfiles profesionales o niveles de cualificación.",
+    "fuente": "Art. 69.2.a) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 69.2.c) TREBEP, entre las medidas de movilidad que pueden figurar en los Planes de ordenación de recursos humanos se encuentra:",
+    "options": [
+      "La obligación de que todo el personal cambie de puesto cada cinco años",
+      "La eliminación de los concursos de provisión de puestos de trabajo",
+      "La convocatoria de concursos de provisión de puestos limitados a personal de ámbitos que se determinen"
+    ],
+    "correct": 2,
+    "exp": "El art. 69.2.c) contempla como medida de movilidad la suspensión de incorporaciones de personal externo a un ámbito determinado o la convocatoria de concursos de provisión limitados a personal de ámbitos que se determinen.",
+    "fuente": "Art. 69.2.c) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 69.2.d) TREBEP remite, para las medidas de promoción interna, formación y movilidad forzosa incluidas en los Planes de ordenación de recursos humanos, a lo dispuesto en:",
+    "options": [
+      "El capítulo III del título V del Estatuto",
+      "El capítulo I del título IV del Estatuto",
+      "El título VI del Estatuto, relativo a las situaciones administrativas"
+    ],
+    "correct": 0,
+    "exp": "El art. 69.2.d) contempla medidas de promoción interna, formación y movilidad forzosa 'de conformidad con lo dispuesto en el capítulo III del presente título', es decir, el capítulo III del título V (provisión de puestos y movilidad).",
+    "fuente": "Art. 69.2.d) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 69.3 TREBEP, cada Administración Pública planificará sus recursos humanos:",
+    "options": [
+      "Siguiendo en todo caso un modelo único aprobado por el Ministerio de Hacienda",
+      "De acuerdo con los sistemas que establezcan las normas que le sean de aplicación",
+      "Únicamente cuando lo autorice expresamente la Conferencia Sectorial de Administración Pública"
+    ],
+    "correct": 1,
+    "exp": "El art. 69.3 establece que cada Administración Pública planificará sus recursos humanos de acuerdo con los sistemas que establezcan las normas que le sean de aplicación.",
+    "fuente": "Art. 69.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 70.1 TREBEP, la Oferta de empleo público comportará la obligación de convocar los procesos selectivos correspondientes a las plazas comprometidas y hasta un porcentaje adicional de:",
+    "options": [
+      "Un veinte por cien",
+      "Un cinco por cien",
+      "Un diez por cien"
+    ],
+    "correct": 2,
+    "exp": "El art. 70.1 dispone que la Oferta de empleo público comportará la obligación de convocar los procesos selectivos para las plazas comprometidas y hasta un diez por cien adicional.",
+    "fuente": "Art. 70.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál es el plazo máximo para la ejecución de la Oferta de empleo público o instrumento similar según el art. 70.1 TREBEP?",
+    "options": [
+      "Tres años, con carácter improrrogable",
+      "Cinco años, prorrogable por otros dos",
+      "Un año, contado desde su publicación"
+    ],
+    "correct": 0,
+    "exp": "El art. 70.1 señala que la ejecución de la oferta de empleo público o instrumento similar deberá desarrollarse dentro del plazo improrrogable de tres años.",
+    "fuente": "Art. 70.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 70.2 TREBEP, la Oferta de empleo público o instrumento similar se aprobará:",
+    "options": [
+      "Cada dos años y no requiere publicación oficial mientras no se convoquen procesos selectivos",
+      "Anualmente por los órganos de Gobierno de las Administraciones Públicas y deberá publicarse en el diario oficial correspondiente",
+      "Trimestralmente por los órganos de personal de cada unidad administrativa"
+    ],
+    "correct": 1,
+    "exp": "El art. 70.2 establece que la Oferta de empleo público o instrumento similar se aprobará anualmente por los órganos de Gobierno de las Administraciones Públicas y deberá ser publicada en el Diario oficial correspondiente.",
+    "fuente": "Art. 70.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el art. 70.3 TREBEP, la Oferta de empleo público o instrumento similar:",
+    "options": [
+      "No podrá en ningún caso vincularse a los planes de ordenación de recursos humanos",
+      "Solo puede referirse a plazas de nuevo ingreso de personal laboral fijo",
+      "Podrá contener medidas derivadas de la planificación de recursos humanos"
+    ],
+    "correct": 2,
+    "exp": "El art. 70.3 dispone que la Oferta de empleo público o instrumento similar podrá contener medidas derivadas de la planificación de recursos humanos.",
+    "fuente": "Art. 70.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 71.1 TREBEP, cada Administración Pública constituirá un Registro en el que se inscribirán:",
+    "options": [
+      "Los datos relativos al personal contemplado en los artículos 2 y 5 del Estatuto, teniendo en cuenta las peculiaridades de determinados colectivos",
+      "Únicamente los datos del personal directivo profesional",
+      "Exclusivamente los datos económicos de las retribuciones del personal funcionario"
+    ],
+    "correct": 0,
+    "exp": "El art. 71.1 establece que cada Administración Pública constituirá un Registro en el que se inscribirán los datos relativos al personal de los arts. 2 y 5 del Estatuto, teniendo en cuenta las peculiaridades de determinados colectivos.",
+    "fuente": "Art. 71.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 71.3 TREBEP prevé que los contenidos mínimos comunes de los Registros de personal y los criterios de intercambio homogéneo de información entre Administraciones se establecerán mediante:",
+    "options": [
+      "Real Decreto del Consejo de Ministros",
+      "Convenio de Conferencia Sectorial",
+      "Acuerdo bilateral entre cada dos Administraciones afectadas"
+    ],
+    "correct": 1,
+    "exp": "Según el art. 71.3, mediante convenio de Conferencia Sectorial se establecerán los contenidos mínimos comunes de los Registros de personal y los criterios para el intercambio homogéneo de información entre Administraciones.",
+    "fuente": "Art. 71.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 71.4 TREBEP, las Administraciones Públicas:",
+    "options": [
+      "Estarán obligadas a unificar sus Registros de personal en un único registro estatal",
+      "Deberán externalizar la gestión de sus Registros de personal",
+      "Impulsarán la gestión integrada de recursos humanos"
+    ],
+    "correct": 2,
+    "exp": "El art. 71.4 dispone que las Administraciones Públicas impulsarán la gestión integrada de recursos humanos.",
+    "fuente": "Art. 71.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 71.5 TREBEP, cuando las Entidades Locales no cuenten con suficiente capacidad financiera o técnica para la gestión de sus Registros de personal:",
+    "options": [
+      "La Administración General del Estado y las Comunidades Autónomas cooperarán con aquéllas",
+      "Quedarán exentas de constituir Registro de personal",
+      "Deberán integrar su personal en el Registro de la Diputación Provincial"
+    ],
+    "correct": 0,
+    "exp": "El art. 71.5 establece que cuando las Entidades Locales no cuenten con suficiente capacidad financiera o técnica, la AGE y las Comunidades Autónomas cooperarán con aquéllas a los efectos contemplados en el artículo.",
+    "fuente": "Art. 71.5 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 72 TREBEP, las Administraciones Públicas estructuran sus recursos humanos, en el marco de sus competencias de autoorganización, de acuerdo con las normas que regulan:",
+    "options": [
+      "Exclusivamente el régimen retributivo del personal funcionario",
+      "La selección, la promoción profesional, la movilidad y la distribución de funciones",
+      "Únicamente los procedimientos disciplinarios aplicables al personal"
+    ],
+    "correct": 1,
+    "exp": "El art. 72 dispone que las Administraciones Públicas estructuran sus recursos humanos, en el marco de sus competencias de autoorganización, de acuerdo con las normas que regulan la selección, la promoción profesional, la movilidad y la distribución de funciones.",
+    "fuente": "Art. 72 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 73.1 TREBEP, los empleados públicos tienen derecho:",
+    "options": [
+      "A elegir libremente el puesto de trabajo que deseen desempeñar en cualquier momento de su carrera",
+      "A permanecer indefinidamente en el primer puesto de trabajo obtenido tras el proceso selectivo",
+      "Al desempeño de un puesto de trabajo de acuerdo con el sistema de estructuración del empleo público que establezcan las leyes de desarrollo del Estatuto"
+    ],
+    "correct": 2,
+    "exp": "El art. 73.1 reconoce el derecho de los empleados públicos al desempeño de un puesto de trabajo de acuerdo con el sistema de estructuración del empleo público que establezcan las leyes de desarrollo del Estatuto.",
+    "fuente": "Art. 73.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el art. 73.2 TREBEP, las Administraciones Públicas podrán asignar a su personal funciones, tareas o responsabilidades distintas a las de su puesto de trabajo siempre que:",
+    "options": [
+      "Resulten adecuadas a su clasificación, grado o categoría, cuando las necesidades del servicio lo justifiquen y sin merma en las retribuciones",
+      "Medie el consentimiento previo de la totalidad de la plantilla del centro de trabajo",
+      "Se trate de funciones de un grupo de clasificación profesional superior al del funcionario"
+    ],
+    "correct": 0,
+    "exp": "El art. 73.2 permite asignar funciones, tareas o responsabilidades distintas a las del puesto siempre que sean adecuadas a la clasificación, grado o categoría del empleado, cuando las necesidades del servicio lo justifiquen, sin merma en las retribuciones.",
+    "fuente": "Art. 73.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 73.3 TREBEP, los puestos de trabajo podrán agruparse en función de sus características para ordenar:",
+    "options": [
+      "Únicamente el régimen de incompatibilidades",
+      "La selección, la formación y la movilidad",
+      "Solo los procesos de promoción interna del personal laboral"
+    ],
+    "correct": 1,
+    "exp": "El art. 73.3 establece que los puestos de trabajo podrán agruparse en función de sus características para ordenar la selección, la formación y la movilidad.",
+    "fuente": "Art. 73.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 74 TREBEP, las Administraciones Públicas estructurarán su organización a través de relaciones de puestos de trabajo u otros instrumentos organizativos similares, que comprenderán al menos:",
+    "options": [
+      "El nombre y apellidos del titular del puesto, su antigüedad y su domicilio",
+      "Exclusivamente el organigrama jerárquico de cada unidad administrativa",
+      "La denominación de los puestos, los grupos de clasificación profesional, los cuerpos o escalas a que estén adscritos, los sistemas de provisión y las retribuciones complementarias"
+    ],
+    "correct": 2,
+    "exp": "El art. 74 dispone que las Administraciones Públicas estructurarán su organización a través de relaciones de puestos de trabajo u otros instrumentos organizativos similares que comprenderán, al menos, la denominación de los puestos, los grupos de clasificación profesional, los cuerpos o escalas a que estén adscritos, los sistemas de provisión y las retribuciones complementarias.",
+    "fuente": "Art. 74 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 74 TREBEP, las relaciones de puestos de trabajo u otros instrumentos organizativos similares:",
+    "options": [
+      "Serán públicos",
+      "Tendrán carácter reservado y de acceso restringido al personal directivo",
+      "Solo deberán publicarse cuando lo solicite expresamente algún funcionario afectado"
+    ],
+    "correct": 0,
+    "exp": "El art. 74 finaliza estableciendo expresamente que dichos instrumentos (las relaciones de puestos de trabajo u otros instrumentos organizativos similares) serán públicos.",
+    "fuente": "Art. 74 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 75.1 TREBEP, los funcionarios se agrupan en cuerpos, escalas, especialidades u otros sistemas que incorporen:",
+    "options": [
+      "Antigüedad y méritos acumulados durante toda su carrera profesional",
+      "Competencias, capacidades y conocimientos comunes acreditados a través de un proceso selectivo",
+      "Un mismo nivel retributivo con independencia de su titulación"
+    ],
+    "correct": 1,
+    "exp": "El art. 75.1 establece que los funcionarios se agrupan en cuerpos, escalas, especialidades u otros sistemas que incorporen competencias, capacidades y conocimientos comunes acreditados a través de un proceso selectivo.",
+    "fuente": "Art. 75.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 75.2 TREBEP, los cuerpos y escalas de funcionarios se crean, modifican y suprimen:",
+    "options": [
+      "Por real decreto del Consejo de Ministros a propuesta del Ministerio competente en función pública",
+      "Por acuerdo de la Mesa General de Negociación de las Administraciones Públicas",
+      "Por ley de las Cortes Generales o de las asambleas legislativas de las comunidades autónomas"
+    ],
+    "correct": 2,
+    "exp": "El art. 75.2 dispone que los cuerpos y escalas de funcionarios se crean, modifican y suprimen por ley de las Cortes Generales o de las asambleas legislativas de las comunidades autónomas.",
+    "fuente": "Art. 75.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 76 TREBEP, para el acceso a los cuerpos o escalas del Subgrupo A1 o A2 se exigirá estar en posesión de:",
+    "options": [
+      "El título universitario de Grado, salvo que la ley exija otro título universitario",
+      "El título de Bachiller o Técnico",
+      "El título de Técnico Superior"
+    ],
+    "correct": 0,
+    "exp": "El art. 76 establece que para el acceso a los cuerpos o escalas del Grupo A (Subgrupos A1 y A2) se exigirá estar en posesión del título universitario de Grado, salvo que la ley exija otro título universitario, en cuyo caso será éste el que se tenga en cuenta.",
+    "fuente": "Art. 76 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el art. 76 TREBEP, para el acceso a los cuerpos o escalas del Grupo B se exigirá estar en posesión de:",
+    "options": [
+      "El título universitario de Grado",
+      "El título de Técnico Superior",
+      "El título de Graduado en Educación Secundaria Obligatoria"
+    ],
+    "correct": 1,
+    "exp": "El art. 76 dispone que para el acceso a los cuerpos o escalas del Grupo B se exigirá estar en posesión del título de Técnico Superior.",
+    "fuente": "Art. 76 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 76 TREBEP, el Subgrupo C1 exige para el ingreso estar en posesión de:",
+    "options": [
+      "El título de Graduado en Educación Secundaria Obligatoria",
+      "El título universitario de Grado",
+      "El título de Bachiller o Técnico"
+    ],
+    "correct": 2,
+    "exp": "El art. 76 establece que el Grupo C se divide en dos Subgrupos, C1 y C2, exigiéndose en el Subgrupo C1 el título de Bachiller o Técnico.",
+    "fuente": "Art. 76 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 76 TREBEP, para el ingreso en el Subgrupo C2 se exige estar en posesión de:",
+    "options": [
+      "El título de Graduado en Educación Secundaria Obligatoria",
+      "El título de Bachiller o Técnico",
+      "El título de Técnico Superior"
+    ],
+    "correct": 0,
+    "exp": "El art. 76 dispone que el Subgrupo C2 exige para el ingreso el título de Graduado en Educación Secundaria Obligatoria.",
+    "fuente": "Art. 76 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 77 TREBEP, el personal laboral se clasificará:",
+    "options": [
+      "De acuerdo con los mismos grupos de clasificación que el personal funcionario de carrera",
+      "De conformidad con la legislación laboral",
+      "Según lo que disponga en cada caso la relación de puestos de trabajo, sin sujeción a otra normativa"
+    ],
+    "correct": 1,
+    "exp": "El art. 77 dispone escuetamente que el personal laboral se clasificará de conformidad con la legislación laboral.",
+    "fuente": "Art. 77 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 78.1 TREBEP, las Administraciones Públicas proveerán los puestos de trabajo mediante procedimientos basados en los principios de:",
+    "options": [
+      "Antigüedad, jerarquía y confianza",
+      "Eficacia, economía y celeridad",
+      "Igualdad, mérito, capacidad y publicidad"
+    ],
+    "correct": 2,
+    "exp": "El art. 78.1 establece que las Administraciones Públicas proveerán los puestos de trabajo mediante procedimientos basados en los principios de igualdad, mérito, capacidad y publicidad.",
+    "fuente": "Art. 78.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el art. 78.2 TREBEP, la provisión de puestos de trabajo del personal funcionario de carrera se llevará a cabo, con carácter general, por los procedimientos de:",
+    "options": [
+      "Concurso y libre designación con convocatoria pública",
+      "Oposición y concurso-oposición",
+      "Nombramiento directo y comisión de servicios"
+    ],
+    "correct": 0,
+    "exp": "El art. 78.2 señala que la provisión de puestos de trabajo en cada Administración Pública se llevará a cabo por los procedimientos de concurso y de libre designación con convocatoria pública.",
+    "fuente": "Art. 78.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 79.1 TREBEP, el concurso, como procedimiento normal de provisión de puestos de trabajo, consiste en:",
+    "options": [
+      "La apreciación discrecional del órgano competente sobre la idoneidad de los candidatos",
+      "La valoración de los méritos y capacidades, y en su caso aptitudes, de los candidatos por órganos colegiados de carácter técnico",
+      "La superación de una prueba selectiva única de carácter eliminatorio"
+    ],
+    "correct": 1,
+    "exp": "El art. 79.1 define el concurso como el procedimiento normal de provisión de puestos de trabajo, consistente en la valoración de los méritos y capacidades, y en su caso aptitudes, de los candidatos por órganos colegiados de carácter técnico.",
+    "fuente": "Art. 79.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 79.4 TREBEP, en caso de supresión o remoción de los puestos obtenidos por concurso se deberá:",
+    "options": [
+      "Declarar de oficio al funcionario en situación de excedencia voluntaria",
+      "Convocar automáticamente un nuevo concurso general para todo el cuerpo o escala",
+      "Asignar un puesto de trabajo conforme al sistema de carrera profesional propio de cada Administración Pública, con las garantías inherentes a dicho sistema"
+    ],
+    "correct": 2,
+    "exp": "El art. 79.4 dispone que en caso de supresión o remoción de los puestos obtenidos por concurso se deberá asignar al funcionario un puesto de trabajo conforme al sistema de carrera profesional propio de cada Administración, con las garantías inherentes a dicho sistema.",
+    "fuente": "Art. 79.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 80.1 TREBEP, la libre designación con convocatoria pública consiste en:",
+    "options": [
+      "La apreciación discrecional por el órgano competente de la idoneidad de los candidatos en relación con los requisitos exigidos para el desempeño del puesto",
+      "La valoración de méritos y capacidades por órganos colegiados de carácter técnico",
+      "La aplicación estricta del baremo de antigüedad y formación"
+    ],
+    "correct": 0,
+    "exp": "El art. 80.1 define la libre designación con convocatoria pública como la apreciación discrecional por el órgano competente de la idoneidad de los candidatos en relación con los requisitos exigidos para el desempeño del puesto.",
+    "fuente": "Art. 80.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 80.4 TREBEP, los titulares de puestos provistos por libre designación con convocatoria pública podrán ser cesados discrecionalmente, y en caso de cese:",
+    "options": [
+      "Pasarán automáticamente a la situación de excedencia forzosa",
+      "Se les deberá asignar un puesto de trabajo conforme al sistema de carrera profesional propio de cada Administración, con las garantías inherentes a dicho sistema",
+      "Deberán superar de nuevo el proceso selectivo de acceso al cuerpo o escala"
+    ],
+    "correct": 1,
+    "exp": "El art. 80.4 establece que los titulares de puestos de libre designación con convocatoria pública podrán ser cesados discrecionalmente, y en caso de cese se les deberá asignar un puesto de trabajo conforme al sistema de carrera profesional propio de cada Administración, con las garantías inherentes a dicho sistema.",
+    "fuente": "Art. 80.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 81.2 TREBEP, cuando las Administraciones Públicas trasladen a sus funcionarios por necesidades del servicio o funcionales a unidades, departamentos u organismos distintos de los de su destino, deberán respetar:",
+    "options": [
+      "Únicamente su nivel de complemento de destino, sin más garantías",
+      "Solo la localidad de residencia habitual del funcionario",
+      "Sus retribuciones y condiciones esenciales de trabajo"
+    ],
+    "correct": 2,
+    "exp": "El art. 81.2 dispone que las Administraciones Públicas, de manera motivada, podrán trasladar a sus funcionarios por necesidades de servicio o funcionales, respetando sus retribuciones y condiciones esenciales de trabajo.",
+    "fuente": "Art. 81.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 81.3 TREBEP, en caso de urgente e inaplazable necesidad, los puestos de trabajo podrán proveerse:",
+    "options": [
+      "Con carácter provisional, debiendo procederse a su convocatoria pública dentro del plazo que señalen las normas aplicables",
+      "Únicamente mediante libre designación, sin necesidad de convocatoria posterior",
+      "Solo con personal interino de nuevo ingreso"
+    ],
+    "correct": 0,
+    "exp": "El art. 81.3 señala que en caso de urgente e inaplazable necesidad los puestos de trabajo podrán proveerse con carácter provisional, debiendo procederse a su convocatoria pública dentro del plazo que señalen las normas que sean de aplicación.",
+    "fuente": "Art. 81.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 82.1 TREBEP, las mujeres víctimas de violencia de género o violencia sexual que se vean obligadas a abandonar su puesto de trabajo tendrán derecho:",
+    "options": [
+      "A una excedencia forzosa de al menos un año con reserva de puesto",
+      "Al traslado a otro puesto propio de su cuerpo, escala o categoría profesional de análogas características, sin necesidad de que sea vacante de necesaria cobertura",
+      "Únicamente a una reducción de jornada del cincuenta por cien"
+    ],
+    "correct": 1,
+    "exp": "El art. 82.1 reconoce a las mujeres víctimas de violencia de género o sexual el derecho al traslado a otro puesto propio de su cuerpo, escala o categoría profesional de análogas características, sin necesidad de que sea vacante de necesaria cobertura.",
+    "fuente": "Art. 82.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 82.1 TREBEP, el traslado de la funcionaria víctima de violencia de género o sexual a otro puesto de trabajo tendrá la consideración de:",
+    "options": [
+      "Traslado voluntario a todos los efectos",
+      "Permuta entre puestos de trabajo",
+      "Traslado forzoso"
+    ],
+    "correct": 2,
+    "exp": "El art. 82.1 establece expresamente que este traslado 'tendrá la consideración de traslado forzoso'.",
+    "fuente": "Art. 82.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 83 TREBEP, la provisión de puestos y movilidad del personal laboral se realizará de conformidad con lo que establezcan los convenios colectivos aplicables y, en su defecto:",
+    "options": [
+      "Por el sistema de provisión de puestos y movilidad del personal funcionario de carrera",
+      "Por lo que decida discrecionalmente el órgano de personal competente",
+      "Mediante concurso-oposición convocado anualmente por el Ministerio de Trabajo"
+    ],
+    "correct": 0,
+    "exp": "El art. 83 dispone que la provisión de puestos y movilidad del personal laboral se realizará conforme a los convenios colectivos aplicables y, en su defecto, por el sistema de provisión de puestos y movilidad del personal funcionario de carrera.",
+    "fuente": "Art. 83 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 84.1 TREBEP, las medidas de movilidad interadministrativa se establecerán preferentemente mediante:",
+    "options": [
+      "Ley orgánica aprobada por las Cortes Generales",
+      "Convenio de Conferencia Sectorial u otros instrumentos de colaboración",
+      "Acuerdo unilateral de la Administración de destino"
+    ],
+    "correct": 1,
+    "exp": "El art. 84.1 dispone que la Administración General del Estado, las comunidades autónomas y las entidades locales establecerán medidas de movilidad interadministrativa, preferentemente mediante convenio de Conferencia Sectorial u otros instrumentos de colaboración.",
+    "fuente": "Art. 84.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 84.3 TREBEP, los funcionarios de carrera que obtengan destino en otra Administración Pública a través de los procedimientos de movilidad quedarán, respecto de su Administración de origen, en la situación administrativa de:",
+    "options": [
+      "Excedencia voluntaria por interés particular",
+      "Servicios especiales",
+      "Servicio en otras Administraciones Públicas"
+    ],
+    "correct": 2,
+    "exp": "El art. 84.3 establece que los funcionarios de carrera que obtengan destino en otra Administración Pública a través de procedimientos de movilidad quedarán, respecto de su Administración de origen, en la situación administrativa de servicio en otras Administraciones Públicas.",
+    "fuente": "Art. 84.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 84.3 TREBEP, si el funcionario cesado en un puesto obtenido por libre designación en la Administración de destino no solicita el reingreso al servicio activo en el plazo indicado, será declarado de oficio en situación de:",
+    "options": [
+      "Excedencia voluntaria por interés particular",
+      "Servicios especiales",
+      "Suspensión firme de funciones"
+    ],
+    "correct": 0,
+    "exp": "El art. 84.3 dispone que, de no solicitarse el reingreso al servicio activo en el plazo indicado, el funcionario será declarado de oficio en situación de excedencia voluntaria por interés particular, con efectos desde el día siguiente al cese en la Administración de destino.",
+    "fuente": "Art. 84.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  }
+]);
+
+/* tema 17 · lote 2026-08-11 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 17, [
+  {
+    "q": "¿Cuál de las siguientes NO es una causa de pérdida de la condición de funcionario de carrera según el art. 63 TREBEP?",
+    "options": [
+      "El traslado voluntario a otra Administración Pública",
+      "La jubilación total del funcionario",
+      "La pérdida de la nacionalidad"
+    ],
+    "correct": 0,
+    "exp": "El art. 63 enumera taxativamente las causas de pérdida de la condición de funcionario: renuncia, pérdida de nacionalidad, jubilación total, sanción disciplinaria de separación firme y pena de inhabilitación firme. El traslado a otra Administración no figura entre ellas.",
+    "fuente": "Art. 63 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes es, según el art. 63 TREBEP, una causa de pérdida de la condición de funcionario de carrera?",
+    "options": [
+      "El traslado forzoso a otro puesto de trabajo",
+      "La renuncia a la condición de funcionario",
+      "El pase a la situación de excedencia voluntaria"
+    ],
+    "correct": 1,
+    "exp": "El art. 63.a) incluye la renuncia entre las causas de pérdida de la condición de funcionario de carrera.",
+    "fuente": "Art. 63.a) TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Para que la sanción disciplinaria de separación del servicio constituya causa de pérdida de la condición de funcionario, el art. 63.d) TREBEP exige que...",
+    "options": [
+      "sea propuesta por el órgano instructor del expediente",
+      "haya sido notificada al interesado en el plazo de un mes",
+      "tenga carácter firme"
+    ],
+    "correct": 2,
+    "exp": "El art. 63.d) exige que la sanción disciplinaria de separación del servicio tuviere carácter firme.",
+    "fuente": "Art. 63.d) TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 63.e) TREBEP, la pena principal o accesoria de inhabilitación absoluta o especial para cargo público es causa de pérdida de la condición de funcionario cuando...",
+    "options": [
+      "tenga carácter firme",
+      "se haya dictado auto de apertura de juicio oral",
+      "el funcionario esté en situación de suspensión provisional"
+    ],
+    "correct": 0,
+    "exp": "El art. 63.e) exige que la pena de inhabilitación tuviere carácter firme.",
+    "fuente": "Art. 63.e) TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "La renuncia voluntaria a la condición de funcionario, según el art. 64.1 TREBEP, habrá de...",
+    "options": [
+      "ser aprobada por el Pleno de la Corporación en todo caso",
+      "ser manifestada por escrito y aceptada expresamente por la Administración, salvo excepción",
+      "comunicarse verbalmente al superior jerárquico y ratificarse en el plazo de quince días"
+    ],
+    "correct": 1,
+    "exp": "El art. 64.1 dispone que la renuncia habrá de ser manifestada por escrito y aceptada expresamente por la Administración, salvo lo dispuesto en el apartado siguiente.",
+    "fuente": "Art. 64.1 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En qué caso, conforme al art. 64.2 TREBEP, NO podrá ser aceptada la renuncia de un funcionario?",
+    "options": [
+      "Cuando el funcionario lleve menos de un año en el puesto",
+      "Cuando la renuncia se presente en periodo vacacional",
+      "Cuando el funcionario esté sujeto a expediente disciplinario o exista auto de procesamiento o de apertura de juicio oral por delito"
+    ],
+    "correct": 2,
+    "exp": "El art. 64.2 impide aceptar la renuncia cuando el funcionario esté sujeto a expediente disciplinario o se haya dictado en su contra auto de procesamiento o de apertura de juicio oral por delito.",
+    "fuente": "Art. 64.2 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 64.3 TREBEP, la renuncia a la condición de funcionario...",
+    "options": [
+      "no inhabilita para ingresar de nuevo en la Administración Pública mediante el procedimiento de selección establecido",
+      "inhabilita de forma permanente para volver a ingresar en la Administración Pública",
+      "solo permite el reingreso transcurridos cinco años"
+    ],
+    "correct": 0,
+    "exp": "El art. 64.3 aclara que la renuncia no inhabilita para ingresar de nuevo en la Administración Pública a través del procedimiento de selección establecido.",
+    "fuente": "Art. 64.3 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "La pérdida de la nacionalidad española, según el art. 65 TREBEP, determina la pérdida de la condición de funcionario salvo que...",
+    "options": [
+      "el funcionario acredite diez años de servicios efectivos",
+      "simultáneamente se adquiera la nacionalidad de otro de los Estados a que se refiere el precepto",
+      "el interesado presente recurso de alzada en el plazo de un mes"
+    ],
+    "correct": 1,
+    "exp": "El art. 65 exceptúa la pérdida de la condición de funcionario cuando simultáneamente se adquiera la nacionalidad de alguno de los Estados a que se refiere el precepto.",
+    "fuente": "Art. 65 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 65 TREBEP se refiere a la pérdida de la nacionalidad española o de...",
+    "options": [
+      "cualquier país iberoamericano con convenio de reciprocidad",
+      "cualquier Estado con el que España mantenga relaciones diplomáticas",
+      "cualquier Estado miembro de la Unión Europea o de aquellos a los que sea aplicable la libre circulación de trabajadores"
+    ],
+    "correct": 2,
+    "exp": "El art. 65 se refiere a la pérdida de la nacionalidad española o de cualquier otro Estado miembro de la UE o de aquellos Estados a los que, por tratados internacionales, les sea aplicable la libre circulación de trabajadores.",
+    "fuente": "Art. 65 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Para que la pérdida de la nacionalidad determine la pérdida de la condición de funcionario, el art. 65 TREBEP exige que dicha nacionalidad...",
+    "options": [
+      "haya sido tenida en cuenta para el nombramiento",
+      "se hubiera obtenido tras el ingreso en el cuerpo",
+      "conste inscrita en el Registro Civil del municipio de destino"
+    ],
+    "correct": 0,
+    "exp": "El art. 65 exige que la nacionalidad perdida haya sido tenida en cuenta para el nombramiento del funcionario.",
+    "fuente": "Art. 65 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "La pena principal o accesoria de inhabilitación ABSOLUTA, firme, produce, según el art. 66 TREBEP, la pérdida de la condición de funcionario respecto de...",
+    "options": [
+      "únicamente el puesto de trabajo que ocupaba en el momento de la condena",
+      "todos los empleos o cargos que tuviere",
+      "el cuerpo o escala de procedencia, manteniendo otros empleos públicos"
+    ],
+    "correct": 1,
+    "exp": "El art. 66 dispone que la inhabilitación absoluta firme produce la pérdida de la condición de funcionario respecto a todos los empleos o cargos que tuviere.",
+    "fuente": "Art. 66 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "La pena de inhabilitación ESPECIAL para cargo público, firme, produce, conforme al art. 66 TREBEP, la pérdida de la condición de funcionario respecto de...",
+    "options": [
+      "todos los empleos o cargos públicos, sin excepción",
+      "el empleo de mayor retribución entre los que desempeñe",
+      "aquellos empleos o cargos especificados en la sentencia"
+    ],
+    "correct": 2,
+    "exp": "El art. 66 dispone que la inhabilitación especial firme produce la pérdida de la condición de funcionario respecto de los empleos o cargos especificados en la sentencia.",
+    "fuente": "Art. 66 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 66 TREBEP exige, para que la pena de inhabilitación produzca la pérdida de la condición de funcionario, que...",
+    "options": [
+      "la sentencia que la imponga haya adquirido firmeza",
+      "se haya dictado sentencia en primera instancia",
+      "el Ministerio Fiscal ratifique la condena"
+    ],
+    "correct": 0,
+    "exp": "El art. 66 exige en ambos casos (inhabilitación absoluta y especial) que la sentencia que la imponga hubiere adquirido firmeza.",
+    "fuente": "Art. 66 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 67.1 TREBEP, la jubilación de los funcionarios podrá ser voluntaria, forzosa o...",
+    "options": [
+      "parcial, a solicitud del interesado",
+      "por la declaración de incapacidad permanente para el ejercicio de las funciones de su cuerpo o escala",
+      "anticipada, sin causa justificada"
+    ],
+    "correct": 1,
+    "exp": "El art. 67.1.c) contempla la jubilación por declaración de incapacidad permanente para el ejercicio de las funciones propias del cuerpo o escala, o por reconocimiento de pensión de incapacidad permanente absoluta o total.",
+    "fuente": "Art. 67.1.c) TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "La jubilación voluntaria de los funcionarios, según el art. 67.1.a) TREBEP, se produce...",
+    "options": [
+      "de oficio al cumplir sesenta años",
+      "por resolución motivada de la Administración sin petición del interesado",
+      "a solicitud del funcionario"
+    ],
+    "correct": 2,
+    "exp": "El art. 67.1.a) califica la jubilación voluntaria como aquella que se produce a solicitud del funcionario.",
+    "fuente": "Art. 67.1.a) TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "La jubilación forzosa, conforme al art. 67.1.b) TREBEP, se produce...",
+    "options": [
+      "al cumplir el funcionario la edad legalmente establecida",
+      "cuando lo decida el órgano de selección",
+      "transcurridos treinta años de servicios efectivos, con independencia de la edad"
+    ],
+    "correct": 0,
+    "exp": "El art. 67.1.b) define la jubilación forzosa como la que se produce al cumplir la edad legalmente establecida.",
+    "fuente": "Art. 67.1.b) TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Para que proceda la jubilación voluntaria, el art. 67.2 TREBEP exige que el funcionario...",
+    "options": [
+      "cuente con la autorización previa del Consejo de Ministros",
+      "reúna los requisitos y condiciones establecidos en el Régimen de Seguridad Social que le sea aplicable",
+      "haya cumplido al menos sesenta años de edad"
+    ],
+    "correct": 1,
+    "exp": "El art. 67.2 exige que el funcionario reúna los requisitos y condiciones establecidos en el Régimen de Seguridad Social que le sea aplicable.",
+    "fuente": "Art. 67.2 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "La jubilación forzosa se declarará de oficio, según el art. 67.3 TREBEP, al cumplir el funcionario...",
+    "options": [
+      "los setenta años de edad",
+      "los sesenta años de edad",
+      "los sesenta y cinco años de edad"
+    ],
+    "correct": 2,
+    "exp": "El art. 67.3 fija que la jubilación forzosa se declarará de oficio al cumplir el funcionario los sesenta y cinco años de edad.",
+    "fuente": "Art. 67.3 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 67.3 TREBEP permite solicitar la prolongación de la permanencia en el servicio activo, como máximo, hasta...",
+    "options": [
+      "que se cumplan setenta años de edad",
+      "que se cumplan sesenta y ocho años de edad",
+      "los cinco años posteriores a la edad de jubilación forzosa, sin límite de edad"
+    ],
+    "correct": 0,
+    "exp": "El art. 67.3 permite solicitar la prolongación de la permanencia en el servicio activo como máximo hasta que se cumplan setenta años de edad.",
+    "fuente": "Art. 67.3 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Sobre la solicitud de prolongación de la permanencia en el servicio activo, el art. 67.3 TREBEP establece que la Administración Pública competente...",
+    "options": [
+      "no está obligada a resolver, operando el silencio positivo",
+      "deberá resolver de forma motivada la aceptación o denegación",
+      "solo puede denegarla si concurre causa disciplinaria"
+    ],
+    "correct": 1,
+    "exp": "El art. 67.3 obliga a la Administración competente a resolver de forma motivada la aceptación o denegación de la prolongación.",
+    "fuente": "Art. 67.3 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Quedan excluidos de las reglas generales de jubilación forzosa y prolongación de servicio activo del art. 67.3 TREBEP...",
+    "options": [
+      "los funcionarios en situación de servicios especiales",
+      "los funcionarios interinos",
+      "los funcionarios que tengan normas estatales específicas de jubilación"
+    ],
+    "correct": 2,
+    "exp": "El art. 67.3 excluye de dichas reglas a los funcionarios que tengan normas estatales específicas de jubilación.",
+    "fuente": "Art. 67.3 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 67.4 TREBEP, la edad de jubilación forzosa del personal funcionario incluido en el Régimen General de la Seguridad Social será...",
+    "options": [
+      "la que prevean las normas reguladoras de dicho régimen para el acceso a la pensión de jubilación contributiva sin coeficiente reductor por razón de edad",
+      "siempre los sesenta y cinco años, sin excepción",
+      "la fijada libremente por cada Administración Pública"
+    ],
+    "correct": 0,
+    "exp": "El art. 67.4 establece que, con independencia de la edad legal del apartado 3, la edad de jubilación forzosa del personal en el Régimen General de la Seguridad Social será la prevista en las normas de dicho régimen para el acceso a la pensión contributiva sin coeficiente reductor por razón de edad.",
+    "fuente": "Art. 67.4 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "La jubilación por incapacidad, según el art. 67.1.c) TREBEP, procede por la declaración de incapacidad permanente para las funciones del cuerpo o escala, o por...",
+    "options": [
+      "el simple transcurso de un año en situación de incapacidad temporal",
+      "el reconocimiento de una pensión de incapacidad permanente absoluta o total en relación con dichas funciones",
+      "la solicitud del jefe de servicio, sin informe médico"
+    ],
+    "correct": 1,
+    "exp": "El art. 67.1.c) incluye también el reconocimiento de una pensión de incapacidad permanente absoluta o total en relación con el ejercicio de las funciones del cuerpo o escala.",
+    "fuente": "Art. 67.1.c) TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "En caso de extinción de la relación de servicio por pérdida de la nacionalidad o por jubilación por incapacidad permanente, el art. 68.1 TREBEP dispone que, desaparecida la causa, el interesado...",
+    "options": [
+      "podrá solicitar la rehabilitación, quedando a la libre discrecionalidad de la Administración",
+      "deberá superar de nuevo el proceso selectivo íntegro",
+      "podrá solicitar la rehabilitación, que le será concedida"
+    ],
+    "correct": 2,
+    "exp": "El art. 68.1 establece que, desaparecida la causa objetiva que motivó la pérdida de nacionalidad o la jubilación por incapacidad, el interesado podrá solicitar la rehabilitación, que le será concedida.",
+    "fuente": "Art. 68.1 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "La rehabilitación de quien perdió la condición de funcionario por condena a pena de inhabilitación, según el art. 68.2 TREBEP, podrá concederse...",
+    "options": [
+      "con carácter excepcional, a petición del interesado, atendiendo a las circunstancias y entidad del delito",
+      "de forma automática transcurridos dos años",
+      "únicamente mediante ley que así lo autorice expresamente"
+    ],
+    "correct": 0,
+    "exp": "El art. 68.2 permite a los órganos de gobierno conceder, con carácter excepcional y a petición del interesado, la rehabilitación atendiendo a las circunstancias y entidad del delito cometido.",
+    "fuente": "Art. 68.2 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Si transcurrido el plazo para resolver sobre la rehabilitación del art. 68.2 TREBEP no se dicta resolución expresa, se entenderá...",
+    "options": [
+      "estimada la solicitud por silencio positivo",
+      "desestimada la solicitud",
+      "que el plazo queda suspendido hasta nueva petición"
+    ],
+    "correct": 1,
+    "exp": "El art. 68.2 establece que si transcurrido el plazo para dictar resolución no se hubiera producido de forma expresa, se entenderá desestimada la solicitud.",
+    "fuente": "Art. 68.2 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 68.2 TREBEP, la rehabilitación con carácter excepcional del funcionario condenado a pena de inhabilitación corresponde conceder a...",
+    "options": [
+      "el Juez o Tribunal sentenciador",
+      "el Defensor del Pueblo",
+      "los órganos de gobierno de las Administraciones Públicas"
+    ],
+    "correct": 2,
+    "exp": "El art. 68.2 atribuye esta facultad excepcional a los órganos de gobierno de las Administraciones Públicas.",
+    "fuente": "Art. 68.2 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 68 TREBEP distingue dos supuestos de rehabilitación: el del apartado 1, aplicable a la pérdida de nacionalidad y jubilación por incapacidad, y el del apartado 2, aplicable a...",
+    "options": [
+      "quien perdió la condición de funcionario por condena a pena principal o accesoria de inhabilitación",
+      "quien renunció voluntariamente a la condición de funcionario",
+      "quien fue separado del servicio por sanción disciplinaria firme no derivada de delito"
+    ],
+    "correct": 0,
+    "exp": "El art. 68.2 se refiere específicamente a quien hubiera perdido la condición de funcionario por haber sido condenado a la pena principal o accesoria de inhabilitación.",
+    "fuente": "Art. 68 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Los artículos 63 a 68 del TREBEP, relativos a las causas y efectos de la pérdida de la condición de funcionario de carrera, se integran en...",
+    "options": [
+      "el Capítulo I del Título IV, dedicado al acceso al empleo público",
+      "el Capítulo II del Título IV, dedicado a la pérdida de la relación de servicio",
+      "el Capítulo I del Título V, dedicado a la planificación de recursos humanos"
+    ],
+    "correct": 1,
+    "exp": "El texto consolidado del TREBEP sitúa los arts. 63 a 68 en el Capítulo II del Título IV, titulado 'Pérdida de la relación de servicio', inmediatamente después del Capítulo I sobre acceso al empleo público (que termina en el art. 62).",
+    "fuente": "Capítulo II, Título IV TREBEP (arts. 63 a 68)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 63 TREBEP enumera un total de... causas de pérdida de la condición de funcionario de carrera.",
+    "options": [
+      "tres",
+      "cuatro",
+      "cinco"
+    ],
+    "correct": 2,
+    "exp": "El art. 63 enumera cinco causas, identificadas con las letras a) a e): renuncia, pérdida de nacionalidad, jubilación total, sanción disciplinaria de separación firme y pena de inhabilitación firme.",
+    "fuente": "Art. 63 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Entre las causas de pérdida de la condición de funcionario de carrera, el art. 63.c) TREBEP recoge...",
+    "options": [
+      "la jubilación total del funcionario",
+      "la jubilación parcial del funcionario",
+      "la incapacidad temporal del funcionario"
+    ],
+    "correct": 0,
+    "exp": "El art. 63.c) recoge como causa de pérdida la jubilación total del funcionario.",
+    "fuente": "Art. 63.c) TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes causas de pérdida de la condición de funcionario exige, según el TREBEP, que el acto administrativo o judicial correspondiente tenga carácter firme?",
+    "options": [
+      "La renuncia a la condición de funcionario",
+      "La sanción disciplinaria de separación del servicio",
+      "La jubilación voluntaria"
+    ],
+    "correct": 1,
+    "exp": "El art. 63.d) exige que la sanción disciplinaria de separación del servicio tuviere carácter firme; ni la renuncia ni la jubilación voluntaria requieren firmeza de resolución alguna.",
+    "fuente": "Art. 63.d) TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Salvo el supuesto de imposibilidad legal del art. 64.2 TREBEP, la renuncia voluntaria del funcionario debe ser...",
+    "options": [
+      "aceptada expresamente por la Administración",
+      "comunicada al Boletín Oficial sin necesidad de aceptación",
+      "ratificada ante notario"
+    ],
+    "correct": 0,
+    "exp": "El art. 64.1 exige que la renuncia sea aceptada expresamente por la Administración, salvo lo dispuesto en el apartado siguiente.",
+    "fuente": "Art. 64.1 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 64.2 TREBEP, no podrá aceptarse la renuncia del funcionario contra el que se haya dictado...",
+    "options": [
+      "sentencia firme absolutoria",
+      "auto de procesamiento o de apertura de juicio oral por la comisión de un delito",
+      "resolución de archivo de diligencias"
+    ],
+    "correct": 1,
+    "exp": "El art. 64.2 impide aceptar la renuncia cuando se haya dictado contra el funcionario auto de procesamiento o de apertura de juicio oral por la comisión de algún delito.",
+    "fuente": "Art. 64.2 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Si un funcionario pierde la nacionalidad española pero adquiere simultáneamente la de otro Estado miembro de la UE, según el art. 65 TREBEP...",
+    "options": [
+      "pierde igualmente la condición de funcionario",
+      "pierde la condición de funcionario, pero puede solicitar la rehabilitación de forma automática",
+      "no pierde la condición de funcionario"
+    ],
+    "correct": 2,
+    "exp": "El art. 65 exceptúa expresamente este supuesto: la pérdida de nacionalidad no determina la pérdida de la condición de funcionario si simultáneamente se adquiere la de otro de los Estados a que se refiere el precepto.",
+    "fuente": "Art. 65 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 66 TREBEP diferencia los efectos de la pena de inhabilitación según sea...",
+    "options": [
+      "absoluta o especial",
+      "temporal o permanente",
+      "principal o accesoria, con distinto alcance temporal"
+    ],
+    "correct": 0,
+    "exp": "El art. 66 distingue entre inhabilitación absoluta (pérdida respecto a todos los empleos o cargos) e inhabilitación especial (pérdida respecto de los empleos o cargos especificados en la sentencia).",
+    "fuente": "Art. 66 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Los tres tipos de jubilación de los funcionarios de carrera que enumera el art. 67.1 TREBEP son...",
+    "options": [
+      "voluntaria, anticipada y parcial",
+      "voluntaria, forzosa y por incapacidad permanente",
+      "forzosa, disciplinaria y por incapacidad temporal"
+    ],
+    "correct": 1,
+    "exp": "El art. 67.1 distingue jubilación voluntaria, forzosa y por declaración de incapacidad permanente (o reconocimiento de pensión de incapacidad permanente absoluta o total).",
+    "fuente": "Art. 67.1 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "La jubilación forzosa por edad se declara, según el art. 67.3 TREBEP...",
+    "options": [
+      "a instancia de parte, mediante solicitud del interesado",
+      "solo tras informe favorable del órgano de personal",
+      "de oficio"
+    ],
+    "correct": 2,
+    "exp": "El art. 67.3 dispone que la jubilación forzosa se declarará de oficio al cumplir el funcionario los sesenta y cinco años de edad.",
+    "fuente": "Art. 67.3 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "A diferencia de la rehabilitación excepcional del art. 68.2 TREBEP, la rehabilitación del art. 68.1 TREBEP (pérdida de nacionalidad o jubilación por incapacidad, desaparecida la causa)...",
+    "options": [
+      "queda al arbitrio discrecional de la Administración",
+      "le será concedida al interesado que la solicite",
+      "requiere autorización previa del Ministerio de Hacienda"
+    ],
+    "correct": 1,
+    "exp": "El art. 68.1 emplea un mandato imperativo ('le será concedida'), a diferencia del carácter excepcional y potestativo del art. 68.2 para los casos de condena a inhabilitación.",
+    "fuente": "Art. 68.1 TREBEP",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué artículo del TREBEP regula específicamente la jubilación de los funcionarios de carrera como causa de pérdida de dicha condición?",
+    "options": [
+      "El artículo 67",
+      "El artículo 65",
+      "El artículo 68"
+    ],
+    "correct": 0,
+    "exp": "El art. 67 TREBEP, dentro del Capítulo II del Título IV, regula la jubilación de los funcionarios (voluntaria, forzosa y por incapacidad), mientras que el art. 65 regula la pérdida de nacionalidad y el art. 68 la rehabilitación.",
+    "fuente": "Art. 67 TREBEP",
+    "confianza": "alta"
+  }
+]);

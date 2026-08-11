@@ -1,0 +1,487 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 17,
+  "tramo": "TREBEP Cap. III Título III (Derechos retributivos, arts. 21-30): huecos no cubiertos por preguntas previas",
+  "preguntas": [
+    {
+      "q": "Según el art. 21.1 del TREBEP, ¿qué debe reflejarse para cada ejercicio presupuestario en la correspondiente ley de presupuestos respecto de los funcionarios?",
+      "options": [
+        "Las cuantías de las retribuciones básicas de los funcionarios",
+        "El incremento de la masa salarial de los funcionarios",
+        "El importe global de las indemnizaciones por razón del servicio"
+      ],
+      "correct": 0,
+      "exp": "El art. 21.1 exige reflejar en la ley de presupuestos las cuantías de las retribuciones básicas (no solo su incremento) de los funcionarios de carrera.",
+      "fuente": "Art. 21.1 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 21.1 del TREBEP, respecto de las retribuciones complementarias de los funcionarios, ¿qué debe reflejarse en la ley de presupuestos de cada ejercicio?",
+      "options": [
+        "La cuantía íntegra de cada complemento",
+        "El incremento de las cuantías globales",
+        "El porcentaje que representan sobre el sueldo"
+      ],
+      "correct": 1,
+      "exp": "A diferencia de las básicas (cuya cuantía íntegra se refleja), de las complementarias solo se refleja el incremento de las cuantías globales.",
+      "fuente": "Art. 21.1 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 21.1 del TREBEP, en relación con el personal laboral, ¿qué magnitud debe reflejarse en la correspondiente ley de presupuestos?",
+      "options": [
+        "El importe íntegro del convenio colectivo aplicable",
+        "El número de trienios reconocidos",
+        "El incremento de la masa salarial"
+      ],
+      "correct": 2,
+      "exp": "El art. 21.1 exige reflejar, para el personal laboral, el incremento de la masa salarial en la ley de presupuestos de cada ejercicio.",
+      "fuente": "Art. 21.1 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 21.2 del TREBEP, no podrán acordarse incrementos retributivos que globalmente supongan un incremento de la masa salarial superior a:",
+      "options": [
+        "Los límites fijados anualmente en la Ley de Presupuestos Generales del Estado para el personal",
+        "El índice de revalorización de las pensiones del ejercicio anterior",
+        "El porcentaje que determine cada convenio colectivo sectorial"
+      ],
+      "correct": 0,
+      "exp": "El art. 21.2 fija como techo los límites que anualmente establezca la Ley de Presupuestos Generales del Estado para el personal.",
+      "fuente": "Art. 21.2 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 22.4 del TREBEP, las pagas extraordinarias se calculan sobre la totalidad de las retribuciones complementarias, salvo las referidas a los apartados:",
+      "options": [
+        "a) y b) del artículo 23",
+        "c) y d) del artículo 24",
+        "b) y c) del artículo 22"
+      ],
+      "correct": 1,
+      "exp": "El art. 22.4 excluye del cálculo de las pagas extraordinarias las retribuciones complementarias correspondientes a los apartados c) y d) del artículo 24 (rendimiento y servicios extraordinarios).",
+      "fuente": "Art. 22.4 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 22.5 del TREBEP, los funcionarios no podrán percibir participación en tributos o en cualquier otro ingreso de las Administraciones Públicas como contraprestación de:",
+      "options": [
+        "Los servicios extraordinarios prestados fuera de la jornada normal",
+        "El desempeño de puestos de especial responsabilidad",
+        "Cualquier servicio, participación o premio en multas impuestas"
+      ],
+      "correct": 2,
+      "exp": "El art. 22.5 prohíbe percibir participación en tributos o en cualquier otro ingreso público como contraprestación de cualquier servicio, participación o premio en multas.",
+      "fuente": "Art. 22.5 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 22.5 del TREBEP, la prohibición de percibir premios en multas impuestas se aplica:",
+      "options": [
+        "Aun cuando estuviesen normativamente atribuidas a los servicios",
+        "Solo si no existe atribución normativa expresa a los servicios",
+        "Únicamente durante el primer año de servicio activo"
+      ],
+      "correct": 0,
+      "exp": "El precepto es tajante: la prohibición opera aun cuando esos ingresos estuviesen normativamente atribuidos a los servicios.",
+      "fuente": "Art. 22.5 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 24 del TREBEP, los factores que enumera para determinar la cuantía y estructura de las retribuciones complementarias se relacionan:",
+      "options": [
+        "Con carácter cerrado y exhaustivo, sin admitir otros",
+        "Entre otros, es decir, sin agotar la lista",
+        "Solo a título orientativo, careciendo de eficacia normativa"
+      ],
+      "correct": 1,
+      "exp": "El art. 24 dice 'atendiendo, entre otros, a los siguientes factores', lo que indica que la lista no es cerrada.",
+      "fuente": "Art. 24 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 24 b) del TREBEP, entre los factores de las retribuciones complementarias se encuentra:",
+      "options": [
+        "La antigüedad acumulada por cada tres años de servicio",
+        "El número de pagas extraordinarias percibidas en el ejercicio",
+        "La especial dificultad técnica, responsabilidad, dedicación o incompatibilidad exigible para determinados puestos"
+      ],
+      "correct": 2,
+      "exp": "El art. 24 b) recoge la especial dificultad técnica, responsabilidad, dedicación, incompatibilidad exigible o las condiciones en que se desarrolla el trabajo.",
+      "fuente": "Art. 24 b) TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 24 c) del TREBEP, entre los factores de las retribuciones complementarias se encuentra:",
+      "options": [
+        "El grado de interés, iniciativa o esfuerzo y el rendimiento o resultados obtenidos",
+        "La progresión alcanzada en el sistema de carrera administrativa",
+        "Los servicios extraordinarios prestados fuera de la jornada normal"
+      ],
+      "correct": 0,
+      "exp": "El art. 24 c) se refiere al grado de interés, iniciativa o esfuerzo con que se desempeña el trabajo y al rendimiento o resultados obtenidos.",
+      "fuente": "Art. 24 c) TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 24 d) del TREBEP, entre los factores de las retribuciones complementarias se incluyen:",
+      "options": [
+        "La adscripción del cuerpo o escala a un Subgrupo de clasificación",
+        "Los servicios extraordinarios prestados fuera de la jornada normal de trabajo",
+        "Las cantidades destinadas a planes de pensiones de empleo"
+      ],
+      "correct": 1,
+      "exp": "El art. 24 d) contempla los servicios extraordinarios prestados fuera de la jornada normal de trabajo.",
+      "fuente": "Art. 24 d) TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Comparando los arts. 23 y 24 del TREBEP, mientras las retribuciones básicas se fijan en la Ley de Presupuestos Generales del Estado, la cuantía y estructura de las retribuciones complementarias se establecen en:",
+      "options": [
+        "El convenio colectivo único para todas las Administraciones",
+        "El reglamento interno de cada organismo autónomo",
+        "Las correspondientes leyes de cada Administración Pública"
+      ],
+      "correct": 2,
+      "exp": "El art. 24 atribuye a las leyes de cada Administración Pública la fijación de la cuantía y estructura de las retribuciones complementarias, frente a la LPGE que fija las básicas.",
+      "fuente": "Art. 24 TREBEP (RDLeg 5/2015)",
+      "confianza": "media"
+    },
+    {
+      "q": "Según el art. 25.1 del TREBEP, los funcionarios interinos percibirán las retribuciones básicas y las pagas extraordinarias correspondientes:",
+      "options": [
+        "Al Subgrupo o Grupo de adscripción, en el supuesto de que este no tenga Subgrupo",
+        "A la categoría superior del cuerpo al que aspiren a ingresar",
+        "A la media retributiva del personal laboral fijo comparable"
+      ],
+      "correct": 0,
+      "exp": "El art. 25.1 vincula las básicas y pagas extraordinarias de los interinos al Subgrupo o Grupo de adscripción.",
+      "fuente": "Art. 25.1 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 25.1 del TREBEP, de las retribuciones complementarias del art. 24, los funcionarios interinos perciben las correspondientes a los apartados:",
+      "options": [
+        "a) y b)",
+        "b), c) y d)",
+        "a), c) y d)"
+      ],
+      "correct": 1,
+      "exp": "El art. 25.1 remite expresamente a los apartados b), c) y d) del artículo 24 para las retribuciones complementarias de los interinos.",
+      "fuente": "Art. 25.1 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 25.1 del TREBEP, además de las retribuciones básicas y complementarias señaladas, los funcionarios interinos percibirán las correspondientes a:",
+      "options": [
+        "La categoría máxima alcanzable en el cuerpo o escala",
+        "El grado personal consolidado por el funcionario de carrera sustituido",
+        "La categoría de entrada en el cuerpo o escala en el que se les nombre"
+      ],
+      "correct": 2,
+      "exp": "El art. 25.1 añade las retribuciones correspondientes a la categoría de entrada en el cuerpo o escala en que se nombre al interino.",
+      "fuente": "Art. 25.1 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 25.2 del TREBEP, respecto de los funcionarios interinos, ¿qué se reconocerá en relación con los trienios?",
+      "options": [
+        "Los correspondientes a los servicios prestados antes de la entrada en vigor del Estatuto",
+        "El doble de su cuantía durante los cinco primeros años",
+        "Ninguno, al no consolidarse la antigüedad en la interinidad"
+      ],
+      "correct": 0,
+      "exp": "El art. 25.2 reconoce a los interinos los trienios correspondientes a servicios prestados antes de la entrada en vigor del Estatuto.",
+      "fuente": "Art. 25.2 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 25.2 del TREBEP, los trienios reconocidos por servicios prestados antes de la entrada en vigor del Estatuto tendrán efectos retributivos:",
+      "options": [
+        "Con carácter retroactivo desde el inicio de dichos servicios",
+        "Únicamente a partir de la entrada en vigor del propio Estatuto",
+        "Solo tras la superación del proceso selectivo correspondiente"
+      ],
+      "correct": 1,
+      "exp": "El art. 25.2 precisa que esos trienios tendrán efectos retributivos únicamente a partir de la entrada en vigor del Estatuto.",
+      "fuente": "Art. 25.2 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 26 del TREBEP, las retribuciones de los funcionarios en prácticas se corresponderán, como mínimo, con:",
+      "options": [
+        "La totalidad de las retribuciones básicas y complementarias del puesto",
+        "El salario mínimo interprofesional vigente",
+        "El sueldo del Subgrupo o Grupo en que aspiren a ingresar"
+      ],
+      "correct": 2,
+      "exp": "El art. 26 fija como suelo mínimo el sueldo del Subgrupo o Grupo (o Grupo si no tiene Subgrupo) en que aspiren a ingresar, sin impedir que se fije una cuantía mayor.",
+      "fuente": "Art. 26 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 27 del TREBEP, las retribuciones del personal laboral, fijadas según la legislación laboral, el convenio colectivo y el contrato de trabajo, deben respetar en todo caso lo establecido en:",
+      "options": [
+        "El artículo 21 del propio Estatuto",
+        "El artículo 24 del propio Estatuto",
+        "El Estatuto de los Trabajadores en su integridad"
+      ],
+      "correct": 0,
+      "exp": "El art. 27 cierra remitiendo a que, en todo caso, se respete lo establecido en el artículo 21 (límites de incremento de la masa salarial).",
+      "fuente": "Art. 27 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 28 del TREBEP, ¿qué percibirán los funcionarios además de sus retribuciones básicas y complementarias?",
+      "options": [
+        "Un complemento de disponibilidad permanente con carácter general",
+        "Las indemnizaciones correspondientes por razón del servicio",
+        "Una paga extraordinaria adicional por antigüedad"
+      ],
+      "correct": 1,
+      "exp": "El art. 28 establece que los funcionarios percibirán las indemnizaciones correspondientes por razón del servicio.",
+      "fuente": "Art. 28 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 28 del TREBEP, las indemnizaciones que perciben los funcionarios se justifican:",
+      "options": [
+        "Por razón de cargas familiares",
+        "Por razón de residencia en zonas de especial dificultad",
+        "Por razón del servicio"
+      ],
+      "correct": 2,
+      "exp": "El art. 28 vincula expresamente las indemnizaciones al concepto 'por razón del servicio'.",
+      "fuente": "Art. 28 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 29 del TREBEP, las Administraciones Públicas podrán destinar cantidades de la masa salarial a financiar:",
+      "options": [
+        "Aportaciones a planes de pensiones de empleo o contratos de seguro colectivos",
+        "Anticipos reintegrables sin interés para todo el personal",
+        "Complementos de productividad extraordinarios de fin de año"
+      ],
+      "correct": 0,
+      "exp": "El art. 29 permite destinar cantidades a financiar aportaciones a planes de pensiones de empleo o contratos de seguro colectivos.",
+      "fuente": "Art. 29 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 29 del TREBEP, los planes de pensiones de empleo o contratos de seguro colectivo a que se refiere deben incluir la cobertura de la contingencia de:",
+      "options": [
+        "Incapacidad temporal",
+        "Jubilación",
+        "Desempleo"
+      ],
+      "correct": 1,
+      "exp": "El art. 29 exige que esos instrumentos incluyan la cobertura de la contingencia de jubilación.",
+      "fuente": "Art. 29 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 29 del TREBEP, las cantidades destinadas a financiar aportaciones a planes de pensiones de empleo tienen como límite:",
+      "options": [
+        "El 5 por ciento de la masa salarial en todo caso",
+        "El importe equivalente a una paga extraordinaria por trabajador",
+        "El porcentaje de la masa salarial que se fije en las correspondientes Leyes de Presupuestos Generales del Estado"
+      ],
+      "correct": 2,
+      "exp": "El art. 29 remite el límite al porcentaje de la masa salarial que fijen las correspondientes Leyes de Presupuestos Generales del Estado.",
+      "fuente": "Art. 29 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 29 del TREBEP, las aportaciones a planes de pensiones de empleo se destinan, para la contingencia de jubilación, a:",
+      "options": [
+        "El personal incluido en sus ámbitos",
+        "Exclusivamente los funcionarios de carrera con más de veinte años de servicio",
+        "El personal directivo de las Administraciones Públicas"
+      ],
+      "correct": 0,
+      "exp": "El art. 29 se refiere al personal incluido en sus ámbitos, sin restringirlo a un colectivo concreto.",
+      "fuente": "Art. 29 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 29 del TREBEP, las cantidades destinadas a financiar aportaciones a planes de pensiones o contratos de seguros tendrán la consideración de:",
+      "options": [
+        "Indemnización por razón del servicio",
+        "Retribución diferida, a todos los efectos",
+        "Complemento de destino no consolidable"
+      ],
+      "correct": 1,
+      "exp": "El art. 29 califica esas cantidades, a todos los efectos, como retribución diferida.",
+      "fuente": "Art. 29 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 30.1 del TREBEP, la parte de jornada no realizada dará lugar a:",
+      "options": [
+        "La pérdida total de las retribuciones complementarias del mes",
+        "La apertura automática de expediente disciplinario",
+        "La deducción proporcional de haberes"
+      ],
+      "correct": 2,
+      "exp": "El art. 30.1 establece que la parte de jornada no realizada da lugar a la deducción proporcional de haberes.",
+      "fuente": "Art. 30.1 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 30.1 del TREBEP, la deducción proporcional de haberes por la jornada no realizada se aplica:",
+      "options": [
+        "Sin perjuicio de la sanción disciplinaria que pueda corresponder",
+        "En sustitución de cualquier sanción disciplinaria que pudiera corresponder",
+        "Solo cuando no exista posibilidad de sanción disciplinaria"
+      ],
+      "correct": 0,
+      "exp": "El art. 30.1 aclara que la deducción opera sin perjuicio de la sanción disciplinaria que, en su caso, pueda corresponder.",
+      "fuente": "Art. 30.1 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 30.1 del TREBEP, la deducción proporcional de haberes por la parte de jornada no realizada:",
+      "options": [
+        "Tendrá siempre carácter sancionador",
+        "No tendrá carácter sancionador",
+        "Solo se aplicará tras resolución sancionadora firme"
+      ],
+      "correct": 1,
+      "exp": "El art. 30.1 señala expresamente que esa deducción no tendrá carácter sancionador.",
+      "fuente": "Art. 30.1 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 30.2 del TREBEP, quienes ejerciten el derecho de huelga:",
+      "options": [
+        "Devengarán íntegramente sus retribuciones básicas durante la huelga",
+        "Percibirán solo el sueldo, pero no los trienios",
+        "No devengarán ni percibirán las retribuciones correspondientes al tiempo en que hayan permanecido en esa situación"
+      ],
+      "correct": 2,
+      "exp": "El art. 30.2 dispone que quienes ejerzan el derecho de huelga no devengarán ni percibirán las retribuciones del tiempo de huelga.",
+      "fuente": "Art. 30.2 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 30.2 del TREBEP, la deducción de haberes que se efectúe por el ejercicio del derecho de huelga:",
+      "options": [
+        "No tendrá carácter de sanción",
+        "Tendrá siempre la consideración de sanción leve",
+        "Requerirá la apertura de expediente disciplinario previo"
+      ],
+      "correct": 0,
+      "exp": "El art. 30.2 precisa que esa deducción de haberes no tiene carácter de sanción.",
+      "fuente": "Art. 30.2 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 30.2 del TREBEP, la deducción de haberes por el ejercicio del derecho de huelga:",
+      "options": [
+        "Afecta proporcionalmente al régimen de prestaciones sociales",
+        "No afecta al régimen respectivo de las prestaciones sociales",
+        "Suspende automáticamente el alta en Seguridad Social"
+      ],
+      "correct": 1,
+      "exp": "El art. 30.2 garantiza que dicha deducción no afecta al régimen respectivo de las prestaciones sociales del empleado.",
+      "fuente": "Art. 30.2 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué artículo del TREBEP lleva por título 'Determinación de las cuantías y de los incrementos retributivos'?",
+      "options": [
+        "Artículo 20",
+        "Artículo 22",
+        "Artículo 21"
+      ],
+      "correct": 2,
+      "exp": "Ese es el título del artículo 21, dentro del capítulo de derechos retributivos.",
+      "fuente": "Art. 21 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué artículo del TREBEP lleva por título 'Indemnizaciones'?",
+      "options": [
+        "Artículo 28",
+        "Artículo 27",
+        "Artículo 29"
+      ],
+      "correct": 0,
+      "exp": "El título 'Indemnizaciones' corresponde al artículo 28 del TREBEP.",
+      "fuente": "Art. 28 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué artículo del TREBEP lleva por título 'Retribuciones diferidas'?",
+      "options": [
+        "Artículo 28",
+        "Artículo 29",
+        "Artículo 30"
+      ],
+      "correct": 1,
+      "exp": "El título 'Retribuciones diferidas' corresponde al artículo 29 del TREBEP.",
+      "fuente": "Art. 29 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué artículo del TREBEP lleva por título 'Deducción de retribuciones'?",
+      "options": [
+        "Artículo 22",
+        "Artículo 25",
+        "Artículo 30"
+      ],
+      "correct": 2,
+      "exp": "El título 'Deducción de retribuciones' corresponde al artículo 30 del TREBEP.",
+      "fuente": "Art. 30 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué artículo del TREBEP lleva por título 'Retribuciones de los funcionarios interinos'?",
+      "options": [
+        "Artículo 25",
+        "Artículo 26",
+        "Artículo 27"
+      ],
+      "correct": 0,
+      "exp": "El título 'Retribuciones de los funcionarios interinos' corresponde al artículo 25 del TREBEP.",
+      "fuente": "Art. 25 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 29 del TREBEP, las aportaciones a planes de pensiones de empleo se realizarán de acuerdo con lo establecido en:",
+      "options": [
+        "El convenio colectivo estatal de aplicación general",
+        "La normativa reguladora de los Planes de Pensiones",
+        "El reglamento de régimen interior de cada Administración"
+      ],
+      "correct": 1,
+      "exp": "El art. 29 remite a la normativa reguladora de los Planes de Pensiones para la realización de esas aportaciones.",
+      "fuente": "Art. 29 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuántos apartados numerados contiene el artículo 30 del TREBEP ('Deducción de retribuciones')?",
+      "options": [
+        "Tres",
+        "Cuatro",
+        "Dos"
+      ],
+      "correct": 2,
+      "exp": "El artículo 30 se estructura en dos apartados: el 30.1 (deducción proporcional de haberes) y el 30.2 (deducción por huelga).",
+      "fuente": "Art. 30 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuántos apartados numerados contiene el artículo 21 del TREBEP ('Determinación de las cuantías y de los incrementos retributivos')?",
+      "options": [
+        "Dos",
+        "Uno",
+        "Tres"
+      ],
+      "correct": 0,
+      "exp": "El artículo 21 se estructura en dos apartados: el 21.1 (reflejo en la ley de presupuestos) y el 21.2 (límite anual de incremento).",
+      "fuente": "Art. 21 TREBEP (RDLeg 5/2015)",
+      "confianza": "alta"
+    }
+  ]
+}
