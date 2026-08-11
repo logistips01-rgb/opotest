@@ -6,6 +6,37 @@ un tema por tanda y con parada entre temas.
 El tema 21 queda **fuera del objetivo**: reproduce el examen oficial del
 1-jun-2025 y rellenarlo con preguntas generadas destruiría lo que lo hace útil.
 
+## Tema 13 · Haciendas Locales II: presupuesto, gasto público, tesorería, contabilidad y control — PRIMERA VUELTA CERRADA
+
+**340 preguntas** (de 100 que había), todas de 4 opciones. Seis lotes de 40,
+sobre el articulado completo del Título VI del TRLRHL (arts. 162 a 223),
+revisados uno por uno.
+
+| Lote | Tramo | Confirmadas | Corregidas | Rechazadas |
+|---|---|---|---|---|
+| A | Presupuesto general (arts. 162-169) | 39 | 1 | 0 |
+| B | Prórroga, créditos extraordinarios/suplementos, bajas (arts. 169.6-176) | 40 | 0 | 0 |
+| C | Transferencias, generación, ampliaciones, incorporaciones (arts. 177-182) | 40 | 0 | 0 |
+| D | Ejecución del gasto e ingreso, fases ADO (arts. 183-190) | 40 | 0 | 0 |
+| E | Liquidación y remanente de tesorería, tesorería (arts. 191-199) | 40 | 0 | 0 |
+| F | Contabilidad, Cuenta General, control y función interventora (arts. 200-219) | 40 | 0 | 0 |
+
+Notas:
+- Varios redactores señalaron, de paso, posibles citas desfasadas en el banco
+  ORIGINAL (no en estos lotes nuevos): preguntas que atribuyen a "art. 200"
+  contenido real del art. 205, a "art. 201" contenido del art. 203, a "art.
+  175" contenido del art. 177, y a "art. 184-190" definiciones que no están en
+  el TRLRHL (posiblemente de otra norma o desplazadas +1 artículo). Pendiente
+  de una futura pasada de corrección del banco original — igual que la nota
+  del art. 26.3 del tema 14 —, no urgente.
+- La estructura real de capítulos del Título VI TRLRHL difiere de la
+  paráfrasis inicial de `fuentes.json` (contabilidad es el Cap. III y control
+  el Cap. IV, no VI/VII como se apuntaba); no afecta a las preguntas porque
+  todas citan artículo/apartado, no número de capítulo.
+
+Quedan 160 preguntas para llegar a 500: pendiente de segunda ronda si se
+decide seguir profundizando en este tema.
+
 ## Tema 14 · El municipio: organización y competencias. Régimen especial de Zaragoza — CERRADO
 
 **688 preguntas** (de 349 que había), todas de 4 opciones. Cuatro lotes de 40,
