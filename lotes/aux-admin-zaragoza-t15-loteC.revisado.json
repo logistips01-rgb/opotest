@@ -1,0 +1,606 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 15,
+  "preguntas": [
+    {
+      "q": "¿Qué instrumento permite a las personas comunicarse con las Administraciones Públicas según el art. 13.a) LPAC?",
+      "options": [
+        "Sede electrónica de cada organismo",
+        "Carpeta Ciudadana",
+        "Punto de Acceso General electrónico de la Administración",
+        "Registro Electrónico General"
+      ],
+      "correct": 2,
+      "exp": "El art. 13.a) reconoce el derecho a comunicarse con las Administraciones Públicas a través de un Punto de Acceso General electrónico de la Administración.",
+      "fuente": "Art. 13.a) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 13.a) LPAC literal: \"A comunicarse con las Administraciones Públicas a través de un Punto de Acceso General electrónico de la Administración.\" Coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 13.b) LPAC, ¿qué derecho se reconoce a las personas en relación con los medios electrónicos?",
+      "options": [
+        "A recibir formación gratuita en medios electrónicos",
+        "A ser asistidas en el uso de medios electrónicos en sus relaciones con las AAPP",
+        "A elegir libremente el canal de comunicación electrónico",
+        "A disponer de firma electrónica gratuita"
+      ],
+      "correct": 1,
+      "exp": "El art. 13.b) reconoce el derecho a ser asistidos en el uso de medios electrónicos en las relaciones con las Administraciones Públicas.",
+      "fuente": "Art. 13.b) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 13.b) LPAC literal: \"A ser asistidos en el uso de medios electrónicos en sus relaciones con las Administraciones Públicas.\" Coincide."
+    },
+    {
+      "q": "El art. 13.c) LPAC reconoce el derecho a utilizar las lenguas oficiales...",
+      "options": [
+        "Únicamente en los procedimientos judiciales",
+        "Solo ante la Administración General del Estado",
+        "En cualquier Comunidad Autónoma, con independencia de su lugar de residencia",
+        "En el territorio de su Comunidad Autónoma, de acuerdo con lo previsto en esta Ley y el resto del ordenamiento jurídico"
+      ],
+      "correct": 3,
+      "exp": "El art. 13.c) reconoce el derecho a utilizar las lenguas oficiales en el territorio de su Comunidad Autónoma, de acuerdo con lo previsto en la LPAC y el resto del ordenamiento jurídico.",
+      "fuente": "Art. 13.c) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 13.c) LPAC literal: \"A utilizar las lenguas oficiales en el territorio de su Comunidad Autónoma, de acuerdo con lo previsto en esta Ley y en el resto del ordenamiento jurídico.\" Coincide."
+    },
+    {
+      "q": "El derecho de acceso a la información pública, archivos y registros reconocido en el art. 13.d) LPAC se ejerce de acuerdo con:",
+      "options": [
+        "La Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, y el resto del ordenamiento jurídico",
+        "El Reglamento (UE) 2016/679",
+        "La Ley Orgánica 3/2018",
+        "La propia LPAC exclusivamente"
+      ],
+      "correct": 0,
+      "exp": "El art. 13.d) remite a la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, y al resto del ordenamiento jurídico.",
+      "fuente": "Art. 13.d) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 13.d) LPAC literal: \"...de acuerdo con lo previsto en la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno y el resto del Ordenamiento Jurídico.\" Coincide."
+    },
+    {
+      "q": "Según el art. 13.e) LPAC, las personas tienen derecho a ser tratadas por las autoridades y empleados públicos...",
+      "options": [
+        "Con celeridad procedimental garantizada por ley",
+        "De forma gratuita en todos los trámites",
+        "Con respeto y deferencia, que habrán de facilitarles el ejercicio de sus derechos y el cumplimiento de sus obligaciones",
+        "Con carácter reservado y confidencial en todo caso"
+      ],
+      "correct": 2,
+      "exp": "El art. 13.e) reconoce el derecho a ser tratados con respeto y deferencia por las autoridades y empleados públicos, que habrán de facilitarles el ejercicio de sus derechos y el cumplimiento de sus obligaciones.",
+      "fuente": "Art. 13.e) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 13.e) LPAC literal: \"A ser tratados con respeto y deferencia por las autoridades y empleados públicos, que habrán de facilitarles el ejercicio de sus derechos y el cumplimiento de sus obligaciones.\" Coincide."
+    },
+    {
+      "q": "El art. 13.f) LPAC reconoce el derecho a...",
+      "options": [
+        "Recurrir gratuitamente cualquier resolución administrativa",
+        "Exigir las responsabilidades de las Administraciones Públicas y autoridades, cuando así corresponda legalmente",
+        "Obtener indemnización automática por retraso",
+        "Denunciar ante el Defensor del Pueblo sin plazo"
+      ],
+      "correct": 1,
+      "exp": "El art. 13.f) reconoce el derecho a exigir las responsabilidades de las Administraciones Públicas y autoridades, cuando así corresponda legalmente.",
+      "fuente": "Art. 13.f) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 13.f) LPAC literal: \"A exigir las responsabilidades de las Administraciones Públicas y autoridades, cuando así corresponda legalmente.\" Coincide."
+    },
+    {
+      "q": "Según el art. 13.g) LPAC, ¿qué derecho se reconoce en relación con la identificación y la firma?",
+      "options": [
+        "Firmar únicamente de forma manuscrita",
+        "Un certificado digital gratuito de validez indefinida",
+        "Delegar la firma electrónica en un tercero sin control",
+        "La obtención y utilización de los medios de identificación y firma electrónica contemplados en la ley"
+      ],
+      "correct": 3,
+      "exp": "El art. 13.g) reconoce el derecho a la obtención y utilización de los medios de identificación y firma electrónica contemplados en la LPAC.",
+      "fuente": "Art. 13.g) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 13.g) LPAC literal: \"A la obtención y utilización de los medios de identificación y firma electrónica contemplados en esta Ley.\" Coincide."
+    },
+    {
+      "q": "El art. 13.h) LPAC reconoce el derecho a la protección de datos de carácter personal, en particular a:",
+      "options": [
+        "La seguridad y confidencialidad de los datos que figuren en los ficheros, sistemas y aplicaciones de las AAPP",
+        "La eliminación automática de datos tras cada trámite",
+        "La portabilidad de datos entre AAPP sin consentimiento",
+        "La anonimización obligatoria de todos los expedientes"
+      ],
+      "correct": 0,
+      "exp": "El art. 13.h) reconoce el derecho a la protección de datos de carácter personal, en particular a la seguridad y confidencialidad de los datos que figuren en los ficheros, sistemas y aplicaciones de las AAPP.",
+      "fuente": "Art. 13.h) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 13.h) LPAC literal: \"A la protección de datos de carácter personal, y en particular a la seguridad y confidencialidad de los datos que figuren en los ficheros, sistemas y aplicaciones de las Administraciones Públicas.\" Coincide."
+    },
+    {
+      "q": "Según el último párrafo del art. 13 LPAC, los derechos reconocidos en ese artículo se entienden sin perjuicio de los reconocidos en:",
+      "options": [
+        "El art. 3, sobre capacidad de obrar",
+        "El art. 14, sobre relación electrónica",
+        "El art. 53, referidos a los interesados en el procedimiento administrativo",
+        "El art. 16, sobre registros"
+      ],
+      "correct": 2,
+      "exp": "El art. 13 termina indicando que estos derechos se entienden sin perjuicio de los reconocidos en el artículo 53, referidos a los interesados en el procedimiento administrativo.",
+      "fuente": "Art. 13, último párrafo, LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Último párrafo del art. 13 LPAC, literal: \"Estos derechos se entienden sin perjuicio de los reconocidos en el artículo 53 referidos a los interesados en el procedimiento administrativo.\" Coincide."
+    },
+    {
+      "q": "¿Quiénes son titulares de los derechos enumerados en el art. 13 LPAC?",
+      "options": [
+        "Únicamente las personas jurídicas",
+        "Quienes, de conformidad con el art. 3, tienen capacidad de obrar ante las AAPP",
+        "Solo los funcionarios públicos",
+        "Exclusivamente los residentes en territorio español"
+      ],
+      "correct": 1,
+      "exp": "El art. 13 dispone que quienes, de conformidad con el artículo 3, tienen capacidad de obrar ante las Administraciones Públicas, son titulares de esos derechos.",
+      "fuente": "Art. 13 (encabezado) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Encabezado del art. 13 LPAC, literal: \"Quienes de conformidad con el artículo 3, tienen capacidad de obrar ante las Administraciones Públicas, son titulares, en sus relaciones con ellas, de los siguientes derechos:\" Coincide."
+    },
+    {
+      "q": "Según el art. 13.i) LPAC, además de los derechos enumerados expresamente, las personas son titulares de:",
+      "options": [
+        "Los derechos reconocidos exclusivamente en tratados internacionales",
+        "Ningún otro derecho adicional",
+        "Los derechos que determine cada Comunidad Autónoma",
+        "Cualesquiera otros que les reconozcan la Constitución y las leyes"
+      ],
+      "correct": 3,
+      "exp": "El art. 13.i) reconoce como derecho cualesquiera otros que les reconozcan la Constitución y las leyes.",
+      "fuente": "Art. 13.i) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 13.i) LPAC literal: \"Cualesquiera otros que les reconozcan la Constitución y las leyes.\" Coincide."
+    },
+    {
+      "q": "¿En qué artículo de la LPAC se regulan los «Derechos de las personas en sus relaciones con las Administraciones Públicas»?",
+      "options": [
+        "Artículo 13",
+        "Artículo 14",
+        "Artículo 16",
+        "Artículo 53"
+      ],
+      "correct": 0,
+      "exp": "El título del art. 13 LPAC es «Derechos de las personas en sus relaciones con las Administraciones Públicas».",
+      "fuente": "Art. 13 (título) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Título del art. 13 LPAC, literal: \"Artículo 13. Derechos de las personas en sus relaciones con las Administraciones Públicas.\" Coincide."
+    },
+    {
+      "q": "Según el art. 16.1 LPAC, ¿de qué debe disponer cada Administración?",
+      "options": [
+        "De un archivo físico centralizado obligatorio",
+        "De un Registro Electrónico General, en el que se hará el correspondiente asiento de todo documento presentado o recibido",
+        "De una oficina de asistencia presencial exclusiva",
+        "De un registro mercantil propio"
+      ],
+      "correct": 1,
+      "exp": "El art. 16.1, párrafo primero, establece que cada Administración dispondrá de un Registro Electrónico General, en el que se hará el correspondiente asiento de todo documento que sea presentado o que se reciba.",
+      "fuente": "Art. 16.1, párr. 1º, LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 16.1, párrafo 1º, LPAC literal: \"Cada Administración dispondrá de un Registro Electrónico General, en el que se hará el correspondiente asiento de todo documento que sea presentado o que se reciba en cualquier órgano administrativo, Organismo público o Entidad vinculado o dependiente a éstos.\" Coincide."
+    },
+    {
+      "q": "Según el art. 16.1 LPAC, los Organismos públicos vinculados o dependientes de cada Administración:",
+      "options": [
+        "Están obligados a utilizar exclusivamente el registro de la Administración matriz",
+        "No pueden tener registro electrónico propio",
+        "Podrán disponer de su propio registro electrónico, plenamente interoperable e interconectado con el Registro Electrónico General",
+        "Deben crear un registro en papel adicional"
+      ],
+      "correct": 2,
+      "exp": "El art. 16.1, párrafo segundo, permite que los Organismos públicos vinculados o dependientes dispongan de su propio registro electrónico, plenamente interoperable e interconectado con el Registro Electrónico General de la Administración de la que dependen.",
+      "fuente": "Art. 16.1, párr. 2º, LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 16.1, párrafo 2º, LPAC literal: \"Los Organismos públicos vinculados o dependientes de cada Administración podrán disponer de su propio registro electrónico plenamente interoperable e interconectado con el Registro Electrónico General de la Administración de la que depende.\" Coincide."
+    },
+    {
+      "q": "De acuerdo con el art. 16.1 LPAC, el Registro Electrónico General de cada Administración funcionará como:",
+      "options": [
+        "Un portal que facilitará el acceso a los registros electrónicos de cada Organismo",
+        "Un archivo histórico de expedientes cerrados",
+        "Un sistema exclusivo de notificaciones",
+        "Un directorio de funcionarios habilitados"
+      ],
+      "correct": 0,
+      "exp": "El art. 16.1, párrafo tercero, indica que el Registro Electrónico General funcionará como un portal que facilitará el acceso a los registros electrónicos de cada Organismo.",
+      "fuente": "Art. 16.1, párr. 3º, LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 16.1, párrafo 3º, LPAC literal: \"El Registro Electrónico General de cada Administración funcionará como un portal que facilitará el acceso a los registros electrónicos de cada Organismo.\" Coincide."
+    },
+    {
+      "q": "Según el art. 16.1 LPAC, las disposiciones de creación de los registros electrónicos deberán especificar, en todo caso:",
+      "options": [
+        "El presupuesto anual destinado al registro",
+        "El número máximo de asientos diarios",
+        "La plantilla de personal adscrita al registro",
+        "El órgano o unidad responsable de su gestión, así como la fecha y hora oficial y los días declarados inhábiles"
+      ],
+      "correct": 3,
+      "exp": "El art. 16.1, párrafo cuarto, exige que las disposiciones de creación de registros electrónicos especifiquen el órgano o unidad responsable de su gestión, la fecha y hora oficial y los días declarados inhábiles.",
+      "fuente": "Art. 16.1, párr. 4º, LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 16.1, párrafo 4º, LPAC literal: \"En todo caso, las disposiciones de creación de registros electrónicos especificarán el órgano o unidad responsable de su gestión, así como la fecha y hora oficial y los días declarados como inhábiles.\" Coincide."
+    },
+    {
+      "q": "Según el art. 16.2 LPAC, ¿cómo se anotarán los asientos en el registro?",
+      "options": [
+        "Por orden alfabético del interesado",
+        "Respetando el orden temporal de recepción o salida de los documentos, indicando la fecha del día en que se produzcan",
+        "Por orden de importancia del trámite",
+        "Agrupados semanalmente sin indicar fecha exacta"
+      ],
+      "correct": 1,
+      "exp": "El art. 16.2 dispone que los asientos se anotarán respetando el orden temporal de recepción o salida de los documentos, e indicarán la fecha del día en que se produzcan.",
+      "fuente": "Art. 16.2 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 16.2 LPAC literal: \"Los asientos se anotarán respetando el orden temporal de recepción o salida de los documentos, e indicarán la fecha del día en que se produzcan.\" Coincide."
+    },
+    {
+      "q": "Según el art. 16.3 LPAC, el registro electrónico garantizará la constancia, en cada asiento, entre otros datos, de:",
+      "options": [
+        "El número de expediente judicial asociado",
+        "El importe económico del trámite",
+        "Un número, epígrafe expresivo de su naturaleza, fecha y hora de presentación, e identificación del interesado",
+        "La nacionalidad del interesado exclusivamente"
+      ],
+      "correct": 2,
+      "exp": "El art. 16.3 exige que cada asiento conste de un número, epígrafe expresivo de su naturaleza, fecha y hora de presentación e identificación del interesado, entre otros extremos.",
+      "fuente": "Art. 16.3 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 16.3 LPAC literal: \"El registro electrónico...garantizará la constancia, en cada asiento que se practique, de un número, epígrafe expresivo de su naturaleza, fecha y hora de su presentación, identificación del interesado...(entre otros extremos).\" Coincide."
+    },
+    {
+      "q": "Según el art. 16.3 LPAC, tras el trámite de registro, ¿qué recibo se emite automáticamente?",
+      "options": [
+        "Una copia autenticada del documento, incluyendo fecha, hora de presentación y número de entrada de registro",
+        "Un justificante de pago de tasas",
+        "Un certificado de residencia",
+        "Un volante de empadronamiento"
+      ],
+      "correct": 0,
+      "exp": "El art. 16.3 establece que se emitirá automáticamente un recibo consistente en una copia autenticada del documento, incluyendo la fecha y hora de presentación y el número de entrada de registro.",
+      "fuente": "Art. 16.3 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 16.3 LPAC literal: \"...se emitirá automáticamente un recibo consistente en una copia autenticada del documento de que se trate, incluyendo la fecha y hora de presentación y el número de entrada de registro...\" Coincide."
+    },
+    {
+      "q": "Según el art. 16.4 LPAC, ¿en cuál de los siguientes lugares NO pueden presentarse los documentos dirigidos a los órganos de las AAPP?",
+      "options": [
+        "En cualquier notaría del territorio nacional",
+        "En el registro electrónico de la Administración u Organismo al que se dirijan",
+        "En las oficinas de Correos, en la forma que reglamentariamente se establezca",
+        "En las representaciones diplomáticas u oficinas consulares de España en el extranjero"
+      ],
+      "correct": 0,
+      "exp": "El art. 16.4 no incluye las notarías entre los lugares de presentación; sí menciona el registro electrónico del destinatario, las oficinas de Correos y las representaciones diplomáticas o consulares.",
+      "fuente": "Art. 16.4 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 16.4 LPAC literal: los lugares de presentación listados son a) registro electrónico del destinatario, b) oficinas de Correos, c) representaciones diplomáticas/consulares, d) oficinas de asistencia en materia de registros, e) cualquier otro que establezcan las disposiciones vigentes; las notarías no figuran en el listado. Coincide."
+    },
+    {
+      "q": "Según el art. 16.4.d) LPAC, uno de los lugares donde pueden presentarse los documentos es:",
+      "options": [
+        "Las notarías",
+        "Los registros mercantiles",
+        "Las cámaras de comercio",
+        "Las oficinas de asistencia en materia de registros"
+      ],
+      "correct": 3,
+      "exp": "El art. 16.4.d) permite la presentación de documentos en las oficinas de asistencia en materia de registros.",
+      "fuente": "Art. 16.4.d) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 16.4.d) LPAC literal: \"En las oficinas de asistencia en materia de registros.\" Coincide."
+    },
+    {
+      "q": "Según el art. 16.4 LPAC, los registros electrónicos de todas las Administraciones deberán ser plenamente interoperables para garantizar:",
+      "options": [
+        "La eliminación automática de documentos duplicados",
+        "Su compatibilidad informática e interconexión, así como la transmisión telemática de los asientos registrales",
+        "La centralización de todos los registros en el Estado",
+        "La privatización de la gestión registral"
+      ],
+      "correct": 1,
+      "exp": "El art. 16.4, último párrafo, exige que los registros electrónicos sean plenamente interoperables para garantizar su compatibilidad informática e interconexión, así como la transmisión telemática de los asientos registrales y de los documentos.",
+      "fuente": "Art. 16.4, último párrafo, LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 16.4, último párrafo, LPAC literal: \"Los registros electrónicos de todas y cada una de las Administraciones, deberán ser plenamente interoperables, de modo que se garantice su compatibilidad informática e interconexión, así como la transmisión telemática de los asientos registrales y de los documentos...\" Coincide."
+    },
+    {
+      "q": "Según el art. 16.5 LPAC, los documentos presentados de manera presencial ante las AAPP deberán ser digitalizados por:",
+      "options": [
+        "El propio interesado antes de acudir a la oficina",
+        "Una empresa privada homologada, con coste a cargo del interesado",
+        "La oficina de asistencia en materia de registros en la que hayan sido presentados, devolviéndose los originales al interesado",
+        "El órgano judicial competente"
+      ],
+      "correct": 2,
+      "exp": "El art. 16.5 establece que los documentos presentados presencialmente serán digitalizados por la oficina de asistencia en materia de registros en la que hayan sido presentados, devolviéndose los originales al interesado.",
+      "fuente": "Art. 16.5 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 16.5 LPAC literal: \"...deberán ser digitalizados, de acuerdo con lo previsto en el artículo 27 y demás normativa aplicable, por la oficina de asistencia en materia de registros en la que hayan sido presentados...devolviéndose los originales al interesado...\" Coincide."
+    },
+    {
+      "q": "Según el art. 16.5 LPAC, la digitalización de los documentos presentados presencialmente se realizará de acuerdo con lo previsto en:",
+      "options": [
+        "El artículo 27 y demás normativa aplicable",
+        "El artículo 3",
+        "El artículo 53",
+        "El artículo 98"
+      ],
+      "correct": 0,
+      "exp": "El art. 16.5 remite expresamente a lo previsto en el artículo 27 y demás normativa aplicable para la digitalización de los documentos presentados presencialmente.",
+      "fuente": "Art. 16.5 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 16.5 LPAC literal: \"...deberán ser digitalizados, de acuerdo con lo previsto en el artículo 27 y demás normativa aplicable...\" Coincide."
+    },
+    {
+      "q": "Según el art. 16.7 LPAC, las Administraciones Públicas deberán:",
+      "options": [
+        "Suprimir progresivamente las oficinas de asistencia presencial",
+        "Cobrar una tasa por el uso del registro electrónico",
+        "Limitar el acceso al registro a los días laborables exclusivamente",
+        "Hacer pública y mantener actualizada una relación de las oficinas en las que se prestará asistencia para la presentación electrónica de documentos"
+      ],
+      "correct": 3,
+      "exp": "El art. 16.7 obliga a las Administraciones a hacer pública y mantener actualizada una relación de las oficinas en las que se prestará asistencia para la presentación electrónica de documentos.",
+      "fuente": "Art. 16.7 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 16.7 LPAC literal: \"Las Administraciones Públicas deberán hacer pública y mantener actualizada una relación de las oficinas en las que se prestará asistencia para la presentación electrónica de documentos.\" Coincide."
+    },
+    {
+      "q": "Según el art. 16.8 LPAC, ¿qué ocurre con los documentos e información cuyo régimen especial establezca otra forma de presentación?",
+      "options": [
+        "Se presumirán presentados igualmente, con efectos retroactivos",
+        "No se tendrán por presentados en el registro",
+        "Se archivan sin más trámite",
+        "Se remiten de oficio al Defensor del Pueblo"
+      ],
+      "correct": 1,
+      "exp": "El art. 16.8 establece que no se tendrán por presentados en el registro aquellos documentos e información cuyo régimen especial establezca otra forma de presentación.",
+      "fuente": "Art. 16.8 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 16.8 LPAC literal: \"No se tendrán por presentados en el registro aquellos documentos e información cuyo régimen especial establezca otra forma de presentación.\" Coincide."
+    },
+    {
+      "q": "Según el art. 53.1.a) LPAC, los interesados tienen derecho a conocer, en cualquier momento:",
+      "options": [
+        "El sueldo del funcionario instructor",
+        "El número total de expedientes en tramitación en el órgano",
+        "El estado de la tramitación de los procedimientos en los que tengan la condición de interesados",
+        "El contenido de expedientes ajenos en los que no sean parte"
+      ],
+      "correct": 2,
+      "exp": "El art. 53.1.a) reconoce el derecho a conocer, en cualquier momento, el estado de la tramitación de los procedimientos en los que tengan la condición de interesados.",
+      "fuente": "Art. 53.1.a) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 53.1.a) LPAC literal: \"A conocer, en cualquier momento, el estado de la tramitación de los procedimientos en los que tengan la condición de interesados;...\" Coincide."
+    },
+    {
+      "q": "Según el art. 53.1.a) LPAC, además del estado de tramitación, los interesados tienen derecho a conocer:",
+      "options": [
+        "El sentido del silencio administrativo que corresponda, el órgano competente para la instrucción y resolución, y los actos de trámite dictados",
+        "El salario del titular del órgano competente",
+        "El organigrama completo de la Administración",
+        "El presupuesto anual del departamento"
+      ],
+      "correct": 0,
+      "exp": "El art. 53.1.a) añade el derecho a conocer el sentido del silencio administrativo que corresponda, el órgano competente para la instrucción y resolución, y los actos de trámite dictados.",
+      "fuente": "Art. 53.1.a) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 53.1.a) LPAC literal, continuación: \"...el sentido del silencio administrativo que corresponda...; el órgano competente para su instrucción, en su caso, y resolución; y los actos de trámite dictados.\" Coincide."
+    },
+    {
+      "q": "Según el art. 53.1.a) LPAC, quienes se relacionen con las AAPP a través de medios electrónicos tendrán derecho a consultar dicha información:",
+      "options": [
+        "Únicamente mediante solicitud presencial",
+        "A través de un abogado colegiado",
+        "Solo tras la finalización total del procedimiento",
+        "En el Punto de Acceso General electrónico de la Administración"
+      ],
+      "correct": 3,
+      "exp": "El art. 53.1.a), párrafo segundo, dispone que quienes se relacionen electrónicamente con las AAPP tienen derecho a consultar esa información en el Punto de Acceso General electrónico de la Administración, que funcionará como un portal de acceso.",
+      "fuente": "Art. 53.1.a), párr. 2º, LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 53.1.a), párrafo 2º, LPAC literal: \"Quienes se relacionen con las Administraciones Públicas a través de medios electrónicos, tendrán derecho a consultar la información...en el Punto de Acceso General electrónico de la Administración que funcionará como un portal de acceso.\" Coincide."
+    },
+    {
+      "q": "Según el art. 53.1.b) LPAC, los interesados tienen derecho a:",
+      "options": [
+        "Recusar libremente a cualquier funcionario sin motivación",
+        "Identificar a las autoridades y al personal al servicio de las AAPP bajo cuya responsabilidad se tramiten los procedimientos",
+        "Elegir al instructor del procedimiento",
+        "Exigir el cese del funcionario instructor"
+      ],
+      "correct": 1,
+      "exp": "El art. 53.1.b) reconoce el derecho a identificar a las autoridades y al personal al servicio de las Administraciones Públicas bajo cuya responsabilidad se tramiten los procedimientos.",
+      "fuente": "Art. 53.1.b) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 53.1.b) LPAC literal: \"A identificar a las autoridades y al personal al servicio de las Administraciones Públicas bajo cuya responsabilidad se tramiten los procedimientos.\" Coincide."
+    },
+    {
+      "q": "Según el art. 53.1.c) LPAC, los interesados tienen derecho a no presentar documentos originales, salvo que:",
+      "options": [
+        "De manera excepcional, la normativa reguladora aplicable establezca lo contrario",
+        "El importe del procedimiento supere los 3.000 euros",
+        "El procedimiento sea de naturaleza sancionadora",
+        "Lo solicite expresamente el instructor sin necesidad de norma habilitante"
+      ],
+      "correct": 0,
+      "exp": "El art. 53.1.c) reconoce el derecho a no presentar documentos originales, salvo que, de manera excepcional, la normativa reguladora aplicable establezca lo contrario.",
+      "fuente": "Art. 53.1.c) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 53.1.c) LPAC literal: \"A no presentar documentos originales salvo que, de manera excepcional, la normativa reguladora aplicable establezca lo contrario.\" Coincide."
+    },
+    {
+      "q": "Según el art. 53.1.c) LPAC, si excepcionalmente deben presentar un documento original, los interesados tienen derecho a:",
+      "options": [
+        "Recuperar el original en un plazo máximo de 24 horas",
+        "Que se les indemnice por la molestia",
+        "Obtener una copia autenticada de éste",
+        "Presentar una fotocopia sin cotejar"
+      ],
+      "correct": 2,
+      "exp": "El art. 53.1.c) añade que, en caso de deber presentar excepcionalmente un documento original, el interesado tendrá derecho a obtener una copia autenticada de éste.",
+      "fuente": "Art. 53.1.c) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 53.1.c) LPAC literal, continuación: \"En caso de que, excepcionalmente, deban presentar un documento original, tendrán derecho a obtener una copia autenticada de éste.\" Coincide."
+    },
+    {
+      "q": "Según el art. 53.1.d) LPAC, los interesados tienen derecho a no presentar datos y documentos:",
+      "options": [
+        "Que hayan sido solicitados por primera vez en ese procedimiento",
+        "No exigidos por las normas aplicables al procedimiento, que ya se encuentren en poder de las AAPP o hayan sido elaborados por éstas",
+        "Que estén en poder de una Administración extranjera",
+        "Que sean posteriores a la fecha de inicio del procedimiento"
+      ],
+      "correct": 1,
+      "exp": "El art. 53.1.d) reconoce el derecho a no presentar datos y documentos no exigidos por las normas aplicables al procedimiento, que ya se encuentren en poder de las AAPP o que hayan sido elaborados por éstas.",
+      "fuente": "Art. 53.1.d) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 53.1.d) LPAC literal: \"A no presentar datos y documentos no exigidos por las normas aplicables al procedimiento de que se trate, que ya se encuentren en poder de las Administraciones Públicas o que hayan sido elaborados por éstas.\" Coincide."
+    },
+    {
+      "q": "Según el art. 53.1.e) LPAC, los interesados pueden aportar documentos en cualquier fase del procedimiento anterior a:",
+      "options": [
+        "La resolución definitiva",
+        "La notificación del inicio del procedimiento",
+        "El recurso de alzada",
+        "El trámite de audiencia"
+      ],
+      "correct": 3,
+      "exp": "El art. 53.1.e) reconoce el derecho a aportar documentos en cualquier fase del procedimiento anterior al trámite de audiencia, que deberán ser tenidos en cuenta por el órgano competente al redactar la propuesta de resolución.",
+      "fuente": "Art. 53.1.e) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 53.1.e) LPAC literal: \"...a aportar documentos en cualquier fase del procedimiento anterior al trámite de audiencia, que deberán ser tenidos en cuenta por el órgano competente al redactar la propuesta de resolución.\" Coincide."
+    },
+    {
+      "q": "Según el art. 53.1.f) LPAC, los interesados tienen derecho a obtener información y orientación acerca de:",
+      "options": [
+        "Los requisitos jurídicos o técnicos que las disposiciones vigentes impongan a los proyectos, actuaciones o solicitudes que se propongan realizar",
+        "La vida privada del instructor del procedimiento",
+        "El salario de los empleados públicos intervinientes",
+        "Los procedimientos disciplinarios internos del órgano"
+      ],
+      "correct": 0,
+      "exp": "El art. 53.1.f) reconoce el derecho a obtener información y orientación acerca de los requisitos jurídicos o técnicos que las disposiciones vigentes impongan a los proyectos, actuaciones o solicitudes que se propongan realizar.",
+      "fuente": "Art. 53.1.f) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 53.1.f) LPAC literal: \"A obtener información y orientación acerca de los requisitos jurídicos o técnicos que las disposiciones vigentes impongan a los proyectos, actuaciones o solicitudes que se propongan realizar.\" Coincide."
+    },
+    {
+      "q": "Según el art. 53.1.g) LPAC, los interesados tienen derecho a:",
+      "options": [
+        "Exigir asistencia letrada gratuita en todo procedimiento administrativo",
+        "Ser representado obligatoriamente por un procurador",
+        "Actuar asistido de asesor cuando lo considere conveniente en defensa de sus intereses",
+        "Recibir asesoramiento jurídico gratuito de la propia Administración"
+      ],
+      "correct": 2,
+      "exp": "El art. 53.1.g) reconoce el derecho a actuar asistido de asesor cuando el interesado lo considere conveniente en defensa de sus intereses.",
+      "fuente": "Art. 53.1.g) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 53.1.g) LPAC literal: \"A actuar asistidos de asesor cuando lo consideren conveniente en defensa de sus intereses.\" Coincide."
+    },
+    {
+      "q": "Según el art. 53.1.h) LPAC, los interesados tienen derecho a cumplir las obligaciones de pago a través de los medios electrónicos previstos en:",
+      "options": [
+        "El artículo 16.3",
+        "El artículo 98.2",
+        "El artículo 27",
+        "El artículo 3"
+      ],
+      "correct": 1,
+      "exp": "El art. 53.1.h) reconoce el derecho a cumplir las obligaciones de pago a través de los medios electrónicos previstos en el artículo 98.2.",
+      "fuente": "Art. 53.1.h) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 53.1.h) LPAC literal: \"A cumplir las obligaciones de pago a través de los medios electrónicos previstos en el artículo 98.2.\" Coincide."
+    },
+    {
+      "q": "Según el art. 53.2.a) LPAC, en los procedimientos administrativos de naturaleza sancionadora, los presuntos responsables tienen derecho a ser notificados de:",
+      "options": [
+        "La identidad del denunciante en todo caso",
+        "El historial sancionador de otros expedientados",
+        "La valoración interna del órgano antes de resolver",
+        "Los hechos que se les imputen, las infracciones que puedan constituir, las sanciones que pudieran imponerse, y la identidad del instructor y de la autoridad competente"
+      ],
+      "correct": 3,
+      "exp": "El art. 53.2.a) reconoce, en procedimientos sancionadores, el derecho a ser notificado de los hechos imputados, las infracciones que puedan constituir, las sanciones que pudieran imponerse, y la identidad del instructor, de la autoridad competente para imponer la sanción y de la norma que atribuye tal competencia.",
+      "fuente": "Art. 53.2.a) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 53.2.a) LPAC literal: \"A ser notificado de los hechos que se le imputen, de las infracciones que tales hechos puedan constituir y de las sanciones que, en su caso, se les pudieran imponer, así como de la identidad del instructor, de la autoridad competente para imponer la sanción y de la norma que atribuya tal competencia.\" La opción resume el precepto sin alterar su sentido y no hay otra opción defendible. Coincide."
+    },
+    {
+      "q": "Según el art. 53.2.b) LPAC, en los procedimientos sancionadores, los presuntos responsables tienen derecho a:",
+      "options": [
+        "La presunción de no existencia de responsabilidad administrativa mientras no se demuestre lo contrario",
+        "La condonación automática de la sanción tras seis meses",
+        "La anulación del expediente si no se resuelve en 15 días",
+        "La sustitución de la sanción por una advertencia siempre"
+      ],
+      "correct": 0,
+      "exp": "El art. 53.2.b) reconoce el derecho a la presunción de no existencia de responsabilidad administrativa mientras no se demuestre lo contrario.",
+      "fuente": "Art. 53.2.b) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 53.2.b) LPAC literal: \"A la presunción de no existencia de responsabilidad administrativa mientras no se demuestre lo contrario.\" Coincide."
+    },
+    {
+      "q": "Según el art. 53.1.i) LPAC, además de los derechos enumerados en dicho apartado, los interesados en el procedimiento administrativo son titulares de:",
+      "options": [
+        "Los derechos reconocidos únicamente por vía reglamentaria",
+        "Los derechos que determine el instructor del procedimiento",
+        "Cualesquiera otros que les reconozcan la Constitución y las leyes",
+        "Ningún otro derecho adicional"
+      ],
+      "correct": 2,
+      "exp": "El art. 53.1.i) reconoce como derecho cualesquiera otros que les reconozcan la Constitución y las leyes.",
+      "fuente": "Art. 53.1.i) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 53.1.i) LPAC literal: \"Cualesquiera otros que les reconozcan la Constitución y las leyes.\" Coincide."
+    }
+  ]
+}

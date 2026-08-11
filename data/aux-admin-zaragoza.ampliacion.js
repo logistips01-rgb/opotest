@@ -13996,3 +13996,1051 @@ window.addQuestions('aux-admin-zaragoza', 15, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 15 · lote 2026-08-11 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 15, [
+  {
+    "q": "¿Qué precepto de la Constitución Española desarrolla el derecho de acceso a la información pública regulado en el artículo 12 de la Ley 19/2013, de 9 de diciembre?",
+    "options": [
+      "Artículo 105.b)",
+      "Artículo 20.1.d)",
+      "Artículo 23.1",
+      "Artículo 103.1"
+    ],
+    "correct": 0,
+    "exp": "El art. 12 establece que todas las personas tienen derecho a acceder a la información pública 'en los términos previstos en el artículo 105.b) de la Constitución Española, desarrollados por esta Ley'.",
+    "fuente": "Art. 12 Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 12 de la Ley 19/2013, ¿quiénes tienen derecho a acceder a la información pública?",
+    "options": [
+      "Únicamente los ciudadanos españoles mayores de edad",
+      "Todas las personas",
+      "Solo quienes tengan la condición de interesados en un procedimiento",
+      "Únicamente las personas físicas, no las jurídicas"
+    ],
+    "correct": 1,
+    "exp": "El artículo 12 comienza diciendo: 'Todas las personas tienen derecho a acceder a la información pública...'",
+    "fuente": "Art. 12 Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 13 de la Ley 19/2013, ¿qué se entiende por información pública?",
+    "options": [
+      "Únicamente los documentos en soporte papel que obren en poder de la Administración",
+      "Los contenidos o documentos, cualquiera que sea su formato o soporte, que obren en poder de los sujetos incluidos en el ámbito de este título y hayan sido elaborados o adquiridos en ejercicio de sus funciones",
+      "Solo la información que las Administraciones Públicas publican de oficio en su portal de transparencia",
+      "Los datos estadísticos elaborados exclusivamente por organismos públicos"
+    ],
+    "correct": 1,
+    "exp": "El art. 13 define información pública como los contenidos o documentos, cualquiera que sea su formato o soporte, que obren en poder de los sujetos incluidos en el ámbito de aplicación de este título y hayan sido elaborados o adquiridos en el ejercicio de sus funciones.",
+    "fuente": "Art. 13 Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el artículo 13 de la Ley 19/2013, ¿es determinante el formato o soporte de un contenido para que sea considerado información pública?",
+    "options": [
+      "Sí, solo se considera información pública si está en soporte electrónico",
+      "No, la ley se refiere a contenidos o documentos 'cualquiera que sea su formato o soporte'",
+      "Sí, solo los documentos en papel registrados",
+      "No es información pública si no ha sido publicada previamente"
+    ],
+    "correct": 1,
+    "exp": "El art. 13 es expreso: 'contenidos o documentos, cualquiera que sea su formato o soporte'.",
+    "fuente": "Art. 13 Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántas causas de limitación al derecho de acceso enumera el apartado 1 del artículo 14 de la Ley 19/2013?",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "15"
+    ],
+    "correct": 2,
+    "exp": "El art. 14.1 enumera las causas en las letras a) a l), es decir, 12 causas de limitación.",
+    "fuente": "Art. 14.1 Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 14.1 de la Ley 19/2013, ¿cuál de las siguientes es una causa que puede limitar el derecho de acceso a la información pública?",
+    "options": [
+      "La protección del medio ambiente",
+      "El interés turístico del municipio",
+      "La protección del patrimonio histórico artístico",
+      "La eficiencia en el gasto público"
+    ],
+    "correct": 0,
+    "exp": "La letra l) del art. 14.1 recoge 'la protección del medio ambiente' como límite; las demás opciones no figuran en el listado legal.",
+    "fuente": "Art. 14.1.l) Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 14.2 de la Ley 19/2013, ¿cómo debe ser la aplicación de los límites al derecho de acceso?",
+    "options": [
+      "Discrecional y no motivada",
+      "Justificada y proporcionada a su objeto y finalidad de protección",
+      "Automática siempre que exista oposición de un tercero",
+      "Solo aplicable previa autorización judicial"
+    ],
+    "correct": 1,
+    "exp": "El art. 14.2 exige que 'la aplicación de los límites será justificada y proporcionada a su objeto y finalidad de protección'.",
+    "fuente": "Art. 14.2 Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "En el artículo 14.1 de la Ley 19/2013, ¿en qué letra se recogen 'los intereses económicos y comerciales' como límite al derecho de acceso?",
+    "options": [
+      "Letra e)",
+      "Letra h)",
+      "Letra k)",
+      "Letra c)"
+    ],
+    "correct": 1,
+    "exp": "La letra h) del art. 14.1 recoge 'los intereses económicos y comerciales' como límite al derecho de acceso.",
+    "fuente": "Art. 14.1.h) Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 15.1 de la Ley 19/2013, si la información solicitada contuviera datos personales que revelen la ideología o afiliación sindical del afectado, ¿en qué caso podrá autorizarse el acceso, con carácter general?",
+    "options": [
+      "Cuando lo solicite un investigador con fines científicos",
+      "Cuando se cuente con el consentimiento expreso y por escrito del afectado, salvo que este los hubiera hecho manifiestamente públicos",
+      "Cuando lo autorice el superior jerárquico del órgano",
+      "Nunca podrá autorizarse el acceso a este tipo de datos"
+    ],
+    "correct": 1,
+    "exp": "El art. 15.1 exige el consentimiento expreso y por escrito del afectado, salvo que hubiese hecho manifiestamente públicos los datos con anterioridad a la solicitud.",
+    "fuente": "Art. 15.1 Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 15.2 de la Ley 19/2013, con carácter general, ¿qué tipo de información se concederá salvo que prevalezca la protección de datos personales u otros derechos?",
+    "options": [
+      "La que contenga datos relativos al origen racial o la salud",
+      "La que contenga datos meramente identificativos relacionados con la organización, funcionamiento o actividad pública del órgano",
+      "La que contenga datos genéticos o biométricos",
+      "La que afecte a menores de edad"
+    ],
+    "correct": 1,
+    "exp": "El art. 15.2 dispone que, con carácter general, se concederá el acceso a información que contenga datos meramente identificativos relacionados con la organización, funcionamiento o actividad pública del órgano.",
+    "fuente": "Art. 15.2 Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "El apartado 1 del artículo 15 de la Ley 19/2013 fue modificado por la disposición final 11.2 de una norma posterior. ¿A qué norma corresponde esa modificación?",
+    "options": [
+      "Ley Orgánica 3/2018, de 5 de diciembre",
+      "Ley Orgánica 3/2007, de 22 de marzo",
+      "Ley 39/2015, de 1 de octubre",
+      "Ley Orgánica 15/1999, de 13 de diciembre"
+    ],
+    "correct": 0,
+    "exp": "El texto consolidado indica: 'Se modifica el apartado 1 por la disposición final 11.2 de la Ley Orgánica 3/2018, de 5 de diciembre'.",
+    "fuente": "Art. 15.1 Ley 19/2013 (modificado por LO 3/2018, disp. final 11.2)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 15.4 de la Ley 19/2013, ¿cuándo no será aplicable lo establecido en los apartados anteriores sobre protección de datos personales?",
+    "options": [
+      "Cuando lo solicite un medio de comunicación",
+      "Cuando el acceso se efectúe previa disociación de los datos de carácter personal de modo que se impida la identificación de las personas afectadas",
+      "Cuando haya transcurrido un año desde la generación del documento",
+      "Cuando el solicitante sea una Administración Pública"
+    ],
+    "correct": 1,
+    "exp": "El art. 15.4 exceptúa la aplicación de los apartados anteriores 'si el acceso se efectúa previa disociación de los datos de carácter personal de modo que se impida la identificación de las personas afectadas'.",
+    "fuente": "Art. 15.4 Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 16 de la Ley 19/2013, cuando la aplicación de un límite no afecte a la totalidad de la información, ¿qué deberá concederse?",
+    "options": [
+      "El acceso parcial, previa omisión de la información afectada por el límite",
+      "La denegación total de la solicitud",
+      "El acceso íntegro sin excepciones",
+      "Un plazo adicional de tres meses para resolver"
+    ],
+    "correct": 0,
+    "exp": "El art. 16 dispone que se concederá el acceso parcial previa omisión de la información afectada por el límite, salvo que resulte una información distorsionada o carente de sentido.",
+    "fuente": "Art. 16 Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 16 de la Ley 19/2013 remite a los límites previstos en otro artículo de la misma Ley para regular el acceso parcial. ¿A qué artículo remite?",
+    "options": [
+      "Artículo 12",
+      "Artículo 14",
+      "Artículo 18",
+      "Artículo 20"
+    ],
+    "correct": 1,
+    "exp": "El art. 16 comienza: 'En los casos en que la aplicación de alguno de los límites previstos en el artículo 14 no afecte a la totalidad de la información...'",
+    "fuente": "Art. 16 Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 17.3 de la Ley 19/2013, ¿está el solicitante obligado a motivar su solicitud de acceso a la información?",
+    "options": [
+      "Sí, siempre debe justificar por escrito el motivo de su solicitud",
+      "No, aunque podrá exponer los motivos, y la ausencia de motivación no será por sí sola causa de rechazo",
+      "Solo si la información afecta a terceros",
+      "Solo si la solicitud se presenta por vía electrónica"
+    ],
+    "correct": 1,
+    "exp": "El art. 17.3 establece que el solicitante no está obligado a motivar su solicitud, aunque podrá exponer motivos, y que la ausencia de motivación no será por sí sola causa de rechazo.",
+    "fuente": "Art. 17.3 Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 17.2 de la Ley 19/2013, la solicitud de acceso podrá presentarse por cualquier medio que permita tener constancia de varios extremos. ¿Cuál de los siguientes NO se exige expresamente en dicho apartado?",
+    "options": [
+      "La identidad del solicitante",
+      "La información que se solicita",
+      "Una dirección de contacto, preferentemente electrónica",
+      "La motivación jurídica de la petición"
+    ],
+    "correct": 3,
+    "exp": "El art. 17.2 exige constancia de la identidad, la información solicitada, una dirección de contacto y, en su caso, la modalidad de acceso preferida; la motivación no es exigible conforme al art. 17.3.",
+    "fuente": "Art. 17.2 Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 17.4 de la Ley 19/2013, ¿en qué lenguas pueden dirigirse los solicitantes de información a las Administraciones Públicas?",
+    "options": [
+      "Únicamente en castellano",
+      "En cualquiera de las lenguas cooficiales del Estado en el territorio en que radique la Administración en cuestión",
+      "Solo en la lengua en que esté redactado el documento solicitado",
+      "En cualquier idioma de la Unión Europea"
+    ],
+    "correct": 1,
+    "exp": "El art. 17.4 permite dirigirse en cualquiera de las lenguas cooficiales del Estado en el territorio en el que radique la Administración en cuestión.",
+    "fuente": "Art. 17.4 Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántas causas de inadmisión a trámite de las solicitudes de acceso enumera el artículo 18.1 de la Ley 19/2013?",
+    "options": [
+      "Tres",
+      "Cuatro",
+      "Cinco",
+      "Seis"
+    ],
+    "correct": 2,
+    "exp": "El art. 18.1 enumera las causas de inadmisión en las letras a) a e), es decir, cinco causas.",
+    "fuente": "Art. 18.1 Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 18.1.b) de la Ley 19/2013, se inadmitirán las solicitudes referidas a información que tenga carácter auxiliar o de apoyo, como la contenida en:",
+    "options": [
+      "Notas, borradores, opiniones, resúmenes, comunicaciones e informes internos o entre órganos o entidades administrativas",
+      "Resoluciones firmes ya publicadas en el BOE",
+      "Actas de los plenos municipales",
+      "Presupuestos generales aprobados"
+    ],
+    "correct": 0,
+    "exp": "El art. 18.1.b) se refiere a información de carácter auxiliar o de apoyo, 'como la contenida en notas, borradores, opiniones, resúmenes, comunicaciones e informes internos o entre órganos o entidades administrativas'.",
+    "fuente": "Art. 18.1.b) Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 18.2 de la Ley 19/2013, cuando se inadmita una solicitud por desconocerse el órgano competente para conocerla (causa de la letra d), ¿qué debe hacer el órgano que acuerde la inadmisión?",
+    "options": [
+      "Archivar el expediente sin más trámite",
+      "Indicar en la resolución el órgano que, a su juicio, es competente para conocer de la solicitud",
+      "Remitir directamente la solicitud al Consejo de Transparencia y Buen Gobierno",
+      "Conceder un plazo de tres meses al solicitante para identificar el órgano competente"
+    ],
+    "correct": 1,
+    "exp": "El art. 18.2 exige que el órgano que acuerde la inadmisión por la causa de la letra d) indique en la resolución el órgano que, a su juicio, es competente para conocer de la solicitud.",
+    "fuente": "Art. 18.2 Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 19.2 de la Ley 19/2013, cuando la solicitud no identifique de forma suficiente la información, ¿de qué plazo dispone el solicitante para concretarla?",
+    "options": [
+      "Cinco días",
+      "Diez días",
+      "Quince días",
+      "Un mes"
+    ],
+    "correct": 1,
+    "exp": "El art. 19.2 concede un plazo de diez días para concretar la solicitud, con la advertencia de que, de no hacerlo, se tendrá al solicitante por desistido.",
+    "fuente": "Art. 19.2 Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 19.3 de la Ley 19/2013, si la información solicitada pudiera afectar a derechos o intereses de terceros identificados, ¿de qué plazo dispondrán estos para realizar alegaciones?",
+    "options": [
+      "Diez días",
+      "Quince días",
+      "Veinte días",
+      "Un mes"
+    ],
+    "correct": 1,
+    "exp": "El art. 19.3 concede a los terceros afectados un plazo de quince días para realizar las alegaciones que estimen oportunas.",
+    "fuente": "Art. 19.3 Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 19.1 de la Ley 19/2013, si la solicitud se refiere a información que no obra en poder del sujeto al que se dirige, ¿qué debe hacer este?",
+    "options": [
+      "Denegar automáticamente la solicitud",
+      "Remitirla al competente, si lo conociera, e informar de esta circunstancia al solicitante",
+      "Archivar la solicitud sin comunicación al interesado",
+      "Requerir al solicitante que la presente de nuevo ante otro órgano"
+    ],
+    "correct": 1,
+    "exp": "El art. 19.1 establece que, si la solicitud se refiere a información que no obra en poder del sujeto al que se dirige, este la remitirá al competente, si lo conociera, e informará de esta circunstancia al solicitante.",
+    "fuente": "Art. 19.1 Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 20.1 de la Ley 19/2013, ¿cuál es el plazo máximo para notificar la resolución sobre una solicitud de acceso a la información pública, y en qué caso puede ampliarse?",
+    "options": [
+      "Quince días, ampliable por otros quince",
+      "Un mes desde la recepción de la solicitud, ampliable por otro mes si el volumen o complejidad de la información lo hace necesario",
+      "Dos meses, no ampliable",
+      "Tres meses, ampliable por otros tres"
+    ],
+    "correct": 1,
+    "exp": "El art. 20.1 fija un plazo máximo de un mes desde la recepción de la solicitud por el órgano competente, ampliable por otro mes cuando el volumen o la complejidad de la información lo hagan necesario, previa notificación al solicitante.",
+    "fuente": "Art. 20.1 Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 20.4 de la Ley 19/2013, ¿qué efecto tiene el transcurso del plazo máximo para resolver sin que se haya dictado y notificado resolución expresa?",
+    "options": [
+      "Se entenderá que la solicitud ha sido estimada",
+      "Se entenderá que la solicitud ha sido desestimada",
+      "El procedimiento se declara caducado sin más efectos",
+      "El solicitante deberá reiterar la solicitud"
+    ],
+    "correct": 1,
+    "exp": "El art. 20.4 establece que, transcurrido el plazo máximo para resolver sin resolución expresa notificada, se entenderá que la solicitud ha sido desestimada.",
+    "fuente": "Art. 20.4 Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 20.6 de la Ley 19/2013, ¿qué consideración tiene el incumplimiento reiterado de la obligación de resolver en plazo las solicitudes de acceso?",
+    "options": [
+      "Infracción leve",
+      "Infracción grave a efectos del régimen disciplinario",
+      "Mera irregularidad no sancionable",
+      "Falta muy grave solo si hay reincidencia en el mismo año natural"
+    ],
+    "correct": 1,
+    "exp": "El art. 20.6 dispone que el incumplimiento reiterado de la obligación de resolver en plazo tendrá la consideración de infracción grave a los efectos de la aplicación del régimen disciplinario.",
+    "fuente": "Art. 20.6 Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 20.5 de la Ley 19/2013, las resoluciones dictadas en materia de acceso a la información pública son recurribles directamente ante:",
+    "options": [
+      "La Jurisdicción Social",
+      "La Jurisdicción Contencioso-Administrativa",
+      "La Jurisdicción Civil",
+      "El Tribunal Constitucional"
+    ],
+    "correct": 1,
+    "exp": "El art. 20.5 señala que dichas resoluciones son recurribles directamente ante la Jurisdicción Contencioso-Administrativa, sin perjuicio de la reclamación potestativa del art. 24.",
+    "fuente": "Art. 20.5 Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántas funciones enumera el artículo 21.2 de la Ley 19/2013 para las unidades especializadas de información en el ámbito de la Administración General del Estado?",
+    "options": [
+      "Cinco",
+      "Seis",
+      "Ocho",
+      "Diez"
+    ],
+    "correct": 2,
+    "exp": "El art. 21.2 enumera las funciones de las unidades especializadas en las letras a) a h), es decir, ocho funciones.",
+    "fuente": "Art. 21.2 Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 21.2.e) de la Ley 19/2013, entre las funciones de las unidades de información se encuentra:",
+    "options": [
+      "Resolver directamente las reclamaciones ante el Consejo de Transparencia",
+      "Llevar un registro de las solicitudes de acceso a la información",
+      "Aprobar el presupuesto anual de publicidad activa",
+      "Elaborar el informe anual del Defensor del Pueblo"
+    ],
+    "correct": 1,
+    "exp": "El art. 21.2.e) atribuye a las unidades de información la función de 'llevar un registro de las solicitudes de acceso a la información'.",
+    "fuente": "Art. 21.2.e) Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 21.1 de la Ley 19/2013, ¿qué deben establecer las Administraciones Públicas incluidas en el ámbito de aplicación de este título?",
+    "options": [
+      "Un registro único estatal de solicitudes",
+      "Sistemas para integrar la gestión de solicitudes de información de los ciudadanos en el funcionamiento de su organización interna",
+      "Una tasa por la tramitación de cada solicitud",
+      "Un plazo de un año para resolver las solicitudes acumuladas"
+    ],
+    "correct": 1,
+    "exp": "El art. 21.1 exige establecer sistemas para integrar la gestión de solicitudes de información de los ciudadanos en el funcionamiento de la organización interna.",
+    "fuente": "Art. 21.1 Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 22.1 de la Ley 19/2013, cuando no pueda darse el acceso a la información en el momento de la notificación de la resolución, ¿en qué plazo máximo deberá otorgarse en cualquier caso?",
+    "options": [
+      "Cinco días",
+      "Diez días",
+      "Un mes",
+      "Quince días"
+    ],
+    "correct": 1,
+    "exp": "El art. 22.1 establece que, cuando no pueda darse el acceso en el momento de la notificación, deberá otorgarse en un plazo no superior a diez días.",
+    "fuente": "Art. 22.1 Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 22.4 de la Ley 19/2013, el acceso a la información pública será, con carácter general:",
+    "options": [
+      "Gratuito, sin excepción alguna",
+      "Gratuito, sin perjuicio de que la expedición de copias o la trasposición a un formato diferente pueda dar lugar a exacciones",
+      "Siempre sujeto al pago de una tasa fija",
+      "Gratuito solo para las personas físicas"
+    ],
+    "correct": 1,
+    "exp": "El art. 22.4 declara que el acceso será gratuito, aunque la expedición de copias o la trasposición a un formato diferente al original podrá dar lugar a exigencia de exacciones.",
+    "fuente": "Art. 22.4 Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 22.4 de la Ley 19/2013, ¿qué norma se cita como referencia para la exigencia de exacciones por la expedición de copias o la trasposición de formato?",
+    "options": [
+      "La Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos",
+      "La Ley 58/2003, de 17 de diciembre, General Tributaria",
+      "La Ley 39/2015, de 1 de octubre",
+      "La Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local"
+    ],
+    "correct": 0,
+    "exp": "El art. 22.4 remite a la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos, sin perjuicio de la normativa autonómica o local aplicable.",
+    "fuente": "Art. 22.4 Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 23.1 de la Ley 19/2013, la reclamación prevista en el artículo 24 tiene la consideración de:",
+    "options": [
+      "Recurso extraordinario de revisión",
+      "Sustitutiva de los recursos administrativos",
+      "Recurso de alzada ordinario",
+      "Denuncia ante la Fiscalía"
+    ],
+    "correct": 1,
+    "exp": "El art. 23.1 señala que la reclamación del art. 24 'tendrá la consideración de sustitutiva de los recursos administrativos'.",
+    "fuente": "Art. 23.1 Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 23.2 de la Ley 19/2013, contra las resoluciones dictadas por los órganos previstos en el artículo 2.1.f), ¿qué recurso cabrá?",
+    "options": [
+      "Únicamente la reclamación potestativa ante el Consejo de Transparencia",
+      "Recurso de alzada ante el superior jerárquico",
+      "Únicamente la interposición de recurso contencioso-administrativo",
+      "Recurso de reposición previo y obligatorio"
+    ],
+    "correct": 2,
+    "exp": "El art. 23.2 dispone que contra las resoluciones de los órganos del art. 2.1.f) 'sólo cabrá la interposición de recurso contencioso-administrativo'.",
+    "fuente": "Art. 23.2 Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 24.1 de la Ley 19/2013, frente a toda resolución expresa o presunta en materia de acceso podrá interponerse una reclamación, con carácter potestativo, ante:",
+    "options": [
+      "El Defensor del Pueblo",
+      "El Consejo de Transparencia y Buen Gobierno",
+      "El Tribunal Superior de Justicia",
+      "El Ministerio de Hacienda"
+    ],
+    "correct": 1,
+    "exp": "El art. 24.1 prevé la reclamación, con carácter potestativo y previo a la vía contencioso-administrativa, ante el Consejo de Transparencia y Buen Gobierno.",
+    "fuente": "Art. 24.1 Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 24.2 de la Ley 19/2013, ¿en qué plazo debe interponerse la reclamación ante el Consejo de Transparencia y Buen Gobierno?",
+    "options": [
+      "Quince días",
+      "Un mes",
+      "Dos meses",
+      "Tres meses"
+    ],
+    "correct": 1,
+    "exp": "El art. 24.2 fija el plazo de un mes a contar desde el día siguiente a la notificación del acto impugnado o desde los efectos del silencio administrativo.",
+    "fuente": "Art. 24.2 Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 24.4 de la Ley 19/2013, ¿cuál es el plazo máximo para resolver y notificar la resolución de la reclamación ante el Consejo de Transparencia y Buen Gobierno, transcurrido el cual se entenderá desestimada?",
+    "options": [
+      "Un mes",
+      "Dos meses",
+      "Tres meses",
+      "Seis meses"
+    ],
+    "correct": 2,
+    "exp": "El art. 24.4 establece un plazo máximo de tres meses para resolver y notificar, transcurrido el cual la reclamación se entenderá desestimada.",
+    "fuente": "Art. 24.4 Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 24.5 de la Ley 19/2013, ¿a quién comunicará el Presidente del Consejo de Transparencia y Buen Gobierno las resoluciones que dicte en aplicación de este artículo?",
+    "options": [
+      "Al Tribunal Constitucional",
+      "Al Defensor del Pueblo",
+      "A la Fiscalía General del Estado",
+      "Al Congreso de los Diputados"
+    ],
+    "correct": 1,
+    "exp": "El art. 24.5 indica que el Presidente del Consejo de Transparencia y Buen Gobierno comunicará al Defensor del Pueblo las resoluciones que dicte en aplicación de este artículo.",
+    "fuente": "Art. 24.5 Ley 19/2013",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 24.6 de la Ley 19/2013, la competencia para conocer de las reclamaciones corresponde al Consejo de Transparencia y Buen Gobierno, salvo que:",
+    "options": [
+      "El solicitante sea una persona jurídica",
+      "Las Comunidades Autónomas atribuyan dicha competencia a un órgano específico, de acuerdo con la disposición adicional cuarta",
+      "La reclamación se presente fuera de plazo",
+      "La información afecte a la seguridad nacional"
+    ],
+    "correct": 1,
+    "exp": "El art. 24.6 atribuye la competencia al Consejo de Transparencia y Buen Gobierno, salvo en los supuestos en que las Comunidades Autónomas atribuyan dicha competencia a un órgano específico, de acuerdo con la disposición adicional cuarta.",
+    "fuente": "Art. 24.6 Ley 19/2013",
+    "confianza": "alta"
+  }
+]);
+
+/* tema 15 · lote 2026-08-11 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 15, [
+  {
+    "q": "¿Qué instrumento permite a las personas comunicarse con las Administraciones Públicas según el art. 13.a) LPAC?",
+    "options": [
+      "Sede electrónica de cada organismo",
+      "Carpeta Ciudadana",
+      "Punto de Acceso General electrónico de la Administración",
+      "Registro Electrónico General"
+    ],
+    "correct": 2,
+    "exp": "El art. 13.a) reconoce el derecho a comunicarse con las Administraciones Públicas a través de un Punto de Acceso General electrónico de la Administración.",
+    "fuente": "Art. 13.a) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13.b) LPAC, ¿qué derecho se reconoce a las personas en relación con los medios electrónicos?",
+    "options": [
+      "A recibir formación gratuita en medios electrónicos",
+      "A ser asistidas en el uso de medios electrónicos en sus relaciones con las AAPP",
+      "A elegir libremente el canal de comunicación electrónico",
+      "A disponer de firma electrónica gratuita"
+    ],
+    "correct": 1,
+    "exp": "El art. 13.b) reconoce el derecho a ser asistidos en el uso de medios electrónicos en las relaciones con las Administraciones Públicas.",
+    "fuente": "Art. 13.b) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 13.c) LPAC reconoce el derecho a utilizar las lenguas oficiales...",
+    "options": [
+      "Únicamente en los procedimientos judiciales",
+      "Solo ante la Administración General del Estado",
+      "En cualquier Comunidad Autónoma, con independencia de su lugar de residencia",
+      "En el territorio de su Comunidad Autónoma, de acuerdo con lo previsto en esta Ley y el resto del ordenamiento jurídico"
+    ],
+    "correct": 3,
+    "exp": "El art. 13.c) reconoce el derecho a utilizar las lenguas oficiales en el territorio de su Comunidad Autónoma, de acuerdo con lo previsto en la LPAC y el resto del ordenamiento jurídico.",
+    "fuente": "Art. 13.c) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El derecho de acceso a la información pública, archivos y registros reconocido en el art. 13.d) LPAC se ejerce de acuerdo con:",
+    "options": [
+      "La Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, y el resto del ordenamiento jurídico",
+      "El Reglamento (UE) 2016/679",
+      "La Ley Orgánica 3/2018",
+      "La propia LPAC exclusivamente"
+    ],
+    "correct": 0,
+    "exp": "El art. 13.d) remite a la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, y al resto del ordenamiento jurídico.",
+    "fuente": "Art. 13.d) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13.e) LPAC, las personas tienen derecho a ser tratadas por las autoridades y empleados públicos...",
+    "options": [
+      "Con celeridad procedimental garantizada por ley",
+      "De forma gratuita en todos los trámites",
+      "Con respeto y deferencia, que habrán de facilitarles el ejercicio de sus derechos y el cumplimiento de sus obligaciones",
+      "Con carácter reservado y confidencial en todo caso"
+    ],
+    "correct": 2,
+    "exp": "El art. 13.e) reconoce el derecho a ser tratados con respeto y deferencia por las autoridades y empleados públicos, que habrán de facilitarles el ejercicio de sus derechos y el cumplimiento de sus obligaciones.",
+    "fuente": "Art. 13.e) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 13.f) LPAC reconoce el derecho a...",
+    "options": [
+      "Recurrir gratuitamente cualquier resolución administrativa",
+      "Exigir las responsabilidades de las Administraciones Públicas y autoridades, cuando así corresponda legalmente",
+      "Obtener indemnización automática por retraso",
+      "Denunciar ante el Defensor del Pueblo sin plazo"
+    ],
+    "correct": 1,
+    "exp": "El art. 13.f) reconoce el derecho a exigir las responsabilidades de las Administraciones Públicas y autoridades, cuando así corresponda legalmente.",
+    "fuente": "Art. 13.f) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13.g) LPAC, ¿qué derecho se reconoce en relación con la identificación y la firma?",
+    "options": [
+      "Firmar únicamente de forma manuscrita",
+      "Un certificado digital gratuito de validez indefinida",
+      "Delegar la firma electrónica en un tercero sin control",
+      "La obtención y utilización de los medios de identificación y firma electrónica contemplados en la ley"
+    ],
+    "correct": 3,
+    "exp": "El art. 13.g) reconoce el derecho a la obtención y utilización de los medios de identificación y firma electrónica contemplados en la LPAC.",
+    "fuente": "Art. 13.g) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 13.h) LPAC reconoce el derecho a la protección de datos de carácter personal, en particular a:",
+    "options": [
+      "La seguridad y confidencialidad de los datos que figuren en los ficheros, sistemas y aplicaciones de las AAPP",
+      "La eliminación automática de datos tras cada trámite",
+      "La portabilidad de datos entre AAPP sin consentimiento",
+      "La anonimización obligatoria de todos los expedientes"
+    ],
+    "correct": 0,
+    "exp": "El art. 13.h) reconoce el derecho a la protección de datos de carácter personal, en particular a la seguridad y confidencialidad de los datos que figuren en los ficheros, sistemas y aplicaciones de las AAPP.",
+    "fuente": "Art. 13.h) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el último párrafo del art. 13 LPAC, los derechos reconocidos en ese artículo se entienden sin perjuicio de los reconocidos en:",
+    "options": [
+      "El art. 3, sobre capacidad de obrar",
+      "El art. 14, sobre relación electrónica",
+      "El art. 53, referidos a los interesados en el procedimiento administrativo",
+      "El art. 16, sobre registros"
+    ],
+    "correct": 2,
+    "exp": "El art. 13 termina indicando que estos derechos se entienden sin perjuicio de los reconocidos en el artículo 53, referidos a los interesados en el procedimiento administrativo.",
+    "fuente": "Art. 13, último párrafo, LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Quiénes son titulares de los derechos enumerados en el art. 13 LPAC?",
+    "options": [
+      "Únicamente las personas jurídicas",
+      "Quienes, de conformidad con el art. 3, tienen capacidad de obrar ante las AAPP",
+      "Solo los funcionarios públicos",
+      "Exclusivamente los residentes en territorio español"
+    ],
+    "correct": 1,
+    "exp": "El art. 13 dispone que quienes, de conformidad con el artículo 3, tienen capacidad de obrar ante las Administraciones Públicas, son titulares de esos derechos.",
+    "fuente": "Art. 13 (encabezado) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13.i) LPAC, además de los derechos enumerados expresamente, las personas son titulares de:",
+    "options": [
+      "Los derechos reconocidos exclusivamente en tratados internacionales",
+      "Ningún otro derecho adicional",
+      "Los derechos que determine cada Comunidad Autónoma",
+      "Cualesquiera otros que les reconozcan la Constitución y las leyes"
+    ],
+    "correct": 3,
+    "exp": "El art. 13.i) reconoce como derecho cualesquiera otros que les reconozcan la Constitución y las leyes.",
+    "fuente": "Art. 13.i) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En qué artículo de la LPAC se regulan los «Derechos de las personas en sus relaciones con las Administraciones Públicas»?",
+    "options": [
+      "Artículo 13",
+      "Artículo 14",
+      "Artículo 16",
+      "Artículo 53"
+    ],
+    "correct": 0,
+    "exp": "El título del art. 13 LPAC es «Derechos de las personas en sus relaciones con las Administraciones Públicas».",
+    "fuente": "Art. 13 (título) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.1 LPAC, ¿de qué debe disponer cada Administración?",
+    "options": [
+      "De un archivo físico centralizado obligatorio",
+      "De un Registro Electrónico General, en el que se hará el correspondiente asiento de todo documento presentado o recibido",
+      "De una oficina de asistencia presencial exclusiva",
+      "De un registro mercantil propio"
+    ],
+    "correct": 1,
+    "exp": "El art. 16.1, párrafo primero, establece que cada Administración dispondrá de un Registro Electrónico General, en el que se hará el correspondiente asiento de todo documento que sea presentado o que se reciba.",
+    "fuente": "Art. 16.1, párr. 1º, LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.1 LPAC, los Organismos públicos vinculados o dependientes de cada Administración:",
+    "options": [
+      "Están obligados a utilizar exclusivamente el registro de la Administración matriz",
+      "No pueden tener registro electrónico propio",
+      "Podrán disponer de su propio registro electrónico, plenamente interoperable e interconectado con el Registro Electrónico General",
+      "Deben crear un registro en papel adicional"
+    ],
+    "correct": 2,
+    "exp": "El art. 16.1, párrafo segundo, permite que los Organismos públicos vinculados o dependientes dispongan de su propio registro electrónico, plenamente interoperable e interconectado con el Registro Electrónico General de la Administración de la que dependen.",
+    "fuente": "Art. 16.1, párr. 2º, LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el art. 16.1 LPAC, el Registro Electrónico General de cada Administración funcionará como:",
+    "options": [
+      "Un portal que facilitará el acceso a los registros electrónicos de cada Organismo",
+      "Un archivo histórico de expedientes cerrados",
+      "Un sistema exclusivo de notificaciones",
+      "Un directorio de funcionarios habilitados"
+    ],
+    "correct": 0,
+    "exp": "El art. 16.1, párrafo tercero, indica que el Registro Electrónico General funcionará como un portal que facilitará el acceso a los registros electrónicos de cada Organismo.",
+    "fuente": "Art. 16.1, párr. 3º, LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.1 LPAC, las disposiciones de creación de los registros electrónicos deberán especificar, en todo caso:",
+    "options": [
+      "El presupuesto anual destinado al registro",
+      "El número máximo de asientos diarios",
+      "La plantilla de personal adscrita al registro",
+      "El órgano o unidad responsable de su gestión, así como la fecha y hora oficial y los días declarados inhábiles"
+    ],
+    "correct": 3,
+    "exp": "El art. 16.1, párrafo cuarto, exige que las disposiciones de creación de registros electrónicos especifiquen el órgano o unidad responsable de su gestión, la fecha y hora oficial y los días declarados inhábiles.",
+    "fuente": "Art. 16.1, párr. 4º, LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.2 LPAC, ¿cómo se anotarán los asientos en el registro?",
+    "options": [
+      "Por orden alfabético del interesado",
+      "Respetando el orden temporal de recepción o salida de los documentos, indicando la fecha del día en que se produzcan",
+      "Por orden de importancia del trámite",
+      "Agrupados semanalmente sin indicar fecha exacta"
+    ],
+    "correct": 1,
+    "exp": "El art. 16.2 dispone que los asientos se anotarán respetando el orden temporal de recepción o salida de los documentos, e indicarán la fecha del día en que se produzcan.",
+    "fuente": "Art. 16.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.3 LPAC, el registro electrónico garantizará la constancia, en cada asiento, entre otros datos, de:",
+    "options": [
+      "El número de expediente judicial asociado",
+      "El importe económico del trámite",
+      "Un número, epígrafe expresivo de su naturaleza, fecha y hora de presentación, e identificación del interesado",
+      "La nacionalidad del interesado exclusivamente"
+    ],
+    "correct": 2,
+    "exp": "El art. 16.3 exige que cada asiento conste de un número, epígrafe expresivo de su naturaleza, fecha y hora de presentación e identificación del interesado, entre otros extremos.",
+    "fuente": "Art. 16.3 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.3 LPAC, tras el trámite de registro, ¿qué recibo se emite automáticamente?",
+    "options": [
+      "Una copia autenticada del documento, incluyendo fecha, hora de presentación y número de entrada de registro",
+      "Un justificante de pago de tasas",
+      "Un certificado de residencia",
+      "Un volante de empadronamiento"
+    ],
+    "correct": 0,
+    "exp": "El art. 16.3 establece que se emitirá automáticamente un recibo consistente en una copia autenticada del documento, incluyendo la fecha y hora de presentación y el número de entrada de registro.",
+    "fuente": "Art. 16.3 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.4 LPAC, ¿en cuál de los siguientes lugares NO pueden presentarse los documentos dirigidos a los órganos de las AAPP?",
+    "options": [
+      "En cualquier notaría del territorio nacional",
+      "En el registro electrónico de la Administración u Organismo al que se dirijan",
+      "En las oficinas de Correos, en la forma que reglamentariamente se establezca",
+      "En las representaciones diplomáticas u oficinas consulares de España en el extranjero"
+    ],
+    "correct": 0,
+    "exp": "El art. 16.4 no incluye las notarías entre los lugares de presentación; sí menciona el registro electrónico del destinatario, las oficinas de Correos y las representaciones diplomáticas o consulares.",
+    "fuente": "Art. 16.4 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.4.d) LPAC, uno de los lugares donde pueden presentarse los documentos es:",
+    "options": [
+      "Las notarías",
+      "Los registros mercantiles",
+      "Las cámaras de comercio",
+      "Las oficinas de asistencia en materia de registros"
+    ],
+    "correct": 3,
+    "exp": "El art. 16.4.d) permite la presentación de documentos en las oficinas de asistencia en materia de registros.",
+    "fuente": "Art. 16.4.d) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.4 LPAC, los registros electrónicos de todas las Administraciones deberán ser plenamente interoperables para garantizar:",
+    "options": [
+      "La eliminación automática de documentos duplicados",
+      "Su compatibilidad informática e interconexión, así como la transmisión telemática de los asientos registrales",
+      "La centralización de todos los registros en el Estado",
+      "La privatización de la gestión registral"
+    ],
+    "correct": 1,
+    "exp": "El art. 16.4, último párrafo, exige que los registros electrónicos sean plenamente interoperables para garantizar su compatibilidad informática e interconexión, así como la transmisión telemática de los asientos registrales y de los documentos.",
+    "fuente": "Art. 16.4, último párrafo, LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.5 LPAC, los documentos presentados de manera presencial ante las AAPP deberán ser digitalizados por:",
+    "options": [
+      "El propio interesado antes de acudir a la oficina",
+      "Una empresa privada homologada, con coste a cargo del interesado",
+      "La oficina de asistencia en materia de registros en la que hayan sido presentados, devolviéndose los originales al interesado",
+      "El órgano judicial competente"
+    ],
+    "correct": 2,
+    "exp": "El art. 16.5 establece que los documentos presentados presencialmente serán digitalizados por la oficina de asistencia en materia de registros en la que hayan sido presentados, devolviéndose los originales al interesado.",
+    "fuente": "Art. 16.5 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.5 LPAC, la digitalización de los documentos presentados presencialmente se realizará de acuerdo con lo previsto en:",
+    "options": [
+      "El artículo 27 y demás normativa aplicable",
+      "El artículo 3",
+      "El artículo 53",
+      "El artículo 98"
+    ],
+    "correct": 0,
+    "exp": "El art. 16.5 remite expresamente a lo previsto en el artículo 27 y demás normativa aplicable para la digitalización de los documentos presentados presencialmente.",
+    "fuente": "Art. 16.5 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.7 LPAC, las Administraciones Públicas deberán:",
+    "options": [
+      "Suprimir progresivamente las oficinas de asistencia presencial",
+      "Cobrar una tasa por el uso del registro electrónico",
+      "Limitar el acceso al registro a los días laborables exclusivamente",
+      "Hacer pública y mantener actualizada una relación de las oficinas en las que se prestará asistencia para la presentación electrónica de documentos"
+    ],
+    "correct": 3,
+    "exp": "El art. 16.7 obliga a las Administraciones a hacer pública y mantener actualizada una relación de las oficinas en las que se prestará asistencia para la presentación electrónica de documentos.",
+    "fuente": "Art. 16.7 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.8 LPAC, ¿qué ocurre con los documentos e información cuyo régimen especial establezca otra forma de presentación?",
+    "options": [
+      "Se presumirán presentados igualmente, con efectos retroactivos",
+      "No se tendrán por presentados en el registro",
+      "Se archivan sin más trámite",
+      "Se remiten de oficio al Defensor del Pueblo"
+    ],
+    "correct": 1,
+    "exp": "El art. 16.8 establece que no se tendrán por presentados en el registro aquellos documentos e información cuyo régimen especial establezca otra forma de presentación.",
+    "fuente": "Art. 16.8 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 53.1.a) LPAC, los interesados tienen derecho a conocer, en cualquier momento:",
+    "options": [
+      "El sueldo del funcionario instructor",
+      "El número total de expedientes en tramitación en el órgano",
+      "El estado de la tramitación de los procedimientos en los que tengan la condición de interesados",
+      "El contenido de expedientes ajenos en los que no sean parte"
+    ],
+    "correct": 2,
+    "exp": "El art. 53.1.a) reconoce el derecho a conocer, en cualquier momento, el estado de la tramitación de los procedimientos en los que tengan la condición de interesados.",
+    "fuente": "Art. 53.1.a) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 53.1.a) LPAC, además del estado de tramitación, los interesados tienen derecho a conocer:",
+    "options": [
+      "El sentido del silencio administrativo que corresponda, el órgano competente para la instrucción y resolución, y los actos de trámite dictados",
+      "El salario del titular del órgano competente",
+      "El organigrama completo de la Administración",
+      "El presupuesto anual del departamento"
+    ],
+    "correct": 0,
+    "exp": "El art. 53.1.a) añade el derecho a conocer el sentido del silencio administrativo que corresponda, el órgano competente para la instrucción y resolución, y los actos de trámite dictados.",
+    "fuente": "Art. 53.1.a) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 53.1.a) LPAC, quienes se relacionen con las AAPP a través de medios electrónicos tendrán derecho a consultar dicha información:",
+    "options": [
+      "Únicamente mediante solicitud presencial",
+      "A través de un abogado colegiado",
+      "Solo tras la finalización total del procedimiento",
+      "En el Punto de Acceso General electrónico de la Administración"
+    ],
+    "correct": 3,
+    "exp": "El art. 53.1.a), párrafo segundo, dispone que quienes se relacionen electrónicamente con las AAPP tienen derecho a consultar esa información en el Punto de Acceso General electrónico de la Administración, que funcionará como un portal de acceso.",
+    "fuente": "Art. 53.1.a), párr. 2º, LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 53.1.b) LPAC, los interesados tienen derecho a:",
+    "options": [
+      "Recusar libremente a cualquier funcionario sin motivación",
+      "Identificar a las autoridades y al personal al servicio de las AAPP bajo cuya responsabilidad se tramiten los procedimientos",
+      "Elegir al instructor del procedimiento",
+      "Exigir el cese del funcionario instructor"
+    ],
+    "correct": 1,
+    "exp": "El art. 53.1.b) reconoce el derecho a identificar a las autoridades y al personal al servicio de las Administraciones Públicas bajo cuya responsabilidad se tramiten los procedimientos.",
+    "fuente": "Art. 53.1.b) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 53.1.c) LPAC, los interesados tienen derecho a no presentar documentos originales, salvo que:",
+    "options": [
+      "De manera excepcional, la normativa reguladora aplicable establezca lo contrario",
+      "El importe del procedimiento supere los 3.000 euros",
+      "El procedimiento sea de naturaleza sancionadora",
+      "Lo solicite expresamente el instructor sin necesidad de norma habilitante"
+    ],
+    "correct": 0,
+    "exp": "El art. 53.1.c) reconoce el derecho a no presentar documentos originales, salvo que, de manera excepcional, la normativa reguladora aplicable establezca lo contrario.",
+    "fuente": "Art. 53.1.c) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 53.1.c) LPAC, si excepcionalmente deben presentar un documento original, los interesados tienen derecho a:",
+    "options": [
+      "Recuperar el original en un plazo máximo de 24 horas",
+      "Que se les indemnice por la molestia",
+      "Obtener una copia autenticada de éste",
+      "Presentar una fotocopia sin cotejar"
+    ],
+    "correct": 2,
+    "exp": "El art. 53.1.c) añade que, en caso de deber presentar excepcionalmente un documento original, el interesado tendrá derecho a obtener una copia autenticada de éste.",
+    "fuente": "Art. 53.1.c) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 53.1.d) LPAC, los interesados tienen derecho a no presentar datos y documentos:",
+    "options": [
+      "Que hayan sido solicitados por primera vez en ese procedimiento",
+      "No exigidos por las normas aplicables al procedimiento, que ya se encuentren en poder de las AAPP o hayan sido elaborados por éstas",
+      "Que estén en poder de una Administración extranjera",
+      "Que sean posteriores a la fecha de inicio del procedimiento"
+    ],
+    "correct": 1,
+    "exp": "El art. 53.1.d) reconoce el derecho a no presentar datos y documentos no exigidos por las normas aplicables al procedimiento, que ya se encuentren en poder de las AAPP o que hayan sido elaborados por éstas.",
+    "fuente": "Art. 53.1.d) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 53.1.e) LPAC, los interesados pueden aportar documentos en cualquier fase del procedimiento anterior a:",
+    "options": [
+      "La resolución definitiva",
+      "La notificación del inicio del procedimiento",
+      "El recurso de alzada",
+      "El trámite de audiencia"
+    ],
+    "correct": 3,
+    "exp": "El art. 53.1.e) reconoce el derecho a aportar documentos en cualquier fase del procedimiento anterior al trámite de audiencia, que deberán ser tenidos en cuenta por el órgano competente al redactar la propuesta de resolución.",
+    "fuente": "Art. 53.1.e) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 53.1.f) LPAC, los interesados tienen derecho a obtener información y orientación acerca de:",
+    "options": [
+      "Los requisitos jurídicos o técnicos que las disposiciones vigentes impongan a los proyectos, actuaciones o solicitudes que se propongan realizar",
+      "La vida privada del instructor del procedimiento",
+      "El salario de los empleados públicos intervinientes",
+      "Los procedimientos disciplinarios internos del órgano"
+    ],
+    "correct": 0,
+    "exp": "El art. 53.1.f) reconoce el derecho a obtener información y orientación acerca de los requisitos jurídicos o técnicos que las disposiciones vigentes impongan a los proyectos, actuaciones o solicitudes que se propongan realizar.",
+    "fuente": "Art. 53.1.f) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 53.1.g) LPAC, los interesados tienen derecho a:",
+    "options": [
+      "Exigir asistencia letrada gratuita en todo procedimiento administrativo",
+      "Ser representado obligatoriamente por un procurador",
+      "Actuar asistido de asesor cuando lo considere conveniente en defensa de sus intereses",
+      "Recibir asesoramiento jurídico gratuito de la propia Administración"
+    ],
+    "correct": 2,
+    "exp": "El art. 53.1.g) reconoce el derecho a actuar asistido de asesor cuando el interesado lo considere conveniente en defensa de sus intereses.",
+    "fuente": "Art. 53.1.g) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 53.1.h) LPAC, los interesados tienen derecho a cumplir las obligaciones de pago a través de los medios electrónicos previstos en:",
+    "options": [
+      "El artículo 16.3",
+      "El artículo 98.2",
+      "El artículo 27",
+      "El artículo 3"
+    ],
+    "correct": 1,
+    "exp": "El art. 53.1.h) reconoce el derecho a cumplir las obligaciones de pago a través de los medios electrónicos previstos en el artículo 98.2.",
+    "fuente": "Art. 53.1.h) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 53.2.a) LPAC, en los procedimientos administrativos de naturaleza sancionadora, los presuntos responsables tienen derecho a ser notificados de:",
+    "options": [
+      "La identidad del denunciante en todo caso",
+      "El historial sancionador de otros expedientados",
+      "La valoración interna del órgano antes de resolver",
+      "Los hechos que se les imputen, las infracciones que puedan constituir, las sanciones que pudieran imponerse, y la identidad del instructor y de la autoridad competente"
+    ],
+    "correct": 3,
+    "exp": "El art. 53.2.a) reconoce, en procedimientos sancionadores, el derecho a ser notificado de los hechos imputados, las infracciones que puedan constituir, las sanciones que pudieran imponerse, y la identidad del instructor, de la autoridad competente para imponer la sanción y de la norma que atribuye tal competencia.",
+    "fuente": "Art. 53.2.a) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 53.2.b) LPAC, en los procedimientos sancionadores, los presuntos responsables tienen derecho a:",
+    "options": [
+      "La presunción de no existencia de responsabilidad administrativa mientras no se demuestre lo contrario",
+      "La condonación automática de la sanción tras seis meses",
+      "La anulación del expediente si no se resuelve en 15 días",
+      "La sustitución de la sanción por una advertencia siempre"
+    ],
+    "correct": 0,
+    "exp": "El art. 53.2.b) reconoce el derecho a la presunción de no existencia de responsabilidad administrativa mientras no se demuestre lo contrario.",
+    "fuente": "Art. 53.2.b) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 53.1.i) LPAC, además de los derechos enumerados en dicho apartado, los interesados en el procedimiento administrativo son titulares de:",
+    "options": [
+      "Los derechos reconocidos únicamente por vía reglamentaria",
+      "Los derechos que determine el instructor del procedimiento",
+      "Cualesquiera otros que les reconozcan la Constitución y las leyes",
+      "Ningún otro derecho adicional"
+    ],
+    "correct": 2,
+    "exp": "El art. 53.1.i) reconoce como derecho cualesquiera otros que les reconozcan la Constitución y las leyes.",
+    "fuente": "Art. 53.1.i) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  }
+]);
