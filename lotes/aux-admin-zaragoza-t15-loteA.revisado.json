@@ -1,0 +1,607 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 15,
+  "tramo": "LBRL (Ley 7/1985): arts. 18, 69, 70, 70 bis y 72",
+  "preguntas": [
+    {
+      "q": "Según el art. 18.1.a) de la LBRL, ¿qué derecho tienen los vecinos en relación con las elecciones municipales?",
+      "options": [
+        "Ser elector y elegible de acuerdo con lo dispuesto en la legislación electoral.",
+        "Ser elegible únicamente si reside en el municipio más de diez años.",
+        "Ser elector, pero no elegible salvo autorización expresa del Pleno.",
+        "Ser elegible sin necesidad de estar inscrito en el padrón municipal."
+      ],
+      "correct": 0,
+      "exp": "El art. 18.1.a) LBRL reconoce como derecho y deber de los vecinos 'ser elector y elegible de acuerdo con lo dispuesto en la legislación electoral.'",
+      "fuente": "Art. 18.1.a) LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 18.1.a) LBRL literal: 'Ser elector y elegible de acuerdo con lo dispuesto en la legislación electoral.' Coincide."
+    },
+    {
+      "q": "El art. 18.1.b) de la LBRL reconoce a los vecinos el derecho a participar en la gestión municipal:",
+      "options": [
+        "De acuerdo con lo dispuesto en las leyes y, en su caso, cuando la colaboración voluntaria de los vecinos sea interesada por los órganos de gobierno y administración municipal.",
+        "Únicamente mediante la constitución de partidos políticos con representación en el Pleno.",
+        "Solo a través de referéndum vinculante convocado por el Alcalde.",
+        "De forma automática, sin que sea necesaria ninguna forma de colaboración voluntaria."
+      ],
+      "correct": 0,
+      "exp": "Art. 18.1.b) LBRL: participar en la gestión municipal 'de acuerdo con lo dispuesto en las leyes y, en su caso, cuando la colaboración con carácter voluntario de los vecinos sea interesada por los órganos de gobierno y administración municipal.'",
+      "fuente": "Art. 18.1.b) LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 18.1.b) LBRL literal: 'Participar en la gestión municipal de acuerdo con lo dispuesto en las leyes y, en su caso, cuando la colaboración con carácter voluntario de los vecinos sea interesada por los órganos de gobierno y administración municipal.' Coincide."
+    },
+    {
+      "q": "Conforme al art. 18.1.c) de la LBRL, el derecho de los vecinos a utilizar los servicios públicos municipales y a acceder a los aprovechamientos comunales se ejerce:",
+      "options": [
+        "De acuerdo con su naturaleza, conforme a las normas aplicables.",
+        "Sin ninguna limitación ni norma que lo condicione.",
+        "Únicamente previa autorización expresa del Pleno municipal.",
+        "Solo si el vecino ostenta la condición de propietario en el municipio."
+      ],
+      "correct": 0,
+      "exp": "Art. 18.1.c) LBRL: 'Utilizar, de acuerdo con su naturaleza, los servicios públicos municipales, y acceder a los aprovechamientos comunales, conforme a las normas aplicables.'",
+      "fuente": "Art. 18.1.c) LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 18.1.c) LBRL literal: 'Utilizar, de acuerdo con su naturaleza, los servicios públicos municipales, y acceder a los aprovechamientos comunales, conforme a las normas aplicables.' Coincide."
+    },
+    {
+      "q": "Según el art. 18.1.d) de la LBRL, los vecinos deben contribuir a la realización de las competencias municipales mediante:",
+      "options": [
+        "Las prestaciones económicas y personales legalmente previstas.",
+        "Únicamente prestaciones personales, nunca económicas.",
+        "Donaciones voluntarias sin cobertura legal.",
+        "Aportaciones exclusivamente en especie."
+      ],
+      "correct": 0,
+      "exp": "Art. 18.1.d) LBRL: 'Contribuir mediante las prestaciones económicas y personales legalmente previstas a la realización de las competencias municipales.'",
+      "fuente": "Art. 18.1.d) LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 18.1.d) LBRL literal: 'Contribuir mediante las prestaciones económicas y personales legalmente previstas a la realización de las competencias municipales.' Coincide."
+    },
+    {
+      "q": "El art. 18.1.e) de la LBRL reconoce el derecho del vecino a ser informado, previa petición razonada, y dirigir solicitudes a la Administración municipal en relación con todos los expedientes y documentación municipal, de acuerdo con lo previsto en:",
+      "options": [
+        "El artículo 105 de la Constitución.",
+        "El artículo 20 de la Constitución.",
+        "El artículo 23 de la Constitución.",
+        "El artículo 9.3 de la Constitución."
+      ],
+      "correct": 0,
+      "exp": "Art. 18.1.e) LBRL remite expresamente a 'lo previsto en el artículo 105 de la Constitución' para el ejercicio de este derecho de información y solicitud.",
+      "fuente": "Art. 18.1.e) LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 18.1.e) LBRL literal: remite a 'lo previsto en el artículo 105 de la Constitución'. Coincide; distractores (20, 23, 9.3 CE) no ambiguos."
+    },
+    {
+      "q": "Según el art. 18.1.f) de la LBRL, entre los derechos y deberes de los vecinos se incluye:",
+      "options": [
+        "Pedir la consulta popular en los términos previstos en la ley.",
+        "Convocar directamente un referéndum municipal sin intervención del Pleno.",
+        "Vetar acuerdos del Pleno mediante recogida de firmas.",
+        "Exigir la disolución de la corporación local."
+      ],
+      "correct": 0,
+      "exp": "Art. 18.1.f) LBRL: 'Pedir la consulta popular en los términos previstos en la ley.'",
+      "fuente": "Art. 18.1.f) LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 18.1.f) LBRL literal: 'Pedir la consulta popular en los términos previstos en la ley.' Coincide."
+    },
+    {
+      "q": "Conforme al art. 18.1.g) de la LBRL, los vecinos pueden exigir la prestación y, en su caso, el establecimiento del correspondiente servicio público:",
+      "options": [
+        "En el supuesto de constituir una competencia municipal propia de carácter obligatorio.",
+        "En cualquier supuesto, sea o no competencia municipal.",
+        "Solo cuando se trate de una competencia delegada por la Comunidad Autónoma.",
+        "Únicamente si el servicio ya se presta en un municipio limítrofe."
+      ],
+      "correct": 0,
+      "exp": "Art. 18.1.g) LBRL: exigir la prestación y establecimiento del servicio 'en el supuesto de constituir una competencia municipal propia de carácter obligatorio.'",
+      "fuente": "Art. 18.1.g) LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 18.1.g) LBRL literal: 'Exigir la prestación y, en su caso, el establecimiento del correspondiente servicio público, en el supuesto de constituir una competencia municipal propia de carácter obligatorio.' Coincide."
+    },
+    {
+      "q": "El art. 18.1.h) de la LBRL reconoce a los vecinos el derecho a ejercer la iniciativa popular en los términos previstos en:",
+      "options": [
+        "El artículo 70 bis.",
+        "El artículo 69.",
+        "El artículo 71.",
+        "El artículo 72."
+      ],
+      "correct": 0,
+      "exp": "Art. 18.1.h) LBRL: 'Ejercer la iniciativa popular en los términos previstos en el artículo 70 bis.'",
+      "fuente": "Art. 18.1.h) LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 18.1.h) LBRL literal: 'Ejercer la iniciativa popular en los términos previstos en el artículo 70 bis.' Coincide."
+    },
+    {
+      "q": "El art. 18.1.i) de la LBRL cierra la enumeración de derechos y deberes de los vecinos con una cláusula que se refiere a:",
+      "options": [
+        "Aquellos otros derechos y deberes establecidos en las leyes.",
+        "Los derechos que expresamente reconozca el reglamento orgánico municipal, y solo esos.",
+        "Los derechos reconocidos por costumbre inmemorial.",
+        "Ningún derecho adicional, siendo la lista de letras a) a h) cerrada y exhaustiva."
+      ],
+      "correct": 0,
+      "exp": "Art. 18.1.i) LBRL: 'Aquellos otros derechos y deberes establecidos en las leyes', cláusula de cierre no exhaustiva de la lista.",
+      "fuente": "Art. 18.1.i) LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 18.1.i) LBRL literal: 'Aquellos otros derechos y deberes establecidos en las leyes.' Coincide, cláusula de cierre no exhaustiva."
+    },
+    {
+      "q": "Según el art. 18.2 de la LBRL, la inscripción de los extranjeros en el padrón municipal:",
+      "options": [
+        "No constituirá prueba de su residencia legal en España ni les atribuirá ningún derecho que no les confiera la legislación vigente.",
+        "Constituye prueba plena e irrefutable de su residencia legal en España.",
+        "Les atribuye automáticamente el derecho de sufragio en elecciones municipales.",
+        "Equivale a la obtención de la nacionalidad española a todos los efectos."
+      ],
+      "correct": 0,
+      "exp": "Art. 18.2 LBRL: la inscripción de extranjeros en el padrón 'no constituirá prueba de su residencia legal en España ni les atribuirá ningún derecho que no les confiera la legislación vigente.'",
+      "fuente": "Art. 18.2 LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 18.2 LBRL literal: 'La inscripción de los extranjeros en el padrón municipal no constituirá prueba de su residencia legal en España ni les atribuirá ningún derecho que no les confiera la legislación vigente...'. Coincide."
+    },
+    {
+      "q": "Según el art. 69.1 de la LBRL, las Corporaciones locales facilitarán:",
+      "options": [
+        "La más amplia información sobre su actividad y la participación de todos los ciudadanos en la vida local.",
+        "Información únicamente a los vecinos empadronados con más de cinco años de antigüedad.",
+        "Información solo sobre los acuerdos del Pleno, no sobre el resto de su actividad.",
+        "La participación exclusivamente de las asociaciones inscritas en el registro municipal."
+      ],
+      "correct": 0,
+      "exp": "Art. 69.1 LBRL: 'Las Corporaciones locales facilitarán la más amplia información sobre su actividad y la participación de todos los ciudadanos en la vida local.'",
+      "fuente": "Art. 69.1 LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 69.1 LBRL literal: 'Las Corporaciones locales facilitarán la más amplia información sobre su actividad y la participación de todos los ciudadanos en la vida local.' Coincide."
+    },
+    {
+      "q": "Conforme al art. 69.2 de la LBRL, las formas, medios y procedimientos de participación que las Corporaciones establezcan en ejercicio de su potestad de autoorganización:",
+      "options": [
+        "No podrán en ningún caso menoscabar las facultades de decisión que corresponden a los órganos representativos regulados por la Ley.",
+        "Sustituyen a los órganos representativos en la toma de decisiones vinculantes.",
+        "Solo pueden regularse mediante ley estatal, nunca por la propia Corporación.",
+        "Prevalecen sobre los acuerdos del Pleno cuando exista contradicción."
+      ],
+      "correct": 0,
+      "exp": "Art. 69.2 LBRL: esas formas de participación 'no podrán en ningún caso menoscabar las facultades de decisión que corresponden a los órganos representativos regulados por la Ley.'",
+      "fuente": "Art. 69.2 LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 69.2 LBRL literal: 'no podrán en ningún caso menoscabar las facultades de decisión que corresponden a los órganos representativos regulados por la Ley.' Coincide."
+    },
+    {
+      "q": "¿En virtud de qué potestad establecen las Corporaciones locales, según el art. 69.2 de la LBRL, las formas, medios y procedimientos de participación ciudadana?",
+      "options": [
+        "Su potestad de autoorganización.",
+        "Su potestad tributaria.",
+        "Su potestad expropiatoria.",
+        "Su potestad disciplinaria."
+      ],
+      "correct": 0,
+      "exp": "Art. 69.2 LBRL: dichas formas de participación se establecen 'en ejercicio de su potestad de autoorganización.'",
+      "fuente": "Art. 69.2 LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 69.2 LBRL literal: las formas de participación se establecen 'en ejercicio de su potestad de autoorganización.' Coincide."
+    },
+    {
+      "q": "Según el art. 70.1 de la LBRL, ¿cuál es la regla general sobre las sesiones del Pleno de las corporaciones locales?",
+      "options": [
+        "Son públicas.",
+        "Son secretas salvo acuerdo en contrario del Alcalde.",
+        "Son públicas solo si lo solicita un tercio de los concejales.",
+        "Son secretas cuando se debatan asuntos presupuestarios."
+      ],
+      "correct": 0,
+      "exp": "Art. 70.1 LBRL: 'Las sesiones del Pleno de las corporaciones locales son públicas.'",
+      "fuente": "Art. 70.1 LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 70.1 LBRL literal: 'Las sesiones del Pleno de las corporaciones locales son públicas.' Coincide."
+    },
+    {
+      "q": "El art. 70.1 de la LBRL permite que sean secretos el debate y votación de asuntos que puedan afectar al derecho fundamental del art. 18.1 de la Constitución cuando:",
+      "options": [
+        "Así se acuerde por mayoría absoluta.",
+        "Así lo decida unilateralmente el Alcalde.",
+        "Lo solicite cualquier concejal, sin necesidad de votación.",
+        "Así se acuerde por mayoría de dos tercios."
+      ],
+      "correct": 0,
+      "exp": "Art. 70.1 LBRL: pueden ser secretos el debate y votación de asuntos que afecten al derecho del art. 18.1 CE 'cuando así se acuerde por mayoría absoluta.'",
+      "fuente": "Art. 70.1 LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 70.1 LBRL literal: pueden ser secretos esos asuntos 'cuando así se acuerde por mayoría absoluta.' Coincide."
+    },
+    {
+      "q": "Según el art. 70.1 de la LBRL, ¿son públicas las sesiones de la Junta de Gobierno Local?",
+      "options": [
+        "No, el propio artículo señala expresamente que no son públicas.",
+        "Sí, siempre son públicas al igual que las del Pleno.",
+        "Solo son públicas cuando se debatan ordenanzas.",
+        "Son públicas únicamente en los municipios de gran población."
+      ],
+      "correct": 0,
+      "exp": "Art. 70.1 LBRL, último inciso: 'No son públicas las sesiones de la Junta de Gobierno Local.'",
+      "fuente": "Art. 70.1 LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 70.1 LBRL literal, último inciso: 'No son públicas las sesiones de la Junta de Gobierno Local.' Coincide."
+    },
+    {
+      "q": "Conforme al art. 70.2 de la LBRL, los acuerdos que adopten las corporaciones locales:",
+      "options": [
+        "Se publican o notifican en la forma prevista por la Ley.",
+        "Solo producen efectos si se publican en el Boletín Oficial del Estado.",
+        "Se comunican verbalmente a los interesados, sin exigirse forma escrita.",
+        "No requieren publicación ni notificación en ningún caso."
+      ],
+      "correct": 0,
+      "exp": "Art. 70.2 LBRL: 'Los acuerdos que adopten las corporaciones locales se publican o notifican en la forma prevista por la Ley.'",
+      "fuente": "Art. 70.2 LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 70.2 LBRL literal: 'Los acuerdos que adopten las corporaciones locales se publican o notifican en la forma prevista por la Ley.' Coincide."
+    },
+    {
+      "q": "Según el art. 70.2 de la LBRL, las ordenanzas, incluido el articulado de las normas de los planes urbanísticos, se publican en:",
+      "options": [
+        "El «Boletín Oficial» de la Provincia.",
+        "El «Boletín Oficial del Estado» exclusivamente.",
+        "El tablón de anuncios del ayuntamiento, sin necesidad de boletín oficial.",
+        "El «Boletín Oficial» de la Comunidad Autónoma exclusivamente."
+      ],
+      "correct": 0,
+      "exp": "Art. 70.2 LBRL: las ordenanzas 'se publicarán en el «Boletín Oficial» de la Provincia y no entrarán en vigor hasta que se haya publicado completamente su texto...'.",
+      "fuente": "Art. 70.2 LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 70.2 LBRL literal: las ordenanzas 'se publicarán en el «Boletín Oficial» de la Provincia...'. Coincide."
+    },
+    {
+      "q": "El art. 70.2 de la LBRL excluye de su régimen general de entrada en vigor (transcurrido el plazo del art. 65.2) a los presupuestos y las ordenanzas fiscales, que se publican y entran en vigor conforme a:",
+      "options": [
+        "La Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales.",
+        "La Ley 7/1985, de 2 de abril, en su totalidad.",
+        "El Reglamento Orgánico Municipal de cada ayuntamiento.",
+        "La legislación autonómica de régimen local, sin referencia estatal."
+      ],
+      "correct": 0,
+      "exp": "Art. 70.2 LBRL: presupuestos y ordenanzas fiscales 'se publican y entran en vigor en los términos establecidos en la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales.'",
+      "fuente": "Art. 70.2 LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 70.2 LBRL literal: presupuestos y ordenanzas fiscales 'se publican y entran en vigor en los términos establecidos en la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales.' Coincide."
+    },
+    {
+      "q": "Según el art. 70.2 de la LBRL, las Administraciones públicas con competencias urbanísticas deberán tener a disposición de los ciudadanos que lo soliciten:",
+      "options": [
+        "Copias completas del planeamiento vigente en su ámbito territorial.",
+        "Copias del planeamiento solo si el ciudadano acredita interés legítimo.",
+        "Un resumen no vinculante del planeamiento, nunca el texto completo.",
+        "El planeamiento únicamente durante el periodo de información pública."
+      ],
+      "correct": 0,
+      "exp": "Art. 70.2 LBRL: las Administraciones con competencias urbanísticas deben tener 'a disposición de los ciudadanos que lo soliciten, copias completas del planeamiento vigente en su ámbito territorial.'",
+      "fuente": "Art. 70.2 LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 70.2 LBRL literal: las Administraciones con competencias urbanísticas 'deberán tener, a disposición de los ciudadanos que lo soliciten, copias completas del planeamiento vigente en su ámbito territorial.' Coincide."
+    },
+    {
+      "q": "Conforme al art. 70.3 de la LBRL, todos los ciudadanos tienen derecho a obtener copias y certificaciones acreditativas de los acuerdos de las corporaciones locales y sus antecedentes, así como a:",
+      "options": [
+        "Consultar los archivos y registros en los términos que disponga la legislación de desarrollo del art. 105, párrafo b), de la Constitución.",
+        "Modificar directamente los acuerdos si consideran que son erróneos.",
+        "Exigir la revocación del acuerdo sin necesidad de recurso.",
+        "Vetar la ejecución del acuerdo mediante escrito ante el Secretario."
+      ],
+      "correct": 0,
+      "exp": "Art. 70.3 LBRL reconoce el derecho a obtener copias y certificaciones y a 'consultar los archivos y registros en los términos que disponga la legislación de desarrollo del artículo 105, párrafo b), de la Constitución.'",
+      "fuente": "Art. 70.3 LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 70.3 LBRL literal: derecho a 'consultar los archivos y registros en los términos que disponga la legislación de desarrollo del artículo 105, párrafo b), de la Constitución.' Coincide."
+    },
+    {
+      "q": "Según el art. 70.3 de la LBRL, la denegación o limitación del derecho a consultar archivos y registros, en todo cuanto afecte a la seguridad y defensa del Estado, la averiguación de los delitos o la intimidad de las personas, deberá verificarse mediante:",
+      "options": [
+        "Resolución motivada.",
+        "Simple comunicación verbal del funcionario responsable.",
+        "Acuerdo tácito por el mero transcurso del plazo de respuesta.",
+        "Decreto de la Alcaldía sin necesidad de motivación."
+      ],
+      "correct": 0,
+      "exp": "Art. 70.3 LBRL: la denegación o limitación de ese derecho, en los supuestos que enumera, 'deberá verificarse mediante resolución motivada.'",
+      "fuente": "Art. 70.3 LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 70.3 LBRL literal: la denegación o limitación de ese derecho 'deberá verificarse mediante resolución motivada.' Coincide."
+    },
+    {
+      "q": "Según el art. 70 bis.1 de la LBRL, los ayuntamientos deberán establecer y regular procedimientos y órganos adecuados para la efectiva participación de los vecinos en los asuntos de la vida pública local:",
+      "options": [
+        "En normas de carácter orgánico.",
+        "Únicamente mediante bando de la Alcaldía.",
+        "Solo si lo exige la legislación autonómica correspondiente.",
+        "Mediante simple acuerdo verbal de la Junta de Gobierno Local."
+      ],
+      "correct": 0,
+      "exp": "Art. 70 bis.1 LBRL: los ayuntamientos 'deberán establecer y regular en normas de carácter orgánico procedimientos y órganos adecuados para la efectiva participación de los vecinos...'.",
+      "fuente": "Art. 70 bis.1 LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 70 bis.1 LBRL literal: los ayuntamientos 'deberán establecer y regular en normas de carácter orgánico procedimientos y órganos adecuados para la efectiva participación de los vecinos...'. Coincide."
+    },
+    {
+      "q": "Conforme al art. 70 bis.2 de la LBRL, ¿quiénes pueden ejercer la iniciativa popular presentando propuestas de acuerdos, actuaciones o proyectos de reglamentos en materias de competencia municipal?",
+      "options": [
+        "Los vecinos que gocen del derecho de sufragio activo en las elecciones municipales.",
+        "Cualquier persona física o jurídica, sin importar su vecindad.",
+        "Únicamente los concejales que no formen parte del equipo de gobierno.",
+        "Solo las asociaciones de vecinos legalmente constituidas."
+      ],
+      "correct": 0,
+      "exp": "Art. 70 bis.2 LBRL: pueden ejercer la iniciativa popular 'los vecinos que gocen del derecho de sufragio activo en las elecciones municipales.'",
+      "fuente": "Art. 70 bis.2 LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 70 bis.2 LBRL literal: pueden ejercer la iniciativa popular 'los vecinos que gocen del derecho de sufragio activo en las elecciones municipales.' Coincide."
+    },
+    {
+      "q": "Según el art. 70 bis.2 de la LBRL, en un municipio de hasta 5.000 habitantes, ¿qué porcentaje de vecinos debe suscribir una iniciativa popular?",
+      "options": [
+        "El 20 por ciento.",
+        "El 10 por ciento.",
+        "El 15 por ciento.",
+        "El 25 por ciento."
+      ],
+      "correct": 0,
+      "exp": "Art. 70 bis.2.a) LBRL: en municipios 'hasta 5.000 habitantes, el 20 por ciento.'",
+      "fuente": "Art. 70 bis.2.a) LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 70 bis.2.a) LBRL literal: 'Hasta 5.000 habitantes, el 20 por ciento.' Coincide."
+    },
+    {
+      "q": "Según el art. 70 bis.2 de la LBRL, en un municipio de entre 5.001 y 20.000 habitantes, la iniciativa popular debe ir suscrita al menos por:",
+      "options": [
+        "El 15 por ciento de los vecinos del municipio.",
+        "El 20 por ciento de los vecinos del municipio.",
+        "El 10 por ciento de los vecinos del municipio.",
+        "El 5 por ciento de los vecinos del municipio."
+      ],
+      "correct": 0,
+      "exp": "Art. 70 bis.2.b) LBRL: 'De 5.001 a 20.000 habitantes, el 15 por ciento.'",
+      "fuente": "Art. 70 bis.2.b) LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 70 bis.2.b) LBRL literal: 'De 5.001 a 20.000 habitantes, el 15 por ciento.' Coincide."
+    },
+    {
+      "q": "Según el art. 70 bis.2 de la LBRL, a partir de 20.001 habitantes, ¿qué porcentaje mínimo de vecinos debe suscribir la iniciativa popular?",
+      "options": [
+        "El 10 por ciento.",
+        "El 15 por ciento.",
+        "El 20 por ciento.",
+        "El 5 por ciento."
+      ],
+      "correct": 0,
+      "exp": "Art. 70 bis.2.c) LBRL: 'A partir de 20.001 habitantes, el 10 por ciento.'",
+      "fuente": "Art. 70 bis.2.c) LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 70 bis.2.c) LBRL literal: 'A partir de 20.001 habitantes, el 10 por ciento.' Coincide."
+    },
+    {
+      "q": "Conforme al art. 70 bis.2 de la LBRL, las iniciativas populares deberán ser sometidas a debate y votación:",
+      "options": [
+        "En el Pleno, sin perjuicio de que sean resueltas por el órgano competente por razón de la materia.",
+        "En la Junta de Gobierno Local, sin intervención del Pleno.",
+        "En referéndum vecinal vinculante, sin intervención de ningún órgano municipal.",
+        "En comisión informativa, con carácter definitivo."
+      ],
+      "correct": 0,
+      "exp": "Art. 70 bis.2 LBRL: 'Tales iniciativas deberán ser sometidas a debate y votación en el Pleno, sin perjuicio de que sean resueltas por el órgano competente por razón de la materia.'",
+      "fuente": "Art. 70 bis.2 LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 70 bis.2 LBRL literal: 'Tales iniciativas deberán ser sometidas a debate y votación en el Pleno, sin perjuicio de que sean resueltas por el órgano competente por razón de la materia.' Coincide."
+    },
+    {
+      "q": "Según el art. 70 bis.2 de la LBRL, ¿en qué caso es preceptivo el informe del interventor sobre una iniciativa popular?",
+      "options": [
+        "Cuando la iniciativa afecte a derechos y obligaciones de contenido económico del ayuntamiento.",
+        "En todos los casos, sin excepción.",
+        "Solo cuando la iniciativa la presenten más de mil vecinos.",
+        "Nunca, el informe del interventor no se contempla en este artículo."
+      ],
+      "correct": 0,
+      "exp": "Art. 70 bis.2 LBRL: se requerirá 'el informe del interventor cuando la iniciativa afecte a derechos y obligaciones de contenido económico del ayuntamiento.'",
+      "fuente": "Art. 70 bis.2 LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 70 bis.2 LBRL literal: se requerirá 'el informe del interventor cuando la iniciativa afecte a derechos y obligaciones de contenido económico del ayuntamiento.' Coincide."
+    },
+    {
+      "q": "En los municipios a que se refiere el art. 121 de la LBRL (grandes poblaciones), el art. 70 bis.2 dispone que el informe de legalidad sobre las iniciativas populares será emitido por:",
+      "options": [
+        "El secretario general del Pleno.",
+        "El Secretario municipal ordinario, igual que en el resto de municipios.",
+        "El Alcalde, sin necesidad de informe técnico.",
+        "El Defensor del Ciudadano."
+      ],
+      "correct": 0,
+      "exp": "Art. 70 bis.2 LBRL: en los municipios del art. 121 LBRL, 'el informe de legalidad será emitido por el secretario general del Pleno.'",
+      "fuente": "Art. 70 bis.2 LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 70 bis.2 LBRL literal: en los municipios del art. 121 LBRL 'el informe de legalidad será emitido por el secretario general del Pleno.' Coincide."
+    },
+    {
+      "q": "Según el art. 70 bis.2 de la LBRL, las iniciativas populares pueden llevar incorporada una propuesta de consulta popular local, que se tramitará:",
+      "options": [
+        "Por el procedimiento y con los requisitos previstos en el artículo 71.",
+        "Por el procedimiento previsto en el artículo 69.",
+        "Sin sujeción a ningún procedimiento específico.",
+        "Por el procedimiento previsto en el artículo 18."
+      ],
+      "correct": 0,
+      "exp": "Art. 70 bis.2 LBRL, último párrafo: tales iniciativas 'pueden llevar incorporada una propuesta de consulta popular local, que será tramitada en tal caso por el procedimiento y con los requisitos previstos en el artículo 71.'",
+      "fuente": "Art. 70 bis.2 LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 70 bis.2 LBRL literal, último párrafo: las iniciativas 'pueden llevar incorporada una propuesta de consulta popular local, que será tramitada en tal caso por el procedimiento y con los requisitos previstos en el artículo 71.' Coincide."
+    },
+    {
+      "q": "Conforme al art. 70 bis.3 de la LBRL, las Entidades Locales, y especialmente los municipios, deberán impulsar la utilización interactiva de las tecnologías de la información y la comunicación para facilitar:",
+      "options": [
+        "La participación y la comunicación con los vecinos, la presentación de documentos y la realización de trámites, encuestas y consultas ciudadanas.",
+        "Únicamente el pago de tributos municipales por vía electrónica.",
+        "Exclusivamente la difusión de anuncios publicitarios institucionales.",
+        "Solo la comunicación interna entre el personal municipal."
+      ],
+      "correct": 0,
+      "exp": "Art. 70 bis.3 LBRL: impulsar dichas tecnologías 'para facilitar la participación y la comunicación con los vecinos, para la presentación de documentos y para la realización de trámites administrativos, de encuestas y, en su caso, de consultas ciudadanas.'",
+      "fuente": "Art. 70 bis.3 LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 70 bis.3 LBRL literal: impulsar dichas tecnologías 'para facilitar la participación y la comunicación con los vecinos, para la presentación de documentos y para la realización de trámites administrativos, de encuestas y, en su caso, de consultas ciudadanas.' Coincide."
+    },
+    {
+      "q": "Según el art. 70 bis.3 de la LBRL, ¿quiénes colaborarán con los municipios que, por su insuficiente capacidad económica y de gestión, no puedan desarrollar en grado suficiente el deber de impulsar la administración electrónica?",
+      "options": [
+        "Las Diputaciones provinciales, Cabildos y Consejos insulares.",
+        "Exclusivamente la Administración General del Estado.",
+        "Únicamente la Comunidad Autónoma respectiva.",
+        "Las entidades bancarias colaboradoras del municipio."
+      ],
+      "correct": 0,
+      "exp": "Art. 70 bis.3 LBRL: 'Las Diputaciones provinciales, Cabildos y Consejos insulares colaborarán con los municipios que, por su insuficiente capacidad económica y de gestión, no puedan desarrollar en grado suficiente el deber establecido en este apartado.'",
+      "fuente": "Art. 70 bis.3 LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 70 bis.3 LBRL literal: 'Las Diputaciones provinciales, Cabildos y Consejos insulares colaborarán con los municipios que, por su insuficiente capacidad económica y de gestión, no puedan desarrollar en grado suficiente el deber establecido en este apartado.' Coincide."
+    },
+    {
+      "q": "El art. 70 bis.4 de la LBRL, en relación con la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio, permite a los prestadores realizar los procedimientos y trámites relativos a dicha actividad:",
+      "options": [
+        "Por medio de una ventanilla única, por vía electrónica y a distancia, salvo la inspección del lugar o del equipo utilizado en la prestación del servicio.",
+        "Únicamente de forma presencial, con cita previa obligatoria.",
+        "Solo mediante representante legal colegiado.",
+        "Exclusivamente a través de la sede electrónica de la Comunidad Autónoma."
+      ],
+      "correct": 0,
+      "exp": "Art. 70 bis.4 LBRL: los prestadores podrán realizar los trámites 'por medio de una ventanilla única, por vía electrónica y a distancia, salvo que se trate de la inspección del lugar o del equipo que se utiliza en la prestación del servicio.'",
+      "fuente": "Art. 70 bis.4 LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 70 bis.4 LBRL literal: los prestadores 'podrán realizarlos, por medio de una ventanilla única, por vía electrónica y a distancia, salvo que se trate de la inspección del lugar o del equipo que se utiliza en la prestación del servicio.' Coincide."
+    },
+    {
+      "q": "Según el art. 72 de la LBRL, las Corporaciones locales favorecen el desarrollo de las asociaciones para la defensa de:",
+      "options": [
+        "Los intereses generales o sectoriales de los vecinos.",
+        "Exclusivamente los intereses económicos de sus asociados.",
+        "Los intereses de los partidos políticos con representación municipal.",
+        "Únicamente los intereses de las empresas radicadas en el municipio."
+      ],
+      "correct": 0,
+      "exp": "Art. 72 LBRL: 'Las Corporaciones locales favorecen el desarrollo de las asociaciones para la defensa de los intereses generales o sectoriales de los vecinos...'.",
+      "fuente": "Art. 72 LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 72 LBRL literal: 'Las Corporaciones locales favorecen el desarrollo de las asociaciones para la defensa de los intereses generales o sectoriales de los vecinos...'. Coincide."
+    },
+    {
+      "q": "Conforme al art. 72 de la LBRL, además de facilitar información a las asociaciones vecinales, las Corporaciones locales les facilitan, dentro de sus posibilidades:",
+      "options": [
+        "El uso de los medios públicos y el acceso a las ayudas económicas para la realización de sus actividades.",
+        "La cesión en propiedad de bienes de dominio público municipal.",
+        "La exención total de cualquier tributo municipal, sin excepción.",
+        "La representación directa en la Junta de Gobierno Local."
+      ],
+      "correct": 0,
+      "exp": "Art. 72 LBRL: las Corporaciones facilitan a esas asociaciones, 'dentro de sus posibilidades, el uso de los medios públicos y el acceso a las ayudas económicas para la realización de sus actividades.'",
+      "fuente": "Art. 72 LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 72 LBRL literal: las Corporaciones facilitan, 'dentro de sus posibilidades, el uso de los medios públicos y el acceso a las ayudas económicas para la realización de sus actividades.' Coincide."
+    },
+    {
+      "q": "Según el art. 72 de la LBRL, las Corporaciones locales impulsan la participación de las asociaciones vecinales en la gestión de la Corporación en los términos de:",
+      "options": [
+        "El número 2 del artículo 69.",
+        "El número 1 del artículo 70.",
+        "El artículo 18.1.",
+        "El artículo 70 bis.1."
+      ],
+      "correct": 0,
+      "exp": "Art. 72 LBRL: las Corporaciones 'impulsan su participación en la gestión de la Corporación en los términos del número 2 del artículo 69.'",
+      "fuente": "Art. 72 LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 72 LBRL literal: 'impulsan su participación en la gestión de la Corporación en los términos del número 2 del artículo 69.' Coincide."
+    },
+    {
+      "q": "Conforme al art. 72 de la LBRL, las asociaciones vecinales a las que se refiere el precepto, a tales efectos, pueden ser:",
+      "options": [
+        "Declaradas de utilidad pública.",
+        "Declaradas entidades de derecho público con potestades administrativas.",
+        "Integradas de oficio en la estructura orgánica del ayuntamiento.",
+        "Eximidas de cualquier control por parte de la Administración."
+      ],
+      "correct": 0,
+      "exp": "Art. 72 LBRL, último inciso: 'A tales efectos pueden ser declaradas de utilidad pública.'",
+      "fuente": "Art. 72 LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 72 LBRL literal, último inciso: 'A tales efectos pueden ser declaradas de utilidad pública.' Coincide."
+    },
+    {
+      "q": "Los artículos 69 a 72 de la LBRL, relativos a la información y participación ciudadanas, se ubican dentro de:",
+      "options": [
+        "El Capítulo IV del Título II, rubricado 'Información y participación ciudadanas'.",
+        "El Capítulo I del Título II, rubricado 'Organización'.",
+        "El Capítulo V del Título II, rubricado 'Estatuto de los miembros de las Corporaciones locales'.",
+        "El Título Preliminar de la Ley."
+      ],
+      "correct": 0,
+      "exp": "En el consolidado de la LBRL, la rúbrica que precede al art. 69 es 'CAPÍTULO IV. Información y participación ciudadanas', encabezando los arts. 69 a 72 (y siguientes).",
+      "fuente": "LBRL (Ley 7/1985), rúbrica del Capítulo IV, antes del art. 69",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado en el consolidado: la rúbrica 'CAPÍTULO IV / Información y participación ciudadanas' precede al art. 69 y encabeza los arts. 69 a 72 (dentro del TÍTULO II 'El municipio'). Coincide."
+    },
+    {
+      "q": "El art. 18.1 de la LBRL enumera los derechos y deberes de los vecinos en letras que van de la a) a la i), es decir, en un total de:",
+      "options": [
+        "Nueve apartados.",
+        "Siete apartados.",
+        "Ocho apartados.",
+        "Diez apartados."
+      ],
+      "correct": 0,
+      "exp": "El art. 18.1 LBRL enumera los derechos y deberes de los vecinos en las letras a), b), c), d), e), f), g), h) e i): nueve apartados en total.",
+      "fuente": "Art. 18.1 LBRL (Ley 7/1985)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 18.1 LBRL enumera las letras a) a i): nueve apartados en total (a,b,c,d,e,f,g,h,i). Coincide."
+    }
+  ]
+}
