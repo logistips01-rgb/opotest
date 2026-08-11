@@ -12948,3 +12948,527 @@ window.addQuestions('aux-admin-zaragoza', 16, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 15 · lote 2026-08-11 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 15, [
+  {
+    "q": "Según el art. 20.1.d) de la Constitución Española, ¿qué derecho se reconoce y protege en relación con la información?",
+    "options": [
+      "El derecho a comunicar o recibir libremente información veraz por cualquier medio de difusión.",
+      "El derecho a comunicar información sin que se exija que sea veraz.",
+      "El derecho exclusivamente a recibir información, no a comunicarla.",
+      "El derecho a la información únicamente a través de medios de titularidad pública."
+    ],
+    "correct": 0,
+    "exp": "Art. 20.1.d) CE reconoce y protege el derecho 'a comunicar o recibir libremente información veraz por cualquier medio de difusión'.",
+    "fuente": "Art. 20.1.d) CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 20.1.d) de la Constitución, además de reconocer el derecho a comunicar o recibir información veraz, establece que la ley regulará:",
+    "options": [
+      "El régimen de concesión de licencias de radiodifusión.",
+      "El derecho a la cláusula de conciencia y al secreto profesional en el ejercicio de estas libertades.",
+      "La composición del Consejo de Administración de RTVE.",
+      "El procedimiento sancionador en materia de prensa."
+    ],
+    "correct": 1,
+    "exp": "Art. 20.1.d) CE, segundo inciso: 'La ley regulará el derecho a la cláusula de conciencia y al secreto profesional en el ejercicio de estas libertades.'",
+    "fuente": "Art. 20.1.d) CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 20.2 CE, el ejercicio de los derechos reconocidos en este artículo:",
+    "options": [
+      "Puede restringirse mediante censura previa en supuestos de excepcionalidad.",
+      "Puede restringirse mediante censura previa autorizada por ley orgánica.",
+      "No puede restringirse mediante ningún tipo de censura previa.",
+      "Solo puede restringirse mediante censura previa durante los estados de alarma."
+    ],
+    "correct": 2,
+    "exp": "Art. 20.2 CE: 'El ejercicio de estos derechos no puede restringirse mediante ningún tipo de censura previa.'",
+    "fuente": "Art. 20.2 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 20.3 CE, la ley regulará la organización y el control parlamentario de los medios de comunicación social dependientes del Estado o de cualquier ente público, garantizando el acceso a dichos medios a:",
+    "options": [
+      "Únicamente a los partidos con representación parlamentaria.",
+      "Exclusivamente al Gobierno y a los grupos de la oposición.",
+      "A cualquier ciudadano que lo solicite, sin ningún tipo de limitación.",
+      "A los grupos sociales y políticos significativos, respetando el pluralismo de la sociedad y de las diversas lenguas de España."
+    ],
+    "correct": 3,
+    "exp": "Art. 20.3 CE: la ley 'garantizará el acceso a dichos medios de los grupos sociales y políticos significativos, respetando el pluralismo de la sociedad y de las diversas lenguas de España.'",
+    "fuente": "Art. 20.3 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 20.4 CE, las libertades reconocidas en este artículo tienen su límite, especialmente, en:",
+    "options": [
+      "El derecho al honor, a la intimidad, a la propia imagen y a la protección de la juventud y de la infancia.",
+      "El derecho de propiedad y la libertad de empresa.",
+      "La seguridad jurídica y el principio de jerarquía normativa.",
+      "El derecho a la tutela judicial efectiva."
+    ],
+    "correct": 0,
+    "exp": "Art. 20.4 CE: 'Estas libertades tienen su límite en el respeto a los derechos reconocidos en este Título, en los preceptos de las leyes que lo desarrollen y, especialmente, en el derecho al honor, a la intimidad, a la propia imagen y a la protección de la juventud y de la infancia.'",
+    "fuente": "Art. 20.4 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el art. 20.5 CE, el secuestro de publicaciones, grabaciones y otros medios de información sólo podrá acordarse:",
+    "options": [
+      "Por decisión gubernativa motivada.",
+      "En virtud de resolución judicial.",
+      "Por acuerdo del Consejo de Ministros.",
+      "Mediante decreto-ley."
+    ],
+    "correct": 1,
+    "exp": "Art. 20.5 CE: 'Sólo podrá acordarse el secuestro de publicaciones, grabaciones y otros medios de información en virtud de resolución judicial.'",
+    "fuente": "Art. 20.5 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 105.b) de la Constitución, la ley regulará:",
+    "options": [
+      "El derecho de petición individual y colectiva.",
+      "La iniciativa legislativa popular.",
+      "El acceso de los ciudadanos a los archivos y registros administrativos.",
+      "La composición del Consejo de Estado."
+    ],
+    "correct": 2,
+    "exp": "Art. 105.b) CE: 'La ley regulará: ... b) El acceso de los ciudadanos a los archivos y registros administrativos, salvo en lo que afecte a la seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de las personas.'",
+    "fuente": "Art. 105.b) CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "El acceso de los ciudadanos a los archivos y registros administrativos, regulado en el art. 105.b) CE, tiene como una de sus excepciones expresas:",
+    "options": [
+      "La protección del secreto de las deliberaciones del Consejo de Ministros.",
+      "La reserva presupuestaria del ejercicio corriente.",
+      "El secreto de las comunicaciones.",
+      "Lo que afecte a la seguridad y defensa del Estado."
+    ],
+    "correct": 3,
+    "exp": "Art. 105.b) CE excluye del acceso 'lo que afecte a la seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de las personas.'",
+    "fuente": "Art. 105.b) CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Además de la seguridad y defensa del Estado, el art. 105.b) CE excluye del acceso a archivos y registros administrativos lo relativo a:",
+    "options": [
+      "La averiguación de los delitos.",
+      "Los expedientes de contratación en tramitación.",
+      "La política monetaria del Banco de España.",
+      "Los datos estadísticos oficiales."
+    ],
+    "correct": 0,
+    "exp": "Art. 105.b) CE: excepciones al acceso son la seguridad y defensa del Estado, 'la averiguación de los delitos y la intimidad de las personas.'",
+    "fuente": "Art. 105.b) CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 105.b) CE limita el acceso de los ciudadanos a los archivos y registros administrativos, entre otros supuestos, cuando afecte a:",
+    "options": [
+      "El régimen retributivo de los empleados públicos.",
+      "La intimidad de las personas.",
+      "La organización interna de los órganos colegiados.",
+      "Los informes técnicos no definitivos."
+    ],
+    "correct": 1,
+    "exp": "Art. 105.b) CE incluye entre las excepciones al acceso 'la intimidad de las personas'.",
+    "fuente": "Art. 105.b) CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 105 CE, que en su apartado b) consagra el acceso a archivos y registros administrativos, encomienda también a la ley regular en su apartado a):",
+    "options": [
+      "El régimen de responsabilidad patrimonial de la Administración.",
+      "El control jurisdiccional de la potestad reglamentaria.",
+      "La audiencia de los ciudadanos, directamente o a través de las organizaciones y asociaciones reconocidas por la ley, en el procedimiento de elaboración de las disposiciones administrativas que les afecten.",
+      "El sistema de recursos administrativos."
+    ],
+    "correct": 2,
+    "exp": "Art. 105.a) CE: 'La ley regulará: a) La audiencia de los ciudadanos, directamente o a través de las organizaciones y asociaciones reconocidas por la ley, en el procedimiento de elaboración de las disposiciones administrativas que les afecten.'",
+    "fuente": "Art. 105.a) CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Junto al acceso a archivos y registros del apartado b), el art. 105.c) CE remite a la ley la regulación de:",
+    "options": [
+      "El estatuto de los funcionarios públicos.",
+      "Las bases del régimen jurídico de las Administraciones Públicas.",
+      "El sistema de responsabilidad de los contratistas.",
+      "El procedimiento a través del cual deben producirse los actos administrativos, garantizando, cuando proceda, la audiencia del interesado."
+    ],
+    "correct": 3,
+    "exp": "Art. 105.c) CE: 'La ley regulará: ... c) El procedimiento a través del cual deben producirse los actos administrativos, garantizando, cuando proceda, la audiencia del interesado.'",
+    "fuente": "Art. 105.c) CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 8.1 LO 3/2018, el tratamiento de datos personales fundado en el cumplimiento de una obligación legal exigible al responsable solo podrá considerarse tal cuando así lo prevea:",
+    "options": [
+      "Una norma de Derecho de la Unión Europea o una norma con rango de ley.",
+      "Cualquier instrucción interna del responsable del tratamiento.",
+      "Una ordenanza municipal.",
+      "Un convenio entre particulares."
+    ],
+    "correct": 0,
+    "exp": "Art. 8.1 LO 3/2018: el tratamiento fundado en obligación legal 'solo podrá considerarse fundado ... cuando así lo prevea una norma de Derecho de la Unión Europea o una norma con rango de ley'.",
+    "fuente": "Art. 8.1 LO 3/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 8.2 LO 3/2018, el tratamiento de datos fundado en el cumplimiento de una misión de interés público o en el ejercicio de poderes públicos conferidos al responsable solo podrá considerarse tal cuando:",
+    "options": [
+      "Lo autorice el propio responsable del tratamiento mediante resolución motivada.",
+      "Derive de una competencia atribuida por una norma con rango de ley.",
+      "Lo solicite expresamente el interesado.",
+      "Lo determine un reglamento interno de organización."
+    ],
+    "correct": 1,
+    "exp": "Art. 8.2 LO 3/2018: dicho tratamiento 'solo podrá considerarse fundado ... cuando derive de una competencia atribuida por una norma con rango de ley'.",
+    "fuente": "Art. 8.2 LO 3/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 11.1 LO 3/2018, cuando los datos personales sean obtenidos del afectado, el responsable del tratamiento podrá dar cumplimiento al deber de información del art. 13 RGPD:",
+    "options": [
+      "Remitiendo al afectado a la sede electrónica de la Agencia Española de Protección de Datos.",
+      "Sin necesidad de facilitar ninguna información de forma inmediata.",
+      "Facilitando la información básica e indicando una dirección electrónica u otro medio que permita acceder de forma sencilla e inmediata a la restante información.",
+      "Únicamente mediante notificación postal certificada."
+    ],
+    "correct": 2,
+    "exp": "Art. 11.1 LO 3/2018: el responsable 'podrá dar cumplimiento al deber de información ... facilitando al afectado la información básica ... e indicándole una dirección electrónica u otro medio que permita acceder de forma sencilla e inmediata a la restante información.'",
+    "fuente": "Art. 11.1 LO 3/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 11.2.c) LO 3/2018, la información básica que debe contener, al menos, la información al afectado incluye:",
+    "options": [
+      "El plazo máximo de conservación de los datos en todo caso.",
+      "El número de empleados del responsable del tratamiento.",
+      "La identidad de todos los subencargados del tratamiento.",
+      "La posibilidad de ejercer los derechos establecidos en los artículos 15 a 22 del Reglamento (UE) 2016/679."
+    ],
+    "correct": 3,
+    "exp": "Art. 11.2.c) LO 3/2018: la información básica deberá contener, al menos, 'la posibilidad de ejercer los derechos establecidos en los artículos 15 a 22 del Reglamento (UE) 2016/679.'",
+    "fuente": "Art. 11.2.c) LO 3/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando los datos personales no hubieran sido obtenidos del afectado, según el art. 11.3 LO 3/2018, la información básica incluirá también, entre otros extremos:",
+    "options": [
+      "Las categorías de datos objeto de tratamiento y las fuentes de las que procedieran los datos.",
+      "El nombre del delegado de protección de datos de cualquier tercero ajeno al tratamiento.",
+      "La identidad de todos los anteriores responsables del tratamiento.",
+      "El coste económico del tratamiento para el responsable."
+    ],
+    "correct": 0,
+    "exp": "Art. 11.3 LO 3/2018: en estos supuestos la información básica incluirá también 'a) Las categorías de datos objeto de tratamiento. b) Las fuentes de las que procedieran los datos.'",
+    "fuente": "Art. 11.3 LO 3/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 12.1 LO 3/2018, los derechos reconocidos en los arts. 15 a 22 del RGPD podrán ejercerse:",
+    "options": [
+      "Únicamente de forma presencial ante el responsable del tratamiento.",
+      "Directamente o por medio de representante legal o voluntario.",
+      "Solo a través de la sede electrónica de la Administración.",
+      "Exclusivamente mediante burofax."
+    ],
+    "correct": 1,
+    "exp": "Art. 12.1 LO 3/2018: los derechos 'podrán ejercerse directamente o por medio de representante legal o voluntario.'",
+    "fuente": "Art. 12.1 LO 3/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 12.2 LO 3/2018, si el afectado opta por un medio distinto al ofrecido por el responsable para ejercer sus derechos:",
+    "options": [
+      "El responsable puede denegar el ejercicio del derecho por ese solo motivo.",
+      "El afectado deberá abonar una tasa adicional.",
+      "El ejercicio del derecho no podrá ser denegado por el solo motivo de optar el afectado por otro medio.",
+      "El plazo de respuesta se duplica automáticamente."
+    ],
+    "correct": 2,
+    "exp": "Art. 12.2 LO 3/2018: 'El ejercicio del derecho no podrá ser denegado por el solo motivo de optar el afectado por otro medio.'",
+    "fuente": "Art. 12.2 LO 3/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 12.4 LO 3/2018, la prueba del cumplimiento del deber de responder a la solicitud de ejercicio de derechos formulada por el afectado recaerá sobre:",
+    "options": [
+      "El afectado que formula la solicitud.",
+      "La autoridad de protección de datos competente.",
+      "El Defensor del Pueblo.",
+      "El responsable del tratamiento."
+    ],
+    "correct": 3,
+    "exp": "Art. 12.4 LO 3/2018: 'La prueba del cumplimiento del deber de responder a la solicitud de ejercicio de sus derechos formulado por el afectado recaerá sobre el responsable.'",
+    "fuente": "Art. 12.4 LO 3/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 12.6 LO 3/2018, los derechos de acceso, rectificación, cancelación, oposición o cualesquiera otros derivados de la ley orgánica podrán ejercerse en nombre y representación de los menores de catorce años por:",
+    "options": [
+      "Los titulares de la patria potestad.",
+      "Cualquier familiar mayor de edad, sin necesidad de representación legal.",
+      "El centro escolar donde estén matriculados.",
+      "Solo el Ministerio Fiscal."
+    ],
+    "correct": 0,
+    "exp": "Art. 12.6 LO 3/2018: 'los titulares de la patria potestad podrán ejercitar en nombre y representación de los menores de catorce años los derechos de acceso, rectificación, cancelación, oposición o cualesquiera otros que pudieran corresponderles.'",
+    "fuente": "Art. 12.6 LO 3/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 12.7 LO 3/2018, las actuaciones llevadas a cabo por el responsable del tratamiento para atender las solicitudes de ejercicio de los derechos serán, con carácter general:",
+    "options": [
+      "De pago, salvo que el afectado acredite insuficiencia de medios.",
+      "Gratuitas.",
+      "Facturadas según tarifas fijadas por la Agencia Española de Protección de Datos.",
+      "Gratuitas solo si el afectado es menor de edad."
+    ],
+    "correct": 1,
+    "exp": "Art. 12.7 LO 3/2018: 'Serán gratuitas las actuaciones llevadas a cabo por el responsable del tratamiento para atender las solicitudes de ejercicio de estos derechos', con las salvedades que indica el propio precepto.",
+    "fuente": "Art. 12.7 LO 3/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13.1 LO 3/2018, cuando el responsable trate una gran cantidad de datos relativos al afectado y este ejercite su derecho de acceso sin especificar a qué datos se refiere, el responsable podrá:",
+    "options": [
+      "Denegar directamente la solicitud por falta de concreción.",
+      "Exigir el pago de una tasa por cada dato solicitado.",
+      "Solicitarle, antes de facilitar la información, que el afectado especifique los datos o actividades de tratamiento a los que se refiere la solicitud.",
+      "Ampliar unilateralmente el plazo de respuesta a un año."
+    ],
+    "correct": 2,
+    "exp": "Art. 13.1 LO 3/2018: el responsable 'podrá solicitarle, antes de facilitar la información, que el afectado especifique los datos o actividades de tratamiento a los que se refiere la solicitud.'",
+    "fuente": "Art. 13.1 LO 3/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "El derecho de acceso se entenderá otorgado, según el art. 13.2 LO 3/2018, si el responsable del tratamiento facilita al afectado:",
+    "options": [
+      "Un resumen anual de los tratamientos realizados.",
+      "Una copia impresa remitida por correo postal.",
+      "Un certificado firmado por el delegado de protección de datos.",
+      "Un sistema de acceso remoto, directo y seguro a los datos personales que garantice, de modo permanente, el acceso a su totalidad."
+    ],
+    "correct": 3,
+    "exp": "Art. 13.2 LO 3/2018: 'El derecho de acceso se entenderá otorgado si el responsable del tratamiento facilitara al afectado un sistema de acceso remoto, directo y seguro a los datos personales que garantice, de modo permanente, el acceso a su totalidad.'",
+    "fuente": "Art. 13.2 LO 3/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13.3 LO 3/2018, a los efectos del art. 12.5 RGPD, se podrá considerar repetitivo el ejercicio del derecho de acceso cuando se ejercite:",
+    "options": [
+      "En más de una ocasión durante el plazo de seis meses, a menos que exista causa legítima para ello.",
+      "En más de tres ocasiones durante un mismo año natural.",
+      "Más de una vez al mes, sin excepción posible.",
+      "En cualquier caso en que se solicite por medios electrónicos."
+    ],
+    "correct": 0,
+    "exp": "Art. 13.3 LO 3/2018: 'se podrá considerar repetitivo el ejercicio del derecho de acceso en más de una ocasión durante el plazo de seis meses, a menos que exista causa legítima para ello.'",
+    "fuente": "Art. 13.3 LO 3/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 13.4 LO 3/2018, cuando el afectado elija un medio distinto al ofrecido que suponga un coste desproporcionado, la solicitud se considerará excesiva y:",
+    "options": [
+      "El responsable queda exonerado de atender la solicitud.",
+      "Dicho afectado asumirá el exceso de costes que su elección comporte.",
+      "La Agencia Española de Protección de Datos abonará la diferencia.",
+      "El plazo de respuesta se reduce a la mitad."
+    ],
+    "correct": 1,
+    "exp": "Art. 13.4 LO 3/2018: 'la solicitud será considerada excesiva, por lo que dicho afectado asumirá el exceso de costes que su elección comporte.'",
+    "fuente": "Art. 13.4 LO 3/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 14 LO 3/2018, al ejercer el derecho de rectificación, el afectado deberá:",
+    "options": [
+      "Aportar necesariamente un informe pericial independiente.",
+      "Solicitarlo únicamente a través de la Agencia Española de Protección de Datos.",
+      "Indicar en su solicitud a qué datos se refiere y la corrección que haya de realizarse, acompañando, cuando sea preciso, la documentación justificativa.",
+      "Esperar a que transcurra un año desde la obtención de los datos."
+    ],
+    "correct": 2,
+    "exp": "Art. 14 LO 3/2018: 'el afectado deberá indicar en su solicitud a qué datos se refiere y la corrección que haya de realizarse. Deberá acompañar, cuando sea preciso, la documentación justificativa de la inexactitud o carácter incompleto de los datos.'",
+    "fuente": "Art. 14 LO 3/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 15.1 LO 3/2018, el derecho de supresión se ejercerá de acuerdo con lo establecido en:",
+    "options": [
+      "El art. 12.5 del RGPD.",
+      "El art. 6.1 del RGPD.",
+      "El art. 13 del RGPD.",
+      "El art. 17 del RGPD."
+    ],
+    "correct": 3,
+    "exp": "Art. 15.1 LO 3/2018: 'El derecho de supresión se ejercerá de acuerdo con lo establecido en el artículo 17 del Reglamento (UE) 2016/679.'",
+    "fuente": "Art. 15.1 LO 3/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 15.2 LO 3/2018, cuando la supresión derive del ejercicio del derecho de oposición conforme al art. 21.2 RGPD, el responsable podrá:",
+    "options": [
+      "Conservar los datos identificativos del afectado necesarios para impedir tratamientos futuros con fines de mercadotecnia directa.",
+      "Ceder los datos a terceros para fines estadísticos.",
+      "Negarse a suprimir cualquier dato durante cinco años.",
+      "Exigir al afectado el pago de una compensación económica."
+    ],
+    "correct": 0,
+    "exp": "Art. 15.2 LO 3/2018: el responsable 'podrá conservar los datos identificativos del afectado necesarios con el fin de impedir tratamientos futuros para fines de mercadotecnia directa.'",
+    "fuente": "Art. 15.2 LO 3/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "El derecho a la limitación del tratamiento, según el art. 16.1 LO 3/2018, se ejercerá de acuerdo con lo establecido en:",
+    "options": [
+      "El art. 12.5 del RGPD.",
+      "El art. 18 del RGPD.",
+      "El art. 22 del RGPD.",
+      "El art. 5 de esta ley orgánica."
+    ],
+    "correct": 1,
+    "exp": "Art. 16.1 LO 3/2018: 'El derecho a la limitación del tratamiento se ejercerá de acuerdo con lo establecido en el artículo 18 del Reglamento (UE) 2016/679.'",
+    "fuente": "Art. 16.1 LO 3/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.2 LO 3/2018, el hecho de que el tratamiento de los datos personales esté limitado:",
+    "options": [
+      "No requiere constancia alguna en los sistemas del responsable.",
+      "Solo debe notificarse al afectado, sin más obligaciones.",
+      "Debe constar claramente en los sistemas de información del responsable.",
+      "Debe comunicarse a la autoridad judicial competente."
+    ],
+    "correct": 2,
+    "exp": "Art. 16.2 LO 3/2018: 'El hecho de que el tratamiento de los datos personales esté limitado debe constar claramente en los sistemas de información del responsable.'",
+    "fuente": "Art. 16.2 LO 3/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "El derecho a la portabilidad, según el art. 17 LO 3/2018, se ejercerá de acuerdo con lo establecido en:",
+    "options": [
+      "El art. 15 del RGPD.",
+      "El art. 17 del RGPD.",
+      "El art. 18 del RGPD.",
+      "El art. 20 del RGPD."
+    ],
+    "correct": 3,
+    "exp": "Art. 17 LO 3/2018: 'El derecho a la portabilidad se ejercerá de acuerdo con lo establecido en el artículo 20 del Reglamento (UE) 2016/679.'",
+    "fuente": "Art. 17 LO 3/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 18 LO 3/2018, el derecho de oposición, así como los derechos relacionados con las decisiones individuales automatizadas, se ejercerán de acuerdo con lo establecido, respectivamente, en:",
+    "options": [
+      "Los arts. 21 y 22 del RGPD.",
+      "Los arts. 15 y 16 del RGPD.",
+      "Los arts. 17 y 18 del RGPD.",
+      "Los arts. 13 y 14 del RGPD."
+    ],
+    "correct": 0,
+    "exp": "Art. 18 LO 3/2018: 'El derecho de oposición, así como los derechos relacionados con las decisiones individuales automatizadas ... se ejercerán de acuerdo con lo establecido, respectivamente, en los artículos 21 y 22 del Reglamento (UE) 2016/679.'",
+    "fuente": "Art. 18 LO 3/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 26 LO 3/2018, el tratamiento por las Administraciones Públicas de datos con fines de archivo en interés público:",
+    "options": [
+      "Está prohibido con carácter general.",
+      "Será lícito, sometiéndose a lo dispuesto en el RGPD y en la propia ley orgánica, con las especialidades derivadas de la normativa de patrimonio histórico y archivos.",
+      "Requiere en todo caso el consentimiento expreso de cada afectado.",
+      "Solo puede realizarse por archivos históricos de titularidad privada."
+    ],
+    "correct": 1,
+    "exp": "Art. 26 LO 3/2018: 'Será lícito el tratamiento por las Administraciones Públicas de datos con fines de archivo en interés público, que se someterá a lo dispuesto en el Reglamento (UE) 2016/679 y en la presente ley orgánica con las especialidades que se derivan' de la normativa de patrimonio histórico y del sistema de archivos.",
+    "fuente": "Art. 26 LO 3/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 77.1 LO 3/2018, el régimen especial previsto para determinadas categorías de responsables o encargados se aplica, entre otros, a:",
+    "options": [
+      "Únicamente a las empresas concesionarias de servicios públicos.",
+      "Exclusivamente a los partidos políticos.",
+      "La Administración General del Estado, las Administraciones de las comunidades autónomas y las entidades que integran la Administración Local.",
+      "Solo a los colegios profesionales."
+    ],
+    "correct": 2,
+    "exp": "Art. 77.1.c) LO 3/2018 incluye entre los sujetos a este régimen especial 'La Administración General del Estado, las Administraciones de las comunidades autónomas y las entidades que integran la Administración Local.'",
+    "fuente": "Art. 77.1.c) LO 3/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando una Administración Pública comprendida en el art. 77.1 LO 3/2018 cometa una infracción, según el art. 77.2, la autoridad de protección de datos competente:",
+    "options": [
+      "Impondrá directamente una multa económica de hasta 20 millones de euros.",
+      "Remitirá el expediente a los tribunales del orden penal.",
+      "Suspenderá cautelarmente el tratamiento sin más trámite.",
+      "Dictará resolución declarando la infracción y estableciendo, en su caso, las medidas para que cese la conducta o se corrijan sus efectos."
+    ],
+    "correct": 3,
+    "exp": "Art. 77.2 LO 3/2018: la autoridad de protección de datos 'dictará resolución declarando la infracción y estableciendo, en su caso, las medidas que proceda adoptar para que cese la conducta o se corrijan los efectos de la infracción', con excepción de la multa administrativa del art. 58.2.i RGPD.",
+    "fuente": "Art. 77.2 LO 3/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 77.3 LO 3/2018, cuando existan indicios suficientes, la autoridad de protección de datos, además de la resolución declarativa, podrá:",
+    "options": [
+      "Proponer la iniciación de actuaciones disciplinarias, aplicándose el procedimiento y las sanciones de la legislación sobre régimen disciplinario o sancionador que resulte de aplicación.",
+      "Imponer directamente una sanción disciplinaria al empleado público responsable.",
+      "Cesar en sus funciones al titular del órgano infractor.",
+      "Disolver el órgano administrativo responsable del tratamiento."
+    ],
+    "correct": 0,
+    "exp": "Art. 77.3 LO 3/2018: la autoridad de protección de datos 'propondrá también la iniciación de actuaciones disciplinarias cuando existan indicios suficientes para ello. En este caso, el procedimiento y las sanciones a aplicar serán las establecidas en la legislación sobre régimen disciplinario o sancionador que resulte de aplicación.'",
+    "fuente": "Art. 77.3 LO 3/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 77.5 LO 3/2018, las actuaciones realizadas y las resoluciones dictadas al amparo del régimen especial para Administraciones Públicas se comunicarán a:",
+    "options": [
+      "El Tribunal Constitucional.",
+      "El Defensor del Pueblo o, en su caso, a las instituciones análogas de las comunidades autónomas.",
+      "El Consejo de Transparencia y Buen Gobierno.",
+      "El Tribunal de Cuentas."
+    ],
+    "correct": 1,
+    "exp": "Art. 77.5 LO 3/2018: 'Se comunicarán al Defensor del Pueblo o, en su caso, a las instituciones análogas de las comunidades autónomas las actuaciones realizadas y las resoluciones dictadas al amparo de este artículo.'",
+    "fuente": "Art. 77.5 LO 3/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la disposición adicional octava LO 3/2018, cuando se formulen solicitudes en las que el interesado declare datos personales que obren en poder de las Administraciones Públicas, el órgano destinatario podrá:",
+    "options": [
+      "Denegar la solicitud hasta que el interesado aporte certificación notarial de los datos.",
+      "Exigir al interesado el pago de una tasa de verificación.",
+      "Efectuar, en el ejercicio de sus competencias, las verificaciones necesarias para comprobar la exactitud de los datos.",
+      "Remitir automáticamente la solicitud a la Agencia Española de Protección de Datos."
+    ],
+    "correct": 2,
+    "exp": "Disposición adicional octava LO 3/2018: el órgano destinatario de la solicitud 'podrá efectuar en el ejercicio de sus competencias las verificaciones necesarias para comprobar la exactitud de los datos.'",
+    "fuente": "Disposición adicional octava LO 3/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 77.4 LO 3/2018, las resoluciones que recaigan en relación con las medidas y actuaciones adoptadas frente a las Administraciones Públicas infractoras deberán:",
+    "options": [
+      "Publicarse únicamente en el boletín oficial de la comunidad autónoma correspondiente.",
+      "Notificarse solo al afectado, sin más trámites.",
+      "Archivarse sin necesidad de comunicación adicional.",
+      "Comunicarse a la autoridad de protección de datos."
+    ],
+    "correct": 3,
+    "exp": "Art. 77.4 LO 3/2018: 'Se deberán comunicar a la autoridad de protección de datos las resoluciones que recaigan en relación con las medidas y actuaciones a que se refieren los apartados anteriores.'",
+    "fuente": "Art. 77.4 LO 3/2018",
+    "confianza": "alta"
+  }
+]);
