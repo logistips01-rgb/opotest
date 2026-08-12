@@ -1,0 +1,607 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 9,
+  "preguntas": [
+    {
+      "q": "Según el art. 61.1 LCSP, la representación de las entidades del sector público en materia contractual corresponde a:",
+      "options": [
+        "Los órganos de contratación, unipersonales o colegiados, que tengan atribuida la facultad de celebrar contratos en su nombre",
+        "El Pleno de la corporación en todo caso",
+        "La Mesa de contratación en todo caso",
+        "El Secretario General de la entidad"
+      ],
+      "correct": 0,
+      "exp": "Art. 61.1: 'La representación de las entidades del sector público en materia contractual corresponde a los órganos de contratación, unipersonales o colegiados que, en virtud de norma legal o reglamentaria o disposición estatutaria, tengan atribuida la facultad de celebrar contratos en su nombre.'",
+      "fuente": "Art. 61.1 LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 61.1 LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "El art. 61.2 LCSP permite a los órganos de contratación delegar o desconcentrar sus competencias en esta materia:",
+      "options": [
+        "Con cumplimiento de las normas y formalidades aplicables en cada caso para la delegación o desconcentración de competencias",
+        "Únicamente mediante ley formal",
+        "Solo con autorización previa del Tribunal de Cuentas",
+        "Nunca, es una competencia indelegable"
+      ],
+      "correct": 0,
+      "exp": "Art. 61.2: los órganos de contratación podrán delegar o desconcentrar sus competencias con cumplimiento de las normas y formalidades aplicables en cada caso, o para el otorgamiento de poderes en órganos societarios o fundacionales.",
+      "fuente": "Art. 61.2 LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 61.2 LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "Conforme al art. 62.1 LCSP, el responsable del contrato tiene como función:",
+      "options": [
+        "Fiscalizar las cuentas anuales del contratista",
+        "Supervisar la ejecución del contrato y adoptar las decisiones e instrucciones necesarias para la correcta realización de la prestación pactada",
+        "Presidir necesariamente la mesa de contratación",
+        "Representar judicialmente a la entidad contratante"
+      ],
+      "correct": 1,
+      "exp": "Art. 62.1: al responsable del contrato le corresponderá supervisar su ejecución y adoptar las decisiones y dictar las instrucciones necesarias con el fin de asegurar la correcta realización de la prestación pactada.",
+      "fuente": "Art. 62.1 LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 62.1 LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "En los contratos de obras, ¿quién ejerce las facultades del responsable del contrato según el art. 62.2 LCSP?",
+      "options": [
+        "El Interventor municipal",
+        "El Secretario de la corporación",
+        "El Director Facultativo, conforme a lo dispuesto en los artículos 237 a 246",
+        "El Alcalde-Presidente"
+      ],
+      "correct": 2,
+      "exp": "Art. 62.2: 'En los contratos de obras, las facultades del responsable del contrato serán ejercidas por el Director Facultativo conforme con lo dispuesto en los artículos 237 a 246.'",
+      "fuente": "Art. 62.2 LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 62.2 LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "Según el art. 63.1 LCSP, la información contenida en el perfil de contratante debe permanecer accesible al público durante un periodo no inferior a:",
+      "options": [
+        "2 años",
+        "3 años",
+        "5 años",
+        "10 años"
+      ],
+      "correct": 2,
+      "exp": "Art. 63.1: la información 'permanecerá accesible al público durante un periodo de tiempo no inferior a 5 años'.",
+      "fuente": "Art. 63.1 LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 63.1 LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "De acuerdo con el art. 63.4 LCSP, la publicación en el perfil de contratante de la información relativa a los contratos menores debe realizarse con una periodicidad mínima:",
+      "options": [
+        "Mensual",
+        "Trimestral",
+        "Semestral",
+        "Anual"
+      ],
+      "correct": 1,
+      "exp": "Art. 63.4: 'La publicación de la información relativa a los contratos menores deberá realizarse al menos trimestralmente.'",
+      "fuente": "Art. 63.4 LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 63.4 LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "El art. 63.4 LCSP exceptúa de la publicación trimestral en el perfil de contratante a los contratos menores cuyo valor estimado sea inferior a:",
+      "options": [
+        "1.000 euros",
+        "3.000 euros",
+        "5.000 euros",
+        "15.000 euros"
+      ],
+      "correct": 2,
+      "exp": "Art. 63.4: quedan exceptuados 'aquellos contratos cuyo valor estimado fuera inferior a cinco mil euros, siempre que el sistema de pago utilizado por los poderes adjudicadores fuera el de anticipo de caja fija u otro sistema similar'.",
+      "fuente": "Art. 63.4 LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 63.4 LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "Según el art. 63.6 LCSP, la formalización de los encargos a medios propios debe publicarse en el perfil de contratante cuando su importe, IVA excluido, sea superior a:",
+      "options": [
+        "15.000 euros",
+        "40.000 euros",
+        "50.000 euros",
+        "100.000 euros"
+      ],
+      "correct": 2,
+      "exp": "Art. 63.6: 'La formalización de los encargos a medios propios cuyo importe fuera superior a 50.000 euros, IVA excluido, serán objeto, asimismo, de publicación en el perfil de contratante.'",
+      "fuente": "Art. 63.6 LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 63.6 LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "Según el art. 64.2 LCSP, el concepto de conflicto de intereses abarca, al menos, cualquier situación en que el personal al servicio del órgano de contratación que participe en el procedimiento tenga:",
+      "options": [
+        "Cualquier grado de parentesco con un licitador, sin más requisitos",
+        "Directa o indirectamente un interés financiero, económico o personal que pudiera parecer que compromete su imparcialidad e independencia en el procedimiento de licitación",
+        "Residencia en el mismo municipio que un licitador",
+        "Una relación laboral previa ya extinguida con cualquier empresa del sector"
+      ],
+      "correct": 1,
+      "exp": "Art. 64.2: el conflicto de intereses abarca la situación en que el personal que participe en el procedimiento 'tenga directa o indirectamente un interés financiero, económico o personal que pudiera parecer que compromete su imparcialidad e independencia'.",
+      "fuente": "Art. 64.2 LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído art. 64.2 LCSP en _lcsp.txt; el resto de la pregunta es correcto pero la opción correcta alteraba el estándar legal (compromiso efectivo vs. apariencia de compromiso); corregida.",
+      "correccion": "La opción correcta decía 'que pudiera comprometer su imparcialidad e independencia', pero el art. 64.2 LCSP fija un estándar de apariencia, no de compromiso efectivo: '... tenga directa o indirectamente un interés financiero, económico o personal que pudiera parecer que compromete su imparcialidad e independencia en el contexto del procedimiento de licitación.' Se corrigió el texto de la opción 2 (options[1]) para reflejar literalmente ese estándar ('pudiera parecer que compromete')."
+    },
+    {
+      "q": "El art. 65.1 LCSP exige que, para contratar con el sector público, las personas naturales o jurídicas reúnan cumulativamente:",
+      "options": [
+        "Solo estar inscritas en el Registro Mercantil",
+        "Plena capacidad de obrar, no estar incursas en prohibición de contratar y acreditar la solvencia (o clasificación, cuando proceda)",
+        "Únicamente disponer de solvencia económica y financiera",
+        "Solo tener nacionalidad española"
+      ],
+      "correct": 1,
+      "exp": "Art. 65.1: 'Solo podrán contratar con el sector público las personas naturales o jurídicas... que tengan plena capacidad de obrar, no estén incursas en alguna prohibición de contratar, y acrediten su solvencia... o... se encuentren debidamente clasificadas.'",
+      "fuente": "Art. 65.1 LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 65.1 LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "Además de la capacidad y la solvencia, el art. 65.2 LCSP exige a los contratistas:",
+      "options": [
+        "Contar con la habilitación empresarial o profesional que, en su caso, sea exigible para la realización de las prestaciones objeto del contrato",
+        "Tener domicilio fiscal en la Comunidad Autónoma del órgano de contratación",
+        "Estar clasificados en todos los casos, sin excepción",
+        "Haber contratado previamente con esa misma Administración"
+      ],
+      "correct": 0,
+      "exp": "Art. 65.2: 'Los contratistas deberán contar, asimismo, con la habilitación empresarial o profesional que, en su caso, sea exigible para la realización de las prestaciones que constituyan el objeto del contrato.'",
+      "fuente": "Art. 65.2 LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 65.2 LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "Según el art. 66.1 LCSP, las personas jurídicas solo podrán ser adjudicatarias de contratos cuyas prestaciones:",
+      "options": [
+        "Estén comprendidas dentro de los fines, objeto o ámbito de actividad que, a tenor de sus estatutos o reglas fundacionales, les sean propios",
+        "Hayan sido previamente autorizadas por el Registro Mercantil de forma expresa",
+        "Superen el valor estimado de 500.000 euros",
+        "Se refieran exclusivamente a obras públicas"
+      ],
+      "correct": 0,
+      "exp": "Art. 66.1: las personas jurídicas solo podrán ser adjudicatarias de contratos cuyas prestaciones estén comprendidas dentro de los fines, objeto o ámbito de actividad que, según sus estatutos o reglas fundacionales, les sean propios.",
+      "fuente": "Art. 66.1 LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 66.1 LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "Conforme al art. 67.1 LCSP, las empresas no españolas de Estados miembros de la UE o del EEE tendrán capacidad para contratar con el sector público:",
+      "options": [
+        "Solo si tienen sucursal inscrita en el Registro Mercantil español",
+        "En todo caso, si con arreglo a la legislación de su Estado se encuentran habilitadas para realizar la prestación de que se trate",
+        "Únicamente en los contratos sujetos a regulación armonizada",
+        "Nunca, salvo autorización expresa del Consejo de Ministros"
+      ],
+      "correct": 1,
+      "exp": "Art. 67.1: tendrán capacidad para contratar, en todo caso, las empresas de Estados miembros de la UE o del EEE que, con arreglo a la legislación de su Estado, se encuentren habilitadas para realizar la prestación.",
+      "fuente": "Art. 67.1 LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 67.1 LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "El informe sobre reciprocidad que deben acompañar las empresas no comunitarias, según el art. 68.1 LCSP, es elaborado por:",
+      "options": [
+        "La Junta Consultiva de Contratación Pública del Estado",
+        "La correspondiente Oficina Económica y Comercial de España en el exterior",
+        "El Registro Oficial de Licitadores y Empresas Clasificadas",
+        "El Ministerio de Asuntos Exteriores directamente, sin informe previo"
+      ],
+      "correct": 1,
+      "exp": "Art. 68.1: el informe sobre reciprocidad 'será elaborado por la correspondiente Oficina Económica y Comercial de España en el exterior y se acompañará a la documentación que se presente'.",
+      "fuente": "Art. 68.1 LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 68.1 LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "Según el art. 69.1 LCSP, las uniones temporales de empresarios que concurran a una licitación:",
+      "options": [
+        "Deben formalizarse en escritura pública desde el inicio del procedimiento",
+        "No necesitan formalizarse en escritura pública hasta que se haya efectuado la adjudicación del contrato a su favor",
+        "No pueden concurrir a contratos de obras",
+        "Solo pueden constituirse entre empresas de la misma Comunidad Autónoma"
+      ],
+      "correct": 1,
+      "exp": "Art. 69.1: podrán contratar las uniones de empresarios constituidas temporalmente 'sin que sea necesaria la formalización de las mismas en escritura pública hasta que se haya efectuado la adjudicación del contrato a su favor'.",
+      "fuente": "Art. 69.1 LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 69.1 LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "El art. 69.3 LCSP establece que los empresarios agrupados en una unión temporal quedarán obligados:",
+      "options": [
+        "Mancomunadamente, sin nombrar representante",
+        "Subsidiariamente entre sí",
+        "Solidariamente, debiendo nombrar un representante o apoderado único con poderes bastantes",
+        "De forma individual, cada uno por su parte proporcional"
+      ],
+      "correct": 2,
+      "exp": "Art. 69.3: 'Los empresarios que concurran agrupados en uniones temporales quedarán obligados solidariamente y deberán nombrar un representante o apoderado único de la unión con poderes bastantes...'",
+      "fuente": "Art. 69.3 LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 69.3 LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "Según el art. 69.4 LCSP, la duración de las uniones temporales de empresarios debe ser:",
+      "options": [
+        "Coincidente, al menos, con la del contrato hasta su extinción",
+        "De un máximo de un año, renovable",
+        "Indefinida por naturaleza",
+        "Igual a la del plazo de garantía, exclusivamente"
+      ],
+      "correct": 0,
+      "exp": "Art. 69.4: 'La duración de las uniones temporales de empresarios será coincidente, al menos, con la del contrato hasta su extinción.'",
+      "fuente": "Art. 69.4 LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 69.4 LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "Una vez formalizado el contrato con una unión temporal de empresas, el art. 69.9.a) LCSP exige, para autorizar el aumento o disminución del número de empresas integrantes, que se haya ejecutado el contrato al menos en:",
+      "options": [
+        "Un 10 por ciento de su importe",
+        "Un 20 por ciento de su importe (o la quinta parte del plazo, en concesiones)",
+        "Un 50 por ciento de su importe",
+        "Un 33 por ciento de su importe"
+      ],
+      "correct": 1,
+      "exp": "Art. 69.9.a): se necesitará autorización previa y expresa del órgano de contratación, 'debiendo haberse ejecutado el contrato al menos en un 20 por ciento de su importe o, cuando se trate de una concesión..., que se haya efectuado su explotación durante al menos la quinta parte del plazo de duración del contrato'.",
+      "fuente": "Art. 69.9.a) LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 69.9.a) LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "El art. 70.1 LCSP, sobre condiciones especiales de compatibilidad, permite excluir de la licitación a empresas que participaron en la preparación del contrato cuando no exista otro medio de garantizar la igualdad de trato, pero siempre:",
+      "options": [
+        "De forma automática, sin trámite adicional",
+        "Tras dárseles audiencia para que justifiquen que su participación no falseó la competencia ni les dispensó un trato privilegiado",
+        "Solo si el contrato es de valor estimado superior a 500.000 euros",
+        "Únicamente en contratos de suministro"
+      ],
+      "correct": 1,
+      "exp": "Art. 70.1: 'antes de proceder a la exclusión del candidato o licitador que participó en la preparación del contrato, deberá dársele audiencia para que justifique que su participación... no puede tener el efecto de falsear la competencia...'",
+      "fuente": "Art. 70.1 LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 70.1 LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "Según el art. 71.1.c) LCSP, constituye causa de prohibición de contratar:",
+      "options": [
+        "Haber sido sancionado por infracción leve en materia tributaria",
+        "Haber solicitado la declaración de concurso voluntario o hallarse declarado en concurso, salvo que haya adquirido eficacia un convenio o se haya iniciado un acuerdo extrajudicial de pagos",
+        "Haber cambiado de domicilio social en el último año",
+        "Tener menos de tres años de antigüedad como empresa"
+      ],
+      "correct": 1,
+      "exp": "Art. 71.1.c): prohíbe contratar a quienes hayan solicitado concurso voluntario, sean declarados insolventes o estén en concurso, 'salvo que en este haya adquirido eficacia un convenio o se haya iniciado un expediente de acuerdo extrajudicial de pagos'.",
+      "fuente": "Art. 71.1.c) LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 71.1.c) LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "Según el art. 71.1.d) LCSP, las empresas de 50 o más trabajadores incurren en prohibición de contratar si no cumplen una cuota de reserva de puestos de trabajo para personas con discapacidad de, al menos:",
+      "options": [
+        "El 1 por ciento",
+        "El 2 por ciento",
+        "El 5 por ciento",
+        "El 7 por ciento"
+      ],
+      "correct": 1,
+      "exp": "Art. 71.1.d): prohíbe contratar, entre otros supuestos, a las empresas de 50 o más trabajadores que no cumplan 'que al menos el 2 por ciento de sus empleados sean trabajadores con discapacidad'.",
+      "fuente": "Art. 71.1.d) LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 71.1.d) LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "Conforme al art. 71.2.b) LCSP, es causa de prohibición de contratar:",
+      "options": [
+        "Haber dejado de formalizar el contrato adjudicado en los plazos previstos, por causa imputable al adjudicatario",
+        "Haber presentado una oferta anormalmente baja",
+        "Haber concurrido a una licitación integrado en una unión temporal de empresas",
+        "Haber recurrido la adjudicación ante el Tribunal competente"
+      ],
+      "correct": 0,
+      "exp": "Art. 71.2.b): impide contratar a quien 'haya dejado de formalizar el contrato, que ha sido adjudicado a su favor, en los plazos previstos en el artículo 153 por causa imputable al adjudicatario'.",
+      "fuente": "Art. 71.2.b) LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 71.2.b) LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "Cuando la sentencia o resolución administrativa no se pronuncia sobre el alcance y duración de la prohibición de contratar de las letras a) y b) del art. 71.1, el art. 72.3 LCSP atribuye la competencia para fijarlos a:",
+      "options": [
+        "El Consejo de Ministros directamente",
+        "El Ministro de Hacienda y Función Pública, previa propuesta de la Junta Consultiva de Contratación Pública del Estado",
+        "El Tribunal de Cuentas",
+        "El propio órgano de contratación que tramite el expediente, sin más trámite"
+      ],
+      "correct": 1,
+      "exp": "Art. 72.3: esa competencia 'corresponderá al Ministro de Hacienda y Función Pública previa propuesta de la Junta Consultiva de Contratación Pública del Estado, o a los órganos que resulten competentes en el ámbito de las Comunidades Autónomas'.",
+      "fuente": "Art. 72.3 LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 72.3 LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "Según el art. 73.2 LCSP, la inscripción de la prohibición de contratar en el Registro de Licitadores correspondiente caducará, procediéndose de oficio a su cancelación:",
+      "options": [
+        "Pasado 1 mes desde que termine su duración",
+        "Pasados 3 meses desde que termine su duración",
+        "Pasado 1 año desde que termine su duración",
+        "Nunca caduca de oficio, requiere solicitud del interesado"
+      ],
+      "correct": 1,
+      "exp": "Art. 73.2: 'La inscripción de la prohibición de contratar en el Registro de Licitadores correspondiente caducará pasados 3 meses desde que termine su duración, debiendo procederse de oficio a su cancelación...'",
+      "fuente": "Art. 73.2 LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 73.2 LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "El art. 74.1 LCSP establece que el requisito de acreditar la solvencia económica, financiera y técnica o profesional:",
+      "options": [
+        "Será sustituido por el de la clasificación cuando esta sea exigible conforme a la Ley",
+        "Se exigirá siempre, aunque el empresario esté clasificado",
+        "Solo se exige en los contratos de obras",
+        "No puede sustituirse nunca por la clasificación"
+      ],
+      "correct": 0,
+      "exp": "Art. 74.1: 'Este requisito será sustituido por el de la clasificación, cuando esta sea exigible conforme a lo dispuesto en esta Ley.'",
+      "fuente": "Art. 74.1 LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 74.1 LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "Según el art. 75.1 LCSP, para acreditar la solvencia de un contrato el empresario puede basarse en la solvencia y medios de otras entidades, siempre que demuestre:",
+      "options": [
+        "Que dispondrá efectivamente de esa solvencia y medios durante toda la ejecución del contrato, y que la entidad a la que recurre no esté incursa en prohibición de contratar",
+        "Que ha firmado previamente un contrato de colaboración registrado notarialmente",
+        "Que ambas empresas pertenecen al mismo grupo mercantil",
+        "Que la otra entidad tiene su domicilio en la misma provincia"
+      ],
+      "correct": 0,
+      "exp": "Art. 75.1: el empresario podrá basarse en la solvencia y medios de otras entidades 'siempre que demuestre que durante toda la duración de la ejecución del contrato dispondrá efectivamente de esa solvencia y medios, y la entidad a la que recurra no esté incursa en una prohibición de contratar'.",
+      "fuente": "Art. 75.1 LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 75.1 LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "El art. 76.2 LCSP dispone que los compromisos de adscripción de medios personales o materiales asumidos por el licitador se integran en el contrato debiendo atribuírseles:",
+      "options": [
+        "El carácter de meras recomendaciones sin efecto vinculante",
+        "El carácter de obligaciones esenciales a los efectos del art. 211, o establecerse penalidades conforme al art. 192.2",
+        "Únicamente el carácter de cláusula informativa",
+        "El carácter de causa de resolución automática sin penalidad previa"
+      ],
+      "correct": 1,
+      "exp": "Art. 76.2: estos compromisos se integrarán en el contrato, 'debiendo los pliegos... atribuirles el carácter de obligaciones esenciales a los efectos previstos en el artículo 211, o establecer penalidades, conforme a lo señalado en el artículo 192.2... para el caso de que se incumplan'.",
+      "fuente": "Art. 76.2 LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 76.2 LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "Según el art. 77.1.a) LCSP, será requisito indispensable estar clasificado como contratista de obras cuando el valor estimado del contrato de obras sea igual o superior a:",
+      "options": [
+        "200.000 euros",
+        "300.000 euros",
+        "500.000 euros",
+        "1.000.000 euros"
+      ],
+      "correct": 2,
+      "exp": "Art. 77.1.a): 'Para los contratos de obras cuyo valor estimado sea igual o superior a 500.000 euros será requisito indispensable que el empresario se encuentre debidamente clasificado como contratista de obras...'",
+      "fuente": "Art. 77.1.a) LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 77.1.a) LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "De acuerdo con el art. 77.1.b) LCSP, para los contratos de servicios:",
+      "options": [
+        "Será siempre exigible la clasificación del empresario",
+        "No será exigible la clasificación del empresario",
+        "Solo será exigible si el valor estimado supera los 500.000 euros",
+        "Solo será exigible en los contratos sujetos a regulación armonizada"
+      ],
+      "correct": 1,
+      "exp": "Art. 77.1.b): 'Para los contratos de servicios no será exigible la clasificación del empresario.'",
+      "fuente": "Art. 77.1.b) LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 77.1.b) LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "El art. 78.1 LCSP exime de la exigencia de clasificación a:",
+      "options": [
+        "Todos los empresarios que aleguen falta de medios técnicos",
+        "Los empresarios no españoles de Estados miembros de la UE o del EEE, sin perjuicio de la obligación de acreditar su solvencia",
+        "Las empresas de nueva creación con menos de un año de antigüedad",
+        "Las uniones temporales de empresarios en todo caso"
+      ],
+      "correct": 1,
+      "exp": "Art. 78.1: 'No será exigible la clasificación a los empresarios no españoles de Estados miembros de la Unión Europea o de Estados signatarios del Acuerdo sobre el Espacio Económico Europeo... sin perjuicio de la obligación de acreditar su solvencia.'",
+      "fuente": "Art. 78.1 LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 78.1 LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "Para proceder a la clasificación de una empresa, el art. 79.2 LCSP exige acreditar, entre otros requisitos:",
+      "options": [
+        "Únicamente disponer de capital social superior a 100.000 euros",
+        "Personalidad y capacidad de obrar, habilitación legal para la actividad, requisitos de colegiación o inscripción cuando procedan, y no estar incurso en prohibiciones de contratar",
+        "Haber ejecutado, como mínimo, tres contratos con el sector público",
+        "Estar inscrito previamente en el Registro Mercantil de Madrid"
+      ],
+      "correct": 1,
+      "exp": "Art. 79.2: será necesario acreditar 'su personalidad y capacidad de obrar, así como que se encuentra legalmente habilitado... y reunir los requisitos de colegiación o inscripción... y que no está incurso en prohibiciones de contratar'.",
+      "fuente": "Art. 79.2 LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 79.2 LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "Según el art. 80.1 LCSP, los acuerdos de clasificación de las empresas, con eficacia general frente a todos los órganos de contratación, se adoptan por:",
+      "options": [
+        "Las Comisiones Clasificadoras de la Junta Consultiva de Contratación Pública del Estado y los órganos equivalentes de las Comunidades Autónomas",
+        "Cada órgano de contratación individualmente",
+        "El Registro Oficial de Licitadores, sin intervención de comisión alguna",
+        "El Tribunal Administrativo Central de Recursos Contractuales"
+      ],
+      "correct": 0,
+      "exp": "Art. 80.1: los acuerdos de clasificación se adoptarán, con eficacia general, 'por las Comisiones Clasificadoras de la Junta Consultiva de Contratación Pública del Estado y por los órganos equivalentes de las Comunidades Autónomas'.",
+      "fuente": "Art. 80.1 LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 80.1 LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "El art. 81 LCSP establece que los acuerdos de clasificación adoptados por las Comisiones Clasificadoras de la Junta Consultiva de Contratación Pública del Estado se inscribirán de oficio en:",
+      "options": [
+        "El Registro Mercantil Central",
+        "El Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público",
+        "El Boletín Oficial del Estado, únicamente",
+        "El Registro de la Propiedad correspondiente"
+      ],
+      "correct": 1,
+      "exp": "Art. 81: los acuerdos de clasificación 'se inscribirán de oficio en el Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público'.",
+      "fuente": "Art. 81 LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 81 LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "Según el art. 82.2 LCSP, para la conservación de la clasificación el empresario debe justificar el mantenimiento de la solvencia con la siguiente periodicidad:",
+      "options": [
+        "Anualmente la solvencia económica y financiera, y cada tres años la solvencia técnica y profesional",
+        "Cada tres años ambas solvencias por igual",
+        "Anualmente ambas solvencias por igual",
+        "Solo una vez, en el momento de la clasificación inicial"
+      ],
+      "correct": 0,
+      "exp": "Art. 82.2: 'para la conservación de la clasificación deberá justificarse anualmente el mantenimiento de la solvencia económica y financiera y, cada tres años, el de la solvencia técnica y profesional.'",
+      "fuente": "Art. 82.2 LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 82.2 LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "Conforme al art. 84.1 LCSP, la capacidad de obrar de los empresarios que sean personas jurídicas se acredita mediante:",
+      "options": [
+        "Una simple declaración jurada del administrador",
+        "La escritura o documento de constitución, los estatutos o el acta fundacional, debidamente inscritos en el registro público que corresponda",
+        "El certificado del Registro de la Seguridad Social exclusivamente",
+        "El informe de la Cámara de Comercio local"
+      ],
+      "correct": 1,
+      "exp": "Art. 84.1: se acreditará 'mediante la escritura o documento de constitución, los estatutos o el acta fundacional, en los que consten las normas por las que se regula su actividad, debidamente inscritos, en su caso, en el Registro público que corresponda'.",
+      "fuente": "Art. 84.1 LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 84.1 LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "Según el art. 86.1 LCSP, la solvencia económica, financiera y técnica o profesional para un contrato se acredita mediante los documentos que determine el órgano de contratación entre los previstos en:",
+      "options": [
+        "Los artículos 87 a 91 de la Ley",
+        "Los artículos 65 a 69 de la Ley",
+        "Los artículos 71 a 73 de la Ley",
+        "Los artículos 96 a 98 de la Ley"
+      ],
+      "correct": 0,
+      "exp": "Art. 86.1: la solvencia 'se acreditará mediante la aportación de los documentos que se determinen por el órgano de contratación de entre los previstos en los artículos 87 a 91 de la presente Ley'.",
+      "fuente": "Art. 86.1 LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 86.1 LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "Según el art. 87.1.a) LCSP, el volumen anual de negocios mínimo exigido para acreditar solvencia económica y financiera no podrá exceder, salvo casos justificados, de:",
+      "options": [
+        "El mismo importe que el valor estimado del contrato",
+        "Una vez y media el valor estimado del contrato",
+        "El doble del valor estimado del contrato",
+        "El triple del valor estimado del contrato"
+      ],
+      "correct": 1,
+      "exp": "Art. 87.1.a): 'El volumen de negocios mínimo anual exigido no excederá de una vez y media el valor estimado del contrato, excepto en casos debidamente justificados...'",
+      "fuente": "Art. 87.1.a) LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 87.1.a) LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "Según el art. 88.1.a) LCSP, la solvencia técnica en los contratos de obras puede acreditarse mediante la relación de obras ejecutadas, avaladas por certificados de buena ejecución, referida al curso de:",
+      "options": [
+        "Los tres últimos años, sin excepciones",
+        "Los cinco últimos años, pudiendo tenerse en cuenta obras de hasta diez años cuando sea necesario para garantizar un nivel adecuado de competencia",
+        "El último año exclusivamente",
+        "Los siete últimos años, sin excepciones"
+      ],
+      "correct": 1,
+      "exp": "Art. 88.1.a): 'Relación de las obras ejecutadas en el curso de los cinco últimos años... Cuando sea necesario para garantizar un nivel adecuado de competencia, los poderes adjudicadores podrán indicar que se tendrán en cuenta las pruebas de las obras pertinentes ejecutadas en los últimos diez años.'",
+      "fuente": "Art. 88.1.a) LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 88.1.a) LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "Según el art. 96.1 LCSP, la inscripción en el Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público acredita frente a todos los órganos de contratación las condiciones de aptitud del empresario:",
+      "options": [
+        "Solo si el empresario lo solicita expresamente en cada procedimiento",
+        "A tenor de lo en él reflejado, y salvo prueba en contrario",
+        "Únicamente frente a los órganos de contratación de la misma Comunidad Autónoma",
+        "Solo respecto de la clasificación, no de las prohibiciones de contratar"
+      ],
+      "correct": 1,
+      "exp": "Art. 96.1: la inscripción 'acreditará frente a todos los órganos de contratación del sector público, a tenor de lo en él reflejado y salvo prueba en contrario, las condiciones de aptitud del empresario...'",
+      "fuente": "Art. 96.1 LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 96.1 LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    },
+    {
+      "q": "Según el art. 98.1 LCSP, en los casos de fusión de empresas en los que participe la sociedad contratista, el contrato:",
+      "options": [
+        "Se resuelve automáticamente por cambio de la personalidad jurídica del contratista",
+        "Continúa vigente con la entidad absorbente o resultante de la fusión, que queda subrogada en todos los derechos y obligaciones dimanantes del mismo",
+        "Debe volver a licitarse íntegramente",
+        "Se suspende hasta que la nueva entidad obtenga clasificación específica para ese contrato"
+      ],
+      "correct": 1,
+      "exp": "Art. 98.1: 'En los casos de fusión de empresas en los que participe la sociedad contratista, continuará el contrato vigente con la entidad absorbente o con la resultante de la fusión, que quedará subrogada en todos los derechos y obligaciones dimanantes del mismo.'",
+      "fuente": "Art. 98.1 LCSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 98.1 LCSP en _lcsp.txt (art. localizado por su encabezado único 'Artículo N.'); el texto respalda la opción marcada como correcta y las 4 opciones son distintas entre sí."
+    }
+  ]
+}
