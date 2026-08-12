@@ -6,6 +6,27 @@ un tema por tanda y con parada entre temas.
 El tema 21 queda **fuera del objetivo**: reproduce el examen oficial del
 1-jun-2025 y rellenarlo con preguntas generadas destruiría lo que lo hace útil.
 
+## Tema 8 · LPAC (V): revisión de actos — PRIMERA VUELTA CERRADA
+
+**260 preguntas** (de 100 que había), todas de 4 opciones. 4 lotes de 40,
+compartiendo el consolidado de la LPAC ya descargado.
+
+| Lote | Tramo | Confirmadas | Corregidas | Rechazadas |
+|---|---|---|---|---|
+| A | Revisión de oficio (arts. 106-111) | 40 | 0 | 0 |
+| B | Principios generales de los recursos (arts. 112-120) | 40 | 0 | 0 |
+| C | Recurso de alzada y reposición (arts. 121-124) | 40 | 0 | 0 |
+| D | Recurso extraordinario de revisión y comparativas (arts. 125-126) | 39 | 1 | 0 |
+
+Nota: el lote A llegó con la correcta siempre en la posición 0 (sesgo típico
+de redacción manual); se reequilibró antes de fusionar, como en el tema 12.
+
+**Aprovechado para Policía Local**: las 260 preguntas se redujeron a 3
+opciones y se volcaron al tema 4 ("La Administración Pública en la
+Constitución. La Ley 39/2015... y de la Ley 40/2015"), sin agentes
+adicionales — 259 nuevas, 1 duplicada. Banco de Policía Local: de 2.561 a
+**2.820 preguntas**.
+
 ## Tema 9 · Contratos del sector público — PRIMERA VUELTA CERRADA
 
 **260 preguntas** (de 100 que había), todas de 4 opciones. 4 lotes de 40,
