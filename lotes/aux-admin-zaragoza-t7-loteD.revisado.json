@@ -1,0 +1,646 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 7,
+  "preguntas": [
+    {
+      "q": "Según el art. 96.1 LPAC, ¿en qué momento puede el órgano competente para la tramitación simplificada acordar continuar con arreglo a la tramitación ordinaria?",
+      "options": [
+        "En cualquier momento del procedimiento anterior a su resolución",
+        "Únicamente antes de la notificación del acuerdo de inicio",
+        "Solo dentro de los cinco primeros días del procedimiento",
+        "En cualquier momento, incluso después de haberse dictado la resolución"
+      ],
+      "correct": 0,
+      "exp": "El art. 96.1 LPAC establece que, en cualquier momento del procedimiento anterior a su resolución, el órgano competente para la tramitación podrá acordar continuar con arreglo a la tramitación ordinaria.",
+      "fuente": "Art. 96.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 96.1 LPAC ('en cualquier momento del procedimiento anterior a su resolucion, el organo competente para su tramitacion podra acordar continuar con arreglo a la tramitacion ordinaria'); opcion A coincide literalmente, sin duplicados entre las 4 opciones.",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 96.1 LPAC, la tramitación simplificada del procedimiento podrá acordarse, de oficio o a solicitud del interesado, cuando lo aconsejen razones de interés público o:",
+      "options": [
+        "La urgencia declarada por el Consejo de Ministros",
+        "La falta de complejidad del procedimiento",
+        "La escasa cuantía económica del asunto, en todo caso",
+        "La ausencia de recursos humanos en el órgano competente"
+      ],
+      "correct": 1,
+      "exp": "El art. 96.1 LPAC permite acordar la tramitación simplificada cuando razones de interés público o la falta de complejidad del procedimiento así lo aconsejen.",
+      "fuente": "Art. 96.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 96.1 LPAC ('cuando razones de interes publico o la falta de complejidad del procedimiento asi lo aconsejen'); opcion A coincide, resto de opciones no descritas en el precepto.",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 96.2 LPAC, cuando la Administración acuerde de oficio la tramitación simplificada y lo notifique a los interesados, si alguno de ellos manifiesta su oposición expresa, ¿qué debe hacer la Administración?",
+      "options": [
+        "Continuar igualmente con la tramitación simplificada",
+        "Archivar el procedimiento sin más trámite",
+        "Seguir la tramitación ordinaria",
+        "Suspender el procedimiento hasta que todos los interesados estén de acuerdo"
+      ],
+      "correct": 2,
+      "exp": "El art. 96.2 LPAC dispone que si algún interesado manifiesta su oposición expresa a la tramitación simplificada acordada de oficio, la Administración deberá seguir la tramitación ordinaria.",
+      "fuente": "Art. 96.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 96.2 LPAC ('si alguno de ellos manifestara su oposicion expresa, la Administracion debera seguir la tramitacion ordinaria'); opcion A correcta.",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 96.3 LPAC, si los interesados solicitan la tramitación simplificada y el órgano competente aprecia que no concurren las razones del apartado 1, ¿en qué plazo puede desestimar la solicitud, sin posibilidad de recurso por parte del interesado?",
+      "options": [
+        "Diez días desde su presentación",
+        "Un mes desde su presentación",
+        "Tres meses desde su presentación",
+        "Cinco días desde su presentación"
+      ],
+      "correct": 3,
+      "exp": "El art. 96.3 LPAC fija un plazo de cinco días desde la presentación de la solicitud para desestimarla, sin posibilidad de recurso; transcurrido ese plazo sin resolver, se entiende desestimada.",
+      "fuente": "Art. 96.3 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 96.3 LPAC ('podra desestimar dicha solicitud, en el plazo de cinco dias desde su presentacion, sin que exista posibilidad de recurso'); opcion A correcta, resto de plazos son distractores plausibles no repetidos.",
+      "correccion": null
+    },
+    {
+      "q": "En los procedimientos de responsabilidad patrimonial, según el art. 96.4 LPAC, ¿en qué caso puede el órgano competente acordar de oficio la suspensión del procedimiento general y la iniciación de un procedimiento simplificado?",
+      "options": [
+        "Cuando considere inequívoca la relación de causalidad entre el funcionamiento del servicio público y la lesión, así como la valoración del daño y el cálculo de la indemnización",
+        "Cuando el interesado lo solicite expresamente y aporte un informe pericial",
+        "Cuando haya transcurrido más de un año desde el hecho lesivo",
+        "Cuando el importe reclamado sea inferior a 1.000 euros"
+      ],
+      "correct": 0,
+      "exp": "El art. 96.4 LPAC permite, en procedimientos de responsabilidad patrimonial, acordar de oficio la suspensión del procedimiento general y el inicio de uno simplificado cuando la relación de causalidad, la valoración del daño y el cálculo de la indemnización resulten inequívocos.",
+      "fuente": "Art. 96.4 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 96.4 LPAC (responsabilidad patrimonial: relacion de causalidad, valoracion del dano y calculo de la cuantia de la indemnizacion inequivocos); opcion A recoge fielmente el supuesto, sin ambiguedad con las otras 3.",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 96.5 LPAC, en los procedimientos de naturaleza sancionadora se podrá adoptar la tramitación simplificada cuando el órgano competente para iniciar el procedimiento considere que existen elementos de juicio suficientes para calificar la infracción como:",
+      "options": [
+        "Grave",
+        "Leve",
+        "Muy grave",
+        "Continuada"
+      ],
+      "correct": 1,
+      "exp": "El art. 96.5 LPAC prevé la tramitación simplificada en procedimientos sancionadores cuando existan elementos de juicio suficientes para calificar la infracción como leve.",
+      "fuente": "Art. 96.5 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 96.5 LPAC ('calificar la infraccion como leve'); opcion A correcta frente a Grave/Muy grave/Continuada, sin duplicados.",
+      "correccion": null
+    },
+    {
+      "q": "A diferencia de la tramitación simplificada acordada de oficio con carácter general (art. 96.2 LPAC), en la tramitación simplificada por infracciones leves prevista en el art. 96.5 LPAC:",
+      "options": [
+        "El interesado puede oponerse en cualquier momento y la Administración debe seguir la tramitación ordinaria",
+        "Es siempre necesario un dictamen del Consejo de Estado",
+        "No cabe la oposición expresa del interesado prevista en el apartado 2",
+        "El plazo de resolución se reduce a quince días"
+      ],
+      "correct": 2,
+      "exp": "El art. 96.5 LPAC precisa expresamente que en este caso no cabe la oposición expresa del interesado prevista en el apartado 2 para la tramitación simplificada acordada de oficio con carácter general.",
+      "fuente": "Art. 96.5 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 96.5 LPAC ('sin que quepa la oposicion expresa por parte del interesado prevista en el apartado 2'); opcion A coincide exactamente con el matiz diferencial respecto al 96.2.",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 96.6 LPAC, los procedimientos tramitados de manera simplificada deberán resolverse en el plazo de treinta días, a contar desde el día siguiente a la notificación del acuerdo de tramitación simplificada, salvo que:",
+      "options": [
+        "El interesado solicite una prórroga de otros treinta días",
+        "Se trate de un procedimiento sancionador, en cuyo caso el plazo es de sesenta días",
+        "El expediente supere las cien páginas",
+        "Reste menos tiempo para su tramitación ordinaria"
+      ],
+      "correct": 3,
+      "exp": "El art. 96.6 LPAC establece el plazo de treinta días salvo que reste menos tiempo para la tramitación ordinaria del procedimiento de que se trate.",
+      "fuente": "Art. 96.6 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 96.6 LPAC ('Salvo que reste menos para su tramitacion ordinaria... deberan ser resueltos en treinta dias'); opcion A correcta.",
+      "correccion": null
+    },
+    {
+      "q": "¿Cuál de los siguientes trámites NO figura entre los que, según el art. 96.6 LPAC, componen la tramitación simplificada del procedimiento administrativo común?",
+      "options": [
+        "Período de prueba con designación de perito judicial",
+        "Subsanación de la solicitud presentada, en su caso",
+        "Alegaciones formuladas al inicio del procedimiento durante el plazo de cinco días",
+        "Informe del servicio jurídico, cuando este sea preceptivo"
+      ],
+      "correct": 0,
+      "exp": "El art. 96.6 LPAC enumera taxativamente los trámites de la simplificada (inicio, subsanación, alegaciones de cinco días, audiencia si procede, informes jurídico y del CGPJ, dictamen del Consejo de Estado y resolución); no incluye un período de prueba con perito judicial.",
+      "fuente": "Art. 96.6 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado el listado tasado de tramites del art. 96.6.a-h LPAC (inicio, subsanacion, alegaciones 5 dias, audiencia, informe juridico, informe CGPJ, dictamen Consejo de Estado, resolucion); el 'periodo de prueba con perito judicial' no figura, mientras que las otras 3 opciones si son tramites reales del apartado, por lo que no hay ambiguedad.",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 96.6.d) LPAC, en la tramitación simplificada, el trámite de audiencia se realizará:",
+      "options": [
+        "En todos los casos, sin excepción",
+        "Únicamente cuando la resolución vaya a ser desfavorable para el interesado",
+        "Solo cuando lo solicite expresamente el interesado",
+        "Nunca, al tratarse de tramitación simplificada"
+      ],
+      "correct": 1,
+      "exp": "El art. 96.6.d) LPAC limita el trámite de audiencia en la tramitación simplificada a los casos en que la resolución vaya a ser desfavorable para el interesado.",
+      "fuente": "Art. 96.6.d) LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 96.6.d) LPAC ('unicamente cuando la resolucion vaya a ser desfavorable para el interesado'); opcion A correcta.",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 96.6.g) LPAC, desde que se solicita el Dictamen del Consejo de Estado u órgano consultivo equivalente hasta que este se emite:",
+      "options": [
+        "El plazo para resolver sigue corriendo con normalidad",
+        "El procedimiento se convierte automáticamente en ordinario",
+        "Se produce la suspensión automática del plazo para resolver",
+        "El interesado pierde la condición de tal"
+      ],
+      "correct": 2,
+      "exp": "El art. 96.6.g) LPAC dispone la suspensión automática del plazo para resolver desde que se solicita el Dictamen hasta que este se emite.",
+      "fuente": "Art. 96.6.g) LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 96.6.g) LPAC ('se producira la suspension automatica del plazo para resolver' desde que se solicita el Dictamen hasta que se emite); opcion A correcta.",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 96.6.g) LPAC, el Dictamen del Consejo de Estado en la tramitación simplificada podrá emitirse en el plazo de quince días cuando:",
+      "options": [
+        "Lo pida el interesado directamente al Consejo de Estado",
+        "El asunto tenga carácter urgente declarado por ley",
+        "Haya transcurrido ya el plazo de treinta días de tramitación",
+        "Así lo solicite el órgano competente"
+      ],
+      "correct": 3,
+      "exp": "El art. 96.6.g) LPAC permite que el Dictamen se emita en quince días si así lo solicita el órgano competente, para poder cumplir el plazo de resolución del procedimiento.",
+      "fuente": "Art. 96.6.g) LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 96.6.g) LPAC ('el Dictamen podra ser emitido en el plazo de quince dias si asi lo solicita el organo competente'); opcion A correcta.",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 96.6.g) LPAC, cuando el Dictamen del Consejo de Estado sea contrario al fondo de la propuesta de resolución, con independencia de que se atienda o no dicho criterio, el órgano competente para resolver:",
+      "options": [
+        "Acordará continuar el procedimiento con arreglo a la tramitación ordinaria, notificándolo a los interesados",
+        "Deberá archivar el procedimiento sin más trámite",
+        "Queda vinculado a dictar una resolución idéntica al Dictamen",
+        "Debe iniciar un nuevo procedimiento sancionador contra el instructor"
+      ],
+      "correct": 0,
+      "exp": "El art. 96.6.g) LPAC establece que si el Dictamen es contrario al fondo de la propuesta, se continúa con la tramitación ordinaria, notificándolo a los interesados, y se convalidan las actuaciones previas salvo el propio Dictamen.",
+      "fuente": "Art. 96.6.g) LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 96.6.g) LPAC ('cuando el Dictamen sea contrario al fondo de la propuesta de resolucion... acordara continuar el procedimiento con arreglo a la tramitacion ordinaria, lo que se notificara a los interesados'); opcion A correcta.",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 96.7 LPAC, cuando un procedimiento exija la realización de un trámite no previsto entre los enumerados para la tramitación simplificada, deberá:",
+      "options": [
+        "Suspenderse indefinidamente",
+        "Ser tramitado de manera ordinaria",
+        "Resolverse igualmente en el plazo de treinta días omitiendo ese trámite",
+        "Remitirse a un órgano superior para que decida"
+      ],
+      "correct": 1,
+      "exp": "El art. 96.7 LPAC dispone que, si un procedimiento exigiera un trámite no previsto en el apartado 6, deberá ser tramitado de manera ordinaria.",
+      "fuente": "Art. 96.7 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 96.7 LPAC ('en el caso que un procedimiento exigiera la realizacion de un tramite no previsto en el apartado anterior, debera ser tramitado de manera ordinaria'); opcion A correcta.",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 97.1 LPAC, las Administraciones Públicas no iniciarán ninguna actuación material de ejecución de resoluciones que limite derechos de los particulares sin que:",
+      "options": [
+        "Medie autorización judicial previa en todo caso",
+        "Transcurran al menos quince días desde la notificación",
+        "Previamente haya sido adoptada la resolución que le sirva de fundamento jurídico",
+        "El interesado preste su consentimiento expreso"
+      ],
+      "correct": 2,
+      "exp": "El art. 97.1 LPAC exige que, antes de cualquier actuación material de ejecución que limite derechos de los particulares, se haya adoptado la resolución que le sirva de fundamento jurídico.",
+      "fuente": "Art. 97.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 97.1 LPAC ('no iniciaran ninguna actuacion material de ejecucion de resoluciones que limite derechos de los particulares sin que previamente haya sido adoptada la resolucion que le sirva de fundamento juridico'); opcion A correcta.",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 97.2 LPAC, el órgano que ordene un acto de ejecución material de resoluciones está obligado a:",
+      "options": [
+        "Publicar la resolución en el Boletín Oficial correspondiente",
+        "Solicitar autorización judicial en todos los casos",
+        "Recabar informe previo del servicio jurídico",
+        "Notificar al particular interesado la resolución que autorice la actuación administrativa"
+      ],
+      "correct": 3,
+      "exp": "El art. 97.2 LPAC obliga al órgano que ordena el acto de ejecución material a notificar al particular interesado la resolución que autoriza la actuación administrativa.",
+      "fuente": "Art. 97.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 97.2 LPAC ('estara obligado a notificar al particular interesado la resolucion que autorice la actuacion administrativa'); opcion A correcta.",
+      "correccion": null
+    },
+    {
+      "q": "El art. 98 de la Ley 39/2015 se titula:",
+      "options": [
+        "Ejecutoriedad",
+        "Ejecución forzosa",
+        "Título",
+        "Medios de ejecución forzosa"
+      ],
+      "correct": 0,
+      "exp": "El art. 98 LPAC lleva por título 'Ejecutoriedad', dentro del Capítulo VII del Título IV, 'Ejecución'.",
+      "fuente": "Art. 98 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado el titulo del art. 98 LPAC en el consolidado ('Articulo 98. Ejecutoriedad.'); opcion A correcta; los distractores son titulos reales de arts. 97, 99 y 100, plausibles pero no repetidos ni ambiguos.",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 98.1 LPAC, los actos de las Administraciones Públicas sujetos al Derecho Administrativo serán inmediatamente ejecutivos, salvo en varios supuestos. ¿Cuál de los siguientes NO es uno de ellos?",
+      "options": [
+        "Que se produzca la suspensión de la ejecución del acto",
+        "Que el interesado sea una persona jurídica",
+        "Que se trate de una resolución sancionadora contra la que quepa recurso en vía administrativa, incluido el potestativo de reposición",
+        "Que se necesite aprobación o autorización superior"
+      ],
+      "correct": 1,
+      "exp": "El art. 98.1 LPAC enumera como excepciones a la ejecutividad inmediata la suspensión de la ejecución, las resoluciones sancionadoras recurribles en vía administrativa, la disposición en contrario y la necesidad de aprobación o autorización superior; que el interesado sea persona jurídica no es una de ellas.",
+      "fuente": "Art. 98.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 98.1 LPAC (excepciones: suspension de la ejecucion, resolucion sancionadora recurrible, disposicion en contrario, necesidad de aprobacion/autorizacion superior); 'que el interesado sea persona juridica' no aparece entre ellas, por lo que la opcion A es la correcta como excepcion inexistente.",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 98.1.b) LPAC, no serán inmediatamente ejecutivas las resoluciones de procedimientos de naturaleza sancionadora contra las que quepa:",
+      "options": [
+        "Únicamente el recurso contencioso-administrativo",
+        "Recurso de casación ante el Tribunal Supremo",
+        "Algún recurso en vía administrativa, incluido el potestativo de reposición",
+        "Recurso de amparo constitucional"
+      ],
+      "correct": 2,
+      "exp": "El art. 98.1.b) LPAC excluye de la ejecutividad inmediata las resoluciones sancionadoras contra las que quepa algún recurso en vía administrativa, incluido el potestativo de reposición.",
+      "fuente": "Art. 98.1.b) LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 98.1.b) LPAC ('resolucion de un procedimiento de naturaleza sancionadora contra la que quepa algun recurso en via administrativa, incluido el potestativo de reposicion'); opcion A correcta.",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 98.2 LPAC, la obligación de pago derivada de una sanción pecuniaria, multa u otro derecho que haya de abonarse a la Hacienda Pública se efectuará preferentemente mediante:",
+      "options": [
+        "Giro postal exclusivamente",
+        "Pago en efectivo en las oficinas de la entidad",
+        "Cheque nominativo al portador",
+        "Medios electrónicos como tarjeta de crédito o débito, transferencia bancaria o domiciliación bancaria, salvo que se justifique la imposibilidad de hacerlo"
+      ],
+      "correct": 3,
+      "exp": "El art. 98.2 LPAC exige que ese pago se efectúe preferentemente mediante medios electrónicos (tarjeta, transferencia, domiciliación u otros autorizados por el órgano competente en materia de Hacienda Pública), salvo que se justifique la imposibilidad.",
+      "fuente": "Art. 98.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 98.2 LPAC (pago preferente mediante tarjeta, transferencia, domiciliacion u otros medios electronicos autorizados, salvo justificacion de imposibilidad); opcion A correcta.",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 99 LPAC, las Administraciones Públicas podrán proceder a la ejecución forzosa de los actos administrativos:",
+      "options": [
+        "Previo apercibimiento",
+        "Sin necesidad de apercibimiento previo en ningún caso",
+        "Solo tras obtener autorización judicial previa en todos los supuestos",
+        "Únicamente si medió previamente un procedimiento sancionador"
+      ],
+      "correct": 0,
+      "exp": "El art. 99 LPAC exige que la ejecución forzosa vaya precedida de apercibimiento, salvo en los supuestos de suspensión legal o de exigencia de intervención judicial.",
+      "fuente": "Art. 99 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 99 LPAC ('podran proceder, previo apercibimiento, a la ejecucion forzosa'); opcion A correcta.",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 99 LPAC, la ejecución forzosa de los actos administrativos corresponde:",
+      "options": [
+        "Exclusivamente a los juzgados de lo contencioso-administrativo",
+        "A las Administraciones Públicas, a través de sus órganos competentes en cada caso",
+        "A la Abogacía del Estado en todo caso",
+        "Al Ministerio Fiscal"
+      ],
+      "correct": 1,
+      "exp": "El art. 99 LPAC atribuye la ejecución forzosa a las propias Administraciones Públicas, a través de sus órganos competentes en cada caso.",
+      "fuente": "Art. 99 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 99 LPAC ('las Administraciones Publicas, a traves de sus organos competentes en cada caso, podran proceder... a la ejecucion forzosa'); opcion A correcta.",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 100.1 LPAC, la ejecución forzosa por las Administraciones Públicas se efectuará respetando siempre el principio de:",
+      "options": [
+        "Oportunidad",
+        "Jerarquía normativa",
+        "Proporcionalidad",
+        "Buena fe registral"
+      ],
+      "correct": 2,
+      "exp": "El art. 100.1 LPAC exige que la ejecución forzosa se efectúe respetando siempre el principio de proporcionalidad.",
+      "fuente": "Art. 100.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 100.1 LPAC ('respetando siempre el principio de proporcionalidad'); opcion A correcta.",
+      "correccion": null
+    },
+    {
+      "q": "El art. 100.1 LPAC enumera los medios de ejecución forzosa en el siguiente orden:",
+      "options": [
+        "Compulsión sobre las personas, multa coercitiva, ejecución subsidiaria y apremio sobre el patrimonio",
+        "Multa coercitiva, apremio sobre el patrimonio, compulsión sobre las personas y ejecución subsidiaria",
+        "Ejecución subsidiaria, compulsión sobre las personas, apremio sobre el patrimonio y multa coercitiva",
+        "Apremio sobre el patrimonio, ejecución subsidiaria, multa coercitiva y compulsión sobre las personas"
+      ],
+      "correct": 3,
+      "exp": "El art. 100.1 LPAC enumera, por este orden, apremio sobre el patrimonio, ejecución subsidiaria, multa coercitiva y compulsión sobre las personas.",
+      "fuente": "Art. 100.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado el orden de los medios en art. 100.1.a-d LPAC (apremio sobre el patrimonio, ejecucion subsidiaria, multa coercitiva, compulsion sobre las personas); opcion A reproduce el orden exacto, las demas opciones alteran el orden y son distintas entre si.",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 100.2 LPAC, si fueran varios los medios de ejecución forzosa admisibles:",
+      "options": [
+        "Se elegirá el menos restrictivo de la libertad individual",
+        "Se aplicarán todos simultáneamente",
+        "Decidirá el interesado cuál se aplica",
+        "Se elegirá siempre el apremio sobre el patrimonio con preferencia"
+      ],
+      "correct": 0,
+      "exp": "El art. 100.2 LPAC dispone que, si fueran varios los medios admisibles, se elegirá el menos restrictivo de la libertad individual.",
+      "fuente": "Art. 100.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 100.2 LPAC ('se elegira el menos restrictivo de la libertad individual'); opcion A correcta.",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 100.3 LPAC, si fuese necesario entrar en el domicilio del afectado para la ejecución forzosa, las Administraciones Públicas deberán obtener:",
+      "options": [
+        "Únicamente la autorización del alcalde del municipio",
+        "El consentimiento del titular o, en su defecto, la oportuna autorización judicial",
+        "El consentimiento del titular, sin excepción posible",
+        "Una orden del Ministerio del Interior"
+      ],
+      "correct": 1,
+      "exp": "El art. 100.3 LPAC exige el consentimiento del titular del domicilio o, en su defecto, la oportuna autorización judicial.",
+      "fuente": "Art. 100.3 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 100.3 LPAC ('deberan obtener el consentimiento del mismo o, en su defecto, la oportuna autorizacion judicial'); opcion A correcta.",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 101.2 LPAC, en el apremio sobre el patrimonio, en ningún caso podrá imponerse a los administrados una obligación pecuniaria que:",
+      "options": [
+        "Supere los 10.000 euros",
+        "Haya sido recurrida en vía administrativa",
+        "No estuviese establecida con arreglo a una norma de rango legal",
+        "No cuente con el visto bueno del interventor municipal"
+      ],
+      "correct": 2,
+      "exp": "El art. 101.2 LPAC prohíbe imponer a los administrados una obligación pecuniaria que no esté establecida con arreglo a una norma de rango legal.",
+      "fuente": "Art. 101.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 101.2 LPAC ('no podra imponerse a los administrados una obligacion pecuniaria que no estuviese establecida con arreglo a una norma de rango legal'); opcion A correcta.",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 102.1 LPAC, habrá lugar a la ejecución subsidiaria cuando se trate de actos que:",
+      "options": [
+        "Impliquen necesariamente una obligación de no hacer",
+        "Solo puedan ser realizados por el propio obligado",
+        "Consistan en el pago de una sanción pecuniaria",
+        "Por no ser personalísimos, puedan ser realizados por sujeto distinto del obligado"
+      ],
+      "correct": 3,
+      "exp": "El art. 102.1 LPAC prevé la ejecución subsidiaria cuando se trate de actos que, por no ser personalísimos, puedan ser realizados por sujeto distinto del obligado.",
+      "fuente": "Art. 102.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 102.1 LPAC ('actos que por no ser personalisimos puedan ser realizados por sujeto distinto del obligado'); opcion A correcta.",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 102.3 LPAC, el importe de los gastos, daños y perjuicios de la ejecución subsidiaria se exigirá conforme a lo dispuesto en:",
+      "options": [
+        "El artículo anterior, relativo al apremio sobre el patrimonio",
+        "Un reglamento específico de ejecución subsidiaria aún no aprobado",
+        "La legislación procesal civil",
+        "El artículo siguiente, relativo a la multa coercitiva"
+      ],
+      "correct": 0,
+      "exp": "El art. 102.3 LPAC remite, para exigir el importe de gastos, daños y perjuicios de la ejecución subsidiaria, a lo dispuesto en el artículo anterior (art. 101, apremio sobre el patrimonio).",
+      "fuente": "Art. 102.3 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 102.3 LPAC ('el importe de los gastos, danos y perjuicios se exigira conforme a lo dispuesto en el articulo anterior', es decir el art. 101 de apremio sobre el patrimonio); opcion A correcta y remision verificada.",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 102.4 LPAC, el importe de los gastos, daños y perjuicios de la ejecución subsidiaria:",
+      "options": [
+        "Solo puede liquidarse una vez concluida totalmente la ejecución",
+        "Podrá liquidarse de forma provisional y realizarse antes de la ejecución, a reserva de la liquidación definitiva",
+        "Nunca puede exigirse de forma provisional",
+        "Debe abonarlo la Administración con cargo a fondos propios"
+      ],
+      "correct": 1,
+      "exp": "El art. 102.4 LPAC permite liquidar dicho importe de forma provisional y realizarlo antes de la ejecución, a reserva de la liquidación definitiva.",
+      "fuente": "Art. 102.4 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 102.4 LPAC ('dicho importe podra liquidarse de forma provisional y realizarse antes de la ejecucion, a reserva de la liquidacion definitiva'); opcion A correcta.",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 103.1.a) LPAC, procede la multa coercitiva en el caso de:",
+      "options": [
+        "Actos que deban ejecutarse exclusivamente mediante apremio sobre el patrimonio",
+        "Actos ya ejecutados voluntariamente por el obligado",
+        "Actos personalísimos en que no proceda la compulsión directa sobre la persona del obligado",
+        "Actos de mero trámite sin contenido resolutorio"
+      ],
+      "correct": 2,
+      "exp": "El art. 103.1.a) LPAC prevé la multa coercitiva para actos personalísimos en que no proceda la compulsión directa sobre la persona del obligado.",
+      "fuente": "Art. 103.1.a) LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 103.1.a) LPAC ('actos personalisimos en que no proceda la compulsion directa sobre la persona del obligado'); opcion A correcta.",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 103.1.b) LPAC, también procede la multa coercitiva cuando:",
+      "options": [
+        "El obligado sea una persona jurídica de derecho público",
+        "El acto ya hubiera sido objeto de apremio sobre el patrimonio",
+        "Se trate de una obligación pecuniaria inferior a mil euros",
+        "Procediendo la compulsión sobre las personas, la Administración no la estimara conveniente"
+      ],
+      "correct": 3,
+      "exp": "El art. 103.1.b) LPAC prevé la multa coercitiva cuando, procediendo la compulsión sobre las personas, la Administración no la estimara conveniente.",
+      "fuente": "Art. 103.1.b) LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 103.1.b) LPAC ('actos en que, procediendo la compulsion, la Administracion no la estimara conveniente'); opcion A correcta.",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 103.1.c) LPAC, procede igualmente la multa coercitiva en actos cuya ejecución:",
+      "options": [
+        "Pueda el obligado encargar a otra persona",
+        "Solo pueda realizar personalmente el obligado",
+        "Requiera necesariamente autorización judicial",
+        "Implique una obligación de dar cantidad líquida"
+      ],
+      "correct": 0,
+      "exp": "El art. 103.1.c) LPAC prevé la multa coercitiva en actos cuya ejecución pueda el obligado encargar a otra persona.",
+      "fuente": "Art. 103.1.c) LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 103.1.c) LPAC ('actos cuya ejecucion pueda el obligado encargar a otra persona'); opcion A correcta.",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 103.2 LPAC, la multa coercitiva es:",
+      "options": [
+        "Incompatible con cualquier sanción administrativa",
+        "Independiente de las sanciones que puedan imponerse con tal carácter y compatible con ellas",
+        "Sustitutiva de la sanción, de modo que impide imponer esta última",
+        "Solo aplicable tras agotar la vía judicial"
+      ],
+      "correct": 1,
+      "exp": "El art. 103.2 LPAC declara la multa coercitiva independiente de las sanciones que puedan imponerse con tal carácter, y compatible con ellas.",
+      "fuente": "Art. 103.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 103.2 LPAC ('la multa coercitiva es independiente de las sanciones que puedan imponerse con tal caracter y compatible con ellas'); opcion A correcta.",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 104.1 LPAC, los actos administrativos que impongan una obligación personalísima de no hacer o soportar podrán ejecutarse por compulsión directa sobre las personas cuando:",
+      "options": [
+        "Lo decida discrecionalmente el órgano instructor sin necesidad de ley",
+        "El interesado preste su consentimiento verbal",
+        "La ley expresamente lo autorice, y dentro siempre del respeto debido a la dignidad y a los derechos reconocidos en la Constitución",
+        "Haya transcurrido el plazo de ejecución subsidiaria sin resultado"
+      ],
+      "correct": 2,
+      "exp": "El art. 104.1 LPAC exige que la ley expresamente autorice la compulsión directa sobre las personas, y que se ejerza siempre dentro del respeto debido a la dignidad y a los derechos reconocidos en la Constitución.",
+      "fuente": "Art. 104.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 104.1 LPAC ('en los casos en que la ley expresamente lo autorice, y dentro siempre del respeto debido a su dignidad y a los derechos reconocidos en la Constitucion'); opcion A correcta.",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 104.2 LPAC, si tratándose de obligaciones personalísimas de hacer no se realizase la prestación, el obligado deberá:",
+      "options": [
+        "Ser compelido físicamente a realizar la prestación",
+        "Quedar exonerado de toda responsabilidad",
+        "Ser sustituido de oficio por la Administración sin coste alguno para él",
+        "Resarcir los daños y perjuicios, cuya liquidación y cobro se procederá en vía administrativa"
+      ],
+      "correct": 3,
+      "exp": "El art. 104.2 LPAC, para las obligaciones personalísimas de hacer no cumplidas, prevé que el obligado resarza los daños y perjuicios, cuya liquidación y cobro se procederá en vía administrativa.",
+      "fuente": "Art. 104.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 104.2 LPAC ('el obligado debera resarcir los danos y perjuicios, a cuya liquidacion y cobro se procedera en via administrativa'); opcion A correcta.",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 105 LPAC, no se admitirán a trámite:",
+      "options": [
+        "Acciones posesorias contra las actuaciones de los órganos administrativos realizadas en materia de su competencia y de acuerdo con el procedimiento legalmente establecido",
+        "Recursos de alzada contra actos de trámite",
+        "Denuncias de particulares ante la Administración",
+        "Solicitudes de suspensión cautelar de la ejecución"
+      ],
+      "correct": 0,
+      "exp": "El art. 105 LPAC ('Prohibición de acciones posesorias') impide admitir a trámite acciones posesorias contra actuaciones administrativas realizadas en materia de competencia del órgano y conforme al procedimiento legalmente establecido.",
+      "fuente": "Art. 105 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 105 LPAC ('No se admitiran a tramite acciones posesorias contra las actuaciones de los organos administrativos realizadas en materia de su competencia y de acuerdo con el procedimiento legalmente establecido'); opcion A correcta.",
+      "correccion": null
+    },
+    {
+      "q": "La prohibición de acciones posesorias del art. 105 LPAC opera únicamente cuando la actuación administrativa se haya realizado:",
+      "options": [
+        "Con independencia de cuál sea el órgano competente",
+        "En materia de la competencia del órgano y de acuerdo con el procedimiento legalmente establecido",
+        "Sin necesidad de que exista procedimiento alguno",
+        "Solo si el acto ha sido objeto de recurso previo"
+      ],
+      "correct": 1,
+      "exp": "El art. 105 LPAC condiciona la prohibición de acciones posesorias a que la actuación se realice en materia de la competencia del órgano administrativo y de acuerdo con el procedimiento legalmente establecido.",
+      "fuente": "Art. 105 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 105 LPAC, condicion doble (materia de la competencia del organo Y de acuerdo con el procedimiento legalmente establecido); opcion A reproduce ambas condiciones conjuntamente, sin ambiguedad frente a las demas opciones.",
+      "correccion": null
+    },
+    {
+      "q": "Un ayuntamiento ordena la demolición de una construcción ilegal, obligación que puede ser cumplida por cualquier empresa contratada al efecto. Conforme al art. 102.1 LPAC, el medio de ejecución forzosa procedente es:",
+      "options": [
+        "La compulsión sobre las personas, por tratarse de una obligación de no hacer",
+        "El apremio sobre el patrimonio, en todo caso",
+        "La ejecución subsidiaria, al no tratarse de una obligación personalísima",
+        "La multa coercitiva, exclusivamente"
+      ],
+      "correct": 2,
+      "exp": "Al no ser la demolición un acto personalísimo (puede realizarlo un sujeto distinto del obligado), el art. 102.1 LPAC determina que procede la ejecución subsidiaria.",
+      "fuente": "Art. 102.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 102.1 LPAC aplicado al supuesto practico (demolicion no personalisima, ejecutable por tercero) frente al listado de medios del art. 100.1 y 102.1; la ejecucion subsidiaria (opcion A) es el medio correcto conforme al precepto.",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 99 LPAC, las Administraciones Públicas NO podrán proceder a la ejecución forzosa de los actos administrativos cuando:",
+      "options": [
+        "El interesado sea una persona física, nunca si es jurídica",
+        "El acto haya sido dictado por un órgano colegiado",
+        "Haya transcurrido menos de un año desde su notificación",
+        "Se suspenda la ejecución de acuerdo con la Ley, o cuando la Constitución o la Ley exijan la intervención de un órgano judicial"
+      ],
+      "correct": 3,
+      "exp": "El art. 99 LPAC excluye la ejecución forzosa cuando se suspenda la ejecución de acuerdo con la Ley, o cuando la Constitución o la Ley exijan la intervención de un órgano judicial.",
+      "fuente": "Art. 99 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 99 LPAC ('salvo en los supuestos en que se suspenda la ejecucion de acuerdo con la Ley, o cuando la Constitucion o la Ley exijan la intervencion de un organo judicial'); opcion A correcta.",
+      "correccion": null
+    }
+  ]
+}
