@@ -36995,3 +36995,1051 @@ window.addQuestions('aux-admin-zaragoza', 5, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 5 · lote 2026-08-12 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 5, [
+  {
+    "q": "Conforme al artículo 29 de la LPAC, los términos y plazos establecidos en la Ley 39/2015 u otras leyes:",
+    "options": [
+      "Obligan a las autoridades y personal al servicio de las Administraciones Públicas competentes para la tramitación de los asuntos, así como a los interesados en los mismos.",
+      "Solo vinculan a los interesados, no a la Administración.",
+      "Tienen carácter meramente orientativo para la Administración.",
+      "Únicamente obligan cuando así lo determine expresamente el órgano competente en cada caso."
+    ],
+    "correct": 0,
+    "exp": "El art. 29 LPAC dispone literalmente que los términos y plazos establecidos en ésta u otras leyes obligan a las autoridades y personal al servicio de las Administraciones Públicas competentes para la tramitación de los asuntos, así como a los interesados en los mismos.",
+    "fuente": "Art. 29 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 29 LPAC, ¿a quién obliga el cumplimiento de los términos y plazos administrativos, además de a los interesados?",
+    "options": [
+      "Únicamente a los funcionarios de carrera, no al personal laboral.",
+      "A las autoridades y al personal al servicio de las Administraciones Públicas competentes para la tramitación de los asuntos.",
+      "Solo a los órganos unipersonales, no a los colegiados.",
+      "A nadie más; los plazos solo son exigibles a los interesados."
+    ],
+    "correct": 1,
+    "exp": "El art. 29 LPAC extiende la obligatoriedad de los plazos a las autoridades y personal al servicio de las Administraciones Públicas competentes para la tramitación de los asuntos, sin distinguir entre clases de personal ni tipos de órganos.",
+    "fuente": "Art. 29 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 29 LPAC dispone que los términos y plazos obligan a las autoridades y personal al servicio de las Administraciones Públicas para la tramitación de los asuntos. ¿Quiénes son, además, sujetos obligados por dichos plazos?",
+    "options": [
+      "Los medios de comunicación.",
+      "Los colegios profesionales.",
+      "Los interesados en los mismos.",
+      "Los notarios y registradores."
+    ],
+    "correct": 2,
+    "exp": "El art. 29 LPAC cierra la enumeración de sujetos obligados señalando 'así como a los interesados en los mismos', es decir, en los asuntos objeto de tramitación.",
+    "fuente": "Art. 29 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes afirmaciones sobre el art. 29 LPAC es correcta?",
+    "options": [
+      "Los plazos solo obligan cuando derivan de la propia LPAC, no de otras leyes.",
+      "Los plazos únicamente resultan exigibles frente a la Administración, nunca frente a los interesados.",
+      "La obligatoriedad de los plazos queda supeditada a que el interesado esté representado por letrado.",
+      "Los términos y plazos establecidos en la LPAC u otras leyes obligan tanto a la Administración competente como a los interesados."
+    ],
+    "correct": 3,
+    "exp": "El art. 29 LPAC se refiere a los términos y plazos 'establecidos en ésta u otras leyes', y los declara obligatorios tanto para la Administración competente como para los interesados, sin condicionarlo a representación letrada.",
+    "fuente": "Art. 29 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Salvo que la Ley o el Derecho de la Unión Europea dispongan otro cómputo, cuando un plazo administrativo se señale por horas, el art. 30.1 LPAC establece que:",
+    "options": [
+      "Se entiende que todas las horas son hábiles, siendo tales todas las horas del día que formen parte de un día hábil.",
+      "Solo son hábiles las horas comprendidas entre las 9:00 y las 14:00.",
+      "Se computan únicamente las horas de atención al público.",
+      "Se excluyen las horas nocturnas, aunque pertenezcan a un día hábil."
+    ],
+    "correct": 0,
+    "exp": "El art. 30.1 LPAC establece que, salvo disposición en contrario, cuando los plazos se señalen por horas se entiende que éstas son hábiles, siendo hábiles todas las horas del día que formen parte de un día hábil.",
+    "fuente": "Art. 30.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 30.1 LPAC, los plazos expresados por horas se contarán:",
+    "options": [
+      "De día en día natural, sin tener en cuenta la hora exacta de la notificación.",
+      "De hora en hora y de minuto en minuto desde la hora y minuto en que tenga lugar la notificación o publicación del acto.",
+      "A partir de las 00:00 horas del día siguiente a la notificación.",
+      "Desde la medianoche del día en que se dicte el acto, redondeando a la hora completa."
+    ],
+    "correct": 1,
+    "exp": "El art. 30.1 LPAC dispone que los plazos expresados por horas se contarán de hora en hora y de minuto en minuto desde la hora y minuto en que tenga lugar la notificación o publicación del acto de que se trate.",
+    "fuente": "Art. 30.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el art. 30.1 LPAC, un plazo señalado por horas no podrá tener una duración superior a:",
+    "options": [
+      "Doce horas, en cuyo caso se expresará en días.",
+      "Cuarenta y ocho horas, en cuyo caso se expresará en semanas.",
+      "Veinticuatro horas, en cuyo caso se expresará en días.",
+      "Setenta y dos horas, en cuyo caso se expresará en meses."
+    ],
+    "correct": 2,
+    "exp": "El art. 30.1 LPAC señala que los plazos por horas no podrán tener una duración superior a veinticuatro horas, en cuyo caso se expresarán en días.",
+    "fuente": "Art. 30.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando los plazos administrativos se señalen por días y no se exprese otro cómputo, el art. 30.2 LPAC establece que se entienden días hábiles, quedando excluidos del cómputo:",
+    "options": [
+      "Únicamente los domingos y festivos, pero no los sábados.",
+      "Solo los días declarados festivos a nivel nacional.",
+      "Los sábados y domingos, salvo que coincidan con un puente.",
+      "Los sábados, los domingos y los declarados festivos."
+    ],
+    "correct": 3,
+    "exp": "El art. 30.2 LPAC dispone que, cuando los plazos se señalen por días, se entiende que éstos son hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos.",
+    "fuente": "Art. 30.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 30.2 LPAC, cuando los plazos se hayan señalado por días naturales por así declararlo una ley o el Derecho de la Unión Europea, ¿qué obligación se impone a la Administración?",
+    "options": [
+      "Debe hacer constar esta circunstancia en las correspondientes notificaciones.",
+      "Ninguna; no es preciso advertir de esa circunstancia.",
+      "Debe publicarlo únicamente en el Boletín Oficial del Estado.",
+      "Debe solicitar autorización previa del interesado para aplicar días naturales."
+    ],
+    "correct": 0,
+    "exp": "El art. 30.2 LPAC, segundo párrafo, exige que cuando los plazos se hayan señalado por días naturales por declararlo así una ley o el Derecho de la Unión Europea, se haga constar esta circunstancia en las correspondientes notificaciones.",
+    "fuente": "Art. 30.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 30.3 LPAC dispone que los plazos expresados en días se contarán a partir de:",
+    "options": [
+      "El mismo día en que tenga lugar la notificación o publicación del acto.",
+      "El día siguiente a aquel en que tenga lugar la notificación o publicación del acto, o desde el siguiente a la estimación o desestimación por silencio administrativo.",
+      "El día en que el interesado manifieste haber recibido la notificación.",
+      "Los tres días hábiles posteriores a la notificación, en concepto de cortesía procedimental."
+    ],
+    "correct": 1,
+    "exp": "El art. 30.3 LPAC establece que los plazos expresados en días se contarán a partir del día siguiente a aquel en que tenga lugar la notificación o publicación del acto, o desde el siguiente a aquel en que se produzca la estimación o desestimación por silencio administrativo.",
+    "fuente": "Art. 30.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "En un procedimiento en el que opera el silencio administrativo, conforme al art. 30.3 LPAC, el cómputo del plazo en días se inicia:",
+    "options": [
+      "Desde la fecha en que el interesado presentó la solicitud inicial, sin más cómputo posterior.",
+      "Desde el día en que el órgano competente dicte la resolución expresa tardía.",
+      "Desde el día siguiente a aquel en que se produzca la estimación o desestimación por silencio administrativo.",
+      "Desde el día siguiente a la publicación del acto en el Boletín Oficial correspondiente, exclusivamente."
+    ],
+    "correct": 2,
+    "exp": "El art. 30.3 LPAC contempla expresamente que el cómputo de los plazos en días se inicia también desde el día siguiente a aquel en que se produzca la estimación o la desestimación por silencio administrativo.",
+    "fuente": "Art. 30.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 30.4 LPAC, un plazo fijado en meses concluirá:",
+    "options": [
+      "El día último de cada mes, con independencia de la fecha de notificación.",
+      "El primer día hábil del mes de vencimiento.",
+      "Treinta días naturales después de la notificación, en todo caso.",
+      "El mismo día en que se produjo la notificación, publicación o silencio administrativo, en el mes de vencimiento."
+    ],
+    "correct": 3,
+    "exp": "El art. 30.4 LPAC establece que el plazo concluirá el mismo día en que se produjo la notificación, publicación o silencio administrativo en el mes o el año de vencimiento.",
+    "fuente": "Art. 30.4 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Si un plazo se fija en meses y, en el mes de vencimiento, no existe día equivalente a aquel en que comenzó el cómputo, el art. 30.4 LPAC establece que el plazo expira:",
+    "options": [
+      "El último día del mes.",
+      "El primer día del mes siguiente.",
+      "El día 30 del mes de vencimiento, por defecto.",
+      "El día anterior al que se produjo la notificación en el mes de inicio."
+    ],
+    "correct": 0,
+    "exp": "El art. 30.4 LPAC dispone que si en el mes de vencimiento no hubiera día equivalente a aquel en que comienza el cómputo, se entenderá que el plazo expira el último día del mes.",
+    "fuente": "Art. 30.4 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 30.5 LPAC, si el último día de un plazo administrativo resulta inhábil:",
+    "options": [
+      "El plazo se da por vencido igualmente, sin prórroga alguna.",
+      "El plazo se entiende prorrogado al primer día hábil siguiente.",
+      "El plazo se acorta en un día para compensar.",
+      "El interesado debe solicitar expresamente la prórroga ante el órgano competente."
+    ],
+    "correct": 1,
+    "exp": "El art. 30.5 LPAC establece que cuando el último día del plazo sea inhábil, se entenderá prorrogado al primer día hábil siguiente, sin necesidad de solicitud del interesado.",
+    "fuente": "Art. 30.5 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 30.6 LPAC resuelve el supuesto en que un día sea hábil en el municipio o Comunidad Autónoma del interesado e inhábil en la sede del órgano administrativo (o a la inversa), estableciendo que dicho día:",
+    "options": [
+      "Se considerará hábil en todo caso, primando la situación más favorable al interesado.",
+      "Se considerará hábil solo si el interesado actúa por medios electrónicos.",
+      "Se considerará inhábil en todo caso.",
+      "Quedará a criterio discrecional del órgano instructor."
+    ],
+    "correct": 2,
+    "exp": "El art. 30.6 LPAC dispone que cuando un día fuese hábil en el municipio o Comunidad Autónoma del interesado e inhábil en la sede del órgano administrativo, o a la inversa, se considerará inhábil en todo caso.",
+    "fuente": "Art. 30.6 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 30.7 LPAC, el calendario de días inhábiles a efectos de cómputo de plazos aprobado por las Comunidades Autónomas:",
+    "options": [
+      "Solo es aplicable a los órganos de la propia Comunidad Autónoma, no a las Entidades Locales.",
+      "Debe ser ratificado previamente por la Administración General del Estado.",
+      "Solo tiene efectos si coincide exactamente con el calendario estatal.",
+      "Comprenderá los días inhábiles de las Entidades Locales de su ámbito territorial, a las que será de aplicación."
+    ],
+    "correct": 3,
+    "exp": "El art. 30.7 LPAC establece que el calendario aprobado por las Comunidades Autónomas comprenderá los días inhábiles de las Entidades Locales correspondientes a su ámbito territorial, a las que será de aplicación.",
+    "fuente": "Art. 30.7 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 30.7 LPAC exige que el calendario de días inhábiles se publique:",
+    "options": [
+      "Antes del comienzo de cada año, en el diario oficial que corresponda y en otros medios que garanticen su conocimiento generalizado.",
+      "Únicamente en la sede electrónica del órgano competente, sin necesidad de diario oficial.",
+      "Dentro de los tres primeros meses de cada año, sin necesidad de otra difusión.",
+      "Solo cuando lo solicite expresamente algún interesado."
+    ],
+    "correct": 0,
+    "exp": "El art. 30.7 LPAC, segundo párrafo, dispone que dicho calendario deberá publicarse antes del comienzo de cada año en el diario oficial que corresponda, así como en otros medios de difusión que garanticen su conocimiento generalizado.",
+    "fuente": "Art. 30.7 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 30.8 LPAC, la declaración de un día como hábil o inhábil a efectos de cómputo de plazos:",
+    "options": [
+      "Determina automáticamente el cierre de los centros de trabajo de las Administraciones Públicas ese día.",
+      "No determina por sí sola el funcionamiento de los centros de trabajo, la organización del tiempo de trabajo ni el régimen de jornada y horarios.",
+      "Obliga a todo el personal a jornada continua ese día.",
+      "Solo afecta a los registros electrónicos, no al resto de efectos administrativos."
+    ],
+    "correct": 1,
+    "exp": "El art. 30.8 LPAC precisa que la declaración de un día como hábil o inhábil a efectos de cómputo de plazos no determina por sí sola el funcionamiento de los centros de trabajo de las Administraciones Públicas, la organización del tiempo de trabajo o el régimen de jornada y horarios de las mismas.",
+    "fuente": "Art. 30.8 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 31.1 LPAC, cada Administración Pública debe publicar:",
+    "options": [
+      "Únicamente el organigrama de las unidades de registro.",
+      "El listado de funcionarios habilitados para certificar copias.",
+      "Los días y el horario en que permanecerán abiertas las oficinas que prestarán asistencia para la presentación electrónica de documentos.",
+      "El calendario fiscal del ejercicio en curso."
+    ],
+    "correct": 2,
+    "exp": "El art. 31.1 LPAC dispone que cada Administración Pública publicará los días y el horario en el que deban permanecer abiertas las oficinas que prestarán asistencia para la presentación electrónica de documentos, garantizando el derecho de los interesados a ser asistidos en el uso de medios electrónicos.",
+    "fuente": "Art. 31.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "A efectos de cómputo de plazos, el art. 31.2 LPAC establece que el registro electrónico de cada Administración u Organismo se rige por:",
+    "options": [
+      "La fecha y hora que consigne el propio interesado en el documento presentado.",
+      "La fecha del sello postal, aplicada también a los registros electrónicos.",
+      "La hora del servidor del proveedor de servicios de certificación electrónica del interesado.",
+      "La fecha y hora oficial de la sede electrónica de acceso, que debe figurar de modo accesible y visible."
+    ],
+    "correct": 3,
+    "exp": "El art. 31.2 LPAC dispone que el registro electrónico de cada Administración u Organismo se regirá, a efectos de cómputo de plazos, por la fecha y hora oficial de la sede electrónica de acceso, que deberá figurar de modo accesible y visible.",
+    "fuente": "Art. 31.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 31.2 a) LPAC establece que el funcionamiento del registro electrónico permitirá la presentación de documentos:",
+    "options": [
+      "Todos los días del año durante las veinticuatro horas.",
+      "Solo en días hábiles, durante el horario de atención al público.",
+      "De lunes a viernes, entre las 8:00 y las 20:00 horas.",
+      "Los días hábiles y, además, los sábados por la mañana."
+    ],
+    "correct": 0,
+    "exp": "El art. 31.2 a) LPAC dispone que el registro electrónico permitirá la presentación de documentos todos los días del año durante las veinticuatro horas.",
+    "fuente": "Art. 31.2.a) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 31.2 b) LPAC, salvo que una norma permita expresamente la recepción en día inhábil, la presentación de un documento en día inhábil se entiende realizada, a efectos del cómputo de plazos fijados en días hábiles:",
+    "options": [
+      "En la última hora del día inhábil en que efectivamente se presentó.",
+      "En la primera hora del primer día hábil siguiente.",
+      "En la fecha en que el órgano competente registre de entrada el documento, sin más precisión horaria.",
+      "Transcurridos tres días hábiles desde la presentación efectiva."
+    ],
+    "correct": 1,
+    "exp": "El art. 31.2 b) LPAC establece que, salvo que una norma permita expresamente la recepción en día inhábil, la presentación en día inhábil se entenderá realizada en la primera hora del primer día hábil siguiente.",
+    "fuente": "Art. 31.2.b) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 31.2 b) LPAC, los documentos presentados en un día inhábil, respecto de los presentados el primer día hábil posterior, se reputarán:",
+    "options": [
+      "Posteriores, según el orden de hora efectiva de presentación en el día inhábil.",
+      "Simultáneos, sin que se establezca ningún orden de prelación.",
+      "Anteriores, según el orden de hora efectiva en que se presentaron en el día inhábil.",
+      "Inadmitidos, salvo ratificación expresa del interesado en el día hábil siguiente."
+    ],
+    "correct": 2,
+    "exp": "El art. 31.2 b) LPAC dispone que los documentos presentados en el día inhábil se reputarán anteriores, según el orden de hora efectiva, a los que lo fueran el primer día hábil posterior.",
+    "fuente": "Art. 31.2.b) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 31.2 c) LPAC dispone que el inicio del cómputo de los plazos que deban cumplir las Administraciones Públicas viene determinado por:",
+    "options": [
+      "La fecha en que el órgano competente dicta la resolución de admisión a trámite.",
+      "La fecha de entrada en el registro general del Ministerio competente por razón de la materia.",
+      "La fecha en que se notifica al interesado la incoación del procedimiento.",
+      "La fecha y hora de presentación en el registro electrónico de cada Administración u Organismo."
+    ],
+    "correct": 3,
+    "exp": "El art. 31.2 c) LPAC establece que el inicio del cómputo de los plazos que hayan de cumplir las Administraciones Públicas vendrá determinado por la fecha y hora de presentación en el registro electrónico de cada Administración u Organismo.",
+    "fuente": "Art. 31.2.c) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 31.2 c) LPAC, la fecha y hora efectiva de inicio del cómputo de plazos:",
+    "options": [
+      "En todo caso deberá ser comunicada a quien presentó el documento.",
+      "No es preciso comunicarla al interesado, al constar ya en el justificante de presentación.",
+      "Solo debe comunicarse si el interesado lo solicita expresamente.",
+      "Se comunica únicamente cuando el procedimiento concluye por silencio administrativo."
+    ],
+    "correct": 0,
+    "exp": "El art. 31.2 c) LPAC exige que, en todo caso, la fecha y hora efectiva de inicio del cómputo de plazos deba ser comunicada a quien presentó el documento.",
+    "fuente": "Art. 31.2.c) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 31.3 LPAC, los días inhábiles a efectos de los registros electrónicos se determinan atendiendo:",
+    "options": [
+      "Exclusivamente al calendario laboral del personal que presta servicio en la oficina de registro presencial.",
+      "Al ámbito territorial en que ejerce sus competencias el titular de la sede electrónica y al calendario previsto en el art. 30.7.",
+      "Al domicilio fiscal del interesado que presenta el documento.",
+      "A un calendario único fijado por el Ministerio de Asuntos Económicos para toda España."
+    ],
+    "correct": 1,
+    "exp": "El art. 31.3 LPAC dispone que la sede electrónica del registro determinará los días inhábiles atendiendo al ámbito territorial en que ejerce sus competencias el titular de aquélla y al calendario previsto en el art. 30.7.",
+    "fuente": "Art. 31.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 31.3 LPAC precisa que, a efectos del cómputo de plazos en los registros electrónicos:",
+    "options": [
+      "Se aplica la regla del art. 30.6 sobre discordancia entre el día hábil del interesado y el de la sede del órgano.",
+      "Cada interesado puede elegir el calendario de días inhábiles de su municipio de residencia.",
+      "Rige un único calendario de días inhábiles, sin que resulte de aplicación lo dispuesto en el art. 30.6.",
+      "No existe calendario de días inhábiles, pues el registro funciona permanentemente."
+    ],
+    "correct": 2,
+    "exp": "El art. 31.3 LPAC establece que este será el único calendario de días inhábiles aplicable al cómputo de plazos en los registros electrónicos, sin que resulte de aplicación a los mismos lo dispuesto en el art. 30.6.",
+    "fuente": "Art. 31.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 32.1 LPAC, salvo precepto en contrario, la ampliación de los plazos establecidos que puede conceder la Administración, de oficio o a petición de los interesados, no podrá exceder de:",
+    "options": [
+      "El doble de los plazos originales.",
+      "Un tercio de los plazos originales.",
+      "Un plazo fijo de quince días, cualquiera que sea la duración original.",
+      "La mitad de los mismos."
+    ],
+    "correct": 3,
+    "exp": "El art. 32.1 LPAC dispone que la Administración podrá conceder una ampliación de los plazos establecidos que no exceda de la mitad de los mismos.",
+    "fuente": "Art. 32.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 32.1 LPAC, para que la Administración pueda conceder una ampliación de plazos es necesario que:",
+    "options": [
+      "Las circunstancias lo aconsejen y con ello no se perjudiquen derechos de tercero, debiendo notificarse el acuerdo a los interesados.",
+      "Lo soliciten conjuntamente todos los interesados en el procedimiento, sin excepción.",
+      "Medie autorización previa del órgano de tutela financiera.",
+      "El procedimiento se tramite por vía de urgencia."
+    ],
+    "correct": 0,
+    "exp": "El art. 32.1 LPAC exige que las circunstancias lo aconsejen y que con la ampliación no se perjudiquen derechos de tercero, y añade que el acuerdo de ampliación deberá ser notificado a los interesados.",
+    "fuente": "Art. 32.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 32.2 LPAC dispone que la ampliación de los plazos por el tiempo máximo permitido se aplicará en todo caso a los procedimientos tramitados por:",
+    "options": [
+      "Los tribunales económico-administrativos.",
+      "Las misiones diplomáticas y oficinas consulares.",
+      "Los ayuntamientos de más de 500.000 habitantes.",
+      "Las entidades gestoras de la Seguridad Social."
+    ],
+    "correct": 1,
+    "exp": "El art. 32.2 LPAC establece que la ampliación de los plazos por el tiempo máximo permitido se aplicará en todo caso a los procedimientos tramitados por las misiones diplomáticas y oficinas consulares.",
+    "fuente": "Art. 32.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Además de los procedimientos tramitados por misiones diplomáticas y oficinas consulares, el art. 32.2 LPAC extiende la ampliación de plazos por el tiempo máximo permitido a los procedimientos que, sustanciándose en el interior:",
+    "options": [
+      "Se refieran a expedientes de responsabilidad patrimonial de cuantía elevada.",
+      "Se tramiten exclusivamente por medios electrónicos.",
+      "Exijan cumplimentar algún trámite en el extranjero o en los que intervengan interesados residentes fuera de España.",
+      "Hayan sido objeto de recurso de alzada en dos ocasiones."
+    ],
+    "correct": 2,
+    "exp": "El art. 32.2 LPAC también aplica la ampliación por el tiempo máximo a los procedimientos que, sustanciándose en el interior, exijan cumplimentar algún trámite en el extranjero o en los que intervengan interesados residentes fuera de España.",
+    "fuente": "Art. 32.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 32.3 LPAC, la petición de ampliación de un plazo por el interesado y la decisión de la Administración sobre ella deben producirse:",
+    "options": [
+      "En cualquier momento, incluso tras el vencimiento del plazo, si median causas justificadas.",
+      "Dentro de los diez días siguientes al vencimiento del plazo.",
+      "Solo durante el periodo de información pública del procedimiento.",
+      "Antes del vencimiento del plazo de que se trate, en todo caso."
+    ],
+    "correct": 3,
+    "exp": "El art. 32.3 LPAC dispone que tanto la petición de los interesados como la decisión sobre la ampliación deberán producirse, en todo caso, antes del vencimiento del plazo de que se trate.",
+    "fuente": "Art. 32.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el art. 32.3 LPAC, los acuerdos sobre ampliación de plazos o sobre su denegación:",
+    "options": [
+      "No son susceptibles de recurso, sin perjuicio del procedente contra la resolución que ponga fin al procedimiento.",
+      "Son susceptibles de recurso de alzada de forma autónoma.",
+      "Deben recurrirse obligatoriamente antes de que se dicte la resolución que ponga fin al procedimiento.",
+      "Solo pueden impugnarse en vía judicial contencioso-administrativa, nunca en vía administrativa."
+    ],
+    "correct": 0,
+    "exp": "El art. 32.3 LPAC establece que los acuerdos sobre ampliación de plazos o sobre su denegación no serán susceptibles de recurso, sin perjuicio del procedente contra la resolución que ponga fin al procedimiento.",
+    "fuente": "Art. 32.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando una incidencia técnica haya imposibilitado el funcionamiento ordinario del sistema o aplicación correspondiente, el art. 32.4 LPAC permite a la Administración:",
+    "options": [
+      "Suspender indefinidamente el procedimiento sin necesidad de publicar nada.",
+      "Determinar una ampliación de los plazos no vencidos, publicando en la sede electrónica la incidencia y la ampliación concreta acordada.",
+      "Declarar la caducidad automática del procedimiento afectado.",
+      "Ampliar únicamente los plazos ya vencidos con anterioridad a la incidencia."
+    ],
+    "correct": 1,
+    "exp": "El art. 32.4 LPAC permite a la Administración determinar una ampliación de los plazos no vencidos cuando una incidencia técnica haya imposibilitado el funcionamiento ordinario del sistema, debiendo publicar en la sede electrónica tanto la incidencia como la ampliación concreta del plazo.",
+    "fuente": "Art. 32.4 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 32.5 LPAC, introducido por el Real Decreto-ley 6/2022, prevé que cuando un ciberincidente afecte gravemente a los servicios y sistemas utilizados para la tramitación de los procedimientos, la Administración podrá:",
+    "options": [
+      "Declarar la nulidad de pleno derecho de todos los procedimientos en curso.",
+      "Suspender de forma permanente el registro electrónico, sin fijar nueva fecha de reanudación.",
+      "Acordar la ampliación general de plazos de los procedimientos administrativos.",
+      "Exigir a los interesados la presentación de sus solicitudes exclusivamente en papel."
+    ],
+    "correct": 2,
+    "exp": "El art. 32.5 LPAC dispone que cuando, como consecuencia de un ciberincidente, se hayan visto gravemente afectados los servicios y sistemas utilizados para la tramitación de los procedimientos, la Administración podrá acordar la ampliación general de plazos de los procedimientos administrativos.",
+    "fuente": "Art. 32.5 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 33.1 LPAC, la tramitación de urgencia de un procedimiento se podrá acordar cuando:",
+    "options": [
+      "Lo solicite cualquier interesado, sin necesidad de motivación adicional.",
+      "El procedimiento lleve más de seis meses de tramitación.",
+      "Así lo determine el Defensor del Pueblo en su informe anual.",
+      "Razones de interés público lo aconsejen, de oficio o a petición del interesado."
+    ],
+    "correct": 3,
+    "exp": "El art. 33.1 LPAC dispone que cuando razones de interés público lo aconsejen, se podrá acordar, de oficio o a petición del interesado, la aplicación al procedimiento de la tramitación de urgencia.",
+    "fuente": "Art. 33.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El efecto principal de la tramitación de urgencia, según el art. 33.1 LPAC, consiste en que:",
+    "options": [
+      "Se reducen a la mitad los plazos establecidos para el procedimiento ordinario, salvo los relativos a la presentación de solicitudes y recursos.",
+      "Se duplican los plazos establecidos para el procedimiento ordinario.",
+      "Se suprime cualquier plazo, resolviéndose el procedimiento de forma inmediata.",
+      "Se reducen a la mitad todos los plazos, incluidos los de presentación de solicitudes y recursos, sin excepción."
+    ],
+    "correct": 0,
+    "exp": "El art. 33.1 LPAC establece que la tramitación de urgencia reduce a la mitad los plazos establecidos para el procedimiento ordinario, salvo los relativos a la presentación de solicitudes y recursos.",
+    "fuente": "Art. 33.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué plazos quedan excluidos de la reducción a la mitad prevista en el art. 33.1 LPAC para la tramitación de urgencia?",
+    "options": [
+      "Los relativos a los informes preceptivos no vinculantes.",
+      "Los relativos a la presentación de solicitudes y recursos.",
+      "Los relativos a la notificación de la resolución final.",
+      "Los relativos al trámite de audiencia al interesado."
+    ],
+    "correct": 1,
+    "exp": "El art. 33.1 LPAC exceptúa expresamente de la reducción a la mitad los plazos relativos a la presentación de solicitudes y recursos.",
+    "fuente": "Art. 33.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 33.2 LPAC, contra el acuerdo que declare la aplicación de la tramitación de urgencia a un procedimiento:",
+    "options": [
+      "Cabrá recurso de alzada en el plazo de un mes.",
+      "Cabrá recurso potestativo de reposición, únicamente.",
+      "No cabrá recurso alguno, sin perjuicio del procedente contra la resolución que ponga fin al procedimiento.",
+      "Cabrá recurso extraordinario de revisión ante el órgano superior jerárquico."
+    ],
+    "correct": 2,
+    "exp": "El art. 33.2 LPAC dispone que no cabrá recurso alguno contra el acuerdo que declare la aplicación de la tramitación de urgencia al procedimiento, sin perjuicio del procedente contra la resolución que ponga fin al procedimiento.",
+    "fuente": "Art. 33.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El interesado que no esté de acuerdo con la aplicación de la tramitación de urgencia acordada a su procedimiento, según el art. 33.2 LPAC:",
+    "options": [
+      "Puede recurrir directamente ese acuerdo ante el mismo órgano que lo dictó.",
+      "Debe recurrir en el plazo de tres días ante el órgano jerárquicamente superior.",
+      "Puede solicitar la suspensión cautelar del procedimiento ante el juzgado contencioso-administrativo.",
+      "No puede recurrir directamente dicho acuerdo, sin perjuicio de poder impugnar la resolución que ponga fin al procedimiento."
+    ],
+    "correct": 3,
+    "exp": "El art. 33.2 LPAC excluye el recurso directo contra el acuerdo de tramitación de urgencia, reservando la impugnación para la resolución que ponga fin al procedimiento.",
+    "fuente": "Art. 33.2 LPAC",
+    "confianza": "alta"
+  }
+]);
+
+/* tema 5 · lote 2026-08-12 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 5, [
+  {
+    "q": "¿Cuántos derechos enumera expresamente el art. 13 de la Ley 39/2015 (LPAC) a favor de quienes tienen capacidad de obrar ante las Administraciones Públicas?",
+    "options": [
+      "Nueve",
+      "Ocho",
+      "Diez",
+      "Seis"
+    ],
+    "correct": 0,
+    "exp": "El art. 13 LPAC enumera nueve derechos, en las letras a) a i).",
+    "fuente": "Art. 13 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de los siguientes NO figura entre los derechos que el art. 13 LPAC reconoce a las personas en sus relaciones con las Administraciones Públicas?",
+    "options": [
+      "A la obtención y utilización de los medios de identificación y firma electrónica contemplados en la Ley",
+      "A obtener una resolución en un plazo máximo de veinticuatro horas en cualquier procedimiento",
+      "A la protección de datos de carácter personal",
+      "A ser tratados con respeto y deferencia por las autoridades y empleados públicos"
+    ],
+    "correct": 1,
+    "exp": "El art. 13 LPAC no recoge un derecho genérico a obtener resolución en 24 horas; sí recoge, entre otros, los derechos de las letras g), h) y e).",
+    "fuente": "Art. 13 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En qué letra del art. 13 LPAC se reconoce el derecho de las personas a exigir las responsabilidades de las Administraciones Públicas y autoridades, cuando así corresponda legalmente?",
+    "options": [
+      "Letra d)",
+      "Letra i)",
+      "Letra f)",
+      "Letra b)"
+    ],
+    "correct": 2,
+    "exp": "Es la letra f) del art. 13 LPAC: 'A exigir las responsabilidades de las Administraciones Públicas y autoridades, cuando así corresponda legalmente.'",
+    "fuente": "Art. 13.f) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13.d) LPAC, ¿de qué fecha es la Ley de transparencia, acceso a la información pública y buen gobierno que se cita como referencia para ese derecho?",
+    "options": [
+      "De 4 de diciembre de 2013",
+      "De 1 de octubre de 2015",
+      "De 26 de noviembre de 1992",
+      "De 9 de diciembre de 2013"
+    ],
+    "correct": 3,
+    "exp": "El art. 13.d) LPAC remite a 'la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno'.",
+    "fuente": "Art. 13.d) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En qué letra del art. 13 LPAC se reconoce el derecho a utilizar las lenguas oficiales en el territorio de la Comunidad Autónoma correspondiente?",
+    "options": [
+      "Letra c)",
+      "Letra a)",
+      "Letra g)",
+      "Letra e)"
+    ],
+    "correct": 0,
+    "exp": "Es la letra c): 'A utilizar las lenguas oficiales en el territorio de su Comunidad Autónoma, de acuerdo con lo previsto en esta Ley y en el resto del ordenamiento jurídico.'",
+    "fuente": "Art. 13.c) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En qué letra del art. 13 LPAC se reconoce el derecho a la protección de datos de carácter personal?",
+    "options": [
+      "Letra a)",
+      "Letra h)",
+      "Letra f)",
+      "Letra d)"
+    ],
+    "correct": 1,
+    "exp": "Es la letra h): 'A la protección de datos de carácter personal, y en particular a la seguridad y confidencialidad de los datos que figuren en los ficheros, sistemas y aplicaciones de las Administraciones Públicas.'",
+    "fuente": "Art. 13.h) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En qué letra del art. 13 LPAC se reconoce el derecho al acceso a la información pública, archivos y registros?",
+    "options": [
+      "Letra b)",
+      "Letra g)",
+      "Letra d)",
+      "Letra i)"
+    ],
+    "correct": 2,
+    "exp": "Es la letra d): 'Al acceso a la información pública, archivos y registros, de acuerdo con lo previsto en la Ley 19/2013... y el resto del Ordenamiento Jurídico.'",
+    "fuente": "Art. 13.d) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 14.2.b) LPAC, ¿qué sujetos están obligados en todo caso a relacionarse a través de medios electrónicos con las Administraciones Públicas?",
+    "options": [
+      "Los menores de edad no emancipados",
+      "Las personas físicas jubiladas",
+      "Los turistas extranjeros en tránsito",
+      "Las entidades sin personalidad jurídica"
+    ],
+    "correct": 3,
+    "exp": "Art. 14.2.b): 'Las entidades sin personalidad jurídica.'",
+    "fuente": "Art. 14.2.b) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 14 de la Ley 39/2015 lleva por rúbrica:",
+    "options": [
+      "Derecho y obligación de relacionarse electrónicamente con las Administraciones Públicas",
+      "Registros electrónicos de las Administraciones Públicas",
+      "Asistencia en el uso de medios electrónicos a los interesados",
+      "Lengua de los procedimientos"
+    ],
+    "correct": 0,
+    "exp": "El art. 14 LPAC se titula 'Derecho y obligación de relacionarse electrónicamente con las Administraciones Públicas'.",
+    "fuente": "Art. 14 LPAC (rúbrica) (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántos colectivos o sujetos enumera expresamente el art. 14.2 LPAC como obligados, en todo caso, a relacionarse electrónicamente con las Administraciones Públicas?",
+    "options": [
+      "Tres",
+      "Cinco",
+      "Cuatro",
+      "Seis"
+    ],
+    "correct": 1,
+    "exp": "El art. 14.2 LPAC enumera cinco sujetos, en las letras a) a e).",
+    "fuente": "Art. 14.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 14.2 LPAC, la obligación de relacionarse electrónicamente que recae sobre los sujetos enumerados en ese apartado se aplica a:",
+    "options": [
+      "Solo a los trámites que superen una determinada cuantía económica",
+      "Únicamente a los procedimientos sancionadores",
+      "La realización de cualquier trámite de un procedimiento administrativo",
+      "Solo a los trámites iniciados a partir del año 2020"
+    ],
+    "correct": 2,
+    "exp": "Art. 14.2: 'estarán obligados a relacionarse a través de medios electrónicos... para la realización de cualquier trámite de un procedimiento administrativo, al menos, los siguientes sujetos...'",
+    "fuente": "Art. 14.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué letra del art. 14.2 LPAC incluye entre los obligados a relacionarse electrónicamente a las personas jurídicas?",
+    "options": [
+      "Letra c)",
+      "Letra e)",
+      "Letra b)",
+      "Letra a)"
+    ],
+    "correct": 3,
+    "exp": "Es la letra a): 'Las personas jurídicas.'",
+    "fuente": "Art. 14.2.a) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué letra del art. 14.2 LPAC incluye entre los obligados a relacionarse electrónicamente a las entidades sin personalidad jurídica?",
+    "options": [
+      "Letra b)",
+      "Letra d)",
+      "Letra a)",
+      "Letra e)"
+    ],
+    "correct": 0,
+    "exp": "Es la letra b): 'Las entidades sin personalidad jurídica.'",
+    "fuente": "Art. 14.2.b) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué letra del art. 14.2 LPAC obliga a relacionarse electrónicamente a quienes representen a un interesado que esté a su vez obligado a ello?",
+    "options": [
+      "Letra c)",
+      "Letra d)",
+      "Letra e)",
+      "Letra b)"
+    ],
+    "correct": 1,
+    "exp": "Es la letra d): 'Quienes representen a un interesado que esté obligado a relacionarse electrónicamente con la Administración.'",
+    "fuente": "Art. 14.2.d) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 14.2 LPAC, la enumeración de sujetos obligados a relacionarse electrónicamente ('al menos, los siguientes sujetos') debe entenderse como una lista:",
+    "options": [
+      "Cerrada y exhaustiva, que no admite otros supuestos",
+      "Meramente orientativa y sin efectos jurídicos",
+      "Mínima, que no impide que otras normas amplíen los obligados",
+      "Aplicable solo a la Administración General del Estado"
+    ],
+    "correct": 2,
+    "exp": "El propio art. 14.2 emplea la expresión 'al menos, los siguientes sujetos', lo que indica que es una relación mínima y no cerrada.",
+    "fuente": "Art. 14.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 14.3 LPAC, ¿mediante qué tipo de norma pueden las Administraciones establecer la obligación de relacionarse electrónicamente para determinados colectivos de personas físicas?",
+    "options": [
+      "Mediante ley orgánica",
+      "Mediante ordenanza municipal exclusivamente",
+      "Mediante instrucción interna no publicada",
+      "Reglamentariamente"
+    ],
+    "correct": 3,
+    "exp": "Art. 14.3: 'Reglamentariamente, las Administraciones podrán establecer la obligación de relacionarse con ellas a través de medios electrónicos...'",
+    "fuente": "Art. 14.3 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "A diferencia de los sujetos enumerados en el art. 14.2 LPAC, la obligación reglamentaria prevista en el art. 14.3 LPAC solo puede imponerse a:",
+    "options": [
+      "Ciertos colectivos de personas físicas",
+      "Personas jurídicas",
+      "Entidades sin personalidad jurídica",
+      "Empleados públicos exclusivamente"
+    ],
+    "correct": 0,
+    "exp": "El art. 14.3 permite establecer reglamentariamente la obligación 'para ciertos colectivos de personas físicas', a diferencia de los sujetos ya obligados por ley en el art. 14.2.",
+    "fuente": "Art. 14.3 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 14.1 LPAC, la posibilidad de las personas físicas de elegir el medio para comunicarse con las Administraciones Públicas se refiere al ejercicio de:",
+    "options": [
+      "Únicamente sus obligaciones tributarias",
+      "Sus derechos y obligaciones",
+      "Sus derechos exclusivamente, no sus obligaciones",
+      "Sus derechos fundamentales recogidos en la Constitución"
+    ],
+    "correct": 1,
+    "exp": "Art. 14.1: 'Las personas físicas podrán elegir en todo momento si se comunican con las Administraciones Públicas para el ejercicio de sus derechos y obligaciones a través de medios electrónicos o no...'",
+    "fuente": "Art. 14.1 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 14.2.e) LPAC, la obligación de los empleados públicos de relacionarse electrónicamente con la Administración se limita a:",
+    "options": [
+      "Todos los trámites que realicen, sean o no relativos a su condición de empleado público",
+      "Los trámites realizados fuera de su jornada laboral",
+      "Los trámites y actuaciones que realicen por razón de su condición de empleado público",
+      "Los trámites de naturaleza disciplinaria exclusivamente"
+    ],
+    "correct": 2,
+    "exp": "Art. 14.2.e): 'Los empleados de las Administraciones Públicas para los trámites y actuaciones que realicen con ellas por razón de su condición de empleado público...'",
+    "fuente": "Art. 14.2.e) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué letra del art. 14.2 LPAC incluye entre los obligados a relacionarse electrónicamente a quienes ejerzan una actividad profesional que requiera colegiación obligatoria?",
+    "options": [
+      "Letra b)",
+      "Letra e)",
+      "Letra a)",
+      "Letra c)"
+    ],
+    "correct": 3,
+    "exp": "Es la letra c): 'Quienes ejerzan una actividad profesional para la que se requiera colegiación obligatoria...'",
+    "fuente": "Art. 14.2.c) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 14.1 LPAC, ¿en qué momento puede una persona física modificar el medio elegido para comunicarse con la Administración?",
+    "options": [
+      "En cualquier momento",
+      "Solo al inicio de cada procedimiento",
+      "Una sola vez por procedimiento",
+      "Solo si medía causa justificada aceptada por la Administración"
+    ],
+    "correct": 0,
+    "exp": "Art. 14.1 in fine: 'El medio elegido por la persona para comunicarse con las Administraciones Públicas podrá ser modificado por aquella en cualquier momento.'",
+    "fuente": "Art. 14.1 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 15 de la Ley 39/2015 lleva por rúbrica:",
+    "options": [
+      "Registros",
+      "Lengua de los procedimientos",
+      "Colaboración de las personas",
+      "Comparecencia de las personas"
+    ],
+    "correct": 1,
+    "exp": "El art. 15 LPAC se titula 'Lengua de los procedimientos'.",
+    "fuente": "Art. 15 LPAC (rúbrica) (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántos apartados numerados tiene el art. 15 LPAC ('Lengua de los procedimientos')?",
+    "options": [
+      "Dos",
+      "Cuatro",
+      "Tres",
+      "Cinco"
+    ],
+    "correct": 2,
+    "exp": "El art. 15 LPAC tiene tres apartados.",
+    "fuente": "Art. 15 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 15.1 LPAC, ¿ante qué órganos de la Administración General del Estado pueden los interesados utilizar también la lengua que sea cooficial?",
+    "options": [
+      "Ante cualquier órgano de la AGE, esté donde esté su sede",
+      "Únicamente ante los órganos centrales con sede en Madrid",
+      "Ante ningún órgano, solo cabe el castellano en la AGE",
+      "Ante los órganos de la AGE con sede en el territorio de una Comunidad Autónoma donde esa lengua sea cooficial"
+    ],
+    "correct": 3,
+    "exp": "Art. 15.1: 'los interesados que se dirijan a los órganos de la Administración General del Estado con sede en el territorio de una Comunidad Autónoma podrán utilizar también la lengua que sea cooficial en ella.'",
+    "fuente": "Art. 15.1 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 15.1 LPAC, cuando un único interesado se dirige a un órgano de la AGE con sede en su Comunidad Autónoma y opta por la lengua cooficial, el procedimiento se tramitará:",
+    "options": [
+      "En la lengua elegida por el interesado",
+      "Siempre en castellano, con independencia de la lengua elegida",
+      "En la lengua que decida el órgano competente para resolver",
+      "En ambas lenguas simultáneamente en todo el expediente"
+    ],
+    "correct": 0,
+    "exp": "Art. 15.1: 'En este caso, el procedimiento se tramitará en la lengua elegida por el interesado.'",
+    "fuente": "Art. 15.1 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 15.3 LPAC, ¿qué Administración tiene el deber de traducir al castellano los documentos que deban surtir efecto fuera del territorio de la Comunidad Autónoma?",
+    "options": [
+      "Cualquier Administración distinta de la instructora",
+      "La Administración Pública instructora",
+      "La Administración General del Estado en todo caso",
+      "El Ministerio de Asuntos Exteriores"
+    ],
+    "correct": 1,
+    "exp": "Art. 15.3: 'La Administración Pública instructora deberá traducir al castellano los documentos, expedientes o partes de los mismos que deban surtir efecto fuera del territorio de la Comunidad Autónoma...'",
+    "fuente": "Art. 15.3 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Además de los documentos que deban surtir efecto fuera del territorio de la Comunidad Autónoma, ¿qué otros documentos debe traducir al castellano la Administración instructora según el art. 15.3 LPAC?",
+    "options": [
+      "Todos los documentos del expediente, sin excepción",
+      "Ninguno más; solo los que deban surtir efecto fuera de la Comunidad Autónoma",
+      "Los dirigidos a los interesados que así lo soliciten expresamente",
+      "Solo los documentos que se publiquen en el diario oficial"
+    ],
+    "correct": 2,
+    "exp": "Art. 15.3: '...y los documentos dirigidos a los interesados que así lo soliciten expresamente.'",
+    "fuente": "Art. 15.3 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En qué apartado del art. 15 LPAC se regula la obligación de la Administración instructora de traducir determinados documentos al castellano?",
+    "options": [
+      "Apartado 1",
+      "Apartado 2",
+      "No se regula en el art. 15, sino en el art. 16",
+      "Apartado 3"
+    ],
+    "correct": 3,
+    "exp": "Es el apartado 3 del art. 15 LPAC.",
+    "fuente": "Art. 15.3 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 15.2 LPAC, en los procedimientos tramitados por las Administraciones de las Comunidades Autónomas y de las Entidades Locales, la regla general del castellano prevista en el art. 15.1 para la Administración General del Estado:",
+    "options": [
+      "No se aplica directamente; el uso de la lengua se ajusta a la legislación autonómica correspondiente",
+      "Se aplica igualmente sin ninguna particularidad",
+      "Se aplica solo si el interesado no manifiesta preferencia",
+      "Queda sustituida siempre por el inglés en procedimientos con empresas extranjeras"
+    ],
+    "correct": 0,
+    "exp": "Art. 15.2: 'En los procedimientos tramitados por las Administraciones de las Comunidades Autónomas y de las Entidades Locales, el uso de la lengua se ajustará a lo previsto en la legislación autonómica correspondiente.'",
+    "fuente": "Art. 15.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué apartado del art. 15 LPAC remite expresamente a la legislación autonómica para determinar el uso de la lengua en los procedimientos de las Comunidades Autónomas y las Entidades Locales?",
+    "options": [
+      "El apartado 3",
+      "El apartado 2",
+      "El apartado 1",
+      "Ninguno; esa materia no está en el art. 15"
+    ],
+    "correct": 1,
+    "exp": "Es el apartado 2 del art. 15 LPAC.",
+    "fuente": "Art. 15.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.1 LPAC, además del asiento de los documentos presentados o recibidos, ¿qué otra anotación pueden recoger los registros electrónicos?",
+    "options": [
+      "Las incidencias técnicas del sistema informático",
+      "Las bajas del personal funcionario",
+      "La salida de los documentos oficiales dirigidos a otros órganos o particulares",
+      "Los acuerdos de los órganos colegiados"
+    ],
+    "correct": 2,
+    "exp": "Art. 16.1, párrafo primero: 'También se podrán anotar en el mismo, la salida de los documentos oficiales dirigidos a otros órganos o particulares.'",
+    "fuente": "Art. 16.1, párr. 1º, LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.1 LPAC, ¿qué debe figurar en la sede electrónica de acceso a cada registro?",
+    "options": [
+      "El organigrama completo de la Administración titular",
+      "El presupuesto anual destinado al registro",
+      "La identidad de todos los funcionarios habilitados",
+      "La relación actualizada de trámites que pueden iniciarse en el mismo"
+    ],
+    "correct": 3,
+    "exp": "Art. 16.1: 'En la sede electrónica de acceso a cada registro figurará la relación actualizada de trámites que pueden iniciarse en el mismo.'",
+    "fuente": "Art. 16.1, párr. 1º, LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.2 LPAC, una vez concluido el trámite de registro, los documentos serán cursados a sus destinatarios y a las unidades administrativas correspondientes:",
+    "options": [
+      "Sin dilación",
+      "En el plazo máximo de un mes",
+      "Dentro de los quince días siguientes",
+      "Cuando lo solicite expresamente el interesado"
+    ],
+    "correct": 0,
+    "exp": "Art. 16.2: 'Concluido el trámite de registro, los documentos serán cursados sin dilación a sus destinatarios y a las unidades administrativas correspondientes...'",
+    "fuente": "Art. 16.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.4.a) LPAC, los documentos dirigidos a los órganos de las Administraciones Públicas pueden presentarse en el registro electrónico de la Administración u Organismo al que se dirijan, así como:",
+    "options": [
+      "Únicamente en el registro electrónico del órgano superior jerárquico",
+      "En el registro electrónico de la Administración u Organismo al que se dirijan, así como en los restantes registros electrónicos de cualquiera de los sujetos a los que se refiere el artículo 2.1",
+      "Solo en el registro de la Administración General del Estado",
+      "En cualquier registro civil"
+    ],
+    "correct": 1,
+    "exp": "Art. 16.4.a): 'En el registro electrónico de la Administración u Organismo al que se dirijan, así como en los restantes registros electrónicos de cualquiera de los sujetos a los que se refiere el artículo 2.1.'",
+    "fuente": "Art. 16.4.a) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.4.b) LPAC, uno de los lugares en los que pueden presentarse documentos dirigidos a las Administraciones Públicas es:",
+    "options": [
+      "En las notarías, sin necesidad de norma reglamentaria",
+      "En cualquier sucursal bancaria colaboradora",
+      "En las oficinas de Correos, en la forma que reglamentariamente se establezca",
+      "En las sedes de los partidos políticos con representación municipal"
+    ],
+    "correct": 2,
+    "exp": "Art. 16.4.b): 'En las oficinas de Correos, en la forma que reglamentariamente se establezca.'",
+    "fuente": "Art. 16.4.b) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.4.c) LPAC, también pueden presentarse documentos dirigidos a las Administraciones Públicas en:",
+    "options": [
+      "Las embajadas de otros países en España",
+      "Los juzgados de paz",
+      "Las cámaras de comercio",
+      "Las representaciones diplomáticas u oficinas consulares de España en el extranjero"
+    ],
+    "correct": 3,
+    "exp": "Art. 16.4.c): 'En las representaciones diplomáticas u oficinas consulares de España en el extranjero.'",
+    "fuente": "Art. 16.4.c) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.4 LPAC, además de las letras a) a d), ¿qué cláusula final incluye la relación de lugares donde pueden presentarse documentos?",
+    "options": [
+      "En cualquier otro que establezcan las disposiciones vigentes",
+      "Una cláusula cerrada que no admite más lugares",
+      "Solo se permiten los cuatro lugares anteriores",
+      "La presentación exclusiva por vía telemática desde 2020"
+    ],
+    "correct": 0,
+    "exp": "Art. 16.4.e): 'En cualquier otro que establezcan las disposiciones vigentes.'",
+    "fuente": "Art. 16.4.e) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántos lugares distintos enumera el art. 16.4 LPAC en los que pueden presentarse los documentos dirigidos a los órganos de las Administraciones Públicas?",
+    "options": [
+      "Tres",
+      "Cinco",
+      "Cuatro",
+      "Seis"
+    ],
+    "correct": 1,
+    "exp": "El art. 16.4 LPAC enumera cinco lugares, en las letras a) a e).",
+    "fuente": "Art. 16.4 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.6 LPAC, las cantidades que haya que satisfacer en el momento de la presentación de documentos a las Administraciones Públicas podrán hacerse efectivas mediante:",
+    "options": [
+      "Únicamente en metálico en la propia oficina de registro",
+      "Exclusivamente mediante tarjeta de crédito",
+      "Transferencia dirigida a la oficina pública correspondiente, sin perjuicio de otros medios de pago",
+      "Giro postal, siendo este el único medio admitido"
+    ],
+    "correct": 2,
+    "exp": "Art. 16.6: 'Podrán hacerse efectivos mediante transferencia dirigida a la oficina pública correspondiente cualesquiera cantidades que haya que satisfacer... sin perjuicio de la posibilidad de su abono por otros medios.'",
+    "fuente": "Art. 16.6 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.5 LPAC, además de la digitalización de los documentos presentados presencialmente, ¿qué pueden establecer reglamentariamente las Administraciones respecto a ciertos colectivos de personas físicas?",
+    "options": [
+      "La exención total de presentar cualquier documento",
+      "La obligación de presentar los documentos exclusivamente en papel",
+      "La prohibición de utilizar oficinas de asistencia en materia de registros",
+      "La obligación de presentar determinados documentos por medios electrónicos"
+    ],
+    "correct": 3,
+    "exp": "Art. 16.5, párrafo segundo: 'Reglamentariamente, las Administraciones podrán establecer la obligación de presentar determinados documentos por medios electrónicos para ciertos procedimientos y colectivos de personas físicas que, por razón de su capacidad económica, técnica, dedicación profesional u otros motivos quede acreditado que tienen acceso y disponibilidad de los medios electrónicos necesarios.'",
+    "fuente": "Art. 16.5, párr. 2º, LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  }
+]);

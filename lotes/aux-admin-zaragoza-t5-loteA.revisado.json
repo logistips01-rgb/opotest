@@ -1,0 +1,606 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 5,
+  "preguntas": [
+    {
+      "q": "¿Cuántos derechos enumera expresamente el art. 13 de la Ley 39/2015 (LPAC) a favor de quienes tienen capacidad de obrar ante las Administraciones Públicas?",
+      "options": [
+        "Nueve",
+        "Ocho",
+        "Diez",
+        "Seis"
+      ],
+      "correct": 0,
+      "exp": "El art. 13 LPAC enumera nueve derechos, en las letras a) a i).",
+      "fuente": "Art. 13 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Contado en el cuerpo real: art. 13 enumera letras a) a i), nueve derechos; opción 'Nueve' correcta."
+    },
+    {
+      "q": "¿Cuál de los siguientes NO figura entre los derechos que el art. 13 LPAC reconoce a las personas en sus relaciones con las Administraciones Públicas?",
+      "options": [
+        "A la obtención y utilización de los medios de identificación y firma electrónica contemplados en la Ley",
+        "A obtener una resolución en un plazo máximo de veinticuatro horas en cualquier procedimiento",
+        "A la protección de datos de carácter personal",
+        "A ser tratados con respeto y deferencia por las autoridades y empleados públicos"
+      ],
+      "correct": 1,
+      "exp": "El art. 13 LPAC no recoge un derecho genérico a obtener resolución en 24 horas; sí recoge, entre otros, los derechos de las letras g), h) y e).",
+      "fuente": "Art. 13 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Verificado que ninguna letra de a) a i) recoge un derecho a resolución en 24h; sí están g), h) y e) citadas en los distractores."
+    },
+    {
+      "q": "¿En qué letra del art. 13 LPAC se reconoce el derecho de las personas a exigir las responsabilidades de las Administraciones Públicas y autoridades, cuando así corresponda legalmente?",
+      "options": [
+        "Letra d)",
+        "Letra i)",
+        "Letra f)",
+        "Letra b)"
+      ],
+      "correct": 2,
+      "exp": "Es la letra f) del art. 13 LPAC: 'A exigir las responsabilidades de las Administraciones Públicas y autoridades, cuando así corresponda legalmente.'",
+      "fuente": "Art. 13.f) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejada letra f): 'A exigir las responsabilidades de las Administraciones Públicas y autoridades, cuando así corresponda legalmente.'"
+    },
+    {
+      "q": "Según el art. 13.d) LPAC, ¿de qué fecha es la Ley de transparencia, acceso a la información pública y buen gobierno que se cita como referencia para ese derecho?",
+      "options": [
+        "De 4 de diciembre de 2013",
+        "De 1 de octubre de 2015",
+        "De 26 de noviembre de 1992",
+        "De 9 de diciembre de 2013"
+      ],
+      "correct": 3,
+      "exp": "El art. 13.d) LPAC remite a 'la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno'.",
+      "fuente": "Art. 13.d) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejada letra d): remite a 'la Ley 19/2013, de 9 de diciembre, de transparencia...'."
+    },
+    {
+      "q": "¿En qué letra del art. 13 LPAC se reconoce el derecho a utilizar las lenguas oficiales en el territorio de la Comunidad Autónoma correspondiente?",
+      "options": [
+        "Letra c)",
+        "Letra a)",
+        "Letra g)",
+        "Letra e)"
+      ],
+      "correct": 0,
+      "exp": "Es la letra c): 'A utilizar las lenguas oficiales en el territorio de su Comunidad Autónoma, de acuerdo con lo previsto en esta Ley y en el resto del ordenamiento jurídico.'",
+      "fuente": "Art. 13.c) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejada letra c): 'A utilizar las lenguas oficiales en el territorio de su Comunidad Autónoma...'."
+    },
+    {
+      "q": "¿En qué letra del art. 13 LPAC se reconoce el derecho a la protección de datos de carácter personal?",
+      "options": [
+        "Letra a)",
+        "Letra h)",
+        "Letra f)",
+        "Letra d)"
+      ],
+      "correct": 1,
+      "exp": "Es la letra h): 'A la protección de datos de carácter personal, y en particular a la seguridad y confidencialidad de los datos que figuren en los ficheros, sistemas y aplicaciones de las Administraciones Públicas.'",
+      "fuente": "Art. 13.h) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejada letra h): 'A la protección de datos de carácter personal...'."
+    },
+    {
+      "q": "¿En qué letra del art. 13 LPAC se reconoce el derecho al acceso a la información pública, archivos y registros?",
+      "options": [
+        "Letra b)",
+        "Letra g)",
+        "Letra d)",
+        "Letra i)"
+      ],
+      "correct": 2,
+      "exp": "Es la letra d): 'Al acceso a la información pública, archivos y registros, de acuerdo con lo previsto en la Ley 19/2013... y el resto del Ordenamiento Jurídico.'",
+      "fuente": "Art. 13.d) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejada letra d): 'Al acceso a la información pública, archivos y registros...'."
+    },
+    {
+      "q": "Según el art. 14.2.b) LPAC, ¿qué sujetos están obligados en todo caso a relacionarse a través de medios electrónicos con las Administraciones Públicas?",
+      "options": [
+        "Los menores de edad no emancipados",
+        "Las personas físicas jubiladas",
+        "Los turistas extranjeros en tránsito",
+        "Las entidades sin personalidad jurídica"
+      ],
+      "correct": 3,
+      "exp": "Art. 14.2.b): 'Las entidades sin personalidad jurídica.'",
+      "fuente": "Art. 14.2.b) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejada letra b) del art. 14.2: 'Las entidades sin personalidad jurídica.'"
+    },
+    {
+      "q": "El art. 14 de la Ley 39/2015 lleva por rúbrica:",
+      "options": [
+        "Derecho y obligación de relacionarse electrónicamente con las Administraciones Públicas",
+        "Registros electrónicos de las Administraciones Públicas",
+        "Asistencia en el uso de medios electrónicos a los interesados",
+        "Lengua de los procedimientos"
+      ],
+      "correct": 0,
+      "exp": "El art. 14 LPAC se titula 'Derecho y obligación de relacionarse electrónicamente con las Administraciones Públicas'.",
+      "fuente": "Art. 14 LPAC (rúbrica) (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejada la rúbrica real del art. 14: 'Derecho y obligación de relacionarse electrónicamente con las Administraciones Públicas.'"
+    },
+    {
+      "q": "¿Cuántos colectivos o sujetos enumera expresamente el art. 14.2 LPAC como obligados, en todo caso, a relacionarse electrónicamente con las Administraciones Públicas?",
+      "options": [
+        "Tres",
+        "Cinco",
+        "Cuatro",
+        "Seis"
+      ],
+      "correct": 1,
+      "exp": "El art. 14.2 LPAC enumera cinco sujetos, en las letras a) a e).",
+      "fuente": "Art. 14.2 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Contadas las letras a) a e) del art. 14.2: cinco sujetos."
+    },
+    {
+      "q": "Según el art. 14.2 LPAC, la obligación de relacionarse electrónicamente que recae sobre los sujetos enumerados en ese apartado se aplica a:",
+      "options": [
+        "Solo a los trámites que superen una determinada cuantía económica",
+        "Únicamente a los procedimientos sancionadores",
+        "La realización de cualquier trámite de un procedimiento administrativo",
+        "Solo a los trámites iniciados a partir del año 2020"
+      ],
+      "correct": 2,
+      "exp": "Art. 14.2: 'estarán obligados a relacionarse a través de medios electrónicos... para la realización de cualquier trámite de un procedimiento administrativo, al menos, los siguientes sujetos...'",
+      "fuente": "Art. 14.2 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado el texto introductorio del art. 14.2: '...para la realización de cualquier trámite de un procedimiento administrativo, al menos, los siguientes sujetos'."
+    },
+    {
+      "q": "¿Qué letra del art. 14.2 LPAC incluye entre los obligados a relacionarse electrónicamente a las personas jurídicas?",
+      "options": [
+        "Letra c)",
+        "Letra e)",
+        "Letra b)",
+        "Letra a)"
+      ],
+      "correct": 3,
+      "exp": "Es la letra a): 'Las personas jurídicas.'",
+      "fuente": "Art. 14.2.a) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejada letra a): 'Las personas jurídicas.'"
+    },
+    {
+      "q": "¿Qué letra del art. 14.2 LPAC incluye entre los obligados a relacionarse electrónicamente a las entidades sin personalidad jurídica?",
+      "options": [
+        "Letra b)",
+        "Letra d)",
+        "Letra a)",
+        "Letra e)"
+      ],
+      "correct": 0,
+      "exp": "Es la letra b): 'Las entidades sin personalidad jurídica.'",
+      "fuente": "Art. 14.2.b) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejada letra b): 'Las entidades sin personalidad jurídica.'"
+    },
+    {
+      "q": "¿Qué letra del art. 14.2 LPAC obliga a relacionarse electrónicamente a quienes representen a un interesado que esté a su vez obligado a ello?",
+      "options": [
+        "Letra c)",
+        "Letra d)",
+        "Letra e)",
+        "Letra b)"
+      ],
+      "correct": 1,
+      "exp": "Es la letra d): 'Quienes representen a un interesado que esté obligado a relacionarse electrónicamente con la Administración.'",
+      "fuente": "Art. 14.2.d) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejada letra d): 'Quienes representen a un interesado que esté obligado a relacionarse electrónicamente con la Administración.'"
+    },
+    {
+      "q": "Según el art. 14.2 LPAC, la enumeración de sujetos obligados a relacionarse electrónicamente ('al menos, los siguientes sujetos') debe entenderse como una lista:",
+      "options": [
+        "Cerrada y exhaustiva, que no admite otros supuestos",
+        "Meramente orientativa y sin efectos jurídicos",
+        "Mínima, que no impide que otras normas amplíen los obligados",
+        "Aplicable solo a la Administración General del Estado"
+      ],
+      "correct": 2,
+      "exp": "El propio art. 14.2 emplea la expresión 'al menos, los siguientes sujetos', lo que indica que es una relación mínima y no cerrada.",
+      "fuente": "Art. 14.2 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejada la expresión literal 'al menos, los siguientes sujetos' del art. 14.2, que indica lista mínima no cerrada."
+    },
+    {
+      "q": "Según el art. 14.3 LPAC, ¿mediante qué tipo de norma pueden las Administraciones establecer la obligación de relacionarse electrónicamente para determinados colectivos de personas físicas?",
+      "options": [
+        "Mediante ley orgánica",
+        "Mediante ordenanza municipal exclusivamente",
+        "Mediante instrucción interna no publicada",
+        "Reglamentariamente"
+      ],
+      "correct": 3,
+      "exp": "Art. 14.3: 'Reglamentariamente, las Administraciones podrán establecer la obligación de relacionarse con ellas a través de medios electrónicos...'",
+      "fuente": "Art. 14.3 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado el art. 14.3: 'Reglamentariamente, las Administraciones podrán establecer la obligación...'."
+    },
+    {
+      "q": "A diferencia de los sujetos enumerados en el art. 14.2 LPAC, la obligación reglamentaria prevista en el art. 14.3 LPAC solo puede imponerse a:",
+      "options": [
+        "Ciertos colectivos de personas físicas",
+        "Personas jurídicas",
+        "Entidades sin personalidad jurídica",
+        "Empleados públicos exclusivamente"
+      ],
+      "correct": 0,
+      "exp": "El art. 14.3 permite establecer reglamentariamente la obligación 'para ciertos colectivos de personas físicas', a diferencia de los sujetos ya obligados por ley en el art. 14.2.",
+      "fuente": "Art. 14.3 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado el art. 14.3: la obligación reglamentaria se prevé 'para ciertos colectivos de personas físicas', a diferencia de los sujetos ya obligados por el art. 14.2."
+    },
+    {
+      "q": "Según el art. 14.1 LPAC, la posibilidad de las personas físicas de elegir el medio para comunicarse con las Administraciones Públicas se refiere al ejercicio de:",
+      "options": [
+        "Únicamente sus obligaciones tributarias",
+        "Sus derechos y obligaciones",
+        "Sus derechos exclusivamente, no sus obligaciones",
+        "Sus derechos fundamentales recogidos en la Constitución"
+      ],
+      "correct": 1,
+      "exp": "Art. 14.1: 'Las personas físicas podrán elegir en todo momento si se comunican con las Administraciones Públicas para el ejercicio de sus derechos y obligaciones a través de medios electrónicos o no...'",
+      "fuente": "Art. 14.1 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado el art. 14.1: 'para el ejercicio de sus derechos y obligaciones a través de medios electrónicos o no'."
+    },
+    {
+      "q": "Según el art. 14.2.e) LPAC, la obligación de los empleados públicos de relacionarse electrónicamente con la Administración se limita a:",
+      "options": [
+        "Todos los trámites que realicen, sean o no relativos a su condición de empleado público",
+        "Los trámites realizados fuera de su jornada laboral",
+        "Los trámites y actuaciones que realicen por razón de su condición de empleado público",
+        "Los trámites de naturaleza disciplinaria exclusivamente"
+      ],
+      "correct": 2,
+      "exp": "Art. 14.2.e): 'Los empleados de las Administraciones Públicas para los trámites y actuaciones que realicen con ellas por razón de su condición de empleado público...'",
+      "fuente": "Art. 14.2.e) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejada letra e): 'Los empleados de las Administraciones Públicas para los trámites y actuaciones que realicen con ellas por razón de su condición de empleado público...'."
+    },
+    {
+      "q": "¿Qué letra del art. 14.2 LPAC incluye entre los obligados a relacionarse electrónicamente a quienes ejerzan una actividad profesional que requiera colegiación obligatoria?",
+      "options": [
+        "Letra b)",
+        "Letra e)",
+        "Letra a)",
+        "Letra c)"
+      ],
+      "correct": 3,
+      "exp": "Es la letra c): 'Quienes ejerzan una actividad profesional para la que se requiera colegiación obligatoria...'",
+      "fuente": "Art. 14.2.c) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejada letra c): 'Quienes ejerzan una actividad profesional para la que se requiera colegiación obligatoria...'."
+    },
+    {
+      "q": "Según el art. 14.1 LPAC, ¿en qué momento puede una persona física modificar el medio elegido para comunicarse con la Administración?",
+      "options": [
+        "En cualquier momento",
+        "Solo al inicio de cada procedimiento",
+        "Una sola vez por procedimiento",
+        "Solo si medía causa justificada aceptada por la Administración"
+      ],
+      "correct": 0,
+      "exp": "Art. 14.1 in fine: 'El medio elegido por la persona para comunicarse con las Administraciones Públicas podrá ser modificado por aquella en cualquier momento.'",
+      "fuente": "Art. 14.1 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado el art. 14.1 in fine: 'El medio elegido... podrá ser modificado por aquella en cualquier momento.'"
+    },
+    {
+      "q": "El art. 15 de la Ley 39/2015 lleva por rúbrica:",
+      "options": [
+        "Registros",
+        "Lengua de los procedimientos",
+        "Colaboración de las personas",
+        "Comparecencia de las personas"
+      ],
+      "correct": 1,
+      "exp": "El art. 15 LPAC se titula 'Lengua de los procedimientos'.",
+      "fuente": "Art. 15 LPAC (rúbrica) (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejada la rúbrica real del art. 15: 'Lengua de los procedimientos.'"
+    },
+    {
+      "q": "¿Cuántos apartados numerados tiene el art. 15 LPAC ('Lengua de los procedimientos')?",
+      "options": [
+        "Dos",
+        "Cuatro",
+        "Tres",
+        "Cinco"
+      ],
+      "correct": 2,
+      "exp": "El art. 15 LPAC tiene tres apartados.",
+      "fuente": "Art. 15 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Contados los apartados 1, 2 y 3 del art. 15: tres apartados."
+    },
+    {
+      "q": "Según el art. 15.1 LPAC, ¿ante qué órganos de la Administración General del Estado pueden los interesados utilizar también la lengua que sea cooficial?",
+      "options": [
+        "Ante cualquier órgano de la AGE, esté donde esté su sede",
+        "Únicamente ante los órganos centrales con sede en Madrid",
+        "Ante ningún órgano, solo cabe el castellano en la AGE",
+        "Ante los órganos de la AGE con sede en el territorio de una Comunidad Autónoma donde esa lengua sea cooficial"
+      ],
+      "correct": 3,
+      "exp": "Art. 15.1: 'los interesados que se dirijan a los órganos de la Administración General del Estado con sede en el territorio de una Comunidad Autónoma podrán utilizar también la lengua que sea cooficial en ella.'",
+      "fuente": "Art. 15.1 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado el art. 15.1: 'los interesados que se dirijan a los órganos de la Administración General del Estado con sede en el territorio de una Comunidad Autónoma podrán utilizar también la lengua que sea cooficial en ella'."
+    },
+    {
+      "q": "Según el art. 15.1 LPAC, cuando un único interesado se dirige a un órgano de la AGE con sede en su Comunidad Autónoma y opta por la lengua cooficial, el procedimiento se tramitará:",
+      "options": [
+        "En la lengua elegida por el interesado",
+        "Siempre en castellano, con independencia de la lengua elegida",
+        "En la lengua que decida el órgano competente para resolver",
+        "En ambas lenguas simultáneamente en todo el expediente"
+      ],
+      "correct": 0,
+      "exp": "Art. 15.1: 'En este caso, el procedimiento se tramitará en la lengua elegida por el interesado.'",
+      "fuente": "Art. 15.1 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado el art. 15.1 (caso de único interesado): 'el procedimiento se tramitará en la lengua elegida por el interesado'."
+    },
+    {
+      "q": "Según el art. 15.3 LPAC, ¿qué Administración tiene el deber de traducir al castellano los documentos que deban surtir efecto fuera del territorio de la Comunidad Autónoma?",
+      "options": [
+        "Cualquier Administración distinta de la instructora",
+        "La Administración Pública instructora",
+        "La Administración General del Estado en todo caso",
+        "El Ministerio de Asuntos Exteriores"
+      ],
+      "correct": 1,
+      "exp": "Art. 15.3: 'La Administración Pública instructora deberá traducir al castellano los documentos, expedientes o partes de los mismos que deban surtir efecto fuera del territorio de la Comunidad Autónoma...'",
+      "fuente": "Art. 15.3 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado el art. 15.3: 'La Administración Pública instructora deberá traducir al castellano los documentos...'."
+    },
+    {
+      "q": "Además de los documentos que deban surtir efecto fuera del territorio de la Comunidad Autónoma, ¿qué otros documentos debe traducir al castellano la Administración instructora según el art. 15.3 LPAC?",
+      "options": [
+        "Todos los documentos del expediente, sin excepción",
+        "Ninguno más; solo los que deban surtir efecto fuera de la Comunidad Autónoma",
+        "Los dirigidos a los interesados que así lo soliciten expresamente",
+        "Solo los documentos que se publiquen en el diario oficial"
+      ],
+      "correct": 2,
+      "exp": "Art. 15.3: '...y los documentos dirigidos a los interesados que así lo soliciten expresamente.'",
+      "fuente": "Art. 15.3 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado el art. 15.3: '...y los documentos dirigidos a los interesados que así lo soliciten expresamente'."
+    },
+    {
+      "q": "¿En qué apartado del art. 15 LPAC se regula la obligación de la Administración instructora de traducir determinados documentos al castellano?",
+      "options": [
+        "Apartado 1",
+        "Apartado 2",
+        "No se regula en el art. 15, sino en el art. 16",
+        "Apartado 3"
+      ],
+      "correct": 3,
+      "exp": "Es el apartado 3 del art. 15 LPAC.",
+      "fuente": "Art. 15.3 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado que la obligación de traducción está en el apartado 3 del art. 15."
+    },
+    {
+      "q": "Según el art. 15.2 LPAC, en los procedimientos tramitados por las Administraciones de las Comunidades Autónomas y de las Entidades Locales, la regla general del castellano prevista en el art. 15.1 para la Administración General del Estado:",
+      "options": [
+        "No se aplica directamente; el uso de la lengua se ajusta a la legislación autonómica correspondiente",
+        "Se aplica igualmente sin ninguna particularidad",
+        "Se aplica solo si el interesado no manifiesta preferencia",
+        "Queda sustituida siempre por el inglés en procedimientos con empresas extranjeras"
+      ],
+      "correct": 0,
+      "exp": "Art. 15.2: 'En los procedimientos tramitados por las Administraciones de las Comunidades Autónomas y de las Entidades Locales, el uso de la lengua se ajustará a lo previsto en la legislación autonómica correspondiente.'",
+      "fuente": "Art. 15.2 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado el art. 15.2: 'el uso de la lengua se ajustará a lo previsto en la legislación autonómica correspondiente'."
+    },
+    {
+      "q": "¿Qué apartado del art. 15 LPAC remite expresamente a la legislación autonómica para determinar el uso de la lengua en los procedimientos de las Comunidades Autónomas y las Entidades Locales?",
+      "options": [
+        "El apartado 3",
+        "El apartado 2",
+        "El apartado 1",
+        "Ninguno; esa materia no está en el art. 15"
+      ],
+      "correct": 1,
+      "exp": "Es el apartado 2 del art. 15 LPAC.",
+      "fuente": "Art. 15.2 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado que es el apartado 2 del art. 15 el que remite a la legislación autonómica."
+    },
+    {
+      "q": "Según el art. 16.1 LPAC, además del asiento de los documentos presentados o recibidos, ¿qué otra anotación pueden recoger los registros electrónicos?",
+      "options": [
+        "Las incidencias técnicas del sistema informático",
+        "Las bajas del personal funcionario",
+        "La salida de los documentos oficiales dirigidos a otros órganos o particulares",
+        "Los acuerdos de los órganos colegiados"
+      ],
+      "correct": 2,
+      "exp": "Art. 16.1, párrafo primero: 'También se podrán anotar en el mismo, la salida de los documentos oficiales dirigidos a otros órganos o particulares.'",
+      "fuente": "Art. 16.1, párr. 1º, LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado el art. 16.1: 'También se podrán anotar en el mismo, la salida de los documentos oficiales dirigidos a otros órganos o particulares.'"
+    },
+    {
+      "q": "Según el art. 16.1 LPAC, ¿qué debe figurar en la sede electrónica de acceso a cada registro?",
+      "options": [
+        "El organigrama completo de la Administración titular",
+        "El presupuesto anual destinado al registro",
+        "La identidad de todos los funcionarios habilitados",
+        "La relación actualizada de trámites que pueden iniciarse en el mismo"
+      ],
+      "correct": 3,
+      "exp": "Art. 16.1: 'En la sede electrónica de acceso a cada registro figurará la relación actualizada de trámites que pueden iniciarse en el mismo.'",
+      "fuente": "Art. 16.1, párr. 1º, LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado el art. 16.1: 'En la sede electrónica de acceso a cada registro figurará la relación actualizada de trámites que pueden iniciarse en el mismo.'"
+    },
+    {
+      "q": "Según el art. 16.2 LPAC, una vez concluido el trámite de registro, los documentos serán cursados a sus destinatarios y a las unidades administrativas correspondientes:",
+      "options": [
+        "Sin dilación",
+        "En el plazo máximo de un mes",
+        "Dentro de los quince días siguientes",
+        "Cuando lo solicite expresamente el interesado"
+      ],
+      "correct": 0,
+      "exp": "Art. 16.2: 'Concluido el trámite de registro, los documentos serán cursados sin dilación a sus destinatarios y a las unidades administrativas correspondientes...'",
+      "fuente": "Art. 16.2 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado el art. 16.2: 'Concluido el trámite de registro, los documentos serán cursados sin dilación...'."
+    },
+    {
+      "q": "Según el art. 16.4.a) LPAC, los documentos dirigidos a los órganos de las Administraciones Públicas pueden presentarse en el registro electrónico de la Administración u Organismo al que se dirijan, así como:",
+      "options": [
+        "Únicamente en el registro electrónico del órgano superior jerárquico",
+        "En el registro electrónico de la Administración u Organismo al que se dirijan, así como en los restantes registros electrónicos de cualquiera de los sujetos a los que se refiere el artículo 2.1",
+        "Solo en el registro de la Administración General del Estado",
+        "En cualquier registro civil"
+      ],
+      "correct": 1,
+      "exp": "Art. 16.4.a): 'En el registro electrónico de la Administración u Organismo al que se dirijan, así como en los restantes registros electrónicos de cualquiera de los sujetos a los que se refiere el artículo 2.1.'",
+      "fuente": "Art. 16.4.a) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejada letra a) del art. 16.4, texto literal completo incluida la remisión al art. 2.1."
+    },
+    {
+      "q": "Según el art. 16.4.b) LPAC, uno de los lugares en los que pueden presentarse documentos dirigidos a las Administraciones Públicas es:",
+      "options": [
+        "En las notarías, sin necesidad de norma reglamentaria",
+        "En cualquier sucursal bancaria colaboradora",
+        "En las oficinas de Correos, en la forma que reglamentariamente se establezca",
+        "En las sedes de los partidos políticos con representación municipal"
+      ],
+      "correct": 2,
+      "exp": "Art. 16.4.b): 'En las oficinas de Correos, en la forma que reglamentariamente se establezca.'",
+      "fuente": "Art. 16.4.b) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejada letra b) del art. 16.4: 'En las oficinas de Correos, en la forma que reglamentariamente se establezca.'"
+    },
+    {
+      "q": "Según el art. 16.4.c) LPAC, también pueden presentarse documentos dirigidos a las Administraciones Públicas en:",
+      "options": [
+        "Las embajadas de otros países en España",
+        "Los juzgados de paz",
+        "Las cámaras de comercio",
+        "Las representaciones diplomáticas u oficinas consulares de España en el extranjero"
+      ],
+      "correct": 3,
+      "exp": "Art. 16.4.c): 'En las representaciones diplomáticas u oficinas consulares de España en el extranjero.'",
+      "fuente": "Art. 16.4.c) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejada letra c) del art. 16.4: 'En las representaciones diplomáticas u oficinas consulares de España en el extranjero.'"
+    },
+    {
+      "q": "Según el art. 16.4 LPAC, además de las letras a) a d), ¿qué cláusula final incluye la relación de lugares donde pueden presentarse documentos?",
+      "options": [
+        "En cualquier otro que establezcan las disposiciones vigentes",
+        "Una cláusula cerrada que no admite más lugares",
+        "Solo se permiten los cuatro lugares anteriores",
+        "La presentación exclusiva por vía telemática desde 2020"
+      ],
+      "correct": 0,
+      "exp": "Art. 16.4.e): 'En cualquier otro que establezcan las disposiciones vigentes.'",
+      "fuente": "Art. 16.4.e) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejada letra e) del art. 16.4: 'En cualquier otro que establezcan las disposiciones vigentes.'"
+    },
+    {
+      "q": "¿Cuántos lugares distintos enumera el art. 16.4 LPAC en los que pueden presentarse los documentos dirigidos a los órganos de las Administraciones Públicas?",
+      "options": [
+        "Tres",
+        "Cinco",
+        "Cuatro",
+        "Seis"
+      ],
+      "correct": 1,
+      "exp": "El art. 16.4 LPAC enumera cinco lugares, en las letras a) a e).",
+      "fuente": "Art. 16.4 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Contadas las letras a) a e) del art. 16.4: cinco lugares."
+    },
+    {
+      "q": "Según el art. 16.6 LPAC, las cantidades que haya que satisfacer en el momento de la presentación de documentos a las Administraciones Públicas podrán hacerse efectivas mediante:",
+      "options": [
+        "Únicamente en metálico en la propia oficina de registro",
+        "Exclusivamente mediante tarjeta de crédito",
+        "Transferencia dirigida a la oficina pública correspondiente, sin perjuicio de otros medios de pago",
+        "Giro postal, siendo este el único medio admitido"
+      ],
+      "correct": 2,
+      "exp": "Art. 16.6: 'Podrán hacerse efectivos mediante transferencia dirigida a la oficina pública correspondiente cualesquiera cantidades que haya que satisfacer... sin perjuicio de la posibilidad de su abono por otros medios.'",
+      "fuente": "Art. 16.6 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado el art. 16.6: 'Podrán hacerse efectivos mediante transferencia... sin perjuicio de la posibilidad de su abono por otros medios.'"
+    },
+    {
+      "q": "Según el art. 16.5 LPAC, además de la digitalización de los documentos presentados presencialmente, ¿qué pueden establecer reglamentariamente las Administraciones respecto a ciertos colectivos de personas físicas?",
+      "options": [
+        "La exención total de presentar cualquier documento",
+        "La obligación de presentar los documentos exclusivamente en papel",
+        "La prohibición de utilizar oficinas de asistencia en materia de registros",
+        "La obligación de presentar determinados documentos por medios electrónicos"
+      ],
+      "correct": 3,
+      "exp": "Art. 16.5, párrafo segundo: 'Reglamentariamente, las Administraciones podrán establecer la obligación de presentar determinados documentos por medios electrónicos para ciertos procedimientos y colectivos de personas físicas que, por razón de su capacidad económica, técnica, dedicación profesional u otros motivos quede acreditado que tienen acceso y disponibilidad de los medios electrónicos necesarios.'",
+      "fuente": "Art. 16.5, párr. 2º, LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado el art. 16.5, párrafo segundo: 'Reglamentariamente, las Administraciones podrán establecer la obligación de presentar determinados documentos por medios electrónicos... para ciertos... colectivos de personas físicas...'."
+    }
+  ]
+}
