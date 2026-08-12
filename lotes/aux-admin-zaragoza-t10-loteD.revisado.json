@@ -1,0 +1,606 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 10,
+  "preguntas": [
+    {
+      "q": "Según el art. 109.1 RBEL, los bienes inmuebles patrimoniales de las entidades locales no podrán enajenarse, gravarse ni permutarse sin autorización del órgano competente de la Comunidad Autónoma cuando su valor exceda de qué porcentaje de los recursos ordinarios del presupuesto anual de la Corporación.",
+      "options": [
+        "El 10 por 100",
+        "El 25 por 100",
+        "El 40 por 100",
+        "El 50 por 100"
+      ],
+      "correct": 1,
+      "exp": "El art. 109.1 RBEL exige autorización de la Comunidad Autónoma cuando el valor del bien inmueble patrimonial exceda del 25 por 100 de los recursos ordinarios del presupuesto anual de la Corporación.",
+      "fuente": "Art. 109.1 RBEL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 109.1 RBEL en _rbel.txt: fija el 25 por 100 de los recursos ordinarios como umbral de autorización autonómica; opción correcta coincide."
+    },
+    {
+      "q": "Conforme al art. 109.1 RBEL, con independencia de que sea necesaria autorización autonómica por razón de la cuantía, ¿qué obligación existe respecto de toda enajenación de bienes inmuebles de la entidad local?",
+      "options": [
+        "Publicarla en el Boletín Oficial del Estado",
+        "Dar cuenta al órgano competente de la Comunidad Autónoma",
+        "Comunicarla al Ministerio de Hacienda",
+        "Solicitar dictamen previo del Consejo de Estado"
+      ],
+      "correct": 1,
+      "exp": "El art. 109.1 RBEL establece que, no obstante lo anterior, se dará cuenta al órgano competente de la Comunidad Autónoma de toda enajenación de bienes inmuebles que se produzca.",
+      "fuente": "Art. 109.1 RBEL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 109.1 RBEL, segunda frase (\"No obstante, se dará cuenta al órgano competente...\"): coincide con la opción marcada."
+    },
+    {
+      "q": "De acuerdo con el art. 109.2 RBEL, los bienes inmuebles patrimoniales de las entidades locales solo podrán cederse gratuitamente a...",
+      "options": [
+        "Cualquier persona física o jurídica que lo solicite motivadamente",
+        "Entidades o Instituciones públicas para fines que redunden en beneficio de los habitantes del término municipal, y a Instituciones privadas de interés público sin ánimo de lucro",
+        "Empresas privadas que se comprometan a invertir en el municipio",
+        "Partidos políticos con representación en la Corporación"
+      ],
+      "correct": 1,
+      "exp": "El art. 109.2 RBEL limita la cesión gratuita a Entidades o Instituciones públicas para fines que redunden en beneficio de los habitantes del término municipal, así como a Instituciones privadas de interés público sin ánimo de lucro.",
+      "fuente": "Art. 109.2 RBEL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 109.2 RBEL en _rbel.txt: cesión gratuita solo a Entidades/Instituciones públicas de beneficio municipal e Instituciones privadas de interés público sin ánimo de lucro; coincide."
+    },
+    {
+      "q": "El acuerdo de cesión gratuita de bienes de una entidad local, según el art. 110.1 RBEL, requiere...",
+      "options": [
+        "Mayoría simple de los miembros asistentes",
+        "Mayoría absoluta del número legal de miembros de la Corporación",
+        "Unanimidad de los miembros de la Corporación",
+        "Dos tercios del número de hecho de miembros"
+      ],
+      "correct": 1,
+      "exp": "El art. 110.1 RBEL exige que la cesión gratuita de bienes se adopte con el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación.",
+      "fuente": "Art. 110.1 RBEL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 110.1 RBEL (primer párrafo): exige mayoría absoluta del número legal de miembros; coincide con la opción marcada."
+    },
+    {
+      "q": "Entre los requisitos del expediente de cesión gratuita que exige el art. 110.1.b RBEL se encuentra una certificación del Registro de la Propiedad que acredite que los bienes están inscritos en concepto de...",
+      "options": [
+        "Bienes de dominio público",
+        "Bienes comunales",
+        "Bienes patrimoniales de la Entidad local",
+        "Bienes mostrencos"
+      ],
+      "correct": 2,
+      "exp": "El art. 110.1.b RBEL exige certificación del Registro de la Propiedad acreditativa de que los bienes se hallan debidamente inscritos en concepto de patrimoniales de la Entidad local.",
+      "fuente": "Art. 110.1.b RBEL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 110.1.b RBEL: certificación registral de inscripción como bienes patrimoniales de la Entidad local; coincide."
+    },
+    {
+      "q": "Según el art. 110.1.d RBEL, ¿qué debe acreditar el informe del Interventor de fondos dentro del expediente de cesión gratuita de bienes?",
+      "options": [
+        "Que existe crédito presupuestario suficiente para la cesión",
+        "Que no hay deuda pendiente de liquidación con cargo al presupuesto municipal",
+        "Que el bien está libre de cargas registrales",
+        "Que se ha practicado ya la tasación pericial del bien"
+      ],
+      "correct": 1,
+      "exp": "El art. 110.1.d RBEL requiere informe del Interventor de fondos en el que pruebe no haber deuda pendiente de liquidación con cargo al presupuesto municipal.",
+      "fuente": "Art. 110.1.d RBEL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 110.1.d RBEL: informe del Interventor sobre inexistencia de deuda pendiente de liquidación con cargo al presupuesto municipal; coincide."
+    },
+    {
+      "q": "El dictamen técnico exigido en el art. 110.1.e RBEL para la cesión gratuita de bienes debe asevear que estos no son necesarios para la Entidad local ni es previsible que lo sean en los próximos...",
+      "options": [
+        "Cinco años",
+        "Diez años",
+        "Veinte años",
+        "Treinta años"
+      ],
+      "correct": 1,
+      "exp": "El art. 110.1.e RBEL exige dictamen técnico que asevere que los bienes no son necesarios ni es previsible que lo sean en los diez años inmediatos.",
+      "fuente": "Art. 110.1.e RBEL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 110.1.e RBEL: dictamen técnico sobre innecesariedad del bien en los diez años inmediatos; coincide."
+    },
+    {
+      "q": "El expediente de cesión gratuita de bienes, conforme al art. 110.1.f RBEL, exige un trámite de información pública por un plazo no inferior a...",
+      "options": [
+        "Diez días",
+        "Quince días",
+        "Veinte días",
+        "Un mes"
+      ],
+      "correct": 1,
+      "exp": "El art. 110.1.f RBEL exige información pública por plazo no inferior a quince días.",
+      "fuente": "Art. 110.1.f RBEL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 110.1.f RBEL: información pública por plazo no inferior a quince días; coincide."
+    },
+    {
+      "q": "Según el art. 110.2 RBEL, la cesión de solares al organismo competente de promoción de la vivienda para construir viviendas de protección oficial revestirá, normalmente, la forma de...",
+      "options": [
+        "Venta directa",
+        "Subasta pública",
+        "Permuta de los terrenos por número equivalente de aquellos que hubieren de edificarse",
+        "Concurso público de adjudicación"
+      ],
+      "correct": 2,
+      "exp": "El art. 110.2 RBEL indica que esa cesión de solares revestirá normalmente la forma de permuta de los terrenos por número equivalente de aquellos que hubieren de edificarse.",
+      "fuente": "Art. 110.2 RBEL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 110.2 RBEL: cesión de solares reviste normalmente forma de permuta por número equivalente de terrenos a edificar; coincide."
+    },
+    {
+      "q": "Si el acuerdo de cesión gratuita no estipula otra cosa, según el art. 111.2 RBEL, los fines para los que se otorgó deberán cumplirse en el plazo máximo de... debiendo mantenerse el destino durante los... siguientes.",
+      "options": [
+        "Tres años / veinte años",
+        "Cinco años / treinta años",
+        "Diez años / veinticinco años",
+        "Dos años / quince años"
+      ],
+      "correct": 1,
+      "exp": "El art. 111.2 RBEL fija en cinco años el plazo máximo para cumplir los fines, y en treinta años el periodo posterior en que debe mantenerse el destino.",
+      "fuente": "Art. 111.2 RBEL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 111.2 RBEL: plazo máximo de cinco años para cumplir fines y treinta años de mantenimiento del destino; coincide."
+    },
+    {
+      "q": "Según el art. 111.1 RBEL, si los bienes cedidos gratuitamente no se destinan al uso señalado en el plazo fijado, o dejan de estarlo después, ¿qué ocurre?",
+      "options": [
+        "Se considera resuelta la cesión, revirtiendo los bienes a la Corporación, que tiene derecho a percibir, previa tasación pericial, el valor de los detrimentos",
+        "La cesión se mantiene igual sin ninguna consecuencia jurídica",
+        "Se transforma automáticamente en una compraventa a favor del cesionario",
+        "El cesionario debe abonar una multa fijada por la Comunidad Autónoma"
+      ],
+      "correct": 0,
+      "exp": "El art. 111.1 RBEL establece que se considerará resuelta la cesión y los bienes revertirán a la Corporación local, con derecho de esta a percibir, previa tasación pericial, el valor de los detrimentos experimentados.",
+      "fuente": "Art. 111.1 RBEL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 111.1 RBEL: resolución de la cesión, reversión a la Corporación y derecho a percibir el valor de los detrimentos previa tasación pericial; coincide."
+    },
+    {
+      "q": "En caso de reversión de los bienes cedidos gratuitamente, el art. 111.3 RBEL establece que estos revertirán al patrimonio de la entidad cedente...",
+      "options": [
+        "Únicamente en su estado físico original",
+        "Con todas sus pertenencias y accesiones",
+        "Descontando el valor de las mejoras introducidas por el cesionario",
+        "Previa nueva tasación pericial que fije un precio de recompra"
+      ],
+      "correct": 1,
+      "exp": "El art. 111.3 RBEL dispone que los bienes cedidos revertirán, en su caso, al Patrimonio de la Entidad cedente con todas sus pertenencias y accesiones.",
+      "fuente": "Art. 111.3 RBEL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 111.3 RBEL: reversión al patrimonio de la entidad cedente con todas sus pertenencias y accesiones; coincide."
+    },
+    {
+      "q": "Conforme al art. 112.1 RBEL, las enajenaciones de bienes patrimoniales de las entidades locales se rigen, en cuanto a su preparación y adjudicación, por...",
+      "options": [
+        "El Código Civil",
+        "La normativa reguladora de la contratación de las Corporaciones locales",
+        "La Ley de Patrimonio de las Administraciones Públicas con carácter exclusivo",
+        "Las Ordenanzas municipales de urbanismo"
+      ],
+      "correct": 1,
+      "exp": "El art. 112.1 RBEL remite, para la preparación y adjudicación de las enajenaciones, a la normativa reguladora de la contratación de las Corporaciones locales.",
+      "fuente": "Art. 112.1 RBEL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 112.1 RBEL: preparación y adjudicación de enajenaciones regidas por la normativa de contratación de las Corporaciones locales; coincide."
+    },
+    {
+      "q": "Según el art. 112.2 RBEL, no será necesaria la subasta en la enajenación mediante permuta con otros bienes de carácter inmobiliario cuando, previo expediente que acredite la necesidad, la diferencia de valor entre los bienes a permutar no sea superior al...",
+      "options": [
+        "25 por 100 del que tenga mayor valor",
+        "30 por 100 del que tenga mayor valor",
+        "40 por 100 del que tenga mayor valor",
+        "50 por 100 del que tenga mayor valor"
+      ],
+      "correct": 2,
+      "exp": "El art. 112.2 RBEL exceptúa la subasta cuando la diferencia de valor entre los bienes permutados no supere el 40 por 100 del que tenga mayor valor.",
+      "fuente": "Art. 112.2 RBEL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 112.2 RBEL: excepción de subasta en permuta inmobiliaria cuando la diferencia de valor no supere el 40 por 100 del mayor; coincide."
+    },
+    {
+      "q": "Antes de iniciar los trámites conducentes a la enajenación de un inmueble, el art. 113 RBEL exige depurar su situación física y jurídica, lo que comprende, en su caso...",
+      "options": [
+        "Practicar su deslinde si fuese necesario e inscribirlo en el Registro de la Propiedad si no lo estuviese",
+        "Obtener licencia urbanística municipal previa",
+        "Solicitar informe del Consejo Consultivo autonómico",
+        "Publicar edictos en tres diarios de tirada nacional"
+      ],
+      "correct": 0,
+      "exp": "El art. 113 RBEL exige depurar la situación física y jurídica del inmueble, practicando su deslinde si fuese necesario e inscribiéndolo en el Registro de la Propiedad si no lo estuviese.",
+      "fuente": "Art. 113 RBEL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 113 RBEL: depuración de la situación física y jurídica, deslinde e inscripción registral previos a la enajenación; coincide."
+    },
+    {
+      "q": "Según el art. 114 RBEL, las enajenaciones de bienes cuyo valor exceda del ___ de los recursos ordinarios del presupuesto deberán ser acordadas con el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación.",
+      "options": [
+        "5 por 100",
+        "10 por 100",
+        "20 por 100",
+        "25 por 100"
+      ],
+      "correct": 1,
+      "exp": "El art. 114 RBEL fija en el 10 por 100 de los recursos ordinarios del presupuesto el umbral a partir del cual la enajenación exige mayoría absoluta del número legal de miembros de la Corporación.",
+      "fuente": "Art. 114 RBEL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 114 RBEL: umbral del 10 por 100 de recursos ordinarios que exige mayoría absoluta del número legal de miembros; coincide."
+    },
+    {
+      "q": "Conforme al art. 115.1 RBEL, las parcelas sobrantes a que alude el artículo séptimo del Reglamento serán enajenadas...",
+      "options": [
+        "Solo mediante subasta pública obligatoria",
+        "Por venta directa al propietario o propietarios colindantes, o permutadas con terrenos de los mismos",
+        "Exclusivamente mediante concurso público",
+        "Por cesión gratuita al vecino de mayor antigüedad"
+      ],
+      "correct": 1,
+      "exp": "El art. 115.1 RBEL prevé que las parcelas sobrantes sean enajenadas por venta directa al propietario o propietarios colindantes o permutadas con terrenos de los mismos.",
+      "fuente": "Art. 115.1 RBEL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 115.1 RBEL: parcelas sobrantes enajenadas por venta directa a colindantes o permuta con sus terrenos; coincide."
+    },
+    {
+      "q": "Si fueran varios los propietarios colindantes en la enajenación de parcelas sobrantes, el art. 115.2 RBEL dispone que la venta o permuta se hará de forma que las parcelas resultantes se ajusten a...",
+      "options": [
+        "El orden de antigüedad de las solicitudes presentadas",
+        "El más racional criterio de ordenación del suelo, según dictamen técnico",
+        "Un sorteo público entre los interesados",
+        "La mayor oferta económica presentada"
+      ],
+      "correct": 1,
+      "exp": "El art. 115.2 RBEL exige que las parcelas resultantes se ajusten al más racional criterio de ordenación del suelo, según dictamen técnico.",
+      "fuente": "Art. 115.2 RBEL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 115.2 RBEL: ajuste al más racional criterio de ordenación del suelo según dictamen técnico si hay varios colindantes; coincide."
+    },
+    {
+      "q": "Según el art. 115.3 RBEL, si un propietario colindante se negara a adquirir la parcela sobrante que le correspondiere, la Corporación podrá...",
+      "options": [
+        "Imponerle una sanción económica coercitiva",
+        "Expropiarle su terreno del modo dispuesto para la regulación de solares, con dictamen técnico preceptivo",
+        "Cederle la parcela a otro vecino de forma gratuita",
+        "Sacar la parcela a subasta pública en todo caso"
+      ],
+      "correct": 1,
+      "exp": "El art. 115.3 RBEL permite a la Corporación expropiar el terreno del colindante que se niegue, en el modo dispuesto para la regulación de solares y con dictamen técnico preceptivo.",
+      "fuente": "Art. 115.3 RBEL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 115.3 RBEL: facultad de expropiación al colindante que se niegue, con dictamen técnico preceptivo; coincide."
+    },
+    {
+      "q": "Según el art. 116.1 RBEL, las cesiones de parcelas de terrenos del patrimonio municipal a favor de vecinos jornaleros, aunque su disfrute dure más de diez años, no implicarán...",
+      "options": [
+        "Enajenación ni gravamen",
+        "Una donación irrevocable inscribible",
+        "Una permuta encubierta sujeta a autorización autonómica",
+        "Cesión gratuita sometida al trámite del art. 110 RBEL"
+      ],
+      "correct": 0,
+      "exp": "El art. 116.1 RBEL aclara que esas cesiones a vecinos jornaleros no implican enajenación ni gravamen, aunque el disfrute dure más de diez años.",
+      "fuente": "Art. 116.1 RBEL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 116.1 RBEL: cesiones a vecinos jornaleros no implican enajenación ni gravamen aunque el disfrute exceda diez años; coincide."
+    },
+    {
+      "q": "Las cesiones de parcelas a vecinos jornaleros a que se refiere el art. 116.2 RBEL deben ser acordadas por...",
+      "options": [
+        "El Alcalde mediante decreto",
+        "La Junta de Gobierno Local",
+        "El Ayuntamiento Pleno, con el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación",
+        "La Comisión de Hacienda del Ayuntamiento"
+      ],
+      "correct": 2,
+      "exp": "El art. 116.2 RBEL exige que dichas cesiones sean acordadas por el Ayuntamiento Pleno con el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación.",
+      "fuente": "Art. 116.2 RBEL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 116.2 RBEL: acuerdo por el Ayuntamiento Pleno con mayoría absoluta del número legal de miembros; coincide."
+    },
+    {
+      "q": "Conforme al art. 116.3 RBEL, los vecinos cesionarios de parcelas se hacen dueños del arbolado que cultiven y, durante los primeros... años, podrán acotar las parcelas plantadas para preservarlas de los ganados.",
+      "options": [
+        "Tres años",
+        "Cinco años",
+        "Diez años",
+        "Quince años"
+      ],
+      "correct": 1,
+      "exp": "El art. 116.3 RBEL fija en cinco años el periodo durante el cual los cesionarios pueden acotar las parcelas plantadas.",
+      "fuente": "Art. 116.3 RBEL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 116.3 RBEL: cinco años iniciales en que el cesionario puede acotar las parcelas plantadas; coincide."
+    },
+    {
+      "q": "Cuando la enajenación o gravamen se refiera a monumentos, edificios u objetos de índole artística o histórica, el art. 117 RBEL exige...",
+      "options": [
+        "Autorización exclusiva del Ministerio de Cultura",
+        "El informe previo del órgano estatal o autonómico competente de acuerdo con la legislación sobre patrimonio histórico y artístico",
+        "La celebración de una consulta popular previa",
+        "Dictamen previo del Consejo de Estado"
+      ],
+      "correct": 1,
+      "exp": "El art. 117 RBEL requiere informe previo del órgano estatal o autonómico competente conforme a la legislación sobre patrimonio histórico y artístico.",
+      "fuente": "Art. 117 RBEL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 117 RBEL: informe previo del órgano estatal o autonómico competente en patrimonio histórico y artístico; coincide."
+    },
+    {
+      "q": "Según el art. 118 RBEL, ¿qué será requisito previo a toda venta o permuta de bienes patrimoniales de la entidad local?",
+      "options": [
+        "La aprobación por unanimidad del pleno",
+        "La valoración técnica de los bienes que acredite de modo fehaciente su justiprecio",
+        "La publicación en el Boletín Oficial de la Provincia con dos meses de antelación",
+        "El informe favorable de la Intervención General del Estado"
+      ],
+      "correct": 1,
+      "exp": "El art. 118 RBEL exige, como requisito previo a toda venta o permuta, la valoración técnica que acredite de modo fehaciente el justiprecio de los bienes.",
+      "fuente": "Art. 118 RBEL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 118 RBEL: valoración técnica previa que acredite de modo fehaciente el justiprecio; coincide."
+    },
+    {
+      "q": "Según el art. 119 RBEL, la falsedad o tergiversación respecto al carácter y naturaleza jurídica de los bienes que se pretenda enajenar o permutar...",
+      "options": [
+        "Solo se sanciona con una multa administrativa",
+        "Determina la nulidad automática del acto, sin más consecuencias",
+        "Será punible con arreglo al Código Penal",
+        "Solo genera responsabilidad disciplinaria del funcionario interviniente"
+      ],
+      "correct": 2,
+      "exp": "El art. 119 RBEL remite expresamente al Código Penal la punición de la falsedad o tergiversación sobre el carácter y naturaleza de los bienes.",
+      "fuente": "Art. 119 RBEL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 119 RBEL: remisión expresa al Código Penal para la falsedad o tergiversación sobre el carácter de los bienes; coincide."
+    },
+    {
+      "q": "Según el art. 110.1 LPAP, los contratos, convenios y demás negocios jurídicos sobre bienes y derechos patrimoniales se rigen, en cuanto a su preparación y adjudicación, por...",
+      "options": [
+        "Exclusivamente el Código Civil",
+        "Esta ley y sus disposiciones de desarrollo, y en lo no previsto en estas normas, por la legislación de contratos de las Administraciones públicas",
+        "El Reglamento de Bienes de las Entidades Locales en todo caso",
+        "Las normas de derecho privado en todo caso"
+      ],
+      "correct": 1,
+      "exp": "El art. 110.1 LPAP dispone que la preparación y adjudicación de estos negocios se rigen por la propia ley y, en lo no previsto, por la legislación de contratos de las Administraciones públicas; se cita aquí porque la LPAP es supletoria del RBEL y la LBRL para las entidades locales en lo que estos no regulen.",
+      "fuente": "Art. 110.1 LPAP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 110.1 LPAP en _lpap.txt: preparación y adjudicación regidas por la ley y, en lo no previsto, por la legislación de contratos de las Administraciones públicas; coincide."
+    },
+    {
+      "q": "El art. 110.1 LPAP dispone que los efectos y la extinción de los negocios jurídicos patrimoniales se rigen por...",
+      "options": [
+        "Esta ley y las normas de derecho privado",
+        "Exclusivamente la legislación de contratos públicos",
+        "El Reglamento Hipotecario",
+        "El Código de Comercio"
+      ],
+      "correct": 0,
+      "exp": "El art. 110.1 LPAP, in fine, establece que los efectos y extinción de estos negocios se rigen por la propia ley y por las normas de derecho privado.",
+      "fuente": "Art. 110.1 LPAP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 110.1 LPAP, última frase: efectos y extinción regidos por la ley y las normas de derecho privado; coincide."
+    },
+    {
+      "q": "Según el art. 110.3 LPAP, ¿qué orden jurisdiccional es el competente para resolver las controversias que surjan entre las partes sobre los contratos patrimoniales?",
+      "options": [
+        "El orden contencioso-administrativo",
+        "El orden civil",
+        "El orden social",
+        "El orden penal"
+      ],
+      "correct": 1,
+      "exp": "El art. 110.3 LPAP atribuye al orden jurisdiccional civil la competencia para resolver las controversias entre las partes derivadas de estos contratos.",
+      "fuente": "Art. 110.3 LPAP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 110.3 LPAP: orden jurisdiccional civil competente para las controversias entre las partes; coincide."
+    },
+    {
+      "q": "Conforme al art. 110.3 LPAP, los actos dictados en relación con la preparación y adjudicación de los negocios patrimoniales se consideran...",
+      "options": [
+        "Actos firmes, no susceptibles de recurso alguno",
+        "Actos jurídicos separables, impugnables ante el orden jurisdiccional contencioso-administrativo",
+        "Actos de mero trámite sin posibilidad de impugnación",
+        "Actos sometidos exclusivamente a arbitraje privado"
+      ],
+      "correct": 1,
+      "exp": "El art. 110.3 LPAP califica de actos jurídicos separables los relativos a la preparación y adjudicación, impugnables ante el orden contencioso-administrativo conforme a su normativa reguladora.",
+      "fuente": "Art. 110.3 LPAP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 110.3 LPAP: actos de preparación y adjudicación como actos jurídicos separables, impugnables en el orden contencioso-administrativo; coincide."
+    },
+    {
+      "q": "El art. 111.1 LPAP consagra, para los negocios jurídicos sobre bienes y derechos patrimoniales, el principio de...",
+      "options": [
+        "Tipicidad contractual estricta",
+        "Libertad de pactos, siempre que no sean contrarios al ordenamiento jurídico ni a los principios de buena administración",
+        "Subasta pública obligatoria en todo caso",
+        "Reserva de ley para cada negocio"
+      ],
+      "correct": 1,
+      "exp": "El art. 111.1 LPAP sujeta estos negocios al principio de libertad de pactos, dentro del respeto al ordenamiento jurídico y a los principios de buena administración.",
+      "fuente": "Art. 111.1 LPAP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 111.1 LPAP: principio de libertad de pactos, con el límite del ordenamiento jurídico y los principios de buena administración; coincide."
+    },
+    {
+      "q": "Según el art. 112.3 LPAP, la Intervención General de la Administración del Estado emitirá informe previo en los procedimientos de enajenación directa y permuta de bienes o derechos cuyo valor supere...",
+      "options": [
+        "500.000 euros",
+        "1.000.000 de euros",
+        "1.500.000 euros",
+        "3.000.000 de euros"
+      ],
+      "correct": 1,
+      "exp": "El art. 112.3 LPAP fija en 1.000.000 de euros el umbral a partir del cual es preceptivo el informe previo de la Intervención General en los procedimientos de enajenación directa y permuta.",
+      "fuente": "Art. 112.3 LPAP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 112.3 LPAP: informe previo de la Intervención General cuando el valor supere 1.000.000 de euros; coincide."
+    },
+    {
+      "q": "Según el art. 112.5 LPAP, los informes previstos en el expediente patrimonial deberán emitirse en el plazo de...",
+      "options": [
+        "5 días",
+        "10 días",
+        "15 días",
+        "20 días"
+      ],
+      "correct": 1,
+      "exp": "El art. 112.5 LPAP establece un plazo de 10 días para la emisión de los informes previstos en los apartados anteriores del expediente patrimonial.",
+      "fuente": "Art. 112.5 LPAP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 112.5 LPAP: plazo de 10 días para emitir los informes del expediente patrimonial; coincide."
+    },
+    {
+      "q": "Según el art. 113.1 LPAP, los negocios jurídicos de adquisición o enajenación de bienes inmuebles y derechos reales se formalizarán, con carácter general, en...",
+      "options": [
+        "Documento privado entre las partes",
+        "Escritura pública",
+        "Acta administrativa sin más requisitos",
+        "Certificación del Secretario de la Corporación"
+      ],
+      "correct": 1,
+      "exp": "El art. 113.1 LPAP exige, con las salvedades del apartado siguiente, la formalización en escritura pública de los negocios de adquisición o enajenación de inmuebles y derechos reales.",
+      "fuente": "Art. 113.1 LPAP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 113.1 LPAP: formalización en escritura pública, con carácter general, de adquisiciones/enajenaciones de inmuebles y derechos reales; coincide."
+    },
+    {
+      "q": "Conforme al art. 113.2 LPAP, las enajenaciones de inmuebles rústicos cuyo precio de venta sea inferior a... podrán formalizarse en documento administrativo, título suficiente para su inscripción registral.",
+      "options": [
+        "100.000 euros",
+        "150.000 euros",
+        "200.000 euros",
+        "300.000 euros"
+      ],
+      "correct": 1,
+      "exp": "El art. 113.2 LPAP permite formalizar en documento administrativo las enajenaciones de inmuebles rústicos con precio de venta inferior a 150.000 euros.",
+      "fuente": "Art. 113.2 LPAP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 113.2 LPAP: enajenaciones de inmuebles rústicos con precio inferior a 150.000 euros formalizables en documento administrativo; coincide."
+    },
+    {
+      "q": "Según el art. 114.5 LPAP, las tasaciones periciales tendrán un plazo de validez de...",
+      "options": [
+        "Seis meses",
+        "Un año, contado desde su aprobación",
+        "Dos años",
+        "Tres años"
+      ],
+      "correct": 1,
+      "exp": "El art. 114.5 LPAP fija en un año, contado desde su aprobación, la validez de las tasaciones periciales.",
+      "fuente": "Art. 114.5 LPAP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 114.5 LPAP: validez de las tasaciones periciales de un año contado desde su aprobación; coincide."
+    },
+    {
+      "q": "Conforme al art. 153 LPAP, los bienes y derechos patrimoniales podrán permutarse, por razones de interés público debidamente justificadas, cuando la diferencia de valor entre los bienes, según tasación, no sea superior al...",
+      "options": [
+        "25 por ciento del que tenga mayor valor",
+        "40 por ciento del que tenga mayor valor",
+        "50 por ciento del que tenga mayor valor",
+        "60 por ciento del que tenga mayor valor"
+      ],
+      "correct": 2,
+      "exp": "El art. 153 LPAP admite la permuta cuando la diferencia de valor, según tasación, no sea superior al 50 por ciento de los bienes que tengan mayor valor; norma supletoria respecto del régimen local, que en el art. 112.2 RBEL fija un límite distinto (40 por 100) para la excepción de subasta.",
+      "fuente": "Art. 153 LPAP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 153 LPAP: admisibilidad de la permuta cuando la diferencia de valor, según tasación, no supere el 50 por ciento del mayor; coincide."
+    },
+    {
+      "q": "Según el art. 153 LPAP, si la diferencia de valor entre los bienes a permutar fuese mayor del límite legalmente admitido, el expediente se tramitará como...",
+      "options": [
+        "Una cesión gratuita",
+        "Una enajenación con pago de parte del precio en especie",
+        "Un arrendamiento con opción de compra",
+        "Una expropiación forzosa"
+      ],
+      "correct": 1,
+      "exp": "El art. 153 LPAP prevé que, si la diferencia de valor fuese mayor, el expediente se tramite como enajenación con pago de parte del precio en especie.",
+      "fuente": "Art. 153 LPAP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 153 LPAP: si la diferencia es mayor, tramitación como enajenación con pago de parte del precio en especie; coincide."
+    },
+    {
+      "q": "El art. 153 LPAP admite expresamente que la permuta de bienes y derechos patrimoniales pueda tener por objeto...",
+      "options": [
+        "Únicamente bienes muebles",
+        "Edificios a construir",
+        "Bienes de dominio público sin previa desafectación",
+        "Derechos de propiedad intelectual exclusivamente"
+      ],
+      "correct": 1,
+      "exp": "El art. 153 LPAP, párrafo segundo, señala que la permuta podrá tener por objeto edificios a construir.",
+      "fuente": "Art. 153 LPAP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 153 LPAP, párrafo segundo: la permuta puede tener por objeto edificios a construir; coincide."
+    },
+    {
+      "q": "Según el art. 154.1 LPAP, a la permuta le son de aplicación las normas previstas para la enajenación de bienes y derechos, salvo lo dispuesto en cuanto a...",
+      "options": [
+        "La tasación previa del bien",
+        "La necesidad de convocar concurso o subasta pública para la adjudicación",
+        "La formalización en escritura pública",
+        "El informe previo de la Abogacía del Estado"
+      ],
+      "correct": 1,
+      "exp": "El art. 154.1 LPAP remite a las normas de la enajenación salvo en lo relativo a la necesidad de convocar concurso o subasta pública para la adjudicación, que no rige en la permuta.",
+      "fuente": "Art. 154.1 LPAP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 154.1 LPAP: aplicación de las normas de enajenación salvo la necesidad de concurso o subasta pública; coincide."
+    },
+    {
+      "q": "Conforme al art. 154.4 LPAP, la diferencia de valor entre los bienes a permutar podrá abonarse...",
+      "options": [
+        "Únicamente en metálico",
+        "En metálico o mediante la entrega de otros bienes o derechos de naturaleza distinta",
+        "Solo mediante compensación en especie del mismo tipo de bien permutado",
+        "Exclusivamente mediante deuda pública"
+      ],
+      "correct": 1,
+      "exp": "El art. 154.4 LPAP permite que la diferencia de valor se abone en metálico o mediante la entrega de otros bienes o derechos de naturaleza distinta.",
+      "fuente": "Art. 154.4 LPAP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado Art. 154.4 LPAP: diferencia de valor abonable en metálico o mediante entrega de otros bienes o derechos de naturaleza distinta; coincide."
+    }
+  ]
+}
