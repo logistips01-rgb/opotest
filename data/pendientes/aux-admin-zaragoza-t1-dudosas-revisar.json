@@ -1,0 +1,112 @@
+[
+  {
+    "q": "¿Qué parte de la Constitución española de 1978 no tiene fuerza jurídica?",
+    "options": [
+      "Todas las partes de la Constitución tienen fuerza jurídica.",
+      "Las Disposiciones adicionales.",
+      "El Título Preliminar.",
+      "El Preámbulo."
+    ],
+    "correct": 3,
+    "exp": "Pregunta 19 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de las siguientes afirmaciones no es correcta?",
+    "options": [
+      "La pena de muerte está abolida en todos los casos.",
+      "La pena de muerte solo está abolida en su vertiente civil.",
+      "La pena de muerte no está abolida en España en el campo militar aún en tiempo de paz.",
+      "La pena de muerte está abolida en la actualidad incluso en el campo militar y en tiempo de guerra."
+    ],
+    "correct": 3,
+    "exp": "Pregunta 58 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de las siguientes normas contiene la respuesta correcta de la pregunta anterior?",
+    "options": [
+      "La Ley Orgánica 11/ 1995, de 27 de noviembre.",
+      "La Ley Orgánica 1/ 1995, de 27 de enero.",
+      "La Ley Orgánica 21/ 1995, de 24 de febrero.",
+      "La Ley Orgánica 3/ 1995, de 2 de marzo."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 59 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cómo se denomina el procedimiento judicial por el que se debe poner a un detenido a disposición inmediata de la autoridad judicial?",
+    "options": [
+      "Proceso sumario.",
+      "Habeas Corpus.",
+      "Recurso de amparo.",
+      "Proceso de amparo."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 68 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Qué grado es preferido en el caso de que se dé un supuesto de igualdad de línea?",
+    "options": [
+      "El grado más remoto al más cercano.",
+      "El grado más próximo al más remoto.",
+      "El grado más directo al indirecto.",
+      "La Constitución no establece ese supuesto."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 117 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿En cuál de los siguientes casos es imprescindible ser español de nacimiento?",
+    "options": [
+      "Para ejercer la Regencia.",
+      "Para ejercer la tutela testamentaria.",
+      "Para ser proclamado Rey.",
+      "Para ejercer la Regencia y la tutela testamentaria."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 128 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de los siguientes principios no es aplicable a la organización administrativa?",
+    "options": [
+      "Jerarquía.",
+      "Descentralización.",
+      "Desconcentración.",
+      "Territorialidad."
+    ],
+    "correct": 3,
+    "exp": "Pregunta 245 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál es el origen que la Constitución atribuye a la Justicia?",
+    "options": [
+      "El marco parlamentario.",
+      "Popular.",
+      "Legislativo.",
+      "Positivista."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 302 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuántos miembros del Consejo son nombrados de entre profesiones distintas a las de Juez y Magistrado?",
+    "options": [
+      "Seis.",
+      "Ninguno.",
+      "Ocho.",
+      "Diez."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 328 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
+  },
+  {
+    "q": "¿Cuál de las siguientes afirmaciones es correcta?",
+    "options": [
+      "La provincia es una entidad local, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades de la Comunidad Autónoma.",
+      "La provincia es una entidad local, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Gobierno.",
+      "La provincia es una entidad local, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado.",
+      "La provincia es una entidad local, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades de los vecinos."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 444 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  }
+]

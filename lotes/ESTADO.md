@@ -6,6 +6,58 @@ un tema por tanda y con parada entre temas.
 El tema 21 queda **fuera del objetivo**: reproduce el examen oficial del
 1-jun-2025 y rellenarlo con preguntas generadas destruiría lo que lo hace útil.
 
+## Tema 1 · La Constitución — depurado contra las bases oficiales reales (12-ago-2026)
+
+El usuario pidió comprobar si el tema 1 respeta el alcance real de la
+convocatoria (preocupación: "no quiero que Alma estudie cosas que no
+entran"). Hasta ahora nunca se había buscado el documento oficial de
+Auxiliar Administrativo — a diferencia de Policía Local, para la que sí se
+hizo desde el principio.
+
+Encontrado: **BOPZ núm. 147, 30-jun-2025, Sección Quinta núm. 4779** (47
+plazas de Auxiliar Administrativo), guardado en
+`tools/temarios/bases-aux-admin-zaragoza-2025.pdf`. El Anexo I completo de
+los 20 temas coincide casi perfectamente con la estructura que ya
+teníamos — mismo orden, mismos temas — **salvo el tema 1**, cuyo enunciado
+oficial es mucho más estrecho de lo asumido:
+
+> «Tema 1. La Constitución española: elaboración y aprobación. Estructura
+> y título preliminar. La Administración pública en la Constitución.
+> Organización territorial del Estado en la Constitución: principios
+> generales y Administración local.»
+
+No incluye Título I (derechos y deberes), Corona, Cortes Generales, Poder
+Judicial, Economía y Hacienda, Tribunal Constitucional ni reforma
+constitucional. El banco de 500 preguntas de este tema (original, nunca
+tocado por la campaña de agentes, sin cita de `fuente`) sí cubría todo
+eso, típico de un temario genérico de "toda la Constitución".
+
+Clasificadas las 500 contra el alcance oficial real:
+
+| | Preguntas |
+|---|---|
+| Dentro de alcance (se quedan en el tema 1) | 230 |
+| Fuera de alcance (archivadas en `data/reserva/`) | 260 |
+| Dudosas, revisar a mano (`data/pendientes/`) | 10 |
+
+Las 260 fuera de alcance no se han borrado — están en
+`data/reserva/constitucion-fuera-alcance-aux-admin.json`, repartidas por
+categoría (Corona, Cortes Generales, Poder Judicial, CCAA, Título I,
+fuentes del derecho, Hacienda/TC/reforma) para poder reutilizarlas si
+alguna otra oposición del proyecto (Policía Nacional, DGA) tiene esos
+bloques en su propio temario — ver `data/reserva/README.md`.
+
+Tema 1: de 500 a **230 preguntas**. Banco total de Auxiliar Administrativo:
+de 5.077 a **4.807**.
+
+Pendiente (decisión explícita del usuario, sin resolver todavía): si
+auditar también los temas ya cerrados (9 al 20) contra la redacción
+literal exacta de sus respectivos temas oficiales — hay al menos una
+sospecha concreta sin confirmar en el tema 9 (Contratos), cuyo enunciado
+oficial ("Competencias en materia de contratación en las Entidades
+Locales. Normas específicas...") parece más centrado en lo local que la
+mecánica general de la LCSP que se generó.
+
 ## Tema 8 · LPAC (V): revisión de actos — PRIMERA VUELTA CERRADA
 
 **260 preguntas** (de 100 que había), todas de 4 opciones. 4 lotes de 40,
