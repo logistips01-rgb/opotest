@@ -1,0 +1,526 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 6,
+  "preguntas": [
+    {
+      "q": "Según el art. 40.1 LPAC, ¿a quiénes debe notificar el órgano que dicte resoluciones y actos administrativos?",
+      "options": [
+        "A los interesados cuyos derechos e intereses sean afectados por aquéllos",
+        "A todos los ciudadanos empadronados en el municipio",
+        "Únicamente al Ministerio Fiscal",
+        "A los medios de comunicación oficiales"
+      ],
+      "correct": 0,
+      "exp": "Art. 40.1: 'El órgano que dicte las resoluciones y actos administrativos los notificará a los interesados cuyos derechos e intereses sean afectados por aquéllos, en los términos previstos en los artículos siguientes.'",
+      "fuente": "Art. 40.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 40.2 LPAC, ¿dentro de qué plazo debe cursarse toda notificación a partir de la fecha en que el acto haya sido dictado?",
+      "options": [
+        "Cinco días",
+        "Diez días",
+        "Quince días",
+        "Un mes"
+      ],
+      "correct": 1,
+      "exp": "Art. 40.2: 'Toda notificación deberá ser cursada dentro del plazo de diez días a partir de la fecha en que el acto haya sido dictado...'",
+      "fuente": "Art. 40.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 40.2 LPAC, la notificación debe contener el texto íntegro de la resolución, con indicación de:",
+      "options": [
+        "El coste del procedimiento administrativo",
+        "La identidad del funcionario instructor",
+        "Si el acto pone fin o no a la vía administrativa, los recursos que procedan, el órgano ante el que presentarlos y el plazo para interponerlos",
+        "Únicamente la fecha de notificación"
+      ],
+      "correct": 2,
+      "exp": "Art. 40.2 exige que la notificación contenga el texto íntegro de la resolución, con indicación de si pone fin o no a la vía administrativa, la expresión de los recursos que procedan, el órgano ante el que hubieran de presentarse y el plazo para interponerlos.",
+      "fuente": "Art. 40.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 40.3 LPAC, cuando una notificación contiene el texto íntegro del acto pero omite algún otro requisito del apartado anterior, ¿desde cuándo surte efectos?",
+      "options": [
+        "Desde la fecha de su envío",
+        "Nunca surte efectos, es nula de pleno derecho",
+        "Desde que se publique en el BOE",
+        "Desde que el interesado realice actuaciones que supongan conocimiento del contenido y alcance de la resolución, o interponga cualquier recurso que proceda"
+      ],
+      "correct": 3,
+      "exp": "Art. 40.3: 'Las notificaciones que, conteniendo el texto íntegro del acto, omitiesen alguno de los demás requisitos previstos en el apartado anterior, surtirán efecto a partir de la fecha en que el interesado realice actuaciones que supongan el conocimiento del contenido y alcance de la resolución o acto objeto de la notificación, o interponga cualquier recurso que proceda.'",
+      "fuente": "Art. 40.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "A los solos efectos de entender cumplida la obligación de notificar dentro del plazo máximo de duración del procedimiento, el art. 40.4 LPAC exige, cuando menos:",
+      "options": [
+        "El texto íntegro de la resolución y el intento de notificación debidamente acreditado",
+        "Solo la firma del titular del órgano",
+        "La comparecencia personal del interesado",
+        "El pago de la tasa correspondiente"
+      ],
+      "correct": 0,
+      "exp": "Art. 40.4: '...será suficiente la notificación que contenga, cuando menos, el texto íntegro de la resolución, así como el intento de notificación debidamente acreditado.'",
+      "fuente": "Art. 40.4 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 40.5 LPAC, ¿en qué supuesto pueden las Administraciones Públicas adoptar medidas de protección de los datos personales que consten en resoluciones y actos administrativos?",
+      "options": [
+        "Cuando el acto se dicte en un procedimiento sancionador",
+        "Cuando dichos actos tengan por destinatarios a más de un interesado",
+        "Cuando el interesado sea menor de edad",
+        "Cuando el acto no sea firme"
+      ],
+      "correct": 1,
+      "exp": "Art. 40.5: 'Las Administraciones Públicas podrán adoptar las medidas que consideren necesarias para la protección de los datos personales que consten en las resoluciones y actos administrativos, cuando éstos tengan por destinatarios a más de un interesado.'",
+      "fuente": "Art. 40.5 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 40.1 LPAC dispone que la notificación a los interesados se practicará:",
+      "options": [
+        "Sin sujeción a plazo alguno",
+        "Solo mediante edicto en el tablón municipal",
+        "En los términos previstos en los artículos siguientes",
+        "Exclusivamente por correo certificado"
+      ],
+      "correct": 2,
+      "exp": "Art. 40.1 remite la práctica de la notificación 'en los términos previstos en los artículos siguientes' (arts. 41 a 46 LPAC).",
+      "fuente": "Art. 40.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 40.2 LPAC, la indicación de los recursos que procedan en la notificación se entiende:",
+      "options": [
+        "Como numerus clausus que impide interponer otros recursos",
+        "Como mero trámite sin efectos jurídicos",
+        "Obligatoria solo si el acto tiene carácter sancionador",
+        "Sin perjuicio de que los interesados puedan ejercitar cualquier otro recurso que estimen procedente"
+      ],
+      "correct": 3,
+      "exp": "Art. 40.2 cierra la enumeración de recursos con la salvedad: '...sin perjuicio de que los interesados puedan ejercitar, en su caso, cualquier otro que estimen procedente.'",
+      "fuente": "Art. 40.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El régimen de subsanación de efectos del art. 40.3 LPAC se aplica a las notificaciones que:",
+      "options": [
+        "Conteniendo el texto íntegro del acto, omitan alguno de los demás requisitos del apartado anterior",
+        "Careciendo del texto íntegro del acto, omitan cualquier otro requisito",
+        "No hayan sido firmadas por el órgano competente",
+        "Se practiquen fuera de plazo únicamente"
+      ],
+      "correct": 0,
+      "exp": "Art. 40.3 exige expresamente que la notificación 'contenga el texto íntegro del acto' y solo omita 'alguno de los demás requisitos previstos en el apartado anterior' para aplicar esta regla de eficacia diferida.",
+      "fuente": "Art. 40.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué Administraciones pueden adoptar las medidas de protección de datos personales previstas en el art. 40.5 LPAC?",
+      "options": [
+        "Solo la Administración General del Estado",
+        "Las Administraciones Públicas, sin distinción",
+        "Solo las Comunidades Autónomas",
+        "Únicamente la Agencia Española de Protección de Datos"
+      ],
+      "correct": 1,
+      "exp": "Art. 40.5 atribuye esta facultad, en general, a 'las Administraciones Públicas', sin distinguir el nivel territorial.",
+      "fuente": "Art. 40.5 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 41.1 LPAC, ¿cómo se practicarán las notificaciones con carácter preferente?",
+      "options": [
+        "Por correo postal certificado",
+        "Mediante comparecencia personal obligatoria",
+        "Por medios electrónicos, y en todo caso cuando el interesado resulte obligado a recibirlas por esta vía",
+        "Por publicación en el Boletín Oficial correspondiente"
+      ],
+      "correct": 2,
+      "exp": "Art. 41.1: 'Las notificaciones se practicarán preferentemente por medios electrónicos y, en todo caso, cuando el interesado resulte obligado a recibirlas por esta vía.'",
+      "fuente": "Art. 41.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 41.1.a) LPAC, es uno de los supuestos en que la Administración puede notificar por medios NO electrónicos:",
+      "options": [
+        "Cuando el interesado resida en el extranjero",
+        "Cuando el acto sea de mero trámite",
+        "Cuando el importe de la deuda sea superior a 1.000 euros",
+        "Cuando la notificación se realice con ocasión de la comparecencia espontánea del interesado o su representante en las oficinas de asistencia en materia de registro y solicite la comunicación o notificación personal en ese momento"
+      ],
+      "correct": 3,
+      "exp": "Art. 41.1.a): 'Cuando la notificación se realice con ocasión de la comparecencia espontánea del interesado o su representante en las oficinas de asistencia en materia de registro y solicite la comunicación o notificación personal en ese momento.'",
+      "fuente": "Art. 41.1.a) LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 41.1.b) LPAC permite notificar por medios no electrónicos cuando, para asegurar la eficacia de la actuación administrativa, resulte necesario:",
+      "options": [
+        "Practicar la notificación por entrega directa de un empleado público de la Administración notificante",
+        "Requerir la comparecencia del interesado ante notario",
+        "Publicar el acto en un diario de tirada nacional",
+        "Enviar la notificación por télex"
+      ],
+      "correct": 0,
+      "exp": "Art. 41.1.b): 'Cuando para asegurar la eficacia de la actuación administrativa resulte necesario practicar la notificación por entrega directa de un empleado público de la Administración notificante.'",
+      "fuente": "Art. 41.1.b) LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Con independencia del medio utilizado, ¿qué exige el art. 41.1 LPAC para que las notificaciones sean válidas?",
+      "options": [
+        "Que se remitan siempre con acuse de recibo postal",
+        "Que permitan tener constancia de su envío o puesta a disposición, de la recepción o acceso por el interesado, de sus fechas y horas, del contenido íntegro y de la identidad fidedigna de remitente y destinatario",
+        "Que estén firmadas electrónicamente con certificado cualificado",
+        "Que se notifiquen antes de las 15:00 horas"
+      ],
+      "correct": 1,
+      "exp": "Art. 41.1: 'las notificaciones serán válidas siempre que permitan tener constancia de su envío o puesta a disposición, de la recepción o acceso por el interesado o su representante, de sus fechas y horas, del contenido íntegro, y de la identidad fidedigna del remitente y destinatario de la misma.'",
+      "fuente": "Art. 41.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 41.1 LPAC, los interesados que no estén obligados a recibir notificaciones electrónicas pueden:",
+      "options": [
+        "Renunciar definitivamente a ser notificados",
+        "Delegar la recepción en un tercero sin representación acreditada",
+        "Decidir y comunicar en cualquier momento, mediante los modelos normalizados que se establezcan, que las notificaciones sucesivas se practiquen o dejen de practicarse por medios electrónicos",
+        "Exigir que se les notifique siempre por télex"
+      ],
+      "correct": 2,
+      "exp": "Art. 41.1: 'Los interesados que no estén obligados a recibir notificaciones electrónicas, podrán decidir y comunicar en cualquier momento a la Administración Pública, mediante los modelos normalizados que se establezcan al efecto, que las notificaciones sucesivas se practiquen o dejen de practicarse por medios electrónicos.'",
+      "fuente": "Art. 41.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 41.2.a) LPAC, en ningún caso se efectuarán por medios electrónicos las notificaciones en las que el acto a notificar:",
+      "options": [
+        "Sea firme en vía administrativa",
+        "Tenga carácter sancionador",
+        "Haya sido dictado por el Pleno de la Corporación",
+        "Vaya acompañado de elementos que no sean susceptibles de conversión en formato electrónico"
+      ],
+      "correct": 3,
+      "exp": "Art. 41.2.a): 'Aquellas en las que el acto a notificar vaya acompañado de elementos que no sean susceptibles de conversión en formato electrónico.'",
+      "fuente": "Art. 41.2.a) LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "En los procedimientos iniciados a solicitud del interesado, ¿por qué medio se practicará la notificación según el art. 41.3 LPAC?",
+      "options": [
+        "Por el medio señalado al efecto por el interesado",
+        "Siempre por medios electrónicos, sin excepción",
+        "Por el que decida discrecionalmente el órgano instructor",
+        "Por edicto en todo caso"
+      ],
+      "correct": 0,
+      "exp": "Art. 41.3: 'En los procedimientos iniciados a solicitud del interesado, la notificación se practicará por el medio señalado al efecto por aquel.'",
+      "fuente": "Art. 41.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 41.3 LPAC, cuando no fuera posible realizar la notificación de acuerdo con lo señalado en la solicitud, la notificación se practicará:",
+      "options": [
+        "Dándose el procedimiento por caducado",
+        "En cualquier lugar adecuado a tal fin, y por cualquier medio que permita tener constancia de la recepción, así como de la fecha, la identidad y el contenido del acto notificado",
+        "Únicamente mediante publicación en el BOE",
+        "Notificando al Ayuntamiento del domicilio del interesado para que este lo comunique"
+      ],
+      "correct": 1,
+      "exp": "Art. 41.3: 'Cuando no fuera posible realizar la notificación de acuerdo con lo señalado en la solicitud, se practicará en cualquier lugar adecuado a tal fin, y por cualquier medio que permita tener constancia de la recepción por el interesado o su representante, así como de la fecha, la identidad y el contenido del acto notificado.'",
+      "fuente": "Art. 41.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 41.4 LPAC, en los procedimientos iniciados de oficio, ¿mediante qué consulta pueden las Administraciones Públicas recabar los datos sobre el domicilio del interesado?",
+      "options": [
+        "Consultando el Registro de la Propiedad",
+        "Solicitando informe a la Agencia Tributaria",
+        "Mediante consulta a las bases de datos del Instituto Nacional de Estadística, con los datos del Padrón Municipal remitidos por las Entidades Locales",
+        "Requiriendo la comparecencia personal del interesado"
+      ],
+      "correct": 2,
+      "exp": "Art. 41.4: '...las Administraciones Públicas podrán recabar, mediante consulta a las bases de datos del Instituto Nacional de Estadística, los datos sobre el domicilio del interesado recogidos en el Padrón Municipal, remitidos por las Entidades Locales...'",
+      "fuente": "Art. 41.4 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Cuando el interesado o su representante rechace la notificación de una actuación administrativa, el art. 41.5 LPAC dispone que:",
+      "options": [
+        "El procedimiento queda automáticamente caducado",
+        "Debe repetirse el intento en el plazo de un mes",
+        "La Administración debe incoar un expediente sancionador",
+        "Se hará constar en el expediente, especificándose las circunstancias del intento de notificación y el medio, dando por efectuado el trámite y siguiéndose el procedimiento"
+      ],
+      "correct": 3,
+      "exp": "Art. 41.5: 'Cuando el interesado o su representante rechace la notificación de una actuación administrativa, se hará constar en el expediente, especificándose las circunstancias del intento de notificación y el medio, dando por efectuado el trámite y siguiéndose el procedimiento.'",
+      "fuente": "Art. 41.5 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 41.6 LPAC, con independencia de que la notificación se realice en papel o por medios electrónicos, las Administraciones Públicas:",
+      "options": [
+        "Enviarán un aviso al dispositivo electrónico y/o dirección de correo electrónico comunicado por el interesado, informando de la puesta a disposición de la notificación",
+        "Deberán notificar siempre también por edicto",
+        "Solo podrán avisar por vía telefónica",
+        "Quedan exentas de avisar si el acto no es firme"
+      ],
+      "correct": 0,
+      "exp": "Art. 41.6: '...las Administraciones Públicas enviarán un aviso al dispositivo electrónico y/o a la dirección de correo electrónico del interesado que éste haya comunicado, informándole de la puesta a disposición de una notificación...'",
+      "fuente": "Art. 41.6 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 41.7 LPAC, cuando el interesado fuera notificado por distintos cauces, ¿qué fecha se toma como fecha de notificación?",
+      "options": [
+        "La del último cauce empleado",
+        "La de aquélla que se hubiera producido en primer lugar",
+        "La media aritmética entre ambas fechas",
+        "La que el interesado elija libremente"
+      ],
+      "correct": 1,
+      "exp": "Art. 41.7: 'Cuando el interesado fuera notificado por distintos cauces, se tomará como fecha de notificación la de aquélla que se hubiera producido en primer lugar.'",
+      "fuente": "Art. 41.7 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 42.1 LPAC, todas las notificaciones que se practiquen en papel deberán:",
+      "options": [
+        "Publicarse simultáneamente en el Boletín Oficial",
+        "Remitirse también por correo certificado internacional",
+        "Ser puestas a disposición del interesado en la sede electrónica de la Administración u Organismo actuante para que pueda acceder a su contenido de forma voluntaria",
+        "Notificarse antes de las 15 horas del día siguiente"
+      ],
+      "correct": 2,
+      "exp": "Art. 42.1: 'Todas las notificaciones que se practiquen en papel deberán ser puestas a disposición del interesado en la sede electrónica de la Administración u Organismo actuante para que pueda acceder al contenido de las mismas de forma voluntaria.'",
+      "fuente": "Art. 42.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 42.2 LPAC, cuando el interesado no se halle presente en su domicilio al entregarse la notificación, ¿quién puede hacerse cargo de ella?",
+      "options": [
+        "Solo un familiar directo mayor de edad",
+        "Cualquier persona empadronada en el domicilio, sin límite de edad",
+        "Un vecino designado por el portero de la finca",
+        "Cualquier persona mayor de catorce años que se encuentre en el domicilio y haga constar su identidad"
+      ],
+      "correct": 3,
+      "exp": "Art. 42.2: '...podrá hacerse cargo de la misma cualquier persona mayor de catorce años que se encuentre en el domicilio y haga constar su identidad.'",
+      "fuente": "Art. 42.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 42.2 LPAC, si nadie se hiciera cargo de la notificación en el domicilio, ¿qué debe hacerse constar en el expediente?",
+      "options": [
+        "Esta circunstancia, junto con el día y la hora en que se intentó la notificación",
+        "Únicamente la fecha, sin más detalle",
+        "El nombre del vecino consultado",
+        "Un domicilio alternativo del interesado"
+      ],
+      "correct": 0,
+      "exp": "Art. 42.2: 'Si nadie se hiciera cargo de la notificación, se hará constar esta circunstancia en el expediente, junto con el día y la hora en que se intentó la notificación...'",
+      "fuente": "Art. 42.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 42.2 LPAC, si nadie se hace cargo de la notificación en el domicilio, el intento de notificación:",
+      "options": [
+        "No podrá repetirse bajo ningún concepto",
+        "Se repetirá por una sola vez y en una hora distinta, dentro de los tres días siguientes",
+        "Se repetirá diariamente hasta un máximo de diez días",
+        "Se repetirá cada 24 horas durante una semana"
+      ],
+      "correct": 1,
+      "exp": "Art. 42.2: '...intento que se repetirá por una sola vez y en una hora distinta dentro de los tres días siguientes.'",
+      "fuente": "Art. 42.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 42.2 LPAC, si el primer intento de notificación en el domicilio se realizó antes de las quince horas, ¿cuándo debe realizarse el segundo intento?",
+      "options": [
+        "También antes de las quince horas",
+        "En cualquier momento, sin restricción horaria",
+        "Después de las quince horas",
+        "Exactamente a la misma hora que el primero"
+      ],
+      "correct": 2,
+      "exp": "Art. 42.2: 'En caso de que el primer intento de notificación se haya realizado antes de las quince horas, el segundo intento deberá realizarse después de las quince horas y viceversa...'",
+      "fuente": "Art. 42.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 42.2 LPAC, ¿qué margen mínimo de diferencia debe dejarse en todo caso entre el primer y el segundo intento de notificación en el domicilio?",
+      "options": [
+        "Un margen de al menos veinticuatro horas",
+        "Un margen de al menos una hora",
+        "Un margen de al menos seis horas",
+        "Un margen de al menos tres horas"
+      ],
+      "correct": 3,
+      "exp": "Art. 42.2: '...dejando en todo caso al menos un margen de diferencia de tres horas entre ambos intentos de notificación.'",
+      "fuente": "Art. 42.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 42.2 LPAC, si el segundo intento de notificación en el domicilio también resultara infructuoso, se procederá:",
+      "options": [
+        "En la forma prevista en el artículo 44 LPAC (notificación infructuosa)",
+        "A notificar directamente al Defensor del Pueblo",
+        "A dar por caducado el procedimiento de forma automática",
+        "A remitir la notificación por télex"
+      ],
+      "correct": 0,
+      "exp": "Art. 42.2: 'Si el segundo intento también resultara infructuoso, se procederá en la forma prevista en el artículo 44.'",
+      "fuente": "Art. 42.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 42.3 LPAC, cuando el interesado accediera al contenido de la notificación en sede electrónica, se le ofrecerá la posibilidad de que:",
+      "options": [
+        "Renuncie a cualquier notificación futura",
+        "El resto de notificaciones se puedan realizar a través de medios electrónicos",
+        "Solicite la anulación del acto notificado",
+        "Se le exima del pago de tasas administrativas"
+      ],
+      "correct": 1,
+      "exp": "Art. 42.3: 'Cuando el interesado accediera al contenido de la notificación en sede electrónica, se le ofrecerá la posibilidad de que el resto de notificaciones se puedan realizar a través de medios electrónicos.'",
+      "fuente": "Art. 42.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 42.2 LPAC, el segundo intento de notificación en el domicilio del interesado debe realizarse:",
+      "options": [
+        "Dentro de los diez días siguientes al primer intento",
+        "Dentro del mes siguiente al primer intento",
+        "Dentro de los tres días siguientes al primer intento",
+        "Sin plazo determinado"
+      ],
+      "correct": 2,
+      "exp": "Art. 42.2 fija que la repetición del intento se hace 'dentro de los tres días siguientes' al primero.",
+      "fuente": "Art. 42.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 42.1 LPAC exige poner a disposición en la sede electrónica las notificaciones practicadas en papel con qué finalidad:",
+      "options": [
+        "Sustituir definitivamente la notificación en papel",
+        "Iniciar el cómputo de un nuevo plazo de alegaciones",
+        "Acreditar el pago de las tasas correspondientes",
+        "Que el interesado pueda acceder al contenido de las mismas de forma voluntaria"
+      ],
+      "correct": 3,
+      "exp": "Art. 42.1: '...para que pueda acceder al contenido de las mismas de forma voluntaria.'",
+      "fuente": "Art. 42.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 43.1 LPAC, las notificaciones por medios electrónicos se practicarán mediante:",
+      "options": [
+        "Comparecencia en la sede electrónica de la Administración u Organismo actuante, a través de la dirección electrónica habilitada única, o mediante ambos sistemas",
+        "Únicamente el correo electrónico ordinario del interesado",
+        "Mensajería instantánea con confirmación de lectura",
+        "Publicación en redes sociales oficiales"
+      ],
+      "correct": 0,
+      "exp": "Art. 43.1: 'Las notificaciones por medios electrónicos se practicarán mediante comparecencia en la sede electrónica de la Administración u Organismo actuante, a través de la dirección electrónica habilitada única o mediante ambos sistemas, según disponga cada Administración u Organismo.'",
+      "fuente": "Art. 43.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 43.1 LPAC, ¿qué se entiende por 'comparecencia en la sede electrónica' a los efectos de las notificaciones?",
+      "options": [
+        "El envío de un correo electrónico de confirmación por la Administración",
+        "El acceso por el interesado o su representante debidamente identificado al contenido de la notificación",
+        "La firma electrónica del funcionario instructor",
+        "La recepción de un SMS de aviso"
+      ],
+      "correct": 1,
+      "exp": "Art. 43.1: 'A los efectos previstos en este artículo, se entiende por comparecencia en la sede electrónica, el acceso por el interesado o su representante debidamente identificado al contenido de la notificación.'",
+      "fuente": "Art. 43.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 43.2 LPAC, ¿en qué momento se entienden practicadas las notificaciones por medios electrónicos?",
+      "options": [
+        "En el momento en que se envían desde la sede electrónica",
+        "A los cinco días de su puesta a disposición, en todo caso",
+        "En el momento en que se produzca el acceso a su contenido",
+        "Cuando lo determine discrecionalmente el órgano notificante"
+      ],
+      "correct": 2,
+      "exp": "Art. 43.2: 'Las notificaciones por medios electrónicos se entenderán practicadas en el momento en que se produzca el acceso a su contenido.'",
+      "fuente": "Art. 43.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 43.2 LPAC, cuando la notificación electrónica sea de carácter obligatorio o haya sido expresamente elegida por el interesado, se entenderá rechazada cuando hayan transcurrido, sin que se acceda a su contenido:",
+      "options": [
+        "Veinte días naturales desde la puesta a disposición",
+        "Cinco días hábiles desde el envío",
+        "Un mes desde la puesta a disposición",
+        "Diez días naturales desde la puesta a disposición de la notificación"
+      ],
+      "correct": 3,
+      "exp": "Art. 43.2: '...se entenderá rechazada cuando hayan transcurrido diez días naturales desde la puesta a disposición de la notificación sin que se acceda a su contenido.'",
+      "fuente": "Art. 43.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 43.3 LPAC, ¿cómo se entiende cumplida la obligación a la que se refiere el art. 40.4 LPAC en el caso de notificaciones electrónicas?",
+      "options": [
+        "Con la puesta a disposición de la notificación en la sede electrónica de la Administración u Organismo actuante o en la dirección electrónica habilitada única",
+        "Solo si el interesado confirma expresamente la recepción",
+        "Únicamente si se remite copia adicional en papel",
+        "Cuando transcurran seis meses desde el envío"
+      ],
+      "correct": 0,
+      "exp": "Art. 43.3: 'Se entenderá cumplida la obligación a la que se refiere el artículo 40.4 con la puesta a disposición de la notificación en la sede electrónica de la Administración u Organismo actuante o en la dirección electrónica habilitada única.'",
+      "fuente": "Art. 43.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 43.4 LPAC, ¿desde dónde pueden los interesados acceder a las notificaciones?",
+      "options": [
+        "Únicamente desde la sede electrónica de cada Organismo emisor",
+        "Desde el Punto de Acceso General electrónico de la Administración, que funcionará como un portal de acceso",
+        "Desde cualquier oficina de correos",
+        "Desde el Boletín Oficial del Estado exclusivamente"
+      ],
+      "correct": 1,
+      "exp": "Art. 43.4: 'Los interesados podrán acceder a las notificaciones desde el Punto de Acceso General electrónico de la Administración, que funcionará como un portal de acceso.'",
+      "fuente": "Art. 43.4 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 43.1 LPAC, la notificación electrónica puede practicarse mediante comparecencia en sede electrónica, a través de la dirección electrónica habilitada única, o:",
+      "options": [
+        "Mediante llamada telefónica grabada",
+        "Mediante correo postal certificado con acuse",
+        "Mediante ambos sistemas, según disponga cada Administración u Organismo",
+        "Mediante fax oficial habilitado"
+      ],
+      "correct": 2,
+      "exp": "Art. 43.1 permite practicar la notificación 'mediante ambos sistemas, según disponga cada Administración u Organismo'.",
+      "fuente": "Art. 43.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 43.2 LPAC, la regla del rechazo tácito por el transcurso de diez días naturales sin acceder al contenido se aplica cuando la notificación electrónica:",
+      "options": [
+        "Se practique en el marco de un procedimiento sancionador",
+        "Se refiera a un acto de trámite no cualificado",
+        "Sea la primera que recibe el interesado",
+        "Sea de carácter obligatorio o haya sido expresamente elegida por el interesado"
+      ],
+      "correct": 3,
+      "exp": "Art. 43.2: 'Cuando la notificación por medios electrónicos sea de carácter obligatorio, o haya sido expresamente elegida por el interesado, se entenderá rechazada cuando hayan transcurrido diez días naturales...'",
+      "fuente": "Art. 43.2 LPAC",
+      "confianza": "alta"
+    }
+  ]
+}
