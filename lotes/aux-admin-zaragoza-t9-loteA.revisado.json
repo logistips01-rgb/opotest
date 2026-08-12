@@ -1,0 +1,607 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 9,
+  "tramo": "LCSP arts. 1 a 38 (Título Preliminar y Libro Primero, Título I)",
+  "preguntas": [
+    {
+      "q": "Según el artículo 1.1 LCSP, ¿cuál de los siguientes NO es uno de los principios que la ley garantiza en la contratación del sector público?",
+      "options": [
+        "Libertad de acceso a las licitaciones",
+        "Confidencialidad absoluta de todas las ofertas presentadas",
+        "Publicidad y transparencia de los procedimientos",
+        "No discriminación e igualdad de trato entre los licitadores"
+      ],
+      "correct": 1,
+      "exp": "El art. 1.1 LCSP garantiza la libertad de acceso a las licitaciones, la publicidad y transparencia de los procedimientos, y la no discriminación e igualdad de trato entre licitadores; no menciona una confidencialidad absoluta de las ofertas.",
+      "fuente": "Art. 1.1 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 1.1 releído: cita libertad de acceso, publicidad/transparencia y no discriminación; no menciona confidencialidad de ofertas."
+    },
+    {
+      "q": "El artículo 1.3 LCSP establece que los criterios sociales y medioambientales en la contratación pública deben incorporarse...",
+      "options": [
+        "De manera transversal y preceptiva, siempre que guarden relación con el objeto del contrato",
+        "Únicamente cuando lo solicite expresamente el contratista",
+        "De forma potestativa y solo en los contratos de obras",
+        "Solo en los contratos sujetos a regulación armonizada"
+      ],
+      "correct": 0,
+      "exp": "El art. 1.3 LCSP dispone que en toda contratación pública se incorporarán de manera transversal y preceptiva criterios sociales y medioambientales, siempre que guarden relación con el objeto del contrato.",
+      "fuente": "Art. 1.3 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 1.3 releído: confirma incorporación transversal y preceptiva de criterios sociales/medioambientales cuando guarden relación con el objeto."
+    },
+    {
+      "q": "Conforme al art. 2.1 LCSP, ¿cuándo se entiende que un contrato tiene carácter oneroso?",
+      "options": [
+        "Cuando el contratista obtenga algún tipo de beneficio económico, directo o indirecto",
+        "Cuando el contrato tenga una duración superior a un año",
+        "Cuando el valor estimado supere los umbrales de regulación armonizada",
+        "Cuando intervenga más de un poder adjudicador"
+      ],
+      "correct": 0,
+      "exp": "El art. 2.1, segundo párrafo, LCSP señala que se entenderá que un contrato tiene carácter oneroso cuando el contratista obtenga algún tipo de beneficio económico, directo o indirecto.",
+      "fuente": "Art. 2.1 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 2.1 releído (2º párrafo del apartado): confirma que el carácter oneroso surge cuando el contratista obtiene beneficio económico directo o indirecto."
+    },
+    {
+      "q": "Según el art. 2.2 LCSP, ¿qué contratos quedan también sujetos a la ley, además de los que celebran las entidades del art. 3?",
+      "options": [
+        "Los contratos subvencionados por entidades con la consideración de poderes adjudicadores, en los supuestos del art. 23",
+        "Los contratos celebrados entre particulares sin ninguna subvención pública",
+        "Todos los contratos privados sin excepción",
+        "Únicamente los contratos de obras subvencionados por la Unión Europea"
+      ],
+      "correct": 0,
+      "exp": "El art. 2.2 LCSP sujeta también a la ley los contratos subvencionados por entidades con la consideración de poderes adjudicadores, celebrados por otras personas físicas o jurídicas, en los supuestos del art. 23 relativo a los contratos subvencionados sujetos a regulación armonizada.",
+      "fuente": "Art. 2.2 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 2.2 releído: confirma sujeción de contratos subvencionados por poderes adjudicadores en los supuestos del art. 23."
+    },
+    {
+      "q": "El art. 3.1.h) LCSP incluye entre las entidades del sector público a las sociedades mercantiles cuando la participación pública, directa o indirecta, en su capital social sea...",
+      "options": [
+        "Superior al 50 por 100",
+        "Igual o superior al 25 por 100",
+        "Superior al 33 por 100",
+        "Del 100 por 100, sin excepciones"
+      ],
+      "correct": 0,
+      "exp": "El art. 3.1.h) LCSP considera parte del sector público a las sociedades mercantiles en cuyo capital social la participación, directa o indirecta, de las entidades mencionadas en las letras anteriores sea superior al 50 por 100.",
+      "fuente": "Art. 3.1.h) LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 3.1.h) releído: confirma el umbral 'superior al 50 por 100' de participación pública, directa o indirecta."
+    },
+    {
+      "q": "¿Cuál de las siguientes entidades NO tiene la consideración de poder adjudicador conforme al art. 3.3 LCSP?",
+      "options": [
+        "Una sociedad mercantil de capital mayoritariamente privado que no cumple ninguno de los requisitos del apartado 3",
+        "Las Administraciones Públicas",
+        "Las fundaciones públicas",
+        "Las Mutuas colaboradoras con la Seguridad Social"
+      ],
+      "correct": 0,
+      "exp": "El art. 3.3 LCSP considera poderes adjudicadores a las Administraciones Públicas, las fundaciones públicas, las Mutuas colaboradoras con la Seguridad Social y las entidades creadas para satisfacer necesidades de interés general no industrial ni mercantil que cumplan determinados requisitos de financiación, control o nombramiento mayoritario; una sociedad de capital mayoritariamente privado que no cumpla esos requisitos no tiene tal consideración.",
+      "fuente": "Art. 3.3 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 3.3 releído: enumera AAPP, fundaciones públicas, Mutuas y entidades de interés general con los requisitos del apartado; una sociedad mayoritariamente privada sin esos requisitos queda fuera."
+    },
+    {
+      "q": "Según el art. 5.2 LCSP, los contratos de obras, suministros y servicios que se celebren en el ámbito de la seguridad o la defensa comprendidos en la Ley 24/2011...",
+      "options": [
+        "Quedan excluidos del ámbito de la LCSP",
+        "Se rigen siempre por la LCSP sin excepción",
+        "Solo quedan excluidos si superan los umbrales de regulación armonizada",
+        "Quedan excluidos únicamente si los adjudica el Ministerio de Defensa"
+      ],
+      "correct": 0,
+      "exp": "El art. 5.2 LCSP excluye del ámbito de la ley los contratos de obras, suministros y servicios del ámbito de la seguridad o la defensa comprendidos en la Ley 24/2011, de 1 de agosto, de contratos del sector público en los ámbitos de la defensa y la seguridad.",
+      "fuente": "Art. 5.2 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 5.2 releído: confirma exclusión de los contratos de obras, suministros y servicios de defensa/seguridad comprendidos en la Ley 24/2011."
+    },
+    {
+      "q": "El art. 6.1.a) LCSP presume que existe 'vocación de mercado' -lo que impediría excluir el convenio- cuando la entidad realiza en el mercado abierto un porcentaje de las actividades objeto de colaboración igual o superior a:",
+      "options": [
+        "El 20 por ciento",
+        "El 10 por ciento",
+        "El 50 por ciento",
+        "El 80 por ciento"
+      ],
+      "correct": 0,
+      "exp": "El art. 6.1.a) LCSP presume vocación de mercado cuando se realiza en el mercado abierto un porcentaje igual o superior al 20 por ciento de las actividades objeto de colaboración.",
+      "fuente": "Art. 6.1.a) LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 6.1.a) releído: confirma el umbral del 20 por ciento para presumir vocación de mercado."
+    },
+    {
+      "q": "Según el art. 8 LCSP, los contratos de investigación y desarrollo quedan excluidos de la ley salvo que, estando incluidos en determinados códigos CPV, cumplan dos condiciones. ¿Cuáles?",
+      "options": [
+        "Que los beneficios pertenezcan exclusivamente al poder adjudicador y que el servicio sea remunerado íntegramente por este",
+        "Que el contrato supere los umbrales de regulación armonizada y sea adjudicado por procedimiento abierto",
+        "Que el contratista sea una universidad pública y el plazo no exceda de un año",
+        "Que el objeto se refiera a programas informáticos y el valor estimado sea inferior a 100.000 euros"
+      ],
+      "correct": 0,
+      "exp": "El art. 8 LCSP exige, para que estos contratos de I+D no queden excluidos, que los beneficios pertenezcan exclusivamente al poder adjudicador para su utilización en su propia actividad, y que el servicio prestado sea remunerado íntegramente por el poder adjudicador.",
+      "fuente": "Art. 8 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 8 releído: confirma las dos condiciones textuales (beneficios exclusivos del poder adjudicador y remuneración íntegra) para no excluir los contratos de I+D con esos CPV."
+    },
+    {
+      "q": "Conforme al art. 11.1 LCSP, ¿qué relación jurídica queda excluida del ámbito de la ley?",
+      "options": [
+        "La relación de servicio de los funcionarios públicos y los contratos regulados en la legislación laboral",
+        "Los contratos de suministro de material informático a las Administraciones Públicas",
+        "Los contratos de obras de conservación de carreteras",
+        "Los contratos de servicios jurídicos prestados por abogados de plantilla de la Administración"
+      ],
+      "correct": 0,
+      "exp": "El art. 11.1 LCSP excluye del ámbito de la ley la relación de servicio de los funcionarios públicos y los contratos regulados en la legislación laboral.",
+      "fuente": "Art. 11.1 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 11.1 releído: confirma la exclusión de la relación de servicio de funcionarios y los contratos de legislación laboral."
+    },
+    {
+      "q": "Según el art. 11.5 LCSP, ¿qué contratos relacionados con campañas políticas quedan excluidos de la ley?",
+      "options": [
+        "Los que tengan por objeto servicios relacionados con campañas políticas, incluidos en determinados códigos CPV, cuando sean adjudicados por un partido político",
+        "Todos los contratos de publicidad institucional de cualquier Administración",
+        "Los contratos de servicios de comunicación adjudicados por medios públicos de radiodifusión",
+        "Los contratos de suministro de material electoral adjudicados por las Juntas Electorales"
+      ],
+      "correct": 0,
+      "exp": "El art. 11.5 LCSP excluye los contratos que tengan por objeto servicios relacionados con campañas políticas, incluidos en los códigos CPV 79341400-0, 92111230-3 y 92111240-6, cuando sean adjudicados por un partido político.",
+      "fuente": "Art. 11.5 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 11.5 releído: confirma la exclusión con los códigos CPV 79341400-0, 92111230-3 y 92111240-6 cuando adjudica un partido político."
+    },
+    {
+      "q": "Según el art. 12.1 LCSP, ¿cuántos tipos de contratos se califican de acuerdo con las normas de la Sección 1.ª (delimitación de los tipos contractuales)?",
+      "options": [
+        "Cinco: obras, concesión de obras, concesión de servicios, suministro y servicios",
+        "Tres: obras, suministro y servicios",
+        "Cuatro: obras, concesión de obras, suministro y servicios",
+        "Seis, incluyendo también los contratos mixtos como tipo autónomo"
+      ],
+      "correct": 0,
+      "exp": "El art. 12.1 LCSP califica según esta sección los contratos de obras, concesión de obras, concesión de servicios, suministro y servicios que celebren las entidades del sector público, es decir, cinco tipos.",
+      "fuente": "Art. 12.1 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 12.1 releído: confirma los cinco tipos contractuales (obras, concesión de obras, concesión de servicios, suministro y servicios)."
+    },
+    {
+      "q": "Conforme al art. 13.3 LCSP, los contratos de obras se referirán, con carácter general, a una obra completa, entendida como aquella que:",
+      "options": [
+        "Es susceptible de ser entregada al uso general o al servicio correspondiente",
+        "Tiene un presupuesto superior a 5.404.000 euros",
+        "Se ejecuta en un plazo no superior a un año",
+        "Se adjudica siempre por procedimiento abierto"
+      ],
+      "correct": 0,
+      "exp": "El art. 13.3 LCSP define la obra completa como la susceptible de ser entregada al uso general o al servicio correspondiente, comprendiendo todos los elementos precisos para su utilización.",
+      "fuente": "Art. 13.3 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 13.3 releído: confirma la definición de obra completa como la susceptible de ser entregada al uso general o al servicio correspondiente."
+    },
+    {
+      "q": "En el contrato de concesión de obras, según el art. 14.1 LCSP, la contraprestación a favor del concesionario consiste en:",
+      "options": [
+        "El derecho a explotar la obra, únicamente, o bien dicho derecho acompañado del de percibir un precio",
+        "Un precio cierto abonado íntegramente por la Administración al finalizar la obra",
+        "Un canon fijo anual independiente de la explotación",
+        "La cesión en propiedad de la obra construida"
+      ],
+      "correct": 0,
+      "exp": "El art. 14.1 LCSP establece que la contraprestación a favor del concesionario consiste, o bien únicamente en el derecho a explotar la obra, o bien en dicho derecho acompañado del de percibir un precio.",
+      "fuente": "Art. 14.1 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 14.1 releído: confirma que la contraprestación del concesionario es el derecho a explotar la obra, solo o con precio."
+    },
+    {
+      "q": "El riesgo operacional que debe transferirse al concesionario en la concesión de obras, según el art. 14.4 LCSP, puede abarcar:",
+      "options": [
+        "El riesgo de demanda o el de suministro, o ambos",
+        "Únicamente el riesgo de expropiación de los terrenos",
+        "El riesgo de tipo de cambio de la moneda extranjera",
+        "Solo el riesgo de fuerza mayor"
+      ],
+      "correct": 0,
+      "exp": "El art. 14.4 LCSP exige que el derecho de explotación implique la transferencia al concesionario de un riesgo operacional que abarque el riesgo de demanda o el de suministro, o ambos.",
+      "fuente": "Art. 14.4 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 14.4 releído: confirma que el riesgo operacional abarca el riesgo de demanda o de suministro, o ambos."
+    },
+    {
+      "q": "Según el art. 15.1 LCSP, en el contrato de concesión de servicios la contrapartida a favor del concesionario viene constituida por:",
+      "options": [
+        "El derecho a explotar los servicios objeto del contrato, o bien dicho derecho acompañado del de percibir un precio",
+        "Exclusivamente un precio cierto fijado en el pliego",
+        "Una subvención anual a fondo perdido",
+        "La titularidad definitiva del servicio público"
+      ],
+      "correct": 0,
+      "exp": "El art. 15.1 LCSP define el contrato de concesión de servicios como aquel cuya contrapartida viene constituida bien por el derecho a explotar los servicios, bien por dicho derecho acompañado del de percibir un precio.",
+      "fuente": "Art. 15.1 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 15.1 releído: confirma que la contrapartida es el derecho a explotar el servicio, solo o con precio."
+    },
+    {
+      "q": "Conforme al art. 16.1 LCSP, son contratos de suministro los que tienen por objeto:",
+      "options": [
+        "La adquisición, el arrendamiento financiero o el arrendamiento, con o sin opción de compra, de productos o bienes muebles",
+        "La ejecución de obras de construcción o ingeniería civil",
+        "La prestación de un servicio consistente en una actividad de hacer",
+        "La gestión de un servicio público de titularidad de la Administración"
+      ],
+      "correct": 0,
+      "exp": "El art. 16.1 LCSP define el contrato de suministro como el que tiene por objeto la adquisición, el arrendamiento financiero, o el arrendamiento con o sin opción de compra, de productos o bienes muebles.",
+      "fuente": "Art. 16.1 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 16.1 releído: confirma el objeto del contrato de suministro (adquisición, arrendamiento financiero o arrendamiento de bienes muebles)."
+    },
+    {
+      "q": "Según el art. 17 LCSP, los contratos de servicios no pueden tener por objeto:",
+      "options": [
+        "Servicios que impliquen ejercicio de la autoridad inherente a los poderes públicos",
+        "Servicios de limpieza de edificios administrativos",
+        "Servicios de mantenimiento informático",
+        "Servicios de traducción e interpretación"
+      ],
+      "correct": 0,
+      "exp": "El art. 17 LCSP dispone que no podrán ser objeto de los contratos de servicios aquellos que impliquen ejercicio de la autoridad inherente a los poderes públicos.",
+      "fuente": "Art. 17 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 17 releído: confirma que no pueden ser objeto de contrato de servicios los que impliquen ejercicio de autoridad inherente a poderes públicos."
+    },
+    {
+      "q": "En un contrato mixto, según el art. 18.3 LCSP, cuando uno de sus elementos sea una obra y esta supere los 50.000 euros, será necesario:",
+      "options": [
+        "Elaborar el correspondiente proyecto y tramitarlo conforme a los artículos 231 y siguientes de la LCSP",
+        "Adjudicar el contrato exclusivamente por procedimiento negociado",
+        "Dividir obligatoriamente el contrato en dos contratos independientes",
+        "Solicitar autorización previa del Consejo de Ministros"
+      ],
+      "correct": 0,
+      "exp": "El art. 18.3 LCSP exige que, cuando un elemento del contrato mixto sea una obra que supere los 50.000 euros, se elabore el correspondiente proyecto y se tramite conforme a los artículos 231 y siguientes de la ley.",
+      "fuente": "Art. 18.3 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 18.3 releído: confirma el umbral de 50.000 euros para exigir proyecto y tramitación conforme a los arts. 231 y ss."
+    },
+    {
+      "q": "Según el art. 19.1 LCSP, un contrato de obras, suministro o servicios queda sujeto a regulación armonizada cuando su valor estimado, calculado conforme al art. 101, sea igual o superior a las cuantías establecidas, siempre que:",
+      "options": [
+        "La entidad contratante tenga el carácter de poder adjudicador",
+        "El contrato se adjudique por procedimiento abierto",
+        "El contratista sea una pequeña o mediana empresa",
+        "El contrato tenga una duración superior a cuatro años"
+      ],
+      "correct": 0,
+      "exp": "El art. 19.1 LCSP condiciona la sujeción a regulación armonizada, además de al valor estimado, a que la entidad contratante tenga el carácter de poder adjudicador.",
+      "fuente": "Art. 19.1 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 19.1 releído: confirma que la sujeción a regulación armonizada exige, además del valor estimado, que la entidad tenga carácter de poder adjudicador."
+    },
+    {
+      "q": "Según el art. 20.1 LCSP, están sujetos a regulación armonizada los contratos de obras, de concesión de obras y de concesión de servicios cuyo valor estimado sea igual o superior a:",
+      "options": [
+        "5.404.000 euros",
+        "1.000.000 de euros",
+        "216.000 euros",
+        "750.000 euros"
+      ],
+      "correct": 0,
+      "exp": "El art. 20.1 LCSP fija en 5.404.000 euros (cuantía vigente tras su última actualización) el umbral de regulación armonizada para los contratos de obras, de concesión de obras y de concesión de servicios.",
+      "fuente": "Art. 20.1 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 20.1 releído (última actualización, en vigor 01/01/2026, Orden HAC/1517/2025): confirma el umbral de 5.404.000 euros para obras, concesión de obras y concesión de servicios."
+    },
+    {
+      "q": "Según el art. 21.1.a) LCSP, están sujetos a regulación armonizada los contratos de suministro adjudicados por la Administración General del Estado, sus Organismos Autónomos, o las Entidades Gestoras y Servicios Comunes de la Seguridad Social, cuyo valor estimado sea igual o superior a:",
+      "options": [
+        "140.000 euros",
+        "216.000 euros",
+        "750.000 euros",
+        "5.404.000 euros"
+      ],
+      "correct": 0,
+      "exp": "El art. 21.1.a) LCSP fija en 140.000 euros el umbral de regulación armonizada para los contratos de suministro adjudicados por la Administración General del Estado, sus Organismos Autónomos, o las Entidades Gestoras y Servicios Comunes de la Seguridad Social.",
+      "fuente": "Art. 21.1.a) LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 21.1.a) releído (misma actualización 01/01/2026): confirma el umbral de 140.000 euros para suministro de AGE, OO.AA. y Seguridad Social."
+    },
+    {
+      "q": "Según el art. 21.1.b) LCSP, el umbral de regulación armonizada para los contratos de suministro distintos, por razón del sujeto contratante o de su objeto, de los del apartado a), es de:",
+      "options": [
+        "216.000 euros",
+        "140.000 euros",
+        "100.000 euros",
+        "5.404.000 euros"
+      ],
+      "correct": 0,
+      "exp": "El art. 21.1.b) LCSP establece el umbral de 216.000 euros para los contratos de suministro distintos, por razón del sujeto contratante o de su objeto, de los contemplados en la letra a).",
+      "fuente": "Art. 21.1.b) LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 21.1.b) releído (misma actualización 01/01/2026): confirma el umbral de 216.000 euros para el resto de contratos de suministro."
+    },
+    {
+      "q": "Según el art. 22.1.c) LCSP, los contratos de servicios que tengan por objeto los servicios sociales y otros servicios específicos del anexo IV están sujetos a regulación armonizada cuando su valor estimado sea igual o superior a:",
+      "options": [
+        "750.000 euros",
+        "216.000 euros",
+        "140.000 euros",
+        "1.000.000 de euros"
+      ],
+      "correct": 0,
+      "exp": "El art. 22.1.c) LCSP fija en 750.000 euros el umbral de regulación armonizada para los contratos que tengan por objeto los servicios sociales y otros servicios específicos enumerados en el anexo IV.",
+      "fuente": "Art. 22.1.c) LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 22.1.c) releído (misma actualización 01/01/2026): confirma el umbral de 750.000 euros para servicios sociales y otros del anexo IV."
+    },
+    {
+      "q": "Según el art. 23.1 LCSP, para que un contrato de obras sea 'subvencionado sujeto a regulación armonizada', debe estar subvencionado, de forma directa, en más de:",
+      "options": [
+        "El 50 por 100 de su importe, por entidades con la consideración de poderes adjudicadores",
+        "El 20 por 100 de su importe, por cualquier entidad pública",
+        "El 80 por 100 de su importe, por la Unión Europea",
+        "El 30 por 100 de su importe, por una Comunidad Autónoma"
+      ],
+      "correct": 0,
+      "exp": "El art. 23.1 LCSP exige que el contrato esté subvencionado, de forma directa y en más de un 50 por 100 de su importe, por entidades que tengan la consideración de poderes adjudicadores.",
+      "fuente": "Art. 23.1 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 23.1 releído: confirma el umbral de subvención directa superior al 50 por 100 por entidades con consideración de poder adjudicador."
+    },
+    {
+      "q": "Conforme al art. 24 LCSP, los contratos del sector público podrán estar sometidos a un régimen jurídico de:",
+      "options": [
+        "Derecho administrativo o de derecho privado",
+        "Derecho administrativo, exclusivamente",
+        "Derecho privado, exclusivamente, salvo los contratos menores",
+        "Derecho comunitario, con carácter subsidiario del derecho interno"
+      ],
+      "correct": 0,
+      "exp": "El art. 24 LCSP dispone que los contratos del sector público podrán estar sometidos a un régimen jurídico de derecho administrativo o de derecho privado.",
+      "fuente": "Art. 24 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 24 releído: confirma que el régimen jurídico puede ser de derecho administrativo o de derecho privado."
+    },
+    {
+      "q": "Según el art. 25.1.a) LCSP, tendrán carácter administrativo, siempre que se celebren por una Administración Pública, los contratos de:",
+      "options": [
+        "Obra, concesión de obra, concesión de servicios, suministro y servicios (con las excepciones que la propia ley establece)",
+        "Únicamente los contratos de obras y suministro",
+        "Todos los contratos, sin excepción alguna",
+        "Solo los contratos declarados expresamente administrativos por una ley"
+      ],
+      "correct": 0,
+      "exp": "El art. 25.1.a) LCSP califica como administrativos, cuando los celebra una Administración Pública, los contratos de obra, concesión de obra, concesión de servicios, suministro y servicios, salvo las excepciones que el propio precepto contempla.",
+      "fuente": "Art. 25.1.a) LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 25.1.a) releído: confirma el carácter administrativo de los cinco tipos contractuales celebrados por Administración Pública, con las excepciones que el propio precepto fija."
+    },
+    {
+      "q": "Según el art. 25.1.a).1º LCSP, aun siendo celebrados por una Administración Pública, tendrán carácter privado los contratos de servicios que tengan por objeto:",
+      "options": [
+        "Servicios financieros con determinados códigos CPV, y la creación e interpretación artística y literaria y los espectáculos",
+        "Servicios de limpieza de dependencias administrativas",
+        "Servicios de seguridad y vigilancia de edificios públicos",
+        "Servicios de asesoramiento jurídico externo"
+      ],
+      "correct": 0,
+      "exp": "El art. 25.1.a).1º LCSP califica de privados, pese a ser celebrados por una Administración Pública, a los contratos de servicios financieros con número de referencia CPV de 66100000-1 a 66720000-3, y a los que tengan por objeto la creación e interpretación artística y literaria y los espectáculos.",
+      "fuente": "Art. 25.1.a).1º LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 25.1.a).1º releído: confirma el carácter privado de los servicios financieros con esos CPV y de la creación e interpretación artística/literaria y espectáculos."
+    },
+    {
+      "q": "Según el art. 26.1.b) LCSP, tendrán la consideración de contratos privados los celebrados por entidades del sector público que:",
+      "options": [
+        "Siendo poder adjudicador, no reúnan la condición de Administraciones Públicas",
+        "Sean Administraciones Públicas, cualquiera que sea su objeto",
+        "Tengan la condición de poder adjudicador y de Administración Pública simultáneamente",
+        "Sean sociedades mercantiles con capital íntegramente privado"
+      ],
+      "correct": 0,
+      "exp": "El art. 26.1.b) LCSP considera contratos privados los celebrados por entidades del sector público que, siendo poder adjudicador, no reúnan la condición de Administraciones Públicas.",
+      "fuente": "Art. 26.1.b) LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 26.1.b) releído: confirma que son privados los contratos de entes que, siendo poder adjudicador, no son Administración Pública."
+    },
+    {
+      "q": "Según el art. 27.1.a) LCSP, será competencia del orden jurisdiccional contencioso-administrativo:",
+      "options": [
+        "Lo relativo a la preparación, adjudicación, efectos, modificación y extinción de los contratos administrativos",
+        "Las controversias sobre los efectos y extinción de los contratos privados de poderes adjudicadores",
+        "Las cuestiones litigiosas relativas a la financiación privada de la concesión de obra pública",
+        "Los litigios entre contratistas privados sin intervención de la Administración"
+      ],
+      "correct": 0,
+      "exp": "El art. 27.1.a) LCSP atribuye al orden contencioso-administrativo las cuestiones relativas a la preparación, adjudicación, efectos, modificación y extinción de los contratos administrativos.",
+      "fuente": "Art. 27.1.a) LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 27.1.a) releído: confirma la competencia contencioso-administrativa sobre preparación, adjudicación, efectos, modificación y extinción de contratos administrativos."
+    },
+    {
+      "q": "Según el art. 28.1 LCSP, las entidades del sector público:",
+      "options": [
+        "No podrán celebrar otros contratos que aquellos que sean necesarios para el cumplimiento y realización de sus fines institucionales",
+        "Podrán celebrar cualquier contrato siempre que exista crédito presupuestario disponible",
+        "Deberán celebrar al menos un contrato de obras cada ejercicio presupuestario",
+        "Solo podrán contratar mediante procedimiento abierto"
+      ],
+      "correct": 0,
+      "exp": "El art. 28.1 LCSP, sobre necesidad e idoneidad del contrato, establece que las entidades del sector público no podrán celebrar otros contratos que aquellos que sean necesarios para el cumplimiento y realización de sus fines institucionales.",
+      "fuente": "Art. 28.1 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 28.1 releído: confirma que las entidades del sector público solo pueden celebrar los contratos necesarios para sus fines institucionales."
+    },
+    {
+      "q": "Según el art. 29.2 LCSP, la prórroga de un contrato será obligatoria para el empresario siempre que el preaviso se produzca, salvo mayor plazo en el pliego, con una antelación mínima de:",
+      "options": [
+        "Dos meses a la finalización del plazo de duración del contrato",
+        "Un mes a la finalización del plazo de duración del contrato",
+        "Quince días a la finalización del plazo de duración del contrato",
+        "Seis meses a la finalización del plazo de duración del contrato"
+      ],
+      "correct": 0,
+      "exp": "El art. 29.2 LCSP exige que el preaviso de la prórroga se produzca al menos con dos meses de antelación a la finalización del plazo de duración del contrato, salvo que el pliego establezca uno mayor.",
+      "fuente": "Art. 29.2 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 29.2 releído: confirma el preaviso mínimo de dos meses para que la prórroga sea obligatoria para el empresario."
+    },
+    {
+      "q": "Según el art. 29.4 LCSP, los contratos de suministros y de servicios de prestación sucesiva tendrán, con carácter general, un plazo máximo de duración -incluidas las posibles prórrogas- de:",
+      "options": [
+        "Cinco años",
+        "Tres años",
+        "Diez años",
+        "Un año"
+      ],
+      "correct": 0,
+      "exp": "El art. 29.4 LCSP fija en cinco años el plazo máximo de duración de los contratos de suministros y de servicios de prestación sucesiva, incluyendo las posibles prórrogas.",
+      "fuente": "Art. 29.4 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 29.4 releído: confirma el plazo máximo general de cinco años (incluidas prórrogas) para suministros y servicios de prestación sucesiva."
+    },
+    {
+      "q": "Según el art. 29.6.a) LCSP, la duración máxima de los contratos de concesión de obras (y de concesión de servicios que comprendan ejecución de obras y explotación de servicio), incluidas las prórrogas, no podrá exceder de:",
+      "options": [
+        "Cuarenta años",
+        "Veinticinco años",
+        "Diez años",
+        "Cincuenta años"
+      ],
+      "correct": 0,
+      "exp": "El art. 29.6.a) LCSP fija en cuarenta años la duración máxima, incluidas las prórrogas, de los contratos de concesión de obras y de concesión de servicios que comprendan la ejecución de obras y la explotación del servicio.",
+      "fuente": "Art. 29.6.a) LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 29.6.a) releído: confirma el máximo de cuarenta años para concesión de obras y concesión de servicios que incluyan ejecución de obras y explotación de servicio."
+    },
+    {
+      "q": "Según el art. 29.8 LCSP, los contratos menores:",
+      "options": [
+        "No podrán tener una duración superior a un año ni ser objeto de prórroga",
+        "Podrán prorrogarse hasta un máximo de dos años",
+        "Tendrán una duración mínima de seis meses",
+        "Podrán prorrogarse tácitamente por periodos anuales"
+      ],
+      "correct": 0,
+      "exp": "El art. 29.8 LCSP establece que los contratos menores, definidos en el art. 118.1, no podrán tener una duración superior a un año ni ser objeto de prórroga.",
+      "fuente": "Art. 29.8 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 29.8 releído: confirma que los contratos menores no podrán tener duración superior a un año ni ser objeto de prórroga."
+    },
+    {
+      "q": "Según el art. 30.4, párrafo segundo, LCSP, en los supuestos de ejecución de obras por la Administración con colaboración de empresarios particulares de las letras a) y b) del apartado 1, dicha colaboración no podrá sobrepasar:",
+      "options": [
+        "El 60 por ciento del importe total del proyecto",
+        "El 20 por ciento del importe total del proyecto",
+        "El 80 por ciento del importe total del proyecto",
+        "El 50 por ciento del importe total del proyecto"
+      ],
+      "correct": 0,
+      "exp": "El art. 30.4 LCSP dispone que, en los supuestos de obras de las letras a) y b) del apartado 1, la contratación con colaboradores no podrá sobrepasar el 60 por ciento del importe total del proyecto.",
+      "fuente": "Art. 30.4 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 30.4, párrafo segundo, releído: confirma el límite del 60 por ciento del importe total del proyecto para la colaboración con empresarios particulares en las letras a) y b) del apartado 1."
+    },
+    {
+      "q": "Según el art. 31.1 LCSP, las entidades del sector público pueden cooperar entre sí mediante sistemas de cooperación vertical (medios propios) u horizontal (convenios), sin que el resultado de esa cooperación:",
+      "options": [
+        "Pueda calificarse de contractual",
+        "Deba publicarse en la Plataforma de Contratación",
+        "Pueda exceder de cuatro años de duración",
+        "Requiera autorización del Consejo de Ministros en todo caso"
+      ],
+      "correct": 0,
+      "exp": "El art. 31.1 LCSP permite la cooperación vertical (mediante medios propios personificados) y horizontal (mediante convenios) entre entidades del sector público, sin que el resultado de dicha cooperación pueda calificarse de contractual.",
+      "fuente": "Art. 31.1 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 31.1 releído: confirma que la cooperación vertical u horizontal entre entidades del sector público no puede calificarse de contractual."
+    },
+    {
+      "q": "Según el art. 32.6.c) LCSP, los órganos de las entidades del sector público estatal con condición de poder adjudicador necesitarán autorización del Consejo de Ministros para un encargo a medio propio cuando el importe del gasto derivado sea igual o superior a:",
+      "options": [
+        "Doce millones de euros",
+        "Cinco millones de euros",
+        "Veinte millones de euros",
+        "Un millón de euros"
+      ],
+      "correct": 0,
+      "exp": "El art. 32.6.c) LCSP exige autorización del Consejo de Ministros cuando el importe del gasto derivado del encargo a medio propio personificado sea igual o superior a doce millones de euros.",
+      "fuente": "Art. 32.6.c) LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 32.6.c) releído: confirma el umbral de doce millones de euros para exigir autorización del Consejo de Ministros en el encargo a medio propio."
+    },
+    {
+      "q": "Según el art. 37.1 LCSP, las entidades del sector público no podrán contratar verbalmente, salvo que el contrato tenga carácter de:",
+      "options": [
+        "Emergencia, conforme al art. 120.1 LCSP",
+        "Urgencia, conforme al art. 119 LCSP",
+        "Menor, conforme al art. 118 LCSP",
+        "Confidencial, por razones de seguridad"
+      ],
+      "correct": 0,
+      "exp": "El art. 37.1 LCSP prohíbe la contratación verbal, salvo que el contrato tenga, conforme a lo señalado en el art. 120.1 LCSP, carácter de emergencia.",
+      "fuente": "Art. 37.1 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 37.1 releído: confirma la prohibición de contratar verbalmente salvo emergencia conforme al art. 120.1."
+    },
+    {
+      "q": "Según el art. 38 LCSP, los contratos celebrados por los poderes adjudicadores serán inválidos en tres supuestos. ¿Cuál de los siguientes NO es uno de ellos?",
+      "options": [
+        "Cuando el contrato haya sido objeto de una modificación no sustancial autorizada por el órgano de contratación",
+        "Cuando concurra alguna causa que invalide el contrato conforme al derecho civil",
+        "Cuando lo sea alguno de sus actos preparatorios o del procedimiento de adjudicación, por causas de derecho administrativo",
+        "Cuando la invalidez derive de la ilegalidad de su clausulado"
+      ],
+      "correct": 0,
+      "exp": "El art. 38 LCSP recoge tres supuestos de invalidez: causas de derecho civil, invalidez de actos preparatorios o del procedimiento de adjudicación por causas de derecho administrativo, e ilegalidad del clausulado; una modificación no sustancial y autorizada no es un supuesto de invalidez.",
+      "fuente": "Art. 38 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 38 releído: confirma los tres supuestos de invalidez (causas civiles, actos preparatorios/procedimiento por causas administrativas, ilegalidad del clausulado); una modificación no sustancial autorizada no figura entre ellos."
+    }
+  ]
+}
