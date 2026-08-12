@@ -1,0 +1,526 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 6,
+  "preguntas": [
+    {
+      "q": "Según el art. 34.1 LPAC, ¿por qué vías pueden producirse los actos administrativos que dicten las Administraciones Públicas?",
+      "options": [
+        "De oficio o a instancia del interesado",
+        "Únicamente de oficio, nunca a instancia de parte",
+        "Solo mediante denuncia previa de un tercero interesado",
+        "Solo tras informe preceptivo del servicio jurídico"
+      ],
+      "correct": 0,
+      "exp": "El art. 34.1 LPAC dice literalmente: 'Los actos administrativos que dicten las Administraciones Públicas, bien de oficio o a instancia del interesado...'.",
+      "fuente": "Art. 34.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 34.1 LPAC, el órgano competente que dicta un acto administrativo debe ajustarse a:",
+      "options": [
+        "Las instrucciones verbales de su superior jerárquico inmediato",
+        "Los requisitos y al procedimiento establecido",
+        "El criterio de oportunidad del funcionario instructor",
+        "Lo dispuesto por el propio interesado en su solicitud"
+      ],
+      "correct": 1,
+      "exp": "El art. 34.1 LPAC exige que el acto se produzca 'ajustándose a los requisitos y al procedimiento establecido'.",
+      "fuente": "Art. 34.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 34.2 LPAC, además de ajustarse al ordenamiento jurídico, el contenido de los actos administrativos ha de ser:",
+      "options": [
+        "Discrecional y flexible en función del caso concreto",
+        "Idéntico, en su redacción, al de la solicitud inicial del interesado",
+        "Determinado y adecuado a los fines de aquéllos",
+        "Revisable en cualquier momento por el superior jerárquico"
+      ],
+      "correct": 2,
+      "exp": "El art. 34.2 LPAC establece que el contenido de los actos 'será determinado y adecuado a los fines de aquéllos'.",
+      "fuente": "Art. 34.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 35.1 LPAC, los actos administrativos que deben motivarse llevarán:",
+      "options": [
+        "Una exposición exhaustiva de toda la normativa aplicable al caso",
+        "Únicamente la firma del titular del órgano que lo dicta",
+        "Solo la referencia al número de expediente, sin más contenido",
+        "Sucinta referencia de hechos y fundamentos de derecho"
+      ],
+      "correct": 3,
+      "exp": "El art. 35.1 LPAC dispone que los actos que enumera 'serán motivados, con sucinta referencia de hechos y fundamentos de derecho'.",
+      "fuente": "Art. 35.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuál de los siguientes actos exige motivación conforme al art. 35.1 a) LPAC?",
+      "options": [
+        "Los actos que limiten derechos subjetivos o intereses legítimos",
+        "Los actos de mero trámite que carecen de efectos jurídicos externos",
+        "Los actos favorables que no perjudican a ningún interesado",
+        "Los actos puramente internos de organización sin trascendencia externa"
+      ],
+      "correct": 0,
+      "exp": "El art. 35.1 a) LPAC exige motivar 'los actos que limiten derechos subjetivos o intereses legítimos'.",
+      "fuente": "Art. 35.1.a LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 35.1 b) LPAC, deben motivarse los actos que resuelvan procedimientos de revisión de oficio, recursos administrativos y procedimientos de arbitraje, así como:",
+      "options": [
+        "Los que se dicten dentro del plazo ordinario de resolución",
+        "Los que declaren su inadmisión",
+        "Los que confirmen íntegramente el acto recurrido sin motivación añadida",
+        "Los que se notifiquen exclusivamente por medios electrónicos"
+      ],
+      "correct": 1,
+      "exp": "El art. 35.1 b) LPAC incluye entre los actos a motivar los que resuelven esos procedimientos 'y los que declaren su inadmisión'.",
+      "fuente": "Art. 35.1.b LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 35.1 c) LPAC exige motivar los actos que:",
+      "options": [
+        "Se ajusten estrictamente al dictamen preceptivo emitido",
+        "Reproduzcan sin modificación alguna el informe técnico previo",
+        "Se separen del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos",
+        "Se dicten conforme a precedentes administrativos idénticos"
+      ],
+      "correct": 2,
+      "exp": "El art. 35.1 c) LPAC obliga a motivar 'los actos que se separen del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos'.",
+      "fuente": "Art. 35.1.c LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 35.1 d) LPAC, deben motivarse los acuerdos de suspensión de actos, cualquiera que sea el motivo de ésta, así como:",
+      "options": [
+        "La denegación de cualquier prórroga de plazo solicitada",
+        "La apertura de un período de información pública",
+        "La emisión de informes no preceptivos ni vinculantes",
+        "La adopción de medidas provisionales previstas en el artículo 56"
+      ],
+      "correct": 3,
+      "exp": "El art. 35.1 d) LPAC exige motivar los acuerdos de suspensión 'así como la adopción de medidas provisionales previstas en el artículo 56'.",
+      "fuente": "Art. 35.1.d LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 35.1 e) LPAC obliga a motivar los acuerdos de aplicación de la tramitación de urgencia, de ampliación de plazos y de:",
+      "options": [
+        "Realización de actuaciones complementarias",
+        "Notificación edictal en el boletín oficial correspondiente",
+        "Suspensión del plazo máximo para resolver",
+        "Acumulación de procedimientos conexos"
+      ],
+      "correct": 0,
+      "exp": "El art. 35.1 e) LPAC menciona los acuerdos de tramitación de urgencia, ampliación de plazos 'y de realización de actuaciones complementarias'.",
+      "fuente": "Art. 35.1.e LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 35.1 f) LPAC, deben motivarse los actos que:",
+      "options": [
+        "Admitan sin reservas cualquier prueba propuesta",
+        "Rechacen pruebas propuestas por los interesados",
+        "Amplíen de oficio el período probatorio",
+        "Ordenen la práctica de prueba de oficio"
+      ],
+      "correct": 1,
+      "exp": "El art. 35.1 f) LPAC exige motivar 'los actos que rechacen pruebas propuestas por los interesados'.",
+      "fuente": "Art. 35.1.f LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 35.1 g) LPAC exige motivación para los actos que acuerden la terminación del procedimiento por la imposibilidad material de continuarlo por causas sobrevenidas, así como los que acuerden:",
+      "options": [
+        "La ampliación del plazo máximo de resolución y notificación",
+        "La acumulación de expedientes conexos entre sí",
+        "El desistimiento por la Administración en procedimientos iniciados de oficio",
+        "La suspensión cautelar de la ejecución del acto"
+      ],
+      "correct": 2,
+      "exp": "El art. 35.1 g) LPAC incluye también 'los que acuerden el desistimiento por la Administración en procedimientos iniciados de oficio'.",
+      "fuente": "Art. 35.1.g LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 35.1 h) LPAC, deben motivarse las propuestas de resolución en los procedimientos de carácter sancionador, así como los actos que resuelvan procedimientos sancionadores o de:",
+      "options": [
+        "Revisión de oficio, exclusivamente",
+        "Concurrencia competitiva en procesos selectivos",
+        "Ejecución subsidiaria a costa del obligado",
+        "Responsabilidad patrimonial"
+      ],
+      "correct": 3,
+      "exp": "El art. 35.1 h) LPAC cita 'los actos que resuelvan procedimientos de carácter sancionador o de responsabilidad patrimonial'.",
+      "fuente": "Art. 35.1.h LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 35.1 i) LPAC exige motivar los actos que se dicten en el ejercicio de potestades discrecionales, así como:",
+      "options": [
+        "Los que deban serlo en virtud de disposición legal o reglamentaria expresa",
+        "Los que se dicten en el ejercicio de potestades regladas, sin excepción",
+        "Los que resuelvan solicitudes de acceso a la información pública",
+        "Los que aprueben instrucciones u órdenes de servicio internas"
+      ],
+      "correct": 0,
+      "exp": "El art. 35.1 i) LPAC añade 'así como los que deban serlo en virtud de disposición legal o reglamentaria expresa'.",
+      "fuente": "Art. 35.1.i LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 35.2 LPAC, la motivación de los actos que pongan fin a los procedimientos selectivos y de concurrencia competitiva se realizará conforme a las normas de sus convocatorias, debiendo en todo caso quedar acreditados en el procedimiento:",
+      "options": [
+        "Los votos particulares emitidos por el tribunal calificador",
+        "Los fundamentos de la resolución que se adopte",
+        "El currículum completo de todos los aspirantes presentados",
+        "El acta íntegra de todas las sesiones del órgano de selección"
+      ],
+      "correct": 1,
+      "exp": "El art. 35.2 LPAC exige que 'en todo caso' queden acreditados en el procedimiento 'los fundamentos de la resolución que se adopte'.",
+      "fuente": "Art. 35.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuál de los siguientes NO figura entre los supuestos de motivación obligatoria que enumera el art. 35.1 LPAC?",
+      "options": [
+        "Los actos que rechacen pruebas propuestas por los interesados",
+        "Los actos que limiten derechos subjetivos o intereses legítimos",
+        "Los actos de trámite que no produzcan indefensión ni perjuicio a derechos o intereses legítimos",
+        "Los actos que se dicten en el ejercicio de potestades discrecionales"
+      ],
+      "correct": 2,
+      "exp": "Ese supuesto no aparece entre las letras a) a i) del art. 35.1 LPAC; los otros tres sí (letras f, a e i, respectivamente).",
+      "fuente": "Art. 35.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuántos supuestos de motivación obligatoria enumera, con carácter general, el art. 35.1 LPAC en sus letras a) a i)?",
+      "options": [
+        "Siete",
+        "Ocho",
+        "Diez",
+        "Nueve"
+      ],
+      "correct": 3,
+      "exp": "El art. 35.1 LPAC enumera nueve supuestos, identificados con las letras a) a i).",
+      "fuente": "Art. 35.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 36.1 LPAC, los actos administrativos se producirán, con carácter general, por escrito a través de:",
+      "options": [
+        "Medios electrónicos",
+        "Comparecencia personal obligatoria ante el órgano",
+        "Correo postal certificado con acuse de recibo",
+        "Comunicación telefónica grabada y archivada"
+      ],
+      "correct": 0,
+      "exp": "El art. 36.1 LPAC establece que los actos 'se producirán por escrito a través de medios electrónicos'.",
+      "fuente": "Art. 36.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 36.1 LPAC, la regla general de producción por escrito a través de medios electrónicos solo cede cuando:",
+      "options": [
+        "Lo solicite expresamente el interesado en cualquier caso",
+        "La naturaleza del acto exija otra forma más adecuada de expresión y constancia",
+        "El órgano competente carezca de medios electrónicos disponibles",
+        "Se trate de un procedimiento de naturaleza sancionadora"
+      ],
+      "correct": 1,
+      "exp": "El art. 36.1 LPAC admite la excepción 'a menos que su naturaleza exija otra forma más adecuada de expresión y constancia'.",
+      "fuente": "Art. 36.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 36.2 LPAC, cuando un órgano administrativo ejerza su competencia de forma verbal, la constancia escrita del acto, cuando sea necesaria, se efectuará y firmará por:",
+      "options": [
+        "El interesado que recibió la orden verbal",
+        "El secretario general de la Corporación, en todo caso",
+        "El titular del órgano inferior o funcionario que la reciba oralmente",
+        "Un notario habilitado al efecto por la Administración"
+      ],
+      "correct": 2,
+      "exp": "El art. 36.2 LPAC atribuye esa constancia escrita 'al titular del órgano inferior o funcionario que la reciba oralmente'.",
+      "fuente": "Art. 36.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 36.2 LPAC, si se tratara de resoluciones dictadas de forma verbal, el titular de la competencia deberá:",
+      "options": [
+        "Ratificarlas por escrito ante el interesado en el plazo de un mes",
+        "Elevarlas a escritura pública ante notario",
+        "Comunicarlas únicamente a su superior jerárquico inmediato",
+        "Autorizar una relación de las que haya dictado de forma verbal, con expresión de su contenido"
+      ],
+      "correct": 3,
+      "exp": "El art. 36.2 LPAC exige que 'el titular de la competencia deberá autorizar una relación de las que haya dictado de forma verbal, con expresión de su contenido'.",
+      "fuente": "Art. 36.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 36.3 LPAC, cuando deba dictarse una serie de actos administrativos de la misma naturaleza, tales como nombramientos, concesiones o licencias, estos podrán:",
+      "options": [
+        "Refundirse en un único acto, acordado por el órgano competente",
+        "Delegarse siempre y en todo caso en un órgano inferior",
+        "Dictarse sin necesidad de motivación alguna",
+        "Notificarse obligatoriamente mediante edicto colectivo"
+      ],
+      "correct": 0,
+      "exp": "El art. 36.3 LPAC permite que esos actos 'podrán refundirse en un único acto, acordado por el órgano competente'.",
+      "fuente": "Art. 36.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "En el acto único de refundición previsto en el art. 36.3 LPAC, el órgano competente deberá especificar:",
+      "options": [
+        "El coste económico agregado de todos los actos refundidos",
+        "Las personas u otras circunstancias que individualicen los efectos del acto para cada interesado",
+        "El régimen de recursos aplicable de forma genérica",
+        "La fecha de caducidad común a todos los actos refundidos"
+      ],
+      "correct": 1,
+      "exp": "El art. 36.3 LPAC exige que el acto único 'especificará las personas u otras circunstancias que individualicen los efectos del acto para cada interesado'.",
+      "fuente": "Art. 36.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 36 LPAC, dentro del Capítulo I ('Requisitos de los actos administrativos') del Título III, lleva por rúbrica:",
+      "options": [
+        "Motivación",
+        "Producción y contenido",
+        "Forma",
+        "Eficacia"
+      ],
+      "correct": 2,
+      "exp": "El art. 36 LPAC se titula 'Forma' y cierra el Capítulo I del Título III de la LPAC.",
+      "fuente": "Art. 36 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Es correcto afirmar que, conforme al art. 36 LPAC, las Administraciones Públicas nunca pueden ejercer su competencia de forma verbal?",
+      "options": [
+        "Sí, el art. 36.1 LPAC prohíbe de forma absoluta cualquier forma verbal",
+        "Sí, salvo que lo autorice expresamente el Consejo de Ministros",
+        "No, pero solo se permite en los procedimientos sancionadores",
+        "No, el art. 36.2 LPAC prevé expresamente el ejercicio verbal de la competencia, exigiendo constancia escrita cuando sea necesaria"
+      ],
+      "correct": 3,
+      "exp": "El art. 36.2 LPAC regula el supuesto de que 'los órganos administrativos ejerzan su competencia de forma verbal', por lo que la prohibición absoluta es falsa.",
+      "fuente": "Art. 36.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 37.1 LPAC, las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general, principio conocido como:",
+      "options": [
+        "Inderogabilidad singular",
+        "Jerarquía normativa",
+        "Reserva de ley",
+        "Irretroactividad de las disposiciones"
+      ],
+      "correct": 0,
+      "exp": "El art. 37 LPAC, titulado 'Inderogabilidad singular', regula precisamente esa prohibición en su apartado 1.",
+      "fuente": "Art. 37.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 37.1 LPAC, la prohibición de vulnerar una disposición general mediante una resolución particular rige:",
+      "options": [
+        "Solo cuando la resolución particular proceda de un órgano de inferior jerarquía",
+        "Aunque la resolución particular proceda de un órgano de igual o superior jerarquía al que dictó la disposición general",
+        "Únicamente si ambas disposiciones emanan del mismo órgano",
+        "Solo respecto de disposiciones generales aprobadas por ley formal"
+      ],
+      "correct": 1,
+      "exp": "El art. 37.1 LPAC precisa que la prohibición opera 'aunque aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general'.",
+      "fuente": "Art. 37.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 37.2 LPAC, las resoluciones administrativas que vulneren lo establecido en una disposición reglamentaria son:",
+      "options": [
+        "Anulables",
+        "Válidas pero ineficaces mientras no se subsanen",
+        "Nulas",
+        "Simplemente irregulares, sin más consecuencias"
+      ],
+      "correct": 2,
+      "exp": "El art. 37.2 LPAC dispone: 'Son nulas las resoluciones administrativas que vulneren lo establecido en una disposición reglamentaria'.",
+      "fuente": "Art. 37.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 37.2 LPAC declara nulas las resoluciones que vulneren una disposición reglamentaria, así como aquellas que incurran en alguna de las causas recogidas en:",
+      "options": [
+        "El artículo 48 de la LPAC",
+        "El artículo 62 de la derogada Ley 30/1992",
+        "El artículo 34 de la LPAC",
+        "El artículo 47 de la propia LPAC"
+      ],
+      "correct": 3,
+      "exp": "El art. 37.2 LPAC remite a 'alguna de las causas recogidas en el artículo 47', que regula la nulidad de pleno derecho.",
+      "fuente": "Art. 37.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 38 LPAC, los actos de las Administraciones Públicas sujetos al Derecho Administrativo serán:",
+      "options": [
+        "Ejecutivos con arreglo a lo dispuesto en esta Ley",
+        "Provisionales hasta su ratificación judicial",
+        "Eficaces solo tras el transcurso de un mes desde su fecha",
+        "Recurribles únicamente en vía judicial, nunca administrativa"
+      ],
+      "correct": 0,
+      "exp": "El art. 38 LPAC establece: 'Los actos de las Administraciones Públicas sujetos al Derecho Administrativo serán ejecutivos con arreglo a lo dispuesto en esta Ley'.",
+      "fuente": "Art. 38 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 38 LPAC, que abre el Capítulo II ('Eficacia de los actos') del Título III, lleva por rúbrica:",
+      "options": [
+        "Eficacia",
+        "Ejecutividad",
+        "Efectos",
+        "Inderogabilidad singular"
+      ],
+      "correct": 1,
+      "exp": "El art. 38 LPAC se titula 'Ejecutividad' y es el primer artículo del Capítulo II del Título III de la LPAC.",
+      "fuente": "Art. 38 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿A qué actos se refiere el principio de ejecutividad regulado en el art. 38 LPAC?",
+      "options": [
+        "A todos los actos de la Administración, incluidos los sujetos al Derecho Privado",
+        "Únicamente a los actos que hayan devenido firmes en vía administrativa",
+        "A los actos de las Administraciones Públicas sujetos al Derecho Administrativo",
+        "Solo a los actos que hayan sido notificados y publicados simultáneamente"
+      ],
+      "correct": 2,
+      "exp": "El art. 38 LPAC circunscribe la ejecutividad a 'los actos de las Administraciones Públicas sujetos al Derecho Administrativo'.",
+      "fuente": "Art. 38 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 39.1 LPAC, los actos de las Administraciones Públicas sujetos al Derecho Administrativo se presumirán válidos y producirán efectos:",
+      "options": [
+        "Desde su publicación en el diario oficial correspondiente, en todo caso",
+        "Desde que adquieran firmeza en vía administrativa",
+        "Desde su notificación al interesado, sin excepción alguna",
+        "Desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa"
+      ],
+      "correct": 3,
+      "exp": "El art. 39.1 LPAC dispone que los actos 'producirán efectos desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa'.",
+      "fuente": "Art. 39.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 39.2 LPAC, la eficacia de un acto administrativo quedará demorada cuando así lo exija su contenido o esté supeditada a:",
+      "options": [
+        "Su notificación, publicación o aprobación superior",
+        "Su inscripción registral y la liquidación previa de tasas",
+        "Su ratificación por el órgano colegiado superior en pleno",
+        "El transcurso de seis meses desde su fecha de emisión"
+      ],
+      "correct": 0,
+      "exp": "El art. 39.2 LPAC señala que la eficacia se demora cuando esté 'supeditada a su notificación, publicación o aprobación superior'.",
+      "fuente": "Art. 39.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 39.3 LPAC, podrá otorgarse eficacia retroactiva a los actos administrativos, excepcionalmente, cuando se dicten en sustitución de actos anulados o cuando:",
+      "options": [
+        "Lo solicite el interesado y la Administración lo estime conveniente",
+        "Produzcan efectos favorables al interesado, si los supuestos de hecho ya existían y no lesionan derechos de terceros",
+        "Se trate de actos dictados en un procedimiento de tramitación de urgencia",
+        "El acto sustituido no hubiera sido notificado dentro de plazo"
+      ],
+      "correct": 1,
+      "exp": "El art. 39.3 LPAC admite la retroactividad excepcionalmente 'cuando produzcan efectos favorables al interesado, siempre que los supuestos de hecho necesarios existieran ya... y ésta no lesione derechos o intereses legítimos de otras personas'.",
+      "fuente": "Art. 39.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 39.3 LPAC condiciona la eficacia retroactiva favorable al interesado a que los supuestos de hecho necesarios existieran ya en la fecha a que se retrotraiga la eficacia y, además, a que:",
+      "options": [
+        "El interesado preste garantía suficiente ante la Administración",
+        "Se cuente con dictamen previo y favorable del Consejo de Estado",
+        "Dicha retroactividad no lesione derechos o intereses legítimos de otras personas",
+        "No hayan transcurrido más de tres meses desde el acto anulado"
+      ],
+      "correct": 2,
+      "exp": "El art. 39.3 LPAC exige, además, que la eficacia retroactiva 'no lesione derechos o intereses legítimos de otras personas'.",
+      "fuente": "Art. 39.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 39.4 LPAC, las normas y actos dictados por los órganos de las Administraciones Públicas en el ejercicio de su propia competencia deberán ser observados por el resto de los órganos administrativos:",
+      "options": [
+        "Solo si pertenecen a la misma Administración y dependen jerárquicamente de ella",
+        "Únicamente dentro del mismo Título o Capítulo de la ley aplicable",
+        "Solo tras su publicación conjunta en el Boletín Oficial del Estado",
+        "Aunque no dependan jerárquicamente entre sí o pertenezcan a otra Administración"
+      ],
+      "correct": 3,
+      "exp": "El art. 39.4 LPAC exige esa observancia 'aunque no dependan jerárquicamente entre sí o pertenezcan a otra Administración'.",
+      "fuente": "Art. 39.4 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 39.5 LPAC, cuando una Administración deba dictar un acto que tenga necesariamente por base otro dictado por una Administración distinta y lo considere ilegal, podrá:",
+      "options": [
+        "Requerir previamente a esa Administración para que anule o revise el acto y, de rechazarse el requerimiento, interponer recurso contencioso-administrativo",
+        "Suspender unilateralmente el acto de la otra Administración sin previo aviso",
+        "Denunciarlo directamente ante el Ministerio Fiscal",
+        "Dictar su propio acto ignorando por completo el de la otra Administración"
+      ],
+      "correct": 0,
+      "exp": "El art. 39.5 LPAC habilita a requerir previamente a la otra Administración y, de rechazarse el requerimiento, 'interponer recurso contencioso-administrativo'.",
+      "fuente": "Art. 39.5 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El requerimiento previsto en el art. 39.5 LPAC para actos que necesariamente se basan en otro de distinta Administración se formula de acuerdo con lo dispuesto en:",
+      "options": [
+        "El artículo 44 de la propia LPAC",
+        "El artículo 44 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa",
+        "El artículo 65 de la Ley 40/2015, de Régimen Jurídico del Sector Público",
+        "El artículo 124 de la Constitución Española"
+      ],
+      "correct": 1,
+      "exp": "El art. 39.5 LPAC remite expresamente al 'artículo 44 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa'.",
+      "fuente": "Art. 39.5 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 39.5 LPAC, mientras se tramita el requerimiento entre Administraciones por un acto que se considera ilegal, el procedimiento para dictar resolución quedará:",
+      "options": [
+        "Caducado de forma automática",
+        "Archivado sin más trámite",
+        "Suspendido",
+        "Acelerado por razones de urgencia"
+      ],
+      "correct": 2,
+      "exp": "El art. 39.5 LPAC concluye: 'En estos casos, quedará suspendido el procedimiento para dictar resolución'.",
+      "fuente": "Art. 39.5 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 39 LPAC, dentro del Capítulo II ('Eficacia de los actos') del Título III, lleva por rúbrica:",
+      "options": [
+        "Eficacia",
+        "Ejecutividad",
+        "Validez",
+        "Efectos"
+      ],
+      "correct": 3,
+      "exp": "El art. 39 LPAC se titula 'Efectos' y regula, entre otras cuestiones, la presunción de validez y el momento en que los actos producen efectos.",
+      "fuente": "Art. 39 LPAC",
+      "confianza": "alta"
+    }
+  ]
+}
