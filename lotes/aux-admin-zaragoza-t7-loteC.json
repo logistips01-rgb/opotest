@@ -1,0 +1,326 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 7,
+  "preguntas": [
+    {
+      "q": "Según el art. 85.1, iniciado un procedimiento sancionador, si el infractor reconoce su responsabilidad, la Administración podrá:",
+      "options": ["Resolver el procedimiento con la imposición de la sanción que proceda", "Archivar el expediente sin sanción alguna", "Suspender el procedimiento hasta que transcurra un año", "Remitir el expediente al Ministerio Fiscal obligatoriamente"],
+      "correct": 0,
+      "exp": "Art. 85.1: 'Iniciado un procedimiento sancionador, si el infractor reconoce su responsabilidad, se podrá resolver el procedimiento con la imposición de la sanción que proceda.'",
+      "fuente": "Art. 85.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 85.2, el pago voluntario por el presunto responsable, en cualquier momento anterior a la resolución, implicará la terminación del procedimiento salvo en lo relativo a:",
+      "options": ["La reposición de la situación alterada y la determinación de la indemnización por los daños y perjuicios causados por la infracción", "El pago de las costas del procedimiento", "La imposición de una sanción accesoria de inhabilitación", "La publicación de la sanción en el Boletín Oficial correspondiente"],
+      "correct": 0,
+      "exp": "Art. 85.2: el pago voluntario implicará la terminación del procedimiento, 'salvo en lo relativo a la reposición de la situación alterada o a la determinación de la indemnización por los daños y perjuicios causados por la comisión de la infracción.'",
+      "fuente": "Art. 85.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El efecto terminador del pago voluntario previsto en el art. 85.2 se aplica cuando la sanción tenga:",
+      "options": ["Únicamente carácter pecuniario, o carácter pecuniario y no pecuniario si se ha justificado la improcedencia de esta última", "Exclusivamente carácter no pecuniario", "Cualquier carácter, sin excepción alguna", "Carácter penal en todo caso"],
+      "correct": 0,
+      "exp": "Art. 85.2: se aplica 'cuando la sanción tenga únicamente carácter pecuniario o bien quepa imponer una sanción pecuniaria y otra de carácter no pecuniario pero se ha justificado la improcedencia de la segunda.'",
+      "fuente": "Art. 85.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 85.3, cuando la sanción tenga únicamente carácter pecuniario, el órgano competente para resolver aplicará reducciones sobre el importe de la sanción propuesta de, al menos:",
+      "options": ["El 20 %", "El 10 %", "El 30 %", "El 50 %"],
+      "correct": 0,
+      "exp": "Art. 85.3: 'el órgano competente para resolver el procedimiento aplicará reducciones de, al menos, el 20 % sobre el importe de la sanción propuesta.'",
+      "fuente": "Art. 85.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 85.3, las reducciones aplicables sobre el importe de la sanción propuesta son:",
+      "options": ["Acumulables entre sí", "Excluyentes entre sí, solo cabe aplicar una", "Inaplicables si el infractor es reincidente", "Discrecionales, sin mínimo legal alguno"],
+      "correct": 0,
+      "exp": "Art. 85.3: las reducciones de, al menos, el 20 % son, según la propia norma, 'acumulables entre sí.'",
+      "fuente": "Art. 85.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 85.3, las reducciones por pago voluntario en procedimientos sancionadores deberán estar determinadas en:",
+      "options": ["La notificación de iniciación del procedimiento", "La resolución final del procedimiento", "El Boletín Oficial del Estado, con carácter previo", "El pliego de condiciones del contrato administrativo"],
+      "correct": 0,
+      "exp": "Art. 85.3: 'Las citadas reducciones, deberán estar determinadas en la notificación de iniciación del procedimiento.'",
+      "fuente": "Art. 85.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 85.3, la efectividad de las reducciones por pago voluntario está condicionada a:",
+      "options": ["El desistimiento o renuncia de cualquier acción o recurso en vía administrativa contra la sanción", "La conformidad expresa del denunciante particular", "El abono previo de una fianza adicional", "La publicación de la sanción en un diario oficial"],
+      "correct": 0,
+      "exp": "Art. 85.3: 'su efectividad estará condicionada al desistimiento o renuncia de cualquier acción o recurso en vía administrativa contra la sanción.'",
+      "fuente": "Art. 85.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 85.3, el porcentaje de reducción previsto para el pago voluntario en procedimientos sancionadores:",
+      "options": ["Podrá ser incrementado reglamentariamente", "Es fijo y no puede modificarse por ninguna norma", "Solo puede reducirse, nunca incrementarse", "Requiere ley orgánica para su modificación"],
+      "correct": 0,
+      "exp": "Art. 85.3, párrafo final: 'El porcentaje de reducción previsto en este apartado podrá ser incrementado reglamentariamente.'",
+      "fuente": "Art. 85.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 86.2, los instrumentos de terminación convencional deberán establecer como contenido mínimo:",
+      "options": ["La identificación de las partes intervinientes, el ámbito personal, funcional y territorial, y el plazo de vigencia", "Únicamente la firma de las partes, sin más requisitos", "El importe económico total del acuerdo en todo caso", "La aprobación previa de las Cortes Generales"],
+      "correct": 0,
+      "exp": "Art. 86.2: 'Los citados instrumentos deberán establecer como contenido mínimo la identificación de las partes intervinientes, el ámbito personal, funcional y territorial, y el plazo de vigencia.'",
+      "fuente": "Art. 86.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 86.3, requerirán en todo caso la aprobación expresa del Consejo de Ministros u órgano equivalente de las Comunidades Autónomas los acuerdos de terminación convencional que versen sobre:",
+      "options": ["Materias de la competencia directa de dicho órgano", "Cualquier materia, sin excepción", "Materias exclusivamente tributarias", "Materias de personal al servicio de la Administración Local"],
+      "correct": 0,
+      "exp": "Art. 86.3: 'Requerirán en todo caso la aprobación expresa del Consejo de Ministros u órgano equivalente de las Comunidades Autónomas, los acuerdos que versen sobre materias de la competencia directa de dicho órgano.'",
+      "fuente": "Art. 86.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 86.4, los acuerdos de terminación convencional que se suscriban:",
+      "options": ["No supondrán alteración de las competencias atribuidas a los órganos administrativos ni de las responsabilidades de autoridades y funcionarios", "Suponen siempre una delegación de competencias del órgano firmante", "Extinguen la responsabilidad disciplinaria de los funcionarios intervinientes", "Solo pueden firmarse tras cesar en el cargo la autoridad competente"],
+      "correct": 0,
+      "exp": "Art. 86.4: 'Los acuerdos que se suscriban no supondrán alteración de las competencias atribuidas a los órganos administrativos, ni de las responsabilidades que correspondan a las autoridades y funcionarios.'",
+      "fuente": "Art. 86.4 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 86.5, en los procedimientos de responsabilidad patrimonial, el acuerdo alcanzado entre las partes en terminación convencional deberá fijar la cuantía y modo de indemnización de acuerdo con los criterios establecidos en:",
+      "options": ["El artículo 34 de la Ley de Régimen Jurídico del Sector Público", "El artículo 106 de la Constitución Española, exclusivamente", "El Código Civil, sin remisión a otra norma", "El artículo 32 de la propia Ley 39/2015"],
+      "correct": 0,
+      "exp": "Art. 86.5: 'el acuerdo alcanzado entre las partes deberá fijar la cuantía y modo de indemnización de acuerdo con los criterios que para calcularla y abonarla establece el artículo 34 de la Ley de Régimen Jurídico del Sector Público.'",
+      "fuente": "Art. 86.5 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 87, tras la notificación del acuerdo de realización de actuaciones complementarias, se concederá a los interesados un plazo para formular alegaciones de:",
+      "options": ["Siete días", "Diez días", "Quince días", "Un mes"],
+      "correct": 0,
+      "exp": "Art. 87: 'se notificará a los interesados, concediéndoseles un plazo de siete días para formular las alegaciones que tengan por pertinentes tras la finalización de las mismas.'",
+      "fuente": "Art. 87 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 87, las actuaciones complementarias deberán practicarse en un plazo no superior a:",
+      "options": ["Quince días", "Siete días", "Un mes", "Treinta días"],
+      "correct": 0,
+      "exp": "Art. 87: 'Las actuaciones complementarias deberán practicarse en un plazo no superior a quince días.'",
+      "fuente": "Art. 87 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 87, mientras se practican las actuaciones complementarias, el plazo para resolver el procedimiento:",
+      "options": ["Quedará suspendido hasta la terminación de las actuaciones complementarias", "Continúa corriendo sin ninguna alteración", "Se reduce a la mitad automáticamente", "Se reinicia desde cero al finalizar dichas actuaciones"],
+      "correct": 0,
+      "exp": "Art. 87: 'El plazo para resolver el procedimiento quedará suspendido hasta la terminación de las actuaciones complementarias.'",
+      "fuente": "Art. 87 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 87, ¿qué actuaciones NO tendrán la consideración de actuaciones complementarias?",
+      "options": ["Los informes que preceden inmediatamente a la resolución final del procedimiento", "Las pruebas periciales solicitadas de oficio", "Las alegaciones presentadas por terceros interesados", "Los informes preceptivos emitidos al inicio del procedimiento"],
+      "correct": 0,
+      "exp": "Art. 87: 'No tendrán la consideración de actuaciones complementarias los informes que preceden inmediatamente a la resolución final del procedimiento.'",
+      "fuente": "Art. 87 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 88.3, además de la decisión motivada, las resoluciones deberán expresar:",
+      "options": ["Los recursos que contra la misma procedan, el órgano ante el que hubieran de presentarse y el plazo para interponerlos", "El coste económico íntegro de la tramitación del expediente", "El nombre de todos los funcionarios que intervinieron en la instrucción", "La fecha prevista de ejecución forzosa, en todo caso"],
+      "correct": 0,
+      "exp": "Art. 88.3: 'Expresarán, además, los recursos que contra la misma procedan, órgano administrativo o judicial ante el que hubieran de presentarse y plazo para interponerlos.'",
+      "fuente": "Art. 88.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 88.4, la resolución del procedimiento se dictará:",
+      "options": ["Electrónicamente, garantizando la identidad del órgano competente y la autenticidad e integridad del documento", "Siempre en soporte papel con firma manuscrita original", "Verbalmente, con constancia posterior en acta", "Por télex o telegrama oficial"],
+      "correct": 0,
+      "exp": "Art. 88.4: 'la resolución del procedimiento se dictará electrónicamente y garantizará la identidad del órgano competente, así como la autenticidad e integridad del documento.'",
+      "fuente": "Art. 88.4 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 88.5, la Administración no podrá abstenerse de resolver so pretexto de:",
+      "options": ["Silencio, oscuridad o insuficiencia de los preceptos legales aplicables al caso", "Falta de dotación presupuestaria suficiente", "Ausencia del interesado en el trámite de audiencia", "Cambio de titular en el órgano competente"],
+      "correct": 0,
+      "exp": "Art. 88.5: 'En ningún caso podrá la Administración abstenerse de resolver so pretexto de silencio, oscuridad o insuficiencia de los preceptos legales aplicables al caso.'",
+      "fuente": "Art. 88.5 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 88.5, aun sin poder abstenerse de resolver, la Administración podrá acordar la inadmisión de las solicitudes de reconocimiento de derechos:",
+      "options": ["No previstos en el ordenamiento jurídico o manifiestamente carentes de fundamento, sin perjuicio del derecho de petición del art. 29 de la Constitución", "En cualquier caso, sin necesidad de motivación alguna", "Solo si el solicitante no dispone de asistencia letrada", "Únicamente cuando lo pida un tercero interesado"],
+      "correct": 0,
+      "exp": "Art. 88.5: podrá acordarse 'la inadmisión de las solicitudes de reconocimiento de derechos no previstos en el ordenamiento jurídico o manifiestamente carentes de fundamento, sin perjuicio del derecho de petición previsto por el artículo 29 de la Constitución.'",
+      "fuente": "Art. 88.5 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 88.6, la aceptación de informes o dictámenes servirá de motivación a la resolución cuando:",
+      "options": ["Se incorporen al texto de la misma", "Sean emitidos por un órgano colegiado, en todo caso", "El interesado preste su conformidad expresa", "Se trate de informes preceptivos y vinculantes"],
+      "correct": 0,
+      "exp": "Art. 88.6: 'La aceptación de informes o dictámenes servirá de motivación a la resolución cuando se incorporen al texto de la misma.'",
+      "fuente": "Art. 88.6 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 88.7, cuando la competencia para instruir y resolver un procedimiento no recaiga en el mismo órgano, será necesario que:",
+      "options": ["El instructor eleve al órgano competente para resolver una propuesta de resolución", "El órgano competente para resolver asuma también la instrucción de oficio", "Se archive el expediente y se inicie uno nuevo", "El interesado elija el órgano que debe resolver"],
+      "correct": 0,
+      "exp": "Art. 88.7: 'Cuando la competencia para instruir y resolver un procedimiento no recaiga en un mismo órgano, será necesario que el instructor eleve al órgano competente para resolver una propuesta de resolución.'",
+      "fuente": "Art. 88.7 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 89.1, el órgano instructor resolverá la finalización del procedimiento sancionador con archivo de las actuaciones, sin necesidad de propuesta de resolución, cuando concurra, entre otras causas:",
+      "options": ["La inexistencia de los hechos que pudieran constituir la infracción", "La falta de comparecencia del denunciante en el trámite de audiencia", "El cambio de domicilio del presunto responsable", "La acumulación del procedimiento a otro distinto"],
+      "correct": 0,
+      "exp": "Art. 89.1 a): entre las causas de archivo sin propuesta de resolución figura 'la inexistencia de los hechos que pudieran constituir la infracción.'",
+      "fuente": "Art. 89.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 89.2, una vez concluida la instrucción de un procedimiento sancionador, el órgano instructor formulará una propuesta de resolución que deberá:",
+      "options": ["Ser notificada a los interesados, indicando el plazo para formular alegaciones y presentar documentos", "Publicarse en el Boletín Oficial correspondiente en todo caso", "Remitirse directamente al órgano judicial competente", "Mantenerse confidencial hasta la resolución firme"],
+      "correct": 0,
+      "exp": "Art. 89.2: la propuesta de resolución 'deberá ser notificada a los interesados. La propuesta de resolución deberá indicar la puesta de manifiesto del procedimiento y el plazo para formular alegaciones y presentar los documentos e informaciones que se estimen pertinentes.'",
+      "fuente": "Art. 89.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 89.3, la propuesta de resolución en un procedimiento sancionador fijará de forma motivada, entre otros extremos:",
+      "options": ["Los hechos que se consideren probados, su calificación jurídica, la persona responsable y la sanción que se proponga", "Únicamente el importe final de la sanción, sin más contenido", "El nombre del instructor y su currículo profesional", "La fecha de jubilación prevista del responsable"],
+      "correct": 0,
+      "exp": "Art. 89.3: 'En la propuesta de resolución se fijarán de forma motivada los hechos que se consideren probados y su exacta calificación jurídica, se determinará la infracción... la persona o personas responsables y la sanción que se proponga.'",
+      "fuente": "Art. 89.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 90.1, la resolución en un procedimiento sancionador incluirá la valoración de las pruebas practicadas, en especial:",
+      "options": ["Aquellas que constituyan los fundamentos básicos de la decisión", "Únicamente las pruebas aportadas por el presunto responsable", "Solo las pruebas periciales, con exclusión de las demás", "Las que hubiera presentado un tercero ajeno al procedimiento"],
+      "correct": 0,
+      "exp": "Art. 90.1: la resolución 'incluirá la valoración de las pruebas practicadas, en especial aquellas que constituyan los fundamentos básicos de la decisión.'",
+      "fuente": "Art. 90.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 90.2, cuando el órgano competente para resolver considere que la infracción o sanción revisten mayor gravedad que la determinada en la propuesta de resolución, deberá:",
+      "options": ["Notificarlo al inculpado para que aporte alegaciones en el plazo de quince días", "Resolver directamente sin más trámite, aplicando la agravación", "Archivar el expediente y abrir uno nuevo", "Remitir el asunto al Consejo de Estado con carácter preceptivo"],
+      "correct": 0,
+      "exp": "Art. 90.2: cuando se considere mayor gravedad que la determinada en la propuesta, 'se notificará al inculpado para que aporte cuantas alegaciones estime convenientes en el plazo de quince días.'",
+      "fuente": "Art. 90.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 90.3, la resolución que ponga fin a un procedimiento sancionador será ejecutiva cuando:",
+      "options": ["No quepa contra ella ningún recurso ordinario en vía administrativa", "Haya transcurrido un año desde su notificación", "Lo autorice expresamente el juez de lo contencioso-administrativo", "Se publique en el diario oficial correspondiente"],
+      "correct": 0,
+      "exp": "Art. 90.3: 'La resolución que ponga fin al procedimiento será ejecutiva cuando no quepa contra ella ningún recurso ordinario en vía administrativa.'",
+      "fuente": "Art. 90.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 90.4, cuando los daños o perjuicios causados por la conducta sancionada no hubieran quedado determinados en el expediente, su cuantía se fijará mediante:",
+      "options": ["Un procedimiento complementario, cuya resolución será inmediatamente ejecutiva", "Un nuevo procedimiento sancionador desde el inicio", "La vía penal, con carácter exclusivo y excluyente", "Un arbitraje privado entre las partes"],
+      "correct": 0,
+      "exp": "Art. 90.4: 'se fijará mediante un procedimiento complementario, cuya resolución será inmediatamente ejecutiva.'",
+      "fuente": "Art. 90.4 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 90.4, el procedimiento complementario para fijar la indemnización por daños derivados de la infracción es susceptible de terminación convencional, pero esta:",
+      "options": ["No implica el reconocimiento voluntario de la responsabilidad por parte del infractor", "Equivale automáticamente a la confesión de la infracción", "Impide recurrir posteriormente la sanción principal", "Exige la aprobación previa de las Cortes Generales"],
+      "correct": 0,
+      "exp": "Art. 90.4: dicho procedimiento 'será susceptible de terminación convencional, pero ni ésta ni la aceptación por el infractor de la resolución que pudiera recaer implicarán el reconocimiento voluntario de su responsabilidad.'",
+      "fuente": "Art. 90.4 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 91.1, en los procedimientos de responsabilidad patrimonial, una vez recibido el dictamen del art. 81.2, o finalizado el trámite de audiencia si no fuera preceptivo, el órgano competente:",
+      "options": ["Resolverá o someterá la propuesta de acuerdo para su formalización por el interesado y el órgano competente para suscribirlo", "Archivará el expediente automáticamente sin más trámite", "Remitirá el expediente al Tribunal de Cuentas con carácter preceptivo", "Iniciará de oficio un procedimiento sancionador paralelo"],
+      "correct": 0,
+      "exp": "Art. 91.1: el órgano competente 'resolverá o someterá la propuesta de acuerdo para su formalización por el interesado y por el órgano administrativo competente para suscribirlo.'",
+      "fuente": "Art. 91.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 91.2, la resolución en un procedimiento de responsabilidad patrimonial deberá pronunciarse sobre:",
+      "options": ["La existencia o no de relación de causalidad entre el funcionamiento del servicio público y la lesión producida, y en su caso la valoración del daño y la cuantía de la indemnización", "Únicamente la identidad del funcionario responsable del servicio", "Solo el importe de las costas procesales", "Exclusivamente el plazo de prescripción de la acción"],
+      "correct": 0,
+      "exp": "Art. 91.2: será necesario que la resolución 'se pronuncie sobre la existencia o no de la relación de causalidad entre el funcionamiento del servicio público y la lesión producida y, en su caso, sobre la valoración del daño causado, la cuantía y el modo de la indemnización.'",
+      "fuente": "Art. 91.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 91.3, transcurridos seis meses desde el inicio de un procedimiento de responsabilidad patrimonial sin que se notifique resolución expresa ni se haya formalizado el acuerdo, podrá entenderse que:",
+      "options": ["La resolución es contraria a la indemnización del particular", "La resolución es favorable a la indemnización solicitada", "El procedimiento ha caducado automáticamente", "Se ha producido la terminación convencional tácita"],
+      "correct": 0,
+      "exp": "Art. 91.3: 'Transcurridos seis meses desde que se inició el procedimiento sin que haya recaído y se notifique resolución expresa... podrá entenderse que la resolución es contraria a la indemnización del particular.'",
+      "fuente": "Art. 91.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 92, en el ámbito de la Administración General del Estado, los procedimientos de responsabilidad patrimonial se resolverán por:",
+      "options": ["El Ministro respectivo o por el Consejo de Ministros en los casos del art. 32.3 de la Ley de Régimen Jurídico del Sector Público", "El Defensor del Pueblo, en todo caso", "El Tribunal Supremo, con carácter exclusivo", "El Consejo de Estado, en todo caso sin excepción"],
+      "correct": 0,
+      "exp": "Art. 92: 'los procedimientos de responsabilidad patrimonial se resolverán por el Ministro respectivo o por el Consejo de Ministros en los casos del artículo 32.3 de la Ley de Régimen Jurídico del Sector Público o cuando una ley así lo disponga.'",
+      "fuente": "Art. 92 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 92, en el ámbito autonómico y local, los procedimientos de responsabilidad patrimonial se resolverán por:",
+      "options": ["Los órganos correspondientes de las Comunidades Autónomas o de las Entidades que integran la Administración Local", "El Ministerio de Hacienda, en todo caso", "El Delegado del Gobierno en la Comunidad Autónoma", "Los Juzgados de lo Contencioso-Administrativo directamente"],
+      "correct": 0,
+      "exp": "Art. 92: 'En el ámbito autonómico y local, los procedimientos de responsabilidad patrimonial se resolverán por los órganos correspondientes de las Comunidades Autónomas o de las Entidades que integran la Administración Local.'",
+      "fuente": "Art. 92 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 93, en los procedimientos iniciados de oficio, la Administración podrá desistir:",
+      "options": ["Motivadamente, en los supuestos y con los requisitos previstos en las Leyes", "Libremente y sin necesidad de motivación alguna", "Solo con autorización judicial previa", "Únicamente si lo solicita el interesado por escrito"],
+      "correct": 0,
+      "exp": "Art. 93: 'En los procedimientos iniciados de oficio, la Administración podrá desistir, motivadamente, en los supuestos y con los requisitos previstos en las Leyes.'",
+      "fuente": "Art. 93 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 94.2, si el escrito de iniciación se hubiera formulado por dos o más interesados, el desistimiento o la renuncia:",
+      "options": ["Solo afectará a aquellos que la hubiesen formulado", "Pone fin al procedimiento para todos los interesados por igual", "Requiere el consentimiento unánime de todos ellos", "Convierte automáticamente el procedimiento en caducado"],
+      "correct": 0,
+      "exp": "Art. 94.2: 'Si el escrito de iniciación se hubiera formulado por dos o más interesados, el desistimiento o la renuncia sólo afectará a aquellos que la hubiesen formulado.'",
+      "fuente": "Art. 94.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 94.4, la Administración aceptará de plano el desistimiento o la renuncia y declarará concluso el procedimiento, salvo que:",
+      "options": ["Habiéndose personado en el mismo terceros interesados, instasen éstos su continuación en el plazo de diez días desde que fueron notificados", "El interesado sea una persona jurídica, en cuyo caso se requiere ratificación notarial", "El expediente lleve más de un año de tramitación", "Se trate de un procedimiento sancionador, en cuyo caso nunca cabe desistimiento"],
+      "correct": 0,
+      "exp": "Art. 94.4: 'La Administración aceptará de plano el desistimiento o la renuncia, y declarará concluso el procedimiento salvo que, habiéndose personado en el mismo terceros interesados, instasen éstos su continuación en el plazo de diez días desde que fueron notificados del desistimiento o renuncia.'",
+      "fuente": "Art. 94.4 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 95.2, no podrá acordarse la caducidad del procedimiento por:",
+      "options": ["La simple inactividad del interesado en la cumplimentación de trámites que no sean indispensables para dictar resolución", "Cualquier retraso del interesado, sin excepción", "La ausencia del interesado en el trámite de audiencia", "El incumplimiento de cualquier requerimiento de subsanación"],
+      "correct": 0,
+      "exp": "Art. 95.2: 'No podrá acordarse la caducidad por la simple inactividad del interesado en la cumplimentación de trámites, siempre que no sean indispensables para dictar resolución.'",
+      "fuente": "Art. 95.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 95.4, la caducidad podrá no ser aplicable en el supuesto de que:",
+      "options": ["La cuestión suscitada afecte al interés general, o fuera conveniente sustanciarla para su definición y esclarecimiento", "El procedimiento haya durado más de seis meses", "El interesado sea una Administración Pública", "El expediente conste de más de cien folios"],
+      "correct": 0,
+      "exp": "Art. 95.4: 'Podrá no ser aplicable la caducidad en el supuesto de que la cuestión suscitada afecte al interés general, o fuera conveniente sustanciarla para su definición y esclarecimiento.'",
+      "fuente": "Art. 95.4 LPAC",
+      "confianza": "alta"
+    }
+  ]
+}
