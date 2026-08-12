@@ -29630,3 +29630,527 @@ window.addQuestions('aux-admin-zaragoza', 9, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 8 · lote 2026-08-12 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 8, [
+  {
+    "q": "Según el art. 106.1 LPAC, antes de declarar de oficio la nulidad de un acto, la Administración necesita un dictamen previo y favorable de:",
+    "options": [
+      "El Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere",
+      "El Ministerio Fiscal",
+      "El Tribunal Constitucional",
+      "El Defensor del Pueblo"
+    ],
+    "correct": 0,
+    "exp": "El art. 106.1 exige que la declaración de nulidad se adopte 'previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere'.",
+    "fuente": "Art. 106.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 106.1 LPAC, la Administración declarará de oficio la nulidad de los actos que hayan puesto fin a la vía administrativa o que no hayan sido recurridos en plazo cuando concurra alguno de los supuestos previstos en:",
+    "options": [
+      "El artículo 48.1",
+      "El artículo 47.1",
+      "El artículo 82.1",
+      "El artículo 21.1"
+    ],
+    "correct": 1,
+    "exp": "El art. 106.1 remite a 'los supuestos previstos en el artículo 47.1' (las causas de nulidad de pleno derecho) para declarar de oficio la nulidad de esos actos.",
+    "fuente": "Art. 106.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 106.2 LPAC, para declarar de oficio la nulidad de una disposición administrativa (no de un acto), es necesario también, con carácter previo:",
+    "options": [
+      "Autorización del Tribunal Supremo",
+      "Informe vinculante del Ministerio de Hacienda",
+      "Dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere",
+      "Ratificación por las Cortes Generales"
+    ],
+    "correct": 2,
+    "exp": "El art. 106.2 exige el mismo dictamen previo favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma que el apartado 1, esta vez para las disposiciones administrativas del art. 47.2.",
+    "fuente": "Art. 106.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 106.3 LPAC, el órgano competente para la revisión de oficio puede acordar motivadamente la inadmisión a trámite de una solicitud de un interesado, sin necesidad de recabar dictamen, cuando:",
+    "options": [
+      "El interesado no aporte poder notarial",
+      "La solicitud se presente por medios electrónicos",
+      "El acto tenga más de un año de antigüedad",
+      "No se base en alguna de las causas del art. 47.1 o carezca manifiestamente de fundamento"
+    ],
+    "correct": 3,
+    "exp": "El art. 106.3 permite inadmitir a trámite, sin recabar dictamen, las solicitudes que 'no se basen en alguna de las causas de nulidad del artículo 47.1 o carezcan manifiestamente de fundamento'.",
+    "fuente": "Art. 106.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 106.3 LPAC, también cabe inadmitir a trámite una solicitud de revisión de oficio cuando:",
+    "options": [
+      "Se hubieran desestimado en cuanto al fondo otras solicitudes sustancialmente iguales",
+      "El interesado sea una persona jurídica",
+      "El acto haya sido dictado por un órgano colegiado",
+      "El expediente supere las cien páginas"
+    ],
+    "correct": 0,
+    "exp": "El art. 106.3 añade como causa de inadmisión 'el supuesto de que se hubieran desestimado en cuanto al fondo otras solicitudes sustancialmente iguales'.",
+    "fuente": "Art. 106.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 106.4 LPAC, al declarar la nulidad de una disposición o acto, la Administración puede establecer en la misma resolución:",
+    "options": [
+      "Una sanción pecuniaria al funcionario responsable",
+      "Las indemnizaciones que proceda reconocer a los interesados, si se dan las circunstancias previstas en la normativa de régimen jurídico del sector público",
+      "La destitución automática del titular del órgano",
+      "Un recargo de mora a cargo del interesado"
+    ],
+    "correct": 1,
+    "exp": "El art. 106.4 permite que, al declarar la nulidad, se establezcan en la misma resolución 'las indemnizaciones que proceda reconocer a los interesados, si se dan las circunstancias previstas en los artículos 32.2 y 34.1 de la Ley de Régimen Jurídico del Sector Público'.",
+    "fuente": "Art. 106.4 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 106.4 LPAC, cuando se declara la nulidad de una disposición administrativa, ¿qué ocurre con los actos firmes dictados en aplicación de la misma?",
+    "options": [
+      "Se anulan automáticamente junto con la disposición",
+      "Quedan suspendidos hasta nueva resolución",
+      "Subsisten, sin perjuicio de la nulidad de la disposición",
+      "Se remiten de oficio al orden jurisdiccional penal"
+    ],
+    "correct": 2,
+    "exp": "El art. 106.4 precisa que la nulidad de una disposición se declara 'sin perjuicio de que, tratándose de una disposición, subsistan los actos firmes dictados en aplicación de la misma'.",
+    "fuente": "Art. 106.4 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 106.5 LPAC, si el procedimiento de revisión de oficio se inició a solicitud del interesado y transcurren seis meses sin resolución expresa, ¿qué efecto se produce?",
+    "options": [
+      "Se declara automáticamente la nulidad del acto",
+      "El procedimiento caduca en todo caso",
+      "El expediente se traslada de oficio al Consejo de Estado",
+      "Se podrá entender desestimada la solicitud por silencio administrativo"
+    ],
+    "correct": 3,
+    "exp": "El art. 106.5 distingue: si el procedimiento se inició de oficio, el transcurso de seis meses produce su caducidad; 'si el procedimiento se hubiera iniciado a solicitud de interesado, se podrá entender la misma desestimada por silencio administrativo'.",
+    "fuente": "Art. 106.5 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 107.1 LPAC, la Administración puede impugnar ante el orden jurisdiccional contencioso-administrativo los actos favorables para los interesados que sean anulables, previa:",
+    "options": [
+      "Su declaración de lesividad para el interés público",
+      "Sentencia firme del Tribunal Constitucional",
+      "Autorización del Consejo de Estado",
+      "Informe del Tribunal de Cuentas"
+    ],
+    "correct": 0,
+    "exp": "El art. 107.1 exige que esa impugnación se realice 'previa su declaración de lesividad para el interés público'.",
+    "fuente": "Art. 107.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 107.1 LPAC, los actos favorables para los interesados que la Administración puede impugnar mediante declaración de lesividad son los anulables conforme a lo dispuesto en:",
+    "options": [
+      "El artículo 47",
+      "El artículo 48",
+      "El artículo 106",
+      "El artículo 82"
+    ],
+    "correct": 1,
+    "exp": "El art. 107.1 se refiere a los actos favorables 'que sean anulables conforme a lo dispuesto en el artículo 48', que regula la anulabilidad.",
+    "fuente": "Art. 107.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 107.2 LPAC, la declaración de lesividad no podrá adoptarse una vez transcurridos cuatro años desde:",
+    "options": [
+      "Que el acto fue notificado al interesado",
+      "Que el acto ganó firmeza en vía judicial",
+      "Que se dictó el acto administrativo",
+      "Que se presentó la solicitud de revisión"
+    ],
+    "correct": 2,
+    "exp": "El art. 107.2 fija que 'la declaración de lesividad no podrá adoptarse una vez transcurridos cuatro años desde que se dictó el acto administrativo'.",
+    "fuente": "Art. 107.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 107.2 LPAC, la declaración de lesividad exige la previa audiencia de los interesados en los términos establecidos por:",
+    "options": [
+      "El artículo 47",
+      "El artículo 21",
+      "El artículo 114",
+      "El artículo 82"
+    ],
+    "correct": 3,
+    "exp": "El art. 107.2 dispone que la declaración de lesividad 'exigirá la previa audiencia de cuantos aparezcan como interesados en el mismo, en los términos establecidos por el artículo 82'.",
+    "fuente": "Art. 107.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 107.2 LPAC, sin perjuicio de su examen como presupuesto procesal de admisibilidad de la acción judicial, la declaración de lesividad:",
+    "options": [
+      "No será susceptible de recurso, aunque podrá notificarse a los interesados a los meros efectos informativos",
+      "Podrá recurrirse en alzada en el plazo de un mes",
+      "Deberá ser ratificada por el Tribunal Superior de Justicia",
+      "Será recurrible únicamente en reposición"
+    ],
+    "correct": 0,
+    "exp": "El art. 107.2 establece que la declaración de lesividad 'no será susceptible de recurso, si bien podrá notificarse a los interesados a los meros efectos informativos'.",
+    "fuente": "Art. 107.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 107.3 LPAC, si transcurren seis meses desde la iniciación del procedimiento de declaración de lesividad sin que ésta se hubiera declarado, se produce:",
+    "options": [
+      "La lesividad presunta del acto",
+      "La caducidad del procedimiento",
+      "La nulidad de pleno derecho del acto",
+      "Su remisión automática al orden contencioso-administrativo"
+    ],
+    "correct": 1,
+    "exp": "El art. 107.3 dice literalmente: 'Transcurrido el plazo de seis meses desde la iniciación del procedimiento sin que se hubiera declarado la lesividad, se producirá la caducidad del mismo.'",
+    "fuente": "Art. 107.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 107.4 LPAC, si el acto proviniera de la Administración General del Estado o de las Comunidades Autónomas, ¿quién adopta la declaración de lesividad?",
+    "options": [
+      "Necesariamente el Consejo de Ministros",
+      "El Defensor del Pueblo",
+      "El órgano de cada Administración competente en la materia",
+      "El órgano judicial competente"
+    ],
+    "correct": 2,
+    "exp": "El art. 107.4 establece que en ese caso 'la declaración de lesividad se adoptará por el órgano de cada Administración competente en la materia'.",
+    "fuente": "Art. 107.4 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 107.5 LPAC, si el acto proviene de una entidad de la Administración Local y no existe Pleno de la Corporación, ¿quién adopta la declaración de lesividad?",
+    "options": [
+      "El Secretario municipal",
+      "El Delegado del Gobierno",
+      "El Tribunal Administrativo de Recursos Contractuales",
+      "El órgano colegiado superior de la entidad"
+    ],
+    "correct": 3,
+    "exp": "El art. 107.5 dispone que, si el acto proviene de la Administración Local, 'la declaración de lesividad se adoptará por el Pleno de la Corporación o, en defecto de éste, por el órgano colegiado superior de la entidad'.",
+    "fuente": "Art. 107.5 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 108 LPAC, ¿en qué momento cabe acordar la suspensión de la ejecución de un acto en un procedimiento de revisión de oficio?",
+    "options": [
+      "Una vez iniciado el procedimiento de revisión de oficio al que se refieren los arts. 106 y 107",
+      "Antes de iniciarse cualquier procedimiento",
+      "Solo tras la firmeza de la sentencia contencioso-administrativa",
+      "Únicamente durante el trámite de audiencia del art. 82"
+    ],
+    "correct": 0,
+    "exp": "El art. 108 se refiere a la suspensión '[i]niciado el procedimiento de revisión de oficio al que se refieren los artículos 106 y 107'.",
+    "fuente": "Art. 108 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 108 LPAC, ¿quién es el órgano competente para acordar la suspensión de la ejecución del acto en un procedimiento de revisión de oficio?",
+    "options": [
+      "El superior jerárquico del órgano instructor, en todo caso",
+      "El órgano competente para declarar la nulidad o la lesividad",
+      "El Consejo de Estado",
+      "El propio interesado, mediante solicitud vinculante"
+    ],
+    "correct": 1,
+    "exp": "El art. 108 atribuye la facultad de suspender al 'órgano competente para declarar la nulidad o lesividad'.",
+    "fuente": "Art. 108 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 108 LPAC, la suspensión de la ejecución del acto en un procedimiento de revisión de oficio es:",
+    "options": [
+      "Obligatoria en todo caso",
+      "Automática desde la solicitud de revisión",
+      "Potestativa ('podrá suspender'), cuando la ejecución pudiera causar perjuicios de imposible o difícil reparación",
+      "Aplicable solo a actos de las Entidades Locales"
+    ],
+    "correct": 2,
+    "exp": "El art. 108 usa la forma potestativa: el órgano competente 'podrá suspender la ejecución del acto, cuando ésta pudiera causar perjuicios de imposible o difícil reparación'.",
+    "fuente": "Art. 108 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 108 LPAC, la suspensión de la ejecución del acto procede cuando ésta pudiera causar:",
+    "options": [
+      "Un mero perjuicio económico cuantificable",
+      "Molestias de escasa entidad al interesado",
+      "Un retraso superior a quince días",
+      "Perjuicios de imposible o difícil reparación"
+    ],
+    "correct": 3,
+    "exp": "El art. 108 exige que la ejecución 'pudiera causar perjuicios de imposible o difícil reparación' como condición para suspenderla.",
+    "fuente": "Art. 108 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 109.1 LPAC, ¿qué tipo de actos puede revocar la Administración por esta vía?",
+    "options": [
+      "Sus actos de gravamen o desfavorables",
+      "Sus actos favorables para el interesado",
+      "Cualquier acto, favorable o desfavorable, sin distinción",
+      "Únicamente los actos de trámite"
+    ],
+    "correct": 0,
+    "exp": "El art. 109.1 permite revocar 'sus actos de gravamen o desfavorables'; los actos favorables solo pueden atacarse por la vía de la lesividad del art. 107.",
+    "fuente": "Art. 109.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 109.1 LPAC, la Administración puede revocar sus actos de gravamen o desfavorables mientras no haya transcurrido el plazo de:",
+    "options": [
+      "Un año desde la notificación",
+      "Prescripción",
+      "Seis meses desde su firmeza",
+      "Caducidad del procedimiento"
+    ],
+    "correct": 1,
+    "exp": "El art. 109.1 dice: 'Las Administraciones Públicas podrán revocar, mientras no haya transcurrido el plazo de prescripción, sus actos de gravamen o desfavorables.'",
+    "fuente": "Art. 109.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 109.1 LPAC, la revocación de un acto de gravamen o desfavorable NO puede:",
+    "options": [
+      "Realizarse de oficio",
+      "Adoptarse mientras no transcurra el plazo de prescripción",
+      "Constituir dispensa o exención no permitida por las leyes",
+      "Afectar a actos dictados por delegación"
+    ],
+    "correct": 2,
+    "exp": "El art. 109.1 prohíbe que la revocación 'constituya dispensa o exención no permitida por las leyes'.",
+    "fuente": "Art. 109.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 109.1 LPAC, la revocación de actos de gravamen o desfavorables no puede ser contraria a:",
+    "options": [
+      "La opinión del funcionario instructor",
+      "La voluntad expresa del interesado",
+      "Un informe no vinculante previo",
+      "El principio de igualdad, al interés público o al ordenamiento jurídico"
+    ],
+    "correct": 3,
+    "exp": "El art. 109.1 exige que la revocación no sea contraria 'al principio de igualdad, al interés público o al ordenamiento jurídico'.",
+    "fuente": "Art. 109.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 109.2 LPAC, la Administración puede rectificar los errores materiales, de hecho o aritméticos existentes en sus actos:",
+    "options": [
+      "En cualquier momento, de oficio o a instancia de los interesados",
+      "Solo dentro del plazo de un mes desde la notificación",
+      "Únicamente de oficio, nunca a instancia de parte",
+      "Solo si medió previamente recurso de alzada"
+    ],
+    "correct": 0,
+    "exp": "El art. 109.2 permite rectificar esos errores 'en cualquier momento, de oficio o a instancia de los interesados'.",
+    "fuente": "Art. 109.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de los siguientes NO es un tipo de error que, según el art. 109.2 LPAC, puede rectificar la Administración en cualquier momento?",
+    "options": [
+      "El error material",
+      "El error de derecho en la interpretación de la norma aplicada",
+      "El error de hecho",
+      "El error aritmético"
+    ],
+    "correct": 1,
+    "exp": "El art. 109.2 solo habilita la rectificación de 'los errores materiales, de hecho o aritméticos'; el error de derecho no está entre los que permite corregir por esta vía simplificada.",
+    "fuente": "Art. 109.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "A diferencia de la revisión de actos nulos (art. 106) o la declaración de lesividad (art. 107), la revocación y la rectificación de errores del art. 109 LPAC:",
+    "options": [
+      "Exigen siempre dictamen del Consejo de Estado",
+      "Solo pueden acordarse por el Pleno de la Corporación",
+      "No exigen dictamen previo del Consejo de Estado ni declaración de lesividad",
+      "Requieren autorización judicial previa"
+    ],
+    "correct": 2,
+    "exp": "El art. 109, a diferencia de los arts. 106 y 107, no menciona dictamen del Consejo de Estado, declaración de lesividad ni intervención judicial para revocar actos desfavorables o rectificar errores.",
+    "fuente": "Art. 109 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 110 LPAC, las facultades de revisión reguladas en el Capítulo I del Título V no podrán ejercerse cuando su ejercicio resulte contrario a:",
+    "options": [
+      "El interés económico de la Administración",
+      "La opinión de la mayoría social",
+      "El calendario oficial de días inhábiles",
+      "La equidad, la buena fe, el derecho de los particulares o las leyes"
+    ],
+    "correct": 3,
+    "exp": "El art. 110 dice: '...su ejercicio resulte contrario a la equidad, a la buena fe, al derecho de los particulares o a las leyes.'",
+    "fuente": "Art. 110 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 110 LPAC, las circunstancias que pueden impedir el ejercicio de las facultades de revisión son la prescripción de acciones, el tiempo transcurrido:",
+    "options": [
+      "U otras circunstancias",
+      "Y únicamente la voluntad del interesado",
+      "Y la falta de presupuesto",
+      "Y la ausencia de dictamen previo"
+    ],
+    "correct": 0,
+    "exp": "El art. 110 enumera 'por prescripción de acciones, por el tiempo transcurrido o por otras circunstancias' como causas que pueden hacer improcedente la revisión.",
+    "fuente": "Art. 110 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 110 LPAC (Límites de la revisión) limita las facultades reguladas en:",
+    "options": [
+      "Únicamente el art. 106",
+      "Este Capítulo (el Capítulo I del Título V, Revisión de oficio)",
+      "Únicamente el art. 107",
+      "Todo el Título V, incluidos los recursos administrativos"
+    ],
+    "correct": 1,
+    "exp": "El art. 110 se refiere a 'las facultades de revisión establecidas en este Capítulo', es decir, el Capítulo I del Título V (arts. 106 a 111), no a todo el Título V.",
+    "fuente": "Art. 110 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El límite del art. 110 LPAC resulta aplicable, entre otras, a las facultades reguladas en:",
+    "options": [
+      "Únicamente a los recursos de alzada",
+      "Únicamente a los procedimientos sancionadores",
+      "La revisión de actos nulos, la declaración de lesividad, la revocación y la rectificación de errores",
+      "Únicamente a las disposiciones de carácter general"
+    ],
+    "correct": 2,
+    "exp": "Al estar dentro del Capítulo I del Título V, el límite del art. 110 se proyecta sobre todas las facultades de ese Capítulo: nulidad (106), lesividad (107), suspensión (108) y revocación/rectificación (109).",
+    "fuente": "Art. 110 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 111 LPAC regula la competencia para la revisión de oficio de disposiciones y actos nulos y anulables en el ámbito de:",
+    "options": [
+      "Las Comunidades Autónomas exclusivamente",
+      "La Administración Local exclusivamente",
+      "Cualquier Administración Pública indistintamente",
+      "La Administración General del Estado"
+    ],
+    "correct": 3,
+    "exp": "El propio título del art. 111 lo circunscribe a 'la revisión de oficio de las disposiciones y de actos nulos y anulables en la Administración General del Estado', y su texto empieza precisando 'En el ámbito estatal...'.",
+    "fuente": "Art. 111 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 111.a) LPAC, respecto de sus propios actos y disposiciones y de los dictados por los Ministros, es competente para la revisión de oficio en el ámbito estatal:",
+    "options": [
+      "El Consejo de Ministros",
+      "El Congreso de los Diputados",
+      "El Consejo de Estado",
+      "El Presidente del Gobierno en solitario"
+    ],
+    "correct": 0,
+    "exp": "El art. 111.a) atribuye la competencia 'al Consejo de Ministros, respecto de sus propios actos y disposiciones y de los actos y disposiciones dictados por los Ministros'.",
+    "fuente": "Art. 111.a) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 111.b).1º LPAC, los Ministros son competentes para la revisión de oficio respecto de los actos y disposiciones de:",
+    "options": [
+      "Otros Ministros del mismo Gobierno",
+      "Los Secretarios de Estado y los dictados por órganos directivos de su Departamento no dependientes de una Secretaría de Estado",
+      "El Consejo de Ministros",
+      "Los Presidentes de las Comunidades Autónomas"
+    ],
+    "correct": 1,
+    "exp": "El art. 111.b).1º atribuye a los Ministros la competencia 'respecto de los actos y disposiciones de los Secretarios de Estado y de los dictados por órganos directivos de su Departamento no dependientes de una Secretaría de Estado'.",
+    "fuente": "Art. 111.b).1º LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 111.b).2º LPAC, los Secretarios de Estado son competentes para la revisión de oficio respecto de:",
+    "options": [
+      "Los actos del propio Ministro del que dependen",
+      "Los actos de otros Secretarios de Estado",
+      "Los actos y disposiciones dictados por los órganos directivos de ellos dependientes",
+      "Los actos de los Organismos públicos vinculados a otro Departamento"
+    ],
+    "correct": 2,
+    "exp": "El art. 111.b).2º atribuye a los Secretarios de Estado la competencia 'respecto de los actos y disposiciones dictados por los órganos directivos de ellos dependientes'.",
+    "fuente": "Art. 111.b).2º LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 111.c).1º LPAC, en los Organismos públicos y entidades de derecho público vinculados o dependientes de la AGE, son competentes para revisar de oficio los actos y disposiciones dictados por el máximo órgano rector de éstos:",
+    "options": [
+      "Los propios máximos órganos rectores",
+      "El Consejo de Ministros en exclusiva",
+      "El Tribunal de Cuentas",
+      "Los órganos a los que estén adscritos dichos Organismos públicos y entidades"
+    ],
+    "correct": 3,
+    "exp": "El art. 111.c).1º atribuye la competencia a 'los órganos a los que estén adscritos los Organismos públicos y entidades de derecho público, respecto de los actos y disposiciones dictados por el máximo órgano rector de éstos'.",
+    "fuente": "Art. 111.c).1º LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 111.c).2º LPAC, los máximos órganos rectores de los Organismos públicos y entidades de derecho público son competentes para la revisión de oficio respecto de:",
+    "options": [
+      "Los actos y disposiciones dictados por los órganos de ellos dependientes",
+      "Los actos del Ministerio de adscripción",
+      "Los actos de otros Organismos públicos distintos",
+      "Los actos de las Comunidades Autónomas"
+    ],
+    "correct": 0,
+    "exp": "El art. 111.c).2º atribuye la competencia a 'los máximos órganos rectores de los Organismos públicos y entidades de derecho público, respecto de los actos y disposiciones dictados por los órganos de ellos dependientes'.",
+    "fuente": "Art. 111.c).2º LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 111.c) LPAC, a diferencia de la letra b) del mismo artículo, la letra c) se refiere a la competencia de revisión de oficio dentro de:",
+    "options": [
+      "Los órganos de la propia Administración General del Estado (Ministerios y Secretarías de Estado)",
+      "Los Organismos públicos y entidades de derecho público vinculados o dependientes de la Administración General del Estado",
+      "Las Comunidades Autónomas",
+      "Las Corporaciones Locales"
+    ],
+    "correct": 1,
+    "exp": "Mientras la letra b) del art. 111 organiza la competencia entre Ministros y Secretarios de Estado dentro de la AGE, la letra c) traslada esa misma lógica jerárquica a 'los Organismos públicos y entidades de derecho público vinculados o dependientes de la Administración General del Estado'.",
+    "fuente": "Art. 111.c) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En cuántas letras principales (a, b y c) distribuye el art. 111 LPAC la atribución de competencia para la revisión de oficio en el ámbito estatal?",
+    "options": [
+      "Dos",
+      "Cuatro",
+      "Tres",
+      "Cinco"
+    ],
+    "correct": 2,
+    "exp": "El art. 111 distribuye la competencia en tres letras: a) el Consejo de Ministros; b) dentro de la AGE (Ministros y Secretarios de Estado); y c) dentro de los Organismos públicos y entidades de derecho público vinculados o dependientes de la AGE.",
+    "fuente": "Art. 111 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Al regular la competencia para la revisión de oficio únicamente 'en el ámbito estatal', el art. 111 LPAC no resulta directamente aplicable a:",
+    "options": [
+      "La Administración General del Estado",
+      "El Consejo de Ministros",
+      "Los Organismos públicos estatales",
+      "Las Comunidades Autónomas y las Entidades Locales, que fijan su propia distribución competencial para esta materia"
+    ],
+    "correct": 3,
+    "exp": "El art. 111 abre su texto con la precisión 'En el ámbito estatal, serán competentes...', por lo que su reparto de competencias (Consejo de Ministros, Ministros, Secretarios de Estado, Organismos públicos estatales) no se extiende a las Comunidades Autónomas ni a las Entidades Locales, que ya cuentan con sus propias reglas de atribución (por ejemplo, el Pleno para la declaración de lesividad local del art. 107.5).",
+    "fuente": "Art. 111 LPAC",
+    "confianza": "alta"
+  }
+]);
