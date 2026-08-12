@@ -1,0 +1,526 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 6,
+  "preguntas": [
+    {
+      "q": "Según el art. 44 LPAC, si la Administración establece formas de notificación complementarias a través de otros medios de difusión, ¿qué obligación se mantiene en todo caso?",
+      "options": [
+        "La de publicar el correspondiente anuncio en el «Boletín Oficial del Estado»",
+        "Repetir dos veces el anuncio en un periódico de tirada nacional",
+        "Solicitar autorización judicial previa a cualquier notificación",
+        "Enviar una copia física al domicilio anterior del interesado"
+      ],
+      "correct": 0,
+      "exp": "Art. 44 in fine: 'Las Administraciones Públicas podrán establecer otras formas de notificación complementarias a través de los restantes medios de difusión, que no excluirán la obligación de publicar el correspondiente anuncio en el «Boletín Oficial del Estado».'",
+      "fuente": "Art. 44 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 44 LPAC, cuando el interesado reside en el extranjero, ¿en qué lugar adicional puede publicarse facultativamente el anuncio, además del boletín autonómico o provincial y el tablón de edictos?",
+      "options": [
+        "En la sede de un organismo internacional",
+        "En el Consulado o Sección Consular de la Embajada correspondiente",
+        "En el Ministerio de Asuntos Exteriores, con carácter exclusivo",
+        "En el Registro Civil Central"
+      ],
+      "correct": 1,
+      "exp": "Art. 44: '...en el tablón de edictos del Ayuntamiento del último domicilio del interesado o del Consulado o Sección Consular de la Embajada correspondiente.'",
+      "fuente": "Art. 44 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué expresión emplea el art. 44 LPAC para calificar la publicación adicional en el boletín autonómico o provincial y en el tablón de edictos?",
+      "options": [
+        "Con carácter obligatorio y retroactivo",
+        "Bajo reserva judicial expresa y previa autorización",
+        "Previamente y con carácter facultativo",
+        "De forma vinculante para todas las Administraciones"
+      ],
+      "correct": 2,
+      "exp": "Art. 44: 'Asimismo, previamente y con carácter facultativo, las Administraciones podrán publicar un anuncio en el boletín oficial de la Comunidad Autónoma o de la Provincia...'",
+      "fuente": "Art. 44 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Los arts. 44 a 46 de la LPAC, dedicados a la notificación infructuosa, la publicación y su indicación, se integran en:",
+      "options": [
+        "El Capítulo III del Título III, 'Nulidad y anulabilidad'",
+        "El Capítulo I del Título III, 'Requisitos de los actos administrativos'",
+        "El Título IV, 'De las disposiciones sobre el procedimiento administrativo común'",
+        "El Capítulo II del Título III, 'Eficacia de los actos'"
+      ],
+      "correct": 3,
+      "exp": "Los arts. 37 a 46 conforman el Capítulo II ('Eficacia de los actos') del Título III de la LPAC; el art. 47 abre a continuación el Capítulo III ('Nulidad y anulabilidad').",
+      "fuente": "Art. 44 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 44 LPAC, ¿cuáles son los supuestos que dan lugar a la notificación mediante anuncio en el «Boletín Oficial del Estado»?",
+      "options": [
+        "Tres: interesados desconocidos, lugar de notificación ignorado, o notificación intentada sin poder practicarse",
+        "Dos: solo cuando el interesado renuncie expresamente o fallezca",
+        "Cuatro, incluyendo el caso de notificación rehusada por error",
+        "Uno solo: exclusivamente cuando el interesado sea una persona jurídica"
+      ],
+      "correct": 0,
+      "exp": "Art. 44: 'Cuando los interesados en un procedimiento sean desconocidos, se ignore el lugar de la notificación o bien, intentada ésta, no se hubiese podido practicar, la notificación se hará por medio de un anuncio publicado en el «Boletín Oficial del Estado».'",
+      "fuente": "Art. 44 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 44 LPAC, el tablón de edictos en el que puede publicarse facultativamente el anuncio corresponde al Ayuntamiento de:",
+      "options": [
+        "La capital de la provincia, en todo caso",
+        "El último domicilio del interesado",
+        "La sede del órgano que dictó el acto",
+        "Cualquier municipio a elección del interesado"
+      ],
+      "correct": 1,
+      "exp": "Art. 44: '...en el tablón de edictos del Ayuntamiento del último domicilio del interesado...'",
+      "fuente": "Art. 44 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 45.1 LPAC, los actos administrativos serán objeto de publicación cuando:",
+      "options": [
+        "Lo solicite expresamente cualquier ciudadano interesado en el expediente",
+        "Lo decida el Defensor del Pueblo de oficio",
+        "Así lo establezcan las normas reguladoras de cada procedimiento, o cuando lo aconsejen razones de interés público apreciadas por el órgano competente",
+        "Haya transcurrido un año desde su notificación individual"
+      ],
+      "correct": 2,
+      "exp": "Art. 45.1: 'Los actos administrativos serán objeto de publicación cuando así lo establezcan las normas reguladoras de cada procedimiento o cuando lo aconsejen razones de interés público apreciadas por el órgano competente.'",
+      "fuente": "Art. 45.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 45.1 LPAC, en los casos en que la publicación de un acto es obligatoria «en todo caso», ¿qué efectos produce dicha publicación?",
+      "options": [
+        "Ningún efecto jurídico, es meramente informativa",
+        "Solo interrumpe el plazo de prescripción de la acción",
+        "Suspende automáticamente la ejecutividad del acto",
+        "Los mismos efectos que la notificación"
+      ],
+      "correct": 3,
+      "exp": "Art. 45.1: 'En todo caso, los actos administrativos serán objeto de publicación, surtiendo ésta los efectos de la notificación, en los siguientes casos...'",
+      "fuente": "Art. 45.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 45.1.a) LPAC, la publicación obligatoria «en todo caso» se aplica cuando el acto tenga por destinatario:",
+      "options": [
+        "Una pluralidad indeterminada de personas, o cuando la Administración estime insuficiente la notificación a un solo interesado",
+        "Exclusivamente a un solo interesado identificado por su DNI",
+        "A un funcionario público en su condición de tal",
+        "A una persona jurídica extranjera únicamente"
+      ],
+      "correct": 0,
+      "exp": "Art. 45.1.a): 'Cuando el acto tenga por destinatario a una pluralidad indeterminada de personas o cuando la Administración estime que la notificación efectuada a un solo interesado es insuficiente para garantizar la notificación a todos...'",
+      "fuente": "Art. 45.1.a) LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 45.1.a) LPAC, cuando la Administración estime insuficiente la notificación a un solo interesado y proceda a la publicación, esta última será:",
+      "options": [
+        "Sustitutiva de la notificación individual, que queda sin efecto",
+        "Adicional a la individualmente realizada",
+        "Solo válida si se practica en el domicilio del interesado",
+        "Irrelevante, pues prevalece únicamente la notificación individual"
+      ],
+      "correct": 1,
+      "exp": "Art. 45.1.a): '...siendo, en este último caso, adicional a la individualmente realizada.'",
+      "fuente": "Art. 45.1.a) LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 45.1.b) LPAC, la publicación obligatoria «en todo caso» también se aplica cuando se trate de:",
+      "options": [
+        "Actos de mero trámite sin trascendencia externa",
+        "Actos sancionadores de cuantía inferior a 100 euros",
+        "Actos integrantes de un procedimiento selectivo o de concurrencia competitiva de cualquier tipo",
+        "Actos dictados exclusivamente en período de información pública urbanística"
+      ],
+      "correct": 2,
+      "exp": "Art. 45.1.b): 'Cuando se trate de actos integrantes de un procedimiento selectivo o de concurrencia competitiva de cualquier tipo.'",
+      "fuente": "Art. 45.1.b) LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 45.1.b) LPAC, en los procedimientos selectivos o de concurrencia competitiva, la convocatoria del procedimiento deberá indicar:",
+      "options": [
+        "El nombre de todos los aspirantes admitidos",
+        "El presupuesto total del procedimiento",
+        "La composición nominal del órgano de selección",
+        "El medio donde se efectuarán las sucesivas publicaciones"
+      ],
+      "correct": 3,
+      "exp": "Art. 45.1.b): 'En este caso, la convocatoria del procedimiento deberá indicar el medio donde se efectuarán las sucesivas publicaciones...'",
+      "fuente": "Art. 45.1.b) LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 45.1.b) LPAC, las publicaciones de un procedimiento selectivo o de concurrencia competitiva que se lleven a cabo en un lugar distinto del indicado en la convocatoria:",
+      "options": [
+        "Carecerán de validez",
+        "Serán igualmente válidas si además se notifican por correo",
+        "Prevalecerán sobre las publicadas en el medio indicado en la convocatoria",
+        "Solo serán nulas si el interesado lo impugna en plazo"
+      ],
+      "correct": 0,
+      "exp": "Art. 45.1.b): '...careciendo de validez las que se lleven a cabo en lugares distintos.'",
+      "fuente": "Art. 45.1.b) LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 45.2 LPAC, la publicación de un acto deberá contener:",
+      "options": [
+        "Únicamente la fecha y la firma del secretario del órgano",
+        "Los mismos elementos que el artículo 40.2 exige respecto de las notificaciones",
+        "Solo el nombre del órgano que dictó el acto",
+        "Un resumen ejecutivo redactado por el propio interesado"
+      ],
+      "correct": 1,
+      "exp": "Art. 45.2: 'La publicación de un acto deberá contener los mismos elementos que el artículo 40.2 exige respecto de las notificaciones.'",
+      "fuente": "Art. 45.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 45.2 LPAC, además de los elementos del art. 40.2, ¿qué otra previsión resulta también aplicable a la publicación?",
+      "options": [
+        "Lo establecido en el art. 41.2 sobre medios de pago",
+        "El régimen de causas de nulidad del art. 47",
+        "Lo establecido en el apartado 3 del artículo 40",
+        "El plazo de diez días previsto en el art. 44"
+      ],
+      "correct": 2,
+      "exp": "Art. 45.2: 'Será también aplicable a la publicación lo establecido en el apartado 3 del mismo artículo.'",
+      "fuente": "Art. 45.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 45.2 LPAC, cuando varios actos que se publican contienen elementos comunes, la Administración puede:",
+      "options": [
+        "Publicar cada acto por separado obligatoriamente, sin excepción alguna",
+        "Omitir la publicación de los actos que compartan elementos comunes",
+        "Delegar la publicación en una entidad privada especializada",
+        "Publicar de forma conjunta los aspectos coincidentes, especificando solo los aspectos individuales de cada acto"
+      ],
+      "correct": 3,
+      "exp": "Art. 45.2: 'En los supuestos de publicaciones de actos que contengan elementos comunes, podrán publicarse de forma conjunta los aspectos coincidentes, especificándose solamente los aspectos individuales de cada acto.'",
+      "fuente": "Art. 45.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 45.3 LPAC, ¿dónde se realizará la publicación de los actos?",
+      "options": [
+        "En el diario oficial que corresponda, según cuál sea la Administración de la que proceda el acto",
+        "Siempre en el «Boletín Oficial del Estado», sin excepción",
+        "En un periódico de tirada nacional a elección del interesado",
+        "En la página web personal del titular del órgano"
+      ],
+      "correct": 0,
+      "exp": "Art. 45.3: 'La publicación de los actos se realizará en el diario oficial que corresponda, según cual sea la Administración de la que proceda el acto a notificar.'",
+      "fuente": "Art. 45.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 45.4 LPAC, la publicación de actos que por disposición legal o reglamentaria deba practicarse en tablón de anuncios o edictos se entenderá cumplida por su publicación en el Diario oficial correspondiente, y ello:",
+      "options": [
+        "Solo si lo autoriza previamente el interesado por escrito",
+        "Sin perjuicio de lo dispuesto en el artículo 44",
+        "Únicamente en los procedimientos sancionadores",
+        "Salvo que el acto sea recurrible en alzada"
+      ],
+      "correct": 1,
+      "exp": "Art. 45.4: 'Sin perjuicio de lo dispuesto en el artículo 44, la publicación de actos y comunicaciones que, por disposición legal o reglamentaria deba practicarse en tablón de anuncios o edictos, se entenderá cumplida por su publicación en el Diario oficial correspondiente.'",
+      "fuente": "Art. 45.4 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuántos apartados numerados tiene el art. 45 LPAC?",
+      "options": [
+        "Dos",
+        "Tres",
+        "Cuatro",
+        "Seis"
+      ],
+      "correct": 2,
+      "exp": "El art. 45 se estructura en cuatro apartados numerados (1 a 4); el primero de ellos contiene además las letras a) y b).",
+      "fuente": "Art. 45 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 45.1 LPAC, cuando la publicación de un acto se realiza por razones de interés público, dichas razones deben ser apreciadas por:",
+      "options": [
+        "El Consejo de Estado, con carácter vinculante",
+        "Un juez de lo contencioso-administrativo",
+        "El propio interesado",
+        "El órgano competente"
+      ],
+      "correct": 3,
+      "exp": "Art. 45.1: '...o cuando lo aconsejen razones de interés público apreciadas por el órgano competente.'",
+      "fuente": "Art. 45.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 46 LPAC, ¿en qué supuesto el órgano competente se limitará a publicar una somera indicación del contenido del acto, en lugar de la notificación o publicación íntegra?",
+      "options": [
+        "Cuando aprecie que la notificación por medio de anuncios o la publicación de un acto lesiona derechos o intereses legítimos",
+        "Cuando el acto sea de mero trámite",
+        "Cuando el interesado lo solicite expresamente",
+        "Cuando el procedimiento dure más de seis meses"
+      ],
+      "correct": 0,
+      "exp": "Art. 46: 'Si el órgano competente apreciase que la notificación por medio de anuncios o la publicación de un acto lesiona derechos o intereses legítimos, se limitará a publicar en el Diario oficial que corresponda una somera indicación del contenido del acto...'",
+      "fuente": "Art. 46 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 46 LPAC, cuando procede la indicación en lugar de la notificación o publicación íntegra, el órgano competente publicará en el Diario oficial:",
+      "options": [
+        "El texto íntegro del acto, sin ninguna limitación",
+        "Una somera indicación del contenido del acto y del lugar donde los interesados podrán comparecer",
+        "Únicamente el nombre del interesado",
+        "Solo la fecha de la resolución, sin más datos"
+      ],
+      "correct": 1,
+      "exp": "Art. 46: '...se limitará a publicar en el Diario oficial que corresponda una somera indicación del contenido del acto y del lugar donde los interesados podrán comparecer...'",
+      "fuente": "Art. 46 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 46 LPAC, los interesados podrán comparecer en el plazo que se establezca para:",
+      "options": [
+        "Presentar obligatoriamente un recurso de reposición",
+        "Solicitar la anulación automática del acto",
+        "Conocer el contenido íntegro del acto y dejar constancia de tal conocimiento",
+        "Recibir una copia certificada sin coste alguno"
+      ],
+      "correct": 2,
+      "exp": "Art. 46: '...en el plazo que se establezca, para conocimiento del contenido íntegro del mencionado acto y constancia de tal conocimiento.'",
+      "fuente": "Art. 46 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 46 LPAC, además de la indicación en el Diario oficial, las Administraciones podrán establecer, de manera facultativa:",
+      "options": [
+        "Un régimen sancionador específico para el interesado",
+        "La suspensión automática del procedimiento",
+        "La delegación de la competencia en otro órgano",
+        "Otras formas de notificación complementarias a través de los restantes medios de difusión"
+      ],
+      "correct": 3,
+      "exp": "Art. 46: 'Adicionalmente y de manera facultativa, las Administraciones podrán establecer otras formas de notificación complementarias a través de los restantes medios de difusión...'",
+      "fuente": "Art. 46 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 46 LPAC, las formas de notificación complementarias que la Administración establezca de manera facultativa:",
+      "options": [
+        "No excluirán la obligación de publicar en el correspondiente Diario oficial",
+        "Sustituyen siempre a la publicación en el Diario oficial",
+        "Solo pueden emplearse si lo autoriza el interesado",
+        "Eximen a la Administración de motivar el acto"
+      ],
+      "correct": 0,
+      "exp": "Art. 46: '...que no excluirán la obligación de publicar en el correspondiente Diario oficial.'",
+      "fuente": "Art. 46 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El mecanismo de indicación regulado en el art. 46 LPAC tiene por finalidad proteger:",
+      "options": [
+        "El secreto de las deliberaciones del órgano colegiado",
+        "Los derechos o intereses legítimos que podrían resultar lesionados por la notificación íntegra por anuncios o la publicación del acto",
+        "La seguridad nacional, exclusivamente",
+        "El erario público frente a reclamaciones económicas"
+      ],
+      "correct": 1,
+      "exp": "Art. 46: 'Si el órgano competente apreciase que la notificación por medio de anuncios o la publicación de un acto lesiona derechos o intereses legítimos, se limitará a publicar...una somera indicación.'",
+      "fuente": "Art. 46 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 46 LPAC, dedicado a la indicación de notificaciones y publicaciones, se estructura en:",
+      "options": [
+        "Cuatro apartados numerados, como el art. 45",
+        "Siete letras, como el art. 47.1",
+        "Dos párrafos, sin apartados numerados",
+        "Un único párrafo indivisible"
+      ],
+      "correct": 2,
+      "exp": "El art. 46 consta de dos párrafos no numerados: el primero regula el mecanismo de indicación y el segundo las formas complementarias facultativas.",
+      "fuente": "Art. 46 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿En cuántos apartados se estructura el art. 47 LPAC?",
+      "options": [
+        "Tres apartados",
+        "Un único apartado",
+        "Siete apartados, uno por cada causa de nulidad",
+        "Dos apartados: el 1, relativo a los actos, y el 2, relativo a las disposiciones administrativas"
+      ],
+      "correct": 3,
+      "exp": "El art. 47 tiene dos apartados: el 1 regula la nulidad de pleno derecho de los actos (con siete causas tasadas, letras a a g) y el 2 la de las disposiciones administrativas.",
+      "fuente": "Art. 47 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "A diferencia del apartado 1, que se refiere a los actos administrativos, el art. 47.2 LPAC regula la nulidad de pleno derecho de:",
+      "options": [
+        "Las disposiciones administrativas",
+        "Los contratos del sector público",
+        "Los reglamentos de las Cortes Generales",
+        "Las sentencias judiciales firmes"
+      ],
+      "correct": 0,
+      "exp": "Art. 47.2: 'También serán nulas de pleno derecho las disposiciones administrativas que vulneren la Constitución, las leyes u otras disposiciones administrativas de rango superior...'",
+      "fuente": "Art. 47.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cómo se titula el Capítulo III del Título III de la LPAC, que se abre con el art. 47?",
+      "options": [
+        "Eficacia de los actos",
+        "Nulidad y anulabilidad",
+        "Requisitos de los actos administrativos",
+        "De la revisión de los actos en vía administrativa"
+      ],
+      "correct": 1,
+      "exp": "El encabezado del Capítulo III del Título III es 'Nulidad y anulabilidad'; en él se ubican los arts. 47 a 52.",
+      "fuente": "Art. 47 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuál de las siguientes NO figura entre las causas de nulidad de pleno derecho del art. 47.1 LPAC?",
+      "options": [
+        "Los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio",
+        "Los que tengan un contenido imposible",
+        "Los que contengan un simple error material o aritmético",
+        "Los que sean constitutivos de infracción penal o se dicten como consecuencia de ésta"
+      ],
+      "correct": 2,
+      "exp": "El error material o aritmético no está entre las causas tasadas del art. 47.1 (letras a a g); sí lo están la incompetencia manifiesta (letra b), el contenido imposible (letra c) y la infracción penal (letra d).",
+      "fuente": "Art. 47.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuál de las siguientes NO es una causa de nulidad de pleno derecho recogida en el art. 47.1 LPAC?",
+      "options": [
+        "Los dictados prescindiendo total y absolutamente del procedimiento legalmente establecido",
+        "Los que lesionen los derechos y libertades susceptibles de amparo constitucional",
+        "Cualquier otro que se establezca expresamente en una disposición con rango de Ley",
+        "Los que hayan sido notificados fuera del plazo de diez días previsto en el art. 40.2"
+      ],
+      "correct": 3,
+      "exp": "El incumplimiento del plazo de diez días para notificar (art. 40.2) no es causa de nulidad de pleno derecho del art. 47.1; las otras tres opciones corresponden literalmente a las letras e), a) y g) de dicho apartado.",
+      "fuente": "Art. 47.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿En qué letra del art. 47.1 LPAC se recoge, como causa de nulidad de pleno derecho, haber prescindido total y absolutamente del procedimiento legalmente establecido o de las normas esenciales de formación de la voluntad de los órganos colegiados?",
+      "options": [
+        "Letra e)",
+        "Letra c)",
+        "Letra f)",
+        "Letra g)"
+      ],
+      "correct": 0,
+      "exp": "Art. 47.1 e): 'Los dictados prescindiendo total y absolutamente del procedimiento legalmente establecido o de las normas que contienen las reglas esenciales para la formación de la voluntad de los órganos colegiados.'",
+      "fuente": "Art. 47.1.e) LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿En qué letra del art. 47.1 LPAC se recoge, como causa de nulidad de pleno derecho, la adquisición de facultades o derechos careciendo de los requisitos esenciales para ello?",
+      "options": [
+        "Letra d)",
+        "Letra f)",
+        "Letra e)",
+        "Letra a)"
+      ],
+      "correct": 1,
+      "exp": "Art. 47.1 f): 'Los actos expresos o presuntos contrarios al ordenamiento jurídico por los que se adquieren facultades o derechos cuando se carezca de los requisitos esenciales para su adquisición.'",
+      "fuente": "Art. 47.1.f) LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 47.1.g) LPAC prevé que una disposición con rango de Ley pueda establecer nuevas causas de nulidad de actos; el art. 47.2, en cambio, declara nulas de pleno derecho:",
+      "options": [
+        "Los actos dictados por el Consejo de Ministros, exclusivamente",
+        "Las leyes orgánicas aprobadas sin mayoría absoluta",
+        "Las disposiciones administrativas que regulen materias reservadas a la Ley, entre otros supuestos",
+        "Los reglamentos que no hayan sido dictaminados por el Consejo de Estado"
+      ],
+      "correct": 2,
+      "exp": "El art. 47.1.g) permite ampliar las causas de nulidad de actos mediante norma con rango de Ley; el art. 47.2, por su parte, declara nulas las disposiciones administrativas que vulneren la Constitución, normas de rango superior, o regulen materias reservadas a la Ley, entre otros supuestos.",
+      "fuente": "Art. 47.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Las causas de nulidad de pleno derecho enumeradas en las letras a) a f) del art. 47.1 LPAC constituyen una lista:",
+      "options": [
+        "Abierta, aplicable por analogía a cualquier infracción del ordenamiento",
+        "Meramente orientativa para el órgano instructor",
+        "Sujeta a modificación por vía reglamentaria",
+        "Cerrada (numerus clausus), solo ampliable mediante una disposición con rango de Ley conforme a la letra g)"
+      ],
+      "correct": 3,
+      "exp": "Las letras a) a f) del art. 47.1 son causas tasadas; solo la letra g) permite su ampliación, y únicamente 'mediante una disposición con rango de Ley'.",
+      "fuente": "Art. 47.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El defecto de forma en un acto administrativo se sanciona, con carácter general, con la anulabilidad y no con la nulidad de pleno derecho del art. 47 LPAC, porque:",
+      "options": [
+        "El art. 47.1 LPAC no incluye el defecto de forma entre sus causas tasadas de nulidad",
+        "El art. 47.1 LPAC declara nulo cualquier defecto de forma, sin excepción",
+        "El art. 47.2 LPAC excluye expresamente los defectos de forma de la nulidad de disposiciones",
+        "El art. 47.1 LPAC remite íntegramente al Código Civil para estos supuestos"
+      ],
+      "correct": 0,
+      "exp": "Ninguna de las siete causas tasadas del art. 47.1 (letras a a g) contempla el mero defecto de forma como causa de nulidad de pleno derecho.",
+      "fuente": "Art. 47.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿En qué letra del art. 47.1 LPAC se recoge, como causa de nulidad de pleno derecho, la lesión de derechos y libertades susceptibles de amparo constitucional?",
+      "options": [
+        "Letra g)",
+        "Letra a)",
+        "Letra b)",
+        "Letra d)"
+      ],
+      "correct": 1,
+      "exp": "Art. 47.1 a): 'Los que lesionen los derechos y libertades susceptibles de amparo constitucional.'",
+      "fuente": "Art. 47.1.a) LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuál de las siguientes situaciones NO constituye, por sí misma, una causa de nulidad de pleno derecho conforme al art. 47.1 LPAC?",
+      "options": [
+        "Un acto dictado por órgano manifiestamente incompetente por razón de la materia",
+        "Un acto con un contenido imposible",
+        "Un acto con un simple retraso de un día en su notificación al interesado",
+        "Un acto constitutivo de infracción penal"
+      ],
+      "correct": 2,
+      "exp": "El mero retraso en la notificación no aparece entre las causas tasadas del art. 47.1 (letras a a g); no equivale a la incompetencia manifiesta (letra b), el contenido imposible (letra c) ni la infracción penal (letra d), que sí lo son.",
+      "fuente": "Art. 47.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuál de las siguientes disposiciones administrativas NO sería nula de pleno derecho conforme al art. 47.2 LPAC, a diferencia de las demás?",
+      "options": [
+        "Una disposición que vulnere la Constitución",
+        "Una disposición que regule una materia reservada a la Ley",
+        "Una disposición de rango inferior que vulnere otra disposición administrativa de rango superior",
+        "Una disposición que establezca la retroactividad de una sanción más favorable para el interesado"
+      ],
+      "correct": 3,
+      "exp": "El art. 47.2 declara nula la retroactividad de disposiciones sancionadoras 'no favorables o restrictivas de derechos individuales'; una retroactividad favorable al interesado no está incluida en esta causa de nulidad.",
+      "fuente": "Art. 47.2 LPAC",
+      "confianza": "alta"
+    }
+  ]
+}
