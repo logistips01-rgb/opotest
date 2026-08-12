@@ -235,14 +235,6 @@
       "confianza": "alta"
     },
     {
-      "q": "El art. 10 RBEL enumera los modos en que las Corporaciones Locales pueden adquirir bienes y derechos. ¿Cuál de las siguientes opciones corresponde a uno de esos modos?",
-      "options": ["Por confiscación administrativa", "Por adjudicación directa del Estado sin título alguno", "Por simple posesión de hecho, sin más requisito", "Por herencia, legado o donación"],
-      "correct": 3,
-      "exp": "El art. 10.c) RBEL incluye entre los modos de adquisición 'por herencia, legado o donación'.",
-      "fuente": "Art. 10.c) RBEL",
-      "confianza": "alta"
-    },
-    {
       "q": "Según el art. 11.1 RBEL, cuando se trate de la adquisición onerosa de bienes inmuebles, además de los requisitos de la normativa de contratación, se exigirá:",
       "options": ["Autorización previa del Consejo de Ministros", "Informe favorable del Tribunal de Cuentas", "Dictamen del Consejo de Estado", "Informe previo pericial"],
       "correct": 3,
