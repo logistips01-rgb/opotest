@@ -1,0 +1,526 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 9,
+  "preguntas": [
+    {
+      "q": "Según el art. 131.2 LCSP, la adjudicación de los contratos de las Administraciones Públicas se realizará ordinariamente utilizando el procedimiento abierto o el procedimiento restringido, salvo en el caso de:",
+      "options": [
+        "Los contratos de obras de cualquier importe, que se adjudicarán siempre mediante diálogo competitivo",
+        "Los contratos de suministro sujetos a regulación armonizada, que se adjudicarán mediante asociación para la innovación",
+        "Los contratos de concesión de servicios especiales del Anexo IV, que se adjudicarán mediante el procedimiento restringido",
+        "Los contratos de servicios, que se adjudicarán siempre mediante subasta electrónica"
+      ],
+      "correct": 2,
+      "exp": "Art. 131.2: la adjudicación ordinaria se hace por procedimiento abierto o restringido, 'salvo los contratos de concesión de servicios especiales del Anexo IV, que se adjudicarán mediante este último procedimiento' (el restringido).",
+      "fuente": "Art. 131.2 LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 131.2 LCSP, ¿en qué supuestos podrá seguirse el procedimiento negociado sin publicidad?",
+      "options": [
+        "En los supuestos previstos en el artículo 145 de la LCSP",
+        "En los supuestos previstos en el artículo 168 de la LCSP",
+        "Únicamente cuando el valor estimado supere los seis millones de euros",
+        "En todos los contratos administrativos especiales, sin necesidad de justificación adicional"
+      ],
+      "correct": 1,
+      "exp": "Art. 131.2: 'En los supuestos del artículo 168 podrá seguirse el procedimiento negociado sin publicidad; en los casos previstos en el artículo 167 podrá recurrirse al diálogo competitivo o a la licitación con negociación, y en los indicados en el artículo 177 podrá emplearse el procedimiento de asociación para la innovación.'",
+      "fuente": "Art. 131.2 LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 131.3 LCSP, los contratos menores podrán adjudicarse:",
+      "options": [
+        "Solo tras la celebración de una subasta electrónica obligatoria",
+        "Exclusivamente mediante diálogo competitivo previa publicación de anuncio",
+        "Únicamente a empresas previamente clasificadas por la Junta Consultiva de Contratación",
+        "Directamente a cualquier empresario con capacidad de obrar y que cuente con la habilitación profesional necesaria, cumpliendo las normas del artículo 118"
+      ],
+      "correct": 3,
+      "exp": "Art. 131.3: 'Los contratos menores podrán adjudicarse directamente a cualquier empresario con capacidad de obrar y que cuente con la habilitación profesional necesaria para realizar la prestación, cumpliendo con las normas establecidas en el artículo 118.'",
+      "fuente": "Art. 131.3 LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 131.4 LCSP, en los contratos relativos a la prestación de asistencia sanitaria en supuestos de urgencia, no serán de aplicación las disposiciones de la Ley sobre preparación y adjudicación del contrato cuando el valor estimado sea inferior a:",
+      "options": [
+        "30.000 euros",
+        "6.000.000 de euros",
+        "100.000 euros",
+        "3.000.000 de euros"
+      ],
+      "correct": 0,
+      "exp": "Art. 131.4: 'En los contratos relativos a la prestación de asistencia sanitaria en supuestos de urgencia y con un valor estimado inferior a 30.000 euros, no serán de aplicación las disposiciones de esta Ley relativas a la preparación y adjudicación del contrato.'",
+      "fuente": "Art. 131.4 LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 132.1 LCSP, ¿en qué caso puede limitarse la participación en una licitación por razón de la forma jurídica o el ánimo de lucro del licitador?",
+      "options": [
+        "Nunca, en ningún supuesto puede limitarse por esa razón",
+        "Siempre que el órgano de contratación lo considere conveniente, sin necesidad de norma expresa",
+        "En los contratos reservados a que se refiere la disposición adicional cuarta de la LCSP",
+        "Solo en los contratos sujetos a regulación armonizada"
+      ],
+      "correct": 2,
+      "exp": "Art. 132.1: 'En ningún caso podrá limitarse la participación por la forma jurídica o el ánimo de lucro en la contratación, salvo en los contratos reservados para entidades recogidas en la disposición adicional cuarta.'",
+      "fuente": "Art. 132.1 LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 132.3 LCSP, cuando los órganos de contratación tengan conocimiento de indicios de prácticas concertadas entre licitadores que puedan falsear la competencia, deberán notificarlo a:",
+      "options": [
+        "El Tribunal de Cuentas exclusivamente",
+        "El Ministerio Fiscal, sin posibilidad de comunicarlo a otro organismo",
+        "El Banco de España",
+        "La Comisión Nacional de los Mercados y la Competencia o, en su caso, a las autoridades autonómicas de competencia"
+      ],
+      "correct": 3,
+      "exp": "Art. 132.3: los órganos de contratación 'notificarán a la Comisión Nacional de los Mercados y la Competencia o, en su caso, a las autoridades autonómicas de competencia, cualesquiera hechos... que puedan constituir infracción a la legislación de defensa de la competencia.'",
+      "fuente": "Art. 132.3 LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 133.1 LCSP, el carácter confidencial de la información facilitada por los empresarios afecta, entre otros aspectos, a:",
+      "options": [
+        "La totalidad del contenido de la oferta del adjudicatario, sin excepción alguna",
+        "Los secretos técnicos o comerciales y los aspectos confidenciales de las ofertas",
+        "El nombre del adjudicatario, que en todo caso debe mantenerse confidencial",
+        "Los plazos finales de ejecución de la obra, que nunca pueden divulgarse"
+      ],
+      "correct": 1,
+      "exp": "Art. 133.1: 'El carácter de confidencial afecta, entre otros, a los secretos técnicos o comerciales, a los aspectos confidenciales de las ofertas y a cualesquiera otras informaciones cuyo contenido pueda ser utilizado para falsear la competencia.'",
+      "fuente": "Art. 133.1 LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 133.2 LCSP, el deber de confidencialidad del contratista respecto de la información a la que tenga acceso con ocasión de la ejecución del contrato se mantendrá, salvo que los pliegos o el contrato establezcan un plazo mayor, durante:",
+      "options": [
+        "Cinco años desde el conocimiento de esa información",
+        "Un año desde la formalización del contrato",
+        "Diez años desde la recepción de la obra",
+        "Indefinidamente, sin límite temporal alguno"
+      ],
+      "correct": 0,
+      "exp": "Art. 133.2: 'Este deber se mantendrá durante un plazo de cinco años desde el conocimiento de esa información, salvo que los pliegos o el contrato establezcan un plazo mayor.'",
+      "fuente": "Art. 133.2 LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 139.3 LCSP, ¿cuántas proposiciones puede presentar cada licitador en un procedimiento de adjudicación?",
+      "options": [
+        "Hasta tres proposiciones alternativas, sin ninguna limitación adicional",
+        "Tantas como uniones temporales integre",
+        "Dos proposiciones: una individual y otra en unión temporal",
+        "No podrá presentar más de una, sin perjuicio de lo dispuesto sobre variantes y subasta electrónica"
+      ],
+      "correct": 3,
+      "exp": "Art. 139.3: 'Cada licitador no podrá presentar más de una proposición, sin perjuicio de lo dispuesto en el artículo 142 sobre admisibilidad de variantes y en el artículo 143 sobre... subasta electrónica.'",
+      "fuente": "Art. 139.3 LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 143.11 LCSP, ¿qué contratos no podrán adjudicarse mediante subasta electrónica?",
+      "options": [
+        "Los contratos de obras de cualquier importe",
+        "Los contratos de servicios jurídicos, en todo caso",
+        "Aquellos cuyo objeto tenga relación con la calidad alimentaria",
+        "Los contratos sujetos a regulación armonizada, sin excepción"
+      ],
+      "correct": 2,
+      "exp": "Art. 143.11: 'No se adjudicarán mediante subasta electrónica los contratos cuyo objeto tenga relación con la calidad alimentaria.'",
+      "fuente": "Art. 143.11 LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 145.4 LCSP, en los contratos de servicios del Anexo IV y en los que tengan por objeto prestaciones de carácter intelectual, los criterios relacionados con la calidad deberán representar, al menos:",
+      "options": [
+        "El 51 por ciento de la puntuación asignable en la valoración de las ofertas",
+        "El 25 por ciento de la puntuación asignable",
+        "El 10 por ciento de la puntuación asignable",
+        "El 90 por ciento de la puntuación asignable"
+      ],
+      "correct": 0,
+      "exp": "Art. 145.4: 'los criterios relacionados con la calidad deberán representar, al menos, el 51 por ciento de la puntuación asignable en la valoración de las ofertas.'",
+      "fuente": "Art. 145.4 LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 145.7 LCSP, cuando las mejoras como criterio de adjudicación se valoren conforme al criterio del art. 146.2.a) (comité de expertos), su valoración no podrá ser superior a:",
+      "options": [
+        "El 10 por ciento",
+        "El 2,5 por ciento",
+        "El 25 por ciento",
+        "El 51 por ciento"
+      ],
+      "correct": 1,
+      "exp": "Art. 145.7: 'en los supuestos en que su valoración se efectúe de conformidad con lo establecido en el apartado segundo, letra a) del artículo siguiente, no podrá asignársele una valoración superior al 2,5 por ciento.'",
+      "fuente": "Art. 145.7 LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 146.2.a) LCSP, en los procedimientos abierto o restringido celebrados por las Administraciones Públicas, la valoración de los criterios que dependan de un juicio de valor, cuando tengan una ponderación mayor que la de los evaluables de forma automática, corresponderá a un comité de expertos que deberá contar con un mínimo de:",
+      "options": [
+        "Cinco miembros",
+        "Un solo miembro, el presidente de la Mesa",
+        "Tres miembros",
+        "Siete miembros"
+      ],
+      "correct": 2,
+      "exp": "Art. 146.2.a): la valoración corresponderá 'a un comité formado por expertos con cualificación apropiada, que cuente con un mínimo de tres miembros.'",
+      "fuente": "Art. 146.2.a) LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 147.1.b) LCSP, entre los criterios de desempate que los órganos de contratación pueden establecer en los pliegos se encuentran las proposiciones presentadas por:",
+      "options": [
+        "Empresas de inserción reguladas en la Ley 44/2007, de 13 de diciembre",
+        "Empresas que hayan obtenido mayores beneficios en el último ejercicio",
+        "Empresas con mayor número de empleados en plantilla, sin más requisitos",
+        "Empresas domiciliadas en el mismo municipio que el órgano de contratación"
+      ],
+      "correct": 0,
+      "exp": "Art. 147.1.b): entre los criterios de desempate figuran las 'proposiciones de empresas de inserción reguladas en la Ley 44/2007, de 13 de diciembre.'",
+      "fuente": "Art. 147.1.b) LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 147.2.a) LCSP, en defecto de previsión en los pliegos, el primer criterio que se aplicará para resolver un empate entre ofertas es:",
+      "options": [
+        "El sorteo entre las empresas empatadas",
+        "El menor precio ofertado, redondeado a la baja",
+        "La antigüedad de la empresa en el Registro de Licitadores",
+        "El mayor porcentaje de trabajadores con discapacidad o en situación de exclusión social en la plantilla de cada empresa"
+      ],
+      "correct": 3,
+      "exp": "Art. 147.2: 'el empate... se resolverá mediante la aplicación por orden de los siguientes criterios sociales... a) Mayor porcentaje de trabajadores con discapacidad o en situación de exclusión social en la plantilla de cada una de las empresas...'",
+      "fuente": "Art. 147.2.a) LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 149.1 LCSP, cuando el órgano de contratación presuma que una oferta es anormalmente baja, ¿puede excluirla directamente del procedimiento?",
+      "options": [
+        "Sí, de forma inmediata y sin trámite alguno",
+        "No, solo podrá excluirla previa tramitación del procedimiento que establece el propio artículo 149",
+        "Sí, siempre que lo autorice previamente el Tribunal de Cuentas",
+        "No, en ningún caso podrá excluirse una oferta anormalmente baja"
+      ],
+      "correct": 1,
+      "exp": "Art. 149.1: 'solo podrá excluirla del procedimiento de licitación previa tramitación del procedimiento que establece este artículo.'",
+      "fuente": "Art. 149.1 LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 149.4.e) LCSP, entre los aspectos sobre los que el órgano de contratación puede pedir justificación a un licitador cuya oferta se presume anormalmente baja se encuentra:",
+      "options": [
+        "La posible obtención de una ayuda de Estado",
+        "El número de socios de la empresa licitadora",
+        "La antigüedad del domicilio social de la empresa",
+        "El resultado contable del ejercicio anterior, sin relación con la oferta"
+      ],
+      "correct": 0,
+      "exp": "Art. 149.4.e): entre los valores sobre los que puede pedirse justificación figura 'la posible obtención de una ayuda de Estado.'",
+      "fuente": "Art. 149.4.e) LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 149.5 LCSP, cuando se rechace una oferta anormalmente baja por haber obtenido el licitador una ayuda de Estado, en un contrato sujeto a regulación armonizada, el órgano de contratación deberá:",
+      "options": [
+        "Comunicarlo únicamente al Tribunal de Cuentas",
+        "Suspender la contratación pública en toda la Unión Europea",
+        "Informar de ello a la Comisión Europea",
+        "No tiene obligación de comunicarlo a ningún organismo"
+      ],
+      "correct": 2,
+      "exp": "Art. 149.5: 'El órgano de contratación que rechace una oferta por esta razón deberá informar de ello a la Comisión Europea, cuando el procedimiento de adjudicación se refiera a un contrato sujeto a regulación armonizada.'",
+      "fuente": "Art. 149.5 LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 150.2 LCSP, el licitador que haya presentado la mejor oferta dispone, para presentar la documentación justificativa requerida por el órgano de contratación, de un plazo de:",
+      "options": [
+        "Cinco días naturales desde la adjudicación",
+        "Diez días hábiles desde el requerimiento",
+        "Un mes desde la apertura de proposiciones",
+        "Veinte días hábiles desde la notificación de la propuesta de la mesa"
+      ],
+      "correct": 1,
+      "exp": "Art. 150.2: los servicios requerirán al licitador 'para que, dentro del plazo de diez días hábiles, a contar desde el siguiente a aquel en que hubiera recibido el requerimiento, presente la documentación justificativa...'",
+      "fuente": "Art. 150.2 LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 151.1 LCSP, la resolución de adjudicación deberá ser motivada, notificada a los candidatos y licitadores, y publicada en el perfil de contratante en el plazo de:",
+      "options": [
+        "30 días",
+        "5 días hábiles",
+        "2 meses",
+        "15 días"
+      ],
+      "correct": 3,
+      "exp": "Art. 151.1: 'La resolución de adjudicación deberá ser motivada y se notificará a los candidatos y licitadores, debiendo ser publicada en el perfil de contratante en el plazo de 15 días.'",
+      "fuente": "Art. 151.1 LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 156.2 LCSP, en los procedimientos abiertos de adjudicación de contratos de obras, suministros y servicios sujetos a regulación armonizada, el plazo de presentación de proposiciones no será inferior a:",
+      "options": [
+        "Treinta y cinco días desde el envío del anuncio a la Oficina de Publicaciones de la UE",
+        "Quince días desde la publicación en el perfil de contratante",
+        "Sesenta días naturales en todo caso",
+        "Diez días hábiles desde la invitación"
+      ],
+      "correct": 0,
+      "exp": "Art. 156.2: el plazo 'no será inferior a treinta y cinco días, para los contratos de obras, suministros y servicios, y a treinta días para las concesiones de obras y servicios, contados desde la fecha de envío del anuncio de licitación a la Oficina de Publicaciones de la Unión Europea.'",
+      "fuente": "Art. 156.2 LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 159.1.a) LCSP, el procedimiento abierto simplificado podrá utilizarse en los contratos de obras cuando su valor estimado sea igual o inferior a:",
+      "options": [
+        "6.000.000 de euros",
+        "500.000 euros",
+        "80.000 euros",
+        "2.000.000 de euros"
+      ],
+      "correct": 3,
+      "exp": "Art. 159.1.a): procede el abierto simplificado 'que su valor estimado sea igual o inferior a 2.000.000 de euros en el caso de contratos de obras.'",
+      "fuente": "Art. 159.1.a) LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 162.2 LCSP, en el procedimiento restringido, el número mínimo de empresarios a los que el órgano de contratación invitará a participar no podrá ser inferior a:",
+      "options": [
+        "Tres",
+        "Diez",
+        "Cinco",
+        "Uno, si reúne la solvencia exigida"
+      ],
+      "correct": 2,
+      "exp": "Art. 162.2: 'El órgano de contratación señalará el número mínimo de empresarios a los que invitará a participar en el procedimiento, que no podrá ser inferior a cinco.'",
+      "fuente": "Art. 162.2 LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 168.a).2º LCSP, entre los supuestos en que puede utilizarse el procedimiento negociado sin publicidad se encuentra el caso en que las obras, suministros o servicios solo puedan ser encomendados a un empresario determinado por:",
+      "options": [
+        "Ser el empresario de menor tamaño de entre los inscritos en el Registro de Licitadores",
+        "Tratarse de la creación o adquisición de una obra de arte única, no existir competencia por razones técnicas, o proceder la protección de derechos exclusivos",
+        "Haber presentado la oferta económica más baja en una licitación anterior declarada desierta",
+        "Pertenecer a un grupo empresarial con sede en el mismo municipio"
+      ],
+      "correct": 1,
+      "exp": "Art. 168.a).2º: procede cuando las obras, suministros o servicios 'solo puedan ser encomendados a un empresario determinado, por alguna de las siguientes razones: que el contrato tenga por objeto la creación o adquisición de una obra de arte única... que no exista competencia por razones técnicas; o que proceda la protección de derechos exclusivos.'",
+      "fuente": "Art. 168.a).2º LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 177.1 LCSP, la asociación para la innovación es un procedimiento que tiene como finalidad:",
+      "options": [
+        "El desarrollo de productos, servicios u obras innovadores y la compra ulterior de los suministros, servicios u obras resultantes",
+        "Exclusivamente la financiación de proyectos de investigación sin compra posterior",
+        "La adjudicación directa de contratos menores de carácter tecnológico",
+        "La fusión de dos o más empresas licitadoras para concurrir conjuntamente"
+      ],
+      "correct": 0,
+      "exp": "Art. 177.1: 'La asociación para la innovación es un procedimiento que tiene como finalidad el desarrollo de productos, servicios u obras innovadores y la compra ulterior de los suministros, servicios u obras resultantes.'",
+      "fuente": "Art. 177.1 LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según la Disposición adicional segunda.3 de la LCSP, en los municipios de población inferior a 5.000 habitantes, ¿qué competencia adicional corresponde al Pleno en relación con obras cuya ejecución exceda de un presupuesto anual?",
+      "options": [
+        "Redactar personalmente el proyecto técnico de la obra",
+        "Autorizar la redacción y licitación de proyectos independientes relativos a cada una de las partes de la obra, si son susceptibles de utilización separada o pueden definirse sustancialmente",
+        "Ejecutar directamente la obra sin intervención de ningún contratista",
+        "Nombrar al director facultativo de la obra en representación del Alcalde"
+      ],
+      "correct": 1,
+      "exp": "DA 2ª.3: 'En los municipios de población inferior a 5.000 habitantes es igualmente competencia del Pleno autorizar la redacción y licitación de proyectos independientes relativos a cada una de las partes de una obra cuyo periodo de ejecución exceda al de un presupuesto anual, siempre que estas sean susceptibles de utilización separada... o puedan ser sustancialmente definidas.'",
+      "fuente": "DA 2ª.3 LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según la Disposición adicional segunda.4 de la LCSP, en los municipios de gran población a que se refiere el art. 121 LBRL, las competencias del órgano de contratación descritas en los apartados anteriores se ejercerán por la Junta de Gobierno Local:",
+      "options": [
+        "Solo cuando el contrato no supere los seis millones de euros",
+        "Únicamente en los contratos de suministro, nunca en los de obras",
+        "Solo si el Pleno delega expresamente esa competencia caso por caso",
+        "Cualquiera que sea el importe del contrato o la duración del mismo, correspondiendo al Pleno la aprobación de los pliegos de cláusulas administrativas generales"
+      ],
+      "correct": 3,
+      "exp": "DA 2ª.4: 'las competencias del órgano de contratación... se ejercerán por la Junta de Gobierno Local, cualquiera que sea el importe del contrato o la duración del mismo, siendo el Pleno el competente para aprobar los pliegos de cláusulas administrativas generales.'",
+      "fuente": "DA 2ª.4 LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según la Disposición adicional segunda.5 de la LCSP, las Juntas de Contratación, de constitución potestativa en las Entidades Locales, actuarán como órgano de contratación, entre otros, en los contratos de obras que tengan por objeto:",
+      "options": [
+        "La construcción de nuevas infraestructuras de cualquier importe",
+        "Obras declaradas de interés general por el Estado",
+        "Trabajos de reparación simple, de conservación y de mantenimiento",
+        "Obras financiadas exclusivamente con fondos europeos"
+      ],
+      "correct": 2,
+      "exp": "DA 2ª.5: las Juntas de Contratación actuarán como órgano de contratación 'en los contratos de obras que tengan por objeto trabajos de reparación simple, de conservación y de mantenimiento.'",
+      "fuente": "DA 2ª.5 LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según la Disposición adicional segunda.5 de la LCSP, al acordar el Pleno la constitución de una Junta de Contratación, ¿qué miembros deben formar parte de ella necesariamente?",
+      "options": [
+        "El Secretario, o el titular del órgano de asesoramiento jurídico, y el Interventor de la Corporación",
+        "Únicamente el Alcalde y dos concejales de la oposición",
+        "El Defensor del Pueblo y un representante sindical",
+        "Dos funcionarios de cualquier categoría elegidos por sorteo"
+      ],
+      "correct": 0,
+      "exp": "DA 2ª.5: 'debiendo formar parte de las mismas necesariamente el Secretario o el titular del órgano que tenga atribuida la función de asesoramiento jurídico de la Corporación, y el Interventor de la misma.'",
+      "fuente": "DA 2ª.5 LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según la Disposición adicional segunda.6 de la LCSP, además de constituirse como centrales de contratación conforme al artículo 228, ¿qué otra fórmula pueden utilizar los municipios de población inferior a 5.000 habitantes para gestionar sus procedimientos de contratación?",
+      "options": [
+        "Delegar la contratación en cualquier empresa privada de asesoría jurídica",
+        "Suprimir el trámite de licitación en todos los contratos",
+        "Concertar convenios para encomendar la gestión del procedimiento a las Diputaciones provinciales o a las Comunidades Autónomas uniprovinciales",
+        "Encomendar la contratación al Tribunal de Cuentas"
+      ],
+      "correct": 2,
+      "exp": "DA 2ª.6: 'podrán concertarse convenios en virtud de los cuales se encomiende la gestión del procedimiento de contratación a las Diputaciones provinciales o a las Comunidades Autónomas de carácter uniprovincial.'",
+      "fuente": "DA 2ª.6 LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según la Disposición adicional segunda.7 de la LCSP, la Mesa de contratación en el ámbito local estará presidida por:",
+      "options": [
+        "Necesariamente el Alcalde o Presidente de la Entidad Local",
+        "Un miembro de la Corporación o un funcionario de la misma",
+        "El Secretario del Ayuntamiento en todo caso",
+        "Un representante designado por la Comunidad Autónoma"
+      ],
+      "correct": 1,
+      "exp": "DA 2ª.7: 'La Mesa de contratación estará presidida por un miembro de la Corporación o un funcionario de la misma...'",
+      "fuente": "DA 2ª.7 LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según la Disposición adicional segunda.7 de la LCSP, los miembros electos que, en su caso, formen parte de la Mesa de contratación local:",
+      "options": [
+        "Deberán constituir necesariamente la mayoría absoluta de la Mesa",
+        "Tienen prohibida por completo su participación en la Mesa",
+        "Deben ser, como mínimo, la mitad más uno de sus componentes",
+        "No podrán suponer más de un tercio del total de miembros de la misma"
+      ],
+      "correct": 3,
+      "exp": "DA 2ª.7: 'Los miembros electos que, en su caso, formen parte de la Mesa de contratación no podrán suponer más de un tercio del total de miembros de la misma.'",
+      "fuente": "DA 2ª.7 LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según la Disposición adicional segunda.7 de la LCSP, ¿en qué caso podrá formar parte de la Mesa de contratación local un funcionario interino?",
+      "options": [
+        "Únicamente cuando no existan funcionarios de carrera suficientemente cualificados y así se acredite en el expediente",
+        "En cualquier caso, sin necesidad de justificación",
+        "Nunca, la ley lo prohíbe de forma absoluta",
+        "Solo si lo autoriza expresamente la Comunidad Autónoma"
+      ],
+      "correct": 0,
+      "exp": "DA 2ª.7: 'Podrá formar parte de la Mesa personal funcionario interino únicamente cuando no existan funcionarios de carrera suficientemente cualificados y así se acredite en el expediente.'",
+      "fuente": "DA 2ª.7 LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según la Disposición adicional segunda.7 de la LCSP, la composición de la Mesa de contratación local:",
+      "options": [
+        "Es siempre secreta y no puede publicarse por motivos de seguridad",
+        "Solo se comunica a los licitadores que resulten adjudicatarios",
+        "Debe aprobarse mediante ley autonómica en cada caso",
+        "Se publicará en el perfil de contratante del órgano de contratación correspondiente, pudiéndose constituir Mesas de Contratación permanentes"
+      ],
+      "correct": 3,
+      "exp": "DA 2ª.7: 'La composición de la Mesa se publicará en el perfil de contratante del órgano de contratación correspondiente. Se podrán constituir Mesas de Contratación permanentes.'",
+      "fuente": "DA 2ª.7 LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según la Disposición adicional segunda.8 de la LCSP, el comité de expertos para la valoración de los criterios que dependan de un juicio de valor, en el ámbito de las Entidades Locales, deberá incluir en todo caso:",
+      "options": [
+        "Un representante del Tribunal de Cuentas",
+        "Un técnico jurista especializado en contratación pública",
+        "Un miembro de la Junta Consultiva de Contratación del Estado",
+        "Un notario que dé fe de las valoraciones"
+      ],
+      "correct": 1,
+      "exp": "DA 2ª.8: 'En todo caso, entre este personal deberá formar parte un técnico jurista especializado en contratación pública.'",
+      "fuente": "DA 2ª.8 LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según la Disposición adicional segunda.9 de la LCSP, corresponde a los Alcaldes y Presidentes de las Entidades Locales la competencia para la celebración de contratos privados, la adjudicación de concesiones sobre bienes propios y la adquisición de bienes inmuebles cuando el presupuesto base de licitación no supere el 10 por ciento de los recursos ordinarios del presupuesto ni:",
+      "options": [
+        "El importe de seis millones de euros",
+        "El importe de un millón de euros",
+        "El importe de tres millones de euros",
+        "El importe de diez millones de euros"
+      ],
+      "correct": 2,
+      "exp": "DA 2ª.9: corresponde al Alcalde 'cuando el presupuesto base de licitación... no supere el 10 por ciento de los recursos ordinarios del presupuesto ni el importe de tres millones de euros'; nótese que este límite (3 millones) es distinto del de los contratos administrativos ordinarios (6 millones, DA 2ª.1).",
+      "fuente": "DA 2ª.9 LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según la Disposición adicional segunda.10 de la LCSP, corresponde al Pleno la competencia para la enajenación del patrimonio y la adquisición de bienes inmuebles cuando no estén atribuidas al Alcalde o Presidente, así como, cualquiera que sea su valor:",
+      "options": [
+        "Los bienes declarados de valor histórico o artístico",
+        "Los vehículos oficiales de la Corporación",
+        "El mobiliario de las dependencias municipales",
+        "Los equipos informáticos de la Corporación"
+      ],
+      "correct": 0,
+      "exp": "DA 2ª.10: corresponde al Pleno esa competencia 'cuando no estén atribuidas al Alcalde o al Presidente, y de los bienes declarados de valor histórico o artístico cualquiera que sea su valor.'",
+      "fuente": "DA 2ª.10 LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según la Disposición adicional segunda.11 de la LCSP, en los municipios de gran población a que se refiere el art. 121 LBRL, las competencias descritas en los apartados anteriores relativas a contratos privados y bienes de la Corporación se ejercerán por:",
+      "options": [
+        "El Pleno, únicamente si el importe supera los seis millones de euros",
+        "El Secretario municipal, por delegación permanente",
+        "La Junta de Gobierno Local, cualquiera que sea el importe del contrato o la duración del mismo",
+        "El Defensor del Ciudadano de la Corporación"
+      ],
+      "correct": 2,
+      "exp": "DA 2ª.11: 'las competencias que se describen en los apartados anteriores se ejercerán por la Junta de Gobierno Local, cualquiera que sea el importe del contrato o la duración del mismo.'",
+      "fuente": "DA 2ª.11 LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según la Disposición adicional segunda.12 de la LCSP, las referencias a las Diputaciones provinciales contenidas en la Ley también se entenderán efectuadas a:",
+      "options": [
+        "Las Comunidades Autónomas pluriprovinciales, sin excepción",
+        "El Estado, a través de sus Delegaciones de Gobierno",
+        "Los consorcios de aguas de ámbito autonómico",
+        "Los entes locales supramunicipales previstos en los correspondientes Estatutos de Autonomía con competencias de asistencia y cooperación a los municipios y de prestación de servicios públicos locales"
+      ],
+      "correct": 3,
+      "exp": "DA 2ª.12: 'Las referencias a las Diputaciones provinciales contenidas en esta Ley también se entenderán efectuadas a los entes locales supramunicipales previstos en los correspondientes Estatutos de Autonomía con competencias en materia de asistencia y de cooperación a los municipios, y de prestación de servicios públicos locales.'",
+      "fuente": "DA 2ª.12 LCSP",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según la Disposición adicional segunda.7 de la LCSP, en las Entidades locales municipales, mancomunidades y consorcios locales, ¿qué personal puede integrarse en la Mesa de contratación además del propio de la Entidad?",
+      "options": [
+        "Personal de cualquier empresa privada de consultoría, sin restricción",
+        "Personal al servicio de las correspondientes Diputaciones Provinciales o Comunidades Autónomas uniprovinciales",
+        "Personal de otros Ayuntamientos limítrofes, sin necesidad de convenio",
+        "Personal del Tribunal de Cuentas de forma permanente"
+      ],
+      "correct": 1,
+      "exp": "DA 2ª.7: 'En las Entidades locales municipales, mancomunidades y consorcios locales, podrán integrarse en la Mesa personal al servicio de las correspondientes Diputaciones Provinciales o Comunidades Autónomas uniprovinciales.'",
+      "fuente": "DA 2ª.7 LCSP",
+      "confianza": "alta"
+    }
+  ]
+}
