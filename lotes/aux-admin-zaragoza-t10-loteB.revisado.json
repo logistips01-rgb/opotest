@@ -1,0 +1,406 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 10,
+  "preguntas": [
+    {
+      "q": "Según el art. 17.1 RBEL, ¿de qué bienes y derechos están obligadas a formar inventario las Corporaciones locales?",
+      "options": ["Únicamente de los bienes inmuebles de dominio público", "De todos sus bienes y derechos, cualquiera que sea su naturaleza o forma de adquisición", "Solo de los bienes patrimoniales de valor superior a determinada cuantía", "Exclusivamente de los bienes muebles de carácter histórico o artístico"],
+      "correct": 1,
+      "exp": "Art. 17.1: 'Las Corporaciones locales están obligadas a formar inventario de todos sus bienes y derechos, cualquiera que sea su naturaleza o forma de adquisición.'",
+      "fuente": "Art. 17.1 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado el art. 17.1 en _rbel.txt: cita textual exacta; la opción correcta reproduce el precepto y las tres distractoras son restricciones falsas sin solape entre sí."
+    },
+    {
+      "q": "Según el art. 18 RBEL, ¿en cuántos epígrafes se reseñan los bienes en el inventario, según su naturaleza?",
+      "options": ["Seis", "Diez", "Ocho", "Cinco"],
+      "correct": 2,
+      "exp": "El art. 18 enumera ocho epígrafes: inmuebles, derechos reales, muebles históricos/artísticos, valores mobiliarios/créditos/derechos personales, vehículos, semovientes, muebles no comprendidos en los anteriores, y bienes y derechos revertibles.",
+      "fuente": "Art. 18 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Contados en el art. 18 los ocho epígrafes numerados 1.º a 8.º; la cifra 'Ocho' es la correcta y las demás opciones son cifras distintas sin ambigüedad."
+    },
+    {
+      "q": "Tratándose de vías públicas, según el art. 20.g) RBEL, el inventario de bienes inmuebles debe contener los datos necesarios para su individualización, con especial referencia a:",
+      "options": ["El presupuesto anual de conservación", "El nombre del contratista que ejecutó las obras", "El número de farolas y mobiliario urbano instalado", "Sus límites, longitud y anchura"],
+      "correct": 3,
+      "exp": "Art. 20.g): 'Tratándose de vías públicas, en el inventario deberán constar los datos necesarios para su individualización, con especial referencia a sus límites, longitud y anchura.'",
+      "fuente": "Art. 20.g) RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Verificada la letra g) del art. 20: coincide palabra por palabra con la opción marcada correcta; el resto son datos inventados no mencionados en el precepto."
+    },
+    {
+      "q": "Según el art. 20.i) RBEL, al inventariar un bien inmueble debe expresarse su naturaleza de dominio público o patrimonial, distinguiendo si se trata de:",
+      "options": ["Bienes urbanos o rústicos exclusivamente", "Bienes libres de cargas o gravados", "Bienes muebles o inmuebles", "Bienes de uso o de servicio público, patrimoniales o comunales"],
+      "correct": 3,
+      "exp": "Art. 20.i): 'Naturaleza de dominio público o patrimonial, con expresión de si se trata de bienes de uso o de servicio público, patrimoniales o comunales.'",
+      "fuente": "Art. 20.i) RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Verificada la letra i) del art. 20: la opción correcta reproduce literalmente la distinción del precepto; las otras tres son clasificaciones distintas no citadas en esa letra."
+    },
+    {
+      "q": "Según el art. 21 RBEL, entre las circunstancias que debe comprender el inventario de los derechos reales se encuentra:",
+      "options": ["El nombre del notario que autorizó su constitución", "El inmueble sobre el que recayere y el contenido del derecho", "El número de recursos administrativos pendientes", "La fecha de fallecimiento del anterior titular"],
+      "correct": 1,
+      "exp": "Art. 21 enumera, entre otras circunstancias del inventario de derechos reales: naturaleza, inmueble sobre el que recayere, contenido del derecho, título de adquisición, signatura registral, costo, valor actual y frutos y rentas.",
+      "fuente": "Art. 21 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejadas las letras b) y c) del art. 21: la opción correcta agrupa dos circunstancias reales del listado; las distractoras no figuran en el artículo."
+    },
+    {
+      "q": "Según el art. 23 RBEL, el inventario de los valores mobiliarios debe contener, entre otras determinaciones, el/la:",
+      "options": ["Cotización media del último trimestre bursátil", "Domicilio fiscal del titular de los valores", "Número de los títulos, su clase y el organismo o Entidad emisora", "Nombre del corredor de bolsa que intermedió la operación"],
+      "correct": 2,
+      "exp": "Art. 23 enumera entre las determinaciones del inventario de valores mobiliarios: número de los títulos, clase, organismo o entidad emisora, serie y numeración, fecha y precio de adquisición, capital nominal, valor efectivo, frutos y rentas, y lugar de depósito.",
+      "fuente": "Art. 23 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Verificadas las letras a), b) y c) del art. 23: coinciden con la opción correcta; las otras tres son datos no incluidos en el precepto."
+    },
+    {
+      "q": "Según el art. 26 RBEL, el inventario de los bienes semovientes debe consignar, entre otros datos:",
+      "options": ["El peso medio del ganado y su valor en el mercado internacional", "El nombre del veterinario responsable de su sanidad", "El destino final previsto para su venta", "La especie, el número de cabezas y las marcas"],
+      "correct": 3,
+      "exp": "Art. 26: 'El inventario de los bienes semovientes consignara: a) Especie. b) Número de cabezas. c) Marcas, y d) Persona encargada de la custodia.'",
+      "fuente": "Art. 26 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Contrastado el art. 26 completo (a-d): la opción correcta reúne tres de los cuatro datos exigidos; el resto son invenciones."
+    },
+    {
+      "q": "Según el art. 28.2 RBEL, ¿cuáles de los siguientes bienes se relacionan, entre otros, en el epígrafe de 'bienes y derechos revertibles' del inventario?",
+      "options": ["Únicamente los bienes de dominio público natural", "Los bienes adquiridos mediante expropiación forzosa", "Los cedidos por la Corporación condicionalmente o a plazo, las concesiones y los arrendamientos otorgados sobre bienes municipales o provinciales", "Los bienes muebles de escaso valor económico"],
+      "correct": 2,
+      "exp": "Art. 28.2: 'Se relacionarán en esta parte del inventario, entre otros bienes, los cedidos por la Corporación condicionalmente o a plazo, las concesiones y los arrendamientos otorgados sobre bienes municipales o provinciales.'",
+      "fuente": "Art. 28.2 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cita textual del art. 28.2 comprobada palabra por palabra; coincide exactamente con la opción marcada correcta."
+    },
+    {
+      "q": "Según el art. 31 RBEL, de los inventarios separados previstos en el art. 17, párrafo segundo, deben conservarse ejemplares en:",
+      "options": ["Únicamente en el Registro de la Propiedad", "La Entidad respectiva, las oficinas de la Corporación, y en poder de la Administración del Estado y de la Comunidad Autónoma", "Solo en las oficinas de la Corporación", "Exclusivamente en el Boletín Oficial del Estado"],
+      "correct": 1,
+      "exp": "Art. 31: '...quedara, en todo caso, un ejemplar en la Entidad respectiva, otro en las oficinas de la Corporación y otro en poder de la Administración del Estado y de la Comunidad Autónoma...'",
+      "fuente": "Art. 31 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Verificado que el art. 31 remite al art. 17 párrafo segundo y enumera los tres depositarios citados en la opción correcta."
+    },
+    {
+      "q": "Según el art. 32.1 RBEL, los inventarios de las Corporaciones locales serán autorizados por:",
+      "options": ["El Pleno, mediante acuerdo en sesión extraordinaria", "El Interventor municipal, sin necesidad de más trámite", "El Registrador de la Propiedad competente", "El Secretario de la Corporación, con el visto bueno del Presidente"],
+      "correct": 3,
+      "exp": "Art. 32.1: 'Los inventarios serán autorizados por el Secretario de la Corporación con el visto bueno del Presidente...'",
+      "fuente": "Art. 32.1 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado el art. 32.1: coincide literalmente con la opción correcta; los demás órganos no aparecen en el apartado."
+    },
+    {
+      "q": "Según el art. 33.1 RBEL, ¿con qué periodicidad se verificará la rectificación del inventario?",
+      "options": ["Trimestralmente", "Cada dos años", "Anualmente", "Cada legislatura municipal"],
+      "correct": 2,
+      "exp": "Art. 33.1: 'La rectificación del inventario se verificará anualmente, y en ella se reflejarán las vicisitudes de toda índole de los bienes y derechos durante esa etapa.'",
+      "fuente": "Art. 33.1 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado en el art. 33.1 que la periodicidad es 'anualmente'; las demás periodicidades no figuran en el texto."
+    },
+    {
+      "q": "Según el art. 34 RBEL, ¿qué órgano es competente para acordar la aprobación del inventario, su rectificación y comprobación?",
+      "options": ["La Junta de Gobierno Local", "El Alcalde-Presidente, por delegación permanente", "El Secretario de la Corporación", "El Pleno de la Corporación local"],
+      "correct": 3,
+      "exp": "Art. 34: 'El Pleno de la Corporación local será el órgano competente para acordar la aprobación del inventario ya formado, su rectificación y comprobación.'",
+      "fuente": "Art. 34 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Verificado que el art. 34 designa expresamente al Pleno como órgano competente, coincidiendo con la opción marcada."
+    },
+    {
+      "q": "Según el art. 36.2 RBEL, a efectos de la inscripción en el Registro de la Propiedad de los bienes inmuebles de la Corporación, será suficiente:",
+      "options": ["Una escritura pública notarial en todo caso", "Certificación que, con relación al inventario aprobado por la Corporación, expida el Secretario con el visto bueno del Presidente", "Sentencia judicial declarativa de dominio", "Certificado catastral exclusivamente"],
+      "correct": 1,
+      "exp": "Art. 36.2: 'Será suficiente, a tal efecto, certificación que, con relación al inventario aprobado por la respectiva Corporación, expida el Secretario, con el visto bueno del Presidente de la Corporación.'",
+      "fuente": "Art. 36.2 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado el art. 36.2: la opción correcta reproduce el texto legal casi literalmente; las otras tres vías no se mencionan como suficientes en el apartado."
+    },
+    {
+      "q": "Según el art. 36.5 RBEL, los honorarios de los Registradores de la Propiedad por la inmatriculación o inscripción de bienes de las Entidades locales:",
+      "options": ["Se duplicarán respecto de la tarifa general", "Quedarán totalmente exentos", "Se incrementarán un 50 por 100", "Se reducirán a la mitad"],
+      "correct": 3,
+      "exp": "Art. 36.5: 'Los honorarios de los Registradores por la inmatriculación o inscripción de bienes de las Entidades locales se reducirán a la mitad.'",
+      "fuente": "Art. 36.5 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado el art. 36.5 literalmente: 'se reducirán a la mitad', descartando exención total, duplicación o incremento."
+    },
+    {
+      "q": "Según el art. 37.1 RBEL, los valores mobiliarios de las Entidades locales se custodiarán:",
+      "options": ["En un banco privado elegido libremente por el Alcalde", "En la caja de caudales, bajo la responsabilidad de los tres claveros", "En la sede del Ministerio de Hacienda", "En el domicilio particular del Secretario"],
+      "correct": 1,
+      "exp": "Art. 37.1: 'Los valores mobiliarios se custodiarán en la caja de caudales, bajo la responsabilidad de los tres claveros.'",
+      "fuente": "Art. 37.1 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Verificado el art. 37.1 (Sección 2.ª Administración): cita textual exacta que coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 39.3 RBEL, las Entidades locales poseedoras de montes, declarados o no de utilidad pública, despoblados en superficie igual o superior a 100 hectáreas, deben proceder a repoblar:",
+      "options": ["La totalidad de la superficie despoblada", "La mitad de dicha superficie", "Un 10 por 100 de la superficie despoblada", "La cuarta parte de dicha superficie"],
+      "correct": 3,
+      "exp": "Art. 39.3: 'Las Entidades locales poseedoras de montes...despoblados en superficie igual o superior a 100 hectáreas, deberán proceder...a la repoblación de la cuarta parte de dicha superficie...'",
+      "fuente": "Art. 39.3 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado en el art. 39.3 el umbral de 100 hectáreas y la obligación de repoblar 'la cuarta parte', coincidiendo con la opción marcada."
+    },
+    {
+      "q": "Según el art. 40.5 RBEL, el consorcio para la repoblación forestal entre Entidades locales y particulares debe formalizarse en:",
+      "options": ["Documento privado firmado por ambas partes", "Acuerdo verbal ratificado por el Pleno", "Escritura pública, con inscripción en el Registro de la Propiedad, sin cuyos requisitos carecerá de eficacia", "Convenio administrativo sin necesidad de forma especial"],
+      "correct": 2,
+      "exp": "Art. 40.5: 'El consorcio entre las Entidades locales y los particulares deberá formalizarse en escritura pública e inscribirse en el Registro de la Propiedad, sin cuyos requisitos carecerá de eficacia.'",
+      "fuente": "Art. 40.5 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado el art. 40.5: reproduce literalmente la exigencia de escritura pública e inscripción registral bajo pena de ineficacia."
+    },
+    {
+      "q": "Según el art. 41 RBEL, el aprovechamiento de la riqueza cinegética o piscícola de las Entidades locales se regulará por:",
+      "options": ["Exclusivamente los usos y costumbres locales", "El Código Civil, sin normativa específica", "Un reglamento aprobado por cada Comunidad Autónoma sin más límites", "La legislación especial aplicable y la normativa reguladora de la contratación de las Corporaciones locales"],
+      "correct": 3,
+      "exp": "Art. 41: 'El aprovechamiento de la riqueza cinegética o piscícola se regulará por la legislación especial aplicable y por la normativa reguladora de la contratación a las Corporaciones locales.'",
+      "fuente": "Art. 41 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Verificado el art. 41: coincide en sustancia con la opción marcada (legislación especial + normativa de contratación local); las otras opciones son falsas."
+    },
+    {
+      "q": "Según el art. 43 RBEL, las cuentas de administración del patrimonio se formarán, rendirán y fiscalizarán:",
+      "options": ["Conforme a la normativa del Tribunal de Cuentas exclusivamente, sin remisión a otra legislación", "Según acuerdo discrecional del Pleno en cada ejercicio", "Del modo dispuesto en la legislación reguladora de las Haciendas locales", "Con arreglo a la legislación mercantil general"],
+      "correct": 2,
+      "exp": "Art. 43: 'Las cuentas de administración del patrimonio se formarán, rendirán y fiscalizarán del modo dispuesto en la legislación reguladora de las Haciendas locales.'",
+      "fuente": "Art. 43 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cita textual del art. 43 comprobada; coincide exactamente con la opción marcada correcta."
+    },
+    {
+      "q": "Según el art. 44.1 RBEL, ¿cuáles son las potestades que corresponden a los Municipios, Provincias e Islas en relación con sus bienes?",
+      "options": ["Investigación, deslinde, expropiación forzosa y ejecución subsidiaria", "Recuperación de oficio, deslinde, sanción y confiscación", "Investigación, deslinde, recuperación de oficio y desahucio administrativo", "Desahucio administrativo, expropiación, sanción e investigación"],
+      "correct": 2,
+      "exp": "Art. 44.1: 'a) La potestad de investigación. b) La potestad de deslinde. c) La potestad de recuperación de oficio. d) La potestad de desahucio administrativo.'",
+      "fuente": "Art. 44.1 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobadas las cuatro letras a)-d) del art. 44.1: coinciden exactamente con la opción marcada correcta, sin solape con las demás."
+    },
+    {
+      "q": "Según el art. 45 RBEL, la facultad de investigar la situación de los bienes y derechos que se presuman de su propiedad corresponde a las Corporaciones locales:",
+      "options": ["Solo cuando lo autorice expresamente la Comunidad Autónoma", "Siempre que la titularidad no conste, a fin de determinarla", "Únicamente respecto de bienes inmuebles urbanos", "Solo tras sentencia judicial firme que lo ordene"],
+      "correct": 1,
+      "exp": "Art. 45: 'Las Corporaciones locales tienen la facultad de investigar la situación de los bienes y derechos que se presuman de su propiedad, siempre que ésta no conste, a fin de determinar la titularidad de los mismos.'",
+      "fuente": "Art. 45 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Verificado el art. 45: la opción correcta reproduce la condición legal ('siempre que ésta no conste') frente a las demás condiciones inventadas."
+    },
+    {
+      "q": "Según el art. 46 RBEL, ¿de qué formas puede acordarse el ejercicio de la acción investigadora?",
+      "options": ["Únicamente por denuncia de los particulares", "Solo por mandato judicial previo", "Exclusivamente a iniciativa del Ministerio Fiscal", "De oficio, por la propia Corporación, o por denuncia de los particulares"],
+      "correct": 3,
+      "exp": "Art. 46: 'El ejercicio de la acción investigadora podrá acordarse: 1.º De oficio, por la propia Corporación... 2.º Por denuncia de los particulares.'",
+      "fuente": "Art. 46 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejados los apartados 1.º y 2.º del art. 46: ambas vías coinciden exactamente con la opción marcada correcta."
+    },
+    {
+      "q": "Según el art. 47 RBEL, para que se admita la denuncia presentada por un particular en un expediente de investigación, este debe anticipar el importe de los gastos en una cuantía que:",
+      "options": ["Deberá ser exactamente 50.000 pesetas", "No podrá superar las 10.000 pesetas", "Se fijará libremente por el denunciante sin límite alguno", "No será menor de 10.000 pesetas ni excederá de 100.000"],
+      "correct": 3,
+      "exp": "Art. 47: 'Para que se admita la denuncia presentada por el particular es preciso que el mismo anticipe el importe de los gastos en la cuantía que se estime necesaria, que no será menor de 10.000 pesetas ni excederá de 100.000.'",
+      "fuente": "Art. 47 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmada la horquilla '10.000 a 100.000 pesetas' en el art. 47, literal en la opción marcada; las demás cifras/límites son incorrectos."
+    },
+    {
+      "q": "Según el art. 49.1 RBEL, el acuerdo de iniciación del expediente de investigación se publicará en el Boletín Oficial de la provincia y del municipio, exponiéndose además en el tablón de anuncios de la Corporación durante:",
+      "options": ["Un mes", "Diez días", "Sesenta días", "Quince días"],
+      "correct": 3,
+      "exp": "Art. 49.1: '...Un ejemplar de dichos boletines se expondrá en el tablón de anuncios de la Corporación en que radiquen los bienes, durante quince días.'",
+      "fuente": "Art. 49.1 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Verificado el plazo de 'quince días' de exposición en tablón en el art. 49.1, coincidiendo con la opción marcada."
+    },
+    {
+      "q": "Según el art. 50 RBEL, ¿de qué plazo disponen las personas afectadas por el expediente de investigación para alegar por escrito ante la Corporación, contado desde que termine la publicación de anuncios en el tablón?",
+      "options": ["Quince días", "Veinte días", "Un mes", "Dos meses"],
+      "correct": 2,
+      "exp": "Art. 50: 'En el plazo de un mes, contado desde el día siguiente al que deba darse por terminada la publicación de los anuncios en el tablón de la Corporación, podrán las personas afectadas...alegar por escrito...'",
+      "fuente": "Art. 50 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado el plazo de 'un mes' en el art. 50, que coincide con la opción marcada correcta."
+    },
+    {
+      "q": "Según el art. 51 RBEL, en el período de prueba del expediente de investigación son admisibles, entre otros, los siguientes elementos:",
+      "options": ["Únicamente informes emitidos por la propia Corporación", "Documentos públicos judiciales, notariales o administrativos, el reconocimiento y dictamen pericial, y la declaración de testigos", "Solo pruebas periciales encargadas a la Administración del Estado", "Exclusivamente actas notariales, con exclusión de cualquier otro medio"],
+      "correct": 1,
+      "exp": "Art. 51: '...serán admisibles los siguientes elementos: 1.º Los documentos públicos judiciales, notariales o administrativos... 2.º El reconocimiento y dictamen pericial. 3.º La declaración de testigos.'",
+      "fuente": "Art. 51 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejados los tres apartados 1.º-3.º del art. 51: coinciden exactamente con la opción marcada correcta."
+    },
+    {
+      "q": "Según el art. 53 RBEL, la resolución del expediente de investigación corresponde al órgano competente de la Corporación, previo:",
+      "options": ["Dictamen del Consejo de Estado", "Informe de la Comunidad Autónoma con carácter vinculante", "Visto bueno del Registrador de la Propiedad", "Informe del Secretario"],
+      "correct": 3,
+      "exp": "Art. 53: 'La resolución del expediente de investigación corresponde al órgano competente de la Corporación, previo informe del Secretario.'",
+      "fuente": "Art. 53 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Verificado el art. 53 literalmente: exige 'previo informe del Secretario', coincidiendo con la opción marcada."
+    },
+    {
+      "q": "Según el art. 54.1 RBEL, a las personas que promuevan el ejercicio de la acción investigadora se les abonará, como premio e indemnización de todos los gastos:",
+      "options": ["El 50 por 100 del valor de tasación del bien", "El 10 por 100 del valor líquido que la Corporación obtenga de la enajenación de los bienes investigados", "Una cantidad fija de 100.000 pesetas, con independencia del valor del bien", "El 25 por 100 del valor catastral del bien"],
+      "correct": 1,
+      "exp": "Art. 54.1: 'A las personas que promuevan el ejercicio de la acción investigadora, se les abonará, como premio e indemnización de todos los gastos, el 10 por 100 del valor liquido que la Corporación obtenga de la enajenación de los bienes investigados.'",
+      "fuente": "Art. 54.1 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado el art. 54.1: coincide literalmente con la opción marcada ('10 por 100 del valor líquido de la enajenación')."
+    },
+    {
+      "q": "Según el art. 56.1 RBEL, las Corporaciones locales tienen la facultad de promover y ejecutar el deslinde entre sus bienes y los de los particulares cuando:",
+      "options": ["Lo solicite cualquier vecino, sin más requisitos", "Haya transcurrido un año desde la última actualización del inventario", "Los límites aparecieren imprecisos o existieren indicios de usurpación", "Lo exija la Comunidad Autónoma con carácter previo"],
+      "correct": 2,
+      "exp": "Art. 56.1: 'Las Corporaciones locales tendrán la facultad de promover y ejecutar el deslinde entre los bienes de su pertenencia y los de los particulares, cuyos limites aparecieren imprecisos o sobre los que existieren indicios de usurpación.'",
+      "fuente": "Art. 56.1 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Verificado el art. 56.1: los dos supuestos (límites imprecisos o indicios de usurpación) coinciden con la opción marcada."
+    },
+    {
+      "q": "Según el art. 58 RBEL, el expediente de deslinde se inicia mediante acuerdo tomado previo examen de una Memoria que necesariamente debe referirse, entre otros extremos, a:",
+      "options": ["El presupuesto electoral del municipio", "El plan urbanístico vigente en el término municipal", "El historial de sanciones del propietario colindante", "La justificación del deslinde propuesto y la descripción de la finca, con sus linderos, colindancia y extensión"],
+      "correct": 3,
+      "exp": "Art. 58 enumera entre los extremos de la Memoria: justificación del deslinde propuesto, descripción de la finca con linderos generales, colindancia y extensión perimetral y superficial, y título de propiedad.",
+      "fuente": "Art. 58 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejados los apartados 1.º y 2.º del art. 58: la opción marcada agrupa dos extremos reales de la Memoria exigida."
+    },
+    {
+      "q": "Según el art. 61.1 RBEL, el deslinde se anunciará en el Boletín Oficial de la provincia, del municipio y en el tablón de anuncios del Ayuntamiento, con qué antelación a la fecha fijada para iniciar las operaciones:",
+      "options": ["Quince días", "Un mes", "Noventa días", "Sesenta días"],
+      "correct": 3,
+      "exp": "Art. 61.1: '...el deslinde se anunciara...con sesenta días de antelación a la fecha fijada para iniciar las operaciones.'",
+      "fuente": "Art. 61.1 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado el plazo de 'sesenta días' de antelación en el art. 61.1, coincidiendo con la opción marcada."
+    },
+    {
+      "q": "Según el art. 62.1 RBEL, en el procedimiento de deslinde, los interesados podrán presentar documentos ante la Corporación en defensa de sus derechos hasta:",
+      "options": ["Los sesenta días anteriores al comienzo de las operaciones", "El día mismo en que comience el apeo", "Los diez días posteriores al inicio de las operaciones", "Los veinte días anteriores al comienzo de las operaciones"],
+      "correct": 3,
+      "exp": "Art. 62.1: 'Los interesados podrán presentar ante la Corporación cuantos documentos estimaren conducentes a la prueba y defensa de sus derechos hasta los veinte días anteriores al comienzo de las operaciones.'",
+      "fuente": "Art. 62.1 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Verificado el plazo de 'veinte días anteriores' en el art. 62.1, distinto del plazo de sesenta días del anuncio (art. 61.1) para evitar confusión; coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 64.3 RBEL, en el acta del apeo practicado para el deslinde deben constar, entre otras referencias:",
+      "options": ["Únicamente la firma del Alcalde", "El nombre del partido político gobernante en el municipio", "El lugar y hora en que principie la operación, y la dirección y distancias de las líneas perimetrales", "El presupuesto destinado a la obra pública colindante"],
+      "correct": 2,
+      "exp": "Art. 64.3 enumera entre las referencias del acta de apeo: lugar y hora de inicio, nombre y representación de los concurrentes, descripción del terreno, dirección y distancias de las líneas perimetrales, situación y cabida de la finca, manifestaciones y hora de conclusión.",
+      "fuente": "Art. 64.3 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejadas las letras a) y d) del art. 64.3: coinciden con la opción marcada correcta, dentro de las siete referencias exigidas."
+    },
+    {
+      "q": "Según el art. 66 RBEL, una vez iniciado el procedimiento administrativo de deslinde:",
+      "options": ["Los interesados podrán acudir simultáneamente a la vía judicial civil", "Se suspende automáticamente cualquier otro expediente municipal", "No podrá instarse procedimiento judicial con igual pretensión ni se admitirán interdictos sobre el estado posesorio de las fincas mientras no se lleve a cabo el deslinde", "El deslinde queda paralizado hasta que se resuelva cualquier litigio civil pendiente"],
+      "correct": 2,
+      "exp": "Art. 66: 'Iniciado el procedimiento administrativo de deslinde, no podrá instarse procedimiento judicial con igual pretensión ni se admitirán interdictos sobre el estado posesorio de las fincas mientras no se lleve a cabo dicho deslinde.'",
+      "fuente": "Art. 66 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Verificado el art. 66 literal, que prohíbe justamente lo contrario de las otras tres opciones (acudir a la vía civil o suspender el deslinde)."
+    },
+    {
+      "q": "Según el art. 68 RBEL, si la finca de la Corporación local afectada por el deslinde se hallare inscrita en el Registro de la Propiedad, una vez firme el acuerdo de aprobación:",
+      "options": ["No es necesaria ninguna inscripción adicional", "Se inscribirá igualmente el deslinde administrativo debidamente aprobado, referente a la misma", "Debe cancelarse la inscripción anterior y abrirse un nuevo folio registral", "Se remite el expediente al Catastro para su exclusiva constancia"],
+      "correct": 1,
+      "exp": "Art. 68: 'Si la finca de la Corporación local a que se refiere el deslinde se hallare inscrita en el Registro de la Propiedad, se inscribirá igualmente el deslinde administrativo debidamente aprobado, referente a la misma.'",
+      "fuente": "Art. 68 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado el art. 68 literalmente; coincide con la opción marcada correcta y descarta las otras tres alternativas."
+    },
+    {
+      "q": "Según el art. 69.1 RBEL, las Corporaciones locales promoverán el deslinde de los montes públicos catalogados de su pertenencia:",
+      "options": ["Conforme al mismo procedimiento general de deslinde de fincas rústicas, sin excepción", "Únicamente cuando lo solicite la Administración del Estado", "Solo si existe usurpación probada por sentencia firme", "Con arreglo a las disposiciones especiales que lo regulan"],
+      "correct": 3,
+      "exp": "Art. 69.1: 'Las Corporaciones locales promoverán el deslinde de los montes públicos catalogados de su pertenencia, que se practicará con arreglo a las disposiciones especiales que lo regulan.'",
+      "fuente": "Art. 69.1 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Verificado el art. 69.1: remite a 'disposiciones especiales' precisamente como excepción al procedimiento general, coincidiendo con la opción marcada."
+    },
+    {
+      "q": "Según el art. 70.1 RBEL, respecto de los bienes de dominio público, las Corporaciones locales podrán recobrar por sí la tenencia:",
+      "options": ["Solo dentro del plazo de un año desde la usurpación", "Únicamente dentro de los seis meses siguientes a la usurpación", "Solo si lo autoriza previamente un juez", "En cualquier tiempo"],
+      "correct": 3,
+      "exp": "Art. 70.1: 'Las Corporaciones locales podrán recobrar por si la tenencia de sus bienes de dominio público en cualquier tiempo.'",
+      "fuente": "Art. 70.1 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado el art. 70.1 ('en cualquier tiempo' para dominio público), distinto del plazo de un año que rige para bienes patrimoniales en el art. 70.2, evitando confusión entre ambos apartados."
+    },
+    {
+      "q": "Según el art. 70.2 RBEL, cuando se tratare de bienes patrimoniales usurpados, el plazo para recobrarlos por la vía de recuperación posesoria será de:",
+      "options": ["Cinco años, como plazo general de prescripción", "Seis meses, improrrogables", "Indefinido, igual que en los bienes de dominio público", "Un año, a contar del día siguiente a la usurpación, transcurrido el cual procederá la acción ante los Tribunales ordinarios"],
+      "correct": 3,
+      "exp": "Art. 70.2: 'Cuando se tratare de bienes patrimoniales, el plazo para recobrarlos será de un año, a contar del día siguiente de la fecha en que se hubiera producido la usurpación, y transcurrido ese tiempo procederá la acción correspondiente ante los Tribunales ordinarios.'",
+      "fuente": "Art. 70.2 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado el art. 70.2 literalmente: plazo de un año con paso a la vía judicial ordinaria, coincidiendo con la opción marcada, y correctamente diferenciado del art. 70.1."
+    },
+    {
+      "q": "Según el art. 71.2 RBEL, la recuperación de la posesión en vía administrativa requiere:",
+      "options": ["Sentencia judicial firme que declare la usurpación", "Autorización previa de la Comunidad Autónoma en todo caso", "Informe vinculante del Registrador de la Propiedad", "Acuerdo previo de la Corporación, al que se acompañarán los documentos acreditativos de la posesión, salvo que se trate de repeler usurpaciones recientes"],
+      "correct": 3,
+      "exp": "Art. 71.2: 'La recuperación en vía administrativa requerirá acuerdo previo de la Corporación, al que se acompañarán los documentos acreditativos de la posesión, salvo que se tratare de repeler usurpaciones recientes.'",
+      "fuente": "Art. 71.2 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Verificado el art. 71.2 literalmente: coincide con la opción marcada, incluida la excepción de usurpaciones recientes."
+    },
+    {
+      "q": "Según el art. 73 RBEL, en relación con las demandas judiciales que afecten al dominio y demás derechos reales integrantes de su patrimonio, las Corporaciones locales:",
+      "options": ["Deberán allanarse siempre que el demandante sea un particular de buena fe", "Podrán allanarse libremente, previo acuerdo del Pleno", "Deberán allanarse cuando lo solicite el Ministerio Fiscal", "No podrán allanarse a dichas demandas"],
+      "correct": 3,
+      "exp": "Art. 73: 'Las Corporaciones locales no podrán allanarse a las demandas judiciales que afectaren al dominio y demás derechos reales integrantes de su patrimonio.'",
+      "fuente": "Art. 73 RBEL (RD 1372/1986)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Verificado el art. 73 literalmente: prohibición expresa de allanarse, coincidiendo con la opción marcada y descartando las tres opciones que sí permitirían el allanamiento."
+    }
+  ]
+}
