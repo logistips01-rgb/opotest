@@ -1,0 +1,606 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 5,
+  "preguntas": [
+    {
+      "q": "Según el art. 17.2 de la Ley 39/2015, además de garantizar la autenticidad, integridad y conservación del documento electrónico, se asegurará en todo caso la posibilidad de:",
+      "options": [
+        "Imprimir el documento en soporte papel de forma inmediata",
+        "Trasladar los datos a otros formatos y soportes que garanticen el acceso desde diferentes aplicaciones",
+        "Enviar copia automática al interesado por correo postal",
+        "Reducir el tamaño del archivo para ahorrar espacio de almacenamiento"
+      ],
+      "correct": 1,
+      "exp": "Art. 17.2: 'Se asegurará en todo caso la posibilidad de trasladar los datos a otros formatos y soportes que garanticen el acceso desde diferentes aplicaciones.'",
+      "fuente": "Art. 17.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 17.2 LPAC (cuerpo real) dice literalmente 'Se asegurará en todo caso la posibilidad de trasladar los datos a otros formatos y soportes que garanticen el acceso desde diferentes aplicaciones'; opción B coincide y es la marcada."
+    },
+    {
+      "q": "Según el art. 17.2 de la Ley 39/2015, la eliminación de los documentos electrónicos conservados en el archivo electrónico único:",
+      "options": [
+        "Puede realizarla libremente cada funcionario responsable del expediente",
+        "Está prohibida en todo caso, sin excepción alguna",
+        "Deberá ser autorizada de acuerdo a lo dispuesto en la normativa aplicable",
+        "Se produce automáticamente transcurrido un año desde la finalización del procedimiento"
+      ],
+      "correct": 2,
+      "exp": "Art. 17.2 in fine: 'La eliminación de dichos documentos deberá ser autorizada de acuerdo a lo dispuesto en la normativa aplicable.'",
+      "fuente": "Art. 17.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 17.2 in fine LPAC: 'La eliminación de dichos documentos deberá ser autorizada de acuerdo a lo dispuesto en la normativa aplicable'; opción C coincide y es la marcada."
+    },
+    {
+      "q": "Según el art. 17.3 de la Ley 39/2015, las medidas de seguridad de los medios o soportes donde se almacenan documentos deben asegurar, en particular:",
+      "options": [
+        "La identificación de los usuarios y el control de accesos",
+        "La gratuidad del acceso a cualquier ciudadano",
+        "La publicación íntegra de los documentos en el Boletín Oficial",
+        "La eliminación automática de los metadatos"
+      ],
+      "correct": 0,
+      "exp": "Art. 17.3: 'En particular, asegurarán la identificación de los usuarios y el control de accesos, así como el cumplimiento de las garantías previstas en la legislación de protección de datos.'",
+      "fuente": "Art. 17.3 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 17.3 LPAC: 'En particular, asegurarán la identificación de los usuarios y el control de accesos...'; opción A coincide y es la marcada."
+    },
+    {
+      "q": "Según el art. 17.1 de la Ley 39/2015, ¿qué debe mantener cada Administración respecto de los documentos electrónicos correspondientes a procedimientos finalizados?",
+      "options": [
+        "Un registro presencial en cada oficina de asistencia",
+        "Una copia en papel custodiada por el Archivo Histórico Nacional",
+        "Un inventario anual remitido a la Administración General del Estado",
+        "Un archivo electrónico único"
+      ],
+      "correct": 3,
+      "exp": "Art. 17.1: 'Cada Administración deberá mantener un archivo electrónico único de los documentos electrónicos que correspondan a procedimientos finalizados, en los términos establecidos en la normativa reguladora aplicable.'",
+      "fuente": "Art. 17.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 17.1 LPAC: 'Cada Administración deberá mantener un archivo electrónico único...'; opción D coincide y es la marcada."
+    },
+    {
+      "q": "Según el art. 17.3 de la Ley 39/2015, las medidas de seguridad de los soportes donde se almacenan documentos deben garantizar la integridad, autenticidad, confidencialidad, calidad, protección y:",
+      "options": [
+        "Rapidez de tramitación",
+        "Gratuidad del servicio",
+        "Conservación de los documentos almacenados",
+        "Anonimato del interesado"
+      ],
+      "correct": 2,
+      "exp": "Art. 17.3: '...deberán contar con medidas de seguridad, de acuerdo con lo previsto en el Esquema Nacional de Seguridad, que garanticen la integridad, autenticidad, confidencialidad, calidad, protección y conservación de los documentos almacenados.'",
+      "fuente": "Art. 17.3 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 17.3 LPAC: '...integridad, autenticidad, confidencialidad, calidad, protección y conservación de los documentos almacenados'; opción C coincide y es la marcada."
+    },
+    {
+      "q": "Según el art. 18.1 de la Ley 39/2015, a falta de previsión legal expresa, las personas colaborarán con la Administración facilitándole:",
+      "options": [
+        "Los informes, inspecciones y otros actos de investigación que requieran para el ejercicio de sus competencias",
+        "Únicamente su domicilio a efectos de notificaciones",
+        "Un aval bancario que garantice su colaboración",
+        "Copia de su declaración de la renta en todo caso"
+      ],
+      "correct": 0,
+      "exp": "Art. 18.1: '...a falta de previsión expresa, facilitarán a la Administración los informes, inspecciones y otros actos de investigación que requieran para el ejercicio de sus competencias.'",
+      "fuente": "Art. 18.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 18.1 LPAC: 'a falta de previsión expresa, facilitarán a la Administración los informes, inspecciones y otros actos de investigación que requieran para el ejercicio de sus competencias'; opción A coincide y es la marcada."
+    },
+    {
+      "q": "Según el art. 18.1 de la Ley 39/2015, la excepción a colaborar cuando la revelación de información atente contra el honor o la intimidad no opera, en todo caso, respecto de lo dispuesto en la legislación sobre:",
+      "options": [
+        "Protección de datos personales",
+        "Propiedad intelectual",
+        "Contratos del sector público",
+        "Blanqueo de capitales y financiación de actividades terroristas"
+      ],
+      "correct": 3,
+      "exp": "Art. 18.1 in fine: '...sin perjuicio de lo dispuesto en la legislación en materia de blanqueo de capitales y financiación de actividades terroristas.'",
+      "fuente": "Art. 18.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 18.1 in fine LPAC: 'sin perjuicio de lo dispuesto en la legislación en materia de blanqueo de capitales y financiación de actividades terroristas'; opción D coincide y es la marcada."
+    },
+    {
+      "q": "Según el art. 18.1 de la Ley 39/2015, entre los supuestos que eximen del deber de colaborar se encuentra la comunicación de datos confidenciales de terceros conocidos por la prestación de servicios profesionales de:",
+      "options": [
+        "Diagnóstico, asesoramiento o defensa",
+        "Mantenimiento informático",
+        "Transporte y logística",
+        "Publicidad y marketing"
+      ],
+      "correct": 0,
+      "exp": "Art. 18.1: '...supusieran la comunicación de datos confidenciales de terceros de los que tengan conocimiento por la prestación de servicios profesionales de diagnóstico, asesoramiento o defensa.'",
+      "fuente": "Art. 18.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 18.1 LPAC: '...servicios profesionales de diagnóstico, asesoramiento o defensa'; opción A coincide y es la marcada."
+    },
+    {
+      "q": "Según el art. 18.2 de la Ley 39/2015, los interesados en un procedimiento que conozcan datos que permitan identificar a otros interesados no comparecidos:",
+      "options": [
+        "Pueden optar libremente por comunicarlo o no a la Administración",
+        "Deben comunicarlo directamente a esos terceros, nunca a la Administración",
+        "Solo están obligados a proporcionarlos si son requeridos judicialmente",
+        "Tienen el deber de proporcionárselos a la Administración actuante"
+      ],
+      "correct": 3,
+      "exp": "Art. 18.2: 'Los interesados en un procedimiento que conozcan datos que permitan identificar a otros interesados que no hayan comparecido en él tienen el deber de proporcionárselos a la Administración actuante.'",
+      "fuente": "Art. 18.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 18.2 LPAC: 'tienen el deber de proporcionárselos a la Administración actuante'; opción D coincide y es la marcada."
+    },
+    {
+      "q": "Según el art. 18.3 de la Ley 39/2015, cuando las inspecciones requieran la entrada en el domicilio del afectado o en otros lugares que exijan autorización del titular, se estará a lo dispuesto en:",
+      "options": [
+        "El artículo 18 de la Constitución exclusivamente",
+        "El Código Penal",
+        "La Ley Orgánica de Protección de Datos",
+        "El artículo 100 de esta Ley"
+      ],
+      "correct": 3,
+      "exp": "Art. 18.3: 'Cuando las inspecciones requieran la entrada en el domicilio del afectado o en los restantes lugares que requieran autorización del titular, se estará a lo dispuesto en el artículo 100.'",
+      "fuente": "Art. 18.3 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 18.3 LPAC: 'se estará a lo dispuesto en el artículo 100' (de la propia LPAC); opción D coincide y es la marcada."
+    },
+    {
+      "q": "Según el art. 19.1 de la Ley 39/2015, la comparecencia de las personas ante las oficinas públicas puede llevarse a cabo:",
+      "options": [
+        "Solo mediante representación letrada",
+        "Presencialmente o por medios electrónicos",
+        "Únicamente por vía telefónica",
+        "Solo mediante comparecencia notarial"
+      ],
+      "correct": 1,
+      "exp": "Art. 19.1: 'La comparecencia de las personas ante las oficinas públicas, ya sea presencialmente o por medios electrónicos, sólo será obligatoria cuando así esté previsto en una norma con rango de ley.'",
+      "fuente": "Art. 19.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 19.1 LPAC: 'ya sea presencialmente o por medios electrónicos'; opción B coincide y es la marcada."
+    },
+    {
+      "q": "Según el art. 19.1 de la Ley 39/2015, la comparecencia ante las oficinas públicas será obligatoria únicamente cuando:",
+      "options": [
+        "Lo decida el jefe de la unidad administrativa",
+        "El procedimiento supere los tres meses de duración",
+        "Así esté previsto en una norma con rango de ley",
+        "El interesado sea una persona jurídica"
+      ],
+      "correct": 2,
+      "exp": "Art. 19.1: '...sólo será obligatoria cuando así esté previsto en una norma con rango de ley.'",
+      "fuente": "Art. 19.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 19.1 LPAC: 'sólo será obligatoria cuando así esté previsto en una norma con rango de ley'; opción C coincide y es la marcada."
+    },
+    {
+      "q": "Según el art. 19.2 de la Ley 39/2015, además del lugar, fecha, hora y medios disponibles, la citación para comparecer debe hacer constar expresamente:",
+      "options": [
+        "El nombre completo de todos los funcionarios de la unidad",
+        "El coste económico del desplazamiento",
+        "Un formulario de queja para el interesado",
+        "El objeto de la comparecencia y los efectos de no atenderla"
+      ],
+      "correct": 3,
+      "exp": "Art. 19.2: '...la correspondiente citación hará constar expresamente el lugar, fecha, hora, los medios disponibles y objeto de la comparecencia, así como los efectos de no atenderla.'",
+      "fuente": "Art. 19.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 19.2 LPAC: '...lugar, fecha, hora, los medios disponibles y objeto de la comparecencia, así como los efectos de no atenderla'; opción D coincide y es la marcada."
+    },
+    {
+      "q": "Según el art. 19.3 de la Ley 39/2015, la certificación acreditativa de la comparecencia se entrega al interesado:",
+      "options": [
+        "De oficio, en todo caso, tras cada comparecencia",
+        "Cuando así lo solicite",
+        "Solo si la comparecencia fue por medios electrónicos",
+        "Únicamente si lo pide su representante legal"
+      ],
+      "correct": 1,
+      "exp": "Art. 19.3: 'Las Administraciones Públicas entregarán al interesado certificación acreditativa de la comparecencia cuando así lo solicite.'",
+      "fuente": "Art. 19.3 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 19.3 LPAC: 'entregarán al interesado certificación acreditativa de la comparecencia cuando así lo solicite'; opción B coincide y es la marcada."
+    },
+    {
+      "q": "El art. 19 de la Ley 39/2015 se titula:",
+      "options": [
+        "Colaboración de las personas",
+        "Responsabilidad de la tramitación",
+        "Comparecencia de las personas",
+        "Archivo de documentos"
+      ],
+      "correct": 2,
+      "exp": "El art. 19 lleva por título 'Comparecencia de las personas'.",
+      "fuente": "Art. 19 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Rúbrica real del art. 19 LPAC en el cuerpo del texto: 'Comparecencia de las personas'; opción C coincide y es la marcada."
+    },
+    {
+      "q": "Según el art. 20.1 de la Ley 39/2015, ¿quiénes son responsables directos de la tramitación de los asuntos que tienen a su cargo?",
+      "options": [
+        "Solo el Alcalde o Presidente de la Corporación",
+        "Los titulares de las unidades administrativas y el personal al servicio de las Administraciones Públicas que tuviesen a su cargo la resolución o el despacho de los asuntos",
+        "Únicamente el Secretario General del Pleno",
+        "El interesado y su representante legal"
+      ],
+      "correct": 1,
+      "exp": "Art. 20.1: 'Los titulares de las unidades administrativas y el personal al servicio de las Administraciones Públicas que tuviesen a su cargo la resolución o el despacho de los asuntos, serán responsables directos de su tramitación.'",
+      "fuente": "Art. 20.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 20.1 LPAC: 'Los titulares de las unidades administrativas y el personal al servicio de las Administraciones Públicas que tuviesen a su cargo la resolución o el despacho de los asuntos, serán responsables directos de su tramitación'; opción B coincide y es la marcada."
+    },
+    {
+      "q": "Según el art. 20.1 de la Ley 39/2015, los responsables de la tramitación deben adoptar las medidas oportunas para:",
+      "options": [
+        "Reducir el número de expedientes asignados a cada unidad",
+        "Delegar la totalidad del expediente en el interesado",
+        "Remover los obstáculos que impidan, dificulten o retrasen el ejercicio pleno de los derechos de los interesados",
+        "Ampliar automáticamente todos los plazos de resolución"
+      ],
+      "correct": 2,
+      "exp": "Art. 20.1: '...adoptarán las medidas oportunas para remover los obstáculos que impidan, dificulten o retrasen el ejercicio pleno de los derechos de los interesados o el respeto a sus intereses legítimos.'",
+      "fuente": "Art. 20.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 20.1 LPAC: '...adoptarán las medidas oportunas para remover los obstáculos que impidan, dificulten o retrasen el ejercicio pleno de los derechos de los interesados...'; opción C coincide y es la marcada."
+    },
+    {
+      "q": "Según el art. 20.2 de la Ley 39/2015, los interesados podrán solicitar la exigencia de esa responsabilidad:",
+      "options": [
+        "Ante el Defensor del Pueblo exclusivamente",
+        "Ante los tribunales penales directamente",
+        "Ante el Consejo de Ministros",
+        "A la Administración Pública de que dependa el personal afectado"
+      ],
+      "correct": 3,
+      "exp": "Art. 20.2: 'Los interesados podrán solicitar la exigencia de esa responsabilidad a la Administración Pública de que dependa el personal afectado.'",
+      "fuente": "Art. 20.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 20.2 LPAC: 'Los interesados podrán solicitar la exigencia de esa responsabilidad a la Administración Pública de que dependa el personal afectado'; opción D coincide y es la marcada."
+    },
+    {
+      "q": "Según el art. 20.1 de la Ley 39/2015, los responsables de la tramitación deben disponer lo necesario para:",
+      "options": [
+        "Evitar y eliminar toda anormalidad en la tramitación de procedimientos",
+        "Suspender automáticamente los expedientes conflictivos",
+        "Trasladar el expediente a otra Administración",
+        "Archivar el procedimiento sin resolución expresa"
+      ],
+      "correct": 0,
+      "exp": "Art. 20.1 in fine: '...disponiendo lo necesario para evitar y eliminar toda anormalidad en la tramitación de procedimientos.'",
+      "fuente": "Art. 20.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 20.1 in fine LPAC: '...disponiendo lo necesario para evitar y eliminar toda anormalidad en la tramitación de procedimientos'; opción A coincide y es la marcada."
+    },
+    {
+      "q": "Según el art. 21.2 de la Ley 39/2015, el plazo máximo de seis meses para notificar la resolución expresa puede superarse cuando lo establezca una norma con rango de ley o cuando así:",
+      "options": [
+        "Lo decida el órgano instructor por razones de carga de trabajo",
+        "Venga previsto en el Derecho de la Unión Europea",
+        "Lo solicite expresamente el interesado",
+        "Lo autorice el Defensor del Pueblo"
+      ],
+      "correct": 1,
+      "exp": "Art. 21.2: 'Este plazo no podrá exceder de seis meses salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea.'",
+      "fuente": "Art. 21.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 21.2 LPAC: 'Este plazo no podrá exceder de seis meses salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea'; opción B coincide y es la marcada."
+    },
+    {
+      "q": "Según el art. 21.4 de la Ley 39/2015, las Administraciones Públicas deben publicar y mantener actualizadas en el portal web, a efectos informativos:",
+      "options": [
+        "Los salarios de los empleados públicos",
+        "El listado de proveedores contratados",
+        "El presupuesto anual detallado por partidas",
+        "Las relaciones de procedimientos de su competencia, con los plazos máximos y los efectos del silencio administrativo"
+      ],
+      "correct": 3,
+      "exp": "Art. 21.4: 'Las Administraciones Públicas deben publicar y mantener actualizadas en el portal web, a efectos informativos, las relaciones de procedimientos de su competencia, con indicación de los plazos máximos de duración de los mismos, así como de los efectos que produzca el silencio administrativo.'",
+      "fuente": "Art. 21.4 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 21.4 LPAC: 'deben publicar y mantener actualizadas en el portal web... las relaciones de procedimientos de su competencia, con indicación de los plazos máximos... así como de los efectos que produzca el silencio administrativo'; opción D coincide y es la marcada."
+    },
+    {
+      "q": "Según el art. 21.4 de la Ley 39/2015, cuando la mención del plazo máximo no se incluya en la notificación o publicación del acuerdo de iniciación de oficio, debe comunicarse al interesado dentro de los:",
+      "options": [
+        "Diez días siguientes a la recepción de la solicitud en el registro electrónico competente",
+        "Quince días siguientes a la finalización del procedimiento",
+        "Treinta días naturales desde la solicitud",
+        "Tres meses desde el inicio del expediente"
+      ],
+      "correct": 0,
+      "exp": "Art. 21.4: '...o en la comunicación que se dirigirá al efecto al interesado dentro de los diez días siguientes a la recepción de la solicitud iniciadora del procedimiento en el registro electrónico de la Administración u Organismo competente para su tramitación.'",
+      "fuente": "Art. 21.4 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 21.4 LPAC: '...o en la comunicación que se dirigirá al efecto al interesado dentro de los diez días siguientes a la recepción de la solicitud iniciadora del procedimiento en el registro electrónico...'; opción A coincide y es la marcada."
+    },
+    {
+      "q": "Según el art. 21.4 in fine de la Ley 39/2015, cuando se remite al interesado la comunicación sobre el plazo máximo de resolución, esta debe indicar además:",
+      "options": [
+        "El nombre del funcionario instructor",
+        "El importe de las tasas administrativas",
+        "La fecha en que la solicitud ha sido recibida por el órgano competente",
+        "La fecha prevista de resolución definitiva"
+      ],
+      "correct": 2,
+      "exp": "Art. 21.4 in fine: 'En este último caso, la comunicación indicará además la fecha en que la solicitud ha sido recibida por el órgano competente.'",
+      "fuente": "Art. 21.4 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 21.4 in fine LPAC: 'En este último caso, la comunicación indicará además la fecha en que la solicitud ha sido recibida por el órgano competente'; opción C coincide y es la marcada."
+    },
+    {
+      "q": "Según el art. 21.5 de la Ley 39/2015, cuando el número de solicitudes pudiera suponer un incumplimiento del plazo máximo de resolución, ¿quién puede habilitar los medios personales y materiales necesarios?",
+      "options": [
+        "El órgano competente para resolver, a propuesta razonada del órgano instructor, o el superior jerárquico a propuesta de éste",
+        "Únicamente el Ministerio de Hacienda",
+        "El propio interesado mediante solicitud motivada",
+        "El Consejo de Transparencia y Buen Gobierno"
+      ],
+      "correct": 0,
+      "exp": "Art. 21.5: '...el órgano competente para resolver, a propuesta razonada del órgano instructor, o el superior jerárquico del órgano competente para resolver, a propuesta de éste, podrán habilitar los medios personales y materiales para cumplir con el despacho adecuado y en plazo.'",
+      "fuente": "Art. 21.5 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 21.5 LPAC: 'el órgano competente para resolver, a propuesta razonada del órgano instructor, o el superior jerárquico del órgano competente para resolver, a propuesta de éste, podrán habilitar los medios personales y materiales...'; opción A coincide y es la marcada."
+    },
+    {
+      "q": "Según el art. 21.6 de la Ley 39/2015, son directamente responsables, en el ámbito de sus competencias, del cumplimiento de la obligación de dictar resolución expresa en plazo:",
+      "options": [
+        "Solo los Alcaldes y Presidentes de Diputación",
+        "El personal a cargo del despacho de los asuntos y los titulares de los órganos competentes para instruir y resolver",
+        "Exclusivamente los interesados en el procedimiento",
+        "El Tribunal Constitucional"
+      ],
+      "correct": 1,
+      "exp": "Art. 21.6: 'El personal al servicio de las Administraciones Públicas que tenga a su cargo el despacho de los asuntos, así como los titulares de los órganos administrativos competentes para instruir y resolver son directamente responsables, en el ámbito de sus competencias, del cumplimiento de la obligación legal de dictar resolución expresa en plazo.'",
+      "fuente": "Art. 21.6 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 21.6 LPAC: 'El personal al servicio de las Administraciones Públicas que tenga a su cargo el despacho de los asuntos, así como los titulares de los órganos administrativos competentes para instruir y resolver son directamente responsables...'; opción B coincide y es la marcada."
+    },
+    {
+      "q": "Según el art. 21.1 de la Ley 39/2015, la obligación de dictar resolución expresa y notificarla rige en todos los procedimientos:",
+      "options": [
+        "Solo si se inician a solicitud del interesado",
+        "Solo si se inician de oficio",
+        "Cualquiera que sea su forma de iniciación",
+        "Únicamente en los procedimientos sancionadores"
+      ],
+      "correct": 2,
+      "exp": "Art. 21.1: 'La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos cualquiera que sea su forma de iniciación.'",
+      "fuente": "Art. 21.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 21.1 LPAC: 'La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos cualquiera que sea su forma de iniciación'; opción C coincide y es la marcada."
+    },
+    {
+      "q": "Según el art. 21.1 in fine de la Ley 39/2015, ¿cuál de los siguientes NO es un supuesto exceptuado de la obligación general de dictar resolución expresa?",
+      "options": [
+        "La terminación del procedimiento por pacto o convenio",
+        "El ejercicio de derechos sometidos únicamente al deber de declaración responsable",
+        "El ejercicio de derechos sometidos únicamente a comunicación a la Administración",
+        "La caducidad del procedimiento por causa imputable al interesado"
+      ],
+      "correct": 3,
+      "exp": "Art. 21.1 in fine solo exceptúa la terminación por pacto o convenio y los procedimientos sometidos únicamente a declaración responsable o comunicación; no menciona la caducidad imputable al interesado como excepción a esta obligación.",
+      "fuente": "Art. 21.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 21.1 in fine LPAC solo exceptúa 'terminación del procedimiento por pacto o convenio' y los procedimientos sometidos únicamente a 'declaración responsable o comunicación a la Administración'; la caducidad imputable al interesado no figura en esa lista de excepciones, así que es la opción NO exceptuada y es la marcada (D)."
+    },
+    {
+      "q": "Según el art. 22.1 b) de la Ley 39/2015, el plazo máximo para resolver se podrá suspender cuando deba obtenerse:",
+      "options": [
+        "Un pronunciamiento previo y preceptivo de un órgano de la Unión Europea",
+        "La conformidad del Consejo de Estado",
+        "Un informe de la OCDE",
+        "La ratificación de un tratado internacional"
+      ],
+      "correct": 0,
+      "exp": "Art. 22.1 b): 'Cuando deba obtenerse un pronunciamiento previo y preceptivo de un órgano de la Unión Europea, por el tiempo que medie entre la petición... y la notificación del pronunciamiento a la Administración instructora.'",
+      "fuente": "Art. 22.1 b) LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 22.1 b) LPAC: 'Cuando deba obtenerse un pronunciamiento previo y preceptivo de un órgano de la Unión Europea...'; opción A coincide y es la marcada."
+    },
+    {
+      "q": "Según el art. 22.1 c) de la Ley 39/2015, procede la suspensión del plazo máximo cuando exista un procedimiento no finalizado en el ámbito de la Unión Europea que:",
+      "options": [
+        "Se refiera a un Estado miembro distinto de España",
+        "Condicione directamente el contenido de la resolución de que se trate",
+        "Haya sido iniciado hace más de un año",
+        "Afecte a una empresa multinacional"
+      ],
+      "correct": 1,
+      "exp": "Art. 22.1 c): 'Cuando exista un procedimiento no finalizado en el ámbito de la Unión Europea que condicione directamente el contenido de la resolución de que se trate.'",
+      "fuente": "Art. 22.1 c) LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 22.1 c) LPAC: 'Cuando exista un procedimiento no finalizado en el ámbito de la Unión Europea que condicione directamente el contenido de la resolución de que se trate...'; opción B coincide y es la marcada."
+    },
+    {
+      "q": "Según el art. 22.1 f) de la Ley 39/2015, el plazo máximo para resolver se suspende cuando se inicien negociaciones con vistas a la conclusión de un pacto o convenio, en los términos del:",
+      "options": [
+        "Artículo 86 de la Ley 39/2015",
+        "Artículo 39 de la Ley 39/2015",
+        "Artículo 100 de la Ley 39/2015",
+        "Artículo 21 de la Ley 39/2015"
+      ],
+      "correct": 0,
+      "exp": "Art. 22.1 f): 'Cuando se inicien negociaciones con vistas a la conclusión de un pacto o convenio en los términos previstos en el artículo 86 de esta Ley...'",
+      "fuente": "Art. 22.1 f) LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 22.1 f) LPAC: '...en los términos previstos en el artículo 86 de esta Ley...'; opción A coincide y es la marcada."
+    },
+    {
+      "q": "Según el art. 22.1 g) de la Ley 39/2015, procede la suspensión cuando sea indispensable para resolver el procedimiento la obtención de un previo pronunciamiento de:",
+      "options": [
+        "El Consejo de Ministros",
+        "El Defensor del Pueblo",
+        "Un órgano jurisdiccional",
+        "La Fiscalía General del Estado"
+      ],
+      "correct": 2,
+      "exp": "Art. 22.1 g): 'Cuando para la resolución del procedimiento sea indispensable la obtención de un previo pronunciamiento por parte de un órgano jurisdiccional.'",
+      "fuente": "Art. 22.1 g) LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 22.1 g) LPAC: '...la obtención de un previo pronunciamiento por parte de un órgano jurisdiccional...'; opción C coincide y es la marcada."
+    },
+    {
+      "q": "Según el art. 22.2 a) de la Ley 39/2015, el plazo máximo para resolver se suspenderá cuando una Administración Pública requiera a otra para que anule o revise un acto que entienda ilegal, en el supuesto al que se refiere:",
+      "options": [
+        "El apartado 3 del artículo 21 de esta Ley",
+        "El artículo 100 de esta Ley",
+        "El artículo 87 de esta Ley",
+        "El apartado 5 del artículo 39 de esta Ley"
+      ],
+      "correct": 3,
+      "exp": "Art. 22.2 a): '...en el supuesto al que se refiere el apartado 5 del artículo 39 de esta Ley, desde que se realiza el requerimiento hasta que se atienda o, en su caso, se resuelva el recurso interpuesto ante la jurisdicción contencioso administrativa.'",
+      "fuente": "Art. 22.2 a) LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 22.2 a) LPAC: '...en el supuesto al que se refiere el apartado 5 del artículo 39 de esta Ley...'; opción D coincide y es la marcada."
+    },
+    {
+      "q": "Según el art. 22.2 b) de la Ley 39/2015, el plazo máximo para resolver se suspende cuando el órgano competente decida realizar una actuación complementaria de las previstas en el artículo 87, desde que se notifica a los interesados el acuerdo motivado hasta que:",
+      "options": [
+        "Transcurran seis meses",
+        "Se produzca su terminación",
+        "El interesado lo solicite expresamente",
+        "Se dicte la resolución definitiva"
+      ],
+      "correct": 1,
+      "exp": "Art. 22.2 b): 'Cuando el órgano competente para resolver decida realizar alguna actuación complementaria de las previstas en el artículo 87, desde el momento en que se notifique a los interesados el acuerdo motivado del inicio de las actuaciones hasta que se produzca su terminación.'",
+      "fuente": "Art. 22.2 b) LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 22.2 b) LPAC: '...desde el momento en que se notifique a los interesados el acuerdo motivado del inicio de las actuaciones hasta que se produzca su terminación'; opción B coincide y es la marcada."
+    },
+    {
+      "q": "¿Cuántos supuestos de suspensión obligatoria ('se suspenderá') recoge el art. 22.2 de la Ley 39/2015?",
+      "options": [
+        "Siete",
+        "Cinco",
+        "Tres",
+        "Dos"
+      ],
+      "correct": 2,
+      "exp": "El art. 22.2 recoge tres supuestos (letras a, b y c) de suspensión obligatoria del plazo máximo para resolver, frente a los siete potestativos del apartado 1.",
+      "fuente": "Art. 22.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Contadas las letras del cuerpo real: art. 22.2 tiene exactamente tres supuestos (a, b, c) de suspensión imperativa, frente a los siete (a-g) potestativos del art. 22.1; opción 'Tres' es la marcada."
+    },
+    {
+      "q": "Respecto a la suspensión del plazo máximo para resolver, ¿qué diferencia existe entre los apartados 1 y 2 del art. 22 de la Ley 39/2015?",
+      "options": [
+        "El apartado 1 recoge supuestos donde el plazo 'se podrá suspender' y el apartado 2 supuestos donde 'se suspenderá'",
+        "El apartado 1 se aplica solo a personas físicas y el 2 solo a personas jurídicas",
+        "El apartado 1 regula procedimientos sancionadores y el 2 el resto de procedimientos",
+        "No existe ninguna diferencia relevante entre ambos apartados"
+      ],
+      "correct": 0,
+      "exp": "El art. 22.1 emplea la fórmula potestativa 'se podrá suspender', mientras que el art. 22.2 emplea la fórmula imperativa 'se suspenderá'.",
+      "fuente": "Art. 22.1 y 22.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Confirmado en el propio texto: el encabezado del art. 22.1 dice 'se podrá suspender' (potestativo) y el del art. 22.2 dice 'se suspenderá' (imperativo); opción A coincide y es la marcada."
+    },
+    {
+      "q": "Según el art. 23.1 de la Ley 39/2015, la ampliación del plazo máximo de resolución y notificación solo puede acordarse excepcionalmente cuando:",
+      "options": [
+        "Lo solicite el interesado por escrito motivado",
+        "Se hayan agotado los medios personales y materiales disponibles a los que se refiere el apartado 5 del artículo 21",
+        "Haya transcurrido más de un año desde el inicio del procedimiento",
+        "Lo autorice previamente el órgano de control interno"
+      ],
+      "correct": 1,
+      "exp": "Art. 23.1: 'Excepcionalmente, cuando se hayan agotado los medios personales y materiales disponibles a los que se refiere el apartado 5 del artículo 21... podrá acordar de manera motivada la ampliación del plazo máximo de resolución y notificación.'",
+      "fuente": "Art. 23.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 23.1 LPAC: 'Excepcionalmente, cuando se hayan agotado los medios personales y materiales disponibles a los que se refiere el apartado 5 del artículo 21...'; opción B coincide y es la marcada."
+    },
+    {
+      "q": "Según el art. 23.1 de la Ley 39/2015, el órgano competente para resolver podrá acordar la ampliación del plazo máximo:",
+      "options": [
+        "Verbalmente, sin necesidad de constancia escrita",
+        "Solo previa autorización judicial",
+        "De manera motivada",
+        "Sin necesidad de justificación alguna"
+      ],
+      "correct": 2,
+      "exp": "Art. 23.1: '...podrá acordar de manera motivada la ampliación del plazo máximo de resolución y notificación, no pudiendo ser éste superior al establecido para la tramitación del procedimiento.'",
+      "fuente": "Art. 23.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 23.1 LPAC: '...podrá acordar de manera motivada la ampliación del plazo máximo de resolución y notificación...'; opción C coincide y es la marcada."
+    },
+    {
+      "q": "Según el art. 23.1 de la Ley 39/2015, la ampliación del plazo máximo de resolución puede acordarse a propuesta, en su caso, de:",
+      "options": [
+        "El órgano instructor o el superior jerárquico del órgano competente para resolver",
+        "Cualquier interesado en el procedimiento",
+        "El Consejo de Estado",
+        "El Tribunal Superior de Justicia correspondiente"
+      ],
+      "correct": 0,
+      "exp": "Art. 23.1: 'el órgano competente para resolver, a propuesta, en su caso, del órgano instructor o el superior jerárquico del órgano competente para resolver, podrá acordar de manera motivada la ampliación del plazo máximo.'",
+      "fuente": "Art. 23.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 23.1 LPAC: '...a propuesta, en su caso, del órgano instructor o el superior jerárquico del órgano competente para resolver...'; opción A coincide y es la marcada."
+    },
+    {
+      "q": "Según el art. 23.2 de la Ley 39/2015, el acuerdo que resuelva sobre la ampliación de plazos:",
+      "options": [
+        "No requiere notificación alguna a los interesados",
+        "Deberá ser notificado a los interesados, aunque no cabrá recurso alguno contra él",
+        "Se publica únicamente en el Boletín Oficial del Estado",
+        "Solo se comunica al órgano instructor, nunca al interesado"
+      ],
+      "correct": 1,
+      "exp": "Art. 23.2: 'Contra el acuerdo que resuelva sobre la ampliación de plazos, que deberá ser notificado a los interesados, no cabrá recurso alguno.'",
+      "fuente": "Art. 23.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 23.2 LPAC: 'Contra el acuerdo que resuelva sobre la ampliación de plazos, que deberá ser notificado a los interesados, no cabrá recurso alguno'; opción B coincide y es la marcada."
+    },
+    {
+      "q": "El art. 23 de la Ley 39/2015 se titula:",
+      "options": [
+        "Obligación de resolver",
+        "Suspensión del plazo máximo para resolver",
+        "Silencio administrativo en procedimientos iniciados a solicitud del interesado",
+        "Ampliación del plazo máximo para resolver y notificar"
+      ],
+      "correct": 3,
+      "exp": "El art. 23 lleva por título 'Ampliación del plazo máximo para resolver y notificar'.",
+      "fuente": "Art. 23 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Rúbrica real del art. 23 LPAC en el cuerpo del texto: 'Ampliación del plazo máximo para resolver y notificar'; opción D coincide y es la marcada."
+    }
+  ]
+}

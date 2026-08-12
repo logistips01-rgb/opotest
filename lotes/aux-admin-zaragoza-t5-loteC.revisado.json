@@ -1,0 +1,606 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 5,
+  "preguntas": [
+    {
+      "q": "Según el art. 24.1, cuando el procedimiento tenga por objeto el acceso a actividades o su ejercicio, la ley que disponga el carácter desestimatorio del silencio deberá fundarse en:",
+      "options": [
+        "La concurrencia de razones imperiosas de interés general",
+        "El informe favorable del Consejo de Estado",
+        "La aprobación previa de las Cortes Generales",
+        "La existencia de un reglamento de desarrollo"
+      ],
+      "correct": 0,
+      "exp": "Art. 24.1: 'Cuando el procedimiento tenga por objeto el acceso a actividades o su ejercicio, la ley que disponga el carácter desestimatorio del silencio deberá fundarse en la concurrencia de razones imperiosas de interés general.'",
+      "fuente": "Art. 24.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 24.1 LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 24.1, además de los supuestos expresamente enumerados en el párrafo anterior, ¿en qué otros procedimientos será desestimatorio el sentido del silencio administrativo?",
+      "options": [
+        "En los procedimientos de subvenciones y ayudas públicas",
+        "En los de impugnación de actos y disposiciones y en los de revisión de oficio iniciados a solicitud de los interesados",
+        "En los procedimientos de responsabilidad contractual",
+        "En los procedimientos de acceso al empleo público"
+      ],
+      "correct": 1,
+      "exp": "Art. 24.1: 'El sentido del silencio también será desestimatorio en los procedimientos de impugnación de actos y disposiciones y en los de revisión de oficio iniciados a solicitud de los interesados.'",
+      "fuente": "Art. 24.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 24.1 LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 24.1, cuando se interpone recurso de alzada contra la desestimación por silencio de una solicitud por transcurso del plazo, ¿qué ocurre si llegado el plazo de resolución el órgano competente no dicta ni notifica resolución expresa?",
+      "options": [
+        "Se entenderá desestimado el recurso en todo caso",
+        "El procedimiento caduca automáticamente",
+        "Se entenderá estimado el recurso de alzada, salvo que se refiera a las materias excluidas del silencio positivo",
+        "El interesado pierde la posibilidad de recurrir en vía contenciosa"
+      ],
+      "correct": 2,
+      "exp": "Art. 24.1: '...se entenderá estimado el mismo si, llegado el plazo de resolución, el órgano administrativo competente no dictase y notificase resolución expresa, siempre que no se refiera a las materias enumeradas en el párrafo anterior de este apartado.'",
+      "fuente": "Art. 24.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 24.1 LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 24.2, la desestimación por silencio administrativo tiene como único efecto:",
+      "options": [
+        "Extinguir definitivamente el derecho del interesado",
+        "Obligar a la Administración a indemnizar al interesado",
+        "Iniciar de oficio un expediente disciplinario",
+        "Permitir a los interesados la interposición del recurso administrativo o contencioso-administrativo que resulte procedente"
+      ],
+      "correct": 3,
+      "exp": "Art. 24.2: 'La desestimación por silencio administrativo tiene los solos efectos de permitir a los interesados la interposición del recurso administrativo o contencioso-administrativo que resulte procedente.'",
+      "fuente": "Art. 24.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 24.2 LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 24.3, la obligación de dictar resolución expresa a que se refiere el apartado primero del artículo 21 se sujeta, en caso de silencio administrativo, a un régimen que distingue entre:",
+      "options": [
+        "Los casos de estimación y los casos de desestimación por silencio administrativo",
+        "Los procedimientos de oficio y los procedimientos a instancia de parte",
+        "Los procedimientos ordinarios y los de tramitación de urgencia",
+        "Los procedimientos con informe preceptivo y sin él"
+      ],
+      "correct": 0,
+      "exp": "Art. 24.3: 'La obligación de dictar resolución expresa a que se refiere el apartado primero del artículo 21 se sujetará al siguiente régimen', distinguiendo a) estimación y b) desestimación por silencio.",
+      "fuente": "Art. 24.3 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 24.3 LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 24.3 b), en los casos de desestimación por silencio administrativo, la resolución expresa dictada tras el vencimiento del plazo:",
+      "options": [
+        "Deberá coincidir necesariamente con el sentido desestimatorio del silencio",
+        "Se adoptará por la Administración sin vinculación alguna al sentido del silencio",
+        "Solo podrá dictarse si lo solicita expresamente el interesado",
+        "Carecerá de validez por haberse producido fuera de plazo"
+      ],
+      "correct": 1,
+      "exp": "Art. 24.3 b): 'En los casos de desestimación por silencio administrativo, la resolución expresa posterior al vencimiento del plazo se adoptará por la Administración sin vinculación alguna al sentido del silencio.'",
+      "fuente": "Art. 24.3 b) LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 24.3 b) LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 24.4, los actos administrativos producidos por silencio administrativo se podrán hacer valer:",
+      "options": [
+        "Únicamente ante la Administración que debía resolver",
+        "Solo ante órganos judiciales",
+        "Tanto ante la Administración como ante cualquier persona física o jurídica, pública o privada",
+        "Exclusivamente frente a terceros de buena fe acreditada"
+      ],
+      "correct": 2,
+      "exp": "Art. 24.4: 'Los actos administrativos producidos por silencio administrativo se podrán hacer valer tanto ante la Administración como ante cualquier persona física o jurídica, pública o privada.'",
+      "fuente": "Art. 24.4 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 24.4 LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 24.4, ¿desde qué momento producen efectos los actos administrativos producidos por silencio administrativo?",
+      "options": [
+        "Desde la fecha en que se solicita el certificado acreditativo del silencio",
+        "Desde la fecha de la solicitud inicial del interesado",
+        "Desde que se publican en el Boletín Oficial correspondiente",
+        "Desde el vencimiento del plazo máximo en el que debe dictarse y notificarse la resolución expresa sin que se haya expedido"
+      ],
+      "correct": 3,
+      "exp": "Art. 24.4: 'Los mismos producen efectos desde el vencimiento del plazo máximo en el que debe dictarse y notificarse la resolución expresa sin que la misma se haya expedido.'",
+      "fuente": "Art. 24.4 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 24.4 LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 24.4, si el interesado solicita el certificado acreditativo del silencio producido, ¿desde cuándo se computa el plazo de quince días para expedirlo?",
+      "options": [
+        "Desde el día siguiente a aquel en que la petición tuviese entrada en el registro electrónico de la Administración competente para resolver",
+        "Desde la fecha del acuerdo de iniciación del procedimiento",
+        "Desde el vencimiento del plazo máximo para resolver, con independencia de cuándo se solicite",
+        "Desde que el interesado presenta recurso de alzada"
+      ],
+      "correct": 0,
+      "exp": "Art. 24.4: 'el interesado podrá pedirlo en cualquier momento, computándose el plazo indicado anteriormente desde el día siguiente a aquél en que la petición tuviese entrada en el registro electrónico de la Administración u Organismo competente para resolver.'",
+      "fuente": "Art. 24.4 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 24.4 LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 25.1, en los procedimientos iniciados de oficio, el vencimiento del plazo máximo establecido sin que se haya dictado y notificado resolución expresa:",
+      "options": [
+        "Exime a la Administración de resolver a partir de ese momento",
+        "No exime a la Administración del cumplimiento de la obligación legal de resolver",
+        "Determina la nulidad de pleno derecho de todo lo actuado",
+        "Obliga a iniciar un nuevo procedimiento desde cero"
+      ],
+      "correct": 1,
+      "exp": "Art. 25.1: 'En los procedimientos iniciados de oficio, el vencimiento del plazo máximo establecido sin que se haya dictado y notificado resolución expresa no exime a la Administración del cumplimiento de la obligación legal de resolver, produciendo los siguientes efectos...'",
+      "fuente": "Art. 25.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 25.1 LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 25.1 b), la caducidad por falta de resolución expresa se produce en los procedimientos de oficio en que la Administración ejercite potestades sancionadoras o de intervención susceptibles de producir:",
+      "options": [
+        "Efectos favorables para terceros",
+        "Efectos meramente informativos",
+        "Efectos desfavorables o de gravamen para el interesado",
+        "Efectos retroactivos sobre otros expedientes"
+      ],
+      "correct": 2,
+      "exp": "Art. 25.1 b): 'En los procedimientos en que la Administración ejercite potestades sancionadoras o, en general, de intervención, susceptibles de producir efectos desfavorables o de gravamen, se producirá la caducidad.'",
+      "fuente": "Art. 25.1 b) LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 25.1 b) LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 25.1 b), la resolución que declara la caducidad por falta de resolución expresa en un procedimiento de oficio ordena el archivo de las actuaciones, con los efectos previstos en:",
+      "options": [
+        "El artículo 21 de la Ley 39/2015",
+        "El artículo 30 de la Ley 39/2015",
+        "El artículo 55 de la Ley 39/2015",
+        "El artículo 95 de la Ley 39/2015"
+      ],
+      "correct": 3,
+      "exp": "Art. 25.1 b): '...la resolución que declare la caducidad ordenará el archivo de las actuaciones, con los efectos previstos en el artículo 95.'",
+      "fuente": "Art. 25.1 b) LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 25.1 b) LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 25.2, cuando el procedimiento se hubiera paralizado por causa imputable al interesado, ¿qué efecto se produce sobre el plazo para resolver?",
+      "options": [
+        "Se interrumpe el cómputo del plazo para resolver y notificar la resolución",
+        "El plazo se amplía automáticamente en tres meses",
+        "El procedimiento se archiva de forma inmediata",
+        "El plazo sigue corriendo sin ninguna alteración"
+      ],
+      "correct": 0,
+      "exp": "Art. 25.2: 'En los supuestos en los que el procedimiento se hubiera paralizado por causa imputable al interesado, se interrumpirá el cómputo del plazo para resolver y notificar la resolución.'",
+      "fuente": "Art. 25.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 25.2 LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 25.1 a), en los procedimientos de oficio de los que pudiera derivarse el reconocimiento de derechos favorables, ¿quiénes pueden entender desestimadas sus pretensiones por silencio?",
+      "options": [
+        "Cualquier persona, aunque no haya comparecido",
+        "Los interesados que hubieren comparecido en el procedimiento",
+        "Únicamente el denunciante inicial",
+        "Solo quienes hayan sido citados judicialmente"
+      ],
+      "correct": 1,
+      "exp": "Art. 25.1 a): 'En el caso de procedimientos de los que pudiera derivarse el reconocimiento o, en su caso, la constitución de derechos u otras situaciones jurídicas favorables, los interesados que hubieren comparecido podrán entender desestimadas sus pretensiones por silencio administrativo.'",
+      "fuente": "Art. 25.1 a) LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 25.1 a) LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 26.1, se entiende por documentos públicos administrativos:",
+      "options": [
+        "Los emitidos por notarios en el ejercicio de su función pública",
+        "Los documentos privados elevados a públicos por acuerdo entre particulares",
+        "Los válidamente emitidos por los órganos de las Administraciones Públicas",
+        "Los emitidos por cualquier persona jurídica, pública o privada"
+      ],
+      "correct": 2,
+      "exp": "Art. 26.1: 'Se entiende por documentos públicos administrativos los válidamente emitidos por los órganos de las Administraciones Públicas.'",
+      "fuente": "Art. 26.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 26.1 LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 26.2 a), para ser considerados válidos, los documentos electrónicos administrativos deben contener información de cualquier naturaleza archivada en un soporte electrónico según un formato:",
+      "options": [
+        "Exclusivo de la Administración General del Estado",
+        "No modificable bajo ninguna circunstancia",
+        "Compatible únicamente con software libre",
+        "Determinado, susceptible de identificación y tratamiento diferenciado"
+      ],
+      "correct": 3,
+      "exp": "Art. 26.2 a): 'Contener información de cualquier naturaleza archivada en un soporte electrónico según un formato determinado susceptible de identificación y tratamiento diferenciado.'",
+      "fuente": "Art. 26.2 a) LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 26.2 a) LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 26.2 b), los documentos electrónicos administrativos deben disponer de datos de identificación que permitan:",
+      "options": [
+        "Su individualización, sin perjuicio de su posible incorporación a un expediente electrónico",
+        "Su destrucción automática tras seis meses",
+        "Su traducción automática a todas las lenguas oficiales",
+        "Su clasificación exclusivamente como secreto o reservado"
+      ],
+      "correct": 0,
+      "exp": "Art. 26.2 b): 'Disponer de los datos de identificación que permitan su individualización, sin perjuicio de su posible incorporación a un expediente electrónico.'",
+      "fuente": "Art. 26.2 b) LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 26.2 b) LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 26.2 d), entre los requisitos de validez de los documentos electrónicos administrativos figura:",
+      "options": [
+        "Incorporar una fotografía del órgano emisor",
+        "Incorporar los metadatos mínimos exigidos",
+        "Estar redactados exclusivamente en castellano",
+        "Contener el número de expediente en la primera línea"
+      ],
+      "correct": 1,
+      "exp": "Art. 26.2 d): 'Incorporar los metadatos mínimos exigidos.'",
+      "fuente": "Art. 26.2 d) LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 26.2 d) LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 26.2 in fine, ¿qué ocurre con los documentos electrónicos que, cumpliendo los requisitos de validez exigidos, son trasladados a un tercero a través de medios electrónicos?",
+      "options": [
+        "Pierden automáticamente su validez",
+        "Requieren ser notariados de nuevo",
+        "Se considerarán válidos",
+        "Deben imprimirse en papel para conservar su validez"
+      ],
+      "correct": 2,
+      "exp": "Art. 26.2: 'Se considerarán válidos los documentos electrónicos, que cumpliendo estos requisitos, sean trasladados a un tercero a través de medios electrónicos.'",
+      "fuente": "Art. 26.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 26.2 LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 26.3, además de los documentos meramente informativos, ¿qué otros documentos electrónicos de las Administraciones Públicas no requieren firma electrónica?",
+      "options": [
+        "Los que se remitan a otra Administración Pública",
+        "Los que contengan datos de carácter personal",
+        "Los emitidos por autoridades de rango ministerial",
+        "Los que no formen parte de un expediente administrativo"
+      ],
+      "correct": 3,
+      "exp": "Art. 26.3: 'No requerirán de firma electrónica, los documentos electrónicos emitidos por las Administraciones Públicas que se publiquen con carácter meramente informativo, así como aquellos que no formen parte de un expediente administrativo.'",
+      "fuente": "Art. 26.3 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 26.3 LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 26.3, aunque no requieran firma electrónica, los documentos meramente informativos emitidos por las Administraciones Públicas deberán, en todo caso:",
+      "options": [
+        "Identificar su origen",
+        "Llevar el sello del órgano en papel",
+        "Ser aprobados por el Consejo de Ministros",
+        "Publicarse simultáneamente en el BOE y en el diario autonómico"
+      ],
+      "correct": 0,
+      "exp": "Art. 26.3: 'En todo caso, será necesario identificar el origen de estos documentos.'",
+      "fuente": "Art. 26.3 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 26.3 LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 27.1, las copias auténticas de documentos privados realizadas por una Administración Pública surten:",
+      "options": [
+        "Efectos civiles y mercantiles plenos",
+        "Únicamente efectos administrativos",
+        "Efectos registrales en el Registro de la Propiedad",
+        "Efectos probatorios en cualquier proceso penal"
+      ],
+      "correct": 1,
+      "exp": "Art. 27.1: 'Las copias auténticas de documentos privados surten únicamente efectos administrativos.'",
+      "fuente": "Art. 27.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 27.1 LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 27.1, la Administración General del Estado, las Comunidades Autónomas y las Entidades Locales podrán realizar copias auténticas mediante:",
+      "options": [
+        "Únicamente notario público",
+        "Solo el titular del órgano mediante firma manuscrita",
+        "Funcionario habilitado o mediante actuación administrativa automatizada",
+        "Cualquier empleado público sin necesidad de habilitación"
+      ],
+      "correct": 2,
+      "exp": "Art. 27.1: 'A estos efectos, la Administración General del Estado, las Comunidades Autónomas y las Entidades Locales podrán realizar copias auténticas mediante funcionario habilitado o mediante actuación administrativa automatizada.'",
+      "fuente": "Art. 27.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 27.1 LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 27.1, el registro de funcionarios habilitados para la expedición de copias auténticas debe ser, respecto de los de las restantes Administraciones Públicas:",
+      "options": [
+        "Independiente y sin conexión alguna",
+        "De acceso exclusivo para el Defensor del Pueblo",
+        "Actualizado únicamente cada cinco años",
+        "Plenamente interoperable y estar interconectado"
+      ],
+      "correct": 3,
+      "exp": "Art. 27.1: 'Se deberá mantener actualizado un registro, u otro sistema equivalente, donde constarán los funcionarios habilitados... que deberán ser plenamente interoperables y estar interconectados con los de las restantes Administraciones Públicas.'",
+      "fuente": "Art. 27.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 27.1 LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 27.2, para que una copia, cualquiera que sea su soporte, tenga la consideración de copia auténtica, debe quedar garantizada:",
+      "options": [
+        "La identidad del órgano que ha realizado la copia y su contenido",
+        "Únicamente la firma manuscrita del solicitante",
+        "El pago previo de una tasa administrativa",
+        "La intervención de un notario en todo caso"
+      ],
+      "correct": 0,
+      "exp": "Art. 27.2: 'Tendrán la consideración de copia auténtica... las realizadas, cualquiera que sea su soporte, por los órganos competentes de las Administraciones Públicas en las que quede garantizada la identidad del órgano que ha realizado la copia y su contenido.'",
+      "fuente": "Art. 27.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 27.2 LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 27.3, para garantizar la identidad y contenido de las copias electrónicas o en papel, las Administraciones Públicas deberán ajustarse, entre otras normas, a:",
+      "options": [
+        "El Código Civil y la Ley Hipotecaria",
+        "El Esquema Nacional de Interoperabilidad y el Esquema Nacional de Seguridad",
+        "El Reglamento Notarial y la Ley del Notariado",
+        "La Ley de Contratos del Sector Público"
+      ],
+      "correct": 1,
+      "exp": "Art. 27.3: 'Las Administraciones Públicas deberán ajustarse a lo previsto en el Esquema Nacional de Interoperabilidad, el Esquema Nacional de Seguridad y sus normas técnicas de desarrollo, así como a las siguientes reglas...'",
+      "fuente": "Art. 27.3 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 27.3 LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 27.3 b), se entiende por digitalización:",
+      "options": [
+        "El proceso de destrucción del documento original tras su escaneo",
+        "La conversión de un documento electrónico en copia impresa certificada",
+        "El proceso tecnológico que permite convertir un documento en soporte papel u otro soporte no electrónico en un fichero electrónico que contiene la imagen codificada, fiel e íntegra del documento",
+        "El proceso de firma electrónica cualificada de cualquier documento"
+      ],
+      "correct": 2,
+      "exp": "Art. 27.3 b): 'Se entiende por digitalización, el proceso tecnológico que permite convertir un documento en soporte papel o en otro soporte no electrónico en un fichero electrónico que contiene la imagen codificada, fiel e íntegra del documento.'",
+      "fuente": "Art. 27.3 b) LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 27.3 b) LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 27.3 c), las copias en soporte papel de documentos electrónicos deben contener un código generado electrónicamente u otro sistema de verificación que permita:",
+      "options": [
+        "Identificar únicamente el número de páginas del documento",
+        "Calcular el coste de expedición de la copia",
+        "Sustituir la firma electrónica del funcionario habilitado",
+        "Contrastar la autenticidad de la copia mediante el acceso a los archivos electrónicos del órgano u organismo emisor"
+      ],
+      "correct": 3,
+      "exp": "Art. 27.3 c): '...contendrán un código generado electrónicamente u otro sistema de verificación, que permitirá contrastar la autenticidad de la copia mediante el acceso a los archivos electrónicos del órgano u Organismo público emisor.'",
+      "fuente": "Art. 27.3 c) LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 27.3 c) LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 27.4, las Administraciones Públicas están obligadas a expedir copias auténticas electrónicas:",
+      "options": [
+        "De cualquier documento en papel que presenten los interesados y que se vaya a incorporar a un expediente administrativo",
+        "Únicamente de los documentos notariales aportados",
+        "Solo cuando lo solicite un juzgado",
+        "De cualquier documento, aunque no vaya a incorporarse a expediente alguno"
+      ],
+      "correct": 0,
+      "exp": "Art. 27.4: 'Asimismo, las Administraciones Públicas estarán obligadas a expedir copias auténticas electrónicas de cualquier documento en papel que presenten los interesados y que se vaya a incorporar a un expediente administrativo.'",
+      "fuente": "Art. 27.4 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 27.4 LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 27.5, cuando las Administraciones Públicas expidan copias auténticas electrónicas:",
+      "options": [
+        "No es necesario hacer constar esa circunstancia",
+        "Deberá quedar expresamente indicado en el documento de la copia",
+        "Deben notificarlo previamente al interesado por correo postal",
+        "Se requiere la conformidad expresa de otra Administración"
+      ],
+      "correct": 1,
+      "exp": "Art. 27.5: 'Cuando las Administraciones Públicas expidan copias auténticas electrónicas, deberá quedar expresamente así indicado en el documento de la copia.'",
+      "fuente": "Art. 27.5 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 27.5 LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 27.6, la expedición de copias auténticas de documentos públicos notariales, registrales y judiciales, así como de los diarios oficiales, se rige por:",
+      "options": [
+        "El Esquema Nacional de Seguridad exclusivamente",
+        "El régimen general de la Ley 39/2015 sin excepciones",
+        "Su legislación específica",
+        "Las normas del Código Civil sobre prueba documental"
+      ],
+      "correct": 2,
+      "exp": "Art. 27.6: 'La expedición de copias auténticas de documentos públicos notariales, registrales y judiciales, así como de los diarios oficiales, se regirá por su legislación específica.'",
+      "fuente": "Art. 27.6 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 27.6 LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 27.3 d), las copias en soporte papel de documentos originales emitidos también en soporte papel se proporcionarán mediante:",
+      "options": [
+        "Fotocopia simple sellada por cualquier funcionario",
+        "Testimonio notarial obligatorio en todo caso",
+        "Certificación del Registro Civil correspondiente",
+        "Una copia auténtica en papel del documento electrónico en poder de la Administración, o mediante puesta de manifiesto electrónica con copia auténtica del documento original"
+      ],
+      "correct": 3,
+      "exp": "Art. 27.3 d): 'Las copias en soporte papel de documentos originales emitidos en dicho soporte se proporcionarán mediante una copia auténtica en papel del documento electrónico que se encuentre en poder de la Administración o bien mediante una puesta de manifiesto electrónica conteniendo copia auténtica del documento original.'",
+      "fuente": "Art. 27.3 d) LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 27.3 d) LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 28.1, además de los datos y documentos exigidos por las Administraciones Públicas conforme a la normativa aplicable, los interesados:",
+      "options": [
+        "Podrán aportar cualquier otro documento que estimen conveniente",
+        "No podrán aportar ningún documento adicional",
+        "Solo podrán aportar documentos notariales",
+        "Deberán solicitar autorización previa para aportar documentos adicionales"
+      ],
+      "correct": 0,
+      "exp": "Art. 28.1: 'Los interesados deberán aportar al procedimiento administrativo los datos y documentos exigidos por las Administraciones Públicas... Asimismo, los interesados podrán aportar cualquier otro documento que estimen conveniente.'",
+      "fuente": "Art. 28.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 28.1 LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 28.2, la Administración actuante podrá consultar o recabar los documentos que el interesado no esté obligado a aportar, salvo que:",
+      "options": [
+        "El documento tenga más de un año de antigüedad",
+        "El interesado se opusiera a ello",
+        "Se trate de documentos de más de diez páginas",
+        "El documento proceda de una Comunidad Autónoma distinta"
+      ],
+      "correct": 1,
+      "exp": "Art. 28.2: 'La administración actuante podrá consultar o recabar dichos documentos salvo que el interesado se opusiera a ello.'",
+      "fuente": "Art. 28.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 28.2 LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 28.2, las Administraciones Públicas deben recabar electrónicamente los documentos que no deban aportar los interesados a través de:",
+      "options": [
+        "El correo electrónico ordinario del funcionario responsable",
+        "Una solicitud por fax al órgano competente",
+        "Sus redes corporativas o mediante consulta a las plataformas de intermediación de datos u otros sistemas electrónicos habilitados",
+        "El Boletín Oficial del Estado"
+      ],
+      "correct": 2,
+      "exp": "Art. 28.2: 'Las Administraciones Públicas deberán recabar los documentos electrónicamente a través de sus redes corporativas o mediante consulta a las plataformas de intermediación de datos u otros sistemas electrónicos habilitados al efecto.'",
+      "fuente": "Art. 28.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 28.2 LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 28.2, cuando se trate de informes preceptivos ya elaborados por un órgano administrativo distinto al que tramita el procedimiento, ¿en qué plazo deben remitirse?",
+      "options": [
+        "Un mes a contar desde su solicitud",
+        "Quince días a contar desde su solicitud",
+        "Tres meses a contar desde su solicitud",
+        "Diez días a contar desde su solicitud"
+      ],
+      "correct": 3,
+      "exp": "Art. 28.2: 'Cuando se trate de informes preceptivos ya elaborados por un órgano administrativo distinto al que tramita el procedimiento, estos deberán ser remitidos en el plazo de diez días a contar desde su solicitud.'",
+      "fuente": "Art. 28.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 28.2 LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 28.3, las Administraciones Públicas no requerirán a los interesados datos o documentos no exigidos por la normativa aplicable o que:",
+      "options": [
+        "Hayan sido aportados anteriormente por el interesado a cualquier Administración",
+        "Hayan sido solicitados por un tercero interesado",
+        "Tengan una antigüedad superior a cinco años",
+        "Estén redactados en una lengua cooficial distinta del castellano"
+      ],
+      "correct": 0,
+      "exp": "Art. 28.3: 'Las Administraciones Públicas no requerirán a los interesados datos o documentos no exigidos por la normativa reguladora aplicable o que hayan sido aportados anteriormente por el interesado a cualquier Administración.'",
+      "fuente": "Art. 28.3 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 28.3 LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 28.4, cuando excepcionalmente la Administración solicite al interesado un documento original en formato papel, este deberá, con carácter previo a su presentación electrónica:",
+      "options": [
+        "Remitir el documento original por correo postal certificado",
+        "Obtener una copia auténtica, según los requisitos del artículo 27",
+        "Solicitar autorización judicial para digitalizarlo",
+        "Legalizar el documento ante notario"
+      ],
+      "correct": 1,
+      "exp": "Art. 28.4: '...la Administración solicitara al interesado la presentación de un documento original y éste estuviera en formato papel, el interesado deberá obtener una copia auténtica, según los requisitos establecidos en el artículo 27, con carácter previo a su presentación electrónica.'",
+      "fuente": "Art. 28.4 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 28.4 LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 28.5, cuando la relevancia del documento lo exija o existan dudas sobre la calidad de la copia, las Administraciones podrán solicitar de manera motivada:",
+      "options": [
+        "La anulación automática del procedimiento",
+        "El pago de una tasa adicional por verificación",
+        "El cotejo de las copias aportadas por el interesado, requiriendo la exhibición del documento o de la información original",
+        "La comparecencia notarial obligatoria del interesado"
+      ],
+      "correct": 2,
+      "exp": "Art. 28.5: 'Excepcionalmente, cuando la relevancia del documento en el procedimiento lo exija o existan dudas derivadas de la calidad de la copia, las Administraciones podrán solicitar de manera motivada el cotejo de las copias aportadas por el interesado, para lo que podrán requerir la exhibición del documento o de la información original.'",
+      "fuente": "Art. 28.5 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 28.5 LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    },
+    {
+      "q": "Según el art. 28.6, las copias que aporten los interesados al procedimiento administrativo tendrán eficacia:",
+      "options": [
+        "En cualquier proceso civil o penal sin restricción",
+        "Solo si están notariadas previamente",
+        "Únicamente frente a la propia Administración que las solicitó, y no frente a otras",
+        "Exclusivamente en el ámbito de la actividad de las Administraciones Públicas"
+      ],
+      "correct": 3,
+      "exp": "Art. 28.6: 'Las copias que aporten los interesados al procedimiento administrativo tendrán eficacia, exclusivamente en el ámbito de la actividad de las Administraciones Públicas.'",
+      "fuente": "Art. 28.6 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Releído Art. 28.6 LPAC en el cuerpo real de tools/temarios/_lpac.txt (líneas 639-712, tras descartar el índice); el apartado dice literalmente lo que la pregunta da por bueno y la opción marcada como correcta coincide con ese texto; sin duplicados ni ambigüedad entre las 4 opciones."
+    }
+  ]
+}
