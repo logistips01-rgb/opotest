@@ -1,0 +1,606 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 8,
+  "preguntas": [
+    {
+      "q": "Según el art. 112.1 LPAC, además de las resoluciones, ¿contra qué actos de trámite cabe interponer los recursos de alzada y el potestativo de reposición?",
+      "options": [
+        "Contra los actos de trámite que decidan directa o indirectamente el fondo del asunto, determinen la imposibilidad de continuar el procedimiento, o produzcan indefensión o perjuicio irreparable a derechos e intereses legítimos",
+        "Contra todos los actos de trámite, sin excepción",
+        "Únicamente contra los actos de trámite que acuerden la apertura de un periodo de prueba",
+        "Contra los actos de trámite exclusivamente cuando el interesado sea una persona jurídica"
+      ],
+      "correct": 0,
+      "exp": "El art. 112.1 LPAC exige que el acto de trámite decida directa o indirectamente el fondo, imposibilite continuar el procedimiento, o produzca indefensión o perjuicio irreparable.",
+      "fuente": "Art. 112.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 112.1: coincide 'decidan directa o indirectamente el fondo, imposibiliten continuar, produzcan indefensión o perjuicio irreparable'; opción 0 correcta, resto descartables sin ambigüedad."
+    },
+    {
+      "q": "¿En qué motivos pueden fundarse los recursos de alzada y el potestativo de reposición, conforme al art. 112.1 LPAC?",
+      "options": [
+        "Exclusivamente en la falta de competencia territorial del órgano",
+        "En cualquiera de los motivos de nulidad o anulabilidad previstos en los artículos 47 y 48 de la LPAC",
+        "Solo en motivos de nulidad de pleno derecho del artículo 47",
+        "Únicamente en la falta de motivación del acto"
+      ],
+      "correct": 1,
+      "exp": "El art. 112.1 LPAC permite fundar estos recursos en cualquiera de los motivos de nulidad o anulabilidad de los arts. 47 y 48 de la misma Ley.",
+      "fuente": "Art. 112.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 112.1: coincide 'cualquiera de los motivos de nulidad o anulabilidad previstos en los artículos 47 y 48'; opción 1 correcta."
+    },
+    {
+      "q": "Respecto de los actos de trámite que no decidan el fondo del asunto ni produzcan indefensión, el art. 112.1 LPAC establece que la oposición a ellos...",
+      "options": [
+        "no puede alegarse en ningún momento por los interesados",
+        "debe formularse mediante recurso de alzada independiente",
+        "podrá alegarse por los interesados para su consideración en la resolución que ponga fin al procedimiento",
+        "exige recurso extraordinario de revisión"
+      ],
+      "correct": 2,
+      "exp": "El art. 112.1 LPAC dice literalmente que la oposición a los restantes actos de trámite podrá alegarse para su consideración en la resolución final.",
+      "fuente": "Art. 112.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 112.1: coincide 'La oposición a los restantes actos de trámite podrá alegarse... para su consideración en la resolución que ponga fin al procedimiento'; opción 2 correcta."
+    },
+    {
+      "q": "Conforme al art. 112.2 LPAC, ¿por qué otros procedimientos puede sustituirse el recurso de alzada en supuestos o ámbitos sectoriales determinados?",
+      "options": [
+        "Únicamente por un procedimiento arbitral ante notario",
+        "Por la vía judicial contencioso-administrativa directa, sin excepción",
+        "Por un informe vinculante de la Abogacía del Estado",
+        "Por procedimientos de impugnación, reclamación, conciliación, mediación y arbitraje, ante órganos colegiados o Comisiones específicas no sometidas a instrucciones jerárquicas"
+      ],
+      "correct": 3,
+      "exp": "El art. 112.2 LPAC permite sustituir el recurso de alzada por esos procedimientos alternativos ante órganos colegiados o Comisiones no sujetas a instrucciones jerárquicas.",
+      "fuente": "Art. 112.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 112.2 párr.1: coincide 'procedimientos de impugnación, reclamación, conciliación, mediación y arbitraje, ante órganos colegiados o Comisiones específicas no sometidas a instrucciones jerárquicas'; opción 3 correcta."
+    },
+    {
+      "q": "El recurso de reposición, según el art. 112.2 LPAC, ¿puede sustituirse por esos mismos procedimientos alternativos de impugnación?",
+      "options": [
+        "Sí, siempre que se respete su carácter potestativo para el interesado",
+        "No, el recurso de reposición nunca puede sustituirse",
+        "Sí, pero solo si el interesado es una Administración Pública",
+        "Sí, pero únicamente en materia tributaria"
+      ],
+      "correct": 0,
+      "exp": "El art. 112.2 LPAC permite sustituir también el recurso de reposición por esos procedimientos, respetando su carácter potestativo para el interesado.",
+      "fuente": "Art. 112.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 112.2 párr.2: coincide 'el recurso de reposición podrá ser sustituido... respetando su carácter potestativo para el interesado'; opción 0 correcta."
+    },
+    {
+      "q": "¿Qué límite impone el art. 112.2 LPAC a la aplicación de estos procedimientos alternativos en el ámbito de la Administración Local?",
+      "options": [
+        "Que no podrán aplicarse nunca en municipios de gran población",
+        "Que su aplicación no podrá suponer el desconocimiento de las facultades resolutorias reconocidas a los órganos representativos electos establecidos por la Ley",
+        "Que requieren autorización previa del Tribunal Superior de Justicia",
+        "Que solo pueden emplearse si lo aprueba el Pleno por mayoría absoluta"
+      ],
+      "correct": 1,
+      "exp": "El art. 112.2 LPAC señala expresamente que su aplicación en la Administración Local no podrá suponer el desconocimiento de las facultades resolutorias de los órganos representativos electos.",
+      "fuente": "Art. 112.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 112.2 párr.3: coincide 'no podrá suponer el desconocimiento de las facultades resolutorias reconocidas a los órganos representativos electos'; opción 1 correcta."
+    },
+    {
+      "q": "¿Cabe recurso en vía administrativa contra las disposiciones administrativas de carácter general, según el art. 112.3 LPAC?",
+      "options": [
+        "Sí, siempre mediante recurso de alzada",
+        "Sí, pero solo recurso extraordinario de revisión",
+        "No cabe recurso en vía administrativa contra ellas",
+        "Sí, mediante recurso potestativo de reposición"
+      ],
+      "correct": 2,
+      "exp": "El art. 112.3 LPAC dispone que contra las disposiciones administrativas de carácter general no cabrá recurso en vía administrativa.",
+      "fuente": "Art. 112.3 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 112.3 párr.1: coincide 'Contra las disposiciones administrativas de carácter general no cabrá recurso en vía administrativa'; opción 2 correcta."
+    },
+    {
+      "q": "Si un recurso contra un acto administrativo se funda únicamente en la nulidad de una disposición administrativa de carácter general, ¿ante quién puede interponerse directamente, según el art. 112.3 LPAC?",
+      "options": [
+        "Ante el Consejo de Estado",
+        "Ante el Tribunal Constitucional",
+        "Ante el Defensor del Pueblo",
+        "Ante el órgano que dictó dicha disposición"
+      ],
+      "correct": 3,
+      "exp": "El art. 112.3 LPAC permite interponer directamente el recurso ante el órgano que dictó la disposición general de la que se predica la nulidad.",
+      "fuente": "Art. 112.3 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 112.3 párr.2: coincide 'podrán interponerse directamente ante el órgano que dictó dicha disposición'; opción 3 correcta."
+    },
+    {
+      "q": "Las reclamaciones económico-administrativas, según el art. 112.4 LPAC, se ajustarán a...",
+      "options": [
+        "los procedimientos establecidos por su legislación específica",
+        "lo dispuesto con carácter general para el recurso de alzada",
+        "las normas generales del recurso de reposición",
+        "lo que decida discrecionalmente cada Ayuntamiento"
+      ],
+      "correct": 0,
+      "exp": "El art. 112.4 LPAC remite las reclamaciones económico-administrativas a los procedimientos de su legislación específica.",
+      "fuente": "Art. 112.4 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 112.4: coincide 'se ajustarán a los procedimientos establecidos por su legislación específica'; opción 0 correcta."
+    },
+    {
+      "q": "¿Contra qué actos procede el recurso extraordinario de revisión, según el art. 113 LPAC?",
+      "options": [
+        "Contra cualquier acto de trámite, aunque no sea firme",
+        "Contra los actos firmes en vía administrativa, cuando concurra alguna de las circunstancias del art. 125.1 LPAC",
+        "Contra las disposiciones administrativas de carácter general",
+        "Contra los actos que hayan ganado firmeza judicial"
+      ],
+      "correct": 1,
+      "exp": "El art. 113 LPAC reserva el recurso extraordinario de revisión a los actos firmes en vía administrativa, en las circunstancias del art. 125.1.",
+      "fuente": "Art. 113 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 113: coincide 'Contra los actos firmes en vía administrativa, sólo procederá... cuando concurra alguna de las circunstancias previstas en el artículo 125.1'; opción 1 correcta."
+    },
+    {
+      "q": "¿Cuál de las siguientes NO figura entre las resoluciones que ponen fin a la vía administrativa según el art. 114.1 LPAC?",
+      "options": [
+        "Las resoluciones de los recursos de alzada",
+        "Las resoluciones de los órganos administrativos que carezcan de superior jerárquico, salvo que una Ley establezca lo contrario",
+        "Todas las resoluciones dictadas en primera instancia por cualquier órgano administrativo, sea cual sea su rango",
+        "Las resoluciones de los procedimientos a que se refiere el artículo 112.2"
+      ],
+      "correct": 2,
+      "exp": "El art. 114.1 LPAC enumera supuestos tasados (recursos de alzada, art. 112.2, órganos sin superior jerárquico, etc.); no basta con ser una resolución de primera instancia de cualquier órgano.",
+      "fuente": "Art. 114.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 114.1 a)-g): las opciones 0, 1 y 3 figuran literalmente en el listado (a, c, b); la opción 2 ('todas las resoluciones de primera instancia, sea cual sea su rango') no figura, es la correcta como excepción."
+    },
+    {
+      "q": "Según el art. 114.1.d) LPAC, ¿qué otros instrumentos ponen fin a la vía administrativa?",
+      "options": [
+        "Las meras diligencias de trámite ordenadas por el instructor",
+        "Los informes preceptivos no vinculantes",
+        "Las notificaciones defectuosas",
+        "Los acuerdos, pactos, convenios o contratos que tengan la consideración de finalizadores del procedimiento"
+      ],
+      "correct": 3,
+      "exp": "El art. 114.1.d) LPAC incluye entre los actos que ponen fin a la vía administrativa los acuerdos, pactos, convenios o contratos finalizadores del procedimiento.",
+      "fuente": "Art. 114.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 114.1.d): coincide 'Los acuerdos, pactos, convenios o contratos que tengan la consideración de finalizadores del procedimiento'; opción 3 correcta."
+    },
+    {
+      "q": "La resolución administrativa de los procedimientos de responsabilidad patrimonial, ¿pone fin a la vía administrativa según el art. 114.1.e) LPAC?",
+      "options": [
+        "Sí, cualquiera que fuese el tipo de relación, pública o privada, de que derive",
+        "No, requiere siempre recurso de alzada previo",
+        "Solo si la relación es de derecho público",
+        "Solo si la cuantía supera los 3.000 euros"
+      ],
+      "correct": 0,
+      "exp": "El art. 114.1.e) LPAC pone fin a la vía administrativa a la resolución de responsabilidad patrimonial cualquiera que sea el tipo de relación, pública o privada, de que derive.",
+      "fuente": "Art. 114.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 114.1.e): coincide 'cualquiera que fuese el tipo de relación, pública o privada, de que derive'; opción 0 correcta."
+    },
+    {
+      "q": "En el ámbito estatal, según el art. 114.2.c) LPAC, ¿qué actos ponen fin a la vía administrativa en materia de personal?",
+      "options": [
+        "Los emanados de cualquier jefe de negociado",
+        "Los emanados de los órganos directivos con nivel de Director general o superior, en relación con las competencias que tengan atribuidas en materia de personal",
+        "Únicamente los dictados por el Ministro de Hacienda",
+        "Los dictados por el Consejo de Ministros exclusivamente"
+      ],
+      "correct": 1,
+      "exp": "El art. 114.2.c) LPAC atribuye este efecto a los órganos directivos de nivel Director general o superior, respecto de sus competencias en materia de personal.",
+      "fuente": "Art. 114.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 114.2.c): coincide 'los emanados de los órganos directivos con nivel de Director general o superior, en relación con las competencias... en materia de personal'; opción 1 correcta."
+    },
+    {
+      "q": "¿Qué actos ponen fin a la vía administrativa en el ámbito estatal según el art. 114.2.a) LPAC?",
+      "options": [
+        "Los actos de los funcionarios de nivel base",
+        "Los informes de la Intervención General",
+        "Los actos administrativos de los miembros y órganos del Gobierno",
+        "Los actos dictados por los Delegados del Gobierno exclusivamente"
+      ],
+      "correct": 2,
+      "exp": "El art. 114.2.a) LPAC atribuye este efecto a los actos administrativos de los miembros y órganos del Gobierno.",
+      "fuente": "Art. 114.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 114.2.a): coincide 'Los actos administrativos de los miembros y órganos del Gobierno'; opción 2 correcta."
+    },
+    {
+      "q": "¿Cuál de los siguientes NO es un requisito exigido por el art. 115.1 LPAC para la interposición de un recurso administrativo?",
+      "options": [
+        "El nombre y apellidos del recurrente y su identificación personal",
+        "El acto que se recurre y la razón de su impugnación",
+        "Lugar, fecha, firma del recurrente, identificación del medio y, en su caso, del lugar de notificaciones",
+        "El pago previo de una tasa de tramitación del recurso"
+      ],
+      "correct": 3,
+      "exp": "El art. 115.1 LPAC no exige ninguna tasa de tramitación; enumera únicamente identificación del recurrente, acto y razón de la impugnación, lugar/fecha/firma/medio, órgano al que se dirige y demás particularidades exigidas.",
+      "fuente": "Art. 115.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 115.1 a)-e): las opciones 0, 1 y 2 figuran literalmente (a, b, c); la opción 3 (pago de tasa) no figura en el listado, correcta como excepción."
+    },
+    {
+      "q": "Si el recurrente califica erróneamente el recurso interpuesto, ¿qué establece el art. 115.2 LPAC?",
+      "options": [
+        "El error o ausencia de calificación no será obstáculo para su tramitación, siempre que se deduzca su verdadero carácter",
+        "El recurso se inadmite automáticamente",
+        "Se archiva el expediente sin más trámite",
+        "Se exige subsanación en el plazo de un mes bajo pena de caducidad"
+      ],
+      "correct": 0,
+      "exp": "El art. 115.2 LPAC establece que el error o ausencia de calificación del recurso no impide su tramitación si se deduce su verdadero carácter.",
+      "fuente": "Art. 115.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 115.2: coincide 'El error o la ausencia de la calificación del recurso... no será obstáculo para su tramitación, siempre que se deduzca su verdadero carácter'; opción 0 correcta."
+    },
+    {
+      "q": "Según el art. 115.3 LPAC, ¿quiénes no podrán alegar los vicios y defectos que hagan anulable un acto?",
+      "options": [
+        "Cualquier interesado en el procedimiento",
+        "Quienes los hubieren causado",
+        "Los terceros ajenos al procedimiento",
+        "La propia Administración autora del acto"
+      ],
+      "correct": 1,
+      "exp": "El art. 115.3 LPAC dispone que los vicios y defectos que hagan anulable un acto no podrán ser alegados por quienes los hubieren causado.",
+      "fuente": "Art. 115.3 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 115.3: coincide 'no podrán ser alegados por quienes los hubieren causado'; opción 1 correcta."
+    },
+    {
+      "q": "¿Qué debe expresar la interposición del recurso según el art. 115.1.d) LPAC?",
+      "options": [
+        "La cuantía económica reclamada, aunque el recurso no sea de contenido económico",
+        "El domicilio fiscal completo del recurrente",
+        "El órgano, centro o unidad administrativa al que se dirige y su correspondiente código de identificación",
+        "Una copia del DNI del recurrente compulsada"
+      ],
+      "correct": 2,
+      "exp": "El art. 115.1.d) LPAC exige indicar el órgano, centro o unidad administrativa al que se dirige el recurso y su código de identificación.",
+      "fuente": "Art. 115.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 115.1.d): coincide 'Órgano, centro o unidad administrativa al que se dirige y su correspondiente código de identificación'; opción 2 correcta."
+    },
+    {
+      "q": "Según el art. 116 LPAC, ¿cuál de las siguientes es causa de inadmisión de un recurso administrativo?",
+      "options": [
+        "Que el recurso se presente en fin de semana",
+        "Haber transcurrido el plazo para la interposición del recurso",
+        "Que el recurrente no adjunte copia del acto impugnado",
+        "Que el recurso se redacte en un idioma cooficial distinto del castellano"
+      ],
+      "correct": 1,
+      "exp": "El art. 116.d) LPAC incluye entre las causas de inadmisión haber transcurrido el plazo para la interposición del recurso.",
+      "fuente": "Art. 116 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 116.d): coincide 'Haber transcurrido el plazo para la interposición del recurso'; opción 1 correcta."
+    },
+    {
+      "q": "¿Qué establece el art. 116.a) LPAC cuando el órgano administrativo ante el que se recurre es incompetente porque el competente pertenece a otra Administración Pública?",
+      "options": [
+        "Se declara la caducidad del procedimiento",
+        "El recurso deberá remitirse al órgano competente, de acuerdo con el art. 14.1 de la Ley de Régimen Jurídico del Sector Público",
+        "Se devuelve el recurso al recurrente para que lo presente de nuevo",
+        "Se archiva sin posibilidad de subsanación"
+      ],
+      "correct": 1,
+      "exp": "El art. 116.a) LPAC ordena remitir el recurso al órgano competente conforme al art. 14.1 de la Ley del Sector Público, en lugar de inadmitirlo sin más.",
+      "fuente": "Art. 116 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 116.a): coincide 'El recurso deberá remitirse al órgano competente, de acuerdo con... el artículo 14.1 de la Ley de Régimen Jurídico del Sector Público'; opción 1 correcta."
+    },
+    {
+      "q": "Además de carecer de legitimación el recurrente, ¿cuál de estas es también causa de inadmisión conforme al art. 116 LPAC?",
+      "options": [
+        "Haber presentado el recurso por medios electrónicos",
+        "Tratarse de un acto no susceptible de recurso",
+        "Haber solicitado la suspensión del acto impugnado",
+        "Haber comparecido sin representante legal"
+      ],
+      "correct": 1,
+      "exp": "El art. 116.c) LPAC recoge como causa de inadmisión tratarse de un acto no susceptible de recurso.",
+      "fuente": "Art. 116 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 116.c): coincide 'Tratarse de un acto no susceptible de recurso' (además de 116.b, legitimación); opción 1 correcta."
+    },
+    {
+      "q": "'Carecer el recurso manifiestamente de fundamento' es, según el art. 116.e) LPAC, causa de...",
+      "options": [
+        "suspensión automática del acto",
+        "nulidad de pleno derecho del acto impugnado",
+        "inadmisión del recurso",
+        "responsabilidad patrimonial de la Administración"
+      ],
+      "correct": 2,
+      "exp": "El art. 116.e) LPAC configura la falta manifiesta de fundamento como causa de inadmisión del recurso.",
+      "fuente": "Art. 116 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 116.e): coincide 'Carecer el recurso manifiestamente de fundamento' como causa de inadmisión; opción 2 correcta."
+    },
+    {
+      "q": "Como regla general, según el art. 117.1 LPAC, la interposición de un recurso administrativo...",
+      "options": [
+        "suspende automáticamente la ejecución del acto impugnado en todo caso",
+        "exige el pago previo de una fianza para poder tramitarse",
+        "paraliza cualquier otro procedimiento conexo",
+        "no suspenderá la ejecución del acto impugnado, excepto en los casos en que una disposición establezca lo contrario"
+      ],
+      "correct": 3,
+      "exp": "El art. 117.1 LPAC establece como regla general que el recurso no suspende la ejecución del acto, salvo que una disposición diga lo contrario.",
+      "fuente": "Art. 117.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 117.1: coincide 'no suspenderá la ejecución del acto impugnado' salvo disposición en contrario; opción 3 correcta."
+    },
+    {
+      "q": "¿Qué debe ponderar el órgano competente para resolver el recurso antes de acordar la suspensión, según el art. 117.2 LPAC?",
+      "options": [
+        "El perjuicio que causaría al interés público o a terceros la suspensión, frente al ocasionado al recurrente por la eficacia inmediata del acto",
+        "Únicamente el coste económico que suponga para la Administración",
+        "La opinión del Consejo de Estado, con carácter vinculante",
+        "La antigüedad del funcionario que dictó el acto"
+      ],
+      "correct": 0,
+      "exp": "El art. 117.2 LPAC exige una ponderación razonada entre el perjuicio al interés público o a terceros por la suspensión y el ocasionado al recurrente por la eficacia inmediata del acto.",
+      "fuente": "Art. 117.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 117.2 párr.1: coincide 'previa ponderación... entre el perjuicio... y el ocasionado al recurrente... por la eficacia inmediata del acto'; opción 0 correcta."
+    },
+    {
+      "q": "Según el art. 117.2.b) LPAC, la suspensión puede acordarse cuando la impugnación se fundamente en alguna de las causas de nulidad de pleno derecho previstas en...",
+      "options": [
+        "el artículo 48.2 de la LPAC",
+        "el artículo 47.1 de la LPAC",
+        "el artículo 21 de la LPAC",
+        "el artículo 109 de la LPAC"
+      ],
+      "correct": 1,
+      "exp": "El art. 117.2.b) LPAC remite expresamente a las causas de nulidad de pleno derecho del art. 47.1 de la Ley.",
+      "fuente": "Art. 117.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 117.2.b): coincide 'las causas de nulidad de pleno derecho previstas en el artículo 47.1 de esta Ley'; opción 1 correcta."
+    },
+    {
+      "q": "Si transcurre un mes desde que la solicitud de suspensión tuvo entrada en el registro electrónico sin que el órgano competente haya dictado y notificado resolución expresa, el art. 117.3 LPAC establece que...",
+      "options": [
+        "se entenderá desestimada la solicitud de suspensión",
+        "el recurso se declara caducado",
+        "la ejecución del acto impugnado se entenderá suspendida",
+        "se abre automáticamente la vía contencioso-administrativa"
+      ],
+      "correct": 2,
+      "exp": "El art. 117.3 LPAC establece el silencio positivo: transcurrido un mes sin resolución expresa, la ejecución del acto se entiende suspendida.",
+      "fuente": "Art. 117.3 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 117.3: coincide 'se entenderá suspendida si transcurrido un mes... no ha dictado y notificado resolución expresa'; opción 2 correcta."
+    },
+    {
+      "q": "Cuando de la suspensión puedan derivarse perjuicios de cualquier naturaleza, el art. 117.4 LPAC exige que...",
+      "options": [
+        "se archive el recurso sin más",
+        "se notifique al Defensor del Pueblo",
+        "se publique en el BOE antes de surtir efectos",
+        "la suspensión produzca efectos solo tras prestación de caución o garantía suficiente para responder de ellos"
+      ],
+      "correct": 3,
+      "exp": "El art. 117.4 LPAC condiciona los efectos de la suspensión, cuando puedan derivarse perjuicios, a la previa prestación de caución o garantía suficiente.",
+      "fuente": "Art. 117.4 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 117.4 párr.2: coincide 'sólo producirá efectos previa prestación de caución o garantía suficiente para responder de ellos'; opción 3 correcta."
+    },
+    {
+      "q": "Cuando el recurso impugna un acto que afecta a una pluralidad indeterminada de personas, el art. 117.5 LPAC exige que la suspensión de su eficacia...",
+      "options": [
+        "sea publicada en el periódico oficial en que aquél se insertó",
+        "se comunique solo al recurrente",
+        "se someta a votación en junta de vecinos",
+        "quede en suspenso hasta la siguiente legislatura"
+      ],
+      "correct": 0,
+      "exp": "El art. 117.5 LPAC exige publicar la suspensión en el periódico oficial en que se insertó el acto, dada la pluralidad indeterminada de afectados.",
+      "fuente": "Art. 117.5 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 117.5: coincide 'la suspensión de su eficacia habrá de ser publicada en el periódico oficial en que aquél se insertó'; opción 0 correcta."
+    },
+    {
+      "q": "Cuando hayan de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario, el art. 118.1 LPAC concede a los interesados un plazo para alegar...",
+      "options": [
+        "no inferior a cinco días ni superior a diez",
+        "no inferior a diez días ni superior a quince",
+        "no inferior a quince días ni superior a un mes",
+        "de exactamente veinte días naturales"
+      ],
+      "correct": 1,
+      "exp": "El art. 118.1 LPAC fija un plazo no inferior a diez días ni superior a quince para que los interesados aleguen sobre los nuevos hechos o documentos.",
+      "fuente": "Art. 118.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 118.1 párr.1: coincide 'en un plazo no inferior a diez días ni superior a quince'; opción 1 correcta."
+    },
+    {
+      "q": "Según el art. 118.1 LPAC, ¿qué ocurre con los hechos, documentos o alegaciones que el recurrente pudo aportar en el trámite de alegaciones y no lo hizo?",
+      "options": [
+        "Se tendrán en cuenta igualmente en la resolución del recurso",
+        "Obligan a retroceder el procedimiento al momento inicial",
+        "No se tendrán en cuenta en la resolución de los recursos",
+        "Dan lugar automáticamente a responsabilidad disciplinaria"
+      ],
+      "correct": 2,
+      "exp": "El art. 118.1 LPAC excluye de la resolución del recurso los hechos, documentos o alegaciones que, pudiendo aportarse en el trámite, no se aportaron.",
+      "fuente": "Art. 118.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 118.1 párr.2: coincide 'No se tendrán en cuenta en la resolución de los recursos, hechos, documentos o alegaciones... cuando... no lo haya hecho'; opción 2 correcta."
+    },
+    {
+      "q": "Si en el procedimiento de recurso hubiera otros interesados distintos del recurrente, ¿qué establece el art. 118.2 LPAC?",
+      "options": [
+        "Que se resuelve sin darles participación, por razones de celeridad",
+        "Que solo pueden alegar si son parte demandante en vía judicial",
+        "Que su intervención se limita a un informe no vinculante del instructor",
+        "Que se les dará, en todo caso, traslado del recurso para que en el plazo antes citado aleguen cuanto estimen procedente"
+      ],
+      "correct": 3,
+      "exp": "El art. 118.2 LPAC obliga a dar traslado del recurso a los demás interesados, en todo caso, para que aleguen en el mismo plazo.",
+      "fuente": "Art. 118.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 118.2: coincide 'se les dará, en todo caso, traslado del recurso para que... aleguen cuanto estimen procedente'; opción 3 correcta."
+    },
+    {
+      "q": "Según el art. 118.3 LPAC, ¿tienen el recurso, los informes y las propuestas el carácter de documentos nuevos a efectos del trámite de audiencia?",
+      "options": [
+        "No tienen ese carácter, ni tampoco los que los interesados hayan aportado al expediente antes de recaer la resolución impugnada",
+        "Sí, siempre son documentos nuevos",
+        "Solo el recurso tiene ese carácter, no los informes",
+        "Solo las propuestas tienen ese carácter"
+      ],
+      "correct": 0,
+      "exp": "El art. 118.3 LPAC excluye del concepto de documentos nuevos al propio recurso, los informes y las propuestas, así como lo aportado antes de la resolución impugnada.",
+      "fuente": "Art. 118.3 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 118.3: coincide 'El recurso, los informes y las propuestas no tienen el carácter de documentos nuevos... Tampoco lo tendrán los que los interesados hayan aportado al expediente antes de recaer la resolución impugnada'; opción 0 correcta."
+    },
+    {
+      "q": "¿Qué tres pronunciamientos puede contener la resolución de un recurso según el art. 119.1 LPAC?",
+      "options": [
+        "Archivo, caducidad o suspensión",
+        "Estimación total o parcial, desestimación, o declaración de inadmisión",
+        "Nulidad, anulabilidad o revocación",
+        "Solo estimación o desestimación, sin posibilidad de inadmisión"
+      ],
+      "correct": 1,
+      "exp": "El art. 119.1 LPAC prevé que la resolución estime en todo o en parte, desestime, o declare la inadmisión del recurso.",
+      "fuente": "Art. 119.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 119.1: coincide 'estimará en todo o en parte o desestimará... o declarará su inadmisión'; opción 1 correcta."
+    },
+    {
+      "q": "Cuando exista un vicio de forma y no se estime procedente resolver sobre el fondo, ¿qué ordena el art. 119.2 LPAC?",
+      "options": [
+        "La anulación total del procedimiento y su archivo definitivo",
+        "La suspensión indefinida de la resolución",
+        "La retroacción del procedimiento al momento en que se cometió el vicio, sin perjuicio de la convalidación de actuaciones conforme al art. 52 LPAC",
+        "El traslado inmediato al orden jurisdiccional contencioso-administrativo"
+      ],
+      "correct": 2,
+      "exp": "El art. 119.2 LPAC ordena la retroacción al momento del vicio, salvo que se acuerde la convalidación de actuaciones conforme al art. 52 LPAC.",
+      "fuente": "Art. 119.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 119.2: coincide 'se ordenará la retroacción del procedimiento al momento en el que el vicio fue cometido, sin perjuicio de... la convalidación de actuaciones... de acuerdo con... el artículo 52'; opción 2 correcta."
+    },
+    {
+      "q": "Conforme al art. 119.3 LPAC, el principio de congruencia en la resolución del recurso implica que...",
+      "options": [
+        "la resolución debe limitarse estrictamente a lo alegado por el recurrente, sin poder decidir de oficio ninguna cuestión",
+        "el órgano puede empeorar la situación del recurrente si aprecia motivos de interés público",
+        "la resolución debe coincidir siempre con el criterio del órgano instructor",
+        "la resolución será congruente con las peticiones formuladas por el recurrente, sin que en ningún caso pueda agravarse su situación inicial"
+      ],
+      "correct": 3,
+      "exp": "El art. 119.3 LPAC exige congruencia con las peticiones del recurrente y prohíbe que la resolución agrave, en ningún caso, su situación inicial (prohibición de la reformatio in peius).",
+      "fuente": "Art. 119.3 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 119.3 párr. final: coincide 'la resolución será congruente con las peticiones formuladas por el recurrente, sin que en ningún caso pueda agravarse su situación inicial'; opción 3 correcta."
+    },
+    {
+      "q": "Según el art. 119.3 LPAC, si el órgano que resuelve el recurso decide una cuestión de fondo o de forma no alegada por los interesados, ¿qué debe hacer previamente?",
+      "options": [
+        "Oír previamente a los interesados sobre esa cuestión",
+        "Nada, puede resolver directamente sin trámite adicional",
+        "Solicitar dictamen vinculante del Consejo de Estado en todo caso",
+        "Suspender el procedimiento durante seis meses"
+      ],
+      "correct": 0,
+      "exp": "El art. 119.3 LPAC permite al órgano decidir cuestiones no alegadas, pero exige oír previamente a los interesados en ese caso.",
+      "fuente": "Art. 119.3 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 119.3 párr. inicial: coincide 'hayan sido o no alegadas por los interesados. En este último caso se les oirá previamente'; opción 0 correcta."
+    },
+    {
+      "q": "Cuando deba resolverse una pluralidad de recursos administrativos que traigan causa de un mismo acto y se hubiera interpuesto recurso judicial contra una resolución administrativa o contra el correspondiente acto presunto desestimatorio, el art. 120.1 LPAC permite al órgano administrativo...",
+      "options": [
+        "resolver inmediatamente todos los recursos pendientes, sin más trámite",
+        "acordar la suspensión del plazo para resolver hasta que recaiga pronunciamiento judicial",
+        "archivar de oficio todos los recursos restantes",
+        "remitir todos los expedientes al órgano judicial para que resuelva"
+      ],
+      "correct": 1,
+      "exp": "El art. 120.1 LPAC permite suspender el plazo para resolver la pluralidad de recursos hasta que recaiga el pronunciamiento judicial.",
+      "fuente": "Art. 120.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 120.1: coincide 'el órgano administrativo podrá acordar la suspensión del plazo para resolver hasta que recaiga pronunciamiento judicial'; opción 1 correcta."
+    },
+    {
+      "q": "El acuerdo de suspensión del plazo para resolver, adoptado conforme al art. 120.1 LPAC, según el art. 120.2 LPAC debe...",
+      "options": [
+        "mantenerse en secreto hasta que recaiga sentencia firme",
+        "publicarse únicamente en el tablón de anuncios del ayuntamiento",
+        "ser notificado a los interesados, quienes podrán recurrirlo",
+        "comunicarse solo al recurrente que interpuso el recurso judicial"
+      ],
+      "correct": 2,
+      "exp": "El art. 120.2 LPAC exige notificar el acuerdo de suspensión a los interesados, que podrán recurrirlo.",
+      "fuente": "Art. 120.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 120.2 párr.1: coincide 'El acuerdo de suspensión deberá ser notificado a los interesados, quienes podrán recurrirlo'; opción 2 correcta."
+    },
+    {
+      "q": "Una vez recaído el pronunciamiento judicial en el supuesto del art. 120 LPAC, ¿qué establece el apartado 3 de dicho artículo sobre la resolución de los recursos administrativos suspendidos?",
+      "options": [
+        "Que deben archivarse sin resolución expresa",
+        "Que se requiere necesariamente un nuevo periodo de alegaciones de treinta días",
+        "Que la resolución queda automáticamente anulada por el transcurso del tiempo",
+        "Que el órgano administrativo competente podrá dictar resolución sin necesidad de trámite adicional, salvo el de audiencia cuando proceda, tras comunicar el pronunciamiento a los interesados"
+      ],
+      "correct": 3,
+      "exp": "El art. 120.3 LPAC permite resolver sin trámites adicionales, salvo audiencia cuando proceda, una vez comunicado a los interesados el pronunciamiento judicial.",
+      "fuente": "Art. 120.3 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 120.3: coincide 'será comunicado a los interesados y el órgano administrativo competente para resolver podrá dictar resolución sin necesidad de realizar ningún trámite adicional, salvo el de audiencia, cuando proceda'; opción 3 correcta."
+    }
+  ]
+}
