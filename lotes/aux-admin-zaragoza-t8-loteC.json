@@ -1,0 +1,326 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 8,
+  "preguntas": [
+    {
+      "q": "Según el art. 121.1 LPAC, el recurso de alzada puede interponerse contra las resoluciones y actos a que se refiere el art. 112.1 cuando:",
+      "options": ["No pongan fin a la vía administrativa", "Pongan fin a la vía administrativa", "Hayan adquirido firmeza en vía administrativa", "Hayan sido recurridos previamente en reposición"],
+      "correct": 0,
+      "exp": "Art. 121.1: 'Las resoluciones y actos a que se refiere el artículo 112.1, cuando no pongan fin a la vía administrativa, podrán ser recurridos en alzada ante el órgano superior jerárquico del que los dictó.'",
+      "fuente": "Art. 121.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 121.1 LPAC, a los efectos del recurso de alzada, los Tribunales y órganos de selección del personal al servicio de las Administraciones Públicas que actúen con autonomía funcional se considerarán dependientes de:",
+      "options": ["El órgano al que estén adscritos o, en su defecto, del que haya nombrado al presidente de los mismos", "El Tribunal Supremo en todo caso", "El Ministerio competente en materia de Función Pública", "El órgano de igual rango que hubiera dictado el acto más reciente"],
+      "correct": 0,
+      "exp": "Art. 121.1, segundo párrafo: 'los Tribunales y órganos de selección del personal al servicio de las Administraciones Públicas y cualesquiera otros que, en el seno de éstas, actúen con autonomía funcional, se considerarán dependientes del órgano al que estén adscritos o, en su defecto, del que haya nombrado al presidente de los mismos.'",
+      "fuente": "Art. 121.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 121.2 LPAC, ¿quién es responsable directo del cumplimiento de la obligación de remitir el recurso de alzada y el expediente al órgano competente para resolver, cuando el recurso se interpuso ante el órgano que dictó el acto?",
+      "options": ["El titular del órgano que dictó el acto recurrido", "El propio recurrente", "El órgano competente para resolver el recurso", "El Secretario del Ayuntamiento en todo caso"],
+      "correct": 0,
+      "exp": "Art. 121.2, último párrafo: 'El titular del órgano que dictó el acto recurrido será responsable directo del cumplimiento de lo previsto en el párrafo anterior.'",
+      "fuente": "Art. 121.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Cuando el recurso de alzada se interpone ante el órgano que dictó el acto y este debe remitirlo al órgano competente, según el art. 121.2 LPAC, la remisión debe ir acompañada de:",
+      "options": ["Su informe y una copia completa y ordenada del expediente", "Solo una copia simple del expediente, sin informe", "Un informe preceptivo del Consejo de Estado", "La conformidad expresa por escrito del recurrente"],
+      "correct": 0,
+      "exp": "Art. 121.2: 'éste deberá remitirlo al competente en el plazo de diez días, con su informe y con una copia completa y ordenada del expediente.'",
+      "fuente": "Art. 121.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 122.1 LPAC, si el acto es expreso y transcurre el plazo de un mes para interponer el recurso de alzada sin haberlo hecho, ¿qué consecuencia se produce?",
+      "options": ["La resolución será firme a todos los efectos", "El interesado podrá interponerlo igualmente dentro de los tres meses siguientes", "El acto quedará automáticamente anulado", "Se abrirá un nuevo trámite de audiencia de diez días"],
+      "correct": 0,
+      "exp": "Art. 122.1: 'El plazo para la interposición del recurso de alzada será de un mes, si el acto fuera expreso. Transcurrido dicho plazo sin haberse interpuesto el recurso, la resolución será firme a todos los efectos.'",
+      "fuente": "Art. 122.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 122.1 LPAC, si el acto no fuera expreso, ¿desde qué momento y hasta cuándo pueden el solicitante y otros posibles interesados interponer el recurso de alzada?",
+      "options": ["Desde el día siguiente a aquel en que se produzcan los efectos del silencio administrativo, y en cualquier momento posterior", "Únicamente dentro del mes siguiente a la fecha límite de resolución de la solicitud", "Nunca, pues el silencio administrativo impide recurrir en alzada", "Solo tras solicitar previamente una certificación de acto presunto"],
+      "correct": 0,
+      "exp": "Art. 122.1: 'Si el acto no fuera expreso el solicitante y otros posibles interesados podrán interponer recurso de alzada en cualquier momento a partir del día siguiente a aquel en que, de acuerdo con su normativa específica, se produzcan los efectos del silencio administrativo.'",
+      "fuente": "Art. 122.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuál es el plazo máximo para dictar y notificar la resolución del recurso de alzada, según el art. 122.2 LPAC?",
+      "options": ["Tres meses", "Un mes", "Seis meses", "Dos meses"],
+      "correct": 0,
+      "exp": "Art. 122.2: 'El plazo máximo para dictar y notificar la resolución será de tres meses.'",
+      "fuente": "Art. 122.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 122.2 LPAC, transcurrido el plazo máximo de tres meses sin que recaiga resolución expresa en el recurso de alzada, con carácter general:",
+      "options": ["Se podrá entender desestimado el recurso", "Se entenderá siempre estimado el recurso", "El recurso caduca y debe volver a interponerse", "El plazo se prorroga automáticamente por otros tres meses"],
+      "correct": 0,
+      "exp": "Art. 122.2: 'Transcurrido este plazo sin que recaiga resolución, se podrá entender desestimado el recurso, salvo en el supuesto previsto en el artículo 24.1, tercer párrafo.'",
+      "fuente": "Art. 122.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 122.2 LPAC prevé una excepción a la regla general del silencio desestimatorio en el recurso de alzada, remitiéndose al art. 24.1, tercer párrafo. Esa excepción se produce cuando:",
+      "options": ["El recurso de alzada se hubiera interpuesto contra la desestimación por silencio administrativo de una solicitud, en cuyo caso el silencio en la alzada se entenderá estimado", "El recurrente sea una persona jurídica de derecho público", "El acto impugnado provenga de una Entidad Local", "Hayan transcurrido más de seis meses desde la interposición del recurso"],
+      "correct": 0,
+      "exp": "Art. 24.1, tercer párrafo (al que remite el art. 122.2): 'cuando el recurso de alzada se haya interpuesto contra la desestimación por silencio administrativo de una solicitud por el transcurso del plazo, se entenderá estimado el mismo si, llegado el plazo de resolución, el órgano administrativo competente no dictase y notificase resolución expresa.'",
+      "fuente": "Art. 122.2 LPAC (en relación con el art. 24.1)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Aun cuando el recurso de alzada se hubiera interpuesto contra la desestimación por silencio de una solicitud, el silencio en la resolución de esa alzada seguirá siendo desestimatorio si la solicitud original se refería, entre otras materias, a:",
+      "options": ["El ejercicio del derecho de petición del art. 29 de la Constitución", "Personal funcionario de carrera", "Contratos administrativos de obras", "Bienes de dominio privado de las Entidades Locales"],
+      "correct": 0,
+      "exp": "Art. 24.1, párrafo segundo (excepción a la que remite el 122.2): el silencio tiene efecto desestimatorio en los procedimientos relativos al derecho de petición del art. 29 CE, transferencia de facultades sobre dominio o servicio público, actividades que puedan dañar el medio ambiente, y responsabilidad patrimonial; en esas materias no opera la excepción de silencio estimatorio en alzada.",
+      "fuente": "Art. 122.2 LPAC (en relación con el art. 24.1)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Tras la resolución de un recurso de alzada, según el art. 122.3 LPAC, ¿cabe interponer un nuevo recurso de reposición contra dicha resolución?",
+      "options": ["No; contra la resolución de un recurso de alzada no cabrá ningún otro recurso administrativo, salvo el extraordinario de revisión en los casos del art. 125.1", "Sí, siempre que se interponga dentro del mes siguiente", "Sí, pero solo si lo autoriza el órgano superior jerárquico", "Sí, ya que sustituye automáticamente a la vía contencioso-administrativa"],
+      "correct": 0,
+      "exp": "Art. 122.3: 'Contra la resolución de un recurso de alzada no cabrá ningún otro recurso administrativo, salvo el recurso extraordinario de revisión, en los casos establecidos en el artículo 125.1.'",
+      "fuente": "Art. 122.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Una vez resuelto expresamente (o producida la desestimación presunta de) un recurso de alzada, y no siendo aplicable el recurso extraordinario de revisión, ¿qué vía queda abierta al interesado, conforme al art. 122.3 LPAC?",
+      "options": ["El recurso contencioso-administrativo, al no caber ya recurso administrativo ordinario", "Un nuevo recurso de alzada ante el mismo órgano", "El recurso potestativo de reposición", "La revisión de oficio a instancia del propio recurrente"],
+      "correct": 0,
+      "exp": "Al no caber, según el art. 122.3, ningún otro recurso administrativo ordinario contra la resolución de la alzada, la vía que queda abierta es la jurisdiccional contencioso-administrativa.",
+      "fuente": "Art. 122.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 123.1 LPAC permite optar, en lugar del recurso de reposición, por impugnar el acto directamente ante el orden jurisdiccional contencioso-administrativo. El art. 121.1 LPAC, al regular el recurso de alzada, ¿contempla esa misma alternativa directa a la vía contenciosa?",
+      "options": ["No; el art. 121.1 no prevé esa alternativa directa, limitándose a regular la interposición del recurso de alzada", "Sí, en los mismos términos que el art. 123.1", "Sí, pero solo si el recurrente renuncia expresamente por escrito", "Sí, exclusivamente cuando el acto proceda de un organismo autónomo"],
+      "correct": 0,
+      "exp": "El art. 121.1 solo regula la interposición del recurso de alzada ante el órgano superior jerárquico, sin ofrecer la alternativa de impugnación directa ante lo contencioso-administrativo que sí prevé expresamente el art. 123.1 para la reposición.",
+      "fuente": "Art. 121.1 LPAC (en contraste con el art. 123.1)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 123.1 LPAC, el recurso potestativo de reposición puede interponerse contra:",
+      "options": ["Los actos administrativos que pongan fin a la vía administrativa", "Los actos de trámite que no decidan el fondo del asunto", "Únicamente las disposiciones administrativas de carácter general", "Los actos aún no notificados al interesado"],
+      "correct": 0,
+      "exp": "Art. 123.1: 'Los actos administrativos que pongan fin a la vía administrativa podrán ser recurridos potestativamente en reposición ante el mismo órgano que los hubiera dictado o ser impugnados directamente ante el orden jurisdiccional contencioso-administrativo.'",
+      "fuente": "Art. 123.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "A diferencia del recurso de alzada, que se dirige al órgano superior jerárquico, el recurso potestativo de reposición se interpone, según el art. 123.1 LPAC, ante:",
+      "options": ["El mismo órgano que hubiera dictado el acto que se impugna", "Un órgano colegiado consultivo distinto", "El órgano competente en materia de personal", "La Abogacía del Estado o el servicio jurídico equivalente"],
+      "correct": 0,
+      "exp": "Art. 123.1: la reposición se interpone 'ante el mismo órgano que los hubiera dictado', a diferencia de la alzada, que se dirige al superior jerárquico.",
+      "fuente": "Art. 123.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 123.1 LPAC, frente a un acto que pone fin a la vía administrativa, el interesado puede optar entre:",
+      "options": ["Recurrir potestativamente en reposición ante el mismo órgano que dictó el acto, o impugnarlo directamente ante el orden contencioso-administrativo", "Recurrir en alzada o en reposición, indistintamente", "Recurrir en reposición o solicitar la revisión de oficio, indistintamente", "Acudir directamente al Tribunal Constitucional"],
+      "correct": 0,
+      "exp": "Art. 123.1: los actos que ponen fin a la vía administrativa 'podrán ser recurridos potestativamente en reposición ante el mismo órgano que los hubiera dictado o ser impugnados directamente ante el orden jurisdiccional contencioso-administrativo.'",
+      "fuente": "Art. 123.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Un interesado interpone recurso potestativo de reposición contra un acto. Sin esperar a su resolución, pretende interponer también recurso contencioso-administrativo. Según el art. 123.2 LPAC, ¿es esto posible?",
+      "options": ["No, no podrá interponer el recurso contencioso-administrativo hasta que el de reposición sea resuelto expresamente o se haya producido su desestimación presunta", "Sí, puede interponer ambos recursos simultáneamente sin restricción alguna", "Sí, siempre que lo comunique previamente al órgano que dictó el acto", "No, en ningún caso podrá acudir después a la vía contenciosa si ya interpuso reposición"],
+      "correct": 0,
+      "exp": "Art. 123.2: 'No se podrá interponer recurso contencioso-administrativo hasta que sea resuelto expresamente o se haya producido la desestimación presunta del recurso de reposición interpuesto.'",
+      "fuente": "Art. 123.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Una vez resuelto expresamente el recurso de reposición, o producida su desestimación presunta, según el art. 123.2 LPAC, el interesado podrá:",
+      "options": ["Interponer el recurso contencioso-administrativo", "Volver a interponer el mismo recurso de reposición", "Interponer un recurso de alzada ante el superior jerárquico", "Solicitar la revocación de oficio del acto"],
+      "correct": 0,
+      "exp": "El art. 123.2 condiciona el acceso al contencioso-administrativo, tras optar por la reposición, a que esta sea 'resuelto expresamente' o se produzca 'la desestimación presunta'; cumplido cualquiera de esos dos supuestos, queda abierta la vía contenciosa.",
+      "fuente": "Art. 123.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El plazo de un mes para interponer el recurso de reposición cuando el acto es expreso, previsto en el art. 124.1 LPAC, coincide con el plazo previsto, para el mismo supuesto, en:",
+      "options": ["El art. 122.1 LPAC para el recurso de alzada", "El art. 125.2 LPAC para todos los supuestos del recurso extraordinario de revisión", "El art. 118 LPAC para el trámite de audiencia en vía de recurso", "El art. 116 LPAC para las causas de inadmisión"],
+      "correct": 0,
+      "exp": "Tanto el art. 122.1 (alzada) como el art. 124.1 (reposición) fijan en un mes el plazo de interposición cuando el acto es expreso.",
+      "fuente": "Art. 124.1 LPAC (en relación con el art. 122.1)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 124.1 LPAC, si el acto no fuera expreso, el recurso de reposición podrá interponerse en cualquier momento a partir del día siguiente a aquel en que, de acuerdo con su normativa específica, se produzca:",
+      "options": ["El acto presunto", "La notificación formal del silencio administrativo", "La certificación de acto presunto solicitada por el interesado", "La resolución expresa tardía"],
+      "correct": 0,
+      "exp": "Art. 124.1: 'Si el acto no fuera expreso, el solicitante y otros posibles interesados podrán interponer recurso de reposición en cualquier momento a partir del día siguiente a aquel en que, de acuerdo con su normativa específica, se produzca el acto presunto.'",
+      "fuente": "Art. 124.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Transcurrido el plazo de un mes sin haber interpuesto el recurso de reposición contra un acto expreso que puso fin a la vía administrativa, ¿puede el interesado optar entonces por interponer un recurso de alzada?",
+      "options": ["No; según el art. 124.1 LPAC, únicamente podrá interponerse el recurso contencioso-administrativo, sin perjuicio, en su caso, del recurso extraordinario de revisión", "Sí, dispone de un mes adicional para interponer la alzada", "Sí, sin ningún tipo de límite temporal", "No, no le queda ninguna vía de impugnación posible"],
+      "correct": 0,
+      "exp": "Art. 124.1: 'Transcurrido dicho plazo, únicamente podrá interponerse recurso contencioso-administrativo, sin perjuicio, en su caso, de la procedencia del recurso extraordinario de revisión.' No se contempla la alzada como alternativa.",
+      "fuente": "Art. 124.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuál es el plazo máximo para dictar y notificar la resolución del recurso de reposición, según el art. 124.2 LPAC?",
+      "options": ["Un mes", "Tres meses", "Quince días", "Dos meses"],
+      "correct": 0,
+      "exp": "Art. 124.2: 'El plazo máximo para dictar y notificar la resolución del recurso será de un mes.'",
+      "fuente": "Art. 124.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Comparando los plazos máximos de resolución, el recurso de reposición debe resolverse en un mes (art. 124.2 LPAC), mientras que el recurso de alzada dispone de:",
+      "options": ["Tres meses (art. 122.2 LPAC)", "Un mes, igual que la reposición", "Seis meses (art. 122.2 LPAC)", "Quince días (art. 122.2 LPAC)"],
+      "correct": 0,
+      "exp": "El art. 122.2 fija en tres meses el plazo máximo de resolución de la alzada, frente al mes del art. 124.2 para la reposición.",
+      "fuente": "Art. 124.2 LPAC (en relación con el art. 122.2)",
+      "confianza": "alta"
+    },
+    {
+      "q": "A diferencia del art. 122.2 LPAC (recurso de alzada), que remite expresamente a la excepción de silencio estimatorio del art. 24.1, tercer párrafo, el art. 124.2 LPAC, al regular el plazo de resolución del recurso de reposición:",
+      "options": ["No contiene ninguna remisión equivalente a esa excepción, por lo que rige el régimen general de silencio desestimatorio del art. 24.1", "Prevé la misma excepción de silencio estimatorio, en idénticos términos", "Establece que el silencio en la reposición siempre será estimatorio", "Excluye por completo la aplicación del silencio administrativo al recurso de reposición"],
+      "correct": 0,
+      "exp": "El art. 124 LPAC, al regular objeto, naturaleza y plazos de la reposición, no incluye ninguna remisión a la excepción del art. 24.1, tercer párrafo que sí recoge expresamente el art. 122.2 para la alzada.",
+      "fuente": "Art. 124.2 LPAC (en relación con el art. 122.2 y el art. 24.1)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Al no existir en el art. 124 LPAC una regla especial sobre el sentido del silencio en el recurso de reposición, se aplica la regla general del art. 24.1 LPAC para los procedimientos de impugnación de actos, según la cual, transcurrido el plazo de resolución sin resolución expresa, el sentido del silencio es:",
+      "options": ["Desestimatorio", "Estimatorio", "Queda a elección del interesado", "Determina la nulidad de pleno derecho del acto"],
+      "correct": 0,
+      "exp": "Art. 24.1, tercer párrafo: 'El sentido del silencio también será desestimatorio en los procedimientos de impugnación de actos y disposiciones', regla que se aplica al recurso de reposición al no existir excepción equivalente a la de la alzada.",
+      "fuente": "Art. 124.2 LPAC (en relación con el art. 24.1)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Respecto al órgano ante el que se dirige cada recurso, ¿cuál de las siguientes afirmaciones es correcta?",
+      "options": ["El recurso de alzada se dirige, en última instancia, al órgano superior jerárquico del que dictó el acto, mientras que la reposición se interpone ante el mismo órgano que lo dictó", "Ambos recursos se dirigen siempre al mismo órgano que dictó el acto", "Ambos recursos se dirigen siempre al órgano superior jerárquico", "El recurso de reposición se dirige al superior jerárquico y el de alzada al mismo órgano que dictó el acto"],
+      "correct": 0,
+      "exp": "Art. 121.1: la alzada se dirige 'ante el órgano superior jerárquico del que los dictó'. Art. 123.1: la reposición se interpone 'ante el mismo órgano que los hubiera dictado'.",
+      "fuente": "Arts. 121.1 y 123.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuál es el título oficial del art. 121 de la Ley 39/2015, que abre la Sección 2.ª ('Recurso de alzada') del Capítulo II del Título V?",
+      "options": ["Objeto", "Plazos", "Interposición de recurso", "Fin de la vía administrativa"],
+      "correct": 0,
+      "exp": "El art. 121 lleva por rúbrica 'Objeto', regulando el objeto del recurso de alzada, mientras que el art. 122 ('Plazos') regula los plazos.",
+      "fuente": "Art. 121 LPAC (rúbrica)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Comparando la redacción de los arts. 122.1 y 124.1 LPAC para el caso de acto no expreso, ambos preceptos coinciden en permitir la interposición del recurso en cualquier momento a partir del día siguiente a que se produzca cierto hecho, aunque:",
+      "options": ["El art. 122.1 (alzada) habla de 'los efectos del silencio administrativo' y el art. 124.1 (reposición) habla de 'el acto presunto'", "Ambos artículos utilizan literalmente la misma expresión, sin ninguna diferencia terminológica", "El art. 124.1 no permite interponer el recurso en ningún caso si el acto no es expreso", "El art. 122.1 exige, a diferencia del 124.1, solicitar previamente un certificado de acto presunto"],
+      "correct": 0,
+      "exp": "El art. 122.1 se refiere a 'los efectos del silencio administrativo' y el art. 124.1, para el mismo supuesto, emplea la expresión 'el acto presunto'.",
+      "fuente": "Arts. 122.1 y 124.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Señale la afirmación INCORRECTA sobre la interposición del recurso de alzada, según el art. 121.2 LPAC:",
+      "options": ["Solo puede interponerse ante el órgano competente para resolverlo, nunca ante el que dictó el acto", "Puede interponerse ante el órgano que dictó el acto impugnado", "Puede interponerse ante el órgano competente para resolverlo", "Si se interpone ante el órgano que dictó el acto, este debe remitirlo al competente en el plazo de diez días"],
+      "correct": 0,
+      "exp": "Art. 121.2: 'El recurso podrá interponerse ante el órgano que dictó el acto que se impugna o ante el competente para resolverlo.' Por tanto, es falso que solo pueda interponerse ante el competente para resolver.",
+      "fuente": "Art. 121.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Un ciudadano interpone un recurso de alzada ante el órgano que dictó el acto (no ante el competente para resolver). Pasan doce días sin que dicho órgano lo haya remitido al competente. ¿Se ha incumplido el plazo previsto en el art. 121.2 LPAC?",
+      "options": ["Sí, el plazo para remitirlo es de diez días", "No, el plazo es de quince días", "No, el plazo es de un mes", "No existe plazo alguno para la remisión"],
+      "correct": 0,
+      "exp": "Art. 121.2: el órgano que dictó el acto 'deberá remitirlo al competente en el plazo de diez días'; a los doce días ya se habría incumplido.",
+      "fuente": "Art. 121.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Una solicitud es desestimada por silencio administrativo. El interesado interpone recurso de alzada contra esa desestimación presunta. Si transcurren los tres meses del art. 122.2 LPAC sin resolución expresa del recurso de alzada, y la materia no es de las excluidas en el art. 24.1, ¿qué sentido tendrá el silencio en este caso?",
+      "options": ["Estimatorio, en aplicación de la excepción prevista en el art. 24.1, tercer párrafo", "Desestimatorio, como regla general", "El plazo se prorroga automáticamente por otros tres meses", "El procedimiento se declara caducado"],
+      "correct": 0,
+      "exp": "Art. 122.2, en relación con el art. 24.1, tercer párrafo: cuando la alzada se interpone contra la desestimación por silencio de una solicitud, el silencio en la propia alzada se entiende estimado, salvo en las materias excluidas del art. 24.1.",
+      "fuente": "Art. 122.2 LPAC (en relación con el art. 24.1)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Señale cuál de las siguientes NO es una condición para que un acto pueda recurrirse en alzada, según el art. 121.1 y 121.2 LPAC:",
+      "options": ["Que el acto haya puesto fin a la vía administrativa", "Que se trate de una resolución o acto de trámite de los previstos en el art. 112.1", "Que no haya puesto fin a la vía administrativa", "Que se interponga ante el órgano que dictó el acto o ante el competente para resolverlo"],
+      "correct": 0,
+      "exp": "Art. 121.1: la alzada procede precisamente cuando el acto 'no ponga fin a la vía administrativa'; que la ponga fin es, al contrario, condición para la reposición (art. 123.1), no para la alzada.",
+      "fuente": "Art. 121.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuál de las siguientes expresiones aparece literalmente en el art. 124.1 LPAC para referirse al momento a partir del cual puede interponerse el recurso de reposición cuando el acto no es expreso?",
+      "options": ["El acto presunto", "Los efectos del silencio administrativo", "La resolución tácita", "El vencimiento del plazo de resolución"],
+      "correct": 0,
+      "exp": "Art. 124.1: '...podrán interponer recurso de reposición en cualquier momento a partir del día siguiente a aquel en que, de acuerdo con su normativa específica, se produzca el acto presunto.'",
+      "fuente": "Art. 124.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "En cuanto a su relación con la vía contencioso-administrativa, ¿cuál de las siguientes afirmaciones resume correctamente el régimen de los arts. 123.1 y 123.2 LPAC?",
+      "options": ["El interesado puede optar entre reposición y contencioso directamente, pero si elige reposición no podrá acudir al contencioso hasta que aquella se resuelva expresamente o se produzca su desestimación presunta", "El interesado debe agotar siempre el recurso de alzada antes de acudir al contencioso", "La reposición y el contencioso pueden tramitarse siempre de forma simultánea", "El contencioso-administrativo sustituye automáticamente a la reposición ya interpuesta"],
+      "correct": 0,
+      "exp": "Art. 123.1: doble alternativa (reposición o impugnación directa ante lo contencioso). Art. 123.2: una vez elegida la reposición, no cabe el contencioso hasta la resolución expresa o desestimación presunta de aquella.",
+      "fuente": "Arts. 123.1 y 123.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Un Ayuntamiento dicta un acto que no pone fin a la vía administrativa porque existe un órgano superior jerárquico dentro de la misma Administración. Un interesado quiere recurrirlo. Según el art. 121 LPAC, ¿qué recurso procede, con carácter general, y ante qué órgano puede interponerse?",
+      "options": ["El recurso de alzada, que puede interponerse ante el órgano que dictó el acto o directamente ante el superior jerárquico competente para resolverlo", "El recurso de reposición, ante el mismo órgano que dictó el acto", "El recurso extraordinario de revisión, ante el Consejo de Estado", "Ningún recurso administrativo; solo cabría el contencioso-administrativo directo"],
+      "correct": 0,
+      "exp": "Arts. 121.1 y 121.2: cuando el acto no pone fin a la vía administrativa procede la alzada, que puede interponerse ante el órgano que dictó el acto o ante el competente para resolverlo (el superior jerárquico).",
+      "fuente": "Arts. 121.1 y 121.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Si el acto no es expreso, el plazo del mes previsto con carácter general en el art. 122.1 LPAC para interponer el recurso de alzada:",
+      "options": ["No opera como tal; el recurso puede interponerse en cualquier momento desde que se producen los efectos del silencio administrativo", "Se amplía automáticamente a tres meses", "Se reduce a quince días", "Sigue aplicándose exactamente igual que si el acto fuera expreso"],
+      "correct": 0,
+      "exp": "Art. 122.1: el plazo de un mes solo rige 'si el acto fuera expreso'; si no lo es, el recurso puede interponerse 'en cualquier momento' desde el día siguiente a que se produzcan los efectos del silencio administrativo.",
+      "fuente": "Art. 122.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Señale la afirmación FALSA sobre la compatibilidad entre el recurso de reposición y el contencioso-administrativo, según el art. 123.2 LPAC:",
+      "options": ["Puede interponerse el recurso contencioso-administrativo en cualquier momento, aunque el recurso de reposición no haya sido resuelto ni haya desestimación presunta", "No podrá interponerse el recurso contencioso-administrativo hasta que el de reposición sea resuelto expresamente", "No podrá interponerse el recurso contencioso-administrativo hasta que se produzca la desestimación presunta del recurso de reposición", "La resolución expresa o la desestimación presunta del recurso de reposición son los dos únicos supuestos que abren la vía contenciosa, una vez elegida la reposición"],
+      "correct": 0,
+      "exp": "Art. 123.2: 'No se podrá interponer recurso contencioso-administrativo hasta que sea resuelto expresamente o se haya producido la desestimación presunta del recurso de reposición interpuesto.' La primera opción es, por tanto, falsa.",
+      "fuente": "Art. 123.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Si el recurso de alzada se interpone directamente ante el órgano competente para resolverlo (y no ante el que dictó el acto), ¿resulta aplicable el plazo de diez días para la remisión previsto en el art. 121.2 LPAC?",
+      "options": ["No, ese plazo de remisión solo opera cuando el recurso se interpuso ante el órgano que dictó el acto impugnado", "Sí, se aplica en todo caso, con independencia de ante quién se interponga", "Sí, pero el plazo se reduce a cinco días", "No, porque en ese caso no cabe el recurso de alzada"],
+      "correct": 0,
+      "exp": "Art. 121.2: el trámite de remisión en diez días con informe y copia del expediente presupone que el recurso 'se hubiera interpuesto ante el órgano que dictó el acto impugnado'; si se interpone directamente ante el competente, ese trámite no es necesario.",
+      "fuente": "Art. 121.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El plazo máximo de resolución del recurso de alzada (tres meses, art. 122.2 LPAC) es, respecto del plazo máximo de resolución del recurso de reposición (un mes, art. 124.2 LPAC):",
+      "options": ["El triple", "El doble", "La mitad", "Igual"],
+      "correct": 0,
+      "exp": "Tres meses (alzada, art. 122.2) equivalen al triple de un mes (reposición, art. 124.2).",
+      "fuente": "Arts. 122.2 y 124.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El carácter potestativo del recurso de reposición, según el art. 123.1 LPAC, significa que:",
+      "options": ["El interesado no está obligado a interponerlo antes de acudir a la vía contencioso-administrativa, pues el acto impugnado ya pone fin a la vía administrativa por sí mismo", "Es obligatorio interponerlo siempre antes de acudir a la vía contencioso-administrativa", "Solo pueden interponerlo las personas jurídicas, nunca las personas físicas", "Puede interponerse ante cualquier órgano administrativo, a elección del recurrente"],
+      "correct": 0,
+      "exp": "Art. 123.1: al recaer sobre actos que ya 'pongan fin a la vía administrativa', la reposición es una opción adicional del interesado, que puede en su lugar 'ser impugnados directamente ante el orden jurisdiccional contencioso-administrativo'.",
+      "fuente": "Art. 123.1 LPAC",
+      "confianza": "alta"
+    }
+  ]
+}
