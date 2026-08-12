@@ -1,0 +1,606 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 9,
+  "preguntas": [
+    {
+      "q": "Según el art. 99.1 LCSP, el objeto de los contratos del sector público deberá ser determinado, pudiendo definirse en atención a:",
+      "options": [
+        "el presupuesto máximo disponible únicamente",
+        "las necesidades o funcionalidades concretas que se pretenden satisfacer, sin cerrar el objeto a una solución única",
+        "la clasificación empresarial exigida al contratista",
+        "el procedimiento de adjudicación elegido"
+      ],
+      "correct": 1,
+      "exp": "El art. 99.1 establece que el objeto de los contratos del sector público deberá ser determinado, pudiéndose definir en atención a las necesidades o funcionalidades concretas que se pretenden satisfacer, sin cerrar el objeto del contrato a una solución única.",
+      "fuente": "Art. 99.1 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 99.1 LCSP localizado y leído íntegro; el texto define el objeto atendiendo a necesidades/funcionalidades sin cerrarlo a solución única, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 99.2 LCSP, no podrá fraccionarse un contrato con la finalidad de:",
+      "options": [
+        "facilitar la división en lotes",
+        "aumentar el valor estimado del contrato",
+        "disminuir su cuantía y eludir así los requisitos de publicidad o de procedimiento de adjudicación",
+        "reducir el plazo de garantía"
+      ],
+      "correct": 2,
+      "exp": "El art. 99.2 dispone que no podrá fraccionarse un contrato con la finalidad de disminuir la cuantía del mismo y eludir así los requisitos de publicidad o los relativos al procedimiento de adjudicación que correspondan.",
+      "fuente": "Art. 99.2 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 99.2 LCSP localizado; prohíbe fraccionar para disminuir la cuantía y eludir publicidad/procedimiento, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 99.3 LCSP, aun existiendo motivos válidos debidamente justificados, el órgano de contratación no podrá dejar de dividir en lotes el objeto del contrato cuando se trate de:",
+      "options": [
+        "contratos de suministro",
+        "contratos de servicios",
+        "contratos de concesión de obras",
+        "contratos menores"
+      ],
+      "correct": 2,
+      "exp": "El art. 99.3 permite no dividir en lotes cuando existan motivos válidos justificados en el expediente, 'salvo en los casos de contratos de concesión de obras'.",
+      "fuente": "Art. 99.3 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 99.3 LCSP localizado; la excepción 'salvo en los casos de contratos de concesión de obras' a la no división en lotes coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 99.3.a) LCSP, cuando la no división en lotes se justifique porque conlleve el riesgo de restringir injustificadamente la competencia, el órgano de contratación deberá:",
+      "options": [
+        "publicarlo únicamente en el perfil del contratante",
+        "solicitar informe previo a la autoridad de defensa de la competencia correspondiente",
+        "recabar dictamen del Consejo de Estado",
+        "obtener autorización del Ministerio de Hacienda"
+      ],
+      "correct": 1,
+      "exp": "El art. 99.3.a) exige que, para apreciar el riesgo de restringir injustificadamente la competencia, el órgano de contratación solicite informe previo a la autoridad de defensa de la competencia correspondiente.",
+      "fuente": "Art. 99.3.a) LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 99.3.a) LCSP localizado; exige informe previo a la autoridad de defensa de la competencia, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 100.1 LCSP, el presupuesto base de licitación es el límite máximo de gasto que puede comprometer el órgano de contratación, entendiéndose, salvo disposición en contrario:",
+      "options": [
+        "excluido el Impuesto sobre el Valor Añadido",
+        "incluido el Impuesto sobre el Valor Añadido",
+        "incluidas las futuras revisiones de precios",
+        "excluidos los costes laborales estimados"
+      ],
+      "correct": 1,
+      "exp": "El art. 100.1 define el presupuesto base de licitación como el límite máximo de gasto que en virtud del contrato puede comprometer el órgano de contratación, incluido el IVA, salvo disposición en contrario.",
+      "fuente": "Art. 100.1 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 100.1 LCSP localizado; presupuesto base de licitación incluye el IVA salvo disposición en contrario, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 101.1.a) LCSP, en los contratos de obras, suministros y servicios, el valor estimado se determina tomando:",
+      "options": [
+        "el importe total, sin incluir el IVA, pagadero según las estimaciones del órgano de contratación",
+        "el presupuesto base de licitación incluido el IVA",
+        "el precio final de adjudicación una vez formalizado el contrato",
+        "el importe de las garantías exigidas al contratista"
+      ],
+      "correct": 0,
+      "exp": "El art. 101.1.a) señala que en los contratos de obras, suministros y servicios el órgano de contratación tomará el importe total, sin incluir el IVA, pagadero según sus estimaciones.",
+      "fuente": "Art. 101.1.a) LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 101.1.a) LCSP localizado; toma el importe total sin IVA según estimaciones del órgano de contratación, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 101.2.c) LCSP, cuando el pliego prevea la posibilidad de modificar el contrato, se considerará valor estimado del mismo:",
+      "options": [
+        "el importe inicial de licitación",
+        "la media entre el importe inicial y el máximo previsto",
+        "el importe máximo que el contrato pueda alcanzar, teniendo en cuenta la totalidad de las modificaciones al alza previstas",
+        "el importe mínimo garantizado al contratista"
+      ],
+      "correct": 2,
+      "exp": "El art. 101.2.c) dispone que, previsto en el pliego que el contrato pueda modificarse, se considerará valor estimado del contrato el importe máximo que este pueda alcanzar, computando la totalidad de las modificaciones al alza previstas.",
+      "fuente": "Art. 101.2.c) LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 101.2.c) LCSP localizado; valor estimado = importe máximo alcanzable con modificaciones al alza previstas, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 101.9.b) LCSP, en los contratos de suministro por arrendamiento financiero, arrendamiento o venta a plazos cuya duración no se fije por referencia a un periodo determinado, el valor estimado se calcula como:",
+      "options": [
+        "el valor mensual multiplicado por 12",
+        "el valor mensual multiplicado por 48",
+        "el valor anual multiplicado por 4",
+        "el valor total sin límite temporal alguno"
+      ],
+      "correct": 1,
+      "exp": "El art. 101.9.b) establece que, en contratos de suministro cuya duración no se fije por referencia a un periodo de tiempo determinado, el valor será el valor mensual multiplicado por 48.",
+      "fuente": "Art. 101.9.b) LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 101.9.b) LCSP localizado; valor mensual multiplicado por 48 para duración indeterminada, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 102.1 LCSP, los contratos del sector público tendrán siempre:",
+      "options": [
+        "un precio estimativo, revisable en cualquier momento por el órgano de contratación",
+        "un precio cierto, en el que el IVA se indicará como partida independiente",
+        "un precio fijado exclusivamente en moneda extranjera",
+        "un precio aplazado, salvo pacto expreso en contrario"
+      ],
+      "correct": 1,
+      "exp": "El art. 102.1 dispone que los contratos del sector público tendrán siempre un precio cierto, entendiéndose incluido en él el IVA, que en todo caso se indicará como partida independiente.",
+      "fuente": "Art. 102.1 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 102.1 LCSP localizado; precio cierto con IVA indicado como partida independiente, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 102.7 LCSP, en los contratos celebrados con precios provisionales:",
+      "options": [
+        "siempre procederá la revisión periódica de precios",
+        "no cabrá la revisión de precios",
+        "el precio se fija definitivamente en el momento de la adjudicación",
+        "se aplicará automáticamente el índice de precios de consumo"
+      ],
+      "correct": 1,
+      "exp": "El art. 102.7 establece expresamente que en los contratos celebrados con precios provisionales no cabrá la revisión de precios.",
+      "fuente": "Art. 102.7 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 102.7 LCSP localizado; en precios provisionales no cabe revisión de precios, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 102.8 LCSP, se prohíbe con carácter general el pago aplazado del precio en los contratos de las Administraciones Públicas, excepto cuando el sistema de pago se establezca mediante:",
+      "options": [
+        "transferencia bancaria diferida a treinta días",
+        "arrendamiento financiero o arrendamiento con opción de compra, u otros supuestos autorizados expresamente por una Ley",
+        "pagaré nominativo endosable",
+        "anticipo de caja fija sin límite cuantitativo"
+      ],
+      "correct": 1,
+      "exp": "El art. 102.8 prohíbe el pago aplazado del precio, excepto en los supuestos en que el sistema de pago se establezca mediante arrendamiento financiero o arrendamiento con opción de compra, o cuando esta u otra Ley lo autorice expresamente.",
+      "fuente": "Art. 102.8 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 102.8 LCSP localizado; prohibición de pago aplazado salvo arrendamiento financiero/opción de compra u otra Ley, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 103.2 LCSP, la revisión periódica y predeterminada de precios solo podrá llevarse a cabo, entre otros supuestos, en los contratos de obra y en aquellos contratos en que el periodo de recuperación de la inversión sea igual o superior a:",
+      "options": [
+        "tres años",
+        "cinco años",
+        "siete años",
+        "diez años"
+      ],
+      "correct": 1,
+      "exp": "El art. 103.2 exige, para admitir la revisión periódica y predeterminada, que el período de recuperación de la inversión sea igual o superior a cinco años, salvo en obras, suministro de armamento o suministro de energía.",
+      "fuente": "Art. 103.2 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 103.2 LCSP localizado; periodo de recuperación de la inversión igual o superior a cinco años, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 103.2 LCSP, en contratos con periodo de recuperación de la inversión inferior a cinco años, podrá admitirse excepcionalmente la revisión de precios cuando la participación de materias primas, bienes intermedios y energía en el presupuesto base de licitación supere:",
+      "options": [
+        "el 10 por ciento de dicho presupuesto",
+        "el 20 por ciento de dicho presupuesto",
+        "el 33 por ciento de dicho presupuesto",
+        "el 50 por ciento de dicho presupuesto"
+      ],
+      "correct": 1,
+      "exp": "El art. 103.2 permite admitir la revisión, previa justificación en el expediente, cuando la suma de la participación de materias primas, bienes intermedios y energía supere el 20 por ciento del presupuesto base de licitación.",
+      "fuente": "Art. 103.2 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 103.2 LCSP localizado; umbral del 20 por ciento de materias primas/energía en el presupuesto, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 103.5 LCSP, la revisión periódica y predeterminada de precios tendrá lugar cuando el contrato se hubiese ejecutado, al menos, en el 20 por ciento de su importe y hubiese transcurrido desde su formalización:",
+      "options": [
+        "seis meses",
+        "un año",
+        "dos años",
+        "el 50 por ciento del plazo de ejecución"
+      ],
+      "correct": 1,
+      "exp": "El art. 103.5 dispone que la revisión periódica y predeterminada tendrá lugar cuando el contrato se hubiese ejecutado al menos en el 20 por ciento de su importe y hubiese transcurrido un año desde su formalización.",
+      "fuente": "Art. 103.5 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 103.5 LCSP localizado; ejecución del 20% del importe y un año desde formalización, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 104 LCSP, cuando el contratista hubiese incurrido en mora, los índices de precios a aplicar para la revisión serán los correspondientes a las fechas contractuales de ejecución en plazo, salvo que:",
+      "options": [
+        "el órgano de contratación decida discrecionalmente lo contrario",
+        "los índices del periodo real de ejecución produzcan un coeficiente inferior, en cuyo caso se aplicarán estos últimos",
+        "el contratista solicite la aplicación de los índices más beneficiosos para él",
+        "haya transcurrido más de un año desde la formalización"
+      ],
+      "correct": 1,
+      "exp": "El art. 104 establece que en caso de demora se aplicarán los índices correspondientes a las fechas contractuales de ejecución en plazo, salvo que los correspondientes al periodo real de ejecución produzcan un coeficiente inferior, en cuyo caso se aplicarán estos últimos.",
+      "fuente": "Art. 104 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 104 LCSP localizado; índices de ejecución en plazo salvo que los del periodo real den coeficiente inferior, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 106.1 LCSP, en el procedimiento de contratación la exigencia de garantía provisional:",
+      "options": [
+        "es siempre obligatoria en cualquier tipo de contrato",
+        "no procederá, salvo que excepcionalmente el órgano de contratación, por motivos de interés público, la considere necesaria y lo justifique motivadamente en el expediente",
+        "solo se exige en los contratos de obras",
+        "queda a elección libre del licitador que concurra a la licitación"
+      ],
+      "correct": 1,
+      "exp": "El art. 106.1 dispone que en el procedimiento de contratación no procederá la exigencia de garantía provisional, salvo cuando de forma excepcional el órgano de contratación, por motivos de interés público, lo considere necesario y lo justifique motivadamente en el expediente.",
+      "fuente": "Art. 106.1 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 106.1 LCSP localizado; la garantía provisional no procede salvo justificación motivada excepcional por interés público, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 106.2 LCSP, cuando se exija garantía provisional, su importe no podrá ser superior a:",
+      "options": [
+        "el 1 por 100 del presupuesto base de licitación",
+        "el 3 por 100 del presupuesto base de licitación, excluido el IVA",
+        "el 5 por 100 del precio de adjudicación",
+        "el 10 por 100 del valor estimado del contrato"
+      ],
+      "correct": 1,
+      "exp": "El art. 106.2 fija que el importe de la garantía provisional no podrá ser superior a un 3 por 100 del presupuesto base de licitación del contrato, excluido el IVA.",
+      "fuente": "Art. 106.2 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 106.2 LCSP localizado; tope del 3 por 100 del presupuesto base de licitación excluido IVA, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 107.1 LCSP, el licitador que presente la mejor oferta deberá constituir a disposición del órgano de contratación una garantía definitiva de:",
+      "options": [
+        "un 3 por 100 del precio final ofertado, excluido el IVA",
+        "un 5 por 100 del precio final ofertado, excluido el IVA",
+        "un 10 por 100 del presupuesto base de licitación",
+        "un 5 por 100 del valor estimado del contrato"
+      ],
+      "correct": 1,
+      "exp": "El art. 107.1 exige constituir una garantía de un 5 por 100 del precio final ofertado, excluido el IVA, al licitador que presente la mejor oferta.",
+      "fuente": "Art. 107.1 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 107.1 LCSP localizado; garantía definitiva del 5 por 100 del precio final ofertado excluido IVA, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 107.2 LCSP, en casos especiales el órgano de contratación podrá exigir una garantía complementaria a la garantía definitiva ordinaria de hasta:",
+      "options": [
+        "un 2 por 100 adicional, hasta un total del 7 por 100",
+        "un 5 por 100 adicional, pudiendo alcanzar la garantía total un 10 por 100 del precio",
+        "un 15 por 100 adicional",
+        "no cabe en ningún caso una garantía complementaria"
+      ],
+      "correct": 1,
+      "exp": "El art. 107.2 permite, en casos especiales, exigir una garantía complementaria de hasta un 5 por 100 del precio final ofertado, pudiendo alcanzar la garantía total un 10 por 100 de dicho precio.",
+      "fuente": "Art. 107.2 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 107.2 LCSP localizado; complementaria de hasta un 5 por 100 adicional, total hasta 10 por 100, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 108.1 LCSP, las garantías definitivas en los contratos celebrados con las Administraciones Públicas podrán prestarse, entre otras formas, mediante:",
+      "options": [
+        "efectivo o valores de Deuda Pública, aval, o contrato de seguro de caución",
+        "pagaré bancario exclusivamente",
+        "hipoteca sobre bienes inmuebles del contratista",
+        "cheque bancario al portador"
+      ],
+      "correct": 0,
+      "exp": "El art. 108.1 admite que las garantías definitivas se presten en efectivo o valores de Deuda Pública, mediante aval o mediante contrato de seguro de caución.",
+      "fuente": "Art. 108.1 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 108.1 LCSP localizado; formas admisibles: efectivo/valores de Deuda Pública, aval o seguro de caución, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 108.2 LCSP, cuando así se prevea en los pliegos, la garantía definitiva en los contratos de obras, suministros y servicios podrá constituirse mediante:",
+      "options": [
+        "depósito judicial",
+        "retención en el precio",
+        "fianza personal solidaria de un tercero",
+        "prenda sobre créditos futuros del contratista"
+      ],
+      "correct": 1,
+      "exp": "El art. 108.2 permite que, cuando así se prevea en los pliegos, la garantía definitiva se constituya mediante retención en el precio.",
+      "fuente": "Art. 108.2 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 108.2 LCSP localizado; constitución mediante retención en el precio cuando lo prevean los pliegos, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 109.2 LCSP, si se hacen efectivas sobre la garantía definitiva las penalidades o indemnizaciones exigibles al contratista, este deberá reponerla o ampliarla en el plazo de:",
+      "options": [
+        "cinco días desde la ejecución",
+        "diez días desde la ejecución",
+        "quince días desde la ejecución",
+        "un mes desde la ejecución"
+      ],
+      "correct": 2,
+      "exp": "El art. 109.2 fija el plazo de quince días desde la ejecución para reponer o ampliar la garantía definitiva, so pena de incurrir en causa de resolución.",
+      "fuente": "Art. 109.2 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 109.2 LCSP localizado; reposición o ampliación en el plazo de quince días desde la ejecución, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 109.3 LCSP, cuando por una modificación del contrato varíe su precio, el contratista deberá reajustar la garantía en el plazo de:",
+      "options": [
+        "diez días desde la formalización de la modificación",
+        "quince días desde que se le notifique el acuerdo de modificación",
+        "un mes desde la ejecución de la modificación",
+        "dos meses desde la aprobación del expediente"
+      ],
+      "correct": 1,
+      "exp": "El art. 109.3 establece que el reajuste de la garantía debe hacerse en el plazo de quince días contados desde la fecha en que se notifique al empresario el acuerdo de modificación.",
+      "fuente": "Art. 109.3 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 109.3 LCSP localizado; reajuste en quince días desde la notificación del acuerdo de modificación, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 110.e) LCSP, en los contratos de obras, servicios y suministros, la garantía definitiva responde también de:",
+      "options": [
+        "los daños causados a terceros ajenos al contrato",
+        "la inexistencia de vicios o defectos de los bienes o servicios durante el plazo de garantía previsto en el contrato",
+        "el pago de tributos propios del contratista",
+        "las deudas laborales anteriores a la formalización del contrato"
+      ],
+      "correct": 1,
+      "exp": "El art. 110.e) añade que, en obras, servicios y suministros, la garantía definitiva responde de la inexistencia de vicios o defectos de los bienes construidos o suministrados o de los servicios prestados durante el plazo de garantía.",
+      "fuente": "Art. 110.e) LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 110.e) LCSP localizado; responde de la inexistencia de vicios o defectos durante el plazo de garantía en obras, servicios y suministros, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 111.2 LCSP, el acuerdo de devolución de la garantía definitiva deberá adoptarse y notificarse al interesado en el plazo de:",
+      "options": [
+        "un mes desde la finalización del plazo de garantía",
+        "dos meses desde la finalización del plazo de garantía",
+        "tres meses desde la liquidación del contrato",
+        "seis meses desde la recepción de la obra"
+      ],
+      "correct": 1,
+      "exp": "El art. 111.2 dispone que el acuerdo de devolución deberá adoptarse y notificarse al interesado en el plazo de dos meses desde la finalización del plazo de garantía.",
+      "fuente": "Art. 111.2 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 111.2 LCSP localizado; acuerdo de devolución en el plazo de dos meses desde la finalización del plazo de garantía, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 111.5 LCSP, transcurrido un año desde la terminación del contrato sin recepción ni liquidación por causas no imputables al contratista, se procede a la devolución de la garantía; este plazo se reduce a seis meses, entre otros supuestos, cuando el valor estimado del contrato sea inferior a:",
+      "options": [
+        "1.000.000 de euros en obras o 100.000 euros en otros contratos",
+        "500.000 euros en cualquier tipo de contrato",
+        "40.000 euros en obras",
+        "5.000.000 de euros en concesiones"
+      ],
+      "correct": 0,
+      "exp": "El art. 111.5 reduce el plazo a seis meses cuando el valor estimado del contrato sea inferior a 1.000.000 de euros, si se trata de obras, o a 100.000 euros en el caso de otros contratos, o cuando las empresas licitadoras reúnan los requisitos de PYME.",
+      "fuente": "Art. 111.5 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 111.5 LCSP localizado; reducción a seis meses si el valor estimado es inferior a 1.000.000 € (obras) o 100.000 € (otros contratos), coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 112.1 LCSP, las personas o entidades distintas del contratista que presten garantías a su favor:",
+      "options": [
+        "podrán utilizar el beneficio de excusión regulado en el Código Civil",
+        "no podrán utilizar el beneficio de excusión a que se refieren los artículos 1.830 y concordantes del Código Civil",
+        "quedan exoneradas de cualquier responsabilidad frente a la Administración",
+        "solo responden subsidiariamente tras agotarse el patrimonio del contratista"
+      ],
+      "correct": 1,
+      "exp": "El art. 112.1 excluye expresamente que los garantes distintos del contratista puedan utilizar el beneficio de excusión de los artículos 1.830 y concordantes del Código Civil.",
+      "fuente": "Art. 112.1 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 112.1 LCSP localizado; los garantes no pueden usar el beneficio de excusión de los arts. 1.830 y ss. del Código Civil, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 113.1 LCSP, para hacer efectivas las garantías, tanto provisionales como definitivas, la Administración contratante tendrá:",
+      "options": [
+        "preferencia sobre cualquier otro acreedor, sea cual fuere la naturaleza del mismo y el título de su crédito",
+        "preferencia únicamente frente a los acreedores no privilegiados",
+        "el mismo rango que el resto de acreedores del contratista",
+        "preferencia solo en caso de declaración de concurso"
+      ],
+      "correct": 0,
+      "exp": "El art. 113.1 otorga a la Administración contratante preferencia sobre cualquier otro acreedor, sea cual fuere la naturaleza de este y el título del que derive su crédito, para hacer efectivas las garantías.",
+      "fuente": "Art. 113.1 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 113.1 LCSP localizado; preferencia de la Administración sobre cualquier otro acreedor, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 114.2 LCSP, en los contratos de las entidades del sector público que no tengan la consideración de Administraciones Públicas, el importe de la garantía exigida no podrá sobrepasar los límites establecidos en:",
+      "options": [
+        "los artículos 106.2 y 107.2",
+        "el artículo 100",
+        "el artículo 145",
+        "el artículo 192"
+      ],
+      "correct": 0,
+      "exp": "El art. 114.2 remite a los límites de los artículos 106.2 y 107.2 (3 por 100 y 5 por 100, respectivamente) como techo del importe de garantía exigible en estos contratos.",
+      "fuente": "Art. 114.2 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 114.2 LCSP localizado; remite a los límites de los arts. 106.2 y 107.2, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 115.1 LCSP, los órganos de contratación podrán realizar estudios de mercado y dirigir consultas preliminares a los operadores económicos con la finalidad de:",
+      "options": [
+        "adjudicar directamente el contrato al operador consultado",
+        "preparar correctamente la licitación e informar a los operadores de sus planes y de los requisitos que exigirán",
+        "eximir al futuro contratista de constituir garantía definitiva",
+        "reducir a la mitad los plazos de tramitación urgente"
+      ],
+      "correct": 1,
+      "exp": "El art. 115.1 permite realizar consultas preliminares del mercado con la finalidad de preparar correctamente la licitación e informar a los operadores económicos de sus planes y de los requisitos que exigirán para concurrir al procedimiento.",
+      "fuente": "Art. 115.1 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 115.1 LCSP localizado; consultas preliminares para preparar la licitación e informar a los operadores de planes y requisitos, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 116.1 LCSP, la celebración de contratos por las Administraciones Públicas requiere la previa tramitación de un expediente que se iniciará por el órgano de contratación:",
+      "options": [
+        "motivando la necesidad del contrato, debiendo publicarse en el perfil de contratante",
+        "sin necesidad de motivación cuando se trate de contratos menores",
+        "únicamente tras la aprobación previa de los pliegos",
+        "a instancia del licitador interesado"
+      ],
+      "correct": 0,
+      "exp": "El art. 116.1 dispone que el expediente se iniciará por el órgano de contratación motivando la necesidad del contrato, y que dicho inicio deberá ser publicado en el perfil de contratante.",
+      "fuente": "Art. 116.1 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 116.1 LCSP localizado; inicio del expediente motivando la necesidad y publicación en el perfil de contratante, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 116.4.f) LCSP, en el expediente de contratación de servicios deberá justificarse adecuadamente, entre otros extremos:",
+      "options": [
+        "el informe de insuficiencia de medios",
+        "el informe de solvencia bancaria del contratista",
+        "el plan de igualdad de la empresa licitadora",
+        "el certificado de estar al corriente de obligaciones tributarias"
+      ],
+      "correct": 0,
+      "exp": "El art. 116.4.f) exige que, en los contratos de servicios, el expediente justifique el informe de insuficiencia de medios.",
+      "fuente": "Art. 116.4.f) LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 116.4.f) LCSP localizado; en servicios debe justificarse el informe de insuficiencia de medios, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 117.1 LCSP, la resolución que aprueba el expediente de contratación y dispone la apertura del procedimiento de adjudicación implicará también:",
+      "options": [
+        "la formalización automática del contrato",
+        "la aprobación del gasto, salvo las excepciones previstas en la propia Ley",
+        "la adjudicación provisional del contrato",
+        "la constitución automática de la garantía definitiva"
+      ],
+      "correct": 1,
+      "exp": "El art. 117.1 establece que la resolución de aprobación del expediente implicará también la aprobación del gasto, salvo el supuesto excepcional en que el presupuesto no hubiera podido establecerse previamente u otras excepciones previstas.",
+      "fuente": "Art. 117.1 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 117.1 LCSP localizado; la resolución de aprobación del expediente implica también la aprobación del gasto salvo excepciones, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 118.1 LCSP, se consideran contratos menores los de valor estimado inferior a:",
+      "options": [
+        "40.000 euros en obras y 15.000 euros en suministros o servicios",
+        "50.000 euros en obras y 18.000 euros en suministros o servicios",
+        "15.000 euros en obras y 40.000 euros en suministros o servicios",
+        "60.000 euros en cualquier tipo de contrato"
+      ],
+      "correct": 0,
+      "exp": "El art. 118.1 fija los umbrales del contrato menor en 40.000 euros para obras y 15.000 euros para suministros o servicios.",
+      "fuente": "Art. 118.1 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 118.1 LCSP localizado; umbrales de contrato menor: 40.000 € obras / 15.000 € suministros o servicios, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 118.5 LCSP, la exigencia de informe motivado sobre la necesidad del contrato menor no será de aplicación a los contratos cuyo pago se verifique mediante anticipos de caja fija u otro sistema similar, siempre que el valor estimado del contrato no exceda de:",
+      "options": [
+        "1.000 euros",
+        "3.000 euros",
+        "5.000 euros",
+        "15.000 euros"
+      ],
+      "correct": 2,
+      "exp": "El art. 118.5 exceptúa de la exigencia del informe motivado a los contratos pagados por el sistema de anticipos de caja fija u otro similar, siempre que el valor estimado no exceda de 5.000 euros.",
+      "fuente": "Art. 118.5 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 118.5 LCSP localizado; excepción del informe motivado si el pago es por anticipo de caja fija y el valor no excede de 5.000 €, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 119.2.b).1º LCSP, en la tramitación urgente del expediente, no se reduce a la mitad el plazo de:",
+      "options": [
+        "presentación de proposiciones en el procedimiento abierto",
+        "quince días hábiles como periodo de espera antes de la formalización del contrato, previsto en el artículo 153.3",
+        "publicación del anuncio de licitación",
+        "constitución de la garantía provisional"
+      ],
+      "correct": 1,
+      "exp": "El art. 119.2.b).1º excluye expresamente de la reducción a la mitad el plazo de quince días hábiles establecido en el art. 153.3 como periodo de espera antes de la formalización del contrato.",
+      "fuente": "Art. 119.2.b).1º LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 119.2.b).1º LCSP localizado; excepción de la reducción a la mitad para el plazo de 15 días hábiles del art. 153.3, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 120.1.c) LCSP, en la tramitación de emergencia, el plazo de inicio de la ejecución de las prestaciones no podrá ser superior a:",
+      "options": [
+        "quince días",
+        "un mes, contado desde la adopción del acuerdo",
+        "tres meses",
+        "seis meses"
+      ],
+      "correct": 1,
+      "exp": "El art. 120.1.c) limita a un mes, contado desde la adopción del acuerdo, el plazo para iniciar la ejecución de las prestaciones tramitadas por emergencia.",
+      "fuente": "Art. 120.1.c) LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 120.1.c) LCSP localizado; inicio de ejecución no superior a un mes desde la adopción del acuerdo, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 121.1 LCSP, los pliegos de cláusulas administrativas generales para la Administración General del Estado podrán ser aprobados por el Consejo de Ministros, a propuesta del Ministro de Hacienda y Función Pública, previo:",
+      "options": [
+        "informe exclusivo de la Junta Consultiva de Contratación Pública del Estado",
+        "dictamen del Consejo de Estado",
+        "acuerdo del Congreso de los Diputados",
+        "informe de la Abogacía General del Estado"
+      ],
+      "correct": 1,
+      "exp": "El art. 121.1 exige que la aprobación de los pliegos de cláusulas administrativas generales por el Consejo de Ministros vaya precedida del previo dictamen del Consejo de Estado.",
+      "fuente": "Art. 121.1 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 121.1 LCSP localizado; aprobación por el Consejo de Ministros previo dictamen del Consejo de Estado, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 122.1 LCSP, una vez aprobados, los pliegos de cláusulas administrativas particulares solo podrán ser modificados con posterioridad por:",
+      "options": [
+        "acuerdo entre las partes del contrato",
+        "error material, de hecho o aritmético",
+        "decisión discrecional del órgano de contratación",
+        "resolución del recurso especial en materia de contratación"
+      ],
+      "correct": 1,
+      "exp": "El art. 122.1 establece que los pliegos de cláusulas administrativas particulares solo podrán ser modificados con posterioridad por error material, de hecho o aritmético; en otro caso, la modificación conllevará la retroacción de actuaciones.",
+      "fuente": "Art. 122.1 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 122.1 LCSP localizado; modificación posterior solo por error material, de hecho o aritmético, coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 130.1 LCSP, cuando una norma legal, un convenio colectivo o un acuerdo de negociación colectiva de eficacia general imponga al adjudicatario la obligación de subrogarse como empleador, los servicios dependientes del órgano de contratación deberán facilitar a los licitadores, en el propio pliego:",
+      "options": [
+        "el nombre del contratista saliente, sin más datos",
+        "la información sobre las condiciones de los contratos de los trabajadores afectados por la subrogación, necesaria para evaluar los costes laborales",
+        "el importe de la garantía definitiva constituida por el contratista saliente",
+        "el informe de insuficiencia de medios del órgano de contratación"
+      ],
+      "correct": 1,
+      "exp": "El art. 130.1 obliga a facilitar en el propio pliego la información sobre las condiciones de los contratos de los trabajadores afectados por la subrogación, necesaria para permitir una exacta evaluación de los costes laborales que implicará esa medida.",
+      "fuente": "Art. 130.1 LCSP (Ley 9/2017)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 130.1 LCSP localizado; obligación de facilitar en el pliego la información sobre condiciones de los contratos afectados por la subrogación, coincide con la opción marcada."
+    }
+  ]
+}
