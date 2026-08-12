@@ -227,6 +227,39 @@ Policía Local ("Presupuesto. Régimen jurídico de los ingresos y gastos
 locales"), sin agentes adicionales — 600 preguntas nuevas, 0 duplicadas.
 Banco de Policía Local: de 1.651 a **2.251 preguntas**.
 
+## Tema 6 · LPAC (III): actos administrativos — PRIMERA VUELTA CERRADA
+
+**310 preguntas** (de 150 que había), todas de 4 opciones. 4 lotes de 40,
+compartiendo el consolidado de la LPAC ya descargado.
+
+| Lote | Tramo | Confirmadas | Corregidas | Rechazadas |
+|---|---|---|---|---|
+| A | Requisitos y eficacia inicial (arts. 34-39) | 39 | 1 | 0 |
+| B | Notificaciones I (arts. 40-43) | 40 | 0 | 0 |
+| C | Notificaciones II y nulidad de pleno derecho (arts. 44-47) | 40 | 0 | 0 |
+| D | Anulabilidad y comparativas con la nulidad (arts. 48-52) | 40 | 0 | 0 |
+
+Notas:
+- La corrección del lote A fue de una premisa falsa: una pregunta daba por
+  hecho que el art. 38 LPAC "abre" el Capítulo II ("Eficacia de los actos")
+  del Título III, cuando en realidad lo abre el art. 37
+  ("Inderogabilidad singular"); se corrigió el enunciado y la explicación
+  sin tocar la opción marcada como correcta (seguía siendo la rúbrica real
+  del art. 38, "Ejecutividad").
+- El redactor del lote C confirmó que el separador en `_lpac.txt` entre
+  "Artículo" y el número es un espacio de no separación (U+00A0), no un
+  espacio normal — un grep simple no encuentra el texto si no se tiene en
+  cuenta.
+- El revisor del lote D verificó también las remisiones cruzadas del art.
+  52.2 (art. 39.3) y de los arts. 122.1/124.1 (plazos de recurso vía arts.
+  106.1/107.2), no solo los artículos citados directamente.
+
+**Aprovechado para Policía Local**: las 310 preguntas se redujeron a 3
+opciones y se volcaron al tema 4 ("La Administración Pública en la CE. Ley
+39/2015 y Ley 40/2015"), el mismo destino que los temas 7 y 8, sin agentes
+adicionales — 310 nuevas, 0 duplicadas. Banco de Policía Local: de 3.079 a
+**3.389 preguntas**.
+
 ## Policía Local Zaragoza · importación de la Constitución desde Aux. Admin. (11-ago-2026)
 
 Segunda importación cruzada, esta vez con conversión real de 4→3 opciones
