@@ -508,6 +508,19 @@
       "exp": "El art. 122.1 establece que los pliegos de cláusulas administrativas particulares solo podrán ser modificados con posterioridad por error material, de hecho o aritmético; en otro caso, la modificación conllevará la retroacción de actuaciones.",
       "fuente": "Art. 122.1 LCSP (Ley 9/2017)",
       "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 130.1 LCSP, cuando una norma legal, un convenio colectivo o un acuerdo de negociación colectiva de eficacia general imponga al adjudicatario la obligación de subrogarse como empleador, los servicios dependientes del órgano de contratación deberán facilitar a los licitadores, en el propio pliego:",
+      "options": [
+        "el nombre del contratista saliente, sin más datos",
+        "la información sobre las condiciones de los contratos de los trabajadores afectados por la subrogación, necesaria para evaluar los costes laborales",
+        "el importe de la garantía definitiva constituida por el contratista saliente",
+        "el informe de insuficiencia de medios del órgano de contratación"
+      ],
+      "correct": 1,
+      "exp": "El art. 130.1 obliga a facilitar en el propio pliego la información sobre las condiciones de los contratos de los trabajadores afectados por la subrogación, necesaria para permitir una exacta evaluación de los costes laborales que implicará esa medida.",
+      "fuente": "Art. 130.1 LCSP (Ley 9/2017)",
+      "confianza": "alta"
     }
   ]
 }
