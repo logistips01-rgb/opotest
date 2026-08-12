@@ -6,6 +6,32 @@ un tema por tanda y con parada entre temas.
 El tema 21 queda **fuera del objetivo**: reproduce el examen oficial del
 1-jun-2025 y rellenarlo con preguntas generadas destruiría lo que lo hace útil.
 
+## Tema 11 · Actividad de las entidades locales — PRIMERA VUELTA CERRADA
+
+**260 preguntas** (de 100 que había), todas de 4 opciones. 4 lotes de 40,
+compartiendo los consolidados de LBRL y LRJSP ya descargados.
+
+| Lote | Tramo | Confirmadas | Corregidas | Rechazadas |
+|---|---|---|---|---|
+| A | Intervención administrativa: licencias, declaración responsable (arts. 84, 84 bis, 84 ter LBRL) | 40 | 0 | 0 |
+| B | Servicios públicos locales: formas de gestión, iniciativa económica (arts. 85, 85 bis, 85 ter, 86 LBRL) | 40 | 0 | 0 |
+| C | Mancomunidades y consorcios (art. 44 LBRL; arts. 118-127 LRJSP) | 40 | 0 | 0 |
+| D | Potestad sancionadora en abstracto, medios de intervención (arts. 4.1, 84.1 LBRL) | 40 | 0 | 0 |
+
+Notas:
+- El lote C detectó que el art. 87 LBRL (consorcios) está derogado desde el
+  2-oct-2016 por la Ley 40/2015; solo se hizo una pregunta sobre ese hecho,
+  el resto del bloque de consorcios se redactó directamente sobre la LRJSP
+  (arts. 118-127), que es donde vive ahora esa materia.
+- Los revisores de los lotes C y D terminaron su verificación pero
+  chocaron contra el **límite semanal de la API** (reinicio 2h UTC) justo
+  al escribir el archivo final; ambos habían guardado el `.revisado.json`
+  completo en disco antes del corte, así que no se perdió nada — se
+  fusionaron igual sin relanzar ningún agente.
+- No hay tema compatible en Policía Local para este contenido (su temario
+  no tiene un bloque equivalente a "actividad de las entidades locales"
+  en los temas 1-10), así que no se ha hecho importación cruzada.
+
 ## Tema 12 · Haciendas Locales I: recursos, tributos e impuestos municipales — PRIMERA VUELTA CERRADA
 
 **340 preguntas** (de 100 que había), todas de 4 opciones. Primer tema
