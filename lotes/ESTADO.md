@@ -6,6 +6,38 @@ un tema por tanda y con parada entre temas.
 El tema 21 queda **fuera del objetivo**: reproduce el examen oficial del
 1-jun-2025 y rellenarlo con preguntas generadas destruiría lo que lo hace útil.
 
+## Tema 7 · LPAC (IV): procedimiento común — PRIMERA VUELTA CERRADA
+
+**259 preguntas** (de 100 que había), todas de 4 opciones. 4 lotes de 40,
+compartiendo el consolidado de la LPAC ya descargado.
+
+| Lote | Tramo | Confirmadas | Corregidas | Rechazadas |
+|---|---|---|---|---|
+| A | Garantías e iniciación (arts. 53-69) | 39 | 0 | 0 (1 apartada por duplicado ya en el banco) |
+| B | Ordenación e instrucción (arts. 70-83) | 40 | 0 | 0 |
+| C | Terminación del procedimiento (arts. 84-95) | 40 | 0 | 0 |
+| D | Tramitación simplificada y ejecución forzosa (arts. 96-105) | 40 | 0 | 0 |
+
+Notas:
+- Los lotes A, C y D llegaron con la correcta siempre en la posición 0
+  (sesgo típico); se reequilibraron los tres antes de fusionar.
+- El lote D detectó dos errores en el banco original (no de este lote):
+  una pregunta titula el art. 97 LPAC como "Título ejecutivo" cuando el
+  consolidado dice solo "Título"; otra titula el art. 105 como
+  "Prohibición de interdictos" cuando es "Prohibición de acciones
+  posesorias". Pendientes de corregir en una futura pasada sobre el banco
+  original (mismo tipo de fallo que el art. 26.3 del tema 14 o los de
+  numeración del tema 13, sin urgencia).
+- El lote C encontró que el art. 85 LPAC tiene una tercera aparición en el
+  documento (dentro de una disposición final que modifica la Ley de la
+  Jurisdicción Social, nada que ver con la LPAC) que podría haber
+  confundido a un script que tomara "la última aparición" sin comprobar
+  el contexto — quedó documentado para tenerlo en cuenta en el futuro.
+
+**Aprovechado para Policía Local**: las 259 preguntas se redujeron a 3
+opciones y se volcaron al tema 4, sin agentes adicionales — 0 duplicadas.
+Banco de Policía Local: de 2.820 a **3.079 preguntas**.
+
 ## Tema 1 · La Constitución — depurado contra las bases oficiales reales (12-ago-2026)
 
 El usuario pidió comprobar si el tema 1 respeta el alcance real de la

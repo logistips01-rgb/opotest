@@ -1,0 +1,2953 @@
+{
+  "4": [
+    {
+      "q": "Según el art. 53.1 a), los interesados tienen derecho a conocer, en cualquier momento, el estado de la tramitación de los procedimientos, así como:",
+      "options": [
+        "El sentido del silencio administrativo que corresponda, el órgano competente para instruir y resolver, y los actos de trámite dictados",
+        "El nombre completo de todos los funcionarios del organismo",
+        "El presupuesto anual de la Administración actuante"
+      ],
+      "correct": 0,
+      "exp": "Art. 53.1 a): derecho a conocer el estado de la tramitación, el sentido del silencio administrativo, el órgano competente para instrucción y resolución, y los actos de trámite dictados."
+    },
+    {
+      "q": "Según el art. 53.1, los interesados también tienen derecho a acceder y obtener:",
+      "options": [
+        "Una indemnización automática por cualquier retraso",
+        "Copia de los documentos contenidos en los procedimientos en que tengan la condición de interesados",
+        "Una compensación económica por daños morales"
+      ],
+      "correct": 1,
+      "exp": "Art. 53.1: 'también tendrán derecho a acceder y a obtener copia de los documentos contenidos en los citados procedimientos.'"
+    },
+    {
+      "q": "Según el art. 53.1, los interesados que se relacionen electrónicamente con la Administración pueden consultar esa información en:",
+      "options": [
+        "Únicamente en las oficinas de Correos",
+        "El Boletín Oficial del Estado en papel",
+        "El Punto de Acceso General electrónico de la Administración"
+      ],
+      "correct": 2,
+      "exp": "Art. 53.1: quienes se relacionen electrónicamente tendrán derecho a consultar dicha información en el Punto de Acceso General electrónico de la Administración."
+    },
+    {
+      "q": "El art. 53 de la Ley 39/2015 se titula:",
+      "options": [
+        "Derechos del interesado en el procedimiento administrativo",
+        "Derechos de las personas en sus relaciones con las Administraciones Públicas",
+        "Clases de iniciación"
+      ],
+      "correct": 0,
+      "exp": "El art. 53 lleva por título 'Derechos del interesado en el procedimiento administrativo' y abre el Capítulo I del Título IV, 'Garantías del procedimiento'."
+    },
+    {
+      "q": "Según el art. 53.1, los interesados tienen derecho a formular alegaciones y a aportar documentos en cualquier fase del procedimiento anterior a:",
+      "options": [
+        "La resolución del recurso de alzada, únicamente",
+        "El trámite de audiencia, que serán tenidos en cuenta al redactar la propuesta de resolución",
+        "El acuerdo de iniciación, exclusivamente"
+      ],
+      "correct": 1,
+      "exp": "Art. 53.1 e): derecho 'a formular alegaciones y a aportar documentos en cualquier fase del procedimiento anterior al trámite de audiencia, que deberán ser tenidos en cuenta por el órgano competente al redactar la propuesta de resolución.'"
+    },
+    {
+      "q": "Según el art. 53.1, los interesados tienen derecho a actuar asistidos de asesor cuando:",
+      "options": [
+        "Se trate de un procedimiento de más de un año de duración",
+        "Lo exija expresamente la Administración",
+        "Lo consideren conveniente en defensa de sus intereses"
+      ],
+      "correct": 2,
+      "exp": "Art. 53.1: derecho 'a actuar asistidos de asesor cuando lo consideren conveniente en defensa de sus intereses.'"
+    },
+    {
+      "q": "El Capítulo I del Título IV de la Ley 39/2015 se titula:",
+      "options": [
+        "Garantías del procedimiento",
+        "Iniciación del procedimiento",
+        "Ordenación del procedimiento"
+      ],
+      "correct": 0,
+      "exp": "El Capítulo I del Título IV lleva por título 'Garantías del procedimiento' y comprende únicamente el art. 53."
+    },
+    {
+      "q": "Según el art. 54, ¿de cuántas formas puede iniciarse el procedimiento administrativo?",
+      "options": [
+        "Solo a solicitud del interesado",
+        "De dos formas: de oficio o a solicitud del interesado",
+        "De tres formas: de oficio, a instancia y por sentencia judicial"
+      ],
+      "correct": 1,
+      "exp": "Art. 54: 'Los procedimientos podrán iniciarse de oficio o a solicitud del interesado.'"
+    },
+    {
+      "q": "El art. 54 de la Ley 39/2015 se titula:",
+      "options": [
+        "Información y actuaciones previas",
+        "Acumulación",
+        "Clases de iniciación"
+      ],
+      "correct": 2,
+      "exp": "El art. 54 lleva por título 'Clases de iniciación' y abre la Sección 1ª del Capítulo II del Título IV."
+    },
+    {
+      "q": "El art. 55 de la Ley 39/2015 se titula:",
+      "options": [
+        "Información y actuaciones previas",
+        "Clases de iniciación",
+        "Medidas provisionales"
+      ],
+      "correct": 0,
+      "exp": "El art. 55 lleva por título 'Información y actuaciones previas'."
+    },
+    {
+      "q": "Según el art. 55, antes de la iniciación del procedimiento, el órgano competente puede abrir un período de:",
+      "options": [
+        "Sanción provisional inmediata",
+        "Información previa, con el fin de conocer las circunstancias del caso y la conveniencia de iniciar el procedimiento",
+        "Ejecución forzosa preventiva"
+      ],
+      "correct": 1,
+      "exp": "Art. 55: se prevé la posibilidad de abrir un período de información previa con el fin de conocer las circunstancias del caso concreto y la conveniencia o no de iniciar el procedimiento."
+    },
+    {
+      "q": "El art. 56 de la Ley 39/2015 se titula:",
+      "options": [
+        "Acumulación",
+        "Iniciación de oficio",
+        "Medidas provisionales"
+      ],
+      "correct": 2,
+      "exp": "El art. 56 lleva por título 'Medidas provisionales'."
+    },
+    {
+      "q": "Según el art. 56, el órgano administrativo puede adoptar medidas provisionales, antes de la iniciación del procedimiento, en casos de:",
+      "options": [
+        "Urgencia y para la protección provisional de los intereses implicados",
+        "Cualquier tipo de procedimiento sin excepción",
+        "Procedimientos con más de tres interesados"
+      ],
+      "correct": 0,
+      "exp": "Art. 56.1: el órgano competente podrá adoptar las medidas provisionales que resulten necesarias y proporcionadas, en los casos de urgencia inaplazable, para la protección provisional de los intereses implicados."
+    },
+    {
+      "q": "El art. 57 de la Ley 39/2015 se titula:",
+      "options": [
+        "Clases de iniciación",
+        "Acumulación",
+        "Iniciación de oficio"
+      ],
+      "correct": 1,
+      "exp": "El art. 57 lleva por título 'Acumulación'."
+    },
+    {
+      "q": "Según el art. 57, el órgano administrativo puede acordar la acumulación de procedimientos cuando:",
+      "options": [
+        "Los interesados residan en el mismo municipio",
+        "Se hayan iniciado en el mismo mes del año",
+        "Guarden identidad sustancial o íntima conexión"
+      ],
+      "correct": 2,
+      "exp": "Art. 57.1: 'El órgano administrativo que inicie o tramite un procedimiento, cualquiera que haya sido la forma de su iniciación, podrá disponer su acumulación a otros con los que guarde identidad sustancial o íntima conexión.'"
+    },
+    {
+      "q": "Según el art. 57.2, contra el acuerdo de acumulación de procedimientos:",
+      "options": [
+        "No cabrá recurso alguno",
+        "Cabe recurso de alzada en todo caso",
+        "Cabe recurso extraordinario de revisión"
+      ],
+      "correct": 0,
+      "exp": "Art. 57.2: 'Contra el acuerdo de acumulación... no cabrá recurso alguno.'"
+    },
+    {
+      "q": "La Sección 1ª del Capítulo II del Título IV, 'Disposiciones generales' sobre la iniciación, comprende los artículos:",
+      "options": [
+        "66 al 69",
+        "54 al 57",
+        "70 al 74"
+      ],
+      "correct": 1,
+      "exp": "La Sección 1ª ('Disposiciones generales') del Capítulo II ('Iniciación del procedimiento') abarca los artículos 54 a 57."
+    },
+    {
+      "q": "Según el art. 58, los procedimientos se inician de oficio por acuerdo del órgano competente, ya sea:",
+      "options": [
+        "Únicamente por propia iniciativa",
+        "Exclusivamente a petición de otro ciudadano",
+        "Por propia iniciativa, como consecuencia de orden superior, a petición razonada de otros órganos, o por denuncia"
+      ],
+      "correct": 2,
+      "exp": "Art. 58: 'Los procedimientos se iniciarán de oficio por acuerdo del órgano competente, bien por propia iniciativa o como consecuencia de orden superior, a petición razonada de otros órganos o por denuncia.'"
+    },
+    {
+      "q": "El art. 58 de la Ley 39/2015 se titula:",
+      "options": [
+        "Iniciación de oficio",
+        "Inicio del procedimiento por denuncia",
+        "Clases de iniciación"
+      ],
+      "correct": 0,
+      "exp": "El art. 58 lleva por título 'Iniciación de oficio' y abre la Sección 2ª del Capítulo II."
+    },
+    {
+      "q": "Según el art. 62, se entiende por denuncia:",
+      "options": [
+        "Un recurso administrativo contra un acto firme",
+        "El acto por el que cualquier persona, en cumplimiento o no de una obligación legal, pone en conocimiento de un órgano administrativo la existencia de un hecho que pudiera justificar la iniciación de oficio de un procedimiento",
+        "Un escrito de alegaciones en fase de instrucción"
+      ],
+      "correct": 1,
+      "exp": "Art. 62.1: 'Se entiende por denuncia el acto por el que cualquier persona, en cumplimiento o no de una obligación legal, pone en conocimiento de un órgano administrativo la existencia de un determinado hecho que pudiera justificar la iniciación de oficio de un procedimiento administrativo.'"
+    },
+    {
+      "q": "El art. 62 de la Ley 39/2015 se titula:",
+      "options": [
+        "Inicio del procedimiento por petición razonada de otros órganos",
+        "Inicio del procedimiento como consecuencia de orden superior",
+        "Inicio del procedimiento por denuncia"
+      ],
+      "correct": 2,
+      "exp": "El art. 62 lleva por título 'Inicio del procedimiento por denuncia'."
+    },
+    {
+      "q": "El art. 64 de la Ley 39/2015 se titula:",
+      "options": [
+        "Acuerdo de iniciación en los procedimientos de naturaleza sancionadora",
+        "Especialidades en el inicio de los procedimientos sancionadores",
+        "Inicio del procedimiento por denuncia"
+      ],
+      "correct": 0,
+      "exp": "El art. 64 lleva por título 'Acuerdo de iniciación en los procedimientos de naturaleza sancionadora'."
+    },
+    {
+      "q": "Según el art. 64, el acuerdo de iniciación de un procedimiento sancionador debe contener, entre otros elementos:",
+      "options": [
+        "Únicamente la firma del alcalde",
+        "La identificación de la persona presuntamente responsable, los hechos, su posible calificación y las sanciones que pudieran corresponder",
+        "El importe exacto de la sanción ya calculada de forma definitiva"
+      ],
+      "correct": 1,
+      "exp": "Art. 64.2 exige que el acuerdo de iniciación contenga, entre otros extremos, la identificación de la persona presuntamente responsable, los hechos que motivan la incoación, su posible calificación y las sanciones que pudieran corresponder."
+    },
+    {
+      "q": "La Sección 2ª del Capítulo II del Título IV, sobre iniciación de oficio, comprende los artículos:",
+      "options": [
+        "66 al 69",
+        "75 al 76",
+        "58 al 65"
+      ],
+      "correct": 2,
+      "exp": "La Sección 2ª ('Iniciación del procedimiento de oficio por la administración') abarca los artículos 58 a 65."
+    },
+    {
+      "q": "El art. 66 de la Ley 39/2015 se titula:",
+      "options": [
+        "Solicitudes de iniciación",
+        "Presentación de solicitudes",
+        "Subsanación y mejora de la solicitud"
+      ],
+      "correct": 0,
+      "exp": "El art. 66 lleva por título 'Solicitudes de iniciación' y abre la Sección 3ª del Capítulo II, sobre iniciación a solicitud del interesado."
+    },
+    {
+      "q": "Según el art. 66, entre los datos que debe contener toda solicitud dirigida a las AAPP se encuentran:",
+      "options": [
+        "Únicamente el DNI del interesado",
+        "Nombre y apellidos del interesado, identificación del medio electrónico o lugar para notificaciones, hechos y razones de la petición, y lugar y fecha",
+        "La fotografía del interesado"
+      ],
+      "correct": 1,
+      "exp": "Art. 66.1 exige, entre otros extremos: nombre y apellidos del interesado, identificación del medio o lugar para notificaciones, hechos, razones y petición, lugar y fecha, firma y órgano al que se dirige."
+    },
+    {
+      "q": "Según el art. 66.4, las Administraciones Públicas deben establecer modelos y sistemas de presentación masiva para:",
+      "options": [
+        "Solo procedimientos sancionadores",
+        "Solo procedimientos de responsabilidad patrimonial",
+        "Procedimientos que impliquen la resolución numerosa de una serie de procedimientos"
+      ],
+      "correct": 2,
+      "exp": "Art. 66.4 prevé el establecimiento de modelos normalizados para procedimientos que impliquen la resolución numerosa de una serie de procedimientos."
+    },
+    {
+      "q": "El art. 68 de la Ley 39/2015 se titula:",
+      "options": [
+        "Subsanación y mejora de la solicitud",
+        "Presentación de solicitudes",
+        "Solicitudes de iniciación"
+      ],
+      "correct": 0,
+      "exp": "El art. 68 lleva por título 'Subsanación y mejora de la solicitud'."
+    },
+    {
+      "q": "Según el art. 68.1, si la solicitud no reúne los requisitos exigidos, se requerirá al interesado para que la subsane en un plazo de:",
+      "options": [
+        "Tres días hábiles",
+        "Diez días, con indicación de que si no lo hace se le tendrá por desistido",
+        "Seis meses, como cualquier otro plazo general"
+      ],
+      "correct": 1,
+      "exp": "Art. 68.1: 'se requerirá al interesado para que, en un plazo de diez días, subsane la falta o acompañe los documentos preceptivos, con indicación de que, si así no lo hiciera, se le tendrá por desistido de su petición.'"
+    },
+    {
+      "q": "La Sección 3ª del Capítulo II del Título IV, sobre iniciación a solicitud del interesado, comprende los artículos:",
+      "options": [
+        "58 al 65",
+        "70 al 74",
+        "66 al 69"
+      ],
+      "correct": 2,
+      "exp": "La Sección 3ª ('Iniciación del procedimiento a solicitud del interesado') abarca los artículos 66 a 69."
+    },
+    {
+      "q": "El Capítulo II del Título IV, 'Iniciación del procedimiento', comprende en su conjunto los artículos:",
+      "options": [
+        "54 al 69",
+        "70 al 74",
+        "75 al 96"
+      ],
+      "correct": 0,
+      "exp": "El Capítulo II del Título IV ('Iniciación del procedimiento') abarca los artículos 54 a 69, distribuidos en tres secciones."
+    },
+    {
+      "q": "El art. 70 de la Ley 39/2015 se titula:",
+      "options": [
+        "Concurrencia de procedimientos",
+        "Expediente administrativo",
+        "Cuestiones incidentales"
+      ],
+      "correct": 1,
+      "exp": "El art. 70 lleva por título 'Expediente administrativo' y abre el Capítulo III del Título IV, 'Ordenación del procedimiento'."
+    },
+    {
+      "q": "Según el art. 70, se entiende por expediente administrativo:",
+      "options": [
+        "Solo la resolución final del procedimiento",
+        "El acta de la última reunión del órgano colegiado",
+        "El conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución, así como las diligencias encaminadas a ejecutarla"
+      ],
+      "correct": 2,
+      "exp": "Art. 70.1: 'Se entiende por expediente administrativo el conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla.'"
+    },
+    {
+      "q": "Según el art. 70, el expediente administrativo se debe formar mediante:",
+      "options": [
+        "La agregación ordenada de cuantos documentos, pruebas, dictámenes, informes, acuerdos, notificaciones y demás diligencias deban integrarlo, en formato electrónico",
+        "Un resumen verbal del funcionario instructor",
+        "Fotografías del edificio administrativo"
+      ],
+      "correct": 0,
+      "exp": "Art. 70.2: el expediente administrativo se forma mediante la agregación de documentos, pruebas, dictámenes, informes, acuerdos, notificaciones y demás diligencias, en formato electrónico."
+    },
+    {
+      "q": "El art. 71 de la Ley 39/2015 se titula:",
+      "options": [
+        "Expediente administrativo",
+        "Impulso",
+        "Cuestiones incidentales"
+      ],
+      "correct": 1,
+      "exp": "El art. 71 lleva por título 'Impulso'."
+    },
+    {
+      "q": "Según el art. 71.1, el procedimiento se impulsará de oficio en:",
+      "options": [
+        "Solo los trámites de iniciación",
+        "Solo los trámites solicitados por el interesado",
+        "Todos sus trámites"
+      ],
+      "correct": 2,
+      "exp": "Art. 71.1: 'El procedimiento, sometido al criterio de celeridad, se impulsará de oficio en todos sus trámites y a través de medios electrónicos.'"
+    },
+    {
+      "q": "El Capítulo III del Título IV, 'Ordenación del procedimiento', comprende los artículos:",
+      "options": [
+        "70 al 74",
+        "75 al 83",
+        "84 al 95"
+      ],
+      "correct": 0,
+      "exp": "El Capítulo III del Título IV ('Ordenación del procedimiento') abarca los artículos 70 a 74."
+    },
+    {
+      "q": "El art. 75 de la Ley 39/2015 se titula:",
+      "options": [
+        "Medios y período de prueba",
+        "Actos de instrucción",
+        "Práctica de prueba"
+      ],
+      "correct": 1,
+      "exp": "El art. 75 lleva por título 'Actos de instrucción' y abre el Capítulo IV del Título IV, 'Instrucción del procedimiento'."
+    },
+    {
+      "q": "Según el art. 75.1, los actos de instrucción necesarios para la determinación, conocimiento y comprobación de los datos se realizarán:",
+      "options": [
+        "Únicamente a instancia del interesado",
+        "Solo en presencia de un notario",
+        "De oficio por el órgano que tramite el procedimiento"
+      ],
+      "correct": 2,
+      "exp": "Art. 75.1: 'Los actos de instrucción necesarios para la determinación, conocimiento y comprobación de los datos en virtud de los cuales deba pronunciarse la resolución, se realizarán de oficio por el órgano que tramite el procedimiento.'"
+    },
+    {
+      "q": "El art. 76 de la Ley 39/2015 se titula:",
+      "options": [
+        "Alegaciones",
+        "Actos de instrucción",
+        "Petición de informes"
+      ],
+      "correct": 0,
+      "exp": "El art. 76 lleva por título 'Alegaciones'."
+    },
+    {
+      "q": "Según el art. 76.1, los interesados pueden, en cualquier momento del procedimiento anterior al trámite de audiencia, aducir alegaciones y aportar documentos u otros elementos de:",
+      "options": [
+        "Prueba pericial obligatoria",
+        "Juicio",
+        "Testificación notarial"
+      ],
+      "correct": 1,
+      "exp": "Art. 76.1: 'Los interesados podrán, en cualquier momento del procedimiento anterior al trámite de audiencia, aducir alegaciones y aportar documentos u otros elementos de juicio.'"
+    },
+    {
+      "q": "Según el art. 76.2, los interesados pueden en cualquier momento del procedimiento alegar los defectos de tramitación y, en especial, los que suponen:",
+      "options": [
+        "Un incremento del coste del procedimiento",
+        "Una modificación en el organigrama de la Administración",
+        "Paralización, infracción de plazos legalmente señalados u omisión de trámites"
+      ],
+      "correct": 2,
+      "exp": "Art. 76.2: los interesados pueden alegar los defectos de tramitación y, en especial, los que supongan paralización, infracción de los plazos señalados o la omisión de trámites que puedan ser subsanados antes de la resolución definitiva."
+    },
+    {
+      "q": "El art. 77 de la Ley 39/2015 se titula:",
+      "options": [
+        "Medios y período de prueba",
+        "Práctica de prueba",
+        "Emisión de informes"
+      ],
+      "correct": 0,
+      "exp": "El art. 77 lleva por título 'Medios y período de prueba' y abre la Sección 2ª (Prueba) del Capítulo IV."
+    },
+    {
+      "q": "Según el art. 77, los hechos relevantes para la decisión de un procedimiento pueden acreditarse por:",
+      "options": [
+        "Únicamente prueba documental notarial",
+        "Cualquier medio de prueba admisible en Derecho",
+        "Exclusivamente mediante informe pericial oficial"
+      ],
+      "correct": 1,
+      "exp": "Art. 77.1: 'los hechos relevantes para la decisión de un procedimiento... podrán acreditarse por cualquier medio de prueba admisible en Derecho.'"
+    },
+    {
+      "q": "Según el art. 77, cuando la Administración no tenga por ciertos los hechos alegados por los interesados o la naturaleza del procedimiento lo exija, el órgano instructor acordará la apertura de un período de prueba por un plazo:",
+      "options": [
+        "Fijo de quince días naturales",
+        "No inferior a un mes ni superior a seis meses",
+        "No inferior a diez días ni superior a treinta"
+      ],
+      "correct": 2,
+      "exp": "Art. 77.2: el período de prueba se fija por un plazo no superior a treinta días ni inferior a diez, según reconoce la doctrina y práctica administrativa sobre este artículo."
+    },
+    {
+      "q": "El art. 79 de la Ley 39/2015 se titula:",
+      "options": [
+        "Petición",
+        "Emisión de informes",
+        "Medios y período de prueba"
+      ],
+      "correct": 0,
+      "exp": "El art. 79 lleva por título 'Petición' y abre la Sección 3ª (Informes) del Capítulo IV."
+    },
+    {
+      "q": "Según el art. 79, a efectos de la resolución del procedimiento, se solicitarán:",
+      "options": [
+        "Solo informes emitidos por un Ministerio",
+        "Los informes que sean preceptivos por disposiciones legales, y los que se juzguen necesarios para resolver, citando el precepto que los exija o fundamentando su conveniencia",
+        "Informes exclusivamente de carácter verbal"
+      ],
+      "correct": 1,
+      "exp": "Art. 79.1: se solicitarán los informes que sean preceptivos por las disposiciones legales, y los que se juzguen necesarios para resolver, citándose el precepto que los exija o fundamentando la conveniencia de reclamarlos."
+    },
+    {
+      "q": "El art. 80 de la Ley 39/2015 se titula:",
+      "options": [
+        "Solicitud de informes y dictámenes en responsabilidad patrimonial",
+        "Trámite de audiencia",
+        "Emisión de informes"
+      ],
+      "correct": 2,
+      "exp": "El art. 80 lleva por título 'Emisión de informes'."
+    },
+    {
+      "q": "Según el art. 80, salvo disposición expresa en contrario, los informes serán:",
+      "options": [
+        "Facultativos y no vinculantes",
+        "Siempre preceptivos y vinculantes",
+        "Vinculantes únicamente si son favorables al interesado"
+      ],
+      "correct": 0,
+      "exp": "Art. 80.1: 'Salvo disposición expresa en contrario, los informes serán facultativos y no vinculantes.'"
+    },
+    {
+      "q": "Según el art. 80, salvo disposición expresa en contrario, los informes deben ser emitidos en el plazo de:",
+      "options": [
+        "Tres meses",
+        "Diez días",
+        "Cinco días hábiles"
+      ],
+      "correct": 1,
+      "exp": "Art. 80.2: 'Salvo disposición expresa en contrario, los informes serán emitidos en el plazo de diez días.'"
+    },
+    {
+      "q": "El art. 82 de la Ley 39/2015 se titula:",
+      "options": [
+        "Información pública",
+        "Alegaciones",
+        "Trámite de audiencia"
+      ],
+      "correct": 2,
+      "exp": "El art. 82 lleva por título 'Trámite de audiencia' y abre la Sección 4ª (Participación de los interesados) del Capítulo IV."
+    },
+    {
+      "q": "Según el art. 82, instruidos los procedimientos, e inmediatamente antes de redactar la propuesta de resolución, se pondrán de manifiesto a los interesados o, en su caso, a sus representantes, para que en un plazo:",
+      "options": [
+        "No inferior a diez días ni superior a quince, puedan alegar y presentar documentos y justificaciones",
+        "Fijo de treinta días naturales improrrogables",
+        "No inferior a un mes ni superior a tres"
+      ],
+      "correct": 0,
+      "exp": "Art. 82.2: 'Los interesados, en un plazo no inferior a diez días ni superior a quince, podrán alegar y presentar los documentos y justificaciones que estimen pertinentes.'"
+    },
+    {
+      "q": "Según el art. 82, la audiencia a los interesados debe ser anterior a la solicitud del informe del órgano de asesoramiento jurídico o a la solicitud del Dictamen del:",
+      "options": [
+        "Tribunal Constitucional",
+        "Consejo de Estado u órgano consultivo equivalente de la CCAA, si formara parte del procedimiento",
+        "Defensor del Pueblo"
+      ],
+      "correct": 1,
+      "exp": "Art. 82: 'La audiencia a los interesados será anterior a la solicitud del informe del órgano competente para el asesoramiento jurídico o a la solicitud del Dictamen del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma.'"
+    },
+    {
+      "q": "Según el art. 82, si antes del vencimiento del plazo los interesados manifiestan su decisión de no efectuar alegaciones ni aportar nuevos documentos, ¿qué ocurre con el trámite de audiencia?",
+      "options": [
+        "El procedimiento se declara caducado automáticamente",
+        "Se debe repetir el trámite obligatoriamente",
+        "Se tendrá por realizado el trámite"
+      ],
+      "correct": 2,
+      "exp": "Art. 82.4 (según práctica habitual de este artículo): si antes del vencimiento del plazo los interesados manifiestan su decisión de no efectuar alegaciones ni aportar nuevos documentos o pruebas, se tendrá por realizado el trámite."
+    },
+    {
+      "q": "El art. 83 de la Ley 39/2015 se titula:",
+      "options": [
+        "Información pública",
+        "Alegaciones",
+        "Terminación"
+      ],
+      "correct": 0,
+      "exp": "El art. 83 lleva por título 'Información pública' y cierra el Capítulo IV del Título IV."
+    },
+    {
+      "q": "Según el art. 83, cuando la naturaleza del procedimiento lo requiera, el órgano competente puede acordar un período de información pública, anunciándolo en:",
+      "options": [
+        "Un tablón de anuncios de un bar cercano",
+        "El diario oficial correspondiente, para que cualquier persona física o jurídica pueda examinar el expediente",
+        "Redes sociales privadas exclusivamente"
+      ],
+      "correct": 1,
+      "exp": "Art. 83.1: 'El órgano al que corresponda la resolución del procedimiento, cuando la naturaleza de éste lo requiera, podrá acordar un período de información pública... anunciándose en el diario oficial correspondiente.'"
+    },
+    {
+      "q": "El Capítulo IV del Título IV, 'Instrucción del procedimiento', comprende los artículos:",
+      "options": [
+        "70 al 74",
+        "84 al 95",
+        "75 al 83"
+      ],
+      "correct": 2,
+      "exp": "El Capítulo IV del Título IV ('Instrucción del procedimiento') abarca los artículos 75 a 83, distribuidos en cuatro secciones (actos de instrucción y alegaciones, prueba, informes, y participación de los interesados)."
+    },
+    {
+      "q": "El art. 84 de la Ley 39/2015 se titula:",
+      "options": [
+        "Terminación",
+        "Terminación en los procedimientos sancionadores",
+        "Terminación convencional"
+      ],
+      "correct": 0,
+      "exp": "El art. 84 lleva por título 'Terminación' y abre el Capítulo V del Título IV, 'Finalización del procedimiento'."
+    },
+    {
+      "q": "Según el art. 84.1, ¿cuáles son las formas ordinarias de terminación del procedimiento según la Ley 39/2015?",
+      "options": [
+        "Únicamente la resolución expresa",
+        "La resolución, el desistimiento, la renuncia al derecho, la declaración de caducidad y la imposibilidad material de continuarlo por causas sobrevenidas",
+        "Exclusivamente el recurso de alzada"
+      ],
+      "correct": 1,
+      "exp": "Art. 84.1: pondrán fin al procedimiento la resolución, el desistimiento, la renuncia al derecho en que se funde la solicitud, la declaración de caducidad y la imposibilidad material de continuarlo por causas sobrevenidas."
+    },
+    {
+      "q": "El art. 86 de la Ley 39/2015 se titula:",
+      "options": [
+        "Terminación",
+        "Terminación en los procedimientos sancionadores",
+        "Terminación convencional"
+      ],
+      "correct": 2,
+      "exp": "El art. 86 lleva por título 'Terminación convencional'."
+    },
+    {
+      "q": "Según el art. 86, las AAPP pueden celebrar acuerdos, pactos, convenios o contratos con personas de derecho público o privado, siempre que:",
+      "options": [
+        "No sean contrarios al ordenamiento jurídico, ni versen sobre materias no susceptibles de transacción, y tengan por objeto satisfacer el interés público",
+        "Los acuerde exclusivamente el Consejo de Ministros",
+        "Se trate de contratos de obra pública exclusivamente"
+      ],
+      "correct": 0,
+      "exp": "Art. 86.1: las AAPP pueden celebrar acuerdos, pactos, convenios o contratos con personas de derecho público o privado, siempre que no sean contrarios al ordenamiento jurídico ni versen sobre materias no susceptibles de transacción."
+    },
+    {
+      "q": "El art. 87 de la Ley 39/2015 se titula:",
+      "options": [
+        "Propuesta de resolución en procedimientos sancionadores",
+        "Actuaciones complementarias",
+        "Terminación"
+      ],
+      "correct": 1,
+      "exp": "El art. 87 lleva por título 'Actuaciones complementarias' y abre la Sección 2ª (Resolución) del Capítulo V."
+    },
+    {
+      "q": "Según el art. 87, antes de dictar resolución, el órgano competente puede decidir, mediante acuerdo motivado, la realización de:",
+      "options": [
+        "Un nuevo procedimiento desde cero",
+        "Una auditoría económica externa",
+        "Las actuaciones complementarias indispensables para resolver el procedimiento"
+      ],
+      "correct": 2,
+      "exp": "Art. 87.1: 'Antes de dictar resolución, el órgano competente para resolver podrá decidir, mediante acuerdo motivado, la realización de las actuaciones complementarias indispensables para resolver el procedimiento.'"
+    },
+    {
+      "q": "El art. 88 de la Ley 39/2015 se titula:",
+      "options": [
+        "Contenido",
+        "Actuaciones complementarias",
+        "Terminación convencional"
+      ],
+      "correct": 0,
+      "exp": "El art. 88 lleva por título 'Contenido', referido al contenido de la resolución que pone fin al procedimiento."
+    },
+    {
+      "q": "Según el art. 88, la resolución que pone fin al procedimiento decidirá:",
+      "options": [
+        "Únicamente la cuestión de fondo principal, sin más",
+        "Todas las cuestiones planteadas por los interesados y aquellas otras derivadas del procedimiento",
+        "Solo aquello que expresamente pida el interesado por escrito notarial"
+      ],
+      "correct": 1,
+      "exp": "Art. 88.1: 'La resolución que ponga fin al procedimiento decidirá todas las cuestiones planteadas por los interesados y aquellas otras derivadas del mismo.'"
+    },
+    {
+      "q": "Según el art. 88, en los procedimientos tramitados a solicitud del interesado, la resolución será congruente con las peticiones formuladas, sin que en ningún caso pueda:",
+      "options": [
+        "Reconocer más derechos de los solicitados en ningún caso",
+        "Delegarse en un órgano de otra Comunidad Autónoma",
+        "Agravar su situación inicial, salvo determinadas excepciones legalmente previstas"
+      ],
+      "correct": 2,
+      "exp": "Art. 88.2: 'la resolución será congruente con las peticiones formuladas por éste, sin que en ningún caso pueda agravarse su situación inicial y sin perjuicio de la potestad de la Administración de incoar de oficio un nuevo procedimiento.'"
+    },
+    {
+      "q": "El art. 95 de la Ley 39/2015 se titula:",
+      "options": [
+        "Caducidad",
+        "Terminación",
+        "Resolución"
+      ],
+      "correct": 0,
+      "exp": "El art. 95 lleva por título 'Caducidad' y cierra el Capítulo V del Título IV."
+    },
+    {
+      "q": "Según el art. 95, cuando se produzca la paralización del procedimiento por causa imputable al interesado, la Administración le advertirá que, transcurridos:",
+      "options": [
+        "Un año, se remitirá el expediente al Defensor del Pueblo",
+        "Tres meses, se producirá la caducidad del mismo",
+        "Seis meses, se iniciará un expediente disciplinario"
+      ],
+      "correct": 1,
+      "exp": "Art. 95.1: 'transcurridos tres meses, se producirá la caducidad del mismo. Consumida ésta, el órgano administrativo acordará el archivo de las actuaciones.'"
+    },
+    {
+      "q": "Según el art. 95, la caducidad no producirá por sí sola:",
+      "options": [
+        "La nulidad de pleno derecho del procedimiento",
+        "La responsabilidad penal del funcionario instructor",
+        "La prescripción de las acciones del particular o de la Administración"
+      ],
+      "correct": 2,
+      "exp": "Art. 95.3: 'La caducidad no producirá por sí sola la prescripción de las acciones del particular o de la Administración, pero los procedimientos caducados no interrumpirán el plazo de prescripción.'"
+    },
+    {
+      "q": "El Capítulo V del Título IV, 'Finalización del procedimiento', comprende los artículos:",
+      "options": [
+        "84 al 95",
+        "75 al 83",
+        "97 al 105"
+      ],
+      "correct": 0,
+      "exp": "El Capítulo V del Título IV ('Finalización del procedimiento') abarca los artículos 84 a 95."
+    },
+    {
+      "q": "El art. 96 de la Ley 39/2015 regula:",
+      "options": [
+        "La ejecución forzosa de los actos administrativos",
+        "La tramitación simplificada del procedimiento administrativo común",
+        "La revisión de oficio de los actos"
+      ],
+      "correct": 1,
+      "exp": "El art. 96, que forma el Capítulo VI del Título IV, regula 'La tramitación simplificada del procedimiento administrativo común'."
+    },
+    {
+      "q": "Según el art. 96, en la tramitación simplificada del procedimiento administrativo común, el plazo máximo para resolver y notificar será de:",
+      "options": [
+        "Tres meses",
+        "Quince días naturales",
+        "Treinta días"
+      ],
+      "correct": 2,
+      "exp": "Art. 96.4 (según se recoge también en el preámbulo de la Ley): 'salvo que una norma permita un plazo superior o inferior... el órgano competente para la tramitación simplificada del procedimiento deberá resolver en el plazo de treinta días.'"
+    },
+    {
+      "q": "Según el art. 96, la Administración puede acordar de oficio o a solicitud del interesado la tramitación simplificada de un procedimiento cuando existan razones de interés público o falta de:",
+      "options": [
+        "Complejidad del procedimiento",
+        "Presupuesto asignado",
+        "Antecedentes documentales suficientes"
+      ],
+      "correct": 0,
+      "exp": "Art. 96.1: la Administración puede acordar la tramitación simplificada cuando existan razones de interés público o de falta de complejidad del procedimiento."
+    },
+    {
+      "q": "Según el art. 96, si el interesado solicita la tramitación simplificada de un procedimiento, ¿puede la Administración oponerse?",
+      "options": [
+        "No, la solicitud del interesado es siempre vinculante",
+        "Sí, la Administración deberá resolver sobre la procedencia de dicha tramitación",
+        "Sí, pero solo si el interesado es persona jurídica"
+      ],
+      "correct": 1,
+      "exp": "Art. 96.1 in fine: cuando la tramitación simplificada se solicite por el interesado, la Administración deberá resolver sobre la procedencia de dicha tramitación."
+    },
+    {
+      "q": "El Capítulo VI del Título IV, 'Tramitación simplificada del procedimiento administrativo común', comprende:",
+      "options": [
+        "Los artículos 96 a 105",
+        "Los artículos 97 al 105",
+        "Únicamente el artículo 96"
+      ],
+      "correct": 2,
+      "exp": "El Capítulo VI del Título IV se compone de un único artículo, el 96, dedicado a la tramitación simplificada."
+    },
+    {
+      "q": "El art. 97 de la Ley 39/2015 se titula:",
+      "options": [
+        "Título ejecutivo",
+        "Ejecutoriedad",
+        "Ejecución forzosa"
+      ],
+      "correct": 0,
+      "exp": "El art. 97 lleva por título 'Título ejecutivo' y abre el Capítulo VII del Título IV, 'Ejecución'."
+    },
+    {
+      "q": "Según el art. 97, los actos administrativos que impongan obligaciones deben ser cumplidos por los obligados, constituyendo:",
+      "options": [
+        "Un simple documento informativo sin fuerza ejecutiva",
+        "Título para la ejecución forzosa por parte de la Administración",
+        "Un contrato civil entre partes"
+      ],
+      "correct": 1,
+      "exp": "Art. 97.1: 'Los actos administrativos serán ejecutivos con arreglo a lo dispuesto en el artículo 38, y llevan aparejada la potestad de ejecución forzosa, salvo que se disponga la suspensión de la ejecución.'"
+    },
+    {
+      "q": "El art. 100 de la Ley 39/2015 se titula:",
+      "options": [
+        "Título ejecutivo",
+        "Ejecución forzosa",
+        "Medios de ejecución forzosa"
+      ],
+      "correct": 2,
+      "exp": "El art. 100 lleva por título 'Medios de ejecución forzosa'."
+    },
+    {
+      "q": "Según el art. 100, ¿cuál de los siguientes NO es un medio de ejecución forzosa previsto en la Ley 39/2015?",
+      "options": [
+        "La confiscación total del patrimonio del deudor sin límite",
+        "Apremio sobre el patrimonio, ejecución subsidiaria, multa coercitiva y compulsión sobre las personas",
+        "La ejecución subsidiaria por parte de terceros a cargo del obligado"
+      ],
+      "correct": 0,
+      "exp": "El art. 100 enumera como medios de ejecución forzosa: apremio sobre el patrimonio, ejecución subsidiaria, multa coercitiva y compulsión sobre las personas; no existe la 'confiscación total sin límite', que sería contraria al principio de proporcionalidad."
+    },
+    {
+      "q": "El art. 101 de la Ley 39/2015 se titula:",
+      "options": [
+        "Ejecución subsidiaria",
+        "Apremio sobre el patrimonio",
+        "Compulsión sobre las personas"
+      ],
+      "correct": 1,
+      "exp": "El art. 101 lleva por título 'Apremio sobre el patrimonio'."
+    },
+    {
+      "q": "Según el art. 101, si en virtud de acto administrativo hubiera de satisfacerse cantidad líquida, se seguirá el procedimiento previsto en:",
+      "options": [
+        "Un juicio civil ordinario",
+        "La legislación penal aplicable",
+        "Las normas reguladoras del procedimiento recaudatorio en vía ejecutiva"
+      ],
+      "correct": 2,
+      "exp": "Art. 101: 'Si en virtud de acto administrativo hubiera de satisfacerse cantidad líquida se seguirá el procedimiento previsto en las normas reguladoras del procedimiento recaudatorio en vía ejecutiva.'"
+    },
+    {
+      "q": "El art. 102 de la Ley 39/2015 se titula:",
+      "options": [
+        "Ejecución subsidiaria",
+        "Apremio sobre el patrimonio",
+        "Prohibición de interdictos"
+      ],
+      "correct": 0,
+      "exp": "El art. 102 lleva por título 'Ejecución subsidiaria'."
+    },
+    {
+      "q": "Según el art. 102, en la ejecución subsidiaria, las AAPP realizan el acto por sí o a través de las personas que determinen, a costa de:",
+      "options": [
+        "La propia Administración en todo caso",
+        "El obligado",
+        "Un fondo estatal específico"
+      ],
+      "correct": 1,
+      "exp": "Art. 102.1: en caso de ejecución subsidiaria, las Administraciones Públicas realizarán el acto, por sí o a través de las personas que determinen, a costa del obligado."
+    },
+    {
+      "q": "El art. 103 de la Ley 39/2015 se titula:",
+      "options": [
+        "Ejecución subsidiaria",
+        "Compulsión sobre las personas",
+        "Multa coercitiva"
+      ],
+      "correct": 2,
+      "exp": "El art. 103 lleva por título 'Multa coercitiva'."
+    },
+    {
+      "q": "Según el art. 103, las AAPP pueden imponer multas coercitivas, reiteradas por lapsos de tiempo suficientes para cumplir lo ordenado, cuando así lo autoricen:",
+      "options": [
+        "Las leyes, en la forma y cuantía que estas determinen",
+        "Cualquier reglamento municipal sin necesidad de ley",
+        "El propio funcionario instructor libremente"
+      ],
+      "correct": 0,
+      "exp": "Art. 103.1: 'cuando así lo autoricen las Leyes, y en la forma y cuantía que éstas determinen, las Administraciones Públicas pueden, para la ejecución de determinados actos, imponer multas coercitivas.'"
+    },
+    {
+      "q": "El art. 104 de la Ley 39/2015 se titula:",
+      "options": [
+        "Ejecución subsidiaria",
+        "Compulsión sobre las personas",
+        "Prohibición de interdictos"
+      ],
+      "correct": 1,
+      "exp": "El art. 104 lleva por título 'Compulsión sobre las personas'."
+    },
+    {
+      "q": "Según el art. 104, los actos administrativos que impongan una obligación personalísima de no hacer o soportar podrán ejecutarse por compulsión directa sobre las personas cuando:",
+      "options": [
+        "La Administración lo decida discrecionalmente sin ley que lo autorice",
+        "Se trate de un procedimiento de más de un año de duración",
+        "Una ley expresamente lo autorice, y siempre dentro del respeto debido a su dignidad y a los derechos reconocidos en la Constitución"
+      ],
+      "correct": 2,
+      "exp": "Art. 104.1: la compulsión sobre las personas procede cuando la Ley expresamente lo autorice y dentro siempre del respeto debido a su dignidad y a los derechos reconocidos en la Constitución."
+    },
+    {
+      "q": "El art. 105 de la Ley 39/2015 se titula:",
+      "options": [
+        "Prohibición de interdictos",
+        "Compulsión sobre las personas",
+        "Ejecución subsidiaria"
+      ],
+      "correct": 0,
+      "exp": "El art. 105 lleva por título 'Prohibición de interdictos' y cierra el Título IV de la Ley 39/2015."
+    },
+    {
+      "q": "Según el art. 105, no se admitirán a trámite acciones interdictales frente a:",
+      "options": [
+        "Cualquier acto administrativo, sin excepción alguna",
+        "Las actuaciones de los órganos administrativos realizadas en materia de su competencia y de acuerdo con el procedimiento legalmente establecido",
+        "Las sentencias judiciales firmes"
+      ],
+      "correct": 1,
+      "exp": "Art. 105: 'No se admitirán a trámite acciones interdictales contra las actuaciones de los órganos administrativos realizadas en materia de su competencia y de acuerdo con el procedimiento legalmente establecido.'"
+    },
+    {
+      "q": "El Capítulo VII del Título IV, 'Ejecución', comprende los artículos:",
+      "options": [
+        "84 al 95",
+        "70 al 74",
+        "97 al 105"
+      ],
+      "correct": 2,
+      "exp": "El Capítulo VII del Título IV ('Ejecución') abarca los artículos 97 a 105."
+    },
+    {
+      "q": "¿Cuántos capítulos componen el Título IV de la Ley 39/2015, 'De las disposiciones sobre el procedimiento administrativo común'?",
+      "options": [
+        "Siete",
+        "Cinco",
+        "Diez"
+      ],
+      "correct": 0,
+      "exp": "El Título IV se estructura en siete capítulos: Garantías, Iniciación, Ordenación, Instrucción, Finalización, Tramitación simplificada, y Ejecución."
+    },
+    {
+      "q": "¿Qué artículos comprende en su totalidad el Título IV de la Ley 39/2015?",
+      "options": [
+        "Del 106 al 126",
+        "Del 53 al 105",
+        "Del 13 al 33"
+      ],
+      "correct": 1,
+      "exp": "El Título IV, 'De las disposiciones sobre el procedimiento administrativo común', comprende los artículos 53 a 105."
+    },
+    {
+      "q": "Según el art. 61 (dentro de la Sección 2ª del Capítulo II), la petición razonada para iniciar un procedimiento de oficio proviene de:",
+      "options": [
+        "Cualquier ciudadano sin más requisitos",
+        "Un juez de instrucción exclusivamente",
+        "Otros órganos que no tienen competencia para iniciar el procedimiento por sí mismos"
+      ],
+      "correct": 2,
+      "exp": "Art. 61 regula el inicio del procedimiento por petición razonada de otros órganos que, sin competencia para iniciarlo, consideran necesaria su incoación."
+    },
+    {
+      "q": "Según el art. 65, ¿qué especialidad prevé la Ley para el inicio de oficio de los procedimientos de responsabilidad patrimonial?",
+      "options": [
+        "Se exige que existan indicios suficientes de la responsabilidad para acordar la iniciación de oficio",
+        "No existe ninguna especialidad, se rige por las normas generales sin matices",
+        "Solo pueden iniciarse a solicitud del perjudicado, nunca de oficio"
+      ],
+      "correct": 0,
+      "exp": "El art. 65 regula las especialidades en el inicio de oficio de los procedimientos de responsabilidad patrimonial de las Administraciones Públicas."
+    },
+    {
+      "q": "Según el art. 78, la práctica de la prueba debe ajustarse a las reglas generales, comunicando a los interesados, con antelación suficiente, el lugar y:",
+      "options": [
+        "El coste económico exacto de la prueba",
+        "Fecha y hora en que ha de practicarse la prueba",
+        "La ubicación exacta del archivo del expediente"
+      ],
+      "correct": 1,
+      "exp": "Art. 78.1: al acordar la práctica de la prueba, se debe comunicar a los interesados con suficiente antelación el lugar, fecha y hora en que se va a practicar, para que puedan, si lo desean, asistir a la misma."
+    },
+    {
+      "q": "Según el art. 81, en los procedimientos de responsabilidad patrimonial, ¿cuándo es preceptivo solicitar dictamen del Consejo de Estado u órgano consultivo equivalente?",
+      "options": [
+        "Nunca, ese dictamen no existe en responsabilidad patrimonial",
+        "Solo cuando el reclamante sea una persona jurídica",
+        "Cuando la cuantía reclamada u otra circunstancia legalmente prevista así lo determine"
+      ],
+      "correct": 2,
+      "exp": "El art. 81 regula la solicitud de informes y dictámenes en los procedimientos de responsabilidad patrimonial, siendo preceptivo el del Consejo de Estado u órgano equivalente en los supuestos que la normativa determine (p. ej., cuantías elevadas)."
+    },
+    {
+      "q": "Según el art. 85, en los procedimientos sancionadores, además de las causas generales de terminación, se prevé de forma específica:",
+      "options": [
+        "El pago voluntario en cualquier momento anterior a la resolución, que puede implicar la terminación del procedimiento en los términos que se establezcan",
+        "La imposibilidad de terminar nunca antes de agotarse todos los recursos",
+        "La obligación de indemnizar siempre a la Administración por el coste del expediente"
+      ],
+      "correct": 0,
+      "exp": "El art. 85 regula especialidades de terminación en procedimientos sancionadores, incluyendo el reconocimiento de responsabilidad o el pago voluntario, que pueden dar lugar a la terminación del procedimiento."
+    },
+    {
+      "q": "Según el art. 92 (dentro de la Sección 2ª del Capítulo V), ¿a qué se refiere la competencia para resolver los procedimientos de responsabilidad patrimonial?",
+      "options": [
+        "A la composición del Consejo de Ministros",
+        "A determinar el órgano competente para dictar la resolución en este tipo de procedimientos",
+        "Al procedimiento de elaboración de reglamentos"
+      ],
+      "correct": 1,
+      "exp": "El art. 92 regula la competencia para la resolución de los procedimientos de responsabilidad patrimonial, dentro de la Sección 2ª (Resolución) del Capítulo V del Título IV."
+    },
+    {
+      "q": "Según los arts. 93 y 94, dentro de la Sección 3ª del Capítulo V, ¿qué instituciones jurídicas se regulan?",
+      "options": [
+        "La revisión de oficio y los recursos administrativos",
+        "La tramitación simplificada del procedimiento",
+        "El desistimiento y la renuncia como formas de terminación del procedimiento"
+      ],
+      "correct": 2,
+      "exp": "La Sección 3ª del Capítulo V ('Desistimiento y renuncia') comprende los artículos 93 y 94, que regulan estas dos formas de terminación del procedimiento a instancia del interesado."
+    },
+    {
+      "q": "Según el art. 84.2, cuando se produzca la satisfacción extraprocesal de las pretensiones del interesado, ¿qué debe hacer la Administración?",
+      "options": [
+        "Declarar concluso el procedimiento por desaparición sobrevenida del objeto",
+        "Continuar el procedimiento como si nada hubiera ocurrido",
+        "Trasladar el expediente a otra Comunidad Autónoma"
+      ],
+      "correct": 0,
+      "exp": "Art. 84.2 (en relación con el art. 84.1): la desaparición sobrevenida del objeto del procedimiento, como la satisfacción extraprocesal, determina que se declare concluso el procedimiento."
+    },
+    {
+      "q": "¿Cómo define el artículo 70.1 LPAC el expediente administrativo?",
+      "options": [
+        "El conjunto de documentos electrónicos remitidos por los interesados durante la instrucción del procedimiento",
+        "El conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla",
+        "El documento único que contiene la propuesta de resolución y el informe preceptivo del órgano instructor"
+      ],
+      "correct": 1,
+      "exp": "El art. 70.1 LPAC define el expediente administrativo como el conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución, así como las diligencias encaminadas a ejecutarla.",
+      "fuente": "Art. 70.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 70.3 LPAC, cuando en virtud de una norma sea preciso remitir el expediente electrónico, ¿cómo debe enviarse?",
+      "options": [
+        "Resumido en un informe único suscrito por el órgano instructor, sin incluir los documentos originales",
+        "Sin índice, bastando la comunicación verbal al órgano competente sobre el contenido del expediente",
+        "Completo, foliado, autentificado y acompañado de un índice, asimismo autentificado, de los documentos que contenga"
+      ],
+      "correct": 2,
+      "exp": "El art. 70.3 LPAC exige que el expediente electrónico se envíe completo, foliado, autentificado y acompañado de un índice autentificado de los documentos que contenga.",
+      "fuente": "Art. 70.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "De acuerdo con el art. 70.4 LPAC, ¿qué información no formará parte del expediente administrativo, salvo que se trate de informes preceptivos y facultativos solicitados antes de la resolución?",
+      "options": [
+        "La información de carácter auxiliar o de apoyo, como notas, borradores, opiniones, resúmenes o comunicaciones e informes internos",
+        "Las notificaciones practicadas a los interesados durante la tramitación del procedimiento",
+        "Los documentos aportados por los interesados en el trámite de alegaciones"
+      ],
+      "correct": 0,
+      "exp": "El art. 70.4 LPAC excluye del expediente la información de carácter auxiliar o de apoyo (notas, borradores, opiniones, resúmenes, comunicaciones e informes internos, juicios de valor), salvo informes preceptivos y facultativos previos a la resolución.",
+      "fuente": "Art. 70.4 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 71.1 LPAC establece que el procedimiento, sometido al principio de celeridad, se impulsará...",
+      "options": [
+        "a instancia de parte en todos sus trámites y siempre por escrito",
+        "de oficio en todos sus trámites y a través de medios electrónicos, respetando los principios de transparencia y publicidad",
+        "de oficio únicamente en los trámites de prueba, quedando el resto a instancia de parte"
+      ],
+      "correct": 1,
+      "exp": "El art. 71.1 LPAC dispone que el procedimiento, sometido al principio de celeridad, se impulsará de oficio en todos sus trámites y a través de medios electrónicos.",
+      "fuente": "Art. 71.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 71.2 LPAC, el incumplimiento del orden riguroso de incoación en asuntos de homogénea naturaleza dará lugar a...",
+      "options": [
+        "la nulidad de pleno derecho de todo lo actuado en el expediente correspondiente",
+        "la obligación de indemnizar al interesado con cargo al presupuesto del órgano instructor",
+        "la exigencia de responsabilidad disciplinaria del infractor y, en su caso, será causa de remoción del puesto de trabajo"
+      ],
+      "correct": 2,
+      "exp": "El art. 71.2 LPAC señala que el incumplimiento del orden de incoación dará lugar a responsabilidad disciplinaria del infractor y, en su caso, será causa de remoción del puesto de trabajo.",
+      "fuente": "Art. 71.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Quiénes son responsables directos de la tramitación del procedimiento y, en especial, del cumplimiento de los plazos, según el art. 71.3 LPAC?",
+      "options": [
+        "Las personas designadas como órgano instructor o, en su caso, los titulares de las unidades administrativas que tengan atribuida tal función",
+        "Exclusivamente el titular de la Administración Pública que tramite el procedimiento",
+        "El Consejo de Estado o el órgano consultivo equivalente de la Comunidad Autónoma"
+      ],
+      "correct": 0,
+      "exp": "El art. 71.3 LPAC atribuye la responsabilidad directa de la tramitación y del cumplimiento de los plazos a las personas designadas como órgano instructor o, en su caso, a los titulares de las unidades administrativas con tal función.",
+      "fuente": "Art. 71.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 72.1 LPAC dispone que, de acuerdo con el principio de simplificación administrativa, se acordarán en un solo acto...",
+      "options": [
+        "todos los trámites del procedimiento, aunque su cumplimiento deba ser necesariamente sucesivo",
+        "todos los trámites que, por su naturaleza, admitan un impulso simultáneo y no sea obligado su cumplimiento sucesivo",
+        "los trámites que soliciten los interesados, siempre que exista acuerdo expreso de todas las partes"
+      ],
+      "correct": 1,
+      "exp": "El art. 72.1 LPAC (concentración de trámites) ordena acordar en un solo acto todos los trámites que admitan un impulso simultáneo y no sea obligado su cumplimiento sucesivo.",
+      "fuente": "Art. 72.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 72.2 LPAC, al solicitar los trámites que deban ser cumplidos por otros órganos, ¿qué debe consignarse en la comunicación cursada?",
+      "options": [
+        "La identidad completa de todos los interesados en el procedimiento",
+        "La fecha prevista de resolución definitiva del procedimiento",
+        "El plazo legal establecido al efecto"
+      ],
+      "correct": 2,
+      "exp": "El art. 72.2 LPAC exige consignar en la comunicación cursada a otros órganos el plazo legal establecido para el trámite solicitado.",
+      "fuente": "Art. 72.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 73.1 LPAC, ¿en qué plazo deben realizarse los trámites que deban ser cumplimentados por los interesados, salvo que la norma fije plazo distinto?",
+      "options": [
+        "Diez días a partir del siguiente al de la notificación del correspondiente acto",
+        "Quince días hábiles desde la fecha de presentación de la solicitud inicial",
+        "Veinte días desde la publicación del anuncio en el diario oficial correspondiente"
+      ],
+      "correct": 0,
+      "exp": "El art. 73.1 LPAC fija en diez días, a partir del siguiente al de la notificación del acto correspondiente, el plazo general de cumplimiento de trámites por los interesados.",
+      "fuente": "Art. 73.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Cuando la Administración considere que un acto de los interesados no reúne los requisitos necesarios, según el art. 73.2 LPAC debe...",
+      "options": [
+        "remitir el expediente al órgano superior para que resuelva sobre la subsanación",
+        "ponerlo en conocimiento de su autor, concediéndole un plazo de diez días para cumplimentarlo",
+        "suspender el procedimiento hasta que el interesado solicite expresamente la subsanación"
+      ],
+      "correct": 1,
+      "exp": "El art. 73.2 LPAC obliga a poner en conocimiento del autor el defecto observado, concediéndole un plazo de diez días para cumplimentarlo.",
+      "fuente": "Art. 73.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 73.3 LPAC prevé que a los interesados que no cumplan los plazos de cumplimiento de trámites se les podrá...",
+      "options": [
+        "declarar decaídos en su derecho al trámite correspondiente sin posibilidad alguna de subsanación posterior",
+        "imponer una sanción pecuniaria equivalente al coste del trámite no cumplimentado en plazo",
+        "declarar decaídos en su derecho al trámite correspondiente, admitiéndose no obstante su actuación si se produce antes o dentro del día en que se notifique la resolución que tenga por transcurrido el plazo"
+      ],
+      "correct": 2,
+      "exp": "El art. 73.3 LPAC permite declarar decaído al interesado en su derecho al trámite, pero admite su actuación tardía si se produce antes o dentro del día en que se notifique la resolución que da por transcurrido el plazo.",
+      "fuente": "Art. 73.3 LPAC",
+      "confianza": "alta",
+      "correccion": "Se corrigió options[0] (respuesta correcta) para incluir el supuesto 'o dentro del día' que la ley contempla junto a 'antes de que se notifique', evitando que la opción restrinja el alcance real del art. 73.3 LPAC."
+    },
+    {
+      "q": "Según el art. 74 LPAC, las cuestiones incidentales que se susciten en el procedimiento, incluidas las relativas a la nulidad de actuaciones...",
+      "options": [
+        "no suspenderán la tramitación del mismo, salvo la recusación",
+        "suspenderán siempre la tramitación del procedimiento hasta su resolución",
+        "deberán resolverse antes de iniciar cualquier acto de instrucción"
+      ],
+      "correct": 0,
+      "exp": "El art. 74 LPAC establece como regla general que las cuestiones incidentales no suspenden la tramitación del procedimiento, con la única excepción de la recusación.",
+      "fuente": "Art. 74 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "De acuerdo con el art. 74 LPAC, ¿cuál es la única cuestión incidental que sí suspende la tramitación del procedimiento?",
+      "options": [
+        "La ampliación de plazos",
+        "La recusación",
+        "La subsanación de la solicitud"
+      ],
+      "correct": 1,
+      "exp": "El art. 74 LPAC exceptúa expresamente la recusación como la única cuestión incidental que suspende la tramitación.",
+      "fuente": "Art. 74 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 75.1 LPAC, los actos de instrucción necesarios para la determinación, conocimiento y comprobación de los hechos se realizarán...",
+      "options": [
+        "exclusivamente a instancia de los interesados, sin intervención de oficio del órgano instructor",
+        "por escrito y siempre por medios no electrónicos, salvo autorización expresa del interesado",
+        "de oficio y a través de medios electrónicos, por el órgano que tramite el procedimiento, sin perjuicio del derecho de los interesados a proponer actuaciones"
+      ],
+      "correct": 2,
+      "exp": "El art. 75.1 LPAC atribuye la realización de oficio y por medios electrónicos de los actos de instrucción al órgano que tramite el procedimiento, sin perjuicio del derecho de los interesados a proponer actuaciones.",
+      "fuente": "Art. 75.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 75.3 LPAC establece que los actos de instrucción que requieran la intervención de los interesados habrán de practicarse...",
+      "options": [
+        "en la forma que resulte más conveniente para ellos y sea compatible, en la medida de lo posible, con sus obligaciones laborales o profesionales",
+        "únicamente en horario de mañana, coincidiendo con el horario de atención al público de la oficina gestora",
+        "en el plazo máximo de tres días desde su señalamiento, sin posibilidad de aplazamiento"
+      ],
+      "correct": 0,
+      "exp": "El art. 75.3 LPAC exige practicar estos actos en la forma más conveniente para los interesados y compatible, en la medida de lo posible, con sus obligaciones laborales o profesionales.",
+      "fuente": "Art. 75.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 75.4 LPAC, el órgano instructor adoptará las medidas necesarias para lograr...",
+      "options": [
+        "la reducción del número de interesados que participan en el procedimiento",
+        "el pleno respeto a los principios de contradicción y de igualdad de los interesados en el procedimiento",
+        "la delegación de la instrucción en un órgano consultivo externo a la Administración"
+      ],
+      "correct": 1,
+      "exp": "El art. 75.4 LPAC obliga al órgano instructor a adoptar las medidas necesarias para el pleno respeto de los principios de contradicción e igualdad de los interesados.",
+      "fuente": "Art. 75.4 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 76.1 LPAC, las alegaciones y documentos aportados por los interesados antes del trámite de audiencia serán tenidos en cuenta por el órgano competente...",
+      "options": [
+        "solo cuando el procedimiento tenga naturaleza sancionadora",
+        "exclusivamente si se aportan a través de representante debidamente acreditado",
+        "al redactar la correspondiente propuesta de resolución"
+      ],
+      "correct": 2,
+      "exp": "El art. 76.1 LPAC establece que las alegaciones y documentos aportados serán tenidos en cuenta por el órgano competente al redactar la propuesta de resolución.",
+      "fuente": "Art. 76.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 76.2 LPAC permite a los interesados alegar en todo momento, en especial, los defectos de tramitación consistentes en...",
+      "options": [
+        "paralización, infracción de los plazos preceptivamente señalados o la omisión de trámites que pueden ser subsanados antes de la resolución definitiva",
+        "la falta de motivación de los actos de trámite que no producen indefensión",
+        "la incompetencia territorial del órgano que dictó el acuerdo de inicio, únicamente"
+      ],
+      "correct": 0,
+      "exp": "El art. 76.2 LPAC permite alegar en cualquier momento defectos de tramitación como paralización, infracción de plazos u omisión de trámites subsanables antes de la resolución.",
+      "fuente": "Art. 76.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 76.2 LPAC, las alegaciones sobre defectos de tramitación podrán dar lugar, si hubiere razones para ello, a...",
+      "options": [
+        "la nulidad de pleno derecho automática de todo el procedimiento",
+        "la exigencia de la correspondiente responsabilidad disciplinaria",
+        "la apertura inmediata de un período extraordinario de prueba"
+      ],
+      "correct": 1,
+      "exp": "El art. 76.2 LPAC señala que esas alegaciones podrán dar lugar, si hubiere razones para ello, a la exigencia de responsabilidad disciplinaria.",
+      "fuente": "Art. 76.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 77.1 LPAC, la valoración de los medios de prueba admisibles en Derecho se realizará de acuerdo con los criterios establecidos en...",
+      "options": [
+        "la Ley 39/2015, de 1 de octubre, exclusivamente en su título preliminar",
+        "el Código Civil, en las disposiciones relativas a la prueba documental pública",
+        "la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil"
+      ],
+      "correct": 2,
+      "exp": "El art. 77.1 LPAC remite a los criterios de valoración de la prueba de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil.",
+      "fuente": "Art. 77.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "De acuerdo con el art. 77.2 LPAC, el período de prueba ordinario no podrá ser superior a treinta días ni inferior a diez; a petición de los interesados, el instructor podrá decidir además la apertura de un período extraordinario...",
+      "options": [
+        "por un plazo no superior a diez días",
+        "por un plazo no superior a treinta días adicionales",
+        "por un plazo no superior a cinco días, improrrogable"
+      ],
+      "correct": 0,
+      "exp": "El art. 77.2 LPAC fija el período ordinario entre diez y treinta días, y permite un período extraordinario adicional no superior a diez días.",
+      "fuente": "Art. 77.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 77.3 LPAC, el instructor del procedimiento sólo podrá rechazar las pruebas propuestas por los interesados cuando...",
+      "options": [
+        "el plazo de instrucción del procedimiento ya hubiera concluido, sin necesidad de motivación",
+        "sean manifiestamente improcedentes o innecesarias, mediante resolución motivada",
+        "exista informe desfavorable no vinculante del órgano competente para resolver"
+      ],
+      "correct": 1,
+      "exp": "El art. 77.3 LPAC solo permite rechazar pruebas manifiestamente improcedentes o innecesarias, y exige que el rechazo se motive.",
+      "fuente": "Art. 77.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Cuando el interesado alegue discriminación y aporte indicios fundados sobre su existencia, el art. 77.3 bis LPAC atribuye la carga de la prueba a...",
+      "options": [
+        "el propio interesado que alega la discriminación, quien deberá probarla plenamente sin excepciones",
+        "el Ministerio Fiscal, que asumirá de oficio la instrucción de ese extremo del procedimiento",
+        "la persona a quien se impute la situación discriminatoria, que deberá aportar justificación objetiva y razonable, suficientemente probada, de las medidas adoptadas y su proporcionalidad"
+      ],
+      "correct": 2,
+      "exp": "El art. 77.3 bis LPAC (añadido por la Ley 15/2022) invierte la carga de la prueba: corresponde a la persona a quien se impute la discriminación justificar objetiva y razonablemente sus medidas.",
+      "fuente": "Art. 77.3 bis LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 77.5 LPAC, los documentos formalizados por funcionarios a los que se reconoce la condición de autoridad, observando los requisitos legales, harán prueba de los hechos constatados...",
+      "options": [
+        "salvo que se acredite lo contrario",
+        "de forma absoluta e inatacable, sin posibilidad de prueba en contrario",
+        "solo cuando el procedimiento tenga naturaleza tributaria"
+      ],
+      "correct": 0,
+      "exp": "El art. 77.5 LPAC establece una presunción de veracidad de esos documentos que admite prueba en contrario.",
+      "fuente": "Art. 77.5 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 78.1 LPAC exige que la Administración comunique a los interesados el inicio de las actuaciones necesarias para la práctica de las pruebas admitidas...",
+      "options": [
+        "con al menos treinta días naturales de antelación",
+        "con antelación suficiente",
+        "únicamente si el interesado lo solicita expresamente por escrito"
+      ],
+      "correct": 1,
+      "exp": "El art. 78.1 LPAC exige comunicar el inicio de las actuaciones de prueba con antelación suficiente, sin fijar un número concreto de días.",
+      "fuente": "Art. 78.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 78.2 LPAC, en la notificación de la práctica de la prueba se consignará el lugar, fecha y hora, con la advertencia, en su caso, de que...",
+      "options": [
+        "el interesado deberá comparecer asistido obligatoriamente de letrado",
+        "la prueba se practicará sin posibilidad de presencia del interesado",
+        "el interesado puede nombrar técnicos para que le asistan"
+      ],
+      "correct": 2,
+      "exp": "El art. 78.2 LPAC prevé que en la notificación se advierta, en su caso, de la posibilidad de nombrar técnicos que asistan al interesado.",
+      "fuente": "Art. 78.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Cuando, a petición del interesado, deban efectuarse pruebas cuya realización implique gastos que no deba soportar la Administración, el art. 78.3 LPAC permite a ésta...",
+      "options": [
+        "exigir el anticipo de los mismos, a reserva de la liquidación definitiva una vez practicada la prueba",
+        "denegar automáticamente la prueba solicitada por el interesado sin más trámite",
+        "repercutir los gastos en el resto de interesados del procedimiento, aunque no la hayan solicitado"
+      ],
+      "correct": 0,
+      "exp": "El art. 78.3 LPAC permite a la Administración exigir el anticipo de esos gastos, a reserva de la liquidación definitiva tras practicarse la prueba.",
+      "fuente": "Art. 78.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 79.1 LPAC, a efectos de la resolución del procedimiento se solicitarán los informes preceptivos por disposición legal y los que se juzguen necesarios para resolver...",
+      "options": [
+        "solo si lo solicita expresamente el interesado en el escrito de iniciación del procedimiento",
+        "citándose el precepto que los exija o fundamentando, en su caso, la conveniencia de reclamarlos",
+        "únicamente cuando el procedimiento tenga naturaleza sancionadora o de responsabilidad patrimonial"
+      ],
+      "correct": 1,
+      "exp": "El art. 79.1 LPAC exige citar el precepto que exige el informe preceptivo o fundamentar la conveniencia de reclamar el informe facultativo.",
+      "fuente": "Art. 79.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 79.2 LPAC establece que en la petición de informe...",
+      "options": [
+        "deberá adjuntarse necesariamente copia íntegra del expediente completo",
+        "bastará una referencia genérica al procedimiento, sin mayor concreción",
+        "se concretará el extremo o extremos acerca de los que se solicita"
+      ],
+      "correct": 2,
+      "exp": "El art. 79.2 LPAC exige concretar el extremo o extremos sobre los que se solicita el informe.",
+      "fuente": "Art. 79.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 80.1 LPAC, salvo disposición expresa en contrario, los informes serán...",
+      "options": [
+        "facultativos y no vinculantes",
+        "preceptivos y vinculantes en todo caso",
+        "facultativos pero vinculantes para el órgano competente"
+      ],
+      "correct": 0,
+      "exp": "El art. 80.1 LPAC establece como regla general que, salvo disposición expresa en contrario, los informes son facultativos y no vinculantes.",
+      "fuente": "Art. 80.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "De acuerdo con el art. 80.2 LPAC, los informes serán emitidos a través de medios electrónicos, en el plazo de...",
+      "options": [
+        "quince días hábiles, ampliable a treinta por causa justificada",
+        "diez días, salvo que una disposición o el cumplimiento del resto de plazos del procedimiento permita o exija otro plazo mayor o menor",
+        "cinco días, improrrogables bajo ninguna circunstancia"
+      ],
+      "correct": 1,
+      "exp": "El art. 80.2 LPAC fija en diez días el plazo general de emisión de informes por medios electrónicos, salvo que otra disposición o el resto de plazos del procedimiento exijan uno distinto.",
+      "fuente": "Art. 80.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 80.3 LPAC, si no se emite el informe en el plazo señalado, sin perjuicio de la responsabilidad del responsable de la demora, se podrán proseguir las actuaciones salvo...",
+      "options": [
+        "cuando el informe sea facultativo, en cuyo caso el procedimiento queda automáticamente caducado",
+        "cuando el informe proceda de un órgano de la misma Administración, en cuyo caso se prosigue siempre",
+        "cuando se trate de un informe preceptivo, en cuyo caso se podrá suspender el plazo máximo legal para resolver en los términos del art. 22.1.d) LPAC"
+      ],
+      "correct": 2,
+      "exp": "El art. 80.3 LPAC permite proseguir las actuaciones si no se emite el informe en plazo, salvo que sea preceptivo, caso en el que cabe suspender el plazo máximo para resolver conforme al art. 22.1.d) LPAC.",
+      "fuente": "Art. 80.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "En los procedimientos de responsabilidad patrimonial, el art. 81.1 LPAC exige solicitar informe preceptivo al servicio cuyo funcionamiento haya ocasionado la presunta lesión, sin que el plazo de su emisión pueda exceder de...",
+      "options": [
+        "diez días",
+        "veinte días",
+        "quince días"
+      ],
+      "correct": 0,
+      "exp": "El art. 81.1 LPAC limita a diez días el plazo de emisión del informe preceptivo del servicio causante de la presunta lesión.",
+      "fuente": "Art. 81.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 81.2 LPAC, será preceptivo solicitar dictamen del Consejo de Estado u órgano consultivo equivalente cuando las indemnizaciones reclamadas sean de cuantía igual o superior a...",
+      "options": [
+        "30.000 euros, en todo caso, con un plazo de emisión de un mes",
+        "50.000 euros, o a la que establezca la legislación autonómica correspondiente, debiendo emitirse el dictamen en el plazo de dos meses",
+        "100.000 euros, con un plazo de emisión de tres meses"
+      ],
+      "correct": 1,
+      "exp": "El art. 81.2 LPAC fija el umbral de 50.000 euros (o el que establezca la legislación autonómica) para el dictamen preceptivo del Consejo de Estado, que debe emitirse en dos meses.",
+      "fuente": "Art. 81.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 82.2 LPAC, en el trámite de audiencia los interesados podrán alegar y presentar documentos y justificaciones en un plazo...",
+      "options": [
+        "no inferior a quince días ni superior a veinte",
+        "no inferior a cinco días ni superior a diez",
+        "no inferior a diez días ni superior a quince"
+      ],
+      "correct": 2,
+      "exp": "El art. 82.2 LPAC fija el plazo del trámite de audiencia entre diez y quince días.",
+      "fuente": "Art. 82.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 82.4 LPAC permite prescindir del trámite de audiencia cuando...",
+      "options": [
+        "no figuren en el procedimiento ni sean tenidos en cuenta en la resolución otros hechos ni otras alegaciones y pruebas que las aducidas por el interesado",
+        "el procedimiento se tramite por el procedimiento simplificado, en todo caso",
+        "hayan transcurrido más de tres meses desde la iniciación del procedimiento"
+      ],
+      "correct": 0,
+      "exp": "El art. 82.4 LPAC permite prescindir de la audiencia cuando no figuren en el procedimiento ni se tengan en cuenta en la resolución hechos, alegaciones o pruebas distintos de los aducidos por el interesado.",
+      "fuente": "Art. 82.4 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 82.1 LPAC, la audiencia a los interesados será anterior a...",
+      "options": [
+        "la apertura del período de prueba, que en todo caso debe ser posterior a la audiencia",
+        "la solicitud del informe del órgano competente para el asesoramiento jurídico o la solicitud del Dictamen del Consejo de Estado u órgano consultivo equivalente, cuando formen parte del procedimiento",
+        "el acuerdo de iniciación del procedimiento, que debe dictarse tras la audiencia"
+      ],
+      "correct": 1,
+      "exp": "El art. 82.1 LPAC exige que la audiencia sea anterior a la solicitud del informe de asesoramiento jurídico o del Dictamen del Consejo de Estado, cuando estos formen parte del procedimiento.",
+      "fuente": "Art. 82.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 83.1 LPAC, el período de información pública podrá acordarse por el órgano al que corresponda la resolución del procedimiento...",
+      "options": [
+        "únicamente en los procedimientos sancionadores",
+        "solo a petición expresa de todos los interesados personados",
+        "cuando la naturaleza de éste lo requiera"
+      ],
+      "correct": 2,
+      "exp": "El art. 83.1 LPAC configura la información pública como potestativa, acordable cuando la naturaleza del procedimiento lo requiera.",
+      "fuente": "Art. 83.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 83.2 LPAC establece que el anuncio de información pública determinará el plazo para formular alegaciones, que en ningún caso podrá ser inferior a...",
+      "options": [
+        "veinte días",
+        "diez días",
+        "quince días"
+      ],
+      "correct": 0,
+      "exp": "El art. 83.2 LPAC fija en veinte días el plazo mínimo para formular alegaciones en el trámite de información pública.",
+      "fuente": "Art. 83.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 83.3 LPAC, la comparecencia en el trámite de información pública...",
+      "options": [
+        "otorga automáticamente la condición de interesado a quien comparece, con plenos derechos procedimentales",
+        "no otorga, por sí misma, la condición de interesado, aunque quienes presenten alegaciones tienen derecho a una respuesta razonada",
+        "impide a los interesados interponer los recursos procedentes contra la resolución definitiva"
+      ],
+      "correct": 1,
+      "exp": "El art. 83.3 LPAC aclara que comparecer en información pública no otorga por sí misma la condición de interesado, si bien da derecho a una respuesta razonada de la Administración.",
+      "fuente": "Art. 83.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 53.1 b) LPAC, los interesados en un procedimiento administrativo tienen derecho a identificar a las autoridades y al personal al servicio de las Administraciones Públicas:",
+      "options": [
+        "Que hayan resuelto expedientes similares en los últimos cinco años",
+        "Que hayan sido sancionados disciplinariamente con anterioridad",
+        "Bajo cuya responsabilidad se tramiten los procedimientos"
+      ],
+      "correct": 2,
+      "exp": "Art. 53.1 b): derecho a identificar a las autoridades y al personal al servicio de las Administraciones Públicas bajo cuya responsabilidad se tramiten los procedimientos.",
+      "fuente": "Art. 53.1.b) LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 53.1 c) LPAC, cuando excepcionalmente el interesado deba presentar un documento original, tiene derecho a obtener:",
+      "options": [
+        "Una copia autenticada de este",
+        "Una compensación económica por la molestia",
+        "La exención automática del pago de tasas"
+      ],
+      "correct": 0,
+      "exp": "Art. 53.1 c): a no presentar documentos originales salvo excepción normativa; si excepcionalmente debe presentarlo, tiene derecho a obtener una copia autenticada de este.",
+      "fuente": "Art. 53.1.c) LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 53.1 e) LPAC, los documentos que el interesado aporte antes del trámite de audiencia deberán ser tenidos en cuenta por el órgano competente al:",
+      "options": [
+        "Notificar la resolución definitiva ya firmada",
+        "Redactar la propuesta de resolución",
+        "Elevar consulta preceptiva al Consejo de Estado"
+      ],
+      "correct": 1,
+      "exp": "Art. 53.1 e): los documentos aportados en cualquier fase anterior al trámite de audiencia deberán ser tenidos en cuenta por el órgano competente al redactar la propuesta de resolución.",
+      "fuente": "Art. 53.1.e) LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 53.1 i) LPAC, además de los derechos enumerados expresamente en ese apartado, los interesados tienen derecho a:",
+      "options": [
+        "Únicamente los reconocidos por ordenanza municipal",
+        "Los que expresamente le conceda el instructor del procedimiento",
+        "Cualesquiera otros que les reconozcan la Constitución y las leyes"
+      ],
+      "correct": 2,
+      "exp": "Art. 53.1 i): cualesquiera otros derechos que reconozcan la Constitución y las leyes.",
+      "fuente": "Art. 53.1.i) LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 53.2 a) LPAC, en los procedimientos administrativos de naturaleza sancionadora, los presuntos responsables tienen derecho a ser notificados de los hechos que se les imputen, de las infracciones que puedan constituir y de las sanciones que se les pudieran imponer, así como de:",
+      "options": [
+        "La identidad del instructor, de la autoridad competente para imponer la sanción y de la norma que atribuya tal competencia",
+        "El importe exacto de la multa antes de iniciarse la instrucción",
+        "La fecha exacta en la que se dictará la resolución final"
+      ],
+      "correct": 0,
+      "exp": "Art. 53.2 a): derecho a ser notificado de los hechos imputados, infracciones y sanciones posibles, así como de la identidad del instructor, de la autoridad competente para sancionar y de la norma que atribuya tal competencia.",
+      "fuente": "Art. 53.2.a) LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 54 LPAC, los procedimientos administrativos podrán iniciarse:",
+      "options": [
+        "Solo a solicitud del interesado, salvo en materia sancionadora",
+        "De oficio o a solicitud del interesado",
+        "De oficio, a solicitud del interesado o por silencio administrativo"
+      ],
+      "correct": 1,
+      "exp": "Art. 54: 'Los procedimientos podrán iniciarse de oficio o a solicitud del interesado.'",
+      "fuente": "Art. 54 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 55.1 LPAC, el período de información o actuaciones previas que puede abrir el órgano competente antes del inicio del procedimiento tiene como finalidad:",
+      "options": [
+        "Notificar formalmente a todos los posibles interesados el inicio del expediente",
+        "Fijar de manera definitiva la cuantía de la sanción aplicable",
+        "Conocer las circunstancias del caso concreto y la conveniencia o no de iniciar el procedimiento"
+      ],
+      "correct": 2,
+      "exp": "Art. 55.1: el órgano competente puede abrir un período de información o actuaciones previas 'con el fin de conocer las circunstancias del caso concreto y la conveniencia o no de iniciar el procedimiento.'",
+      "fuente": "Art. 55.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 55.2 LPAC, las actuaciones previas en los procedimientos de naturaleza sancionadora serán realizadas, en primer término, por:",
+      "options": [
+        "Los órganos que tengan atribuidas funciones de investigación, averiguación e inspección en la materia",
+        "Un notario designado por la Administración",
+        "El Defensor del Pueblo con carácter preceptivo"
+      ],
+      "correct": 0,
+      "exp": "Art. 55.2: las actuaciones previas serán realizadas por los órganos que tengan atribuidas funciones de investigación, averiguación e inspección en la materia y, en defecto de estos, por la persona u órgano que determine el órgano competente para la iniciación o resolución.",
+      "fuente": "Art. 55.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 56.1 LPAC, una vez iniciado el procedimiento, el órgano competente para resolver podrá adoptar medidas provisionales para asegurar la eficacia de la resolución, de acuerdo con los principios de:",
+      "options": [
+        "Economía, celeridad y eficacia exclusivamente",
+        "Proporcionalidad, efectividad y menor onerosidad",
+        "Legalidad, jerarquía y coordinación"
+      ],
+      "correct": 1,
+      "exp": "Art. 56.1: las medidas provisionales que estime oportunas se adoptarán 'de acuerdo con los principios de proporcionalidad, efectividad y menor onerosidad.'",
+      "fuente": "Art. 56.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 56.2 LPAC, las medidas provisionales adoptadas antes de la iniciación del procedimiento deberán ser confirmadas, modificadas o levantadas en el acuerdo de iniciación, que deberá dictarse dentro de:",
+      "options": [
+        "Los diez días siguientes a su adopción",
+        "El mes siguiente a su adopción",
+        "Los quince días siguientes a su adopción"
+      ],
+      "correct": 2,
+      "exp": "Art. 56.2: las medidas provisionales previas deberán ser confirmadas, modificadas o levantadas en el acuerdo de iniciación, 'que deberá efectuarse dentro de los quince días siguientes a su adopción.'",
+      "fuente": "Art. 56.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Entre las medidas provisionales que, conforme al art. 56.3 LPAC, puede acordar la Administración se encuentra:",
+      "options": [
+        "La retirada o intervención de bienes productivos, o la suspensión temporal de servicios por razones de sanidad, higiene o seguridad",
+        "La suspensión cautelar de los derechos políticos del interesado",
+        "La publicación anticipada de la sanción en el Boletín Oficial antes de resolver"
+      ],
+      "correct": 0,
+      "exp": "Art. 56.3 c): entre las medidas provisionales previstas se encuentra la retirada o intervención de bienes productivos o suspensión temporal de servicios por razones de sanidad, higiene o seguridad.",
+      "fuente": "Art. 56.3.c) LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 57 LPAC, para que el órgano administrativo pueda disponer la acumulación de un procedimiento a otros con los que guarde identidad sustancial o íntima conexión, es necesario que:",
+      "options": [
+        "Todos los interesados lo soliciten expresamente por escrito",
+        "Sea el mismo órgano quien deba tramitar y resolver los procedimientos acumulados",
+        "Los procedimientos se hayan iniciado en la misma fecha exacta"
+      ],
+      "correct": 1,
+      "exp": "Art. 57: la acumulación procederá 'siempre que sea el mismo órgano quien deba tramitar y resolver el procedimiento.'",
+      "fuente": "Art. 57 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 58 LPAC, los procedimientos se iniciarán de oficio por acuerdo del órgano competente, bien por:",
+      "options": [
+        "Propia iniciativa exclusivamente, sin más vías posibles",
+        "Petición razonada de otros órganos exclusivamente",
+        "Propia iniciativa, como consecuencia de orden superior, a petición razonada de otros órganos, o por denuncia"
+      ],
+      "correct": 2,
+      "exp": "Art. 58: los procedimientos se iniciarán de oficio 'bien por propia iniciativa o como consecuencia de orden superior, a petición razonada de otros órganos o por denuncia.'",
+      "fuente": "Art. 58 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 59 LPAC, se entiende por «propia iniciativa» del órgano competente:",
+      "options": [
+        "La actuación derivada del conocimiento directo o indirecto de las circunstancias, conductas o hechos objeto del procedimiento por el órgano que tiene atribuida la competencia de iniciación",
+        "La actuación derivada exclusivamente de una denuncia anónima",
+        "La actuación derivada de una petición razonada de otro órgano"
+      ],
+      "correct": 0,
+      "exp": "Art. 59: 'Se entiende por propia iniciativa, la actuación derivada del conocimiento directo o indirecto de las circunstancias, conductas o hechos objeto del procedimiento por el órgano que tiene atribuida la competencia de iniciación.'",
+      "fuente": "Art. 59 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 60.1 LPAC, se entiende por «orden superior» la que da lugar a la iniciación del procedimiento:",
+      "options": [
+        "Emitida por cualquier órgano administrativo, sea o no superior jerárquico",
+        "Emitida por un órgano administrativo superior jerárquico del competente para la iniciación del procedimiento",
+        "Acordada por el propio interesado en su solicitud"
+      ],
+      "correct": 1,
+      "exp": "Art. 60.1: 'Se entiende por orden superior, la emitida por un órgano administrativo superior jerárquico del competente para la iniciación del procedimiento.'",
+      "fuente": "Art. 60.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 61.1 LPAC, se entiende por «petición razonada»:",
+      "options": [
+        "La denuncia anónima presentada por cualquier ciudadano",
+        "El informe preceptivo emitido por el órgano competente para resolver",
+        "La propuesta de iniciación del procedimiento formulada por un órgano administrativo que no tiene competencia para iniciarlo y que ha tenido conocimiento de los hechos"
+      ],
+      "correct": 2,
+      "exp": "Art. 61.1: 'Se entiende por petición razonada, la propuesta de iniciación del procedimiento formulada por cualquier órgano administrativo que no tiene competencia para iniciar el mismo y que ha tenido conocimiento de las circunstancias, conductas o hechos objeto del procedimiento.'",
+      "fuente": "Art. 61.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 61.2 LPAC, la petición razonada formulada por un órgano sin competencia para iniciar el procedimiento:",
+      "options": [
+        "No vincula al órgano competente para iniciarlo, si bien este deberá comunicar los motivos por los que, en su caso, no procede la iniciación",
+        "Vincula siempre al órgano competente, que está obligado a iniciar el procedimiento",
+        "Solo puede formularse una vez al año por cada órgano"
+      ],
+      "correct": 0,
+      "exp": "Art. 61.2: 'La petición no vincula al órgano competente para iniciar el procedimiento, si bien deberá comunicar al órgano que la hubiera formulado los motivos por los que, en su caso, no procede la iniciación.'",
+      "fuente": "Art. 61.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 62.2 LPAC, las denuncias deberán expresar:",
+      "options": [
+        "Únicamente el relato de los hechos, pudiendo ser anónimas siempre",
+        "La identidad de la persona o personas que las presentan y el relato de los hechos que se ponen en conocimiento de la Administración",
+        "El acta notarial que acredite la veracidad de los hechos"
+      ],
+      "correct": 1,
+      "exp": "Art. 62.2: 'Las denuncias deberán expresar la identidad de la persona o personas que las presentan y el relato de los hechos que se ponen en conocimiento de la Administración.'",
+      "fuente": "Art. 62.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 62.4 LPAC, el órgano competente para resolver deberá eximir al denunciante del pago de la multa que le correspondería cuando:",
+      "options": [
+        "Se limite a reconocer los hechos ante el instructor, sin aportar más pruebas",
+        "Sea funcionario público en el momento de presentar la denuncia",
+        "Sea el primero en aportar elementos de prueba que permitan iniciar el procedimiento o comprobar la infracción, sin que en ese momento existan elementos suficientes, y repare el perjuicio causado"
+      ],
+      "correct": 2,
+      "exp": "Art. 62.4: se eximirá de la multa al denunciante cuando sea el primero en aportar elementos de prueba que permitan iniciar el procedimiento o comprobar la infracción, no disponiéndose en ese momento de elementos suficientes, y se repare el perjuicio causado.",
+      "fuente": "Art. 62.4 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 62.5 LPAC, la presentación de una denuncia:",
+      "options": [
+        "No confiere, por sí sola, la condición de interesado en el procedimiento",
+        "Confiere automáticamente al denunciante la condición de interesado",
+        "Obliga a la Administración a iniciar el procedimiento en todo caso"
+      ],
+      "correct": 0,
+      "exp": "Art. 62.5: 'La presentación de una denuncia no confiere, por sí sola, la condición de interesado en el procedimiento.'",
+      "fuente": "Art. 62.5 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 63.1 LPAC, los procedimientos de naturaleza sancionadora se iniciarán siempre de oficio y establecerán la debida separación entre:",
+      "options": [
+        "La fase de alegaciones y la de prueba, encomendadas al mismo órgano",
+        "La fase instructora y la sancionadora, que se encomendará a órganos distintos",
+        "La fase de información previa y la de subsanación de la solicitud"
+      ],
+      "correct": 1,
+      "exp": "Art. 63.1: los procedimientos sancionadores 'establecerán la debida separación entre la fase instructora y la sancionadora, que se encomendará a órganos distintos.'",
+      "fuente": "Art. 63.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 64.2 d) LPAC, el acuerdo de iniciación de un procedimiento sancionador debe indicar la posibilidad de que el presunto responsable:",
+      "options": [
+        "Recuse al órgano competente para resolver sin ningún trámite",
+        "Sea sustituido por otro presunto responsable",
+        "Pueda reconocer voluntariamente su responsabilidad, con los efectos previstos en el artículo 85"
+      ],
+      "correct": 2,
+      "exp": "Art. 64.2 d): el acuerdo de iniciación debe indicar el órgano competente para resolver y la norma que le atribuye competencia, 'indicando la posibilidad de que el presunto responsable pueda reconocer voluntariamente su responsabilidad, con los efectos previstos en el artículo 85.'",
+      "fuente": "Art. 64.2.d) LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 64.2 f) LPAC, si el interesado no formula alegaciones en el plazo previsto sobre el contenido del acuerdo de iniciación de un procedimiento sancionador, este podrá ser considerado:",
+      "options": [
+        "Propuesta de resolución, cuando contenga un pronunciamiento preciso acerca de la responsabilidad imputada",
+        "Renuncia tácita del interesado a cualquier derecho",
+        "Causa automática de caducidad del procedimiento"
+      ],
+      "correct": 0,
+      "exp": "Art. 64.2 f): de no efectuarse alegaciones en plazo sobre el acuerdo de iniciación, este 'podrá ser considerado propuesta de resolución cuando contenga un pronunciamiento preciso acerca de la responsabilidad imputada.'",
+      "fuente": "Art. 64.2.f) LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 64.3 LPAC, cuando en el momento de dictar el acuerdo de iniciación no existan elementos suficientes para la calificación inicial de los hechos, dicha calificación podrá realizarse en una fase posterior mediante:",
+      "options": [
+        "Una nueva denuncia presentada por la propia Administración",
+        "La elaboración de un pliego de cargos, que deberá ser notificado a los interesados",
+        "Un decreto de alcaldía sin necesidad de notificación"
+      ],
+      "correct": 1,
+      "exp": "Art. 64.3: excepcionalmente, la calificación de los hechos podrá realizarse en fase posterior 'mediante la elaboración de un Pliego de cargos, que deberá ser notificado a los interesados.'",
+      "fuente": "Art. 64.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 65.1 LPAC, cuando las Administraciones Públicas decidan iniciar de oficio un procedimiento de responsabilidad patrimonial será necesario que:",
+      "options": [
+        "El interesado lo haya solicitado previamente por escrito",
+        "Exista sentencia judicial firme que declare la responsabilidad",
+        "No haya prescrito el derecho a la reclamación del interesado al que se refiere el artículo 67"
+      ],
+      "correct": 2,
+      "exp": "Art. 65.1: para iniciar de oficio un procedimiento de responsabilidad patrimonial es necesario que no haya prescrito el derecho a la reclamación del interesado al que se refiere el artículo 67.",
+      "fuente": "Art. 65.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 65.2 LPAC, el acuerdo de iniciación de oficio de un procedimiento de responsabilidad patrimonial se notificará a los particulares presuntamente lesionados, concediéndoles un plazo de:",
+      "options": [
+        "Diez días para que aporten alegaciones, documentos o información y propongan pruebas",
+        "Un mes para que se personen obligatoriamente, so pena de caducidad",
+        "Tres días, improrrogables"
+      ],
+      "correct": 0,
+      "exp": "Art. 65.2: el acuerdo de iniciación se notificará a los particulares presuntamente lesionados, 'concediéndoles un plazo de diez días para que aporten cuantas alegaciones, documentos o información estimen conveniente... y propongan cuantas pruebas sean pertinentes.'",
+      "fuente": "Art. 65.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 66.2 LPAC, cuando las pretensiones correspondientes a una pluralidad de personas tengan un contenido y fundamento idéntico o sustancialmente similar, estas:",
+      "options": [
+        "Deberán presentar necesariamente solicitudes separadas",
+        "Podrán formular una única solicitud, salvo que las normas reguladoras de los procedimientos específicos dispongan otra cosa",
+        "Solo podrán actuar a través de un procurador común"
+      ],
+      "correct": 1,
+      "exp": "Art. 66.2: cuando las pretensiones de una pluralidad de personas tengan contenido y fundamento idéntico o sustancialmente similar, 'podrán ser formuladas en una única solicitud, salvo que las normas reguladoras de los procedimientos específicos dispongan otra cosa.'",
+      "fuente": "Art. 66.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 66.3 LPAC, de las solicitudes, comunicaciones y escritos que los interesados presenten electrónicamente o en las oficinas de asistencia en materia de registros, estos podrán exigir:",
+      "options": [
+        "La resolución del procedimiento en el mismo acto",
+        "El nombre del funcionario que tramitará el expediente",
+        "El correspondiente recibo que acredite la fecha y hora de presentación"
+      ],
+      "correct": 2,
+      "exp": "Art. 66.3: de las solicitudes, comunicaciones y escritos presentados, los interesados 'podrán éstos exigir el correspondiente recibo que acredite la fecha y hora de presentación.'",
+      "fuente": "Art. 66.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 66.6 LPAC, cuando la Administración en un procedimiento concreto establezca expresamente modelos específicos de presentación de solicitudes, estos serán:",
+      "options": [
+        "De uso obligatorio por los interesados",
+        "De uso meramente orientativo, nunca obligatorio",
+        "Sustituibles siempre por un escrito libre del interesado"
+      ],
+      "correct": 0,
+      "exp": "Art. 66.6: 'Cuando la Administración en un procedimiento concreto establezca expresamente modelos específicos de presentación de solicitudes, éstos serán de uso obligatorio por los interesados.'",
+      "fuente": "Art. 66.6 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 67.1 LPAC, el derecho a reclamar en un procedimiento de responsabilidad patrimonial prescribirá:",
+      "options": [
+        "A los dos años de producido el hecho lesivo, sin excepciones",
+        "Al año de producido el hecho o el acto que motive la indemnización o se manifieste su efecto lesivo",
+        "A los seis meses de producido el hecho lesivo"
+      ],
+      "correct": 1,
+      "exp": "Art. 67.1: 'El derecho a reclamar prescribirá al año de producido el hecho o el acto que motive la indemnización o se manifieste su efecto lesivo.'",
+      "fuente": "Art. 67.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 67.2 LPAC, además de lo previsto en el art. 66, la solicitud de responsabilidad patrimonial deberá especificar, entre otros extremos:",
+      "options": [
+        "Únicamente el nombre del funcionario presuntamente responsable",
+        "El importe exacto que deberá satisfacer la Administración, sin posibilidad de discutirlo después",
+        "Las lesiones producidas, la presunta relación de causalidad con el funcionamiento del servicio público y la evaluación económica de la responsabilidad, si fuera posible"
+      ],
+      "correct": 2,
+      "exp": "Art. 67.2: la solicitud deberá especificar las lesiones producidas, la presunta relación de causalidad con el funcionamiento del servicio público, la evaluación económica de la responsabilidad patrimonial si fuera posible, y el momento en que la lesión se produjo.",
+      "fuente": "Art. 67.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 68.2 LPAC, el plazo de subsanación de la solicitud podrá ser ampliado prudencialmente hasta cinco días, a petición del interesado o a iniciativa del órgano, cuando la aportación de los documentos requeridos presente dificultades especiales, siempre que no se trate de:",
+      "options": [
+        "Procedimientos selectivos o de concurrencia competitiva",
+        "Procedimientos sancionadores en curso",
+        "Procedimientos iniciados de oficio"
+      ],
+      "correct": 0,
+      "exp": "Art. 68.2: 'Siempre que no se trate de procedimientos selectivos o de concurrencia competitiva, este plazo podrá ser ampliado prudencialmente, hasta cinco días.'",
+      "fuente": "Art. 68.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 68.3 LPAC, en los procedimientos iniciados a solicitud de los interesados, cuando el órgano competente recabe del solicitante la modificación o mejora voluntarias de los términos de aquella:",
+      "options": [
+        "Se archivará el expediente sin más trámite",
+        "Se levantará acta sucinta, que se incorporará al procedimiento",
+        "Se reiniciará el cómputo de todos los plazos del procedimiento"
+      ],
+      "correct": 1,
+      "exp": "Art. 68.3: cuando se recabe del solicitante la modificación o mejora voluntarias de la solicitud, 'de ello se levantará acta sucinta, que se incorporará al procedimiento.'",
+      "fuente": "Art. 68.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 68.4 LPAC, si un sujeto obligado a relacionarse electrónicamente con la Administración (art. 14.2 y 14.3) presenta su solicitud presencialmente, se le requerirá para que la subsane a través de su presentación electrónica, considerándose como fecha de presentación de la solicitud:",
+      "options": [
+        "La fecha en que se dicte la resolución del procedimiento",
+        "El día siguiente al de la notificación del requerimiento",
+        "Aquella en la que haya sido realizada la subsanación"
+      ],
+      "correct": 2,
+      "exp": "Art. 68.4: si el sujeto obligado presenta la solicitud presencialmente, se le requerirá para que la subsane electrónicamente, y 'se considerará como fecha de presentación de la solicitud aquella en la que haya sido realizada la subsanación.'",
+      "fuente": "Art. 68.4 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 69.1 LPAC, se entiende por «declaración responsable»:",
+      "options": [
+        "El documento suscrito por un interesado en el que manifiesta, bajo su responsabilidad, que cumple los requisitos establecidos para obtener el reconocimiento de un derecho o facultad, o para su ejercicio",
+        "El acto administrativo por el que la Administración reconoce expresamente un derecho al interesado",
+        "El documento por el que el interesado renuncia a un derecho ya reconocido"
+      ],
+      "correct": 0,
+      "exp": "Art. 69.1: la declaración responsable es el documento suscrito por un interesado en el que manifiesta, bajo su responsabilidad, que cumple los requisitos establecidos en la normativa vigente para obtener el reconocimiento de un derecho o facultad o para su ejercicio.",
+      "fuente": "Art. 69.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 69.2 LPAC, se entiende por «comunicación»:",
+      "options": [
+        "El documento por el que la Administración notifica al interesado el inicio de un procedimiento sancionador",
+        "El documento mediante el que los interesados ponen en conocimiento de la Administración Pública competente sus datos identificativos o cualquier otro dato relevante para el inicio de una actividad o el ejercicio de un derecho",
+        "El escrito por el que un órgano administrativo traslada un expediente a otro órgano"
+      ],
+      "correct": 1,
+      "exp": "Art. 69.2: se entiende por comunicación el documento mediante el que los interesados ponen en conocimiento de la Administración Pública competente sus datos identificativos o cualquier otro dato relevante para el inicio de una actividad o el ejercicio de un derecho.",
+      "fuente": "Art. 69.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 69.3 LPAC, las declaraciones responsables y las comunicaciones permitirán el reconocimiento o ejercicio de un derecho, o bien el inicio de una actividad:",
+      "options": [
+        "Únicamente a partir de que la Administración las valide expresamente",
+        "Transcurrido un mes desde su presentación sin oposición administrativa",
+        "Desde el día de su presentación, sin perjuicio de las facultades de comprobación, control e inspección que tengan atribuidas las Administraciones Públicas"
+      ],
+      "correct": 2,
+      "exp": "Art. 69.3: las declaraciones responsables y comunicaciones permitirán el reconocimiento o ejercicio de un derecho o el inicio de una actividad 'desde el día de su presentación, sin perjuicio de las facultades de comprobación, control e inspección que tengan atribuidas las Administraciones Públicas.'",
+      "fuente": "Art. 69.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 69.4 LPAC, la inexactitud, falsedad u omisión, de carácter esencial, de cualquier dato o información que se incorpore a una declaración responsable determinará:",
+      "options": [
+        "La imposibilidad de continuar con el ejercicio del derecho o actividad afectada desde el momento en que se tenga constancia de tales hechos",
+        "La nulidad de pleno derecho de todo el procedimiento, sin más consecuencias",
+        "La obligación automática de indemnizar a terceros, sin necesidad de procedimiento"
+      ],
+      "correct": 0,
+      "exp": "Art. 69.4: la inexactitud, falsedad u omisión esencial en una declaración responsable o comunicación determinará 'la imposibilidad de continuar con el ejercicio del derecho o actividad afectada desde el momento en que se tenga constancia de tales hechos, sin perjuicio de las responsabilidades penales, civiles o administrativas a que hubiera lugar.'",
+      "fuente": "Art. 69.4 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 69.6 LPAC, para iniciar una misma actividad u obtener el reconocimiento de un mismo derecho o facultad para su ejercicio:",
+      "options": [
+        "Será siempre exigible tanto la declaración responsable como la comunicación de forma acumulativa",
+        "Únicamente será exigible, bien una declaración responsable, bien una comunicación, sin que sea posible exigir ambas acumulativamente",
+        "Se exigirá, además, una autorización previa en todo caso"
+      ],
+      "correct": 1,
+      "exp": "Art. 69.6: 'Únicamente será exigible, bien una declaración responsable, bien una comunicación para iniciar una misma actividad u obtener el reconocimiento de un mismo derecho o facultad para su ejercicio, sin que sea posible la exigencia de ambas acumulativamente.'",
+      "fuente": "Art. 69.6 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 96.1 LPAC, ¿en qué momento puede el órgano competente para la tramitación simplificada acordar continuar con arreglo a la tramitación ordinaria?",
+      "options": [
+        "Solo dentro de los cinco primeros días del procedimiento",
+        "En cualquier momento, incluso después de haberse dictado la resolución",
+        "En cualquier momento del procedimiento anterior a su resolución"
+      ],
+      "correct": 2,
+      "exp": "El art. 96.1 LPAC establece que, en cualquier momento del procedimiento anterior a su resolución, el órgano competente para la tramitación podrá acordar continuar con arreglo a la tramitación ordinaria.",
+      "fuente": "Art. 96.1 LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 96.1 LPAC, la tramitación simplificada del procedimiento podrá acordarse, de oficio o a solicitud del interesado, cuando lo aconsejen razones de interés público o:",
+      "options": [
+        "La falta de complejidad del procedimiento",
+        "La escasa cuantía económica del asunto, en todo caso",
+        "La ausencia de recursos humanos en el órgano competente"
+      ],
+      "correct": 0,
+      "exp": "El art. 96.1 LPAC permite acordar la tramitación simplificada cuando razones de interés público o la falta de complejidad del procedimiento así lo aconsejen.",
+      "fuente": "Art. 96.1 LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 96.2 LPAC, cuando la Administración acuerde de oficio la tramitación simplificada y lo notifique a los interesados, si alguno de ellos manifiesta su oposición expresa, ¿qué debe hacer la Administración?",
+      "options": [
+        "Continuar igualmente con la tramitación simplificada",
+        "Seguir la tramitación ordinaria",
+        "Archivar el procedimiento sin más trámite"
+      ],
+      "correct": 1,
+      "exp": "El art. 96.2 LPAC dispone que si algún interesado manifiesta su oposición expresa a la tramitación simplificada acordada de oficio, la Administración deberá seguir la tramitación ordinaria.",
+      "fuente": "Art. 96.2 LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 96.3 LPAC, si los interesados solicitan la tramitación simplificada y el órgano competente aprecia que no concurren las razones del apartado 1, ¿en qué plazo puede desestimar la solicitud, sin posibilidad de recurso por parte del interesado?",
+      "options": [
+        "Diez días desde su presentación",
+        "Tres meses desde su presentación",
+        "Cinco días desde su presentación"
+      ],
+      "correct": 2,
+      "exp": "El art. 96.3 LPAC fija un plazo de cinco días desde la presentación de la solicitud para desestimarla, sin posibilidad de recurso; transcurrido ese plazo sin resolver, se entiende desestimada.",
+      "fuente": "Art. 96.3 LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "En los procedimientos de responsabilidad patrimonial, según el art. 96.4 LPAC, ¿en qué caso puede el órgano competente acordar de oficio la suspensión del procedimiento general y la iniciación de un procedimiento simplificado?",
+      "options": [
+        "Cuando considere inequívoca la relación de causalidad entre el funcionamiento del servicio público y la lesión, así como la valoración del daño y el cálculo de la indemnización",
+        "Cuando el interesado lo solicite expresamente y aporte un informe pericial",
+        "Cuando haya transcurrido más de un año desde el hecho lesivo"
+      ],
+      "correct": 0,
+      "exp": "El art. 96.4 LPAC permite, en procedimientos de responsabilidad patrimonial, acordar de oficio la suspensión del procedimiento general y el inicio de uno simplificado cuando la relación de causalidad, la valoración del daño y el cálculo de la indemnización resulten inequívocos.",
+      "fuente": "Art. 96.4 LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 96.5 LPAC, en los procedimientos de naturaleza sancionadora se podrá adoptar la tramitación simplificada cuando el órgano competente para iniciar el procedimiento considere que existen elementos de juicio suficientes para calificar la infracción como:",
+      "options": [
+        "Grave",
+        "Leve",
+        "Muy grave"
+      ],
+      "correct": 1,
+      "exp": "El art. 96.5 LPAC prevé la tramitación simplificada en procedimientos sancionadores cuando existan elementos de juicio suficientes para calificar la infracción como leve.",
+      "fuente": "Art. 96.5 LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "A diferencia de la tramitación simplificada acordada de oficio con carácter general (art. 96.2 LPAC), en la tramitación simplificada por infracciones leves prevista en el art. 96.5 LPAC:",
+      "options": [
+        "El interesado puede oponerse en cualquier momento y la Administración debe seguir la tramitación ordinaria",
+        "Es siempre necesario un dictamen del Consejo de Estado",
+        "No cabe la oposición expresa del interesado prevista en el apartado 2"
+      ],
+      "correct": 2,
+      "exp": "El art. 96.5 LPAC precisa expresamente que en este caso no cabe la oposición expresa del interesado prevista en el apartado 2 para la tramitación simplificada acordada de oficio con carácter general.",
+      "fuente": "Art. 96.5 LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 96.6 LPAC, los procedimientos tramitados de manera simplificada deberán resolverse en el plazo de treinta días, a contar desde el día siguiente a la notificación del acuerdo de tramitación simplificada, salvo que:",
+      "options": [
+        "Reste menos tiempo para su tramitación ordinaria",
+        "El interesado solicite una prórroga de otros treinta días",
+        "El expediente supere las cien páginas"
+      ],
+      "correct": 0,
+      "exp": "El art. 96.6 LPAC establece el plazo de treinta días salvo que reste menos tiempo para la tramitación ordinaria del procedimiento de que se trate.",
+      "fuente": "Art. 96.6 LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "¿Cuál de los siguientes trámites NO figura entre los que, según el art. 96.6 LPAC, componen la tramitación simplificada del procedimiento administrativo común?",
+      "options": [
+        "Subsanación de la solicitud presentada, en su caso",
+        "Período de prueba con designación de perito judicial",
+        "Informe del servicio jurídico, cuando este sea preceptivo"
+      ],
+      "correct": 1,
+      "exp": "El art. 96.6 LPAC enumera taxativamente los trámites de la simplificada (inicio, subsanación, alegaciones de cinco días, audiencia si procede, informes jurídico y del CGPJ, dictamen del Consejo de Estado y resolución); no incluye un período de prueba con perito judicial.",
+      "fuente": "Art. 96.6 LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 96.6.d) LPAC, en la tramitación simplificada, el trámite de audiencia se realizará:",
+      "options": [
+        "Solo cuando lo solicite expresamente el interesado",
+        "Nunca, al tratarse de tramitación simplificada",
+        "Únicamente cuando la resolución vaya a ser desfavorable para el interesado"
+      ],
+      "correct": 2,
+      "exp": "El art. 96.6.d) LPAC limita el trámite de audiencia en la tramitación simplificada a los casos en que la resolución vaya a ser desfavorable para el interesado.",
+      "fuente": "Art. 96.6.d) LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 96.6.g) LPAC, desde que se solicita el Dictamen del Consejo de Estado u órgano consultivo equivalente hasta que este se emite:",
+      "options": [
+        "Se produce la suspensión automática del plazo para resolver",
+        "El plazo para resolver sigue corriendo con normalidad",
+        "El procedimiento se convierte automáticamente en ordinario"
+      ],
+      "correct": 0,
+      "exp": "El art. 96.6.g) LPAC dispone la suspensión automática del plazo para resolver desde que se solicita el Dictamen hasta que este se emite.",
+      "fuente": "Art. 96.6.g) LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 96.6.g) LPAC, el Dictamen del Consejo de Estado en la tramitación simplificada podrá emitirse en el plazo de quince días cuando:",
+      "options": [
+        "Lo pida el interesado directamente al Consejo de Estado",
+        "Así lo solicite el órgano competente",
+        "El asunto tenga carácter urgente declarado por ley"
+      ],
+      "correct": 1,
+      "exp": "El art. 96.6.g) LPAC permite que el Dictamen se emita en quince días si así lo solicita el órgano competente, para poder cumplir el plazo de resolución del procedimiento.",
+      "fuente": "Art. 96.6.g) LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 96.6.g) LPAC, cuando el Dictamen del Consejo de Estado sea contrario al fondo de la propuesta de resolución, con independencia de que se atienda o no dicho criterio, el órgano competente para resolver:",
+      "options": [
+        "Deberá archivar el procedimiento sin más trámite",
+        "Debe iniciar un nuevo procedimiento sancionador contra el instructor",
+        "Acordará continuar el procedimiento con arreglo a la tramitación ordinaria, notificándolo a los interesados"
+      ],
+      "correct": 2,
+      "exp": "El art. 96.6.g) LPAC establece que si el Dictamen es contrario al fondo de la propuesta, se continúa con la tramitación ordinaria, notificándolo a los interesados, y se convalidan las actuaciones previas salvo el propio Dictamen.",
+      "fuente": "Art. 96.6.g) LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 96.7 LPAC, cuando un procedimiento exija la realización de un trámite no previsto entre los enumerados para la tramitación simplificada, deberá:",
+      "options": [
+        "Ser tramitado de manera ordinaria",
+        "Resolverse igualmente en el plazo de treinta días omitiendo ese trámite",
+        "Remitirse a un órgano superior para que decida"
+      ],
+      "correct": 0,
+      "exp": "El art. 96.7 LPAC dispone que, si un procedimiento exigiera un trámite no previsto en el apartado 6, deberá ser tramitado de manera ordinaria.",
+      "fuente": "Art. 96.7 LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 97.1 LPAC, las Administraciones Públicas no iniciarán ninguna actuación material de ejecución de resoluciones que limite derechos de los particulares sin que:",
+      "options": [
+        "Medie autorización judicial previa en todo caso",
+        "Previamente haya sido adoptada la resolución que le sirva de fundamento jurídico",
+        "El interesado preste su consentimiento expreso"
+      ],
+      "correct": 1,
+      "exp": "El art. 97.1 LPAC exige que, antes de cualquier actuación material de ejecución que limite derechos de los particulares, se haya adoptado la resolución que le sirva de fundamento jurídico.",
+      "fuente": "Art. 97.1 LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 97.2 LPAC, el órgano que ordene un acto de ejecución material de resoluciones está obligado a:",
+      "options": [
+        "Publicar la resolución en el Boletín Oficial correspondiente",
+        "Solicitar autorización judicial en todos los casos",
+        "Notificar al particular interesado la resolución que autorice la actuación administrativa"
+      ],
+      "correct": 2,
+      "exp": "El art. 97.2 LPAC obliga al órgano que ordena el acto de ejecución material a notificar al particular interesado la resolución que autoriza la actuación administrativa.",
+      "fuente": "Art. 97.2 LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "El art. 98 de la Ley 39/2015 se titula:",
+      "options": [
+        "Ejecutoriedad",
+        "Ejecución forzosa",
+        "Medios de ejecución forzosa"
+      ],
+      "correct": 0,
+      "exp": "El art. 98 LPAC lleva por título 'Ejecutoriedad', dentro del Capítulo VII del Título IV, 'Ejecución'.",
+      "fuente": "Art. 98 LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 98.1 LPAC, los actos de las Administraciones Públicas sujetos al Derecho Administrativo serán inmediatamente ejecutivos, salvo en varios supuestos. ¿Cuál de los siguientes NO es uno de ellos?",
+      "options": [
+        "Que se produzca la suspensión de la ejecución del acto",
+        "Que el interesado sea una persona jurídica",
+        "Que se necesite aprobación o autorización superior"
+      ],
+      "correct": 1,
+      "exp": "El art. 98.1 LPAC enumera como excepciones a la ejecutividad inmediata la suspensión de la ejecución, las resoluciones sancionadoras recurribles en vía administrativa, la disposición en contrario y la necesidad de aprobación o autorización superior; que el interesado sea persona jurídica no es una de ellas.",
+      "fuente": "Art. 98.1 LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 98.1.b) LPAC, no serán inmediatamente ejecutivas las resoluciones de procedimientos de naturaleza sancionadora contra las que quepa:",
+      "options": [
+        "Únicamente el recurso contencioso-administrativo",
+        "Recurso de casación ante el Tribunal Supremo",
+        "Algún recurso en vía administrativa, incluido el potestativo de reposición"
+      ],
+      "correct": 2,
+      "exp": "El art. 98.1.b) LPAC excluye de la ejecutividad inmediata las resoluciones sancionadoras contra las que quepa algún recurso en vía administrativa, incluido el potestativo de reposición.",
+      "fuente": "Art. 98.1.b) LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 98.2 LPAC, la obligación de pago derivada de una sanción pecuniaria, multa u otro derecho que haya de abonarse a la Hacienda Pública se efectuará preferentemente mediante:",
+      "options": [
+        "Medios electrónicos como tarjeta de crédito o débito, transferencia bancaria o domiciliación bancaria, salvo que se justifique la imposibilidad de hacerlo",
+        "Pago en efectivo en las oficinas de la entidad",
+        "Cheque nominativo al portador"
+      ],
+      "correct": 0,
+      "exp": "El art. 98.2 LPAC exige que ese pago se efectúe preferentemente mediante medios electrónicos (tarjeta, transferencia, domiciliación u otros autorizados por el órgano competente en materia de Hacienda Pública), salvo que se justifique la imposibilidad.",
+      "fuente": "Art. 98.2 LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 99 LPAC, las Administraciones Públicas podrán proceder a la ejecución forzosa de los actos administrativos:",
+      "options": [
+        "Sin necesidad de apercibimiento previo en ningún caso",
+        "Previo apercibimiento",
+        "Únicamente si medió previamente un procedimiento sancionador"
+      ],
+      "correct": 1,
+      "exp": "El art. 99 LPAC exige que la ejecución forzosa vaya precedida de apercibimiento, salvo en los supuestos de suspensión legal o de exigencia de intervención judicial.",
+      "fuente": "Art. 99 LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 99 LPAC, la ejecución forzosa de los actos administrativos corresponde:",
+      "options": [
+        "Exclusivamente a los juzgados de lo contencioso-administrativo",
+        "A la Abogacía del Estado en todo caso",
+        "A las Administraciones Públicas, a través de sus órganos competentes en cada caso"
+      ],
+      "correct": 2,
+      "exp": "El art. 99 LPAC atribuye la ejecución forzosa a las propias Administraciones Públicas, a través de sus órganos competentes en cada caso.",
+      "fuente": "Art. 99 LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 100.1 LPAC, la ejecución forzosa por las Administraciones Públicas se efectuará respetando siempre el principio de:",
+      "options": [
+        "Proporcionalidad",
+        "Oportunidad",
+        "Buena fe registral"
+      ],
+      "correct": 0,
+      "exp": "El art. 100.1 LPAC exige que la ejecución forzosa se efectúe respetando siempre el principio de proporcionalidad.",
+      "fuente": "Art. 100.1 LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "El art. 100.1 LPAC enumera los medios de ejecución forzosa en el siguiente orden:",
+      "options": [
+        "Compulsión sobre las personas, multa coercitiva, ejecución subsidiaria y apremio sobre el patrimonio",
+        "Apremio sobre el patrimonio, ejecución subsidiaria, multa coercitiva y compulsión sobre las personas",
+        "Ejecución subsidiaria, compulsión sobre las personas, apremio sobre el patrimonio y multa coercitiva"
+      ],
+      "correct": 1,
+      "exp": "El art. 100.1 LPAC enumera, por este orden, apremio sobre el patrimonio, ejecución subsidiaria, multa coercitiva y compulsión sobre las personas.",
+      "fuente": "Art. 100.1 LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 100.2 LPAC, si fueran varios los medios de ejecución forzosa admisibles:",
+      "options": [
+        "Decidirá el interesado cuál se aplica",
+        "Se elegirá siempre el apremio sobre el patrimonio con preferencia",
+        "Se elegirá el menos restrictivo de la libertad individual"
+      ],
+      "correct": 2,
+      "exp": "El art. 100.2 LPAC dispone que, si fueran varios los medios admisibles, se elegirá el menos restrictivo de la libertad individual.",
+      "fuente": "Art. 100.2 LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 100.3 LPAC, si fuese necesario entrar en el domicilio del afectado para la ejecución forzosa, las Administraciones Públicas deberán obtener:",
+      "options": [
+        "El consentimiento del titular o, en su defecto, la oportuna autorización judicial",
+        "Únicamente la autorización del alcalde del municipio",
+        "El consentimiento del titular, sin excepción posible"
+      ],
+      "correct": 0,
+      "exp": "El art. 100.3 LPAC exige el consentimiento del titular del domicilio o, en su defecto, la oportuna autorización judicial.",
+      "fuente": "Art. 100.3 LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 101.2 LPAC, en el apremio sobre el patrimonio, en ningún caso podrá imponerse a los administrados una obligación pecuniaria que:",
+      "options": [
+        "Haya sido recurrida en vía administrativa",
+        "No estuviese establecida con arreglo a una norma de rango legal",
+        "No cuente con el visto bueno del interventor municipal"
+      ],
+      "correct": 1,
+      "exp": "El art. 101.2 LPAC prohíbe imponer a los administrados una obligación pecuniaria que no esté establecida con arreglo a una norma de rango legal.",
+      "fuente": "Art. 101.2 LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 102.1 LPAC, habrá lugar a la ejecución subsidiaria cuando se trate de actos que:",
+      "options": [
+        "Impliquen necesariamente una obligación de no hacer",
+        "Solo puedan ser realizados por el propio obligado",
+        "Por no ser personalísimos, puedan ser realizados por sujeto distinto del obligado"
+      ],
+      "correct": 2,
+      "exp": "El art. 102.1 LPAC prevé la ejecución subsidiaria cuando se trate de actos que, por no ser personalísimos, puedan ser realizados por sujeto distinto del obligado.",
+      "fuente": "Art. 102.1 LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 102.3 LPAC, el importe de los gastos, daños y perjuicios de la ejecución subsidiaria se exigirá conforme a lo dispuesto en:",
+      "options": [
+        "El artículo anterior, relativo al apremio sobre el patrimonio",
+        "Un reglamento específico de ejecución subsidiaria aún no aprobado",
+        "El artículo siguiente, relativo a la multa coercitiva"
+      ],
+      "correct": 0,
+      "exp": "El art. 102.3 LPAC remite, para exigir el importe de gastos, daños y perjuicios de la ejecución subsidiaria, a lo dispuesto en el artículo anterior (art. 101, apremio sobre el patrimonio).",
+      "fuente": "Art. 102.3 LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 102.4 LPAC, el importe de los gastos, daños y perjuicios de la ejecución subsidiaria:",
+      "options": [
+        "Solo puede liquidarse una vez concluida totalmente la ejecución",
+        "Podrá liquidarse de forma provisional y realizarse antes de la ejecución, a reserva de la liquidación definitiva",
+        "Nunca puede exigirse de forma provisional"
+      ],
+      "correct": 1,
+      "exp": "El art. 102.4 LPAC permite liquidar dicho importe de forma provisional y realizarlo antes de la ejecución, a reserva de la liquidación definitiva.",
+      "fuente": "Art. 102.4 LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 103.1.a) LPAC, procede la multa coercitiva en el caso de:",
+      "options": [
+        "Actos que deban ejecutarse exclusivamente mediante apremio sobre el patrimonio",
+        "Actos ya ejecutados voluntariamente por el obligado",
+        "Actos personalísimos en que no proceda la compulsión directa sobre la persona del obligado"
+      ],
+      "correct": 2,
+      "exp": "El art. 103.1.a) LPAC prevé la multa coercitiva para actos personalísimos en que no proceda la compulsión directa sobre la persona del obligado.",
+      "fuente": "Art. 103.1.a) LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 103.1.b) LPAC, también procede la multa coercitiva cuando:",
+      "options": [
+        "Procediendo la compulsión sobre las personas, la Administración no la estimara conveniente",
+        "El acto ya hubiera sido objeto de apremio sobre el patrimonio",
+        "Se trate de una obligación pecuniaria inferior a mil euros"
+      ],
+      "correct": 0,
+      "exp": "El art. 103.1.b) LPAC prevé la multa coercitiva cuando, procediendo la compulsión sobre las personas, la Administración no la estimara conveniente.",
+      "fuente": "Art. 103.1.b) LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 103.1.c) LPAC, procede igualmente la multa coercitiva en actos cuya ejecución:",
+      "options": [
+        "Solo pueda realizar personalmente el obligado",
+        "Pueda el obligado encargar a otra persona",
+        "Implique una obligación de dar cantidad líquida"
+      ],
+      "correct": 1,
+      "exp": "El art. 103.1.c) LPAC prevé la multa coercitiva en actos cuya ejecución pueda el obligado encargar a otra persona.",
+      "fuente": "Art. 103.1.c) LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 103.2 LPAC, la multa coercitiva es:",
+      "options": [
+        "Incompatible con cualquier sanción administrativa",
+        "Sustitutiva de la sanción, de modo que impide imponer esta última",
+        "Independiente de las sanciones que puedan imponerse con tal carácter y compatible con ellas"
+      ],
+      "correct": 2,
+      "exp": "El art. 103.2 LPAC declara la multa coercitiva independiente de las sanciones que puedan imponerse con tal carácter, y compatible con ellas.",
+      "fuente": "Art. 103.2 LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 104.1 LPAC, los actos administrativos que impongan una obligación personalísima de no hacer o soportar podrán ejecutarse por compulsión directa sobre las personas cuando:",
+      "options": [
+        "La ley expresamente lo autorice, y dentro siempre del respeto debido a la dignidad y a los derechos reconocidos en la Constitución",
+        "Lo decida discrecionalmente el órgano instructor sin necesidad de ley",
+        "Haya transcurrido el plazo de ejecución subsidiaria sin resultado"
+      ],
+      "correct": 0,
+      "exp": "El art. 104.1 LPAC exige que la ley expresamente autorice la compulsión directa sobre las personas, y que se ejerza siempre dentro del respeto debido a la dignidad y a los derechos reconocidos en la Constitución.",
+      "fuente": "Art. 104.1 LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 104.2 LPAC, si tratándose de obligaciones personalísimas de hacer no se realizase la prestación, el obligado deberá:",
+      "options": [
+        "Ser compelido físicamente a realizar la prestación",
+        "Resarcir los daños y perjuicios, cuya liquidación y cobro se procederá en vía administrativa",
+        "Ser sustituido de oficio por la Administración sin coste alguno para él"
+      ],
+      "correct": 1,
+      "exp": "El art. 104.2 LPAC, para las obligaciones personalísimas de hacer no cumplidas, prevé que el obligado resarza los daños y perjuicios, cuya liquidación y cobro se procederá en vía administrativa.",
+      "fuente": "Art. 104.2 LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 105 LPAC, no se admitirán a trámite:",
+      "options": [
+        "Recursos de alzada contra actos de trámite",
+        "Denuncias de particulares ante la Administración",
+        "Acciones posesorias contra las actuaciones de los órganos administrativos realizadas en materia de su competencia y de acuerdo con el procedimiento legalmente establecido"
+      ],
+      "correct": 2,
+      "exp": "El art. 105 LPAC ('Prohibición de acciones posesorias') impide admitir a trámite acciones posesorias contra actuaciones administrativas realizadas en materia de competencia del órgano y conforme al procedimiento legalmente establecido.",
+      "fuente": "Art. 105 LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "La prohibición de acciones posesorias del art. 105 LPAC opera únicamente cuando la actuación administrativa se haya realizado:",
+      "options": [
+        "En materia de la competencia del órgano y de acuerdo con el procedimiento legalmente establecido",
+        "Con independencia de cuál sea el órgano competente",
+        "Sin necesidad de que exista procedimiento alguno"
+      ],
+      "correct": 0,
+      "exp": "El art. 105 LPAC condiciona la prohibición de acciones posesorias a que la actuación se realice en materia de la competencia del órgano administrativo y de acuerdo con el procedimiento legalmente establecido.",
+      "fuente": "Art. 105 LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "Un ayuntamiento ordena la demolición de una construcción ilegal, obligación que puede ser cumplida por cualquier empresa contratada al efecto. Conforme al art. 102.1 LPAC, el medio de ejecución forzosa procedente es:",
+      "options": [
+        "La compulsión sobre las personas, por tratarse de una obligación de no hacer",
+        "La ejecución subsidiaria, al no tratarse de una obligación personalísima",
+        "La multa coercitiva, exclusivamente"
+      ],
+      "correct": 1,
+      "exp": "Al no ser la demolición un acto personalísimo (puede realizarlo un sujeto distinto del obligado), el art. 102.1 LPAC determina que procede la ejecución subsidiaria.",
+      "fuente": "Art. 102.1 LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 99 LPAC, las Administraciones Públicas NO podrán proceder a la ejecución forzosa de los actos administrativos cuando:",
+      "options": [
+        "El acto haya sido dictado por un órgano colegiado",
+        "Haya transcurrido menos de un año desde su notificación",
+        "Se suspenda la ejecución de acuerdo con la Ley, o cuando la Constitución o la Ley exijan la intervención de un órgano judicial"
+      ],
+      "correct": 2,
+      "exp": "El art. 99 LPAC excluye la ejecución forzosa cuando se suspenda la ejecución de acuerdo con la Ley, o cuando la Constitución o la Ley exijan la intervención de un órgano judicial.",
+      "fuente": "Art. 99 LPAC",
+      "confianza": "alta",
+      "correccion": null
+    },
+    {
+      "q": "Según el art. 85.1, iniciado un procedimiento sancionador, si el infractor reconoce su responsabilidad, la Administración podrá:",
+      "options": [
+        "Resolver el procedimiento con la imposición de la sanción que proceda",
+        "Archivar el expediente sin sanción alguna",
+        "Suspender el procedimiento hasta que transcurra un año"
+      ],
+      "correct": 0,
+      "exp": "Art. 85.1: 'Iniciado un procedimiento sancionador, si el infractor reconoce su responsabilidad, se podrá resolver el procedimiento con la imposición de la sanción que proceda.'",
+      "fuente": "Art. 85.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 85.2, el pago voluntario por el presunto responsable, en cualquier momento anterior a la resolución, implicará la terminación del procedimiento salvo en lo relativo a:",
+      "options": [
+        "La imposición de una sanción accesoria de inhabilitación",
+        "La reposición de la situación alterada y la determinación de la indemnización por los daños y perjuicios causados por la infracción",
+        "La publicación de la sanción en el Boletín Oficial correspondiente"
+      ],
+      "correct": 1,
+      "exp": "Art. 85.2: el pago voluntario implicará la terminación del procedimiento, 'salvo en lo relativo a la reposición de la situación alterada o a la determinación de la indemnización por los daños y perjuicios causados por la comisión de la infracción.'",
+      "fuente": "Art. 85.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El efecto terminador del pago voluntario previsto en el art. 85.2 se aplica cuando la sanción tenga:",
+      "options": [
+        "Exclusivamente carácter no pecuniario",
+        "Carácter penal en todo caso",
+        "Únicamente carácter pecuniario, o carácter pecuniario y no pecuniario si se ha justificado la improcedencia de esta última"
+      ],
+      "correct": 2,
+      "exp": "Art. 85.2: se aplica 'cuando la sanción tenga únicamente carácter pecuniario o bien quepa imponer una sanción pecuniaria y otra de carácter no pecuniario pero se ha justificado la improcedencia de la segunda.'",
+      "fuente": "Art. 85.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 85.3, cuando la sanción tenga únicamente carácter pecuniario, el órgano competente para resolver aplicará reducciones sobre el importe de la sanción propuesta de, al menos:",
+      "options": [
+        "El 20 %",
+        "El 30 %",
+        "El 50 %"
+      ],
+      "correct": 0,
+      "exp": "Art. 85.3: 'el órgano competente para resolver el procedimiento aplicará reducciones de, al menos, el 20 % sobre el importe de la sanción propuesta.'",
+      "fuente": "Art. 85.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 85.3, las reducciones aplicables sobre el importe de la sanción propuesta son:",
+      "options": [
+        "Excluyentes entre sí, solo cabe aplicar una",
+        "Acumulables entre sí",
+        "Inaplicables si el infractor es reincidente"
+      ],
+      "correct": 1,
+      "exp": "Art. 85.3: las reducciones de, al menos, el 20 % son, según la propia norma, 'acumulables entre sí.'",
+      "fuente": "Art. 85.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 85.3, las reducciones por pago voluntario en procedimientos sancionadores deberán estar determinadas en:",
+      "options": [
+        "La resolución final del procedimiento",
+        "El pliego de condiciones del contrato administrativo",
+        "La notificación de iniciación del procedimiento"
+      ],
+      "correct": 2,
+      "exp": "Art. 85.3: 'Las citadas reducciones, deberán estar determinadas en la notificación de iniciación del procedimiento.'",
+      "fuente": "Art. 85.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 85.3, la efectividad de las reducciones por pago voluntario está condicionada a:",
+      "options": [
+        "El desistimiento o renuncia de cualquier acción o recurso en vía administrativa contra la sanción",
+        "La conformidad expresa del denunciante particular",
+        "La publicación de la sanción en un diario oficial"
+      ],
+      "correct": 0,
+      "exp": "Art. 85.3: 'su efectividad estará condicionada al desistimiento o renuncia de cualquier acción o recurso en vía administrativa contra la sanción.'",
+      "fuente": "Art. 85.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 85.3, el porcentaje de reducción previsto para el pago voluntario en procedimientos sancionadores:",
+      "options": [
+        "Solo puede reducirse, nunca incrementarse",
+        "Podrá ser incrementado reglamentariamente",
+        "Requiere ley orgánica para su modificación"
+      ],
+      "correct": 1,
+      "exp": "Art. 85.3, párrafo final: 'El porcentaje de reducción previsto en este apartado podrá ser incrementado reglamentariamente.'",
+      "fuente": "Art. 85.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 86.2, los instrumentos de terminación convencional deberán establecer como contenido mínimo:",
+      "options": [
+        "Únicamente la firma de las partes, sin más requisitos",
+        "La aprobación previa de las Cortes Generales",
+        "La identificación de las partes intervinientes, el ámbito personal, funcional y territorial, y el plazo de vigencia"
+      ],
+      "correct": 2,
+      "exp": "Art. 86.2: 'Los citados instrumentos deberán establecer como contenido mínimo la identificación de las partes intervinientes, el ámbito personal, funcional y territorial, y el plazo de vigencia.'",
+      "fuente": "Art. 86.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 86.3, requerirán en todo caso la aprobación expresa del Consejo de Ministros u órgano equivalente de las Comunidades Autónomas los acuerdos de terminación convencional que versen sobre:",
+      "options": [
+        "Materias de la competencia directa de dicho órgano",
+        "Materias exclusivamente tributarias",
+        "Materias de personal al servicio de la Administración Local"
+      ],
+      "correct": 0,
+      "exp": "Art. 86.3: 'Requerirán en todo caso la aprobación expresa del Consejo de Ministros u órgano equivalente de las Comunidades Autónomas, los acuerdos que versen sobre materias de la competencia directa de dicho órgano.'",
+      "fuente": "Art. 86.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 86.4, los acuerdos de terminación convencional que se suscriban:",
+      "options": [
+        "Suponen siempre una delegación de competencias del órgano firmante",
+        "No supondrán alteración de las competencias atribuidas a los órganos administrativos ni de las responsabilidades de autoridades y funcionarios",
+        "Extinguen la responsabilidad disciplinaria de los funcionarios intervinientes"
+      ],
+      "correct": 1,
+      "exp": "Art. 86.4: 'Los acuerdos que se suscriban no supondrán alteración de las competencias atribuidas a los órganos administrativos, ni de las responsabilidades que correspondan a las autoridades y funcionarios.'",
+      "fuente": "Art. 86.4 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 86.5, en los procedimientos de responsabilidad patrimonial, el acuerdo alcanzado entre las partes en terminación convencional deberá fijar la cuantía y modo de indemnización de acuerdo con los criterios establecidos en:",
+      "options": [
+        "El artículo 106 de la Constitución Española, exclusivamente",
+        "El artículo 32 de la propia Ley 39/2015",
+        "El artículo 34 de la Ley de Régimen Jurídico del Sector Público"
+      ],
+      "correct": 2,
+      "exp": "Art. 86.5: 'el acuerdo alcanzado entre las partes deberá fijar la cuantía y modo de indemnización de acuerdo con los criterios que para calcularla y abonarla establece el artículo 34 de la Ley de Régimen Jurídico del Sector Público.'",
+      "fuente": "Art. 86.5 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 87, tras la notificación del acuerdo de realización de actuaciones complementarias, se concederá a los interesados un plazo para formular alegaciones de:",
+      "options": [
+        "Siete días",
+        "Diez días",
+        "Quince días"
+      ],
+      "correct": 0,
+      "exp": "Art. 87: 'se notificará a los interesados, concediéndoseles un plazo de siete días para formular las alegaciones que tengan por pertinentes tras la finalización de las mismas.'",
+      "fuente": "Art. 87 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 87, las actuaciones complementarias deberán practicarse en un plazo no superior a:",
+      "options": [
+        "Siete días",
+        "Quince días",
+        "Treinta días"
+      ],
+      "correct": 1,
+      "exp": "Art. 87: 'Las actuaciones complementarias deberán practicarse en un plazo no superior a quince días.'",
+      "fuente": "Art. 87 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 87, mientras se practican las actuaciones complementarias, el plazo para resolver el procedimiento:",
+      "options": [
+        "Continúa corriendo sin ninguna alteración",
+        "Se reinicia desde cero al finalizar dichas actuaciones",
+        "Quedará suspendido hasta la terminación de las actuaciones complementarias"
+      ],
+      "correct": 2,
+      "exp": "Art. 87: 'El plazo para resolver el procedimiento quedará suspendido hasta la terminación de las actuaciones complementarias.'",
+      "fuente": "Art. 87 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 87, ¿qué actuaciones NO tendrán la consideración de actuaciones complementarias?",
+      "options": [
+        "Los informes que preceden inmediatamente a la resolución final del procedimiento",
+        "Las alegaciones presentadas por terceros interesados",
+        "Los informes preceptivos emitidos al inicio del procedimiento"
+      ],
+      "correct": 0,
+      "exp": "Art. 87: 'No tendrán la consideración de actuaciones complementarias los informes que preceden inmediatamente a la resolución final del procedimiento.'",
+      "fuente": "Art. 87 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 88.3, además de la decisión motivada, las resoluciones deberán expresar:",
+      "options": [
+        "El coste económico íntegro de la tramitación del expediente",
+        "Los recursos que contra la misma procedan, el órgano ante el que hubieran de presentarse y el plazo para interponerlos",
+        "El nombre de todos los funcionarios que intervinieron en la instrucción"
+      ],
+      "correct": 1,
+      "exp": "Art. 88.3: 'Expresarán, además, los recursos que contra la misma procedan, órgano administrativo o judicial ante el que hubieran de presentarse y plazo para interponerlos.'",
+      "fuente": "Art. 88.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 88.4, la resolución del procedimiento se dictará:",
+      "options": [
+        "Siempre en soporte papel con firma manuscrita original",
+        "Verbalmente, con constancia posterior en acta",
+        "Electrónicamente, garantizando la identidad del órgano competente y la autenticidad e integridad del documento"
+      ],
+      "correct": 2,
+      "exp": "Art. 88.4: 'la resolución del procedimiento se dictará electrónicamente y garantizará la identidad del órgano competente, así como la autenticidad e integridad del documento.'",
+      "fuente": "Art. 88.4 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 88.5, la Administración no podrá abstenerse de resolver so pretexto de:",
+      "options": [
+        "Silencio, oscuridad o insuficiencia de los preceptos legales aplicables al caso",
+        "Falta de dotación presupuestaria suficiente",
+        "Ausencia del interesado en el trámite de audiencia"
+      ],
+      "correct": 0,
+      "exp": "Art. 88.5: 'En ningún caso podrá la Administración abstenerse de resolver so pretexto de silencio, oscuridad o insuficiencia de los preceptos legales aplicables al caso.'",
+      "fuente": "Art. 88.5 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 88.5, aun sin poder abstenerse de resolver, la Administración podrá acordar la inadmisión de las solicitudes de reconocimiento de derechos:",
+      "options": [
+        "En cualquier caso, sin necesidad de motivación alguna",
+        "No previstos en el ordenamiento jurídico o manifiestamente carentes de fundamento, sin perjuicio del derecho de petición del art. 29 de la Constitución",
+        "Solo si el solicitante no dispone de asistencia letrada"
+      ],
+      "correct": 1,
+      "exp": "Art. 88.5: podrá acordarse 'la inadmisión de las solicitudes de reconocimiento de derechos no previstos en el ordenamiento jurídico o manifiestamente carentes de fundamento, sin perjuicio del derecho de petición previsto por el artículo 29 de la Constitución.'",
+      "fuente": "Art. 88.5 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 88.6, la aceptación de informes o dictámenes servirá de motivación a la resolución cuando:",
+      "options": [
+        "Sean emitidos por un órgano colegiado, en todo caso",
+        "Se trate de informes preceptivos y vinculantes",
+        "Se incorporen al texto de la misma"
+      ],
+      "correct": 2,
+      "exp": "Art. 88.6: 'La aceptación de informes o dictámenes servirá de motivación a la resolución cuando se incorporen al texto de la misma.'",
+      "fuente": "Art. 88.6 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 88.7, cuando la competencia para instruir y resolver un procedimiento no recaiga en el mismo órgano, será necesario que:",
+      "options": [
+        "El instructor eleve al órgano competente para resolver una propuesta de resolución",
+        "El órgano competente para resolver asuma también la instrucción de oficio",
+        "El interesado elija el órgano que debe resolver"
+      ],
+      "correct": 0,
+      "exp": "Art. 88.7: 'Cuando la competencia para instruir y resolver un procedimiento no recaiga en un mismo órgano, será necesario que el instructor eleve al órgano competente para resolver una propuesta de resolución.'",
+      "fuente": "Art. 88.7 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 89.1, el órgano instructor resolverá la finalización del procedimiento sancionador con archivo de las actuaciones, sin necesidad de propuesta de resolución, cuando concurra, entre otras causas:",
+      "options": [
+        "La falta de comparecencia del denunciante en el trámite de audiencia",
+        "La inexistencia de los hechos que pudieran constituir la infracción",
+        "La acumulación del procedimiento a otro distinto"
+      ],
+      "correct": 1,
+      "exp": "Art. 89.1 a): entre las causas de archivo sin propuesta de resolución figura 'la inexistencia de los hechos que pudieran constituir la infracción.'",
+      "fuente": "Art. 89.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 89.2, una vez concluida la instrucción de un procedimiento sancionador, el órgano instructor formulará una propuesta de resolución que deberá:",
+      "options": [
+        "Publicarse en el Boletín Oficial correspondiente en todo caso",
+        "Remitirse directamente al órgano judicial competente",
+        "Ser notificada a los interesados, indicando el plazo para formular alegaciones y presentar documentos"
+      ],
+      "correct": 2,
+      "exp": "Art. 89.2: la propuesta de resolución 'deberá ser notificada a los interesados. La propuesta de resolución deberá indicar la puesta de manifiesto del procedimiento y el plazo para formular alegaciones y presentar los documentos e informaciones que se estimen pertinentes.'",
+      "fuente": "Art. 89.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 89.3, la propuesta de resolución en un procedimiento sancionador fijará de forma motivada, entre otros extremos:",
+      "options": [
+        "Los hechos que se consideren probados, su calificación jurídica, la persona responsable y la sanción que se proponga",
+        "Únicamente el importe final de la sanción, sin más contenido",
+        "La fecha de jubilación prevista del responsable"
+      ],
+      "correct": 0,
+      "exp": "Art. 89.3: 'En la propuesta de resolución se fijarán de forma motivada los hechos que se consideren probados y su exacta calificación jurídica, se determinará la infracción... la persona o personas responsables y la sanción que se proponga.'",
+      "fuente": "Art. 89.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 90.1, la resolución en un procedimiento sancionador incluirá la valoración de las pruebas practicadas, en especial:",
+      "options": [
+        "Únicamente las pruebas aportadas por el presunto responsable",
+        "Aquellas que constituyan los fundamentos básicos de la decisión",
+        "Solo las pruebas periciales, con exclusión de las demás"
+      ],
+      "correct": 1,
+      "exp": "Art. 90.1: la resolución 'incluirá la valoración de las pruebas practicadas, en especial aquellas que constituyan los fundamentos básicos de la decisión.'",
+      "fuente": "Art. 90.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 90.2, cuando el órgano competente para resolver considere que la infracción o sanción revisten mayor gravedad que la determinada en la propuesta de resolución, deberá:",
+      "options": [
+        "Resolver directamente sin más trámite, aplicando la agravación",
+        "Remitir el asunto al Consejo de Estado con carácter preceptivo",
+        "Notificarlo al inculpado para que aporte alegaciones en el plazo de quince días"
+      ],
+      "correct": 2,
+      "exp": "Art. 90.2: cuando se considere mayor gravedad que la determinada en la propuesta, 'se notificará al inculpado para que aporte cuantas alegaciones estime convenientes en el plazo de quince días.'",
+      "fuente": "Art. 90.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 90.3, la resolución que ponga fin a un procedimiento sancionador será ejecutiva cuando:",
+      "options": [
+        "No quepa contra ella ningún recurso ordinario en vía administrativa",
+        "Lo autorice expresamente el juez de lo contencioso-administrativo",
+        "Se publique en el diario oficial correspondiente"
+      ],
+      "correct": 0,
+      "exp": "Art. 90.3: 'La resolución que ponga fin al procedimiento será ejecutiva cuando no quepa contra ella ningún recurso ordinario en vía administrativa.'",
+      "fuente": "Art. 90.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 90.4, cuando los daños o perjuicios causados por la conducta sancionada no hubieran quedado determinados en el expediente, su cuantía se fijará mediante:",
+      "options": [
+        "Un nuevo procedimiento sancionador desde el inicio",
+        "Un procedimiento complementario, cuya resolución será inmediatamente ejecutiva",
+        "La vía penal, con carácter exclusivo y excluyente"
+      ],
+      "correct": 1,
+      "exp": "Art. 90.4: 'se fijará mediante un procedimiento complementario, cuya resolución será inmediatamente ejecutiva.'",
+      "fuente": "Art. 90.4 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 90.4, el procedimiento complementario para fijar la indemnización por daños derivados de la infracción es susceptible de terminación convencional, pero esta:",
+      "options": [
+        "Equivale automáticamente a la confesión de la infracción",
+        "Impide recurrir posteriormente la sanción principal",
+        "No implica el reconocimiento voluntario de la responsabilidad por parte del infractor"
+      ],
+      "correct": 2,
+      "exp": "Art. 90.4: dicho procedimiento 'será susceptible de terminación convencional, pero ni ésta ni la aceptación por el infractor de la resolución que pudiera recaer implicarán el reconocimiento voluntario de su responsabilidad.'",
+      "fuente": "Art. 90.4 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 91.1, en los procedimientos de responsabilidad patrimonial, una vez recibido el dictamen del art. 81.2, o finalizado el trámite de audiencia si no fuera preceptivo, el órgano competente:",
+      "options": [
+        "Resolverá o someterá la propuesta de acuerdo para su formalización por el interesado y el órgano competente para suscribirlo",
+        "Remitirá el expediente al Tribunal de Cuentas con carácter preceptivo",
+        "Iniciará de oficio un procedimiento sancionador paralelo"
+      ],
+      "correct": 0,
+      "exp": "Art. 91.1: el órgano competente 'resolverá o someterá la propuesta de acuerdo para su formalización por el interesado y por el órgano administrativo competente para suscribirlo.'",
+      "fuente": "Art. 91.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 91.2, la resolución en un procedimiento de responsabilidad patrimonial deberá pronunciarse sobre:",
+      "options": [
+        "Únicamente la identidad del funcionario responsable del servicio",
+        "La existencia o no de relación de causalidad entre el funcionamiento del servicio público y la lesión producida, y en su caso la valoración del daño y la cuantía de la indemnización",
+        "Exclusivamente el plazo de prescripción de la acción"
+      ],
+      "correct": 1,
+      "exp": "Art. 91.2: será necesario que la resolución 'se pronuncie sobre la existencia o no de la relación de causalidad entre el funcionamiento del servicio público y la lesión producida y, en su caso, sobre la valoración del daño causado, la cuantía y el modo de la indemnización.'",
+      "fuente": "Art. 91.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 91.3, transcurridos seis meses desde el inicio de un procedimiento de responsabilidad patrimonial sin que se notifique resolución expresa ni se haya formalizado el acuerdo, podrá entenderse que:",
+      "options": [
+        "La resolución es favorable a la indemnización solicitada",
+        "Se ha producido la terminación convencional tácita",
+        "La resolución es contraria a la indemnización del particular"
+      ],
+      "correct": 2,
+      "exp": "Art. 91.3: 'Transcurridos seis meses desde que se inició el procedimiento sin que haya recaído y se notifique resolución expresa... podrá entenderse que la resolución es contraria a la indemnización del particular.'",
+      "fuente": "Art. 91.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 92, en el ámbito de la Administración General del Estado, los procedimientos de responsabilidad patrimonial se resolverán por:",
+      "options": [
+        "El Ministro respectivo o por el Consejo de Ministros en los casos del art. 32.3 de la Ley de Régimen Jurídico del Sector Público",
+        "El Defensor del Pueblo, en todo caso",
+        "El Consejo de Estado, en todo caso sin excepción"
+      ],
+      "correct": 0,
+      "exp": "Art. 92: 'los procedimientos de responsabilidad patrimonial se resolverán por el Ministro respectivo o por el Consejo de Ministros en los casos del artículo 32.3 de la Ley de Régimen Jurídico del Sector Público o cuando una ley así lo disponga.'",
+      "fuente": "Art. 92 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 92, en el ámbito autonómico y local, los procedimientos de responsabilidad patrimonial se resolverán por:",
+      "options": [
+        "El Delegado del Gobierno en la Comunidad Autónoma",
+        "Los órganos correspondientes de las Comunidades Autónomas o de las Entidades que integran la Administración Local",
+        "Los Juzgados de lo Contencioso-Administrativo directamente"
+      ],
+      "correct": 1,
+      "exp": "Art. 92: 'En el ámbito autonómico y local, los procedimientos de responsabilidad patrimonial se resolverán por los órganos correspondientes de las Comunidades Autónomas o de las Entidades que integran la Administración Local.'",
+      "fuente": "Art. 92 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 93, en los procedimientos iniciados de oficio, la Administración podrá desistir:",
+      "options": [
+        "Libremente y sin necesidad de motivación alguna",
+        "Únicamente si lo solicita el interesado por escrito",
+        "Motivadamente, en los supuestos y con los requisitos previstos en las Leyes"
+      ],
+      "correct": 2,
+      "exp": "Art. 93: 'En los procedimientos iniciados de oficio, la Administración podrá desistir, motivadamente, en los supuestos y con los requisitos previstos en las Leyes.'",
+      "fuente": "Art. 93 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 94.2, si el escrito de iniciación se hubiera formulado por dos o más interesados, el desistimiento o la renuncia:",
+      "options": [
+        "Solo afectará a aquellos que la hubiesen formulado",
+        "Pone fin al procedimiento para todos los interesados por igual",
+        "Requiere el consentimiento unánime de todos ellos"
+      ],
+      "correct": 0,
+      "exp": "Art. 94.2: 'Si el escrito de iniciación se hubiera formulado por dos o más interesados, el desistimiento o la renuncia sólo afectará a aquellos que la hubiesen formulado.'",
+      "fuente": "Art. 94.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 94.4, la Administración aceptará de plano el desistimiento o la renuncia y declarará concluso el procedimiento, salvo que:",
+      "options": [
+        "El interesado sea una persona jurídica, en cuyo caso se requiere ratificación notarial",
+        "Habiéndose personado en el mismo terceros interesados, instasen éstos su continuación en el plazo de diez días desde que fueron notificados",
+        "Se trate de un procedimiento sancionador, en cuyo caso nunca cabe desistimiento"
+      ],
+      "correct": 1,
+      "exp": "Art. 94.4: 'La Administración aceptará de plano el desistimiento o la renuncia, y declarará concluso el procedimiento salvo que, habiéndose personado en el mismo terceros interesados, instasen éstos su continuación en el plazo de diez días desde que fueron notificados del desistimiento o renuncia.'",
+      "fuente": "Art. 94.4 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 95.2, no podrá acordarse la caducidad del procedimiento por:",
+      "options": [
+        "Cualquier retraso del interesado, sin excepción",
+        "La ausencia del interesado en el trámite de audiencia",
+        "La simple inactividad del interesado en la cumplimentación de trámites que no sean indispensables para dictar resolución"
+      ],
+      "correct": 2,
+      "exp": "Art. 95.2: 'No podrá acordarse la caducidad por la simple inactividad del interesado en la cumplimentación de trámites, siempre que no sean indispensables para dictar resolución.'",
+      "fuente": "Art. 95.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 95.4, la caducidad podrá no ser aplicable en el supuesto de que:",
+      "options": [
+        "La cuestión suscitada afecte al interés general, o fuera conveniente sustanciarla para su definición y esclarecimiento",
+        "El procedimiento haya durado más de seis meses",
+        "El interesado sea una Administración Pública"
+      ],
+      "correct": 0,
+      "exp": "Art. 95.4: 'Podrá no ser aplicable la caducidad en el supuesto de que la cuestión suscitada afecte al interés general, o fuera conveniente sustanciarla para su definición y esclarecimiento.'",
+      "fuente": "Art. 95.4 LPAC",
+      "confianza": "alta"
+    }
+  ]
+}
