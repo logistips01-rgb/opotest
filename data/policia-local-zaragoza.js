@@ -14359,6 +14359,2926 @@ const QUESTIONS = {
     "exp": "El art. 47.2 declara nula la retroactividad de disposiciones sancionadoras 'no favorables o restrictivas de derechos individuales'; una retroactividad favorable al interesado no está incluida en esta causa de nulidad.",
     "fuente": "Art. 47.2 LPAC",
     "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13 a) de la Ley 39/2015, quienes tienen capacidad de obrar ante las AAPP son titulares del derecho a:",
+    "options": [
+      "Comunicarse con las Administraciones Públicas a través de un Punto de Acceso General electrónico",
+      "Recibir asesoramiento jurídico gratuito en todo caso",
+      "Obtener la condonación de deudas tributarias"
+    ],
+    "correct": 0,
+    "exp": "Art. 13 a): 'A comunicarse con las Administraciones Públicas a través de un Punto de Acceso General electrónico de la Administración.'"
+  },
+  {
+    "q": "Según el art. 13 c), las personas tienen derecho a utilizar las lenguas oficiales:",
+    "options": [
+      "Solo el castellano en todo el territorio nacional",
+      "En el territorio de su Comunidad Autónoma, de acuerdo con la Ley y el resto del ordenamiento jurídico",
+      "Solo si la Administración lo autoriza expresamente"
+    ],
+    "correct": 1,
+    "exp": "Art. 13 c): 'A utilizar las lenguas oficiales en el territorio de su Comunidad Autónoma, de acuerdo con lo previsto en esta Ley y en el resto del ordenamiento jurídico.'"
+  },
+  {
+    "q": "Según el art. 13 e), las personas tienen derecho a ser tratadas por las autoridades y empleados públicos con:",
+    "options": [
+      "Gratuidad en todos los trámites",
+      "Confidencialidad total incluso frente a otros interesados",
+      "Respeto y deferencia"
+    ],
+    "correct": 2,
+    "exp": "Art. 13 e): 'A ser tratados con respeto y deferencia por las autoridades y empleados públicos, que habrán de facilitarles el ejercicio de sus derechos...'"
+  },
+  {
+    "q": "Según el art. 13 d), el acceso a la información pública, archivos y registros se rige de acuerdo con:",
+    "options": [
+      "La Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno",
+      "La Ley de Contratos del Sector Público",
+      "La Ley Orgánica del Poder Judicial"
+    ],
+    "correct": 0,
+    "exp": "Art. 13 d): 'De acuerdo con lo previsto en la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno y el resto del Ordenamiento Jurídico.'"
+  },
+  {
+    "q": "Según el art. 13 h), las personas tienen derecho a la protección de datos de carácter personal, en particular a la seguridad y confidencialidad de los datos que figuren en:",
+    "options": [
+      "Los archivos de empresas privadas exclusivamente",
+      "Los ficheros, sistemas y aplicaciones de las Administraciones Públicas",
+      "Las redes sociales de la Administración"
+    ],
+    "correct": 1,
+    "exp": "Art. 13 h): '...en particular a la seguridad y confidencialidad de los datos que figuren en los ficheros, sistemas y aplicaciones de las Administraciones Públicas.'"
+  },
+  {
+    "q": "Según el art. 13, ¿cómo se entienden los derechos recogidos en este artículo respecto a los reconocidos a los interesados en el art. 53?",
+    "options": [
+      "Sustituyen totalmente a los del artículo 53",
+      "Solo se aplica el artículo 53",
+      "Se entienden sin perjuicio de los reconocidos en el artículo 53 referidos a los interesados en el procedimiento"
+    ],
+    "correct": 2,
+    "exp": "Art. 13 in fine: 'Estos derechos se entienden sin perjuicio de los reconocidos en el artículo 53 referidos a los interesados en el procedimiento administrativo.'"
+  },
+  {
+    "q": "Según el art. 13, ¿quiénes son titulares de los derechos que recoge este artículo en sus relaciones con las AAPP?",
+    "options": [
+      "Quienes, de conformidad con el artículo 3, tienen capacidad de obrar ante las Administraciones Públicas",
+      "Únicamente los funcionarios públicos",
+      "Exclusivamente los residentes en territorio español"
+    ],
+    "correct": 0,
+    "exp": "Art. 13: 'Quienes de conformidad con el artículo 3, tienen capacidad de obrar ante las Administraciones Públicas, son titulares, en sus relaciones con ellas, de los siguientes derechos...'"
+  },
+  {
+    "q": "Según el art. 13 f), las personas tienen derecho a exigir las responsabilidades de las Administraciones Públicas y autoridades:",
+    "options": [
+      "En cualquier caso, sin necesidad de fundamento legal",
+      "Cuando así corresponda legalmente",
+      "Solo mediante querella criminal"
+    ],
+    "correct": 1,
+    "exp": "Art. 13 f): 'A exigir las responsabilidades de las Administraciones Públicas y autoridades, cuando así corresponda legalmente.'"
+  },
+  {
+    "q": "Según el art. 14.1, las personas físicas podrán elegir en todo momento si se comunican con las AAPP a través de medios electrónicos o no, salvo que:",
+    "options": [
+      "Sean menores de edad",
+      "Se trate de un procedimiento tributario",
+      "Estén obligadas a relacionarse a través de medios electrónicos con las Administraciones Públicas"
+    ],
+    "correct": 2,
+    "exp": "Art. 14.1: 'Las personas físicas podrán elegir en todo momento si se comunican con las Administraciones Públicas... a través de medios electrónicos o no, salvo que estén obligadas a relacionarse a través de medios electrónicos.'"
+  },
+  {
+    "q": "Según el art. 14.1, el medio elegido por la persona para comunicarse con la Administración:",
+    "options": [
+      "Podrá ser modificado por ella en cualquier momento",
+      "Es irrevocable una vez elegido",
+      "Requiere autorización previa de la Administración para cambiarlo"
+    ],
+    "correct": 0,
+    "exp": "Art. 14.1 in fine: 'El medio elegido por la persona para comunicarse con las Administraciones Públicas podrá ser modificado por aquella en cualquier momento.'"
+  },
+  {
+    "q": "Según el art. 14.2 a), ¿cuál de los siguientes sujetos está obligado a relacionarse electrónicamente con las AAPP en todo caso?",
+    "options": [
+      "Las personas físicas jubiladas",
+      "Las personas jurídicas",
+      "Los turistas extranjeros"
+    ],
+    "correct": 1,
+    "exp": "Art. 14.2 a): entre los obligados a relacionarse electrónicamente en todo caso están 'Las personas jurídicas.'"
+  },
+  {
+    "q": "Según el art. 14.2 c), están obligados a relacionarse electrónicamente quienes ejerzan una actividad profesional que requiera:",
+    "options": [
+      "Formación universitaria de cualquier tipo",
+      "Un contrato laboral indefinido",
+      "Colegiación obligatoria, para los trámites relacionados con dicha actividad"
+    ],
+    "correct": 2,
+    "exp": "Art. 14.2 c): 'Quienes ejerzan una actividad profesional para la que se requiera colegiación obligatoria, para los trámites y actuaciones que realicen con las Administraciones Públicas en ejercicio de dicha actividad profesional.'"
+  },
+  {
+    "q": "Según el art. 14.2 c), ¿qué colectivos se entienden incluidos en todo caso dentro de la obligación de relacionarse electrónicamente por colegiación obligatoria?",
+    "options": [
+      "Los notarios y registradores de la propiedad y mercantiles",
+      "Los médicos de familia exclusivamente",
+      "Los guías turísticos"
+    ],
+    "correct": 0,
+    "exp": "Art. 14.2 c) in fine: 'En todo caso, dentro de este colectivo se entenderán incluidos los notarios y registradores de la propiedad y mercantiles.'"
+  },
+  {
+    "q": "Según el art. 14.2 d), también está obligado a relacionarse electrónicamente:",
+    "options": [
+      "El cónyuge del interesado en todo caso",
+      "Quien represente a un interesado que esté obligado a relacionarse electrónicamente con la Administración",
+      "Solo los abogados de oficio"
+    ],
+    "correct": 1,
+    "exp": "Art. 14.2 d): 'Quienes representen a un interesado que esté obligado a relacionarse electrónicamente con la Administración.'"
+  },
+  {
+    "q": "Según el art. 14.2 e), los empleados de las AAPP están obligados a relacionarse electrónicamente con ellas:",
+    "options": [
+      "Solo si trabajan en la misma Administración que tramita el expediente",
+      "Nunca, están exentos de esta obligación",
+      "Para los trámites y actuaciones que realicen por razón de su condición de empleado público, en la forma que determine cada Administración"
+    ],
+    "correct": 2,
+    "exp": "Art. 14.2 e): 'Los empleados de las Administraciones Públicas para los trámites y actuaciones que realicen con ellas por razón de su condición de empleado público, en la forma en que se determine reglamentariamente por cada Administración.'"
+  },
+  {
+    "q": "Según el art. 14.3, ¿pueden las Administraciones establecer reglamentariamente la obligación de relacionarse electrónicamente para ciertos colectivos de personas físicas?",
+    "options": [
+      "Sí, cuando quede acreditado que tienen acceso y disponibilidad de los medios electrónicos necesarios por razón de capacidad económica, técnica u otros motivos",
+      "No, esa obligación solo puede fijarse por ley",
+      "No, la Ley lo prohíbe expresamente para personas físicas"
+    ],
+    "correct": 0,
+    "exp": "Art. 14.3: 'Reglamentariamente, las Administraciones podrán establecer la obligación de relacionarse con ellas a través de medios electrónicos para determinados procedimientos y para ciertos colectivos de personas físicas que por razón de su capacidad económica, técnica, dedicación profesional u otros motivos quede acreditado que tienen acceso y disponibilidad de los medios electrónicos necesarios.'"
+  },
+  {
+    "q": "Según el art. 15.1, la lengua de los procedimientos tramitados por la Administración General del Estado será:",
+    "options": [
+      "Únicamente la lengua cooficial de la Comunidad Autónoma",
+      "El castellano, sin perjuicio de que los interesados en territorio de CCAA puedan usar también la lengua cooficial",
+      "El inglés en procedimientos con empresas extranjeras"
+    ],
+    "correct": 1,
+    "exp": "Art. 15.1: 'La lengua de los procedimientos tramitados por la Administración General del Estado será el castellano. No obstante..., los interesados... podrán utilizar también la lengua que sea cooficial en ella.'"
+  },
+  {
+    "q": "Según el art. 15.1, si concurren varios interesados y hay discrepancia sobre la lengua, el procedimiento se tramitará en:",
+    "options": [
+      "La lengua que decida el interesado que presentó primero la solicitud",
+      "Ninguna lengua válida, se archiva el procedimiento",
+      "Castellano, aunque los documentos que requieran los interesados se expedirán en la lengua elegida por ellos"
+    ],
+    "correct": 2,
+    "exp": "Art. 15.1: 'Si concurrieran varios interesados en el procedimiento, y existiera discrepancia en cuanto a la lengua, el procedimiento se tramitará en castellano, si bien los documentos o testimonios que requieran los interesados se expedirán en la lengua elegida por los mismos.'"
+  },
+  {
+    "q": "Según el art. 15.2, en los procedimientos tramitados por CCAA y Entidades Locales, el uso de la lengua se ajustará a:",
+    "options": [
+      "Lo previsto en la legislación autonómica correspondiente",
+      "La decisión del Delegado del Gobierno",
+      "Un reglamento estatal único para toda España"
+    ],
+    "correct": 0,
+    "exp": "Art. 15.2: 'En los procedimientos tramitados por las Administraciones de las Comunidades Autónomas y de las Entidades Locales, el uso de la lengua se ajustará a lo previsto en la legislación autonómica correspondiente.'"
+  },
+  {
+    "q": "Según el art. 15.3, ¿debe traducirse al castellano un documento en lengua cooficial que deba surtir efectos en una Comunidad Autónoma donde esa misma lengua sea también cooficial?",
+    "options": [
+      "Sí, siempre es obligatoria la traducción",
+      "No, no será precisa su traducción",
+      "Solo si el documento supera diez páginas"
+    ],
+    "correct": 1,
+    "exp": "Art. 15.3 in fine: 'Si debieran surtir efectos en el territorio de una Comunidad Autónoma donde sea cooficial esa misma lengua distinta del castellano, no será precisa su traducción.'"
+  },
+  {
+    "q": "Según el art. 16.1, cada Administración dispondrá de un Registro Electrónico General, en el que se hará el correspondiente asiento de:",
+    "options": [
+      "Únicamente las resoluciones administrativas firmes",
+      "Solo los recursos de alzada",
+      "Todo documento que sea presentado o que se reciba en cualquier órgano administrativo, Organismo público o Entidad vinculada"
+    ],
+    "correct": 2,
+    "exp": "Art. 16.1: 'Cada Administración dispondrá de un Registro Electrónico General, en el que se hará el correspondiente asiento de todo documento que sea presentado o que se reciba en cualquier órgano administrativo...'"
+  },
+  {
+    "q": "Según el art. 16.2, los asientos en el registro se anotarán respetando:",
+    "options": [
+      "El orden temporal de recepción o salida de los documentos",
+      "El orden de importancia del asunto",
+      "El criterio discrecional del funcionario"
+    ],
+    "correct": 0,
+    "exp": "Art. 16.2: 'Los asientos se anotarán respetando el orden temporal de recepción o salida de los documentos, e indicarán la fecha del día en que se produzcan.'"
+  },
+  {
+    "q": "Según el art. 16.4, ¿en cuál de los siguientes lugares NO pueden presentarse válidamente documentos dirigidos a las AAPP según la Ley 39/2015?",
+    "options": [
+      "En el registro electrónico de la Administración u Organismo al que se dirijan",
+      "En un juzgado de cualquier orden jurisdiccional",
+      "En las oficinas de Correos, en la forma reglamentaria"
+    ],
+    "correct": 1,
+    "exp": "Art. 16.4 enumera: registros electrónicos, oficinas de Correos, representaciones diplomáticas/consulares, oficinas de asistencia en materia de registros y otros que establezcan las disposiciones vigentes. No incluye los juzgados."
+  },
+  {
+    "q": "Según el art. 16.4 d), uno de los lugares donde pueden presentarse documentos dirigidos a la Administración son:",
+    "options": [
+      "Las notarías de cualquier localidad",
+      "Las oficinas de farmacia",
+      "Las oficinas de asistencia en materia de registros"
+    ],
+    "correct": 2,
+    "exp": "Art. 16.4 d): 'En las oficinas de asistencia en materia de registros.'"
+  },
+  {
+    "q": "Según el art. 16.1, el registro electrónico general de cada Administración funcionará como:",
+    "options": [
+      "Un portal que facilitará el acceso a los registros electrónicos de cada Organismo",
+      "Un simple buzón de correo electrónico",
+      "Una base de datos de acceso exclusivo para jueces"
+    ],
+    "correct": 0,
+    "exp": "Art. 16.1: 'El Registro Electrónico General de cada Administración funcionará como un portal que facilitará el acceso a los registros electrónicos de cada Organismo.'"
+  },
+  {
+    "q": "Según el art. 16.3, el registro electrónico debe garantizar, en cada asiento, la constancia de un número, epígrafe, fecha y hora de presentación, identificación del interesado y, además:",
+    "options": [
+      "Solo el nombre del funcionario que lo tramita",
+      "Órgano administrativo remitente y persona u órgano al que se envía",
+      "La firma manuscrita del interesado obligatoriamente"
+    ],
+    "correct": 1,
+    "exp": "Art. 16.3 exige constancia de número, epígrafe, fecha y hora, identificación del interesado, órgano remitente y órgano destinatario, con referencia al contenido del documento."
+  },
+  {
+    "q": "Según el art. 16.5, los documentos presentados de manera presencial deben ser digitalizados por:",
+    "options": [
+      "El propio interesado obligatoriamente antes de acudir",
+      "El Ministerio de Hacienda",
+      "La oficina de asistencia en materia de registros en la que hayan sido presentados"
+    ],
+    "correct": 2,
+    "exp": "Art. 16.5: 'Los documentos presentados de manera presencial... deberán ser digitalizados... por la oficina de asistencia en materia de registros en la que hayan sido presentados para su incorporación al expediente administrativo electrónico.'"
+  },
+  {
+    "q": "Según el art. 16.5, tras digitalizar los documentos presentados en papel, ¿qué ocurre con los originales?",
+    "options": [
+      "Se devuelven al interesado, salvo excepciones previstas",
+      "Quedan custodiados de forma permanente por la Administración en todo caso",
+      "Se remiten al Archivo Histórico Nacional siempre"
+    ],
+    "correct": 0,
+    "exp": "Art. 16.5: '...devolviéndose los originales al interesado, sin perjuicio de aquellos supuestos en que la norma determine la custodia por la Administración.'"
+  },
+  {
+    "q": "Según el art. 17.1, cada Administración deberá mantener un archivo electrónico único de los documentos electrónicos que correspondan a:",
+    "options": [
+      "Solo procedimientos sancionadores",
+      "Procedimientos finalizados",
+      "Procedimientos de más de un año de antigüedad"
+    ],
+    "correct": 1,
+    "exp": "Art. 17.1: 'Cada Administración deberá mantener un archivo electrónico único de los documentos electrónicos que correspondan a procedimientos finalizados.'"
+  },
+  {
+    "q": "Según el art. 17.2, los documentos electrónicos deben conservarse en un formato que permita garantizar:",
+    "options": [
+      "Únicamente su tamaño reducido",
+      "Su acceso exclusivo por parte del interesado",
+      "La autenticidad, integridad y conservación del documento"
+    ],
+    "correct": 2,
+    "exp": "Art. 17.2: 'Los documentos electrónicos deberán conservarse en un formato que permita garantizar la autenticidad, integridad y conservación del documento, así como su consulta con independencia del tiempo transcurrido.'"
+  },
+  {
+    "q": "Según el art. 17.3, los soportes donde se almacenen documentos deben contar con medidas de seguridad conforme a:",
+    "options": [
+      "El Esquema Nacional de Seguridad",
+      "La normativa de tráfico y seguridad vial",
+      "Ninguna normativa específica"
+    ],
+    "correct": 0,
+    "exp": "Art. 17.3: '...deberán contar con medidas de seguridad, de acuerdo con lo previsto en el Esquema Nacional de Seguridad, que garanticen la integridad, autenticidad, confidencialidad, calidad, protección y conservación de los documentos almacenados.'"
+  },
+  {
+    "q": "Según el art. 18.1, las personas colaborarán con la Administración facilitándole informes, inspecciones y otros actos de investigación, salvo que la revelación de la información atentara contra:",
+    "options": [
+      "El horario laboral del interesado",
+      "El honor, la intimidad personal o familiar, o suponga comunicación de datos confidenciales de terceros obtenidos en el ejercicio profesional",
+      "El calendario fiscal vigente"
+    ],
+    "correct": 1,
+    "exp": "Art. 18.1: '...salvo que la revelación de la información solicitada por la Administración atentara contra el honor, la intimidad personal o familiar o supusieran la comunicación de datos confidenciales de terceros...'"
+  },
+  {
+    "q": "Según el art. 18.2, los interesados en un procedimiento que conozcan datos que permitan identificar a otros interesados no comparecidos tienen el deber de:",
+    "options": [
+      "Comunicárselo directamente a esos terceros",
+      "Solicitar autorización notarial antes de informar",
+      "Proporcionárselos a la Administración actuante"
+    ],
+    "correct": 2,
+    "exp": "Art. 18.2: 'Los interesados en un procedimiento que conozcan datos que permitan identificar a otros interesados que no hayan comparecido en él tienen el deber de proporcionárselos a la Administración actuante.'"
+  },
+  {
+    "q": "Según el art. 19.1, la comparecencia de las personas ante las oficinas públicas solo será obligatoria cuando:",
+    "options": [
+      "Así esté previsto en una norma con rango de ley",
+      "Lo decida discrecionalmente el funcionario",
+      "El interesado sea persona jurídica"
+    ],
+    "correct": 0,
+    "exp": "Art. 19.1: 'La comparecencia de las personas ante las oficinas públicas... sólo será obligatoria cuando así esté previsto en una norma con rango de ley.'"
+  },
+  {
+    "q": "Según el art. 19.2, la citación para comparecencia debe hacer constar expresamente:",
+    "options": [
+      "Solo la fecha límite del expediente",
+      "Lugar, fecha, hora, medios disponibles, objeto de la comparecencia y efectos de no atenderla",
+      "El coste económico de la comparecencia"
+    ],
+    "correct": 1,
+    "exp": "Art. 19.2: 'la correspondiente citación hará constar expresamente el lugar, fecha, hora, los medios disponibles y objeto de la comparecencia, así como los efectos de no atenderla.'"
+  },
+  {
+    "q": "Según el art. 19.3, si el interesado lo solicita, la Administración debe entregarle:",
+    "options": [
+      "Una copia del expediente completo",
+      "Una indemnización económica",
+      "Certificación acreditativa de la comparecencia"
+    ],
+    "correct": 2,
+    "exp": "Art. 19.3: 'Las Administraciones Públicas entregarán al interesado certificación acreditativa de la comparecencia cuando así lo solicite.'"
+  },
+  {
+    "q": "Según el art. 20.1, los titulares de las unidades administrativas que tengan a su cargo la resolución de los asuntos son responsables directos de:",
+    "options": [
+      "Su tramitación, debiendo adoptar medidas para remover obstáculos que impidan o retrasen los derechos de los interesados",
+      "De la contratación del personal de su unidad",
+      "De la gestión presupuestaria del departamento"
+    ],
+    "correct": 0,
+    "exp": "Art. 20.1: '...serán responsables directos de su tramitación y adoptarán las medidas oportunas para remover los obstáculos que impidan, dificulten o retrasen el ejercicio pleno de los derechos de los interesados.'"
+  },
+  {
+    "q": "Según el art. 20.2, ¿pueden los interesados solicitar la exigencia de responsabilidad por retrasos en la tramitación?",
+    "options": [
+      "No, solo puede hacerlo el superior jerárquico",
+      "Sí, ante la Administración Pública de la que dependa el personal afectado",
+      "Sí, pero únicamente ante el Defensor del Pueblo"
+    ],
+    "correct": 1,
+    "exp": "Art. 20.2: 'Los interesados podrán solicitar la exigencia de esa responsabilidad a la Administración Pública de que dependa el personal afectado.'"
+  },
+  {
+    "q": "Según el art. 21.1, la Administración está obligada a dictar resolución expresa y a notificarla:",
+    "options": [
+      "Solo en los procedimientos iniciados a solicitud del interesado",
+      "Únicamente en procedimientos sancionadores",
+      "En todos los procedimientos, cualquiera que sea su forma de iniciación"
+    ],
+    "correct": 2,
+    "exp": "Art. 21.1: 'La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos cualquiera que sea su forma de iniciación.'"
+  },
+  {
+    "q": "Según el art. 21.2, el plazo máximo para notificar la resolución expresa, salvo que una norma con rango de ley establezca uno mayor, no podrá exceder de:",
+    "options": [
+      "Seis meses",
+      "Un mes",
+      "Tres meses"
+    ],
+    "correct": 0,
+    "exp": "Art. 21.2: 'Este plazo no podrá exceder de seis meses salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea.'"
+  },
+  {
+    "q": "Según el art. 21.3, cuando las normas reguladoras de los procedimientos no fijen plazo máximo, este será de:",
+    "options": [
+      "Un mes",
+      "Tres meses",
+      "Seis meses"
+    ],
+    "correct": 1,
+    "exp": "Art. 21.3: 'Cuando las normas reguladoras de los procedimientos no fijen el plazo máximo, éste será de tres meses.'"
+  },
+  {
+    "q": "Según el art. 21.3 a), en los procedimientos iniciados de oficio, el plazo para resolver se cuenta desde:",
+    "options": [
+      "La fecha de finalización de la instrucción",
+      "La fecha de la resolución definitiva",
+      "La fecha del acuerdo de iniciación"
+    ],
+    "correct": 2,
+    "exp": "Art. 21.3 a): 'En los procedimientos iniciados de oficio, desde la fecha del acuerdo de iniciación.'"
+  },
+  {
+    "q": "Según el art. 21.3 b), en los procedimientos iniciados a solicitud del interesado, el plazo se cuenta desde:",
+    "options": [
+      "La fecha en que la solicitud haya tenido entrada en el registro electrónico de la Administración competente",
+      "La fecha en que el interesado presentó la solicitud en cualquier registro, sea competente o no",
+      "La fecha en que se resuelve admitir a trámite la solicitud"
+    ],
+    "correct": 0,
+    "exp": "Art. 21.3 b): 'En los iniciados a solicitud del interesado, desde la fecha en que la solicitud haya tenido entrada en el registro electrónico de la Administración u Organismo competente para su tramitación.'"
+  },
+  {
+    "q": "Según el art. 21.1, ¿en qué casos la resolución consistirá en la declaración de la circunstancia concurrente, con indicación de hechos y normas aplicables?",
+    "options": [
+      "Solo en caso de silencio administrativo positivo",
+      "Prescripción, renuncia del derecho, caducidad del procedimiento, desistimiento o desaparición sobrevenida del objeto",
+      "Solo en procedimientos de responsabilidad patrimonial"
+    ],
+    "correct": 1,
+    "exp": "Art. 21.1 párrafo 2º: en casos de prescripción, renuncia del derecho, caducidad del procedimiento o desistimiento de la solicitud, así como desaparición sobrevenida del objeto, la resolución declarará esa circunstancia."
+  },
+  {
+    "q": "Según el art. 21.1, ¿qué procedimientos quedan exceptuados de la obligación general de dictar resolución expresa?",
+    "options": [
+      "Los procedimientos sancionadores en cualquier caso",
+      "Los procedimientos de responsabilidad patrimonial",
+      "Los terminados por pacto o convenio y los sometidos únicamente a declaración responsable o comunicación"
+    ],
+    "correct": 2,
+    "exp": "Art. 21.1 in fine: 'Se exceptúan de la obligación... los supuestos de terminación del procedimiento por pacto o convenio, así como los procedimientos relativos al ejercicio de derechos sometidos únicamente al deber de declaración responsable o comunicación.'"
+  },
+  {
+    "q": "Según el art. 21.6, el incumplimiento de la obligación de dictar resolución expresa en plazo dará lugar a:",
+    "options": [
+      "La exigencia de responsabilidad disciplinaria, sin perjuicio de otra que corresponda",
+      "La nulidad automática de todo lo actuado",
+      "La destitución inmediata del Alcalde"
+    ],
+    "correct": 0,
+    "exp": "Art. 21.6: 'El incumplimiento de dicha obligación dará lugar a la exigencia de responsabilidad disciplinaria, sin perjuicio de la que hubiere lugar de acuerdo con la normativa aplicable.'"
+  },
+  {
+    "q": "Según el art. 22.1 a), el plazo máximo para resolver se suspende cuando deba requerirse al interesado para subsanar deficiencias, por el tiempo que medie entre:",
+    "options": [
+      "La presentación de la solicitud y su registro",
+      "La notificación del requerimiento y su efectivo cumplimiento, o el plazo concedido",
+      "La resolución y su notificación"
+    ],
+    "correct": 1,
+    "exp": "Art. 22.1 a): '...por el tiempo que medie entre la notificación del requerimiento y su efectivo cumplimiento por el destinatario, o, en su defecto, por el del plazo concedido.'"
+  },
+  {
+    "q": "Según el art. 22.1 d), cuando se solicitan informes preceptivos a otro órgano, ¿cuál es el plazo máximo de suspensión?",
+    "options": [
+      "Un mes",
+      "Seis meses",
+      "Tres meses"
+    ],
+    "correct": 2,
+    "exp": "Art. 22.1 d): 'Este plazo de suspensión no podrá exceder en ningún caso de tres meses. En caso de no recibirse el informe en el plazo indicado, proseguirá el procedimiento.'"
+  },
+  {
+    "q": "Según el art. 22.1 e), el plazo máximo para resolver se suspende cuando deban realizarse pruebas técnicas o análisis contradictorios propuestos por los interesados, durante:",
+    "options": [
+      "El tiempo necesario para la incorporación de los resultados al expediente",
+      "Un plazo fijo de treinta días naturales",
+      "Solo si el interesado lo solicita por escrito notarial"
+    ],
+    "correct": 0,
+    "exp": "Art. 22.1 e): '...durante el tiempo necesario para la incorporación de los resultados al expediente.'"
+  },
+  {
+    "q": "Según el art. 22.2 c), el plazo máximo para resolver se suspende cuando los interesados promueven la recusación, desde que se plantea hasta que:",
+    "options": [
+      "Transcurran seis meses automáticamente",
+      "Sea resuelta por el superior jerárquico del recusado",
+      "El interesado retire la recusación por escrito"
+    ],
+    "correct": 1,
+    "exp": "Art. 22.2 c): '...desde que ésta se plantee hasta que sea resuelta por el superior jerárquico del recusado.'"
+  },
+  {
+    "q": "¿Cuántos supuestos de suspensión potestativa ('se podrá suspender') recoge el art. 22.1 de la Ley 39/2015?",
+    "options": [
+      "Cinco",
+      "Diez",
+      "Siete"
+    ],
+    "correct": 2,
+    "exp": "El art. 22.1 recoge siete supuestos (letras a) a g) de suspensión potestativa del plazo máximo para resolver."
+  },
+  {
+    "q": "Según el art. 23.1, la ampliación del plazo máximo de resolución y notificación no puede ser superior a:",
+    "options": [
+      "El establecido para la tramitación del procedimiento",
+      "La mitad del plazo original en todo caso",
+      "Indefinida, sin límite temporal"
+    ],
+    "correct": 0,
+    "exp": "Art. 23.1: '...podrá acordar de manera motivada la ampliación del plazo máximo de resolución y notificación, no pudiendo ser éste superior al establecido para la tramitación del procedimiento.'"
+  },
+  {
+    "q": "Según el art. 23.2, contra el acuerdo que resuelve sobre la ampliación de plazos:",
+    "options": [
+      "Cabe recurso de alzada en todo caso",
+      "No cabrá recurso alguno",
+      "Cabe recurso de reposición potestativo"
+    ],
+    "correct": 1,
+    "exp": "Art. 23.2: 'Contra el acuerdo que resuelva sobre la ampliación de plazos, que deberá ser notificado a los interesados, no cabrá recurso alguno.'"
+  },
+  {
+    "q": "Según el art. 24.1, en los procedimientos iniciados a solicitud del interesado, el vencimiento del plazo máximo sin resolución expresa legitima al interesado a entenderla:",
+    "options": [
+      "Siempre desestimada",
+      "Anulada de pleno derecho",
+      "Estimada por silencio administrativo, salvo excepciones legales"
+    ],
+    "correct": 2,
+    "exp": "Art. 24.1: '...legitima al interesado o interesados para entenderla estimada por silencio administrativo, excepto en los supuestos en los que una norma con rango de ley... establezca lo contrario.'"
+  },
+  {
+    "q": "Según el art. 24.1, el silencio tendrá efecto desestimatorio, entre otros supuestos, en los procedimientos relativos al:",
+    "options": [
+      "Ejercicio del derecho de petición del art. 29 CE",
+      "Solicitud de certificado de residencia",
+      "Solicitud de licencia de obras menores"
+    ],
+    "correct": 0,
+    "exp": "Art. 24.1 párrafo 2º: 'El silencio tendrá efecto desestimatorio en los procedimientos relativos al ejercicio del derecho de petición, a que se refiere el artículo 29 de la Constitución...'"
+  },
+  {
+    "q": "Según el art. 24.1, el silencio también será desestimatorio cuando la estimación implique transferir al solicitante facultades relativas a:",
+    "options": [
+      "Cualquier trámite administrativo sin excepción",
+      "El dominio público o al servicio público",
+      "Solicitudes de información pública"
+    ],
+    "correct": 1,
+    "exp": "Art. 24.1: '...aquellos cuya estimación tuviera como consecuencia que se transfirieran al solicitante o a terceros facultades relativas al dominio público o al servicio público...'"
+  },
+  {
+    "q": "Según el art. 24.1, el silencio será también desestimatorio en los procedimientos de:",
+    "options": [
+      "Solicitud de una tarjeta de estacionamiento",
+      "Solicitud de cambio de domicilio fiscal",
+      "Responsabilidad patrimonial de las Administraciones Públicas"
+    ],
+    "correct": 2,
+    "exp": "Art. 24.1: '...impliquen el ejercicio de actividades que puedan dañar el medio ambiente y en los procedimientos de responsabilidad patrimonial de las Administraciones Públicas.'"
+  },
+  {
+    "q": "Según el art. 24.2, la estimación por silencio administrativo tiene la consideración de:",
+    "options": [
+      "Acto administrativo finalizador del procedimiento, a todos los efectos",
+      "Una mera expectativa de derecho sin efectos jurídicos",
+      "Un acto provisional revisable en cualquier momento sin límite"
+    ],
+    "correct": 0,
+    "exp": "Art. 24.2: 'La estimación por silencio administrativo tiene a todos los efectos la consideración de acto administrativo finalizador del procedimiento.'"
+  },
+  {
+    "q": "Según el art. 24.3 a), en caso de estimación por silencio administrativo, la resolución expresa posterior solo podrá dictarse:",
+    "options": [
+      "En sentido contrario si la Administración cambia de criterio",
+      "De ser confirmatoria del acto ya producido por silencio",
+      "Solo transcurrido un año desde el silencio"
+    ],
+    "correct": 1,
+    "exp": "Art. 24.3 a): 'En los casos de estimación por silencio administrativo, la resolución expresa posterior a la producción del acto sólo podrá dictarse de ser confirmatoria del mismo.'"
+  },
+  {
+    "q": "Según el art. 24.4, ¿mediante qué medio puede acreditarse la existencia de un acto producido por silencio administrativo?",
+    "options": [
+      "Únicamente mediante sentencia judicial firme",
+      "Solo mediante declaración jurada del interesado ante testigos",
+      "Cualquier medio de prueba admitido en Derecho, incluido el certificado acreditativo del silencio producido"
+    ],
+    "correct": 2,
+    "exp": "Art. 24.4: '...su existencia puede ser acreditada por cualquier medio de prueba admitido en Derecho, incluido el certificado acreditativo del silencio producido.'"
+  },
+  {
+    "q": "Según el art. 24.4, ¿en qué plazo debe expedirse de oficio el certificado acreditativo del silencio producido?",
+    "options": [
+      "Quince días desde que expire el plazo máximo para resolver",
+      "Un mes desde la solicitud del interesado",
+      "No existe plazo, se expide cuando la Administración lo considere oportuno"
+    ],
+    "correct": 0,
+    "exp": "Art. 24.4: 'Este certificado se expedirá de oficio por el órgano competente para resolver en el plazo de quince días desde que expire el plazo máximo para resolver el procedimiento.'"
+  },
+  {
+    "q": "El art. 24 de la Ley 39/2015 regula:",
+    "options": [
+      "La falta de resolución en procedimientos de oficio",
+      "El silencio administrativo en procedimientos iniciados a solicitud del interesado",
+      "El cómputo de plazos"
+    ],
+    "correct": 1,
+    "exp": "El art. 24 lleva por título 'Silencio administrativo en procedimientos iniciados a solicitud del interesado'."
+  },
+  {
+    "q": "Según el art. 25.1 a), en procedimientos iniciados de oficio de los que pudiera derivarse el reconocimiento de derechos favorables, el vencimiento del plazo máximo sin resolución expresa permite a los interesados:",
+    "options": [
+      "Entender estimadas automáticamente sus pretensiones",
+      "Iniciar directamente la vía judicial sin más trámite",
+      "Entender desestimadas sus pretensiones por silencio administrativo"
+    ],
+    "correct": 2,
+    "exp": "Art. 25.1 a): 'los interesados que hubieren comparecido podrán entender desestimadas sus pretensiones por silencio administrativo.'"
+  },
+  {
+    "q": "Según el art. 25.1 b), en procedimientos de oficio en que la Administración ejercite potestades sancionadoras o de intervención con efectos desfavorables, el vencimiento del plazo produce:",
+    "options": [
+      "La caducidad del procedimiento",
+      "La nulidad de pleno derecho del expediente",
+      "La prórroga automática de seis meses"
+    ],
+    "correct": 0,
+    "exp": "Art. 25.1 b): 'En los procedimientos en que la Administración ejercite potestades sancionadoras o, en general, de intervención, susceptibles de producir efectos desfavorables... se producirá la caducidad.'"
+  },
+  {
+    "q": "Según el art. 25.1 b), la resolución que declara la caducidad debe ordenar:",
+    "options": [
+      "La imposición inmediata de la sanción propuesta",
+      "El archivo de las actuaciones",
+      "La suspensión cautelar de la actividad del interesado"
+    ],
+    "correct": 1,
+    "exp": "Art. 25.1 b): 'la resolución que declare la caducidad ordenará el archivo de las actuaciones, con los efectos previstos en el artículo 95.'"
+  },
+  {
+    "q": "Según el art. 25.2, cuando el procedimiento se paraliza por causa imputable al interesado, ¿qué ocurre con el cómputo del plazo para resolver?",
+    "options": [
+      "Sigue corriendo sin interrupción",
+      "Se reinicia desde cero automáticamente",
+      "Se interrumpe el cómputo del plazo"
+    ],
+    "correct": 2,
+    "exp": "Art. 25.2: 'En los supuestos en los que el procedimiento se hubiera paralizado por causa imputable al interesado, se interrumpirá el cómputo del plazo para resolver y notificar la resolución.'"
+  },
+  {
+    "q": "El art. 25 de la Ley 39/2015 se titula:",
+    "options": [
+      "Falta de resolución expresa en procedimientos iniciados de oficio",
+      "Silencio administrativo en procedimientos a solicitud del interesado",
+      "Obligación de resolver"
+    ],
+    "correct": 0,
+    "exp": "El art. 25 lleva por título 'Falta de resolución expresa en procedimientos iniciados de oficio'."
+  },
+  {
+    "q": "Según el art. 26.1, las Administraciones Públicas emitirán los documentos administrativos:",
+    "options": [
+      "Únicamente de forma verbal",
+      "Por escrito, a través de medios electrónicos, salvo que su naturaleza exija otra forma más adecuada",
+      "Solo mediante representación gráfica sin texto"
+    ],
+    "correct": 1,
+    "exp": "Art. 26.1: 'Las Administraciones Públicas emitirán los documentos administrativos por escrito, a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia.'"
+  },
+  {
+    "q": "Según el art. 26.2, para ser válidos, los documentos electrónicos administrativos deben, entre otros requisitos:",
+    "options": [
+      "Estar firmados por al menos dos funcionarios",
+      "Incluir siempre una fotografía del firmante",
+      "Incorporar una referencia temporal del momento en que han sido emitidos"
+    ],
+    "correct": 2,
+    "exp": "Art. 26.2 c): 'Incorporar una referencia temporal del momento en que han sido emitidos.'"
+  },
+  {
+    "q": "Según el art. 26.3, ¿requieren firma electrónica los documentos electrónicos que se publiquen con carácter meramente informativo?",
+    "options": [
+      "No, no la requerirán, pero será necesario identificar su origen",
+      "Sí, siempre es obligatoria la firma cualificada",
+      "Solo si los publica un Ministerio"
+    ],
+    "correct": 0,
+    "exp": "Art. 26.3: 'No requerirán de firma electrónica, los documentos electrónicos emitidos por las Administraciones Públicas que se publiquen con carácter meramente informativo... En todo caso, será necesario identificar el origen de estos documentos.'"
+  },
+  {
+    "q": "Según el art. 27.1, cada Administración Pública determinará los órganos que tengan atribuidas las competencias de expedición de:",
+    "options": [
+      "Certificados de empadronamiento exclusivamente",
+      "Copias auténticas de documentos públicos administrativos o privados",
+      "Licencias urbanísticas"
+    ],
+    "correct": 1,
+    "exp": "Art. 27.1: 'Cada Administración Pública determinará los órganos que tengan atribuidas las competencias de expedición de copias auténticas de los documentos públicos administrativos o privados.'"
+  },
+  {
+    "q": "Según el art. 27.2, las copias auténticas tienen respecto a los documentos originales:",
+    "options": [
+      "Validez únicamente si están notariadas",
+      "Validez solo durante un año",
+      "La misma validez y eficacia"
+    ],
+    "correct": 2,
+    "exp": "Art. 27.2: 'Las copias auténticas tendrán la misma validez y eficacia que los documentos originales.'"
+  },
+  {
+    "q": "Según el art. 27.4, ¿en qué plazo debe expedirse, con carácter general, una copia auténtica solicitada por un interesado?",
+    "options": [
+      "Quince días desde la recepción de la solicitud",
+      "Cinco días hábiles",
+      "Sin plazo determinado"
+    ],
+    "correct": 0,
+    "exp": "Art. 27.4: 'debiendo expedirse, salvo las excepciones derivadas de la aplicación de la Ley 19/2013, en el plazo de quince días a contar desde la recepción de la solicitud...'"
+  },
+  {
+    "q": "Según el art. 27.1, las copias auténticas realizadas por una Administración Pública:",
+    "options": [
+      "Solo tienen validez dentro de la misma Administración que las expide",
+      "Tendrán validez en las restantes Administraciones",
+      "Requieren siempre legalización adicional para otra Administración"
+    ],
+    "correct": 1,
+    "exp": "Art. 27.1: 'Las copias auténticas realizadas por una Administración Pública tendrán validez en las restantes Administraciones.'"
+  },
+  {
+    "q": "Según el art. 28.2, los interesados tienen derecho a no aportar documentos que ya se encuentren en poder de la Administración actuante o hayan sido elaborados por:",
+    "options": [
+      "Empresas privadas exclusivamente",
+      "Organismos internacionales",
+      "Cualquier otra Administración"
+    ],
+    "correct": 2,
+    "exp": "Art. 28.2: 'Los interesados tienen derecho a no aportar documentos que ya se encuentren en poder de la Administración actuante o hayan sido elaborados por cualquier otra Administración.'"
+  },
+  {
+    "q": "Según el art. 28.2, ¿cuándo NO cabe la oposición del interesado a que la Administración consulte o recabe documentos de otra Administración?",
+    "options": [
+      "Cuando la aportación se exigiera en el marco del ejercicio de potestades sancionadoras o de inspección",
+      "Cuando el interesado sea persona jurídica",
+      "Cuando el procedimiento dure más de tres meses"
+    ],
+    "correct": 0,
+    "exp": "Art. 28.2: 'No cabrá la oposición cuando la aportación del documento se exigiera en el marco del ejercicio de potestades sancionadoras o de inspección.'"
+  },
+  {
+    "q": "Según el art. 28.3, ¿pueden las Administraciones exigir a los interesados la presentación de documentos originales, con carácter general?",
+    "options": [
+      "Sí, siempre es obligatorio presentar el original",
+      "No, salvo que excepcionalmente la normativa reguladora aplicable establezca lo contrario",
+      "No, está terminantemente prohibido en todo caso"
+    ],
+    "correct": 1,
+    "exp": "Art. 28.3: 'Las Administraciones no exigirán a los interesados la presentación de documentos originales, salvo que, con carácter excepcional, la normativa reguladora aplicable establezca lo contrario.'"
+  },
+  {
+    "q": "Según el art. 28.7, los interesados se responsabilizarán de:",
+    "options": [
+      "El coste de la digitalización de sus documentos",
+      "La conservación indefinida de los documentos aportados",
+      "La veracidad de los documentos que presenten"
+    ],
+    "correct": 2,
+    "exp": "Art. 28.7: 'Los interesados se responsabilizarán de la veracidad de los documentos que presenten.'"
+  },
+  {
+    "q": "El art. 28 de la Ley 39/2015 se titula:",
+    "options": [
+      "Documentos aportados por los interesados al procedimiento administrativo",
+      "Emisión de documentos por las AAPP",
+      "Archivo de documentos"
+    ],
+    "correct": 0,
+    "exp": "El art. 28 lleva por título 'Documentos aportados por los interesados al procedimiento administrativo'."
+  },
+  {
+    "q": "Según el art. 29 de la Ley 39/2015, los términos y plazos establecidos en la Ley obligan a:",
+    "options": [
+      "Únicamente a los interesados",
+      "Las autoridades y personal al servicio de las AAPP competentes para la tramitación, así como a los interesados",
+      "Solo a la Administración General del Estado"
+    ],
+    "correct": 1,
+    "exp": "Art. 29: 'Los términos y plazos establecidos en ésta u otras leyes obligan a las autoridades y personal al servicio de las Administraciones Públicas competentes para la tramitación de los asuntos, así como a los interesados en los mismos.'"
+  },
+  {
+    "q": "Según el art. 30.1, cuando los plazos se señalen por horas, se entiende que estas son hábiles y su duración máxima expresada en horas es de:",
+    "options": [
+      "Doce horas como máximo",
+      "Cuarenta y ocho horas",
+      "Veinticuatro horas, en cuyo caso deben expresarse en días"
+    ],
+    "correct": 2,
+    "exp": "Art. 30.1: 'Los plazos expresados por horas... no podrán tener una duración superior a veinticuatro horas, en cuyo caso se expresarán en días.'"
+  },
+  {
+    "q": "Según el art. 30.2, cuando los plazos se señalen por días, se entiende que son hábiles, excluyéndose del cómputo:",
+    "options": [
+      "Los sábados, domingos y días declarados festivos",
+      "Solo los domingos",
+      "Todos los días de agosto"
+    ],
+    "correct": 0,
+    "exp": "Art. 30.2: '...cuando los plazos se señalen por días, se entiende que éstos son hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos.'"
+  },
+  {
+    "q": "Según el art. 30.3, los plazos expresados en días se cuentan a partir de:",
+    "options": [
+      "El mismo día de la notificación",
+      "El día siguiente a aquel en que tenga lugar la notificación o publicación del acto",
+      "Tres días después de la notificación"
+    ],
+    "correct": 1,
+    "exp": "Art. 30.3: 'Los plazos expresados en días se contarán a partir del día siguiente a aquel en que tenga lugar la notificación o publicación del acto de que se trate...'"
+  },
+  {
+    "q": "Según el art. 30.4, si el plazo se fija en meses o años y en el mes de vencimiento no hubiera día equivalente al de inicio del cómputo, se entiende que el plazo expira:",
+    "options": [
+      "El primer día del mes siguiente",
+      "Automáticamente se amplía un mes más",
+      "El último día del mes"
+    ],
+    "correct": 2,
+    "exp": "Art. 30.4 in fine: 'Si en el mes de vencimiento no hubiera día equivalente a aquel en que comienza el cómputo, se entenderá que el plazo expira el último día del mes.'"
+  },
+  {
+    "q": "Según el art. 30.5, cuando el último día del plazo sea inhábil, se entenderá:",
+    "options": [
+      "Prorrogado al primer día hábil siguiente",
+      "Adelantado al último día hábil anterior",
+      "Sin efecto, el interesado pierde su derecho"
+    ],
+    "correct": 0,
+    "exp": "Art. 30.5: 'Cuando el último día del plazo sea inhábil, se entenderá prorrogado al primer día hábil siguiente.'"
+  },
+  {
+    "q": "Según el art. 30.6, cuando un día sea hábil en el municipio del interesado e inhábil en la sede del órgano administrativo, o al contrario, se considerará:",
+    "options": [
+      "Hábil en todo caso",
+      "Inhábil en todo caso",
+      "Se decide por sorteo"
+    ],
+    "correct": 1,
+    "exp": "Art. 30.6: 'Cuando un día fuese hábil en el municipio o Comunidad Autónoma en que residiese el interesado, e inhábil en la sede del órgano administrativo, o a la inversa, se considerará inhábil en todo caso.'"
+  },
+  {
+    "q": "Según el art. 30.7, ¿quién fija el calendario de días inhábiles a efectos de cómputo de plazos en su respectivo ámbito?",
+    "options": [
+      "Cada Ayuntamiento de forma independiente sin coordinación",
+      "La Unión Europea de forma centralizada",
+      "La AGE y las Administraciones de las CCAA, con sujeción al calendario laboral oficial"
+    ],
+    "correct": 2,
+    "exp": "Art. 30.7: 'La Administración General del Estado y las Administraciones de las Comunidades Autónomas, con sujeción al calendario laboral oficial, fijarán, en su respectivo ámbito, el calendario de días inhábiles.'"
+  },
+  {
+    "q": "Según el art. 30.8, la declaración de un día como hábil o inhábil a efectos de cómputo de plazos:",
+    "options": [
+      "No determina por sí sola el funcionamiento de los centros de trabajo de las AAPP",
+      "Obliga automáticamente a cerrar todas las oficinas ese día",
+      "Implica el cierre de los registros electrónicos"
+    ],
+    "correct": 0,
+    "exp": "Art. 30.8: 'La declaración de un día como hábil o inhábil a efectos de cómputo de plazos no determina por sí sola el funcionamiento de los centros de trabajo de las Administraciones Públicas...'"
+  },
+  {
+    "q": "Según el art. 31.2 a), el registro electrónico permite la presentación de documentos:",
+    "options": [
+      "Solo los días laborables de 8 a 20 horas",
+      "Todos los días del año durante las veinticuatro horas",
+      "Solo si el interesado avisa con 24 horas de antelación"
+    ],
+    "correct": 1,
+    "exp": "Art. 31.2 a): 'Permitirá la presentación de documentos todos los días del año durante las veinticuatro horas.'"
+  },
+  {
+    "q": "Según el art. 31.2 b), la presentación de un documento en día inhábil, a efectos de cómputo de plazos hábiles, se entiende realizada en:",
+    "options": [
+      "El mismo día inhábil sin efectos para el interesado",
+      "El último día hábil anterior a la presentación",
+      "La primera hora del primer día hábil siguiente, salvo previsión expresa en contrario"
+    ],
+    "correct": 2,
+    "exp": "Art. 31.2 b): 'la presentación en un día inhábil se entenderá realizada en la primera hora del primer día hábil siguiente salvo que una norma permita expresamente la recepción en día inhábil.'"
+  },
+  {
+    "q": "Según el art. 31.2 c), el inicio del cómputo de plazos que deben cumplir las AAPP viene determinado por:",
+    "options": [
+      "La fecha y hora de presentación en el registro electrónico de cada Administración u Organismo",
+      "La fecha en que el expediente se asigna a un funcionario concreto",
+      "La fecha de la primera reunión de la comisión evaluadora"
+    ],
+    "correct": 0,
+    "exp": "Art. 31.2 c): 'El inicio del cómputo de los plazos que hayan de cumplir las Administraciones Públicas vendrá determinado por la fecha y hora de presentación en el registro electrónico de cada Administración u Organismo.'"
+  },
+  {
+    "q": "El art. 31 de la Ley 39/2015 regula:",
+    "options": [
+      "El cómputo de plazos con carácter general",
+      "El cómputo de plazos en los registros",
+      "La ampliación de plazos"
+    ],
+    "correct": 1,
+    "exp": "El art. 31 lleva por título 'Cómputo de plazos en los registros'."
+  },
+  {
+    "q": "Según el art. 32.1, la Administración podrá conceder una ampliación de los plazos establecidos que no exceda de:",
+    "options": [
+      "El doble del plazo original",
+      "Quince días naturales fijos",
+      "La mitad de los mismos, si las circunstancias lo aconsejan y no se perjudican derechos de terceros"
+    ],
+    "correct": 2,
+    "exp": "Art. 32.1: 'la Administración... podrá conceder... una ampliación de los plazos establecidos, que no exceda de la mitad de los mismos, si las circunstancias lo aconsejan y con ello no se perjudican derechos de tercero.'"
+  },
+  {
+    "q": "Según el art. 32.3, ¿puede ampliarse un plazo que ya ha vencido?",
+    "options": [
+      "No, en ningún caso podrá ser objeto de ampliación un plazo ya vencido",
+      "Sí, sin ninguna restricción temporal",
+      "Solo si el retraso es imputable a la Administración"
+    ],
+    "correct": 0,
+    "exp": "Art. 32.3: 'En ningún caso podrá ser objeto de ampliación un plazo ya vencido.'"
+  },
+  {
+    "q": "Según el art. 33.1, cuando razones de interés público lo aconsejen, la tramitación de urgencia reduce a la mitad los plazos del procedimiento ordinario, salvo los relativos a:",
+    "options": [
+      "La notificación de la resolución final",
+      "La presentación de solicitudes y recursos",
+      "La representación del interesado"
+    ],
+    "correct": 1,
+    "exp": "Art. 33.1: '...se reducirán a la mitad los plazos establecidos para el procedimiento ordinario, salvo los relativos a la presentación de solicitudes y recursos.'"
+  },
+  {
+    "q": "Según el art. 33.2, contra el acuerdo que declare la aplicación de la tramitación de urgencia:",
+    "options": [
+      "Cabe recurso contencioso-administrativo directo",
+      "Cabe recurso de reposición en tres días",
+      "No cabrá recurso alguno, sin perjuicio del procedente contra la resolución final"
+    ],
+    "correct": 2,
+    "exp": "Art. 33.2: 'No cabrá recurso alguno contra el acuerdo que declare la aplicación de la tramitación de urgencia al procedimiento, sin perjuicio del procedente contra la resolución que ponga fin al procedimiento.'"
+  },
+  {
+    "q": "¿Qué capítulo del Título II de la Ley 39/2015 regula los 'Términos y plazos'?",
+    "options": [
+      "El Capítulo II",
+      "El Capítulo I",
+      "El Capítulo III"
+    ],
+    "correct": 0,
+    "exp": "El Título II se divide en Capítulo I ('Normas generales de actuación', arts. 13-28) y Capítulo II ('Términos y plazos', arts. 29-33)."
+  },
+  {
+    "q": "¿Qué artículos comprende el Capítulo I del Título II de la Ley 39/2015, 'Normas generales de actuación'?",
+    "options": [
+      "Del 29 al 33",
+      "Del 13 al 28",
+      "Del 1 al 12"
+    ],
+    "correct": 1,
+    "exp": "El Capítulo I del Título II ('Normas generales de actuación') comprende los artículos 13 a 28."
+  },
+  {
+    "q": "El Título II de la Ley 39/2015 se titula:",
+    "options": [
+      "De los actos administrativos",
+      "De la revisión de los actos en vía administrativa",
+      "De la actividad de las Administraciones Públicas"
+    ],
+    "correct": 2,
+    "exp": "El Título II lleva por rúbrica 'De la actividad de las Administraciones Públicas' y comprende los artículos 13 a 33."
+  },
+  {
+    "q": "Según el art. 13 b), las personas tienen derecho a ser asistidas en:",
+    "options": [
+      "El uso de medios electrónicos en sus relaciones con las Administraciones Públicas",
+      "La redacción de contratos privados",
+      "La obtención de subvenciones automáticas"
+    ],
+    "correct": 0,
+    "exp": "Art. 13 b): 'A ser asistidos en el uso de medios electrónicos en sus relaciones con las Administraciones Públicas.'"
+  },
+  {
+    "q": "Según el art. 17.2 de la Ley 39/2015, además de garantizar la autenticidad, integridad y conservación del documento electrónico, se asegurará en todo caso la posibilidad de:",
+    "options": [
+      "Imprimir el documento en soporte papel de forma inmediata",
+      "Trasladar los datos a otros formatos y soportes que garanticen el acceso desde diferentes aplicaciones",
+      "Reducir el tamaño del archivo para ahorrar espacio de almacenamiento"
+    ],
+    "correct": 1,
+    "exp": "Art. 17.2: 'Se asegurará en todo caso la posibilidad de trasladar los datos a otros formatos y soportes que garanticen el acceso desde diferentes aplicaciones.'",
+    "fuente": "Art. 17.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 17.2 de la Ley 39/2015, la eliminación de los documentos electrónicos conservados en el archivo electrónico único:",
+    "options": [
+      "Puede realizarla libremente cada funcionario responsable del expediente",
+      "Se produce automáticamente transcurrido un año desde la finalización del procedimiento",
+      "Deberá ser autorizada de acuerdo a lo dispuesto en la normativa aplicable"
+    ],
+    "correct": 2,
+    "exp": "Art. 17.2 in fine: 'La eliminación de dichos documentos deberá ser autorizada de acuerdo a lo dispuesto en la normativa aplicable.'",
+    "fuente": "Art. 17.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 17.3 de la Ley 39/2015, las medidas de seguridad de los medios o soportes donde se almacenan documentos deben asegurar, en particular:",
+    "options": [
+      "La identificación de los usuarios y el control de accesos",
+      "La publicación íntegra de los documentos en el Boletín Oficial",
+      "La eliminación automática de los metadatos"
+    ],
+    "correct": 0,
+    "exp": "Art. 17.3: 'En particular, asegurarán la identificación de los usuarios y el control de accesos, así como el cumplimiento de las garantías previstas en la legislación de protección de datos.'",
+    "fuente": "Art. 17.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 17.1 de la Ley 39/2015, ¿qué debe mantener cada Administración respecto de los documentos electrónicos correspondientes a procedimientos finalizados?",
+    "options": [
+      "Un registro presencial en cada oficina de asistencia",
+      "Un archivo electrónico único",
+      "Una copia en papel custodiada por el Archivo Histórico Nacional"
+    ],
+    "correct": 1,
+    "exp": "Art. 17.1: 'Cada Administración deberá mantener un archivo electrónico único de los documentos electrónicos que correspondan a procedimientos finalizados, en los términos establecidos en la normativa reguladora aplicable.'",
+    "fuente": "Art. 17.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 17.3 de la Ley 39/2015, las medidas de seguridad de los soportes donde se almacenan documentos deben garantizar la integridad, autenticidad, confidencialidad, calidad, protección y:",
+    "options": [
+      "Rapidez de tramitación",
+      "Gratuidad del servicio",
+      "Conservación de los documentos almacenados"
+    ],
+    "correct": 2,
+    "exp": "Art. 17.3: '...deberán contar con medidas de seguridad, de acuerdo con lo previsto en el Esquema Nacional de Seguridad, que garanticen la integridad, autenticidad, confidencialidad, calidad, protección y conservación de los documentos almacenados.'",
+    "fuente": "Art. 17.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 18.1 de la Ley 39/2015, a falta de previsión legal expresa, las personas colaborarán con la Administración facilitándole:",
+    "options": [
+      "Los informes, inspecciones y otros actos de investigación que requieran para el ejercicio de sus competencias",
+      "Únicamente su domicilio a efectos de notificaciones",
+      "Un aval bancario que garantice su colaboración"
+    ],
+    "correct": 0,
+    "exp": "Art. 18.1: '...a falta de previsión expresa, facilitarán a la Administración los informes, inspecciones y otros actos de investigación que requieran para el ejercicio de sus competencias.'",
+    "fuente": "Art. 18.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 18.1 de la Ley 39/2015, la excepción a colaborar cuando la revelación de información atente contra el honor o la intimidad no opera, en todo caso, respecto de lo dispuesto en la legislación sobre:",
+    "options": [
+      "Protección de datos personales",
+      "Blanqueo de capitales y financiación de actividades terroristas",
+      "Contratos del sector público"
+    ],
+    "correct": 1,
+    "exp": "Art. 18.1 in fine: '...sin perjuicio de lo dispuesto en la legislación en materia de blanqueo de capitales y financiación de actividades terroristas.'",
+    "fuente": "Art. 18.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 18.1 de la Ley 39/2015, entre los supuestos que eximen del deber de colaborar se encuentra la comunicación de datos confidenciales de terceros conocidos por la prestación de servicios profesionales de:",
+    "options": [
+      "Mantenimiento informático",
+      "Transporte y logística",
+      "Diagnóstico, asesoramiento o defensa"
+    ],
+    "correct": 2,
+    "exp": "Art. 18.1: '...supusieran la comunicación de datos confidenciales de terceros de los que tengan conocimiento por la prestación de servicios profesionales de diagnóstico, asesoramiento o defensa.'",
+    "fuente": "Art. 18.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 18.2 de la Ley 39/2015, los interesados en un procedimiento que conozcan datos que permitan identificar a otros interesados no comparecidos:",
+    "options": [
+      "Tienen el deber de proporcionárselos a la Administración actuante",
+      "Pueden optar libremente por comunicarlo o no a la Administración",
+      "Deben comunicarlo directamente a esos terceros, nunca a la Administración"
+    ],
+    "correct": 0,
+    "exp": "Art. 18.2: 'Los interesados en un procedimiento que conozcan datos que permitan identificar a otros interesados que no hayan comparecido en él tienen el deber de proporcionárselos a la Administración actuante.'",
+    "fuente": "Art. 18.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 18.3 de la Ley 39/2015, cuando las inspecciones requieran la entrada en el domicilio del afectado o en otros lugares que exijan autorización del titular, se estará a lo dispuesto en:",
+    "options": [
+      "El artículo 18 de la Constitución exclusivamente",
+      "El artículo 100 de esta Ley",
+      "La Ley Orgánica de Protección de Datos"
+    ],
+    "correct": 1,
+    "exp": "Art. 18.3: 'Cuando las inspecciones requieran la entrada en el domicilio del afectado o en los restantes lugares que requieran autorización del titular, se estará a lo dispuesto en el artículo 100.'",
+    "fuente": "Art. 18.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 19.1 de la Ley 39/2015, la comparecencia de las personas ante las oficinas públicas puede llevarse a cabo:",
+    "options": [
+      "Solo mediante representación letrada",
+      "Únicamente por vía telefónica",
+      "Presencialmente o por medios electrónicos"
+    ],
+    "correct": 2,
+    "exp": "Art. 19.1: 'La comparecencia de las personas ante las oficinas públicas, ya sea presencialmente o por medios electrónicos, sólo será obligatoria cuando así esté previsto en una norma con rango de ley.'",
+    "fuente": "Art. 19.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 19.1 de la Ley 39/2015, la comparecencia ante las oficinas públicas será obligatoria únicamente cuando:",
+    "options": [
+      "Así esté previsto en una norma con rango de ley",
+      "Lo decida el jefe de la unidad administrativa",
+      "El procedimiento supere los tres meses de duración"
+    ],
+    "correct": 0,
+    "exp": "Art. 19.1: '...sólo será obligatoria cuando así esté previsto en una norma con rango de ley.'",
+    "fuente": "Art. 19.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 19.2 de la Ley 39/2015, además del lugar, fecha, hora y medios disponibles, la citación para comparecer debe hacer constar expresamente:",
+    "options": [
+      "El nombre completo de todos los funcionarios de la unidad",
+      "El objeto de la comparecencia y los efectos de no atenderla",
+      "Un formulario de queja para el interesado"
+    ],
+    "correct": 1,
+    "exp": "Art. 19.2: '...la correspondiente citación hará constar expresamente el lugar, fecha, hora, los medios disponibles y objeto de la comparecencia, así como los efectos de no atenderla.'",
+    "fuente": "Art. 19.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 19.3 de la Ley 39/2015, la certificación acreditativa de la comparecencia se entrega al interesado:",
+    "options": [
+      "Solo si la comparecencia fue por medios electrónicos",
+      "Únicamente si lo pide su representante legal",
+      "Cuando así lo solicite"
+    ],
+    "correct": 2,
+    "exp": "Art. 19.3: 'Las Administraciones Públicas entregarán al interesado certificación acreditativa de la comparecencia cuando así lo solicite.'",
+    "fuente": "Art. 19.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 19 de la Ley 39/2015 se titula:",
+    "options": [
+      "Comparecencia de las personas",
+      "Colaboración de las personas",
+      "Responsabilidad de la tramitación"
+    ],
+    "correct": 0,
+    "exp": "El art. 19 lleva por título 'Comparecencia de las personas'.",
+    "fuente": "Art. 19 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 20.1 de la Ley 39/2015, ¿quiénes son responsables directos de la tramitación de los asuntos que tienen a su cargo?",
+    "options": [
+      "Solo el Alcalde o Presidente de la Corporación",
+      "Los titulares de las unidades administrativas y el personal al servicio de las Administraciones Públicas que tuviesen a su cargo la resolución o el despacho de los asuntos",
+      "Únicamente el Secretario General del Pleno"
+    ],
+    "correct": 1,
+    "exp": "Art. 20.1: 'Los titulares de las unidades administrativas y el personal al servicio de las Administraciones Públicas que tuviesen a su cargo la resolución o el despacho de los asuntos, serán responsables directos de su tramitación.'",
+    "fuente": "Art. 20.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 20.1 de la Ley 39/2015, los responsables de la tramitación deben adoptar las medidas oportunas para:",
+    "options": [
+      "Delegar la totalidad del expediente en el interesado",
+      "Ampliar automáticamente todos los plazos de resolución",
+      "Remover los obstáculos que impidan, dificulten o retrasen el ejercicio pleno de los derechos de los interesados"
+    ],
+    "correct": 2,
+    "exp": "Art. 20.1: '...adoptarán las medidas oportunas para remover los obstáculos que impidan, dificulten o retrasen el ejercicio pleno de los derechos de los interesados o el respeto a sus intereses legítimos.'",
+    "fuente": "Art. 20.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 20.2 de la Ley 39/2015, los interesados podrán solicitar la exigencia de esa responsabilidad:",
+    "options": [
+      "A la Administración Pública de que dependa el personal afectado",
+      "Ante el Defensor del Pueblo exclusivamente",
+      "Ante el Consejo de Ministros"
+    ],
+    "correct": 0,
+    "exp": "Art. 20.2: 'Los interesados podrán solicitar la exigencia de esa responsabilidad a la Administración Pública de que dependa el personal afectado.'",
+    "fuente": "Art. 20.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 20.1 de la Ley 39/2015, los responsables de la tramitación deben disponer lo necesario para:",
+    "options": [
+      "Trasladar el expediente a otra Administración",
+      "Evitar y eliminar toda anormalidad en la tramitación de procedimientos",
+      "Archivar el procedimiento sin resolución expresa"
+    ],
+    "correct": 1,
+    "exp": "Art. 20.1 in fine: '...disponiendo lo necesario para evitar y eliminar toda anormalidad en la tramitación de procedimientos.'",
+    "fuente": "Art. 20.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 21.2 de la Ley 39/2015, el plazo máximo de seis meses para notificar la resolución expresa puede superarse cuando lo establezca una norma con rango de ley o cuando así:",
+    "options": [
+      "Lo decida el órgano instructor por razones de carga de trabajo",
+      "Lo solicite expresamente el interesado",
+      "Venga previsto en el Derecho de la Unión Europea"
+    ],
+    "correct": 2,
+    "exp": "Art. 21.2: 'Este plazo no podrá exceder de seis meses salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea.'",
+    "fuente": "Art. 21.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 21.4 de la Ley 39/2015, las Administraciones Públicas deben publicar y mantener actualizadas en el portal web, a efectos informativos:",
+    "options": [
+      "Las relaciones de procedimientos de su competencia, con los plazos máximos y los efectos del silencio administrativo",
+      "Los salarios de los empleados públicos",
+      "El listado de proveedores contratados"
+    ],
+    "correct": 0,
+    "exp": "Art. 21.4: 'Las Administraciones Públicas deben publicar y mantener actualizadas en el portal web, a efectos informativos, las relaciones de procedimientos de su competencia, con indicación de los plazos máximos de duración de los mismos, así como de los efectos que produzca el silencio administrativo.'",
+    "fuente": "Art. 21.4 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 21.4 de la Ley 39/2015, cuando la mención del plazo máximo no se incluya en la notificación o publicación del acuerdo de iniciación de oficio, debe comunicarse al interesado dentro de los:",
+    "options": [
+      "Quince días siguientes a la finalización del procedimiento",
+      "Diez días siguientes a la recepción de la solicitud en el registro electrónico competente",
+      "Treinta días naturales desde la solicitud"
+    ],
+    "correct": 1,
+    "exp": "Art. 21.4: '...o en la comunicación que se dirigirá al efecto al interesado dentro de los diez días siguientes a la recepción de la solicitud iniciadora del procedimiento en el registro electrónico de la Administración u Organismo competente para su tramitación.'",
+    "fuente": "Art. 21.4 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 21.4 in fine de la Ley 39/2015, cuando se remite al interesado la comunicación sobre el plazo máximo de resolución, esta debe indicar además:",
+    "options": [
+      "El importe de las tasas administrativas",
+      "La fecha prevista de resolución definitiva",
+      "La fecha en que la solicitud ha sido recibida por el órgano competente"
+    ],
+    "correct": 2,
+    "exp": "Art. 21.4 in fine: 'En este último caso, la comunicación indicará además la fecha en que la solicitud ha sido recibida por el órgano competente.'",
+    "fuente": "Art. 21.4 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 21.5 de la Ley 39/2015, cuando el número de solicitudes pudiera suponer un incumplimiento del plazo máximo de resolución, ¿quién puede habilitar los medios personales y materiales necesarios?",
+    "options": [
+      "El órgano competente para resolver, a propuesta razonada del órgano instructor, o el superior jerárquico a propuesta de éste",
+      "Únicamente el Ministerio de Hacienda",
+      "El propio interesado mediante solicitud motivada"
+    ],
+    "correct": 0,
+    "exp": "Art. 21.5: '...el órgano competente para resolver, a propuesta razonada del órgano instructor, o el superior jerárquico del órgano competente para resolver, a propuesta de éste, podrán habilitar los medios personales y materiales para cumplir con el despacho adecuado y en plazo.'",
+    "fuente": "Art. 21.5 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 21.6 de la Ley 39/2015, son directamente responsables, en el ámbito de sus competencias, del cumplimiento de la obligación de dictar resolución expresa en plazo:",
+    "options": [
+      "Solo los Alcaldes y Presidentes de Diputación",
+      "El personal a cargo del despacho de los asuntos y los titulares de los órganos competentes para instruir y resolver",
+      "Exclusivamente los interesados en el procedimiento"
+    ],
+    "correct": 1,
+    "exp": "Art. 21.6: 'El personal al servicio de las Administraciones Públicas que tenga a su cargo el despacho de los asuntos, así como los titulares de los órganos administrativos competentes para instruir y resolver son directamente responsables, en el ámbito de sus competencias, del cumplimiento de la obligación legal de dictar resolución expresa en plazo.'",
+    "fuente": "Art. 21.6 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 21.1 de la Ley 39/2015, la obligación de dictar resolución expresa y notificarla rige en todos los procedimientos:",
+    "options": [
+      "Solo si se inician a solicitud del interesado",
+      "Solo si se inician de oficio",
+      "Cualquiera que sea su forma de iniciación"
+    ],
+    "correct": 2,
+    "exp": "Art. 21.1: 'La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos cualquiera que sea su forma de iniciación.'",
+    "fuente": "Art. 21.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 21.1 in fine de la Ley 39/2015, ¿cuál de los siguientes NO es un supuesto exceptuado de la obligación general de dictar resolución expresa?",
+    "options": [
+      "La caducidad del procedimiento por causa imputable al interesado",
+      "La terminación del procedimiento por pacto o convenio",
+      "El ejercicio de derechos sometidos únicamente al deber de declaración responsable"
+    ],
+    "correct": 0,
+    "exp": "Art. 21.1 in fine solo exceptúa la terminación por pacto o convenio y los procedimientos sometidos únicamente a declaración responsable o comunicación; no menciona la caducidad imputable al interesado como excepción a esta obligación.",
+    "fuente": "Art. 21.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 22.1 b) de la Ley 39/2015, el plazo máximo para resolver se podrá suspender cuando deba obtenerse:",
+    "options": [
+      "Un informe de la OCDE",
+      "Un pronunciamiento previo y preceptivo de un órgano de la Unión Europea",
+      "La ratificación de un tratado internacional"
+    ],
+    "correct": 1,
+    "exp": "Art. 22.1 b): 'Cuando deba obtenerse un pronunciamiento previo y preceptivo de un órgano de la Unión Europea, por el tiempo que medie entre la petición... y la notificación del pronunciamiento a la Administración instructora.'",
+    "fuente": "Art. 22.1 b) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 22.1 c) de la Ley 39/2015, procede la suspensión del plazo máximo cuando exista un procedimiento no finalizado en el ámbito de la Unión Europea que:",
+    "options": [
+      "Se refiera a un Estado miembro distinto de España",
+      "Haya sido iniciado hace más de un año",
+      "Condicione directamente el contenido de la resolución de que se trate"
+    ],
+    "correct": 2,
+    "exp": "Art. 22.1 c): 'Cuando exista un procedimiento no finalizado en el ámbito de la Unión Europea que condicione directamente el contenido de la resolución de que se trate.'",
+    "fuente": "Art. 22.1 c) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 22.1 f) de la Ley 39/2015, el plazo máximo para resolver se suspende cuando se inicien negociaciones con vistas a la conclusión de un pacto o convenio, en los términos del:",
+    "options": [
+      "Artículo 86 de la Ley 39/2015",
+      "Artículo 39 de la Ley 39/2015",
+      "Artículo 21 de la Ley 39/2015"
+    ],
+    "correct": 0,
+    "exp": "Art. 22.1 f): 'Cuando se inicien negociaciones con vistas a la conclusión de un pacto o convenio en los términos previstos en el artículo 86 de esta Ley...'",
+    "fuente": "Art. 22.1 f) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 22.1 g) de la Ley 39/2015, procede la suspensión cuando sea indispensable para resolver el procedimiento la obtención de un previo pronunciamiento de:",
+    "options": [
+      "El Consejo de Ministros",
+      "Un órgano jurisdiccional",
+      "La Fiscalía General del Estado"
+    ],
+    "correct": 1,
+    "exp": "Art. 22.1 g): 'Cuando para la resolución del procedimiento sea indispensable la obtención de un previo pronunciamiento por parte de un órgano jurisdiccional.'",
+    "fuente": "Art. 22.1 g) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 22.2 a) de la Ley 39/2015, el plazo máximo para resolver se suspenderá cuando una Administración Pública requiera a otra para que anule o revise un acto que entienda ilegal, en el supuesto al que se refiere:",
+    "options": [
+      "El apartado 3 del artículo 21 de esta Ley",
+      "El artículo 87 de esta Ley",
+      "El apartado 5 del artículo 39 de esta Ley"
+    ],
+    "correct": 2,
+    "exp": "Art. 22.2 a): '...en el supuesto al que se refiere el apartado 5 del artículo 39 de esta Ley, desde que se realiza el requerimiento hasta que se atienda o, en su caso, se resuelva el recurso interpuesto ante la jurisdicción contencioso administrativa.'",
+    "fuente": "Art. 22.2 a) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 22.2 b) de la Ley 39/2015, el plazo máximo para resolver se suspende cuando el órgano competente decida realizar una actuación complementaria de las previstas en el artículo 87, desde que se notifica a los interesados el acuerdo motivado hasta que:",
+    "options": [
+      "Se produzca su terminación",
+      "Transcurran seis meses",
+      "Se dicte la resolución definitiva"
+    ],
+    "correct": 0,
+    "exp": "Art. 22.2 b): 'Cuando el órgano competente para resolver decida realizar alguna actuación complementaria de las previstas en el artículo 87, desde el momento en que se notifique a los interesados el acuerdo motivado del inicio de las actuaciones hasta que se produzca su terminación.'",
+    "fuente": "Art. 22.2 b) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántos supuestos de suspensión obligatoria ('se suspenderá') recoge el art. 22.2 de la Ley 39/2015?",
+    "options": [
+      "Siete",
+      "Tres",
+      "Cinco"
+    ],
+    "correct": 1,
+    "exp": "El art. 22.2 recoge tres supuestos (letras a, b y c) de suspensión obligatoria del plazo máximo para resolver, frente a los siete potestativos del apartado 1.",
+    "fuente": "Art. 22.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Respecto a la suspensión del plazo máximo para resolver, ¿qué diferencia existe entre los apartados 1 y 2 del art. 22 de la Ley 39/2015?",
+    "options": [
+      "El apartado 1 se aplica solo a personas físicas y el 2 solo a personas jurídicas",
+      "El apartado 1 regula procedimientos sancionadores y el 2 el resto de procedimientos",
+      "El apartado 1 recoge supuestos donde el plazo 'se podrá suspender' y el apartado 2 supuestos donde 'se suspenderá'"
+    ],
+    "correct": 2,
+    "exp": "El art. 22.1 emplea la fórmula potestativa 'se podrá suspender', mientras que el art. 22.2 emplea la fórmula imperativa 'se suspenderá'.",
+    "fuente": "Art. 22.1 y 22.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 23.1 de la Ley 39/2015, la ampliación del plazo máximo de resolución y notificación solo puede acordarse excepcionalmente cuando:",
+    "options": [
+      "Se hayan agotado los medios personales y materiales disponibles a los que se refiere el apartado 5 del artículo 21",
+      "Lo solicite el interesado por escrito motivado",
+      "Haya transcurrido más de un año desde el inicio del procedimiento"
+    ],
+    "correct": 0,
+    "exp": "Art. 23.1: 'Excepcionalmente, cuando se hayan agotado los medios personales y materiales disponibles a los que se refiere el apartado 5 del artículo 21... podrá acordar de manera motivada la ampliación del plazo máximo de resolución y notificación.'",
+    "fuente": "Art. 23.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 23.1 de la Ley 39/2015, el órgano competente para resolver podrá acordar la ampliación del plazo máximo:",
+    "options": [
+      "Verbalmente, sin necesidad de constancia escrita",
+      "De manera motivada",
+      "Sin necesidad de justificación alguna"
+    ],
+    "correct": 1,
+    "exp": "Art. 23.1: '...podrá acordar de manera motivada la ampliación del plazo máximo de resolución y notificación, no pudiendo ser éste superior al establecido para la tramitación del procedimiento.'",
+    "fuente": "Art. 23.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 23.1 de la Ley 39/2015, la ampliación del plazo máximo de resolución puede acordarse a propuesta, en su caso, de:",
+    "options": [
+      "Cualquier interesado en el procedimiento",
+      "El Tribunal Superior de Justicia correspondiente",
+      "El órgano instructor o el superior jerárquico del órgano competente para resolver"
+    ],
+    "correct": 2,
+    "exp": "Art. 23.1: 'el órgano competente para resolver, a propuesta, en su caso, del órgano instructor o el superior jerárquico del órgano competente para resolver, podrá acordar de manera motivada la ampliación del plazo máximo.'",
+    "fuente": "Art. 23.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 23.2 de la Ley 39/2015, el acuerdo que resuelva sobre la ampliación de plazos:",
+    "options": [
+      "Deberá ser notificado a los interesados, aunque no cabrá recurso alguno contra él",
+      "No requiere notificación alguna a los interesados",
+      "Solo se comunica al órgano instructor, nunca al interesado"
+    ],
+    "correct": 0,
+    "exp": "Art. 23.2: 'Contra el acuerdo que resuelva sobre la ampliación de plazos, que deberá ser notificado a los interesados, no cabrá recurso alguno.'",
+    "fuente": "Art. 23.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 23 de la Ley 39/2015 se titula:",
+    "options": [
+      "Obligación de resolver",
+      "Ampliación del plazo máximo para resolver y notificar",
+      "Suspensión del plazo máximo para resolver"
+    ],
+    "correct": 1,
+    "exp": "El art. 23 lleva por título 'Ampliación del plazo máximo para resolver y notificar'.",
+    "fuente": "Art. 23 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 24.1, cuando el procedimiento tenga por objeto el acceso a actividades o su ejercicio, la ley que disponga el carácter desestimatorio del silencio deberá fundarse en:",
+    "options": [
+      "La aprobación previa de las Cortes Generales",
+      "La existencia de un reglamento de desarrollo",
+      "La concurrencia de razones imperiosas de interés general"
+    ],
+    "correct": 2,
+    "exp": "Art. 24.1: 'Cuando el procedimiento tenga por objeto el acceso a actividades o su ejercicio, la ley que disponga el carácter desestimatorio del silencio deberá fundarse en la concurrencia de razones imperiosas de interés general.'",
+    "fuente": "Art. 24.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 24.1, además de los supuestos expresamente enumerados en el párrafo anterior, ¿en qué otros procedimientos será desestimatorio el sentido del silencio administrativo?",
+    "options": [
+      "En los de impugnación de actos y disposiciones y en los de revisión de oficio iniciados a solicitud de los interesados",
+      "En los procedimientos de subvenciones y ayudas públicas",
+      "En los procedimientos de responsabilidad contractual"
+    ],
+    "correct": 0,
+    "exp": "Art. 24.1: 'El sentido del silencio también será desestimatorio en los procedimientos de impugnación de actos y disposiciones y en los de revisión de oficio iniciados a solicitud de los interesados.'",
+    "fuente": "Art. 24.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 24.1, cuando se interpone recurso de alzada contra la desestimación por silencio de una solicitud por transcurso del plazo, ¿qué ocurre si llegado el plazo de resolución el órgano competente no dicta ni notifica resolución expresa?",
+    "options": [
+      "Se entenderá desestimado el recurso en todo caso",
+      "Se entenderá estimado el recurso de alzada, salvo que se refiera a las materias excluidas del silencio positivo",
+      "El interesado pierde la posibilidad de recurrir en vía contenciosa"
+    ],
+    "correct": 1,
+    "exp": "Art. 24.1: '...se entenderá estimado el mismo si, llegado el plazo de resolución, el órgano administrativo competente no dictase y notificase resolución expresa, siempre que no se refiera a las materias enumeradas en el párrafo anterior de este apartado.'",
+    "fuente": "Art. 24.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 24.2, la desestimación por silencio administrativo tiene como único efecto:",
+    "options": [
+      "Extinguir definitivamente el derecho del interesado",
+      "Obligar a la Administración a indemnizar al interesado",
+      "Permitir a los interesados la interposición del recurso administrativo o contencioso-administrativo que resulte procedente"
+    ],
+    "correct": 2,
+    "exp": "Art. 24.2: 'La desestimación por silencio administrativo tiene los solos efectos de permitir a los interesados la interposición del recurso administrativo o contencioso-administrativo que resulte procedente.'",
+    "fuente": "Art. 24.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 24.3, la obligación de dictar resolución expresa a que se refiere el apartado primero del artículo 21 se sujeta, en caso de silencio administrativo, a un régimen que distingue entre:",
+    "options": [
+      "Los casos de estimación y los casos de desestimación por silencio administrativo",
+      "Los procedimientos de oficio y los procedimientos a instancia de parte",
+      "Los procedimientos ordinarios y los de tramitación de urgencia"
+    ],
+    "correct": 0,
+    "exp": "Art. 24.3: 'La obligación de dictar resolución expresa a que se refiere el apartado primero del artículo 21 se sujetará al siguiente régimen', distinguiendo a) estimación y b) desestimación por silencio.",
+    "fuente": "Art. 24.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 24.3 b), en los casos de desestimación por silencio administrativo, la resolución expresa dictada tras el vencimiento del plazo:",
+    "options": [
+      "Deberá coincidir necesariamente con el sentido desestimatorio del silencio",
+      "Se adoptará por la Administración sin vinculación alguna al sentido del silencio",
+      "Solo podrá dictarse si lo solicita expresamente el interesado"
+    ],
+    "correct": 1,
+    "exp": "Art. 24.3 b): 'En los casos de desestimación por silencio administrativo, la resolución expresa posterior al vencimiento del plazo se adoptará por la Administración sin vinculación alguna al sentido del silencio.'",
+    "fuente": "Art. 24.3 b) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 24.4, los actos administrativos producidos por silencio administrativo se podrán hacer valer:",
+    "options": [
+      "Únicamente ante la Administración que debía resolver",
+      "Exclusivamente frente a terceros de buena fe acreditada",
+      "Tanto ante la Administración como ante cualquier persona física o jurídica, pública o privada"
+    ],
+    "correct": 2,
+    "exp": "Art. 24.4: 'Los actos administrativos producidos por silencio administrativo se podrán hacer valer tanto ante la Administración como ante cualquier persona física o jurídica, pública o privada.'",
+    "fuente": "Art. 24.4 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 24.4, ¿desde qué momento producen efectos los actos administrativos producidos por silencio administrativo?",
+    "options": [
+      "Desde el vencimiento del plazo máximo en el que debe dictarse y notificarse la resolución expresa sin que se haya expedido",
+      "Desde la fecha en que se solicita el certificado acreditativo del silencio",
+      "Desde que se publican en el Boletín Oficial correspondiente"
+    ],
+    "correct": 0,
+    "exp": "Art. 24.4: 'Los mismos producen efectos desde el vencimiento del plazo máximo en el que debe dictarse y notificarse la resolución expresa sin que la misma se haya expedido.'",
+    "fuente": "Art. 24.4 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 24.4, si el interesado solicita el certificado acreditativo del silencio producido, ¿desde cuándo se computa el plazo de quince días para expedirlo?",
+    "options": [
+      "Desde el vencimiento del plazo máximo para resolver, con independencia de cuándo se solicite",
+      "Desde el día siguiente a aquel en que la petición tuviese entrada en el registro electrónico de la Administración competente para resolver",
+      "Desde que el interesado presenta recurso de alzada"
+    ],
+    "correct": 1,
+    "exp": "Art. 24.4: 'el interesado podrá pedirlo en cualquier momento, computándose el plazo indicado anteriormente desde el día siguiente a aquél en que la petición tuviese entrada en el registro electrónico de la Administración u Organismo competente para resolver.'",
+    "fuente": "Art. 24.4 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 25.1, en los procedimientos iniciados de oficio, el vencimiento del plazo máximo establecido sin que se haya dictado y notificado resolución expresa:",
+    "options": [
+      "Exime a la Administración de resolver a partir de ese momento",
+      "Obliga a iniciar un nuevo procedimiento desde cero",
+      "No exime a la Administración del cumplimiento de la obligación legal de resolver"
+    ],
+    "correct": 2,
+    "exp": "Art. 25.1: 'En los procedimientos iniciados de oficio, el vencimiento del plazo máximo establecido sin que se haya dictado y notificado resolución expresa no exime a la Administración del cumplimiento de la obligación legal de resolver, produciendo los siguientes efectos...'",
+    "fuente": "Art. 25.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 25.1 b), la caducidad por falta de resolución expresa se produce en los procedimientos de oficio en que la Administración ejercite potestades sancionadoras o de intervención susceptibles de producir:",
+    "options": [
+      "Efectos desfavorables o de gravamen para el interesado",
+      "Efectos favorables para terceros",
+      "Efectos meramente informativos"
+    ],
+    "correct": 0,
+    "exp": "Art. 25.1 b): 'En los procedimientos en que la Administración ejercite potestades sancionadoras o, en general, de intervención, susceptibles de producir efectos desfavorables o de gravamen, se producirá la caducidad.'",
+    "fuente": "Art. 25.1 b) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 25.1 b), la resolución que declara la caducidad por falta de resolución expresa en un procedimiento de oficio ordena el archivo de las actuaciones, con los efectos previstos en:",
+    "options": [
+      "El artículo 30 de la Ley 39/2015",
+      "El artículo 95 de la Ley 39/2015",
+      "El artículo 55 de la Ley 39/2015"
+    ],
+    "correct": 1,
+    "exp": "Art. 25.1 b): '...la resolución que declare la caducidad ordenará el archivo de las actuaciones, con los efectos previstos en el artículo 95.'",
+    "fuente": "Art. 25.1 b) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 25.2, cuando el procedimiento se hubiera paralizado por causa imputable al interesado, ¿qué efecto se produce sobre el plazo para resolver?",
+    "options": [
+      "El plazo se amplía automáticamente en tres meses",
+      "El plazo sigue corriendo sin ninguna alteración",
+      "Se interrumpe el cómputo del plazo para resolver y notificar la resolución"
+    ],
+    "correct": 2,
+    "exp": "Art. 25.2: 'En los supuestos en los que el procedimiento se hubiera paralizado por causa imputable al interesado, se interrumpirá el cómputo del plazo para resolver y notificar la resolución.'",
+    "fuente": "Art. 25.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 25.1 a), en los procedimientos de oficio de los que pudiera derivarse el reconocimiento de derechos favorables, ¿quiénes pueden entender desestimadas sus pretensiones por silencio?",
+    "options": [
+      "Los interesados que hubieren comparecido en el procedimiento",
+      "Cualquier persona, aunque no haya comparecido",
+      "Solo quienes hayan sido citados judicialmente"
+    ],
+    "correct": 0,
+    "exp": "Art. 25.1 a): 'En el caso de procedimientos de los que pudiera derivarse el reconocimiento o, en su caso, la constitución de derechos u otras situaciones jurídicas favorables, los interesados que hubieren comparecido podrán entender desestimadas sus pretensiones por silencio administrativo.'",
+    "fuente": "Art. 25.1 a) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 26.1, se entiende por documentos públicos administrativos:",
+    "options": [
+      "Los emitidos por notarios en el ejercicio de su función pública",
+      "Los válidamente emitidos por los órganos de las Administraciones Públicas",
+      "Los emitidos por cualquier persona jurídica, pública o privada"
+    ],
+    "correct": 1,
+    "exp": "Art. 26.1: 'Se entiende por documentos públicos administrativos los válidamente emitidos por los órganos de las Administraciones Públicas.'",
+    "fuente": "Art. 26.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 26.2 a), para ser considerados válidos, los documentos electrónicos administrativos deben contener información de cualquier naturaleza archivada en un soporte electrónico según un formato:",
+    "options": [
+      "Exclusivo de la Administración General del Estado",
+      "No modificable bajo ninguna circunstancia",
+      "Determinado, susceptible de identificación y tratamiento diferenciado"
+    ],
+    "correct": 2,
+    "exp": "Art. 26.2 a): 'Contener información de cualquier naturaleza archivada en un soporte electrónico según un formato determinado susceptible de identificación y tratamiento diferenciado.'",
+    "fuente": "Art. 26.2 a) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 26.2 b), los documentos electrónicos administrativos deben disponer de datos de identificación que permitan:",
+    "options": [
+      "Su individualización, sin perjuicio de su posible incorporación a un expediente electrónico",
+      "Su traducción automática a todas las lenguas oficiales",
+      "Su clasificación exclusivamente como secreto o reservado"
+    ],
+    "correct": 0,
+    "exp": "Art. 26.2 b): 'Disponer de los datos de identificación que permitan su individualización, sin perjuicio de su posible incorporación a un expediente electrónico.'",
+    "fuente": "Art. 26.2 b) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 26.2 d), entre los requisitos de validez de los documentos electrónicos administrativos figura:",
+    "options": [
+      "Incorporar una fotografía del órgano emisor",
+      "Incorporar los metadatos mínimos exigidos",
+      "Estar redactados exclusivamente en castellano"
+    ],
+    "correct": 1,
+    "exp": "Art. 26.2 d): 'Incorporar los metadatos mínimos exigidos.'",
+    "fuente": "Art. 26.2 d) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 26.2 in fine, ¿qué ocurre con los documentos electrónicos que, cumpliendo los requisitos de validez exigidos, son trasladados a un tercero a través de medios electrónicos?",
+    "options": [
+      "Pierden automáticamente su validez",
+      "Deben imprimirse en papel para conservar su validez",
+      "Se considerarán válidos"
+    ],
+    "correct": 2,
+    "exp": "Art. 26.2: 'Se considerarán válidos los documentos electrónicos, que cumpliendo estos requisitos, sean trasladados a un tercero a través de medios electrónicos.'",
+    "fuente": "Art. 26.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 26.3, además de los documentos meramente informativos, ¿qué otros documentos electrónicos de las Administraciones Públicas no requieren firma electrónica?",
+    "options": [
+      "Los que no formen parte de un expediente administrativo",
+      "Los que se remitan a otra Administración Pública",
+      "Los que contengan datos de carácter personal"
+    ],
+    "correct": 0,
+    "exp": "Art. 26.3: 'No requerirán de firma electrónica, los documentos electrónicos emitidos por las Administraciones Públicas que se publiquen con carácter meramente informativo, así como aquellos que no formen parte de un expediente administrativo.'",
+    "fuente": "Art. 26.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 26.3, aunque no requieran firma electrónica, los documentos meramente informativos emitidos por las Administraciones Públicas deberán, en todo caso:",
+    "options": [
+      "Llevar el sello del órgano en papel",
+      "Identificar su origen",
+      "Publicarse simultáneamente en el BOE y en el diario autonómico"
+    ],
+    "correct": 1,
+    "exp": "Art. 26.3: 'En todo caso, será necesario identificar el origen de estos documentos.'",
+    "fuente": "Art. 26.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 27.1, las copias auténticas de documentos privados realizadas por una Administración Pública surten:",
+    "options": [
+      "Efectos civiles y mercantiles plenos",
+      "Efectos registrales en el Registro de la Propiedad",
+      "Únicamente efectos administrativos"
+    ],
+    "correct": 2,
+    "exp": "Art. 27.1: 'Las copias auténticas de documentos privados surten únicamente efectos administrativos.'",
+    "fuente": "Art. 27.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 27.1, la Administración General del Estado, las Comunidades Autónomas y las Entidades Locales podrán realizar copias auténticas mediante:",
+    "options": [
+      "Funcionario habilitado o mediante actuación administrativa automatizada",
+      "Solo el titular del órgano mediante firma manuscrita",
+      "Cualquier empleado público sin necesidad de habilitación"
+    ],
+    "correct": 0,
+    "exp": "Art. 27.1: 'A estos efectos, la Administración General del Estado, las Comunidades Autónomas y las Entidades Locales podrán realizar copias auténticas mediante funcionario habilitado o mediante actuación administrativa automatizada.'",
+    "fuente": "Art. 27.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 27.1, el registro de funcionarios habilitados para la expedición de copias auténticas debe ser, respecto de los de las restantes Administraciones Públicas:",
+    "options": [
+      "Independiente y sin conexión alguna",
+      "Plenamente interoperable y estar interconectado",
+      "Actualizado únicamente cada cinco años"
+    ],
+    "correct": 1,
+    "exp": "Art. 27.1: 'Se deberá mantener actualizado un registro, u otro sistema equivalente, donde constarán los funcionarios habilitados... que deberán ser plenamente interoperables y estar interconectados con los de las restantes Administraciones Públicas.'",
+    "fuente": "Art. 27.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 27.2, para que una copia, cualquiera que sea su soporte, tenga la consideración de copia auténtica, debe quedar garantizada:",
+    "options": [
+      "Únicamente la firma manuscrita del solicitante",
+      "La intervención de un notario en todo caso",
+      "La identidad del órgano que ha realizado la copia y su contenido"
+    ],
+    "correct": 2,
+    "exp": "Art. 27.2: 'Tendrán la consideración de copia auténtica... las realizadas, cualquiera que sea su soporte, por los órganos competentes de las Administraciones Públicas en las que quede garantizada la identidad del órgano que ha realizado la copia y su contenido.'",
+    "fuente": "Art. 27.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 27.3, para garantizar la identidad y contenido de las copias electrónicas o en papel, las Administraciones Públicas deberán ajustarse, entre otras normas, a:",
+    "options": [
+      "El Esquema Nacional de Interoperabilidad y el Esquema Nacional de Seguridad",
+      "El Reglamento Notarial y la Ley del Notariado",
+      "La Ley de Contratos del Sector Público"
+    ],
+    "correct": 0,
+    "exp": "Art. 27.3: 'Las Administraciones Públicas deberán ajustarse a lo previsto en el Esquema Nacional de Interoperabilidad, el Esquema Nacional de Seguridad y sus normas técnicas de desarrollo, así como a las siguientes reglas...'",
+    "fuente": "Art. 27.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 27.3 b), se entiende por digitalización:",
+    "options": [
+      "La conversión de un documento electrónico en copia impresa certificada",
+      "El proceso tecnológico que permite convertir un documento en soporte papel u otro soporte no electrónico en un fichero electrónico que contiene la imagen codificada, fiel e íntegra del documento",
+      "El proceso de firma electrónica cualificada de cualquier documento"
+    ],
+    "correct": 1,
+    "exp": "Art. 27.3 b): 'Se entiende por digitalización, el proceso tecnológico que permite convertir un documento en soporte papel o en otro soporte no electrónico en un fichero electrónico que contiene la imagen codificada, fiel e íntegra del documento.'",
+    "fuente": "Art. 27.3 b) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 27.3 c), las copias en soporte papel de documentos electrónicos deben contener un código generado electrónicamente u otro sistema de verificación que permita:",
+    "options": [
+      "Calcular el coste de expedición de la copia",
+      "Sustituir la firma electrónica del funcionario habilitado",
+      "Contrastar la autenticidad de la copia mediante el acceso a los archivos electrónicos del órgano u organismo emisor"
+    ],
+    "correct": 2,
+    "exp": "Art. 27.3 c): '...contendrán un código generado electrónicamente u otro sistema de verificación, que permitirá contrastar la autenticidad de la copia mediante el acceso a los archivos electrónicos del órgano u Organismo público emisor.'",
+    "fuente": "Art. 27.3 c) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 27.4, las Administraciones Públicas están obligadas a expedir copias auténticas electrónicas:",
+    "options": [
+      "De cualquier documento en papel que presenten los interesados y que se vaya a incorporar a un expediente administrativo",
+      "Únicamente de los documentos notariales aportados",
+      "De cualquier documento, aunque no vaya a incorporarse a expediente alguno"
+    ],
+    "correct": 0,
+    "exp": "Art. 27.4: 'Asimismo, las Administraciones Públicas estarán obligadas a expedir copias auténticas electrónicas de cualquier documento en papel que presenten los interesados y que se vaya a incorporar a un expediente administrativo.'",
+    "fuente": "Art. 27.4 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 27.5, cuando las Administraciones Públicas expidan copias auténticas electrónicas:",
+    "options": [
+      "Deben notificarlo previamente al interesado por correo postal",
+      "Deberá quedar expresamente indicado en el documento de la copia",
+      "Se requiere la conformidad expresa de otra Administración"
+    ],
+    "correct": 1,
+    "exp": "Art. 27.5: 'Cuando las Administraciones Públicas expidan copias auténticas electrónicas, deberá quedar expresamente así indicado en el documento de la copia.'",
+    "fuente": "Art. 27.5 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 27.6, la expedición de copias auténticas de documentos públicos notariales, registrales y judiciales, así como de los diarios oficiales, se rige por:",
+    "options": [
+      "El Esquema Nacional de Seguridad exclusivamente",
+      "Las normas del Código Civil sobre prueba documental",
+      "Su legislación específica"
+    ],
+    "correct": 2,
+    "exp": "Art. 27.6: 'La expedición de copias auténticas de documentos públicos notariales, registrales y judiciales, así como de los diarios oficiales, se regirá por su legislación específica.'",
+    "fuente": "Art. 27.6 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 27.3 d), las copias en soporte papel de documentos originales emitidos también en soporte papel se proporcionarán mediante:",
+    "options": [
+      "Una copia auténtica en papel del documento electrónico en poder de la Administración, o mediante puesta de manifiesto electrónica con copia auténtica del documento original",
+      "Fotocopia simple sellada por cualquier funcionario",
+      "Certificación del Registro Civil correspondiente"
+    ],
+    "correct": 0,
+    "exp": "Art. 27.3 d): 'Las copias en soporte papel de documentos originales emitidos en dicho soporte se proporcionarán mediante una copia auténtica en papel del documento electrónico que se encuentre en poder de la Administración o bien mediante una puesta de manifiesto electrónica conteniendo copia auténtica del documento original.'",
+    "fuente": "Art. 27.3 d) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 28.1, además de los datos y documentos exigidos por las Administraciones Públicas conforme a la normativa aplicable, los interesados:",
+    "options": [
+      "No podrán aportar ningún documento adicional",
+      "Podrán aportar cualquier otro documento que estimen conveniente",
+      "Solo podrán aportar documentos notariales"
+    ],
+    "correct": 1,
+    "exp": "Art. 28.1: 'Los interesados deberán aportar al procedimiento administrativo los datos y documentos exigidos por las Administraciones Públicas... Asimismo, los interesados podrán aportar cualquier otro documento que estimen conveniente.'",
+    "fuente": "Art. 28.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 28.2, la Administración actuante podrá consultar o recabar los documentos que el interesado no esté obligado a aportar, salvo que:",
+    "options": [
+      "El documento tenga más de un año de antigüedad",
+      "Se trate de documentos de más de diez páginas",
+      "El interesado se opusiera a ello"
+    ],
+    "correct": 2,
+    "exp": "Art. 28.2: 'La administración actuante podrá consultar o recabar dichos documentos salvo que el interesado se opusiera a ello.'",
+    "fuente": "Art. 28.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 28.2, las Administraciones Públicas deben recabar electrónicamente los documentos que no deban aportar los interesados a través de:",
+    "options": [
+      "Sus redes corporativas o mediante consulta a las plataformas de intermediación de datos u otros sistemas electrónicos habilitados",
+      "El correo electrónico ordinario del funcionario responsable",
+      "Una solicitud por fax al órgano competente"
+    ],
+    "correct": 0,
+    "exp": "Art. 28.2: 'Las Administraciones Públicas deberán recabar los documentos electrónicamente a través de sus redes corporativas o mediante consulta a las plataformas de intermediación de datos u otros sistemas electrónicos habilitados al efecto.'",
+    "fuente": "Art. 28.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 28.2, cuando se trate de informes preceptivos ya elaborados por un órgano administrativo distinto al que tramita el procedimiento, ¿en qué plazo deben remitirse?",
+    "options": [
+      "Un mes a contar desde su solicitud",
+      "Diez días a contar desde su solicitud",
+      "Quince días a contar desde su solicitud"
+    ],
+    "correct": 1,
+    "exp": "Art. 28.2: 'Cuando se trate de informes preceptivos ya elaborados por un órgano administrativo distinto al que tramita el procedimiento, estos deberán ser remitidos en el plazo de diez días a contar desde su solicitud.'",
+    "fuente": "Art. 28.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 28.3, las Administraciones Públicas no requerirán a los interesados datos o documentos no exigidos por la normativa aplicable o que:",
+    "options": [
+      "Hayan sido solicitados por un tercero interesado",
+      "Tengan una antigüedad superior a cinco años",
+      "Hayan sido aportados anteriormente por el interesado a cualquier Administración"
+    ],
+    "correct": 2,
+    "exp": "Art. 28.3: 'Las Administraciones Públicas no requerirán a los interesados datos o documentos no exigidos por la normativa reguladora aplicable o que hayan sido aportados anteriormente por el interesado a cualquier Administración.'",
+    "fuente": "Art. 28.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 28.4, cuando excepcionalmente la Administración solicite al interesado un documento original en formato papel, este deberá, con carácter previo a su presentación electrónica:",
+    "options": [
+      "Obtener una copia auténtica, según los requisitos del artículo 27",
+      "Remitir el documento original por correo postal certificado",
+      "Solicitar autorización judicial para digitalizarlo"
+    ],
+    "correct": 0,
+    "exp": "Art. 28.4: '...la Administración solicitara al interesado la presentación de un documento original y éste estuviera en formato papel, el interesado deberá obtener una copia auténtica, según los requisitos establecidos en el artículo 27, con carácter previo a su presentación electrónica.'",
+    "fuente": "Art. 28.4 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 28.5, cuando la relevancia del documento lo exija o existan dudas sobre la calidad de la copia, las Administraciones podrán solicitar de manera motivada:",
+    "options": [
+      "El pago de una tasa adicional por verificación",
+      "El cotejo de las copias aportadas por el interesado, requiriendo la exhibición del documento o de la información original",
+      "La comparecencia notarial obligatoria del interesado"
+    ],
+    "correct": 1,
+    "exp": "Art. 28.5: 'Excepcionalmente, cuando la relevancia del documento en el procedimiento lo exija o existan dudas derivadas de la calidad de la copia, las Administraciones podrán solicitar de manera motivada el cotejo de las copias aportadas por el interesado, para lo que podrán requerir la exhibición del documento o de la información original.'",
+    "fuente": "Art. 28.5 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 28.6, las copias que aporten los interesados al procedimiento administrativo tendrán eficacia:",
+    "options": [
+      "En cualquier proceso civil o penal sin restricción",
+      "Únicamente frente a la propia Administración que las solicitó, y no frente a otras",
+      "Exclusivamente en el ámbito de la actividad de las Administraciones Públicas"
+    ],
+    "correct": 2,
+    "exp": "Art. 28.6: 'Las copias que aporten los interesados al procedimiento administrativo tendrán eficacia, exclusivamente en el ámbito de la actividad de las Administraciones Públicas.'",
+    "fuente": "Art. 28.6 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 29 de la LPAC, los términos y plazos establecidos en la Ley 39/2015 u otras leyes:",
+    "options": [
+      "Obligan a las autoridades y personal al servicio de las Administraciones Públicas competentes para la tramitación de los asuntos, así como a los interesados en los mismos.",
+      "Solo vinculan a los interesados, no a la Administración.",
+      "Únicamente obligan cuando así lo determine expresamente el órgano competente en cada caso."
+    ],
+    "correct": 0,
+    "exp": "El art. 29 LPAC dispone literalmente que los términos y plazos establecidos en ésta u otras leyes obligan a las autoridades y personal al servicio de las Administraciones Públicas competentes para la tramitación de los asuntos, así como a los interesados en los mismos.",
+    "fuente": "Art. 29 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 29 LPAC, ¿a quién obliga el cumplimiento de los términos y plazos administrativos, además de a los interesados?",
+    "options": [
+      "Únicamente a los funcionarios de carrera, no al personal laboral.",
+      "A las autoridades y al personal al servicio de las Administraciones Públicas competentes para la tramitación de los asuntos.",
+      "Solo a los órganos unipersonales, no a los colegiados."
+    ],
+    "correct": 1,
+    "exp": "El art. 29 LPAC extiende la obligatoriedad de los plazos a las autoridades y personal al servicio de las Administraciones Públicas competentes para la tramitación de los asuntos, sin distinguir entre clases de personal ni tipos de órganos.",
+    "fuente": "Art. 29 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 29 LPAC dispone que los términos y plazos obligan a las autoridades y personal al servicio de las Administraciones Públicas para la tramitación de los asuntos. ¿Quiénes son, además, sujetos obligados por dichos plazos?",
+    "options": [
+      "Los medios de comunicación.",
+      "Los notarios y registradores.",
+      "Los interesados en los mismos."
+    ],
+    "correct": 2,
+    "exp": "El art. 29 LPAC cierra la enumeración de sujetos obligados señalando 'así como a los interesados en los mismos', es decir, en los asuntos objeto de tramitación.",
+    "fuente": "Art. 29 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes afirmaciones sobre el art. 29 LPAC es correcta?",
+    "options": [
+      "Los términos y plazos establecidos en la LPAC u otras leyes obligan tanto a la Administración competente como a los interesados.",
+      "Los plazos solo obligan cuando derivan de la propia LPAC, no de otras leyes.",
+      "Los plazos únicamente resultan exigibles frente a la Administración, nunca frente a los interesados."
+    ],
+    "correct": 0,
+    "exp": "El art. 29 LPAC se refiere a los términos y plazos 'establecidos en ésta u otras leyes', y los declara obligatorios tanto para la Administración competente como para los interesados, sin condicionarlo a representación letrada.",
+    "fuente": "Art. 29 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Salvo que la Ley o el Derecho de la Unión Europea dispongan otro cómputo, cuando un plazo administrativo se señale por horas, el art. 30.1 LPAC establece que:",
+    "options": [
+      "Se computan únicamente las horas de atención al público.",
+      "Se entiende que todas las horas son hábiles, siendo tales todas las horas del día que formen parte de un día hábil.",
+      "Se excluyen las horas nocturnas, aunque pertenezcan a un día hábil."
+    ],
+    "correct": 1,
+    "exp": "El art. 30.1 LPAC establece que, salvo disposición en contrario, cuando los plazos se señalen por horas se entiende que éstas son hábiles, siendo hábiles todas las horas del día que formen parte de un día hábil.",
+    "fuente": "Art. 30.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 30.1 LPAC, los plazos expresados por horas se contarán:",
+    "options": [
+      "De día en día natural, sin tener en cuenta la hora exacta de la notificación.",
+      "Desde la medianoche del día en que se dicte el acto, redondeando a la hora completa.",
+      "De hora en hora y de minuto en minuto desde la hora y minuto en que tenga lugar la notificación o publicación del acto."
+    ],
+    "correct": 2,
+    "exp": "El art. 30.1 LPAC dispone que los plazos expresados por horas se contarán de hora en hora y de minuto en minuto desde la hora y minuto en que tenga lugar la notificación o publicación del acto de que se trate.",
+    "fuente": "Art. 30.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el art. 30.1 LPAC, un plazo señalado por horas no podrá tener una duración superior a:",
+    "options": [
+      "Veinticuatro horas, en cuyo caso se expresará en días.",
+      "Doce horas, en cuyo caso se expresará en días.",
+      "Cuarenta y ocho horas, en cuyo caso se expresará en semanas."
+    ],
+    "correct": 0,
+    "exp": "El art. 30.1 LPAC señala que los plazos por horas no podrán tener una duración superior a veinticuatro horas, en cuyo caso se expresarán en días.",
+    "fuente": "Art. 30.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando los plazos administrativos se señalen por días y no se exprese otro cómputo, el art. 30.2 LPAC establece que se entienden días hábiles, quedando excluidos del cómputo:",
+    "options": [
+      "Únicamente los domingos y festivos, pero no los sábados.",
+      "Los sábados, los domingos y los declarados festivos.",
+      "Solo los días declarados festivos a nivel nacional."
+    ],
+    "correct": 1,
+    "exp": "El art. 30.2 LPAC dispone que, cuando los plazos se señalen por días, se entiende que éstos son hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos.",
+    "fuente": "Art. 30.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 30.2 LPAC, cuando los plazos se hayan señalado por días naturales por así declararlo una ley o el Derecho de la Unión Europea, ¿qué obligación se impone a la Administración?",
+    "options": [
+      "Ninguna; no es preciso advertir de esa circunstancia.",
+      "Debe solicitar autorización previa del interesado para aplicar días naturales.",
+      "Debe hacer constar esta circunstancia en las correspondientes notificaciones."
+    ],
+    "correct": 2,
+    "exp": "El art. 30.2 LPAC, segundo párrafo, exige que cuando los plazos se hayan señalado por días naturales por declararlo así una ley o el Derecho de la Unión Europea, se haga constar esta circunstancia en las correspondientes notificaciones.",
+    "fuente": "Art. 30.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 30.3 LPAC dispone que los plazos expresados en días se contarán a partir de:",
+    "options": [
+      "El día siguiente a aquel en que tenga lugar la notificación o publicación del acto, o desde el siguiente a la estimación o desestimación por silencio administrativo.",
+      "El mismo día en que tenga lugar la notificación o publicación del acto.",
+      "El día en que el interesado manifieste haber recibido la notificación."
+    ],
+    "correct": 0,
+    "exp": "El art. 30.3 LPAC establece que los plazos expresados en días se contarán a partir del día siguiente a aquel en que tenga lugar la notificación o publicación del acto, o desde el siguiente a aquel en que se produzca la estimación o desestimación por silencio administrativo.",
+    "fuente": "Art. 30.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "En un procedimiento en el que opera el silencio administrativo, conforme al art. 30.3 LPAC, el cómputo del plazo en días se inicia:",
+    "options": [
+      "Desde el día en que el órgano competente dicte la resolución expresa tardía.",
+      "Desde el día siguiente a aquel en que se produzca la estimación o desestimación por silencio administrativo.",
+      "Desde el día siguiente a la publicación del acto en el Boletín Oficial correspondiente, exclusivamente."
+    ],
+    "correct": 1,
+    "exp": "El art. 30.3 LPAC contempla expresamente que el cómputo de los plazos en días se inicia también desde el día siguiente a aquel en que se produzca la estimación o la desestimación por silencio administrativo.",
+    "fuente": "Art. 30.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 30.4 LPAC, un plazo fijado en meses concluirá:",
+    "options": [
+      "El día último de cada mes, con independencia de la fecha de notificación.",
+      "El primer día hábil del mes de vencimiento.",
+      "El mismo día en que se produjo la notificación, publicación o silencio administrativo, en el mes de vencimiento."
+    ],
+    "correct": 2,
+    "exp": "El art. 30.4 LPAC establece que el plazo concluirá el mismo día en que se produjo la notificación, publicación o silencio administrativo en el mes o el año de vencimiento.",
+    "fuente": "Art. 30.4 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Si un plazo se fija en meses y, en el mes de vencimiento, no existe día equivalente a aquel en que comenzó el cómputo, el art. 30.4 LPAC establece que el plazo expira:",
+    "options": [
+      "El último día del mes.",
+      "El primer día del mes siguiente.",
+      "El día anterior al que se produjo la notificación en el mes de inicio."
+    ],
+    "correct": 0,
+    "exp": "El art. 30.4 LPAC dispone que si en el mes de vencimiento no hubiera día equivalente a aquel en que comienza el cómputo, se entenderá que el plazo expira el último día del mes.",
+    "fuente": "Art. 30.4 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 30.5 LPAC, si el último día de un plazo administrativo resulta inhábil:",
+    "options": [
+      "El plazo se da por vencido igualmente, sin prórroga alguna.",
+      "El plazo se entiende prorrogado al primer día hábil siguiente.",
+      "El plazo se acorta en un día para compensar."
+    ],
+    "correct": 1,
+    "exp": "El art. 30.5 LPAC establece que cuando el último día del plazo sea inhábil, se entenderá prorrogado al primer día hábil siguiente, sin necesidad de solicitud del interesado.",
+    "fuente": "Art. 30.5 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 30.6 LPAC resuelve el supuesto en que un día sea hábil en el municipio o Comunidad Autónoma del interesado e inhábil en la sede del órgano administrativo (o a la inversa), estableciendo que dicho día:",
+    "options": [
+      "Se considerará hábil en todo caso, primando la situación más favorable al interesado.",
+      "Se considerará hábil solo si el interesado actúa por medios electrónicos.",
+      "Se considerará inhábil en todo caso."
+    ],
+    "correct": 2,
+    "exp": "El art. 30.6 LPAC dispone que cuando un día fuese hábil en el municipio o Comunidad Autónoma del interesado e inhábil en la sede del órgano administrativo, o a la inversa, se considerará inhábil en todo caso.",
+    "fuente": "Art. 30.6 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 30.7 LPAC, el calendario de días inhábiles a efectos de cómputo de plazos aprobado por las Comunidades Autónomas:",
+    "options": [
+      "Comprenderá los días inhábiles de las Entidades Locales de su ámbito territorial, a las que será de aplicación.",
+      "Solo es aplicable a los órganos de la propia Comunidad Autónoma, no a las Entidades Locales.",
+      "Debe ser ratificado previamente por la Administración General del Estado."
+    ],
+    "correct": 0,
+    "exp": "El art. 30.7 LPAC establece que el calendario aprobado por las Comunidades Autónomas comprenderá los días inhábiles de las Entidades Locales correspondientes a su ámbito territorial, a las que será de aplicación.",
+    "fuente": "Art. 30.7 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 30.7 LPAC exige que el calendario de días inhábiles se publique:",
+    "options": [
+      "Únicamente en la sede electrónica del órgano competente, sin necesidad de diario oficial.",
+      "Antes del comienzo de cada año, en el diario oficial que corresponda y en otros medios que garanticen su conocimiento generalizado.",
+      "Dentro de los tres primeros meses de cada año, sin necesidad de otra difusión."
+    ],
+    "correct": 1,
+    "exp": "El art. 30.7 LPAC, segundo párrafo, dispone que dicho calendario deberá publicarse antes del comienzo de cada año en el diario oficial que corresponda, así como en otros medios de difusión que garanticen su conocimiento generalizado.",
+    "fuente": "Art. 30.7 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 30.8 LPAC, la declaración de un día como hábil o inhábil a efectos de cómputo de plazos:",
+    "options": [
+      "Determina automáticamente el cierre de los centros de trabajo de las Administraciones Públicas ese día.",
+      "Solo afecta a los registros electrónicos, no al resto de efectos administrativos.",
+      "No determina por sí sola el funcionamiento de los centros de trabajo, la organización del tiempo de trabajo ni el régimen de jornada y horarios."
+    ],
+    "correct": 2,
+    "exp": "El art. 30.8 LPAC precisa que la declaración de un día como hábil o inhábil a efectos de cómputo de plazos no determina por sí sola el funcionamiento de los centros de trabajo de las Administraciones Públicas, la organización del tiempo de trabajo o el régimen de jornada y horarios de las mismas.",
+    "fuente": "Art. 30.8 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 31.1 LPAC, cada Administración Pública debe publicar:",
+    "options": [
+      "Los días y el horario en que permanecerán abiertas las oficinas que prestarán asistencia para la presentación electrónica de documentos.",
+      "Únicamente el organigrama de las unidades de registro.",
+      "El listado de funcionarios habilitados para certificar copias."
+    ],
+    "correct": 0,
+    "exp": "El art. 31.1 LPAC dispone que cada Administración Pública publicará los días y el horario en el que deban permanecer abiertas las oficinas que prestarán asistencia para la presentación electrónica de documentos, garantizando el derecho de los interesados a ser asistidos en el uso de medios electrónicos.",
+    "fuente": "Art. 31.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "A efectos de cómputo de plazos, el art. 31.2 LPAC establece que el registro electrónico de cada Administración u Organismo se rige por:",
+    "options": [
+      "La fecha y hora que consigne el propio interesado en el documento presentado.",
+      "La fecha y hora oficial de la sede electrónica de acceso, que debe figurar de modo accesible y visible.",
+      "La hora del servidor del proveedor de servicios de certificación electrónica del interesado."
+    ],
+    "correct": 1,
+    "exp": "El art. 31.2 LPAC dispone que el registro electrónico de cada Administración u Organismo se regirá, a efectos de cómputo de plazos, por la fecha y hora oficial de la sede electrónica de acceso, que deberá figurar de modo accesible y visible.",
+    "fuente": "Art. 31.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 31.2 a) LPAC establece que el funcionamiento del registro electrónico permitirá la presentación de documentos:",
+    "options": [
+      "Solo en días hábiles, durante el horario de atención al público.",
+      "Los días hábiles y, además, los sábados por la mañana.",
+      "Todos los días del año durante las veinticuatro horas."
+    ],
+    "correct": 2,
+    "exp": "El art. 31.2 a) LPAC dispone que el registro electrónico permitirá la presentación de documentos todos los días del año durante las veinticuatro horas.",
+    "fuente": "Art. 31.2.a) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 31.2 b) LPAC, salvo que una norma permita expresamente la recepción en día inhábil, la presentación de un documento en día inhábil se entiende realizada, a efectos del cómputo de plazos fijados en días hábiles:",
+    "options": [
+      "En la primera hora del primer día hábil siguiente.",
+      "En la última hora del día inhábil en que efectivamente se presentó.",
+      "Transcurridos tres días hábiles desde la presentación efectiva."
+    ],
+    "correct": 0,
+    "exp": "El art. 31.2 b) LPAC establece que, salvo que una norma permita expresamente la recepción en día inhábil, la presentación en día inhábil se entenderá realizada en la primera hora del primer día hábil siguiente.",
+    "fuente": "Art. 31.2.b) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 31.2 b) LPAC, los documentos presentados en un día inhábil, respecto de los presentados el primer día hábil posterior, se reputarán:",
+    "options": [
+      "Posteriores, según el orden de hora efectiva de presentación en el día inhábil.",
+      "Anteriores, según el orden de hora efectiva en que se presentaron en el día inhábil.",
+      "Inadmitidos, salvo ratificación expresa del interesado en el día hábil siguiente."
+    ],
+    "correct": 1,
+    "exp": "El art. 31.2 b) LPAC dispone que los documentos presentados en el día inhábil se reputarán anteriores, según el orden de hora efectiva, a los que lo fueran el primer día hábil posterior.",
+    "fuente": "Art. 31.2.b) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 31.2 c) LPAC dispone que el inicio del cómputo de los plazos que deban cumplir las Administraciones Públicas viene determinado por:",
+    "options": [
+      "La fecha en que el órgano competente dicta la resolución de admisión a trámite.",
+      "La fecha de entrada en el registro general del Ministerio competente por razón de la materia.",
+      "La fecha y hora de presentación en el registro electrónico de cada Administración u Organismo."
+    ],
+    "correct": 2,
+    "exp": "El art. 31.2 c) LPAC establece que el inicio del cómputo de los plazos que hayan de cumplir las Administraciones Públicas vendrá determinado por la fecha y hora de presentación en el registro electrónico de cada Administración u Organismo.",
+    "fuente": "Art. 31.2.c) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 31.2 c) LPAC, la fecha y hora efectiva de inicio del cómputo de plazos:",
+    "options": [
+      "En todo caso deberá ser comunicada a quien presentó el documento.",
+      "No es preciso comunicarla al interesado, al constar ya en el justificante de presentación.",
+      "Solo debe comunicarse si el interesado lo solicita expresamente."
+    ],
+    "correct": 0,
+    "exp": "El art. 31.2 c) LPAC exige que, en todo caso, la fecha y hora efectiva de inicio del cómputo de plazos deba ser comunicada a quien presentó el documento.",
+    "fuente": "Art. 31.2.c) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 31.3 LPAC, los días inhábiles a efectos de los registros electrónicos se determinan atendiendo:",
+    "options": [
+      "Exclusivamente al calendario laboral del personal que presta servicio en la oficina de registro presencial.",
+      "Al ámbito territorial en que ejerce sus competencias el titular de la sede electrónica y al calendario previsto en el art. 30.7.",
+      "A un calendario único fijado por el Ministerio de Asuntos Económicos para toda España."
+    ],
+    "correct": 1,
+    "exp": "El art. 31.3 LPAC dispone que la sede electrónica del registro determinará los días inhábiles atendiendo al ámbito territorial en que ejerce sus competencias el titular de aquélla y al calendario previsto en el art. 30.7.",
+    "fuente": "Art. 31.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 31.3 LPAC precisa que, a efectos del cómputo de plazos en los registros electrónicos:",
+    "options": [
+      "Se aplica la regla del art. 30.6 sobre discordancia entre el día hábil del interesado y el de la sede del órgano.",
+      "Cada interesado puede elegir el calendario de días inhábiles de su municipio de residencia.",
+      "Rige un único calendario de días inhábiles, sin que resulte de aplicación lo dispuesto en el art. 30.6."
+    ],
+    "correct": 2,
+    "exp": "El art. 31.3 LPAC establece que este será el único calendario de días inhábiles aplicable al cómputo de plazos en los registros electrónicos, sin que resulte de aplicación a los mismos lo dispuesto en el art. 30.6.",
+    "fuente": "Art. 31.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 32.1 LPAC, salvo precepto en contrario, la ampliación de los plazos establecidos que puede conceder la Administración, de oficio o a petición de los interesados, no podrá exceder de:",
+    "options": [
+      "La mitad de los mismos.",
+      "El doble de los plazos originales.",
+      "Un tercio de los plazos originales."
+    ],
+    "correct": 0,
+    "exp": "El art. 32.1 LPAC dispone que la Administración podrá conceder una ampliación de los plazos establecidos que no exceda de la mitad de los mismos.",
+    "fuente": "Art. 32.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 32.1 LPAC, para que la Administración pueda conceder una ampliación de plazos es necesario que:",
+    "options": [
+      "Lo soliciten conjuntamente todos los interesados en el procedimiento, sin excepción.",
+      "Las circunstancias lo aconsejen y con ello no se perjudiquen derechos de tercero, debiendo notificarse el acuerdo a los interesados.",
+      "El procedimiento se tramite por vía de urgencia."
+    ],
+    "correct": 1,
+    "exp": "El art. 32.1 LPAC exige que las circunstancias lo aconsejen y que con la ampliación no se perjudiquen derechos de tercero, y añade que el acuerdo de ampliación deberá ser notificado a los interesados.",
+    "fuente": "Art. 32.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 32.2 LPAC dispone que la ampliación de los plazos por el tiempo máximo permitido se aplicará en todo caso a los procedimientos tramitados por:",
+    "options": [
+      "Los tribunales económico-administrativos.",
+      "Las entidades gestoras de la Seguridad Social.",
+      "Las misiones diplomáticas y oficinas consulares."
+    ],
+    "correct": 2,
+    "exp": "El art. 32.2 LPAC establece que la ampliación de los plazos por el tiempo máximo permitido se aplicará en todo caso a los procedimientos tramitados por las misiones diplomáticas y oficinas consulares.",
+    "fuente": "Art. 32.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Además de los procedimientos tramitados por misiones diplomáticas y oficinas consulares, el art. 32.2 LPAC extiende la ampliación de plazos por el tiempo máximo permitido a los procedimientos que, sustanciándose en el interior:",
+    "options": [
+      "Exijan cumplimentar algún trámite en el extranjero o en los que intervengan interesados residentes fuera de España.",
+      "Se refieran a expedientes de responsabilidad patrimonial de cuantía elevada.",
+      "Se tramiten exclusivamente por medios electrónicos."
+    ],
+    "correct": 0,
+    "exp": "El art. 32.2 LPAC también aplica la ampliación por el tiempo máximo a los procedimientos que, sustanciándose en el interior, exijan cumplimentar algún trámite en el extranjero o en los que intervengan interesados residentes fuera de España.",
+    "fuente": "Art. 32.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 32.3 LPAC, la petición de ampliación de un plazo por el interesado y la decisión de la Administración sobre ella deben producirse:",
+    "options": [
+      "En cualquier momento, incluso tras el vencimiento del plazo, si median causas justificadas.",
+      "Antes del vencimiento del plazo de que se trate, en todo caso.",
+      "Dentro de los diez días siguientes al vencimiento del plazo."
+    ],
+    "correct": 1,
+    "exp": "El art. 32.3 LPAC dispone que tanto la petición de los interesados como la decisión sobre la ampliación deberán producirse, en todo caso, antes del vencimiento del plazo de que se trate.",
+    "fuente": "Art. 32.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el art. 32.3 LPAC, los acuerdos sobre ampliación de plazos o sobre su denegación:",
+    "options": [
+      "Son susceptibles de recurso de alzada de forma autónoma.",
+      "Deben recurrirse obligatoriamente antes de que se dicte la resolución que ponga fin al procedimiento.",
+      "No son susceptibles de recurso, sin perjuicio del procedente contra la resolución que ponga fin al procedimiento."
+    ],
+    "correct": 2,
+    "exp": "El art. 32.3 LPAC establece que los acuerdos sobre ampliación de plazos o sobre su denegación no serán susceptibles de recurso, sin perjuicio del procedente contra la resolución que ponga fin al procedimiento.",
+    "fuente": "Art. 32.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando una incidencia técnica haya imposibilitado el funcionamiento ordinario del sistema o aplicación correspondiente, el art. 32.4 LPAC permite a la Administración:",
+    "options": [
+      "Determinar una ampliación de los plazos no vencidos, publicando en la sede electrónica la incidencia y la ampliación concreta acordada.",
+      "Suspender indefinidamente el procedimiento sin necesidad de publicar nada.",
+      "Ampliar únicamente los plazos ya vencidos con anterioridad a la incidencia."
+    ],
+    "correct": 0,
+    "exp": "El art. 32.4 LPAC permite a la Administración determinar una ampliación de los plazos no vencidos cuando una incidencia técnica haya imposibilitado el funcionamiento ordinario del sistema, debiendo publicar en la sede electrónica tanto la incidencia como la ampliación concreta del plazo.",
+    "fuente": "Art. 32.4 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 32.5 LPAC, introducido por el Real Decreto-ley 6/2022, prevé que cuando un ciberincidente afecte gravemente a los servicios y sistemas utilizados para la tramitación de los procedimientos, la Administración podrá:",
+    "options": [
+      "Declarar la nulidad de pleno derecho de todos los procedimientos en curso.",
+      "Acordar la ampliación general de plazos de los procedimientos administrativos.",
+      "Exigir a los interesados la presentación de sus solicitudes exclusivamente en papel."
+    ],
+    "correct": 1,
+    "exp": "El art. 32.5 LPAC dispone que cuando, como consecuencia de un ciberincidente, se hayan visto gravemente afectados los servicios y sistemas utilizados para la tramitación de los procedimientos, la Administración podrá acordar la ampliación general de plazos de los procedimientos administrativos.",
+    "fuente": "Art. 32.5 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 33.1 LPAC, la tramitación de urgencia de un procedimiento se podrá acordar cuando:",
+    "options": [
+      "Lo solicite cualquier interesado, sin necesidad de motivación adicional.",
+      "Así lo determine el Defensor del Pueblo en su informe anual.",
+      "Razones de interés público lo aconsejen, de oficio o a petición del interesado."
+    ],
+    "correct": 2,
+    "exp": "El art. 33.1 LPAC dispone que cuando razones de interés público lo aconsejen, se podrá acordar, de oficio o a petición del interesado, la aplicación al procedimiento de la tramitación de urgencia.",
+    "fuente": "Art. 33.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El efecto principal de la tramitación de urgencia, según el art. 33.1 LPAC, consiste en que:",
+    "options": [
+      "Se reducen a la mitad los plazos establecidos para el procedimiento ordinario, salvo los relativos a la presentación de solicitudes y recursos.",
+      "Se duplican los plazos establecidos para el procedimiento ordinario.",
+      "Se reducen a la mitad todos los plazos, incluidos los de presentación de solicitudes y recursos, sin excepción."
+    ],
+    "correct": 0,
+    "exp": "El art. 33.1 LPAC establece que la tramitación de urgencia reduce a la mitad los plazos establecidos para el procedimiento ordinario, salvo los relativos a la presentación de solicitudes y recursos.",
+    "fuente": "Art. 33.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué plazos quedan excluidos de la reducción a la mitad prevista en el art. 33.1 LPAC para la tramitación de urgencia?",
+    "options": [
+      "Los relativos a los informes preceptivos no vinculantes.",
+      "Los relativos a la presentación de solicitudes y recursos.",
+      "Los relativos a la notificación de la resolución final."
+    ],
+    "correct": 1,
+    "exp": "El art. 33.1 LPAC exceptúa expresamente de la reducción a la mitad los plazos relativos a la presentación de solicitudes y recursos.",
+    "fuente": "Art. 33.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 33.2 LPAC, contra el acuerdo que declare la aplicación de la tramitación de urgencia a un procedimiento:",
+    "options": [
+      "Cabrá recurso potestativo de reposición, únicamente.",
+      "Cabrá recurso extraordinario de revisión ante el órgano superior jerárquico.",
+      "No cabrá recurso alguno, sin perjuicio del procedente contra la resolución que ponga fin al procedimiento."
+    ],
+    "correct": 2,
+    "exp": "El art. 33.2 LPAC dispone que no cabrá recurso alguno contra el acuerdo que declare la aplicación de la tramitación de urgencia al procedimiento, sin perjuicio del procedente contra la resolución que ponga fin al procedimiento.",
+    "fuente": "Art. 33.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El interesado que no esté de acuerdo con la aplicación de la tramitación de urgencia acordada a su procedimiento, según el art. 33.2 LPAC:",
+    "options": [
+      "No puede recurrir directamente dicho acuerdo, sin perjuicio de poder impugnar la resolución que ponga fin al procedimiento.",
+      "Puede recurrir directamente ese acuerdo ante el mismo órgano que lo dictó.",
+      "Puede solicitar la suspensión cautelar del procedimiento ante el juzgado contencioso-administrativo."
+    ],
+    "correct": 0,
+    "exp": "El art. 33.2 LPAC excluye el recurso directo contra el acuerdo de tramitación de urgencia, reservando la impugnación para la resolución que ponga fin al procedimiento.",
+    "fuente": "Art. 33.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántos derechos enumera expresamente el art. 13 de la Ley 39/2015 (LPAC) a favor de quienes tienen capacidad de obrar ante las Administraciones Públicas?",
+    "options": [
+      "Diez",
+      "Nueve",
+      "Seis"
+    ],
+    "correct": 1,
+    "exp": "El art. 13 LPAC enumera nueve derechos, en las letras a) a i).",
+    "fuente": "Art. 13 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de los siguientes NO figura entre los derechos que el art. 13 LPAC reconoce a las personas en sus relaciones con las Administraciones Públicas?",
+    "options": [
+      "A la obtención y utilización de los medios de identificación y firma electrónica contemplados en la Ley",
+      "A ser tratados con respeto y deferencia por las autoridades y empleados públicos",
+      "A obtener una resolución en un plazo máximo de veinticuatro horas en cualquier procedimiento"
+    ],
+    "correct": 2,
+    "exp": "El art. 13 LPAC no recoge un derecho genérico a obtener resolución en 24 horas; sí recoge, entre otros, los derechos de las letras g), h) y e).",
+    "fuente": "Art. 13 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En qué letra del art. 13 LPAC se reconoce el derecho de las personas a exigir las responsabilidades de las Administraciones Públicas y autoridades, cuando así corresponda legalmente?",
+    "options": [
+      "Letra f)",
+      "Letra i)",
+      "Letra b)"
+    ],
+    "correct": 0,
+    "exp": "Es la letra f) del art. 13 LPAC: 'A exigir las responsabilidades de las Administraciones Públicas y autoridades, cuando así corresponda legalmente.'",
+    "fuente": "Art. 13.f) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13.d) LPAC, ¿de qué fecha es la Ley de transparencia, acceso a la información pública y buen gobierno que se cita como referencia para ese derecho?",
+    "options": [
+      "De 4 de diciembre de 2013",
+      "De 9 de diciembre de 2013",
+      "De 26 de noviembre de 1992"
+    ],
+    "correct": 1,
+    "exp": "El art. 13.d) LPAC remite a 'la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno'.",
+    "fuente": "Art. 13.d) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En qué letra del art. 13 LPAC se reconoce el derecho a utilizar las lenguas oficiales en el territorio de la Comunidad Autónoma correspondiente?",
+    "options": [
+      "Letra g)",
+      "Letra e)",
+      "Letra c)"
+    ],
+    "correct": 2,
+    "exp": "Es la letra c): 'A utilizar las lenguas oficiales en el territorio de su Comunidad Autónoma, de acuerdo con lo previsto en esta Ley y en el resto del ordenamiento jurídico.'",
+    "fuente": "Art. 13.c) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En qué letra del art. 13 LPAC se reconoce el derecho a la protección de datos de carácter personal?",
+    "options": [
+      "Letra h)",
+      "Letra f)",
+      "Letra d)"
+    ],
+    "correct": 0,
+    "exp": "Es la letra h): 'A la protección de datos de carácter personal, y en particular a la seguridad y confidencialidad de los datos que figuren en los ficheros, sistemas y aplicaciones de las Administraciones Públicas.'",
+    "fuente": "Art. 13.h) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En qué letra del art. 13 LPAC se reconoce el derecho al acceso a la información pública, archivos y registros?",
+    "options": [
+      "Letra g)",
+      "Letra d)",
+      "Letra i)"
+    ],
+    "correct": 1,
+    "exp": "Es la letra d): 'Al acceso a la información pública, archivos y registros, de acuerdo con lo previsto en la Ley 19/2013... y el resto del Ordenamiento Jurídico.'",
+    "fuente": "Art. 13.d) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 14.2.b) LPAC, ¿qué sujetos están obligados en todo caso a relacionarse a través de medios electrónicos con las Administraciones Públicas?",
+    "options": [
+      "Las personas físicas jubiladas",
+      "Los turistas extranjeros en tránsito",
+      "Las entidades sin personalidad jurídica"
+    ],
+    "correct": 2,
+    "exp": "Art. 14.2.b): 'Las entidades sin personalidad jurídica.'",
+    "fuente": "Art. 14.2.b) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 14 de la Ley 39/2015 lleva por rúbrica:",
+    "options": [
+      "Derecho y obligación de relacionarse electrónicamente con las Administraciones Públicas",
+      "Registros electrónicos de las Administraciones Públicas",
+      "Asistencia en el uso de medios electrónicos a los interesados"
+    ],
+    "correct": 0,
+    "exp": "El art. 14 LPAC se titula 'Derecho y obligación de relacionarse electrónicamente con las Administraciones Públicas'.",
+    "fuente": "Art. 14 LPAC (rúbrica) (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántos colectivos o sujetos enumera expresamente el art. 14.2 LPAC como obligados, en todo caso, a relacionarse electrónicamente con las Administraciones Públicas?",
+    "options": [
+      "Cuatro",
+      "Cinco",
+      "Seis"
+    ],
+    "correct": 1,
+    "exp": "El art. 14.2 LPAC enumera cinco sujetos, en las letras a) a e).",
+    "fuente": "Art. 14.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 14.2 LPAC, la obligación de relacionarse electrónicamente que recae sobre los sujetos enumerados en ese apartado se aplica a:",
+    "options": [
+      "Solo a los trámites que superen una determinada cuantía económica",
+      "Únicamente a los procedimientos sancionadores",
+      "La realización de cualquier trámite de un procedimiento administrativo"
+    ],
+    "correct": 2,
+    "exp": "Art. 14.2: 'estarán obligados a relacionarse a través de medios electrónicos... para la realización de cualquier trámite de un procedimiento administrativo, al menos, los siguientes sujetos...'",
+    "fuente": "Art. 14.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué letra del art. 14.2 LPAC incluye entre los obligados a relacionarse electrónicamente a las personas jurídicas?",
+    "options": [
+      "Letra a)",
+      "Letra e)",
+      "Letra b)"
+    ],
+    "correct": 0,
+    "exp": "Es la letra a): 'Las personas jurídicas.'",
+    "fuente": "Art. 14.2.a) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué letra del art. 14.2 LPAC incluye entre los obligados a relacionarse electrónicamente a las entidades sin personalidad jurídica?",
+    "options": [
+      "Letra a)",
+      "Letra b)",
+      "Letra e)"
+    ],
+    "correct": 1,
+    "exp": "Es la letra b): 'Las entidades sin personalidad jurídica.'",
+    "fuente": "Art. 14.2.b) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué letra del art. 14.2 LPAC obliga a relacionarse electrónicamente a quienes representen a un interesado que esté a su vez obligado a ello?",
+    "options": [
+      "Letra e)",
+      "Letra b)",
+      "Letra d)"
+    ],
+    "correct": 2,
+    "exp": "Es la letra d): 'Quienes representen a un interesado que esté obligado a relacionarse electrónicamente con la Administración.'",
+    "fuente": "Art. 14.2.d) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 14.2 LPAC, la enumeración de sujetos obligados a relacionarse electrónicamente ('al menos, los siguientes sujetos') debe entenderse como una lista:",
+    "options": [
+      "Mínima, que no impide que otras normas amplíen los obligados",
+      "Cerrada y exhaustiva, que no admite otros supuestos",
+      "Aplicable solo a la Administración General del Estado"
+    ],
+    "correct": 0,
+    "exp": "El propio art. 14.2 emplea la expresión 'al menos, los siguientes sujetos', lo que indica que es una relación mínima y no cerrada.",
+    "fuente": "Art. 14.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 14.3 LPAC, ¿mediante qué tipo de norma pueden las Administraciones establecer la obligación de relacionarse electrónicamente para determinados colectivos de personas físicas?",
+    "options": [
+      "Mediante ley orgánica",
+      "Reglamentariamente",
+      "Mediante ordenanza municipal exclusivamente"
+    ],
+    "correct": 1,
+    "exp": "Art. 14.3: 'Reglamentariamente, las Administraciones podrán establecer la obligación de relacionarse con ellas a través de medios electrónicos...'",
+    "fuente": "Art. 14.3 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "A diferencia de los sujetos enumerados en el art. 14.2 LPAC, la obligación reglamentaria prevista en el art. 14.3 LPAC solo puede imponerse a:",
+    "options": [
+      "Personas jurídicas",
+      "Entidades sin personalidad jurídica",
+      "Ciertos colectivos de personas físicas"
+    ],
+    "correct": 2,
+    "exp": "El art. 14.3 permite establecer reglamentariamente la obligación 'para ciertos colectivos de personas físicas', a diferencia de los sujetos ya obligados por ley en el art. 14.2.",
+    "fuente": "Art. 14.3 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 14.1 LPAC, la posibilidad de las personas físicas de elegir el medio para comunicarse con las Administraciones Públicas se refiere al ejercicio de:",
+    "options": [
+      "Sus derechos y obligaciones",
+      "Únicamente sus obligaciones tributarias",
+      "Sus derechos exclusivamente, no sus obligaciones"
+    ],
+    "correct": 0,
+    "exp": "Art. 14.1: 'Las personas físicas podrán elegir en todo momento si se comunican con las Administraciones Públicas para el ejercicio de sus derechos y obligaciones a través de medios electrónicos o no...'",
+    "fuente": "Art. 14.1 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 14.2.e) LPAC, la obligación de los empleados públicos de relacionarse electrónicamente con la Administración se limita a:",
+    "options": [
+      "Todos los trámites que realicen, sean o no relativos a su condición de empleado público",
+      "Los trámites y actuaciones que realicen por razón de su condición de empleado público",
+      "Los trámites realizados fuera de su jornada laboral"
+    ],
+    "correct": 1,
+    "exp": "Art. 14.2.e): 'Los empleados de las Administraciones Públicas para los trámites y actuaciones que realicen con ellas por razón de su condición de empleado público...'",
+    "fuente": "Art. 14.2.e) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué letra del art. 14.2 LPAC incluye entre los obligados a relacionarse electrónicamente a quienes ejerzan una actividad profesional que requiera colegiación obligatoria?",
+    "options": [
+      "Letra e)",
+      "Letra a)",
+      "Letra c)"
+    ],
+    "correct": 2,
+    "exp": "Es la letra c): 'Quienes ejerzan una actividad profesional para la que se requiera colegiación obligatoria...'",
+    "fuente": "Art. 14.2.c) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 14.1 LPAC, ¿en qué momento puede una persona física modificar el medio elegido para comunicarse con la Administración?",
+    "options": [
+      "En cualquier momento",
+      "Solo al inicio de cada procedimiento",
+      "Una sola vez por procedimiento"
+    ],
+    "correct": 0,
+    "exp": "Art. 14.1 in fine: 'El medio elegido por la persona para comunicarse con las Administraciones Públicas podrá ser modificado por aquella en cualquier momento.'",
+    "fuente": "Art. 14.1 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 15 de la Ley 39/2015 lleva por rúbrica:",
+    "options": [
+      "Colaboración de las personas",
+      "Lengua de los procedimientos",
+      "Comparecencia de las personas"
+    ],
+    "correct": 1,
+    "exp": "El art. 15 LPAC se titula 'Lengua de los procedimientos'.",
+    "fuente": "Art. 15 LPAC (rúbrica) (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántos apartados numerados tiene el art. 15 LPAC ('Lengua de los procedimientos')?",
+    "options": [
+      "Dos",
+      "Cinco",
+      "Tres"
+    ],
+    "correct": 2,
+    "exp": "El art. 15 LPAC tiene tres apartados.",
+    "fuente": "Art. 15 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 15.1 LPAC, ¿ante qué órganos de la Administración General del Estado pueden los interesados utilizar también la lengua que sea cooficial?",
+    "options": [
+      "Ante los órganos de la AGE con sede en el territorio de una Comunidad Autónoma donde esa lengua sea cooficial",
+      "Ante cualquier órgano de la AGE, esté donde esté su sede",
+      "Únicamente ante los órganos centrales con sede en Madrid"
+    ],
+    "correct": 0,
+    "exp": "Art. 15.1: 'los interesados que se dirijan a los órganos de la Administración General del Estado con sede en el territorio de una Comunidad Autónoma podrán utilizar también la lengua que sea cooficial en ella.'",
+    "fuente": "Art. 15.1 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 15.1 LPAC, cuando un único interesado se dirige a un órgano de la AGE con sede en su Comunidad Autónoma y opta por la lengua cooficial, el procedimiento se tramitará:",
+    "options": [
+      "Siempre en castellano, con independencia de la lengua elegida",
+      "En la lengua elegida por el interesado",
+      "En la lengua que decida el órgano competente para resolver"
+    ],
+    "correct": 1,
+    "exp": "Art. 15.1: 'En este caso, el procedimiento se tramitará en la lengua elegida por el interesado.'",
+    "fuente": "Art. 15.1 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 15.3 LPAC, ¿qué Administración tiene el deber de traducir al castellano los documentos que deban surtir efecto fuera del territorio de la Comunidad Autónoma?",
+    "options": [
+      "Cualquier Administración distinta de la instructora",
+      "La Administración General del Estado en todo caso",
+      "La Administración Pública instructora"
+    ],
+    "correct": 2,
+    "exp": "Art. 15.3: 'La Administración Pública instructora deberá traducir al castellano los documentos, expedientes o partes de los mismos que deban surtir efecto fuera del territorio de la Comunidad Autónoma...'",
+    "fuente": "Art. 15.3 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Además de los documentos que deban surtir efecto fuera del territorio de la Comunidad Autónoma, ¿qué otros documentos debe traducir al castellano la Administración instructora según el art. 15.3 LPAC?",
+    "options": [
+      "Los dirigidos a los interesados que así lo soliciten expresamente",
+      "Todos los documentos del expediente, sin excepción",
+      "Solo los documentos que se publiquen en el diario oficial"
+    ],
+    "correct": 0,
+    "exp": "Art. 15.3: '...y los documentos dirigidos a los interesados que así lo soliciten expresamente.'",
+    "fuente": "Art. 15.3 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En qué apartado del art. 15 LPAC se regula la obligación de la Administración instructora de traducir determinados documentos al castellano?",
+    "options": [
+      "Apartado 1",
+      "Apartado 3",
+      "Apartado 2"
+    ],
+    "correct": 1,
+    "exp": "Es el apartado 3 del art. 15 LPAC.",
+    "fuente": "Art. 15.3 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 15.2 LPAC, en los procedimientos tramitados por las Administraciones de las Comunidades Autónomas y de las Entidades Locales, la regla general del castellano prevista en el art. 15.1 para la Administración General del Estado:",
+    "options": [
+      "Se aplica igualmente sin ninguna particularidad",
+      "Se aplica solo si el interesado no manifiesta preferencia",
+      "No se aplica directamente; el uso de la lengua se ajusta a la legislación autonómica correspondiente"
+    ],
+    "correct": 2,
+    "exp": "Art. 15.2: 'En los procedimientos tramitados por las Administraciones de las Comunidades Autónomas y de las Entidades Locales, el uso de la lengua se ajustará a lo previsto en la legislación autonómica correspondiente.'",
+    "fuente": "Art. 15.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué apartado del art. 15 LPAC remite expresamente a la legislación autonómica para determinar el uso de la lengua en los procedimientos de las Comunidades Autónomas y las Entidades Locales?",
+    "options": [
+      "El apartado 2",
+      "El apartado 3",
+      "El apartado 1"
+    ],
+    "correct": 0,
+    "exp": "Es el apartado 2 del art. 15 LPAC.",
+    "fuente": "Art. 15.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.1 LPAC, además del asiento de los documentos presentados o recibidos, ¿qué otra anotación pueden recoger los registros electrónicos?",
+    "options": [
+      "Las incidencias técnicas del sistema informático",
+      "La salida de los documentos oficiales dirigidos a otros órganos o particulares",
+      "Los acuerdos de los órganos colegiados"
+    ],
+    "correct": 1,
+    "exp": "Art. 16.1, párrafo primero: 'También se podrán anotar en el mismo, la salida de los documentos oficiales dirigidos a otros órganos o particulares.'",
+    "fuente": "Art. 16.1, párr. 1º, LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.1 LPAC, ¿qué debe figurar en la sede electrónica de acceso a cada registro?",
+    "options": [
+      "El organigrama completo de la Administración titular",
+      "La identidad de todos los funcionarios habilitados",
+      "La relación actualizada de trámites que pueden iniciarse en el mismo"
+    ],
+    "correct": 2,
+    "exp": "Art. 16.1: 'En la sede electrónica de acceso a cada registro figurará la relación actualizada de trámites que pueden iniciarse en el mismo.'",
+    "fuente": "Art. 16.1, párr. 1º, LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.2 LPAC, una vez concluido el trámite de registro, los documentos serán cursados a sus destinatarios y a las unidades administrativas correspondientes:",
+    "options": [
+      "Sin dilación",
+      "En el plazo máximo de un mes",
+      "Dentro de los quince días siguientes"
+    ],
+    "correct": 0,
+    "exp": "Art. 16.2: 'Concluido el trámite de registro, los documentos serán cursados sin dilación a sus destinatarios y a las unidades administrativas correspondientes...'",
+    "fuente": "Art. 16.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.4.a) LPAC, los documentos dirigidos a los órganos de las Administraciones Públicas pueden presentarse en el registro electrónico de la Administración u Organismo al que se dirijan, así como:",
+    "options": [
+      "Únicamente en el registro electrónico del órgano superior jerárquico",
+      "En el registro electrónico de la Administración u Organismo al que se dirijan, así como en los restantes registros electrónicos de cualquiera de los sujetos a los que se refiere el artículo 2.1",
+      "Solo en el registro de la Administración General del Estado"
+    ],
+    "correct": 1,
+    "exp": "Art. 16.4.a): 'En el registro electrónico de la Administración u Organismo al que se dirijan, así como en los restantes registros electrónicos de cualquiera de los sujetos a los que se refiere el artículo 2.1.'",
+    "fuente": "Art. 16.4.a) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.4.b) LPAC, uno de los lugares en los que pueden presentarse documentos dirigidos a las Administraciones Públicas es:",
+    "options": [
+      "En las notarías, sin necesidad de norma reglamentaria",
+      "En las sedes de los partidos políticos con representación municipal",
+      "En las oficinas de Correos, en la forma que reglamentariamente se establezca"
+    ],
+    "correct": 2,
+    "exp": "Art. 16.4.b): 'En las oficinas de Correos, en la forma que reglamentariamente se establezca.'",
+    "fuente": "Art. 16.4.b) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.4.c) LPAC, también pueden presentarse documentos dirigidos a las Administraciones Públicas en:",
+    "options": [
+      "Las representaciones diplomáticas u oficinas consulares de España en el extranjero",
+      "Las embajadas de otros países en España",
+      "Las cámaras de comercio"
+    ],
+    "correct": 0,
+    "exp": "Art. 16.4.c): 'En las representaciones diplomáticas u oficinas consulares de España en el extranjero.'",
+    "fuente": "Art. 16.4.c) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.4 LPAC, además de las letras a) a d), ¿qué cláusula final incluye la relación de lugares donde pueden presentarse documentos?",
+    "options": [
+      "Una cláusula cerrada que no admite más lugares",
+      "En cualquier otro que establezcan las disposiciones vigentes",
+      "Solo se permiten los cuatro lugares anteriores"
+    ],
+    "correct": 1,
+    "exp": "Art. 16.4.e): 'En cualquier otro que establezcan las disposiciones vigentes.'",
+    "fuente": "Art. 16.4.e) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántos lugares distintos enumera el art. 16.4 LPAC en los que pueden presentarse los documentos dirigidos a los órganos de las Administraciones Públicas?",
+    "options": [
+      "Cuatro",
+      "Seis",
+      "Cinco"
+    ],
+    "correct": 2,
+    "exp": "El art. 16.4 LPAC enumera cinco lugares, en las letras a) a e).",
+    "fuente": "Art. 16.4 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.6 LPAC, las cantidades que haya que satisfacer en el momento de la presentación de documentos a las Administraciones Públicas podrán hacerse efectivas mediante:",
+    "options": [
+      "Transferencia dirigida a la oficina pública correspondiente, sin perjuicio de otros medios de pago",
+      "Únicamente en metálico en la propia oficina de registro",
+      "Exclusivamente mediante tarjeta de crédito"
+    ],
+    "correct": 0,
+    "exp": "Art. 16.6: 'Podrán hacerse efectivos mediante transferencia dirigida a la oficina pública correspondiente cualesquiera cantidades que haya que satisfacer... sin perjuicio de la posibilidad de su abono por otros medios.'",
+    "fuente": "Art. 16.6 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.5 LPAC, además de la digitalización de los documentos presentados presencialmente, ¿qué pueden establecer reglamentariamente las Administraciones respecto a ciertos colectivos de personas físicas?",
+    "options": [
+      "La exención total de presentar cualquier documento",
+      "La obligación de presentar determinados documentos por medios electrónicos",
+      "La obligación de presentar los documentos exclusivamente en papel"
+    ],
+    "correct": 1,
+    "exp": "Art. 16.5, párrafo segundo: 'Reglamentariamente, las Administraciones podrán establecer la obligación de presentar determinados documentos por medios electrónicos para ciertos procedimientos y colectivos de personas físicas que, por razón de su capacidad económica, técnica, dedicación profesional u otros motivos quede acreditado que tienen acceso y disponibilidad de los medios electrónicos necesarios.'",
+    "fuente": "Art. 16.5, párr. 2º, LPAC (Ley 39/2015)",
+    "confianza": "alta"
   }
 ],
 5:[

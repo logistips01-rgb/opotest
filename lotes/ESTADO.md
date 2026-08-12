@@ -260,6 +260,46 @@ opciones y se volcaron al tema 4 ("La Administración Pública en la CE. Ley
 adicionales — 310 nuevas, 0 duplicadas. Banco de Policía Local: de 3.079 a
 **3.389 preguntas**.
 
+## Tema 5 · LPAC (II): la actividad de las AAPP. Normas generales de actuación. Términos y plazos — PRIMERA VUELTA CERRADA
+
+**260 preguntas** (de 100 que había), todas de 4 opciones. 4 lotes de 40,
+compartiendo el consolidado de la LPAC ya descargado.
+
+| Lote | Tramo | Confirmadas | Corregidas | Rechazadas |
+|---|---|---|---|---|
+| A | Derechos, relación electrónica, lengua, registros (arts. 13-16) | 40 | 0 | 0 |
+| B | Archivo, colaboración, comparecencia, responsabilidad, obligación de resolver, suspensión y ampliación (arts. 17-23) | 40 | 0 | 0 |
+| C | Silencio administrativo, emisión de documentos, validez de copias, documentos aportados (arts. 24-28) | 40 | 0 | 0 |
+| D | Términos y plazos (arts. 29-33) | 40 | 0 | 0 |
+
+Notas:
+- Antes de generar este tema se verificó contra el Anexo I oficial real
+  (BOPZ núm. 147, p.108, `tools/temarios/bases-aux-admin-zaragoza-2025.pdf`)
+  que el Título II de la LPAC (arts. 13-33) es exactamente el alcance del
+  tema 5, y que las 100 preguntas ya existentes caían íntegramente dentro
+  de ese rango — a diferencia del tema 1, aquí no hizo falta ninguna
+  depuración.
+- De paso se descubrió y corrigió un error propio: se intentó mover 29
+  preguntas del tema 5 (arts. 13-16) al tema 4 pensando que eran del
+  Título I ("los interesados"); al comprobar el cuerpo real de la LPAC se
+  vio que arts. 13-16 son en realidad el arranque del Título II (Cap. I,
+  "Normas generales de actuación") — el cambio se revirtió antes de
+  lanzar ningún agente.
+- El redactor del lote A encontró que el art. 13 completo y buena parte
+  del art. 16 ya estaban exhaustivamente cubiertos por un lote antiguo
+  etiquetado bajo el tema 15 ("Participación ciudadana"); evitó duplicar
+  y concentró su lote en los ángulos y artículos (14, 15) menos
+  explotados. Queda pendiente, sin urgencia, revisar si conviene
+  reetiquetar ese contenido histórico del tema 15 al tema 5.
+- El lote D detectó que el separador entre "Artículo" y el número en
+  `_lpac.txt` es un espacio de no separación (U+00A0), no un espacio
+  normal — hay que tenerlo en cuenta al usar grep sobre ese archivo.
+
+**Aprovechado para Policía Local**: las 260 preguntas se redujeron a 3
+opciones y se volcaron al tema 4, el mismo destino que los temas 6, 7 y 8,
+sin agentes adicionales — 260 nuevas, 0 duplicadas. Banco de Policía
+Local: de 3.389 a **3.649 preguntas**.
+
 ## Policía Local Zaragoza · importación de la Constitución desde Aux. Admin. (11-ago-2026)
 
 Segunda importación cruzada, esta vez con conversión real de 4→3 opciones
