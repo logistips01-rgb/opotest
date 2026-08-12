@@ -1,0 +1,606 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 11,
+  "preguntas": [
+    {
+      "q": "¿En virtud de qué condición reconoce el art. 4.1 LBRL las potestades que enumera a municipios, provincias e islas?",
+      "options": [
+        "Su calidad de Administraciones públicas de carácter territorial, dentro de la esfera de sus competencias",
+        "Su condición de personas jurídico-privadas",
+        "Su carácter de entidades subordinadas jerárquicamente al Estado",
+        "Su naturaleza de corporaciones de derecho público sin personalidad jurídica"
+      ],
+      "correct": 0,
+      "exp": "El art. 4.1 LBRL dispone: 'En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, corresponden en todo caso a los municipios, las provincias y las islas' las potestades que enumera.",
+      "fuente": "Art. 4.1 LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado el encabezamiento del art. 4.1 LBRL ('En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias...') contra el consolidado: coincide con la opción marcada."
+    },
+    {
+      "q": "¿Cuántas potestades enumera, mediante letras, el art. 4.1 LBRL como correspondientes en todo caso a municipios, provincias e islas?",
+      "options": [
+        "Seis (letras a a f)",
+        "Siete (letras a a g)",
+        "Ocho (letras a a h)",
+        "Diez (letras a a j)"
+      ],
+      "correct": 2,
+      "exp": "El art. 4.1 LBRL enumera ocho potestades, en las letras a) a h).",
+      "fuente": "Art. 4.1 LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Contadas las letras del art. 4.1 LBRL en el consolidado: son ocho (a-h); coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 4.1.a) LBRL, ¿qué potestades corresponden en todo caso a los municipios, provincias e islas?",
+      "options": [
+        "Las potestades reglamentaria y de autoorganización",
+        "Las potestades tributaria y financiera",
+        "La potestad de programación o planificación",
+        "La potestad de revisión de oficio de sus actos y acuerdos"
+      ],
+      "correct": 0,
+      "exp": "El art. 4.1.a) LBRL reconoce 'las potestades reglamentaria y de autoorganización'.",
+      "fuente": "Art. 4.1.a) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 4.1.a) LBRL comprobado literalmente: 'Las potestades reglamentaria y de autoorganización'; coincide."
+    },
+    {
+      "q": "¿Qué potestades reconoce la letra b) del art. 4.1 LBRL a las entidades locales?",
+      "options": [
+        "Las potestades tributaria y financiera",
+        "Las potestades reglamentaria y de autoorganización",
+        "La potestad de programación o planificación",
+        "Las potestades expropiatoria y de investigación, deslinde y recuperación de oficio de sus bienes"
+      ],
+      "correct": 0,
+      "exp": "El art. 4.1.b) LBRL reconoce 'las potestades tributaria y financiera'.",
+      "fuente": "Art. 4.1.b) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 4.1.b) LBRL comprobado literalmente: 'Las potestades tributaria y financiera'; coincide."
+    },
+    {
+      "q": "La potestad de programación o planificación de las entidades locales se recoge en:",
+      "options": [
+        "El art. 4.1.c) LBRL",
+        "El art. 4.1.a) LBRL",
+        "El art. 4.1.f) LBRL",
+        "El art. 84.1.a) LBRL"
+      ],
+      "correct": 0,
+      "exp": "El art. 4.1.c) LBRL reconoce 'la potestad de programación o planificación'.",
+      "fuente": "Art. 4.1.c) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 4.1.c) LBRL comprobado literalmente: 'La potestad de programación o planificación'; coincide."
+    },
+    {
+      "q": "Según el art. 4.1.d) LBRL, además de la potestad expropiatoria, ¿qué otras potestades se reconocen a las entidades locales?",
+      "options": [
+        "Las de investigación, deslinde y recuperación de oficio de sus bienes",
+        "La de ejecución forzosa y sancionadora",
+        "La de revisión de oficio de sus actos y acuerdos",
+        "La tributaria y financiera"
+      ],
+      "correct": 0,
+      "exp": "El art. 4.1.d) LBRL reconoce 'las potestades expropiatoria y de investigación, deslinde y recuperación de oficio de sus bienes'.",
+      "fuente": "Art. 4.1.d) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 4.1.d) LBRL comprobado literalmente: 'Las potestades expropiatoria y de investigación, deslinde y recuperación de oficio de sus bienes'; coincide."
+    },
+    {
+      "q": "La presunción de legitimidad y la ejecutividad de los actos de las entidades locales se recogen en:",
+      "options": [
+        "El art. 4.1.e) LBRL",
+        "El art. 4.1.g) LBRL",
+        "El art. 84.2 LBRL",
+        "El art. 4.1.f) LBRL"
+      ],
+      "correct": 0,
+      "exp": "El art. 4.1.e) LBRL reconoce 'la presunción de legitimidad y la ejecutividad de sus actos'.",
+      "fuente": "Art. 4.1.e) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 4.1.e) LBRL comprobado literalmente: 'La presunción de legitimidad y la ejecutividad de sus actos'; coincide."
+    },
+    {
+      "q": "Según el art. 4.1.f) LBRL, ¿qué potestades corresponden en todo caso a los municipios, provincias e islas?",
+      "options": [
+        "Las potestades de ejecución forzosa y sancionadora",
+        "Las potestades tributaria y sancionadora",
+        "La potestad reglamentaria y sancionadora",
+        "La potestad de revisión de oficio y sancionadora"
+      ],
+      "correct": 0,
+      "exp": "El art. 4.1.f) LBRL reconoce 'las potestades de ejecución forzosa y sancionadora'.",
+      "fuente": "Art. 4.1.f) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 4.1.f) LBRL comprobado literalmente: 'Las potestades de ejecución forzosa y sancionadora'; coincide."
+    },
+    {
+      "q": "¿Con qué otra potestad aparece unida la potestad sancionadora en la letra f) del art. 4.1 LBRL?",
+      "options": [
+        "Con la potestad de ejecución forzosa",
+        "Con la potestad tributaria",
+        "Con la potestad expropiatoria",
+        "Con la potestad de revisión de oficio"
+      ],
+      "correct": 0,
+      "exp": "La letra f) del art. 4.1 LBRL agrupa en un mismo apartado 'las potestades de ejecución forzosa y sancionadora'.",
+      "fuente": "Art. 4.1.f) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Mismo apartado 4.1.f) LBRL: confirma que la potestad sancionadora aparece unida a la de ejecución forzosa, no a otra."
+    },
+    {
+      "q": "La potestad de revisión de oficio de los actos y acuerdos de las entidades locales se enumera en:",
+      "options": [
+        "El art. 4.1.g) LBRL",
+        "El art. 4.1.f) LBRL",
+        "El art. 4.1.h) LBRL",
+        "El art. 84.3 LBRL"
+      ],
+      "correct": 0,
+      "exp": "El art. 4.1.g) LBRL reconoce 'la potestad de revisión de oficio de sus actos y acuerdos'.",
+      "fuente": "Art. 4.1.g) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 4.1.g) LBRL comprobado literalmente: 'La potestad de revisión de oficio de sus actos y acuerdos'; coincide."
+    },
+    {
+      "q": "Según el art. 4.1.h) LBRL, además de las prelaciones, preferencias y demás prerrogativas reconocidas a la Hacienda Pública, ¿qué otra garantía se reconoce a los bienes y derechos de las entidades locales?",
+      "options": [
+        "La inembargabilidad, en los términos previstos en las leyes",
+        "La imprescriptibilidad absoluta frente a cualquier acción",
+        "La exención total de responsabilidad patrimonial",
+        "La inalienabilidad de todos sus bienes patrimoniales"
+      ],
+      "correct": 0,
+      "exp": "El art. 4.1.h) LBRL reconoce las prelaciones, preferencias y prerrogativas de la Hacienda Pública, 'así como la inembargabilidad de sus bienes y derechos en los términos previstos en las leyes'.",
+      "fuente": "Art. 4.1.h) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 4.1.h) LBRL comprobado literalmente: '...así como la inembargabilidad de sus bienes y derechos en los términos previstos en las leyes'; coincide."
+    },
+    {
+      "q": "Según el art. 4.2 LBRL, ¿a qué entidades puede aplicarse lo dispuesto en el apartado 1 del mismo artículo, debiendo las leyes de las comunidades autónomas concretar qué potestades les corresponden?",
+      "options": [
+        "A las entidades territoriales de ámbito inferior al municipal y, asimismo, a las comarcas, áreas metropolitanas y demás entidades locales",
+        "Exclusivamente a las mancomunidades de municipios",
+        "Únicamente a las diputaciones provinciales",
+        "A las comunidades autónomas uniprovinciales"
+      ],
+      "correct": 0,
+      "exp": "El art. 4.2 LBRL extiende lo dispuesto en el apartado 1 'a las entidades territoriales de ámbito inferior al municipal y, asimismo, a las comarcas, áreas metropolitanas y demás entidades locales', concretando las CCAA cuáles potestades se aplican, salvo mancomunidades (que se rigen por el apartado 3).",
+      "fuente": "Art. 4.2 LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 4.2 LBRL leído íntegro en el consolidado (incluida la nota de la STC 214/1989: comprobado en el HTML fuente que ningún inciso del apartado 2 aparece hoy resaltado como anulado, por lo que el texto vigente citado es correcto); coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 4.3 LBRL, ¿qué potestades del apartado 1 corresponden a las mancomunidades de municipios en defecto de previsión estatutaria?",
+      "options": [
+        "Todas las enumeradas en el apartado 1, siempre que sean precisas para el cumplimiento de su finalidad",
+        "Ninguna, salvo que una ley de la comunidad autónoma las autorice expresamente",
+        "Únicamente la potestad tributaria y financiera",
+        "Solo las potestades reglamentaria y sancionadora"
+      ],
+      "correct": 0,
+      "exp": "El art. 4.3 LBRL establece que, en defecto de previsión estatutaria, corresponderán a las mancomunidades 'todas las potestades enumeradas en dicho apartado, siempre que sean precisas para el cumplimiento de su finalidad'.",
+      "fuente": "Art. 4.3 LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 4.3 LBRL comprobado literalmente: '...les corresponderán todas las potestades enumeradas en dicho apartado, siempre que sean precisas para el cumplimiento de su finalidad'; coincide."
+    },
+    {
+      "q": "La potestad sancionadora reconocida a las entidades locales en el art. 4.1.f) LBRL constituye el fundamento general que les permite:",
+      "options": [
+        "Reaccionar frente al incumplimiento de las obligaciones derivadas de los medios de intervención en la actividad de los ciudadanos regulados en el art. 84 LBRL",
+        "Aprobar directamente sentencias firmes sin intervención judicial",
+        "Sustituir a la Administración General del Estado en materia penal",
+        "Modificar unilateralmente los tratados internacionales que les afecten"
+      ],
+      "correct": 0,
+      "exp": "La potestad sancionadora del art. 4.1.f) LBRL es la potestad general que sustenta la reacción de la entidad local frente al incumplimiento de las obligaciones que derivan de los medios de intervención en la actividad de los ciudadanos que regula el art. 84 LBRL (ordenanzas, licencias, comunicaciones, declaraciones responsables, controles y órdenes individuales).",
+      "fuente": "Art. 4.1.f) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Verificado el art. 4.1.f) LBRL (potestad sancionadora) y su función como fundamento general frente a los incumplimientos de los medios de intervención del art. 84 LBRL; afirmación correcta y las otras tres opciones son manifiestamente falsas."
+    },
+    {
+      "q": "La potestad sancionadora que el art. 4.1.f) LBRL reconoce a las entidades locales, junto con la potestad de ejecución forzosa, les permite, entre otras cosas:",
+      "options": [
+        "Sancionar los incumplimientos de la normativa local, incluida la que regula la prestación y utilización de los servicios públicos locales",
+        "Prestar directamente todos los servicios públicos locales sin posibilidad de gestión indirecta",
+        "Declarar la reserva de servicios en favor de las entidades locales sin necesidad de ley habilitante",
+        "Eximir a los concesionarios de servicios públicos del cumplimiento de las ordenanzas municipales"
+      ],
+      "correct": 0,
+      "exp": "La potestad sancionadora del art. 4.1.f) LBRL, como potestad general de la entidad local, ampara la sanción de los incumplimientos de la normativa local, incluida la referida a la prestación y utilización de los servicios públicos locales.",
+      "fuente": "Art. 4.1.f) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Verificado el art. 4.1.f) LBRL (ejecución forzosa y sancionadora) como base para sancionar incumplimientos de la normativa de servicios públicos locales; afirmación correcta, sin ambigüedad en las opciones."
+    },
+    {
+      "q": "¿Cuál de las siguientes NO figura entre las potestades que el art. 4.1 LBRL reconoce en todo caso a los municipios, provincias e islas?",
+      "options": [
+        "La potestad legislativa",
+        "La potestad de programación o planificación",
+        "La potestad de revisión de oficio de sus actos y acuerdos",
+        "La potestad de ejecución forzosa"
+      ],
+      "correct": 0,
+      "exp": "El art. 4.1 LBRL no incluye entre sus ocho letras (a-h) una 'potestad legislativa'; sí incluye la de programación o planificación (c), la de revisión de oficio (g) y la de ejecución forzosa, unida a la sancionadora (f).",
+      "fuente": "Art. 4.1 LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Repasadas las ocho letras a)-h) del art. 4.1 LBRL en el consolidado: ninguna es 'potestad legislativa'; programación (c), revisión de oficio (g) y ejecución forzosa (f) sí figuran."
+    },
+    {
+      "q": "¿Cuántos medios de intervención en la actividad de los ciudadanos enumera el art. 84.1 LBRL?",
+      "options": [
+        "Tres",
+        "Cuatro",
+        "Cinco",
+        "Seis"
+      ],
+      "correct": 2,
+      "exp": "El art. 84.1 LBRL enumera cinco medios, en las letras a) a e): ordenanzas y bandos; previa licencia y otros actos de control preventivo; comunicación previa o declaración responsable; control posterior; y órdenes individuales.",
+      "fuente": "Art. 84.1 LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Contadas las letras del art. 84.1 LBRL en el consolidado: son cinco (a-e); coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 84.1.a) LBRL, ¿cuál es el primer medio de intervención administrativa en la actividad de los ciudadanos que enumera el precepto?",
+      "options": [
+        "Ordenanzas y bandos",
+        "Sometimiento a previa licencia",
+        "Declaración responsable",
+        "Órdenes individuales"
+      ],
+      "correct": 0,
+      "exp": "La letra a) del art. 84.1 LBRL, primera de la lista, señala 'ordenanzas y bandos'.",
+      "fuente": "Art. 84.1.a) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 84.1.a) LBRL comprobado literalmente: 'Ordenanzas y bandos'; coincide."
+    },
+    {
+      "q": "El sometimiento a previa licencia y otros actos de control preventivo se recoge, como medio de intervención, en:",
+      "options": [
+        "El art. 84.1.b) LBRL",
+        "El art. 84.1.d) LBRL",
+        "El art. 4.1.f) LBRL",
+        "El art. 84.3 LBRL"
+      ],
+      "correct": 0,
+      "exp": "El art. 84.1.b) LBRL recoge el 'sometimiento a previa licencia y otros actos de control preventivo'.",
+      "fuente": "Art. 84.1.b) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 84.1.b) LBRL comprobado literalmente: 'Sometimiento a previa licencia y otros actos de control preventivo'; coincide."
+    },
+    {
+      "q": "Según el art. 84.1.c) LBRL, ¿a qué medios de intervención puede someterse una actividad como alternativa a la previa licencia?",
+      "options": [
+        "Comunicación previa o declaración responsable",
+        "Órdenes individuales de ejecución",
+        "Ordenanzas y bandos",
+        "Control posterior al cese de la actividad"
+      ],
+      "correct": 0,
+      "exp": "El art. 84.1.c) LBRL recoge el 'sometimiento a comunicación previa o a declaración responsable'.",
+      "fuente": "Art. 84.1.c) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 84.1.c) LBRL comprobado literalmente: 'Sometimiento a comunicación previa o a declaración responsable'; coincide."
+    },
+    {
+      "q": "¿Qué medio de intervención regula el art. 84.1.d) LBRL?",
+      "options": [
+        "El sometimiento a control posterior al inicio de la actividad, a efectos de verificar el cumplimiento de la normativa reguladora de la misma",
+        "El sometimiento a previa licencia",
+        "La aprobación de ordenanzas y bandos",
+        "Las órdenes individuales constitutivas de mandato"
+      ],
+      "correct": 0,
+      "exp": "El art. 84.1.d) LBRL recoge el 'sometimiento a control posterior al inicio de la actividad, a efectos de verificar el cumplimiento de la normativa reguladora de la misma'.",
+      "fuente": "Art. 84.1.d) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 84.1.d) LBRL comprobado literalmente: 'Sometimiento a control posterior al inicio de la actividad, a efectos de verificar el cumplimiento de la normativa reguladora de la misma'; coincide."
+    },
+    {
+      "q": "Según el art. 84.1.e) LBRL, ¿en qué consisten las órdenes individuales como medio de intervención?",
+      "options": [
+        "En mandatos constitutivos para la ejecución de un acto o la prohibición del mismo",
+        "En autorizaciones genéricas de funcionamiento aplicables a todo el sector",
+        "En comunicaciones informativas sin efectos jurídicos",
+        "En declaraciones responsables agravadas"
+      ],
+      "correct": 0,
+      "exp": "El art. 84.1.e) LBRL define las órdenes individuales como 'constitutivas de mandato para la ejecución de un acto o la prohibición del mismo'.",
+      "fuente": "Art. 84.1.e) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 84.1.e) LBRL comprobado literalmente: 'Órdenes individuales constitutivas de mandato para la ejecución de un acto o la prohibición del mismo'; coincide."
+    },
+    {
+      "q": "¿Cuál de los siguientes NO es uno de los medios de intervención enumerados en el art. 84.1 LBRL?",
+      "options": [
+        "La potestad expropiatoria",
+        "Ordenanzas y bandos",
+        "Sometimiento a comunicación previa o declaración responsable",
+        "Órdenes individuales"
+      ],
+      "correct": 0,
+      "exp": "La potestad expropiatoria es una potestad general reconocida en el art. 4.1.d) LBRL, no un medio de intervención de los enumerados en el art. 84.1 LBRL (ordenanzas y bandos, previa licencia, comunicación previa o declaración responsable, control posterior y órdenes individuales).",
+      "fuente": "Art. 84.1 LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Repasadas las letras a)-e) del art. 84.1 LBRL: la potestad expropiatoria no figura entre ellas (está en el art. 4.1.d) LBRL); coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 84.1.b) LBRL, ¿qué excepción se establece respecto del sometimiento a previa licencia cuando se trate del acceso y ejercicio de actividades de servicios?",
+      "options": [
+        "Se estará a lo dispuesto en la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio",
+        "Se aplicará directamente el Código de Comercio",
+        "Quedan excluidas de cualquier intervención administrativa",
+        "Se remite en exclusiva a la normativa autonómica de comercio interior"
+      ],
+      "correct": 0,
+      "exp": "El art. 84.1.b) LBRL señala que cuando se trate de actividades de servicios incluidas en el ámbito de la Ley 17/2009, de 23 de noviembre, 'se estará a lo dispuesto en la misma'.",
+      "fuente": "Art. 84.1.b) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 84.1.b) LBRL comprobada la excepción literal: '...se estará a lo dispuesto en la [Ley 17/2009, de 23 de noviembre]'; coincide."
+    },
+    {
+      "q": "El art. 84.1.c) LBRL remite, para el sometimiento a comunicación previa o declaración responsable, a lo establecido en:",
+      "options": [
+        "El artículo 71 bis de la Ley 30/1992, de 26 de noviembre",
+        "El artículo 84 bis de la propia LBRL",
+        "El artículo 133 de la Ley 39/2015",
+        "El artículo 4 de la Ley 17/2009"
+      ],
+      "correct": 0,
+      "exp": "El art. 84.1.c) LBRL remite expresamente 'de conformidad con lo establecido en el artículo 71 bis de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común'.",
+      "fuente": "Art. 84.1.c) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 84.1.c) LBRL comprobada la remisión literal: 'de conformidad con lo establecido en el artículo 71 bis de la Ley 30/1992, de 26 de noviembre'; coincide."
+    },
+    {
+      "q": "Según el art. 84.2 LBRL, ¿a qué principios debe ajustarse en todo caso la actividad de intervención de las entidades locales?",
+      "options": [
+        "Igualdad de trato, necesidad y proporcionalidad con el objetivo que se persigue",
+        "Eficacia, jerarquía y descentralización",
+        "Publicidad, concurrencia y transparencia",
+        "Buena fe, confianza legítima y non bis in idem"
+      ],
+      "correct": 0,
+      "exp": "El art. 84.2 LBRL dispone que 'la actividad de intervención de las Entidades locales se ajustará, en todo caso, a los principios de igualdad de trato, necesidad y proporcionalidad con el objetivo que se persigue'.",
+      "fuente": "Art. 84.2 LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 84.2 LBRL comprobado literalmente: 'principios de igualdad de trato, necesidad y proporcionalidad con el objetivo que se persigue'; coincide."
+    },
+    {
+      "q": "Según el art. 84.3 LBRL, las licencias o autorizaciones otorgadas por otras Administraciones Públicas:",
+      "options": [
+        "No eximen a sus titulares de obtener las correspondientes licencias de las entidades locales, respetándose lo dispuesto en las leyes sectoriales",
+        "Sustituyen automáticamente a las licencias municipales",
+        "Solo son válidas si son ratificadas por el Pleno municipal",
+        "Eximen siempre de licencia local cuando provienen de la comunidad autónoma"
+      ],
+      "correct": 0,
+      "exp": "El art. 84.3 LBRL establece que 'las licencias o autorizaciones otorgadas por otras Administraciones Públicas no eximen a sus titulares de obtener las correspondientes licencias de las Entidades locales, respetándose en todo caso lo dispuesto en las correspondientes leyes sectoriales'.",
+      "fuente": "Art. 84.3 LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 84.3 LBRL comprobado literalmente: 'Las licencias o autorizaciones otorgadas por otras Administraciones Públicas no eximen a sus titulares de obtener las correspondientes licencias de las Entidades locales...'; coincide."
+    },
+    {
+      "q": "¿Cuántos apartados tiene el art. 84 LBRL en su redacción vigente?",
+      "options": [
+        "Tres",
+        "Dos",
+        "Cuatro",
+        "Cinco"
+      ],
+      "correct": 0,
+      "exp": "El art. 84 LBRL tiene tres apartados: el 1 (medios de intervención), el 2 (principios de la actividad de intervención) y el 3 (licencias de otras Administraciones).",
+      "fuente": "Art. 84 LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Contados los apartados del art. 84 LBRL en el consolidado: son exactamente tres (1, 2 y 3); coincide con la opción marcada."
+    },
+    {
+      "q": "Las ordenanzas mencionadas como medio de intervención en el art. 84.1.a) LBRL son, en el ámbito de la actividad de los ciudadanos, manifestación de la potestad reconocida con carácter general en:",
+      "options": [
+        "El art. 4.1.a) LBRL (potestad reglamentaria y de autoorganización)",
+        "El art. 4.1.f) LBRL (potestad sancionadora)",
+        "El art. 4.1.g) LBRL (potestad de revisión de oficio)",
+        "El art. 4.1.h) LBRL (prerrogativas de la Hacienda Pública)"
+      ],
+      "correct": 0,
+      "exp": "Las ordenanzas como medio de intervención del art. 84.1.a) LBRL son ejercicio, en esa materia concreta, de la potestad reglamentaria y de autoorganización reconocida con carácter general en el art. 4.1.a) LBRL.",
+      "fuente": "Art. 84.1.a) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Verificada en el consolidado la correspondencia entre las ordenanzas del art. 84.1.a) LBRL y la potestad reglamentaria y de autoorganización del art. 4.1.a) LBRL; conexión correcta y no ambigua."
+    },
+    {
+      "q": "Según la letra c) del art. 84.1 LBRL, la comunicación previa y la declaración responsable se configuran, como medios de intervención, en términos:",
+      "options": [
+        "Alternativos entre sí, no cumulativos",
+        "Necesariamente cumulativos, debiendo cumplirse siempre ambos",
+        "Sucesivos, siendo la declaración responsable posterior en todo caso a la comunicación previa",
+        "Excluidos expresamente de la actividad de intervención local"
+      ],
+      "correct": 0,
+      "exp": "El art. 84.1.c) LBRL emplea la conjunción disyuntiva: 'sometimiento a comunicación previa o a declaración responsable', configurándolos como medios alternativos.",
+      "fuente": "Art. 84.1.c) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 84.1.c) LBRL comprobado: emplea la conjunción disyuntiva 'o' entre comunicación previa y declaración responsable, lo que confirma su carácter alternativo."
+    },
+    {
+      "q": "De los cinco medios de intervención enumerados en el art. 84.1 LBRL, ¿cuál es el único que se ejerce con posterioridad al inicio de la actividad, y no con carácter previo a la misma?",
+      "options": [
+        "El sometimiento a control posterior de la letra d)",
+        "El sometimiento a previa licencia de la letra b)",
+        "Las ordenanzas y bandos de la letra a)",
+        "La comunicación previa o declaración responsable de la letra c)"
+      ],
+      "correct": 0,
+      "exp": "Frente a la licencia, la comunicación previa y la declaración responsable, que operan antes o al inicio de la actividad, el control posterior de la letra d) se ejerce, según el propio precepto, 'al inicio de la actividad, a efectos de verificar el cumplimiento de la normativa reguladora de la misma' una vez ya iniciada.",
+      "fuente": "Art. 84.1.d) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comparados los cinco medios del art. 84.1 LBRL en el consolidado: solo la letra d) opera 'al inicio de la actividad' con carácter de control ex post, frente al carácter previo de a), b) y c)."
+    },
+    {
+      "q": "¿Qué medio de intervención del art. 84.1 LBRL consiste en un mandato dirigido a un sujeto concreto para la ejecución o prohibición de un acto, y no en una norma de alcance general como las ordenanzas?",
+      "options": [
+        "Las órdenes individuales de la letra e)",
+        "Las ordenanzas y bandos de la letra a)",
+        "El sometimiento a previa licencia de la letra b)",
+        "El sometimiento a comunicación previa de la letra c)"
+      ],
+      "correct": 0,
+      "exp": "Frente a las ordenanzas y bandos, que son normas de alcance general, las órdenes individuales de la letra e) del art. 84.1 LBRL son 'constitutivas de mandato para la ejecución de un acto o la prohibición del mismo', dirigidas a un sujeto concreto.",
+      "fuente": "Art. 84.1.e) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 84.1.e) LBRL comprobado: define las órdenes individuales como mandato para la ejecución o prohibición de un acto concreto, frente a la generalidad de las ordenanzas de la letra a)."
+    },
+    {
+      "q": "Según el encabezamiento del art. 84.1 LBRL, ¿qué facultad general se atribuye a las entidades locales?",
+      "options": [
+        "Podrán intervenir la actividad de los ciudadanos a través de los medios que dicho apartado enumera",
+        "Deberán intervenir obligatoriamente toda actividad económica privada",
+        "Solo podrán intervenir la actividad de otras Administraciones Públicas",
+        "Podrán intervenir exclusivamente mediante sanciones económicas"
+      ],
+      "correct": 0,
+      "exp": "El art. 84.1 LBRL comienza: 'Las Entidades locales podrán intervenir la actividad de los ciudadanos a través de los siguientes medios'.",
+      "fuente": "Art. 84.1 LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Encabezamiento del art. 84.1 LBRL comprobado literalmente: 'Las Entidades locales podrán intervenir la actividad de los ciudadanos a través de los siguientes medios'; coincide."
+    },
+    {
+      "q": "A diferencia del sometimiento a previa licencia y otros actos de control preventivo (letra b), el control posterior regulado en la letra d) del art. 84.1 LBRL se ejerce:",
+      "options": [
+        "Una vez iniciada la actividad, para verificar el cumplimiento de la normativa reguladora",
+        "Antes del inicio de la actividad, como requisito habilitante para ejercerla",
+        "Exclusivamente sobre actividades sometidas a declaración responsable, nunca sobre las de licencia",
+        "Solo por la Administración autonómica, nunca por la entidad local"
+      ],
+      "correct": 0,
+      "exp": "Frente al control preventivo de la letra b), que se ejerce antes del inicio de la actividad, el control posterior de la letra d) del art. 84.1 LBRL opera al inicio de la actividad, verificando el cumplimiento de la normativa reguladora de la misma.",
+      "fuente": "Art. 84.1.d) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Repetida la comprobación de la letra d) del art. 84.1 LBRL frente a la letra b): control ex post frente a control previo; coincide con la opción marcada."
+    },
+    {
+      "q": "¿Cuál de las siguientes secuencias reproduce, en el orden en que aparecen en el art. 84.1 LBRL, los medios de intervención de las entidades locales en la actividad de los ciudadanos?",
+      "options": [
+        "Ordenanzas y bandos; previa licencia y otros actos de control preventivo; comunicación previa o declaración responsable; control posterior; órdenes individuales",
+        "Órdenes individuales; ordenanzas y bandos; previa licencia; control posterior; declaración responsable",
+        "Previa licencia; ordenanzas y bandos; control posterior; comunicación previa; órdenes individuales",
+        "Comunicación previa; declaración responsable; ordenanzas y bandos; previa licencia; órdenes individuales"
+      ],
+      "correct": 0,
+      "exp": "El art. 84.1 LBRL enumera, en este orden, las letras a) ordenanzas y bandos, b) previa licencia y otros actos de control preventivo, c) comunicación previa o declaración responsable, d) control posterior y e) órdenes individuales.",
+      "fuente": "Art. 84.1 LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado el orden exacto de las letras a)-e) del art. 84.1 LBRL en el consolidado con la secuencia de la opción marcada; coincide."
+    },
+    {
+      "q": "El principio de proporcionalidad exigido por el art. 84.2 LBRL a la actividad de intervención de las entidades locales se mide en relación con:",
+      "options": [
+        "El objetivo que se persigue con dicha intervención",
+        "El presupuesto municipal disponible",
+        "El número de habitantes del municipio",
+        "La antigüedad de la ordenanza aplicable"
+      ],
+      "correct": 0,
+      "exp": "El art. 84.2 LBRL exige que la actividad de intervención se ajuste 'a los principios de igualdad de trato, necesidad y proporcionalidad con el objetivo que se persigue'.",
+      "fuente": "Art. 84.2 LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 84.2 LBRL comprobado: la proporcionalidad se mide 'con el objetivo que se persigue'; coincide."
+    },
+    {
+      "q": "La obligación de obtener licencia local, aun existiendo licencia de otra Administración Pública, se aplica conforme al art. 84.3 LBRL:",
+      "options": [
+        "Respetándose en todo caso lo dispuesto en las correspondientes leyes sectoriales",
+        "Sin excepción alguna, incluso en contra de lo que disponga la ley sectorial aplicable",
+        "Solo cuando lo autorice expresamente el Consejo de Ministros",
+        "Únicamente en los municipios de gran población"
+      ],
+      "correct": 0,
+      "exp": "El art. 84.3 LBRL condiciona la exigencia de licencia local 'respetándose en todo caso lo dispuesto en las correspondientes leyes sectoriales'.",
+      "fuente": "Art. 84.3 LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 84.3 LBRL comprobado: la licencia local se exige 'respetándose en todo caso lo dispuesto en las correspondientes leyes sectoriales'; coincide."
+    },
+    {
+      "q": "El incumplimiento de las obligaciones derivadas de cualquiera de los medios de intervención enumerados en el art. 84.1 LBRL (ordenanzas, licencias, comunicaciones, declaraciones responsables, controles posteriores u órdenes individuales) puede justificar, en su caso:",
+      "options": [
+        "El ejercicio de la potestad sancionadora reconocida con carácter general en el art. 4.1.f) LBRL",
+        "El ejercicio de la potestad sancionadora únicamente cuando el medio incumplido sea una ordenanza",
+        "El ejercicio de la potestad sancionadora solo si el medio incumplido es una licencia",
+        "La imposibilidad de sancionar, pues el art. 4.1.f) LBRL y el art. 84.1 LBRL regulan materias independientes entre sí"
+      ],
+      "correct": 0,
+      "exp": "La potestad sancionadora del art. 4.1.f) LBRL, reconocida con carácter general, opera como fundamento para sancionar el incumplimiento de las obligaciones derivadas de cualquiera de los medios de intervención regulados en el art. 84.1 LBRL, sin limitarse a uno solo de ellos.",
+      "fuente": "Art. 4.1.f) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Verificado de nuevo el art. 4.1.f) LBRL como potestad sancionadora general aplicable a los incumplimientos de cualquiera de los medios del art. 84.1 LBRL, sin limitación a uno solo."
+    },
+    {
+      "q": "¿Sobre qué actividad, según el encabezamiento del art. 84.1 LBRL, pueden las entidades locales emplear los medios de intervención que dicho apartado enumera?",
+      "options": [
+        "Sobre la actividad de los ciudadanos",
+        "Sobre la actividad de las restantes Administraciones Públicas",
+        "Sobre la actividad legislativa de las Cortes Generales",
+        "Sobre la actividad jurisdiccional de los Tribunales"
+      ],
+      "correct": 0,
+      "exp": "El art. 84.1 LBRL comienza: 'Las Entidades locales podrán intervenir la actividad de los ciudadanos a través de los siguientes medios'.",
+      "fuente": "Art. 84.1 LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Encabezamiento del art. 84.1 LBRL comprobado: los medios se dirigen a intervenir 'la actividad de los ciudadanos'; coincide."
+    },
+    {
+      "q": "El apartado 3 del art. 84 LBRL, relativo a la no exención de licencias otorgadas por otras Administraciones Públicas, fue incorporado al texto de la LBRL por:",
+      "options": [
+        "La Ley 11/1999, de 21 de abril",
+        "La Ley 25/2009, de 22 de diciembre",
+        "La Ley 27/2013, de 27 de diciembre",
+        "La redacción original de la Ley 7/1985, de 2 de abril"
+      ],
+      "correct": 0,
+      "exp": "Según la nota del texto consolidado, 'se añade el apartado 3 por el art. 1.25 de la Ley 11/1999, de 21 de abril' (Ref. BOE-A-1999-8932).",
+      "fuente": "Art. 84.3 LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Nota a pie del consolidado comprobada literalmente: 'Se añade el apartado 3 por el art. 1.25 de la Ley 11/1999, de 21 de abril'; coincide con la opción marcada."
+    }
+  ]
+}

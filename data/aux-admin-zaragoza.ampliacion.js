@@ -24388,3 +24388,1051 @@ window.addQuestions('aux-admin-zaragoza', 11, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 11 · lote 2026-08-12 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 11, [
+  {
+    "q": "Según el artículo 44.1 de la Ley 7/1985, Reguladora de las Bases del Régimen Local (LBRL), ¿qué derecho se reconoce a los municipios?",
+    "options": [
+      "El derecho a asociarse con otros municipios en mancomunidades para la ejecución en común de obras y servicios determinados de su competencia",
+      "El derecho a fusionarse con municipios limítrofes sin necesidad de autorización autonómica",
+      "El derecho a delegar la totalidad de sus competencias en la diputación provincial",
+      "El derecho a constituir consorcios con entidades privadas con ánimo de lucro para la prestación de servicios esenciales"
+    ],
+    "correct": 0,
+    "exp": "El art. 44.1 LBRL reconoce a los municipios el derecho a asociarse con otros en mancomunidades para la ejecución en común de obras y servicios determinados de su competencia.",
+    "fuente": "Art. 44.1 LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué establece el art. 44.2 LBRL sobre la naturaleza jurídica de las mancomunidades de municipios?",
+    "options": [
+      "Que tienen personalidad y capacidad jurídicas para el cumplimiento de sus fines específicos y se rigen por sus Estatutos propios",
+      "Que carecen de personalidad jurídica propia y actúan como órganos desconcentrados de la diputación provincial",
+      "Que su personalidad jurídica depende de un reconocimiento expreso del Ministerio de Hacienda",
+      "Que tienen personalidad jurídica únicamente a efectos tributarios"
+    ],
+    "correct": 0,
+    "exp": "El art. 44.2 LBRL dispone que las mancomunidades tienen personalidad y capacidad jurídicas para el cumplimiento de sus fines específicos y se rigen por sus Estatutos propios.",
+    "fuente": "Art. 44.2 LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 44.2 LBRL, ¿qué extremos han de regular, en todo caso, los Estatutos de una mancomunidad de municipios?",
+    "options": [
+      "El ámbito territorial de la entidad, su objeto y competencia, órganos de gobierno y recursos, y el plazo de duración, entre otros extremos necesarios para su funcionamiento",
+      "Únicamente el ámbito territorial y el nombre de su presidente",
+      "Exclusivamente el régimen retributivo de su personal directivo",
+      "El sistema electoral aplicable a las elecciones municipales de los municipios mancomunados"
+    ],
+    "correct": 0,
+    "exp": "El art. 44.2 LBRL exige que los Estatutos regulen el ámbito territorial de la entidad, su objeto y competencia, órganos de gobierno y recursos, plazo de duración y cuantos otros extremos sean necesarios para su funcionamiento.",
+    "fuente": "Art. 44.2 LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 44.2 LBRL, ¿de qué han de ser representativos, en todo caso, los órganos de gobierno de una mancomunidad?",
+    "options": [
+      "De la diputación provincial correspondiente",
+      "De los ayuntamientos mancomunados",
+      "De la comunidad autónoma en cuyo territorio se ubique la mancomunidad",
+      "De las entidades privadas que participen en la mancomunidad"
+    ],
+    "correct": 1,
+    "exp": "El art. 44.2 LBRL señala que, en todo caso, los órganos de gobierno serán representativos de los ayuntamientos mancomunados.",
+    "fuente": "Art. 44.2 LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 44.3.a) LBRL, ¿a quién corresponde la elaboración de los estatutos de una mancomunidad de municipios?",
+    "options": [
+      "Al Pleno de la diputación provincial interesada",
+      "A la comunidad autónoma correspondiente",
+      "A los concejales de la totalidad de los municipios promotores de la mancomunidad, constituidos en asamblea",
+      "Al alcalde del municipio de mayor población entre los promotores"
+    ],
+    "correct": 2,
+    "exp": "El art. 44.3.a) LBRL atribuye la elaboración de los estatutos a los concejales de la totalidad de los municipios promotores de la mancomunidad, constituidos en asamblea.",
+    "fuente": "Art. 44.3.a) LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 44.3.b) LBRL, ¿qué trámite corresponde a la Diputación o Diputaciones provinciales interesadas en el procedimiento de aprobación de los estatutos de una mancomunidad?",
+    "options": [
+      "Aprobar definitivamente los estatutos en sustitución de los ayuntamientos",
+      "Nombrar a los miembros del órgano de gobierno de la mancomunidad",
+      "Emitir informe sobre el proyecto de estatutos",
+      "Fijar el presupuesto inicial de la mancomunidad"
+    ],
+    "correct": 2,
+    "exp": "El art. 44.3.b) LBRL dispone que la Diputación o Diputaciones provinciales interesadas emitirán informe sobre el proyecto de estatutos.",
+    "fuente": "Art. 44.3.b) LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál es la situación actual del artículo 87 de la LBRL, que regulaba los consorcios de entidades locales?",
+    "options": [
+      "Sigue vigente en su redacción original de 1985",
+      "Está derogado, con efectos desde el 2 de octubre de 2016, por la disposición derogatoria única de la Ley 40/2015",
+      "Fue derogado por la Ley 27/2013, de racionalización y sostenibilidad de la Administración Local",
+      "Solo ha sido derogado en su apartado segundo, manteniéndose vigente el resto"
+    ],
+    "correct": 1,
+    "exp": "El texto consolidado del art. 87 LBRL indica que está derogado, con efectos de 2 de octubre de 2016, por la disposición derogatoria única.a) de la Ley 40/2015, de 1 de octubre; la materia de consorcios pasó a regirse por los arts. 118 a 127 LRJSP.",
+    "fuente": "Art. 87 LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 118.1 LRJSP, ¿qué naturaleza jurídica tienen los consorcios?",
+    "options": [
+      "Son entidades de derecho público, con personalidad jurídica propia y diferenciada",
+      "Son órganos administrativos sin personalidad jurídica, dependientes jerárquicamente de la Administración de adscripción",
+      "Son entidades de derecho privado carentes de personalidad jurídica propia",
+      "Son entidades de derecho público integradas orgánicamente en la Administración matriz, sin personalidad diferenciada"
+    ],
+    "correct": 0,
+    "exp": "El art. 118.1 LRJSP define a los consorcios como entidades de derecho público, con personalidad jurídica propia y diferenciada.",
+    "fuente": "Art. 118.1 LRJSP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 118.1 LRJSP, ¿quiénes pueden crear un consorcio?",
+    "options": [
+      "Únicamente dos o más municipios limítrofes entre sí",
+      "Varias Administraciones Públicas o entidades integrantes del sector público institucional, entre sí o con participación de entidades privadas",
+      "Exclusivamente la Administración General del Estado y las comunidades autónomas",
+      "Cualquier persona física o jurídica privada, sin necesidad de participación de una Administración Pública"
+    ],
+    "correct": 1,
+    "exp": "El art. 118.1 LRJSP indica que los consorcios son creados por varias Administraciones Públicas o entidades integrantes del sector público institucional, entre sí o con participación de entidades privadas.",
+    "fuente": "Art. 118.1 LRJSP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 118.2 LRJSP, ¿qué tipo de actividades pueden realizar los consorcios?",
+    "options": [
+      "Únicamente actividades de fomento",
+      "Exclusivamente actividades de inspección y sanción",
+      "Actividades de fomento, prestacionales o de gestión común de servicios públicos y cuantas otras estén previstas en las leyes",
+      "Solo actividades de gestión tributaria delegada por los municipios"
+    ],
+    "correct": 2,
+    "exp": "El art. 118.2 LRJSP permite a los consorcios realizar actividades de fomento, prestacionales o de gestión común de servicios públicos y cuantas otras estén previstas en las leyes.",
+    "fuente": "Art. 118.2 LRJSP",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué exige el art. 118.4 LRJSP respecto a la denominación de los consorcios?",
+    "options": [
+      "Que figure necesariamente la indicación «consorcio» o su abreviatura «C»",
+      "Que figure la indicación «entidad pública empresarial» o «E.P.E.»",
+      "Que no exista ninguna exigencia legal sobre su denominación",
+      "Que figure obligatoriamente el nombre de todas las entidades consorciadas"
+    ],
+    "correct": 0,
+    "exp": "El art. 118.4 LRJSP exige que en la denominación de los consorcios figure necesariamente la indicación «consorcio» o su abreviatura «C».",
+    "fuente": "Art. 118.4 LRJSP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 119.1 LRJSP, ¿por qué normas se rigen los consorcios en primer término?",
+    "options": [
+      "Exclusivamente por el Código Civil",
+      "Por lo establecido en la Ley 40/2015, en la normativa autonómica de desarrollo y en sus estatutos",
+      "Únicamente por sus propios estatutos, sin sujeción a ninguna ley",
+      "Por el Real Decreto Legislativo 1/2010, de 2 de julio, con carácter preferente sobre cualquier otra norma"
+    ],
+    "correct": 1,
+    "exp": "El art. 119.1 LRJSP establece que los consorcios se regirán por lo establecido en esta Ley, en la normativa autonómica de desarrollo y en sus estatutos.",
+    "fuente": "Art. 119.1 LRJSP",
+    "confianza": "alta"
+  },
+  {
+    "q": "En lo no previsto sobre el derecho de separación, disolución, liquidación y extinción, ¿a qué normativa se remite el art. 119.2 LRJSP con carácter supletorio (salvo en materia de liquidación)?",
+    "options": [
+      "Al Código Civil, en su regulación de la sociedad civil",
+      "Al Código de Comercio, en su regulación de las sociedades mercantiles",
+      "A la Ley de Contratos del Sector Público",
+      "Al Código Civil, en su regulación de la comunidad de bienes"
+    ],
+    "correct": 0,
+    "exp": "El art. 119.2 LRJSP remite, en lo no previsto sobre separación, disolución, liquidación y extinción, al Código Civil sobre la sociedad civil, salvo el régimen de liquidación, que se somete al art. 97 LRJSP y, en su defecto, al RDLeg 1/2010.",
+    "fuente": "Art. 119.2 LRJSP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 119.3 LRJSP, ¿qué carácter tienen las normas de la LBRL y de la Ley 27/2013 sobre los consorcios locales respecto a lo dispuesto en la Ley 40/2015?",
+    "options": [
+      "Carácter preferente, prevaleciendo sobre la Ley 40/2015",
+      "Carácter supletorio",
+      "Quedan derogadas y sin efecto",
+      "Se aplican solo a los consorcios de ámbito autonómico"
+    ],
+    "correct": 1,
+    "exp": "El art. 119.3 LRJSP establece que las normas de la Ley 7/1985 y de la Ley 27/2013 sobre los consorcios locales tendrán carácter supletorio respecto a lo dispuesto en la Ley 40/2015.",
+    "fuente": "Art. 119.3 LRJSP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 120.2 LRJSP, ¿cuál es el primer criterio, por orden de prioridad, para determinar la Administración de adscripción de un consorcio?",
+    "options": [
+      "Ostentar el mayor porcentaje de participación en el fondo patrimonial",
+      "Tener mayor número de habitantes o extensión territorial",
+      "Disponer de la mayoría de votos en los órganos de gobierno",
+      "Financiar en más de un cincuenta por ciento la actividad del consorcio"
+    ],
+    "correct": 2,
+    "exp": "El art. 120.2.a) LRJSP sitúa en primer lugar, por orden de prioridad, el criterio de disponer de la mayoría de votos en los órganos de gobierno.",
+    "fuente": "Art. 120.2.a) LRJSP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 120.2.h) LRJSP, cuando no resulten determinantes los criterios anteriores, ¿qué criterio se aplica en último lugar para la adscripción de un consorcio?",
+    "options": [
+      "Ser designada por sorteo entre las administraciones consorciadas",
+      "Ser la Administración de mayor antigüedad en el consorcio",
+      "Tener mayor número de habitantes o extensión territorial, según los fines del consorcio se orienten a la prestación de servicios a las personas o al desarrollo de actuaciones sobre el territorio",
+      "Ser la Administración que primero solicitó la adscripción"
+    ],
+    "correct": 2,
+    "exp": "El art. 120.2.h) LRJSP fija como último criterio de prioridad tener mayor número de habitantes o extensión territorial, dependiendo de si los fines definidos en el estatuto se orientan a la prestación de servicios a las personas o al desarrollo de actuaciones sobre el territorio.",
+    "fuente": "Art. 120.2.h) LRJSP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 120.3 LRJSP, cuando participen entidades privadas en un consorcio, ¿qué condición debe cumplir este?",
+    "options": [
+      "El consorcio se regirá íntegramente por el derecho privado",
+      "El consorcio no tendrá ánimo de lucro",
+      "El consorcio quedará excluido del sector público institucional",
+      "Las entidades privadas ostentarán siempre la mayoría de votos en el órgano de gobierno"
+    ],
+    "correct": 1,
+    "exp": "El art. 120.3 LRJSP dispone que, si participan entidades privadas en el consorcio, este no tendrá ánimo de lucro y estará adscrito a la Administración que resulte según los criterios del apartado anterior.",
+    "fuente": "Art. 120.3 LRJSP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 120.4 LRJSP, ¿en qué plazo debe modificarse los estatutos de un consorcio tras producirse un cambio de adscripción a otra Administración Pública?",
+    "options": [
+      "En un plazo no superior a un mes",
+      "En un plazo no superior a seis meses, contados desde el inicio del ejercicio presupuestario siguiente a aquel en que se produjo el cambio",
+      "En un plazo no superior a un año natural completo",
+      "No existe plazo legal, pudiendo realizarse en cualquier momento"
+    ],
+    "correct": 1,
+    "exp": "El art. 120.4 LRJSP establece que cualquier cambio de adscripción conllevará la modificación de los estatutos en un plazo no superior a seis meses, contados desde el inicio del ejercicio presupuestario siguiente a aquel en que se produjo el cambio.",
+    "fuente": "Art. 120.4 LRJSP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 121 LRJSP, ¿qué característica tiene el personal al servicio de los consorcios?",
+    "options": [
+      "Será siempre personal laboral contratado directamente por el consorcio",
+      "Será siempre personal eventual de confianza designado por el máximo órgano de gobierno",
+      "Podrá ser funcionario o laboral y habrá de proceder de las Administraciones participantes",
+      "Habrá de proceder necesariamente de la Administración General del Estado"
+    ],
+    "correct": 2,
+    "exp": "El art. 121 LRJSP establece que el personal al servicio de los consorcios podrá ser funcionario o laboral y habrá de proceder de las Administraciones participantes.",
+    "fuente": "Art. 121 LRJSP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 121 LRJSP, ¿qué límite se establece para las retribuciones del personal de los consorcios procedente de las Administraciones participantes?",
+    "options": [
+      "Se fijarán libremente por el consorcio, sin límite alguno",
+      "Se equipararán siempre a las del personal de la Administración General del Estado",
+      "En ningún caso podrán superar las establecidas para puestos de trabajo equivalentes en la Administración Pública de adscripción",
+      "Se fijarán exclusivamente por convenio colectivo sectorial, sin relación con la Administración de adscripción"
+    ],
+    "correct": 2,
+    "exp": "El art. 121 LRJSP dispone que las retribuciones del personal procedente de las Administraciones participantes en ningún caso podrán superar las establecidas para puestos de trabajo equivalentes en la Administración Pública de adscripción.",
+    "fuente": "Art. 121 LRJSP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 121 LRJSP, cuando excepcionalmente no sea posible contar con personal procedente de las Administraciones participantes, ¿quién puede autorizar la contratación de personal por parte del consorcio?",
+    "options": [
+      "El Tribunal de Cuentas",
+      "El máximo órgano de gobierno del consorcio, sin necesidad de autorización externa",
+      "El Ministerio de Hacienda y Función Pública, u órgano competente de la Administración a la que se adscriba el consorcio",
+      "La Intervención General de la Administración del Estado, exclusivamente"
+    ],
+    "correct": 2,
+    "exp": "El art. 121 LRJSP permite que, excepcionalmente, el Ministerio de Hacienda y Función Pública, u órgano competente de la Administración a la que se adscriba el consorcio, autorice la contratación de personal por parte del consorcio.",
+    "fuente": "Art. 121 LRJSP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 122.1 LRJSP, ¿a qué régimen de presupuestación, contabilidad y control están sujetos los consorcios?",
+    "options": [
+      "Al de la Administración Pública a la que estén adscritos, sin perjuicio de su sujeción a la Ley Orgánica 2/2012",
+      "A un régimen propio e independiente de cualquier Administración",
+      "Al régimen presupuestario del Estado, cualquiera que sea su Administración de adscripción",
+      "Al régimen previsto exclusivamente en la legislación de contratos del sector público"
+    ],
+    "correct": 0,
+    "exp": "El art. 122.1 LRJSP sujeta a los consorcios al régimen de presupuestación, contabilidad y control de la Administración Pública a la que estén adscritos, sin perjuicio de su sujeción a la Ley Orgánica 2/2012, de 27 de abril.",
+    "fuente": "Art. 122.1 LRJSP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 122.3.a) LRJSP, entre las circunstancias que determinan la obligación de auditar las cuentas anuales de un consorcio, ¿a partir de qué importe se considera relevante el total de las partidas del activo?",
+    "options": [
+      "Que supere 500.000 euros",
+      "Que supere 1.000.000 de euros",
+      "Que supere 2.400.000 euros",
+      "Que supere 6.000.000 de euros"
+    ],
+    "correct": 2,
+    "exp": "El art. 122.3.a) LRJSP fija como una de las circunstancias que el total de las partidas del activo supere 2.400.000 euros.",
+    "fuente": "Art. 122.3.a) LRJSP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 122.3.c) LRJSP, ¿a partir de qué número medio de trabajadores empleados durante el ejercicio se considera relevante esta circunstancia a efectos de la auditoría de cuentas de un consorcio?",
+    "options": [
+      "Superior a 10",
+      "Superior a 50",
+      "Superior a 100",
+      "Superior a 250"
+    ],
+    "correct": 1,
+    "exp": "El art. 122.3.c) LRJSP fija como circunstancia que el número medio de trabajadores empleados durante el ejercicio sea superior a 50.",
+    "fuente": "Art. 122.3.c) LRJSP",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántas de las tres circunstancias señaladas en el art. 122.3 LRJSP deben concurrir, al menos, para que el órgano de control interno esté obligado a auditar las cuentas anuales de un consorcio?",
+    "options": [
+      "Una",
+      "Dos",
+      "Tres",
+      "Ninguna; la auditoría es siempre voluntaria"
+    ],
+    "correct": 1,
+    "exp": "El art. 122.3 LRJSP exige que concurran, al menos, dos de las tres circunstancias señaladas (activo, ingresos y número de trabajadores) para que el órgano de control interno deba realizar la auditoría de cuentas anuales.",
+    "fuente": "Art. 122.3 LRJSP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 123.1 LRJSP, ¿cómo se crean los consorcios?",
+    "options": [
+      "Mediante convenio suscrito por las Administraciones, organismos públicos o entidades participantes",
+      "Mediante real decreto del Consejo de Ministros, en todo caso",
+      "Mediante ley orgánica",
+      "Mediante acuerdo verbal ratificado posteriormente por escrito"
+    ],
+    "correct": 0,
+    "exp": "El art. 123.1 LRJSP dispone que los consorcios se crearán mediante convenio suscrito por las Administraciones, organismos públicos o entidades participantes.",
+    "fuente": "Art. 123.1 LRJSP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando en un consorcio participe la Administración General del Estado o sus organismos vinculados, ¿qué exige el art. 123.2.a) LRJSP en relación con su creación?",
+    "options": [
+      "Que se autorice mediante orden ministerial conjunta",
+      "Que su creación se autorice por ley",
+      "Que no se requiera ninguna autorización adicional",
+      "Que su creación se autorice por real decreto del Ministerio de Hacienda"
+    ],
+    "correct": 1,
+    "exp": "El art. 123.2.a) LRJSP exige, cuando participe la Administración General del Estado o sus organismos vinculados, que la creación del consorcio se autorice por ley.",
+    "fuente": "Art. 123.2.a) LRJSP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 123.2.c) LRJSP, ¿dónde deben publicarse el convenio de creación de un consorcio con participación de la AGE, sus estatutos y sus modificaciones?",
+    "options": [
+      "En el Boletín Oficial del Registro Mercantil",
+      "Únicamente en el boletín oficial de la comunidad autónoma correspondiente",
+      "No requieren publicación oficial",
+      "En el «Boletín Oficial del Estado»"
+    ],
+    "correct": 3,
+    "exp": "El art. 123.2.c) LRJSP establece que el convenio suscrito junto con los estatutos, así como sus modificaciones, serán objeto de publicación en el «Boletín Oficial del Estado».",
+    "fuente": "Art. 123.2.c) LRJSP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 124.a) LRJSP, ¿qué aspecto deben determinar, como mínimo, los estatutos de un consorcio?",
+    "options": [
+      "La sede, objeto, fines y funciones",
+      "El régimen retributivo del personal de la Administración de adscripción",
+      "El procedimiento electoral de los municipios consorciados",
+      "El tipo de interés legal del dinero aplicable a sus operaciones"
+    ],
+    "correct": 0,
+    "exp": "El art. 124.a) LRJSP exige que los estatutos determinen, como mínimo, la sede, objeto, fines y funciones del consorcio.",
+    "fuente": "Art. 124.a) LRJSP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 124.b) LRJSP, ¿qué deben identificar los estatutos de un consorcio, además de las aportaciones de sus miembros?",
+    "options": [
+      "El listado de contratistas adjudicatarios previstos",
+      "La relación de puestos de trabajo de la Administración de adscripción",
+      "Los participantes en el consorcio",
+      "El régimen fiscal de las subvenciones que reciba"
+    ],
+    "correct": 2,
+    "exp": "El art. 124.b) LRJSP exige que los estatutos identifiquen a los participantes en el consorcio, así como las aportaciones de sus miembros.",
+    "fuente": "Art. 124.b) LRJSP",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué aspecto, entre los mínimos exigidos por el art. 124 LRJSP, debe recoger la letra d) de dicho artículo?",
+    "options": [
+      "El calendario laboral del personal del consorcio",
+      "Las causas de disolución",
+      "La denominación social de las entidades privadas participantes",
+      "El régimen fiscal de las subvenciones estatales"
+    ],
+    "correct": 1,
+    "exp": "El art. 124.d) LRJSP exige que los estatutos recojan las causas de disolución del consorcio.",
+    "fuente": "Art. 124.d) LRJSP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 125.1 LRJSP, ¿en qué momento pueden separarse los miembros de un consorcio si no se ha señalado término para su duración?",
+    "options": [
+      "Solo transcurridos cinco años desde su constitución",
+      "En cualquier momento",
+      "Únicamente con el consentimiento unánime de todos los demás miembros",
+      "Nunca; la separación no está permitida en los consorcios"
+    ],
+    "correct": 1,
+    "exp": "El art. 125.1 LRJSP dispone que los miembros de un consorcio podrán separarse del mismo en cualquier momento siempre que no se haya señalado término para la duración del consorcio.",
+    "fuente": "Art. 125.1 LRJSP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 125.1 LRJSP, cuando el consorcio tenga una duración determinada, ¿en qué supuesto puede un miembro separarse antes de que finalice el plazo?",
+    "options": [
+      "Si algún miembro del consorcio hubiera incumplido alguna de sus obligaciones estatutarias, como la de realizar aportaciones al fondo patrimonial",
+      "En ningún caso, hasta que finalice el plazo",
+      "Libremente, sin necesidad de causa alguna",
+      "Solo si lo autoriza expresamente el Ministerio de Hacienda y Función Pública"
+    ],
+    "correct": 0,
+    "exp": "El art. 125.1 LRJSP permite separarse antes de la finalización del plazo, cuando el consorcio tenga duración determinada, si alguno de los miembros hubiera incumplido sus obligaciones estatutarias, en particular la de realizar aportaciones al fondo patrimonial.",
+    "fuente": "Art. 125.1 LRJSP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 125.2 LRJSP, ¿cómo debe ejercitarse el derecho de separación de un consorcio?",
+    "options": [
+      "De forma verbal ante cualquier órgano del consorcio",
+      "Mediante publicación en el «Boletín Oficial del Estado»",
+      "Mediante acuerdo del Pleno de la Administración de adscripción, sin necesidad de notificación al consorcio",
+      "Mediante escrito notificado al máximo órgano de gobierno del consorcio"
+    ],
+    "correct": 3,
+    "exp": "El art. 125.2 LRJSP exige que el derecho de separación se ejercite mediante escrito notificado al máximo órgano de gobierno del consorcio.",
+    "fuente": "Art. 125.2 LRJSP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 126.1 LRJSP, ¿qué efecto produce, con carácter general, el ejercicio del derecho de separación de un consorcio?",
+    "options": [
+      "Ningún efecto sobre la existencia del consorcio",
+      "La fusión automática con otro consorcio de fines similares",
+      "La disolución del consorcio, salvo que el resto de sus miembros acuerden su continuidad y permanezcan, al menos, dos Administraciones o entidades vinculadas a más de una Administración",
+      "La disolución inmediata, sin posibilidad de excepción"
+    ],
+    "correct": 2,
+    "exp": "El art. 126.1 LRJSP dispone que el ejercicio del derecho de separación produce la disolución del consorcio, salvo que el resto de sus miembros acuerden su continuidad y permanezcan, al menos, dos Administraciones o entidades vinculadas a más de una Administración.",
+    "fuente": "Art. 126.1 LRJSP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando el ejercicio del derecho de separación no conlleve la disolución del consorcio, según el art. 126.2.a) LRJSP, ¿cómo se calcula la cuota de separación de quien se separa, a falta de previsión estatutaria específica?",
+    "options": [
+      "A partes iguales entre todos los miembros, sin considerar sus aportaciones",
+      "De acuerdo con la participación que le hubiera correspondido en el saldo resultante del patrimonio neto, de haber tenido lugar la liquidación",
+      "En la cuantía inicialmente aportada, sin actualización alguna",
+      "La determina unilateralmente el miembro que se separa"
+    ],
+    "correct": 1,
+    "exp": "El art. 126.2.a) LRJSP calcula la cuota de separación de acuerdo con la participación que le hubiera correspondido en el saldo resultante del patrimonio neto, de haber tenido lugar la liquidación, según el criterio de reparto de los estatutos.",
+    "fuente": "Art. 126.2.a) LRJSP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 126.2.b) LRJSP, si el consorcio estaba adscrito a la Administración que ejerce el derecho de separación, ¿qué debe acordarse?",
+    "options": [
+      "Que el consorcio quede sin Administración de adscripción de forma indefinida",
+      "Que el consorcio pase automáticamente a adscribirse a la Administración General del Estado",
+      "Que el consorcio se disuelva obligatoriamente en todo caso",
+      "A qué Administración se adscribe el consorcio entre las restantes que permanecen, aplicando los criterios legales de adscripción"
+    ],
+    "correct": 3,
+    "exp": "El art. 126.2.b) LRJSP exige, si el consorcio estaba adscrito a la Administración que se separa, acordar a qué Administración se adscribe de entre las restantes que permanecen en el consorcio, aplicando los criterios establecidos en la Ley.",
+    "fuente": "Art. 126.2.b) LRJSP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 127.1 LRJSP, ¿qué produce la disolución de un consorcio?",
+    "options": [
+      "Únicamente la suspensión temporal de su actividad",
+      "Su liquidación y extinción",
+      "Su transformación automática en mancomunidad",
+      "La cesión automática de todo su patrimonio al Estado"
+    ],
+    "correct": 1,
+    "exp": "El art. 127.1 LRJSP dispone que la disolución del consorcio produce su liquidación y extinción.",
+    "fuente": "Art. 127.1 LRJSP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 127.1 LRJSP, ¿cuál es, en todo caso, una causa de disolución de un consorcio?",
+    "options": [
+      "El cambio de alcalde en el municipio de mayor aportación",
+      "El cambio de sede social del consorcio",
+      "Que los fines para los que fue creado el consorcio hayan sido cumplidos",
+      "La modificación de los estatutos, sea cual sea su alcance"
+    ],
+    "correct": 2,
+    "exp": "El art. 127.1 LRJSP establece que, en todo caso, será causa de disolución que los fines para los que fue creado el consorcio hayan sido cumplidos.",
+    "fuente": "Art. 127.1 LRJSP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 127.2 LRJSP, ¿quién nombra al liquidador del consorcio al adoptarse el acuerdo de disolución?",
+    "options": [
+      "El Tribunal de Cuentas",
+      "El máximo órgano de gobierno del consorcio",
+      "El Ministerio de Hacienda y Función Pública, en todo caso",
+      "Cada uno de los miembros del consorcio, de forma individual"
+    ],
+    "correct": 1,
+    "exp": "El art. 127.2 LRJSP establece que el máximo órgano de gobierno del consorcio, al adoptar el acuerdo de disolución, nombrará un liquidador que será un órgano o entidad vinculada o dependiente de la Administración Pública a la que el consorcio esté adscrito.",
+    "fuente": "Art. 127.2 LRJSP",
+    "confianza": "alta"
+  }
+]);
+
+/* tema 11 · lote 2026-08-12 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 11, [
+  {
+    "q": "¿En virtud de qué condición reconoce el art. 4.1 LBRL las potestades que enumera a municipios, provincias e islas?",
+    "options": [
+      "Su calidad de Administraciones públicas de carácter territorial, dentro de la esfera de sus competencias",
+      "Su condición de personas jurídico-privadas",
+      "Su carácter de entidades subordinadas jerárquicamente al Estado",
+      "Su naturaleza de corporaciones de derecho público sin personalidad jurídica"
+    ],
+    "correct": 0,
+    "exp": "El art. 4.1 LBRL dispone: 'En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, corresponden en todo caso a los municipios, las provincias y las islas' las potestades que enumera.",
+    "fuente": "Art. 4.1 LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántas potestades enumera, mediante letras, el art. 4.1 LBRL como correspondientes en todo caso a municipios, provincias e islas?",
+    "options": [
+      "Seis (letras a a f)",
+      "Siete (letras a a g)",
+      "Ocho (letras a a h)",
+      "Diez (letras a a j)"
+    ],
+    "correct": 2,
+    "exp": "El art. 4.1 LBRL enumera ocho potestades, en las letras a) a h).",
+    "fuente": "Art. 4.1 LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 4.1.a) LBRL, ¿qué potestades corresponden en todo caso a los municipios, provincias e islas?",
+    "options": [
+      "Las potestades reglamentaria y de autoorganización",
+      "Las potestades tributaria y financiera",
+      "La potestad de programación o planificación",
+      "La potestad de revisión de oficio de sus actos y acuerdos"
+    ],
+    "correct": 0,
+    "exp": "El art. 4.1.a) LBRL reconoce 'las potestades reglamentaria y de autoorganización'.",
+    "fuente": "Art. 4.1.a) LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué potestades reconoce la letra b) del art. 4.1 LBRL a las entidades locales?",
+    "options": [
+      "Las potestades tributaria y financiera",
+      "Las potestades reglamentaria y de autoorganización",
+      "La potestad de programación o planificación",
+      "Las potestades expropiatoria y de investigación, deslinde y recuperación de oficio de sus bienes"
+    ],
+    "correct": 0,
+    "exp": "El art. 4.1.b) LBRL reconoce 'las potestades tributaria y financiera'.",
+    "fuente": "Art. 4.1.b) LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "La potestad de programación o planificación de las entidades locales se recoge en:",
+    "options": [
+      "El art. 4.1.c) LBRL",
+      "El art. 4.1.a) LBRL",
+      "El art. 4.1.f) LBRL",
+      "El art. 84.1.a) LBRL"
+    ],
+    "correct": 0,
+    "exp": "El art. 4.1.c) LBRL reconoce 'la potestad de programación o planificación'.",
+    "fuente": "Art. 4.1.c) LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 4.1.d) LBRL, además de la potestad expropiatoria, ¿qué otras potestades se reconocen a las entidades locales?",
+    "options": [
+      "Las de investigación, deslinde y recuperación de oficio de sus bienes",
+      "La de ejecución forzosa y sancionadora",
+      "La de revisión de oficio de sus actos y acuerdos",
+      "La tributaria y financiera"
+    ],
+    "correct": 0,
+    "exp": "El art. 4.1.d) LBRL reconoce 'las potestades expropiatoria y de investigación, deslinde y recuperación de oficio de sus bienes'.",
+    "fuente": "Art. 4.1.d) LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "La presunción de legitimidad y la ejecutividad de los actos de las entidades locales se recogen en:",
+    "options": [
+      "El art. 4.1.e) LBRL",
+      "El art. 4.1.g) LBRL",
+      "El art. 84.2 LBRL",
+      "El art. 4.1.f) LBRL"
+    ],
+    "correct": 0,
+    "exp": "El art. 4.1.e) LBRL reconoce 'la presunción de legitimidad y la ejecutividad de sus actos'.",
+    "fuente": "Art. 4.1.e) LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 4.1.f) LBRL, ¿qué potestades corresponden en todo caso a los municipios, provincias e islas?",
+    "options": [
+      "Las potestades de ejecución forzosa y sancionadora",
+      "Las potestades tributaria y sancionadora",
+      "La potestad reglamentaria y sancionadora",
+      "La potestad de revisión de oficio y sancionadora"
+    ],
+    "correct": 0,
+    "exp": "El art. 4.1.f) LBRL reconoce 'las potestades de ejecución forzosa y sancionadora'.",
+    "fuente": "Art. 4.1.f) LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Con qué otra potestad aparece unida la potestad sancionadora en la letra f) del art. 4.1 LBRL?",
+    "options": [
+      "Con la potestad de ejecución forzosa",
+      "Con la potestad tributaria",
+      "Con la potestad expropiatoria",
+      "Con la potestad de revisión de oficio"
+    ],
+    "correct": 0,
+    "exp": "La letra f) del art. 4.1 LBRL agrupa en un mismo apartado 'las potestades de ejecución forzosa y sancionadora'.",
+    "fuente": "Art. 4.1.f) LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "La potestad de revisión de oficio de los actos y acuerdos de las entidades locales se enumera en:",
+    "options": [
+      "El art. 4.1.g) LBRL",
+      "El art. 4.1.f) LBRL",
+      "El art. 4.1.h) LBRL",
+      "El art. 84.3 LBRL"
+    ],
+    "correct": 0,
+    "exp": "El art. 4.1.g) LBRL reconoce 'la potestad de revisión de oficio de sus actos y acuerdos'.",
+    "fuente": "Art. 4.1.g) LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 4.1.h) LBRL, además de las prelaciones, preferencias y demás prerrogativas reconocidas a la Hacienda Pública, ¿qué otra garantía se reconoce a los bienes y derechos de las entidades locales?",
+    "options": [
+      "La inembargabilidad, en los términos previstos en las leyes",
+      "La imprescriptibilidad absoluta frente a cualquier acción",
+      "La exención total de responsabilidad patrimonial",
+      "La inalienabilidad de todos sus bienes patrimoniales"
+    ],
+    "correct": 0,
+    "exp": "El art. 4.1.h) LBRL reconoce las prelaciones, preferencias y prerrogativas de la Hacienda Pública, 'así como la inembargabilidad de sus bienes y derechos en los términos previstos en las leyes'.",
+    "fuente": "Art. 4.1.h) LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 4.2 LBRL, ¿a qué entidades puede aplicarse lo dispuesto en el apartado 1 del mismo artículo, debiendo las leyes de las comunidades autónomas concretar qué potestades les corresponden?",
+    "options": [
+      "A las entidades territoriales de ámbito inferior al municipal y, asimismo, a las comarcas, áreas metropolitanas y demás entidades locales",
+      "Exclusivamente a las mancomunidades de municipios",
+      "Únicamente a las diputaciones provinciales",
+      "A las comunidades autónomas uniprovinciales"
+    ],
+    "correct": 0,
+    "exp": "El art. 4.2 LBRL extiende lo dispuesto en el apartado 1 'a las entidades territoriales de ámbito inferior al municipal y, asimismo, a las comarcas, áreas metropolitanas y demás entidades locales', concretando las CCAA cuáles potestades se aplican, salvo mancomunidades (que se rigen por el apartado 3).",
+    "fuente": "Art. 4.2 LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 4.3 LBRL, ¿qué potestades del apartado 1 corresponden a las mancomunidades de municipios en defecto de previsión estatutaria?",
+    "options": [
+      "Todas las enumeradas en el apartado 1, siempre que sean precisas para el cumplimiento de su finalidad",
+      "Ninguna, salvo que una ley de la comunidad autónoma las autorice expresamente",
+      "Únicamente la potestad tributaria y financiera",
+      "Solo las potestades reglamentaria y sancionadora"
+    ],
+    "correct": 0,
+    "exp": "El art. 4.3 LBRL establece que, en defecto de previsión estatutaria, corresponderán a las mancomunidades 'todas las potestades enumeradas en dicho apartado, siempre que sean precisas para el cumplimiento de su finalidad'.",
+    "fuente": "Art. 4.3 LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "La potestad sancionadora reconocida a las entidades locales en el art. 4.1.f) LBRL constituye el fundamento general que les permite:",
+    "options": [
+      "Reaccionar frente al incumplimiento de las obligaciones derivadas de los medios de intervención en la actividad de los ciudadanos regulados en el art. 84 LBRL",
+      "Aprobar directamente sentencias firmes sin intervención judicial",
+      "Sustituir a la Administración General del Estado en materia penal",
+      "Modificar unilateralmente los tratados internacionales que les afecten"
+    ],
+    "correct": 0,
+    "exp": "La potestad sancionadora del art. 4.1.f) LBRL es la potestad general que sustenta la reacción de la entidad local frente al incumplimiento de las obligaciones que derivan de los medios de intervención en la actividad de los ciudadanos que regula el art. 84 LBRL (ordenanzas, licencias, comunicaciones, declaraciones responsables, controles y órdenes individuales).",
+    "fuente": "Art. 4.1.f) LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "La potestad sancionadora que el art. 4.1.f) LBRL reconoce a las entidades locales, junto con la potestad de ejecución forzosa, les permite, entre otras cosas:",
+    "options": [
+      "Sancionar los incumplimientos de la normativa local, incluida la que regula la prestación y utilización de los servicios públicos locales",
+      "Prestar directamente todos los servicios públicos locales sin posibilidad de gestión indirecta",
+      "Declarar la reserva de servicios en favor de las entidades locales sin necesidad de ley habilitante",
+      "Eximir a los concesionarios de servicios públicos del cumplimiento de las ordenanzas municipales"
+    ],
+    "correct": 0,
+    "exp": "La potestad sancionadora del art. 4.1.f) LBRL, como potestad general de la entidad local, ampara la sanción de los incumplimientos de la normativa local, incluida la referida a la prestación y utilización de los servicios públicos locales.",
+    "fuente": "Art. 4.1.f) LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes NO figura entre las potestades que el art. 4.1 LBRL reconoce en todo caso a los municipios, provincias e islas?",
+    "options": [
+      "La potestad legislativa",
+      "La potestad de programación o planificación",
+      "La potestad de revisión de oficio de sus actos y acuerdos",
+      "La potestad de ejecución forzosa"
+    ],
+    "correct": 0,
+    "exp": "El art. 4.1 LBRL no incluye entre sus ocho letras (a-h) una 'potestad legislativa'; sí incluye la de programación o planificación (c), la de revisión de oficio (g) y la de ejecución forzosa, unida a la sancionadora (f).",
+    "fuente": "Art. 4.1 LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántos medios de intervención en la actividad de los ciudadanos enumera el art. 84.1 LBRL?",
+    "options": [
+      "Tres",
+      "Cuatro",
+      "Cinco",
+      "Seis"
+    ],
+    "correct": 2,
+    "exp": "El art. 84.1 LBRL enumera cinco medios, en las letras a) a e): ordenanzas y bandos; previa licencia y otros actos de control preventivo; comunicación previa o declaración responsable; control posterior; y órdenes individuales.",
+    "fuente": "Art. 84.1 LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 84.1.a) LBRL, ¿cuál es el primer medio de intervención administrativa en la actividad de los ciudadanos que enumera el precepto?",
+    "options": [
+      "Ordenanzas y bandos",
+      "Sometimiento a previa licencia",
+      "Declaración responsable",
+      "Órdenes individuales"
+    ],
+    "correct": 0,
+    "exp": "La letra a) del art. 84.1 LBRL, primera de la lista, señala 'ordenanzas y bandos'.",
+    "fuente": "Art. 84.1.a) LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "El sometimiento a previa licencia y otros actos de control preventivo se recoge, como medio de intervención, en:",
+    "options": [
+      "El art. 84.1.b) LBRL",
+      "El art. 84.1.d) LBRL",
+      "El art. 4.1.f) LBRL",
+      "El art. 84.3 LBRL"
+    ],
+    "correct": 0,
+    "exp": "El art. 84.1.b) LBRL recoge el 'sometimiento a previa licencia y otros actos de control preventivo'.",
+    "fuente": "Art. 84.1.b) LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 84.1.c) LBRL, ¿a qué medios de intervención puede someterse una actividad como alternativa a la previa licencia?",
+    "options": [
+      "Comunicación previa o declaración responsable",
+      "Órdenes individuales de ejecución",
+      "Ordenanzas y bandos",
+      "Control posterior al cese de la actividad"
+    ],
+    "correct": 0,
+    "exp": "El art. 84.1.c) LBRL recoge el 'sometimiento a comunicación previa o a declaración responsable'.",
+    "fuente": "Art. 84.1.c) LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué medio de intervención regula el art. 84.1.d) LBRL?",
+    "options": [
+      "El sometimiento a control posterior al inicio de la actividad, a efectos de verificar el cumplimiento de la normativa reguladora de la misma",
+      "El sometimiento a previa licencia",
+      "La aprobación de ordenanzas y bandos",
+      "Las órdenes individuales constitutivas de mandato"
+    ],
+    "correct": 0,
+    "exp": "El art. 84.1.d) LBRL recoge el 'sometimiento a control posterior al inicio de la actividad, a efectos de verificar el cumplimiento de la normativa reguladora de la misma'.",
+    "fuente": "Art. 84.1.d) LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 84.1.e) LBRL, ¿en qué consisten las órdenes individuales como medio de intervención?",
+    "options": [
+      "En mandatos constitutivos para la ejecución de un acto o la prohibición del mismo",
+      "En autorizaciones genéricas de funcionamiento aplicables a todo el sector",
+      "En comunicaciones informativas sin efectos jurídicos",
+      "En declaraciones responsables agravadas"
+    ],
+    "correct": 0,
+    "exp": "El art. 84.1.e) LBRL define las órdenes individuales como 'constitutivas de mandato para la ejecución de un acto o la prohibición del mismo'.",
+    "fuente": "Art. 84.1.e) LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de los siguientes NO es uno de los medios de intervención enumerados en el art. 84.1 LBRL?",
+    "options": [
+      "La potestad expropiatoria",
+      "Ordenanzas y bandos",
+      "Sometimiento a comunicación previa o declaración responsable",
+      "Órdenes individuales"
+    ],
+    "correct": 0,
+    "exp": "La potestad expropiatoria es una potestad general reconocida en el art. 4.1.d) LBRL, no un medio de intervención de los enumerados en el art. 84.1 LBRL (ordenanzas y bandos, previa licencia, comunicación previa o declaración responsable, control posterior y órdenes individuales).",
+    "fuente": "Art. 84.1 LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 84.1.b) LBRL, ¿qué excepción se establece respecto del sometimiento a previa licencia cuando se trate del acceso y ejercicio de actividades de servicios?",
+    "options": [
+      "Se estará a lo dispuesto en la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio",
+      "Se aplicará directamente el Código de Comercio",
+      "Quedan excluidas de cualquier intervención administrativa",
+      "Se remite en exclusiva a la normativa autonómica de comercio interior"
+    ],
+    "correct": 0,
+    "exp": "El art. 84.1.b) LBRL señala que cuando se trate de actividades de servicios incluidas en el ámbito de la Ley 17/2009, de 23 de noviembre, 'se estará a lo dispuesto en la misma'.",
+    "fuente": "Art. 84.1.b) LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 84.1.c) LBRL remite, para el sometimiento a comunicación previa o declaración responsable, a lo establecido en:",
+    "options": [
+      "El artículo 71 bis de la Ley 30/1992, de 26 de noviembre",
+      "El artículo 84 bis de la propia LBRL",
+      "El artículo 133 de la Ley 39/2015",
+      "El artículo 4 de la Ley 17/2009"
+    ],
+    "correct": 0,
+    "exp": "El art. 84.1.c) LBRL remite expresamente 'de conformidad con lo establecido en el artículo 71 bis de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común'.",
+    "fuente": "Art. 84.1.c) LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 84.2 LBRL, ¿a qué principios debe ajustarse en todo caso la actividad de intervención de las entidades locales?",
+    "options": [
+      "Igualdad de trato, necesidad y proporcionalidad con el objetivo que se persigue",
+      "Eficacia, jerarquía y descentralización",
+      "Publicidad, concurrencia y transparencia",
+      "Buena fe, confianza legítima y non bis in idem"
+    ],
+    "correct": 0,
+    "exp": "El art. 84.2 LBRL dispone que 'la actividad de intervención de las Entidades locales se ajustará, en todo caso, a los principios de igualdad de trato, necesidad y proporcionalidad con el objetivo que se persigue'.",
+    "fuente": "Art. 84.2 LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 84.3 LBRL, las licencias o autorizaciones otorgadas por otras Administraciones Públicas:",
+    "options": [
+      "No eximen a sus titulares de obtener las correspondientes licencias de las entidades locales, respetándose lo dispuesto en las leyes sectoriales",
+      "Sustituyen automáticamente a las licencias municipales",
+      "Solo son válidas si son ratificadas por el Pleno municipal",
+      "Eximen siempre de licencia local cuando provienen de la comunidad autónoma"
+    ],
+    "correct": 0,
+    "exp": "El art. 84.3 LBRL establece que 'las licencias o autorizaciones otorgadas por otras Administraciones Públicas no eximen a sus titulares de obtener las correspondientes licencias de las Entidades locales, respetándose en todo caso lo dispuesto en las correspondientes leyes sectoriales'.",
+    "fuente": "Art. 84.3 LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántos apartados tiene el art. 84 LBRL en su redacción vigente?",
+    "options": [
+      "Tres",
+      "Dos",
+      "Cuatro",
+      "Cinco"
+    ],
+    "correct": 0,
+    "exp": "El art. 84 LBRL tiene tres apartados: el 1 (medios de intervención), el 2 (principios de la actividad de intervención) y el 3 (licencias de otras Administraciones).",
+    "fuente": "Art. 84 LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Las ordenanzas mencionadas como medio de intervención en el art. 84.1.a) LBRL son, en el ámbito de la actividad de los ciudadanos, manifestación de la potestad reconocida con carácter general en:",
+    "options": [
+      "El art. 4.1.a) LBRL (potestad reglamentaria y de autoorganización)",
+      "El art. 4.1.f) LBRL (potestad sancionadora)",
+      "El art. 4.1.g) LBRL (potestad de revisión de oficio)",
+      "El art. 4.1.h) LBRL (prerrogativas de la Hacienda Pública)"
+    ],
+    "correct": 0,
+    "exp": "Las ordenanzas como medio de intervención del art. 84.1.a) LBRL son ejercicio, en esa materia concreta, de la potestad reglamentaria y de autoorganización reconocida con carácter general en el art. 4.1.a) LBRL.",
+    "fuente": "Art. 84.1.a) LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la letra c) del art. 84.1 LBRL, la comunicación previa y la declaración responsable se configuran, como medios de intervención, en términos:",
+    "options": [
+      "Alternativos entre sí, no cumulativos",
+      "Necesariamente cumulativos, debiendo cumplirse siempre ambos",
+      "Sucesivos, siendo la declaración responsable posterior en todo caso a la comunicación previa",
+      "Excluidos expresamente de la actividad de intervención local"
+    ],
+    "correct": 0,
+    "exp": "El art. 84.1.c) LBRL emplea la conjunción disyuntiva: 'sometimiento a comunicación previa o a declaración responsable', configurándolos como medios alternativos.",
+    "fuente": "Art. 84.1.c) LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "De los cinco medios de intervención enumerados en el art. 84.1 LBRL, ¿cuál es el único que se ejerce con posterioridad al inicio de la actividad, y no con carácter previo a la misma?",
+    "options": [
+      "El sometimiento a control posterior de la letra d)",
+      "El sometimiento a previa licencia de la letra b)",
+      "Las ordenanzas y bandos de la letra a)",
+      "La comunicación previa o declaración responsable de la letra c)"
+    ],
+    "correct": 0,
+    "exp": "Frente a la licencia, la comunicación previa y la declaración responsable, que operan antes o al inicio de la actividad, el control posterior de la letra d) se ejerce, según el propio precepto, 'al inicio de la actividad, a efectos de verificar el cumplimiento de la normativa reguladora de la misma' una vez ya iniciada.",
+    "fuente": "Art. 84.1.d) LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué medio de intervención del art. 84.1 LBRL consiste en un mandato dirigido a un sujeto concreto para la ejecución o prohibición de un acto, y no en una norma de alcance general como las ordenanzas?",
+    "options": [
+      "Las órdenes individuales de la letra e)",
+      "Las ordenanzas y bandos de la letra a)",
+      "El sometimiento a previa licencia de la letra b)",
+      "El sometimiento a comunicación previa de la letra c)"
+    ],
+    "correct": 0,
+    "exp": "Frente a las ordenanzas y bandos, que son normas de alcance general, las órdenes individuales de la letra e) del art. 84.1 LBRL son 'constitutivas de mandato para la ejecución de un acto o la prohibición del mismo', dirigidas a un sujeto concreto.",
+    "fuente": "Art. 84.1.e) LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el encabezamiento del art. 84.1 LBRL, ¿qué facultad general se atribuye a las entidades locales?",
+    "options": [
+      "Podrán intervenir la actividad de los ciudadanos a través de los medios que dicho apartado enumera",
+      "Deberán intervenir obligatoriamente toda actividad económica privada",
+      "Solo podrán intervenir la actividad de otras Administraciones Públicas",
+      "Podrán intervenir exclusivamente mediante sanciones económicas"
+    ],
+    "correct": 0,
+    "exp": "El art. 84.1 LBRL comienza: 'Las Entidades locales podrán intervenir la actividad de los ciudadanos a través de los siguientes medios'.",
+    "fuente": "Art. 84.1 LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "A diferencia del sometimiento a previa licencia y otros actos de control preventivo (letra b), el control posterior regulado en la letra d) del art. 84.1 LBRL se ejerce:",
+    "options": [
+      "Una vez iniciada la actividad, para verificar el cumplimiento de la normativa reguladora",
+      "Antes del inicio de la actividad, como requisito habilitante para ejercerla",
+      "Exclusivamente sobre actividades sometidas a declaración responsable, nunca sobre las de licencia",
+      "Solo por la Administración autonómica, nunca por la entidad local"
+    ],
+    "correct": 0,
+    "exp": "Frente al control preventivo de la letra b), que se ejerce antes del inicio de la actividad, el control posterior de la letra d) del art. 84.1 LBRL opera al inicio de la actividad, verificando el cumplimiento de la normativa reguladora de la misma.",
+    "fuente": "Art. 84.1.d) LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes secuencias reproduce, en el orden en que aparecen en el art. 84.1 LBRL, los medios de intervención de las entidades locales en la actividad de los ciudadanos?",
+    "options": [
+      "Ordenanzas y bandos; previa licencia y otros actos de control preventivo; comunicación previa o declaración responsable; control posterior; órdenes individuales",
+      "Órdenes individuales; ordenanzas y bandos; previa licencia; control posterior; declaración responsable",
+      "Previa licencia; ordenanzas y bandos; control posterior; comunicación previa; órdenes individuales",
+      "Comunicación previa; declaración responsable; ordenanzas y bandos; previa licencia; órdenes individuales"
+    ],
+    "correct": 0,
+    "exp": "El art. 84.1 LBRL enumera, en este orden, las letras a) ordenanzas y bandos, b) previa licencia y otros actos de control preventivo, c) comunicación previa o declaración responsable, d) control posterior y e) órdenes individuales.",
+    "fuente": "Art. 84.1 LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "El principio de proporcionalidad exigido por el art. 84.2 LBRL a la actividad de intervención de las entidades locales se mide en relación con:",
+    "options": [
+      "El objetivo que se persigue con dicha intervención",
+      "El presupuesto municipal disponible",
+      "El número de habitantes del municipio",
+      "La antigüedad de la ordenanza aplicable"
+    ],
+    "correct": 0,
+    "exp": "El art. 84.2 LBRL exige que la actividad de intervención se ajuste 'a los principios de igualdad de trato, necesidad y proporcionalidad con el objetivo que se persigue'.",
+    "fuente": "Art. 84.2 LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "La obligación de obtener licencia local, aun existiendo licencia de otra Administración Pública, se aplica conforme al art. 84.3 LBRL:",
+    "options": [
+      "Respetándose en todo caso lo dispuesto en las correspondientes leyes sectoriales",
+      "Sin excepción alguna, incluso en contra de lo que disponga la ley sectorial aplicable",
+      "Solo cuando lo autorice expresamente el Consejo de Ministros",
+      "Únicamente en los municipios de gran población"
+    ],
+    "correct": 0,
+    "exp": "El art. 84.3 LBRL condiciona la exigencia de licencia local 'respetándose en todo caso lo dispuesto en las correspondientes leyes sectoriales'.",
+    "fuente": "Art. 84.3 LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "El incumplimiento de las obligaciones derivadas de cualquiera de los medios de intervención enumerados en el art. 84.1 LBRL (ordenanzas, licencias, comunicaciones, declaraciones responsables, controles posteriores u órdenes individuales) puede justificar, en su caso:",
+    "options": [
+      "El ejercicio de la potestad sancionadora reconocida con carácter general en el art. 4.1.f) LBRL",
+      "El ejercicio de la potestad sancionadora únicamente cuando el medio incumplido sea una ordenanza",
+      "El ejercicio de la potestad sancionadora solo si el medio incumplido es una licencia",
+      "La imposibilidad de sancionar, pues el art. 4.1.f) LBRL y el art. 84.1 LBRL regulan materias independientes entre sí"
+    ],
+    "correct": 0,
+    "exp": "La potestad sancionadora del art. 4.1.f) LBRL, reconocida con carácter general, opera como fundamento para sancionar el incumplimiento de las obligaciones derivadas de cualquiera de los medios de intervención regulados en el art. 84.1 LBRL, sin limitarse a uno solo de ellos.",
+    "fuente": "Art. 4.1.f) LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Sobre qué actividad, según el encabezamiento del art. 84.1 LBRL, pueden las entidades locales emplear los medios de intervención que dicho apartado enumera?",
+    "options": [
+      "Sobre la actividad de los ciudadanos",
+      "Sobre la actividad de las restantes Administraciones Públicas",
+      "Sobre la actividad legislativa de las Cortes Generales",
+      "Sobre la actividad jurisdiccional de los Tribunales"
+    ],
+    "correct": 0,
+    "exp": "El art. 84.1 LBRL comienza: 'Las Entidades locales podrán intervenir la actividad de los ciudadanos a través de los siguientes medios'.",
+    "fuente": "Art. 84.1 LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "El apartado 3 del art. 84 LBRL, relativo a la no exención de licencias otorgadas por otras Administraciones Públicas, fue incorporado al texto de la LBRL por:",
+    "options": [
+      "La Ley 11/1999, de 21 de abril",
+      "La Ley 25/2009, de 22 de diciembre",
+      "La Ley 27/2013, de 27 de diciembre",
+      "La redacción original de la Ley 7/1985, de 2 de abril"
+    ],
+    "correct": 0,
+    "exp": "Según la nota del texto consolidado, 'se añade el apartado 3 por el art. 1.25 de la Ley 11/1999, de 21 de abril' (Ref. BOE-A-1999-8932).",
+    "fuente": "Art. 84.3 LBRL",
+    "confianza": "alta"
+  }
+]);

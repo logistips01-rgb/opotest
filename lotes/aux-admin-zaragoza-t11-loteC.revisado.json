@@ -1,0 +1,606 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 11,
+  "preguntas": [
+    {
+      "q": "Según el artículo 44.1 de la Ley 7/1985, Reguladora de las Bases del Régimen Local (LBRL), ¿qué derecho se reconoce a los municipios?",
+      "options": [
+        "El derecho a asociarse con otros municipios en mancomunidades para la ejecución en común de obras y servicios determinados de su competencia",
+        "El derecho a fusionarse con municipios limítrofes sin necesidad de autorización autonómica",
+        "El derecho a delegar la totalidad de sus competencias en la diputación provincial",
+        "El derecho a constituir consorcios con entidades privadas con ánimo de lucro para la prestación de servicios esenciales"
+      ],
+      "correct": 0,
+      "exp": "El art. 44.1 LBRL reconoce a los municipios el derecho a asociarse con otros en mancomunidades para la ejecución en común de obras y servicios determinados de su competencia.",
+      "fuente": "Art. 44.1 LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 44.1 LBRL confirmado literal en _lbrl.txt: reconoce a los municipios el derecho a asociarse en mancomunidades para obras y servicios determinados; opción 0 correcta."
+    },
+    {
+      "q": "¿Qué establece el art. 44.2 LBRL sobre la naturaleza jurídica de las mancomunidades de municipios?",
+      "options": [
+        "Que tienen personalidad y capacidad jurídicas para el cumplimiento de sus fines específicos y se rigen por sus Estatutos propios",
+        "Que carecen de personalidad jurídica propia y actúan como órganos desconcentrados de la diputación provincial",
+        "Que su personalidad jurídica depende de un reconocimiento expreso del Ministerio de Hacienda",
+        "Que tienen personalidad jurídica únicamente a efectos tributarios"
+      ],
+      "correct": 0,
+      "exp": "El art. 44.2 LBRL dispone que las mancomunidades tienen personalidad y capacidad jurídicas para el cumplimiento de sus fines específicos y se rigen por sus Estatutos propios.",
+      "fuente": "Art. 44.2 LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 44.2 LBRL confirmado literal: mancomunidades tienen personalidad y capacidad jurídicas y se rigen por sus Estatutos; opción 0 correcta."
+    },
+    {
+      "q": "Según el art. 44.2 LBRL, ¿qué extremos han de regular, en todo caso, los Estatutos de una mancomunidad de municipios?",
+      "options": [
+        "El ámbito territorial de la entidad, su objeto y competencia, órganos de gobierno y recursos, y el plazo de duración, entre otros extremos necesarios para su funcionamiento",
+        "Únicamente el ámbito territorial y el nombre de su presidente",
+        "Exclusivamente el régimen retributivo de su personal directivo",
+        "El sistema electoral aplicable a las elecciones municipales de los municipios mancomunados"
+      ],
+      "correct": 0,
+      "exp": "El art. 44.2 LBRL exige que los Estatutos regulen el ámbito territorial de la entidad, su objeto y competencia, órganos de gobierno y recursos, plazo de duración y cuantos otros extremos sean necesarios para su funcionamiento.",
+      "fuente": "Art. 44.2 LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 44.2 LBRL confirmado literal: los Estatutos regulan ámbito territorial, objeto y competencia, órganos de gobierno y recursos, plazo de duración y demás extremos necesarios; opción 0 correcta."
+    },
+    {
+      "q": "Según el art. 44.2 LBRL, ¿de qué han de ser representativos, en todo caso, los órganos de gobierno de una mancomunidad?",
+      "options": [
+        "De la diputación provincial correspondiente",
+        "De los ayuntamientos mancomunados",
+        "De la comunidad autónoma en cuyo territorio se ubique la mancomunidad",
+        "De las entidades privadas que participen en la mancomunidad"
+      ],
+      "correct": 1,
+      "exp": "El art. 44.2 LBRL señala que, en todo caso, los órganos de gobierno serán representativos de los ayuntamientos mancomunados.",
+      "fuente": "Art. 44.2 LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 44.2 LBRL confirmado literal: en todo caso los órganos de gobierno son representativos de los ayuntamientos mancomunados; opción 1 correcta."
+    },
+    {
+      "q": "Conforme al art. 44.3.a) LBRL, ¿a quién corresponde la elaboración de los estatutos de una mancomunidad de municipios?",
+      "options": [
+        "Al Pleno de la diputación provincial interesada",
+        "A la comunidad autónoma correspondiente",
+        "A los concejales de la totalidad de los municipios promotores de la mancomunidad, constituidos en asamblea",
+        "Al alcalde del municipio de mayor población entre los promotores"
+      ],
+      "correct": 2,
+      "exp": "El art. 44.3.a) LBRL atribuye la elaboración de los estatutos a los concejales de la totalidad de los municipios promotores de la mancomunidad, constituidos en asamblea.",
+      "fuente": "Art. 44.3.a) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 44.3.a) LBRL confirmado literal: la elaboración corresponde a los concejales de todos los municipios promotores, constituidos en asamblea; opción 2 correcta."
+    },
+    {
+      "q": "Según el art. 44.3.b) LBRL, ¿qué trámite corresponde a la Diputación o Diputaciones provinciales interesadas en el procedimiento de aprobación de los estatutos de una mancomunidad?",
+      "options": [
+        "Aprobar definitivamente los estatutos en sustitución de los ayuntamientos",
+        "Nombrar a los miembros del órgano de gobierno de la mancomunidad",
+        "Emitir informe sobre el proyecto de estatutos",
+        "Fijar el presupuesto inicial de la mancomunidad"
+      ],
+      "correct": 2,
+      "exp": "El art. 44.3.b) LBRL dispone que la Diputación o Diputaciones provinciales interesadas emitirán informe sobre el proyecto de estatutos.",
+      "fuente": "Art. 44.3.b) LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 44.3.b) LBRL confirmado literal: la Diputación o Diputaciones interesadas emiten informe sobre el proyecto de estatutos; opción 2 correcta."
+    },
+    {
+      "q": "¿Cuál es la situación actual del artículo 87 de la LBRL, que regulaba los consorcios de entidades locales?",
+      "options": [
+        "Sigue vigente en su redacción original de 1985",
+        "Está derogado, con efectos desde el 2 de octubre de 2016, por la disposición derogatoria única de la Ley 40/2015",
+        "Fue derogado por la Ley 27/2013, de racionalización y sostenibilidad de la Administración Local",
+        "Solo ha sido derogado en su apartado segundo, manteniéndose vigente el resto"
+      ],
+      "correct": 1,
+      "exp": "El texto consolidado del art. 87 LBRL indica que está derogado, con efectos de 2 de octubre de 2016, por la disposición derogatoria única.a) de la Ley 40/2015, de 1 de octubre; la materia de consorcios pasó a regirse por los arts. 118 a 127 LRJSP.",
+      "fuente": "Art. 87 LBRL",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 87 LBRL comprobado en _lbrl.txt: figura como (Derogado), con nota 'Se deroga, con efectos de 2 de octubre de 2016, por la disposición derogatoria única.a) de la Ley 40/2015, de 1 de octubre'; opción 1 correcta, descarta las otras tres."
+    },
+    {
+      "q": "Según el art. 118.1 LRJSP, ¿qué naturaleza jurídica tienen los consorcios?",
+      "options": [
+        "Son entidades de derecho público, con personalidad jurídica propia y diferenciada",
+        "Son órganos administrativos sin personalidad jurídica, dependientes jerárquicamente de la Administración de adscripción",
+        "Son entidades de derecho privado carentes de personalidad jurídica propia",
+        "Son entidades de derecho público integradas orgánicamente en la Administración matriz, sin personalidad diferenciada"
+      ],
+      "correct": 0,
+      "exp": "El art. 118.1 LRJSP define a los consorcios como entidades de derecho público, con personalidad jurídica propia y diferenciada.",
+      "fuente": "Art. 118.1 LRJSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 118.1 LRJSP confirmado literal: consorcios son entidades de derecho público con personalidad jurídica propia y diferenciada; opción 0 correcta."
+    },
+    {
+      "q": "Conforme al art. 118.1 LRJSP, ¿quiénes pueden crear un consorcio?",
+      "options": [
+        "Únicamente dos o más municipios limítrofes entre sí",
+        "Varias Administraciones Públicas o entidades integrantes del sector público institucional, entre sí o con participación de entidades privadas",
+        "Exclusivamente la Administración General del Estado y las comunidades autónomas",
+        "Cualquier persona física o jurídica privada, sin necesidad de participación de una Administración Pública"
+      ],
+      "correct": 1,
+      "exp": "El art. 118.1 LRJSP indica que los consorcios son creados por varias Administraciones Públicas o entidades integrantes del sector público institucional, entre sí o con participación de entidades privadas.",
+      "fuente": "Art. 118.1 LRJSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 118.1 LRJSP confirmado literal: creados por varias Administraciones Públicas o entidades del sector público institucional, entre sí o con entidades privadas; opción 1 correcta."
+    },
+    {
+      "q": "Según el art. 118.2 LRJSP, ¿qué tipo de actividades pueden realizar los consorcios?",
+      "options": [
+        "Únicamente actividades de fomento",
+        "Exclusivamente actividades de inspección y sanción",
+        "Actividades de fomento, prestacionales o de gestión común de servicios públicos y cuantas otras estén previstas en las leyes",
+        "Solo actividades de gestión tributaria delegada por los municipios"
+      ],
+      "correct": 2,
+      "exp": "El art. 118.2 LRJSP permite a los consorcios realizar actividades de fomento, prestacionales o de gestión común de servicios públicos y cuantas otras estén previstas en las leyes.",
+      "fuente": "Art. 118.2 LRJSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 118.2 LRJSP confirmado literal: actividades de fomento, prestacionales o de gestión común de servicios públicos y cuantas otras prevean las leyes; opción 2 correcta."
+    },
+    {
+      "q": "¿Qué exige el art. 118.4 LRJSP respecto a la denominación de los consorcios?",
+      "options": [
+        "Que figure necesariamente la indicación «consorcio» o su abreviatura «C»",
+        "Que figure la indicación «entidad pública empresarial» o «E.P.E.»",
+        "Que no exista ninguna exigencia legal sobre su denominación",
+        "Que figure obligatoriamente el nombre de todas las entidades consorciadas"
+      ],
+      "correct": 0,
+      "exp": "El art. 118.4 LRJSP exige que en la denominación de los consorcios figure necesariamente la indicación «consorcio» o su abreviatura «C».",
+      "fuente": "Art. 118.4 LRJSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 118.4 LRJSP confirmado literal: la denominación debe incluir necesariamente 'consorcio' o su abreviatura 'C'; opción 0 correcta."
+    },
+    {
+      "q": "Según el art. 119.1 LRJSP, ¿por qué normas se rigen los consorcios en primer término?",
+      "options": [
+        "Exclusivamente por el Código Civil",
+        "Por lo establecido en la Ley 40/2015, en la normativa autonómica de desarrollo y en sus estatutos",
+        "Únicamente por sus propios estatutos, sin sujeción a ninguna ley",
+        "Por el Real Decreto Legislativo 1/2010, de 2 de julio, con carácter preferente sobre cualquier otra norma"
+      ],
+      "correct": 1,
+      "exp": "El art. 119.1 LRJSP establece que los consorcios se regirán por lo establecido en esta Ley, en la normativa autonómica de desarrollo y en sus estatutos.",
+      "fuente": "Art. 119.1 LRJSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 119.1 LRJSP confirmado literal: se rigen por la Ley 40/2015, la normativa autonómica de desarrollo y sus estatutos; opción 1 correcta."
+    },
+    {
+      "q": "En lo no previsto sobre el derecho de separación, disolución, liquidación y extinción, ¿a qué normativa se remite el art. 119.2 LRJSP con carácter supletorio (salvo en materia de liquidación)?",
+      "options": [
+        "Al Código Civil, en su regulación de la sociedad civil",
+        "Al Código de Comercio, en su regulación de las sociedades mercantiles",
+        "A la Ley de Contratos del Sector Público",
+        "Al Código Civil, en su regulación de la comunidad de bienes"
+      ],
+      "correct": 0,
+      "exp": "El art. 119.2 LRJSP remite, en lo no previsto sobre separación, disolución, liquidación y extinción, al Código Civil sobre la sociedad civil, salvo el régimen de liquidación, que se somete al art. 97 LRJSP y, en su defecto, al RDLeg 1/2010.",
+      "fuente": "Art. 119.2 LRJSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 119.2 LRJSP confirmado literal: en lo no previsto sobre separación/disolución/liquidación/extinción se remite al Código Civil sobre la sociedad civil, salvo liquidación (art. 97 y RDLeg 1/2010); opción 0 correcta."
+    },
+    {
+      "q": "Según el art. 119.3 LRJSP, ¿qué carácter tienen las normas de la LBRL y de la Ley 27/2013 sobre los consorcios locales respecto a lo dispuesto en la Ley 40/2015?",
+      "options": [
+        "Carácter preferente, prevaleciendo sobre la Ley 40/2015",
+        "Carácter supletorio",
+        "Quedan derogadas y sin efecto",
+        "Se aplican solo a los consorcios de ámbito autonómico"
+      ],
+      "correct": 1,
+      "exp": "El art. 119.3 LRJSP establece que las normas de la Ley 7/1985 y de la Ley 27/2013 sobre los consorcios locales tendrán carácter supletorio respecto a lo dispuesto en la Ley 40/2015.",
+      "fuente": "Art. 119.3 LRJSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 119.3 LRJSP confirmado literal: las normas de la Ley 7/1985 y de la Ley 27/2013 sobre consorcios locales tienen carácter supletorio respecto a la Ley 40/2015; opción 1 correcta."
+    },
+    {
+      "q": "Según el art. 120.2 LRJSP, ¿cuál es el primer criterio, por orden de prioridad, para determinar la Administración de adscripción de un consorcio?",
+      "options": [
+        "Ostentar el mayor porcentaje de participación en el fondo patrimonial",
+        "Tener mayor número de habitantes o extensión territorial",
+        "Disponer de la mayoría de votos en los órganos de gobierno",
+        "Financiar en más de un cincuenta por ciento la actividad del consorcio"
+      ],
+      "correct": 2,
+      "exp": "El art. 120.2.a) LRJSP sitúa en primer lugar, por orden de prioridad, el criterio de disponer de la mayoría de votos en los órganos de gobierno.",
+      "fuente": "Art. 120.2.a) LRJSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 120.2.a) LRJSP confirmado literal: primer criterio de la lista ordenada es disponer de la mayoría de votos en los órganos de gobierno; opción 2 correcta."
+    },
+    {
+      "q": "Según el art. 120.2.h) LRJSP, cuando no resulten determinantes los criterios anteriores, ¿qué criterio se aplica en último lugar para la adscripción de un consorcio?",
+      "options": [
+        "Ser designada por sorteo entre las administraciones consorciadas",
+        "Ser la Administración de mayor antigüedad en el consorcio",
+        "Tener mayor número de habitantes o extensión territorial, según los fines del consorcio se orienten a la prestación de servicios a las personas o al desarrollo de actuaciones sobre el territorio",
+        "Ser la Administración que primero solicitó la adscripción"
+      ],
+      "correct": 2,
+      "exp": "El art. 120.2.h) LRJSP fija como último criterio de prioridad tener mayor número de habitantes o extensión territorial, dependiendo de si los fines definidos en el estatuto se orientan a la prestación de servicios a las personas o al desarrollo de actuaciones sobre el territorio.",
+      "fuente": "Art. 120.2.h) LRJSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 120.2.h) LRJSP confirmado literal: último criterio es mayor número de habitantes o extensión territorial según la orientación de los fines del consorcio; opción 2 correcta."
+    },
+    {
+      "q": "Según el art. 120.3 LRJSP, cuando participen entidades privadas en un consorcio, ¿qué condición debe cumplir este?",
+      "options": [
+        "El consorcio se regirá íntegramente por el derecho privado",
+        "El consorcio no tendrá ánimo de lucro",
+        "El consorcio quedará excluido del sector público institucional",
+        "Las entidades privadas ostentarán siempre la mayoría de votos en el órgano de gobierno"
+      ],
+      "correct": 1,
+      "exp": "El art. 120.3 LRJSP dispone que, si participan entidades privadas en el consorcio, este no tendrá ánimo de lucro y estará adscrito a la Administración que resulte según los criterios del apartado anterior.",
+      "fuente": "Art. 120.3 LRJSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 120.3 LRJSP confirmado literal: si participan entidades privadas, el consorcio no tendrá ánimo de lucro; opción 1 correcta."
+    },
+    {
+      "q": "Según el art. 120.4 LRJSP, ¿en qué plazo debe modificarse los estatutos de un consorcio tras producirse un cambio de adscripción a otra Administración Pública?",
+      "options": [
+        "En un plazo no superior a un mes",
+        "En un plazo no superior a seis meses, contados desde el inicio del ejercicio presupuestario siguiente a aquel en que se produjo el cambio",
+        "En un plazo no superior a un año natural completo",
+        "No existe plazo legal, pudiendo realizarse en cualquier momento"
+      ],
+      "correct": 1,
+      "exp": "El art. 120.4 LRJSP establece que cualquier cambio de adscripción conllevará la modificación de los estatutos en un plazo no superior a seis meses, contados desde el inicio del ejercicio presupuestario siguiente a aquel en que se produjo el cambio.",
+      "fuente": "Art. 120.4 LRJSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 120.4 LRJSP confirmado literal: cambio de adscripción obliga a modificar estatutos en plazo no superior a seis meses desde el inicio del ejercicio presupuestario siguiente; opción 1 correcta."
+    },
+    {
+      "q": "Según el art. 121 LRJSP, ¿qué característica tiene el personal al servicio de los consorcios?",
+      "options": [
+        "Será siempre personal laboral contratado directamente por el consorcio",
+        "Será siempre personal eventual de confianza designado por el máximo órgano de gobierno",
+        "Podrá ser funcionario o laboral y habrá de proceder de las Administraciones participantes",
+        "Habrá de proceder necesariamente de la Administración General del Estado"
+      ],
+      "correct": 2,
+      "exp": "El art. 121 LRJSP establece que el personal al servicio de los consorcios podrá ser funcionario o laboral y habrá de proceder de las Administraciones participantes.",
+      "fuente": "Art. 121 LRJSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 121 LRJSP (párrafo 1º) confirmado literal: personal funcionario o laboral procedente de las Administraciones participantes; opción 2 correcta."
+    },
+    {
+      "q": "Según el art. 121 LRJSP, ¿qué límite se establece para las retribuciones del personal de los consorcios procedente de las Administraciones participantes?",
+      "options": [
+        "Se fijarán libremente por el consorcio, sin límite alguno",
+        "Se equipararán siempre a las del personal de la Administración General del Estado",
+        "En ningún caso podrán superar las establecidas para puestos de trabajo equivalentes en la Administración Pública de adscripción",
+        "Se fijarán exclusivamente por convenio colectivo sectorial, sin relación con la Administración de adscripción"
+      ],
+      "correct": 2,
+      "exp": "El art. 121 LRJSP dispone que las retribuciones del personal procedente de las Administraciones participantes en ningún caso podrán superar las establecidas para puestos de trabajo equivalentes en la Administración Pública de adscripción.",
+      "fuente": "Art. 121 LRJSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 121 LRJSP (párrafo 1º) confirmado literal: retribuciones no pueden superar las de puestos equivalentes en la Administración de adscripción; opción 2 correcta."
+    },
+    {
+      "q": "Según el art. 121 LRJSP, cuando excepcionalmente no sea posible contar con personal procedente de las Administraciones participantes, ¿quién puede autorizar la contratación de personal por parte del consorcio?",
+      "options": [
+        "El Tribunal de Cuentas",
+        "El máximo órgano de gobierno del consorcio, sin necesidad de autorización externa",
+        "El Ministerio de Hacienda y Función Pública, u órgano competente de la Administración a la que se adscriba el consorcio",
+        "La Intervención General de la Administración del Estado, exclusivamente"
+      ],
+      "correct": 2,
+      "exp": "El art. 121 LRJSP permite que, excepcionalmente, el Ministerio de Hacienda y Función Pública, u órgano competente de la Administración a la que se adscriba el consorcio, autorice la contratación de personal por parte del consorcio.",
+      "fuente": "Art. 121 LRJSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 121 LRJSP (párrafo 2º) confirmado literal: excepcionalmente autoriza el Ministerio de Hacienda y Función Pública u órgano competente de la Administración de adscripción; opción 2 correcta."
+    },
+    {
+      "q": "Según el art. 122.1 LRJSP, ¿a qué régimen de presupuestación, contabilidad y control están sujetos los consorcios?",
+      "options": [
+        "Al de la Administración Pública a la que estén adscritos, sin perjuicio de su sujeción a la Ley Orgánica 2/2012",
+        "A un régimen propio e independiente de cualquier Administración",
+        "Al régimen presupuestario del Estado, cualquiera que sea su Administración de adscripción",
+        "Al régimen previsto exclusivamente en la legislación de contratos del sector público"
+      ],
+      "correct": 0,
+      "exp": "El art. 122.1 LRJSP sujeta a los consorcios al régimen de presupuestación, contabilidad y control de la Administración Pública a la que estén adscritos, sin perjuicio de su sujeción a la Ley Orgánica 2/2012, de 27 de abril.",
+      "fuente": "Art. 122.1 LRJSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 122.1 LRJSP confirmado literal: régimen de presupuestación, contabilidad y control de la Administración de adscripción, sin perjuicio de la LO 2/2012; opción 0 correcta."
+    },
+    {
+      "q": "Según el art. 122.3.a) LRJSP, entre las circunstancias que determinan la obligación de auditar las cuentas anuales de un consorcio, ¿a partir de qué importe se considera relevante el total de las partidas del activo?",
+      "options": [
+        "Que supere 500.000 euros",
+        "Que supere 1.000.000 de euros",
+        "Que supere 2.400.000 euros",
+        "Que supere 6.000.000 de euros"
+      ],
+      "correct": 2,
+      "exp": "El art. 122.3.a) LRJSP fija como una de las circunstancias que el total de las partidas del activo supere 2.400.000 euros.",
+      "fuente": "Art. 122.3.a) LRJSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 122.3.a) LRJSP confirmado literal: total de partidas del activo superior a 2.400.000 euros; opción 2 correcta."
+    },
+    {
+      "q": "Según el art. 122.3.c) LRJSP, ¿a partir de qué número medio de trabajadores empleados durante el ejercicio se considera relevante esta circunstancia a efectos de la auditoría de cuentas de un consorcio?",
+      "options": [
+        "Superior a 10",
+        "Superior a 50",
+        "Superior a 100",
+        "Superior a 250"
+      ],
+      "correct": 1,
+      "exp": "El art. 122.3.c) LRJSP fija como circunstancia que el número medio de trabajadores empleados durante el ejercicio sea superior a 50.",
+      "fuente": "Art. 122.3.c) LRJSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 122.3.c) LRJSP confirmado literal: número medio de trabajadores superior a 50; opción 1 correcta."
+    },
+    {
+      "q": "¿Cuántas de las tres circunstancias señaladas en el art. 122.3 LRJSP deben concurrir, al menos, para que el órgano de control interno esté obligado a auditar las cuentas anuales de un consorcio?",
+      "options": [
+        "Una",
+        "Dos",
+        "Tres",
+        "Ninguna; la auditoría es siempre voluntaria"
+      ],
+      "correct": 1,
+      "exp": "El art. 122.3 LRJSP exige que concurran, al menos, dos de las tres circunstancias señaladas (activo, ingresos y número de trabajadores) para que el órgano de control interno deba realizar la auditoría de cuentas anuales.",
+      "fuente": "Art. 122.3 LRJSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 122.3 LRJSP confirmado literal: se exige que concurran al menos dos de las tres circunstancias; opción 1 correcta."
+    },
+    {
+      "q": "Según el art. 123.1 LRJSP, ¿cómo se crean los consorcios?",
+      "options": [
+        "Mediante convenio suscrito por las Administraciones, organismos públicos o entidades participantes",
+        "Mediante real decreto del Consejo de Ministros, en todo caso",
+        "Mediante ley orgánica",
+        "Mediante acuerdo verbal ratificado posteriormente por escrito"
+      ],
+      "correct": 0,
+      "exp": "El art. 123.1 LRJSP dispone que los consorcios se crearán mediante convenio suscrito por las Administraciones, organismos públicos o entidades participantes.",
+      "fuente": "Art. 123.1 LRJSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 123.1 LRJSP confirmado literal: los consorcios se crean mediante convenio suscrito por las Administraciones, organismos públicos o entidades participantes; opción 0 correcta."
+    },
+    {
+      "q": "Cuando en un consorcio participe la Administración General del Estado o sus organismos vinculados, ¿qué exige el art. 123.2.a) LRJSP en relación con su creación?",
+      "options": [
+        "Que se autorice mediante orden ministerial conjunta",
+        "Que su creación se autorice por ley",
+        "Que no se requiera ninguna autorización adicional",
+        "Que su creación se autorice por real decreto del Ministerio de Hacienda"
+      ],
+      "correct": 1,
+      "exp": "El art. 123.2.a) LRJSP exige, cuando participe la Administración General del Estado o sus organismos vinculados, que la creación del consorcio se autorice por ley.",
+      "fuente": "Art. 123.2.a) LRJSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 123.2.a) LRJSP confirmado literal: con participación de la AGE u organismos vinculados, la creación se autoriza por ley; opción 1 correcta."
+    },
+    {
+      "q": "Según el art. 123.2.c) LRJSP, ¿dónde deben publicarse el convenio de creación de un consorcio con participación de la AGE, sus estatutos y sus modificaciones?",
+      "options": [
+        "En el Boletín Oficial del Registro Mercantil",
+        "Únicamente en el boletín oficial de la comunidad autónoma correspondiente",
+        "No requieren publicación oficial",
+        "En el «Boletín Oficial del Estado»"
+      ],
+      "correct": 3,
+      "exp": "El art. 123.2.c) LRJSP establece que el convenio suscrito junto con los estatutos, así como sus modificaciones, serán objeto de publicación en el «Boletín Oficial del Estado».",
+      "fuente": "Art. 123.2.c) LRJSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 123.2.c) LRJSP confirmado literal: el convenio con los estatutos y sus modificaciones se publican en el BOE; opción 3 correcta."
+    },
+    {
+      "q": "Según el art. 124.a) LRJSP, ¿qué aspecto deben determinar, como mínimo, los estatutos de un consorcio?",
+      "options": [
+        "La sede, objeto, fines y funciones",
+        "El régimen retributivo del personal de la Administración de adscripción",
+        "El procedimiento electoral de los municipios consorciados",
+        "El tipo de interés legal del dinero aplicable a sus operaciones"
+      ],
+      "correct": 0,
+      "exp": "El art. 124.a) LRJSP exige que los estatutos determinen, como mínimo, la sede, objeto, fines y funciones del consorcio.",
+      "fuente": "Art. 124.a) LRJSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 124.a) LRJSP confirmado literal: los estatutos determinan como mínimo sede, objeto, fines y funciones; opción 0 correcta."
+    },
+    {
+      "q": "Según el art. 124.b) LRJSP, ¿qué deben identificar los estatutos de un consorcio, además de las aportaciones de sus miembros?",
+      "options": [
+        "El listado de contratistas adjudicatarios previstos",
+        "La relación de puestos de trabajo de la Administración de adscripción",
+        "Los participantes en el consorcio",
+        "El régimen fiscal de las subvenciones que reciba"
+      ],
+      "correct": 2,
+      "exp": "El art. 124.b) LRJSP exige que los estatutos identifiquen a los participantes en el consorcio, así como las aportaciones de sus miembros.",
+      "fuente": "Art. 124.b) LRJSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 124.b) LRJSP confirmado literal: identificación de participantes en el consorcio, además de sus aportaciones; opción 2 correcta."
+    },
+    {
+      "q": "¿Qué aspecto, entre los mínimos exigidos por el art. 124 LRJSP, debe recoger la letra d) de dicho artículo?",
+      "options": [
+        "El calendario laboral del personal del consorcio",
+        "Las causas de disolución",
+        "La denominación social de las entidades privadas participantes",
+        "El régimen fiscal de las subvenciones estatales"
+      ],
+      "correct": 1,
+      "exp": "El art. 124.d) LRJSP exige que los estatutos recojan las causas de disolución del consorcio.",
+      "fuente": "Art. 124.d) LRJSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 124.d) LRJSP confirmado literal: la letra d) recoge las causas de disolución; opción 1 correcta."
+    },
+    {
+      "q": "Según el art. 125.1 LRJSP, ¿en qué momento pueden separarse los miembros de un consorcio si no se ha señalado término para su duración?",
+      "options": [
+        "Solo transcurridos cinco años desde su constitución",
+        "En cualquier momento",
+        "Únicamente con el consentimiento unánime de todos los demás miembros",
+        "Nunca; la separación no está permitida en los consorcios"
+      ],
+      "correct": 1,
+      "exp": "El art. 125.1 LRJSP dispone que los miembros de un consorcio podrán separarse del mismo en cualquier momento siempre que no se haya señalado término para la duración del consorcio.",
+      "fuente": "Art. 125.1 LRJSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 125.1 LRJSP (párrafo 1º) confirmado literal: sin término de duración, la separación cabe en cualquier momento; opción 1 correcta."
+    },
+    {
+      "q": "Según el art. 125.1 LRJSP, cuando el consorcio tenga una duración determinada, ¿en qué supuesto puede un miembro separarse antes de que finalice el plazo?",
+      "options": [
+        "Si algún miembro del consorcio hubiera incumplido alguna de sus obligaciones estatutarias, como la de realizar aportaciones al fondo patrimonial",
+        "En ningún caso, hasta que finalice el plazo",
+        "Libremente, sin necesidad de causa alguna",
+        "Solo si lo autoriza expresamente el Ministerio de Hacienda y Función Pública"
+      ],
+      "correct": 0,
+      "exp": "El art. 125.1 LRJSP permite separarse antes de la finalización del plazo, cuando el consorcio tenga duración determinada, si alguno de los miembros hubiera incumplido sus obligaciones estatutarias, en particular la de realizar aportaciones al fondo patrimonial.",
+      "fuente": "Art. 125.1 LRJSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 125.1 LRJSP (párrafo 2º) confirmado literal: con duración determinada, cabe separarse antes del plazo si otro miembro incumplió obligaciones estatutarias (p.ej. aportaciones al fondo patrimonial); opción 0 correcta."
+    },
+    {
+      "q": "Según el art. 125.2 LRJSP, ¿cómo debe ejercitarse el derecho de separación de un consorcio?",
+      "options": [
+        "De forma verbal ante cualquier órgano del consorcio",
+        "Mediante publicación en el «Boletín Oficial del Estado»",
+        "Mediante acuerdo del Pleno de la Administración de adscripción, sin necesidad de notificación al consorcio",
+        "Mediante escrito notificado al máximo órgano de gobierno del consorcio"
+      ],
+      "correct": 3,
+      "exp": "El art. 125.2 LRJSP exige que el derecho de separación se ejercite mediante escrito notificado al máximo órgano de gobierno del consorcio.",
+      "fuente": "Art. 125.2 LRJSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 125.2 LRJSP confirmado literal: el derecho de separación se ejercita mediante escrito notificado al máximo órgano de gobierno del consorcio; opción 3 correcta."
+    },
+    {
+      "q": "Según el art. 126.1 LRJSP, ¿qué efecto produce, con carácter general, el ejercicio del derecho de separación de un consorcio?",
+      "options": [
+        "Ningún efecto sobre la existencia del consorcio",
+        "La fusión automática con otro consorcio de fines similares",
+        "La disolución del consorcio, salvo que el resto de sus miembros acuerden su continuidad y permanezcan, al menos, dos Administraciones o entidades vinculadas a más de una Administración",
+        "La disolución inmediata, sin posibilidad de excepción"
+      ],
+      "correct": 2,
+      "exp": "El art. 126.1 LRJSP dispone que el ejercicio del derecho de separación produce la disolución del consorcio, salvo que el resto de sus miembros acuerden su continuidad y permanezcan, al menos, dos Administraciones o entidades vinculadas a más de una Administración.",
+      "fuente": "Art. 126.1 LRJSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 126.1 LRJSP confirmado literal: la separación produce la disolución salvo que el resto de miembros acuerde su continuidad y permanezcan al menos dos Administraciones o entidades vinculadas a más de una; opción 2 correcta."
+    },
+    {
+      "q": "Cuando el ejercicio del derecho de separación no conlleve la disolución del consorcio, según el art. 126.2.a) LRJSP, ¿cómo se calcula la cuota de separación de quien se separa, a falta de previsión estatutaria específica?",
+      "options": [
+        "A partes iguales entre todos los miembros, sin considerar sus aportaciones",
+        "De acuerdo con la participación que le hubiera correspondido en el saldo resultante del patrimonio neto, de haber tenido lugar la liquidación",
+        "En la cuantía inicialmente aportada, sin actualización alguna",
+        "La determina unilateralmente el miembro que se separa"
+      ],
+      "correct": 1,
+      "exp": "El art. 126.2.a) LRJSP calcula la cuota de separación de acuerdo con la participación que le hubiera correspondido en el saldo resultante del patrimonio neto, de haber tenido lugar la liquidación, según el criterio de reparto de los estatutos.",
+      "fuente": "Art. 126.2.a) LRJSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 126.2.a) LRJSP confirmado literal: la cuota de separación se calcula según la participación que hubiera correspondido en el saldo del patrimonio neto de haber tenido lugar la liquidación (regla que se mantiene a falta de previsión estatutaria específica); opción 1 correcta."
+    },
+    {
+      "q": "Según el art. 126.2.b) LRJSP, si el consorcio estaba adscrito a la Administración que ejerce el derecho de separación, ¿qué debe acordarse?",
+      "options": [
+        "Que el consorcio quede sin Administración de adscripción de forma indefinida",
+        "Que el consorcio pase automáticamente a adscribirse a la Administración General del Estado",
+        "Que el consorcio se disuelva obligatoriamente en todo caso",
+        "A qué Administración se adscribe el consorcio entre las restantes que permanecen, aplicando los criterios legales de adscripción"
+      ],
+      "correct": 3,
+      "exp": "El art. 126.2.b) LRJSP exige, si el consorcio estaba adscrito a la Administración que se separa, acordar a qué Administración se adscribe de entre las restantes que permanecen en el consorcio, aplicando los criterios establecidos en la Ley.",
+      "fuente": "Art. 126.2.b) LRJSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 126.2.b) LRJSP confirmado literal: si el consorcio estaba adscrito a quien se separa, debe acordarse a qué Administración de las restantes se adscribe, aplicando los criterios legales; opción 3 correcta."
+    },
+    {
+      "q": "Según el art. 127.1 LRJSP, ¿qué produce la disolución de un consorcio?",
+      "options": [
+        "Únicamente la suspensión temporal de su actividad",
+        "Su liquidación y extinción",
+        "Su transformación automática en mancomunidad",
+        "La cesión automática de todo su patrimonio al Estado"
+      ],
+      "correct": 1,
+      "exp": "El art. 127.1 LRJSP dispone que la disolución del consorcio produce su liquidación y extinción.",
+      "fuente": "Art. 127.1 LRJSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 127.1 LRJSP confirmado literal: la disolución produce liquidación y extinción; opción 1 correcta."
+    },
+    {
+      "q": "Según el art. 127.1 LRJSP, ¿cuál es, en todo caso, una causa de disolución de un consorcio?",
+      "options": [
+        "El cambio de alcalde en el municipio de mayor aportación",
+        "El cambio de sede social del consorcio",
+        "Que los fines para los que fue creado el consorcio hayan sido cumplidos",
+        "La modificación de los estatutos, sea cual sea su alcance"
+      ],
+      "correct": 2,
+      "exp": "El art. 127.1 LRJSP establece que, en todo caso, será causa de disolución que los fines para los que fue creado el consorcio hayan sido cumplidos.",
+      "fuente": "Art. 127.1 LRJSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 127.1 LRJSP confirmado literal: en todo caso es causa de disolución que se hayan cumplido los fines del consorcio; opción 2 correcta."
+    },
+    {
+      "q": "Según el art. 127.2 LRJSP, ¿quién nombra al liquidador del consorcio al adoptarse el acuerdo de disolución?",
+      "options": [
+        "El Tribunal de Cuentas",
+        "El máximo órgano de gobierno del consorcio",
+        "El Ministerio de Hacienda y Función Pública, en todo caso",
+        "Cada uno de los miembros del consorcio, de forma individual"
+      ],
+      "correct": 1,
+      "exp": "El art. 127.2 LRJSP establece que el máximo órgano de gobierno del consorcio, al adoptar el acuerdo de disolución, nombrará un liquidador que será un órgano o entidad vinculada o dependiente de la Administración Pública a la que el consorcio esté adscrito.",
+      "fuente": "Art. 127.2 LRJSP",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 127.2 LRJSP confirmado literal: el máximo órgano de gobierno, al acordar la disolución, nombra un liquidador; opción 1 correcta."
+    }
+  ]
+}
