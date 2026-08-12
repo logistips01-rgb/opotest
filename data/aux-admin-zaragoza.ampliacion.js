@@ -31202,3 +31202,528 @@ window.addQuestions('aux-admin-zaragoza', 8, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 8 · lote 2026-08-12 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 8, [
+  {
+    "q": "Según el art. 126.1 LPAC, cuando el órgano competente acuerda la inadmisión a trámite del recurso extraordinario de revisión sin recabar dictamen del Consejo de Estado, dicho acuerdo debe ser, en todo caso:",
+    "options": [
+      "Motivado",
+      "Ratificado por el Pleno de la Corporación",
+      "Publicado en el BOE",
+      "Sometido a votación secreta"
+    ],
+    "correct": 0,
+    "exp": "El art. 126.1 exige que el órgano competente acuerde 'motivadamente' la inadmisión a trámite del recurso extraordinario de revisión en los supuestos que le eximen de recabar dictamen.",
+    "fuente": "Art. 126.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El error que fundamenta la causa a) del art. 125.1 LPAC para el recurso extraordinario de revisión debe ser un error:",
+    "options": [
+      "De derecho exclusivamente",
+      "De hecho, no de derecho",
+      "De competencia",
+      "De forma en la notificación"
+    ],
+    "correct": 1,
+    "exp": "El art. 125.1.a) habla de 'error de hecho, que resulte de los propios documentos incorporados al expediente', a diferencia del error de derecho, que no da lugar a esta causa.",
+    "fuente": "Art. 125.1.a) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 125.1.a) LPAC, el error de hecho que fundamenta el recurso extraordinario de revisión debe resultar de:",
+    "options": [
+      "Una denuncia posterior de un tercero",
+      "Un informe pericial no incorporado al expediente",
+      "Los propios documentos incorporados al expediente",
+      "La apreciación subjetiva del interesado"
+    ],
+    "correct": 2,
+    "exp": "Art. 125.1.a): 'Que al dictarlos se hubiera incurrido en error de hecho, que resulte de los propios documentos incorporados al expediente.'",
+    "fuente": "Art. 125.1.a) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 125.1.b) LPAC, es causa del recurso extraordinario de revisión que aparezcan documentos de valor esencial para la resolución del asunto que:",
+    "options": [
+      "Hubieran sido conocidos y no alegados por el interesado en su momento",
+      "Estén certificados notarialmente",
+      "Procedan de un país extranjero",
+      "Aunque sean posteriores, evidencien el error de la resolución recurrida"
+    ],
+    "correct": 3,
+    "exp": "Art. 125.1.b): 'Que aparezcan documentos de valor esencial para la resolución del asunto que, aunque sean posteriores, evidencien el error de la resolución recurrida.'",
+    "fuente": "Art. 125.1.b) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 125.1.c) LPAC, para que proceda el recurso extraordinario de revisión por esta causa, los documentos o testimonios que influyeron esencialmente en la resolución deben haber sido declarados falsos por:",
+    "options": [
+      "Sentencia judicial firme, anterior o posterior a la resolución impugnada",
+      "Resolución administrativa firme del mismo órgano",
+      "Informe pericial contradictorio",
+      "Denuncia con admisión a trámite en vía penal"
+    ],
+    "correct": 0,
+    "exp": "Art. 125.1.c): 'Que en la resolución hayan influido esencialmente documentos o testimonios declarados falsos por sentencia judicial firme, anterior o posterior a aquella resolución.'",
+    "fuente": "Art. 125.1.c) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 125.1.d) LPAC, procede el recurso extraordinario de revisión cuando la resolución se hubiese dictado como consecuencia de prevaricación, cohecho, violencia, maquinación fraudulenta u otra conducta punible, siempre que:",
+    "options": [
+      "Lo haya denunciado el propio interesado ante el Defensor del Pueblo",
+      "Se haya declarado así en virtud de sentencia judicial firme",
+      "Conste en el expediente un informe del secretario municipal",
+      "Lo acuerde el Pleno de la Corporación por mayoría simple"
+    ],
+    "correct": 1,
+    "exp": "Art. 125.1.d): '...y se haya declarado así en virtud de sentencia judicial firme.'",
+    "fuente": "Art. 125.1.d) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 125.2 LPAC, cuando el recurso extraordinario de revisión se funde en la causa del error de hecho [letra a)], el plazo de interposición es de:",
+    "options": [
+      "Un año desde que se dictó el acto",
+      "Seis meses desde que se advirtió el error",
+      "Cuatro años desde la notificación de la resolución impugnada",
+      "Tres meses desde la firmeza del acto"
+    ],
+    "correct": 2,
+    "exp": "Art. 125.2: 'cuando se trate de la causa a) del apartado anterior, dentro del plazo de cuatro años siguientes a la fecha de la notificación de la resolución impugnada.'",
+    "fuente": "Art. 125.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 125.2 LPAC, en los demás casos (documentos esenciales sobrevenidos, falsedad o delito declarados judicialmente), el plazo para interponer el recurso extraordinario de revisión es de tres meses, contados desde:",
+    "options": [
+      "La notificación original de la resolución impugnada, en todo caso",
+      "La publicación del acto en el diario oficial correspondiente",
+      "La solicitud de copia del expediente por el interesado",
+      "El conocimiento de los documentos o desde que la sentencia judicial quedó firme"
+    ],
+    "correct": 3,
+    "exp": "Art. 125.2: 'En los demás casos, el plazo será de tres meses a contar desde el conocimiento de los documentos o desde que la sentencia judicial quedó firme.'",
+    "fuente": "Art. 125.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 125.3 LPAC, la regulación del recurso extraordinario de revisión no perjudica el derecho de los interesados a:",
+    "options": [
+      "Formular la solicitud y la instancia a que se refieren los artículos 106 y 109.2 de la Ley, y a que se sustancien y resuelvan",
+      "Interponer recurso de casación ante el Tribunal Supremo",
+      "Exigir una indemnización automática por daños morales",
+      "Solicitar la suspensión cautelar de cualquier acto administrativo"
+    ],
+    "correct": 0,
+    "exp": "Art. 125.3: 'no perjudica el derecho de los interesados a formular la solicitud y la instancia a que se refieren los artículos 106 y 109.2 de la presente Ley ni su derecho a que las mismas se sustancien y resuelvan.'",
+    "fuente": "Art. 125.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes NO figura entre las causas tasadas del art. 125.1 LPAC para el recurso extraordinario de revisión?",
+    "options": [
+      "Error de hecho que resulte de los propios documentos del expediente",
+      "Que el interesado no esté conforme con el fondo de la resolución",
+      "Aparición de documentos esenciales sobrevenidos que evidencien el error",
+      "Que la resolución se dictara como consecuencia de prevaricación declarada por sentencia firme"
+    ],
+    "correct": 1,
+    "exp": "El art. 125.1 solo recoge cuatro causas tasadas (error de hecho, documentos esenciales sobrevenidos, falsedad declarada judicialmente y delito declarado judicialmente); la mera disconformidad con el fondo no es causa de este recurso.",
+    "fuente": "Art. 125.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 126.1 LPAC, el órgano competente puede acordar motivadamente la inadmisión a trámite del recurso extraordinario de revisión, sin necesidad de recabar dictamen del Consejo de Estado, cuando:",
+    "options": [
+      "El recurrente sea una persona jurídica",
+      "Hayan transcurrido más de dos años desde el acto",
+      "El recurso no se funde en alguna de las causas del art. 125.1 o se hubiesen desestimado en cuanto al fondo otros recursos sustancialmente iguales",
+      "El expediente supere las cien páginas"
+    ],
+    "correct": 2,
+    "exp": "Art. 126.1: '...cuando el mismo no se funde en alguna de las causas previstas en el apartado 1 del artículo anterior o en el supuesto de que se hubiesen desestimado en cuanto al fondo otros recursos sustancialmente iguales.'",
+    "fuente": "Art. 126.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 126.1 LPAC, ¿ante qué órgano consultivo debe recabarse dictamen, con carácter general, antes de resolver el recurso extraordinario de revisión, salvo las excepciones previstas?",
+    "options": [
+      "El Consejo General del Poder Judicial",
+      "La Abogacía del Estado",
+      "El Tribunal de Cuentas",
+      "El Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma"
+    ],
+    "correct": 3,
+    "exp": "El art. 126.1 se refiere al 'dictamen del Consejo de Estado u órgano consultivo de la Comunidad Autónoma.'",
+    "fuente": "Art. 126.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 126.2 LPAC, el órgano al que corresponde conocer del recurso extraordinario de revisión debe pronunciarse:",
+    "options": [
+      "No solo sobre la procedencia del recurso, sino también, en su caso, sobre el fondo de la cuestión resuelta por el acto recurrido",
+      "Únicamente sobre la admisibilidad formal, sin entrar en el fondo",
+      "Solo sobre las costas del procedimiento",
+      "Exclusivamente sobre la caducidad de la acción"
+    ],
+    "correct": 0,
+    "exp": "Art. 126.2: 'debe pronunciarse no sólo sobre la procedencia del recurso, sino también, en su caso, sobre el fondo de la cuestión resuelta por el acto recurrido.'",
+    "fuente": "Art. 126.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 126.3 LPAC, si transcurren tres meses desde la interposición del recurso extraordinario de revisión sin haberse dictado y notificado resolución, se entenderá:",
+    "options": [
+      "Estimado por silencio positivo",
+      "Desestimado, quedando expedita la vía jurisdiccional contencioso-administrativa",
+      "Caducado el procedimiento, con archivo sin más trámite",
+      "Suspendido automáticamente hasta que el interesado lo reactive"
+    ],
+    "correct": 1,
+    "exp": "Art. 126.3: 'se entenderá desestimado, quedando expedita la vía jurisdiccional contencioso-administrativa.'",
+    "fuente": "Art. 126.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 126.3 LPAC, el plazo máximo desde la interposición del recurso extraordinario de revisión para que, de no dictarse y notificarse resolución expresa, se entienda desestimado por silencio, es de:",
+    "options": [
+      "Un mes",
+      "Seis meses",
+      "Tres meses",
+      "Cuatro años"
+    ],
+    "correct": 2,
+    "exp": "Art. 126.3: 'Transcurrido el plazo de tres meses desde la interposición del recurso extraordinario de revisión sin haberse dictado y notificado la resolución, se entenderá desestimado.'",
+    "fuente": "Art. 126.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 126.1 LPAC, además de que el recurso no se funde en las causas del art. 125.1, ¿qué otra circunstancia permite inadmitirlo a trámite sin recabar dictamen del Consejo de Estado?",
+    "options": [
+      "Que el recurrente no aporte copia del DNI",
+      "Que el acto recurrido sea de un ente local y no estatal",
+      "Que el recurso se presente por medios electrónicos",
+      "Que se hubiesen desestimado en cuanto al fondo otros recursos sustancialmente iguales"
+    ],
+    "correct": 3,
+    "exp": "Art. 126.1: '...o en el supuesto de que se hubiesen desestimado en cuanto al fondo otros recursos sustancialmente iguales.'",
+    "fuente": "Art. 126.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Además de la causa de error de hecho [letra a)], ¿cuántas causas más recoge el art. 125.1 LPAC para fundar el recurso extraordinario de revisión?",
+    "options": [
+      "Tres",
+      "Una",
+      "Cinco",
+      "Seis"
+    ],
+    "correct": 0,
+    "exp": "El art. 125.1 recoge cuatro causas en total (a, b, c y d); además del error de hecho, añade otras tres: documentos esenciales sobrevenidos, falsedad declarada judicialmente y delito declarado judicialmente.",
+    "fuente": "Art. 125.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 113 LPAC, contra los actos firmes en vía administrativa solo procederá el recurso extraordinario de revisión cuando concurra alguna de las circunstancias previstas en:",
+    "options": [
+      "El artículo 47.1",
+      "El artículo 125.1",
+      "El artículo 24.1",
+      "El artículo 112.1"
+    ],
+    "correct": 1,
+    "exp": "Art. 113: 'sólo procederá el recurso extraordinario de revisión cuando concurra alguna de las circunstancias previstas en el artículo 125.1.'",
+    "fuente": "Art. 113 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué plazo de interposición comparten el recurso de alzada y el recurso potestativo de reposición cuando el acto impugnado es expreso?",
+    "options": [
+      "Un mes en alzada y quince días en reposición",
+      "Dos meses en ambos casos",
+      "Un mes en ambos casos",
+      "Quince días en ambos casos"
+    ],
+    "correct": 2,
+    "exp": "Tanto el art. 122.1 (alzada) como el art. 124.1 (reposición) fijan en un mes el plazo de interposición cuando el acto es expreso.",
+    "fuente": "Art. 122.1 y Art. 124.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Frente al mes de alzada y reposición, ¿cuánto dura el plazo para interponer el recurso extraordinario de revisión cuando se funda en la causa de error de hecho?",
+    "options": [
+      "Seis meses",
+      "Dos años",
+      "Un año",
+      "Cuatro años"
+    ],
+    "correct": 3,
+    "exp": "Art. 125.2: el plazo para la causa a) es de cuatro años desde la notificación de la resolución impugnada, muy superior al mes de los otros dos recursos.",
+    "fuente": "Art. 125.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Comparando los plazos máximos de resolución, ¿qué tienen en común el recurso de alzada y el recurso extraordinario de revisión?",
+    "options": [
+      "Ambos deben resolverse en el plazo máximo de tres meses",
+      "Ambos deben resolverse en un mes",
+      "El de alzada dura tres meses y el de revisión, seis",
+      "Ninguno tiene plazo máximo de resolución"
+    ],
+    "correct": 0,
+    "exp": "El art. 122.2 fija en tres meses el plazo máximo de resolución de la alzada, y el art. 126.3 fija también en tres meses el del recurso extraordinario de revisión.",
+    "fuente": "Art. 122.2 y Art. 126.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 122.2 LPAC exceptúa el silencio desestimatorio del recurso de alzada remitiéndose al art. 24.1, tercer párrafo. ¿Contemplan una remisión equivalente los preceptos que fijan el plazo de resolución de la reposición (art. 124.2) o de la revisión (art. 126.3)?",
+    "options": [
+      "Sí, los tres preceptos remiten igual al art. 24.1",
+      "No, ninguno de los otros dos preceptos contempla esa excepción de silencio positivo",
+      "Sí, pero solo en el caso de la reposición",
+      "Sí, pero solo en el caso de la revisión"
+    ],
+    "correct": 1,
+    "exp": "Ni el art. 124.2 ni el art. 126.3 LPAC contienen una remisión equivalente a la excepción de silencio del art. 122.2; solo la alzada la prevé expresamente.",
+    "fuente": "Art. 122.2 LPAC, en relación con Art. 124.2 y 126.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Ante qué órgano se interpone el recurso de alzada, a diferencia del de reposición?",
+    "options": [
+      "Ante el mismo órgano que dictó el acto, exclusivamente",
+      "Ante el Consejo de Estado",
+      "Ante el órgano superior jerárquico del que dictó el acto",
+      "Ante un juzgado de lo contencioso-administrativo"
+    ],
+    "correct": 2,
+    "exp": "Art. 121.1: el recurso de alzada se interpone 'ante el órgano superior jerárquico del que dictó el acto', mientras que la reposición se dirige al mismo órgano que dictó el acto.",
+    "fuente": "Art. 121.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "A diferencia de la doble vía de interposición del recurso de alzada, ¿ante qué órgano se interpone siempre el recurso de reposición?",
+    "options": [
+      "Ante el superior jerárquico",
+      "Ante el órgano competente en materia de personal",
+      "Ante el Tribunal Superior de Justicia",
+      "Ante el mismo órgano que dictó el acto que se impugna"
+    ],
+    "correct": 3,
+    "exp": "Art. 123.1: el recurso de reposición se interpone 'ante el mismo órgano que los hubiera dictado', sin la alternativa de dirigirse a un superior jerárquico distinto.",
+    "fuente": "Art. 123.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Ante qué órgano se interpone el recurso extraordinario de revisión, según el art. 125.1 LPAC?",
+    "options": [
+      "Ante el propio órgano que dictó el acto firme, que también es competente para resolverlo",
+      "Ante el superior jerárquico, igual que en alzada",
+      "Ante el Consejo de Estado directamente",
+      "Ante el Defensor del Pueblo"
+    ],
+    "correct": 0,
+    "exp": "Art. 125.1: se interpone 'ante el órgano administrativo que los dictó, que también será el competente para su resolución', a diferencia del superior jerárquico de la alzada.",
+    "fuente": "Art. 125.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 123.1 LPAC califica expresamente de 'potestativo' al recurso de reposición. ¿Qué consecuencia práctica tiene esto frente al recurso de alzada, que no recibe esa calificación?",
+    "options": [
+      "Que el recurso de alzada tampoco es obligatorio nunca",
+      "Que el interesado puede optar entre interponer la reposición o acudir directamente a la vía contencioso-administrativa, mientras que la alzada debe agotarse cuando el acto no pone fin a la vía administrativa",
+      "Que ambos son igualmente potestativos",
+      "Que la reposición es obligatoria y la alzada potestativa"
+    ],
+    "correct": 1,
+    "exp": "Al ser potestativa, la reposición permite al interesado optar entre interponerla o acudir directamente a la vía contencioso-administrativa (art. 123.1); el art. 112.1 solo califica de 'potestativo' al recurso de reposición y no al de alzada, que por dirigirse contra actos que no ponen fin a la vía administrativa (art. 121.1) debe agotarse antes de poder acudir a los tribunales.",
+    "fuente": "Art. 123.1 LPAC, en relación con Art. 112.1 y Art. 121.1 LPAC",
+    "confianza": "alta",
+    "correccion": "Se amplía 'fuente' de 'Art. 123.1 LPAC' a 'Art. 123.1 LPAC, en relación con Art. 112.1 y Art. 121.1 LPAC', y se ajusta 'exp' para apoyar también la mitad de la respuesta referida a la alzada, que el art. 123.1 por sí solo no sustentaba."
+  },
+  {
+    "q": "El recurso extraordinario de revisión, a diferencia del carácter obligatorio o potestativo de alzada y reposición, se caracteriza por ser:",
+    "options": [
+      "Obligatorio siempre antes de acudir a los tribunales",
+      "Extraordinario y excepcional, solo procedente contra actos ya firmes en vía administrativa y por causas tasadas",
+      "El único que puede interponerse sin ningún plazo",
+      "El único de carácter colectivo"
+    ],
+    "correct": 1,
+    "exp": "Los arts. 113 y 125.1 configuran la revisión como un recurso extraordinario y excepcional, solo procedente contra actos ya firmes en vía administrativa y por causas tasadas, no como una alternativa ordinaria potestativa u obligatoria.",
+    "fuente": "Art. 113 LPAC, en relación con Art. 125.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 112.1 LPAC, ¿en qué pueden fundarse los recursos de alzada y de reposición?",
+    "options": [
+      "Únicamente en error de hecho",
+      "Solo en las causas tasadas del art. 125.1",
+      "Exclusivamente en vicios de forma",
+      "Cualquiera de los motivos de nulidad o anulabilidad previstos en los artículos 47 y 48 de la Ley"
+    ],
+    "correct": 3,
+    "exp": "Art. 112.1: los recursos de alzada y potestativo de reposición 'cabrá fundar en cualquiera de los motivos de nulidad o anulabilidad previstos en los artículos 47 y 48 de esta Ley.'",
+    "fuente": "Art. 112.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "A diferencia de la amplitud de motivos que permite el art. 112.1 LPAC para alzada y reposición, ¿en qué debe fundarse necesariamente el recurso extraordinario de revisión?",
+    "options": [
+      "Únicamente en alguna de las cuatro causas tasadas del art. 125.1",
+      "En cualquier motivo de nulidad o anulabilidad, igual que los otros dos",
+      "En la mera disconformidad del interesado con el acto",
+      "En un informe técnico favorable"
+    ],
+    "correct": 0,
+    "exp": "El art. 125.1 exige que el recurso extraordinario de revisión se funde únicamente en alguna de sus cuatro causas tasadas, y no en los motivos generales de nulidad o anulabilidad de los arts. 47 y 48.",
+    "fuente": "Art. 125.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué tienen en común las resoluciones de los recursos de alzada y de reposición en cuanto a la posibilidad de interponer un nuevo recurso administrativo ordinario contra ellas?",
+    "options": [
+      "Ambas admiten un segundo recurso de la misma clase",
+      "Ninguna de las dos admite un nuevo recurso administrativo ordinario, sin perjuicio del extraordinario de revisión cuando proceda",
+      "La de alzada admite reposición posterior",
+      "La de reposición admite alzada posterior"
+    ],
+    "correct": 1,
+    "exp": "El art. 122.3 dice que contra la resolución de alzada 'no cabrá ningún otro recurso administrativo, salvo el extraordinario de revisión'; el art. 124.3 dice que contra la de reposición 'no podrá interponerse de nuevo dicho recurso'; ninguna admite un recurso administrativo ordinario.",
+    "fuente": "Art. 122.3 y Art. 124.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Si la resolución del recurso extraordinario de revisión resulta desestimatoria por silencio, transcurridos los tres meses del art. 126.3 LPAC, ¿qué vía queda expedita?",
+    "options": [
+      "Un nuevo recurso de alzada",
+      "Un nuevo recurso extraordinario de revisión sobre el mismo acto",
+      "La vía jurisdiccional contencioso-administrativa",
+      "El recurso de reposición"
+    ],
+    "correct": 2,
+    "exp": "Art. 126.3: 'se entenderá desestimado, quedando expedita la vía jurisdiccional contencioso-administrativa.'",
+    "fuente": "Art. 126.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según los arts. 121.1 y 123.1 LPAC, ¿qué diferencia existe entre los actos recurribles en alzada y los recurribles en reposición?",
+    "options": [
+      "Ambas proceden exactamente contra los mismos actos",
+      "La reposición solo cabe contra actos de trámite",
+      "La alzada solo cabe contra actos firmes",
+      "La alzada procede contra actos que NO ponen fin a la vía administrativa; la reposición, contra actos que SÍ ponen fin a ella"
+    ],
+    "correct": 3,
+    "exp": "El art. 121.1 dice que cabe alzada contra actos que 'no pongan fin a la vía administrativa'; el art. 123.1 dice que cabe reposición contra 'los actos administrativos que pongan fin a la vía administrativa'.",
+    "fuente": "Art. 121.1 y Art. 123.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El recurso extraordinario de revisión exige, a diferencia de alzada y reposición, un requisito adicional sobre el acto impugnado: que sea",
+    "options": [
+      "Firme en vía administrativa",
+      "De trámite",
+      "Dictado por un órgano colegiado",
+      "Anterior a la entrada en vigor de la Ley 39/2015"
+    ],
+    "correct": 0,
+    "exp": "Los arts. 113 y 125.1 exigen que el acto impugnado en revisión sea firme en vía administrativa, requisito que no se exige para interponer alzada o reposición.",
+    "fuente": "Art. 125.1 LPAC, en relación con Art. 113 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Tanto en alzada como en reposición, si el acto no fuera expreso (silencio administrativo), el recurso puede interponerse:",
+    "options": [
+      "Solo dentro del mes siguiente al vencimiento del plazo para resolver",
+      "En cualquier momento a partir del día siguiente a que se produzcan los efectos del silencio o el acto presunto",
+      "Nunca, el silencio no puede recurrirse",
+      "Únicamente dentro de los tres días laborables siguientes"
+    ],
+    "correct": 1,
+    "exp": "Art. 122.1 y Art. 124.1: en ambos casos, si el acto no es expreso, el recurso puede interponerse en cualquier momento a partir del día siguiente a que se produzcan los efectos del silencio o el acto presunto.",
+    "fuente": "Art. 122.1 y Art. 124.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El recurso extraordinario de revisión no contempla la regla del 'acto no expreso' de alzada y reposición, porque el cómputo de sus plazos de interposición parte siempre de:",
+    "options": [
+      "La fecha de publicación en el BOE",
+      "La notificación de la resolución impugnada o del conocimiento de los documentos/firmeza de la sentencia, según la causa",
+      "La fecha de presentación de la solicitud inicial",
+      "El día en que se dictó el acto originario, sin excepción"
+    ],
+    "correct": 1,
+    "exp": "Art. 125.2: los plazos del recurso extraordinario de revisión se cuentan desde la notificación de la resolución impugnada (causa a) o desde el conocimiento de los documentos o la firmeza de la sentencia (demás causas), no de un silencio administrativo.",
+    "fuente": "Art. 125.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 124.1 LPAC, si transcurre el plazo de un mes sin interponer el recurso de reposición, ¿qué recurso queda disponible, sin perjuicio del extraordinario de revisión si procede?",
+    "options": [
+      "Un nuevo recurso de reposición",
+      "El recurso de alzada",
+      "Ninguno, el acto queda inatacable",
+      "Únicamente el recurso contencioso-administrativo"
+    ],
+    "correct": 3,
+    "exp": "Art. 124.1: 'Transcurrido dicho plazo, únicamente podrá interponerse recurso contencioso-administrativo, sin perjuicio, en su caso, de la procedencia del recurso extraordinario de revisión.'",
+    "fuente": "Art. 124.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Los arts. 122.3 y 124.1 LPAC coinciden en admitir, tras agotarse la alzada o dejar transcurrir el plazo de reposición, la posibilidad de acudir, en su caso, a:",
+    "options": [
+      "El recurso extraordinario de revisión, cuando concurra alguna causa del art. 125.1",
+      "Un nuevo recurso de alzada",
+      "La mediación obligatoria",
+      "El arbitraje internacional"
+    ],
+    "correct": 0,
+    "exp": "El art. 122.3 salva expresamente 'el recurso extraordinario de revisión, en los casos establecidos en el artículo 125.1'; el art. 124.1 hace la misma salvedad 'sin perjuicio... de la procedencia del recurso extraordinario de revisión.'",
+    "fuente": "Art. 122.3 y Art. 124.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "La obligación de remitir el expediente al órgano competente en un plazo determinado (art. 121.2 LPAC, diez días) es una peculiaridad de la alzada que no tiene sentido en la reposición ni en la revisión extraordinaria porque, en estos dos últimos:",
+    "options": [
+      "El recurso se interpone siempre ante un órgano judicial",
+      "El recurso se interpone siempre ante el mismo órgano que ha de resolverlo",
+      "No existe expediente administrativo",
+      "El plazo de remisión es de un mes en ambos"
+    ],
+    "correct": 1,
+    "exp": "Los arts. 123.1 y 125.1 establecen que el recurso se interpone ante el mismo órgano que ha de resolverlo, por lo que no existe remisión de expediente a otro órgano, a diferencia de la alzada (art. 121.2), donde puede haber dos órganos distintos implicados.",
+    "fuente": "Art. 121.2 LPAC, en relación con Art. 123.1 y Art. 125.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Ordenando los tres recursos administrativos generales de menor a mayor plazo máximo de resolución, ¿cuál es el orden correcto?",
+    "options": [
+      "Alzada (1 mes) < Reposición = Revisión (3 meses)",
+      "Revisión (1 mes) < Alzada = Reposición (3 meses)",
+      "Reposición (1 mes) < Alzada = Revisión (3 meses cada uno)",
+      "Los tres tienen el mismo plazo de resolución"
+    ],
+    "correct": 2,
+    "exp": "La reposición se resuelve en el plazo máximo de un mes (art. 124.2), mientras que la alzada (art. 122.2) y el extraordinario de revisión (art. 126.3) comparten idéntico plazo máximo de tres meses.",
+    "fuente": "Art. 122.2, Art. 124.2 y Art. 126.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 123.2 LPAC, al hablar de la 'desestimación presunta' del recurso de reposición no resuelto en plazo, muestra que, igual que en alzada y en revisión, el silencio en este recurso tiene efecto:",
+    "options": [
+      "Estimatorio (positivo)",
+      "Suspensivo indefinido",
+      "Nulo de pleno derecho",
+      "Desestimatorio (negativo)"
+    ],
+    "correct": 3,
+    "exp": "El art. 123.2 se refiere a la 'desestimación presunta' del recurso de reposición, lo que evidencia que el silencio transcurrido el plazo de resolución tiene, como en alzada (art. 122.2) y en revisión (art. 126.3), efecto desestimatorio (negativo).",
+    "fuente": "Art. 123.2 LPAC",
+    "confianza": "alta"
+  }
+]);
