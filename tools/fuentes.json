@@ -7,6 +7,14 @@
     "modifica o el temario cambia, aquí es donde hay que corregirlo."
   ],
   "aux-admin-zaragoza": {
+    "10": {
+      "titulo": "Bienes de las entidades locales",
+      "normas": [
+        "Ley 7/1985 (LBRL), BOE-A-1985-5392, Título VI Capítulo I 'Bienes' (arts. 79 a 83): clasificación de bienes (dominio público, comunales, patrimoniales), prerrogativas",
+        "Real Decreto 1372/1986, de 13 de junio, Reglamento de Bienes de las Entidades Locales (RBEL), BOE-A-1986-17958: concepto y clasificación (arts. 1-8), patrimonio (arts. 9-16), conservación y tutela: inventario/registro (arts. 17-36), administración (arts. 37-43), prerrogativas (arts. 44-73), disfrute y aprovechamiento: dominio público (arts. 74-91), patrimoniales (arts. 92-93), comunales (arts. 94-108), enajenación (arts. 109-119)",
+        "Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas (LPAP), BOE-A-2003-20254: régimen jurídico de los negocios patrimoniales (art. 110 y ss.), aplicable a las entidades locales con carácter supletorio del RBEL/LBRL en lo no regulado por estos"
+      ]
+    },
     "11": {
       "titulo": "Actividad de las entidades locales",
       "normas": [
