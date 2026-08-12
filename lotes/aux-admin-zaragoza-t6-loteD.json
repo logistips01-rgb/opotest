@@ -1,0 +1,526 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 6,
+  "preguntas": [
+    {
+      "q": "Según el art. 48.1 LPAC, ¿qué actos de la Administración son anulables?",
+      "options": [
+        "Los que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder",
+        "Únicamente los que incurran en desviación de poder, con exclusión de otras infracciones",
+        "Solo los que carezcan de motivación suficiente",
+        "Exclusivamente los dictados por órgano incompetente por razón de la materia"
+      ],
+      "correct": 0,
+      "exp": "Art. 48.1: 'Son anulables los actos de la Administración que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder.'",
+      "fuente": "Art. 48.1 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué previsión específica incluye expresamente el art. 48.1 LPAC dentro del concepto de infracción del ordenamiento jurídico que determina la anulabilidad?",
+      "options": [
+        "La infracción de normas de procedimiento exclusivamente",
+        "La desviación de poder",
+        "La falta de competencia territorial",
+        "El incumplimiento de plazos de resolución"
+      ],
+      "correct": 1,
+      "exp": "Art. 48.1: '...incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder.'",
+      "fuente": "Art. 48.1 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 48.2 LPAC, el defecto de forma solo determinará la anulabilidad del acto cuando:",
+      "options": [
+        "El acto haya sido dictado por órgano distinto del competente",
+        "Se haya omitido cualquier trámite del procedimiento, sin excepción",
+        "El acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados",
+        "Haya transcurrido el plazo máximo para resolver"
+      ],
+      "correct": 2,
+      "exp": "Art. 48.2: 'No obstante, el defecto de forma sólo determinará la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados.'",
+      "fuente": "Art. 48.2 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Si un acto administrativo presenta un defecto de forma que no impide alcanzar su fin ni causa indefensión al interesado, según el art. 48.2 LPAC dicho defecto:",
+      "options": [
+        "Determina siempre la nulidad de pleno derecho del acto",
+        "Determina la anulabilidad automática del acto",
+        "Obliga a la apertura de un expediente de responsabilidad disciplinaria",
+        "No determina la anulabilidad del acto"
+      ],
+      "correct": 3,
+      "exp": "El art. 48.2 LPAC condiciona la anulabilidad por defecto de forma a que se dé alguna de esas dos circunstancias; si no concurre ninguna, no hay anulabilidad por ese motivo.",
+      "fuente": "Art. 48.2 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 48.3 LPAC, la realización de actuaciones administrativas fuera del tiempo establecido para ellas implicará la anulabilidad del acto:",
+      "options": [
+        "En todo caso, sin excepciones",
+        "Solo cuando así lo imponga la naturaleza del término o plazo",
+        "Únicamente si lo solicita el interesado dentro del mes siguiente",
+        "Solo si el retraso supera los tres meses"
+      ],
+      "correct": 1,
+      "exp": "Art. 48.3: 'La realización de actuaciones administrativas fuera del tiempo establecido para ellas sólo implicará la anulabilidad del acto cuando así lo imponga la naturaleza del término o plazo.'",
+      "fuente": "Art. 48.3 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Cuando la naturaleza del término o plazo no exija su cumplimiento estricto, actuar fuera de dicho plazo, conforme al art. 48.3 LPAC:",
+      "options": [
+        "Provoca la nulidad de pleno derecho del acto",
+        "Provoca automáticamente la caducidad del procedimiento",
+        "Exige la apertura de un nuevo expediente",
+        "No implicará la anulabilidad del acto"
+      ],
+      "correct": 3,
+      "exp": "El art. 48.3 LPAC reserva la anulabilidad por incumplimiento de plazo al caso en que la naturaleza del término lo imponga; en caso contrario, no se produce esa consecuencia.",
+      "fuente": "Art. 48.3 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 48.1 LPAC configura la anulabilidad como una categoría:",
+      "options": [
+        "General y residual, que abarca cualquier infracción del ordenamiento jurídico no incluida entre las causas tasadas de nulidad",
+        "Tasada, limitada a los supuestos enumerados expresamente en el propio artículo",
+        "Aplicable únicamente a los actos de trámite",
+        "Aplicable únicamente a las disposiciones administrativas de carácter general"
+      ],
+      "correct": 0,
+      "exp": "El art. 48.1 LPAC utiliza la fórmula abierta 'cualquier infracción del ordenamiento jurídico', frente al listado cerrado de causas de nulidad del art. 47.1 LPAC.",
+      "fuente": "Art. 48.1 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Además de la falta de requisitos formales indispensables para alcanzar su fin, el art. 48.2 LPAC contempla como causa de anulabilidad por defecto de forma:",
+      "options": [
+        "La ausencia de firma electrónica del interesado",
+        "La falta de registro de entrada del escrito",
+        "Que el defecto dé lugar a la indefensión de los interesados",
+        "La falta de traducción al idioma oficial de la Comunidad Autónoma"
+      ],
+      "correct": 2,
+      "exp": "Art. 48.2: '...cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados.'",
+      "fuente": "Art. 48.2 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 49.1 LPAC, la nulidad o anulabilidad de un acto administrativo:",
+      "options": [
+        "Implica siempre la nulidad de todos los actos anteriores del procedimiento",
+        "No implicará la de los sucesivos en el procedimiento que sean independientes del primero",
+        "Determina la nulidad de la totalidad del expediente administrativo",
+        "Obliga a retrotraer el procedimiento a su fase inicial en todo caso"
+      ],
+      "correct": 1,
+      "exp": "Art. 49.1: 'La nulidad o anulabilidad de un acto no implicará la de los sucesivos en el procedimiento que sean independientes del primero.'",
+      "fuente": "Art. 49.1 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 49.1 LPAC limita la extensión de la nulidad o anulabilidad únicamente respecto de:",
+      "options": [
+        "Los actos anteriores del procedimiento",
+        "Los actos de otros procedimientos conexos",
+        "Las disposiciones administrativas de carácter general",
+        "Los actos sucesivos en el procedimiento que sean independientes del primero"
+      ],
+      "correct": 3,
+      "exp": "El art. 49.1 LPAC solo se refiere a los actos 'sucesivos en el procedimiento que sean independientes del primero', no a los anteriores.",
+      "fuente": "Art. 49.1 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 49.2 LPAC, la nulidad o anulabilidad en parte de un acto administrativo:",
+      "options": [
+        "No implicará la de las partes del mismo independientes de aquélla, salvo que la parte viciada sea de tal importancia que sin ella el acto no hubiera sido dictado",
+        "Implica siempre la nulidad total del acto, sin excepciones",
+        "Solo afecta a la parte dispositiva del acto, nunca a su motivación",
+        "Exige la apertura de un procedimiento de revisión de oficio independiente"
+      ],
+      "correct": 0,
+      "exp": "Art. 49.2: 'La nulidad o anulabilidad en parte del acto administrativo no implicará la de las partes del mismo independientes de aquélla, salvo que la parte viciada sea de tal importancia que sin ella el acto administrativo no hubiera sido dictado.'",
+      "fuente": "Art. 49.2 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuál es la excepción prevista en el art. 49.2 LPAC a la regla de que la invalidez parcial no se extiende a las partes independientes del acto?",
+      "options": [
+        "Que el interesado renuncie expresamente a la parte no viciada",
+        "Que el acto sea recurrido en alzada",
+        "Que la parte viciada sea de tal importancia que sin ella el acto administrativo no hubiera sido dictado",
+        "Que hayan transcurrido más de seis meses desde su notificación"
+      ],
+      "correct": 2,
+      "exp": "Art. 49.2: '...salvo que la parte viciada sea de tal importancia que sin ella el acto administrativo no hubiera sido dictado.'",
+      "fuente": "Art. 49.2 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 49.1 LPAC, al referirse a la limitación de los efectos de la invalidez, se aplica:",
+      "options": [
+        "Únicamente a los actos nulos de pleno derecho",
+        "Tanto a la nulidad como a la anulabilidad del acto",
+        "Únicamente a los actos anulables",
+        "Solo a las disposiciones administrativas de carácter general"
+      ],
+      "correct": 1,
+      "exp": "Art. 49.1 LPAC: 'La nulidad o anulabilidad de un acto no implicará...'; el precepto contempla ambas categorías por igual.",
+      "fuente": "Art. 49.1 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 49 LPAC, titulado 'Límites a la extensión de la nulidad o anulabilidad de los actos', tiene como finalidad:",
+      "options": [
+        "Ampliar los efectos de la invalidez a todo el expediente administrativo",
+        "Suprimir la distinción entre nulidad y anulabilidad",
+        "Regular el plazo para instar la revisión de oficio",
+        "Evitar que el vicio de un acto o de una parte de él se extienda automáticamente a actos o partes independientes"
+      ],
+      "correct": 3,
+      "exp": "Los apartados 1 y 2 del art. 49 LPAC limitan la extensión de la invalidez a los actos sucesivos y a las partes del acto que sean independientes de la parte o acto viciado.",
+      "fuente": "Art. 49.1 y 49.2 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué regula el art. 50 LPAC bajo el título 'Conversión de actos viciados'?",
+      "options": [
+        "Que los actos nulos o anulables que contengan los elementos constitutivos de otro distinto producirán los efectos de éste",
+        "Que los actos nulos pueden subsanarse retroactivamente sin límite temporal",
+        "Que los actos anulables deben anularse en todo caso por el órgano superior",
+        "Que los actos viciados de forma se convierten automáticamente en actos de trámite"
+      ],
+      "correct": 0,
+      "exp": "Art. 50: 'Los actos nulos o anulables que, sin embargo, contengan los elementos constitutivos de otro distinto producirán los efectos de éste.'",
+      "fuente": "Art. 50 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 50 LPAC, un acto viciado que contenga los elementos constitutivos de otro acto distinto:",
+      "options": [
+        "Debe ser anulado y dictarse un nuevo acto desde el principio",
+        "Mantiene únicamente los efectos del acto viciado original",
+        "Producirá los efectos del acto distinto cuyos elementos constitutivos contiene",
+        "Queda en suspenso hasta su convalidación expresa"
+      ],
+      "correct": 2,
+      "exp": "Art. 50: '...producirán los efectos de éste', es decir, del acto distinto cuyos elementos constitutivos contiene.",
+      "fuente": "Art. 50 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "La conversión regulada en el art. 50 LPAC se aplica a:",
+      "options": [
+        "Únicamente a los actos anulables",
+        "Tanto a los actos nulos como a los anulables",
+        "Únicamente a los actos nulos de pleno derecho",
+        "Únicamente a las disposiciones administrativas generales"
+      ],
+      "correct": 1,
+      "exp": "Art. 50: 'Los actos nulos o anulables que, sin embargo, contengan los elementos constitutivos de otro distinto...'",
+      "fuente": "Art. 50 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué requisito exige el art. 50 LPAC para que opere la conversión de un acto viciado?",
+      "options": [
+        "Que el interesado lo solicite expresamente en el plazo de un mes",
+        "Que el vicio sea de mera forma",
+        "Que exista dictamen favorable del órgano consultivo",
+        "Que el acto viciado contenga los elementos constitutivos de otro acto distinto"
+      ],
+      "correct": 3,
+      "exp": "Art. 50: '...que, sin embargo, contengan los elementos constitutivos de otro distinto producirán los efectos de éste.'",
+      "fuente": "Art. 50 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "A diferencia de la convalidación regulada en el art. 52 LPAC, la conversión del art. 50 LPAC no exige:",
+      "options": [
+        "Que el acto sea anulable, pues puede operar también sobre actos nulos",
+        "Que exista un acto administrativo previo",
+        "Que se respete el ordenamiento jurídico",
+        "Que intervenga la Administración Pública autora del acto"
+      ],
+      "correct": 0,
+      "exp": "El art. 52.1 LPAC limita la convalidación a 'los actos anulables', mientras que el art. 50 LPAC habla de 'actos nulos o anulables' indistintamente.",
+      "fuente": "Art. 50 y Art. 52.1 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 51 LPAC, ¿quién dispone la conservación de los actos y trámites cuyo contenido se hubiera mantenido igual de no haberse cometido la infracción?",
+      "options": [
+        "El Consejo de Estado u órgano consultivo equivalente",
+        "El interesado, mediante solicitud expresa",
+        "El órgano que declare la nulidad o anule las actuaciones",
+        "El superior jerárquico del órgano que dictó el acto viciado"
+      ],
+      "correct": 2,
+      "exp": "Art. 51: 'El órgano que declare la nulidad o anule las actuaciones dispondrá siempre la conservación de aquellos actos y trámites cuyo contenido se hubiera mantenido igual de no haberse cometido la infracción.'",
+      "fuente": "Art. 51 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué actos y trámites deben conservarse conforme al art. 51 LPAC?",
+      "options": [
+        "Todos los anteriores al acto declarado nulo, sin excepción",
+        "Aquellos cuyo contenido se hubiera mantenido igual de no haberse cometido la infracción",
+        "Únicamente los trámites de audiencia al interesado",
+        "Solo los actos de instrucción posteriores a la declaración de nulidad"
+      ],
+      "correct": 1,
+      "exp": "Art. 51: '...la conservación de aquellos actos y trámites cuyo contenido se hubiera mantenido igual de no haberse cometido la infracción.'",
+      "fuente": "Art. 51 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 51 LPAC establece que el órgano que declare la nulidad o anule las actuaciones dispondrá la conservación de los actos y trámites afectados:",
+      "options": [
+        "Solo si lo solicita expresamente el interesado",
+        "De forma potestativa, según su criterio discrecional",
+        "Únicamente cuando exista informe favorable del servicio jurídico",
+        "Siempre, con carácter imperativo"
+      ],
+      "correct": 3,
+      "exp": "Art. 51: 'El órgano... dispondrá siempre la conservación...'. El precepto no deja margen de discrecionalidad.",
+      "fuente": "Art. 51 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "La regla de conservación del art. 51 LPAC se aplica cuando el órgano competente:",
+      "options": [
+        "Declare la nulidad de un acto o anule las actuaciones",
+        "Convalide un acto anulable",
+        "Convierta un acto viciado en otro distinto",
+        "Revoque un acto de gravamen por razones de oportunidad"
+      ],
+      "correct": 0,
+      "exp": "Art. 51: 'El órgano que declare la nulidad o anule las actuaciones dispondrá siempre la conservación...'",
+      "fuente": "Art. 51 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "La finalidad del principio de conservación de actos y trámites del art. 51 LPAC es:",
+      "options": [
+        "Sancionar al órgano que cometió la infracción",
+        "Ampliar los efectos de la nulidad a todo el expediente",
+        "Evitar repetir innecesariamente actuaciones cuyo contenido no se habría visto afectado por la infracción cometida",
+        "Suspender el procedimiento hasta que se dicte un nuevo acto íntegro"
+      ],
+      "correct": 2,
+      "exp": "Se conservan los actos y trámites 'cuyo contenido se hubiera mantenido igual de no haberse cometido la infracción', evitando así su repetición innecesaria.",
+      "fuente": "Art. 51 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 52.1 LPAC habilita a la Administración para convalidar:",
+      "options": [
+        "Los actos nulos de pleno derecho, subsanando el vicio de nulidad",
+        "Los actos anulables, subsanando los vicios de que adolezcan",
+        "Las disposiciones administrativas de carácter general",
+        "Los actos firmes que hayan agotado la vía administrativa"
+      ],
+      "correct": 1,
+      "exp": "Art. 52.1: 'La Administración podrá convalidar los actos anulables, subsanando los vicios de que adolezcan.'",
+      "fuente": "Art. 52.1 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Un acto afectado por una causa de nulidad de pleno derecho del art. 47.1 LPAC, conforme al art. 52.1 LPAC:",
+      "options": [
+        "Puede convalidarse siempre que lo acuerde el superior jerárquico",
+        "Puede convalidarse mediante el otorgamiento de la autorización que faltase",
+        "Puede convalidarse si han transcurrido más de cuatro años desde que se dictó",
+        "No puede convalidarse, porque el art. 52.1 LPAC limita la convalidación a los actos anulables"
+      ],
+      "correct": 3,
+      "exp": "Art. 52.1 LPAC solo permite convalidar 'los actos anulables'; un acto nulo de pleno derecho conforme al art. 47.1 LPAC queda fuera de esa posibilidad.",
+      "fuente": "Art. 52.1 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 52.2 LPAC, ¿desde qué momento produce efectos el acto de convalidación?",
+      "options": [
+        "Desde su fecha, salvo lo dispuesto en el art. 39.3 LPAC para la retroactividad de los actos administrativos",
+        "Desde la fecha del acto viciado que se convalida, con efectos retroactivos plenos",
+        "Desde el día siguiente a su notificación al interesado",
+        "Desde que adquiera firmeza en vía administrativa"
+      ],
+      "correct": 0,
+      "exp": "Art. 52.2: 'El acto de convalidación producirá efecto desde su fecha, salvo lo dispuesto en el artículo 39.3 para la retroactividad de los actos administrativos.'",
+      "fuente": "Art. 52.2 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 52.2 LPAC remite, para la retroactividad de los actos administrativos, a lo dispuesto en:",
+      "options": [
+        "El art. 47.2 LPAC",
+        "El art. 51 LPAC",
+        "El art. 39.3 LPAC",
+        "El art. 106.1 LPAC"
+      ],
+      "correct": 2,
+      "exp": "Art. 52.2: '...salvo lo dispuesto en el artículo 39.3 para la retroactividad de los actos administrativos.'",
+      "fuente": "Art. 52.2 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Si el vicio de un acto consiste en incompetencia no determinante de nulidad, el art. 52.3 LPAC permite que la convalidación se realice por:",
+      "options": [
+        "Cualquier órgano de la misma Administración, sin más requisitos",
+        "El órgano competente, cuando sea superior jerárquico del que dictó el acto viciado",
+        "El Consejo de Estado u órgano consultivo equivalente",
+        "El propio órgano que dictó el acto, previa autorización del interesado"
+      ],
+      "correct": 1,
+      "exp": "Art. 52.3: 'Si el vicio consistiera en incompetencia no determinante de nulidad, la convalidación podrá realizarse por el órgano competente cuando sea superior jerárquico del que dictó el acto viciado.'",
+      "fuente": "Art. 52.3 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "La incompetencia a la que se refiere el art. 52.3 LPAC como vicio convalidable es distinta de la incompetencia manifiesta por razón de la materia o del territorio, porque esta última:",
+      "options": [
+        "Solo puede subsanarse mediante el otorgamiento de una autorización, conforme al art. 52.4 LPAC",
+        "No es nunca causa de invalidez del acto",
+        "Solo afecta a las disposiciones administrativas de carácter general",
+        "Es causa de nulidad de pleno derecho conforme al art. 47.1.b) LPAC, y por tanto no es la incompetencia convalidable del art. 52.3"
+      ],
+      "correct": 3,
+      "exp": "El art. 52.3 LPAC exige que la incompetencia sea 'no determinante de nulidad'; la incompetencia manifiesta por razón de la materia o del territorio del art. 47.1.b) LPAC sí determina nulidad de pleno derecho y no es convalidable.",
+      "fuente": "Art. 52.3 LPAC y Art. 47.1.b) LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Cuando el vicio de un acto consista en la falta de alguna autorización, el art. 52.4 LPAC dispone que el acto podrá convalidarse:",
+      "options": [
+        "Mediante el otorgamiento de la misma por el órgano competente",
+        "Únicamente mediante la declaración de lesividad del acto",
+        "Solo si lo autoriza el superior jerárquico del órgano que dictó el acto",
+        "Retrotrayendo el procedimiento a la fase de instrucción"
+      ],
+      "correct": 0,
+      "exp": "Art. 52.4: 'Si el vicio consistiese en la falta de alguna autorización, podrá ser convalidado el acto mediante el otorgamiento de la misma por el órgano competente.'",
+      "fuente": "Art. 52.4 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Comparando los apartados 3 y 4 del art. 52 LPAC, el mecanismo de convalidación difiere según el vicio: en el caso del apartado 3 (incompetencia no determinante de nulidad) convalida el superior jerárquico, mientras que en el caso del apartado 4 el vicio consiste en:",
+      "options": [
+        "Un defecto de motivación del acto",
+        "Un vicio de procedimiento no esencial",
+        "La falta de alguna autorización, que se subsana otorgándola el órgano competente",
+        "La ausencia de dictamen del Consejo de Estado"
+      ],
+      "correct": 2,
+      "exp": "Art. 52.3 (incompetencia no determinante de nulidad, convalida el superior jerárquico) y art. 52.4 (falta de autorización, se subsana otorgándola el órgano competente) prevén mecanismos de convalidación distintos.",
+      "fuente": "Art. 52.3 y 52.4 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Frente a la lista tasada de supuestos de nulidad de pleno derecho del art. 47.1 LPAC, el art. 48.1 LPAC configura la anulabilidad como:",
+      "options": [
+        "Otra lista cerrada de causas adicionales de invalidez",
+        "Una cláusula general que abarca cualquier infracción del ordenamiento jurídico, incluso la desviación de poder",
+        "Un supuesto exclusivamente aplicable a las disposiciones administrativas",
+        "Una remisión íntegra a lo dispuesto en el art. 47.1 LPAC"
+      ],
+      "correct": 1,
+      "exp": "El art. 47.1 LPAC enumera taxativamente las letras a) a g) como causas de nulidad; el art. 48.1 LPAC, en cambio, declara anulable 'cualquier infracción del ordenamiento jurídico, incluso la desviación de poder', configurando una cláusula general y residual.",
+      "fuente": "Art. 47.1 LPAC y Art. 48.1 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 106.1 LPAC, la revisión de oficio de un acto afectado por una causa de nulidad del art. 47.1 LPAC puede iniciarse:",
+      "options": [
+        "Solo dentro del mes siguiente a la notificación del acto",
+        "Solo dentro de los cuatro años siguientes a que se dictara el acto",
+        "Solo mientras el acto no haya puesto fin a la vía administrativa",
+        "En cualquier momento, sin sujeción a un plazo de caducidad para instarla"
+      ],
+      "correct": 3,
+      "exp": "Art. 106.1: 'Las Administraciones Públicas, en cualquier momento, por iniciativa propia o a solicitud de interesado... declararán de oficio la nulidad de los actos administrativos... en los supuestos previstos en el artículo 47.1.'",
+      "fuente": "Art. 106.1 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "A diferencia de la revisión de oficio de los actos nulos, que puede instarse en cualquier momento (art. 106.1 LPAC), la declaración de lesividad de un acto favorable anulable conforme al art. 48 LPAC está sujeta, según el art. 107.2 LPAC, a un plazo máximo de:",
+      "options": [
+        "Cuatro años desde que se dictó el acto administrativo",
+        "Un mes desde que se dictó el acto administrativo",
+        "Seis meses desde que se dictó el acto administrativo",
+        "Dos años desde que se dictó el acto administrativo"
+      ],
+      "correct": 0,
+      "exp": "Art. 107.2: 'La declaración de lesividad no podrá adoptarse una vez transcurridos cuatro años desde que se dictó el acto administrativo...'; frente a ello, el art. 106.1 LPAC no fija plazo para instar la revisión de los actos nulos.",
+      "fuente": "Art. 107.2 LPAC y Art. 106.1 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El plazo de un mes para interponer recurso de alzada o de reposición contra un acto expreso, previsto en los arts. 122.1 y 124.1 LPAC, contrasta con la revisión de oficio de actos nulos del art. 47.1 LPAC en que esta última, conforme al art. 106.1 LPAC:",
+      "options": [
+        "También está sujeta a un plazo de un mes",
+        "Solo puede instarse dentro de los seis meses siguientes al acto",
+        "Puede instarse en cualquier momento, sin el límite temporal de un mes propio de los recursos administrativos",
+        "Queda excluida si el acto ha sido recurrido en plazo"
+      ],
+      "correct": 2,
+      "exp": "Los arts. 122.1 y 124.1 LPAC fijan un mes para recurrir en alzada o en reposición un acto expreso, mientras que el art. 106.1 LPAC permite instar la revisión de oficio de un acto nulo 'en cualquier momento'.",
+      "fuente": "Art. 122.1, Art. 124.1 y Art. 106.1 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "La desviación de poder, expresamente mencionada en el art. 48.1 LPAC como causa de anulabilidad, ¿figura entre los supuestos tasados de nulidad de pleno derecho del art. 47.1 LPAC?",
+      "options": [
+        "Sí, en la letra b) del art. 47.1 LPAC",
+        "No, el art. 47.1 LPAC no la incluye entre sus supuestos tasados de nulidad",
+        "Sí, en la letra g) del art. 47.1 LPAC, como cláusula de cierre",
+        "Sí, pero solo cuando afecta a disposiciones administrativas"
+      ],
+      "correct": 1,
+      "exp": "Las letras a) a g) del art. 47.1 LPAC no mencionan la desviación de poder; esta solo aparece expresamente en el art. 48.1 LPAC como causa de anulabilidad.",
+      "fuente": "Art. 48.1 LPAC y Art. 47.1 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Un defecto de forma que no llega a suponer prescindir total y absolutamente del procedimiento legalmente establecido se rige, en cuanto a su invalidez, por:",
+      "options": [
+        "El art. 47.1.e) LPAC, que lo declara nulo de pleno derecho",
+        "El art. 47.2 LPAC, aplicable a las disposiciones administrativas",
+        "El art. 106.1 LPAC, sobre revisión de oficio",
+        "El art. 48.2 LPAC, que solo lo declara anulable si carece de requisitos formales indispensables para su fin o causa indefensión"
+      ],
+      "correct": 3,
+      "exp": "Solo cuando se prescinde total y absolutamente del procedimiento opera la nulidad del art. 47.1.e) LPAC; los demás defectos de forma se rigen por el art. 48.2 LPAC, que exige carencia de requisitos formales indispensables para el fin del acto o indefensión.",
+      "fuente": "Art. 48.2 LPAC y Art. 47.1.e) LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Un acto administrativo de contenido imposible, conforme a la LPAC, es:",
+      "options": [
+        "Nulo de pleno derecho, según el art. 47.1.c) LPAC",
+        "Anulable, según el art. 48.1 LPAC",
+        "Válido, salvo declaración expresa de lesividad",
+        "Convalidable, según el art. 52.1 LPAC"
+      ],
+      "correct": 0,
+      "exp": "Art. 47.1.c): 'Son nulos de pleno derecho... c) Los que tengan un contenido imposible.' Al ser nulo, no cabe su convalidación conforme al art. 52.1 LPAC, que solo permite convalidar actos anulables.",
+      "fuente": "Art. 47.1.c) LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    },
+    {
+      "q": "En síntesis, mientras que el art. 47.1 LPAC exige que concurra alguno de los supuestos tasados en sus letras a) a g) para que un acto sea nulo de pleno derecho, el art. 48.1 LPAC declara anulable:",
+      "options": [
+        "Solo los actos que incurran en desviación de poder",
+        "Solo los actos afectados por defectos de forma",
+        "Cualquier acto de la Administración que incurra en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder, que no encaje en los supuestos tasados de nulidad",
+        "Únicamente los actos que hayan agotado la vía administrativa"
+      ],
+      "correct": 2,
+      "exp": "El art. 47.1 LPAC es una lista cerrada (numerus clausus); el art. 48.1 LPAC opera como cláusula residual para 'cualquier infracción del ordenamiento jurídico, incluso la desviación de poder' que no esté comprendida en aquella lista.",
+      "fuente": "Art. 47.1 LPAC y Art. 48.1 LPAC (Ley 39/2015)",
+      "confianza": "alta"
+    }
+  ]
+}
