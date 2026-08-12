@@ -1,0 +1,607 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 7,
+  "preguntas": [
+    {
+      "q": "¿Cómo define el artículo 70.1 LPAC el expediente administrativo?",
+      "options": [
+        "El conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla",
+        "El conjunto de documentos electrónicos remitidos por los interesados durante la instrucción del procedimiento",
+        "El documento único que contiene la propuesta de resolución y el informe preceptivo del órgano instructor",
+        "El registro electrónico en el que se anota la fecha de entrada y salida de los escritos del interesado"
+      ],
+      "correct": 0,
+      "exp": "El art. 70.1 LPAC define el expediente administrativo como el conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución, así como las diligencias encaminadas a ejecutarla.",
+      "fuente": "Art. 70.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 70.1 LPAC (línea 1236 del consolidado): la definición de expediente administrativo coincide literalmente con la opción correcta; sin duplicados ni ambigüedad en las 4 opciones."
+    },
+    {
+      "q": "Según el art. 70.3 LPAC, cuando en virtud de una norma sea preciso remitir el expediente electrónico, ¿cómo debe enviarse?",
+      "options": [
+        "Completo, foliado, autentificado y acompañado de un índice, asimismo autentificado, de los documentos que contenga",
+        "Resumido en un informe único suscrito por el órgano instructor, sin incluir los documentos originales",
+        "En papel, con firma manuscrita del titular de la unidad administrativa, aunque el expediente sea electrónico",
+        "Sin índice, bastando la comunicación verbal al órgano competente sobre el contenido del expediente"
+      ],
+      "correct": 0,
+      "exp": "El art. 70.3 LPAC exige que el expediente electrónico se envíe completo, foliado, autentificado y acompañado de un índice autentificado de los documentos que contenga.",
+      "fuente": "Art. 70.3 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 70.3 LPAC (línea 1238): exige envío completo, foliado, autentificado y con índice autentificado; texto de la opción correcta es literal."
+    },
+    {
+      "q": "De acuerdo con el art. 70.4 LPAC, ¿qué información no formará parte del expediente administrativo, salvo que se trate de informes preceptivos y facultativos solicitados antes de la resolución?",
+      "options": [
+        "La información de carácter auxiliar o de apoyo, como notas, borradores, opiniones, resúmenes o comunicaciones e informes internos",
+        "Las notificaciones practicadas a los interesados durante la tramitación del procedimiento",
+        "Los documentos aportados por los interesados en el trámite de alegaciones",
+        "Las pruebas admitidas y practicadas durante el período probatorio del procedimiento"
+      ],
+      "correct": 0,
+      "exp": "El art. 70.4 LPAC excluye del expediente la información de carácter auxiliar o de apoyo (notas, borradores, opiniones, resúmenes, comunicaciones e informes internos, juicios de valor), salvo informes preceptivos y facultativos previos a la resolución.",
+      "fuente": "Art. 70.4 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 70.4 LPAC (línea 1239): excluye información auxiliar/apoyo salvo informes preceptivos y facultativos previos a la resolución; coincide con la opción marcada."
+    },
+    {
+      "q": "El art. 71.1 LPAC establece que el procedimiento, sometido al principio de celeridad, se impulsará...",
+      "options": [
+        "de oficio en todos sus trámites y a través de medios electrónicos, respetando los principios de transparencia y publicidad",
+        "a instancia de parte en todos sus trámites y siempre por escrito",
+        "de oficio únicamente en los trámites de prueba, quedando el resto a instancia de parte",
+        "a instancia del Ministerio Fiscal en todos sus trámites"
+      ],
+      "correct": 0,
+      "exp": "El art. 71.1 LPAC dispone que el procedimiento, sometido al principio de celeridad, se impulsará de oficio en todos sus trámites y a través de medios electrónicos.",
+      "fuente": "Art. 71.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 71.1 LPAC (línea 1244): impulso de oficio, en todos los trámites, por medios electrónicos, con transparencia y publicidad; coincide literalmente."
+    },
+    {
+      "q": "Según el art. 71.2 LPAC, el incumplimiento del orden riguroso de incoación en asuntos de homogénea naturaleza dará lugar a...",
+      "options": [
+        "la exigencia de responsabilidad disciplinaria del infractor y, en su caso, será causa de remoción del puesto de trabajo",
+        "la nulidad de pleno derecho de todo lo actuado en el expediente correspondiente",
+        "la suspensión automática del plazo máximo para resolver el procedimiento",
+        "la obligación de indemnizar al interesado con cargo al presupuesto del órgano instructor"
+      ],
+      "correct": 0,
+      "exp": "El art. 71.2 LPAC señala que el incumplimiento del orden de incoación dará lugar a responsabilidad disciplinaria del infractor y, en su caso, será causa de remoción del puesto de trabajo.",
+      "fuente": "Art. 71.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 71.2 LPAC (línea 1246, segundo párrafo del apartado 2): el incumplimiento del orden de incoación da lugar a responsabilidad disciplinaria y, en su caso, remoción del puesto; coincide."
+    },
+    {
+      "q": "¿Quiénes son responsables directos de la tramitación del procedimiento y, en especial, del cumplimiento de los plazos, según el art. 71.3 LPAC?",
+      "options": [
+        "Las personas designadas como órgano instructor o, en su caso, los titulares de las unidades administrativas que tengan atribuida tal función",
+        "Exclusivamente el titular de la Administración Pública que tramite el procedimiento",
+        "El Consejo de Estado o el órgano consultivo equivalente de la Comunidad Autónoma",
+        "Los interesados que hayan promovido el procedimiento mediante solicitud"
+      ],
+      "correct": 0,
+      "exp": "El art. 71.3 LPAC atribuye la responsabilidad directa de la tramitación y del cumplimiento de los plazos a las personas designadas como órgano instructor o, en su caso, a los titulares de las unidades administrativas con tal función.",
+      "fuente": "Art. 71.3 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 71.3 LPAC (línea 1247): responsabilidad directa de la tramitación y plazos atribuida al órgano instructor o titulares de unidades con esa función; coincide literalmente."
+    },
+    {
+      "q": "El art. 72.1 LPAC dispone que, de acuerdo con el principio de simplificación administrativa, se acordarán en un solo acto...",
+      "options": [
+        "todos los trámites que, por su naturaleza, admitan un impulso simultáneo y no sea obligado su cumplimiento sucesivo",
+        "únicamente los trámites de prueba y el trámite de audiencia, quedando excluidos los informes",
+        "todos los trámites del procedimiento, aunque su cumplimiento deba ser necesariamente sucesivo",
+        "los trámites que soliciten los interesados, siempre que exista acuerdo expreso de todas las partes"
+      ],
+      "correct": 0,
+      "exp": "El art. 72.1 LPAC (concentración de trámites) ordena acordar en un solo acto todos los trámites que admitan un impulso simultáneo y no sea obligado su cumplimiento sucesivo.",
+      "fuente": "Art. 72.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 72.1 LPAC (línea 1251): concentración de trámites que admitan impulso simultáneo y no requieran cumplimiento sucesivo; coincide."
+    },
+    {
+      "q": "Según el art. 72.2 LPAC, al solicitar los trámites que deban ser cumplidos por otros órganos, ¿qué debe consignarse en la comunicación cursada?",
+      "options": [
+        "El plazo legal establecido al efecto",
+        "La identidad completa de todos los interesados en el procedimiento",
+        "El importe de la tasa administrativa correspondiente al trámite solicitado",
+        "La fecha prevista de resolución definitiva del procedimiento"
+      ],
+      "correct": 0,
+      "exp": "El art. 72.2 LPAC exige consignar en la comunicación cursada a otros órganos el plazo legal establecido para el trámite solicitado.",
+      "fuente": "Art. 72.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 72.2 LPAC (línea 1252): debe consignarse el plazo legal establecido al efecto; coincide literalmente."
+    },
+    {
+      "q": "Conforme al art. 73.1 LPAC, ¿en qué plazo deben realizarse los trámites que deban ser cumplimentados por los interesados, salvo que la norma fije plazo distinto?",
+      "options": [
+        "Diez días a partir del siguiente al de la notificación del correspondiente acto",
+        "Quince días hábiles desde la fecha de presentación de la solicitud inicial",
+        "Un mes natural desde la apertura del período de prueba",
+        "Veinte días desde la publicación del anuncio en el diario oficial correspondiente"
+      ],
+      "correct": 0,
+      "exp": "El art. 73.1 LPAC fija en diez días, a partir del siguiente al de la notificación del acto correspondiente, el plazo general de cumplimiento de trámites por los interesados.",
+      "fuente": "Art. 73.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 73.1 LPAC (línea 1256): plazo general de diez días desde el siguiente a la notificación, salvo plazo distinto por norma; coincide."
+    },
+    {
+      "q": "Cuando la Administración considere que un acto de los interesados no reúne los requisitos necesarios, según el art. 73.2 LPAC debe...",
+      "options": [
+        "ponerlo en conocimiento de su autor, concediéndole un plazo de diez días para cumplimentarlo",
+        "declarar la inadmisión inmediata de la solicitud sin posibilidad de subsanación",
+        "remitir el expediente al órgano superior para que resuelva sobre la subsanación",
+        "suspender el procedimiento hasta que el interesado solicite expresamente la subsanación"
+      ],
+      "correct": 0,
+      "exp": "El art. 73.2 LPAC obliga a poner en conocimiento del autor el defecto observado, concediéndole un plazo de diez días para cumplimentarlo.",
+      "fuente": "Art. 73.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 73.2 LPAC (línea 1257): puesta en conocimiento del autor con plazo de diez días para subsanar; coincide literalmente."
+    },
+    {
+      "q": "El art. 73.3 LPAC prevé que a los interesados que no cumplan los plazos de cumplimiento de trámites se les podrá...",
+      "options": [
+        "declarar decaídos en su derecho al trámite correspondiente, admitiéndose no obstante su actuación si se produce antes o dentro del día en que se notifique la resolución que tenga por transcurrido el plazo",
+        "declarar decaídos en su derecho al trámite correspondiente sin posibilidad alguna de subsanación posterior",
+        "imponer una sanción pecuniaria equivalente al coste del trámite no cumplimentado en plazo",
+        "excluir definitivamente al interesado de cualquier procedimiento futuro ante esa Administración"
+      ],
+      "correct": 0,
+      "exp": "El art. 73.3 LPAC permite declarar decaído al interesado en su derecho al trámite, pero admite su actuación tardía si se produce antes o dentro del día en que se notifique la resolución que da por transcurrido el plazo.",
+      "fuente": "Art. 73.3 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 73.3 LPAC (línea 1258): la ley admite la actuación tardía si se produce 'antes O DENTRO DEL DÍA' en que se notifique la resolución que tenga por transcurrido el plazo; la opción correcta decía solo 'antes de que se notifique', omitiendo el supuesto de 'dentro del día', lo que restringía indebidamente el alcance de la norma. Se corrige el texto de la opción para ajustarlo al literal del precepto.",
+      "correccion": "Se corrigió options[0] (respuesta correcta) para incluir el supuesto 'o dentro del día' que la ley contempla junto a 'antes de que se notifique', evitando que la opción restrinja el alcance real del art. 73.3 LPAC."
+    },
+    {
+      "q": "Según el art. 74 LPAC, las cuestiones incidentales que se susciten en el procedimiento, incluidas las relativas a la nulidad de actuaciones...",
+      "options": [
+        "no suspenderán la tramitación del mismo, salvo la recusación",
+        "suspenderán siempre la tramitación del procedimiento hasta su resolución",
+        "determinarán el archivo automático del expediente administrativo",
+        "deberán resolverse antes de iniciar cualquier acto de instrucción"
+      ],
+      "correct": 0,
+      "exp": "El art. 74 LPAC establece como regla general que las cuestiones incidentales no suspenden la tramitación del procedimiento, con la única excepción de la recusación.",
+      "fuente": "Art. 74 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 74 LPAC (línea 1262): las cuestiones incidentales, incluida la nulidad de actuaciones, no suspenden la tramitación salvo la recusación; coincide literalmente."
+    },
+    {
+      "q": "De acuerdo con el art. 74 LPAC, ¿cuál es la única cuestión incidental que sí suspende la tramitación del procedimiento?",
+      "options": [
+        "La recusación",
+        "La acumulación de expedientes",
+        "La ampliación de plazos",
+        "La subsanación de la solicitud"
+      ],
+      "correct": 0,
+      "exp": "El art. 74 LPAC exceptúa expresamente la recusación como la única cuestión incidental que suspende la tramitación.",
+      "fuente": "Art. 74 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 74 LPAC (línea 1262): confirma que la recusación es la única excepción que sí suspende; coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 75.1 LPAC, los actos de instrucción necesarios para la determinación, conocimiento y comprobación de los hechos se realizarán...",
+      "options": [
+        "de oficio y a través de medios electrónicos, por el órgano que tramite el procedimiento, sin perjuicio del derecho de los interesados a proponer actuaciones",
+        "exclusivamente a instancia de los interesados, sin intervención de oficio del órgano instructor",
+        "por el Consejo de Estado, cuando el procedimiento tenga carácter sancionador",
+        "por escrito y siempre por medios no electrónicos, salvo autorización expresa del interesado"
+      ],
+      "correct": 0,
+      "exp": "El art. 75.1 LPAC atribuye la realización de oficio y por medios electrónicos de los actos de instrucción al órgano que tramite el procedimiento, sin perjuicio del derecho de los interesados a proponer actuaciones.",
+      "fuente": "Art. 75.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 75.1 LPAC (línea 1273): actos de instrucción de oficio y por medios electrónicos por el órgano tramitador, sin perjuicio del derecho de los interesados a proponer actuaciones; coincide."
+    },
+    {
+      "q": "El art. 75.3 LPAC establece que los actos de instrucción que requieran la intervención de los interesados habrán de practicarse...",
+      "options": [
+        "en la forma que resulte más conveniente para ellos y sea compatible, en la medida de lo posible, con sus obligaciones laborales o profesionales",
+        "únicamente en horario de mañana, coincidiendo con el horario de atención al público de la oficina gestora",
+        "siempre en las dependencias del órgano instructor, sin posibilidad de adaptación alguna",
+        "en el plazo máximo de tres días desde su señalamiento, sin posibilidad de aplazamiento"
+      ],
+      "correct": 0,
+      "exp": "El art. 75.3 LPAC exige practicar estos actos en la forma más conveniente para los interesados y compatible, en la medida de lo posible, con sus obligaciones laborales o profesionales.",
+      "fuente": "Art. 75.3 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 75.3 LPAC (línea 1275): forma más conveniente para los interesados, compatible con obligaciones laborales o profesionales; coincide literalmente."
+    },
+    {
+      "q": "Según el art. 75.4 LPAC, el órgano instructor adoptará las medidas necesarias para lograr...",
+      "options": [
+        "el pleno respeto a los principios de contradicción y de igualdad de los interesados en el procedimiento",
+        "la reducción del número de interesados que participan en el procedimiento",
+        "la aplicación exclusiva de medios de prueba documentales, excluyendo los demás",
+        "la delegación de la instrucción en un órgano consultivo externo a la Administración"
+      ],
+      "correct": 0,
+      "exp": "El art. 75.4 LPAC obliga al órgano instructor a adoptar las medidas necesarias para el pleno respeto de los principios de contradicción e igualdad de los interesados.",
+      "fuente": "Art. 75.4 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 75.4 LPAC (línea 1276): medidas para el pleno respeto a los principios de contradicción e igualdad; coincide literalmente."
+    },
+    {
+      "q": "Según el art. 76.1 LPAC, las alegaciones y documentos aportados por los interesados antes del trámite de audiencia serán tenidos en cuenta por el órgano competente...",
+      "options": [
+        "al redactar la correspondiente propuesta de resolución",
+        "únicamente si son ratificados posteriormente en el trámite de audiencia",
+        "solo cuando el procedimiento tenga naturaleza sancionadora",
+        "exclusivamente si se aportan a través de representante debidamente acreditado"
+      ],
+      "correct": 0,
+      "exp": "El art. 76.1 LPAC establece que las alegaciones y documentos aportados serán tenidos en cuenta por el órgano competente al redactar la propuesta de resolución.",
+      "fuente": "Art. 76.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 76.1 LPAC (línea 1280-1281): alegaciones y documentos previos a la audiencia se tienen en cuenta al redactar la propuesta de resolución; coincide."
+    },
+    {
+      "q": "El art. 76.2 LPAC permite a los interesados alegar en todo momento, en especial, los defectos de tramitación consistentes en...",
+      "options": [
+        "paralización, infracción de los plazos preceptivamente señalados o la omisión de trámites que pueden ser subsanados antes de la resolución definitiva",
+        "la falta de motivación de los actos de trámite que no producen indefensión",
+        "la incompetencia territorial del órgano que dictó el acuerdo de inicio, únicamente",
+        "el uso de un idioma distinto del castellano en las notificaciones electrónicas"
+      ],
+      "correct": 0,
+      "exp": "El art. 76.2 LPAC permite alegar en cualquier momento defectos de tramitación como paralización, infracción de plazos u omisión de trámites subsanables antes de la resolución.",
+      "fuente": "Art. 76.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 76.2 LPAC (línea 1282): defectos de tramitación alegables en todo momento (paralización, infracción de plazos, omisión de trámites subsanables); coincide literalmente."
+    },
+    {
+      "q": "Según el art. 76.2 LPAC, las alegaciones sobre defectos de tramitación podrán dar lugar, si hubiere razones para ello, a...",
+      "options": [
+        "la exigencia de la correspondiente responsabilidad disciplinaria",
+        "la nulidad de pleno derecho automática de todo el procedimiento",
+        "la apertura inmediata de un período extraordinario de prueba",
+        "la ampliación del plazo máximo para resolver en seis meses adicionales"
+      ],
+      "correct": 0,
+      "exp": "El art. 76.2 LPAC señala que esas alegaciones podrán dar lugar, si hubiere razones para ello, a la exigencia de responsabilidad disciplinaria.",
+      "fuente": "Art. 76.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 76.2 LPAC (línea 1282): esas alegaciones pueden dar lugar a responsabilidad disciplinaria si hubiere razones; coincide."
+    },
+    {
+      "q": "Según el art. 77.1 LPAC, la valoración de los medios de prueba admisibles en Derecho se realizará de acuerdo con los criterios establecidos en...",
+      "options": [
+        "la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil",
+        "la Ley 39/2015, de 1 de octubre, exclusivamente en su título preliminar",
+        "la Ley Orgánica del Poder Judicial, en su artículo dedicado a la prueba pericial",
+        "el Código Civil, en las disposiciones relativas a la prueba documental pública"
+      ],
+      "correct": 0,
+      "exp": "El art. 77.1 LPAC remite a los criterios de valoración de la prueba de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil.",
+      "fuente": "Art. 77.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 77.1 LPAC (línea 1290-1292): valoración de la prueba según criterios de la Ley 1/2000 de Enjuiciamiento Civil; coincide literalmente."
+    },
+    {
+      "q": "De acuerdo con el art. 77.2 LPAC, el período de prueba ordinario no podrá ser superior a treinta días ni inferior a diez; a petición de los interesados, el instructor podrá decidir además la apertura de un período extraordinario...",
+      "options": [
+        "por un plazo no superior a diez días",
+        "por un plazo no superior a treinta días adicionales",
+        "por un plazo no superior a cinco días, improrrogable",
+        "por un plazo no superior a quince días, prorrogable una sola vez"
+      ],
+      "correct": 0,
+      "exp": "El art. 77.2 LPAC fija el período ordinario entre diez y treinta días, y permite un período extraordinario adicional no superior a diez días.",
+      "fuente": "Art. 77.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 77.2 LPAC (línea 1293): período ordinario de 10 a 30 días y período extraordinario adicional no superior a diez días; coincide."
+    },
+    {
+      "q": "Según el art. 77.3 LPAC, el instructor del procedimiento sólo podrá rechazar las pruebas propuestas por los interesados cuando...",
+      "options": [
+        "sean manifiestamente improcedentes o innecesarias, mediante resolución motivada",
+        "el interesado no haya abonado previamente la tasa correspondiente a la prueba propuesta",
+        "el plazo de instrucción del procedimiento ya hubiera concluido, sin necesidad de motivación",
+        "exista informe desfavorable no vinculante del órgano competente para resolver"
+      ],
+      "correct": 0,
+      "exp": "El art. 77.3 LPAC solo permite rechazar pruebas manifiestamente improcedentes o innecesarias, y exige que el rechazo se motive.",
+      "fuente": "Art. 77.3 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 77.3 LPAC (línea 1294): rechazo de pruebas solo si son manifiestamente improcedentes o innecesarias, por resolución motivada; coincide literalmente."
+    },
+    {
+      "q": "Cuando el interesado alegue discriminación y aporte indicios fundados sobre su existencia, el art. 77.3 bis LPAC atribuye la carga de la prueba a...",
+      "options": [
+        "la persona a quien se impute la situación discriminatoria, que deberá aportar justificación objetiva y razonable, suficientemente probada, de las medidas adoptadas y su proporcionalidad",
+        "el propio interesado que alega la discriminación, quien deberá probarla plenamente sin excepciones",
+        "el Ministerio Fiscal, que asumirá de oficio la instrucción de ese extremo del procedimiento",
+        "el órgano competente en materia de igualdad, exclusivamente mediante informe pericial"
+      ],
+      "correct": 0,
+      "exp": "El art. 77.3 bis LPAC (añadido por la Ley 15/2022) invierte la carga de la prueba: corresponde a la persona a quien se impute la discriminación justificar objetiva y razonablemente sus medidas.",
+      "fuente": "Art. 77.3 bis LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 77.3 bis LPAC (línea 1295, añadido por Ley 15/2022): inversión de la carga de la prueba hacia quien se impute la discriminación; coincide, y se confirma que la cita distingue correctamente el apartado 3 del 3 bis."
+    },
+    {
+      "q": "Según el art. 77.5 LPAC, los documentos formalizados por funcionarios a los que se reconoce la condición de autoridad, observando los requisitos legales, harán prueba de los hechos constatados...",
+      "options": [
+        "salvo que se acredite lo contrario",
+        "de forma absoluta e inatacable, sin posibilidad de prueba en contrario",
+        "únicamente si son ratificados judicialmente en un procedimiento penal",
+        "solo cuando el procedimiento tenga naturaleza tributaria"
+      ],
+      "correct": 0,
+      "exp": "El art. 77.5 LPAC establece una presunción de veracidad de esos documentos que admite prueba en contrario.",
+      "fuente": "Art. 77.5 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 77.5 LPAC (línea 1298): presunción de veracidad de documentos de funcionarios-autoridad salvo prueba en contrario; coincide literalmente."
+    },
+    {
+      "q": "El art. 78.1 LPAC exige que la Administración comunique a los interesados el inicio de las actuaciones necesarias para la práctica de las pruebas admitidas...",
+      "options": [
+        "con antelación suficiente",
+        "con al menos treinta días naturales de antelación",
+        "el mismo día en que vayan a practicarse, sin plazo previo",
+        "únicamente si el interesado lo solicita expresamente por escrito"
+      ],
+      "correct": 0,
+      "exp": "El art. 78.1 LPAC exige comunicar el inicio de las actuaciones de prueba con antelación suficiente, sin fijar un número concreto de días.",
+      "fuente": "Art. 78.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 78.1 LPAC (línea 1310): comunicación del inicio de la práctica de la prueba con antelación suficiente, sin plazo numérico fijado; coincide."
+    },
+    {
+      "q": "Según el art. 78.2 LPAC, en la notificación de la práctica de la prueba se consignará el lugar, fecha y hora, con la advertencia, en su caso, de que...",
+      "options": [
+        "el interesado puede nombrar técnicos para que le asistan",
+        "el interesado deberá comparecer asistido obligatoriamente de letrado",
+        "la prueba se practicará sin posibilidad de presencia del interesado",
+        "el interesado deberá aportar por escrito su conformidad previa con la prueba"
+      ],
+      "correct": 0,
+      "exp": "El art. 78.2 LPAC prevé que en la notificación se advierta, en su caso, de la posibilidad de nombrar técnicos que asistan al interesado.",
+      "fuente": "Art. 78.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 78.2 LPAC (línea 1311): advertencia de la posibilidad de nombrar técnicos que asistan al interesado; coincide literalmente."
+    },
+    {
+      "q": "Cuando, a petición del interesado, deban efectuarse pruebas cuya realización implique gastos que no deba soportar la Administración, el art. 78.3 LPAC permite a ésta...",
+      "options": [
+        "exigir el anticipo de los mismos, a reserva de la liquidación definitiva una vez practicada la prueba",
+        "denegar automáticamente la prueba solicitada por el interesado sin más trámite",
+        "repercutir los gastos en el resto de interesados del procedimiento, aunque no la hayan solicitado",
+        "suspender indefinidamente el procedimiento hasta que se resuelva sobre los gastos"
+      ],
+      "correct": 0,
+      "exp": "El art. 78.3 LPAC permite a la Administración exigir el anticipo de esos gastos, a reserva de la liquidación definitiva tras practicarse la prueba.",
+      "fuente": "Art. 78.3 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 78.3 LPAC (línea 1312): anticipo de gastos de prueba a reserva de liquidación definitiva; coincide literalmente."
+    },
+    {
+      "q": "Según el art. 79.1 LPAC, a efectos de la resolución del procedimiento se solicitarán los informes preceptivos por disposición legal y los que se juzguen necesarios para resolver...",
+      "options": [
+        "citándose el precepto que los exija o fundamentando, en su caso, la conveniencia de reclamarlos",
+        "sin necesidad de motivación alguna, bastando la mera petición verbal al órgano competente",
+        "solo si lo solicita expresamente el interesado en el escrito de iniciación del procedimiento",
+        "únicamente cuando el procedimiento tenga naturaleza sancionadora o de responsabilidad patrimonial"
+      ],
+      "correct": 0,
+      "exp": "El art. 79.1 LPAC exige citar el precepto que exige el informe preceptivo o fundamentar la conveniencia de reclamar el informe facultativo.",
+      "fuente": "Art. 79.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 79.1 LPAC (línea 1320): cita del precepto que exige el informe o fundamentación de su conveniencia; coincide literalmente."
+    },
+    {
+      "q": "El art. 79.2 LPAC establece que en la petición de informe...",
+      "options": [
+        "se concretará el extremo o extremos acerca de los que se solicita",
+        "deberá adjuntarse necesariamente copia íntegra del expediente completo",
+        "bastará una referencia genérica al procedimiento, sin mayor concreción",
+        "deberá fijarse un plazo mínimo de dos meses para su emisión"
+      ],
+      "correct": 0,
+      "exp": "El art. 79.2 LPAC exige concretar el extremo o extremos sobre los que se solicita el informe.",
+      "fuente": "Art. 79.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 79.2 LPAC (línea 1321): debe concretarse el extremo o extremos sobre los que se solicita el informe; coincide literalmente."
+    },
+    {
+      "q": "Según el art. 80.1 LPAC, salvo disposición expresa en contrario, los informes serán...",
+      "options": [
+        "facultativos y no vinculantes",
+        "preceptivos y vinculantes en todo caso",
+        "facultativos pero vinculantes para el órgano competente",
+        "preceptivos pero no vinculantes únicamente en materia sancionadora"
+      ],
+      "correct": 0,
+      "exp": "El art. 80.1 LPAC establece como regla general que, salvo disposición expresa en contrario, los informes son facultativos y no vinculantes.",
+      "fuente": "Art. 80.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 80.1 LPAC (línea 1325): regla general de informes facultativos y no vinculantes salvo disposición en contrario; coincide."
+    },
+    {
+      "q": "De acuerdo con el art. 80.2 LPAC, los informes serán emitidos a través de medios electrónicos, en el plazo de...",
+      "options": [
+        "diez días, salvo que una disposición o el cumplimiento del resto de plazos del procedimiento permita o exija otro plazo mayor o menor",
+        "un mes, en todo caso, sin excepción alguna",
+        "quince días hábiles, ampliable a treinta por causa justificada",
+        "cinco días, improrrogables bajo ninguna circunstancia"
+      ],
+      "correct": 0,
+      "exp": "El art. 80.2 LPAC fija en diez días el plazo general de emisión de informes por medios electrónicos, salvo que otra disposición o el resto de plazos del procedimiento exijan uno distinto.",
+      "fuente": "Art. 80.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 80.2 LPAC (línea 1326): plazo de diez días para emitir informes por medios electrónicos, salvo otro plazo mayor o menor exigido; coincide literalmente."
+    },
+    {
+      "q": "Según el art. 80.3 LPAC, si no se emite el informe en el plazo señalado, sin perjuicio de la responsabilidad del responsable de la demora, se podrán proseguir las actuaciones salvo...",
+      "options": [
+        "cuando se trate de un informe preceptivo, en cuyo caso se podrá suspender el plazo máximo legal para resolver en los términos del art. 22.1.d) LPAC",
+        "cuando el informe sea facultativo, en cuyo caso el procedimiento queda automáticamente caducado",
+        "cuando lo solicite el interesado, que podrá exigir la nulidad de todo lo actuado",
+        "cuando el informe proceda de un órgano de la misma Administración, en cuyo caso se prosigue siempre"
+      ],
+      "correct": 0,
+      "exp": "El art. 80.3 LPAC permite proseguir las actuaciones si no se emite el informe en plazo, salvo que sea preceptivo, caso en el que cabe suspender el plazo máximo para resolver conforme al art. 22.1.d) LPAC.",
+      "fuente": "Art. 80.3 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 80.3 LPAC (línea 1327): se puede proseguir salvo informe preceptivo, caso en que cabe suspender el plazo máximo conforme al art. 22.1.d) LPAC; coincide."
+    },
+    {
+      "q": "En los procedimientos de responsabilidad patrimonial, el art. 81.1 LPAC exige solicitar informe preceptivo al servicio cuyo funcionamiento haya ocasionado la presunta lesión, sin que el plazo de su emisión pueda exceder de...",
+      "options": [
+        "diez días",
+        "veinte días",
+        "un mes",
+        "quince días"
+      ],
+      "correct": 0,
+      "exp": "El art. 81.1 LPAC limita a diez días el plazo de emisión del informe preceptivo del servicio causante de la presunta lesión.",
+      "fuente": "Art. 81.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 81.1 LPAC (línea 1333): informe preceptivo del servicio causante de la lesión, plazo máximo de diez días; coincide literalmente."
+    },
+    {
+      "q": "Según el art. 81.2 LPAC, será preceptivo solicitar dictamen del Consejo de Estado u órgano consultivo equivalente cuando las indemnizaciones reclamadas sean de cuantía igual o superior a...",
+      "options": [
+        "50.000 euros, o a la que establezca la legislación autonómica correspondiente, debiendo emitirse el dictamen en el plazo de dos meses",
+        "30.000 euros, en todo caso, con un plazo de emisión de un mes",
+        "100.000 euros, con un plazo de emisión de tres meses",
+        "6.000 euros, con un plazo de emisión de quince días"
+      ],
+      "correct": 0,
+      "exp": "El art. 81.2 LPAC fija el umbral de 50.000 euros (o el que establezca la legislación autonómica) para el dictamen preceptivo del Consejo de Estado, que debe emitirse en dos meses.",
+      "fuente": "Art. 81.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 81.2 LPAC (línea 1334-1338): umbral de 50.000 euros (o el de la legislación autonómica) para el dictamen del Consejo de Estado, emitido en dos meses; coincide."
+    },
+    {
+      "q": "Según el art. 82.2 LPAC, en el trámite de audiencia los interesados podrán alegar y presentar documentos y justificaciones en un plazo...",
+      "options": [
+        "no inferior a diez días ni superior a quince",
+        "no inferior a quince días ni superior a veinte",
+        "de diez días improrrogables, en todo caso",
+        "no inferior a cinco días ni superior a diez"
+      ],
+      "correct": 0,
+      "exp": "El art. 82.2 LPAC fija el plazo del trámite de audiencia entre diez y quince días.",
+      "fuente": "Art. 82.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 82.2 LPAC (línea 1350): plazo de alegaciones y documentos en audiencia no inferior a diez días ni superior a quince; coincide literalmente."
+    },
+    {
+      "q": "El art. 82.4 LPAC permite prescindir del trámite de audiencia cuando...",
+      "options": [
+        "no figuren en el procedimiento ni sean tenidos en cuenta en la resolución otros hechos ni otras alegaciones y pruebas que las aducidas por el interesado",
+        "el procedimiento se tramite por el procedimiento simplificado, en todo caso",
+        "el interesado no haya comparecido en el trámite de información pública",
+        "hayan transcurrido más de tres meses desde la iniciación del procedimiento"
+      ],
+      "correct": 0,
+      "exp": "El art. 82.4 LPAC permite prescindir de la audiencia cuando no figuren en el procedimiento ni se tengan en cuenta en la resolución hechos, alegaciones o pruebas distintos de los aducidos por el interesado.",
+      "fuente": "Art. 82.4 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 82.4 LPAC (línea 1352): se puede prescindir de la audiencia si no hay hechos, alegaciones o pruebas distintos de los aducidos por el interesado; coincide literalmente."
+    },
+    {
+      "q": "Según el art. 82.1 LPAC, la audiencia a los interesados será anterior a...",
+      "options": [
+        "la solicitud del informe del órgano competente para el asesoramiento jurídico o la solicitud del Dictamen del Consejo de Estado u órgano consultivo equivalente, cuando formen parte del procedimiento",
+        "la apertura del período de prueba, que en todo caso debe ser posterior a la audiencia",
+        "el acuerdo de iniciación del procedimiento, que debe dictarse tras la audiencia",
+        "la notificación del acuerdo de acumulación de expedientes, si existiera"
+      ],
+      "correct": 0,
+      "exp": "El art. 82.1 LPAC exige que la audiencia sea anterior a la solicitud del informe de asesoramiento jurídico o del Dictamen del Consejo de Estado, cuando estos formen parte del procedimiento.",
+      "fuente": "Art. 82.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 82.1 LPAC (línea 1349): la audiencia debe ser anterior a la solicitud de informe jurídico o dictamen del Consejo de Estado cuando formen parte del procedimiento; coincide."
+    },
+    {
+      "q": "Según el art. 83.1 LPAC, el período de información pública podrá acordarse por el órgano al que corresponda la resolución del procedimiento...",
+      "options": [
+        "cuando la naturaleza de éste lo requiera",
+        "en todo procedimiento administrativo, con carácter obligatorio",
+        "únicamente en los procedimientos sancionadores",
+        "solo a petición expresa de todos los interesados personados"
+      ],
+      "correct": 0,
+      "exp": "El art. 83.1 LPAC configura la información pública como potestativa, acordable cuando la naturaleza del procedimiento lo requiera.",
+      "fuente": "Art. 83.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 83.1 LPAC (línea 1357): información pública potestativa cuando la naturaleza del procedimiento lo requiera; coincide literalmente."
+    },
+    {
+      "q": "El art. 83.2 LPAC establece que el anuncio de información pública determinará el plazo para formular alegaciones, que en ningún caso podrá ser inferior a...",
+      "options": [
+        "veinte días",
+        "diez días",
+        "quince días",
+        "un mes"
+      ],
+      "correct": 0,
+      "exp": "El art. 83.2 LPAC fija en veinte días el plazo mínimo para formular alegaciones en el trámite de información pública.",
+      "fuente": "Art. 83.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 83.2 LPAC (línea 1359): plazo de alegaciones en información pública no inferior a veinte días; coincide literalmente."
+    },
+    {
+      "q": "Según el art. 83.3 LPAC, la comparecencia en el trámite de información pública...",
+      "options": [
+        "no otorga, por sí misma, la condición de interesado, aunque quienes presenten alegaciones tienen derecho a una respuesta razonada",
+        "otorga automáticamente la condición de interesado a quien comparece, con plenos derechos procedimentales",
+        "impide a los interesados interponer los recursos procedentes contra la resolución definitiva",
+        "obliga a la Administración a suspender el procedimiento hasta resolver todas las alegaciones recibidas"
+      ],
+      "correct": 0,
+      "exp": "El art. 83.3 LPAC aclara que comparecer en información pública no otorga por sí misma la condición de interesado, si bien da derecho a una respuesta razonada de la Administración.",
+      "fuente": "Art. 83.3 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 83.3 LPAC (línea 1361): comparecer no otorga por sí misma la condición de interesado, pero da derecho a respuesta razonada; coincide literalmente."
+    }
+  ]
+}
