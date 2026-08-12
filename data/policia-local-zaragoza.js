@@ -5583,6 +5583,3427 @@ const QUESTIONS = {
     "exp": "El art. 97.1 ROF define el dictamen como la propuesta sometida al Pleno tras el estudio del expediente por la Comisión Informativa, que contiene una parte expositiva y un acuerdo a adoptar.",
     "fuente": "Art. 97.1 ROF (RD 2568/1986)",
     "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 79.1 de la LBRL (Ley 7/1985), el patrimonio de las Entidades locales está constituido por el conjunto de:",
+    "options": [
+      "Bienes, derechos y acciones que les pertenezcan",
+      "Únicamente los bienes inmuebles de su titularidad",
+      "Solo los ingresos tributarios recaudados cada año"
+    ],
+    "correct": 0,
+    "exp": "Art. 79.1 LBRL: 'El patrimonio de las Entidades locales está constituido por el conjunto de bienes, derechos y acciones que les pertenezcan.'"
+  },
+  {
+    "q": "Según el art. 79.2 de la LBRL, los bienes de las Entidades locales son:",
+    "options": [
+      "Únicamente patrimoniales, sin más distinción",
+      "De dominio público o patrimoniales",
+      "De dominio público exclusivamente"
+    ],
+    "correct": 1,
+    "exp": "Art. 79.2: 'Los bienes de las Entidades locales son de dominio público o patrimoniales.'"
+  },
+  {
+    "q": "Según el art. 79.3 de la LBRL, son bienes de dominio público:",
+    "options": [
+      "Todos los bienes inmuebles sin excepción",
+      "Solo los edificios administrativos",
+      "Los destinados a un uso o servicio público"
+    ],
+    "correct": 2,
+    "exp": "Art. 79.3: 'Son bienes de dominio público los destinados a un uso o servicio público.'"
+  },
+  {
+    "q": "Según el art. 79.3 de la LBRL, tienen la consideración de bienes comunales aquellos cuyo aprovechamiento corresponda:",
+    "options": [
+      "Al común de los vecinos",
+      "A una empresa concesionaria",
+      "Al Estado central en régimen de cesión"
+    ],
+    "correct": 0,
+    "exp": "Art. 79.3 in fine: 'Tienen la consideración de comunales aquellos cuyo aprovechamiento corresponda al común de los vecinos.'"
+  },
+  {
+    "q": "Según el art. 80.1 de la LBRL, los bienes comunales y demás bienes de dominio público son:",
+    "options": [
+      "Susceptibles de embargo por cualquier acreedor municipal",
+      "Inalienables, inembargables e imprescriptibles y no están sujetos a tributo alguno",
+      "Bienes sujetos al Impuesto sobre Bienes Inmuebles en todo caso"
+    ],
+    "correct": 1,
+    "exp": "Art. 80.1: 'Los bienes comunales y demás bienes de dominio público son inalienables, inembargables e imprescriptibles y no están sujetos a tributo alguno.'"
+  },
+  {
+    "q": "Según el art. 80.2 de la LBRL, los bienes patrimoniales se rigen por:",
+    "options": [
+      "El Derecho canónico supletoriamente",
+      "Ninguna norma, quedan a discreción del Alcalde",
+      "Su legislación específica y, en su defecto, por las normas de Derecho privado"
+    ],
+    "correct": 2,
+    "exp": "Art. 80.2: 'Los bienes patrimoniales se rigen por su legislación específica y, en su defecto, por las normas de Derecho privado.'"
+  },
+  {
+    "q": "Según el art. 81.1 de la LBRL, la alteración de la calificación jurídica de los bienes de las Entidades locales requiere:",
+    "options": [
+      "Expediente en el que se acrediten su oportunidad y legalidad",
+      "Únicamente un decreto del Alcalde sin más trámite",
+      "Referéndum municipal vinculante"
+    ],
+    "correct": 0,
+    "exp": "Art. 81.1: 'La alteración de la calificación jurídica de los bienes de las Entidades locales requiere expediente en el que se acrediten su oportunidad y legalidad.'"
+  },
+  {
+    "q": "Según el art. 81.2 de la LBRL, ¿en qué supuesto se produce automáticamente la alteración de la calificación jurídica de un bien, sin necesidad de expediente específico?",
+    "options": [
+      "Cambio de titular en la Alcaldía tras unas elecciones",
+      "Aprobación definitiva de los planes de ordenación urbana y de los proyectos de obras y servicios",
+      "Transcurso de diez años desde su adquisición"
+    ],
+    "correct": 1,
+    "exp": "Art. 81.2 a): la alteración se produce automáticamente, entre otros supuestos, por la aprobación definitiva de los planes de ordenación urbana y de los proyectos de obras y servicios."
+  },
+  {
+    "q": "Según el art. 81.2 b), también se produce automáticamente la alteración de la calificación jurídica cuando se adscriben bienes patrimoniales a un uso o servicio público por un plazo superior a:",
+    "options": [
+      "Cinco años",
+      "Cincuenta años",
+      "Veinticinco años"
+    ],
+    "correct": 2,
+    "exp": "Art. 81.2 b): 'Adscripción de bienes patrimoniales por más de veinticinco años a un uso o servicio públicos.'"
+  },
+  {
+    "q": "Según el art. 82 de la LBRL, las Entidades locales gozan, respecto de sus bienes de dominio público, de la prerrogativa de recuperar por sí mismas su posesión:",
+    "options": [
+      "En cualquier momento",
+      "Únicamente dentro del plazo de un año",
+      "Nunca, deben acudir siempre a los tribunales"
+    ],
+    "correct": 0,
+    "exp": "Art. 82 a): 'La de recuperar por sí mismas su posesión en cualquier momento cuando se trate de los de dominio público.'"
+  },
+  {
+    "q": "Según el art. 82 de la LBRL, respecto de los bienes patrimoniales, la prerrogativa de recuperar su posesión por sí mismas se limita al plazo de:",
+    "options": [
+      "Cinco años",
+      "Un año",
+      "Veinticinco años"
+    ],
+    "correct": 1,
+    "exp": "Art. 82 a) in fine: '...y, en el plazo de un año, los patrimoniales.'"
+  },
+  {
+    "q": "Según el art. 82 b) de la LBRL, además de la recuperación posesoria, las Entidades locales gozan de la prerrogativa de:",
+    "options": [
+      "Confiscación de bienes de particulares colindantes",
+      "Anulación unilateral de cualquier contrato privado",
+      "Deslinde, que se ajustará a la legislación del Patrimonio del Estado y, en su caso, a la de montes"
+    ],
+    "correct": 2,
+    "exp": "Art. 82 b): 'La de deslinde, que se ajustará a lo dispuesto, en la legislación del Patrimonio del Estado y, en su caso, en la legislación de los montes.'"
+  },
+  {
+    "q": "Según el art. 83 de la LBRL, los montes vecinales en mano común se regulan por:",
+    "options": [
+      "Su legislación específica",
+      "El Código Civil exclusivamente",
+      "El Reglamento de Bienes de las Entidades Locales, sin excepción"
+    ],
+    "correct": 0,
+    "exp": "Art. 83: 'Los montes vecinales en mano común se regulan por su legislación específica.'"
+  },
+  {
+    "q": "El Capítulo I del Título VI de la LBRL, dedicado a los bienes de las Entidades locales, comprende los artículos:",
+    "options": [
+      "89 al 91",
+      "79 al 83",
+      "19 al 23"
+    ],
+    "correct": 1,
+    "exp": "El Capítulo I del Título VI de la LBRL ('Bienes') comprende los artículos 79 a 83."
+  },
+  {
+    "q": "Según el art. 22.2 l) de la LBRL, corresponde al Pleno municipal:",
+    "options": [
+      "La firma de contratos menores de escasa cuantía",
+      "La gestión diaria del inventario municipal",
+      "La alteración de la calificación jurídica de los bienes de dominio público"
+    ],
+    "correct": 2,
+    "exp": "Art. 22.2 l) LBRL: corresponde al Pleno 'la alteración de la calificación jurídica de los bienes de dominio público.'"
+  },
+  {
+    "q": "Según el art. 2.1 del Reglamento de Bienes de las Entidades Locales (RD 1372/1986), los bienes de las Entidades locales se clasifican en:",
+    "options": [
+      "Bienes de dominio público y bienes patrimoniales",
+      "Bienes urbanos y bienes rústicos exclusivamente",
+      "Bienes registrados y bienes no registrados"
+    ],
+    "correct": 0,
+    "exp": "Art. 2.1 RBEL: 'Los bienes de las Entidades locales se clasificarán en bienes de dominio público y bienes patrimoniales.'"
+  },
+  {
+    "q": "Según el art. 2 del RBEL, los bienes de dominio público serán de:",
+    "options": [
+      "Uso exclusivo del Alcalde",
+      "Uso o servicio público",
+      "Explotación privada mediante concesión obligatoria"
+    ],
+    "correct": 1,
+    "exp": "Art. 2 RBEL: 'Los bienes de dominio público serán de uso o servicio público.'"
+  },
+  {
+    "q": "Según el art. 2 del RBEL, tienen la consideración de bienes comunales aquellos que, siendo de dominio público, su aprovechamiento corresponde:",
+    "options": [
+      "Al Estado en su totalidad",
+      "A una única familia fundadora",
+      "Al común de los vecinos"
+    ],
+    "correct": 2,
+    "exp": "Art. 2 RBEL: 'Tienen la consideración de comunales aquellos bienes que siendo de dominio público, su aprovechamiento corresponde al común de los vecinos.'"
+  },
+  {
+    "q": "Según el art. 2.4 del RBEL, los bienes comunales solo podrán pertenecer a:",
+    "options": [
+      "Los Municipios y a las Entidades locales menores",
+      "Cualquier tipo de Entidad Local sin excepción",
+      "Las Diputaciones Provinciales exclusivamente"
+    ],
+    "correct": 0,
+    "exp": "Art. 2.4 RBEL: 'Los bienes comunales solo podrán pertenecer a los municipios y a las entidades locales menores.'"
+  },
+  {
+    "q": "Según el art. 3.1 del RBEL, son bienes de uso público local:",
+    "options": [
+      "Solo los bienes inscritos en el Registro de la Propiedad",
+      "Los caminos, plazas, calles, paseos, parques, aguas de fuentes y estanques, puentes y demás obras públicas de aprovechamiento general",
+      "Exclusivamente los montes de titularidad estatal"
+    ],
+    "correct": 1,
+    "exp": "Art. 3.1 RBEL: 'Son bienes de uso público local los caminos, plazas, calles, paseos, parques, aguas de fuentes y estanques, puentes y demás obras públicas de aprovechamiento o utilización generales.'"
+  },
+  {
+    "q": "Según el art. 3.1 del RBEL, la conservación y policía de los bienes de uso público local corresponde a:",
+    "options": [
+      "El Estado central exclusivamente",
+      "Una empresa concesionaria privada obligatoria",
+      "La competencia de la Entidad local"
+    ],
+    "correct": 2,
+    "exp": "Art. 3.1 RBEL: bienes '...cuya conservación y policía sean de la competencia de la entidad local.'"
+  },
+  {
+    "q": "Según el art. 5 del RBEL (según se recoge en la práctica administrativa), tienen la consideración de bienes patrimoniales o de propios los que, siendo propiedad de la Entidad Local:",
+    "options": [
+      "No estén destinados a uso público ni afectados a algún servicio público",
+      "Estén destinados exclusivamente a servicio público",
+      "Formen parte del dominio público marítimo-terrestre"
+    ],
+    "correct": 0,
+    "exp": "El art. 5 RBEL define los bienes patrimoniales o de propios como los que, siendo propiedad de la Entidad Local, no estén destinados a uso público ni afectados a algún servicio público."
+  },
+  {
+    "q": "Según el art. 7 del RBEL, se clasificarán como bienes patrimoniales, entre otros supuestos:",
+    "options": [
+      "Los caminos y plazas de uso público general",
+      "Las parcelas sobrantes y los efectos no utilizables",
+      "Los montes vecinales en mano común"
+    ],
+    "correct": 1,
+    "exp": "Art. 7.1 RBEL: 'Se clasificarán como bienes patrimoniales las parcelas sobrantes y los efectos no utilizables.'"
+  },
+  {
+    "q": "Según el art. 1 del RBEL, el régimen de bienes de las Entidades locales se rige, entre otras normas, por la legislación básica del Estado en materia de régimen local y por:",
+    "options": [
+      "Únicamente el Derecho canónico",
+      "Las costumbres locales sin respaldo normativo",
+      "La legislación básica del Estado reguladora del régimen jurídico de los bienes de las Administraciones Públicas"
+    ],
+    "correct": 2,
+    "exp": "Art. 1 RBEL: el régimen se rige por la legislación básica estatal de régimen local, por la legislación básica estatal sobre bienes de las Administraciones Públicas, y por la legislación autonómica y estatal supletoria correspondiente."
+  },
+  {
+    "q": "El Capítulo I del Título Primero del RBEL se titula:",
+    "options": [
+      "Concepto y clasificación de los bienes",
+      "Del patrimonio de las Entidades Locales",
+      "Conservación y tutela de bienes"
+    ],
+    "correct": 0,
+    "exp": "El Capítulo I del Título Primero del RBEL ('Bienes') lleva por título 'Concepto y clasificación de los bienes' y comprende los artículos 1 a 8."
+  },
+  {
+    "q": "El Capítulo II del Título Primero del RBEL se titula:",
+    "options": [
+      "Concepto y clasificación de los bienes",
+      "Del patrimonio de las Entidades Locales",
+      "Desahucio por vía administrativa"
+    ],
+    "correct": 1,
+    "exp": "El Capítulo II del Título Primero del RBEL lleva por título 'Del patrimonio de las Entidades Locales' y comprende los artículos 9 a 16."
+  },
+  {
+    "q": "El Capítulo III del Título Primero del RBEL, 'Conservación y tutela de bienes', incluye entre sus secciones:",
+    "options": [
+      "Únicamente la enajenación de bienes",
+      "Solo el aprovechamiento de bienes comunales",
+      "Del inventario y registro de los bienes"
+    ],
+    "correct": 2,
+    "exp": "El Capítulo III del Título Primero del RBEL ('Conservación y tutela de bienes') incluye la Sección 1ª ('Del inventario y registro de los bienes') y la Sección 2ª ('Administración')."
+  },
+  {
+    "q": "Según la práctica del RBEL, en el libro de inventarios y balances se reflejarán anualmente:",
+    "options": [
+      "Los bienes, derechos y acciones de la Entidad local y sus alteraciones, así como la situación del activo y pasivo",
+      "Solo los ingresos tributarios del ejercicio",
+      "Únicamente las nóminas del personal municipal"
+    ],
+    "correct": 0,
+    "exp": "El RBEL prevé que en el libro de inventarios y balances se reflejen anualmente los bienes, derechos y acciones de la Entidad local y sus alteraciones, así como la situación del activo y pasivo, para determinar el verdadero patrimonio en cada ejercicio."
+  },
+  {
+    "q": "Según el art. 36 del RBEL, las Corporaciciones locales deberán inscribir en el Registro de la Propiedad:",
+    "options": [
+      "Únicamente los bienes muebles de valor artístico",
+      "Sus bienes inmuebles y derechos reales, de acuerdo con la legislación hipotecaria",
+      "Exclusivamente los vehículos de su parque móvil"
+    ],
+    "correct": 1,
+    "exp": "Art. 36.1 RBEL: 'Las Corporaciones locales deberán inscribir en el Registro de la Propiedad sus bienes inmuebles y derechos reales, de acuerdo con lo previsto en la legislación hipotecaria.'"
+  },
+  {
+    "q": "El Capítulo IV del Título Primero del RBEL, 'Disfrute y aprovechamiento de los bienes', se divide en tres secciones dedicadas a:",
+    "options": [
+      "Únicamente la enajenación de inmuebles",
+      "La organización de la Junta de Gobierno Local",
+      "Utilización de bienes de dominio público, utilización de bienes patrimoniales, y aprovechamiento de bienes comunales"
+    ],
+    "correct": 2,
+    "exp": "El Capítulo IV se divide en Sección 1ª (Utilización de los bienes de dominio público, arts. 74-91), Sección 2ª (Utilización de los bienes patrimoniales, arts. 92-93) y Sección 3ª (Aprovechamiento y disfrute de los bienes comunales, arts. 94-108)."
+  },
+  {
+    "q": "El Capítulo V del Título Primero del RBEL se titula:",
+    "options": [
+      "Enajenación",
+      "Concepto y clasificación de los bienes",
+      "Conservación y tutela de bienes"
+    ],
+    "correct": 0,
+    "exp": "El Capítulo V del Título Primero del RBEL lleva por título 'Enajenación' y comprende los artículos 109 a 118."
+  },
+  {
+    "q": "Según el art. 109.1 del RBEL, las enajenaciones de bienes patrimoniales habrán de realizarse, como regla general, por:",
+    "options": [
+      "Sorteo público entre interesados",
+      "Subasta pública, salvo que se trate de una permuta o de otros supuestos previstos legalmente",
+      "Adjudicación directa al mejor postor sin publicidad"
+    ],
+    "correct": 1,
+    "exp": "Art. 109.1 RBEL: 'Las enajenaciones de bienes patrimoniales habrán de realizarse, como regla general, por subasta pública, salvo que se trate de una permuta o de otros supuestos previstos legalmente.'"
+  },
+  {
+    "q": "Según el art. 109.2 del RBEL, las parcelas sobrantes y los bienes no utilizables pueden ser enajenados por:",
+    "options": [
+      "Donación gratuita automática a cualquier tercero",
+      "Cesión al Estado sin contraprestación",
+      "Venta directa, con arreglo a su valoración pericial"
+    ],
+    "correct": 2,
+    "exp": "Art. 109.2 RBEL: 'las parcelas sobrantes y los bienes no utilizables podrán ser enajenados por venta directa, con arreglo a su valoración pericial.'"
+  },
+  {
+    "q": "Según el art. 109.2 del RBEL, las parcelas sobrantes serán ofrecidas preferentemente a:",
+    "options": [
+      "El propietario o propietarios colindantes",
+      "El primer postor en una subasta pública",
+      "El Ministerio de Hacienda"
+    ],
+    "correct": 0,
+    "exp": "Art. 109.2 RBEL: 'Las parcelas sobrantes serán ofrecidas al propietario o propietarios colindantes o permutadas con terrenos de los mismos.'"
+  },
+  {
+    "q": "Según el art. 110 del RBEL, los ingresos obtenidos por la enajenación de bienes patrimoniales no podrán destinarse, con carácter general, a:",
+    "options": [
+      "Invertirse en nuevas infraestructuras municipales",
+      "Financiar gastos corrientes, salvo las excepciones previstas",
+      "Ser repartidos entre los vecinos del municipio"
+    ],
+    "correct": 1,
+    "exp": "Art. 110 RBEL: 'Los ingresos obtenidos por la enajenación de bienes patrimoniales no podrán destinarse a financiar gastos corrientes, salvo que se trate de las parcelas sobrantes o efectos no utilizables a que se refiere el artículo 5 de este Reglamento.'"
+  },
+  {
+    "q": "Según el art. 111 del RBEL, la enajenación de bienes del Patrimonio Municipal del Suelo se ajustará a:",
+    "options": [
+      "Las mismas reglas que cualquier otro bien patrimonial, sin especialidad alguna",
+      "La normativa de contratos del Estado, con exclusión de la urbanística",
+      "Su normativa específica prevista en la legislación urbanística"
+    ],
+    "correct": 2,
+    "exp": "Art. 111 RBEL: 'La enajenación de bienes del Patrimonio Municipal del Suelo de los municipios se ajustará a su normativa específica prevista en la legislación urbanística.'"
+  },
+  {
+    "q": "Según la regulación básica sobre bienes patrimoniales locales (art. 79 TRRL, en línea con el art. 109 RBEL), los bienes inmuebles patrimoniales no pueden enajenarse, gravarse ni permutarse sin autorización del órgano competente de la Comunidad Autónoma cuando su valor exceda del:",
+    "options": [
+      "25 por 100 de los recursos ordinarios del presupuesto anual de la corporación",
+      "10 por 100 de los recursos ordinarios del presupuesto",
+      "50 por 100 del presupuesto total municipal"
+    ],
+    "correct": 0,
+    "exp": "Conforme al art. 79 TRRL (recogido también en el art. 109 RBEL): 'Los bienes inmuebles patrimoniales no podrán enajenarse, gravarse ni permutarse sin autorización del órgano competente de la Comunidad autónoma, cuando su valor exceda del 25 por 100 de los recursos ordinarios del Presupuesto anual de la corporación.'"
+  },
+  {
+    "q": "Según la misma regulación, aun sin superar ese umbral del 25%, ¿qué obligación de información subsiste respecto a toda enajenación de bienes inmuebles locales?",
+    "options": [
+      "Ninguna, no existe obligación de comunicación en absoluto",
+      "Se dará cuenta al órgano competente de la Comunidad Autónoma de toda enajenación que se produzca",
+      "Se comunica únicamente al Tribunal de Cuentas europeo"
+    ],
+    "correct": 1,
+    "exp": "'No obstante, se dará cuenta al órgano competente de la Comunidad autónoma de toda enajenación de bienes inmuebles que se produzca', aunque no se supere el umbral que exige autorización previa."
+  },
+  {
+    "q": "Según esta misma regulación sobre bienes patrimoniales, los bienes inmuebles patrimoniales no pueden cederse gratuitamente salvo a:",
+    "options": [
+      "Cualquier empresa privada con fines lucrativos",
+      "Ninguna entidad, la cesión gratuita está prohibida en todo caso",
+      "Entidades o instituciones públicas para fines de beneficio de los vecinos, o a instituciones privadas de interés público sin ánimo de lucro"
+    ],
+    "correct": 2,
+    "exp": "'Los bienes inmuebles patrimoniales no podrán cederse gratuitamente sino a entidades o instituciones públicas para fines que redunden en beneficio de los habitantes del término municipal, así como a las instituciones privadas de interés público sin ánimo de lucro.'"
+  },
+  {
+    "q": "Según el art. 110.1 de la Ley 33/2003, de Patrimonio de las Administraciones Públicas (LPAP), de aplicación general y supletoria a las Entidades Locales, los contratos, convenios y demás negocios jurídicos sobre bienes y derechos patrimoniales se rigen, en su preparación y adjudicación, por:",
+    "options": [
+      "La propia LPAP y sus disposiciones de desarrollo, y en lo no previsto, por la legislación de contratos de las Administraciones Públicas",
+      "El Derecho canónico, con carácter supletorio",
+      "Ninguna norma jurídica, quedando a discreción de cada Corporación"
+    ],
+    "correct": 0,
+    "exp": "Art. 110.1 LPAP: 'Los contratos, convenios y demás negocios jurídicos sobre bienes y derechos patrimoniales se regirán en cuanto a su preparación y ejecución, por esta ley y sus disposiciones de desarrollo y, en lo no previsto en estas normas, por la legislación de contratos de las Administraciones Públicas.'"
+  },
+  {
+    "q": "Según el art. 110.1 de la LPAP, los efectos y extinción de esos negocios jurídicos patrimoniales se rigen por:",
+    "options": [
+      "Exclusivamente el Derecho penal",
+      "Esta Ley y las normas de Derecho privado",
+      "Las normas del Derecho canónico"
+    ],
+    "correct": 1,
+    "exp": "Art. 110.1 LPAP: 'Sus efectos y extinción se regirán por esta Ley y las normas de derecho privado.'"
+  },
+  {
+    "q": "Según los principios generales de la gestión patrimonial pública recogidos en la LPAP, la adquisición, explotación y enajenación de bienes patrimoniales debe ajustarse, entre otros, a los principios de:",
+    "options": [
+      "Discrecionalidad absoluta y confidencialidad total",
+      "Prioridad exclusiva del interés del contratista",
+      "Publicidad, transparencia, concurrencia y objetividad"
+    ],
+    "correct": 2,
+    "exp": "La gestión de los bienes y derechos patrimoniales debe ajustarse a los principios de publicidad, transparencia, concurrencia y objetividad en su adquisición, explotación y enajenación."
+  },
+  {
+    "q": "¿Qué naturaleza jurídica tiene, con carácter general, el RBEL (Real Decreto 1372/1986) respecto a la legislación autonómica en materia de bienes locales?",
+    "options": [
+      "Es una norma sin carácter básico que cede ante la legislación autonómica, aunque goza de aplicabilidad supletoria en su defecto",
+      "Es una norma básica estatal que prevalece siempre sobre cualquier ley autonómica",
+      "Solo es aplicable a los municipios de gran población"
+    ],
+    "correct": 0,
+    "exp": "El RBEL es una norma reglamentaria sin carácter básico, que cede ante la legislación autonómica de desarrollo, pero conserva aplicabilidad supletoria en defecto de dicha legislación."
+  },
+  {
+    "q": "¿A qué Decreto anterior vino a sustituir el Reglamento de Bienes de las Entidades Locales de 1986, en cumplimiento de la disposición final primera de la LBRL?",
+    "options": [
+      "La Ley de Régimen Local de 1955",
+      "El Reglamento de Bienes de las Entidades Locales aprobado por Decreto de 27 de mayo de 1952",
+      "El Real Decreto Legislativo 781/1986"
+    ],
+    "correct": 1,
+    "exp": "La disposición final primera de la LBRL ordenó actualizar 'el reglamento de bienes de las entidades locales, aprobado por decreto de 27 de mayo de 1952', dando lugar al vigente RD 1372/1986."
+  },
+  {
+    "q": "Según el art. 2.3 del RBEL, en relación con el art. 79.3 LBRL, ¿qué característica adicional se atribuye a los bienes comunales, más allá de ser bienes de dominio público?",
+    "options": [
+      "Que se transmiten por herencia a los descendientes de los vecinos",
+      "Que pierden su carácter demanial tras diez años de desuso",
+      "Que son inalienables, inembargables e imprescriptibles y no sujetos a tributo alguno"
+    ],
+    "correct": 2,
+    "exp": "El art. 2.3 RBEL, en coherencia con el art. 79.3 y 80.1 LBRL, señala que los bienes comunales, al ser bienes de dominio público, son inalienables, inembargables e imprescriptibles y no sujetos a tributo alguno."
+  },
+  {
+    "q": "¿A quién corresponde el derecho de aprovechamiento y disfrute de los bienes comunales, según el RBEL?",
+    "options": [
+      "A los vecinos, simultáneamente y sin distinción de sexo, estado civil o edad, así como a los extranjeros domiciliados en el término municipal",
+      "Únicamente al Alcalde en su condición de representante",
+      "Exclusivamente a los residentes con más de veinte años de antigüedad"
+    ],
+    "correct": 0,
+    "exp": "El derecho al aprovechamiento y disfrute de los bienes comunales corresponde simultáneamente a los vecinos sin distinción de sexo, estado civil o edad, y también a los extranjeros domiciliados en el término municipal."
+  },
+  {
+    "q": "Según la sistemática legal (arts. 22.l), 47.i) n) y 79-81 LBRL, junto con arts. 74-75 RBEL), ¿qué normativa se aplica supletoriamente en materia de bienes comunales cuando la legislación estatal y autonómica no cubre un supuesto?",
+    "options": [
+      "La legislación urbanística estatal, sin excepción",
+      "Las normas consuetudinarias y las Ordenanzas propias de cada Entidad Local",
+      "Ninguna, queda un vacío normativo insalvable"
+    ],
+    "correct": 1,
+    "exp": "En defecto de legislación estatal y autonómica específica, se aplican las normas consuetudinarias y las Ordenanzas propias de cada Entidad Local en materia de bienes comunales."
+  },
+  {
+    "q": "¿Cuál es la diferencia esencial, en cuanto a régimen jurídico, entre los bienes demaniales (de dominio público) y los bienes patrimoniales de una Entidad Local?",
+    "options": [
+      "Los patrimoniales son siempre inembargables, igual que los demaniales",
+      "Los demaniales pueden venderse libremente sin ningún requisito",
+      "Los demaniales se rigen por un régimen jurídico especial vinculado a la satisfacción de necesidades públicas; los patrimoniales se rigen, en general, por el Derecho privado"
+    ],
+    "correct": 2,
+    "exp": "Los bienes demaniales se rigen por un régimen jurídico especial vinculado a la satisfacción directa de necesidades públicas (inalienabilidad, inembargabilidad, imprescriptibilidad); los patrimoniales, en cambio, se rigen por su legislación específica y, en su defecto, por el Derecho privado."
+  },
+  {
+    "q": "¿Qué tipo de bienes integran, junto con los de uso público y los comunales, la categoría más amplia de 'bienes de dominio público' de las Entidades Locales?",
+    "options": [
+      "Los bienes de servicio público, destinados directamente al cumplimiento de fines públicos administrativos o económicos",
+      "Únicamente los bienes heredados de particulares",
+      "Exclusivamente los bienes situados en el casco histórico"
+    ],
+    "correct": 0,
+    "exp": "Dentro del dominio público local se distinguen los bienes de uso público (calles, plazas, parques) y los bienes de servicio público (destinados directamente al cumplimiento de fines públicos, como edificios administrativos o instalaciones de servicios), junto con los comunales."
+  },
+  {
+    "q": "¿Qué órgano es, con carácter general, el competente para acordar la enajenación de un bien patrimonial cuya cuantía supere los límites atribuidos a la Alcaldía como órgano de contratación?",
+    "options": [
+      "El Secretario municipal por delegación automática",
+      "El Pleno de la Corporación",
+      "El Defensor del Pueblo"
+    ],
+    "correct": 1,
+    "exp": "Al igual que en la contratación general, cuando la cuantía de la enajenación supera los límites competenciales de la Alcaldía, la competencia corresponde al Pleno de la Corporación."
+  },
+  {
+    "q": "En síntesis, ¿qué dos grandes categorías de bienes distingue el régimen jurídico patrimonial de las Entidades Locales español, y qué principal diferencia práctica tienen entre sí?",
+    "options": [
+      "Bienes urbanos y bienes rústicos, sin más diferencia relevante",
+      "Bienes muebles y bienes inmuebles, siendo ambos igualmente inalienables",
+      "Bienes de dominio público (inalienables, inembargables, imprescriptibles) y bienes patrimoniales (enajenables conforme a Derecho, generalmente por subasta pública)"
+    ],
+    "correct": 2,
+    "exp": "El régimen distingue bienes de dominio público (inalienables, inembargables e imprescriptibles, afectados a un uso o servicio público) de bienes patrimoniales (que la Entidad Local posee en régimen similar al de la propiedad privada y que, en general, pueden enajenarse siguiendo el procedimiento legal, ordinariamente mediante subasta pública)."
+  },
+  {
+    "q": "Según el art. 74 del RBEL (que abre la Sección 1ª del Capítulo IV, Utilización de los bienes de dominio público), el uso de estos bienes puede ser:",
+    "options": [
+      "Común o privativo, general o especial",
+      "Únicamente privativo, nunca común",
+      "Exclusivamente gratuito para los vecinos"
+    ],
+    "correct": 0,
+    "exp": "El art. 74 RBEL, junto con los siguientes de la Sección 1ª, clasifica el uso de los bienes de dominio público en común (general o especial) y privativo, según la intensidad de la ocupación."
+  },
+  {
+    "q": "Según la sistemática del RBEL, el uso privativo de un bien de dominio público local que conlleve una ocupación con obras o instalaciones fijas se somete, con carácter general, a:",
+    "options": [
+      "Simple autorización verbal del vecino colindante",
+      "Concesión administrativa",
+      "Aprobación exclusiva del Pleno sin informe técnico"
+    ],
+    "correct": 1,
+    "exp": "El uso privativo de bienes de dominio público que implique una transformación o exclusión de la utilización por terceros (ocupación con instalaciones fijas) se somete, con carácter general, a concesión administrativa."
+  },
+  {
+    "q": "Según la sistemática del RBEL, el uso común especial de un bien de dominio público local (por ejemplo, una terraza de un bar en la vía pública) se somete, con carácter general, a:",
+    "options": [
+      "Expropiación forzosa previa",
+      "Subasta pública obligatoria",
+      "Licencia"
+    ],
+    "correct": 2,
+    "exp": "El uso común especial de los bienes de dominio público (uso diferenciado que no excluye a otros usuarios de forma permanente, como una terraza) se sujeta, con carácter general, al régimen de licencia."
+  },
+  {
+    "q": "La Sección 2ª del Capítulo IV del RBEL, 'Utilización de los bienes patrimoniales', comprende los artículos:",
+    "options": [
+      "92 y 93",
+      "74 al 91",
+      "94 al 108"
+    ],
+    "correct": 0,
+    "exp": "La Sección 2ª ('Utilización de los bienes patrimoniales') del Capítulo IV comprende únicamente los artículos 92 y 93."
+  },
+  {
+    "q": "La Sección 3ª del Capítulo IV del RBEL, 'Del aprovechamiento y disfrute de los bienes comunales', comprende los artículos:",
+    "options": [
+      "74 al 91",
+      "94 al 108",
+      "109 al 118"
+    ],
+    "correct": 1,
+    "exp": "La Sección 3ª ('Del aprovechamiento y disfrute de los bienes comunales') del Capítulo IV comprende los artículos 94 a 108."
+  },
+  {
+    "q": "¿Qué forma de aprovechamiento de los bienes comunales es la más tradicional y extendida entre los vecinos, según la práctica administrativa del RBEL?",
+    "options": [
+      "La cesión gratuita a una empresa multinacional",
+      "La expropiación forzosa a favor de la Diputación",
+      "El aprovechamiento en régimen de explotación común o cultivo, o mediante adjudicación por lotes o suertes entre los vecinos"
+    ],
+    "correct": 2,
+    "exp": "El RBEL regula distintas modalidades de aprovechamiento comunal, siendo tradicionales el aprovechamiento común (pastos, leñas) y el aprovechamiento por lotes o suertes entre los vecinos con derecho reconocido."
+  },
+  {
+    "q": "Según los principios generales del régimen de bienes comunales, ¿puede una Entidad Local desafectar un bien comunal para convertirlo en patrimonial?",
+    "options": [
+      "Sí, mediante el correspondiente expediente de alteración de la calificación jurídica, acreditando su oportunidad y legalidad",
+      "Sí, pero solo mediante ley orgánica estatal",
+      "No, salvo que lo autorice directamente el Rey"
+    ],
+    "correct": 0,
+    "exp": "Al igual que cualquier otro bien de dominio público, un bien comunal puede desafectarse y pasar a la condición de patrimonial mediante el expediente de alteración de la calificación jurídica previsto en el art. 81 LBRL, acreditando su oportunidad y legalidad."
+  },
+  {
+    "q": "¿Cuál es la relación entre el art. 79 LBRL y el art. 2 del RBEL en materia de clasificación de bienes locales?",
+    "options": [
+      "No existe relación alguna entre ambos preceptos",
+      "El RBEL desarrolla reglamentariamente la clasificación básica ya establecida en la LBRL, precisando conceptos como el de bienes comunales",
+      "El RBEL deroga tácitamente al art. 79 LBRL"
+    ],
+    "correct": 1,
+    "exp": "El art. 2 RBEL desarrolla reglamentariamente la clasificación básica de bienes (dominio público/patrimoniales, y dentro del dominio público, uso/servicio público/comunales) ya establecida con carácter básico por el art. 79 LBRL."
+  },
+  {
+    "q": "Según el RBEL, ¿qué información debe constar en el inventario municipal respecto a cada bien, entre otros datos?",
+    "options": [
+      "Solo la fecha de redacción del inventario, sin más detalle",
+      "Exclusivamente el color de la fachada del inmueble",
+      "La naturaleza de dominio público o patrimonial del bien, con expresión de si se trata de bienes de uso o servicio público, patrimoniales o comunales"
+    ],
+    "correct": 2,
+    "exp": "El RBEL exige que en el inventario conste, entre otros datos, la naturaleza de dominio público o patrimonial del bien, especificando si se trata de uso público, servicio público, patrimonial o comunal, así como su título de adquisición y situación registral."
+  },
+  {
+    "q": "Según el RBEL, respecto a las vías públicas, el inventario debe incluir datos necesarios para su individualización, con especial referencia a:",
+    "options": [
+      "Sus límites, longitud y anchura",
+      "El número de farolas instaladas",
+      "La marca del vehículo municipal que las limpia"
+    ],
+    "correct": 0,
+    "exp": "El RBEL exige que, tratándose de vías públicas, el inventario recoja los datos necesarios para su individualización, con especial referencia a sus límites, longitud y anchura."
+  },
+  {
+    "q": "¿Con qué periodicidad debe procederse a la rectificación del inventario de bienes de una Entidad Local, según la práctica habitual derivada del RBEL?",
+    "options": [
+      "Cada cincuenta años exactamente",
+      "Anualmente, y siempre que se produzca alguna alteración en los bienes inventariados",
+      "Nunca, el inventario es un documento fijo e inmodificable"
+    ],
+    "correct": 1,
+    "exp": "El inventario de bienes debe rectificarse anualmente y comprobarse siempre que se renueve la Corporación, reflejando cualquier alteración producida en los bienes."
+  },
+  {
+    "q": "¿Quién tiene la obligación legal de formar, mantener y rectificar el inventario de bienes de cada Entidad Local?",
+    "options": [
+      "Únicamente el Registro de la Propiedad",
+      "El Ministerio de Hacienda para todos los municipios de España",
+      "La propia Entidad Local, bajo la responsabilidad de sus órganos competentes"
+    ],
+    "correct": 2,
+    "exp": "Cada Entidad Local tiene la obligación de formar, mantener actualizado y custodiar su propio inventario de bienes, derechos y acciones, bajo la responsabilidad de sus órganos competentes."
+  },
+  {
+    "q": "¿Qué relación guarda el Secretario de la Corporación con la conservación y tutela de los bienes de la Entidad Local, según la práctica administrativa?",
+    "options": [
+      "Suele desempeñar funciones de custodia documental y asesoramiento jurídico en los expedientes relativos a bienes, en su condición de funcionario de habilitación nacional",
+      "No tiene ninguna función relacionada con los bienes municipales",
+      "Sustituye al Pleno en la toma de decisiones sobre bienes"
+    ],
+    "correct": 0,
+    "exp": "El Secretario de la Corporación, como funcionario de habilitación nacional, desempeña funciones de asesoramiento jurídico y custodia documental en los expedientes relativos a la conservación, tutela y disposición de los bienes municipales."
+  },
+  {
+    "q": "¿Qué tipo de responsabilidad puede derivarse para los miembros de una Corporación Local que dispongan irregularmente de un bien de dominio público sin la debida desafectación previa?",
+    "options": [
+      "Ninguna responsabilidad, la irregularidad queda sin consecuencias",
+      "Responsabilidad administrativa, e incluso penal o patrimonial según el caso, dada la condición de inalienable del bien",
+      "Responsabilidad exclusivamente civil frente al comprador"
+    ],
+    "correct": 1,
+    "exp": "La disposición irregular de un bien de dominio público sin la previa desafectación puede generar responsabilidad administrativa, patrimonial o incluso penal para los responsables, dado el carácter inalienable e imprescriptible de estos bienes."
+  },
+  {
+    "q": "¿Qué diferencia existe entre la 'afectación' y la 'desafectación' de un bien en el régimen patrimonial local?",
+    "options": [
+      "La afectación solo se aplica a bienes muebles",
+      "La desafectación es un trámite exclusivamente notarial sin intervención administrativa",
+      "La afectación destina un bien patrimonial a un uso o servicio público, convirtiéndolo en demanial; la desafectación hace lo contrario"
+    ],
+    "correct": 2,
+    "exp": "La afectación es el acto por el cual un bien patrimonial se destina a un uso o servicio público, adquiriendo la condición de bien de dominio público; la desafectación es el proceso inverso, que devuelve al bien su condición patrimonial."
+  },
+  {
+    "q": "Según el régimen general aplicable, ¿puede una Entidad Local adquirir bienes mediante donación de un particular?",
+    "options": [
+      "Sí, mediante el correspondiente expediente de aceptación, que deberá acreditar su oportunidad y legalidad",
+      "No, las donaciones a Entidades Locales están prohibidas por ley",
+      "Sí, pero solo si el donante es otra Administración Pública"
+    ],
+    "correct": 0,
+    "exp": "Las Entidades Locales pueden adquirir bienes por donación, mediante el correspondiente expediente de aceptación, en el que se acredite su oportunidad y conveniencia para los intereses públicos."
+  },
+  {
+    "q": "¿Qué órgano municipal ostenta, con carácter general, las competencias reglamentarias de organización interna en materia de gestión y custodia del patrimonio local, sin perjuicio de las competencias del Pleno en materia de disposición?",
+    "options": [
+      "El Juzgado de Primera Instancia del partido judicial",
+      "El Alcalde, en su función de dirección de la administración municipal",
+      "El Consejo de Estado"
+    ],
+    "correct": 1,
+    "exp": "El Alcalde, como responsable de la dirección de la administración municipal (art. 21 LBRL), ejerce funciones de gestión ordinaria sobre el patrimonio, sin perjuicio de las competencias específicas del Pleno en materia de disposición y alteración de bienes."
+  },
+  {
+    "q": "En relación con el patrimonio municipal del suelo, ¿qué característica especial tiene su enajenación respecto al régimen general de los bienes patrimoniales?",
+    "options": [
+      "Se rige exactamente por las mismas reglas que cualquier otro bien patrimonial, sin especialidad",
+      "Solo puede realizarse mediante sorteo público entre los vecinos",
+      "Se ajusta a su normativa específica prevista en la legislación urbanística, en lugar de al régimen general de subasta del RBEL"
+    ],
+    "correct": 2,
+    "exp": "El art. 111 RBEL establece que la enajenación de bienes del Patrimonio Municipal del Suelo se ajusta a su normativa específica prevista en la legislación urbanística, con las finalidades y garantías propias de este patrimonio finalista."
+  },
+  {
+    "q": "¿Cuál es la finalidad principal reconocida al Patrimonio Municipal del Suelo, que justifica su régimen especial de enajenación?",
+    "options": [
+      "Facilitar la ejecución del planeamiento urbanístico y regular el mercado de terrenos, especialmente para la promoción de vivienda protegida",
+      "Generar ingresos ordinarios para el presupuesto corriente del municipio",
+      "No tiene ninguna finalidad específica distinta de otros bienes patrimoniales"
+    ],
+    "correct": 0,
+    "exp": "El Patrimonio Municipal del Suelo tiene como finalidad facilitar la ejecución del planeamiento urbanístico y regular el mercado de terrenos, en particular para atender necesidades de vivienda protegida y equipamientos públicos."
+  },
+  {
+    "q": "Según la lógica del sistema, ¿por qué se exige subasta pública como regla general para la enajenación de bienes patrimoniales de una Entidad Local?",
+    "options": [
+      "Porque así lo exige exclusivamente la tradición histórica sin fundamento jurídico actual",
+      "Para garantizar los principios de publicidad, transparencia, concurrencia y objetividad en la gestión del patrimonio público",
+      "Para dificultar el acceso de los vecinos a la compra de bienes municipales"
+    ],
+    "correct": 1,
+    "exp": "La exigencia de subasta pública como procedimiento ordinario de enajenación responde a la necesidad de garantizar los principios de publicidad, transparencia, concurrencia y objetividad que deben regir la gestión del patrimonio de las Administraciones Públicas."
+  },
+  {
+    "q": "¿Qué excepciones al procedimiento general de subasta pública prevé el RBEL para la enajenación de bienes patrimoniales?",
+    "options": [
+      "Ninguna excepción, la subasta es obligatoria siempre sin excepción alguna",
+      "Exclusivamente cuando el bien tenga más de cien años de antigüedad",
+      "La permuta y otros supuestos previstos legalmente, como la venta directa de parcelas sobrantes o efectos no utilizables"
+    ],
+    "correct": 2,
+    "exp": "El art. 109.1 RBEL prevé como excepciones al régimen general de subasta pública la permuta y otros supuestos previstos legalmente, como la venta directa de parcelas sobrantes o efectos no utilizables mediante valoración pericial."
+  },
+  {
+    "q": "¿Qué relación existe entre el régimen de bienes de las Entidades Locales y la Ley de Contratos del Sector Público (LCSP) en materia de enajenación patrimonial?",
+    "options": [
+      "La LCSP se aplica de forma supletoria a los negocios patrimoniales en lo no previsto por la normativa patrimonial específica",
+      "La LCSP deroga completamente el régimen especial de bienes patrimoniales",
+      "Los contratos patrimoniales están excluidos de cualquier normativa de contratación pública"
+    ],
+    "correct": 0,
+    "exp": "En materia de negocios jurídicos sobre bienes patrimoniales, la legislación de contratos del sector público (LCSP) se aplica con carácter supletorio, en lo no previsto por la LPAP y la normativa específica de bienes de las Entidades Locales."
+  },
+  {
+    "q": "¿Cuál es el fundamento constitucional que sustenta la existencia de un régimen especial y protector para los bienes de dominio público de las Entidades Locales?",
+    "options": [
+      "No existe fundamento constitucional alguno para este régimen especial",
+      "La necesidad de garantizar la afectación permanente de esos bienes a la satisfacción de intereses generales y servicios públicos",
+      "Es una tradición histórica sin ningún respaldo jurídico actual"
+    ],
+    "correct": 1,
+    "exp": "El régimen especial de protección de los bienes de dominio público (inalienabilidad, inembargabilidad, imprescriptibilidad) se fundamenta en la necesidad de garantizar su afectación permanente a la satisfacción de los intereses generales y los servicios públicos que constitucionalmente corresponde prestar a las Administraciones."
+  },
+  {
+    "q": "¿Puede un particular adquirir por usucapión (prescripción adquisitiva) un bien de dominio público de una Entidad Local?",
+    "options": [
+      "Sí, transcurridos treinta años de posesión continuada",
+      "Sí, si el bien lleva más de diez años sin uso aparente",
+      "No, los bienes de dominio público son imprescriptibles conforme al art. 80.1 LBRL"
+    ],
+    "correct": 2,
+    "exp": "Conforme al art. 80.1 LBRL, los bienes de dominio público (y los comunales) son imprescriptibles, por lo que no pueden adquirirse por usucapión, cualquiera que sea el tiempo de posesión por parte de un tercero."
+  },
+  {
+    "q": "¿Puede embargarse un bien de dominio público de una Entidad Local para el cobro de una deuda de esta frente a un acreedor?",
+    "options": [
+      "No, los bienes de dominio público son inembargables conforme al art. 80.1 LBRL",
+      "Sí, cualquier acreedor puede solicitar el embargo sin restricción",
+      "Sí, pero solo si la deuda supera los 100.000 euros"
+    ],
+    "correct": 0,
+    "exp": "Conforme al art. 80.1 LBRL, los bienes de dominio público y los comunales son inembargables, lo que impide su traba para satisfacer deudas de la Entidad Local frente a terceros."
+  },
+  {
+    "q": "¿Están sujetos los bienes de dominio público de una Entidad Local al Impuesto sobre Bienes Inmuebles con carácter general?",
+    "options": [
+      "Sí, tributan igual que cualquier bien inmueble privado",
+      "No, conforme al art. 80.1 LBRL no están sujetos a tributo alguno",
+      "Sí, pero con una reducción del 50%"
+    ],
+    "correct": 1,
+    "exp": "El art. 80.1 LBRL establece expresamente que los bienes comunales y demás bienes de dominio público 'no están sujetos a tributo alguno', incluido el IBI, sin perjuicio de las excepciones legalmente previstas para determinados supuestos de uso privativo."
+  },
+  {
+    "q": "Según el art. 6 del RBEL (en línea con la clasificación general), ¿qué tipo de bienes se destinan directamente al cumplimiento de fines públicos administrativos, como sedes de oficinas municipales?",
+    "options": [
+      "Los bienes patrimoniales o de propios",
+      "Los bienes comunales de aprovechamiento vecinal",
+      "Los bienes de servicio público, integrados dentro del dominio público local"
+    ],
+    "correct": 2,
+    "exp": "Los bienes de servicio público (como los edificios administrativos, colegios o mercados de titularidad municipal) forman parte del dominio público local, junto con los bienes de uso público y los comunales."
+  },
+  {
+    "q": "¿Qué régimen de responsabilidad tiene, con carácter general, la Entidad Local frente a los daños causados por el mal estado de un bien de dominio público de uso público (por ejemplo, una acera en mal estado)?",
+    "options": [
+      "Responsabilidad patrimonial de la Administración por el funcionamiento de los servicios públicos",
+      "Responsabilidad exclusivamente penal del Alcalde en persona",
+      "Responsabilidad únicamente civil del contratista de mantenimiento, nunca de la Administración"
+    ],
+    "correct": 0,
+    "exp": "Los daños causados por el mal estado de conservación de bienes de dominio público local dan lugar, en su caso, a responsabilidad patrimonial de la Administración por el funcionamiento normal o anormal de los servicios públicos."
+  },
+  {
+    "q": "¿Qué relación existe entre el concepto de 'bien mostrenco' y el patrimonio de las Entidades Locales?",
+    "options": [
+      "Los bienes mostrencos nunca pueden pertenecer a una Administración Pública",
+      "Los bienes inmuebles vacantes y sin dueño conocido corresponden, según la legislación aplicable, a la Administración competente, pudiendo integrarse en su patrimonio",
+      "Los bienes mostrencos son siempre de dominio público automáticamente"
+    ],
+    "correct": 1,
+    "exp": "Los bienes inmuebles vacantes y sin dueño conocido (mostrencos) pueden corresponder, según la legislación patrimonial aplicable, a la Administración competente, integrándose ordinariamente en su patrimonio (bienes patrimoniales), salvo afectación posterior a un uso o servicio público."
+  },
+  {
+    "q": "¿Cómo se denomina el negocio jurídico por el cual una Entidad Local intercambia un bien patrimonial de su titularidad por otro de un particular, sin mediar subasta pública?",
+    "options": [
+      "Expropiación forzosa",
+      "Comodato",
+      "Permuta"
+    ],
+    "correct": 2,
+    "exp": "La permuta es el negocio jurídico de intercambio de bienes que, conforme al art. 109.1 RBEL, constituye una de las excepciones al procedimiento general de subasta pública para la enajenación de bienes patrimoniales."
+  },
+  {
+    "q": "¿Qué naturaleza tiene el contrato de arrendamiento de un bien patrimonial de una Entidad Local a favor de un particular?",
+    "options": [
+      "Un contrato privado, sujeto en cuanto a su preparación a la normativa patrimonial y, en lo no previsto, a la legislación de contratos, y en sus efectos al Derecho privado",
+      "Un contrato administrativo típico regulado íntegramente por la LCSP",
+      "Un acto de dominio público sujeto a concesión demanial obligatoria"
+    ],
+    "correct": 0,
+    "exp": "El arrendamiento de un bien patrimonial tiene naturaleza de contrato privado, cuya preparación se sujeta a la normativa patrimonial (y supletoriamente a la de contratos), mientras que sus efectos y extinción se rigen por el Derecho privado."
+  },
+  {
+    "q": "¿Qué diferencia existe, en cuanto a naturaleza jurídica, entre el uso privativo de un bien de dominio público (mediante concesión) y el arrendamiento de un bien patrimonial?",
+    "options": [
+      "El arrendamiento solo puede recaer sobre bienes de dominio público, nunca sobre patrimoniales",
+      "El primero es un acto de naturaleza administrativa sobre un bien demanial; el segundo es un contrato privado sobre un bien patrimonial",
+      "La concesión demanial siempre es gratuita, mientras que el arrendamiento es siempre oneroso"
+    ],
+    "correct": 1,
+    "exp": "La concesión sobre un bien de dominio público es un acto administrativo que otorga un derecho de uso privativo sobre un bien demanial; el arrendamiento de un bien patrimonial es, en cambio, un contrato de naturaleza privada sobre un bien no afectado a uso o servicio público."
+  },
+  {
+    "q": "¿Qué tipo de acto administrativo habilita, con carácter general, el uso privativo continuado de una porción de dominio público local mediante la instalación de un quiosco?",
+    "options": [
+      "Un contrato de compraventa del suelo ocupado",
+      "Ningún acto administrativo, basta con la mera posesión de hecho",
+      "Una concesión o, en su caso, una autorización, según la intensidad y permanencia de la ocupación"
+    ],
+    "correct": 2,
+    "exp": "La instalación de un quiosco en dominio público local se habilita, según su carácter más o menos permanente y la intensidad de la ocupación, mediante concesión administrativa o, en supuestos de menor entidad, mediante autorización."
+  },
+  {
+    "q": "¿Qué consecuencia tiene, con carácter general, el incumplimiento por el concesionario de las condiciones de una concesión demanial sobre un bien de dominio público local?",
+    "options": [
+      "Puede dar lugar a la resolución o revocación de la concesión, además de las sanciones que procedan",
+      "Ninguna consecuencia, la concesión es irrevocable en todo caso",
+      "Obliga a la Administración a indemnizar siempre al concesionario"
+    ],
+    "correct": 0,
+    "exp": "El incumplimiento de las condiciones de una concesión sobre dominio público puede dar lugar a su resolución o revocación por la Administración concedente, sin perjuicio de las responsabilidades y sanciones que, en su caso, correspondan."
+  },
+  {
+    "q": "¿Qué es, técnicamente, la 'reversión' en relación con las concesiones sobre bienes de dominio público local que incluyen la construcción de infraestructuras?",
+    "options": [
+      "La venta obligatoria de la instalación a un tercero distinto del concedente",
+      "El mecanismo por el cual las instalaciones construidas por el concesionario pasan a integrarse en el dominio público, ordinariamente sin contraprestación, al finalizar la concesión",
+      "La obligación de destruir la instalación al finalizar la concesión"
+    ],
+    "correct": 1,
+    "exp": "La reversión es el mecanismo por el cual, al extinguirse la concesión, las instalaciones y obras construidas por el concesionario en el dominio público pasan a integrarse en el patrimonio de la Administración concedente, ordinariamente sin contraprestación."
+  },
+  {
+    "q": "¿Qué régimen especial de protección tienen los bienes integrantes del Patrimonio Histórico Español que sean, a su vez, de titularidad de una Entidad Local?",
+    "options": [
+      "Ninguna protección especial distinta de cualquier otro bien municipal",
+      "Solo se protegen si están inscritos en el Registro de la Propiedad",
+      "Un régimen reforzado de protección conforme a su legislación específica, con independencia de su calificación patrimonial o demanial ordinaria"
+    ],
+    "correct": 2,
+    "exp": "Los bienes integrantes del Patrimonio Histórico Español de titularidad local están sujetos a un régimen especial y reforzado de protección conforme a su legislación específica (Ley de Patrimonio Histórico), con independencia de su calificación patrimonial o demanial ordinaria dentro del régimen de bienes locales."
+  },
+  {
+    "q": "¿Qué papel desempeña la Comunidad Autónoma respecto a la enajenación de bienes patrimoniales de un municipio cuando el valor del bien supera el umbral legal establecido?",
+    "options": [
+      "Debe autorizar previamente la enajenación, al tratarse de un acto de disposición patrimonial de especial relevancia",
+      "Debe expropiar directamente el bien en cuestión",
+      "Debe adquirir obligatoriamente el bien antes de cualquier subasta"
+    ],
+    "correct": 0,
+    "exp": "Cuando el valor del bien patrimonial a enajenar supera el umbral legalmente establecido (25% de los recursos ordinarios del presupuesto), es necesaria la autorización previa del órgano competente de la Comunidad Autónoma, en ejercicio de su función de tutela financiera."
+  },
+  {
+    "q": "¿Se aplica el mismo régimen de tutela autonómica (autorización previa por razón de cuantía) tanto a los municipios como a las provincias en materia de enajenación de bienes patrimoniales?",
+    "options": [
+      "No, solo se aplica a las provincias, nunca a los municipios",
+      "Sí, con las adaptaciones y particularidades que, en su caso, prevea la legislación autonómica de régimen local para cada tipo de Entidad Local",
+      "No, este régimen de tutela ha sido íntegramente suprimido para todas las Entidades Locales"
+    ],
+    "correct": 1,
+    "exp": "El régimen de tutela financiera sobre la enajenación de bienes patrimoniales de especial cuantía se aplica, con las adaptaciones correspondientes, tanto a municipios como a otras Entidades Locales, conforme a la legislación básica estatal y su desarrollo autonómico."
+  },
+  {
+    "q": "¿Qué relación existe entre la calificación jurídica de un bien (demanial o patrimonial) y su tratamiento contable en la Entidad Local?",
+    "options": [
+      "Son exactamente lo mismo, un bien contable es automáticamente demanial",
+      "Solo los bienes patrimoniales se registran contablemente, nunca los demaniales",
+      "Ambos aspectos son relevantes y se registran de forma diferenciada en el inventario y en la contabilidad patrimonial, aunque son conceptos jurídicamente distintos"
+    ],
+    "correct": 2,
+    "exp": "La calificación jurídica (demanial o patrimonial) y el tratamiento contable son aspectos distintos pero relacionados: ambos bienes se registran en el inventario y en la contabilidad patrimonial de la Entidad Local, si bien con las particularidades propias de cada categoría."
+  },
+  {
+    "q": "¿Qué exige, con carácter general, la normativa patrimonial para poder ceder gratuitamente un bien inmueble patrimonial de una Entidad Local a una asociación cultural sin ánimo de lucro?",
+    "options": [
+      "Que se acredite el interés público de la cesión y, en su caso, se dé cuenta a la autoridad competente de la Comunidad Autónoma",
+      "Que la asociación pague previamente el valor de mercado del inmueble",
+      "Que se realice mediante subasta pública, igual que cualquier venta"
+    ],
+    "correct": 0,
+    "exp": "La cesión gratuita de bienes inmuebles patrimoniales exige acreditar el fin de interés público que la justifica (beneficio para los vecinos o entidades de interés público sin ánimo de lucro) y, en su caso, dar cuenta de ella a la autoridad competente de la Comunidad Autónoma."
+  },
+  {
+    "q": "¿Qué tipo de bien es, típicamente, un cementerio municipal, a efectos de su calificación jurídico-patrimonial?",
+    "options": [
+      "Un bien patrimonial sujeto al Derecho privado sin ninguna especialidad",
+      "Un bien de servicio público integrado en el dominio público local",
+      "Un bien comunal de aprovechamiento vecinal directo"
+    ],
+    "correct": 1,
+    "exp": "El cementerio municipal es, con carácter general, un bien de servicio público integrado en el dominio público local, dada su afectación directa a la prestación de un servicio público esencial."
+  },
+  {
+    "q": "¿Qué naturaleza tiene, a efectos patrimoniales, un edificio destinado a colegio público de titularidad municipal?",
+    "options": [
+      "Un bien patrimonial ordinario sin afectación especial",
+      "Un bien de dominio privado sujeto a hipoteca",
+      "Un bien de servicio público integrado en el dominio público local"
+    ],
+    "correct": 2,
+    "exp": "Un edificio destinado a colegio público de titularidad municipal es un bien de servicio público, integrado en el dominio público local por su afectación directa a la prestación del servicio educativo."
+  },
+  {
+    "q": "¿Qué naturaleza tiene, a efectos patrimoniales, un local comercial de propiedad municipal que se arrienda a un particular para uso privado, sin estar afectado a ningún servicio público?",
+    "options": [
+      "Un bien patrimonial",
+      "Un bien comunal",
+      "Un bien de servicio público"
+    ],
+    "correct": 0,
+    "exp": "Un local comercial de titularidad municipal no afectado a uso ni servicio público, susceptible de explotación en régimen de arrendamiento privado, tiene la naturaleza de bien patrimonial."
+  },
+  {
+    "q": "¿Puede una Entidad Local hipotecar un bien de dominio público para obtener financiación?",
+    "options": [
+      "Sí, siempre que lo apruebe el Pleno por mayoría simple",
+      "No, los bienes de dominio público son inalienables e inembargables, lo que excluye su gravamen mediante hipoteca",
+      "Sí, únicamente si el préstamo procede de una entidad pública"
+    ],
+    "correct": 1,
+    "exp": "Dado el carácter inalienable e inembargable de los bienes de dominio público (art. 80.1 LBRL), estos no pueden ser objeto de hipoteca u otro gravamen real, a diferencia de los bienes patrimoniales."
+  },
+  {
+    "q": "¿Puede una Entidad Local hipotecar un bien patrimonial, a diferencia de uno de dominio público?",
+    "options": [
+      "No, ningún bien de una Entidad Local puede hipotecarse nunca",
+      "Sí, pero solo si el bien tiene menos de un año de antigüedad en el inventario",
+      "Sí, en principio es posible, al regirse los bienes patrimoniales por el Derecho privado, sin perjuicio de las autorizaciones y controles que procedan"
+    ],
+    "correct": 2,
+    "exp": "Los bienes patrimoniales, al regirse por su legislación específica y, en su defecto, por el Derecho privado, pueden en principio ser objeto de gravamen (incluida la hipoteca), sin perjuicio de las autorizaciones y controles de tutela financiera que, en su caso, resulten aplicables."
+  },
+  {
+    "q": "¿Qué diferencia de fondo explica que los bienes de dominio público no puedan gravarse mientras que los patrimoniales sí puedan, en principio?",
+    "options": [
+      "Los bienes de dominio público están afectados directamente a fines de interés general y su disponibilidad comprometería esa afectación; los patrimoniales no tienen esa vinculación directa",
+      "No existe ninguna diferencia real entre ambos tipos de bienes",
+      "Los bienes patrimoniales son siempre de menor valor económico"
+    ],
+    "correct": 0,
+    "exp": "La razón de fondo es que los bienes de dominio público están directamente afectados a la satisfacción de un uso o servicio público de interés general, por lo que su disponibilidad (venta, embargo, gravamen) comprometería esa función; los bienes patrimoniales, al no tener esa afectación directa, pueden ser objeto de tráfico jurídico ordinario."
+  },
+  {
+    "q": "En conclusión, ¿qué papel desempeña el Reglamento de Bienes de las Entidades Locales (RD 1372/1986) respecto a la Ley 7/1985 (LBRL) en esta materia?",
+    "options": [
+      "El RBEL deroga a la LBRL en todo lo relativo a bienes locales",
+      "El RBEL desarrolla reglamentariamente los principios básicos establecidos por la LBRL en materia de bienes, con carácter supletorio respecto a la legislación autonómica",
+      "El RBEL es jerárquicamente superior a la LBRL"
+    ],
+    "correct": 1,
+    "exp": "El RBEL desarrolla reglamentariamente los principios básicos que la LBRL (arts. 79 a 83) establece con rango legal en materia de bienes de las Entidades Locales, aplicándose con carácter supletorio respecto de la legislación autonómica de desarrollo."
+  },
+  {
+    "q": "¿Qué tres grandes bloques normativos configuran, en conjunto, el régimen jurídico de los bienes de las Entidades Locales estudiado en este tema?",
+    "options": [
+      "Solo la normativa urbanística estatal",
+      "Exclusivamente las ordenanzas municipales, sin ley estatal alguna",
+      "La LBRL (arts. 79-83), el RBEL (RD 1372/1986) y, con carácter supletorio, la LPAP (Ley 33/2003)"
+    ],
+    "correct": 2,
+    "exp": "El régimen jurídico de los bienes de las Entidades Locales se configura fundamentalmente por la LBRL (arts. 79 a 83, normas básicas), el RBEL (RD 1372/1986, desarrollo reglamentario) y, con carácter supletorio, la LPAP (Ley 33/2003, de Patrimonio de las Administraciones Públicas)."
+  },
+  {
+    "q": "¿Qué órgano es, típicamente, el competente para aprobar la incorporación de un nuevo bien al inventario municipal tras su adquisición?",
+    "options": [
+      "El Alcalde o el Pleno, según el tipo de adquisición y las competencias atribuidas en cada caso por la normativa de régimen local",
+      "Un notario, sin intervención administrativa alguna",
+      "El Tribunal de Cuentas, en todos los casos sin excepción"
+    ],
+    "correct": 0,
+    "exp": "La incorporación de un nuevo bien al inventario, y su correspondiente aprobación administrativa, corresponde al Alcalde o al Pleno según el tipo de adquisición y el reparto competencial establecido en la normativa de régimen local y de contratación."
+  },
+  {
+    "q": "¿En qué año fue aprobado el reglamento de bienes de las entidades locales?",
+    "options": [
+      "1988.",
+      "1986.",
+      "1987."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 951 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cuál de las siguientes normas aprueba el reglamento de bienes de las entidades locales?",
+    "options": [
+      "Real Decreto 1372/ 1988 de 13 de junio.",
+      "Real Decreto 1372/ 1987 de 13 de junio.",
+      "Real Decreto 1372/ 1986 de 13 de junio."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 952 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Qué título de la ley 7/ 1985, de 2 de abril, está dedicado a la regulación de los bienes de las entidades locales?",
+    "options": [
+      "El Título IV.",
+      "El Título III.",
+      "El Título V."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 953 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Qué artículos de la ley 7/ 1985, de 2 de abril, regulan el régimen jurídico de los bienes de las entidades locales?",
+    "options": [
+      "Del 76 al 79.",
+      "Del 79 al 83.",
+      "Del 79 al 87."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 954 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Qué artículos del Texto refundido sobre disposiciones vigentes en materia de régimen local, regulan el régimen jurídico de los bienes de las entidades locales?",
+    "options": [
+      "Del 76 al 81.",
+      "Del 69 al 84.",
+      "Del 74 al 87."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 955 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cuál de los siguientes bienes no se considera de dominio público?",
+    "options": [
+      "Los bienes patrimoniales.",
+      "Los bienes de uso público.",
+      "Los bienes comunales."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 956 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cuál de los siguientes bienes no se considera de uso público?",
+    "options": [
+      "Una plaza.",
+      "La sede del Ayuntamiento.",
+      "Una fuente."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 957 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cuál de los siguientes bienes no se considera de servicio público?",
+    "options": [
+      "Un puente.",
+      "Una fuente.",
+      "La sede del Ayuntamiento."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 958 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cuál de los siguientes entes locales no puede tener bienes comunales?",
+    "options": [
+      "Una comarca.",
+      "Un municipio de menos de 3.000 habitantes.",
+      "Una entidad local de ámbito territorial inferior al municipio."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 959 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cuál de las siguientes características no es predicable de los bienes comunales?",
+    "options": [
+      "La inembargabilidad.",
+      "La embargabilidad.",
+      "La inalienabilidad."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 960 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Al pago de qué tributo están sujetos los bienes comunales?",
+    "options": [
+      "Al pago del Impuestos de Bienes Inmuebles.",
+      "Al pago del Impuesto sobre el Patrimonio.",
+      "No están sujetos al pago de tributos."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 961 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿A quién le corresponde el aprovechamiento de los bienes comunales?",
+    "options": [
+      "A los vecinos.",
+      "A todos los ciudadanos.",
+      "A los vecinos y a todos los ciudadanos."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 962 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿A quién le corresponde realizar la conservación de los bienes de uso público?",
+    "options": [
+      "A los ciudadanos.",
+      "A la entidad local a la que estén adscritos.",
+      "A los vecinos y a la entidad local a la que estén adscritos."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 963 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Qué extremos hay que acreditar en el expediente de alteración de la calificación jurídica de los bienes comunales?",
+    "options": [
+      "La proporcionalidad y la legalidad.",
+      "La oportunidad y la proporcionalidad.",
+      "La legalidad y la oportunidad."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 964 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cuál debe ser el plazo de información pública de un expediente de alteración de la calificación jurídica?",
+    "options": [
+      "Un mes.",
+      "Dos meses.",
+      "Diez días."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 965 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿En cuál de los siguientes casos no se produce la alteración automática de la calificación de un bien?",
+    "options": [
+      "Cuando se realice la aprobación definitiva de los planes de ordenación urbana.",
+      "Cuando se produzca la adscripción de bienes patrimoniales por más de diez años.",
+      "Cuando se produzca la adscripción de bienes patrimoniales por más de veinticinco años."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 966 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Puede adquirir automáticamente, una entidad local, un bien que esté destinado a un uso o servicio público comunal?",
+    "options": [
+      "Sí, por arrendamiento.",
+      "No, en ningún caso.",
+      "Sí, por usucapión."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 967 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Qué tipo de capacidad tienen las entidades locales para adquirir y poseer bienes?",
+    "options": [
+      "Jurídica plena.",
+      "Jurídica propia.",
+      "Jurídica directa."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 968 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Qué tipo de acciones deben ejercer las entidades locales para la defensa de sus bienes y derechos?",
+    "options": [
+      "Las que estime oportunas.",
+      "Las que sean necesarias.",
+      "Las que se acuerden de acuerdo con los vecinos."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 969 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Quién debe emitir informe previo antes de que una entidad local ejerza una acción de defensa de un bien propio?",
+    "options": [
+      "El Alcalde.",
+      "El Pleno.",
+      "El Secretario."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 970 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Por cual de los siguientes medios no puede, una entidad local, adquirir un bien?",
+    "options": [
+      "Por atribución reglamentaria.",
+      "Por ocupación.",
+      "Por donación."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 971 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿A qué restricciones está sujeta la adquisición de bienes a título gratuito?",
+    "options": [
+      "A las nacidas de la relación jurídica de base.",
+      "No está sujeta a restricción alguna.",
+      "A las establecidas por el Pleno en sesión extraordinaria."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 972 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cómo se entiende hecha la aceptación de una herencia por una entidad local?",
+    "options": [
+      "A beneficio de resultas.",
+      "A restos de inventario.",
+      "A beneficio de inventario."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 973 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "Si se adquiere un bien mediante una herencia por medio de condición ¿cuánto tiempo debe transcurrir para que se entienda cumplida y consumada?",
+    "options": [
+      "Treinta años.",
+      "Veinte años.",
+      "Veinticinco años."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 974 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cuál de los siguientes no es un epígrafe del inventario de bienes de una entidad local?",
+    "options": [
+      "Los semovientes.",
+      "Los derechos invertibles.",
+      "Los derechos reales."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 975 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿A quién le corresponde realizar la aprobación del Inventario de bienes de una entidad local?",
+    "options": [
+      "Al Alcalde.",
+      "A la Comisión de Gobierno.",
+      "Al Pleno."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 976 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿A quién le corresponde realizar la rectificación del Inventario de bienes de una entidad local?",
+    "options": [
+      "Al Pleno.",
+      "Al Alcalde.",
+      "A la Comisión de Gobierno."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 977 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿A quién le corresponde realizar la comprobación del Inventario de bienes de una entidad local?",
+    "options": [
+      "Al Alcalde.",
+      "Al Pleno.",
+      "A la Comisión de Gobierno."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 978 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Qué documento es necesario para inscribir en el Registro de la propiedad los bienes inmuebles de una entidad local?",
+    "options": [
+      "Certificación expedida por el Alcalde.",
+      "Certificación expedida por la Comunidad Autónoma respectiva.",
+      "Certificación expedida por el Secretario."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 979 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Quién debe dar el visto bueno a la certificación para inscribir un bien inmueble en el registro de la propiedad?",
+    "options": [
+      "El Alcalde.",
+      "El Pleno.",
+      "El Secretario."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 980 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cuál de las siguientes potestades no están asignadas a las corporaciones locales en relación con sus bienes?",
+    "options": [
+      "La potestad de investigación.",
+      "La potestad de autorecuperación.",
+      "La potestad de recuperación."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 981 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Qué operación consiste en practicar las operaciones técnicas de comprobación y, en su caso, de rectificación de situaciones jurídicas plenamente acreditadas, en relación con un bien?",
+    "options": [
+      "Desahucio.",
+      "Recuperación.",
+      "Deslinde."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 982 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿De qué tiempo disponen las entidades locales para recuperar por sí mismas la tenencia de bienes de dominio público?",
+    "options": [
+      "No existe plazo máximo.",
+      "De un año.",
+      "De cinco años."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 983 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿De qué tiempo disponen las entidades locales para recuperar por sí mismas la tenencia de bienes patrimoniales?",
+    "options": [
+      "De dos años.",
+      "De un año.",
+      "De cinco años."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 984 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Se admiten interdictos contra actuaciones de agentes de la autoridad en materia de recuperación de bienes?",
+    "options": [
+      "Sí, en cualquier caso.",
+      "Sólo en casos excepcionales.",
+      "No, en ningún caso."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 985 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cómo se denomina el uso que corresponde por igual a todos los ciudadanos indistintamente, de modo que el uso de unos no impida el de los demás interesados?",
+    "options": [
+      "Uso común.",
+      "Uso propio.",
+      "Uso normal."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 986 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cómo se denomina el uso que corresponde por igual a todos los ciudadanos indistintamente, de modo que el uso de unos no impida el de los demás interesados, pero en el que concurren circunstancias singulares?",
+    "options": [
+      "Uso común especial.",
+      "Uso común general.",
+      "Uso normal."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 987 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cómo se denomina el uso que corresponde por igual a todos los ciudadanos indistintamente, de modo que el uso de unos no impida el de los demás interesados, pero en el que concurren circunstancias de peligrosidad?",
+    "options": [
+      "Uso común general.",
+      "Uso normal.",
+      "Uso común especial."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 988 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cómo se denomina el uso constituido por la ocupación de una porción de dominio público de modo que excluya la utilización por los demás interesados?",
+    "options": [
+      "Uso privativo.",
+      "Uso anormal.",
+      "Uso general."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 989 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cómo se denomina el uso que es conforme con el destino principal del dominio público al que afecte?",
+    "options": [
+      "Uso especial.",
+      "Uso normal.",
+      "Uso común."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 990 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cómo se ejerce el uso común general de los bienes de dominio público?",
+    "options": [
+      "Por los ciudadanos que obtengan licencia.",
+      "Con sometimiento a autorización previa.",
+      "Libremente de acuerdo con la naturaleza de los bienes."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 991 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cómo se ejerce el uso especial normal de los bienes de dominio público?",
+    "options": [
+      "Por los ciudadanos que obtengan licencia.",
+      "Exclusivamente por el Ayuntamiento.",
+      "Libremente de acuerdo con la naturaleza de los bienes."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 992 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "El uso privativo de bienes de dominio público:",
+    "options": [
+      "Está sujeto a la obtención de licencia.",
+      "está sujeto a concesión administrativa.",
+      "Se destina exclusivamente al Ayuntamiento."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 993 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "El uso anormal de bienes de dominio público:",
+    "options": [
+      "Está sujeto a la obtención de licencia.",
+      "Se destina exclusivamente al Ayuntamiento.",
+      "está sujeto a concesión administrativa."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 994 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cómo se denominan los bienes que siendo propiedad de la entidad local, no están destinados al uso público ni afectados a ningún servicio público y pueden constituir una fuente de mejora del erario de la entidad?",
+    "options": [
+      "Bienes patrimoniales.",
+      "Bienes de comunal.",
+      "Bienes demaniales."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 995 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cómo se considera una parcela sobrante?",
+    "options": [
+      "Como bien demanial.",
+      "Como bien patrimonial.",
+      "Como bien comunal."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 996 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cómo se consideran los efectos no utilizables?",
+    "options": [
+      "Como bien demanial.",
+      "Como bien comunal.",
+      "Como bien patrimonial."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 997 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿En cual de los siguientes casos debe utilizarse la subasta para poder ceder un bien patrimonial?",
+    "options": [
+      "Cuando el tiempo de cesión sea superior a cinco años.",
+      "Cuando el tiempo de cesión sea superior a dos años.",
+      "Cuando el tiempo de cesión sea superior a tres años."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 998 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Cuándo se adjudicará el disfrute de un bien comunal por lotes?",
+    "options": [
+      "En cualquier caso.",
+      "Cuando el disfrute sea impracticable en el modo común.",
+      "Cuando lo establezca el Pleno."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 999 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "¿Quién debe autorizar la adjudicación del disfrute de un bien comunal por un precio?",
+    "options": [
+      "El Secretario de la Corporación local.",
+      "El Pleno de la Entidad local.",
+      "La Comunidad Autónoma respectiva. Tema Nº 21. Haciendas Locales."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 1000 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+    "q": "Según el art. 109.1 RBEL, los bienes inmuebles patrimoniales de las entidades locales no podrán enajenarse, gravarse ni permutarse sin autorización del órgano competente de la Comunidad Autónoma cuando su valor exceda de qué porcentaje de los recursos ordinarios del presupuesto anual de la Corporación.",
+    "options": [
+      "El 25 por 100",
+      "El 10 por 100",
+      "El 50 por 100"
+    ],
+    "correct": 0,
+    "exp": "El art. 109.1 RBEL exige autorización de la Comunidad Autónoma cuando el valor del bien inmueble patrimonial exceda del 25 por 100 de los recursos ordinarios del presupuesto anual de la Corporación.",
+    "fuente": "Art. 109.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 109.1 RBEL, con independencia de que sea necesaria autorización autonómica por razón de la cuantía, ¿qué obligación existe respecto de toda enajenación de bienes inmuebles de la entidad local?",
+    "options": [
+      "Comunicarla al Ministerio de Hacienda",
+      "Dar cuenta al órgano competente de la Comunidad Autónoma",
+      "Solicitar dictamen previo del Consejo de Estado"
+    ],
+    "correct": 1,
+    "exp": "El art. 109.1 RBEL establece que, no obstante lo anterior, se dará cuenta al órgano competente de la Comunidad Autónoma de toda enajenación de bienes inmuebles que se produzca.",
+    "fuente": "Art. 109.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el art. 109.2 RBEL, los bienes inmuebles patrimoniales de las entidades locales solo podrán cederse gratuitamente a...",
+    "options": [
+      "Cualquier persona física o jurídica que lo solicite motivadamente",
+      "Empresas privadas que se comprometan a invertir en el municipio",
+      "Entidades o Instituciones públicas para fines que redunden en beneficio de los habitantes del término municipal, y a Instituciones privadas de interés público sin ánimo de lucro"
+    ],
+    "correct": 2,
+    "exp": "El art. 109.2 RBEL limita la cesión gratuita a Entidades o Instituciones públicas para fines que redunden en beneficio de los habitantes del término municipal, así como a Instituciones privadas de interés público sin ánimo de lucro.",
+    "fuente": "Art. 109.2 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "El acuerdo de cesión gratuita de bienes de una entidad local, según el art. 110.1 RBEL, requiere...",
+    "options": [
+      "Mayoría absoluta del número legal de miembros de la Corporación",
+      "Unanimidad de los miembros de la Corporación",
+      "Dos tercios del número de hecho de miembros"
+    ],
+    "correct": 0,
+    "exp": "El art. 110.1 RBEL exige que la cesión gratuita de bienes se adopte con el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación.",
+    "fuente": "Art. 110.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Entre los requisitos del expediente de cesión gratuita que exige el art. 110.1.b RBEL se encuentra una certificación del Registro de la Propiedad que acredite que los bienes están inscritos en concepto de...",
+    "options": [
+      "Bienes de dominio público",
+      "Bienes patrimoniales de la Entidad local",
+      "Bienes comunales"
+    ],
+    "correct": 1,
+    "exp": "El art. 110.1.b RBEL exige certificación del Registro de la Propiedad acreditativa de que los bienes se hallan debidamente inscritos en concepto de patrimoniales de la Entidad local.",
+    "fuente": "Art. 110.1.b RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 110.1.d RBEL, ¿qué debe acreditar el informe del Interventor de fondos dentro del expediente de cesión gratuita de bienes?",
+    "options": [
+      "Que existe crédito presupuestario suficiente para la cesión",
+      "Que se ha practicado ya la tasación pericial del bien",
+      "Que no hay deuda pendiente de liquidación con cargo al presupuesto municipal"
+    ],
+    "correct": 2,
+    "exp": "El art. 110.1.d RBEL requiere informe del Interventor de fondos en el que pruebe no haber deuda pendiente de liquidación con cargo al presupuesto municipal.",
+    "fuente": "Art. 110.1.d RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "El dictamen técnico exigido en el art. 110.1.e RBEL para la cesión gratuita de bienes debe asevear que estos no son necesarios para la Entidad local ni es previsible que lo sean en los próximos...",
+    "options": [
+      "Diez años",
+      "Cinco años",
+      "Veinte años"
+    ],
+    "correct": 0,
+    "exp": "El art. 110.1.e RBEL exige dictamen técnico que asevere que los bienes no son necesarios ni es previsible que lo sean en los diez años inmediatos.",
+    "fuente": "Art. 110.1.e RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "El expediente de cesión gratuita de bienes, conforme al art. 110.1.f RBEL, exige un trámite de información pública por un plazo no inferior a...",
+    "options": [
+      "Diez días",
+      "Quince días",
+      "Veinte días"
+    ],
+    "correct": 1,
+    "exp": "El art. 110.1.f RBEL exige información pública por plazo no inferior a quince días.",
+    "fuente": "Art. 110.1.f RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 110.2 RBEL, la cesión de solares al organismo competente de promoción de la vivienda para construir viviendas de protección oficial revestirá, normalmente, la forma de...",
+    "options": [
+      "Venta directa",
+      "Concurso público de adjudicación",
+      "Permuta de los terrenos por número equivalente de aquellos que hubieren de edificarse"
+    ],
+    "correct": 2,
+    "exp": "El art. 110.2 RBEL indica que esa cesión de solares revestirá normalmente la forma de permuta de los terrenos por número equivalente de aquellos que hubieren de edificarse.",
+    "fuente": "Art. 110.2 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Si el acuerdo de cesión gratuita no estipula otra cosa, según el art. 111.2 RBEL, los fines para los que se otorgó deberán cumplirse en el plazo máximo de... debiendo mantenerse el destino durante los... siguientes.",
+    "options": [
+      "Cinco años / treinta años",
+      "Tres años / veinte años",
+      "Diez años / veinticinco años"
+    ],
+    "correct": 0,
+    "exp": "El art. 111.2 RBEL fija en cinco años el plazo máximo para cumplir los fines, y en treinta años el periodo posterior en que debe mantenerse el destino.",
+    "fuente": "Art. 111.2 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 111.1 RBEL, si los bienes cedidos gratuitamente no se destinan al uso señalado en el plazo fijado, o dejan de estarlo después, ¿qué ocurre?",
+    "options": [
+      "La cesión se mantiene igual sin ninguna consecuencia jurídica",
+      "Se considera resuelta la cesión, revirtiendo los bienes a la Corporación, que tiene derecho a percibir, previa tasación pericial, el valor de los detrimentos",
+      "Se transforma automáticamente en una compraventa a favor del cesionario"
+    ],
+    "correct": 1,
+    "exp": "El art. 111.1 RBEL establece que se considerará resuelta la cesión y los bienes revertirán a la Corporación local, con derecho de esta a percibir, previa tasación pericial, el valor de los detrimentos experimentados.",
+    "fuente": "Art. 111.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "En caso de reversión de los bienes cedidos gratuitamente, el art. 111.3 RBEL establece que estos revertirán al patrimonio de la entidad cedente...",
+    "options": [
+      "Únicamente en su estado físico original",
+      "Descontando el valor de las mejoras introducidas por el cesionario",
+      "Con todas sus pertenencias y accesiones"
+    ],
+    "correct": 2,
+    "exp": "El art. 111.3 RBEL dispone que los bienes cedidos revertirán, en su caso, al Patrimonio de la Entidad cedente con todas sus pertenencias y accesiones.",
+    "fuente": "Art. 111.3 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 112.1 RBEL, las enajenaciones de bienes patrimoniales de las entidades locales se rigen, en cuanto a su preparación y adjudicación, por...",
+    "options": [
+      "La normativa reguladora de la contratación de las Corporaciones locales",
+      "La Ley de Patrimonio de las Administraciones Públicas con carácter exclusivo",
+      "Las Ordenanzas municipales de urbanismo"
+    ],
+    "correct": 0,
+    "exp": "El art. 112.1 RBEL remite, para la preparación y adjudicación de las enajenaciones, a la normativa reguladora de la contratación de las Corporaciones locales.",
+    "fuente": "Art. 112.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 112.2 RBEL, no será necesaria la subasta en la enajenación mediante permuta con otros bienes de carácter inmobiliario cuando, previo expediente que acredite la necesidad, la diferencia de valor entre los bienes a permutar no sea superior al...",
+    "options": [
+      "30 por 100 del que tenga mayor valor",
+      "40 por 100 del que tenga mayor valor",
+      "50 por 100 del que tenga mayor valor"
+    ],
+    "correct": 1,
+    "exp": "El art. 112.2 RBEL exceptúa la subasta cuando la diferencia de valor entre los bienes permutados no supere el 40 por 100 del que tenga mayor valor.",
+    "fuente": "Art. 112.2 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Antes de iniciar los trámites conducentes a la enajenación de un inmueble, el art. 113 RBEL exige depurar su situación física y jurídica, lo que comprende, en su caso...",
+    "options": [
+      "Solicitar informe del Consejo Consultivo autonómico",
+      "Publicar edictos en tres diarios de tirada nacional",
+      "Practicar su deslinde si fuese necesario e inscribirlo en el Registro de la Propiedad si no lo estuviese"
+    ],
+    "correct": 2,
+    "exp": "El art. 113 RBEL exige depurar la situación física y jurídica del inmueble, practicando su deslinde si fuese necesario e inscribiéndolo en el Registro de la Propiedad si no lo estuviese.",
+    "fuente": "Art. 113 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 114 RBEL, las enajenaciones de bienes cuyo valor exceda del ___ de los recursos ordinarios del presupuesto deberán ser acordadas con el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación.",
+    "options": [
+      "10 por 100",
+      "5 por 100",
+      "20 por 100"
+    ],
+    "correct": 0,
+    "exp": "El art. 114 RBEL fija en el 10 por 100 de los recursos ordinarios del presupuesto el umbral a partir del cual la enajenación exige mayoría absoluta del número legal de miembros de la Corporación.",
+    "fuente": "Art. 114 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 115.1 RBEL, las parcelas sobrantes a que alude el artículo séptimo del Reglamento serán enajenadas...",
+    "options": [
+      "Exclusivamente mediante concurso público",
+      "Por venta directa al propietario o propietarios colindantes, o permutadas con terrenos de los mismos",
+      "Por cesión gratuita al vecino de mayor antigüedad"
+    ],
+    "correct": 1,
+    "exp": "El art. 115.1 RBEL prevé que las parcelas sobrantes sean enajenadas por venta directa al propietario o propietarios colindantes o permutadas con terrenos de los mismos.",
+    "fuente": "Art. 115.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Si fueran varios los propietarios colindantes en la enajenación de parcelas sobrantes, el art. 115.2 RBEL dispone que la venta o permuta se hará de forma que las parcelas resultantes se ajusten a...",
+    "options": [
+      "El orden de antigüedad de las solicitudes presentadas",
+      "Un sorteo público entre los interesados",
+      "El más racional criterio de ordenación del suelo, según dictamen técnico"
+    ],
+    "correct": 2,
+    "exp": "El art. 115.2 RBEL exige que las parcelas resultantes se ajusten al más racional criterio de ordenación del suelo, según dictamen técnico.",
+    "fuente": "Art. 115.2 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 115.3 RBEL, si un propietario colindante se negara a adquirir la parcela sobrante que le correspondiere, la Corporación podrá...",
+    "options": [
+      "Expropiarle su terreno del modo dispuesto para la regulación de solares, con dictamen técnico preceptivo",
+      "Cederle la parcela a otro vecino de forma gratuita",
+      "Sacar la parcela a subasta pública en todo caso"
+    ],
+    "correct": 0,
+    "exp": "El art. 115.3 RBEL permite a la Corporación expropiar el terreno del colindante que se niegue, en el modo dispuesto para la regulación de solares y con dictamen técnico preceptivo.",
+    "fuente": "Art. 115.3 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 116.1 RBEL, las cesiones de parcelas de terrenos del patrimonio municipal a favor de vecinos jornaleros, aunque su disfrute dure más de diez años, no implicarán...",
+    "options": [
+      "Una donación irrevocable inscribible",
+      "Enajenación ni gravamen",
+      "Una permuta encubierta sujeta a autorización autonómica"
+    ],
+    "correct": 1,
+    "exp": "El art. 116.1 RBEL aclara que esas cesiones a vecinos jornaleros no implican enajenación ni gravamen, aunque el disfrute dure más de diez años.",
+    "fuente": "Art. 116.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Las cesiones de parcelas a vecinos jornaleros a que se refiere el art. 116.2 RBEL deben ser acordadas por...",
+    "options": [
+      "La Junta de Gobierno Local",
+      "La Comisión de Hacienda del Ayuntamiento",
+      "El Ayuntamiento Pleno, con el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación"
+    ],
+    "correct": 2,
+    "exp": "El art. 116.2 RBEL exige que dichas cesiones sean acordadas por el Ayuntamiento Pleno con el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación.",
+    "fuente": "Art. 116.2 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 116.3 RBEL, los vecinos cesionarios de parcelas se hacen dueños del arbolado que cultiven y, durante los primeros... años, podrán acotar las parcelas plantadas para preservarlas de los ganados.",
+    "options": [
+      "Cinco años",
+      "Diez años",
+      "Quince años"
+    ],
+    "correct": 0,
+    "exp": "El art. 116.3 RBEL fija en cinco años el periodo durante el cual los cesionarios pueden acotar las parcelas plantadas.",
+    "fuente": "Art. 116.3 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando la enajenación o gravamen se refiera a monumentos, edificios u objetos de índole artística o histórica, el art. 117 RBEL exige...",
+    "options": [
+      "Autorización exclusiva del Ministerio de Cultura",
+      "El informe previo del órgano estatal o autonómico competente de acuerdo con la legislación sobre patrimonio histórico y artístico",
+      "Dictamen previo del Consejo de Estado"
+    ],
+    "correct": 1,
+    "exp": "El art. 117 RBEL requiere informe previo del órgano estatal o autonómico competente conforme a la legislación sobre patrimonio histórico y artístico.",
+    "fuente": "Art. 117 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 118 RBEL, ¿qué será requisito previo a toda venta o permuta de bienes patrimoniales de la entidad local?",
+    "options": [
+      "La publicación en el Boletín Oficial de la Provincia con dos meses de antelación",
+      "El informe favorable de la Intervención General del Estado",
+      "La valoración técnica de los bienes que acredite de modo fehaciente su justiprecio"
+    ],
+    "correct": 2,
+    "exp": "El art. 118 RBEL exige, como requisito previo a toda venta o permuta, la valoración técnica que acredite de modo fehaciente el justiprecio de los bienes.",
+    "fuente": "Art. 118 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 119 RBEL, la falsedad o tergiversación respecto al carácter y naturaleza jurídica de los bienes que se pretenda enajenar o permutar...",
+    "options": [
+      "Será punible con arreglo al Código Penal",
+      "Solo se sanciona con una multa administrativa",
+      "Determina la nulidad automática del acto, sin más consecuencias"
+    ],
+    "correct": 0,
+    "exp": "El art. 119 RBEL remite expresamente al Código Penal la punición de la falsedad o tergiversación sobre el carácter y naturaleza de los bienes.",
+    "fuente": "Art. 119 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 110.1 LPAP, los contratos, convenios y demás negocios jurídicos sobre bienes y derechos patrimoniales se rigen, en cuanto a su preparación y adjudicación, por...",
+    "options": [
+      "El Reglamento de Bienes de las Entidades Locales en todo caso",
+      "Esta ley y sus disposiciones de desarrollo, y en lo no previsto en estas normas, por la legislación de contratos de las Administraciones públicas",
+      "Las normas de derecho privado en todo caso"
+    ],
+    "correct": 1,
+    "exp": "El art. 110.1 LPAP dispone que la preparación y adjudicación de estos negocios se rigen por la propia ley y, en lo no previsto, por la legislación de contratos de las Administraciones públicas; se cita aquí porque la LPAP es supletoria del RBEL y la LBRL para las entidades locales en lo que estos no regulen.",
+    "fuente": "Art. 110.1 LPAP",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 110.1 LPAP dispone que los efectos y la extinción de los negocios jurídicos patrimoniales se rigen por...",
+    "options": [
+      "Exclusivamente la legislación de contratos públicos",
+      "El Código de Comercio",
+      "Esta ley y las normas de derecho privado"
+    ],
+    "correct": 2,
+    "exp": "El art. 110.1 LPAP, in fine, establece que los efectos y extinción de estos negocios se rigen por la propia ley y por las normas de derecho privado.",
+    "fuente": "Art. 110.1 LPAP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 110.3 LPAP, ¿qué orden jurisdiccional es el competente para resolver las controversias que surjan entre las partes sobre los contratos patrimoniales?",
+    "options": [
+      "El orden civil",
+      "El orden social",
+      "El orden penal"
+    ],
+    "correct": 0,
+    "exp": "El art. 110.3 LPAP atribuye al orden jurisdiccional civil la competencia para resolver las controversias entre las partes derivadas de estos contratos.",
+    "fuente": "Art. 110.3 LPAP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 110.3 LPAP, los actos dictados en relación con la preparación y adjudicación de los negocios patrimoniales se consideran...",
+    "options": [
+      "Actos firmes, no susceptibles de recurso alguno",
+      "Actos jurídicos separables, impugnables ante el orden jurisdiccional contencioso-administrativo",
+      "Actos de mero trámite sin posibilidad de impugnación"
+    ],
+    "correct": 1,
+    "exp": "El art. 110.3 LPAP califica de actos jurídicos separables los relativos a la preparación y adjudicación, impugnables ante el orden contencioso-administrativo conforme a su normativa reguladora.",
+    "fuente": "Art. 110.3 LPAP",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 111.1 LPAP consagra, para los negocios jurídicos sobre bienes y derechos patrimoniales, el principio de...",
+    "options": [
+      "Tipicidad contractual estricta",
+      "Reserva de ley para cada negocio",
+      "Libertad de pactos, siempre que no sean contrarios al ordenamiento jurídico ni a los principios de buena administración"
+    ],
+    "correct": 2,
+    "exp": "El art. 111.1 LPAP sujeta estos negocios al principio de libertad de pactos, dentro del respeto al ordenamiento jurídico y a los principios de buena administración.",
+    "fuente": "Art. 111.1 LPAP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 112.3 LPAP, la Intervención General de la Administración del Estado emitirá informe previo en los procedimientos de enajenación directa y permuta de bienes o derechos cuyo valor supere...",
+    "options": [
+      "1.000.000 de euros",
+      "1.500.000 euros",
+      "3.000.000 de euros"
+    ],
+    "correct": 0,
+    "exp": "El art. 112.3 LPAP fija en 1.000.000 de euros el umbral a partir del cual es preceptivo el informe previo de la Intervención General en los procedimientos de enajenación directa y permuta.",
+    "fuente": "Art. 112.3 LPAP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 112.5 LPAP, los informes previstos en el expediente patrimonial deberán emitirse en el plazo de...",
+    "options": [
+      "5 días",
+      "10 días",
+      "20 días"
+    ],
+    "correct": 1,
+    "exp": "El art. 112.5 LPAP establece un plazo de 10 días para la emisión de los informes previstos en los apartados anteriores del expediente patrimonial.",
+    "fuente": "Art. 112.5 LPAP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 113.1 LPAP, los negocios jurídicos de adquisición o enajenación de bienes inmuebles y derechos reales se formalizarán, con carácter general, en...",
+    "options": [
+      "Documento privado entre las partes",
+      "Certificación del Secretario de la Corporación",
+      "Escritura pública"
+    ],
+    "correct": 2,
+    "exp": "El art. 113.1 LPAP exige, con las salvedades del apartado siguiente, la formalización en escritura pública de los negocios de adquisición o enajenación de inmuebles y derechos reales.",
+    "fuente": "Art. 113.1 LPAP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 113.2 LPAP, las enajenaciones de inmuebles rústicos cuyo precio de venta sea inferior a... podrán formalizarse en documento administrativo, título suficiente para su inscripción registral.",
+    "options": [
+      "150.000 euros",
+      "200.000 euros",
+      "300.000 euros"
+    ],
+    "correct": 0,
+    "exp": "El art. 113.2 LPAP permite formalizar en documento administrativo las enajenaciones de inmuebles rústicos con precio de venta inferior a 150.000 euros.",
+    "fuente": "Art. 113.2 LPAP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 114.5 LPAP, las tasaciones periciales tendrán un plazo de validez de...",
+    "options": [
+      "Dos años",
+      "Un año, contado desde su aprobación",
+      "Tres años"
+    ],
+    "correct": 1,
+    "exp": "El art. 114.5 LPAP fija en un año, contado desde su aprobación, la validez de las tasaciones periciales.",
+    "fuente": "Art. 114.5 LPAP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 153 LPAP, los bienes y derechos patrimoniales podrán permutarse, por razones de interés público debidamente justificadas, cuando la diferencia de valor entre los bienes, según tasación, no sea superior al...",
+    "options": [
+      "40 por ciento del que tenga mayor valor",
+      "60 por ciento del que tenga mayor valor",
+      "50 por ciento del que tenga mayor valor"
+    ],
+    "correct": 2,
+    "exp": "El art. 153 LPAP admite la permuta cuando la diferencia de valor, según tasación, no sea superior al 50 por ciento de los bienes que tengan mayor valor; norma supletoria respecto del régimen local, que en el art. 112.2 RBEL fija un límite distinto (40 por 100) para la excepción de subasta.",
+    "fuente": "Art. 153 LPAP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 153 LPAP, si la diferencia de valor entre los bienes a permutar fuese mayor del límite legalmente admitido, el expediente se tramitará como...",
+    "options": [
+      "Una enajenación con pago de parte del precio en especie",
+      "Un arrendamiento con opción de compra",
+      "Una expropiación forzosa"
+    ],
+    "correct": 0,
+    "exp": "El art. 153 LPAP prevé que, si la diferencia de valor fuese mayor, el expediente se tramite como enajenación con pago de parte del precio en especie.",
+    "fuente": "Art. 153 LPAP",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 153 LPAP admite expresamente que la permuta de bienes y derechos patrimoniales pueda tener por objeto...",
+    "options": [
+      "Únicamente bienes muebles",
+      "Edificios a construir",
+      "Derechos de propiedad intelectual exclusivamente"
+    ],
+    "correct": 1,
+    "exp": "El art. 153 LPAP, párrafo segundo, señala que la permuta podrá tener por objeto edificios a construir.",
+    "fuente": "Art. 153 LPAP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 154.1 LPAP, a la permuta le son de aplicación las normas previstas para la enajenación de bienes y derechos, salvo lo dispuesto en cuanto a...",
+    "options": [
+      "La formalización en escritura pública",
+      "El informe previo de la Abogacía del Estado",
+      "La necesidad de convocar concurso o subasta pública para la adjudicación"
+    ],
+    "correct": 2,
+    "exp": "El art. 154.1 LPAP remite a las normas de la enajenación salvo en lo relativo a la necesidad de convocar concurso o subasta pública para la adjudicación, que no rige en la permuta.",
+    "fuente": "Art. 154.1 LPAP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 154.4 LPAP, la diferencia de valor entre los bienes a permutar podrá abonarse...",
+    "options": [
+      "En metálico o mediante la entrega de otros bienes o derechos de naturaleza distinta",
+      "Únicamente en metálico",
+      "Solo mediante compensación en especie del mismo tipo de bien permutado"
+    ],
+    "correct": 0,
+    "exp": "El art. 154.4 LPAP permite que la diferencia de valor se abone en metálico o mediante la entrega de otros bienes o derechos de naturaleza distinta.",
+    "fuente": "Art. 154.4 LPAP",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 74.1 RBEL, la utilización de los bienes de dominio y uso público se regirá por:",
+    "options": [
+      "Exclusivamente por el Reglamento de Servicios de las Entidades Locales",
+      "Las disposiciones de la Sección 1.ª del Capítulo IV del RBEL",
+      "Por la legislación de contratos del sector público con carácter exclusivo"
+    ],
+    "correct": 1,
+    "exp": "Art. 74.1 RBEL: 'La utilización de los bienes de dominio y uso público se regirá por las disposiciones de esta sección.'",
+    "fuente": "Art. 74.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 74.2 RBEL, el uso de los bienes de servicio público se regirá, ante todo, por:",
+    "options": [
+      "Las normas del RBEL con carácter exclusivo",
+      "La legislación de patrimonio del Estado",
+      "Las normas del Reglamento de Servicios de las Entidades locales, y subsidiariamente por las del RBEL"
+    ],
+    "correct": 2,
+    "exp": "Art. 74.2 RBEL: 'El uso de los bienes de servicio público se regirá, ante todo, por las normas del Reglamento de Servicios de las Entidades locales y subsidiariamente por las del presente.'",
+    "fuente": "Art. 74.2 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 75.1º RBEL, se denomina uso común de los bienes de dominio público al:",
+    "options": [
+      "Correspondiente por igual a todos los ciudadanos indistintamente, de modo que el uso de unos no impida el de los demás interesados",
+      "Constituido por la ocupación de una porción del dominio público que excluye a los demás",
+      "Reservado exclusivamente a los vecinos empadronados"
+    ],
+    "correct": 0,
+    "exp": "Art. 75.1º RBEL: 'Uso común, el correspondiente por igual a todos los ciudadanos indistintamente, de modo que el uso de unos no impida el de los demás interesados.'",
+    "fuente": "Art. 75.1º RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 75.1.b) RBEL, el uso común se califica de especial cuando:",
+    "options": [
+      "No concurren circunstancias singulares",
+      "Concurren circunstancias de peligrosidad, intensidad del uso o cualquiera otra semejante",
+      "El uso es conforme con el destino principal del bien"
+    ],
+    "correct": 1,
+    "exp": "Art. 75.1.b) RBEL: 'Especial, si concurrieran circunstancias de este carácter por la peligrosidad, intensidad del uso o cualquiera otra semejante.'",
+    "fuente": "Art. 75.1.b) RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 75.2º RBEL, el uso privativo de los bienes de dominio público es:",
+    "options": [
+      "El que se ejerce libremente sin sujeción a licencia ni concesión",
+      "El que resulta conforme con el destino principal del dominio público",
+      "El constituido por la ocupación de una porción del dominio público, de modo que limite o excluya la utilización por los demás interesados"
+    ],
+    "correct": 2,
+    "exp": "Art. 75.2º RBEL: 'Uso privativo, el constituido por la ocupación de una porción del dominio público, de modo que limite o excluya la utilización por los demás interesados.'",
+    "fuente": "Art. 75.2º RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 76 RBEL, el uso común general de los bienes de dominio público se ejercerá:",
+    "options": [
+      "Libremente, con arreglo a la naturaleza de los bienes, a los actos de afectación y apertura al uso público y a las disposiciones generales",
+      "Únicamente mediante licencia previa",
+      "Mediante autorización expresa del Pleno en cada caso"
+    ],
+    "correct": 0,
+    "exp": "Art. 76 RBEL: 'El uso común general de los bienes de dominio público se ejercerá libremente, con arreglo a la naturaleza de los mismos, a los actos de afectación y apertura al uso público y a las Leyes, Reglamentos y demás disposiciones generales.'",
+    "fuente": "Art. 76 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 77.1 RBEL, el uso común especial normal de los bienes de dominio público se sujetará a:",
+    "options": [
+      "Concesión administrativa",
+      "Licencia",
+      "Convenio de colaboración"
+    ],
+    "correct": 1,
+    "exp": "Art. 77.1 RBEL: 'El uso común especial normal de los bienes de dominio público se sujetará a licencia, ajustada a la naturaleza del dominio, a los actos de su afectación y apertura al uso público y a los preceptos de carácter general.'",
+    "fuente": "Art. 77.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 77.2 RBEL, cuando se limitare el número de licencias sobre bienes de dominio público, éstas se otorgarán:",
+    "options": [
+      "Siempre por orden de antigüedad en la solicitud",
+      "Exclusivamente por designación directa del Alcalde",
+      "Por licitación, y si no fuere posible, porque todos los autorizados hubieren de reunir las mismas condiciones, mediante sorteo"
+    ],
+    "correct": 2,
+    "exp": "Art. 77.2 RBEL: 'Las licencias se otorgarán directamente, salvo si por cualquier circunstancia se limitare el número de las mismas, en cuyo caso lo serán por licitación y, si no fuere posible, porque todos los autorizados hubieren de reunir las mismas condiciones, mediante sorteo.'",
+    "fuente": "Art. 77.2 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 78.1 RBEL, estarán sujetos a concesión administrativa:",
+    "options": [
+      "El uso privativo de bienes de dominio público y el uso anormal de los mismos",
+      "El uso común general y el uso común especial normal",
+      "Los bienes comunales en régimen de explotación común"
+    ],
+    "correct": 0,
+    "exp": "Art. 78.1 RBEL: 'Estarán sujetos a concesión administrativa: a) El uso privativo de bienes de dominio público. b) El uso anormal de los mismos.'",
+    "fuente": "Art. 78.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 79 RBEL, el plazo de duración máximo de las concesiones sobre bienes de dominio público será, con carácter general, de:",
+    "options": [
+      "Cincuenta años",
+      "Noventa y nueve años",
+      "Setenta y cinco años"
+    ],
+    "correct": 1,
+    "exp": "Art. 79 RBEL: 'En ningún caso podrá otorgarse concesión o licencia alguna por tiempo indefinido. El plazo de duración máximo de las concesiones será de noventa y nueve años, a no ser que por la normativa especial se señale otro menor.'",
+    "fuente": "Art. 79 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la cláusula 3.ª del art. 80 RBEL, el plazo de utilización fijado en una concesión sobre bienes de dominio público tendrá carácter:",
+    "options": [
+      "Prorrogable automáticamente por periodos iguales",
+      "Revisable cada cinco años a instancia del concesionario",
+      "Improrrogable, sin perjuicio de lo dispuesto en la normativa especial"
+    ],
+    "correct": 2,
+    "exp": "Art. 80.3.ª RBEL: '3.ª Plazo de la utilización, que tendrá carácter improrrogable, sin perjuicio de lo dispuesto en la normativa especial.'",
+    "fuente": "Art. 80.3.ª RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la cláusula 7.ª del art. 80 RBEL, el canon que hubiere de satisfacer el concesionario a la Entidad local tendrá el carácter de:",
+    "options": [
+      "Tasa",
+      "Precio público",
+      "Impuesto municipal"
+    ],
+    "correct": 0,
+    "exp": "Art. 80.7.ª RBEL: 'Canon que hubiere de satisfacer a la Entidad local, que tendrá el carácter de tasa...'",
+    "fuente": "Art. 80.7.ª RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 81 RBEL, las concesiones sobre bienes de dominio público otorgadas sin las formalidades establecidas reglamentariamente serán:",
+    "options": [
+      "Anulables a instancia de parte",
+      "Nulas",
+      "Válidas si transcurre un año sin impugnación"
+    ],
+    "correct": 1,
+    "exp": "Art. 81 RBEL: 'Serán nulas las concesiones que se otorgaren sin las formalidades que se establecen en los artículos siguientes...'",
+    "fuente": "Art. 81 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 82.1 RBEL, la persona que por propia iniciativa pretenda una ocupación privativa y normal de dominio público deberá presentar:",
+    "options": [
+      "Un aval bancario equivalente al valor del dominio público",
+      "Una escritura pública de propiedad",
+      "Una Memoria explicativa de la utilización y de sus fines, justificativa de la conveniencia y normalidad respecto del destino del dominio"
+    ],
+    "correct": 2,
+    "exp": "Art. 82.1 RBEL: 'deberá presentar una Memoria explicativa de la utilización y de sus fines, y justificativa de la conveniencia y de la normalidad de aquéllos respecto del destino del dominio que hubiere de utilizarse.'",
+    "fuente": "Art. 82.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 83.1 RBEL, cuando la Corporación convoque concurso de proyectos para una concesión de dominio público, el plazo mínimo de dicho concurso será de:",
+    "options": [
+      "Un mes",
+      "Dos meses",
+      "Tres meses"
+    ],
+    "correct": 0,
+    "exp": "Art. 83.1 RBEL: '...convocará concurso de proyectos durante el plazo mínimo de un mes y en la forma dispuesta por la normativa reguladora de la contratación de las Corporaciones locales.'",
+    "fuente": "Art. 83.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 84 RBEL, entre los documentos que debe contener el proyecto para una concesión de dominio público NO se exige:",
+    "options": [
+      "Memoria justificativa",
+      "Un certificado de empadronamiento del solicitante",
+      "Pliego de condiciones para la realización de las obras"
+    ],
+    "correct": 1,
+    "exp": "Art. 84 RBEL enumera Memoria justificativa, planos, valoración, presupuesto y pliegos de condiciones; no exige certificado de empadronamiento alguno.",
+    "fuente": "Art. 84 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 86.1 RBEL, en caso de discordia entre los peritos que tasaren el proyecto elegido en concurso, la discordia la resolverá:",
+    "options": [
+      "El Tribunal Superior de Justicia",
+      "El Consejo de Estado",
+      "El Jurado Provincial de Expropiación"
+    ],
+    "correct": 2,
+    "exp": "Art. 86.1 RBEL: '...y, si mediare discordia, la resolverá el Jurado Provincial de Expropiación.'",
+    "fuente": "Art. 86.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 86.2 RBEL, en la tasación contradictoria del proyecto se incluirá, además de gastos y honorarios, un beneficio del:",
+    "options": [
+      "10 por 100",
+      "5 por 100",
+      "20 por 100"
+    ],
+    "correct": 0,
+    "exp": "Art. 86.2 RBEL: '...incrementado por el interés legal de dicha valoración desde su presentación, por un 10 por 100 de beneficio y por los gastos de tasación.'",
+    "fuente": "Art. 86.2 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 87.3 RBEL, la garantía provisional para tomar parte en la licitación de una concesión normal de dominio público consistirá en:",
+    "options": [
+      "El 5 por 100 del valor del dominio público",
+      "El 2 por 100 del valor del dominio público objeto de ocupación, más el presupuesto de las obras en su caso",
+      "El 10 por 100 del valor del dominio público"
+    ],
+    "correct": 1,
+    "exp": "Art. 87.3 RBEL: 'La garantía provisional consistirá en el 2 por 100 del valor del dominio público objeto de ocupación y, además, del presupuesto de las obras que, en su caso, hubieren de realizarse.'",
+    "fuente": "Art. 87.3 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 87.4 RBEL, el proyecto y las bases de la licitación de una concesión de dominio público se someterán a información pública durante:",
+    "options": [
+      "Quince días",
+      "Veinte días",
+      "Treinta días"
+    ],
+    "correct": 2,
+    "exp": "Art. 87.4 RBEL: 'Habrá una información pública, durante treinta días, del proyecto que hubiere de servir para la concesión y de las bases de la licitación.'",
+    "fuente": "Art. 87.4 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 88.1 RBEL, el peticionario inicial de una concesión tendrá derecho de tanteo si participa en la licitación y la diferencia entre su propuesta económica y la elegida no es superior a:",
+    "options": [
+      "Un 10 por 100",
+      "Un 5 por 100",
+      "Un 50 por 100"
+    ],
+    "correct": 0,
+    "exp": "Art. 88.1 RBEL: '...tendrá derecho de tanteo si participare en la licitación y entre su propuesta económica y la que hubiere resultado elegida no existiere diferencia superior a un 10 por 100.'",
+    "fuente": "Art. 88.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 88.3 RBEL, el derecho de tanteo podrá ejercerse en el acto de apertura de plicas, que se prolongará al efecto:",
+    "options": [
+      "Una hora después de la adjudicación provisional",
+      "Treinta minutos después de la adjudicación provisional",
+      "Quince minutos después de la adjudicación provisional"
+    ],
+    "correct": 1,
+    "exp": "Art. 88.3 RBEL: 'Podrá ejercerse este derecho en el acto de la apertura de plicas, que se prolongará al efecto treinta minutos después de la adjudicación provisional.'",
+    "fuente": "Art. 88.3 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 89 RBEL, será necesario el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación para otorgar una concesión sobre bienes de dominio público cuando ésta dure más de cinco años y, además:",
+    "options": [
+      "Su cuantía exceda del 25 por 100 de los recursos ordinarios del presupuesto",
+      "Afecte a más de cien vecinos",
+      "Su cuantía exceda del 10 por 100 de los recursos ordinarios del presupuesto"
+    ],
+    "correct": 2,
+    "exp": "Art. 89 RBEL: 'Será necesario el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación cuando la concesión dure más de cinco años, siempre que su cuantía exceda del 10 por 100 de los recursos ordinarios del presupuesto.'",
+    "fuente": "Art. 89 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 90.1 RBEL, la garantía definitiva de la concesión, que debe constituirse dentro del plazo de los quince días siguientes a la notificación, consistirá en:",
+    "options": [
+      "El 3 por 100 del valor del dominio público ocupado, más el presupuesto de las obras en su caso",
+      "El 5 por 100 del valor del dominio público ocupado",
+      "El 10 por 100 del valor del dominio público ocupado"
+    ],
+    "correct": 0,
+    "exp": "Art. 90.1 RBEL: 'La garantía definitiva... consistirá en el 3 por 100 del valor del dominio público ocupado y, en su caso, del presupuesto de las obras que hayan de ejecutar.'",
+    "fuente": "Art. 90.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 91.d) RBEL, en el supuesto de ocupación anormal de bienes de dominio público, la garantía definitiva será:",
+    "options": [
+      "El 3 por 100, igual que en la ocupación normal",
+      "El 5 por 100 sobre las anteriores bases de valoración y presupuesto de obras",
+      "El 1 por 100"
+    ],
+    "correct": 1,
+    "exp": "Art. 91.d) RBEL: 'La garantía definitiva será el 5 por 100 sobre las anteriores bases.'",
+    "fuente": "Art. 91.d) RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 92.1 RBEL, será necesaria la subasta para el arrendamiento o cesión de uso de bienes patrimoniales cuando la duración de la cesión sea superior a:",
+    "options": [
+      "Diez años, o el precio exceda del 10 por 100 de los recursos ordinarios",
+      "Dos años, o el precio exceda del 2 por 100 de los recursos ordinarios",
+      "Cinco años, o el precio estipulado exceda del 5 por 100 de los recursos ordinarios del presupuesto"
+    ],
+    "correct": 2,
+    "exp": "Art. 92.1 RBEL: 'Será necesaria la realización de subasta siempre que la duración de la cesión fuera superior a cinco años o el precio estipulado exceda del 5 por 100 de los recursos ordinarios del presupuesto.'",
+    "fuente": "Art. 92.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 92.2 RBEL, en la cesión de uso de bienes patrimoniales, el usuario habrá de satisfacer un canon no inferior a:",
+    "options": [
+      "El 6 por 100 del valor en venta de los bienes",
+      "El 3 por 100 del valor en venta de los bienes",
+      "El 4 por 100 del valor en venta de los bienes"
+    ],
+    "correct": 0,
+    "exp": "Art. 92.2 RBEL: 'En todo caso, el usuario habrá de satisfacer un canon no inferior al 6 por 100 del valor en venta de los bienes.'",
+    "fuente": "Art. 92.2 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 93.1.a) RBEL, se dará por terminada la ocupación de una vivienda cedida al personal cuando se acredite la permanencia en excedencia voluntaria durante:",
+    "options": [
+      "Un año",
+      "Dos años, sin que se haya solicitado de forma inmediata el reingreso",
+      "Cinco años"
+    ],
+    "correct": 1,
+    "exp": "Art. 93.1.a) RBEL: 'Permanencia de dos años en la situación de excedencia voluntaria sin que una vez transcurrido dicho plazo se haya solicitado, de forma inmediata, el oportuno reingreso.'",
+    "fuente": "Art. 93.1.a) RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 93.2 RBEL, corresponderá a la Corporación:",
+    "options": [
+      "Solicitar el desahucio ante los tribunales ordinarios de forma obligatoria",
+      "Delegar el desahucio en la autoridad autonómica",
+      "Acordar y ejecutar por sí misma el desahucio"
+    ],
+    "correct": 2,
+    "exp": "Art. 93.2 RBEL: 'Corresponderá a la Corporación acordar y ejecutar por sí misma el desahucio.'",
+    "fuente": "Art. 93.2 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 94.1 RBEL, el aprovechamiento y disfrute de los bienes comunales se efectuará precisamente en régimen de:",
+    "options": [
+      "Explotación común o cultivo colectivo",
+      "Concesión administrativa",
+      "Subasta pública permanente"
+    ],
+    "correct": 0,
+    "exp": "Art. 94.1 RBEL: 'El aprovechamiento y disfrute de bienes comunales se efectuará precisamente en régimen de explotación común o cultivo colectivo.'",
+    "fuente": "Art. 94.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 94.2 RBEL, cuando el disfrute en explotación común o cultivo colectivo fuere impracticable, se adoptará una de estas formas:",
+    "options": [
+      "Venta directa a un particular",
+      "Aprovechamiento peculiar según costumbre o reglamentación local, o adjudicación por lotes o suertes",
+      "Expropiación forzosa a favor de la Corporación"
+    ],
+    "correct": 1,
+    "exp": "Art. 94.2 RBEL: 'Sólo cuando tal disfrute fuere impracticable se adoptará una de las formas siguientes: a) Aprovechamiento peculiar, según costumbre o reglamentación local, o b) Adjudicación por lotes o suertes.'",
+    "fuente": "Art. 94.2 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 97 RBEL, la adjudicación de bienes comunales por lotes o suertes se hará a los vecinos en proporción:",
+    "options": [
+      "Directa a su situación económica e inversa al número de personas a su cargo",
+      "Directa a la antigüedad de empadronamiento",
+      "Directa al número de personas que tengan a su cargo e inversa de su situación económica"
+    ],
+    "correct": 2,
+    "exp": "Art. 97 RBEL: 'La adjudicación por lotes o suertes se hará a los vecinos en proporción directa al número de personas que tengan a su cargo e inversa de su situación económica.'",
+    "fuente": "Art. 97 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 98.1 RBEL, la adjudicación de bienes comunales mediante precio habrá de ser autorizada por:",
+    "options": [
+      "El órgano competente de la Comunidad Autónoma",
+      "El Delegado del Gobierno",
+      "El Consejo de Ministros"
+    ],
+    "correct": 0,
+    "exp": "Art. 98.1 RBEL: 'La adjudicación mediante precio habrá de ser autorizada por el órgano competente de la Comunidad Autónoma, y se efectuará por subasta pública en la que tengan preferencia sobre los no residentes, en igualdad de condiciones, los postores vecinos.'",
+    "fuente": "Art. 98.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 98.3 RBEL, del producto de la adjudicación mediante precio de bienes comunales, la Corporación no podrá detraer más de:",
+    "options": [
+      "Un 10 por 100 del importe",
+      "Un 5 por 100 del importe",
+      "Un 15 por 100 del importe"
+    ],
+    "correct": 1,
+    "exp": "Art. 98.3 RBEL: 'El producto se destinará a servicios en utilidad de los que tuvieren derecho al aprovechamiento, sin que pueda detraerse por la Corporación más de un 5 por 100 del importe.'",
+    "fuente": "Art. 98.3 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 99 RBEL, la cuota anual que en casos extraordinarios se fije a los vecinos por la utilización de lotes comunales debe compensar estrictamente los gastos de:",
+    "options": [
+      "Mejora de infraestructuras generales del municipio",
+      "Retribución del personal de la Corporación",
+      "Custodia, conservación y administración de los bienes"
+    ],
+    "correct": 2,
+    "exp": "Art. 99 RBEL: 'podrá fijarse una cuota anual que deberán abonar los vecinos por la utilización de los lotes que se les adjudiquen, para compensar estrictamente los gastos que se originen por la custodia, conservación y administración de los bienes.'",
+    "fuente": "Art. 99 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 100.1 RBEL, los bienes comunales que no hayan sido objeto de disfrute de esta índole durante más de:",
+    "options": [
+      "Diez años",
+      "Cinco años",
+      "Tres años"
+    ],
+    "correct": 0,
+    "exp": "Art. 100.1 RBEL: 'Si los bienes comunales... no han sido objeto de disfrute de esta índole durante más de diez años... podrán ser desprovistos del carácter de comunales en virtud de acuerdo de la Corporación respectiva.'",
+    "fuente": "Art. 100.1 RBEL",
+    "confianza": "alta",
+    "correccion": "Se recortó la opción correcta (antes 'Diez años, podrán ser desprovistos del carácter de comunales mediante acuerdo de la Corporación') a solo 'Diez años', para que las 4 opciones sean paralelas (solo plazos) y no delate la respuesta por longitud/formato. El dato (diez años) y el índice 'correct': 3 no cambian."
+  },
+  {
+    "q": "Según el art. 102 RBEL, la cesión por cualquier título del aprovechamiento de bienes comunales deberá ser acordada por:",
+    "options": [
+      "La Junta de Gobierno Local por mayoría simple",
+      "El Pleno de la Corporación, con el voto favorable de la mayoría absoluta del número legal de miembros",
+      "El Alcalde por delegación de competencias"
+    ],
+    "correct": 1,
+    "exp": "Art. 102 RBEL: 'La cesión por cualquier título del aprovechamiento de bienes comunales deberá ser acordada por el Pleno de la Corporación, requiriéndose el voto favorable de la mayoría absoluta del número legal de miembros.'",
+    "fuente": "Art. 102 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 103.1 RBEL, el derecho al aprovechamiento y disfrute de los bienes comunales corresponde a los vecinos:",
+    "options": [
+      "Únicamente a los mayores de edad con residencia superior a diez años",
+      "Exclusivamente a los nacionales españoles, con exclusión de cualquier extranjero",
+      "Sin distinción de sexo, estado civil o edad, gozando también de este derecho los extranjeros domiciliados en el término municipal"
+    ],
+    "correct": 2,
+    "exp": "Art. 103.1 RBEL: 'El derecho al aprovechamiento y disfrute de los bienes comunales... corresponderá simultáneamente a los vecinos sin distinción de sexo, estado civil o edad. Los extranjeros domiciliados en el término municipal gozarán también de estos derechos.'",
+    "fuente": "Art. 103.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 106 RBEL, parte de los bienes comunales podrá ser acotada para fines específicos, tales como:",
+    "options": [
+      "Enseñanza, recreo escolar, caza o auxilio a los vecinos necesitados",
+      "Construcción de viviendas de protección oficial",
+      "Explotación minera concesionada"
+    ],
+    "correct": 0,
+    "exp": "Art. 106 RBEL: 'Parte de los bienes comunales podrá ser acotada para fines específicos, tales como enseñanza, recreo escolar, caza o auxilio a los vecinos necesitados.'",
+    "fuente": "Art. 106 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 107 RBEL, las Corporaciones locales podrán ejercer el derecho de tanteo en las subastas de pastos sobrantes de dehesas boyales y montes comunales y patrimoniales dentro de los:",
+    "options": [
+      "Quince días siguientes a la celebración de la licitación",
+      "Cinco días siguientes a la celebración de la licitación",
+      "Dos días siguientes a la celebración de la licitación"
+    ],
+    "correct": 1,
+    "exp": "Art. 107 RBEL: 'Las Corporaciones locales podrán ejercer el derecho de tanteo en las subastas de pastos sobrantes de dehesas boyales y de montes comunales y patrimoniales, dentro de los cinco días siguientes al que se hubiere celebrado la licitación.'",
+    "fuente": "Art. 107 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 79.1 LBRL, el patrimonio de las entidades locales está constituido por:",
+    "options": [
+      "Únicamente los bienes inmuebles de dominio público",
+      "El conjunto de bienes muebles e inmuebles inscritos en el Registro de la Propiedad",
+      "El conjunto de bienes, derechos y acciones que les pertenezcan"
+    ],
+    "correct": 2,
+    "exp": "El art. 79.1 LBRL dispone literalmente que 'el patrimonio de las entidades locales está constituido por el conjunto de bienes, derechos y acciones que les pertenezcan'.",
+    "fuente": "Art. 79.1 LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el art. 79.2 LBRL, los bienes de las entidades locales se clasifican en:",
+    "options": [
+      "Bienes de dominio público o patrimoniales",
+      "Bienes muebles o inmuebles",
+      "Bienes afectos o desafectados, sin más categorías"
+    ],
+    "correct": 0,
+    "exp": "El art. 79.2 LBRL establece que 'los bienes de las entidades locales son de dominio público o patrimoniales'.",
+    "fuente": "Art. 79.2 LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 79.3 LBRL, ¿qué bienes tienen la consideración de bienes de dominio público?",
+    "options": [
+      "Los inscritos en el Inventario General de Bienes",
+      "Los destinados a un uso o servicio público",
+      "Los adquiridos por herencia o legado"
+    ],
+    "correct": 1,
+    "exp": "El art. 79.3 LBRL indica que 'son bienes de dominio público los destinados a un uso o servicio público'.",
+    "fuente": "Art. 79.3 LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 79.3 LBRL establece que tienen la consideración de bienes comunales:",
+    "options": [
+      "Los que hayan sido cedidos gratuitamente por el Estado",
+      "Los bienes de servicio público sin uso directo por los vecinos",
+      "Aquellos cuyo aprovechamiento corresponda al común de los vecinos"
+    ],
+    "correct": 2,
+    "exp": "El art. 79.3 LBRL añade que 'tienen la consideración de comunales aquellos cuyo aprovechamiento corresponda al común de los vecinos'.",
+    "fuente": "Art. 79.3 LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 80.1 LBRL, los bienes comunales y demás bienes de dominio público son:",
+    "options": [
+      "Inalienables, inembargables e imprescriptibles, y no están sujetos a tributo alguno",
+      "Alienables con autorización previa del Pleno, pero inembargables",
+      "Prescriptibles a los treinta años, salvo declaración en contrario"
+    ],
+    "correct": 0,
+    "exp": "El art. 80.1 LBRL dice: 'Los bienes comunales y demás bienes de dominio público son inalienables, inembargables e imprescriptibles y no están sujetos a tributo alguno.'",
+    "fuente": "Art. 80.1 LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Por qué normativa se rigen los bienes patrimoniales de las entidades locales, conforme al art. 80.2 LBRL?",
+    "options": [
+      "Exclusivamente por el Derecho administrativo, sin remisión al Derecho privado",
+      "Por su legislación específica y, en su defecto, por las normas de Derecho privado",
+      "Por las mismas normas que los bienes de dominio público"
+    ],
+    "correct": 1,
+    "exp": "El art. 80.2 LBRL establece: 'Los bienes patrimoniales se rigen por su legislación específica y, en su defecto, por las normas de Derecho privado.'",
+    "fuente": "Art. 80.2 LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 81.1 LBRL exige, para alterar la calificación jurídica de los bienes de las entidades locales, la tramitación de:",
+    "options": [
+      "Un informe preceptivo del Tribunal de Cuentas",
+      "Una autorización del órgano autonómico competente en patrimonio, en todo caso",
+      "Un expediente en el que se acrediten su oportunidad y legalidad"
+    ],
+    "correct": 2,
+    "exp": "El art. 81.1 LBRL dispone que 'la alteración de la calificación jurídica de los bienes de las entidades locales requiere expediente en el que se acrediten su oportunidad y legalidad'.",
+    "fuente": "Art. 81.1 LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 81.2.a) LBRL, la alteración de la calificación jurídica se produce automáticamente cuando:",
+    "options": [
+      "Se aprueban definitivamente los planes de ordenación urbana y los proyectos de obras y servicios",
+      "Transcurre un plazo de seis meses sin uso efectivo del bien",
+      "El bien queda inscrito en el Registro de la Propiedad"
+    ],
+    "correct": 0,
+    "exp": "El art. 81.2 LBRL prevé la alteración automática, entre otros supuestos, por 'aprobación definitiva de los planes de ordenación urbana y de los proyectos de obras y servicios'.",
+    "fuente": "Art. 81.2.a) LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 81.2.b) LBRL, ¿durante cuánto tiempo debe estar adscrito un bien patrimonial a un uso o servicio públicos para que se produzca la alteración automática de su calificación?",
+    "options": [
+      "Más de cincuenta años",
+      "Más de veinticinco años",
+      "Más de cinco años"
+    ],
+    "correct": 1,
+    "exp": "El art. 81.2.b) LBRL prevé la alteración automática por 'adscripción de bienes patrimoniales por más de veinticinco años a un uso o servicio públicos'.",
+    "fuente": "Art. 81.2.b) LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 82.a) LBRL, ¿en qué plazo pueden las entidades locales recuperar por sí mismas la posesión de sus bienes patrimoniales usurpados?",
+    "options": [
+      "En el plazo de seis meses",
+      "En el plazo de dos años",
+      "En el plazo de un año"
+    ],
+    "correct": 2,
+    "exp": "El art. 82.a) LBRL reconoce la prerrogativa de recuperar la posesión 'en cualquier momento cuando se trate de los de dominio público, y en el plazo de un año, los patrimoniales'.",
+    "fuente": "Art. 82.a) LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Respecto de los bienes de dominio público, el art. 82.a) LBRL permite a las entidades locales recuperar su posesión:",
+    "options": [
+      "En cualquier momento",
+      "Solo en el plazo de un año, igual que los patrimoniales",
+      "En el plazo de treinta días desde la usurpación"
+    ],
+    "correct": 0,
+    "exp": "El art. 82.a) LBRL distingue: los bienes de dominio público pueden recuperarse 'en cualquier momento', mientras que los patrimoniales solo en el plazo de un año.",
+    "fuente": "Art. 82.a) LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "La prerrogativa de deslinde de sus bienes, reconocida a las entidades locales en el art. 82.b) LBRL, se ajustará a:",
+    "options": [
+      "Lo dispuesto en el Reglamento Hipotecario exclusivamente",
+      "Lo dispuesto en la legislación del Patrimonio del Estado y, en su caso, en la legislación de los montes",
+      "La legislación de expropiación forzosa"
+    ],
+    "correct": 1,
+    "exp": "El art. 82.b) LBRL establece que la prerrogativa de deslinde 'se ajustará a lo dispuesto en la legislación del Patrimonio del Estado y, en su caso, en la legislación de los montes'.",
+    "fuente": "Art. 82.b) LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 83 LBRL, los montes vecinales en mano común se regulan por:",
+    "options": [
+      "La LBRL con carácter exclusivo y excluyente",
+      "Las Ordenanzas de cada Ayuntamiento",
+      "Su legislación específica"
+    ],
+    "correct": 2,
+    "exp": "El art. 83 LBRL dice literalmente: 'Los montes vecinales en mano común se regulan por su legislación específica.'",
+    "fuente": "Art. 83 LBRL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 1.2.a) RBEL, el régimen de bienes de las Entidades locales se rige, en primer lugar, por:",
+    "options": [
+      "La legislación básica del Estado en materia de régimen local",
+      "La legislación autonómica de patrimonio, con preferencia sobre la estatal",
+      "El Derecho privado, con carácter general"
+    ],
+    "correct": 0,
+    "exp": "El art. 1.2 RBEL enumera como primera fuente 'la legislación básica del Estado en materia de régimen local'.",
+    "fuente": "Art. 1.2.a) RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 1.2.c) RBEL incluye entre las fuentes del régimen de bienes de las Entidades locales:",
+    "options": [
+      "La jurisprudencia del Tribunal Supremo",
+      "La legislación que en el ámbito de sus competencias dicten las Comunidades Autónomas",
+      "Los reglamentos de la Unión Europea"
+    ],
+    "correct": 1,
+    "exp": "El art. 1.2.c) RBEL cita 'la legislación que en el ámbito de sus competencias dicten las Comunidades Autónomas'.",
+    "fuente": "Art. 1.2.c) RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 1.3 RBEL, en todo caso se aplicará el derecho estatal de conformidad con:",
+    "options": [
+      "El artículo 103 de la Constitución",
+      "El artículo 9.3 de la Constitución",
+      "El artículo 149.3 de la Constitución"
+    ],
+    "correct": 2,
+    "exp": "El art. 1.3 RBEL remite al 'artículo 149.3 de la Constitución'.",
+    "fuente": "Art. 1.3 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 2.1 RBEL clasifica los bienes de las Entidades locales en:",
+    "options": [
+      "Bienes de dominio público y bienes patrimoniales",
+      "Bienes muebles, inmuebles y derechos",
+      "Bienes afectos y bienes libres"
+    ],
+    "correct": 0,
+    "exp": "El art. 2.1 RBEL dispone que 'los bienes de las Entidades locales se clasificarán en bienes de dominio público y bienes patrimoniales'.",
+    "fuente": "Art. 2.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 2.3 RBEL, los bienes comunales tienen la consideración de:",
+    "options": [
+      "Bienes patrimoniales cedidos temporalmente a los vecinos",
+      "Bienes de dominio público cuyo aprovechamiento corresponde al común de los vecinos",
+      "Bienes de servicio público destinados a uso administrativo"
+    ],
+    "correct": 1,
+    "exp": "El art. 2.3 RBEL precisa: 'Tienen la consideración de comunales aquellos bienes que siendo de dominio público, su aprovechamiento corresponde al común de los vecinos.'",
+    "fuente": "Art. 2.3 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 2.4 RBEL, los bienes comunales solo podrán pertenecer a:",
+    "options": [
+      "Cualquier Entidad local, incluidas las Mancomunidades",
+      "El Estado y los Municipios conjuntamente",
+      "Los Municipios y a las Entidades locales menores"
+    ],
+    "correct": 2,
+    "exp": "El art. 2.4 RBEL establece que 'los bienes comunales solo podrán pertenecer a los Municipios y a las Entidades locales menores'.",
+    "fuente": "Art. 2.4 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 3.1 RBEL, son bienes de uso público local, entre otros:",
+    "options": [
+      "Los caminos, plazas, calles, paseos y parques",
+      "Las Casas Consistoriales y Palacios Provinciales",
+      "Los montes catalogados y las escuelas"
+    ],
+    "correct": 0,
+    "exp": "El art. 3.1 RBEL cita como bienes de uso público local 'los caminos, plazas, calles, paseos, parques, aguas de fuentes y estanques, puentes y demás obras públicas de aprovechamiento o utilización generales'.",
+    "fuente": "Art. 3.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 3.2 RBEL, la afectación de los inmuebles al uso público se producirá, en todo caso, en el momento de:",
+    "options": [
+      "La aprobación inicial del planeamiento urbanístico",
+      "La cesión de derecho a la administración actuante conforme a la legislación urbanística",
+      "El pago del último plazo de las obras de urbanización"
+    ],
+    "correct": 1,
+    "exp": "El art. 3.2 RBEL dispone que la afectación al uso público 'se producirá, en todo caso, en el momento de la cesión de derecho a la administración actuante conforme a la legislación urbanística'.",
+    "fuente": "Art. 3.2 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 6.1 RBEL define los bienes patrimoniales o de propios como aquellos que:",
+    "options": [
+      "Están destinados a un uso público general, aunque generen ingresos",
+      "Pertenecen al común de los vecinos y no pueden generar ingresos",
+      "Siendo propiedad de la Entidad Local, no están destinados a uso público ni afectados a servicio público y pueden constituir fuentes de ingresos"
+    ],
+    "correct": 2,
+    "exp": "El art. 6.1 RBEL define como patrimoniales o de propios 'los que siendo propiedad de la Entidad Local no estén destinados a uso público ni afectados a algún servicio público y puedan constituir fuentes de ingresos para el erario de la Entidad'.",
+    "fuente": "Art. 6.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 7.2 RBEL, se conceptúan como parcelas sobrantes:",
+    "options": [
+      "Las porciones de terreno propiedad de las Entidades locales que por su reducida extensión, forma irregular o emplazamiento no son susceptibles de uso adecuado",
+      "Los terrenos calificados como suelo urbanizable no programado",
+      "Los terrenos adquiridos por expropiación forzosa y no utilizados en cinco años"
+    ],
+    "correct": 0,
+    "exp": "El art. 7.2 RBEL conceptúa como parcelas sobrantes 'aquellas porciones de terreno propiedad de las Entidades locales que por su reducida extensión, forma irregular o emplazamiento, no fueren susceptibles de uso adecuado'.",
+    "fuente": "Art. 7.2 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 7.4 RBEL, se consideran efectos no utilizables:",
+    "options": [
+      "Únicamente los bienes que hayan sido dados de baja formalmente en el Inventario",
+      "Los bienes que por su deterioro, depreciación o deficiente estado de conservación resulten inaplicables a los servicios municipales, aunque no hayan sido dados de baja en el Inventario",
+      "Los bienes adquiridos por prescripción y no inscritos en el Registro"
+    ],
+    "correct": 1,
+    "exp": "El art. 7.4 RBEL considera efectos no utilizables 'todos aquellos bienes que por su deterioro, depreciación o deficiente estado de conservación resultaren inaplicables a los servicios municipales o al normal aprovechamiento... aunque los mismos no hubieren sido dados de baja en el Inventario'.",
+    "fuente": "Art. 7.4 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 8.2 RBEL, el expediente de alteración de la calificación jurídica de los bienes deberá resolverse, previa información pública durante un mes, por la Corporación local mediante acuerdo adoptado con:",
+    "options": [
+      "El voto favorable de la mayoría simple de los miembros presentes",
+      "El voto favorable de las dos terceras partes del número legal de miembros",
+      "El voto favorable de la mayoría absoluta del número legal de miembros de la Corporación"
+    ],
+    "correct": 2,
+    "exp": "El art. 8.2 RBEL exige que el expediente 'deberá ser resuelto, previa información pública durante un mes, por la Corporación local respectiva, mediante \"acuerdo adoptado\" con el voto favorable de la mayoría absoluta del número legal de miembros de la misma'.",
+    "fuente": "Art. 8.2 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Además de los supuestos previstos en la LBRL, el art. 8.4.c) RBEL añade como causa de alteración automática de la calificación jurídica:",
+    "options": [
+      "Que la Entidad adquiera por usucapión, con arreglo al derecho civil, el dominio de una cosa destinada a un uso o servicio público o comunal",
+      "Que el bien sea declarado de interés cultural por la Comunidad Autónoma",
+      "Que se apruebe el presupuesto municipal del ejercicio siguiente"
+    ],
+    "correct": 0,
+    "exp": "El art. 8.4.c) RBEL añade como supuesto de alteración automática que 'la entidad adquiera por usucapión, con arreglo al derecho civil, el dominio de una cosa que viniere estando destinada a un uso o servicio público o comunal'.",
+    "fuente": "Art. 8.4.c) RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 9.1 RBEL, las Entidades locales tendrán capacidad jurídica plena para:",
+    "options": [
+      "Poseer bienes solo si están inscritos en el Registro de la Propiedad",
+      "Adquirir y poseer bienes de todas clases y ejercitar las acciones y recursos procedentes en defensa de su patrimonio",
+      "Ejercitar acciones exclusivamente ante la jurisdicción contencioso-administrativa"
+    ],
+    "correct": 1,
+    "exp": "El art. 9.1 RBEL reconoce a las Entidades locales 'capacidad jurídica plena para adquirir y poseer bienes de todas las clases y ejercitar las acciones y recursos procedentes en defensa de su patrimonio'.",
+    "fuente": "Art. 9.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 9.2 RBEL establece que las Entidades locales tienen la obligación de:",
+    "options": [
+      "Enajenar los bienes patrimoniales no utilizados en el plazo de un año",
+      "Ceder gratuitamente los bienes comunales a los vecinos que lo soliciten",
+      "Ejercer las acciones necesarias para la defensa de sus bienes y derechos"
+    ],
+    "correct": 2,
+    "exp": "El art. 9.2 RBEL dice: 'Las Entidades locales tienen la obligación de ejercer las acciones necesarias para la defensa de sus bienes y derechos.'",
+    "fuente": "Art. 9.2 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 9.3 RBEL, los acuerdos para el ejercicio de acciones necesarias para la defensa de los bienes y derechos de las Entidades locales deberán adoptarse previo dictamen de:",
+    "options": [
+      "El secretario, o en su caso la Asesoría Jurídica y, en defecto de ambos, de un Letrado",
+      "El Pleno en sesión extraordinaria",
+      "El órgano autonómico competente en materia de patrimonio"
+    ],
+    "correct": 0,
+    "exp": "El art. 9.3 RBEL exige dictamen previo 'del secretario, o, en su caso, de la Asesoría Jurídica y, en defecto de ambos, de un Letrado'.",
+    "fuente": "Art. 9.3 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 11.1 RBEL, cuando se trate de la adquisición onerosa de bienes inmuebles, además de los requisitos de la normativa de contratación, se exigirá:",
+    "options": [
+      "Autorización previa del Consejo de Ministros",
+      "Informe previo pericial",
+      "Informe favorable del Tribunal de Cuentas"
+    ],
+    "correct": 1,
+    "exp": "El art. 11.1 RBEL exige que, tratándose de inmuebles, 'se exigirá, además, informe previo pericial'.",
+    "fuente": "Art. 11.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 11.1 RBEL, se requerirá informe del órgano estatal o autonómico competente para adquirir onerosamente bienes de valor histórico o artístico cuando su importe exceda:",
+    "options": [
+      "Del 10 por 100 del Presupuesto total de la Corporación",
+      "Del 50 por 100 del valor catastral del bien",
+      "Del 1 por 100 de los recursos ordinarios del Presupuesto de la Corporación o del límite general de contratación directa en suministros"
+    ],
+    "correct": 2,
+    "exp": "El art. 11.1 RBEL exige ese informe 'siempre que su importe exceda del 1 por 100 de los recursos ordinarios del Presupuesto de la Corporación o del límite general establecido para la contratación directa en materia de suministros'.",
+    "fuente": "Art. 11.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 11.2 RBEL, las adquisiciones de bienes derivadas de expropiaciones forzosas se regirán por:",
+    "options": [
+      "Su normativa específica",
+      "La normativa general de contratación de las Corporaciones locales",
+      "El Derecho privado, con carácter supletorio"
+    ],
+    "correct": 0,
+    "exp": "El art. 11.2 RBEL dispone que 'las adquisiciones de bienes derivadas de expropiaciones forzosas se regirán por su normativa específica'.",
+    "fuente": "Art. 11.2 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 12.1 RBEL, la adquisición de bienes a título gratuito:",
+    "options": [
+      "Requerirá siempre autorización previa del órgano autonómico competente",
+      "No estará sujeta a restricción alguna",
+      "Solo podrá realizarse mediante concurso público"
+    ],
+    "correct": 1,
+    "exp": "El art. 12.1 RBEL dice: 'La adquisición de bienes a título gratuito no estará sujeta a restricción alguna.'",
+    "fuente": "Art. 12.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando la adquisición gratuita de un bien lleve aneja una condición o modalidad onerosa, el art. 12.2 RBEL exige, para poder aceptarlo, previo expediente en el que se acredite que:",
+    "options": [
+      "El donante renuncia expresamente a cualquier reversión",
+      "El bien se destinará necesariamente a uso público",
+      "El valor del gravamen impuesto no excede del valor de lo que se adquiere"
+    ],
+    "correct": 2,
+    "exp": "El art. 12.2 RBEL exige expediente en el que 'se acredite que el valor del gravamen impuesto no excede del valor de lo que se adquiere'.",
+    "fuente": "Art. 12.2 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 12.3 RBEL, la aceptación de herencias por las Entidades locales se entenderá:",
+    "options": [
+      "A beneficio de inventario",
+      "Condicionada a la autorización del Ministerio Fiscal",
+      "Sujeta a reversión automática al cabo de treinta años"
+    ],
+    "correct": 0,
+    "exp": "El art. 12.3 RBEL establece que 'la aceptación de herencias se entenderá a beneficio de inventario'.",
+    "fuente": "Art. 12.3 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13 RBEL, si los bienes se hubieren adquirido bajo condición de afectación permanente a determinados destinos, esta se entenderá cumplida y consumada cuando:",
+    "options": [
+      "Durante diez años hubieren servido al mismo destino, sin excepción posible",
+      "Durante treinta años hubieren servido al mismo destino, aunque luego dejaren de estarlo por circunstancias sobrevenidas de interés público",
+      "Se hubiere dictado sentencia judicial firme declarándolo así"
+    ],
+    "correct": 1,
+    "exp": "El art. 13 RBEL dispone que la condición se entenderá cumplida 'cuando durante treinta años hubieren servido al mismo y aunque luego dejaren de estarlo por circunstancias sobrevenidas de interés público'.",
+    "fuente": "Art. 13 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 14.1 RBEL, los particulares podrán prescribir a su favor:",
+    "options": [
+      "Los bienes comunales, en el plazo de diez años",
+      "Los bienes de dominio público, si acreditan buena fe",
+      "Los bienes patrimoniales de las Entidades locales, de acuerdo con las leyes comunes"
+    ],
+    "correct": 2,
+    "exp": "El art. 14.1 RBEL indica que 'los particulares podrán prescribir a su favor los bienes patrimoniales de las Entidades locales de acuerdo con las leyes comunes'.",
+    "fuente": "Art. 14.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 15.1 RBEL, en los supuestos de adjudicación de bienes o derechos a las Entidades locales dimanante de procedimiento judicial o administrativo, se dispondrá ante todo que:",
+    "options": [
+      "Se identifiquen los bienes adjudicados y se proceda a su tasación pericial",
+      "Se subasten públicamente en el plazo de un mes",
+      "Se comuniquen al órgano autonómico competente para su aprobación"
+    ],
+    "correct": 0,
+    "exp": "El art. 15.1 RBEL dispone que 'se dispondrá ante todo que se identifiquen los bienes adjudicados y se proceda a su tasación pericial'.",
+    "fuente": "Art. 15.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 15.3 RBEL, cuando los bienes o derechos hubieran sido adjudicados en pago de un crédito de la Entidad local y el importe del crédito fuese inferior al valor resultante de la tasación, el deudor a quien pertenecieron:",
+    "options": [
+      "Tendrá derecho a reclamar la diferencia en el plazo de un año",
+      "No tendrá derecho a reclamar la diferencia",
+      "Tendrá derecho a una indemnización equivalente al doble de la diferencia"
+    ],
+    "correct": 1,
+    "exp": "El art. 15.3 RBEL establece que en tal caso 'el deudor a quien pertenecieron no tendrá derecho a reclamar la diferencia'.",
+    "fuente": "Art. 15.3 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.2 RBEL, los bienes patrimoniales que resultaren calificados como suelo urbano o urbanizable programado en el planeamiento urbanístico quedarán:",
+    "options": [
+      "Sujetos a expropiación forzosa automática",
+      "Excluidos del Inventario de bienes de la Entidad",
+      "Afectos al Patrimonio Municipal del Suelo"
+    ],
+    "correct": 2,
+    "exp": "El art. 16.2 RBEL dispone que dichos bienes patrimoniales 'quedarán afectos al Patrimonio Municipal del Suelo'.",
+    "fuente": "Art. 16.2 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 17.1 RBEL, ¿de qué bienes y derechos están obligadas a formar inventario las Corporaciones locales?",
+    "options": [
+      "De todos sus bienes y derechos, cualquiera que sea su naturaleza o forma de adquisición",
+      "Solo de los bienes patrimoniales de valor superior a determinada cuantía",
+      "Exclusivamente de los bienes muebles de carácter histórico o artístico"
+    ],
+    "correct": 0,
+    "exp": "Art. 17.1: 'Las Corporaciones locales están obligadas a formar inventario de todos sus bienes y derechos, cualquiera que sea su naturaleza o forma de adquisición.'",
+    "fuente": "Art. 17.1 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 18 RBEL, ¿en cuántos epígrafes se reseñan los bienes en el inventario, según su naturaleza?",
+    "options": [
+      "Seis",
+      "Ocho",
+      "Diez"
+    ],
+    "correct": 1,
+    "exp": "El art. 18 enumera ocho epígrafes: inmuebles, derechos reales, muebles históricos/artísticos, valores mobiliarios/créditos/derechos personales, vehículos, semovientes, muebles no comprendidos en los anteriores, y bienes y derechos revertibles.",
+    "fuente": "Art. 18 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Tratándose de vías públicas, según el art. 20.g) RBEL, el inventario de bienes inmuebles debe contener los datos necesarios para su individualización, con especial referencia a:",
+    "options": [
+      "El presupuesto anual de conservación",
+      "El número de farolas y mobiliario urbano instalado",
+      "Sus límites, longitud y anchura"
+    ],
+    "correct": 2,
+    "exp": "Art. 20.g): 'Tratándose de vías públicas, en el inventario deberán constar los datos necesarios para su individualización, con especial referencia a sus límites, longitud y anchura.'",
+    "fuente": "Art. 20.g) RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 20.i) RBEL, al inventariar un bien inmueble debe expresarse su naturaleza de dominio público o patrimonial, distinguiendo si se trata de:",
+    "options": [
+      "Bienes de uso o de servicio público, patrimoniales o comunales",
+      "Bienes urbanos o rústicos exclusivamente",
+      "Bienes libres de cargas o gravados"
+    ],
+    "correct": 0,
+    "exp": "Art. 20.i): 'Naturaleza de dominio público o patrimonial, con expresión de si se trata de bienes de uso o de servicio público, patrimoniales o comunales.'",
+    "fuente": "Art. 20.i) RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 21 RBEL, entre las circunstancias que debe comprender el inventario de los derechos reales se encuentra:",
+    "options": [
+      "El nombre del notario que autorizó su constitución",
+      "El inmueble sobre el que recayere y el contenido del derecho",
+      "El número de recursos administrativos pendientes"
+    ],
+    "correct": 1,
+    "exp": "Art. 21 enumera, entre otras circunstancias del inventario de derechos reales: naturaleza, inmueble sobre el que recayere, contenido del derecho, título de adquisición, signatura registral, costo, valor actual y frutos y rentas.",
+    "fuente": "Art. 21 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 23 RBEL, el inventario de los valores mobiliarios debe contener, entre otras determinaciones, el/la:",
+    "options": [
+      "Domicilio fiscal del titular de los valores",
+      "Nombre del corredor de bolsa que intermedió la operación",
+      "Número de los títulos, su clase y el organismo o Entidad emisora"
+    ],
+    "correct": 2,
+    "exp": "Art. 23 enumera entre las determinaciones del inventario de valores mobiliarios: número de los títulos, clase, organismo o entidad emisora, serie y numeración, fecha y precio de adquisición, capital nominal, valor efectivo, frutos y rentas, y lugar de depósito.",
+    "fuente": "Art. 23 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 26 RBEL, el inventario de los bienes semovientes debe consignar, entre otros datos:",
+    "options": [
+      "La especie, el número de cabezas y las marcas",
+      "El peso medio del ganado y su valor en el mercado internacional",
+      "El nombre del veterinario responsable de su sanidad"
+    ],
+    "correct": 0,
+    "exp": "Art. 26: 'El inventario de los bienes semovientes consignara: a) Especie. b) Número de cabezas. c) Marcas, y d) Persona encargada de la custodia.'",
+    "fuente": "Art. 26 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 28.2 RBEL, ¿cuáles de los siguientes bienes se relacionan, entre otros, en el epígrafe de 'bienes y derechos revertibles' del inventario?",
+    "options": [
+      "Únicamente los bienes de dominio público natural",
+      "Los cedidos por la Corporación condicionalmente o a plazo, las concesiones y los arrendamientos otorgados sobre bienes municipales o provinciales",
+      "Los bienes adquiridos mediante expropiación forzosa"
+    ],
+    "correct": 1,
+    "exp": "Art. 28.2: 'Se relacionarán en esta parte del inventario, entre otros bienes, los cedidos por la Corporación condicionalmente o a plazo, las concesiones y los arrendamientos otorgados sobre bienes municipales o provinciales.'",
+    "fuente": "Art. 28.2 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 31 RBEL, de los inventarios separados previstos en el art. 17, párrafo segundo, deben conservarse ejemplares en:",
+    "options": [
+      "Solo en las oficinas de la Corporación",
+      "Exclusivamente en el Boletín Oficial del Estado",
+      "La Entidad respectiva, las oficinas de la Corporación, y en poder de la Administración del Estado y de la Comunidad Autónoma"
+    ],
+    "correct": 2,
+    "exp": "Art. 31: '...quedara, en todo caso, un ejemplar en la Entidad respectiva, otro en las oficinas de la Corporación y otro en poder de la Administración del Estado y de la Comunidad Autónoma...'",
+    "fuente": "Art. 31 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 32.1 RBEL, los inventarios de las Corporaciones locales serán autorizados por:",
+    "options": [
+      "El Secretario de la Corporación, con el visto bueno del Presidente",
+      "El Pleno, mediante acuerdo en sesión extraordinaria",
+      "El Registrador de la Propiedad competente"
+    ],
+    "correct": 0,
+    "exp": "Art. 32.1: 'Los inventarios serán autorizados por el Secretario de la Corporación con el visto bueno del Presidente...'",
+    "fuente": "Art. 32.1 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 33.1 RBEL, ¿con qué periodicidad se verificará la rectificación del inventario?",
+    "options": [
+      "Trimestralmente",
+      "Anualmente",
+      "Cada dos años"
+    ],
+    "correct": 1,
+    "exp": "Art. 33.1: 'La rectificación del inventario se verificará anualmente, y en ella se reflejarán las vicisitudes de toda índole de los bienes y derechos durante esa etapa.'",
+    "fuente": "Art. 33.1 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 34 RBEL, ¿qué órgano es competente para acordar la aprobación del inventario, su rectificación y comprobación?",
+    "options": [
+      "La Junta de Gobierno Local",
+      "El Secretario de la Corporación",
+      "El Pleno de la Corporación local"
+    ],
+    "correct": 2,
+    "exp": "Art. 34: 'El Pleno de la Corporación local será el órgano competente para acordar la aprobación del inventario ya formado, su rectificación y comprobación.'",
+    "fuente": "Art. 34 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 36.2 RBEL, a efectos de la inscripción en el Registro de la Propiedad de los bienes inmuebles de la Corporación, será suficiente:",
+    "options": [
+      "Certificación que, con relación al inventario aprobado por la Corporación, expida el Secretario con el visto bueno del Presidente",
+      "Una escritura pública notarial en todo caso",
+      "Certificado catastral exclusivamente"
+    ],
+    "correct": 0,
+    "exp": "Art. 36.2: 'Será suficiente, a tal efecto, certificación que, con relación al inventario aprobado por la respectiva Corporación, expida el Secretario, con el visto bueno del Presidente de la Corporación.'",
+    "fuente": "Art. 36.2 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 36.5 RBEL, los honorarios de los Registradores de la Propiedad por la inmatriculación o inscripción de bienes de las Entidades locales:",
+    "options": [
+      "Se duplicarán respecto de la tarifa general",
+      "Se reducirán a la mitad",
+      "Quedarán totalmente exentos"
+    ],
+    "correct": 1,
+    "exp": "Art. 36.5: 'Los honorarios de los Registradores por la inmatriculación o inscripción de bienes de las Entidades locales se reducirán a la mitad.'",
+    "fuente": "Art. 36.5 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 37.1 RBEL, los valores mobiliarios de las Entidades locales se custodiarán:",
+    "options": [
+      "En un banco privado elegido libremente por el Alcalde",
+      "En la sede del Ministerio de Hacienda",
+      "En la caja de caudales, bajo la responsabilidad de los tres claveros"
+    ],
+    "correct": 2,
+    "exp": "Art. 37.1: 'Los valores mobiliarios se custodiarán en la caja de caudales, bajo la responsabilidad de los tres claveros.'",
+    "fuente": "Art. 37.1 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 39.3 RBEL, las Entidades locales poseedoras de montes, declarados o no de utilidad pública, despoblados en superficie igual o superior a 100 hectáreas, deben proceder a repoblar:",
+    "options": [
+      "La cuarta parte de dicha superficie",
+      "La totalidad de la superficie despoblada",
+      "La mitad de dicha superficie"
+    ],
+    "correct": 0,
+    "exp": "Art. 39.3: 'Las Entidades locales poseedoras de montes...despoblados en superficie igual o superior a 100 hectáreas, deberán proceder...a la repoblación de la cuarta parte de dicha superficie...'",
+    "fuente": "Art. 39.3 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 40.5 RBEL, el consorcio para la repoblación forestal entre Entidades locales y particulares debe formalizarse en:",
+    "options": [
+      "Acuerdo verbal ratificado por el Pleno",
+      "Escritura pública, con inscripción en el Registro de la Propiedad, sin cuyos requisitos carecerá de eficacia",
+      "Convenio administrativo sin necesidad de forma especial"
+    ],
+    "correct": 1,
+    "exp": "Art. 40.5: 'El consorcio entre las Entidades locales y los particulares deberá formalizarse en escritura pública e inscribirse en el Registro de la Propiedad, sin cuyos requisitos carecerá de eficacia.'",
+    "fuente": "Art. 40.5 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 41 RBEL, el aprovechamiento de la riqueza cinegética o piscícola de las Entidades locales se regulará por:",
+    "options": [
+      "Exclusivamente los usos y costumbres locales",
+      "El Código Civil, sin normativa específica",
+      "La legislación especial aplicable y la normativa reguladora de la contratación de las Corporaciones locales"
+    ],
+    "correct": 2,
+    "exp": "Art. 41: 'El aprovechamiento de la riqueza cinegética o piscícola se regulará por la legislación especial aplicable y por la normativa reguladora de la contratación a las Corporaciones locales.'",
+    "fuente": "Art. 41 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 43 RBEL, las cuentas de administración del patrimonio se formarán, rendirán y fiscalizarán:",
+    "options": [
+      "Del modo dispuesto en la legislación reguladora de las Haciendas locales",
+      "Conforme a la normativa del Tribunal de Cuentas exclusivamente, sin remisión a otra legislación",
+      "Con arreglo a la legislación mercantil general"
+    ],
+    "correct": 0,
+    "exp": "Art. 43: 'Las cuentas de administración del patrimonio se formarán, rendirán y fiscalizarán del modo dispuesto en la legislación reguladora de las Haciendas locales.'",
+    "fuente": "Art. 43 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 44.1 RBEL, ¿cuáles son las potestades que corresponden a los Municipios, Provincias e Islas en relación con sus bienes?",
+    "options": [
+      "Recuperación de oficio, deslinde, sanción y confiscación",
+      "Investigación, deslinde, recuperación de oficio y desahucio administrativo",
+      "Desahucio administrativo, expropiación, sanción e investigación"
+    ],
+    "correct": 1,
+    "exp": "Art. 44.1: 'a) La potestad de investigación. b) La potestad de deslinde. c) La potestad de recuperación de oficio. d) La potestad de desahucio administrativo.'",
+    "fuente": "Art. 44.1 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 45 RBEL, la facultad de investigar la situación de los bienes y derechos que se presuman de su propiedad corresponde a las Corporaciones locales:",
+    "options": [
+      "Solo cuando lo autorice expresamente la Comunidad Autónoma",
+      "Solo tras sentencia judicial firme que lo ordene",
+      "Siempre que la titularidad no conste, a fin de determinarla"
+    ],
+    "correct": 2,
+    "exp": "Art. 45: 'Las Corporaciones locales tienen la facultad de investigar la situación de los bienes y derechos que se presuman de su propiedad, siempre que ésta no conste, a fin de determinar la titularidad de los mismos.'",
+    "fuente": "Art. 45 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 46 RBEL, ¿de qué formas puede acordarse el ejercicio de la acción investigadora?",
+    "options": [
+      "De oficio, por la propia Corporación, o por denuncia de los particulares",
+      "Únicamente por denuncia de los particulares",
+      "Solo por mandato judicial previo"
+    ],
+    "correct": 0,
+    "exp": "Art. 46: 'El ejercicio de la acción investigadora podrá acordarse: 1.º De oficio, por la propia Corporación... 2.º Por denuncia de los particulares.'",
+    "fuente": "Art. 46 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 47 RBEL, para que se admita la denuncia presentada por un particular en un expediente de investigación, este debe anticipar el importe de los gastos en una cuantía que:",
+    "options": [
+      "Deberá ser exactamente 50.000 pesetas",
+      "No será menor de 10.000 pesetas ni excederá de 100.000",
+      "No podrá superar las 10.000 pesetas"
+    ],
+    "correct": 1,
+    "exp": "Art. 47: 'Para que se admita la denuncia presentada por el particular es preciso que el mismo anticipe el importe de los gastos en la cuantía que se estime necesaria, que no será menor de 10.000 pesetas ni excederá de 100.000.'",
+    "fuente": "Art. 47 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 49.1 RBEL, el acuerdo de iniciación del expediente de investigación se publicará en el Boletín Oficial de la provincia y del municipio, exponiéndose además en el tablón de anuncios de la Corporación durante:",
+    "options": [
+      "Diez días",
+      "Sesenta días",
+      "Quince días"
+    ],
+    "correct": 2,
+    "exp": "Art. 49.1: '...Un ejemplar de dichos boletines se expondrá en el tablón de anuncios de la Corporación en que radiquen los bienes, durante quince días.'",
+    "fuente": "Art. 49.1 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 50 RBEL, ¿de qué plazo disponen las personas afectadas por el expediente de investigación para alegar por escrito ante la Corporación, contado desde que termine la publicación de anuncios en el tablón?",
+    "options": [
+      "Un mes",
+      "Veinte días",
+      "Dos meses"
+    ],
+    "correct": 0,
+    "exp": "Art. 50: 'En el plazo de un mes, contado desde el día siguiente al que deba darse por terminada la publicación de los anuncios en el tablón de la Corporación, podrán las personas afectadas...alegar por escrito...'",
+    "fuente": "Art. 50 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 51 RBEL, en el período de prueba del expediente de investigación son admisibles, entre otros, los siguientes elementos:",
+    "options": [
+      "Solo pruebas periciales encargadas a la Administración del Estado",
+      "Documentos públicos judiciales, notariales o administrativos, el reconocimiento y dictamen pericial, y la declaración de testigos",
+      "Exclusivamente actas notariales, con exclusión de cualquier otro medio"
+    ],
+    "correct": 1,
+    "exp": "Art. 51: '...serán admisibles los siguientes elementos: 1.º Los documentos públicos judiciales, notariales o administrativos... 2.º El reconocimiento y dictamen pericial. 3.º La declaración de testigos.'",
+    "fuente": "Art. 51 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 53 RBEL, la resolución del expediente de investigación corresponde al órgano competente de la Corporación, previo:",
+    "options": [
+      "Dictamen del Consejo de Estado",
+      "Informe de la Comunidad Autónoma con carácter vinculante",
+      "Informe del Secretario"
+    ],
+    "correct": 2,
+    "exp": "Art. 53: 'La resolución del expediente de investigación corresponde al órgano competente de la Corporación, previo informe del Secretario.'",
+    "fuente": "Art. 53 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 54.1 RBEL, a las personas que promuevan el ejercicio de la acción investigadora se les abonará, como premio e indemnización de todos los gastos:",
+    "options": [
+      "El 10 por 100 del valor líquido que la Corporación obtenga de la enajenación de los bienes investigados",
+      "El 50 por 100 del valor de tasación del bien",
+      "Una cantidad fija de 100.000 pesetas, con independencia del valor del bien"
+    ],
+    "correct": 0,
+    "exp": "Art. 54.1: 'A las personas que promuevan el ejercicio de la acción investigadora, se les abonará, como premio e indemnización de todos los gastos, el 10 por 100 del valor liquido que la Corporación obtenga de la enajenación de los bienes investigados.'",
+    "fuente": "Art. 54.1 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 56.1 RBEL, las Corporaciones locales tienen la facultad de promover y ejecutar el deslinde entre sus bienes y los de los particulares cuando:",
+    "options": [
+      "Haya transcurrido un año desde la última actualización del inventario",
+      "Los límites aparecieren imprecisos o existieren indicios de usurpación",
+      "Lo exija la Comunidad Autónoma con carácter previo"
+    ],
+    "correct": 1,
+    "exp": "Art. 56.1: 'Las Corporaciones locales tendrán la facultad de promover y ejecutar el deslinde entre los bienes de su pertenencia y los de los particulares, cuyos limites aparecieren imprecisos o sobre los que existieren indicios de usurpación.'",
+    "fuente": "Art. 56.1 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 58 RBEL, el expediente de deslinde se inicia mediante acuerdo tomado previo examen de una Memoria que necesariamente debe referirse, entre otros extremos, a:",
+    "options": [
+      "El presupuesto electoral del municipio",
+      "El historial de sanciones del propietario colindante",
+      "La justificación del deslinde propuesto y la descripción de la finca, con sus linderos, colindancia y extensión"
+    ],
+    "correct": 2,
+    "exp": "Art. 58 enumera entre los extremos de la Memoria: justificación del deslinde propuesto, descripción de la finca con linderos generales, colindancia y extensión perimetral y superficial, y título de propiedad.",
+    "fuente": "Art. 58 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 61.1 RBEL, el deslinde se anunciará en el Boletín Oficial de la provincia, del municipio y en el tablón de anuncios del Ayuntamiento, con qué antelación a la fecha fijada para iniciar las operaciones:",
+    "options": [
+      "Sesenta días",
+      "Quince días",
+      "Noventa días"
+    ],
+    "correct": 0,
+    "exp": "Art. 61.1: '...el deslinde se anunciara...con sesenta días de antelación a la fecha fijada para iniciar las operaciones.'",
+    "fuente": "Art. 61.1 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 62.1 RBEL, en el procedimiento de deslinde, los interesados podrán presentar documentos ante la Corporación en defensa de sus derechos hasta:",
+    "options": [
+      "Los sesenta días anteriores al comienzo de las operaciones",
+      "Los veinte días anteriores al comienzo de las operaciones",
+      "Los diez días posteriores al inicio de las operaciones"
+    ],
+    "correct": 1,
+    "exp": "Art. 62.1: 'Los interesados podrán presentar ante la Corporación cuantos documentos estimaren conducentes a la prueba y defensa de sus derechos hasta los veinte días anteriores al comienzo de las operaciones.'",
+    "fuente": "Art. 62.1 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 64.3 RBEL, en el acta del apeo practicado para el deslinde deben constar, entre otras referencias:",
+    "options": [
+      "El nombre del partido político gobernante en el municipio",
+      "El presupuesto destinado a la obra pública colindante",
+      "El lugar y hora en que principie la operación, y la dirección y distancias de las líneas perimetrales"
+    ],
+    "correct": 2,
+    "exp": "Art. 64.3 enumera entre las referencias del acta de apeo: lugar y hora de inicio, nombre y representación de los concurrentes, descripción del terreno, dirección y distancias de las líneas perimetrales, situación y cabida de la finca, manifestaciones y hora de conclusión.",
+    "fuente": "Art. 64.3 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 66 RBEL, una vez iniciado el procedimiento administrativo de deslinde:",
+    "options": [
+      "No podrá instarse procedimiento judicial con igual pretensión ni se admitirán interdictos sobre el estado posesorio de las fincas mientras no se lleve a cabo el deslinde",
+      "Los interesados podrán acudir simultáneamente a la vía judicial civil",
+      "El deslinde queda paralizado hasta que se resuelva cualquier litigio civil pendiente"
+    ],
+    "correct": 0,
+    "exp": "Art. 66: 'Iniciado el procedimiento administrativo de deslinde, no podrá instarse procedimiento judicial con igual pretensión ni se admitirán interdictos sobre el estado posesorio de las fincas mientras no se lleve a cabo dicho deslinde.'",
+    "fuente": "Art. 66 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 68 RBEL, si la finca de la Corporación local afectada por el deslinde se hallare inscrita en el Registro de la Propiedad, una vez firme el acuerdo de aprobación:",
+    "options": [
+      "Debe cancelarse la inscripción anterior y abrirse un nuevo folio registral",
+      "Se inscribirá igualmente el deslinde administrativo debidamente aprobado, referente a la misma",
+      "Se remite el expediente al Catastro para su exclusiva constancia"
+    ],
+    "correct": 1,
+    "exp": "Art. 68: 'Si la finca de la Corporación local a que se refiere el deslinde se hallare inscrita en el Registro de la Propiedad, se inscribirá igualmente el deslinde administrativo debidamente aprobado, referente a la misma.'",
+    "fuente": "Art. 68 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 69.1 RBEL, las Corporaciones locales promoverán el deslinde de los montes públicos catalogados de su pertenencia:",
+    "options": [
+      "Únicamente cuando lo solicite la Administración del Estado",
+      "Solo si existe usurpación probada por sentencia firme",
+      "Con arreglo a las disposiciones especiales que lo regulan"
+    ],
+    "correct": 2,
+    "exp": "Art. 69.1: 'Las Corporaciones locales promoverán el deslinde de los montes públicos catalogados de su pertenencia, que se practicará con arreglo a las disposiciones especiales que lo regulan.'",
+    "fuente": "Art. 69.1 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 70.1 RBEL, respecto de los bienes de dominio público, las Corporaciones locales podrán recobrar por sí la tenencia:",
+    "options": [
+      "En cualquier tiempo",
+      "Únicamente dentro de los seis meses siguientes a la usurpación",
+      "Solo si lo autoriza previamente un juez"
+    ],
+    "correct": 0,
+    "exp": "Art. 70.1: 'Las Corporaciones locales podrán recobrar por si la tenencia de sus bienes de dominio público en cualquier tiempo.'",
+    "fuente": "Art. 70.1 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 70.2 RBEL, cuando se tratare de bienes patrimoniales usurpados, el plazo para recobrarlos por la vía de recuperación posesoria será de:",
+    "options": [
+      "Cinco años, como plazo general de prescripción",
+      "Un año, a contar del día siguiente a la usurpación, transcurrido el cual procederá la acción ante los Tribunales ordinarios",
+      "Indefinido, igual que en los bienes de dominio público"
+    ],
+    "correct": 1,
+    "exp": "Art. 70.2: 'Cuando se tratare de bienes patrimoniales, el plazo para recobrarlos será de un año, a contar del día siguiente de la fecha en que se hubiera producido la usurpación, y transcurrido ese tiempo procederá la acción correspondiente ante los Tribunales ordinarios.'",
+    "fuente": "Art. 70.2 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 71.2 RBEL, la recuperación de la posesión en vía administrativa requiere:",
+    "options": [
+      "Sentencia judicial firme que declare la usurpación",
+      "Autorización previa de la Comunidad Autónoma en todo caso",
+      "Acuerdo previo de la Corporación, al que se acompañarán los documentos acreditativos de la posesión, salvo que se trate de repeler usurpaciones recientes"
+    ],
+    "correct": 2,
+    "exp": "Art. 71.2: 'La recuperación en vía administrativa requerirá acuerdo previo de la Corporación, al que se acompañarán los documentos acreditativos de la posesión, salvo que se tratare de repeler usurpaciones recientes.'",
+    "fuente": "Art. 71.2 RBEL (RD 1372/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 73 RBEL, en relación con las demandas judiciales que afecten al dominio y demás derechos reales integrantes de su patrimonio, las Corporaciones locales:",
+    "options": [
+      "No podrán allanarse a dichas demandas",
+      "Deberán allanarse siempre que el demandante sea un particular de buena fe",
+      "Podrán allanarse libremente, previo acuerdo del Pleno"
+    ],
+    "correct": 0,
+    "exp": "Art. 73: 'Las Corporaciones locales no podrán allanarse a las demandas judiciales que afectaren al dominio y demás derechos reales integrantes de su patrimonio.'",
+    "fuente": "Art. 73 RBEL (RD 1372/1986)",
+    "confianza": "alta"
   }
 ],
 7:[

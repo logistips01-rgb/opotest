@@ -6,6 +6,33 @@ un tema por tanda y con parada entre temas.
 El tema 21 queda **fuera del objetivo**: reproduce el examen oficial del
 1-jun-2025 y rellenarlo con preguntas generadas destruiría lo que lo hace útil.
 
+## Tema 10 · Bienes de las entidades locales — PRIMERA VUELTA CERRADA
+
+**310 preguntas** (de 150 que había), todas de 4 opciones. 4 lotes de 40,
+compartiendo los consolidados de LBRL, RBEL y LPAP ya descargados.
+
+| Lote | Tramo | Confirmadas | Corregidas | Rechazadas |
+|---|---|---|---|---|
+| A | Concepto, clasificación y patrimonio (LBRL 79-83, RBEL 1-16) | 40 | 0 | 0 |
+| B | Inventario, administración, prerrogativas (RBEL 17-73) | 40 | 0 | 0 |
+| C | Disfrute y aprovechamiento (RBEL 74-108) | 39 | 1 | 0 |
+| D | Enajenación y negocios patrimoniales (RBEL 109-119, LPAP 110-114/153-154) | 40 | 0 | 0 |
+
+Notas:
+- El lote B detectó que el procedimiento de desahucio administrativo vive
+  en el Título II del RBEL (arts. 120 y siguientes), fuera de su bloque
+  asignado (44-73, donde solo se menciona como potestad); no se redactaron
+  preguntas sobre ese procedimiento para no inventar contenido fuera del
+  rango verificado. Pendiente para una posible segunda ronda.
+- La corrección del lote C fue de formato, no de contenido: una opción
+  llevaba pegada la consecuencia jurídica del plazo, delatando la
+  respuesta correcta por longitud; se recortó para igualar las 4 opciones.
+
+**Aprovechado para Policía Local**: las 310 preguntas se redujeron a 3
+opciones y se volcaron al tema 6 ("Bienes de las Entidades locales.
+Reglamentos y Ordenanzas locales"), sin agentes adicionales — 0 duplicadas.
+Banco de Policía Local: de 2.251 a **2.561 preguntas**.
+
 ## Tema 11 · Actividad de las entidades locales — PRIMERA VUELTA CERRADA
 
 **260 preguntas** (de 100 que había), todas de 4 opciones. 4 lotes de 40,
