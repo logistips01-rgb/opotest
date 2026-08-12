@@ -6,6 +6,28 @@ un tema por tanda y con parada entre temas.
 El tema 21 queda **fuera del objetivo**: reproduce el examen oficial del
 1-jun-2025 y rellenarlo con preguntas generadas destruiría lo que lo hace útil.
 
+## Tema 9 · Contratos del sector público — PRIMERA VUELTA CERRADA
+
+**260 preguntas** (de 100 que había), todas de 4 opciones. 4 lotes de 40,
+compartiendo el consolidado de la LCSP ya descargado.
+
+| Lote | Tramo | Confirmadas | Corregidas | Rechazadas |
+|---|---|---|---|---|
+| A | Ámbito, tipos de contratos, negocios excluidos (LCSP arts. 1-38) | 40 | 0 | 0 |
+| B | Órgano de contratación, capacidad, prohibiciones, clasificación (arts. 61-98) | 39 | 1 | 0 |
+| C | Objeto, precio, garantías, expediente y pliegos (arts. 99-130) | 40 | 0 | 0 |
+| D | Procedimientos de adjudicación y DA 2ª (competencias locales) (arts. 131-177, DA 2ª) | 40 | 0 | 0 |
+
+Notas:
+- La corrección del lote B fue de precisión: el art. 64.2 LCSP fija un
+  estándar de *apariencia* de conflicto de intereses ("que pudiera parecer
+  que compromete"), no de compromiso efectivo; se corrigió el texto de la
+  opción correcta para citarlo con exactitud, sin cambiar cuál es la
+  respuesta correcta.
+- **Sin equivalente en Policía Local**: su temario oficial (50 temas) no
+  incluye ningún bloque de contratación pública, así que no hay
+  importación cruzada para este tema.
+
 ## Tema 10 · Bienes de las entidades locales — PRIMERA VUELTA CERRADA
 
 **310 preguntas** (de 150 que había), todas de 4 opciones. 4 lotes de 40,
