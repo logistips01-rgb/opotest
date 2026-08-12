@@ -25960,3 +25960,528 @@ window.addQuestions('aux-admin-zaragoza', 10, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 10 · lote 2026-08-12 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 10, [
+  {
+    "q": "Según el art. 74.1 RBEL, la utilización de los bienes de dominio y uso público se regirá por:",
+    "options": [
+      "Las disposiciones de la Sección 1.ª del Capítulo IV del RBEL",
+      "Exclusivamente por el Reglamento de Servicios de las Entidades Locales",
+      "Por la legislación de contratos del sector público con carácter exclusivo",
+      "Por las Ordenanzas municipales sin sujeción a norma estatal alguna"
+    ],
+    "correct": 0,
+    "exp": "Art. 74.1 RBEL: 'La utilización de los bienes de dominio y uso público se regirá por las disposiciones de esta sección.'",
+    "fuente": "Art. 74.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 74.2 RBEL, el uso de los bienes de servicio público se regirá, ante todo, por:",
+    "options": [
+      "Las normas del RBEL con carácter exclusivo",
+      "Las normas del Reglamento de Servicios de las Entidades locales, y subsidiariamente por las del RBEL",
+      "La legislación de patrimonio del Estado",
+      "Las Ordenanzas fiscales municipales"
+    ],
+    "correct": 1,
+    "exp": "Art. 74.2 RBEL: 'El uso de los bienes de servicio público se regirá, ante todo, por las normas del Reglamento de Servicios de las Entidades locales y subsidiariamente por las del presente.'",
+    "fuente": "Art. 74.2 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 75.1º RBEL, se denomina uso común de los bienes de dominio público al:",
+    "options": [
+      "Constituido por la ocupación de una porción del dominio público que excluye a los demás",
+      "Reservado exclusivamente a los vecinos empadronados",
+      "Correspondiente por igual a todos los ciudadanos indistintamente, de modo que el uso de unos no impida el de los demás interesados",
+      "Sujeto siempre a concesión administrativa"
+    ],
+    "correct": 2,
+    "exp": "Art. 75.1º RBEL: 'Uso común, el correspondiente por igual a todos los ciudadanos indistintamente, de modo que el uso de unos no impida el de los demás interesados.'",
+    "fuente": "Art. 75.1º RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 75.1.b) RBEL, el uso común se califica de especial cuando:",
+    "options": [
+      "No concurren circunstancias singulares",
+      "Se limita o excluye la utilización por otros interesados",
+      "El uso es conforme con el destino principal del bien",
+      "Concurren circunstancias de peligrosidad, intensidad del uso o cualquiera otra semejante"
+    ],
+    "correct": 3,
+    "exp": "Art. 75.1.b) RBEL: 'Especial, si concurrieran circunstancias de este carácter por la peligrosidad, intensidad del uso o cualquiera otra semejante.'",
+    "fuente": "Art. 75.1.b) RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 75.2º RBEL, el uso privativo de los bienes de dominio público es:",
+    "options": [
+      "El constituido por la ocupación de una porción del dominio público, de modo que limite o excluya la utilización por los demás interesados",
+      "El correspondiente por igual a todos los ciudadanos",
+      "El que se ejerce libremente sin sujeción a licencia ni concesión",
+      "El que resulta conforme con el destino principal del dominio público"
+    ],
+    "correct": 0,
+    "exp": "Art. 75.2º RBEL: 'Uso privativo, el constituido por la ocupación de una porción del dominio público, de modo que limite o excluya la utilización por los demás interesados.'",
+    "fuente": "Art. 75.2º RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 76 RBEL, el uso común general de los bienes de dominio público se ejercerá:",
+    "options": [
+      "Únicamente mediante licencia previa",
+      "Libremente, con arreglo a la naturaleza de los bienes, a los actos de afectación y apertura al uso público y a las disposiciones generales",
+      "Solo previa concesión administrativa",
+      "Mediante autorización expresa del Pleno en cada caso"
+    ],
+    "correct": 1,
+    "exp": "Art. 76 RBEL: 'El uso común general de los bienes de dominio público se ejercerá libremente, con arreglo a la naturaleza de los mismos, a los actos de afectación y apertura al uso público y a las Leyes, Reglamentos y demás disposiciones generales.'",
+    "fuente": "Art. 76 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 77.1 RBEL, el uso común especial normal de los bienes de dominio público se sujetará a:",
+    "options": [
+      "Concesión administrativa",
+      "Autorización del Consejo de Estado",
+      "Licencia",
+      "Convenio de colaboración"
+    ],
+    "correct": 2,
+    "exp": "Art. 77.1 RBEL: 'El uso común especial normal de los bienes de dominio público se sujetará a licencia, ajustada a la naturaleza del dominio, a los actos de su afectación y apertura al uso público y a los preceptos de carácter general.'",
+    "fuente": "Art. 77.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 77.2 RBEL, cuando se limitare el número de licencias sobre bienes de dominio público, éstas se otorgarán:",
+    "options": [
+      "Siempre por orden de antigüedad en la solicitud",
+      "Exclusivamente por designación directa del Alcalde",
+      "Por concurso de méritos profesionales",
+      "Por licitación, y si no fuere posible, porque todos los autorizados hubieren de reunir las mismas condiciones, mediante sorteo"
+    ],
+    "correct": 3,
+    "exp": "Art. 77.2 RBEL: 'Las licencias se otorgarán directamente, salvo si por cualquier circunstancia se limitare el número de las mismas, en cuyo caso lo serán por licitación y, si no fuere posible, porque todos los autorizados hubieren de reunir las mismas condiciones, mediante sorteo.'",
+    "fuente": "Art. 77.2 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 78.1 RBEL, estarán sujetos a concesión administrativa:",
+    "options": [
+      "El uso privativo de bienes de dominio público y el uso anormal de los mismos",
+      "El uso común general y el uso común especial normal",
+      "Únicamente los bienes patrimoniales cedidos en arrendamiento",
+      "Los bienes comunales en régimen de explotación común"
+    ],
+    "correct": 0,
+    "exp": "Art. 78.1 RBEL: 'Estarán sujetos a concesión administrativa: a) El uso privativo de bienes de dominio público. b) El uso anormal de los mismos.'",
+    "fuente": "Art. 78.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 79 RBEL, el plazo de duración máximo de las concesiones sobre bienes de dominio público será, con carácter general, de:",
+    "options": [
+      "Cincuenta años",
+      "Noventa y nueve años",
+      "Setenta y cinco años",
+      "Veinticinco años"
+    ],
+    "correct": 1,
+    "exp": "Art. 79 RBEL: 'En ningún caso podrá otorgarse concesión o licencia alguna por tiempo indefinido. El plazo de duración máximo de las concesiones será de noventa y nueve años, a no ser que por la normativa especial se señale otro menor.'",
+    "fuente": "Art. 79 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la cláusula 3.ª del art. 80 RBEL, el plazo de utilización fijado en una concesión sobre bienes de dominio público tendrá carácter:",
+    "options": [
+      "Indefinido mientras subsista el interés público",
+      "Prorrogable automáticamente por periodos iguales",
+      "Improrrogable, sin perjuicio de lo dispuesto en la normativa especial",
+      "Revisable cada cinco años a instancia del concesionario"
+    ],
+    "correct": 2,
+    "exp": "Art. 80.3.ª RBEL: '3.ª Plazo de la utilización, que tendrá carácter improrrogable, sin perjuicio de lo dispuesto en la normativa especial.'",
+    "fuente": "Art. 80.3.ª RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la cláusula 7.ª del art. 80 RBEL, el canon que hubiere de satisfacer el concesionario a la Entidad local tendrá el carácter de:",
+    "options": [
+      "Precio público",
+      "Contribución especial",
+      "Impuesto municipal",
+      "Tasa"
+    ],
+    "correct": 3,
+    "exp": "Art. 80.7.ª RBEL: 'Canon que hubiere de satisfacer a la Entidad local, que tendrá el carácter de tasa...'",
+    "fuente": "Art. 80.7.ª RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 81 RBEL, las concesiones sobre bienes de dominio público otorgadas sin las formalidades establecidas reglamentariamente serán:",
+    "options": [
+      "Nulas",
+      "Anulables a instancia de parte",
+      "Válidas si transcurre un año sin impugnación",
+      "Provisionales hasta su convalidación"
+    ],
+    "correct": 0,
+    "exp": "Art. 81 RBEL: 'Serán nulas las concesiones que se otorgaren sin las formalidades que se establecen en los artículos siguientes...'",
+    "fuente": "Art. 81 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 82.1 RBEL, la persona que por propia iniciativa pretenda una ocupación privativa y normal de dominio público deberá presentar:",
+    "options": [
+      "Un aval bancario equivalente al valor del dominio público",
+      "Una Memoria explicativa de la utilización y de sus fines, justificativa de la conveniencia y normalidad respecto del destino del dominio",
+      "Un informe del Consejo de Estado",
+      "Una escritura pública de propiedad"
+    ],
+    "correct": 1,
+    "exp": "Art. 82.1 RBEL: 'deberá presentar una Memoria explicativa de la utilización y de sus fines, y justificativa de la conveniencia y de la normalidad de aquéllos respecto del destino del dominio que hubiere de utilizarse.'",
+    "fuente": "Art. 82.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 83.1 RBEL, cuando la Corporación convoque concurso de proyectos para una concesión de dominio público, el plazo mínimo de dicho concurso será de:",
+    "options": [
+      "Quince días",
+      "Dos meses",
+      "Un mes",
+      "Tres meses"
+    ],
+    "correct": 2,
+    "exp": "Art. 83.1 RBEL: '...convocará concurso de proyectos durante el plazo mínimo de un mes y en la forma dispuesta por la normativa reguladora de la contratación de las Corporaciones locales.'",
+    "fuente": "Art. 83.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 84 RBEL, entre los documentos que debe contener el proyecto para una concesión de dominio público NO se exige:",
+    "options": [
+      "Memoria justificativa",
+      "Presupuesto",
+      "Pliego de condiciones para la realización de las obras",
+      "Un certificado de empadronamiento del solicitante"
+    ],
+    "correct": 3,
+    "exp": "Art. 84 RBEL enumera Memoria justificativa, planos, valoración, presupuesto y pliegos de condiciones; no exige certificado de empadronamiento alguno.",
+    "fuente": "Art. 84 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 86.1 RBEL, en caso de discordia entre los peritos que tasaren el proyecto elegido en concurso, la discordia la resolverá:",
+    "options": [
+      "El Jurado Provincial de Expropiación",
+      "El Tribunal Superior de Justicia",
+      "El Consejo de Estado",
+      "El Delegado del Gobierno"
+    ],
+    "correct": 0,
+    "exp": "Art. 86.1 RBEL: '...y, si mediare discordia, la resolverá el Jurado Provincial de Expropiación.'",
+    "fuente": "Art. 86.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 86.2 RBEL, en la tasación contradictoria del proyecto se incluirá, además de gastos y honorarios, un beneficio del:",
+    "options": [
+      "5 por 100",
+      "10 por 100",
+      "15 por 100",
+      "20 por 100"
+    ],
+    "correct": 1,
+    "exp": "Art. 86.2 RBEL: '...incrementado por el interés legal de dicha valoración desde su presentación, por un 10 por 100 de beneficio y por los gastos de tasación.'",
+    "fuente": "Art. 86.2 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 87.3 RBEL, la garantía provisional para tomar parte en la licitación de una concesión normal de dominio público consistirá en:",
+    "options": [
+      "El 3 por 100 del valor del dominio público",
+      "El 5 por 100 del valor del dominio público",
+      "El 2 por 100 del valor del dominio público objeto de ocupación, más el presupuesto de las obras en su caso",
+      "El 10 por 100 del valor del dominio público"
+    ],
+    "correct": 2,
+    "exp": "Art. 87.3 RBEL: 'La garantía provisional consistirá en el 2 por 100 del valor del dominio público objeto de ocupación y, además, del presupuesto de las obras que, en su caso, hubieren de realizarse.'",
+    "fuente": "Art. 87.3 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 87.4 RBEL, el proyecto y las bases de la licitación de una concesión de dominio público se someterán a información pública durante:",
+    "options": [
+      "Quince días",
+      "Veinte días",
+      "Cuarenta y cinco días",
+      "Treinta días"
+    ],
+    "correct": 3,
+    "exp": "Art. 87.4 RBEL: 'Habrá una información pública, durante treinta días, del proyecto que hubiere de servir para la concesión y de las bases de la licitación.'",
+    "fuente": "Art. 87.4 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 88.1 RBEL, el peticionario inicial de una concesión tendrá derecho de tanteo si participa en la licitación y la diferencia entre su propuesta económica y la elegida no es superior a:",
+    "options": [
+      "Un 10 por 100",
+      "Un 5 por 100",
+      "Un 25 por 100",
+      "Un 50 por 100"
+    ],
+    "correct": 0,
+    "exp": "Art. 88.1 RBEL: '...tendrá derecho de tanteo si participare en la licitación y entre su propuesta económica y la que hubiere resultado elegida no existiere diferencia superior a un 10 por 100.'",
+    "fuente": "Art. 88.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 88.3 RBEL, el derecho de tanteo podrá ejercerse en el acto de apertura de plicas, que se prolongará al efecto:",
+    "options": [
+      "Una hora después de la adjudicación provisional",
+      "Treinta minutos después de la adjudicación provisional",
+      "Veinticuatro horas después de la adjudicación provisional",
+      "Quince minutos después de la adjudicación provisional"
+    ],
+    "correct": 1,
+    "exp": "Art. 88.3 RBEL: 'Podrá ejercerse este derecho en el acto de la apertura de plicas, que se prolongará al efecto treinta minutos después de la adjudicación provisional.'",
+    "fuente": "Art. 88.3 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 89 RBEL, será necesario el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación para otorgar una concesión sobre bienes de dominio público cuando ésta dure más de cinco años y, además:",
+    "options": [
+      "Su cuantía exceda del 25 por 100 de los recursos ordinarios del presupuesto",
+      "Afecte a más de cien vecinos",
+      "Su cuantía exceda del 10 por 100 de los recursos ordinarios del presupuesto",
+      "Se trate de un bien inmueble urbano"
+    ],
+    "correct": 2,
+    "exp": "Art. 89 RBEL: 'Será necesario el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación cuando la concesión dure más de cinco años, siempre que su cuantía exceda del 10 por 100 de los recursos ordinarios del presupuesto.'",
+    "fuente": "Art. 89 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 90.1 RBEL, la garantía definitiva de la concesión, que debe constituirse dentro del plazo de los quince días siguientes a la notificación, consistirá en:",
+    "options": [
+      "El 2 por 100 del valor del dominio público ocupado",
+      "El 5 por 100 del valor del dominio público ocupado",
+      "El 10 por 100 del valor del dominio público ocupado",
+      "El 3 por 100 del valor del dominio público ocupado, más el presupuesto de las obras en su caso"
+    ],
+    "correct": 3,
+    "exp": "Art. 90.1 RBEL: 'La garantía definitiva... consistirá en el 3 por 100 del valor del dominio público ocupado y, en su caso, del presupuesto de las obras que hayan de ejecutar.'",
+    "fuente": "Art. 90.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 91.d) RBEL, en el supuesto de ocupación anormal de bienes de dominio público, la garantía definitiva será:",
+    "options": [
+      "El 5 por 100 sobre las anteriores bases de valoración y presupuesto de obras",
+      "El 3 por 100, igual que en la ocupación normal",
+      "El 2 por 100",
+      "El 1 por 100"
+    ],
+    "correct": 0,
+    "exp": "Art. 91.d) RBEL: 'La garantía definitiva será el 5 por 100 sobre las anteriores bases.'",
+    "fuente": "Art. 91.d) RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 92.1 RBEL, será necesaria la subasta para el arrendamiento o cesión de uso de bienes patrimoniales cuando la duración de la cesión sea superior a:",
+    "options": [
+      "Diez años, o el precio exceda del 10 por 100 de los recursos ordinarios",
+      "Cinco años, o el precio estipulado exceda del 5 por 100 de los recursos ordinarios del presupuesto",
+      "Dos años, o el precio exceda del 2 por 100 de los recursos ordinarios",
+      "Un año, en todo caso"
+    ],
+    "correct": 1,
+    "exp": "Art. 92.1 RBEL: 'Será necesaria la realización de subasta siempre que la duración de la cesión fuera superior a cinco años o el precio estipulado exceda del 5 por 100 de los recursos ordinarios del presupuesto.'",
+    "fuente": "Art. 92.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 92.2 RBEL, en la cesión de uso de bienes patrimoniales, el usuario habrá de satisfacer un canon no inferior a:",
+    "options": [
+      "El 3 por 100 del valor en venta de los bienes",
+      "El 10 por 100 del valor en venta de los bienes",
+      "El 6 por 100 del valor en venta de los bienes",
+      "El 4 por 100 del valor en venta de los bienes"
+    ],
+    "correct": 2,
+    "exp": "Art. 92.2 RBEL: 'En todo caso, el usuario habrá de satisfacer un canon no inferior al 6 por 100 del valor en venta de los bienes.'",
+    "fuente": "Art. 92.2 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 93.1.a) RBEL, se dará por terminada la ocupación de una vivienda cedida al personal cuando se acredite la permanencia en excedencia voluntaria durante:",
+    "options": [
+      "Un año",
+      "Cinco años",
+      "Seis meses",
+      "Dos años, sin que se haya solicitado de forma inmediata el reingreso"
+    ],
+    "correct": 3,
+    "exp": "Art. 93.1.a) RBEL: 'Permanencia de dos años en la situación de excedencia voluntaria sin que una vez transcurrido dicho plazo se haya solicitado, de forma inmediata, el oportuno reingreso.'",
+    "fuente": "Art. 93.1.a) RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 93.2 RBEL, corresponderá a la Corporación:",
+    "options": [
+      "Acordar y ejecutar por sí misma el desahucio",
+      "Solicitar el desahucio ante los tribunales ordinarios de forma obligatoria",
+      "Delegar el desahucio en la autoridad autonómica",
+      "Esperar a que el funcionario abandone voluntariamente la vivienda"
+    ],
+    "correct": 0,
+    "exp": "Art. 93.2 RBEL: 'Corresponderá a la Corporación acordar y ejecutar por sí misma el desahucio.'",
+    "fuente": "Art. 93.2 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 94.1 RBEL, el aprovechamiento y disfrute de los bienes comunales se efectuará precisamente en régimen de:",
+    "options": [
+      "Arrendamiento a terceros",
+      "Explotación común o cultivo colectivo",
+      "Concesión administrativa",
+      "Subasta pública permanente"
+    ],
+    "correct": 1,
+    "exp": "Art. 94.1 RBEL: 'El aprovechamiento y disfrute de bienes comunales se efectuará precisamente en régimen de explotación común o cultivo colectivo.'",
+    "fuente": "Art. 94.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 94.2 RBEL, cuando el disfrute en explotación común o cultivo colectivo fuere impracticable, se adoptará una de estas formas:",
+    "options": [
+      "Venta directa a un particular",
+      "Cesión gratuita al Estado",
+      "Aprovechamiento peculiar según costumbre o reglamentación local, o adjudicación por lotes o suertes",
+      "Expropiación forzosa a favor de la Corporación"
+    ],
+    "correct": 2,
+    "exp": "Art. 94.2 RBEL: 'Sólo cuando tal disfrute fuere impracticable se adoptará una de las formas siguientes: a) Aprovechamiento peculiar, según costumbre o reglamentación local, o b) Adjudicación por lotes o suertes.'",
+    "fuente": "Art. 94.2 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 97 RBEL, la adjudicación de bienes comunales por lotes o suertes se hará a los vecinos en proporción:",
+    "options": [
+      "Directa a su situación económica e inversa al número de personas a su cargo",
+      "Igualitaria entre todos los vecinos sin ningún criterio adicional",
+      "Directa a la antigüedad de empadronamiento",
+      "Directa al número de personas que tengan a su cargo e inversa de su situación económica"
+    ],
+    "correct": 3,
+    "exp": "Art. 97 RBEL: 'La adjudicación por lotes o suertes se hará a los vecinos en proporción directa al número de personas que tengan a su cargo e inversa de su situación económica.'",
+    "fuente": "Art. 97 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 98.1 RBEL, la adjudicación de bienes comunales mediante precio habrá de ser autorizada por:",
+    "options": [
+      "El órgano competente de la Comunidad Autónoma",
+      "El Delegado del Gobierno",
+      "El Consejo de Ministros",
+      "El Ministerio de Hacienda"
+    ],
+    "correct": 0,
+    "exp": "Art. 98.1 RBEL: 'La adjudicación mediante precio habrá de ser autorizada por el órgano competente de la Comunidad Autónoma, y se efectuará por subasta pública en la que tengan preferencia sobre los no residentes, en igualdad de condiciones, los postores vecinos.'",
+    "fuente": "Art. 98.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 98.3 RBEL, del producto de la adjudicación mediante precio de bienes comunales, la Corporación no podrá detraer más de:",
+    "options": [
+      "Un 10 por 100 del importe",
+      "Un 5 por 100 del importe",
+      "Un 15 por 100 del importe",
+      "Un 20 por 100 del importe"
+    ],
+    "correct": 1,
+    "exp": "Art. 98.3 RBEL: 'El producto se destinará a servicios en utilidad de los que tuvieren derecho al aprovechamiento, sin que pueda detraerse por la Corporación más de un 5 por 100 del importe.'",
+    "fuente": "Art. 98.3 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 99 RBEL, la cuota anual que en casos extraordinarios se fije a los vecinos por la utilización de lotes comunales debe compensar estrictamente los gastos de:",
+    "options": [
+      "Mejora de infraestructuras generales del municipio",
+      "Retribución del personal de la Corporación",
+      "Custodia, conservación y administración de los bienes",
+      "Amortización de deuda municipal"
+    ],
+    "correct": 2,
+    "exp": "Art. 99 RBEL: 'podrá fijarse una cuota anual que deberán abonar los vecinos por la utilización de los lotes que se les adjudiquen, para compensar estrictamente los gastos que se originen por la custodia, conservación y administración de los bienes.'",
+    "fuente": "Art. 99 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 100.1 RBEL, los bienes comunales que no hayan sido objeto de disfrute de esta índole durante más de:",
+    "options": [
+      "Cinco años",
+      "Veinte años",
+      "Tres años",
+      "Diez años"
+    ],
+    "correct": 3,
+    "exp": "Art. 100.1 RBEL: 'Si los bienes comunales... no han sido objeto de disfrute de esta índole durante más de diez años... podrán ser desprovistos del carácter de comunales en virtud de acuerdo de la Corporación respectiva.'",
+    "fuente": "Art. 100.1 RBEL",
+    "confianza": "alta",
+    "correccion": "Se recortó la opción correcta (antes 'Diez años, podrán ser desprovistos del carácter de comunales mediante acuerdo de la Corporación') a solo 'Diez años', para que las 4 opciones sean paralelas (solo plazos) y no delate la respuesta por longitud/formato. El dato (diez años) y el índice 'correct': 3 no cambian."
+  },
+  {
+    "q": "Según el art. 102 RBEL, la cesión por cualquier título del aprovechamiento de bienes comunales deberá ser acordada por:",
+    "options": [
+      "El Pleno de la Corporación, con el voto favorable de la mayoría absoluta del número legal de miembros",
+      "La Junta de Gobierno Local por mayoría simple",
+      "El Alcalde por delegación de competencias",
+      "La Comisión Informativa correspondiente"
+    ],
+    "correct": 0,
+    "exp": "Art. 102 RBEL: 'La cesión por cualquier título del aprovechamiento de bienes comunales deberá ser acordada por el Pleno de la Corporación, requiriéndose el voto favorable de la mayoría absoluta del número legal de miembros.'",
+    "fuente": "Art. 102 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 103.1 RBEL, el derecho al aprovechamiento y disfrute de los bienes comunales corresponde a los vecinos:",
+    "options": [
+      "Únicamente a los mayores de edad con residencia superior a diez años",
+      "Sin distinción de sexo, estado civil o edad, gozando también de este derecho los extranjeros domiciliados en el término municipal",
+      "Solo a los cabezas de familia empadronados",
+      "Exclusivamente a los nacionales españoles, con exclusión de cualquier extranjero"
+    ],
+    "correct": 1,
+    "exp": "Art. 103.1 RBEL: 'El derecho al aprovechamiento y disfrute de los bienes comunales... corresponderá simultáneamente a los vecinos sin distinción de sexo, estado civil o edad. Los extranjeros domiciliados en el término municipal gozarán también de estos derechos.'",
+    "fuente": "Art. 103.1 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 106 RBEL, parte de los bienes comunales podrá ser acotada para fines específicos, tales como:",
+    "options": [
+      "Instalación de industrias privadas",
+      "Construcción de viviendas de protección oficial",
+      "Enseñanza, recreo escolar, caza o auxilio a los vecinos necesitados",
+      "Explotación minera concesionada"
+    ],
+    "correct": 2,
+    "exp": "Art. 106 RBEL: 'Parte de los bienes comunales podrá ser acotada para fines específicos, tales como enseñanza, recreo escolar, caza o auxilio a los vecinos necesitados.'",
+    "fuente": "Art. 106 RBEL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 107 RBEL, las Corporaciones locales podrán ejercer el derecho de tanteo en las subastas de pastos sobrantes de dehesas boyales y montes comunales y patrimoniales dentro de los:",
+    "options": [
+      "Quince días siguientes a la celebración de la licitación",
+      "Treinta días siguientes a la celebración de la licitación",
+      "Dos días siguientes a la celebración de la licitación",
+      "Cinco días siguientes a la celebración de la licitación"
+    ],
+    "correct": 3,
+    "exp": "Art. 107 RBEL: 'Las Corporaciones locales podrán ejercer el derecho de tanteo en las subastas de pastos sobrantes de dehesas boyales y de montes comunales y patrimoniales, dentro de los cinco días siguientes al que se hubiere celebrado la licitación.'",
+    "fuente": "Art. 107 RBEL",
+    "confianza": "alta"
+  }
+]);
