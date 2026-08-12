@@ -7,6 +7,13 @@
     "modifica o el temario cambia, aquí es donde hay que corregirlo."
   ],
   "aux-admin-zaragoza": {
+    "9": {
+      "titulo": "Contratos del sector público",
+      "normas": [
+        "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP), BOE-A-2017-12902: Título Preliminar y Libro I Título I, disposiciones generales, ámbito de aplicación, tipos de contratos, negocios y contratos excluidos, encargos a medios propios (arts. 1 a 38); Libro I Título II, partes en el contrato: órgano de contratación, capacidad y solvencia, prohibiciones de contratar, clasificación empresarial (arts. 61 a 98); Libro I Títulos III-IV, objeto/presupuesto/precio/garantías (arts. 99 a 130 aprox.); Libro II Título I, procedimientos de adjudicación: abierto, restringido, negociado, diálogo competitivo, criterios de adjudicación, oferta anormalmente baja (arts. 131 en adelante); Disposición adicional segunda, régimen de competencias en materia de contratación en las Entidades Locales"
+      ],
+      "aviso": "LCSP es una ley muy extensa (347 artículos); verificar siempre el rango de artículos real en el consolidado antes de redactar, la numeración exacta de esta ficha es aproximada."
+    },
     "10": {
       "titulo": "Bienes de las entidades locales",
       "normas": [
