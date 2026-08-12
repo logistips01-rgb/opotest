@@ -32252,3 +32252,514 @@ window.addQuestions('aux-admin-zaragoza', 7, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 7 · lote 2026-08-12 · 39 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 7, [
+  {
+    "q": "Según el art. 53.1 b) LPAC, los interesados en un procedimiento administrativo tienen derecho a identificar a las autoridades y al personal al servicio de las Administraciones Públicas:",
+    "options": [
+      "Bajo cuya responsabilidad se tramiten los procedimientos",
+      "Que hayan resuelto expedientes similares en los últimos cinco años",
+      "Que formen parte del consejo de ministros",
+      "Que hayan sido sancionados disciplinariamente con anterioridad"
+    ],
+    "correct": 0,
+    "exp": "Art. 53.1 b): derecho a identificar a las autoridades y al personal al servicio de las Administraciones Públicas bajo cuya responsabilidad se tramiten los procedimientos.",
+    "fuente": "Art. 53.1.b) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 53.1 c) LPAC, cuando excepcionalmente el interesado deba presentar un documento original, tiene derecho a obtener:",
+    "options": [
+      "Una compensación económica por la molestia",
+      "Una copia autenticada de este",
+      "La exención automática del pago de tasas",
+      "Un certificado del secretario declarando innecesario el trámite"
+    ],
+    "correct": 1,
+    "exp": "Art. 53.1 c): a no presentar documentos originales salvo excepción normativa; si excepcionalmente debe presentarlo, tiene derecho a obtener una copia autenticada de este.",
+    "fuente": "Art. 53.1.c) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 53.1 e) LPAC, los documentos que el interesado aporte antes del trámite de audiencia deberán ser tenidos en cuenta por el órgano competente al:",
+    "options": [
+      "Notificar la resolución definitiva ya firmada",
+      "Iniciar de oficio un nuevo procedimiento",
+      "Redactar la propuesta de resolución",
+      "Elevar consulta preceptiva al Consejo de Estado"
+    ],
+    "correct": 2,
+    "exp": "Art. 53.1 e): los documentos aportados en cualquier fase anterior al trámite de audiencia deberán ser tenidos en cuenta por el órgano competente al redactar la propuesta de resolución.",
+    "fuente": "Art. 53.1.e) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 53.1 i) LPAC, además de los derechos enumerados expresamente en ese apartado, los interesados tienen derecho a:",
+    "options": [
+      "Únicamente los reconocidos por ordenanza municipal",
+      "Los que expresamente le conceda el instructor del procedimiento",
+      "Ninguno más, pues la lista del art. 53.1 es cerrada y exhaustiva",
+      "Cualesquiera otros que les reconozcan la Constitución y las leyes"
+    ],
+    "correct": 3,
+    "exp": "Art. 53.1 i): cualesquiera otros derechos que reconozcan la Constitución y las leyes.",
+    "fuente": "Art. 53.1.i) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 53.2 a) LPAC, en los procedimientos administrativos de naturaleza sancionadora, los presuntos responsables tienen derecho a ser notificados de los hechos que se les imputen, de las infracciones que puedan constituir y de las sanciones que se les pudieran imponer, así como de:",
+    "options": [
+      "La identidad del instructor, de la autoridad competente para imponer la sanción y de la norma que atribuya tal competencia",
+      "El importe exacto de la multa antes de iniciarse la instrucción",
+      "El nombre de todos los denunciantes anónimos",
+      "La fecha exacta en la que se dictará la resolución final"
+    ],
+    "correct": 0,
+    "exp": "Art. 53.2 a): derecho a ser notificado de los hechos imputados, infracciones y sanciones posibles, así como de la identidad del instructor, de la autoridad competente para sancionar y de la norma que atribuya tal competencia.",
+    "fuente": "Art. 53.2.a) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 54 LPAC, los procedimientos administrativos podrán iniciarse:",
+    "options": [
+      "Únicamente de oficio, nunca a instancia de parte",
+      "Solo a solicitud del interesado, salvo en materia sancionadora",
+      "De oficio o a solicitud del interesado",
+      "De oficio, a solicitud del interesado o por silencio administrativo"
+    ],
+    "correct": 2,
+    "exp": "Art. 54: 'Los procedimientos podrán iniciarse de oficio o a solicitud del interesado.'",
+    "fuente": "Art. 54 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 55.1 LPAC, el período de información o actuaciones previas que puede abrir el órgano competente antes del inicio del procedimiento tiene como finalidad:",
+    "options": [
+      "Notificar formalmente a todos los posibles interesados el inicio del expediente",
+      "Fijar de manera definitiva la cuantía de la sanción aplicable",
+      "Sustituir el trámite de audiencia posterior",
+      "Conocer las circunstancias del caso concreto y la conveniencia o no de iniciar el procedimiento"
+    ],
+    "correct": 3,
+    "exp": "Art. 55.1: el órgano competente puede abrir un período de información o actuaciones previas 'con el fin de conocer las circunstancias del caso concreto y la conveniencia o no de iniciar el procedimiento.'",
+    "fuente": "Art. 55.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 55.2 LPAC, las actuaciones previas en los procedimientos de naturaleza sancionadora serán realizadas, en primer término, por:",
+    "options": [
+      "Los órganos que tengan atribuidas funciones de investigación, averiguación e inspección en la materia",
+      "El propio presunto responsable, mediante autoinforme",
+      "Un notario designado por la Administración",
+      "El Defensor del Pueblo con carácter preceptivo"
+    ],
+    "correct": 0,
+    "exp": "Art. 55.2: las actuaciones previas serán realizadas por los órganos que tengan atribuidas funciones de investigación, averiguación e inspección en la materia y, en defecto de estos, por la persona u órgano que determine el órgano competente para la iniciación o resolución.",
+    "fuente": "Art. 55.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 56.1 LPAC, una vez iniciado el procedimiento, el órgano competente para resolver podrá adoptar medidas provisionales para asegurar la eficacia de la resolución, de acuerdo con los principios de:",
+    "options": [
+      "Economía, celeridad y eficacia exclusivamente",
+      "Proporcionalidad, efectividad y menor onerosidad",
+      "Legalidad, jerarquía y coordinación",
+      "Buena fe, confianza legítima y transparencia"
+    ],
+    "correct": 1,
+    "exp": "Art. 56.1: las medidas provisionales que estime oportunas se adoptarán 'de acuerdo con los principios de proporcionalidad, efectividad y menor onerosidad.'",
+    "fuente": "Art. 56.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 56.2 LPAC, las medidas provisionales adoptadas antes de la iniciación del procedimiento deberán ser confirmadas, modificadas o levantadas en el acuerdo de iniciación, que deberá dictarse dentro de:",
+    "options": [
+      "Los diez días siguientes a su adopción",
+      "El mes siguiente a su adopción",
+      "Los quince días siguientes a su adopción",
+      "Las cuarenta y ocho horas siguientes a su adopción"
+    ],
+    "correct": 2,
+    "exp": "Art. 56.2: las medidas provisionales previas deberán ser confirmadas, modificadas o levantadas en el acuerdo de iniciación, 'que deberá efectuarse dentro de los quince días siguientes a su adopción.'",
+    "fuente": "Art. 56.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Entre las medidas provisionales que, conforme al art. 56.3 LPAC, puede acordar la Administración se encuentra:",
+    "options": [
+      "La expulsión inmediata del interesado del territorio nacional",
+      "La suspensión cautelar de los derechos políticos del interesado",
+      "La publicación anticipada de la sanción en el Boletín Oficial antes de resolver",
+      "La retirada o intervención de bienes productivos, o la suspensión temporal de servicios por razones de sanidad, higiene o seguridad"
+    ],
+    "correct": 3,
+    "exp": "Art. 56.3 c): entre las medidas provisionales previstas se encuentra la retirada o intervención de bienes productivos o suspensión temporal de servicios por razones de sanidad, higiene o seguridad.",
+    "fuente": "Art. 56.3.c) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 57 LPAC, para que el órgano administrativo pueda disponer la acumulación de un procedimiento a otros con los que guarde identidad sustancial o íntima conexión, es necesario que:",
+    "options": [
+      "Sea el mismo órgano quien deba tramitar y resolver los procedimientos acumulados",
+      "Todos los interesados lo soliciten expresamente por escrito",
+      "Los procedimientos se hayan iniciado en la misma fecha exacta",
+      "Exista previamente un informe favorable del Consejo de Estado"
+    ],
+    "correct": 0,
+    "exp": "Art. 57: la acumulación procederá 'siempre que sea el mismo órgano quien deba tramitar y resolver el procedimiento.'",
+    "fuente": "Art. 57 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 58 LPAC, los procedimientos se iniciarán de oficio por acuerdo del órgano competente, bien por:",
+    "options": [
+      "Propia iniciativa exclusivamente, sin más vías posibles",
+      "Propia iniciativa, como consecuencia de orden superior, a petición razonada de otros órganos, o por denuncia",
+      "Sentencia judicial firme únicamente",
+      "Petición razonada de otros órganos exclusivamente"
+    ],
+    "correct": 1,
+    "exp": "Art. 58: los procedimientos se iniciarán de oficio 'bien por propia iniciativa o como consecuencia de orden superior, a petición razonada de otros órganos o por denuncia.'",
+    "fuente": "Art. 58 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 59 LPAC, se entiende por «propia iniciativa» del órgano competente:",
+    "options": [
+      "La actuación derivada exclusivamente de una denuncia anónima",
+      "La actuación ordenada por escrito por el superior jerárquico",
+      "La actuación derivada del conocimiento directo o indirecto de las circunstancias, conductas o hechos objeto del procedimiento por el órgano que tiene atribuida la competencia de iniciación",
+      "La actuación derivada de una petición razonada de otro órgano"
+    ],
+    "correct": 2,
+    "exp": "Art. 59: 'Se entiende por propia iniciativa, la actuación derivada del conocimiento directo o indirecto de las circunstancias, conductas o hechos objeto del procedimiento por el órgano que tiene atribuida la competencia de iniciación.'",
+    "fuente": "Art. 59 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 60.1 LPAC, se entiende por «orden superior» la que da lugar a la iniciación del procedimiento:",
+    "options": [
+      "Emitida por cualquier órgano administrativo, sea o no superior jerárquico",
+      "Dictada por un juez de instrucción",
+      "Acordada por el propio interesado en su solicitud",
+      "Emitida por un órgano administrativo superior jerárquico del competente para la iniciación del procedimiento"
+    ],
+    "correct": 3,
+    "exp": "Art. 60.1: 'Se entiende por orden superior, la emitida por un órgano administrativo superior jerárquico del competente para la iniciación del procedimiento.'",
+    "fuente": "Art. 60.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 61.1 LPAC, se entiende por «petición razonada»:",
+    "options": [
+      "La propuesta de iniciación del procedimiento formulada por un órgano administrativo que no tiene competencia para iniciarlo y que ha tenido conocimiento de los hechos",
+      "La solicitud presentada directamente por el interesado afectado",
+      "La denuncia anónima presentada por cualquier ciudadano",
+      "El informe preceptivo emitido por el órgano competente para resolver"
+    ],
+    "correct": 0,
+    "exp": "Art. 61.1: 'Se entiende por petición razonada, la propuesta de iniciación del procedimiento formulada por cualquier órgano administrativo que no tiene competencia para iniciar el mismo y que ha tenido conocimiento de las circunstancias, conductas o hechos objeto del procedimiento.'",
+    "fuente": "Art. 61.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 61.2 LPAC, la petición razonada formulada por un órgano sin competencia para iniciar el procedimiento:",
+    "options": [
+      "Vincula siempre al órgano competente, que está obligado a iniciar el procedimiento",
+      "No vincula al órgano competente para iniciarlo, si bien este deberá comunicar los motivos por los que, en su caso, no procede la iniciación",
+      "Debe ser ratificada por el interesado antes de surtir efecto alguno",
+      "Solo puede formularse una vez al año por cada órgano"
+    ],
+    "correct": 1,
+    "exp": "Art. 61.2: 'La petición no vincula al órgano competente para iniciar el procedimiento, si bien deberá comunicar al órgano que la hubiera formulado los motivos por los que, en su caso, no procede la iniciación.'",
+    "fuente": "Art. 61.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 62.2 LPAC, las denuncias deberán expresar:",
+    "options": [
+      "Únicamente el relato de los hechos, pudiendo ser anónimas siempre",
+      "La sanción concreta que el denunciante considera procedente",
+      "La identidad de la persona o personas que las presentan y el relato de los hechos que se ponen en conocimiento de la Administración",
+      "El acta notarial que acredite la veracidad de los hechos"
+    ],
+    "correct": 2,
+    "exp": "Art. 62.2: 'Las denuncias deberán expresar la identidad de la persona o personas que las presentan y el relato de los hechos que se ponen en conocimiento de la Administración.'",
+    "fuente": "Art. 62.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 62.4 LPAC, el órgano competente para resolver deberá eximir al denunciante del pago de la multa que le correspondería cuando:",
+    "options": [
+      "Se limite a reconocer los hechos ante el instructor, sin aportar más pruebas",
+      "Sea funcionario público en el momento de presentar la denuncia",
+      "La infracción denunciada sea de carácter leve",
+      "Sea el primero en aportar elementos de prueba que permitan iniciar el procedimiento o comprobar la infracción, sin que en ese momento existan elementos suficientes, y repare el perjuicio causado"
+    ],
+    "correct": 3,
+    "exp": "Art. 62.4: se eximirá de la multa al denunciante cuando sea el primero en aportar elementos de prueba que permitan iniciar el procedimiento o comprobar la infracción, no disponiéndose en ese momento de elementos suficientes, y se repare el perjuicio causado.",
+    "fuente": "Art. 62.4 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 62.5 LPAC, la presentación de una denuncia:",
+    "options": [
+      "No confiere, por sí sola, la condición de interesado en el procedimiento",
+      "Confiere automáticamente al denunciante la condición de interesado",
+      "Obliga a la Administración a iniciar el procedimiento en todo caso",
+      "Debe ir necesariamente acompañada de un abogado"
+    ],
+    "correct": 0,
+    "exp": "Art. 62.5: 'La presentación de una denuncia no confiere, por sí sola, la condición de interesado en el procedimiento.'",
+    "fuente": "Art. 62.5 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 63.1 LPAC, los procedimientos de naturaleza sancionadora se iniciarán siempre de oficio y establecerán la debida separación entre:",
+    "options": [
+      "La fase de alegaciones y la de prueba, encomendadas al mismo órgano",
+      "La fase instructora y la sancionadora, que se encomendará a órganos distintos",
+      "La fase de recurso y la de ejecución forzosa",
+      "La fase de información previa y la de subsanación de la solicitud"
+    ],
+    "correct": 1,
+    "exp": "Art. 63.1: los procedimientos sancionadores 'establecerán la debida separación entre la fase instructora y la sancionadora, que se encomendará a órganos distintos.'",
+    "fuente": "Art. 63.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 64.2 d) LPAC, el acuerdo de iniciación de un procedimiento sancionador debe indicar la posibilidad de que el presunto responsable:",
+    "options": [
+      "Recuse al órgano competente para resolver sin ningún trámite",
+      "Solicite el archivo automático del expediente",
+      "Pueda reconocer voluntariamente su responsabilidad, con los efectos previstos en el artículo 85",
+      "Sea sustituido por otro presunto responsable"
+    ],
+    "correct": 2,
+    "exp": "Art. 64.2 d): el acuerdo de iniciación debe indicar el órgano competente para resolver y la norma que le atribuye competencia, 'indicando la posibilidad de que el presunto responsable pueda reconocer voluntariamente su responsabilidad, con los efectos previstos en el artículo 85.'",
+    "fuente": "Art. 64.2.d) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 64.2 f) LPAC, si el interesado no formula alegaciones en el plazo previsto sobre el contenido del acuerdo de iniciación de un procedimiento sancionador, este podrá ser considerado:",
+    "options": [
+      "Resolución definitiva firme e inatacable",
+      "Renuncia tácita del interesado a cualquier derecho",
+      "Causa automática de caducidad del procedimiento",
+      "Propuesta de resolución, cuando contenga un pronunciamiento preciso acerca de la responsabilidad imputada"
+    ],
+    "correct": 3,
+    "exp": "Art. 64.2 f): de no efectuarse alegaciones en plazo sobre el acuerdo de iniciación, este 'podrá ser considerado propuesta de resolución cuando contenga un pronunciamiento preciso acerca de la responsabilidad imputada.'",
+    "fuente": "Art. 64.2.f) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 64.3 LPAC, cuando en el momento de dictar el acuerdo de iniciación no existan elementos suficientes para la calificación inicial de los hechos, dicha calificación podrá realizarse en una fase posterior mediante:",
+    "options": [
+      "La elaboración de un pliego de cargos, que deberá ser notificado a los interesados",
+      "Una nueva denuncia presentada por la propia Administración",
+      "Un decreto de alcaldía sin necesidad de notificación",
+      "La convocatoria inmediata de una vista oral"
+    ],
+    "correct": 0,
+    "exp": "Art. 64.3: excepcionalmente, la calificación de los hechos podrá realizarse en fase posterior 'mediante la elaboración de un Pliego de cargos, que deberá ser notificado a los interesados.'",
+    "fuente": "Art. 64.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 65.1 LPAC, cuando las Administraciones Públicas decidan iniciar de oficio un procedimiento de responsabilidad patrimonial será necesario que:",
+    "options": [
+      "El interesado lo haya solicitado previamente por escrito",
+      "No haya prescrito el derecho a la reclamación del interesado al que se refiere el artículo 67",
+      "Exista sentencia judicial firme que declare la responsabilidad",
+      "Hayan transcurrido al menos dos años desde el hecho lesivo"
+    ],
+    "correct": 1,
+    "exp": "Art. 65.1: para iniciar de oficio un procedimiento de responsabilidad patrimonial es necesario que no haya prescrito el derecho a la reclamación del interesado al que se refiere el artículo 67.",
+    "fuente": "Art. 65.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 65.2 LPAC, el acuerdo de iniciación de oficio de un procedimiento de responsabilidad patrimonial se notificará a los particulares presuntamente lesionados, concediéndoles un plazo de:",
+    "options": [
+      "Un mes para que se personen obligatoriamente, so pena de caducidad",
+      "Tres días, improrrogables",
+      "Diez días para que aporten alegaciones, documentos o información y propongan pruebas",
+      "Veinte días hábiles, ampliables a treinta"
+    ],
+    "correct": 2,
+    "exp": "Art. 65.2: el acuerdo de iniciación se notificará a los particulares presuntamente lesionados, 'concediéndoles un plazo de diez días para que aporten cuantas alegaciones, documentos o información estimen conveniente... y propongan cuantas pruebas sean pertinentes.'",
+    "fuente": "Art. 65.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 66.2 LPAC, cuando las pretensiones correspondientes a una pluralidad de personas tengan un contenido y fundamento idéntico o sustancialmente similar, estas:",
+    "options": [
+      "Deberán presentar necesariamente solicitudes separadas",
+      "Solo podrán actuar a través de un procurador común",
+      "Perderán la condición de interesados si actúan conjuntamente",
+      "Podrán formular una única solicitud, salvo que las normas reguladoras de los procedimientos específicos dispongan otra cosa"
+    ],
+    "correct": 3,
+    "exp": "Art. 66.2: cuando las pretensiones de una pluralidad de personas tengan contenido y fundamento idéntico o sustancialmente similar, 'podrán ser formuladas en una única solicitud, salvo que las normas reguladoras de los procedimientos específicos dispongan otra cosa.'",
+    "fuente": "Art. 66.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 66.3 LPAC, de las solicitudes, comunicaciones y escritos que los interesados presenten electrónicamente o en las oficinas de asistencia en materia de registros, estos podrán exigir:",
+    "options": [
+      "El correspondiente recibo que acredite la fecha y hora de presentación",
+      "Una copia certificada por notario del contenido íntegro",
+      "La resolución del procedimiento en el mismo acto",
+      "El nombre del funcionario que tramitará el expediente"
+    ],
+    "correct": 0,
+    "exp": "Art. 66.3: de las solicitudes, comunicaciones y escritos presentados, los interesados 'podrán éstos exigir el correspondiente recibo que acredite la fecha y hora de presentación.'",
+    "fuente": "Art. 66.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 66.6 LPAC, cuando la Administración en un procedimiento concreto establezca expresamente modelos específicos de presentación de solicitudes, estos serán:",
+    "options": [
+      "De uso meramente orientativo, nunca obligatorio",
+      "De uso obligatorio por los interesados",
+      "Aplicables únicamente a las Administraciones autonómicas",
+      "Sustituibles siempre por un escrito libre del interesado"
+    ],
+    "correct": 1,
+    "exp": "Art. 66.6: 'Cuando la Administración en un procedimiento concreto establezca expresamente modelos específicos de presentación de solicitudes, éstos serán de uso obligatorio por los interesados.'",
+    "fuente": "Art. 66.6 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 67.1 LPAC, el derecho a reclamar en un procedimiento de responsabilidad patrimonial prescribirá:",
+    "options": [
+      "A los dos años de producido el hecho lesivo, sin excepciones",
+      "A los seis meses de producido el hecho lesivo",
+      "Al año de producido el hecho o el acto que motive la indemnización o se manifieste su efecto lesivo",
+      "A los cuatro años, por remisión a la prescripción de acciones civiles"
+    ],
+    "correct": 2,
+    "exp": "Art. 67.1: 'El derecho a reclamar prescribirá al año de producido el hecho o el acto que motive la indemnización o se manifieste su efecto lesivo.'",
+    "fuente": "Art. 67.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 67.2 LPAC, además de lo previsto en el art. 66, la solicitud de responsabilidad patrimonial deberá especificar, entre otros extremos:",
+    "options": [
+      "Únicamente el nombre del funcionario presuntamente responsable",
+      "La entidad aseguradora que asumirá el pago de la indemnización",
+      "El importe exacto que deberá satisfacer la Administración, sin posibilidad de discutirlo después",
+      "Las lesiones producidas, la presunta relación de causalidad con el funcionamiento del servicio público y la evaluación económica de la responsabilidad, si fuera posible"
+    ],
+    "correct": 3,
+    "exp": "Art. 67.2: la solicitud deberá especificar las lesiones producidas, la presunta relación de causalidad con el funcionamiento del servicio público, la evaluación económica de la responsabilidad patrimonial si fuera posible, y el momento en que la lesión se produjo.",
+    "fuente": "Art. 67.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 68.2 LPAC, el plazo de subsanación de la solicitud podrá ser ampliado prudencialmente hasta cinco días, a petición del interesado o a iniciativa del órgano, cuando la aportación de los documentos requeridos presente dificultades especiales, siempre que no se trate de:",
+    "options": [
+      "Procedimientos selectivos o de concurrencia competitiva",
+      "Procedimientos sancionadores en curso",
+      "Procedimientos de responsabilidad patrimonial",
+      "Procedimientos iniciados de oficio"
+    ],
+    "correct": 0,
+    "exp": "Art. 68.2: 'Siempre que no se trate de procedimientos selectivos o de concurrencia competitiva, este plazo podrá ser ampliado prudencialmente, hasta cinco días.'",
+    "fuente": "Art. 68.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 68.3 LPAC, en los procedimientos iniciados a solicitud de los interesados, cuando el órgano competente recabe del solicitante la modificación o mejora voluntarias de los términos de aquella:",
+    "options": [
+      "Se archivará el expediente sin más trámite",
+      "Se levantará acta sucinta, que se incorporará al procedimiento",
+      "Se exigirá el pago de una tasa adicional",
+      "Se reiniciará el cómputo de todos los plazos del procedimiento"
+    ],
+    "correct": 1,
+    "exp": "Art. 68.3: cuando se recabe del solicitante la modificación o mejora voluntarias de la solicitud, 'de ello se levantará acta sucinta, que se incorporará al procedimiento.'",
+    "fuente": "Art. 68.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 68.4 LPAC, si un sujeto obligado a relacionarse electrónicamente con la Administración (art. 14.2 y 14.3) presenta su solicitud presencialmente, se le requerirá para que la subsane a través de su presentación electrónica, considerándose como fecha de presentación de la solicitud:",
+    "options": [
+      "La fecha de la presentación presencial original, en todo caso",
+      "La fecha en que se dicte la resolución del procedimiento",
+      "Aquella en la que haya sido realizada la subsanación",
+      "El día siguiente al de la notificación del requerimiento"
+    ],
+    "correct": 2,
+    "exp": "Art. 68.4: si el sujeto obligado presenta la solicitud presencialmente, se le requerirá para que la subsane electrónicamente, y 'se considerará como fecha de presentación de la solicitud aquella en la que haya sido realizada la subsanación.'",
+    "fuente": "Art. 68.4 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 69.1 LPAC, se entiende por «declaración responsable»:",
+    "options": [
+      "El acto administrativo por el que la Administración reconoce expresamente un derecho al interesado",
+      "El documento por el que el interesado renuncia a un derecho ya reconocido",
+      "La resolución que pone fin a un procedimiento sancionador",
+      "El documento suscrito por un interesado en el que manifiesta, bajo su responsabilidad, que cumple los requisitos establecidos para obtener el reconocimiento de un derecho o facultad, o para su ejercicio"
+    ],
+    "correct": 3,
+    "exp": "Art. 69.1: la declaración responsable es el documento suscrito por un interesado en el que manifiesta, bajo su responsabilidad, que cumple los requisitos establecidos en la normativa vigente para obtener el reconocimiento de un derecho o facultad o para su ejercicio.",
+    "fuente": "Art. 69.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 69.2 LPAC, se entiende por «comunicación»:",
+    "options": [
+      "El documento mediante el que los interesados ponen en conocimiento de la Administración Pública competente sus datos identificativos o cualquier otro dato relevante para el inicio de una actividad o el ejercicio de un derecho",
+      "El documento por el que la Administración notifica al interesado el inicio de un procedimiento sancionador",
+      "El escrito por el que un órgano administrativo traslada un expediente a otro órgano",
+      "El acuerdo de acumulación de procedimientos"
+    ],
+    "correct": 0,
+    "exp": "Art. 69.2: se entiende por comunicación el documento mediante el que los interesados ponen en conocimiento de la Administración Pública competente sus datos identificativos o cualquier otro dato relevante para el inicio de una actividad o el ejercicio de un derecho.",
+    "fuente": "Art. 69.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 69.3 LPAC, las declaraciones responsables y las comunicaciones permitirán el reconocimiento o ejercicio de un derecho, o bien el inicio de una actividad:",
+    "options": [
+      "Únicamente a partir de que la Administración las valide expresamente",
+      "Desde el día de su presentación, sin perjuicio de las facultades de comprobación, control e inspección que tengan atribuidas las Administraciones Públicas",
+      "Transcurrido un mes desde su presentación sin oposición administrativa",
+      "Solo cuando así lo determine una resolución expresa posterior"
+    ],
+    "correct": 1,
+    "exp": "Art. 69.3: las declaraciones responsables y comunicaciones permitirán el reconocimiento o ejercicio de un derecho o el inicio de una actividad 'desde el día de su presentación, sin perjuicio de las facultades de comprobación, control e inspección que tengan atribuidas las Administraciones Públicas.'",
+    "fuente": "Art. 69.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 69.4 LPAC, la inexactitud, falsedad u omisión, de carácter esencial, de cualquier dato o información que se incorpore a una declaración responsable determinará:",
+    "options": [
+      "Únicamente una sanción pecuniaria de multa fija",
+      "La nulidad de pleno derecho de todo el procedimiento, sin más consecuencias",
+      "La imposibilidad de continuar con el ejercicio del derecho o actividad afectada desde el momento en que se tenga constancia de tales hechos",
+      "La obligación automática de indemnizar a terceros, sin necesidad de procedimiento"
+    ],
+    "correct": 2,
+    "exp": "Art. 69.4: la inexactitud, falsedad u omisión esencial en una declaración responsable o comunicación determinará 'la imposibilidad de continuar con el ejercicio del derecho o actividad afectada desde el momento en que se tenga constancia de tales hechos, sin perjuicio de las responsabilidades penales, civiles o administrativas a que hubiera lugar.'",
+    "fuente": "Art. 69.4 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 69.6 LPAC, para iniciar una misma actividad u obtener el reconocimiento de un mismo derecho o facultad para su ejercicio:",
+    "options": [
+      "Será siempre exigible tanto la declaración responsable como la comunicación de forma acumulativa",
+      "Se exigirá, además, una autorización previa en todo caso",
+      "Bastará con una simple manifestación verbal ante cualquier funcionario",
+      "Únicamente será exigible, bien una declaración responsable, bien una comunicación, sin que sea posible exigir ambas acumulativamente"
+    ],
+    "correct": 3,
+    "exp": "Art. 69.6: 'Únicamente será exigible, bien una declaración responsable, bien una comunicación para iniciar una misma actividad u obtener el reconocimiento de un mismo derecho o facultad para su ejercicio, sin que sea posible la exigencia de ambas acumulativamente.'",
+    "fuente": "Art. 69.6 LPAC",
+    "confianza": "alta"
+  }
+]);

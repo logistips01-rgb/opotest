@@ -1,0 +1,23 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 7,
+  "fecha": "2026-08-12",
+  "preguntas": [
+    {
+      "q": "Según el art. 53.2 b) LPAC, en los procedimientos sancionadores los presuntos responsables tienen derecho a:",
+      "options": [
+        "La condonación automática de la sanción si no hay resolución en tres meses",
+        "La presunción de no existencia de responsabilidad administrativa mientras no se demuestre lo contrario",
+        "Elegir libremente al órgano instructor del expediente",
+        "Un doble grado de instrucción con dos instructores distintos"
+      ],
+      "correct": 1,
+      "exp": "Art. 53.2 b): derecho a la presunción de no existencia de responsabilidad administrativa mientras no se demuestre lo contrario.",
+      "fuente": "Art. 53.2.b) LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 53.1.h) LPAC: 'cumplir las obligaciones de pago a través de los medios electrónicos previstos en el artículo 98.2.' La remisión numérica es correcta.",
+      "_motivo": "ya está en el banco"
+    }
+  ]
+}
