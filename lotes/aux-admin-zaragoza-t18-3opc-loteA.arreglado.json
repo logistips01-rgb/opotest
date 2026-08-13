@@ -1,0 +1,561 @@
+[
+  {
+    "q": "Según el Reglamento de Situaciones Administrativas (RD 365/1995), cada período de excedencia voluntaria por interés particular tendrá una duración no inferior a:",
+    "options": [
+      "Cinco años continuados",
+      "Un año",
+      "Dos años continuados",
+      "Tres años continuados"
+    ],
+    "correct": 2,
+    "exp": "El art. 16.3 del RD 365/1995 dispone que «cada período de excedencia tendrá una duración no inferior a dos años continuados ni superior a un número de años equivalente a los que el funcionario acredite haber prestado en cualquiera de las Administraciones Públicas, con un máximo de quince». El art. 89.2 TREBEP no fija plazo: remite a las leyes de Función Pública de desarrollo la determinación de los periodos mínimos de permanencia.",
+    "fuente": "Art. 16.3 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "notaConversion": "Verificado art. 16.3: la duración mínima real es de dos años continuados; 'cinco años continuados' no figura en el precepto."
+  },
+  {
+    "q": "Según el art. 1.1 del RD 365/1995, ¿a qué funcionarios resulta de aplicación este Reglamento?",
+    "options": [
+      "A los funcionarios de la Administración General del Estado y sus Organismos autónomos comprendidos en el ámbito de la Ley 30/1984, de 2 de agosto",
+      "A los funcionarios de la Administración Local y de las Comunidades Autónomas, en todo caso",
+      "A todos los funcionarios públicos de cualquier Administración, incluidas las Comunidades Autónomas y Entidades Locales",
+      "Únicamente a los funcionarios de los Cuerpos docentes del Estado"
+    ],
+    "correct": 0,
+    "exp": "El art. 1.1 delimita el ámbito subjetivo del Reglamento a los funcionarios de la AGE y sus Organismos autónomos comprendidos en la Ley 30/1984.",
+    "fuente": "Art. 1.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 1.1: el ámbito subjetivo real es AGE y sus Organismos autónomos (Ley 30/1984); la opción sobre Administración Local/CCAA es falsa."
+  },
+  {
+    "q": "De acuerdo con el art. 1.2 del RD 365/1995, ¿qué ocurre con los funcionarios de los Cuerpos o Escalas de la función pública docente?",
+    "options": [
+      "Quedan excluidos por completo del ámbito del Reglamento",
+      "No les son de aplicación las disposiciones del Reglamento relativas a las situaciones aludidas en el párrafo segundo de la disposición adicional decimoquinta de la Ley 30/1984",
+      "Quedan excluidos únicamente en materia de excedencia voluntaria por interés particular",
+      "Se les aplica el Reglamento en su totalidad sin ninguna excepción"
+    ],
+    "correct": 1,
+    "exp": "El art. 1.2 excluye para estos funcionarios solo las disposiciones referidas a las situaciones aludidas en dicha disposición adicional, no todo el Reglamento.",
+    "fuente": "Art. 1.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 1.2: la exclusión real se limita a las situaciones de la disposición adicional 15ª de la Ley 30/1984, no a la excedencia por interés particular."
+  },
+  {
+    "q": "¿Cuántas situaciones administrativas distintas enumera el art. 2 del RD 365/1995?",
+    "options": [
+      "Nueve",
+      "Trece",
+      "Once",
+      "Diez"
+    ],
+    "correct": 2,
+    "exp": "El art. 2 enumera once situaciones, de la letra a) a la k).",
+    "fuente": "Art. 2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 2: el precepto enumera exactamente once situaciones (letras a-k); 'diez' es un recuento falso."
+  },
+  {
+    "q": "Según el art. 2 del RD 365/1995, ¿qué situación administrativa corresponde a la letra e)?",
+    "options": [
+      "Expectativa de destino",
+      "Excedencia forzosa",
+      "Suspensión de funciones",
+      "Servicio en Comunidades Autónomas"
+    ],
+    "correct": 1,
+    "exp": "La letra e) del art. 2 recoge la excedencia forzosa; la letra k) recoge la suspensión de funciones y la letra c) el servicio en Comunidades Autónomas.",
+    "fuente": "Art. 2.e) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 2: comprobada la lista completa a)-k); la letra e) es 'Excedencia forzosa' y la letra d) es 'Expectativa de destino', sin solape entre ambas."
+  },
+  {
+    "q": "Conforme al art. 3 del RD 365/1995, ¿en cuál de estos supuestos se considera al funcionario en situación de servicio activo?",
+    "options": [
+      "Cuando se encuentre en excedencia voluntaria por interés particular",
+      "Cuando se encuentre en excedencia voluntaria incentivada",
+      "Cuando se encuentre en comisión de servicios",
+      "Cuando se encuentre en suspensión firme de funciones"
+    ],
+    "correct": 2,
+    "exp": "El art. 3.c) incluye en servicio activo al funcionario que se encuentre en comisión de servicios.",
+    "fuente": "Art. 3.c) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 3: la excedencia voluntaria incentivada no es un supuesto de servicio activo recogido en este artículo."
+  },
+  {
+    "q": "Según el art. 3.e) del RD 365/1995, se hallan en servicio activo los funcionarios que presten servicios en...",
+    "options": [
+      "Organismos internacionales por más de seis meses",
+      "Los órganos de gobierno de las Comunidades Autónomas como altos cargos",
+      "El Tribunal Constitucional o el Defensor del Pueblo",
+      "Las Cortes Generales o el Tribunal de Cuentas, cuando no les corresponda quedar en otra situación"
+    ],
+    "correct": 3,
+    "exp": "El art. 3.e) incluye en servicio activo a quienes presten servicios en las Cortes Generales o el Tribunal de Cuentas, si no corresponde otra situación.",
+    "fuente": "Art. 3.e) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 3.e) frente al art. 4.e): la adscripción al Tribunal Constitucional o Defensor del Pueblo es servicios especiales, no servicio activo."
+  },
+  {
+    "q": "De acuerdo con el art. 3.g) del RD 365/1995, los funcionarios que acceden a la condición de miembros de las Corporaciones Locales permanecen en servicio activo, salvo que...",
+    "options": [
+      "Desempeñen cargo retribuido y de dedicación exclusiva en las mismas",
+      "Sean nombrados Diputados o Senadores",
+      "Pasen a prestar servicios en una Comunidad Autónoma",
+      "Sean elegidos miembros del Parlamento Europeo"
+    ],
+    "correct": 0,
+    "exp": "El art. 3.g) prevé el servicio activo para miembros de Corporaciones Locales, salvo que desempeñen cargo retribuido y de dedicación exclusiva.",
+    "fuente": "Art. 3.g) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 3.g) frente al art. 4.l): ser elegido miembro del Parlamento Europeo da lugar a servicios especiales, no es excepción de este apartado."
+  },
+  {
+    "q": "Según el art. 3.i) del RD 365/1995, permanece en servicio activo el funcionario que...",
+    "options": [
+      "Es nombrado funcionario interino en otro Cuerpo",
+      "Es declarado en expectativa de destino",
+      "Cesa en un puesto por haber obtenido otro mediante procedimientos de provisión de puestos, durante el plazo posesorio",
+      "Solicita la excedencia voluntaria por agrupación familiar"
+    ],
+    "correct": 2,
+    "exp": "El art. 3.i) mantiene en servicio activo, durante el plazo posesorio, a quien cesa en un puesto por haber obtenido otro mediante procedimientos de provisión.",
+    "fuente": "Art. 3.i) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 3.i): la condición de funcionario interino en otro Cuerpo no es un supuesto contemplado en este apartado."
+  },
+  {
+    "q": "El art. 3.l) del RD 365/1995 incluye como supuesto de servicio activo...",
+    "options": [
+      "La suspensión provisional de funciones",
+      "El pase a la situación de excedencia forzosa por incumplimiento de obligaciones",
+      "La reserva de puesto de trabajo tras servicios especiales",
+      "El supuesto de cesación progresiva de actividades"
+    ],
+    "correct": 3,
+    "exp": "La letra l) del art. 3 incluye expresamente el supuesto de cesación progresiva de actividades.",
+    "fuente": "Art. 3.l) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 3.l): el pase a excedencia forzosa por incumplimiento de obligaciones no es el supuesto de esta letra, que se refiere a la cesación progresiva de actividades."
+  },
+  {
+    "q": "Según el art. 4.a) del RD 365/1995, se declara la situación de servicios especiales cuando el funcionario es autorizado para realizar una misión en Organismos internacionales, Gobiernos o Entidades públicas extranjeras...",
+    "options": [
+      "Por un período determinado superior a seis meses",
+      "Por un período determinado superior a un año",
+      "Por un período determinado superior a tres meses",
+      "Sin límite mínimo de duración"
+    ],
+    "correct": 0,
+    "exp": "El art. 4.a) exige un período determinado superior a seis meses para declarar servicios especiales por este motivo.",
+    "fuente": "Art. 4.a) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 4.a): el período mínimo exigido es superior a seis meses, no a tres meses."
+  },
+  {
+    "q": "Conforme al art. 4.b) del RD 365/1995, procede declarar servicios especiales cuando el funcionario...",
+    "options": [
+      "Es nombrado Delegado del Gobierno",
+      "Adquiere la condición de funcionario al servicio de Organizaciones internacionales o de carácter supranacional",
+      "Obtiene un puesto de libre designación en su Ministerio",
+      "Es comisionado para prestar asistencia técnica a una Comunidad Autónoma"
+    ],
+    "correct": 1,
+    "exp": "El art. 4.b) contempla la adquisición de la condición de funcionario al servicio de Organizaciones internacionales o supranacionales.",
+    "fuente": "Art. 4.b) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 4.b): la asistencia técnica a una Comunidad Autónoma no es el supuesto de adquirir la condición de funcionario de Organizaciones internacionales."
+  },
+  {
+    "q": "Según el art. 4.e) del RD 365/1995, están en servicios especiales los funcionarios adscritos a los servicios de...",
+    "options": [
+      "El Banco de España, en misión de asesoramiento técnico internacional",
+      "Las Corporaciones Locales de su provincia",
+      "El Tribunal Constitucional o el Defensor del Pueblo, o destinados al Tribunal de Cuentas, en los términos previstos legalmente",
+      "Los Gabinetes de los Delegados del Gobierno o Gobernadores Civiles"
+    ],
+    "correct": 2,
+    "exp": "El art. 4.e) declara servicios especiales para los adscritos al Tribunal Constitucional, Defensor del Pueblo o destinados al Tribunal de Cuentas.",
+    "fuente": "Art. 4.e) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 4.e): la lista real incluye Tribunal Constitucional, Defensor del Pueblo, Tribunal de Cuentas y órganos técnicos del CGPJ; el Banco de España no figura en ella."
+  },
+  {
+    "q": "El art. 4.f) del RD 365/1995 declara en servicios especiales a quienes...",
+    "options": [
+      "Accedan a la condición de Diputado o Senador de las Cortes Generales",
+      "Sean nombrados representantes de España ante Organismos internacionales sin percibir remuneración",
+      "Sean nombrados funcionarios en comisión de servicios",
+      "Pasen a la situación de expectativa de destino"
+    ],
+    "correct": 0,
+    "exp": "La letra f) del art. 4 declara servicios especiales para quienes accedan a la condición de Diputado o Senador.",
+    "fuente": "Art. 4.f) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 4.f): el supuesto real es acceder a la condición de Diputado o Senador; la representación internacional sin remuneración no está prevista en esta letra."
+  },
+  {
+    "q": "Según el art. 4.k) del RD 365/1995, se declara la situación de servicios especiales cuando el funcionario...",
+    "options": [
+      "Solicite la excedencia voluntaria por interés particular",
+      "Cumpla el servicio militar o prestación social sustitutoria equivalente",
+      "Presten servicio de voluntariado obligatorio en la Cruz Roja Española",
+      "Obtenga un puesto de trabajo en la misma provincia"
+    ],
+    "correct": 1,
+    "exp": "El art. 4.k) declara servicios especiales cuando el funcionario cumple el servicio militar o la prestación social sustitutoria equivalente.",
+    "fuente": "Art. 4.k) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 4.k): el supuesto real es el servicio militar o prestación social sustitutoria; el voluntariado en la Cruz Roja no figura en el precepto."
+  },
+  {
+    "q": "Conforme al art. 4.l) del RD 365/1995, quedan en servicios especiales los funcionarios que sean...",
+    "options": [
+      "Nombrados miembros de un Ayuntamiento sin dedicación exclusiva",
+      "Destinados a una Comunidad Autónoma por concurso",
+      "Elegidos miembros del Parlamento Europeo",
+      "Sean elegidos Presidente de una Diputación Provincial"
+    ],
+    "correct": 2,
+    "exp": "La letra l) del art. 4 declara servicios especiales para los funcionarios elegidos miembros del Parlamento Europeo.",
+    "fuente": "Art. 4.l) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 4.l): el supuesto real es ser elegido miembro del Parlamento Europeo; presidir una Diputación Provincial no es un supuesto de este apartado."
+  },
+  {
+    "q": "Según el art. 5 del RD 365/1995, ¿qué se entiende por 'cargo de carácter político' a efectos del pase a servicios especiales?",
+    "options": [
+      "Cualquier cargo de elección popular en el ámbito municipal",
+      "El cargo de confianza que no implique una relación profesional de carácter permanente, del que se derive incompatibilidad para ejercer la función pública y que conlleve responsabilidades directivas o de asesoramiento a nivel político",
+      "Cualquier puesto de trabajo obtenido por libre designación",
+      "Todo puesto directivo en un Organismo autónomo estatal"
+    ],
+    "correct": 1,
+    "exp": "El art. 5 define el cargo de carácter político como cargo de confianza sin relación profesional permanente, con incompatibilidad y responsabilidades directivas o de asesoramiento político.",
+    "fuente": "Art. 5 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 5: la definición legal exige cargo de confianza sin relación profesional permanente y responsabilidades directivas o de asesoramiento político; un cargo de elección popular municipal no equivale a esa definición."
+  },
+  {
+    "q": "El art. 5 del RD 365/1995 atribuye el establecimiento de los criterios para calificar un cargo como de carácter político a...",
+    "options": [
+      "El Ministerio de Asuntos Exteriores",
+      "El Ministerio de Hacienda",
+      "El Ministerio para las Administraciones Públicas",
+      "El Consejo de Estado"
+    ],
+    "correct": 2,
+    "exp": "Conforme al art. 5, dichos criterios los establece el Ministerio para las Administraciones Públicas.",
+    "fuente": "Art. 5 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 5: el órgano que fija los criterios es el Ministerio para las Administraciones Públicas, no el Ministerio de Hacienda."
+  },
+  {
+    "q": "Según el art. 6.1 del RD 365/1995, el pase a la situación de servicios especiales se declara...",
+    "options": [
+      "Solo a instancia del interesado, nunca de oficio",
+      "Exclusivamente mediante resolución del Consejo de Ministros",
+      "De oficio o a instancia del interesado, con efectos únicamente desde la fecha de la resolución que lo declare",
+      "De oficio o a instancia del interesado, con efectos desde el momento en que se produjo el supuesto"
+    ],
+    "correct": 3,
+    "exp": "El art. 6.1 permite la declaración de oficio o a instancia del interesado, con efectos desde que se produjo el supuesto.",
+    "fuente": "Art. 6.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 6.1: los efectos se producen desde el momento en que se produjo el supuesto, no desde la fecha de la resolución declarativa."
+  },
+  {
+    "q": "Conforme al art. 6.2 del RD 365/1995, la autorización para realizar una misión de carácter internacional requiere que conste el interés de la Administración según los criterios que establezca...",
+    "options": [
+      "El Ministerio de Asuntos Exteriores",
+      "El Ministerio para las Administraciones Públicas",
+      "La Secretaría de Estado para la Administración Pública",
+      "El Consejo de Ministros"
+    ],
+    "correct": 0,
+    "exp": "El art. 6.2 exige que el interés de la Administración conste conforme a los criterios que establezca el Ministerio de Asuntos Exteriores.",
+    "fuente": "Art. 6.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 6.2: el órgano que fija los criterios de interés de la Administración es el Ministerio de Asuntos Exteriores, no el Consejo de Ministros."
+  },
+  {
+    "q": "Según el art. 7.1.a) del RD 365/1995, cuando el puesto desempeñado antes de pasar a servicios especiales se hubiera obtenido por libre designación, al reingreso se adjudicará...",
+    "options": [
+      "Un puesto de nivel inferior en el mismo Ministerio, con carácter definitivo",
+      "Un puesto de igual nivel y similares retribuciones, con carácter definitivo, en el mismo Ministerio",
+      "Un puesto de igual nivel y similares retribuciones, con carácter provisional, en el mismo municipio, hasta obtener otro con carácter definitivo",
+      "El mismo puesto que desempeñaba, con carácter definitivo"
+    ],
+    "correct": 2,
+    "exp": "El art. 7.1.a) prevé un puesto provisional de igual nivel y similares retribuciones en el mismo municipio para quienes procedían de un puesto de libre designación.",
+    "fuente": "Art. 7.1.a) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 7.1.a): el puesto adjudicado es de igual nivel, con carácter provisional; no de nivel inferior ni con carácter definitivo."
+  },
+  {
+    "q": "En los supuestos no correspondientes a libre designación, el art. 7.1.b) del RD 365/1995 dispone que se adjudicará al funcionario, con carácter definitivo...",
+    "options": [
+      "Cualquier puesto vacante en la Administración, sin garantía de nivel",
+      "Un puesto de igual nivel en otro Ministerio, con carácter provisional",
+      "Un puesto de nivel superior en otro Ministerio",
+      "Un puesto de igual nivel y similares retribuciones en el mismo Ministerio y municipio"
+    ],
+    "correct": 3,
+    "exp": "El art. 7.1.b) adjudica, con carácter definitivo, un puesto de igual nivel y similares retribuciones en el mismo Ministerio y municipio.",
+    "fuente": "Art. 7.1.b) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 7.1.b): el puesto adjudicado es en el mismo Ministerio y municipio, con carácter definitivo; no en otro Ministerio ni con carácter provisional."
+  },
+  {
+    "q": "Según el art. 8.1 del RD 365/1995, los funcionarios en situación de servicios especiales perciben...",
+    "options": [
+      "La retribución del puesto o cargo efectivo que desempeñen, y no la que les corresponda como funcionarios",
+      "Las retribuciones que les corresponderían como funcionarios en servicio activo",
+      "La retribución del puesto efectivo más un complemento de residencia",
+      "Únicamente las retribuciones básicas y los trienios"
+    ],
+    "correct": 0,
+    "exp": "El art. 8.1 establece que perciben la retribución del puesto o cargo efectivo desempeñado, y no la de funcionario.",
+    "fuente": "Art. 8.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 8.1: la retribución es la del puesto o cargo efectivo desempeñado, sin que el precepto prevea un complemento de residencia adicional."
+  },
+  {
+    "q": "El art. 8.2 del RD 365/1995 establece que el tiempo en servicios especiales se computará a efectos de...",
+    "options": [
+      "Únicamente a efectos de antigüedad, sin repercusión en derechos pasivos",
+      "Ascensos, consolidación de grado personal, trienios y derechos pasivos, así como para el período mínimo de excedencia voluntaria por interés particular",
+      "Solo a efectos de trienios, quedando excluidos los ascensos",
+      "Únicamente a efectos de complemento específico y productividad"
+    ],
+    "correct": 1,
+    "exp": "El art. 8.2 computa el tiempo en servicios especiales a efectos de ascensos, grado personal, trienios, derechos pasivos y período mínimo para la excedencia voluntaria por interés particular.",
+    "fuente": "Art. 8.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 8.2: el cómputo alcanza ascensos, grado personal, trienios, derechos pasivos y período mínimo de excedencia voluntaria; no se limita a complemento específico y productividad."
+  },
+  {
+    "q": "Según el art. 8.1 del RD 365/1995, cuando las retribuciones por trienios no puedan percibirse con cargo a los presupuestos correspondientes, ¿quién debe abonarlas?",
+    "options": [
+      "El Ministerio para las Administraciones Públicas, con cargo a un fondo específico",
+      "La Secretaría de Estado para la Administración Pública",
+      "El propio Organismo internacional o entidad donde presta servicio",
+      "El Departamento en el que el funcionario desempeñaba su último puesto en servicio activo"
+    ],
+    "correct": 3,
+    "exp": "El art. 8.1 atribuye ese abono excepcional al Departamento donde el funcionario desempeñaba su último puesto en activo.",
+    "fuente": "Art. 8.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 8.1: el abono excepcional de trienios corresponde al Departamento del último puesto en activo, no al Ministerio para las Administraciones Públicas."
+  },
+  {
+    "q": "Según el art. 9.1 del RD 365/1995, quienes pierdan la condición que motivó su declaración en servicios especiales deben solicitar el reingreso al servicio activo en el plazo de...",
+    "options": [
+      "Un mes",
+      "Dos meses",
+      "Quince días",
+      "Tres meses"
+    ],
+    "correct": 0,
+    "exp": "El art. 9.1 fija en un mes el plazo para solicitar el reingreso tras perder la condición que motivó los servicios especiales.",
+    "fuente": "Art. 9.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 9.1: el plazo real para solicitar el reingreso es de un mes, no de dos meses."
+  },
+  {
+    "q": "Conforme al art. 9.1 del RD 365/1995, si no se solicita el reingreso en plazo, se declara al funcionario en...",
+    "options": [
+      "Suspensión provisional de funciones",
+      "Excedencia voluntaria por interés particular, con efectos desde el día en que perdió la condición",
+      "Excedencia voluntaria por agrupación familiar",
+      "Expectativa de destino"
+    ],
+    "correct": 1,
+    "exp": "El art. 9.1 declara la excedencia voluntaria por interés particular, con efectos desde el día en que se perdió la condición, si no se solicita el reingreso en plazo.",
+    "fuente": "Art. 9.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 9.1: la consecuencia real es la excedencia voluntaria por interés particular, no por agrupación familiar."
+  },
+  {
+    "q": "Según el art. 9.2 del RD 365/1995, los Diputados, Senadores o miembros de las Asambleas Legislativas que pierdan su condición por disolución de las Cámaras...",
+    "options": [
+      "Deben reincorporarse de inmediato al servicio activo",
+      "Pasan automáticamente a excedencia forzosa",
+      "Podrán permanecer en situación de servicios especiales hasta la nueva constitución de las Cámaras",
+      "Deben cesar definitivamente en la condición de funcionario"
+    ],
+    "correct": 2,
+    "exp": "El art. 9.2 permite permanecer en servicios especiales hasta la nueva constitución de las Cámaras en caso de disolución.",
+    "fuente": "Art. 9.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 9.2: el precepto permite permanecer en servicios especiales hasta la nueva constitución de las Cámaras; no prevé el cese definitivo como funcionario."
+  },
+  {
+    "q": "Según el art. 10.1 del RD 365/1995, los funcionarios transferidos a las Comunidades Autónomas se integran plenamente en la organización de éstas, hallándose en situación de...",
+    "options": [
+      "Excedencia forzosa en su Cuerpo o Escala de origen",
+      "Servicio activo en la Comunidad Autónoma, permaneciendo en 'servicio en Comunidades Autónomas' en su Cuerpo o Escala de origen",
+      "Excedencia voluntaria por servicios en el sector público",
+      "Servicios especiales en todo caso"
+    ],
+    "correct": 1,
+    "exp": "El art. 10.1 sitúa a los funcionarios transferidos en servicio activo en la Comunidad Autónoma, y en 'servicio en Comunidades Autónomas' respecto de su Cuerpo o Escala de origen.",
+    "fuente": "Art. 10.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 10.1: los funcionarios transferidos quedan en 'servicio en Comunidades Autónomas' respecto de su Cuerpo de origen, no en excedencia forzosa."
+  },
+  {
+    "q": "Conforme al art. 10.2 del RD 365/1995, la sanción de separación del servicio de un funcionario transferido será acordada por el órgano competente de la Comunidad Autónoma...",
+    "options": [
+      "Sin necesidad de ningún informe previo",
+      "Previo informe del Ministerio de Justicia",
+      "Previo dictamen del Consejo de Estado",
+      "Previa autorización del Ministerio para las Administraciones Públicas"
+    ],
+    "correct": 2,
+    "exp": "El art. 10.2 exige que la sanción de separación se acuerde previo dictamen del Consejo de Estado.",
+    "fuente": "Art. 10.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 10.2: el informe exigido es el dictamen del Consejo de Estado, no un informe del Ministerio de Justicia."
+  },
+  {
+    "q": "Según el art. 11.1 del RD 365/1995, los funcionarios de la Administración del Estado que pasan a ocupar puestos en Comunidades Autónomas mediante concurso, libre designación o reasignación de efectivos...",
+    "options": [
+      "Pierden su condición de funcionarios de la Administración del Estado",
+      "Pasan automáticamente a la situación de excedencia voluntaria",
+      "Pasan a la situación de servicios especiales",
+      "Conservan su condición de funcionarios de la Administración del Estado, en situación de servicio en Comunidades Autónomas"
+    ],
+    "correct": 3,
+    "exp": "El art. 11.1 les mantiene la condición de funcionarios del Estado, en la situación de servicio en Comunidades Autónomas.",
+    "fuente": "Art. 11.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 11.1: estos funcionarios conservan su condición y quedan en servicio en Comunidades Autónomas, no pasan a servicios especiales."
+  },
+  {
+    "q": "Conforme al art. 11.2 del RD 365/1995, la sanción de separación del servicio de estos funcionarios corresponde acordarla a...",
+    "options": [
+      "El Ministro del Departamento al que esté adscrito el Cuerpo o Escala, previa incoación de expediente por la Comunidad Autónoma de destino",
+      "El órgano competente de la Comunidad Autónoma de destino, sin más trámite",
+      "El Consejo de Ministros, en todo caso",
+      "El órgano competente de la Comunidad Autónoma de destino, previo dictamen del Consejo de Estado"
+    ],
+    "correct": 0,
+    "exp": "El art. 11.2 reserva al Ministro del Departamento de adscripción del Cuerpo o Escala la sanción de separación, previa incoación del expediente por la Comunidad Autónoma de destino.",
+    "fuente": "Art. 11.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 11.2 frente al art. 10.2: la sanción de separación corresponde al Ministro del Departamento de adscripción, sin que este apartado exija dictamen del Consejo de Estado por el órgano de la Comunidad Autónoma."
+  },
+  {
+    "q": "Según el art. 12.1 del RD 365/1995, pasan a la situación de expectativa de destino los funcionarios afectados por un procedimiento de reasignación de efectivos que...",
+    "options": [
+      "Hayan superado el período máximo de expectativa de destino sin obtener puesto",
+      "Hayan solicitado voluntariamente la excedencia",
+      "No hayan obtenido puesto en las dos primeras fases de reasignación, adscribiéndose al Ministerio para las Administraciones Públicas",
+      "Hayan sido sancionados con suspensión firme de funciones"
+    ],
+    "correct": 2,
+    "exp": "El art. 12.1 declara en expectativa de destino a quienes no obtuvieron puesto en las dos primeras fases de reasignación, adscribiéndolos al Ministerio para las Administraciones Públicas.",
+    "fuente": "Art. 12.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 12.1: la expectativa de destino se declara al no obtener puesto en las dos primeras fases; superar el plazo máximo de la propia expectativa da lugar, según el art. 12.2, a la excedencia forzosa, no es la causa de entrada."
+  },
+  {
+    "q": "Entre las obligaciones de los funcionarios en expectativa de destino que recoge el art. 12.3 del RD 365/1995 se encuentra...",
+    "options": [
+      "Trasladarse a cualquier provincia del territorio nacional sin condición alguna",
+      "Renunciar a cualquier prestación por desempleo mientras dure la situación",
+      "Renunciar a la condición de funcionario si no aceptan el primer puesto ofrecido",
+      "Aceptar los puestos de características similares que se les ofrezcan en la provincia donde estaban destinados y participar en los concursos y cursos de capacitación que se les notifiquen"
+    ],
+    "correct": 3,
+    "exp": "El art. 12.3 obliga a aceptar puestos similares en la provincia de destino y a participar en concursos y cursos de capacitación notificados.",
+    "fuente": "Art. 12.3 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 12.3: las obligaciones reales son aceptar puestos similares y participar en concursos y cursos; no se menciona renuncia a prestaciones por desempleo."
+  },
+  {
+    "q": "Según el art. 12.4 del RD 365/1995, la declaración y cese en la situación de expectativa de destino corresponde a...",
+    "options": [
+      "La Secretaría de Estado para la Administración Pública",
+      "El Consejo de Ministros",
+      "El Ministerio para las Administraciones Públicas",
+      "El Ministro del Departamento de origen del funcionario"
+    ],
+    "correct": 0,
+    "exp": "El art. 12.4 atribuye la declaración y cese a la Secretaría de Estado para la Administración Pública.",
+    "fuente": "Art. 12.4 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 12.4: la competencia corresponde a la Secretaría de Estado para la Administración Pública, órgano distinto del Ministerio para las Administraciones Públicas en su conjunto."
+  },
+  {
+    "q": "Conforme al art. 12.5 del RD 365/1995, los funcionarios en expectativa de destino perciben las retribuciones básicas, el complemento de destino correspondiente y...",
+    "options": [
+      "El 100 por 100 del complemento específico que percibieran",
+      "El 50 por 100 del complemento específico que percibieran al pasar a esta situación",
+      "Ningún complemento específico",
+      "El 75 por 100 del complemento específico que percibieran"
+    ],
+    "correct": 1,
+    "exp": "El art. 12.5 reconoce el 50 por 100 del complemento específico que se percibiera al pasar a la situación.",
+    "fuente": "Art. 12.5 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 12.5: el porcentaje real reconocido es el 50 por 100 del complemento específico, no el 75 por 100."
+  },
+  {
+    "q": "Según el art. 13.1.a) del RD 365/1995, una de las causas de la excedencia forzosa es...",
+    "options": [
+      "La sanción disciplinaria por falta grave firme",
+      "La solicitud voluntaria del funcionario para el cuidado de hijos",
+      "La obtención de un puesto de trabajo mediante concurso",
+      "El transcurso del período máximo de expectativa de destino o el incumplimiento de las obligaciones que ésta impone"
+    ],
+    "correct": 3,
+    "exp": "El art. 13.1.a) señala como causa el transcurso del plazo máximo de expectativa de destino o el incumplimiento de sus obligaciones.",
+    "fuente": "Art. 13.1.a) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 13.1.a): la causa real es el transcurso del plazo máximo de expectativa de destino o el incumplimiento de sus obligaciones, no una sanción disciplinaria por falta grave."
+  },
+  {
+    "q": "Conforme al art. 13.1.b) del RD 365/1995, también procede la excedencia forzosa cuando el funcionario en situación de suspensión firme, sin puesto reservado, solicita el reingreso y...",
+    "options": [
+      "No se le concede en el plazo de seis meses desde la extinción de la responsabilidad penal o disciplinaria",
+      "En el plazo de dos meses desde la extinción de la responsabilidad penal o disciplinaria",
+      "No se le concede en el plazo de un año desde su solicitud",
+      "Es rechazado de forma expresa y motivada por el órgano competente"
+    ],
+    "correct": 0,
+    "exp": "El art. 13.1.b) exige que no se le conceda el reingreso en el plazo de seis meses desde la extinción de la responsabilidad penal o disciplinaria.",
+    "fuente": "Art. 13.1.b) RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 13.1.b): el plazo real es de seis meses desde la extinción de la responsabilidad penal o disciplinaria, no de dos meses."
+  },
+  {
+    "q": "Según el art. 13.4 del RD 365/1995, el incumplimiento de las obligaciones del excedente forzoso determina...",
+    "options": [
+      "La apertura automática de un expediente disciplinario por falta muy grave",
+      "El pase a la situación de excedencia voluntaria por interés particular",
+      "La suspensión provisional de funciones por un período de seis meses",
+      "La pérdida definitiva de la condición de funcionario"
+    ],
+    "correct": 1,
+    "exp": "El art. 13.4 sanciona el incumplimiento con el pase a la excedencia voluntaria por interés particular.",
+    "fuente": "Art. 13.4 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 13.4: la consecuencia real del incumplimiento es el pase a excedencia voluntaria por interés particular, no una suspensión provisional de funciones."
+  },
+  {
+    "q": "Conforme al art. 13.5 del RD 365/1995, los excedentes forzosos...",
+    "options": [
+      "Solo pueden trabajar en el sector público si es en su misma provincia de destino",
+      "Pueden desempeñar libremente puestos en el sector público bajo relación laboral",
+      "No pueden desempeñar puestos de trabajo en el sector público bajo ningún tipo de relación funcionarial o contractual; si lo hacen, pasan a excedencia voluntaria",
+      "Pueden desempeñar puestos de trabajo en el sector público bajo relación funcionarial, pero no bajo relación laboral"
+    ],
+    "correct": 2,
+    "exp": "El art. 13.5 prohíbe a los excedentes forzosos desempeñar puestos en el sector público bajo cualquier relación; si obtienen puesto, pasan a excedencia voluntaria.",
+    "fuente": "Art. 13.5 RD 365/1995 (Reglamento de Situaciones Administrativas)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 13.5: la prohibición alcanza toda relación funcionarial o contractual (incluida la laboral); no se permite la vía funcionarial con exclusión de la laboral."
+  }
+]
