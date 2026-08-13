@@ -41187,3 +41187,1051 @@ window.addQuestions('aux-admin-zaragoza', 3, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 3 · lote 2026-08-13 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 3, [
+  {
+    "q": "Según el art. 70.1 EAA, ¿qué tres clases de competencias corresponden a la Comunidad Autónoma de Aragón sobre las materias del Título V del Estatuto?",
+    "options": [
+      "Exclusivas, compartidas y ejecutivas",
+      "Exclusivas, delegadas y compartidas",
+      "Compartidas, ejecutivas y concurrentes",
+      "Exclusivas, ejecutivas y transferidas"
+    ],
+    "correct": 0,
+    "exp": "El art. 70.1 EAA dispone que corresponde a la Comunidad Autónoma de Aragón las competencias exclusivas, compartidas y ejecutivas sobre las materias incluidas en el Título V, que ejercerá respetando la Constitución y el Estatuto.",
+    "fuente": "Art. 70.1 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 70.1 EAA, las competencias exclusivas, compartidas y ejecutivas de la Comunidad Autónoma se ejercerán respetando lo dispuesto en...",
+    "options": [
+      "Únicamente la Constitución",
+      "La Constitución y el presente Estatuto",
+      "La Constitución, el Estatuto y los reglamentos comunitarios europeos",
+      "El presente Estatuto y las leyes orgánicas de transferencia"
+    ],
+    "correct": 1,
+    "exp": "El art. 70.1 EAA establece que dichas competencias se ejercerán 'respetando lo dispuesto en la Constitución y en el presente Estatuto'.",
+    "fuente": "Art. 70.1 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Dónde despliega su eficacia, con carácter general, el ejercicio de las competencias autonómicas de Aragón, según el art. 70.2 EAA?",
+    "options": [
+      "En todo el territorio del Estado, sin excepciones",
+      "En el ámbito que determine anualmente la Conferencia de Presidentes",
+      "En el territorio de Aragón, salvo los supuestos de eficacia extraterritorial previstos en el Estatuto y en disposiciones estatales",
+      "En el territorio de Aragón y en el de las Comunidades limítrofes, por reciprocidad"
+    ],
+    "correct": 2,
+    "exp": "El art. 70.2 EAA señala que el ejercicio de las competencias autonómicas desplegará su eficacia en el territorio de Aragón, excepto los supuestos a que hacen referencia expresamente el Estatuto y otras disposiciones estatales que establecen eficacia jurídica extraterritorial.",
+    "fuente": "Art. 70.2 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando el objeto de una competencia autonómica tenga un alcance territorial superior al de Aragón, ¿sobre qué parte ejerce sus competencias la Comunidad Autónoma, conforme al art. 70.3 EAA?",
+    "options": [
+      "Sobre la parte de dicho objeto situada en su territorio, sin perjuicio de instrumentos de colaboración con otros entes o, subsidiariamente, de la coordinación estatal",
+      "Sobre la totalidad del objeto, con independencia de su ubicación territorial",
+      "Sobre ninguna parte, cediendo la competencia íntegramente al Estado",
+      "Solo sobre la parte situada en su territorio si medía autorización previa de las Cortes Generales"
+    ],
+    "correct": 0,
+    "exp": "El art. 70.3 EAA dispone que la Comunidad Autónoma ejerce sus competencias sobre la parte del objeto situada en su territorio, sin perjuicio de los instrumentos de colaboración con otros entes territoriales o, subsidiariamente, de la coordinación por el Estado.",
+    "fuente": "Art. 70.3 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 71 EAA, en el ámbito de las competencias exclusivas, ¿qué potestades y funciones ejerce la Comunidad Autónoma de Aragón, respetando los artículos 140 y 149.1 de la Constitución?",
+    "options": [
+      "Solo la potestad reglamentaria y la función ejecutiva",
+      "La potestad legislativa, la potestad reglamentaria, la función ejecutiva y el establecimiento de políticas propias",
+      "Únicamente la potestad legislativa",
+      "La potestad legislativa y la potestad reglamentaria, pero no la función ejecutiva"
+    ],
+    "correct": 1,
+    "exp": "El art. 71 EAA establece que en el ámbito de las competencias exclusivas la Comunidad ejercerá la potestad legislativa, la potestad reglamentaria, la función ejecutiva y el establecimiento de políticas propias, respetando los artículos 140 y 149.1 CE.",
+    "fuente": "Art. 71 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál es la primera materia de competencia exclusiva enumerada en el art. 71 EAA?",
+    "options": [
+      "La creación, organización, régimen y funcionamiento de sus instituciones de autogobierno",
+      "La organización territorial propia de la Comunidad",
+      "El procedimiento administrativo derivado de las especialidades de la organización propia",
+      "La conservación, modificación y desarrollo del Derecho foral aragonés"
+    ],
+    "correct": 0,
+    "exp": "La materia 1.ª del art. 71 EAA es la 'creación, organización, régimen y funcionamiento de sus instituciones de autogobierno, con arreglo al presente Estatuto'.",
+    "fuente": "Art. 71.1.ª EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la materia 2.ª del art. 71 EAA, ¿qué competencia exclusiva tiene la Comunidad Autónoma respecto al Derecho foral aragonés?",
+    "options": [
+      "Su interpretación vinculante mediante circulares del Justicia de Aragón",
+      "Su conservación, modificación y desarrollo, con respeto a su sistema de fuentes",
+      "Su codificación íntegra en un texto único aprobado por ley orgánica",
+      "Su aplicación exclusivamente supletoria respecto del Código Civil"
+    ],
+    "correct": 1,
+    "exp": "La materia 2.ª del art. 71 EAA atribuye la competencia exclusiva sobre 'conservación, modificación y desarrollo del Derecho foral aragonés, con respeto a su sistema de fuentes'.",
+    "fuente": "Art. 71.2.ª EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué establece la materia 4.ª del art. 71 EAA como competencia exclusiva de la Comunidad Autónoma?",
+    "options": [
+      "Lenguas y modalidades lingüísticas propias de Aragón",
+      "La declaración de cooficialidad del aragonés y del catalán en todo el territorio",
+      "La creación de una Academia de la Lengua Aragonesa con rango constitucional",
+      "El régimen sancionador por incumplimiento de la normalización lingüística"
+    ],
+    "correct": 0,
+    "exp": "La materia 4.ª del art. 71 EAA se limita a enunciar 'Lenguas y modalidades lingüísticas propias de Aragón' como competencia exclusiva, sin declarar cooficialidad ni crear organismos.",
+    "fuente": "Art. 71.4.ª EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la materia 9.ª del art. 71 EAA, la competencia exclusiva en urbanismo comprende, en todo caso, el régimen urbanístico del suelo, su planeamiento y gestión, la protección de la legalidad urbanística y, además...",
+    "options": [
+      "La regulación del régimen jurídico de la propiedad del suelo, respetando las condiciones básicas estatales que garantizan la igualdad del derecho de propiedad",
+      "La fijación de los tipos del Impuesto sobre Bienes Inmuebles urbanos",
+      "La declaración de utilidad pública de los planes generales municipales",
+      "La expedición de las licencias de obra por el Gobierno de Aragón"
+    ],
+    "correct": 0,
+    "exp": "La materia 9.ª del art. 71 EAA añade a lo anterior 'la regulación del régimen jurídico de la propiedad del suelo respetando las condiciones básicas que el Estado establece para garantizar la igualdad del ejercicio del derecho a la propiedad'.",
+    "fuente": "Art. 71.9.ª EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué incluye 'en todo caso' la competencia exclusiva en materia de vivienda según la materia 10.ª del art. 71 EAA?",
+    "options": [
+      "La fijación del precio máximo de la vivienda libre en toda España",
+      "La cesión obligatoria de vivienda pública vacía a fondos de inversión",
+      "La planificación, ordenación, gestión, fomento, inspección y control de la vivienda, así como las normas técnicas y de habitabilidad",
+      "La concesión de préstamos hipotecarios subvencionados por el Estado"
+    ],
+    "correct": 2,
+    "exp": "La materia 10.ª del art. 71 EAA incluye, en todo caso, la planificación, ordenación, gestión, fomento, inspección y control de la vivienda, las normas técnicas de calidad de la construcción y las normas sobre habitabilidad.",
+    "fuente": "Art. 71.10.ª EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la materia 24.ª del art. 71 EAA, ¿qué órgano se establece y regula para tratar en exclusiva las actividades económicas que alteren o puedan alterar la competencia en Aragón?",
+    "options": [
+      "La Comisión Nacional de los Mercados y la Competencia",
+      "El Tribunal Aragonés de Defensa de la Competencia, como órgano independiente",
+      "El Consejo Económico y Social de Aragón",
+      "El Tribunal Superior de Justicia de Aragón, Sala de lo Contencioso-Administrativo"
+    ],
+    "correct": 1,
+    "exp": "La materia 24.ª del art. 71 EAA, 'Promoción de la competencia', incluye el establecimiento y regulación del Tribunal Aragonés de Defensa de la Competencia como órgano independiente competente en exclusiva sobre las actividades económicas desarrolladas principalmente en Aragón que alteren o puedan alterar la competencia.",
+    "fuente": "Art. 71.24.ª EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "La competencia exclusiva en sanidad y salud pública (materia 55.ª del art. 71 EAA) comprende en especial la organización, el funcionamiento, la evaluación, la inspección y el control de centros, servicios y establecimientos sanitarios; además, la Comunidad Autónoma...",
+    "options": [
+      "Delega toda la gestión sanitaria en las diputaciones provinciales",
+      "Participará, de acuerdo con el Estado, en la planificación y la coordinación estatal en lo relativo a sanidad y salud pública",
+      "Asume en exclusiva la planificación estatal en sanidad, sin participación del Estado",
+      "Queda excluida de cualquier coordinación con la planificación estatal"
+    ],
+    "correct": 1,
+    "exp": "La materia 55.ª del art. 71 EAA añade que 'la Comunidad Autónoma participará, de acuerdo con el Estado, en la planificación y la coordinación estatal en lo relativo a sanidad y salud pública'.",
+    "fuente": "Art. 71.55.ª EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué aspecto de la Administración de Justicia constituye competencia exclusiva de la Comunidad Autónoma según la materia 59.ª del art. 71 EAA?",
+    "options": [
+      "El régimen disciplinario de jueces y magistrados",
+      "Lo relativo a medios personales y materiales",
+      "El nombramiento de jueces y magistrados",
+      "La determinación de la planta y demarcación judicial"
+    ],
+    "correct": 1,
+    "exp": "La materia 59.ª del art. 71 EAA circunscribe la competencia exclusiva a 'Administración de Justicia en lo relativo a medios personales y materiales'.",
+    "fuente": "Art. 71.59.ª EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué prevé la materia 60.ª, última del listado de competencias exclusivas del art. 71 EAA?",
+    "options": [
+      "Una cláusula residual que atribuye cualesquiera otras competencias que correspondan a la Comunidad de acuerdo con la Constitución, el Estatuto o el resto del ordenamiento jurídico",
+      "La prohibición de ampliar el listado de competencias exclusivas sin reforma estatutaria",
+      "La remisión íntegra al Derecho de la Unión Europea",
+      "La atribución al Estado de las competencias no enumeradas expresamente"
+    ],
+    "correct": 0,
+    "exp": "La materia 60.ª del art. 71 EAA cierra el listado con una cláusula residual: 'Cualesquiera otras que le correspondan de acuerdo con la Constitución, el presente Estatuto o el resto del ordenamiento jurídico'.",
+    "fuente": "Art. 71.60.ª EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 72.1 EAA, ¿sobre qué aguas tiene la Comunidad Autónoma de Aragón competencia exclusiva?",
+    "options": [
+      "Sobre todas las aguas de las cuencas hidrográficas intercomunitarias que atraviesen Aragón",
+      "Sobre las aguas subterráneas exclusivamente, quedando las superficiales reservadas al Estado",
+      "Sobre las aguas que discurran íntegramente por su territorio",
+      "Sobre las aguas de los ríos Ebro y sus afluentes en todo su curso"
+    ],
+    "correct": 2,
+    "exp": "El art. 72.1 EAA atribuye a la Comunidad Autónoma la competencia exclusiva en materia de aguas 'que discurran íntegramente por su territorio'.",
+    "fuente": "Art. 72.1 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Entre el contenido de la competencia exclusiva en aguas del art. 72.1 EAA, ¿qué prevé expresamente el apartado c)?",
+    "options": [
+      "Las medidas extraordinarias en caso de necesidad para garantizar el suministro de agua",
+      "La declaración del estado de sequía por el Gobierno de España",
+      "La suspensión de concesiones de riego durante los meses de verano",
+      "El establecimiento de un canon único de saneamiento estatal"
+    ],
+    "correct": 0,
+    "exp": "El art. 72.1.c) EAA incluye dentro de la competencia exclusiva en aguas 'las medidas extraordinarias en caso de necesidad para garantizar el suministro de agua'.",
+    "fuente": "Art. 72.1.c) EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Respecto de las cuencas hidrográficas intercomunitarias que afecten a Aragón, ¿qué papel atribuye el art. 72.2 EAA a la Comunidad Autónoma?",
+    "options": [
+      "El veto a cualquier trasvase, sin necesidad de informe",
+      "La participación y colaboración en la planificación hidrológica y en los órganos de gestión estatal de los recursos hídricos",
+      "La gestión exclusiva de dichas cuencas",
+      "Ninguna intervención, al ser competencia exclusiva del Estado sin excepción"
+    ],
+    "correct": 1,
+    "exp": "El art. 72.2 EAA dispone que, en el marco del art. 149.1.22.ª CE, la Comunidad Autónoma 'participará y colaborará en la planificación hidrológica y en los órganos de gestión estatal de los recursos hídricos... que pertenecen a cuencas hidrográficas intercomunitarias que afecten a Aragón'.",
+    "fuente": "Art. 72.2 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué debe emitir la Comunidad Autónoma, según el art. 72.3 EAA, ante cualquier propuesta de obra hidráulica o de transferencia de aguas que afecte a su territorio?",
+    "options": [
+      "Un informe no vinculante del Justicia de Aragón",
+      "Un informe preceptivo",
+      "Una autorización previa de las Cortes de Aragón",
+      "Un dictamen vinculante del Consejo Consultivo de Aragón"
+    ],
+    "correct": 1,
+    "exp": "El art. 72.3 EAA establece que la Comunidad Autónoma 'emitirá un informe preceptivo para cualquier propuesta de obra hidráulica o de transferencia de aguas que afecte a su territorio'.",
+    "fuente": "Art. 72.3 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué tipo de competencia tiene la Comunidad Autónoma de Aragón en materia de enseñanza, según el art. 73 EAA?",
+    "options": [
+      "Exclusiva",
+      "Compartida",
+      "Ejecutiva",
+      "Delegada por convenio con el Estado"
+    ],
+    "correct": 1,
+    "exp": "El art. 73 EAA dispone que 'corresponde a la Comunidad Autónoma la competencia compartida en enseñanza en toda su extensión, niveles y grados, modalidades y especialidades'.",
+    "fuente": "Art. 73 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Entre el contenido de la competencia compartida en enseñanza (art. 73 EAA), ¿qué se incluye respecto a los centros sostenidos con fondos públicos?",
+    "options": [
+      "El diseño único de los libros de texto",
+      "La determinación del calendario escolar nacional",
+      "El establecimiento de criterios de admisión para asegurar una red educativa equilibrada y de carácter compensatorio",
+      "La fijación del precio de la matrícula universitaria en toda España"
+    ],
+    "correct": 2,
+    "exp": "El art. 73 EAA incluye 'en todo caso' el establecimiento de criterios de admisión a los centros sostenidos con fondos públicos para asegurar una red educativa equilibrada y de carácter compensatorio.",
+    "fuente": "Art. 73 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué tipo de competencia corresponde a la Comunidad Autónoma en medios de comunicación social y servicios de contenido audiovisual, según el art. 74.1 EAA?",
+    "options": [
+      "Ninguna; es competencia exclusiva del Estado",
+      "Exclusiva",
+      "Compartida",
+      "Ejecutiva"
+    ],
+    "correct": 2,
+    "exp": "El art. 74.1 EAA establece que 'corresponde a la Comunidad Autónoma la competencia compartida en medios de comunicación social y servicios de contenido audiovisual'.",
+    "fuente": "Art. 74.1 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 74.2 EAA, ¿qué facultad tiene la Comunidad Autónoma respecto a los medios de comunicación, respetando la autonomía local?",
+    "options": [
+      "Solo participar minoritariamente en RTVE",
+      "Ceder la gestión de cualquier medio a una empresa privada única",
+      "Prohibir la emisión de medios estatales en su territorio",
+      "Regular, crear y mantener su propia televisión, radio y prensa, y en general cualquier medio de comunicación social para el cumplimiento de sus fines"
+    ],
+    "correct": 3,
+    "exp": "El art. 74.2 EAA dispone que la Comunidad Autónoma 'podrá regular, crear y mantener su propia televisión, radio y prensa y, en general, cualquier medio de comunicación social para el cumplimiento de sus fines, respetando la autonomía local'.",
+    "fuente": "Art. 74.2 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 75 EAA, ¿qué ejerce la Comunidad Autónoma en el ámbito de las competencias compartidas?",
+    "options": [
+      "Únicamente la ejecución material, sin capacidad normativa",
+      "La potestad legislativa plena, sin sujeción a legislación básica estatal",
+      "El desarrollo legislativo y la ejecución de la legislación básica que establezca el Estado en normas con rango de ley, desarrollando políticas propias",
+      "La mera emisión de informes no vinculantes"
+    ],
+    "correct": 2,
+    "exp": "El art. 75 EAA establece que en las competencias compartidas la Comunidad Autónoma 'ejercerá el desarrollo legislativo y la ejecución de la legislación básica que establezca el Estado en normas con rango de ley... desarrollando políticas propias'.",
+    "fuente": "Art. 75 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué exceptúa la materia 1.ª del art. 75 EAA dentro de la competencia compartida en Seguridad Social?",
+    "options": [
+      "La gestión de las prestaciones no contributivas",
+      "La inspección de los centros sanitarios",
+      "La formación del personal facultativo",
+      "Las normas que configuran su régimen económico"
+    ],
+    "correct": 3,
+    "exp": "La materia 1.ª del art. 75 EAA atribuye competencia compartida en 'Seguridad Social, a excepción de las normas que configuran su régimen económico'.",
+    "fuente": "Art. 75.1.ª EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes es una materia de competencia compartida según la materia 4.ª del art. 75 EAA?",
+    "options": [
+      "Defensa nacional",
+      "Relaciones internacionales",
+      "Energía, incluyendo la regulación de producción, almacenamiento, distribución y transporte de energías",
+      "Moneda y sistema monetario"
+    ],
+    "correct": 2,
+    "exp": "La materia 4.ª del art. 75 EAA atribuye competencia compartida en 'Energía, que comprende, en todo caso: la regulación de las actividades de producción, almacenamiento, distribución y transporte de cualesquiera energías...'.",
+    "fuente": "Art. 75.4.ª EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué órgano prevé crear, 'en especial', la materia 5.ª del art. 75 EAA sobre protección de datos de carácter personal?",
+    "options": [
+      "Una Fiscalía Autonómica de Protección de Datos",
+      "Un Registro Central de Ficheros dependiente del Estado",
+      "Un Defensor del Dato con rango de consejero",
+      "Una Agencia de protección de datos de Aragón"
+    ],
+    "correct": 3,
+    "exp": "La materia 5.ª del art. 75 EAA incluye, en especial, 'la creación de una Agencia de protección de datos de Aragón'.",
+    "fuente": "Art. 75.5.ª EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes materias figura entre las competencias compartidas enumeradas en el art. 75 EAA?",
+    "options": [
+      "Ordenación del crédito, banca, seguros y mutualidades de previsión social",
+      "Régimen aduanero",
+      "Política monetaria",
+      "Relaciones diplomáticas"
+    ],
+    "correct": 0,
+    "exp": "La materia 9.ª del art. 75 EAA atribuye competencia compartida en 'Ordenación del crédito, banca, seguros, mutualidades de previsión social, entidades gestoras de planes y fondos de pensiones y otras mutualidades no integradas en el sistema de Seguridad Social'.",
+    "fuente": "Art. 75.9.ª EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué comprende la materia 13.ª, última del listado de competencias compartidas del art. 75 EAA?",
+    "options": [
+      "El régimen estatutario de los funcionarios del Estado destinados en Aragón",
+      "La fijación de las retribuciones básicas de todos los funcionarios públicos españoles",
+      "El régimen estatutario de los funcionarios de la Comunidad Autónoma de Aragón y de su Administración Local, y las especialidades del personal laboral derivadas de la organización administrativa",
+      "La regulación de la Función Pública Local en toda España"
+    ],
+    "correct": 2,
+    "exp": "La materia 13.ª del art. 75 EAA atribuye competencia compartida sobre el 'régimen estatutario de los funcionarios de la Comunidad Autónoma de Aragón y de su Administración Local y las especialidades del personal laboral derivadas de la organización administrativa y la formación de este personal'.",
+    "fuente": "Art. 75.13.ª EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 76.1 EAA, ¿en qué marco podrá la Comunidad Autónoma crear una Policía autonómica?",
+    "options": [
+      "En el marco de un reglamento del Gobierno de Aragón, sin necesidad de ley",
+      "En el marco de un convenio bilateral con el Ministerio del Interior, sin base legal",
+      "En el marco exclusivo de la Ley Orgánica de Fuerzas y Cuerpos de Seguridad",
+      "En el marco del presente Estatuto y de la ley orgánica correspondiente"
+    ],
+    "correct": 3,
+    "exp": "El art. 76.1 EAA establece que 'la Comunidad Autónoma podrá crear una Policía autonómica en el marco del presente Estatuto y de la ley orgánica correspondiente'.",
+    "fuente": "Art. 76.1 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Quién determina las funciones de la Policía autonómica de Aragón, según el art. 76.2 EAA?",
+    "options": [
+      "El Ministerio del Interior, mediante orden ministerial",
+      "La Comunidad Autónoma, en su ley de creación, en el marco de la legislación del Estado",
+      "La Junta de Seguridad, por acuerdo unánime",
+      "Los ayuntamientos afectados, mediante ordenanza"
+    ],
+    "correct": 1,
+    "exp": "El art. 76.2 EAA dispone que 'la Comunidad Autónoma determinará las funciones de la Policía autonómica de Aragón en su ley de creación en el marco de la legislación del Estado'.",
+    "fuente": "Art. 76.2 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 76.3 EAA, ¿qué corresponde a la Comunidad Autónoma respecto de las Policías locales aragonesas?",
+    "options": [
+      "Su financiación íntegra con cargo a los presupuestos autonómicos",
+      "El nombramiento directo de sus jefes",
+      "La asunción de su mando operativo permanente",
+      "La coordinación de su actuación"
+    ],
+    "correct": 3,
+    "exp": "El art. 76.3 EAA establece que 'corresponde a la Comunidad Autónoma la coordinación de la actuación de las Policías locales aragonesas'.",
+    "fuente": "Art. 76.3 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cómo se compone la Junta de Seguridad prevista en el art. 76.4 EAA?",
+    "options": [
+      "Con representación paritaria del Estado y la Comunidad Autónoma",
+      "Con mayoría de representantes municipales",
+      "Exclusivamente por representantes del Estado",
+      "Con representación proporcional a la población de cada provincia"
+    ],
+    "correct": 0,
+    "exp": "El art. 76.4 EAA prevé que se creará, en su caso, 'una Junta de Seguridad que, con representación paritaria del Estado y la Comunidad Autónoma, coordinará las actuaciones de la Policía autonómica y de los Cuerpos y Fuerzas de Seguridad del Estado'.",
+    "fuente": "Art. 76.4 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 77 EAA, en el ámbito de las competencias ejecutivas y para la aplicación de la legislación estatal, ¿qué puede dictar la Comunidad Autónoma?",
+    "options": [
+      "Leyes de desarrollo de la legislación básica estatal",
+      "Decretos-leyes en caso de urgencia",
+      "Reglamentos para la regulación de su propia competencia funcional y la organización de los servicios necesarios",
+      "Únicamente circulares internas sin efectos jurídicos"
+    ],
+    "correct": 2,
+    "exp": "El art. 77 EAA dispone que en el ámbito de las competencias ejecutivas la Comunidad Autónoma 'podrá dictar reglamentos para la regulación de su propia competencia funcional y la organización de los servicios necesarios para ello'.",
+    "fuente": "Art. 77 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál es la primera materia de competencia ejecutiva enumerada en el art. 77 EAA?",
+    "options": [
+      "El control metrológico y contraste de metales",
+      "La propiedad intelectual e industrial",
+      "Las ferias internacionales que se celebren en Aragón",
+      "La gestión de la asistencia sanitaria de la Seguridad Social"
+    ],
+    "correct": 3,
+    "exp": "La materia 1.ª del art. 77 EAA atribuye competencia ejecutiva sobre la 'gestión de la asistencia sanitaria de la Seguridad Social'.",
+    "fuente": "Art. 77.1.ª EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes es una materia de competencia ejecutiva según el art. 77 EAA?",
+    "options": [
+      "La política exterior",
+      "La emisión de moneda",
+      "El sistema penitenciario",
+      "La nacionalidad y extranjería"
+    ],
+    "correct": 2,
+    "exp": "La materia 11.ª del art. 77 EAA atribuye competencia ejecutiva sobre el 'sistema penitenciario'.",
+    "fuente": "Art. 77.11.ª EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la materia 14.ª del art. 77 EAA, ¿qué incluye la competencia ejecutiva sobre el Registro civil?",
+    "options": [
+      "La modificación de la legislación sustantiva sobre el estado civil",
+      "El nombramiento de los encargados del Registro Civil",
+      "La creación de nuevos Registros Civiles únicos por decreto autonómico",
+      "La provisión de medios personales y materiales"
+    ],
+    "correct": 3,
+    "exp": "La materia 14.ª del art. 77 EAA atribuye competencia ejecutiva sobre 'Registro civil, que incluye la provisión de medios personales y materiales'.",
+    "fuente": "Art. 77.14.ª EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 78.1 EAA, ¿qué mérito se considera preferente para el nombramiento de notarios y registradores en Aragón?",
+    "options": [
+      "El conocimiento del Derecho propio de Aragón y, específicamente, su Derecho foral",
+      "La antigüedad en el escalafón nacional",
+      "La superación de un examen adicional de idiomas",
+      "La residencia previa de diez años en la Comunidad Autónoma"
+    ],
+    "correct": 0,
+    "exp": "El art. 78.1 EAA dispone que los notarios y registradores de la propiedad y mercantiles serán nombrados por la Comunidad Autónoma, de conformidad con las leyes del Estado, 'siendo mérito preferente el conocimiento del Derecho propio de Aragón y específicamente su Derecho foral'.",
+    "fuente": "Art. 78.1 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 78.3 EAA, ¿a quién corresponde el conocimiento de los recursos contra la calificación de documentos fundados en el Derecho foral aragonés, con acceso a un Registro público de Aragón?",
+    "options": [
+      "A la Dirección General de los Registros y del Notariado",
+      "Al Justicia de Aragón, en función arbitral",
+      "Al Consejo de Estado",
+      "A los órganos jurisdiccionales de la Comunidad Autónoma"
+    ],
+    "correct": 3,
+    "exp": "El art. 78.3 EAA atribuye 'a los órganos jurisdiccionales de la Comunidad Autónoma el conocimiento de los recursos contra la calificación de documentos o cláusulas concretas de los mismos, que deban tener acceso a un Registro público de Aragón y estén fundados en el Derecho foral aragonés'.",
+    "fuente": "Art. 78.3 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 79.1 EAA, ¿con cargo a qué fondos podrá la Comunidad Autónoma otorgar subvenciones en el ejercicio de la actividad de fomento, en las materias de su competencia?",
+    "options": [
+      "Exclusivamente con cargo a fondos europeos",
+      "Con cargo a fondos del Estado, previa autorización de las Cortes Generales",
+      "Con cargo a fondos de las diputaciones provinciales",
+      "Con cargo a fondos propios"
+    ],
+    "correct": 3,
+    "exp": "El art. 79.1 EAA dispone que, en las materias de su competencia, corresponde a la Comunidad Autónoma el ejercicio de la actividad de fomento, 'a cuyos efectos podrá otorgar subvenciones con cargo a fondos propios'.",
+    "fuente": "Art. 79.1 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 80.2 EAA, en las materias de competencia exclusiva de la Comunidad Autónoma, ¿qué Derecho será aplicable en su territorio con preferencia a cualquier otro?",
+    "options": [
+      "El Derecho común del Código Civil",
+      "El Derecho de la Unión Europea directamente aplicable",
+      "El Derecho histórico foral anterior a 1978, sin actualizar",
+      "El Derecho propio de Aragón"
+    ],
+    "correct": 3,
+    "exp": "El art. 80.2 EAA establece que 'en las materias de competencia exclusiva de la Comunidad Autónoma, el Derecho propio de Aragón será aplicable en su territorio con preferencia a cualquier otro, en los términos previstos en este Estatuto'.",
+    "fuente": "Art. 80.2 EAA",
+    "confianza": "alta"
+  }
+]);
+
+/* tema 3 · lote 2026-08-13 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 3, [
+  {
+    "q": "Según el art. 1.1 del Estatuto de Autonomía de Aragón, Aragón ejerce su autogobierno en el ejercicio del derecho a la autonomía que la Constitución reconoce y garantiza a:",
+    "options": [
+      "Toda nacionalidad",
+      "Toda comunidad autónoma",
+      "Los territorios históricos",
+      "Las provincias limítrofes"
+    ],
+    "correct": 0,
+    "exp": "Art. 1.1: 'Aragón, nacionalidad histórica, ejerce su autogobierno de acuerdo con el presente Estatuto, en el ejercicio del derecho a la autonomía que la Constitución reconoce y garantiza a toda nacionalidad.'",
+    "fuente": "Art. 1.1 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 1.2 del Estatuto de Aragón, los poderes de la Comunidad Autónoma de Aragón emanan de la Constitución y de:",
+    "options": [
+      "Las Cortes Generales",
+      "El pueblo aragonés",
+      "El Gobierno de España",
+      "El Rey"
+    ],
+    "correct": 1,
+    "exp": "Art. 1.2: 'Los poderes de la Comunidad Autónoma de Aragón emanan del pueblo aragonés y de la Constitución.'",
+    "fuente": "Art. 1.2 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 1.3 del Estatuto de Aragón, ¿en qué contexto ostenta la Comunidad Autónoma de Aragón, por su historia, una identidad propia?",
+    "options": [
+      "En el contexto exclusivo del Derecho foral, sin más consideraciones",
+      "Dentro del marco exclusivo de la Unión Europea",
+      "Dentro del sistema constitucional español",
+      "En el contexto de sus relaciones con Francia"
+    ],
+    "correct": 2,
+    "exp": "Art. 1.3: 'La Comunidad Autónoma de Aragón, dentro del sistema constitucional español, ostenta por su historia una identidad propia en virtud de sus instituciones tradicionales, el Derecho foral y su cultura.'",
+    "fuente": "Art. 1.3 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cómo se titula el artículo 1 del Estatuto de Autonomía de Aragón?",
+    "options": [
+      "Territorio",
+      "Símbolos y capitalidad",
+      "Condición política de aragonés",
+      "El autogobierno de Aragón"
+    ],
+    "correct": 3,
+    "exp": "El art. 1 EAA se titula 'El autogobierno de Aragón'.",
+    "fuente": "Art. 1 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 2 del Estatuto de Aragón, el territorio de la Comunidad Autónoma se corresponde con:",
+    "options": [
+      "El histórico de Aragón",
+      "El fijado por decreto del Gobierno de España",
+      "El delimitado por referéndum en cada legislatura",
+      "El coincidente exclusivamente con la provincia de Zaragoza"
+    ],
+    "correct": 0,
+    "exp": "Art. 2: 'El territorio de la Comunidad Autónoma se corresponde con el histórico de Aragón, y comprende el de los municipios, comarcas y provincias de Huesca, Teruel y Zaragoza.'",
+    "fuente": "Art. 2 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de los siguientes es el título exacto del art. 2 del Estatuto de Aragón?",
+    "options": [
+      "Organización territorial",
+      "Territorio",
+      "Símbolos y capitalidad",
+      "Eficacia de las normas"
+    ],
+    "correct": 1,
+    "exp": "El art. 2 EAA se titula 'Territorio', a diferencia del art. 5, que se titula 'Organización territorial'.",
+    "fuente": "Art. 2 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 3.2 del Estatuto de Aragón, el escudo de Aragón, además de ser el tradicional de los cuatro cuarteles rematado por la corona correspondiente, ¿dónde figurará?",
+    "options": [
+      "En el reverso de la bandera",
+      "En el margen superior derecho del papel oficial",
+      "En el centro de la bandera",
+      "Exclusivamente en los edificios de las Cortes de Aragón"
+    ],
+    "correct": 2,
+    "exp": "Art. 3.2: 'El escudo de Aragón es el tradicional de los cuatro cuarteles, rematado por la corona correspondiente, que figurará en el centro de la bandera.'",
+    "fuente": "Art. 3.2 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cómo se titula el art. 3 del Estatuto de Autonomía de Aragón?",
+    "options": [
+      "Territorio",
+      "Organización territorial",
+      "El autogobierno de Aragón",
+      "Símbolos y capitalidad"
+    ],
+    "correct": 3,
+    "exp": "Art. 3 EAA: 'Símbolos y capitalidad.'",
+    "fuente": "Art. 3 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 3.4 del Estatuto de Aragón, el 23 de abril es la fecha establecida como:",
+    "options": [
+      "El día de Aragón",
+      "El aniversario del Estatuto de Autonomía",
+      "La festividad del Justicia de Aragón",
+      "La fiesta de la hispanidad aragonesa"
+    ],
+    "correct": 0,
+    "exp": "Art. 3.4: 'El día de Aragón es el 23 de abril.'",
+    "fuente": "Art. 3.4 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 3.1 del Estatuto de Aragón, la bandera de Aragón es la tradicional de cuatro barras rojas horizontales sobre fondo:",
+    "options": [
+      "Blanco",
+      "Amarillo",
+      "Azul",
+      "Verde"
+    ],
+    "correct": 1,
+    "exp": "Art. 3.1: 'La bandera de Aragón es la tradicional de las cuatro barras rojas horizontales sobre fondo amarillo.'",
+    "fuente": "Art. 3.1 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 4.1 del Estatuto de Aragón, además de tener vecindad administrativa en un municipio de Aragón, ¿de qué otra forma pueden los ciudadanos españoles gozar de la condición política de aragonés?",
+    "options": [
+      "Habiendo nacido en cualquier lugar de España",
+      "Siendo mayores de edad y estando empadronados en cualquier municipio español",
+      "Cumpliendo los requisitos que la legislación aplicable pueda establecer",
+      "Trabajando para la Administración de la Comunidad Autónoma"
+    ],
+    "correct": 2,
+    "exp": "Art. 4.1: 'gozan de la condición política de aragoneses los ciudadanos españoles que tengan vecindad administrativa en cualquiera de los municipios de Aragón o cumplan los requisitos que la legislación aplicable pueda establecer.'",
+    "fuente": "Art. 4.1 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 4.2 del Estatuto de Aragón, los descendientes de aragoneses residentes en el extranjero gozan de los mismos derechos políticos si lo solicitan y siempre que:",
+    "options": [
+      "Residan de forma permanente en territorio aragonés",
+      "Hayan nacido en Aragón",
+      "Estén inscritos en el censo electoral de Zaragoza",
+      "Ostenten la nacionalidad española en la forma que determine la ley"
+    ],
+    "correct": 3,
+    "exp": "Art. 4.2: 'Los mismos derechos corresponderán a sus descendientes, si así lo solicitan, siempre que ostenten la nacionalidad española en la forma que determine la ley.'",
+    "fuente": "Art. 4.2 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 4.3 del Estatuto de Aragón, los poderes públicos aragoneses, dentro del marco constitucional, establecerán vías para facilitar y potenciar la participación en las decisiones de interés general de:",
+    "options": [
+      "Los ciudadanos extranjeros residentes en Aragón",
+      "Los ciudadanos de la Unión Europea residentes en cualquier Comunidad Autónoma",
+      "Los aragoneses residentes en el extranjero",
+      "Los menores de edad empadronados en Aragón"
+    ],
+    "correct": 0,
+    "exp": "Art. 4.3: 'Los poderes públicos aragoneses, dentro del marco constitucional, establecerán las vías adecuadas para facilitar y potenciar la participación en las decisiones de interés general de los ciudadanos extranjeros residentes en Aragón.'",
+    "fuente": "Art. 4.3 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En qué artículo del Título Preliminar del Estatuto de Aragón se establece que Aragón estructura su organización territorial en municipios, comarcas y provincias?",
+    "options": [
+      "Art. 2",
+      "Art. 5",
+      "Art. 10",
+      "Art. 61"
+    ],
+    "correct": 1,
+    "exp": "Art. 5: 'Aragón estructura su organización territorial en municipios, comarcas y provincias.'",
+    "fuente": "Art. 5 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 6.1 del Estatuto de Aragón, los derechos y libertades de los aragoneses y aragonesas son, entre otros, los incluidos en la Declaración Universal de Derechos Humanos y en:",
+    "options": [
+      "Los tratados bilaterales suscritos por la Comunidad Autónoma de Aragón",
+      "Las recomendaciones del Consejo de Europa sin más requisito",
+      "Los demás instrumentos internacionales de protección de los mismos suscritos o ratificados por España",
+      "La Carta de Derechos Fundamentales de la Unión Europea exclusivamente"
+    ],
+    "correct": 2,
+    "exp": "Art. 6.1: '...los incluidos en la Declaración Universal de Derechos Humanos y en los demás instrumentos internacionales de protección de los mismos suscritos o ratificados por España, así como los establecidos en el ámbito de la Comunidad Autónoma por el presente Estatuto.'",
+    "fuente": "Art. 6.1 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 6.2 del Estatuto de Aragón, los poderes públicos aragoneses están vinculados por los derechos y libertades del Título I, deben velar por su protección y respeto, y además:",
+    "options": [
+      "Delegar su tutela en el Estado",
+      "Someterlos a revisión periódica de las Cortes Generales",
+      "Suspender su aplicación en caso de crisis presupuestaria",
+      "Promover su pleno ejercicio"
+    ],
+    "correct": 3,
+    "exp": "Art. 6.2: 'Los poderes públicos aragoneses están vinculados por estos derechos y libertades y deben velar por su protección y respeto, así como promover su pleno ejercicio.'",
+    "fuente": "Art. 6.2 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 6.3 del Estatuto de Aragón, ninguna disposición del Título I puede ser desarrollada, aplicada o interpretada de forma que:",
+    "options": [
+      "Reduzca o limite los derechos fundamentales reconocidos por la Constitución y por los tratados y convenios internacionales ratificados por España",
+      "Amplíe las competencias exclusivas del Estado",
+      "Modifique el sistema electoral aragonés",
+      "Derogue el Derecho foral de Aragón"
+    ],
+    "correct": 0,
+    "exp": "Art. 6.3: 'Ninguna de sus disposiciones puede ser desarrollada, aplicada o interpretada de forma que reduzca o limite los derechos fundamentales reconocidos por la Constitución y por los tratados y convenios internacionales ratificados por España.'",
+    "fuente": "Art. 6.3 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 7.1 del Estatuto de Aragón, las lenguas y modalidades lingüísticas propias de Aragón constituyen una de las manifestaciones más destacadas del patrimonio histórico y cultural aragonés y un valor social de:",
+    "options": [
+      "Prestigio internacional y proyección exterior",
+      "Respeto, convivencia y entendimiento",
+      "Cohesión fiscal y administrativa",
+      "Eficiencia en la gestión pública"
+    ],
+    "correct": 1,
+    "exp": "Art. 7.1: '...constituyen una de las manifestaciones más destacadas del patrimonio histórico y cultural aragonés y un valor social de respeto, convivencia y entendimiento.'",
+    "fuente": "Art. 7.1 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 7.2 del Estatuto de Aragón, una ley de las Cortes de Aragón establecerá las zonas de uso predominante de las lenguas y modalidades propias y regulará, entre otras cuestiones:",
+    "options": [
+      "La expulsión de quienes no las utilicen en el ámbito laboral",
+      "La obligatoriedad de su uso en toda la Administración del Estado",
+      "El régimen jurídico y los derechos de utilización de los hablantes de esos territorios",
+      "La creación de una jurisdicción lingüística especial"
+    ],
+    "correct": 2,
+    "exp": "Art. 7.2: 'Una ley de las Cortes de Aragón establecerá las zonas de uso predominante de las lenguas y modalidades propias de Aragón, regulará el régimen jurídico, los derechos de utilización de los hablantes de esos territorios, promoverá la protección, recuperación, enseñanza, promoción y difusión del patrimonio lingüístico de Aragón, y favorecerá... el uso de las lenguas propias en las relaciones de los ciudadanos con las Administraciones públicas aragonesas.'",
+    "fuente": "Art. 7.2 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cómo se titula el art. 7 del Estatuto de Autonomía de Aragón?",
+    "options": [
+      "Comunidades aragonesas en el exterior",
+      "Eficacia de las normas",
+      "Derechos y libertades",
+      "Lenguas y modalidades lingüísticas propias"
+    ],
+    "correct": 3,
+    "exp": "Art. 7 EAA: 'Lenguas y modalidades lingüísticas propias.'",
+    "fuente": "Art. 7 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 8.1 del Estatuto de Aragón, además de fomentar los vínculos sociales y culturales con las comunidades aragonesas del exterior, los poderes públicos aragoneses deben velar para que estas puedan ejercitar su derecho a:",
+    "options": [
+      "Participar, colaborar y compartir la vida social y cultural del pueblo aragonés",
+      "Obtener la nacionalidad española de forma automática",
+      "Votar en las elecciones a Cortes de Aragón sin residencia previa",
+      "Recibir una pensión con cargo al presupuesto autonómico"
+    ],
+    "correct": 0,
+    "exp": "Art. 8.1: 'Los poderes públicos aragoneses deben fomentar los vínculos sociales y culturales con las comunidades aragonesas del exterior y prestarles la ayuda necesaria, así como velar para que las mismas puedan ejercitar su derecho a participar, colaborar y compartir la vida social y cultural del pueblo aragonés.'",
+    "fuente": "Art. 8.1 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 8.2 del Estatuto de Aragón, el Gobierno de Aragón, en el ámbito de sus competencias, podrá formalizar acuerdos de cooperación con instituciones de los territorios donde existan comunidades aragonesas del exterior y solicitar del Estado:",
+    "options": [
+      "La creación de un consulado honorario en cada país afectado",
+      "La celebración de los correspondientes tratados o convenios internacionales",
+      "La concesión automática de la nacionalidad española a esas comunidades",
+      "La cesión de competencias exclusivas en materia exterior"
+    ],
+    "correct": 1,
+    "exp": "Art. 8.2: 'El Gobierno de Aragón, en el ámbito de sus competencias, podrá formalizar acuerdos de cooperación con instituciones y entidades de los territorios en los que existan comunidades aragonesas del exterior y solicitar del Estado la celebración de los correspondientes tratados o convenios internacionales.'",
+    "fuente": "Art. 8.2 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 9.1 del Estatuto de Aragón, las normas y disposiciones de la Comunidad Autónoma de Aragón tendrán eficacia:",
+    "options": [
+      "Personal, sin excepción alguna",
+      "Exclusivamente dentro del término municipal de Zaragoza",
+      "Territorial, sin perjuicio de las excepciones que puedan establecerse en cada materia",
+      "Retroactiva en todos los casos"
+    ],
+    "correct": 2,
+    "exp": "Art. 9.1: 'Las normas y disposiciones de la Comunidad Autónoma de Aragón tendrán eficacia territorial, sin perjuicio de las excepciones que puedan establecerse en cada materia y de las situaciones que hayan de regirse por el estatuto personal u otras reglas de extraterritorialidad.'",
+    "fuente": "Art. 9.1 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 9.2 del Estatuto de Aragón, el Derecho foral de Aragón tiene eficacia personal para quienes ostenten la vecindad civil aragonesa, salvo:",
+    "options": [
+      "Que residan fuera de Aragón más de un año",
+      "Que hayan nacido fuera de Aragón",
+      "Que renuncien expresamente ante notario",
+      "Aquellas disposiciones a las que legalmente se les atribuya eficacia territorial"
+    ],
+    "correct": 3,
+    "exp": "Art. 9.2: 'El Derecho foral de Aragón tendrá eficacia personal y será de aplicación a todos los que ostenten la vecindad civil aragonesa, independientemente del lugar de su residencia, y excepción hecha de aquellas disposiciones a las que legalmente se les atribuya eficacia territorial.'",
+    "fuente": "Art. 9.2 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 9.3 del Estatuto de Aragón, los extranjeros que adquieran la nacionalidad española y tengan vecindad administrativa en Aragón en el momento de esa adquisición quedarán sujetos a la vecindad civil aragonesa, salvo que:",
+    "options": [
+      "Manifiesten su voluntad en contrario, de acuerdo con la legislación del Estado",
+      "Lo autorice previamente el Justicia de Aragón",
+      "Residan menos de cinco años en territorio aragonés",
+      "Lo apruebe expresamente el Gobierno de Aragón"
+    ],
+    "correct": 0,
+    "exp": "Art. 9.3: 'Los extranjeros que adquieran la nacionalidad española quedarán sujetos a la vecindad civil aragonesa, si en el momento de su adquisición tienen vecindad administrativa en Aragón, salvo que manifiesten su voluntad en contrario, de acuerdo con lo dispuesto en la legislación del Estado.'",
+    "fuente": "Art. 9.3 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 10 del Estatuto de Aragón, ¿qué tipo de territorios o municipios pueden incorporarse a la Comunidad Autónoma de Aragón?",
+    "options": [
+      "Cualquiera, sin importar su ubicación geográfica",
+      "Los limítrofes o enclavados",
+      "Únicamente los situados en Comunidades Autónomas vecinas",
+      "Solo los que hayan pertenecido históricamente a la Corona de Aragón"
+    ],
+    "correct": 1,
+    "exp": "Art. 10: 'Podrán incorporarse a la Comunidad Autónoma de Aragón otros territorios o municipios, limítrofes o enclavados, mediante el cumplimiento de los requisitos siguientes, sin perjuicio de otros que puedan legalmente exigirse.'",
+    "fuente": "Art. 10 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 10 a) del Estatuto de Aragón, para la incorporación de otros territorios o municipios es necesario que lo solicite el Ayuntamiento o la mayoría de los Ayuntamientos interesados, y que se oiga a:",
+    "options": [
+      "Las Cortes Generales del Estado",
+      "El Tribunal Constitucional",
+      "La Comunidad o provincia a la que pertenezcan los territorios o municipios a agregar",
+      "El Consejo Consultivo de Aragón"
+    ],
+    "correct": 2,
+    "exp": "Art. 10 a): 'Que soliciten la incorporación el Ayuntamiento o la mayoría de los Ayuntamientos interesados, y que se oiga a la Comunidad o provincia a la que pertenezcan los territorios o municipios a agregar.'",
+    "fuente": "Art. 10 a) EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 10 b) del Estatuto de Aragón, es requisito para la incorporación de otros territorios o municipios que lo acuerden los habitantes de dichos municipios o territorios mediante:",
+    "options": [
+      "Referéndum de ámbito estatal",
+      "Decisión del Ayuntamiento sin consulta ciudadana",
+      "Ley orgánica de las Cortes Generales",
+      "Consulta expresamente convocada al efecto y previa la autorización competente"
+    ],
+    "correct": 3,
+    "exp": "Art. 10 b): 'Que lo acuerden los habitantes de dichos municipios o territorios mediante consulta expresamente convocada al efecto y previa la autorización competente.'",
+    "fuente": "Art. 10 b) EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántos artículos integran el Título Preliminar del Estatuto de Autonomía de Aragón?",
+    "options": [
+      "Diez",
+      "Ocho",
+      "Doce",
+      "Nueve"
+    ],
+    "correct": 0,
+    "exp": "El Título Preliminar comprende los artículos 1 a 10, es decir, diez artículos.",
+    "fuente": "Título Preliminar EAA (arts. 1 a 10)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cómo se titula el art. 61 del Estatuto de Autonomía de Aragón?",
+    "options": [
+      "Principios de organización y funcionamiento de la Administración",
+      "Disposiciones generales",
+      "Ley del Justicia de Aragón",
+      "El Tribunal Superior de Justicia de Aragón"
+    ],
+    "correct": 1,
+    "exp": "Art. 61 EAA: 'Disposiciones generales.'",
+    "fuente": "Art. 61 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 61.1 del Estatuto de Aragón, ¿mediante qué instrumento crea y organiza la Comunidad Autónoma de Aragón su Administración propia?",
+    "options": [
+      "Mediante decreto del Presidente de Aragón",
+      "Mediante reglamento del Gobierno de Aragón",
+      "Mediante la ley",
+      "Mediante convenio con la Administración General del Estado"
+    ],
+    "correct": 2,
+    "exp": "Art. 61.1: 'La Comunidad Autónoma de Aragón crea y organiza su Administración propia conforme a la ley.'",
+    "fuente": "Art. 61.1 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántos apartados tiene el art. 61 del Estatuto de Autonomía de Aragón?",
+    "options": [
+      "Tres",
+      "Cuatro",
+      "Uno",
+      "Dos"
+    ],
+    "correct": 3,
+    "exp": "El art. 61 EAA consta de dos apartados: el 61.1, sobre la creación y organización de la Administración propia conforme a la ley, y el 61.2, sobre su condición de Administración ordinaria en el ejercicio de sus competencias.",
+    "fuente": "Art. 61 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cómo se titula el art. 62 del Estatuto de Autonomía de Aragón?",
+    "options": [
+      "Principios de organización y funcionamiento de la Administración",
+      "Disposiciones generales",
+      "El Consejo Consultivo de Aragón",
+      "La Administración Pública en Aragón"
+    ],
+    "correct": 0,
+    "exp": "Art. 62 EAA: 'Principios de organización y funcionamiento de la Administración.'",
+    "fuente": "Art. 62 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 62.1 del Estatuto de Aragón, en paralelo al art. 103.1 de la Constitución Española, la Administración de la Comunidad Autónoma sirve con objetividad a los intereses generales con:",
+    "options": [
+      "Sometimiento a los principios de jerarquía y descentralización, exclusivamente",
+      "Sometimiento pleno a la Ley y al Derecho",
+      "Autonomía plena respecto al ordenamiento jurídico",
+      "Sujeción a las directrices del partido en el Gobierno"
+    ],
+    "correct": 1,
+    "exp": "Art. 62.1: 'La Administración de la Comunidad Autónoma sirve con objetividad a los intereses generales con sometimiento pleno a la Ley y al Derecho.'",
+    "fuente": "Art. 62.1 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 62.2 del Estatuto de Aragón, en su actuación, la Administración aragonesa respetará los principios de buena fe y de confianza legítima, y se relacionará con el resto de Administraciones Públicas españolas con arreglo al principio de:",
+    "options": [
+      "Subsidiariedad estricta",
+      "Jerarquía normativa",
+      "Lealtad institucional",
+      "Reserva de ley"
+    ],
+    "correct": 2,
+    "exp": "Art. 62.2: 'En su actuación, respetará los principios de buena fe y de confianza legítima, y se relacionará con el resto de Administraciones Públicas españolas con arreglo al principio de lealtad institucional.'",
+    "fuente": "Art. 62.2 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántos principios enumera el art. 62.3 del Estatuto de Aragón a los que la Administración Pública aragonesa debe ajustar su actividad?",
+    "options": [
+      "Tres",
+      "Cuatro",
+      "Seis",
+      "Cinco"
+    ],
+    "correct": 3,
+    "exp": "Art. 62.3 enumera cinco principios: 'eficacia, eficiencia, racionalización, transparencia y servicio efectivo a los ciudadanos.'",
+    "fuente": "Art. 62.3 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 62.4 del Estatuto de Aragón, los órganos e instituciones de la Administración de la Comunidad Autónoma podrán establecerse en:",
+    "options": [
+      "Diversas localidades de Aragón",
+      "Una única sede centralizada en Zaragoza",
+      "Cualquier lugar del territorio nacional, sin restricción",
+      "Territorio de la Unión Europea"
+    ],
+    "correct": 0,
+    "exp": "Art. 62.4: 'Sus órganos e instituciones podrán establecerse en diversas localidades de Aragón.'",
+    "fuente": "Art. 62.4 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 62.5 del Estatuto de Aragón, en el ejercicio de sus competencias, la Administración de la Comunidad Autónoma gozará de las potestades y prerrogativas que el ordenamiento jurídico reconoce a:",
+    "options": [
+      "Los Ayuntamientos de gran población",
+      "La Administración del Estado",
+      "La Unión Europea",
+      "Las Diputaciones Provinciales"
+    ],
+    "correct": 1,
+    "exp": "Art. 62.5: 'La Administración de la Comunidad Autónoma gozará, en el ejercicio de sus competencias, de las potestades y prerrogativas que el ordenamiento jurídico reconoce a la Administración del Estado.'",
+    "fuente": "Art. 62.5 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántos apartados tiene el art. 62 del Estatuto de Autonomía de Aragón?",
+    "options": [
+      "Tres",
+      "Cuatro",
+      "Cinco",
+      "Seis"
+    ],
+    "correct": 2,
+    "exp": "El art. 62 EAA consta de cinco apartados: sometimiento pleno a la Ley y al Derecho (62.1), principios de buena fe, confianza legítima y lealtad institucional (62.2), principios de eficacia, eficiencia, racionalización, transparencia y servicio efectivo (62.3), posibilidad de establecer sus órganos en diversas localidades (62.4), y potestades y prerrogativas equiparables a las de la Administración del Estado (62.5).",
+    "fuente": "Art. 62 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Dentro de la estructura del Estatuto de Autonomía de Aragón, ¿inmediatamente a continuación de qué título se sitúa el Título III, 'La Administración Pública en Aragón'?",
+    "options": [
+      "Del Título Preliminar",
+      "Del Título I, 'Derechos y principios rectores'",
+      "Del Título V, 'Competencias de la Comunidad Autónoma'",
+      "Del Título II, 'Organización institucional de la Comunidad Autónoma de Aragón'"
+    ],
+    "correct": 3,
+    "exp": "El Título III, 'La Administración Pública en Aragón' (arts. 61-62), se sitúa a continuación del Título II, 'Organización institucional de la Comunidad Autónoma de Aragón' (arts. 32-60), y antes del Título IV, 'La Justicia'.",
+    "fuente": "Título III EAA (arts. 61 a 62)",
+    "confianza": "alta"
+  }
+]);

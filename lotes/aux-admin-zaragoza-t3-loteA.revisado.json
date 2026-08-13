@@ -1,0 +1,606 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 3,
+  "preguntas": [
+    {
+      "q": "Según el art. 1.1 del Estatuto de Autonomía de Aragón, Aragón ejerce su autogobierno en el ejercicio del derecho a la autonomía que la Constitución reconoce y garantiza a:",
+      "options": [
+        "Toda nacionalidad",
+        "Toda comunidad autónoma",
+        "Los territorios históricos",
+        "Las provincias limítrofes"
+      ],
+      "correct": 0,
+      "exp": "Art. 1.1: 'Aragón, nacionalidad histórica, ejerce su autogobierno de acuerdo con el presente Estatuto, en el ejercicio del derecho a la autonomía que la Constitución reconoce y garantiza a toda nacionalidad.'",
+      "fuente": "Art. 1.1 EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado art. 1.1 EAA (línea 267 del consolidado): coincide literalmente con la pregunta y la opción marcada."
+    },
+    {
+      "q": "Según el art. 1.2 del Estatuto de Aragón, los poderes de la Comunidad Autónoma de Aragón emanan de la Constitución y de:",
+      "options": [
+        "Las Cortes Generales",
+        "El pueblo aragonés",
+        "El Gobierno de España",
+        "El Rey"
+      ],
+      "correct": 1,
+      "exp": "Art. 1.2: 'Los poderes de la Comunidad Autónoma de Aragón emanan del pueblo aragonés y de la Constitución.'",
+      "fuente": "Art. 1.2 EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado art. 1.2 EAA (línea 268): 'emanan del pueblo aragonés y de la Constitución', coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 1.3 del Estatuto de Aragón, ¿en qué contexto ostenta la Comunidad Autónoma de Aragón, por su historia, una identidad propia?",
+      "options": [
+        "En el contexto exclusivo del Derecho foral, sin más consideraciones",
+        "Dentro del marco exclusivo de la Unión Europea",
+        "Dentro del sistema constitucional español",
+        "En el contexto de sus relaciones con Francia"
+      ],
+      "correct": 2,
+      "exp": "Art. 1.3: 'La Comunidad Autónoma de Aragón, dentro del sistema constitucional español, ostenta por su historia una identidad propia en virtud de sus instituciones tradicionales, el Derecho foral y su cultura.'",
+      "fuente": "Art. 1.3 EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado art. 1.3 EAA (línea 269): coincide literalmente con la pregunta y la opción marcada."
+    },
+    {
+      "q": "¿Cómo se titula el artículo 1 del Estatuto de Autonomía de Aragón?",
+      "options": [
+        "Territorio",
+        "Símbolos y capitalidad",
+        "Condición política de aragonés",
+        "El autogobierno de Aragón"
+      ],
+      "correct": 3,
+      "exp": "El art. 1 EAA se titula 'El autogobierno de Aragón'.",
+      "fuente": "Art. 1 EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado el título del art. 1 EAA en el consolidado (línea 266): 'El autogobierno de Aragón', coincide con la opción marcada; comprobados también los títulos de los arts. 2, 3 y 4 usados como distractores."
+    },
+    {
+      "q": "Según el art. 2 del Estatuto de Aragón, el territorio de la Comunidad Autónoma se corresponde con:",
+      "options": [
+        "El histórico de Aragón",
+        "El fijado por decreto del Gobierno de España",
+        "El delimitado por referéndum en cada legislatura",
+        "El coincidente exclusivamente con la provincia de Zaragoza"
+      ],
+      "correct": 0,
+      "exp": "Art. 2: 'El territorio de la Comunidad Autónoma se corresponde con el histórico de Aragón, y comprende el de los municipios, comarcas y provincias de Huesca, Teruel y Zaragoza.'",
+      "fuente": "Art. 2 EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado art. 2 EAA (línea 273): 'se corresponde con el histórico de Aragón', coincide con la opción marcada."
+    },
+    {
+      "q": "¿Cuál de los siguientes es el título exacto del art. 2 del Estatuto de Aragón?",
+      "options": [
+        "Organización territorial",
+        "Territorio",
+        "Símbolos y capitalidad",
+        "Eficacia de las normas"
+      ],
+      "correct": 1,
+      "exp": "El art. 2 EAA se titula 'Territorio', a diferencia del art. 5, que se titula 'Organización territorial'.",
+      "fuente": "Art. 2 EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado el título del art. 2 EAA (línea 272): 'Territorio', coincide con la opción marcada; distractores (arts. 3, 5, 9) verificados como títulos distintos."
+    },
+    {
+      "q": "Según el art. 3.2 del Estatuto de Aragón, el escudo de Aragón, además de ser el tradicional de los cuatro cuarteles rematado por la corona correspondiente, ¿dónde figurará?",
+      "options": [
+        "En el reverso de la bandera",
+        "En el margen superior derecho del papel oficial",
+        "En el centro de la bandera",
+        "Exclusivamente en los edificios de las Cortes de Aragón"
+      ],
+      "correct": 2,
+      "exp": "Art. 3.2: 'El escudo de Aragón es el tradicional de los cuatro cuarteles, rematado por la corona correspondiente, que figurará en el centro de la bandera.'",
+      "fuente": "Art. 3.2 EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado art. 3.2 EAA (línea 278): 'que figurará en el centro de la bandera', coincide con la opción marcada."
+    },
+    {
+      "q": "¿Cómo se titula el art. 3 del Estatuto de Autonomía de Aragón?",
+      "options": [
+        "Territorio",
+        "Organización territorial",
+        "El autogobierno de Aragón",
+        "Símbolos y capitalidad"
+      ],
+      "correct": 3,
+      "exp": "Art. 3 EAA: 'Símbolos y capitalidad.'",
+      "fuente": "Art. 3 EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado el título del art. 3 EAA (línea 276): 'Símbolos y capitalidad', coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 3.4 del Estatuto de Aragón, el 23 de abril es la fecha establecida como:",
+      "options": [
+        "El día de Aragón",
+        "El aniversario del Estatuto de Autonomía",
+        "La festividad del Justicia de Aragón",
+        "La fiesta de la hispanidad aragonesa"
+      ],
+      "correct": 0,
+      "exp": "Art. 3.4: 'El día de Aragón es el 23 de abril.'",
+      "fuente": "Art. 3.4 EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado art. 3.4 EAA (línea 280): 'El día de Aragón es el 23 de abril', coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 3.1 del Estatuto de Aragón, la bandera de Aragón es la tradicional de cuatro barras rojas horizontales sobre fondo:",
+      "options": [
+        "Blanco",
+        "Amarillo",
+        "Azul",
+        "Verde"
+      ],
+      "correct": 1,
+      "exp": "Art. 3.1: 'La bandera de Aragón es la tradicional de las cuatro barras rojas horizontales sobre fondo amarillo.'",
+      "fuente": "Art. 3.1 EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado art. 3.1 EAA (línea 277): 'fondo amarillo', coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 4.1 del Estatuto de Aragón, además de tener vecindad administrativa en un municipio de Aragón, ¿de qué otra forma pueden los ciudadanos españoles gozar de la condición política de aragonés?",
+      "options": [
+        "Habiendo nacido en cualquier lugar de España",
+        "Siendo mayores de edad y estando empadronados en cualquier municipio español",
+        "Cumpliendo los requisitos que la legislación aplicable pueda establecer",
+        "Trabajando para la Administración de la Comunidad Autónoma"
+      ],
+      "correct": 2,
+      "exp": "Art. 4.1: 'gozan de la condición política de aragoneses los ciudadanos españoles que tengan vecindad administrativa en cualquiera de los municipios de Aragón o cumplan los requisitos que la legislación aplicable pueda establecer.'",
+      "fuente": "Art. 4.1 EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado art. 4.1 EAA (línea 284): '...o cumplan los requisitos que la legislación aplicable pueda establecer', coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 4.2 del Estatuto de Aragón, los descendientes de aragoneses residentes en el extranjero gozan de los mismos derechos políticos si lo solicitan y siempre que:",
+      "options": [
+        "Residan de forma permanente en territorio aragonés",
+        "Hayan nacido en Aragón",
+        "Estén inscritos en el censo electoral de Zaragoza",
+        "Ostenten la nacionalidad española en la forma que determine la ley"
+      ],
+      "correct": 3,
+      "exp": "Art. 4.2: 'Los mismos derechos corresponderán a sus descendientes, si así lo solicitan, siempre que ostenten la nacionalidad española en la forma que determine la ley.'",
+      "fuente": "Art. 4.2 EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado art. 4.2 EAA (línea 285): 'siempre que ostenten la nacionalidad española en la forma que determine la ley', coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 4.3 del Estatuto de Aragón, los poderes públicos aragoneses, dentro del marco constitucional, establecerán vías para facilitar y potenciar la participación en las decisiones de interés general de:",
+      "options": [
+        "Los ciudadanos extranjeros residentes en Aragón",
+        "Los ciudadanos de la Unión Europea residentes en cualquier Comunidad Autónoma",
+        "Los aragoneses residentes en el extranjero",
+        "Los menores de edad empadronados en Aragón"
+      ],
+      "correct": 0,
+      "exp": "Art. 4.3: 'Los poderes públicos aragoneses, dentro del marco constitucional, establecerán las vías adecuadas para facilitar y potenciar la participación en las decisiones de interés general de los ciudadanos extranjeros residentes en Aragón.'",
+      "fuente": "Art. 4.3 EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado art. 4.3 EAA (línea 286): '...de los ciudadanos extranjeros residentes en Aragón', coincide con la opción marcada."
+    },
+    {
+      "q": "¿En qué artículo del Título Preliminar del Estatuto de Aragón se establece que Aragón estructura su organización territorial en municipios, comarcas y provincias?",
+      "options": [
+        "Art. 2",
+        "Art. 5",
+        "Art. 10",
+        "Art. 61"
+      ],
+      "correct": 1,
+      "exp": "Art. 5: 'Aragón estructura su organización territorial en municipios, comarcas y provincias.'",
+      "fuente": "Art. 5 EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado que el art. 5 EAA (línea 290, Título Preliminar) es el que dice 'Aragón estructura su organización territorial en municipios, comarcas y provincias'; el art. 2 (distractor) habla de territorio, no de organización territorial."
+    },
+    {
+      "q": "Según el art. 6.1 del Estatuto de Aragón, los derechos y libertades de los aragoneses y aragonesas son, entre otros, los incluidos en la Declaración Universal de Derechos Humanos y en:",
+      "options": [
+        "Los tratados bilaterales suscritos por la Comunidad Autónoma de Aragón",
+        "Las recomendaciones del Consejo de Europa sin más requisito",
+        "Los demás instrumentos internacionales de protección de los mismos suscritos o ratificados por España",
+        "La Carta de Derechos Fundamentales de la Unión Europea exclusivamente"
+      ],
+      "correct": 2,
+      "exp": "Art. 6.1: '...los incluidos en la Declaración Universal de Derechos Humanos y en los demás instrumentos internacionales de protección de los mismos suscritos o ratificados por España, así como los establecidos en el ámbito de la Comunidad Autónoma por el presente Estatuto.'",
+      "fuente": "Art. 6.1 EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado art. 6.1 EAA (línea 294): '...los demás instrumentos internacionales de protección de los mismos suscritos o ratificados por España', coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 6.2 del Estatuto de Aragón, los poderes públicos aragoneses están vinculados por los derechos y libertades del Título I, deben velar por su protección y respeto, y además:",
+      "options": [
+        "Delegar su tutela en el Estado",
+        "Someterlos a revisión periódica de las Cortes Generales",
+        "Suspender su aplicación en caso de crisis presupuestaria",
+        "Promover su pleno ejercicio"
+      ],
+      "correct": 3,
+      "exp": "Art. 6.2: 'Los poderes públicos aragoneses están vinculados por estos derechos y libertades y deben velar por su protección y respeto, así como promover su pleno ejercicio.'",
+      "fuente": "Art. 6.2 EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado art. 6.2 EAA (línea 295): '...así como promover su pleno ejercicio', coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 6.3 del Estatuto de Aragón, ninguna disposición del Título I puede ser desarrollada, aplicada o interpretada de forma que:",
+      "options": [
+        "Reduzca o limite los derechos fundamentales reconocidos por la Constitución y por los tratados y convenios internacionales ratificados por España",
+        "Amplíe las competencias exclusivas del Estado",
+        "Modifique el sistema electoral aragonés",
+        "Derogue el Derecho foral de Aragón"
+      ],
+      "correct": 0,
+      "exp": "Art. 6.3: 'Ninguna de sus disposiciones puede ser desarrollada, aplicada o interpretada de forma que reduzca o limite los derechos fundamentales reconocidos por la Constitución y por los tratados y convenios internacionales ratificados por España.'",
+      "fuente": "Art. 6.3 EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado art. 6.3 EAA (línea 296): '...reduzca o limite los derechos fundamentales reconocidos por la Constitución y por los tratados y convenios internacionales ratificados por España', coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 7.1 del Estatuto de Aragón, las lenguas y modalidades lingüísticas propias de Aragón constituyen una de las manifestaciones más destacadas del patrimonio histórico y cultural aragonés y un valor social de:",
+      "options": [
+        "Prestigio internacional y proyección exterior",
+        "Respeto, convivencia y entendimiento",
+        "Cohesión fiscal y administrativa",
+        "Eficiencia en la gestión pública"
+      ],
+      "correct": 1,
+      "exp": "Art. 7.1: '...constituyen una de las manifestaciones más destacadas del patrimonio histórico y cultural aragonés y un valor social de respeto, convivencia y entendimiento.'",
+      "fuente": "Art. 7.1 EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado art. 7.1 EAA (línea 300): '...un valor social de respeto, convivencia y entendimiento', coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 7.2 del Estatuto de Aragón, una ley de las Cortes de Aragón establecerá las zonas de uso predominante de las lenguas y modalidades propias y regulará, entre otras cuestiones:",
+      "options": [
+        "La expulsión de quienes no las utilicen en el ámbito laboral",
+        "La obligatoriedad de su uso en toda la Administración del Estado",
+        "El régimen jurídico y los derechos de utilización de los hablantes de esos territorios",
+        "La creación de una jurisdicción lingüística especial"
+      ],
+      "correct": 2,
+      "exp": "Art. 7.2: 'Una ley de las Cortes de Aragón establecerá las zonas de uso predominante de las lenguas y modalidades propias de Aragón, regulará el régimen jurídico, los derechos de utilización de los hablantes de esos territorios, promoverá la protección, recuperación, enseñanza, promoción y difusión del patrimonio lingüístico de Aragón, y favorecerá... el uso de las lenguas propias en las relaciones de los ciudadanos con las Administraciones públicas aragonesas.'",
+      "fuente": "Art. 7.2 EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado art. 7.2 EAA (línea 301): '...regulará el régimen jurídico, los derechos de utilización de los hablantes de esos territorios', coincide con la opción marcada."
+    },
+    {
+      "q": "¿Cómo se titula el art. 7 del Estatuto de Autonomía de Aragón?",
+      "options": [
+        "Comunidades aragonesas en el exterior",
+        "Eficacia de las normas",
+        "Derechos y libertades",
+        "Lenguas y modalidades lingüísticas propias"
+      ],
+      "correct": 3,
+      "exp": "Art. 7 EAA: 'Lenguas y modalidades lingüísticas propias.'",
+      "fuente": "Art. 7 EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado el título del art. 7 EAA (línea 299): 'Lenguas y modalidades lingüísticas propias', coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 8.1 del Estatuto de Aragón, además de fomentar los vínculos sociales y culturales con las comunidades aragonesas del exterior, los poderes públicos aragoneses deben velar para que estas puedan ejercitar su derecho a:",
+      "options": [
+        "Participar, colaborar y compartir la vida social y cultural del pueblo aragonés",
+        "Obtener la nacionalidad española de forma automática",
+        "Votar en las elecciones a Cortes de Aragón sin residencia previa",
+        "Recibir una pensión con cargo al presupuesto autonómico"
+      ],
+      "correct": 0,
+      "exp": "Art. 8.1: 'Los poderes públicos aragoneses deben fomentar los vínculos sociales y culturales con las comunidades aragonesas del exterior y prestarles la ayuda necesaria, así como velar para que las mismas puedan ejercitar su derecho a participar, colaborar y compartir la vida social y cultural del pueblo aragonés.'",
+      "fuente": "Art. 8.1 EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado art. 8.1 EAA (línea 306): '...su derecho a participar, colaborar y compartir la vida social y cultural del pueblo aragonés', coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 8.2 del Estatuto de Aragón, el Gobierno de Aragón, en el ámbito de sus competencias, podrá formalizar acuerdos de cooperación con instituciones de los territorios donde existan comunidades aragonesas del exterior y solicitar del Estado:",
+      "options": [
+        "La creación de un consulado honorario en cada país afectado",
+        "La celebración de los correspondientes tratados o convenios internacionales",
+        "La concesión automática de la nacionalidad española a esas comunidades",
+        "La cesión de competencias exclusivas en materia exterior"
+      ],
+      "correct": 1,
+      "exp": "Art. 8.2: 'El Gobierno de Aragón, en el ámbito de sus competencias, podrá formalizar acuerdos de cooperación con instituciones y entidades de los territorios en los que existan comunidades aragonesas del exterior y solicitar del Estado la celebración de los correspondientes tratados o convenios internacionales.'",
+      "fuente": "Art. 8.2 EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado art. 8.2 EAA (línea 307): '...solicitar del Estado la celebración de los correspondientes tratados o convenios internacionales', coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 9.1 del Estatuto de Aragón, las normas y disposiciones de la Comunidad Autónoma de Aragón tendrán eficacia:",
+      "options": [
+        "Personal, sin excepción alguna",
+        "Exclusivamente dentro del término municipal de Zaragoza",
+        "Territorial, sin perjuicio de las excepciones que puedan establecerse en cada materia",
+        "Retroactiva en todos los casos"
+      ],
+      "correct": 2,
+      "exp": "Art. 9.1: 'Las normas y disposiciones de la Comunidad Autónoma de Aragón tendrán eficacia territorial, sin perjuicio de las excepciones que puedan establecerse en cada materia y de las situaciones que hayan de regirse por el estatuto personal u otras reglas de extraterritorialidad.'",
+      "fuente": "Art. 9.1 EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado art. 9.1 EAA (línea 311): 'eficacia territorial, sin perjuicio de las excepciones que puedan establecerse en cada materia', coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 9.2 del Estatuto de Aragón, el Derecho foral de Aragón tiene eficacia personal para quienes ostenten la vecindad civil aragonesa, salvo:",
+      "options": [
+        "Que residan fuera de Aragón más de un año",
+        "Que hayan nacido fuera de Aragón",
+        "Que renuncien expresamente ante notario",
+        "Aquellas disposiciones a las que legalmente se les atribuya eficacia territorial"
+      ],
+      "correct": 3,
+      "exp": "Art. 9.2: 'El Derecho foral de Aragón tendrá eficacia personal y será de aplicación a todos los que ostenten la vecindad civil aragonesa, independientemente del lugar de su residencia, y excepción hecha de aquellas disposiciones a las que legalmente se les atribuya eficacia territorial.'",
+      "fuente": "Art. 9.2 EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado art. 9.2 EAA (línea 312): '...excepción hecha de aquellas disposiciones a las que legalmente se les atribuya eficacia territorial', coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 9.3 del Estatuto de Aragón, los extranjeros que adquieran la nacionalidad española y tengan vecindad administrativa en Aragón en el momento de esa adquisición quedarán sujetos a la vecindad civil aragonesa, salvo que:",
+      "options": [
+        "Manifiesten su voluntad en contrario, de acuerdo con la legislación del Estado",
+        "Lo autorice previamente el Justicia de Aragón",
+        "Residan menos de cinco años en territorio aragonés",
+        "Lo apruebe expresamente el Gobierno de Aragón"
+      ],
+      "correct": 0,
+      "exp": "Art. 9.3: 'Los extranjeros que adquieran la nacionalidad española quedarán sujetos a la vecindad civil aragonesa, si en el momento de su adquisición tienen vecindad administrativa en Aragón, salvo que manifiesten su voluntad en contrario, de acuerdo con lo dispuesto en la legislación del Estado.'",
+      "fuente": "Art. 9.3 EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado art. 9.3 EAA (línea 313): 'salvo que manifiesten su voluntad en contrario, de acuerdo con lo dispuesto en la legislación del Estado', coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 10 del Estatuto de Aragón, ¿qué tipo de territorios o municipios pueden incorporarse a la Comunidad Autónoma de Aragón?",
+      "options": [
+        "Cualquiera, sin importar su ubicación geográfica",
+        "Los limítrofes o enclavados",
+        "Únicamente los situados en Comunidades Autónomas vecinas",
+        "Solo los que hayan pertenecido históricamente a la Corona de Aragón"
+      ],
+      "correct": 1,
+      "exp": "Art. 10: 'Podrán incorporarse a la Comunidad Autónoma de Aragón otros territorios o municipios, limítrofes o enclavados, mediante el cumplimiento de los requisitos siguientes, sin perjuicio de otros que puedan legalmente exigirse.'",
+      "fuente": "Art. 10 EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado art. 10 EAA, encabezado (línea 317): 'otros territorios o municipios, limítrofes o enclavados', coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 10 a) del Estatuto de Aragón, para la incorporación de otros territorios o municipios es necesario que lo solicite el Ayuntamiento o la mayoría de los Ayuntamientos interesados, y que se oiga a:",
+      "options": [
+        "Las Cortes Generales del Estado",
+        "El Tribunal Constitucional",
+        "La Comunidad o provincia a la que pertenezcan los territorios o municipios a agregar",
+        "El Consejo Consultivo de Aragón"
+      ],
+      "correct": 2,
+      "exp": "Art. 10 a): 'Que soliciten la incorporación el Ayuntamiento o la mayoría de los Ayuntamientos interesados, y que se oiga a la Comunidad o provincia a la que pertenezcan los territorios o municipios a agregar.'",
+      "fuente": "Art. 10 a) EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado art. 10 a) EAA (línea 318): '...que se oiga a la Comunidad o provincia a la que pertenezcan los territorios o municipios a agregar', coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 10 b) del Estatuto de Aragón, es requisito para la incorporación de otros territorios o municipios que lo acuerden los habitantes de dichos municipios o territorios mediante:",
+      "options": [
+        "Referéndum de ámbito estatal",
+        "Decisión del Ayuntamiento sin consulta ciudadana",
+        "Ley orgánica de las Cortes Generales",
+        "Consulta expresamente convocada al efecto y previa la autorización competente"
+      ],
+      "correct": 3,
+      "exp": "Art. 10 b): 'Que lo acuerden los habitantes de dichos municipios o territorios mediante consulta expresamente convocada al efecto y previa la autorización competente.'",
+      "fuente": "Art. 10 b) EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado art. 10 b) EAA (línea 319): 'mediante consulta expresamente convocada al efecto y previa la autorización competente', coincide con la opción marcada."
+    },
+    {
+      "q": "¿Cuántos artículos integran el Título Preliminar del Estatuto de Autonomía de Aragón?",
+      "options": [
+        "Diez",
+        "Ocho",
+        "Doce",
+        "Nueve"
+      ],
+      "correct": 0,
+      "exp": "El Título Preliminar comprende los artículos 1 a 10, es decir, diez artículos.",
+      "fuente": "Título Preliminar EAA (arts. 1 a 10)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado que el Título Preliminar EAA abarca los arts. 1 a 10 (líneas 266-320 del cuerpo), es decir diez artículos, coincide con la opción marcada."
+    },
+    {
+      "q": "¿Cómo se titula el art. 61 del Estatuto de Autonomía de Aragón?",
+      "options": [
+        "Principios de organización y funcionamiento de la Administración",
+        "Disposiciones generales",
+        "Ley del Justicia de Aragón",
+        "El Tribunal Superior de Justicia de Aragón"
+      ],
+      "correct": 1,
+      "exp": "Art. 61 EAA: 'Disposiciones generales.'",
+      "fuente": "Art. 61 EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado el título del art. 61 EAA (línea 669): 'Disposiciones generales', coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 61.1 del Estatuto de Aragón, ¿mediante qué instrumento crea y organiza la Comunidad Autónoma de Aragón su Administración propia?",
+      "options": [
+        "Mediante decreto del Presidente de Aragón",
+        "Mediante reglamento del Gobierno de Aragón",
+        "Mediante la ley",
+        "Mediante convenio con la Administración General del Estado"
+      ],
+      "correct": 2,
+      "exp": "Art. 61.1: 'La Comunidad Autónoma de Aragón crea y organiza su Administración propia conforme a la ley.'",
+      "fuente": "Art. 61.1 EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado art. 61.1 EAA (línea 670): 'crea y organiza su Administración propia conforme a la ley', coincide con la opción marcada."
+    },
+    {
+      "q": "¿Cuántos apartados tiene el art. 61 del Estatuto de Autonomía de Aragón?",
+      "options": [
+        "Tres",
+        "Cuatro",
+        "Uno",
+        "Dos"
+      ],
+      "correct": 3,
+      "exp": "El art. 61 EAA consta de dos apartados: el 61.1, sobre la creación y organización de la Administración propia conforme a la ley, y el 61.2, sobre su condición de Administración ordinaria en el ejercicio de sus competencias.",
+      "fuente": "Art. 61 EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado que el art. 61 EAA tiene dos apartados (líneas 670-671: 61.1 y 61.2), coincide con la opción marcada."
+    },
+    {
+      "q": "¿Cómo se titula el art. 62 del Estatuto de Autonomía de Aragón?",
+      "options": [
+        "Principios de organización y funcionamiento de la Administración",
+        "Disposiciones generales",
+        "El Consejo Consultivo de Aragón",
+        "La Administración Pública en Aragón"
+      ],
+      "correct": 0,
+      "exp": "Art. 62 EAA: 'Principios de organización y funcionamiento de la Administración.'",
+      "fuente": "Art. 62 EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado el título del art. 62 EAA (línea 674): 'Principios de organización y funcionamiento de la Administración', coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 62.1 del Estatuto de Aragón, en paralelo al art. 103.1 de la Constitución Española, la Administración de la Comunidad Autónoma sirve con objetividad a los intereses generales con:",
+      "options": [
+        "Sometimiento a los principios de jerarquía y descentralización, exclusivamente",
+        "Sometimiento pleno a la Ley y al Derecho",
+        "Autonomía plena respecto al ordenamiento jurídico",
+        "Sujeción a las directrices del partido en el Gobierno"
+      ],
+      "correct": 1,
+      "exp": "Art. 62.1: 'La Administración de la Comunidad Autónoma sirve con objetividad a los intereses generales con sometimiento pleno a la Ley y al Derecho.'",
+      "fuente": "Art. 62.1 EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado art. 62.1 EAA (línea 675): 'con sometimiento pleno a la Ley y al Derecho', coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 62.2 del Estatuto de Aragón, en su actuación, la Administración aragonesa respetará los principios de buena fe y de confianza legítima, y se relacionará con el resto de Administraciones Públicas españolas con arreglo al principio de:",
+      "options": [
+        "Subsidiariedad estricta",
+        "Jerarquía normativa",
+        "Lealtad institucional",
+        "Reserva de ley"
+      ],
+      "correct": 2,
+      "exp": "Art. 62.2: 'En su actuación, respetará los principios de buena fe y de confianza legítima, y se relacionará con el resto de Administraciones Públicas españolas con arreglo al principio de lealtad institucional.'",
+      "fuente": "Art. 62.2 EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado art. 62.2 EAA (línea 676): '...con arreglo al principio de lealtad institucional', coincide con la opción marcada."
+    },
+    {
+      "q": "¿Cuántos principios enumera el art. 62.3 del Estatuto de Aragón a los que la Administración Pública aragonesa debe ajustar su actividad?",
+      "options": [
+        "Tres",
+        "Cuatro",
+        "Seis",
+        "Cinco"
+      ],
+      "correct": 3,
+      "exp": "Art. 62.3 enumera cinco principios: 'eficacia, eficiencia, racionalización, transparencia y servicio efectivo a los ciudadanos.'",
+      "fuente": "Art. 62.3 EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado art. 62.3 EAA (línea 677): enumera cinco principios ('eficacia, eficiencia, racionalización, transparencia y servicio efectivo a los ciudadanos'), coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 62.4 del Estatuto de Aragón, los órganos e instituciones de la Administración de la Comunidad Autónoma podrán establecerse en:",
+      "options": [
+        "Diversas localidades de Aragón",
+        "Una única sede centralizada en Zaragoza",
+        "Cualquier lugar del territorio nacional, sin restricción",
+        "Territorio de la Unión Europea"
+      ],
+      "correct": 0,
+      "exp": "Art. 62.4: 'Sus órganos e instituciones podrán establecerse en diversas localidades de Aragón.'",
+      "fuente": "Art. 62.4 EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado art. 62.4 EAA (línea 678): 'podrán establecerse en diversas localidades de Aragón', coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 62.5 del Estatuto de Aragón, en el ejercicio de sus competencias, la Administración de la Comunidad Autónoma gozará de las potestades y prerrogativas que el ordenamiento jurídico reconoce a:",
+      "options": [
+        "Los Ayuntamientos de gran población",
+        "La Administración del Estado",
+        "La Unión Europea",
+        "Las Diputaciones Provinciales"
+      ],
+      "correct": 1,
+      "exp": "Art. 62.5: 'La Administración de la Comunidad Autónoma gozará, en el ejercicio de sus competencias, de las potestades y prerrogativas que el ordenamiento jurídico reconoce a la Administración del Estado.'",
+      "fuente": "Art. 62.5 EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado art. 62.5 EAA (línea 679): '...que el ordenamiento jurídico reconoce a la Administración del Estado', coincide con la opción marcada."
+    },
+    {
+      "q": "¿Cuántos apartados tiene el art. 62 del Estatuto de Autonomía de Aragón?",
+      "options": [
+        "Tres",
+        "Cuatro",
+        "Cinco",
+        "Seis"
+      ],
+      "correct": 2,
+      "exp": "El art. 62 EAA consta de cinco apartados: sometimiento pleno a la Ley y al Derecho (62.1), principios de buena fe, confianza legítima y lealtad institucional (62.2), principios de eficacia, eficiencia, racionalización, transparencia y servicio efectivo (62.3), posibilidad de establecer sus órganos en diversas localidades (62.4), y potestades y prerrogativas equiparables a las de la Administración del Estado (62.5).",
+      "fuente": "Art. 62 EAA",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado que el art. 62 EAA tiene cinco apartados (líneas 675-679: 62.1 a 62.5), coincide con la opción marcada."
+    },
+    {
+      "q": "Dentro de la estructura del Estatuto de Autonomía de Aragón, ¿inmediatamente a continuación de qué título se sitúa el Título III, 'La Administración Pública en Aragón'?",
+      "options": [
+        "Del Título Preliminar",
+        "Del Título I, 'Derechos y principios rectores'",
+        "Del Título V, 'Competencias de la Comunidad Autónoma'",
+        "Del Título II, 'Organización institucional de la Comunidad Autónoma de Aragón'"
+      ],
+      "correct": 3,
+      "exp": "El Título III, 'La Administración Pública en Aragón' (arts. 61-62), se sitúa a continuación del Título II, 'Organización institucional de la Comunidad Autónoma de Aragón' (arts. 32-60), y antes del Título IV, 'La Justicia'.",
+      "fuente": "Título III EAA (arts. 61 a 62)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado en el índice y cuerpo del consolidado (líneas 451-452 y 665-666) que el Título III 'La Administración Pública en Aragón' sigue inmediatamente al Título II 'Organización institucional de la Comunidad Autónoma de Aragón' (arts. 32-60), coincide con la opción marcada."
+    }
+  ]
+}
