@@ -1,0 +1,464 @@
+[
+  {
+    "q": "Conforme al art. 12.2 del TREBEP, ¿a qué corresponde determinar qué órganos de gobierno de las Administraciones Públicas pueden disponer de personal eventual?",
+    "options": [
+      "A las leyes de Función Pública que se dicten en desarrollo del Estatuto",
+      "A los reglamentos internos de cada unidad",
+      "A la Ley de Presupuestos Generales del Estado exclusivamente"
+    ],
+    "correct": 0,
+    "exp": "El art. 12.2 remite a las leyes de Función Pública que se dicten en desarrollo del Estatuto la determinación de qué órganos de gobierno pueden disponer de este tipo de personal.",
+    "fuente": "Art. 12.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 12.3 del TREBEP, el nombramiento y cese del personal eventual serán:",
+    "options": [
+      "Reglados mediante concurso",
+      "Libres",
+      "Sujetos a informe previo del comité de empresa"
+    ],
+    "correct": 1,
+    "exp": "El art. 12.3 establece que tanto el nombramiento como el cese del personal eventual serán libres.",
+    "fuente": "Art. 12.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 12.3 del TREBEP, el cese del personal eventual tendrá lugar, en todo caso, cuando se produzca:",
+    "options": [
+      "El nombramiento de un nuevo secretario general",
+      "La aprobación de los presupuestos anuales",
+      "El de la autoridad a la que se preste la función de confianza o asesoramiento"
+    ],
+    "correct": 2,
+    "exp": "El art. 12.3 vincula el cese al de la autoridad a la que se preste la función de confianza o asesoramiento especial.",
+    "fuente": "Art. 12.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 12.5 del TREBEP, al personal eventual le será aplicable, en lo que sea adecuado a la naturaleza de su condición, el régimen general de:",
+    "options": [
+      "Los funcionarios de carrera",
+      "Los funcionarios interinos",
+      "El personal laboral fijo"
+    ],
+    "correct": 0,
+    "exp": "El art. 12.5 aplica al personal eventual, en lo adecuado a su condición, el régimen general de los funcionarios de carrera.",
+    "fuente": "Art. 12.5 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13 del TREBEP, el personal directivo profesional se rige por:",
+    "options": [
+      "Los principios de mérito y capacidad, criterios de idoneidad, y sometido a evaluación con arreglo a criterios de eficacia y eficiencia",
+      "Exclusivamente el Estatuto de los Trabajadores sin más matices",
+      "Ninguna norma específica, queda a discreción absoluta de cada Administración"
+    ],
+    "correct": 0,
+    "exp": "Art. 13 TREBEP: el personal directivo profesional se rige por los principios de mérito y capacidad y criterios de idoneidad, y se somete a evaluación con arreglo a los criterios de eficacia y eficiencia."
+  },
+  {
+    "q": "Según el encabezado del art. 13 del TREBEP, además del Gobierno, ¿quién puede establecer el régimen jurídico específico del personal directivo?",
+    "options": [
+      "Los ayuntamientos de gran población exclusivamente",
+      "Los órganos de gobierno de las comunidades autónomas",
+      "Las diputaciones provinciales"
+    ],
+    "correct": 1,
+    "exp": "El art. 13 atribuye esa facultad al Gobierno y a los órganos de gobierno de las comunidades autónomas.",
+    "fuente": "Art. 13 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13.1 del TREBEP, las funciones directivas profesionales del personal directivo se definen como tales en:",
+    "options": [
+      "El propio TREBEP de forma cerrada",
+      "Los estatutos de los sindicatos",
+      "Las normas específicas de cada Administración"
+    ],
+    "correct": 2,
+    "exp": "El art. 13.1 remite a las normas específicas de cada Administración la definición de las funciones directivas profesionales.",
+    "fuente": "Art. 13.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 13.2 del TREBEP, la designación del personal directivo atenderá a principios de mérito y capacidad y a criterios de idoneidad, llevándose a cabo mediante procedimientos que garanticen:",
+    "options": [
+      "La publicidad y concurrencia",
+      "La confidencialidad y celeridad",
+      "La antigüedad y jerarquía"
+    ],
+    "correct": 0,
+    "exp": "El art. 13.2 exige procedimientos que garanticen la publicidad y concurrencia en la designación del personal directivo.",
+    "fuente": "Art. 13.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13.3 del TREBEP, el personal directivo estará sujeto a evaluación con arreglo a los criterios de eficacia y eficiencia, responsabilidad por su gestión y:",
+    "options": [
+      "Antigüedad en el puesto directivo",
+      "Control de resultados en relación con los objetivos fijados",
+      "Valoración sindical periódica"
+    ],
+    "correct": 1,
+    "exp": "El art. 13.3 añade el control de resultados en relación con los objetivos que les hayan sido fijados como criterio de evaluación.",
+    "fuente": "Art. 13.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 13.4 del TREBEP, la determinación de las condiciones de empleo del personal directivo:",
+    "options": [
+      "Se negociará obligatoriamente con los sindicatos",
+      "Se fijará por convenio colectivo sectorial",
+      "No tendrá la consideración de materia objeto de negociación colectiva"
+    ],
+    "correct": 2,
+    "exp": "El art. 13.4 excluye expresamente esas condiciones de empleo de la negociación colectiva a los efectos de la ley.",
+    "fuente": "Art. 13.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13.4 del TREBEP, cuando el personal directivo reúna la condición de personal laboral, estará sometido a:",
+    "options": [
+      "La relación laboral de carácter especial de alta dirección",
+      "El régimen laboral común ordinario",
+      "El régimen estatutario de los funcionarios de carrera"
+    ],
+    "correct": 0,
+    "exp": "El art. 13.4 dispone que el personal directivo laboral se somete a la relación laboral de carácter especial de alta dirección.",
+    "fuente": "Art. 13.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 14 a) del TREBEP, los empleados públicos tienen derecho a la inamovilidad en la condición de:",
+    "options": [
+      "Funcionario de carrera",
+      "Personal eventual",
+      "Personal laboral temporal"
+    ],
+    "correct": 0,
+    "exp": "Art. 14 a) TREBEP: los empleados públicos tienen derecho 'A la inamovilidad en la condición de funcionario de carrera.'"
+  },
+  {
+    "q": "Según el art. 14 b) del TREBEP, los empleados públicos tienen derecho:",
+    "options": [
+      "Al desempeño efectivo de las funciones o tareas propias de su condición profesional y de acuerdo con la progresión alcanzada en su carrera profesional",
+      "A elegir libremente su lugar de destino sin ninguna limitación",
+      "A no someterse a evaluación del desempeño bajo ninguna circunstancia"
+    ],
+    "correct": 0,
+    "exp": "Art. 14 b) TREBEP: derecho 'Al desempeño efectivo de las funciones o tareas propias de su condición profesional y de acuerdo con la progresión alcanzada en su carrera profesional.'"
+  },
+  {
+    "q": "Según el art. 14 c) del TREBEP, los empleados públicos tienen derecho a la progresión en la carrera profesional y promoción interna según principios constitucionales de:",
+    "options": [
+      "Igualdad, mérito y capacidad",
+      "Antigüedad exclusivamente, sin otro criterio",
+      "Discrecionalidad absoluta del superior jerárquico"
+    ],
+    "correct": 0,
+    "exp": "Art. 14 c) TREBEP: derecho 'A la progresión en la carrera profesional y promoción interna según principios constitucionales de igualdad, mérito y capacidad mediante la implantación de sistemas objetivos y transparentes de evaluación.'"
+  },
+  {
+    "q": "Según el art. 14 g) del TREBEP, los empleados públicos tienen derecho a la formación continua y a la actualización permanente de sus conocimientos y capacidades profesionales, preferentemente:",
+    "options": [
+      "En horario laboral",
+      "Fuera del horario laboral, sin ninguna excepción",
+      "Únicamente durante los períodos vacacionales"
+    ],
+    "correct": 0,
+    "exp": "Art. 14 g) TREBEP: derecho 'A la formación continua y a la actualización permanente de sus conocimientos y capacidades profesionales, preferentemente en horario laboral.'"
+  },
+  {
+    "q": "Según el art. 14 f) del TREBEP, los empleados públicos tienen derecho a la defensa jurídica y protección de la Administración Pública en los procedimientos que se sigan ante cualquier orden jurisdiccional como consecuencia de:",
+    "options": [
+      "El ejercicio legítimo de sus funciones o cargos públicos",
+      "Cualquier actuación privada ajena al servicio",
+      "Una denuncia presentada por un particular sin relación con el cargo"
+    ],
+    "correct": 0,
+    "exp": "Art. 14 f) TREBEP: derecho 'A la defensa jurídica y protección de la Administración Pública en los procedimientos que se sigan ante cualquier orden jurisdiccional como consecuencia del ejercicio legítimo de sus funciones o cargos públicos.'"
+  },
+  {
+    "q": "Según el art. 14 h) del TREBEP, los empleados públicos tienen derecho al respeto de su intimidad, orientación e identidad sexual, especialmente frente a:",
+    "options": [
+      "El acoso sexual, por razón de sexo, moral y laboral",
+      "Cualquier tipo de evaluación de su desempeño profesional",
+      "La rotación ordinaria de puestos de trabajo"
+    ],
+    "correct": 0,
+    "exp": "Art. 14 h) TREBEP: derecho al respeto de su intimidad y dignidad en el trabajo, 'especialmente frente al acoso sexual y por razón de sexo, moral y laboral.'"
+  },
+  {
+    "q": "¿Cómo se denomina el Capítulo I del Título III del TREBEP, que contiene el art. 14?",
+    "options": [
+      "Derechos de los empleados públicos",
+      "Deberes de los empleados públicos",
+      "Régimen disciplinario"
+    ],
+    "correct": 0,
+    "exp": "El Capítulo I del Título III del TREBEP se titula 'Derechos de los empleados públicos' y comprende los arts. 14 y 15."
+  },
+  {
+    "q": "Según el art. 15 del TREBEP, los empleados públicos tienen, entre otros, como derechos individuales ejercidos de forma colectiva, el derecho a:",
+    "options": [
+      "La libertad sindical",
+      "Percibir individualmente cualquier retribución sin control alguno",
+      "La inamovilidad absoluta en cualquier puesto de trabajo elegido"
+    ],
+    "correct": 0,
+    "exp": "Art. 15 TREBEP: entre los derechos individuales ejercidos colectivamente se incluye la libertad sindical, junto con la negociación colectiva y la participación en la determinación de las condiciones de trabajo."
+  },
+  {
+    "q": "Según el art. 15 del TREBEP, entre los derechos ejercidos colectivamente también se incluye el ejercicio de la huelga, con la garantía del mantenimiento de:",
+    "options": [
+      "Los servicios esenciales de la comunidad",
+      "La totalidad de los servicios sin ninguna excepción",
+      "Ningún servicio, pudiendo paralizarse la Administración por completo"
+    ],
+    "correct": 0,
+    "exp": "Art. 15 TREBEP: se reconoce el ejercicio de la huelga, con la garantía del mantenimiento de los servicios esenciales de la comunidad."
+  },
+  {
+    "q": "Según el art. 16.2 del TREBEP, la carrera profesional es el conjunto ordenado de oportunidades de ascenso y expectativas de progreso profesional conforme a los principios de:",
+    "options": [
+      "Igualdad, mérito y capacidad",
+      "Antigüedad exclusiva, sin otro criterio",
+      "Discrecionalidad política del órgano competente"
+    ],
+    "correct": 0,
+    "exp": "Art. 16.2 TREBEP: 'La carrera profesional es el conjunto ordenado de oportunidades de ascenso y expectativas de progreso profesional conforme a los principios de igualdad, mérito y capacidad.'"
+  },
+  {
+    "q": "Según el art. 16.3 a) del TREBEP, la carrera horizontal consiste en la progresión de grado, categoría, escalón u otros conceptos análogos:",
+    "options": [
+      "Sin necesidad de cambiar de puesto de trabajo",
+      "Únicamente cambiando de puesto de trabajo en todo caso",
+      "Solo mediante concurso de traslados"
+    ],
+    "correct": 0,
+    "exp": "Art. 16.3 a) TREBEP: la carrera horizontal 'consiste en la progresión de grado, categoría, escalón u otros conceptos análogos, sin necesidad de cambiar de puesto de trabajo.'"
+  },
+  {
+    "q": "Según el art. 16.3 b) del TREBEP, la carrera vertical consiste en el ascenso en la estructura de puestos de trabajo por los procedimientos de:",
+    "options": [
+      "Provisión establecidos en el Capítulo III del Título V del Estatuto",
+      "Oposición libre exclusivamente",
+      "Sorteo entre los candidatos con mayor antigüedad"
+    ],
+    "correct": 0,
+    "exp": "Art. 16.3 b) TREBEP: la carrera vertical 'consiste en el ascenso en la estructura de puestos de trabajo por los procedimientos de provisión establecidos en el capítulo III del título V de este Estatuto.'"
+  },
+  {
+    "q": "Según el art. 16.3 c) del TREBEP, la promoción interna vertical consiste en el ascenso desde un cuerpo o escala de un Subgrupo a:",
+    "options": [
+      "Otro Subgrupo o Grupo superior",
+      "El mismo Subgrupo, sin cambio de nivel",
+      "Un cuerpo de distinta Administración Pública"
+    ],
+    "correct": 0,
+    "exp": "Art. 16.3 c) TREBEP: la promoción interna vertical 'consiste en el ascenso desde un cuerpo o escala de un Subgrupo... a otro superior.'"
+  },
+  {
+    "q": "Según el art. 16.3 d) del TREBEP, la promoción interna horizontal consiste en el acceso a cuerpos o escalas de:",
+    "options": [
+      "El mismo Subgrupo profesional",
+      "Un Subgrupo inmediatamente inferior",
+      "Cualquier Subgrupo, sin ninguna limitación"
+    ],
+    "correct": 0,
+    "exp": "Art. 16.3 d) TREBEP: la promoción interna horizontal 'consiste en el acceso a cuerpos o escalas del mismo Subgrupo profesional.'"
+  },
+  {
+    "q": "¿Qué relación existe entre la carrera horizontal (art. 16.3 a TREBEP) y la carrera vertical (art. 16.3 b TREBEP)?",
+    "options": [
+      "La horizontal permite progresar sin cambiar de puesto de trabajo, mientras que la vertical implica el ascenso en la estructura de puestos mediante los procedimientos de provisión correspondientes",
+      "Ambas modalidades son exactamente idénticas en su forma de aplicación",
+      "La carrera vertical no implica ningún cambio en la estructura de puestos de trabajo"
+    ],
+    "correct": 0,
+    "exp": "La diferencia esencial radica en que la carrera horizontal implica progreso de grado o categoría sin cambiar de puesto de trabajo, mientras que la carrera vertical implica el ascenso efectivo en la estructura de puestos mediante los procedimientos de provisión (concurso, libre designación, etc.)."
+  },
+  {
+    "q": "¿Qué relación existe entre la 'promoción interna vertical' y la 'promoción interna horizontal' reguladas en el art. 16.3 TREBEP?",
+    "options": [
+      "La vertical implica ascender a un Subgrupo o Grupo superior; la horizontal implica acceder a otro cuerpo o escala dentro del mismo Subgrupo",
+      "Ambas modalidades implican necesariamente cambiar de Administración Pública",
+      "La promoción interna horizontal siempre supone un ascenso económico mayor que la vertical"
+    ],
+    "correct": 0,
+    "exp": "La promoción interna vertical implica el ascenso a un Subgrupo o Grupo de clasificación superior; la promoción interna horizontal implica el acceso a cuerpos o escalas distintos dentro del mismo Subgrupo profesional, sin cambio de nivel."
+  },
+  {
+    "q": "En síntesis, ¿qué cuatro modalidades de progresión profesional distingue el art. 16.3 del TREBEP para los funcionarios de carrera?",
+    "options": [
+      "Carrera horizontal, carrera vertical, promoción interna vertical y promoción interna horizontal",
+      "Únicamente ascenso por antigüedad y ascenso por mérito",
+      "Solo oposición libre y concurso de traslados"
+    ],
+    "correct": 0,
+    "exp": "El art. 16.3 TREBEP distingue cuatro modalidades de progresión profesional: carrera horizontal, carrera vertical, promoción interna vertical y promoción interna horizontal, que pueden aplicarse de forma aislada o simultánea según determinen las leyes de función pública correspondientes."
+  },
+  {
+    "q": "Según el art. 17 del TREBEP, las leyes de Función Pública que se dicten en desarrollo del Estatuto regularán, entre otros aspectos de la carrera horizontal, un sistema de:",
+    "options": [
+      "Grados, categorías o escalones de ascenso, fijándose la remuneración correspondiente a cada uno de ellos",
+      "Sorteo anual entre todos los funcionarios del mismo Grupo",
+      "Rotación obligatoria de puesto cada dos años"
+    ],
+    "correct": 0,
+    "exp": "El art. 17 TREBEP prevé que la carrera horizontal se articule mediante un sistema de grados, categorías o escalones de ascenso, con la remuneración correspondiente a cada uno de ellos."
+  },
+  {
+    "q": "Según el art. 17 del TREBEP, para valorar la progresión en la carrera horizontal se tendrá en cuenta la trayectoria y actuación profesional, la calidad de los trabajos realizados, los conocimientos adquiridos y el resultado de:",
+    "options": [
+      "La evaluación del desempeño",
+      "Un examen médico anual obligatorio",
+      "La opinión de los compañeros de trabajo, sin más criterio"
+    ],
+    "correct": 0,
+    "exp": "El art. 17 TREBEP exige valorar, entre otros factores, la trayectoria profesional, la calidad de los trabajos, los conocimientos adquiridos y el resultado de la evaluación del desempeño para la progresión en la carrera horizontal."
+  },
+  {
+    "q": "Según el art. 18.2 del TREBEP, para participar en los procesos selectivos de promoción interna, los funcionarios de carrera deben tener una antigüedad de al menos:",
+    "options": [
+      "Dos años de servicio activo en el inferior Subgrupo o Grupo de clasificación",
+      "Diez años de servicio activo, sin excepción",
+      "Ningún requisito de antigüedad es exigible"
+    ],
+    "correct": 0,
+    "exp": "Art. 18.2 TREBEP: se exige, con carácter general, una antigüedad de al menos dos años de servicio activo en el Subgrupo o Grupo de clasificación profesional inferior."
+  },
+  {
+    "q": "¿Qué relación existe entre el art. 18 TREBEP y los principios constitucionales de igualdad, mérito y capacidad?",
+    "options": [
+      "El art. 18 exige que la promoción interna se realice mediante procesos selectivos que garanticen el cumplimiento de dichos principios constitucionales",
+      "El art. 18 excluye expresamente la aplicación de estos principios a la promoción interna",
+      "La promoción interna se rige exclusivamente por la antigüedad, sin relación con estos principios"
+    ],
+    "correct": 0,
+    "exp": "El art. 18 TREBEP exige que la promoción interna (vertical y horizontal) se realice mediante procesos selectivos que garanticen el cumplimiento de los principios constitucionales de igualdad, mérito y capacidad, así como los del art. 55.2 TREBEP."
+  },
+  {
+    "q": "Según el art. 20.1 del TREBEP, las Administraciones Públicas pueden establecer sistemas de evaluación del desempeño para medir y valorar la conducta profesional y el rendimiento o logro de:",
+    "options": [
+      "Resultados",
+      "Antigüedad exclusivamente",
+      "Titulación académica del funcionario"
+    ],
+    "correct": 0,
+    "exp": "Art. 20.1 TREBEP: las Administraciones Públicas establecerán sistemas de evaluación del desempeño de sus empleados que midan y valoren la conducta profesional y el rendimiento o el logro de resultados."
+  },
+  {
+    "q": "Según el art. 20.1 del TREBEP, los sistemas de evaluación del desempeño deben adecuarse a criterios de transparencia, objetividad y:",
+    "options": [
+      "No discriminación",
+      "Confidencialidad absoluta frente al evaluado",
+      "Discrecionalidad exclusiva del superior jerárquico"
+    ],
+    "correct": 0,
+    "exp": "Art. 20.1 TREBEP: los sistemas de evaluación deben adecuarse a criterios de transparencia, objetividad, imparcialidad y no discriminación, sin menoscabar los derechos de los empleados públicos."
+  },
+  {
+    "q": "Según el art. 20.3 del TREBEP, las Administraciones Públicas determinarán los efectos de la evaluación del desempeño en, entre otros aspectos, la percepción de:",
+    "options": [
+      "Las retribuciones complementarias",
+      "Únicamente las retribuciones básicas",
+      "Ninguna retribución, tiene efectos solo honoríficos"
+    ],
+    "correct": 0,
+    "exp": "Art. 20.3 TREBEP: la evaluación del desempeño tiene efectos, entre otros, en la carrera profesional horizontal, la formación, la provisión de puestos y la percepción de retribuciones complementarias."
+  },
+  {
+    "q": "Según el art. 20.4 del TREBEP, la continuidad en un puesto de trabajo obtenido por concurso queda vinculada a:",
+    "options": [
+      "La evaluación del desempeño, con audiencia al interesado y resolución motivada",
+      "La antigüedad del funcionario en la Corporación, sin más criterio",
+      "La decisión discrecional del Alcalde sin ningún procedimiento"
+    ],
+    "correct": 0,
+    "exp": "Art. 20.4 TREBEP: 'La continuidad en un puesto de trabajo obtenido por concurso quedará vinculada a la evaluación del desempeño... dándose audiencia al interesado, y por la correspondiente resolución motivada.'"
+  },
+  {
+    "q": "¿Qué papel desempeña la evaluación del desempeño (art. 20 TREBEP) en relación con la carrera profesional horizontal de un funcionario?",
+    "options": [
+      "Constituye uno de los criterios determinantes para valorar la trayectoria profesional y decidir la progresión dentro de la carrera horizontal",
+      "No tiene ninguna relación con la carrera profesional horizontal",
+      "Sustituye completamente al requisito de antigüedad para cualquier tipo de progresión"
+    ],
+    "correct": 0,
+    "exp": "La evaluación del desempeño constituye uno de los elementos que las Administraciones Públicas deben valorar, junto con la trayectoria y actuación profesional, para determinar la progresión dentro de la carrera profesional horizontal, conforme al art. 20.3 TREBEP."
+  },
+  {
+    "q": "Según el art. 21.1 del TREBEP, ¿qué debe reflejarse para cada ejercicio presupuestario en la correspondiente ley de presupuestos respecto de los funcionarios?",
+    "options": [
+      "Las cuantías de las retribuciones básicas de los funcionarios",
+      "El incremento de la masa salarial de los funcionarios",
+      "El importe global de las indemnizaciones por razón del servicio"
+    ],
+    "correct": 0,
+    "exp": "El art. 21.1 exige reflejar en la ley de presupuestos las cuantías de las retribuciones básicas (no solo su incremento) de los funcionarios de carrera.",
+    "fuente": "Art. 21.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 21.1 del TREBEP, respecto de las retribuciones complementarias de los funcionarios, ¿qué debe reflejarse en la ley de presupuestos de cada ejercicio?",
+    "options": [
+      "La cuantía íntegra de cada complemento",
+      "El incremento de las cuantías globales",
+      "El porcentaje que representan sobre el sueldo"
+    ],
+    "correct": 1,
+    "exp": "A diferencia de las básicas (cuya cuantía íntegra se refleja), de las complementarias solo se refleja el incremento de las cuantías globales.",
+    "fuente": "Art. 21.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 21.1 del TREBEP, en relación con el personal laboral, ¿qué magnitud debe reflejarse en la correspondiente ley de presupuestos?",
+    "options": [
+      "El importe íntegro del convenio colectivo aplicable",
+      "El número de trienios reconocidos",
+      "El incremento de la masa salarial"
+    ],
+    "correct": 2,
+    "exp": "El art. 21.1 exige reflejar, para el personal laboral, el incremento de la masa salarial en la ley de presupuestos de cada ejercicio.",
+    "fuente": "Art. 21.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 21.2 del TREBEP, no podrán acordarse incrementos retributivos que globalmente supongan un incremento de la masa salarial superior a:",
+    "options": [
+      "Los límites fijados anualmente en la Ley de Presupuestos Generales del Estado para el personal",
+      "El índice de revalorización de las pensiones del ejercicio anterior",
+      "El porcentaje que determine cada convenio colectivo sectorial"
+    ],
+    "correct": 0,
+    "exp": "El art. 21.2 fija como techo los límites que anualmente establezca la Ley de Presupuestos Generales del Estado para el personal.",
+    "fuente": "Art. 21.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué artículo del TREBEP lleva por título 'Determinación de las cuantías y de los incrementos retributivos'?",
+    "options": [
+      "Artículo 20",
+      "Artículo 22",
+      "Artículo 21"
+    ],
+    "correct": 2,
+    "exp": "Ese es el título del artículo 21, dentro del capítulo de derechos retributivos.",
+    "fuente": "Art. 21 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántos apartados numerados contiene el artículo 21 del TREBEP ('Determinación de las cuantías y de los incrementos retributivos')?",
+    "options": [
+      "Dos",
+      "Uno",
+      "Tres"
+    ],
+    "correct": 0,
+    "exp": "El artículo 21 se estructura en dos apartados: el 21.1 (reflejo en la ley de presupuestos) y el 21.2 (límite anual de incremento).",
+    "fuente": "Art. 21 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  }
+]

@@ -1,0 +1,488 @@
+[
+  {
+    "q": "Según el art. 8.1 del TREBEP (RDLeg 5/2015), son empleados públicos quienes:",
+    "options": [
+      "Desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales",
+      "Prestan servicios exclusivamente gratuitos en cualquier Administración",
+      "Ejercen funciones exclusivamente de carácter político-representativo"
+    ],
+    "correct": 0,
+    "exp": "Art. 8.1 TREBEP: 'Son empleados públicos quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales.'"
+  },
+  {
+    "q": "Según el art. 8.2 del TREBEP, los empleados públicos se clasifican en:",
+    "options": [
+      "Funcionarios de carrera, funcionarios interinos, personal laboral y personal eventual",
+      "Únicamente funcionarios de carrera y personal laboral",
+      "Solo personal laboral fijo y personal laboral temporal"
+    ],
+    "correct": 0,
+    "exp": "Art. 8.2 TREBEP: los empleados públicos se clasifican en funcionarios de carrera, funcionarios interinos, personal laboral (fijo, por tiempo indefinido o temporal) y personal eventual."
+  },
+  {
+    "q": "¿Qué relación existe entre las cuatro clases de empleados públicos del art. 8 TREBEP y el régimen jurídico que les resulta aplicable?",
+    "options": [
+      "Los funcionarios (de carrera e interinos) se rigen por el Derecho Administrativo mediante una relación estatutaria; el personal laboral se rige por el Derecho Laboral mediante contrato de trabajo; el personal eventual tiene un régimen de nombramiento de confianza no permanente",
+      "Todas las clases de personal se rigen exactamente por el mismo régimen jurídico, sin ninguna distinción",
+      "Únicamente el personal laboral tiene un régimen jurídico reconocido por el TREBEP"
+    ],
+    "correct": 0,
+    "exp": "El TREBEP distingue el régimen estatutario (Derecho Administrativo) propio de los funcionarios de carrera e interinos, del régimen contractual laboral del personal laboral, y del régimen de nombramiento de confianza, no permanente, propio del personal eventual."
+  },
+  {
+    "q": "Según el art. 8.2 del TREBEP, ¿qué letra corresponde al personal laboral dentro de la clasificación de los empleados públicos?",
+    "options": [
+      "Letra c)",
+      "Letra a)",
+      "Letra d)"
+    ],
+    "correct": 0,
+    "exp": "El art. 8.2 clasifica a los empleados públicos en a) funcionarios de carrera, b) funcionarios interinos, c) personal laboral y d) personal eventual.",
+    "fuente": "Art. 8.2.c) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 9.1 del TREBEP, son funcionarios de carrera quienes están vinculados a una Administración Pública por una relación:",
+    "options": [
+      "Estatutaria regulada por el Derecho Administrativo",
+      "Laboral regulada por el Estatuto de los Trabajadores",
+      "Mercantil regulada por el Código de Comercio"
+    ],
+    "correct": 0,
+    "exp": "Art. 9.1 TREBEP: 'Son funcionarios de carrera quienes, en virtud de nombramiento legal, están vinculados a una Administración Pública por una relación estatutaria regulada por el Derecho Administrativo.'"
+  },
+  {
+    "q": "Según el art. 9.1 del TREBEP, la relación estatutaria del funcionario de carrera se establece para el desempeño de servicios profesionales retribuidos de carácter:",
+    "options": [
+      "Permanente",
+      "Exclusivamente temporal y de emergencia",
+      "Voluntario y no remunerado"
+    ],
+    "correct": 0,
+    "exp": "Art. 9.1 in fine TREBEP: la relación estatutaria se establece para el desempeño de servicios profesionales retribuidos de carácter permanente."
+  },
+  {
+    "q": "¿Qué relación existe entre el art. 9.2 del TREBEP y las funciones reservadas a funcionarios públicos?",
+    "options": [
+      "El art. 9.2 TREBEP reserva a los funcionarios el ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de las potestades públicas o en la salvaguarda de los intereses generales del Estado y las Administraciones Públicas",
+      "El art. 9.2 TREBEP permite que cualquier tipo de personal ejerza indistintamente las mismas funciones",
+      "El art. 9.2 TREBEP reserva dichas funciones exclusivamente al personal eventual"
+    ],
+    "correct": 0,
+    "exp": "Art. 9.2 TREBEP: 'En todo caso, el ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales del Estado y de las Administraciones Públicas corresponden exclusivamente a los funcionarios públicos.'"
+  },
+  {
+    "q": "Según el art. 9.2 del TREBEP, el ejercicio de las funciones que impliquen participación directa o indirecta en el ejercicio de las potestades públicas corresponde:",
+    "options": [
+      "Indistintamente a funcionarios y personal laboral",
+      "Exclusivamente a los funcionarios públicos",
+      "Al personal directivo profesional"
+    ],
+    "correct": 1,
+    "exp": "El art. 9.2 dispone que el ejercicio de esas funciones corresponde exclusivamente a los funcionarios públicos, en los términos que establezca la ley de desarrollo de cada Administración.",
+    "fuente": "Art. 9.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 9.2 del TREBEP reserva en todo caso a los funcionarios públicos, además de las potestades públicas, la salvaguardia de:",
+    "options": [
+      "Los intereses particulares de los ciudadanos",
+      "Los intereses de las entidades colaboradoras",
+      "Los intereses generales del Estado y de las Administraciones Públicas"
+    ],
+    "correct": 2,
+    "exp": "El art. 9.2 se refiere a la participación en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales del Estado y de las Administraciones Públicas.",
+    "fuente": "Art. 9.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 9.2 del TREBEP, la concreción de las funciones reservadas a los funcionarios públicos se remite a:",
+    "options": [
+      "La ley de desarrollo de cada Administración Pública",
+      "Un reglamento estatal único",
+      "Los convenios colectivos aplicables"
+    ],
+    "correct": 0,
+    "exp": "El propio art. 9.2 remite la determinación de esas funciones a la ley de desarrollo de cada Administración Pública.",
+    "fuente": "Art. 9.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 10.1 del TREBEP, son funcionarios interinos los que se nombran, con carácter temporal, por razones expresamente justificadas de:",
+    "options": [
+      "Necesidad y urgencia",
+      "Antigüedad y experiencia previa",
+      "Confianza política del nombrante"
+    ],
+    "correct": 0,
+    "exp": "Art. 10.1 TREBEP: 'Son funcionarios interinos los que, por razones expresamente justificadas de necesidad y urgencia, son nombrados como tales.'"
+  },
+  {
+    "q": "Según el art. 10.1 a) del TREBEP, es supuesto de nombramiento de funcionario interino la existencia de:",
+    "options": [
+      "Plazas vacantes cuando no sea posible su cobertura por funcionarios de carrera",
+      "Un contrato mercantil previamente suscrito",
+      "Una sanción disciplinaria pendiente de resolver"
+    ],
+    "correct": 0,
+    "exp": "Art. 10.1 a) TREBEP: procede el nombramiento de interino cuando existan plazas vacantes cuando no sea posible su cobertura por funcionarios de carrera."
+  },
+  {
+    "q": "Según el art. 10.1 b) del TREBEP, también procede el nombramiento de funcionario interino para:",
+    "options": [
+      "La sustitución transitoria de los titulares",
+      "La creación de un nuevo Cuerpo de funcionarios",
+      "La supresión de una plaza ya existente"
+    ],
+    "correct": 0,
+    "exp": "Art. 10.1 b) TREBEP: procede el nombramiento de interino para la sustitución transitoria de los titulares."
+  },
+  {
+    "q": "Según el art. 10.1 d) del TREBEP, procede el nombramiento de funcionario interino por exceso o acumulación de tareas por un plazo máximo de:",
+    "options": [
+      "Nueve meses, dentro de un período de dieciocho meses",
+      "Tres meses, sin posibilidad de prórroga",
+      "Un año, renovable indefinidamente"
+    ],
+    "correct": 0,
+    "exp": "Art. 10.1 d) TREBEP: procede el nombramiento por exceso o acumulación de tareas por plazo máximo de nueve meses, dentro de un periodo de dieciocho meses."
+  },
+  {
+    "q": "Según el art. 10.1.b) del TREBEP, es causa de nombramiento de funcionario interino:",
+    "options": [
+      "La existencia de plazas vacantes sin cobertura posible",
+      "La sustitución transitoria de los titulares, durante el tiempo estrictamente necesario",
+      "El exceso o acumulación de tareas"
+    ],
+    "correct": 1,
+    "exp": "El art. 10.1.b) contempla la sustitución transitoria de los titulares, durante el tiempo estrictamente necesario, como causa de nombramiento de funcionario interino.",
+    "fuente": "Art. 10.1.b) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 10.1.c) del TREBEP, la ejecución de programas de carácter temporal como causa de nombramiento de interino tiene una duración máxima de:",
+    "options": [
+      "Nueve meses, ampliables a doce",
+      "Un año, sin posibilidad de ampliación",
+      "Tres años, ampliables hasta doce meses más por las leyes de Función Pública"
+    ],
+    "correct": 2,
+    "exp": "El art. 10.1.c) fija un máximo de tres años, ampliable hasta doce meses más por las leyes de Función Pública que se dicten en desarrollo del Estatuto.",
+    "fuente": "Art. 10.1.c) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 10.1.d) del TREBEP, el exceso o acumulación de tareas como causa de interinidad tiene un plazo máximo de nueve meses dentro de un periodo de:",
+    "options": [
+      "Dieciocho meses",
+      "Doce meses",
+      "Veinticuatro meses"
+    ],
+    "correct": 0,
+    "exp": "El art. 10.1.d) señala un plazo máximo de nueve meses dentro de un periodo de dieciocho meses.",
+    "fuente": "Art. 10.1.d) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 10.2 del TREBEP, los procedimientos de selección de personal funcionario interino se rigen, entre otros, por los principios de igualdad, mérito, capacidad, publicidad y:",
+    "options": [
+      "Confidencialidad",
+      "Celeridad",
+      "Antigüedad"
+    ],
+    "correct": 1,
+    "exp": "El art. 10.2 exige que los procedimientos se rijan por los principios de igualdad, mérito, capacidad, publicidad y celeridad.",
+    "fuente": "Art. 10.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el art. 10.2 del TREBEP, el nombramiento derivado de los procedimientos de selección de personal interino:",
+    "options": [
+      "Da lugar automáticamente a la condición de funcionario de carrera tras dos años",
+      "Da lugar a dicha condición si el interino supera una evaluación de desempeño",
+      "En ningún caso dará lugar al reconocimiento de la condición de funcionario de carrera"
+    ],
+    "correct": 2,
+    "exp": "El art. 10.2 establece expresamente que ese nombramiento en ningún caso dará lugar al reconocimiento de la condición de funcionario de carrera.",
+    "fuente": "Art. 10.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 10.3.a) del TREBEP, la Administración formalizará de oficio la finalización de la relación de interinidad, sin derecho a compensación alguna, por:",
+    "options": [
+      "La cobertura reglada del puesto por personal funcionario de carrera",
+      "La jubilación anticipada del interino",
+      "La solicitud voluntaria del propio interino"
+    ],
+    "correct": 0,
+    "exp": "El art. 10.3.a) prevé la finalización por la cobertura reglada del puesto por personal funcionario de carrera a través de los procedimientos legalmente establecidos.",
+    "fuente": "Art. 10.3.a) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 10.3.b) del TREBEP, es causa de finalización de oficio de la interinidad:",
+    "options": [
+      "El traslado voluntario a otra Administración",
+      "Las razones organizativas que den lugar a la supresión o amortización de los puestos asignados",
+      "La superación de un curso de formación"
+    ],
+    "correct": 1,
+    "exp": "El art. 10.3.b) recoge las razones organizativas que den lugar a la supresión o a la amortización de los puestos asignados.",
+    "fuente": "Art. 10.3.b) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 10.3.c) y d) del TREBEP, son también causas de finalización de la interinidad, respectivamente:",
+    "options": [
+      "La jubilación forzosa y la incapacidad permanente",
+      "El cambio de puesto de trabajo y la movilidad geográfica",
+      "La finalización del plazo autorizado en el nombramiento y la finalización de la causa que dio lugar al nombramiento"
+    ],
+    "correct": 2,
+    "exp": "El art. 10.3.c) y d) prevén la finalización del plazo autorizado expresamente en el nombramiento y la finalización de la causa que dio lugar al nombramiento.",
+    "fuente": "Art. 10.3.c) y d) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Además de las causas del art. 10.3, ¿a qué otro artículo del TREBEP remite este apartado como causa adicional de finalización de la interinidad?",
+    "options": [
+      "Al artículo 63",
+      "Al artículo 70",
+      "Al artículo 9.2"
+    ],
+    "correct": 0,
+    "exp": "El art. 10.3 dispone que la finalización de oficio opera por las causas que enumera, 'además de por las previstas en el artículo 63'.",
+    "fuente": "Art. 10.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 10.4 del TREBEP, transcurrido el plazo de tres años desde el nombramiento del interino por vacante, se produce el fin de la relación de interinidad y la vacante solo podrá ser ocupada por:",
+    "options": [
+      "Personal laboral fijo",
+      "Personal funcionario de carrera, salvo que el proceso selectivo quede desierto",
+      "Personal eventual con carácter transitorio"
+    ],
+    "correct": 1,
+    "exp": "El art. 10.4 establece que, transcurridos tres años, la vacante solo podrá ser ocupada por personal funcionario de carrera, salvo que el proceso selectivo correspondiente quede desierto, en cuyo caso cabe otro nombramiento de interino.",
+    "fuente": "Art. 10.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 10.4 del TREBEP, ¿qué mecanismos deben usarse para cubrir las plazas vacantes desempeñadas por funcionario interino del art. 10.1.a)?",
+    "options": [
+      "Únicamente el concurso de traslados",
+      "Exclusivamente la promoción interna",
+      "Cualquiera de los mecanismos de provisión o movilidad previstos en la normativa de cada Administración Pública"
+    ],
+    "correct": 2,
+    "exp": "El art. 10.4 exige que esas plazas sean objeto de cobertura mediante cualquiera de los mecanismos de provisión o movilidad previstos en la normativa de cada Administración Pública.",
+    "fuente": "Art. 10.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 10.4, párrafo tercero, del TREBEP, el funcionario interino que permanece excepcionalmente en la plaza tras publicarse la convocatoria dentro del plazo de tres años puede continuar hasta la resolución de la convocatoria, siendo su cese:",
+    "options": [
+      "Sin que dé lugar a compensación económica",
+      "Compensado económicamente en todo caso",
+      "Compensado solo si supera los cinco años de servicio"
+    ],
+    "correct": 0,
+    "exp": "El art. 10.4 señala que, en ese supuesto excepcional, el interino podrá permanecer hasta la resolución de la convocatoria, sin que su cese dé lugar a compensación económica.",
+    "fuente": "Art. 10.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 10.5 del TREBEP, al personal funcionario interino le será aplicable el régimen general del personal funcionario de carrera, salvo:",
+    "options": [
+      "Los derechos económicos básicos",
+      "Aquellos derechos inherentes a la condición de funcionario de carrera",
+      "El régimen disciplinario"
+    ],
+    "correct": 1,
+    "exp": "El art. 10.5 aplica al interino el régimen general del funcionario de carrera en cuanto sea adecuado a su condición temporal, salvo los derechos inherentes a la condición de funcionario de carrera.",
+    "fuente": "Art. 10.5 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 10.5 del TREBEP condiciona la aplicación del régimen general de carrera al personal interino a que sea adecuado a la naturaleza de su condición temporal y al carácter:",
+    "options": [
+      "Provisional y revisable de su plaza",
+      "Voluntario de su cese",
+      "Extraordinario y urgente de su nombramiento"
+    ],
+    "correct": 2,
+    "exp": "El art. 10.5 se refiere expresamente al carácter extraordinario y urgente del nombramiento del interino.",
+    "fuente": "Art. 10.5 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Comparando el art. 10.2 y el art. 11.3 del TREBEP, ¿qué principio de selección es exigido para los interinos y también, de forma añadida, para el personal laboral temporal?",
+    "options": [
+      "El principio de celeridad",
+      "El principio de jerarquía",
+      "El principio de rotación"
+    ],
+    "correct": 0,
+    "exp": "El art. 10.2 incluye la celeridad entre los principios de selección de los interinos, y el art. 11.3 lo añade específicamente para el personal laboral temporal.",
+    "fuente": "Arts. 10.2 y 11.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 11.1 del TREBEP, es personal laboral quien presta servicios retribuidos por las Administraciones Públicas en virtud de:",
+    "options": [
+      "Contrato de trabajo formalizado por escrito",
+      "Nombramiento verbal del Alcalde",
+      "Un acto administrativo unilateral sin ningún contrato"
+    ],
+    "correct": 0,
+    "exp": "Art. 11.1 TREBEP: 'Es personal laboral quien en virtud de contrato de trabajo formalizado por escrito, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios retribuidos por las Administraciones Públicas.'"
+  },
+  {
+    "q": "Según el art. 11.1 del TREBEP, el personal laboral puede tener carácter:",
+    "options": [
+      "Fijo, por tiempo indefinido o temporal",
+      "Únicamente fijo, sin otras modalidades",
+      "Solo temporal, nunca indefinido"
+    ],
+    "correct": 0,
+    "exp": "Art. 11.1 TREBEP: el personal laboral puede ser fijo, por tiempo indefinido o temporal."
+  },
+  {
+    "q": "Según el art. 11.1 del TREBEP, el contrato de trabajo del personal laboral debe formalizarse:",
+    "options": [
+      "Por escrito",
+      "Verbalmente ante testigos",
+      "Mediante acta administrativa"
+    ],
+    "correct": 0,
+    "exp": "El art. 11.1 exige que el contrato de trabajo del personal laboral se formalice por escrito.",
+    "fuente": "Art. 11.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 11.2 del TREBEP, ¿a qué leyes corresponde establecer los criterios para determinar qué puestos pueden ser desempeñados por personal laboral?",
+    "options": [
+      "A los convenios colectivos sectoriales",
+      "A las leyes de Función Pública que se dicten en desarrollo del Estatuto",
+      "A los estatutos de autonomía"
+    ],
+    "correct": 1,
+    "exp": "El art. 11.2 atribuye a las leyes de Función Pública que se dicten en desarrollo del Estatuto establecer esos criterios.",
+    "fuente": "Art. 11.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 11.2 del TREBEP exige que los criterios sobre puestos desempeñables por personal laboral respeten en todo caso lo establecido en:",
+    "options": [
+      "El artículo 10.1",
+      "El artículo 8.2",
+      "El artículo 9.2"
+    ],
+    "correct": 2,
+    "exp": "El art. 11.2 remite al respeto de lo establecido en el artículo 9.2, es decir, las funciones reservadas a funcionarios públicos.",
+    "fuente": "Art. 11.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 11.3 del TREBEP, los procedimientos de selección del personal laboral se rigen en todo caso por los principios de:",
+    "options": [
+      "Igualdad, mérito y capacidad",
+      "Antigüedad, jerarquía y eficacia",
+      "Confianza, idoneidad y discrecionalidad"
+    ],
+    "correct": 0,
+    "exp": "El art. 11.3 establece que los procedimientos de selección del personal laboral se rigen por los principios de igualdad, mérito y capacidad.",
+    "fuente": "Art. 11.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 11.3 del TREBEP, en el caso del personal laboral temporal, además de igualdad, mérito y capacidad, la selección se rige igualmente por el principio de:",
+    "options": [
+      "Movilidad",
+      "Celeridad",
+      "Rotación"
+    ],
+    "correct": 1,
+    "exp": "El art. 11.3 añade que la selección del personal laboral temporal se rige igualmente por el principio de celeridad, para atender razones justificadas de necesidad y urgencia.",
+    "fuente": "Art. 11.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 11.3 del TREBEP, la selección del personal laboral temporal, regida por el principio de celeridad, tiene por finalidad atender razones expresamente justificadas de:",
+    "options": [
+      "Eficiencia presupuestaria",
+      "Renovación generacional",
+      "Necesidad y urgencia"
+    ],
+    "correct": 2,
+    "exp": "El art. 11.3 indica que la finalidad es atender razones expresamente justificadas de necesidad y urgencia.",
+    "fuente": "Art. 11.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 12.1 del TREBEP, es personal eventual el que, en virtud de nombramiento y con carácter no permanente, ocupa un puesto de trabajo considerado como de:",
+    "options": [
+      "Confianza o asesoramiento especial",
+      "Máxima antigüedad en la plantilla",
+      "Habilitación de carácter nacional"
+    ],
+    "correct": 0,
+    "exp": "Art. 12.1 TREBEP: 'Es personal eventual el que, en virtud de nombramiento y con carácter no permanente, sólo realiza funciones expresamente calificadas como de confianza o asesoramiento especial.'"
+  },
+  {
+    "q": "Según el art. 12.3 del TREBEP, el personal eventual cesa automáticamente cuando:",
+    "options": [
+      "Se produzca el cese o expire el mandato de la autoridad a la que preste su función de confianza o asesoramiento",
+      "Cumpla veinte años de antigüedad en el puesto",
+      "Apruebe un proceso selectivo de acceso a la función pública"
+    ],
+    "correct": 0,
+    "exp": "Art. 12.3 TREBEP: 'El personal eventual cesará automáticamente cuando se produzca el cese o expire el mandato de la autoridad a la que preste su función de confianza o asesoramiento.'"
+  },
+  {
+    "q": "Según el art. 12.5 del TREBEP, la condición de personal eventual no puede constituir:",
+    "options": [
+      "Mérito para el acceso a la función pública o para la promoción interna",
+      "Motivo de incompatibilidad con cualquier otra actividad",
+      "Causa de exclusión de la Seguridad Social"
+    ],
+    "correct": 0,
+    "exp": "Art. 12.5 TREBEP: 'La condición de personal eventual no podrá constituir mérito para el acceso a la Función Pública o para la promoción interna.'"
+  },
+  {
+    "q": "Según el art. 12.1 del TREBEP, el personal eventual es retribuido con cargo a:",
+    "options": [
+      "Los créditos presupuestarios consignados para este fin",
+      "Un fondo específico de confianza política",
+      "Las tasas administrativas del organismo"
+    ],
+    "correct": 0,
+    "exp": "El art. 12.1 señala que el personal eventual es retribuido con cargo a los créditos presupuestarios consignados para este fin.",
+    "fuente": "Art. 12.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 12.2 del TREBEP, ¿quién determina el número máximo de personal eventual?",
+    "options": [
+      "El Ministerio de Hacienda en exclusiva",
+      "Los respectivos órganos de gobierno",
+      "El Congreso de los Diputados"
+    ],
+    "correct": 1,
+    "exp": "El art. 12.2 dispone que el número máximo se establecerá por los respectivos órganos de gobierno.",
+    "fuente": "Art. 12.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 12.2 del TREBEP, el número máximo de personal eventual y sus condiciones retributivas tendrán carácter:",
+    "options": [
+      "Reservadas",
+      "Confidenciales",
+      "Públicas"
+    ],
+    "correct": 2,
+    "exp": "El art. 12.2 establece que ese número y las condiciones retributivas serán públicas.",
+    "fuente": "Art. 12.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  }
+]
