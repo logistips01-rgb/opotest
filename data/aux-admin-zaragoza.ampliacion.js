@@ -40139,3 +40139,527 @@ window.addQuestions('aux-admin-zaragoza', 4, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 3 · lote 2026-08-13 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 3, [
+  {
+    "q": "¿Cuál de las siguientes NO figura entre las funciones que el art. 33.1 EAA atribuye a las Cortes de Aragón?",
+    "options": [
+      "Nombrar a los magistrados del Tribunal Superior de Justicia de Aragón",
+      "Ejercer la potestad legislativa",
+      "Aprobar los presupuestos de la Comunidad Autónoma",
+      "Impulsar y controlar la acción del Gobierno de Aragón"
+    ],
+    "correct": 0,
+    "exp": "El art. 33.1 EAA atribuye a las Cortes de Aragón representar al pueblo aragonés, ejercer la potestad legislativa, aprobar los presupuestos e impulsar y controlar la acción del Gobierno de Aragón; el nombramiento de los magistrados del TSJ de Aragón no es una función atribuida a las Cortes por este precepto.",
+    "fuente": "Art. 33.1 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 33.1 EAA, ¿a quién representan las Cortes de Aragón?",
+    "options": [
+      "Al Gobierno de Aragón",
+      "Al pueblo aragonés",
+      "A la Corona",
+      "Al Justicia de Aragón"
+    ],
+    "correct": 1,
+    "exp": "El art. 33.1 EAA dispone que las Cortes de Aragón representan al pueblo aragonés.",
+    "fuente": "Art. 33.1 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué condición atribuye el art. 33.2 EAA a las Cortes de Aragón?",
+    "options": [
+      "Disolubles en cualquier momento por acuerdo del Gobierno de Aragón",
+      "Responsables ante el Tribunal Superior de Justicia de Aragón",
+      "Inviolables",
+      "Convocadas únicamente por el Rey"
+    ],
+    "correct": 2,
+    "exp": "El art. 33.2 EAA establece expresamente que \"las Cortes de Aragón son inviolables\".",
+    "fuente": "Art. 33.2 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 34 EAA, ¿con qué mayoría se aprueba el Reglamento de las Cortes de Aragón?",
+    "options": [
+      "Mayoría simple",
+      "Dos tercios",
+      "Tres quintos",
+      "Mayoría absoluta"
+    ],
+    "correct": 3,
+    "exp": "El art. 34 EAA señala que el reglamento de las Cortes se aprueba por mayoría absoluta de sus miembros.",
+    "fuente": "Art. 34 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Además de establecer su propio reglamento, ¿qué otras facultades reconoce el art. 34 EAA a las Cortes de Aragón?",
+    "options": [
+      "Aprobar sus propios presupuestos y regular el estatuto de sus funcionarios y personal",
+      "Depender del Gobierno de Aragón para la aprobación de su presupuesto",
+      "Carecer de personal propio, que depende de la Administración autonómica",
+      "Delegar en el Justicia de Aragón la aprobación de su reglamento"
+    ],
+    "correct": 0,
+    "exp": "El art. 34 EAA reconoce a las Cortes autonomía parlamentaria: establecen su propio reglamento, aprueban sus presupuestos y regulan el estatuto de sus funcionarios y personal.",
+    "fuente": "Art. 34 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál es la sede permanente de las Cortes de Aragón según el art. 35 EAA?",
+    "options": [
+      "El Ayuntamiento de Zaragoza",
+      "El Palacio de la Aljafería, en Zaragoza",
+      "El Palacio de la Diputación General de Aragón",
+      "La Delegación del Gobierno en Aragón"
+    ],
+    "correct": 1,
+    "exp": "El art. 35 EAA fija la sede permanente de las Cortes de Aragón en la ciudad de Zaragoza, en el Palacio de la Aljafería.",
+    "fuente": "Art. 35 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Pueden las Cortes de Aragón celebrar sesiones fuera de su sede permanente, según el art. 35 EAA?",
+    "options": [
+      "No, las sesiones deben celebrarse siempre en la sede permanente",
+      "Sí, pero solo en la ciudad de Huesca",
+      "Sí, en otros lugares dentro del territorio de Aragón",
+      "Sí, pero solo previa autorización del Gobierno de España"
+    ],
+    "correct": 2,
+    "exp": "El art. 35 EAA admite la celebración de sesiones en otros lugares, siempre dentro del territorio de Aragón, sin perjuicio de la sede permanente en la Aljafería.",
+    "fuente": "Art. 35 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 36.1 EAA, ¿entre qué número de escaños deben estar integradas las Cortes de Aragón, conforme a la ley electoral?",
+    "options": [
+      "Entre 50 y 65",
+      "Entre 60 y 75",
+      "Entre 80 y 100",
+      "Entre 65 y 80"
+    ],
+    "correct": 3,
+    "exp": "El art. 36.1 EAA establece que las Cortes de Aragón estarán integradas por un número de escaños comprendido entre sesenta y cinco y ochenta.",
+    "fuente": "Art. 36.1 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál es el número mínimo de escaños que corresponde, en todo caso, a cada provincia aragonesa según el art. 36.2 EAA?",
+    "options": [
+      "14 escaños",
+      "10 escaños",
+      "12 escaños",
+      "20 escaños"
+    ],
+    "correct": 0,
+    "exp": "El art. 36.2 EAA dispone que cada provincia estará representada, en todo caso, por un mínimo de 14 escaños.",
+    "fuente": "Art. 36.2 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la regla de proporcionalidad del art. 36.3 EAA, la cifra de habitantes necesarios para asignar un escaño a la circunscripción más poblada no podrá superar la de la menos poblada en más de:",
+    "options": [
+      "2 veces",
+      "3 veces",
+      "4 veces",
+      "5 veces"
+    ],
+    "correct": 1,
+    "exp": "El art. 36.3 EAA fija que la cifra de habitantes necesarios para asignar un escaño a la circunscripción más poblada no podrá superar en 3 veces la correspondiente a la menos poblada.",
+    "fuente": "Art. 36.3 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el art. 36.3 EAA, ¿qué límite tiene la aplicación de la regla de proporcionalidad entre circunscripciones electorales?",
+    "options": [
+      "Puede reducir el mínimo de 14 escaños por provincia si la despoblación lo justifica",
+      "Sustituye al mínimo de escaños por provincia establecido en el apartado anterior",
+      "En ningún caso podrá alterar el número mínimo de escaños por provincia establecido en el apartado anterior",
+      "Solo se aplica en las elecciones al Congreso de los Diputados"
+    ],
+    "correct": 2,
+    "exp": "El art. 36.3 EAA precisa que la aplicación de esta regla de proporcionalidad en ningún caso podrá alterar el número mínimo de escaños por provincia fijado en el art. 36.2 EAA.",
+    "fuente": "Art. 36.3 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 37.1 EAA, ¿qué carácter tienen las Cortes de Aragón?",
+    "options": [
+      "Bicameral",
+      "Mixto",
+      "Confederal",
+      "Unicameral"
+    ],
+    "correct": 3,
+    "exp": "El art. 37.1 EAA establece que las Cortes de Aragón tendrán carácter unicameral, constituidas por Diputados y Diputadas elegidos por sufragio universal, igual, libre, directo y secreto.",
+    "fuente": "Art. 37.1 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Por qué período son elegidas las Cortes de Aragón, conforme al art. 37.2 EAA?",
+    "options": [
+      "Cuatro años",
+      "Tres años",
+      "Cinco años",
+      "Seis años"
+    ],
+    "correct": 0,
+    "exp": "El art. 37.2 EAA dispone que las Cortes de Aragón serán elegidas por un período de cuatro años.",
+    "fuente": "Art. 37.2 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 37.4 EAA, ¿cuál es la circunscripción electoral para las elecciones a Cortes de Aragón?",
+    "options": [
+      "El municipio",
+      "La provincia",
+      "La comarca",
+      "La Comunidad Autónoma en su conjunto"
+    ],
+    "correct": 1,
+    "exp": "El art. 37.4 EAA establece que la circunscripción electoral será la provincia.",
+    "fuente": "Art. 37.4 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 37.6 EAA, ¿con qué mayoría debe aprobarse en las Cortes de Aragón la ley electoral que determine las causas de inelegibilidad e incompatibilidad de los diputados?",
+    "options": [
+      "Mayoría simple",
+      "Tres quintos",
+      "Mayoría absoluta",
+      "Unanimidad"
+    ],
+    "correct": 2,
+    "exp": "El art. 37.6 EAA exige que la ley electoral, que determinará las causas de inelegibilidad e incompatibilidad de los diputados, se apruebe por mayoría absoluta.",
+    "fuente": "Art. 37.6 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 38.1 EAA, ¿hasta cuándo alcanza la inviolabilidad de los Diputados y Diputadas de las Cortes de Aragón por los votos y opiniones emitidos en el ejercicio de su cargo?",
+    "options": [
+      "Solo mientras dure su mandato",
+      "Únicamente durante las sesiones plenarias",
+      "Salvo que la Mesa de las Cortes retire dicha inviolabilidad",
+      "Aun después de haber cesado en su mandato"
+    ],
+    "correct": 3,
+    "exp": "El art. 38.1 EAA establece que los Diputados y Diputadas serán inviolables, aun después de haber cesado en su mandato, por los votos y opiniones que emitan en el ejercicio de su cargo.",
+    "fuente": "Art. 38.1 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué establece el art. 38.1 EAA sobre el mandato de los Diputados y Diputadas a Cortes de Aragón?",
+    "options": [
+      "No estarán vinculados por mandato imperativo",
+      "Estarán vinculados por el mandato imperativo de su grupo parlamentario",
+      "Deberán rendir cuentas periódicas ante sus electores directos",
+      "Representarán únicamente a la circunscripción por la que fueron elegidos"
+    ],
+    "correct": 0,
+    "exp": "El art. 38.1 EAA dispone que los Diputados y Diputadas a Cortes de Aragón no estarán vinculados por mandato imperativo.",
+    "fuente": "Art. 38.1 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 38.2 EAA, durante su mandato los Diputados y Diputadas de las Cortes de Aragón no podrán ser detenidos ni retenidos salvo:",
+    "options": [
+      "En ningún caso, ni siquiera en flagrante delito",
+      "En caso de flagrante delito",
+      "Solo con autorización previa del Justicia de Aragón",
+      "Únicamente fuera de los periodos de sesiones"
+    ],
+    "correct": 1,
+    "exp": "El art. 38.2 EAA establece que durante su mandato los diputados no podrán ser detenidos ni retenidos sino en caso de flagrante delito.",
+    "fuente": "Art. 38.2 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 39.1 EAA, ¿a quiénes elegirán las Cortes de Aragón de entre sus miembros?",
+    "options": [
+      "Un Presidente y un Vicepresidente únicamente",
+      "Un Presidente y una Diputación Permanente, sin Mesa propia",
+      "Un Presidente, una Mesa y una Diputación Permanente",
+      "Una Mesa y un Justicia de Aragón"
+    ],
+    "correct": 2,
+    "exp": "El art. 39.1 EAA establece que las Cortes de Aragón elegirán, de entre sus miembros, a un Presidente, una Mesa y una Diputación Permanente.",
+    "fuente": "Art. 39.1 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 39.2 EAA, ¿en qué órganos funcionan las Cortes de Aragón?",
+    "options": [
+      "Solo en Pleno",
+      "Solo en Comisiones",
+      "En Pleno y en Ponencias",
+      "En Pleno y en Comisiones"
+    ],
+    "correct": 3,
+    "exp": "El art. 39.2 EAA dispone que las Cortes funcionarán en Pleno y en Comisiones.",
+    "fuente": "Art. 39.2 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 39.4 EAA, ¿en qué supuestos se constituye una Diputación Permanente de las Cortes de Aragón?",
+    "options": [
+      "Cuando las Cortes no estén reunidas, haya expirado su mandato o hayan sido disueltas",
+      "Solo durante los períodos ordinarios de sesiones",
+      "Únicamente cuando lo solicite el Gobierno de Aragón",
+      "Exclusivamente en caso de disolución de las Cortes por el Presidente de Aragón"
+    ],
+    "correct": 0,
+    "exp": "El art. 39.4 EAA establece que durante el tiempo en que las Cortes no estén reunidas, hubiese expirado su mandato o hubiesen sido disueltas, se constituirá una Diputación Permanente.",
+    "fuente": "Art. 39.4 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 39.5 EAA, ¿en qué proporción participan los grupos parlamentarios en la Diputación Permanente y en las Comisiones de las Cortes de Aragón?",
+    "options": [
+      "En proporción igual, independientemente de su número de diputados",
+      "En proporción a su importancia numérica",
+      "Solo si superan un mínimo de diputados fijado por ley",
+      "Únicamente en el Pleno, no en la Diputación Permanente ni en las Comisiones"
+    ],
+    "correct": 1,
+    "exp": "El art. 39.5 EAA dispone que los grupos parlamentarios participarán en la Diputación Permanente y Comisiones en proporción a su importancia numérica.",
+    "fuente": "Art. 39.5 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En qué tipo de sesiones se reúnen las Cortes de Aragón, según el art. 40.1 EAA?",
+    "options": [
+      "Solo ordinarias",
+      "Solo extraordinarias",
+      "Ordinarias y extraordinarias",
+      "Permanentes, sin distinción de periodos"
+    ],
+    "correct": 2,
+    "exp": "El art. 40.1 EAA establece que las Cortes de Aragón se reunirán en sesiones ordinarias y extraordinarias.",
+    "fuente": "Art. 40.1 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 40.2 EAA, ¿en qué meses tienen lugar los periodos ordinarios de sesiones de las Cortes de Aragón?",
+    "options": [
+      "Enero a mayo, y julio a octubre",
+      "Marzo a junio, y septiembre a diciembre",
+      "Octubre a enero, y abril a julio",
+      "Septiembre a diciembre, y febrero a junio"
+    ],
+    "correct": 3,
+    "exp": "El art. 40.2 EAA fija los períodos ordinarios de sesiones entre septiembre y diciembre, el primero, y entre febrero y junio, el segundo.",
+    "fuente": "Art. 40.2 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Quién puede solicitar la convocatoria de una sesión extraordinaria de las Cortes de Aragón, según el art. 40.3 EAA?",
+    "options": [
+      "La Diputación Permanente, una quinta parte de los diputados, el número de grupos parlamentarios que determine el Reglamento, o el Gobierno de Aragón",
+      "Únicamente el Presidente de las Cortes, por iniciativa propia",
+      "Solo el Gobierno de España, a través del Delegado del Gobierno",
+      "Exclusivamente la mayoría absoluta del Pleno"
+    ],
+    "correct": 0,
+    "exp": "El art. 40.3 EAA prevé la convocatoria de sesión extraordinaria a petición de la Diputación Permanente, de una quinta parte de los diputados o del número de grupos parlamentarios que determine el Reglamento, así como a petición del Gobierno de Aragón.",
+    "fuente": "Art. 40.3 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 40.3 EAA, ¿quién convoca las sesiones extraordinarias de las Cortes de Aragón y qué requisito debe cumplir la convocatoria?",
+    "options": [
+      "El Justicia de Aragón, sin necesidad de fijar el orden del día",
+      "El Presidente de las Cortes de Aragón, con especificación del orden del día",
+      "El Presidente de Aragón, sin necesidad de fijar el orden del día",
+      "La Mesa de las Cortes, previa consulta a los grupos parlamentarios"
+    ],
+    "correct": 1,
+    "exp": "El art. 40.3 EAA atribuye la convocatoria de las sesiones extraordinarias al Presidente de las Cortes de Aragón, con especificación, en todo caso, del orden del día.",
+    "fuente": "Art. 40.3 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 41.a) EAA, ¿qué corresponde a las Cortes de Aragón?",
+    "options": [
+      "La elección del Justicia de Aragón, sin intervención en su nombramiento ni cese",
+      "La designación de los Senadores en representación de Aragón",
+      "La elección, de entre sus miembros, del Presidente de Aragón",
+      "El nombramiento del Presidente del Tribunal Superior de Justicia"
+    ],
+    "correct": 2,
+    "exp": "El art. 41.a) EAA atribuye a las Cortes de Aragón la elección, de entre sus miembros, del Presidente de Aragón.",
+    "fuente": "Art. 41.a) EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué establece el art. 41.b) EAA respecto del Justicia de Aragón?",
+    "options": [
+      "Su designación corresponde en exclusiva al Gobierno de Aragón",
+      "Las Cortes solo pueden elegirlo, no nombrarlo ni cesarlo",
+      "Se elige por sufragio universal directo de los aragoneses",
+      "Corresponde a las Cortes de Aragón su elección, nombramiento y cese, conforme a la ley que lo regule"
+    ],
+    "correct": 3,
+    "exp": "El art. 41.b) EAA atribuye a las Cortes de Aragón la elección, nombramiento y cese del Justicia de Aragón, conforme a lo establecido en la ley que lo regule.",
+    "fuente": "Art. 41.b) EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 41.g) EAA, ¿qué corresponde a las Cortes de Aragón en materia de acuerdos de cooperación?",
+    "options": [
+      "La ratificación de los acuerdos de cooperación a que se refiere el art. 145.2 de la Constitución",
+      "La firma directa de tratados internacionales con otros Estados",
+      "La ratificación de los Estatutos de otras Comunidades Autónomas",
+      "La aprobación exclusiva de los convenios entre municipios aragoneses"
+    ],
+    "correct": 0,
+    "exp": "El art. 41.g) EAA atribuye a las Cortes de Aragón la ratificación de los acuerdos de cooperación a que hace referencia el art. 145.2 de la Constitución, además del conocimiento de los convenios de gestión y prestación de servicios.",
+    "fuente": "Art. 41.g) EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 41.i) EAA, ¿qué función de control económico corresponde a las Cortes de Aragón?",
+    "options": [
+      "El control exclusivo de las cuentas corresponde al Tribunal de Cuentas, sin intervención de las Cortes",
+      "El examen y la aprobación de sus cuentas y de las de la Comunidad Autónoma, sin perjuicio del control de la Cámara de Cuentas de Aragón o del Tribunal de Cuentas",
+      "Solo la aprobación de las cuentas del propio Gobierno de Aragón, no las de las Cortes",
+      "La auditoría directa de las cuentas de los municipios aragoneses"
+    ],
+    "correct": 1,
+    "exp": "El art. 41.i) EAA atribuye a las Cortes el examen y la aprobación de sus cuentas y de las cuentas de la Comunidad Autónoma, sin perjuicio del control que corresponda a la Cámara de Cuentas de Aragón o, en su caso, al Tribunal de Cuentas.",
+    "fuente": "Art. 41.i) EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 41.o) EAA, ¿qué corresponde a las Cortes de Aragón respecto de los Decretos-leyes?",
+    "options": [
+      "La derogación automática de los Decretos-leyes sin debate",
+      "La convalidación corresponde en exclusiva al Presidente de Aragón",
+      "La convalidación de los Decretos-leyes a que hace referencia el art. 44",
+      "La delegación legislativa permanente al Gobierno para dictar Decretos-leyes"
+    ],
+    "correct": 2,
+    "exp": "El art. 41.o) EAA atribuye a las Cortes de Aragón la convalidación de los Decretos-leyes a que hace referencia el art. 44 del Estatuto.",
+    "fuente": "Art. 41.o) EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿A quién corresponde ejercer la potestad legislativa según el art. 42.1 EAA?",
+    "options": [
+      "La comparten las Cortes de Aragón con el Gobierno de España",
+      "La ejerce en exclusiva el Gobierno de Aragón",
+      "La ejercen conjuntamente el Justicia de Aragón y el Gobierno de Aragón",
+      "Las Cortes de Aragón ejercen la potestad legislativa"
+    ],
+    "correct": 3,
+    "exp": "El art. 42.1 EAA establece que las Cortes de Aragón ejercen la potestad legislativa.",
+    "fuente": "Art. 42.1 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 42.2 EAA, ¿a quién corresponde la iniciativa legislativa ante las Cortes de Aragón?",
+    "options": [
+      "A los miembros de las Cortes de Aragón y al Gobierno de Aragón",
+      "En exclusiva al Gobierno de Aragón",
+      "En exclusiva a los grupos parlamentarios con representación en las Cortes Generales",
+      "Únicamente al Presidente de las Cortes de Aragón"
+    ],
+    "correct": 0,
+    "exp": "El art. 42.2 EAA dispone que la iniciativa legislativa corresponde a los miembros de las Cortes de Aragón y al Gobierno de Aragón, en los términos que establezcan la ley y el Reglamento de las Cortes.",
+    "fuente": "Art. 42.2 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 43.1 EAA, ¿cuál de las siguientes materias NO puede ser objeto de delegación legislativa en el Gobierno de Aragón?",
+    "options": [
+      "La regulación de los tributos autonómicos",
+      "La aprobación del Presupuesto de la Comunidad Autónoma",
+      "La regulación de la Administración Local aragonesa",
+      "La aprobación de planes de desarrollo económico"
+    ],
+    "correct": 1,
+    "exp": "El art. 43.1 EAA excluye de la delegación legislativa, entre otras materias, la aprobación del Presupuesto de la Comunidad Autónoma, la regulación esencial de los derechos reconocidos por el Estatuto, el desarrollo básico de sus Instituciones y el régimen electoral.",
+    "fuente": "Art. 43.1 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué requisitos exige el art. 43.3 EAA para que las Cortes de Aragón deleguen en el Gobierno la potestad de dictar normas con rango de ley?",
+    "options": [
+      "Puede ser tácita, si el Gobierno la solicita formalmente",
+      "No requiere plazo determinado, pudiendo ejercerse en cualquier momento",
+      "Debe ser expresa, mediante ley, para una materia concreta y con un plazo cierto para ejercerla",
+      "Se prorroga automáticamente si no se ejerce en el plazo previsto"
+    ],
+    "correct": 2,
+    "exp": "El art. 43.3 EAA exige que la delegación sea expresa, mediante ley, para una materia concreta y con la determinación de un plazo cierto para ejercerla, agotándose por transcurso del plazo o por aprobación del decreto legislativo correspondiente.",
+    "fuente": "Art. 43.3 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 44.1 EAA, ¿cuál de las siguientes materias NO puede ser objeto de Decreto-ley?",
+    "options": [
+      "La organización de los servicios de la Administración autonómica",
+      "La planificación económica de carácter no esencial",
+      "La regulación de los órganos consultivos del Gobierno",
+      "El régimen electoral y el Presupuesto de la Comunidad Autónoma"
+    ],
+    "correct": 3,
+    "exp": "El art. 44.1 EAA excluye del Decreto-ley el desarrollo de los derechos, deberes y libertades de los aragoneses y de las instituciones reguladas en el título II, el régimen electoral, los tributos y el Presupuesto de la Comunidad Autónoma.",
+    "fuente": "Art. 44.1 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En qué plazo deben ser convalidados por las Cortes de Aragón los Decretos-leyes para no quedar derogados, según el art. 44.2 EAA?",
+    "options": [
+      "Treinta días improrrogables desde su publicación",
+      "Sesenta días, prorrogables por otros treinta",
+      "Quince días desde su aprobación por el Gobierno",
+      "Un mes, contado desde su entrada en vigor"
+    ],
+    "correct": 0,
+    "exp": "El art. 44.2 EAA dispone que los Decretos-leyes quedarán derogados si en el plazo improrrogable de los treinta días siguientes al de su publicación no fuesen convalidados expresamente por las Cortes de Aragón.",
+    "fuente": "Art. 44.2 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 44.3 EAA, ¿pueden las Cortes de Aragón tramitar los Decretos-leyes como proyectos de ley?",
+    "options": [
+      "No es posible; los Decretos-leyes solo pueden convalidarse o derogarse",
+      "Sí, adoptando el acuerdo correspondiente dentro del plazo establecido para su convalidación",
+      "Solo si lo autoriza previamente el Tribunal Constitucional",
+      "Únicamente cuando el Decreto-ley haya sido derogado"
+    ],
+    "correct": 1,
+    "exp": "El art. 44.3 EAA permite que, sin perjuicio de su convalidación, las Cortes de Aragón tramiten los Decretos-leyes como proyectos de ley, adoptando el acuerdo correspondiente dentro del plazo establecido en el apartado anterior.",
+    "fuente": "Art. 44.3 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 45 EAA, ¿quién promulga las leyes aragonesas?",
+    "options": [
+      "El Presidente de las Cortes de Aragón",
+      "El Rey directamente, sin intervención del Presidente de Aragón",
+      "El Presidente de Aragón, en nombre del Rey",
+      "El Justicia de Aragón"
+    ],
+    "correct": 2,
+    "exp": "El art. 45 EAA establece que las leyes aragonesas serán promulgadas, en nombre del Rey, por el Presidente de Aragón, quien ordenará su publicación.",
+    "fuente": "Art. 45 EAA",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 45 EAA, ¿en qué plazo debe ordenarse la publicación de las leyes aragonesas desde su aprobación, y qué fecha rige a efectos de su vigencia?",
+    "options": [
+      "Diez días; rige la fecha de publicación en el BOE",
+      "Veinte días; rige la fecha de aprobación por las Cortes",
+      "Treinta días; rige la fecha de publicación en el BOE",
+      "Quince días; rige la fecha de publicación en el Boletín Oficial de Aragón"
+    ],
+    "correct": 3,
+    "exp": "El art. 45 EAA fija un plazo no superior a quince días desde su aprobación para ordenar la publicación de las leyes en el BOA y el BOE, precisando que a efectos de vigencia regirá la fecha de publicación en el Boletín Oficial de Aragón.",
+    "fuente": "Art. 45 EAA",
+    "confianza": "alta"
+  }
+]);
