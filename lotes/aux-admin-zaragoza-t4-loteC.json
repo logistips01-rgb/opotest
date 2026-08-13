@@ -1,0 +1,526 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 4,
+  "preguntas": [
+    {
+      "q": "Según el art. 9.1 de la LPAC, ¿mediante qué comprobación están obligadas las Administraciones Públicas a verificar la identidad de los interesados en el procedimiento administrativo?",
+      "options": [
+        "Su firma manuscrita cotejada con la que figura en el DNI",
+        "Su domicilio fiscal registrado en la Agencia Tributaria",
+        "Su número de afiliación a la Seguridad Social",
+        "Su nombre y apellidos o denominación o razón social, según corresponda, que consten en el DNI o documento identificativo equivalente"
+      ],
+      "correct": 3,
+      "exp": "El art. 9.1 LPAC impone a las Administraciones Públicas la obligación de verificar la identidad de los interesados comprobando su nombre y apellidos o denominación o razón social, según corresponda, que consten en el DNI o documento identificativo equivalente.",
+      "fuente": "Art. 9.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El deber de verificación de la identidad regulado en el art. 9.1 de la LPAC se configura como:",
+      "options": [
+        "Una carga exclusiva del propio interesado",
+        "Un trámite optativo solo en procedimientos electrónicos",
+        "Una facultad discrecional de cada Administración",
+        "Una obligación de las Administraciones Públicas"
+      ],
+      "correct": 3,
+      "exp": "El art. 9.1 LPAC dice literalmente que \"las Administraciones Públicas están obligadas a verificar la identidad de los interesados\", por lo que se trata de una obligación, no de una facultad discrecional.",
+      "fuente": "Art. 9.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "De acuerdo con el art. 9.2 de la LPAC, la identificación electrónica de los interesados ante las Administraciones Públicas:",
+      "options": [
+        "Es obligatoria en todo procedimiento desde su inicio",
+        "Solo se admite si lo autoriza previamente el Consejo de Ministros",
+        "Podrán identificarse electrónicamente a través de los sistemas que enumera el propio apartado",
+        "Queda excluida cuando el interesado sea una persona jurídica"
+      ],
+      "correct": 2,
+      "exp": "El art. 9.2 LPAC establece que \"los interesados podrán identificarse electrónicamente ante las Administraciones Públicas a través de los sistemas siguientes\", enumerados en las letras a), b) y c).",
+      "fuente": "Art. 9.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué sistema de identificación electrónica regula la letra a) del art. 9.2 de la LPAC?",
+      "options": [
+        "Sistemas basados en certificados electrónicos cualificados de sello electrónico",
+        "Sistemas de usuario y contraseña con clave concertada",
+        "Sistemas de identificación mediante código enviado por SMS",
+        "Sistemas basados en certificados electrónicos cualificados de firma electrónica expedidos por prestadores incluidos en la Lista de confianza de prestadores de servicios de certificación"
+      ],
+      "correct": 3,
+      "exp": "El art. 9.2.a) LPAC recoge los \"sistemas basados en certificados electrónicos cualificados de firma electrónica expedidos por prestadores incluidos en la «Lista de confianza de prestadores de servicios de certificación»\".",
+      "fuente": "Art. 9.2.a LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 9.2.a) de la LPAC exige que los certificados electrónicos cualificados de firma electrónica sean expedidos por prestadores incluidos en:",
+      "options": [
+        "El Registro Electrónico General de Apoderamientos",
+        "El censo electoral",
+        "La Lista de confianza de prestadores de servicios de certificación",
+        "El Registro Mercantil Central"
+      ],
+      "correct": 2,
+      "exp": "El art. 9.2.a) LPAC condiciona la validez de estos certificados a que estén expedidos por prestadores incluidos en la «Lista de confianza de prestadores de servicios de certificación».",
+      "fuente": "Art. 9.2.a LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué regula específicamente la letra b) del art. 9.2 de la LPAC?",
+      "options": [
+        "Los sistemas de firma electrónica avanzada no cualificada",
+        "Sistemas basados en certificados electrónicos cualificados de sello electrónico expedidos por prestadores incluidos en la Lista de confianza de prestadores de servicios de certificación",
+        "El uso de la Cl@ve permanente como sistema único",
+        "La comparecencia personal ante funcionario habilitado"
+      ],
+      "correct": 1,
+      "exp": "El art. 9.2.b) LPAC contempla los \"sistemas basados en certificados electrónicos cualificados de sello electrónico expedidos por prestadores incluidos en la «Lista de confianza de prestadores de servicios de certificación»\".",
+      "fuente": "Art. 9.2.b LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Frente al sistema de la letra a) del art. 9.2 de la LPAC, basado en certificados de firma electrónica, la letra b) del mismo apartado se basa en certificados electrónicos cualificados de:",
+      "options": [
+        "Registro electrónico general",
+        "Autenticación biométrica",
+        "Sello electrónico",
+        "Representación voluntaria"
+      ],
+      "correct": 2,
+      "exp": "Mientras la letra a) se refiere a certificados cualificados de firma electrónica, la letra b) del art. 9.2 LPAC se refiere a certificados electrónicos cualificados de sello electrónico, ambos expedidos por prestadores de la Lista de confianza.",
+      "fuente": "Art. 9.2.b LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 9.2.c) de la LPAC, para admitir \"cualquier otro sistema\" de identificación no previsto en las letras a) y b), es necesario, entre otros requisitos, un registro previo como usuario y la previa comunicación a:",
+      "options": [
+        "La Secretaría de Estado de Seguridad",
+        "La Agencia Española de Protección de Datos",
+        "El Consejo de Transparencia y Buen Gobierno",
+        "La Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital"
+      ],
+      "correct": 3,
+      "exp": "El art. 9.2.c) LPAC exige, entre otros requisitos, un registro previo como usuario que permita garantizar la identidad del interesado y previa comunicación a la Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital.",
+      "fuente": "Art. 9.2.c LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "De acuerdo con el art. 9.2.c) de la LPAC, la comunicación a la Secretaría General de Administración Digital para admitir un sistema distinto de los previstos en las letras a) y b) debe ir acompañada de:",
+      "options": [
+        "Un informe preceptivo de la Abogacía del Estado",
+        "Un dictamen del Consejo de Estado",
+        "Una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente",
+        "Un aval bancario que garantice la seguridad del sistema"
+      ],
+      "correct": 2,
+      "exp": "El art. 9.2.c) LPAC establece que la comunicación \"vendrá acompañada de una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente\".",
+      "fuente": "Art. 9.2.c LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 9.2.c) de la LPAC, ¿cuánto tiempo debe transcurrir desde la comunicación a la Secretaría General de Administración Digital antes de que un nuevo sistema de identificación tenga eficacia jurídica?",
+      "options": [
+        "Un mes",
+        "Quince días",
+        "Tres meses",
+        "Dos meses"
+      ],
+      "correct": 3,
+      "exp": "El art. 9.2.c) LPAC dispone que \"de forma previa a la eficacia jurídica del sistema, habrán de transcurrir dos meses desde dicha comunicación\".",
+      "fuente": "Art. 9.2.c LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Durante el plazo de dos meses previo a la eficacia jurídica de un nuevo sistema de identificación del art. 9.2.c) de la LPAC, ¿quién puede acudir a la vía jurisdiccional por motivos de seguridad pública?",
+      "options": [
+        "Cualquier interesado afectado",
+        "El órgano estatal competente por motivos de seguridad pública",
+        "El Defensor del Pueblo",
+        "El Tribunal de Cuentas"
+      ],
+      "correct": 1,
+      "exp": "El art. 9.2.c) LPAC prevé que, durante esos dos meses, \"el órgano estatal competente por motivos de seguridad pública podrá acudir a la vía jurisdiccional, previo informe vinculante de la Secretaría de Estado de Seguridad\".",
+      "fuente": "Art. 9.2.c LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Para que el órgano estatal competente por motivos de seguridad pública pueda acudir a la vía jurisdiccional frente a un nuevo sistema de identificación del art. 9.2.c) de la LPAC, se requiere un informe vinculante previo de:",
+      "options": [
+        "El Consejo de Estado",
+        "La Agencia Española de Protección de Datos",
+        "La Secretaría de Estado de Seguridad",
+        "La Comisión Nacional de los Mercados y la Competencia"
+      ],
+      "correct": 2,
+      "exp": "El art. 9.2.c) LPAC exige un \"previo informe vinculante de la Secretaría de Estado de Seguridad\" para que el órgano estatal competente pueda acudir a la vía jurisdiccional.",
+      "fuente": "Art. 9.2.c LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 9.2.c) de la LPAC, ¿en qué plazo debe emitir la Secretaría de Estado de Seguridad el informe vinculante desde que se solicita?",
+      "options": [
+        "Cinco días",
+        "Un mes",
+        "Quince días",
+        "Diez días"
+      ],
+      "correct": 3,
+      "exp": "El art. 9.2.c) LPAC señala que la Secretaría de Estado de Seguridad \"deberá emitir [el informe] en el plazo de diez días desde su solicitud\".",
+      "fuente": "Art. 9.2.c LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El último párrafo del art. 9.2 de la LPAC obliga a las Administraciones Públicas a garantizar que la utilización de uno de los sistemas de las letras a) y b) sea posible:",
+      "options": [
+        "Solo en los procedimientos tramitados por la Administración General del Estado",
+        "Para todo procedimiento, aun cuando se admita para ese mismo procedimiento alguno de los previstos en la letra c)",
+        "Únicamente cuando el interesado sea una persona jurídica obligada a relacionarse electrónicamente",
+        "Solo durante el primer año de vigencia de cada sistema"
+      ],
+      "correct": 1,
+      "exp": "El último párrafo del art. 9.2 LPAC dice que las Administraciones \"deberán garantizar que la utilización de uno de los sistemas previstos en las letras a) y b) sea posible para todo procedimiento, aun cuando se admita para ese mismo procedimiento alguno de los previstos en la letra c)\".",
+      "fuente": "Art. 9.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Si una Administración admite para un procedimiento el sistema de identificación de la letra c) del art. 9.2 de la LPAC, ¿queda liberada de ofrecer los sistemas de las letras a) y b) para ese mismo procedimiento?",
+      "options": [
+        "Sí, la letra c) sustituye siempre a las letras a) y b)",
+        "Sí, salvo que el interesado lo solicite expresamente por escrito",
+        "Solo si así lo decide el órgano competente en cada caso",
+        "No, debe garantizar que también sea posible usar alguno de los sistemas de las letras a) y b)"
+      ],
+      "correct": 3,
+      "exp": "El último párrafo del art. 9.2 LPAC exige garantizar la posibilidad de usar los sistemas de las letras a) y b) para todo procedimiento, aun cuando se admita también alguno de la letra c); esta última no sustituye a las anteriores.",
+      "fuente": "Art. 9.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 9.3 de la LPAC, los recursos técnicos necesarios para la recogida, almacenamiento, tratamiento y gestión de los sistemas de identificación de la letra c) del apartado 2 deben situarse en:",
+      "options": [
+        "Territorio de cualquier Estado con acuerdo de reciprocidad",
+        "Territorio español exclusivamente",
+        "Territorio del Espacio Económico Europeo o de un país con decisión de adecuación",
+        "Territorio de la Unión Europea"
+      ],
+      "correct": 3,
+      "exp": "El art. 9.3 LPAC exige que \"los recursos técnicos necesarios para la recogida, almacenamiento, tratamiento y gestión de dichos sistemas se encuentren situados en territorio de la Unión Europea\".",
+      "fuente": "Art. 9.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 9.3 de la LPAC añade una exigencia adicional cuando los sistemas de la letra c) del apartado 2 tratan categorías especiales de datos del art. 9 del Reglamento (UE) 2016/679 (RGPD): en ese caso, los recursos técnicos deben situarse en:",
+      "options": [
+        "Territorio español",
+        "Territorio de la Unión Europea, sin más precisión",
+        "Cualquier país con nivel adecuado de protección de datos",
+        "Territorio del Estado de origen del prestador del servicio"
+      ],
+      "correct": 0,
+      "exp": "El art. 9.3 LPAC precisa que, en caso de tratarse de categorías especiales de datos del art. 9 del RGPD, los recursos técnicos deben situarse \"en territorio español\", además de en territorio de la Unión Europea con carácter general.",
+      "fuente": "Art. 9.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 9.3 de la LPAC, los datos tratados por los sistemas de identificación de la letra c) del apartado 2 deben encontrarse disponibles, en todo caso, para su acceso por parte de:",
+      "options": [
+        "Las autoridades judiciales y administrativas competentes",
+        "Cualquier Administración Pública que lo solicite motivadamente",
+        "Los colegios profesionales implicados",
+        "Las entidades prestadoras de servicios de certificación"
+      ],
+      "correct": 0,
+      "exp": "El art. 9.3 LPAC dispone que \"en cualquier caso, los datos se encontrarán disponibles para su acceso por parte de las autoridades judiciales y administrativas competentes\".",
+      "fuente": "Art. 9.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "De acuerdo con el art. 9.3 de la LPAC, los datos de los sistemas de identificación de la letra c) del apartado 2 no podrán transferirse a un tercer país u organización internacional, salvo que:",
+      "options": [
+        "Lo autorice expresamente el interesado mediante representación voluntaria",
+        "Hayan sido objeto de decisión de adecuación de la Comisión Europea o lo exija el cumplimiento de obligaciones internacionales de España",
+        "El tercer país sea miembro de la OCDE",
+        "Se trate de un Estado con embajada en España"
+      ],
+      "correct": 1,
+      "exp": "El art. 9.3 LPAC exceptúa la prohibición de transferencia internacional cuando los datos \"hayan sido objeto de una decisión de adecuación de la Comisión Europea o cuando así lo exija el cumplimiento de las obligaciones internacionales asumidas por el Reino de España\".",
+      "fuente": "Art. 9.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 9.4 de la LPAC, la aceptación por la Administración General del Estado de alguno de los sistemas de identificación electrónica servirá para acreditar frente a todas las Administraciones Públicas:",
+      "options": [
+        "La representación del interesado ante cualquier organismo",
+        "La identificación electrónica de los interesados en el procedimiento administrativo, salvo prueba en contrario",
+        "La validez de la firma electrónica avanzada no cualificada",
+        "La capacidad de obrar plena del interesado"
+      ],
+      "correct": 1,
+      "exp": "El art. 9.4 LPAC establece que \"la aceptación de alguno de estos sistemas por la Administración General del Estado servirá para acreditar frente a todas las Administraciones Públicas, salvo prueba en contrario, la identificación electrónica de los interesados en el procedimiento administrativo\".",
+      "fuente": "Art. 9.4 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El efecto acreditativo previsto en el art. 9.4 de la LPAC respecto a la aceptación de un sistema de identificación por la Administración General del Estado se establece:",
+      "options": [
+        "De forma irrebatible, sin posibilidad de prueba en contrario",
+        "Solo respecto de las Comunidades Autónomas, no de las Entidades Locales",
+        "Salvo prueba en contrario",
+        "Únicamente durante el primer año desde su aceptación"
+      ],
+      "correct": 2,
+      "exp": "El art. 9.4 LPAC matiza que ese efecto acreditativo frente a todas las Administraciones Públicas opera \"salvo prueba en contrario\", por lo que no es un efecto absoluto e irrebatible.",
+      "fuente": "Art. 9.4 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 10.1 de la LPAC, los interesados podrán firmar a través de:",
+      "options": [
+        "Cualquier medio que permita acreditar la autenticidad de la expresión de su voluntad y consentimiento, así como la integridad e inalterabilidad del documento",
+        "Exclusivamente certificados cualificados de firma electrónica",
+        "Únicamente firma manuscrita cotejada por funcionario habilitado",
+        "Solo los medios que determine reglamentariamente cada Administración"
+      ],
+      "correct": 0,
+      "exp": "El art. 10.1 LPAC dispone que \"los interesados podrán firmar a través de cualquier medio que permita acreditar la autenticidad de la expresión de su voluntad y consentimiento, así como la integridad e inalterabilidad del documento\".",
+      "fuente": "Art. 10.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Además de acreditar la autenticidad de la expresión de voluntad y consentimiento, ¿qué otra cualidad debe garantizar el medio de firma admitido según el art. 10.1 de la LPAC?",
+      "options": [
+        "La confidencialidad absoluta del contenido frente a terceros",
+        "La trazabilidad geográfica de la firma",
+        "La integridad e inalterabilidad del documento",
+        "La reversibilidad del acto administrativo firmado"
+      ],
+      "correct": 2,
+      "exp": "El art. 10.1 LPAC exige que el medio de firma acredite la autenticidad de la expresión de voluntad y consentimiento, \"así como la integridad e inalterabilidad del documento\".",
+      "fuente": "Art. 10.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 10.2 de la LPAC, los sistemas de firma electrónica enumerados en sus letras a), b) y c) se consideran válidos cuando los interesados:",
+      "options": [
+        "Sean personas jurídicas obligadas a relacionarse electrónicamente",
+        "Actúen mediante representante debidamente apoderado",
+        "Optaran por relacionarse con las Administraciones Públicas a través de medios electrónicos",
+        "Presenten la solicitud en un registro presencial"
+      ],
+      "correct": 2,
+      "exp": "El art. 10.2 LPAC introduce la enumeración de sistemas de firma señalando que se aplica \"en el caso de que los interesados optaran por relacionarse con las Administraciones Públicas a través de medios electrónicos\".",
+      "fuente": "Art. 10.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué prevé la letra a) del art. 10.2 de la LPAC como sistema válido a efectos de firma?",
+      "options": [
+        "Sistemas de sello electrónico cualificado y de sello electrónico avanzado",
+        "Sistemas de identificación mediante clave concertada",
+        "El uso exclusivo de DNI electrónico sin certificado adicional",
+        "Sistemas de firma electrónica cualificada y avanzada basados en certificados electrónicos cualificados de firma electrónica expedidos por prestadores incluidos en la Lista de confianza"
+      ],
+      "correct": 3,
+      "exp": "El art. 10.2.a) LPAC contempla los \"sistemas de firma electrónica cualificada y avanzada basados en certificados electrónicos cualificados de firma electrónica expedidos por prestadores incluidos en la «Lista de confianza de prestadores de servicios de certificación»\".",
+      "fuente": "Art. 10.2.a LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "La letra a) del art. 10.2 de la LPAC exige que el sistema de firma electrónica basado en certificados de firma electrónica sea, a la vez:",
+      "options": [
+        "Cualificado y avanzado",
+        "Básico y reconocido",
+        "Simple y verificado",
+        "Provisional y renovable anualmente"
+      ],
+      "correct": 0,
+      "exp": "El art. 10.2.a) LPAC habla de \"sistemas de firma electrónica cualificada y avanzada\", exigiendo ambas cualidades conjuntamente.",
+      "fuente": "Art. 10.2.a LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué sistema regula la letra b) del art. 10.2 de la LPAC?",
+      "options": [
+        "Sistemas de firma electrónica cualificada y avanzada basados en certificados de firma electrónica",
+        "Sistemas de sello electrónico cualificado y de sello electrónico avanzado basados en certificados electrónicos cualificados de sello electrónico expedidos por prestador incluido en la Lista de confianza",
+        "Sistemas de autenticación mediante huella biométrica",
+        "El uso de la firma manuscrita digitalizada"
+      ],
+      "correct": 1,
+      "exp": "El art. 10.2.b) LPAC recoge los \"sistemas de sello electrónico cualificado y de sello electrónico avanzado basados en certificados electrónicos cualificados de sello electrónico expedidos por prestador incluido en la «Lista de confianza de prestadores de servicios de certificación»\".",
+      "fuente": "Art. 10.2.b LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Los sistemas de sello electrónico admitidos como firma por la letra b) del art. 10.2 de la LPAC deben basarse en certificados electrónicos cualificados de:",
+      "options": [
+        "Sello electrónico",
+        "Firma electrónica",
+        "Autenticación web",
+        "Marca de tiempo (sello de tiempo)"
+      ],
+      "correct": 0,
+      "exp": "El art. 10.2.b) LPAC exige que estos sistemas se basen en \"certificados electrónicos cualificados de sello electrónico expedidos por prestador incluido en la «Lista de confianza de prestadores de servicios de certificación»\".",
+      "fuente": "Art. 10.2.b LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 10.2.c) de la LPAC, para admitir \"cualquier otro sistema\" de firma no comprendido en las letras a) y b), se exige, entre otros requisitos, un registro previo como usuario y la previa comunicación a:",
+      "options": [
+        "La Secretaría de Estado de Seguridad",
+        "La Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital",
+        "El Consejo Superior de Administración Electrónica",
+        "La Abogacía General del Estado"
+      ],
+      "correct": 1,
+      "exp": "El art. 10.2.c) LPAC exige, al igual que el art. 9.2.c), registro previo como usuario y comunicación a la Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital.",
+      "fuente": "Art. 10.2.c LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "La comunicación exigida por el art. 10.2.c) de la LPAC para admitir un nuevo sistema de firma debe acompañarse de:",
+      "options": [
+        "Un informe técnico del Instituto Nacional de Ciberseguridad",
+        "Una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente",
+        "Una fianza equivalente al coste de implantación del sistema",
+        "La autorización previa de todas las Comunidades Autónomas"
+      ],
+      "correct": 1,
+      "exp": "El art. 10.2.c) LPAC exige que la comunicación \"venga acompañada de una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente\", en los mismos términos que el art. 9.2.c).",
+      "fuente": "Art. 10.2.c LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 10.2.c) de la LPAC, ¿cuánto tiempo debe transcurrir desde la comunicación a la Secretaría General de Administración Digital antes de que un nuevo sistema de firma tenga eficacia jurídica?",
+      "options": [
+        "Dos meses",
+        "Un mes",
+        "Sesenta días hábiles",
+        "Treinta días naturales"
+      ],
+      "correct": 0,
+      "exp": "El art. 10.2.c) LPAC exige que \"de forma previa a la eficacia jurídica del sistema, habrán de transcurrir dos meses desde dicha comunicación\", igual que para los sistemas de identificación del art. 9.2.c).",
+      "fuente": "Art. 10.2.c LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Durante el plazo previo a la eficacia jurídica de un nuevo sistema de firma del art. 10.2.c) de la LPAC, el órgano estatal competente por motivos de seguridad pública puede acudir a la vía jurisdiccional previo informe vinculante de:",
+      "options": [
+        "La Agencia Española de Protección de Datos, en el plazo de un mes",
+        "El Consejo de Estado, en el plazo de quince días",
+        "La Secretaría de Estado de Seguridad, en el plazo de diez días desde su solicitud",
+        "La Secretaría General de Administración Digital, en el plazo de veinte días"
+      ],
+      "correct": 2,
+      "exp": "El art. 10.2.c) LPAC reproduce la misma exigencia que el art. 9.2.c): informe vinculante previo de la Secretaría de Estado de Seguridad, que debe emitirse en el plazo de diez días desde su solicitud.",
+      "fuente": "Art. 10.2.c LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El último párrafo del art. 10.2 de la LPAC obliga a las Administraciones Públicas a garantizar que la utilización de uno de los sistemas de las letras a) y b) sea posible:",
+      "options": [
+        "Solo para los procedimientos iniciados a instancia de parte",
+        "Únicamente para el trámite de presentación de solicitudes",
+        "Solo cuando el interesado carezca de medios electrónicos propios",
+        "Para todos los procedimientos en todos sus trámites"
+      ],
+      "correct": 3,
+      "exp": "El último párrafo del art. 10.2 LPAC exige garantizar que el uso de los sistemas de las letras a) y b) \"sea posible para todos los procedimientos en todos sus trámites\", fórmula más amplia que la del art. 9.2, referida solo a \"todo procedimiento\".",
+      "fuente": "Art. 10.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el último párrafo del art. 10.2 de la LPAC, la garantía de uso de los sistemas de firma de las letras a) y b) para todos los procedimientos en todos sus trámites se mantiene:",
+      "options": [
+        "Aun cuando adicionalmente se permita alguno de los sistemas previstos en la letra c)",
+        "Solo si el interesado no ha manifestado preferencia por otro sistema",
+        "Salvo que la Administración disponga lo contrario mediante orden ministerial",
+        "Únicamente durante la fase de instrucción del procedimiento"
+      ],
+      "correct": 0,
+      "exp": "El art. 10.2 LPAC precisa que esa garantía opera \"aun cuando adicionalmente se permita alguno de los previstos al amparo de lo dispuesto en la letra c)\".",
+      "fuente": "Art. 10.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 10.3 de la LPAC, los recursos técnicos necesarios para los sistemas de firma de la letra c) del apartado 2 deben situarse, con carácter general, en:",
+      "options": [
+        "Territorio de la Unión Europea",
+        "Territorio de cualquier Estado miembro del Consejo de Europa",
+        "Territorio español, sin excepción",
+        "Territorio de un Estado con acuerdo bilateral de reconocimiento"
+      ],
+      "correct": 0,
+      "exp": "El art. 10.3 LPAC exige, en los mismos términos que el art. 9.3, que los recursos técnicos se encuentren situados en territorio de la Unión Europea.",
+      "fuente": "Art. 10.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 10.3 de la LPAC, los datos tratados por los sistemas de firma de la letra c) del apartado 2 deben estar disponibles, en todo caso, para su acceso por parte de:",
+      "options": [
+        "Las autoridades judiciales y administrativas competentes",
+        "Los prestadores de servicios de certificación exclusivamente",
+        "Las asociaciones de consumidores y usuarios",
+        "El Tribunal de Cuentas Europeo"
+      ],
+      "correct": 0,
+      "exp": "El art. 10.3 LPAC establece que, en cualquier caso, esos datos \"se encontrarán disponibles para su acceso por parte de las autoridades judiciales y administrativas competentes\".",
+      "fuente": "Art. 10.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 10.4 de la LPAC, las Administraciones Públicas podrán admitir los sistemas de identificación contemplados en la Ley como sistema de firma cuando:",
+      "options": [
+        "Así lo disponga expresamente la normativa reguladora aplicable y permitan acreditar la autenticidad de la voluntad y consentimiento",
+        "Lo solicite el interesado sin necesidad de habilitación normativa",
+        "El procedimiento se tramite por vía de urgencia",
+        "El importe económico del procedimiento no supere una determinada cuantía"
+      ],
+      "correct": 0,
+      "exp": "El art. 10.4 LPAC dispone que, \"cuando así lo disponga expresamente la normativa reguladora aplicable\", las Administraciones podrán admitir los sistemas de identificación como sistema de firma, siempre que permitan acreditar la autenticidad de la voluntad y consentimiento.",
+      "fuente": "Art. 10.4 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Para que un sistema de identificación pueda admitirse como sistema de firma conforme al art. 10.4 de la LPAC, debe permitir acreditar:",
+      "options": [
+        "La capacidad de obrar del interesado",
+        "La autenticidad de la expresión de la voluntad y consentimiento de los interesados",
+        "La solvencia económica del interesado",
+        "La representación legal del interesado ante terceros"
+      ],
+      "correct": 1,
+      "exp": "El art. 10.4 LPAC condiciona esa admisión a que los sistemas de identificación \"permitan acreditar la autenticidad de la expresión de la voluntad y consentimiento de los interesados\".",
+      "fuente": "Art. 10.4 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 10.5 de la LPAC, cuando los interesados utilicen un sistema de firma de los previstos en dicho artículo, su identidad se entiende acreditada:",
+      "options": [
+        "Solo si además presentan copia del DNI",
+        "Mediante el propio acto de la firma",
+        "Únicamente tras una comprobación adicional por el órgano instructor",
+        "Cuando lo confirme expresamente la Secretaría General de Administración Digital"
+      ],
+      "correct": 1,
+      "exp": "El art. 10.5 LPAC dice que \"cuando los interesados utilicen un sistema de firma de los previstos en este artículo, su identidad se entenderá ya acreditada mediante el propio acto de la firma\".",
+      "fuente": "Art. 10.5 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "La regla del art. 10.5 de la LPAC, según la cual la identidad del interesado se entiende ya acreditada por el propio acto de la firma, implica que:",
+      "options": [
+        "Es necesario un trámite de identificación previo e independiente en todo caso",
+        "La firma solo acredita identidad si es manuscrita",
+        "No es necesario un trámite adicional de identificación cuando ya se ha utilizado un sistema de firma válido conforme al art. 10",
+        "La identidad solo queda acreditada si el órgano competente lo ratifica expresamente"
+      ],
+      "correct": 2,
+      "exp": "Al establecer que la identidad se entiende ya acreditada mediante el propio acto de la firma, el art. 10.5 LPAC evita exigir un trámite de identificación separado cuando ya se ha usado un sistema de firma válido.",
+      "fuente": "Art. 10.5 LPAC",
+      "confianza": "alta"
+    }
+  ]
+}
