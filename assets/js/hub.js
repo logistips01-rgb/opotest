@@ -41,7 +41,12 @@
     opos.forEach(o=>{
       const t = totals(states[o.slug]);
       const pct = t.seen ? Math.round((t.correct/t.seen)*100) : null;
-      const total = counts[o.slug] != null ? counts[o.slug] : o.preguntas;
+      // El recuento cacheado solo se actualiza al abrir esa oposición (ver
+      // quiz.js), así que puede quedarse atrás mientras el banco crece con
+      // la campaña de ampliación. o.preguntas (catalog.js) siempre refleja
+      // el total real en el momento del commit, así que nunca debe perder
+      // frente a un caché más viejo.
+      const total = Math.max(counts[o.slug] || 0, o.preguntas);
       const enPreparacion = total < 200;
       html += `
         <button class="opo-card" data-slug="${o.slug}" style="--card-color:${o.color}">
