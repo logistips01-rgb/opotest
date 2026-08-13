@@ -9568,6 +9568,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Letra c)",
       "Letra a)",
+      "Letra b)",
       "Letra d)"
     ],
     "correct": 0,
@@ -9578,11 +9579,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Según el art. 9.2 del TREBEP, el ejercicio de las funciones que impliquen participación directa o indirecta en el ejercicio de las potestades públicas corresponde:",
     "options": [
+      "Al personal eventual designado por la autoridad correspondiente",
       "Indistintamente a funcionarios y personal laboral",
       "Exclusivamente a los funcionarios públicos",
       "Al personal directivo profesional"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 9.2 dispone que el ejercicio de esas funciones corresponde exclusivamente a los funcionarios públicos, en los términos que establezca la ley de desarrollo de cada Administración.",
     "fuente": "Art. 9.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -9591,10 +9593,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "El art. 9.2 del TREBEP reserva en todo caso a los funcionarios públicos, además de las potestades públicas, la salvaguardia de:",
     "options": [
       "Los intereses particulares de los ciudadanos",
+      "Los intereses corporativos de los sindicatos representativos",
       "Los intereses de las entidades colaboradoras",
       "Los intereses generales del Estado y de las Administraciones Públicas"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 9.2 se refiere a la participación en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales del Estado y de las Administraciones Públicas.",
     "fuente": "Art. 9.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -9604,7 +9607,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "La ley de desarrollo de cada Administración Pública",
       "Un reglamento estatal único",
-      "Los convenios colectivos aplicables"
+      "Los convenios colectivos aplicables",
+      "Los Estatutos de Autonomía de cada Comunidad Autónoma"
     ],
     "correct": 0,
     "exp": "El propio art. 9.2 remite la determinación de esas funciones a la ley de desarrollo de cada Administración Pública.",
@@ -9616,7 +9620,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "La existencia de plazas vacantes sin cobertura posible",
       "La sustitución transitoria de los titulares, durante el tiempo estrictamente necesario",
-      "El exceso o acumulación de tareas"
+      "El exceso o acumulación de tareas",
+      "La ejecución de programas de carácter temporal, que no podrán tener una duración superior a tres años"
     ],
     "correct": 1,
     "exp": "El art. 10.1.b) contempla la sustitución transitoria de los titulares, durante el tiempo estrictamente necesario, como causa de nombramiento de funcionario interino.",
@@ -9626,11 +9631,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Conforme al art. 10.1.c) del TREBEP, la ejecución de programas de carácter temporal como causa de nombramiento de interino tiene una duración máxima de:",
     "options": [
+      "Dos años, ampliables hasta seis meses más",
       "Nueve meses, ampliables a doce",
       "Un año, sin posibilidad de ampliación",
       "Tres años, ampliables hasta doce meses más por las leyes de Función Pública"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 10.1.c) fija un máximo de tres años, ampliable hasta doce meses más por las leyes de Función Pública que se dicten en desarrollo del Estatuto.",
     "fuente": "Art. 10.1.c) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -9640,7 +9646,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Dieciocho meses",
       "Doce meses",
-      "Veinticuatro meses"
+      "Veinticuatro meses",
+      "Treinta y seis meses"
     ],
     "correct": 0,
     "exp": "El art. 10.1.d) señala un plazo máximo de nueve meses dentro de un periodo de dieciocho meses.",
@@ -9652,6 +9659,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Confidencialidad",
       "Celeridad",
+      "Transparencia",
       "Antigüedad"
     ],
     "correct": 1,
@@ -9663,10 +9671,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "De acuerdo con el art. 10.2 del TREBEP, el nombramiento derivado de los procedimientos de selección de personal interino:",
     "options": [
       "Da lugar automáticamente a la condición de funcionario de carrera tras dos años",
+      "Da lugar a la condición de personal laboral fijo tras cinco años de servicios",
       "Da lugar a dicha condición si el interino supera una evaluación de desempeño",
       "En ningún caso dará lugar al reconocimiento de la condición de funcionario de carrera"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 10.2 establece expresamente que ese nombramiento en ningún caso dará lugar al reconocimiento de la condición de funcionario de carrera.",
     "fuente": "Art. 10.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -9676,6 +9685,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "La cobertura reglada del puesto por personal funcionario de carrera",
       "La jubilación anticipada del interino",
+      "La finalización de la causa que dio lugar a su nombramiento",
       "La solicitud voluntaria del propio interino"
     ],
     "correct": 0,
@@ -9686,11 +9696,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Conforme al art. 10.3.b) del TREBEP, es causa de finalización de oficio de la interinidad:",
     "options": [
+      "La finalización del plazo autorizado expresamente recogido en su nombramiento",
       "El traslado voluntario a otra Administración",
       "Las razones organizativas que den lugar a la supresión o amortización de los puestos asignados",
       "La superación de un curso de formación"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 10.3.b) recoge las razones organizativas que den lugar a la supresión o a la amortización de los puestos asignados.",
     "fuente": "Art. 10.3.b) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -9699,10 +9710,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Según el art. 10.3.c) y d) del TREBEP, son también causas de finalización de la interinidad, respectivamente:",
     "options": [
       "La jubilación forzosa y la incapacidad permanente",
+      "La cobertura reglada del puesto y las razones organizativas de amortización",
       "El cambio de puesto de trabajo y la movilidad geográfica",
       "La finalización del plazo autorizado en el nombramiento y la finalización de la causa que dio lugar al nombramiento"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 10.3.c) y d) prevén la finalización del plazo autorizado expresamente en el nombramiento y la finalización de la causa que dio lugar al nombramiento.",
     "fuente": "Art. 10.3.c) y d) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -9712,7 +9724,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Al artículo 63",
       "Al artículo 70",
-      "Al artículo 9.2"
+      "Al artículo 9.2",
+      "Al artículo 55"
     ],
     "correct": 0,
     "exp": "El art. 10.3 dispone que la finalización de oficio opera por las causas que enumera, 'además de por las previstas en el artículo 63'.",
@@ -9724,6 +9737,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Personal laboral fijo",
       "Personal funcionario de carrera, salvo que el proceso selectivo quede desierto",
+      "Personal directivo profesional nombrado por el órgano competente",
       "Personal eventual con carácter transitorio"
     ],
     "correct": 1,
@@ -9735,10 +9749,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Conforme al art. 10.4 del TREBEP, ¿qué mecanismos deben usarse para cubrir las plazas vacantes desempeñadas por funcionario interino del art. 10.1.a)?",
     "options": [
       "Únicamente el concurso de traslados",
+      "Solo mediante oferta de empleo público en turno libre",
       "Exclusivamente la promoción interna",
       "Cualquiera de los mecanismos de provisión o movilidad previstos en la normativa de cada Administración Pública"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 10.4 exige que esas plazas sean objeto de cobertura mediante cualquiera de los mecanismos de provisión o movilidad previstos en la normativa de cada Administración Pública.",
     "fuente": "Art. 10.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -9748,7 +9763,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Sin que dé lugar a compensación económica",
       "Compensado económicamente en todo caso",
-      "Compensado solo si supera los cinco años de servicio"
+      "Compensado solo si supera los cinco años de servicio",
+      "Compensado con una indemnización equivalente a un mes por año trabajado"
     ],
     "correct": 0,
     "exp": "El art. 10.4 señala que, en ese supuesto excepcional, el interino podrá permanecer hasta la resolución de la convocatoria, sin que su cese dé lugar a compensación económica.",
@@ -9758,11 +9774,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Según el art. 10.5 del TREBEP, al personal funcionario interino le será aplicable el régimen general del personal funcionario de carrera, salvo:",
     "options": [
+      "Las normas sobre jornada y horario de trabajo",
       "Los derechos económicos básicos",
       "Aquellos derechos inherentes a la condición de funcionario de carrera",
       "El régimen disciplinario"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 10.5 aplica al interino el régimen general del funcionario de carrera en cuanto sea adecuado a su condición temporal, salvo los derechos inherentes a la condición de funcionario de carrera.",
     "fuente": "Art. 10.5 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -9771,10 +9788,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "El art. 10.5 del TREBEP condiciona la aplicación del régimen general de carrera al personal interino a que sea adecuado a la naturaleza de su condición temporal y al carácter:",
     "options": [
       "Provisional y revisable de su plaza",
+      "Discrecional y político de su designación",
       "Voluntario de su cese",
       "Extraordinario y urgente de su nombramiento"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 10.5 se refiere expresamente al carácter extraordinario y urgente del nombramiento del interino.",
     "fuente": "Art. 10.5 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -9784,7 +9802,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Por escrito",
       "Verbalmente ante testigos",
-      "Mediante acta administrativa"
+      "Mediante acta administrativa",
+      "Mediante escritura pública notarial"
     ],
     "correct": 0,
     "exp": "El art. 11.1 exige que el contrato de trabajo del personal laboral se formalice por escrito.",
@@ -9794,11 +9813,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Conforme al art. 11.2 del TREBEP, ¿a qué leyes corresponde establecer los criterios para determinar qué puestos pueden ser desempeñados por personal laboral?",
     "options": [
+      "A los reglamentos internos de cada organismo autónomo",
       "A los convenios colectivos sectoriales",
       "A las leyes de Función Pública que se dicten en desarrollo del Estatuto",
       "A los estatutos de autonomía"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 11.2 atribuye a las leyes de Función Pública que se dicten en desarrollo del Estatuto establecer esos criterios.",
     "fuente": "Art. 11.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -9807,10 +9827,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "El art. 11.2 del TREBEP exige que los criterios sobre puestos desempeñables por personal laboral respeten en todo caso lo establecido en:",
     "options": [
       "El artículo 10.1",
+      "El artículo 11.3",
       "El artículo 8.2",
       "El artículo 9.2"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 11.2 remite al respeto de lo establecido en el artículo 9.2, es decir, las funciones reservadas a funcionarios públicos.",
     "fuente": "Art. 11.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -9820,7 +9841,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Igualdad, mérito y capacidad",
       "Antigüedad, jerarquía y eficacia",
-      "Confianza, idoneidad y discrecionalidad"
+      "Confianza, idoneidad y discrecionalidad",
+      "Publicidad, transparencia y objetividad"
     ],
     "correct": 0,
     "exp": "El art. 11.3 establece que los procedimientos de selección del personal laboral se rigen por los principios de igualdad, mérito y capacidad.",
@@ -9830,11 +9852,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Conforme al art. 11.3 del TREBEP, en el caso del personal laboral temporal, además de igualdad, mérito y capacidad, la selección se rige igualmente por el principio de:",
     "options": [
+      "Antigüedad",
       "Movilidad",
       "Celeridad",
       "Rotación"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 11.3 añade que la selección del personal laboral temporal se rige igualmente por el principio de celeridad, para atender razones justificadas de necesidad y urgencia.",
     "fuente": "Art. 11.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -9843,10 +9866,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Según el art. 11.3 del TREBEP, la selección del personal laboral temporal, regida por el principio de celeridad, tiene por finalidad atender razones expresamente justificadas de:",
     "options": [
       "Eficiencia presupuestaria",
+      "Interés general y proporcionalidad",
       "Renovación generacional",
       "Necesidad y urgencia"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 11.3 indica que la finalidad es atender razones expresamente justificadas de necesidad y urgencia.",
     "fuente": "Art. 11.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -9856,6 +9880,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Los créditos presupuestarios consignados para este fin",
       "Un fondo específico de confianza política",
+      "Las subvenciones finalistas del Estado",
       "Las tasas administrativas del organismo"
     ],
     "correct": 0,
@@ -9866,11 +9891,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Conforme al art. 12.2 del TREBEP, ¿quién determina el número máximo de personal eventual?",
     "options": [
+      "La Comisión de Coordinación del Empleo Público",
       "El Ministerio de Hacienda en exclusiva",
       "Los respectivos órganos de gobierno",
       "El Congreso de los Diputados"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 12.2 dispone que el número máximo se establecerá por los respectivos órganos de gobierno.",
     "fuente": "Art. 12.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -9879,10 +9905,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Según el art. 12.2 del TREBEP, el número máximo de personal eventual y sus condiciones retributivas tendrán carácter:",
     "options": [
       "Reservadas",
+      "Provisionales, sujetas a revisión anual",
       "Confidenciales",
       "Públicas"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 12.2 establece que ese número y las condiciones retributivas serán públicas.",
     "fuente": "Art. 12.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -9892,6 +9919,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "A las leyes de Función Pública que se dicten en desarrollo del Estatuto",
       "A los reglamentos internos de cada unidad",
+      "Al Consejo de Ministros, mediante Real Decreto, en todo caso",
       "A la Ley de Presupuestos Generales del Estado exclusivamente"
     ],
     "correct": 0,
@@ -9904,7 +9932,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Reglados mediante concurso",
       "Libres",
-      "Sujetos a informe previo del comité de empresa"
+      "Sujetos a informe previo del comité de empresa",
+      "Sujetos a autorización previa del Ministerio de Hacienda"
     ],
     "correct": 1,
     "exp": "El art. 12.3 establece que tanto el nombramiento como el cese del personal eventual serán libres.",
@@ -9914,11 +9943,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Conforme al art. 12.3 del TREBEP, el cese del personal eventual tendrá lugar, en todo caso, cuando se produzca:",
     "options": [
+      "La finalización del ejercicio presupuestario en curso",
       "El nombramiento de un nuevo secretario general",
       "La aprobación de los presupuestos anuales",
       "El de la autoridad a la que se preste la función de confianza o asesoramiento"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 12.3 vincula el cese al de la autoridad a la que se preste la función de confianza o asesoramiento especial.",
     "fuente": "Art. 12.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -9927,6 +9957,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Según el art. 12.5 del TREBEP, al personal eventual le será aplicable, en lo que sea adecuado a la naturaleza de su condición, el régimen general de:",
     "options": [
       "Los funcionarios de carrera",
+      "El personal directivo profesional",
       "Los funcionarios interinos",
       "El personal laboral fijo"
     ],
@@ -9938,11 +9969,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Según el encabezado del art. 13 del TREBEP, además del Gobierno, ¿quién puede establecer el régimen jurídico específico del personal directivo?",
     "options": [
+      "Los consejos de administración de las entidades públicas empresariales",
       "Los ayuntamientos de gran población exclusivamente",
       "Los órganos de gobierno de las comunidades autónomas",
       "Las diputaciones provinciales"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 13 atribuye esa facultad al Gobierno y a los órganos de gobierno de las comunidades autónomas.",
     "fuente": "Art. 13 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -9952,7 +9984,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "El propio TREBEP de forma cerrada",
       "Los estatutos de los sindicatos",
-      "Las normas específicas de cada Administración"
+      "Las normas específicas de cada Administración",
+      "El convenio colectivo único aplicable al personal directivo"
     ],
     "correct": 2,
     "exp": "El art. 13.1 remite a las normas específicas de cada Administración la definición de las funciones directivas profesionales.",
@@ -9963,6 +9996,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Conforme al art. 13.2 del TREBEP, la designación del personal directivo atenderá a principios de mérito y capacidad y a criterios de idoneidad, llevándose a cabo mediante procedimientos que garanticen:",
     "options": [
       "La publicidad y concurrencia",
+      "La reserva y la confidencialidad del proceso",
       "La confidencialidad y celeridad",
       "La antigüedad y jerarquía"
     ],
@@ -9976,6 +10010,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Antigüedad en el puesto directivo",
       "Control de resultados en relación con los objetivos fijados",
+      "La antigüedad acumulada en la Administración",
       "Valoración sindical periódica"
     ],
     "correct": 1,
@@ -9986,11 +10021,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Conforme al art. 13.4 del TREBEP, la determinación de las condiciones de empleo del personal directivo:",
     "options": [
+      "Se determinará en todo caso mediante decreto del Consejo de Ministros",
       "Se negociará obligatoriamente con los sindicatos",
       "Se fijará por convenio colectivo sectorial",
       "No tendrá la consideración de materia objeto de negociación colectiva"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 13.4 excluye expresamente esas condiciones de empleo de la negociación colectiva a los efectos de la ley.",
     "fuente": "Art. 13.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10000,7 +10036,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "La relación laboral de carácter especial de alta dirección",
       "El régimen laboral común ordinario",
-      "El régimen estatutario de los funcionarios de carrera"
+      "El régimen estatutario de los funcionarios de carrera",
+      "El régimen de los altos cargos de la Administración General del Estado"
     ],
     "correct": 0,
     "exp": "El art. 13.4 dispone que el personal directivo laboral se somete a la relación laboral de carácter especial de alta dirección.",
@@ -10012,7 +10049,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Ambos cesan siempre de forma libre y sin causa",
       "El interino cesa por causas tasadas de oficio, mientras que el eventual cesa libremente",
-      "Ambos requieren resolución motivada con audiencia previa"
+      "Ambos requieren resolución motivada con audiencia previa",
+      "El eventual cesa por resolución motivada con audiencia previa, mientras que el interino cesa libremente"
     ],
     "correct": 1,
     "exp": "El art. 10.3 enumera causas tasadas para la finalización de oficio de la interinidad, mientras que el art. 12.3 declara libre el cese del personal eventual.",
@@ -10023,10 +10061,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Comparando los arts. 10.5 y 12.5 del TREBEP, ambos preceptos aplican de forma supletoria, en lo adecuado a la naturaleza de la condición respectiva, el régimen general de:",
     "options": [
       "El personal laboral fijo",
+      "El personal eventual de otras Administraciones Públicas",
       "El personal directivo profesional",
       "Los funcionarios de carrera"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "Tanto el art. 10.5 (interinos) como el art. 12.5 (eventuales) remiten, en lo adecuado, al régimen general del personal funcionario de carrera.",
     "fuente": "Arts. 10.5 y 12.5 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10036,7 +10075,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "El principio de celeridad",
       "El principio de jerarquía",
-      "El principio de rotación"
+      "El principio de rotación",
+      "El principio de antigüedad"
     ],
     "correct": 0,
     "exp": "El art. 10.2 incluye la celeridad entre los principios de selección de los interinos, y el art. 11.3 lo añade específicamente para el personal laboral temporal.",
@@ -10052,6 +10092,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "La determinación de sus condiciones de trabajo.",
       "La fijación unilateral de la relación de puestos de trabajo de cada Administración.",
+      "La fijación de las cuantías retributivas globales del conjunto de las Administraciones Públicas.",
       "La elección directa de los titulares de los órganos directivos de la Administración."
     ],
     "correct": 0,
@@ -10064,7 +10105,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "El derecho a suscribir convenios colectivos con eficacia general para todo el personal, funcionario y laboral, del conjunto de las Administraciones Públicas.",
       "El derecho a negociar la determinación de condiciones de trabajo de los empleados de la Administración Pública.",
-      "La facultad de las organizaciones sindicales de vetar las decisiones de organización de cada Administración Pública."
+      "La facultad de las organizaciones sindicales de vetar las decisiones de organización de cada Administración Pública.",
+      "El derecho a concertar convenios colectivos con fuerza de ley entre el Estado y las comunidades autónomas."
     ],
     "correct": 1,
     "exp": "El art. 31.2 TREBEP define la negociación colectiva, a los efectos de la ley, como el derecho a negociar la determinación de condiciones de trabajo de los empleados de la Administración Pública.",
@@ -10075,10 +10117,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Conforme al artículo 31.3 TREBEP, por «representación», a los efectos de esta ley, se entiende:",
     "options": [
       "El derecho de cada empleado público a ser recibido individualmente por el titular del órgano de personal.",
+      "El derecho de cada funcionario a formar parte simultáneamente de varias Juntas de Personal.",
       "La facultad de las organizaciones sindicales de designar directamente a los Delegados de Personal sin proceso electoral.",
       "La facultad de elegir representantes y constituir órganos unitarios a través de los cuales se instrumente la interlocución entre las Administraciones Públicas y sus empleados."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 31.3 TREBEP define la representación como la facultad de elegir representantes y constituir órganos unitarios de interlocución entre las Administraciones Públicas y sus empleados.",
     "fuente": "Art. 31.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10088,6 +10131,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "A través de las organizaciones sindicales, en los órganos de control y seguimiento de las entidades u organismos que legalmente se determine.",
       "A través de los partidos políticos, en la elaboración de los presupuestos de cada Administración Pública.",
+      "A través de los Delegados de Personal, en la elaboración de los anteproyectos de ley de función pública.",
       "Directamente y a título individual, en los consejos de administración de las entidades públicas empresariales."
     ],
     "correct": 0,
@@ -10098,11 +10142,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "El artículo 31.6 TREBEP legitima para la interposición de recursos en vía administrativa y jurisdiccional contra las resoluciones de los órganos de selección:",
     "options": [
+      "A los propios órganos de selección, de oficio, cuando detecten irregularidades en su actuación.",
       "A cualquier ciudadano que acredite interés legítimo en el proceso selectivo.",
       "A las organizaciones sindicales más representativas en el ámbito de la Función Pública.",
       "Exclusivamente al Ministerio Fiscal, a instancia de los aspirantes perjudicados."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 31.6 TREBEP legitima a las organizaciones sindicales más representativas en el ámbito de la Función Pública para recurrir en vía administrativa y jurisdiccional las resoluciones de los órganos de selección.",
     "fuente": "Art. 31.6 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10111,10 +10156,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Según el artículo 32.1 TREBEP, la negociación colectiva, representación y participación de los empleados públicos con contrato laboral se rige por:",
     "options": [
       "Exclusivamente por las normas de este capítulo, sin remisión alguna a la legislación laboral común.",
+      "Los mismos Pactos y Acuerdos alcanzados para el personal funcionario, sin distinción alguna.",
       "Los convenios colectivos sectoriales estatales, con exclusión de cualquier norma estatutaria.",
       "La legislación laboral, sin perjuicio de los preceptos del capítulo que expresamente les son de aplicación."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 32.1 TREBEP somete la negociación, representación y participación del personal laboral a la legislación laboral, sin perjuicio de los preceptos del capítulo que expresamente le sean de aplicación.",
     "fuente": "Art. 32.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10124,7 +10170,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Excepcionalmente y por causa grave de interés público derivada de una alteración sustancial de las circunstancias económicas, en la medida estrictamente necesaria.",
       "En cualquier momento y sin necesidad de motivación, mediante simple resolución del órgano de personal competente.",
-      "Únicamente cuando así lo solicite la mayoría de las organizaciones sindicales firmantes."
+      "Únicamente cuando así lo solicite la mayoría de las organizaciones sindicales firmantes.",
+      "Cuando así se determine en la Ley de Presupuestos Generales del Estado de cada ejercicio, con carácter automático."
     ],
     "correct": 0,
     "exp": "El art. 32.2 TREBEP permite la suspensión o modificación excepcional, por causa grave de interés público derivada de alteración sustancial de las circunstancias económicas, en la medida estrictamente necesaria para salvaguardar el interés público.",
@@ -10134,11 +10181,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "El artículo 33.1 TREBEP sujeta la negociación colectiva de condiciones de trabajo de los funcionarios públicos a los principios de:",
     "options": [
+      "Legalidad, cobertura presupuestaria, jerarquía normativa, publicidad y eficacia.",
       "Legalidad, jerarquía normativa, eficacia, economía y celeridad.",
       "Legalidad, cobertura presupuestaria, obligatoriedad, buena fe negocial, publicidad y transparencia.",
       "Igualdad, mérito, capacidad, publicidad y transparencia."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 33.1 TREBEP sujeta la negociación colectiva de los funcionarios a los principios de legalidad, cobertura presupuestaria, obligatoriedad, buena fe negocial, publicidad y transparencia.",
     "fuente": "Art. 33.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10147,10 +10195,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Conforme al artículo 33.1 TREBEP, además de los representantes de la Administración, están legitimados para estar presentes en las Mesas de Negociación las organizaciones sindicales más representativas a nivel estatal y de comunidad autónoma, así como:",
     "options": [
       "Los sindicatos que cuenten con al menos cien afiliados en la unidad electoral correspondiente.",
+      "Los sindicatos que acrediten un mínimo de quinientos afiliados cotizantes en el ámbito territorial correspondiente.",
       "Cualquier sindicato legalmente constituido que lo solicite, con independencia de su resultado electoral.",
       "Los sindicatos que hayan obtenido el 10 por 100 o más de los representantes en las elecciones para Delegados y Juntas de Personal en la unidad electoral correspondiente."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 33.1 TREBEP añade a la legitimación de los sindicatos más representativos la de aquellos que hayan obtenido el 10 por 100 o más de los representantes en las elecciones a Delegados y Juntas de Personal en las unidades electorales de su ámbito.",
     "fuente": "Art. 33.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10160,6 +10209,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Requieren la ratificación de los órganos de gobierno o administrativos con competencia para ello.",
       "Son directamente aplicables sin necesidad de ratificación posterior.",
+      "Deben ser aprobados previamente por el Ministerio de Hacienda antes de su firma.",
       "Deben ser sometidos a referéndum entre el conjunto del personal afectado."
     ],
     "correct": 0,
@@ -10172,7 +10222,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "La Administración General del Estado exclusivamente, con Mesas Sectoriales delegadas en el resto de Administraciones.",
       "La Administración General del Estado, cada una de las Comunidades Autónomas, las ciudades de Ceuta y Melilla y las Entidades Locales.",
-      "Cada Ministerio y cada Consejería de las Comunidades Autónomas por separado."
+      "Cada Ministerio y cada Consejería de las Comunidades Autónomas por separado.",
+      "La Administración General del Estado y las Diputaciones Provinciales, con exclusión de los Ayuntamientos."
     ],
     "correct": 1,
     "exp": "El art. 34.1 TREBEP constituye una Mesa General de Negociación en la AGE, en cada Comunidad Autónoma, en las ciudades de Ceuta y Melilla y en las Entidades Locales.",
@@ -10182,11 +10233,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Según el artículo 34.4 TREBEP, las Mesas Sectoriales:",
     "options": [
+      "Tienen carácter permanente y no pueden ser suprimidas una vez constituidas.",
       "Se constituyen con carácter obligatorio en todo organismo con más de cien funcionarios, sin necesidad de acuerdo previo.",
       "Sustituyen a la Mesa General de Negociación en la totalidad de las materias objeto de negociación.",
       "Podrán constituirse dependiendo de las Mesas Generales de Negociación y por acuerdo de las mismas, en atención a las condiciones específicas de trabajo o a las peculiaridades de sectores concretos de funcionarios."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 34.4 TREBEP permite constituir Mesas Sectoriales dependientes de las Mesas Generales, por acuerdo de éstas, en atención a las condiciones específicas de trabajo o a las peculiaridades de sectores concretos de funcionarios.",
     "fuente": "Art. 34.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10196,6 +10248,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "En el plazo máximo de un mes desde que la mayoría de una de las partes legitimadas lo promueva, salvo causas legales o pactadas que lo impidan.",
       "En el plazo máximo de quince días desde la constitución de la Mesa correspondiente.",
+      "En el plazo máximo de dos meses desde la publicación de la convocatoria de negociación en el Boletín Oficial correspondiente.",
       "Al inicio del ejercicio presupuestario siguiente a la petición formulada por cualquiera de las partes."
     ],
     "correct": 0,
@@ -10208,7 +10261,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Dos tercios de los miembros de los órganos unitarios de representación en el ámbito de que se trate.",
       "La mayoría absoluta de los miembros de los órganos unitarios de representación en el ámbito de que se trate.",
-      "El 10 por 100 de los representantes elegidos en el conjunto de las Administraciones Públicas."
+      "El 10 por 100 de los representantes elegidos en el conjunto de las Administraciones Públicas.",
+      "Las dos terceras partes de los sindicatos legalmente constituidos en el ámbito territorial correspondiente."
     ],
     "correct": 1,
     "exp": "El art. 35.1 TREBEP exige, para la válida constitución de las Mesas, que las organizaciones sindicales legitimadas representen como mínimo la mayoría absoluta de los miembros de los órganos unitarios de representación del ámbito correspondiente.",
@@ -10218,11 +10272,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "De acuerdo con el artículo 35.4 TREBEP, en las normas de desarrollo del Estatuto se establecerá la composición numérica de las Mesas correspondientes, sin que ninguna de las partes pueda superar:",
     "options": [
+      "El número de veinte miembros.",
       "El número de veintiún miembros.",
       "El número de nueve miembros.",
       "El número de quince miembros."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 35.4 TREBEP fija en quince el número máximo de miembros que puede tener cada una de las partes en las Mesas de Negociación.",
     "fuente": "Art. 35.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10232,6 +10287,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "La Administración General del Estado.",
       "La Comunidad Autónoma de mayor población.",
+      "La Comisión Nacional de Administración Local, por delegación del Estado.",
       "La Federación Española de Municipios y Provincias."
     ],
     "correct": 0,
@@ -10244,7 +10300,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "La aprobación definitiva de las relaciones de puestos de trabajo de cada Comunidad Autónoma.",
       "El incremento global de las retribuciones del personal al servicio de las Administraciones Públicas que corresponda incluir en el Proyecto de Ley de Presupuestos Generales del Estado de cada año.",
-      "El régimen disciplinario aplicable al personal funcionario de cada Entidad Local."
+      "El régimen disciplinario aplicable al personal funcionario de cada Entidad Local.",
+      "La determinación de la estructura orgánica de los Ministerios y Consejerías."
     ],
     "correct": 1,
     "exp": "El art. 36.2 TREBEP reserva específicamente a esta Mesa el incremento global de las retribuciones que corresponda incluir en el Proyecto de Ley de Presupuestos Generales del Estado de cada año.",
@@ -10254,11 +10311,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "El artículo 36.3 TREBEP prevé la constitución de una Mesa General de Negociación en cada Administración Pública para negociar:",
     "options": [
+      "Únicamente las materias retributivas comunes al personal funcionario, con exclusión del personal laboral y estatutario.",
       "Exclusivamente las materias que afecten al personal laboral, quedando el personal funcionario excluido de esta Mesa.",
       "Únicamente las materias retributivas del personal directivo de esa Administración.",
       "Todas aquellas materias y condiciones de trabajo comunes al personal funcionario, estatutario y laboral de esa Administración."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 36.3 TREBEP constituye en cada Administración una Mesa General de Negociación para las materias y condiciones de trabajo comunes al personal funcionario, estatutario y laboral.",
     "fuente": "Art. 36.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10267,6 +10325,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Entre las materias objeto de negociación que enumera el artículo 37.1 TREBEP figura:",
     "options": [
       "Las que afecten a las condiciones de trabajo y a las retribuciones de los funcionarios, cuya regulación exija norma con rango de ley.",
+      "La composición y funcionamiento interno de los Consejos de Ministros y Consejos de Gobierno.",
       "La regulación y determinación concreta de los sistemas y procedimientos de acceso al empleo público.",
       "Los poderes de dirección y control propios de la relación jerárquica."
     ],
@@ -10280,7 +10339,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "La estructura orgánica de las unidades administrativas y su denominación.",
       "Calendario laboral, horarios, jornadas, vacaciones, permisos, movilidad funcional y geográfica, en aquellos aspectos que afecten a condiciones de trabajo de los empleados públicos.",
-      "El procedimiento de formación de los actos y disposiciones administrativas."
+      "El procedimiento de formación de los actos y disposiciones administrativas.",
+      "La regulación del ejercicio de los derechos de los ciudadanos y usuarios de los servicios públicos."
     ],
     "correct": 1,
     "exp": "El art. 37.1.m) TREBEP incluye entre las materias negociables el calendario laboral, horarios, jornadas, vacaciones, permisos y movilidad funcional y geográfica, en lo que afecte a condiciones de trabajo.",
@@ -10290,11 +10350,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "El artículo 37.2.a) TREBEP excluye de la obligatoriedad de la negociación:",
     "options": [
+      "Los criterios generales de acción social.",
       "Los criterios generales sobre ofertas de empleo público.",
       "Las propuestas sobre derechos sindicales y de participación.",
       "Las decisiones de las Administraciones Públicas que afecten a sus potestades de organización."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 37.2.a) TREBEP excluye de la negociación obligatoria las decisiones que afecten a las potestades de organización, sin perjuicio de negociar sus repercusiones sobre condiciones de trabajo.",
     "fuente": "Art. 37.2.a) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10304,6 +10365,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Su aprobación expresa y formal por dichos órganos.",
       "Su publicación en el Boletín Oficial correspondiente, sin necesidad de aprobación adicional.",
+      "El visto bueno previo de la Abogacía del Estado, con carácter vinculante.",
       "El voto favorable de dos tercios de los miembros de la Mesa de Negociación que los suscribió."
     ],
     "correct": 0,
@@ -10316,7 +10378,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Será directamente aplicable al personal incluido en su ámbito desde el momento de su ratificación.",
       "Carecerá de eficacia directa, si bien el órgano de gobierno con iniciativa legislativa deberá elaborar, aprobar y remitir a las Cortes o asambleas legislativas el correspondiente proyecto de ley.",
-      "Quedará automáticamente incorporado a la siguiente Ley de Presupuestos, sin tramitación legislativa específica."
+      "Quedará automáticamente incorporado a la siguiente Ley de Presupuestos, sin tramitación legislativa específica.",
+      "Producirá eficacia directa provisional hasta la aprobación de la ley correspondiente, momento en que quedará derogado."
     ],
     "correct": 1,
     "exp": "El art. 38.3 TREBEP priva de eficacia directa a los Acuerdos sobre materias de reserva de ley, si bien obliga al órgano de gobierno con iniciativa legislativa a tramitar el proyecto de ley conforme al contenido acordado.",
@@ -10326,11 +10389,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "El artículo 38.4 TREBEP exige que los Pactos y Acuerdos determinen, entre otros extremos:",
     "options": [
+      "El régimen de responsabilidad patrimonial de la Administración frente a terceros derivada de su incumplimiento.",
       "La composición numérica exacta de la Comisión Paritaria de seguimiento, con indicación de sus suplentes.",
       "El régimen sancionador aplicable en caso de incumplimiento por cualquiera de las partes.",
       "Las partes que los conciertan, el ámbito personal, funcional, territorial y temporal, y la forma, plazo de preaviso y condiciones de denuncia."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 38.4 TREBEP obliga a que los Pactos y Acuerdos determinen las partes que los conciertan, su ámbito personal, funcional, territorial y temporal, así como forma, plazo de preaviso y condiciones de denuncia.",
     "fuente": "Art. 38.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10340,6 +10404,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Comisiones Paritarias, con la composición y funciones que las partes determinen.",
       "Juntas Arbitrales, integradas exclusivamente por personal funcionario de carrera.",
+      "Tribunales Arbitrales Permanentes, designados por el Ministerio de Hacienda.",
       "Inspecciones de Servicios, dependientes del órgano de gobierno respectivo."
     ],
     "correct": 0,
@@ -10352,7 +10417,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Se extinguirán automáticamente al concluir su vigencia inicial, sin posibilidad de prórroga.",
       "Se prorrogarán de año en año si no mediara denuncia expresa de una de las partes.",
-      "Quedarán en suspenso hasta que se apruebe un nuevo Pacto o Acuerdo que los sustituya."
+      "Quedarán en suspenso hasta que se apruebe un nuevo Pacto o Acuerdo que los sustituya.",
+      "Se renovarán automáticamente por un período idéntico a su duración inicial, sin posibilidad de denuncia."
     ],
     "correct": 1,
     "exp": "El art. 38.11 TREBEP establece la prórroga anual de los Pactos y Acuerdos, salvo acuerdo en contrario, en tanto no medie denuncia expresa de una de las partes.",
@@ -10362,11 +10428,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "El artículo 39.1 TREBEP identifica como órganos específicos de representación de los funcionarios:",
     "options": [
+      "Los Comités de Seguridad y Salud y las Juntas de Personal.",
       "Los Comités de Empresa y los Delegados Sindicales.",
       "Las Mesas Sectoriales y las Comisiones Paritarias.",
       "Los Delegados de Personal y las Juntas de Personal."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 39.1 TREBEP señala como órganos específicos de representación de los funcionarios a los Delegados de Personal y a las Juntas de Personal.",
     "fuente": "Art. 39.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10376,6 +10443,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Un Delegado hasta 30 funcionarios y tres Delegados de 31 a 49 funcionarios, que actúan conjunta y mancomunadamente.",
       "Un Delegado hasta 25 funcionarios y cinco Delegados de 26 a 49 funcionarios.",
+      "Un Delegado hasta 20 funcionarios y dos Delegados de 21 a 49 funcionarios, actuando cada uno independientemente.",
       "Tres Delegados en todo caso, con independencia del número exacto de funcionarios de la unidad."
     ],
     "correct": 0,
@@ -10388,7 +10456,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "25 funcionarios.",
       "50 funcionarios.",
-      "100 funcionarios."
+      "100 funcionarios.",
+      "75 funcionarios."
     ],
     "correct": 1,
     "exp": "El art. 39.3 TREBEP exige un censo mínimo de 50 funcionarios en la unidad electoral para que se constituya una Junta de Personal.",
@@ -10398,11 +10467,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Según la escala del artículo 39.5 TREBEP, una unidad electoral con censo de entre 101 y 250 funcionarios elegirá una Junta de Personal compuesta por:",
     "options": [
+      "17 miembros.",
       "13 miembros.",
       "5 miembros.",
       "9 miembros."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 39.5 TREBEP asigna 9 miembros a la Junta de Personal en unidades electorales de entre 101 y 250 funcionarios; 13 corresponde al tramo de 251 a 500 y 5 al de 50 a 100.",
     "fuente": "Art. 39.5 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10412,6 +10482,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Ser informados de todas las sanciones impuestas por faltas muy graves.",
       "Autorizar previamente el traslado de instalaciones o la revisión de los sistemas de organización.",
+      "Autorizar previamente la concesión de permisos y vacaciones al personal de su unidad electoral.",
       "Imponer directamente las sanciones derivadas de faltas muy graves cometidas por el personal."
     ],
     "correct": 0,
@@ -10424,7 +10495,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Únicamente el Presidente de la Junta de Personal, a título individual.",
       "Las Juntas de Personal, colegiadamente por decisión mayoritaria de sus miembros, y los Delegados de Personal, mancomunadamente.",
-      "Cualquier empleado público afectado, sin necesidad de intervención de los órganos de representación."
+      "Cualquier empleado público afectado, sin necesidad de intervención de los órganos de representación.",
+      "Los sindicatos más representativos, en representación de las Juntas de Personal."
     ],
     "correct": 1,
     "exp": "El art. 40.2 TREBEP legitima a las Juntas de Personal, colegiadamente por decisión mayoritaria, y a los Delegados de Personal, mancomunadamente, para iniciar procedimientos y ejercitar acciones en el ámbito de sus funciones.",
@@ -10434,11 +10506,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Entre las garantías reconocidas a los miembros de las Juntas de Personal y a los Delegados de Personal, el artículo 41.1.c) TREBEP incluye:",
     "options": [
+      "La suspensión automática de cualquier expediente disciplinario incoado durante el ejercicio del mandato representativo.",
       "La inmunidad frente a cualquier expediente disciplinario mientras dure su mandato representativo.",
       "El derecho a ser defendidos por letrado designado por la propia Administración en cualquier procedimiento.",
       "La audiencia en los expedientes disciplinarios a que pudieran ser sometidos sus miembros durante el tiempo de su mandato y durante el año inmediatamente posterior."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 41.1.c) TREBEP garantiza la audiencia en los expedientes disciplinarios durante el mandato y el año inmediatamente posterior, sin perjuicio de la audiencia al interesado del procedimiento sancionador; no reconoce inmunidad disciplinaria.",
     "fuente": "Art. 41.1.c) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10448,6 +10521,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "15 horas.",
       "20 horas.",
+      "30 horas.",
       "35 horas."
     ],
     "correct": 0,
@@ -10460,7 +10534,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Durante toda su vida profesional, con independencia de la fecha de extinción del mandato.",
       "Ni durante la vigencia del mandato ni durante el año siguiente a su extinción, salvo que ésta se produzca por revocación o dimisión.",
-      "Únicamente durante los seis primeros meses de ejercicio del mandato representativo."
+      "Únicamente durante los seis primeros meses de ejercicio del mandato representativo.",
+      "Durante la vigencia del mandato y durante los dos años siguientes a su extinción, sin excepción alguna."
     ],
     "correct": 1,
     "exp": "El art. 41.1.e) TREBEP extiende esta garantía a todo el mandato y al año siguiente a su extinción, exceptuando la extinción por revocación o dimisión.",
@@ -10470,11 +10545,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Según el artículo 42 TREBEP, el mandato de los miembros de las Juntas de Personal y de los Delegados de Personal tendrá una duración de:",
     "options": [
+      "Tres años, sin posibilidad de reelección.",
       "Dos años, sin posibilidad de reelección inmediata.",
       "Cinco años, coincidiendo con la legislatura municipal.",
       "Cuatro años, pudiendo ser reelegidos."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 42 TREBEP fija en cuatro años la duración del mandato, con posibilidad de reelección, y su prórroga si a su término no se han promovido nuevas elecciones.",
     "fuente": "Art. 42 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10484,6 +10560,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Los sindicatos que, sin ser más representativos, hayan conseguido al menos el 10 por 100 de los representantes en el conjunto de las Administraciones Públicas.",
       "Cualquier partido político con representación parlamentaria en las Cortes Generales.",
+      "Los medios de comunicación social, en representación del interés general de los ciudadanos.",
       "El órgano de gobierno de la Administración Pública correspondiente, de oficio."
     ],
     "correct": 0,
@@ -10496,7 +10573,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Tanto las Juntas de Personal como los Delegados de Personal se elegirán mediante listas cerradas y sistema proporcional puro.",
       "Las Juntas de Personal se elegirán mediante listas cerradas a través de un sistema proporcional corregido, y los Delegados de Personal mediante listas abiertas y sistema mayoritario.",
-      "Las Juntas de Personal se elegirán por sistema mayoritario y los Delegados de Personal por sistema proporcional corregido."
+      "Las Juntas de Personal se elegirán por sistema mayoritario y los Delegados de Personal por sistema proporcional corregido.",
+      "Las Juntas de Personal se elegirán mediante listas abiertas y sistema mayoritario, y los Delegados de Personal mediante listas cerradas y sistema proporcional corregido."
     ],
     "correct": 1,
     "exp": "El art. 44.d) TREBEP distingue el sistema electoral: listas cerradas y sistema proporcional corregido para las Juntas de Personal, y listas abiertas y sistema mayoritario para los Delegados de Personal.",
@@ -10507,10 +10585,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Sobre los sistemas de solución extrajudicial de conflictos colectivos, el artículo 45.3 TREBEP dispone que la mediación:",
     "options": [
       "Solo podrá iniciarse por acuerdo previo y expreso de ambas partes, sin que ninguna pueda imponerla unilateralmente.",
+      "Los acuerdos alcanzados mediante mediación no serán susceptibles de impugnación en ningún caso.",
       "Vincula obligatoriamente a las partes desde el momento en que el mediador emite su propuesta de solución.",
       "Será obligatoria cuando lo solicite una de las partes, aunque las propuestas de solución del mediador podrán ser libremente aceptadas o rechazadas."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 45.3 TREBEP hace obligatoria la mediación cuando la solicite una de las partes, si bien las propuestas del mediador pueden ser libremente aceptadas o rechazadas por las partes.",
     "fuente": "Art. 45.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10520,6 +10599,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Los empleados públicos de las Administraciones respectivas en número no inferior al 40 por 100 del colectivo convocado.",
       "Los empleados públicos en número no inferior al 25 por 100 del colectivo convocado.",
+      "Los empleados públicos en número no inferior al 30 por 100 del colectivo convocado, previa autorización de la organización sindical convocante.",
       "Cualquier grupo de al menos diez empleados públicos, con independencia del tamaño del colectivo convocado."
     ],
     "correct": 0,
@@ -10535,6 +10615,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Según el art. 52 TREBEP, ¿con qué deben desempeñar los empleados públicos las tareas que tengan asignadas?",
     "options": [
       "Con diligencia",
+      "Con subordinación jerárquica estricta.",
       "Con premura",
       "Con discrecionalidad"
     ],
@@ -10546,11 +10627,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "El art. 52 TREBEP señala que los empleados públicos deben velar por los intereses generales con sujeción y observancia de...",
     "options": [
+      "los principios generales del Derecho Administrativo y la jurisprudencia constitucional.",
       "los Estatutos de la función pública y sus reglamentos",
       "la Constitución y el resto del ordenamiento jurídico",
       "el Código de Conducta y las normas internas de cada Administración"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El precepto exige velar por los intereses generales 'con sujeción y observancia de la Constitución y del resto del ordenamiento jurídico'.",
     "fuente": "Art. 52 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10559,10 +10641,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Según el art. 52 TREBEP, el Código de Conducta de los empleados públicos está configurado por...",
     "options": [
       "los principios constitucionales de mérito y capacidad",
+      "los acuerdos de negociación colectiva suscritos en cada Administración.",
       "las normas deontológicas de cada cuerpo funcionarial",
       "los principios éticos y de conducta regulados en los artículos siguientes"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 52 indica que los principios enumerados 'inspiran el Código de Conducta de los empleados públicos configurado por los principios éticos y de conducta regulados en los artículos siguientes' (arts. 53 y 54).",
     "fuente": "Art. 52 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10572,6 +10655,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "la interpretación y aplicación del régimen disciplinario de los empleados públicos",
       "la clasificación de los puestos de trabajo",
+      "el sistema retributivo complementario de cada Administración.",
       "el procedimiento de provisión de vacantes"
     ],
     "correct": 0,
@@ -10582,11 +10666,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "¿Cuál de los siguientes términos aparece expresamente en la enumeración de principios del art. 52 TREBEP?",
     "options": [
+      "Buena fe",
       "Eficiencia",
       "Accesibilidad",
       "Lealtad"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 52 enumera, entre otros, 'accesibilidad'. 'Eficiencia' aparece en el art. 53.8 (junto con eficacia y economía) y 'lealtad' en el art. 53.3, pero ninguno de los dos figura en la lista del art. 52.",
     "fuente": "Art. 52 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10595,10 +10680,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "¿Cuál de los siguientes principios figura en la enumeración del art. 52 TREBEP?",
     "options": [
       "Lealtad",
+      "Eficiencia",
       "Buena fe",
       "Confidencialidad"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "'Confidencialidad' está en la lista de principios del art. 52. 'Lealtad' y 'buena fe' son principios recogidos en el art. 53.3, no en el art. 52.",
     "fuente": "Art. 52 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10608,7 +10694,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "la Constitución y el resto de normas que integran el ordenamiento jurídico",
       "los reglamentos internos de cada Administración y sus códigos deontológicos",
-      "las instrucciones de sus superiores jerárquicos en todo caso"
+      "las instrucciones de sus superiores jerárquicos en todo caso",
+      "los tratados internacionales suscritos por España en materia de función pública."
     ],
     "correct": 0,
     "exp": "El art. 53.1 establece que 'los empleados públicos respetarán la Constitución y el resto de normas que integran el ordenamiento jurídico'.",
@@ -10618,11 +10705,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "El art. 53.2 TREBEP establece que la actuación de los empleados públicos perseguirá...",
     "options": [
+      "el cumplimiento de los objetivos fijados en el plan estratégico de la Administración.",
       "la eficiencia presupuestaria de su unidad administrativa",
       "la satisfacción de los intereses generales de los ciudadanos",
       "el cumplimiento estricto de los objetivos de su superior jerárquico"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 53.2 dice que 'su actuación perseguirá la satisfacción de los intereses generales de los ciudadanos'.",
     "fuente": "Art. 53.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10631,10 +10719,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Según el art. 53.2 TREBEP, la actuación de los empleados públicos se fundamentará en consideraciones objetivas orientadas hacia...",
     "options": [
       "la lealtad institucional y la jerarquía administrativa",
+      "la eficiencia administrativa y el ahorro presupuestario.",
       "la eficacia y la economía procedimental",
       "la imparcialidad y el interés común"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 53.2 señala que la actuación 'se fundamentará en consideraciones objetivas orientadas hacia la imparcialidad y el interés común'.",
     "fuente": "Art. 53.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10644,6 +10733,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "lealtad y buena fe",
       "austeridad y eficacia",
+      "imparcialidad y transparencia.",
       "objetividad y neutralidad"
     ],
     "correct": 0,
@@ -10654,11 +10744,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Según el art. 53.4 TREBEP, la conducta de los empleados públicos se basará en el respeto de...",
     "options": [
+      "los principios de eficacia y economía procedimental.",
       "los principios de jerarquía y coordinación administrativa",
       "los derechos fundamentales y libertades públicas",
       "los criterios de mérito y capacidad en el acceso al empleo"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 53.4 dice que 'su conducta se basará en el respeto de los derechos fundamentales y libertades públicas', evitando toda discriminación.",
     "fuente": "Art. 53.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10667,10 +10758,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "El art. 53.4 TREBEP exige evitar toda actuación que pueda producir discriminación por razón de, entre otras causas,...",
     "options": [
       "la antigüedad en el puesto de trabajo",
+      "la unidad administrativa de destino del empleado.",
       "el nivel de complemento específico percibido",
       "la orientación e identidad sexual"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 53.4 enumera entre las causas de discriminación a evitar 'la orientación e identidad sexual', junto con nacimiento, origen racial o étnico, género, sexo, religión, discapacidad, edad, etc.",
     "fuente": "Art. 53.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10680,7 +10772,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "un interés personal",
       "una relación de coordinación funcional",
-      "una discrepancia técnica con el informe preceptivo"
+      "una discrepancia técnica con el informe preceptivo",
+      "una relación de subordinación jerárquica con el superior firmante."
     ],
     "correct": 0,
     "exp": "El art. 53.5 dice que 'se abstendrán en aquellos asuntos en los que tengan un interés personal, así como de toda actividad privada o interés que pueda suponer un riesgo de plantear conflictos de intereses con su puesto público'.",
@@ -10691,10 +10784,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "El art. 53.6 TREBEP prohíbe a los empleados públicos contraer obligaciones económicas o intervenir en operaciones financieras cuando...",
     "options": [
       "el importe supere el salario mínimo interprofesional",
+      "impliquen a parientes hasta el cuarto grado de consanguinidad.",
       "pueda suponer un conflicto de intereses con las obligaciones de su puesto público",
       "no exista autorización previa del órgano de personal"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 53.6 establece que no contraerán obligaciones económicas ni intervendrán en operaciones financieras, patrimoniales o negocios jurídicos 'cuando pueda suponer un conflicto de intereses con las obligaciones de su puesto público'.",
     "fuente": "Art. 53.6 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10704,9 +10798,10 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "instrucciones de órganos de inspección distintos al propio",
       "encargos de tareas que excedan su puesto de trabajo",
+      "instrucciones que contradigan los planes estratégicos de la unidad administrativa.",
       "ningún trato de favor o situación que implique privilegio o ventaja injustificada"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 53.7 dice que 'no aceptarán ningún trato de favor o situación que implique privilegio o ventaja injustificada, por parte de personas físicas o entidades privadas'.",
     "fuente": "Art. 53.7 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10714,11 +10809,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "El art. 53.8 TREBEP establece que los empleados públicos actuarán de acuerdo con los principios de...",
     "options": [
+      "responsabilidad, imparcialidad y confidencialidad.",
       "eficacia, economía y eficiencia",
       "austeridad, transparencia y ejemplaridad",
       "objetividad, integridad y neutralidad"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 53.8 dice que 'actuarán de acuerdo con los principios de eficacia, economía y eficiencia'.",
     "fuente": "Art. 53.8 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10727,10 +10823,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Según el art. 53.8 TREBEP, además de aplicar los principios de eficacia, economía y eficiencia, los empleados públicos vigilarán...",
     "options": [
       "la correcta aplicación del régimen disciplinario",
+      "la ejecución presupuestaria de su unidad administrativa.",
       "la consecución del interés general y el cumplimiento de los objetivos de la organización",
       "el respeto a la igualdad entre mujeres y hombres"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 53.8 añade que 'vigilarán la consecución del interés general y el cumplimiento de los objetivos de la organización'.",
     "fuente": "Art. 53.8 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10740,7 +10837,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "sin autorización del secretario general",
       "sin informe jurídico previo",
-      "sin justa causa"
+      "sin justa causa",
+      "sin dictamen previo del órgano de control interno."
     ],
     "correct": 2,
     "exp": "El art. 53.9 dice que 'no influirán en la agilización o resolución de trámite o procedimiento administrativo sin justa causa'.",
@@ -10750,11 +10848,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Según el art. 53.10 TREBEP, los empleados públicos cumplirán con diligencia las tareas que les correspondan y, en su caso,...",
     "options": [
+      "solicitarán la ampliación de plazo con carácter general.",
       "resolverán dentro de plazo los procedimientos o expedientes de su competencia",
       "elevarán consulta preceptiva a la Abogacía del Estado",
       "delegarán su resolución en el superior jerárquico"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 53.10 dice que cumplirán con diligencia las tareas y, en su caso, 'resolverán dentro de plazo los procedimientos o expedientes de su competencia'.",
     "fuente": "Art. 53.10 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10763,10 +10862,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "El art. 53.11 TREBEP señala que los empleados públicos ejercerán sus atribuciones según el principio de...",
     "options": [
       "jerarquía normativa",
+      "eficiencia organizativa.",
       "dedicación al servicio público",
       "descentralización funcional"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 53.11 dice que 'ejercerán sus atribuciones según el principio de dedicación al servicio público'.",
     "fuente": "Art. 53.11 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10774,11 +10874,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Según el art. 53.11 TREBEP, el principio de dedicación al servicio público implica abstenerse de conductas contrarias al mismo y de cualesquiera otras que comprometan...",
     "options": [
+      "la eficacia en la prestación de los servicios públicos.",
       "la austeridad en el gasto público",
       "la transparencia en la contratación pública",
       "la neutralidad en el ejercicio de los servicios públicos"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 53.11 concreta que deben abstenerse 'no solo de conductas contrarias al mismo, sino también de cualesquiera otras que comprometan la neutralidad en el ejercicio de los servicios públicos'.",
     "fuente": "Art. 53.11 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10788,6 +10889,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "las materias clasificadas u otras cuya difusión esté prohibida legalmente",
       "las instrucciones verbales de sus superiores jerárquicos",
+      "los datos estadísticos de carácter público elaborados por su unidad.",
       "los expedientes disciplinarios ya archivados"
     ],
     "correct": 0,
@@ -10798,11 +10900,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Según el art. 53.12 TREBEP, los empleados públicos no podrán hacer uso de la información obtenida por razón de su cargo para...",
     "options": [
+      "elaborar estudios estadísticos anonimizados de uso interno.",
       "elaborar informes técnicos internos",
       "beneficio propio o de terceros, o en perjuicio del interés público",
       "justificar la interposición de recursos administrativos"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 53.12 concluye que no podrán 'hacer uso de la información obtenida para beneficio propio o de terceros, o en perjuicio del interés público'.",
     "fuente": "Art. 53.12 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10811,10 +10914,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "¿Cómo se titula el art. 53 del TREBEP?",
     "options": [
       "Principios de conducta",
+      "Deberes de los empleados públicos.",
       "Código deontológico",
       "Principios éticos"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 53 se titula 'Principios éticos', frente al art. 54, titulado 'Principios de conducta'.",
     "fuente": "Art. 53 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10823,6 +10927,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Según el art. 54.1 TREBEP (principios de conducta), los empleados públicos tratarán con atención y respeto a...",
     "options": [
       "los ciudadanos, sus superiores y los restantes empleados públicos",
+      "los ciudadanos, los medios de comunicación y las entidades sindicales",
       "los ciudadanos y las autoridades judiciales exclusivamente",
       "sus superiores jerárquicos y los órganos de control interno"
     ],
@@ -10836,7 +10941,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "con subordinación a los objetivos anuales del departamento",
       "cumpliendo la jornada y el horario establecidos",
-      "conforme a las instrucciones específicas de cada usuario"
+      "conforme a las instrucciones específicas de cada usuario",
+      "conforme al calendario laboral aprobado por el ministerio competente"
     ],
     "correct": 1,
     "exp": "El art. 54.2 dice que el desempeño 'se realizará de forma diligente y cumpliendo la jornada y el horario establecidos'.",
@@ -10846,11 +10952,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Según el art. 54.3 TREBEP, los empleados públicos obedecerán las instrucciones y órdenes profesionales de sus superiores, salvo que...",
     "options": [
+      "sean contrarias a la política general del gobierno de turno",
       "no estén motivadas por escrito",
       "procedan de un órgano distinto al de su adscripción",
       "constituyan una infracción manifiesta del ordenamiento jurídico"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 54.3 dice que obedecerán las instrucciones de los superiores 'salvo que constituyan una infracción manifiesta del ordenamiento jurídico'.",
     "fuente": "Art. 54.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10860,6 +10967,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "ponerla inmediatamente en conocimiento de los órganos de inspección procedentes",
       "ejecutarla y reservarse la reclamación posterior",
+      "abstenerse de ejecutarla y reservarse la reclamación ante el Defensor del Pueblo",
       "solicitar la ratificación por escrito antes de ejecutarla"
     ],
     "correct": 0,
@@ -10871,10 +10979,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Según el art. 54.4 TREBEP, los empleados públicos informarán a los ciudadanos sobre...",
     "options": [
       "el contenido íntegro de los expedientes en tramitación de terceros",
+      "los datos personales de terceros contenidos en el expediente",
       "aquellas materias o asuntos que tengan derecho a conocer",
       "las deliberaciones internas de los órganos colegiados"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 54.4 dice que 'informarán a los ciudadanos sobre aquellas materias o asuntos que tengan derecho a conocer, y facilitarán el ejercicio de sus derechos y el cumplimiento de sus obligaciones'.",
     "fuente": "Art. 54.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10884,7 +10993,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "eficiencia normativa",
       "discrecionalidad técnica",
-      "austeridad"
+      "austeridad",
+      "prudencia presupuestaria"
     ],
     "correct": 2,
     "exp": "El art. 54.5 dice que 'administrarán los recursos y bienes públicos con austeridad, y no utilizarán los mismos en provecho propio o de personas allegadas'.",
@@ -10894,11 +11004,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Según el art. 54.5 TREBEP, además de administrar los recursos públicos con austeridad, los empleados públicos tendrán el deber de...",
     "options": [
+      "someterlos a control previo de la Intervención General",
       "velar por su conservación",
       "reportar mensualmente su inventario",
       "someterlos a auditoría externa anual"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 54.5 añade que 'tendrán, asimismo, el deber de velar por su conservación'.",
     "fuente": "Art. 54.5 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10908,6 +11019,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "los límites fijados por el código presupuestario",
       "los usos habituales, sociales y de cortesía",
+      "los límites establecidos por convenio colectivo",
       "el valor de veinte euros anuales"
     ],
     "correct": 1,
@@ -10919,10 +11031,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Según el art. 54.7 TREBEP, los empleados públicos garantizarán la constancia y permanencia de los documentos para...",
     "options": [
       "su publicación íntegra en el portal de transparencia",
+      "su conservación en soporte electrónico certificado",
       "su custodia exclusiva en el archivo central",
       "su transmisión y entrega a sus posteriores responsables"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 54.7 dice que 'garantizarán la constancia y permanencia de los documentos para su transmisión y entrega a sus posteriores responsables'.",
     "fuente": "Art. 54.7 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10932,7 +11045,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "formación y cualificación",
       "adscripción funcional",
-      "carrera horizontal"
+      "carrera horizontal",
+      "capacitación idiomática oficial"
     ],
     "correct": 0,
     "exp": "El art. 54.8 dice que 'mantendrán actualizada su formación y cualificación'.",
@@ -10942,11 +11056,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Según el art. 54.9 TREBEP, los empleados públicos observarán las normas sobre...",
     "options": [
+      "igualdad de género en el trabajo",
       "protección de datos personales",
       "seguridad y salud laboral",
       "contratación administrativa"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 54.9 dice que 'observarán las normas sobre seguridad y salud laboral'.",
     "fuente": "Art. 54.9 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10956,9 +11071,10 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "las incidencias de asistencia de sus compañeros",
       "los expedientes disciplinarios en curso",
+      "las quejas presentadas por los ciudadanos ante la unidad",
       "las propuestas que consideren adecuadas para mejorar el desarrollo de las funciones de la unidad"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 54.10 dice que 'pondrán en conocimiento de sus superiores o de los órganos competentes las propuestas que consideren adecuadas para mejorar el desarrollo de las funciones de la unidad en la que estén destinados'.",
     "fuente": "Art. 54.10 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -10967,6 +11083,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Según el art. 54.10 TREBEP, a los efectos de recibir propuestas de mejora, se podrá prever la creación de...",
     "options": [
       "la instancia adecuada competente para centralizar la recepción de las propuestas",
+      "un comité de innovación integrado por representantes sindicales",
       "una comisión paritaria de seguimiento retributivo",
       "un registro específico de sugerencias vinculado a la carrera profesional"
     ],
@@ -10980,7 +11097,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "exclusivamente en la lengua oficial del Estado",
       "en la lengua que lo solicite siempre que sea oficial en el territorio",
-      "en la lengua que determine el reglamento interno de cada Administración"
+      "en la lengua que determine el reglamento interno de cada Administración",
+      "en cualquier lengua oficial de la Unión Europea que el ciudadano solicite"
     ],
     "correct": 1,
     "exp": "El art. 54.11 dice que 'garantizarán la atención al ciudadano en la lengua que lo solicite siempre que sea oficial en el territorio'.",
@@ -10990,11 +11108,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "¿Cuál de los siguientes es un principio de CONDUCTA (art. 54) y no un principio ÉTICO (art. 53) del TREBEP?",
     "options": [
+      "No influir en la agilización o resolución de un trámite sin justa causa",
       "Guardar secreto de las materias clasificadas",
       "Ajustar la actuación a los principios de lealtad y buena fe",
       "Tratar con atención y respeto a los ciudadanos y compañeros"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "'Tratar con atención y respeto' es un principio de conducta del art. 54.1. 'Guardar secreto' (art. 53.12) y 'lealtad y buena fe' (art. 53.3) son principios éticos del art. 53.",
     "fuente": "Art. 54.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -11004,6 +11123,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Rechazar cualquier regalo o favor en condiciones ventajosas",
       "Abstenerse en los asuntos en que tengan un interés personal",
+      "No aceptar trato de favor o privilegio injustificado por parte de particulares",
       "Actuar conforme a los principios de eficacia, economía y eficiencia"
     ],
     "correct": 0,
@@ -11019,6 +11139,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Según el art. 69.1 TREBEP, ¿cuál es la finalidad de la planificación de los recursos humanos en las Administraciones Públicas?",
     "options": [
       "Contribuir a la eficacia en la prestación de servicios y a la eficiencia en la utilización de los recursos económicos disponibles",
+      "Homogeneizar las retribuciones de todo el personal al servicio de las Administraciones Públicas",
       "Garantizar la estabilidad en el empleo de todo el personal funcionario de carrera",
       "Reducir de forma permanente el número de efectivos de las plantillas públicas"
     ],
@@ -11032,7 +11153,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "La supresión automática de todos los cuerpos y escalas existentes",
       "El análisis de las disponibilidades y necesidades de personal, tanto en número de efectivos como en perfiles profesionales o niveles de cualificación",
-      "La externalización obligatoria de los servicios que presenten déficit de personal"
+      "La externalización obligatoria de los servicios que presenten déficit de personal",
+      "La fijación de un tope máximo de edad para el acceso a la función pública"
     ],
     "correct": 1,
     "exp": "El art. 69.2.a) incluye entre las medidas de los planes el análisis de disponibilidades y necesidades de personal, tanto desde el número de efectivos como desde los perfiles profesionales o niveles de cualificación.",
@@ -11042,11 +11164,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Según el art. 69.2.c) TREBEP, entre las medidas de movilidad que pueden figurar en los Planes de ordenación de recursos humanos se encuentra:",
     "options": [
+      "La supresión definitiva de los puestos de trabajo vacantes durante más de un año",
       "La obligación de que todo el personal cambie de puesto cada cinco años",
       "La eliminación de los concursos de provisión de puestos de trabajo",
       "La convocatoria de concursos de provisión de puestos limitados a personal de ámbitos que se determinen"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 69.2.c) contempla como medida de movilidad la suspensión de incorporaciones de personal externo a un ámbito determinado o la convocatoria de concursos de provisión limitados a personal de ámbitos que se determinen.",
     "fuente": "Art. 69.2.c) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -11056,6 +11179,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "El capítulo III del título V del Estatuto",
       "El capítulo I del título IV del Estatuto",
+      "El capítulo II del título III del Estatuto",
       "El título VI del Estatuto, relativo a las situaciones administrativas"
     ],
     "correct": 0,
@@ -11066,11 +11190,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Conforme al art. 69.3 TREBEP, cada Administración Pública planificará sus recursos humanos:",
     "options": [
+      "Conforme al modelo que en cada momento apruebe la Comisión de Coordinación del Empleo Público",
       "Siguiendo en todo caso un modelo único aprobado por el Ministerio de Hacienda",
       "De acuerdo con los sistemas que establezcan las normas que le sean de aplicación",
       "Únicamente cuando lo autorice expresamente la Conferencia Sectorial de Administración Pública"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 69.3 establece que cada Administración Pública planificará sus recursos humanos de acuerdo con los sistemas que establezcan las normas que le sean de aplicación.",
     "fuente": "Art. 69.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -11079,10 +11204,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Según el art. 70.1 TREBEP, la Oferta de empleo público comportará la obligación de convocar los procesos selectivos correspondientes a las plazas comprometidas y hasta un porcentaje adicional de:",
     "options": [
       "Un veinte por cien",
+      "Un quince por cien",
       "Un cinco por cien",
       "Un diez por cien"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 70.1 dispone que la Oferta de empleo público comportará la obligación de convocar los procesos selectivos para las plazas comprometidas y hasta un diez por cien adicional.",
     "fuente": "Art. 70.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -11092,7 +11218,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Tres años, con carácter improrrogable",
       "Cinco años, prorrogable por otros dos",
-      "Un año, contado desde su publicación"
+      "Un año, contado desde su publicación",
+      "Cuatro años, prorrogable excepcionalmente por uno más"
     ],
     "correct": 0,
     "exp": "El art. 70.1 señala que la ejecución de la oferta de empleo público o instrumento similar deberá desarrollarse dentro del plazo improrrogable de tres años.",
@@ -11102,11 +11229,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Según el art. 70.2 TREBEP, la Oferta de empleo público o instrumento similar se aprobará:",
     "options": [
+      "Semestralmente, previa negociación colectiva con las organizaciones sindicales",
       "Cada dos años y no requiere publicación oficial mientras no se convoquen procesos selectivos",
       "Anualmente por los órganos de Gobierno de las Administraciones Públicas y deberá publicarse en el diario oficial correspondiente",
       "Trimestralmente por los órganos de personal de cada unidad administrativa"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 70.2 establece que la Oferta de empleo público o instrumento similar se aprobará anualmente por los órganos de Gobierno de las Administraciones Públicas y deberá ser publicada en el Diario oficial correspondiente.",
     "fuente": "Art. 70.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -11115,10 +11243,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "De acuerdo con el art. 70.3 TREBEP, la Oferta de empleo público o instrumento similar:",
     "options": [
       "No podrá en ningún caso vincularse a los planes de ordenación de recursos humanos",
+      "Deberá ser ratificada anualmente por ley de Presupuestos Generales del Estado",
       "Solo puede referirse a plazas de nuevo ingreso de personal laboral fijo",
       "Podrá contener medidas derivadas de la planificación de recursos humanos"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 70.3 dispone que la Oferta de empleo público o instrumento similar podrá contener medidas derivadas de la planificación de recursos humanos.",
     "fuente": "Art. 70.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -11128,7 +11257,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Los datos relativos al personal contemplado en los artículos 2 y 5 del Estatuto, teniendo en cuenta las peculiaridades de determinados colectivos",
       "Únicamente los datos del personal directivo profesional",
-      "Exclusivamente los datos económicos de las retribuciones del personal funcionario"
+      "Exclusivamente los datos económicos de las retribuciones del personal funcionario",
+      "Los datos relativos al personal de todas las entidades del sector público empresarial, sin excepción"
     ],
     "correct": 0,
     "exp": "El art. 71.1 establece que cada Administración Pública constituirá un Registro en el que se inscribirán los datos relativos al personal de los arts. 2 y 5 del Estatuto, teniendo en cuenta las peculiaridades de determinados colectivos.",
@@ -11138,11 +11268,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "El art. 71.3 TREBEP prevé que los contenidos mínimos comunes de los Registros de personal y los criterios de intercambio homogéneo de información entre Administraciones se establecerán mediante:",
     "options": [
+      "Orden del Ministerio de Política Territorial y Función Pública",
       "Real Decreto del Consejo de Ministros",
       "Convenio de Conferencia Sectorial",
       "Acuerdo bilateral entre cada dos Administraciones afectadas"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "Según el art. 71.3, mediante convenio de Conferencia Sectorial se establecerán los contenidos mínimos comunes de los Registros de personal y los criterios para el intercambio homogéneo de información entre Administraciones.",
     "fuente": "Art. 71.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -11150,11 +11281,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Conforme al art. 71.4 TREBEP, las Administraciones Públicas:",
     "options": [
+      "Deberán interconectar sus Registros con el Registro Central de Personal en el plazo de un año",
       "Estarán obligadas a unificar sus Registros de personal en un único registro estatal",
       "Deberán externalizar la gestión de sus Registros de personal",
       "Impulsarán la gestión integrada de recursos humanos"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 71.4 dispone que las Administraciones Públicas impulsarán la gestión integrada de recursos humanos.",
     "fuente": "Art. 71.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -11164,7 +11296,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "La Administración General del Estado y las Comunidades Autónomas cooperarán con aquéllas",
       "Quedarán exentas de constituir Registro de personal",
-      "Deberán integrar su personal en el Registro de la Diputación Provincial"
+      "Deberán integrar su personal en el Registro de la Diputación Provincial",
+      "Deberán solicitar la asunción íntegra de la gestión por parte del Estado"
     ],
     "correct": 0,
     "exp": "El art. 71.5 establece que cuando las Entidades Locales no cuenten con suficiente capacidad financiera o técnica, la AGE y las Comunidades Autónomas cooperarán con aquéllas a los efectos contemplados en el artículo.",
@@ -11174,11 +11307,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Según el art. 72 TREBEP, las Administraciones Públicas estructuran sus recursos humanos, en el marco de sus competencias de autoorganización, de acuerdo con las normas que regulan:",
     "options": [
+      "El régimen de incompatibilidades y la jornada de trabajo, exclusivamente",
       "Exclusivamente el régimen retributivo del personal funcionario",
       "La selección, la promoción profesional, la movilidad y la distribución de funciones",
       "Únicamente los procedimientos disciplinarios aplicables al personal"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 72 dispone que las Administraciones Públicas estructuran sus recursos humanos, en el marco de sus competencias de autoorganización, de acuerdo con las normas que regulan la selección, la promoción profesional, la movilidad y la distribución de funciones.",
     "fuente": "Art. 72 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -11187,10 +11321,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Según el art. 73.1 TREBEP, los empleados públicos tienen derecho:",
     "options": [
       "A elegir libremente el puesto de trabajo que deseen desempeñar en cualquier momento de su carrera",
+      "A la reserva automática del puesto de trabajo durante toda excedencia voluntaria",
       "A permanecer indefinidamente en el primer puesto de trabajo obtenido tras el proceso selectivo",
       "Al desempeño de un puesto de trabajo de acuerdo con el sistema de estructuración del empleo público que establezcan las leyes de desarrollo del Estatuto"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 73.1 reconoce el derecho de los empleados públicos al desempeño de un puesto de trabajo de acuerdo con el sistema de estructuración del empleo público que establezcan las leyes de desarrollo del Estatuto.",
     "fuente": "Art. 73.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -11200,7 +11335,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Resulten adecuadas a su clasificación, grado o categoría, cuando las necesidades del servicio lo justifiquen y sin merma en las retribuciones",
       "Medie el consentimiento previo de la totalidad de la plantilla del centro de trabajo",
-      "Se trate de funciones de un grupo de clasificación profesional superior al del funcionario"
+      "Se trate de funciones de un grupo de clasificación profesional superior al del funcionario",
+      "Exista informe previo favorable de la Junta de Personal, con carácter vinculante"
     ],
     "correct": 0,
     "exp": "El art. 73.2 permite asignar funciones, tareas o responsabilidades distintas a las del puesto siempre que sean adecuadas a la clasificación, grado o categoría del empleado, cuando las necesidades del servicio lo justifiquen, sin merma en las retribuciones.",
@@ -11210,11 +11346,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Según el art. 73.3 TREBEP, los puestos de trabajo podrán agruparse en función de sus características para ordenar:",
     "options": [
+      "La estructura retributiva y el régimen de jornada",
       "Únicamente el régimen de incompatibilidades",
       "La selección, la formación y la movilidad",
       "Solo los procesos de promoción interna del personal laboral"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 73.3 establece que los puestos de trabajo podrán agruparse en función de sus características para ordenar la selección, la formación y la movilidad.",
     "fuente": "Art. 73.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -11223,10 +11360,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Según el art. 74 TREBEP, las Administraciones Públicas estructurarán su organización a través de relaciones de puestos de trabajo u otros instrumentos organizativos similares, que comprenderán al menos:",
     "options": [
       "El nombre y apellidos del titular del puesto, su antigüedad y su domicilio",
+      "La plantilla presupuestaria aprobada por el Pleno de la Corporación, el calendario laboral y las tablas salariales",
       "Exclusivamente el organigrama jerárquico de cada unidad administrativa",
       "La denominación de los puestos, los grupos de clasificación profesional, los cuerpos o escalas a que estén adscritos, los sistemas de provisión y las retribuciones complementarias"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 74 dispone que las Administraciones Públicas estructurarán su organización a través de relaciones de puestos de trabajo u otros instrumentos organizativos similares que comprenderán, al menos, la denominación de los puestos, los grupos de clasificación profesional, los cuerpos o escalas a que estén adscritos, los sistemas de provisión y las retribuciones complementarias.",
     "fuente": "Art. 74 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -11236,6 +11374,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Serán públicos",
       "Tendrán carácter reservado y de acceso restringido al personal directivo",
+      "Deberán inscribirse en el Registro Central de Personal antes de su aprobación definitiva",
       "Solo deberán publicarse cuando lo solicite expresamente algún funcionario afectado"
     ],
     "correct": 0,
@@ -11246,11 +11385,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Según el art. 75.1 TREBEP, los funcionarios se agrupan en cuerpos, escalas, especialidades u otros sistemas que incorporen:",
     "options": [
+      "Titulación exigida y el grupo de clasificación profesional asignado a cada cuerpo",
       "Antigüedad y méritos acumulados durante toda su carrera profesional",
       "Competencias, capacidades y conocimientos comunes acreditados a través de un proceso selectivo",
       "Un mismo nivel retributivo con independencia de su titulación"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 75.1 establece que los funcionarios se agrupan en cuerpos, escalas, especialidades u otros sistemas que incorporen competencias, capacidades y conocimientos comunes acreditados a través de un proceso selectivo.",
     "fuente": "Art. 75.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -11259,10 +11399,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Según el art. 75.2 TREBEP, los cuerpos y escalas de funcionarios se crean, modifican y suprimen:",
     "options": [
       "Por real decreto del Consejo de Ministros a propuesta del Ministerio competente en función pública",
+      "Por convenio colectivo suscrito entre la Administración y los sindicatos más representativos",
       "Por acuerdo de la Mesa General de Negociación de las Administraciones Públicas",
       "Por ley de las Cortes Generales o de las asambleas legislativas de las comunidades autónomas"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 75.2 dispone que los cuerpos y escalas de funcionarios se crean, modifican y suprimen por ley de las Cortes Generales o de las asambleas legislativas de las comunidades autónomas.",
     "fuente": "Art. 75.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -11272,6 +11413,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "El título universitario de Grado, salvo que la ley exija otro título universitario",
       "El título de Bachiller o Técnico",
+      "El título de Doctor, con carácter exclusivo y excluyente de cualquier otro título de Grado",
       "El título de Técnico Superior"
     ],
     "correct": 0,
@@ -11282,11 +11424,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "De acuerdo con el art. 76 TREBEP, para el acceso a los cuerpos o escalas del Grupo B se exigirá estar en posesión de:",
     "options": [
+      "El título de Bachiller o Técnico",
       "El título universitario de Grado",
       "El título de Técnico Superior",
       "El título de Graduado en Educación Secundaria Obligatoria"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 76 dispone que para el acceso a los cuerpos o escalas del Grupo B se exigirá estar en posesión del título de Técnico Superior.",
     "fuente": "Art. 76 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -11295,10 +11438,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Según el art. 76 TREBEP, el Subgrupo C1 exige para el ingreso estar en posesión de:",
     "options": [
       "El título de Graduado en Educación Secundaria Obligatoria",
+      "El título de Técnico Superior",
       "El título universitario de Grado",
       "El título de Bachiller o Técnico"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 76 establece que el Grupo C se divide en dos Subgrupos, C1 y C2, exigiéndose en el Subgrupo C1 el título de Bachiller o Técnico.",
     "fuente": "Art. 76 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -11308,7 +11452,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "El título de Graduado en Educación Secundaria Obligatoria",
       "El título de Bachiller o Técnico",
-      "El título de Técnico Superior"
+      "El título de Técnico Superior",
+      "El título universitario de Grado"
     ],
     "correct": 0,
     "exp": "El art. 76 dispone que el Subgrupo C2 exige para el ingreso el título de Graduado en Educación Secundaria Obligatoria.",
@@ -11318,11 +11463,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Según el art. 77 TREBEP, el personal laboral se clasificará:",
     "options": [
+      "De acuerdo con el convenio colectivo sectorial estatal, con carácter exclusivo y excluyente de cualquier otra norma",
       "De acuerdo con los mismos grupos de clasificación que el personal funcionario de carrera",
       "De conformidad con la legislación laboral",
       "Según lo que disponga en cada caso la relación de puestos de trabajo, sin sujeción a otra normativa"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 77 dispone escuetamente que el personal laboral se clasificará de conformidad con la legislación laboral.",
     "fuente": "Art. 77 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -11331,10 +11477,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Según el art. 78.1 TREBEP, las Administraciones Públicas proveerán los puestos de trabajo mediante procedimientos basados en los principios de:",
     "options": [
       "Antigüedad, jerarquía y confianza",
+      "Objetividad, transparencia y eficiencia",
       "Eficacia, economía y celeridad",
       "Igualdad, mérito, capacidad y publicidad"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 78.1 establece que las Administraciones Públicas proveerán los puestos de trabajo mediante procedimientos basados en los principios de igualdad, mérito, capacidad y publicidad.",
     "fuente": "Art. 78.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -11344,6 +11491,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Concurso y libre designación con convocatoria pública",
       "Oposición y concurso-oposición",
+      "Permuta y adscripción provisional, con carácter general",
       "Nombramiento directo y comisión de servicios"
     ],
     "correct": 0,
@@ -11354,11 +11502,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Según el art. 79.1 TREBEP, el concurso, como procedimiento normal de provisión de puestos de trabajo, consiste en:",
     "options": [
+      "La superación de un curso selectivo de formación impartido por la propia Administración",
       "La apreciación discrecional del órgano competente sobre la idoneidad de los candidatos",
       "La valoración de los méritos y capacidades, y en su caso aptitudes, de los candidatos por órganos colegiados de carácter técnico",
       "La superación de una prueba selectiva única de carácter eliminatorio"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 79.1 define el concurso como el procedimiento normal de provisión de puestos de trabajo, consistente en la valoración de los méritos y capacidades, y en su caso aptitudes, de los candidatos por órganos colegiados de carácter técnico.",
     "fuente": "Art. 79.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -11367,10 +11516,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Según el art. 79.4 TREBEP, en caso de supresión o remoción de los puestos obtenidos por concurso se deberá:",
     "options": [
       "Declarar de oficio al funcionario en situación de excedencia voluntaria",
+      "Declarar la jubilación anticipada forzosa del funcionario afectado",
       "Convocar automáticamente un nuevo concurso general para todo el cuerpo o escala",
       "Asignar un puesto de trabajo conforme al sistema de carrera profesional propio de cada Administración Pública, con las garantías inherentes a dicho sistema"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 79.4 dispone que en caso de supresión o remoción de los puestos obtenidos por concurso se deberá asignar al funcionario un puesto de trabajo conforme al sistema de carrera profesional propio de cada Administración, con las garantías inherentes a dicho sistema.",
     "fuente": "Art. 79.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -11380,7 +11530,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "La apreciación discrecional por el órgano competente de la idoneidad de los candidatos en relación con los requisitos exigidos para el desempeño del puesto",
       "La valoración de méritos y capacidades por órganos colegiados de carácter técnico",
-      "La aplicación estricta del baremo de antigüedad y formación"
+      "La aplicación estricta del baremo de antigüedad y formación",
+      "La superación de una entrevista pública evaluada por un tribunal compuesto por funcionarios de carrera"
     ],
     "correct": 0,
     "exp": "El art. 80.1 define la libre designación con convocatoria pública como la apreciación discrecional por el órgano competente de la idoneidad de los candidatos en relación con los requisitos exigidos para el desempeño del puesto.",
@@ -11390,11 +11541,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Según el art. 80.4 TREBEP, los titulares de puestos provistos por libre designación con convocatoria pública podrán ser cesados discrecionalmente, y en caso de cese:",
     "options": [
+      "Percibir una indemnización equivalente a un año de retribuciones básicas, en sustitución de cualquier otro derecho",
       "Pasarán automáticamente a la situación de excedencia forzosa",
       "Se les deberá asignar un puesto de trabajo conforme al sistema de carrera profesional propio de cada Administración, con las garantías inherentes a dicho sistema",
       "Deberán superar de nuevo el proceso selectivo de acceso al cuerpo o escala"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 80.4 establece que los titulares de puestos de libre designación con convocatoria pública podrán ser cesados discrecionalmente, y en caso de cese se les deberá asignar un puesto de trabajo conforme al sistema de carrera profesional propio de cada Administración, con las garantías inherentes a dicho sistema.",
     "fuente": "Art. 80.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -11403,10 +11555,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Según el art. 81.2 TREBEP, cuando las Administraciones Públicas trasladen a sus funcionarios por necesidades del servicio o funcionales a unidades, departamentos u organismos distintos de los de su destino, deberán respetar:",
     "options": [
       "Únicamente su nivel de complemento de destino, sin más garantías",
+      "Únicamente su antigüedad reconocida en el cuerpo o escala de procedencia",
       "Solo la localidad de residencia habitual del funcionario",
       "Sus retribuciones y condiciones esenciales de trabajo"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 81.2 dispone que las Administraciones Públicas, de manera motivada, podrán trasladar a sus funcionarios por necesidades de servicio o funcionales, respetando sus retribuciones y condiciones esenciales de trabajo.",
     "fuente": "Art. 81.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -11416,6 +11569,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Con carácter provisional, debiendo procederse a su convocatoria pública dentro del plazo que señalen las normas aplicables",
       "Únicamente mediante libre designación, sin necesidad de convocatoria posterior",
+      "Con carácter temporal por un máximo de seis meses, sin posibilidad de prórroga",
       "Solo con personal interino de nuevo ingreso"
     ],
     "correct": 0,
@@ -11426,11 +11580,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Según el art. 82.1 TREBEP, las mujeres víctimas de violencia de género o violencia sexual que se vean obligadas a abandonar su puesto de trabajo tendrán derecho:",
     "options": [
+      "A una comisión de servicios voluntaria por un periodo máximo de seis meses",
       "A una excedencia forzosa de al menos un año con reserva de puesto",
       "Al traslado a otro puesto propio de su cuerpo, escala o categoría profesional de análogas características, sin necesidad de que sea vacante de necesaria cobertura",
       "Únicamente a una reducción de jornada del cincuenta por cien"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 82.1 reconoce a las mujeres víctimas de violencia de género o sexual el derecho al traslado a otro puesto propio de su cuerpo, escala o categoría profesional de análogas características, sin necesidad de que sea vacante de necesaria cobertura.",
     "fuente": "Art. 82.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -11439,10 +11594,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Según el art. 82.1 TREBEP, el traslado de la funcionaria víctima de violencia de género o sexual a otro puesto de trabajo tendrá la consideración de:",
     "options": [
       "Traslado voluntario a todos los efectos",
+      "Excedencia voluntaria con reserva del puesto de origen",
       "Permuta entre puestos de trabajo",
       "Traslado forzoso"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 82.1 establece expresamente que este traslado 'tendrá la consideración de traslado forzoso'.",
     "fuente": "Art. 82.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -11452,6 +11608,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Por el sistema de provisión de puestos y movilidad del personal funcionario de carrera",
       "Por lo que decida discrecionalmente el órgano de personal competente",
+      "Por lo que unilateralmente determine el convenio colectivo, sin posibilidad de aplicación supletoria de otra normativa",
       "Mediante concurso-oposición convocado anualmente por el Ministerio de Trabajo"
     ],
     "correct": 0,
@@ -11462,11 +11619,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Según el art. 84.1 TREBEP, las medidas de movilidad interadministrativa se establecerán preferentemente mediante:",
     "options": [
+      "Reglamento aprobado conjuntamente por el Ministerio de Hacienda y el de Administraciones Públicas",
       "Ley orgánica aprobada por las Cortes Generales",
       "Convenio de Conferencia Sectorial u otros instrumentos de colaboración",
       "Acuerdo unilateral de la Administración de destino"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 84.1 dispone que la Administración General del Estado, las comunidades autónomas y las entidades locales establecerán medidas de movilidad interadministrativa, preferentemente mediante convenio de Conferencia Sectorial u otros instrumentos de colaboración.",
     "fuente": "Art. 84.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -11475,10 +11633,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Según el art. 84.3 TREBEP, los funcionarios de carrera que obtengan destino en otra Administración Pública a través de los procedimientos de movilidad quedarán, respecto de su Administración de origen, en la situación administrativa de:",
     "options": [
       "Excedencia voluntaria por interés particular",
+      "Excedencia por cuidado de familiares",
       "Servicios especiales",
       "Servicio en otras Administraciones Públicas"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 84.3 establece que los funcionarios de carrera que obtengan destino en otra Administración Pública a través de procedimientos de movilidad quedarán, respecto de su Administración de origen, en la situación administrativa de servicio en otras Administraciones Públicas.",
     "fuente": "Art. 84.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -11488,7 +11647,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Excedencia voluntaria por interés particular",
       "Servicios especiales",
-      "Suspensión firme de funciones"
+      "Suspensión firme de funciones",
+      "Servicio en otras Administraciones Públicas, manteniendo todos los derechos de la Administración de destino"
     ],
     "correct": 0,
     "exp": "El art. 84.3 dispone que, de no solicitarse el reingreso al servicio activo en el plazo indicado, el funcionario será declarado de oficio en situación de excedencia voluntaria por interés particular, con efectos desde el día siguiente al cese en la Administración de destino.",
@@ -11502,11 +11662,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "¿Cuál de las siguientes NO es una causa de pérdida de la condición de funcionario de carrera según el art. 63 TREBEP?",
     "options": [
+      "La sanción disciplinaria de separación del servicio con carácter firme",
       "El traslado voluntario a otra Administración Pública",
       "La jubilación total del funcionario",
       "La pérdida de la nacionalidad"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 63 enumera taxativamente las causas de pérdida de la condición de funcionario: renuncia, pérdida de nacionalidad, jubilación total, sanción disciplinaria de separación firme y pena de inhabilitación firme. El traslado a otra Administración no figura entre ellas.",
     "fuente": "Art. 63 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -11516,6 +11677,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "El traslado forzoso a otro puesto de trabajo",
       "La renuncia a la condición de funcionario",
+      "La suspensión provisional de funciones por más de seis meses",
       "El pase a la situación de excedencia voluntaria"
     ],
     "correct": 1,
@@ -11527,10 +11689,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Para que la sanción disciplinaria de separación del servicio constituya causa de pérdida de la condición de funcionario, el art. 63.d) TREBEP exige que...",
     "options": [
       "sea propuesta por el órgano instructor del expediente",
+      "sea ratificada por el pleno del órgano de gobierno",
       "haya sido notificada al interesado en el plazo de un mes",
       "tenga carácter firme"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 63.d) exige que la sanción disciplinaria de separación del servicio tuviere carácter firme.",
     "fuente": "Art. 63.d) TREBEP",
     "confianza": "alta"
@@ -11540,7 +11703,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "tenga carácter firme",
       "se haya dictado auto de apertura de juicio oral",
-      "el funcionario esté en situación de suspensión provisional"
+      "el funcionario esté en situación de suspensión provisional",
+      "haya sido comunicada al Registro Central de Penados"
     ],
     "correct": 0,
     "exp": "El art. 63.e) exige que la pena de inhabilitación tuviere carácter firme.",
@@ -11552,7 +11716,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "ser aprobada por el Pleno de la Corporación en todo caso",
       "ser manifestada por escrito y aceptada expresamente por la Administración, salvo excepción",
-      "comunicarse verbalmente al superior jerárquico y ratificarse en el plazo de quince días"
+      "comunicarse verbalmente al superior jerárquico y ratificarse en el plazo de quince días",
+      "ser aprobada por Decreto del órgano superior jerárquico"
     ],
     "correct": 1,
     "exp": "El art. 64.1 dispone que la renuncia habrá de ser manifestada por escrito y aceptada expresamente por la Administración, salvo lo dispuesto en el apartado siguiente.",
@@ -11562,11 +11727,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "¿En qué caso, conforme al art. 64.2 TREBEP, NO podrá ser aceptada la renuncia de un funcionario?",
     "options": [
+      "Cuando no haya transcurrido el plazo de preaviso de quince días",
       "Cuando el funcionario lleve menos de un año en el puesto",
       "Cuando la renuncia se presente en periodo vacacional",
       "Cuando el funcionario esté sujeto a expediente disciplinario o exista auto de procesamiento o de apertura de juicio oral por delito"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 64.2 impide aceptar la renuncia cuando el funcionario esté sujeto a expediente disciplinario o se haya dictado en su contra auto de procesamiento o de apertura de juicio oral por delito.",
     "fuente": "Art. 64.2 TREBEP",
     "confianza": "alta"
@@ -11576,6 +11742,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "no inhabilita para ingresar de nuevo en la Administración Pública mediante el procedimiento de selección establecido",
       "inhabilita de forma permanente para volver a ingresar en la Administración Pública",
+      "solo permite el reingreso mediante readmisión directa sin proceso selectivo",
       "solo permite el reingreso transcurridos cinco años"
     ],
     "correct": 0,
@@ -11586,11 +11753,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "La pérdida de la nacionalidad española, según el art. 65 TREBEP, determina la pérdida de la condición de funcionario salvo que...",
     "options": [
+      "el funcionario recupere la nacionalidad española en el plazo de un año",
       "el funcionario acredite diez años de servicios efectivos",
       "simultáneamente se adquiera la nacionalidad de otro de los Estados a que se refiere el precepto",
       "el interesado presente recurso de alzada en el plazo de un mes"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 65 exceptúa la pérdida de la condición de funcionario cuando simultáneamente se adquiera la nacionalidad de alguno de los Estados a que se refiere el precepto.",
     "fuente": "Art. 65 TREBEP",
     "confianza": "alta"
@@ -11599,10 +11767,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "El art. 65 TREBEP se refiere a la pérdida de la nacionalidad española o de...",
     "options": [
       "cualquier país iberoamericano con convenio de reciprocidad",
+      "cualquier Estado miembro de la Organización para la Cooperación y el Desarrollo Económico (OCDE)",
       "cualquier Estado con el que España mantenga relaciones diplomáticas",
       "cualquier Estado miembro de la Unión Europea o de aquellos a los que sea aplicable la libre circulación de trabajadores"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 65 se refiere a la pérdida de la nacionalidad española o de cualquier otro Estado miembro de la UE o de aquellos Estados a los que, por tratados internacionales, les sea aplicable la libre circulación de trabajadores.",
     "fuente": "Art. 65 TREBEP",
     "confianza": "alta"
@@ -11612,6 +11781,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "haya sido tenida en cuenta para el nombramiento",
       "se hubiera obtenido tras el ingreso en el cuerpo",
+      "haya sido reconocida mediante resolución expresa del Ministerio de Justicia",
       "conste inscrita en el Registro Civil del municipio de destino"
     ],
     "correct": 0,
@@ -11624,7 +11794,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "únicamente el puesto de trabajo que ocupaba en el momento de la condena",
       "todos los empleos o cargos que tuviere",
-      "el cuerpo o escala de procedencia, manteniendo otros empleos públicos"
+      "el cuerpo o escala de procedencia, manteniendo otros empleos públicos",
+      "los empleos o cargos de naturaleza pública, manteniendo los privados"
     ],
     "correct": 1,
     "exp": "El art. 66 dispone que la inhabilitación absoluta firme produce la pérdida de la condición de funcionario respecto a todos los empleos o cargos que tuviere.",
@@ -11635,10 +11806,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "La pena de inhabilitación ESPECIAL para cargo público, firme, produce, conforme al art. 66 TREBEP, la pérdida de la condición de funcionario respecto de...",
     "options": [
       "todos los empleos o cargos públicos, sin excepción",
+      "el empleo o cargo de mayor antigüedad entre los que desempeñe",
       "el empleo de mayor retribución entre los que desempeñe",
       "aquellos empleos o cargos especificados en la sentencia"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 66 dispone que la inhabilitación especial firme produce la pérdida de la condición de funcionario respecto de los empleos o cargos especificados en la sentencia.",
     "fuente": "Art. 66 TREBEP",
     "confianza": "alta"
@@ -11648,6 +11820,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "la sentencia que la imponga haya adquirido firmeza",
       "se haya dictado sentencia en primera instancia",
+      "la Administración haya iniciado expediente disciplinario paralelo",
       "el Ministerio Fiscal ratifique la condena"
     ],
     "correct": 0,
@@ -11660,7 +11833,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "parcial, a solicitud del interesado",
       "por la declaración de incapacidad permanente para el ejercicio de las funciones de su cuerpo o escala",
-      "anticipada, sin causa justificada"
+      "anticipada, sin causa justificada",
+      "por conversión a la situación de servicios especiales"
     ],
     "correct": 1,
     "exp": "El art. 67.1.c) contempla la jubilación por declaración de incapacidad permanente para el ejercicio de las funciones propias del cuerpo o escala, o por reconocimiento de pensión de incapacidad permanente absoluta o total.",
@@ -11670,11 +11844,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "La jubilación voluntaria de los funcionarios, según el art. 67.1.a) TREBEP, se produce...",
     "options": [
+      "previa autorización del órgano de personal, aunque no medie solicitud",
       "de oficio al cumplir sesenta años",
       "por resolución motivada de la Administración sin petición del interesado",
       "a solicitud del funcionario"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 67.1.a) califica la jubilación voluntaria como aquella que se produce a solicitud del funcionario.",
     "fuente": "Art. 67.1.a) TREBEP",
     "confianza": "alta"
@@ -11683,6 +11858,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "La jubilación forzosa, conforme al art. 67.1.b) TREBEP, se produce...",
     "options": [
       "al cumplir el funcionario la edad legalmente establecida",
+      "al cumplir el funcionario veinticinco años de servicios efectivos",
       "cuando lo decida el órgano de selección",
       "transcurridos treinta años de servicios efectivos, con independencia de la edad"
     ],
@@ -11696,7 +11872,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "cuente con la autorización previa del Consejo de Ministros",
       "reúna los requisitos y condiciones establecidos en el Régimen de Seguridad Social que le sea aplicable",
-      "haya cumplido al menos sesenta años de edad"
+      "haya cumplido al menos sesenta años de edad",
+      "acredite un mínimo de veinte años de servicios efectivos en la Administración"
     ],
     "correct": 1,
     "exp": "El art. 67.2 exige que el funcionario reúna los requisitos y condiciones establecidos en el Régimen de Seguridad Social que le sea aplicable.",
@@ -11706,11 +11883,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "La jubilación forzosa se declarará de oficio, según el art. 67.3 TREBEP, al cumplir el funcionario...",
     "options": [
+      "los sesenta y siete años de edad",
       "los setenta años de edad",
       "los sesenta años de edad",
       "los sesenta y cinco años de edad"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 67.3 fija que la jubilación forzosa se declarará de oficio al cumplir el funcionario los sesenta y cinco años de edad.",
     "fuente": "Art. 67.3 TREBEP",
     "confianza": "alta"
@@ -11720,6 +11898,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "que se cumplan setenta años de edad",
       "que se cumplan sesenta y ocho años de edad",
+      "que se cumplan setenta y dos años de edad",
       "los cinco años posteriores a la edad de jubilación forzosa, sin límite de edad"
     ],
     "correct": 0,
@@ -11730,11 +11909,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Sobre la solicitud de prolongación de la permanencia en el servicio activo, el art. 67.3 TREBEP establece que la Administración Pública competente...",
     "options": [
+      "podrá delegar la decisión en la Junta de Personal",
       "no está obligada a resolver, operando el silencio positivo",
       "deberá resolver de forma motivada la aceptación o denegación",
       "solo puede denegarla si concurre causa disciplinaria"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 67.3 obliga a la Administración competente a resolver de forma motivada la aceptación o denegación de la prolongación.",
     "fuente": "Art. 67.3 TREBEP",
     "confianza": "alta"
@@ -11743,10 +11923,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Quedan excluidos de las reglas generales de jubilación forzosa y prolongación de servicio activo del art. 67.3 TREBEP...",
     "options": [
       "los funcionarios en situación de servicios especiales",
+      "los funcionarios en situación de excedencia voluntaria",
       "los funcionarios interinos",
       "los funcionarios que tengan normas estatales específicas de jubilación"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 67.3 excluye de dichas reglas a los funcionarios que tengan normas estatales específicas de jubilación.",
     "fuente": "Art. 67.3 TREBEP",
     "confianza": "alta"
@@ -11756,7 +11937,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "la que prevean las normas reguladoras de dicho régimen para el acceso a la pensión de jubilación contributiva sin coeficiente reductor por razón de edad",
       "siempre los sesenta y cinco años, sin excepción",
-      "la fijada libremente por cada Administración Pública"
+      "la fijada libremente por cada Administración Pública",
+      "la misma que corresponda al Régimen de Clases Pasivas del Estado"
     ],
     "correct": 0,
     "exp": "El art. 67.4 establece que, con independencia de la edad legal del apartado 3, la edad de jubilación forzosa del personal en el Régimen General de la Seguridad Social será la prevista en las normas de dicho régimen para el acceso a la pensión contributiva sin coeficiente reductor por razón de edad.",
@@ -11766,11 +11948,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "La jubilación por incapacidad, según el art. 67.1.c) TREBEP, procede por la declaración de incapacidad permanente para las funciones del cuerpo o escala, o por...",
     "options": [
+      "el reconocimiento de un grado de discapacidad igual o superior al 33 por ciento",
       "el simple transcurso de un año en situación de incapacidad temporal",
       "el reconocimiento de una pensión de incapacidad permanente absoluta o total en relación con dichas funciones",
       "la solicitud del jefe de servicio, sin informe médico"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 67.1.c) incluye también el reconocimiento de una pensión de incapacidad permanente absoluta o total en relación con el ejercicio de las funciones del cuerpo o escala.",
     "fuente": "Art. 67.1.c) TREBEP",
     "confianza": "alta"
@@ -11778,11 +11961,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "En caso de extinción de la relación de servicio por pérdida de la nacionalidad o por jubilación por incapacidad permanente, el art. 68.1 TREBEP dispone que, desaparecida la causa, el interesado...",
     "options": [
+      "podrá solicitar la rehabilitación, previo informe favorable del Ministerio Fiscal",
       "podrá solicitar la rehabilitación, quedando a la libre discrecionalidad de la Administración",
       "deberá superar de nuevo el proceso selectivo íntegro",
       "podrá solicitar la rehabilitación, que le será concedida"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 68.1 establece que, desaparecida la causa objetiva que motivó la pérdida de nacionalidad o la jubilación por incapacidad, el interesado podrá solicitar la rehabilitación, que le será concedida.",
     "fuente": "Art. 68.1 TREBEP",
     "confianza": "alta"
@@ -11791,6 +11975,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "La rehabilitación de quien perdió la condición de funcionario por condena a pena de inhabilitación, según el art. 68.2 TREBEP, podrá concederse...",
     "options": [
       "con carácter excepcional, a petición del interesado, atendiendo a las circunstancias y entidad del delito",
+      "de oficio, sin necesidad de petición del interesado",
       "de forma automática transcurridos dos años",
       "únicamente mediante ley que así lo autorice expresamente"
     ],
@@ -11802,11 +11987,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Si transcurrido el plazo para resolver sobre la rehabilitación del art. 68.2 TREBEP no se dicta resolución expresa, se entenderá...",
     "options": [
+      "que debe reiterarse la solicitud transcurrido un año",
       "estimada la solicitud por silencio positivo",
       "desestimada la solicitud",
       "que el plazo queda suspendido hasta nueva petición"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 68.2 establece que si transcurrido el plazo para dictar resolución no se hubiera producido de forma expresa, se entenderá desestimada la solicitud.",
     "fuente": "Art. 68.2 TREBEP",
     "confianza": "alta"
@@ -11815,10 +12001,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Conforme al art. 68.2 TREBEP, la rehabilitación con carácter excepcional del funcionario condenado a pena de inhabilitación corresponde conceder a...",
     "options": [
       "el Juez o Tribunal sentenciador",
+      "el Ministerio de Política Territorial y Función Pública, con carácter exclusivo",
       "el Defensor del Pueblo",
       "los órganos de gobierno de las Administraciones Públicas"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 68.2 atribuye esta facultad excepcional a los órganos de gobierno de las Administraciones Públicas.",
     "fuente": "Art. 68.2 TREBEP",
     "confianza": "alta"
@@ -11828,7 +12015,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "quien perdió la condición de funcionario por condena a pena principal o accesoria de inhabilitación",
       "quien renunció voluntariamente a la condición de funcionario",
-      "quien fue separado del servicio por sanción disciplinaria firme no derivada de delito"
+      "quien fue separado del servicio por sanción disciplinaria firme no derivada de delito",
+      "quien perdió la condición de funcionario por incumplimiento del deber de residencia"
     ],
     "correct": 0,
     "exp": "El art. 68.2 se refiere específicamente a quien hubiera perdido la condición de funcionario por haber sido condenado a la pena principal o accesoria de inhabilitación.",
@@ -11838,11 +12026,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Los artículos 63 a 68 del TREBEP, relativos a las causas y efectos de la pérdida de la condición de funcionario de carrera, se integran en...",
     "options": [
+      "el Capítulo III del Título IV, dedicado a la movilidad interadministrativa",
       "el Capítulo I del Título IV, dedicado al acceso al empleo público",
       "el Capítulo II del Título IV, dedicado a la pérdida de la relación de servicio",
       "el Capítulo I del Título V, dedicado a la planificación de recursos humanos"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El texto consolidado del TREBEP sitúa los arts. 63 a 68 en el Capítulo II del Título IV, titulado 'Pérdida de la relación de servicio', inmediatamente después del Capítulo I sobre acceso al empleo público (que termina en el art. 62).",
     "fuente": "Capítulo II, Título IV TREBEP (arts. 63 a 68)",
     "confianza": "alta"
@@ -11850,11 +12039,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "El art. 63 TREBEP enumera un total de... causas de pérdida de la condición de funcionario de carrera.",
     "options": [
+      "seis",
       "tres",
       "cuatro",
       "cinco"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 63 enumera cinco causas, identificadas con las letras a) a e): renuncia, pérdida de nacionalidad, jubilación total, sanción disciplinaria de separación firme y pena de inhabilitación firme.",
     "fuente": "Art. 63 TREBEP",
     "confianza": "alta"
@@ -11864,6 +12054,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "la jubilación total del funcionario",
       "la jubilación parcial del funcionario",
+      "la excedencia por cuidado de familiares",
       "la incapacidad temporal del funcionario"
     ],
     "correct": 0,
@@ -11875,10 +12066,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "¿Cuál de las siguientes causas de pérdida de la condición de funcionario exige, según el TREBEP, que el acto administrativo o judicial correspondiente tenga carácter firme?",
     "options": [
       "La renuncia a la condición de funcionario",
+      "La pérdida de la nacionalidad",
       "La sanción disciplinaria de separación del servicio",
       "La jubilación voluntaria"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 63.d) exige que la sanción disciplinaria de separación del servicio tuviere carácter firme; ni la renuncia ni la jubilación voluntaria requieren firmeza de resolución alguna.",
     "fuente": "Art. 63.d) TREBEP",
     "confianza": "alta"
@@ -11887,6 +12079,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Salvo el supuesto de imposibilidad legal del art. 64.2 TREBEP, la renuncia voluntaria del funcionario debe ser...",
     "options": [
       "aceptada expresamente por la Administración",
+      "aprobada por silencio administrativo positivo",
       "comunicada al Boletín Oficial sin necesidad de aceptación",
       "ratificada ante notario"
     ],
@@ -11900,7 +12093,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "sentencia firme absolutoria",
       "auto de procesamiento o de apertura de juicio oral por la comisión de un delito",
-      "resolución de archivo de diligencias"
+      "resolución de archivo de diligencias",
+      "denuncia policial en trámite de investigación"
     ],
     "correct": 1,
     "exp": "El art. 64.2 impide aceptar la renuncia cuando se haya dictado contra el funcionario auto de procesamiento o de apertura de juicio oral por la comisión de algún delito.",
@@ -11910,11 +12104,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Si un funcionario pierde la nacionalidad española pero adquiere simultáneamente la de otro Estado miembro de la UE, según el art. 65 TREBEP...",
     "options": [
+      "pierde la condición de funcionario, salvo que medie autorización expresa del órgano competente",
       "pierde igualmente la condición de funcionario",
       "pierde la condición de funcionario, pero puede solicitar la rehabilitación de forma automática",
       "no pierde la condición de funcionario"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 65 exceptúa expresamente este supuesto: la pérdida de nacionalidad no determina la pérdida de la condición de funcionario si simultáneamente se adquiere la de otro de los Estados a que se refiere el precepto.",
     "fuente": "Art. 65 TREBEP",
     "confianza": "alta"
@@ -11923,6 +12118,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "El art. 66 TREBEP diferencia los efectos de la pena de inhabilitación según sea...",
     "options": [
       "absoluta o especial",
+      "leve o grave, según la gravedad del delito",
       "temporal o permanente",
       "principal o accesoria, con distinto alcance temporal"
     ],
@@ -11936,7 +12132,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "voluntaria, anticipada y parcial",
       "voluntaria, forzosa y por incapacidad permanente",
-      "forzosa, disciplinaria y por incapacidad temporal"
+      "forzosa, disciplinaria y por incapacidad temporal",
+      "voluntaria, forzosa y por excedencia forzosa"
     ],
     "correct": 1,
     "exp": "El art. 67.1 distingue jubilación voluntaria, forzosa y por declaración de incapacidad permanente (o reconocimiento de pensión de incapacidad permanente absoluta o total).",
@@ -11947,10 +12144,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "La jubilación forzosa por edad se declara, según el art. 67.3 TREBEP...",
     "options": [
       "a instancia de parte, mediante solicitud del interesado",
+      "mediante acuerdo del Consejo de Ministros en cada caso",
       "solo tras informe favorable del órgano de personal",
       "de oficio"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 67.3 dispone que la jubilación forzosa se declarará de oficio al cumplir el funcionario los sesenta y cinco años de edad.",
     "fuente": "Art. 67.3 TREBEP",
     "confianza": "alta"
@@ -11958,11 +12156,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "A diferencia de la rehabilitación excepcional del art. 68.2 TREBEP, la rehabilitación del art. 68.1 TREBEP (pérdida de nacionalidad o jubilación por incapacidad, desaparecida la causa)...",
     "options": [
+      "requiere el transcurso de un plazo mínimo de un año desde la causa",
       "queda al arbitrio discrecional de la Administración",
       "le será concedida al interesado que la solicite",
       "requiere autorización previa del Ministerio de Hacienda"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 68.1 emplea un mandato imperativo ('le será concedida'), a diferencia del carácter excepcional y potestativo del art. 68.2 para los casos de condena a inhabilitación.",
     "fuente": "Art. 68.1 TREBEP",
     "confianza": "alta"
@@ -11972,7 +12171,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "El artículo 67",
       "El artículo 65",
-      "El artículo 68"
+      "El artículo 68",
+      "El artículo 66"
     ],
     "correct": 0,
     "exp": "El art. 67 TREBEP, dentro del Capítulo II del Título IV, regula la jubilación de los funcionarios (voluntaria, forzosa y por incapacidad), mientras que el art. 65 regula la pérdida de nacionalidad y el art. 68 la rehabilitación.",
@@ -11987,6 +12187,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Según el art. 21.1 del TREBEP, ¿qué debe reflejarse para cada ejercicio presupuestario en la correspondiente ley de presupuestos respecto de los funcionarios?",
     "options": [
       "Las cuantías de las retribuciones básicas de los funcionarios",
+      "El incremento porcentual anual de las retribuciones básicas respecto al ejercicio anterior",
       "El incremento de la masa salarial de los funcionarios",
       "El importe global de las indemnizaciones por razón del servicio"
     ],
@@ -11998,11 +12199,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Según el art. 21.1 del TREBEP, respecto de las retribuciones complementarias de los funcionarios, ¿qué debe reflejarse en la ley de presupuestos de cada ejercicio?",
     "options": [
+      "El incremento de la masa salarial global del personal laboral",
       "La cuantía íntegra de cada complemento",
       "El incremento de las cuantías globales",
       "El porcentaje que representan sobre el sueldo"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "A diferencia de las básicas (cuya cuantía íntegra se refleja), de las complementarias solo se refleja el incremento de las cuantías globales.",
     "fuente": "Art. 21.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -12011,10 +12213,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Según el art. 21.1 del TREBEP, en relación con el personal laboral, ¿qué magnitud debe reflejarse en la correspondiente ley de presupuestos?",
     "options": [
       "El importe íntegro del convenio colectivo aplicable",
+      "Las cuantías íntegras de todas las retribuciones básicas y complementarias",
       "El número de trienios reconocidos",
       "El incremento de la masa salarial"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 21.1 exige reflejar, para el personal laboral, el incremento de la masa salarial en la ley de presupuestos de cada ejercicio.",
     "fuente": "Art. 21.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -12024,6 +12227,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Los límites fijados anualmente en la Ley de Presupuestos Generales del Estado para el personal",
       "El índice de revalorización de las pensiones del ejercicio anterior",
+      "El índice de precios de consumo (IPC) interanual publicado por el INE",
       "El porcentaje que determine cada convenio colectivo sectorial"
     ],
     "correct": 0,
@@ -12035,10 +12239,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Según el art. 22.4 del TREBEP, las pagas extraordinarias se calculan sobre la totalidad de las retribuciones complementarias, salvo las referidas a los apartados:",
     "options": [
       "a) y b) del artículo 23",
+      "a) y b) del artículo 24",
       "c) y d) del artículo 24",
       "b) y c) del artículo 22"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 22.4 excluye del cálculo de las pagas extraordinarias las retribuciones complementarias correspondientes a los apartados c) y d) del artículo 24 (rendimiento y servicios extraordinarios).",
     "fuente": "Art. 22.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -12048,9 +12253,10 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Los servicios extraordinarios prestados fuera de la jornada normal",
       "El desempeño de puestos de especial responsabilidad",
+      "Las horas de formación realizadas fuera de la jornada laboral",
       "Cualquier servicio, participación o premio en multas impuestas"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 22.5 prohíbe percibir participación en tributos o en cualquier otro ingreso público como contraprestación de cualquier servicio, participación o premio en multas.",
     "fuente": "Art. 22.5 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -12060,7 +12266,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Aun cuando estuviesen normativamente atribuidas a los servicios",
       "Solo si no existe atribución normativa expresa a los servicios",
-      "Únicamente durante el primer año de servicio activo"
+      "Únicamente durante el primer año de servicio activo",
+      "Salvo que exista autorización expresa del órgano competente"
     ],
     "correct": 0,
     "exp": "El precepto es tajante: la prohibición opera aun cuando esos ingresos estuviesen normativamente atribuidos a los servicios.",
@@ -12072,7 +12279,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Con carácter cerrado y exhaustivo, sin admitir otros",
       "Entre otros, es decir, sin agotar la lista",
-      "Solo a título orientativo, careciendo de eficacia normativa"
+      "Solo a título orientativo, careciendo de eficacia normativa",
+      "De forma taxativa, pudiendo modificarse solo por ley orgánica"
     ],
     "correct": 1,
     "exp": "El art. 24 dice 'atendiendo, entre otros, a los siguientes factores', lo que indica que la lista no es cerrada.",
@@ -12082,11 +12290,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Según el art. 24 b) del TREBEP, entre los factores de las retribuciones complementarias se encuentra:",
     "options": [
+      "La titulación académica exigida con carácter general para el ingreso en el cuerpo",
       "La antigüedad acumulada por cada tres años de servicio",
       "El número de pagas extraordinarias percibidas en el ejercicio",
       "La especial dificultad técnica, responsabilidad, dedicación o incompatibilidad exigible para determinados puestos"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 24 b) recoge la especial dificultad técnica, responsabilidad, dedicación, incompatibilidad exigible o las condiciones en que se desarrolla el trabajo.",
     "fuente": "Art. 24 b) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -12095,6 +12304,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Según el art. 24 c) del TREBEP, entre los factores de las retribuciones complementarias se encuentra:",
     "options": [
       "El grado de interés, iniciativa o esfuerzo y el rendimiento o resultados obtenidos",
+      "La antigüedad en el cuerpo o escala de pertenencia",
       "La progresión alcanzada en el sistema de carrera administrativa",
       "Los servicios extraordinarios prestados fuera de la jornada normal"
     ],
@@ -12108,6 +12318,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "La adscripción del cuerpo o escala a un Subgrupo de clasificación",
       "Los servicios extraordinarios prestados fuera de la jornada normal de trabajo",
+      "El complemento de residencia en zonas de especial coste de vida",
       "Las cantidades destinadas a planes de pensiones de empleo"
     ],
     "correct": 1,
@@ -12118,11 +12329,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Comparando los arts. 23 y 24 del TREBEP, mientras las retribuciones básicas se fijan en la Ley de Presupuestos Generales del Estado, la cuantía y estructura de las retribuciones complementarias se establecen en:",
     "options": [
+      "La normativa reguladora de los Planes de Pensiones",
       "El convenio colectivo único para todas las Administraciones",
       "El reglamento interno de cada organismo autónomo",
       "Las correspondientes leyes de cada Administración Pública"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 24 atribuye a las leyes de cada Administración Pública la fijación de la cuantía y estructura de las retribuciones complementarias, frente a la LPGE que fija las básicas.",
     "fuente": "Art. 24 TREBEP (RDLeg 5/2015)",
     "confianza": "media"
@@ -12131,6 +12343,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Según el art. 25.1 del TREBEP, los funcionarios interinos percibirán las retribuciones básicas y las pagas extraordinarias correspondientes:",
     "options": [
       "Al Subgrupo o Grupo de adscripción, en el supuesto de que este no tenga Subgrupo",
+      "Al puesto de trabajo concreto que vengan desempeñando, con independencia del Subgrupo",
       "A la categoría superior del cuerpo al que aspiren a ingresar",
       "A la media retributiva del personal laboral fijo comparable"
     ],
@@ -12144,7 +12357,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "a) y b)",
       "b), c) y d)",
-      "a), c) y d)"
+      "a), c) y d)",
+      "a), b), c) y d)"
     ],
     "correct": 1,
     "exp": "El art. 25.1 remite expresamente a los apartados b), c) y d) del artículo 24 para las retribuciones complementarias de los interinos.",
@@ -12154,11 +12368,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Según el art. 25.1 del TREBEP, además de las retribuciones básicas y complementarias señaladas, los funcionarios interinos percibirán las correspondientes a:",
     "options": [
+      "La categoría intermedia fijada por la relación de puestos de trabajo",
       "La categoría máxima alcanzable en el cuerpo o escala",
       "El grado personal consolidado por el funcionario de carrera sustituido",
       "La categoría de entrada en el cuerpo o escala en el que se les nombre"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 25.1 añade las retribuciones correspondientes a la categoría de entrada en el cuerpo o escala en que se nombre al interino.",
     "fuente": "Art. 25.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -12167,6 +12382,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Según el art. 25.2 del TREBEP, respecto de los funcionarios interinos, ¿qué se reconocerá en relación con los trienios?",
     "options": [
       "Los correspondientes a los servicios prestados antes de la entrada en vigor del Estatuto",
+      "Los correspondientes a los servicios prestados en otras Administraciones Públicas distintas",
       "El doble de su cuantía durante los cinco primeros años",
       "Ninguno, al no consolidarse la antigüedad en la interinidad"
     ],
@@ -12180,6 +12396,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Con carácter retroactivo desde el inicio de dichos servicios",
       "Únicamente a partir de la entrada en vigor del propio Estatuto",
+      "Desde el primer día del ejercicio presupuestario siguiente",
       "Solo tras la superación del proceso selectivo correspondiente"
     ],
     "correct": 1,
@@ -12190,11 +12407,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Según el art. 26 del TREBEP, las retribuciones de los funcionarios en prácticas se corresponderán, como mínimo, con:",
     "options": [
+      "El sueldo del Subgrupo o Grupo inmediatamente superior al que aspiren a ingresar",
       "La totalidad de las retribuciones básicas y complementarias del puesto",
       "El salario mínimo interprofesional vigente",
       "El sueldo del Subgrupo o Grupo en que aspiren a ingresar"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 26 fija como suelo mínimo el sueldo del Subgrupo o Grupo (o Grupo si no tiene Subgrupo) en que aspiren a ingresar, sin impedir que se fije una cuantía mayor.",
     "fuente": "Art. 26 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -12204,7 +12422,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "El artículo 21 del propio Estatuto",
       "El artículo 24 del propio Estatuto",
-      "El Estatuto de los Trabajadores en su integridad"
+      "El Estatuto de los Trabajadores en su integridad",
+      "Artículo 22 del propio Estatuto"
     ],
     "correct": 0,
     "exp": "El art. 27 cierra remitiendo a que, en todo caso, se respete lo establecido en el artículo 21 (límites de incremento de la masa salarial).",
@@ -12216,6 +12435,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Un complemento de disponibilidad permanente con carácter general",
       "Las indemnizaciones correspondientes por razón del servicio",
+      "Un complemento de residencia obligatorio en todos los destinos",
       "Una paga extraordinaria adicional por antigüedad"
     ],
     "correct": 1,
@@ -12226,11 +12446,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Según el art. 28 del TREBEP, las indemnizaciones que perciben los funcionarios se justifican:",
     "options": [
+      "Por razón de antigüedad en el puesto de trabajo",
       "Por razón de cargas familiares",
       "Por razón de residencia en zonas de especial dificultad",
       "Por razón del servicio"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 28 vincula expresamente las indemnizaciones al concepto 'por razón del servicio'.",
     "fuente": "Art. 28 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -12240,6 +12461,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Aportaciones a planes de pensiones de empleo o contratos de seguro colectivos",
       "Anticipos reintegrables sin interés para todo el personal",
+      "Subvenciones directas a sindicatos representativos",
       "Complementos de productividad extraordinarios de fin de año"
     ],
     "correct": 0,
@@ -12252,7 +12474,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Incapacidad temporal",
       "Jubilación",
-      "Desempleo"
+      "Desempleo",
+      "Fallecimiento por accidente laboral"
     ],
     "correct": 1,
     "exp": "El art. 29 exige que esos instrumentos incluyan la cobertura de la contingencia de jubilación.",
@@ -12262,11 +12485,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Según el art. 29 del TREBEP, las cantidades destinadas a financiar aportaciones a planes de pensiones de empleo tienen como límite:",
     "options": [
+      "El 10 por ciento de las retribuciones complementarias del ejercicio anterior",
       "El 5 por ciento de la masa salarial en todo caso",
       "El importe equivalente a una paga extraordinaria por trabajador",
       "El porcentaje de la masa salarial que se fije en las correspondientes Leyes de Presupuestos Generales del Estado"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 29 remite el límite al porcentaje de la masa salarial que fijen las correspondientes Leyes de Presupuestos Generales del Estado.",
     "fuente": "Art. 29 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -12275,6 +12499,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Según el art. 29 del TREBEP, las aportaciones a planes de pensiones de empleo se destinan, para la contingencia de jubilación, a:",
     "options": [
       "El personal incluido en sus ámbitos",
+      "Únicamente el personal laboral fijo con contrato indefinido",
       "Exclusivamente los funcionarios de carrera con más de veinte años de servicio",
       "El personal directivo de las Administraciones Públicas"
     ],
@@ -12288,6 +12513,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Indemnización por razón del servicio",
       "Retribución diferida, a todos los efectos",
+      "Retribución complementaria de carácter periódico",
       "Complemento de destino no consolidable"
     ],
     "correct": 1,
@@ -12298,11 +12524,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Según el art. 30.1 del TREBEP, la parte de jornada no realizada dará lugar a:",
     "options": [
+      "La suspensión temporal de la condición de funcionario",
       "La pérdida total de las retribuciones complementarias del mes",
       "La apertura automática de expediente disciplinario",
       "La deducción proporcional de haberes"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 30.1 establece que la parte de jornada no realizada da lugar a la deducción proporcional de haberes.",
     "fuente": "Art. 30.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -12311,6 +12538,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Según el art. 30.1 del TREBEP, la deducción proporcional de haberes por la jornada no realizada se aplica:",
     "options": [
       "Sin perjuicio de la sanción disciplinaria que pueda corresponder",
+      "Previa autorización expresa del órgano competente en materia disciplinaria",
       "En sustitución de cualquier sanción disciplinaria que pudiera corresponder",
       "Solo cuando no exista posibilidad de sanción disciplinaria"
     ],
@@ -12324,6 +12552,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Tendrá siempre carácter sancionador",
       "No tendrá carácter sancionador",
+      "Tendrá carácter sancionador únicamente en caso de reiteración",
       "Solo se aplicará tras resolución sancionadora firme"
     ],
     "correct": 1,
@@ -12335,10 +12564,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Según el art. 30.2 del TREBEP, quienes ejerciten el derecho de huelga:",
     "options": [
       "Devengarán íntegramente sus retribuciones básicas durante la huelga",
+      "Percibirán únicamente las retribuciones complementarias correspondientes al tiempo de huelga",
       "Percibirán solo el sueldo, pero no los trienios",
       "No devengarán ni percibirán las retribuciones correspondientes al tiempo en que hayan permanecido en esa situación"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 30.2 dispone que quienes ejerzan el derecho de huelga no devengarán ni percibirán las retribuciones del tiempo de huelga.",
     "fuente": "Art. 30.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -12347,6 +12577,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "Según el art. 30.2 del TREBEP, la deducción de haberes que se efectúe por el ejercicio del derecho de huelga:",
     "options": [
       "No tendrá carácter de sanción",
+      "Debe ser acordada expresamente por el órgano de gobierno de la Administración en cada caso",
       "Tendrá siempre la consideración de sanción leve",
       "Requerirá la apertura de expediente disciplinario previo"
     ],
@@ -12358,11 +12589,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "Según el art. 30.2 del TREBEP, la deducción de haberes por el ejercicio del derecho de huelga:",
     "options": [
+      "Conlleva la baja temporal en el régimen de Clases Pasivas mientras dure la huelga",
       "Afecta proporcionalmente al régimen de prestaciones sociales",
       "No afecta al régimen respectivo de las prestaciones sociales",
       "Suspende automáticamente el alta en Seguridad Social"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 30.2 garantiza que dicha deducción no afecta al régimen respectivo de las prestaciones sociales del empleado.",
     "fuente": "Art. 30.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -12371,10 +12603,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "¿Qué artículo del TREBEP lleva por título 'Determinación de las cuantías y de los incrementos retributivos'?",
     "options": [
       "Artículo 20",
+      "Artículo 23",
       "Artículo 22",
       "Artículo 21"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "Ese es el título del artículo 21, dentro del capítulo de derechos retributivos.",
     "fuente": "Art. 21 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -12383,6 +12616,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "¿Qué artículo del TREBEP lleva por título 'Indemnizaciones'?",
     "options": [
       "Artículo 28",
+      "Artículo 26",
       "Artículo 27",
       "Artículo 29"
     ],
@@ -12396,6 +12630,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Artículo 28",
       "Artículo 29",
+      "Artículo 31",
       "Artículo 30"
     ],
     "correct": 1,
@@ -12407,10 +12642,11 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "q": "¿Qué artículo del TREBEP lleva por título 'Deducción de retribuciones'?",
     "options": [
       "Artículo 22",
+      "Artículo 33",
       "Artículo 25",
       "Artículo 30"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El título 'Deducción de retribuciones' corresponde al artículo 30 del TREBEP.",
     "fuente": "Art. 30 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -12420,7 +12656,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Artículo 25",
       "Artículo 26",
-      "Artículo 27"
+      "Artículo 27",
+      "Artículo 24"
     ],
     "correct": 0,
     "exp": "El título 'Retribuciones de los funcionarios interinos' corresponde al artículo 25 del TREBEP.",
@@ -12432,7 +12669,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "El convenio colectivo estatal de aplicación general",
       "La normativa reguladora de los Planes de Pensiones",
-      "El reglamento de régimen interior de cada Administración"
+      "El reglamento de régimen interior de cada Administración",
+      "La Ley General de la Seguridad Social"
     ],
     "correct": 1,
     "exp": "El art. 29 remite a la normativa reguladora de los Planes de Pensiones para la realización de esas aportaciones.",
@@ -12442,11 +12680,12 @@ window.addQuestions('aux-admin-zaragoza', 17, [
   {
     "q": "¿Cuántos apartados numerados contiene el artículo 30 del TREBEP ('Deducción de retribuciones')?",
     "options": [
+      "Cinco",
       "Tres",
       "Cuatro",
       "Dos"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El artículo 30 se estructura en dos apartados: el 30.1 (deducción proporcional de haberes) y el 30.2 (deducción por huelga).",
     "fuente": "Art. 30 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -12456,7 +12695,8 @@ window.addQuestions('aux-admin-zaragoza', 17, [
     "options": [
       "Dos",
       "Uno",
-      "Tres"
+      "Tres",
+      "Cuatro"
     ],
     "correct": 0,
     "exp": "El artículo 21 se estructura en dos apartados: el 21.1 (reflejo en la ley de presupuestos) y el 21.2 (límite anual de incremento).",
