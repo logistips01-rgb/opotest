@@ -1,0 +1,406 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 4,
+  "preguntas": [
+    {
+      "q": "¿Cómo se titula el art. 3 de la Ley 39/2015, LPAC?",
+      "options": ["Capacidad de obrar", "Concepto de interesado", "Representación", "Identificación de los interesados"],
+      "correct": 0,
+      "exp": "El art. 3 LPAC lleva por título 'Capacidad de obrar'.",
+      "fuente": "Art. 3 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado el epígrafe 'Artículo 3. Capacidad de obrar.' en el cuerpo real (línea 388); las 4 opciones son títulos distintos sin ambigüedad."
+    },
+    {
+      "q": "Según el encabezado del art. 3 LPAC, ¿ante quién se reconoce la capacidad de obrar regulada en dicho artículo?",
+      "options": ["Ante los Tribunales de Justicia", "Ante las Administraciones Públicas", "Ante el Registro Civil", "Ante el Notario"],
+      "correct": 1,
+      "exp": "El art. 3 dice: 'A los efectos previstos en esta Ley, tendrán capacidad de obrar ante las Administraciones Públicas...'.",
+      "fuente": "Art. 3 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Frase inicial del art. 3 (línea 389) confirma 'ante las Administraciones Públicas'; opciones sin solapamiento."
+    },
+    {
+      "q": "Según el art. 3 a) LPAC, ¿qué personas tienen capacidad de obrar ante las Administraciones Públicas por remisión a las normas civiles?",
+      "options": ["Únicamente las personas físicas", "Únicamente las personas jurídicas de derecho público", "Tanto las personas físicas como las jurídicas que ostenten capacidad de obrar conforme a esas normas", "Únicamente los menores emancipados"],
+      "correct": 2,
+      "exp": "Art. 3 a): tendrán capacidad de obrar 'las personas físicas o jurídicas que ostenten capacidad de obrar con arreglo a las normas civiles'.",
+      "fuente": "Art. 3 a) LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Texto de la letra a) (línea 390) coincide literalmente con la opción correcta."
+    },
+    {
+      "q": "Según el art. 3 b) LPAC, además de la patria potestad, ¿qué otras dos instituciones se citan como asistencia de la que puede prescindir el menor de edad?",
+      "options": ["La emancipación y la mayoría de edad", "La adopción y el acogimiento", "La representación legal y la guarda de hecho", "La tutela y la curatela"],
+      "correct": 3,
+      "exp": "Art. 3 b) se refiere a la actuación permitida por el ordenamiento jurídico 'sin la asistencia de la persona que ejerza la patria potestad, tutela o curatela'.",
+      "fuente": "Art. 3 b) LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Letra b) (línea 391) enumera 'patria potestad, tutela o curatela'; tutela y curatela son las otras dos instituciones."
+    },
+    {
+      "q": "Según el art. 3 b) LPAC, ¿en qué caso se exceptúa la capacidad de obrar de los menores de edad?",
+      "options": ["Cuando la extensión de la incapacitación afecte al ejercicio y defensa de los derechos o intereses de que se trate", "Cuando el menor sea mayor de dieciséis años", "Cuando el procedimiento sea sancionador", "Cuando el menor no disponga de representante legal"],
+      "correct": 0,
+      "exp": "Art. 3 b) in fine: 'Se exceptúa el supuesto de los menores incapacitados, cuando la extensión de la incapacitación afecte al ejercicio y defensa de los derechos o intereses de que se trate.'",
+      "fuente": "Art. 3 b) LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Segunda frase de la letra b) (línea 391) reproduce literalmente la excepción de la opción correcta."
+    },
+    {
+      "q": "¿Qué diferencia esencial existe, según el art. 3 LPAC, entre el supuesto de la letra a) y el de la letra c)?",
+      "options": ["La letra c) solo se aplica a personas físicas menores de edad", "La letra a) atribuye capacidad de obrar conforme a las normas civiles; la letra c) exige que una Ley lo declare expresamente, aun sin personalidad jurídica", "Ambas letras exigen personalidad jurídica propia del sujeto", "La letra a) exige declaración expresa de una Ley; la letra c) se aplica automáticamente por remisión a las normas civiles"],
+      "correct": 1,
+      "exp": "El art. 3 a) LPAC remite a la capacidad de obrar civil; el art. 3 c) exige que una Ley declare expresamente la capacidad de obrar de entes sin personalidad jurídica.",
+      "fuente": "Art. 3 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comparadas letras a) y c) (líneas 390 y 392); la opción 3 invierte correctamente la relación como distractor, sin duplicados."
+    },
+    {
+      "q": "¿Cuál de los siguientes conjuntos de sujetos aparece citado en el art. 3 c) LPAC como titular de capacidad de obrar, cuando la Ley lo declare expresamente?",
+      "options": ["Los partidos políticos y los sindicatos", "Las sociedades mercantiles en liquidación", "Los grupos de afectados, las uniones y entidades sin personalidad jurídica y los patrimonios independientes o autónomos", "Las comunidades autónomas y las entidades locales"],
+      "correct": 2,
+      "exp": "Art. 3 c) enumera exactamente: grupos de afectados, uniones y entidades sin personalidad jurídica, y patrimonios independientes o autónomos.",
+      "fuente": "Art. 3 c) LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Letra c) (línea 392) transcrita literalmente en la opción correcta."
+    },
+    {
+      "q": "¿En cuántos apartados (letras) se estructura el art. 3 LPAC?",
+      "options": ["En dos: a) y b)", "En cuatro: a), b), c) y d)", "En un único párrafo sin apartados", "En tres: a), b) y c)"],
+      "correct": 3,
+      "exp": "El art. 3 LPAC enumera tres supuestos identificados con las letras a), b) y c).",
+      "fuente": "Art. 3 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Contadas las letras del art. 3 (líneas 390-392): a), b) y c), total tres."
+    },
+    {
+      "q": "Un menor de edad quiere ejercer un derecho cuya actuación le permite el ordenamiento jurídico sin necesidad de asistencia de quien ejerce su patria potestad. Según el art. 3 b) LPAC, ¿tiene capacidad de obrar para ello?",
+      "options": ["Sí, salvo que esté incapacitado y la incapacitación afecte al ejercicio y defensa de ese derecho", "No, los menores nunca tienen capacidad de obrar", "Sí, pero solo si es mayor de dieciséis años", "No, salvo autorización judicial expresa en cada caso"],
+      "correct": 0,
+      "exp": "Art. 3 b): los menores tienen capacidad de obrar para esos derechos e intereses, salvo el supuesto de menores incapacitados cuando la incapacitación afecte a ese ejercicio y defensa.",
+      "fuente": "Art. 3 b) LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Caso práctico contrastado con el texto íntegro de la letra b) (línea 391); regla general más su única excepción."
+    },
+    {
+      "q": "¿Cuántas letras (categorías) integran el apartado 1 del art. 4 LPAC, dedicado al concepto de interesado?",
+      "options": ["Dos", "Tres", "Cuatro", "Cinco"],
+      "correct": 1,
+      "exp": "El art. 4.1 LPAC enumera tres categorías de interesado: letras a), b) y c).",
+      "fuente": "Art. 4.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Contadas las letras del art. 4.1 (líneas 398-400): a), b) y c), total tres."
+    },
+    {
+      "q": "Una persona no ha iniciado un procedimiento administrativo, pero tiene un derecho que puede resultar afectado por la decisión que se adopte en él. Según el art. 4.1 LPAC, ¿en qué letra encaja como interesado?",
+      "options": ["En la letra a)", "En la letra c)", "En la letra b)", "No tiene la condición de interesado"],
+      "correct": 2,
+      "exp": "Art. 4.1 b): son interesados 'los que, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte'.",
+      "fuente": "Art. 4.1 b) LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Supuesto de hecho calca la letra b) del art. 4.1 (línea 399) palabra por palabra."
+    },
+    {
+      "q": "Según el art. 4.1 c) LPAC, quienes tienen intereses legítimos que puedan resultar afectados por la resolución adquieren la condición de interesados si se personan en el procedimiento:",
+      "options": ["En cualquier momento, incluso tras la resolución definitiva", "Únicamente antes de iniciarse el procedimiento", "Solo durante el trámite de audiencia", "En tanto no haya recaído resolución definitiva"],
+      "correct": 3,
+      "exp": "Art. 4.1 c): '...y se personen en el procedimiento en tanto no haya recaído resolución definitiva.'",
+      "fuente": "Art. 4.1 c) LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Letra c) (línea 400) confirma la condición temporal 'en tanto no haya recaído resolución definitiva'."
+    },
+    {
+      "q": "Según el art. 4.1 a) LPAC, la condición de interesado por esta vía exige que la persona:",
+      "options": ["Promueva el procedimiento como titular de derechos o intereses legítimos, individuales o colectivos", "Se limite a alegar en el trámite de audiencia sin haber iniciado el procedimiento", "Sea notificada de oficio por la Administración", "Ostente la representación de otro interesado"],
+      "correct": 0,
+      "exp": "Art. 4.1 a): son interesados 'quienes lo promuevan como titulares de derechos o intereses legítimos individuales o colectivos'.",
+      "fuente": "Art. 4.1 a) LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Letra a) (línea 398) reproducida literalmente en la opción correcta."
+    },
+    {
+      "q": "Según el art. 4.2 LPAC, las asociaciones y organizaciones representativas de intereses económicos y sociales serán titulares de intereses legítimos colectivos:",
+      "options": ["Siempre, sin ninguna condición", "En los términos que la Ley reconozca", "Solo si están inscritas en un registro estatal", "Únicamente cuando actúen en defensa de intereses económicos, nunca sociales"],
+      "correct": 1,
+      "exp": "Art. 4.2: '...serán titulares de intereses legítimos colectivos en los términos que la Ley reconozca.'",
+      "fuente": "Art. 4.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Apartado 2 del art. 4 (línea 401) coincide literalmente con la opción correcta."
+    },
+    {
+      "q": "Según el art. 4.3 LPAC, ¿qué tipo de relación jurídica debe existir para que el derecho-habiente suceda en la condición de interesado?",
+      "options": ["Una relación jurídica de carácter sancionador", "Una relación jurídica intransmisible por naturaleza", "Una relación jurídica transmisible", "Una relación jurídica de derecho privado exclusivamente"],
+      "correct": 2,
+      "exp": "Art. 4.3: 'Cuando la condición de interesado derivase de alguna relación jurídica transmisible, el derecho-habiente sucederá en tal condición...'.",
+      "fuente": "Art. 4.3 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Apartado 3 del art. 4 (línea 402) exige expresamente 'relación jurídica transmisible'."
+    },
+    {
+      "q": "Según el art. 4.3 LPAC, el derecho-habiente sucede en la condición de interesado:",
+      "options": ["Solo si el procedimiento aún no se ha iniciado", "Solo si el procedimiento se encuentra en fase de instrucción", "Solo si medió consentimiento expreso de la Administración", "Cualquiera que sea el estado del procedimiento"],
+      "correct": 3,
+      "exp": "Art. 4.3 in fine: '...cualquiera que sea el estado del procedimiento.'",
+      "fuente": "Art. 4.3 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Final del apartado 3 (línea 402) confirma 'cualquiera que sea el estado del procedimiento'."
+    },
+    {
+      "q": "¿Cuál es la diferencia esencial entre el interesado de la letra a) y el de la letra c) del art. 4.1 LPAC?",
+      "options": ["El de la letra a) promueve el procedimiento; el de la letra c) no lo promueve pero se persona en él por verse afectados sus intereses legítimos", "El de la letra a) solo puede ser persona jurídica; el de la letra c) solo persona física", "El de la letra c) tiene intereses legítimos y el de la letra a) solo derechos subjetivos", "No hay diferencia, ambas letras regulan el mismo supuesto"],
+      "correct": 0,
+      "exp": "La letra a) se refiere a quien promueve el procedimiento; la letra c), a quien no lo promueve pero ve afectados sus intereses legítimos y se persona antes de la resolución definitiva.",
+      "fuente": "Art. 4.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comparadas letras a) y c) del art. 4.1 (líneas 398 y 400); distractores no coinciden con el texto."
+    },
+    {
+      "q": "¿Cómo se titula el art. 4 LPAC?",
+      "options": ["Capacidad de obrar", "Concepto de interesado", "Pluralidad de interesados", "Nuevos interesados en el procedimiento"],
+      "correct": 1,
+      "exp": "El art. 4 LPAC lleva por título 'Concepto de interesado'.",
+      "fuente": "Art. 4 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Epígrafe 'Artículo 4. Concepto de interesado.' (línea 396) confirmado; los otros títulos pertenecen a arts. 3, 7 y 8 respectivamente."
+    },
+    {
+      "q": "Según el art. 5.1 LPAC, cuando un interesado actúa por medio de representante, la Administración se entenderá con este en las actuaciones administrativas:",
+      "options": ["Solo si el representante es abogado en ejercicio", "Únicamente en el trámite de alegaciones", "Salvo manifestación expresa en contra del interesado", "Solo cuando el interesado esté incapacitado"],
+      "correct": 2,
+      "exp": "Art. 5.1: '...podrán actuar por medio de representante, entendiéndose con éste las actuaciones administrativas, salvo manifestación expresa en contra del interesado.'",
+      "fuente": "Art. 5.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Apartado 1 del art. 5 (línea 406) reproducido literalmente en la opción correcta."
+    },
+    {
+      "q": "Según el art. 5.1 LPAC, ¿quién puede actuar por medio de representante ante las Administraciones Públicas?",
+      "options": ["Únicamente las personas jurídicas", "Únicamente quienes carezcan de capacidad de obrar", "Solo los interesados en procedimientos sancionadores", "Los interesados con capacidad de obrar"],
+      "correct": 3,
+      "exp": "Art. 5.1: 'Los interesados con capacidad de obrar podrán actuar por medio de representante...'.",
+      "fuente": "Art. 5.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Inicio del apartado 1 (línea 406) coincide con la opción correcta."
+    },
+    {
+      "q": "Según el art. 5.2 LPAC, ¿bajo qué condición pueden las personas jurídicas actuar en representación de otras ante las Administraciones Públicas?",
+      "options": ["Siempre que ello esté previsto en sus Estatutos", "Siempre, sin necesidad de previsión estatutaria", "Solo si cuentan con autorización del registro mercantil", "Únicamente si son sociedades públicas"],
+      "correct": 0,
+      "exp": "Art. 5.2: '...las personas jurídicas, siempre que ello esté previsto en sus Estatutos, podrán actuar en representación de otras...'.",
+      "fuente": "Art. 5.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Apartado 2 (línea 407) confirma la condición estatutaria para personas jurídicas."
+    },
+    {
+      "q": "Según el art. 5.2 LPAC, ¿qué requisito deben cumplir las personas físicas para poder actuar en representación de otras ante las Administraciones Públicas?",
+      "options": ["Ser funcionario público", "Tener capacidad de obrar", "Estar colegiadas en un colegio profesional", "Contar con poder notarial específico"],
+      "correct": 1,
+      "exp": "Art. 5.2: 'Las personas físicas con capacidad de obrar... podrán actuar en representación de otras ante las Administraciones Públicas.'",
+      "fuente": "Art. 5.2 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Apartado 2 (línea 407) exige 'capacidad de obrar' para las personas físicas."
+    },
+    {
+      "q": "¿Cuál de las siguientes actuaciones exige, según el art. 5.3 LPAC, acreditar la representación?",
+      "options": ["Realizar un acto de mero trámite", "Consultar el estado de un expediente", "Desistir de una acción en nombre de otra persona", "Solicitar información general sobre un procedimiento"],
+      "correct": 2,
+      "exp": "Art. 5.3 exige acreditar representación, entre otras actuaciones, para 'desistir de acciones y renunciar a derechos en nombre de otra persona'.",
+      "fuente": "Art. 5.3 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Apartado 3 (línea 408) enumera desistir de acciones entre las actuaciones que exigen acreditación; el acto de mero trámite es justo el caso en que se presume."
+    },
+    {
+      "q": "Según el art. 5.3 LPAC, ¿qué ocurre con la representación en los actos y gestiones de mero trámite?",
+      "options": ["Queda expresamente prohibida", "Debe acreditarse siempre mediante poder notarial", "Solo es válida si se ratifica posteriormente por escrito", "Se presumirá dicha representación"],
+      "correct": 3,
+      "exp": "Art. 5.3 in fine: 'Para los actos y gestiones de mero trámite se presumirá aquella representación.'",
+      "fuente": "Art. 5.3 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Segunda frase del apartado 3 (línea 408) confirma la presunción de representación."
+    },
+    {
+      "q": "Según el art. 5.4 LPAC, ¿mediante qué medios puede acreditarse, con carácter general, la representación?",
+      "options": ["Cualquier medio válido en Derecho que deje constancia fidedigna de su existencia", "Únicamente escritura pública notarial", "Solo mediante comparecencia personal ante el órgano competente", "Exclusivamente mediante certificado electrónico cualificado"],
+      "correct": 0,
+      "exp": "Art. 5.4: 'La representación podrá acreditarse mediante cualquier medio válido en Derecho que deje constancia fidedigna de su existencia.'",
+      "fuente": "Art. 5.4 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Inicio del apartado 4 (línea 409) coincide literalmente con la opción correcta."
+    },
+    {
+      "q": "Según el art. 5.4 LPAC, el apoderamiento apud acta se entiende acreditado cuando se efectúa mediante:",
+      "options": ["Únicamente comparecencia personal ante notario", "Comparecencia personal o comparecencia electrónica en la sede electrónica correspondiente", "Solo mediante llamada telefónica grabada", "Comparecencia ante cualquier funcionario de otra Administración"],
+      "correct": 1,
+      "exp": "Art. 5.4: '...se entenderá acreditada la representación realizada mediante apoderamiento apud acta efectuado por comparecencia personal o comparecencia electrónica en la correspondiente sede electrónica...'.",
+      "fuente": "Art. 5.4 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Segundo párrafo del apartado 4 (línea 410) reproducido en la opción correcta."
+    },
+    {
+      "q": "Según el art. 5.4 LPAC, además del apoderamiento apud acta, ¿mediante qué otra vía se entiende acreditada la representación?",
+      "options": ["Mediante declaración jurada del representante", "Mediante testigos presenciales", "A través de la acreditación de su inscripción en el registro electrónico de apoderamientos de la Administración Pública competente", "Mediante comunicación telefónica al órgano competente"],
+      "correct": 2,
+      "exp": "Art. 5.4: '...o a través de la acreditación de su inscripción en el registro electrónico de apoderamientos de la Administración Pública competente.'",
+      "fuente": "Art. 5.4 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Continuación del párrafo del apartado 4 (línea 410) confirma la vía alternativa citada."
+    },
+    {
+      "q": "Según el art. 5.5 LPAC, ¿qué debe incorporar al expediente administrativo el órgano competente para la tramitación del procedimiento?",
+      "options": ["Solo el DNI del interesado", "Un informe jurídico sobre la validez del poder", "Copia del Boletín Oficial donde se publicó el poder", "Acreditación de la condición de representante y de los poderes que tiene reconocidos en dicho momento"],
+      "correct": 3,
+      "exp": "Art. 5.5: 'El órgano competente para la tramitación del procedimiento deberá incorporar al expediente administrativo acreditación de la condición de representante y de los poderes que tiene reconocidos en dicho momento.'",
+      "fuente": "Art. 5.5 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Primera frase del apartado 5 (línea 411) reproducida literalmente en la opción correcta."
+    },
+    {
+      "q": "Según el art. 5.5 LPAC, ¿qué condición tiene el documento electrónico que acredita el resultado de la consulta al registro electrónico de apoderamientos?",
+      "options": ["La condición de acreditación a esos efectos", "Ninguna, debe complementarse con un poder notarial", "La de mero indicio, sujeto a ratificación posterior", "La de prueba solo si la consulta la realiza el propio interesado"],
+      "correct": 0,
+      "exp": "Art. 5.5: 'El documento electrónico que acredite el resultado de la consulta al registro electrónico de apoderamientos correspondiente tendrá la condición de acreditación a estos efectos.'",
+      "fuente": "Art. 5.5 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Segunda frase del apartado 5 (línea 411) confirma 'condición de acreditación a estos efectos'."
+    },
+    {
+      "q": "Según el art. 5.6 LPAC, ¿qué ocurre si la representación no se acredita o se acredita insuficientemente?",
+      "options": ["El acto se declara nulo de pleno derecho", "No impedirá que se tenga por realizado el acto, siempre que se subsane el defecto en plazo", "El procedimiento se archiva automáticamente", "El representante asume responsabilidad penal"],
+      "correct": 1,
+      "exp": "Art. 5.6: 'La falta o insuficiente acreditación de la representación no impedirá que se tenga por realizado el acto de que se trate, siempre que se aporte aquélla o se subsane el defecto dentro del plazo...'.",
+      "fuente": "Art. 5.6 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Apartado 6 (línea 412) reproducido en la opción correcta."
+    },
+    {
+      "q": "Según el art. 5.6 LPAC, ¿cuál es el plazo general que debe conceder el órgano administrativo para subsanar el defecto de acreditación de la representación?",
+      "options": ["Cinco días", "Quince días", "Diez días", "Un mes"],
+      "correct": 2,
+      "exp": "Art. 5.6: '...dentro del plazo de diez días que deberá conceder al efecto el órgano administrativo, o de un plazo superior cuando las circunstancias del caso así lo requieran.'",
+      "fuente": "Art. 5.6 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Apartado 6 (línea 412) confirma expresamente 'plazo de diez días'."
+    },
+    {
+      "q": "Según el art. 5.6 LPAC, ¿puede el órgano administrativo conceder un plazo distinto de diez días para subsanar el defecto de representación?",
+      "options": ["No, el plazo de diez días es siempre improrrogable", "Sí, pero solo reduciéndolo a cinco días", "No, salvo que lo autorice un juez", "Sí, un plazo superior cuando las circunstancias del caso así lo requieran"],
+      "correct": 3,
+      "exp": "Art. 5.6 admite conceder 'un plazo superior cuando las circunstancias del caso así lo requieran'.",
+      "fuente": "Art. 5.6 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Final del apartado 6 (línea 412) confirma la posibilidad de un plazo superior."
+    },
+    {
+      "q": "Según el art. 5.7 LPAC, ¿con qué carácter pueden las Administraciones Públicas habilitar a personas físicas o jurídicas para realizar transacciones electrónicas en representación de los interesados?",
+      "options": ["Con carácter general o específico", "Únicamente con carácter general", "Únicamente con carácter específico y temporal", "Solo con carácter provisional, sujeto a ratificación anual"],
+      "correct": 0,
+      "exp": "Art. 5.7: 'Las Administraciones Públicas podrán habilitar con carácter general o específico a personas físicas o jurídicas autorizadas...'.",
+      "fuente": "Art. 5.7 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Inicio del apartado 7 (línea 413) coincide con la opción correcta."
+    },
+    {
+      "q": "Según el art. 5.7 LPAC, ¿qué debe especificar la habilitación concedida a los representantes autorizados para transacciones electrónicas?",
+      "options": ["Únicamente su identidad y DNI", "Las condiciones y obligaciones a las que se comprometen los que adquieran la condición de representantes", "El domicilio fiscal del interesado representado", "El número de expediente concreto en exclusiva"],
+      "correct": 1,
+      "exp": "Art. 5.7: 'Dicha habilitación deberá especificar las condiciones y obligaciones a las que se comprometen los que así adquieran la condición de representantes...'.",
+      "fuente": "Art. 5.7 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Segunda frase del apartado 7 (línea 413) reproducida en la opción correcta."
+    },
+    {
+      "q": "Según el art. 5.7 LPAC, la habilitación para transacciones electrónicas determina, con carácter general, la presunción de validez de la representación:",
+      "options": ["Solo si lo confirma el interesado por escrito", "Nunca, siempre debe acreditarse caso por caso", "Salvo que la normativa de aplicación prevea otra cosa", "Únicamente durante el primer año de vigencia de la habilitación"],
+      "correct": 2,
+      "exp": "Art. 5.7: '...determinará la presunción de validez de la representación salvo que la normativa de aplicación prevea otra cosa.'",
+      "fuente": "Art. 5.7 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Misma frase del apartado 7 (línea 413) confirma la salvedad normativa."
+    },
+    {
+      "q": "Según el art. 5.7 LPAC, pese a existir una habilitación general o específica, ¿pueden las Administraciones Públicas exigir la acreditación de la representación?",
+      "options": ["No, la habilitación la sustituye por completo y de forma permanente", "Solo si lo solicita un juez", "No, salvo que exista denuncia de un tercero", "Sí, en cualquier momento"],
+      "correct": 3,
+      "exp": "Art. 5.7: 'Las Administraciones Públicas podrán requerir, en cualquier momento, la acreditación de dicha representación.'",
+      "fuente": "Art. 5.7 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Penúltima frase del apartado 7 (línea 413) confirma la facultad de requerir acreditación 'en cualquier momento'."
+    },
+    {
+      "q": "Según el art. 5.7 LPAC, aun existiendo una persona habilitada para actuar en representación del interesado en transacciones electrónicas, ¿puede el interesado comparecer por sí mismo en el procedimiento?",
+      "options": ["Sí, siempre podrá comparecer el interesado por sí mismo", "No, debe actuar exclusivamente a través del representante habilitado", "Solo si el representante habilitado lo autoriza expresamente", "No, salvo resolución judicial que lo permita"],
+      "correct": 0,
+      "exp": "Art. 5.7 in fine: 'No obstante, siempre podrá comparecer el interesado por sí mismo en el procedimiento.'",
+      "fuente": "Art. 5.7 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Última frase del apartado 7 (línea 413) confirma literalmente la opción correcta."
+    },
+    {
+      "q": "¿En cuántos apartados numerados se estructura el art. 5 LPAC, dedicado a la representación?",
+      "options": ["En cinco", "En siete", "En cuatro", "En tres"],
+      "correct": 1,
+      "exp": "El art. 5 LPAC se estructura en siete apartados numerados, del 1 al 7.",
+      "fuente": "Art. 5 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Contados los apartados numerados 1 a 7 del art. 5 (líneas 406-413): total siete."
+    },
+    {
+      "q": "¿En qué apartado del art. 5 LPAC se regula el apoderamiento apud acta?",
+      "options": ["En el apartado 2", "En el apartado 6", "En el apartado 4", "En el apartado 7"],
+      "correct": 2,
+      "exp": "El apoderamiento apud acta se regula en el art. 5.4 LPAC.",
+      "fuente": "Art. 5.4 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "El apoderamiento apud acta aparece en el apartado 4 (línea 410), no en los apartados 2, 6 ó 7."
+    },
+    {
+      "q": "Según el art. 5.1 LPAC, ¿quién debe realizar la manifestación expresa en contra de que la Administración se entienda con el representante?",
+      "options": ["El propio representante, renunciando a su cargo", "Un testigo que acredite la actuación", "El órgano administrativo competente, de oficio", "El interesado"],
+      "correct": 3,
+      "exp": "Art. 5.1: la Administración se entiende con el representante 'salvo manifestación expresa en contra del interesado', por lo que es este quien debe manifestarlo, no el representante ni el órgano actuante.",
+      "fuente": "Art. 5.1 LPAC",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Apartado 1 (línea 406) atribuye la manifestación en contra 'del interesado', confirmando la opción correcta."
+    }
+  ]
+}
