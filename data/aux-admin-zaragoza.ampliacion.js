@@ -798,11 +798,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Según el Reglamento de Situaciones Administrativas (RD 365/1995), cada período de excedencia voluntaria por interés particular tendrá una duración no inferior a:",
     "options": [
+      "Cinco años continuados",
       "Un año",
       "Dos años continuados",
       "Tres años continuados"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 16.3 del RD 365/1995 dispone que «cada período de excedencia tendrá una duración no inferior a dos años continuados ni superior a un número de años equivalente a los que el funcionario acredite haber prestado en cualquiera de las Administraciones Públicas, con un máximo de quince». El art. 89.2 TREBEP no fija plazo: remite a las leyes de Función Pública de desarrollo la determinación de los periodos mínimos de permanencia.",
     "fuente": "Art. 16.3 RD 365/1995 (Reglamento de Situaciones Administrativas)"
   }
@@ -6662,6 +6663,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "Los funcionarios de carrera que, en virtud de procesos de transferencias o de procedimientos de provisión de puestos de trabajo, obtienen destino en una Administración Pública distinta, serán declarados en la situación de:",
     "options": [
       "Servicio en otras Administraciones Públicas",
+      "Comisión de servicios",
       "Servicios especiales",
       "Excedencia voluntaria por interés particular"
     ],
@@ -6675,6 +6677,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Transcurran más de diez años en el puesto",
       "La Administración de destino lo integre como personal propio por disposición legal",
+      "Solicite la excedencia voluntaria por interés particular",
       "Sea objeto de un expediente disciplinario"
     ],
     "correct": 1,
@@ -6685,11 +6688,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Los funcionarios transferidos a las comunidades autónomas se integran plenamente en la organización de la función pública autonómica, hallándose en situación de:",
     "options": [
+      "Servicios especiales",
       "Servicio en otras Administraciones Públicas",
       "Excedencia voluntaria por agrupación familiar",
       "Servicio activo en la función pública de la comunidad autónoma"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 88.2 dispone que los funcionarios transferidos a las comunidades autónomas se integran plenamente en su función pública, hallándose en situación de servicio activo en la función pública de la comunidad autónoma en la que se integran.",
     "fuente": "Art. 88.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6699,7 +6703,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "El Grupo o Subgrupo del cuerpo o escala de procedencia y los derechos económicos inherentes a la posición en la carrera reconocida",
       "Únicamente la antigüedad reconocida en la Administración de origen",
-      "El régimen disciplinario aplicable en la Administración de origen"
+      "El régimen disciplinario aplicable en la Administración de origen",
+      "Solo el nivel del puesto de trabajo desempeñado en la Administración de origen"
     ],
     "correct": 0,
     "exp": "El art. 88.2 exige respetar el Grupo o Subgrupo del cuerpo o escala de procedencia, así como los derechos económicos inherentes a la posición en la carrera que tuviesen reconocido.",
@@ -6710,10 +6715,11 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "Los funcionarios transferidos a una comunidad autónoma mantienen en la Administración Pública de origen:",
     "options": [
       "Ningún derecho, al perder su vinculación con la Administración de origen",
+      "Solo el derecho a percibir los trienios devengados hasta la fecha de transferencia",
       "Todos sus derechos, como si se hallaran en servicio activo, conforme a los respectivos Estatutos de Autonomía",
       "Solo el derecho a la reserva del puesto de trabajo durante dos años"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 88.2 señala que los funcionarios transferidos mantienen todos sus derechos en la Administración Pública de origen como si se hallaran en servicio activo, de acuerdo con los respectivos Estatutos de Autonomía.",
     "fuente": "Art. 88.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6721,11 +6727,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "El artículo 88.2 del TREBEP reconoce la igualdad entre todos los funcionarios propios de las comunidades autónomas:",
     "options": [
+      "Solo entre quienes accedieron por el mismo turno de acceso",
       "Solo cuando proceden de la misma Administración de origen",
       "Únicamente a efectos retributivos, no de carrera",
       "Con independencia de su Administración de procedencia"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 88.2 reconoce la igualdad entre todos los funcionarios propios de las comunidades autónomas con independencia de su Administración de procedencia.",
     "fuente": "Art. 88.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6735,6 +6742,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Su condición de funcionario de la Administración de origen y el derecho a participar en las convocatorias de provisión de puestos que ésta efectúe",
       "Únicamente el derecho a percibir retribuciones de la Administración de origen",
+      "La obligación de reincorporarse a la Administración de origen transcurridos dos años",
       "La obligación de solicitar autorización previa de la Administración de origen para cualquier ascenso"
     ],
     "correct": 0,
@@ -6747,7 +6755,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Tiempo de excedencia voluntaria",
       "Servicio activo en su cuerpo o escala de origen",
-      "Tiempo no computable a ningún efecto"
+      "Tiempo no computable a ningún efecto",
+      "Servicios especiales en su cuerpo o escala de origen"
     ],
     "correct": 1,
     "exp": "El art. 88.3 señala que el tiempo de servicio en la Administración Pública en la que estén destinados se les computará como de servicio activo en su cuerpo o escala de origen.",
@@ -6757,11 +6766,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Los funcionarios que reingresen al servicio activo en su Administración de origen procedentes de la situación de servicio en otras Administraciones Públicas obtendrán, conforme al artículo 88.4 del TREBEP:",
     "options": [
+      "La obligación de superar un nuevo proceso selectivo",
       "La pérdida automática de la antigüedad reconocida",
       "El derecho a una excedencia voluntaria de un año",
       "El reconocimiento profesional de los progresos alcanzados en el sistema de carrera profesional y sus efectos retributivos"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 88.4 reconoce a estos funcionarios el reconocimiento profesional de los progresos alcanzados en el sistema de carrera profesional y sus efectos sobre la posición retributiva.",
     "fuente": "Art. 88.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6771,7 +6781,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Cinco",
       "Tres",
-      "Cuatro"
+      "Cuatro",
+      "Seis"
     ],
     "correct": 0,
     "exp": "El art. 89.1 recoge cinco modalidades: interés particular, agrupación familiar, cuidado de familiares, violencia de género o sexual, y violencia terrorista.",
@@ -6781,11 +6792,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "La excedencia por razón de violencia terrorista se recoge en el artículo 89.1 del TREBEP en la letra:",
     "options": [
+      "b)",
       "c)",
       "e)",
       "d)"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 89.1.e) contempla la excedencia por razón de violencia terrorista.",
     "fuente": "Art. 89.1.e) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6795,7 +6807,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "c)",
       "d)",
-      "b)"
+      "b)",
+      "e)"
     ],
     "correct": 2,
     "exp": "El art. 89.1.b) recoge la excedencia voluntaria por agrupación familiar.",
@@ -6806,6 +6819,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "La concesión de la excedencia voluntaria por interés particular queda subordinada, conforme al artículo 89.2 del TREBEP, a:",
     "options": [
       "Las necesidades del servicio debidamente motivadas",
+      "Autorización previa del Ministerio de Hacienda",
       "La antigüedad del funcionario en el puesto",
       "El informe favorable del sindicato mayoritario"
     ],
@@ -6819,6 +6833,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "El funcionario disfrute de vacaciones ese año",
       "Al funcionario se le esté instruyendo expediente disciplinario",
+      "No haya solicitado previamente permiso por asuntos particulares",
       "El puesto de trabajo esté vacante"
     ],
     "correct": 1,
@@ -6831,7 +6846,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "El funcionario lo solicite expresamente por escrito",
       "Transcurran cinco años desde el ingreso en la función pública",
-      "Finalizada la causa que determinó el pase a una situación distinta de servicio activo, se incumpla la obligación de solicitar el reingreso en plazo"
+      "Finalizada la causa que determinó el pase a una situación distinta de servicio activo, se incumpla la obligación de solicitar el reingreso en plazo",
+      "El funcionario cumpla la edad de jubilación anticipada"
     ],
     "correct": 2,
     "exp": "El art. 89.2 dispone que procederá declarar de oficio esta excedencia cuando, finalizada la causa que determinó el pase a una situación distinta de servicio activo, se incumpla la obligación de solicitar el reingreso en el plazo reglamentario.",
@@ -6842,6 +6858,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "Quienes se encuentren en situación de excedencia voluntaria por interés particular, conforme al artículo 89.2 del TREBEP:",
     "options": [
       "No devengarán retribuciones, ni les será computable el tiempo a efectos de ascensos, trienios y derechos de Seguridad Social",
+      "Conservarán el derecho a la reserva del puesto de trabajo durante dos años",
       "Devengarán retribuciones reducidas al 50 por ciento",
       "Mantendrán el cómputo a efectos de trienios pero no de ascensos"
     ],
@@ -6853,11 +6870,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "El artículo 89.2 del TREBEP permite que las leyes de función pública que se dicten en su desarrollo:",
     "options": [
+      "Eliminen el requisito de necesidades del servicio para su concesión",
       "Supriman la excedencia voluntaria por interés particular",
       "Establezcan una duración menor del periodo de servicios exigido y determinen los periodos mínimos de permanencia",
       "Amplíen el periodo exigido a diez años en todo caso"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 89.2 permite que las leyes de función pública establezcan una duración menor del periodo de prestación de servicios exigido y determinen los periodos mínimos de permanencia en la excedencia.",
     "fuente": "Art. 89.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6866,10 +6884,11 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "La excedencia voluntaria por agrupación familiar podrá concederse, conforme al artículo 89.3 del TREBEP:",
     "options": [
       "Solo si el funcionario ha prestado cinco años de servicios efectivos",
+      "Solo cuando el cónyuge trabaje en la misma Administración que el funcionario",
       "Únicamente a funcionarios sin hijos a cargo",
       "Sin el requisito de haber prestado servicios efectivos durante el periodo establecido"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 89.3 permite conceder esta excedencia sin el requisito de haber prestado servicios efectivos durante el periodo establecido para la excedencia por interés particular.",
     "fuente": "Art. 89.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6879,7 +6898,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Definitivo, como funcionario de carrera o laboral fijo",
       "Temporal como interino",
-      "Provisional en comisión de servicios"
+      "Provisional en comisión de servicios",
+      "Fijo discontinuo en la misma Administración"
     ],
     "correct": 0,
     "exp": "El art. 89.3 exige que el cónyuge resida en otra localidad por haber obtenido y estar desempeñando un puesto de trabajo de carácter definitivo, como funcionario de carrera o como laboral fijo.",
@@ -6891,6 +6911,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Únicamente en la Administración General del Estado",
       "La Unión Europea o en organizaciones internacionales",
+      "Los partidos políticos con representación parlamentaria",
       "Exclusivamente en empresas privadas concesionarias de servicios públicos"
     ],
     "correct": 1,
@@ -6901,11 +6922,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Quienes se encuentren en situación de excedencia voluntaria por agrupación familiar, conforme al artículo 89.3 del TREBEP:",
     "options": [
+      "Podrán participar en los cursos de formación que convoque la Administración",
       "Conservan el cómputo del tiempo a efectos de trienios",
       "Tienen derecho a reserva de puesto durante dos años",
       "No devengarán retribuciones ni les será computable el tiempo a efectos de ascensos, trienios y Seguridad Social"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 89.3 dispone que no devengarán retribuciones, ni les será computable el tiempo que permanezcan en tal situación a efectos de ascensos, trienios y Seguridad Social.",
     "fuente": "Art. 89.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6915,7 +6937,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "No pueda valerse por sí mismo por razones de edad, accidente, enfermedad o discapacidad y no desempeñe actividad retribuida",
       "Resida en el mismo domicilio que el funcionario",
-      "Tenga reconocida una discapacidad igual o superior al 65 por ciento"
+      "Tenga reconocida una discapacidad igual o superior al 65 por ciento",
+      "Tenga reconocida una situación de dependencia de Grado II"
     ],
     "correct": 0,
     "exp": "El art. 89.4 exige que el familiar, por razones de edad, accidente, enfermedad o discapacidad, no pueda valerse por sí mismo y no desempeñe actividad retribuida.",
@@ -6926,10 +6949,11 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "Conforme al artículo 89.4 del TREBEP, el periodo de excedencia por cuidado de familiares será:",
     "options": [
       "Acumulable indefinidamente por cada nuevo sujeto causante",
+      "De duración máxima de un año, ampliable a dos",
       "Único por cada sujeto causante, de modo que un nuevo sujeto causante pone fin al que se viniera disfrutando",
       "Prorrogable automáticamente hasta la jubilación del funcionario"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 89.4 establece que el período de excedencia será único por cada sujeto causante, y que un nuevo sujeto causante pone fin al que se viniera disfrutando.",
     "fuente": "Art. 89.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6939,9 +6963,10 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Denegarla automáticamente a ambos",
       "Obligar a que la disfrute solo el funcionario de mayor antigüedad",
+      "Exigir que se turnen por periodos de seis meses",
       "Limitar su ejercicio simultáneo por razones justificadas relacionadas con el funcionamiento de los servicios"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 89.4 permite a la Administración limitar el ejercicio simultáneo de esta excedencia por razones justificadas relacionadas con el funcionamiento de los servicios.",
     "fuente": "Art. 89.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6949,11 +6974,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "El tiempo de permanencia en la excedencia por cuidado de familiares, conforme al artículo 89.4 del TREBEP, será computable a efectos de:",
     "options": [
+      "Ascensos y retribuciones complementarias",
       "Trienios, carrera y derechos en el régimen de Seguridad Social aplicable",
       "Únicamente a efectos de antigüedad, no de Seguridad Social",
       "Ningún efecto, salvo el reingreso"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 89.4 señala que el tiempo de permanencia será computable a efectos de trienios, carrera y derechos en el régimen de Seguridad Social que sea de aplicación.",
     "fuente": "Art. 89.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6963,7 +6989,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Durante todo el periodo de excedencia, sin límite",
       "Al menos durante dos años, y transcurrido este periodo la reserva será a un puesto en la misma localidad y de igual retribución",
-      "Solo durante los primeros seis meses"
+      "Solo durante los primeros seis meses",
+      "Durante un año, transcurrido el cual se pierde el puesto definitivamente"
     ],
     "correct": 1,
     "exp": "El art. 89.4 establece que el puesto se reservará al menos durante dos años, y transcurrido este periodo la reserva será a un puesto en la misma localidad y de igual retribución.",
@@ -6973,11 +7000,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Los funcionarios en situación de excedencia por cuidado de familiares, conforme al artículo 89.4 del TREBEP:",
     "options": [
+      "Deberán superar un curso de reincorporación obligatorio antes del reingreso",
       "Tienen prohibido participar en cursos de formación convocados por la Administración",
       "Solo podrán formarse por cuenta propia y sin relación con la Administración",
       "Podrán participar en los cursos de formación que convoque la Administración"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 89.4 reconoce a estos funcionarios el derecho a participar en los cursos de formación que convoque la Administración.",
     "fuente": "Art. 89.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -6986,6 +7014,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "Las funcionarias víctimas de violencia de género o de violencia sexual tendrán derecho a solicitar la excedencia, conforme al artículo 89.5 del TREBEP:",
     "options": [
       "Sin tener que haber prestado un tiempo mínimo de servicios previos y sin que sea exigible plazo de permanencia",
+      "Previa autorización judicial expresa en todo caso",
       "Solo tras haber prestado cinco años de servicios efectivos",
       "Con un plazo mínimo de permanencia de un año"
     ],
@@ -6999,7 +7028,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Solo a efectos de antigüedad",
       "Antigüedad, carrera y derechos del régimen de Seguridad Social aplicable",
-      "No será computable a ningún efecto"
+      "No será computable a ningún efecto",
+      "Trienios y ascensos, pero no de Seguridad Social"
     ],
     "correct": 1,
     "exp": "El art. 89.5 dispone que dicho período de reserva será computable a efectos de antigüedad, carrera y derechos del régimen de Seguridad Social que sea de aplicación.",
@@ -7009,11 +7039,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Cuando las actuaciones judiciales lo exigieran, el periodo de reserva de puesto en la excedencia por violencia de género o sexual podrá prorrogarse, conforme al artículo 89.5 del TREBEP:",
     "options": [
+      "Por un mes, con un máximo de doce meses",
       "Por seis meses, sin límite máximo",
       "Por un año adicional improrrogable",
       "Por tres meses, con un máximo de dieciocho meses"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 89.5 permite prorrogar el periodo por tres meses, con un máximo de dieciocho meses, cuando las actuaciones judiciales lo exijan.",
     "fuente": "Art. 89.5 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7023,6 +7054,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Las retribuciones íntegras y, en su caso, las prestaciones familiares por hijo a cargo",
       "El 50 por ciento de sus retribuciones",
+      "El 75 por ciento de sus retribuciones más trienios",
       "Únicamente las retribuciones básicas, sin complementos"
     ],
     "correct": 0,
@@ -7035,7 +7067,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "La reducción de jornada laboral de la víctima",
       "La protección de la víctima o su derecho a la asistencia social integral",
-      "La conciliación de la vida laboral y familiar en general"
+      "La conciliación de la vida laboral y familiar en general",
+      "El resarcimiento económico por los daños sufridos"
     ],
     "correct": 1,
     "exp": "El art. 89.5 señala que esta excedencia tiene por objeto hacer efectiva la protección de la víctima o su derecho a la asistencia social integral.",
@@ -7045,11 +7078,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Tendrán derecho a la excedencia por razón de violencia terrorista, conforme al artículo 89.6 del TREBEP, los funcionarios que hayan sufrido daños físicos o psíquicos como consecuencia de la actividad terrorista, así como:",
     "options": [
+      "Los testigos protegidos en el procedimiento penal correspondiente",
       "Cualquier funcionario que resida en una zona de riesgo",
       "Los familiares de segundo grado de una víctima del terrorismo",
       "Los amenazados en los términos del artículo 5 de la Ley 29/2011, de 22 de septiembre"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 89.6 extiende este derecho a los amenazados en los términos del artículo 5 de la Ley 29/2011, de Reconocimiento y Protección Integral a las Víctimas del Terrorismo.",
     "fuente": "Art. 89.6 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7059,6 +7093,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "El Ministerio del Interior o sentencia judicial firme",
       "El Ministerio de Justicia únicamente",
+      "El Consejo General del Poder Judicial",
       "El Defensor del Pueblo"
     ],
     "correct": 0,
@@ -7071,7 +7106,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "En condiciones distintas y menos favorables que las víctimas de violencia de género",
       "En las mismas condiciones que las víctimas de violencia de género o de violencia sexual",
-      "Solo durante un máximo de tres meses"
+      "Solo durante un máximo de tres meses",
+      "En condiciones más favorables, sin límite temporal alguno"
     ],
     "correct": 1,
     "exp": "El art. 89.6 reconoce el derecho a disfrutar de la excedencia en las mismas condiciones que las víctimas de violencia de género o de violencia sexual.",
@@ -7081,11 +7117,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "La excedencia por razón de violencia terrorista será autorizada y mantenida en el tiempo, conforme al artículo 89.6 del TREBEP:",
     "options": [
+      "Durante un máximo de cinco años, prorrogable una sola vez",
       "Durante un plazo fijo de dieciocho meses en todo caso",
       "Únicamente hasta que se dicte sentencia firme en el procedimiento penal",
       "En tanto resulte necesaria para la protección y asistencia social integral de la persona, por las secuelas o la amenaza, en los términos previstos reglamentariamente"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 89.6 dispone que la excedencia será autorizada y mantenida en tanto resulte necesaria para la protección y asistencia social integral de la persona, ya sea por las secuelas de la acción terrorista, ya sea por la amenaza, en los términos reglamentarios.",
     "fuente": "Art. 89.6 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7094,6 +7131,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "Conforme al artículo 90.1 del TREBEP, el funcionario declarado en situación de suspensión quedará privado durante el tiempo de permanencia en la misma de:",
     "options": [
       "El ejercicio de sus funciones y de todos los derechos inherentes a su condición",
+      "Del ejercicio de sus funciones, pero conservando el derecho a la carrera profesional",
       "Solo del ejercicio de sus funciones, conservando el resto de derechos",
       "Únicamente de las retribuciones complementarias"
     ],
@@ -7107,7 +7145,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Resolución administrativa de cese en el puesto",
       "Sentencia dictada en causa criminal o de sanción disciplinaria",
-      "Decisión unilateral del superior jerárquico"
+      "Decisión unilateral del superior jerárquico",
+      "Informe motivado de la Inspección General de Servicios"
     ],
     "correct": 1,
     "exp": "El art. 90.2 dispone que la suspensión firme se impondrá en virtud de sentencia dictada en causa criminal o en virtud de sanción disciplinaria.",
@@ -7117,11 +7156,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "El funcionario declarado en situación de suspensión de funciones, conforme al artículo 90.3 del TREBEP, no podrá:",
     "options": [
+      "Percibir prestaciones del sistema de Seguridad Social",
       "Residir fuera del municipio donde prestaba servicios",
       "Ejercer cualquier profesión, incluidas las del sector privado",
       "Prestar servicios en ninguna Administración Pública ni en los organismos, agencias o entidades de derecho público dependientes o vinculadas a ellas durante el cumplimiento de la pena o sanción"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 90.3 prohíbe prestar servicios en ninguna Administración Pública ni en los organismos, agencias o entidades de derecho público dependientes o vinculadas a ellas durante el tiempo de cumplimiento de la pena o sanción.",
     "fuente": "Art. 90.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7131,6 +7171,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Con ocasión de la tramitación de un procedimiento judicial o expediente disciplinario, en los términos establecidos en el Estatuto",
       "Solo tras sentencia firme condenatoria",
+      "Únicamente a petición del propio funcionario afectado",
       "Exclusivamente por decisión del Ministerio Fiscal"
     ],
     "correct": 0,
@@ -7147,7 +7188,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Al régimen disciplinario establecido en el título correspondiente del TREBEP y en las normas que las leyes de Función Pública dicten en su desarrollo",
       "Únicamente al régimen disciplinario que establezca el convenio colectivo aplicable",
-      "Al régimen disciplinario previsto en el Código Penal en todo caso"
+      "Al régimen disciplinario previsto en el Código Penal en todo caso",
+      "Al régimen disciplinario que determine cada Administración mediante reglamento propio, sin sujeción al Estatuto"
     ],
     "correct": 0,
     "exp": "El art. 93.1 TREBEP establece que funcionarios públicos y personal laboral quedan sujetos al régimen disciplinario establecido en el presente título y en las normas que las leyes de Función Pública dicten en desarrollo de este Estatuto.",
@@ -7159,6 +7201,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Una responsabilidad atenuada respecto de la del autor material",
       "La misma responsabilidad que la de quien realiza materialmente la conducta",
+      "Una responsabilidad agravada respecto de la del autor material",
       "Ninguna responsabilidad disciplinaria, sin perjuicio de la penal"
     ],
     "correct": 1,
@@ -7170,10 +7213,11 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "Conforme al art. 93.3 TREBEP, ¿qué requisito adicional exige la norma para que el encubrimiento de faltas consumadas muy graves o graves genere responsabilidad disciplinaria?",
     "options": [
       "Que el encubridor ostente la condición de superior jerárquico del autor",
+      "Que el encubrimiento se haya producido dentro del mismo cuerpo o escala del autor",
       "Que la falta encubierta haya sido ya objeto de sanción firme",
       "Que de dichos actos se derive daño grave para la Administración o los ciudadanos"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 93.3 TREBEP exige que de los actos de encubrimiento se derive daño grave para la Administración o los ciudadanos.",
     "fuente": "Art. 93.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7183,6 +7227,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "La legislación laboral",
       "El Estatuto Básico del Empleado Público, sin remisión alguna a otra normativa",
+      "La normativa reglamentaria que apruebe cada Ayuntamiento",
       "El Código Civil"
     ],
     "correct": 0,
@@ -7193,11 +7238,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Según el art. 94.1 TREBEP, la corrección disciplinaria de las infracciones del personal cometidas en el ejercicio de sus funciones y cargos se entiende...",
     "options": [
+      "Compatible únicamente con la responsabilidad civil, quedando excluida la penal",
       "Excluyente de cualquier otra responsabilidad patrimonial o penal",
       "Sin perjuicio de la responsabilidad patrimonial o penal que pudiera derivarse de tales infracciones",
       "Condicionada a que exista previamente sentencia penal firme"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 94.1 TREBEP señala que las Administraciones Públicas corregirán disciplinariamente las infracciones sin perjuicio de la responsabilidad patrimonial o penal que pudiera derivarse.",
     "fuente": "Art. 94.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7206,10 +7252,11 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "¿Qué principio de la potestad disciplinaria recoge la letra a) del art. 94.2 TREBEP?",
     "options": [
       "Principio de proporcionalidad",
+      "Principio de presunción de inocencia",
       "Principio de culpabilidad",
       "Principio de legalidad y tipicidad de las faltas y sanciones"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 94.2.a) TREBEP recoge el principio de legalidad y tipicidad de las faltas y sanciones, a través de la predeterminación normativa o, en el caso del personal laboral, de los convenios colectivos.",
     "fuente": "Art. 94.2.a) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7219,7 +7266,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Letra b)",
       "Letra d)",
-      "Letra e)"
+      "Letra e)",
+      "Letra c)"
     ],
     "correct": 0,
     "exp": "El art. 94.2.b) TREBEP recoge el principio de irretroactividad de las disposiciones sancionadoras no favorables y de retroactividad de las favorables al presunto infractor.",
@@ -7229,11 +7277,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Según el art. 94.2.c) TREBEP, el principio de proporcionalidad resulta aplicable a...",
     "options": [
+      "Solo a las faltas leves, no a las graves ni muy graves",
       "Solo a la aplicación de las sanciones, no a su clasificación",
       "Tanto a la clasificación de las infracciones y sanciones como a su aplicación",
       "Únicamente a la clasificación de las infracciones, no a las sanciones"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 94.2.c) TREBEP dispone que el principio de proporcionalidad es aplicable tanto a la clasificación de las infracciones y sanciones como a su aplicación.",
     "fuente": "Art. 94.2.c) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7242,10 +7291,11 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "¿Cuál de los siguientes es uno de los principios de la potestad disciplinaria recogidos en el art. 94.2 TREBEP?",
     "options": [
       "Principio de oportunidad",
+      "Principio de non bis in idem",
       "Principio de jerarquía normativa",
       "Principio de culpabilidad"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 94.2.d) TREBEP incluye entre los principios de la potestad disciplinaria el principio de culpabilidad.",
     "fuente": "Art. 94.2.d) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7255,7 +7305,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Presunción de inocencia",
       "Buena fe",
-      "Confianza legítima"
+      "Confianza legítima",
+      "Principio de proporcionalidad"
     ],
     "correct": 0,
     "exp": "El art. 94.2.e) TREBEP recoge el principio de presunción de inocencia como uno de los principios de la potestad disciplinaria.",
@@ -7265,11 +7316,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Según el art. 94.3 TREBEP, ¿qué efecto tienen los hechos declarados probados por resoluciones judiciales firmes?",
     "options": [
+      "Solo vinculan si la sanción impuesta fue de separación del servicio",
       "Solo tienen valor orientativo para el órgano disciplinario",
       "Vinculan a la Administración",
       "Deben ser revisados por el Ministerio Fiscal antes de vincular a la Administración"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 94.3 TREBEP establece que los hechos declarados probados por resoluciones judiciales firmes vinculan a la Administración.",
     "fuente": "Art. 94.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7278,10 +7330,11 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "¿Cuál de las siguientes conductas constituye falta muy grave conforme a la letra a) del art. 95.2 TREBEP?",
     "options": [
       "El abandono del servicio, así como no hacerse cargo voluntariamente de las tareas o funciones encomendadas",
+      "El acoso laboral",
       "La adopción de acuerdos manifiestamente ilegales que causen perjuicio grave a la Administración o a los ciudadanos",
       "El incumplimiento del deber de respeto a la Constitución y a los respectivos Estatutos de Autonomía en el ejercicio de la función pública"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 95.2.a) TREBEP tipifica como falta muy grave el incumplimiento del deber de respeto a la Constitución y a los respectivos Estatutos de Autonomía de las comunidades autónomas y ciudades de Ceuta y Melilla, en el ejercicio de la función pública.",
     "fuente": "Art. 95.2.a) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7291,7 +7344,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "El acoso moral y sexual",
       "La negligencia en la custodia de secretos oficiales",
-      "La desobediencia abierta a las órdenes de un superior"
+      "La desobediencia abierta a las órdenes de un superior",
+      "La obstaculización al ejercicio de las libertades públicas y derechos sindicales"
     ],
     "correct": 0,
     "exp": "El art. 95.2.b) TREBEP tipifica toda actuación que suponga discriminación por diversos motivos, así como el acoso por razón de sexo, origen racial o étnico, religión o convicciones, discapacidad, edad, orientación sexual, expresión de género, características sexuales, y el acoso moral y sexual.",
@@ -7301,11 +7355,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Según el art. 95.2.c) TREBEP, constituye falta muy grave el abandono del servicio, así como...",
     "options": [
+      "La publicación o utilización indebida de la documentación o información a que se tenga o haya tenido acceso por razón del cargo o función",
       "La negligencia en la custodia de secretos oficiales",
       "No hacerse cargo voluntariamente de las tareas o funciones que se tienen encomendadas",
       "La incomparecencia injustificada en las Comisiones de Investigación de las Cortes Generales"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 95.2.c) TREBEP tipifica el abandono del servicio, así como no hacerse cargo voluntariamente de las tareas o funciones que se tienen encomendadas.",
     "fuente": "Art. 95.2.c) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7314,10 +7369,11 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "¿Qué conducta tipifica como falta muy grave la letra d) del art. 95.2 TREBEP?",
     "options": [
       "La violación de la imparcialidad utilizando las facultades atribuidas para influir en procesos electorales",
+      "La obstaculización al ejercicio de las libertades públicas y derechos sindicales",
       "El notorio incumplimiento de las funciones esenciales inherentes al puesto de trabajo",
       "La adopción de acuerdos manifiestamente ilegales que causen perjuicio grave a la Administración o a los ciudadanos"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 95.2.d) TREBEP tipifica como falta muy grave la adopción de acuerdos manifiestamente ilegales que causen perjuicio grave a la Administración o a los ciudadanos.",
     "fuente": "Art. 95.2.d) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7327,7 +7383,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "La publicación o utilización indebida de la documentación o información a que se tenga o haya tenido acceso por razón del cargo o función",
       "El incumplimiento de las normas sobre incompatibilidades cuando dé lugar a una situación de incompatibilidad",
-      "La obstaculización al ejercicio de las libertades públicas y derechos sindicales"
+      "La obstaculización al ejercicio de las libertades públicas y derechos sindicales",
+      "El incumplimiento de la obligación de atender los servicios esenciales en caso de huelga"
     ],
     "correct": 0,
     "exp": "El art. 95.2.e) TREBEP tipifica la publicación o utilización indebida de la documentación o información a que tengan o hayan tenido acceso por razón de su cargo o función.",
@@ -7337,11 +7394,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "¿Qué conducta se tipifica en la letra f) del art. 95.2 TREBEP?",
     "options": [
+      "La prevalencia de la condición de empleado público para obtener un beneficio indebido para sí o para otro",
       "El acoso laboral",
       "La negligencia en la custodia de secretos oficiales, declarados así por Ley o clasificados como tales, que sea causa de su publicación o provoque su difusión o conocimiento indebido",
       "La realización de actos encaminados a coartar el libre ejercicio del derecho de huelga"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 95.2.f) TREBEP tipifica la negligencia en la custodia de secretos oficiales, declarados así por Ley o clasificados como tales, que sea causa de su publicación o que provoque su difusión o conocimiento indebido.",
     "fuente": "Art. 95.2.f) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7350,10 +7408,11 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "Según la letra g) del art. 95.2 TREBEP, constituye falta muy grave...",
     "options": [
       "El incumplimiento de la obligación de atender los servicios esenciales en caso de huelga",
+      "El incumplimiento del deber de respeto a la Constitución y a los respectivos Estatutos de Autonomía en el ejercicio de la función pública",
       "La desobediencia abierta a las órdenes o instrucciones de un superior",
       "El notorio incumplimiento de las funciones esenciales inherentes al puesto de trabajo o funciones encomendadas"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 95.2.g) TREBEP tipifica el notorio incumplimiento de las funciones esenciales inherentes al puesto de trabajo o funciones encomendadas.",
     "fuente": "Art. 95.2.g) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7363,6 +7422,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "La violación de la imparcialidad, utilizando las facultades atribuidas para influir en procesos electorales de cualquier naturaleza y ámbito",
       "La prevalencia de la condición de empleado público para obtener un beneficio indebido para sí o para otro",
+      "El abandono del servicio, así como no hacerse cargo voluntariamente de las tareas o funciones que se tienen encomendadas",
       "El incumplimiento del deber de respeto a la Constitución"
     ],
     "correct": 0,
@@ -7375,7 +7435,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "La obstaculización al ejercicio de las libertades públicas y derechos sindicales",
       "La desobediencia abierta a las órdenes o instrucciones de un superior, salvo que constituyan infracción manifiesta del Ordenamiento jurídico",
-      "El acoso laboral"
+      "El acoso laboral",
+      "Las que queden tipificadas como tales en ley de las Cortes Generales o de la asamblea legislativa de la correspondiente comunidad autónoma, o por los convenios colectivos en el caso de personal laboral"
     ],
     "correct": 1,
     "exp": "El art. 95.2.i) TREBEP tipifica la desobediencia abierta a las órdenes o instrucciones de un superior, salvo que constituyan infracción manifiesta del Ordenamiento jurídico.",
@@ -7385,11 +7446,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "¿Qué conducta tipifica la letra j) del art. 95.2 TREBEP?",
     "options": [
+      "Toda actuación que suponga discriminación por razón de origen racial o étnico, religión o convicciones, discapacidad, edad u orientación sexual",
       "El notorio incumplimiento de las funciones esenciales inherentes al puesto de trabajo",
       "La incomparecencia injustificada en las Comisiones de Investigación de las Cortes Generales",
       "La prevalencia de la condición de empleado público para obtener un beneficio indebido para sí o para otro"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 95.2.j) TREBEP tipifica la prevalencia de la condición de empleado público para obtener un beneficio indebido para sí o para otro.",
     "fuente": "Art. 95.2.j) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7398,6 +7460,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "La letra k) del art. 95.2 TREBEP tipifica como falta muy grave...",
     "options": [
       "La obstaculización al ejercicio de las libertades públicas y derechos sindicales",
+      "La adopción de acuerdos manifiestamente ilegales que causen perjuicio grave a la Administración o a los ciudadanos",
       "El incumplimiento de las normas sobre incompatibilidades cuando ello dé lugar a una situación de incompatibilidad",
       "Los actos encaminados a coartar el libre ejercicio del derecho de huelga"
     ],
@@ -7411,7 +7474,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "El incumplimiento de la obligación de atender los servicios esenciales en caso de huelga",
       "La realización de actos encaminados a coartar el libre ejercicio del derecho de huelga",
-      "La obstaculización al ejercicio de las libertades públicas y derechos sindicales"
+      "La obstaculización al ejercicio de las libertades públicas y derechos sindicales",
+      "La publicación o utilización indebida de la documentación o información a que se tenga o haya tenido acceso por razón del cargo o función"
     ],
     "correct": 1,
     "exp": "El art. 95.2.l) TREBEP tipifica la realización de actos encaminados a coartar el libre ejercicio del derecho de huelga.",
@@ -7421,11 +7485,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "¿Qué conducta tipifica la letra m) del art. 95.2 TREBEP?",
     "options": [
+      "La negligencia en la custodia de secretos oficiales, declarados así por Ley o clasificados como tales",
       "La realización de actos encaminados a coartar el libre ejercicio del derecho de huelga",
       "El incumplimiento de las normas sobre incompatibilidades",
       "El incumplimiento de la obligación de atender los servicios esenciales en caso de huelga"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 95.2.m) TREBEP tipifica el incumplimiento de la obligación de atender los servicios esenciales en caso de huelga.",
     "fuente": "Art. 95.2.m) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7435,6 +7500,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Ello dé lugar a una situación de incompatibilidad",
       "Se produzca durante el primer año de servicio activo",
+      "Se produzca de forma reiterada durante más de un año",
       "Afecte a un puesto de trabajo de nivel superior"
     ],
     "correct": 0,
@@ -7445,11 +7511,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "¿Qué conducta tipifica la letra ñ) del art. 95.2 TREBEP?",
     "options": [
+      "El abandono del servicio, así como no hacerse cargo voluntariamente de las tareas o funciones que se tienen encomendadas",
       "El acoso laboral",
       "La incomparecencia injustificada en las Comisiones de Investigación de las Cortes Generales y de las asambleas legislativas de las comunidades autónomas",
       "La violación de la imparcialidad utilizando las facultades atribuidas para influir en procesos electorales"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 95.2.ñ) TREBEP tipifica la incomparecencia injustificada en las Comisiones de Investigación de las Cortes Generales y de las asambleas legislativas de las comunidades autónomas.",
     "fuente": "Art. 95.2.ñ) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7458,10 +7525,11 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "La letra o) del art. 95.2 TREBEP tipifica expresamente como falta muy grave...",
     "options": [
       "El abandono del servicio",
+      "El incumplimiento de las normas sobre incompatibilidades cuando ello dé lugar a una situación de incompatibilidad",
       "La negligencia en la custodia de secretos oficiales",
       "El acoso laboral"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 95.2.o) TREBEP tipifica el acoso laboral como falta muy grave.",
     "fuente": "Art. 95.2.o) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7471,7 +7539,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Las que queden tipificadas como tales en ley de las Cortes Generales o de la asamblea legislativa de la correspondiente comunidad autónoma, o por los convenios colectivos en el caso de personal laboral",
       "Las que establezca el reglamento orgánico de cada Ayuntamiento sin necesidad de rango legal",
-      "Las que determine motivadamente el órgano competente para incoar el procedimiento disciplinario"
+      "Las que determine motivadamente el órgano competente para incoar el procedimiento disciplinario",
+      "Las que establezca el Consejo de Ministros mediante real decreto"
     ],
     "correct": 0,
     "exp": "El art. 95.2.p) TREBEP establece que también serán faltas muy graves las que queden tipificadas como tales en ley de las Cortes Generales o de la asamblea legislativa de la correspondiente comunidad autónoma o por los convenios colectivos en el caso de personal laboral.",
@@ -7481,11 +7550,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Además de la discriminación por los motivos enumerados, ¿qué otra conducta incluye la letra b) del art. 95.2 TREBEP entre las faltas muy graves?",
     "options": [
+      "La obstaculización al ejercicio de las libertades públicas y derechos sindicales",
       "La negligencia en la custodia de secretos oficiales",
       "El acoso moral y sexual",
       "La incomparecencia injustificada en las Comisiones de Investigación"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "La letra b) del art. 95.2 TREBEP, además de tipificar la discriminación por diversos motivos, incluye expresamente el acoso moral y sexual.",
     "fuente": "Art. 95.2.b) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7494,10 +7564,11 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "La desobediencia abierta a las órdenes o instrucciones de un superior tipificada en la letra i) del art. 95.2 TREBEP deja de constituir falta muy grave cuando...",
     "options": [
       "El superior no ostente la condición de funcionario de carrera",
+      "El empleado público hubiera solicitado la orden por escrito y ésta no se hubiera concedido",
       "El empleado público hubiera formulado previamente una queja formal",
       "Las órdenes constituyan infracción manifiesta del Ordenamiento jurídico"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 95.2.i) TREBEP exceptúa de la falta muy grave la desobediencia cuando las órdenes o instrucciones constituyan infracción manifiesta del Ordenamiento jurídico.",
     "fuente": "Art. 95.2.i) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7507,7 +7578,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Causen perjuicio grave a la Administración o a los ciudadanos",
       "Hayan sido recurridos previamente en vía administrativa",
-      "Se adopten por un órgano colegiado"
+      "Se adopten por un órgano colegiado",
+      "Hayan sido ratificados posteriormente por el pleno de la corporación"
     ],
     "correct": 0,
     "exp": "El art. 95.2.d) TREBEP exige que los acuerdos manifiestamente ilegales causen perjuicio grave a la Administración o a los ciudadanos para constituir falta muy grave.",
@@ -7517,11 +7589,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Según la letra f) del art. 95.2 TREBEP, los secretos oficiales cuya custodia negligente constituye falta muy grave son aquellos...",
     "options": [
+      "Que hayan sido calificados como tales por el propio funcionario responsable de su custodia",
       "Que afecten exclusivamente a la seguridad nacional",
       "Declarados así por Ley o clasificados como tales",
       "Que hayan sido divulgados previamente en medios de comunicación"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 95.2.f) TREBEP se refiere a secretos oficiales declarados así por Ley o clasificados como tales.",
     "fuente": "Art. 95.2.f) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7529,11 +7602,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Según la letra p) del art. 95.2 TREBEP, en el caso del personal laboral, la tipificación de faltas muy graves adicionales corresponde a...",
     "options": [
+      "La ley de Función Pública de la comunidad autónoma correspondiente",
       "El reglamento interno de cada entidad local",
       "La resolución del órgano de personal competente",
       "Los convenios colectivos"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 95.2.p) TREBEP prevé que, en el caso del personal laboral, también serán faltas muy graves las tipificadas como tales por los convenios colectivos.",
     "fuente": "Art. 95.2.p) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7543,7 +7617,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "La ley de las Cortes Generales o de la asamblea legislativa de la correspondiente comunidad autónoma, o los convenios colectivos en el caso de personal laboral",
       "Directamente el propio TREBEP, en un listado cerrado equivalente al de las faltas muy graves",
-      "Exclusivamente el reglamento orgánico de cada Administración"
+      "Exclusivamente el reglamento orgánico de cada Administración",
+      "Un decreto del Consejo de Gobierno de la comunidad autónoma correspondiente"
     ],
     "correct": 0,
     "exp": "El art. 95.3 TREBEP establece que las faltas graves serán establecidas por ley de las Cortes Generales o de la asamblea legislativa de la correspondiente comunidad autónoma o por los convenios colectivos en el caso de personal laboral.",
@@ -7553,11 +7628,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "¿Qué determinan las leyes de Función Pública que se dicten en desarrollo del TREBEP respecto de las faltas leves, según el art. 95.4?",
     "options": [
+      "La cuantía máxima de las sanciones pecuniarias aplicables a las faltas leves",
       "Únicamente el plazo de prescripción de las faltas leves",
       "El régimen aplicable a las faltas leves, atendiendo a las circunstancias del apartado 3",
       "La creación de un registro estatal único de faltas leves"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 95.4 TREBEP dispone que las leyes de Función Pública que se dicten en desarrollo del Estatuto determinarán el régimen aplicable a las faltas leves, atendiendo a las circunstancias señaladas en el apartado anterior.",
     "fuente": "Art. 95.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7566,10 +7642,11 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "¿Qué diferencia a la falta muy grave de la letra k) del art. 95.2 TREBEP respecto de la letra l) del mismo apartado?",
     "options": [
       "La letra k) se refiere al derecho de huelga y la letra l) a los derechos sindicales en general",
+      "La letra k) se refiere al personal laboral y la letra l) a los funcionarios de carrera",
       "No existe diferencia, ambas letras regulan la misma conducta con distinta sanción",
       "La letra k) se refiere a la obstaculización de libertades públicas y derechos sindicales, mientras que la letra l) se refiere a coartar el libre ejercicio del derecho de huelga"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 95.2.k) TREBEP tipifica la obstaculización al ejercicio de las libertades públicas y derechos sindicales, mientras que el art. 95.2.l) tipifica los actos encaminados a coartar el libre ejercicio del derecho de huelga.",
     "fuente": "Art. 95.2.k) y l) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7579,7 +7656,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "La letra l) sanciona coartar el libre ejercicio del derecho de huelga, mientras que la letra m) sanciona no atender los servicios esenciales durante la huelga",
       "No hay diferencia real, son idénticas en su redacción",
-      "La letra l) se aplica solo al personal laboral y la letra m) solo a los funcionarios"
+      "La letra l) se aplica solo al personal laboral y la letra m) solo a los funcionarios",
+      "La letra l) exige que se cause daño efectivo, mientras que la letra m) no lo exige en ningún caso"
     ],
     "correct": 0,
     "exp": "El art. 95.2.l) TREBEP tipifica los actos encaminados a coartar el libre ejercicio del derecho de huelga, y el art. 95.2.m) tipifica el incumplimiento de la obligación de atender los servicios esenciales en caso de huelga.",
@@ -7589,11 +7667,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "¿Cuál de las siguientes letras del art. 95.2 TREBEP tipifica una conducta relacionada con procesos electorales?",
     "options": [
+      "Letra j), prevalencia de la condición de empleado público",
       "Letra ñ), incomparecencia en Comisiones de Investigación",
       "Letra h), violación de la imparcialidad para influir en procesos electorales",
       "Letra n), incumplimiento de normas sobre incompatibilidades"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 95.2.h) TREBEP tipifica la violación de la imparcialidad, utilizando las facultades atribuidas para influir en procesos electorales de cualquier naturaleza y ámbito.",
     "fuente": "Art. 95.2.h) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7602,10 +7681,11 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "¿Cuál de las siguientes letras del art. 95.2 TREBEP se refiere específicamente al incumplimiento de comparecer ante órganos parlamentarios?",
     "options": [
       "Letra j), prevalencia de la condición de empleado público",
+      "Letra k), obstaculización al ejercicio de las libertades públicas y derechos sindicales",
       "Letra g), notorio incumplimiento de funciones esenciales",
       "Letra ñ), incomparecencia injustificada en las Comisiones de Investigación de las Cortes Generales y de las asambleas legislativas de las comunidades autónomas"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 95.2.ñ) TREBEP tipifica la incomparecencia injustificada en las Comisiones de Investigación de las Cortes Generales y de las asambleas legislativas de las comunidades autónomas.",
     "fuente": "Art. 95.2.ñ) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -7615,7 +7695,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Letra o)",
       "Letra e)",
-      "Letra c)"
+      "Letra c)",
+      "Letra n)"
     ],
     "correct": 0,
     "exp": "El art. 95.2.o) TREBEP tipifica de forma autónoma el acoso laboral como falta muy grave.",
@@ -7630,6 +7711,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "¿Cuántas situaciones administrativas de los funcionarios de carrera enumera el artículo 85.1 del TREBEP?",
     "options": [
       "Cinco",
+      "Tres",
       "Cuatro",
       "Seis"
     ],
@@ -7643,7 +7725,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "b)",
       "c)",
-      "d)"
+      "d)",
+      "e)"
     ],
     "correct": 1,
     "exp": "El art. 85.1 ordena las situaciones así: a) servicio activo, b) servicios especiales, c) servicio en otras Administraciones Públicas, d) excedencia, e) suspensión de funciones.",
@@ -7654,10 +7737,11 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "De acuerdo con el art. 85.2.a) TREBEP, las leyes de Función Pública que desarrollen el Estatuto podrán regular otras situaciones administrativas cuando concurra la existencia de:",
     "options": [
       "Una sanción disciplinaria firme impuesta al funcionario",
+      "La conveniencia de facilitar la conciliación de la vida familiar y laboral del funcionario",
       "La superación de la edad máxima de permanencia en el servicio activo",
       "Razones organizativas, de reestructuración interna o exceso de personal que generen una imposibilidad transitoria de asignar puesto de trabajo"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 85.2.a) cita como circunstancia las razones organizativas, de reestructuración interna o exceso de personal, o la conveniencia de incentivar la cesación en el servicio activo.",
     "fuente": "Art. 85.2.a TREBEP",
     "confianza": "alta"
@@ -7667,6 +7751,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Accedan por promoción interna u otros sistemas de acceso a otros cuerpos o escalas sin que les corresponda quedar en ninguna situación prevista en el Estatuto, o pasen a prestar servicios en entidades del sector público en régimen distinto al de funcionario de carrera",
       "Sean nombrados para desempeñar un cargo de confianza en un grupo parlamentario",
+      "Obtengan la excedencia voluntaria por interés particular por un periodo superior a cinco años",
       "Sean autorizados a realizar una misión internacional superior a seis meses"
     ],
     "correct": 0,
@@ -7677,11 +7762,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Según el último párrafo del art. 85.2 TREBEP, la regulación de esas otras situaciones administrativas podrá conllevar garantías de índole retributiva o imponer derechos u obligaciones en relación con:",
     "options": [
+      "La movilidad forzosa entre puestos de trabajo del mismo cuerpo",
       "La jubilación forzosa",
       "El reingreso al servicio activo",
       "El régimen disciplinario aplicable"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El precepto establece que dicha regulación podrá conllevar garantías retributivas o imponer derechos u obligaciones en relación con el reingreso al servicio activo.",
     "fuente": "Art. 85.2 TREBEP (último párrafo)",
     "confianza": "alta"
@@ -7691,7 +7777,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Los servicios especiales",
       "La excedencia",
-      "El servicio activo"
+      "El servicio activo",
+      "La suspensión de funciones"
     ],
     "correct": 2,
     "exp": "El art. 85.1 comienza su enumeración con la letra a) servicio activo.",
@@ -7702,6 +7789,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "Conforme al art. 86.1 TREBEP, se hallan en situación de servicio activo los funcionarios que prestan servicios en tal condición:",
     "options": [
       "Cualquiera que sea la Administración, organismo público o entidad en que estén destinados, siempre que no les corresponda quedar en otra situación",
+      "Solamente cuando presten servicios en la Administración autonómica en la que residan habitualmente",
       "Únicamente cuando prestan servicios en la Administración que les nombró funcionarios de carrera",
       "Solo cuando ocupan un puesto de trabajo mediante concurso específico en su Administración de origen"
     ],
@@ -7715,7 +7803,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Haya solicitado expresamente esa situación ante la Administración",
       "No le corresponda quedar en ninguna otra situación administrativa",
-      "Lleve más de dos años en el puesto de trabajo"
+      "Lleve más de dos años en el puesto de trabajo",
+      "Cuente con la autorización previa del órgano de personal competente"
     ],
     "correct": 1,
     "exp": "El art. 86.1 exige que no corresponda al funcionario quedar en otra situación administrativa distinta del servicio activo.",
@@ -7725,11 +7814,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "El art. 86.2 TREBEP establece que los funcionarios de carrera en servicio activo:",
     "options": [
+      "Conservan sus derechos y deberes únicamente durante los tres primeros años en dicha situación",
       "Solo conservan los derechos económicos, pero no los deberes propios de la función pública",
       "Quedan sujetos a los deberes de la función pública pero pierden temporalmente sus derechos",
       "Gozan de todos los derechos inherentes a su condición de funcionarios y quedan sujetos a los deberes y responsabilidades derivados de la misma"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 86.2 reconoce a estos funcionarios todos los derechos y, a la vez, los sujeta a los deberes y responsabilidades de su condición.",
     "fuente": "Art. 86.2 TREBEP",
     "confianza": "alta"
@@ -7739,6 +7829,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Por las normas del propio Estatuto y por la normativa de función pública de la Administración Pública en que presten servicios",
       "Exclusivamente por el convenio colectivo del personal laboral de la Administración de destino",
+      "Por las normas generales del Código Civil en materia de relaciones laborales",
       "Únicamente por las normas de la Administración en la que ingresaron originariamente como funcionarios"
     ],
     "correct": 0,
@@ -7749,11 +7840,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "¿Cuál de las siguientes circunstancias impide, según el art. 86.1 TREBEP, que un funcionario se halle en situación de servicio activo?",
     "options": [
+      "Que se encuentre en comisión de servicios por un periodo inferior a seis meses",
       "Que preste servicios en una Administración distinta de aquella en la que ingresó",
       "Que le corresponda quedar en otra de las situaciones administrativas previstas",
       "Que ocupe un puesto de trabajo de nivel superior al de su grupo de titulación"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El servicio activo exige precisamente que no corresponda al funcionario hallarse en otra situación administrativa.",
     "fuente": "Art. 86.1 TREBEP",
     "confianza": "alta"
@@ -7762,10 +7854,11 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "Según el art. 87.1.a) TREBEP, además de miembros del Gobierno, de órganos de gobierno de CCAA y de Ceuta y Melilla, o de instituciones de la UE u organizaciones internacionales, pasan a servicios especiales quienes sean nombrados:",
     "options": [
       "Asesores de un grupo parlamentario de las Cortes Generales",
+      "Secretarios generales técnicos de los Ministerios",
       "Vocales del Consejo General del Poder Judicial",
       "Altos cargos de las citadas Administraciones Públicas o Instituciones"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 87.1.a) incluye también a quienes sean nombrados altos cargos de dichas Administraciones o Instituciones.",
     "fuente": "Art. 87.1.a TREBEP",
     "confianza": "alta"
@@ -7775,7 +7868,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Superior a seis meses",
       "Superior a un año",
-      "Superior a tres meses"
+      "Superior a tres meses",
+      "Superior a nueve meses"
     ],
     "correct": 0,
     "exp": "El precepto exige que la misión sea por un periodo determinado superior a seis meses.",
@@ -7785,11 +7879,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Según el art. 87.1.c) TREBEP, procede la situación de servicios especiales cuando el funcionario sea nombrado para desempeñar puestos o cargos en organismos públicos o entidades dependientes o vinculados a las Administraciones Públicas que:",
     "options": [
+      "Formen parte de la Administración General del Estado exclusivamente",
       "Requieran una misión internacional superior a seis meses",
       "Estén asimilados en su rango administrativo a altos cargos",
       "Estén calificados como puestos de confianza o asesoramiento político"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "La letra c) exige que dichos organismos o entidades estén asimilados en su rango administrativo a altos cargos, conforme a lo que establezca la Administración correspondiente.",
     "fuente": "Art. 87.1.c TREBEP",
     "confianza": "alta"
@@ -7798,10 +7893,11 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "El art. 87.1.d) TREBEP sitúa en servicios especiales a los funcionarios adscritos a los servicios del Tribunal Constitucional o del Defensor del Pueblo, o destinados a:",
     "options": [
       "El Consejo General del Poder Judicial",
+      "La Agencia Española de Protección de Datos",
       "Los consejos de justicia de las comunidades autónomas",
       "El Tribunal de Cuentas, en los términos del art. 93.3 de la Ley 7/1988"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "La letra d) remite expresamente al Tribunal de Cuentas en los términos del art. 93.3 de la Ley 7/1988, de Funcionamiento del Tribunal de Cuentas.",
     "fuente": "Art. 87.1.d TREBEP",
     "confianza": "alta"
@@ -7811,6 +7907,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Perciban retribuciones periódicas por la realización de esa función",
       "Desempeñen el cargo con dedicación exclusiva en una entidad local",
+      "Cuenten con una antigüedad mínima de cinco años como funcionario de carrera",
       "Sean designados asesores de su grupo parlamentario"
     ],
     "correct": 0,
@@ -7823,7 +7920,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Durante un máximo de seis meses adicionales",
       "Hasta la nueva constitución de las Cámaras",
-      "Hasta que reingrese voluntariamente al servicio activo"
+      "Hasta que reingrese voluntariamente al servicio activo",
+      "Durante un plazo máximo de un año, prorrogable por otro más"
     ],
     "correct": 1,
     "exp": "El precepto permite la permanencia en servicios especiales hasta la nueva constitución de las correspondientes Cámaras.",
@@ -7833,11 +7931,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "El art. 87.1.f) TREBEP incluye en servicios especiales, entre otros supuestos, el desempeño de cargos electivos en las Asambleas de Ceuta y Melilla y en las entidades locales cuando dichos cargos sean:",
     "options": [
+      "Compatibles con el desempeño simultáneo de un puesto de trabajo en la Administración",
       "De carácter honorífico y sin retribución",
       "De duración inferior a seis meses",
       "Retribuidos y de dedicación exclusiva"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "La letra f) exige que los cargos electivos sean retribuidos y de dedicación exclusiva.",
     "fuente": "Art. 87.1.f TREBEP",
     "confianza": "alta"
@@ -7847,6 +7946,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "El Consejo General del Poder Judicial o de los consejos de justicia de las comunidades autónomas",
       "Los Órganos Constitucionales o los órganos estatutarios de las comunidades autónomas",
+      "Las comisiones deontológicas de colegios profesionales",
       "Los grupos parlamentarios de las Cortes Generales"
     ],
     "correct": 0,
@@ -7859,7 +7959,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "El Consejo General del Poder Judicial exclusivamente",
       "Los Órganos Constitucionales o de los órganos estatutarios de las comunidades autónomas u otros cuya elección corresponda al Congreso, al Senado o a las asambleas legislativas autonómicas",
-      "Los órganos de gobierno de las entidades locales"
+      "Los órganos de gobierno de las entidades locales",
+      "Los tribunales calificadores de procesos selectivos de la propia Administración"
     ],
     "correct": 1,
     "exp": "La letra h) es una cláusula más amplia que la g), referida a Órganos Constitucionales, órganos estatutarios autonómicos u otros de elección parlamentaria.",
@@ -7869,11 +7970,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Según el art. 87.1.i) TREBEP, los funcionarios designados como personal eventual para ocupar puestos calificados de confianza o asesoramiento político pasan a servicios especiales:",
     "options": [
+      "Siempre que hayan superado un proceso selectivo específico para personal eventual",
       "En todo caso, sin posibilidad de elegir otra situación",
       "Únicamente si el nombramiento supera los seis meses de duración",
       "Cuando no opten por permanecer en la situación de servicio activo"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "La letra i) reconoce a estos funcionarios la opción de permanecer en servicio activo; solo si no la ejercen pasan a servicios especiales.",
     "fuente": "Art. 87.1.i TREBEP",
     "confianza": "alta"
@@ -7883,6 +7985,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Adquieran la condición de funcionarios al servicio de organizaciones internacionales",
       "Sean autorizados a realizar una misión temporal en un gobierno extranjero",
+      "Sean contratados temporalmente por una organización no gubernamental de ámbito internacional",
       "Sean designados asesores de un grupo parlamentario autonómico"
     ],
     "correct": 0,
@@ -7895,7 +7998,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Miembro de un consejo de justicia autonómico",
       "Asesor de los grupos parlamentarios de las Cortes Generales o de las asambleas legislativas de las comunidades autónomas",
-      "Alto cargo de una organización internacional"
+      "Alto cargo de una organización internacional",
+      "Asesor de los grupos políticos de una diputación provincial"
     ],
     "correct": 1,
     "exp": "La letra k) contempla específicamente el nombramiento como asesor de grupos parlamentarios estatales o autonómicos.",
@@ -7905,11 +8009,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "El art. 87.1.l) TREBEP contempla la situación de servicios especiales para los funcionarios que:",
     "options": [
+      "Sean destinados en comisión de servicios a un centro de formación militar",
       "Sean llamados a filas como reservistas obligatorios",
       "Sean nombrados vocales de un tribunal de oposiciones militares",
       "Sean activados como reservistas voluntarios para prestar servicios en las Fuerzas Armadas"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "La letra l), última del listado, se refiere a la activación como reservistas voluntarios en las Fuerzas Armadas.",
     "fuente": "Art. 87.1.l TREBEP",
     "confianza": "alta"
@@ -7919,7 +8024,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "La letra b) exige una misión superior a seis meses en el extranjero o en organismos internacionales, mientras que la letra c) se refiere al nombramiento en organismos o entidades vinculados a las Administraciones Públicas asimilados a altos cargos",
       "Ambas letras regulan exactamente el mismo supuesto de designación como alto cargo autonómico",
-      "La letra b) se aplica solo a funcionarios docentes y la letra c) solo a funcionarios sanitarios"
+      "La letra b) se aplica solo a funcionarios docentes y la letra c) solo a funcionarios sanitarios",
+      "La letra b) exige autorización del Consejo de Ministros y la letra c) no requiere ninguna autorización"
     ],
     "correct": 0,
     "exp": "Se trata de dos supuestos distintos: misión internacional temporal (b) frente a nombramiento en entidad vinculada asimilada a alto cargo (c).",
@@ -7929,11 +8035,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Respecto de los cargos electivos, ¿qué diferencia existe entre las letras e) y f) del art. 87.1 TREBEP?",
     "options": [
+      "La letra e) solo se aplica a funcionarios docentes y la letra f) a funcionarios sanitarios",
       "La letra e) exige dedicación exclusiva y la letra f) no exige ningún requisito de dedicación",
       "La letra e) se refiere a Diputados y Senadores de las Cortes Generales o miembros de asambleas legislativas autonómicas, mientras que la letra f) se refiere a cargos electivos locales y de las Asambleas de Ceuta y Melilla",
       "Ambas letras regulan el mismo supuesto para evitar lagunas normativas"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "La letra e) atiende al ámbito parlamentario estatal y autonómico, y la letra f) al ámbito local y de las ciudades de Ceuta y Melilla.",
     "fuente": "Art. 87.1.e y 87.1.f TREBEP",
     "confianza": "alta"
@@ -7943,9 +8050,10 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Ambos supuestos exigen superar un periodo mínimo de seis meses en el puesto",
       "La letra k) solo se aplica a funcionarios docentes designados por el Ministerio",
+      "La letra i) no exige ningún nombramiento formal, mientras que la letra k) exige nombramiento por real decreto",
       "La letra i) exige que el funcionario no opte por permanecer en servicio activo, mientras que la letra k) no contempla esa opción y declara directamente la situación"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "La letra i) prevé la posibilidad de optar por seguir en servicio activo; la letra k), referida a asesores de grupos parlamentarios, no recoge esa opción.",
     "fuente": "Art. 87.1.i y 87.1.k TREBEP",
     "confianza": "alta"
@@ -7955,7 +8063,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Los trienios que tengan reconocidos en cada momento",
       "El complemento específico de su puesto de origen",
-      "La totalidad de las retribuciones complementarias de su puesto de funcionario de carrera"
+      "La totalidad de las retribuciones complementarias de su puesto de funcionario de carrera",
+      "El complemento de destino correspondiente a su grupo de titulación de origen"
     ],
     "correct": 0,
     "exp": "El art. 87.2 salva expresamente el derecho a percibir los trienios reconocidos, sin perjuicio de las retribuciones del puesto o cargo desempeñado.",
@@ -7965,11 +8074,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "¿A cuál de los siguientes efectos NO menciona expresamente el art. 87.2 TREBEP que se compute el tiempo permanecido en servicios especiales?",
     "options": [
+      "Reconocimiento de trienios",
       "Ascensos",
       "Consolidación del grado personal",
       "Promoción interna"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 87.2 cita como efectos del cómputo los ascensos, el reconocimiento de trienios, la promoción interna y los derechos de Seguridad Social; la consolidación del grado se trata en el apartado 3, no en el 2.",
     "fuente": "Art. 87.2 TREBEP",
     "confianza": "alta"
@@ -7977,11 +8087,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Según el art. 87.2 TREBEP, el tiempo en situación de servicios especiales se computa, entre otros efectos, a efectos de derechos en el régimen de:",
     "options": [
+      "Sistema de previsión social complementaria de aportación definida",
       "Clases pasivas del Estado exclusivamente",
       "Mutualidad de funcionarios de su Administración de origen",
       "Seguridad Social que les sea de aplicación"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El precepto se refiere a los derechos en el régimen de Seguridad Social que resulte aplicable al funcionario.",
     "fuente": "Art. 87.2 TREBEP",
     "confianza": "alta"
@@ -7991,7 +8102,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "El derecho de transferencia establecido en el estatuto de los funcionarios de las Comunidades Europeas",
       "El derecho de reingreso inmediato en su puesto de origen",
-      "El derecho a percibir simultáneamente ambas retribuciones"
+      "El derecho a percibir simultáneamente ambas retribuciones",
+      "El derecho de opción entre el régimen de Seguridad Social español y el comunitario"
     ],
     "correct": 0,
     "exp": "El precepto excluye expresamente a quienes ejerciten el derecho de transferencia previsto en el estatuto de los funcionarios de las Comunidades Europeas.",
@@ -8003,7 +8115,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Concurso de traslados",
       "Promoción interna",
-      "Carrera horizontal"
+      "Carrera horizontal",
+      "Consolidación de complementos retributivos"
     ],
     "correct": 1,
     "exp": "El art. 87.2 enumera conjuntamente los ascensos, el reconocimiento de trienios, la promoción interna y los derechos de Seguridad Social.",
@@ -8013,11 +8126,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "¿A qué retribuciones NO tienen derecho, con carácter general, los funcionarios en situación de servicios especiales, según el art. 87.2 TREBEP?",
     "options": [
+      "Al complemento de productividad correspondiente al puesto o cargo que desempeñen",
       "A las retribuciones del puesto o cargo que desempeñen",
       "A los trienios que tuvieran reconocidos en cada momento",
       "A las que les correspondan como funcionarios de carrera, salvo los trienios reconocidos"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 87.2 excluye las retribuciones de funcionario de carrera, manteniendo únicamente, como excepción, el derecho a los trienios reconocidos.",
     "fuente": "Art. 87.2 TREBEP",
     "confianza": "alta"
@@ -8027,7 +8141,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "En la misma localidad, en las condiciones y con las retribuciones correspondientes a la categoría, nivel o escalón de la carrera consolidados",
       "En cualquier localidad del territorio nacional, con las retribuciones del cargo previamente desempeñado",
-      "Únicamente en la localidad donde ejerció el cargo que motivó el pase a esa situación"
+      "Únicamente en la localidad donde ejerció el cargo que motivó el pase a esa situación",
+      "En la localidad de su elección, con las retribuciones máximas de su grupo profesional"
     ],
     "correct": 0,
     "exp": "El derecho mínimo reconocido es el reingreso en la misma localidad, con las condiciones y retribuciones de la categoría, nivel o escalón consolidados.",
@@ -8037,11 +8152,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "El art. 87.3 TREBEP señala que las condiciones y retribuciones del reingreso se determinarán conforme a:",
     "options": [
+      "El convenio colectivo aplicable al personal laboral de la Administración de destino",
       "El sistema de carrera administrativa de la última Administración en la que prestaron el cargo",
       "El sistema de carrera administrativa vigente en la Administración Pública a la que pertenezcan",
       "Un baremo único establecido reglamentariamente para todo el personal en servicios especiales"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El precepto remite al sistema de carrera administrativa vigente en la Administración Pública a la que pertenezca el funcionario.",
     "fuente": "Art. 87.3 TREBEP",
     "confianza": "alta"
@@ -8051,7 +8167,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "El derecho automático a la promoción a un cuerpo o escala superior",
       "El derecho a una indemnización económica única al reingresar",
-      "Los derechos que cada Administración Pública pueda establecer en función del cargo que originó el pase a esa situación"
+      "Los derechos que cada Administración Pública pueda establecer en función del cargo que originó el pase a esa situación",
+      "El derecho a elegir libremente el puesto de trabajo sin sujeción a convocatoria"
     ],
     "correct": 2,
     "exp": "El art. 87.3 añade los derechos que cada Administración establezca en atención al cargo que motivó el pase a servicios especiales.",
@@ -8061,11 +8178,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "El art. 87.3 TREBEP obliga a las Administraciones Públicas a velar para que no haya menoscabo en el derecho a la carrera profesional, entre otros, de los funcionarios que hayan sido:",
     "options": [
+      "Presidentes de mancomunidades de municipios sin dedicación exclusiva",
       "Alcaldes retribuidos y con dedicación exclusiva, o presidentes de diputaciones, cabildos o consejos insulares",
       "Concejales sin dedicación exclusiva de cualquier ayuntamiento",
       "Vocales de una junta de gobierno local sin retribución"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El precepto exige, expresamente, retribución y dedicación exclusiva para los alcaldes, y menciona también a los presidentes de diputaciones, cabildos o consejos insulares.",
     "fuente": "Art. 87.3 TREBEP",
     "confianza": "alta"
@@ -8075,7 +8193,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Jefes de servicio de la Administración General del Estado",
       "Directores generales y otros cargos superiores de la correspondiente Administración Pública",
-      "Presidentes de las diputaciones provinciales"
+      "Presidentes de las diputaciones provinciales",
+      "Funcionarios interinos de cualquier grupo de clasificación"
     ],
     "correct": 1,
     "exp": "El art. 87.3 fija como referente mínimo el tratamiento dado a los directores generales y otros cargos superiores.",
@@ -8085,11 +8204,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "El art. 87.3 TREBEP incluye expresamente entre los colectivos protegidos frente al menoscabo de su carrera profesional a los Diputados y Senadores de las Cortes Generales y a:",
     "options": [
+      "Los eurodiputados del Parlamento Europeo",
       "Los asesores de los grupos parlamentarios de las Cortes Generales",
       "Los diputados provinciales sin dedicación exclusiva",
       "Los miembros de las asambleas legislativas de las comunidades autónomas"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El precepto cita expresamente, junto a Diputados y Senadores, a los miembros de las asambleas legislativas de las comunidades autónomas.",
     "fuente": "Art. 87.3 TREBEP",
     "confianza": "alta"
@@ -8099,7 +8219,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "En los supuestos que se determinen en el propio Estatuto y en las leyes de Función Pública que se dicten en su desarrollo",
       "Únicamente cuando lo solicite expresamente el funcionario interesado",
-      "Solo cuando lo acuerde el órgano de gobierno de la Administración correspondiente, sin necesidad de norma alguna"
+      "Solo cuando lo acuerde el órgano de gobierno de la Administración correspondiente, sin necesidad de norma alguna",
+      "Exclusivamente mediante resolución motivada de la Secretaría de Estado de Función Pública"
     ],
     "correct": 0,
     "exp": "El art. 87.4 remite a los supuestos determinados en el propio TREBEP y en las leyes de Función Pública de desarrollo.",
@@ -8115,7 +8236,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Que se regularán reglamentariamente los plazos, procedimientos y condiciones para solicitarlo, según las situaciones de procedencia, respetando la reserva de puesto cuando proceda.",
       "Que el reingreso se producirá automáticamente al finalizar cualquier situación administrativa, sin necesidad de solicitud.",
-      "Que el reingreso corresponde decidirlo, en todo caso, a la Comisión de Coordinación del Empleo Público."
+      "Que el reingreso corresponde decidirlo, en todo caso, a la Comisión de Coordinación del Empleo Público.",
+      "Que el reingreso quedará supeditado, en todo caso, a la existencia de vacante presupuestada en el momento de la solicitud."
     ],
     "correct": 0,
     "exp": "El art. 91 remite a desarrollo reglamentario los plazos, procedimientos y condiciones del reingreso, según la situación de procedencia, con respeto al derecho a reserva de puesto cuando proceda.",
@@ -8127,7 +8249,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "La categoría profesional acreditada en el sector privado.",
       "Las situaciones administrativas de procedencia del funcionario de carrera.",
-      "El resultado de una nueva prueba selectiva de acceso."
+      "El resultado de una nueva prueba selectiva de acceso.",
+      "El grupo de clasificación profesional al que pertenezca el puesto de destino."
     ],
     "correct": 1,
     "exp": "El art. 91 establece que los plazos, procedimientos y condiciones del reingreso se regularán 'según las situaciones administrativas de procedencia'.",
@@ -8137,11 +8260,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Conforme al art. 91 TREBEP, en el reingreso al servicio activo se respetará:",
     "options": [
+      "El derecho preferente a ocupar cualquier puesto vacante en la misma Administración.",
       "El derecho a percibir retribuciones atrasadas correspondientes a la situación administrativa previa.",
       "El derecho a elegir libremente el puesto de trabajo sin sujeción a convocatoria alguna.",
       "El derecho a la reserva del puesto de trabajo en los casos en que proceda conforme al Estatuto."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El artículo señala que el reingreso se regulará 'con respeto al derecho a la reserva del puesto de trabajo en los casos en que proceda conforme al presente Estatuto'.",
     "fuente": "Art. 91 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8149,11 +8273,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Según el artículo 92 TREBEP, el personal laboral al servicio de las Administraciones Públicas se rige por:",
     "options": [
+      "El Estatuto de los Trabajadores exclusivamente, sin que resulten aplicables los convenios colectivos.",
       "El Estatuto de los Trabajadores y los Convenios Colectivos que le sean de aplicación.",
       "El propio TREBEP con exclusión de cualquier otra norma laboral.",
       "El Estatuto Básico del Empleado Público y el Código de Comercio."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 92 dispone que 'el personal laboral se regirá por el Estatuto de los Trabajadores y por los Convenios Colectivos que les sean de aplicación'.",
     "fuente": "Art. 92 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8162,10 +8287,11 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "El art. 92 TREBEP permite que los convenios colectivos determinen la aplicación al personal laboral de:",
     "options": [
       "El régimen disciplinario recogido en el Título VII del propio Estatuto.",
+      "El capítulo relativo a los derechos individuales de los funcionarios de carrera, en su totalidad.",
       "El capítulo de situaciones administrativas, en lo que resulte compatible con el Estatuto de los Trabajadores.",
       "El sistema retributivo previsto para los funcionarios de carrera."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El precepto añade que 'los convenios colectivos podrán determinar la aplicación de este capítulo al personal incluido en su ámbito de aplicación en lo que resulte compatible con el Estatuto de los Trabajadores'.",
     "fuente": "Art. 92 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8175,9 +8301,10 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "El Título VII, régimen disciplinario.",
       "Un título autónomo dedicado en exclusiva al personal laboral.",
+      "El Título V, dedicado a la ordenación de la actividad profesional.",
       "El Título VI, situaciones administrativas, cerrando dicho título."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 92 es el último artículo del Título VI ('Situaciones administrativas'); a continuación se abre el Título VII ('Régimen disciplinario') con el art. 93.",
     "fuente": "Art. 92 TREBEP (RDLeg 5/2015); rúbrica del Título VI",
     "confianza": "alta"
@@ -8187,7 +8314,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "La revocación de su nombramiento.",
       "El traslado forzoso con cambio de residencia.",
-      "La suspensión firme de funciones por seis años."
+      "La suspensión firme de funciones por seis años.",
+      "La pérdida de la condición de funcionario de carrera con inhabilitación perpetua."
     ],
     "correct": 0,
     "exp": "El art. 96.1.a) señala que la separación del servicio 'en el caso de los funcionarios interinos comportará la revocación de su nombramiento'.",
@@ -8197,11 +8325,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "La sanción de separación del servicio prevista en el art. 96.1.a) TREBEP solo podrá imponerse por la comisión de:",
     "options": [
+      "Faltas graves reiteradas en el plazo de un año.",
       "Faltas graves.",
       "Faltas muy graves.",
       "Faltas leves reiteradas."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El precepto establece que la separación del servicio 'sólo podrá sancionar la comisión de faltas muy graves'.",
     "fuente": "Art. 96.1.a) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8210,10 +8339,11 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "El despido disciplinario del personal laboral, regulado en el art. 96.1.b) TREBEP, comporta:",
     "options": [
       "El traslado forzoso a otra localidad.",
+      "La suspensión de empleo y sueldo durante seis años.",
       "El demérito a efectos de carrera y promoción.",
       "La inhabilitación para ser titular de un nuevo contrato de trabajo con funciones similares."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 96.1.b) indica que el despido disciplinario 'comportará la inhabilitación para ser titular de un nuevo contrato de trabajo con funciones similares a las que desempeñaban'.",
     "fuente": "Art. 96.1.b) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8223,6 +8353,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Únicamente las faltas muy graves.",
       "Las faltas muy graves y las graves.",
+      "Las faltas graves, siempre que exista reincidencia.",
       "Cualquier falta, incluidas las leves."
     ],
     "correct": 0,
@@ -8235,7 +8366,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Tres años.",
       "Seis años.",
-      "Dos años."
+      "Dos años.",
+      "Cuatro años, ampliables por igual periodo."
     ],
     "correct": 1,
     "exp": "El art. 96.1.c) fija para la suspensión firme 'una duración máxima de 6 años'.",
@@ -8245,11 +8377,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "El art. 96.1.d) TREBEP define el traslado forzoso como una sanción consistente en:",
     "options": [
+      "El cambio de puesto de trabajo dentro de la misma unidad administrativa, sin alteración de residencia en ningún caso.",
       "La revocación del nombramiento del funcionario interino.",
       "El despido disciplinario con inhabilitación.",
       "El traslado, con o sin cambio de localidad de residencia, por el periodo que en cada caso se establezca."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 96.1.d) describe el 'traslado forzoso, con o sin cambio de localidad de residencia, por el período que en cada caso se establezca'.",
     "fuente": "Art. 96.1.d) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8258,6 +8391,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "Según el art. 96.1.e) TREBEP, la sanción de demérito consiste en:",
     "options": [
       "La penalización a efectos de carrera, promoción o movilidad voluntaria.",
+      "El traslado, con o sin cambio de residencia, por el periodo que en cada caso se establezca.",
       "La suspensión de empleo y sueldo hasta seis años.",
       "El apercibimiento formal por escrito."
     ],
@@ -8271,6 +8405,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "El traslado forzoso con cambio de residencia.",
       "Cualquier otra sanción que se establezca por ley.",
+      "El apercibimiento por escrito, con constancia en el expediente personal.",
       "La separación del servicio de los funcionarios interinos."
     ],
     "correct": 1,
@@ -8283,7 +8418,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Se le imponga la sanción de demérito.",
       "Se le imponga la sanción de apercibimiento.",
-      "Sea declarado improcedente el despido acordado como consecuencia de un expediente disciplinario por falta muy grave."
+      "Sea declarado improcedente el despido acordado como consecuencia de un expediente disciplinario por falta muy grave.",
+      "Sea declarado improcedente el despido impuesto por la comisión de una falta leve."
     ],
     "correct": 2,
     "exp": "El art. 96.2 establece que 'procederá la readmisión del personal laboral fijo cuando sea declarado improcedente el despido acordado como consecuencia de la incoación de un expediente disciplinario por la comisión de una falta muy grave'.",
@@ -8293,11 +8429,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Entre los criterios que, conforme al art. 96.3 TREBEP, deben valorarse para fijar el alcance de la sanción se encuentra:",
     "options": [
+      "El grado de publicidad que haya alcanzado la conducta en los medios de comunicación.",
       "El grado de intencionalidad, descuido o negligencia revelado en la conducta.",
       "La antigüedad del funcionario en el puesto de trabajo.",
       "El número de recursos administrativos previos presentados por el interesado."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 96.3 dispone que el alcance de la sanción se establecerá teniendo en cuenta 'el grado de intencionalidad, descuido o negligencia que se revele en la conducta'.",
     "fuente": "Art. 96.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8306,10 +8443,11 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "El art. 96.3 TREBEP exige tener en cuenta, para fijar el alcance de la sanción, el grado de participación del responsable, junto con:",
     "options": [
       "El número de sanciones impuestas por la Administración ese año.",
+      "La categoría profesional o grupo de clasificación del personal laboral afectado.",
       "El daño causado al interés público.",
       "La opinión de los representantes sindicales."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 96.3 cita entre los criterios 'el daño al interés público' además del grado de intencionalidad, la reiteración o reincidencia y el grado de participación.",
     "fuente": "Art. 96.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8319,9 +8457,10 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "La antigüedad en el cuerpo o escala.",
       "El nivel de complemento de destino que percibe.",
+      "El régimen de jornada y horario que tuviera reconocido el infractor.",
       "La reiteración o reincidencia."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 96.3 incluye expresamente 'la reiteración o reincidencia' entre los criterios para establecer el alcance de la sanción.",
     "fuente": "Art. 96.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8331,7 +8470,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Suspensión de empleo y sueldo.",
       "Despido disciplinario.",
-      "Demérito."
+      "Demérito.",
+      "Traslado forzoso."
     ],
     "correct": 0,
     "exp": "El art. 96.1.c) habla de 'suspensión firme de funciones, o de empleo y sueldo en el caso del personal laboral'.",
@@ -8341,11 +8481,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "El art. 96.1 TREBEP contempla el apercibimiento como sanción en su letra:",
     "options": [
+      "c).",
       "d).",
       "f).",
       "b)."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El apercibimiento figura en el art. 96.1.f), tras la sanción de demérito (letra e) y antes de la cláusula de cierre (letra g).",
     "fuente": "Art. 96.1.f) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8354,10 +8495,11 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "El traslado forzoso previsto en el art. 96.1.d) TREBEP podrá acordarse:",
     "options": [
       "Solo cuando exista cambio de localidad de residencia.",
+      "Únicamente mediante resolución motivada del Ministerio de Hacienda.",
       "Solo cuando el interesado lo solicite voluntariamente.",
       "Con o sin cambio de localidad de residencia, según se establezca en cada caso."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 96.1.d) permite el traslado forzoso 'con o sin cambio de localidad de residencia, por el período que en cada caso se establezca'.",
     "fuente": "Art. 96.1.d) TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8367,6 +8509,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Dos años.",
       "Tres años.",
+      "Un año.",
       "Seis meses."
     ],
     "correct": 0,
@@ -8379,7 +8522,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Un año.",
       "Tres años.",
-      "Dos años."
+      "Dos años.",
+      "Seis meses."
     ],
     "correct": 1,
     "exp": "Conforme al art. 97.1, las sanciones impuestas por faltas muy graves prescriben a los tres años.",
@@ -8389,11 +8533,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "¿A los cuántos años prescribe la infracción disciplinaria calificada como grave, conforme al art. 97.1 TREBEP?",
     "options": [
+      "Un año.",
       "Tres años.",
       "Seis meses.",
       "Dos años."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 97.1 fija que 'las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses'.",
     "fuente": "Art. 97.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8402,6 +8547,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "Conforme al art. 97.2 TREBEP, el plazo de prescripción de las faltas comenzará a contarse:",
     "options": [
       "Desde que se hubieran cometido.",
+      "Desde la fecha de notificación de la falta al interesado.",
       "Desde que se incoe el expediente disciplinario.",
       "Desde que la sanción adquiera firmeza."
     ],
@@ -8415,6 +8561,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "La fecha de la primera actuación que integra la falta.",
       "El cese de su comisión.",
+      "La fecha en que la Administración tenga conocimiento de los hechos.",
       "La notificación del pliego de cargos."
     ],
     "correct": 1,
@@ -8427,7 +8574,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "La fecha de comisión de la falta.",
       "La incoación del expediente disciplinario.",
-      "La firmeza de la resolución sancionadora."
+      "La firmeza de la resolución sancionadora.",
+      "La fecha de notificación de la resolución sancionadora al interesado."
     ],
     "correct": 2,
     "exp": "El art. 97.2 establece que el plazo de prescripción de las sanciones se cuenta 'desde la firmeza de la resolución sancionadora'.",
@@ -8437,11 +8585,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "La infracción disciplinaria leve prescribe, conforme al art. 97.1 TREBEP, a los:",
     "options": [
+      "Tres años.",
       "Seis meses.",
       "Un año.",
       "Dos años."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 97.1 dispone que 'las leves' (infracciones) prescribirán 'a los seis meses'.",
     "fuente": "Art. 97.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8450,10 +8599,11 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "Conforme al art. 98.1 TREBEP, la imposición de sanciones por faltas leves se llevará a cabo mediante:",
     "options": [
       "El mismo procedimiento que para las faltas muy graves.",
+      "El procedimiento ordinario común a todas las faltas, sin especialidad alguna.",
       "Un procedimiento sumario con audiencia al interesado.",
       "Resolución directa sin trámite de audiencia."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 98.1 dispone que 'la imposición de sanciones por faltas leves se llevará a cabo por procedimiento sumario con audiencia al interesado'.",
     "fuente": "Art. 98.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8463,9 +8613,10 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Resolución motivada sin procedimiento previo.",
       "Acuerdo verbal del superior jerárquico.",
+      "El procedimiento sumario con audiencia al interesado.",
       "El procedimiento previamente establecido."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 98.1 señala que 'no podrá imponerse sanción por la comisión de faltas muy graves o graves sino mediante el procedimiento previamente establecido'.",
     "fuente": "Art. 98.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8475,7 +8626,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Eficacia, celeridad y economía procesal.",
       "Oralidad, publicidad y contradicción.",
-      "Jerarquía, coordinación y descentralización."
+      "Jerarquía, coordinación y descentralización.",
+      "Legalidad, tipicidad y proporcionalidad."
     ],
     "correct": 0,
     "exp": "El art. 98.2 indica que el procedimiento se estructurará 'atendiendo a los principios de eficacia, celeridad y economía procesal, con pleno respeto a los derechos y garantías de defensa'.",
@@ -8485,11 +8637,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Conforme al art. 98.2 TREBEP, en el procedimiento disciplinario debe quedar establecida la debida separación entre:",
     "options": [
+      "La fase de alegaciones y la fase de recurso, encomendadas al mismo órgano.",
       "El órgano de personal y el órgano presupuestario.",
       "La fase instructora y la fase sancionadora, encomendadas a órganos distintos.",
       "La Administración General del Estado y las Comunidades Autónomas."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 98.2 dispone que 'quedará establecida la debida separación entre la fase instructora y la sancionadora, encomendándose a órganos distintos'.",
     "fuente": "Art. 98.2 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8498,10 +8651,11 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "Según el art. 98.3 TREBEP, las medidas de carácter provisional en el procedimiento sancionador se adoptarán mediante:",
     "options": [
       "Simple comunicación verbal al interesado.",
+      "Resolución motivada, en todo caso, aunque no esté prevista en las normas reguladoras del procedimiento.",
       "Acuerdo del pleno de la corporación en todo caso.",
       "Resolución motivada, cuando así esté previsto en las normas reguladoras del procedimiento."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 98.3 indica que 'se podrá adoptar mediante resolución motivada medidas de carácter provisional que aseguren la eficacia de la resolución final', cuando así esté previsto en las normas reguladoras.",
     "fuente": "Art. 98.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8511,6 +8665,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "A que se extienda la prisión provisional u otras medidas judiciales que impidan desempeñar el puesto de trabajo.",
       "Máximo de seis meses, sin posibilidad de prórroga.",
+      "Un máximo de un año, ampliable por otro año más.",
       "Que determine el órgano de personal, con independencia de la resolución judicial."
     ],
     "correct": 0,
@@ -8523,7 +8678,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Supondrá automáticamente la pérdida del puesto de trabajo.",
       "No supondrá pérdida del puesto de trabajo.",
-      "Se convertirá de forma automática en sanción de separación del servicio."
+      "Se convertirá de forma automática en sanción de separación del servicio.",
+      "Determinará el pase a la situación de excedencia forzosa."
     ],
     "correct": 1,
     "exp": "El art. 98.3 precisa que en ese caso, 'si la suspensión provisional excediera de seis meses no supondrá pérdida del puesto de trabajo'.",
@@ -8533,11 +8689,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "El funcionario en suspensión provisional tiene derecho, conforme al art. 98.3 TREBEP, a percibir durante la suspensión:",
     "options": [
+      "Las retribuciones básicas y el complemento de destino en su integridad.",
       "La totalidad de sus retribuciones, incluidas las complementarias.",
       "Ninguna retribución hasta que se resuelva el expediente.",
       "Las retribuciones básicas y, en su caso, las prestaciones familiares por hijo a cargo."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 98.3 reconoce al funcionario suspenso provisional el derecho a percibir 'las retribuciones básicas y, en su caso, las prestaciones familiares por hijo a cargo'.",
     "fuente": "Art. 98.3 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8546,6 +8703,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "Cuando la suspensión provisional se eleve a definitiva, conforme al art. 98.4 TREBEP, el funcionario deberá:",
     "options": [
       "Devolver lo percibido durante el tiempo de duración de la suspensión provisional.",
+      "Solicitar el reingreso al servicio activo en el plazo de un mes.",
       "Reincorporarse de inmediato a su puesto de trabajo.",
       "Percibir con carácter retroactivo el complemento de productividad."
     ],
@@ -8559,6 +8717,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Iniciar un nuevo expediente disciplinario de oficio.",
       "Restituir al funcionario la diferencia entre los haberes realmente percibidos y los que hubiera debido percibir con plenitud de derechos.",
+      "Reconocer al funcionario un permiso retribuido compensatorio equivalente al tiempo de suspensión.",
       "Abonar una indemnización equivalente al doble de los haberes dejados de percibir."
     ],
     "correct": 1,
@@ -8571,7 +8730,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Descontado del periodo vacacional del funcionario.",
       "Computado únicamente a efectos de trienios.",
-      "De abono para el cumplimiento de la suspensión firme."
+      "De abono para el cumplimiento de la suspensión firme.",
+      "Computado como tiempo de excedencia voluntaria por interés particular."
     ],
     "correct": 2,
     "exp": "El art. 98.4 señala que 'el tiempo de permanencia en suspensión provisional será de abono para el cumplimiento de la suspensión firme'.",
@@ -8581,11 +8741,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Cuando la suspensión no sea declarada firme, el art. 98.4 TREBEP dispone que el tiempo de duración de aquella:",
     "options": [
+      "Se computará como permiso sin sueldo, sin derecho a reincorporación inmediata.",
       "Se computará como de servicio activo, con reincorporación inmediata y reconocimiento de los derechos económicos desde la fecha de suspensión.",
       "Se computará como situación de excedencia voluntaria.",
       "No generará derecho alguno para el funcionario afectado."
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 98.4 establece que 'cuando la suspensión no sea declarada firme, el tiempo de duración de la misma se computará como de servicio activo, debiendo acordarse la inmediata reincorporación del funcionario a su puesto de trabajo, con reconocimiento de todos los derechos económicos y demás que procedan desde la fecha de suspensión'.",
     "fuente": "Art. 98.4 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -8598,6 +8759,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "Según el art. 1.1 del RD 365/1995, ¿a qué funcionarios resulta de aplicación este Reglamento?",
     "options": [
       "A los funcionarios de la Administración General del Estado y sus Organismos autónomos comprendidos en el ámbito de la Ley 30/1984, de 2 de agosto",
+      "A los funcionarios de la Administración Local y de las Comunidades Autónomas, en todo caso",
       "A todos los funcionarios públicos de cualquier Administración, incluidas las Comunidades Autónomas y Entidades Locales",
       "Únicamente a los funcionarios de los Cuerpos docentes del Estado"
     ],
@@ -8611,6 +8773,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Quedan excluidos por completo del ámbito del Reglamento",
       "No les son de aplicación las disposiciones del Reglamento relativas a las situaciones aludidas en el párrafo segundo de la disposición adicional decimoquinta de la Ley 30/1984",
+      "Quedan excluidos únicamente en materia de excedencia voluntaria por interés particular",
       "Se les aplica el Reglamento en su totalidad sin ninguna excepción"
     ],
     "correct": 1,
@@ -8623,7 +8786,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Nueve",
       "Trece",
-      "Once"
+      "Once",
+      "Diez"
     ],
     "correct": 2,
     "exp": "El art. 2 enumera once situaciones, de la letra a) a la k).",
@@ -8633,11 +8797,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Según el art. 2 del RD 365/1995, ¿qué situación administrativa corresponde a la letra e)?",
     "options": [
+      "Expectativa de destino",
       "Excedencia forzosa",
       "Suspensión de funciones",
       "Servicio en Comunidades Autónomas"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "La letra e) del art. 2 recoge la excedencia forzosa; la letra k) recoge la suspensión de funciones y la letra c) el servicio en Comunidades Autónomas.",
     "fuente": "Art. 2.e) RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -8646,10 +8811,11 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "Conforme al art. 3 del RD 365/1995, ¿en cuál de estos supuestos se considera al funcionario en situación de servicio activo?",
     "options": [
       "Cuando se encuentre en excedencia voluntaria por interés particular",
+      "Cuando se encuentre en excedencia voluntaria incentivada",
       "Cuando se encuentre en comisión de servicios",
       "Cuando se encuentre en suspensión firme de funciones"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 3.c) incluye en servicio activo al funcionario que se encuentre en comisión de servicios.",
     "fuente": "Art. 3.c) RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -8659,9 +8825,10 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Organismos internacionales por más de seis meses",
       "Los órganos de gobierno de las Comunidades Autónomas como altos cargos",
+      "El Tribunal Constitucional o el Defensor del Pueblo",
       "Las Cortes Generales o el Tribunal de Cuentas, cuando no les corresponda quedar en otra situación"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 3.e) incluye en servicio activo a quienes presten servicios en las Cortes Generales o el Tribunal de Cuentas, si no corresponde otra situación.",
     "fuente": "Art. 3.e) RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -8671,7 +8838,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Desempeñen cargo retribuido y de dedicación exclusiva en las mismas",
       "Sean nombrados Diputados o Senadores",
-      "Pasen a prestar servicios en una Comunidad Autónoma"
+      "Pasen a prestar servicios en una Comunidad Autónoma",
+      "Sean elegidos miembros del Parlamento Europeo"
     ],
     "correct": 0,
     "exp": "El art. 3.g) prevé el servicio activo para miembros de Corporaciones Locales, salvo que desempeñen cargo retribuido y de dedicación exclusiva.",
@@ -8681,11 +8849,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Según el art. 3.i) del RD 365/1995, permanece en servicio activo el funcionario que...",
     "options": [
+      "Es nombrado funcionario interino en otro Cuerpo",
       "Es declarado en expectativa de destino",
       "Cesa en un puesto por haber obtenido otro mediante procedimientos de provisión de puestos, durante el plazo posesorio",
       "Solicita la excedencia voluntaria por agrupación familiar"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 3.i) mantiene en servicio activo, durante el plazo posesorio, a quien cesa en un puesto por haber obtenido otro mediante procedimientos de provisión.",
     "fuente": "Art. 3.i) RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -8694,10 +8863,11 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "El art. 3.l) del RD 365/1995 incluye como supuesto de servicio activo...",
     "options": [
       "La suspensión provisional de funciones",
+      "El pase a la situación de excedencia forzosa por incumplimiento de obligaciones",
       "La reserva de puesto de trabajo tras servicios especiales",
       "El supuesto de cesación progresiva de actividades"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "La letra l) del art. 3 incluye expresamente el supuesto de cesación progresiva de actividades.",
     "fuente": "Art. 3.l) RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -8707,6 +8877,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Por un período determinado superior a seis meses",
       "Por un período determinado superior a un año",
+      "Por un período determinado superior a tres meses",
       "Sin límite mínimo de duración"
     ],
     "correct": 0,
@@ -8719,7 +8890,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Es nombrado Delegado del Gobierno",
       "Adquiere la condición de funcionario al servicio de Organizaciones internacionales o de carácter supranacional",
-      "Obtiene un puesto de libre designación en su Ministerio"
+      "Obtiene un puesto de libre designación en su Ministerio",
+      "Es comisionado para prestar asistencia técnica a una Comunidad Autónoma"
     ],
     "correct": 1,
     "exp": "El art. 4.b) contempla la adquisición de la condición de funcionario al servicio de Organizaciones internacionales o supranacionales.",
@@ -8729,11 +8901,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Según el art. 4.e) del RD 365/1995, están en servicios especiales los funcionarios adscritos a los servicios de...",
     "options": [
+      "El Banco de España, en misión de asesoramiento técnico internacional",
       "Las Corporaciones Locales de su provincia",
       "El Tribunal Constitucional o el Defensor del Pueblo, o destinados al Tribunal de Cuentas, en los términos previstos legalmente",
       "Los Gabinetes de los Delegados del Gobierno o Gobernadores Civiles"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 4.e) declara servicios especiales para los adscritos al Tribunal Constitucional, Defensor del Pueblo o destinados al Tribunal de Cuentas.",
     "fuente": "Art. 4.e) RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -8742,6 +8915,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "El art. 4.f) del RD 365/1995 declara en servicios especiales a quienes...",
     "options": [
       "Accedan a la condición de Diputado o Senador de las Cortes Generales",
+      "Sean nombrados representantes de España ante Organismos internacionales sin percibir remuneración",
       "Sean nombrados funcionarios en comisión de servicios",
       "Pasen a la situación de expectativa de destino"
     ],
@@ -8755,6 +8929,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Solicite la excedencia voluntaria por interés particular",
       "Cumpla el servicio militar o prestación social sustitutoria equivalente",
+      "Presten servicio de voluntariado obligatorio en la Cruz Roja Española",
       "Obtenga un puesto de trabajo en la misma provincia"
     ],
     "correct": 1,
@@ -8767,7 +8942,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Nombrados miembros de un Ayuntamiento sin dedicación exclusiva",
       "Destinados a una Comunidad Autónoma por concurso",
-      "Elegidos miembros del Parlamento Europeo"
+      "Elegidos miembros del Parlamento Europeo",
+      "Sean elegidos Presidente de una Diputación Provincial"
     ],
     "correct": 2,
     "exp": "La letra l) del art. 4 declara servicios especiales para los funcionarios elegidos miembros del Parlamento Europeo.",
@@ -8777,11 +8953,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Según el art. 5 del RD 365/1995, ¿qué se entiende por 'cargo de carácter político' a efectos del pase a servicios especiales?",
     "options": [
+      "Cualquier cargo de elección popular en el ámbito municipal",
       "El cargo de confianza que no implique una relación profesional de carácter permanente, del que se derive incompatibilidad para ejercer la función pública y que conlleve responsabilidades directivas o de asesoramiento a nivel político",
       "Cualquier puesto de trabajo obtenido por libre designación",
       "Todo puesto directivo en un Organismo autónomo estatal"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 5 define el cargo de carácter político como cargo de confianza sin relación profesional permanente, con incompatibilidad y responsabilidades directivas o de asesoramiento político.",
     "fuente": "Art. 5 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -8790,10 +8967,11 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "El art. 5 del RD 365/1995 atribuye el establecimiento de los criterios para calificar un cargo como de carácter político a...",
     "options": [
       "El Ministerio de Asuntos Exteriores",
+      "El Ministerio de Hacienda",
       "El Ministerio para las Administraciones Públicas",
       "El Consejo de Estado"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "Conforme al art. 5, dichos criterios los establece el Ministerio para las Administraciones Públicas.",
     "fuente": "Art. 5 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -8803,9 +8981,10 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Solo a instancia del interesado, nunca de oficio",
       "Exclusivamente mediante resolución del Consejo de Ministros",
+      "De oficio o a instancia del interesado, con efectos únicamente desde la fecha de la resolución que lo declare",
       "De oficio o a instancia del interesado, con efectos desde el momento en que se produjo el supuesto"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 6.1 permite la declaración de oficio o a instancia del interesado, con efectos desde que se produjo el supuesto.",
     "fuente": "Art. 6.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -8815,7 +8994,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "El Ministerio de Asuntos Exteriores",
       "El Ministerio para las Administraciones Públicas",
-      "La Secretaría de Estado para la Administración Pública"
+      "La Secretaría de Estado para la Administración Pública",
+      "El Consejo de Ministros"
     ],
     "correct": 0,
     "exp": "El art. 6.2 exige que el interés de la Administración conste conforme a los criterios que establezca el Ministerio de Asuntos Exteriores.",
@@ -8825,11 +9005,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Según el art. 7.1.a) del RD 365/1995, cuando el puesto desempeñado antes de pasar a servicios especiales se hubiera obtenido por libre designación, al reingreso se adjudicará...",
     "options": [
+      "Un puesto de nivel inferior en el mismo Ministerio, con carácter definitivo",
       "Un puesto de igual nivel y similares retribuciones, con carácter definitivo, en el mismo Ministerio",
       "Un puesto de igual nivel y similares retribuciones, con carácter provisional, en el mismo municipio, hasta obtener otro con carácter definitivo",
       "El mismo puesto que desempeñaba, con carácter definitivo"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 7.1.a) prevé un puesto provisional de igual nivel y similares retribuciones en el mismo municipio para quienes procedían de un puesto de libre designación.",
     "fuente": "Art. 7.1.a) RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -8838,10 +9019,11 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "En los supuestos no correspondientes a libre designación, el art. 7.1.b) del RD 365/1995 dispone que se adjudicará al funcionario, con carácter definitivo...",
     "options": [
       "Cualquier puesto vacante en la Administración, sin garantía de nivel",
+      "Un puesto de igual nivel en otro Ministerio, con carácter provisional",
       "Un puesto de nivel superior en otro Ministerio",
       "Un puesto de igual nivel y similares retribuciones en el mismo Ministerio y municipio"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 7.1.b) adjudica, con carácter definitivo, un puesto de igual nivel y similares retribuciones en el mismo Ministerio y municipio.",
     "fuente": "Art. 7.1.b) RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -8851,6 +9033,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "La retribución del puesto o cargo efectivo que desempeñen, y no la que les corresponda como funcionarios",
       "Las retribuciones que les corresponderían como funcionarios en servicio activo",
+      "La retribución del puesto efectivo más un complemento de residencia",
       "Únicamente las retribuciones básicas y los trienios"
     ],
     "correct": 0,
@@ -8863,7 +9046,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Únicamente a efectos de antigüedad, sin repercusión en derechos pasivos",
       "Ascensos, consolidación de grado personal, trienios y derechos pasivos, así como para el período mínimo de excedencia voluntaria por interés particular",
-      "Solo a efectos de trienios, quedando excluidos los ascensos"
+      "Solo a efectos de trienios, quedando excluidos los ascensos",
+      "Únicamente a efectos de complemento específico y productividad"
     ],
     "correct": 1,
     "exp": "El art. 8.2 computa el tiempo en servicios especiales a efectos de ascensos, grado personal, trienios, derechos pasivos y período mínimo para la excedencia voluntaria por interés particular.",
@@ -8873,11 +9057,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Según el art. 8.1 del RD 365/1995, cuando las retribuciones por trienios no puedan percibirse con cargo a los presupuestos correspondientes, ¿quién debe abonarlas?",
     "options": [
+      "El Ministerio para las Administraciones Públicas, con cargo a un fondo específico",
       "La Secretaría de Estado para la Administración Pública",
       "El propio Organismo internacional o entidad donde presta servicio",
       "El Departamento en el que el funcionario desempeñaba su último puesto en servicio activo"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 8.1 atribuye ese abono excepcional al Departamento donde el funcionario desempeñaba su último puesto en activo.",
     "fuente": "Art. 8.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -8886,6 +9071,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "Según el art. 9.1 del RD 365/1995, quienes pierdan la condición que motivó su declaración en servicios especiales deben solicitar el reingreso al servicio activo en el plazo de...",
     "options": [
       "Un mes",
+      "Dos meses",
       "Quince días",
       "Tres meses"
     ],
@@ -8899,6 +9085,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Suspensión provisional de funciones",
       "Excedencia voluntaria por interés particular, con efectos desde el día en que perdió la condición",
+      "Excedencia voluntaria por agrupación familiar",
       "Expectativa de destino"
     ],
     "correct": 1,
@@ -8911,7 +9098,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Deben reincorporarse de inmediato al servicio activo",
       "Pasan automáticamente a excedencia forzosa",
-      "Podrán permanecer en situación de servicios especiales hasta la nueva constitución de las Cámaras"
+      "Podrán permanecer en situación de servicios especiales hasta la nueva constitución de las Cámaras",
+      "Deben cesar definitivamente en la condición de funcionario"
     ],
     "correct": 2,
     "exp": "El art. 9.2 permite permanecer en servicios especiales hasta la nueva constitución de las Cámaras en caso de disolución.",
@@ -8921,11 +9109,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Según el art. 10.1 del RD 365/1995, los funcionarios transferidos a las Comunidades Autónomas se integran plenamente en la organización de éstas, hallándose en situación de...",
     "options": [
+      "Excedencia forzosa en su Cuerpo o Escala de origen",
       "Servicio activo en la Comunidad Autónoma, permaneciendo en 'servicio en Comunidades Autónomas' en su Cuerpo o Escala de origen",
       "Excedencia voluntaria por servicios en el sector público",
       "Servicios especiales en todo caso"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 10.1 sitúa a los funcionarios transferidos en servicio activo en la Comunidad Autónoma, y en 'servicio en Comunidades Autónomas' respecto de su Cuerpo o Escala de origen.",
     "fuente": "Art. 10.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -8934,10 +9123,11 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "Conforme al art. 10.2 del RD 365/1995, la sanción de separación del servicio de un funcionario transferido será acordada por el órgano competente de la Comunidad Autónoma...",
     "options": [
       "Sin necesidad de ningún informe previo",
+      "Previo informe del Ministerio de Justicia",
       "Previo dictamen del Consejo de Estado",
       "Previa autorización del Ministerio para las Administraciones Públicas"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 10.2 exige que la sanción de separación se acuerde previo dictamen del Consejo de Estado.",
     "fuente": "Art. 10.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -8947,9 +9137,10 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Pierden su condición de funcionarios de la Administración del Estado",
       "Pasan automáticamente a la situación de excedencia voluntaria",
+      "Pasan a la situación de servicios especiales",
       "Conservan su condición de funcionarios de la Administración del Estado, en situación de servicio en Comunidades Autónomas"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 11.1 les mantiene la condición de funcionarios del Estado, en la situación de servicio en Comunidades Autónomas.",
     "fuente": "Art. 11.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -8959,7 +9150,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "El Ministro del Departamento al que esté adscrito el Cuerpo o Escala, previa incoación de expediente por la Comunidad Autónoma de destino",
       "El órgano competente de la Comunidad Autónoma de destino, sin más trámite",
-      "El Consejo de Ministros, en todo caso"
+      "El Consejo de Ministros, en todo caso",
+      "El órgano competente de la Comunidad Autónoma de destino, previo dictamen del Consejo de Estado"
     ],
     "correct": 0,
     "exp": "El art. 11.2 reserva al Ministro del Departamento de adscripción del Cuerpo o Escala la sanción de separación, previa incoación del expediente por la Comunidad Autónoma de destino.",
@@ -8969,11 +9161,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Según el art. 12.1 del RD 365/1995, pasan a la situación de expectativa de destino los funcionarios afectados por un procedimiento de reasignación de efectivos que...",
     "options": [
+      "Hayan superado el período máximo de expectativa de destino sin obtener puesto",
       "Hayan solicitado voluntariamente la excedencia",
       "No hayan obtenido puesto en las dos primeras fases de reasignación, adscribiéndose al Ministerio para las Administraciones Públicas",
       "Hayan sido sancionados con suspensión firme de funciones"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 12.1 declara en expectativa de destino a quienes no obtuvieron puesto en las dos primeras fases de reasignación, adscribiéndolos al Ministerio para las Administraciones Públicas.",
     "fuente": "Art. 12.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -8982,10 +9175,11 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "Entre las obligaciones de los funcionarios en expectativa de destino que recoge el art. 12.3 del RD 365/1995 se encuentra...",
     "options": [
       "Trasladarse a cualquier provincia del territorio nacional sin condición alguna",
+      "Renunciar a cualquier prestación por desempleo mientras dure la situación",
       "Renunciar a la condición de funcionario si no aceptan el primer puesto ofrecido",
       "Aceptar los puestos de características similares que se les ofrezcan en la provincia donde estaban destinados y participar en los concursos y cursos de capacitación que se les notifiquen"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 12.3 obliga a aceptar puestos similares en la provincia de destino y a participar en concursos y cursos de capacitación notificados.",
     "fuente": "Art. 12.3 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -8995,6 +9189,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "La Secretaría de Estado para la Administración Pública",
       "El Consejo de Ministros",
+      "El Ministerio para las Administraciones Públicas",
       "El Ministro del Departamento de origen del funcionario"
     ],
     "correct": 0,
@@ -9007,7 +9202,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "El 100 por 100 del complemento específico que percibieran",
       "El 50 por 100 del complemento específico que percibieran al pasar a esta situación",
-      "Ningún complemento específico"
+      "Ningún complemento específico",
+      "El 75 por 100 del complemento específico que percibieran"
     ],
     "correct": 1,
     "exp": "El art. 12.5 reconoce el 50 por 100 del complemento específico que se percibiera al pasar a la situación.",
@@ -9017,11 +9213,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Según el art. 13.1.a) del RD 365/1995, una de las causas de la excedencia forzosa es...",
     "options": [
+      "La sanción disciplinaria por falta grave firme",
       "La solicitud voluntaria del funcionario para el cuidado de hijos",
       "La obtención de un puesto de trabajo mediante concurso",
       "El transcurso del período máximo de expectativa de destino o el incumplimiento de las obligaciones que ésta impone"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 13.1.a) señala como causa el transcurso del plazo máximo de expectativa de destino o el incumplimiento de sus obligaciones.",
     "fuente": "Art. 13.1.a) RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9030,6 +9227,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "Conforme al art. 13.1.b) del RD 365/1995, también procede la excedencia forzosa cuando el funcionario en situación de suspensión firme, sin puesto reservado, solicita el reingreso y...",
     "options": [
       "No se le concede en el plazo de seis meses desde la extinción de la responsabilidad penal o disciplinaria",
+      "En el plazo de dos meses desde la extinción de la responsabilidad penal o disciplinaria",
       "No se le concede en el plazo de un año desde su solicitud",
       "Es rechazado de forma expresa y motivada por el órgano competente"
     ],
@@ -9043,6 +9241,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "La apertura automática de un expediente disciplinario por falta muy grave",
       "El pase a la situación de excedencia voluntaria por interés particular",
+      "La suspensión provisional de funciones por un período de seis meses",
       "La pérdida definitiva de la condición de funcionario"
     ],
     "correct": 1,
@@ -9055,7 +9254,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Solo pueden trabajar en el sector público si es en su misma provincia de destino",
       "Pueden desempeñar libremente puestos en el sector público bajo relación laboral",
-      "No pueden desempeñar puestos de trabajo en el sector público bajo ningún tipo de relación funcionarial o contractual; si lo hacen, pasan a excedencia voluntaria"
+      "No pueden desempeñar puestos de trabajo en el sector público bajo ningún tipo de relación funcionarial o contractual; si lo hacen, pasan a excedencia voluntaria",
+      "Pueden desempeñar puestos de trabajo en el sector público bajo relación funcionarial, pero no bajo relación laboral"
     ],
     "correct": 2,
     "exp": "El art. 13.5 prohíbe a los excedentes forzosos desempeñar puestos en el sector público bajo cualquier relación; si obtienen puesto, pasan a excedencia voluntaria.",
@@ -9066,6 +9266,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "Según el art. 13.6 del RD 365/1995, los funcionarios en excedencia forzosa tienen derecho a percibir...",
     "options": [
       "Las retribuciones básicas y, en su caso, las prestaciones familiares por hijo a cargo, con cómputo del tiempo a efectos de derechos pasivos y trienios",
+      "El complemento de destino correspondiente al último puesto desempeñado",
       "La totalidad de sus retribuciones, incluido el complemento específico",
       "Únicamente una indemnización única a la extinción de la situación"
     ],
@@ -9082,21 +9283,22 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "Según el artículo 89.4 del TREBEP, la excedencia para el cuidado de hijos tendrá, en todo caso, una duración máxima de tres años contados desde:",
     "options": [
       "La fecha de nacimiento o de la resolución judicial de adopción",
+      "La fecha en que el menor cumpla un año de edad.",
       "La fecha de solicitud de la excedencia",
       "La fecha de reincorporación del otro progenitor al servicio activo"
     ],
     "correct": 0,
     "exp": "El art. 89.4 TREBEP fija una duración máxima de tres años a contar desde la fecha de nacimiento o, en su caso, de la resolución judicial o administrativa. El art. 14.1 del RD 365/1995, en su literalidad, solo menciona el nacimiento como día inicial del cómputo; la resolución judicial de adopción fija allí únicamente el momento desde el que puede solicitarse la excedencia.",
     "fuente": "Art. 89.4 TREBEP (RDLeg 5/2015)",
-    "confianza": "alta",
-    "correccionPropuesta": "Fundamentar la respuesta en el art. 89.4 TREBEP (que sí incluye expresamente «o, en su caso, de la resolución judicial o administrativa» como término inicial del cómputo) en lugar de, o además de, el art. 14.1 RD 365/1995, cuyo texto literal solo fija el nacimiento como día inicial de los tres años; alternativamente, matizar en la explicación que el art. 14.1, en su literalidad, no menciona la resolución judicial de adopción como término de cómputo de la duración."
+    "confianza": "alta"
   },
   {
     "q": "El RD 365/1995 condiciona la concesión de la excedencia para el cuidado de hijos a que el peticionario declare previamente que:",
     "options": [
       "Ha agotado previamente el permiso de maternidad o paternidad",
       "No desempeña actividad que pueda impedir o menoscabar el cuidado personal del hijo menor",
-      "Cuenta con la conformidad expresa de su unidad de destino"
+      "Cuenta con la conformidad expresa de su unidad de destino",
+      "Que renuncia expresamente a la reserva del puesto de trabajo durante el período de excedencia"
     ],
     "correct": 1,
     "exp": "El art. 14.1 exige declaración previa del peticionario de que no desempeña actividad que impida o menoscabe el cuidado personal del hijo menor.",
@@ -9106,11 +9308,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "De acuerdo con el artículo 14.2 del RD 365/1995, además de la reserva del puesto de trabajo, los funcionarios en excedencia por cuidado de hijos tienen derecho al cómputo del período a efectos de:",
     "options": [
+      "Ascensos y complemento de productividad",
       "Cómputo a efectos de antigüedad para el complemento de productividad",
       "Cómputo a efectos de la carrera horizontal exclusivamente",
       "Trienios, consolidación de grado personal y derechos pasivos"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 14.2 reconoce reserva de puesto y cómputo a efectos de trienios, consolidación de grado personal, derechos pasivos y solicitud de excedencia por interés particular.",
     "fuente": "Art. 14.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9120,6 +9323,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Excedencia voluntaria por interés particular",
       "Excedencia forzosa",
+      "Excedencia voluntaria por agrupación familiar",
       "Suspensión provisional de funciones"
     ],
     "correct": 0,
@@ -9131,10 +9335,11 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "Según el artículo 15.1 del RD 365/1995, ¿qué circunstancia NO habilita para pasar a la excedencia voluntaria por prestación de servicios en el sector público?",
     "options": [
       "Prestar servicios como personal laboral fijo en organismos o entidades del sector público",
+      "Ingresar voluntariamente en Cuerpos o Escalas propios de una Comunidad Autónoma distintos de aquellos en que inicialmente se integró, siendo funcionario del Estado",
       "Desempeñar el puesto con carácter de funcionario interino o de personal laboral temporal",
       "Encontrarse en servicio activo en otro cuerpo o escala de otra Administración pública sin haber obtenido compatibilidad"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 15.1 excluye expresamente que el desempeño de puestos como interino o laboral temporal habilite para esta situación.",
     "fuente": "Art. 15.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9144,7 +9349,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Cuando su capital social sea íntegramente público",
       "Cuando coticen en un mercado regulado",
-      "Cuando la participación directa o indirecta de las Administraciones públicas sea igual o superior al porcentaje legalmente establecido"
+      "Cuando la participación directa o indirecta de las Administraciones públicas sea igual o superior al porcentaje legalmente establecido",
+      "Cuando su objeto social sea de interés general, aunque no exista participación pública en su capital"
     ],
     "correct": 2,
     "exp": "El art. 15.1 remite al porcentaje de participación (directa o indirecta) legalmente establecido para considerar incluida a la empresa en el sector público.",
@@ -9154,11 +9360,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "El artículo 15.2 del RD 365/1995 extiende la excedencia voluntaria por prestación de servicios en el sector público al caso de los funcionarios del Estado integrados en la función pública de las Comunidades Autónomas que:",
     "options": [
+      "Sean objeto de un proceso de reasignación de efectivos acordado por la Comunidad Autónoma de destino",
       "Ingresen voluntariamente en Cuerpos o Escalas propios de la Comunidad Autónoma distintos de aquellos en que inicialmente se integraron",
       "Pasen automáticamente a la situación de servicios especiales",
       "Queden en excedencia forzosa hasta que se resuelva su integración definitiva"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 15.2 aplica esta modalidad de excedencia también a quienes ingresen voluntariamente en Cuerpos o Escalas propios de la Comunidad Autónoma distintos de los iniciales.",
     "fuente": "Art. 15.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9168,6 +9375,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Dos meses",
       "Un mes",
+      "Tres meses",
       "Quince días"
     ],
     "correct": 1,
@@ -9179,10 +9387,11 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "Según el artículo 16.1 del RD 365/1995, la excedencia voluntaria por interés particular se declarará:",
     "options": [
       "Únicamente a petición del funcionario",
+      "Únicamente cuando lo autorice previamente el Registro Central de Personal",
       "Únicamente de oficio por la Administración",
       "A petición del funcionario o, de oficio, en los supuestos establecidos reglamentariamente"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 16.1 admite tanto la declaración a petición del interesado como la declaración de oficio en los supuestos reglamentariamente previstos.",
     "fuente": "Art. 16.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9192,7 +9401,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Los cinco años inmediatamente anteriores a la solicitud",
       "Los tres años inmediatamente anteriores a la solicitud",
-      "Un curso de reciclaje profesional previo, cualquiera que sea su duración"
+      "Un curso de reciclaje profesional previo, cualquiera que sea su duración",
+      "Diez años de servicios efectivos en el mismo Cuerpo o Escala"
     ],
     "correct": 0,
     "exp": "El art. 16.2 exige servicios efectivos durante los cinco años inmediatamente anteriores a la solicitud.",
@@ -9202,11 +9412,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Conforme al artículo 16.3 del RD 365/1995, cada período de excedencia voluntaria por interés particular no podrá superar, como máximo:",
     "options": [
+      "Un mínimo de un año y un máximo de diez, cualquiera que sea el tiempo de servicios prestados",
       "Un número de años equivalente al doble de los servicios prestados",
       "Un número de años equivalente a los servicios acreditados en cualquier Administración pública, con un máximo de quince",
       "Diez años, cualquiera que sea el tiempo de servicios prestados"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 16.3 limita cada período al número de años acreditados de servicios, con un máximo absoluto de quince años.",
     "fuente": "Art. 16.3 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9216,9 +9427,10 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "La declaración de oficio en suspensión provisional",
       "La apertura automática de expediente disciplinario",
+      "La prórroga automática de la excedencia por un nuevo período igual",
       "La pérdida de la condición de funcionario"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 16.4 sanciona la falta de petición de reingreso dentro de plazo con la pérdida de la condición de funcionario.",
     "fuente": "Art. 16.4 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9227,6 +9439,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "Según el artículo 16.5 del RD 365/1995, la concesión de la excedencia voluntaria por interés particular a solicitud del funcionario:",
     "options": [
       "No podrá declararse cuando al funcionario se le instruya expediente disciplinario",
+      "Solo puede denegarse cuando el Cuerpo o Escala del funcionario cuente con menos de tres efectivos",
       "Es automática una vez cumplidos los requisitos de servicios previos",
       "Requiere el informe favorable previo del Registro Central de Personal"
     ],
@@ -9240,7 +9453,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Mínima de un año y máxima de diez",
       "Mínima de dos años y máxima de quince",
-      "Mínima de tres años y máxima de veinte"
+      "Mínima de tres años y máxima de veinte",
+      "Mínima de seis meses y máxima de cinco años"
     ],
     "correct": 1,
     "exp": "El art. 17.1 fija una duración mínima de dos años y máxima de quince para esta modalidad.",
@@ -9250,11 +9464,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Según el artículo 17.1 del RD 365/1995, ¿qué requisito debe cumplir el cónyuge del funcionario para que pueda concederse la excedencia voluntaria por agrupación familiar?",
     "options": [
+      "Que acredite encontrarse en situación de excedencia voluntaria por interés particular",
       "Que se encuentre en situación de excedencia voluntaria en el mismo municipio",
       "Que acredite estudios superiores en el municipio de destino",
       "Que resida en otro municipio por haber obtenido y estar desempeñando un puesto de trabajo de carácter definitivo"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 17.1 exige que el cónyuge resida en otro municipio por haber obtenido y desempeñar un puesto definitivo, como funcionario o laboral.",
     "fuente": "Art. 17.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9264,6 +9479,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Cualquier Administración pública, Organismo autónomo, Entidad Gestora de la Seguridad Social, Órganos Constitucionales o del Poder Judicial",
       "Exclusivamente empresas privadas radicadas en territorio nacional",
+      "Cualquier empresa mercantil con participación pública minoritaria",
       "Únicamente organizaciones internacionales con sede en España"
     ],
     "correct": 0,
@@ -9275,10 +9491,11 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "Si no se solicita el reingreso al servicio activo antes de finalizar el período de quince años de excedencia por agrupación familiar, el artículo 17.2 del RD 365/1995 dispone que:",
     "options": [
       "Se le declara en excedencia forzosa",
+      "Se le declara en situación de suspensión provisional de funciones",
       "Se le declara de oficio en la situación de excedencia voluntaria por interés particular",
       "Pierde automáticamente la condición de funcionario sin declaración expresa"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 17.2 establece la declaración de oficio en excedencia voluntaria por interés particular si no se pide el reingreso antes de los quince años.",
     "fuente": "Art. 17.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9288,7 +9505,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Cualquier funcionario que lo solicite, sin más requisitos",
       "Los funcionarios en situación de servicios especiales que lo soliciten",
-      "Los funcionarios afectados por un proceso de reasignación de efectivos que se encuentren en alguna de las dos primeras fases"
+      "Los funcionarios afectados por un proceso de reasignación de efectivos que se encuentren en alguna de las dos primeras fases",
+      "Los funcionarios que hayan cumplido veinticinco años de servicios efectivos"
     ],
     "correct": 2,
     "exp": "El art. 18.1 reserva esta posibilidad a los funcionarios afectados por un proceso de reasignación de efectivos en sus dos primeras fases.",
@@ -9298,11 +9516,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Conforme al artículo 18.2 del RD 365/1995, también tienen derecho a pasar, a su solicitud, a la excedencia voluntaria incentivada:",
     "options": [
+      "Quienes se encuentren en situación de excedencia voluntaria por interés particular",
       "Quienes se encuentren en expectativa de destino o excedencia forzosa como consecuencia de la aplicación de un Plan de Empleo",
       "Quienes se encuentren en situación de servicio activo en otro cuerpo",
       "Quienes hayan sido declarados en suspensión provisional de funciones"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 18.2 extiende este derecho a quienes estén en expectativa de destino o excedencia forzosa por aplicación de un Plan de Empleo.",
     "fuente": "Art. 18.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9312,6 +9531,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Al Ministro del Departamento de origen",
       "A la Secretaría de Estado para la Administración Pública",
+      "La Comisión Superior de Personal",
       "Al Registro Central de Personal"
     ],
     "correct": 1,
@@ -9323,10 +9543,11 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "La excedencia voluntaria incentivada, según el artículo 18.4 del RD 365/1995, tendrá una duración de:",
     "options": [
       "Tres años",
+      "Siete años",
       "Diez años",
       "Cinco años"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 18.4 fija en cinco años la duración de la excedencia voluntaria incentivada.",
     "fuente": "Art. 18.4 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9336,7 +9557,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Una mensualidad de retribuciones periódicas, con un máximo de doce mensualidades",
       "Una paga extraordinaria completa, sin límite de mensualidades",
-      "El 50 por 100 del sueldo anual en un pago único"
+      "El 50 por 100 del sueldo anual en un pago único",
+      "Dos mensualidades de retribuciones por cada año completo de servicios, sin límite máximo"
     ],
     "correct": 0,
     "exp": "El art. 18.5 reconoce una mensualidad de retribuciones periódicas por año completo de servicios, con un máximo de doce mensualidades.",
@@ -9346,11 +9568,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Según el artículo 19 del RD 365/1995, un efecto común a todas las modalidades de excedencia voluntaria es que:",
     "options": [
+      "Reservan el puesto de trabajo durante el primer año, salvo en la modalidad incentivada",
       "Reservan el puesto de trabajo durante los dos primeros años",
       "No producen, en ningún caso, reserva de puesto de trabajo",
       "Solo se reserva el puesto en la modalidad de interés particular"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 19 establece que las distintas modalidades de excedencia voluntaria no producen, en ningún caso, reserva de puesto de trabajo.",
     "fuente": "Art. 19 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9360,9 +9583,10 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Se perciben íntegras durante el primer año de excedencia",
       "Se percibe el 75 por 100 del sueldo",
+      "Se percibe el complemento de destino correspondiente al grado personal consolidado",
       "No se devengan retribuciones, salvo lo previsto en el apartado 5 del artículo anterior"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 19 excluye el devengo de retribuciones, con la única salvedad de la compensación prevista en el art. 18.5 para la excedencia incentivada.",
     "fuente": "Art. 19 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9371,6 +9595,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "El artículo 19 del RD 365/1995 establece que el tiempo permanecido en excedencia voluntaria no será computable a efectos de:",
     "options": [
       "Promoción, trienios y derechos pasivos",
+      "Consolidación del grado personal y complemento específico",
       "Antigüedad a efectos de vacaciones, exclusivamente",
       "Cómputo de servicios para el acceso a la función pública"
     ],
@@ -9384,7 +9609,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Temporal o definitiva",
       "Provisional o firme",
-      "Preventiva o sancionadora"
+      "Preventiva o sancionadora",
+      "Voluntaria o involuntaria"
     ],
     "correct": 1,
     "exp": "El art. 20.1 distingue entre suspensión provisional y suspensión firme.",
@@ -9394,11 +9620,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Según el artículo 20.2 del RD 365/1995, si el funcionario declarado en suspensión firme pertenece a varios Cuerpos o Escalas incluidos en el ámbito del Reglamento:",
     "options": [
+      "Se aplica solo cuando todos los Cuerpos o Escalas pertenecen al mismo Ministerio",
       "Solo se ve afectado el Cuerpo o Escala en el que cometió la falta",
       "Se suspende automáticamente su ingreso en cualquier futuro Cuerpo",
       "Debe pasar a dicha situación en todos ellos, comunicándolo el órgano que acuerde la declaración a los Departamentos ministeriales correspondientes"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 20.2 exige extender la suspensión firme a todos los Cuerpos o Escalas del funcionario, con comunicación a los Departamentos ministeriales de adscripción.",
     "fuente": "Art. 20.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9408,6 +9635,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Se le declara en suspensión provisional por el tiempo a que se extiendan dichas medidas",
       "Se le declara automáticamente en suspensión firme",
+      "Se le declara en comisión de servicios forzosa hasta la resolución judicial",
       "Pasa directamente a la situación de excedencia forzosa"
     ],
     "correct": 0,
@@ -9419,10 +9647,11 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "Sobre la suspensión provisional como medida preventiva en un expediente disciplinario, el artículo 21.3 del RD 365/1995 establece que:",
     "options": [
       "No puede exceder de tres meses en ningún caso",
+      "Puede acordarla cualquier superior jerárquico del funcionario, sin límite temporal",
       "Puede acordarla la autoridad que ordenó la incoación del expediente, sin exceder de seis meses salvo paralización imputable al interesado",
       "Solo puede acordarla el Ministro del ramo correspondiente"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 21.3 atribuye la potestad a la autoridad que ordenó la incoación y fija un límite de seis meses, salvo paralización imputable al interesado.",
     "fuente": "Art. 21.3 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9432,7 +9661,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "El 50 por 100 del sueldo, sin trienios ni pagas extraordinarias",
       "La totalidad del sueldo, excepto el complemento específico",
-      "El 75 por 100 de su sueldo, trienios y pagas extraordinarias, además de la totalidad de la prestación económica por hijo a cargo"
+      "El 75 por 100 de su sueldo, trienios y pagas extraordinarias, además de la totalidad de la prestación económica por hijo a cargo",
+      "El 100 por 100 del sueldo durante los tres primeros meses"
     ],
     "correct": 2,
     "exp": "El art. 21.4 fija en el 75 por 100 el sueldo, trienios y pagas extraordinarias del suspenso provisional, con percepción íntegra de la prestación por hijo a cargo.",
@@ -9442,11 +9672,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Según el artículo 21.5 del RD 365/1995, si la suspensión provisional no es declarada firme:",
     "options": [
+      "El tiempo se pierde a todos los efectos, sin derecho a indemnización ni cómputo",
       "El tiempo se computa como de servicio activo y el funcionario se reincorpora de inmediato con reconocimiento de derechos económicos",
       "El tiempo se computa como excedencia voluntaria por interés particular",
       "El funcionario pierde el derecho a reincorporarse a su mismo puesto"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 21.5 ordena computar el tiempo como servicio activo y la inmediata incorporación con reconocimiento de derechos económicos y demás que procedan.",
     "fuente": "Art. 21.5 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9456,6 +9687,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Cuando el funcionario tenga más de veinte años de servicio",
       "Cuando la suspensión firme no exceda de seis meses",
+      "Cuando el funcionario acredite cargas familiares",
       "Cuando la sanción se recurra en vía contencioso-administrativa"
     ],
     "correct": 1,
@@ -9467,10 +9699,11 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "Según el artículo 22.2 del RD 365/1995, mientras no transcurra el plazo de la suspensión de funciones:",
     "options": [
       "El funcionario puede solicitar cualquier cambio de situación administrativa",
+      "Solo puede solicitarse la jubilación voluntaria",
       "Solo puede solicitarse el reingreso condicionado a un puesto concreto",
       "No procederá ningún cambio de situación administrativa"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 22.2 impide cualquier cambio de situación administrativa mientras no transcurra el plazo de la suspensión.",
     "fuente": "Art. 22.2 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9480,7 +9713,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Con un mes de antelación a la finalización del período de duración de la suspensión",
       "Con quince días de antelación a la finalización de la suspensión",
-      "Dentro de los tres meses siguientes a la extinción de la responsabilidad"
+      "Dentro de los tres meses siguientes a la extinción de la responsabilidad",
+      "Con dos meses de antelación a la finalización de la suspensión"
     ],
     "correct": 0,
     "exp": "El art. 22.3 exige solicitar el reingreso con un mes de antelación a la finalización del período de suspensión.",
@@ -9490,11 +9724,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Según el artículo 22.5 del RD 365/1995, si solicitado el reingreso al servicio activo este no se concede en el plazo de seis meses, el funcionario será declarado de oficio en la situación de:",
     "options": [
+      "Excedencia voluntaria por interés particular, con efectos desde la fecha de la solicitud",
       "Suspensión firme prorrogada",
       "Excedencia forzosa prevista en el artículo 13.1.b), con efectos desde la extinción de la responsabilidad",
       "Pérdida definitiva de la condición de funcionario"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 22.5 remite a la excedencia forzosa del art. 13.1.b) si no se concede el reingreso solicitado dentro de seis meses.",
     "fuente": "Art. 22.5 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9504,9 +9739,10 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Requieren siempre el reingreso previo al servicio activo",
       "Solo pueden comunicarse anualmente al Registro Central de Personal",
+      "Solo producen efectos desde su publicación en el Boletín Oficial del Estado",
       "Deben comunicarse siempre al Registro Central de Personal y pueden tener lugar sin necesidad de reingreso previo, si se reúnen los requisitos exigidos"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 23.1 exige la comunicación al Registro Central de Personal y permite el cambio de situación sin reingreso previo cuando se cumplen los requisitos.",
     "fuente": "Art. 23.1 RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9515,6 +9751,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "q": "Si la nueva situación administrativa conlleva derecho a la reserva de un puesto de trabajo, el artículo 23.2 del RD 365/1995 permite a los funcionarios:",
     "options": [
       "Participar en convocatorias de concurso, reservándoseles un puesto de igual nivel y similares retribuciones en el mismo Ministerio y Municipio",
+      "Pueden participar en concursos, pero pierden el cómputo de trienios durante ese período",
       "Solicitar el reingreso inmediato sin poder participar en concursos",
       "Renunciar a la reserva de puesto para agilizar su participación en el concurso"
     ],
@@ -9528,7 +9765,8 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "Es acordada directamente por la Corporación Local, sin intervención estatal",
       "Será acordada por el Ministro del Departamento al que esté adscrito su Cuerpo o Escala, previa incoación de expediente disciplinario por la Corporación Local",
-      "Quedan exentos de responsabilidad disciplinaria mientras estén destinados fuera de la Administración General del Estado"
+      "Quedan exentos de responsabilidad disciplinaria mientras estén destinados fuera de la Administración General del Estado",
+      "Es acordada por el Delegado del Gobierno en la Comunidad Autónoma correspondiente"
     ],
     "correct": 1,
     "exp": "La disposición adicional segunda atribuye la sanción de separación del servicio al Ministro del Departamento de adscripción, previa incoación del expediente por la Corporación Local.",
@@ -9538,11 +9776,12 @@ window.addQuestions('aux-admin-zaragoza', 18, [
   {
     "q": "Según la disposición adicional cuarta del RD 365/1995, la competencia en materia de situaciones administrativas de los funcionarios docentes universitarios y del personal de Administración y Servicios propio de las Universidades corresponde a:",
     "options": [
+      "El Consejo de Coordinación Universitaria",
       "El Ministerio competente en materia de Universidades",
       "El Consejo Social de la Universidad",
       "El Rector"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "La disposición adicional cuarta atribuye esta competencia al Rector, conforme a la Ley Orgánica de Reforma Universitaria citada.",
     "fuente": "Disposición adicional cuarta RD 365/1995 (Reglamento de Situaciones Administrativas)",
     "confianza": "alta"
@@ -9552,6 +9791,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
     "options": [
       "El 60 por 100 y el 80 por 100 de las retribuciones básicas y de los complementos de destino y específico correspondientes",
       "El 50 por 100 y el 75 por 100 de las retribuciones totales",
+      "El 65 por 100 y el 85 por 100 de las retribuciones totales, incluidas las pagas extraordinarias",
       "El 70 por 100 y el 90 por 100 del sueldo base únicamente"
     ],
     "correct": 0,
