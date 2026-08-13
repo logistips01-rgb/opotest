@@ -46548,6 +46548,2915 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "Art. 1.1 LO 1/2004."
+  },
+  {
+    "q": "Según el art. 3 de la LO 3/2007, el principio de igualdad de trato entre mujeres y hombres supone la ausencia de toda discriminación, directa o indirecta, por razón de sexo, y especialmente las derivadas de:",
+    "options": [
+      "La maternidad, la asunción de obligaciones familiares y el estado civil",
+      "La nacionalidad y el lugar de residencia",
+      "La edad y la situación económica exclusivamente"
+    ],
+    "correct": 0,
+    "exp": "Art. 3: 'El principio de igualdad de trato entre mujeres y hombres supone la ausencia de toda discriminación, directa o indirecta, por razón de sexo, y, especialmente, las derivadas de la maternidad, la asunción de obligaciones familiares y el estado civil.'"
+  },
+  {
+    "q": "Según el art. 4 de la LO 3/2007, la igualdad de trato y de oportunidades entre mujeres y hombres es un principio informador del ordenamiento jurídico que:",
+    "options": [
+      "Solo se aplica en el ámbito laboral",
+      "Se integrará y observará en la interpretación y aplicación de las normas jurídicas",
+      "Tiene carácter meramente programático sin efectos jurídicos"
+    ],
+    "correct": 1,
+    "exp": "Art. 4: 'La igualdad de trato y de oportunidades entre mujeres y hombres es un principio informador del ordenamiento jurídico y, como tal, se integrará y observará en la interpretación y aplicación de las normas jurídicas.'"
+  },
+  {
+    "q": "Según el art. 6.1 de la LO 3/2007, se considera discriminación directa por razón de sexo la situación en que se encuentra una persona que sea, haya sido o pudiera ser tratada, en atención a su sexo:",
+    "options": [
+      "De forma idéntica a las personas del otro sexo",
+      "Con preferencia sobre las personas del otro sexo",
+      "De manera menos favorable que otra en situación comparable"
+    ],
+    "correct": 2,
+    "exp": "Art. 6.1: 'Se considera discriminación directa por razón de sexo la situación en que se encuentra una persona que sea, haya sido o pudiera ser tratada, en atención a su sexo, de manera menos favorable que otra en situación comparable.'"
+  },
+  {
+    "q": "Según el art. 6.2, se considera discriminación indirecta por razón de sexo cuando una disposición, criterio o práctica aparentemente neutros ponen a personas de un sexo en desventaja particular respecto a las del otro, salvo que:",
+    "options": [
+      "Puedan justificarse objetivamente por una finalidad legítima con medios necesarios y adecuados",
+      "El empresario lo decida discrecionalmente",
+      "Afecte a menos del diez por ciento de la plantilla"
+    ],
+    "correct": 0,
+    "exp": "Art. 6.2: '...salvo que dicha disposición, criterio o práctica puedan justificarse objetivamente en atención a una finalidad legítima y que los medios para alcanzar dicha finalidad sean necesarios y adecuados.'"
+  },
+  {
+    "q": "Según el art. 6.3, ¿qué consideración tiene toda orden de discriminar, directa o indirectamente, por razón de sexo?",
+    "options": [
+      "Solo es discriminatoria si se ejecuta efectivamente",
+      "Se considera discriminatoria en cualquier caso",
+      "Es discriminatoria solo en el ámbito público"
+    ],
+    "correct": 1,
+    "exp": "Art. 6.3: 'En cualquier caso, se considera discriminatoria toda orden de discriminar, directa o indirectamente, por razón de sexo.'"
+  },
+  {
+    "q": "Según el art. 7.1 de la LO 3/2007, constituye acoso sexual cualquier comportamiento, verbal o físico, de naturaleza sexual que tenga el propósito o produzca el efecto de:",
+    "options": [
+      "Facilitar la comunicación entre compañeros",
+      "Ninguno en particular, basta la mera intención sin efecto",
+      "Atentar contra la dignidad de una persona, en particular creando un entorno intimidatorio, degradante u ofensivo"
+    ],
+    "correct": 2,
+    "exp": "Art. 7.1: 'constituye acoso sexual cualquier comportamiento, verbal o físico, de naturaleza sexual que tenga el propósito o produzca el efecto de atentar contra la dignidad de una persona, en particular cuando se crea un entorno intimidatorio, degradante u ofensivo.'"
+  },
+  {
+    "q": "Según el art. 7.2, constituye acoso por razón de sexo cualquier comportamiento realizado en función del sexo de una persona, con el propósito o efecto de:",
+    "options": [
+      "Atentar contra su dignidad y crear un entorno intimidatorio, degradante u ofensivo",
+      "Promover la igualdad de oportunidades",
+      "Fomentar la cohesión del equipo de trabajo"
+    ],
+    "correct": 0,
+    "exp": "Art. 7.2: 'Constituye acoso por razón de sexo cualquier comportamiento realizado en función del sexo de una persona, con el propósito o el efecto de atentar contra su dignidad y de crear un entorno intimidatorio, degradante u ofensivo.'"
+  },
+  {
+    "q": "Según el art. 7.4, el condicionamiento de un derecho o expectativa de derecho a la aceptación de una situación constitutiva de acoso sexual o por razón de sexo se considera:",
+    "options": [
+      "Un supuesto de acción positiva",
+      "También acto de discriminación por razón de sexo",
+      "Válido si medió consentimiento tácito"
+    ],
+    "correct": 1,
+    "exp": "Art. 7.4: 'El condicionamiento de un derecho o de una expectativa de derecho a la aceptación de una situación constitutiva de acoso sexual o de acoso por razón de sexo se considerará también acto de discriminación por razón de sexo.'"
+  },
+  {
+    "q": "Según el art. 8 de la LO 3/2007, constituye discriminación directa por razón de sexo:",
+    "options": [
+      "Todo trato desfavorable a las mujeres relacionado con el embarazo o la maternidad",
+      "Cualquier ausencia laboral no justificada",
+      "La contratación temporal de mujeres embarazadas"
+    ],
+    "correct": 0,
+    "exp": "Art. 8: 'Constituye discriminación directa por razón de sexo todo trato desfavorable a las mujeres relacionado con el embarazo o la maternidad.'"
+  },
+  {
+    "q": "Según el art. 9 de la LO 3/2007 (indemnidad frente a represalias), ¿qué se considera discriminación por razón de sexo además de las conductas directas o indirectas?",
+    "options": [
+      "Pedir información sobre el convenio colectivo",
+      "Rechazar una oferta de ascenso",
+      "Cualquier trato adverso como consecuencia de haber presentado queja, reclamación, denuncia, demanda o recurso destinados a impedir la discriminación"
+    ],
+    "correct": 2,
+    "exp": "Art. 9: 'También se considerará discriminación por razón de sexo cualquier trato adverso o efecto negativo que se produzca en una persona como consecuencia de la presentación por su parte de queja, reclamación, denuncia, demanda o recurso... destinados a impedir su discriminación.'"
+  },
+  {
+    "q": "Según el art. 10 de la LO 3/2007, los actos y cláusulas de negocios jurídicos que constituyan o causen discriminación por razón de sexo se considerarán:",
+    "options": [
+      "Nulos y sin efecto, dando lugar a responsabilidad mediante reparaciones o indemnizaciones reales, efectivas y proporcionadas",
+      "Simplemente anulables si el afectado lo solicita en el plazo de un año",
+      "Sancionables solo con multa administrativa, sin nulidad civil"
+    ],
+    "correct": 0,
+    "exp": "Art. 10: 'Los actos y las cláusulas de los negocios jurídicos que constituyan o causen discriminación por razón de sexo se considerarán nulos y sin efecto, y darán lugar a responsabilidad a través de un sistema de reparaciones o indemnizaciones que sean reales, efectivas y proporcionadas al perjuicio sufrido.'"
+  },
+  {
+    "q": "Según el art. 11.1 de la LO 3/2007, ¿qué finalidad tienen las acciones positivas que pueden adoptar los Poderes Públicos?",
+    "options": [
+      "Sustituir permanentemente el principio general de igualdad de trato",
+      "Corregir situaciones patentes de desigualdad de hecho respecto de los hombres, en tanto subsistan",
+      "Aplicarse indefinidamente sin necesidad de revisión"
+    ],
+    "correct": 1,
+    "exp": "Art. 11.1: 'los Poderes Públicos adoptarán medidas específicas en favor de las mujeres para corregir situaciones patentes de desigualdad de hecho respecto de los hombres. Tales medidas... serán aplicables en tanto subsistan dichas situaciones.'"
+  },
+  {
+    "q": "Según el art. 11.1, las medidas de acción positiva deben ser:",
+    "options": [
+      "Decididas exclusivamente por el Poder Judicial",
+      "Idénticas en todos los sectores de actividad",
+      "Razonables y proporcionadas en relación con el objetivo perseguido en cada caso"
+    ],
+    "correct": 2,
+    "exp": "Art. 11.1 in fine: '...habrán de ser razonables y proporcionadas en relación con el objetivo perseguido en cada caso.'"
+  },
+  {
+    "q": "Según el art. 11.2, ¿pueden las personas físicas y jurídicas privadas adoptar también medidas de acción positiva?",
+    "options": [
+      "Sí, en los términos establecidos en la propia Ley",
+      "No, esa facultad es exclusiva de los Poderes Públicos",
+      "Sí, pero solo con autorización judicial previa"
+    ],
+    "correct": 0,
+    "exp": "Art. 11.2: 'También las personas físicas y jurídicas privadas podrán adoptar este tipo de medidas en los términos establecidos en la presente Ley.'"
+  },
+  {
+    "q": "Según el art. 12.1 de la LO 3/2007, cualquier persona puede recabar de los tribunales la tutela del derecho a la igualdad entre mujeres y hombres, incluso:",
+    "options": [
+      "Solo durante la vigencia de la relación laboral",
+      "Tras la terminación de la relación en la que supuestamente se ha producido la discriminación",
+      "Únicamente si medió sanción administrativa previa"
+    ],
+    "correct": 1,
+    "exp": "Art. 12.1: 'Cualquier persona podrá recabar de los tribunales la tutela del derecho a la igualdad entre mujeres y hombres... incluso tras la terminación de la relación en la que supuestamente se ha producido la discriminación.'"
+  },
+  {
+    "q": "Según el art. 12.3, en los litigios sobre acoso sexual y acoso por razón de sexo, ¿quién es la única persona legitimada?",
+    "options": [
+      "El representante sindical exclusivamente",
+      "El empresario, en representación de la plantilla",
+      "La persona acosada"
+    ],
+    "correct": 2,
+    "exp": "Art. 12.3: 'La persona acosada será la única legitimada en los litigios sobre acoso sexual y acoso por razón de sexo.'"
+  },
+  {
+    "q": "Según el art. 13.1 de la LO 3/2007 (regla de prueba), cuando las alegaciones de la parte actora se fundamenten en actuaciones discriminatorias por razón de sexo, ¿a quién corresponde probar la ausencia de discriminación?",
+    "options": [
+      "A la persona demandada",
+      "Siempre a la parte demandante",
+      "Al Ministerio Fiscal de oficio"
+    ],
+    "correct": 0,
+    "exp": "Art. 13.1: 'corresponderá a la persona demandada probar la ausencia de discriminación en las medidas adoptadas y su proporcionalidad.'"
+  },
+  {
+    "q": "Según el art. 13.2, la regla de inversión de la carga de la prueba del art. 13.1 ¿se aplica en los procesos penales?",
+    "options": [
+      "Sí, se aplica igual que en el resto de procesos",
+      "No, no será de aplicación a los procesos penales",
+      "Solo si lo solicita expresamente la víctima"
+    ],
+    "correct": 1,
+    "exp": "Art. 13.2: 'Lo establecido en el apartado anterior no será de aplicación a los procesos penales.'"
+  },
+  {
+    "q": "El Título I de la LO 3/2007, 'El principio de igualdad y la tutela contra la discriminación', comprende los artículos:",
+    "options": [
+      "14 al 22",
+      "23 al 35",
+      "3 al 13"
+    ],
+    "correct": 2,
+    "exp": "El Título I de la LO 3/2007 ('El principio de igualdad y la tutela contra la discriminación') comprende los artículos 3 a 13."
+  },
+  {
+    "q": "Según el art. 1.1 de la LO 3/2007, esta Ley tiene por objeto hacer efectivo el derecho de igualdad de trato y de oportunidades entre mujeres y hombres mediante, en particular:",
+    "options": [
+      "La eliminación de la discriminación de la mujer en cualesquiera ámbitos de la vida",
+      "La creación de un nuevo órgano judicial especializado",
+      "La modificación exclusiva del Código Penal"
+    ],
+    "correct": 0,
+    "exp": "Art. 1.1: 'Esta Ley tiene por objeto hacer efectivo el derecho de igualdad de trato y de oportunidades entre mujeres y hombres, en particular mediante la eliminación de la discriminación de la mujer, sea cual fuere su circunstancia o condición.'"
+  },
+  {
+    "q": "Según el art. 2 de la LO 3/2007, las obligaciones establecidas en la Ley son de aplicación a:",
+    "options": [
+      "Únicamente a las personas de nacionalidad española",
+      "Toda persona física o jurídica que se encuentre o actúe en territorio español, cualquiera que sea su nacionalidad",
+      "Solo a las Administraciones Públicas, no a particulares"
+    ],
+    "correct": 1,
+    "exp": "Art. 2.2: 'Las obligaciones establecidas en esta Ley serán de aplicación a toda persona, física o jurídica, que se encuentre o actúe en territorio español, cualquiera que fuese su nacionalidad, domicilio o residencia.'"
+  },
+  {
+    "q": "El art. 1 de la LO 3/2007 forma parte de:",
+    "options": [
+      "El Título I",
+      "El Título V",
+      "El Título Preliminar"
+    ],
+    "correct": 2,
+    "exp": "El art. 1 ('Objeto de la Ley') pertenece al Título Preliminar de la LO 3/2007, junto con el art. 2 ('Ámbito de aplicación')."
+  },
+  {
+    "q": "Según el art. 1.1 de la Ley 4/2007 de Aragón, el objeto de esta Ley es la adopción de medidas integrales dirigidas a:",
+    "options": [
+      "La sensibilización, prevención y erradicación de la violencia ejercida sobre las mujeres, así como la protección, asistencia y seguimiento a las víctimas",
+      "Únicamente la sanción penal de los agresores",
+      "La creación de un cuerpo de policía específico"
+    ],
+    "correct": 0,
+    "exp": "Art. 1.1: 'El objeto de esta Ley es la adopción de medidas integrales dirigidas a la sensibilización, prevención y erradicación de la violencia ejercida sobre las mujeres, así como la protección, asistencia y seguimiento a las víctimas.'"
+  },
+  {
+    "q": "Según el art. 1.2 de la Ley 4/2007, se entiende por violencia ejercida contra las mujeres todo acto o agresión contra las mismas, motivado por:",
+    "options": [
+      "Un conflicto laboral previo sin más relación",
+      "La pertenencia a dicho sexo de las víctimas",
+      "El incumplimiento de un contrato civil"
+    ],
+    "correct": 1,
+    "exp": "Art. 1.2: 'se entiende por violencia ejercida contra las mujeres todo acto o agresión contra las mismas, motivado por la pertenencia a dicho sexo de las víctimas.'"
+  },
+  {
+    "q": "Según el art. 2 de la Ley 4/2007, ¿cuál de las siguientes SÍ se considera una forma de violencia contra las mujeres a efectos de esta Ley?",
+    "options": [
+      "La discrepancia salarial pactada en convenio colectivo",
+      "El impago puntual de una factura entre particulares",
+      "El maltrato económico, consistente en la privación intencionada y no justificada de recursos para el bienestar de la víctima"
+    ],
+    "correct": 2,
+    "exp": "Art. 2 i): 'Maltrato económico, que consiste en la privación intencionada y no justificada legalmente de recursos para el bienestar físico o psicológico de la víctima y de sus hijas e hijos.'"
+  },
+  {
+    "q": "Según el art. 2 de la Ley 4/2007, la mutilación genital femenina se define como el conjunto de procedimientos que implican una eliminación parcial o total de los genitales externos femeninos por razones culturales, considerándose forma de violencia:",
+    "options": [
+      "Aun cuando se realicen con el consentimiento, expreso o tácito, de la víctima",
+      "Solo si no hay consentimiento alguno",
+      "Solo si la víctima es menor de edad"
+    ],
+    "correct": 0,
+    "exp": "Art. 2 g): '...por razones culturales o, en general, cualquiera otra que no sea una de orden estrictamente terapéutico, aun cuando se realicen con el consentimiento, expreso o tácito, de la víctima.'"
+  },
+  {
+    "q": "Según el art. 3 de la Ley 4/2007, las situaciones de violencia doméstica son las que se operan por quienes sostienen o han sostenido con la víctima:",
+    "options": [
+      "Únicamente un vínculo laboral",
+      "Un vínculo afectivo, conyugal, de pareja, paterno-filial o semejante",
+      "Un vínculo puramente comercial"
+    ],
+    "correct": 1,
+    "exp": "Art. 3 a): 'son las que se operan por quienes sostienen o han sostenido un vínculo afectivo, conyugal, de pareja, paterno-filial o semejante con la víctima.'"
+  },
+  {
+    "q": "Según el art. 3 b) de la Ley 4/2007, las situaciones de violencia laboral o docente son las que se operan por quienes sostienen con la víctima un vínculo laboral, docente o de prestación de servicios, prevaliéndose de:",
+    "options": [
+      "Una relación de parentesco por consanguinidad",
+      "Ninguna relación previa identificable",
+      "Una posición de dependencia o debilidad de la víctima, o de una situación de proximidad entre ellos"
+    ],
+    "correct": 2,
+    "exp": "Art. 3 b): '...bien sea prevaliéndose de una posición de dependencia o debilidad de la víctima frente a los mismos, bien sea en virtud de una situación de proximidad entre ellos.'"
+  },
+  {
+    "q": "Según el art. 4 de la Ley 4/2007, las medidas de esta Ley se aplican a las mujeres que, dentro de la Comunidad Autónoma de Aragón, sean víctimas de:",
+    "options": [
+      "Cualquiera de las formas de violencia del artículo 2",
+      "Únicamente violencia física con resultado de lesión grave",
+      "Exclusivamente violencia en el ámbito laboral"
+    ],
+    "correct": 0,
+    "exp": "Art. 4: 'Las medidas contempladas en la presente Ley serán de aplicación a las mujeres que, dentro de la Comunidad Autónoma de Aragón, sean víctimas de cualquiera de las formas de violencia del artículo 2.'"
+  },
+  {
+    "q": "El Capítulo I de la Ley 4/2007 de Aragón, 'Disposiciones generales', comprende los artículos:",
+    "options": [
+      "5 al 11",
+      "1 al 4",
+      "18 al 31"
+    ],
+    "correct": 1,
+    "exp": "El Capítulo I ('Disposiciones generales') de la Ley 4/2007 comprende los artículos 1 a 4."
+  },
+  {
+    "q": "Según el art. 18.1 de la Ley 4/2007, los centros de emergencia son centros de asistencia permanente e inmediata en los que se facilita a las víctimas y a sus hijas e hijos acompañantes:",
+    "options": [
+      "Solo asesoramiento telefónico, sin alojamiento",
+      "Prestaciones económicas directas sin más servicios",
+      "Alojamiento y la protección necesaria, orientándolas hacia los recursos sociales, psicológicos y jurídicos adecuados"
+    ],
+    "correct": 2,
+    "exp": "Art. 18.1: 'facilitará a las mujeres víctimas de violencia o que se encuentren en situación de riesgo inminente y a las hijas e hijos acompañantes alojamiento y la protección necesaria, orientándolas y derivándolas a los recursos sociales, psicológicos y jurídicos que se adecuen a sus necesidades.'"
+  },
+  {
+    "q": "Según el art. 18.3, ¿cuántos centros de emergencia debe haber, como mínimo, en la Comunidad Autónoma de Aragón?",
+    "options": [
+      "Al menos uno en cada provincia",
+      "Al menos uno en cada comarca",
+      "Al menos cinco en total, sin distribución territorial fija"
+    ],
+    "correct": 0,
+    "exp": "Art. 18.3: 'Se establecerá, al menos, un centro de emergencia en cada provincia de la Comunidad Autónoma de Aragón.'"
+  },
+  {
+    "q": "Según el art. 19.1 de la Ley 4/2007, las casas de acogida son un servicio social especializado destinado a acoger, por un período determinado, a:",
+    "options": [
+      "Únicamente a menores no acompañados",
+      "Mujeres solas o acompañadas de menores a su cargo víctimas de violencia doméstica que hayan tenido que abandonar el domicilio familiar",
+      "Empresarias en situación de insolvencia"
+    ],
+    "correct": 1,
+    "exp": "Art. 19.1: 'destinado a acoger, por un período de tiempo determinado, a las mujeres solas o acompañadas de menores a su cargo víctimas de violencia doméstica que hayan abandonado o tenido que abandonar el domicilio familiar y carezcan de medios propios.'"
+  },
+  {
+    "q": "Según el art. 19.4, ¿cuántas casas de acogida debe haber, como mínimo, en Aragón?",
+    "options": [
+      "Una única para toda la Comunidad Autónoma",
+      "Al menos dos en la capital, Zaragoza",
+      "Al menos una en cada provincia"
+    ],
+    "correct": 2,
+    "exp": "Art. 19.4: 'Se establecerá, al menos, una casa de acogida en cada provincia de la Comunidad Autónoma de Aragón.'"
+  },
+  {
+    "q": "Según el art. 20.1 de la Ley 4/2007, los pisos tutelados son hogares funcionales y temporales para mujeres víctimas de violencia junto con sus hijas e hijos que:",
+    "options": [
+      "Ya no requieran en su totalidad el tratamiento especializado de la casa de acogida, pero necesiten apoyo para su autonomía personal",
+      "Deban permanecer de forma indefinida sin posibilidad de independencia",
+      "Requieran tratamiento médico hospitalario permanente"
+    ],
+    "correct": 0,
+    "exp": "Art. 20.1: 'hogares funcionales y temporales en los que conviven... mujeres víctimas de violencia junto con sus hijas e hijos, que ya no requieran en su totalidad el tratamiento especializado prestado por la casa de acogida, pero que necesiten apoyo... para conseguir su autonomía personal.'"
+  },
+  {
+    "q": "Según el art. 21 de la Ley 4/2007, los alojamientos alternativos específicos están orientados a proporcionar alojamiento inmediato a:",
+    "options": [
+      "Empresarias víctimas de fraude comercial",
+      "Mujeres mayores o discapacitadas víctimas de violencia",
+      "Menores tutelados sin relación con violencia de género"
+    ],
+    "correct": 1,
+    "exp": "Art. 21: 'se proporcione alojamiento de manera inmediata a mujeres mayores o discapacitadas víctimas de violencia.'"
+  },
+  {
+    "q": "Según el art. 22 de la Ley 4/2007, los puntos de encuentro sirven para llevar a cabo las visitas de madres y/o padres a sus hijas e hijos en supuestos de nulidad, separación o divorcio con antecedentes de:",
+    "options": [
+      "Desacuerdos económicos leves",
+      "Divergencias educativas sobre los hijos",
+      "Conductas violentas en la pareja"
+    ],
+    "correct": 2,
+    "exp": "Art. 22: 'donde se lleven a cabo las visitas de madres y/o padres a sus hijas e hijos en los supuestos de nulidad, separación y divorcio... con antecedentes de conductas violentas en la pareja.'"
+  },
+  {
+    "q": "El Capítulo IV de la Ley 4/2007 de Aragón, 'Medidas de protección y apoyo a las víctimas', se divide en dos secciones:",
+    "options": [
+      "Centros de protección y apoyo, y Servicios de protección y apoyo",
+      "Prevención y Sensibilización",
+      "Información y Asesoramiento"
+    ],
+    "correct": 0,
+    "exp": "El Capítulo IV se divide en la Sección 1ª ('Centros de protección y apoyo', arts. 18-23) y la Sección 2ª ('Servicios de protección y apoyo', arts. 24-31)."
+  },
+  {
+    "q": "Según el art. 24 de la Ley 4/2007, el dispositivo de alarma consiste en una unidad de teleasistencia conectada con una central receptora, destinada a mujeres que se encuentren en:",
+    "options": [
+      "Cualquier situación, sin necesidad de valoración previa",
+      "Una situación de alto riesgo",
+      "Trámite de reclamación económica"
+    ],
+    "correct": 1,
+    "exp": "Art. 24.1: 'podrá facilitar a las mujeres que se encuentren en una situación de alto riesgo un dispositivo de alarma, consistente en una unidad de teleasistencia.'"
+  },
+  {
+    "q": "Según el art. 25 de la Ley 4/2007, el servicio de mediación familiar se concibe como un proceso alternativo de resolución de conflictos en el que la persona mediadora facilita:",
+    "options": [
+      "La imposición de una sentencia vinculante",
+      "La expulsión inmediata del domicilio de una de las partes",
+      "La comunicación entre la pareja para que lleguen a acuerdos sobre su situación de conflicto"
+    ],
+    "correct": 2,
+    "exp": "Art. 25.1: 'la persona mediadora, de una manera cualificada, neutral e imparcial, facilita la comunicación entre la pareja para que ellos mismos lleguen a acuerdos.'"
+  },
+  {
+    "q": "Según el art. 26 de la Ley 4/2007, el servicio de atención psicológica a hombres con problemas de control y violencia en el hogar tiene como finalidad:",
+    "options": [
+      "Dotarles de habilidades para la resolución de conflictos por vías no violentas mediante un tratamiento específico para hombres maltratadores",
+      "Sancionar penalmente al agresor de forma automática",
+      "Facilitar su reincorporación laboral inmediata"
+    ],
+    "correct": 0,
+    "exp": "Art. 26.1: 'con objeto de dotarles de las habilidades personales para la resolución de conflictos por vías no violentas mediante un tratamiento específico para hombres maltratadores.'"
+  },
+  {
+    "q": "Según el art. 27 de la Ley 4/2007, las mujeres víctimas de violencia y sus hijas e hijos tienen derecho, desde el ámbito social, a:",
+    "options": [
+      "Solo una sesión informativa inicial sin seguimiento posterior",
+      "La asistencia psicológica gratuita, con atención inicial y seguimiento hasta concluir el proceso terapéutico",
+      "Atención psicológica solo si residen en la capital"
+    ],
+    "correct": 1,
+    "exp": "Art. 27.1: 'tendrán derecho, desde el ámbito social, a la asistencia psicológica gratuita, que comprenderá la atención inicial y el seguimiento hasta que concluya el proceso terapéutico de recuperación.'"
+  },
+  {
+    "q": "Según el art. 29 de la Ley 4/2007, la Administración de Aragón integrará las políticas de protección y apoyo a las víctimas de violencia doméstica con la política de vivienda protegida, reservando viviendas en régimen de:",
+    "options": [
+      "Venta directa sin condiciones para cualquier solicitante",
+      "Cesión gratuita indefinida sin ningún requisito",
+      "Arrendamiento o precario para las víctimas de violencia doméstica"
+    ],
+    "correct": 2,
+    "exp": "Art. 29: 'Con esta finalidad se reservarán viviendas protegidas en régimen de arrendamiento o precario para las víctimas de violencia doméstica.'"
+  },
+  {
+    "q": "Según el art. 31 de la Ley 4/2007, el Gobierno de Aragón ejercerá la acción popular en los casos más graves de violencia contra las mujeres cuando:",
+    "options": [
+      "La víctima así lo solicite, o cuando la acción delictiva provoque la muerte de esta",
+      "Cualquier tercero lo solicite, sin necesidad de consentimiento de la víctima",
+      "Lo decida directamente el Instituto Aragonés de la Mujer sin más requisitos"
+    ],
+    "correct": 0,
+    "exp": "Art. 31: 'El Gobierno de Aragón ejercerá la acción popular en los casos más graves de violencia contra las mujeres, si la víctima así lo solicita, o cuando la acción delictiva provoque la muerte de esta.'"
+  },
+  {
+    "q": "Según la Disposición adicional segunda de la Ley 4/2007, se crea el Observatorio Aragonés de Violencia sobre la Mujer como:",
+    "options": [
+      "Un juzgado especializado de nueva creación",
+      "Un órgano colegiado adscrito al Departamento competente en materia de mujer",
+      "Una empresa pública de servicios sociales"
+    ],
+    "correct": 1,
+    "exp": "Disposición adicional segunda.1: 'Se crea el Observatorio Aragonés de Violencia sobre la Mujer, como órgano colegiado adscrito al Departamento competente en materia de mujer.'"
+  },
+  {
+    "q": "Según la Disposición adicional sexta de la Ley 4/2007, el Instituto Aragonés de la Mujer fomentará la colaboración con los ayuntamientos de:",
+    "options": [
+      "Solo Zaragoza capital",
+      "Todas las capitales de comarca sin excepción",
+      "Huesca, Teruel y Zaragoza"
+    ],
+    "correct": 2,
+    "exp": "Disposición adicional sexta: 'El Instituto Aragonés de la Mujer fomentará la colaboración con los ayuntamientos de Huesca, Teruel y Zaragoza, mediante programas de actuación conjunta con las respectivas casas de la mujer.'"
+  },
+  {
+    "q": "¿Cuántos capítulos, disposiciones adicionales y disposiciones finales estructuran la Ley 4/2007 de Aragón, según su propio preámbulo?",
+    "options": [
+      "Cinco capítulos, seis disposiciones adicionales y tres disposiciones finales",
+      "Tres capítulos, dos disposiciones adicionales y una disposición final",
+      "Diez capítulos, una disposición adicional y ninguna final"
+    ],
+    "correct": 0,
+    "exp": "Según el preámbulo: 'La Ley se estructura en cinco capítulos, seis disposiciones adicionales y tres disposiciones finales.'"
+  },
+  {
+    "q": "¿Cuál es el título oficial completo de la ley aragonesa que regula la violencia contra las mujeres, referenciada en el temario?",
+    "options": [
+      "Ley Orgánica 4/2007, de Medidas contra la Violencia de Género en Aragón",
+      "Ley 4/2007, de 22 de marzo, de Prevención y Protección Integral a las Mujeres Víctimas de Violencia en Aragón",
+      "Ley 4/2007, del Instituto Aragonés de la Mujer"
+    ],
+    "correct": 1,
+    "exp": "El título oficial es 'Ley 4/2007, de 22 de marzo, de Prevención y Protección Integral a las Mujeres Víctimas de Violencia en Aragón', publicada en el BOA y en el BOE."
+  },
+  {
+    "q": "Según el art. 12 de la Ley 4/2007, el Servicio Social Integral y Especializado en Violencia contra la Mujer depende de:",
+    "options": [
+      "El Ayuntamiento de Zaragoza en exclusiva",
+      "Las comarcas aragonesas de forma independiente",
+      "El Instituto Aragonés de la Mujer"
+    ],
+    "correct": 2,
+    "exp": "Art. 12.1: 'El Gobierno de Aragón creará un Servicio Social Integral y Especializado en Violencia contra la Mujer, dependiente del Instituto Aragonés de la Mujer.'"
+  },
+  {
+    "q": "Según el art. 17 de la Ley 4/2007, el servicio de guardia presta asistencia jurídica y social de emergencia a las víctimas durante:",
+    "options": [
+      "Las veinticuatro horas del día, a través de un teléfono gratuito",
+      "Los fines de semana exclusivamente",
+      "Un máximo de dos horas diarias"
+    ],
+    "correct": 0,
+    "exp": "Art. 17.1: 'prestará asistencia jurídica y social de emergencia a las mujeres víctimas de violencia durante las veinticuatro horas del día, a través de un teléfono gratuito.'"
+  },
+  {
+    "q": "El Primer Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (PIEEM) se elaboró en 2010 tras un primer diagnóstico de la plantilla, siendo su vigencia prevista para el período:",
+    "options": [
+      "2013-2017",
+      "2011-2015",
+      "2018-2021"
+    ],
+    "correct": 1,
+    "exp": "El Primer Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza se elaboró en 2010, con vigencia prevista para el período 2011-2015 (aprobado finalmente el 18 de abril de 2013)."
+  },
+  {
+    "q": "La Mesa para la Igualdad del Ayuntamiento de Zaragoza, prevista en los artículos 68 y 76 del Pacto-Convenio 2008-2011, se constituyó con fecha:",
+    "options": [
+      "1 de enero de 2010",
+      "24 de junio de 2016",
+      "9 de marzo de 2009"
+    ],
+    "correct": 2,
+    "exp": "'Con fecha 9 de marzo de 2009 se constituyó la Mesa para la Igualdad prevista en los artículos 68 y 76 del Pacto Convenio 2008-2011.'"
+  },
+  {
+    "q": "¿Cuáles son los cuatro ejes de actuación del II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (2024-2027)?",
+    "options": [
+      "Cultura de la organización, Gestión de Recursos Humanos, Conciliación y corresponsabilidad, y Prevención/salud laboral frente al acoso",
+      "Comunicación, Formación, Sanidad y Vivienda",
+      "Presupuesto, Personal, Infraestructuras y Movilidad"
+    ],
+    "correct": 0,
+    "exp": "El II PIEEM se estructura en cuatro ejes: A) Cultura de la organización; B) Gestión de recursos humanos; C) Conciliación y corresponsabilidad; D) Prevención, salud laboral y protección frente al acoso sexual, por razón de sexo y por orientación sexual."
+  },
+  {
+    "q": "Según la información pública del II Plan de Igualdad del Ayuntamiento de Zaragoza (2024-2027), este cuenta, en resumen, con 4 ejes de actuación, 12 líneas de actuación, 21 objetivos específicos y:",
+    "options": [
+      "10 acciones",
+      "44 acciones",
+      "6 acciones"
+    ],
+    "correct": 1,
+    "exp": "Según la difusión oficial del II PIEEM: '4 Ejes de actuación con un objetivo cada uno, 12 Líneas de Actuación, 21 objetivos específicos y 44 acciones.'"
+  },
+  {
+    "q": "El Eje A del II Plan de Igualdad del Ayuntamiento de Zaragoza, 'Cultura de la organización', tiene como objetivo:",
+    "options": [
+      "Regular exclusivamente el régimen retributivo del personal",
+      "Establecer el organigrama directivo municipal",
+      "Garantizar la igualdad de trato y oportunidades entre mujeres y hombres como uno de los valores fundamentales de la organización"
+    ],
+    "correct": 2,
+    "exp": "El Eje A ('Cultura de la organización') tiene como objetivo garantizar la igualdad de trato y oportunidades entre mujeres y hombres como uno de los valores fundamentales de la organización municipal."
+  },
+  {
+    "q": "El Eje C del II Plan de Igualdad del Ayuntamiento de Zaragoza, 'Conciliación y corresponsabilidad', tiene como objetivo garantizar el derecho a la conciliación de la vida laboral, familiar y personal e impulsar:",
+    "options": [
+      "La corresponsabilidad en hombres y mujeres en el ámbito familiar y doméstico",
+      "La eliminación de los permisos por maternidad",
+      "La externalización de los servicios de limpieza municipal"
+    ],
+    "correct": 0,
+    "exp": "El Eje C tiene como objetivo garantizar el derecho a la conciliación de la vida laboral, familiar y personal a toda la plantilla municipal e impulsar la corresponsabilidad en hombres y mujeres en el ámbito familiar y doméstico."
+  },
+  {
+    "q": "El Eje D del II Plan de Igualdad del Ayuntamiento de Zaragoza se dedica a la prevención, salud laboral y protección frente al acoso sexual, por razón de sexo y:",
+    "options": [
+      "Por pertenencia a un sindicato",
+      "Por orientación sexual",
+      "Por lugar de residencia"
+    ],
+    "correct": 1,
+    "exp": "El Eje D se titula 'Prevención, salud laboral y protección frente al acoso sexual, por razón de sexo y por orientación sexual', para garantizar un entorno laboral que mejore la calidad de vida de la plantilla."
+  },
+  {
+    "q": "¿Qué norma estatal establece la obligación de las Administraciones Públicas de elaborar y aplicar un Plan de Igualdad, según se recoge en la documentación del Ayuntamiento de Zaragoza?",
+    "options": [
+      "El Estatuto de los Trabajadores exclusivamente",
+      "La Ley de Contratos del Sector Público",
+      "La Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, y la Disposición Adicional Octava de la Ley del Estatuto Básico del Empleado Público"
+    ],
+    "correct": 2,
+    "exp": "La obligación deriva de la Ley Orgánica 3/2007 (art. 45.2, planes de igualdad en empresas) y de la Disposición Adicional Octava del EBEP (Ley 7/2007), que impone esta obligación específicamente a las Administraciones Públicas."
+  },
+  {
+    "q": "Según la documentación municipal, ¿qué es un Plan de Igualdad, tal como lo recoge el propio Ayuntamiento de Zaragoza siguiendo la definición legal?",
+    "options": [
+      "Un conjunto ordenado de medidas, adoptadas tras un diagnóstico de situación, para alcanzar la igualdad de trato y de oportunidades y eliminar la discriminación por razón de sexo",
+      "Un simple documento declarativo sin medidas concretas",
+      "Un protocolo exclusivo para la selección de personal"
+    ],
+    "correct": 0,
+    "exp": "'Un plan de igualdad es un conjunto ordenado de medidas, adoptadas después de realizar un diagnóstico de situación, tendentes a alcanzar en la empresa la igualdad de trato y de oportunidades entre mujeres y hombres y a eliminar la discriminación por razón de sexo.'"
+  },
+  {
+    "q": "Según los artículos 64 y 74 del Pacto-Convenio 2012-2015 del Ayuntamiento de Zaragoza, la Corporación y los sindicatos firmantes se comprometieron a elevar a aprobación el Plan de Igualdad del Ayuntamiento en el mes de:",
+    "options": [
+      "Enero de 2013",
+      "Junio de 2012",
+      "Marzo de 2011"
+    ],
+    "correct": 1,
+    "exp": "Los arts. 64 y 74 del Pacto-Convenio 2012-2015 recogen el compromiso de elevar a aprobación el Plan de Igualdad 'en el mes de junio de 2012'."
+  },
+  {
+    "q": "Según el art. 1.2 de la LO 3/2007, la Ley establece principios de actuación de los Poderes Públicos, regula derechos y deberes de las personas y prevé medidas destinadas a:",
+    "options": [
+      "Regular exclusivamente el régimen sancionador penal",
+      "Sustituir la legislación laboral vigente en su totalidad",
+      "Eliminar y corregir en los sectores público y privado toda forma de discriminación por razón de sexo"
+    ],
+    "correct": 2,
+    "exp": "Art. 1.2: 'la Ley establece principios de actuación de los Poderes Públicos, regula derechos y deberes... y prevé medidas destinadas a eliminar y corregir en los sectores público y privado, toda forma de discriminación por razón de sexo.'"
+  },
+  {
+    "q": "Según el art. 2.1 de la LO 3/2007, ¿quiénes gozan de los derechos derivados del principio de igualdad de trato y de la prohibición de discriminación por razón de sexo?",
+    "options": [
+      "Todas las personas",
+      "Solo las personas de nacionalidad española",
+      "Exclusivamente las personas trabajadoras por cuenta ajena"
+    ],
+    "correct": 0,
+    "exp": "Art. 2.1: 'Todas las personas gozarán de los derechos derivados del principio de igualdad de trato y de la prohibición de discriminación por razón de sexo.'"
+  },
+  {
+    "q": "Según el art. 5 de la LO 3/2007, el principio de igualdad de trato y de oportunidades se garantiza en el acceso al empleo, incluso al trabajo por cuenta propia, en la formación profesional, en la promoción profesional y en:",
+    "options": [
+      "Únicamente en el proceso de selección inicial",
+      "Las condiciones de trabajo, incluidas las retributivas y las de despido",
+      "Exclusivamente en contratos indefinidos"
+    ],
+    "correct": 1,
+    "exp": "Art. 5: 'se garantizará... en el acceso al empleo... en la formación profesional, en la promoción profesional, en las condiciones de trabajo, incluidas las retributivas y las de despido.'"
+  },
+  {
+    "q": "Según el art. 5 in fine de la LO 3/2007, ¿cuándo NO constituye discriminación una diferencia de trato basada en una característica relacionada con el sexo en el acceso al empleo?",
+    "options": [
+      "Nunca, cualquier diferencia de trato es discriminatoria sin excepción",
+      "Cuando lo decida unilateralmente el empresario",
+      "Cuando dicha característica constituya un requisito profesional esencial y determinante, siendo el objetivo legítimo y el requisito proporcionado"
+    ],
+    "correct": 2,
+    "exp": "Art. 5 párrafo 2º: 'No constituirá discriminación... cuando... dicha característica constituya un requisito profesional esencial y determinante, siempre y cuando el objetivo sea legítimo y el requisito proporcionado.'"
+  },
+  {
+    "q": "¿En qué artículo de la LO 3/2007 se regula específicamente el 'acoso sexual y acoso por razón de sexo'?",
+    "options": [
+      "Artículo 7",
+      "Artículo 3",
+      "Artículo 13"
+    ],
+    "correct": 0,
+    "exp": "El art. 7 de la LO 3/2007 lleva por título 'Acoso sexual y acoso por razón de sexo'."
+  },
+  {
+    "q": "¿En qué artículo de la LO 3/2007 se regulan las 'acciones positivas'?",
+    "options": [
+      "Artículo 9",
+      "Artículo 11",
+      "Artículo 12"
+    ],
+    "correct": 1,
+    "exp": "El art. 11 de la LO 3/2007 lleva por título 'Acciones positivas'."
+  },
+  {
+    "q": "¿En qué artículo de la LO 3/2007 se regula la 'tutela judicial efectiva' del derecho a la igualdad?",
+    "options": [
+      "Artículo 4",
+      "Artículo 6",
+      "Artículo 12"
+    ],
+    "correct": 2,
+    "exp": "El art. 12 de la LO 3/2007 lleva por título 'Tutela judicial efectiva'."
+  },
+  {
+    "q": "Según el art. 7.1 de la LO 3/2007, la regulación del acoso sexual en esta Ley se establece sin perjuicio de lo dispuesto en:",
+    "options": [
+      "El Código Penal",
+      "El Estatuto de los Trabajadores exclusivamente",
+      "La Ley de Contratos del Sector Público"
+    ],
+    "correct": 0,
+    "exp": "Art. 7.1: 'Sin perjuicio de lo establecido en el Código Penal, a los efectos de esta Ley constituye acoso sexual cualquier comportamiento...'"
+  },
+  {
+    "q": "Según el art. 6.1 de la LO 3/2007, ¿qué tipo de discriminación se produce cuando una persona es tratada de manera menos favorable que otra en situación comparable en atención a su sexo?",
+    "options": [
+      "Discriminación indirecta",
+      "Discriminación directa",
+      "Discriminación estructural"
+    ],
+    "correct": 1,
+    "exp": "Art. 6.1 define expresamente esta situación como 'discriminación directa por razón de sexo'."
+  },
+  {
+    "q": "Según el art. 6.2 de la LO 3/2007, ¿qué tipo de discriminación se produce cuando una disposición aparentemente neutra pone a personas de un sexo en desventaja particular respecto a las del otro sexo?",
+    "options": [
+      "Discriminación directa",
+      "Discriminación positiva",
+      "Discriminación indirecta"
+    ],
+    "correct": 2,
+    "exp": "Art. 6.2 define esta situación como 'discriminación indirecta por razón de sexo'."
+  },
+  {
+    "q": "Según el art. 10 de la LO 3/2007, además de la nulidad de los actos discriminatorios, ¿qué otro mecanismo prevé la Ley para prevenir estas conductas?",
+    "options": [
+      "Un sistema eficaz y disuasorio de sanciones",
+      "La expulsión automática del sector económico",
+      "La publicación pública del nombre del infractor sin proceso previo"
+    ],
+    "correct": 0,
+    "exp": "Art. 10: '...así como, en su caso, a través de un sistema eficaz y disuasorio de sanciones que prevenga la realización de conductas discriminatorias.'"
+  },
+  {
+    "q": "Según el art. 12.2 de la LO 3/2007, la capacidad y legitimación para intervenir en los procesos civiles, sociales y contencioso-administrativos sobre defensa del derecho de igualdad corresponde a:",
+    "options": [
+      "Exclusivamente a los sindicatos mayoritarios",
+      "Las personas físicas y jurídicas con interés legítimo, determinadas en las Leyes reguladoras de estos procesos",
+      "Solo a las asociaciones de mujeres inscritas en un registro especial"
+    ],
+    "correct": 1,
+    "exp": "Art. 12.2: 'La capacidad y legitimación para intervenir en los procesos civiles, sociales y contencioso-administrativos que versen sobre la defensa de este derecho corresponden a las personas físicas y jurídicas con interés legítimo.'"
+  },
+  {
+    "q": "Según el art. 13.1 de la LO 3/2007, el órgano judicial, a instancia de parte, puede recabar informe o dictamen de los organismos públicos competentes si lo estima:",
+    "options": [
+      "Obligatorio en todo caso sin excepción",
+      "Innecesario, ya que nunca procede",
+      "Útil y pertinente"
+    ],
+    "correct": 2,
+    "exp": "Art. 13.1 párrafo 2º: 'el órgano judicial, a instancia de parte, podrá recabar, si lo estimase útil y pertinente, informe o dictamen de los organismos públicos competentes.'"
+  },
+  {
+    "q": "¿Cuál es el título completo de la LO 3/2007 tal como se cita en el temario?",
+    "options": [
+      "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres",
+      "Ley Orgánica 3/2007, de Medidas contra la Discriminación de la Mujer",
+      "Ley Orgánica 3/2007, de Protección Integral de las Víctimas"
+    ],
+    "correct": 0,
+    "exp": "El título completo y exacto es 'Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres'."
+  },
+  {
+    "q": "¿En qué fecha entró en vigor la LO 3/2007, para la igualdad efectiva de mujeres y hombres?",
+    "options": [
+      "23 de marzo de 2007",
+      "24 de marzo de 2007",
+      "22 de marzo de 2007"
+    ],
+    "correct": 1,
+    "exp": "La LO 3/2007 se publicó en el BOE núm. 71, de 23 de marzo de 2007, y entró en vigor el 24 de marzo de 2007."
+  },
+  {
+    "q": "Según el art. 4 de la Ley 4/2007 de Aragón (ámbito de aplicación), las medidas de esta Ley se aplican a las mujeres víctimas de violencia dentro de:",
+    "options": [
+      "Únicamente el municipio de Zaragoza",
+      "Exclusivamente las tres capitales de provincia",
+      "La Comunidad Autónoma de Aragón"
+    ],
+    "correct": 2,
+    "exp": "Art. 4: 'Las medidas contempladas en la presente Ley serán de aplicación a las mujeres que, dentro de la Comunidad Autónoma de Aragón, sean víctimas de cualquiera de las formas de violencia.'"
+  },
+  {
+    "q": "Según el art. 2 e) de la Ley 4/2007, se considera acoso sexual, a los efectos de esta Ley, la situación en que se produce cualquier comportamiento no deseado de índole sexual con el propósito o efecto de atentar contra la dignidad de una persona, en particular cuando se crea un entorno:",
+    "options": [
+      "Intimidatorio, hostil, degradante, humillante u ofensivo",
+      "Meramente incómodo sin mayor trascendencia",
+      "Informal dentro del ambiente laboral"
+    ],
+    "correct": 0,
+    "exp": "Art. 2 e): '...con el propósito o el efecto de atentar contra la dignidad de una persona, en particular cuando se crea un entorno intimidatorio, hostil, degradante, humillante u ofensivo.'"
+  },
+  {
+    "q": "Según el art. 2 f) de la Ley 4/2007, se considera forma de violencia contra las mujeres el tráfico o utilización de la mujer con fines de explotación sexual, prostitución y comercio sexual, con independencia de:",
+    "options": [
+      "Su situación económica previa",
+      "El tipo de relación que une a la víctima con el agresor y de la edad de aquella",
+      "El lugar donde se cometan los hechos dentro de España"
+    ],
+    "correct": 1,
+    "exp": "Art. 2 f): '...cualquiera que sea el tipo de relación que une a la víctima con el agresor, y con independencia de la edad de aquella.'"
+  },
+  {
+    "q": "Según el art. 2 h) de la Ley 4/2007, la violencia contra los derechos sexuales y reproductivos de la mujer comprende cualquier actuación que impida o restrinja el libre ejercicio de su derecho a:",
+    "options": [
+      "La educación superior exclusivamente",
+      "La propiedad privada",
+      "La salud reproductiva y la maternidad"
+    ],
+    "correct": 2,
+    "exp": "Art. 2 h): '...comprende cualquier tipo de actuación que impida o restrinja el libre ejercicio de su derecho a la salud reproductiva y la maternidad.'"
+  },
+  {
+    "q": "Según el art. 3 c) de la Ley 4/2007, las situaciones de violencia social son las que se operan por quienes carecen, en relación con la víctima, de los vínculos afectivos, conyugales o laborales/docentes señalados en los apartados anteriores, incluyendo en todo caso a:",
+    "options": [
+      "Personas amparadas en cualquier relación por la que se encuentre integrada en el núcleo de convivencia familiar, y personas especialmente vulnerables sometidas a custodia o guarda",
+      "Únicamente desconocidos sin ningún vínculo",
+      "Solo personas de nacionalidad extranjera"
+    ],
+    "correct": 0,
+    "exp": "Art. 3 c): '...entre las que se encuentran, en todo caso, las personas amparadas en cualquier relación distinta... por la que se encuentre integrada en el núcleo de su convivencia familiar, así como las personas que por su especial vulnerabilidad se encuentran sometidas a custodia o guarda.'"
+  },
+  {
+    "q": "Según el art. 19.3 de la Ley 4/2007, las casas de acogida están atendidas por equipos multidisciplinares que garantizan a la mujer y, en su caso, a los menores a su cargo:",
+    "options": [
+      "Únicamente alojamiento, sin más servicios adicionales",
+      "Apoyo emocional y psicológico, asesoramiento social y acompañamiento durante el tiempo que permanezcan en acogida",
+      "Solo formación laboral, sin apoyo psicológico"
+    ],
+    "correct": 1,
+    "exp": "Art. 19.3: 'estarán atendidas por equipos multidisciplinares que garantizarán a la mujer y, en su caso, a los menores a su cargo el apoyo emocional y psicológico, el asesoramiento social y el acompañamiento que sea necesario.'"
+  },
+  {
+    "q": "Según el art. 19.5 de la Ley 4/2007, cuando una mujer víctima de violencia que ingresa en una casa de acogida tiene a su cargo ascendientes o descendientes incapacitados o dependientes, ¿qué debe hacer el Departamento competente?",
+    "options": [
+      "Trasladar automáticamente a esos familiares a un centro distinto sin coordinación",
+      "Denegar el ingreso de la víctima hasta resolver la situación familiar",
+      "Proveerla de forma inmediata del recurso social más conveniente que permita a esos familiares mantener una vida digna"
+    ],
+    "correct": 2,
+    "exp": "Art. 19.5: 'proveerá de forma inmediata a la mujer víctima de violencia... del recurso social más conveniente que les permita mantener una vida digna.'"
+  },
+  {
+    "q": "Según el art. 23 de la Ley 4/2007, ¿quién determina, reglamentariamente, las condiciones de autorización, registro y acreditación de los centros de protección y apoyo?",
+    "options": [
+      "El Gobierno de Aragón",
+      "El Instituto Aragonés de la Mujer sin necesidad de norma reglamentaria",
+      "Las Cortes Generales del Estado"
+    ],
+    "correct": 0,
+    "exp": "Art. 23: 'Reglamentariamente, se determinarán por el Gobierno de Aragón las condiciones de autorización, registro y acreditación de los centros de protección y apoyo.'"
+  },
+  {
+    "q": "Según el art. 28.1 de la Ley 4/2007, el Departamento competente en materia de salud elabora un protocolo con pautas uniformes de actuación para profesionales sanitarios, que se revisará:",
+    "options": [
+      "Solo una vez, sin revisión posterior",
+      "Periódicamente",
+      "Cada diez años exactamente"
+    ],
+    "correct": 1,
+    "exp": "Art. 28.1: 'elaborará un protocolo que recoja pautas uniformes de actuación... Este protocolo se revisará periódicamente.'"
+  },
+  {
+    "q": "Según el art. 30.2 de la Ley 4/2007, las mujeres víctimas de violencia son incluidas, con carácter preferente y específico, en los programas de formación e inserción laboral, para lo cual deben figurar inscritas como:",
+    "options": [
+      "Autónomas dadas de alta en el régimen especial",
+      "Estudiantes de formación profesional reglada",
+      "Demandantes de empleo en la oficina correspondiente del Instituto Aragonés de Empleo"
+    ],
+    "correct": 2,
+    "exp": "Art. 30.2: '...para lo cual las mujeres afectadas deberán figurar inscritas como demandantes de empleo en la oficina correspondiente del Instituto Aragonés de Empleo.'"
+  },
+  {
+    "q": "Según el art. 32 de la Ley 4/2007 (Capítulo V, prestaciones económicas), el Ingreso Aragonés de Inserción se abonará, tras la solicitud, en un plazo máximo de:",
+    "options": [
+      "Cuarenta y cinco días naturales",
+      "Diez días hábiles",
+      "Tres meses"
+    ],
+    "correct": 0,
+    "exp": "Art. 32: 'el reconocimiento del derecho a la prestación y su abono efectivo se efectuarán en el plazo máximo de cuarenta y cinco días naturales desde la solicitud formulada por la interesada.'"
+  },
+  {
+    "q": "Según el art. 33 de la Ley 4/2007, las comarcas aragonesas destinarán, dentro de las ayudas de urgente necesidad, una partida económica específica para atender de manera inmediata:",
+    "options": [
+      "Cualquier necesidad municipal sin distinción",
+      "Situaciones de emergencia social de mujeres víctimas de violencia sin medios económicos",
+      "Solo gastos de infraestructura comarcal"
+    ],
+    "correct": 1,
+    "exp": "Art. 33: 'destinarán, dentro de las ayudas de urgente necesidad, una partida económica específica cuya finalidad será la de atender de manera inmediata situaciones de emergencia social en que se encuentren las mujeres víctimas de violencia.'"
+  },
+  {
+    "q": "El Capítulo V de la Ley 4/2007 de Aragón se titula:",
+    "options": [
+      "Medidas de información y asesoramiento",
+      "Disposiciones generales",
+      "Prestaciones económicas"
+    ],
+    "correct": 2,
+    "exp": "El Capítulo V, que cierra el articulado de la Ley 4/2007, lleva por título 'Prestaciones económicas' (arts. 32 a 36)."
+  },
+  {
+    "q": "¿Cuántos artículos comprende, en total, el articulado de la Ley 4/2007 de Aragón, antes de las disposiciones adicionales?",
+    "options": [
+      "36",
+      "50",
+      "15"
+    ],
+    "correct": 0,
+    "exp": "La Ley 4/2007 de Aragón tiene 36 artículos distribuidos en cinco capítulos, antes de sus disposiciones adicionales, derogatoria y finales."
+  },
+  {
+    "q": "Según la Disposición adicional quinta de la Ley 4/2007, los derechos laborales reconocidos por la Ley Orgánica 1/2004 a las trabajadoras y funcionarias víctimas de violencia de género son de aplicación en Aragón:",
+    "options": [
+      "Solo tras la aprobación de un decreto autonómico de desarrollo",
+      "Directa e inmediata, sin necesidad de desarrollo normativo específico",
+      "Con un retraso mínimo de seis meses desde su reconocimiento estatal"
+    ],
+    "correct": 1,
+    "exp": "Disposición adicional quinta: 'son de aplicación directa e inmediata en la Comunidad Autónoma de Aragón, sin necesidad de desarrollo normativo específico.'"
+  },
+  {
+    "q": "Según el preámbulo de la Ley 4/2007, esta norma amplía el ámbito de protección más allá del concepto legal de violencia de género de la Ley Orgánica 1/2004, incluyendo también las situaciones de:",
+    "options": [
+      "Únicamente violencia en el ámbito digital",
+      "Exclusivamente violencia institucional",
+      "Violencia laboral o docente y de violencia social"
+    ],
+    "correct": 2,
+    "exp": "Preámbulo: '...pretende otorgar una protección más completa y general... A estos efectos, la presente Ley incluye también las situaciones de violencia laboral o docente y de violencia social como situaciones de violencia ejercida contra las mujeres.'"
+  },
+  {
+    "q": "¿Qué órgano municipal se constituyó el 9 de marzo de 2009 con el objetivo de elaborar un Plan de Igualdad para el Ayuntamiento de Zaragoza?",
+    "options": [
+      "La Mesa para la Igualdad",
+      "El Consejo de Participación de la Mujer",
+      "El Instituto Municipal de la Mujer"
+    ],
+    "correct": 0,
+    "exp": "'Con fecha 9 de marzo de 2009 se constituyó la Mesa para la Igualdad prevista en los artículos 68 y 76 del Pacto Convenio 2008-2011.'"
+  },
+  {
+    "q": "¿En qué año se aprobó finalmente el Primer Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (PIEEM), pese a haber sido elaborado en 2010?",
+    "options": [
+      "2011",
+      "2013",
+      "2015"
+    ],
+    "correct": 1,
+    "exp": "El PIEEM se elaboró en 2010, pero 'fue aprobado el 18 de abril de 2013', tras diversos retrasos organizativos."
+  },
+  {
+    "q": "Según la documentación del II Plan de Igualdad del Ayuntamiento de Zaragoza, ¿qué proceso se inició en 2019 respecto al nuevo plan?",
+    "options": [
+      "La disolución de la Mesa para la Igualdad",
+      "La externalización del servicio de igualdad",
+      "La puesta en marcha del proceso de elaboración del nuevo Plan de Igualdad"
+    ],
+    "correct": 2,
+    "exp": "Según la cronología documentada: 'Fase I. Puesta en marcha en 2019 del proceso de elaboración del nuevo plan.'"
+  },
+  {
+    "q": "Según la documentación del II Plan de Igualdad del Ayuntamiento de Zaragoza, ¿en qué año se realizó el Diagnóstico de la plantilla municipal como parte de su elaboración?",
+    "options": [
+      "2020",
+      "2018",
+      "2022"
+    ],
+    "correct": 0,
+    "exp": "Según la cronología: 'Fase II: Realización en 2020 del Diagnóstico de la plantilla municipal, según la Ley...'"
+  },
+  {
+    "q": "El II Plan de Igualdad para Empleadas y Empleados del Ayuntamiento de Zaragoza (II PIEEM) tiene como objetivo general garantizar la igualdad real y efectiva de oportunidades entre mujeres y hombres y evitar:",
+    "options": [
+      "La contratación de personal externo",
+      "Cualquier tipo de discriminación por razón de sexo en el seno del Ayuntamiento de Zaragoza",
+      "El absentismo laboral en general"
+    ],
+    "correct": 1,
+    "exp": "'El II PIEEM tiene como objetivo general garantizar la igualdad real y efectiva de oportunidades entre mujeres y hombres y evitar cualquier tipo de discriminación por razón de sexo en el seno del Ayuntamiento de Zaragoza.'"
+  },
+  {
+    "q": "¿Cuál es la vigencia temporal establecida para el II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza?",
+    "options": [
+      "2018-2021",
+      "2020-2024",
+      "2024-2027"
+    ],
+    "correct": 2,
+    "exp": "El II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza tiene una vigencia de 2024 a 2027."
+  },
+  {
+    "q": "El II Plan de Igualdad del Ayuntamiento de Zaragoza fue negociado entre representantes de las Áreas de Gobierno municipal y la representación de empleadas y empleados en fechas cercanas a:",
+    "options": [
+      "20 de febrero y 1 de marzo de 2023",
+      "1 de enero de 2024",
+      "30 de abril de 2013"
+    ],
+    "correct": 0,
+    "exp": "'se negoció en fechas 20 de febrero y 1 de marzo de 2023, entre las personas representantes de las diferentes Áreas de Gobierno municipal y la representación de los empleadas y empleados municipales.'"
+  },
+  {
+    "q": "Según el Eje B del II Plan de Igualdad del Ayuntamiento de Zaragoza, 'Gestión de Recursos Humanos', una de sus líneas es promover la paridad en:",
+    "options": [
+      "El régimen de vacaciones",
+      "Los órganos de selección",
+      "El horario de atención al público"
+    ],
+    "correct": 1,
+    "exp": "Entre las medidas del Eje B se incluye: 'B.1.2. Promover la paridad en los órganos de selección.'"
+  },
+  {
+    "q": "El Título I de la LO 3/2007 regula, entre otras cuestiones, el principio de igualdad de trato, la discriminación directa e indirecta, el acoso sexual, la discriminación por embarazo, la indemnidad frente a represalias, las consecuencias jurídicas, las acciones positivas, la tutela judicial efectiva y:",
+    "options": [
+      "El régimen sancionador penal específico",
+      "La creación de un ministerio de igualdad",
+      "La regla de prueba en los procesos por discriminación"
+    ],
+    "correct": 2,
+    "exp": "El Título I ('El principio de igualdad y la tutela contra la discriminación') cierra con el art. 13, dedicado a la regla especial de prueba en los procedimientos por discriminación por razón de sexo."
+  },
+  {
+    "q": "El art. 3 de la LO 3/2007 define el principio de igualdad de trato entre mujeres y hombres como la ausencia de toda discriminación, directa o indirecta, por razón de sexo. De las siguientes causas, ¿cuál NO cita expresamente ese artículo como especialmente derivada de tal discriminación?",
+    "options": [
+      "La orientación sexual",
+      "La maternidad",
+      "La asunción de obligaciones familiares"
+    ],
+    "correct": 0,
+    "exp": "El art. 3 solo menciona expresamente, como especialmente derivadas de la discriminación por razón de sexo, las que traen causa de la maternidad, la asunción de obligaciones familiares y el estado civil; no cita la orientación sexual.",
+    "fuente": "Art. 3 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 4 de la LO 3/2007, la igualdad de trato y de oportunidades entre mujeres y hombres tiene la consideración de:",
+    "options": [
+      "Un derecho fundamental de aplicación directa sin necesidad de desarrollo legal",
+      "Un principio informador del ordenamiento jurídico, que se integrará y observará en la interpretación y aplicación de las normas jurídicas",
+      "Un objetivo programático sin efectos en la interpretación normativa"
+    ],
+    "correct": 1,
+    "exp": "El art. 4 califica la igualdad de trato y de oportunidades como 'un principio informador del ordenamiento jurídico' que se integrará y observará en la interpretación y aplicación de las normas jurídicas.",
+    "fuente": "Art. 4 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 5 de la LO 3/2007 garantiza la igualdad de trato y de oportunidades entre mujeres y hombres en el acceso al empleo, la formación y la promoción profesionales y en las condiciones de trabajo. ¿En qué ámbitos declara expresamente aplicable este principio dicho artículo?",
+    "options": [
+      "Únicamente en el ámbito del empleo público",
+      "Únicamente en el ámbito del empleo privado",
+      "En el ámbito del empleo privado y en el del empleo público"
+    ],
+    "correct": 2,
+    "exp": "El art. 5 señala que el principio 'aplicable en el ámbito del empleo privado y en el del empleo público' se garantizará en los términos previstos en la normativa aplicable.",
+    "fuente": "Art. 5 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 5 de la LO 3/2007, el principio de igualdad de trato y de oportunidades se garantiza, entre otros ámbitos, en las condiciones de trabajo. ¿Qué dos aspectos concretos de dichas condiciones cita expresamente el precepto?",
+    "options": [
+      "Las retributivas y las de despido",
+      "Las de jornada y las de vacaciones",
+      "Las de formación continua y las de excedencia"
+    ],
+    "correct": 0,
+    "exp": "El art. 5 incluye expresamente entre las condiciones de trabajo protegidas 'las condiciones de trabajo, incluidas las retributivas y las de despido'.",
+    "fuente": "Art. 5 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 5 de la LO 3/2007 admite que una diferencia de trato basada en una característica relacionada con el sexo no constituya discriminación en el acceso al empleo cuando dicha característica sea un requisito profesional esencial y determinante. ¿Qué otras dos condiciones exige acumulativamente el precepto para que opere esta excepción?",
+    "options": [
+      "Que la empresa sea de titularidad pública y que exista informe previo de la Inspección de Trabajo",
+      "Que el objetivo sea legítimo y el requisito proporcionado",
+      "Que la diferencia esté pactada en convenio colectivo y cuente con autorización judicial"
+    ],
+    "correct": 1,
+    "exp": "El párrafo segundo del art. 5 exige, además del carácter esencial y determinante del requisito, 'siempre y cuando el objetivo sea legítimo y el requisito proporcionado'.",
+    "fuente": "Art. 5 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El párrafo segundo del art. 5 de la LO 3/2007, al regular la excepción del requisito profesional esencial, precisa que la ausencia de discriminación se predica del acceso al empleo:",
+    "options": [
+      "Excluyendo cualquier tipo de formación previa",
+      "Solo si el puesto es de duración determinada",
+      "Incluida la formación necesaria"
+    ],
+    "correct": 2,
+    "exp": "El precepto dice literalmente: 'No constituirá discriminación en el acceso al empleo, incluida la formación necesaria...'.",
+    "fuente": "Art. 5 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 6.1 de la LO 3/2007 define la discriminación directa por razón de sexo como la situación en que se encuentra una persona que, en atención a su sexo, es tratada de manera menos favorable que otra en situación comparable. ¿A qué otras dos circunstancias temporales extiende el precepto expresamente esa situación, además de 'sea tratada'?",
+    "options": [
+      "'Haya sido tratada' y 'pudiera ser tratada'",
+      "'Vaya a ser tratada' y 'debiera ser tratada'",
+      "'Fue tratada' y 'será tratada en el futuro'"
+    ],
+    "correct": 0,
+    "exp": "El art. 6.1 habla de la persona que 'sea, haya sido o pudiera ser tratada' de manera menos favorable, cubriendo presente, pasado y futuro hipotético.",
+    "fuente": "Art. 6.1 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 6.2 de la LO 3/2007, una disposición, criterio o práctica aparentemente neutros que ponga a personas de un sexo en desventaja particular respecto de las del otro NO se considera discriminación indirecta cuando:",
+    "options": [
+      "El perjudicado pertenezca a la Administración Pública",
+      "Puedan justificarse objetivamente en atención a una finalidad legítima y los medios sean necesarios y adecuados",
+      "Exista un informe favorable de la Inspección de Trabajo"
+    ],
+    "correct": 1,
+    "exp": "El art. 6.2 excluye la discriminación indirecta cuando la disposición, criterio o práctica 'puedan justificarse objetivamente en atención a una finalidad legítima y que los medios para alcanzar dicha finalidad sean necesarios y adecuados'.",
+    "fuente": "Art. 6.2 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 6.3 de la LO 3/2007 establece que, en cualquier caso, se considera discriminatoria:",
+    "options": [
+      "Solo la orden de discriminar directamente, no la indirecta",
+      "La discriminación indirecta cuando no esté justificada objetivamente",
+      "Toda orden de discriminar, directa o indirectamente, por razón de sexo"
+    ],
+    "correct": 2,
+    "exp": "El art. 6.3 dice literalmente: 'En cualquier caso, se considera discriminatoria toda orden de discriminar, directa o indirectamente, por razón de sexo.'",
+    "fuente": "Art. 6.3 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Comparando los apartados 1 y 2 del art. 6 de la LO 3/2007, ¿qué diferencia esencial existe entre discriminación directa e indirecta?",
+    "options": [
+      "La discriminación directa no admite justificación objetiva, mientras que la indirecta sí puede quedar excluida si existe una finalidad legítima y medios necesarios y adecuados",
+      "La discriminación indirecta solo puede darse en el ámbito de la Administración Pública",
+      "La discriminación directa exige siempre intencionalidad probada, la indirecta no"
+    ],
+    "correct": 0,
+    "exp": "El art. 6.1 no prevé causa de exclusión para la discriminación directa, mientras que el art. 6.2 exime de la calificación de discriminación indirecta cuando existe justificación objetiva con finalidad legítima y medios necesarios y adecuados.",
+    "fuente": "Art. 6.1 y 6.2 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 7.1 de la LO 3/2007 define el acoso sexual sin perjuicio de lo establecido en:",
+    "options": [
+      "La Ley Orgánica del Poder Judicial",
+      "El Código Penal",
+      "El Estatuto Básico del Empleado Público"
+    ],
+    "correct": 1,
+    "exp": "El art. 7.1 comienza: 'Sin perjuicio de lo establecido en el Código Penal, a los efectos de esta Ley constituye acoso sexual...'.",
+    "fuente": "Art. 7.1 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Comparando los apartados 1 y 2 del art. 7 de la LO 3/2007, ¿qué elemento distingue la definición de acoso sexual de la de acoso por razón de sexo?",
+    "options": [
+      "El acoso por razón de sexo exige siempre reiteración temporal y el sexual no",
+      "El acoso sexual solo puede cometerlo un superior jerárquico",
+      "El acoso sexual requiere un comportamiento de naturaleza sexual, mientras que el acoso por razón de sexo se realiza en función del sexo de la persona sin naturaleza sexual necesaria"
+    ],
+    "correct": 2,
+    "exp": "El art. 7.1 exige un comportamiento 'de naturaleza sexual', mientras que el art. 7.2 habla de 'cualquier comportamiento realizado en función del sexo de una persona', sin naturaleza sexual.",
+    "fuente": "Art. 7.1 y 7.2 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 7.3 de la LO 3/2007, el acoso sexual y el acoso por razón de sexo se considerarán:",
+    "options": [
+      "Discriminatorios en todo caso",
+      "Discriminatorios solo si se acredita reiteración",
+      "Discriminatorios únicamente cuando los sufra una mujer"
+    ],
+    "correct": 0,
+    "exp": "El art. 7.3 dispone: 'Se considerarán en todo caso discriminatorios el acoso sexual y el acoso por razón de sexo.'",
+    "fuente": "Art. 7.3 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 7.4 de la LO 3/2007 dispone que el condicionamiento de un derecho o de una expectativa de derecho a la aceptación de una situación constitutiva de acoso sexual o de acoso por razón de sexo se considerará:",
+    "options": [
+      "Una infracción penal autónoma tipificada en dicho artículo",
+      "También acto de discriminación por razón de sexo",
+      "Causa de responsabilidad patrimonial de la Administración únicamente"
+    ],
+    "correct": 1,
+    "exp": "El art. 7.4 establece que ese condicionamiento 'se considerará también acto de discriminación por razón de sexo'.",
+    "fuente": "Art. 7.4 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 8 de la LO 3/2007, relativo a la discriminación por embarazo o maternidad, califica dicha discriminación como:",
+    "options": [
+      "Discriminación indirecta por razón de sexo",
+      "Discriminación por razón de sexo sujeta a prueba de intencionalidad",
+      "Discriminación directa por razón de sexo"
+    ],
+    "correct": 2,
+    "exp": "El art. 8 califica expresamente el trato desfavorable a las mujeres relacionado con el embarazo o la maternidad como 'discriminación directa por razón de sexo'.",
+    "fuente": "Art. 8 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 9 de la LO 3/2007 (indemnidad frente a represalias) considera discriminación por razón de sexo cualquier trato adverso o efecto negativo producido en una persona como consecuencia de la presentación de queja, reclamación, denuncia, demanda o recurso destinados a:",
+    "options": [
+      "Impedir su discriminación y exigir el cumplimiento efectivo del principio de igualdad de trato entre mujeres y hombres",
+      "Reclamar el ascenso profesional correspondiente a su categoría",
+      "Denunciar un accidente de trabajo no relacionado con el sexo"
+    ],
+    "correct": 0,
+    "exp": "El art. 9 exige que la queja, reclamación, denuncia, demanda o recurso estén 'destinados a impedir su discriminación y a exigir el cumplimiento efectivo del principio de igualdad de trato entre mujeres y hombres'.",
+    "fuente": "Art. 9 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué tipos de actuaciones de la persona afectada enumera expresamente el art. 9 de la LO 3/2007 como desencadenantes de la protección frente a represalias?",
+    "options": [
+      "Solo la demanda judicial en vía social",
+      "Queja, reclamación, denuncia, demanda o recurso, de cualquier tipo",
+      "Exclusivamente la queja ante la Inspección de Trabajo"
+    ],
+    "correct": 1,
+    "exp": "El art. 9 protege frente a represalias derivadas de 'queja, reclamación, denuncia, demanda o recurso, de cualquier tipo'.",
+    "fuente": "Art. 9 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El instituto regulado en el art. 9 de la LO 3/2007 se conoce, según su propio título legal, como:",
+    "options": [
+      "Regla de inversión de la carga de la prueba",
+      "Tutela judicial efectiva",
+      "Indemnidad frente a represalias"
+    ],
+    "correct": 2,
+    "exp": "El título del art. 9 es 'Indemnidad frente a represalias', que protege a quien reclama frente al trato adverso posterior.",
+    "fuente": "Art. 9 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 10 de la LO 3/2007, los actos y las cláusulas de los negocios jurídicos que constituyan o causen discriminación por razón de sexo se considerarán:",
+    "options": [
+      "Nulos y sin efecto",
+      "Anulables a instancia de la parte perjudicada en el plazo de un año",
+      "Válidos, aunque generadores de responsabilidad civil"
+    ],
+    "correct": 0,
+    "exp": "El art. 10 dispone que tales actos y cláusulas 'se considerarán nulos y sin efecto'.",
+    "fuente": "Art. 10 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Además de la nulidad, el art. 10 de la LO 3/2007 prevé que los actos discriminatorios darán lugar a responsabilidad a través de dos sistemas. ¿Cuáles son?",
+    "options": [
+      "Un sistema de amonestación y un sistema de readmisión forzosa",
+      "Un sistema de reparaciones o indemnizaciones reales, efectivas y proporcionadas al perjuicio, y, en su caso, un sistema eficaz y disuasorio de sanciones",
+      "Un sistema de conciliación previa y un sistema de sanción penal automática"
+    ],
+    "correct": 1,
+    "exp": "El art. 10 prevé responsabilidad 'a través de un sistema de reparaciones o indemnizaciones que sean reales, efectivas y proporcionadas al perjuicio sufrido, así como, en su caso, a través de un sistema eficaz y disuasorio de sanciones que prevenga la realización de conductas discriminatorias'.",
+    "fuente": "Art. 10 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 10 de la LO 3/2007 exige que las reparaciones o indemnizaciones derivadas de conductas discriminatorias por razón de sexo sean:",
+    "options": [
+      "Voluntarias y no exigibles judicialmente",
+      "Limitadas al daño emergente, excluyendo el lucro cesante",
+      "Reales, efectivas y proporcionadas al perjuicio sufrido"
+    ],
+    "correct": 2,
+    "exp": "El precepto exige indemnizaciones o reparaciones 'que sean reales, efectivas y proporcionadas al perjuicio sufrido'.",
+    "fuente": "Art. 10 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 11.1 de la LO 3/2007, las medidas de acción positiva que adopten los Poderes Públicos en favor de las mujeres tienen como finalidad:",
+    "options": [
+      "Corregir situaciones patentes de desigualdad de hecho respecto de los hombres",
+      "Sustituir con carácter permanente a los hombres en determinados puestos",
+      "Eliminar cualquier diferencia salarial sin necesidad de justificación objetiva"
+    ],
+    "correct": 0,
+    "exp": "El art. 11.1 señala que tales medidas se adoptan 'para corregir situaciones patentes de desigualdad de hecho respecto de los hombres'.",
+    "fuente": "Art. 11.1 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 11.1 de la LO 3/2007 exige que las medidas de acción positiva sean razonables y proporcionadas en relación con el objetivo perseguido, y añade que serán aplicables:",
+    "options": [
+      "Durante un plazo máximo improrrogable de cuatro años",
+      "En tanto subsistan las situaciones de desigualdad que las motivan",
+      "Solo previa autorización parlamentaria expresa"
+    ],
+    "correct": 1,
+    "exp": "El precepto indica que tales medidas 'serán aplicables en tanto subsistan dichas situaciones' de desigualdad de hecho.",
+    "fuente": "Art. 11.1 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 11.2 de la LO 3/2007, las medidas de acción positiva:",
+    "options": [
+      "Solo pueden ser adoptadas por los Poderes Públicos",
+      "Quedan prohibidas para las personas jurídicas privadas",
+      "También pueden ser adoptadas por las personas físicas y jurídicas privadas, en los términos establecidos en la Ley"
+    ],
+    "correct": 2,
+    "exp": "El art. 11.2 permite que 'también las personas físicas y jurídicas privadas podrán adoptar este tipo de medidas en los términos establecidos en la presente Ley'.",
+    "fuente": "Art. 11.2 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 12.1 de la LO 3/2007 reconoce que cualquier persona podrá recabar de los tribunales la tutela del derecho a la igualdad entre mujeres y hombres, remitiéndose para ello a:",
+    "options": [
+      "El artículo 53.2 de la Constitución",
+      "El artículo 24.1 de la Constitución exclusivamente",
+      "El artículo 14 de la Constitución sin más precisión"
+    ],
+    "correct": 0,
+    "exp": "El art. 12.1 remite expresamente a 'lo establecido en el artículo 53.2 de la Constitución'.",
+    "fuente": "Art. 12.1 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 12.1 de la LO 3/2007 permite recabar la tutela judicial del derecho a la igualdad:",
+    "options": [
+      "Solo mientras persista la relación en la que se produjo la discriminación",
+      "Incluso tras la terminación de la relación en la que supuestamente se ha producido la discriminación",
+      "Únicamente dentro del año siguiente al cese de la relación"
+    ],
+    "correct": 1,
+    "exp": "El art. 12.1 admite la tutela judicial 'incluso tras la terminación de la relación en la que supuestamente se ha producido la discriminación'.",
+    "fuente": "Art. 12.1 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 12.2 de la LO 3/2007, la capacidad y legitimación para intervenir en los procesos civiles, sociales y contencioso-administrativos que versen sobre la defensa del derecho a la igualdad corresponden a:",
+    "options": [
+      "Solo a los sindicatos más representativos",
+      "Únicamente a la persona directamente discriminada, sin posibilidad de representación",
+      "Las personas físicas y jurídicas con interés legítimo, determinadas en las Leyes reguladoras de esos procesos"
+    ],
+    "correct": 2,
+    "exp": "El art. 12.2 atribuye esa capacidad y legitimación a 'las personas físicas y jurídicas con interés legítimo, determinadas en las Leyes reguladoras de estos procesos'.",
+    "fuente": "Art. 12.2 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 12.3 de la LO 3/2007 establece una regla especial de legitimación para los litigios sobre acoso sexual y acoso por razón de sexo, según la cual:",
+    "options": [
+      "La persona acosada será la única legitimada",
+      "La legitimación corresponde conjuntamente a la persona acosada y a la empresa",
+      "Solo puede litigar el sindicato al que esté afiliada la persona acosada"
+    ],
+    "correct": 0,
+    "exp": "El art. 12.3 dispone que 'la persona acosada será la única legitimada en los litigios sobre acoso sexual y acoso por razón de sexo'.",
+    "fuente": "Art. 12.3 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Comparando los apartados 2 y 3 del art. 12 de la LO 3/2007, ¿qué particularidad presenta la legitimación en los litigios de acoso sexual o por razón de sexo frente a la regla general de los procesos sobre igualdad?",
+    "options": [
+      "Ambos apartados exigen siempre la intervención del Ministerio Fiscal",
+      "Frente a la legitimación amplia de terceros con interés legítimo del apartado 2, el apartado 3 la restringe en exclusiva a la persona acosada",
+      "El apartado 3 amplía la legitimación a cualquier persona, no solo a la acosada"
+    ],
+    "correct": 1,
+    "exp": "El art. 12.2 permite intervenir a personas físicas y jurídicas con interés legítimo, mientras que el art. 12.3 reserva en exclusiva la legitimación a la persona acosada en los litigios de acoso.",
+    "fuente": "Art. 12.2 y 12.3 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 13.1 de la LO 3/2007 establece que, cuando las alegaciones de la parte actora se fundamenten en actuaciones discriminatorias por razón de sexo, corresponderá probar la ausencia de discriminación y su proporcionalidad a:",
+    "options": [
+      "La parte actora, reforzando su alegación inicial",
+      "El Ministerio Fiscal",
+      "La persona demandada"
+    ],
+    "correct": 2,
+    "exp": "El art. 13.1 dispone que 'corresponderá a la persona demandada probar la ausencia de discriminación en las medidas adoptadas y su proporcionalidad'.",
+    "fuente": "Art. 13.1 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13.1 de la LO 3/2007, en los procedimientos sobre discriminación por razón de sexo, el órgano judicial podrá recabar informe o dictamen de los organismos públicos competentes:",
+    "options": [
+      "A instancia de parte, si lo estimase útil y pertinente",
+      "De oficio y con carácter preceptivo en todo caso",
+      "Únicamente en segunda instancia"
+    ],
+    "correct": 0,
+    "exp": "El art. 13.1 permite al órgano judicial recabar dicho informe o dictamen 'a instancia de parte, si lo estimase útil y pertinente'.",
+    "fuente": "Art. 13.1 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 13.2 de la LO 3/2007 excluye la aplicación de la regla de inversión de la carga de la prueba del apartado anterior en:",
+    "options": [
+      "Los procesos civiles",
+      "Los procesos penales",
+      "Los procesos sociales"
+    ],
+    "correct": 1,
+    "exp": "El art. 13.2 dice: 'Lo establecido en el apartado anterior no será de aplicación a los procesos penales.'",
+    "fuente": "Art. 13.2 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 13.1 de la LO 3/2007 sujeta la regla sobre la prueba en los procedimientos por discriminación por razón de sexo a lo dispuesto en:",
+    "options": [
+      "Los convenios colectivos aplicables",
+      "Las instrucciones de la Inspección de Trabajo",
+      "Las Leyes procesales"
+    ],
+    "correct": 2,
+    "exp": "El art. 13.1 comienza: 'De acuerdo con las Leyes procesales, en aquellos procedimientos...'.",
+    "fuente": "Art. 13.1 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántos artículos integran el Título I de la LO 3/2007, 'El principio de igualdad y la tutela contra la discriminación'?",
+    "options": [
+      "Once (arts. 3 a 13)",
+      "Nueve (arts. 4 a 12)",
+      "Trece (arts. 1 a 13)"
+    ],
+    "correct": 0,
+    "exp": "El Título I comprende los arts. 3 a 13, es decir, once artículos, desde el principio de igualdad de trato (art. 3) hasta la prueba (art. 13).",
+    "fuente": "Arts. 3 a 13 (Título I) LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Dentro del Título I de la LO 3/2007, ¿qué artículo regula específicamente la discriminación directa e indirecta con carácter general, de forma previa a la regulación separada del acoso sexual y por razón de sexo?",
+    "options": [
+      "El art. 8",
+      "El art. 6",
+      "El art. 9"
+    ],
+    "correct": 1,
+    "exp": "El art. 6 ('Discriminación directa e indirecta') precede sistemáticamente al art. 7 ('Acoso sexual y acoso por razón de sexo') dentro del Título I.",
+    "fuente": "Art. 6 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En qué artículo de la LO 3/2007, dentro del Título I, se regula la protección frente a las represalias sufridas por quien reclama frente a una discriminación por razón de sexo?",
+    "options": [
+      "Art. 6",
+      "Art. 8",
+      "Art. 9"
+    ],
+    "correct": 2,
+    "exp": "El art. 9, titulado 'Indemnidad frente a represalias', protege a quien presenta queja, reclamación, denuncia, demanda o recurso frente a la discriminación.",
+    "fuente": "Art. 9 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de los siguientes artículos del Título I de la LO 3/2007 regula las 'consecuencias jurídicas de las conductas discriminatorias', diferenciándose así del que regula las 'acciones positivas'?",
+    "options": [
+      "El art. 10",
+      "El art. 12",
+      "El art. 13"
+    ],
+    "correct": 0,
+    "exp": "El art. 10 lleva por título 'Consecuencias jurídicas de las conductas discriminatorias', mientras que el art. 11 regula las 'Acciones positivas'.",
+    "fuente": "Art. 10 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 7.1 de la LO 3/2007 aclara que la definición de acoso sexual que ofrece se establece:",
+    "options": [
+      "En sustitución de lo dispuesto en el Código Penal",
+      "Sin perjuicio de lo establecido en el Código Penal",
+      "Con carácter subsidiario respecto al Código Penal, solo si este no resulta aplicable"
+    ],
+    "correct": 1,
+    "exp": "El art. 7.1 dice: 'Sin perjuicio de lo establecido en el Código Penal, a los efectos de esta Ley constituye acoso sexual...', es decir, ambas regulaciones son compatibles y no excluyentes.",
+    "fuente": "Art. 7.1 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 12.1 de la LO 3/2007 reconoce el derecho a recabar la tutela judicial de la igualdad entre mujeres y hombres a:",
+    "options": [
+      "Solo a la persona física directamente afectada por la discriminación",
+      "Solo al Ministerio Fiscal en representación de la persona afectada",
+      "Cualquier persona"
+    ],
+    "correct": 2,
+    "exp": "El art. 12.1 comienza: 'Cualquier persona podrá recabar de los tribunales la tutela del derecho a la igualdad entre mujeres y hombres...'.",
+    "fuente": "Art. 12.1 LO 3/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 1.1 de la Ley 4/2007, ¿cuál es el objeto de la Ley?",
+    "options": [
+      "La adopción de medidas integrales dirigidas a la sensibilización, prevención y erradicación de la violencia ejercida sobre las mujeres, así como la protección, asistencia y seguimiento a las víctimas",
+      "Regular exclusivamente el régimen sancionador de los actos de violencia de género en Aragón",
+      "Establecer las competencias de los juzgados de violencia sobre la mujer en Aragón"
+    ],
+    "correct": 0,
+    "exp": "El art. 1.1 define el objeto de la Ley como la adopción de medidas integrales de sensibilización, prevención y erradicación de la violencia, junto con la protección, asistencia y seguimiento a las víctimas.",
+    "fuente": "Art. 1.1 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el art. 1.2 de la Ley 4/2007, ¿qué se entiende por 'violencia ejercida contra las mujeres'?",
+    "options": [
+      "Solo los actos tipificados como delito por el Código Penal",
+      "Todo acto o agresión contra las mujeres, motivado por la pertenencia a dicho sexo de las víctimas, que tenga o pueda tener como consecuencia un daño físico o psicológico",
+      "Exclusivamente las agresiones sexuales cometidas por el cónyuge o pareja"
+    ],
+    "correct": 1,
+    "exp": "El art. 1.2 define la violencia contra las mujeres como todo acto o agresión motivado por la pertenencia al sexo de la víctima, con o sin tipificación como delito, falta o infracción.",
+    "fuente": "Art. 1.2 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 1.2 de la Ley 4/2007, ¿cuál de las siguientes situaciones NO se menciona como marco en el que se realizan los actos de violencia contra las mujeres?",
+    "options": [
+      "Situación de debilidad de la víctima frente al agresor",
+      "Proximidad laboral o económica de la víctima frente al agresor",
+      "Situación de superioridad jerárquica administrativa del agresor"
+    ],
+    "correct": 2,
+    "exp": "El art. 1.2 habla de actos realizados al amparo de una situación de debilidad, dependencia o proximidad física, psicológica, familiar, laboral o económica de la víctima frente al agresor; la 'superioridad jerárquica administrativa' no figura en el texto.",
+    "fuente": "Art. 1.2 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Además del daño físico o psicológico, ¿qué otras conductas incluye la definición de violencia contra las mujeres del art. 1.2 de la Ley 4/2007?",
+    "options": [
+      "Las agresiones a la libertad e indemnidad sexuales, incluida la amenaza de tales actos, la coacción o la privación arbitraria de libertad",
+      "Solo las conductas previstas como falta administrativa en la normativa autonómica",
+      "Exclusivamente los actos cometidos en presencia de menores de edad"
+    ],
+    "correct": 0,
+    "exp": "El art. 1.2 incluye expresamente las agresiones a la libertad e indemnidad sexuales, la amenaza de tales actos, la coacción o la privación arbitraria de libertad.",
+    "fuente": "Art. 1.2 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué forma de violencia contra las mujeres define el art. 2.a) de la Ley 4/2007 como 'cualquier acto intencional de fuerza contra el cuerpo de la mujer, con resultado o riesgo de producir lesión física o daño en la víctima'?",
+    "options": [
+      "Malos tratos psicológicos",
+      "Malos tratos físicos",
+      "Maltrato económico"
+    ],
+    "correct": 1,
+    "exp": "El art. 2.a) define los malos tratos físicos como cualquier acto intencional de fuerza contra el cuerpo de la mujer, con resultado o riesgo de lesión física o daño.",
+    "fuente": "Art. 2.a) Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 2.b) de la Ley 4/2007, los malos tratos psicológicos incluyen toda conducta intencional que produce en la víctima la falta de autoestima o el sufrimiento a través de, entre otros medios:",
+    "options": [
+      "Privación de recursos económicos compartidos en el ámbito familiar",
+      "Exhibición y observación con fines de satisfacción sexual",
+      "Amenazas, humillaciones o vejaciones, exigencia de obediencia o sumisión, coerción verbal, insultos y aislamiento"
+    ],
+    "correct": 2,
+    "exp": "El art. 2.b) enumera como medios de los malos tratos psicológicos las amenazas, humillaciones, vejaciones, exigencia de obediencia o sumisión, coerción verbal, insultos, aislamiento y culpabilización, entre otros.",
+    "fuente": "Art. 2.b) Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 2.c) de la Ley 4/2007 define los 'malos tratos sexuales' como cualquier acto sexual forzado por el agresor con violencia o intimidación, o sin consentimiento libre y válidamente expresado de la víctima, con independencia de:",
+    "options": [
+      "La relación que el agresor guarde con la víctima",
+      "La edad de la víctima",
+      "El lugar donde se haya producido el acto"
+    ],
+    "correct": 0,
+    "exp": "El art. 2.c) precisa que los malos tratos sexuales se dan con independencia de la relación que el agresor guarde con la víctima.",
+    "fuente": "Art. 2.c) Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué forma de violencia recoge el art. 2.d) de la Ley 4/2007 al referirse a las actuaciones, incluidas la exhibición y la observación, que un mayor de edad realiza para su propia satisfacción sexual empleando manipulación emocional, prevalimiento, chantaje, amenazas, engaño o violencia física o psíquica?",
+    "options": [
+      "Tráfico o utilización de la mujer con fines de explotación sexual",
+      "Agresiones y abusos sexuales a niñas o adolescentes o corrupción de las mismas",
+      "Violencia contra los derechos sexuales y reproductivos de la mujer"
+    ],
+    "correct": 1,
+    "exp": "El art. 2.d) define así las 'Agresiones y abusos sexuales a niñas o adolescentes o corrupción de las mismas'.",
+    "fuente": "Art. 2.d) Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 2.e) de la Ley 4/2007, el acoso sexual se define como la situación en que se produce cualquier comportamiento verbal, no verbal o físico no deseado de índole sexual con el propósito o efecto de atentar contra la dignidad de una persona, en particular cuando:",
+    "options": [
+      "Se produce en el domicilio familiar",
+      "Existe una relación de parentesco entre agresor y víctima",
+      "Se crea un entorno intimidatorio, hostil, degradante, humillante u ofensivo"
+    ],
+    "correct": 2,
+    "exp": "El art. 2.e) precisa que el acoso sexual atenta contra la dignidad de la persona, en particular cuando se crea un entorno intimidatorio, hostil, degradante, humillante u ofensivo.",
+    "fuente": "Art. 2.e) Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 2.f) de la Ley 4/2007, el tráfico o utilización de la mujer con fines de explotación sexual, prostitución y comercio sexual se considera violencia con independencia de:",
+    "options": [
+      "El tipo de relación que une a la víctima con el agresor y de la edad de aquella",
+      "Que el hecho se haya producido dentro o fuera de Aragón",
+      "El número de agresores implicados"
+    ],
+    "correct": 0,
+    "exp": "El art. 2.f) señala que esta forma de violencia se da con independencia del tipo de relación que une a la víctima con el agresor y de la edad de aquella.",
+    "fuente": "Art. 2.f) Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 2.g) de la Ley 4/2007 establece que la mutilación genital femenina se considera violencia contra las mujeres incluso cuando se realiza con:",
+    "options": [
+      "Autorización de una autoridad sanitaria",
+      "El consentimiento, expreso o tácito, de la víctima",
+      "Intervención de personal médico colegiado"
+    ],
+    "correct": 1,
+    "exp": "El art. 2.g) precisa que la mutilación genital femenina es violencia aun cuando se realice con el consentimiento, expreso o tácito, de la víctima.",
+    "fuente": "Art. 2.g) Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué forma de violencia define el art. 2.h) de la Ley 4/2007 como 'cualquier tipo de actuación que impida o restrinja el libre ejercicio de su derecho a la salud reproductiva y la maternidad'?",
+    "options": [
+      "Violencia social",
+      "Malos tratos físicos",
+      "Violencia contra los derechos sexuales y reproductivos de la mujer"
+    ],
+    "correct": 2,
+    "exp": "El art. 2.h) define así la 'Violencia contra los derechos sexuales y reproductivos de la mujer'.",
+    "fuente": "Art. 2.h) Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 2.i) de la Ley 4/2007 define el maltrato económico como la privación intencionada y no justificada legalmente de recursos para el bienestar físico o psicológico de la víctima y de sus hijas e hijos, así como:",
+    "options": [
+      "La discriminación en la disposición de los recursos compartidos en el ámbito familiar o de pareja",
+      "La imposición de jornadas laborales excesivas",
+      "El impago de pensiones alimenticias declarado judicialmente"
+    ],
+    "correct": 0,
+    "exp": "El art. 2.i) añade a la privación de recursos la discriminación en la disposición de los recursos compartidos en el ámbito familiar o de pareja.",
+    "fuente": "Art. 2.i) Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 2.j) de la Ley 4/2007, tras enumerar las formas de violencia de las letras a) a i), añade como cláusula de cierre:",
+    "options": [
+      "Los actos de violencia cometidos exclusivamente en el ámbito doméstico",
+      "Cualesquiera otras formas análogas que lesionen o sean susceptibles de lesionar la dignidad de la mujer",
+      "Las agresiones cometidas por menores de edad"
+    ],
+    "correct": 1,
+    "exp": "El art. 2.j) cierra la enumeración con una cláusula abierta: cualesquiera otras formas análogas que lesionen o sean susceptibles de lesionar la dignidad de la mujer.",
+    "fuente": "Art. 2.j) Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 3.a) de la Ley 4/2007, las situaciones de violencia doméstica son las que se operan por quienes:",
+    "options": [
+      "Mantienen con la víctima un vínculo laboral o de prestación de servicios",
+      "Comparten con la víctima un vínculo docente",
+      "Sostienen o han sostenido un vínculo afectivo, conyugal, de pareja, paterno-filial o semejante con la víctima"
+    ],
+    "correct": 2,
+    "exp": "El art. 3.a) define la violencia doméstica como la operada por quienes sostienen o han sostenido un vínculo afectivo, conyugal, de pareja, paterno-filial o semejante con la víctima.",
+    "fuente": "Art. 3.a) Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 3.a) de la Ley 4/2007 incluye dentro de la violencia doméstica la ejercida por quienes hayan sido cónyuges o pareja de la víctima ligados por relaciones similares de afectividad:",
+    "options": [
+      "Aun sin convivencia",
+      "Solo si mantienen la convivencia en el momento de la agresión",
+      "Solo cuando exista descendencia común"
+    ],
+    "correct": 0,
+    "exp": "El art. 3.a) incluye expresamente a quienes estén o hayan estado ligados a la víctima por relaciones similares de afectividad, aun sin convivencia.",
+    "fuente": "Art. 3.a) Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 3.b) de la Ley 4/2007, las situaciones de violencia laboral o docente son las que se operan por quienes sostienen con la víctima un vínculo laboral, docente o de prestación de servicios, prevaliéndose de una posición de dependencia o debilidad de la víctima frente a ellos o en virtud de:",
+    "options": [
+      "Una relación de parentesco por afinidad",
+      "Una situación de proximidad entre ellos",
+      "Una relación de convivencia estable"
+    ],
+    "correct": 1,
+    "exp": "El art. 3.b) contempla también la violencia derivada de una situación de proximidad entre agresor y víctima, además del prevalimiento de dependencia o debilidad.",
+    "fuente": "Art. 3.b) Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 3.c) de la Ley 4/2007 incluye en todo caso dentro de la violencia social, entre otras personas, a aquellas que por su especial vulnerabilidad se encuentran:",
+    "options": [
+      "Integradas en asociaciones de mujeres",
+      "Empadronadas en un municipio distinto al de residencia del agresor",
+      "Sometidas a custodia o guarda en centros públicos o privados"
+    ],
+    "correct": 2,
+    "exp": "El art. 3.c) incluye en todo caso a las personas que por su especial vulnerabilidad se encuentran sometidas a custodia o guarda en centros públicos o privados.",
+    "fuente": "Art. 3.c) Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 4 de la Ley 4/2007, las medidas contempladas en la Ley serán de aplicación a las mujeres que:",
+    "options": [
+      "Dentro de la Comunidad Autónoma de Aragón, sean víctimas de cualquiera de las formas de violencia del artículo 2",
+      "Estén empadronadas en cualquier municipio de España y sean víctimas de violencia de género",
+      "Hayan presentado denuncia penal por violencia de género"
+    ],
+    "correct": 0,
+    "exp": "El art. 4 delimita el ámbito de aplicación a las mujeres que, dentro de la Comunidad Autónoma de Aragón, sean víctimas de cualquiera de las formas de violencia del art. 2.",
+    "fuente": "Art. 4 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El ámbito de aplicación del art. 4 de la Ley 4/2007 se determina por remisión a las formas de violencia recogidas en:",
+    "options": [
+      "El artículo 3",
+      "El artículo 2",
+      "El artículo 23"
+    ],
+    "correct": 1,
+    "exp": "El art. 4 remite expresamente a las formas de violencia del artículo 2 para fijar el ámbito de aplicación de la Ley.",
+    "fuente": "Art. 4 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 18.1 de la Ley 4/2007, los centros de emergencia son centros de asistencia:",
+    "options": [
+      "Exclusivamente jurídica, sin prestación de alojamiento",
+      "Únicamente ambulatoria, sin pernocta",
+      "Permanente e inmediata en los que se facilita alojamiento y protección a las víctimas y a sus hijas e hijos acompañantes"
+    ],
+    "correct": 2,
+    "exp": "El art. 18.1 define los centros de emergencia como centros de asistencia permanente e inmediata que facilitan alojamiento y protección a las víctimas y a las hijas e hijos acompañantes.",
+    "fuente": "Art. 18.1 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el art. 18.2 de la Ley 4/2007, el equipo social especializado que atiende los centros de emergencia elabora los informes psicológicos y sociales necesarios y realiza:",
+    "options": [
+      "La orientación y, en su caso, el acompañamiento en los trámites de carácter urgente para una mejor protección y defensa",
+      "La instrucción del procedimiento penal",
+      "La representación procesal de la víctima ante los tribunales"
+    ],
+    "correct": 0,
+    "exp": "El art. 18.2 atribuye al equipo social especializado la orientación y, en su caso, el acompañamiento en trámites urgentes para una mejor protección y defensa.",
+    "fuente": "Art. 18.2 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 18.3 de la Ley 4/2007, ¿cuántos centros de emergencia se establecerán, como mínimo, en la Comunidad Autónoma de Aragón?",
+    "options": [
+      "Uno en toda la Comunidad Autónoma",
+      "Al menos uno en cada provincia",
+      "Uno por cada comarca"
+    ],
+    "correct": 1,
+    "exp": "El art. 18.3 dispone que se establecerá, al menos, un centro de emergencia en cada provincia de la Comunidad Autónoma de Aragón.",
+    "fuente": "Art. 18.3 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 18.1 de la Ley 4/2007, además de a las mujeres víctimas de violencia o en situación de riesgo inminente, ¿a quién más se facilita alojamiento y protección en los centros de emergencia?",
+    "options": [
+      "A los progenitores de la víctima",
+      "A las personas testigos de los hechos",
+      "A las hijas e hijos acompañantes"
+    ],
+    "correct": 2,
+    "exp": "El art. 18.1 extiende el alojamiento y la protección a las hijas e hijos acompañantes de la víctima.",
+    "fuente": "Art. 18.1 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 19.1 de la Ley 4/2007, las casas de acogida se configuran como un servicio social especializado y de carácter asistencial destinado a acoger, por un período de tiempo determinado, a las mujeres solas o acompañadas de menores a su cargo víctimas de violencia doméstica que hayan abandonado o tenido que abandonar el domicilio familiar y:",
+    "options": [
+      "Carezcan de medios propios",
+      "Dispongan de una orden de alejamiento en vigor",
+      "Hayan iniciado un procedimiento de divorcio"
+    ],
+    "correct": 0,
+    "exp": "El art. 19.1 exige que las mujeres acogidas carezcan de medios propios, además de haber abandonado o tenido que abandonar el domicilio familiar.",
+    "fuente": "Art. 19.1 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 19.2 de la Ley 4/2007, las casas de acogida promueven la autonomía personal de las mujeres y de las hijas e hijos a su cargo a través de:",
+    "options": [
+      "La escolarización obligatoria en centros concertados",
+      "El desarrollo de habilidades sociales y programas de apoyo e intervención psicológica, social, jurídica y laboral",
+      "La formación exclusivamente en materia de empleo doméstico"
+    ],
+    "correct": 1,
+    "exp": "El art. 19.2 señala que las casas de acogida promueven la autonomía personal mediante el desarrollo de habilidades sociales y programas de apoyo e intervención psicológica, social, jurídica y laboral.",
+    "fuente": "Art. 19.2 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 19.3 de la Ley 4/2007, las casas de acogida estarán atendidas por equipos multidisciplinares que garantizarán a la mujer y, en su caso, a los menores a su cargo:",
+    "options": [
+      "Únicamente alojamiento y manutención",
+      "Exclusivamente formación laboral",
+      "El apoyo emocional y psicológico, el asesoramiento social y el acompañamiento necesario durante el tiempo de acogida"
+    ],
+    "correct": 2,
+    "exp": "El art. 19.3 garantiza, a través de equipos multidisciplinares, el apoyo emocional y psicológico, el asesoramiento social y el acompañamiento necesario durante la acogida.",
+    "fuente": "Art. 19.3 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 19.4 de la Ley 4/2007, ¿cuál es el número mínimo de casas de acogida que se establecerán en cada provincia de la Comunidad Autónoma de Aragón?",
+    "options": [
+      "Al menos una",
+      "Dos",
+      "Tres, una por cada partido judicial"
+    ],
+    "correct": 0,
+    "exp": "El art. 19.4 dispone que se establecerá, al menos, una casa de acogida en cada provincia de la Comunidad Autónoma de Aragón.",
+    "fuente": "Art. 19.4 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 19.5 de la Ley 4/2007, cuando una mujer víctima de violencia que ingresa en una casa de acogida tenga a su cargo ascendientes o descendientes incapacitados o en situación de dependencia, el Departamento competente en materia de servicios sociales:",
+    "options": [
+      "La derivará automáticamente a otra Comunidad Autónoma",
+      "Proveerá de forma inmediata del recurso social más conveniente que les permita mantener una vida digna",
+      "Exigirá la renuncia previa a la guarda de esas personas"
+    ],
+    "correct": 1,
+    "exp": "El art. 19.5 obliga al Departamento competente a proveer de forma inmediata del recurso social más conveniente que permita a esas personas mantener una vida digna.",
+    "fuente": "Art. 19.5 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes afirmaciones sobre las casas de acogida, conforme al art. 19.2 de la Ley 4/2007, es correcta?",
+    "options": [
+      "Solo atienden a mujeres víctimas de violencia laboral o docente",
+      "Están destinadas exclusivamente a mujeres sin hijas ni hijos a su cargo",
+      "Atienden también a las hijas e hijos a cargo de la mujer víctima de violencia doméstica"
+    ],
+    "correct": 2,
+    "exp": "El art. 19.2 aclara que las casas de acogida no solo atienden a las mujeres, sino también a las hijas e hijos a su cargo.",
+    "fuente": "Art. 19.2 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 20.1 de la Ley 4/2007, los pisos tutelados son hogares funcionales y temporales en los que conviven una o varias unidades familiares compuestas por mujeres víctimas de violencia junto con sus hijas e hijos, que:",
+    "options": [
+      "Ya no requieran en su totalidad el tratamiento especializado prestado por la casa de acogida, pero necesiten apoyo, en especial alojamiento transitorio",
+      "Requieren en su totalidad el tratamiento especializado de la casa de acogida",
+      "Han renunciado a cualquier tipo de apoyo social"
+    ],
+    "correct": 0,
+    "exp": "El art. 20.1 define los pisos tutelados como destinados a mujeres que ya no requieren en su totalidad el tratamiento especializado de la casa de acogida, pero necesitan apoyo, en especial alojamiento transitorio para su autonomía personal.",
+    "fuente": "Art. 20.1 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 20.2 de la Ley 4/2007, además de un alojamiento transitorio, los pisos tutelados otorgan a las mujeres víctimas de violencia el apoyo social, psicológico y jurídico del equipo multidisciplinar de:",
+    "options": [
+      "Los juzgados de violencia sobre la mujer",
+      "La casa de acogida, de los centros comarcales de información y servicios a la mujer o de los servicios sociales comunitarios de que procedan",
+      "Exclusivamente asociaciones de voluntariado"
+    ],
+    "correct": 1,
+    "exp": "El art. 20.2 remite al apoyo del equipo multidisciplinar de la casa de acogida, de los centros comarcales de información y servicios a la mujer o de los servicios sociales comunitarios de procedencia.",
+    "fuente": "Art. 20.2 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "A diferencia de las casas de acogida, ¿qué caracteriza a los pisos tutelados según el art. 20.1 de la Ley 4/2007?",
+    "options": [
+      "Que solo admiten a mujeres sin hijas ni hijos a su cargo",
+      "Que no pueden recibir apoyo psicológico",
+      "Que están destinados a mujeres que ya no requieren en su totalidad el tratamiento especializado, sino apoyo transitorio para su autonomía personal"
+    ],
+    "correct": 2,
+    "exp": "El art. 20.1 diferencia los pisos tutelados de las casas de acogida en que las mujeres ya no requieren en su totalidad el tratamiento especializado, sino apoyo transitorio para lograr su autonomía personal.",
+    "fuente": "Art. 20.1 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 21 de la Ley 4/2007, ¿qué Departamento arbitrará las medidas necesarias para proporcionar alojamiento inmediato a mujeres mayores o discapacitadas víctimas de violencia?",
+    "options": [
+      "El Departamento competente en materia de servicios sociales",
+      "El Departamento competente en materia de sanidad",
+      "El Departamento competente en materia de justicia"
+    ],
+    "correct": 0,
+    "exp": "El art. 21 atribuye esta competencia al Departamento competente en materia de servicios sociales.",
+    "fuente": "Art. 21 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 21 de la Ley 4/2007 dispone que el alojamiento inmediato para mujeres mayores o discapacitadas víctimas de violencia se prestará en centros específicos:",
+    "options": [
+      "Exclusivamente privados sin ánimo de lucro",
+      "Propios o concertados",
+      "Gestionados por entidades religiosas"
+    ],
+    "correct": 1,
+    "exp": "El art. 21 señala que el alojamiento se proporcionará en centros específicos, propios o concertados, del Departamento competente en servicios sociales.",
+    "fuente": "Art. 21 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El alojamiento alternativo específico regulado en el art. 21 de la Ley 4/2007 está dirigido a:",
+    "options": [
+      "Mujeres solicitantes de asilo víctimas de violencia",
+      "Mujeres funcionarias públicas víctimas de violencia laboral",
+      "Mujeres mayores o discapacitadas víctimas de violencia"
+    ],
+    "correct": 2,
+    "exp": "El art. 21 dirige este alojamiento alternativo específico a mujeres mayores o discapacitadas víctimas de violencia.",
+    "fuente": "Art. 21 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 22 de la Ley 4/2007, ¿qué Departamento facilita los puntos de encuentro para las visitas de madres y/o padres a sus hijas e hijos en supuestos de nulidad, separación, divorcio o ruptura de la unión de hecho con antecedentes de conductas violentas en la pareja?",
+    "options": [
+      "El Departamento competente en materia de familia",
+      "El Departamento competente en materia de vivienda",
+      "El Departamento competente en materia de empleo"
+    ],
+    "correct": 0,
+    "exp": "El art. 22 atribuye al Departamento competente en materia de familia la facilitación de estos puntos de encuentro.",
+    "fuente": "Art. 22 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 22 de la Ley 4/2007, los puntos de encuentro serán atendidos por personal especializado que:",
+    "options": [
+      "Sustituirá a la autoridad judicial en la resolución del régimen de visitas",
+      "Emitirá los informes que procedan a la autoridad judicial",
+      "No mantendrá ningún contacto con la autoridad judicial"
+    ],
+    "correct": 1,
+    "exp": "El art. 22 encomienda al personal especializado de los puntos de encuentro la emisión de los informes que procedan a la autoridad judicial.",
+    "fuente": "Art. 22 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 23 de la Ley 4/2007, ¿a quién corresponde determinar reglamentariamente las condiciones de autorización, registro y acreditación de los centros de protección y apoyo a las mujeres víctimas de violencia?",
+    "options": [
+      "A las Cortes de Aragón mediante ley",
+      "Al Instituto Aragonés de la Mujer exclusivamente",
+      "Al Gobierno de Aragón"
+    ],
+    "correct": 2,
+    "exp": "El art. 23 remite al Gobierno de Aragón la determinación reglamentaria de las condiciones de autorización, registro y acreditación de estos centros.",
+    "fuente": "Art. 23 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 23 de la Ley 4/2007 establece que la regulación reglamentaria de los centros de protección y apoyo tiene como objetivo garantizar:",
+    "options": [
+      "La calidad y la coordinación en la prestación de sus funciones",
+      "La financiación privada de los centros",
+      "La gratuidad de todos los servicios sin excepción"
+    ],
+    "correct": 0,
+    "exp": "El art. 23 fija como finalidad de la regulación reglamentaria garantizar la calidad y la coordinación en la prestación de las funciones de los centros de protección y apoyo.",
+    "fuente": "Art. 23 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 24.1 de la Ley 4/2007, ¿quién puede facilitar un dispositivo de alarma a las mujeres que se encuentren en una situación de alto riesgo?",
+    "options": [
+      "Únicamente los servicios sociales municipales, sin posibilidad de colaboración externa",
+      "El Instituto Aragonés de la Mujer, directamente o en colaboración con otras Administraciones Públicas y, en su caso, entidades privadas",
+      "Los juzgados de violencia sobre la mujer, mediante resolución judicial previa"
+    ],
+    "correct": 1,
+    "exp": "El art. 24.1 establece que 'el Instituto Aragonés de la Mujer, directamente o en colaboración con otras Administraciones Públicas y, en su caso, entidades privadas, podrá facilitar' el dispositivo de alarma.",
+    "fuente": "Art. 24.1 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En qué consiste el dispositivo de alarma regulado en el art. 24.1 de la Ley 4/2007?",
+    "options": [
+      "En una notificación semanal por correo postal sobre recursos disponibles",
+      "En una tarjeta de descuento para transporte público urbano",
+      "En una unidad de teleasistencia en el domicilio y fuera de él, activable por la víctima en una situación de emergencia y conectada con una central receptora"
+    ],
+    "correct": 2,
+    "exp": "El precepto lo describe como 'una unidad de teleasistencia en el domicilio y fuera de él, a través de un aparato que pueda activar la víctima en una situación de emergencia y que estará conectado con una central receptora'.",
+    "fuente": "Art. 24.1 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El dispositivo de alarma del art. 24.1 de la Ley 4/2007 se dirige a mujeres que se encuentren en:",
+    "options": [
+      "Una situación de alto riesgo",
+      "Trámite de separación o divorcio, sin más requisitos",
+      "Fase de formación e inserción sociolaboral"
+    ],
+    "correct": 0,
+    "exp": "El artículo se refiere expresamente a 'las mujeres que se encuentren en una situación de alto riesgo'.",
+    "fuente": "Art. 24.1 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál es la finalidad que el art. 24.1 de la Ley 4/2007 atribuye expresamente al dispositivo de alarma?",
+    "options": [
+      "Sustituir a la orden de protección judicial",
+      "Reforzar la seguridad y la confianza de la mujer, otorgándole una mayor protección",
+      "Evitar la necesidad de acudir al servicio de mediación familiar"
+    ],
+    "correct": 1,
+    "exp": "El precepto indica que el dispositivo tiene 'el fin de reforzar la seguridad y la confianza de la mujer, otorgándole una mayor protección'.",
+    "fuente": "Art. 24.1 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 24.2 de la Ley 4/2007, ¿quién valora la idoneidad del dispositivo de alarma como recurso para un caso concreto?",
+    "options": [
+      "El propio Instituto Aragonés de la Mujer, sin intervención técnica",
+      "La propia víctima, de forma exclusiva y sin valoración externa",
+      "Un equipo formado por las personas técnicas responsables del programa que tengan conocimiento del caso"
+    ],
+    "correct": 2,
+    "exp": "El art. 24.2 dispone que 'la idoneidad del recurso se valorará por un equipo formado por las personas técnicas responsables del programa que tengan conocimiento del caso'.",
+    "fuente": "Art. 24.2 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué Departamento facilita el servicio de mediación familiar según el art. 25.1 de la Ley 4/2007?",
+    "options": [
+      "El Departamento competente en materia de familia",
+      "El Departamento competente en materia de salud",
+      "El Departamento competente en materia de vivienda"
+    ],
+    "correct": 0,
+    "exp": "El art. 25.1 señala que 'el Departamento competente en materia de familia facilitará un servicio de mediación familiar'.",
+    "fuente": "Art. 25.1 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 25.1 de la Ley 4/2007, ¿cómo debe actuar la persona mediadora en el servicio de mediación familiar?",
+    "options": [
+      "De forma parcial, favoreciendo a la parte más vulnerable",
+      "De una manera cualificada, neutral e imparcial",
+      "Bajo mandato judicial vinculante"
+    ],
+    "correct": 1,
+    "exp": "El precepto exige que 'la persona mediadora, de una manera cualificada, neutral e imparcial, facilita la comunicación entre la pareja'.",
+    "fuente": "Art. 25.1 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 25.1 de la Ley 4/2007 define la mediación familiar como un proceso en el que la persona mediadora facilita:",
+    "options": [
+      "Una resolución vinculante que sustituye a la sentencia judicial",
+      "La imposición de medidas cautelares urgentes",
+      "La comunicación entre la pareja para que ellos mismos lleguen a acuerdos en todos los temas relacionados con su situación de conflicto"
+    ],
+    "correct": 2,
+    "exp": "El artículo concibe la mediación como un proceso en el que la persona mediadora 'facilita la comunicación entre la pareja para que ellos mismos lleguen a acuerdos en todos los temas relacionados con su situación de conflicto'.",
+    "fuente": "Art. 25.1 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 25.2 de la Ley 4/2007, ¿cuál es el objeto del servicio de mediación familiar?",
+    "options": [
+      "La búsqueda de soluciones amistosas a los conflictos derivados de los procesos de separación, divorcio, nulidad matrimonial o ruptura de la unión de hecho",
+      "La imposición de sanciones económicas al agresor",
+      "La concesión del Ingreso Aragonés de Inserción"
+    ],
+    "correct": 0,
+    "exp": "El art. 25.2 dice literalmente que 'dicho servicio tiene por objeto la búsqueda de soluciones amistosas a los conflictos derivados de los procesos de separación, divorcio, nulidad matrimonial o ruptura de la unión de hecho'.",
+    "fuente": "Art. 25.2 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Con qué finalidad se busca la solución amistosa de conflictos a que se refiere el art. 25.2 de la Ley 4/2007?",
+    "options": [
+      "Reducir el plazo de resolución de la solicitud de vivienda",
+      "Evitar potenciales conflictos o desavenencias entre las partes",
+      "Sustituir la atención psicológica a las víctimas"
+    ],
+    "correct": 1,
+    "exp": "El precepto añade que la búsqueda de soluciones amistosas tiene lugar 'al objeto de evitar potenciales conflictos o desavenencias entre las partes'.",
+    "fuente": "Art. 25.2 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 26.1 de la Ley 4/2007, ¿quién presta el servicio de atención psicológica a hombres con problemas de control y violencia en el hogar?",
+    "options": [
+      "El Departamento competente en materia de salud",
+      "El Instituto Aragonés de Empleo",
+      "El Instituto Aragonés de la Mujer"
+    ],
+    "correct": 2,
+    "exp": "El art. 26.1 establece que 'el Instituto Aragonés de la Mujer prestará un servicio de atención psicológica a hombres residentes en Aragón' con problemas de control y violencia en el hogar.",
+    "fuente": "Art. 26.1 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿A quiénes se dirige el servicio de atención psicológica regulado en el art. 26.1 de la Ley 4/2007?",
+    "options": [
+      "A hombres residentes en Aragón que, de forma reciente o no, hayan sido actores de violencia contra las mujeres en el contexto de las relaciones familiares o asimiladas",
+      "A hombres residentes en cualquier parte de España condenados por sentencia firme",
+      "A mujeres víctimas de violencia que convivan con el agresor"
+    ],
+    "correct": 0,
+    "exp": "El precepto se dirige a 'hombres residentes en Aragón que, de forma reciente o no, hayan sido actores de violencia contra las mujeres en el contexto de las relaciones familiares o asimiladas'.",
+    "fuente": "Art. 26.1 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 26.1 de la Ley 4/2007, el servicio de atención psicológica a hombres maltratadores tiene como objeto:",
+    "options": [
+      "Imponerles una sanción administrativa sustitutiva de la pena",
+      "Dotarles de las habilidades personales para la resolución de conflictos por vías no violentas mediante un tratamiento específico para hombres maltratadores",
+      "Evaluar su idoneidad para recuperar la custodia de los hijos"
+    ],
+    "correct": 1,
+    "exp": "El artículo señala que el servicio se presta 'con objeto de dotarles de las habilidades personales para la resolución de conflictos por vías no violentas mediante un tratamiento específico para hombres maltratadores'.",
+    "fuente": "Art. 26.1 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 26.2 de la Ley 4/2007, uno de los fines del servicio del art. 26 es asegurar las condiciones necesarias para:",
+    "options": [
+      "Facilitar la mediación familiar obligatoria entre las partes",
+      "Acelerar el otorgamiento del Ingreso Aragonés de Inserción",
+      "Mantener el deseable bienestar psicológico por parte de las mujeres víctimas de malos tratos en aquellos casos en que la relación se mantenga"
+    ],
+    "correct": 2,
+    "exp": "El art. 26.2 indica que 'con este servicio se pretenden asegurar las condiciones necesarias para mantener el deseable bienestar psicológico por parte de las mujeres víctimas de malos tratos en aquellos casos en que la relación se mantenga'.",
+    "fuente": "Art. 26.2 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Además del bienestar psicológico de la mujer, ¿qué otro objetivo persigue el servicio regulado en el art. 26.2 de la Ley 4/2007?",
+    "options": [
+      "Prevenir posteriores situaciones de maltrato e impedir su extensión a otros miembros de la unidad familiar",
+      "Sustituir el dispositivo de alarma en los casos de alto riesgo",
+      "Facilitar el acceso a la vivienda protegida a las víctimas"
+    ],
+    "correct": 0,
+    "exp": "El art. 26.2 añade el objetivo de 'prevenir posteriores situaciones de maltrato e impedir su extensión a otros miembros de la unidad familiar'.",
+    "fuente": "Art. 26.2 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 27.1 de la Ley 4/2007, ¿quiénes tienen derecho a la asistencia psicológica gratuita desde el ámbito social?",
+    "options": [
+      "Únicamente las mujeres víctimas de violencia, sin extensión a sus hijas e hijos",
+      "Las mujeres víctimas de violencia, así como sus hijas e hijos",
+      "Los hombres con problemas de control y violencia en el hogar"
+    ],
+    "correct": 1,
+    "exp": "El art. 27.1 reconoce el derecho a 'las mujeres víctimas de violencia, así como sus hijas e hijos'.",
+    "fuente": "Art. 27.1 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué carácter tiene la asistencia psicológica reconocida en el art. 27.1 de la Ley 4/2007?",
+    "options": [
+      "Sujeta al pago de una tasa reducida",
+      "Limitada a un máximo de tres sesiones",
+      "Gratuita"
+    ],
+    "correct": 2,
+    "exp": "El precepto reconoce el derecho 'a la asistencia psicológica gratuita'.",
+    "fuente": "Art. 27.1 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 27.1 de la Ley 4/2007, ¿hasta cuándo se prolonga el seguimiento de la asistencia psicológica?",
+    "options": [
+      "Hasta que concluya el proceso terapéutico de recuperación",
+      "Hasta la resolución del procedimiento judicial, con independencia de la evolución psicológica",
+      "Hasta que la víctima acceda a una vivienda protegida"
+    ],
+    "correct": 0,
+    "exp": "El art. 27.1 dice que la asistencia 'comprenderá la atención inicial y el seguimiento hasta que concluya el proceso terapéutico de recuperación'.",
+    "fuente": "Art. 27.1 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 27.2 de la Ley 4/2007, ¿qué ocurre con la atención psicológica a las mujeres que han abandonado la casa de acogida?",
+    "options": [
+      "Se interrumpe automáticamente al causar baja en el centro",
+      "Se les seguirá prestando atención psicológica",
+      "Se sustituye por el servicio de mediación familiar"
+    ],
+    "correct": 1,
+    "exp": "El art. 27.2 establece que 'a aquellas mujeres que hayan abandonado la casa de acogida se les seguirá prestando atención psicológica'.",
+    "fuente": "Art. 27.2 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Con qué finalidad se mantiene la atención psicológica a las mujeres que abandonan la casa de acogida, según el art. 27.2 de la Ley 4/2007?",
+    "options": [
+      "Para facilitar su acceso a una vivienda protegida",
+      "Para sustituir el servicio de mediación familiar",
+      "Para su fortalecimiento personal"
+    ],
+    "correct": 2,
+    "exp": "El art. 27.2 precisa que se les seguirá prestando atención psicológica 'para su fortalecimiento personal'.",
+    "fuente": "Art. 27.2 Ley 4/2007",
+    "confianza": "alta",
+    "correccion": "Las opciones originales mezclaban tipos distintos: tres nombraban Departamentos/organismos ('El Departamento competente en materia de familia', 'El Instituto Aragonés de la Mujer', 'El Departamento competente en materia de vivienda') que no responden a una pregunta de 'finalidad', y solo la opción correcta ('Para su fortalecimiento personal') tenía forma de finalidad, delatándose por descarte gramatical. Se sustituyeron los tres distractores por finalidades igualmente plausibles pero no recogidas en el art. 27.2, manteniendo intacta la opción correcta y su posición (índice 3)."
+  },
+  {
+    "q": "Según el art. 28.1 de la Ley 4/2007, ¿qué Departamento elabora el protocolo de pautas uniformes de actuación en materia de atención sanitaria?",
+    "options": [
+      "El Departamento competente en materia de salud",
+      "El Departamento competente en materia de familia",
+      "El Departamento competente en materia de vivienda"
+    ],
+    "correct": 0,
+    "exp": "El art. 28.1 dispone que 'el Departamento competente en materia de salud elaborará un protocolo que recoja pautas uniformes de actuación dirigidas a profesionales sanitarios'.",
+    "fuente": "Art. 28.1 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿A quién van dirigidas las pautas del protocolo regulado en el art. 28.1 de la Ley 4/2007?",
+    "options": [
+      "A profesionales de la mediación familiar",
+      "A profesionales sanitarios",
+      "A personal de los servicios sociales municipales"
+    ],
+    "correct": 1,
+    "exp": "El protocolo recoge 'pautas uniformes de actuación dirigidas a profesionales sanitarios'.",
+    "fuente": "Art. 28.1 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Con qué periodicidad debe revisarse el protocolo de atención sanitaria previsto en el art. 28.1 de la Ley 4/2007?",
+    "options": [
+      "Una sola vez, sin revisiones posteriores",
+      "Cada diez años, según desarrollo reglamentario",
+      "Periódicamente"
+    ],
+    "correct": 2,
+    "exp": "El precepto señala que 'este protocolo se revisará periódicamente'.",
+    "fuente": "Art. 28.1 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 28.1 de la Ley 4/2007, además de aplicarse en el ámbito público, se fomentará el empleo del protocolo de atención sanitaria en:",
+    "options": [
+      "El ámbito de la sanidad privada",
+      "El ámbito de la sanidad militar exclusivamente",
+      "El ámbito de las mutuas de accidentes de trabajo"
+    ],
+    "correct": 0,
+    "exp": "El art. 28.1 añade que 'se fomentará el empleo del mencionado protocolo en el ámbito de la sanidad privada'.",
+    "fuente": "Art. 28.1 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 28.2 de la Ley 4/2007, ¿qué actividades puede llevar a cabo el Departamento competente en materia de salud dirigidas a profesionales sanitarios?",
+    "options": [
+      "Actividades de inspección y régimen sancionador",
+      "Actividades de sensibilización y formación específicas en materia de violencia contra las mujeres",
+      "Actividades de mediación familiar especializada"
+    ],
+    "correct": 1,
+    "exp": "El art. 28.2 indica que 'por dicho Departamento podrán llevarse a cabo actividades de sensibilización y formación específicas en materia de violencia contra las mujeres dirigidas a profesionales sanitarios'.",
+    "fuente": "Art. 28.2 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 29 de la Ley 4/2007, ¿qué establecerá la Administración de la Comunidad Autónoma de Aragón en relación con el acceso a la vivienda?",
+    "options": [
+      "Una prohibición temporal de desahucios para cualquier arrendatario",
+      "Un registro único de solicitantes de vivienda libre",
+      "Un sistema que permita integrar las políticas de protección y apoyo a las mujeres víctimas de violencia doméstica con la política de vivienda protegida del Departamento correspondiente"
+    ],
+    "correct": 2,
+    "exp": "El art. 29 dispone que la Administración autonómica 'establecerá un sistema que permita integrar las políticas de protección y apoyo a las mujeres víctimas de violencia doméstica con la política de vivienda protegida del Departamento correspondiente'.",
+    "fuente": "Art. 29 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿A qué víctimas se dirigen las medidas de apoyo al acceso a la vivienda previstas en el art. 29 de la Ley 4/2007?",
+    "options": [
+      "A las víctimas que carezcan de vivienda adecuada",
+      "Únicamente a las víctimas con hijos menores a su cargo",
+      "A las víctimas que ya sean titulares de una vivienda en propiedad"
+    ],
+    "correct": 0,
+    "exp": "El artículo se refiere a medidas 'respecto de las víctimas que carezcan de vivienda adecuada'.",
+    "fuente": "Art. 29 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 29 de la Ley 4/2007, ¿en qué régimen se reservarán viviendas protegidas para las víctimas de violencia doméstica?",
+    "options": [
+      "En régimen de propiedad con subvención íntegra",
+      "En régimen de arrendamiento o precario",
+      "En régimen de multipropiedad"
+    ],
+    "correct": 1,
+    "exp": "El precepto establece que 'con esta finalidad se reservarán viviendas protegidas en régimen de arrendamiento o precario para las víctimas de violencia doméstica'.",
+    "fuente": "Art. 29 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El sistema previsto en el art. 29 de la Ley 4/2007 busca integrar la política de protección y apoyo a las víctimas con la política de:",
+    "options": [
+      "Empleo público",
+      "Sanidad privada",
+      "Vivienda protegida"
+    ],
+    "correct": 2,
+    "exp": "El artículo habla de integrar las políticas de protección y apoyo 'con la política de vivienda protegida del Departamento correspondiente'.",
+    "fuente": "Art. 29 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 29 de la Ley 4/2007, la integración de políticas se realiza con la vivienda protegida de qué Departamento?",
+    "options": [
+      "Del Departamento correspondiente",
+      "Del Departamento competente en materia de salud",
+      "Del Departamento competente en materia de familia"
+    ],
+    "correct": 0,
+    "exp": "El precepto se refiere a 'la política de vivienda protegida del Departamento correspondiente', sin identificar un Departamento distinto.",
+    "fuente": "Art. 29 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 30.1 de la Ley 4/2007, ¿a quién puede dirigirse el régimen de convenios de colaboración y subvenciones para la contratación de mujeres víctimas de violencia?",
+    "options": [
+      "Únicamente a empresas públicas de la Comunidad Autónoma de Aragón",
+      "A empresas, cooperativas, sociedades laborales o entidades que contraten a mujeres víctimas de violencia, o a ellas mismas si se constituyen como trabajadoras autónomas",
+      "Solo a mujeres que ya tengan la condición de funcionarias"
+    ],
+    "correct": 1,
+    "exp": "El art. 30.1 prevé convenios y subvenciones 'bien a empresas, cooperativas, sociedades laborales o entidades que contraten a mujeres víctimas de violencia, bien a ellas mismas en los casos en que decidan constituirse como trabajadoras autónomas'.",
+    "fuente": "Art. 30.1 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 30.2 de la Ley 4/2007, ¿con qué carácter se incluye a las mujeres víctimas de violencia en los programas de formación e inserción laboral?",
+    "options": [
+      "Con carácter excepcional y temporal, limitado a un año",
+      "Con carácter voluntario y sin prioridad frente al resto de solicitantes",
+      "Con carácter preferente y específico"
+    ],
+    "correct": 2,
+    "exp": "El art. 30.2 establece que serán incluidas 'con carácter preferente y específico, en los programas de formación e inserción laboral'.",
+    "fuente": "Art. 30.2 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Para beneficiarse de esa preferencia en los programas de formación e inserción laboral, ¿qué requisito exige el art. 30.2 de la Ley 4/2007 a las mujeres afectadas?",
+    "options": [
+      "Figurar inscritas como demandantes de empleo en la oficina correspondiente del Instituto Aragonés de Empleo",
+      "Haber agotado previamente la prestación por desempleo",
+      "Estar empadronadas en el municipio de Zaragoza"
+    ],
+    "correct": 0,
+    "exp": "El precepto exige que 'las mujeres afectadas deberán figurar inscritas como demandantes de empleo en la oficina correspondiente del Instituto Aragonés de Empleo'.",
+    "fuente": "Art. 30.2 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 30.2 de la Ley 4/2007, la preferencia reconocida a las mujeres víctimas de violencia se tendrá en cuenta:",
+    "options": [
+      "Únicamente en el primer proceso de selección al que se presenten",
+      "En cualquier otra vía de promoción laboral que contribuya a la inserción sociolaboral de las mujeres víctimas de violencia",
+      "Solo durante el primer año tras el cese de la convivencia con el agresor"
+    ],
+    "correct": 1,
+    "exp": "El art. 30.2 añade que 'se tendrá en cuenta dicha preferencia en cualquier otra vía de promoción laboral que contribuya a la inserción sociolaboral de las mujeres víctimas de violencia'.",
+    "fuente": "Art. 30.2 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 30.3 de la Ley 4/2007, ¿quién prestará información a empresas y a mujeres desempleadas víctimas de violencia sobre las medidas de inserción laboral y promoción de empleo?",
+    "options": [
+      "El Instituto Aragonés de la Mujer, en exclusiva",
+      "Las organizaciones sindicales más representativas",
+      "El Gobierno de Aragón, a través de sus organismos competentes"
+    ],
+    "correct": 2,
+    "exp": "El art. 30.3 señala que 'el Gobierno de Aragón, a través de sus organismos competentes, prestará información a empresas y a mujeres desempleadas víctimas de violencia' sobre dichas medidas.",
+    "fuente": "Art. 30.3 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 31 de la Ley 4/2007, ¿quién ejercerá la acción popular en los casos más graves de violencia contra las mujeres?",
+    "options": [
+      "El Gobierno de Aragón",
+      "El Instituto Aragonés de la Mujer",
+      "El Ayuntamiento del domicilio de la víctima"
+    ],
+    "correct": 0,
+    "exp": "El art. 31 dispone que 'el Gobierno de Aragón ejercerá la acción popular en los casos más graves de violencia contra las mujeres'.",
+    "fuente": "Art. 31 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 31 de la Ley 4/2007, el Gobierno de Aragón ejercerá la acción popular en los casos:",
+    "options": [
+      "De todos los casos de violencia contra las mujeres, sin excepción",
+      "Más graves de violencia contra las mujeres",
+      "De violencia doméstica sin resultado lesivo"
+    ],
+    "correct": 1,
+    "exp": "El precepto limita la acción popular a 'los casos más graves de violencia contra las mujeres'.",
+    "fuente": "Art. 31 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes es una de las condiciones que, según el art. 31 de la Ley 4/2007, permite al Gobierno de Aragón ejercer la acción popular?",
+    "options": [
+      "Que lo solicite cualquier asociación de mujeres inscrita en el registro autonómico",
+      "Que la víctima haya accedido previamente a una vivienda protegida",
+      "Que la víctima así lo solicite"
+    ],
+    "correct": 2,
+    "exp": "El art. 31 exige que la acción popular se ejerza 'si la víctima así lo solicita, o cuando la acción delictiva provoque la muerte de esta'.",
+    "fuente": "Art. 31 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Además de la solicitud de la víctima, ¿en qué otro supuesto ejercerá el Gobierno de Aragón la acción popular según el art. 31 de la Ley 4/2007?",
+    "options": [
+      "Cuando la acción delictiva provoque la muerte de la víctima",
+      "Cuando la víctima resida fuera de la Comunidad Autónoma de Aragón",
+      "Cuando el proceso penal se prolongue más de un año"
+    ],
+    "correct": 0,
+    "exp": "El art. 31 prevé también el ejercicio de la acción popular 'cuando la acción delictiva provoque la muerte de esta [la víctima]'.",
+    "fuente": "Art. 31 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 31 de la Ley 4/2007, ¿en qué forma y condiciones se ejercerá la acción popular por el Gobierno de Aragón?",
+    "options": [
+      "En la forma que acuerde el Instituto Aragonés de la Mujer caso por caso",
+      "En la forma y condiciones establecidas por la legislación procesal",
+      "Sin sujeción a ningún requisito procesal específico"
+    ],
+    "correct": 1,
+    "exp": "El art. 31 remite a que la acción popular se ejerza 'en la forma y condiciones establecidas por la legislación procesal'.",
+    "fuente": "Art. 31 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apartado 2.1 (Normativa Internacional) del II Plan de Igualdad de Zaragoza, ¿en qué conferencia mundial sobre la mujer se recogió la transversalidad del principio de igualdad entre hombres y mujeres (mainstreaming), seguida de exámenes quinquenales?",
+    "options": [
+      "Nairobi (1985)",
+      "México (1975)",
+      "Beijing (1995)"
+    ],
+    "correct": 2,
+    "exp": "El apartado 2.1 señala que en las Declaraciones de las conferencias mundiales sobre la Mujer (México 1975, Copenhague 1980, Nairobi 1985 y Beijing 1995) se plasmaron estrategias, y que 'en esta última se recogió la transversalidad del principio de igualdad entre hombres y mujeres (Mainstreaming)... y es seguida por exámenes quinquenales'.",
+    "fuente": "Marco normativo, apartado 2.1 Normativa Internacional, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apartado 2.1 (Normativa Internacional) del II Plan de Igualdad de Zaragoza, en el ámbito de la Organización Internacional del Trabajo (OIT), ¿qué número tiene el convenio relativo a la igualdad de remuneración?",
+    "options": [
+      "Convenio nº 100",
+      "Convenio nº 156",
+      "Convenio nº 183"
+    ],
+    "correct": 0,
+    "exp": "El Plan cita: '...se han firmado convenios relativos a la igualdad de remuneración (nº 100), la discriminación en el empleo y la ocupación (nº 111), las personas trabajadoras con responsabilidades familiares (nº 156), la protección de la maternidad (nº 183), y sobre violencia y acoso (nº 190)'.",
+    "fuente": "Marco normativo, apartado 2.1 Normativa Internacional, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apartado 2.2 (Normativa Comunitaria) del II Plan de Igualdad de Zaragoza, la Directiva 2019/1158/UE del Parlamento Europeo y del Consejo, de 20 de junio de 2019, es relativa a:",
+    "options": [
+      "La aplicación del principio de igualdad de oportunidades y de trato entre hombres y mujeres en el empleo",
+      "La conciliación de la vida familiar y la vida profesional de los progenitores y los cuidadores",
+      "La eliminación de la discriminación por razón de sexo en el acceso a bienes y servicios"
+    ],
+    "correct": 1,
+    "exp": "El Plan cita: 'Directiva 2019/1158/UE del Parlamento Europeo y del Consejo, de 20 de junio de 2019, relativa a la conciliación de la vida familiar y la vida profesional de los progenitores y los cuidadores'.",
+    "fuente": "Marco normativo, apartado 2.2 Normativa Comunitaria, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apartado 2.3 (Normativa Nacional) del II Plan de Igualdad de Zaragoza, ¿qué ley introdujo apartados relativos al Registro de Planes de Igualdad y a la igualdad retributiva, desarrollados después por el RD 901/2020 y el RD 902/2020, ambos de 13 de octubre?",
+    "options": [
+      "La Ley Orgánica 3/2007, de 22 de marzo",
+      "La Ley 15/2022, de 12 de julio",
+      "La Ley 6/2019, de 1 de marzo"
+    ],
+    "correct": 2,
+    "exp": "El Plan indica: 'la ley 6/2019, de 1 de marzo, de medidas urgentes para garantía de la igualdad de trato y de oportunidades entre mujeres y hombres en el empleo y la ocupación, introduciendo nuevos apartados como el referido al Registro de Planes de Igualdad e igualdad retributiva (desarrolladas en el RD 901/2020 y RD 902/2020, de 13 de octubre)'.",
+    "fuente": "Marco normativo, apartado 2.3 Normativa Nacional, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apartado 2.4 (Normativa Autonómica) del II Plan de Igualdad de Zaragoza, el art. 51 de la Ley 7/2018, de 28 de junio, de igualdad de oportunidades entre mujeres y hombres en Aragón, obliga a las Administraciones públicas aragonesas con más de:",
+    "options": [
+      "250 empleados a aprobar cada 4 años un Plan de igualdad de oportunidades",
+      "100 empleados a aprobar cada 2 años un Plan de igualdad",
+      "500 empleados a aprobar cada 5 años un Plan de igualdad"
+    ],
+    "correct": 0,
+    "exp": "El Plan cita: 'la Ley 7/2018, de 28 de junio... en su art. 51 dispone la obligación de las Administraciones públicas aragonesas con más de 250 empleados la aprobación cada 4 años de un Plan de igualdad de oportunidades en la función pública y de conciliación de la vida personal, familiar y laboral para todos sus centros de trabajo'.",
+    "fuente": "Marco normativo, apartado 2.4 Normativa Autonómica, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apartado 2.5 (Normativa Municipal) del II Plan de Igualdad de Zaragoza, ¿qué instrucción, de fecha 3 de febrero de 2017, regula el uso del lenguaje en los documentos administrativos municipales?",
+    "options": [
+      "La Instrucción para un tratamiento de imágenes no sexistas",
+      "El Decreto de aprobación de la Instrucción sobre el Lenguaje Inclusivo y no Discriminatorio",
+      "La Instrucción relativa a la incorporación de cláusulas sociales de género en los contratos"
+    ],
+    "correct": 1,
+    "exp": "El Plan cita entre la normativa municipal: 'Decreto de aprobación de la Instrucción sobre el Lenguaje Inclusivo y no Discriminatorio en los documentos administrativos del Ayuntamiento de Zaragoza de fecha 3 de febrero de 2017...'.",
+    "fuente": "Marco normativo, apartado 2.5 Normativa Municipal, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el Marco Conceptual del II Plan de Igualdad de Zaragoza, ¿cómo se denomina el conjunto de medidas correctoras de situaciones de desigualdad que, aplicadas con carácter temporal, producen un efecto beneficioso sobre la posición de las mujeres en el mercado de trabajo?",
+    "options": [
+      "Discriminación positiva",
+      "Presencia equilibrada",
+      "Acción positiva"
+    ],
+    "correct": 2,
+    "exp": "El Marco Conceptual define: 'Acción positiva: Conjunto de medidas correctoras de situaciones de desigualdad que, aplicadas con carácter temporal, producen un efecto beneficioso sobre la condición y la posición de las mujeres en el mercado de trabajo... (art. 11 LO 3/2007)'.",
+    "fuente": "Marco conceptual, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el Marco Conceptual del II Plan de Igualdad de Zaragoza, la discriminación indirecta por razón de sexo tiene lugar cuando se establecen condiciones formalmente neutras que ponen a las personas de un sexo en desventaja frente a las del otro, salvo que:",
+    "options": [
+      "Puedan justificarse objetivamente por una causa objetiva y un fin legítimo",
+      "Se trate de una práctica habitual y consolidada en el sector de actividad",
+      "Lo decida discrecionalmente la persona empleadora"
+    ],
+    "correct": 0,
+    "exp": "El Marco Conceptual define: 'La discriminación indirecta tiene lugar cuando se establecen condiciones formalmente neutras, pero que ponen a las personas de un sexo en desventaja frente a las personas del otro, y carecen además de una causa objetiva y justificada para alcanzar un fin legítimo (art. 6.2 LO 3/2007)'.",
+    "fuente": "Marco conceptual, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el Marco Conceptual del II Plan de Igualdad de Zaragoza, la 'transversalidad de género o mainstreaming' consiste en la incorporación de la perspectiva de igualdad en:",
+    "options": [
+      "Únicamente los presupuestos generales del Ayuntamiento",
+      "Los distintos niveles y etapas que conforman el proceso de formulación, ejecución y evaluación de las políticas públicas",
+      "Los procesos judiciales de forma exclusiva"
+    ],
+    "correct": 1,
+    "exp": "El Marco Conceptual define: 'Transversalidad de género o Mainstreaming: Incorporación de la perspectiva de igualdad en los distintos niveles y etapas que conforman el proceso de formulación, ejecución y evaluación de las políticas públicas, de manera que mujeres y hombres puedan beneficiarse del impacto de la distribución de los recursos'.",
+    "fuente": "Marco conceptual, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apartado 4 (Partes Suscriptoras) del II Plan de Igualdad de Zaragoza, ¿cuál de las siguientes organizaciones sindicales NO figura entre las presentes en la Comisión Negociadora del Plan?",
+    "options": [
+      "CGT",
+      "STAZ",
+      "USO"
+    ],
+    "correct": 2,
+    "exp": "El Plan enumera: 'Las organizaciones sindicales presentes han sido: CCOO, CGT, CSIF, FORZAPOL, OSTA, STAZ y UGT.' USO no aparece en esa relación.",
+    "fuente": "Partes suscriptoras, apartado 4, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apartado 5.1 (Ámbito Personal) del II Plan de Igualdad de Zaragoza, además de la totalidad del personal funcionario y laboral del Ayuntamiento, el Plan alcanza a sus organismos autónomos que no tengan un plan propio, concretamente:",
+    "options": [
+      "Patronatos y Sociedades que se adhieran al acuerdo de condiciones de trabajo comunes del personal del Ayuntamiento",
+      "Solo a las empresas concesionarias de servicios públicos municipales",
+      "Exclusivamente al personal funcionario de carrera"
+    ],
+    "correct": 0,
+    "exp": "El apartado 5.1 dice: 'El ámbito de aplicación del presente Plan alcanza a la totalidad del personal funcionario y laboral del Ayuntamiento de Zaragoza, así como a sus organismos autónomos (Patronatos y Sociedades) que no tengan uno propio y se adhieran al acuerdo de condiciones de trabajo comunes del personal del Ayuntamiento de Zaragoza...'.",
+    "fuente": "Ámbito de aplicación, apartado 5.1 Ámbito Personal, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apartado 5.3 (Ámbito Temporal) del II Plan de Igualdad de Zaragoza, la entrada en vigor del Plan se produce en el momento en que:",
+    "options": [
+      "Se firme por la Comisión Negociadora",
+      "Sea aprobado por el Gobierno de Zaragoza y publicado en el Boletín Oficial de la Provincia",
+      "Comience el ejercicio presupuestario siguiente"
+    ],
+    "correct": 1,
+    "exp": "El apartado 5.3 establece: 'Su entrada en vigor se producirá en el momento en que sea aprobado por el Gobierno de Zaragoza y publicado en el Boletín Oficial de la Provincia.'",
+    "fuente": "Ámbito de aplicación, apartado 5.3 Ámbito Temporal, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apartado 6 (Metodología) del II Plan de Igualdad de Zaragoza, el Plan se califica como 'plan en proceso continuo' porque:",
+    "options": [
+      "Carece de fecha de finalización predeterminada por ley",
+      "Depende exclusivamente de la disponibilidad presupuestaria de cada ejercicio",
+      "Mantiene la vigencia de sus acciones en tanto no se elimine la desigualdad detectada, o hasta que se apruebe un nuevo plan"
+    ],
+    "correct": 2,
+    "exp": "El apartado 6 describe: 'Es un plan en proceso continuo, que mantiene la vigencia de sus acciones en tanto no se elimine la desigualdad detectada en el ámbito del que se ocupan, o hasta que se apruebe un nuevo plan.'",
+    "fuente": "Metodología, apartado 6, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apartado 7 (Diagnóstico de la plantilla) del II Plan de Igualdad de Zaragoza, el análisis del personal municipal para elaborar el Diagnóstico se ha realizado sobre la extracción de datos del año:",
+    "options": [
+      "2019",
+      "2020",
+      "2021"
+    ],
+    "correct": 0,
+    "exp": "El apartado 7 señala: 'este análisis se ha realizado sobre la extracción de datos del personal municipal del año 2019.'",
+    "fuente": "Diagnóstico de la plantilla, apartado 7, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según los datos del Diagnóstico recogidos en el II Plan de Igualdad de Zaragoza, la plantilla municipal a 30 de junio de 2019 asciende a 5.019 personas, de las cuales el porcentaje de hombres es:",
+    "options": [
+      "36,7%",
+      "63,3%",
+      "72,4%"
+    ],
+    "correct": 1,
+    "exp": "El Diagnóstico indica: 'El Ayuntamiento de Zaragoza presenta a 30 de junio de 2019 una plantilla de 5.019 personas de las que 3.179 (63,3%) son hombres y 1.840 (36,7%) son mujeres.'",
+    "fuente": "Diagnóstico de la plantilla, apartado 7, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el Diagnóstico del II Plan de Igualdad de Zaragoza, en el análisis de las retribuciones se aprecia una diferencia porcentual a favor de los hombres en las retribuciones totales de los diferentes puestos de trabajo de:",
+    "options": [
+      "36,4 puntos porcentuales",
+      "10 puntos porcentuales",
+      "2,3 puntos porcentuales"
+    ],
+    "correct": 2,
+    "exp": "El Diagnóstico señala: 'En el análisis de las retribuciones se aprecia una diferencia de 2,3 puntos porcentuales a favor de los hombres en las retribuciones totales de los diferentes puestos de trabajo acumulando todos los conceptos retributivos.'",
+    "fuente": "Diagnóstico de la plantilla, apartado 7, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el Diagnóstico del II Plan de Igualdad de Zaragoza, en materia de representación sindical, ¿qué órgano presenta una presencia mayoritaria de mujeres, con un 77,8% frente a un 22,2% de hombres?",
+    "options": [
+      "El Comité de Empresa",
+      "El Gobierno de Zaragoza",
+      "La Comisión Negociadora"
+    ],
+    "correct": 0,
+    "exp": "El Diagnóstico indica: 'en el Comité de Empresa se invierten estos datos, ya que hay una presencia mayoritaria del 77,8% de mujeres y el 22,2% de hombres', frente a la Junta de Personal, donde ocurre lo contrario (27,6% mujeres / 72,4% hombres).",
+    "fuente": "Diagnóstico de la plantilla, apartado 7, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la relación de Ejes y Líneas de Actuación del II Plan de Igualdad de Zaragoza, ¿cuántas líneas de actuación integran el Eje de Actuación B (Gestión de Recursos Humanos)?",
+    "options": [
+      "Dos",
+      "Tres",
+      "Cinco"
+    ],
+    "correct": 1,
+    "exp": "El Plan indica: 'EL EJE DE ACTUACIÓN B tiene tres líneas de actuación: Línea B.1 Acceso...; Línea B.2 Plantilla, RPT y promoción profesional...; Línea B.3 Retribuciones...'.",
+    "fuente": "Eje B, resumen de líneas de actuación, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el resumen numérico de Ejes y Líneas del II Plan de Igualdad de Zaragoza, la Línea A.1 (Comunicación y sensibilización) del Eje A cuenta con dos objetivos específicos y:",
+    "options": [
+      "Tres acciones",
+      "Ocho acciones",
+      "Seis acciones"
+    ],
+    "correct": 2,
+    "exp": "El Plan indica que el Eje A tiene cuatro líneas de actuación, y respecto a la primera: 'Línea A.1... con dos objetivos específicos y 6 acciones.'",
+    "fuente": "Eje A, resumen de líneas de actuación, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el objetivo específico A.4.1 del II Plan de Igualdad de Zaragoza (Línea A.4, Estructura y órganos municipales para el seguimiento del Plan), su finalidad es:",
+    "options": [
+      "Coordinar la planificación, ejecución, seguimiento y evaluación de las acciones del PIEEM desde la institución",
+      "Suprimir la Comisión de Igualdad tras la aprobación del Plan",
+      "Externalizar a una consultora el seguimiento del Plan"
+    ],
+    "correct": 0,
+    "exp": "El objetivo específico A.4.1 se define como: 'Coordinar la planificación, ejecución, seguimiento y evaluación de las acciones del PIEEM desde la institución.'",
+    "fuente": "Eje A, Línea A.4, Objetivo A.4.1, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la acción A.1.2.3 del II Plan de Igualdad de Zaragoza (objetivo A.1.2, Línea A.1), se debe impulsar la presentación de candidaturas equilibradas entre mujeres y hombres en:",
+    "options": [
+      "La composición del Gobierno de Zaragoza",
+      "La nominación y concesión de distinciones",
+      "Las mesas de negociación del Pacto-Convenio"
+    ],
+    "correct": 1,
+    "exp": "La acción A.1.2.3 consiste en: 'Impulsar la presentación de candidaturas equilibradas entre mujeres y hombres en la nominación y concesión de distinciones.'",
+    "fuente": "Eje A, Línea A.1, acción A.1.2.3, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la acción A.2.1.3 del II Plan de Igualdad de Zaragoza (Línea A.2, Participación y negociación), se pretende impulsar que la representación sindical adopte el compromiso de presentar en todos sus procesos electorales municipales:",
+    "options": [
+      "Listas exclusivamente femeninas",
+      "Listas abiertas sin criterio de género",
+      "Listas cremallera"
+    ],
+    "correct": 2,
+    "exp": "La acción A.2.1.3 consiste en: 'Impulsar que la representación sindical adopte el compromiso de presentar listas cremallera en todos sus procesos electorales municipales.'",
+    "fuente": "Eje A, Línea A.2, acción A.2.1.3, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la acción B.2.3.1 del II Plan de Igualdad de Zaragoza (objetivo B.2.3, Línea B.2), se debe realizar un estudio para:",
+    "options": [
+      "Identificar las causas que dificultan el acceso de las mujeres a los puestos de trabajo de mayor responsabilidad",
+      "Determinar el salario mínimo interprofesional aplicable",
+      "Evaluar la satisfacción general de la plantilla con su puesto"
+    ],
+    "correct": 0,
+    "exp": "La acción B.2.3.1 consiste en: 'Realizar un estudio para identificar las causas que dificultan el acceso de las mujeres a los puestos de trabajo de mayor responsabilidad para adoptar las medidas oportunas para su corrección.'",
+    "fuente": "Eje B, Línea B.2, acción B.2.3.1, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la acción C.1.1.1 del II Plan de Igualdad de Zaragoza (objetivo C.1.1, Línea C.1), se debe realizar un estudio sobre:",
+    "options": [
+      "El absentismo laboral por causas médicas",
+      "Las causas de denegación de las medidas de conciliación de la vida laboral, familiar y personal",
+      "La satisfacción del personal con su horario laboral"
+    ],
+    "correct": 1,
+    "exp": "La acción C.1.1.1 consiste en: 'Realizar un estudio sobre las causas de denegación de las medidas de conciliación de la vida laboral, familiar y personal, para detectar los motivos que dificultan el ejercicio de las mismas.'",
+    "fuente": "Eje C, Línea C.1, acción C.1.1.1, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la acción D.1.2.2 del II Plan de Igualdad de Zaragoza (objetivo D.1.2, Línea D.1), se debe adecuar el diseño de equipos y ropa de trabajo teniendo en cuenta las características físicas de mujeres y hombres, incluyendo:",
+    "options": [
+      "La antigüedad en el puesto",
+      "El área funcional de destino",
+      "La situación de embarazo"
+    ],
+    "correct": 2,
+    "exp": "La acción D.1.2.2 consiste en: 'Adecuar el diseño de equipos y ropa de trabajo teniendo en cuenta las características físicas de mujeres y hombres, incluyendo la situación de embarazo.'",
+    "fuente": "Eje D, Línea D.1, acción D.1.2.2, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la acción D.3.1.3 del II Plan de Igualdad de Zaragoza (objetivo D.3.1, Línea D.3), una de las acciones previstas para reforzar las herramientas de prevención frente al acoso es:",
+    "options": [
+      "La revisión y actualización del protocolo",
+      "La supresión del Comité de Asesoramiento",
+      "La creación de un cuerpo de inspección propio"
+    ],
+    "correct": 0,
+    "exp": "La acción D.3.1.3 consiste en: 'Revisión y actualización del protocolo', dentro del objetivo específico D.3.1 de reforzar herramientas de prevención frente al acoso sexual, acoso por razón de sexo y acoso por orientación sexual.",
+    "fuente": "Eje D, Línea D.3, acción D.3.1.3, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la acción B.3.1.1 del II Plan de Igualdad de Zaragoza (objetivo B.3.1, Línea B.3), se debe realizar anualmente un informe de retribuciones básicas y complementarias con datos:",
+    "options": [
+      "Desagregados exclusivamente por antigüedad",
+      "Desagregados por sexo",
+      "Desagregados únicamente por área geográfica de destino"
+    ],
+    "correct": 1,
+    "exp": "La acción B.3.1.1 consiste en: 'Realizar un informe anual de retribuciones, tanto básicas como complementarias, con datos desagregados por sexo', dentro del objetivo B.3.1 de cumplir con el principio de transparencia retributiva.",
+    "fuente": "Eje B, Línea B.3, acción B.3.1.1, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el objetivo específico C.2.1 del II Plan de Igualdad de Zaragoza (Línea C.2, Corresponsabilidad), su finalidad es sensibilizar al personal municipal sobre la importancia de la corresponsabilidad en el ámbito de:",
+    "options": [
+      "La formación continua del personal",
+      "La seguridad y salud laboral",
+      "Los cuidados y el trabajo doméstico"
+    ],
+    "correct": 2,
+    "exp": "El objetivo C.2.1 se define como: 'Sensibilizar al personal municipal sobre la importancia de la corresponsabilidad en el ámbito de los cuidados y el trabajo doméstico.'",
+    "fuente": "Eje C, Línea C.2, Objetivo C.2.1, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apartado 10 del II Plan de Igualdad de Zaragoza, la Comisión de Igualdad está formada por representantes del equipo de Gobierno, de los servicios municipales con competencias en la implantación de las acciones del Plan, de todos los sindicatos con derecho a la negociación colectiva y por:",
+    "options": [
+      "Las personas que ocupen los puestos de agente de igualdad",
+      "Un magistrado del Tribunal Superior de Justicia de Aragón",
+      "Dos personas elegidas por sorteo entre la plantilla"
+    ],
+    "correct": 0,
+    "exp": "El apartado 10 dice: 'La Comisión de Igualdad está formada por representantes de: el equipo de Gobierno del Ayuntamiento, de los servicios municipales con competencias en la implantación de las acciones del Plan, de todos los sindicatos que legalmente tengan derecho a la negociación colectiva, y las personas que ocupen los puestos de agente de igualdad.'",
+    "fuente": "Implementación, seguimiento y evaluación · La Comisión de Igualdad, apartado 10, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Entre las funciones de la Comisión de Igualdad recogidas en el apartado 10 del II Plan de Igualdad de Zaragoza se encuentra elaborar propuestas para elevar a las mesas de negociación dirigidas a erradicar:",
+    "options": [
+      "La rotación del personal directivo",
+      "La segregación ocupacional horizontal y vertical, así como cualquier forma de discriminación directa o indirecta",
+      "Los conflictos entre secciones sindicales"
+    ],
+    "correct": 1,
+    "exp": "Entre las funciones de la Comisión se recoge: 'Elaborar propuestas para elevar a las mesas de negociación dirigidas a erradicar la segregación ocupacional horizontal y vertical, así como cualquier forma de discriminación directa o indirecta.'",
+    "fuente": "Implementación, seguimiento y evaluación · La Comisión de Igualdad, apartado 10, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apartado 'Seguimiento anual' del II Plan de Igualdad de Zaragoza, el informe de seguimiento anual, que se incluirá en la Memoria anual de la Comisión de Igualdad, será elaborado desde:",
+    "options": [
+      "El Servicio de Relaciones Laborales",
+      "La Asesoría Jurídica Municipal",
+      "La Unidad Municipal de Igualdad"
+    ],
+    "correct": 2,
+    "exp": "El apartado 'Seguimiento anual' establece: 'Será elaborado desde la Unidad Municipal de Igualdad, utilizando las fichas de recogida de datos de las acciones (ver modelo en el Anexo III) para el análisis de la información relativa a los indicadores...'.",
+    "fuente": "Implementación, seguimiento y evaluación · Seguimiento anual, apartado 10, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apartado 11 (Calendario de actuaciones) del II Plan de Igualdad de Zaragoza, durante el último año de vigencia del Plan se realizará:",
+    "options": [
+      "El diagnóstico de la situación de la plantilla, para iniciar la elaboración y negociación del siguiente Plan de Igualdad",
+      "La disolución automática de la Comisión de Igualdad",
+      "La derogación del Protocolo frente al acoso"
+    ],
+    "correct": 0,
+    "exp": "El apartado 11 indica: 'Durante el último año de vigencia de este Plan se realizará el diagnóstico de la situación de la plantilla para que se apruebe en el seno de la Comisión de Igualdad. Con ello se iniciará el proceso de elaboración y negociación del siguiente Plan de Igualdad.'",
+    "fuente": "Calendario de actuaciones, apartado 11, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la Declaración de Principios del Anexo II (Protocolo de actuación frente al acoso) del II Plan de Igualdad de Zaragoza, el acoso sexual, el acoso por razón de sexo y el acoso por orientación sexual vulneran, entre otros, el derecho de la plantilla a:",
+    "options": [
+      "La libre sindicación exclusivamente",
+      "La consideración debida a su dignidad",
+      "La negociación colectiva sectorial"
+    ],
+    "correct": 1,
+    "exp": "La Declaración de Principios enumera entre los derechos vulnerados: 'El derecho a la Igualdad en mujeres y hombres. El derecho a la consideración debida a su dignidad. El derecho a su integridad física y moral...'.",
+    "fuente": "Anexo II.I, Declaración de principios, Protocolo de acoso, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apartado III (Alcance) del Anexo II del II Plan de Igualdad de Zaragoza, cuando se produce un caso de acoso entre personal municipal y personal de una empresa externa contratada, se aplicarán:",
+    "options": [
+      "Únicamente las normas internas de la empresa externa",
+      "El Protocolo solo si la empresa externa lo suscribe voluntariamente",
+      "Los mecanismos de coordinación empresarial"
+    ],
+    "correct": 2,
+    "exp": "El apartado III establece: 'Cuando se produzca un caso de este tipo entre personal municipal y personal de una empresa externa contratada se aplicarán los mecanismos de coordinación empresarial.'",
+    "fuente": "Anexo II.III, Alcance, Protocolo de acoso, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apartado IV (Definiciones) del Anexo II del II Plan de Igualdad de Zaragoza, el acoso sexual contempla dos tipos diferenciados: el acoso de intercambio o chantaje sexual y:",
+    "options": [
+      "El acoso ambiental",
+      "El acoso vertical",
+      "El acoso preventivo"
+    ],
+    "correct": 0,
+    "exp": "El apartado IV define: 'El acoso sexual contempla dos tipos diferenciados: el acoso de intercambio o chantaje sexual y el acoso ambiental.'",
+    "fuente": "Anexo II.IV, Definiciones, Protocolo de acoso, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apartado VII (Figuras Garantes del Procedimiento) del Anexo II del II Plan de Igualdad de Zaragoza, la Asesoría Confidencial estará compuesta por un máximo de:",
+    "options": [
+      "Cinco personas",
+      "Diez personas",
+      "Tres personas"
+    ],
+    "correct": 1,
+    "exp": "El apartado VII establece: 'La Asesoría Confidencial estará compuesta por un máximo de diez personas.'",
+    "fuente": "Anexo II.VII, Figuras garantes del procedimiento, Protocolo de acoso, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apartado VII (Figuras Garantes del Procedimiento) del Anexo II del II Plan de Igualdad de Zaragoza, el Comité de Asesoramiento estará formado por dos técnicos/as del Servicio de Prevención y Salud Laboral, una persona de la Asesoría Confidencial, un/a abogado/a de la Asesoría Jurídica, un/a Psicólogo/a del Servicio de Igualdad y:",
+    "options": [
+      "Un representante de la Alcaldía",
+      "Tres agentes de la Policía Local",
+      "Dos representantes sindicales"
+    ],
+    "correct": 2,
+    "exp": "El apartado VII indica: 'Estará formado por: dos técnicos/as del Servicio Prevención y Salud Laboral, una persona de la Asesoría Confidencial, un abogado/a de la Asesoría Jurídica, un Psicólogo/a del Servicio de Igualdad y dos representantes Sindicales.'",
+    "fuente": "Anexo II.VII, Figuras garantes del procedimiento, Protocolo de acoso, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apartado V (Medidas Preventivas) del Anexo II del II Plan de Igualdad de Zaragoza, la formación específica sobre el Protocolo en los cursos de reciclaje del personal municipal debe hacer especial hincapié en:",
+    "options": [
+      "Mandos intermedios y jefaturas de servicio",
+      "El personal de reciente incorporación exclusivamente",
+      "El personal en situación de excedencia"
+    ],
+    "correct": 0,
+    "exp": "El apartado V incluye entre las medidas preventivas: 'Formación específica sobre el Protocolo en los cursos de reciclaje del personal municipal, enmarcados en el Plan de Igualdad para Empleados y Empleadas, con especial hincapié en mandos intermedios y jefaturas de servicio.'",
+    "fuente": "Anexo II.V, Medidas preventivas, Protocolo de acoso, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apartado VIII.A (Presentación de la denuncia) del Anexo II del II Plan de Igualdad de Zaragoza, ¿qué ocurre con las denuncias formuladas de forma anónima?",
+    "options": [
+      "Se tramitan con reserva reforzada de identidad",
+      "No se admitirán a trámite",
+      "Se remiten directamente al Comité de Asesoramiento sin análisis previo"
+    ],
+    "correct": 1,
+    "exp": "El apartado VIII.A establece: 'La denuncia podrá ser de forma verbal o escrita. Si fuese verbal la persona denunciante deberá ratificarla por escrito. No se admitirán a trámite las denuncias anónimas.'",
+    "fuente": "Anexo II.VIII.A, Presentación de la denuncia, Protocolo de acoso, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apartado VIII.C (Procedimiento Informal) del Anexo II del II Plan de Igualdad de Zaragoza, si en el curso del procedimiento informal no se alcanza acuerdo alguno entre las partes, se iniciará:",
+    "options": [
+      "Una mediación obligatoria ante la jurisdicción social",
+      "Un expediente disciplinario directo, sin más trámites",
+      "El procedimiento formal"
+    ],
+    "correct": 2,
+    "exp": "El apartado VIII.C recoge entre los posibles resultados del procedimiento informal: 'c) No se alcanza acuerdo alguno y se inicia el procedimiento formal. En este supuesto se procurará la protección suficiente de la víctima y de la persona denunciada...'.",
+    "fuente": "Anexo II.VIII.C, Procedimiento Informal, Protocolo de acoso, II Plan de Igualdad Zaragoza",
+    "confianza": "alta"
   }
 ],
 32:[

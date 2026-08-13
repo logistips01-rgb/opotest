@@ -362,6 +362,44 @@ opciones y se volcaron al tema 3 ("Organización territorial del Estado.
 Estatuto de Aragón"), sin agentes adicionales — 260 nuevas, 0 duplicadas.
 Banco de Policía Local: de 3.909 a **4.169 preguntas**.
 
+## Tema 2 · Igualdad y violencia de género — PRIMERA VUELTA CERRADA
+
+**259 preguntas** (de 100 que había), todas de 4 opciones. 4 lotes de 40,
+sobre tres fuentes distintas: la LO 3/2007, la Ley 4/2007 de Aragón y el II
+Plan de Igualdad municipal.
+
+| Lote | Tramo | Confirmadas | Corregidas | Rechazadas |
+|---|---|---|---|---|
+| A | LO 3/2007, Título I "El principio de igualdad y la tutela contra la discriminación" (arts. 3-13) | 39 | 0 | 0 (1 apartada por duplicado ya en el banco) |
+| B | Ley 4/2007 de Aragón, Cap. I "Disposiciones generales" (arts. 1-4) y Cap. IV Sección 1.ª "Centros de protección y apoyo" (arts. 18-23) | 40 | 0 | 0 |
+| C | Ley 4/2007 de Aragón, Cap. IV Sección 2.ª "Servicios de protección y apoyo" (arts. 24-31) | 39 | 1 | 0 |
+| D | II Plan de Igualdad del Ayuntamiento de Zaragoza (2024-2027): marco normativo/conceptual, ejes A-D, Comisión de Igualdad, Protocolo de acoso (Anexo II) | 40 | 0 | 0 |
+
+Notas:
+- El banco existente (100 preguntas) ya estaba muy bien acotado al alcance
+  real del tema — a diferencia del tema 1, no hizo falta ninguna
+  depuración. Se verificó explícitamente que el título oficial del tema
+  solo cubre el Título I de la LO 3/2007 y, de la Ley 4/2007, solo el
+  Cap. I y el Cap. IV — se instruyó a los redactores para que no tocaran
+  los Caps. II, III ni V de la Ley 4/2007, ni el resto de títulos de la LO
+  3/2007.
+- Localicé y descargué el documento primario real del tercer bloque del
+  tema — el "II Plan de Igualdad para empleadas y empleados del
+  Ayuntamiento de Zaragoza (2024-2027)" (BOPZ n.º 16, 20-ene-2024,
+  `tools/temarios/plan-igualdad-zaragoza-2024-2027.pdf`, 67 páginas),
+  guardado de forma permanente como fuente oficial, igual que las bases
+  de las convocatorias.
+- El lote C tuvo una corrección de calidad: una pregunta usaba distractores
+  de un tipo distinto al de la respuesta correcta (nombres de
+  Departamentos frente a una finalidad), lo que la hacía adivinable por
+  descarte; se sustituyeron los tres distractores por otras finalidades
+  plausibles, sin tocar la opción correcta.
+
+**Aprovechado para Policía Local**: las 259 preguntas se redujeron a 3
+opciones y se volcaron al tema 31 ("Igualdad de género y violencia de
+género"), sin agentes adicionales — 259 nuevas, 0 duplicadas. Banco de
+Policía Local: de 4.169 a **4.428 preguntas**.
+
 ## Policía Local Zaragoza · importación de la Constitución desde Aux. Admin. (11-ago-2026)
 
 Segunda importación cruzada, esta vez con conversión real de 4→3 opciones
