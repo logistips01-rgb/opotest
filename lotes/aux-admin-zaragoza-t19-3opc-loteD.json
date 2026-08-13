@@ -1,0 +1,494 @@
+[
+  {
+    "q": "El acceso a la categoría superior dentro de las subescalas de Secretaría e Intervención-Tesorería exigirá, en todo caso, una antigüedad mínima de servicio activo en la categoría de entrada de:",
+    "options": [
+      "Un año",
+      "Tres años",
+      "Dos años"
+    ],
+    "correct": 2,
+    "exp": "El art. 20.1 RD 128/2018 exige al menos dos años de antigüedad de servicio activo en la categoría de entrada de la subescala respectiva, computados a partir de la publicación del nombramiento en el «Boletín Oficial del Estado». El acceso se acuerda por el Ministerio de Hacienda y Función Pública, previa convocatoria pública.",
+    "fuente": "Art. 20.1 RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "El acceso a la categoría superior dentro de la misma subescala se llevará a cabo mediante alguno de los siguientes procedimientos:",
+    "options": [
+      "Únicamente mediante libre designación entre funcionarios de la categoría de entrada",
+      "Únicamente mediante concurso-oposición convocado por cada Corporación Local",
+      "Por concurso de méritos entre funcionarios de la categoría de entrada, o mediante la superación de pruebas de aptitud"
+    ],
+    "correct": 2,
+    "exp": "El art. 20.2 RD 128/2018 prevé dos procedimientos: concurso de méritos, que se resuelve aplicando el baremo de méritos generales del art. 32.1, párrafos a) a f), o la superación de pruebas de aptitud, cuya gestión podrá encomendarse al INAP. El número de plazas por cada vía se concreta en la convocatoria.",
+    "fuente": "Art. 20.2 RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Para promocionar desde la subescala de Secretaría-Intervención a las subescalas de Secretaría o de Intervención-Tesorería, los funcionarios deberán, en todo caso:",
+    "options": [
+      "Tener dos años de servicio activo en la subescala y poseer la titulación del artículo 18 del RD 128/2018",
+      "Tener cinco años de servicio activo en la subescala y poseer la titulación del artículo 18 del RD 128/2018",
+      "Tener tres años de servicio activo en la subescala, sin exigencia de titulación adicional"
+    ],
+    "correct": 0,
+    "exp": "El art. 21.1 RD 128/2018 exige, en todo caso, dos años de servicio activo en la subescala de Secretaría-Intervención y poseer la titulación a que se refiere el art. 18. La promoción se produce mediante la superación de los correspondientes procesos selectivos, en los que puede establecerse la exención de pruebas sobre conocimientos ya exigidos.",
+    "fuente": "Art. 21.1 RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "El primer destino asignado a los funcionarios de nuevo ingreso tiene carácter definitivo y en él se deberá permanecer, para volver a concursar o solicitar un nombramiento provisional, un mínimo de:",
+    "options": [
+      "Dos años",
+      "Un año",
+      "Tres años"
+    ],
+    "correct": 0,
+    "exp": "El art. 22.f) RD 128/2018 establece que el primer destino tiene carácter definitivo y que en él se deberá permanecer un mínimo de dos años para volver a concursar o solicitar un nombramiento provisional, sin perjuicio de los supuestos excepcionales del art. 49.3.",
+    "fuente": "Art. 22.f) RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "En el Registro Integrado de funcionarios de Administración Local con habilitación de carácter nacional, las anotaciones referentes a las tomas de posesión y a los ceses en puestos reservados las efectúan:",
+    "options": [
+      "El Ministerio de Hacienda y Función Pública",
+      "Las Comunidades Autónomas",
+      "Los propios funcionarios interesados por vía electrónica"
+    ],
+    "correct": 1,
+    "exp": "Según el art. 23 RD 128/2018, las Comunidades Autónomas anotan la clasificación de los puestos reservados, los nombramientos definitivos y provisionales, las tomas de posesión y los ceses, así como las sanciones disciplinarias de su competencia. El Ministerio inscribe los nombramientos como funcionarios de carrera, las sanciones de su competencia, la pérdida de la condición de funcionario, los méritos generales y las situaciones administrativas.",
+    "fuente": "Art. 23 RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Transcurrido el plazo para la prescripción de una sanción disciplinaria impuesta a un funcionario con habilitación de carácter nacional, la cancelación de la anotación correspondiente:",
+    "options": [
+      "Se acordará de oficio por el órgano competente para imponer la sanción, notificándolo a los interesados",
+      "Requerirá solicitud previa del interesado dirigida al Ministerio de Hacienda y Función Pública",
+      "Se acordará de oficio por la Comunidad Autónoma, cualquiera que fuera el órgano sancionador"
+    ],
+    "correct": 0,
+    "exp": "El art. 68 RD 128/2018 dispone que, transcurrido el plazo para la prescripción de la sanción, el órgano competente para imponerla acordará de oficio la cancelación de la anotación en el expediente personal y lo notificará a los interesados.",
+    "fuente": "Art. 68 RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Las permutas de puestos entre dos funcionarios de Administración Local con habilitación de carácter nacional, cuando los puestos exceden del ámbito territorial de una Comunidad Autónoma, podrán ser autorizadas por:",
+    "options": [
+      "La Comunidad Autónoma en la que radique el puesto de mayor población",
+      "La Dirección General de la Función Pública",
+      "El Pleno de cada una de las Corporaciones Locales afectadas"
+    ],
+    "correct": 1,
+    "exp": "El art. 27.1.c).3.º RD 128/2018 permite a las Comunidades Autónomas autorizar las permutas cuando ambos puestos se encuentren en su ámbito territorial, de acuerdo con su normativa específica; cuando excedan de dicho ámbito, podrá autorizarlas la Dirección General de la Función Pública. La permuta se considera nombramiento de carácter definitivo.",
+    "fuente": "Art. 27.1.c).3.º RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Los concursos ordinarios de méritos para la provisión de puestos reservados a funcionarios con habilitación de carácter nacional se convocan:",
+    "options": [
+      "Con carácter bienal por el Pleno de las Corporaciones Locales, publicándose por el Ministerio",
+      "Con carácter anual por el órgano competente de la Comunidad Autónoma, publicándose por cada Corporación",
+      "Con carácter anual por los Presidentes de las Corporaciones Locales y se publican simultáneamente por el órgano competente de la Comunidad Autónoma"
+    ],
+    "correct": 2,
+    "exp": "El art. 29.1 RD 128/2018 atribuye la convocatoria anual de los concursos ordinarios a los Presidentes de las Corporaciones Locales, con publicación simultánea por el órgano competente de la Comunidad Autónoma.",
+    "fuente": "Art. 29.1 RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "La duración de los procedimientos de provisión de puestos reservados a funcionarios con habilitación de carácter nacional no podrá exceder de:",
+    "options": [
+      "Seis meses a partir de la publicación conjunta en el «Boletín Oficial del Estado» de las respectivas convocatorias",
+      "Tres meses a partir de la publicación conjunta en el «Boletín Oficial del Estado» de las respectivas convocatorias",
+      "Un año a partir de la publicación conjunta en el «Boletín Oficial del Estado» de las respectivas convocatorias"
+    ],
+    "correct": 0,
+    "exp": "El art. 29.3 RD 128/2018 fija en seis meses el plazo máximo de duración de los procedimientos de provisión, a contar desde la publicación conjunta en el «Boletín Oficial del Estado» de las respectivas convocatorias.",
+    "fuente": "Art. 29.3 RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Sobre un total de 30 puntos, la puntuación máxima que pueden alcanzar los méritos generales en los concursos de provisión de puestos reservados es de:",
+    "options": [
+      "24 puntos",
+      "26 puntos",
+      "21 puntos"
+    ],
+    "correct": 0,
+    "exp": "El art. 31.1 RD 128/2018 establece que, sobre un total de 30 puntos, la puntuación máxima de méritos generales será de 24 puntos; las Comunidades Autónomas pueden fijar méritos autonómicos hasta 4,5 puntos (art. 31.2) y las Corporaciones méritos específicos hasta 1,5 puntos (art. 31.3).",
+    "fuente": "Art. 31.1 RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Las bases de cada concurso ordinario, configuradas con arreglo al modelo de convocatoria y bases comunes anexo al RD 128/2018, serán aprobadas por:",
+    "options": [
+      "El Pleno de la Corporación respectiva",
+      "El órgano competente de la Comunidad Autónoma",
+      "El Alcalde o Presidente de la Corporación respectiva"
+    ],
+    "correct": 2,
+    "exp": "El art. 35 RD 128/2018 atribuye la aprobación de las bases de cada concurso al Alcalde o Presidente de la Corporación respectiva, con el contenido que el propio artículo enumera (clase de los puestos, subescala y categoría, niveles y complementos, méritos específicos, composición del tribunal y, en su caso, previsión de entrevista).",
+    "fuente": "Art. 35 RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "No podrán participar en los concursos los funcionarios que no lleven dos años en el último destino obtenido con carácter definitivo en cualquier Administración Pública, salvo que:",
+    "options": [
+      "Obtengan autorización expresa del Ministerio de Hacienda y Función Pública",
+      "El puesto solicitado radique en la misma Comunidad Autónoma",
+      "Concursen a puestos reservados a su subescala y categoría en la misma Corporación"
+    ],
+    "correct": 2,
+    "exp": "El art. 36.2.d) RD 128/2018 impide concursar a quienes no lleven dos años en el último destino definitivo, salvo que lo hagan a puestos reservados a su subescala y categoría en la misma Corporación. El art. 36.3 añade como excepción el supuesto del art. 27.1.c).2.º (reserva de puesto procedente de servicios especiales).",
+    "fuente": "Art. 36.2.d) RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Los Presidentes de las Corporaciones Locales con puestos vacantes deben aprobar la convocatoria de concurso ordinario anual y remitirla a la Comunidad Autónoma respectiva:",
+    "options": [
+      "Dentro de los diez primeros días de enero de cada año, para su publicación conjunta antes del 1 de marzo",
+      "Dentro de los diez primeros días de febrero de cada año, para su publicación conjunta dentro del mismo mes",
+      "Dentro del primer trimestre de cada año, para su publicación conjunta antes del 30 de junio"
+    ],
+    "correct": 1,
+    "exp": "El art. 37 RD 128/2018 obliga a remitir la convocatoria a la Comunidad Autónoma dentro de los diez primeros días de febrero de cada año, para su publicación conjunta dentro del mismo mes. El Ministerio publica en el BOE un extracto de todas las convocatorias, que sirve de base para el cómputo de plazos.",
+    "fuente": "Art. 37 RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "El plazo de presentación de solicitudes para tomar parte en los concursos de provisión de puestos reservados es de:",
+    "options": [
+      "Quince días hábiles a partir de la publicación de la convocatoria en el «Boletín Oficial del Estado»",
+      "Veinte días hábiles a partir de la publicación de la convocatoria en el diario oficial de la Comunidad Autónoma",
+      "Diez días hábiles a partir de la publicación de la convocatoria en el «Boletín Oficial del Estado»"
+    ],
+    "correct": 0,
+    "exp": "El art. 38.1 RD 128/2018 fija el plazo en quince días hábiles a partir de la publicación de la convocatoria en el «Boletín Oficial del Estado». En igual plazo los concursantes comunican al Ministerio el orden de prelación de los puestos solicitados si concursan a más de uno.",
+    "fuente": "Art. 38.1 RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "El Tribunal de valoración del concurso ordinario, de composición técnica incluido su Presidente:",
+    "options": [
+      "Es nombrado por el órgano competente de la Comunidad Autónoma y se compone de un número impar de vocales",
+      "Es nombrado por la Corporación y se compone de un número par de vocales, uno de ellos a propuesta de la Comunidad Autónoma si desea ejercitar tal facultad",
+      "Es nombrado por el Ministerio de Hacienda y Función Pública y todos sus vocales han de ser funcionarios con habilitación de carácter nacional"
+    ],
+    "correct": 1,
+    "exp": "El art. 39.1 RD 128/2018 dispone que el Tribunal es nombrado por la Corporación y está compuesto por un número par de vocales, uno de los cuales se nombra a propuesta de la Comunidad Autónoma si ésta desea ejercitar tal facultad. Al menos un vocal debe ser funcionario con habilitación de carácter nacional de igual o superior categoría que la del puesto convocado.",
+    "fuente": "Art. 39.1 RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "En caso de que dos o más concursantes obtengan la misma puntuación total en un concurso ordinario, el empate se resolverá en primer lugar a favor del candidato que hubiera obtenido:",
+    "options": [
+      "Mayor puntuación global por méritos generales",
+      "Mejor número de orden en el proceso selectivo de ingreso",
+      "Mayor puntuación global por méritos específicos"
+    ],
+    "correct": 2,
+    "exp": "El art. 39.3 RD 128/2018 establece el siguiente orden de desempate en el concurso ordinario: méritos específicos, méritos autonómicos, méritos generales, orden de prelación de los méritos generales según su enumeración en el art. 32 y, en última instancia, orden de prelación en el proceso selectivo.",
+    "fuente": "Art. 39.3 RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "La resolución del concurso ordinario, comprensiva de la totalidad de los candidatos no excluidos según su orden de puntuación, se remitirá por la Corporación al Ministerio de Hacienda y Función Pública dentro de:",
+    "options": [
+      "Los quince días hábiles siguientes a la fecha de la resolución del concurso",
+      "Un mes desde la publicación de la convocatoria en el «Boletín Oficial del Estado»",
+      "Los treinta días hábiles siguientes a la fecha de finalización del plazo de presentación de solicitudes"
+    ],
+    "correct": 2,
+    "exp": "El art. 40.1 RD 128/2018 fija ese plazo en treinta días hábiles siguientes a la finalización del plazo de presentación de solicitudes. Transcurrido dicho plazo, el Ministerio coordina las resoluciones coincidentes y formaliza los nombramientos en el plazo de un mes, publicándolos en el BOE (art. 40.2).",
+    "fuente": "Art. 40.1 RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "El plazo de toma de posesión en el nuevo destino obtenido por concurso es de:",
+    "options": [
+      "Tres días hábiles si se trata de puestos de la misma localidad, o de un mes si se trata de primer destino o de puestos en localidad distinta",
+      "Cinco días hábiles si se trata de puestos de la misma localidad, o de quince días hábiles si se trata de localidad distinta",
+      "Tres días naturales si se trata de puestos de la misma localidad, o de dos meses si se trata de primer destino o de localidad distinta"
+    ],
+    "correct": 0,
+    "exp": "El art. 41.1 RD 128/2018 establece tres días hábiles para puestos de la misma localidad y un mes para el primer destino o puestos en localidad distinta. El plazo se cuenta desde el día siguiente al cese, que debe efectuarse dentro de los tres días hábiles siguientes a la publicación de la resolución del concurso en el BOE.",
+    "fuente": "Art. 41.1 RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Por necesidades del servicio, mediante acuerdo de los Presidentes de las Corporaciones en que haya de cesar y tomar posesión el concursante, el cese y la toma de posesión podrán diferirse hasta un máximo de:",
+    "options": [
+      "Un mes",
+      "Tres meses",
+      "Seis meses"
+    ],
+    "correct": 1,
+    "exp": "El art. 41.2 RD 128/2018 permite diferir el cese y la toma de posesión hasta un máximo de tres meses por necesidades del servicio, mediante acuerdo de los Presidentes de ambas Corporaciones, debiendo el segundo de ellos dar cuenta del acuerdo a la Comunidad Autónoma.",
+    "fuente": "Art. 41.2 RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Los funcionarios que no tomen posesión de los puestos obtenidos en concurso dentro de los plazos establecidos, por causas imputables a ellos, serán declarados de oficio en la situación administrativa de:",
+    "options": [
+      "Suspensión provisional de funciones",
+      "Excedencia voluntaria por interés particular, a contar desde el último día del plazo de toma de posesión",
+      "Excedencia voluntaria por prestación de servicios en otro cuerpo o escala"
+    ],
+    "correct": 1,
+    "exp": "El art. 42.4 RD 128/2018 prevé la declaración de oficio en situación de excedencia voluntaria por interés particular, con efectos desde el último día del plazo de toma de posesión.",
+    "fuente": "Art. 42.4 RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "La convocatoria anual de los puestos vacantes que, encontrándose vacantes, no hubiesen sido convocados por las Corporaciones Locales en el concurso ordinario o hubiesen quedado desiertos en él, corresponde efectuarla supletoriamente a:",
+    "options": [
+      "El Ministerio de Hacienda y Función Pública, mediante concurso unitario",
+      "La Comunidad Autónoma respectiva, mediante concurso subsidiario de ámbito autonómico",
+      "La Diputación Provincial o entidad equivalente, a través de sus servicios de asistencia"
+    ],
+    "correct": 0,
+    "exp": "El art. 43.1 RD 128/2018 encomienda al Ministerio de Hacienda y Función Pública la convocatoria anual supletoria (concurso unitario) de los puestos no convocados, los que quedaron desiertos, los no adjudicados por otras causas y los que resultaron vacantes tras la convocatoria del concurso ordinario cuando se solicite expresamente su inclusión.",
+    "fuente": "Art. 43.1 RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "En cuanto a la participación en el concurso unitario, el RD 128/2018 dispone que:",
+    "options": [
+      "Está prohibida la participación de los funcionarios con nombramiento provisional",
+      "La participación es siempre voluntaria, sin excepción alguna",
+      "Están obligados a participar los funcionarios con nombramiento provisional"
+    ],
+    "correct": 2,
+    "exp": "El art. 44.3 RD 128/2018 remite en materia de participación al art. 36, si bien establece que estarán obligados a participar en el concurso unitario los funcionarios con nombramiento provisional.",
+    "fuente": "Art. 44.3 RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "La convocatoria para cubrir un puesto por el sistema de libre designación corresponde al Presidente de la Corporación y deberá realizarse en el plazo máximo de:",
+    "options": [
+      "Tres meses desde que el puesto se hubiera clasificado a libre designación o hubiese resultado vacante",
+      "Un mes desde que el puesto se hubiera clasificado a libre designación o hubiese resultado vacante",
+      "Seis meses desde que el puesto se hubiera clasificado a libre designación o hubiese resultado vacante"
+    ],
+    "correct": 0,
+    "exp": "El art. 46.2 RD 128/2018 fija el plazo máximo de tres meses. El Presidente remite la convocatoria al órgano competente de la Comunidad Autónoma para su publicación y remisión al Ministerio en el plazo máximo de diez días. Si no convoca en plazo, la Comunidad Autónoma le requerirá, advirtiéndole de que se iniciará un procedimiento de modificación de las características del puesto y su forma de provisión.",
+    "fuente": "Art. 46.2 RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "En el procedimiento de libre designación, concluido el plazo de quince días hábiles de presentación de solicitudes, el Presidente de la Corporación dictará la resolución correspondiente:",
+    "options": [
+      "En el plazo de un mes, dando cuenta al Pleno de la Corporación",
+      "En el plazo de quince días hábiles, dando cuenta al órgano competente de la Comunidad Autónoma",
+      "En el plazo de dos meses, previa autorización del Pleno de la Corporación"
+    ],
+    "correct": 0,
+    "exp": "El art. 46.3 RD 128/2018 establece que las solicitudes se dirigen al órgano convocante dentro de los quince días hábiles siguientes a la publicación y que el Presidente resuelve en el plazo de un mes, dando cuenta al Pleno de la Corporación, previa constatación de los requisitos y a la vista de la trayectoria profesional y los méritos acreditados.",
+    "fuente": "Art. 46.3 RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "El funcionario nombrado para un puesto de libre designación podrá ser cesado con carácter discrecional por el mismo órgano que lo nombró, garantizándosele un puesto de su mismo grupo de titulación adecuado a las funciones de su subescala que no sea inferior:",
+    "options": [
+      "En más de un nivel al del puesto para el que fue designado",
+      "En más de dos niveles al del puesto para el que fue designado",
+      "En más de tres niveles al del puesto para el que fue designado"
+    ],
+    "correct": 1,
+    "exp": "El art. 47.1 RD 128/2018 garantiza un puesto del mismo grupo de titulación, no inferior en más de dos niveles al del puesto para el que fue designado y con el complemento específico normalizado entre los puestos reservados. En dicho puesto se puede permanecer hasta obtener otro (art. 47.2) y el acuerdo de cese debe motivarse por referencia al desempeño profesional (art. 47.4).",
+    "fuente": "Art. 47.1 RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "En los supuestos de reingreso al servicio activo, de supresión de puestos de colaboración o de cese en puestos de libre designación, la Comunidad Autónoma garantizará un nombramiento provisional. En estos casos:",
+    "options": [
+      "La comisión de servicios tendrá preferencia sobre el nombramiento provisional",
+      "La acumulación tendrá preferencia sobre el nombramiento provisional",
+      "Tendrá preferencia la provisión del puesto por nombramiento provisional sobre el resto de nombramientos de carácter no definitivo"
+    ],
+    "correct": 2,
+    "exp": "El art. 49.1 RD 128/2018 garantiza en esos supuestos un nombramiento provisional, preferentemente en un puesto de la misma subescala y categoría y previo informe de la Corporación Local, estableciendo expresamente la preferencia del nombramiento provisional sobre el resto de nombramientos de carácter no definitivo.",
+    "fuente": "Art. 49.1 RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando no fuera posible cubrir un puesto mediante nombramiento provisional con un funcionario de la subescala y categoría correspondientes al mismo, circunstancia que deberá quedar acreditada en el expediente:",
+    "options": [
+      "No podrá efectuarse nombramiento provisional alguno y habrá de acudirse necesariamente a un nombramiento interino",
+      "Podrá efectuarse el nombramiento provisional a funcionario de diferente categoría dentro de la subescala y, si tampoco fuera posible, a funcionario de diferente subescala",
+      "Podrá efectuarse el nombramiento provisional a un funcionario propio de la Corporación del subgrupo A1"
+    ],
+    "correct": 1,
+    "exp": "El art. 49.2 RD 128/2018 permite, acreditada la imposibilidad, el nombramiento provisional a funcionario de diferente categoría dentro de la subescala y, en su defecto, a funcionario de diferente subescala.",
+    "fuente": "Art. 49.2 RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "El órgano competente de la Comunidad Autónoma podrá autorizar acumulaciones, previa solicitud del Alcalde o Presidente, cuando:",
+    "options": [
+      "No hubiese sido posible efectuar nombramiento provisional o comisión de servicios, imposibilidad que ha debido quedar suficientemente acreditada en el expediente",
+      "El puesto lleve vacante más de seis meses, sin necesidad de acreditar otras circunstancias",
+      "Lo acuerden previamente los Plenos de las dos Corporaciones Locales afectadas"
+    ],
+    "correct": 0,
+    "exp": "El art. 50.1 RD 128/2018 configura la acumulación como forma subsidiaria: procede cuando no ha sido posible el nombramiento provisional ni la comisión de servicios, con acreditación en el expediente. Se efectúa a petición de la Corporación, de acuerdo con el funcionario y previo informe favorable de la Entidad donde está destinado. Corresponde al Ministerio autorizarlas cuando excedan del ámbito territorial de una Comunidad Autónoma.",
+    "fuente": "Art. 50.1 RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "El desempeño de funciones acumuladas da derecho a percibir una gratificación, a cargo de la Entidad Local donde se ejercen las funciones acumuladas, de hasta:",
+    "options": [
+      "El 20 por 100 de las retribuciones fijas, incluidos los trienios, correspondientes al puesto principal",
+      "El 30 por 100 de las retribuciones fijas, excluidos los trienios, correspondientes al puesto principal",
+      "El 50 por 100 de las retribuciones fijas, excluidos los trienios, correspondientes al puesto principal"
+    ],
+    "correct": 1,
+    "exp": "El art. 50.3 RD 128/2018 fija la gratificación en hasta el 30 por 100 de las retribuciones fijas, excluidos los trienios, del puesto principal. Las funciones acumuladas deben ejercerse fuera de la jornada ordinaria del puesto de trabajo y sólo se puede desempeñar un nombramiento en acumulación.",
+    "fuente": "Art. 50.3 RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Las comisiones de servicios que los órganos competentes de las Comunidades Autónomas conceden a funcionarios destinados en su propio territorio, para puestos reservados en Entidades Locales del mismo, se otorgan por un plazo máximo de:",
+    "options": [
+      "Seis meses, prorrogables por otros seis",
+      "Dos años, prorrogables por un año más",
+      "Un año, prorrogable por otro igual"
+    ],
+    "correct": 2,
+    "exp": "El art. 51.1 RD 128/2018 fija el plazo máximo en un año, prorrogable por otro igual, y exige que no hubiese sido posible efectuar un nombramiento provisional, imposibilidad que ha de quedar suficientemente acreditada en el expediente.",
+    "fuente": "Art. 51.1 RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "En los nombramientos accidentales, en las Corporaciones Locales de más de 5.000 habitantes el nombrado será, en todo caso:",
+    "options": [
+      "Un funcionario de carrera de la propia Corporación perteneciente al subgrupo A2",
+      "Un funcionario, de carrera o interino, con titulación universitaria",
+      "Un funcionario de carrera perteneciente al subgrupo A1"
+    ],
+    "correct": 2,
+    "exp": "El art. 52.1 RD 128/2018 permite a las Corporaciones solicitar el nombramiento accidental de uno de sus funcionarios con preparación técnica adecuada y, siempre que sea posible, del subgrupo A1 o con titulación universitaria; en las Corporaciones de más de 5.000 habitantes será en todo caso un funcionario de carrera del subgrupo A1.",
+    "fuente": "Art. 52.1 RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "En relación con los nombramientos accidentales para el desempeño de puestos reservados, el RD 128/2018 establece que:",
+    "options": [
+      "Un funcionario interino podrá ser habilitado accidentalmente si posee la titulación exigida para el subgrupo A1",
+      "En ningún caso podrá ser habilitado accidentalmente un funcionario interino",
+      "Un funcionario interino podrá ser habilitado accidentalmente cuando acredite dos años de servicios en la Corporación"
+    ],
+    "correct": 1,
+    "exp": "El art. 52.5 RD 128/2018 prohíbe en todo caso habilitar accidentalmente a un funcionario interino para desempeñar un puesto reservado a funcionarios de Administración Local con habilitación de carácter nacional.",
+    "fuente": "Art. 52.5 RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "El funcionario interino cuyo nombramiento propongan las Corporaciones Locales a la Comunidad Autónoma para un puesto reservado deberá estar en posesión de:",
+    "options": [
+      "La titulación exigida para el acceso al subgrupo A1",
+      "La titulación exigida para el acceso al subgrupo A2",
+      "La habilitación de carácter nacional en la subescala correspondiente al puesto"
+    ],
+    "correct": 0,
+    "exp": "El art. 53.1 RD 128/2018 exige que el funcionario interino esté en posesión de la titulación exigida para el acceso al subgrupo A1, con respeto a los principios de igualdad, mérito, capacidad y publicidad. La resolución del nombramiento corresponde al órgano competente de la Comunidad Autónoma, debiendo acreditarse en el expediente la imposibilidad de proveer el puesto por funcionario con habilitación de carácter nacional (art. 53.3).",
+    "fuente": "Art. 53.1 RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Las comisiones circunstanciales para la realización de cometidos especiales, en casos de ausencia, enfermedad o abstención legal o reglamentaria del funcionario con habilitación de carácter nacional, están previstas en municipios de menos de:",
+    "options": [
+      "5.000 habitantes",
+      "1.000 habitantes",
+      "2.000 habitantes"
+    ],
+    "correct": 1,
+    "exp": "El art. 55 RD 128/2018 las prevé en municipios de menos de 1.000 habitantes, a petición de la Corporación interesada; las concede la Administración o Corporación Local que atienda los servicios de asistencia, por el tiempo imprescindible.",
+    "fuente": "Art. 55 RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "La declaración de situaciones administrativas de los funcionarios de Administración Local con habilitación de carácter nacional corresponde a:",
+    "options": [
+      "La Comunidad Autónoma respectiva, en todo caso",
+      "El Ministerio de Hacienda y Función Pública, salvo la de suspensión de funciones y destitución",
+      "La Corporación Local en la que el funcionario esté destinado, salvo la excedencia voluntaria"
+    ],
+    "correct": 1,
+    "exp": "El art. 57.2 RD 128/2018 atribuye la declaración de situaciones administrativas al Ministerio de Hacienda y Función Pública, salvo la de suspensión de funciones y destitución, que se rigen por las normas de atribución de competencias propias del régimen disciplinario.",
+    "fuente": "Art. 57.2 RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "Las comisiones de servicio y los nombramientos provisionales quedarán sin efecto en el momento en que se declare la situación de:",
+    "options": [
+      "Excedencia por cuidado de familiares",
+      "Servicio en otras Administraciones Públicas",
+      "Servicios especiales"
+    ],
+    "correct": 2,
+    "exp": "El art. 58.6 RD 128/2018 dispone que las comisiones de servicio y los nombramientos provisionales quedan sin efecto al declararse la situación de servicios especiales. A quien pase a esa situación desde un puesto obtenido por concurso se le reserva un puesto de su grupo de titulación en la misma Entidad Local, con las mismas garantías retributivas (art. 58.4).",
+    "fuente": "Art. 58.6 RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "La incoación de expedientes disciplinarios a funcionarios con habilitación de carácter nacional por hechos que pudieran ser constitutivos de faltas muy graves tipificadas en la normativa básica estatal corresponde a:",
+    "options": [
+      "La Comunidad Autónoma respecto de los funcionarios de Corporaciones Locales de su ámbito territorial",
+      "El órgano correspondiente de la Corporación donde el funcionario hubiera cometido los hechos",
+      "El Ministerio de Hacienda y Función Pública"
+    ],
+    "correct": 2,
+    "exp": "El art. 61.1 RD 128/2018 distribuye la competencia de incoación: la Corporación donde se cometieron los hechos, si pudieran ser falta leve; la Comunidad Autónoma, salvo cuando los hechos pudieran ser faltas muy graves de la normativa básica estatal; y el Ministerio de Hacienda y Función Pública en este último caso. Esa competencia estatal no alcanza a las faltas muy graves tipificadas sólo en leyes autonómicas (art. 61.2).",
+    "fuente": "Art. 61.1.c) RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "La imposición de la sanción de separación del servicio a los funcionarios de Administración Local con habilitación de carácter nacional corresponde, en todo caso, a:",
+    "options": [
+      "El Pleno de la Corporación Local donde se cometieron los hechos",
+      "El Ministro de Hacienda y Función Pública",
+      "El órgano competente de la Comunidad Autónoma respectiva"
+    ],
+    "correct": 1,
+    "exp": "El art. 62.1.a) RD 128/2018 reserva al Ministro de Hacienda y Función Pública, en todo caso, la imposición de la sanción de separación del servicio, además de las sanciones por faltas muy graves tipificadas en la normativa básica estatal. A la Comunidad Autónoma le corresponden las sanciones de suspensión de funciones y destitución no comprendidas en el apartado anterior, y a la Corporación las faltas leves.",
+    "fuente": "Art. 62.1.a) RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "La sanción de destitución implica la pérdida del puesto de trabajo con prohibición de obtener destino en la misma Corporación en la que se cometieron las faltas, en el plazo que se fije, con el máximo de:",
+    "options": [
+      "Seis años para las faltas muy graves y tres años para las faltas graves",
+      "Tres años para las faltas muy graves y un año para las faltas graves",
+      "Diez años para las faltas muy graves y cinco años para las faltas graves"
+    ],
+    "correct": 0,
+    "exp": "El art. 64.1.b) RD 128/2018 fija el máximo en seis años para las faltas muy graves y tres años para las graves. El art. 65 precisa que el destituido puede obtener nombramiento provisional o concursar, mientras dure la sanción, a puestos de Corporación distinta de aquella en la que fue sancionado.",
+    "fuente": "Art. 64.1.b) RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "La suspensión firme de funciones, con una duración máxima de seis años, implica la pérdida del puesto de trabajo cuando es superior a:",
+    "options": [
+      "Un año",
+      "Tres meses",
+      "Seis meses"
+    ],
+    "correct": 2,
+    "exp": "El art. 64.1.c) RD 128/2018 establece que la suspensión firme de funciones tiene una duración máxima de seis años e implica la pérdida del puesto de trabajo cuando es superior a seis meses.",
+    "fuente": "Art. 64.1.c) RD 128/2018",
+    "confianza": "alta"
+  },
+  {
+    "q": "En los expedientes disciplinarios cuya incoación corresponde al Ministerio de Hacienda y Función Pública, el plazo para que la Administración donde el funcionario presta servicios contteste a la solicitud de autorización de nombramiento de instructor es de diez días hábiles, transcurrido el cual sin pronunciamiento:",
+    "options": [
+      "Se entenderá concedida la autorización",
+      "Se entenderá denegada la autorización",
+      "Deberá reiterarse la solicitud por otros diez días hábiles"
+    ],
+    "correct": 0,
+    "exp": "El art. 67.4.d) RD 128/2018 establece que, en los expedientes incoados por el Ministerio, el plazo para contestar a la solicitud de autorización de nombramiento de instructor es de diez días hábiles, entendiéndose concedida la autorización transcurrido dicho plazo sin pronunciamiento. La instrucción se efectúa por un funcionario de carrera del subgrupo A1 con conocimientos en la materia (art. 67.4.b).",
+    "fuente": "Art. 67.4.d) RD 128/2018",
+    "confianza": "alta"
+  }
+]
