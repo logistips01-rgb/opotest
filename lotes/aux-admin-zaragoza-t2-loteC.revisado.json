@@ -1,0 +1,607 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 2,
+  "preguntas": [
+    {
+      "q": "Según el art. 24.1 de la Ley 4/2007, ¿quién puede facilitar un dispositivo de alarma a las mujeres que se encuentren en una situación de alto riesgo?",
+      "options": [
+        "El Instituto Aragonés de la Mujer, directamente o en colaboración con otras Administraciones Públicas y, en su caso, entidades privadas",
+        "Únicamente los servicios sociales municipales, sin posibilidad de colaboración externa",
+        "Los juzgados de violencia sobre la mujer, mediante resolución judicial previa",
+        "Exclusivamente las fuerzas y cuerpos de seguridad del Estado"
+      ],
+      "correct": 0,
+      "exp": "El art. 24.1 establece que 'el Instituto Aragonés de la Mujer, directamente o en colaboración con otras Administraciones Públicas y, en su caso, entidades privadas, podrá facilitar' el dispositivo de alarma.",
+      "fuente": "Art. 24.1 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado art. 24.1 (línea 352 del consolidado): el texto coincide literalmente con la opción marcada; sin duplicados ni ambigüedad en las opciones."
+    },
+    {
+      "q": "¿En qué consiste el dispositivo de alarma regulado en el art. 24.1 de la Ley 4/2007?",
+      "options": [
+        "En una unidad de teleasistencia en el domicilio y fuera de él, activable por la víctima en una situación de emergencia y conectada con una central receptora",
+        "En una notificación semanal por correo postal sobre recursos disponibles",
+        "En una tarjeta de descuento para transporte público urbano",
+        "En un curso obligatorio de autodefensa personal"
+      ],
+      "correct": 0,
+      "exp": "El precepto lo describe como 'una unidad de teleasistencia en el domicilio y fuera de él, a través de un aparato que pueda activar la víctima en una situación de emergencia y que estará conectado con una central receptora'.",
+      "fuente": "Art. 24.1 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Descripción del dispositivo en el art. 24.1 verificada palabra por palabra contra el consolidado; opción correcta ajustada, distractores no ambiguos."
+    },
+    {
+      "q": "El dispositivo de alarma del art. 24.1 de la Ley 4/2007 se dirige a mujeres que se encuentren en:",
+      "options": [
+        "Proceso de solicitud de la Renta Aragonesa de Inserción",
+        "Trámite de separación o divorcio, sin más requisitos",
+        "Una situación de alto riesgo",
+        "Fase de formación e inserción sociolaboral"
+      ],
+      "correct": 2,
+      "exp": "El artículo se refiere expresamente a 'las mujeres que se encuentren en una situación de alto riesgo'.",
+      "fuente": "Art. 24.1 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Verificado que el art. 24.1 exige expresamente 'situación de alto riesgo'; las tres opciones restantes no aparecen en el precepto ni se solapan entre sí."
+    },
+    {
+      "q": "¿Cuál es la finalidad que el art. 24.1 de la Ley 4/2007 atribuye expresamente al dispositivo de alarma?",
+      "options": [
+        "Sustituir a la orden de protección judicial",
+        "Evitar la necesidad de acudir al servicio de mediación familiar",
+        "Reforzar la seguridad y la confianza de la mujer, otorgándole una mayor protección",
+        "Facilitar el acceso a la vivienda protegida"
+      ],
+      "correct": 2,
+      "exp": "El precepto indica que el dispositivo tiene 'el fin de reforzar la seguridad y la confianza de la mujer, otorgándole una mayor protección'.",
+      "fuente": "Art. 24.1 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "La cláusula final del art. 24.1 coincide literalmente con la opción marcada; los tres distractores son finalidades plausibles no recogidas en el artículo."
+    },
+    {
+      "q": "Según el art. 24.2 de la Ley 4/2007, ¿quién valora la idoneidad del dispositivo de alarma como recurso para un caso concreto?",
+      "options": [
+        "Un equipo formado por las personas técnicas responsables del programa que tengan conocimiento del caso",
+        "El propio Instituto Aragonés de la Mujer, sin intervención técnica",
+        "Un juez de violencia sobre la mujer",
+        "La propia víctima, de forma exclusiva y sin valoración externa"
+      ],
+      "correct": 0,
+      "exp": "El art. 24.2 dispone que 'la idoneidad del recurso se valorará por un equipo formado por las personas técnicas responsables del programa que tengan conocimiento del caso'.",
+      "fuente": "Art. 24.2 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Apartado 2 del art. 24 (línea 353) leído directamente; coincide con la opción marcada, sin duplicados entre las cuatro opciones."
+    },
+    {
+      "q": "¿Qué Departamento facilita el servicio de mediación familiar según el art. 25.1 de la Ley 4/2007?",
+      "options": [
+        "El Departamento competente en materia de salud",
+        "El Departamento competente en materia de vivienda",
+        "El Instituto Aragonés de la Mujer",
+        "El Departamento competente en materia de familia"
+      ],
+      "correct": 3,
+      "exp": "El art. 25.1 señala que 'el Departamento competente en materia de familia facilitará un servicio de mediación familiar'.",
+      "fuente": "Art. 25.1 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 25.1 (línea 357) verificado: el sujeto es el Departamento de familia, coincide con la opción marcada; cuatro opciones distintas entre sí."
+    },
+    {
+      "q": "Según el art. 25.1 de la Ley 4/2007, ¿cómo debe actuar la persona mediadora en el servicio de mediación familiar?",
+      "options": [
+        "De forma parcial, favoreciendo a la parte más vulnerable",
+        "De una manera cualificada, neutral e imparcial",
+        "Bajo mandato judicial vinculante",
+        "De forma anónima y sin contacto directo con las partes"
+      ],
+      "correct": 1,
+      "exp": "El precepto exige que 'la persona mediadora, de una manera cualificada, neutral e imparcial, facilita la comunicación entre la pareja'.",
+      "fuente": "Art. 25.1 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Frase 'de una manera cualificada, neutral e imparcial' localizada literalmente en el art. 25.1; opción marcada correcta."
+    },
+    {
+      "q": "El art. 25.1 de la Ley 4/2007 define la mediación familiar como un proceso en el que la persona mediadora facilita:",
+      "options": [
+        "Una resolución vinculante que sustituye a la sentencia judicial",
+        "La imposición de medidas cautelares urgentes",
+        "La comunicación entre la pareja para que ellos mismos lleguen a acuerdos en todos los temas relacionados con su situación de conflicto",
+        "El acceso directo a la vivienda protegida"
+      ],
+      "correct": 2,
+      "exp": "El artículo concibe la mediación como un proceso en el que la persona mediadora 'facilita la comunicación entre la pareja para que ellos mismos lleguen a acuerdos en todos los temas relacionados con su situación de conflicto'.",
+      "fuente": "Art. 25.1 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Texto de la opción marcada coincide palabra por palabra con el art. 25.1; distractores no se confunden entre sí."
+    },
+    {
+      "q": "Según el art. 25.2 de la Ley 4/2007, ¿cuál es el objeto del servicio de mediación familiar?",
+      "options": [
+        "La búsqueda de soluciones amistosas a los conflictos derivados de los procesos de separación, divorcio, nulidad matrimonial o ruptura de la unión de hecho",
+        "La imposición de sanciones económicas al agresor",
+        "La tramitación de la orden de alejamiento",
+        "La concesión del Ingreso Aragonés de Inserción"
+      ],
+      "correct": 0,
+      "exp": "El art. 25.2 dice literalmente que 'dicho servicio tiene por objeto la búsqueda de soluciones amistosas a los conflictos derivados de los procesos de separación, divorcio, nulidad matrimonial o ruptura de la unión de hecho'.",
+      "fuente": "Art. 25.2 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Apartado 2 del art. 25 (línea 358) leído íntegro; la opción marcada reproduce el texto legal."
+    },
+    {
+      "q": "¿Con qué finalidad se busca la solución amistosa de conflictos a que se refiere el art. 25.2 de la Ley 4/2007?",
+      "options": [
+        "Acelerar el proceso penal contra el agresor",
+        "Evitar potenciales conflictos o desavenencias entre las partes",
+        "Reducir el plazo de resolución de la solicitud de vivienda",
+        "Sustituir la atención psicológica a las víctimas"
+      ],
+      "correct": 1,
+      "exp": "El precepto añade que la búsqueda de soluciones amistosas tiene lugar 'al objeto de evitar potenciales conflictos o desavenencias entre las partes'.",
+      "fuente": "Art. 25.2 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cláusula final del art. 25.2 verificada; coincide con la opción marcada, opciones sin solaparse."
+    },
+    {
+      "q": "Según el art. 26.1 de la Ley 4/2007, ¿quién presta el servicio de atención psicológica a hombres con problemas de control y violencia en el hogar?",
+      "options": [
+        "El Departamento competente en materia de familia",
+        "El Departamento competente en materia de salud",
+        "El Instituto Aragonés de la Mujer",
+        "El Instituto Aragonés de Empleo"
+      ],
+      "correct": 2,
+      "exp": "El art. 26.1 establece que 'el Instituto Aragonés de la Mujer prestará un servicio de atención psicológica a hombres residentes en Aragón' con problemas de control y violencia en el hogar.",
+      "fuente": "Art. 26.1 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 26.1 (línea 362) verificado: sujeto es el Instituto Aragonés de la Mujer, coincide con la opción marcada."
+    },
+    {
+      "q": "¿A quiénes se dirige el servicio de atención psicológica regulado en el art. 26.1 de la Ley 4/2007?",
+      "options": [
+        "A hombres residentes en cualquier parte de España condenados por sentencia firme",
+        "A mujeres víctimas de violencia que convivan con el agresor",
+        "A hombres residentes en Aragón que, de forma reciente o no, hayan sido actores de violencia contra las mujeres en el contexto de las relaciones familiares o asimiladas",
+        "A menores testigos de violencia doméstica"
+      ],
+      "correct": 2,
+      "exp": "El precepto se dirige a 'hombres residentes en Aragón que, de forma reciente o no, hayan sido actores de violencia contra las mujeres en el contexto de las relaciones familiares o asimiladas'.",
+      "fuente": "Art. 26.1 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Descripción del colectivo destinatario transcrita literalmente del art. 26.1; distractores no coincidentes con el texto."
+    },
+    {
+      "q": "Según el art. 26.1 de la Ley 4/2007, el servicio de atención psicológica a hombres maltratadores tiene como objeto:",
+      "options": [
+        "Dotarles de las habilidades personales para la resolución de conflictos por vías no violentas mediante un tratamiento específico para hombres maltratadores",
+        "Imponerles una sanción administrativa sustitutiva de la pena",
+        "Evaluar su idoneidad para recuperar la custodia de los hijos",
+        "Certificar su aptitud para acceder a la vivienda protegida"
+      ],
+      "correct": 0,
+      "exp": "El artículo señala que el servicio se presta 'con objeto de dotarles de las habilidades personales para la resolución de conflictos por vías no violentas mediante un tratamiento específico para hombres maltratadores'.",
+      "fuente": "Art. 26.1 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cláusula de objeto del art. 26.1 verificada literalmente; corresponde a la opción marcada."
+    },
+    {
+      "q": "Según el art. 26.2 de la Ley 4/2007, uno de los fines del servicio del art. 26 es asegurar las condiciones necesarias para:",
+      "options": [
+        "Garantizar la reinserción laboral inmediata del hombre agresor",
+        "Mantener el deseable bienestar psicológico por parte de las mujeres víctimas de malos tratos en aquellos casos en que la relación se mantenga",
+        "Facilitar la mediación familiar obligatoria entre las partes",
+        "Acelerar el otorgamiento del Ingreso Aragonés de Inserción"
+      ],
+      "correct": 1,
+      "exp": "El art. 26.2 indica que 'con este servicio se pretenden asegurar las condiciones necesarias para mantener el deseable bienestar psicológico por parte de las mujeres víctimas de malos tratos en aquellos casos en que la relación se mantenga'.",
+      "fuente": "Art. 26.2 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Primera finalidad del art. 26.2 (línea 363) transcrita literalmente en la opción marcada."
+    },
+    {
+      "q": "Además del bienestar psicológico de la mujer, ¿qué otro objetivo persigue el servicio regulado en el art. 26.2 de la Ley 4/2007?",
+      "options": [
+        "Sustituir el dispositivo de alarma en los casos de alto riesgo",
+        "Facilitar el acceso a la vivienda protegida a las víctimas",
+        "Otorgar la acción popular al Gobierno de Aragón",
+        "Prevenir posteriores situaciones de maltrato e impedir su extensión a otros miembros de la unidad familiar"
+      ],
+      "correct": 3,
+      "exp": "El art. 26.2 añade el objetivo de 'prevenir posteriores situaciones de maltrato e impedir su extensión a otros miembros de la unidad familiar'.",
+      "fuente": "Art. 26.2 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Segunda finalidad del art. 26.2 verificada literalmente; coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 27.1 de la Ley 4/2007, ¿quiénes tienen derecho a la asistencia psicológica gratuita desde el ámbito social?",
+      "options": [
+        "Las mujeres víctimas de violencia, así como sus hijas e hijos",
+        "Únicamente las mujeres víctimas de violencia, sin extensión a sus hijas e hijos",
+        "Los hombres con problemas de control y violencia en el hogar",
+        "Cualquier familiar de la víctima hasta el segundo grado"
+      ],
+      "correct": 0,
+      "exp": "El art. 27.1 reconoce el derecho a 'las mujeres víctimas de violencia, así como sus hijas e hijos'.",
+      "fuente": "Art. 27.1 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 27.1 (línea 367) verificado: titulares del derecho coinciden con la opción marcada; el distractor 1 es la negación exacta, sin ambigüedad porque el texto sí extiende el derecho a hijas e hijos."
+    },
+    {
+      "q": "¿Qué carácter tiene la asistencia psicológica reconocida en el art. 27.1 de la Ley 4/2007?",
+      "options": [
+        "Sujeta al pago de una tasa reducida",
+        "Gratuita",
+        "Condicionada a la interposición previa de denuncia penal",
+        "Limitada a un máximo de tres sesiones"
+      ],
+      "correct": 1,
+      "exp": "El precepto reconoce el derecho 'a la asistencia psicológica gratuita'.",
+      "fuente": "Art. 27.1 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Calificativo 'gratuita' localizado en el art. 27.1; no se exige denuncia previa ni límite de sesiones en el texto, por lo que los distractores son correctamente descartables."
+    },
+    {
+      "q": "Según el art. 27.1 de la Ley 4/2007, ¿hasta cuándo se prolonga el seguimiento de la asistencia psicológica?",
+      "options": [
+        "Hasta la resolución del procedimiento judicial, con independencia de la evolución psicológica",
+        "Durante un máximo de seis meses improrrogables",
+        "Hasta que concluya el proceso terapéutico de recuperación",
+        "Hasta que la víctima acceda a una vivienda protegida"
+      ],
+      "correct": 2,
+      "exp": "El art. 27.1 dice que la asistencia 'comprenderá la atención inicial y el seguimiento hasta que concluya el proceso terapéutico de recuperación'.",
+      "fuente": "Art. 27.1 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Frase 'hasta que concluya el proceso terapéutico de recuperación' verificada literalmente contra el consolidado."
+    },
+    {
+      "q": "Según el art. 27.2 de la Ley 4/2007, ¿qué ocurre con la atención psicológica a las mujeres que han abandonado la casa de acogida?",
+      "options": [
+        "Se interrumpe automáticamente al causar baja en el centro",
+        "Se sustituye por el servicio de mediación familiar",
+        "Queda condicionada a una nueva solicitud administrativa",
+        "Se les seguirá prestando atención psicológica"
+      ],
+      "correct": 3,
+      "exp": "El art. 27.2 establece que 'a aquellas mujeres que hayan abandonado la casa de acogida se les seguirá prestando atención psicológica'.",
+      "fuente": "Art. 27.2 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 27.2 (línea 368) leído íntegro; la opción marcada reproduce el efecto exacto previsto en la norma."
+    },
+    {
+      "q": "¿Con qué finalidad se mantiene la atención psicológica a las mujeres que abandonan la casa de acogida, según el art. 27.2 de la Ley 4/2007?",
+      "options": [
+        "Para facilitar su acceso a una vivienda protegida",
+        "Para sustituir el servicio de mediación familiar",
+        "Para garantizar su reincorporación inmediata al mercado laboral",
+        "Para su fortalecimiento personal"
+      ],
+      "correct": 3,
+      "exp": "El art. 27.2 precisa que se les seguirá prestando atención psicológica 'para su fortalecimiento personal'.",
+      "fuente": "Art. 27.2 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "correccion": "Las opciones originales mezclaban tipos distintos: tres nombraban Departamentos/organismos ('El Departamento competente en materia de familia', 'El Instituto Aragonés de la Mujer', 'El Departamento competente en materia de vivienda') que no responden a una pregunta de 'finalidad', y solo la opción correcta ('Para su fortalecimiento personal') tenía forma de finalidad, delatándose por descarte gramatical. Se sustituyeron los tres distractores por finalidades igualmente plausibles pero no recogidas en el art. 27.2, manteniendo intacta la opción correcta y su posición (índice 3).",
+      "notaRevision": "Art. 27.2 verificado: el texto solo menciona 'para su fortalecimiento personal' como finalidad; no menciona vivienda, mediación familiar ni reinserción laboral en este apartado, así que los nuevos distractores son correctamente descartables sin ser ambiguos entre sí."
+    },
+    {
+      "q": "Según el art. 28.1 de la Ley 4/2007, ¿qué Departamento elabora el protocolo de pautas uniformes de actuación en materia de atención sanitaria?",
+      "options": [
+        "El Departamento competente en materia de salud",
+        "El Departamento competente en materia de familia",
+        "El Instituto Aragonés de la Mujer",
+        "El Departamento competente en materia de vivienda"
+      ],
+      "correct": 0,
+      "exp": "El art. 28.1 dispone que 'el Departamento competente en materia de salud elaborará un protocolo que recoja pautas uniformes de actuación dirigidas a profesionales sanitarios'.",
+      "fuente": "Art. 28.1 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 28.1 (línea 372) verificado: sujeto es el Departamento de salud, coincide con la opción marcada."
+    },
+    {
+      "q": "¿A quién van dirigidas las pautas del protocolo regulado en el art. 28.1 de la Ley 4/2007?",
+      "options": [
+        "A profesionales de la mediación familiar",
+        "A profesionales sanitarios",
+        "A las fuerzas y cuerpos de seguridad",
+        "A personal de los servicios sociales municipales"
+      ],
+      "correct": 1,
+      "exp": "El protocolo recoge 'pautas uniformes de actuación dirigidas a profesionales sanitarios'.",
+      "fuente": "Art. 28.1 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Destinatarios del protocolo verificados literalmente en el art. 28.1; coincide con la opción marcada."
+    },
+    {
+      "q": "¿Con qué periodicidad debe revisarse el protocolo de atención sanitaria previsto en el art. 28.1 de la Ley 4/2007?",
+      "options": [
+        "Cada legislatura, coincidiendo con el cambio de Gobierno",
+        "Una sola vez, sin revisiones posteriores",
+        "Periódicamente",
+        "Cada diez años, según desarrollo reglamentario"
+      ],
+      "correct": 2,
+      "exp": "El precepto señala que 'este protocolo se revisará periódicamente'.",
+      "fuente": "Art. 28.1 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Frase 'se revisará periódicamente' localizada literalmente; los demás plazos concretos no figuran en el texto."
+    },
+    {
+      "q": "Según el art. 28.1 de la Ley 4/2007, además de aplicarse en el ámbito público, se fomentará el empleo del protocolo de atención sanitaria en:",
+      "options": [
+        "El ámbito universitario",
+        "El ámbito de la sanidad militar exclusivamente",
+        "El ámbito de las mutuas de accidentes de trabajo",
+        "El ámbito de la sanidad privada"
+      ],
+      "correct": 3,
+      "exp": "El art. 28.1 añade que 'se fomentará el empleo del mencionado protocolo en el ámbito de la sanidad privada'.",
+      "fuente": "Art. 28.1 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "El art. 28.1 dice literalmente 'asimismo, se fomentará el empleo del mencionado protocolo en el ámbito de la sanidad privada'; el inciso del enunciado sobre el 'ámbito público' es una glosa razonable (el protocolo lo elabora un Departamento público) que no altera la respuesta correcta, verificada literalmente."
+    },
+    {
+      "q": "Según el art. 28.2 de la Ley 4/2007, ¿qué actividades puede llevar a cabo el Departamento competente en materia de salud dirigidas a profesionales sanitarios?",
+      "options": [
+        "Actividades de sensibilización y formación específicas en materia de violencia contra las mujeres",
+        "Actividades de inspección y régimen sancionador",
+        "Actividades de mediación familiar especializada",
+        "Actividades de valoración de la idoneidad del dispositivo de alarma"
+      ],
+      "correct": 0,
+      "exp": "El art. 28.2 indica que 'por dicho Departamento podrán llevarse a cabo actividades de sensibilización y formación específicas en materia de violencia contra las mujeres dirigidas a profesionales sanitarios'.",
+      "fuente": "Art. 28.2 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Apartado 2 del art. 28 (línea 373) leído íntegro; coincide literalmente con la opción marcada."
+    },
+    {
+      "q": "Según el art. 29 de la Ley 4/2007, ¿qué establecerá la Administración de la Comunidad Autónoma de Aragón en relación con el acceso a la vivienda?",
+      "options": [
+        "Un sistema que permita integrar las políticas de protección y apoyo a las mujeres víctimas de violencia doméstica con la política de vivienda protegida del Departamento correspondiente",
+        "Una prohibición temporal de desahucios para cualquier arrendatario",
+        "Un registro único de solicitantes de vivienda libre",
+        "Un impuesto adicional sobre viviendas vacías"
+      ],
+      "correct": 0,
+      "exp": "El art. 29 dispone que la Administración autonómica 'establecerá un sistema que permita integrar las políticas de protección y apoyo a las mujeres víctimas de violencia doméstica con la política de vivienda protegida del Departamento correspondiente'.",
+      "fuente": "Art. 29 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 29 (línea 377) verificado íntegro; primera frase coincide literalmente con la opción marcada."
+    },
+    {
+      "q": "¿A qué víctimas se dirigen las medidas de apoyo al acceso a la vivienda previstas en el art. 29 de la Ley 4/2007?",
+      "options": [
+        "A todas las víctimas, con independencia de su situación habitacional",
+        "A las víctimas que carezcan de vivienda adecuada",
+        "Únicamente a las víctimas con hijos menores a su cargo",
+        "A las víctimas que ya sean titulares de una vivienda en propiedad"
+      ],
+      "correct": 1,
+      "exp": "El artículo se refiere a medidas 'respecto de las víctimas que carezcan de vivienda adecuada'.",
+      "fuente": "Art. 29 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Inciso 'víctimas que carezcan de vivienda adecuada' localizado literalmente en el art. 29; coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 29 de la Ley 4/2007, ¿en qué régimen se reservarán viviendas protegidas para las víctimas de violencia doméstica?",
+      "options": [
+        "En régimen de propiedad con subvención íntegra",
+        "En régimen de multipropiedad",
+        "En régimen de arrendamiento o precario",
+        "En régimen de cesión a terceros no víctimas"
+      ],
+      "correct": 2,
+      "exp": "El precepto establece que 'con esta finalidad se reservarán viviendas protegidas en régimen de arrendamiento o precario para las víctimas de violencia doméstica'.",
+      "fuente": "Art. 29 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Frase final del art. 29 verificada literalmente; coincide con la opción marcada."
+    },
+    {
+      "q": "El sistema previsto en el art. 29 de la Ley 4/2007 busca integrar la política de protección y apoyo a las víctimas con la política de:",
+      "options": [
+        "Empleo público",
+        "Sanidad privada",
+        "Contratación del sector público",
+        "Vivienda protegida"
+      ],
+      "correct": 3,
+      "exp": "El artículo habla de integrar las políticas de protección y apoyo 'con la política de vivienda protegida del Departamento correspondiente'.",
+      "fuente": "Art. 29 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Coincide con el mismo pasaje del art. 29 ya verificado en la pregunta anterior; opción marcada correcta."
+    },
+    {
+      "q": "Según el art. 29 de la Ley 4/2007, la integración de políticas se realiza con la vivienda protegida de qué Departamento?",
+      "options": [
+        "Del Departamento competente en materia de salud",
+        "Del Instituto Aragonés de la Mujer",
+        "Del Departamento competente en materia de familia",
+        "Del Departamento correspondiente"
+      ],
+      "correct": 3,
+      "exp": "El precepto se refiere a 'la política de vivienda protegida del Departamento correspondiente', sin identificar un Departamento distinto.",
+      "fuente": "Art. 29 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Verificado que el art. 29 no identifica el Departamento por su materia, solo dice 'Departamento correspondiente'; los otros tres Departamentos nombrados no aparecen en este artículo, por lo que son correctamente descartables."
+    },
+    {
+      "q": "Según el art. 30.1 de la Ley 4/2007, ¿a quién puede dirigirse el régimen de convenios de colaboración y subvenciones para la contratación de mujeres víctimas de violencia?",
+      "options": [
+        "Únicamente a empresas públicas de la Comunidad Autónoma de Aragón",
+        "A empresas, cooperativas, sociedades laborales o entidades que contraten a mujeres víctimas de violencia, o a ellas mismas si se constituyen como trabajadoras autónomas",
+        "Exclusivamente a entidades sin fines de lucro",
+        "Solo a mujeres que ya tengan la condición de funcionarias"
+      ],
+      "correct": 1,
+      "exp": "El art. 30.1 prevé convenios y subvenciones 'bien a empresas, cooperativas, sociedades laborales o entidades que contraten a mujeres víctimas de violencia, bien a ellas mismas en los casos en que decidan constituirse como trabajadoras autónomas'.",
+      "fuente": "Art. 30.1 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 30.1 (línea 381) verificado íntegro; la opción marcada reproduce fielmente los dos destinatarios alternativos del precepto."
+    },
+    {
+      "q": "Según el art. 30.2 de la Ley 4/2007, ¿con qué carácter se incluye a las mujeres víctimas de violencia en los programas de formación e inserción laboral?",
+      "options": [
+        "Con carácter excepcional y temporal, limitado a un año",
+        "Con carácter preferente y específico",
+        "Con carácter subsidiario, solo si no hay otras solicitantes",
+        "Con carácter voluntario y sin prioridad frente al resto de solicitantes"
+      ],
+      "correct": 1,
+      "exp": "El art. 30.2 establece que serán incluidas 'con carácter preferente y específico, en los programas de formación e inserción laboral'.",
+      "fuente": "Art. 30.2 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Locución 'con carácter preferente y específico' localizada literalmente en el art. 30.2 (línea 382)."
+    },
+    {
+      "q": "Para beneficiarse de esa preferencia en los programas de formación e inserción laboral, ¿qué requisito exige el art. 30.2 de la Ley 4/2007 a las mujeres afectadas?",
+      "options": [
+        "Acreditar una orden de protección judicial en vigor",
+        "Haber agotado previamente la prestación por desempleo",
+        "Figurar inscritas como demandantes de empleo en la oficina correspondiente del Instituto Aragonés de Empleo",
+        "Estar empadronadas en el municipio de Zaragoza"
+      ],
+      "correct": 2,
+      "exp": "El precepto exige que 'las mujeres afectadas deberán figurar inscritas como demandantes de empleo en la oficina correspondiente del Instituto Aragonés de Empleo'.",
+      "fuente": "Art. 30.2 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Requisito de inscripción como demandante de empleo verificado literalmente contra el art. 30.2."
+    },
+    {
+      "q": "Según el art. 30.2 de la Ley 4/2007, la preferencia reconocida a las mujeres víctimas de violencia se tendrá en cuenta:",
+      "options": [
+        "Únicamente en el primer proceso de selección al que se presenten",
+        "Solo durante el primer año tras el cese de la convivencia con el agresor",
+        "Exclusivamente en las convocatorias de empleo público autonómico",
+        "En cualquier otra vía de promoción laboral que contribuya a la inserción sociolaboral de las mujeres víctimas de violencia"
+      ],
+      "correct": 3,
+      "exp": "El art. 30.2 añade que 'se tendrá en cuenta dicha preferencia en cualquier otra vía de promoción laboral que contribuya a la inserción sociolaboral de las mujeres víctimas de violencia'.",
+      "fuente": "Art. 30.2 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Última frase del art. 30.2 verificada literalmente; coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 30.3 de la Ley 4/2007, ¿quién prestará información a empresas y a mujeres desempleadas víctimas de violencia sobre las medidas de inserción laboral y promoción de empleo?",
+      "options": [
+        "El Instituto Aragonés de la Mujer, en exclusiva",
+        "El Gobierno de Aragón, a través de sus organismos competentes",
+        "Los servicios sociales de base de cada municipio",
+        "Las organizaciones sindicales más representativas"
+      ],
+      "correct": 1,
+      "exp": "El art. 30.3 señala que 'el Gobierno de Aragón, a través de sus organismos competentes, prestará información a empresas y a mujeres desempleadas víctimas de violencia' sobre dichas medidas.",
+      "fuente": "Art. 30.3 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Apartado 3 del art. 30 (línea 383) verificado literalmente; sujeto coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 31 de la Ley 4/2007, ¿quién ejercerá la acción popular en los casos más graves de violencia contra las mujeres?",
+      "options": [
+        "El Instituto Aragonés de la Mujer",
+        "El Ministerio Fiscal exclusivamente",
+        "El Ayuntamiento del domicilio de la víctima",
+        "El Gobierno de Aragón"
+      ],
+      "correct": 3,
+      "exp": "El art. 31 dispone que 'el Gobierno de Aragón ejercerá la acción popular en los casos más graves de violencia contra las mujeres'.",
+      "fuente": "Art. 31 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 31 (línea 387) verificado íntegro; sujeto de la acción popular coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 31 de la Ley 4/2007, el Gobierno de Aragón ejercerá la acción popular en los casos:",
+      "options": [
+        "Más graves de violencia contra las mujeres",
+        "De todos los casos de violencia contra las mujeres, sin excepción",
+        "Únicamente de violencia en el ámbito laboral",
+        "De violencia doméstica sin resultado lesivo"
+      ],
+      "correct": 0,
+      "exp": "El precepto limita la acción popular a 'los casos más graves de violencia contra las mujeres'.",
+      "fuente": "Art. 31 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Verificado que el art. 31 restringe la acción popular a los casos 'más graves', descartando la opción 'sin excepción' y las demás."
+    },
+    {
+      "q": "¿Cuál de las siguientes es una de las condiciones que, según el art. 31 de la Ley 4/2007, permite al Gobierno de Aragón ejercer la acción popular?",
+      "options": [
+        "Que lo solicite cualquier asociación de mujeres inscrita en el registro autonómico",
+        "Que la víctima así lo solicite",
+        "Que exista sentencia penal firme previa",
+        "Que la víctima haya accedido previamente a una vivienda protegida"
+      ],
+      "correct": 1,
+      "exp": "El art. 31 exige que la acción popular se ejerza 'si la víctima así lo solicita, o cuando la acción delictiva provoque la muerte de esta'.",
+      "fuente": "Art. 31 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Primera condición alternativa del art. 31 ('si la víctima así lo solicita') verificada literalmente."
+    },
+    {
+      "q": "Además de la solicitud de la víctima, ¿en qué otro supuesto ejercerá el Gobierno de Aragón la acción popular según el art. 31 de la Ley 4/2007?",
+      "options": [
+        "Cuando el agresor carezca de antecedentes penales",
+        "Cuando la víctima resida fuera de la Comunidad Autónoma de Aragón",
+        "Cuando la acción delictiva provoque la muerte de la víctima",
+        "Cuando el proceso penal se prolongue más de un año"
+      ],
+      "correct": 2,
+      "exp": "El art. 31 prevé también el ejercicio de la acción popular 'cuando la acción delictiva provoque la muerte de esta [la víctima]'.",
+      "fuente": "Art. 31 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Segunda condición alternativa del art. 31 ('cuando la acción delictiva provoque la muerte de esta') verificada literalmente."
+    },
+    {
+      "q": "Según el art. 31 de la Ley 4/2007, ¿en qué forma y condiciones se ejercerá la acción popular por el Gobierno de Aragón?",
+      "options": [
+        "En la forma que determine el reglamento de desarrollo de la propia Ley 4/2007",
+        "En la forma que acuerde el Instituto Aragonés de la Mujer caso por caso",
+        "Sin sujeción a ningún requisito procesal específico",
+        "En la forma y condiciones establecidas por la legislación procesal"
+      ],
+      "correct": 3,
+      "exp": "El art. 31 remite a que la acción popular se ejerza 'en la forma y condiciones establecidas por la legislación procesal'.",
+      "fuente": "Art. 31 Ley 4/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cláusula de remisión final del art. 31 verificada literalmente; coincide con la opción marcada, sin remisión a reglamento ni al IAM."
+    }
+  ]
+}
