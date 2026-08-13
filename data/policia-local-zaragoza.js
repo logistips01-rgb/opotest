@@ -17279,6 +17279,2927 @@ const QUESTIONS = {
     "exp": "Art. 16.5, párrafo segundo: 'Reglamentariamente, las Administraciones podrán establecer la obligación de presentar determinados documentos por medios electrónicos para ciertos procedimientos y colectivos de personas físicas que, por razón de su capacidad económica, técnica, dedicación profesional u otros motivos quede acreditado que tienen acceso y disponibilidad de los medios electrónicos necesarios.'",
     "fuente": "Art. 16.5, párr. 2º, LPAC (Ley 39/2015)",
     "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 1.1 de la Ley 39/2015, ¿cuál es el objeto de la Ley?",
+    "options": [
+      "Regular los requisitos de validez y eficacia de los actos administrativos, el procedimiento administrativo común y los principios de la iniciativa legislativa y potestad reglamentaria",
+      "Regular exclusivamente el régimen de los contratos públicos",
+      "Regular únicamente el procedimiento sancionador"
+    ],
+    "correct": 0,
+    "exp": "Art. 1.1: la Ley regula los requisitos de validez y eficacia de los actos administrativos, el procedimiento administrativo común (incluido el sancionador y el de responsabilidad), y los principios de la iniciativa legislativa y la potestad reglamentaria."
+  },
+  {
+    "q": "Según el art. 1.2, ¿mediante qué instrumento pueden incluirse trámites adicionales o distintos a los previstos en la Ley?",
+    "options": [
+      "Mediante instrucción interna del órgano competente",
+      "Solo mediante ley, cuando resulte eficaz, proporcionado y necesario, y de forma motivada",
+      "Mediante circular de la Abogacía del Estado"
+    ],
+    "correct": 1,
+    "exp": "Art. 1.2: 'Solo mediante ley, cuando resulte eficaz, proporcionado y necesario... y de manera motivada, podrán incluirse trámites adicionales o distintos.'"
+  },
+  {
+    "q": "Según el art. 1.2, reglamentariamente pueden establecerse especialidades del procedimiento referidas a:",
+    "options": [
+      "La creación de nuevos derechos fundamentales",
+      "La modificación de leyes orgánicas",
+      "Órganos competentes, plazos, formas de iniciación y terminación, publicación e informes a recabar"
+    ],
+    "correct": 2,
+    "exp": "Art. 1.2 in fine: 'Reglamentariamente podrán establecerse especialidades del procedimiento referidas a los órganos competentes, plazos propios..., formas de iniciación y terminación, publicación e informes a recabar.'"
+  },
+  {
+    "q": "Según el art. 2.1, el sector público al que se aplica la Ley 39/2015 comprende, entre otros, a:",
+    "options": [
+      "La Administración General del Estado, las Administraciones de las CCAA, las Entidades que integran la Administración Local y el sector público institucional",
+      "Únicamente la Administración General del Estado",
+      "Exclusivamente las entidades locales"
+    ],
+    "correct": 0,
+    "exp": "Art. 2.1 enumera: a) AGE; b) Administraciones de las CCAA; c) Entidades que integran la Administración Local; d) el sector público institucional."
+  },
+  {
+    "q": "Según el art. 2.2, el sector público institucional se integra, entre otros, por:",
+    "options": [
+      "Solo los Ministerios",
+      "Organismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones Públicas",
+      "Las Cortes Generales"
+    ],
+    "correct": 1,
+    "exp": "Art. 2.2 a): 'Cualesquiera organismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones Públicas.'"
+  },
+  {
+    "q": "Según el art. 2.2 b), las entidades de derecho privado vinculadas o dependientes de las Administraciones Públicas quedan sujetas a esta Ley:",
+    "options": [
+      "Nunca, se rigen solo por el derecho privado",
+      "Solo si son entidades sin personalidad jurídica",
+      "En lo que específicamente se refiera a ellas, y en todo caso cuando ejerzan potestades administrativas"
+    ],
+    "correct": 2,
+    "exp": "Art. 2.2 b): quedarán sujetas a lo dispuesto en las normas de esta Ley que específicamente se refieran a ellas, y en todo caso, cuando ejerzan potestades administrativas."
+  },
+  {
+    "q": "Según el art. 2.2 c), las Universidades públicas se rigen por:",
+    "options": [
+      "Su normativa específica y supletoriamente por esta Ley",
+      "El derecho privado en todo caso",
+      "La normativa de las Entidades Locales"
+    ],
+    "correct": 0,
+    "exp": "Art. 2.2 c): 'Las Universidades públicas, que se regirán por su normativa específica y supletoriamente por las previsiones de esta Ley.'"
+  },
+  {
+    "q": "Según el art. 2.3, ¿cuál de los siguientes SÍ tiene la consideración de Administración Pública a efectos de esta Ley?",
+    "options": [
+      "Las entidades de derecho privado vinculadas a la Administración",
+      "La Administración General del Estado",
+      "Las Corporaciones de Derecho Público"
+    ],
+    "correct": 1,
+    "exp": "Art. 2.3 reconoce como Administraciones Públicas a la AGE, las Administraciones de las CCAA, las Entidades de la Administración Local, y los organismos públicos y entidades de derecho público del art. 2.2 a). Las Universidades y entidades de derecho privado no tienen esa consideración."
+  },
+  {
+    "q": "Según el art. 2.4, las Corporaciones de Derecho Público se rigen, en el ejercicio de funciones públicas atribuidas por Ley, por:",
+    "options": [
+      "Exclusivamente por esta Ley",
+      "El derecho mercantil",
+      "Su normativa específica y supletoriamente por esta Ley"
+    ],
+    "correct": 2,
+    "exp": "Art. 2.4: 'Las Corporaciones de Derecho Público se regirán por su normativa específica... y supletoriamente por la presente Ley.'"
+  },
+  {
+    "q": "El Título I de la Ley 39/2015 se titula:",
+    "options": [
+      "De los interesados en el procedimiento",
+      "De los actos administrativos",
+      "De la revisión de los actos en vía administrativa"
+    ],
+    "correct": 0,
+    "exp": "El Título I de la Ley 39/2015 lleva por rúbrica 'De los interesados en el procedimiento' y comprende los artículos 3 a 12."
+  },
+  {
+    "q": "Según el art. 3 a) de la Ley 39/2015, tienen capacidad de obrar ante las Administraciones Públicas:",
+    "options": [
+      "Únicamente las personas físicas mayores de edad",
+      "Las personas físicas o jurídicas que ostenten capacidad de obrar con arreglo a las normas civiles",
+      "Solo las personas jurídicas inscritas en el registro mercantil"
+    ],
+    "correct": 1,
+    "exp": "Art. 3 a): 'Las personas físicas o jurídicas que ostenten capacidad de obrar con arreglo a las normas civiles.'"
+  },
+  {
+    "q": "Según el art. 3 b), los menores de edad tienen capacidad de obrar ante las Administraciones Públicas para:",
+    "options": [
+      "Cualquier actuación administrativa sin excepción",
+      "Ninguna actuación, siempre requieren representante",
+      "El ejercicio y defensa de aquellos derechos e intereses cuya actuación esté permitida por el ordenamiento jurídico sin asistencia de quien ejerza la patria potestad, tutela o curatela"
+    ],
+    "correct": 2,
+    "exp": "Art. 3 b): capacidad de obrar de los menores 'para el ejercicio y defensa de aquellos de sus derechos e intereses cuya actuación esté permitida por el ordenamiento jurídico sin la asistencia de la persona que ejerza la patria potestad, tutela o curatela.'"
+  },
+  {
+    "q": "Según el art. 3 b), ¿qué excepción se establece respecto a los menores en materia de capacidad de obrar?",
+    "options": [
+      "Se exceptúa el supuesto de los menores incapacitados, cuando la incapacitación afecte al ejercicio y defensa de los derechos o intereses de que se trate",
+      "No existe ninguna excepción",
+      "Los menores nunca tienen capacidad de obrar"
+    ],
+    "correct": 0,
+    "exp": "Art. 3 b) in fine: 'Se exceptúa el supuesto de los menores incapacitados, cuando la extensión de la incapacitación afecte al ejercicio y defensa de los derechos o intereses de que se trate.'"
+  },
+  {
+    "q": "Según el art. 3 c), ¿en qué caso tienen capacidad de obrar los grupos de afectados, uniones y entidades sin personalidad jurídica?",
+    "options": [
+      "Siempre, sin necesidad de previsión legal",
+      "Cuando la Ley así lo declare expresamente",
+      "Solo si tienen NIF asignado"
+    ],
+    "correct": 1,
+    "exp": "Art. 3 c): 'Cuando la Ley así lo declare expresamente, los grupos de afectados, las uniones y entidades sin personalidad jurídica y los patrimonios independientes o autónomos.'"
+  },
+  {
+    "q": "¿Cuál de los siguientes NO aparece expresamente en el art. 3 de la Ley 39/2015 como titular de capacidad de obrar?",
+    "options": [
+      "Los menores de edad, para determinados derechos",
+      "Los patrimonios independientes o autónomos, si la ley lo declara",
+      "Los animales considerados seres sintientes"
+    ],
+    "correct": 2,
+    "exp": "El art. 3 recoge personas físicas o jurídicas, menores de edad (con matices) y, si la ley lo declara expresamente, grupos de afectados, uniones sin personalidad y patrimonios independientes. No menciona a los animales."
+  },
+  {
+    "q": "Según el art. 4.1 a), se consideran interesados en el procedimiento administrativo:",
+    "options": [
+      "Quienes lo promuevan como titulares de derechos o intereses legítimos individuales o colectivos",
+      "Solo quienes hayan sido citados formalmente por la Administración",
+      "Solo los representantes legales de una empresa"
+    ],
+    "correct": 0,
+    "exp": "Art. 4.1 a): interesados son 'quienes lo promuevan como titulares de derechos o intereses legítimos individuales o colectivos.'"
+  },
+  {
+    "q": "Según el art. 4.1 b), también son interesados quienes, sin haber iniciado el procedimiento:",
+    "options": [
+      "Hayan sido mencionados en el expediente sin más",
+      "Tengan derechos que puedan resultar afectados por la decisión que se adopte",
+      "Residan en el mismo municipio que el promotor"
+    ],
+    "correct": 1,
+    "exp": "Art. 4.1 b): 'Los que, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte.'"
+  },
+  {
+    "q": "Según el art. 4.1 c), son también interesados aquellos cuyos intereses legítimos puedan resultar afectados por la resolución, siempre que:",
+    "options": [
+      "Lo soliciten antes de iniciarse el procedimiento",
+      "Presenten aval bancario",
+      "Se personen en el procedimiento en tanto no haya recaído resolución definitiva"
+    ],
+    "correct": 2,
+    "exp": "Art. 4.1 c): interesados son aquellos cuyos intereses legítimos... 'puedan resultar afectados por la resolución y se personen en el procedimiento en tanto no haya recaído resolución definitiva.'"
+  },
+  {
+    "q": "Según el art. 4.2, las asociaciones y organizaciones representativas de intereses económicos y sociales:",
+    "options": [
+      "Serán titulares de intereses legítimos colectivos en los términos que la Ley reconozca",
+      "No pueden ser consideradas interesadas en ningún caso",
+      "Solo pueden actuar como testigos"
+    ],
+    "correct": 0,
+    "exp": "Art. 4.2: 'Las asociaciones y organizaciones representativas de intereses económicos y sociales serán titulares de intereses legítimos colectivos en los términos que la Ley reconozca.'"
+  },
+  {
+    "q": "Según el art. 4.3, cuando la condición de interesado derive de una relación jurídica transmisible, ¿qué ocurre?",
+    "options": [
+      "La condición de interesado se extingue automáticamente",
+      "El derecho-habiente sucederá en tal condición cualquiera que sea el estado del procedimiento",
+      "Debe iniciarse un nuevo procedimiento"
+    ],
+    "correct": 1,
+    "exp": "Art. 4.3: 'Cuando la condición de interesado derivase de alguna relación jurídica transmisible, el derecho-habiente sucederá en tal condición cualquiera que sea el estado del procedimiento.'"
+  },
+  {
+    "q": "¿Cuál de las siguientes NO es una de las tres categorías de interesado que recoge el art. 4.1 de la Ley 39/2015?",
+    "options": [
+      "Quienes tengan derechos que puedan verse afectados sin haber iniciado el procedimiento",
+      "Quienes se personen con intereses legítimos que puedan resultar afectados por la resolución",
+      "Cualquier ciudadano que solicite información sobre el expediente por curiosidad"
+    ],
+    "correct": 2,
+    "exp": "El art. 4.1 define tres supuestos tasados de interesado (apartados a, b y c). El mero interés informativo o la curiosidad no otorgan la condición de interesado."
+  },
+  {
+    "q": "Según el art. 5.1, los interesados con capacidad de obrar podrán actuar por medio de representante, entendiéndose con este las actuaciones administrativas:",
+    "options": [
+      "Salvo manifestación expresa en contra del interesado",
+      "Únicamente en procedimientos sancionadores",
+      "Nunca, la Administración siempre trata directamente con el interesado"
+    ],
+    "correct": 0,
+    "exp": "Art. 5.1: 'Los interesados con capacidad de obrar podrán actuar por medio de representante, entendiéndose con éste las actuaciones administrativas, salvo manifestación expresa en contra del interesado.'"
+  },
+  {
+    "q": "Según el art. 5.2, ¿pueden las personas jurídicas actuar en representación de otras ante las Administraciones Públicas?",
+    "options": [
+      "No, solo las personas físicas pueden representar",
+      "Sí, siempre que ello esté previsto en sus Estatutos",
+      "Sí, pero solo en procedimientos tributarios"
+    ],
+    "correct": 1,
+    "exp": "Art. 5.2: 'Las personas físicas con capacidad de obrar y las personas jurídicas, siempre que ello esté previsto en sus Estatutos, podrán actuar en representación de otras...'"
+  },
+  {
+    "q": "Según el art. 5.3, ¿para qué actuaciones debe acreditarse expresamente la representación?",
+    "options": [
+      "Solo para recoger notificaciones postales",
+      "Para asistir a reuniones informativas del Ayuntamiento",
+      "Formular solicitudes, presentar declaraciones responsables, interponer recursos, desistir de acciones y renunciar a derechos"
+    ],
+    "correct": 2,
+    "exp": "Art. 5.3: para formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos, deberá acreditarse la representación."
+  },
+  {
+    "q": "Según el art. 5.3, ¿para qué tipo de actos se presume la representación sin necesidad de acreditarla expresamente?",
+    "options": [
+      "Para los actos y gestiones de mero trámite",
+      "Para interponer un recurso de alzada",
+      "Para desistir de una solicitud ya presentada"
+    ],
+    "correct": 0,
+    "exp": "Art. 5.3 in fine: 'Para los actos y gestiones de mero trámite se presumirá aquella representación.'"
+  },
+  {
+    "q": "Según el art. 5.4, ¿mediante qué medio se entiende acreditada la representación con carácter general?",
+    "options": [
+      "Solo mediante declaración jurada ante notario",
+      "Cualquier medio válido en Derecho que deje constancia fidedigna de su existencia",
+      "Solo mediante certificado del registro civil"
+    ],
+    "correct": 1,
+    "exp": "Art. 5.4: 'La representación podrá acreditarse mediante cualquier medio válido en Derecho que deje constancia fidedigna de su existencia.'"
+  },
+  {
+    "q": "Según el art. 5.4, el apoderamiento 'apud acta' puede efectuarse mediante:",
+    "options": [
+      "Solo mediante llamada telefónica grabada",
+      "Únicamente por correo postal certificado",
+      "Comparecencia personal o comparecencia electrónica en la sede electrónica correspondiente"
+    ],
+    "correct": 2,
+    "exp": "Art. 5.4: se entenderá acreditada la representación mediante apoderamiento apud acta efectuado por comparecencia personal o comparecencia electrónica en la sede electrónica correspondiente."
+  },
+  {
+    "q": "Según el art. 5.6, si la representación no se acredita o se acredita de forma insuficiente, ¿qué plazo se concede para subsanar el defecto, con carácter general?",
+    "options": [
+      "Diez días",
+      "Tres días",
+      "Quince días hábiles siempre"
+    ],
+    "correct": 0,
+    "exp": "Art. 5.6: 'siempre que se aporte aquélla o se subsane el defecto dentro del plazo de diez días que deberá conceder al efecto el órgano administrativo, o de un plazo superior cuando las circunstancias del caso así lo requieran.'"
+  },
+  {
+    "q": "Según el art. 5.7, cuando la Administración habilite a personas para realizar transacciones electrónicas en representación de interesados, ¿puede el interesado comparecer también por sí mismo?",
+    "options": [
+      "No, una vez habilitado el representante, el interesado pierde esa facultad",
+      "Sí, siempre podrá comparecer el interesado por sí mismo en el procedimiento",
+      "Solo si el representante lo autoriza expresamente"
+    ],
+    "correct": 1,
+    "exp": "Art. 5.7 in fine: 'No obstante, siempre podrá comparecer el interesado por sí mismo en el procedimiento.'"
+  },
+  {
+    "q": "Según el art. 5.5, el órgano competente para la tramitación del procedimiento debe incorporar al expediente:",
+    "options": [
+      "Solo el DNI del representante",
+      "Nada, no es necesario documentar la representación",
+      "Acreditación de la condición de representante y de los poderes que tiene reconocidos"
+    ],
+    "correct": 2,
+    "exp": "Art. 5.5: 'El órgano competente para la tramitación del procedimiento deberá incorporar al expediente administrativo acreditación de la condición de representante y de los poderes que tiene reconocidos.'"
+  },
+  {
+    "q": "Según el art. 6.1, ¿qué Administraciones deben disponer de un registro electrónico general de apoderamientos?",
+    "options": [
+      "La Administración General del Estado, las Comunidades Autónomas y las Entidades Locales",
+      "Únicamente la Administración General del Estado",
+      "Solo las Comunidades Autónomas"
+    ],
+    "correct": 0,
+    "exp": "Art. 6.1: 'La Administración General del Estado, las Comunidades Autónomas y las Entidades Locales dispondrán de un registro electrónico general de apoderamientos...'"
+  },
+  {
+    "q": "Según el art. 6.1, en el registro electrónico general de apoderamientos deben inscribirse, al menos, los poderes de carácter general otorgados:",
+    "options": [
+      "Solo mediante escritura pública",
+      "Apud acta, presencial o electrónicamente",
+      "Únicamente mediante fax"
+    ],
+    "correct": 1,
+    "exp": "Art. 6.1: '...deberán inscribirse, al menos, los de carácter general otorgados apud acta, presencial o electrónicamente...'"
+  },
+  {
+    "q": "Según el art. 6.1, en el ámbito estatal, ¿cómo se denomina el registro electrónico general de apoderamientos?",
+    "options": [
+      "Registro Central de Poderes Notariales",
+      "Registro de la Propiedad",
+      "Registro Electrónico de Apoderamientos de la Administración General del Estado"
+    ],
+    "correct": 2,
+    "exp": "Art. 6.1: 'En el ámbito estatal, este registro será el Registro Electrónico de Apoderamientos de la Administración General del Estado.'"
+  },
+  {
+    "q": "Según el art. 6.2, los registros electrónicos generales y particulares de apoderamientos de todas las Administraciones deberán ser:",
+    "options": [
+      "Plenamente interoperables entre sí",
+      "Independientes y sin conexión entre ellos",
+      "Accesibles únicamente mediante solicitud judicial"
+    ],
+    "correct": 0,
+    "exp": "Art. 6.2: 'Los registros electrónicos generales y particulares de apoderamientos... deberán ser plenamente interoperables entre sí, de modo que se garantice su interconexión, compatibilidad informática...'"
+  },
+  {
+    "q": "Según el art. 6.3, ¿cuál de los siguientes datos NO es obligatorio que conste en los asientos de los registros de apoderamientos?",
+    "options": [
+      "Fecha de inscripción y período de vigencia del poder",
+      "El motivo personal por el que se otorga el poder",
+      "Tipo de poder según las facultades otorgadas"
+    ],
+    "correct": 1,
+    "exp": "Art. 6.3 exige datos identificativos del poderdante y apoderado, fecha de inscripción, período de tiempo del poder y tipo de poder; no exige hacer constar el motivo personal del otorgamiento."
+  },
+  {
+    "q": "Según el art. 6.4, ¿cuántas tipologías de poder pueden inscribirse en los registros electrónicos de apoderamientos?",
+    "options": [
+      "Cinco",
+      "Dos",
+      "Tres"
+    ],
+    "correct": 2,
+    "exp": "Art. 6.4 recoge tres tipologías: a) poder general para cualquier actuación ante cualquier Administración; b) poder para actuar ante una Administración u Organismo concreto; c) poder para trámites específicos."
+  },
+  {
+    "q": "Según el art. 6.4 a), un poder general inscrito permite al apoderado actuar en nombre del poderdante:",
+    "options": [
+      "En cualquier actuación administrativa y ante cualquier Administración",
+      "Solo ante el Ayuntamiento de residencia del poderdante",
+      "Únicamente en materia tributaria"
+    ],
+    "correct": 0,
+    "exp": "Art. 6.4 a): 'Un poder general para que el apoderado pueda actuar en nombre del poderdante en cualquier actuación administrativa y ante cualquier Administración.'"
+  },
+  {
+    "q": "Según el art. 6.5, el apoderamiento apud acta se otorga mediante comparecencia electrónica en la sede electrónica correspondiente o bien mediante:",
+    "options": [
+      "Envío de un correo electrónico simple",
+      "Comparecencia personal en las oficinas de asistencia en materia de registros",
+      "Publicación en el Boletín Oficial"
+    ],
+    "correct": 1,
+    "exp": "Art. 6.5: '...o bien mediante comparecencia personal en las oficinas de asistencia en materia de registros.'"
+  },
+  {
+    "q": "Según el art. 6.6, ¿cuál es la validez máxima de los poderes inscritos en el registro electrónico de apoderamientos?",
+    "options": [
+      "Un año, renovable indefinidamente",
+      "Diez años sin posibilidad de prórroga",
+      "Cinco años desde la fecha de inscripción"
+    ],
+    "correct": 2,
+    "exp": "Art. 6.6: 'Los poderes inscritos en el registro tendrán una validez determinada máxima de cinco años a contar desde la fecha de inscripción.'"
+  },
+  {
+    "q": "Según el art. 6.6, antes de que finalice el plazo de validez del poder, el poderdante puede:",
+    "options": [
+      "Revocar o prorrogar el poder en cualquier momento",
+      "Solo revocarlo, nunca prorrogarlo",
+      "Solo prorrogarlo una vez transcurridos los cinco años"
+    ],
+    "correct": 0,
+    "exp": "Art. 6.6: 'en cualquier momento antes de la finalización de dicho plazo el poderdante podrá revocar o prorrogar el poder.'"
+  },
+  {
+    "q": "Según el art. 6.6, las prórrogas de un poder inscrito tienen una validez máxima de:",
+    "options": [
+      "Un año improrrogable",
+      "Cinco años a contar desde la fecha de inscripción de la prórroga",
+      "Igual al tiempo que reste del poder original únicamente"
+    ],
+    "correct": 1,
+    "exp": "Art. 6.6 in fine: 'Las prórrogas otorgadas por el poderdante al registro tendrán una validez determinada máxima de cinco años a contar desde la fecha de inscripción.'"
+  },
+  {
+    "q": "Según el art. 6.7, las solicitudes de inscripción, revocación, prórroga o denuncia de un poder pueden dirigirse a:",
+    "options": [
+      "Únicamente al registro del domicilio del poderdante",
+      "Solo al Registro Electrónico de la AGE",
+      "Cualquier registro, quedando inscrita la circunstancia en el registro de la Administración u Organismo ante el que tenga efectos el poder"
+    ],
+    "correct": 2,
+    "exp": "Art. 6.7: 'Las solicitudes de inscripción del poder, de revocación, de prórroga o de denuncia del mismo podrán dirigirse a cualquier registro, debiendo quedar inscrita esta circunstancia en el registro de la Administración u Organismo ante la que tenga efectos el poder.'"
+  },
+  {
+    "q": "Según el art. 7 de la Ley 39/2015, cuando en una solicitud, escrito o comunicación figuren varios interesados, las actuaciones se realizarán con:",
+    "options": [
+      "El representante o interesado que expresamente se haya señalado, y en su defecto, con el que figure en primer término",
+      "Todos los interesados simultáneamente en todo momento",
+      "Solo con el interesado que resida más cerca del órgano administrativo"
+    ],
+    "correct": 0,
+    "exp": "Art. 7: 'las actuaciones a que den lugar se efectuarán con el representante o el interesado que expresamente hayan señalado, y, en su defecto, con el que figure en primer término.'"
+  },
+  {
+    "q": "El art. 7 de la Ley 39/2015 regula:",
+    "options": [
+      "La capacidad de obrar",
+      "La pluralidad de interesados",
+      "El concepto de interesado"
+    ],
+    "correct": 1,
+    "exp": "El art. 7 lleva por título 'Pluralidad de interesados'."
+  },
+  {
+    "q": "Según el art. 8, si durante la instrucción de un procedimiento sin publicidad se advierte la existencia de personas titulares de derechos o intereses legítimos y directos afectados, la Administración debe:",
+    "options": [
+      "Archivar el procedimiento automáticamente",
+      "Iniciar un procedimiento sancionador contra ellas",
+      "Comunicar a dichas personas la tramitación del procedimiento"
+    ],
+    "correct": 2,
+    "exp": "Art. 8: 'se comunicará a dichas personas la tramitación del procedimiento.'"
+  },
+  {
+    "q": "El art. 8 de la Ley 39/2015 se titula:",
+    "options": [
+      "Nuevos interesados en el procedimiento",
+      "Pluralidad de interesados",
+      "Concepto de interesado"
+    ],
+    "correct": 0,
+    "exp": "El art. 8 lleva por título 'Nuevos interesados en el procedimiento'."
+  },
+  {
+    "q": "Según el art. 8, ¿de qué tipo de procedimiento se está hablando cuando pueden surgir 'nuevos interesados' no detectados inicialmente?",
+    "options": [
+      "Un procedimiento sancionador exclusivamente",
+      "Un procedimiento que no haya tenido publicidad",
+      "Un procedimiento de revisión de oficio"
+    ],
+    "correct": 1,
+    "exp": "Art. 8: 'Si durante la instrucción de un procedimiento que no haya tenido publicidad, se advierte la existencia de personas...'"
+  },
+  {
+    "q": "El Capítulo I del Título I de la Ley 39/2015 se titula:",
+    "options": [
+      "Identificación y firma de los interesados",
+      "Normas generales de actuación",
+      "La capacidad de obrar y el concepto de interesado"
+    ],
+    "correct": 2,
+    "exp": "El Capítulo I del Título I lleva por rúbrica 'La capacidad de obrar y el concepto de interesado', y comprende los artículos 3 a 8."
+  },
+  {
+    "q": "El Capítulo II del Título I de la Ley 39/2015 se titula:",
+    "options": [
+      "Identificación y firma de los interesados en el procedimiento administrativo",
+      "La capacidad de obrar y el concepto de interesado",
+      "De la actividad de las Administraciones Públicas"
+    ],
+    "correct": 0,
+    "exp": "El Capítulo II del Título I lleva por rúbrica 'Identificación y firma de los interesados en el procedimiento administrativo', y comprende los artículos 9 a 12."
+  },
+  {
+    "q": "Según el art. 9.1, las Administraciones Públicas están obligadas a verificar la identidad de los interesados mediante la comprobación de:",
+    "options": [
+      "Su dirección de correo electrónico únicamente",
+      "Su nombre y apellidos o denominación o razón social que consten en el DNI o documento equivalente",
+      "Su afiliación a la Seguridad Social"
+    ],
+    "correct": 1,
+    "exp": "Art. 9.1: '...mediante la comprobación de su nombre y apellidos o denominación o razón social, según corresponda, que consten en el Documento Nacional de Identidad o documento identificativo equivalente.'"
+  },
+  {
+    "q": "Según el art. 9.2 a), uno de los sistemas de identificación electrónica de los interesados son los sistemas basados en:",
+    "options": [
+      "Contraseñas de redes sociales",
+      "Huellas dactilares exclusivamente",
+      "Certificados electrónicos cualificados de firma electrónica de la Lista de confianza de prestadores"
+    ],
+    "correct": 2,
+    "exp": "Art. 9.2 a): 'Sistemas basados en certificados electrónicos cualificados de firma electrónica expedidos por prestadores incluidos en la Lista de confianza de prestadores de servicios de certificación.'"
+  },
+  {
+    "q": "Según el art. 9.2 b), otro sistema de identificación electrónica admitido son los sistemas basados en:",
+    "options": [
+      "Certificados electrónicos cualificados de sello electrónico",
+      "Códigos QR generados por el interesado",
+      "Grabaciones de voz"
+    ],
+    "correct": 0,
+    "exp": "Art. 9.2 b): 'Sistemas basados en certificados electrónicos cualificados de sello electrónico expedidos por prestadores incluidos en la Lista de confianza...'"
+  },
+  {
+    "q": "Según el art. 9.2 c), un sistema adicional de identificación 'cualquier otro que las Administraciones consideren válido' requiere, entre otros requisitos:",
+    "options": [
+      "Aprobación por el Congreso de los Diputados",
+      "Registro previo como usuario y comunicación a la Secretaría General de Administración Digital",
+      "Publicación en el Diario Oficial de la Unión Europea"
+    ],
+    "correct": 1,
+    "exp": "Art. 9.2 c) exige contar con un registro previo como usuario que garantice la identidad y previa comunicación a la Secretaría General de Administración Digital del Ministerio competente."
+  },
+  {
+    "q": "Según el art. 9.2, las Administraciones deben garantizar que la utilización de los sistemas de las letras a) y b) sea posible:",
+    "options": [
+      "Solo si el interesado lo solicita expresamente por escrito",
+      "Únicamente en procedimientos tributarios",
+      "Para todo procedimiento, aunque también se admita algún sistema de la letra c)"
+    ],
+    "correct": 2,
+    "exp": "Art. 9.2 in fine: 'Las Administraciones Públicas deberán garantizar que la utilización de uno de los sistemas previstos en las letras a) y b) sea posible para todo procedimiento, aun cuando se admita para ese mismo procedimiento alguno de los previstos en la letra c).'"
+  },
+  {
+    "q": "Según el art. 9.3, los recursos técnicos para los sistemas de identificación de la letra c) del art. 9.2 deben situarse en:",
+    "options": [
+      "Territorio de la Unión Europea",
+      "Cualquier país del mundo sin restricción",
+      "Solo en países de la OCDE"
+    ],
+    "correct": 0,
+    "exp": "Art. 9.3: '...se establece la obligatoriedad de que los recursos técnicos necesarios... se encuentren situados en territorio de la Unión Europea.'"
+  },
+  {
+    "q": "Según el art. 9.4, cuando la Administración General del Estado acepta un sistema de identificación electrónica, este sirve para acreditar la identificación:",
+    "options": [
+      "Únicamente frente a la Comunidad Autónoma correspondiente",
+      "Frente a todas las Administraciones Públicas, salvo prueba en contrario",
+      "Frente a ninguna otra Administración sin convenio expreso"
+    ],
+    "correct": 1,
+    "exp": "Art. 9.4: 'la aceptación de alguno de estos sistemas por la Administración General del Estado servirá para acreditar frente a todas las Administraciones Públicas, salvo prueba en contrario, la identificación electrónica de los interesados.'"
+  },
+  {
+    "q": "El art. 9 de la Ley 39/2015 regula:",
+    "options": [
+      "Los sistemas de firma admitidos por las Administraciones Públicas",
+      "El uso de medios de identificación y firma",
+      "Los sistemas de identificación de los interesados en el procedimiento"
+    ],
+    "correct": 2,
+    "exp": "El art. 9 se titula 'Sistemas de identificación de los interesados en el procedimiento'."
+  },
+  {
+    "q": "Según el art. 9.1, ¿qué documento sirve de referencia principal para verificar la identidad de un interesado persona física?",
+    "options": [
+      "El Documento Nacional de Identidad o documento identificativo equivalente",
+      "El pasaporte exclusivamente",
+      "El carné de conducir"
+    ],
+    "correct": 0,
+    "exp": "Art. 9.1 hace referencia expresa al 'Documento Nacional de Identidad o documento identificativo equivalente'."
+  },
+  {
+    "q": "Según el art. 10.1, los interesados podrán firmar a través de cualquier medio que permita acreditar:",
+    "options": [
+      "Únicamente su nombre completo",
+      "La autenticidad de la expresión de su voluntad y consentimiento, así como la integridad e inalterabilidad del documento",
+      "Su situación laboral"
+    ],
+    "correct": 1,
+    "exp": "Art. 10.1: '...cualquier medio que permita acreditar la autenticidad de la expresión de su voluntad y consentimiento, así como la integridad e inalterabilidad del documento.'"
+  },
+  {
+    "q": "Según el art. 10.2 a), se considera válido a efectos de firma electrónica el sistema basado en:",
+    "options": [
+      "Un mensaje SMS de confirmación",
+      "Una firma escaneada sin certificado",
+      "Certificados electrónicos cualificados de firma electrónica de la Lista de confianza de prestadores"
+    ],
+    "correct": 2,
+    "exp": "Art. 10.2 a): 'Sistemas de firma electrónica cualificada y avanzada basados en certificados electrónicos cualificados de firma electrónica expedidos por prestadores incluidos en la Lista de confianza...'"
+  },
+  {
+    "q": "Según el art. 10.2 b), también se admite como sistema de firma:",
+    "options": [
+      "El sello electrónico cualificado o avanzado basado en certificados cualificados de sello electrónico",
+      "Cualquier fotografía de la firma manuscrita",
+      "El número de teléfono del interesado"
+    ],
+    "correct": 0,
+    "exp": "Art. 10.2 b): 'Sistemas de sello electrónico cualificado y de sello electrónico avanzado basados en certificados electrónicos cualificados de sello electrónico...'"
+  },
+  {
+    "q": "Según el art. 10.4, cuando la normativa reguladora lo disponga expresamente, las Administraciones podrán admitir los sistemas de identificación como sistema de firma cuando:",
+    "options": [
+      "El interesado tenga más de 65 años",
+      "Permitan acreditar la autenticidad de la expresión de la voluntad y consentimiento de los interesados",
+      "Se trate de un procedimiento urgente"
+    ],
+    "correct": 1,
+    "exp": "Art. 10.4: '...las Administraciones Públicas podrán admitir los sistemas de identificación contemplados en esta Ley como sistema de firma cuando permitan acreditar la autenticidad de la expresión de la voluntad y consentimiento de los interesados.'"
+  },
+  {
+    "q": "Según el art. 10.5, cuando el interesado utiliza un sistema de firma de los previstos en la Ley, su identidad se entiende:",
+    "options": [
+      "No acreditada hasta que la Administración lo confirme por escrito",
+      "Acreditada solo si además presenta el DNI físico",
+      "Ya acreditada mediante el propio acto de la firma"
+    ],
+    "correct": 2,
+    "exp": "Art. 10.5: 'Cuando los interesados utilicen un sistema de firma de los previstos en este artículo, su identidad se entenderá ya acreditada mediante el propio acto de la firma.'"
+  },
+  {
+    "q": "El art. 10 de la Ley 39/2015 regula:",
+    "options": [
+      "Los sistemas de firma admitidos por las Administraciones Públicas",
+      "Los sistemas de identificación de los interesados",
+      "La asistencia en el uso de medios electrónicos"
+    ],
+    "correct": 0,
+    "exp": "El art. 10 se titula 'Sistemas de firma admitidos por las Administraciones Públicas'."
+  },
+  {
+    "q": "Según el art. 10.3, en relación con los sistemas de firma de la letra c) del art. 10.2, los recursos técnicos deben situarse en:",
+    "options": [
+      "Cualquier lugar del mundo",
+      "Territorio de la Unión Europea",
+      "Solo en países con convenio bilateral"
+    ],
+    "correct": 1,
+    "exp": "Art. 10.3, en paralelo al art. 9.3, exige que los recursos técnicos de estos sistemas se sitúen en territorio de la Unión Europea."
+  },
+  {
+    "q": "Según el art. 11.1, con carácter general, para realizar cualquier actuación en el procedimiento administrativo será suficiente con que los interesados acrediten previamente:",
+    "options": [
+      "Su firma electrónica cualificada en todo caso",
+      "Su situación económica",
+      "Su identidad a través de cualquiera de los medios de identificación previstos en la Ley"
+    ],
+    "correct": 2,
+    "exp": "Art. 11.1: 'Con carácter general, para realizar cualquier actuación prevista en el procedimiento administrativo, será suficiente con que los interesados acrediten previamente su identidad...'"
+  },
+  {
+    "q": "Según el art. 11.2, ¿para cuál de las siguientes actuaciones exige la Ley el uso obligatorio de firma, y no solo identificación?",
+    "options": [
+      "Formular solicitudes",
+      "Solicitar una cita previa",
+      "Descargar un formulario"
+    ],
+    "correct": 0,
+    "exp": "Art. 11.2 enumera: a) formular solicitudes; b) presentar declaraciones responsables o comunicaciones; c) interponer recursos; d) desistir de acciones; e) renunciar a derechos."
+  },
+  {
+    "q": "Según el art. 11.2, ¿cuál de las siguientes SÍ exige firma según la Ley 39/2015?",
+    "options": [
+      "Recibir una notificación informativa",
+      "Renunciar a derechos",
+      "Acceder al portal de transparencia"
+    ],
+    "correct": 1,
+    "exp": "Art. 11.2 e) incluye 'Renunciar a derechos' entre las actuaciones que exigen el uso obligatorio de firma."
+  },
+  {
+    "q": "El art. 11 de la Ley 39/2015 regula:",
+    "options": [
+      "Los sistemas de identificación exclusivamente",
+      "Los sistemas de firma exclusivamente",
+      "El uso de medios de identificación y firma en el procedimiento administrativo"
+    ],
+    "correct": 2,
+    "exp": "El art. 11 se titula 'Uso de medios de identificación y firma en el procedimiento administrativo'."
+  },
+  {
+    "q": "Según el art. 12.1, las Administraciones Públicas deben garantizar que los interesados puedan relacionarse con la Administración a través de:",
+    "options": [
+      "Medios electrónicos, poniendo a su disposición los canales y sistemas necesarios",
+      "Solo medios postales",
+      "Únicamente atención telefónica"
+    ],
+    "correct": 0,
+    "exp": "Art. 12.1: 'Las Administraciones Públicas deberán garantizar que los interesados pueden relacionarse con la Administración a través de medios electrónicos, para lo que pondrán a su disposición los canales de acceso que sean necesarios...'"
+  },
+  {
+    "q": "Según el art. 12.2, las Administraciones Públicas deben asistir en el uso de medios electrónicos, especialmente en materia de:",
+    "options": [
+      "Contratación de personal",
+      "Identificación y firma electrónica, presentación de solicitudes y obtención de copias auténticas",
+      "Gestión de tributos autonómicos"
+    ],
+    "correct": 1,
+    "exp": "Art. 12.2: la asistencia se prestará 'especialmente en lo referente a la identificación y firma electrónica, presentación de solicitudes a través del registro electrónico general y obtención de copias auténticas.'"
+  },
+  {
+    "q": "Según el art. 12.2, si un interesado no dispone de medios electrónicos necesarios, ¿quién puede realizar válidamente su identificación o firma electrónica?",
+    "options": [
+      "Un familiar cualquiera sin necesidad de acreditación",
+      "Un notario exclusivamente",
+      "Un funcionario público mediante el uso de su propio sistema de firma electrónica"
+    ],
+    "correct": 2,
+    "exp": "Art. 12.2: 'su identificación o firma electrónica en el procedimiento administrativo podrá ser válidamente realizada por un funcionario público mediante el uso del sistema de firma electrónica del que esté dotado para ello.'"
+  },
+  {
+    "q": "Según el art. 12.2, para que un funcionario realice la identificación o firma electrónica en nombre de un interesado sin medios electrónicos, es necesario que:",
+    "options": [
+      "El interesado se identifique ante el funcionario y preste su consentimiento expreso, quedando constancia de ello",
+      "Solo se requiere la presencia del funcionario, sin más trámite",
+      "El interesado firme un contrato notarial previo"
+    ],
+    "correct": 0,
+    "exp": "Art. 12.2 in fine: 'será necesario que el interesado que carezca de los medios electrónicos necesarios se identifique ante el funcionario y preste su consentimiento expreso para esta actuación, de lo que deberá quedar constancia.'"
+  },
+  {
+    "q": "Según el art. 12.3, la AGE, las CCAA y las Entidades Locales deben mantener actualizado un registro donde consten:",
+    "options": [
+      "Los interesados que hayan renunciado a un derecho",
+      "Los funcionarios habilitados para la identificación o firma en representación de interesados",
+      "Los recursos de alzada pendientes de resolución"
+    ],
+    "correct": 1,
+    "exp": "Art. 12.3: '...mantendrán actualizado un registro, u otro sistema equivalente, donde constarán los funcionarios habilitados para la identificación o firma regulada en este artículo.'"
+  },
+  {
+    "q": "Según el art. 12.3, los registros de funcionarios habilitados deben ser:",
+    "options": [
+      "Confidenciales y no accesibles entre Administraciones",
+      "Solo accesibles mediante orden judicial",
+      "Plenamente interoperables e interconectados con los de las restantes Administraciones Públicas"
+    ],
+    "correct": 2,
+    "exp": "Art. 12.3: 'Estos registros o sistemas deberán ser plenamente interoperables y estar interconectados con los de las restantes Administraciones Públicas, a los efectos de comprobar la validez de las citadas habilitaciones.'"
+  },
+  {
+    "q": "El art. 12 de la Ley 39/2015 se titula:",
+    "options": [
+      "Asistencia en el uso de medios electrónicos a los interesados",
+      "Sistemas de identificación de los interesados",
+      "Uso de medios de identificación y firma"
+    ],
+    "correct": 0,
+    "exp": "El art. 12 lleva por título 'Asistencia en el uso de medios electrónicos a los interesados'."
+  },
+  {
+    "q": "¿Qué artículos de la Ley 39/2015 comprende el Capítulo I del Título I, 'La capacidad de obrar y el concepto de interesado'?",
+    "options": [
+      "Del 1 al 2",
+      "Del 3 al 8",
+      "Del 13 al 20"
+    ],
+    "correct": 1,
+    "exp": "El Capítulo I del Título I abarca los artículos 3 (capacidad de obrar), 4 (concepto de interesado), 5 (representación), 6 (registros de apoderamientos), 7 (pluralidad de interesados) y 8 (nuevos interesados)."
+  },
+  {
+    "q": "¿Qué artículos de la Ley 39/2015 comprende el Capítulo II del Título I, 'Identificación y firma de los interesados'?",
+    "options": [
+      "Del 13 al 16",
+      "Del 1 al 2",
+      "Del 9 al 12"
+    ],
+    "correct": 2,
+    "exp": "El Capítulo II del Título I abarca los artículos 9 (sistemas de identificación), 10 (sistemas de firma), 11 (uso de medios de identificación y firma) y 12 (asistencia en el uso de medios electrónicos)."
+  },
+  {
+    "q": "Según el art. 5.1, la Administración se entiende con el representante del interesado salvo que:",
+    "options": [
+      "Exista manifestación expresa en contra del interesado",
+      "El representante no tenga estudios universitarios",
+      "El trámite sea de carácter urgente"
+    ],
+    "correct": 0,
+    "exp": "Art. 5.1: '...entendiéndose con éste las actuaciones administrativas, salvo manifestación expresa en contra del interesado.'"
+  },
+  {
+    "q": "Según el art. 4.1 a), la promoción de un procedimiento como titular de derechos o intereses legítimos puede ser:",
+    "options": [
+      "Únicamente individual",
+      "Individual o colectiva",
+      "Únicamente colectiva y a través de sindicatos"
+    ],
+    "correct": 1,
+    "exp": "Art. 4.1 a): '...titulares de derechos o intereses legítimos individuales o colectivos.'"
+  },
+  {
+    "q": "Según el art. 3, ¿la capacidad de obrar de personas jurídicas se determina con arreglo a qué normas, salvo previsión especial de la propia Ley 39/2015?",
+    "options": [
+      "Las normas penales",
+      "Las normas laborales exclusivamente",
+      "Las normas civiles"
+    ],
+    "correct": 2,
+    "exp": "Art. 3 a): tienen capacidad de obrar 'las personas físicas o jurídicas que ostenten capacidad de obrar con arreglo a las normas civiles.'"
+  },
+  {
+    "q": "Según el art. 6.2, además de entre Administraciones, ¿con qué otros registros deben ser interoperables los registros de apoderamientos?",
+    "options": [
+      "El registro mercantil, de la propiedad y los protocolos notariales",
+      "El registro de vehículos de la DGT",
+      "El registro de la Seguridad Social exclusivamente"
+    ],
+    "correct": 0,
+    "exp": "Art. 6.2: 'permitirán comprobar válidamente la representación... mediante la consulta a otros registros administrativos similares, al registro mercantil, de la propiedad, y a los protocolos notariales.'"
+  },
+  {
+    "q": "Según el art. 9.2 c), tras la comunicación a la Secretaría General de Administración Digital, ¿cuánto tiempo debe transcurrir antes de la eficacia jurídica del nuevo sistema de identificación?",
+    "options": [
+      "Quince días",
+      "Dos meses",
+      "Una semana"
+    ],
+    "correct": 1,
+    "exp": "Art. 9.2 c): 'De forma previa a la eficacia jurídica del sistema, habrán de transcurrir dos meses desde dicha comunicación...'"
+  },
+  {
+    "q": "Según el art. 9.2 c), durante el plazo de dos meses tras la comunicación de un nuevo sistema de identificación, ¿qué puede hacer el órgano estatal competente por motivos de seguridad pública?",
+    "options": [
+      "Prohibir el sistema directamente sin motivación",
+      "Imponer una multa a la Administración que lo propone",
+      "Acudir a la vía jurisdiccional, previo informe vinculante de la Secretaría de Estado de Seguridad"
+    ],
+    "correct": 2,
+    "exp": "Art. 9.2 c): '...el órgano estatal competente por motivos de seguridad pública podrá acudir a la vía jurisdiccional, previo informe vinculante de la Secretaría de Estado de Seguridad, que deberá emitir en el plazo de diez días desde su solicitud.'"
+  },
+  {
+    "q": "Según el art. 6.1, además del registro general, ¿pueden existir registros particulares de apoderamientos en cada Organismo?",
+    "options": [
+      "Sí, cada Organismo puede disponer de su propio registro electrónico de apoderamientos para trámites específicos",
+      "No, solo puede existir un único registro por Administración",
+      "Sí, pero solo si lo autoriza expresamente el Consejo de Ministros"
+    ],
+    "correct": 0,
+    "exp": "Art. 6.1: 'Los registros generales de apoderamientos no impedirán la existencia de registros particulares en cada Organismo donde se inscriban los poderes otorgados para la realización de trámites específicos en el mismo.'"
+  },
+  {
+    "q": "Según el art. 4.2, ¿en qué medida son titulares de intereses legítimos colectivos las asociaciones y organizaciones representativas?",
+    "options": [
+      "Siempre, sin ninguna limitación legal",
+      "En los términos que la Ley reconozca",
+      "Nunca, solo las personas físicas tienen intereses legítimos"
+    ],
+    "correct": 1,
+    "exp": "Art. 4.2: '...serán titulares de intereses legítimos colectivos en los términos que la Ley reconozca.'"
+  },
+  {
+    "q": "¿Cuántos apartados (letras) componen la enumeración del sector público del art. 2.1 de la Ley 39/2015?",
+    "options": [
+      "Tres",
+      "Cinco",
+      "Cuatro"
+    ],
+    "correct": 2,
+    "exp": "Art. 2.1 enumera cuatro letras: a) AGE; b) Administraciones de las CCAA; c) Entidades de la Administración Local; d) sector público institucional."
+  },
+  {
+    "q": "Según el art. 2.1, ¿a qué letra corresponde 'Las Entidades que integran la Administración Local'?",
+    "options": [
+      "Letra c)",
+      "Letra b)",
+      "Letra d)"
+    ],
+    "correct": 0,
+    "exp": "Art. 2.1 c): 'Las Entidades que integran la Administración Local.'"
+  },
+  {
+    "q": "Según el art. 5.2, además de las personas jurídicas cuyos Estatutos lo prevean, ¿quién más puede actuar en representación de otras personas ante las Administraciones Públicas?",
+    "options": [
+      "Solo los procuradores de los tribunales",
+      "Las personas físicas con capacidad de obrar",
+      "Ninguna persona física puede representar a otra"
+    ],
+    "correct": 1,
+    "exp": "Art. 5.2: 'Las personas físicas con capacidad de obrar y las personas jurídicas, siempre que ello esté previsto en sus Estatutos, podrán actuar en representación de otras...'"
+  },
+  {
+    "q": "Según el art. 6.4 b), el segundo tipo de poder inscribible permite al apoderado actuar en nombre del poderdante:",
+    "options": [
+      "Ante cualquier Administración sin límite",
+      "Solo durante los primeros diez días del año",
+      "Ante una Administración u Organismo concreto"
+    ],
+    "correct": 2,
+    "exp": "Art. 6.4 b): 'Un poder para que el apoderado pueda actuar en nombre del poderdante en cualquier actuación administrativa ante una Administración u Organismo concreto.'"
+  },
+  {
+    "q": "Según el art. 6.4 c), el tercer tipo de poder inscribible permite al apoderado actuar únicamente para:",
+    "options": [
+      "La realización de determinados trámites especificados en el poder",
+      "Cualquier actuación sin restricción",
+      "Trámites tributarios en cualquier Administración"
+    ],
+    "correct": 0,
+    "exp": "Art. 6.4 c): 'Un poder para que el apoderado pueda actuar en nombre del poderdante únicamente para la realización de determinados trámites especificados en el poder.'"
+  },
+  {
+    "q": "Según el art. 6.3 d), entre los datos que deben constar en los asientos del registro de apoderamientos figura:",
+    "options": [
+      "El domicilio fiscal del apoderado únicamente",
+      "El período de tiempo por el cual se otorga el poder",
+      "El número de cuenta bancaria del poderdante"
+    ],
+    "correct": 1,
+    "exp": "Art. 6.3 d): 'Período de tiempo por el cual se otorga el poder.'"
+  },
+  {
+    "q": "Según el art. 6.3 a), entre los datos del asiento debe figurar el documento nacional de identidad, NIF o documento equivalente de:",
+    "options": [
+      "Solo el apoderado",
+      "El notario interviniente",
+      "El poderdante"
+    ],
+    "correct": 2,
+    "exp": "Art. 6.3 a): 'Nombre y apellidos o la denominación o razón social, documento nacional de identidad, número de identificación fiscal o documento equivalente del poderdante.'"
+  },
+  {
+    "q": "Según el art. 9.2 c), la comunicación a la Secretaría General de Administración Digital para un nuevo sistema de identificación debe acompañarse de:",
+    "options": [
+      "Una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente",
+      "Un informe de un auditor externo",
+      "El visto bueno del Consejo General del Poder Judicial"
+    ],
+    "correct": 0,
+    "exp": "Art. 9.2 c): 'Esta comunicación vendrá acompañada de una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente.'"
+  },
+  {
+    "q": "Según el art. 10.2 c), al igual que en materia de identificación, ¿qué plazo debe transcurrir desde la comunicación de un nuevo sistema de firma antes de su eficacia jurídica?",
+    "options": [
+      "Un mes",
+      "Dos meses",
+      "Seis meses"
+    ],
+    "correct": 1,
+    "exp": "Art. 10.2 c), en paralelo al art. 9.2 c): 'De forma previa a la eficacia jurídica del sistema, habrán de transcurrir dos meses desde dicha comunicación.'"
+  },
+  {
+    "q": "Según el art. 12.1, además de los canales de acceso necesarios, ¿qué otro elemento deben poner las Administraciones a disposición de los interesados?",
+    "options": [
+      "Un intérprete jurado gratuito",
+      "Un abogado de oficio en todo procedimiento",
+      "Los sistemas y aplicaciones que en cada caso se determinen"
+    ],
+    "correct": 2,
+    "exp": "Art. 12.1: '...para lo que pondrán a su disposición los canales de acceso que sean necesarios así como los sistemas y aplicaciones que en cada caso se determinen.'"
+  },
+  {
+    "q": "Según el art. 1.1, ¿qué dos procedimientos especiales quedan expresamente incluidos dentro del procedimiento administrativo común regulado por la Ley?",
+    "options": [
+      "El sancionador y el de reclamación de responsabilidad de las Administraciones Públicas",
+      "El tributario y el laboral",
+      "El notarial y el registral"
+    ],
+    "correct": 0,
+    "exp": "Art. 1.1: la Ley regula 'el procedimiento administrativo común a todas las Administraciones Públicas, incluyendo el sancionador y el de reclamación de responsabilidad de las Administraciones Públicas.'"
+  },
+  {
+    "q": "El Título Preliminar de la Ley 39/2015, 'Disposiciones generales', comprende los artículos:",
+    "options": [
+      "1 a 5",
+      "1 y 2",
+      "1 a 12"
+    ],
+    "correct": 1,
+    "exp": "El Título Preliminar de la Ley 39/2015 comprende únicamente los artículos 1 (objeto de la Ley) y 2 (ámbito subjetivo de aplicación)."
+  },
+  {
+    "q": "Según el art. 4.1 c), para tener la condición de interesado por resultar afectados intereses legítimos, además de la afectación es necesario:",
+    "options": [
+      "Ser funcionario de la Administración instructora",
+      "Tener nacionalidad española",
+      "Personarse en el procedimiento en tanto no haya recaído resolución definitiva"
+    ],
+    "correct": 2,
+    "exp": "Art. 4.1 c): '...puedan resultar afectados por la resolución y se personen en el procedimiento en tanto no haya recaído resolución definitiva.'"
+  },
+  {
+    "q": "Según el art. 2.1, ¿a qué letra corresponde 'La Administración General del Estado' dentro de la enumeración del sector público?",
+    "options": [
+      "Letra a)",
+      "Letra c)",
+      "Letra d)"
+    ],
+    "correct": 0,
+    "exp": "Art. 2.1 a): 'La Administración General del Estado' encabeza la enumeración del sector público al que se aplica la Ley."
+  },
+  {
+    "q": "Según el art. 6.1 LPAC, ¿qué Administraciones dispondrán de un registro electrónico general de apoderamientos?",
+    "options": [
+      "Únicamente la Administración General del Estado.",
+      "La Administración General del Estado, las Comunidades Autónomas y las Entidades Locales.",
+      "La Administración General del Estado y las Comunidades Autónomas, pero no las Entidades Locales."
+    ],
+    "correct": 1,
+    "exp": "El art. 6.1 LPAC dispone que la AGE, las Comunidades Autónomas y las Entidades Locales dispondrán de un registro electrónico general de apoderamientos.",
+    "fuente": "Art. 6.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 6.1 LPAC, ¿qué poderes deberán inscribirse, al menos, en el registro electrónico general de apoderamientos?",
+    "options": [
+      "Todos los poderes, generales o especiales, cualquiera que sea su forma de otorgamiento.",
+      "Únicamente los poderes otorgados ante notario para actuaciones judiciales.",
+      "Los de carácter general otorgados apud acta, presencial o electrónicamente, por quien ostente la condición de interesado a favor de representante, para actuar en su nombre ante las Administraciones Públicas."
+    ],
+    "correct": 2,
+    "exp": "El art. 6.1 LPAC exige inscribir, al menos, los poderes de carácter general otorgados apud acta, presencial o electrónicamente, por quien ostente la condición de interesado a favor de representante, para actuar en su nombre ante las Administraciones Públicas.",
+    "fuente": "Art. 6.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 6.1 LPAC, además de la inscripción del poder, ¿qué otro dato deberá constar en el registro electrónico general de apoderamientos?",
+    "options": [
+      "El bastanteo realizado del poder.",
+      "El domicilio fiscal del apoderado.",
+      "El número de expediente en el que se empleará el poder."
+    ],
+    "correct": 0,
+    "exp": "El art. 6.1 LPAC señala que también deberá constar el bastanteo realizado del poder.",
+    "fuente": "Art. 6.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "En el ámbito estatal, ¿cuál es el registro electrónico general de apoderamientos al que se refiere el art. 6.1 LPAC?",
+    "options": [
+      "El Registro Electrónico General de la Administración General del Estado.",
+      "El Registro Electrónico de Apoderamientos de la Administración General del Estado.",
+      "El Registro Central de Representantes del Ministerio de Justicia."
+    ],
+    "correct": 1,
+    "exp": "El art. 6.1 LPAC precisa que, en el ámbito estatal, este registro será el Registro Electrónico de Apoderamientos de la Administración General del Estado.",
+    "fuente": "Art. 6.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Impide el registro electrónico general de apoderamientos, según el art. 6.1 LPAC, la existencia de registros particulares en cada Organismo?",
+    "options": [
+      "Sí, la creación del registro general deroga automáticamente cualquier registro particular existente.",
+      "Solo pueden coexistir si lo autoriza expresamente el Consejo de Ministros mediante real decreto.",
+      "No; cada Organismo podrá disponer de su propio registro electrónico de apoderamientos para trámites específicos."
+    ],
+    "correct": 2,
+    "exp": "El art. 6.1 LPAC establece que los registros generales de apoderamientos no impedirán la existencia de registros particulares en cada Organismo, que podrá disponer de su propio registro electrónico de apoderamientos.",
+    "fuente": "Art. 6.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 6.2 LPAC, los registros electrónicos generales y particulares de apoderamientos de todas las Administraciones deberán:",
+    "options": [
+      "Ser plenamente interoperables entre sí, garantizando su interconexión, compatibilidad informática y la transmisión telemática de solicitudes, escritos y comunicaciones.",
+      "Permanecer independientes entre Administraciones para preservar la protección de datos.",
+      "Requerir la autorización previa del Registro Mercantil para cada asiento."
+    ],
+    "correct": 0,
+    "exp": "El art. 6.2 LPAC exige que los registros electrónicos generales y particulares de apoderamientos de todas las Administraciones sean plenamente interoperables entre sí, garantizando interconexión, compatibilidad informática y transmisión telemática.",
+    "fuente": "Art. 6.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 6.2 LPAC permite comprobar válidamente la representación de quienes actúan ante las Administraciones Públicas en nombre de un tercero mediante la consulta a:",
+    "options": [
+      "El Registro Civil y el Padrón municipal.",
+      "Otros registros administrativos similares, al registro mercantil, de la propiedad, y a los protocolos notariales.",
+      "Únicamente el registro de la Propiedad."
+    ],
+    "correct": 1,
+    "exp": "El art. 6.2 LPAC permite comprobar la representación mediante consulta a otros registros administrativos similares, al registro mercantil, de la propiedad, y a los protocolos notariales.",
+    "fuente": "Art. 6.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 6.2 LPAC, ¿qué obligación de interoperabilidad se establece respecto de los registros mercantiles, de la propiedad y de los protocolos notariales?",
+    "options": [
+      "Ninguna; son registros ajenos al sistema de apoderamientos electrónicos.",
+      "Solo el registro mercantil tiene obligación de interoperabilidad; los otros dos quedan excluidos.",
+      "Deberán ser interoperables con los registros electrónicos generales y particulares de apoderamientos."
+    ],
+    "correct": 2,
+    "exp": "El art. 6.2 LPAC dispone que los registros mercantiles, de la propiedad y de los protocolos notariales serán interoperables con los registros electrónicos generales y particulares de apoderamientos.",
+    "fuente": "Art. 6.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de los siguientes datos NO figura entre los que, como mínimo, deben contener los asientos de los registros de apoderamientos según el art. 6.3 LPAC?",
+    "options": [
+      "El domicilio del apoderado.",
+      "El período de tiempo por el cual se otorga el poder.",
+      "El tipo de poder según las facultades que otorgue."
+    ],
+    "correct": 0,
+    "exp": "El art. 6.3 LPAC exige nombre/denominación e identificación del poderdante y del apoderado, fecha de inscripción, período de vigencia y tipo de poder; no exige el domicilio del apoderado.",
+    "fuente": "Art. 6.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 6.3.a) LPAC, respecto del poderdante, el asiento del registro deberá contener:",
+    "options": [
+      "Únicamente su número de identificación fiscal.",
+      "Nombre y apellidos o la denominación o razón social, documento nacional de identidad, número de identificación fiscal o documento equivalente.",
+      "Su domicilio fiscal y número de cuenta bancaria."
+    ],
+    "correct": 1,
+    "exp": "El art. 6.3.a) LPAC exige nombre y apellidos o denominación o razón social, DNI, NIF o documento equivalente del poderdante.",
+    "fuente": "Art. 6.3.a) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 6.3.b) LPAC exige que el asiento contenga, respecto del apoderado, determinados datos identificativos. ¿Cuáles son?",
+    "options": [
+      "Su relación de parentesco con el poderdante.",
+      "Su número de colegiado, en caso de ser profesional colegiado.",
+      "Nombre y apellidos o la denominación o razón social, documento nacional de identidad, número de identificación fiscal o documento equivalente."
+    ],
+    "correct": 2,
+    "exp": "El art. 6.3.b) LPAC exige, respecto del apoderado, nombre y apellidos o denominación o razón social, DNI, NIF o documento equivalente.",
+    "fuente": "Art. 6.3.b) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El dato exigido por el art. 6.3.d) LPAC en el asiento del registro de apoderamientos es:",
+    "options": [
+      "El período de tiempo por el cual se otorga el poder.",
+      "El tipo de poder según las facultades que otorgue.",
+      "El documento nacional de identidad del apoderado."
+    ],
+    "correct": 0,
+    "exp": "El art. 6.3.d) LPAC exige que conste el período de tiempo por el cual se otorga el poder.",
+    "fuente": "Art. 6.3.d) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 6.3.e) LPAC, el asiento del registro de apoderamientos deberá contener:",
+    "options": [
+      "El domicilio del poderdante.",
+      "El tipo de poder según las facultades que otorgue.",
+      "El número de expediente del procedimiento."
+    ],
+    "correct": 1,
+    "exp": "El art. 6.3.e) LPAC exige que conste el tipo de poder según las facultades que otorgue.",
+    "fuente": "Art. 6.3.e) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántas tipologías de poderes inscribibles regula, con carácter general, el art. 6.4 LPAC en sus letras a), b) y c)?",
+    "options": [
+      "Dos.",
+      "Cinco.",
+      "Tres."
+    ],
+    "correct": 2,
+    "exp": "El art. 6.4 LPAC establece tres tipologías de poderes: general, para una Administración u Organismo concreto, y para trámites determinados.",
+    "fuente": "Art. 6.4 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 6.4.a) LPAC, el poder general inscribible permite que el apoderado actúe en nombre del poderdante:",
+    "options": [
+      "En cualquier actuación administrativa y ante cualquier Administración.",
+      "Solo ante la Administración que le hubiera otorgado el poder.",
+      "Exclusivamente para la presentación de recursos administrativos."
+    ],
+    "correct": 0,
+    "exp": "El art. 6.4.a) LPAC define el poder general como aquel que permite actuar en cualquier actuación administrativa y ante cualquier Administración.",
+    "fuente": "Art. 6.4.a) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El poder previsto en el art. 6.4.b) LPAC habilita al apoderado para actuar en nombre del poderdante:",
+    "options": [
+      "En cualquier actuación administrativa y ante cualquier Administración.",
+      "En cualquier actuación administrativa, pero solo ante una Administración u Organismo concreto.",
+      "Solo durante el plazo de un año desde su otorgamiento."
+    ],
+    "correct": 1,
+    "exp": "El art. 6.4.b) LPAC regula el poder para actuar en cualquier actuación administrativa ante una Administración u Organismo concreto.",
+    "fuente": "Art. 6.4.b) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 6.4.c) LPAC, el tercer tipo de poder inscribible habilita al apoderado a actuar en nombre del poderdante:",
+    "options": [
+      "En cualquier actuación administrativa y ante cualquier Administración.",
+      "Solo ante los Organismos con sede en la Comunidad Autónoma del poderdante.",
+      "Únicamente para la realización de determinados trámites especificados en el poder."
+    ],
+    "correct": 2,
+    "exp": "El art. 6.4.c) LPAC regula el poder para actuar únicamente en la realización de determinados trámites especificados en el poder.",
+    "fuente": "Art. 6.4.c) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿A quién corresponde aprobar los modelos de poderes inscribibles en el registro, conforme al art. 6.4 LPAC, cuando dichos poderes se circunscriban a actuaciones ante la respectiva Administración autonómica?",
+    "options": [
+      "A cada Comunidad Autónoma.",
+      "Al Consejo General del Poder Judicial.",
+      "A cada Entidad Local."
+    ],
+    "correct": 0,
+    "exp": "El art. 6.4 LPAC dispone que cada Comunidad Autónoma aprobará los modelos de poderes inscribibles cuando se circunscriban a actuaciones ante su respectiva Administración.",
+    "fuente": "Art. 6.4 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué ocurrió con el segundo párrafo del apartado 4 del art. 6 LPAC, según consta en el texto consolidado?",
+    "options": [
+      "Fue derogado por la Ley 11/2022.",
+      "Fue declarado inconstitucional y nulo por la Sentencia del Tribunal Constitucional 55/2018, de 24 de mayo.",
+      "Fue modificado por el Real Decreto-ley 14/2019."
+    ],
+    "correct": 1,
+    "exp": "El texto consolidado del art. 6.4 LPAC recoge que el segundo párrafo del apartado 4 fue declarado inconstitucional y nulo por la STC 55/2018, de 24 de mayo.",
+    "fuente": "Art. 6.4 LPAC (nota del texto consolidado, STC 55/2018)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 6.5 LPAC, el apoderamiento «apud acta» se otorgará:",
+    "options": [
+      "Solo mediante remisión postal certificada a la sede del Organismo.",
+      "Exclusivamente por vía telefónica con grabación de la llamada.",
+      "Mediante comparecencia electrónica en la sede electrónica correspondiente con los sistemas de firma previstos en la Ley, o mediante comparecencia personal en las oficinas de asistencia en materia de registros."
+    ],
+    "correct": 2,
+    "exp": "El art. 6.5 LPAC establece que el apoderamiento apud acta se otorgará mediante comparecencia electrónica en la sede electrónica correspondiente, con firma electrónica, o mediante comparecencia personal en las oficinas de asistencia en materia de registros.",
+    "fuente": "Art. 6.5 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál es la validez máxima de los poderes inscritos en el registro, según el art. 6.6 LPAC?",
+    "options": [
+      "Cinco años a contar desde la fecha de inscripción.",
+      "Diez años a contar desde la fecha de inscripción.",
+      "Indefinida, salvo revocación expresa del poderdante."
+    ],
+    "correct": 0,
+    "exp": "El art. 6.6 LPAC fija en cinco años, a contar desde la fecha de inscripción, la validez máxima de los poderes inscritos.",
+    "fuente": "Art. 6.6 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 6.6 LPAC, ¿puede el poderdante revocar o prorrogar el poder inscrito antes de que finalice su plazo de validez?",
+    "options": [
+      "No, el poder es irrevocable una vez inscrito.",
+      "Sí, en cualquier momento antes de la finalización de dicho plazo.",
+      "Solo puede hacerlo transcurrido al menos un año desde la inscripción."
+    ],
+    "correct": 1,
+    "exp": "El art. 6.6 LPAC permite que, en cualquier momento antes de la finalización del plazo, el poderdante revoque o prorrogue el poder.",
+    "fuente": "Art. 6.6 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Las prórrogas del poder otorgadas por el poderdante al registro, según el art. 6.6 LPAC, tendrán una validez máxima de:",
+    "options": [
+      "Un año, prorrogable indefinidamente.",
+      "Diez años improrrogables.",
+      "Cinco años a contar desde la fecha de inscripción."
+    ],
+    "correct": 2,
+    "exp": "El art. 6.6 LPAC dispone que las prórrogas otorgadas por el poderdante tendrán una validez determinada máxima de cinco años a contar desde la fecha de inscripción.",
+    "fuente": "Art. 6.6 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 6.7 LPAC, ¿a qué registro pueden dirigirse las solicitudes de inscripción, revocación, prórroga o denuncia del poder?",
+    "options": [
+      "A cualquier registro.",
+      "Únicamente al registro de la Administración que vaya a recibir efectos del poder.",
+      "Solo al registro del domicilio del poderdante."
+    ],
+    "correct": 0,
+    "exp": "El art. 6.7 LPAC permite dirigir estas solicitudes a cualquier registro, debiendo quedar inscrita la circunstancia en el registro de la Administración u Organismo ante el que tenga efectos el poder.",
+    "fuente": "Art. 6.7 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el art. 6.7 LPAC, la inscripción de la solicitud de inscripción, revocación, prórroga o denuncia del poder surtirá efectos:",
+    "options": [
+      "Desde la fecha de presentación de la solicitud, con independencia de cuándo se inscriba.",
+      "Desde la fecha en la que se produzca la inscripción en el registro de la Administración u Organismo ante el que tenga efectos el poder.",
+      "Desde la fecha de notificación al apoderado."
+    ],
+    "correct": 1,
+    "exp": "El art. 6.7 LPAC establece que estas solicitudes surtirán efectos desde la fecha en la que se produzca la inscripción en el registro de la Administración u Organismo ante el que tenga efectos el poder.",
+    "fuente": "Art. 6.7 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántos apartados numerados integra el art. 6 LPAC, dedicado a los registros electrónicos de apoderamientos?",
+    "options": [
+      "Cinco.",
+      "Ocho.",
+      "Siete."
+    ],
+    "correct": 2,
+    "exp": "El art. 6 LPAC se estructura en siete apartados numerados, del 1 al 7.",
+    "fuente": "Art. 6 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál es el título del art. 7 LPAC?",
+    "options": [
+      "Pluralidad de interesados.",
+      "Capacidad de obrar.",
+      "Concepto de interesado."
+    ],
+    "correct": 0,
+    "exp": "El art. 7 LPAC lleva por título «Pluralidad de interesados».",
+    "fuente": "Art. 7 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 7 LPAC, cuando en una solicitud, escrito o comunicación figuren varios interesados, ¿con quién se efectuarán las actuaciones que de ellos se deriven?",
+    "options": [
+      "Con el interesado que designe el órgano instructor, a su libre criterio.",
+      "Con el representante o el interesado que expresamente hayan señalado.",
+      "Con el interesado de mayor edad entre los que figuren."
+    ],
+    "correct": 1,
+    "exp": "El art. 7 LPAC dispone que las actuaciones se efectuarán con el representante o el interesado que expresamente hayan señalado.",
+    "fuente": "Art. 7 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Si en una solicitud con varios interesados no se ha señalado expresamente representante o interesado, el art. 7 LPAC dispone que las actuaciones se efectuarán:",
+    "options": [
+      "Con el que figure en último término.",
+      "Con el que acredite mayor interés legítimo.",
+      "Con el que figure en primer término."
+    ],
+    "correct": 2,
+    "exp": "El art. 7 LPAC establece que, en defecto de señalamiento expreso, las actuaciones se efectuarán con el interesado que figure en primer término.",
+    "fuente": "Art. 7 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 7 LPAC regula la pluralidad de interesados cuando estos figuren en:",
+    "options": [
+      "Una solicitud, escrito o comunicación.",
+      "Una resolución administrativa ya notificada.",
+      "Un convenio interadministrativo."
+    ],
+    "correct": 0,
+    "exp": "El art. 7 LPAC se refiere al supuesto en que en una solicitud, escrito o comunicación figuren varios interesados.",
+    "fuente": "Art. 7 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "La regla del art. 7 LPAC sobre pluralidad de interesados se aplica a:",
+    "options": [
+      "Únicamente a la notificación de la resolución que ponga fin al procedimiento.",
+      "Las actuaciones a que dé lugar la solicitud, escrito o comunicación presentados por varios interesados.",
+      "Exclusivamente a los recursos administrativos interpuestos conjuntamente."
+    ],
+    "correct": 1,
+    "exp": "El art. 7 LPAC habla de «las actuaciones a que den lugar» la solicitud, escrito o comunicación presentados por varios interesados.",
+    "fuente": "Art. 7 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El criterio subsidiario del art. 7 LPAC —el interesado que figure en primer término— solo se aplica cuando:",
+    "options": [
+      "El procedimiento haya finalizado sin resolución expresa.",
+      "Todos los interesados hayan fallecido durante la tramitación.",
+      "No se haya señalado expresamente un representante o interesado con quien entenderse."
+    ],
+    "correct": 2,
+    "exp": "El art. 7 LPAC introduce el criterio del primer término «en su defecto», es decir, cuando no se haya señalado expresamente representante o interesado.",
+    "fuente": "Art. 7 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme a la regla de simplificación del art. 7 LPAC, ante una pluralidad de interesados en una misma solicitud, ¿es necesario dirigir las actuaciones a todos y cada uno de ellos por separado?",
+    "options": [
+      "No; basta con dirigirse al representante o interesado señalado, o en su defecto al que figure en primer término.",
+      "Sí, siempre y en todo caso, so pena de nulidad.",
+      "No, solo es necesario si son más de tres interesados."
+    ],
+    "correct": 0,
+    "exp": "El art. 7 LPAC simplifica la gestión de la pluralidad de interesados: basta con dirigirse al representante o interesado señalado, o en su defecto al que figure en primer término, sin necesidad de dirigirse individualmente a todos.",
+    "fuente": "Art. 7 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál es el título del art. 8 LPAC?",
+    "options": [
+      "Concepto de interesado.",
+      "Nuevos interesados en el procedimiento.",
+      "Pluralidad de interesados."
+    ],
+    "correct": 1,
+    "exp": "El art. 8 LPAC lleva por título «Nuevos interesados en el procedimiento».",
+    "fuente": "Art. 8 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "La previsión del art. 8 LPAC sobre comunicación a nuevos interesados se aplica exclusivamente durante la instrucción de procedimientos que:",
+    "options": [
+      "Hayan tenido publicidad.",
+      "Hayan sido objeto de recurso de alzada.",
+      "No hayan tenido publicidad."
+    ],
+    "correct": 2,
+    "exp": "El art. 8 LPAC se refiere a la instrucción de un procedimiento que no haya tenido publicidad.",
+    "fuente": "Art. 8 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 8 LPAC, ¿qué condición deben reunir las personas cuya existencia se advierta durante la instrucción para que proceda comunicarles la tramitación del procedimiento?",
+    "options": [
+      "Ser titulares de derechos o intereses legítimos y directos cuya identificación resulte del expediente y que puedan resultar afectados por la resolución que se dicte.",
+      "Ostentar la condición de funcionario público del órgano instructor.",
+      "Ser familiares directos de alguno de los interesados ya personados."
+    ],
+    "correct": 0,
+    "exp": "El art. 8 LPAC exige que sean titulares de derechos o intereses legítimos y directos, cuya identificación resulte del expediente, y que puedan resultar afectados por la resolución que se dicte.",
+    "fuente": "Art. 8 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando concurren los requisitos del art. 8 LPAC, la Administración deberá:",
+    "options": [
+      "Suspender automáticamente el procedimiento hasta que las nuevas personas se personen.",
+      "Comunicar a dichas personas la tramitación del procedimiento.",
+      "Iniciar un procedimiento sancionador independiente contra ellas."
+    ],
+    "correct": 1,
+    "exp": "El art. 8 LPAC dispone que se comunicará a dichas personas la tramitación del procedimiento.",
+    "fuente": "Art. 8 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 8 LPAC sitúa el momento en que se advierte la existencia de esas personas titulares de derechos o intereses:",
+    "options": [
+      "Antes de iniciarse el procedimiento.",
+      "Durante la fase de ejecución del acto administrativo.",
+      "Durante la instrucción del procedimiento."
+    ],
+    "correct": 2,
+    "exp": "El art. 8 LPAC se refiere a que se advierta la existencia de esas personas «durante la instrucción de un procedimiento».",
+    "fuente": "Art. 8 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 8 LPAC exige que los intereses de esas personas, además de legítimos, sean:",
+    "options": [
+      "Directos.",
+      "Colectivos.",
+      "Económicos."
+    ],
+    "correct": 0,
+    "exp": "El art. 8 LPAC exige que sean titulares de derechos o intereses legítimos y directos.",
+    "fuente": "Art. 8 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 8 LPAC, la identificación de las personas a las que debe comunicarse la tramitación del procedimiento ha de resultar:",
+    "options": [
+      "De una investigación policial previa.",
+      "Del expediente.",
+      "De la publicación en el Boletín Oficial correspondiente."
+    ],
+    "correct": 1,
+    "exp": "El art. 8 LPAC exige que la identificación de esas personas resulte del expediente.",
+    "fuente": "Art. 8 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 9.1 de la LPAC, ¿mediante qué comprobación están obligadas las Administraciones Públicas a verificar la identidad de los interesados en el procedimiento administrativo?",
+    "options": [
+      "Su firma manuscrita cotejada con la que figura en el DNI",
+      "Su número de afiliación a la Seguridad Social",
+      "Su nombre y apellidos o denominación o razón social, según corresponda, que consten en el DNI o documento identificativo equivalente"
+    ],
+    "correct": 2,
+    "exp": "El art. 9.1 LPAC impone a las Administraciones Públicas la obligación de verificar la identidad de los interesados comprobando su nombre y apellidos o denominación o razón social, según corresponda, que consten en el DNI o documento identificativo equivalente.",
+    "fuente": "Art. 9.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El deber de verificación de la identidad regulado en el art. 9.1 de la LPAC se configura como:",
+    "options": [
+      "Una obligación de las Administraciones Públicas",
+      "Una carga exclusiva del propio interesado",
+      "Una facultad discrecional de cada Administración"
+    ],
+    "correct": 0,
+    "exp": "El art. 9.1 LPAC dice literalmente que \"las Administraciones Públicas están obligadas a verificar la identidad de los interesados\", por lo que se trata de una obligación, no de una facultad discrecional.",
+    "fuente": "Art. 9.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el art. 9.2 de la LPAC, la identificación electrónica de los interesados ante las Administraciones Públicas:",
+    "options": [
+      "Es obligatoria en todo procedimiento desde su inicio",
+      "Podrán identificarse electrónicamente a través de los sistemas que enumera el propio apartado",
+      "Solo se admite si lo autoriza previamente el Consejo de Ministros"
+    ],
+    "correct": 1,
+    "exp": "El art. 9.2 LPAC establece que \"los interesados podrán identificarse electrónicamente ante las Administraciones Públicas a través de los sistemas siguientes\", enumerados en las letras a), b) y c).",
+    "fuente": "Art. 9.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué sistema de identificación electrónica regula la letra a) del art. 9.2 de la LPAC?",
+    "options": [
+      "Sistemas basados en certificados electrónicos cualificados de sello electrónico",
+      "Sistemas de identificación mediante código enviado por SMS",
+      "Sistemas basados en certificados electrónicos cualificados de firma electrónica expedidos por prestadores incluidos en la Lista de confianza de prestadores de servicios de certificación"
+    ],
+    "correct": 2,
+    "exp": "El art. 9.2.a) LPAC recoge los \"sistemas basados en certificados electrónicos cualificados de firma electrónica expedidos por prestadores incluidos en la «Lista de confianza de prestadores de servicios de certificación»\".",
+    "fuente": "Art. 9.2.a LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 9.2.a) de la LPAC exige que los certificados electrónicos cualificados de firma electrónica sean expedidos por prestadores incluidos en:",
+    "options": [
+      "La Lista de confianza de prestadores de servicios de certificación",
+      "El Registro Electrónico General de Apoderamientos",
+      "El Registro Mercantil Central"
+    ],
+    "correct": 0,
+    "exp": "El art. 9.2.a) LPAC condiciona la validez de estos certificados a que estén expedidos por prestadores incluidos en la «Lista de confianza de prestadores de servicios de certificación».",
+    "fuente": "Art. 9.2.a LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué regula específicamente la letra b) del art. 9.2 de la LPAC?",
+    "options": [
+      "Los sistemas de firma electrónica avanzada no cualificada",
+      "Sistemas basados en certificados electrónicos cualificados de sello electrónico expedidos por prestadores incluidos en la Lista de confianza de prestadores de servicios de certificación",
+      "El uso de la Cl@ve permanente como sistema único"
+    ],
+    "correct": 1,
+    "exp": "El art. 9.2.b) LPAC contempla los \"sistemas basados en certificados electrónicos cualificados de sello electrónico expedidos por prestadores incluidos en la «Lista de confianza de prestadores de servicios de certificación»\".",
+    "fuente": "Art. 9.2.b LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Frente al sistema de la letra a) del art. 9.2 de la LPAC, basado en certificados de firma electrónica, la letra b) del mismo apartado se basa en certificados electrónicos cualificados de:",
+    "options": [
+      "Registro electrónico general",
+      "Autenticación biométrica",
+      "Sello electrónico"
+    ],
+    "correct": 2,
+    "exp": "Mientras la letra a) se refiere a certificados cualificados de firma electrónica, la letra b) del art. 9.2 LPAC se refiere a certificados electrónicos cualificados de sello electrónico, ambos expedidos por prestadores de la Lista de confianza.",
+    "fuente": "Art. 9.2.b LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 9.2.c) de la LPAC, para admitir \"cualquier otro sistema\" de identificación no previsto en las letras a) y b), es necesario, entre otros requisitos, un registro previo como usuario y la previa comunicación a:",
+    "options": [
+      "La Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital",
+      "La Secretaría de Estado de Seguridad",
+      "La Agencia Española de Protección de Datos"
+    ],
+    "correct": 0,
+    "exp": "El art. 9.2.c) LPAC exige, entre otros requisitos, un registro previo como usuario que permita garantizar la identidad del interesado y previa comunicación a la Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital.",
+    "fuente": "Art. 9.2.c LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el art. 9.2.c) de la LPAC, la comunicación a la Secretaría General de Administración Digital para admitir un sistema distinto de los previstos en las letras a) y b) debe ir acompañada de:",
+    "options": [
+      "Un informe preceptivo de la Abogacía del Estado",
+      "Una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente",
+      "Un aval bancario que garantice la seguridad del sistema"
+    ],
+    "correct": 1,
+    "exp": "El art. 9.2.c) LPAC establece que la comunicación \"vendrá acompañada de una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente\".",
+    "fuente": "Art. 9.2.c LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 9.2.c) de la LPAC, ¿cuánto tiempo debe transcurrir desde la comunicación a la Secretaría General de Administración Digital antes de que un nuevo sistema de identificación tenga eficacia jurídica?",
+    "options": [
+      "Un mes",
+      "Tres meses",
+      "Dos meses"
+    ],
+    "correct": 2,
+    "exp": "El art. 9.2.c) LPAC dispone que \"de forma previa a la eficacia jurídica del sistema, habrán de transcurrir dos meses desde dicha comunicación\".",
+    "fuente": "Art. 9.2.c LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Durante el plazo de dos meses previo a la eficacia jurídica de un nuevo sistema de identificación del art. 9.2.c) de la LPAC, ¿quién puede acudir a la vía jurisdiccional por motivos de seguridad pública?",
+    "options": [
+      "El órgano estatal competente por motivos de seguridad pública",
+      "El Defensor del Pueblo",
+      "El Tribunal de Cuentas"
+    ],
+    "correct": 0,
+    "exp": "El art. 9.2.c) LPAC prevé que, durante esos dos meses, \"el órgano estatal competente por motivos de seguridad pública podrá acudir a la vía jurisdiccional, previo informe vinculante de la Secretaría de Estado de Seguridad\".",
+    "fuente": "Art. 9.2.c LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Para que el órgano estatal competente por motivos de seguridad pública pueda acudir a la vía jurisdiccional frente a un nuevo sistema de identificación del art. 9.2.c) de la LPAC, se requiere un informe vinculante previo de:",
+    "options": [
+      "El Consejo de Estado",
+      "La Secretaría de Estado de Seguridad",
+      "La Agencia Española de Protección de Datos"
+    ],
+    "correct": 1,
+    "exp": "El art. 9.2.c) LPAC exige un \"previo informe vinculante de la Secretaría de Estado de Seguridad\" para que el órgano estatal competente pueda acudir a la vía jurisdiccional.",
+    "fuente": "Art. 9.2.c LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 9.2.c) de la LPAC, ¿en qué plazo debe emitir la Secretaría de Estado de Seguridad el informe vinculante desde que se solicita?",
+    "options": [
+      "Cinco días",
+      "Quince días",
+      "Diez días"
+    ],
+    "correct": 2,
+    "exp": "El art. 9.2.c) LPAC señala que la Secretaría de Estado de Seguridad \"deberá emitir [el informe] en el plazo de diez días desde su solicitud\".",
+    "fuente": "Art. 9.2.c LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El último párrafo del art. 9.2 de la LPAC obliga a las Administraciones Públicas a garantizar que la utilización de uno de los sistemas de las letras a) y b) sea posible:",
+    "options": [
+      "Para todo procedimiento, aun cuando se admita para ese mismo procedimiento alguno de los previstos en la letra c)",
+      "Solo en los procedimientos tramitados por la Administración General del Estado",
+      "Únicamente cuando el interesado sea una persona jurídica obligada a relacionarse electrónicamente"
+    ],
+    "correct": 0,
+    "exp": "El último párrafo del art. 9.2 LPAC dice que las Administraciones \"deberán garantizar que la utilización de uno de los sistemas previstos en las letras a) y b) sea posible para todo procedimiento, aun cuando se admita para ese mismo procedimiento alguno de los previstos en la letra c)\".",
+    "fuente": "Art. 9.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Si una Administración admite para un procedimiento el sistema de identificación de la letra c) del art. 9.2 de la LPAC, ¿queda liberada de ofrecer los sistemas de las letras a) y b) para ese mismo procedimiento?",
+    "options": [
+      "Sí, la letra c) sustituye siempre a las letras a) y b)",
+      "Sí, salvo que el interesado lo solicite expresamente por escrito",
+      "Solo si así lo decide el órgano competente en cada caso",
+      "No, debe garantizar que también sea posible usar alguno de los sistemas de las letras a) y b)"
+    ],
+    "correct": 3,
+    "exp": "El último párrafo del art. 9.2 LPAC exige garantizar la posibilidad de usar los sistemas de las letras a) y b) para todo procedimiento, aun cuando se admita también alguno de la letra c); esta última no sustituye a las anteriores.",
+    "fuente": "Art. 9.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 9.3 de la LPAC, los recursos técnicos necesarios para la recogida, almacenamiento, tratamiento y gestión de los sistemas de identificación de la letra c) del apartado 2 deben situarse en:",
+    "options": [
+      "Territorio español exclusivamente",
+      "Territorio de la Unión Europea",
+      "Territorio del Espacio Económico Europeo o de un país con decisión de adecuación"
+    ],
+    "correct": 1,
+    "exp": "El art. 9.3 LPAC exige que \"los recursos técnicos necesarios para la recogida, almacenamiento, tratamiento y gestión de dichos sistemas se encuentren situados en territorio de la Unión Europea\".",
+    "fuente": "Art. 9.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 9.3 de la LPAC añade una exigencia adicional cuando los sistemas de la letra c) del apartado 2 tratan categorías especiales de datos del art. 9 del Reglamento (UE) 2016/679 (RGPD): en ese caso, los recursos técnicos deben situarse en:",
+    "options": [
+      "Territorio de la Unión Europea, sin más precisión",
+      "Territorio del Estado de origen del prestador del servicio",
+      "Territorio español"
+    ],
+    "correct": 2,
+    "exp": "El art. 9.3 LPAC precisa que, en caso de tratarse de categorías especiales de datos del art. 9 del RGPD, los recursos técnicos deben situarse \"en territorio español\", además de en territorio de la Unión Europea con carácter general.",
+    "fuente": "Art. 9.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 9.3 de la LPAC, los datos tratados por los sistemas de identificación de la letra c) del apartado 2 deben encontrarse disponibles, en todo caso, para su acceso por parte de:",
+    "options": [
+      "Las autoridades judiciales y administrativas competentes",
+      "Cualquier Administración Pública que lo solicite motivadamente",
+      "Las entidades prestadoras de servicios de certificación"
+    ],
+    "correct": 0,
+    "exp": "El art. 9.3 LPAC dispone que \"en cualquier caso, los datos se encontrarán disponibles para su acceso por parte de las autoridades judiciales y administrativas competentes\".",
+    "fuente": "Art. 9.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el art. 9.3 de la LPAC, los datos de los sistemas de identificación de la letra c) del apartado 2 no podrán transferirse a un tercer país u organización internacional, salvo que:",
+    "options": [
+      "Lo autorice expresamente el interesado mediante representación voluntaria",
+      "Hayan sido objeto de decisión de adecuación de la Comisión Europea o lo exija el cumplimiento de obligaciones internacionales de España",
+      "Se trate de un Estado con embajada en España"
+    ],
+    "correct": 1,
+    "exp": "El art. 9.3 LPAC exceptúa la prohibición de transferencia internacional cuando los datos \"hayan sido objeto de una decisión de adecuación de la Comisión Europea o cuando así lo exija el cumplimiento de las obligaciones internacionales asumidas por el Reino de España\".",
+    "fuente": "Art. 9.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 9.4 de la LPAC, la aceptación por la Administración General del Estado de alguno de los sistemas de identificación electrónica servirá para acreditar frente a todas las Administraciones Públicas:",
+    "options": [
+      "La representación del interesado ante cualquier organismo",
+      "La validez de la firma electrónica avanzada no cualificada",
+      "La identificación electrónica de los interesados en el procedimiento administrativo, salvo prueba en contrario"
+    ],
+    "correct": 2,
+    "exp": "El art. 9.4 LPAC establece que \"la aceptación de alguno de estos sistemas por la Administración General del Estado servirá para acreditar frente a todas las Administraciones Públicas, salvo prueba en contrario, la identificación electrónica de los interesados en el procedimiento administrativo\".",
+    "fuente": "Art. 9.4 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El efecto acreditativo previsto en el art. 9.4 de la LPAC respecto a la aceptación de un sistema de identificación por la Administración General del Estado se establece:",
+    "options": [
+      "Salvo prueba en contrario",
+      "De forma irrebatible, sin posibilidad de prueba en contrario",
+      "Únicamente durante el primer año desde su aceptación"
+    ],
+    "correct": 0,
+    "exp": "El art. 9.4 LPAC matiza que ese efecto acreditativo frente a todas las Administraciones Públicas opera \"salvo prueba en contrario\", por lo que no es un efecto absoluto e irrebatible.",
+    "fuente": "Art. 9.4 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 10.1 de la LPAC, los interesados podrán firmar a través de:",
+    "options": [
+      "Únicamente firma manuscrita cotejada por funcionario habilitado",
+      "Cualquier medio que permita acreditar la autenticidad de la expresión de su voluntad y consentimiento, así como la integridad e inalterabilidad del documento",
+      "Solo los medios que determine reglamentariamente cada Administración"
+    ],
+    "correct": 1,
+    "exp": "El art. 10.1 LPAC dispone que \"los interesados podrán firmar a través de cualquier medio que permita acreditar la autenticidad de la expresión de su voluntad y consentimiento, así como la integridad e inalterabilidad del documento\".",
+    "fuente": "Art. 10.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Además de acreditar la autenticidad de la expresión de voluntad y consentimiento, ¿qué otra cualidad debe garantizar el medio de firma admitido según el art. 10.1 de la LPAC?",
+    "options": [
+      "La trazabilidad geográfica de la firma",
+      "La reversibilidad del acto administrativo firmado",
+      "La integridad e inalterabilidad del documento"
+    ],
+    "correct": 2,
+    "exp": "El art. 10.1 LPAC exige que el medio de firma acredite la autenticidad de la expresión de voluntad y consentimiento, \"así como la integridad e inalterabilidad del documento\".",
+    "fuente": "Art. 10.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 10.2 de la LPAC, los sistemas de firma electrónica enumerados en sus letras a), b) y c) se consideran válidos cuando los interesados:",
+    "options": [
+      "Optaran por relacionarse con las Administraciones Públicas a través de medios electrónicos",
+      "Sean personas jurídicas obligadas a relacionarse electrónicamente",
+      "Presenten la solicitud en un registro presencial"
+    ],
+    "correct": 0,
+    "exp": "El art. 10.2 LPAC introduce la enumeración de sistemas de firma señalando que se aplica \"en el caso de que los interesados optaran por relacionarse con las Administraciones Públicas a través de medios electrónicos\".",
+    "fuente": "Art. 10.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué prevé la letra a) del art. 10.2 de la LPAC como sistema válido a efectos de firma?",
+    "options": [
+      "Sistemas de sello electrónico cualificado y de sello electrónico avanzado",
+      "Sistemas de firma electrónica cualificada y avanzada basados en certificados electrónicos cualificados de firma electrónica expedidos por prestadores incluidos en la Lista de confianza",
+      "El uso exclusivo de DNI electrónico sin certificado adicional"
+    ],
+    "correct": 1,
+    "exp": "El art. 10.2.a) LPAC contempla los \"sistemas de firma electrónica cualificada y avanzada basados en certificados electrónicos cualificados de firma electrónica expedidos por prestadores incluidos en la «Lista de confianza de prestadores de servicios de certificación»\".",
+    "fuente": "Art. 10.2.a LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "La letra a) del art. 10.2 de la LPAC exige que el sistema de firma electrónica basado en certificados de firma electrónica sea, a la vez:",
+    "options": [
+      "Básico y reconocido",
+      "Simple y verificado",
+      "Cualificado y avanzado"
+    ],
+    "correct": 2,
+    "exp": "El art. 10.2.a) LPAC habla de \"sistemas de firma electrónica cualificada y avanzada\", exigiendo ambas cualidades conjuntamente.",
+    "fuente": "Art. 10.2.a LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué sistema regula la letra b) del art. 10.2 de la LPAC?",
+    "options": [
+      "Sistemas de sello electrónico cualificado y de sello electrónico avanzado basados en certificados electrónicos cualificados de sello electrónico expedidos por prestador incluido en la Lista de confianza",
+      "Sistemas de firma electrónica cualificada y avanzada basados en certificados de firma electrónica",
+      "Sistemas de autenticación mediante huella biométrica"
+    ],
+    "correct": 0,
+    "exp": "El art. 10.2.b) LPAC recoge los \"sistemas de sello electrónico cualificado y de sello electrónico avanzado basados en certificados electrónicos cualificados de sello electrónico expedidos por prestador incluido en la «Lista de confianza de prestadores de servicios de certificación»\".",
+    "fuente": "Art. 10.2.b LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Los sistemas de sello electrónico admitidos como firma por la letra b) del art. 10.2 de la LPAC deben basarse en certificados electrónicos cualificados de:",
+    "options": [
+      "Firma electrónica",
+      "Sello electrónico",
+      "Marca de tiempo (sello de tiempo)"
+    ],
+    "correct": 1,
+    "exp": "El art. 10.2.b) LPAC exige que estos sistemas se basen en \"certificados electrónicos cualificados de sello electrónico expedidos por prestador incluido en la «Lista de confianza de prestadores de servicios de certificación»\".",
+    "fuente": "Art. 10.2.b LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 10.2.c) de la LPAC, para admitir \"cualquier otro sistema\" de firma no comprendido en las letras a) y b), se exige, entre otros requisitos, un registro previo como usuario y la previa comunicación a:",
+    "options": [
+      "La Secretaría de Estado de Seguridad",
+      "El Consejo Superior de Administración Electrónica",
+      "La Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital"
+    ],
+    "correct": 2,
+    "exp": "El art. 10.2.c) LPAC exige, al igual que el art. 9.2.c), registro previo como usuario y comunicación a la Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital.",
+    "fuente": "Art. 10.2.c LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "La comunicación exigida por el art. 10.2.c) de la LPAC para admitir un nuevo sistema de firma debe acompañarse de:",
+    "options": [
+      "Una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente",
+      "Una fianza equivalente al coste de implantación del sistema",
+      "La autorización previa de todas las Comunidades Autónomas"
+    ],
+    "correct": 0,
+    "exp": "El art. 10.2.c) LPAC exige que la comunicación \"venga acompañada de una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente\", en los mismos términos que el art. 9.2.c).",
+    "fuente": "Art. 10.2.c LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 10.2.c) de la LPAC, ¿cuánto tiempo debe transcurrir desde la comunicación a la Secretaría General de Administración Digital antes de que un nuevo sistema de firma tenga eficacia jurídica?",
+    "options": [
+      "Un mes",
+      "Dos meses",
+      "Sesenta días hábiles"
+    ],
+    "correct": 1,
+    "exp": "El art. 10.2.c) LPAC exige que \"de forma previa a la eficacia jurídica del sistema, habrán de transcurrir dos meses desde dicha comunicación\", igual que para los sistemas de identificación del art. 9.2.c).",
+    "fuente": "Art. 10.2.c LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Durante el plazo previo a la eficacia jurídica de un nuevo sistema de firma del art. 10.2.c) de la LPAC, el órgano estatal competente por motivos de seguridad pública puede acudir a la vía jurisdiccional previo informe vinculante de:",
+    "options": [
+      "El Consejo de Estado, en el plazo de quince días",
+      "La Secretaría General de Administración Digital, en el plazo de veinte días",
+      "La Secretaría de Estado de Seguridad, en el plazo de diez días desde su solicitud"
+    ],
+    "correct": 2,
+    "exp": "El art. 10.2.c) LPAC reproduce la misma exigencia que el art. 9.2.c): informe vinculante previo de la Secretaría de Estado de Seguridad, que debe emitirse en el plazo de diez días desde su solicitud.",
+    "fuente": "Art. 10.2.c LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "El último párrafo del art. 10.2 de la LPAC obliga a las Administraciones Públicas a garantizar que la utilización de uno de los sistemas de las letras a) y b) sea posible:",
+    "options": [
+      "Para todos los procedimientos en todos sus trámites",
+      "Solo para los procedimientos iniciados a instancia de parte",
+      "Únicamente para el trámite de presentación de solicitudes"
+    ],
+    "correct": 0,
+    "exp": "El último párrafo del art. 10.2 LPAC exige garantizar que el uso de los sistemas de las letras a) y b) \"sea posible para todos los procedimientos en todos sus trámites\", fórmula más amplia que la del art. 9.2, referida solo a \"todo procedimiento\".",
+    "fuente": "Art. 10.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el último párrafo del art. 10.2 de la LPAC, la garantía de uso de los sistemas de firma de las letras a) y b) para todos los procedimientos en todos sus trámites se mantiene:",
+    "options": [
+      "Salvo que la Administración disponga lo contrario mediante orden ministerial",
+      "Aun cuando adicionalmente se permita alguno de los sistemas previstos en la letra c)",
+      "Únicamente durante la fase de instrucción del procedimiento"
+    ],
+    "correct": 1,
+    "exp": "El art. 10.2 LPAC precisa que esa garantía opera \"aun cuando adicionalmente se permita alguno de los previstos al amparo de lo dispuesto en la letra c)\".",
+    "fuente": "Art. 10.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 10.3 de la LPAC, los recursos técnicos necesarios para los sistemas de firma de la letra c) del apartado 2 deben situarse, con carácter general, en:",
+    "options": [
+      "Territorio de cualquier Estado miembro del Consejo de Europa",
+      "Territorio español, sin excepción",
+      "Territorio de la Unión Europea"
+    ],
+    "correct": 2,
+    "exp": "El art. 10.3 LPAC exige, en los mismos términos que el art. 9.3, que los recursos técnicos se encuentren situados en territorio de la Unión Europea.",
+    "fuente": "Art. 10.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 10.3 de la LPAC, los datos tratados por los sistemas de firma de la letra c) del apartado 2 deben estar disponibles, en todo caso, para su acceso por parte de:",
+    "options": [
+      "Las autoridades judiciales y administrativas competentes",
+      "Los prestadores de servicios de certificación exclusivamente",
+      "Las asociaciones de consumidores y usuarios"
+    ],
+    "correct": 0,
+    "exp": "El art. 10.3 LPAC establece que, en cualquier caso, esos datos \"se encontrarán disponibles para su acceso por parte de las autoridades judiciales y administrativas competentes\".",
+    "fuente": "Art. 10.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 10.4 de la LPAC, las Administraciones Públicas podrán admitir los sistemas de identificación contemplados en la Ley como sistema de firma cuando:",
+    "options": [
+      "Lo solicite el interesado sin necesidad de habilitación normativa",
+      "Así lo disponga expresamente la normativa reguladora aplicable y permitan acreditar la autenticidad de la voluntad y consentimiento",
+      "El importe económico del procedimiento no supere una determinada cuantía"
+    ],
+    "correct": 1,
+    "exp": "El art. 10.4 LPAC dispone que, \"cuando así lo disponga expresamente la normativa reguladora aplicable\", las Administraciones podrán admitir los sistemas de identificación como sistema de firma, siempre que permitan acreditar la autenticidad de la voluntad y consentimiento.",
+    "fuente": "Art. 10.4 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Para que un sistema de identificación pueda admitirse como sistema de firma conforme al art. 10.4 de la LPAC, debe permitir acreditar:",
+    "options": [
+      "La capacidad de obrar del interesado",
+      "La representación legal del interesado ante terceros",
+      "La autenticidad de la expresión de la voluntad y consentimiento de los interesados"
+    ],
+    "correct": 2,
+    "exp": "El art. 10.4 LPAC condiciona esa admisión a que los sistemas de identificación \"permitan acreditar la autenticidad de la expresión de la voluntad y consentimiento de los interesados\".",
+    "fuente": "Art. 10.4 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 10.5 de la LPAC, cuando los interesados utilicen un sistema de firma de los previstos en dicho artículo, su identidad se entiende acreditada:",
+    "options": [
+      "Mediante el propio acto de la firma",
+      "Solo si además presentan copia del DNI",
+      "Cuando lo confirme expresamente la Secretaría General de Administración Digital"
+    ],
+    "correct": 0,
+    "exp": "El art. 10.5 LPAC dice que \"cuando los interesados utilicen un sistema de firma de los previstos en este artículo, su identidad se entenderá ya acreditada mediante el propio acto de la firma\".",
+    "fuente": "Art. 10.5 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "La regla del art. 10.5 de la LPAC, según la cual la identidad del interesado se entiende ya acreditada por el propio acto de la firma, implica que:",
+    "options": [
+      "Es necesario un trámite de identificación previo e independiente en todo caso",
+      "No es necesario un trámite adicional de identificación cuando ya se ha utilizado un sistema de firma válido conforme al art. 10",
+      "La identidad solo queda acreditada si el órgano competente lo ratifica expresamente"
+    ],
+    "correct": 1,
+    "exp": "Al establecer que la identidad se entiende ya acreditada mediante el propio acto de la firma, el art. 10.5 LPAC evita exigir un trámite de identificación separado cuando ya se ha usado un sistema de firma válido.",
+    "fuente": "Art. 10.5 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 11.1 LPAC, para realizar cualquier actuación prevista en el procedimiento administrativo, con carácter general, ¿qué es suficiente que los interesados acrediten previamente?",
+    "options": [
+      "Su domicilio fiscal a través de certificado catastral",
+      "Su representación mediante poder notarial",
+      "Su identidad a través de cualquiera de los medios de identificación previstos en la Ley"
+    ],
+    "correct": 2,
+    "exp": "El art. 11.1 LPAC establece que, con carácter general, para realizar cualquier actuación prevista en el procedimiento será suficiente con que los interesados acrediten previamente su identidad a través de cualquiera de los medios de identificación previstos en la Ley.",
+    "fuente": "Art. 11.1 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 11.1 LPAC, ¿mediante qué medios pueden los interesados acreditar su identidad para actuar, con carácter general, en el procedimiento administrativo?",
+    "options": [
+      "Cualquiera de los medios de identificación previstos en la propia Ley",
+      "Únicamente mediante certificado electrónico cualificado de firma",
+      "Únicamente mediante comparecencia personal con el DNI original"
+    ],
+    "correct": 0,
+    "exp": "El art. 11.1 LPAC remite a 'cualquiera de los medios de identificación previstos en esta Ley', sin exigir un único sistema.",
+    "fuente": "Art. 11.1 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 11.1 LPAC, ¿en qué momento deben los interesados acreditar su identidad para realizar una actuación en el procedimiento?",
+    "options": [
+      "En el momento de dictarse la resolución",
+      "Previamente a realizar la actuación",
+      "Únicamente al interponer un recurso"
+    ],
+    "correct": 1,
+    "exp": "El art. 11.1 LPAC exige que los interesados acrediten 'previamente' su identidad.",
+    "fuente": "Art. 11.1 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 11.1 LPAC extiende la regla general de bastar con la identificación a:",
+    "options": [
+      "Solo a los procedimientos sancionadores",
+      "Solo a los procedimientos iniciados de oficio",
+      "Cualquier actuación prevista en el procedimiento administrativo"
+    ],
+    "correct": 2,
+    "exp": "El art. 11.1 LPAC habla de 'cualquier actuación prevista en el procedimiento administrativo', sin restringirla a un tipo concreto de trámite.",
+    "fuente": "Art. 11.1 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué carácter tiene, según el art. 11.1 LPAC, la regla de que basta con acreditar la identidad para actuar en el procedimiento?",
+    "options": [
+      "Carácter general",
+      "Carácter supletorio, solo si no hay norma especial",
+      "Carácter excepcional, solo para personas físicas"
+    ],
+    "correct": 0,
+    "exp": "El precepto se abre con la expresión 'con carácter general', frente a las excepciones tasadas del apartado 2 en que se exige firma.",
+    "fuente": "Art. 11.1 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántos supuestos tasados enumera el art. 11.2 LPAC en los que las Administraciones Públicas exigirán el uso obligatorio de firma?",
+    "options": [
+      "Cuatro",
+      "Cinco",
+      "Seis"
+    ],
+    "correct": 1,
+    "exp": "El art. 11.2 LPAC enumera cinco letras (a a e): formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos.",
+    "fuente": "Art. 11.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 11.2.a) LPAC, las Administraciones Públicas exigirán el uso obligatorio de firma para:",
+    "options": [
+      "Consultar el estado de un expediente",
+      "Solicitar una copia de un documento",
+      "Formular solicitudes"
+    ],
+    "correct": 2,
+    "exp": "El art. 11.2.a) LPAC exige firma para 'formular solicitudes'.",
+    "fuente": "Art. 11.2.a) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 11.2.b) LPAC exige el uso obligatorio de firma para:",
+    "options": [
+      "Presentar declaraciones responsables o comunicaciones",
+      "Recibir una notificación electrónica",
+      "Consultar el registro electrónico general"
+    ],
+    "correct": 0,
+    "exp": "El art. 11.2.b) LPAC exige firma para 'presentar declaraciones responsables o comunicaciones'.",
+    "fuente": "Art. 11.2.b) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 11.2.c) LPAC, se exige el uso obligatorio de firma para:",
+    "options": [
+      "Aportar documentos al expediente",
+      "Interponer recursos",
+      "Solicitar información pública"
+    ],
+    "correct": 1,
+    "exp": "El art. 11.2.c) LPAC exige firma para 'interponer recursos'.",
+    "fuente": "Art. 11.2.c) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 11.2.d) LPAC, las Administraciones Públicas exigirán firma para:",
+    "options": [
+      "Aportar pruebas",
+      "Solicitar el impulso de oficio",
+      "Desistir de acciones"
+    ],
+    "correct": 2,
+    "exp": "El art. 11.2.d) LPAC exige firma para 'desistir de acciones'.",
+    "fuente": "Art. 11.2.d) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 11.2.e) LPAC exige el uso obligatorio de firma para:",
+    "options": [
+      "Renunciar a derechos",
+      "Consultar el expediente electrónico",
+      "Solicitar el acceso a archivos"
+    ],
+    "correct": 0,
+    "exp": "El art. 11.2.e) LPAC exige firma para 'renunciar a derechos'.",
+    "fuente": "Art. 11.2.e) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes actuaciones NO se encuentra entre los supuestos tasados del art. 11.2 LPAC en los que se exige el uso obligatorio de firma?",
+    "options": [
+      "Renunciar a derechos",
+      "Consultar el estado de tramitación de un expediente",
+      "Formular solicitudes"
+    ],
+    "correct": 1,
+    "exp": "Las letras a) a e) del art. 11.2 LPAC solo citan formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos; consultar el estado de tramitación no figura entre ellas.",
+    "fuente": "Art. 11.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 11.2 LPAC, ¿quién decide en qué supuestos se exige el uso obligatorio de firma a los interesados?",
+    "options": [
+      "El Consejo de Ministros, mediante real decreto",
+      "Cada funcionario, según su criterio",
+      "Las Administraciones Públicas, conforme a los supuestos tasados en la Ley"
+    ],
+    "correct": 2,
+    "exp": "El art. 11.2 LPAC dice: 'Las Administraciones Públicas sólo requerirán a los interesados el uso obligatorio de firma para:' los cinco supuestos que enumera.",
+    "fuente": "Art. 11.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 12.1 LPAC, ¿qué deben garantizar las Administraciones Públicas?",
+    "options": [
+      "Que los interesados puedan relacionarse con la Administración a través de medios electrónicos",
+      "Que todos los procedimientos se tramiten exclusivamente en papel",
+      "Que se reduzcan los plazos de resolución a la mitad"
+    ],
+    "correct": 0,
+    "exp": "El art. 12.1 LPAC impone a las Administraciones Públicas garantizar que los interesados pueden relacionarse con la Administración a través de medios electrónicos.",
+    "fuente": "Art. 12.1 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Para cumplir la garantía del art. 12.1 LPAC, ¿qué deben poner a disposición de los interesados las Administraciones Públicas?",
+    "options": [
+      "Un abogado de oficio en cada trámite",
+      "Los canales de acceso que sean necesarios",
+      "Una subvención para adquirir equipos informáticos"
+    ],
+    "correct": 1,
+    "exp": "El art. 12.1 LPAC exige poner a disposición de los interesados 'los canales de acceso que sean necesarios'.",
+    "fuente": "Art. 12.1 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Además de los canales de acceso necesarios, el art. 12.1 LPAC exige poner a disposición de los interesados:",
+    "options": [
+      "Una línea de atención telefónica gratuita permanente",
+      "Formularios impresos en todas las oficinas",
+      "Los sistemas y aplicaciones que en cada caso se determinen"
+    ],
+    "correct": 2,
+    "exp": "El art. 12.1 LPAC añade 'así como los sistemas y aplicaciones que en cada caso se determinen'.",
+    "fuente": "Art. 12.1 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El deber de garantizar la relación electrónica con los interesados que impone el art. 12.1 LPAC recae sobre:",
+    "options": [
+      "Las Administraciones Públicas",
+      "Únicamente la Administración General del Estado",
+      "Los Colegios profesionales"
+    ],
+    "correct": 0,
+    "exp": "El art. 12.1 LPAC atribuye ese deber, sin distinción de nivel territorial, a 'las Administraciones Públicas'.",
+    "fuente": "Art. 12.1 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 12.2 LPAC, ¿a qué interesados asistirán las Administraciones Públicas en el uso de medios electrónicos?",
+    "options": [
+      "A todos los interesados, sin excepción, de oficio",
+      "A los no incluidos en los apartados 2 y 3 del art. 14 que así lo soliciten",
+      "Únicamente a quienes ejerzan una profesión colegiada"
+    ],
+    "correct": 1,
+    "exp": "El art. 12.2 LPAC dice: 'Las Administraciones Públicas asistirán en el uso de medios electrónicos a los interesados no incluidos en los apartados 2 y 3 del artículo 14 que así lo soliciten'.",
+    "fuente": "Art. 12.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La asistencia en el uso de medios electrónicos regulada en el art. 12.2 LPAC se presta:",
+    "options": [
+      "De oficio, sin que el interesado deba solicitarla",
+      "Solo tras resolución judicial",
+      "A quienes así lo soliciten"
+    ],
+    "correct": 2,
+    "exp": "El art. 12.2 LPAC condiciona la asistencia a que el interesado 'así lo solicite'.",
+    "fuente": "Art. 12.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuáles son los ámbitos en los que, según el art. 12.2 LPAC, se presta especialmente la asistencia a los interesados?",
+    "options": [
+      "La identificación y firma electrónica, la presentación de solicitudes por el registro electrónico general y la obtención de copias auténticas",
+      "La redacción de recursos y la representación letrada",
+      "La traducción de documentos a lenguas cooficiales"
+    ],
+    "correct": 0,
+    "exp": "El art. 12.2 LPAC cita expresamente 'la identificación y firma electrónica, presentación de solicitudes a través del registro electrónico general y obtención de copias auténticas'.",
+    "fuente": "Art. 12.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Si un interesado con derecho a asistencia no dispone de los medios electrónicos necesarios, según el art. 12.2 LPAC su identificación o firma electrónica:",
+    "options": [
+      "No puede realizarse en ningún caso",
+      "Podrá ser válidamente realizada por un funcionario público mediante su propio sistema de firma electrónica",
+      "Corresponde obligatoriamente a un notario"
+    ],
+    "correct": 1,
+    "exp": "El art. 12.2 LPAC prevé que la identificación o firma 'podrá ser válidamente realizada por un funcionario público mediante el uso del sistema de firma electrónica del que esté dotado para ello'.",
+    "fuente": "Art. 12.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 12.2 LPAC, el funcionario público que identifica o firma en lugar del interesado debe hacerlo:",
+    "options": [
+      "Mediante la firma manuscrita del interesado escaneada",
+      "Mediante el certificado electrónico personal del interesado",
+      "Mediante el uso del sistema de firma electrónica del que esté dotado para ello"
+    ],
+    "correct": 2,
+    "exp": "El art. 12.2 LPAC exige que el funcionario actúe 'mediante el uso del sistema de firma electrónica del que esté dotado para ello'.",
+    "fuente": "Art. 12.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Para que el funcionario público pueda identificar o firmar por el interesado conforme al art. 12.2 LPAC, es necesario, en primer lugar, que el interesado:",
+    "options": [
+      "Se identifique ante el funcionario",
+      "Renuncie expresamente a sus derechos",
+      "Presente una declaración responsable de solvencia"
+    ],
+    "correct": 0,
+    "exp": "El art. 12.2 LPAC exige que 'el interesado que carezca de los medios electrónicos necesarios se identifique ante el funcionario'.",
+    "fuente": "Art. 12.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Además de identificarse ante el funcionario, el art. 12.2 LPAC exige que el interesado:",
+    "options": [
+      "Abone una tasa administrativa",
+      "Preste su consentimiento expreso para esta actuación",
+      "Ratifique la actuación ante notario en el plazo de un mes"
+    ],
+    "correct": 1,
+    "exp": "El art. 12.2 LPAC exige que el interesado 'preste su consentimiento expreso para esta actuación'.",
+    "fuente": "Art. 12.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 12.2 LPAC, de la identificación del interesado y de su consentimiento expreso ante el funcionario deberá quedar constancia:",
+    "options": [
+      "Únicamente si el interesado es una persona jurídica",
+      "Solo si lo solicita expresamente la Administración General del Estado",
+      "Para los casos de discrepancia o litigio"
+    ],
+    "correct": 2,
+    "exp": "El art. 12.2 LPAC exige que quede constancia de la identificación y el consentimiento 'para los casos de discrepancia o litigio'.",
+    "fuente": "Art. 12.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Puede un funcionario público identificar o firmar por un interesado sin su consentimiento expreso, conforme al art. 12.2 LPAC?",
+    "options": [
+      "No, es necesario que el interesado preste su consentimiento expreso",
+      "Sí, siempre que el interesado carezca de medios electrónicos",
+      "Sí, automáticamente en todos los procedimientos sancionadores"
+    ],
+    "correct": 0,
+    "exp": "El art. 12.2 LPAC condiciona esa actuación a que el interesado 'preste su consentimiento expreso para esta actuación'.",
+    "fuente": "Art. 12.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La asistencia del art. 12.2 LPAC se dirige a los interesados no incluidos en los apartados 2 y 3 del artículo 14, lo que excluye, entre otros, a:",
+    "options": [
+      "Las personas físicas que opten voluntariamente por relacionarse electrónicamente",
+      "Las personas jurídicas, obligadas a relacionarse electrónicamente",
+      "Los interesados que residan fuera de España"
+    ],
+    "correct": 1,
+    "exp": "El art. 12.2 LPAC remite al art. 14.2 y 14.3, que incluyen entre los obligados a relacionarse electrónicamente a las personas jurídicas; estos quedan, por tanto, fuera del ámbito de esta asistencia.",
+    "fuente": "Art. 12.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 12.2 LPAC, la asistencia a los interesados en el uso de medios electrónicos se refiere especialmente a la identificación y firma electrónica, y también a:",
+    "options": [
+      "La representación procesal ante los tribunales",
+      "La expedición de licencias de obra",
+      "La obtención de copias auténticas y la presentación de solicitudes por el registro electrónico general"
+    ],
+    "correct": 2,
+    "exp": "El art. 12.2 LPAC menciona expresamente, además de la identificación y firma electrónica, 'presentación de solicitudes a través del registro electrónico general y obtención de copias auténticas'.",
+    "fuente": "Art. 12.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Entre los trámites en que, conforme al art. 12.2 LPAC, se presta asistencia a los interesados, se menciona expresamente:",
+    "options": [
+      "La obtención de copias auténticas",
+      "La liquidación de impuestos municipales",
+      "La expedición de pasaportes"
+    ],
+    "correct": 0,
+    "exp": "El art. 12.2 LPAC cita literalmente la 'obtención de copias auténticas' como uno de los ámbitos de asistencia.",
+    "fuente": "Art. 12.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 12.3 LPAC, ¿qué Administraciones deben mantener actualizado el registro de funcionarios habilitados para la identificación o firma?",
+    "options": [
+      "Únicamente la Administración General del Estado",
+      "La Administración General del Estado, las Comunidades Autónomas y las Entidades Locales",
+      "Únicamente las Comunidades Autónomas"
+    ],
+    "correct": 1,
+    "exp": "El art. 12.3 LPAC atribuye esa obligación a 'la Administración General del Estado, las Comunidades Autónomas y las Entidades Locales'.",
+    "fuente": "Art. 12.3 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El registro previsto en el art. 12.3 LPAC debe contener, al menos, a los funcionarios habilitados para:",
+    "options": [
+      "La expedición de certificados de empadronamiento",
+      "La representación en juicio de la Administración",
+      "La identificación o firma regulada en el art. 12 LPAC"
+    ],
+    "correct": 2,
+    "exp": "El art. 12.3 LPAC exige constancia de 'los funcionarios habilitados para la identificación o firma regulada en este artículo'.",
+    "fuente": "Art. 12.3 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 12.3 LPAC, el instrumento en el que deben constar los funcionarios habilitados puede consistir en:",
+    "options": [
+      "Un registro, u otro sistema equivalente",
+      "Únicamente en un libro de actas físico",
+      "Un censo elaborado por el Ministerio de Justicia"
+    ],
+    "correct": 0,
+    "exp": "El art. 12.3 LPAC habla de mantener actualizado 'un registro, u otro sistema equivalente'.",
+    "fuente": "Art. 12.3 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 12.3 LPAC, los registros de funcionarios habilitados de las distintas Administraciones deberán ser:",
+    "options": [
+      "Confidenciales y no accesibles entre Administraciones",
+      "Plenamente interoperables y estar interconectados con los de las restantes Administraciones Públicas",
+      "Elaborados exclusivamente en soporte papel"
+    ],
+    "correct": 1,
+    "exp": "El art. 12.3 LPAC exige que estos registros o sistemas 'deberán ser plenamente interoperables y estar interconectados con los de las restantes Administraciones Públicas'.",
+    "fuente": "Art. 12.3 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La finalidad de que los registros del art. 12.3 LPAC sean interoperables e interconectados es:",
+    "options": [
+      "Facilitar la recaudación de tributos locales",
+      "Unificar los sistemas retributivos del personal funcionario",
+      "Comprobar la validez de las citadas habilitaciones"
+    ],
+    "correct": 2,
+    "exp": "El art. 12.3 LPAC señala que la interoperabilidad e interconexión se establece 'a los efectos de comprobar la validez de las citadas habilitaciones'.",
+    "fuente": "Art. 12.3 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 12.3 LPAC, ¿quiénes deben constar, al menos, en el registro de funcionarios habilitados?",
+    "options": [
+      "Los funcionarios que presten servicios en las oficinas de asistencia en materia de registros",
+      "Todos los funcionarios de la plantilla, sin excepción",
+      "Los funcionarios interinos exclusivamente"
+    ],
+    "correct": 0,
+    "exp": "El art. 12.3 LPAC precisa que, al menos, 'constarán los funcionarios que presten servicios en las oficinas de asistencia en materia de registros'.",
+    "fuente": "Art. 12.3 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 12.2 LPAC, ¿es válida la identificación realizada por un funcionario público en nombre de un interesado sin medios electrónicos si este no ha prestado su consentimiento expreso?",
+    "options": [
+      "Sí, basta con que el funcionario lo considere oportuno",
+      "No, la Ley exige que el interesado preste su consentimiento expreso para esa actuación",
+      "Sí, siempre que se notifique después al interesado"
+    ],
+    "correct": 1,
+    "exp": "El art. 12.2 LPAC condiciona expresamente esa actuación del funcionario a que el interesado 'preste su consentimiento expreso'.",
+    "fuente": "Art. 12.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Si el interesado no se identifica ante el funcionario público conforme exige el art. 12.2 LPAC, la actuación de identificación o firma por sustitución:",
+    "options": [
+      "Puede realizarse igualmente, sin ese requisito",
+      "Debe realizarla directamente el superior jerárquico del funcionario",
+      "No puede realizarse válidamente, pues ese requisito es necesario"
+    ],
+    "correct": 2,
+    "exp": "El art. 12.2 LPAC dice que 'será necesario que el interesado... se identifique ante el funcionario', configurando ese paso como requisito de validez.",
+    "fuente": "Art. 12.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En qué apartado del art. 12 LPAC se regula el registro de funcionarios habilitados para la identificación o firma?",
+    "options": [
+      "Apartado 3",
+      "Apartado 2",
+      "Apartado 4"
+    ],
+    "correct": 0,
+    "exp": "El registro de funcionarios habilitados se regula en el apartado 3 del art. 12 LPAC, tras la garantía general de relación electrónica (apartado 1) y la asistencia (apartado 2).",
+    "fuente": "Art. 12.3 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál es el título del art. 11 LPAC?",
+    "options": [
+      "Sistemas de identificación de los interesados en el procedimiento",
+      "Uso de medios de identificación y firma en el procedimiento administrativo",
+      "Sistemas de firma admitidos por las Administraciones Públicas"
+    ],
+    "correct": 1,
+    "exp": "El art. 11 LPAC se titula 'Uso de medios de identificación y firma en el procedimiento administrativo'.",
+    "fuente": "Art. 11 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál es el título del art. 12 LPAC?",
+    "options": [
+      "Derecho y obligación de relacionarse electrónicamente con las Administraciones Públicas",
+      "Uso de medios de identificación y firma en el procedimiento administrativo",
+      "Asistencia en el uso de medios electrónicos a los interesados"
+    ],
+    "correct": 2,
+    "exp": "El art. 12 LPAC se titula 'Asistencia en el uso de medios electrónicos a los interesados'.",
+    "fuente": "Art. 12 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cómo se titula el art. 3 de la Ley 39/2015, LPAC?",
+    "options": [
+      "Capacidad de obrar",
+      "Concepto de interesado",
+      "Representación"
+    ],
+    "correct": 0,
+    "exp": "El art. 3 LPAC lleva por título 'Capacidad de obrar'.",
+    "fuente": "Art. 3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el encabezado del art. 3 LPAC, ¿ante quién se reconoce la capacidad de obrar regulada en dicho artículo?",
+    "options": [
+      "Ante los Tribunales de Justicia",
+      "Ante las Administraciones Públicas",
+      "Ante el Registro Civil"
+    ],
+    "correct": 1,
+    "exp": "El art. 3 dice: 'A los efectos previstos en esta Ley, tendrán capacidad de obrar ante las Administraciones Públicas...'.",
+    "fuente": "Art. 3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 3 a) LPAC, ¿qué personas tienen capacidad de obrar ante las Administraciones Públicas por remisión a las normas civiles?",
+    "options": [
+      "Únicamente las personas físicas",
+      "Únicamente las personas jurídicas de derecho público",
+      "Tanto las personas físicas como las jurídicas que ostenten capacidad de obrar conforme a esas normas"
+    ],
+    "correct": 2,
+    "exp": "Art. 3 a): tendrán capacidad de obrar 'las personas físicas o jurídicas que ostenten capacidad de obrar con arreglo a las normas civiles'.",
+    "fuente": "Art. 3 a) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 3 b) LPAC, además de la patria potestad, ¿qué otras dos instituciones se citan como asistencia de la que puede prescindir el menor de edad?",
+    "options": [
+      "La tutela y la curatela",
+      "La emancipación y la mayoría de edad",
+      "La adopción y el acogimiento"
+    ],
+    "correct": 0,
+    "exp": "Art. 3 b) se refiere a la actuación permitida por el ordenamiento jurídico 'sin la asistencia de la persona que ejerza la patria potestad, tutela o curatela'.",
+    "fuente": "Art. 3 b) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 3 b) LPAC, ¿en qué caso se exceptúa la capacidad de obrar de los menores de edad?",
+    "options": [
+      "Cuando el menor sea mayor de dieciséis años",
+      "Cuando la extensión de la incapacitación afecte al ejercicio y defensa de los derechos o intereses de que se trate",
+      "Cuando el menor no disponga de representante legal"
+    ],
+    "correct": 1,
+    "exp": "Art. 3 b) in fine: 'Se exceptúa el supuesto de los menores incapacitados, cuando la extensión de la incapacitación afecte al ejercicio y defensa de los derechos o intereses de que se trate.'",
+    "fuente": "Art. 3 b) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué diferencia esencial existe, según el art. 3 LPAC, entre el supuesto de la letra a) y el de la letra c)?",
+    "options": [
+      "Ambas letras exigen personalidad jurídica propia del sujeto",
+      "La letra a) exige declaración expresa de una Ley; la letra c) se aplica automáticamente por remisión a las normas civiles",
+      "La letra a) atribuye capacidad de obrar conforme a las normas civiles; la letra c) exige que una Ley lo declare expresamente, aun sin personalidad jurídica"
+    ],
+    "correct": 2,
+    "exp": "El art. 3 a) LPAC remite a la capacidad de obrar civil; el art. 3 c) exige que una Ley declare expresamente la capacidad de obrar de entes sin personalidad jurídica.",
+    "fuente": "Art. 3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de los siguientes conjuntos de sujetos aparece citado en el art. 3 c) LPAC como titular de capacidad de obrar, cuando la Ley lo declare expresamente?",
+    "options": [
+      "Los grupos de afectados, las uniones y entidades sin personalidad jurídica y los patrimonios independientes o autónomos",
+      "Los partidos políticos y los sindicatos",
+      "Las comunidades autónomas y las entidades locales"
+    ],
+    "correct": 0,
+    "exp": "Art. 3 c) enumera exactamente: grupos de afectados, uniones y entidades sin personalidad jurídica, y patrimonios independientes o autónomos.",
+    "fuente": "Art. 3 c) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En cuántos apartados (letras) se estructura el art. 3 LPAC?",
+    "options": [
+      "En cuatro: a), b), c) y d)",
+      "En un único párrafo sin apartados",
+      "En tres: a), b) y c)"
+    ],
+    "correct": 2,
+    "exp": "El art. 3 LPAC enumera tres supuestos identificados con las letras a), b) y c).",
+    "fuente": "Art. 3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Un menor de edad quiere ejercer un derecho cuya actuación le permite el ordenamiento jurídico sin necesidad de asistencia de quien ejerce su patria potestad. Según el art. 3 b) LPAC, ¿tiene capacidad de obrar para ello?",
+    "options": [
+      "No, los menores nunca tienen capacidad de obrar",
+      "Sí, salvo que esté incapacitado y la incapacitación afecte al ejercicio y defensa de ese derecho",
+      "No, salvo autorización judicial expresa en cada caso"
+    ],
+    "correct": 1,
+    "exp": "Art. 3 b): los menores tienen capacidad de obrar para esos derechos e intereses, salvo el supuesto de menores incapacitados cuando la incapacitación afecte a ese ejercicio y defensa.",
+    "fuente": "Art. 3 b) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántas letras (categorías) integran el apartado 1 del art. 4 LPAC, dedicado al concepto de interesado?",
+    "options": [
+      "Dos",
+      "Cinco",
+      "Tres"
+    ],
+    "correct": 2,
+    "exp": "El art. 4.1 LPAC enumera tres categorías de interesado: letras a), b) y c).",
+    "fuente": "Art. 4.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Una persona no ha iniciado un procedimiento administrativo, pero tiene un derecho que puede resultar afectado por la decisión que se adopte en él. Según el art. 4.1 LPAC, ¿en qué letra encaja como interesado?",
+    "options": [
+      "En la letra b)",
+      "En la letra a)",
+      "En la letra c)"
+    ],
+    "correct": 0,
+    "exp": "Art. 4.1 b): son interesados 'los que, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte'.",
+    "fuente": "Art. 4.1 b) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 4.1 c) LPAC, quienes tienen intereses legítimos que puedan resultar afectados por la resolución adquieren la condición de interesados si se personan en el procedimiento:",
+    "options": [
+      "En cualquier momento, incluso tras la resolución definitiva",
+      "En tanto no haya recaído resolución definitiva",
+      "Únicamente antes de iniciarse el procedimiento"
+    ],
+    "correct": 1,
+    "exp": "Art. 4.1 c): '...y se personen en el procedimiento en tanto no haya recaído resolución definitiva.'",
+    "fuente": "Art. 4.1 c) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 4.1 a) LPAC, la condición de interesado por esta vía exige que la persona:",
+    "options": [
+      "Se limite a alegar en el trámite de audiencia sin haber iniciado el procedimiento",
+      "Ostente la representación de otro interesado",
+      "Promueva el procedimiento como titular de derechos o intereses legítimos, individuales o colectivos"
+    ],
+    "correct": 2,
+    "exp": "Art. 4.1 a): son interesados 'quienes lo promuevan como titulares de derechos o intereses legítimos individuales o colectivos'.",
+    "fuente": "Art. 4.1 a) LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 4.2 LPAC, las asociaciones y organizaciones representativas de intereses económicos y sociales serán titulares de intereses legítimos colectivos:",
+    "options": [
+      "En los términos que la Ley reconozca",
+      "Solo si están inscritas en un registro estatal",
+      "Únicamente cuando actúen en defensa de intereses económicos, nunca sociales"
+    ],
+    "correct": 0,
+    "exp": "Art. 4.2: '...serán titulares de intereses legítimos colectivos en los términos que la Ley reconozca.'",
+    "fuente": "Art. 4.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 4.3 LPAC, ¿qué tipo de relación jurídica debe existir para que el derecho-habiente suceda en la condición de interesado?",
+    "options": [
+      "Una relación jurídica de carácter sancionador",
+      "Una relación jurídica transmisible",
+      "Una relación jurídica intransmisible por naturaleza"
+    ],
+    "correct": 1,
+    "exp": "Art. 4.3: 'Cuando la condición de interesado derivase de alguna relación jurídica transmisible, el derecho-habiente sucederá en tal condición...'.",
+    "fuente": "Art. 4.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 4.3 LPAC, el derecho-habiente sucede en la condición de interesado:",
+    "options": [
+      "Solo si el procedimiento aún no se ha iniciado",
+      "Solo si el procedimiento se encuentra en fase de instrucción",
+      "Cualquiera que sea el estado del procedimiento"
+    ],
+    "correct": 2,
+    "exp": "Art. 4.3 in fine: '...cualquiera que sea el estado del procedimiento.'",
+    "fuente": "Art. 4.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál es la diferencia esencial entre el interesado de la letra a) y el de la letra c) del art. 4.1 LPAC?",
+    "options": [
+      "El de la letra a) promueve el procedimiento; el de la letra c) no lo promueve pero se persona en él por verse afectados sus intereses legítimos",
+      "El de la letra a) solo puede ser persona jurídica; el de la letra c) solo persona física",
+      "El de la letra c) tiene intereses legítimos y el de la letra a) solo derechos subjetivos"
+    ],
+    "correct": 0,
+    "exp": "La letra a) se refiere a quien promueve el procedimiento; la letra c), a quien no lo promueve pero ve afectados sus intereses legítimos y se persona antes de la resolución definitiva.",
+    "fuente": "Art. 4.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cómo se titula el art. 4 LPAC?",
+    "options": [
+      "Pluralidad de interesados",
+      "Concepto de interesado",
+      "Nuevos interesados en el procedimiento"
+    ],
+    "correct": 1,
+    "exp": "El art. 4 LPAC lleva por título 'Concepto de interesado'.",
+    "fuente": "Art. 4 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 5.1 LPAC, cuando un interesado actúa por medio de representante, la Administración se entenderá con este en las actuaciones administrativas:",
+    "options": [
+      "Solo si el representante es abogado en ejercicio",
+      "Solo cuando el interesado esté incapacitado",
+      "Salvo manifestación expresa en contra del interesado"
+    ],
+    "correct": 2,
+    "exp": "Art. 5.1: '...podrán actuar por medio de representante, entendiéndose con éste las actuaciones administrativas, salvo manifestación expresa en contra del interesado.'",
+    "fuente": "Art. 5.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 5.1 LPAC, ¿quién puede actuar por medio de representante ante las Administraciones Públicas?",
+    "options": [
+      "Los interesados con capacidad de obrar",
+      "Únicamente quienes carezcan de capacidad de obrar",
+      "Solo los interesados en procedimientos sancionadores"
+    ],
+    "correct": 0,
+    "exp": "Art. 5.1: 'Los interesados con capacidad de obrar podrán actuar por medio de representante...'.",
+    "fuente": "Art. 5.1 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 5.2 LPAC, ¿bajo qué condición pueden las personas jurídicas actuar en representación de otras ante las Administraciones Públicas?",
+    "options": [
+      "Siempre, sin necesidad de previsión estatutaria",
+      "Siempre que ello esté previsto en sus Estatutos",
+      "Solo si cuentan con autorización del registro mercantil"
+    ],
+    "correct": 1,
+    "exp": "Art. 5.2: '...las personas jurídicas, siempre que ello esté previsto en sus Estatutos, podrán actuar en representación de otras...'.",
+    "fuente": "Art. 5.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 5.2 LPAC, ¿qué requisito deben cumplir las personas físicas para poder actuar en representación de otras ante las Administraciones Públicas?",
+    "options": [
+      "Ser funcionario público",
+      "Contar con poder notarial específico",
+      "Tener capacidad de obrar"
+    ],
+    "correct": 2,
+    "exp": "Art. 5.2: 'Las personas físicas con capacidad de obrar... podrán actuar en representación de otras ante las Administraciones Públicas.'",
+    "fuente": "Art. 5.2 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes actuaciones exige, según el art. 5.3 LPAC, acreditar la representación?",
+    "options": [
+      "Desistir de una acción en nombre de otra persona",
+      "Consultar el estado de un expediente",
+      "Solicitar información general sobre un procedimiento"
+    ],
+    "correct": 0,
+    "exp": "Art. 5.3 exige acreditar representación, entre otras actuaciones, para 'desistir de acciones y renunciar a derechos en nombre de otra persona'.",
+    "fuente": "Art. 5.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 5.3 LPAC, ¿qué ocurre con la representación en los actos y gestiones de mero trámite?",
+    "options": [
+      "Queda expresamente prohibida",
+      "Se presumirá dicha representación",
+      "Debe acreditarse siempre mediante poder notarial"
+    ],
+    "correct": 1,
+    "exp": "Art. 5.3 in fine: 'Para los actos y gestiones de mero trámite se presumirá aquella representación.'",
+    "fuente": "Art. 5.3 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 5.4 LPAC, ¿mediante qué medios puede acreditarse, con carácter general, la representación?",
+    "options": [
+      "Solo mediante comparecencia personal ante el órgano competente",
+      "Exclusivamente mediante certificado electrónico cualificado",
+      "Cualquier medio válido en Derecho que deje constancia fidedigna de su existencia"
+    ],
+    "correct": 2,
+    "exp": "Art. 5.4: 'La representación podrá acreditarse mediante cualquier medio válido en Derecho que deje constancia fidedigna de su existencia.'",
+    "fuente": "Art. 5.4 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 5.4 LPAC, el apoderamiento apud acta se entiende acreditado cuando se efectúa mediante:",
+    "options": [
+      "Comparecencia personal o comparecencia electrónica en la sede electrónica correspondiente",
+      "Únicamente comparecencia personal ante notario",
+      "Comparecencia ante cualquier funcionario de otra Administración"
+    ],
+    "correct": 0,
+    "exp": "Art. 5.4: '...se entenderá acreditada la representación realizada mediante apoderamiento apud acta efectuado por comparecencia personal o comparecencia electrónica en la correspondiente sede electrónica...'.",
+    "fuente": "Art. 5.4 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 5.4 LPAC, además del apoderamiento apud acta, ¿mediante qué otra vía se entiende acreditada la representación?",
+    "options": [
+      "Mediante declaración jurada del representante",
+      "A través de la acreditación de su inscripción en el registro electrónico de apoderamientos de la Administración Pública competente",
+      "Mediante comunicación telefónica al órgano competente"
+    ],
+    "correct": 1,
+    "exp": "Art. 5.4: '...o a través de la acreditación de su inscripción en el registro electrónico de apoderamientos de la Administración Pública competente.'",
+    "fuente": "Art. 5.4 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 5.5 LPAC, ¿qué debe incorporar al expediente administrativo el órgano competente para la tramitación del procedimiento?",
+    "options": [
+      "Un informe jurídico sobre la validez del poder",
+      "Copia del Boletín Oficial donde se publicó el poder",
+      "Acreditación de la condición de representante y de los poderes que tiene reconocidos en dicho momento"
+    ],
+    "correct": 2,
+    "exp": "Art. 5.5: 'El órgano competente para la tramitación del procedimiento deberá incorporar al expediente administrativo acreditación de la condición de representante y de los poderes que tiene reconocidos en dicho momento.'",
+    "fuente": "Art. 5.5 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 5.5 LPAC, ¿qué condición tiene el documento electrónico que acredita el resultado de la consulta al registro electrónico de apoderamientos?",
+    "options": [
+      "La condición de acreditación a esos efectos",
+      "La de mero indicio, sujeto a ratificación posterior",
+      "La de prueba solo si la consulta la realiza el propio interesado"
+    ],
+    "correct": 0,
+    "exp": "Art. 5.5: 'El documento electrónico que acredite el resultado de la consulta al registro electrónico de apoderamientos correspondiente tendrá la condición de acreditación a estos efectos.'",
+    "fuente": "Art. 5.5 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 5.6 LPAC, ¿qué ocurre si la representación no se acredita o se acredita insuficientemente?",
+    "options": [
+      "El acto se declara nulo de pleno derecho",
+      "No impedirá que se tenga por realizado el acto, siempre que se subsane el defecto en plazo",
+      "El procedimiento se archiva automáticamente"
+    ],
+    "correct": 1,
+    "exp": "Art. 5.6: 'La falta o insuficiente acreditación de la representación no impedirá que se tenga por realizado el acto de que se trate, siempre que se aporte aquélla o se subsane el defecto dentro del plazo...'.",
+    "fuente": "Art. 5.6 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 5.6 LPAC, ¿cuál es el plazo general que debe conceder el órgano administrativo para subsanar el defecto de acreditación de la representación?",
+    "options": [
+      "Cinco días",
+      "Quince días",
+      "Diez días"
+    ],
+    "correct": 2,
+    "exp": "Art. 5.6: '...dentro del plazo de diez días que deberá conceder al efecto el órgano administrativo, o de un plazo superior cuando las circunstancias del caso así lo requieran.'",
+    "fuente": "Art. 5.6 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 5.6 LPAC, ¿puede el órgano administrativo conceder un plazo distinto de diez días para subsanar el defecto de representación?",
+    "options": [
+      "Sí, un plazo superior cuando las circunstancias del caso así lo requieran",
+      "No, el plazo de diez días es siempre improrrogable",
+      "Sí, pero solo reduciéndolo a cinco días"
+    ],
+    "correct": 0,
+    "exp": "Art. 5.6 admite conceder 'un plazo superior cuando las circunstancias del caso así lo requieran'.",
+    "fuente": "Art. 5.6 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 5.7 LPAC, ¿con qué carácter pueden las Administraciones Públicas habilitar a personas físicas o jurídicas para realizar transacciones electrónicas en representación de los interesados?",
+    "options": [
+      "Únicamente con carácter general",
+      "Con carácter general o específico",
+      "Únicamente con carácter específico y temporal"
+    ],
+    "correct": 1,
+    "exp": "Art. 5.7: 'Las Administraciones Públicas podrán habilitar con carácter general o específico a personas físicas o jurídicas autorizadas...'.",
+    "fuente": "Art. 5.7 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 5.7 LPAC, ¿qué debe especificar la habilitación concedida a los representantes autorizados para transacciones electrónicas?",
+    "options": [
+      "El domicilio fiscal del interesado representado",
+      "El número de expediente concreto en exclusiva",
+      "Las condiciones y obligaciones a las que se comprometen los que adquieran la condición de representantes"
+    ],
+    "correct": 2,
+    "exp": "Art. 5.7: 'Dicha habilitación deberá especificar las condiciones y obligaciones a las que se comprometen los que así adquieran la condición de representantes...'.",
+    "fuente": "Art. 5.7 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 5.7 LPAC, la habilitación para transacciones electrónicas determina, con carácter general, la presunción de validez de la representación:",
+    "options": [
+      "Salvo que la normativa de aplicación prevea otra cosa",
+      "Nunca, siempre debe acreditarse caso por caso",
+      "Únicamente durante el primer año de vigencia de la habilitación"
+    ],
+    "correct": 0,
+    "exp": "Art. 5.7: '...determinará la presunción de validez de la representación salvo que la normativa de aplicación prevea otra cosa.'",
+    "fuente": "Art. 5.7 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 5.7 LPAC, pese a existir una habilitación general o específica, ¿pueden las Administraciones Públicas exigir la acreditación de la representación?",
+    "options": [
+      "Solo si lo solicita un juez",
+      "Sí, en cualquier momento",
+      "No, salvo que exista denuncia de un tercero"
+    ],
+    "correct": 1,
+    "exp": "Art. 5.7: 'Las Administraciones Públicas podrán requerir, en cualquier momento, la acreditación de dicha representación.'",
+    "fuente": "Art. 5.7 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 5.7 LPAC, aun existiendo una persona habilitada para actuar en representación del interesado en transacciones electrónicas, ¿puede el interesado comparecer por sí mismo en el procedimiento?",
+    "options": [
+      "No, debe actuar exclusivamente a través del representante habilitado",
+      "Solo si el representante habilitado lo autoriza expresamente",
+      "Sí, siempre podrá comparecer el interesado por sí mismo"
+    ],
+    "correct": 2,
+    "exp": "Art. 5.7 in fine: 'No obstante, siempre podrá comparecer el interesado por sí mismo en el procedimiento.'",
+    "fuente": "Art. 5.7 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En cuántos apartados numerados se estructura el art. 5 LPAC, dedicado a la representación?",
+    "options": [
+      "En siete",
+      "En cinco",
+      "En tres"
+    ],
+    "correct": 0,
+    "exp": "El art. 5 LPAC se estructura en siete apartados numerados, del 1 al 7.",
+    "fuente": "Art. 5 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En qué apartado del art. 5 LPAC se regula el apoderamiento apud acta?",
+    "options": [
+      "En el apartado 6",
+      "En el apartado 4",
+      "En el apartado 7"
+    ],
+    "correct": 1,
+    "exp": "El apoderamiento apud acta se regula en el art. 5.4 LPAC.",
+    "fuente": "Art. 5.4 LPAC",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 5.1 LPAC, ¿quién debe realizar la manifestación expresa en contra de que la Administración se entienda con el representante?",
+    "options": [
+      "El propio representante, renunciando a su cargo",
+      "El órgano administrativo competente, de oficio",
+      "El interesado"
+    ],
+    "correct": 2,
+    "exp": "Art. 5.1: la Administración se entiende con el representante 'salvo manifestación expresa en contra del interesado', por lo que es este quien debe manifestarlo, no el representante ni el órgano actuante.",
+    "fuente": "Art. 5.1 LPAC",
+    "confianza": "alta"
   }
 ],
 5:[

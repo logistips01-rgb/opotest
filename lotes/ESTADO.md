@@ -300,6 +300,35 @@ opciones y se volcaron al tema 4, el mismo destino que los temas 6, 7 y 8,
 sin agentes adicionales — 260 nuevas, 0 duplicadas. Banco de Policía
 Local: de 3.389 a **3.649 preguntas**.
 
+## Tema 4 · LPAC (I): los interesados en el procedimiento — PRIMERA VUELTA CERRADA
+
+**260 preguntas** (de 100 que había), todas de 4 opciones. 4 lotes de 40,
+compartiendo el consolidado de la LPAC ya descargado.
+
+| Lote | Tramo | Confirmadas | Corregidas | Rechazadas |
+|---|---|---|---|---|
+| A | Capacidad de obrar, concepto de interesado, representación (arts. 3-5) | 40 | 0 | 0 |
+| B | Registros de apoderamientos, pluralidad y nuevos interesados (arts. 6-8) | 40 | 0 | 0 |
+| C | Sistemas de identificación y de firma (arts. 9-10) | 40 | 0 | 0 |
+| D | Uso de medios de identificación/firma y asistencia electrónica (arts. 11-12) | 40 | 0 | 0 |
+
+Notas:
+- Se verificó primero contra el Anexo I oficial (BOPZ núm. 147, p.108) que
+  el tema 4 es el Título I de la LPAC (arts. 3-12); las 100 preguntas ya
+  existentes caían dentro de ese rango salvo 13 sobre los arts. 1-2
+  (Título Preliminar: objeto y ámbito de la Ley), que no forman parte de
+  ningún tema explícito del temario. Se decidió no depurarlas — señal
+  ambigua, mismo criterio que en el tema 9 — y se documentó la duda en
+  `fuentes.json`.
+- El redactor del lote C generó 41 preguntas por un desajuste en su reparto
+  por apartado; descartó él mismo la que quedaba duplicada en enfoque
+  antes de entregar el lote.
+
+**Aprovechado para Policía Local**: las 260 preguntas se redujeron a 3
+opciones y se volcaron al tema 4, el mismo destino que los temas 5, 6, 7 y
+8, sin agentes adicionales — 260 nuevas, 0 duplicadas. Banco de Policía
+Local: de 3.649 a **3.909 preguntas**.
+
 ## Policía Local Zaragoza · importación de la Constitución desde Aux. Admin. (11-ago-2026)
 
 Segunda importación cruzada, esta vez con conversión real de 4→3 opciones
