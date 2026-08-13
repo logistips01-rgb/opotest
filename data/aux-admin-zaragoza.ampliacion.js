@@ -3724,7 +3724,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Racionalidad, economía y eficiencia, y establecerse de acuerdo con la ordenación general de la economía.",
       "Eficacia, jerarquía, descentralización y coordinación, con sujeción plena a la ley y al Derecho.",
-      "Objetividad, imparcialidad e independencia en el ejercicio de la función pública."
+      "Objetividad, imparcialidad e independencia en el ejercicio de la función pública.",
+      "Suficiencia financiera, estabilidad presupuestaria y sostenibilidad financiera."
     ],
     "correct": 0,
     "exp": "El art. 90.1, párrafo segundo, LBRL dispone que las plantillas deberán responder a los principios de racionalidad, economía y eficiencia y establecerse de acuerdo con la ordenación general de la economía, sin que los gastos de personal puedan rebasar los límites que se fijen con carácter general.",
@@ -3734,11 +3735,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Conforme al artículo 90.2 de la LBRL, establecer las normas con arreglo a las cuales hayan de confeccionarse las relaciones de puestos de trabajo, la descripción de puestos de trabajo tipo y las condiciones requeridas para su creación corresponde:",
     "options": [
+      "A la Comisión Nacional de Administración Local.",
       "A cada Corporación local, en el ejercicio de su potestad de autoorganización.",
       "Al Estado.",
       "A las Comunidades Autónomas, salvo en las ciudades con estatuto de autonomía."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 90.2, párrafo segundo, LBRL atribuye al Estado establecer las normas con arreglo a las cuales hayan de confeccionarse las relaciones de puestos de trabajo, la descripción de puestos de trabajo tipo y las condiciones requeridas para su creación.",
     "fuente": "Art. 90.2 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -3747,10 +3749,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "Según el artículo 90.2 de la LBRL, ¿a quién corresponde establecer las normas básicas de la carrera administrativa, especialmente por lo que se refiere a la promoción de los funcionarios a niveles y grupos superiores?",
     "options": [
       "A la Comunidad Autónoma en cuyo territorio radique la entidad local.",
+      "A la Federación Española de Municipios y Provincias.",
       "A cada entidad local mediante su reglamento orgánico.",
       "Al Estado."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 90.2, párrafo segundo, LBRL reserva al Estado, junto a las normas sobre relaciones de puestos de trabajo, el establecimiento de las normas básicas de la carrera administrativa, especialmente por lo que se refiere a la promoción de los funcionarios a niveles y grupos superiores.",
     "fuente": "Art. 90.2 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -3760,6 +3763,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Coordinados con los de las demás Administraciones públicas, según las normas aprobadas por el Gobierno.",
       "Integrados en el Registro Central de Personal de la Administración General del Estado, según las normas que apruebe cada Comunidad Autónoma.",
+      "Según las normas aprobadas por el Ministerio de Hacienda y Administraciones Públicas.",
       "De carácter estrictamente interno, sin necesidad de coordinación con otras Administraciones públicas."
     ],
     "correct": 0,
@@ -3772,7 +3776,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Tienen valor meramente estadístico y no producen efectos económicos.",
       "Determinarán las nóminas, a efectos de la debida justificación de todas las retribuciones.",
-      "Sirven exclusivamente para la elaboración de la oferta de empleo público del ejercicio siguiente."
+      "Sirven exclusivamente para la elaboración de la oferta de empleo público del ejercicio siguiente.",
+      "Servirán de base para la elaboración de las relaciones de puestos de trabajo del ejercicio siguiente."
     ],
     "correct": 1,
     "exp": "Según el art. 90.3 LBRL, los datos inscritos en el Registro de personal determinarán las nóminas, a efectos de la debida justificación de todas las retribuciones.",
@@ -3783,6 +3788,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "Según el artículo 92.1 de la LBRL, los funcionarios al servicio de la Administración local se rigen, en lo no dispuesto en dicha Ley, por:",
     "options": [
       "La Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, la restante legislación del Estado en materia de función pública y la legislación de las Comunidades Autónomas.",
+      "La normativa que apruebe cada Diputación Provincial en su ámbito territorial.",
       "Exclusivamente por la legislación de la Comunidad Autónoma en que se integre la entidad local.",
       "El texto refundido de las disposiciones legales vigentes en materia de Régimen Local y, subsidiariamente, por el Estatuto de los Trabajadores."
     ],
@@ -3794,11 +3800,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "En el artículo 92.1 de la LBRL, la aplicación de la legislación de las Comunidades Autónomas a los funcionarios al servicio de la Administración local se produce:",
     "options": [
+      "Únicamente en defecto de reglamento orgánico de la propia entidad local.",
       "Solo cuando la Comunidad Autónoma haya asumido competencia exclusiva en materia de régimen local.",
       "Con carácter preferente sobre la legislación estatal de función pública.",
       "En los términos del artículo 149.1.18.ª de la Constitución."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 92.1 LBRL cierra la remisión normativa señalando que la legislación de las Comunidades Autónomas se aplica «en los términos del artículo 149.1.18.ª de la Constitución».",
     "fuente": "Art. 92.1 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -3808,6 +3815,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Serán desempeñados indistintamente por personal funcionario o laboral, según decida la relación de puestos de trabajo.",
       "Con carácter general, serán desempeñados por personal funcionario.",
+      "Serán desempeñados indistintamente por funcionarios de carrera o interinos, sin necesidad de relación de puestos de trabajo.",
       "Serán desempeñados por personal laboral, salvo los que impliquen ejercicio de autoridad."
     ],
     "correct": 1,
@@ -3819,10 +3827,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "Según el artículo 92 bis.1 de la LBRL, las funciones públicas cuya responsabilidad administrativa está reservada a funcionarios de administración local con habilitación de carácter nacional son funciones necesarias:",
     "options": [
       "Solo en los municipios de más de 5.000 habitantes y en las Diputaciones Provinciales.",
+      "En los municipios cuya población supere los 20.000 habitantes.",
       "En los municipios de gran población y en las entidades locales supramunicipales.",
       "En todas las Corporaciones locales."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 92 bis.1 LBRL califica esas funciones como «funciones públicas necesarias en todas las Corporaciones locales», cuya responsabilidad administrativa está reservada a funcionarios de administración local con habilitación de carácter nacional.",
     "fuente": "Art. 92 bis.1 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -3832,7 +3841,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "El control y la fiscalización interna de la gestión económico-financiera y presupuestaria, y la contabilidad, tesorería y recaudación.",
       "La fe pública y el asesoramiento legal preceptivo, así como la contabilidad.",
-      "La gestión del padrón municipal de habitantes y la inspección tributaria local."
+      "La gestión del padrón municipal de habitantes y la inspección tributaria local.",
+      "La gestión presupuestaria y la aprobación de las bases de ejecución del presupuesto."
     ],
     "correct": 0,
     "exp": "El art. 92 bis.1.b) LBRL reserva el control y la fiscalización interna de la gestión económico-financiera y presupuestaria, y la contabilidad, tesorería y recaudación. La fe pública y el asesoramiento legal preceptivo integran la función de Secretaría del apartado 1.a).",
@@ -3842,11 +3852,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Respecto de las funciones públicas necesarias del artículo 92 bis.1 de la LBRL, en los municipios de gran población:",
     "options": [
+      "Se tendrá en cuenta lo dispuesto en el Título XI de la propia LBRL.",
       "Quedan excluidas de la reserva a funcionarios con habilitación de carácter nacional.",
       "Se tendrá en cuenta lo dispuesto en el Título X de la propia LBRL.",
       "Se aplicará únicamente la legislación autonómica de régimen local."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El párrafo final del art. 92 bis.1 LBRL precisa que en los municipios de gran población se tendrá en cuenta lo dispuesto en el Título X de la LBRL.",
     "fuente": "Art. 92 bis.1 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -3856,9 +3867,10 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "La Ley 1/2006, de 13 de marzo, para Madrid, y la Ley 22/2006, de 4 de julio, para Barcelona.",
       "Los respectivos Estatutos de Autonomía de la Comunidad de Madrid y de Cataluña.",
+      "Los respectivos reglamentos orgánicos aprobados por cada Ayuntamiento.",
       "La Ley 22/2006, de 4 de julio, de Capitalidad y de Régimen Especial de Madrid, y la Ley 1/2006, de 13 de marzo, por la que se regula el Régimen Especial del municipio de Barcelona."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 92 bis.1, párrafo final, LBRL remite a la Ley 22/2006, de 4 de julio, de Capitalidad y de Régimen Especial de Madrid, y a la Ley 1/2006, de 13 de marzo, por la que se regula el Régimen Especial del municipio de Barcelona.",
     "fuente": "Art. 92 bis.1 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -3867,6 +3879,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "Según el artículo 92 bis.3 de la LBRL, los funcionarios de las subescalas de Secretaría e Intervención-tesorería estarán integrados en una de estas categorías:",
     "options": [
       "Entrada o superior.",
+      "Superior, media o de entrada, según antigüedad.",
       "Primera, segunda o tercera.",
       "Básica, media o superior."
     ],
@@ -3880,7 +3893,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Por el Gobierno, mediante real decreto.",
       "Por cada Comunidad Autónoma, mediante decreto de su Consejo de Gobierno.",
-      "Por orden del Ministerio de Hacienda y Administraciones Públicas."
+      "Por orden del Ministerio de Hacienda y Administraciones Públicas.",
+      "Por las Cortes Generales, mediante ley ordinaria."
     ],
     "correct": 0,
     "exp": "El art. 92 bis.4 LBRL atribuye al Gobierno, mediante real decreto, la regulación de las especialidades de la creación, clasificación y supresión de esos puestos.",
@@ -3890,11 +3904,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Además de la creación, clasificación y supresión de puestos, el real decreto previsto en el artículo 92 bis.4 de la LBRL regulará las especialidades que puedan corresponder:",
     "options": [
+      "Al sistema de selección, formación y habilitación de estos funcionarios.",
       "A la forma de provisión de los puestos y al baremo de méritos generales.",
       "Al régimen disciplinario y de situaciones administrativas de estos funcionarios.",
       "Al régimen retributivo y a la carrera horizontal de estos funcionarios."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 92 bis.4 LBRL menciona, junto a la creación, clasificación y supresión de puestos, «las que puedan corresponder a su régimen disciplinario y de situaciones administrativas».",
     "fuente": "Art. 92 bis.4 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -3903,10 +3918,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "El ámbito territorial de los concursos para la provisión de puestos reservados a funcionarios de administración local con habilitación de carácter nacional es, según el artículo 92 bis.6 de la LBRL:",
     "options": [
       "De carácter autonómico, salvo para los puestos de Diputaciones Provinciales.",
+      "De carácter autonómico, coordinado por la Administración General del Estado.",
       "De carácter provincial.",
       "De carácter estatal."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 92 bis.6, párrafo primero, LBRL establece que el ámbito territorial de los concursos será de carácter estatal.",
     "fuente": "Art. 92 bis.6 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -3916,6 +3932,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Dos: el concurso ordinario y el concurso unitario, que tendrá naturaleza supletoria.",
       "Uno solo, el concurso unitario, convocado por las Comunidades Autónomas.",
+      "Tres: el concurso ordinario, el unitario y el extraordinario para vacantes urgentes.",
       "Dos: el concurso ordinario y el concurso extraordinario, ambos con igual naturaleza."
     ],
     "correct": 0,
@@ -3928,7 +3945,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "La Corporación local en la que se encuentre el puesto vacante.",
       "La Administración del Estado.",
-      "La Comunidad Autónoma en cuyo territorio radiquen los puestos vacantes."
+      "La Comunidad Autónoma en cuyo territorio radiquen los puestos vacantes.",
+      "La Federación Española de Municipios y Provincias."
     ],
     "correct": 1,
     "exp": "El art. 92 bis.6 LBRL señala expresamente que el concurso unitario será convocado por la Administración del Estado.",
@@ -3938,11 +3956,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Conforme al artículo 92 bis.6 de la LBRL, las Corporaciones locales con puestos vacantes aprobarán las bases del concurso ordinario y efectuarán las convocatorias:",
     "options": [
+      "Solicitando la conformidad previa del Consejo de Estado para su convocatoria.",
       "Publicándolas directamente en el «Boletín Oficial del Estado», sin intervención de otras Administraciones.",
       "Previa autorización expresa del Ministerio de Hacienda y Administraciones Públicas.",
       "Remitiéndolas a la correspondiente Comunidad Autónoma para su publicación simultánea en los diarios oficiales."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 92 bis.6 LBRL obliga a las Corporaciones locales con puestos vacantes a aprobar las bases del concurso ordinario de acuerdo con el modelo de convocatoria y bases comunes aprobado por real decreto, y a remitir las convocatorias a la correspondiente Comunidad Autónoma para su publicación simultánea en los diarios oficiales.",
     "fuente": "Art. 92 bis.6 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -3952,6 +3971,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Las Diputaciones Provinciales, Áreas Metropolitanas, Cabildos y Consejos Insulares y las ciudades con estatuto de autonomía de Ceuta y Melilla.",
       "Todos los municipios de más de 20.000 habitantes y sus organismos autónomos.",
+      "Los Consorcios locales, cuando su presupuesto supere los tres mil millones de pesetas.",
       "Las Mancomunidades de municipios y las Comarcas, cuando así lo prevea la legislación autonómica."
     ],
     "correct": 0,
@@ -3962,11 +3982,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Cuando el artículo 92 bis.6 de la LBRL admite excepcionalmente la libre designación para cubrir puestos con funciones reservadas, esta se efectuará:",
     "options": [
+      "Entre funcionarios de habilitación nacional de la misma subescala, con independencia de su categoría.",
       "Entre funcionarios de carrera del subgrupo A1 de cualquier Administración pública.",
       "Entre funcionarios de la subescala y categoría correspondiente.",
       "Libremente entre cualquier funcionario con habilitación de carácter nacional, sin exigencia de subescala ni categoría."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 92 bis.6 LBRL precisa que dichos puestos se podrán cubrir por el sistema de libre designación «entre funcionarios de la subescala y categoría correspondiente».",
     "fuente": "Art. 92 bis.6 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -3975,10 +3996,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "En los supuestos de cese de funcionarios con funciones reservadas del artículo 92 bis.1 nombrados por libre designación, el artículo 92 bis.6 de la LBRL exige que el acuerdo de cese:",
     "options": [
       "Sea ratificado por el Pleno de la Corporación en la primera sesión que celebre.",
+      "Sea informado, con carácter meramente informativo, a la Federación Española de Municipios y Provincias.",
       "Sea autorizado previamente por la Comunidad Autónoma correspondiente.",
       "Sea comunicado al órgano competente de la Administración General del Estado en materia de Función Pública, incluyendo la motivación del cese referida al desempeño profesional del funcionario."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 92 bis.6 LBRL obliga a comunicar el acuerdo de cese al órgano competente de la Administración General del Estado en materia de Función Pública, con la correspondiente motivación referida al desempeño profesional del funcionario.",
     "fuente": "Art. 92 bis.6 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -3988,7 +4010,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Asignar al funcionario cesado un puesto de trabajo de su mismo grupo de titulación.",
       "Declarar al funcionario cesado en situación de excedencia forzosa hasta que obtenga nuevo destino por concurso.",
-      "Reservarle el mismo puesto durante un plazo máximo de dos años."
+      "Reservarle el mismo puesto durante un plazo máximo de dos años.",
+      "Solicitar a la Comunidad Autónoma un nombramiento provisional en otra Corporación."
     ],
     "correct": 0,
     "exp": "El último párrafo del art. 92 bis.6 LBRL dispone que, acordado el cese en un puesto de libre designación, la Corporación local deberá asignar al funcionario cesado un puesto de trabajo de su mismo grupo de titulación.",
@@ -4000,6 +4023,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "El Ministerio de Hacienda y Administraciones Públicas.",
       "Las Comunidades Autónomas.",
+      "El Instituto Nacional de Administración Pública.",
       "Las propias Corporaciones locales afectadas."
     ],
     "correct": 1,
@@ -4010,11 +4034,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Las actuaciones que el artículo 92 bis.7 de la LBRL encomienda a las Comunidades Autónomas se llevan a cabo:",
     "options": [
+      "Previa consulta no vinculante con la Federación Española de Municipios y Provincias.",
       "Conforme a la normativa que cada Comunidad Autónoma apruebe con plena autonomía.",
       "Previo informe favorable y vinculante de la Corporación local afectada.",
       "De acuerdo con la normativa establecida por la Administración del Estado."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 92 bis.7 LBRL comienza señalando que las Comunidades Autónomas efectuarán esos nombramientos «de acuerdo con la normativa establecida por la Administración del Estado».",
     "fuente": "Art. 92 bis.7 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -4024,7 +4049,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Un año.",
       "Dos años.",
-      "Tres años."
+      "Tres años.",
+      "Seis meses."
     ],
     "correct": 1,
     "exp": "El art. 92 bis.8 LBRL exige una permanencia mínima de dos años en cada puesto de trabajo obtenido por concurso.",
@@ -4035,10 +4061,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "La exigencia de permanencia mínima del artículo 92 bis.8 de la LBRL no se aplica:",
     "options": [
       "Cuando el funcionario pertenezca a la categoría superior de su subescala.",
+      "Cuando el funcionario acredite razones de salud debidamente justificadas.",
       "Cuando el puesto de destino esté clasificado en clase primera.",
       "En el ámbito de una misma Entidad Local."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 92 bis.8 LBRL exceptúa expresamente de la permanencia mínima de dos años los movimientos «en el ámbito de una misma Entidad Local».",
     "fuente": "Art. 92 bis.8 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -4048,6 +4075,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Por el Ministerio de Hacienda y Administraciones Públicas, cuando existan razones y circunstancias que requieran la cobertura urgente del puesto.",
       "Por la Comunidad Autónoma, cuando lo solicite motivadamente la Corporación local.",
+      "Por la Comisión Nacional de Administración Local, a propuesta de la Comunidad Autónoma.",
       "Por el Presidente de la Corporación local, dando cuenta al Pleno."
     ],
     "correct": 0,
@@ -4058,11 +4086,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "El Registro de funcionarios de administración local con habilitación de carácter nacional previsto en el artículo 92 bis.9 de la LBRL existirá en:",
     "options": [
+      "El Instituto de Estudios de Administración Local, coordinado con el Ministerio de Justicia.",
       "La Federación Española de Municipios y Provincias.",
       "Cada Comunidad Autónoma, coordinado con el estatal.",
       "El Ministerio de Hacienda y Administraciones Públicas, integrado con las Comunidades Autónomas."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 92 bis.9 LBRL dispone que en el Ministerio de Hacienda y Administraciones Públicas existirá un Registro de funcionarios de administración local con habilitación de carácter nacional integrado con las Comunidades Autónomas.",
     "fuente": "Art. 92 bis.9 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -4072,7 +4101,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Todos los actos que afecten a la vida administrativa de estos funcionarios.",
       "Únicamente los nombramientos definitivos obtenidos por concurso y las jubilaciones.",
-      "Exclusivamente las sanciones disciplinarias por faltas graves y muy graves."
+      "Exclusivamente las sanciones disciplinarias por faltas graves y muy graves.",
+      "Solamente los actos relativos a la toma de posesión y cese en el puesto de trabajo."
     ],
     "correct": 0,
     "exp": "Conforme al art. 92 bis.9 LBRL, en dicho Registro se inscribirán y anotarán todos los actos que afecten a la vida administrativa de estos funcionarios.",
@@ -4082,11 +4112,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Según el artículo 92 bis.10 de la LBRL, cuando los hechos imputados a un funcionario con habilitación de carácter nacional pudieran ser constitutivos de falta leve, la incoación del expediente disciplinario corresponde:",
     "options": [
+      "Al órgano competente de la Comunidad Autónoma en la que el funcionario preste servicios en la actualidad.",
       "Al Ministerio de Hacienda y Administraciones Públicas.",
       "Al órgano correspondiente de la Corporación donde el funcionario hubiera cometido los hechos que se le imputan.",
       "A la Comunidad Autónoma en cuyo ámbito territorial radique la Corporación."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 92 bis.10.a) LBRL atribuye la incoación al órgano correspondiente de la Corporación donde el funcionario hubiera cometido los hechos que se le imputan, cuando pudieran ser constitutivos de falta leve.",
     "fuente": "Art. 92 bis.10.a) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -4095,10 +4126,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "Conforme al artículo 92 bis.10 de la LBRL, la incoación de expedientes disciplinarios por hechos que pudieran ser constitutivos de faltas muy graves tipificadas en la normativa básica estatal corresponde:",
     "options": [
       "A la Comunidad Autónoma respectiva.",
+      "Conjuntamente por el Ministerio de Hacienda y Administraciones Públicas y la Comunidad Autónoma respectiva.",
       "Al órgano local competente de la Corporación afectada.",
       "Al Ministerio de Hacienda y Administraciones Públicas."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 92 bis.10.c) LBRL reserva al Ministerio de Hacienda y Administraciones Públicas la incoación cuando los hechos denunciados pudieran ser constitutivos de faltas muy graves tipificadas en la normativa básica estatal; la Comunidad Autónoma incoa respecto de los funcionarios de su ámbito territorial salvo en ese supuesto.",
     "fuente": "Art. 92 bis.10.c) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -4108,6 +4140,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Nombrar instructor, decretar o alzar la suspensión provisional del expedientado e instruir diligencias previas antes de decidir sobre la incoación.",
       "Imponer, en todo caso, la sanción que resulte procedente al término del expediente.",
+      "Fijar el importe de la fianza que deba prestar el expedientado durante la tramitación del expediente.",
       "Resolver los recursos administrativos que se interpongan contra la resolución sancionadora."
     ],
     "correct": 0,
@@ -4120,7 +4153,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Un funcionario con habilitación de carácter nacional de categoría superior, en todo caso.",
       "Un funcionario de carrera de cualquiera de los Cuerpos o Escalas del Subgrupo A1 de titulación, incluida la Escala de Funcionarios con Habilitación de carácter nacional, que cuente con conocimientos en la materia a la que se refiera la infracción.",
-      "Un funcionario de carrera perteneciente a los Subgrupos A1 o A2, designado por sorteo entre los de la propia Corporación."
+      "Un funcionario de carrera perteneciente a los Subgrupos A1 o A2, designado por sorteo entre los de la propia Corporación.",
+      "Un funcionario de carrera del Subgrupo C1, designado por el Pleno de la Corporación."
     ],
     "correct": 1,
     "exp": "El art. 92 bis.10, último párrafo, LBRL exige que la instrucción se efectúe por un funcionario de carrera de cualquiera de los Cuerpos o Escalas del Subgrupo A1 de titulación, incluida la Escala de Funcionarios con Habilitación de carácter nacional, que cuente con conocimientos en la materia a la que se refiera la infracción.",
@@ -4130,11 +4164,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Conforme al artículo 92 bis.11 de la LBRL, la imposición de sanciones disciplinarias por falta muy grave tipificada en la normativa básica estatal corresponde:",
     "options": [
+      "Al Delegado del Gobierno en la Comunidad Autónoma correspondiente.",
       "Al Pleno de la Corporación local afectada.",
       "A la Comunidad Autónoma respectiva.",
       "Al Ministro de Hacienda y Administraciones Públicas."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 92 bis.11.a) LBRL atribuye al Ministro de Hacienda y Administraciones Públicas la imposición de la sanción cuando esta recaiga por falta muy grave tipificada en la normativa básica estatal.",
     "fuente": "Art. 92 bis.11.a) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -4143,6 +4178,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "Según el artículo 92 bis.11 de la LBRL, ¿a quién corresponde imponer las sanciones de suspensión de funciones y destitución no comprendidas entre las derivadas de faltas muy graves tipificadas en la normativa básica estatal?",
     "options": [
       "A la Comunidad Autónoma.",
+      "A la Diputación Provincial correspondiente.",
       "Al órgano local competente.",
       "Al Ministro de Hacienda y Administraciones Públicas."
     ],
@@ -4156,6 +4192,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "A la Comunidad Autónoma respectiva.",
       "Al órgano local competente.",
+      "Al Delegado del Gobierno, cuando el municipio tenga menos de 5.000 habitantes.",
       "Al órgano del Ministerio de Hacienda y Administraciones Públicas que haya incoado el expediente."
     ],
     "correct": 1,
@@ -4166,11 +4203,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Según el artículo 92 bis.11 de la LBRL, si en el momento de la ejecución el funcionario sancionado se encontrara ocupando un puesto distinto de aquel en el que se produjeron los hechos:",
     "options": [
+      "La sanción se reducirá proporcionalmente en atención al nuevo puesto desempeñado.",
       "La sanción quedará sin efecto y deberá reiniciarse el expediente en la nueva Corporación.",
       "La ejecución quedará en suspenso hasta que el funcionario regrese a la Corporación de origen.",
       "La sanción impuesta se ejecutará en sus propios términos."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 92 bis.11 LBRL establece que la sanción impuesta se ejecutará en sus propios términos, aun cuando en el momento de la ejecución el funcionario se encontrara ocupando un puesto distinto a aquel en el que se produjeron los hechos que dieron lugar a la sanción.",
     "fuente": "Art. 92 bis.11 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -4179,6 +4217,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "Conforme al artículo 92 bis.11 de la LBRL, la sanción de destitución implicará la pérdida del puesto de trabajo con la prohibición de obtener destino en la misma Corporación en la que tuvo lugar la sanción, en el plazo que se fije, con un máximo de:",
     "options": [
       "Seis años para las faltas muy graves y tres años para las faltas graves.",
+      "Cuatro años para las faltas muy graves y dos años para las faltas graves.",
       "Tres años para las faltas muy graves y un año para las faltas graves.",
       "Diez años para las faltas muy graves y cinco años para las faltas graves."
     ],
@@ -4192,7 +4231,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Tres años para las faltas muy graves y un año para las faltas graves.",
       "Seis años para las faltas muy graves y tres años para las faltas graves.",
-      "Cinco años para las faltas muy graves y dos años para las faltas graves."
+      "Cinco años para las faltas muy graves y dos años para las faltas graves.",
+      "Cuatro años para las faltas muy graves y un año para las faltas graves."
     ],
     "correct": 1,
     "exp": "El art. 92 bis.11, último párrafo, LBRL dispone que la sanción de suspensión de funciones tendrá una duración máxima de seis años para las faltas muy graves y de tres años para las faltas graves.",
@@ -4208,7 +4248,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "La estructura general de la función pública, pero con cuantía fijada libremente por cada Corporación",
       "La misma estructura e idéntica cuantía que las establecidas con carácter general para toda la función pública",
-      "Estructura y cuantía determinadas por la Comunidad Autónoma correspondiente"
+      "Estructura y cuantía determinadas por la Comunidad Autónoma correspondiente",
+      "La misma estructura, pero con una cuantía superior en un 10 por 100 a la establecida con carácter general"
     ],
     "correct": 1,
     "exp": "El art. 93.1 LBRL dispone literalmente que las retribuciones básicas de los funcionarios locales tendrán la misma estructura e idéntica cuantía que las establecidas con carácter general para toda la función pública.",
@@ -4219,6 +4260,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "La cuantía global de las retribuciones complementarias de los funcionarios locales será fijada, conforme al artículo 93.2 de la LBRL, por:",
     "options": [
       "El Pleno de la Corporación, dentro de los límites máximos y mínimos que se señalen por el Estado",
+      "La Comisión de Retribuciones de la Corporación, sin sujeción a límites externos",
       "El Alcalde o Presidente de la Corporación, dentro de los límites fijados por la Comunidad Autónoma",
       "El Estado, directamente en la Ley de Presupuestos Generales del Estado"
     ],
@@ -4230,11 +4272,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Conforme al artículo 93.2 de la LBRL, las retribuciones complementarias de los funcionarios locales se atendrán:",
     "options": [
+      "A la estructura de las retribuciones de los funcionarios autonómicos exclusivamente",
       "Exclusivamente a los criterios que apruebe cada Corporación en su relación de puestos de trabajo",
       "A la estructura de las retribuciones básicas, sin criterios de valoración objetiva",
       "A la estructura y criterios de valoración objetiva de las del resto de los funcionarios públicos"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 93.2 LBRL exige que las retribuciones complementarias se atengan asimismo a la estructura y a los criterios de valoración objetiva de las del resto de los funcionarios públicos.",
     "fuente": "Art. 93.2 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -4244,6 +4287,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Reflejar anualmente en sus presupuestos su cuantía, en los términos previstos en la legislación básica sobre función pública",
       "Publicarlas semestralmente en el Boletín Oficial del Estado",
+      "Remitir anualmente su cuantía al Tribunal de Cuentas para su aprobación previa",
       "Comunicarlas trimestralmente al Ministerio de Hacienda, sin necesidad de reflejarlas en el presupuesto"
     ],
     "correct": 0,
@@ -4256,7 +4300,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "La misma que se fije para los funcionarios de la Administración Civil del Estado",
       "La que fije el Pleno de cada Corporación, sin sujeción a referencia externa alguna",
-      "La misma que se fije para el personal al servicio de las Comunidades Autónomas"
+      "La misma que se fije para el personal al servicio de las Comunidades Autónomas",
+      "La que resulte de la negociación colectiva de ámbito provincial, sin referencia a la Administración del Estado"
     ],
     "correct": 0,
     "exp": "El art. 94 LBRL establece que la jornada de trabajo de los funcionarios de la Administración local será en cómputo anual la misma que se fije para los funcionarios de la Administración Civil del Estado.",
@@ -4267,10 +4312,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "Además de la equiparación de la jornada en cómputo anual, el artículo 94 de la LBRL dispone que a los funcionarios de la Administración local se les aplicarán las mismas normas sobre:",
     "options": [
       "Vacaciones, permisos y licencias",
+      "Movilidad y permuta de puestos de trabajo",
       "Incompatibilidades y jubilación forzosa",
       "Equivalencia y reducción de jornada"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El segundo párrafo del art. 94 LBRL añade que se les aplicarán las mismas normas sobre equivalencia y reducción de jornada.",
     "fuente": "Art. 94 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -4278,11 +4324,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "La participación de los funcionarios locales, a través de sus organizaciones sindicales, en la determinación de sus condiciones de empleo será, según el artículo 95 de la LBRL:",
     "options": [
+      "La fijada mediante convenio colectivo único aplicable a todas las Administraciones locales",
       "La prevista en la legislación autonómica de función pública de cada Comunidad Autónoma",
       "La que acuerde cada Corporación local mediante su reglamento orgánico",
       "La establecida con carácter general para todas las Administraciones públicas en el Estatuto básico de la función pública"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 95 LBRL remite a la regulación establecida con carácter general para todas las Administraciones públicas en el Estatuto básico de la función pública.",
     "fuente": "Art. 95 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -4292,6 +4339,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Perfeccionamiento, especialización y promoción",
       "Ingreso, habilitación y provisión de puestos",
+      "Reciclaje, reconversión y movilidad funcional",
       "Formación inicial y prácticas selectivas"
     ],
     "correct": 0,
@@ -4304,7 +4352,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Los Institutos o Escuelas de funcionarios de las Comunidades Autónomas y con las instituciones de este tipo que acuerden constituir las propias Corporaciones",
       "Únicamente con el Instituto Nacional de Administración Pública",
-      "Exclusivamente con las Diputaciones provinciales y los Cabildos insulares"
+      "Exclusivamente con las Diputaciones provinciales y los Cabildos insulares",
+      "Con las Universidades públicas que impartan titulaciones en Administración Local"
     ],
     "correct": 0,
     "exp": "El art. 96 LBRL prevé la colaboración con los Institutos o Escuelas de funcionarios de las Comunidades Autónomas, así como con las instituciones de este tipo que acuerden constituir las propias Corporaciones.",
@@ -4315,10 +4364,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "Los anuncios de convocatorias de pruebas de acceso a la función pública local y de concursos para la provisión de puestos de trabajo deberán publicarse, según el artículo 97 de la LBRL, en:",
     "options": [
       "El Boletín Oficial de la Provincia",
+      "El «Boletín Oficial» de la Provincia y en el de la Comunidad Autónoma conjuntamente",
       "El Boletín Oficial del Estado",
       "El boletín oficial de la Comunidad Autónoma"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El primer párrafo del art. 97 LBRL exige la publicación de los anuncios de estas convocatorias en el Boletín Oficial del Estado.",
     "fuente": "Art. 97 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -4326,11 +4376,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Con carácter general, las bases de las convocatorias a que se refiere el artículo 97 de la LBRL se publicarán en:",
     "options": [
+      "El «Boletín Oficial» de la Provincia y, simultáneamente, en el de la Comunidad Autónoma",
       "La sede electrónica de la Corporación, sin publicación en boletín oficial alguno",
       "El Boletín Oficial de la Provincia",
       "El Boletín Oficial del Estado"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El segundo párrafo del art. 97 LBRL dispone que las bases se publicarán en el Boletín Oficial de la Provincia, salvo la excepción que él mismo establece.",
     "fuente": "Art. 97 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -4340,6 +4391,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "El Boletín Oficial del Estado",
       "El boletín oficial de la Comunidad Autónoma",
+      "El «Boletín Oficial del Estado» y en el de la Comunidad Autónoma conjuntamente",
       "El Boletín Oficial de la Provincia y en el propio de la Corporación"
     ],
     "correct": 0,
@@ -4352,7 +4404,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "El convenio colectivo de ámbito estatal aplicable al sector público",
       "La correspondiente Ley de Presupuestos Generales del Estado",
-      "La ley de presupuestos de la Comunidad Autónoma respectiva"
+      "La ley de presupuestos de la Comunidad Autónoma respectiva",
+      "El acuerdo del Pleno adoptado por mayoría absoluta, sin referencia a norma estatal alguna"
     ],
     "correct": 1,
     "exp": "El art. 103 bis.1 LBRL remite a los límites y condiciones que se establezcan con carácter básico en la correspondiente Ley de Presupuestos Generales del Estado.",
@@ -4363,6 +4416,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "La aprobación de la masa salarial del artículo 103 bis de la LBRL comprende, además de la referente a la propia Entidad Local:",
     "options": [
       "La de organismos, entidades públicas empresariales y demás entes públicos y sociedades mercantiles locales dependientes, así como la de los consorcios adscritos a la misma y la de determinadas fundaciones",
+      "Únicamente los consorcios adscritos a la Entidad Local, con exclusión de cualesquiera otros entes",
       "Únicamente la de los organismos autónomos de ella dependientes",
       "Solo la de las sociedades mercantiles locales de capital íntegramente público"
     ],
@@ -4374,11 +4428,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Entre las fundaciones cuya masa salarial se incluye en la aprobación del artículo 103 bis de la LBRL están, conforme a su letra a), las que se constituyan con:",
     "options": [
+      "Una aportación directa o indirecta igual o superior al 33 por 100",
       "Una aportación directa de la entidad local no inferior al 25 por 100",
       "Una aportación mayoritaria, directa o indirecta, de las entidades citadas en ese apartado",
       "Cualquier aportación, aunque sea minoritaria, de la entidad local"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 103 bis.2.a) LBRL se refiere a las fundaciones constituidas con una aportación mayoritaria, directa o indirecta, de las entidades citadas en dicho apartado.",
     "fuente": "Art. 103 bis.2.a) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -4388,6 +4443,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "25 por 100",
       "50 por 100",
+      "60 por 100",
       "75 por 100"
     ],
     "correct": 1,
@@ -4400,7 +4456,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "El Boletín Oficial del Estado y en el de la Comunidad Autónoma",
       "Únicamente en la sede electrónica de la Corporación",
-      "El «Boletín Oficial» de la Provincia y, en su caso, en el propio de la Corporación"
+      "El «Boletín Oficial» de la Provincia y, en su caso, en el propio de la Corporación",
+      "El «Boletín Oficial del Estado» exclusivamente"
     ],
     "correct": 2,
     "exp": "El art. 104.3 LBRL ordena la publicación de los nombramientos de funcionarios de empleo, del régimen de sus retribuciones y de su dedicación en el «Boletín Oficial» de la Provincia y, en su caso, en el propio de la Corporación.",
@@ -4411,10 +4468,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "Los Municipios de población entre 2.000 y 5.000 habitantes podrán, según el artículo 104 bis.1.a) de la LBRL:",
     "options": [
       "Contar con un puesto de personal eventual por cada tres concejales, sin condición alguna",
+      "Contar con un puesto de personal eventual, previa autorización de la Comunidad Autónoma",
       "Contar excepcionalmente con un puesto de trabajo cuya cobertura corresponda a personal eventual cuando no haya miembros de la corporación local con dedicación exclusiva",
       "Contar en todo caso con dos puestos de trabajo cuya cobertura corresponda a personal eventual"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 104 bis.1.a) LBRL permite a los Municipios de 2.000 a 5.000 habitantes contar excepcionalmente con un puesto de personal eventual, y solo cuando no haya miembros de la corporación local con dedicación exclusiva.",
     "fuente": "Art. 104 bis.1.a) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -4422,11 +4480,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "La posibilidad excepcional de contar con un puesto de personal eventual en los Municipios de población entre 2.000 y 5.000 habitantes está condicionada a que:",
     "options": [
+      "El municipio no haya contado con personal eventual en el mandato corporativo anterior",
       "No haya miembros de la corporación local con dedicación exclusiva",
       "Lo autorice previamente la Diputación provincial",
       "El presupuesto de la Corporación no supere un determinado importe"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 104 bis.1.a) LBRL supedita esa dotación excepcional a que no haya miembros de la corporación local con dedicación exclusiva.",
     "fuente": "Art. 104 bis.1.a) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -4436,9 +4495,10 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Tres",
       "Dos",
+      "Cuatro",
       "Uno"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 104 bis.1.b) LBRL fija para el tramo de más de 5.000 y hasta 10.000 habitantes un número que no podrá exceder de uno.",
     "fuente": "Art. 104 bis.1.b) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -4448,7 +4508,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Siete",
       "Dos",
-      "Cuatro"
+      "Cuatro",
+      "Tres"
     ],
     "correct": 1,
     "exp": "El art. 104 bis.1.c) LBRL fija para el tramo de más de 10.000 y hasta 20.000 habitantes un número que no podrá exceder de dos.",
@@ -4459,10 +4520,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "En los Ayuntamientos de Municipios con población superior a 20.000 y no superior a 50.000 habitantes, los puestos de trabajo de personal eventual no podrán exceder de:",
     "options": [
       "Diez",
+      "Ocho",
       "Cinco",
       "Siete"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 104 bis.1.d) LBRL fija para el tramo de más de 20.000 y hasta 50.000 habitantes un número que no podrá exceder de siete.",
     "fuente": "Art. 104 bis.1.d) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -4470,11 +4532,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "En los Ayuntamientos de Municipios con población superior a 50.000 y no superior a 75.000 habitantes, los puestos de trabajo de personal eventual no podrán exceder de:",
     "options": [
+      "Dos tercios del número de concejales de la Corporación local",
       "La mitad de concejales de la Corporación local",
       "El número de concejales de la Corporación local",
       "Un tercio del número de concejales de la Corporación local"
     ],
-    "correct": 0,
+    "correct": 1,
     "exp": "El art. 104 bis.1.e) LBRL fija para el tramo de más de 50.000 y hasta 75.000 habitantes el límite de la mitad de concejales de la Corporación local.",
     "fuente": "Art. 104 bis.1.e) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -4484,9 +4547,10 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "La mitad de concejales de la Corporación local",
       "El doble del número de concejales de la Corporación local",
+      "Un tercio del número de concejales de la Corporación local",
       "El número de concejales de la Corporación local"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 104 bis.1.f) LBRL fija para el tramo de más de 75.000 y hasta 500.000 habitantes un número que no podrá exceder del número de concejales de la Corporación local.",
     "fuente": "Art. 104 bis.1.f) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -4496,7 +4560,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Superior a 50.000 y no superior a 75.000 habitantes",
       "Superior a 75.000 y no superior a 500.000 habitantes",
-      "Superior a 20.000 y no superior a 50.000 habitantes"
+      "Superior a 20.000 y no superior a 50.000 habitantes",
+      "Superior a 5.000 y no superior a 10.000 habitantes"
     ],
     "correct": 0,
     "exp": "El límite de la mitad de concejales es el de la letra e) del art. 104 bis.1 LBRL, aplicable al tramo de más de 50.000 y hasta 75.000 habitantes; el tramo de 20.000 a 50.000 tiene un máximo de siete y el de 75.000 a 500.000, el número de concejales.",
@@ -4507,6 +4572,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "¿A qué tramo de población corresponde, en el artículo 104 bis.1 de la LBRL, el límite máximo de siete puestos de trabajo de personal eventual?",
     "options": [
       "Superior a 20.000 y no superior a 50.000 habitantes",
+      "Superior a 500.000 habitantes",
       "Superior a 10.000 y no superior a 20.000 habitantes",
       "Superior a 50.000 y no superior a 75.000 habitantes"
     ],
@@ -4518,11 +4584,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "El límite de personal eventual igual al «número de concejales de la Corporación local» se aplica a los Ayuntamientos de Municipios con población:",
     "options": [
+      "Superior a 20.000 y no superior a 50.000 habitantes",
       "Superior a 50.000 y no superior a 75.000 habitantes",
       "Superior a 75.000 y no superior a 500.000 habitantes",
       "Superior a 500.000 habitantes"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El límite igual al número de concejales es el de la letra f) del art. 104 bis.1 LBRL, aplicable al tramo de más de 75.000 y hasta 500.000 habitantes.",
     "fuente": "Art. 104 bis.1.f) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -4532,6 +4599,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Superior a 10.000 y no superior a 20.000 habitantes",
       "Superior a 20.000 y no superior a 50.000 habitantes",
+      "Superior a 50.000 y no superior a 75.000 habitantes",
       "Superior a 5.000 y no superior a 10.000 habitantes"
     ],
     "correct": 0,
@@ -4544,7 +4612,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "De un municipio sujeto al régimen de organización de los municipios de gran población",
       "Del Municipio de mayor población dentro de un Área Metropolitana",
-      "De una capital de Comunidad Autónoma"
+      "De una capital de Comunidad Autónoma",
+      "De un municipio limítrofe con la capital de la provincia"
     ],
     "correct": 1,
     "exp": "El segundo párrafo del art. 104 bis.1.g) LBRL reconoce la dotación adicional a los Ayuntamientos de más de 500.000 habitantes que lo sean del Municipio de mayor población dentro de un Área Metropolitana.",
@@ -4555,10 +4624,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "Conforme al segundo párrafo del artículo 104 bis.1.g) de la LBRL, el número adicional de puestos de personal eventual no podrá exceder de seis si el Municipio tiene una población:",
     "options": [
       "Entre 1.000.001 y 1.500.000 habitantes",
+      "Entre 300.000 y 500.000 habitantes",
       "De más de 1.500.000 habitantes",
       "Entre 500.000 y 1.000.000 de habitantes"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 104 bis.1.g), segundo párrafo, LBRL fija el número adicional en seis para los Municipios con población entre 500.000 y 1.000.000 de habitantes.",
     "fuente": "Art. 104 bis.1.g) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -4566,11 +4636,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Si el Municipio de mayor población de un Área Metropolitana tiene una población entre 1.000.001 y 1.500.000 habitantes, el número adicional de puestos de personal eventual no podrá exceder de:",
     "options": [
+      "Nueve",
       "Dieciocho",
       "Seis",
       "Doce"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 104 bis.1.g), segundo párrafo, LBRL fija el número adicional en doce para los Municipios con población entre 1.000.001 y 1.500.000 habitantes.",
     "fuente": "Art. 104 bis.1.g) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -4580,9 +4651,10 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Entre 500.000 y 1.000.000 de habitantes",
       "Entre 1.000.001 y 1.500.000 habitantes",
+      "Entre 400.000 y 500.000 habitantes",
       "De más de 1.500.000 habitantes"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 104 bis.1.g), segundo párrafo, LBRL fija el número adicional en dieciocho para los Municipios de más de 1.500.000 habitantes.",
     "fuente": "Art. 104 bis.1.g) LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -4592,7 +4664,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Únicamente los puestos del Ayuntamiento, excluidos sus organismos y entes dependientes",
       "Todas las sociedades mercantiles locales, con independencia de su clasificación en el Sistema Europeo de Cuentas",
-      "Los entes que tengan la consideración de Administración pública en el marco del Sistema Europeo de Cuentas"
+      "Los entes que tengan la consideración de Administración pública en el marco del Sistema Europeo de Cuentas",
+      "Todos los entes vinculados o dependientes, cualquiera que sea su naturaleza jurídica"
     ],
     "correct": 2,
     "exp": "El art. 104 bis.1.g) LBRL precisa que, a estos efectos, se consideran los entes que tengan la consideración de Administración pública en el marco del Sistema Europeo de Cuentas.",
@@ -4603,10 +4676,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "El número de puestos de trabajo cuya cobertura corresponda a personal eventual en las Diputaciones provinciales será, según el artículo 104 bis.2 de la LBRL:",
     "options": [
       "El equivalente al 0,7 por ciento de la plantilla provincial",
+      "El equivalente a la media aritmética de los tramos de todos los municipios de la provincia",
       "El mismo que el del tramo correspondiente a la Corporación del Municipio más poblado de su Provincia",
       "El mismo que el del tramo correspondiente a la capital de la Provincia"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 104 bis.2 LBRL equipara el número de personal eventual de las Diputaciones provinciales al del tramo correspondiente a la Corporación del Municipio más poblado de su Provincia, que no necesariamente es la capital.",
     "fuente": "Art. 104 bis.2 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -4614,11 +4688,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "En los Consejos y Cabildos insulares de islas con más de 800.000 habitantes, el número de puestos de personal eventual no podrá exceder de lo que resulte de:",
     "options": [
+      "Reducir en 3 el número actual de miembros de cabildo",
       "Reducir en 5 el número actual de miembros de cabildo",
       "Reducir en 2 el número actual de miembros de cabildo",
       "Aplicar el 60 % de los cargos electos del Cabildo o Consejo Insular"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 104 bis.2 LBRL establece que en las islas con más de 800.000 habitantes el número se reduce en 2 respecto al número actual de miembros de cabildo.",
     "fuente": "Art. 104 bis.2 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -4628,6 +4703,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "El 60 % de los cargos electos en cada Cabildo o Consejo Insular",
       "El 40 % de los cargos electos en cada Cabildo o Consejo Insular",
+      "El 50 % de los cargos electos en cada Cabildo o Consejo Insular",
       "El número de cargos electos reducido en 2"
     ],
     "correct": 0,
@@ -4640,7 +4716,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "1.000.000 de habitantes",
       "500.000 habitantes",
-      "800.000 habitantes"
+      "800.000 habitantes",
+      "750.000 habitantes"
     ],
     "correct": 2,
     "exp": "El art. 104 bis.2 LBRL distingue entre las islas con más de 800.000 habitantes y las de menos de 800.000 habitantes.",
@@ -4651,10 +4728,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "Conforme al artículo 104 bis.5 de la LBRL, las Corporaciones locales publicarán el número de puestos de trabajo reservados a personal eventual:",
     "options": [
       "Anualmente, únicamente en el Boletín Oficial de la Provincia",
+      "Mensualmente, únicamente en el «Boletín Oficial del Estado»",
       "Trimestralmente, únicamente en su sede electrónica",
       "Semestralmente, en su sede electrónica y en el Boletín Oficial de la Provincia o, en su caso, de la Comunidad Autónoma uniprovincial"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 104 bis.5 LBRL impone una publicación semestral en la sede electrónica y en el Boletín Oficial de la Provincia o, en su caso, de la Comunidad Autónoma uniprovincial.",
     "fuente": "Art. 104 bis.5 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -4662,11 +4740,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "El cumplimiento de lo previsto en el artículo 104 bis de la LBRL sobre personal eventual se informa al Pleno:",
     "options": [
+      "Por el Presidente de la Entidad Local, con carácter anual",
       "Por el Interventor, con ocasión de la liquidación del presupuesto",
       "Por el Presidente de la Entidad Local, con carácter trimestral",
       "Por el Secretario de la Corporación, con carácter semestral"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 104 bis.6 LBRL dispone que el Presidente de la Entidad Local informará al Pleno con carácter trimestral del cumplimiento de lo previsto en ese artículo.",
     "fuente": "Art. 104 bis.6 LBRL (Ley 7/1985)",
     "confianza": "alta"
@@ -4676,6 +4755,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Vigentes, regulando el régimen de dedicación exclusiva del personal eventual",
       "Anulados, al haber sido declarados inconstitucionales y nulos por la Sentencia del Tribunal Constitucional 54/2017, de 11 de mayo",
+      "Suprimidos por la Ley 27/2013, de 27 de diciembre, sin que mediara declaración de inconstitucionalidad",
       "Derogados por el texto refundido de la Ley del Estatuto Básico del Empleado Público de 2015"
     ],
     "correct": 1,
@@ -4691,10 +4771,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "Según el artículo 2.1 del Real Decreto 128/2018, la función pública necesaria de Intervención-Tesorería es comprensiva de:",
     "options": [
       "El control y la fiscalización interna de la gestión económico-financiera y presupuestaria, exclusivamente, pues la contabilidad se atribuye a la Secretaría",
+      "El control y la fiscalización interna de la gestión económico-financiera y presupuestaria, la contabilidad, tesorería y recaudación, y el asesoramiento legal preceptivo",
       "El control y la fiscalización interna de la gestión económico-financiera y presupuestaria, y la contabilidad, tesorería y recaudación",
       "La contabilidad, la tesorería y la recaudación, así como la fe pública en materia económica"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 2.1.b) RD 128/2018 define la función de Intervención-Tesorería como comprensiva del control y la fiscalización interna de la gestión económico-financiera y presupuestaria, y la contabilidad, tesorería y recaudación.",
     "fuente": "Art. 2.1.b) RD 128/2018",
     "confianza": "alta"
@@ -4702,11 +4783,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Conforme al artículo 2.2 del RD 128/2018, quien ostente la responsabilidad administrativa de cada una de las funciones públicas necesarias:",
     "options": [
+      "Quedará subordinado a las directrices exclusivas del Interventor de la Corporación en el ejercicio de dicha dirección",
       "Ejercerá sus funciones bajo la dependencia jerárquica del titular del área de organización de la Corporación",
       "Tendrá atribuida la dirección de los servicios encargados de su realización, sin perjuicio de las atribuciones de los órganos de gobierno en materia de organización de los servicios administrativos",
       "Tendrá atribuida la dirección de los servicios encargados de su realización, desplazando cualquier atribución de los órganos de gobierno en materia de organización administrativa"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 2.2 RD 128/2018 atribuye al responsable de cada función la dirección de los servicios encargados de su realización, pero lo hace 'sin perjuicio de las atribuciones de los órganos de gobierno de la Corporación Local en materia de organización de los servicios administrativos'.",
     "fuente": "Art. 2.2 RD 128/2018",
     "confianza": "alta"
@@ -4716,6 +4798,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Únicamente el principio de transparencia, por remisión a la legislación específica en la materia",
       "El principio de transparencia y los principios de estabilidad presupuestaria y sostenibilidad económico-financiera",
+      "El principio de eficiencia en la gestión de personal y el de igualdad de oportunidades en el acceso al empleo público",
       "El principio de eficacia administrativa y el de jerarquía normativa"
     ],
     "correct": 1,
@@ -4727,6 +4810,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "Dentro de la función de fe pública, la preparación de los asuntos que hayan de incluirse en el orden del día de las sesiones del Pleno, la Junta de Gobierno y otros órganos colegiados que adopten acuerdos vinculantes se realiza:",
     "options": [
       "De conformidad con lo establecido por el Alcalde o Presidente, asistiendo a éste en la realización de la correspondiente convocatoria",
+      "De conformidad con lo acordado por el Pleno en sesión extraordinaria previa, dando cuenta después al Alcalde",
       "Con plena autonomía del Secretario, que fija el orden del día y convoca la sesión",
       "De conformidad con lo acordado por la Junta de Portavoces, que asiste al Secretario en la convocatoria"
     ],
@@ -4740,7 +4824,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Remita el acta al Boletín Oficial de la Provincia para su íntegra publicación",
       "Redacte en todo caso un extracto en papel comprensivo, entre otros datos, del lugar, fecha y hora de la sesión, su carácter ordinario o extraordinario, los asistentes y el contenido de los acuerdos",
-      "Conserve una copia de seguridad certificada por el Alcalde, sin necesidad de ningún documento en papel"
+      "Conserve una copia de seguridad certificada por el Alcalde, sin necesidad de ningún documento en papel",
+      "Digitalice el acta y la remita telemáticamente a la Comunidad Autónoma en sustitución del extracto en papel"
     ],
     "correct": 1,
     "exp": "El art. 3.2.d) RD 128/2018 obliga, en el supuesto de soporte electrónico, a redactar en todo caso un extracto en papel con lugar, fecha y hora, carácter ordinario o extraordinario, asistentes y excusados, contenido de los acuerdos y opiniones sintetizadas con expresión del sentido del voto.",
@@ -4752,6 +4837,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Exclusivamente garantía de la autenticidad e integridad de las mismas",
       "Requisito de eficacia de las resoluciones transcritas",
+      "Presunción de veracidad iuris et de iure de su contenido, no susceptible de impugnación",
       "Condición de validez de las resoluciones, que sin ella son nulas de pleno derecho"
     ],
     "correct": 0,
@@ -4762,11 +4848,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "La actuación como fedatario en la formalización de todos los contratos, convenios y documentos análogos en que intervenga la Entidad Local corresponde, conforme al RD 128/2018:",
     "options": [
+      "A la función de asesoramiento legal preceptivo, como informe jurídico previo a la firma",
       "Al Interventor, dentro de la función de fiscalización previa",
       "A la función de fe pública integrada en la función pública de secretaría",
       "Al Tesorero, cuando el contrato tenga contenido económico"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 3.2.i) RD 128/2018 incluye entre las funciones de fe pública 'actuar como fedatario en la formalización de todos los contratos, convenios y documentos análogos en que intervenga la Entidad Local'.",
     "fuente": "Art. 3.2.i) RD 128/2018",
     "confianza": "alta"
@@ -4774,11 +4861,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Dentro de la función de asesoramiento legal preceptivo, la emisión de informes previos procede cuando lo ordene el Presidente de la Corporación o cuando lo solicite:",
     "options": [
+      "Dos tercios de miembros de la Corporación, mediante escrito motivado presentado en el Registro General",
       "La mayoría absoluta del número legal de miembros de la Corporación",
       "Un tercio de miembros de la Corporación, con antelación suficiente a la celebración de la sesión en que hubiere de tratarse el asunto",
       "Cualquier miembro de la Corporación, en el propio acto de la sesión"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 3.3.a) RD 128/2018 exige informe previo cuando lo ordene el Presidente o lo solicite un tercio de miembros de la Corporación, con antelación suficiente a la sesión; tales informes deben señalar la legislación aplicable y la adecuación a la misma de los acuerdos en proyecto.",
     "fuente": "Art. 3.3.a) RD 128/2018",
     "confianza": "alta"
@@ -4787,10 +4875,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "Conforme al artículo 3.3 del RD 128/2018, la emisión de informe previo del Secretario procede siempre que se trate de asuntos para cuya aprobación se exija:",
     "options": [
       "La mayoría simple del número de miembros presentes",
+      "La unanimidad de los miembros asistentes a la sesión",
       "Únicamente la mayoría de dos tercios del número legal de miembros",
       "La mayoría absoluta del número legal de miembros de la Corporación o cualquier otra mayoría cualificada"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 3.3.c) RD 128/2018 exige informe previo siempre que se trate de asuntos para cuya aprobación se exija la mayoría absoluta del número legal de miembros de la Corporación o cualquier otra mayoría cualificada.",
     "fuente": "Art. 3.3.c) RD 128/2018",
     "confianza": "alta"
@@ -4798,11 +4887,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "En la resolución de recursos administrativos, el RD 128/2018 exige informe previo del Secretario cuando por la naturaleza de los asuntos así se requiera, salvo:",
     "options": [
+      "Cuando el recurso se interponga fuera de plazo por el interesado",
       "Cuando el recurso se interponga contra actos dictados por delegación del Alcalde",
       "Cuando el recurso haya sido informado previamente por la asesoría jurídica de la Corporación",
       "Cuando se interpongan en el seno de expedientes instruidos por infracción de ordenanzas locales o de la normativa de tráfico y seguridad vial, o se trate de recursos contra actos de naturaleza tributaria"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 3.3.d).4.º RD 128/2018 excluye los recursos interpuestos en expedientes por infracción de ordenanzas locales o de la normativa reguladora de tráfico y seguridad vial, así como los recursos contra actos de naturaleza tributaria.",
     "fuente": "Art. 3.3.d).4.º RD 128/2018",
     "confianza": "alta"
@@ -4812,7 +4902,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Aprobación y modificación de relaciones de puestos de trabajo y catálogos de personal",
       "Aprobación de la liquidación del Presupuesto y concertación de operaciones de crédito",
-      "Aprobación de la Cuenta General y de los estados consolidados de cuentas"
+      "Aprobación de la Cuenta General y de los estados consolidados de cuentas",
+      "Concesión de licencias urbanísticas de obra mayor"
     ],
     "correct": 0,
     "exp": "El art. 3.3.d).6.º RD 128/2018 incluye entre los supuestos de informe previo preceptivo la aprobación y modificación de relaciones de puestos de trabajo y catálogos de personal. El informe previo a la liquidación del presupuesto y a las operaciones de crédito corresponde al órgano interventor (art. 4.1.b).3.º y 4.º).",
@@ -4823,6 +4914,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "Conforme al artículo 3.4 del RD 128/2018, la emisión del informe del Secretario:",
     "options": [
       "Podrá consistir en una nota de conformidad en relación con los informes emitidos por los servicios del propio Ayuntamiento que figuren como informes jurídicos en el expediente",
+      "Delegarse íntegramente en el Interventor cuando el asunto tenga contenido económico",
       "Debe ser siempre un informe propio y extenso, sin que quepa remitirse a informes de otros servicios",
       "Puede sustituirse por el informe de la Secretaría General Técnica de la Comunidad Autónoma"
     ],
@@ -4834,11 +4926,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Según el artículo 4.1 del RD 128/2018, el control interno de la gestión económico-financiera y presupuestaria comprende:",
     "options": [
+      "La función interventora y el control de legalidad presupuestaria, correspondiendo el control financiero a los órganos de control externo",
       "La función interventora, la contabilidad y la tesorería",
       "La función interventora y el control financiero en las modalidades de función de control permanente y auditoría pública",
       "La función interventora y el control de eficacia, siendo la auditoría pública competencia exclusiva de los órganos de control externo"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 4.1 RD 128/2018 divide el control interno en la función interventora (letra a) y el control financiero en las modalidades de función de control permanente y auditoría pública (letra b), incluyéndose en ambas el control de eficacia del art. 213 TRLRHL.",
     "fuente": "Art. 4.1.a) y b) RD 128/2018",
     "confianza": "alta"
@@ -4846,11 +4939,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "El ejercicio del control financiero incluye, en todo caso, entre las actuaciones atribuidas al órgano interventor:",
     "options": [
+      "La suscripción como fedatario del acta de arqueo de fondos de la Tesorería",
       "La aprobación de los proyectos de presupuestos y de sus modificaciones",
       "La formalización como fedatario de las operaciones de crédito de la Entidad Local",
       "La emisión de informe previo a la concertación o modificación de las operaciones de crédito y a la aprobación de la liquidación del Presupuesto"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 4.1.b).3.º y 4.º RD 128/2018 incluye la emisión de informe previo a la concertación o modificación de operaciones de crédito y a la aprobación de la liquidación del Presupuesto. El informe (no la aprobación) de los proyectos de presupuestos y sus modificaciones figura en el apartado 2.º",
     "fuente": "Art. 4.1.b).3.º y 4.º RD 128/2018",
     "confianza": "alta"
@@ -4860,6 +4954,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "La presidencia o por la mayoría absoluta del número legal de miembros de la Corporación",
       "La presidencia, por un tercio de los Concejales o Diputados, o cuando se trate de materias para las que legalmente se exija una mayoría especial",
+      "La Junta de Gobierno Local, por acuerdo adoptado en sesión ordinaria",
       "Exclusivamente la presidencia de la Corporación o el Pleno"
     ],
     "correct": 1,
@@ -4872,7 +4967,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Suscribir las actas de arqueo",
       "Formar la Cuenta General de la Entidad Local",
-      "Dictar la providencia de apremio en los expedientes administrativos de este carácter"
+      "Dictar la providencia de apremio en los expedientes administrativos de este carácter",
+      "Aprobar el Plan de Disposición de Fondos de la Tesorería"
     ],
     "correct": 1,
     "exp": "Formar la Cuenta General de la Entidad Local es función de contabilidad (art. 4.2.b). La suscripción de las actas de arqueo corresponde a la tesorería (art. 5.1.b).4.º) y la providencia de apremio a la función de gestión y recaudación (art. 5.2.d).",
@@ -4882,11 +4978,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "La gestión del registro contable de facturas y su seguimiento para cumplir los objetivos de la normativa de lucha contra la morosidad y de impulso de la factura electrónica se atribuye por el RD 128/2018 a:",
     "options": [
+      "La función de gestión y recaudación, integrándose en el impulso de los procedimientos de recaudación ejecutiva",
       "La función de tesorería, dentro del manejo y custodia de fondos",
       "La función de fe pública, por su carácter de registro documental",
       "La función de contabilidad, emitiendo los informes que la normativa exija"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 4.2.j) RD 128/2018 incluye en la función de contabilidad la gestión del registro contable de facturas y su seguimiento, con emisión de los informes que la normativa exija.",
     "fuente": "Art. 4.2.j) RD 128/2018",
     "confianza": "alta"
@@ -4895,10 +4992,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "Conforme al artículo 5.1 del RD 128/2018, la realización de los cobros y pagos se efectúa de conformidad con la normativa vigente, el Plan de Disposición de Fondos y las directrices de la Presidencia, autorizando los pagos materiales contra las cuentas bancarias:",
     "options": [
       "El Tesorero en solitario, como titular del órgano correspondiente",
+      "El Tesorero junto con el Presidente de la Corporación, exclusivamente",
       "El Tesorero junto con el Secretario de la Corporación",
       "El Tesorero junto con el ordenador de pagos y el interventor"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 5.1.b).3.º RD 128/2018 exige que el Tesorero autorice los pagos materiales contra las cuentas bancarias correspondientes 'junto con el ordenador de pagos y el interventor'.",
     "fuente": "Art. 5.1.b).3.º RD 128/2018",
     "confianza": "alta"
@@ -4908,7 +5006,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Siempre que se refieran a funciones propias de la tesorería",
       "En todo caso, con independencia de la función a la que se refieran",
-      "Solo cuando lo requiera expresamente el órgano interventor"
+      "Solo cuando lo requiera expresamente el órgano interventor",
+      "Únicamente cuando así lo acuerde expresamente el Pleno de la Corporación mediante ordenanza específica"
     ],
     "correct": 0,
     "exp": "El art. 5.1.e) RD 128/2018 delimita esta función con la cláusula 'siempre que se refieran a funciones propias de la tesorería'.",
@@ -4918,11 +5017,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Dentro de la función de gestión y recaudación regulada en el artículo 5.2 del RD 128/2018, corresponde dictar la providencia de apremio en los expedientes administrativos de este carácter y, en todo caso:",
     "options": [
+      "Aprobar anualmente el padrón fiscal de los tributos municipales",
       "Elevar al Pleno la propuesta de declaración de fallidos",
       "Informar previamente la anulación de los valores en vía ejecutiva",
       "Resolver los recursos contra la misma y autorizar la subasta de bienes embargados"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 5.2.d) RD 128/2018 atribuye dictar la providencia de apremio y, en todo caso, resolver los recursos contra la misma y autorizar la subasta de bienes embargados.",
     "fuente": "Art. 5.2.d) RD 128/2018",
     "confianza": "alta"
@@ -4932,6 +5032,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Por el Presidente de la Entidad Local, dando cuenta al Pleno, y debe figurar en la relación de puestos de trabajo o instrumento organizativo similar",
       "Por el Pleno de la Corporación, mediante acuerdo adoptado por mayoría absoluta",
+      "El propio funcionario titular del puesto, mediante autoasignación comunicada a la Secretaría General",
       "Por la Comunidad Autónoma, al clasificar el puesto de trabajo"
     ],
     "correct": 0,
@@ -4942,11 +5043,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Según el artículo 7 del RD 128/2018, actuarán como delegados de la Junta Electoral de Zona:",
     "options": [
+      "El Secretario de las Diputaciones Provinciales y de los Consejos Insulares, en todo caso",
       "Únicamente el Interventor general municipal de los municipios de gran población",
       "El Secretario de todas las Entidades Locales, sin excepción, incluidas las mancomunidades",
       "El Secretario del Ayuntamiento y el Secretario General del Pleno en los municipios de gran población, así como en los Cabildos Insulares Canarios"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 7.2 RD 128/2018 atribuye esa condición al Secretario del Ayuntamiento y al Secretario General del Pleno en los municipios incluidos en el ámbito del título X LBRL y en los Cabildos Insulares Canarios, en los términos de la LOREG.",
     "fuente": "Art. 7.2 RD 128/2018",
     "confianza": "alta"
@@ -4955,10 +5057,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "Se clasifican en clase primera, conforme al artículo 8.1 del RD 128/2018, las Secretarías de:",
     "options": [
       "Diputaciones Provinciales y Ayuntamientos de municipios con población superior a 50.000 habitantes, únicamente",
+      "Ayuntamientos de municipios turísticos declarados de interés nacional, cualquiera que sea su población",
       "Ayuntamientos de capitales de provincia y de municipios con población superior a 5.000 habitantes",
       "Diputaciones Provinciales, Cabildos y Consejos Insulares, Ayuntamientos de capitales de provincia y Ayuntamientos de municipios con población superior a 20.000 habitantes"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 8.1.a) RD 128/2018 incluye en clase primera las Secretarías de Diputaciones Provinciales, Cabildos y Consejos Insulares, Ayuntamientos de capitales de provincia y de municipios con población superior a 20.000 habitantes.",
     "fuente": "Art. 8.1.a) RD 128/2018",
     "confianza": "alta"
@@ -4966,11 +5069,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Se clasifican en clase segunda las Secretarías de Ayuntamientos de municipios cuya población esté comprendida entre 5.001 y 20.000 habitantes, así como los de población inferior a 5.001 habitantes:",
     "options": [
+      "Cuyo presupuesto esté comprendido entre 200.000 y 3.000.000 de euros",
       "Cuyo presupuesto no exceda los 3.000.000 de euros",
       "Cuyo presupuesto supere los 200.000 euros",
       "Cuyo presupuesto supere los 3.000.000 de euros"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 8.1.b) RD 128/2018 sitúa en clase segunda a los municipios de 5.001 a 20.000 habitantes y a los de menos de 5.001 habitantes cuyo presupuesto supere los 3.000.000 de euros; los de menos de 5.001 habitantes cuyo presupuesto no exceda esa cifra son clase tercera (art. 8.1.c).",
     "fuente": "Art. 8.1.b) RD 128/2018",
     "confianza": "alta"
@@ -4979,10 +5083,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "El ámbito territorial de las agrupaciones de Entidades Locales para el mantenimiento en común del puesto de Secretaría es:",
     "options": [
       "Provincial, sin excepciones",
+      "Comarcal, correspondiendo su constitución a las Diputaciones Provinciales",
       "Estatal, por corresponder al Ministerio de Hacienda y Función Pública su constitución",
       "Autonómico, sin perjuicio de los convenios o acuerdos que puedan celebrar las Comunidades Autónomas para constituir agrupaciones entre Entidades Locales de diferentes Comunidades Autónomas"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 9.1 RD 128/2018 fija el ámbito autonómico de estas agrupaciones, admitiendo convenios o acuerdos entre Comunidades Autónomas para agrupar Entidades Locales de distintas Comunidades.",
     "fuente": "Art. 9.1 RD 128/2018",
     "confianza": "alta"
@@ -4992,7 +5097,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Población inferior a 500 habitantes y presupuesto inferior a 200.000 euros",
       "Población inferior a 1.000 habitantes y presupuesto inferior a 500.000 euros",
-      "Población inferior a 5.001 habitantes y presupuesto inferior a 3.000.000 de euros"
+      "Población inferior a 5.001 habitantes y presupuesto inferior a 3.000.000 de euros",
+      "Población inferior a 2.000 habitantes y presupuesto inferior a 1.000.000 de euros"
     ],
     "correct": 0,
     "exp": "El art. 10.1 RD 128/2018 fija el doble umbral de población inferior a 500 habitantes y presupuesto inferior a 200.000 euros, en el supuesto de que no fuese posible efectuar una agrupación.",
@@ -5003,6 +5109,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "Conforme al artículo 11 del RD 128/2018, existirá un puesto de trabajo denominado Intervención:",
     "options": [
       "En las Entidades Locales cuya Secretaría esté clasificada en clase primera o segunda",
+      "Las Entidades Locales cuya Secretaría esté clasificada en clase tercera, cuando su presupuesto supere 1.000.000 de euros",
       "En todas las Entidades Locales, cualquiera que sea la clasificación de su Secretaría",
       "Únicamente en las Entidades Locales cuya Secretaría esté clasificada en clase primera"
     ],
@@ -5014,11 +5121,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Pueden agruparse entre sí para el sostenimiento en común de un puesto único de Intervención las Entidades Locales cuyas Secretarías estén clasificadas en:",
     "options": [
+      "Primera y tercera clase, siempre que medie autorización expresa del Ministerio de Hacienda y Función Pública",
       "Primera o segunda clase",
       "Exclusivamente tercera clase",
       "Segunda o tercera clase"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 12.1 RD 128/2018 permite la agrupación para sostener en común un puesto único de Intervención a las Entidades Locales cuyas Secretarías estén clasificadas en segunda o tercera clase.",
     "fuente": "Art. 12.1 RD 128/2018",
     "confianza": "alta"
@@ -5028,6 +5136,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Dos clases: primera, cuando la Secretaría de la Entidad esté clasificada en clase primera; y segunda, cuando lo esté en clase segunda, así como los puestos de Intervención en régimen de agrupación",
       "Tres clases, correspondiendo la tercera a los puestos de Intervención en régimen de agrupación",
+      "Dos clases, coincidiendo siempre la clase de Intervención con la clase de Secretaría, sin excepción por agrupación",
       "Dos clases, atendiendo exclusivamente al importe del presupuesto de la Entidad Local"
     ],
     "correct": 0,
@@ -5039,6 +5148,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "El puesto único de Tesorería resultante de la agrupación de Entidades Locales cuya Secretaría esté clasificada en clase 3.ª, al que corresponde la responsabilidad de las funciones de tesorería-recaudación en todos los municipios agrupados, está reservado a la subescala de:",
     "options": [
       "Secretaría-Intervención",
+      "Secretaría, categoría superior",
       "Intervención-Tesorería, categoría superior",
       "Intervención-Tesorería, categoría de entrada"
     ],
@@ -5050,11 +5160,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Los puestos de trabajo con funciones de colaboración inmediata y auxilio a las de Secretaría, Intervención y Tesorería, previstos en el artículo 15 del RD 128/2018:",
     "options": [
+      "Pueden reservarse a funcionarios propios de la Corporación del subgrupo A2, bajo la supervisión del Secretario",
       "Pueden reservarse indistintamente a funcionarios con habilitación nacional o a funcionarios propios del subgrupo A1 de la Corporación",
       "Están reservados a funcionarios con habilitación de carácter nacional y ejercen sus funciones bajo la dependencia funcional y jerárquica del titular de la Secretaría, Intervención o Tesorería, respectivamente",
       "Están reservados a funcionarios con habilitación de carácter nacional y dependen directamente del Alcalde o Presidente de la Corporación"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 15.1 RD 128/2018 reserva estos puestos de colaboración a funcionarios de Administración Local con habilitación de carácter nacional, que ejercen sus funciones bajo la dependencia funcional y jerárquica del titular del puesto reservado correspondiente.",
     "fuente": "Art. 15.1 RD 128/2018",
     "confianza": "alta"
@@ -5064,7 +5175,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Vacante, ausencia, enfermedad o concurrencia de causa de abstención o recusación legal o reglamentaria de los mismos",
       "Vacante y ausencia, exclusivamente",
-      "Vacante, ausencia o enfermedad, quedando excluidos los supuestos de abstención y recusación"
+      "Vacante, ausencia o enfermedad, quedando excluidos los supuestos de abstención y recusación",
+      "Vacante, ausencia, enfermedad, abstención, recusación o sanción disciplinaria firme del titular"
     ],
     "correct": 0,
     "exp": "El art. 15.3 RD 128/2018 enumera los supuestos de sustitución: vacante, ausencia, enfermedad o concurrencia de causa de abstención o recusación legal o reglamentaria de los titulares.",
@@ -5074,11 +5186,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Las Diputaciones Provinciales, Cabildos, Consejos insulares o entes supramunicipales, al incluir en sus relaciones de puestos de trabajo los reservados necesarios para el ejercicio de las funciones en Entidades Locales eximidas, deben garantizar en todo caso la prestación de los servicios de secretaría e intervención y tesorería y recaudación en los municipios de menos de:",
     "options": [
+      "2.000 habitantes",
       "500 habitantes",
       "1.000 habitantes",
       "5.001 habitantes"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 16.1 RD 128/2018 impone esa garantía en los municipios de menos de 1.000 habitantes, precisando que ello no implica la supresión del puesto de Secretaría reservado a la subescala de Secretaría-Intervención en los municipios que lo tengan creado y clasificado.",
     "fuente": "Art. 16.1 RD 128/2018",
     "confianza": "alta"
@@ -5088,6 +5201,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "En las tres subescalas existe categoría de entrada y categoría superior",
       "Los funcionarios de las subescalas de Secretaría y de Intervención-Tesorería pueden ostentar la categoría de entrada o la superior, mientras que en la subescala de Secretaría-Intervención no existe diferenciación de categorías",
+      "Las tres subescalas tienen categoría de entrada y superior, salvo la subescala de Intervención-Tesorería que carece de categorías",
       "Solo la subescala de Secretaría se divide en categoría de entrada y categoría superior"
     ],
     "correct": 1,
@@ -5098,11 +5212,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "A efectos del artículo 76 del TREBEP, las tres subescalas en que se estructura la escala de habilitación de carácter nacional se integran, según el RD 128/2018, en:",
     "options": [
+      "Grupo B, subgrupo B1, con equivalencia transitoria al grupo A",
       "El grupo A, subgrupos A1 y A2, según la subescala",
       "El grupo A, subgrupo A1",
       "El grupo A, subgrupo A1, salvo la subescala de Secretaría-Intervención, que se integra en el A2"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 18.3 RD 128/2018 integra las tres subescalas en el grupo A, subgrupo A1; coherentemente, el art. 18.1 exige para participar en las pruebas selectivas la titulación universitaria requerida para el ingreso en cuerpos o escalas del subgrupo A1.",
     "fuente": "Art. 18.3 RD 128/2018",
     "confianza": "alta"
@@ -5111,6 +5226,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "El desempeño de los puestos de trabajo de Secretaría clasificados en clase segunda corresponde, conforme al RD 128/2018, a:",
     "options": [
       "Los Secretarios de categoría de entrada",
+      "Los funcionarios de la subescala de Intervención-Tesorería, categoría de entrada",
       "Los Secretarios de categoría superior",
       "Los Secretarios-Interventores"
     ],
@@ -5122,11 +5238,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "En los municipios de gran población, el puesto de Secretario General del Pleno está reservado, según el RD 128/2018, a:",
     "options": [
+      "La subescala de Intervención-Tesorería, categoría superior, con clasificación en clase 1.ª",
       "La subescala de Secretaría, categoría de entrada, y debe clasificarse en clase 2.ª",
       "La subescala de Secretaría-Intervención, con clasificación en clase 1.ª",
       "La subescala de Secretaría, categoría superior, y debe clasificarse en clase 1.ª"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "La disposición adicional cuarta, apartado 2.a) RD 128/2018 reserva el puesto de Secretario General del Pleno a la subescala de Secretaría, categoría superior, con clasificación obligatoria en clase 1.ª",
     "fuente": "Disposición adicional cuarta, apartado 2.a) RD 128/2018",
     "confianza": "alta"
@@ -5136,7 +5253,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "La subescala de Intervención-Tesorería, pudiendo ser desempeñados por funcionarios de categoría de entrada o superior",
       "La subescala de Intervención-Tesorería, exigiéndose en todo caso la categoría superior",
-      "La subescala de Secretaría-Intervención"
+      "La subescala de Secretaría-Intervención",
+      "La subescala de Secretaría, categoría superior, clase 1.ª"
     ],
     "correct": 0,
     "exp": "La disposición adicional cuarta, apartado 2.d) RD 128/2018 los reserva a la subescala de Intervención-Tesorería, pudiendo ser desempeñados por funcionarios pertenecientes a la categoría de entrada o superior dentro de la misma. Es el puesto de Intervención General municipal el que exige categoría superior y clase 1.ª (letra c).",
@@ -5146,11 +5264,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "A los efectos del ejercicio en soporte electrónico de las funciones reservadas, el RD 128/2018 dispone que los puestos reservados a estos funcionarios:",
     "options": [
+      "Consideración de entidades públicas empresariales a efectos de contratación electrónica",
       "Tendrán la consideración de unidades administrativas dependientes de la Alcaldía",
       "Deberán integrarse en la sede electrónica como registros auxiliares",
       "Tendrán la consideración de órganos, sin perjuicio de lo dispuesto en el título X de la LBRL"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "La disposición adicional octava RD 128/2018 atribuye a los puestos reservados la consideración de órganos a efectos del ejercicio electrónico de las funciones reservadas, sin perjuicio del título X LBRL.",
     "fuente": "Disposición adicional octava RD 128/2018",
     "confianza": "alta"
@@ -5160,7 +5279,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Siempre que no sea posible ejercerla mediante agrupación de Tesorería, por los servicios de asistencia técnica, por acumulación, a través de un puesto de colaboración o por funcionario propio de la Entidad Local",
       "En todo caso, por ser inherente al puesto de Secretaría de clase tercera",
-      "Cuando así lo acuerde el Pleno por mayoría absoluta, sin necesidad de agotar otras alternativas"
+      "Cuando así lo acuerde el Pleno por mayoría absoluta, sin necesidad de agotar otras alternativas",
+      "Únicamente cuando lo autorice expresamente el Ministerio de Hacienda y Función Pública mediante resolución singular"
     ],
     "correct": 0,
     "exp": "La disposición transitoria sexta, apartado 3 RD 128/2018 configura ese desempeño como excepcional y subsidiario: solo cuando no sea posible la agrupación de Tesorería, ni el ejercicio por Diputaciones, entidades equivalentes o Comunidades Autónomas uniprovinciales a través de sus servicios de asistencia técnica, ni por acumulación, ni mediante puesto de colaboración, ni por funcionario propio de la Entidad.",
@@ -5176,6 +5296,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "No comprendidos en el número 3 del artículo 92 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local.",
       "Comprendidos en el número 3 del artículo 92 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local.",
+      "Únicamente a los procedimientos de selección de funcionarios de las Diputaciones Provinciales.",
       "Sin excepción alguna, cualquiera que sea la escala o subescala a la que pertenezcan las plazas."
     ],
     "correct": 0,
@@ -5186,11 +5307,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Conforme al artículo 2 del RD 896/1991, el ingreso en la Función Pública Local se realizará, con carácter general, a través del sistema de:",
     "options": [
+      "Concurso libre reservado a promoción interna.",
       "Concurso.",
       "Oposición.",
       "Concurso-oposición."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "Art. 2: «El ingreso en la Función Pública Local se realizará, con carácter general, a través del sistema de oposición», salvo que resulte más adecuado el concurso-oposición o el concurso.",
     "fuente": "Art. 2 RD 896/1991",
     "confianza": "alta"
@@ -5199,10 +5321,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "Según el artículo 2 del RD 896/1991, la utilización del sistema de concurso-oposición o de concurso, en lugar de la oposición, procede cuando sea más adecuada por razón de:",
     "options": [
       "El número de plazas convocadas y la población del municipio.",
+      "El grado de complejidad técnica de las pruebas selectivas previstas en las bases.",
       "La urgencia en la cobertura de las plazas apreciada por el Pleno.",
       "La naturaleza de las plazas o de las funciones a desempeñar."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 2 admite el concurso-oposición o el concurso «por la naturaleza de las plazas o de las funciones a desempeñar».",
     "fuente": "Art. 2 RD 896/1991",
     "confianza": "alta"
@@ -5212,7 +5335,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Por el órgano correspondiente de la Corporación, para cada una de las Escalas, subescalas y clases de funcionarios.",
       "Por el órgano competente de la Comunidad Autónoma, para cada Corporación y con carácter uniforme.",
-      "Por el Tribunal calificador, una vez constituido, para cada convocatoria."
+      "Por el Tribunal calificador, una vez constituido, para cada convocatoria.",
+      "Por el Ministerio para las Administraciones Públicas, con carácter supletorio para todas las Corporaciones."
     ],
     "correct": 0,
     "exp": "Art. 3: los procedimientos de selección se regirán por las bases de convocatoria que apruebe el órgano correspondiente de la Corporación «para cada una de las Escalas, subescalas y clases de funcionarios».",
@@ -5224,6 +5348,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Todos los ejercicios tengan carácter práctico.",
       "Uno de los ejercicios obligatorios tenga carácter práctico.",
+      "La mitad de los ejercicios obligatorios tengan carácter práctico.",
       "Al menos dos de los ejercicios obligatorios tengan carácter práctico."
     ],
     "correct": 1,
@@ -5234,11 +5359,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Según el artículo 4.c) del RD 896/1991, en la realización de los ejercicios escritos deberá garantizarse el anonimato de los aspirantes:",
     "options": [
+      "Únicamente en el primer ejercicio de la fase de oposición.",
       "En todo caso y sin excepción.",
       "Siempre que sea posible.",
       "Solo cuando así lo acuerde expresamente el Tribunal calificador."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "Art. 4.c): en los ejercicios escritos «deberá garantizarse, siempre que sea posible, el anonimato de los aspirantes».",
     "fuente": "Art. 4.c) RD 896/1991",
     "confianza": "alta"
@@ -5248,7 +5374,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Será posterior a la de oposición y tendrá carácter eliminatorio.",
       "Será previa a la de oposición, no tendrá carácter eliminatorio ni podrá tenerse en cuenta para superar las pruebas de la fase de oposición.",
-      "Será simultánea a la de oposición y su puntuación se sumará a la de los ejercicios para superarlos."
+      "Será simultánea a la de oposición y su puntuación se sumará a la de los ejercicios para superarlos.",
+      "Será previa a la de oposición y tendrá carácter eliminatorio en todo caso."
     ],
     "correct": 1,
     "exp": "Art. 4.c): la fase de concurso «será previa a la de oposición, no tendrá carácter eliminatorio ni podrá tenerse en cuenta para superar las pruebas de la fase de oposición».",
@@ -5259,10 +5386,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "Conforme al artículo 4.c) del RD 896/1991, las entrevistas curriculares podrán establecerse en los sistemas de:",
     "options": [
       "Oposición y concurso-oposición.",
+      "Concurso exclusivamente.",
       "Oposición exclusivamente.",
       "Concurso o concurso-oposición."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "Art. 4.c): «En los sistemas de concurso o concurso-oposición podrán establecerse entrevistas curriculares».",
     "fuente": "Art. 4.c) RD 896/1991",
     "confianza": "alta"
@@ -5272,6 +5400,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Oposición y de concurso-oposición.",
       "Concurso y de concurso-oposición.",
+      "Concurso, concurso-oposición y oposición, sin excepción.",
       "Concurso exclusivamente."
     ],
     "correct": 0,
@@ -5282,11 +5411,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "De acuerdo con el artículo 4.e) del RD 896/1991, los Tribunales de selección contarán con:",
     "options": [
+      "Un Presidente, un Secretario, un Vocal técnico y un representante sindical con voz y voto.",
       "Un Presidente, un Vicepresidente, un Secretario y los Vocales que determine la convocatoria.",
       "Un Presidente, un Secretario y los Vocales que determine la convocatoria, con composición predominantemente técnica.",
       "Un Presidente y un número par de Vocales, actuando como Secretario el de la Corporación."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "Art. 4.e): los Tribunales «contarán con un Presidente, un Secretario y los Vocales que determine la convocatoria. Su composición será predominantemente técnica».",
     "fuente": "Art. 4.e) RD 896/1991",
     "confianza": "alta"
@@ -5295,6 +5425,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "Conforme al artículo 4.e) del RD 896/1991, los vocales de los Tribunales deberán poseer titulación o especialización:",
     "options": [
       "Iguales o superiores a las exigidas para el acceso a las plazas convocadas.",
+      "Cualquiera, sin relación con la titulación exigida para el acceso a las plazas.",
       "Exclusivamente superiores a las exigidas para el acceso a las plazas convocadas.",
       "Iguales o inmediatamente inferiores a las exigidas para el acceso a las plazas convocadas."
     ],
@@ -5307,10 +5438,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "Según el artículo 4.f) del RD 896/1991, el número de miembros de los Tribunales de selección:",
     "options": [
       "En ningún caso será superior a cinco.",
+      "Será fijado libremente por el Tribunal una vez constituido.",
       "Será necesariamente de cinco miembros.",
       "En ningún caso será inferior a cinco."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "Art. 4.f): las bases determinarán el número de miembros de los Tribunales, «que en ningún caso será inferior a cinco».",
     "fuente": "Art. 4.f) RD 896/1991",
     "confianza": "alta"
@@ -5320,7 +5452,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "El Secretario de la Corporación o funcionario en quien delegue.",
       "El de la Corporación o miembro de la misma en quien delegue.",
-      "El vocal de mayor titulación y, en caso de empate, el de mayor antigüedad."
+      "El vocal de mayor titulación y, en caso de empate, el de mayor antigüedad.",
+      "El representante de la Comunidad Autónoma designado en el Tribunal."
     ],
     "correct": 1,
     "exp": "Art. 4.f): «Actuará como Presidente el de la Corporación o miembro de la misma en quien delegue».",
@@ -5332,6 +5465,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Un representante de la Comunidad Autónoma.",
       "Un representante de la Diputación Provincial.",
+      "Un representante de los funcionarios de carrera de la propia Corporación, designado por sorteo.",
       "Un representante del Ministerio para las Administraciones Públicas."
     ],
     "correct": 0,
@@ -5342,11 +5476,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Según el artículo 5 del RD 896/1991, corresponde convocar las pruebas selectivas, una vez publicada la oferta de empleo público y dentro del plazo legalmente establecido:",
     "options": [
+      "A la Comisión de Coordinación del Empleo Público.",
       "Al Pleno de la Corporación.",
       "Al Tribunal calificador designado al efecto.",
       "Al Presidente de la Corporación."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "Art. 5: «El Presidente de la Corporación, una vez publicada la oferta de empleo público (…) y dentro del plazo legalmente establecido, procederá a convocar las pruebas selectivas».",
     "fuente": "Art. 5 RD 896/1991",
     "confianza": "alta"
@@ -5356,7 +5491,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "El Pleno.",
       "La Junta de Gobierno Local.",
-      "El Presidente de la Corporación."
+      "El Presidente de la Corporación.",
+      "El Tribunal calificador, una vez constituido."
     ],
     "correct": 0,
     "exp": "Art. 5, párrafo segundo: las convocatorias se harán «con referencia a las bases aprobadas por el Pleno», especificando las plazas de promoción interna.",
@@ -5366,11 +5502,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Según el artículo 6.1 del RD 896/1991, las bases de las pruebas selectivas y las correspondientes convocatorias se publicarán en:",
     "options": [
+      "El «Boletín Oficial del Estado» exclusivamente, sin necesidad de otra publicación.",
       "El «Boletín Oficial del Estado» y, en su caso, en el «Boletín Oficial» de la provincia.",
       "El «Boletín Oficial» de la provincia, en el de la Comunidad Autónoma y, en su caso, en otros diarios oficiales o en el periódico oficial de la Corporación interesada.",
       "Exclusivamente en el periódico oficial de la Corporación interesada y en el tablón de anuncios."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "Art. 6.1: bases y convocatorias se publican en el «Boletín Oficial» de la provincia, en el de la Comunidad Autónoma y, en su caso, en otros diarios oficiales o en el periódico oficial de la Corporación interesada.",
     "fuente": "Art. 6.1 RD 896/1991",
     "confianza": "alta"
@@ -5379,10 +5516,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "De acuerdo con el artículo 6.2 del RD 896/1991, el anuncio de las convocatorias se publicará en el «Boletín Oficial del Estado» y deberá contener, entre otros extremos:",
     "options": [
       "El programa completo de las materias comunes y específicas de los ejercicios teóricos.",
+      "El plazo y lugar de presentación de instancias de los aspirantes.",
       "La composición nominal del Tribunal calificador y la fecha del primer ejercicio.",
       "La fecha y número del Boletín o diarios oficiales en que se han publicado las bases y la convocatoria."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "Art. 6.2: el anuncio en el BOE debe contener, además de la denominación de Escala, subescala y clase, la Corporación convocante, clase y número de plazas y reservas, «fecha y número del Boletín o diarios oficiales en que se han publicado las bases y la convocatoria».",
     "fuente": "Art. 6.2 RD 896/1991",
     "confianza": "alta"
@@ -5392,6 +5530,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Vinculante.",
       "Meramente consultivo.",
+      "Vinculante, salvo revisión de oficio por el Pleno de la Corporación.",
       "Vinculante solo en cuanto al orden de puntuación, pero no en cuanto a los aspirantes propuestos."
     ],
     "correct": 0,
@@ -5402,11 +5541,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Conforme al artículo 7 del RD 896/1991, en ningún caso podrá aprobarse ni declararse que ha superado las pruebas selectivas:",
     "options": [
+      "Un aspirante que hubiera obtenido igual puntuación que otro en el último ejercicio.",
       "Un número de aspirantes inferior al de las plazas convocadas.",
       "Un número de aspirantes superior al de las plazas convocadas.",
       "Un aspirante que no haya obtenido la máxima calificación en el ejercicio práctico."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "Art. 7: no podrá declararse que han superado las pruebas «un número de aspirantes superior al de las plazas convocadas».",
     "fuente": "Art. 7 RD 896/1991",
     "confianza": "alta"
@@ -5416,7 +5556,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Al menos una quinta parte del contenido del programa.",
       "Como máximo una décima parte del contenido del programa.",
-      "Al menos dos quintas partes del contenido del programa."
+      "Al menos dos quintas partes del contenido del programa.",
+      "Exactamente una cuarta parte del contenido del programa."
     ],
     "correct": 0,
     "exp": "Art. 8.2.A): las materias comunes «constituirán, al menos, una quinta parte de dicho contenido».",
@@ -5427,10 +5568,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "¿Cuál de las siguientes materias figura expresamente enumerada entre las materias comunes del artículo 8.2.A) del RD 896/1991?",
     "options": [
       "Derecho del Trabajo y de la Seguridad Social.",
+      "Derecho de la Unión Europea.",
       "Contratación del sector público.",
       "Hacienda Pública y Administración Tributaria."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 8.2.A) enumera: Constitución Española; Organización del Estado; Estatuto de Autonomía; Régimen Local; Derecho Administrativo General; y Hacienda Pública y Administración Tributaria.",
     "fuente": "Art. 8.2.A).f) RD 896/1991",
     "confianza": "alta"
@@ -5438,11 +5580,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "En las pruebas selectivas para el acceso a la Escala de Administración General, según el artículo 8.2.B).b) del RD 896/1991:",
     "options": [
+      "Una quinta parte de los temas del programa desarrollarán en profundidad alguna de las materias comunes enunciadas.",
       "Todos los temas del programa desarrollarán en profundidad las materias comunes enunciadas.",
       "Dos quintas partes de los temas del programa desarrollarán en profundidad alguna o algunas de las materias comunes enunciadas.",
       "Cuatro quintas partes de los temas del programa desarrollarán en profundidad alguna o algunas de las materias comunes enunciadas."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "Art. 8.2.B).b): dos quintas partes de temas desarrollarán en profundidad alguna o algunas de las materias comunes, y las dos quintas restantes versarán sobre materias relacionadas directamente con las funciones encomendadas.",
     "fuente": "Art. 8.2.B).b) RD 896/1991",
     "confianza": "alta"
@@ -5452,6 +5595,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Cuatro quintas partes de materias que permitan determinar la capacidad profesional de los aspirantes.",
       "Una quinta parte de materias que permitan determinar la capacidad profesional de los aspirantes.",
+      "Tres quintas partes de materias que permitan determinar la capacidad profesional de los aspirantes.",
       "La mitad de materias que permitan determinar la capacidad profesional de los aspirantes."
     ],
     "correct": 0,
@@ -5463,10 +5607,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "Según el artículo 8.3 del RD 896/1991, el número mínimo de temas en que deberán desarrollarse los contenidos para el ingreso en la subescala del grupo C es de:",
     "options": [
       "20 temas.",
+      "30 temas.",
       "60 temas.",
       "40 temas."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "Art. 8.3 fija como mínimos: grupo A, 90 temas; grupo B, 60; grupo C, 40; grupo D, 20; grupo E, 10.",
     "fuente": "Art. 8.3 RD 896/1991",
     "confianza": "alta"
@@ -5476,7 +5621,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "60 temas.",
       "90 temas.",
-      "120 temas."
+      "120 temas.",
+      "100 temas."
     ],
     "correct": 1,
     "exp": "Art. 8.3: «Para el ingreso en la subescala del grupo A: 90 temas».",
@@ -5487,6 +5633,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "El artículo 9 del RD 896/1991, al referirse a los ejercicios prácticos, menciona expresamente entre otros:",
     "options": [
       "Tests psicotécnicos, mecanografía, tratamientos de textos, redacción de informes y proyectos y solución de supuestos.",
+      "Elaboración de un proyecto de investigación y defensa pública ante un tribunal universitario.",
       "Pruebas de aptitud física, reconocimiento médico y entrevista personal de idoneidad.",
       "Exposición oral de temas del programa y traducción directa e inversa de una lengua extranjera."
     ],
@@ -5498,11 +5645,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Según la disposición adicional primera del RD 896/1991, el Presidente de la Corporación podrá efectuar nombramientos de personal funcionario interino para plazas vacantes:",
     "options": [
+      "Mediante concurso de méritos exclusivamente entre funcionarios de carrera de otras Corporaciones.",
       "Libremente y sin convocatoria, por razones de urgencia.",
       "Previa convocatoria pública y con respeto de los principios de mérito y capacidad, siempre que no sea posible, con la urgencia exigida por las circunstancias, la prestación del servicio por funcionarios de carrera.",
       "Solo cuando la plaza no esté dotada presupuestariamente ni incluida en la oferta de empleo público."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "La DA 1ª exige convocatoria pública previa y respeto de los principios de mérito y capacidad, y que no sea posible, con la urgencia exigida, la prestación del servicio por funcionarios de carrera; las plazas han de estar dotadas presupuestariamente e incluidas en la oferta de empleo público, salvo vacantes producidas con posterioridad.",
     "fuente": "Disposición adicional primera RD 896/1991",
     "confianza": "alta"
@@ -5512,6 +5660,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Concurso, concurso-oposición u oposición libre, de conformidad con las bases aprobadas por el Pleno de la Corporación.",
       "Oposición libre en todo caso, con bases aprobadas por el Presidente de la Corporación.",
+      "Exclusivamente por concurso de traslados entre personal laboral de otras Administraciones.",
       "Convocatoria pública resuelta por el Tribunal mediante libre designación."
     ],
     "correct": 0,
@@ -5522,11 +5671,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Según el artículo 3.1 del TREBEP, el personal funcionario de las entidades locales se rige por:",
     "options": [
+      "Por la legislación de régimen local con carácter exclusivo y excluyente del Estatuto Básico.",
       "Exclusivamente por la legislación de las comunidades autónomas y por los reglamentos de cada Corporación.",
       "Únicamente por el propio Estatuto Básico del Empleado Público.",
       "La legislación estatal que resulte de aplicación, de la que forma parte el propio Estatuto, y por la legislación de las comunidades autónomas, con respeto a la autonomía local."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "Art. 3.1 TREBEP: «El personal funcionario de las entidades locales se rige por la legislación estatal que resulte de aplicación, de la que forma parte este Estatuto y por la legislación de las comunidades autónomas, con respeto a la autonomía local».",
     "fuente": "Art. 3.1 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5535,6 +5685,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "El artículo 3.1 del TREBEP cierra la enumeración de la normativa aplicable al personal funcionario de las entidades locales con la expresión:",
     "options": [
       "«con respeto a la autonomía local».",
+      "«sin perjuicio de las competencias del Estado en materia de bases del régimen jurídico».",
       "«sin perjuicio del principio de suficiencia financiera».",
       "«en el marco de la legislación básica de régimen local»."
     ],
@@ -5548,6 +5699,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "La Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad.",
       "La Ley Orgánica 9/2015, de 28 de julio, de Régimen de Personal de la Policía Nacional.",
+      "El Real Decreto Legislativo 781/1986, de 18 de abril.",
       "La Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local."
     ],
     "correct": 0,
@@ -5559,6 +5711,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "El artículo 2.1 del TREBEP, al enumerar las Administraciones Públicas a cuyo personal se aplica el Estatuto, incluye:",
     "options": [
       "Las Administraciones de las entidades locales, en la letra c).",
+      "Las entidades locales, en la letra b), junto con las comunidades autónomas.",
       "Las entidades locales solo cuando así lo prevea la legislación autonómica de desarrollo.",
       "Únicamente las Diputaciones Provinciales y los municipios de gran población."
     ],
@@ -5570,11 +5723,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Según la disposición adicional primera del TREBEP, los principios contenidos en los artículos 52, 53, 54, 55 y 59 son de aplicación:",
     "options": [
+      "En todas las entidades del sector público, estén o no incluidas en el artículo 2 del Estatuto.",
       "Solo a las entidades del sector público estatal no incluidas en el artículo 2 del Estatuto.",
       "En las entidades del sector público estatal, autonómico y local que no estén incluidas en el artículo 2 del Estatuto y que estén definidas así en su normativa específica.",
       "Exclusivamente al personal funcionario de carrera de las entidades locales de más de 50.000 habitantes."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "La DA 1ª TREBEP extiende los principios de los arts. 52 a 55 y 59 a las entidades del sector público estatal, autonómico y local no incluidas en el art. 2 y definidas así en su normativa específica.",
     "fuente": "Disposición adicional primera TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5582,11 +5736,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "De acuerdo con la disposición adicional segunda, apartado 2, del TREBEP, en el ámbito de la Comunidad Autónoma del País Vasco las facultades previstas en el artículo 92 bis de la Ley 7/1985 respecto de los funcionarios con habilitación de carácter nacional serán ostentadas por:",
     "options": [
+      "La Comisión de Coordinación del Empleo Público, previa consulta con las Instituciones Forales.",
       "El Ministerio competente en materia de Administraciones Públicas, en todo caso.",
       "Las Diputaciones Forales exclusivamente, sin intervención de las Instituciones Comunes.",
       "Las Instituciones Forales de sus territorios históricos o por las Instituciones Comunes de la Comunidad Autónoma, en los términos que establezca la normativa autonómica."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "DA 2ª.2 TREBEP: esas facultades «serán ostentadas por las Instituciones Forales de sus territorios históricos o por las Instituciones Comunes de la Comunidad Autónoma, en los términos que establezca la normativa autonómica».",
     "fuente": "Disposición adicional segunda, apartado 2, TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5596,6 +5751,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "La Ley 7/1985, de 2 de abril, y del Real Decreto Legislativo 781/1986, de 18 de abril.",
       "La Ley 7/1985, de 2 de abril, únicamente.",
+      "La Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, en su totalidad.",
       "El Real Decreto Legislativo 781/1986, de 18 de abril, únicamente."
     ],
     "correct": 0,
@@ -5606,11 +5762,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Las derogaciones que enumera la disposición derogatoria única del TREBEP se producen:",
     "options": [
+      "Con el alcance establecido en la disposición transitoria octava del Estatuto.",
       "De forma inmediata y plena desde la entrada en vigor del Estatuto, sin condicionamiento alguno.",
       "Con el alcance establecido en el apartado 2 de la disposición final cuarta del Estatuto.",
       "Cuando cada comunidad autónoma lo determine expresamente en su legislación de función pública."
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "La disposición derogatoria única comienza: «Quedan derogadas con el alcance establecido en el apartado 2 de la disposición final cuarta, las siguientes disposiciones (…)».",
     "fuente": "Disposición derogatoria única TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5620,7 +5777,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Quedan sin efecto todas las normas anteriores sobre gestión de recursos humanos en cada Administración.",
       "Se mantendrán en vigor en cada Administración Pública las normas vigentes sobre ordenación, planificación y gestión de recursos humanos en tanto no se opongan a lo establecido en el Estatuto.",
-      "Se aplicará supletoriamente la legislación laboral común a todo el personal funcionario."
+      "Se aplicará supletoriamente la legislación laboral común a todo el personal funcionario.",
+      "Se suspenderá la aplicación de dichas normas hasta la aprobación de las leyes de Función Pública."
     ],
     "correct": 1,
     "exp": "DF 4ª.2 TREBEP: se mantienen en vigor en cada Administración Pública las normas vigentes sobre ordenación, planificación y gestión de recursos humanos «en tanto no se opongan a lo establecido en este Estatuto».",
@@ -5630,11 +5788,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "La disposición final primera del TREBEP señala que sus disposiciones se dictan, entre otros títulos, al amparo del artículo 149.1.18.ª de la Constitución, constituyendo:",
     "options": [
+      "Título competencial exclusivo del Estado sobre organización de las Fuerzas y Cuerpos de Seguridad.",
       "Legislación exclusiva del Estado en materia de régimen local.",
       "Normas de aplicación supletoria respecto de la legislación autonómica.",
       "Las bases del régimen estatutario de los funcionarios."
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "DF 1ª TREBEP: se dictan al amparo del art. 149.1.18.ª CE, «constituyendo aquellas bases del régimen estatutario de los funcionarios», así como al amparo de los arts. 149.1.7.ª y 149.1.13.ª CE.",
     "fuente": "Disposición final primera TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
@@ -5644,6 +5803,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "El establecimiento, modificación y supresión de Escalas, Subescalas y clases de funcionarios y su clasificación.",
       "La habilitación de los funcionarios con habilitación de carácter nacional destinados en su territorio.",
+      "La aprobación de la oferta de empleo público anual de la ciudad.",
       "La determinación de las faltas y sanciones disciplinarias muy graves de su personal funcionario."
     ],
     "correct": 0,
@@ -5659,6 +5819,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "Conforme al art. 126.1 TRRL, las plantillas de las Entidades locales, que deberán comprender todos los puestos de trabajo debidamente clasificados reservados a funcionarios, personal laboral y eventual, se aprobarán:",
     "options": [
       "Anualmente, con ocasión de la aprobación del Presupuesto",
+      "Cada dos años, previa autorización del órgano competente en materia de régimen local de la Comunidad Autónoma",
       "Cada cuatro años, coincidiendo con el mandato de la Corporación",
       "Anualmente, dentro del mes siguiente a la aprobación de la oferta de empleo público"
     ],
@@ -5672,7 +5833,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Que la ampliación no exceda del 10 por 100 del número total de plazas de la plantilla",
       "Que exista informe favorable del órgano competente en materia de régimen local de la Comunidad Autónoma",
-      "Que el incremento de las dotaciones sea consecuencia del establecimiento o ampliación de servicios de carácter obligatorio que resulten impuestos por disposiciones legales"
+      "Que el incremento de las dotaciones sea consecuencia del establecimiento o ampliación de servicios de carácter obligatorio que resulten impuestos por disposiciones legales",
+      "Que el gasto adicional quede cubierto con cargo al remanente de tesorería del ejercicio anterior"
     ],
     "correct": 2,
     "exp": "El art. 126.2 TRRL contempla dos supuestos de ampliación: la compensación del incremento del gasto con reducción de otras unidades o capítulos de gastos corrientes no ampliables (letra a) y que el incremento de dotaciones derive del establecimiento o ampliación de servicios de carácter obligatorio impuestos por disposiciones legales (letra b), sin perjuicio de las limitaciones de leyes especiales o coyunturales.",
@@ -5682,11 +5844,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "De acuerdo con el art. 126.4 TRRL, las relaciones de puestos de trabajo de las Entidades locales:",
     "options": [
+      "Se aprobarán directamente por el Ministerio de Administración Territorial, sin intervención de la Corporación",
       "Tendrán el contenido que libremente determine cada Corporación, sin sujeción a normas estatales",
       "Tendrán en todo caso el contenido previsto en la legislación básica sobre función pública y se confeccionarán con arreglo a las normas previstas en el artículo 90.2 de la Ley 7/1985",
       "Serán aprobadas por la Comunidad Autónoma a propuesta de la Corporación local"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 126.4 TRRL remite el contenido de las relaciones de puestos de trabajo a la legislación básica sobre función pública y su confección a las normas previstas en el art. 90.2 de la Ley 7/1985.",
     "fuente": "Art. 126.4 TRRL (RDLeg 781/1986)",
     "confianza": "alta"
@@ -5696,6 +5859,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Quince días",
       "Treinta días",
+      "Cuarenta y cinco días",
       "Dos meses"
     ],
     "correct": 1,
@@ -5708,7 +5872,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Un mes desde la aprobación de su Presupuesto",
       "Tres meses desde el comienzo del ejercicio",
-      "Un mes desde la publicación íntegra de la plantilla en el Boletín Oficial de la Provincia"
+      "Un mes desde la publicación íntegra de la plantilla en el Boletín Oficial de la Provincia",
+      "Dos meses desde la aprobación de la plantilla y la relación de puestos de trabajo"
     ],
     "correct": 0,
     "exp": "El art. 128.1 TRRL impone aprobar y publicar la oferta de empleo público dentro del plazo de un mes desde la aprobación del Presupuesto, ajustándose a la legislación básica del Estado sobre función pública y a los criterios reglamentarios de coordinación con las ofertas de las demás Administraciones.",
@@ -5719,10 +5884,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "Conforme al art. 128.2 TRRL, no podrá nombrarse personal interino para plazas que no se hayan incluido en la oferta de empleo público:",
     "options": [
       "Sin excepción alguna",
+      "Salvo que el número de vacantes no supere el 10 por 100 de la plantilla total",
       "Salvo autorización expresa del Pleno de la Corporación",
       "Salvo cuando se trate de vacantes realmente producidas con posterioridad a su aprobación"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 128.2 TRRL admite como única excepción las vacantes realmente producidas con posterioridad a la aprobación de la oferta. Añade que el interino cesa automáticamente al tomar posesión los funcionarios de carrera aprobados en la respectiva convocatoria.",
     "fuente": "Art. 128.2 TRRL (RDLeg 781/1986)",
     "confianza": "alta"
@@ -5732,6 +5898,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "El Gobierno, a propuesta del Ministro de Administración Territorial",
       "El Ministerio de Administración Territorial",
+      "El Congreso de los Diputados, mediante ley orgánica",
       "El Pleno de cada Corporación local"
     ],
     "correct": 0,
@@ -5744,7 +5911,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "El Ministerio de Administración Territorial",
       "Los órganos de la Corporación local",
-      "La Comunidad Autónoma respectiva"
+      "La Comunidad Autónoma respectiva",
+      "El Instituto de Estudios de Administración Local, mediante convocatoria única para todas las Corporaciones"
     ],
     "correct": 1,
     "exp": "El art. 129.3 TRRL reserva a los órganos de la Corporación local, entre otras competencias, la aprobación de plantillas y relaciones de puestos de trabajo, el establecimiento de escalas, subescalas y clases y la determinación del procedimiento de ingreso en las Subescalas de Administración Especial; estos acuerdos deben comunicarse en el plazo de treinta días.",
@@ -5755,10 +5923,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "Según el art. 130.2 TRRL, son funcionarios de carrera de la Administración Local los que, en virtud de nombramiento legal, desempeñen servicios de carácter permanente en una Entidad local, figuren en las correspondientes plantillas y:",
     "options": [
       "Hayan superado un período de prácticas de dos años",
+      "Hayan superado un período de prueba de dos años en el puesto de trabajo",
       "Estén inscritos en el Registro Central de Personal de la Administración del Estado",
       "Perciban sueldos o asignaciones fijas con cargo a las consignaciones de personal del presupuesto de las Corporaciones"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 130.2 TRRL exige cuatro notas: nombramiento legal, servicios de carácter permanente, figurar en las plantillas y percibir sueldos o asignaciones fijas con cargo a las consignaciones de personal del presupuesto.",
     "fuente": "Art. 130.2 TRRL (RDLeg 781/1986)",
     "confianza": "alta"
@@ -5766,11 +5935,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "De acuerdo con el art. 131.1 TRRL, los funcionarios de carrera que no ocupen puestos de trabajo reservados a funcionarios con habilitación de carácter nacional se integrarán en:",
     "options": [
+      "Los cuerpos generales de la Administración del Estado, con idéntica clasificación",
       "Los cuerpos y escalas de la Comunidad Autónoma respectiva",
       "Un cuerpo único de funcionarios de Administración local de ámbito estatal",
       "Las escalas, subescalas, clases y categorías de cada Corporación"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 131.1 TRRL integra a estos funcionarios en las escalas, subescalas, clases y categorías de cada Corporación, con arreglo a lo previsto en el propio texto refundido.",
     "fuente": "Art. 131.1 TRRL (RDLeg 781/1986)",
     "confianza": "alta"
@@ -5780,6 +5950,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "La titulación exigida para su ingreso",
       "El nivel de complemento de destino asignado al puesto",
+      "El volumen de población del municipio en que presten sus servicios",
       "La antigüedad media de sus integrantes"
     ],
     "correct": 0,
@@ -5792,7 +5963,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Una entrevista personal, en todo caso",
       "Las pruebas prácticas que sean precisas",
-      "Un curso selectivo de formación, en todo caso"
+      "Un curso selectivo de formación, en todo caso",
+      "Un examen psicotécnico obligatorio en todo caso"
     ],
     "correct": 1,
     "exp": "El art. 133 TRRL cierra el precepto exigiendo incluir «las pruebas prácticas que sean precisas» para garantizar la conexión entre las pruebas y los puestos a desempeñar.",
@@ -5802,11 +5974,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Conforme al art. 134.1 TRRL, las convocatorias serán siempre libres, si bien podrá reservarse para promoción interna:",
     "options": [
+      "Hasta un máximo del 33 por 100 de las plazas convocadas",
       "Hasta un máximo del 25 por 100 de las plazas convocadas",
       "Hasta un máximo del 50 por 100 de las plazas convocadas",
       "Hasta un máximo del 40 por 100 de las plazas convocadas"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 134.1 TRRL permite reservar hasta un máximo del 50 por 100 de las plazas convocadas para promoción interna, en favor de funcionarios que reúnan la titulación y los demás requisitos exigidos en la convocatoria.",
     "fuente": "Art. 134.1 TRRL (RDLeg 781/1986)",
     "confianza": "alta"
@@ -5815,6 +5988,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "Entre los requisitos que el art. 135 TRRL exige para ser admitido a las pruebas de acceso a la Función Pública local figura estar en posesión del título exigible, o en condiciones de obtenerlo, en la fecha en que:",
     "options": [
       "Termine el plazo de presentación de instancias",
+      "En la fecha de publicación de la convocatoria en el boletín oficial correspondiente",
       "Se celebre el primer ejercicio de la oposición",
       "Se produzca la toma de posesión"
     ],
@@ -5827,10 +6001,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "Según el art. 136.1 TRRL, el nombramiento de los aspirantes que superen las pruebas establecidas y, en su caso, los correspondientes cursos selectivos corresponde a:",
     "options": [
       "El Pleno de la Corporación",
+      "El Secretario de la Corporación, como fedatario del proceso selectivo",
       "El órgano de selección, mediante propuesta que se eleva a la Comunidad Autónoma",
       "El Alcalde o Presidente, o el miembro de la Corporación que, por delegación de aquél, ostente la jefatura directa de personal"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 136.1 TRRL atribuye el nombramiento al Alcalde o Presidente, o al miembro de la Corporación que por delegación ostente la jefatura directa de personal. El apartado 2 declara nulo el nombramiento de quienes estén incursos en causas de incapacidad específica, regla aplicable también al personal interino del art. 128.2.",
     "fuente": "Art. 136.1 TRRL (RDLeg 781/1986)",
     "confianza": "alta"
@@ -5840,6 +6015,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Superar un período de prueba de seis meses en el puesto adjudicado",
       "Prestar juramento o promesa en la forma legalmente establecida",
+      "Prestar fianza en la forma prevista por las disposiciones vigentes",
       "Tomar posesión dentro del plazo señalado reglamentariamente"
     ],
     "correct": 0,
@@ -5852,7 +6028,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "La renuncia",
       "La declaración de excedencia voluntaria por interés particular",
-      "La pérdida de la nacionalidad española"
+      "La pérdida de la nacionalidad española",
+      "El traslado forzoso a otra Corporación local por motivos de reorganización administrativa"
     ],
     "correct": 1,
     "exp": "El art. 138.1 TRRL enumera cinco causas: renuncia, pérdida de la nacionalidad española, sanción disciplinaria de separación del servicio, imposición de la pena de inhabilitación absoluta o especial y jubilación forzosa o voluntaria. La excedencia voluntaria es una situación administrativa (art. 140.1.c), no una causa de pérdida de la condición de funcionario.",
@@ -5862,11 +6039,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Según el art. 139.1.c) TRRL, la jubilación tendrá lugar a instancia del interesado por haber cumplido:",
     "options": [
+      "Sesenta y tres años de edad y veintiocho años de servicios efectivos",
       "Sesenta y cinco años de edad y veinte años de servicios efectivos",
       "Sesenta y dos años de edad y veinticinco años de servicios efectivos",
       "Sesenta años de edad y treinta años de servicios efectivos"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 139.1 TRRL prevé tres modalidades de jubilación: forzosa por cumplimiento de la edad; de oficio o a petición del interesado por incapacidad permanente; y a instancia del interesado por haber cumplido sesenta años de edad y haber completado treinta años de servicios efectivos.",
     "fuente": "Art. 139.1.c) TRRL (RDLeg 781/1986)",
     "confianza": "alta"
@@ -5876,6 +6054,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Los sesenta y cinco años de edad",
       "Los sesenta y siete años de edad",
+      "Sesenta y ocho años de edad, salvo prórroga autorizada por el Pleno",
       "Los setenta años de edad"
     ],
     "correct": 0,
@@ -5887,10 +6066,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "El art. 140.1 TRRL enumera las situaciones en que pueden hallarse los funcionarios de carrera de la Administración local. ¿Cuál de las siguientes figura expresamente en dicha enumeración?",
     "options": [
       "Expectativa de destino",
+      "Comisión de servicios en otra Administración Pública",
       "Servicio en Comunidades Autónomas",
       "Excedencia por cuidado de familiares"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 140.1 TRRL enumera cinco situaciones: servicio activo, servicio en Comunidades Autónomas, excedencia forzosa o voluntaria, servicios especiales y suspensión. Su apartado 2 las remite a la normativa básica estatal, a la legislación de función pública de la Comunidad Autónoma y, supletoriamente, a la de los funcionarios del Estado.",
     "fuente": "Art. 140.1.b) TRRL (RDLeg 781/1986)",
     "confianza": "alta"
@@ -5900,7 +6080,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Tendrá derecho a seguir percibiendo los trienios devengados en los anteriores",
       "Perderá los trienios devengados en los anteriores, que se computarán de nuevo desde el nuevo nombramiento",
-      "Conservará únicamente la mitad de los trienios devengados en los anteriores"
+      "Conservará únicamente la mitad de los trienios devengados en los anteriores",
+      "Deberá optar, en el plazo de un mes, entre los trienios del cuerpo anterior o del nuevo"
     ],
     "correct": 0,
     "exp": "El art. 155.1 TRRL garantiza el derecho a seguir percibiendo los trienios devengados en los cuerpos, subescalas, clases o categorías anteriores. Además, el apartado 2 dispone que si el cambio se produce antes de completar un trienio, la fracción de tiempo transcurrido se considera prestada en el nuevo.",
@@ -5911,10 +6092,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "De acuerdo con el art. 156 TRRL, el disfrute de las retribuciones complementarias:",
     "options": [
       "Creará derechos adquiridos transcurridos dos años de percepción continuada",
+      "No creará derechos adquiridos, salvo que se perciban durante un trienio completo",
       "No creará derechos adquiridos en ningún caso, sin excepción alguna",
       "No creará derechos adquiridos, salvo lo establecido legalmente respecto del grado consolidado en relación con el nivel de complemento de destino"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 156 TRRL niega el carácter de derecho adquirido a las retribuciones complementarias, con la única salvedad de lo legalmente establecido respecto del grado consolidado en relación con el nivel de complemento de destino.",
     "fuente": "Art. 156 TRRL (RDLeg 781/1986)",
     "confianza": "alta"
@@ -5922,11 +6104,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Según el art. 157 TRRL, en materia de indemnizaciones del personal al servicio de las Corporaciones locales:",
     "options": [
+      "Se reconoce únicamente a los funcionarios que carezcan de vivienda en el municipio",
       "La indemnización por casa-habitación se reconoce a los funcionarios con habilitación de carácter nacional",
       "En ningún caso habrá derecho a percibir indemnización por casa-habitación",
       "La indemnización por casa-habitación la fija cada Corporación en su presupuesto"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 157 TRRL equipara la ayuda familiar y las indemnizaciones por razón del servicio o por residencia a las del personal al servicio de la Administración del Estado y añade expresamente que en ningún caso habrá derecho a percibir indemnización por casa-habitación.",
     "fuente": "Art. 157 TRRL (RDLeg 781/1986)",
     "confianza": "alta"
@@ -5934,11 +6117,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Conforme al art. 167.3 TRRL, la Escala de Administración Especial se divide en las Subescalas:",
     "options": [
+      "Técnica, de Gestión y de Servicios Especiales",
       "Técnica, de Servicios Especiales y de Personal de Oficios",
       "Técnica, Administrativa y de Servicios Especiales",
       "Técnica y de Servicios Especiales"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 167.3 TRRL divide la Escala de Administración Especial en solo dos subescalas: Técnica y de Servicios Especiales. El Personal de Oficios no es subescala, sino una de las clases de la Subescala de Servicios Especiales (art. 172.2.d).",
     "fuente": "Art. 167.3 TRRL (RDLeg 781/1986)",
     "confianza": "alta"
@@ -5948,7 +6132,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "El Ministerio competente en materia de Administración Local",
       "Cada Corporación, de acuerdo con lo previsto en el propio texto refundido",
-      "La Comunidad Autónoma en cuyo territorio radique la Entidad local"
+      "La Comunidad Autónoma en cuyo territorio radique la Entidad local",
+      "El Instituto Nacional de Administración Pública, previa solicitud de la Corporación"
     ],
     "correct": 1,
     "exp": "El art. 167.4 TRRL atribuye a cada Corporación la creación de Escalas, Subescalas y clases y la clasificación de los funcionarios dentro de cada una de ellas, de acuerdo con lo previsto en la propia norma (en coherencia con el art. 129.3.b).",
@@ -5960,6 +6145,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "La Administración del Estado, en desarrollo de la legislación básica en materia de función pública local",
       "Cada Corporación local, en su reglamento orgánico",
+      "El Instituto de Estudios de Administración Local, mediante instrucciones vinculantes",
       "La Comunidad Autónoma respectiva, en todo caso"
     ],
     "correct": 0,
@@ -5971,10 +6157,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "Según el art. 169.1.a) TRRL, pertenecerán a la Subescala Técnica de Administración General los funcionarios que realicen:",
     "options": [
       "Tareas de apoyo a las funciones de nivel superior",
+      "Tareas de mecanografía, taquigrafía, despacho de correspondencia, cálculo sencillo y manejo de máquinas",
       "Tareas administrativas, normalmente de trámite y colaboración",
       "Tareas de gestión, estudio y propuesta de carácter administrativo de nivel superior"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 169.1.a) TRRL define la Subescala Técnica de Administración General por las tareas de gestión, estudio y propuesta de carácter administrativo de nivel superior. Las tareas de apoyo a las funciones de nivel superior corresponden a la subescala de gestión (letra b) y las de trámite y colaboración a la administrativa (letra c).",
     "fuente": "Art. 169.1.a) TRRL (RDLeg 781/1986)",
     "confianza": "alta"
@@ -5984,7 +6171,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Subescala Administrativa de Administración General",
       "Subescala de Gestión de Administración General",
-      "Subescala Auxiliar de Administración General"
+      "Subescala Auxiliar de Administración General",
+      "Subescala de Subalternos de Administración General"
     ],
     "correct": 0,
     "exp": "El art. 169.1.c) TRRL adscribe a la Subescala Administrativa de Administración General a los funcionarios que realizan tareas administrativas, normalmente de trámite y colaboración.",
@@ -5994,11 +6182,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Según el art. 169.1.d) TRRL, pertenecerán a la Subescala Auxiliar de Administración General los funcionarios que realicen tareas de:",
     "options": [
+      "Tareas de gestión, estudio y propuesta de carácter administrativo de nivel superior",
       "Vigilancia y custodia interior de oficinas, así como misiones de Conserje, Ujier o Portero",
       "Mecanografía, taquigrafía, despacho de correspondencia, cálculo sencillo, manejo de máquinas, archivo de documentos y otros similares",
       "Apoyo a las funciones de nivel superior"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 169.1.d) TRRL describe la Subescala Auxiliar por las tareas de mecanografía, taquigrafía, despacho de correspondencia, cálculo sencillo, manejo de máquinas, archivo de documentos y otras similares. La vigilancia y custodia interior corresponde a la Subescala de Subalternos (letra e).",
     "fuente": "Art. 169.1.d) TRRL (RDLeg 781/1986)",
     "confianza": "alta"
@@ -6007,10 +6196,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "Los funcionarios que realizan tareas de vigilancia y custodia interior de oficinas, así como misiones de Conserje, Ujier, Portero u otras análogas en edificios y servicios de la Corporación, pertenecen, según el art. 169.1.e) TRRL, a la:",
     "options": [
       "Subescala Auxiliar de Administración General",
+      "Subescala Técnica de Administración General",
       "Subescala de Servicios Especiales, clase de Personal de Oficios",
       "Subescala de Subalternos de Administración General"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 169.1.e) TRRL define así la Subescala de Subalternos de Administración General y añade que podrá establecerse la normativa adecuada para que sus puestos puedan ser desempeñados por funcionarios de Servicios Especiales que, por edad u otras razones, tengan disminuida su capacidad para misiones de particular esfuerzo o penosidad pero conserven la requerida para las tareas de Subalterno.",
     "fuente": "Art. 169.1.e) TRRL (RDLeg 781/1986)",
     "confianza": "alta"
@@ -6020,7 +6210,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "El 25 por 100 de los puestos de trabajo, para Administrativos de la propia Corporación que posean la titulación indicada y cuenten, como mínimo, con cinco años de servicios en la Subescala de procedencia",
       "El 50 por 100 de los puestos de trabajo, para Administrativos de la propia Corporación que cuenten con tres años de servicios",
-      "El 25 por 100 de los puestos de trabajo, para funcionarios de cualquier subescala que cuenten con diez años de servicios"
+      "El 25 por 100 de los puestos de trabajo, para funcionarios de cualquier subescala que cuenten con diez años de servicios",
+      "El 20 por 100 de los puestos de trabajo, para funcionarios de la Subescala de Gestión que cuenten con ocho años de servicios"
     ],
     "correct": 0,
     "exp": "El art. 169.2.a) TRRL exige para la Subescala Técnica de Administración General oposición libre y titulación de Licenciado en Derecho, en Ciencias Políticas, Económicas o Empresariales, Intendente Mercantil o Actuario, reservando el 25 por 100 de los puestos para promoción interna de Administrativos de la propia Corporación con la titulación indicada y un mínimo de cinco años de servicios en la subescala de procedencia.",
@@ -6030,11 +6221,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Conforme al art. 169.2.b) TRRL, el ingreso en la Subescala Administrativa de Administración General se hará por oposición libre y se precisará estar en posesión del título de:",
     "options": [
+      "Título de Técnico Superior de Formación Profesional o titulación universitaria de grado",
       "Graduado Escolar, Formación Profesional de primer grado, o equivalente",
       "Bachiller, Formación Profesional de segundo grado, o equivalente",
       "Diplomado universitario, Ingeniero Técnico o equivalente"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 169.2.b) TRRL exige el título de Bachiller, Formación Profesional de segundo grado o equivalente, reservando además el 50 por 100 de los puestos existentes para promoción interna de los pertenecientes a la Subescala de Auxiliares de Administración General que posean esa titulación y cuenten con cinco años de servicios en la subescala.",
     "fuente": "Art. 169.2.b) TRRL (RDLeg 781/1986)",
     "confianza": "alta"
@@ -6043,10 +6235,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "Según el art. 169.2.c) TRRL, el ingreso en la Subescala Auxiliar de Administración General se hará por oposición libre, con exigencia, en todo caso, de:",
     "options": [
       "El certificado de escolaridad",
+      "El título de Diplomado universitario o equivalente",
       "El título de Bachiller o Formación Profesional de segundo grado",
       "El título de Graduado Escolar, Formación Profesional de primer grado, o equivalente"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 169.2.c) TRRL exige en todo caso el título de Graduado Escolar, Formación Profesional de primer grado o equivalente. El certificado de escolaridad se exige para la Subescala Subalterna (letra d).",
     "fuente": "Art. 169.2.c) TRRL (RDLeg 781/1986)",
     "confianza": "alta"
@@ -6056,7 +6249,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "El título de Graduado Escolar o equivalente",
       "El certificado de escolaridad",
-      "Ninguna titulación ni acreditación académica"
+      "Ninguna titulación ni acreditación académica",
+      "El título de Bachiller elemental, exigible en todo caso"
     ],
     "correct": 1,
     "exp": "El art. 169.2.d) TRRL es la única letra del precepto que no impone oposición libre como sistema único: admite concurso, oposición o concurso-oposición libre según acuerdo de la Corporación, exigiendo el certificado de escolaridad.",
@@ -6068,6 +6262,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Los que tengan atribuido el desempeño de las funciones que constituyen el objeto peculiar de una carrera, profesión, arte u oficio",
       "Los que desempeñen funciones comunes al ejercicio de la actividad administrativa",
+      "Los que desempeñen puestos de trabajo de naturaleza eventual o de confianza política",
       "Los que ocupen puestos de trabajo reservados a funcionarios con habilitación de carácter nacional"
     ],
     "correct": 0,
@@ -6078,11 +6273,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "El art. 175 bis TRRL, añadido por la Ley 4/2024, de 8 de noviembre, dispone que se integrarán en la clase de agentes forestales y medioambientales las personas funcionarias que tengan asignadas funciones de:",
     "options": [
+      "Inspección y control de emisiones industriales contaminantes",
       "Extinción de incendios y salvamento en el medio natural",
       "Cometidos especiales de carácter predominantemente no manual en materia ambiental",
       "Vigilancia, policía y custodia de bienes medioambientales y forestales"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 175 bis TRRL integra en esa clase a las personas funcionarias con funciones de vigilancia, policía y custodia de bienes medioambientales y forestales, y exige para el acceso disponer de la titulación correspondiente en función del subgrupo de clasificación del TREBEP en el que se incluya la categoría.",
     "fuente": "Art. 175 bis TRRL (RDLeg 781/1986)",
     "confianza": "alta"
@@ -6092,6 +6288,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Técnicos Superiores, Medios y Auxiliares",
       "Técnicos Superiores y Técnicos Medios",
+      "Técnicos Superiores, Técnicos de Grado Medio y Técnicos de Grado Elemental",
       "Técnicos Superiores, Medios, Auxiliares y Subalternos"
     ],
     "correct": 0,
@@ -6102,11 +6299,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Conforme al art. 172.2 TRRL, se comprenden en la Subescala de Servicios Especiales, sin perjuicio de las peculiaridades de cada Corporación, las clases siguientes:",
     "options": [
+      "Policía Local; Personal de Oficios; y Cometidos Especiales, únicamente",
       "Policía Local y sus auxiliares; Servicio de Extinción de Incendios; y Personal de Oficios, únicamente",
       "Policía Local y sus auxiliares; Servicio de Extinción de Incendios; Plazas de Cometidos Especiales; Personal de Oficios; y Agentes forestales y medioambientales",
       "Técnicos Superiores, Técnicos Medios y Técnicos Auxiliares"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 172.2 TRRL enumera cinco clases: Policía Local y sus auxiliares, Servicio de Extinción de Incendios, Plazas de Cometidos Especiales, Personal de Oficios y Agentes forestales y medioambientales (letra e añadida por la Ley 4/2024, de 8 de noviembre).",
     "fuente": "Art. 172.2 TRRL (RDLeg 781/1986)",
     "confianza": "alta"
@@ -6116,7 +6314,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "De carácter predominantemente manual referidas a un determinado oficio, industria o arte",
       "De carácter predominantemente no manual, no comprendidas en el artículo 171.1, en las diversas ramas o sectores de actuación de las Corporaciones locales",
-      "De vigilancia y custodia interior de oficinas y edificios de la Corporación"
+      "De vigilancia y custodia interior de oficinas y edificios de la Corporación",
+      "Tareas de vigilancia, policía y custodia de bienes medioambientales y forestales"
     ],
     "correct": 1,
     "exp": "El art. 174 TRRL delimita la clase de cometidos especiales por las tareas de carácter predominantemente no manual no comprendidas en el art. 171.1, subdividiéndolas en categorías según el nivel de titulación exigido. Las tareas predominantemente manuales corresponden al Personal de Oficios (art. 175.1).",
@@ -6128,6 +6327,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Encargado, Maestro, Oficial, Ayudante y Operario",
       "Jefe, Encargado, Oficial y Peón",
+      "Capataz, Oficial, Ayudante y Peón",
       "Maestro, Oficial de primera, Oficial de segunda y Operario"
     ],
     "correct": 0,
@@ -6143,6 +6343,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "Conforme al RD 128/2018, el ingreso en las subescalas de la habilitación de carácter nacional se lleva a cabo conforme a las bases y programas aprobados por el Ministerio de Hacienda y Función Pública, que designará los tribunales calificadores. La gestión y ejecución de los procesos selectivos corresponde a:",
     "options": [
       "El Instituto Nacional de Administración Pública",
+      "La Dirección General de la Función Pública del Ministerio de Hacienda",
       "La Federación Española de Municipios y Provincias",
       "La Comunidad Autónoma en cuyo territorio radiquen los puestos ofertados"
     ],
@@ -6156,6 +6357,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Ingresan directamente en la subescala como funcionarios de carrera",
       "Serán nombrados funcionarios en prácticas",
+      "Serán nombrados funcionarios eventuales adscritos al Ministerio de Hacienda",
       "Serán nombrados funcionarios interinos hasta que superen el curso selectivo"
     ],
     "correct": 1,
@@ -6167,10 +6369,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "El acceso a la categoría superior dentro de las subescalas de Secretaría e Intervención-Tesorería exigirá, en todo caso, una antigüedad mínima de servicio activo en la categoría de entrada de:",
     "options": [
       "Un año",
+      "Cuatro años",
       "Tres años",
       "Dos años"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 20.1 RD 128/2018 exige al menos dos años de antigüedad de servicio activo en la categoría de entrada de la subescala respectiva, computados a partir de la publicación del nombramiento en el «Boletín Oficial del Estado». El acceso se acuerda por el Ministerio de Hacienda y Función Pública, previa convocatoria pública.",
     "fuente": "Art. 20.1 RD 128/2018",
     "confianza": "alta"
@@ -6178,11 +6381,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "El acceso a la categoría superior dentro de la misma subescala se llevará a cabo mediante alguno de los siguientes procedimientos:",
     "options": [
+      "Mediante oposición libre convocada anualmente por el Ministerio de Hacienda y Función Pública",
       "Únicamente mediante libre designación entre funcionarios de la categoría de entrada",
       "Únicamente mediante concurso-oposición convocado por cada Corporación Local",
       "Por concurso de méritos entre funcionarios de la categoría de entrada, o mediante la superación de pruebas de aptitud"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 20.2 RD 128/2018 prevé dos procedimientos: concurso de méritos, que se resuelve aplicando el baremo de méritos generales del art. 32.1, párrafos a) a f), o la superación de pruebas de aptitud, cuya gestión podrá encomendarse al INAP. El número de plazas por cada vía se concreta en la convocatoria.",
     "fuente": "Art. 20.2 RD 128/2018",
     "confianza": "alta"
@@ -6192,6 +6396,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Tener dos años de servicio activo en la subescala y poseer la titulación del artículo 18 del RD 128/2018",
       "Tener cinco años de servicio activo en la subescala y poseer la titulación del artículo 18 del RD 128/2018",
+      "Tener un año de servicio activo en la subescala y poseer la titulación del artículo 18 del RD 128/2018",
       "Tener tres años de servicio activo en la subescala, sin exigencia de titulación adicional"
     ],
     "correct": 0,
@@ -6204,7 +6409,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Dos años",
       "Un año",
-      "Tres años"
+      "Tres años",
+      "Cuatro años"
     ],
     "correct": 0,
     "exp": "El art. 22.f) RD 128/2018 establece que el primer destino tiene carácter definitivo y que en él se deberá permanecer un mínimo de dos años para volver a concursar o solicitar un nombramiento provisional, sin perjuicio de los supuestos excepcionales del art. 49.3.",
@@ -6215,10 +6421,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "En el Registro Integrado de funcionarios de Administración Local con habilitación de carácter nacional, las anotaciones referentes a las tomas de posesión y a los ceses en puestos reservados las efectúan:",
     "options": [
       "El Ministerio de Hacienda y Función Pública",
+      "La Diputación Provincial correspondiente",
       "Las Comunidades Autónomas",
       "Los propios funcionarios interesados por vía electrónica"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "Según el art. 23 RD 128/2018, las Comunidades Autónomas anotan la clasificación de los puestos reservados, los nombramientos definitivos y provisionales, las tomas de posesión y los ceses, así como las sanciones disciplinarias de su competencia. El Ministerio inscribe los nombramientos como funcionarios de carrera, las sanciones de su competencia, la pérdida de la condición de funcionario, los méritos generales y las situaciones administrativas.",
     "fuente": "Art. 23 RD 128/2018",
     "confianza": "alta"
@@ -6228,6 +6435,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Se acordará de oficio por el órgano competente para imponer la sanción, notificándolo a los interesados",
       "Requerirá solicitud previa del interesado dirigida al Ministerio de Hacienda y Función Pública",
+      "Se acordará de oficio por el Ministerio de Hacienda y Función Pública, en todo caso, notificándolo al Registro Integrado",
       "Se acordará de oficio por la Comunidad Autónoma, cualquiera que fuera el órgano sancionador"
     ],
     "correct": 0,
@@ -6238,11 +6446,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Las permutas de puestos entre dos funcionarios de Administración Local con habilitación de carácter nacional, cuando los puestos exceden del ámbito territorial de una Comunidad Autónoma, podrán ser autorizadas por:",
     "options": [
+      "El Instituto Nacional de Administración Pública (INAP)",
       "La Comunidad Autónoma en la que radique el puesto de mayor población",
       "La Dirección General de la Función Pública",
       "El Pleno de cada una de las Corporaciones Locales afectadas"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 27.1.c).3.º RD 128/2018 permite a las Comunidades Autónomas autorizar las permutas cuando ambos puestos se encuentren en su ámbito territorial, de acuerdo con su normativa específica; cuando excedan de dicho ámbito, podrá autorizarlas la Dirección General de la Función Pública. La permuta se considera nombramiento de carácter definitivo.",
     "fuente": "Art. 27.1.c).3.º RD 128/2018",
     "confianza": "alta"
@@ -6252,7 +6461,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Con carácter bienal por el Pleno de las Corporaciones Locales, publicándose por el Ministerio",
       "Con carácter anual por el órgano competente de la Comunidad Autónoma, publicándose por cada Corporación",
-      "Con carácter anual por los Presidentes de las Corporaciones Locales y se publican simultáneamente por el órgano competente de la Comunidad Autónoma"
+      "Con carácter anual por los Presidentes de las Corporaciones Locales y se publican simultáneamente por el órgano competente de la Comunidad Autónoma",
+      "Con carácter anual por el Ministerio de Hacienda y Función Pública, publicándose por las Corporaciones Locales"
     ],
     "correct": 2,
     "exp": "El art. 29.1 RD 128/2018 atribuye la convocatoria anual de los concursos ordinarios a los Presidentes de las Corporaciones Locales, con publicación simultánea por el órgano competente de la Comunidad Autónoma.",
@@ -6263,6 +6473,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "La duración de los procedimientos de provisión de puestos reservados a funcionarios con habilitación de carácter nacional no podrá exceder de:",
     "options": [
       "Seis meses a partir de la publicación conjunta en el «Boletín Oficial del Estado» de las respectivas convocatorias",
+      "Cuatro meses a partir de la publicación conjunta en el «Boletín Oficial del Estado» de las respectivas convocatorias",
       "Tres meses a partir de la publicación conjunta en el «Boletín Oficial del Estado» de las respectivas convocatorias",
       "Un año a partir de la publicación conjunta en el «Boletín Oficial del Estado» de las respectivas convocatorias"
     ],
@@ -6276,6 +6487,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "24 puntos",
       "26 puntos",
+      "28 puntos",
       "21 puntos"
     ],
     "correct": 0,
@@ -6286,11 +6498,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Las bases de cada concurso ordinario, configuradas con arreglo al modelo de convocatoria y bases comunes anexo al RD 128/2018, serán aprobadas por:",
     "options": [
+      "El Ministerio de Hacienda y Función Pública",
       "El Pleno de la Corporación respectiva",
       "El órgano competente de la Comunidad Autónoma",
       "El Alcalde o Presidente de la Corporación respectiva"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 35 RD 128/2018 atribuye la aprobación de las bases de cada concurso al Alcalde o Presidente de la Corporación respectiva, con el contenido que el propio artículo enumera (clase de los puestos, subescala y categoría, niveles y complementos, méritos específicos, composición del tribunal y, en su caso, previsión de entrevista).",
     "fuente": "Art. 35 RD 128/2018",
     "confianza": "alta"
@@ -6299,10 +6512,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "No podrán participar en los concursos los funcionarios que no lleven dos años en el último destino obtenido con carácter definitivo en cualquier Administración Pública, salvo que:",
     "options": [
       "Obtengan autorización expresa del Ministerio de Hacienda y Función Pública",
+      "Hubieran obtenido el destino anterior mediante concurso unitario",
       "El puesto solicitado radique en la misma Comunidad Autónoma",
       "Concursen a puestos reservados a su subescala y categoría en la misma Corporación"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 36.2.d) RD 128/2018 impide concursar a quienes no lleven dos años en el último destino definitivo, salvo que lo hagan a puestos reservados a su subescala y categoría en la misma Corporación. El art. 36.3 añade como excepción el supuesto del art. 27.1.c).2.º (reserva de puesto procedente de servicios especiales).",
     "fuente": "Art. 36.2.d) RD 128/2018",
     "confianza": "alta"
@@ -6312,7 +6526,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Dentro de los diez primeros días de enero de cada año, para su publicación conjunta antes del 1 de marzo",
       "Dentro de los diez primeros días de febrero de cada año, para su publicación conjunta dentro del mismo mes",
-      "Dentro del primer trimestre de cada año, para su publicación conjunta antes del 30 de junio"
+      "Dentro del primer trimestre de cada año, para su publicación conjunta antes del 30 de junio",
+      "Dentro de los veinte primeros días de febrero de cada año, para su publicación conjunta antes del 15 de marzo"
     ],
     "correct": 1,
     "exp": "El art. 37 RD 128/2018 obliga a remitir la convocatoria a la Comunidad Autónoma dentro de los diez primeros días de febrero de cada año, para su publicación conjunta dentro del mismo mes. El Ministerio publica en el BOE un extracto de todas las convocatorias, que sirve de base para el cómputo de plazos.",
@@ -6323,6 +6538,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "El plazo de presentación de solicitudes para tomar parte en los concursos de provisión de puestos reservados es de:",
     "options": [
       "Quince días hábiles a partir de la publicación de la convocatoria en el «Boletín Oficial del Estado»",
+      "Treinta días hábiles a partir de la publicación de la convocatoria en el «Boletín Oficial del Estado»",
       "Veinte días hábiles a partir de la publicación de la convocatoria en el diario oficial de la Comunidad Autónoma",
       "Diez días hábiles a partir de la publicación de la convocatoria en el «Boletín Oficial del Estado»"
     ],
@@ -6336,6 +6552,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Es nombrado por el órgano competente de la Comunidad Autónoma y se compone de un número impar de vocales",
       "Es nombrado por la Corporación y se compone de un número par de vocales, uno de ellos a propuesta de la Comunidad Autónoma si desea ejercitar tal facultad",
+      "Es nombrado por la Corporación y se compone de un número impar de vocales, todos ellos funcionarios de la propia Corporación",
       "Es nombrado por el Ministerio de Hacienda y Función Pública y todos sus vocales han de ser funcionarios con habilitación de carácter nacional"
     ],
     "correct": 1,
@@ -6346,11 +6563,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "En caso de que dos o más concursantes obtengan la misma puntuación total en un concurso ordinario, el empate se resolverá en primer lugar a favor del candidato que hubiera obtenido:",
     "options": [
+      "Mayor antigüedad en la subescala respectiva",
       "Mayor puntuación global por méritos generales",
       "Mejor número de orden en el proceso selectivo de ingreso",
       "Mayor puntuación global por méritos específicos"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 39.3 RD 128/2018 establece el siguiente orden de desempate en el concurso ordinario: méritos específicos, méritos autonómicos, méritos generales, orden de prelación de los méritos generales según su enumeración en el art. 32 y, en última instancia, orden de prelación en el proceso selectivo.",
     "fuente": "Art. 39.3 RD 128/2018",
     "confianza": "alta"
@@ -6359,10 +6577,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "La resolución del concurso ordinario, comprensiva de la totalidad de los candidatos no excluidos según su orden de puntuación, se remitirá por la Corporación al Ministerio de Hacienda y Función Pública dentro de:",
     "options": [
       "Los quince días hábiles siguientes a la fecha de la resolución del concurso",
+      "Los veinte días hábiles siguientes a la fecha de resolución del concurso por la Corporación",
       "Un mes desde la publicación de la convocatoria en el «Boletín Oficial del Estado»",
       "Los treinta días hábiles siguientes a la fecha de finalización del plazo de presentación de solicitudes"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 40.1 RD 128/2018 fija ese plazo en treinta días hábiles siguientes a la finalización del plazo de presentación de solicitudes. Transcurrido dicho plazo, el Ministerio coordina las resoluciones coincidentes y formaliza los nombramientos en el plazo de un mes, publicándolos en el BOE (art. 40.2).",
     "fuente": "Art. 40.1 RD 128/2018",
     "confianza": "alta"
@@ -6372,7 +6591,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Tres días hábiles si se trata de puestos de la misma localidad, o de un mes si se trata de primer destino o de puestos en localidad distinta",
       "Cinco días hábiles si se trata de puestos de la misma localidad, o de quince días hábiles si se trata de localidad distinta",
-      "Tres días naturales si se trata de puestos de la misma localidad, o de dos meses si se trata de primer destino o de localidad distinta"
+      "Tres días naturales si se trata de puestos de la misma localidad, o de dos meses si se trata de primer destino o de localidad distinta",
+      "Diez días hábiles si se trata de puestos de la misma localidad, o de dos meses si se trata de primer destino o de puestos en localidad distinta"
     ],
     "correct": 0,
     "exp": "El art. 41.1 RD 128/2018 establece tres días hábiles para puestos de la misma localidad y un mes para el primer destino o puestos en localidad distinta. El plazo se cuenta desde el día siguiente al cese, que debe efectuarse dentro de los tres días hábiles siguientes a la publicación de la resolución del concurso en el BOE.",
@@ -6382,11 +6602,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Por necesidades del servicio, mediante acuerdo de los Presidentes de las Corporaciones en que haya de cesar y tomar posesión el concursante, el cese y la toma de posesión podrán diferirse hasta un máximo de:",
     "options": [
+      "Dos meses",
       "Un mes",
       "Tres meses",
       "Seis meses"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 41.2 RD 128/2018 permite diferir el cese y la toma de posesión hasta un máximo de tres meses por necesidades del servicio, mediante acuerdo de los Presidentes de ambas Corporaciones, debiendo el segundo de ellos dar cuenta del acuerdo a la Comunidad Autónoma.",
     "fuente": "Art. 41.2 RD 128/2018",
     "confianza": "alta"
@@ -6396,6 +6617,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Suspensión provisional de funciones",
       "Excedencia voluntaria por interés particular, a contar desde el último día del plazo de toma de posesión",
+      "Excedencia forzosa, con efectos desde la fecha de publicación de la resolución del concurso en el «Boletín Oficial del Estado»",
       "Excedencia voluntaria por prestación de servicios en otro cuerpo o escala"
     ],
     "correct": 1,
@@ -6407,6 +6629,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "La convocatoria anual de los puestos vacantes que, encontrándose vacantes, no hubiesen sido convocados por las Corporaciones Locales en el concurso ordinario o hubiesen quedado desiertos en él, corresponde efectuarla supletoriamente a:",
     "options": [
       "El Ministerio de Hacienda y Función Pública, mediante concurso unitario",
+      "El Instituto Nacional de Administración Pública, mediante convocatoria conjunta con las Corporaciones Locales",
       "La Comunidad Autónoma respectiva, mediante concurso subsidiario de ámbito autonómico",
       "La Diputación Provincial o entidad equivalente, a través de sus servicios de asistencia"
     ],
@@ -6418,11 +6641,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "En cuanto a la participación en el concurso unitario, el RD 128/2018 dispone que:",
     "options": [
+      "Únicamente podrán participar los funcionarios que ya posean nombramiento definitivo en otra Corporación",
       "Está prohibida la participación de los funcionarios con nombramiento provisional",
       "La participación es siempre voluntaria, sin excepción alguna",
       "Están obligados a participar los funcionarios con nombramiento provisional"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 44.3 RD 128/2018 remite en materia de participación al art. 36, si bien establece que estarán obligados a participar en el concurso unitario los funcionarios con nombramiento provisional.",
     "fuente": "Art. 44.3 RD 128/2018",
     "confianza": "alta"
@@ -6432,6 +6656,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Tres meses desde que el puesto se hubiera clasificado a libre designación o hubiese resultado vacante",
       "Un mes desde que el puesto se hubiera clasificado a libre designación o hubiese resultado vacante",
+      "Dos meses desde que el puesto se hubiera clasificado a libre designación o hubiese resultado vacante",
       "Seis meses desde que el puesto se hubiera clasificado a libre designación o hubiese resultado vacante"
     ],
     "correct": 0,
@@ -6444,7 +6669,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "En el plazo de un mes, dando cuenta al Pleno de la Corporación",
       "En el plazo de quince días hábiles, dando cuenta al órgano competente de la Comunidad Autónoma",
-      "En el plazo de dos meses, previa autorización del Pleno de la Corporación"
+      "En el plazo de dos meses, previa autorización del Pleno de la Corporación",
+      "En el plazo de veinte días hábiles, dando cuenta al Ministerio de Hacienda y Función Pública"
     ],
     "correct": 0,
     "exp": "El art. 46.3 RD 128/2018 establece que las solicitudes se dirigen al órgano convocante dentro de los quince días hábiles siguientes a la publicación y que el Presidente resuelve en el plazo de un mes, dando cuenta al Pleno de la Corporación, previa constatación de los requisitos y a la vista de la trayectoria profesional y los méritos acreditados.",
@@ -6454,11 +6680,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "El funcionario nombrado para un puesto de libre designación podrá ser cesado con carácter discrecional por el mismo órgano que lo nombró, garantizándosele un puesto de su mismo grupo de titulación adecuado a las funciones de su subescala que no sea inferior:",
     "options": [
+      "En más de cuatro niveles al del puesto para el que fue designado",
       "En más de un nivel al del puesto para el que fue designado",
       "En más de dos niveles al del puesto para el que fue designado",
       "En más de tres niveles al del puesto para el que fue designado"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 47.1 RD 128/2018 garantiza un puesto del mismo grupo de titulación, no inferior en más de dos niveles al del puesto para el que fue designado y con el complemento específico normalizado entre los puestos reservados. En dicho puesto se puede permanecer hasta obtener otro (art. 47.2) y el acuerdo de cese debe motivarse por referencia al desempeño profesional (art. 47.4).",
     "fuente": "Art. 47.1 RD 128/2018",
     "confianza": "alta"
@@ -6467,10 +6694,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "En los supuestos de reingreso al servicio activo, de supresión de puestos de colaboración o de cese en puestos de libre designación, la Comunidad Autónoma garantizará un nombramiento provisional. En estos casos:",
     "options": [
       "La comisión de servicios tendrá preferencia sobre el nombramiento provisional",
+      "Todas las formas de provisión no definitiva tendrán idéntica prioridad, decidiendo el orden de solicitud",
       "La acumulación tendrá preferencia sobre el nombramiento provisional",
       "Tendrá preferencia la provisión del puesto por nombramiento provisional sobre el resto de nombramientos de carácter no definitivo"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 49.1 RD 128/2018 garantiza en esos supuestos un nombramiento provisional, preferentemente en un puesto de la misma subescala y categoría y previo informe de la Corporación Local, estableciendo expresamente la preferencia del nombramiento provisional sobre el resto de nombramientos de carácter no definitivo.",
     "fuente": "Art. 49.1 RD 128/2018",
     "confianza": "alta"
@@ -6480,6 +6708,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "No podrá efectuarse nombramiento provisional alguno y habrá de acudirse necesariamente a un nombramiento interino",
       "Podrá efectuarse el nombramiento provisional a funcionario de diferente categoría dentro de la subescala y, si tampoco fuera posible, a funcionario de diferente subescala",
+      "Podrá efectuarse el nombramiento provisional a cualquier funcionario de la Corporación, con independencia de su subgrupo de titulación",
       "Podrá efectuarse el nombramiento provisional a un funcionario propio de la Corporación del subgrupo A1"
     ],
     "correct": 1,
@@ -6492,7 +6721,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "No hubiese sido posible efectuar nombramiento provisional o comisión de servicios, imposibilidad que ha debido quedar suficientemente acreditada en el expediente",
       "El puesto lleve vacante más de seis meses, sin necesidad de acreditar otras circunstancias",
-      "Lo acuerden previamente los Plenos de las dos Corporaciones Locales afectadas"
+      "Lo acuerden previamente los Plenos de las dos Corporaciones Locales afectadas",
+      "Lo solicite directamente el funcionario interesado sin necesidad de informe de la Corporación de origen"
     ],
     "correct": 0,
     "exp": "El art. 50.1 RD 128/2018 configura la acumulación como forma subsidiaria: procede cuando no ha sido posible el nombramiento provisional ni la comisión de servicios, con acreditación en el expediente. Se efectúa a petición de la Corporación, de acuerdo con el funcionario y previo informe favorable de la Entidad donde está destinado. Corresponde al Ministerio autorizarlas cuando excedan del ámbito territorial de una Comunidad Autónoma.",
@@ -6502,11 +6732,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "El desempeño de funciones acumuladas da derecho a percibir una gratificación, a cargo de la Entidad Local donde se ejercen las funciones acumuladas, de hasta:",
     "options": [
+      "El 40 por 100 de las retribuciones fijas, incluidos los trienios, correspondientes al puesto principal",
       "El 20 por 100 de las retribuciones fijas, incluidos los trienios, correspondientes al puesto principal",
       "El 30 por 100 de las retribuciones fijas, excluidos los trienios, correspondientes al puesto principal",
       "El 50 por 100 de las retribuciones fijas, excluidos los trienios, correspondientes al puesto principal"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 50.3 RD 128/2018 fija la gratificación en hasta el 30 por 100 de las retribuciones fijas, excluidos los trienios, del puesto principal. Las funciones acumuladas deben ejercerse fuera de la jornada ordinaria del puesto de trabajo y sólo se puede desempeñar un nombramiento en acumulación.",
     "fuente": "Art. 50.3 RD 128/2018",
     "confianza": "alta"
@@ -6515,10 +6746,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "Las comisiones de servicios que los órganos competentes de las Comunidades Autónomas conceden a funcionarios destinados en su propio territorio, para puestos reservados en Entidades Locales del mismo, se otorgan por un plazo máximo de:",
     "options": [
       "Seis meses, prorrogables por otros seis",
+      "Dieciocho meses, sin posibilidad de prórroga",
       "Dos años, prorrogables por un año más",
       "Un año, prorrogable por otro igual"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 51.1 RD 128/2018 fija el plazo máximo en un año, prorrogable por otro igual, y exige que no hubiese sido posible efectuar un nombramiento provisional, imposibilidad que ha de quedar suficientemente acreditada en el expediente.",
     "fuente": "Art. 51.1 RD 128/2018",
     "confianza": "alta"
@@ -6526,11 +6758,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "En los nombramientos accidentales, en las Corporaciones Locales de más de 5.000 habitantes el nombrado será, en todo caso:",
     "options": [
+      "Un funcionario de carrera perteneciente al subgrupo A2 con titulación universitaria",
       "Un funcionario de carrera de la propia Corporación perteneciente al subgrupo A2",
       "Un funcionario, de carrera o interino, con titulación universitaria",
       "Un funcionario de carrera perteneciente al subgrupo A1"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 52.1 RD 128/2018 permite a las Corporaciones solicitar el nombramiento accidental de uno de sus funcionarios con preparación técnica adecuada y, siempre que sea posible, del subgrupo A1 o con titulación universitaria; en las Corporaciones de más de 5.000 habitantes será en todo caso un funcionario de carrera del subgrupo A1.",
     "fuente": "Art. 52.1 RD 128/2018",
     "confianza": "alta"
@@ -6540,6 +6773,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Un funcionario interino podrá ser habilitado accidentalmente si posee la titulación exigida para el subgrupo A1",
       "En ningún caso podrá ser habilitado accidentalmente un funcionario interino",
+      "Un funcionario interino podrá ser habilitado accidentalmente si cuenta con autorización expresa del Ministerio de Hacienda y Función Pública",
       "Un funcionario interino podrá ser habilitado accidentalmente cuando acredite dos años de servicios en la Corporación"
     ],
     "correct": 1,
@@ -6551,6 +6785,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "El funcionario interino cuyo nombramiento propongan las Corporaciones Locales a la Comunidad Autónoma para un puesto reservado deberá estar en posesión de:",
     "options": [
       "La titulación exigida para el acceso al subgrupo A1",
+      "Titulación de grado medio equivalente al subgrupo B",
       "La titulación exigida para el acceso al subgrupo A2",
       "La habilitación de carácter nacional en la subescala correspondiente al puesto"
     ],
@@ -6562,11 +6797,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "Las comisiones circunstanciales para la realización de cometidos especiales, en casos de ausencia, enfermedad o abstención legal o reglamentaria del funcionario con habilitación de carácter nacional, están previstas en municipios de menos de:",
     "options": [
+      "500 habitantes",
       "5.000 habitantes",
       "1.000 habitantes",
       "2.000 habitantes"
     ],
-    "correct": 1,
+    "correct": 2,
     "exp": "El art. 55 RD 128/2018 las prevé en municipios de menos de 1.000 habitantes, a petición de la Corporación interesada; las concede la Administración o Corporación Local que atienda los servicios de asistencia, por el tiempo imprescindible.",
     "fuente": "Art. 55 RD 128/2018",
     "confianza": "alta"
@@ -6576,7 +6812,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "La Comunidad Autónoma respectiva, en todo caso",
       "El Ministerio de Hacienda y Función Pública, salvo la de suspensión de funciones y destitución",
-      "La Corporación Local en la que el funcionario esté destinado, salvo la excedencia voluntaria"
+      "La Corporación Local en la que el funcionario esté destinado, salvo la excedencia voluntaria",
+      "El Ministerio de Hacienda y Función Pública, salvo la de servicios especiales, que corresponde a la Comunidad Autónoma"
     ],
     "correct": 1,
     "exp": "El art. 57.2 RD 128/2018 atribuye la declaración de situaciones administrativas al Ministerio de Hacienda y Función Pública, salvo la de suspensión de funciones y destitución, que se rigen por las normas de atribución de competencias propias del régimen disciplinario.",
@@ -6587,10 +6824,11 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "Las comisiones de servicio y los nombramientos provisionales quedarán sin efecto en el momento en que se declare la situación de:",
     "options": [
       "Excedencia por cuidado de familiares",
+      "Excedencia voluntaria por interés particular",
       "Servicio en otras Administraciones Públicas",
       "Servicios especiales"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 58.6 RD 128/2018 dispone que las comisiones de servicio y los nombramientos provisionales quedan sin efecto al declararse la situación de servicios especiales. A quien pase a esa situación desde un puesto obtenido por concurso se le reserva un puesto de su grupo de titulación en la misma Entidad Local, con las mismas garantías retributivas (art. 58.4).",
     "fuente": "Art. 58.6 RD 128/2018",
     "confianza": "alta"
@@ -6598,11 +6836,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "La incoación de expedientes disciplinarios a funcionarios con habilitación de carácter nacional por hechos que pudieran ser constitutivos de faltas muy graves tipificadas en la normativa básica estatal corresponde a:",
     "options": [
+      "El Delegado del Gobierno en la Comunidad Autónoma donde se hubieran cometido los hechos",
       "La Comunidad Autónoma respecto de los funcionarios de Corporaciones Locales de su ámbito territorial",
       "El órgano correspondiente de la Corporación donde el funcionario hubiera cometido los hechos",
       "El Ministerio de Hacienda y Función Pública"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 61.1 RD 128/2018 distribuye la competencia de incoación: la Corporación donde se cometieron los hechos, si pudieran ser falta leve; la Comunidad Autónoma, salvo cuando los hechos pudieran ser faltas muy graves de la normativa básica estatal; y el Ministerio de Hacienda y Función Pública en este último caso. Esa competencia estatal no alcanza a las faltas muy graves tipificadas sólo en leyes autonómicas (art. 61.2).",
     "fuente": "Art. 61.1.c) RD 128/2018",
     "confianza": "alta"
@@ -6612,6 +6851,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "El Pleno de la Corporación Local donde se cometieron los hechos",
       "El Ministro de Hacienda y Función Pública",
+      "El Consejo de Ministros, previo informe de la Comunidad Autónoma",
       "El órgano competente de la Comunidad Autónoma respectiva"
     ],
     "correct": 1,
@@ -6623,6 +6863,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "q": "La sanción de destitución implica la pérdida del puesto de trabajo con prohibición de obtener destino en la misma Corporación en la que se cometieron las faltas, en el plazo que se fije, con el máximo de:",
     "options": [
       "Seis años para las faltas muy graves y tres años para las faltas graves",
+      "Ocho años para las faltas muy graves y cuatro años para las faltas graves",
       "Tres años para las faltas muy graves y un año para las faltas graves",
       "Diez años para las faltas muy graves y cinco años para las faltas graves"
     ],
@@ -6634,11 +6875,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [
   {
     "q": "La suspensión firme de funciones, con una duración máxima de seis años, implica la pérdida del puesto de trabajo cuando es superior a:",
     "options": [
+      "Cuatro meses",
       "Un año",
       "Tres meses",
       "Seis meses"
     ],
-    "correct": 2,
+    "correct": 3,
     "exp": "El art. 64.1.c) RD 128/2018 establece que la suspensión firme de funciones tiene una duración máxima de seis años e implica la pérdida del puesto de trabajo cuando es superior a seis meses.",
     "fuente": "Art. 64.1.c) RD 128/2018",
     "confianza": "alta"
@@ -6648,7 +6890,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [
     "options": [
       "Se entenderá concedida la autorización",
       "Se entenderá denegada la autorización",
-      "Deberá reiterarse la solicitud por otros diez días hábiles"
+      "Deberá reiterarse la solicitud por otros diez días hábiles",
+      "Se archivará el expediente disciplinario por caducidad"
     ],
     "correct": 0,
     "exp": "El art. 67.4.d) RD 128/2018 establece que, en los expedientes incoados por el Ministerio, el plazo para contestar a la solicitud de autorización de nombramiento de instructor es de diez días hábiles, entendiéndose concedida la autorización transcurrido dicho plazo sin pronunciamiento. La instrucción se efectúa por un funcionario de carrera del subgrupo A1 con conocimientos en la materia (art. 67.4.b).",
