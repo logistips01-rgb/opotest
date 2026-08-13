@@ -1,0 +1,576 @@
+[
+  {
+    "q": "Según el art. 54.1 TREBEP (principios de conducta), los empleados públicos tratarán con atención y respeto a...",
+    "options": [
+      "los ciudadanos, sus superiores y los restantes empleados públicos",
+      "los ciudadanos, los medios de comunicación y las entidades sindicales",
+      "los ciudadanos y las autoridades judiciales exclusivamente",
+      "sus superiores jerárquicos y los órganos de control interno"
+    ],
+    "correct": 0,
+    "exp": "El art. 54.1 dice que 'tratarán con atención y respeto a los ciudadanos, a sus superiores y a los restantes empleados públicos'.",
+    "fuente": "Art. 54.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado el texto vigente del art. 54.1 TREBEP: solo cita ciudadanos, superiores y demás empleados públicos; los medios de comunicación y entidades sindicales no figuran en el precepto."
+  },
+  {
+    "q": "El art. 54.2 TREBEP establece que el desempeño de las tareas del puesto de trabajo se realizará de forma diligente...",
+    "options": [
+      "con subordinación a los objetivos anuales del departamento",
+      "cumpliendo la jornada y el horario establecidos",
+      "conforme a las instrucciones específicas de cada usuario",
+      "conforme al calendario laboral aprobado por el ministerio competente"
+    ],
+    "correct": 1,
+    "exp": "El art. 54.2 dice que el desempeño 'se realizará de forma diligente y cumpliendo la jornada y el horario establecidos'.",
+    "fuente": "Art. 54.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado el art. 54.2 TREBEP: exige diligencia y cumplimiento de jornada y horario establecidos, sin mención a un calendario ministerial."
+  },
+  {
+    "q": "Según el art. 54.3 TREBEP, los empleados públicos obedecerán las instrucciones y órdenes profesionales de sus superiores, salvo que...",
+    "options": [
+      "sean contrarias a la política general del gobierno de turno",
+      "no estén motivadas por escrito",
+      "procedan de un órgano distinto al de su adscripción",
+      "constituyan una infracción manifiesta del ordenamiento jurídico"
+    ],
+    "correct": 3,
+    "exp": "El art. 54.3 dice que obedecerán las instrucciones de los superiores 'salvo que constituyan una infracción manifiesta del ordenamiento jurídico'.",
+    "fuente": "Art. 54.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado el art. 54.3 TREBEP: la única excepción a obedecer es que la orden constituya infracción manifiesta del ordenamiento jurídico, no una discrepancia política."
+  },
+  {
+    "q": "El art. 54.3 TREBEP indica que, cuando una orden constituya una infracción manifiesta del ordenamiento jurídico, el empleado público deberá...",
+    "options": [
+      "ponerla inmediatamente en conocimiento de los órganos de inspección procedentes",
+      "ejecutarla y reservarse la reclamación posterior",
+      "abstenerse de ejecutarla y reservarse la reclamación ante el Defensor del Pueblo",
+      "solicitar la ratificación por escrito antes de ejecutarla"
+    ],
+    "correct": 0,
+    "exp": "El art. 54.3 añade que, en ese caso, 'las pondrán inmediatamente en conocimiento de los órganos de inspección procedentes'.",
+    "fuente": "Art. 54.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado el art. 54.3 TREBEP: la reacción prevista es ponerlo en conocimiento de los órganos de inspección procedentes, no acudir al Defensor del Pueblo."
+  },
+  {
+    "q": "Según el art. 54.4 TREBEP, los empleados públicos informarán a los ciudadanos sobre...",
+    "options": [
+      "el contenido íntegro de los expedientes en tramitación de terceros",
+      "los datos personales de terceros contenidos en el expediente",
+      "aquellas materias o asuntos que tengan derecho a conocer",
+      "las deliberaciones internas de los órganos colegiados"
+    ],
+    "correct": 2,
+    "exp": "El art. 54.4 dice que 'informarán a los ciudadanos sobre aquellas materias o asuntos que tengan derecho a conocer, y facilitarán el ejercicio de sus derechos y el cumplimiento de sus obligaciones'.",
+    "fuente": "Art. 54.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado el art. 54.4 TREBEP: el deber de informar se limita a materias o asuntos que el ciudadano tenga derecho a conocer, no a datos personales de terceros."
+  },
+  {
+    "q": "El art. 54.5 TREBEP dispone que los empleados públicos administrarán los recursos y bienes públicos con...",
+    "options": [
+      "eficiencia normativa",
+      "discrecionalidad técnica",
+      "austeridad",
+      "prudencia presupuestaria"
+    ],
+    "correct": 2,
+    "exp": "El art. 54.5 dice que 'administrarán los recursos y bienes públicos con austeridad, y no utilizarán los mismos en provecho propio o de personas allegadas'.",
+    "fuente": "Art. 54.5 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado el art. 54.5 TREBEP: el término legal es 'austeridad'; 'prudencia presupuestaria' no aparece en el precepto."
+  },
+  {
+    "q": "Según el art. 54.5 TREBEP, además de administrar los recursos públicos con austeridad, los empleados públicos tendrán el deber de...",
+    "options": [
+      "someterlos a control previo de la Intervención General",
+      "velar por su conservación",
+      "reportar mensualmente su inventario",
+      "someterlos a auditoría externa anual"
+    ],
+    "correct": 1,
+    "exp": "El art. 54.5 añade que 'tendrán, asimismo, el deber de velar por su conservación'.",
+    "fuente": "Art. 54.5 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado el art. 54.5 TREBEP: el deber adicional citado es velar por la conservación de los recursos y bienes, no someterlos a control de la Intervención General."
+  },
+  {
+    "q": "El art. 54.6 TREBEP establece que se rechazará cualquier regalo, favor o servicio en condiciones ventajosas que vaya más allá de...",
+    "options": [
+      "los límites fijados por el código presupuestario",
+      "los usos habituales, sociales y de cortesía",
+      "los límites establecidos por convenio colectivo",
+      "el valor de veinte euros anuales"
+    ],
+    "correct": 1,
+    "exp": "El art. 54.6 dice que 'se rechazará cualquier regalo, favor o servicio en condiciones ventajosas que vaya más allá de los usos habituales, sociales y de cortesía, sin perjuicio de lo establecido en el Código Penal'.",
+    "fuente": "Art. 54.6 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado el art. 54.6 TREBEP: el límite legal son los usos habituales, sociales y de cortesía, no lo fijado por convenio colectivo."
+  },
+  {
+    "q": "Según el art. 54.7 TREBEP, los empleados públicos garantizarán la constancia y permanencia de los documentos para...",
+    "options": [
+      "su publicación íntegra en el portal de transparencia",
+      "su conservación en soporte electrónico certificado",
+      "su custodia exclusiva en el archivo central",
+      "su transmisión y entrega a sus posteriores responsables"
+    ],
+    "correct": 3,
+    "exp": "El art. 54.7 dice que 'garantizarán la constancia y permanencia de los documentos para su transmisión y entrega a sus posteriores responsables'.",
+    "fuente": "Art. 54.7 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado el art. 54.7 TREBEP: la finalidad legal es la transmisión y entrega a los posteriores responsables, no la certificación electrónica del soporte."
+  },
+  {
+    "q": "El art. 54.8 TREBEP obliga a los empleados públicos a mantener actualizada su...",
+    "options": [
+      "formación y cualificación",
+      "adscripción funcional",
+      "carrera horizontal",
+      "capacitación idiomática oficial"
+    ],
+    "correct": 0,
+    "exp": "El art. 54.8 dice que 'mantendrán actualizada su formación y cualificación'.",
+    "fuente": "Art. 54.8 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado el art. 54.8 TREBEP: el deber es mantener actualizada la formación y cualificación en general, no específicamente la capacitación idiomática."
+  },
+  {
+    "q": "Según el art. 54.9 TREBEP, los empleados públicos observarán las normas sobre...",
+    "options": [
+      "igualdad de género en el trabajo",
+      "protección de datos personales",
+      "seguridad y salud laboral",
+      "contratación administrativa"
+    ],
+    "correct": 2,
+    "exp": "El art. 54.9 dice que 'observarán las normas sobre seguridad y salud laboral'.",
+    "fuente": "Art. 54.9 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado el art. 54.9 TREBEP: la materia citada es seguridad y salud laboral, no igualdad de género."
+  },
+  {
+    "q": "El art. 54.10 TREBEP establece que los empleados públicos pondrán en conocimiento de sus superiores o de los órganos competentes...",
+    "options": [
+      "las incidencias de asistencia de sus compañeros",
+      "los expedientes disciplinarios en curso",
+      "las quejas presentadas por los ciudadanos ante la unidad",
+      "las propuestas que consideren adecuadas para mejorar el desarrollo de las funciones de la unidad"
+    ],
+    "correct": 3,
+    "exp": "El art. 54.10 dice que 'pondrán en conocimiento de sus superiores o de los órganos competentes las propuestas que consideren adecuadas para mejorar el desarrollo de las funciones de la unidad en la que estén destinados'.",
+    "fuente": "Art. 54.10 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado el art. 54.10 TREBEP: el deber es comunicar propuestas de mejora del servicio, no quejas ciudadanas."
+  },
+  {
+    "q": "Según el art. 54.10 TREBEP, a los efectos de recibir propuestas de mejora, se podrá prever la creación de...",
+    "options": [
+      "la instancia adecuada competente para centralizar la recepción de las propuestas",
+      "un comité de innovación integrado por representantes sindicales",
+      "una comisión paritaria de seguimiento retributivo",
+      "un registro específico de sugerencias vinculado a la carrera profesional"
+    ],
+    "correct": 0,
+    "exp": "El art. 54.10 añade que 'se podrá prever la creación de la instancia adecuada competente para centralizar la recepción de las propuestas de los empleados públicos o administrados que sirvan para mejorar la eficacia en el servicio'.",
+    "fuente": "Art. 54.10 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado el art. 54.10 TREBEP: prevé la instancia adecuada para centralizar propuestas, no un comité sindical de innovación."
+  },
+  {
+    "q": "El art. 54.11 TREBEP garantiza la atención al ciudadano...",
+    "options": [
+      "exclusivamente en la lengua oficial del Estado",
+      "en la lengua que lo solicite siempre que sea oficial en el territorio",
+      "en la lengua que determine el reglamento interno de cada Administración",
+      "en cualquier lengua oficial de la Unión Europea que el ciudadano solicite"
+    ],
+    "correct": 1,
+    "exp": "El art. 54.11 dice que 'garantizarán la atención al ciudadano en la lengua que lo solicite siempre que sea oficial en el territorio'.",
+    "fuente": "Art. 54.11 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado el art. 54.11 TREBEP: la garantía se limita a la lengua oficial en el territorio, no a cualquier lengua oficial de la UE."
+  },
+  {
+    "q": "¿Cuál de los siguientes es un principio de CONDUCTA (art. 54) y no un principio ÉTICO (art. 53) del TREBEP?",
+    "options": [
+      "No influir en la agilización o resolución de un trámite sin justa causa",
+      "Guardar secreto de las materias clasificadas",
+      "Ajustar la actuación a los principios de lealtad y buena fe",
+      "Tratar con atención y respeto a los ciudadanos y compañeros"
+    ],
+    "correct": 3,
+    "exp": "'Tratar con atención y respeto' es un principio de conducta del art. 54.1. 'Guardar secreto' (art. 53.12) y 'lealtad y buena fe' (art. 53.3) son principios éticos del art. 53.",
+    "fuente": "Art. 54.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 53.9 (principio ético) vs art. 54.1 (principio de conducta): la opción añadida es un principio ético, no de conducta, por lo que no compite con la respuesta correcta."
+  },
+  {
+    "q": "¿Cuál de las siguientes obligaciones corresponde a los principios de conducta regulados en el art. 54 TREBEP?",
+    "options": [
+      "Rechazar cualquier regalo o favor en condiciones ventajosas",
+      "Abstenerse en los asuntos en que tengan un interés personal",
+      "No aceptar trato de favor o privilegio injustificado por parte de particulares",
+      "Actuar conforme a los principios de eficacia, economía y eficiencia"
+    ],
+    "correct": 0,
+    "exp": "Rechazar regalos o favores ventajosos es un principio de conducta (art. 54.6). Abstenerse por interés personal (art. 53.5) y actuar con eficacia, economía y eficiencia (art. 53.8) son principios éticos.",
+    "fuente": "Art. 54.6 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado art. 53.7 (principio ético) vs art. 54.6 (principio de conducta): la opción añadida es ética, distinta de la conducta correcta ya fijada."
+  },
+  {
+    "q": "Según el art. 55.1 del TREBEP, todos los ciudadanos tienen derecho al acceso al empleo público de acuerdo con los principios constitucionales de:",
+    "options": [
+      "Igualdad, mérito y capacidad",
+      "Concurso de méritos exclusivamente",
+      "Antigüedad y confianza política",
+      "Nacionalidad exclusivamente"
+    ],
+    "correct": 0,
+    "exp": "Art. 55.1 TREBEP: 'Todos los ciudadanos tienen derecho al acceso al empleo público de acuerdo con los principios constitucionales de igualdad, mérito y capacidad.'",
+    "notaConversion": "Verificado el art. 55.1 TREBEP: los principios constitucionales citados son igualdad, mérito y capacidad; 'concurso de méritos exclusivamente' no es uno de ellos."
+  },
+  {
+    "q": "Según el art. 55.2 del TREBEP, las Administraciones Públicas seleccionarán a su personal, entre otros principios, con arreglo a los de:",
+    "options": [
+      "Publicidad, transparencia y objetividad",
+      "Discrecionalidad y confidencialidad absoluta",
+      "Antigüedad exclusiva del solicitante",
+      "Proporcionalidad retributiva y jerarquía funcional"
+    ],
+    "correct": 0,
+    "exp": "Art. 55.2 TREBEP: las Administraciones Públicas seleccionan a su personal con arreglo a los principios de publicidad, transparencia, objetividad e igualdad de oportunidades, entre otros.",
+    "notaConversion": "Verificado el art. 55.2 TREBEP (letras a-f): no existe principio de 'proporcionalidad retributiva y jerarquía funcional' entre los enumerados."
+  },
+  {
+    "q": "¿Qué relación existe entre el principio de mérito y capacidad (art. 55 TREBEP) y la reserva de plazas para personas con discapacidad (art. 59 TREBEP)?",
+    "options": [
+      "La reserva de plazas del art. 59 solo se aplica en el ámbito de la Administración General del Estado",
+      "La reserva de plazas es una medida de discriminación positiva compatible con el principio de mérito y capacidad, garantizando la igualdad real de oportunidades en el acceso al empleo público",
+      "La reserva de plazas contradice y anula por completo el principio de mérito y capacidad",
+      "El art. 59 TREBEP deroga tácitamente el principio general del art. 55"
+    ],
+    "correct": 1,
+    "exp": "La reserva de plazas para personas con discapacidad constituye una medida de discriminación positiva, compatible con el principio de mérito y capacidad, orientada a garantizar la igualdad real de oportunidades en el acceso al empleo público.",
+    "notaConversion": "Verificado el art. 59.1 TREBEP: la reserva de cupo se aplica a las ofertas de empleo público de todas las Administraciones Públicas, no solo a la AGE."
+  },
+  {
+    "q": "Según el art. 56.1 del TREBEP, para participar en los procesos selectivos, entre otros requisitos, se exige tener la nacionalidad española o cumplir:",
+    "options": [
+      "Los requisitos previstos para el acceso al empleo público de nacionales de otros Estados",
+      "Únicamente el requisito de residencia continuada de diez años",
+      "Un permiso de residencia y trabajo vigente de cualquier tipo",
+      "Solo haber prestado servicio militar previo"
+    ],
+    "correct": 0,
+    "exp": "Art. 56.1 a) TREBEP: se exige poseer la nacionalidad española, sin perjuicio de lo dispuesto en el art. 57 sobre acceso de nacionales de otros Estados.",
+    "notaConversion": "Verificado el art. 56.1 a) y 57 TREBEP: la excepción a la nacionalidad española remite a los requisitos de acceso de nacionales de otros Estados, no a un simple permiso de residencia y trabajo."
+  },
+  {
+    "q": "Según el art. 56.1 del TREBEP, entre los requisitos generales para participar en procesos selectivos se exige poseer la capacidad funcional para el desempeño de las tareas, y no haber sido separado mediante:",
+    "options": [
+      "Expediente disciplinario del servicio de cualquier Administración Pública",
+      "Un despido disciplinario en el sector privado",
+      "Un simple acuerdo verbal sin ningún expediente",
+      "Una excedencia voluntaria por interés particular"
+    ],
+    "correct": 0,
+    "exp": "Art. 56.1 d) TREBEP: se exige no haber sido separado mediante expediente disciplinario del servicio de cualquiera de las Administraciones Públicas.",
+    "notaConversion": "Verificado el art. 56.1 d) TREBEP: la causa de exclusión es la separación mediante expediente disciplinario del servicio de una Administración Pública, no un despido en el sector privado."
+  },
+  {
+    "q": "Según el art. 56.1 c) del TREBEP, se exige tener cumplida la edad mínima de:",
+    "options": [
+      "Dieciséis años",
+      "Dieciocho años en todo caso, sin excepción",
+      "Veinticinco años",
+      "Diecinueve años"
+    ],
+    "correct": 0,
+    "exp": "Art. 56.1 c) TREBEP: se exige tener cumplidos dieciséis años y no exceder, en su caso, de la edad máxima de jubilación forzosa.",
+    "notaConversion": "Verificado el art. 56.1 c) TREBEP: la edad mínima exigida es dieciséis años; diecinueve años no coincide con el precepto."
+  },
+  {
+    "q": "Según el art. 57.1 del TREBEP, tienen acceso al empleo público, en igualdad de condiciones que los españoles, los nacionales de:",
+    "options": [
+      "Los países de la Commonwealth británica",
+      "Los Estados miembros de la Unión Europea",
+      "Cualquier país sin ninguna limitación",
+      "Únicamente países con convenio bilateral vigente"
+    ],
+    "correct": 1,
+    "exp": "Art. 57.1 TREBEP: tienen acceso, en igualdad de condiciones que los españoles, los nacionales de los Estados miembros de la Unión Europea.",
+    "notaConversion": "Verificado el art. 57.1 TREBEP: el acceso en igualdad de condiciones se reconoce a los nacionales de Estados miembros de la Unión Europea, no a los de la Commonwealth."
+  },
+  {
+    "q": "Según el art. 57.4 del TREBEP, por razones de interés general, puede eximirse del requisito de la nacionalidad para el acceso a la condición de personal funcionario, salvo para aquellos que impliquen participación directa o indirecta en el ejercicio de potestades públicas, mediante:",
+    "options": [
+      "Ley de las Cortes Generales o de las Asambleas Legislativas de las Comunidades Autónomas",
+      "Decreto del Gobierno sin más trámite",
+      "Convenio internacional ratificado por España sin necesidad de ley",
+      "Resolución del Secretario de Estado de Función Pública"
+    ],
+    "correct": 0,
+    "exp": "Art. 57.4 TREBEP: la exención del requisito de nacionalidad, en su caso, se realiza mediante ley de las Cortes Generales o de las Asambleas Legislativas de las Comunidades Autónomas.",
+    "notaConversion": "Verificado el art. 57 TREBEP (exención de nacionalidad): exige ley de las Cortes Generales o de las Asambleas Legislativas de las Comunidades Autónomas, no un convenio internacional sin ley."
+  },
+  {
+    "q": "Según el art. 59.1 del TREBEP, en las ofertas de empleo público se reservará un cupo no inferior al:",
+    "options": [
+      "Siete por ciento de las vacantes para personas con discapacidad",
+      "Cinco por ciento de las vacantes",
+      "Tres por ciento de las vacantes",
+      "Quince por ciento de las vacantes"
+    ],
+    "correct": 0,
+    "exp": "Art. 59.1 TREBEP: se reservará un cupo no inferior al siete por ciento de las vacantes para ser cubiertas entre personas con discapacidad.",
+    "notaConversion": "Verificado el art. 59.1 TREBEP: el cupo mínimo reservado es del siete por ciento; cinco por ciento no corresponde al precepto."
+  },
+  {
+    "q": "Según el art. 59.1 del TREBEP, de ese cupo del siete por ciento, al menos el dos por ciento de las plazas ofertadas debe reservarse para personas que acrediten discapacidad:",
+    "options": [
+      "Intelectual",
+      "Física exclusivamente",
+      "Sensorial auditiva únicamente",
+      "discapacidad visual"
+    ],
+    "correct": 0,
+    "exp": "Art. 59.1 TREBEP: al menos el dos por ciento de las plazas ofertadas debe reservarse para personas que acrediten discapacidad intelectual, y el resto para cualquier otro tipo de discapacidad.",
+    "notaConversion": "Verificado el art. 59.1 TREBEP: el dos por ciento específico se reserva para discapacidad intelectual; la discapacidad visual no tiene una subreserva propia en el precepto."
+  },
+  {
+    "q": "Según el art. 60.1 del TREBEP, los órganos de selección deben ajustar su actuación a los principios de imparcialidad y profesionalidad, y tender a la paridad entre:",
+    "options": [
+      "Personal funcionario y personal directivo",
+      "Mujeres y hombres",
+      "Funcionarios de carrera e interinos",
+      "Personal laboral y personal eventual"
+    ],
+    "correct": 1,
+    "exp": "Art. 60.1 TREBEP: los órganos de selección serán colegiados y su composición deberá ajustarse a los principios de imparcialidad y profesionalidad, tendiendo a la paridad entre mujer y hombre.",
+    "notaConversion": "Verificado el art. 60.1 TREBEP: la paridad exigida es entre mujer y hombre, no entre funcionario y personal directivo."
+  },
+  {
+    "q": "Según el art. 61.1 del TREBEP, los procesos selectivos deben tener carácter abierto y garantizar la libre concurrencia, sin perjuicio de lo establecido para la promoción interna y las medidas de:",
+    "options": [
+      "Discriminación positiva previstas en el propio Estatuto",
+      "Exclusión de personas con discapacidad",
+      "Movilidad interadministrativa prevista en la normativa de función pública",
+      "Reserva exclusiva para personal eventual"
+    ],
+    "correct": 0,
+    "exp": "Art. 61.1 TREBEP: los procesos selectivos tendrán carácter abierto y garantizarán la libre concurrencia, sin perjuicio de lo establecido para la promoción interna y de las medidas de discriminación positiva previstas en este Estatuto.",
+    "notaConversion": "Verificado el art. 61.1 TREBEP: la excepción al carácter abierto se limita a la promoción interna y a las medidas de discriminación positiva del Estatuto, no a la movilidad interadministrativa."
+  },
+  {
+    "q": "Según el art. 61.2 del TREBEP, los sistemas selectivos de funcionarios de carrera serán, con carácter general, la oposición o el:",
+    "options": [
+      "Concurso-oposición, con las fases que se establezcan reglamentariamente",
+      "Concurso exclusivo de méritos, como sistema general",
+      "Sorteo público entre los candidatos presentados",
+      "Nombramiento directo por la autoridad competente"
+    ],
+    "correct": 0,
+    "exp": "Art. 61.2 TREBEP: los sistemas selectivos de funcionarios de carrera serán, con carácter general, la oposición o el concurso-oposición, que deberán incluir, en todo caso, una o varias pruebas.",
+    "notaConversion": "Verificado el art. 61 TREBEP: el concurso de méritos solo puede aplicarse con carácter excepcional y en virtud de ley, no como sistema general."
+  },
+  {
+    "q": "Según el art. 62.1 del TREBEP, la condición de funcionario de carrera se adquiere por el cumplimiento sucesivo de los requisitos de superar el proceso selectivo, ser nombrado por el órgano competente, y además:",
+    "options": [
+      "Prestar juramento o promesa y acatamiento a la Constitución y al resto del ordenamiento jurídico, y tomar posesión dentro del plazo establecido",
+      "Superar un examen médico adicional posterior al nombramiento",
+      "Obtener la aprobación expresa de una autoridad distinta a la que efectuó el nombramiento",
+      "Superar un período de prácticas tutorizado de seis meses"
+    ],
+    "correct": 0,
+    "exp": "Art. 62.1 TREBEP: la condición de funcionario de carrera se adquiere sucesivamente por la superación del proceso selectivo, el nombramiento por el órgano competente, la prestación de juramento o promesa de acatamiento a la Constitución y al resto del ordenamiento jurídico, y la toma de posesión dentro del plazo establecido.",
+    "notaConversion": "Verificado el art. 62.1 TREBEP: los requisitos tasados son superación del proceso selectivo, nombramiento, acatamiento y toma de posesión; no se exige un período de prácticas tutorizado."
+  },
+  {
+    "q": "¿Cuál de las siguientes NO es una causa de pérdida de la condición de funcionario de carrera según el art. 63 TREBEP?",
+    "options": [
+      "La sanción disciplinaria de separación del servicio con carácter firme",
+      "El traslado voluntario a otra Administración Pública",
+      "La jubilación total del funcionario",
+      "La pérdida de la nacionalidad"
+    ],
+    "correct": 1,
+    "exp": "El art. 63 enumera taxativamente las causas de pérdida de la condición de funcionario: renuncia, pérdida de nacionalidad, jubilación total, sanción disciplinaria de separación firme y pena de inhabilitación firme. El traslado a otra Administración no figura entre ellas.",
+    "fuente": "Art. 63 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado el art. 63 TREBEP (lista completa a-e: renuncia, pérdida de nacionalidad, jubilación total, sanción disciplinaria de separación firme, pena de inhabilitación firme): la opción añadida SÍ es una causa real (letra d), por lo que sigue siendo falsa como respuesta a 'cuál NO es causa' y no compite con la opción correcta."
+  },
+  {
+    "q": "¿Cuál de las siguientes es, según el art. 63 TREBEP, una causa de pérdida de la condición de funcionario de carrera?",
+    "options": [
+      "El traslado forzoso a otro puesto de trabajo",
+      "La renuncia a la condición de funcionario",
+      "La suspensión provisional de funciones por más de seis meses",
+      "El pase a la situación de excedencia voluntaria"
+    ],
+    "correct": 1,
+    "exp": "El art. 63.a) incluye la renuncia entre las causas de pérdida de la condición de funcionario de carrera.",
+    "fuente": "Art. 63.a) TREBEP",
+    "confianza": "alta",
+    "notaConversion": "Verificado el art. 63 TREBEP (lista completa a-e): la suspensión provisional de funciones no figura entre las causas de pérdida de la condición de funcionario."
+  },
+  {
+    "q": "Para que la sanción disciplinaria de separación del servicio constituya causa de pérdida de la condición de funcionario, el art. 63.d) TREBEP exige que...",
+    "options": [
+      "sea propuesta por el órgano instructor del expediente",
+      "sea ratificada por el pleno del órgano de gobierno",
+      "haya sido notificada al interesado en el plazo de un mes",
+      "tenga carácter firme"
+    ],
+    "correct": 3,
+    "exp": "El art. 63.d) exige que la sanción disciplinaria de separación del servicio tuviere carácter firme.",
+    "fuente": "Art. 63.d) TREBEP",
+    "confianza": "alta",
+    "notaConversion": "Verificado el art. 63.d) TREBEP: el único requisito exigido es que la sanción tenga carácter firme, no la ratificación por un pleno."
+  },
+  {
+    "q": "Según el art. 63.e) TREBEP, la pena principal o accesoria de inhabilitación absoluta o especial para cargo público es causa de pérdida de la condición de funcionario cuando...",
+    "options": [
+      "tenga carácter firme",
+      "se haya dictado auto de apertura de juicio oral",
+      "el funcionario esté en situación de suspensión provisional",
+      "haya sido comunicada al Registro Central de Penados"
+    ],
+    "correct": 0,
+    "exp": "El art. 63.e) exige que la pena de inhabilitación tuviere carácter firme.",
+    "fuente": "Art. 63.e) TREBEP",
+    "confianza": "alta",
+    "notaConversion": "Verificado el art. 63.e) TREBEP: el único requisito exigido es que la pena tenga carácter firme, no su comunicación a un registro de penados."
+  },
+  {
+    "q": "El art. 63 TREBEP enumera un total de... causas de pérdida de la condición de funcionario de carrera.",
+    "options": [
+      "seis",
+      "tres",
+      "cuatro",
+      "cinco"
+    ],
+    "correct": 3,
+    "exp": "El art. 63 enumera cinco causas, identificadas con las letras a) a e): renuncia, pérdida de nacionalidad, jubilación total, sanción disciplinaria de separación firme y pena de inhabilitación firme.",
+    "fuente": "Art. 63 TREBEP",
+    "confianza": "alta",
+    "notaConversion": "Verificado el art. 63 TREBEP: enumera cinco causas (letras a-e); 'seis' no corresponde al número real."
+  },
+  {
+    "q": "Entre las causas de pérdida de la condición de funcionario de carrera, el art. 63.c) TREBEP recoge...",
+    "options": [
+      "la jubilación total del funcionario",
+      "la jubilación parcial del funcionario",
+      "la excedencia por cuidado de familiares",
+      "la incapacidad temporal del funcionario"
+    ],
+    "correct": 0,
+    "exp": "El art. 63.c) recoge como causa de pérdida la jubilación total del funcionario.",
+    "fuente": "Art. 63.c) TREBEP",
+    "confianza": "alta",
+    "notaConversion": "Verificado el art. 63.c) TREBEP (y art. 63 en general): la excedencia por cuidado de familiares no figura como causa de pérdida de la condición de funcionario."
+  },
+  {
+    "q": "¿Cuál de las siguientes causas de pérdida de la condición de funcionario exige, según el TREBEP, que el acto administrativo o judicial correspondiente tenga carácter firme?",
+    "options": [
+      "La renuncia a la condición de funcionario",
+      "La pérdida de la nacionalidad",
+      "La sanción disciplinaria de separación del servicio",
+      "La jubilación voluntaria"
+    ],
+    "correct": 2,
+    "exp": "El art. 63.d) exige que la sanción disciplinaria de separación del servicio tuviere carácter firme; ni la renuncia ni la jubilación voluntaria requieren firmeza de resolución alguna.",
+    "fuente": "Art. 63.d) TREBEP",
+    "confianza": "alta",
+    "notaConversion": "Verificado el art. 63 TREBEP: de las cinco causas, solo la sanción disciplinaria de separación (d) y la pena de inhabilitación (e) exigen carácter firme; la pérdida de nacionalidad (b) no lo exige, por lo que la opción añadida sigue siendo falsa y no compite con la respuesta correcta."
+  },
+  {
+    "q": "La renuncia voluntaria a la condición de funcionario, según el art. 64.1 TREBEP, habrá de...",
+    "options": [
+      "ser aprobada por el Pleno de la Corporación en todo caso",
+      "ser manifestada por escrito y aceptada expresamente por la Administración, salvo excepción",
+      "comunicarse verbalmente al superior jerárquico y ratificarse en el plazo de quince días",
+      "ser aprobada por Decreto del órgano superior jerárquico"
+    ],
+    "correct": 1,
+    "exp": "El art. 64.1 dispone que la renuncia habrá de ser manifestada por escrito y aceptada expresamente por la Administración, salvo lo dispuesto en el apartado siguiente.",
+    "fuente": "Art. 64.1 TREBEP",
+    "confianza": "alta",
+    "notaConversion": "Verificado el art. 64.1 TREBEP: la renuncia debe ser manifestada por escrito y aceptada expresamente por la Administración, no aprobada por Decreto."
+  },
+  {
+    "q": "¿En qué caso, conforme al art. 64.2 TREBEP, NO podrá ser aceptada la renuncia de un funcionario?",
+    "options": [
+      "Cuando no haya transcurrido el plazo de preaviso de quince días",
+      "Cuando el funcionario lleve menos de un año en el puesto",
+      "Cuando la renuncia se presente en periodo vacacional",
+      "Cuando el funcionario esté sujeto a expediente disciplinario o exista auto de procesamiento o de apertura de juicio oral por delito"
+    ],
+    "correct": 3,
+    "exp": "El art. 64.2 impide aceptar la renuncia cuando el funcionario esté sujeto a expediente disciplinario o se haya dictado en su contra auto de procesamiento o de apertura de juicio oral por delito.",
+    "fuente": "Art. 64.2 TREBEP",
+    "confianza": "alta",
+    "notaConversion": "Verificado el art. 64.2 TREBEP: el único impedimento legal es estar sujeto a expediente disciplinario o tener auto de procesamiento/apertura de juicio oral por delito; no existe un plazo de preaviso de quince días."
+  },
+  {
+    "q": "Según el art. 64.3 TREBEP, la renuncia a la condición de funcionario...",
+    "options": [
+      "no inhabilita para ingresar de nuevo en la Administración Pública mediante el procedimiento de selección establecido",
+      "inhabilita de forma permanente para volver a ingresar en la Administración Pública",
+      "solo permite el reingreso mediante readmisión directa sin proceso selectivo",
+      "solo permite el reingreso transcurridos cinco años"
+    ],
+    "correct": 0,
+    "exp": "El art. 64.3 aclara que la renuncia no inhabilita para ingresar de nuevo en la Administración Pública a través del procedimiento de selección establecido.",
+    "fuente": "Art. 64.3 TREBEP",
+    "confianza": "alta",
+    "notaConversion": "Verificado el art. 64.3 TREBEP: la renuncia no inhabilita para ingresar de nuevo a través del procedimiento de selección establecido, no mediante readmisión directa."
+  },
+  {
+    "q": "Salvo el supuesto de imposibilidad legal del art. 64.2 TREBEP, la renuncia voluntaria del funcionario debe ser...",
+    "options": [
+      "aceptada expresamente por la Administración",
+      "aprobada por silencio administrativo positivo",
+      "comunicada al Boletín Oficial sin necesidad de aceptación",
+      "ratificada ante notario"
+    ],
+    "correct": 0,
+    "exp": "El art. 64.1 exige que la renuncia sea aceptada expresamente por la Administración, salvo lo dispuesto en el apartado siguiente.",
+    "fuente": "Art. 64.1 TREBEP",
+    "confianza": "alta",
+    "notaConversion": "Verificado el art. 64.1 TREBEP: exige aceptación expresa de la Administración, lo que excluye el silencio administrativo positivo."
+  },
+  {
+    "q": "Según el art. 64.2 TREBEP, no podrá aceptarse la renuncia del funcionario contra el que se haya dictado...",
+    "options": [
+      "sentencia firme absolutoria",
+      "auto de procesamiento o de apertura de juicio oral por la comisión de un delito",
+      "resolución de archivo de diligencias",
+      "denuncia policial en trámite de investigación"
+    ],
+    "correct": 1,
+    "exp": "El art. 64.2 impide aceptar la renuncia cuando se haya dictado contra el funcionario auto de procesamiento o de apertura de juicio oral por la comisión de algún delito.",
+    "fuente": "Art. 64.2 TREBEP",
+    "confianza": "alta",
+    "notaConversion": "Verificado el art. 64.2 TREBEP: el impedimento legal exige auto de procesamiento o de apertura de juicio oral, no una simple denuncia policial en investigación."
+  },
+  {
+    "q": "La pérdida de la nacionalidad española, según el art. 65 TREBEP, determina la pérdida de la condición de funcionario salvo que...",
+    "options": [
+      "el funcionario recupere la nacionalidad española en el plazo de un año",
+      "el funcionario acredite diez años de servicios efectivos",
+      "simultáneamente se adquiera la nacionalidad de otro de los Estados a que se refiere el precepto",
+      "el interesado presente recurso de alzada en el plazo de un mes"
+    ],
+    "correct": 2,
+    "exp": "El art. 65 exceptúa la pérdida de la condición de funcionario cuando simultáneamente se adquiera la nacionalidad de alguno de los Estados a que se refiere el precepto.",
+    "fuente": "Art. 65 TREBEP",
+    "confianza": "alta",
+    "notaConversion": "Verificado el art. 65 TREBEP: la única excepción prevista es adquirir simultáneamente la nacionalidad de otro Estado citado en el precepto, no recuperar la nacionalidad española en un año."
+  }
+]

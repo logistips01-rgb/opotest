@@ -1,0 +1,604 @@
+[
+  {
+    "q": "Según el art. 30.2 del TREBEP, quienes ejerciten el derecho de huelga:",
+    "options": [
+      "Devengarán íntegramente sus retribuciones básicas durante la huelga",
+      "Percibirán únicamente las retribuciones complementarias correspondientes al tiempo de huelga",
+      "Percibirán solo el sueldo, pero no los trienios",
+      "No devengarán ni percibirán las retribuciones correspondientes al tiempo en que hayan permanecido en esa situación"
+    ],
+    "correct": 3,
+    "exp": "El art. 30.2 dispone que quienes ejerzan el derecho de huelga no devengarán ni percibirán las retribuciones del tiempo de huelga.",
+    "fuente": "Art. 30.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 30.2 TREBEP (texto vigente): la norma dice que no se devengan NI se perciben las retribuciones del tiempo de huelga, sin distinguir básicas/complementarias; opción añadida es falsa."
+  },
+  {
+    "q": "Según el art. 30.2 del TREBEP, la deducción de haberes que se efectúe por el ejercicio del derecho de huelga:",
+    "options": [
+      "No tendrá carácter de sanción",
+      "Debe ser acordada expresamente por el órgano de gobierno de la Administración en cada caso",
+      "Tendrá siempre la consideración de sanción leve",
+      "Requerirá la apertura de expediente disciplinario previo"
+    ],
+    "correct": 0,
+    "exp": "El art. 30.2 precisa que esa deducción de haberes no tiene carácter de sanción.",
+    "fuente": "Art. 30.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 30.2 TREBEP: la deducción por huelga opera sin necesidad de acuerdo expreso del órgano de gobierno; el texto solo aclara que no tiene carácter de sanción ni afecta a prestaciones sociales."
+  },
+  {
+    "q": "Según el art. 30.2 del TREBEP, la deducción de haberes por el ejercicio del derecho de huelga:",
+    "options": [
+      "Conlleva la baja temporal en el régimen de Clases Pasivas mientras dure la huelga",
+      "Afecta proporcionalmente al régimen de prestaciones sociales",
+      "No afecta al régimen respectivo de las prestaciones sociales",
+      "Suspende automáticamente el alta en Seguridad Social"
+    ],
+    "correct": 2,
+    "exp": "El art. 30.2 garantiza que dicha deducción no afecta al régimen respectivo de las prestaciones sociales del empleado.",
+    "fuente": "Art. 30.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 30.2 TREBEP: el texto establece expresamente que la deducción NO afecta al régimen respectivo de las prestaciones sociales; no hay baja en Clases Pasivas."
+  },
+  {
+    "q": "¿Qué artículo del TREBEP lleva por título 'Deducción de retribuciones'?",
+    "options": [
+      "Artículo 22",
+      "Artículo 33",
+      "Artículo 25",
+      "Artículo 30"
+    ],
+    "correct": 3,
+    "exp": "El título 'Deducción de retribuciones' corresponde al artículo 30 del TREBEP.",
+    "fuente": "Art. 30 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en el índice/cuerpo del TREBEP: el título 'Deducción de retribuciones' corresponde al art. 30; el art. 33 se titula 'Negociación colectiva'."
+  },
+  {
+    "q": "¿Cuántos apartados numerados contiene el artículo 30 del TREBEP ('Deducción de retribuciones')?",
+    "options": [
+      "Cinco",
+      "Tres",
+      "Cuatro",
+      "Dos"
+    ],
+    "correct": 3,
+    "exp": "El artículo 30 se estructura en dos apartados: el 30.1 (deducción proporcional de haberes) y el 30.2 (deducción por huelga).",
+    "fuente": "Art. 30 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en el texto del art. 30 TREBEP: solo contiene dos apartados numerados (30.1 y 30.2)."
+  },
+  {
+    "q": "Según el artículo 31.1 del TREBEP, el derecho a la negociación colectiva, representación y participación institucional que se reconoce a los empleados públicos tiene como finalidad:",
+    "options": [
+      "La determinación de sus condiciones de trabajo.",
+      "La fijación unilateral de la relación de puestos de trabajo de cada Administración.",
+      "La fijación de las cuantías retributivas globales del conjunto de las Administraciones Públicas.",
+      "La elección directa de los titulares de los órganos directivos de la Administración."
+    ],
+    "correct": 0,
+    "exp": "El art. 31.1 TREBEP reconoce a los empleados públicos el derecho a la negociación colectiva, representación y participación institucional para la determinación de sus condiciones de trabajo.",
+    "fuente": "Art. 31.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 31.1 TREBEP: la finalidad reconocida es la determinación de condiciones de trabajo; la fijación retributiva global corresponde a la Mesa General de Negociación (art. 36.2), no es la finalidad genérica del art. 31.1."
+  },
+  {
+    "q": "El artículo 31.2 TREBEP define la «negociación colectiva», a los efectos de esta ley, como:",
+    "options": [
+      "El derecho a suscribir convenios colectivos con eficacia general para todo el personal, funcionario y laboral, del conjunto de las Administraciones Públicas.",
+      "El derecho a negociar la determinación de condiciones de trabajo de los empleados de la Administración Pública.",
+      "La facultad de las organizaciones sindicales de vetar las decisiones de organización de cada Administración Pública.",
+      "El derecho a concertar convenios colectivos con fuerza de ley entre el Estado y las comunidades autónomas."
+    ],
+    "correct": 1,
+    "exp": "El art. 31.2 TREBEP define la negociación colectiva, a los efectos de la ley, como el derecho a negociar la determinación de condiciones de trabajo de los empleados de la Administración Pública.",
+    "fuente": "Art. 31.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 31.2 TREBEP: la negociación colectiva se define como el derecho a negociar condiciones de trabajo de los empleados públicos, no como convenios con fuerza de ley entre Administraciones."
+  },
+  {
+    "q": "Conforme al artículo 31.3 TREBEP, por «representación», a los efectos de esta ley, se entiende:",
+    "options": [
+      "El derecho de cada empleado público a ser recibido individualmente por el titular del órgano de personal.",
+      "El derecho de cada funcionario a formar parte simultáneamente de varias Juntas de Personal.",
+      "La facultad de las organizaciones sindicales de designar directamente a los Delegados de Personal sin proceso electoral.",
+      "La facultad de elegir representantes y constituir órganos unitarios a través de los cuales se instrumente la interlocución entre las Administraciones Públicas y sus empleados."
+    ],
+    "correct": 3,
+    "exp": "El art. 31.3 TREBEP define la representación como la facultad de elegir representantes y constituir órganos unitarios de interlocución entre las Administraciones Públicas y sus empleados.",
+    "fuente": "Art. 31.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 31.3 TREBEP: la representación se define como la facultad de elegir representantes y constituir órganos unitarios de interlocución, no como un derecho individual de pertenencia múltiple."
+  },
+  {
+    "q": "Según el artículo 31.4 TREBEP, la «participación institucional» se entiende como el derecho a participar:",
+    "options": [
+      "A través de las organizaciones sindicales, en los órganos de control y seguimiento de las entidades u organismos que legalmente se determine.",
+      "A través de los partidos políticos, en la elaboración de los presupuestos de cada Administración Pública.",
+      "A través de los Delegados de Personal, en la elaboración de los anteproyectos de ley de función pública.",
+      "Directamente y a título individual, en los consejos de administración de las entidades públicas empresariales."
+    ],
+    "correct": 0,
+    "exp": "El art. 31.4 TREBEP define la participación institucional como el derecho a participar, a través de las organizaciones sindicales, en los órganos de control y seguimiento de las entidades u organismos que legalmente se determine.",
+    "fuente": "Art. 31.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 31.4 TREBEP: la participación institucional se ejerce a través de las organizaciones sindicales en órganos de control y seguimiento, no a través de Delegados de Personal en anteproyectos legislativos."
+  },
+  {
+    "q": "El artículo 31.6 TREBEP legitima para la interposición de recursos en vía administrativa y jurisdiccional contra las resoluciones de los órganos de selección:",
+    "options": [
+      "A los propios órganos de selección, de oficio, cuando detecten irregularidades en su actuación.",
+      "A cualquier ciudadano que acredite interés legítimo en el proceso selectivo.",
+      "A las organizaciones sindicales más representativas en el ámbito de la Función Pública.",
+      "Exclusivamente al Ministerio Fiscal, a instancia de los aspirantes perjudicados."
+    ],
+    "correct": 2,
+    "exp": "El art. 31.6 TREBEP legitima a las organizaciones sindicales más representativas en el ámbito de la Función Pública para recurrir en vía administrativa y jurisdiccional las resoluciones de los órganos de selección.",
+    "fuente": "Art. 31.6 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 31.6 TREBEP: la legitimación para recurrir corresponde a las organizaciones sindicales más representativas, no a los propios órganos de selección de oficio."
+  },
+  {
+    "q": "Según el artículo 32.1 TREBEP, la negociación colectiva, representación y participación de los empleados públicos con contrato laboral se rige por:",
+    "options": [
+      "Exclusivamente por las normas de este capítulo, sin remisión alguna a la legislación laboral común.",
+      "Los mismos Pactos y Acuerdos alcanzados para el personal funcionario, sin distinción alguna.",
+      "Los convenios colectivos sectoriales estatales, con exclusión de cualquier norma estatutaria.",
+      "La legislación laboral, sin perjuicio de los preceptos del capítulo que expresamente les son de aplicación."
+    ],
+    "correct": 3,
+    "exp": "El art. 32.1 TREBEP somete la negociación, representación y participación del personal laboral a la legislación laboral, sin perjuicio de los preceptos del capítulo que expresamente le sean de aplicación.",
+    "fuente": "Art. 32.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 32.1 TREBEP: el personal laboral se rige por la legislación laboral, sin perjuicio de los preceptos del capítulo que expresamente le sean de aplicación; no se remite sin más a los Pactos y Acuerdos del personal funcionario."
+  },
+  {
+    "q": "De acuerdo con el artículo 32.2 TREBEP, el cumplimiento de los convenios colectivos y acuerdos que afecten al personal laboral puede ser suspendido o modificado por los órganos de gobierno de las Administraciones Públicas:",
+    "options": [
+      "Excepcionalmente y por causa grave de interés público derivada de una alteración sustancial de las circunstancias económicas, en la medida estrictamente necesaria.",
+      "En cualquier momento y sin necesidad de motivación, mediante simple resolución del órgano de personal competente.",
+      "Únicamente cuando así lo solicite la mayoría de las organizaciones sindicales firmantes.",
+      "Cuando así se determine en la Ley de Presupuestos Generales del Estado de cada ejercicio, con carácter automático."
+    ],
+    "correct": 0,
+    "exp": "El art. 32.2 TREBEP permite la suspensión o modificación excepcional, por causa grave de interés público derivada de alteración sustancial de las circunstancias económicas, en la medida estrictamente necesaria para salvaguardar el interés público.",
+    "fuente": "Art. 32.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 32.2 TREBEP: la suspensión o modificación exige causa grave de interés público por alteración sustancial de circunstancias económicas, y no opera de forma automática por la Ley de Presupuestos."
+  },
+  {
+    "q": "El artículo 33.1 TREBEP sujeta la negociación colectiva de condiciones de trabajo de los funcionarios públicos a los principios de:",
+    "options": [
+      "Legalidad, cobertura presupuestaria, jerarquía normativa, publicidad y eficacia.",
+      "Legalidad, jerarquía normativa, eficacia, economía y celeridad.",
+      "Legalidad, cobertura presupuestaria, obligatoriedad, buena fe negocial, publicidad y transparencia.",
+      "Igualdad, mérito, capacidad, publicidad y transparencia."
+    ],
+    "correct": 2,
+    "exp": "El art. 33.1 TREBEP sujeta la negociación colectiva de los funcionarios a los principios de legalidad, cobertura presupuestaria, obligatoriedad, buena fe negocial, publicidad y transparencia.",
+    "fuente": "Art. 33.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 33.1 TREBEP: los principios enumerados son legalidad, cobertura presupuestaria, obligatoriedad, buena fe negocial, publicidad y transparencia; 'jerarquía normativa' y 'eficacia' no figuran en la lista."
+  },
+  {
+    "q": "Conforme al artículo 33.1 TREBEP, además de los representantes de la Administración, están legitimados para estar presentes en las Mesas de Negociación las organizaciones sindicales más representativas a nivel estatal y de comunidad autónoma, así como:",
+    "options": [
+      "Los sindicatos que cuenten con al menos cien afiliados en la unidad electoral correspondiente.",
+      "Los sindicatos que acrediten un mínimo de quinientos afiliados cotizantes en el ámbito territorial correspondiente.",
+      "Cualquier sindicato legalmente constituido que lo solicite, con independencia de su resultado electoral.",
+      "Los sindicatos que hayan obtenido el 10 por 100 o más de los representantes en las elecciones para Delegados y Juntas de Personal en la unidad electoral correspondiente."
+    ],
+    "correct": 3,
+    "exp": "El art. 33.1 TREBEP añade a la legitimación de los sindicatos más representativos la de aquellos que hayan obtenido el 10 por 100 o más de los representantes en las elecciones a Delegados y Juntas de Personal en las unidades electorales de su ámbito.",
+    "fuente": "Art. 33.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 33.1 TREBEP: la legitimación adicional se basa en el 10% o más de representantes obtenidos en elecciones a Delegados y Juntas de Personal, no en un número mínimo de afiliados cotizantes."
+  },
+  {
+    "q": "Según el artículo 33.2 TREBEP, cuando las Administraciones Públicas encargan el desarrollo de la negociación colectiva a órganos técnicos creados por ellas, los acuerdos alcanzados por dichos órganos:",
+    "options": [
+      "Requieren la ratificación de los órganos de gobierno o administrativos con competencia para ello.",
+      "Son directamente aplicables sin necesidad de ratificación posterior.",
+      "Deben ser aprobados previamente por el Ministerio de Hacienda antes de su firma.",
+      "Deben ser sometidos a referéndum entre el conjunto del personal afectado."
+    ],
+    "correct": 0,
+    "exp": "El art. 33.2 TREBEP exige la ratificación de los acuerdos alcanzados por los órganos técnicos de negociación por parte de los órganos de gobierno o administrativos con competencia para ello.",
+    "fuente": "Art. 33.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 33.2 TREBEP: los acuerdos de los órganos técnicos requieren ratificación de los órganos de gobierno o administrativos con competencia, sin mención a una aprobación previa del Ministerio de Hacienda."
+  },
+  {
+    "q": "El artículo 34.1 TREBEP prevé la constitución de una Mesa General de Negociación, a los efectos de la negociación colectiva de los funcionarios públicos, en el ámbito de:",
+    "options": [
+      "La Administración General del Estado exclusivamente, con Mesas Sectoriales delegadas en el resto de Administraciones.",
+      "La Administración General del Estado, cada una de las Comunidades Autónomas, las ciudades de Ceuta y Melilla y las Entidades Locales.",
+      "Cada Ministerio y cada Consejería de las Comunidades Autónomas por separado.",
+      "La Administración General del Estado y las Diputaciones Provinciales, con exclusión de los Ayuntamientos."
+    ],
+    "correct": 1,
+    "exp": "El art. 34.1 TREBEP constituye una Mesa General de Negociación en la AGE, en cada Comunidad Autónoma, en las ciudades de Ceuta y Melilla y en las Entidades Locales.",
+    "fuente": "Art. 34.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 34.1 TREBEP: la Mesa General de Negociación se constituye en la AGE, cada Comunidad Autónoma, Ceuta y Melilla y las Entidades Locales (que incluyen Ayuntamientos), no exclusivamente Diputaciones."
+  },
+  {
+    "q": "Según el artículo 34.4 TREBEP, las Mesas Sectoriales:",
+    "options": [
+      "Tienen carácter permanente y no pueden ser suprimidas una vez constituidas.",
+      "Se constituyen con carácter obligatorio en todo organismo con más de cien funcionarios, sin necesidad de acuerdo previo.",
+      "Sustituyen a la Mesa General de Negociación en la totalidad de las materias objeto de negociación.",
+      "Podrán constituirse dependiendo de las Mesas Generales de Negociación y por acuerdo de las mismas, en atención a las condiciones específicas de trabajo o a las peculiaridades de sectores concretos de funcionarios."
+    ],
+    "correct": 3,
+    "exp": "El art. 34.4 TREBEP permite constituir Mesas Sectoriales dependientes de las Mesas Generales, por acuerdo de éstas, en atención a las condiciones específicas de trabajo o a las peculiaridades de sectores concretos de funcionarios.",
+    "fuente": "Art. 34.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 34.4 TREBEP: las Mesas Sectoriales se constituyen por acuerdo de las Mesas Generales en atención a condiciones específicas, sin que el precepto les atribuya carácter permanente o irrevocable."
+  },
+  {
+    "q": "Cuando no exista acuerdo sobre la fecha de apertura del proceso de negociación en una Mesa, el artículo 34.6 TREBEP dispone que dicho proceso se iniciará:",
+    "options": [
+      "En el plazo máximo de un mes desde que la mayoría de una de las partes legitimadas lo promueva, salvo causas legales o pactadas que lo impidan.",
+      "En el plazo máximo de quince días desde la constitución de la Mesa correspondiente.",
+      "En el plazo máximo de dos meses desde la publicación de la convocatoria de negociación en el Boletín Oficial correspondiente.",
+      "Al inicio del ejercicio presupuestario siguiente a la petición formulada por cualquiera de las partes."
+    ],
+    "correct": 0,
+    "exp": "El art. 34.6 TREBEP fija el inicio del proceso negociador, a falta de acuerdo, en el plazo máximo de un mes desde que la mayoría de una de las partes legitimadas lo promueva.",
+    "fuente": "Art. 34.6 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 34.6 TREBEP: a falta de acuerdo, el proceso se inicia en el plazo máximo de un mes desde que la mayoría de una parte legitimada lo promueva, no en dos meses desde publicación en el BOE."
+  },
+  {
+    "q": "Según el artículo 35.1 TREBEP, para que las Mesas de Negociación queden válidamente constituidas es necesario que las organizaciones sindicales legitimadas representen, como mínimo:",
+    "options": [
+      "Dos tercios de los miembros de los órganos unitarios de representación en el ámbito de que se trate.",
+      "La mayoría absoluta de los miembros de los órganos unitarios de representación en el ámbito de que se trate.",
+      "El 10 por 100 de los representantes elegidos en el conjunto de las Administraciones Públicas.",
+      "Las dos terceras partes de los sindicatos legalmente constituidos en el ámbito territorial correspondiente."
+    ],
+    "correct": 1,
+    "exp": "El art. 35.1 TREBEP exige, para la válida constitución de las Mesas, que las organizaciones sindicales legitimadas representen como mínimo la mayoría absoluta de los miembros de los órganos unitarios de representación del ámbito correspondiente.",
+    "fuente": "Art. 35.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 35.1 TREBEP: la constitución válida exige que las organizaciones legitimadas representen la mayoría absoluta de los órganos unitarios de representación, no dos tercios de los sindicatos constituidos."
+  },
+  {
+    "q": "De acuerdo con el artículo 35.4 TREBEP, en las normas de desarrollo del Estatuto se establecerá la composición numérica de las Mesas correspondientes, sin que ninguna de las partes pueda superar:",
+    "options": [
+      "El número de veinte miembros.",
+      "El número de veintiún miembros.",
+      "El número de nueve miembros.",
+      "El número de quince miembros."
+    ],
+    "correct": 3,
+    "exp": "El art. 35.4 TREBEP fija en quince el número máximo de miembros que puede tener cada una de las partes en las Mesas de Negociación.",
+    "fuente": "Art. 35.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 35.4 TREBEP: el límite fijado es de quince miembros por cada parte, no veinte."
+  },
+  {
+    "q": "El artículo 36.1 TREBEP dispone que la Mesa General de Negociación de las Administraciones Públicas estará presidida por:",
+    "options": [
+      "La Administración General del Estado.",
+      "La Comunidad Autónoma de mayor población.",
+      "La Comisión Nacional de Administración Local, por delegación del Estado.",
+      "La Federación Española de Municipios y Provincias."
+    ],
+    "correct": 0,
+    "exp": "El art. 36.1 TREBEP atribuye la presidencia de la Mesa General de Negociación de las Administraciones Públicas a la Administración General del Estado, contando además con representantes de las Comunidades Autónomas, Ceuta y Melilla y la FEMP.",
+    "fuente": "Art. 36.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 36.1 TREBEP: la presidencia de la Mesa General de Negociación de las Administraciones Públicas corresponde a la Administración General del Estado directamente, no a la CNAL por delegación."
+  },
+  {
+    "q": "Según el artículo 36.2 TREBEP, será específicamente objeto de negociación en el ámbito de la Mesa General de Negociación de las Administraciones Públicas:",
+    "options": [
+      "La aprobación definitiva de las relaciones de puestos de trabajo de cada Comunidad Autónoma.",
+      "El incremento global de las retribuciones del personal al servicio de las Administraciones Públicas que corresponda incluir en el Proyecto de Ley de Presupuestos Generales del Estado de cada año.",
+      "El régimen disciplinario aplicable al personal funcionario de cada Entidad Local.",
+      "La determinación de la estructura orgánica de los Ministerios y Consejerías."
+    ],
+    "correct": 1,
+    "exp": "El art. 36.2 TREBEP reserva específicamente a esta Mesa el incremento global de las retribuciones que corresponda incluir en el Proyecto de Ley de Presupuestos Generales del Estado de cada año.",
+    "fuente": "Art. 36.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 36.2 TREBEP: la materia específicamente reservada a esta Mesa es el incremento retributivo global a incluir en los Presupuestos Generales del Estado; la estructura orgánica es potestad de organización excluida de negociación obligatoria (art. 37.2.a)."
+  },
+  {
+    "q": "El artículo 36.3 TREBEP prevé la constitución de una Mesa General de Negociación en cada Administración Pública para negociar:",
+    "options": [
+      "Únicamente las materias retributivas comunes al personal funcionario, con exclusión del personal laboral y estatutario.",
+      "Exclusivamente las materias que afecten al personal laboral, quedando el personal funcionario excluido de esta Mesa.",
+      "Únicamente las materias retributivas del personal directivo de esa Administración.",
+      "Todas aquellas materias y condiciones de trabajo comunes al personal funcionario, estatutario y laboral de esa Administración."
+    ],
+    "correct": 3,
+    "exp": "El art. 36.3 TREBEP constituye en cada Administración una Mesa General de Negociación para las materias y condiciones de trabajo comunes al personal funcionario, estatutario y laboral.",
+    "fuente": "Art. 36.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 36.3 TREBEP: la Mesa General de cada Administración negocia todas las materias y condiciones de trabajo comunes al personal funcionario, estatutario Y laboral, no solo materias retributivas del personal funcionario."
+  },
+  {
+    "q": "Entre las materias objeto de negociación que enumera el artículo 37.1 TREBEP figura:",
+    "options": [
+      "Las que afecten a las condiciones de trabajo y a las retribuciones de los funcionarios, cuya regulación exija norma con rango de ley.",
+      "La composición y funcionamiento interno de los Consejos de Ministros y Consejos de Gobierno.",
+      "La regulación y determinación concreta de los sistemas y procedimientos de acceso al empleo público.",
+      "Los poderes de dirección y control propios de la relación jerárquica."
+    ],
+    "correct": 0,
+    "exp": "El art. 37.1.k) TREBEP incluye entre las materias negociables las que afecten a las condiciones de trabajo y a las retribuciones de los funcionarios cuando su regulación exija norma con rango de ley; las otras dos opciones son materias excluidas por el art. 37.2.",
+    "fuente": "Art. 37.1.k) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 37.1 TREBEP (lista completa de 13 materias, letras a) a m)): la composición y funcionamiento de los Consejos de Ministros/Gobierno no figura entre ellas; se confirmó que la opción correcta corresponde a la letra k)."
+  },
+  {
+    "q": "Según el artículo 37.1.m) TREBEP, será objeto de negociación lo referido a:",
+    "options": [
+      "La estructura orgánica de las unidades administrativas y su denominación.",
+      "Calendario laboral, horarios, jornadas, vacaciones, permisos, movilidad funcional y geográfica, en aquellos aspectos que afecten a condiciones de trabajo de los empleados públicos.",
+      "El procedimiento de formación de los actos y disposiciones administrativas.",
+      "La regulación del ejercicio de los derechos de los ciudadanos y usuarios de los servicios públicos."
+    ],
+    "correct": 1,
+    "exp": "El art. 37.1.m) TREBEP incluye entre las materias negociables el calendario laboral, horarios, jornadas, vacaciones, permisos y movilidad funcional y geográfica, en lo que afecte a condiciones de trabajo.",
+    "fuente": "Art. 37.1.m) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 37.2.b) TREBEP: esta materia está expresamente excluida de la obligatoriedad de la negociación, por lo que es falsa como ejemplo de materia negociable del art. 37.1.m)."
+  },
+  {
+    "q": "El artículo 37.2.a) TREBEP excluye de la obligatoriedad de la negociación:",
+    "options": [
+      "Los criterios generales de acción social.",
+      "Los criterios generales sobre ofertas de empleo público.",
+      "Las propuestas sobre derechos sindicales y de participación.",
+      "Las decisiones de las Administraciones Públicas que afecten a sus potestades de organización."
+    ],
+    "correct": 3,
+    "exp": "El art. 37.2.a) TREBEP excluye de la negociación obligatoria las decisiones que afecten a las potestades de organización, sin perjuicio de negociar sus repercusiones sobre condiciones de trabajo.",
+    "fuente": "Art. 37.2.a) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en arts. 37.1.i) y 37.2 TREBEP: los criterios generales de acción social SON materia de negociación obligatoria (art. 37.1.i), por lo que no encajan como materia excluida por el art. 37.2.a), que se refiere a las potestades de organización."
+  },
+  {
+    "q": "Conforme al artículo 38.3 TREBEP, para su validez y eficacia, los Acuerdos que versen sobre materias competencia de los órganos de gobierno de las Administraciones Públicas requieren:",
+    "options": [
+      "Su aprobación expresa y formal por dichos órganos.",
+      "Su publicación en el Boletín Oficial correspondiente, sin necesidad de aprobación adicional.",
+      "El visto bueno previo de la Abogacía del Estado, con carácter vinculante.",
+      "El voto favorable de dos tercios de los miembros de la Mesa de Negociación que los suscribió."
+    ],
+    "correct": 0,
+    "exp": "El art. 38.3 TREBEP exige, para la validez y eficacia de los Acuerdos sobre materias competencia de los órganos de gobierno, su aprobación expresa y formal por dichos órganos.",
+    "fuente": "Art. 38.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 38.3 TREBEP: la validez y eficacia de los Acuerdos exige su aprobación expresa y formal por los órganos de gobierno competentes, sin mención a un visto bueno previo y vinculante de la Abogacía del Estado."
+  },
+  {
+    "q": "Si los Acuerdos ratificados tratan sobre materias sometidas a reserva de ley, el artículo 38.3 TREBEP establece que su contenido:",
+    "options": [
+      "Será directamente aplicable al personal incluido en su ámbito desde el momento de su ratificación.",
+      "Carecerá de eficacia directa, si bien el órgano de gobierno con iniciativa legislativa deberá elaborar, aprobar y remitir a las Cortes o asambleas legislativas el correspondiente proyecto de ley.",
+      "Quedará automáticamente incorporado a la siguiente Ley de Presupuestos, sin tramitación legislativa específica.",
+      "Producirá eficacia directa provisional hasta la aprobación de la ley correspondiente, momento en que quedará derogado."
+    ],
+    "correct": 1,
+    "exp": "El art. 38.3 TREBEP priva de eficacia directa a los Acuerdos sobre materias de reserva de ley, si bien obliga al órgano de gobierno con iniciativa legislativa a tramitar el proyecto de ley conforme al contenido acordado.",
+    "fuente": "Art. 38.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 38.3 TREBEP: los Acuerdos sobre materias de reserva de ley carecen de eficacia directa desde el inicio (no eficacia directa provisional), debiendo tramitarse el correspondiente proyecto de ley."
+  },
+  {
+    "q": "El artículo 38.4 TREBEP exige que los Pactos y Acuerdos determinen, entre otros extremos:",
+    "options": [
+      "El régimen de responsabilidad patrimonial de la Administración frente a terceros derivada de su incumplimiento.",
+      "La composición numérica exacta de la Comisión Paritaria de seguimiento, con indicación de sus suplentes.",
+      "El régimen sancionador aplicable en caso de incumplimiento por cualquiera de las partes.",
+      "Las partes que los conciertan, el ámbito personal, funcional, territorial y temporal, y la forma, plazo de preaviso y condiciones de denuncia."
+    ],
+    "correct": 3,
+    "exp": "El art. 38.4 TREBEP obliga a que los Pactos y Acuerdos determinen las partes que los conciertan, su ámbito personal, funcional, territorial y temporal, así como forma, plazo de preaviso y condiciones de denuncia.",
+    "fuente": "Art. 38.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 38.4 TREBEP: los extremos que deben determinar los Pactos y Acuerdos son las partes, el ámbito personal/funcional/territorial/temporal y la forma, plazo de preaviso y condiciones de denuncia; no incluye el régimen de responsabilidad patrimonial frente a terceros."
+  },
+  {
+    "q": "Según el artículo 38.5 TREBEP, para el seguimiento de los Pactos y Acuerdos se establecerán:",
+    "options": [
+      "Comisiones Paritarias, con la composición y funciones que las partes determinen.",
+      "Juntas Arbitrales, integradas exclusivamente por personal funcionario de carrera.",
+      "Tribunales Arbitrales Permanentes, designados por el Ministerio de Hacienda.",
+      "Inspecciones de Servicios, dependientes del órgano de gobierno respectivo."
+    ],
+    "correct": 0,
+    "exp": "El art. 38.5 TREBEP prevé el establecimiento de Comisiones Paritarias de seguimiento de los Pactos y Acuerdos, con la composición y funciones que las partes determinen.",
+    "fuente": "Art. 38.5 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 38.5 TREBEP: el seguimiento de Pactos y Acuerdos se realiza mediante Comisiones Paritarias con la composición y funciones que determinen las partes, no Tribunales Arbitrales designados por Hacienda."
+  },
+  {
+    "q": "Según el artículo 38.11 TREBEP, salvo acuerdo en contrario, los Pactos y Acuerdos:",
+    "options": [
+      "Se extinguirán automáticamente al concluir su vigencia inicial, sin posibilidad de prórroga.",
+      "Se prorrogarán de año en año si no mediara denuncia expresa de una de las partes.",
+      "Quedarán en suspenso hasta que se apruebe un nuevo Pacto o Acuerdo que los sustituya.",
+      "Se renovarán automáticamente por un período idéntico a su duración inicial, sin posibilidad de denuncia."
+    ],
+    "correct": 1,
+    "exp": "El art. 38.11 TREBEP establece la prórroga anual de los Pactos y Acuerdos, salvo acuerdo en contrario, en tanto no medie denuncia expresa de una de las partes.",
+    "fuente": "Art. 38.11 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 38.11 TREBEP: la prórroga es anual (de año en año) salvo denuncia expresa de una de las partes, no una renovación por un período idéntico al inicial sin posibilidad de denuncia."
+  },
+  {
+    "q": "El artículo 39.1 TREBEP identifica como órganos específicos de representación de los funcionarios:",
+    "options": [
+      "Los Comités de Seguridad y Salud y las Juntas de Personal.",
+      "Los Comités de Empresa y los Delegados Sindicales.",
+      "Las Mesas Sectoriales y las Comisiones Paritarias.",
+      "Los Delegados de Personal y las Juntas de Personal."
+    ],
+    "correct": 3,
+    "exp": "El art. 39.1 TREBEP señala como órganos específicos de representación de los funcionarios a los Delegados de Personal y a las Juntas de Personal.",
+    "fuente": "Art. 39.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 39.1 TREBEP: los órganos específicos de representación de los funcionarios son los Delegados de Personal y las Juntas de Personal; los Comités de Seguridad y Salud no son mencionados en este artículo."
+  },
+  {
+    "q": "Según el artículo 39.2 TREBEP, en las unidades electorales donde el número de funcionarios sea igual o superior a 6 e inferior a 50, la representación corresponderá a los Delegados de Personal, eligiéndose:",
+    "options": [
+      "Un Delegado hasta 30 funcionarios y tres Delegados de 31 a 49 funcionarios, que actúan conjunta y mancomunadamente.",
+      "Un Delegado hasta 25 funcionarios y cinco Delegados de 26 a 49 funcionarios.",
+      "Un Delegado hasta 20 funcionarios y dos Delegados de 21 a 49 funcionarios, actuando cada uno independientemente.",
+      "Tres Delegados en todo caso, con independencia del número exacto de funcionarios de la unidad."
+    ],
+    "correct": 0,
+    "exp": "El art. 39.2 TREBEP fija en un Delegado la representación hasta 30 funcionarios y en tres Delegados, con actuación conjunta y mancomunada, la de 31 a 49 funcionarios.",
+    "fuente": "Art. 39.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 39.2 TREBEP: la escala real es un Delegado hasta 30 funcionarios y tres Delegados (actuación conjunta y mancomunada) de 31 a 49, no la escala de 20/21-49 con actuación independiente."
+  },
+  {
+    "q": "El artículo 39.3 TREBEP dispone que las Juntas de Personal se constituirán en las unidades electorales que cuenten con un censo mínimo de:",
+    "options": [
+      "25 funcionarios.",
+      "50 funcionarios.",
+      "100 funcionarios.",
+      "75 funcionarios."
+    ],
+    "correct": 1,
+    "exp": "El art. 39.3 TREBEP exige un censo mínimo de 50 funcionarios en la unidad electoral para que se constituya una Junta de Personal.",
+    "fuente": "Art. 39.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 39.3 TREBEP: el censo mínimo exigido para constituir Junta de Personal es de 50 funcionarios, no 75."
+  },
+  {
+    "q": "Según la escala del artículo 39.5 TREBEP, una unidad electoral con censo de entre 101 y 250 funcionarios elegirá una Junta de Personal compuesta por:",
+    "options": [
+      "17 miembros.",
+      "13 miembros.",
+      "5 miembros.",
+      "9 miembros."
+    ],
+    "correct": 3,
+    "exp": "El art. 39.5 TREBEP asigna 9 miembros a la Junta de Personal en unidades electorales de entre 101 y 250 funcionarios; 13 corresponde al tramo de 251 a 500 y 5 al de 50 a 100.",
+    "fuente": "Art. 39.5 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en la escala del art. 39.5 TREBEP: 17 miembros corresponde al tramo de 501 a 750 funcionarios, no al tramo de 101 a 250 (que corresponde a 9 miembros)."
+  },
+  {
+    "q": "Entre las funciones que el artículo 40.1 TREBEP atribuye a las Juntas y Delegados de Personal figura la de:",
+    "options": [
+      "Ser informados de todas las sanciones impuestas por faltas muy graves.",
+      "Autorizar previamente el traslado de instalaciones o la revisión de los sistemas de organización.",
+      "Autorizar previamente la concesión de permisos y vacaciones al personal de su unidad electoral.",
+      "Imponer directamente las sanciones derivadas de faltas muy graves cometidas por el personal."
+    ],
+    "correct": 0,
+    "exp": "El art. 40.1.c) TREBEP atribuye a los órganos de representación la función de ser informados de todas las sanciones impuestas por faltas muy graves, no la de autorizarlas ni imponerlas.",
+    "fuente": "Art. 40.1.c) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 40.1.d) TREBEP: la función reconocida es 'tener conocimiento y ser oídos' en el régimen de vacaciones y permisos, no autorizarlos previamente."
+  },
+  {
+    "q": "Según el artículo 40.2 TREBEP, para iniciar procedimientos administrativos y ejercitar acciones en vía administrativa o judicial en el ámbito de sus funciones, están legitimados:",
+    "options": [
+      "Únicamente el Presidente de la Junta de Personal, a título individual.",
+      "Las Juntas de Personal, colegiadamente por decisión mayoritaria de sus miembros, y los Delegados de Personal, mancomunadamente.",
+      "Cualquier empleado público afectado, sin necesidad de intervención de los órganos de representación.",
+      "Los sindicatos más representativos, en representación de las Juntas de Personal."
+    ],
+    "correct": 1,
+    "exp": "El art. 40.2 TREBEP legitima a las Juntas de Personal, colegiadamente por decisión mayoritaria, y a los Delegados de Personal, mancomunadamente, para iniciar procedimientos y ejercitar acciones en el ámbito de sus funciones.",
+    "fuente": "Art. 40.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 40.2 TREBEP: la legitimación para iniciar procedimientos corresponde a las Juntas de Personal colegiadamente y a los Delegados de Personal mancomunadamente, no a los sindicatos en su representación."
+  },
+  {
+    "q": "Entre las garantías reconocidas a los miembros de las Juntas de Personal y a los Delegados de Personal, el artículo 41.1.c) TREBEP incluye:",
+    "options": [
+      "La suspensión automática de cualquier expediente disciplinario incoado durante el ejercicio del mandato representativo.",
+      "La inmunidad frente a cualquier expediente disciplinario mientras dure su mandato representativo.",
+      "El derecho a ser defendidos por letrado designado por la propia Administración en cualquier procedimiento.",
+      "La audiencia en los expedientes disciplinarios a que pudieran ser sometidos sus miembros durante el tiempo de su mandato y durante el año inmediatamente posterior."
+    ],
+    "correct": 3,
+    "exp": "El art. 41.1.c) TREBEP garantiza la audiencia en los expedientes disciplinarios durante el mandato y el año inmediatamente posterior, sin perjuicio de la audiencia al interesado del procedimiento sancionador; no reconoce inmunidad disciplinaria.",
+    "fuente": "Art. 41.1.c) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 41.1.c) TREBEP: la garantía reconocida es la audiencia en los expedientes disciplinarios durante el mandato y el año posterior, no la suspensión automática del expediente."
+  },
+  {
+    "q": "Según la escala del artículo 41.1.d) TREBEP, el crédito de horas mensuales retribuidas para una unidad electoral de hasta 100 funcionarios es de:",
+    "options": [
+      "15 horas.",
+      "20 horas.",
+      "30 horas.",
+      "35 horas."
+    ],
+    "correct": 0,
+    "exp": "El art. 41.1.d) TREBEP fija en 15 horas mensuales el crédito para unidades electorales de hasta 100 funcionarios; 20 corresponde al tramo de 101 a 250 y 35 al de 501 a 750.",
+    "fuente": "Art. 41.1.d) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en la escala del art. 41.1.d) TREBEP: 30 horas corresponde al tramo de 251 a 500 funcionarios, no al tramo 'hasta 100 funcionarios' (que corresponde a 15 horas)."
+  },
+  {
+    "q": "El artículo 41.1.e) TREBEP garantiza a los representantes del personal no ser trasladados ni sancionados por causas relacionadas con el ejercicio de su mandato representativo:",
+    "options": [
+      "Durante toda su vida profesional, con independencia de la fecha de extinción del mandato.",
+      "Ni durante la vigencia del mandato ni durante el año siguiente a su extinción, salvo que ésta se produzca por revocación o dimisión.",
+      "Únicamente durante los seis primeros meses de ejercicio del mandato representativo.",
+      "Durante la vigencia del mandato y durante los dos años siguientes a su extinción, sin excepción alguna."
+    ],
+    "correct": 1,
+    "exp": "El art. 41.1.e) TREBEP extiende esta garantía a todo el mandato y al año siguiente a su extinción, exceptuando la extinción por revocación o dimisión.",
+    "fuente": "Art. 41.1.e) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 41.1.e) TREBEP: la garantía se extiende a la vigencia del mandato y al año siguiente a su extinción (no dos años), exceptuando la extinción por revocación o dimisión."
+  },
+  {
+    "q": "Según el artículo 42 TREBEP, el mandato de los miembros de las Juntas de Personal y de los Delegados de Personal tendrá una duración de:",
+    "options": [
+      "Tres años, sin posibilidad de reelección.",
+      "Dos años, sin posibilidad de reelección inmediata.",
+      "Cinco años, coincidiendo con la legislatura municipal.",
+      "Cuatro años, pudiendo ser reelegidos."
+    ],
+    "correct": 3,
+    "exp": "El art. 42 TREBEP fija en cuatro años la duración del mandato, con posibilidad de reelección, y su prórroga si a su término no se han promovido nuevas elecciones.",
+    "fuente": "Art. 42 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 42 TREBEP: la duración del mandato es de cuatro años, con posibilidad de reelección, no tres años sin reelección."
+  },
+  {
+    "q": "Entre los legitimados para promover la celebración de elecciones a Delegados y Juntas de Personal, el artículo 43.1 TREBEP incluye a:",
+    "options": [
+      "Los sindicatos que, sin ser más representativos, hayan conseguido al menos el 10 por 100 de los representantes en el conjunto de las Administraciones Públicas.",
+      "Cualquier partido político con representación parlamentaria en las Cortes Generales.",
+      "Los medios de comunicación social, en representación del interés general de los ciudadanos.",
+      "El órgano de gobierno de la Administración Pública correspondiente, de oficio."
+    ],
+    "correct": 0,
+    "exp": "El art. 43.1.c) TREBEP legitima para promover elecciones a los sindicatos que, sin ser más representativos, hayan obtenido al menos el 10 por 100 de los representantes en el conjunto de las Administraciones Públicas.",
+    "fuente": "Art. 43.1.c) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 43.1 TREBEP (lista completa de legitimados, letras a) a e)): los medios de comunicación social no figuran entre los legitimados para promover elecciones."
+  },
+  {
+    "q": "Según el artículo 44.d) TREBEP, en el procedimiento electoral para la elección de los órganos de representación del personal funcionario:",
+    "options": [
+      "Tanto las Juntas de Personal como los Delegados de Personal se elegirán mediante listas cerradas y sistema proporcional puro.",
+      "Las Juntas de Personal se elegirán mediante listas cerradas a través de un sistema proporcional corregido, y los Delegados de Personal mediante listas abiertas y sistema mayoritario.",
+      "Las Juntas de Personal se elegirán por sistema mayoritario y los Delegados de Personal por sistema proporcional corregido.",
+      "Las Juntas de Personal se elegirán mediante listas abiertas y sistema mayoritario, y los Delegados de Personal mediante listas cerradas y sistema proporcional corregido."
+    ],
+    "correct": 1,
+    "exp": "El art. 44.d) TREBEP distingue el sistema electoral: listas cerradas y sistema proporcional corregido para las Juntas de Personal, y listas abiertas y sistema mayoritario para los Delegados de Personal.",
+    "fuente": "Art. 44.d) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado en art. 44.d) TREBEP: el reparto real es el inverso: Juntas de Personal por listas cerradas y sistema proporcional corregido, y Delegados de Personal por listas abiertas y sistema mayoritario."
+  }
+]

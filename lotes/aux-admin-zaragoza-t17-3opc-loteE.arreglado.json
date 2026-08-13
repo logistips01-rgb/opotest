@@ -1,0 +1,570 @@
+[
+  {
+    "q": "Sobre los sistemas de solución extrajudicial de conflictos colectivos, el artículo 45.3 TREBEP dispone que la mediación:",
+    "options": [
+      "Solo podrá iniciarse por acuerdo previo y expreso de ambas partes, sin que ninguna pueda imponerla unilateralmente.",
+      "Los acuerdos alcanzados mediante mediación no serán susceptibles de impugnación en ningún caso.",
+      "Vincula obligatoriamente a las partes desde el momento en que el mediador emite su propuesta de solución.",
+      "Será obligatoria cuando lo solicite una de las partes, aunque las propuestas de solución del mediador podrán ser libremente aceptadas o rechazadas."
+    ],
+    "correct": 3,
+    "exp": "El art. 45.3 TREBEP hace obligatoria la mediación cuando la solicite una de las partes, si bien las propuestas del mediador pueden ser libremente aceptadas o rechazadas por las partes.",
+    "fuente": "Art. 45.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado contra el art. 45.3-4 TREBEP: la mediación es obligatoria a instancia de parte y sus acuerdos son impugnables; la opción añadida es falsa y no está entre las 3 originales."
+  },
+  {
+    "q": "Según el artículo 46.1.d) TREBEP, además de las organizaciones sindicales y los órganos de representación del personal, están legitimados para convocar una reunión:",
+    "options": [
+      "Los empleados públicos de las Administraciones respectivas en número no inferior al 40 por 100 del colectivo convocado.",
+      "Los empleados públicos en número no inferior al 25 por 100 del colectivo convocado.",
+      "Los empleados públicos en número no inferior al 30 por 100 del colectivo convocado, previa autorización de la organización sindical convocante.",
+      "Cualquier grupo de al menos diez empleados públicos, con independencia del tamaño del colectivo convocado."
+    ],
+    "correct": 0,
+    "exp": "El art. 46.1.d) TREBEP legitima para convocar una reunión a los empleados públicos de las Administraciones respectivas en número no inferior al 40 por 100 del colectivo convocado.",
+    "fuente": "Art. 46.1.d) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado contra el art. 46.1 TREBEP (enumeración a-d de legitimados y umbral del 40%): la opción añadida usa un umbral y un requisito de autorización inexistentes en la norma."
+  },
+  {
+    "q": "Según el art. 47 del TREBEP, las Administraciones Públicas establecen la jornada general y las especiales de trabajo de sus funcionarios públicos, respetando en todo caso:",
+    "options": [
+      "La duración máxima de la jornada de trabajo establecida en la normativa sobre incompatibilidades",
+      "El límite de treinta y cinco horas semanales fijado con carácter general para todas las Administraciones Públicas.",
+      "Un mínimo de cuarenta y ocho horas semanales",
+      "La ausencia de cualquier límite máximo, según necesidades del servicio"
+    ],
+    "correct": 0,
+    "exp": "Art. 47 TREBEP: las Administraciones Públicas establecerán la jornada general y las especiales de trabajo, respetando la duración máxima de la jornada de trabajo que establezca la normativa aplicable.",
+    "notaConversion": "Verificado contra el art. 47.1 TREBEP: no existe un límite fijo de 35 horas semanales en dicho artículo; opción añadida falsa."
+  },
+  {
+    "q": "¿Qué relación existe, con carácter general, entre la duración de la jornada de trabajo (art. 47 TREBEP) y la normativa sobre incompatibilidades del personal al servicio de las Administraciones Públicas?",
+    "options": [
+      "La jornada máxima establecida debe respetar los límites fijados por la normativa sobre incompatibilidades, que limita la posibilidad de desempeñar actividades adicionales",
+      "No existe ninguna relación entre ambas normativas",
+      "La normativa de incompatibilidades permite superar libremente cualquier límite de jornada",
+      "La normativa sobre incompatibilidades deroga tácitamente el artículo 47 TREBEP en materia de jornada."
+    ],
+    "correct": 0,
+    "exp": "El art. 47 TREBEP remite expresamente a la normativa sobre incompatibilidades para fijar la duración máxima de la jornada de trabajo, en coherencia con los límites que dicha normativa impone al desempeño de actividades adicionales por los empleados públicos.",
+    "notaConversion": "Verificado contra el art. 47 TREBEP: la normativa de incompatibilidades no deroga el precepto, solo fija el límite máximo de jornada; opción añadida falsa."
+  },
+  {
+    "q": "Según el art. 48 a) del TREBEP, el permiso por accidente o enfermedad graves del cónyuge, pareja de hecho o parientes hasta el primer grado de consanguinidad o afinidad, cuando precise reposo domiciliario, es de:",
+    "options": [
+      "Cinco días hábiles",
+      "Dos días hábiles",
+      "Tres días hábiles, ampliables a cinco si el suceso se produce en distinta localidad.",
+      "Diez días hábiles"
+    ],
+    "correct": 0,
+    "exp": "Art. 48 a) TREBEP: el permiso en estos casos es de cinco días hábiles cuando el suceso se produzca en la misma localidad.",
+    "notaConversion": "Verificado contra el art. 48 a) TREBEP (primer grado/cónyuge/pareja de hecho, accidente o enfermedad grave: cinco días hábiles, sin distinción de localidad para este supuesto): opción añadida introduce una regla de localidad inexistente para este caso."
+  },
+  {
+    "q": "Según el art. 48 a) del TREBEP, cuando el accidente o enfermedad grave afecte a un pariente de segundo grado de consanguinidad o afinidad, el permiso es de:",
+    "options": [
+      "Cuatro días hábiles",
+      "Dos días hábiles, ampliables a cuatro si el suceso se produce en distinta localidad.",
+      "Cinco días hábiles, idéntico al primer grado",
+      "Un día hábil"
+    ],
+    "correct": 0,
+    "exp": "Art. 48 a) TREBEP: para parientes de segundo grado de consanguinidad o afinidad, el permiso es de cuatro días hábiles (en la misma localidad; se ampliaría en distinta localidad).",
+    "notaConversion": "Verificado contra el art. 48 a) TREBEP (segundo grado, accidente o enfermedad grave: cuatro días hábiles, sin distinción de localidad para este supuesto): opción añadida falsa."
+  },
+  {
+    "q": "Según el art. 48 b) del TREBEP, el permiso por traslado de domicilio sin cambio de residencia es de:",
+    "options": [
+      "Un día",
+      "Tres días",
+      "Ninguno, no existe tal permiso",
+      "Dos días, ampliables a tres si implica cambio de provincia."
+    ],
+    "correct": 0,
+    "exp": "Art. 48 b) TREBEP: 'Por traslado de domicilio sin cambio de residencia: un día.'",
+    "notaConversion": "Verificado contra el art. 48 b) TREBEP ('por traslado de domicilio sin cambio de residencia, un día'): opción añadida con duración y condición inexistentes."
+  },
+  {
+    "q": "Según el art. 48 del TREBEP, el permiso para concurrir a exámenes finales y demás pruebas definitivas de aptitud se concede:",
+    "options": [
+      "Durante los días de su celebración",
+      "Únicamente el día anterior al examen",
+      "Un máximo de dos días por convocatoria, con independencia del número de exámenes.",
+      "Solo si el funcionario tiene más de cinco años de antigüedad"
+    ],
+    "correct": 0,
+    "exp": "Art. 48 TREBEP: 'Para concurrir a exámenes finales y demás pruebas definitivas de aptitud, durante los días de su celebración.'",
+    "notaConversion": "Verificado contra el art. 48 d) TREBEP ('durante los días de su celebración', sin límite numérico de convocatorias): opción añadida introduce un tope inexistente."
+  },
+  {
+    "q": "Según el art. 48 del TREBEP, el permiso por lactancia de un hijo menor de doce meses da derecho a una ausencia del trabajo de:",
+    "options": [
+      "Una hora, que podrá dividir en dos fracciones",
+      "Una hora y media, que solo podrá disfrutarse de forma continuada.",
+      "Media hora, sin posibilidad de fraccionamiento",
+      "Dos horas, exclusivamente al inicio de la jornada"
+    ],
+    "correct": 0,
+    "exp": "Art. 48 TREBEP: el permiso de lactancia da derecho a una hora de ausencia del trabajo, que se podrá dividir en dos fracciones.",
+    "notaConversion": "Verificado contra el art. 48 f) TREBEP (una hora que podrá dividirse en dos fracciones): opción añadida cambia la duración y elimina la posibilidad de fraccionamiento real."
+  },
+  {
+    "q": "Según el art. 48 del TREBEP, el derecho al permiso de lactancia constituye un derecho individual de los funcionarios que:",
+    "options": [
+      "No puede transferirse su ejercicio al otro progenitor, adoptante, guardador o acogedor",
+      "Puede transferirse libremente en cualquier momento al otro progenitor",
+      "Solo puede ejercerlo la madre biológica, nunca el padre",
+      "Solo puede transferirse su ejercicio cuando ambos progenitores presten servicio en la misma Administración."
+    ],
+    "correct": 0,
+    "exp": "Art. 48 TREBEP: el permiso de lactancia constituye un derecho individual de los funcionarios, sin que pueda transferirse su ejercicio al otro progenitor, adoptante, guardador o acogedor.",
+    "notaConversion": "Verificado contra el art. 48 f) TREBEP (derecho individual no transferible, sin excepción por coincidencia de Administración): opción añadida introduce una excepción inexistente."
+  },
+  {
+    "q": "Según el art. 48 k) del TREBEP, los días de permiso por asuntos particulares no pueden acumularse a:",
+    "options": [
+      "Las vacaciones anuales",
+      "Los permisos por matrimonio",
+      "Los permisos por accidente o enfermedad grave de un familiar.",
+      "Los permisos por lactancia"
+    ],
+    "correct": 0,
+    "exp": "Art. 48 k) TREBEP: los días de permiso por asuntos particulares no podrán acumularse a las vacaciones anuales retribuidas.",
+    "notaConversion": "Verificado contra el art. 48 k) TREBEP (asuntos particulares, seis días al año, no acumulables a vacaciones): la opción añadida se refiere a un permiso distinto (art. 48 a) no mencionado en la restricción."
+  },
+  {
+    "q": "Según el art. 48 l) del TREBEP, el permiso por matrimonio o constitución de pareja de hecho es de:",
+    "options": [
+      "Quince días",
+      "Diez días, ampliables a quince si conlleva cambio de residencia.",
+      "Cinco días",
+      "Un mes"
+    ],
+    "correct": 0,
+    "exp": "Art. 48 l) TREBEP: 'El permiso por matrimonio será de quince días.'",
+    "notaConversion": "Verificado contra el art. 48 l) TREBEP (permiso por matrimonio: quince días, sin condición de cambio de residencia): opción añadida falsa."
+  },
+  {
+    "q": "Según el art. 48 del TREBEP, el permiso por el tiempo indispensable para el cumplimiento de un deber inexcusable de carácter público o personal se concede:",
+    "options": [
+      "Por el tiempo indispensable para su cumplimiento",
+      "Con un máximo tasado de tres días en todo caso",
+      "Únicamente si el deber tiene carácter judicial",
+      "Con un máximo de cinco días hábiles al año, acumulables entre distintos deberes."
+    ],
+    "correct": 0,
+    "exp": "Art. 48 TREBEP: se concede permiso 'por el tiempo indispensable para el cumplimiento de un deber inexcusable de carácter público o personal.'",
+    "notaConversion": "Verificado contra el art. 48 j) TREBEP (deber inexcusable: por el tiempo indispensable, sin tope de días ni acumulación): opción añadida introduce un límite inexistente."
+  },
+  {
+    "q": "¿Qué relación existe entre el permiso por matrimonio (art. 48 l TREBEP) y el permiso por traslado de domicilio (art. 48 b TREBEP), en cuanto a su duración?",
+    "options": [
+      "El permiso por matrimonio (quince días) es sustancialmente más extenso que el permiso por traslado de domicilio (un día)",
+      "Ambos permisos tienen exactamente la misma duración",
+      "El permiso por traslado de domicilio duplica en duración al permiso por matrimonio.",
+      "El permiso por traslado de domicilio es más extenso que el de matrimonio"
+    ],
+    "correct": 0,
+    "exp": "El permiso por matrimonio o constitución de pareja de hecho (quince días) es sustancialmente más extenso que el permiso por traslado de domicilio sin cambio de residencia (un día), reflejando la distinta naturaleza y trascendencia de cada supuesto.",
+    "notaConversion": "Verificado contra los arts. 48 b) y 48 l) TREBEP (un día vs. quince días): opción añadida invierte la relación real de duraciones."
+  },
+  {
+    "q": "¿Qué relación existe entre la duración del permiso por accidente o enfermedad grave según el grado de parentesco (art. 48 a TREBEP) y el criterio de proximidad familiar?",
+    "options": [
+      "A mayor proximidad de parentesco (primer grado) corresponde una mayor duración del permiso (cinco días) que en el segundo grado (cuatro días)",
+      "El tercer grado de parentesco genera un permiso de tres días hábiles.",
+      "La duración del permiso es idéntica cualquiera que sea el grado de parentesco",
+      "El segundo grado de parentesco genera más días de permiso que el primer grado"
+    ],
+    "correct": 0,
+    "exp": "El TREBEP establece una duración mayor del permiso (cinco días hábiles) para el primer grado de consanguinidad o afinidad, frente a los cuatro días hábiles previstos para el segundo grado, reflejando el criterio de proximidad familiar.",
+    "notaConversion": "Verificado contra el art. 48 a) TREBEP (el precepto solo distingue primer y segundo grado, cinco y cuatro días; no prevé permiso para tercer grado): opción añadida falsa."
+  },
+  {
+    "q": "¿Qué relación existe entre los 'días de asuntos particulares' del art. 48 k) TREBEP y las 'vacaciones anuales' del art. 50 TREBEP?",
+    "options": [
+      "Son conceptos jurídicamente distintos, no pudiendo acumularse los días de asuntos particulares a las vacaciones anuales retribuidas",
+      "Son exactamente el mismo concepto con dos nombres distintos",
+      "Los días de asuntos particulares sustituyen automáticamente a las vacaciones anuales",
+      "Los días de asuntos particulares se computan como parte integrante de las vacaciones anuales retribuidas."
+    ],
+    "correct": 0,
+    "exp": "El TREBEP distingue claramente los días de asuntos particulares (permiso específico del art. 48 k) de las vacaciones anuales retribuidas (art. 50), estableciendo expresamente que no pueden acumularse entre sí.",
+    "notaConversion": "Verificado contra los arts. 48 k) y 50 TREBEP (conceptos distintos, no acumulables ni integrados entre sí): opción añadida falsa."
+  },
+  {
+    "q": "Según el art. 50 del TREBEP, los funcionarios tendrán derecho a disfrutar, durante cada año completo de servicio activo, de unas vacaciones retribuidas de:",
+    "options": [
+      "Veintidós días hábiles, o los días que correspondan proporcionalmente si el tiempo de servicio fue menor",
+      "Treinta días naturales sin excepción",
+      "Veinticinco días hábiles, con independencia del tiempo de servicios prestados.",
+      "Quince días hábiles improrrogables"
+    ],
+    "correct": 0,
+    "exp": "Art. 50.1 TREBEP: los funcionarios tendrán derecho a disfrutar, durante cada año completo de servicio activo, de una vacación retribuida de veintidós días hábiles, o de los días que correspondan proporcionalmente al tiempo de servicios efectivos.",
+    "notaConversion": "Verificado contra el art. 50.1 TREBEP (veintidós días hábiles, proporcionales al tiempo de servicio): opción añadida cambia el número de días y elimina la proporcionalidad real."
+  },
+  {
+    "q": "Según el art. 50 del TREBEP, además de los días de vacación ordinaria, se puede tener derecho a días adicionales de vacación en función de:",
+    "options": [
+      "Los años de servicio prestados, conforme a la escala que se determine",
+      "El grado de discapacidad reconocido, con independencia de la antigüedad.",
+      "La titulación académica obtenida",
+      "El número de hijos a cargo del funcionario"
+    ],
+    "correct": 0,
+    "exp": "El art. 50 TREBEP (en relación con la disposición adicional decimocuarta) prevé el disfrute de días adicionales de vacación en función de los años de servicio prestados.",
+    "notaConversion": "Verificado contra el art. 50 TREBEP y su previsión de días adicionales por años de servicio (no por discapacidad): opción añadida introduce un criterio distinto al legal."
+  },
+  {
+    "q": "Según el art. 51 del TREBEP, la jornada de trabajo, los permisos y las vacaciones del personal laboral se rigen, en primer término, por:",
+    "options": [
+      "El TREBEP y la legislación laboral correspondiente",
+      "Únicamente el Estatuto de los Trabajadores, sin ninguna especialidad",
+      "Exclusivamente lo que decida cada Ayuntamiento sin ningún marco legal",
+      "Los convenios colectivos sectoriales, con exclusión de toda norma estatal o autonómica."
+    ],
+    "correct": 0,
+    "exp": "Art. 51 TREBEP: la jornada de trabajo, permisos y vacaciones del personal laboral se rigen por el propio TREBEP y por la legislación laboral correspondiente.",
+    "notaConversion": "Verificado contra el art. 51 TREBEP (remisión al TREBEP y a la legislación laboral, no solo a convenios sectoriales): opción añadida falsa."
+  },
+  {
+    "q": "Según el art. 52 TREBEP, ¿con qué deben desempeñar los empleados públicos las tareas que tengan asignadas?",
+    "options": [
+      "Con diligencia",
+      "Con subordinación jerárquica estricta.",
+      "Con premura",
+      "Con discrecionalidad"
+    ],
+    "correct": 0,
+    "exp": "El art. 52 dice literalmente que los empleados públicos 'deberán desempeñar con diligencia las tareas que tengan asignadas'.",
+    "fuente": "Art. 52 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado contra el art. 52 TREBEP ('deberán desempeñar con diligencia las tareas'): 'subordinación jerárquica estricta' no es el término empleado por el precepto."
+  },
+  {
+    "q": "El art. 52 TREBEP señala que los empleados públicos deben velar por los intereses generales con sujeción y observancia de...",
+    "options": [
+      "los principios generales del Derecho Administrativo y la jurisprudencia constitucional.",
+      "los Estatutos de la función pública y sus reglamentos",
+      "la Constitución y el resto del ordenamiento jurídico",
+      "el Código de Conducta y las normas internas de cada Administración"
+    ],
+    "correct": 2,
+    "exp": "El precepto exige velar por los intereses generales 'con sujeción y observancia de la Constitución y del resto del ordenamiento jurídico'.",
+    "fuente": "Art. 52 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado contra el art. 52 TREBEP ('con sujeción y observancia de la Constitución y del resto del ordenamiento jurídico'): opción añadida no es la fórmula legal."
+  },
+  {
+    "q": "Según el art. 52 TREBEP, el Código de Conducta de los empleados públicos está configurado por...",
+    "options": [
+      "los principios constitucionales de mérito y capacidad",
+      "los acuerdos de negociación colectiva suscritos en cada Administración.",
+      "las normas deontológicas de cada cuerpo funcionarial",
+      "los principios éticos y de conducta regulados en los artículos siguientes"
+    ],
+    "correct": 3,
+    "exp": "El art. 52 indica que los principios enumerados 'inspiran el Código de Conducta de los empleados públicos configurado por los principios éticos y de conducta regulados en los artículos siguientes' (arts. 53 y 54).",
+    "fuente": "Art. 52 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado contra el art. 52 TREBEP (Código de Conducta configurado por los principios éticos y de conducta de los arts. 53 y 54, no por acuerdos de negociación colectiva): opción añadida falsa."
+  },
+  {
+    "q": "Según el art. 52 TREBEP, ¿qué informarán los principios y reglas establecidos en este capítulo?",
+    "options": [
+      "la interpretación y aplicación del régimen disciplinario de los empleados públicos",
+      "la clasificación de los puestos de trabajo",
+      "el sistema retributivo complementario de cada Administración.",
+      "el procedimiento de provisión de vacantes"
+    ],
+    "correct": 0,
+    "exp": "El art. 52 concluye: 'Los principios y reglas establecidos en este capítulo informarán la interpretación y aplicación del régimen disciplinario de los empleados públicos'.",
+    "fuente": "Art. 52 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado contra el art. 52 TREBEP (informan la interpretación y aplicación del régimen disciplinario, no el régimen retributivo): opción añadida falsa."
+  },
+  {
+    "q": "¿Cuál de los siguientes términos aparece expresamente en la enumeración de principios del art. 52 TREBEP?",
+    "options": [
+      "Buena fe",
+      "Eficiencia",
+      "Accesibilidad",
+      "Lealtad"
+    ],
+    "correct": 2,
+    "exp": "El art. 52 enumera, entre otros, 'accesibilidad'. 'Eficiencia' aparece en el art. 53.8 (junto con eficacia y economía) y 'lealtad' en el art. 53.3, pero ninguno de los dos figura en la lista del art. 52.",
+    "fuente": "Art. 52 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado la lista completa de 15 principios del art. 52 TREBEP (objetividad, integridad, neutralidad, responsabilidad, imparcialidad, confidencialidad, dedicación al servicio público, transparencia, ejemplaridad, austeridad, accesibilidad, eficacia, honradez, promoción del entorno cultural y medioambiental, respeto a la igualdad entre mujeres y hombres): 'Buena fe' no figura en dicha lista (está en el art. 53.3), por lo que es un distractor genuinamente ajeno."
+  },
+  {
+    "q": "¿Cuál de los siguientes principios figura en la enumeración del art. 52 TREBEP?",
+    "options": [
+      "Lealtad",
+      "Eficiencia",
+      "Buena fe",
+      "Confidencialidad"
+    ],
+    "correct": 3,
+    "exp": "'Confidencialidad' está en la lista de principios del art. 52. 'Lealtad' y 'buena fe' son principios recogidos en el art. 53.3, no en el art. 52.",
+    "fuente": "Art. 52 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado la misma lista completa de 15 principios del art. 52 TREBEP: 'Eficiencia' no figura en ella (está en el art. 53.8), por lo que es un distractor genuinamente ajeno y distinto de las otras opciones ya usadas ('Lealtad', 'Buena fe')."
+  },
+  {
+    "q": "Según el art. 53.1 TREBEP (principios éticos), los empleados públicos respetarán...",
+    "options": [
+      "la Constitución y el resto de normas que integran el ordenamiento jurídico",
+      "los reglamentos internos de cada Administración y sus códigos deontológicos",
+      "las instrucciones de sus superiores jerárquicos en todo caso",
+      "los tratados internacionales suscritos por España en materia de función pública."
+    ],
+    "correct": 0,
+    "exp": "El art. 53.1 establece que 'los empleados públicos respetarán la Constitución y el resto de normas que integran el ordenamiento jurídico'.",
+    "fuente": "Art. 53.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado contra el art. 53.1 TREBEP ('respetarán la Constitución y el resto de normas que integran el ordenamiento jurídico'): opción añadida no es la fórmula legal."
+  },
+  {
+    "q": "El art. 53.2 TREBEP establece que la actuación de los empleados públicos perseguirá...",
+    "options": [
+      "el cumplimiento de los objetivos fijados en el plan estratégico de la Administración.",
+      "la eficiencia presupuestaria de su unidad administrativa",
+      "la satisfacción de los intereses generales de los ciudadanos",
+      "el cumplimiento estricto de los objetivos de su superior jerárquico"
+    ],
+    "correct": 2,
+    "exp": "El art. 53.2 dice que 'su actuación perseguirá la satisfacción de los intereses generales de los ciudadanos'.",
+    "fuente": "Art. 53.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado contra el art. 53.2 TREBEP (persigue la satisfacción de los intereses generales de los ciudadanos, no objetivos de planes estratégicos): opción añadida falsa."
+  },
+  {
+    "q": "Según el art. 53.2 TREBEP, la actuación de los empleados públicos se fundamentará en consideraciones objetivas orientadas hacia...",
+    "options": [
+      "la lealtad institucional y la jerarquía administrativa",
+      "la eficiencia administrativa y el ahorro presupuestario.",
+      "la eficacia y la economía procedimental",
+      "la imparcialidad y el interés común"
+    ],
+    "correct": 3,
+    "exp": "El art. 53.2 señala que la actuación 'se fundamentará en consideraciones objetivas orientadas hacia la imparcialidad y el interés común'.",
+    "fuente": "Art. 53.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado contra el art. 53.2 TREBEP (se fundamenta en imparcialidad e interés común, no en eficiencia/ahorro presupuestario): opción añadida falsa."
+  },
+  {
+    "q": "El art. 53.3 TREBEP dispone que los empleados públicos ajustarán su actuación a los principios de...",
+    "options": [
+      "lealtad y buena fe",
+      "austeridad y eficacia",
+      "imparcialidad y transparencia.",
+      "objetividad y neutralidad"
+    ],
+    "correct": 0,
+    "exp": "El art. 53.3 establece que 'ajustarán su actuación a los principios de lealtad y buena fe' con la Administración, superiores, compañeros, subordinados y ciudadanos.",
+    "fuente": "Art. 53.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado contra el art. 53.3 TREBEP (principios de lealtad y buena fe, no imparcialidad y transparencia): opción añadida falsa."
+  },
+  {
+    "q": "Según el art. 53.4 TREBEP, la conducta de los empleados públicos se basará en el respeto de...",
+    "options": [
+      "los principios de eficacia y economía procedimental.",
+      "los principios de jerarquía y coordinación administrativa",
+      "los derechos fundamentales y libertades públicas",
+      "los criterios de mérito y capacidad en el acceso al empleo"
+    ],
+    "correct": 2,
+    "exp": "El art. 53.4 dice que 'su conducta se basará en el respeto de los derechos fundamentales y libertades públicas', evitando toda discriminación.",
+    "fuente": "Art. 53.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado contra el art. 53.4 TREBEP (respeto de derechos fundamentales y libertades públicas, no de eficacia y economía procedimental): opción añadida falsa."
+  },
+  {
+    "q": "El art. 53.4 TREBEP exige evitar toda actuación que pueda producir discriminación por razón de, entre otras causas,...",
+    "options": [
+      "la antigüedad en el puesto de trabajo",
+      "la unidad administrativa de destino del empleado.",
+      "el nivel de complemento específico percibido",
+      "la orientación e identidad sexual"
+    ],
+    "correct": 3,
+    "exp": "El art. 53.4 enumera entre las causas de discriminación a evitar 'la orientación e identidad sexual', junto con nacimiento, origen racial o étnico, género, sexo, religión, discapacidad, edad, etc.",
+    "fuente": "Art. 53.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado la lista completa de causas de discriminación del art. 53.4 TREBEP (nacimiento, origen racial o étnico, género, sexo, orientación e identidad sexual, expresión de género, características sexuales, religión o convicciones, opinión, discapacidad, edad, u otra condición personal o social): la 'unidad administrativa de destino' es un dato organizativo, no una condición personal o social, por lo que es ajena a dicha lista."
+  },
+  {
+    "q": "Conforme al art. 53.5 TREBEP, los empleados públicos se abstendrán en aquellos asuntos en los que tengan...",
+    "options": [
+      "un interés personal",
+      "una relación de coordinación funcional",
+      "una discrepancia técnica con el informe preceptivo",
+      "una relación de subordinación jerárquica con el superior firmante."
+    ],
+    "correct": 0,
+    "exp": "El art. 53.5 dice que 'se abstendrán en aquellos asuntos en los que tengan un interés personal, así como de toda actividad privada o interés que pueda suponer un riesgo de plantear conflictos de intereses con su puesto público'.",
+    "fuente": "Art. 53.5 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado contra el art. 53.5 TREBEP (abstención por interés personal, no por relación jerárquica): opción añadida falsa."
+  },
+  {
+    "q": "El art. 53.6 TREBEP prohíbe a los empleados públicos contraer obligaciones económicas o intervenir en operaciones financieras cuando...",
+    "options": [
+      "el importe supere el salario mínimo interprofesional",
+      "impliquen a parientes hasta el cuarto grado de consanguinidad.",
+      "pueda suponer un conflicto de intereses con las obligaciones de su puesto público",
+      "no exista autorización previa del órgano de personal"
+    ],
+    "correct": 2,
+    "exp": "El art. 53.6 establece que no contraerán obligaciones económicas ni intervendrán en operaciones financieras, patrimoniales o negocios jurídicos 'cuando pueda suponer un conflicto de intereses con las obligaciones de su puesto público'.",
+    "fuente": "Art. 53.6 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado contra el art. 53.6 TREBEP (conflicto de intereses con el puesto público, sin referencia al grado de parentesco): opción añadida falsa."
+  },
+  {
+    "q": "Según el art. 53.7 TREBEP, los empleados públicos no aceptarán...",
+    "options": [
+      "instrucciones de órganos de inspección distintos al propio",
+      "encargos de tareas que excedan su puesto de trabajo",
+      "instrucciones que contradigan los planes estratégicos de la unidad administrativa.",
+      "ningún trato de favor o situación que implique privilegio o ventaja injustificada"
+    ],
+    "correct": 3,
+    "exp": "El art. 53.7 dice que 'no aceptarán ningún trato de favor o situación que implique privilegio o ventaja injustificada, por parte de personas físicas o entidades privadas'.",
+    "fuente": "Art. 53.7 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado contra el art. 53.7 TREBEP (no aceptar trato de favor o ventaja injustificada de particulares, no sobre instrucciones internas): opción añadida falsa."
+  },
+  {
+    "q": "El art. 53.8 TREBEP establece que los empleados públicos actuarán de acuerdo con los principios de...",
+    "options": [
+      "responsabilidad, imparcialidad y confidencialidad.",
+      "eficacia, economía y eficiencia",
+      "austeridad, transparencia y ejemplaridad",
+      "objetividad, integridad y neutralidad"
+    ],
+    "correct": 1,
+    "exp": "El art. 53.8 dice que 'actuarán de acuerdo con los principios de eficacia, economía y eficiencia'.",
+    "fuente": "Art. 53.8 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado contra el art. 53.8 TREBEP (principios de eficacia, economía y eficiencia): la tríada añadida corresponde a otros principios del art. 52 y no es la del art. 53.8."
+  },
+  {
+    "q": "Según el art. 53.8 TREBEP, además de aplicar los principios de eficacia, economía y eficiencia, los empleados públicos vigilarán...",
+    "options": [
+      "la correcta aplicación del régimen disciplinario",
+      "la ejecución presupuestaria de su unidad administrativa.",
+      "la consecución del interés general y el cumplimiento de los objetivos de la organización",
+      "el respeto a la igualdad entre mujeres y hombres"
+    ],
+    "correct": 2,
+    "exp": "El art. 53.8 añade que 'vigilarán la consecución del interés general y el cumplimiento de los objetivos de la organización'.",
+    "fuente": "Art. 53.8 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado contra el art. 53.8 TREBEP (vigilancia del interés general y de los objetivos de la organización, no de la ejecución presupuestaria): opción añadida falsa."
+  },
+  {
+    "q": "El art. 53.9 TREBEP prohíbe influir en la agilización o resolución de un trámite o procedimiento administrativo...",
+    "options": [
+      "sin autorización del secretario general",
+      "sin informe jurídico previo",
+      "sin justa causa",
+      "sin dictamen previo del órgano de control interno."
+    ],
+    "correct": 2,
+    "exp": "El art. 53.9 dice que 'no influirán en la agilización o resolución de trámite o procedimiento administrativo sin justa causa'.",
+    "fuente": "Art. 53.9 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado contra el art. 53.9 TREBEP (no influir sin justa causa, sin exigir dictamen de control interno): opción añadida falsa."
+  },
+  {
+    "q": "Según el art. 53.10 TREBEP, los empleados públicos cumplirán con diligencia las tareas que les correspondan y, en su caso,...",
+    "options": [
+      "solicitarán la ampliación de plazo con carácter general.",
+      "resolverán dentro de plazo los procedimientos o expedientes de su competencia",
+      "elevarán consulta preceptiva a la Abogacía del Estado",
+      "delegarán su resolución en el superior jerárquico"
+    ],
+    "correct": 1,
+    "exp": "El art. 53.10 dice que cumplirán con diligencia las tareas y, en su caso, 'resolverán dentro de plazo los procedimientos o expedientes de su competencia'.",
+    "fuente": "Art. 53.10 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado contra el art. 53.10 TREBEP (resolución dentro de plazo, no solicitud genérica de ampliación de plazo): opción añadida falsa."
+  },
+  {
+    "q": "El art. 53.11 TREBEP señala que los empleados públicos ejercerán sus atribuciones según el principio de...",
+    "options": [
+      "jerarquía normativa",
+      "eficiencia organizativa.",
+      "dedicación al servicio público",
+      "descentralización funcional"
+    ],
+    "correct": 2,
+    "exp": "El art. 53.11 dice que 'ejercerán sus atribuciones según el principio de dedicación al servicio público'.",
+    "fuente": "Art. 53.11 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado contra el art. 53.11 TREBEP (principio de dedicación al servicio público, no de eficiencia organizativa): opción añadida falsa."
+  },
+  {
+    "q": "Según el art. 53.11 TREBEP, el principio de dedicación al servicio público implica abstenerse de conductas contrarias al mismo y de cualesquiera otras que comprometan...",
+    "options": [
+      "la eficacia en la prestación de los servicios públicos.",
+      "la austeridad en el gasto público",
+      "la transparencia en la contratación pública",
+      "la neutralidad en el ejercicio de los servicios públicos"
+    ],
+    "correct": 3,
+    "exp": "El art. 53.11 concreta que deben abstenerse 'no solo de conductas contrarias al mismo, sino también de cualesquiera otras que comprometan la neutralidad en el ejercicio de los servicios públicos'.",
+    "fuente": "Art. 53.11 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado contra el art. 53.11 TREBEP (compromiso de la neutralidad en el ejercicio de los servicios públicos, no de la eficacia): opción añadida falsa."
+  },
+  {
+    "q": "El art. 53.12 TREBEP obliga a los empleados públicos a guardar secreto de...",
+    "options": [
+      "las materias clasificadas u otras cuya difusión esté prohibida legalmente",
+      "las instrucciones verbales de sus superiores jerárquicos",
+      "los datos estadísticos de carácter público elaborados por su unidad.",
+      "los expedientes disciplinarios ya archivados"
+    ],
+    "correct": 0,
+    "exp": "El art. 53.12 dice que 'guardarán secreto de las materias clasificadas u otras cuya difusión esté prohibida legalmente'.",
+    "fuente": "Art. 53.12 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado contra el art. 53.12 TREBEP (secreto de materias clasificadas o de difusión prohibida, no de datos estadísticos públicos): opción añadida falsa."
+  },
+  {
+    "q": "Según el art. 53.12 TREBEP, los empleados públicos no podrán hacer uso de la información obtenida por razón de su cargo para...",
+    "options": [
+      "elaborar estudios estadísticos anonimizados de uso interno.",
+      "elaborar informes técnicos internos",
+      "beneficio propio o de terceros, o en perjuicio del interés público",
+      "justificar la interposición de recursos administrativos"
+    ],
+    "correct": 2,
+    "exp": "El art. 53.12 concluye que no podrán 'hacer uso de la información obtenida para beneficio propio o de terceros, o en perjuicio del interés público'.",
+    "fuente": "Art. 53.12 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado contra el art. 53.12 TREBEP (prohibición de uso en beneficio propio/de terceros o perjuicio del interés público; un estudio estadístico anonimizado de uso interno no encaja en esa prohibición): opción añadida falsa."
+  },
+  {
+    "q": "¿Cómo se titula el art. 53 del TREBEP?",
+    "options": [
+      "Principios de conducta",
+      "Deberes de los empleados públicos.",
+      "Código deontológico",
+      "Principios éticos"
+    ],
+    "correct": 3,
+    "exp": "El art. 53 se titula 'Principios éticos', frente al art. 54, titulado 'Principios de conducta'.",
+    "fuente": "Art. 53 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta",
+    "notaConversion": "Verificado los títulos reales de los arts. 52 ('Deberes de los empleados públicos. Código de Conducta'), 53 ('Principios éticos') y 54 ('Principios de conducta'): la opción añadida reproduce el título del art. 52, distinto del art. 53 por el que se pregunta."
+  }
+]
