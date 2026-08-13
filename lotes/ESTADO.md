@@ -329,6 +329,39 @@ opciones y se volcaron al tema 4, el mismo destino que los temas 5, 6, 7 y
 8, sin agentes adicionales — 260 nuevas, 0 duplicadas. Banco de Policía
 Local: de 3.649 a **3.909 preguntas**.
 
+## Tema 3 · El Estatuto de Autonomía de Aragón: título preliminar, organización institucional y clases de competencias — PRIMERA VUELTA CERRADA
+
+**260 preguntas** (de 100 que había), todas de 4 opciones. 4 lotes de 40,
+compartiendo el consolidado del Estatuto de Autonomía de Aragón (LO
+5/2007, BOE-A-2007-8444) ya descargado.
+
+| Lote | Tramo | Confirmadas | Corregidas | Rechazadas |
+|---|---|---|---|---|
+| A | Título Preliminar (arts. 1-10) y Título III "La Administración Pública en Aragón" (arts. 61-62) | 40 | 0 | 0 |
+| B | Título II, Cap. I "Las Cortes de Aragón" (arts. 33-45) | 40 | 0 | 0 |
+| C | Título II, Cap. II-IV: Presidente, Gobierno/Diputación General y Justicia de Aragón (arts. 46-60) | 40 | 0 | 0 |
+| D | Título V "Competencias de la Comunidad Autónoma" (arts. 70-80) | 40 | 0 | 0 |
+
+Notas:
+- Antes de generar se verificó la estructura real de los 9 títulos del
+  Estatuto y se comprobó que el título oficial del tema ("título
+  preliminar, organización institucional... y clases de competencias") no
+  menciona el Título I (derechos, arts. 11-31, que el banco ya excluía
+  correctamente) ni el Título IV "La Justicia" (poder judicial en Aragón,
+  arts. 63-69) — se instruyó explícitamente a los 4 redactores para que
+  no tocaran esos dos títulos, y ninguno lo hizo.
+- El lote A llegó con la correcta desequilibrada (12/12/9/7); se
+  reequilibró antes de fusionar.
+- El redactor del lote C señaló que el Capítulo III del Título II (arts.
+  53-58) se titula realmente "El Gobierno de Aragón o la Diputación
+  General de Aragón", no "La Administración" como decía el encargo — el
+  rango de artículos era correcto, solo la etiqueta del encargo estaba mal.
+
+**Aprovechado para Policía Local**: las 260 preguntas se redujeron a 3
+opciones y se volcaron al tema 3 ("Organización territorial del Estado.
+Estatuto de Aragón"), sin agentes adicionales — 260 nuevas, 0 duplicadas.
+Banco de Policía Local: de 3.909 a **4.169 preguntas**.
+
 ## Policía Local Zaragoza · importación de la Constitución desde Aux. Admin. (11-ago-2026)
 
 Segunda importación cruzada, esta vez con conversión real de 4→3 opciones
