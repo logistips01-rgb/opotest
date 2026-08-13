@@ -1,0 +1,526 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 4,
+  "preguntas": [
+    {
+      "q": "Según el art. 6.1 LPAC, ¿qué Administraciones dispondrán de un registro electrónico general de apoderamientos?",
+      "options": [
+        "La Administración General del Estado, las Comunidades Autónomas y las Entidades Locales.",
+        "Únicamente la Administración General del Estado.",
+        "La Administración General del Estado y las Comunidades Autónomas, pero no las Entidades Locales.",
+        "Los Colegios Profesionales y las Cámaras de Comercio."
+      ],
+      "correct": 0,
+      "exp": "El art. 6.1 LPAC dispone que la AGE, las Comunidades Autónomas y las Entidades Locales dispondrán de un registro electrónico general de apoderamientos.",
+      "fuente": "Art. 6.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 6.1 LPAC, ¿qué poderes deberán inscribirse, al menos, en el registro electrónico general de apoderamientos?",
+      "options": [
+        "Todos los poderes, generales o especiales, cualquiera que sea su forma de otorgamiento.",
+        "Únicamente los poderes otorgados ante notario para actuaciones judiciales.",
+        "Solo los poderes otorgados por personas jurídicas para procedimientos tributarios.",
+        "Los de carácter general otorgados apud acta, presencial o electrónicamente, por quien ostente la condición de interesado a favor de representante, para actuar en su nombre ante las Administraciones Públicas."
+      ],
+      "correct": 3,
+      "exp": "El art. 6.1 LPAC exige inscribir, al menos, los poderes de carácter general otorgados apud acta, presencial o electrónicamente, por quien ostente la condición de interesado a favor de representante, para actuar en su nombre ante las Administraciones Públicas.",
+      "fuente": "Art. 6.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 6.1 LPAC, además de la inscripción del poder, ¿qué otro dato deberá constar en el registro electrónico general de apoderamientos?",
+      "options": [
+        "El domicilio fiscal del apoderado.",
+        "El bastanteo realizado del poder.",
+        "La firma manuscrita del funcionario receptor.",
+        "El número de expediente en el que se empleará el poder."
+      ],
+      "correct": 1,
+      "exp": "El art. 6.1 LPAC señala que también deberá constar el bastanteo realizado del poder.",
+      "fuente": "Art. 6.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "En el ámbito estatal, ¿cuál es el registro electrónico general de apoderamientos al que se refiere el art. 6.1 LPAC?",
+      "options": [
+        "El Registro Electrónico General de la Administración General del Estado.",
+        "El Registro Central de Representantes del Ministerio de Justicia.",
+        "El Registro Mercantil Central.",
+        "El Registro Electrónico de Apoderamientos de la Administración General del Estado."
+      ],
+      "correct": 3,
+      "exp": "El art. 6.1 LPAC precisa que, en el ámbito estatal, este registro será el Registro Electrónico de Apoderamientos de la Administración General del Estado.",
+      "fuente": "Art. 6.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Impide el registro electrónico general de apoderamientos, según el art. 6.1 LPAC, la existencia de registros particulares en cada Organismo?",
+      "options": [
+        "Sí, la creación del registro general deroga automáticamente cualquier registro particular existente.",
+        "Solo pueden coexistir si lo autoriza expresamente el Consejo de Ministros mediante real decreto.",
+        "No; cada Organismo podrá disponer de su propio registro electrónico de apoderamientos para trámites específicos.",
+        "No, pero únicamente en el ámbito de las Comunidades Autónomas."
+      ],
+      "correct": 2,
+      "exp": "El art. 6.1 LPAC establece que los registros generales de apoderamientos no impedirán la existencia de registros particulares en cada Organismo, que podrá disponer de su propio registro electrónico de apoderamientos.",
+      "fuente": "Art. 6.1 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 6.2 LPAC, los registros electrónicos generales y particulares de apoderamientos de todas las Administraciones deberán:",
+      "options": [
+        "Ser plenamente interoperables entre sí, garantizando su interconexión, compatibilidad informática y la transmisión telemática de solicitudes, escritos y comunicaciones.",
+        "Centralizarse obligatoriamente en un único registro estatal antes de 2020.",
+        "Permanecer independientes entre Administraciones para preservar la protección de datos.",
+        "Requerir la autorización previa del Registro Mercantil para cada asiento."
+      ],
+      "correct": 0,
+      "exp": "El art. 6.2 LPAC exige que los registros electrónicos generales y particulares de apoderamientos de todas las Administraciones sean plenamente interoperables entre sí, garantizando interconexión, compatibilidad informática y transmisión telemática.",
+      "fuente": "Art. 6.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 6.2 LPAC permite comprobar válidamente la representación de quienes actúan ante las Administraciones Públicas en nombre de un tercero mediante la consulta a:",
+      "options": [
+        "El Registro Civil y el Padrón municipal.",
+        "Únicamente el registro de la Propiedad.",
+        "Las bases de datos de la Agencia Tributaria exclusivamente.",
+        "Otros registros administrativos similares, al registro mercantil, de la propiedad, y a los protocolos notariales."
+      ],
+      "correct": 3,
+      "exp": "El art. 6.2 LPAC permite comprobar la representación mediante consulta a otros registros administrativos similares, al registro mercantil, de la propiedad, y a los protocolos notariales.",
+      "fuente": "Art. 6.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 6.2 LPAC, ¿qué obligación de interoperabilidad se establece respecto de los registros mercantiles, de la propiedad y de los protocolos notariales?",
+      "options": [
+        "Ninguna; son registros ajenos al sistema de apoderamientos electrónicos.",
+        "Solo deben ser interoperables si lo solicita expresamente el interesado en cada caso.",
+        "Deberán ser interoperables con los registros electrónicos generales y particulares de apoderamientos.",
+        "Solo el registro mercantil tiene obligación de interoperabilidad; los otros dos quedan excluidos."
+      ],
+      "correct": 2,
+      "exp": "El art. 6.2 LPAC dispone que los registros mercantiles, de la propiedad y de los protocolos notariales serán interoperables con los registros electrónicos generales y particulares de apoderamientos.",
+      "fuente": "Art. 6.2 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuál de los siguientes datos NO figura entre los que, como mínimo, deben contener los asientos de los registros de apoderamientos según el art. 6.3 LPAC?",
+      "options": [
+        "La fecha de inscripción.",
+        "El período de tiempo por el cual se otorga el poder.",
+        "El tipo de poder según las facultades que otorgue.",
+        "El domicilio del apoderado."
+      ],
+      "correct": 3,
+      "exp": "El art. 6.3 LPAC exige nombre/denominación e identificación del poderdante y del apoderado, fecha de inscripción, período de vigencia y tipo de poder; no exige el domicilio del apoderado.",
+      "fuente": "Art. 6.3 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 6.3.a) LPAC, respecto del poderdante, el asiento del registro deberá contener:",
+      "options": [
+        "Nombre y apellidos o la denominación o razón social, documento nacional de identidad, número de identificación fiscal o documento equivalente.",
+        "Únicamente su número de identificación fiscal.",
+        "Su domicilio fiscal y número de cuenta bancaria.",
+        "Su firma electrónica avanzada certificada."
+      ],
+      "correct": 0,
+      "exp": "El art. 6.3.a) LPAC exige nombre y apellidos o denominación o razón social, DNI, NIF o documento equivalente del poderdante.",
+      "fuente": "Art. 6.3.a) LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 6.3.b) LPAC exige que el asiento contenga, respecto del apoderado, determinados datos identificativos. ¿Cuáles son?",
+      "options": [
+        "Su relación de parentesco con el poderdante.",
+        "Nombre y apellidos o la denominación o razón social, documento nacional de identidad, número de identificación fiscal o documento equivalente.",
+        "Su titulación profesional habilitante.",
+        "Su número de colegiado, en caso de ser profesional colegiado."
+      ],
+      "correct": 1,
+      "exp": "El art. 6.3.b) LPAC exige, respecto del apoderado, nombre y apellidos o denominación o razón social, DNI, NIF o documento equivalente.",
+      "fuente": "Art. 6.3.b) LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El dato exigido por el art. 6.3.d) LPAC en el asiento del registro de apoderamientos es:",
+      "options": [
+        "El tipo de poder según las facultades que otorgue.",
+        "La fecha de inscripción.",
+        "El período de tiempo por el cual se otorga el poder.",
+        "El documento nacional de identidad del apoderado."
+      ],
+      "correct": 2,
+      "exp": "El art. 6.3.d) LPAC exige que conste el período de tiempo por el cual se otorga el poder.",
+      "fuente": "Art. 6.3.d) LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 6.3.e) LPAC, el asiento del registro de apoderamientos deberá contener:",
+      "options": [
+        "El tipo de poder según las facultades que otorgue.",
+        "La profesión del apoderado.",
+        "El domicilio del poderdante.",
+        "El número de expediente del procedimiento."
+      ],
+      "correct": 0,
+      "exp": "El art. 6.3.e) LPAC exige que conste el tipo de poder según las facultades que otorgue.",
+      "fuente": "Art. 6.3.e) LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuántas tipologías de poderes inscribibles regula, con carácter general, el art. 6.4 LPAC en sus letras a), b) y c)?",
+      "options": [
+        "Dos.",
+        "Tres.",
+        "Cuatro.",
+        "Cinco."
+      ],
+      "correct": 1,
+      "exp": "El art. 6.4 LPAC establece tres tipologías de poderes: general, para una Administración u Organismo concreto, y para trámites determinados.",
+      "fuente": "Art. 6.4 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 6.4.a) LPAC, el poder general inscribible permite que el apoderado actúe en nombre del poderdante:",
+      "options": [
+        "En cualquier actuación administrativa y ante cualquier Administración.",
+        "Únicamente en actuaciones tributarias.",
+        "Solo ante la Administración que le hubiera otorgado el poder.",
+        "Exclusivamente para la presentación de recursos administrativos."
+      ],
+      "correct": 0,
+      "exp": "El art. 6.4.a) LPAC define el poder general como aquel que permite actuar en cualquier actuación administrativa y ante cualquier Administración.",
+      "fuente": "Art. 6.4.a) LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El poder previsto en el art. 6.4.b) LPAC habilita al apoderado para actuar en nombre del poderdante:",
+      "options": [
+        "En cualquier actuación administrativa, pero solo ante una Administración u Organismo concreto.",
+        "En cualquier actuación administrativa y ante cualquier Administración.",
+        "Únicamente para trámites especificados en el propio poder.",
+        "Solo durante el plazo de un año desde su otorgamiento."
+      ],
+      "correct": 0,
+      "exp": "El art. 6.4.b) LPAC regula el poder para actuar en cualquier actuación administrativa ante una Administración u Organismo concreto.",
+      "fuente": "Art. 6.4.b) LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 6.4.c) LPAC, el tercer tipo de poder inscribible habilita al apoderado a actuar en nombre del poderdante:",
+      "options": [
+        "En cualquier actuación administrativa y ante cualquier Administración.",
+        "Únicamente para la realización de determinados trámites especificados en el poder.",
+        "Solo ante los Organismos con sede en la Comunidad Autónoma del poderdante.",
+        "Solo mediante comparecencia personal, nunca electrónica."
+      ],
+      "correct": 1,
+      "exp": "El art. 6.4.c) LPAC regula el poder para actuar únicamente en la realización de determinados trámites especificados en el poder.",
+      "fuente": "Art. 6.4.c) LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿A quién corresponde aprobar los modelos de poderes inscribibles en el registro, conforme al art. 6.4 LPAC, cuando dichos poderes se circunscriban a actuaciones ante la respectiva Administración autonómica?",
+      "options": [
+        "A la Administración General del Estado.",
+        "Al Consejo General del Poder Judicial.",
+        "A cada Entidad Local.",
+        "A cada Comunidad Autónoma."
+      ],
+      "correct": 3,
+      "exp": "El art. 6.4 LPAC dispone que cada Comunidad Autónoma aprobará los modelos de poderes inscribibles cuando se circunscriban a actuaciones ante su respectiva Administración.",
+      "fuente": "Art. 6.4 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué ocurrió con el segundo párrafo del apartado 4 del art. 6 LPAC, según consta en el texto consolidado?",
+      "options": [
+        "Fue derogado por la Ley 11/2022.",
+        "Fue declarado inconstitucional y nulo por la Sentencia del Tribunal Constitucional 55/2018, de 24 de mayo.",
+        "Fue modificado por el Real Decreto-ley 14/2019.",
+        "Continúa plenamente vigente sin ninguna modificación."
+      ],
+      "correct": 1,
+      "exp": "El texto consolidado del art. 6.4 LPAC recoge que el segundo párrafo del apartado 4 fue declarado inconstitucional y nulo por la STC 55/2018, de 24 de mayo.",
+      "fuente": "Art. 6.4 LPAC (nota del texto consolidado, STC 55/2018)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 6.5 LPAC, el apoderamiento «apud acta» se otorgará:",
+      "options": [
+        "Únicamente mediante escritura pública notarial.",
+        "Solo mediante remisión postal certificada a la sede del Organismo.",
+        "Mediante comparecencia electrónica en la sede electrónica correspondiente con los sistemas de firma previstos en la Ley, o mediante comparecencia personal en las oficinas de asistencia en materia de registros.",
+        "Exclusivamente por vía telefónica con grabación de la llamada."
+      ],
+      "correct": 2,
+      "exp": "El art. 6.5 LPAC establece que el apoderamiento apud acta se otorgará mediante comparecencia electrónica en la sede electrónica correspondiente, con firma electrónica, o mediante comparecencia personal en las oficinas de asistencia en materia de registros.",
+      "fuente": "Art. 6.5 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuál es la validez máxima de los poderes inscritos en el registro, según el art. 6.6 LPAC?",
+      "options": [
+        "Un año, renovable tácitamente.",
+        "Diez años a contar desde la fecha de inscripción.",
+        "Cinco años a contar desde la fecha de inscripción.",
+        "Indefinida, salvo revocación expresa del poderdante."
+      ],
+      "correct": 2,
+      "exp": "El art. 6.6 LPAC fija en cinco años, a contar desde la fecha de inscripción, la validez máxima de los poderes inscritos.",
+      "fuente": "Art. 6.6 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 6.6 LPAC, ¿puede el poderdante revocar o prorrogar el poder inscrito antes de que finalice su plazo de validez?",
+      "options": [
+        "No, el poder es irrevocable una vez inscrito.",
+        "Sí, en cualquier momento antes de la finalización de dicho plazo.",
+        "Solo puede revocarlo, nunca prorrogarlo.",
+        "Solo puede hacerlo transcurrido al menos un año desde la inscripción."
+      ],
+      "correct": 1,
+      "exp": "El art. 6.6 LPAC permite que, en cualquier momento antes de la finalización del plazo, el poderdante revoque o prorrogue el poder.",
+      "fuente": "Art. 6.6 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Las prórrogas del poder otorgadas por el poderdante al registro, según el art. 6.6 LPAC, tendrán una validez máxima de:",
+      "options": [
+        "Cinco años a contar desde la fecha de inscripción.",
+        "Un año, prorrogable indefinidamente.",
+        "Diez años improrrogables.",
+        "El mismo plazo pendiente del poder original, sin límite propio."
+      ],
+      "correct": 0,
+      "exp": "El art. 6.6 LPAC dispone que las prórrogas otorgadas por el poderdante tendrán una validez determinada máxima de cinco años a contar desde la fecha de inscripción.",
+      "fuente": "Art. 6.6 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 6.7 LPAC, ¿a qué registro pueden dirigirse las solicitudes de inscripción, revocación, prórroga o denuncia del poder?",
+      "options": [
+        "Únicamente al registro de la Administración que vaya a recibir efectos del poder.",
+        "Exclusivamente al Registro Electrónico de Apoderamientos de la Administración General del Estado.",
+        "A cualquier registro.",
+        "Solo al registro del domicilio del poderdante."
+      ],
+      "correct": 2,
+      "exp": "El art. 6.7 LPAC permite dirigir estas solicitudes a cualquier registro, debiendo quedar inscrita la circunstancia en el registro de la Administración u Organismo ante el que tenga efectos el poder.",
+      "fuente": "Art. 6.7 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "De acuerdo con el art. 6.7 LPAC, la inscripción de la solicitud de inscripción, revocación, prórroga o denuncia del poder surtirá efectos:",
+      "options": [
+        "Desde la fecha de presentación de la solicitud, con independencia de cuándo se inscriba.",
+        "Un mes después de la solicitud, en todo caso.",
+        "Desde la fecha de notificación al apoderado.",
+        "Desde la fecha en la que se produzca la inscripción en el registro de la Administración u Organismo ante el que tenga efectos el poder."
+      ],
+      "correct": 3,
+      "exp": "El art. 6.7 LPAC establece que estas solicitudes surtirán efectos desde la fecha en la que se produzca la inscripción en el registro de la Administración u Organismo ante el que tenga efectos el poder.",
+      "fuente": "Art. 6.7 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuántos apartados numerados integra el art. 6 LPAC, dedicado a los registros electrónicos de apoderamientos?",
+      "options": [
+        "Cinco.",
+        "Seis.",
+        "Siete.",
+        "Ocho."
+      ],
+      "correct": 2,
+      "exp": "El art. 6 LPAC se estructura en siete apartados numerados, del 1 al 7.",
+      "fuente": "Art. 6 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuál es el título del art. 7 LPAC?",
+      "options": [
+        "Capacidad de obrar.",
+        "Concepto de interesado.",
+        "Pluralidad de interesados.",
+        "Representación."
+      ],
+      "correct": 2,
+      "exp": "El art. 7 LPAC lleva por título «Pluralidad de interesados».",
+      "fuente": "Art. 7 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 7 LPAC, cuando en una solicitud, escrito o comunicación figuren varios interesados, ¿con quién se efectuarán las actuaciones que de ellos se deriven?",
+      "options": [
+        "Con todos los interesados de forma conjunta y simultánea, en todo caso.",
+        "Con el representante o el interesado que expresamente hayan señalado.",
+        "Con el interesado que designe el órgano instructor, a su libre criterio.",
+        "Con el interesado de mayor edad entre los que figuren."
+      ],
+      "correct": 1,
+      "exp": "El art. 7 LPAC dispone que las actuaciones se efectuarán con el representante o el interesado que expresamente hayan señalado.",
+      "fuente": "Art. 7 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Si en una solicitud con varios interesados no se ha señalado expresamente representante o interesado, el art. 7 LPAC dispone que las actuaciones se efectuarán:",
+      "options": [
+        "Con el que figure en primer término.",
+        "Con el que figure en último término.",
+        "Con todos ellos, notificándoles por separado.",
+        "Con el que acredite mayor interés legítimo."
+      ],
+      "correct": 0,
+      "exp": "El art. 7 LPAC establece que, en defecto de señalamiento expreso, las actuaciones se efectuarán con el interesado que figure en primer término.",
+      "fuente": "Art. 7 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 7 LPAC regula la pluralidad de interesados cuando estos figuren en:",
+      "options": [
+        "Una resolución administrativa ya notificada.",
+        "Un recurso de alzada exclusivamente.",
+        "Un convenio interadministrativo.",
+        "Una solicitud, escrito o comunicación."
+      ],
+      "correct": 3,
+      "exp": "El art. 7 LPAC se refiere al supuesto en que en una solicitud, escrito o comunicación figuren varios interesados.",
+      "fuente": "Art. 7 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "La regla del art. 7 LPAC sobre pluralidad de interesados se aplica a:",
+      "options": [
+        "Las actuaciones a que dé lugar la solicitud, escrito o comunicación presentados por varios interesados.",
+        "Únicamente a la notificación de la resolución que ponga fin al procedimiento.",
+        "Solo a los trámites de audiencia previa.",
+        "Exclusivamente a los recursos administrativos interpuestos conjuntamente."
+      ],
+      "correct": 0,
+      "exp": "El art. 7 LPAC habla de «las actuaciones a que den lugar» la solicitud, escrito o comunicación presentados por varios interesados.",
+      "fuente": "Art. 7 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El criterio subsidiario del art. 7 LPAC —el interesado que figure en primer término— solo se aplica cuando:",
+      "options": [
+        "No se haya señalado expresamente un representante o interesado con quien entenderse.",
+        "El procedimiento haya finalizado sin resolución expresa.",
+        "Todos los interesados hayan fallecido durante la tramitación.",
+        "El interesado en primer término lo solicite por escrito."
+      ],
+      "correct": 0,
+      "exp": "El art. 7 LPAC introduce el criterio del primer término «en su defecto», es decir, cuando no se haya señalado expresamente representante o interesado.",
+      "fuente": "Art. 7 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme a la regla de simplificación del art. 7 LPAC, ante una pluralidad de interesados en una misma solicitud, ¿es necesario dirigir las actuaciones a todos y cada uno de ellos por separado?",
+      "options": [
+        "Sí, siempre y en todo caso, so pena de nulidad.",
+        "No; basta con dirigirse al representante o interesado señalado, o en su defecto al que figure en primer término.",
+        "Sí, salvo que todos ellos residan en el mismo domicilio.",
+        "No, solo es necesario si son más de tres interesados."
+      ],
+      "correct": 1,
+      "exp": "El art. 7 LPAC simplifica la gestión de la pluralidad de interesados: basta con dirigirse al representante o interesado señalado, o en su defecto al que figure en primer término, sin necesidad de dirigirse individualmente a todos.",
+      "fuente": "Art. 7 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuál es el título del art. 8 LPAC?",
+      "options": [
+        "Concepto de interesado.",
+        "Pluralidad de interesados.",
+        "Nuevos interesados en el procedimiento.",
+        "Representación."
+      ],
+      "correct": 2,
+      "exp": "El art. 8 LPAC lleva por título «Nuevos interesados en el procedimiento».",
+      "fuente": "Art. 8 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "La previsión del art. 8 LPAC sobre comunicación a nuevos interesados se aplica exclusivamente durante la instrucción de procedimientos que:",
+      "options": [
+        "Hayan tenido publicidad.",
+        "Se tramiten por silencio administrativo.",
+        "Hayan sido objeto de recurso de alzada.",
+        "No hayan tenido publicidad."
+      ],
+      "correct": 3,
+      "exp": "El art. 8 LPAC se refiere a la instrucción de un procedimiento que no haya tenido publicidad.",
+      "fuente": "Art. 8 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 8 LPAC, ¿qué condición deben reunir las personas cuya existencia se advierta durante la instrucción para que proceda comunicarles la tramitación del procedimiento?",
+      "options": [
+        "Haber solicitado expresamente su personación mediante escrito motivado.",
+        "Ostentar la condición de funcionario público del órgano instructor.",
+        "Ser familiares directos de alguno de los interesados ya personados.",
+        "Ser titulares de derechos o intereses legítimos y directos cuya identificación resulte del expediente y que puedan resultar afectados por la resolución que se dicte."
+      ],
+      "correct": 3,
+      "exp": "El art. 8 LPAC exige que sean titulares de derechos o intereses legítimos y directos, cuya identificación resulte del expediente, y que puedan resultar afectados por la resolución que se dicte.",
+      "fuente": "Art. 8 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Cuando concurren los requisitos del art. 8 LPAC, la Administración deberá:",
+      "options": [
+        "Suspender automáticamente el procedimiento hasta que las nuevas personas se personen.",
+        "Comunicar a dichas personas la tramitación del procedimiento.",
+        "Iniciar un procedimiento sancionador independiente contra ellas.",
+        "Denegar de oficio cualquier solicitud posterior de esas personas."
+      ],
+      "correct": 1,
+      "exp": "El art. 8 LPAC dispone que se comunicará a dichas personas la tramitación del procedimiento.",
+      "fuente": "Art. 8 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 8 LPAC sitúa el momento en que se advierte la existencia de esas personas titulares de derechos o intereses:",
+      "options": [
+        "Antes de iniciarse el procedimiento.",
+        "Durante la instrucción del procedimiento.",
+        "Una vez dictada y notificada la resolución.",
+        "Durante la fase de ejecución del acto administrativo."
+      ],
+      "correct": 1,
+      "exp": "El art. 8 LPAC se refiere a que se advierta la existencia de esas personas «durante la instrucción de un procedimiento».",
+      "fuente": "Art. 8 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 8 LPAC exige que los intereses de esas personas, además de legítimos, sean:",
+      "options": [
+        "Colectivos.",
+        "Económicos.",
+        "Preexistentes al procedimiento.",
+        "Directos."
+      ],
+      "correct": 3,
+      "exp": "El art. 8 LPAC exige que sean titulares de derechos o intereses legítimos y directos.",
+      "fuente": "Art. 8 LPAC",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 8 LPAC, la identificación de las personas a las que debe comunicarse la tramitación del procedimiento ha de resultar:",
+      "options": [
+        "De una investigación policial previa.",
+        "De una declaración de los interesados ya personados.",
+        "Del expediente.",
+        "De la publicación en el Boletín Oficial correspondiente."
+      ],
+      "correct": 2,
+      "exp": "El art. 8 LPAC exige que la identificación de esas personas resulte del expediente.",
+      "fuente": "Art. 8 LPAC",
+      "confianza": "alta"
+    }
+  ]
+}
