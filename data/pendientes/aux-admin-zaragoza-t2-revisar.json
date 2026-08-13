@@ -1,0 +1,23 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 2,
+  "fecha": "2026-08-13",
+  "preguntas": [
+    {
+      "q": "Según el art. 8 de la LO 3/2007, constituye discriminación directa por razón de sexo:",
+      "options": [
+        "Cualquier trato desfavorable relacionado con la conciliación familiar en general",
+        "Todo trato desfavorable a las mujeres relacionado con el embarazo o la maternidad",
+        "El trato desfavorable a los hombres por asumir permisos de paternidad",
+        "Únicamente el despido durante el embarazo"
+      ],
+      "correct": 1,
+      "exp": "El art. 8 dice literalmente: 'Constituye discriminación directa por razón de sexo todo trato desfavorable a las mujeres relacionado con el embarazo o la maternidad.'",
+      "fuente": "Art. 8 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con art. 8: 'Constituye discriminación directa por razón de sexo todo trato desfavorable a las mujeres relacionado con el embarazo o la maternidad', coincide con la opción marcada.",
+      "_motivo": "ya está en el banco"
+    }
+  ]
+}

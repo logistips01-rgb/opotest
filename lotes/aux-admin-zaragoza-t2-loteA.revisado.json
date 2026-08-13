@@ -1,0 +1,606 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 2,
+  "preguntas": [
+    {
+      "q": "El art. 3 de la LO 3/2007 define el principio de igualdad de trato entre mujeres y hombres como la ausencia de toda discriminación, directa o indirecta, por razón de sexo. De las siguientes causas, ¿cuál NO cita expresamente ese artículo como especialmente derivada de tal discriminación?",
+      "options": [
+        "La maternidad",
+        "La asunción de obligaciones familiares",
+        "El estado civil",
+        "La orientación sexual"
+      ],
+      "correct": 3,
+      "exp": "El art. 3 solo menciona expresamente, como especialmente derivadas de la discriminación por razón de sexo, las que traen causa de la maternidad, la asunción de obligaciones familiares y el estado civil; no cita la orientación sexual.",
+      "fuente": "Art. 3 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con art. 3: 'especialmente, las derivadas de la maternidad, la asunción de obligaciones familiares y el estado civil'; no cita orientación sexual, opción correcta confirmada."
+    },
+    {
+      "q": "Según el art. 4 de la LO 3/2007, la igualdad de trato y de oportunidades entre mujeres y hombres tiene la consideración de:",
+      "options": [
+        "Un principio informador del ordenamiento jurídico, que se integrará y observará en la interpretación y aplicación de las normas jurídicas",
+        "Un derecho fundamental de aplicación directa sin necesidad de desarrollo legal",
+        "Una competencia exclusiva del Estado no delegable en las comunidades autónomas",
+        "Un objetivo programático sin efectos en la interpretación normativa"
+      ],
+      "correct": 0,
+      "exp": "El art. 4 califica la igualdad de trato y de oportunidades como 'un principio informador del ordenamiento jurídico' que se integrará y observará en la interpretación y aplicación de las normas jurídicas.",
+      "fuente": "Art. 4 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con art. 4: 'es un principio informador del ordenamiento jurídico... se integrará y observará en la interpretación y aplicación de las normas jurídicas', coincide literalmente con la opción marcada."
+    },
+    {
+      "q": "El art. 5 de la LO 3/2007 garantiza la igualdad de trato y de oportunidades entre mujeres y hombres en el acceso al empleo, la formación y la promoción profesionales y en las condiciones de trabajo. ¿En qué ámbitos declara expresamente aplicable este principio dicho artículo?",
+      "options": [
+        "Únicamente en el ámbito del empleo público",
+        "En el ámbito del empleo privado y en el del empleo público",
+        "Únicamente en el ámbito del empleo privado",
+        "En el empleo público, salvo en el ámbito local"
+      ],
+      "correct": 1,
+      "exp": "El art. 5 señala que el principio 'aplicable en el ámbito del empleo privado y en el del empleo público' se garantizará en los términos previstos en la normativa aplicable.",
+      "fuente": "Art. 5 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con art. 5 párrafo 1: 'aplicable en el ámbito del empleo privado y en el del empleo público', coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 5 de la LO 3/2007, el principio de igualdad de trato y de oportunidades se garantiza, entre otros ámbitos, en las condiciones de trabajo. ¿Qué dos aspectos concretos de dichas condiciones cita expresamente el precepto?",
+      "options": [
+        "Las de jornada y las de vacaciones",
+        "Las de formación continua y las de excedencia",
+        "Las retributivas y las de despido",
+        "Las de movilidad geográfica y las de ascenso automático"
+      ],
+      "correct": 2,
+      "exp": "El art. 5 incluye expresamente entre las condiciones de trabajo protegidas 'las condiciones de trabajo, incluidas las retributivas y las de despido'.",
+      "fuente": "Art. 5 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con art. 5 párrafo 1: '...en las condiciones de trabajo, incluidas las retributivas y las de despido', coincide con la opción marcada."
+    },
+    {
+      "q": "El art. 5 de la LO 3/2007 admite que una diferencia de trato basada en una característica relacionada con el sexo no constituya discriminación en el acceso al empleo cuando dicha característica sea un requisito profesional esencial y determinante. ¿Qué otras dos condiciones exige acumulativamente el precepto para que opere esta excepción?",
+      "options": [
+        "Que la empresa sea de titularidad pública y que exista informe previo de la Inspección de Trabajo",
+        "Que la diferencia esté pactada en convenio colectivo y cuente con autorización judicial",
+        "Que la actividad se desarrolle en el extranjero y que lo autorice el Ministerio competente",
+        "Que el objetivo sea legítimo y el requisito proporcionado"
+      ],
+      "correct": 3,
+      "exp": "El párrafo segundo del art. 5 exige, además del carácter esencial y determinante del requisito, 'siempre y cuando el objetivo sea legítimo y el requisito proporcionado'.",
+      "fuente": "Art. 5 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con art. 5 párrafo 2: '...siempre y cuando el objetivo sea legítimo y el requisito proporcionado', coincide con la opción marcada."
+    },
+    {
+      "q": "El párrafo segundo del art. 5 de la LO 3/2007, al regular la excepción del requisito profesional esencial, precisa que la ausencia de discriminación se predica del acceso al empleo:",
+      "options": [
+        "Incluida la formación necesaria",
+        "Excluyendo cualquier tipo de formación previa",
+        "Solo si el puesto es de duración determinada",
+        "Solo en el sector privado"
+      ],
+      "correct": 0,
+      "exp": "El precepto dice literalmente: 'No constituirá discriminación en el acceso al empleo, incluida la formación necesaria...'.",
+      "fuente": "Art. 5 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con art. 5 párrafo 2: 'No constituirá discriminación en el acceso al empleo, incluida la formación necesaria...', coincide con la opción marcada."
+    },
+    {
+      "q": "El art. 6.1 de la LO 3/2007 define la discriminación directa por razón de sexo como la situación en que se encuentra una persona que, en atención a su sexo, es tratada de manera menos favorable que otra en situación comparable. ¿A qué otras dos circunstancias temporales extiende el precepto expresamente esa situación, además de 'sea tratada'?",
+      "options": [
+        "'Vaya a ser tratada' y 'debiera ser tratada'",
+        "'Haya sido tratada' y 'pudiera ser tratada'",
+        "'Fue tratada' y 'será tratada en el futuro'",
+        "'Es tratada habitualmente' y 'fue tratada ocasionalmente'"
+      ],
+      "correct": 1,
+      "exp": "El art. 6.1 habla de la persona que 'sea, haya sido o pudiera ser tratada' de manera menos favorable, cubriendo presente, pasado y futuro hipotético.",
+      "fuente": "Art. 6.1 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con art. 6.1: 'que sea, haya sido o pudiera ser tratada', las dos circunstancias añadidas a 'sea tratada' son 'haya sido' y 'pudiera ser', coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 6.2 de la LO 3/2007, una disposición, criterio o práctica aparentemente neutros que ponga a personas de un sexo en desventaja particular respecto de las del otro NO se considera discriminación indirecta cuando:",
+      "options": [
+        "El perjudicado pertenezca a la Administración Pública",
+        "La práctica lleve aplicándose más de cinco años",
+        "Puedan justificarse objetivamente en atención a una finalidad legítima y los medios sean necesarios y adecuados",
+        "Exista un informe favorable de la Inspección de Trabajo"
+      ],
+      "correct": 2,
+      "exp": "El art. 6.2 excluye la discriminación indirecta cuando la disposición, criterio o práctica 'puedan justificarse objetivamente en atención a una finalidad legítima y que los medios para alcanzar dicha finalidad sean necesarios y adecuados'.",
+      "fuente": "Art. 6.2 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con art. 6.2: '...salvo que dicha disposición, criterio o práctica puedan justificarse objetivamente en atención a una finalidad legítima y que los medios... sean necesarios y adecuados', coincide con la opción marcada."
+    },
+    {
+      "q": "El art. 6.3 de la LO 3/2007 establece que, en cualquier caso, se considera discriminatoria:",
+      "options": [
+        "Solo la orden de discriminar directamente, no la indirecta",
+        "La discriminación indirecta cuando no esté justificada objetivamente",
+        "La ausencia de medidas de acción positiva",
+        "Toda orden de discriminar, directa o indirectamente, por razón de sexo"
+      ],
+      "correct": 3,
+      "exp": "El art. 6.3 dice literalmente: 'En cualquier caso, se considera discriminatoria toda orden de discriminar, directa o indirectamente, por razón de sexo.'",
+      "fuente": "Art. 6.3 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con art. 6.3: 'En cualquier caso, se considera discriminatoria toda orden de discriminar, directa o indirectamente, por razón de sexo', coincide con la opción marcada."
+    },
+    {
+      "q": "Comparando los apartados 1 y 2 del art. 6 de la LO 3/2007, ¿qué diferencia esencial existe entre discriminación directa e indirecta?",
+      "options": [
+        "La discriminación directa no admite justificación objetiva, mientras que la indirecta sí puede quedar excluida si existe una finalidad legítima y medios necesarios y adecuados",
+        "La discriminación indirecta solo puede darse en el ámbito de la Administración Pública",
+        "La discriminación directa exige siempre intencionalidad probada, la indirecta no",
+        "Ambas admiten idéntica justificación objetiva"
+      ],
+      "correct": 0,
+      "exp": "El art. 6.1 no prevé causa de exclusión para la discriminación directa, mientras que el art. 6.2 exime de la calificación de discriminación indirecta cuando existe justificación objetiva con finalidad legítima y medios necesarios y adecuados.",
+      "fuente": "Art. 6.1 y 6.2 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con art. 6.1 (sin excepción) y 6.2 (con excepción por justificación objetiva); la diferencia descrita en la opción marcada es correcta."
+    },
+    {
+      "q": "El art. 7.1 de la LO 3/2007 define el acoso sexual sin perjuicio de lo establecido en:",
+      "options": [
+        "La Ley del Estatuto de los Trabajadores",
+        "El Código Penal",
+        "La Ley Orgánica del Poder Judicial",
+        "El Estatuto Básico del Empleado Público"
+      ],
+      "correct": 1,
+      "exp": "El art. 7.1 comienza: 'Sin perjuicio de lo establecido en el Código Penal, a los efectos de esta Ley constituye acoso sexual...'.",
+      "fuente": "Art. 7.1 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con art. 7.1: 'Sin perjuicio de lo establecido en el Código Penal, a los efectos de esta Ley constituye acoso sexual...', coincide con la opción marcada."
+    },
+    {
+      "q": "Comparando los apartados 1 y 2 del art. 7 de la LO 3/2007, ¿qué elemento distingue la definición de acoso sexual de la de acoso por razón de sexo?",
+      "options": [
+        "El acoso por razón de sexo exige siempre reiteración temporal y el sexual no",
+        "El acoso sexual solo puede cometerlo un superior jerárquico",
+        "El acoso sexual requiere un comportamiento de naturaleza sexual, mientras que el acoso por razón de sexo se realiza en función del sexo de la persona sin naturaleza sexual necesaria",
+        "No existe ninguna diferencia entre ambos conceptos"
+      ],
+      "correct": 2,
+      "exp": "El art. 7.1 exige un comportamiento 'de naturaleza sexual', mientras que el art. 7.2 habla de 'cualquier comportamiento realizado en función del sexo de una persona', sin naturaleza sexual.",
+      "fuente": "Art. 7.1 y 7.2 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con art. 7.1 ('de naturaleza sexual') y 7.2 ('en función del sexo de una persona', sin naturaleza sexual); la diferencia descrita en la opción marcada es correcta."
+    },
+    {
+      "q": "Según el art. 7.3 de la LO 3/2007, el acoso sexual y el acoso por razón de sexo se considerarán:",
+      "options": [
+        "Discriminatorios solo si se acredita reiteración",
+        "Discriminatorios únicamente cuando los sufra una mujer",
+        "Infracciones administrativas leves",
+        "Discriminatorios en todo caso"
+      ],
+      "correct": 3,
+      "exp": "El art. 7.3 dispone: 'Se considerarán en todo caso discriminatorios el acoso sexual y el acoso por razón de sexo.'",
+      "fuente": "Art. 7.3 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con art. 7.3: 'Se considerarán en todo caso discriminatorios el acoso sexual y el acoso por razón de sexo', coincide con la opción marcada."
+    },
+    {
+      "q": "El art. 7.4 de la LO 3/2007 dispone que el condicionamiento de un derecho o de una expectativa de derecho a la aceptación de una situación constitutiva de acoso sexual o de acoso por razón de sexo se considerará:",
+      "options": [
+        "También acto de discriminación por razón de sexo",
+        "Una infracción penal autónoma tipificada en dicho artículo",
+        "Un supuesto de nulidad radical del contrato de trabajo exclusivamente",
+        "Causa de responsabilidad patrimonial de la Administración únicamente"
+      ],
+      "correct": 0,
+      "exp": "El art. 7.4 establece que ese condicionamiento 'se considerará también acto de discriminación por razón de sexo'.",
+      "fuente": "Art. 7.4 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con art. 7.4: '...se considerará también acto de discriminación por razón de sexo', coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 8 de la LO 3/2007, constituye discriminación directa por razón de sexo:",
+      "options": [
+        "Cualquier trato desfavorable relacionado con la conciliación familiar en general",
+        "Todo trato desfavorable a las mujeres relacionado con el embarazo o la maternidad",
+        "El trato desfavorable a los hombres por asumir permisos de paternidad",
+        "Únicamente el despido durante el embarazo"
+      ],
+      "correct": 1,
+      "exp": "El art. 8 dice literalmente: 'Constituye discriminación directa por razón de sexo todo trato desfavorable a las mujeres relacionado con el embarazo o la maternidad.'",
+      "fuente": "Art. 8 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con art. 8: 'Constituye discriminación directa por razón de sexo todo trato desfavorable a las mujeres relacionado con el embarazo o la maternidad', coincide con la opción marcada."
+    },
+    {
+      "q": "El art. 8 de la LO 3/2007, relativo a la discriminación por embarazo o maternidad, califica dicha discriminación como:",
+      "options": [
+        "Discriminación indirecta por razón de sexo",
+        "Discriminación por razón de sexo que solo opera en el ámbito laboral",
+        "Discriminación directa por razón de sexo",
+        "Discriminación por razón de sexo sujeta a prueba de intencionalidad"
+      ],
+      "correct": 2,
+      "exp": "El art. 8 califica expresamente el trato desfavorable a las mujeres relacionado con el embarazo o la maternidad como 'discriminación directa por razón de sexo'.",
+      "fuente": "Art. 8 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con art. 8, que califica expresamente ese trato como discriminación directa por razón de sexo; coincide con la opción marcada."
+    },
+    {
+      "q": "El art. 9 de la LO 3/2007 (indemnidad frente a represalias) considera discriminación por razón de sexo cualquier trato adverso o efecto negativo producido en una persona como consecuencia de la presentación de queja, reclamación, denuncia, demanda o recurso destinados a:",
+      "options": [
+        "Solicitar una excedencia por cuidado de hijos",
+        "Reclamar el ascenso profesional correspondiente a su categoría",
+        "Denunciar un accidente de trabajo no relacionado con el sexo",
+        "Impedir su discriminación y exigir el cumplimiento efectivo del principio de igualdad de trato entre mujeres y hombres"
+      ],
+      "correct": 3,
+      "exp": "El art. 9 exige que la queja, reclamación, denuncia, demanda o recurso estén 'destinados a impedir su discriminación y a exigir el cumplimiento efectivo del principio de igualdad de trato entre mujeres y hombres'.",
+      "fuente": "Art. 9 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con art. 9: '...destinados a impedir su discriminación y a exigir el cumplimiento efectivo del principio de igualdad de trato entre mujeres y hombres', coincide con la opción marcada."
+    },
+    {
+      "q": "¿Qué tipos de actuaciones de la persona afectada enumera expresamente el art. 9 de la LO 3/2007 como desencadenantes de la protección frente a represalias?",
+      "options": [
+        "Queja, reclamación, denuncia, demanda o recurso, de cualquier tipo",
+        "Únicamente la denuncia penal",
+        "Solo la demanda judicial en vía social",
+        "Exclusivamente la queja ante la Inspección de Trabajo"
+      ],
+      "correct": 0,
+      "exp": "El art. 9 protege frente a represalias derivadas de 'queja, reclamación, denuncia, demanda o recurso, de cualquier tipo'.",
+      "fuente": "Art. 9 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con art. 9: 'queja, reclamación, denuncia, demanda o recurso, de cualquier tipo', coincide con la opción marcada."
+    },
+    {
+      "q": "El instituto regulado en el art. 9 de la LO 3/2007 se conoce, según su propio título legal, como:",
+      "options": [
+        "Regla de inversión de la carga de la prueba",
+        "Indemnidad frente a represalias",
+        "Acción positiva",
+        "Tutela judicial efectiva"
+      ],
+      "correct": 1,
+      "exp": "El título del art. 9 es 'Indemnidad frente a represalias', que protege a quien reclama frente al trato adverso posterior.",
+      "fuente": "Art. 9 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con el título del art. 9, 'Indemnidad frente a represalias', coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 10 de la LO 3/2007, los actos y las cláusulas de los negocios jurídicos que constituyan o causen discriminación por razón de sexo se considerarán:",
+      "options": [
+        "Anulables a instancia de la parte perjudicada en el plazo de un año",
+        "Válidos, aunque generadores de responsabilidad civil",
+        "Nulos y sin efecto",
+        "Rescindibles únicamente por mutuo acuerdo de las partes"
+      ],
+      "correct": 2,
+      "exp": "El art. 10 dispone que tales actos y cláusulas 'se considerarán nulos y sin efecto'.",
+      "fuente": "Art. 10 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con art. 10: '...se considerarán nulos y sin efecto', coincide con la opción marcada."
+    },
+    {
+      "q": "Además de la nulidad, el art. 10 de la LO 3/2007 prevé que los actos discriminatorios darán lugar a responsabilidad a través de dos sistemas. ¿Cuáles son?",
+      "options": [
+        "Un sistema de mediación obligatoria y un sistema arbitral",
+        "Un sistema de amonestación y un sistema de readmisión forzosa",
+        "Un sistema de conciliación previa y un sistema de sanción penal automática",
+        "Un sistema de reparaciones o indemnizaciones reales, efectivas y proporcionadas al perjuicio, y, en su caso, un sistema eficaz y disuasorio de sanciones"
+      ],
+      "correct": 3,
+      "exp": "El art. 10 prevé responsabilidad 'a través de un sistema de reparaciones o indemnizaciones que sean reales, efectivas y proporcionadas al perjuicio sufrido, así como, en su caso, a través de un sistema eficaz y disuasorio de sanciones que prevenga la realización de conductas discriminatorias'.",
+      "fuente": "Art. 10 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con art. 10: '...a través de un sistema de reparaciones o indemnizaciones... así como, en su caso, a través de un sistema eficaz y disuasorio de sanciones...', coincide con la opción marcada."
+    },
+    {
+      "q": "El art. 10 de la LO 3/2007 exige que las reparaciones o indemnizaciones derivadas de conductas discriminatorias por razón de sexo sean:",
+      "options": [
+        "Reales, efectivas y proporcionadas al perjuicio sufrido",
+        "Simbólicas y de cuantía tasada legalmente",
+        "Voluntarias y no exigibles judicialmente",
+        "Limitadas al daño emergente, excluyendo el lucro cesante"
+      ],
+      "correct": 0,
+      "exp": "El precepto exige indemnizaciones o reparaciones 'que sean reales, efectivas y proporcionadas al perjuicio sufrido'.",
+      "fuente": "Art. 10 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con art. 10: 'reparaciones o indemnizaciones que sean reales, efectivas y proporcionadas al perjuicio sufrido', coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 11.1 de la LO 3/2007, las medidas de acción positiva que adopten los Poderes Públicos en favor de las mujeres tienen como finalidad:",
+      "options": [
+        "Sustituir con carácter permanente a los hombres en determinados puestos",
+        "Corregir situaciones patentes de desigualdad de hecho respecto de los hombres",
+        "Garantizar una cuota fija del 50% en todos los órganos colegiados",
+        "Eliminar cualquier diferencia salarial sin necesidad de justificación objetiva"
+      ],
+      "correct": 1,
+      "exp": "El art. 11.1 señala que tales medidas se adoptan 'para corregir situaciones patentes de desigualdad de hecho respecto de los hombres'.",
+      "fuente": "Art. 11.1 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con art. 11.1: '...para corregir situaciones patentes de desigualdad de hecho respecto de los hombres', coincide con la opción marcada."
+    },
+    {
+      "q": "El art. 11.1 de la LO 3/2007 exige que las medidas de acción positiva sean razonables y proporcionadas en relación con el objetivo perseguido, y añade que serán aplicables:",
+      "options": [
+        "Durante un plazo máximo improrrogable de cuatro años",
+        "Solo previa autorización parlamentaria expresa",
+        "En tanto subsistan las situaciones de desigualdad que las motivan",
+        "Únicamente en el sector público estatal"
+      ],
+      "correct": 2,
+      "exp": "El precepto indica que tales medidas 'serán aplicables en tanto subsistan dichas situaciones' de desigualdad de hecho.",
+      "fuente": "Art. 11.1 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con art. 11.1: 'Tales medidas, que serán aplicables en tanto subsistan dichas situaciones...', coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 11.2 de la LO 3/2007, las medidas de acción positiva:",
+      "options": [
+        "Solo pueden ser adoptadas por los Poderes Públicos",
+        "Están reservadas a las organizaciones sindicales",
+        "Quedan prohibidas para las personas jurídicas privadas",
+        "También pueden ser adoptadas por las personas físicas y jurídicas privadas, en los términos establecidos en la Ley"
+      ],
+      "correct": 3,
+      "exp": "El art. 11.2 permite que 'también las personas físicas y jurídicas privadas podrán adoptar este tipo de medidas en los términos establecidos en la presente Ley'.",
+      "fuente": "Art. 11.2 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con art. 11.2: 'También las personas físicas y jurídicas privadas podrán adoptar este tipo de medidas en los términos establecidos en la presente Ley', coincide con la opción marcada."
+    },
+    {
+      "q": "El art. 12.1 de la LO 3/2007 reconoce que cualquier persona podrá recabar de los tribunales la tutela del derecho a la igualdad entre mujeres y hombres, remitiéndose para ello a:",
+      "options": [
+        "El artículo 53.2 de la Constitución",
+        "El artículo 24.1 de la Constitución exclusivamente",
+        "El artículo 14 de la Constitución sin más precisión",
+        "La Ley Orgánica del Tribunal Constitucional en su totalidad"
+      ],
+      "correct": 0,
+      "exp": "El art. 12.1 remite expresamente a 'lo establecido en el artículo 53.2 de la Constitución'.",
+      "fuente": "Art. 12.1 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con art. 12.1: '...de acuerdo con lo establecido en el artículo 53.2 de la Constitución...', coincide con la opción marcada."
+    },
+    {
+      "q": "El art. 12.1 de la LO 3/2007 permite recabar la tutela judicial del derecho a la igualdad:",
+      "options": [
+        "Solo mientras persista la relación en la que se produjo la discriminación",
+        "Incluso tras la terminación de la relación en la que supuestamente se ha producido la discriminación",
+        "Únicamente dentro del año siguiente al cese de la relación",
+        "Solo si medió previamente conciliación administrativa"
+      ],
+      "correct": 1,
+      "exp": "El art. 12.1 admite la tutela judicial 'incluso tras la terminación de la relación en la que supuestamente se ha producido la discriminación'.",
+      "fuente": "Art. 12.1 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con art. 12.1: '...incluso tras la terminación de la relación en la que supuestamente se ha producido la discriminación', coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 12.2 de la LO 3/2007, la capacidad y legitimación para intervenir en los procesos civiles, sociales y contencioso-administrativos que versen sobre la defensa del derecho a la igualdad corresponden a:",
+      "options": [
+        "Exclusivamente al Ministerio Fiscal",
+        "Solo a los sindicatos más representativos",
+        "Las personas físicas y jurídicas con interés legítimo, determinadas en las Leyes reguladoras de esos procesos",
+        "Únicamente a la persona directamente discriminada, sin posibilidad de representación"
+      ],
+      "correct": 2,
+      "exp": "El art. 12.2 atribuye esa capacidad y legitimación a 'las personas físicas y jurídicas con interés legítimo, determinadas en las Leyes reguladoras de estos procesos'.",
+      "fuente": "Art. 12.2 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con art. 12.2: '...corresponden a las personas físicas y jurídicas con interés legítimo, determinadas en las Leyes reguladoras de estos procesos', coincide con la opción marcada."
+    },
+    {
+      "q": "El art. 12.3 de la LO 3/2007 establece una regla especial de legitimación para los litigios sobre acoso sexual y acoso por razón de sexo, según la cual:",
+      "options": [
+        "Puede litigar cualquier persona con interés legítimo, igual que en el resto de procesos",
+        "La legitimación corresponde conjuntamente a la persona acosada y a la empresa",
+        "Solo puede litigar el sindicato al que esté afiliada la persona acosada",
+        "La persona acosada será la única legitimada"
+      ],
+      "correct": 3,
+      "exp": "El art. 12.3 dispone que 'la persona acosada será la única legitimada en los litigios sobre acoso sexual y acoso por razón de sexo'.",
+      "fuente": "Art. 12.3 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con art. 12.3: 'La persona acosada será la única legitimada en los litigios sobre acoso sexual y acoso por razón de sexo', coincide con la opción marcada."
+    },
+    {
+      "q": "Comparando los apartados 2 y 3 del art. 12 de la LO 3/2007, ¿qué particularidad presenta la legitimación en los litigios de acoso sexual o por razón de sexo frente a la regla general de los procesos sobre igualdad?",
+      "options": [
+        "Frente a la legitimación amplia de terceros con interés legítimo del apartado 2, el apartado 3 la restringe en exclusiva a la persona acosada",
+        "Ambos apartados exigen siempre la intervención del Ministerio Fiscal",
+        "El apartado 3 amplía la legitimación a cualquier persona, no solo a la acosada",
+        "No hay ninguna diferencia entre ambas reglas"
+      ],
+      "correct": 0,
+      "exp": "El art. 12.2 permite intervenir a personas físicas y jurídicas con interés legítimo, mientras que el art. 12.3 reserva en exclusiva la legitimación a la persona acosada en los litigios de acoso.",
+      "fuente": "Art. 12.2 y 12.3 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con art. 12.2 (legitimación amplia por interés legítimo) y 12.3 (legitimación exclusiva de la persona acosada); la diferencia descrita en la opción marcada es correcta."
+    },
+    {
+      "q": "El art. 13.1 de la LO 3/2007 establece que, cuando las alegaciones de la parte actora se fundamenten en actuaciones discriminatorias por razón de sexo, corresponderá probar la ausencia de discriminación y su proporcionalidad a:",
+      "options": [
+        "La parte actora, reforzando su alegación inicial",
+        "La persona demandada",
+        "El órgano judicial de oficio",
+        "El Ministerio Fiscal"
+      ],
+      "correct": 1,
+      "exp": "El art. 13.1 dispone que 'corresponderá a la persona demandada probar la ausencia de discriminación en las medidas adoptadas y su proporcionalidad'.",
+      "fuente": "Art. 13.1 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con art. 13.1: '...corresponderá a la persona demandada probar la ausencia de discriminación en las medidas adoptadas y su proporcionalidad', coincide con la opción marcada."
+    },
+    {
+      "q": "Según el art. 13.1 de la LO 3/2007, en los procedimientos sobre discriminación por razón de sexo, el órgano judicial podrá recabar informe o dictamen de los organismos públicos competentes:",
+      "options": [
+        "De oficio y con carácter preceptivo en todo caso",
+        "Solo si lo solicita el Ministerio Fiscal",
+        "A instancia de parte, si lo estimase útil y pertinente",
+        "Únicamente en segunda instancia"
+      ],
+      "correct": 2,
+      "exp": "El art. 13.1 permite al órgano judicial recabar dicho informe o dictamen 'a instancia de parte, si lo estimase útil y pertinente'.",
+      "fuente": "Art. 13.1 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con art. 13.1 párrafo 2: 'el órgano judicial, a instancia de parte, podrá recabar, si lo estimase útil y pertinente, informe o dictamen...', coincide con la opción marcada."
+    },
+    {
+      "q": "El art. 13.2 de la LO 3/2007 excluye la aplicación de la regla de inversión de la carga de la prueba del apartado anterior en:",
+      "options": [
+        "Los procesos contencioso-administrativos",
+        "Los procesos civiles",
+        "Los procesos sociales",
+        "Los procesos penales"
+      ],
+      "correct": 3,
+      "exp": "El art. 13.2 dice: 'Lo establecido en el apartado anterior no será de aplicación a los procesos penales.'",
+      "fuente": "Art. 13.2 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con art. 13.2: 'Lo establecido en el apartado anterior no será de aplicación a los procesos penales', coincide con la opción marcada."
+    },
+    {
+      "q": "El art. 13.1 de la LO 3/2007 sujeta la regla sobre la prueba en los procedimientos por discriminación por razón de sexo a lo dispuesto en:",
+      "options": [
+        "Las Leyes procesales",
+        "Los convenios colectivos aplicables",
+        "Los reglamentos internos de cada Administración",
+        "Las instrucciones de la Inspección de Trabajo"
+      ],
+      "correct": 0,
+      "exp": "El art. 13.1 comienza: 'De acuerdo con las Leyes procesales, en aquellos procedimientos...'.",
+      "fuente": "Art. 13.1 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con art. 13.1: 'De acuerdo con las Leyes procesales, en aquellos procedimientos...', coincide con la opción marcada."
+    },
+    {
+      "q": "¿Cuántos artículos integran el Título I de la LO 3/2007, 'El principio de igualdad y la tutela contra la discriminación'?",
+      "options": [
+        "Nueve (arts. 4 a 12)",
+        "Once (arts. 3 a 13)",
+        "Trece (arts. 1 a 13)",
+        "Ocho (arts. 5 a 12)"
+      ],
+      "correct": 1,
+      "exp": "El Título I comprende los arts. 3 a 13, es decir, once artículos, desde el principio de igualdad de trato (art. 3) hasta la prueba (art. 13).",
+      "fuente": "Arts. 3 a 13 (Título I) LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado en el índice/cuerpo real que el Título I abarca los arts. 3 a 13 (once artículos: arts. 3,4,5,6,7,8,9,10,11,12,13); coincide con la opción marcada y los distractores son aritméticamente consistentes con sus propios rangos."
+    },
+    {
+      "q": "Dentro del Título I de la LO 3/2007, ¿qué artículo regula específicamente la discriminación directa e indirecta con carácter general, de forma previa a la regulación separada del acoso sexual y por razón de sexo?",
+      "options": [
+        "El art. 5",
+        "El art. 8",
+        "El art. 6",
+        "El art. 9"
+      ],
+      "correct": 2,
+      "exp": "El art. 6 ('Discriminación directa e indirecta') precede sistemáticamente al art. 7 ('Acoso sexual y acoso por razón de sexo') dentro del Título I.",
+      "fuente": "Art. 6 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado que el art. 6 ('Discriminación directa e indirecta') precede sistemáticamente al art. 7 ('Acoso sexual y acoso por razón de sexo') dentro del Título I; coincide con la opción marcada."
+    },
+    {
+      "q": "¿En qué artículo de la LO 3/2007, dentro del Título I, se regula la protección frente a las represalias sufridas por quien reclama frente a una discriminación por razón de sexo?",
+      "options": [
+        "Art. 6",
+        "Art. 8",
+        "Art. 12",
+        "Art. 9"
+      ],
+      "correct": 3,
+      "exp": "El art. 9, titulado 'Indemnidad frente a represalias', protege a quien presenta queja, reclamación, denuncia, demanda o recurso frente a la discriminación.",
+      "fuente": "Art. 9 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado que el art. 9 lleva por título 'Indemnidad frente a represalias' y regula la protección frente a represalias; coincide con la opción marcada."
+    },
+    {
+      "q": "¿Cuál de los siguientes artículos del Título I de la LO 3/2007 regula las 'consecuencias jurídicas de las conductas discriminatorias', diferenciándose así del que regula las 'acciones positivas'?",
+      "options": [
+        "El art. 10",
+        "El art. 11",
+        "El art. 12",
+        "El art. 13"
+      ],
+      "correct": 0,
+      "exp": "El art. 10 lleva por título 'Consecuencias jurídicas de las conductas discriminatorias', mientras que el art. 11 regula las 'Acciones positivas'.",
+      "fuente": "Art. 10 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado que el art. 10 lleva por título 'Consecuencias jurídicas de las conductas discriminatorias' y el art. 11 'Acciones positivas'; coincide con la opción marcada."
+    },
+    {
+      "q": "El art. 7.1 de la LO 3/2007 aclara que la definición de acoso sexual que ofrece se establece:",
+      "options": [
+        "En sustitución de lo dispuesto en el Código Penal",
+        "Sin perjuicio de lo establecido en el Código Penal",
+        "Con carácter subsidiario respecto al Código Penal, solo si este no resulta aplicable",
+        "Derogando expresamente los tipos penales de agresión sexual"
+      ],
+      "correct": 1,
+      "exp": "El art. 7.1 dice: 'Sin perjuicio de lo establecido en el Código Penal, a los efectos de esta Ley constituye acoso sexual...', es decir, ambas regulaciones son compatibles y no excluyentes.",
+      "fuente": "Art. 7.1 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado de nuevo con art. 7.1: 'Sin perjuicio de lo establecido en el Código Penal...'; coincide con la opción marcada (pregunta temáticamente próxima a la nº11 sobre el mismo dato, pero con enunciado y opciones distintas, no es un duplicado literal)."
+    },
+    {
+      "q": "El art. 12.1 de la LO 3/2007 reconoce el derecho a recabar la tutela judicial de la igualdad entre mujeres y hombres a:",
+      "options": [
+        "Solo a la persona física directamente afectada por la discriminación",
+        "Únicamente a las organizaciones sindicales y asociaciones de mujeres legalmente constituidas",
+        "Cualquier persona",
+        "Solo al Ministerio Fiscal en representación de la persona afectada"
+      ],
+      "correct": 2,
+      "exp": "El art. 12.1 comienza: 'Cualquier persona podrá recabar de los tribunales la tutela del derecho a la igualdad entre mujeres y hombres...'.",
+      "fuente": "Art. 12.1 LO 3/2007",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejado con art. 12.1: 'Cualquier persona podrá recabar de los tribunales la tutela del derecho a la igualdad entre mujeres y hombres...', coincide con la opción marcada."
+    }
+  ]
+}
