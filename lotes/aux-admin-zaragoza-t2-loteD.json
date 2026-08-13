@@ -1,0 +1,326 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 2,
+  "preguntas": [
+    {
+      "q": "Según el apartado 2.1 (Normativa Internacional) del II Plan de Igualdad de Zaragoza, ¿en qué conferencia mundial sobre la mujer se recogió la transversalidad del principio de igualdad entre hombres y mujeres (mainstreaming), seguida de exámenes quinquenales?",
+      "options": ["Beijing (1995)", "Nairobi (1985)", "Copenhague (1980)", "México (1975)"],
+      "correct": 0,
+      "exp": "El apartado 2.1 señala que en las Declaraciones de las conferencias mundiales sobre la Mujer (México 1975, Copenhague 1980, Nairobi 1985 y Beijing 1995) se plasmaron estrategias, y que 'en esta última se recogió la transversalidad del principio de igualdad entre hombres y mujeres (Mainstreaming)... y es seguida por exámenes quinquenales'.",
+      "fuente": "Marco normativo, apartado 2.1 Normativa Internacional, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el apartado 2.1 (Normativa Internacional) del II Plan de Igualdad de Zaragoza, en el ámbito de la Organización Internacional del Trabajo (OIT), ¿qué número tiene el convenio relativo a la igualdad de remuneración?",
+      "options": ["Convenio nº 111", "Convenio nº 100", "Convenio nº 156", "Convenio nº 183"],
+      "correct": 1,
+      "exp": "El Plan cita: '...se han firmado convenios relativos a la igualdad de remuneración (nº 100), la discriminación en el empleo y la ocupación (nº 111), las personas trabajadoras con responsabilidades familiares (nº 156), la protección de la maternidad (nº 183), y sobre violencia y acoso (nº 190)'.",
+      "fuente": "Marco normativo, apartado 2.1 Normativa Internacional, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el apartado 2.2 (Normativa Comunitaria) del II Plan de Igualdad de Zaragoza, la Directiva 2019/1158/UE del Parlamento Europeo y del Consejo, de 20 de junio de 2019, es relativa a:",
+      "options": ["La aplicación del principio de igualdad de oportunidades y de trato entre hombres y mujeres en el empleo", "La transparencia retributiva y el salario mínimo adecuado", "La conciliación de la vida familiar y la vida profesional de los progenitores y los cuidadores", "La eliminación de la discriminación por razón de sexo en el acceso a bienes y servicios"],
+      "correct": 2,
+      "exp": "El Plan cita: 'Directiva 2019/1158/UE del Parlamento Europeo y del Consejo, de 20 de junio de 2019, relativa a la conciliación de la vida familiar y la vida profesional de los progenitores y los cuidadores'.",
+      "fuente": "Marco normativo, apartado 2.2 Normativa Comunitaria, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el apartado 2.3 (Normativa Nacional) del II Plan de Igualdad de Zaragoza, ¿qué ley introdujo apartados relativos al Registro de Planes de Igualdad y a la igualdad retributiva, desarrollados después por el RD 901/2020 y el RD 902/2020, ambos de 13 de octubre?",
+      "options": ["La Ley Orgánica 3/2007, de 22 de marzo", "La Ley 15/2022, de 12 de julio", "La Ley Orgánica 10/2022, de 6 de septiembre", "La Ley 6/2019, de 1 de marzo"],
+      "correct": 3,
+      "exp": "El Plan indica: 'la ley 6/2019, de 1 de marzo, de medidas urgentes para garantía de la igualdad de trato y de oportunidades entre mujeres y hombres en el empleo y la ocupación, introduciendo nuevos apartados como el referido al Registro de Planes de Igualdad e igualdad retributiva (desarrolladas en el RD 901/2020 y RD 902/2020, de 13 de octubre)'.",
+      "fuente": "Marco normativo, apartado 2.3 Normativa Nacional, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el apartado 2.4 (Normativa Autonómica) del II Plan de Igualdad de Zaragoza, el art. 51 de la Ley 7/2018, de 28 de junio, de igualdad de oportunidades entre mujeres y hombres en Aragón, obliga a las Administraciones públicas aragonesas con más de:",
+      "options": ["250 empleados a aprobar cada 4 años un Plan de igualdad de oportunidades", "100 empleados a aprobar cada 2 años un Plan de igualdad", "500 empleados a aprobar cada 5 años un Plan de igualdad", "50 empleados a aprobar cada año un informe de igualdad"],
+      "correct": 0,
+      "exp": "El Plan cita: 'la Ley 7/2018, de 28 de junio... en su art. 51 dispone la obligación de las Administraciones públicas aragonesas con más de 250 empleados la aprobación cada 4 años de un Plan de igualdad de oportunidades en la función pública y de conciliación de la vida personal, familiar y laboral para todos sus centros de trabajo'.",
+      "fuente": "Marco normativo, apartado 2.4 Normativa Autonómica, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el apartado 2.5 (Normativa Municipal) del II Plan de Igualdad de Zaragoza, ¿qué instrucción, de fecha 3 de febrero de 2017, regula el uso del lenguaje en los documentos administrativos municipales?",
+      "options": ["La Instrucción para un tratamiento de imágenes no sexistas", "El Decreto de aprobación de la Instrucción sobre el Lenguaje Inclusivo y no Discriminatorio", "La Instrucción relativa a la incorporación de cláusulas sociales de género en los contratos", "El Protocolo para incorporar el enfoque de género en la información"],
+      "correct": 1,
+      "exp": "El Plan cita entre la normativa municipal: 'Decreto de aprobación de la Instrucción sobre el Lenguaje Inclusivo y no Discriminatorio en los documentos administrativos del Ayuntamiento de Zaragoza de fecha 3 de febrero de 2017...'.",
+      "fuente": "Marco normativo, apartado 2.5 Normativa Municipal, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el Marco Conceptual del II Plan de Igualdad de Zaragoza, ¿cómo se denomina el conjunto de medidas correctoras de situaciones de desigualdad que, aplicadas con carácter temporal, producen un efecto beneficioso sobre la posición de las mujeres en el mercado de trabajo?",
+      "options": ["Discriminación positiva", "Transversalidad de género", "Acción positiva", "Presencia equilibrada"],
+      "correct": 2,
+      "exp": "El Marco Conceptual define: 'Acción positiva: Conjunto de medidas correctoras de situaciones de desigualdad que, aplicadas con carácter temporal, producen un efecto beneficioso sobre la condición y la posición de las mujeres en el mercado de trabajo... (art. 11 LO 3/2007)'.",
+      "fuente": "Marco conceptual, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el Marco Conceptual del II Plan de Igualdad de Zaragoza, la discriminación indirecta por razón de sexo tiene lugar cuando se establecen condiciones formalmente neutras que ponen a las personas de un sexo en desventaja frente a las del otro, salvo que:",
+      "options": ["Se trate de una práctica habitual y consolidada en el sector de actividad", "Afecten a menos del 10% de la plantilla", "Lo decida discrecionalmente la persona empleadora", "Puedan justificarse objetivamente por una causa objetiva y un fin legítimo"],
+      "correct": 3,
+      "exp": "El Marco Conceptual define: 'La discriminación indirecta tiene lugar cuando se establecen condiciones formalmente neutras, pero que ponen a las personas de un sexo en desventaja frente a las personas del otro, y carecen además de una causa objetiva y justificada para alcanzar un fin legítimo (art. 6.2 LO 3/2007)'.",
+      "fuente": "Marco conceptual, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el Marco Conceptual del II Plan de Igualdad de Zaragoza, la 'transversalidad de género o mainstreaming' consiste en la incorporación de la perspectiva de igualdad en:",
+      "options": ["Los distintos niveles y etapas que conforman el proceso de formulación, ejecución y evaluación de las políticas públicas", "Únicamente los presupuestos generales del Ayuntamiento", "Los procesos judiciales de forma exclusiva", "La negociación colectiva y nada más"],
+      "correct": 0,
+      "exp": "El Marco Conceptual define: 'Transversalidad de género o Mainstreaming: Incorporación de la perspectiva de igualdad en los distintos niveles y etapas que conforman el proceso de formulación, ejecución y evaluación de las políticas públicas, de manera que mujeres y hombres puedan beneficiarse del impacto de la distribución de los recursos'.",
+      "fuente": "Marco conceptual, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el apartado 4 (Partes Suscriptoras) del II Plan de Igualdad de Zaragoza, ¿cuál de las siguientes organizaciones sindicales NO figura entre las presentes en la Comisión Negociadora del Plan?",
+      "options": ["CGT", "USO", "CSIF", "STAZ"],
+      "correct": 1,
+      "exp": "El Plan enumera: 'Las organizaciones sindicales presentes han sido: CCOO, CGT, CSIF, FORZAPOL, OSTA, STAZ y UGT.' USO no aparece en esa relación.",
+      "fuente": "Partes suscriptoras, apartado 4, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el apartado 5.1 (Ámbito Personal) del II Plan de Igualdad de Zaragoza, además de la totalidad del personal funcionario y laboral del Ayuntamiento, el Plan alcanza a sus organismos autónomos que no tengan un plan propio, concretamente:",
+      "options": ["Solo a las empresas concesionarias de servicios públicos municipales", "Exclusivamente al personal funcionario de carrera", "Patronatos y Sociedades que se adhieran al acuerdo de condiciones de trabajo comunes del personal del Ayuntamiento", "Únicamente al personal directivo y eventual"],
+      "correct": 2,
+      "exp": "El apartado 5.1 dice: 'El ámbito de aplicación del presente Plan alcanza a la totalidad del personal funcionario y laboral del Ayuntamiento de Zaragoza, así como a sus organismos autónomos (Patronatos y Sociedades) que no tengan uno propio y se adhieran al acuerdo de condiciones de trabajo comunes del personal del Ayuntamiento de Zaragoza...'.",
+      "fuente": "Ámbito de aplicación, apartado 5.1 Ámbito Personal, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el apartado 5.3 (Ámbito Temporal) del II Plan de Igualdad de Zaragoza, la entrada en vigor del Plan se produce en el momento en que:",
+      "options": ["Se firme por la Comisión Negociadora", "Transcurran veinte días desde su registro", "Comience el ejercicio presupuestario siguiente", "Sea aprobado por el Gobierno de Zaragoza y publicado en el Boletín Oficial de la Provincia"],
+      "correct": 3,
+      "exp": "El apartado 5.3 establece: 'Su entrada en vigor se producirá en el momento en que sea aprobado por el Gobierno de Zaragoza y publicado en el Boletín Oficial de la Provincia.'",
+      "fuente": "Ámbito de aplicación, apartado 5.3 Ámbito Temporal, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el apartado 6 (Metodología) del II Plan de Igualdad de Zaragoza, el Plan se califica como 'plan en proceso continuo' porque:",
+      "options": ["Mantiene la vigencia de sus acciones en tanto no se elimine la desigualdad detectada, o hasta que se apruebe un nuevo plan", "Debe revisarse obligatoriamente cada seis meses", "Carece de fecha de finalización predeterminada por ley", "Depende exclusivamente de la disponibilidad presupuestaria de cada ejercicio"],
+      "correct": 0,
+      "exp": "El apartado 6 describe: 'Es un plan en proceso continuo, que mantiene la vigencia de sus acciones en tanto no se elimine la desigualdad detectada en el ámbito del que se ocupan, o hasta que se apruebe un nuevo plan.'",
+      "fuente": "Metodología, apartado 6, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el apartado 7 (Diagnóstico de la plantilla) del II Plan de Igualdad de Zaragoza, el análisis del personal municipal para elaborar el Diagnóstico se ha realizado sobre la extracción de datos del año:",
+      "options": ["2008", "2019", "2020", "2021"],
+      "correct": 1,
+      "exp": "El apartado 7 señala: 'este análisis se ha realizado sobre la extracción de datos del personal municipal del año 2019.'",
+      "fuente": "Diagnóstico de la plantilla, apartado 7, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según los datos del Diagnóstico recogidos en el II Plan de Igualdad de Zaragoza, la plantilla municipal a 30 de junio de 2019 asciende a 5.019 personas, de las cuales el porcentaje de hombres es:",
+      "options": ["50%", "36,7%", "63,3%", "72,4%"],
+      "correct": 2,
+      "exp": "El Diagnóstico indica: 'El Ayuntamiento de Zaragoza presenta a 30 de junio de 2019 una plantilla de 5.019 personas de las que 3.179 (63,3%) son hombres y 1.840 (36,7%) son mujeres.'",
+      "fuente": "Diagnóstico de la plantilla, apartado 7, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el Diagnóstico del II Plan de Igualdad de Zaragoza, en el análisis de las retribuciones se aprecia una diferencia porcentual a favor de los hombres en las retribuciones totales de los diferentes puestos de trabajo de:",
+      "options": ["26,7 puntos porcentuales", "36,4 puntos porcentuales", "10 puntos porcentuales", "2,3 puntos porcentuales"],
+      "correct": 3,
+      "exp": "El Diagnóstico señala: 'En el análisis de las retribuciones se aprecia una diferencia de 2,3 puntos porcentuales a favor de los hombres en las retribuciones totales de los diferentes puestos de trabajo acumulando todos los conceptos retributivos.'",
+      "fuente": "Diagnóstico de la plantilla, apartado 7, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el Diagnóstico del II Plan de Igualdad de Zaragoza, en materia de representación sindical, ¿qué órgano presenta una presencia mayoritaria de mujeres, con un 77,8% frente a un 22,2% de hombres?",
+      "options": ["El Comité de Empresa", "La Junta de Personal", "El Gobierno de Zaragoza", "La Comisión Negociadora"],
+      "correct": 0,
+      "exp": "El Diagnóstico indica: 'en el Comité de Empresa se invierten estos datos, ya que hay una presencia mayoritaria del 77,8% de mujeres y el 22,2% de hombres', frente a la Junta de Personal, donde ocurre lo contrario (27,6% mujeres / 72,4% hombres).",
+      "fuente": "Diagnóstico de la plantilla, apartado 7, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según la relación de Ejes y Líneas de Actuación del II Plan de Igualdad de Zaragoza, ¿cuántas líneas de actuación integran el Eje de Actuación B (Gestión de Recursos Humanos)?",
+      "options": ["Dos", "Tres", "Cuatro", "Cinco"],
+      "correct": 1,
+      "exp": "El Plan indica: 'EL EJE DE ACTUACIÓN B tiene tres líneas de actuación: Línea B.1 Acceso...; Línea B.2 Plantilla, RPT y promoción profesional...; Línea B.3 Retribuciones...'.",
+      "fuente": "Eje B, resumen de líneas de actuación, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el resumen numérico de Ejes y Líneas del II Plan de Igualdad de Zaragoza, la Línea A.1 (Comunicación y sensibilización) del Eje A cuenta con dos objetivos específicos y:",
+      "options": ["Tres acciones", "Cuatro acciones", "Seis acciones", "Ocho acciones"],
+      "correct": 2,
+      "exp": "El Plan indica que el Eje A tiene cuatro líneas de actuación, y respecto a la primera: 'Línea A.1... con dos objetivos específicos y 6 acciones.'",
+      "fuente": "Eje A, resumen de líneas de actuación, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el objetivo específico A.4.1 del II Plan de Igualdad de Zaragoza (Línea A.4, Estructura y órganos municipales para el seguimiento del Plan), su finalidad es:",
+      "options": ["Crear una nueva Concejalía de Igualdad", "Suprimir la Comisión de Igualdad tras la aprobación del Plan", "Externalizar a una consultora el seguimiento del Plan", "Coordinar la planificación, ejecución, seguimiento y evaluación de las acciones del PIEEM desde la institución"],
+      "correct": 3,
+      "exp": "El objetivo específico A.4.1 se define como: 'Coordinar la planificación, ejecución, seguimiento y evaluación de las acciones del PIEEM desde la institución.'",
+      "fuente": "Eje A, Línea A.4, Objetivo A.4.1, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según la acción A.1.2.3 del II Plan de Igualdad de Zaragoza (objetivo A.1.2, Línea A.1), se debe impulsar la presentación de candidaturas equilibradas entre mujeres y hombres en:",
+      "options": ["La nominación y concesión de distinciones", "Los procesos de promoción profesional interna", "La composición del Gobierno de Zaragoza", "Las mesas de negociación del Pacto-Convenio"],
+      "correct": 0,
+      "exp": "La acción A.1.2.3 consiste en: 'Impulsar la presentación de candidaturas equilibradas entre mujeres y hombres en la nominación y concesión de distinciones.'",
+      "fuente": "Eje A, Línea A.1, acción A.1.2.3, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según la acción A.2.1.3 del II Plan de Igualdad de Zaragoza (Línea A.2, Participación y negociación), se pretende impulsar que la representación sindical adopte el compromiso de presentar en todos sus procesos electorales municipales:",
+      "options": ["Listas exclusivamente femeninas", "Listas cremallera", "Listas abiertas sin criterio de género", "Listas paritarias solo entre suplentes"],
+      "correct": 1,
+      "exp": "La acción A.2.1.3 consiste en: 'Impulsar que la representación sindical adopte el compromiso de presentar listas cremallera en todos sus procesos electorales municipales.'",
+      "fuente": "Eje A, Línea A.2, acción A.2.1.3, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según la acción B.2.3.1 del II Plan de Igualdad de Zaragoza (objetivo B.2.3, Línea B.2), se debe realizar un estudio para:",
+      "options": ["Determinar el salario mínimo interprofesional aplicable", "Diseñar el nuevo organigrama municipal", "Identificar las causas que dificultan el acceso de las mujeres a los puestos de trabajo de mayor responsabilidad", "Evaluar la satisfacción general de la plantilla con su puesto"],
+      "correct": 2,
+      "exp": "La acción B.2.3.1 consiste en: 'Realizar un estudio para identificar las causas que dificultan el acceso de las mujeres a los puestos de trabajo de mayor responsabilidad para adoptar las medidas oportunas para su corrección.'",
+      "fuente": "Eje B, Línea B.2, acción B.2.3.1, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según la acción C.1.1.1 del II Plan de Igualdad de Zaragoza (objetivo C.1.1, Línea C.1), se debe realizar un estudio sobre:",
+      "options": ["El coste económico global de las excedencias", "El absentismo laboral por causas médicas", "La satisfacción del personal con su horario laboral", "Las causas de denegación de las medidas de conciliación de la vida laboral, familiar y personal"],
+      "correct": 3,
+      "exp": "La acción C.1.1.1 consiste en: 'Realizar un estudio sobre las causas de denegación de las medidas de conciliación de la vida laboral, familiar y personal, para detectar los motivos que dificultan el ejercicio de las mismas.'",
+      "fuente": "Eje C, Línea C.1, acción C.1.1.1, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según la acción D.1.2.2 del II Plan de Igualdad de Zaragoza (objetivo D.1.2, Línea D.1), se debe adecuar el diseño de equipos y ropa de trabajo teniendo en cuenta las características físicas de mujeres y hombres, incluyendo:",
+      "options": ["La situación de embarazo", "La antigüedad en el puesto", "El nivel jerárquico de la persona trabajadora", "El área funcional de destino"],
+      "correct": 0,
+      "exp": "La acción D.1.2.2 consiste en: 'Adecuar el diseño de equipos y ropa de trabajo teniendo en cuenta las características físicas de mujeres y hombres, incluyendo la situación de embarazo.'",
+      "fuente": "Eje D, Línea D.1, acción D.1.2.2, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según la acción D.3.1.3 del II Plan de Igualdad de Zaragoza (objetivo D.3.1, Línea D.3), una de las acciones previstas para reforzar las herramientas de prevención frente al acoso es:",
+      "options": ["La supresión del Comité de Asesoramiento", "La revisión y actualización del protocolo", "La creación de un cuerpo de inspección propio", "La reducción a 24 horas del plazo de denuncia"],
+      "correct": 1,
+      "exp": "La acción D.3.1.3 consiste en: 'Revisión y actualización del protocolo', dentro del objetivo específico D.3.1 de reforzar herramientas de prevención frente al acoso sexual, acoso por razón de sexo y acoso por orientación sexual.",
+      "fuente": "Eje D, Línea D.3, acción D.3.1.3, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según la acción B.3.1.1 del II Plan de Igualdad de Zaragoza (objetivo B.3.1, Línea B.3), se debe realizar anualmente un informe de retribuciones básicas y complementarias con datos:",
+      "options": ["Desagregados exclusivamente por antigüedad", "Sin ningún tipo de desagregación, de forma global", "Desagregados por sexo", "Desagregados únicamente por área geográfica de destino"],
+      "correct": 2,
+      "exp": "La acción B.3.1.1 consiste en: 'Realizar un informe anual de retribuciones, tanto básicas como complementarias, con datos desagregados por sexo', dentro del objetivo B.3.1 de cumplir con el principio de transparencia retributiva.",
+      "fuente": "Eje B, Línea B.3, acción B.3.1.1, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el objetivo específico C.2.1 del II Plan de Igualdad de Zaragoza (Línea C.2, Corresponsabilidad), su finalidad es sensibilizar al personal municipal sobre la importancia de la corresponsabilidad en el ámbito de:",
+      "options": ["La negociación colectiva", "La formación continua del personal", "La seguridad y salud laboral", "Los cuidados y el trabajo doméstico"],
+      "correct": 3,
+      "exp": "El objetivo C.2.1 se define como: 'Sensibilizar al personal municipal sobre la importancia de la corresponsabilidad en el ámbito de los cuidados y el trabajo doméstico.'",
+      "fuente": "Eje C, Línea C.2, Objetivo C.2.1, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el apartado 10 del II Plan de Igualdad de Zaragoza, la Comisión de Igualdad está formada por representantes del equipo de Gobierno, de los servicios municipales con competencias en la implantación de las acciones del Plan, de todos los sindicatos con derecho a la negociación colectiva y por:",
+      "options": ["Las personas que ocupen los puestos de agente de igualdad", "Un representante designado por cada grupo municipal", "Un magistrado del Tribunal Superior de Justicia de Aragón", "Dos personas elegidas por sorteo entre la plantilla"],
+      "correct": 0,
+      "exp": "El apartado 10 dice: 'La Comisión de Igualdad está formada por representantes de: el equipo de Gobierno del Ayuntamiento, de los servicios municipales con competencias en la implantación de las acciones del Plan, de todos los sindicatos que legalmente tengan derecho a la negociación colectiva, y las personas que ocupen los puestos de agente de igualdad.'",
+      "fuente": "Implementación, seguimiento y evaluación · La Comisión de Igualdad, apartado 10, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Entre las funciones de la Comisión de Igualdad recogidas en el apartado 10 del II Plan de Igualdad de Zaragoza se encuentra elaborar propuestas para elevar a las mesas de negociación dirigidas a erradicar:",
+      "options": ["El absentismo laboral general", "La segregación ocupacional horizontal y vertical, así como cualquier forma de discriminación directa o indirecta", "La rotación del personal directivo", "Los conflictos entre secciones sindicales"],
+      "correct": 1,
+      "exp": "Entre las funciones de la Comisión se recoge: 'Elaborar propuestas para elevar a las mesas de negociación dirigidas a erradicar la segregación ocupacional horizontal y vertical, así como cualquier forma de discriminación directa o indirecta.'",
+      "fuente": "Implementación, seguimiento y evaluación · La Comisión de Igualdad, apartado 10, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el apartado 'Seguimiento anual' del II Plan de Igualdad de Zaragoza, el informe de seguimiento anual, que se incluirá en la Memoria anual de la Comisión de Igualdad, será elaborado desde:",
+      "options": ["El Servicio de Relaciones Laborales", "La Asesoría Jurídica Municipal", "La Unidad Municipal de Igualdad", "El Comité de Empresa"],
+      "correct": 2,
+      "exp": "El apartado 'Seguimiento anual' establece: 'Será elaborado desde la Unidad Municipal de Igualdad, utilizando las fichas de recogida de datos de las acciones (ver modelo en el Anexo III) para el análisis de la información relativa a los indicadores...'.",
+      "fuente": "Implementación, seguimiento y evaluación · Seguimiento anual, apartado 10, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el apartado 11 (Calendario de actuaciones) del II Plan de Igualdad de Zaragoza, durante el último año de vigencia del Plan se realizará:",
+      "options": ["La disolución automática de la Comisión de Igualdad", "Una auditoría económica externa del gasto en igualdad", "La derogación del Protocolo frente al acoso", "El diagnóstico de la situación de la plantilla, para iniciar la elaboración y negociación del siguiente Plan de Igualdad"],
+      "correct": 3,
+      "exp": "El apartado 11 indica: 'Durante el último año de vigencia de este Plan se realizará el diagnóstico de la situación de la plantilla para que se apruebe en el seno de la Comisión de Igualdad. Con ello se iniciará el proceso de elaboración y negociación del siguiente Plan de Igualdad.'",
+      "fuente": "Calendario de actuaciones, apartado 11, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según la Declaración de Principios del Anexo II (Protocolo de actuación frente al acoso) del II Plan de Igualdad de Zaragoza, el acoso sexual, el acoso por razón de sexo y el acoso por orientación sexual vulneran, entre otros, el derecho de la plantilla a:",
+      "options": ["La consideración debida a su dignidad", "La libre sindicación exclusivamente", "La movilidad geográfica voluntaria", "La negociación colectiva sectorial"],
+      "correct": 0,
+      "exp": "La Declaración de Principios enumera entre los derechos vulnerados: 'El derecho a la Igualdad en mujeres y hombres. El derecho a la consideración debida a su dignidad. El derecho a su integridad física y moral...'.",
+      "fuente": "Anexo II.I, Declaración de principios, Protocolo de acoso, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el apartado III (Alcance) del Anexo II del II Plan de Igualdad de Zaragoza, cuando se produce un caso de acoso entre personal municipal y personal de una empresa externa contratada, se aplicarán:",
+      "options": ["Únicamente las normas internas de la empresa externa", "Los mecanismos de coordinación empresarial", "El Protocolo solo si la empresa externa lo suscribe voluntariamente", "Ningún procedimiento, al no existir competencia municipal"],
+      "correct": 1,
+      "exp": "El apartado III establece: 'Cuando se produzca un caso de este tipo entre personal municipal y personal de una empresa externa contratada se aplicarán los mecanismos de coordinación empresarial.'",
+      "fuente": "Anexo II.III, Alcance, Protocolo de acoso, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el apartado IV (Definiciones) del Anexo II del II Plan de Igualdad de Zaragoza, el acoso sexual contempla dos tipos diferenciados: el acoso de intercambio o chantaje sexual y:",
+      "options": ["El acoso vertical", "El acoso institucional", "El acoso ambiental", "El acoso preventivo"],
+      "correct": 2,
+      "exp": "El apartado IV define: 'El acoso sexual contempla dos tipos diferenciados: el acoso de intercambio o chantaje sexual y el acoso ambiental.'",
+      "fuente": "Anexo II.IV, Definiciones, Protocolo de acoso, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el apartado VII (Figuras Garantes del Procedimiento) del Anexo II del II Plan de Igualdad de Zaragoza, la Asesoría Confidencial estará compuesta por un máximo de:",
+      "options": ["Cinco personas", "Tres personas", "Quince personas", "Diez personas"],
+      "correct": 3,
+      "exp": "El apartado VII establece: 'La Asesoría Confidencial estará compuesta por un máximo de diez personas.'",
+      "fuente": "Anexo II.VII, Figuras garantes del procedimiento, Protocolo de acoso, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el apartado VII (Figuras Garantes del Procedimiento) del Anexo II del II Plan de Igualdad de Zaragoza, el Comité de Asesoramiento estará formado por dos técnicos/as del Servicio de Prevención y Salud Laboral, una persona de la Asesoría Confidencial, un/a abogado/a de la Asesoría Jurídica, un/a Psicólogo/a del Servicio de Igualdad y:",
+      "options": ["Dos representantes sindicales", "Un representante de la Alcaldía", "Tres agentes de la Policía Local", "Un funcionario del Juzgado de lo Social"],
+      "correct": 0,
+      "exp": "El apartado VII indica: 'Estará formado por: dos técnicos/as del Servicio Prevención y Salud Laboral, una persona de la Asesoría Confidencial, un abogado/a de la Asesoría Jurídica, un Psicólogo/a del Servicio de Igualdad y dos representantes Sindicales.'",
+      "fuente": "Anexo II.VII, Figuras garantes del procedimiento, Protocolo de acoso, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el apartado V (Medidas Preventivas) del Anexo II del II Plan de Igualdad de Zaragoza, la formación específica sobre el Protocolo en los cursos de reciclaje del personal municipal debe hacer especial hincapié en:",
+      "options": ["El personal de reciente incorporación exclusivamente", "Mandos intermedios y jefaturas de servicio", "El personal en situación de excedencia", "Los representantes de la Asesoría Jurídica exclusivamente"],
+      "correct": 1,
+      "exp": "El apartado V incluye entre las medidas preventivas: 'Formación específica sobre el Protocolo en los cursos de reciclaje del personal municipal, enmarcados en el Plan de Igualdad para Empleados y Empleadas, con especial hincapié en mandos intermedios y jefaturas de servicio.'",
+      "fuente": "Anexo II.V, Medidas preventivas, Protocolo de acoso, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el apartado VIII.A (Presentación de la denuncia) del Anexo II del II Plan de Igualdad de Zaragoza, ¿qué ocurre con las denuncias formuladas de forma anónima?",
+      "options": ["Se tramitan con reserva reforzada de identidad", "Se remiten directamente al Comité de Asesoramiento sin análisis previo", "No se admitirán a trámite", "Se investigan solo si son corroboradas por al menos tres testigos"],
+      "correct": 2,
+      "exp": "El apartado VIII.A establece: 'La denuncia podrá ser de forma verbal o escrita. Si fuese verbal la persona denunciante deberá ratificarla por escrito. No se admitirán a trámite las denuncias anónimas.'",
+      "fuente": "Anexo II.VIII.A, Presentación de la denuncia, Protocolo de acoso, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el apartado VIII.C (Procedimiento Informal) del Anexo II del II Plan de Igualdad de Zaragoza, si en el curso del procedimiento informal no se alcanza acuerdo alguno entre las partes, se iniciará:",
+      "options": ["El archivo automático de la denuncia por falta de acuerdo", "Una mediación obligatoria ante la jurisdicción social", "Un expediente disciplinario directo, sin más trámites", "El procedimiento formal"],
+      "correct": 3,
+      "exp": "El apartado VIII.C recoge entre los posibles resultados del procedimiento informal: 'c) No se alcanza acuerdo alguno y se inicia el procedimiento formal. En este supuesto se procurará la protección suficiente de la víctima y de la persona denunciada...'.",
+      "fuente": "Anexo II.VIII.C, Procedimiento Informal, Protocolo de acoso, II Plan de Igualdad Zaragoza",
+      "confianza": "alta"
+    }
+  ]
+}
