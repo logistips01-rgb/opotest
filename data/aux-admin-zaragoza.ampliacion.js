@@ -42746,3 +42746,527 @@ window.addQuestions('aux-admin-zaragoza', 2, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 2 · lote 2026-08-13 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 2, [
+  {
+    "q": "Según el artículo 1.1 de la Ley 4/2007, ¿cuál es el objeto de la Ley?",
+    "options": [
+      "La adopción de medidas integrales dirigidas a la sensibilización, prevención y erradicación de la violencia ejercida sobre las mujeres, así como la protección, asistencia y seguimiento a las víctimas",
+      "Regular exclusivamente el régimen sancionador de los actos de violencia de género en Aragón",
+      "Crear un registro autonómico de víctimas de violencia de género",
+      "Establecer las competencias de los juzgados de violencia sobre la mujer en Aragón"
+    ],
+    "correct": 0,
+    "exp": "El art. 1.1 define el objeto de la Ley como la adopción de medidas integrales de sensibilización, prevención y erradicación de la violencia, junto con la protección, asistencia y seguimiento a las víctimas.",
+    "fuente": "Art. 1.1 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el art. 1.2 de la Ley 4/2007, ¿qué se entiende por 'violencia ejercida contra las mujeres'?",
+    "options": [
+      "Solo los actos tipificados como delito por el Código Penal",
+      "Todo acto o agresión contra las mujeres, motivado por la pertenencia a dicho sexo de las víctimas, que tenga o pueda tener como consecuencia un daño físico o psicológico",
+      "Únicamente las agresiones producidas en el ámbito familiar",
+      "Exclusivamente las agresiones sexuales cometidas por el cónyuge o pareja"
+    ],
+    "correct": 1,
+    "exp": "El art. 1.2 define la violencia contra las mujeres como todo acto o agresión motivado por la pertenencia al sexo de la víctima, con o sin tipificación como delito, falta o infracción.",
+    "fuente": "Art. 1.2 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 1.2 de la Ley 4/2007, ¿cuál de las siguientes situaciones NO se menciona como marco en el que se realizan los actos de violencia contra las mujeres?",
+    "options": [
+      "Situación de debilidad de la víctima frente al agresor",
+      "Dependencia familiar de la víctima frente al agresor",
+      "Situación de superioridad jerárquica administrativa del agresor",
+      "Proximidad laboral o económica de la víctima frente al agresor"
+    ],
+    "correct": 2,
+    "exp": "El art. 1.2 habla de actos realizados al amparo de una situación de debilidad, dependencia o proximidad física, psicológica, familiar, laboral o económica de la víctima frente al agresor; la 'superioridad jerárquica administrativa' no figura en el texto.",
+    "fuente": "Art. 1.2 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Además del daño físico o psicológico, ¿qué otras conductas incluye la definición de violencia contra las mujeres del art. 1.2 de la Ley 4/2007?",
+    "options": [
+      "Únicamente los daños patrimoniales cuantificables económicamente",
+      "Solo las conductas previstas como falta administrativa en la normativa autonómica",
+      "Exclusivamente los actos cometidos en presencia de menores de edad",
+      "Las agresiones a la libertad e indemnidad sexuales, incluida la amenaza de tales actos, la coacción o la privación arbitraria de libertad"
+    ],
+    "correct": 3,
+    "exp": "El art. 1.2 incluye expresamente las agresiones a la libertad e indemnidad sexuales, la amenaza de tales actos, la coacción o la privación arbitraria de libertad.",
+    "fuente": "Art. 1.2 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué forma de violencia contra las mujeres define el art. 2.a) de la Ley 4/2007 como 'cualquier acto intencional de fuerza contra el cuerpo de la mujer, con resultado o riesgo de producir lesión física o daño en la víctima'?",
+    "options": [
+      "Malos tratos físicos",
+      "Malos tratos psicológicos",
+      "Acoso sexual",
+      "Maltrato económico"
+    ],
+    "correct": 0,
+    "exp": "El art. 2.a) define los malos tratos físicos como cualquier acto intencional de fuerza contra el cuerpo de la mujer, con resultado o riesgo de lesión física o daño.",
+    "fuente": "Art. 2.a) Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 2.b) de la Ley 4/2007, los malos tratos psicológicos incluyen toda conducta intencional que produce en la víctima la falta de autoestima o el sufrimiento a través de, entre otros medios:",
+    "options": [
+      "Mutilación de órganos genitales",
+      "Amenazas, humillaciones o vejaciones, exigencia de obediencia o sumisión, coerción verbal, insultos y aislamiento",
+      "Privación de recursos económicos compartidos en el ámbito familiar",
+      "Exhibición y observación con fines de satisfacción sexual"
+    ],
+    "correct": 1,
+    "exp": "El art. 2.b) enumera como medios de los malos tratos psicológicos las amenazas, humillaciones, vejaciones, exigencia de obediencia o sumisión, coerción verbal, insultos, aislamiento y culpabilización, entre otros.",
+    "fuente": "Art. 2.b) Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 2.c) de la Ley 4/2007 define los 'malos tratos sexuales' como cualquier acto sexual forzado por el agresor con violencia o intimidación, o sin consentimiento libre y válidamente expresado de la víctima, con independencia de:",
+    "options": [
+      "La edad de la víctima",
+      "Que exista o no denuncia previa",
+      "La relación que el agresor guarde con la víctima",
+      "El lugar donde se haya producido el acto"
+    ],
+    "correct": 2,
+    "exp": "El art. 2.c) precisa que los malos tratos sexuales se dan con independencia de la relación que el agresor guarde con la víctima.",
+    "fuente": "Art. 2.c) Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué forma de violencia recoge el art. 2.d) de la Ley 4/2007 al referirse a las actuaciones, incluidas la exhibición y la observación, que un mayor de edad realiza para su propia satisfacción sexual empleando manipulación emocional, prevalimiento, chantaje, amenazas, engaño o violencia física o psíquica?",
+    "options": [
+      "Acoso sexual",
+      "Tráfico o utilización de la mujer con fines de explotación sexual",
+      "Violencia contra los derechos sexuales y reproductivos de la mujer",
+      "Agresiones y abusos sexuales a niñas o adolescentes o corrupción de las mismas"
+    ],
+    "correct": 3,
+    "exp": "El art. 2.d) define así las 'Agresiones y abusos sexuales a niñas o adolescentes o corrupción de las mismas'.",
+    "fuente": "Art. 2.d) Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 2.e) de la Ley 4/2007, el acoso sexual se define como la situación en que se produce cualquier comportamiento verbal, no verbal o físico no deseado de índole sexual con el propósito o efecto de atentar contra la dignidad de una persona, en particular cuando:",
+    "options": [
+      "Se crea un entorno intimidatorio, hostil, degradante, humillante u ofensivo",
+      "Se produce en el domicilio familiar",
+      "Existe una relación de parentesco entre agresor y víctima",
+      "El agresor emplea medios económicos coercitivos"
+    ],
+    "correct": 0,
+    "exp": "El art. 2.e) precisa que el acoso sexual atenta contra la dignidad de la persona, en particular cuando se crea un entorno intimidatorio, hostil, degradante, humillante u ofensivo.",
+    "fuente": "Art. 2.e) Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 2.f) de la Ley 4/2007, el tráfico o utilización de la mujer con fines de explotación sexual, prostitución y comercio sexual se considera violencia con independencia de:",
+    "options": [
+      "Que el hecho se haya producido dentro o fuera de Aragón",
+      "El tipo de relación que une a la víctima con el agresor y de la edad de aquella",
+      "Que exista o no ánimo de lucro",
+      "El número de agresores implicados"
+    ],
+    "correct": 1,
+    "exp": "El art. 2.f) señala que esta forma de violencia se da con independencia del tipo de relación que une a la víctima con el agresor y de la edad de aquella.",
+    "fuente": "Art. 2.f) Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 2.g) de la Ley 4/2007 establece que la mutilación genital femenina se considera violencia contra las mujeres incluso cuando se realiza con:",
+    "options": [
+      "Autorización de una autoridad sanitaria",
+      "Fines exclusivamente terapéuticos",
+      "El consentimiento, expreso o tácito, de la víctima",
+      "Intervención de personal médico colegiado"
+    ],
+    "correct": 2,
+    "exp": "El art. 2.g) precisa que la mutilación genital femenina es violencia aun cuando se realice con el consentimiento, expreso o tácito, de la víctima.",
+    "fuente": "Art. 2.g) Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué forma de violencia define el art. 2.h) de la Ley 4/2007 como 'cualquier tipo de actuación que impida o restrinja el libre ejercicio de su derecho a la salud reproductiva y la maternidad'?",
+    "options": [
+      "Maltrato económico",
+      "Violencia social",
+      "Malos tratos físicos",
+      "Violencia contra los derechos sexuales y reproductivos de la mujer"
+    ],
+    "correct": 3,
+    "exp": "El art. 2.h) define así la 'Violencia contra los derechos sexuales y reproductivos de la mujer'.",
+    "fuente": "Art. 2.h) Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 2.i) de la Ley 4/2007 define el maltrato económico como la privación intencionada y no justificada legalmente de recursos para el bienestar físico o psicológico de la víctima y de sus hijas e hijos, así como:",
+    "options": [
+      "La discriminación en la disposición de los recursos compartidos en el ámbito familiar o de pareja",
+      "La imposición de jornadas laborales excesivas",
+      "El impago de pensiones alimenticias declarado judicialmente",
+      "La negativa a suscribir un contrato laboral"
+    ],
+    "correct": 0,
+    "exp": "El art. 2.i) añade a la privación de recursos la discriminación en la disposición de los recursos compartidos en el ámbito familiar o de pareja.",
+    "fuente": "Art. 2.i) Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 2.j) de la Ley 4/2007, tras enumerar las formas de violencia de las letras a) a i), añade como cláusula de cierre:",
+    "options": [
+      "Los actos de violencia cometidos exclusivamente en el ámbito doméstico",
+      "Cualesquiera otras formas análogas que lesionen o sean susceptibles de lesionar la dignidad de la mujer",
+      "Las conductas ya tipificadas como delito por el Código Penal",
+      "Las agresiones cometidas por menores de edad"
+    ],
+    "correct": 1,
+    "exp": "El art. 2.j) cierra la enumeración con una cláusula abierta: cualesquiera otras formas análogas que lesionen o sean susceptibles de lesionar la dignidad de la mujer.",
+    "fuente": "Art. 2.j) Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 3.a) de la Ley 4/2007, las situaciones de violencia doméstica son las que se operan por quienes:",
+    "options": [
+      "Carecen de cualquier vínculo con la víctima",
+      "Mantienen con la víctima un vínculo laboral o de prestación de servicios",
+      "Sostienen o han sostenido un vínculo afectivo, conyugal, de pareja, paterno-filial o semejante con la víctima",
+      "Comparten con la víctima un vínculo docente"
+    ],
+    "correct": 2,
+    "exp": "El art. 3.a) define la violencia doméstica como la operada por quienes sostienen o han sostenido un vínculo afectivo, conyugal, de pareja, paterno-filial o semejante con la víctima.",
+    "fuente": "Art. 3.a) Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 3.a) de la Ley 4/2007 incluye dentro de la violencia doméstica la ejercida por quienes hayan sido cónyuges o pareja de la víctima ligados por relaciones similares de afectividad:",
+    "options": [
+      "Solo si mantienen la convivencia en el momento de la agresión",
+      "Únicamente si existe sentencia de separación previa",
+      "Solo cuando exista descendencia común",
+      "Aun sin convivencia"
+    ],
+    "correct": 3,
+    "exp": "El art. 3.a) incluye expresamente a quienes estén o hayan estado ligados a la víctima por relaciones similares de afectividad, aun sin convivencia.",
+    "fuente": "Art. 3.a) Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 3.b) de la Ley 4/2007, las situaciones de violencia laboral o docente son las que se operan por quienes sostienen con la víctima un vínculo laboral, docente o de prestación de servicios, prevaliéndose de una posición de dependencia o debilidad de la víctima frente a ellos o en virtud de:",
+    "options": [
+      "Una situación de proximidad entre ellos",
+      "Una relación de parentesco por afinidad",
+      "Un vínculo contractual mercantil",
+      "Una relación de convivencia estable"
+    ],
+    "correct": 0,
+    "exp": "El art. 3.b) contempla también la violencia derivada de una situación de proximidad entre agresor y víctima, además del prevalimiento de dependencia o debilidad.",
+    "fuente": "Art. 3.b) Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 3.c) de la Ley 4/2007 incluye en todo caso dentro de la violencia social, entre otras personas, a aquellas que por su especial vulnerabilidad se encuentran:",
+    "options": [
+      "Integradas en asociaciones de mujeres",
+      "Sometidas a custodia o guarda en centros públicos o privados",
+      "Empadronadas en un municipio distinto al de residencia del agresor",
+      "En situación de desempleo de larga duración"
+    ],
+    "correct": 1,
+    "exp": "El art. 3.c) incluye en todo caso a las personas que por su especial vulnerabilidad se encuentran sometidas a custodia o guarda en centros públicos o privados.",
+    "fuente": "Art. 3.c) Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 4 de la Ley 4/2007, las medidas contempladas en la Ley serán de aplicación a las mujeres que:",
+    "options": [
+      "Estén empadronadas en cualquier municipio de España y sean víctimas de violencia de género",
+      "Hayan presentado denuncia penal por violencia de género",
+      "Dentro de la Comunidad Autónoma de Aragón, sean víctimas de cualquiera de las formas de violencia del artículo 2",
+      "Cuenten con orden de protección judicial vigente"
+    ],
+    "correct": 2,
+    "exp": "El art. 4 delimita el ámbito de aplicación a las mujeres que, dentro de la Comunidad Autónoma de Aragón, sean víctimas de cualquiera de las formas de violencia del art. 2.",
+    "fuente": "Art. 4 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El ámbito de aplicación del art. 4 de la Ley 4/2007 se determina por remisión a las formas de violencia recogidas en:",
+    "options": [
+      "El artículo 1.2",
+      "El artículo 3",
+      "El artículo 23",
+      "El artículo 2"
+    ],
+    "correct": 3,
+    "exp": "El art. 4 remite expresamente a las formas de violencia del artículo 2 para fijar el ámbito de aplicación de la Ley.",
+    "fuente": "Art. 4 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 18.1 de la Ley 4/2007, los centros de emergencia son centros de asistencia:",
+    "options": [
+      "Permanente e inmediata en los que se facilita alojamiento y protección a las víctimas y a sus hijas e hijos acompañantes",
+      "Temporal, limitada a un máximo de 72 horas, sin posibilidad de alojamiento",
+      "Exclusivamente jurídica, sin prestación de alojamiento",
+      "Únicamente ambulatoria, sin pernocta"
+    ],
+    "correct": 0,
+    "exp": "El art. 18.1 define los centros de emergencia como centros de asistencia permanente e inmediata que facilitan alojamiento y protección a las víctimas y a las hijas e hijos acompañantes.",
+    "fuente": "Art. 18.1 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el art. 18.2 de la Ley 4/2007, el equipo social especializado que atiende los centros de emergencia elabora los informes psicológicos y sociales necesarios y realiza:",
+    "options": [
+      "La instrucción del procedimiento penal",
+      "La orientación y, en su caso, el acompañamiento en los trámites de carácter urgente para una mejor protección y defensa",
+      "La representación procesal de la víctima ante los tribunales",
+      "La mediación entre víctima y agresor"
+    ],
+    "correct": 1,
+    "exp": "El art. 18.2 atribuye al equipo social especializado la orientación y, en su caso, el acompañamiento en trámites urgentes para una mejor protección y defensa.",
+    "fuente": "Art. 18.2 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 18.3 de la Ley 4/2007, ¿cuántos centros de emergencia se establecerán, como mínimo, en la Comunidad Autónoma de Aragón?",
+    "options": [
+      "Uno en toda la Comunidad Autónoma",
+      "Uno por cada comarca",
+      "Al menos uno en cada provincia",
+      "Uno por cada 50.000 habitantes"
+    ],
+    "correct": 2,
+    "exp": "El art. 18.3 dispone que se establecerá, al menos, un centro de emergencia en cada provincia de la Comunidad Autónoma de Aragón.",
+    "fuente": "Art. 18.3 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 18.1 de la Ley 4/2007, además de a las mujeres víctimas de violencia o en situación de riesgo inminente, ¿a quién más se facilita alojamiento y protección en los centros de emergencia?",
+    "options": [
+      "A los progenitores de la víctima",
+      "A otras personas del entorno familiar sin límite",
+      "A las personas testigos de los hechos",
+      "A las hijas e hijos acompañantes"
+    ],
+    "correct": 3,
+    "exp": "El art. 18.1 extiende el alojamiento y la protección a las hijas e hijos acompañantes de la víctima.",
+    "fuente": "Art. 18.1 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 19.1 de la Ley 4/2007, las casas de acogida se configuran como un servicio social especializado y de carácter asistencial destinado a acoger, por un período de tiempo determinado, a las mujeres solas o acompañadas de menores a su cargo víctimas de violencia doméstica que hayan abandonado o tenido que abandonar el domicilio familiar y:",
+    "options": [
+      "Carezcan de medios propios",
+      "Dispongan de una orden de alejamiento en vigor",
+      "Hayan iniciado un procedimiento de divorcio",
+      "Cuenten con informe policial previo"
+    ],
+    "correct": 0,
+    "exp": "El art. 19.1 exige que las mujeres acogidas carezcan de medios propios, además de haber abandonado o tenido que abandonar el domicilio familiar.",
+    "fuente": "Art. 19.1 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 19.2 de la Ley 4/2007, las casas de acogida promueven la autonomía personal de las mujeres y de las hijas e hijos a su cargo a través de:",
+    "options": [
+      "La concesión de una renta mínima vital",
+      "El desarrollo de habilidades sociales y programas de apoyo e intervención psicológica, social, jurídica y laboral",
+      "La escolarización obligatoria en centros concertados",
+      "La formación exclusivamente en materia de empleo doméstico"
+    ],
+    "correct": 1,
+    "exp": "El art. 19.2 señala que las casas de acogida promueven la autonomía personal mediante el desarrollo de habilidades sociales y programas de apoyo e intervención psicológica, social, jurídica y laboral.",
+    "fuente": "Art. 19.2 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 19.3 de la Ley 4/2007, las casas de acogida estarán atendidas por equipos multidisciplinares que garantizarán a la mujer y, en su caso, a los menores a su cargo:",
+    "options": [
+      "Únicamente alojamiento y manutención",
+      "Exclusivamente formación laboral",
+      "El apoyo emocional y psicológico, el asesoramiento social y el acompañamiento necesario durante el tiempo de acogida",
+      "Solo asistencia médica de urgencia"
+    ],
+    "correct": 2,
+    "exp": "El art. 19.3 garantiza, a través de equipos multidisciplinares, el apoyo emocional y psicológico, el asesoramiento social y el acompañamiento necesario durante la acogida.",
+    "fuente": "Art. 19.3 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 19.4 de la Ley 4/2007, ¿cuál es el número mínimo de casas de acogida que se establecerán en cada provincia de la Comunidad Autónoma de Aragón?",
+    "options": [
+      "Dos",
+      "Ninguna, basta con los centros de emergencia",
+      "Tres, una por cada partido judicial",
+      "Al menos una"
+    ],
+    "correct": 3,
+    "exp": "El art. 19.4 dispone que se establecerá, al menos, una casa de acogida en cada provincia de la Comunidad Autónoma de Aragón.",
+    "fuente": "Art. 19.4 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 19.5 de la Ley 4/2007, cuando una mujer víctima de violencia que ingresa en una casa de acogida tenga a su cargo ascendientes o descendientes incapacitados o en situación de dependencia, el Departamento competente en materia de servicios sociales:",
+    "options": [
+      "Proveerá de forma inmediata del recurso social más conveniente que les permita mantener una vida digna",
+      "La derivará automáticamente a otra Comunidad Autónoma",
+      "No podrá prestarle asistencia adicional",
+      "Exigirá la renuncia previa a la guarda de esas personas"
+    ],
+    "correct": 0,
+    "exp": "El art. 19.5 obliga al Departamento competente a proveer de forma inmediata del recurso social más conveniente que permita a esas personas mantener una vida digna.",
+    "fuente": "Art. 19.5 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes afirmaciones sobre las casas de acogida, conforme al art. 19.2 de la Ley 4/2007, es correcta?",
+    "options": [
+      "Solo atienden a mujeres víctimas de violencia laboral o docente",
+      "Atienden también a las hijas e hijos a cargo de la mujer víctima de violencia doméstica",
+      "Están destinadas exclusivamente a mujeres sin hijas ni hijos a su cargo",
+      "Solo pueden acoger a la víctima durante un máximo de 24 horas"
+    ],
+    "correct": 1,
+    "exp": "El art. 19.2 aclara que las casas de acogida no solo atienden a las mujeres, sino también a las hijas e hijos a su cargo.",
+    "fuente": "Art. 19.2 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 20.1 de la Ley 4/2007, los pisos tutelados son hogares funcionales y temporales en los que conviven una o varias unidades familiares compuestas por mujeres víctimas de violencia junto con sus hijas e hijos, que:",
+    "options": [
+      "Requieren en su totalidad el tratamiento especializado de la casa de acogida",
+      "Han renunciado a cualquier tipo de apoyo social",
+      "Ya no requieran en su totalidad el tratamiento especializado prestado por la casa de acogida, pero necesiten apoyo, en especial alojamiento transitorio",
+      "Solo pueden proceder de un centro de emergencia"
+    ],
+    "correct": 2,
+    "exp": "El art. 20.1 define los pisos tutelados como destinados a mujeres que ya no requieren en su totalidad el tratamiento especializado de la casa de acogida, pero necesitan apoyo, en especial alojamiento transitorio para su autonomía personal.",
+    "fuente": "Art. 20.1 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 20.2 de la Ley 4/2007, además de un alojamiento transitorio, los pisos tutelados otorgan a las mujeres víctimas de violencia el apoyo social, psicológico y jurídico del equipo multidisciplinar de:",
+    "options": [
+      "Únicamente el Ayuntamiento del municipio de residencia",
+      "Los juzgados de violencia sobre la mujer",
+      "Exclusivamente asociaciones de voluntariado",
+      "La casa de acogida, de los centros comarcales de información y servicios a la mujer o de los servicios sociales comunitarios de que procedan"
+    ],
+    "correct": 3,
+    "exp": "El art. 20.2 remite al apoyo del equipo multidisciplinar de la casa de acogida, de los centros comarcales de información y servicios a la mujer o de los servicios sociales comunitarios de procedencia.",
+    "fuente": "Art. 20.2 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "A diferencia de las casas de acogida, ¿qué caracteriza a los pisos tutelados según el art. 20.1 de la Ley 4/2007?",
+    "options": [
+      "Que están destinados a mujeres que ya no requieren en su totalidad el tratamiento especializado, sino apoyo transitorio para su autonomía personal",
+      "Que solo admiten a mujeres sin hijas ni hijos a su cargo",
+      "Que su estancia máxima es de 48 horas",
+      "Que no pueden recibir apoyo psicológico"
+    ],
+    "correct": 0,
+    "exp": "El art. 20.1 diferencia los pisos tutelados de las casas de acogida en que las mujeres ya no requieren en su totalidad el tratamiento especializado, sino apoyo transitorio para lograr su autonomía personal.",
+    "fuente": "Art. 20.1 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 21 de la Ley 4/2007, ¿qué Departamento arbitrará las medidas necesarias para proporcionar alojamiento inmediato a mujeres mayores o discapacitadas víctimas de violencia?",
+    "options": [
+      "El Departamento competente en materia de familia",
+      "El Departamento competente en materia de servicios sociales",
+      "El Departamento competente en materia de sanidad",
+      "El Departamento competente en materia de justicia"
+    ],
+    "correct": 1,
+    "exp": "El art. 21 atribuye esta competencia al Departamento competente en materia de servicios sociales.",
+    "fuente": "Art. 21 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 21 de la Ley 4/2007 dispone que el alojamiento inmediato para mujeres mayores o discapacitadas víctimas de violencia se prestará en centros específicos:",
+    "options": [
+      "Únicamente de titularidad pública",
+      "Exclusivamente privados sin ánimo de lucro",
+      "Propios o concertados",
+      "Gestionados por entidades religiosas"
+    ],
+    "correct": 2,
+    "exp": "El art. 21 señala que el alojamiento se proporcionará en centros específicos, propios o concertados, del Departamento competente en servicios sociales.",
+    "fuente": "Art. 21 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El alojamiento alternativo específico regulado en el art. 21 de la Ley 4/2007 está dirigido a:",
+    "options": [
+      "Mujeres con hijas o hijos menores de tres años",
+      "Mujeres solicitantes de asilo víctimas de violencia",
+      "Mujeres funcionarias públicas víctimas de violencia laboral",
+      "Mujeres mayores o discapacitadas víctimas de violencia"
+    ],
+    "correct": 3,
+    "exp": "El art. 21 dirige este alojamiento alternativo específico a mujeres mayores o discapacitadas víctimas de violencia.",
+    "fuente": "Art. 21 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 22 de la Ley 4/2007, ¿qué Departamento facilita los puntos de encuentro para las visitas de madres y/o padres a sus hijas e hijos en supuestos de nulidad, separación, divorcio o ruptura de la unión de hecho con antecedentes de conductas violentas en la pareja?",
+    "options": [
+      "El Departamento competente en materia de familia",
+      "El Departamento competente en materia de vivienda",
+      "El Departamento competente en materia de empleo",
+      "El Departamento competente en materia de servicios sociales"
+    ],
+    "correct": 0,
+    "exp": "El art. 22 atribuye al Departamento competente en materia de familia la facilitación de estos puntos de encuentro.",
+    "fuente": "Art. 22 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 22 de la Ley 4/2007, los puntos de encuentro serán atendidos por personal especializado que:",
+    "options": [
+      "Sustituirá a la autoridad judicial en la resolución del régimen de visitas",
+      "Emitirá los informes que procedan a la autoridad judicial",
+      "Podrá suspender por sí mismo el régimen de visitas",
+      "No mantendrá ningún contacto con la autoridad judicial"
+    ],
+    "correct": 1,
+    "exp": "El art. 22 encomienda al personal especializado de los puntos de encuentro la emisión de los informes que procedan a la autoridad judicial.",
+    "fuente": "Art. 22 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 23 de la Ley 4/2007, ¿a quién corresponde determinar reglamentariamente las condiciones de autorización, registro y acreditación de los centros de protección y apoyo a las mujeres víctimas de violencia?",
+    "options": [
+      "A los Ayuntamientos de cada provincia",
+      "A las Cortes de Aragón mediante ley",
+      "Al Gobierno de Aragón",
+      "Al Instituto Aragonés de la Mujer exclusivamente"
+    ],
+    "correct": 2,
+    "exp": "El art. 23 remite al Gobierno de Aragón la determinación reglamentaria de las condiciones de autorización, registro y acreditación de estos centros.",
+    "fuente": "Art. 23 Ley 4/2007",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 23 de la Ley 4/2007 establece que la regulación reglamentaria de los centros de protección y apoyo tiene como objetivo garantizar:",
+    "options": [
+      "La financiación privada de los centros",
+      "La reducción del número de centros existentes",
+      "La gratuidad de todos los servicios sin excepción",
+      "La calidad y la coordinación en la prestación de sus funciones"
+    ],
+    "correct": 3,
+    "exp": "El art. 23 fija como finalidad de la regulación reglamentaria garantizar la calidad y la coordinación en la prestación de las funciones de los centros de protección y apoyo.",
+    "fuente": "Art. 23 Ley 4/2007",
+    "confianza": "alta"
+  }
+]);
