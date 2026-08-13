@@ -1,0 +1,494 @@
+[
+  {
+    "q": "Los funcionarios de carrera que, en virtud de procesos de transferencias o de procedimientos de provisión de puestos de trabajo, obtienen destino en una Administración Pública distinta, serán declarados en la situación de:",
+    "options": [
+      "Servicio en otras Administraciones Públicas",
+      "Servicios especiales",
+      "Excedencia voluntaria por interés particular"
+    ],
+    "correct": 0,
+    "exp": "El art. 88.1 declara en situación de servicio en otras Administraciones Públicas a los funcionarios que, por transferencias o por procedimientos de provisión de puestos, obtienen destino en otra Administración distinta.",
+    "fuente": "Art. 88.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 88.1 del TREBEP, un funcionario declarado en servicio en otras Administraciones Públicas se mantendrá en dicha situación aunque:",
+    "options": [
+      "Transcurran más de diez años en el puesto",
+      "La Administración de destino lo integre como personal propio por disposición legal",
+      "Sea objeto de un expediente disciplinario"
+    ],
+    "correct": 1,
+    "exp": "El art. 88.1 establece que se mantendrán en esta situación en el caso de que por disposición legal de la Administración a la que acceden se integren como personal propio de ésta.",
+    "fuente": "Art. 88.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Los funcionarios transferidos a las comunidades autónomas se integran plenamente en la organización de la función pública autonómica, hallándose en situación de:",
+    "options": [
+      "Servicio en otras Administraciones Públicas",
+      "Excedencia voluntaria por agrupación familiar",
+      "Servicio activo en la función pública de la comunidad autónoma"
+    ],
+    "correct": 2,
+    "exp": "El art. 88.2 dispone que los funcionarios transferidos a las comunidades autónomas se integran plenamente en su función pública, hallándose en situación de servicio activo en la función pública de la comunidad autónoma en la que se integran.",
+    "fuente": "Art. 88.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Al integrar a los funcionarios transferidos como personal propio, las comunidades autónomas deben respetar, conforme al artículo 88.2 del TREBEP:",
+    "options": [
+      "El Grupo o Subgrupo del cuerpo o escala de procedencia y los derechos económicos inherentes a la posición en la carrera reconocida",
+      "Únicamente la antigüedad reconocida en la Administración de origen",
+      "El régimen disciplinario aplicable en la Administración de origen"
+    ],
+    "correct": 0,
+    "exp": "El art. 88.2 exige respetar el Grupo o Subgrupo del cuerpo o escala de procedencia, así como los derechos económicos inherentes a la posición en la carrera que tuviesen reconocido.",
+    "fuente": "Art. 88.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Los funcionarios transferidos a una comunidad autónoma mantienen en la Administración Pública de origen:",
+    "options": [
+      "Ningún derecho, al perder su vinculación con la Administración de origen",
+      "Todos sus derechos, como si se hallaran en servicio activo, conforme a los respectivos Estatutos de Autonomía",
+      "Solo el derecho a la reserva del puesto de trabajo durante dos años"
+    ],
+    "correct": 1,
+    "exp": "El art. 88.2 señala que los funcionarios transferidos mantienen todos sus derechos en la Administración Pública de origen como si se hallaran en servicio activo, de acuerdo con los respectivos Estatutos de Autonomía.",
+    "fuente": "Art. 88.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 88.2 del TREBEP reconoce la igualdad entre todos los funcionarios propios de las comunidades autónomas:",
+    "options": [
+      "Solo cuando proceden de la misma Administración de origen",
+      "Únicamente a efectos retributivos, no de carrera",
+      "Con independencia de su Administración de procedencia"
+    ],
+    "correct": 2,
+    "exp": "El art. 88.2 reconoce la igualdad entre todos los funcionarios propios de las comunidades autónomas con independencia de su Administración de procedencia.",
+    "fuente": "Art. 88.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Los funcionarios de carrera en situación de servicio en otras Administraciones Públicas por haber obtenido puesto mediante los sistemas de provisión previstos en el TREBEP conservan:",
+    "options": [
+      "Su condición de funcionario de la Administración de origen y el derecho a participar en las convocatorias de provisión de puestos que ésta efectúe",
+      "Únicamente el derecho a percibir retribuciones de la Administración de origen",
+      "La obligación de solicitar autorización previa de la Administración de origen para cualquier ascenso"
+    ],
+    "correct": 0,
+    "exp": "El art. 88.3 establece que conservan su condición de funcionario de la Administración de origen y el derecho a participar en las convocatorias de provisión de puestos que efectúe esta última.",
+    "fuente": "Art. 88.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 88.3 del TREBEP, el tiempo de servicio prestado en la Administración Pública en la que estén destinados los funcionarios en dicha situación se les computará como:",
+    "options": [
+      "Tiempo de excedencia voluntaria",
+      "Servicio activo en su cuerpo o escala de origen",
+      "Tiempo no computable a ningún efecto"
+    ],
+    "correct": 1,
+    "exp": "El art. 88.3 señala que el tiempo de servicio en la Administración Pública en la que estén destinados se les computará como de servicio activo en su cuerpo o escala de origen.",
+    "fuente": "Art. 88.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Los funcionarios que reingresen al servicio activo en su Administración de origen procedentes de la situación de servicio en otras Administraciones Públicas obtendrán, conforme al artículo 88.4 del TREBEP:",
+    "options": [
+      "La pérdida automática de la antigüedad reconocida",
+      "El derecho a una excedencia voluntaria de un año",
+      "El reconocimiento profesional de los progresos alcanzados en el sistema de carrera profesional y sus efectos retributivos"
+    ],
+    "correct": 2,
+    "exp": "El art. 88.4 reconoce a estos funcionarios el reconocimiento profesional de los progresos alcanzados en el sistema de carrera profesional y sus efectos sobre la posición retributiva.",
+    "fuente": "Art. 88.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántas modalidades de excedencia contempla el artículo 89.1 del TREBEP?",
+    "options": [
+      "Cinco",
+      "Tres",
+      "Cuatro"
+    ],
+    "correct": 0,
+    "exp": "El art. 89.1 recoge cinco modalidades: interés particular, agrupación familiar, cuidado de familiares, violencia de género o sexual, y violencia terrorista.",
+    "fuente": "Art. 89.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La excedencia por razón de violencia terrorista se recoge en el artículo 89.1 del TREBEP en la letra:",
+    "options": [
+      "c)",
+      "e)",
+      "d)"
+    ],
+    "correct": 1,
+    "exp": "El art. 89.1.e) contempla la excedencia por razón de violencia terrorista.",
+    "fuente": "Art. 89.1.e) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La excedencia voluntaria por agrupación familiar se regula en el artículo 89.1 del TREBEP en la letra:",
+    "options": [
+      "c)",
+      "d)",
+      "b)"
+    ],
+    "correct": 2,
+    "exp": "El art. 89.1.b) recoge la excedencia voluntaria por agrupación familiar.",
+    "fuente": "Art. 89.1.b) TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La concesión de la excedencia voluntaria por interés particular queda subordinada, conforme al artículo 89.2 del TREBEP, a:",
+    "options": [
+      "Las necesidades del servicio debidamente motivadas",
+      "La antigüedad del funcionario en el puesto",
+      "El informe favorable del sindicato mayoritario"
+    ],
+    "correct": 0,
+    "exp": "El art. 89.2 subordina la concesión de esta excedencia a las necesidades del servicio debidamente motivadas.",
+    "fuente": "Art. 89.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 89.2 del TREBEP, la excedencia voluntaria por interés particular no podrá declararse cuando:",
+    "options": [
+      "El funcionario disfrute de vacaciones ese año",
+      "Al funcionario se le esté instruyendo expediente disciplinario",
+      "El puesto de trabajo esté vacante"
+    ],
+    "correct": 1,
+    "exp": "El art. 89.2 establece que no podrá declararse esta excedencia cuando al funcionario público se le instruya expediente disciplinario.",
+    "fuente": "Art. 89.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Procederá declarar de oficio la excedencia voluntaria por interés particular, conforme al artículo 89.2 del TREBEP, cuando:",
+    "options": [
+      "El funcionario lo solicite expresamente por escrito",
+      "Transcurran cinco años desde el ingreso en la función pública",
+      "Finalizada la causa que determinó el pase a una situación distinta de servicio activo, se incumpla la obligación de solicitar el reingreso en plazo"
+    ],
+    "correct": 2,
+    "exp": "El art. 89.2 dispone que procederá declarar de oficio esta excedencia cuando, finalizada la causa que determinó el pase a una situación distinta de servicio activo, se incumpla la obligación de solicitar el reingreso en el plazo reglamentario.",
+    "fuente": "Art. 89.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Quienes se encuentren en situación de excedencia voluntaria por interés particular, conforme al artículo 89.2 del TREBEP:",
+    "options": [
+      "No devengarán retribuciones, ni les será computable el tiempo a efectos de ascensos, trienios y derechos de Seguridad Social",
+      "Devengarán retribuciones reducidas al 50 por ciento",
+      "Mantendrán el cómputo a efectos de trienios pero no de ascensos"
+    ],
+    "correct": 0,
+    "exp": "El art. 89.2 señala que no devengarán retribuciones, ni les será computable el tiempo que permanezcan en tal situación a efectos de ascensos, trienios y derechos de Seguridad Social.",
+    "fuente": "Art. 89.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 89.2 del TREBEP permite que las leyes de función pública que se dicten en su desarrollo:",
+    "options": [
+      "Supriman la excedencia voluntaria por interés particular",
+      "Establezcan una duración menor del periodo de servicios exigido y determinen los periodos mínimos de permanencia",
+      "Amplíen el periodo exigido a diez años en todo caso"
+    ],
+    "correct": 1,
+    "exp": "El art. 89.2 permite que las leyes de función pública establezcan una duración menor del periodo de prestación de servicios exigido y determinen los periodos mínimos de permanencia en la excedencia.",
+    "fuente": "Art. 89.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La excedencia voluntaria por agrupación familiar podrá concederse, conforme al artículo 89.3 del TREBEP:",
+    "options": [
+      "Solo si el funcionario ha prestado cinco años de servicios efectivos",
+      "Únicamente a funcionarios sin hijos a cargo",
+      "Sin el requisito de haber prestado servicios efectivos durante el periodo establecido"
+    ],
+    "correct": 2,
+    "exp": "El art. 89.3 permite conceder esta excedencia sin el requisito de haber prestado servicios efectivos durante el periodo establecido para la excedencia por interés particular.",
+    "fuente": "Art. 89.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La excedencia voluntaria por agrupación familiar exige que el cónyuge del funcionario resida en otra localidad por haber obtenido y estar desempeñando un puesto de trabajo de carácter:",
+    "options": [
+      "Definitivo, como funcionario de carrera o laboral fijo",
+      "Temporal como interino",
+      "Provisional en comisión de servicios"
+    ],
+    "correct": 0,
+    "exp": "El art. 89.3 exige que el cónyuge resida en otra localidad por haber obtenido y estar desempeñando un puesto de trabajo de carácter definitivo, como funcionario de carrera o como laboral fijo.",
+    "fuente": "Art. 89.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 89.3 del TREBEP, el puesto de trabajo definitivo del cónyuge que da lugar a la excedencia por agrupación familiar puede desempeñarse, entre otros ámbitos, en:",
+    "options": [
+      "Únicamente en la Administración General del Estado",
+      "La Unión Europea o en organizaciones internacionales",
+      "Exclusivamente en empresas privadas concesionarias de servicios públicos"
+    ],
+    "correct": 1,
+    "exp": "El art. 89.3 incluye entre los ámbitos posibles la Unión Europea o las organizaciones internacionales, además de las Administraciones Públicas y órganos constitucionales o del Poder Judicial.",
+    "fuente": "Art. 89.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Quienes se encuentren en situación de excedencia voluntaria por agrupación familiar, conforme al artículo 89.3 del TREBEP:",
+    "options": [
+      "Conservan el cómputo del tiempo a efectos de trienios",
+      "Tienen derecho a reserva de puesto durante dos años",
+      "No devengarán retribuciones ni les será computable el tiempo a efectos de ascensos, trienios y Seguridad Social"
+    ],
+    "correct": 2,
+    "exp": "El art. 89.3 dispone que no devengarán retribuciones, ni les será computable el tiempo que permanezcan en tal situación a efectos de ascensos, trienios y Seguridad Social.",
+    "fuente": "Art. 89.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La excedencia por cuidado de familiares para atender a un familiar a su cargo hasta el segundo grado de consanguinidad o afinidad exige, conforme al artículo 89.4 del TREBEP, que dicho familiar:",
+    "options": [
+      "No pueda valerse por sí mismo por razones de edad, accidente, enfermedad o discapacidad y no desempeñe actividad retribuida",
+      "Resida en el mismo domicilio que el funcionario",
+      "Tenga reconocida una discapacidad igual o superior al 65 por ciento"
+    ],
+    "correct": 0,
+    "exp": "El art. 89.4 exige que el familiar, por razones de edad, accidente, enfermedad o discapacidad, no pueda valerse por sí mismo y no desempeñe actividad retribuida.",
+    "fuente": "Art. 89.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 89.4 del TREBEP, el periodo de excedencia por cuidado de familiares será:",
+    "options": [
+      "Acumulable indefinidamente por cada nuevo sujeto causante",
+      "Único por cada sujeto causante, de modo que un nuevo sujeto causante pone fin al que se viniera disfrutando",
+      "Prorrogable automáticamente hasta la jubilación del funcionario"
+    ],
+    "correct": 1,
+    "exp": "El art. 89.4 establece que el período de excedencia será único por cada sujeto causante, y que un nuevo sujeto causante pone fin al que se viniera disfrutando.",
+    "fuente": "Art. 89.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Si dos funcionarios generasen el derecho a disfrutar de la excedencia por cuidado de familiares por el mismo sujeto causante, el artículo 89.4 del TREBEP permite a la Administración:",
+    "options": [
+      "Denegarla automáticamente a ambos",
+      "Obligar a que la disfrute solo el funcionario de mayor antigüedad",
+      "Limitar su ejercicio simultáneo por razones justificadas relacionadas con el funcionamiento de los servicios"
+    ],
+    "correct": 2,
+    "exp": "El art. 89.4 permite a la Administración limitar el ejercicio simultáneo de esta excedencia por razones justificadas relacionadas con el funcionamiento de los servicios.",
+    "fuente": "Art. 89.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El tiempo de permanencia en la excedencia por cuidado de familiares, conforme al artículo 89.4 del TREBEP, será computable a efectos de:",
+    "options": [
+      "Trienios, carrera y derechos en el régimen de Seguridad Social aplicable",
+      "Únicamente a efectos de antigüedad, no de Seguridad Social",
+      "Ningún efecto, salvo el reingreso"
+    ],
+    "correct": 0,
+    "exp": "El art. 89.4 señala que el tiempo de permanencia será computable a efectos de trienios, carrera y derechos en el régimen de Seguridad Social que sea de aplicación.",
+    "fuente": "Art. 89.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En la excedencia por cuidado de familiares, el puesto de trabajo desempeñado se reservará, conforme al artículo 89.4 del TREBEP:",
+    "options": [
+      "Durante todo el periodo de excedencia, sin límite",
+      "Al menos durante dos años, y transcurrido este periodo la reserva será a un puesto en la misma localidad y de igual retribución",
+      "Solo durante los primeros seis meses"
+    ],
+    "correct": 1,
+    "exp": "El art. 89.4 establece que el puesto se reservará al menos durante dos años, y transcurrido este periodo la reserva será a un puesto en la misma localidad y de igual retribución.",
+    "fuente": "Art. 89.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Los funcionarios en situación de excedencia por cuidado de familiares, conforme al artículo 89.4 del TREBEP:",
+    "options": [
+      "Tienen prohibido participar en cursos de formación convocados por la Administración",
+      "Solo podrán formarse por cuenta propia y sin relación con la Administración",
+      "Podrán participar en los cursos de formación que convoque la Administración"
+    ],
+    "correct": 2,
+    "exp": "El art. 89.4 reconoce a estos funcionarios el derecho a participar en los cursos de formación que convoque la Administración.",
+    "fuente": "Art. 89.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Las funcionarias víctimas de violencia de género o de violencia sexual tendrán derecho a solicitar la excedencia, conforme al artículo 89.5 del TREBEP:",
+    "options": [
+      "Sin tener que haber prestado un tiempo mínimo de servicios previos y sin que sea exigible plazo de permanencia",
+      "Solo tras haber prestado cinco años de servicios efectivos",
+      "Con un plazo mínimo de permanencia de un año"
+    ],
+    "correct": 0,
+    "exp": "El art. 89.5 reconoce este derecho sin tener que haber prestado un tiempo mínimo de servicios previos y sin que sea exigible plazo de permanencia en la excedencia.",
+    "fuente": "Art. 89.5 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Durante los seis primeros meses de la excedencia por razón de violencia de género o sexual, dicho periodo será computable, conforme al artículo 89.5 del TREBEP, a efectos de:",
+    "options": [
+      "Solo a efectos de antigüedad",
+      "Antigüedad, carrera y derechos del régimen de Seguridad Social aplicable",
+      "No será computable a ningún efecto"
+    ],
+    "correct": 1,
+    "exp": "El art. 89.5 dispone que dicho período de reserva será computable a efectos de antigüedad, carrera y derechos del régimen de Seguridad Social que sea de aplicación.",
+    "fuente": "Art. 89.5 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cuando las actuaciones judiciales lo exigieran, el periodo de reserva de puesto en la excedencia por violencia de género o sexual podrá prorrogarse, conforme al artículo 89.5 del TREBEP:",
+    "options": [
+      "Por seis meses, sin límite máximo",
+      "Por un año adicional improrrogable",
+      "Por tres meses, con un máximo de dieciocho meses"
+    ],
+    "correct": 2,
+    "exp": "El art. 89.5 permite prorrogar el periodo por tres meses, con un máximo de dieciocho meses, cuando las actuaciones judiciales lo exijan.",
+    "fuente": "Art. 89.5 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Durante los dos primeros meses de la excedencia por razón de violencia de género o sexual, la funcionaria tendrá derecho, conforme al artículo 89.5 del TREBEP, a percibir:",
+    "options": [
+      "Las retribuciones íntegras y, en su caso, las prestaciones familiares por hijo a cargo",
+      "El 50 por ciento de sus retribuciones",
+      "Únicamente las retribuciones básicas, sin complementos"
+    ],
+    "correct": 0,
+    "exp": "El art. 89.5 reconoce el derecho a percibir las retribuciones íntegras y, en su caso, las prestaciones familiares por hijo a cargo durante los dos primeros meses.",
+    "fuente": "Art. 89.5 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La finalidad de la excedencia por razón de violencia de género o de violencia sexual, conforme al artículo 89.5 del TREBEP, es hacer efectiva:",
+    "options": [
+      "La reducción de jornada laboral de la víctima",
+      "La protección de la víctima o su derecho a la asistencia social integral",
+      "La conciliación de la vida laboral y familiar en general"
+    ],
+    "correct": 1,
+    "exp": "El art. 89.5 señala que esta excedencia tiene por objeto hacer efectiva la protección de la víctima o su derecho a la asistencia social integral.",
+    "fuente": "Art. 89.5 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Tendrán derecho a la excedencia por razón de violencia terrorista, conforme al artículo 89.6 del TREBEP, los funcionarios que hayan sufrido daños físicos o psíquicos como consecuencia de la actividad terrorista, así como:",
+    "options": [
+      "Cualquier funcionario que resida en una zona de riesgo",
+      "Los familiares de segundo grado de una víctima del terrorismo",
+      "Los amenazados en los términos del artículo 5 de la Ley 29/2011, de 22 de septiembre"
+    ],
+    "correct": 2,
+    "exp": "El art. 89.6 extiende este derecho a los amenazados en los términos del artículo 5 de la Ley 29/2011, de Reconocimiento y Protección Integral a las Víctimas del Terrorismo.",
+    "fuente": "Art. 89.6 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El derecho a la excedencia por razón de violencia terrorista, conforme al artículo 89.6 del TREBEP, requiere el previo reconocimiento de:",
+    "options": [
+      "El Ministerio del Interior o sentencia judicial firme",
+      "El Ministerio de Justicia únicamente",
+      "El Defensor del Pueblo"
+    ],
+    "correct": 0,
+    "exp": "El art. 89.6 exige el previo reconocimiento del Ministerio del Interior o de sentencia judicial firme.",
+    "fuente": "Art. 89.6 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Los funcionarios que accedan a la excedencia por razón de violencia terrorista disfrutarán de dicho periodo, conforme al artículo 89.6 del TREBEP:",
+    "options": [
+      "En condiciones distintas y menos favorables que las víctimas de violencia de género",
+      "En las mismas condiciones que las víctimas de violencia de género o de violencia sexual",
+      "Solo durante un máximo de tres meses"
+    ],
+    "correct": 1,
+    "exp": "El art. 89.6 reconoce el derecho a disfrutar de la excedencia en las mismas condiciones que las víctimas de violencia de género o de violencia sexual.",
+    "fuente": "Art. 89.6 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La excedencia por razón de violencia terrorista será autorizada y mantenida en el tiempo, conforme al artículo 89.6 del TREBEP:",
+    "options": [
+      "Durante un plazo fijo de dieciocho meses en todo caso",
+      "Únicamente hasta que se dicte sentencia firme en el procedimiento penal",
+      "En tanto resulte necesaria para la protección y asistencia social integral de la persona, por las secuelas o la amenaza, en los términos previstos reglamentariamente"
+    ],
+    "correct": 2,
+    "exp": "El art. 89.6 dispone que la excedencia será autorizada y mantenida en tanto resulte necesaria para la protección y asistencia social integral de la persona, ya sea por las secuelas de la acción terrorista, ya sea por la amenaza, en los términos reglamentarios.",
+    "fuente": "Art. 89.6 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 90.1 del TREBEP, el funcionario declarado en situación de suspensión quedará privado durante el tiempo de permanencia en la misma de:",
+    "options": [
+      "El ejercicio de sus funciones y de todos los derechos inherentes a su condición",
+      "Solo del ejercicio de sus funciones, conservando el resto de derechos",
+      "Únicamente de las retribuciones complementarias"
+    ],
+    "correct": 0,
+    "exp": "El art. 90.1 establece que el funcionario suspendido queda privado del ejercicio de sus funciones y de todos los derechos inherentes a la condición durante el tiempo de permanencia en la situación.",
+    "fuente": "Art. 90.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La suspensión firme, conforme al artículo 90.2 del TREBEP, se impondrá en virtud de:",
+    "options": [
+      "Resolución administrativa de cese en el puesto",
+      "Sentencia dictada en causa criminal o de sanción disciplinaria",
+      "Decisión unilateral del superior jerárquico"
+    ],
+    "correct": 1,
+    "exp": "El art. 90.2 dispone que la suspensión firme se impondrá en virtud de sentencia dictada en causa criminal o en virtud de sanción disciplinaria.",
+    "fuente": "Art. 90.2 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El funcionario declarado en situación de suspensión de funciones, conforme al artículo 90.3 del TREBEP, no podrá:",
+    "options": [
+      "Residir fuera del municipio donde prestaba servicios",
+      "Ejercer cualquier profesión, incluidas las del sector privado",
+      "Prestar servicios en ninguna Administración Pública ni en los organismos, agencias o entidades de derecho público dependientes o vinculadas a ellas durante el cumplimiento de la pena o sanción"
+    ],
+    "correct": 2,
+    "exp": "El art. 90.3 prohíbe prestar servicios en ninguna Administración Pública ni en los organismos, agencias o entidades de derecho público dependientes o vinculadas a ellas durante el tiempo de cumplimiento de la pena o sanción.",
+    "fuente": "Art. 90.3 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 90.4 del TREBEP permite acordar la suspensión de funciones con carácter provisional:",
+    "options": [
+      "Con ocasión de la tramitación de un procedimiento judicial o expediente disciplinario, en los términos establecidos en el Estatuto",
+      "Solo tras sentencia firme condenatoria",
+      "Exclusivamente por decisión del Ministerio Fiscal"
+    ],
+    "correct": 0,
+    "exp": "El art. 90.4 permite acordar la suspensión provisional con ocasión de la tramitación de un procedimiento judicial o expediente disciplinario, en los términos establecidos en el Estatuto.",
+    "fuente": "Art. 90.4 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 93.1 TREBEP, ¿a qué régimen quedan sujetos los funcionarios públicos y el personal laboral en materia disciplinaria?",
+    "options": [
+      "Al régimen disciplinario establecido en el título correspondiente del TREBEP y en las normas que las leyes de Función Pública dicten en su desarrollo",
+      "Únicamente al régimen disciplinario que establezca el convenio colectivo aplicable",
+      "Al régimen disciplinario previsto en el Código Penal en todo caso"
+    ],
+    "correct": 0,
+    "exp": "El art. 93.1 TREBEP establece que funcionarios públicos y personal laboral quedan sujetos al régimen disciplinario establecido en el presente título y en las normas que las leyes de Función Pública dicten en desarrollo de este Estatuto.",
+    "fuente": "Art. 93.1 TREBEP (RDLeg 5/2015)",
+    "confianza": "alta"
+  }
+]
