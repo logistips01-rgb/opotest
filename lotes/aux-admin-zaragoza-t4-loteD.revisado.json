@@ -1,0 +1,606 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 4,
+  "preguntas": [
+    {
+      "q": "Según el art. 11.1 LPAC, para realizar cualquier actuación prevista en el procedimiento administrativo, con carácter general, ¿qué es suficiente que los interesados acrediten previamente?",
+      "options": [
+        "Su identidad a través de cualquiera de los medios de identificación previstos en la Ley",
+        "Su domicilio fiscal a través de certificado catastral",
+        "Su firma electrónica cualificada en todo caso",
+        "Su representación mediante poder notarial"
+      ],
+      "correct": 0,
+      "exp": "El art. 11.1 LPAC establece que, con carácter general, para realizar cualquier actuación prevista en el procedimiento será suficiente con que los interesados acrediten previamente su identidad a través de cualquiera de los medios de identificación previstos en la Ley.",
+      "fuente": "Art. 11.1 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 11.1 LPAC releído en el cuerpo del consolidado ('será suficiente con que los interesados acrediten previamente su identidad a través de cualquiera de los medios de identificación previstos en esta Ley'): la opción marcada reproduce la regla; sin duplicados entre opciones."
+    },
+    {
+      "q": "Conforme al art. 11.1 LPAC, ¿mediante qué medios pueden los interesados acreditar su identidad para actuar, con carácter general, en el procedimiento administrativo?",
+      "options": [
+        "Únicamente mediante certificado electrónico cualificado de firma",
+        "Cualquiera de los medios de identificación previstos en la propia Ley",
+        "Únicamente mediante el sistema Cl@ve",
+        "Únicamente mediante comparecencia personal con el DNI original"
+      ],
+      "correct": 1,
+      "exp": "El art. 11.1 LPAC remite a 'cualquiera de los medios de identificación previstos en esta Ley', sin exigir un único sistema.",
+      "fuente": "Art. 11.1 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 11.1 LPAC releído: el precepto remite a 'cualquiera de los medios de identificación previstos en esta Ley' sin exigir sistema único; opción 1 es la correcta y las otras tres (Cl@ve, certificado cualificado, comparecencia con DNI) son restricciones falsas."
+    },
+    {
+      "q": "Según el art. 11.1 LPAC, ¿en qué momento deben los interesados acreditar su identidad para realizar una actuación en el procedimiento?",
+      "options": [
+        "En el momento de dictarse la resolución",
+        "Únicamente al interponer un recurso",
+        "Previamente a realizar la actuación",
+        "Con posterioridad, en el trámite de audiencia"
+      ],
+      "correct": 2,
+      "exp": "El art. 11.1 LPAC exige que los interesados acrediten 'previamente' su identidad.",
+      "fuente": "Art. 11.1 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 11.1 LPAC releído: exige acreditar la identidad 'previamente'; la opción 'Previamente a realizar la actuación' es la correcta frente a los otros momentos falsos."
+    },
+    {
+      "q": "El art. 11.1 LPAC extiende la regla general de bastar con la identificación a:",
+      "options": [
+        "Solo a la presentación de solicitudes",
+        "Solo a los procedimientos sancionadores",
+        "Solo a los procedimientos iniciados de oficio",
+        "Cualquier actuación prevista en el procedimiento administrativo"
+      ],
+      "correct": 3,
+      "exp": "El art. 11.1 LPAC habla de 'cualquier actuación prevista en el procedimiento administrativo', sin restringirla a un tipo concreto de trámite.",
+      "fuente": "Art. 11.1 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 11.1 LPAC releído: habla de 'cualquier actuación prevista en el procedimiento administrativo', sin restringirla a solicitudes, sancionadores o iniciados de oficio; opción 3 correcta."
+    },
+    {
+      "q": "¿Qué carácter tiene, según el art. 11.1 LPAC, la regla de que basta con acreditar la identidad para actuar en el procedimiento?",
+      "options": [
+        "Carácter general",
+        "Carácter supletorio, solo si no hay norma especial",
+        "Carácter transitorio hasta 2020",
+        "Carácter excepcional, solo para personas físicas"
+      ],
+      "correct": 0,
+      "exp": "El precepto se abre con la expresión 'con carácter general', frente a las excepciones tasadas del apartado 2 en que se exige firma.",
+      "fuente": "Art. 11.1 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 11.1 LPAC releído: se abre con 'Con carácter general'; opción 0 correcta frente a los caracteres inventados (supletorio/transitorio/excepcional)."
+    },
+    {
+      "q": "¿Cuántos supuestos tasados enumera el art. 11.2 LPAC en los que las Administraciones Públicas exigirán el uso obligatorio de firma?",
+      "options": [
+        "Tres",
+        "Cinco",
+        "Cuatro",
+        "Seis"
+      ],
+      "correct": 1,
+      "exp": "El art. 11.2 LPAC enumera cinco letras (a a e): formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos.",
+      "fuente": "Art. 11.2 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 11.2 LPAC releído: enumera letras a) a e), cinco supuestos tasados (formular solicitudes, presentar declaraciones/comunicaciones, interponer recursos, desistir de acciones, renunciar a derechos); 'Cinco' es correcto."
+    },
+    {
+      "q": "Según el art. 11.2.a) LPAC, las Administraciones Públicas exigirán el uso obligatorio de firma para:",
+      "options": [
+        "Consultar el estado de un expediente",
+        "Solicitar una copia de un documento",
+        "Formular solicitudes",
+        "Comparecer en una oficina de asistencia en materia de registros"
+      ],
+      "correct": 2,
+      "exp": "El art. 11.2.a) LPAC exige firma para 'formular solicitudes'.",
+      "fuente": "Art. 11.2.a) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 11.2.a) LPAC releído: 'Formular solicitudes'; opción 2 correcta, resto son trámites no exigidos con firma según este apartado."
+    },
+    {
+      "q": "El art. 11.2.b) LPAC exige el uso obligatorio de firma para:",
+      "options": [
+        "Recibir una notificación electrónica",
+        "Consultar el registro electrónico general",
+        "Solicitar el estado de tramitación",
+        "Presentar declaraciones responsables o comunicaciones"
+      ],
+      "correct": 3,
+      "exp": "El art. 11.2.b) LPAC exige firma para 'presentar declaraciones responsables o comunicaciones'.",
+      "fuente": "Art. 11.2.b) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 11.2.b) LPAC releído: 'Presentar declaraciones responsables o comunicaciones'; opción 3 correcta."
+    },
+    {
+      "q": "Conforme al art. 11.2.c) LPAC, se exige el uso obligatorio de firma para:",
+      "options": [
+        "Interponer recursos",
+        "Aportar documentos al expediente",
+        "Solicitar información pública",
+        "Formular alegaciones en el trámite de audiencia"
+      ],
+      "correct": 0,
+      "exp": "El art. 11.2.c) LPAC exige firma para 'interponer recursos'.",
+      "fuente": "Art. 11.2.c) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 11.2.c) LPAC releído: 'Interponer recursos'; opción 0 correcta."
+    },
+    {
+      "q": "Según el art. 11.2.d) LPAC, las Administraciones Públicas exigirán firma para:",
+      "options": [
+        "Personarse en el procedimiento",
+        "Desistir de acciones",
+        "Aportar pruebas",
+        "Solicitar el impulso de oficio"
+      ],
+      "correct": 1,
+      "exp": "El art. 11.2.d) LPAC exige firma para 'desistir de acciones'.",
+      "fuente": "Art. 11.2.d) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 11.2.d) LPAC releído: 'Desistir de acciones'; opción 1 correcta."
+    },
+    {
+      "q": "El art. 11.2.e) LPAC exige el uso obligatorio de firma para:",
+      "options": [
+        "Ser notificado electrónicamente",
+        "Consultar el expediente electrónico",
+        "Renunciar a derechos",
+        "Solicitar el acceso a archivos"
+      ],
+      "correct": 2,
+      "exp": "El art. 11.2.e) LPAC exige firma para 'renunciar a derechos'.",
+      "fuente": "Art. 11.2.e) LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 11.2.e) LPAC releído: 'Renunciar a derechos'; opción 2 correcta."
+    },
+    {
+      "q": "¿Cuál de las siguientes actuaciones NO se encuentra entre los supuestos tasados del art. 11.2 LPAC en los que se exige el uso obligatorio de firma?",
+      "options": [
+        "Interponer recursos",
+        "Renunciar a derechos",
+        "Formular solicitudes",
+        "Consultar el estado de tramitación de un expediente"
+      ],
+      "correct": 3,
+      "exp": "Las letras a) a e) del art. 11.2 LPAC solo citan formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos; consultar el estado de tramitación no figura entre ellas.",
+      "fuente": "Art. 11.2 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 11.2 LPAC releído íntegro (a-e): 'consultar el estado de tramitación de un expediente' no figura en ninguna de las cinco letras, por lo que es la opción que NO exige firma; opción 3 correcta."
+    },
+    {
+      "q": "Según el art. 11.2 LPAC, ¿quién decide en qué supuestos se exige el uso obligatorio de firma a los interesados?",
+      "options": [
+        "Las Administraciones Públicas, conforme a los supuestos tasados en la Ley",
+        "El propio interesado, libremente",
+        "El Consejo de Ministros, mediante real decreto",
+        "Cada funcionario, según su criterio"
+      ],
+      "correct": 0,
+      "exp": "El art. 11.2 LPAC dice: 'Las Administraciones Públicas sólo requerirán a los interesados el uso obligatorio de firma para:' los cinco supuestos que enumera.",
+      "fuente": "Art. 11.2 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 11.2 LPAC releído: el sujeto que exige la firma en los supuestos tasados por la Ley son 'las Administraciones Públicas'; opción 0 correcta frente a interesado/Consejo de Ministros/funcionario individual, que son falsos."
+    },
+    {
+      "q": "Según el art. 12.1 LPAC, ¿qué deben garantizar las Administraciones Públicas?",
+      "options": [
+        "Que todos los procedimientos se tramiten exclusivamente en papel",
+        "Que los interesados puedan relacionarse con la Administración a través de medios electrónicos",
+        "Que exista un funcionario habilitado en cada oficina",
+        "Que se reduzcan los plazos de resolución a la mitad"
+      ],
+      "correct": 1,
+      "exp": "El art. 12.1 LPAC impone a las Administraciones Públicas garantizar que los interesados pueden relacionarse con la Administración a través de medios electrónicos.",
+      "fuente": "Art. 12.1 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 12.1 LPAC releído: 'Las Administraciones Públicas deberán garantizar que los interesados pueden relacionarse con la Administración a través de medios electrónicos'; opción 1 correcta."
+    },
+    {
+      "q": "Para cumplir la garantía del art. 12.1 LPAC, ¿qué deben poner a disposición de los interesados las Administraciones Públicas?",
+      "options": [
+        "Un abogado de oficio en cada trámite",
+        "Una subvención para adquirir equipos informáticos",
+        "Los canales de acceso que sean necesarios",
+        "Un intérprete jurado"
+      ],
+      "correct": 2,
+      "exp": "El art. 12.1 LPAC exige poner a disposición de los interesados 'los canales de acceso que sean necesarios'.",
+      "fuente": "Art. 12.1 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 12.1 LPAC releído: 'pondrán a su disposición los canales de acceso que sean necesarios'; opción 2 correcta."
+    },
+    {
+      "q": "Además de los canales de acceso necesarios, el art. 12.1 LPAC exige poner a disposición de los interesados:",
+      "options": [
+        "Una línea de atención telefónica gratuita permanente",
+        "Formularios impresos en todas las oficinas",
+        "Un registro notarial específico",
+        "Los sistemas y aplicaciones que en cada caso se determinen"
+      ],
+      "correct": 3,
+      "exp": "El art. 12.1 LPAC añade 'así como los sistemas y aplicaciones que en cada caso se determinen'.",
+      "fuente": "Art. 12.1 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 12.1 LPAC releído: continúa 'así como los sistemas y aplicaciones que en cada caso se determinen'; opción 3 correcta."
+    },
+    {
+      "q": "El deber de garantizar la relación electrónica con los interesados que impone el art. 12.1 LPAC recae sobre:",
+      "options": [
+        "Las Administraciones Públicas",
+        "Únicamente la Administración General del Estado",
+        "Únicamente los Ayuntamientos de gran población",
+        "Los Colegios profesionales"
+      ],
+      "correct": 0,
+      "exp": "El art. 12.1 LPAC atribuye ese deber, sin distinción de nivel territorial, a 'las Administraciones Públicas'.",
+      "fuente": "Art. 12.1 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 12.1 LPAC releído: el deber recae sobre 'Las Administraciones Públicas' sin distinción de nivel territorial; opción 0 correcta."
+    },
+    {
+      "q": "Según el art. 12.2 LPAC, ¿a qué interesados asistirán las Administraciones Públicas en el uso de medios electrónicos?",
+      "options": [
+        "A todos los interesados, sin excepción, de oficio",
+        "A los no incluidos en los apartados 2 y 3 del art. 14 que así lo soliciten",
+        "Únicamente a las personas jurídicas",
+        "Únicamente a quienes ejerzan una profesión colegiada"
+      ],
+      "correct": 1,
+      "exp": "El art. 12.2 LPAC dice: 'Las Administraciones Públicas asistirán en el uso de medios electrónicos a los interesados no incluidos en los apartados 2 y 3 del artículo 14 que así lo soliciten'.",
+      "fuente": "Art. 12.2 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 12.2 LPAC releído: 'asistirán en el uso de medios electrónicos a los interesados no incluidos en los apartados 2 y 3 del artículo 14 que así lo soliciten'; opción 1 correcta, coincide literalmente."
+    },
+    {
+      "q": "La asistencia en el uso de medios electrónicos regulada en el art. 12.2 LPAC se presta:",
+      "options": [
+        "De oficio, sin que el interesado deba solicitarla",
+        "Solo tras resolución judicial",
+        "A quienes así lo soliciten",
+        "Únicamente durante el mes de enero de cada año"
+      ],
+      "correct": 2,
+      "exp": "El art. 12.2 LPAC condiciona la asistencia a que el interesado 'así lo solicite'.",
+      "fuente": "Art. 12.2 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 12.2 LPAC releído: la asistencia se condiciona a que el interesado 'así lo soliciten'; opción 2 correcta frente a 'de oficio' que es lo contrario de lo que dice la norma."
+    },
+    {
+      "q": "¿Cuáles son los ámbitos en los que, según el art. 12.2 LPAC, se presta especialmente la asistencia a los interesados?",
+      "options": [
+        "La redacción de recursos y la representación letrada",
+        "El pago de tasas y la domiciliación bancaria",
+        "La traducción de documentos a lenguas cooficiales",
+        "La identificación y firma electrónica, la presentación de solicitudes por el registro electrónico general y la obtención de copias auténticas"
+      ],
+      "correct": 3,
+      "exp": "El art. 12.2 LPAC cita expresamente 'la identificación y firma electrónica, presentación de solicitudes a través del registro electrónico general y obtención de copias auténticas'.",
+      "fuente": "Art. 12.2 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 12.2 LPAC releído: 'especialmente en lo referente a la identificación y firma electrónica, presentación de solicitudes a través del registro electrónico general y obtención de copias auténticas'; opción 3 correcta."
+    },
+    {
+      "q": "Si un interesado con derecho a asistencia no dispone de los medios electrónicos necesarios, según el art. 12.2 LPAC su identificación o firma electrónica:",
+      "options": [
+        "Podrá ser válidamente realizada por un funcionario público mediante su propio sistema de firma electrónica",
+        "No puede realizarse en ningún caso",
+        "Deberá aplazarse hasta que el interesado adquiera los medios",
+        "Corresponde obligatoriamente a un notario"
+      ],
+      "correct": 0,
+      "exp": "El art. 12.2 LPAC prevé que la identificación o firma 'podrá ser válidamente realizada por un funcionario público mediante el uso del sistema de firma electrónica del que esté dotado para ello'.",
+      "fuente": "Art. 12.2 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 12.2 LPAC releído, párrafo segundo: 'su identificación o firma electrónica...podrá ser válidamente realizada por un funcionario público mediante el uso del sistema de firma electrónica del que esté dotado para ello'; opción 0 ('mediante su propio sistema de firma electrónica') es paráfrasis fiel del funcionario actuando con su propio sistema."
+    },
+    {
+      "q": "Según el art. 12.2 LPAC, el funcionario público que identifica o firma en lugar del interesado debe hacerlo:",
+      "options": [
+        "Mediante la firma manuscrita del interesado escaneada",
+        "Mediante el uso del sistema de firma electrónica del que esté dotado para ello",
+        "Mediante un poder notarial otorgado por el interesado",
+        "Mediante el certificado electrónico personal del interesado"
+      ],
+      "correct": 1,
+      "exp": "El art. 12.2 LPAC exige que el funcionario actúe 'mediante el uso del sistema de firma electrónica del que esté dotado para ello'.",
+      "fuente": "Art. 12.2 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 12.2 LPAC releído: 'mediante el uso del sistema de firma electrónica del que esté dotado para ello'; opción 1 reproduce la frase literal."
+    },
+    {
+      "q": "Para que el funcionario público pueda identificar o firmar por el interesado conforme al art. 12.2 LPAC, es necesario, en primer lugar, que el interesado:",
+      "options": [
+        "Renuncie expresamente a sus derechos",
+        "Aporte un aval bancario",
+        "Se identifique ante el funcionario",
+        "Presente una declaración responsable de solvencia"
+      ],
+      "correct": 2,
+      "exp": "El art. 12.2 LPAC exige que 'el interesado que carezca de los medios electrónicos necesarios se identifique ante el funcionario'.",
+      "fuente": "Art. 12.2 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 12.2 LPAC releído: el orden de la norma exige primero que el interesado 'se identifique ante el funcionario' y después preste consentimiento; opción 2 (identificarse ante el funcionario, en primer lugar) es correcta."
+    },
+    {
+      "q": "Además de identificarse ante el funcionario, el art. 12.2 LPAC exige que el interesado:",
+      "options": [
+        "Abone una tasa administrativa",
+        "Aporte dos testigos",
+        "Ratifique la actuación ante notario en el plazo de un mes",
+        "Preste su consentimiento expreso para esta actuación"
+      ],
+      "correct": 3,
+      "exp": "El art. 12.2 LPAC exige que el interesado 'preste su consentimiento expreso para esta actuación'.",
+      "fuente": "Art. 12.2 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 12.2 LPAC releído: tras identificarse, exige que 'preste su consentimiento expreso para esta actuación'; opción 3 correcta."
+    },
+    {
+      "q": "Según el art. 12.2 LPAC, de la identificación del interesado y de su consentimiento expreso ante el funcionario deberá quedar constancia:",
+      "options": [
+        "Para los casos de discrepancia o litigio",
+        "Únicamente si el interesado es una persona jurídica",
+        "Solo si lo solicita expresamente la Administración General del Estado",
+        "Durante un plazo máximo de 24 horas, tras el cual se destruye"
+      ],
+      "correct": 0,
+      "exp": "El art. 12.2 LPAC exige que quede constancia de la identificación y el consentimiento 'para los casos de discrepancia o litigio'.",
+      "fuente": "Art. 12.2 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 12.2 LPAC releído: 'deberá quedar constancia para los casos de discrepancia o litigio'; opción 0 correcta."
+    },
+    {
+      "q": "¿Puede un funcionario público identificar o firmar por un interesado sin su consentimiento expreso, conforme al art. 12.2 LPAC?",
+      "options": [
+        "Sí, siempre que el interesado carezca de medios electrónicos",
+        "No, es necesario que el interesado preste su consentimiento expreso",
+        "Sí, si lo autoriza verbalmente un compañero del funcionario",
+        "Sí, automáticamente en todos los procedimientos sancionadores"
+      ],
+      "correct": 1,
+      "exp": "El art. 12.2 LPAC condiciona esa actuación a que el interesado 'preste su consentimiento expreso para esta actuación'.",
+      "fuente": "Art. 12.2 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 12.2 LPAC releído: el consentimiento expreso es requisito imperativo ('será necesario que...preste su consentimiento expreso'); opción 1 (No, es necesario el consentimiento expreso) correcta."
+    },
+    {
+      "q": "La asistencia del art. 12.2 LPAC se dirige a los interesados no incluidos en los apartados 2 y 3 del artículo 14, lo que excluye, entre otros, a:",
+      "options": [
+        "Las personas físicas que opten voluntariamente por relacionarse electrónicamente",
+        "Los menores de edad",
+        "Las personas jurídicas, obligadas a relacionarse electrónicamente",
+        "Los interesados que residan fuera de España"
+      ],
+      "correct": 2,
+      "exp": "El art. 12.2 LPAC remite al art. 14.2 y 14.3, que incluyen entre los obligados a relacionarse electrónicamente a las personas jurídicas; estos quedan, por tanto, fuera del ámbito de esta asistencia.",
+      "fuente": "Art. 12.2 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 12.2 LPAC releído junto con art. 14.2 LPAC (personas jurídicas obligadas a relacionarse electrónicamente, letra a): al estar incluidas en el apartado 2 del art. 14, quedan fuera del colectivo asistido por el art. 12.2 ('no incluidos en los apartados 2 y 3 del art. 14'); opción 2 correcta."
+    },
+    {
+      "q": "Según el art. 12.2 LPAC, la asistencia a los interesados en el uso de medios electrónicos se refiere especialmente a la identificación y firma electrónica, y también a:",
+      "options": [
+        "La emisión de certificados médicos oficiales",
+        "La representación procesal ante los tribunales",
+        "La expedición de licencias de obra",
+        "La obtención de copias auténticas y la presentación de solicitudes por el registro electrónico general"
+      ],
+      "correct": 3,
+      "exp": "El art. 12.2 LPAC menciona expresamente, además de la identificación y firma electrónica, 'presentación de solicitudes a través del registro electrónico general y obtención de copias auténticas'.",
+      "fuente": "Art. 12.2 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 12.2 LPAC releído: además de identificación y firma electrónica, cita 'obtención de copias auténticas y presentación de solicitudes a través del registro electrónico general'; opción 3 correcta."
+    },
+    {
+      "q": "Entre los trámites en que, conforme al art. 12.2 LPAC, se presta asistencia a los interesados, se menciona expresamente:",
+      "options": [
+        "La obtención de copias auténticas",
+        "La liquidación de impuestos municipales",
+        "La inscripción en el padrón municipal",
+        "La expedición de pasaportes"
+      ],
+      "correct": 0,
+      "exp": "El art. 12.2 LPAC cita literalmente la 'obtención de copias auténticas' como uno de los ámbitos de asistencia.",
+      "fuente": "Art. 12.2 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 12.2 LPAC releído: cita literalmente 'obtención de copias auténticas' como ámbito de asistencia; opción 0 correcta."
+    },
+    {
+      "q": "Según el art. 12.3 LPAC, ¿qué Administraciones deben mantener actualizado el registro de funcionarios habilitados para la identificación o firma?",
+      "options": [
+        "Únicamente la Administración General del Estado",
+        "La Administración General del Estado, las Comunidades Autónomas y las Entidades Locales",
+        "Únicamente las Comunidades Autónomas",
+        "Únicamente los Ayuntamientos de más de 20.000 habitantes"
+      ],
+      "correct": 1,
+      "exp": "El art. 12.3 LPAC atribuye esa obligación a 'la Administración General del Estado, las Comunidades Autónomas y las Entidades Locales'.",
+      "fuente": "Art. 12.3 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 12.3 LPAC releído: 'La Administración General del Estado, las Comunidades Autónomas y las Entidades Locales mantendrán actualizado un registro...'; opción 1 correcta, coincide literalmente."
+    },
+    {
+      "q": "El registro previsto en el art. 12.3 LPAC debe contener, al menos, a los funcionarios habilitados para:",
+      "options": [
+        "La expedición de certificados de empadronamiento",
+        "La firma de convenios urbanísticos",
+        "La identificación o firma regulada en el art. 12 LPAC",
+        "La representación en juicio de la Administración"
+      ],
+      "correct": 2,
+      "exp": "El art. 12.3 LPAC exige constancia de 'los funcionarios habilitados para la identificación o firma regulada en este artículo'.",
+      "fuente": "Art. 12.3 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 12.3 LPAC releído: '...donde constarán los funcionarios habilitados para la identificación o firma regulada en este artículo'; opción 2 correcta."
+    },
+    {
+      "q": "Conforme al art. 12.3 LPAC, el instrumento en el que deben constar los funcionarios habilitados puede consistir en:",
+      "options": [
+        "Únicamente en un libro de actas físico",
+        "Una publicación anual en el Boletín Oficial",
+        "Un censo elaborado por el Ministerio de Justicia",
+        "Un registro, u otro sistema equivalente"
+      ],
+      "correct": 3,
+      "exp": "El art. 12.3 LPAC habla de mantener actualizado 'un registro, u otro sistema equivalente'.",
+      "fuente": "Art. 12.3 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 12.3 LPAC releído: 'un registro, u otro sistema equivalente'; opción 3 correcta."
+    },
+    {
+      "q": "Según el art. 12.3 LPAC, los registros de funcionarios habilitados de las distintas Administraciones deberán ser:",
+      "options": [
+        "Plenamente interoperables y estar interconectados con los de las restantes Administraciones Públicas",
+        "Confidenciales y no accesibles entre Administraciones",
+        "Revisados judicialmente cada cinco años",
+        "Elaborados exclusivamente en soporte papel"
+      ],
+      "correct": 0,
+      "exp": "El art. 12.3 LPAC exige que estos registros o sistemas 'deberán ser plenamente interoperables y estar interconectados con los de las restantes Administraciones Públicas'.",
+      "fuente": "Art. 12.3 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 12.3 LPAC releído: 'Estos registros o sistemas deberán ser plenamente interoperables y estar interconectados con los de las restantes Administraciones Públicas'; opción 0 correcta, cita literal."
+    },
+    {
+      "q": "La finalidad de que los registros del art. 12.3 LPAC sean interoperables e interconectados es:",
+      "options": [
+        "Facilitar la recaudación de tributos locales",
+        "Comprobar la validez de las citadas habilitaciones",
+        "Elaborar estadísticas de empleo público",
+        "Unificar los sistemas retributivos del personal funcionario"
+      ],
+      "correct": 1,
+      "exp": "El art. 12.3 LPAC señala que la interoperabilidad e interconexión se establece 'a los efectos de comprobar la validez de las citadas habilitaciones'.",
+      "fuente": "Art. 12.3 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 12.3 LPAC releído: la interoperabilidad se exige 'a los efectos de comprobar la validez de las citadas habilitaciones'; opción 1 correcta."
+    },
+    {
+      "q": "Según el art. 12.3 LPAC, ¿quiénes deben constar, al menos, en el registro de funcionarios habilitados?",
+      "options": [
+        "Todos los funcionarios de la plantilla, sin excepción",
+        "Solo el titular de la Secretaría General",
+        "Los funcionarios que presten servicios en las oficinas de asistencia en materia de registros",
+        "Los funcionarios interinos exclusivamente"
+      ],
+      "correct": 2,
+      "exp": "El art. 12.3 LPAC precisa que, al menos, 'constarán los funcionarios que presten servicios en las oficinas de asistencia en materia de registros'.",
+      "fuente": "Art. 12.3 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 12.3 LPAC releído, párrafo final: 'al menos, constarán los funcionarios que presten servicios en las oficinas de asistencia en materia de registros'; opción 2 correcta."
+    },
+    {
+      "q": "Según el art. 12.2 LPAC, ¿es válida la identificación realizada por un funcionario público en nombre de un interesado sin medios electrónicos si este no ha prestado su consentimiento expreso?",
+      "options": [
+        "Sí, basta con que el funcionario lo considere oportuno",
+        "Sí, siempre que se notifique después al interesado",
+        "Sí, si el interesado es una persona jurídica",
+        "No, la Ley exige que el interesado preste su consentimiento expreso para esa actuación"
+      ],
+      "correct": 3,
+      "exp": "El art. 12.2 LPAC condiciona expresamente esa actuación del funcionario a que el interesado 'preste su consentimiento expreso'.",
+      "fuente": "Art. 12.2 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 12.2 LPAC releído: reitera que la falta de consentimiento expreso impide la validez de la identificación/firma por sustitución; opción 3 (No, se exige consentimiento expreso) correcta."
+    },
+    {
+      "q": "Si el interesado no se identifica ante el funcionario público conforme exige el art. 12.2 LPAC, la actuación de identificación o firma por sustitución:",
+      "options": [
+        "No puede realizarse válidamente, pues ese requisito es necesario",
+        "Puede realizarse igualmente, sin ese requisito",
+        "Debe realizarla directamente el superior jerárquico del funcionario",
+        "Se presume tácitamente cumplida"
+      ],
+      "correct": 0,
+      "exp": "El art. 12.2 LPAC dice que 'será necesario que el interesado... se identifique ante el funcionario', configurando ese paso como requisito de validez.",
+      "fuente": "Art. 12.2 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 12.2 LPAC releído: identificarse ante el funcionario es requisito legal expreso ('será necesario que...se identifique ante el funcionario'); sin él, la actuación no puede realizarse válidamente; opción 0 correcta."
+    },
+    {
+      "q": "¿En qué apartado del art. 12 LPAC se regula el registro de funcionarios habilitados para la identificación o firma?",
+      "options": [
+        "Apartado 1",
+        "Apartado 3",
+        "Apartado 2",
+        "Apartado 4"
+      ],
+      "correct": 1,
+      "exp": "El registro de funcionarios habilitados se regula en el apartado 3 del art. 12 LPAC, tras la garantía general de relación electrónica (apartado 1) y la asistencia (apartado 2).",
+      "fuente": "Art. 12.3 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 12 LPAC releído íntegro: el registro de funcionarios habilitados se regula en el apartado 3 (tras la garantía general del apartado 1 y la asistencia del apartado 2); opción 1 ('Apartado 3') correcta."
+    },
+    {
+      "q": "¿Cuál es el título del art. 11 LPAC?",
+      "options": [
+        "Sistemas de identificación de los interesados en el procedimiento",
+        "Asistencia en el uso de medios electrónicos a los interesados",
+        "Uso de medios de identificación y firma en el procedimiento administrativo",
+        "Sistemas de firma admitidos por las Administraciones Públicas"
+      ],
+      "correct": 2,
+      "exp": "El art. 11 LPAC se titula 'Uso de medios de identificación y firma en el procedimiento administrativo'.",
+      "fuente": "Art. 11 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Título del art. 11 LPAC releído en el consolidado: 'Artículo 11. Uso de medios de identificación y firma en el procedimiento administrativo.'; opción 2 correcta, no coincide con los títulos de otros artículos usados como distractores."
+    },
+    {
+      "q": "¿Cuál es el título del art. 12 LPAC?",
+      "options": [
+        "Registros",
+        "Derecho y obligación de relacionarse electrónicamente con las Administraciones Públicas",
+        "Uso de medios de identificación y firma en el procedimiento administrativo",
+        "Asistencia en el uso de medios electrónicos a los interesados"
+      ],
+      "correct": 3,
+      "exp": "El art. 12 LPAC se titula 'Asistencia en el uso de medios electrónicos a los interesados'.",
+      "fuente": "Art. 12 LPAC (Ley 39/2015)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Título del art. 12 LPAC releído en el consolidado: 'Artículo 12. Asistencia en el uso de medios electrónicos a los interesados.'; opción 3 correcta."
+    }
+  ]
+}
