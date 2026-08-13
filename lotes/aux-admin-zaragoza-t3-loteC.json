@@ -1,0 +1,326 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 3,
+  "preguntas": [
+    {
+      "q": "Según el Estatuto de Autonomía de Aragón, ¿quién nombra al Presidente de Aragón una vez elegido por las Cortes?",
+      "options": ["El Presidente del Gobierno de España", "El Presidente de las Cortes de Aragón", "El Consejo Consultivo de Aragón", "El Rey"],
+      "correct": 3,
+      "exp": "El Presidente de Aragón es elegido por las Cortes de Aragón, de entre sus Diputados y Diputadas, y nombrado por el Rey.",
+      "fuente": "Art. 46.1 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "Además de la suprema representación de Aragón, ¿qué otra representación ostenta el Presidente de Aragón en el territorio aragonés?",
+      "options": ["La ordinaria del Estado", "La representación del Tribunal Constitucional", "La representación del Justicia de Aragón", "La representación del Consejo de Justicia"],
+      "correct": 0,
+      "exp": "El Presidente ostenta la suprema representación de Aragón y la ordinaria del Estado en este territorio.",
+      "fuente": "Art. 46.2 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Ante qué órgano responde políticamente el Presidente de Aragón según el art. 46.3 EAA?",
+      "options": ["Ante el Gobierno de Aragón", "Ante las Cortes de Aragón", "Ante el Justicia de Aragón", "Ante el Tribunal Superior de Justicia de Aragón"],
+      "correct": 1,
+      "exp": "El artículo establece que el Presidente responde políticamente ante las Cortes de Aragón.",
+      "fuente": "Art. 46.3 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el Estatuto de personal del Presidente de Aragón, ¿qué actividad tiene expresamente prohibida?",
+      "options": ["El mandato parlamentario", "La presidencia del Gobierno de Aragón", "Actividad profesional o mercantil alguna", "La representación de Aragón"],
+      "correct": 2,
+      "exp": "El Presidente de Aragón no podrá ejercer otras funciones representativas que las propias del mandato parlamentario, ni cualquier otra función pública que no derive de su cargo, ni actividad profesional o mercantil alguna.",
+      "fuente": "Art. 47 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "En el procedimiento de investidura del Presidente del Gobierno de Aragón, ¿quién propone el candidato a las Cortes?",
+      "options": ["El Justicia de Aragón", "El Gobierno en funciones", "El Consejo Consultivo de Aragón", "El Presidente de las Cortes de Aragón"],
+      "correct": 3,
+      "exp": "El Presidente de las Cortes de Aragón, previa consulta con las fuerzas políticas representadas parlamentariamente y oída la Mesa, propondrá un candidato a Presidente del Gobierno de Aragón.",
+      "fuente": "Art. 48.1 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué mayoría necesita obtener el candidato a Presidente en la primera votación de investidura?",
+      "options": ["Mayoría absoluta", "Mayoría de dos tercios", "Mayoría simple", "Unanimidad"],
+      "correct": 0,
+      "exp": "Para ser elegido, el candidato deberá, en primera votación, obtener mayoría absoluta.",
+      "fuente": "Art. 48.2 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "Si el candidato no obtiene mayoría absoluta en la primera votación de investidura, ¿cuándo se repite la votación y con qué mayoría basta?",
+      "options": ["A las 48 horas, con mayoría absoluta", "A las 24 horas, con mayoría simple", "A los 10 días, con mayoría simple", "A las 24 horas, con mayoría absoluta"],
+      "correct": 1,
+      "exp": "De no obtenerse la mayoría absoluta, se procederá a una nueva votación veinticuatro horas después de la anterior, y la confianza se entenderá otorgada si obtuviera mayoría simple.",
+      "fuente": "Art. 48.2 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "Si transcurridos dos meses desde la constitución de las Cortes de Aragón ningún candidato ha sido investido Presidente, ¿qué ocurre?",
+      "options": ["Se prorroga el plazo otros dos meses", "El Gobierno en funciones continúa indefinidamente", "Las Cortes electas quedan disueltas y se convocan nuevas elecciones", "El Rey nombra directamente al Presidente"],
+      "correct": 2,
+      "exp": "Si transcurrido el plazo de dos meses a partir de la constitución de las Cortes de Aragón ningún candidato hubiere sido investido, las Cortes electas quedarán disueltas, procediéndose a la convocatoria de nuevas elecciones.",
+      "fuente": "Art. 48.3 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Ante qué órgano puede el Presidente del Gobierno de Aragón plantear la cuestión de confianza sobre su programa?",
+      "options": ["Ante el Justicia de Aragón", "Ante el Tribunal Constitucional", "Ante el Consejo Consultivo de Aragón", "Ante las Cortes de Aragón"],
+      "correct": 3,
+      "exp": "El Presidente del Gobierno de Aragón, previa deliberación de éste, puede plantear ante las Cortes de Aragón la cuestión de confianza sobre su programa o sobre una declaración de política general.",
+      "fuente": "Art. 49.1 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué mayoría se exige para que se entienda otorgada la confianza en la cuestión de confianza planteada por el Presidente?",
+      "options": ["Mayoría simple de los votos emitidos", "Mayoría absoluta", "Dos tercios", "Tres quintos"],
+      "correct": 0,
+      "exp": "La confianza se entenderá otorgada cuando el Presidente obtenga la mayoría simple de los votos emitidos.",
+      "fuente": "Art. 49.2 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué consecuencia tiene que las Cortes de Aragón nieguen la confianza al Presidente?",
+      "options": ["Solo cesa el Presidente, no el Gobierno", "Cesan el Presidente y su Gobierno, debiendo elegirse un nuevo Presidente", "Se disuelven automáticamente las Cortes", "El Presidente continúa hasta las siguientes elecciones"],
+      "correct": 1,
+      "exp": "El Presidente, junto con su Gobierno, cesará si las Cortes de Aragón le niegan la confianza. Deberá, entonces, procederse a la elección de un nuevo Presidente.",
+      "fuente": "Art. 49.3 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Por qué mayoría deben las Cortes de Aragón adoptar una moción de censura contra el Presidente y el Gobierno?",
+      "options": ["Mayoría simple", "Mayoría de los presentes", "Mayoría absoluta", "Dos tercios"],
+      "correct": 2,
+      "exp": "Las Cortes de Aragón podrán exigir la responsabilidad política del Presidente y del Gobierno de Aragón, mediante la adopción, por mayoría absoluta, de una moción de censura.",
+      "fuente": "Art. 50.1 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué porcentaje mínimo de Diputados y Diputadas debe proponer una moción de censura en las Cortes de Aragón?",
+      "options": ["Diez por ciento", "Veinte por ciento", "Veinticinco por ciento", "Quince por ciento"],
+      "correct": 3,
+      "exp": "La moción de censura deberá ser propuesta, al menos, por un quince por ciento de los Diputados y Diputadas.",
+      "fuente": "Art. 50.2 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "Además del porcentaje mínimo de proponentes, ¿qué debe incluir obligatoriamente la moción de censura?",
+      "options": ["Un candidato a la Presidencia del Gobierno de Aragón", "Un informe del Consejo Consultivo de Aragón", "La convocatoria inmediata de elecciones", "La disolución de las Cortes"],
+      "correct": 0,
+      "exp": "La moción de censura deberá incluir un candidato a la Presidencia del Gobierno de Aragón.",
+      "fuente": "Art. 50.2 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué norma regula el procedimiento de la moción de censura en las Cortes de Aragón?",
+      "options": ["La Constitución Española", "El Reglamento de las Cortes de Aragón", "La Ley Orgánica del Poder Judicial", "La Ley del Justicia de Aragón"],
+      "correct": 1,
+      "exp": "El Reglamento de las Cortes de Aragón regula el procedimiento de la moción de censura.",
+      "fuente": "Art. 50.3 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "Si las Cortes de Aragón aprueban una moción de censura, ¿quién comunica al Rey el nombramiento del nuevo Presidente?",
+      "options": ["El Consejo Consultivo de Aragón", "El Justicia de Aragón", "El Presidente de las Cortes de Aragón", "El propio candidato investido"],
+      "correct": 2,
+      "exp": "El candidato a la Presidencia se entenderá investido del cargo y el Presidente de las Cortes lo comunicará al Rey para su nombramiento.",
+      "fuente": "Art. 50.4 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "Si una moción de censura no es aprobada por las Cortes de Aragón, ¿durante cuánto tiempo no podrán sus signatarios suscribir otra?",
+      "options": ["Seis meses", "Dos años", "Toda la legislatura", "Un año"],
+      "correct": 3,
+      "exp": "Si la moción de censura no es aprobada por las Cortes, sus signatarios no podrán suscribir otra hasta transcurrido un año desde la fecha de la votación.",
+      "fuente": "Art. 50.5 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuál de las siguientes NO figura entre las causas de cese del Presidente de Aragón recogidas en el Estatuto?",
+      "options": ["La disolución del Consejo Consultivo de Aragón", "La dimisión", "La celebración de elecciones a Cortes de Aragón", "La pérdida de la condición de diputado o diputada a Cortes de Aragón"],
+      "correct": 0,
+      "exp": "El art. 51 EAA enumera como causas de cese la celebración de elecciones, la moción de censura, la pérdida de la cuestión de confianza, la dimisión, la incapacidad permanente, la sentencia firme inhabilitante, la pérdida de la condición de diputado y la incompatibilidad no subsanada; no menciona la disolución del Consejo Consultivo.",
+      "fuente": "Art. 51 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Por qué mayoría deben las Cortes de Aragón reconocer la incapacidad permanente del Presidente como causa de cese?",
+      "options": ["Mayoría simple", "Mayoría absoluta", "Dos tercios", "Tres quintos"],
+      "correct": 1,
+      "exp": "El Presidente cesa, entre otras causas, por incapacidad permanente que le imposibilite para el ejercicio de su cargo reconocida por las Cortes de Aragón por mayoría absoluta.",
+      "fuente": "Art. 51 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "Además de la dimisión y la moción de censura, ¿qué otra causa de cese del Presidente recoge el Estatuto?",
+      "options": ["La aprobación de los presupuestos autonómicos", "El cambio de sede del Gobierno de Aragón", "La sentencia firme que le inhabilite para el ejercicio de su cargo", "La creación de una nueva comarca"],
+      "correct": 2,
+      "exp": "El Presidente cesa, entre otras causas, por sentencia firme que le inhabilite para el ejercicio de su cargo.",
+      "fuente": "Art. 51 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Quién puede acordar la disolución anticipada de las Cortes de Aragón, previa deliberación del Gobierno?",
+      "options": ["El Justicia de Aragón", "El Presidente de las Cortes de Aragón", "El Consejo Consultivo de Aragón", "El Presidente de Aragón, bajo su exclusiva responsabilidad"],
+      "correct": 3,
+      "exp": "El Presidente, previa deliberación del Gobierno de Aragón y bajo su exclusiva responsabilidad, podrá acordar la disolución de las Cortes de Aragón con anticipación al término natural de la legislatura.",
+      "fuente": "Art. 52.1 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Mediante qué instrumento jurídico se acuerda la disolución de las Cortes de Aragón?",
+      "options": ["Decreto", "Ley de Cortes", "Reglamento parlamentario", "Acuerdo del Consejo Consultivo"],
+      "correct": 0,
+      "exp": "La disolución se acordará por decreto, en el que se convocarán a su vez elecciones.",
+      "fuente": "Art. 52.2 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿En qué supuesto no pueden ser disueltas las Cortes de Aragón según el art. 52.3 EAA?",
+      "options": ["Cuando se debatan los presupuestos autonómicos", "Cuando esté en trámite una moción de censura", "Durante el periodo vacacional parlamentario", "Cuando el Justicia rinda cuentas ante las Cortes"],
+      "correct": 1,
+      "exp": "Las Cortes de Aragón no podrán ser disueltas cuando esté en trámite una moción de censura.",
+      "fuente": "Art. 52.3 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "Como regla general, ¿cuánto tiempo debe transcurrir desde una disolución de las Cortes de Aragón para que proceda una nueva?",
+      "options": ["Seis meses", "Dos años", "Un año", "Toda la legislatura"],
+      "correct": 2,
+      "exp": "No procederá nueva disolución antes de que transcurra un año desde la anterior, salvo lo dispuesto en el artículo 48, apartado 3.",
+      "fuente": "Art. 52.4 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué función y potestad ejerce el Gobierno de Aragón según el art. 53.1 EAA?",
+      "options": ["Solo la potestad legislativa", "Solo la potestad judicial", "La función ejecutiva y la potestad legislativa", "La función ejecutiva y la potestad reglamentaria"],
+      "correct": 3,
+      "exp": "El Gobierno de Aragón ejerce la función ejecutiva y la potestad reglamentaria.",
+      "fuente": "Art. 53.1 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Quiénes integran el Gobierno de Aragón junto con el Presidente, según el art. 53.2 EAA?",
+      "options": ["Los Vicepresidentes, en su caso, y los Consejeros", "Los Diputados de las Cortes de Aragón", "El Justicia de Aragón y los Consejeros", "Los Alcaldes de las comarcas aragonesas"],
+      "correct": 0,
+      "exp": "El Gobierno de Aragón estará constituido por el Presidente, los Vicepresidentes, en su caso, y los Consejeros.",
+      "fuente": "Art. 53.2 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Quién nombra y separa libremente a los Vicepresidentes y Consejeros del Gobierno de Aragón?",
+      "options": ["Las Cortes de Aragón", "El Presidente de Aragón", "El Rey", "El Consejo Consultivo de Aragón"],
+      "correct": 1,
+      "exp": "El Presidente nombra y separa libremente a los Vicepresidentes, en su caso, y a los Consejeros.",
+      "fuente": "Art. 53.2 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cómo responde políticamente el Gobierno de Aragón ante las Cortes, sin perjuicio de la responsabilidad directa de cada Consejero por su gestión?",
+      "options": ["De forma individual", "No responde políticamente", "De forma solidaria", "Solo responde el Presidente"],
+      "correct": 2,
+      "exp": "El Gobierno de Aragón responde políticamente ante las Cortes de Aragón de forma solidaria, sin perjuicio de la responsabilidad directa de cada Consejero por su gestión.",
+      "fuente": "Art. 53.3 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuál es la sede del Gobierno de Aragón según el art. 54.1 EAA?",
+      "options": ["Huesca", "Teruel", "Calatayud", "Zaragoza"],
+      "correct": 3,
+      "exp": "La sede del Gobierno de Aragón es la ciudad de Zaragoza, sin perjuicio de que se puedan celebrar reuniones en otros lugares dentro del territorio de la Comunidad Autónoma.",
+      "fuente": "Art. 54.1 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Mediante qué instrumento puede modificarse la sede del Gobierno de Aragón?",
+      "options": ["Ley de Cortes de Aragón", "Decreto del Presidente de Aragón", "Reglamento interno del Gobierno", "Acuerdo del Consejo Consultivo"],
+      "correct": 0,
+      "exp": "Por ley de Cortes de Aragón podrá modificarse la sede del Gobierno de Aragón.",
+      "fuente": "Art. 54.2 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿En qué supuesto pueden ser detenidos o retenidos los miembros del Gobierno de Aragón durante su mandato?",
+      "options": ["Nunca, gozan de inmunidad absoluta", "En supuesto de flagrante delito", "Solo con autorización previa de las Cortes", "Solo con autorización previa del Rey"],
+      "correct": 1,
+      "exp": "El Presidente o la Presidenta y las demás personas miembros del Gobierno de Aragón, durante su mandato, no podrán ser detenidas ni retenidas sino en supuesto de flagrante delito.",
+      "fuente": "Art. 55.1 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué norma determina el Estatuto, las atribuciones y las incompatibilidades de las personas miembros del Gobierno de Aragón?",
+      "options": ["La Constitución Española directamente", "Un decreto del Presidente de Aragón", "Una ley de Cortes de Aragón", "El Reglamento de las Cortes de Aragón"],
+      "correct": 2,
+      "exp": "Una ley de Cortes de Aragón determinará el Estatuto, las atribuciones y las incompatibilidades de las personas miembros del Gobierno de Aragón.",
+      "fuente": "Art. 55.2 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuándo cesa el Gobierno de Aragón como órgano colegiado, según el art. 56.1 EAA?",
+      "options": ["Cuando lo decide el Justicia de Aragón", "Al finalizar cada año natural", "Cuando lo acuerda el Consejo Consultivo", "Cuando cesa su Presidente"],
+      "correct": 3,
+      "exp": "El Gobierno de Aragón cesa cuando lo hace su Presidente.",
+      "fuente": "Art. 56.1 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Hasta cuándo continúa en funciones el Gobierno de Aragón cesante?",
+      "options": ["Hasta la toma de posesión del nuevo Gobierno", "Hasta la disolución de las Cortes", "Un máximo de tres meses", "Indefinidamente, sin límite"],
+      "correct": 0,
+      "exp": "El Gobierno de Aragón cesante continuará en funciones hasta la toma de posesión del nuevo.",
+      "fuente": "Art. 56.2 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Ante qué órgano puede el Gobierno de Aragón interponer recursos de inconstitucionalidad y plantear conflictos de competencias?",
+      "options": ["El Tribunal Superior de Justicia de Aragón", "El Tribunal Constitucional", "El Consejo de Justicia de Aragón", "El Tribunal Supremo"],
+      "correct": 1,
+      "exp": "El Gobierno de Aragón podrá interponer recursos de inconstitucionalidad, plantear conflictos de competencias y personarse en el Tribunal Constitucional en los supuestos y términos previstos en la Constitución y en la Ley Orgánica del Tribunal Constitucional.",
+      "fuente": "Art. 57 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué naturaleza tiene el Consejo Consultivo de Aragón según el art. 58.1 EAA?",
+      "options": ["Es un órgano jurisdiccional", "Es un órgano de representación municipal", "Es el supremo órgano consultivo del Gobierno y la Administración de la Comunidad Autónoma", "Es un órgano de control presupuestario"],
+      "correct": 2,
+      "exp": "El Consejo Consultivo de Aragón es el supremo órgano consultivo del Gobierno y la Administración de la Comunidad Autónoma, y ejerce sus funciones con autonomía orgánica y funcional para garantizar su objetividad e independencia.",
+      "fuente": "Art. 58.1 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué norma regula la organización, composición y funciones del Consejo Consultivo de Aragón?",
+      "options": ["El Estatuto de Autonomía directamente, sin desarrollo posterior", "Un reglamento interno del Gobierno", "La Ley Orgánica del Poder Judicial", "Una ley específica de las Cortes de Aragón"],
+      "correct": 3,
+      "exp": "La organización, composición y funciones del Consejo Consultivo se regularán por una ley específica de las Cortes de Aragón.",
+      "fuente": "Art. 58.2 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuál de las siguientes es una misión específica del Justicia de Aragón según el art. 59.1 EAA?",
+      "options": ["La tutela del ordenamiento jurídico aragonés", "La representación exterior de Aragón", "El ejercicio de la potestad reglamentaria", "La convocatoria de elecciones a Cortes"],
+      "correct": 0,
+      "exp": "El Justicia de Aragón tiene como misiones específicas la protección y defensa de los derechos individuales y colectivos reconocidos en el Estatuto, la tutela del ordenamiento jurídico aragonés y la defensa del propio Estatuto.",
+      "fuente": "Art. 59.1 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Ante qué órgano rinde cuentas de su gestión el Justicia de Aragón?",
+      "options": ["Ante el Gobierno de Aragón", "Ante las Cortes de Aragón", "Ante el Tribunal Superior de Justicia de Aragón", "Ante el Consejo Consultivo de Aragón"],
+      "correct": 1,
+      "exp": "El Justicia rendirá cuentas de su gestión ante las Cortes de Aragón.",
+      "fuente": "Art. 59.3 EAA",
+      "confianza": "alta"
+    },
+    {
+      "q": "Además del alcance de las funciones del Justicia de Aragón, ¿qué debe concretar la ley del Justicia según el art. 60 EAA?",
+      "options": ["El presupuesto anual de las Cortes de Aragón", "La sede del Tribunal Superior de Justicia", "El procedimiento de su elección por las Cortes y el régimen de incompatibilidades", "La composición del Consejo Consultivo de Aragón"],
+      "correct": 2,
+      "exp": "Una ley de las Cortes de Aragón concretará el alcance de las funciones del Justicia, así como el procedimiento de su elección por aquéllas y el régimen de incompatibilidades.",
+      "fuente": "Art. 60 EAA",
+      "confianza": "alta"
+    }
+  ]
+}
