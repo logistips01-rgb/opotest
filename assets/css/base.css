@@ -489,6 +489,10 @@ h2.section-title{
   letter-spacing:-2px;
 }
 .fiesta .racha-num{
+  /* inline-block para que la caja del degradado se ajuste al ancho de las
+     cifras: si fuese de bloque, el arcoíris se repartiría por todo el ancho
+     de la tarjeta y en los dígitos solo se vería un tramo del degradado. */
+  display:inline-block;
   background:linear-gradient(95deg,#c8102e,#ff7b00,#ffd200,#2a9d8f,#7b5cff);
   -webkit-background-clip:text;
   background-clip:text;
