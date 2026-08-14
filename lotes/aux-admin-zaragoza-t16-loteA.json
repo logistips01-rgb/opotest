@@ -1,0 +1,526 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 16,
+  "preguntas": [
+    {
+      "q": "Según el art. 48.1 de la Ley de Capitalidad, la elaboración, aprobación y modificación de las ordenanzas y los Reglamentos municipales de Zaragoza se ajustará a la legislación sobre procedimiento administrativo común y...",
+      "options": [
+        "al procedimiento establecido en el propio artículo 48",
+        "a lo que en cada caso decida el Gobierno de Zaragoza",
+        "exclusivamente a la normativa básica de régimen local",
+        "al procedimiento previsto para el planeamiento urbanístico"
+      ],
+      "correct": 0,
+      "exp": "El art. 48.1 dispone que la elaboración, aprobación y modificación de ordenanzas y Reglamentos municipales se ajustará a la legislación sobre procedimiento administrativo común y al procedimiento establecido en el propio art. 48.",
+      "fuente": "Art. 48.1 Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 48.1 de la Ley de Capitalidad excluye expresamente una materia del procedimiento de elaboración, aprobación y modificación de ordenanzas y Reglamentos municipales, por regirse por su normativa específica. ¿Cuál?",
+      "options": [
+        "El Reglamento Orgánico Municipal",
+        "El planeamiento urbanístico",
+        "Las ordenanzas fiscales",
+        "El presupuesto municipal"
+      ],
+      "correct": 1,
+      "exp": "El art. 48.1 excluye el planeamiento urbanístico, que se regirá por su normativa específica.",
+      "fuente": "Art. 48.1 Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 48.2 de la Ley de Capitalidad, ¿a quién corresponde la iniciativa para la aprobación de ordenanzas y Reglamentos de competencia del Pleno?",
+      "options": [
+        "Al Alcalde y a los Consejeros de Área, de forma exclusiva",
+        "Únicamente al Gobierno de Zaragoza",
+        "Al Gobierno de Zaragoza, a los grupos políticos y a la iniciativa popular",
+        "Únicamente a los grupos políticos representados en el Pleno"
+      ],
+      "correct": 2,
+      "exp": "El art. 48.2 atribuye la iniciativa a tres sujetos: el Gobierno de Zaragoza (a), los grupos políticos (b) y la iniciativa popular (c).",
+      "fuente": "Art. 48.2 Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 48.2.a) de la Ley de Capitalidad, el Gobierno de Zaragoza ejerce la iniciativa para la aprobación de ordenanzas y Reglamentos mediante...",
+      "options": [
+        "una proposición suscrita por sus miembros",
+        "una moción presentada al Pleno",
+        "una consulta popular previa",
+        "la remisión del correspondiente proyecto normativo"
+      ],
+      "correct": 3,
+      "exp": "El art. 48.2.a) establece que la iniciativa del Gobierno de Zaragoza se ejerce mediante la remisión del correspondiente proyecto normativo.",
+      "fuente": "Art. 48.2.a) Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 48.2.b) de la Ley de Capitalidad, los grupos políticos ejercen la iniciativa para la aprobación de ordenanzas y Reglamentos municipales a través de...",
+      "options": [
+        "la correspondiente proposición",
+        "una moción de urgencia",
+        "un proyecto normativo",
+        "un informe técnico previo"
+      ],
+      "correct": 0,
+      "exp": "El art. 48.2.b) atribuye a los grupos políticos la iniciativa a través de la correspondiente proposición (a diferencia del Gobierno de Zaragoza, que actúa mediante proyecto normativo).",
+      "fuente": "Art. 48.2.b) Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿En qué términos reconoce el art. 48.2.c) de la Ley de Capitalidad la iniciativa popular para la aprobación de ordenanzas y Reglamentos municipales?",
+      "options": [
+        "Únicamente mediante recogida de firmas ante el Justicia de Aragón",
+        "En los términos previstos en la normativa básica",
+        "En los términos que fije en cada caso la Comisión plenaria competente",
+        "En los términos previstos en el Reglamento Orgánico Municipal"
+      ],
+      "correct": 1,
+      "exp": "El art. 48.2.c) remite a la normativa básica para el ejercicio de la iniciativa popular.",
+      "fuente": "Art. 48.2.c) Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 48.3 de la Ley de Capitalidad, el procedimiento que describe dicho apartado se aplica...",
+      "options": [
+        "solo a los Reglamentos que regulan el funcionamiento del Pleno",
+        "a todas las iniciativas normativas, sin distinción de su origen",
+        "en el caso de los proyectos normativos",
+        "solo a las ordenanzas fiscales"
+      ],
+      "correct": 2,
+      "exp": "El art. 48.3 comienza precisando que, «en el caso de los proyectos normativos, se aplicará el procedimiento descrito a continuación».",
+      "fuente": "Art. 48.3 Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 48.3.a) de la Ley de Capitalidad, la aprobación del proyecto de ordenanza o Reglamento corresponde, con carácter general, a...",
+      "options": [
+        "el Pleno, en todo caso",
+        "el Alcalde, previa audiencia del Gobierno de Zaragoza",
+        "la Comisión plenaria competente",
+        "el Gobierno de Zaragoza"
+      ],
+      "correct": 3,
+      "exp": "El art. 48.3.a) atribuye la aprobación del proyecto al Gobierno de Zaragoza, salvo la excepción de los proyectos de normas reguladoras del Pleno y sus Comisiones.",
+      "fuente": "Art. 48.3.a) Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 48.3.a) de la Ley de Capitalidad, ¿qué excepción existe a la regla de que el Gobierno de Zaragoza aprueba el proyecto de ordenanza o Reglamento?",
+      "options": [
+        "Los proyectos de normas reguladoras del Pleno y sus Comisiones, cuya aprobación corresponde al Pleno",
+        "Los Reglamentos de desarrollo de leyes autonómicas, que aprueba el Gobierno de Aragón",
+        "Las ordenanzas fiscales, cuyo proyecto aprueba directamente la Comisión de Hacienda",
+        "No existe ninguna excepción a dicha regla"
+      ],
+      "correct": 0,
+      "exp": "El art. 48.3.a) exceptúa de la aprobación por el Gobierno de Zaragoza los proyectos de normas reguladoras del Pleno y sus Comisiones, cuya aprobación corresponde al Pleno.",
+      "fuente": "Art. 48.3.a) Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "De acuerdo con el art. 48.3.b) de la Ley de Capitalidad, el trámite de información pública y audiencia a los interesados en el procedimiento de aprobación de ordenanzas y Reglamentos tendrá una duración mínima de...",
+      "options": [
+        "veinte días hábiles",
+        "treinta días naturales",
+        "un mes, computado de fecha a fecha",
+        "quince días naturales"
+      ],
+      "correct": 1,
+      "exp": "El art. 48.3.b) fija un plazo mínimo de treinta días naturales para la información pública y audiencia a los interesados.",
+      "fuente": "Art. 48.3.b) Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 48.3.b) de la Ley de Capitalidad, ¿mediante qué medios se hace pública la apertura del trámite de información pública y audiencia a los interesados?",
+      "options": [
+        "Solo mediante publicación en la sede electrónica municipal",
+        "Solo mediante anuncio en el tablón de anuncios municipal",
+        "Mediante anuncio en el boletín oficial correspondiente y en el tablón de anuncios municipal",
+        "Mediante notificación individual a todos los vecinos empadronados"
+      ],
+      "correct": 2,
+      "exp": "El art. 48.3.b) exige anuncio en el boletín oficial correspondiente y en el tablón de anuncios municipal.",
+      "fuente": "Art. 48.3.b) Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué finalidad tiene, según el art. 48.3.b) de la Ley de Capitalidad, el plazo mínimo de treinta días naturales de información pública y audiencia a los interesados?",
+      "options": [
+        "La emisión del dictamen de la Comisión plenaria",
+        "La publicación íntegra de la norma en el boletín oficial",
+        "La votación de enmiendas por los Concejales",
+        "La presentación de reclamaciones y sugerencias"
+      ],
+      "correct": 3,
+      "exp": "El art. 48.3.b) señala que ese plazo es para la presentación de reclamaciones y sugerencias.",
+      "fuente": "Art. 48.3.b) Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 48.3.c) de la Ley de Capitalidad, tras el trámite de información pública, el proyecto de ordenanza o Reglamento, junto con las reclamaciones y sugerencias recibidas, se remite a...",
+      "options": [
+        "la Comisión plenaria competente, para la emisión del oportuno dictamen",
+        "el Justicia de Aragón, para informe preceptivo",
+        "el Alcalde, para su visto bueno",
+        "el Gobierno de Aragón, para su toma de razón"
+      ],
+      "correct": 0,
+      "exp": "El art. 48.3.c) prevé la remisión del proyecto, junto con las reclamaciones y sugerencias, a la Comisión plenaria competente, para que emita dictamen.",
+      "fuente": "Art. 48.3.c) Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 48.3.d) de la Ley de Capitalidad, la aprobación del Reglamento u ordenanza por el Pleno se produce...",
+      "options": [
+        "en dos actos sucesivos: aprobación inicial y aprobación definitiva",
+        "en acto único, con resolución de las reclamaciones y sugerencias presentadas",
+        "mediante silencio administrativo positivo si no hay dictamen de la Comisión",
+        "solo tras un segundo periodo de información pública"
+      ],
+      "correct": 1,
+      "exp": "El art. 48.3.d) dispone la aprobación en acto único del Reglamento u ordenanza por el Pleno, con resolución de las reclamaciones y sugerencias presentadas.",
+      "fuente": "Art. 48.3.d) Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué órgano aprueba en acto único el Reglamento u ordenanza, resolviendo las reclamaciones y sugerencias presentadas, según el art. 48.3.d) de la Ley de Capitalidad?",
+      "options": [
+        "El Alcalde",
+        "La Comisión plenaria competente",
+        "El Pleno",
+        "El Gobierno de Zaragoza"
+      ],
+      "correct": 2,
+      "exp": "El art. 48.3.d) atribuye al Pleno la aprobación en acto único.",
+      "fuente": "Art. 48.3.d) Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "Tras la aprobación por el Pleno, el art. 48.3.e) de la Ley de Capitalidad exige, como última fase del procedimiento de proyectos normativos, la...",
+      "options": [
+        "ratificación por el Gobierno de Aragón",
+        "notificación individual a los interesados que hubieran formulado alegaciones",
+        "remisión del texto a la Comisión plenaria para un segundo dictamen",
+        "publicación íntegra en el boletín oficial correspondiente"
+      ],
+      "correct": 3,
+      "exp": "El art. 48.3.e) cierra el procedimiento con la publicación íntegra en el boletín oficial correspondiente.",
+      "fuente": "Art. 48.3.e) Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "Ordene correctamente, según el art. 48.3 de la Ley de Capitalidad, las fases del procedimiento de aprobación de un proyecto normativo de ordenanza o Reglamento municipal:",
+      "options": [
+        "Aprobación del proyecto por el Gobierno de Zaragoza; información pública de 30 días; dictamen de la Comisión plenaria; aprobación en acto único por el Pleno; publicación",
+        "Aprobación por el Pleno; información pública; dictamen de la Comisión plenaria; aprobación del proyecto; publicación",
+        "Dictamen de la Comisión plenaria; aprobación del proyecto; información pública; aprobación por el Pleno; publicación",
+        "Información pública; aprobación del proyecto; publicación; dictamen de la Comisión plenaria; aprobación por el Pleno"
+      ],
+      "correct": 0,
+      "exp": "El art. 48.3 establece la secuencia: a) aprobación del proyecto por el Gobierno de Zaragoza; b) información pública de 30 días naturales; c) remisión a la Comisión plenaria para dictamen; d) aprobación en acto único por el Pleno; e) publicación íntegra.",
+      "fuente": "Art. 48.3 Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuál de las siguientes fases NO forma parte del procedimiento de aprobación de un proyecto normativo de ordenanza o Reglamento municipal regulado en el art. 48.3 de la Ley de Capitalidad?",
+      "options": [
+        "La publicación íntegra en el boletín oficial correspondiente",
+        "La convocatoria de una encuesta ciudadana vinculante previa a la aprobación del proyecto",
+        "La información pública y audiencia a los interesados por plazo mínimo de treinta días naturales",
+        "El dictamen de la Comisión plenaria competente"
+      ],
+      "correct": 1,
+      "exp": "El art. 48.3 no contempla ninguna encuesta ciudadana vinculante; sus fases son la aprobación del proyecto, la información pública, el dictamen de la Comisión plenaria, la aprobación en acto único por el Pleno y la publicación.",
+      "fuente": "Art. 48.3 Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 48.4 de la Ley de Capitalidad regula las especialidades del procedimiento de aprobación de ordenanzas y Reglamentos aplicables a...",
+      "options": [
+        "la iniciativa popular",
+        "las ordenanzas fiscales",
+        "las proposiciones de los grupos políticos",
+        "los proyectos normativos del Gobierno de Zaragoza"
+      ],
+      "correct": 2,
+      "exp": "El art. 48.4 introduce las especialidades del procedimiento aplicables «en el caso de las proposiciones de los grupos políticos».",
+      "fuente": "Art. 48.4 Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 48.4.a) de la Ley de Capitalidad, la proposición de un grupo político para la aprobación de una ordenanza o Reglamento debe ir acompañada de...",
+      "options": [
+        "un aval de firmas de al menos el 10% del censo electoral",
+        "un dictamen previo del Justicia de Aragón",
+        "un informe jurídico de la Secretaría General",
+        "una memoria suscrita por el grupo político que la presente"
+      ],
+      "correct": 3,
+      "exp": "El art. 48.4.a) exige que la proposición vaya acompañada de una memoria suscrita por el grupo político que la presente.",
+      "fuente": "Art. 48.4.a) Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 48.4.a) de la Ley de Capitalidad, la proposición de un grupo político, junto con su memoria, se remite en primer lugar a...",
+      "options": [
+        "la Comisión plenaria correspondiente, para su dictamen",
+        "el Pleno, para su debate directo",
+        "la ciudadanía, mediante información pública",
+        "el Gobierno de Zaragoza, para su aprobación"
+      ],
+      "correct": 0,
+      "exp": "El art. 48.4.a) prevé la remisión de la proposición, acompañada de la memoria, a la Comisión plenaria correspondiente, para su dictamen.",
+      "fuente": "Art. 48.4.a) Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "De acuerdo con el art. 48.4.b) de la Ley de Capitalidad, una vez dictaminada por la Comisión una proposición de un grupo político y si esta es aceptada, ¿qué trámite sigue?",
+      "options": [
+        "Se archiva hasta la siguiente legislatura",
+        "Se somete al trámite de información pública y audiencia a los interesados, por un plazo mínimo de treinta días naturales",
+        "Se remite al Gobierno de Aragón para su ratificación",
+        "Se somete directamente a votación del Pleno, sin más trámites"
+      ],
+      "correct": 1,
+      "exp": "El art. 48.4.b) establece que, si la Comisión acepta la proposición, esta se somete a información pública y audiencia a los interesados por un plazo mínimo de treinta días naturales.",
+      "fuente": "Art. 48.4.b) Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "En el procedimiento de una proposición de grupo político regulado en el art. 48.4 de la Ley de Capitalidad, ¿en qué momento se produce el trámite de información pública, a diferencia del procedimiento de los proyectos normativos del art. 48.3?",
+      "options": [
+        "Antes de la aprobación del proyecto por el Gobierno de Zaragoza",
+        "No existe trámite de información pública en las proposiciones de grupos políticos",
+        "Después del dictamen de la Comisión plenaria, si esta acepta la proposición",
+        "Simultáneamente a la publicación en el boletín oficial"
+      ],
+      "correct": 2,
+      "exp": "A diferencia del art. 48.3 (donde la información pública precede al dictamen), en las proposiciones de grupos políticos la información pública es posterior al dictamen de la Comisión, conforme al art. 48.4.b).",
+      "fuente": "Art. 48.4.b) Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 48.4.c) de la Ley de Capitalidad, tras la información pública de una proposición de grupo político, ¿qué órgano propone al Pleno la resolución de las reclamaciones y la aprobación en acto único de la norma resultante?",
+      "options": [
+        "El Gobierno de Zaragoza",
+        "La Secretaría General del Pleno",
+        "El grupo político proponente, directamente",
+        "La Comisión competente"
+      ],
+      "correct": 3,
+      "exp": "El art. 48.4.c) atribuye a la Comisión competente proponer al Pleno la resolución de las reclamaciones y sugerencias y la aprobación en acto único.",
+      "fuente": "Art. 48.4.c) Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 48.5 de la Ley de Capitalidad, la presentación de enmiendas por parte de los Concejales, así como su tramitación en Comisión y Pleno, se ajustará a lo que disponga...",
+      "options": [
+        "el Reglamento Orgánico",
+        "el acuerdo de la Junta de Portavoces, en cada caso",
+        "las bases de ejecución del presupuesto",
+        "la legislación básica de régimen local, de forma directa"
+      ],
+      "correct": 0,
+      "exp": "El art. 48.5 remite al Reglamento Orgánico la regulación de la presentación y tramitación de enmiendas por los Concejales.",
+      "fuente": "Art. 48.5 Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿A quiénes reconoce el art. 48.5 de la Ley de Capitalidad la facultad de presentar enmiendas en el procedimiento de aprobación de ordenanzas y Reglamentos municipales?",
+      "options": [
+        "A cualquier ciudadano empadronado en Zaragoza",
+        "A los Concejales",
+        "Únicamente a los miembros del Gobierno de Zaragoza",
+        "Únicamente a los portavoces de los grupos políticos"
+      ],
+      "correct": 1,
+      "exp": "El art. 48.5 se refiere a la presentación de enmiendas «por parte de los Concejales».",
+      "fuente": "Art. 48.5 Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 48.6 de la Ley de Capitalidad, toda proposición o enmienda que suponga aumento de los créditos o disminución de los ingresos presupuestarios del ejercicio en curso requerirá, para su tramitación...",
+      "options": [
+        "la aprobación previa por referéndum municipal",
+        "el visto bueno del Gobierno de Aragón",
+        "la conformidad del Gobierno de Zaragoza",
+        "informe favorable del Justicia de Aragón"
+      ],
+      "correct": 2,
+      "exp": "El art. 48.6 exige la conformidad del Gobierno de Zaragoza para tramitar proposiciones o enmiendas que aumenten créditos o disminuyan ingresos presupuestarios del ejercicio en curso.",
+      "fuente": "Art. 48.6 Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué tipo de proposición o enmienda queda condicionada, según el art. 48.6 de la Ley de Capitalidad, a la conformidad del Gobierno de Zaragoza para poder tramitarse?",
+      "options": [
+        "La que modifique la organización de las Juntas de Distrito",
+        "La que afecte a la plantilla de personal funcionario",
+        "La que reduzca el número de ordenanzas fiscales vigentes",
+        "La que suponga aumento de los créditos o disminución de los ingresos presupuestarios del ejercicio en curso"
+      ],
+      "correct": 3,
+      "exp": "El art. 48.6 se refiere específicamente a las proposiciones o enmiendas que supongan aumento de créditos o disminución de ingresos presupuestarios del ejercicio económico en curso.",
+      "fuente": "Art. 48.6 Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 49 de la Ley de Capitalidad, las ordenanzas fiscales se tramitarán conforme al procedimiento regulado en el artículo anterior (art. 48), con...",
+      "options": [
+        "ciertas especialidades",
+        "remisión íntegra a la legislación tributaria estatal, sin especialidad alguna",
+        "un procedimiento totalmente distinto, ajeno al art. 48",
+        "idéntico procedimiento, sin ninguna especialidad"
+      ],
+      "correct": 0,
+      "exp": "El art. 49 remite al procedimiento del art. 48 «con las siguientes especialidades», por lo que no es un procedimiento idéntico ni totalmente distinto.",
+      "fuente": "Art. 49 Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 49.a) de la Ley de Capitalidad, ¿a quién corresponde la aprobación del proyecto de ordenanza fiscal?",
+      "options": [
+        "A la Comisión plenaria correspondiente",
+        "Al Gobierno de Zaragoza",
+        "Al Interventor municipal",
+        "Al Pleno, en un único acto"
+      ],
+      "correct": 1,
+      "exp": "El art. 49.a) atribuye al Gobierno de Zaragoza la aprobación del proyecto de ordenanza fiscal.",
+      "fuente": "Art. 49.a) Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "Tras la aprobación del proyecto de ordenanza fiscal por el Gobierno de Zaragoza, el art. 49.a) de la Ley de Capitalidad prevé su remisión a la Comisión plenaria correspondiente para...",
+      "options": [
+        "su archivo hasta la aprobación definitiva por el Pleno",
+        "su publicación directa en el boletín oficial",
+        "su dictamen y aprobación inicial",
+        "su sometimiento a información pública, sin dictamen previo"
+      ],
+      "correct": 2,
+      "exp": "El art. 49.a) dispone la remisión del proyecto a la Comisión plenaria correspondiente para su dictamen y aprobación inicial.",
+      "fuente": "Art. 49.a) Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué órgano aprueba inicialmente la ordenanza fiscal, según el art. 49.a) de la Ley de Capitalidad, a diferencia del procedimiento general del art. 48?",
+      "options": [
+        "El Alcalde",
+        "El Gobierno de Aragón",
+        "El Pleno",
+        "La Comisión plenaria correspondiente"
+      ],
+      "correct": 3,
+      "exp": "El art. 49.a) atribuye a la Comisión plenaria correspondiente el dictamen y la aprobación inicial de la ordenanza fiscal, especialidad frente al procedimiento general.",
+      "fuente": "Art. 49.a) Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 49.b) de la Ley de Capitalidad, una vez aprobada inicialmente la ordenanza fiscal por la Comisión plenaria, ¿qué trámite sigue?",
+      "options": [
+        "Se expone al público, previo anuncio en el boletín oficial correspondiente, en el tablón de anuncios y en la sede electrónica municipal",
+        "Se publica íntegramente sin más trámite",
+        "Se remite al Gobierno de Aragón para su ratificación",
+        "Se somete directamente a votación definitiva del Pleno"
+      ],
+      "correct": 0,
+      "exp": "El art. 49.b) dispone que, aprobada inicialmente por la Comisión plenaria, la ordenanza fiscal se expondrá al público, previo anuncio en el boletín oficial, tablón de anuncios y sede electrónica municipal.",
+      "fuente": "Art. 49.b) Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuál es el plazo mínimo de exposición al público de una ordenanza fiscal, una vez aprobada inicialmente por la Comisión plenaria, según el art. 49.b) de la Ley de Capitalidad?",
+      "options": [
+        "Dos meses",
+        "Treinta días",
+        "Quince días",
+        "Cuarenta y cinco días"
+      ],
+      "correct": 1,
+      "exp": "El art. 49.b) fija un plazo mínimo de treinta días para la exposición al público de la ordenanza fiscal aprobada inicialmente.",
+      "fuente": "Art. 49.b) Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "Durante el plazo de exposición al público previsto en el art. 49.b) de la Ley de Capitalidad para las ordenanzas fiscales, los interesados podrán...",
+      "options": [
+        "votar telemáticamente la aprobación definitiva",
+        "solicitar la suspensión cautelar de la ordenanza",
+        "examinar el expediente y presentar las reclamaciones que estimen oportunas",
+        "recurrir directamente en vía contencioso-administrativa"
+      ],
+      "correct": 2,
+      "exp": "El art. 49.b) permite a los interesados, durante el plazo de exposición pública, examinar el expediente y presentar las reclamaciones que estimen oportunas.",
+      "fuente": "Art. 49.b) Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 49.b) de la Ley de Capitalidad, el anuncio del periodo de exposición al público de una ordenanza fiscal debe publicarse en el boletín oficial correspondiente, en el tablón de anuncios y, además, en...",
+      "options": [
+        "el Diario Oficial de la Unión Europea",
+        "el Boletín Oficial del Estado, en todo caso",
+        "un diario de tirada nacional",
+        "la sede electrónica municipal"
+      ],
+      "correct": 3,
+      "exp": "El art. 49.b) exige el anuncio en el boletín oficial correspondiente, en el tablón de anuncios y en la sede electrónica municipal.",
+      "fuente": "Art. 49.b) Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 49.c) de la Ley de Capitalidad, ¿qué propone la Comisión plenaria competente al Pleno una vez finalizado el periodo de exposición pública de una ordenanza fiscal?",
+      "options": [
+        "La resolución de las reclamaciones presentadas y la aprobación en acto único de la ordenanza fiscal resultante",
+        "Únicamente la resolución de las reclamaciones, dejando la aprobación para un Pleno posterior",
+        "La devolución del expediente al Gobierno de Zaragoza para su reelaboración",
+        "La apertura de un nuevo periodo de información pública"
+      ],
+      "correct": 0,
+      "exp": "El art. 49.c) atribuye a la Comisión plenaria proponer al Pleno la resolución de las reclamaciones presentadas y la aprobación en acto único de la ordenanza fiscal resultante.",
+      "fuente": "Art. 49.c) Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué ocurre, según el art. 49.c) de la Ley de Capitalidad, si durante el periodo de exposición al público de una ordenanza fiscal no se hubieren presentado reclamaciones?",
+      "options": [
+        "La aprobación definitiva queda en suspenso hasta el siguiente ejercicio",
+        "La ordenanza fiscal se entenderá definitivamente aprobada",
+        "La ordenanza fiscal decae y debe iniciarse de nuevo el procedimiento",
+        "Es necesario un nuevo periodo de exposición pública antes de aprobarla"
+      ],
+      "correct": 1,
+      "exp": "El art. 49.c) establece que, de no presentarse reclamaciones, la ordenanza fiscal se entenderá definitivamente aprobada (aprobación tácita).",
+      "fuente": "Art. 49.c) Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "La previsión del art. 49.c) de la Ley de Capitalidad, según la cual la ordenanza fiscal se entiende definitivamente aprobada si no se presentan reclamaciones durante la exposición pública, constituye una especialidad respecto de...",
+      "options": [
+        "el procedimiento de aprobación del presupuesto municipal, que nunca requiere aprobación expresa",
+        "el régimen de enmiendas del art. 48.5",
+        "el procedimiento de aprobación de los proyectos normativos regulado en el art. 48.3, que siempre exige acto expreso de aprobación por el Pleno",
+        "el régimen de iniciativa popular del art. 48.2.c)"
+      ],
+      "correct": 2,
+      "exp": "A diferencia del art. 48.3.d), que exige siempre aprobación expresa en acto único por el Pleno, el art. 49.c) prevé una aprobación definitiva tácita de la ordenanza fiscal si no hay reclamaciones.",
+      "fuente": "Art. 49.c) Ley de Capitalidad",
+      "confianza": "alta"
+    },
+    {
+      "q": "Señale la afirmación correcta sobre las especialidades de la aprobación de ordenanzas fiscales frente al procedimiento general del art. 48, conforme al art. 49 de la Ley de Capitalidad:",
+      "options": [
+        "El plazo de exposición pública es de quince días y la aprobación definitiva siempre es expresa",
+        "No existe trámite de exposición al público en las ordenanzas fiscales",
+        "La aprobación del proyecto corresponde a la Comisión plenaria y la aprobación inicial al Gobierno de Zaragoza",
+        "La aprobación inicial corresponde a la Comisión plenaria y, sin reclamaciones, la ordenanza se entiende definitivamente aprobada"
+      ],
+      "correct": 3,
+      "exp": "El art. 49 prevé que el Gobierno de Zaragoza apruebe el proyecto, la Comisión plenaria lo apruebe inicialmente tras dictamen, y que, de no haber reclamaciones durante la exposición pública, la ordenanza fiscal se entienda definitivamente aprobada.",
+      "fuente": "Art. 49 Ley de Capitalidad",
+      "confianza": "alta"
+    }
+  ]
+}
