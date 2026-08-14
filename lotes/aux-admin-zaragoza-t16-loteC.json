@@ -1,0 +1,527 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 16,
+  "lote": "C",
+  "preguntas": [
+    {
+      "q": "Según el art. 82.1 ROF, el orden del día de las sesiones del Pleno será fijado por:",
+      "options": [
+        "La Comisión Informativa competente por razón de la materia.",
+        "El Pleno, en la sesión anterior, a propuesta de los portavoces.",
+        "El Alcalde o Presidente, asistido de la Secretaría.",
+        "El Secretario de la Corporación, con el visto bueno del Alcalde."
+      ],
+      "correct": 2,
+      "exp": "El art. 82.1 ROF dispone que «el orden del día de las sesiones será fijado por el Alcalde o Presidente asistido de la Secretaría».",
+      "fuente": "Art. 82.1 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Al fijar el orden del día, y conforme al art. 82.1 ROF, la consulta a los portavoces de los grupos existentes en la Corporación es:",
+      "options": [
+        "Potestativa: el Alcalde podrá consultarles si lo estima oportuno.",
+        "Preceptiva y vinculante en cuanto al orden de los asuntos.",
+        "Preceptiva pero no vinculante, y debe constar en el expediente.",
+        "Obligatoria únicamente cuando se trate de aprobar ordenanzas."
+      ],
+      "correct": 0,
+      "exp": "El art. 82.1 ROF permite al Alcalde recabar la asistencia de los miembros de la Comisión de Gobierno (o los Tenientes de Alcalde) y «consultar si lo estima oportuno a los portavoces de los grupos existentes en la Corporación»: es una facultad, no un trámite preceptivo.",
+      "fuente": "Art. 82.1 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "De acuerdo con el art. 82.4 ROF, el punto de ruegos y preguntas se incluirá:",
+      "options": [
+        "En el orden del día de todas las sesiones, sean ordinarias o extraordinarias.",
+        "En las sesiones extraordinarias, cuando así lo pida un grupo político.",
+        "Solo cuando lo prevea expresamente el Reglamento Orgánico municipal.",
+        "Siempre en el orden del día de las sesiones ordinarias."
+      ],
+      "correct": 3,
+      "exp": "El art. 82.4 ROF establece que «en el orden del día de las sesiones ordinarias se incluirá siempre el punto de ruegos y preguntas».",
+      "fuente": "Art. 82.4 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Entre los documentos que deben constar en el expediente que se abre con la convocatoria de una sesión, el art. 81.1.a) ROF cita la relación de expedientes conclusos, que es preparada y puesta a disposición de la Alcaldía o Presidencia por:",
+      "options": [
+        "La Intervención de la Corporación.",
+        "La Secretaría.",
+        "La Comisión Informativa correspondiente.",
+        "El portavoz del grupo mayoritario."
+      ],
+      "correct": 1,
+      "exp": "El art. 81.1.a) ROF exige que en el expediente conste «la relación de expedientes conclusos que la Secretaría prepare y ponga a disposición de la Alcaldía o Presidencia».",
+      "fuente": "Art. 81.1.a) ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Siendo preceptiva la notificación del orden del día a los miembros de la Corporación, el art. 81.2 ROF exige que el cumplimiento de ese requisito quede debidamente acreditado en:",
+      "options": [
+        "El tablón de edictos de la Corporación.",
+        "El acta de la sesión, mediante diligencia del Presidente.",
+        "La Secretaría General.",
+        "El Registro General de entrada de documentos."
+      ],
+      "correct": 2,
+      "exp": "El art. 81.2 ROF dispone que «en la Secretaría General deberá quedar debidamente acreditado el cumplimiento de este requisito».",
+      "fuente": "Art. 81.2 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 84 ROF, la documentación de los asuntos incluidos en el orden del día que ha de servir de base al debate y votación deberá estar a disposición de los miembros de la Corporación:",
+      "options": [
+        "Desde el mismo día de la convocatoria, en la Secretaría de la Corporación.",
+        "Desde los dos días hábiles anteriores a la sesión, en la Intervención.",
+        "Desde el día siguiente al de la sesión de la Comisión Informativa que dictaminó.",
+        "Desde las veinticuatro horas anteriores a la sesión, en el despacho de la Alcaldía."
+      ],
+      "correct": 0,
+      "exp": "El art. 84 ROF exige que toda la documentación esté a disposición de los miembros de la Corporación «desde el mismo día de la convocatoria en la Secretaría de la misma».",
+      "fuente": "Art. 84 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 91.3 ROF, el Alcalde o Presidente puede retirar un asunto del orden del día durante la sesión cuando:",
+      "options": [
+        "Lo solicite la cuarta parte, al menos, del número legal de miembros de la Corporación.",
+        "El dictamen de la Comisión Informativa haya sido desfavorable.",
+        "El Secretario advierta de la falta de informe de la Intervención.",
+        "Su aprobación exigiera una mayoría especial y ésta no pudiera obtenerse en el momento previsto inicialmente en el orden del día."
+      ],
+      "correct": 3,
+      "exp": "El art. 91.3 ROF faculta al Alcalde o Presidente para alterar el orden de los temas o «retirar un asunto cuando su aprobación exigiera una mayoría especial y ésta no pudiera obtenerse en el momento previsto inicialmente en el orden del día».",
+      "fuente": "Art. 91.3 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "En las sesiones ordinarias, conforme al art. 91.4 ROF, el Presidente pregunta si algún grupo desea someter al Pleno por razones de urgencia un asunto no comprendido en el orden del día. Ese momento se sitúa:",
+      "options": [
+        "Inmediatamente después de la aprobación del acta de la sesión anterior.",
+        "Concluido el examen de los asuntos del orden del día y antes de pasar al turno de ruegos y preguntas.",
+        "Como primer punto del orden del día, junto al pronunciamiento sobre la urgencia.",
+        "Después del turno de ruegos y preguntas y antes de levantar la sesión."
+      ],
+      "correct": 1,
+      "exp": "El art. 91.4 ROF sitúa esa pregunta del Presidente «concluido el examen de los asuntos incluidos en el orden del día y antes de pasar al turno de ruegos y preguntas».",
+      "fuente": "Art. 91.4 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El régimen de las mociones de urgencia del art. 91.4 ROF (justificación de la urgencia por el portavoz y votación del Pleno sobre la procedencia del debate):",
+      "options": [
+        "Se aplica también a las mociones de censura, con la sola salvedad del quórum.",
+        "Solo se aplica cuando el asunto haya sido previamente dictaminado por una Comisión Informativa.",
+        "No será de aplicación, en ningún caso, a las mociones de censura, que se rigen por el art. 108 del ROF.",
+        "No será de aplicación a las mociones de censura salvo que lo acuerde el Pleno por mayoría absoluta."
+      ],
+      "correct": 2,
+      "exp": "El último párrafo del art. 91.4 ROF precisa que «lo dispuesto en este apartado no será de aplicación, en ningún caso, a las mociones de censura, cuya tramitación, debate y votación se regirán por lo establecido en el artículo 108 de este Reglamento».",
+      "fuente": "Art. 91.4 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Cualquier Concejal puede pedir durante el debate que un expediente quede sobre la mesa. Según el art. 92.1 ROF, esa petición:",
+      "options": [
+        "Será votada tras terminar el debate y antes de la votación sobre el fondo, y si la mayoría simple vota a favor no habrá lugar a votar la propuesta de acuerdo.",
+        "Será resuelta directamente por el Presidente, sin votación, a su prudente arbitrio.",
+        "Requerirá el voto favorable de la mayoría absoluta del número legal de miembros.",
+        "Se votará una vez celebrada la votación de fondo, a efectos de reconsiderar el acuerdo."
+      ],
+      "correct": 0,
+      "exp": "El art. 92.1 ROF establece que la petición «será votada, tras terminar el debate y antes de proceder a la votación sobre el fondo del asunto. Si la mayoría simple votase a favor de la petición no habrá lugar a votar la propuesta de acuerdo».",
+      "fuente": "Art. 92.1 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Tratándose de asuntos no incluidos en el orden del día que requieran informe preceptivo de la Secretaría o de la Intervención, el art. 92.2 ROF dispone que, si no pueden emitirlo en el acto:",
+      "options": [
+        "El Presidente deberá retirar el asunto sin necesidad de votación alguna.",
+        "El acuerdo que se adopte será nulo de pleno derecho.",
+        "Podrán emitir el informe en el plazo de los diez días siguientes a la sesión.",
+        "Deberán solicitar del Presidente que se aplace su estudio, quedando sobre la mesa hasta la próxima sesión."
+      ],
+      "correct": 3,
+      "exp": "El art. 92.2 ROF obliga a la Secretaría o la Intervención a «solicitar del Presidente que se aplace su estudio quedando sobre la mesa hasta la próxima sesión»; si la petición no fuera atendida, el Secretario lo hará constar expresamente en el acta.",
+      "fuente": "Art. 92.2 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 93 ROF, la consideración de cada punto del orden del día comienza con la lectura del dictamen de la Comisión Informativa correspondiente. Esa lectura:",
+      "options": [
+        "La efectúa el Presidente de la Comisión Informativa y ha de ser siempre íntegra.",
+        "La efectúa el Secretario, íntegra o en extracto.",
+        "La efectúa el ponente designado por el grupo proponente, siempre en extracto.",
+        "Puede omitirse en todo caso, al haberse notificado el dictamen con la convocatoria."
+      ],
+      "correct": 1,
+      "exp": "El art. 93 ROF prevé la lectura «íntegra o en extracto, por el Secretario, del dictamen formulado por la Comisión Informativa correspondiente» o, si el asunto es urgente y no dictaminado, de la proposición que se somete al Pleno.",
+      "fuente": "Art. 93 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 93 ROF, si tras la lectura del dictamen nadie solicitare la palabra:",
+      "options": [
+        "El asunto quedará sobre la mesa para la siguiente sesión.",
+        "El Presidente deberá abrir de oficio un turno de intervenciones por grupos.",
+        "El asunto se someterá directamente a votación.",
+        "El dictamen se entenderá aprobado sin necesidad de votación."
+      ],
+      "correct": 2,
+      "exp": "El art. 93 ROF, párrafo segundo: «Si nadie solicitare la palabra tras la lectura, el asunto se someterá directamente a votación».",
+      "fuente": "Art. 93 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Si se promueve debate sobre un asunto dictaminado, el art. 94.1.b) ROF establece que el debate se iniciará con la exposición y justificación de la propuesta a cargo de:",
+      "options": [
+        "Algún miembro de la Comisión Informativa que la hubiera dictaminado.",
+        "El Secretario de la Corporación, que actuará como ponente técnico.",
+        "El Alcalde o Presidente, en su condición de Presidente nato de la Comisión.",
+        "El portavoz del grupo que hubiera votado en contra del dictamen."
+      ],
+      "correct": 0,
+      "exp": "El art. 94.1.b) ROF dispone que el debate se inicia «con una exposición y justificación de la propuesta, a cargo de algún miembro de la Comisión Informativa que la hubiera dictaminado» o, en los demás casos, de alguno de los miembros que suscriban la proposición o moción.",
+      "fuente": "Art. 94.1.b) ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 94.1.e) ROF, consumido el segundo turno, el Presidente puede dar por terminada la discusión, que se cerrará con:",
+      "options": [
+        "Una intervención del Secretario para fijar los términos de la votación.",
+        "Una intervención del ponente en la que brevemente ratificará o modificará su propuesta.",
+        "Un turno de réplica de cada grupo político de idéntica duración.",
+        "Una nueva lectura íntegra del dictamen por el Secretario."
+      ],
+      "correct": 1,
+      "exp": "El art. 94.1.e) ROF cierra la discusión «con una intervención del ponente en la que brevemente ratificará o modificará su propuesta».",
+      "fuente": "Art. 94.1.e) ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "En los supuestos en que, conforme al art. 76 de la Ley 7/1985, un miembro de la Corporación deba abstenerse de participar en la deliberación y votación, el art. 96 ROF le obliga a:",
+      "options": [
+        "Abandonar el Salón mientras se discuta y vote el asunto, salvo cuando se trate de debatir su actuación como corporativo.",
+        "Permanecer en el Salón haciendo constar su abstención en el acta.",
+        "Abandonar el Salón en todo caso, sin excepción alguna.",
+        "Delegar su voto en el portavoz de su grupo político."
+      ],
+      "correct": 0,
+      "exp": "El art. 96 ROF exige abandonar el Salón mientras se discuta y vote el asunto, «salvo cuando se trate de debatir su actuación como corporativo, en que tendrá derecho a permanecer y defenderse».",
+      "fuente": "Art. 96 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según la terminología del art. 97.2 ROF, la «proposición» es la propuesta relativa a un asunto incluido en el orden del día en virtud del art. 82.3, y respecto de ella:",
+      "options": [
+        "Puede debatirse pero no votarse hasta la sesión siguiente.",
+        "Solo puede formularse por el Alcalde o Presidente y de forma oral.",
+        "No requiere parte expositiva, bastando el acuerdo que se propone.",
+        "No procederá entrar a debatirla ni votarla sin que previamente se haya ratificado la inclusión del asunto en el orden del día."
+      ],
+      "correct": 3,
+      "exp": "El art. 97.2 ROF define la proposición y añade que «no procederá entrar a debatir ni votar una proposición sin que previamente se haya ratificado, de acuerdo con lo dispuesto en el referido artículo 82.3, la inclusión del asunto en el orden del día».",
+      "fuente": "Art. 97.2 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El «voto particular», según el art. 97.4 ROF, es la propuesta de modificación de un dictamen formulada por un miembro que forma parte de la Comisión Informativa, y:",
+      "options": [
+        "Deberá presentarse al Presidente antes de iniciarse la deliberación del asunto en el Pleno.",
+        "Deberá acompañar al dictamen desde el día siguiente a su aprobación por la Comisión.",
+        "Sustituye al dictamen si lo suscriben al menos un tercio de los miembros de la Comisión.",
+        "Solo podrá formularse por quienes hubiesen votado en contra en votación nominal."
+      ],
+      "correct": 1,
+      "exp": "El art. 97.4 ROF: el voto particular «deberá acompañar al dictamen desde el día siguiente a su aprobación por la Comisión».",
+      "fuente": "Art. 97.4 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 97.5 ROF, la «enmienda» es la propuesta de modificación de un dictamen o proposición presentada:",
+      "options": [
+        "Por los miembros de la Comisión Informativa que hubiera dictaminado el asunto, en el seno de ésta.",
+        "Oralmente durante el segundo turno del debate plenario.",
+        "Por cualquier miembro, mediante escrito presentado al Presidente antes de iniciarse la deliberación del asunto.",
+        "Por los portavoces de los grupos, mediante escrito presentado con veinticuatro horas de antelación."
+      ],
+      "correct": 2,
+      "exp": "El art. 97.5 ROF define la enmienda como la propuesta de modificación de un dictamen o proposición «presentada por cualquier miembro, mediante escrito presentado al Presidente antes de iniciarse la deliberación del asunto».",
+      "fuente": "Art. 97.5 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "La función de estudio, informe o consulta que el art. 123.1 ROF atribuye a las Comisiones Informativas respecto de los asuntos que hayan de ser sometidos a la decisión del Pleno se exceptúa:",
+      "options": [
+        "Cuando el asunto consista en la aprobación de ordenanzas fiscales.",
+        "Cuando el asunto haya sido informado previamente por la Secretaría y la Intervención.",
+        "Cuando el asunto requiera para su aprobación el voto favorable de la mayoría absoluta.",
+        "Cuando hayan de adoptarse acuerdos declarados urgentes."
+      ],
+      "correct": 3,
+      "exp": "El art. 123.1 ROF cierra la definición con la salvedad «salvo cuando hayan de adoptarse acuerdos declarados urgentes».",
+      "fuente": "Art. 123.1 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Además de los asuntos que hayan de ser sometidos a la decisión del Pleno, el art. 123.1 ROF extiende la función de estudio, informe o consulta de las Comisiones Informativas a los asuntos que hayan de someterse a:",
+      "options": [
+        "La Comisión de Gobierno, en todo caso y cualquiera que sea el título competencial.",
+        "La Comisión de Gobierno, cuando ésta actúe con competencias delegadas por el Pleno.",
+        "El Alcalde o Presidente, en el ejercicio de sus competencias propias.",
+        "Las Juntas Municipales de Distrito y los Consejos Sectoriales."
+      ],
+      "correct": 1,
+      "exp": "El art. 123.1 ROF se refiere a los asuntos que hayan de ser sometidos a la decisión del Pleno «y de la Comisión de Gobierno cuando esta actúe con competencias delegadas por el Pleno».",
+      "fuente": "Art. 123.1 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 123.2 ROF, las Comisiones Informativas informarán también los asuntos de competencia propia de la Comisión de Gobierno y del Alcalde o Presidente:",
+      "options": [
+        "Siempre que impliquen la aprobación de disposiciones de carácter general.",
+        "Cuando lo solicite la cuarta parte de los miembros de la Comisión.",
+        "Cuando les sean sometidos a su conocimiento por expresa decisión de aquéllos.",
+        "En ningún caso, pues su función se limita a los asuntos que decide el Pleno."
+      ],
+      "correct": 2,
+      "exp": "El art. 123.2 ROF: «Igualmente informarán aquellos asuntos de la competencia propia de la Comisión de Gobierno, y del Alcalde o Presidente, que les sean sometidos a su conocimiento por expresa decisión de aquéllos».",
+      "fuente": "Art. 123.2 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 125.c) ROF, la adscripción concreta a cada Comisión Informativa de los miembros que deban formar parte de ella en representación de cada grupo se realiza:",
+      "options": [
+        "Mediante acuerdo del Pleno adoptado por mayoría absoluta.",
+        "Mediante resolución del Alcalde, oídos los portavoces de los grupos.",
+        "Mediante elección efectuada en el seno de la propia Comisión.",
+        "Mediante escrito del portavoz del grupo dirigido al Alcalde o Presidente, del que se dará cuenta al Pleno."
+      ],
+      "correct": 3,
+      "exp": "El art. 125.c) ROF prevé la adscripción «mediante escrito del portavoz del mismo dirigido al Alcalde o Presidente, y del que se dará cuenta al Pleno», pudiendo designarse de igual forma un suplente por cada titular.",
+      "fuente": "Art. 125.c) ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Respecto de la Comisión Especial de Cuentas, el art. 127.1 ROF señala que es de existencia preceptiva según el art. 116 de la Ley 7/1985 y que su constitución, composición e integración y funcionamiento:",
+      "options": [
+        "Se regulan exclusivamente por el Reglamento Orgánico de la entidad.",
+        "Se ajustan a lo establecido para las demás Comisiones Informativas.",
+        "Se rigen por la legislación reguladora de la contabilidad de las entidades locales.",
+        "Se determinan por acuerdo del Pleno adoptado por mayoría absoluta."
+      ],
+      "correct": 1,
+      "exp": "El art. 127.1 ROF dispone que su constitución, composición e integración y funcionamiento «se ajusta a lo establecido para las demás Comisiones Informativas».",
+      "fuente": "Art. 127.1 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 127.3 ROF, bien a través del reglamento orgánico o mediante acuerdo del Pleno, la Comisión Especial de Cuentas podrá:",
+      "options": [
+        "Delegar en la Intervención el examen e informe de las cuentas extrapresupuestarias.",
+        "Sustituir al Pleno en la aprobación de la cuenta general de la entidad.",
+        "Actuar como Comisión informativa permanente para los asuntos relativos a economía y hacienda de la entidad.",
+        "Constituirse como Comisión informativa especial que se extingue tras informar las cuentas."
+      ],
+      "correct": 2,
+      "exp": "El art. 127.3 ROF permite que la Comisión Especial de Cuentas «podrá actuar como Comisión informativa permanente para los asuntos relativos a economía y hacienda de la entidad».",
+      "fuente": "Art. 127.3 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 134.1 ROF, la periodicidad de las sesiones ordinarias de las Comisiones informativas se acuerda por:",
+      "options": [
+        "El Pleno, en el momento de constituirlas, celebrándose en los días y horas que establezca el Alcalde o Presidente de la Corporación o el respectivo Presidente de la Comisión.",
+        "La propia Comisión en su sesión constitutiva, por mayoría absoluta de sus componentes.",
+        "El Alcalde o Presidente mediante resolución, sin que pueda exceder del límite trimestral.",
+        "La Comisión de Gobierno, a propuesta del Presidente de cada Comisión."
+      ],
+      "correct": 0,
+      "exp": "El art. 134.1 ROF: las Comisiones informativas celebrarán sesiones ordinarias «con la periodicidad que acuerde el Pleno en el momento de constituirlas, en los días y horas que establezca el Alcalde o Presidente de la Corporación, o su respectivo Presidente».",
+      "fuente": "Art. 134.1 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 134.1 ROF, el Alcalde o Presidente de la Corporación, o el Presidente de la Comisión, está obligado a convocar sesión extraordinaria de una Comisión informativa cuando lo solicite:",
+      "options": [
+        "La mayoría absoluta de los miembros de la Comisión.",
+        "Un tercio, al menos, de los miembros de la Comisión.",
+        "Cualquiera de los portavoces de los grupos políticos representados en la Comisión.",
+        "La cuarta parte, al menos, de los miembros de la Comisión."
+      ],
+      "correct": 3,
+      "exp": "El art. 134.1 ROF impone la obligación de convocar sesión extraordinaria «cuando lo solicite la cuarta parte, al menos, de los miembros de la Comisión».",
+      "fuente": "Art. 134.1 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Las convocatorias de las sesiones de las Comisiones informativas deberán notificarse a sus miembros o, en su caso, a los grupos municipales, según el art. 134.3 ROF, con una antelación de:",
+      "options": [
+        "Veinticuatro horas, salvo las urgentes.",
+        "Dos días hábiles, salvo las urgentes.",
+        "Tres días hábiles, sin excepción.",
+        "Dos días naturales, salvo las urgentes."
+      ],
+      "correct": 1,
+      "exp": "El art. 134.3 ROF exige notificar las convocatorias «con una antelación de dos días hábiles, salvo las urgentes», acompañando en todo caso el orden del día.",
+      "fuente": "Art. 134.3 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Para la válida celebración de las sesiones de las Comisiones informativas, el art. 135.1 ROF exige:",
+      "options": [
+        "Un tercio de sus componentes en primera convocatoria, que nunca podrá ser inferior a tres.",
+        "La mayoría simple de sus componentes en primera convocatoria y dos miembros en segunda, dos días después.",
+        "La presencia de la mayoría absoluta de sus componentes, titulares o suplentes, en primera convocatoria, y un mínimo de tres miembros en segunda convocatoria una hora más tarde.",
+        "La presencia de la mayoría absoluta de sus componentes tanto en primera como en segunda convocatoria."
+      ],
+      "correct": 2,
+      "exp": "El art. 135.1 ROF exige «la presencia de la mayoría absoluta de los componentes de la Comisión, ya sean titulares o suplentes, en primera convocatoria y un mínimo de tres miembros en segunda convocatoria una hora más tarde».",
+      "fuente": "Art. 135.1 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 135.3 ROF, los dictámenes de las Comisiones informativas se aprobarán:",
+      "options": [
+        "Siempre por mayoría simple de los presentes, decidiendo los empates el Presidente con voto de calidad.",
+        "Por mayoría absoluta del número legal de componentes de la Comisión.",
+        "Por mayoría simple, resolviéndose los empates mediante nueva votación en la sesión siguiente.",
+        "Por la mayoría cualificada que en cada caso exija el acuerdo plenario que vayan a dictaminar."
+      ],
+      "correct": 0,
+      "exp": "El art. 135.3 ROF: «Los dictámenes se aprobarán siempre por mayoría simple de los presentes, decidiendo los empates el Presidente con voto de calidad».",
+      "fuente": "Art. 135.3 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 136.1 ROF prohíbe que una Comisión informativa delibere sobre asuntos de la competencia de otra, salvo que se trate de problemas comunes, en cuyo caso podrá convocarse una sesión conjunta por:",
+      "options": [
+        "El Pleno, mediante acuerdo adoptado a propuesta del Alcalde.",
+        "Cada uno de los Presidentes de las Comisiones afectadas, de común acuerdo.",
+        "La Comisión de Gobierno, oídos los portavoces de los grupos.",
+        "El Presidente de la Corporación, a propuesta de los de las respectivas Comisiones."
+      ],
+      "correct": 3,
+      "exp": "El art. 136.1 ROF prevé que, tratándose de problemas comunes, «podrá convocarse por el Presidente de la Corporación, a propuesta de los de las respectivas Comisiones, una sesión conjunta».",
+      "fuente": "Art. 136.1 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "De acuerdo con el art. 136.2 ROF, el dictamen de la Comisión informativa podrá:",
+      "options": [
+        "Limitarse a devolver el expediente a los servicios administrativos para su reelaboración.",
+        "Limitarse a mostrar su conformidad con la propuesta que le sometan los servicios administrativos competentes o bien formular una alternativa.",
+        "Sustituir la propuesta de los servicios administrativos por un acuerdo directamente ejecutivo.",
+        "Contener únicamente la parte expositiva, correspondiendo al Pleno redactar el acuerdo."
+      ],
+      "correct": 1,
+      "exp": "El art. 136.2 ROF: «El dictamen de la Comisión podrá limitarse a mostrar su conformidad con la propuesta que le sea sometida por los servicios administrativos competentes o bien formular una alternativa».",
+      "fuente": "Art. 136.2 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 136.3 ROF, los miembros de la Comisión que disientan del dictamen aprobado por ésta podrán:",
+      "options": [
+        "Exigir que el asunto vuelva a dictaminarse en la siguiente sesión de la Comisión.",
+        "Solicitar que el dictamen se someta al Pleno como proposición urgente.",
+        "Pedir que conste su voto en contra o formular voto particular para su defensa ante el Pleno.",
+        "Presentar enmiendas al dictamen ante la propia Comisión hasta el día de la sesión plenaria."
+      ],
+      "correct": 2,
+      "exp": "El art. 136.3 ROF permite a los disidentes «pedir que conste su voto en contra o formular voto particular para su defensa ante el Pleno».",
+      "fuente": "Art. 136.3 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 137.1 ROF, ¿a las sesiones de qué Comisión asistirá en todo caso el funcionario responsable de la Intervención?",
+      "options": [
+        "A las de la Comisión de Hacienda.",
+        "A las de la Comisión Especial de Cuentas, únicamente.",
+        "A las de todas las Comisiones informativas permanentes.",
+        "A las de la Comisión informativa que dictamine ordenanzas fiscales."
+      ],
+      "correct": 0,
+      "exp": "El art. 137.1 ROF, párrafo segundo: «A las sesiones de la Comisión de Hacienda asistirá, en todo caso, el funcionario responsable de la Intervención».",
+      "fuente": "Art. 137.1 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 137.2 ROF regula el acta de las sesiones de las Comisiones informativas. A ella se acompañarán:",
+      "options": [
+        "Los informes de la Secretaría y de la Intervención emitidos en el expediente.",
+        "Únicamente los dictámenes aprobados, sin los votos particulares.",
+        "El texto íntegro de las intervenciones de cada miembro de la Comisión.",
+        "Los dictámenes que hayan sido aprobados y los votos particulares que hayan sido formulados a aquéllos."
+      ],
+      "correct": 3,
+      "exp": "El art. 137.2 ROF exige que al acta se acompañen «los dictámenes que hayan sido aprobados y los votos particulares que hayan sido formulados a aquéllos».",
+      "fuente": "Art. 137.2 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "En todo lo no previsto en la Sección del ROF sobre reglas especiales de funcionamiento de las Comisiones informativas, el art. 138 ROF dispone que serán de aplicación:",
+      "options": [
+        "Las normas de la legislación de procedimiento administrativo común sobre órganos colegiados.",
+        "Las disposiciones sobre funcionamiento del Pleno.",
+        "Las disposiciones sobre funcionamiento de la Comisión de Gobierno.",
+        "Las normas que acuerde en cada caso la propia Comisión a propuesta de su Presidente."
+      ],
+      "correct": 1,
+      "exp": "El art. 138 ROF: «En todo lo no previsto en esta Sección serán de aplicación las disposiciones sobre funcionamiento del Pleno».",
+      "fuente": "Art. 138 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 196.2 ROF, las Ordenanzas y Reglamentos, incluidas las normas de los planes urbanísticos:",
+      "options": [
+        "Entran en vigor al día siguiente de su aprobación definitiva por el Pleno.",
+        "Se publican en el «Boletín Oficial del Estado» y entran en vigor a los veinte días.",
+        "Se publican en el «Boletín Oficial» de la Provincia y no entran en vigor hasta que se haya publicado completamente su texto y haya transcurrido el plazo previsto en el art. 65.2 de la Ley 7/1985.",
+        "Se publican en el tablón de edictos de la Corporación y entran en vigor de forma inmediata."
+      ],
+      "correct": 2,
+      "exp": "El art. 196.2 ROF exige la publicación en el «Boletín Oficial» de la Provincia y condiciona la entrada en vigor a la publicación completa del texto y al transcurso del plazo del art. 65.2 de la Ley 7/1985.",
+      "fuente": "Art. 196.2 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Entre las atribuciones que el art. 50 ROF reconoce al Pleno del Ayuntamiento figura, en su apartado 3:",
+      "options": [
+        "Aprobar el Reglamento Orgánico, las Ordenanzas y demás disposiciones de carácter general que sean de la competencia municipal.",
+        "Hacer cumplir las Ordenanzas y Reglamentos municipales.",
+        "Sancionar las infracciones de las Ordenanzas municipales.",
+        "Dictaminar con carácter previo las Ordenanzas fiscales y sus modificaciones."
+      ],
+      "correct": 0,
+      "exp": "El art. 50.3 ROF atribuye al Pleno «aprobar el Reglamento Orgánico, las Ordenanzas y demás disposiciones de carácter general que sean de la competencia municipal».",
+      "fuente": "Art. 50.3 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 129.3 ROF, el Reglamento de las Juntas Municipales de Distrito:",
+      "options": [
+        "Requiere para su aprobación el informe favorable de la Comisión de Gobierno.",
+        "Tiene rango de ordenanza fiscal a efectos de su tramitación.",
+        "Solo podrá aprobarse cuando lo prevea expresamente el Reglamento Orgánico.",
+        "Se considerará, a todos los efectos, parte integrante del Reglamento Orgánico."
+      ],
+      "correct": 3,
+      "exp": "El art. 129.3 ROF dispone que «el Reglamento de las Juntas Municipales de Distrito se considerará, a todos los efectos, parte integrante del Reglamento Orgánico».",
+      "fuente": "Art. 129.3 ROF (RD 2568/1986)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 94.1.a) y f) ROF, durante el debate plenario:",
+      "options": [
+        "Solo podrá hacerse uso de la palabra previa autorización del Alcalde o Presidente, y no se admitirán otras interrupciones que las del Presidente para llamar al orden o a la cuestión debatida.",
+        "Cualquier miembro podrá intervenir sin autorización previa siempre que lo haga desde su escaño.",
+        "Las interrupciones de los portavoces se admitirán cuando afecten a cuestiones de legalidad.",
+        "El Secretario autorizará el uso de la palabra conforme al orden de solicitud."
+      ],
+      "correct": 0,
+      "exp": "El art. 94.1.a) ROF exige autorización previa del Alcalde o Presidente para el uso de la palabra y la letra f) del mismo apartado sólo admite las interrupciones del Presidente «para llamar al orden o a la cuestión debatida».",
+      "fuente": "Art. 94.1.a) y f) ROF (RD 2568/1986)",
+      "confianza": "alta"
+    }
+  ]
+}
