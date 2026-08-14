@@ -159,7 +159,7 @@
     screens.quiz.innerHTML = `
       <div class="quiz-top">
         <span>Pregunta ${i+1} de ${qs.length}</span>
-        <span>✅ ${quizState.correctCount}</span>
+        <span>${rachaHtml()}✅ ${quizState.correctCount}</span>
       </div>
       <div class="progress-bar"><div class="fill" style="width:${pct}%"></div></div>
       <div class="question-box">
@@ -191,6 +191,16 @@
     if(isCorrect) quizState.correctCount++;
     else quizState.sessionFails.push({tema:q.tema, q:q.q, chosen:q.options[chosenIdx], correct:q.options[q.correct]});
 
+    /* racha de aciertos seguidos (persistente, ver storage.js) */
+    let hito = null;
+    if(isCorrect){
+      state.streak = (state.streak || 0) + 1;
+      if(state.streak > (state.bestStreak || 0)) state.bestStreak = state.streak;
+      hito = hitoDeRacha(state.streak);
+    } else {
+      state.streak = 0;
+    }
+
     // progreso persistente
     const s = state.progress[q.tema] || {seen:0, correct:0};
     s.seen++; if(isCorrect) s.correct++;
@@ -214,6 +224,96 @@
       <button class="next-btn" id="btn-next">${quizState.index+1 < quizState.questions.length ? 'Siguiente →' : 'Ver resultados'}</button>
     `;
     document.getElementById('btn-next').addEventListener('click', nextQuestion);
+
+    if(hito) celebrarRacha(hito);
+  }
+
+  /* ---------- rachas de aciertos ----------
+     Los hitos se celebran una vez por racha. Pasados los 100 se vuelve a
+     celebrar cada 100, para que una racha muy larga siga teniendo premio. */
+  function hitoDeRacha(n){
+    const HITOS = {
+      10:  {emoji:'🔥', titulo:'¡10 seguidas!',  frase:'Estás entrando en racha. Sigue así.',        fiesta:false},
+      25:  {emoji:'⚡', titulo:'¡25 seguidas!',  frase:'Esto ya no es suerte: te lo sabes.',          fiesta:false},
+      50:  {emoji:'🏆', titulo:'¡50 seguidas!',  frase:'Media centena sin fallar. Vas muy en serio.', fiesta:false}
+    };
+    if(HITOS[n]) return Object.assign({n}, HITOS[n]);
+    if(n >= 100 && n % 100 === 0){
+      return {
+        n,
+        emoji:'🎉',
+        titulo:`¡${n} SEGUIDAS!`,
+        frase: n === 100
+          ? 'Cien aciertos sin un solo fallo. Esto hay que celebrarlo.'
+          : `${n} aciertos seguidos. Esto ya es de otro nivel.`,
+        fiesta:true
+      };
+    }
+    return null;
+  }
+
+  function rachaHtml(){
+    const n = state.streak || 0;
+    if(n < 3) return '';                       // por debajo de 3 no es una racha
+    return `<span class="racha" title="Aciertos seguidos">🔥 ${n}</span> `;
+  }
+
+  function celebrarRacha(hito){
+    // Vibración: solo el hito grande, y solo si el dispositivo lo soporta
+    // (Android/Chrome; en iOS la API no existe y se ignora sin romper nada).
+    if(hito.fiesta && navigator.vibrate){
+      try{ navigator.vibrate([0,120,70,120,70,260]); }catch(e){}
+    }
+
+    const overlay = document.createElement('div');
+    overlay.className = 'racha-overlay' + (hito.fiesta ? ' fiesta' : '');
+    overlay.innerHTML = `
+      ${hito.fiesta ? '<div class="confeti" aria-hidden="true"></div>' : ''}
+      <div class="racha-card" role="alert">
+        <div class="racha-emoji">${hito.emoji}</div>
+        <div class="racha-num">${hito.n}</div>
+        <div class="racha-titulo">${esc(hito.titulo)}</div>
+        <div class="racha-frase">${esc(hito.frase)}</div>
+        ${state.bestStreak > hito.n ? `<div class="racha-record">Tu récord: ${state.bestStreak}</div>` : '<div class="racha-record">¡Nuevo récord!</div>'}
+        <button class="racha-btn" type="button">${hito.fiesta ? '¡Vamos! 🚀' : 'Seguir'}</button>
+      </div>
+    `;
+    document.body.appendChild(overlay);
+
+    if(hito.fiesta) lanzarConfeti(overlay.querySelector('.confeti'));
+
+    let cerrado = false;
+    function cerrar(){
+      if(cerrado) return;
+      cerrado = true;
+      clearTimeout(auto);
+      overlay.classList.add('salir');
+      setTimeout(()=>overlay.remove(), 260);
+    }
+    overlay.querySelector('.racha-btn').addEventListener('click', cerrar);
+    overlay.addEventListener('click', e=>{ if(e.target === overlay) cerrar(); });
+    // Los hitos pequeños se quitan solos para no cortar el ritmo del test;
+    // la fiesta de los 100 espera a que se cierre a mano.
+    const auto = hito.fiesta ? null : setTimeout(cerrar, 2600);
+  }
+
+  function lanzarConfeti(contenedor){
+    if(!contenedor) return;
+    const COLORES = ['#c8102e','#ffd200','#2a9d8f','#1d3557','#ff7b00','#7b5cff'];
+    let html = '';
+    for(let i=0;i<110;i++){
+      const izq = Math.random()*100;
+      const dur = 2.4 + Math.random()*2.2;
+      const retraso = Math.random()*0.9;
+      const giro = Math.random()*720 - 360;
+      const color = COLORES[i % COLORES.length];
+      const ancho = 6 + Math.random()*6;
+      const alto = 9 + Math.random()*10;
+      const redondo = Math.random() < 0.25 ? '50%' : '2px';
+      html += `<i style="left:${izq}%;background:${color};width:${ancho}px;height:${alto}px;border-radius:${redondo};`
+           +  `animation-duration:${dur}s;animation-delay:${retraso}s;--giro:${giro}deg"></i>`;
+    }
+    contenedor.innerHTML = html;
   }
 
   function nextQuestion(){
@@ -243,6 +343,10 @@
         <div class="lbl">${correct}/${total} correctas</div>
       </div>
       <div class="result-summary">${pct>=80?'¡Excelente dominio del tema! 🎉':pct>=60?'Vas bien, sigue repasando 💪':'Toca repasar más este bloque 📖'}</div>
+      <div class="racha-resumen">
+        <span>🔥 Racha actual: <b>${state.streak||0}</b></span>
+        <span>🏅 Tu récord: <b>${state.bestStreak||0}</b></span>
+      </div>
       ${failHtml}
       <button class="mode-btn" id="btn-again">🔁 Repetir</button>
       <button class="mode-btn secondary" id="btn-home">🏠 Volver al inicio</button>

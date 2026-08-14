@@ -46,6 +46,8 @@
     return {
       progress: {},    // {temaId: {seen, correct}}
       failHistory: [], // [{tema, q}]
+      streak: 0,       // aciertos seguidos ahora mismo
+      bestStreak: 0,   // récord de aciertos seguidos
       updatedAt: null
     };
   }
@@ -55,6 +57,11 @@
     if(!raw || typeof raw !== 'object') return s;
     if(raw.progress && typeof raw.progress === 'object') s.progress = raw.progress;
     if(Array.isArray(raw.failHistory)) s.failHistory = raw.failHistory;
+    // La racha se guarda para que no se pierda al cerrar la app: llegar a
+    // 100 seguidas es imposible dentro de un solo test de 20-50 preguntas.
+    if(Number.isFinite(raw.streak) && raw.streak >= 0) s.streak = raw.streak;
+    if(Number.isFinite(raw.bestStreak) && raw.bestStreak >= 0) s.bestStreak = raw.bestStreak;
+    if(s.bestStreak < s.streak) s.bestStreak = s.streak;
     s.updatedAt = raw.updatedAt || null;
     return s;
   }
@@ -119,7 +126,7 @@
       const data = { app:'opotest', version:1, exportedAt:new Date().toISOString(), oposiciones:{} };
       for(const slug of slugs){
         const s = await this.load(slug);
-        if(Object.keys(s.progress).length || s.failHistory.length) data.oposiciones[slug] = s;
+        if(Object.keys(s.progress).length || s.failHistory.length || s.bestStreak) data.oposiciones[slug] = s;
       }
       return JSON.stringify(data, null, 2);
     },

@@ -45842,3 +45842,527 @@ window.addQuestions('aux-admin-zaragoza', 16, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 16 · lote 2026-08-14 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 16, [
+  {
+    "q": "Conforme al art. 55 del TRRL, ¿a quién corresponde dictar los Bandos?",
+    "options": [
+      "Al Pleno de la Corporación, por mayoría absoluta.",
+      "A los Alcaldes.",
+      "A la Junta de Gobierno Local, a propuesta del Alcalde.",
+      "Al Secretario de la Corporación, previo informe del Interventor."
+    ],
+    "correct": 1,
+    "exp": "El art. 55 TRRL distingue dos titularidades: las Entidades locales aprueban Ordenanzas y Reglamentos, y son «los Alcaldes» quienes dictan Bandos.",
+    "fuente": "Art. 55 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué expresión emplea el art. 55 del TRRL para delimitar el ámbito material en que las Entidades locales pueden aprobar Ordenanzas y Reglamentos?",
+    "options": [
+      "«En el ejercicio de sus competencias delegadas».",
+      "«Dentro del ámbito de la legislación sectorial aplicable».",
+      "«En la esfera de su competencia».",
+      "«En materias de interés local que no estén reservadas a la ley»."
+    ],
+    "correct": 2,
+    "exp": "El art. 55 TRRL comienza literalmente: «En la esfera de su competencia, las Entidades locales podrán aprobar Ordenanzas y Reglamentos...».",
+    "fuente": "Art. 55 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 55 del TRRL atribuye la potestad de aprobar Ordenanzas y Reglamentos a:",
+    "options": [
+      "Las Entidades locales, sin restringirla a los Municipios.",
+      "Únicamente a los Municipios de gran población.",
+      "Exclusivamente a los Municipios y a las Provincias, con exclusión de las demás Entidades locales.",
+      "Solo a las Entidades locales que hayan aprobado previamente un Reglamento orgánico."
+    ],
+    "correct": 0,
+    "exp": "El art. 55 TRRL se refiere genéricamente a «las Entidades locales», sin limitar la potestad normativa a un tipo concreto de ellas ni condicionarla a requisitos previos.",
+    "fuente": "Art. 55 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La prohibición de contener preceptos opuestos a las leyes que establece el art. 55 del TRRL alcanza a:",
+    "options": [
+      "Solo a las Ordenanzas, por ser las únicas normas con eficacia externa.",
+      "Solo a las Ordenanzas y a los Reglamentos, quedando los Bandos al margen.",
+      "Solo a los Reglamentos orgánicos y a las ordenanzas fiscales.",
+      "A las Ordenanzas, los Reglamentos y los Bandos por igual."
+    ],
+    "correct": 3,
+    "exp": "El art. 55 TRRL cierra con «En ningún caso contendrán preceptos opuestos a las leyes», referido conjuntamente a las tres figuras enunciadas en la frase anterior: Ordenanzas, Reglamentos y Bandos.",
+    "fuente": "Art. 55 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes figuras NO aparece mencionada en el art. 55 del TRRL al enunciar la potestad normativa de las Entidades locales?",
+    "options": [
+      "Los Reglamentos.",
+      "Los Bandos.",
+      "Las Instrucciones y circulares de servicio.",
+      "Las Ordenanzas."
+    ],
+    "correct": 2,
+    "exp": "El art. 55 TRRL solo cita Ordenanzas, Reglamentos y Bandos; no menciona instrucciones ni circulares de servicio.",
+    "fuente": "Art. 55 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 55 del TRRL emplea la fórmula «podrán aprobar Ordenanzas y Reglamentos». De ello se desprende que:",
+    "options": [
+      "Toda Entidad local está obligada a aprobar al menos una Ordenanza y un Reglamento por mandato del propio precepto.",
+      "Se trata de una habilitación o potestad, no de un deber de aprobar tales normas impuesto por el precepto.",
+      "La aprobación queda condicionada a la previa autorización de la Comunidad Autónoma.",
+      "La potestad solo puede ejercerse una vez por mandato corporativo."
+    ],
+    "correct": 1,
+    "exp": "El art. 55 TRRL está redactado en términos habilitantes («podrán aprobar»), reconociendo la potestad normativa en la esfera de su competencia, sin imponer en ese precepto el deber de dictar normas concretas.",
+    "fuente": "Art. 55 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el reparto que hace el art. 55 del TRRL entre las figuras normativas locales, señale la afirmación correcta:",
+    "options": [
+      "El Alcalde aprueba las Ordenanzas y la Entidad local dicta los Bandos.",
+      "Tanto las Ordenanzas como los Bandos son aprobados por la Entidad local.",
+      "Las Ordenanzas y los Reglamentos se aprueban por las Entidades locales y los Bandos los dictan los Alcaldes.",
+      "Los Reglamentos los dicta el Alcalde y los Bandos el Pleno."
+    ],
+    "correct": 2,
+    "exp": "El art. 55 TRRL asigna la aprobación de Ordenanzas y Reglamentos a las Entidades locales y la emisión de Bandos a los Alcaldes.",
+    "fuente": "Art. 55 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La cláusula «En ningún caso contendrán preceptos opuestos a las leyes» del art. 55 del TRRL debe entenderse:",
+    "options": [
+      "Como un límite absoluto, sin excepción por razones de urgencia, interés general o mayoría reforzada.",
+      "Como un límite que puede salvarse si la norma local se aprueba por mayoría absoluta del Pleno.",
+      "Como un límite aplicable únicamente a las leyes estatales, no a las autonómicas.",
+      "Como una recomendación de técnica normativa sin consecuencias jurídicas."
+    ],
+    "correct": 0,
+    "exp": "La expresión legal es «En ningún caso», sin salvedad alguna, y se refiere a «las leyes» sin distinguir su procedencia estatal o autonómica.",
+    "fuente": "Art. 55 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Complete conforme al art. 55 del TRRL: «En la esfera de su competencia, las Entidades locales podrán aprobar Ordenanzas y Reglamentos, y los Alcaldes dictar Bandos. En ningún caso contendrán preceptos ______».",
+    "options": [
+      "contrarios al interés general del Municipio",
+      "opuestos a las leyes",
+      "que invadan la potestad reglamentaria del Gobierno",
+      "de carácter sancionador"
+    ],
+    "correct": 1,
+    "exp": "El art. 55 TRRL termina: «En ningún caso contendrán preceptos opuestos a las leyes».",
+    "fuente": "Art. 55 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 55 del TRRL, el ejercicio de la potestad normativa local:",
+    "options": [
+      "Requiere autorización previa del órgano competente de la Comunidad Autónoma.",
+      "Requiere ratificación posterior de la Administración del Estado.",
+      "Requiere dictamen preceptivo del Consejo de Estado en todo caso.",
+      "No se somete en dicho precepto a autorización ni ratificación de otra Administración."
+    ],
+    "correct": 3,
+    "exp": "El art. 55 TRRL reconoce la potestad «en la esfera de su competencia» con el único límite expreso de no contener preceptos opuestos a las leyes; no exige autorización ni ratificación de otra Administración.",
+    "fuente": "Art. 55 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué precepto del TRRL reconoce conjuntamente la potestad de las Entidades locales para aprobar Ordenanzas y Reglamentos y la de los Alcaldes para dictar Bandos?",
+    "options": [
+      "El art. 53.",
+      "El art. 54.",
+      "El art. 55.",
+      "El art. 57."
+    ],
+    "correct": 2,
+    "exp": "Es el art. 55 TRRL, incluido en el Título V (disposiciones comunes a las Entidades locales), Capítulo I, sobre régimen de funcionamiento.",
+    "fuente": "Art. 55 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Respecto de los Bandos, del art. 55 del TRRL se deduce que:",
+    "options": [
+      "Solo pueden dictarse en situaciones de emergencia expresamente declaradas por el Pleno.",
+      "Al dictarlos, el Alcalde queda igualmente sujeto a la prohibición de incluir preceptos opuestos a las leyes.",
+      "Pueden contener preceptos opuestos a las leyes cuando se dicten por razones de orden público.",
+      "Deben ser ratificados por el Pleno en la primera sesión que celebre."
+    ],
+    "correct": 1,
+    "exp": "El límite final del art. 55 TRRL («En ningún caso contendrán preceptos opuestos a las leyes») se proyecta también sobre los Bandos, mencionados en la misma frase del precepto.",
+    "fuente": "Art. 55 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Señale la afirmación INCORRECTA sobre el art. 55 del TRRL:",
+    "options": [
+      "Reconoce la potestad normativa a las Entidades locales en la esfera de su competencia.",
+      "Atribuye a los Alcaldes la facultad de dictar Bandos.",
+      "Establece que en ningún caso las normas locales contendrán preceptos opuestos a las leyes.",
+      "Enumera y clasifica las infracciones a las Ordenanzas en muy graves, graves y leves."
+    ],
+    "correct": 3,
+    "exp": "El art. 55 TRRL no clasifica infracciones; se limita a habilitar la potestad normativa local y a fijar su límite de legalidad.",
+    "fuente": "Art. 55 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 55 del TRRL, al referirse al límite de la potestad normativa local, alude a:",
+    "options": [
+      "Los reglamentos del Estado y de las Comunidades Autónomas.",
+      "Los planes y programas sectoriales aprobados por el Estado.",
+      "Las leyes.",
+      "Los convenios interadministrativos suscritos por la Entidad local."
+    ],
+    "correct": 2,
+    "exp": "El art. 55 TRRL prohíbe que las normas locales contengan «preceptos opuestos a las leyes», sin mencionar reglamentos, planes ni convenios.",
+    "fuente": "Art. 55 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿A qué norma y precepto concretos remite el art. 56 del TRRL el procedimiento de aprobación de las Ordenanzas locales?",
+    "options": [
+      "Al art. 49 de la Ley 7/1985, de 2 de abril.",
+      "Al art. 49 del RD 2568/1986, por el que se aprueba el ROF.",
+      "Al art. 17 del texto refundido de la Ley Reguladora de las Haciendas Locales.",
+      "Al art. 133 de la Ley 39/2015, de 1 de octubre."
+    ],
+    "correct": 0,
+    "exp": "El art. 56 TRRL dispone que «la aprobación de las Ordenanzas locales se ajustará al procedimiento establecido en el artículo 49 de la Ley 7/1985, de 2 de abril».",
+    "fuente": "Art. 56 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 56 del TRRL identifica la Ley 7/1985 con la siguiente fecha:",
+    "options": [
+      "De 18 de abril.",
+      "De 2 de abril.",
+      "De 2 de octubre.",
+      "De 21 de abril."
+    ],
+    "correct": 1,
+    "exp": "El art. 56 TRRL se refiere expresamente a «la Ley 7/1985, de 2 de abril» (LBRL).",
+    "fuente": "Art. 56 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al segundo párrafo del art. 56 del TRRL, la modificación de las Ordenanzas y Reglamentos exige:",
+    "options": [
+      "Observar los mismos trámites que para su aprobación.",
+      "Solo la aprobación por el Pleno, sin necesidad de información pública.",
+      "Un procedimiento abreviado con un único trámite de exposición pública de quince días.",
+      "El acuerdo favorable de la mayoría absoluta del número legal de miembros de la Corporación en todo caso."
+    ],
+    "correct": 0,
+    "exp": "El art. 56, párrafo segundo, TRRL: «Para la modificación de las Ordenanzas y Reglamentos deberán observarse los mismos trámites que para su aprobación».",
+    "fuente": "Art. 56 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En el primer párrafo del art. 56 del TRRL, la remisión al procedimiento del art. 49 de la Ley 7/1985 se hace expresamente respecto de:",
+    "options": [
+      "Las Ordenanzas locales.",
+      "Las Ordenanzas, los Reglamentos y los Bandos.",
+      "Los Bandos de la Alcaldía únicamente.",
+      "Los Reglamentos orgánicos únicamente."
+    ],
+    "correct": 0,
+    "exp": "El primer párrafo del art. 56 TRRL se refiere literalmente a «la aprobación de las Ordenanzas locales»; los Reglamentos aparecen en el párrafo segundo, y los Bandos no se mencionan en el precepto.",
+    "fuente": "Art. 56 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes figuras NO se menciona en ninguno de los dos párrafos del art. 56 del TRRL?",
+    "options": [
+      "Las Ordenanzas.",
+      "Los Reglamentos.",
+      "La Ley 7/1985, de 2 de abril.",
+      "Los Bandos."
+    ],
+    "correct": 3,
+    "exp": "El art. 56 TRRL habla de Ordenanzas (párrafo primero y segundo) y de Reglamentos (párrafo segundo), remitiéndose a la Ley 7/1985; los Bandos no aparecen en el precepto.",
+    "fuente": "Art. 56 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Una Entidad local pretende modificar parcialmente una Ordenanza vigente mediante simple decreto de la Alcaldía, prescindiendo de los trámites seguidos para su aprobación. Conforme al art. 56 del TRRL:",
+    "options": [
+      "Es posible, siempre que la modificación no afecte a más de un tercio del articulado.",
+      "Es posible si el decreto se ratifica después por la Comisión competente.",
+      "No es posible: la modificación exige observar los mismos trámites que la aprobación.",
+      "Es posible, pues el art. 56 solo regula la aprobación inicial y no la modificación."
+    ],
+    "correct": 2,
+    "exp": "El art. 56, párrafo segundo, TRRL impone para la modificación «los mismos trámites que para su aprobación», sin excepciones por razón de la extensión de la reforma.",
+    "fuente": "Art. 56 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 56 del TRRL, al regular la modificación de las normas locales:",
+    "options": [
+      "Distingue entre modificaciones totales, sujetas a los trámites de aprobación, y parciales, exentas de ellos.",
+      "No introduce distinción alguna entre modificaciones totales y parciales.",
+      "Exige informe previo del Consejo de Estado para las modificaciones sustanciales.",
+      "Remite la cuestión a lo que disponga el Reglamento orgánico de cada Corporación."
+    ],
+    "correct": 1,
+    "exp": "El art. 56 TRRL se limita a exigir «los mismos trámites que para su aprobación», sin distinguir entre modificaciones totales o parciales ni remitir la materia al Reglamento orgánico.",
+    "fuente": "Art. 56 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El contenido propio del art. 56 del TRRL es:",
+    "options": [
+      "La prescripción de las infracciones de Ordenanzas, Reglamentos y Bandos.",
+      "El límite cuantitativo de las multas por infracción de Ordenanzas.",
+      "El procedimiento de aprobación de las Ordenanzas locales y los trámites de su modificación.",
+      "La responsabilidad de autoridades y funcionarios por resoluciones contrarias a las leyes."
+    ],
+    "correct": 2,
+    "exp": "El art. 56 TRRL contiene la remisión procedimental al art. 49 de la Ley 7/1985 y la regla de paralelismo de trámites para la modificación de Ordenanzas y Reglamentos.",
+    "fuente": "Art. 56 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La remisión que efectúa el art. 56 del TRRL implica que el procedimiento de aprobación de las Ordenanzas locales:",
+    "options": [
+      "Puede ser libremente configurado por el Reglamento orgánico de cada Corporación.",
+      "Está legalmente predeterminado por remisión al art. 49 de la Ley 7/1985.",
+      "Se determina en cada caso por acuerdo del Pleno al iniciar el expediente.",
+      "Se rige exclusivamente por la normativa autonómica de desarrollo."
+    ],
+    "correct": 1,
+    "exp": "El art. 56 TRRL no deja el procedimiento a la libre determinación local: lo sujeta al establecido en el art. 49 de la Ley 7/1985, de 2 de abril.",
+    "fuente": "Art. 56 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Un Alcalde pretende dictar un Bando siguiendo el procedimiento del art. 49 de la Ley 7/1985 por entender que se lo impone el art. 56 del TRRL. ¿Es correcta esa interpretación?",
+    "options": [
+      "Sí, porque el art. 56 equipara expresamente Bandos y Ordenanzas.",
+      "Sí, porque el art. 55 remite todos los instrumentos normativos locales al art. 56.",
+      "No, porque el art. 56 exige para los Bandos un procedimiento aún más solemne.",
+      "No, porque el art. 56 refiere esa remisión a las Ordenanzas locales y no menciona los Bandos."
+    ],
+    "correct": 3,
+    "exp": "El art. 56 TRRL sujeta al procedimiento del art. 49 de la Ley 7/1985 la aprobación de «las Ordenanzas locales», y en su párrafo segundo se refiere a Ordenanzas y Reglamentos; los Bandos no están contemplados en el precepto.",
+    "fuente": "Art. 56 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 56 del TRRL, para modificar un Reglamento orgánico municipal:",
+    "options": [
+      "Basta el acuerdo del Pleno, sin más trámites, por tratarse de una norma de autoorganización.",
+      "Deben observarse los mismos trámites que se siguieron para su aprobación.",
+      "Se requiere autorización previa de la Comunidad Autónoma.",
+      "Es preceptivo el informe favorable del Ministerio competente en materia de régimen local."
+    ],
+    "correct": 1,
+    "exp": "El párrafo segundo del art. 56 TRRL se refiere a la modificación de «las Ordenanzas y Reglamentos», exigiendo los mismos trámites que para su aprobación.",
+    "fuente": "Art. 56 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 56 del TRRL, respecto de la aprobación de las Ordenanzas locales:",
+    "options": [
+      "No regula directamente los trámites, sino que se remite al procedimiento de otra norma.",
+      "Regula por sí mismo y con detalle los trámites de aprobación inicial, información pública y aprobación definitiva.",
+      "Deroga expresamente el procedimiento previsto en la Ley 7/1985.",
+      "Establece un plazo de treinta días hábiles de información pública."
+    ],
+    "correct": 0,
+    "exp": "El art. 56 TRRL opera por remisión: no describe los trámites, sino que sujeta la aprobación al procedimiento del art. 49 de la Ley 7/1985.",
+    "fuente": "Art. 56 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 57 del TRRL, los plazos de prescripción aplicables a las infracciones de las Ordenanzas, Reglamentos y Bandos son los que establece:",
+    "options": [
+      "La Ley 39/2015, de 1 de octubre, para las infracciones administrativas leves.",
+      "La Ley General Tributaria para las infracciones tributarias.",
+      "El Código Penal para las faltas.",
+      "El Reglamento orgánico de cada Corporación."
+    ],
+    "correct": 2,
+    "exp": "El art. 57 TRRL remite a «los plazos de prescripción que establece el Código Penal para las faltas, sin perjuicio de lo que, en cada caso, establezcan las leyes».",
+    "fuente": "Art. 57 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El régimen de prescripción del art. 57 del TRRL se predica de las infracciones de:",
+    "options": [
+      "Las Ordenanzas, los Reglamentos y los Bandos.",
+      "Las Ordenanzas exclusivamente.",
+      "Las Ordenanzas y los Reglamentos, con exclusión de los Bandos.",
+      "Las Ordenanzas fiscales exclusivamente."
+    ],
+    "correct": 0,
+    "exp": "El art. 57 TRRL menciona expresamente las tres figuras: «las infracciones de las Ordenanzas, Reglamentos y Bandos».",
+    "fuente": "Art. 57 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La cláusula final del art. 57 del TRRL, «sin perjuicio de lo que, en cada caso, establezcan las leyes», significa que:",
+    "options": [
+      "La remisión al Código Penal cede ante lo que dispongan las leyes en cada caso.",
+      "La remisión al Código Penal es absoluta y no admite excepción legal alguna.",
+      "Solo las leyes autonómicas pueden fijar plazos distintos.",
+      "Los plazos podrán ser alterados por la propia Ordenanza que tipifique la infracción."
+    ],
+    "correct": 0,
+    "exp": "El art. 57 TRRL formula la remisión al Código Penal «sin perjuicio de lo que, en cada caso, establezcan las leyes», de modo que la previsión legal específica prevalece; el precepto no habilita a la Ordenanza para fijar esos plazos.",
+    "fuente": "Art. 57 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Señale la afirmación INCORRECTA sobre el art. 57 del TRRL:",
+    "options": [
+      "Se refiere a los plazos de prescripción de las infracciones.",
+      "Contiene una remisión a los plazos previstos en el Código Penal para las faltas.",
+      "Enumera en su propio texto los plazos concretos de prescripción, expresados en meses y años.",
+      "Admite que las leyes establezcan otra cosa en cada caso."
+    ],
+    "correct": 2,
+    "exp": "El art. 57 TRRL no fija plazos concretos: opera exclusivamente por remisión a los que el Código Penal establece para las faltas, salvo lo que dispongan las leyes.",
+    "fuente": "Art. 57 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué artículo del TRRL se ocupa de la prescripción de las infracciones a la normativa local?",
+    "options": [
+      "El art. 55.",
+      "El art. 56.",
+      "El art. 58.",
+      "El art. 57."
+    ],
+    "correct": 3,
+    "exp": "El art. 57 TRRL es el que regula, por remisión, los plazos de prescripción de las infracciones de Ordenanzas, Reglamentos y Bandos.",
+    "fuente": "Art. 57 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En cuanto a la prescripción de las infracciones de los Bandos de la Alcaldía, el art. 57 del TRRL:",
+    "options": [
+      "Nada dice, por lo que se aplica el régimen general de los actos administrativos.",
+      "Los incluye expresamente en su ámbito, junto con Ordenanzas y Reglamentos.",
+      "Los excluye por tratarse de actos y no de normas.",
+      "Los remite a lo que disponga el Reglamento orgánico de la Corporación."
+    ],
+    "correct": 1,
+    "exp": "El art. 57 TRRL cita expresamente las infracciones de «las Ordenanzas, Reglamentos y Bandos».",
+    "fuente": "Art. 57 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál es la diferencia de objeto entre los arts. 57 y 58 del TRRL?",
+    "options": [
+      "El art. 57 fija la cuantía de las multas y el art. 58 su graduación según la población.",
+      "El art. 57 regula el procedimiento de aprobación de las Ordenanzas y el art. 58 su modificación.",
+      "El art. 57 se refiere a los plazos de prescripción de las infracciones y el art. 58 a la exacción de las multas en defecto de pago voluntario.",
+      "El art. 57 se refiere a la responsabilidad de las autoridades y el art. 58 a la de los funcionarios."
+    ],
+    "correct": 2,
+    "exp": "El art. 57 TRRL trata de los plazos de prescripción de las infracciones; el art. 58 TRRL, del procedimiento de exacción de las multas impuestas cuando no hay pago voluntario.",
+    "fuente": "Art. 57 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 58 del TRRL, ¿cuál es el presupuesto que permite acudir al procedimiento previsto en dicho precepto para la exacción de multas por infracción de Ordenanzas?",
+    "options": [
+      "Que la infracción haya sido calificada como grave o muy grave.",
+      "Que el infractor haya interpuesto recurso contra la sanción.",
+      "Que la multa exceda de la cuantía fijada reglamentariamente.",
+      "El defecto de pago voluntario."
+    ],
+    "correct": 3,
+    "exp": "El art. 58 TRRL: «Para la exacción de multas por infracción de Ordenanzas, en defecto de pago voluntario, se seguirá el procedimiento administrativo de apremio».",
+    "fuente": "Art. 58 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El procedimiento al que remite el art. 58 del TRRL para la exacción de las multas por infracción de Ordenanzas es:",
+    "options": [
+      "El procedimiento administrativo de apremio.",
+      "El juicio monitorio ante el Juzgado de Primera Instancia.",
+      "El procedimiento de ejecución forzosa regulado en la Ley de Enjuiciamiento Civil.",
+      "El procedimiento sancionador abreviado."
+    ],
+    "correct": 0,
+    "exp": "El art. 58 TRRL ordena seguir «el procedimiento administrativo de apremio».",
+    "fuente": "Art. 58 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 58 del TRRL circunscribe expresamente su previsión a la exacción de multas por infracción de:",
+    "options": [
+      "Reglamentos y Bandos.",
+      "Ordenanzas.",
+      "Cualquier norma estatal, autonómica o local aplicable en el término municipal.",
+      "Ordenanzas fiscales exclusivamente."
+    ],
+    "correct": 1,
+    "exp": "El art. 58 TRRL habla de «multas por infracción de Ordenanzas», sin mencionar Reglamentos ni Bandos y sin limitarlo a las ordenanzas fiscales.",
+    "fuente": "Art. 58 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Señale la afirmación INCORRECTA sobre el art. 58 del TRRL:",
+    "options": [
+      "Prevé el procedimiento administrativo de apremio.",
+      "Su presupuesto de aplicación es el defecto de pago voluntario.",
+      "Se refiere a las multas por infracción de Ordenanzas.",
+      "Ordena remitir el expediente a la jurisdicción civil para el cobro de la multa."
+    ],
+    "correct": 3,
+    "exp": "El art. 58 TRRL no acude a la vía judicial civil: la exacción de la multa se realiza en vía administrativa, por el procedimiento de apremio.",
+    "fuente": "Art. 58 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué precepto del TRRL establece que, en defecto de pago voluntario, la exacción de las multas por infracción de Ordenanzas se realizará por el procedimiento administrativo de apremio?",
+    "options": [
+      "El art. 56.",
+      "El art. 57.",
+      "El art. 58.",
+      "El art. 60."
+    ],
+    "correct": 2,
+    "exp": "Es el art. 58 TRRL; el art. 57 se refiere a la prescripción de las infracciones y el art. 60 a la responsabilidad de autoridades y funcionarios.",
+    "fuente": "Art. 58 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Impuesta una multa por infracción de una Ordenanza municipal, el sancionado la abona dentro del plazo concedido. Conforme al art. 58 del TRRL:",
+    "options": [
+      "Debe iniciarse en todo caso el procedimiento de apremio para formalizar el ingreso.",
+      "No procede el procedimiento de apremio, que el precepto reserva al defecto de pago voluntario.",
+      "Procede el apremio con reducción del recargo a la mitad.",
+      "Procede el apremio solo si la multa supera la cuantía máxima prevista para el Municipio."
+    ],
+    "correct": 1,
+    "exp": "El art. 58 TRRL condiciona el recurso al procedimiento administrativo de apremio al «defecto de pago voluntario»; satisfecha la multa voluntariamente, no hay lugar a la vía de apremio.",
+    "fuente": "Art. 58 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 58 del TRRL regula, en sentido estricto:",
+    "options": [
+      "La tipificación de las infracciones de las Ordenanzas locales.",
+      "La graduación de las sanciones en función de la gravedad de la infracción.",
+      "El órgano competente para imponer la multa.",
+      "La exacción o cobro de la multa ya impuesta, cuando no se paga voluntariamente."
+    ],
+    "correct": 3,
+    "exp": "El art. 58 TRRL no tipifica infracciones ni atribuye competencia sancionadora: se refiere a la exacción de las multas por infracción de Ordenanzas en defecto de pago voluntario, mediante el procedimiento administrativo de apremio.",
+    "fuente": "Art. 58 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  }
+]);
