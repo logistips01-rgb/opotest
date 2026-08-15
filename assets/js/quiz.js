@@ -217,16 +217,56 @@
     }
     saveState();
 
+    /* La cita de la fuente va FUERA del texto recortable: si hay que cortar
+       la explicación para que quepa, el artículo citado no debe perderse. */
     document.getElementById('explain-box').innerHTML = `
-      <div class="explain">${isCorrect ? '✅ ¡Correcto! ' : '❌ Incorrecto. '}${esc(q.exp||'')}${
-        q.fuente ? `<div class="fuente">📖 ${esc(q.fuente)}</div>` : ''
-      }</div>
+      <div class="explain">
+        <div class="explain-text">${isCorrect ? '✅ ¡Correcto! ' : '❌ Incorrecto. '}${esc(q.exp||'')}</div>
+        ${q.fuente ? `<div class="fuente">📖 ${esc(q.fuente)}</div>` : ''}
+      </div>
       <button class="next-btn" id="btn-next">${quizState.index+1 < quizState.questions.length ? 'Siguiente →' : 'Ver resultados'}</button>
     `;
     document.getElementById('btn-next').addEventListener('click', nextQuestion);
 
+    ajustarExplicacion();
     if(hito) celebrarRacha(hito);
   }
+
+  /* Recorta la explicación lo justo para que "Siguiente" quede siempre
+     visible sin desplazar la pantalla. Se mide el desbordamiento real del
+     documento en vez de suponer una altura fija, porque depende del móvil,
+     de lo largo del enunciado y de las opciones. Con el banco actual salta
+     muy pocas veces: la explicación mediana son ~170 caracteres. */
+  const MIN_EXPLICACION = 38; // px: no recortar por debajo de ~2 líneas
+
+  function ajustarExplicacion(){
+    const texto = screens.quiz.querySelector('.explain-text');
+    if(!texto) return;
+
+    texto.style.maxHeight = '';
+    texto.classList.remove('recortada');
+
+    const sobra = document.documentElement.scrollHeight - window.innerHeight;
+    if(sobra <= 0) return;                       // ya cabe todo: nada que hacer
+
+    const alto = texto.getBoundingClientRect().height;
+    const objetivo = alto - sobra;
+    // Solo se recorta si con eso se elimina de verdad el desplazamiento. Si el
+    // desbordamiento lo causan el enunciado y las opciones (preguntas largas en
+    // pantallas pequeñas), recortar la explicación no evitaría el scroll: sería
+    // perder texto de estudio a cambio de nada, así que se deja íntegra.
+    if(objetivo < MIN_EXPLICACION) return;
+
+    texto.style.maxHeight = objetivo + 'px';
+    texto.classList.add('recortada');
+  }
+
+  // Si cambia el tamaño o se gira el móvil, se recalcula el recorte.
+  let reajuste;
+  window.addEventListener('resize', ()=>{
+    clearTimeout(reajuste);
+    reajuste = setTimeout(()=>{ if(quizState && quizState.answered) ajustarExplicacion(); }, 120);
+  });
 
   /* ---------- rachas de aciertos ----------
      Los hitos se celebran una vez por racha. Pasados los 100 se vuelve a

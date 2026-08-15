@@ -333,6 +333,22 @@ h2.section-title{
   font-weight:600;
   opacity:.85;
 }
+/* Explicación recortada para que "Siguiente" no quede tapado por la barra
+   inferior (lo calcula ajustarExplicacion() en quiz.js). El degradado avisa
+   de que el texto sigue: así el corte no parece un error de redacción. */
+.explain-text.recortada{
+  position:relative;
+  overflow:hidden;
+}
+.explain-text.recortada::after{
+  content:'';
+  position:absolute;
+  left:0;
+  right:0;
+  bottom:0;
+  height:22px;
+  background:linear-gradient(to bottom,rgba(255,251,230,0),#fffbe6);
+}
 .next-btn{
   margin-top:16px;
   width:100%;
