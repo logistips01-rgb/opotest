@@ -420,6 +420,49 @@ opciones y se volcaron al tema 3 ("Organización territorial del Estado.
 Estatuto de Aragón"), sin agentes adicionales — 260 nuevas, 0 duplicadas.
 Banco de Policía Local: de 3.909 a **4.169 preguntas**.
 
+## Tema 16 · Reglamentos y ordenanzas de los municipios — PRIMERA VUELTA CERRADA
+
+**302 preguntas** (de 140 que había), todas de 4 opciones. 4 lotes, uno por
+fuente legal, sobre los consolidados descargados con el sufijo `/con`.
+
+| Lote | Tramo | Confirmadas | Corregidas | Rechazadas |
+|---|---|---|---|---|
+| A | Ley de Capitalidad de Zaragoza (Ley 10/2017), arts. 48-49 | 40 | 0 | 0 |
+| B | TRRL (RDLeg 781/1986), arts. 55-58 | 40 | 0 | 0 |
+| C | ROF (RD 2568/1986): Comisiones Informativas, dictamen y publicación | 40 | 0 | 0 |
+| D | LBRL: arts. 4, 22, 47, 49 y 70.2 | 41 | 1 | 0 |
+
+Notas:
+- **Laguna real cubierta**: el tema no tenía ni una sola pregunta sobre los
+  arts. 48-49 de la **Ley de Capitalidad**, pese a que el enunciado oficial
+  del tema los menciona expresamente ("...y Reglamentos en la ley de
+  capitalidad de Zaragoza"). El lote A se dedicó íntegro a esa laguna.
+- **Error propio detectado por un agente**: al lanzar el lote B se le pasó
+  una descripción equivocada de los arts. 57 y 58 del TRRL (sacada de una
+  entrada antigua de `fuentes.json`). El redactor leyó el texto real, vio
+  que no cuadraba y redactó lo correcto, avisando en su informe: el art. 57
+  es **prescripción** de las infracciones (plazos del Código Penal para las
+  faltas), no el régimen sancionador general; y el art. 58 es apremio en
+  defecto de **pago voluntario**, no "de otro procedimiento". Se verificó a
+  mano y se corrigió `fuentes.json`. El revisor confirmó después que
+  ninguna de las 40 preguntas arrastraba el error.
+- La única corrección del lote D fue de precisión: una pregunta sobre la
+  competencia del Pleno para aprobar ordenanzas no acotaba el ámbito, y el
+  art. 33.2.b) LBRL atribuye "en todo caso" esa misma competencia al Pleno
+  de la **Diputación**, así que un distractor era defendible. El revisor
+  abrió el enunciado con "En el ámbito municipal, …".
+- Los 4 lotes cayeron más de una vez por límite de sesión y por un 529 del
+  servidor. En dos casos el agente **ya había escrito su archivo en disco**
+  antes de morir (lote F del tema 18 y lote D de este tema): se recuperaron
+  sin relanzar nada, solo comprobando el disco antes de dar el trabajo por
+  perdido.
+
+**Aprovechado para Policía Local**: las 302 preguntas se redujeron a 3
+opciones y se volcaron al tema 6 ("Bienes de las Entidades locales.
+Reglamentos y Ordenanzas locales") — 262 nuevas y 40 rechazadas por estar
+ya importadas en una ronda anterior. Banco de Policía Local: de 4.428 a
+**4.690 preguntas**.
+
 ## Tema 2 · Igualdad y violencia de género — PRIMERA VUELTA CERRADA
 
 **259 preguntas** (de 100 que había), todas de 4 opciones. 4 lotes de 40,

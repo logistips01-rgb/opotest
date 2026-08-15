@@ -46890,3 +46890,559 @@ window.addQuestions('aux-admin-zaragoza', 16, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 16 · lote 2026-08-15 · 42 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 16, [
+  {
+    "q": "El art. 49 LBRL articula el procedimiento de aprobación de las Ordenanzas locales en:",
+    "options": [
+      "Dos fases, identificadas con las letras a) y b).",
+      "Tres fases, identificadas con las letras a), b) y c).",
+      "Cuatro fases, identificadas con las letras a), b), c) y d).",
+      "Cinco fases, la última de las cuales es la publicación en el Boletín Oficial de la Provincia."
+    ],
+    "correct": 1,
+    "exp": "El art. 49 LBRL enuncia el procedimiento en tres letras: a) aprobación inicial por el Pleno; b) información pública y audiencia a los interesados; c) resolución de reclamaciones y sugerencias y aprobación definitiva por el Pleno. A ellas se añade un párrafo final sobre el supuesto de ausencia de reclamaciones, pero no una cuarta fase numerada.",
+    "fuente": "Art. 49 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El encabezamiento del art. 49 LBRL refiere el procedimiento que regula a la aprobación de:",
+    "options": [
+      "Las ordenanzas municipales exclusivamente.",
+      "Las ordenanzas y los bandos de la Alcaldía.",
+      "Las Ordenanzas locales.",
+      "Los reglamentos orgánicos, con exclusión de las ordenanzas."
+    ],
+    "correct": 2,
+    "exp": "El art. 49 LBRL comienza literalmente: «La aprobación de las Ordenanzas locales se ajustará al siguiente procedimiento». La expresión es «Ordenanzas locales», no solo municipales, y el precepto no menciona los bandos.",
+    "fuente": "Art. 49 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El plazo de treinta días previsto en el art. 49.b) LBRL para la presentación de reclamaciones y sugerencias:",
+    "options": [
+      "Es un plazo máximo, que el acuerdo de aprobación inicial no puede superar.",
+      "Es un plazo de treinta días exactos, sin posibilidad de ampliación ni reducción.",
+      "Es un plazo mínimo, de modo que el acuerdo de aprobación inicial puede fijar uno más amplio.",
+      "Es un plazo mínimo que, por razones de urgencia, puede reducirse a la mitad."
+    ],
+    "correct": 2,
+    "exp": "El art. 49.b) LBRL habla de «información pública y audiencia a los interesados por el plazo mínimo de treinta días». Al ser un mínimo legal, cabe señalar un plazo superior, pero no inferior, y el precepto no contempla reducción por urgencia.",
+    "fuente": "Art. 49.b) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La letra b) del art. 49 LBRL contempla, como segunda fase del procedimiento:",
+    "options": [
+      "Únicamente el trámite de información pública.",
+      "Únicamente el trámite de audiencia a los interesados.",
+      "La consulta pública previa a la redacción del texto y el informe de la Secretaría.",
+      "La información pública y la audiencia a los interesados."
+    ],
+    "correct": 3,
+    "exp": "El art. 49.b) LBRL prevé conjuntamente ambos trámites: «Información pública y audiencia a los interesados por el plazo mínimo de treinta días para la presentación de reclamaciones y sugerencias». No se trata de trámites alternativos.",
+    "fuente": "Art. 49.b) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Durante el trámite previsto en el art. 49.b) LBRL, ¿qué pueden presentar los interesados?",
+    "options": [
+      "Reclamaciones y sugerencias.",
+      "Recursos de reposición contra el acuerdo de aprobación inicial.",
+      "Alegaciones y recursos de alzada ante la Comunidad Autónoma.",
+      "Enmiendas y votos particulares al texto aprobado inicialmente."
+    ],
+    "correct": 0,
+    "exp": "El art. 49.b) LBRL abre el trámite «para la presentación de reclamaciones y sugerencias». Ese es el término legal; las enmiendas y votos particulares son figuras propias del debate en Comisión y Pleno, no del trámite de información pública.",
+    "fuente": "Art. 49.b) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 49.c) LBRL, en la fase de aprobación definitiva deben resolverse:",
+    "options": [
+      "Solo las reclamaciones que el Pleno considere fundadas.",
+      "Únicamente las reclamaciones, pues las sugerencias no requieren resolución.",
+      "Todas las reclamaciones y sugerencias presentadas, incluso las presentadas fuera de plazo.",
+      "Todas las reclamaciones y sugerencias presentadas dentro del plazo."
+    ],
+    "correct": 3,
+    "exp": "El art. 49.c) LBRL exige la «Resolución de todas las reclamaciones y sugerencias presentadas dentro del plazo y aprobación definitiva por el Pleno». El deber de resolver alcanza a todas ellas (reclamaciones y sugerencias), pero se limita a las presentadas dentro del plazo.",
+    "fuente": "Art. 49.c) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En el procedimiento del art. 49 LBRL, la aprobación inicial y la aprobación definitiva de la ordenanza corresponden, respectivamente:",
+    "options": [
+      "Al Pleno la inicial y al Alcalde la definitiva.",
+      "A la Junta de Gobierno Local la inicial y al Pleno la definitiva.",
+      "Al Pleno ambas.",
+      "Al Pleno la inicial y a la Comisión Informativa competente la definitiva."
+    ],
+    "correct": 2,
+    "exp": "Las letras a) y c) del art. 49 LBRL atribuyen las dos aprobaciones al mismo órgano: «a) Aprobación inicial por el Pleno» y «c) ... y aprobación definitiva por el Pleno».",
+    "fuente": "Art. 49.a) y c) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Si durante la información pública de una ordenanza no se hubiera presentado ninguna reclamación o sugerencia, el párrafo final del art. 49 LBRL determina que:",
+    "options": [
+      "Deberá celebrarse en todo caso nueva sesión plenaria para aprobar definitivamente el texto.",
+      "Se entenderá definitivamente adoptado el acuerdo hasta entonces provisional, sin necesidad de un nuevo acuerdo del Pleno.",
+      "El expediente caducará y habrá de reiniciarse el procedimiento.",
+      "La aprobación definitiva corresponderá al Alcalde mediante decreto."
+    ],
+    "correct": 1,
+    "exp": "El párrafo final del art. 49 LBRL dispone: «En el caso de que no se hubiera presentado ninguna reclamación o sugerencia, se entenderá definitivamente adoptado el acuerdo hasta entonces provisional». No es preciso, por tanto, un nuevo pronunciamiento plenario.",
+    "fuente": "Art. 49 LBRL (Ley 7/1985), párrafo final",
+    "confianza": "alta"
+  },
+  {
+    "q": "Durante la información pública de una ordenanza municipal se presenta una única sugerencia, sin ninguna reclamación. Conforme al art. 49 LBRL:",
+    "options": [
+      "Se entiende definitivamente adoptado el acuerdo provisional, pues solo las reclamaciones impiden la aprobación automática.",
+      "El Alcalde resolverá la sugerencia y ordenará la publicación del texto.",
+      "Será necesario que el Pleno la resuelva y apruebe definitivamente la ordenanza.",
+      "Debe reiniciarse el procedimiento con una nueva aprobación inicial."
+    ],
+    "correct": 2,
+    "exp": "La aprobación definitiva automática del párrafo final del art. 49 LBRL exige que no se haya presentado «ninguna reclamación o sugerencia». Presentada una sola sugerencia, se aplica la letra c): resolución de la misma y aprobación definitiva por el Pleno.",
+    "fuente": "Art. 49.c) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de los siguientes trámites NO aparece recogido en el art. 49 LBRL?",
+    "options": [
+      "La aprobación inicial por el Pleno.",
+      "La información pública y audiencia a los interesados.",
+      "La resolución de las reclamaciones y sugerencias presentadas dentro del plazo.",
+      "La publicación íntegra del texto en el Boletín Oficial de la Provincia."
+    ],
+    "correct": 3,
+    "exp": "El art. 49 LBRL se limita a las tres fases de aprobación inicial, información pública y aprobación definitiva. La publicación íntegra del texto en el «Boletín Oficial» de la Provincia como requisito de entrada en vigor se regula en el art. 70.2 LBRL, no en el art. 49.",
+    "fuente": "Art. 49 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En cuanto al plazo de que dispone el Pleno para resolver las reclamaciones y sugerencias y aprobar definitivamente la ordenanza, el art. 49 LBRL:",
+    "options": [
+      "Fija un plazo de un mes desde la finalización de la información pública.",
+      "Fija un plazo de tres meses, transcurrido el cual se entiende aprobada.",
+      "No establece plazo alguno.",
+      "Fija el plazo de quince días hábiles del art. 65.2 de la propia ley."
+    ],
+    "correct": 2,
+    "exp": "El art. 49 LBRL sólo cuantifica un plazo: el mínimo de treinta días de información pública y audiencia de su letra b). No señala plazo para la resolución de reclamaciones ni para la aprobación definitiva.",
+    "fuente": "Art. 49 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Ordene conforme al art. 49 LBRL las fases del procedimiento de aprobación de una Ordenanza local:",
+    "options": [
+      "Información pública y audiencia; aprobación inicial por el Pleno; aprobación definitiva por el Pleno.",
+      "Aprobación inicial por el Pleno; información pública y audiencia a los interesados; resolución de reclamaciones y sugerencias y aprobación definitiva por el Pleno.",
+      "Aprobación inicial por la Junta de Gobierno Local; información pública; aprobación definitiva por el Pleno.",
+      "Aprobación inicial por el Pleno; dictamen de la Comisión Informativa; información pública; aprobación definitiva por el Alcalde."
+    ],
+    "correct": 1,
+    "exp": "El orden legal es el de las letras a), b) y c) del art. 49 LBRL: aprobación inicial por el Pleno, información pública y audiencia a los interesados por plazo mínimo de treinta días y, finalmente, resolución de todas las reclamaciones y sugerencias presentadas en plazo con aprobación definitiva por el Pleno.",
+    "fuente": "Art. 49 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En qué letra del art. 4.1 LBRL se recogen las potestades reglamentaria y de autoorganización de los municipios, provincias e islas?",
+    "options": [
+      "En la letra a).",
+      "En la letra b).",
+      "En la letra c).",
+      "En la letra g)."
+    ],
+    "correct": 0,
+    "exp": "El art. 4.1 LBRL enumera: a) las potestades reglamentaria y de autoorganización; b) las potestades tributaria y financiera; c) la potestad de programación o planificación; y g) la potestad de revisión de oficio de sus actos y acuerdos.",
+    "fuente": "Art. 4.1.a) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el encabezamiento del art. 4.1 LBRL, las potestades que enumera (entre ellas la reglamentaria y de autoorganización) corresponden a los municipios, provincias e islas:",
+    "options": [
+      "En su condición de entidades instrumentales de la Administración autonómica y con el alcance que ésta determine.",
+      "Con carácter supletorio y solo en defecto de regulación autonómica.",
+      "Únicamente cuando así lo prevean sus respectivos reglamentos orgánicos.",
+      "En su calidad de Administraciones públicas de carácter territorial y dentro de la esfera de sus competencias."
+    ],
+    "correct": 3,
+    "exp": "El art. 4.1 LBRL dispone: «En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, corresponden en todo caso a los municipios, las provincias y las islas: a) Las potestades reglamentaria y de autoorganización [...]».",
+    "fuente": "Art. 4.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 4.1 LBRL atribuye «en todo caso» las potestades que enumera a:",
+    "options": [
+      "Todas las entidades locales, sin distinción alguna.",
+      "Los municipios, las provincias y las islas.",
+      "Los municipios y las mancomunidades de municipios.",
+      "Los municipios, las comarcas y las áreas metropolitanas."
+    ],
+    "correct": 1,
+    "exp": "El apartado 1 del art. 4 LBRL se refiere a los municipios, las provincias y las islas. La extensión a las entidades de ámbito inferior al municipio, comarcas, áreas metropolitanas y demás entidades locales se regula en el apartado 2, y las mancomunidades en el apartado 3.",
+    "fuente": "Art. 4.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes potestades NO figura en la enumeración del art. 4.1 LBRL?",
+    "options": [
+      "La potestad de revisión de oficio de sus actos y acuerdos.",
+      "La potestad de programación o planificación.",
+      "La potestad legislativa.",
+      "Las potestades expropiatoria y de investigación, deslinde y recuperación de oficio de sus bienes."
+    ],
+    "correct": 2,
+    "exp": "El art. 4.1 LBRL enumera, entre otras, las potestades reglamentaria y de autoorganización, tributaria y financiera, de programación o planificación, expropiatoria y de investigación, deslinde y recuperación de oficio, de ejecución forzosa y sancionadora, y de revisión de oficio. La potestad legislativa no se atribuye a las entidades locales.",
+    "fuente": "Art. 4.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 4.2 LBRL, la aplicación de las potestades del apartado 1 (entre ellas la reglamentaria) a las comarcas, áreas metropolitanas, entidades de ámbito inferior al municipio y demás entidades locales:",
+    "options": [
+      "Es automática y con el mismo alcance que para los municipios.",
+      "Está excluida en todo caso.",
+      "Exige que las leyes de las comunidades autónomas concreten cuáles de aquellas potestades serán de aplicación.",
+      "Depende de lo que acuerde el Pleno del municipio en cuyo término se hallen."
+    ],
+    "correct": 2,
+    "exp": "El art. 4.2 LBRL prevé que lo dispuesto en el apartado 1 podrá ser de aplicación a esas entidades, «debiendo las leyes de las comunidades autónomas concretar cuáles de aquellas potestades serán de aplicación», con la excepción de las mancomunidades, regidas por el apartado 3.",
+    "fuente": "Art. 4.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 4.3 LBRL, ¿qué potestades corresponden a una mancomunidad de municipios cuyos Estatutos no contienen previsión alguna al respecto?",
+    "options": [
+      "Ninguna, pues las potestades del art. 4.1 requieren atribución estatutaria expresa.",
+      "Solo la potestad reglamentaria y de autoorganización.",
+      "Únicamente las que le delegue cada uno de los municipios mancomunados.",
+      "Todas las enumeradas en el art. 4.1, siempre que sean precisas para el cumplimiento de su finalidad y de acuerdo con la legislación aplicable."
+    ],
+    "correct": 3,
+    "exp": "El art. 4.3 LBRL atribuye a las mancomunidades las potestades del apartado 1 que determinen sus Estatutos y añade: «En defecto de previsión estatutaria, les corresponderán todas las potestades enumeradas en dicho apartado, siempre que sean precisas para el cumplimiento de su finalidad, y de acuerdo con la legislación aplicable a cada una de dichas potestades».",
+    "fuente": "Art. 4.3 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 22.2.d) LBRL atribuye al Pleno, en todo caso:",
+    "options": [
+      "La aprobación del reglamento orgánico y de las ordenanzas.",
+      "La aprobación de las ordenanzas, correspondiendo el reglamento orgánico a la Junta de Gobierno Local.",
+      "La aprobación del reglamento orgánico y de los bandos de la Alcaldía.",
+      "La aprobación exclusivamente de las ordenanzas fiscales."
+    ],
+    "correct": 0,
+    "exp": "El art. 22.2.d) LBRL emplea la fórmula «La aprobación del reglamento orgánico y de las ordenanzas», comprendiendo ambos tipos de normas en una sola letra. Los bandos son competencia del Alcalde, no del Pleno.",
+    "fuente": "Art. 22.2.d) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La aprobación del reglamento orgánico y de las ordenanzas del art. 22.2.d) LBRL es, conforme al art. 22.4 LBRL, una atribución que el Pleno:",
+    "options": [
+      "Puede delegar en la Junta de Gobierno Local, pero no en el Alcalde.",
+      "Puede delegar en el Alcalde, pero no en la Junta de Gobierno Local.",
+      "No puede delegar ni en el Alcalde ni en la Junta de Gobierno Local.",
+      "Puede delegar en las Comisiones Informativas correspondientes."
+    ],
+    "correct": 2,
+    "exp": "El art. 22.4 LBRL permite al Pleno delegar sus atribuciones en el Alcalde y en la Junta de Gobierno Local «salvo las enunciadas en el apartado 2, párrafos a), b), c), d), e), f), g), h), i), l) y p), y en el apartado 3». La letra d) figura entre las excluidas, por lo que es indelegable.",
+    "fuente": "Art. 22.4 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes atribuciones del art. 22.2 LBRL SÍ puede el Pleno delegar, al no figurar entre las excluidas por el art. 22.4 LBRL?",
+    "options": [
+      "El control y la fiscalización de los órganos de gobierno.",
+      "La aprobación del reglamento orgánico y de las ordenanzas.",
+      "La aprobación de la plantilla de personal y de la relación de puestos de trabajo.",
+      "La aprobación de los proyectos de obras y servicios cuando sea competente para su contratación o concesión y aún no estén previstos en los presupuestos."
+    ],
+    "correct": 3,
+    "exp": "El art. 22.4 LBRL excluye de la delegación las letras a) a i), l) y p) del apartado 2, además del apartado 3. El control y fiscalización [a)], la aprobación del reglamento orgánico y las ordenanzas [d)] y la plantilla y relación de puestos de trabajo [i)] son indelegables; la aprobación de proyectos de obras y servicios de la letra ñ) no está excluida.",
+    "fuente": "Art. 22.4 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Las atribuciones enumeradas en el art. 22.2 LBRL, entre ellas la aprobación del reglamento orgánico y de las ordenanzas, corresponden al Pleno municipal en los Ayuntamientos y, en el régimen de Concejo Abierto, a:",
+    "options": [
+      "El Alcalde, asistido por la Junta Vecinal.",
+      "La Asamblea vecinal.",
+      "La Comisión Especial de Cuentas.",
+      "La Diputación Provincial correspondiente."
+    ],
+    "correct": 1,
+    "exp": "El art. 22.2 LBRL comienza: «Corresponden, en todo caso, al Pleno municipal en los Ayuntamientos, y a la Asamblea vecinal en el régimen de Concejo Abierto, las siguientes atribuciones».",
+    "fuente": "Art. 22.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En la enumeración del art. 22.2 LBRL, ¿qué atribución recoge la letra c), inmediatamente anterior a la aprobación del reglamento orgánico y de las ordenanzas?",
+    "options": [
+      "La aprobación de las formas de gestión de los servicios y de los expedientes de municipalización.",
+      "La declaración de lesividad de los actos del Ayuntamiento.",
+      "La aprobación inicial del planeamiento general y la aprobación que ponga fin a la tramitación municipal de los planes y demás instrumentos de ordenación previstos en la legislación urbanística.",
+      "La determinación de los recursos propios de carácter tributario."
+    ],
+    "correct": 2,
+    "exp": "El art. 22.2.c) LBRL atribuye al Pleno la aprobación inicial del planeamiento general y la aprobación que ponga fin a la tramitación municipal de los planes e instrumentos de ordenación urbanística, así como los convenios que tengan por objeto su alteración. La letra d) es la de reglamento orgánico y ordenanzas; la e) los recursos tributarios; la f) las formas de gestión de los servicios; y la k) la declaración de lesividad.",
+    "fuente": "Art. 22.2.c) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 47.1 LBRL, existe mayoría simple cuando:",
+    "options": [
+      "Los votos afirmativos son más que los negativos.",
+      "Los votos afirmativos superan la mitad del número legal de miembros de la corporación.",
+      "Los votos afirmativos superan la suma de los negativos y las abstenciones.",
+      "Votan a favor al menos dos tercios de los miembros presentes."
+    ],
+    "correct": 0,
+    "exp": "El art. 47.1 LBRL define: «Existe mayoría simple cuando los votos afirmativos son más que los negativos». La mayoría absoluta del número legal de miembros es la exigida en el apartado 2 para materias tasadas.",
+    "fuente": "Art. 47.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 47.1 LBRL, los acuerdos de las corporaciones locales se adoptan, como regla general:",
+    "options": [
+      "Por mayoría absoluta del número legal de miembros.",
+      "Por mayoría de dos tercios de los miembros presentes.",
+      "Por mayoría simple de los miembros presentes.",
+      "Por unanimidad de los asistentes, salvo previsión legal en contrario."
+    ],
+    "correct": 2,
+    "exp": "El art. 47.1 LBRL establece que «Los acuerdos de las corporaciones locales se adoptan, como regla general, por mayoría simple de los miembros presentes». La mayoría absoluta es la excepción del apartado 2.",
+    "fuente": "Art. 47.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 47.2.f) LBRL exige el voto favorable de la mayoría absoluta del número legal de miembros de la corporación para:",
+    "options": [
+      "La aprobación del reglamento orgánico propio, pero no para su modificación.",
+      "La aprobación y modificación del reglamento orgánico propio de la corporación.",
+      "La aprobación y modificación de todas las ordenanzas municipales.",
+      "La aprobación del reglamento orgánico propio y de las ordenanzas fiscales."
+    ],
+    "correct": 1,
+    "exp": "La letra f) del art. 47.2 LBRL se refiere a la «Aprobación y modificación del reglamento orgánico propio de la corporación». La exigencia de mayoría absoluta alcanza también a la modificación, y no se extiende a las restantes ordenanzas.",
+    "fuente": "Art. 47.2.f) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La mayoría reforzada que el art. 47.2 LBRL exige para las materias que enumera se computa sobre:",
+    "options": [
+      "El número de miembros presentes en la sesión.",
+      "El número de votos válidamente emitidos, excluidas las abstenciones.",
+      "El número de miembros de derecho descontadas las vacantes.",
+      "El número legal de miembros de la corporación."
+    ],
+    "correct": 3,
+    "exp": "El art. 47.2 LBRL requiere «el voto favorable de la mayoría absoluta del número legal de miembros de las corporaciones». El cómputo se hace, por tanto, sobre el número legal de miembros, no sobre los presentes ni sobre los votos emitidos.",
+    "fuente": "Art. 47.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El Pleno de un ayuntamiento con 27 miembros de número legal aprueba definitivamente una ordenanza reguladora de la convivencia ciudadana con 12 votos a favor, 10 en contra y 5 abstenciones. Conforme a los arts. 47.1 y 47.2 LBRL, el acuerdo:",
+    "options": [
+      "Es válido, por mayoría simple, ya que esta materia no figura entre las del art. 47.2.",
+      "Es nulo, porque toda ordenanza exige el voto favorable de 14 miembros.",
+      "Es nulo, porque los votos afirmativos no superan la suma de negativos y abstenciones.",
+      "Es válido solo si el Alcalde ha votado a favor, por su voto de calidad."
+    ],
+    "correct": 0,
+    "exp": "Las ordenanzas ordinarias no figuran en la lista del art. 47.2 LBRL, por lo que rige la regla general del art. 47.1: mayoría simple de los miembros presentes, que existe cuando los votos afirmativos (12) son más que los negativos (10). Las abstenciones no se suman a los negativos.",
+    "fuente": "Art. 47.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En ese mismo ayuntamiento de 27 miembros de número legal, se somete a votación la modificación del reglamento orgánico municipal y se obtienen 12 votos a favor, 10 en contra y 5 abstenciones. Conforme al art. 47.2.f) LBRL:",
+    "options": [
+      "El acuerdo es válido, al haberse alcanzado mayoría simple.",
+      "El acuerdo es válido, porque la mayoría absoluta se computa sobre los presentes.",
+      "El acuerdo no es válido, pues se exige mayoría absoluta del número legal de miembros, es decir, 14 votos favorables.",
+      "El acuerdo es válido si el Alcalde deshace el empate con su voto de calidad."
+    ],
+    "correct": 2,
+    "exp": "La aprobación y modificación del reglamento orgánico propio figura en el art. 47.2.f) LBRL, que exige mayoría absoluta del número legal de miembros: con 27 miembros de número legal se precisan 14 votos favorables, que no se alcanzan con 12.",
+    "fuente": "Art. 47.2.f) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Con qué cláusula cierra el art. 47.2 LBRL la enumeración de materias que requieren el voto favorable de la mayoría absoluta?",
+    "options": [
+      "«Las demás que expresamente le confieran las leyes».",
+      "«Aquellas otras que deban corresponder al Pleno por exigir su aprobación una mayoría especial».",
+      "«Las restantes determinadas por la ley».",
+      "«Cualesquiera otras que el reglamento orgánico determine»."
+    ],
+    "correct": 2,
+    "exp": "La letra o) del art. 47.2 LBRL es la cláusula de cierre: «Las restantes determinadas por la ley». Las otras fórmulas citadas pertenecen al art. 22.2, letras p) y q), sobre atribuciones del Pleno.",
+    "fuente": "Art. 47.2.o) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 47.3 LBRL, las normas relativas a la adopción de acuerdos en los municipios señalados en el artículo 121 de la propia ley (municipios de gran población) son las contenidas en:",
+    "options": [
+      "El apartado 2 del artículo 123.",
+      "El apartado 1 del artículo 122.",
+      "El apartado 4 del artículo 127.",
+      "El apartado 2 del artículo 70."
+    ],
+    "correct": 0,
+    "exp": "El art. 47.3 LBRL remite expresamente: «Las normas relativas a adopción de acuerdos en los municipios señalados en el artículo 121 de esta ley, son las contenidas en el apartado 2 del artículo 123».",
+    "fuente": "Art. 47.3 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En los municipios de gran población, y conforme al art. 123.2 LBRL, la aprobación y modificación de las ordenanzas y reglamentos municipales del art. 123.1.d) requiere:",
+    "options": [
+      "Mayoría absoluta del número legal de miembros del Pleno.",
+      "Mayoría simple de votos.",
+      "Mayoría de dos tercios del número legal de miembros del Pleno.",
+      "Mayoría absoluta en primera votación y simple en la segunda."
+    ],
+    "correct": 1,
+    "exp": "El art. 123.2 LBRL exige mayoría absoluta del número legal de miembros del Pleno sólo para los acuerdos de los párrafos c), e), f), j) y o) y para los relativos a la tramitación del planeamiento general, añadiendo que «Los demás acuerdos se adoptarán por mayoría simple de votos». La letra d) (ordenanzas y reglamentos municipales) queda, pues, en mayoría simple, frente a la letra c) (reglamentos de naturaleza orgánica), que exige mayoría absoluta.",
+    "fuente": "Art. 123.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Además de las ordenanzas, ¿qué otros textos menciona expresamente el art. 70.2 LBRL como objeto de la publicación en el «Boletín Oficial» de la Provincia?",
+    "options": [
+      "Los bandos de la Alcaldía y las instrucciones de servicio.",
+      "Los convenios interadministrativos y las bases de las convocatorias de personal.",
+      "El articulado de las normas de los planes urbanísticos, así como los acuerdos correspondientes a éstos cuya aprobación definitiva sea competencia de los entes locales.",
+      "Las resoluciones de los recursos de reposición interpuestos contra actos de aplicación de las ordenanzas."
+    ],
+    "correct": 2,
+    "exp": "El art. 70.2 LBRL se refiere a «Las ordenanzas, incluidos el articulado de las normas de los planes urbanísticos, así como los acuerdos correspondientes a éstos cuya aprobación definitiva sea competencia de los entes locales».",
+    "fuente": "Art. 70.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Un ayuntamiento publica en el Boletín Oficial de la Provincia únicamente un extracto de la ordenanza aprobada definitivamente por el Pleno. Conforme al art. 70.2 LBRL:",
+    "options": [
+      "La ordenanza entra en vigor al día siguiente de esa publicación.",
+      "La ordenanza no entra en vigor, pues se exige que se haya publicado completamente su texto.",
+      "La ordenanza entra en vigor a los veinte días de la publicación del extracto.",
+      "La ordenanza entra en vigor, pero sólo respecto de los preceptos efectivamente publicados."
+    ],
+    "correct": 1,
+    "exp": "El art. 70.2 LBRL dispone que las ordenanzas «no entrarán en vigor hasta que se haya publicado completamente su texto y haya transcurrido el plazo previsto en el artículo 65.2». La publicación parcial o por extracto no cumple ese requisito.",
+    "fuente": "Art. 70.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál es el plazo previsto en el art. 65.2 LBRL, al que remite el art. 70.2 para la entrada en vigor de las ordenanzas?",
+    "options": [
+      "Quince días naturales.",
+      "Un mes.",
+      "Quince días hábiles.",
+      "Treinta días hábiles."
+    ],
+    "correct": 2,
+    "exp": "El art. 65.2 LBRL establece que el requerimiento «se formulará en el plazo de quince días hábiles a partir de la recepción de la comunicación del acuerdo». Es ese plazo de quince días hábiles el que ha de transcurrir, tras la publicación íntegra, para que la ordenanza entre en vigor conforme al art. 70.2.",
+    "fuente": "Art. 65.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El plazo del art. 65.2 LBRL, cuyo transcurso condiciona la entrada en vigor de las ordenanzas según el art. 70.2, es el que tienen la Administración del Estado o de la Comunidad Autónoma para:",
+    "options": [
+      "Formular el requerimiento motivado de anulación del acto o acuerdo que estimen infractor del ordenamiento jurídico.",
+      "Interponer directamente recurso contencioso-administrativo sin requerimiento previo.",
+      "Suspender la ejecutividad del acuerdo municipal.",
+      "Emitir el informe preceptivo previo a la aprobación definitiva de la ordenanza."
+    ],
+    "correct": 0,
+    "exp": "El art. 65.1 y 2 LBRL regula el requerimiento de anulación: deberá ser motivado y expresar la normativa que se estime vulnerada, y «se formulará en el plazo de quince días hábiles a partir de la recepción de la comunicación del acuerdo». La impugnación directa sin requerimiento es la del art. 65.4.",
+    "fuente": "Art. 65.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 70.2 LBRL, ¿qué normas locales quedan exceptuadas de la regla general de publicación y entrada en vigor allí establecida?",
+    "options": [
+      "Los reglamentos orgánicos y los reglamentos de los distritos.",
+      "Las ordenanzas que tipifiquen infracciones y sanciones.",
+      "Las normas de los planes urbanísticos.",
+      "Los presupuestos y las ordenanzas fiscales."
+    ],
+    "correct": 3,
+    "exp": "El art. 70.2 LBRL salva expresamente «los presupuestos y las ordenanzas fiscales que se publican y entran en vigor en los términos establecidos en la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales».",
+    "fuente": "Art. 70.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿A qué norma remite el art. 70.2 LBRL la publicación y entrada en vigor de los presupuestos y de las ordenanzas fiscales?",
+    "options": [
+      "A la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.",
+      "A la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales.",
+      "Al Real Decreto Legislativo 781/1986 (TRRL).",
+      "Al Real Decreto 2568/1986 (ROF)."
+    ],
+    "correct": 1,
+    "exp": "El texto vigente del art. 70.2 LBRL sigue remitiéndose literalmente a la «Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales», hoy sustituida por el TRLRHL (RDLeg 2/2004), pero es esa la cita que figura en el precepto.",
+    "fuente": "Art. 70.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Señale la afirmación correcta sobre la relación entre publicación y entrada en vigor de las ordenanzas conforme al art. 70.2 LBRL:",
+    "options": [
+      "La publicación íntegra en el Boletín Oficial de la Provincia y la entrada en vigor son simultáneas.",
+      "La ordenanza entra en vigor con la aprobación definitiva por el Pleno, siendo la publicación un requisito de mera eficacia frente a terceros.",
+      "Entre la publicación completa del texto y la entrada en vigor debe mediar además el transcurso del plazo previsto en el art. 65.2.",
+      "Basta con la exposición del texto en el tablón de anuncios del ayuntamiento durante quince días hábiles."
+    ],
+    "correct": 2,
+    "exp": "El art. 70.2 LBRL acumula dos requisitos para la entrada en vigor: la publicación completa del texto en el «Boletín Oficial» de la Provincia y el transcurso del plazo del art. 65.2 (quince días hábiles). Por tanto, publicación y entrada en vigor no coinciden en el tiempo.",
+    "fuente": "Art. 70.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Con qué previsión general comienza el art. 70.2 LBRL, antes de referirse específicamente a las ordenanzas?",
+    "options": [
+      "«Los acuerdos que adopten las corporaciones locales se publican o notifican en la forma prevista por la Ley».",
+      "«Los actos de las entidades locales son inmediatamente ejecutivos».",
+      "«Las sesiones del Pleno de las corporaciones locales son públicas».",
+      "«Todos los ciudadanos tienen derecho a obtener copias y certificaciones acreditativas de los acuerdos de las corporaciones locales»."
+    ],
+    "correct": 0,
+    "exp": "El art. 70.2 LBRL se abre con esa regla general de publicación o notificación de los acuerdos locales. La publicidad de las sesiones es el art. 70.1, el derecho a copias y certificaciones el art. 70.3, y la ejecutividad inmediata el art. 51.",
+    "fuente": "Art. 70.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 70.2 LBRL termina imponiendo a las Administraciones públicas con competencias urbanísticas el deber de:",
+    "options": [
+      "Remitir el planeamiento aprobado al Registro de la Propiedad en el plazo de un mes.",
+      "Publicar anualmente en el Boletín Oficial de la Provincia una relación de las ordenanzas vigentes.",
+      "Someter el planeamiento a informe previo de la Comunidad Autónoma antes de su publicación.",
+      "Tener a disposición de los ciudadanos que lo soliciten copias completas del planeamiento vigente en su ámbito territorial."
+    ],
+    "correct": 3,
+    "exp": "El inciso final del art. 70.2 LBRL dispone: «Las Administraciones públicas con competencias urbanísticas deberán tener, a disposición de los ciudadanos que lo soliciten, copias completas del planeamiento vigente en su ámbito territorial».",
+    "fuente": "Art. 70.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En el ámbito municipal, la atribución al Pleno de la aprobación inicial y definitiva de las ordenanzas que resulta del art. 49 LBRL se corresponde con la competencia que le reconoce, en todo caso:",
+    "options": [
+      "El art. 21.1 LBRL, entre las atribuciones del Alcalde.",
+      "El art. 22.2.d) LBRL, entre las atribuciones del Pleno.",
+      "El art. 23.2 LBRL, entre las atribuciones de la Junta de Gobierno Local.",
+      "El art. 33.2 LBRL, entre las atribuciones del Pleno de la Diputación."
+    ],
+    "correct": 1,
+    "exp": "El art. 49.a) y c) LBRL sitúa en el Pleno las dos aprobaciones, en coherencia con el art. 22.2.d) LBRL, que le atribuye «en todo caso» la aprobación del reglamento orgánico y de las ordenanzas en los ayuntamientos.",
+    "fuente": "Art. 22.2.d) LBRL (Ley 7/1985)",
+    "confianza": "alta",
+    "correccion": {
+      "campo": "q",
+      "antes": "La atribución al Pleno de la aprobación inicial y definitiva de las ordenanzas que resulta del art. 49 LBRL se corresponde con la competencia que le reconoce, en todo caso:",
+      "despues": "En el ámbito municipal, la atribución al Pleno de la aprobación inicial y definitiva de las ordenanzas que resulta del art. 49 LBRL se corresponde con la competencia que le reconoce, en todo caso:",
+      "motivo": "Ambigüedad: sin acotar el ámbito municipal, el distractor D (art. 33.2 LBRL, Pleno de la Diputación) también era defendible, porque el art. 33.2.b) atribuye «en todo caso» al Pleno provincial «La aprobación de las ordenanzas». Acotado el enunciado al ámbito municipal, la única respuesta posible es el art. 22.2.d)."
+    }
+  }
+]);

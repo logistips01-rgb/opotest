@@ -24,7 +24,7 @@
       // los archivos de ampliación cuando los crea
       files:['data/aux-admin-zaragoza.js', 'data/aux-admin-zaragoza.ampliacion.js'],
       // nº aproximado de preguntas; se corrige solo al abrir la oposición
-      preguntas:5885
+      preguntas:5927
     },
     {
       slug:'policia-local-zaragoza',
@@ -35,7 +35,7 @@
       // el primero es el banco base; tools/fusionar.js añade aquí
       // los archivos de ampliación cuando los crea
       files:['data/policia-local-zaragoza.js'],
-      preguntas:4428
+      preguntas:4690
     },
     {
       slug:'policia-nacional',

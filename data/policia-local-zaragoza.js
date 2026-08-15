@@ -27045,6 +27045,2956 @@ const QUESTIONS = {
     "exp": "Art. 73: 'Las Corporaciones locales no podrán allanarse a las demandas judiciales que afectaren al dominio y demás derechos reales integrantes de su patrimonio.'",
     "fuente": "Art. 73 RBEL (RD 1372/1986)",
     "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 4.1 a) de la LBRL, en la esfera de sus competencias, corresponde en todo caso a los municipios, las provincias y las islas:",
+    "options": [
+      "Las potestades reglamentaria y de autoorganización",
+      "Únicamente la potestad sancionadora, sin capacidad reglamentaria",
+      "Exclusivamente la potestad expropiatoria"
+    ],
+    "correct": 0,
+    "exp": "Art. 4.1 a) LBRL: 'En la esfera de sus competencias, corresponde en todo caso a los municipios, las provincias y las islas: a) Las potestades reglamentaria y de autoorganización.'"
+  },
+  {
+    "q": "Según el art. 55 del RDLeg 781/1986 (TRRL), en la esfera de su competencia, las Entidades locales podrán aprobar:",
+    "options": [
+      "Únicamente Bandos, nunca Ordenanzas ni Reglamentos",
+      "Ordenanzas y Reglamentos, y los Alcaldes dictar Bandos",
+      "Solo Reglamentos, reservando las Ordenanzas al Estado"
+    ],
+    "correct": 1,
+    "exp": "Art. 55 TRRL: 'En la esfera de su competencia, las Entidades locales podrán aprobar Ordenanzas y Reglamentos, y los Alcaldes dictar Bandos.'"
+  },
+  {
+    "q": "Según el art. 55 del TRRL, las Ordenanzas, Reglamentos y Bandos:",
+    "options": [
+      "Pueden contener preceptos opuestos a las leyes si lo justifica el interés general",
+      "Solo deben respetar la Constitución, no las leyes ordinarias",
+      "En ningún caso contendrán preceptos opuestos a las leyes"
+    ],
+    "correct": 2,
+    "exp": "Art. 55 TRRL: 'En ningún caso contendrán preceptos opuestos a las leyes.'"
+  },
+  {
+    "q": "Según el art. 56 del TRRL, la aprobación de las Ordenanzas locales se ajustará al procedimiento establecido en:",
+    "options": [
+      "El artículo 49 de la Ley 7/1985, de 2 de abril",
+      "El artículo 105 de la Constitución exclusivamente",
+      "Un decreto específico del Ministerio de Hacienda"
+    ],
+    "correct": 0,
+    "exp": "Art. 56 TRRL: 'La aprobación de las Ordenanzas locales se ajustará al procedimiento establecido en el artículo 49 de la Ley 7/1985, de 2 de abril.'"
+  },
+  {
+    "q": "Según el art. 56 del TRRL, para la modificación de las Ordenanzas y Reglamentos:",
+    "options": [
+      "No se requiere ningún trámite adicional, basta un decreto de Alcaldía",
+      "Deberán observarse los mismos trámites que para su aprobación",
+      "Solo se necesita informe del Secretario, sin intervención del Pleno"
+    ],
+    "correct": 1,
+    "exp": "Art. 56 TRRL: 'Para la modificación de las Ordenanzas y Reglamentos deberán observarse los mismos trámites que para su aprobación.'"
+  },
+  {
+    "q": "Según el art. 49 de la LBRL, la aprobación de las Ordenanzas locales se ajustará al siguiente procedimiento, en su fase a):",
+    "options": [
+      "Aprobación directa por el Alcalde sin intervención del Pleno",
+      "Dictamen vinculante del Consejo de Estado",
+      "Aprobación inicial por el Pleno"
+    ],
+    "correct": 2,
+    "exp": "Art. 49 a) LBRL: 'Aprobación inicial por el Pleno.'"
+  },
+  {
+    "q": "Según el art. 49 b) de la LBRL, tras la aprobación inicial por el Pleno, se somete la ordenanza a información pública y audiencia a los interesados por el plazo mínimo de:",
+    "options": [
+      "Treinta días",
+      "Quince días",
+      "Sesenta días naturales"
+    ],
+    "correct": 0,
+    "exp": "Art. 49 b) LBRL: 'Información pública y audiencia a los interesados por el plazo mínimo de treinta días para la presentación de reclamaciones y sugerencias.'"
+  },
+  {
+    "q": "Según el art. 49 c) de la LBRL, tras el trámite de información pública, la ordenanza se somete a:",
+    "options": [
+      "Un nuevo período de exposición pública de otros treinta días",
+      "Resolución de todas las reclamaciones y sugerencias presentadas dentro del plazo, y aprobación definitiva por el Pleno",
+      "Aprobación directa sin necesidad de resolver alegaciones"
+    ],
+    "correct": 1,
+    "exp": "Art. 49 c) LBRL: 'Resolución de todas las reclamaciones y sugerencias presentadas dentro del plazo y aprobación definitiva por el Pleno.'"
+  },
+  {
+    "q": "Según el art. 49 de la LBRL, si durante el período de información pública no se presenta ninguna reclamación o sugerencia:",
+    "options": [
+      "La ordenanza queda automáticamente derogada por falta de interés",
+      "Se requiere igualmente un nuevo acuerdo expreso de aprobación definitiva",
+      "Se entenderá definitivamente adoptado el acuerdo hasta entonces provisional"
+    ],
+    "correct": 2,
+    "exp": "Art. 49 in fine: 'En el caso de que no se hubiera presentado ninguna reclamación o sugerencia, se entenderá definitivamente adoptado el acuerdo hasta entonces provisional.'"
+  },
+  {
+    "q": "Según el art. 22.2 d) de la LBRL, corresponde al Pleno del Ayuntamiento, en todo caso:",
+    "options": [
+      "La aprobación del Reglamento orgánico y de las Ordenanzas",
+      "La redacción material de todas las ordenanzas, sin delegación técnica posible",
+      "La ejecución material de los acuerdos ya aprobados"
+    ],
+    "correct": 0,
+    "exp": "Art. 22.2 d) LBRL: corresponde al Pleno, en todo caso, 'La aprobación del Reglamento orgánico y de las Ordenanzas.'"
+  },
+  {
+    "q": "Según el art. 47.2 f) de la LBRL, la aprobación del Reglamento Orgánico propio de cada Corporación requiere el voto favorable de:",
+    "options": [
+      "La mayoría simple de los presentes",
+      "La mayoría absoluta del número legal de miembros",
+      "Unanimidad de todos los grupos municipales"
+    ],
+    "correct": 1,
+    "exp": "Art. 47.2 f) LBRL exige mayoría absoluta del número legal de miembros del Pleno para la aprobación y modificación del Reglamento Orgánico propio de la Corporación."
+  },
+  {
+    "q": "¿Qué mayoría se exige, con carácter general, para la aprobación de una ordenanza distinta del Reglamento Orgánico?",
+    "options": [
+      "Mayoría absoluta en todo caso, sin excepción alguna",
+      "Dos tercios de los votos emitidos, sin excepción",
+      "Mayoría simple de los miembros presentes, salvo previsión legal expresa de mayoría cualificada"
+    ],
+    "correct": 2,
+    "exp": "Con carácter general, la aprobación de ordenanzas (distintas del Reglamento Orgánico) se rige por el principio de mayoría simple de los miembros presentes, salvo que una norma exija expresamente una mayoría cualificada."
+  },
+  {
+    "q": "Según el art. 70.2 de la LBRL, los acuerdos que aprueben ordenanzas y reglamentos se publican en:",
+    "options": [
+      "El Boletín Oficial de la Provincia (o, en su caso, de la Comunidad Autónoma uniprovincial)",
+      "Únicamente en el tablón de anuncios del Ayuntamiento, sin más publicidad",
+      "Exclusivamente en la página web municipal, sin publicación oficial"
+    ],
+    "correct": 0,
+    "exp": "Art. 70.2 LBRL: los acuerdos que aprueban ordenanzas y reglamentos se publican en el Boletín Oficial de la Provincia, sin perjuicio de otras formas de difusión complementarias."
+  },
+  {
+    "q": "Según el art. 70.2 de la LBRL, las ordenanzas y reglamentos no entran en vigor hasta que se haya publicado completamente su texto y haya transcurrido el plazo previsto en el art. 65.2, de:",
+    "options": [
+      "Tres días hábiles",
+      "Quince días hábiles",
+      "Sesenta días naturales"
+    ],
+    "correct": 1,
+    "exp": "Art. 70.2 LBRL: las ordenanzas y reglamentos no entrarán en vigor hasta que se haya publicado completamente su texto y haya transcurrido el plazo previsto en el art. 65.2 (15 días hábiles), salvo que se trate de presupuestos y ordenanzas fiscales, que se rigen por su propia normativa de publicación y entrada en vigor."
+  },
+  {
+    "q": "¿Qué órgano tiene, con carácter general, la iniciativa para elaborar y proponer proyectos de ordenanzas y reglamentos municipales, salvo previsión distinta para municipios de gran población?",
+    "options": [
+      "Únicamente el Secretario municipal, en exclusiva",
+      "Solo el Consejo de la Ciudad, sin intervención de órganos de gobierno",
+      "El Alcalde, sin perjuicio de que cualquier concejal o grupo municipal pueda presentar propuestas"
+    ],
+    "correct": 2,
+    "exp": "Con carácter general, corresponde al Alcalde impulsar la iniciativa de elaboración de ordenanzas y reglamentos, sin perjuicio de que cualquier concejal o grupo municipal pueda presentar propuestas para su tramitación por el Pleno."
+  },
+  {
+    "q": "Según el art. 127.1 a) de la LBRL, en los municipios de gran población, ¿qué órgano tiene atribuida la aprobación de los proyectos de ordenanzas y reglamentos, con carácter previo a su tramitación por el Pleno?",
+    "options": [
+      "La Junta de Gobierno Local, con excepción de las normas reguladoras del Pleno y sus Comisiones",
+      "El Consejo Social de la Ciudad, en todo caso",
+      "El Secretario General del Pleno, sin intervención política"
+    ],
+    "correct": 0,
+    "exp": "Art. 127.1 a) LBRL: en los municipios de gran población, corresponde a la Junta de Gobierno Local 'La aprobación de los proyectos de ordenanzas y de los reglamentos, incluidos los orgánicos, con excepción de las normas reguladoras del Pleno y sus comisiones.'"
+  },
+  {
+    "q": "¿Qué naturaleza jurídica tiene el Reglamento Orgánico Municipal (antiguamente denominado Reglamento de Régimen Interior)?",
+    "options": [
+      "Es una norma de rango legal aprobada por las Cortes Generales",
+      "Es la norma autónoma de cada Corporación Local que regula su organización y funcionamiento internos, manifestando su potestad de autonomía",
+      "Es una disposición reglamentaria del Estado aplicable a todos los municipios por igual"
+    ],
+    "correct": 1,
+    "exp": "El Reglamento Orgánico es la norma autónoma de cada Corporación Local en la que se regula su propia organización y funcionamiento, manifestando y ejerciendo así las potestades de autonomía que el ordenamiento jurídico le confiere."
+  },
+  {
+    "q": "¿Existe una norma estatal que contenga un catálogo mínimo cerrado de materias que deba incluir necesariamente un Reglamento Orgánico municipal?",
+    "options": [
+      "Sí, el Código Civil establece dicho catálogo con carácter supletorio",
+      "Sí, la Constitución fija directamente su contenido mínimo obligatorio",
+      "No, no existe ninguna norma estatal que contenga un catálogo mínimo cerrado de tales materias"
+    ],
+    "correct": 2,
+    "exp": "No existe ninguna norma estatal que contenga un catálogo mínimo cerrado de las materias susceptibles de incluirse en el Reglamento Orgánico, quedando su contenido concreto a la potestad de autoorganización de cada Corporación."
+  },
+  {
+    "q": "¿Qué diferencia esencial señala la doctrina entre los efectos de las Ordenanzas y Bandos, por un lado, y los Reglamentos, por otro, en el ámbito local?",
+    "options": [
+      "Las Ordenanzas y Bandos suelen producir efectos 'ad extra' (hacia terceros ajenos a la Corporación); los Reglamentos suelen tener una vigencia 'ad intra' (organización interna de la propia entidad)",
+      "Los Reglamentos siempre tienen efectos externos, y las Ordenanzas solo internos",
+      "Los Bandos nunca pueden producir efectos hacia terceros"
+    ],
+    "correct": 0,
+    "exp": "La doctrina distingue que las Ordenanzas y Bandos constituyen una forma de intervención de las Corporaciones Locales en la actividad de los ciudadanos, con efectos 'ad extra'; los Reglamentos suelen tener, en cambio, una vigencia 'ad intra' de la propia Corporación."
+  },
+  {
+    "q": "¿Qué significa que una norma produzca efectos 'ad intra'?",
+    "options": [
+      "Que produce efectos sobre cualquier ciudadano del territorio nacional",
+      "Que se dirige exclusivamente al personal u organización interna de la entidad que la adopta",
+      "Que solo tiene vigencia durante el mandato de la Corporación que la aprobó"
+    ],
+    "correct": 1,
+    "exp": "Una norma produce efectos 'ad intra' cuando se dirige exclusivamente al personal u organización interna de la entidad que la adopta, a diferencia de los efectos 'ad extra', que vinculan a terceros ajenos a dicha entidad."
+  },
+  {
+    "q": "¿Cuál es el valor normativo relativo entre una Ordenanza y un Reglamento local, una vez publicados y en vigor?",
+    "options": [
+      "La Ordenanza siempre prevalece jerárquicamente sobre el Reglamento",
+      "El Reglamento siempre prevalece jerárquicamente sobre la Ordenanza",
+      "El valor normativo es idéntico para las Ordenanzas y los Reglamentos, formando ambos parte del ordenamiento jurídico"
+    ],
+    "correct": 2,
+    "exp": "Una vez publicados, tanto las Ordenanzas como los Reglamentos locales tienen idéntico valor normativo, formando parte del ordenamiento jurídico y quedando sometidos igualmente al control de legalidad de los Tribunales."
+  },
+  {
+    "q": "¿Qué control jurisdiccional se ejerce sobre la legalidad de las Ordenanzas y Reglamentos locales?",
+    "options": [
+      "El control de los Tribunales, especialmente a través de la jurisdicción contencioso-administrativa",
+      "Ningún control, son actos políticos exentos de revisión judicial",
+      "Únicamente el control del Tribunal Constitucional mediante recurso de amparo"
+    ],
+    "correct": 0,
+    "exp": "La legalidad de las Ordenanzas y Reglamentos locales está controlada por los Tribunales, principalmente a través de la jurisdicción contencioso-administrativa, que puede declarar su nulidad si son contrarios a Derecho."
+  },
+  {
+    "q": "Según el art. 57 del TRRL, las infracciones de las Ordenanzas, Reglamentos y Bandos se someten a los plazos de prescripción que establece:",
+    "options": [
+      "El Código Civil para las obligaciones extracontractuales",
+      "El Código Penal para las faltas, sin perjuicio de lo que, en cada caso, establezcan las leyes",
+      "El Estatuto de los Trabajadores, con carácter supletorio"
+    ],
+    "correct": 1,
+    "exp": "Art. 57 TRRL: 'Serán de aplicación a las infracciones de las Ordenanzas, Reglamentos y Bandos los plazos de prescripción que establece el Código Penal para las faltas, sin perjuicio de lo que, en cada caso, establezcan las leyes.'"
+  },
+  {
+    "q": "Según el art. 58 del TRRL, para la exacción de multas por infracción de Ordenanzas, en defecto de pago voluntario, se sigue:",
+    "options": [
+      "Un procedimiento penal ante el juzgado de instrucción",
+      "Ningún procedimiento, la multa se condona automáticamente",
+      "El procedimiento administrativo de apremio"
+    ],
+    "correct": 2,
+    "exp": "Art. 58 TRRL: 'Para la exacción de multas por infracción de Ordenanzas, en defecto de pago voluntario, se seguirá el procedimiento administrativo de apremio.'"
+  },
+  {
+    "q": "¿Qué relación existe entre las Ordenanzas municipales y la potestad sancionadora local reconocida en el art. 4.1 f) de la LBRL?",
+    "options": [
+      "Muchas ordenanzas tipifican infracciones y sanciones que constituyen el ejercicio concreto de la potestad sancionadora local, dentro de los límites y garantías legalmente establecidos",
+      "La potestad sancionadora local es completamente independiente de cualquier ordenanza municipal",
+      "Las ordenanzas nunca pueden establecer infracciones ni sanciones, materia reservada en exclusiva al Estado"
+    ],
+    "correct": 0,
+    "exp": "El art. 4.1 f) LBRL reconoce a las Entidades Locales la potestad sancionadora, que se materializa habitualmente a través de ordenanzas municipales que tipifican infracciones y sanciones, dentro de los límites y garantías establecidos por la legislación básica estatal (LRSAL/LBRL, arts. 139-141)."
+  },
+  {
+    "q": "Según el art. 139 de la LBRL, para la adecuada ordenación de las relaciones de convivencia de interés local y del uso de sus servicios, equipamientos e instalaciones, los entes locales podrán, en defecto de normativa sectorial específica:",
+    "options": [
+      "Imponer sanciones sin ningún límite ni tipificación previa",
+      "Establecer los tipos de las infracciones e imponer sanciones por el incumplimiento de deberes, prohibiciones o limitaciones contenidos en las correspondientes ordenanzas",
+      "Aplicar directamente el Código Penal sin necesidad de ordenanza"
+    ],
+    "correct": 1,
+    "exp": "Art. 139 LBRL: en defecto de normativa sectorial específica, las Entidades Locales pueden establecer los tipos de las infracciones e imponer sanciones por el incumplimiento de deberes, prohibiciones o limitaciones establecidos en sus ordenanzas, con respeto a los criterios del propio Título XI de la LBRL."
+  },
+  {
+    "q": "Según el art. 140 de la LBRL, las infracciones a las ordenanzas locales se clasifican, cuando la Ley sectorial no establezca una clasificación distinta, en:",
+    "options": [
+      "Únicamente graves y leves, sin categoría de muy graves",
+      "Leves, medias y graves",
+      "Muy graves, graves y leves"
+    ],
+    "correct": 2,
+    "exp": "Art. 140.1 LBRL: 'Las infracciones a las ordenanzas locales se clasificarán en muy graves, graves y leves', cuando la ley sectorial no establezca una clasificación distinta."
+  },
+  {
+    "q": "Según el art. 141 de la LBRL, la cuantía de las sanciones económicas que las Entidades Locales pueden establecer en sus ordenanzas para infracciones muy graves no puede superar, con carácter general y salvo previsión legal distinta:",
+    "options": [
+      "3.000 euros",
+      "500 euros",
+      "100.000 euros"
+    ],
+    "correct": 0,
+    "exp": "Art. 141 a) LBRL: con carácter general, las infracciones muy graves pueden sancionarse hasta 3.000 euros, salvo que una norma con rango de ley establezca cuantías superiores para sectores concretos."
+  },
+  {
+    "q": "¿Qué relación existe entre el trámite de información pública de las ordenanzas (art. 49 LBRL) y el principio de participación ciudadana?",
+    "options": [
+      "La información pública es un trámite meramente decorativo sin ninguna relevancia jurídica",
+      "El trámite de información pública y audiencia a los interesados constituye una manifestación concreta del derecho de los vecinos a participar en la gestión municipal, permitiéndoles presentar alegaciones antes de la aprobación definitiva",
+      "El trámite de información pública sustituye completamente a la necesidad de aprobación por el Pleno"
+    ],
+    "correct": 1,
+    "exp": "El trámite de información pública y audiencia a los interesados (art. 49 b LBRL) constituye una manifestación concreta del derecho de participación ciudadana en la gestión municipal, permitiendo a los vecinos y entidades presentar alegaciones antes de la aprobación definitiva de la norma."
+  },
+  {
+    "q": "¿Qué relación existe entre el art. 49 LBRL (procedimiento de ordenanzas) y el art. 17 del TRLRHL (procedimiento de ordenanzas fiscales)?",
+    "options": [
+      "El art. 17 TRLRHL deroga completamente al art. 49 LBRL",
+      "Las ordenanzas fiscales no siguen ningún procedimiento formal de aprobación",
+      "El art. 17 TRLRHL establece un procedimiento específico para las ordenanzas fiscales, con particularidades propias (plazo de exposición de 30 días, publicidad reforzada) dentro del marco general del art. 49 LBRL"
+    ],
+    "correct": 2,
+    "exp": "El art. 17 TRLRHL establece, para las ordenanzas fiscales, un procedimiento con particularidades propias (publicación reforzada en diarios de mayor difusión para determinadas entidades), dentro del marco general de tramitación de ordenanzas fijado por el art. 49 LBRL."
+  },
+  {
+    "q": "¿Puede una ordenanza municipal regular una materia ya regulada por una ley estatal o autonómica?",
+    "options": [
+      "Sí, siempre que la ordenanza desarrolle o complemente la ley dentro del ámbito de las competencias municipales, sin contradecirla ni invadir la reserva de ley",
+      "No, las ordenanzas nunca pueden desarrollar leyes estatales o autonómicas",
+      "Sí, sin ninguna limitación, incluso pudiendo contradecir la ley"
+    ],
+    "correct": 0,
+    "exp": "Una ordenanza municipal puede desarrollar y complementar, dentro del ámbito de las competencias municipales, una materia ya regulada por ley estatal o autonómica, siempre que no la contradiga ni invada materias reservadas constitucionalmente a la ley (como los derechos fundamentales)."
+  },
+  {
+    "q": "¿Qué relación existe entre la potestad reglamentaria local y el principio de reserva de ley?",
+    "options": [
+      "La potestad reglamentaria local está completamente exenta del principio de reserva de ley",
+      "La potestad reglamentaria local debe respetar la reserva de ley en aquellas materias que la Constitución reserva a normas con rango legal, no pudiendo la ordenanza suplir la falta de ley habilitante en tales casos",
+      "Las ordenanzas pueden regular libremente cualquier materia, incluidas las reservadas a ley orgánica"
+    ],
+    "correct": 1,
+    "exp": "La potestad reglamentaria local, como toda potestad reglamentaria, debe respetar el principio de reserva de ley: en las materias que la Constitución reserva a la ley (por ejemplo, el desarrollo de derechos fundamentales), la ordenanza no puede suplir la falta de habilitación legal previa."
+  },
+  {
+    "q": "¿Qué relación existe entre el art. 128 de la LBRL (Distritos en municipios de gran población) y la potestad de dictar ordenanzas?",
+    "options": [
+      "Cada Distrito puede aprobar sus propias ordenanzas con plena autonomía normativa",
+      "Los Distritos sustituyen completamente al Pleno en la aprobación de ordenanzas",
+      "Los Distritos, como órganos de gestión desconcentrada, no tienen potestad normativa propia para dictar ordenanzas, que sigue correspondiendo al Pleno del Ayuntamiento"
+    ],
+    "correct": 2,
+    "exp": "Los Distritos son órganos de gestión desconcentrada sin personalidad jurídica propia distinta de la del municipio, por lo que no ostentan potestad normativa propia: la aprobación de ordenanzas y reglamentos sigue correspondiendo al Pleno del Ayuntamiento, sin perjuicio de que las Juntas puedan informar o proponer sobre ordenanzas que afecten a su territorio."
+  },
+  {
+    "q": "En síntesis, ¿qué tres tipos de normas locales distingue fundamentalmente la legislación de régimen local?",
+    "options": [
+      "Ordenanzas, Reglamentos y Bandos",
+      "Únicamente leyes y decretos, sin categoría local propia",
+      "Circulares, instrucciones y órdenes de servicio, exclusivamente"
+    ],
+    "correct": 0,
+    "exp": "La legislación de régimen local (art. 55 TRRL) distingue fundamentalmente tres tipos de normas locales: las Ordenanzas y los Reglamentos, que aprueban las Entidades Locales, y los Bandos, que dicta el Alcalde."
+  },
+  {
+    "q": "¿Qué diferencia existe entre una ordenanza de policía o intervención y una ordenanza fiscal?",
+    "options": [
+      "La ordenanza fiscal nunca puede coexistir con una ordenanza de policía",
+      "La ordenanza de policía regula el ejercicio de actividades y comportamientos ciudadanos; la ordenanza fiscal regula específicamente un tributo local (hecho imponible, sujeto pasivo, cuota, devengo)",
+      "Solo las ordenanzas fiscales tienen naturaleza normativa, las de policía son simples actos administrativos"
+    ],
+    "correct": 1,
+    "exp": "Las ordenanzas de policía o intervención regulan el ejercicio de actividades, comportamientos o el uso del dominio público; las ordenanzas fiscales regulan específicamente los elementos esenciales de un tributo local (hecho imponible, sujeto pasivo, base, cuota, devengo), conforme al art. 16 TRLRHL."
+  },
+  {
+    "q": "¿Qué tipo de ordenanza regula, típicamente, aspectos como el mantenimiento de la limpieza viaria, el uso de terrazas o la tenencia de animales?",
+    "options": [
+      "Necesariamente una ordenanza fiscal",
+      "Un Bando exclusivamente, nunca una ordenanza",
+      "Una ordenanza de policía o de convivencia ciudadana"
+    ],
+    "correct": 2,
+    "exp": "Aspectos como la limpieza viaria, el uso de terrazas o la tenencia de animales se regulan típicamente mediante ordenanzas de policía o de convivencia ciudadana, orientadas a la intervención administrativa sobre comportamientos y usos del espacio público."
+  },
+  {
+    "q": "¿Qué naturaleza tiene, dentro de la tipología de normas locales, una 'ordenanza de circulación' o de tráfico?",
+    "options": [
+      "Una ordenanza de policía o intervención, que regula la circulación de vehículos y personas en las vías urbanas",
+      "Una ordenanza fiscal, al implicar el pago de sanciones económicas",
+      "Un Reglamento Orgánico de aplicación interna"
+    ],
+    "correct": 0,
+    "exp": "La ordenanza de circulación es una ordenanza de policía o intervención, dictada en ejercicio de la competencia municipal de ordenación del tráfico de vehículos y personas en las vías urbanas (art. 25.2 f LBRL)."
+  },
+  {
+    "q": "¿Puede el Bando del Alcalde regular, con carácter permanente, una materia que exceda de asuntos puntuales o de escasa entidad normativa?",
+    "options": [
+      "Sí, el Bando puede regular cualquier materia con el mismo alcance que una ordenanza",
+      "No, el Bando, por su naturaleza y rango, se reserva habitualmente para asuntos puntuales, urgentes o de escasa entidad, mientras que la regulación permanente y de mayor calado corresponde a la ordenanza aprobada por el Pleno",
+      "El Bando tiene rango superior a cualquier ordenanza municipal"
+    ],
+    "correct": 1,
+    "exp": "El Bando, dictado por el Alcalde, se reserva habitualmente para asuntos puntuales, urgentes o de escasa entidad normativa (medidas de orden público en fiestas, por ejemplo); la regulación permanente y de mayor calado corresponde a la ordenanza, aprobada por el Pleno siguiendo el procedimiento del art. 49 LBRL."
+  },
+  {
+    "q": "¿Puede un Bando del Alcalde contradecir lo dispuesto en una ordenanza municipal vigente?",
+    "options": [
+      "Sí, el Bando siempre prevalece sobre cualquier ordenanza, al ser un acto más reciente",
+      "No existe ninguna relación jerárquica entre Bandos y ordenanzas",
+      "No, dado que la ordenanza, aprobada por el Pleno, tiene mayor rango dentro del ordenamiento jurídico municipal"
+    ],
+    "correct": 2,
+    "exp": "Al tener la ordenanza mayor rango normativo dentro del ordenamiento municipal (aprobada por el Pleno tras un procedimiento reforzado), el Bando del Alcalde no puede contradecir lo dispuesto válidamente en una ordenanza vigente."
+  },
+  {
+    "q": "¿Qué requisito formal, común a ordenanzas y reglamentos, resulta imprescindible para su entrada en vigor conforme al art. 70.2 LBRL?",
+    "options": [
+      "La publicación íntegra de su texto en el Boletín Oficial de la Provincia (o de la Comunidad Autónoma uniprovincial) y el transcurso del plazo del art. 65.2",
+      "La simple aprobación por el Pleno, sin necesidad de publicación oficial",
+      "La ratificación posterior por la Comunidad Autónoma en todo caso"
+    ],
+    "correct": 0,
+    "exp": "Conforme al art. 70.2 LBRL, la entrada en vigor de ordenanzas y reglamentos exige la publicación íntegra de su texto en el Boletín Oficial de la Provincia (o de la Comunidad Autónoma uniprovincial) y el transcurso del plazo de 15 días hábiles previsto en el art. 65.2."
+  },
+  {
+    "q": "¿Qué efecto tiene la falta de publicación íntegra del texto de una ordenanza aprobada definitivamente por el Pleno?",
+    "options": [
+      "La ordenanza entra en vigor igualmente desde el día de su aprobación por el Pleno",
+      "La ordenanza no entra en vigor ni produce efectos jurídicos, al no cumplirse el requisito de publicidad normativa",
+      "La ordenanza entra en vigor transcurrido un año desde su aprobación, se publique o no"
+    ],
+    "correct": 1,
+    "exp": "La falta de publicación íntegra del texto de la ordenanza impide su entrada en vigor, al no cumplirse el requisito esencial de publicidad normativa exigido por el art. 70.2 LBRL, en coherencia con el principio de seguridad jurídica del art. 9.3 CE."
+  },
+  {
+    "q": "¿Qué relación existe entre la publicidad de las ordenanzas municipales y el principio de seguridad jurídica del art. 9.3 de la Constitución?",
+    "options": [
+      "El art. 9.3 CE no menciona la publicidad de las normas como principio constitucional",
+      "El principio de publicidad solo se aplica a las leyes estatales, nunca a las ordenanzas municipales",
+      "La publicidad de las normas es uno de los principios expresamente garantizados por el art. 9.3 CE, siendo condición de eficacia y oponibilidad de la ordenanza frente a los ciudadanos"
+    ],
+    "correct": 2,
+    "exp": "El art. 9.3 CE garantiza expresamente 'la publicidad de las normas' entre los principios de seguridad jurídica, siendo la publicación de la ordenanza condición de su eficacia y oponibilidad frente a los ciudadanos."
+  },
+  {
+    "q": "¿Qué papel desempeña la Comisión Informativa (u órgano equivalente de estudio, informe o consulta) en el procedimiento de elaboración de una ordenanza municipal?",
+    "options": [
+      "Emite un dictamen previo a la aprobación inicial por el Pleno, como trámite habitual dentro del procedimiento interno de elaboración",
+      "Sustituye completamente al Pleno en la aprobación de la ordenanza",
+      "Solo interviene después de la aprobación definitiva, nunca antes"
+    ],
+    "correct": 0,
+    "exp": "La Comisión Informativa (u órgano con funciones de estudio, informe o consulta) emite, con carácter habitual, un dictamen previo sobre el proyecto de ordenanza antes de su aprobación inicial por el Pleno, en coherencia con la organización de los arts. 20 y 22 LBRL."
+  },
+  {
+    "q": "¿Qué relación existe entre el trámite de información pública de una ordenanza (art. 49 b LBRL) y el derecho de los vecinos a presentar peticiones y quejas (art. 18 LBRL)?",
+    "options": [
+      "Ambos derechos son completamente independientes y no guardan ninguna relación",
+      "El trámite de información pública constituye un cauce específico y reforzado para que los vecinos ejerzan, en relación con una ordenanza concreta, su derecho general a formular alegaciones y sugerencias en los asuntos de interés municipal",
+      "El trámite de información pública sustituye por completo cualquier otro derecho de petición vecinal"
+    ],
+    "correct": 1,
+    "exp": "El trámite de información pública y audiencia previsto en el art. 49 b) LBRL constituye un cauce reforzado y específico para que los vecinos ejerzan, respecto de una ordenanza concreta, su derecho general a presentar peticiones y sugerencias sobre los asuntos de interés municipal."
+  },
+  {
+    "q": "¿Qué tipo de recurso cabe interponer, con carácter general, contra la aprobación definitiva de una ordenanza municipal, una vez publicada?",
+    "options": [
+      "Recurso de reposición obligatorio previo ante el propio Ayuntamiento",
+      "Recurso de amparo directo ante el Tribunal Constitucional",
+      "Recurso contencioso-administrativo directamente ante la jurisdicción competente"
+    ],
+    "correct": 2,
+    "exp": "Contra la aprobación definitiva de una ordenanza municipal, una vez publicada, cabe interponer directamente recurso contencioso-administrativo, sin que sea preceptivo un recurso administrativo previo, dado su carácter de disposición general."
+  },
+  {
+    "q": "¿Puede un particular impugnar directamente una ordenanza municipal ante los Tribunales, sin necesidad de esperar a un acto de aplicación concreto?",
+    "options": [
+      "Sí, cabe el recurso directo contra la disposición general (la ordenanza) dentro del plazo legalmente establecido desde su publicación",
+      "No, solo cabe impugnar los actos concretos de aplicación de la ordenanza, nunca la ordenanza en sí misma",
+      "Sí, pero únicamente mediante recurso de amparo constitucional"
+    ],
+    "correct": 0,
+    "exp": "Cabe el recurso directo contra la disposición general (la ordenanza), interponible dentro del plazo legal desde su publicación, sin perjuicio de la posibilidad adicional de impugnación indirecta a través de los actos de aplicación concretos."
+  },
+  {
+    "q": "¿Qué es la denominada 'impugnación indirecta' de una ordenanza municipal?",
+    "options": [
+      "La imposibilidad absoluta de recurrir cualquier ordenanza municipal",
+      "La posibilidad de impugnar un acto administrativo concreto de aplicación de la ordenanza, alegando la ilegalidad de la propia ordenanza en que se funda",
+      "Un recurso presentado antes de la aprobación definitiva de la ordenanza"
+    ],
+    "correct": 1,
+    "exp": "La impugnación indirecta permite recurrir un acto administrativo concreto de aplicación de una ordenanza, alegando en ese recurso la ilegalidad de la propia ordenanza en la que dicho acto se funda, aunque haya transcurrido el plazo para el recurso directo contra la disposición general."
+  },
+  {
+    "q": "¿Qué consecuencia tiene, con carácter general, la declaración judicial de nulidad de una ordenanza municipal por sentencia firme?",
+    "options": [
+      "La ordenanza sigue siendo válida hasta que el Pleno acuerde expresamente su derogación",
+      "La anulación de una ordenanza no tiene ningún efecto práctico",
+      "La ordenanza anulada deja de producir efectos con carácter general (erga omnes), sin perjuicio de los actos firmes dictados a su amparo antes de la anulación, salvo que la sentencia disponga otra cosa"
+    ],
+    "correct": 2,
+    "exp": "La declaración de nulidad de una ordenanza por sentencia firme tiene efectos generales (erga omnes), dejando la norma de producir efectos, sin perjuicio, salvo disposición expresa en contrario, de que se mantengan los actos firmes o consentidos dictados a su amparo antes de la anulación."
+  },
+  {
+    "q": "¿Qué papel desempeña el principio de jerarquía normativa (art. 9.3 CE) en relación con las ordenanzas municipales?",
+    "options": [
+      "Las ordenanzas municipales, como normas de rango reglamentario, deben respetar y no pueden contradecir las leyes y demás normas de rango superior",
+      "Las ordenanzas municipales tienen rango de ley y pueden derogar cualquier ley estatal contraria",
+      "Las ordenanzas municipales están completamente al margen del ordenamiento jurídico general"
+    ],
+    "correct": 0,
+    "exp": "El principio de jerarquía normativa (art. 9.3 CE) exige que las ordenanzas municipales, como normas de rango reglamentario, respeten y no contradigan las leyes y demás normas de rango superior, so pena de nulidad."
+  },
+  {
+    "q": "¿Qué papel desempeña el principio de competencia en relación con las ordenanzas municipales?",
+    "options": [
+      "Una ordenanza puede regular cualquier materia, con independencia de la competencia municipal",
+      "Una ordenanza solo puede regular válidamente materias que sean de la competencia municipal, siendo nula en lo que exceda de dicho ámbito competencial",
+      "Las ordenanzas pueden invadir libremente competencias estatales o autonómicas"
+    ],
+    "correct": 1,
+    "exp": "El principio de competencia exige que una ordenanza municipal solo pueda regular válidamente materias que sean de la competencia municipal (propia, delegada o atribuida), siendo nula en aquello que exceda de dicho ámbito competencial."
+  },
+  {
+    "q": "¿Qué relación existe entre las 'ordenanzas de urbanismo' (planes urbanísticos) y las ordenanzas municipales en sentido estricto reguladas en el art. 49 LBRL?",
+    "options": [
+      "Son exactamente lo mismo y siguen idéntico procedimiento en todo caso",
+      "La legislación urbanística remite íntegramente al art. 49 LBRL sin ninguna especialidad",
+      "Los instrumentos de planeamiento urbanístico siguen un procedimiento específico regulado en la legislación urbanística, distinto (aunque con similitudes de participación pública) del procedimiento general de ordenanzas del art. 49 LBRL"
+    ],
+    "correct": 2,
+    "exp": "Los instrumentos de planeamiento urbanístico (planes generales, parciales, etc.) siguen un procedimiento específico regulado por la legislación urbanística autonómica, que aunque comparte el principio de participación pública, tiene trámites y plazos propios, distintos del procedimiento general de ordenanzas del art. 49 LBRL."
+  },
+  {
+    "q": "¿Qué tipo de ordenanza regula, típicamente, el uso y aprovechamiento de las instalaciones deportivas municipales, fijando también en su caso los precios públicos aplicables?",
+    "options": [
+      "Una ordenanza de utilización de servicios o instalaciones municipales, que puede combinar aspectos de policía (normas de uso) y aspectos económicos (precios públicos)",
+      "Exclusivamente una ordenanza fiscal, sin ningún componente de policía",
+      "Un Reglamento Orgánico de aplicación interna"
+    ],
+    "correct": 0,
+    "exp": "Las ordenanzas de utilización de servicios o instalaciones municipales combinan, con frecuencia, aspectos de policía (normas de uso, horarios, comportamiento) con aspectos económicos (fijación de tasas o precios públicos aplicables por su utilización)."
+  },
+  {
+    "q": "¿Qué relación existe entre las ordenanzas municipales y los planes de igualdad o protocolos internos de una Entidad Local (como el Plan de Igualdad municipal)?",
+    "options": [
+      "Todo plan de igualdad debe aprobarse siempre como ordenanza siguiendo el procedimiento del art. 49 LBRL",
+      "Los planes de igualdad y protocolos internos no siempre tienen naturaleza de ordenanza o reglamento en sentido estricto, pudiendo aprobarse como acuerdos o instrumentos de planificación interna sin seguir necesariamente el procedimiento del art. 49 LBRL",
+      "Los planes de igualdad no pueden aprobarse nunca por una Entidad Local"
+    ],
+    "correct": 1,
+    "exp": "Los planes de igualdad y protocolos internos no siempre tienen naturaleza jurídica de ordenanza o reglamento en sentido estricto; con frecuencia se aprueban como acuerdos o instrumentos de planificación interna, sin necesidad de seguir el procedimiento formal del art. 49 LBRL, salvo que su contenido normativo así lo exija."
+  },
+  {
+    "q": "¿Qué relación existe entre la potestad de autoorganización (art. 4.1 a LBRL) y la aprobación de un Reglamento Orgánico Municipal?",
+    "options": [
+      "La potestad de autoorganización se ejerce exclusivamente mediante decretos de Alcaldía, nunca mediante Reglamento Orgánico",
+      "El Reglamento Orgánico es aprobado directamente por el Estado para todos los municipios",
+      "El Reglamento Orgánico es la principal manifestación normativa de la potestad de autoorganización que la LBRL reconoce a las Entidades Locales"
+    ],
+    "correct": 2,
+    "exp": "El Reglamento Orgánico Municipal constituye la principal manifestación normativa de la potestad de autoorganización que el art. 4.1 a) LBRL reconoce a los municipios, provincias e islas, permitiéndoles regular su propia organización y funcionamiento internos."
+  },
+  {
+    "q": "¿Qué relación existe entre el procedimiento de elaboración de ordenanzas del art. 49 LBRL y los principios de buena regulación del art. 129 de la Ley 39/2015?",
+    "options": [
+      "Los principios de buena regulación (necesidad, proporcionalidad, seguridad jurídica, transparencia, eficiencia) resultan también aplicables, en lo pertinente, a la elaboración de ordenanzas y reglamentos locales",
+      "Los principios de buena regulación solo se aplican a los reglamentos estatales, nunca a las ordenanzas locales",
+      "No existe ninguna relación entre ambos preceptos"
+    ],
+    "correct": 0,
+    "exp": "Los principios de buena regulación del art. 129 de la Ley 39/2015 (necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia) resultan aplicables, en lo pertinente, también a la elaboración de ordenanzas y reglamentos por las Entidades Locales, dentro del ejercicio de su potestad reglamentaria."
+  },
+  {
+    "q": "¿Qué relación existe entre la memoria justificativa o memoria de impacto normativo y la elaboración de una ordenanza municipal de cierta complejidad?",
+    "options": [
+      "Es un trámite completamente innecesario y sin ninguna utilidad práctica",
+      "Es una práctica recomendable y, en determinados supuestos, exigida, que justifica la necesidad y oportunidad de la norma, valorando sus efectos económicos, sociales o administrativos",
+      "Solo es exigible para las ordenanzas fiscales, nunca para las de policía"
+    ],
+    "correct": 1,
+    "exp": "La memoria justificativa o de impacto normativo, aunque no siempre exigida expresamente por la LBRL para toda ordenanza, constituye una práctica recomendable (y en ciertos casos exigida por normativa complementaria) que justifica la necesidad y oportunidad de la norma proyectada."
+  },
+  {
+    "q": "¿Qué papel desempeña el Secretario de la Corporación en el procedimiento de elaboración de ordenanzas municipales?",
+    "options": [
+      "Aprueba directamente la ordenanza sin intervención del Pleno",
+      "Ejerce la potestad sancionadora derivada de la ordenanza una vez aprobada",
+      "Emite el asesoramiento jurídico preceptivo y vela por la legalidad del procedimiento de elaboración y aprobación"
+    ],
+    "correct": 2,
+    "exp": "El Secretario de la Corporación, como funcionario de habilitación nacional, desempeña funciones de asesoramiento jurídico preceptivo y de control de legalidad en el procedimiento de elaboración y aprobación de ordenanzas y reglamentos."
+  },
+  {
+    "q": "¿Qué papel desempeña el Interventor en relación con una ordenanza fiscal que establece una nueva tasa municipal?",
+    "options": [
+      "Puede intervenir emitiendo el informe técnico-económico exigido por el art. 25 TRLRHL sobre el coste del servicio o el valor de mercado del aprovechamiento",
+      "Aprueba directamente la ordenanza fiscal sin intervención del Pleno",
+      "Sustituye al Secretario en el asesoramiento jurídico sobre la ordenanza"
+    ],
+    "correct": 0,
+    "exp": "El Interventor, o los servicios técnico-económicos correspondientes, participan en la elaboración de una ordenanza fiscal mediante el informe técnico-económico exigido por el art. 25 TRLRHL, que debe poner de manifiesto el valor de mercado o la previsible cobertura del coste del servicio."
+  },
+  {
+    "q": "¿Qué diferencia existe entre el procedimiento de elaboración de una ordenanza ordinaria y el de una ordenanza fiscal, en cuanto al informe técnico-económico?",
+    "options": [
+      "Las ordenanzas de policía siempre exigen informe técnico-económico, y las fiscales no",
+      "La ordenanza fiscal exige, además de los trámites generales del art. 49 LBRL, el informe técnico-económico específico del art. 25 TRLRHL, no exigido con carácter general para las ordenanzas de policía",
+      "Ninguna ordenanza exige informe técnico o económico previo"
+    ],
+    "correct": 1,
+    "exp": "La ordenanza fiscal exige, de forma específica y adicional a los trámites generales del art. 49 LBRL, el informe técnico-económico regulado en el art. 25 TRLRHL, que no resulta exigible con carácter general para las ordenanzas de policía o de intervención."
+  },
+  {
+    "q": "¿Qué relación existe entre las ordenanzas municipales y el principio de autonomía local reconocido en el art. 137 de la Constitución?",
+    "options": [
+      "Las ordenanzas municipales son incompatibles con el principio de autonomía local",
+      "La autonomía local solo se manifiesta en materia tributaria, nunca en la potestad reglamentaria",
+      "La potestad de dictar ordenanzas es una manifestación concreta de la autonomía local para la gestión de los intereses propios de cada Entidad, dentro del marco de la ley"
+    ],
+    "correct": 2,
+    "exp": "La potestad de dictar ordenanzas y reglamentos constituye una manifestación concreta del principio de autonomía local reconocido en el art. 137 CE, que garantiza a los municipios, provincias y demás entidades locales la gestión de sus respectivos intereses dentro del marco fijado por la ley."
+  },
+  {
+    "q": "¿Qué papel desempeña el control de legalidad que las Comunidades Autónomas y el Estado pueden ejercer, en determinados supuestos, sobre las ordenanzas municipales?",
+    "options": [
+      "Se limita, con carácter general, a la posibilidad de impugnación jurisdiccional (recurso contencioso-administrativo) por razón de legalidad, respetando la autonomía local reconocida constitucionalmente",
+      "Permite a la Comunidad Autónoma derogar libremente cualquier ordenanza municipal sin control judicial",
+      "El Estado puede aprobar directamente ordenanzas en sustitución del municipio"
+    ],
+    "correct": 0,
+    "exp": "El control externo sobre las ordenanzas municipales se limita, con carácter general y en respeto a la autonomía local constitucionalmente garantizada, a la posibilidad de impugnación jurisdiccional por razón de legalidad (recurso contencioso-administrativo), sin que el Estado o la Comunidad Autónoma puedan derogarlas directamente por vía administrativa."
+  },
+  {
+    "q": "¿Qué relación existe entre las ordenanzas y reglamentos de las Diputaciones Provinciales y los de los municipios?",
+    "options": [
+      "Las Diputaciones Provinciales no tienen potestad reglamentaria propia, dependiendo siempre de los municipios",
+      "Las Diputaciones Provinciales, como Entidades Locales con potestad reglamentaria propia, pueden aprobar sus propias ordenanzas y reglamentos siguiendo un procedimiento análogo al de los municipios (arts. 4.1 a y 49 LBRL, aplicables a todas las Entidades Locales)",
+      "Solo los municipios de gran población pueden aprobar ordenanzas, nunca las Diputaciones"
+    ],
+    "correct": 1,
+    "exp": "Las Diputaciones Provinciales, como Entidades Locales con potestad reglamentaria y de autoorganización propia (art. 4.1 a LBRL, aplicable a municipios, provincias e islas), pueden aprobar sus propias ordenanzas y reglamentos siguiendo un procedimiento análogo al previsto en el art. 49 LBRL para los municipios."
+  },
+  {
+    "q": "¿Qué papel desempeña el 'Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales' (ROF, RD 2568/1986) en relación con las ordenanzas y reglamentos municipales?",
+    "options": [
+      "Deroga completamente la potestad reglamentaria municipal reconocida en la LBRL",
+      "Sustituye a cualquier Reglamento Orgánico que apruebe una Corporación Local",
+      "Desarrolla reglamentariamente aspectos organizativos y de funcionamiento de los órganos locales, complementando el marco básico de la LBRL, con aplicación supletoria en defecto de Reglamento Orgánico propio o legislación autonómica"
+    ],
+    "correct": 2,
+    "exp": "El ROF (RD 2568/1986) desarrolla reglamentariamente, con carácter supletorio, aspectos organizativos y de funcionamiento de los órganos de gobierno de las Entidades Locales, aplicándose en defecto de Reglamento Orgánico propio o de la correspondiente legislación autonómica de desarrollo."
+  },
+  {
+    "q": "Según el art. 4.1 de la LBRL, además de las potestades reglamentaria y de autoorganización, ¿qué otra potestad clásica se atribuye en todo caso a los municipios?",
+    "options": [
+      "La potestad tributaria y financiera",
+      "La potestad legislativa plena",
+      "La potestad de acuñar moneda"
+    ],
+    "correct": 0,
+    "exp": "Art. 4.1 b) LBRL: corresponde en todo caso a los municipios, provincias e islas 'Las potestades tributaria y financiera.'"
+  },
+  {
+    "q": "Según el art. 4.1 de la LBRL, junto a las potestades reglamentaria, de autoorganización y tributaria, también corresponde en todo caso a los municipios:",
+    "options": [
+      "Únicamente la potestad de acuñar sellos oficiales",
+      "La potestad de programación o planificación",
+      "Solo la potestad de firmar tratados internacionales"
+    ],
+    "correct": 1,
+    "exp": "Art. 4.1 c) LBRL: corresponde en todo caso a los municipios, provincias e islas 'La potestad de programación o planificación.'"
+  },
+  {
+    "q": "¿Qué relación existe entre la potestad de programación o planificación (art. 4.1 c LBRL) y las ordenanzas municipales?",
+    "options": [
+      "La potestad de programación excluye completamente cualquier desarrollo mediante ordenanza",
+      "Solo el Estado puede aprobar instrumentos de programación local",
+      "Determinados instrumentos de programación (como planes de igualdad, planes de movilidad u ordenanzas de planeamiento urbanístico) pueden articularse mediante normas de rango reglamentario aprobadas conforme al procedimiento correspondiente"
+    ],
+    "correct": 2,
+    "exp": "La potestad de programación o planificación (art. 4.1 c LBRL) puede articularse, en ciertos casos, mediante instrumentos de rango normativo (ordenanzas de planeamiento urbanístico, planes con eficacia reglamentaria), aprobados conforme al procedimiento formal correspondiente."
+  },
+  {
+    "q": "¿Qué relación existe entre las ordenanzas municipales y la Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno?",
+    "options": [
+      "Las Entidades Locales deben publicar en sus portales de transparencia, entre otra información, las ordenanzas y reglamentos vigentes, en cumplimiento de las obligaciones de publicidad activa",
+      "La Ley 19/2013 no exige ninguna publicidad adicional de las ordenanzas municipales",
+      "Las ordenanzas quedan expresamente excluidas de las obligaciones de transparencia"
+    ],
+    "correct": 0,
+    "exp": "La Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno, exige a las Entidades Locales publicar en sus portales de transparencia, entre otra información de publicidad activa, las normas propias, incluidas las ordenanzas y reglamentos vigentes."
+  },
+  {
+    "q": "¿Qué relación existe entre la 'consulta pública previa' del art. 133 de la Ley 39/2015 y la elaboración de ordenanzas locales de cierta relevancia?",
+    "options": [
+      "Es un trámite exclusivo de la Administración General del Estado, sin aplicación posible en el ámbito local",
+      "Constituye una buena práctica (y en determinados supuestos exigencia normativa complementaria) consistente en recabar la opinión de los ciudadanos y organizaciones potencialmente afectados con carácter previo a la elaboración del texto de la ordenanza",
+      "Es obligatoria únicamente para las ordenanzas de tráfico"
+    ],
+    "correct": 1,
+    "exp": "La consulta pública previa (art. 133 Ley 39/2015), aunque concebida originalmente para el ámbito estatal, se ha extendido como buena práctica (y, en algunos casos, exigencia de normativa de transparencia autonómica o local) a la elaboración de ordenanzas locales de cierta relevancia, recabando la opinión ciudadana antes de redactar el texto definitivo."
+  },
+  {
+    "q": "En conclusión, ¿qué papel desempeñan conjuntamente los arts. 4.1 a), 22.2 d), 47.2 f), 49 y 70.2 de la LBRL en materia de ordenanzas y reglamentos locales?",
+    "options": [
+      "Regulan exclusivamente el régimen tributario municipal, sin relación con las ordenanzas de policía",
+      "Solo se aplican a los municipios de gran población, nunca al resto",
+      "Configuran, de forma sistemática, el fundamento (potestad reglamentaria), la competencia orgánica (Pleno), el régimen de mayorías, el procedimiento de elaboración y aprobación, y las condiciones de publicidad y entrada en vigor de las normas locales"
+    ],
+    "correct": 2,
+    "exp": "Estos artículos de la LBRL configuran, de forma sistemática y coherente, el marco jurídico completo de las ordenanzas y reglamentos locales: el fundamento de la potestad reglamentaria (art. 4.1 a), la competencia del Pleno (art. 22.2 d), el régimen de mayorías (art. 47.2 f), el procedimiento de elaboración y aprobación (art. 49), y las condiciones de publicidad y entrada en vigor (art. 70.2)."
+  },
+  {
+    "q": "¿Qué relación existe entre el art. 105 a) de la Constitución y el procedimiento de elaboración de reglamentos administrativos, incluidos los locales?",
+    "options": [
+      "El art. 105 a) CE remite a la ley la regulación de la audiencia de los ciudadanos, directamente o a través de organizaciones, en el procedimiento de elaboración de disposiciones administrativas que les afecten",
+      "El art. 105 a) CE prohíbe cualquier participación ciudadana en la elaboración de reglamentos",
+      "El art. 105 a) CE se refiere exclusivamente a las leyes estatales, nunca a las ordenanzas"
+    ],
+    "correct": 0,
+    "exp": "Art. 105 a) CE: 'La ley regulará... la audiencia de los ciudadanos, directamente o a través de las organizaciones y asociaciones reconocidas por la ley, en el procedimiento de elaboración de las disposiciones administrativas que les afecten.' Este precepto constitucional fundamenta el trámite de información pública y audiencia del art. 49 b) LBRL."
+  },
+  {
+    "q": "¿Qué relación existe entre la ordenanza municipal y el concepto de 'disposición administrativa de carácter general'?",
+    "options": [
+      "La ordenanza municipal nunca tiene la consideración de disposición general, siendo siempre un acto administrativo singular",
+      "La ordenanza municipal es, precisamente, una disposición administrativa de carácter general, de ahí que se someta a los principios de jerarquía normativa, publicidad e irretroactividad de disposiciones restrictivas propios de este tipo de normas",
+      "Las disposiciones de carácter general están reservadas en exclusiva a las Cortes Generales"
+    ],
+    "correct": 1,
+    "exp": "La ordenanza municipal es, en efecto, una disposición administrativa de carácter general, lo que determina su sometimiento a los principios generales aplicables a este tipo de normas: jerarquía, publicidad, e irretroactividad de las disposiciones sancionadoras o restrictivas de derechos individuales, conforme al art. 9.3 CE."
+  },
+  {
+    "q": "¿Pueden las disposiciones administrativas de carácter general, como las ordenanzas, tener efectos retroactivos cuando sean restrictivas de derechos individuales o sancionadoras?",
+    "options": [
+      "Sí, siempre que lo apruebe el Pleno por unanimidad",
+      "No, ninguna ordenanza puede tener efectos retroactivos bajo ninguna circunstancia, ni siquiera las favorables",
+      "No, conforme al art. 9.3 CE, que garantiza la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales"
+    ],
+    "correct": 2,
+    "exp": "El art. 9.3 CE garantiza 'la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales', principio plenamente aplicable a las ordenanzas municipales de carácter sancionador o restrictivo."
+  },
+  {
+    "q": "¿Puede una ordenanza municipal tener efectos retroactivos si resulta favorable para los ciudadanos afectados?",
+    "options": [
+      "Sí, la retroactividad de disposiciones favorables no está prohibida por el art. 9.3 CE, que solo garantiza la irretroactividad de las desfavorables",
+      "No, ninguna norma puede tener efectos retroactivos en el ordenamiento español",
+      "Sí, pero solo si lo autoriza previamente el Consejo de Estado"
+    ],
+    "correct": 0,
+    "exp": "El art. 9.3 CE garantiza únicamente la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, por lo que las disposiciones favorables (incluidas ordenanzas) pueden, en principio, tener efectos retroactivos si así se establece expresamente."
+  },
+  {
+    "q": "¿Qué papel desempeña el 'principio de proporcionalidad' en la elaboración de una ordenanza que establece medidas restrictivas para el ejercicio de una actividad?",
+    "options": [
+      "Permite a la Corporación imponer cualquier restricción sin ninguna justificación",
+      "Exige que la medida restrictiva adoptada sea adecuada, necesaria y proporcionada al fin de interés general perseguido, evitando cargas excesivas o injustificadas",
+      "Prohíbe cualquier tipo de restricción en las ordenanzas municipales"
+    ],
+    "correct": 1,
+    "exp": "El principio de proporcionalidad exige que las medidas restrictivas contenidas en una ordenanza sean adecuadas, necesarias y proporcionadas al fin de interés general que se persigue, evitando cargas o restricciones excesivas o injustificadas para los ciudadanos."
+  },
+  {
+    "q": "¿Qué relación existe entre la elaboración de una ordenanza y el principio de necesidad recogido en el art. 129.1 de la Ley 39/2015?",
+    "options": [
+      "Permite dictar cualquier ordenanza sin necesidad de justificación alguna",
+      "Solo se aplica a los reglamentos del Gobierno de la Nación",
+      "Exige justificar que la ordenanza es el instrumento más adecuado para garantizar la consecución de los objetivos perseguidos, sin que existan alternativas menos restrictivas o menos costosas"
+    ],
+    "correct": 2,
+    "exp": "El principio de necesidad (art. 129.1 Ley 39/2015) exige justificar en la elaboración de la ordenanza que esta es el instrumento más adecuado para garantizar la consecución de los objetivos perseguidos, tras constatar que no existen otras medidas menos restrictivas de derechos o que impongan menos obligaciones."
+  },
+  {
+    "q": "¿Qué diferencia existe entre una ordenanza municipal 'de mínimos' y una ordenanza que establece requisitos más exigentes que la normativa sectorial estatal o autonómica?",
+    "options": [
+      "La ordenanza puede establecer requisitos adicionales o más exigentes solo si la normativa sectorial se lo permite expresamente o no lo prohíbe, respetando siempre el marco de la competencia municipal y el principio de no discriminación",
+      "Las ordenanzas municipales nunca pueden ser más exigentes que la normativa estatal, en ningún caso",
+      "La normativa sectorial estatal siempre prevalece automáticamente, incluso si la ordenanza es más favorable para el interés general"
+    ],
+    "correct": 0,
+    "exp": "Una ordenanza puede establecer requisitos adicionales o más exigentes que la normativa sectorial únicamente si esta se lo permite (expresa o tácitamente) y dentro del ámbito de la competencia municipal, respetando siempre los principios de proporcionalidad y no discriminación."
+  },
+  {
+    "q": "¿Qué órgano resuelve, en última instancia dentro de la vía administrativa, un recurso de reposición interpuesto contra un acto de aplicación de una ordenanza municipal?",
+    "options": [
+      "Siempre el Pleno del Ayuntamiento, sin excepción",
+      "El mismo órgano que dictó el acto administrativo impugnado",
+      "El Tribunal Superior de Justicia directamente"
+    ],
+    "correct": 1,
+    "exp": "Conforme al régimen general del recurso de reposición, es competente para resolverlo el mismo órgano que dictó el acto administrativo impugnado, sin perjuicio del posterior recurso contencioso-administrativo."
+  },
+  {
+    "q": "¿Qué relación existe entre una ordenanza municipal y una 'instrucción' u 'orden de servicio' interna dictada por un órgano municipal?",
+    "options": [
+      "Ambas figuras tienen exactamente el mismo rango y eficacia normativa externa",
+      "Las instrucciones deben publicarse en el Boletín Oficial de la Provincia, igual que las ordenanzas",
+      "La instrucción u orden de servicio tiene efectos exclusivamente internos (ad intra) dentro de la organización administrativa, careciendo de la eficacia normativa externa (ad extra) propia de la ordenanza"
+    ],
+    "correct": 2,
+    "exp": "La instrucción u orden de servicio tiene, con carácter general, eficacia meramente interna (ad intra) dentro de la organización administrativa, dirigida a los propios órganos y empleados públicos, sin la eficacia normativa externa (ad extra) que caracteriza a la ordenanza frente a los ciudadanos."
+  },
+  {
+    "q": "¿Qué relación existe entre las 'circulares' administrativas y las ordenanzas municipales?",
+    "options": [
+      "Las circulares son instrucciones de organización interna dirigidas a órganos subordinados, careciendo del carácter de disposición general externa propio de las ordenanzas",
+      "Las circulares tienen exactamente el mismo procedimiento de aprobación que las ordenanzas",
+      "Las circulares deben aprobarse siempre por el Pleno, igual que las ordenanzas"
+    ],
+    "correct": 0,
+    "exp": "Las circulares son instrucciones de organización y funcionamiento interno dirigidas a órganos jerárquicamente subordinados, sin el carácter de disposición general con eficacia externa que corresponde a las ordenanzas, ni sujetas a su mismo procedimiento de aprobación."
+  },
+  {
+    "q": "¿Qué relación existe entre las ordenanzas municipales y el concepto doctrinal de 'reglamento ejecutivo' frente a 'reglamento independiente'?",
+    "options": [
+      "Las ordenanzas municipales solo pueden ser reglamentos ejecutivos, nunca independientes",
+      "Una ordenanza puede actuar como reglamento ejecutivo, desarrollando una ley previa, o como reglamento independiente, regulando directamente materias de competencia municipal sin ley previa que desarrollar, dentro de los límites competenciales y de reserva de ley",
+      "Las ordenanzas municipales solo pueden ser reglamentos independientes, nunca ejecutivos"
+    ],
+    "correct": 1,
+    "exp": "Doctrinalmente, una ordenanza puede operar como reglamento ejecutivo (desarrollando y ejecutando una ley previa, como ocurre con muchas ordenanzas fiscales) o como reglamento independiente (regulando directamente materias de competencia municipal, como ocurre con muchas ordenanzas de policía), siempre dentro de los límites de la reserva de ley."
+  },
+  {
+    "q": "¿Qué papel desempeña el 'principio de eficacia' en la elaboración de las ordenanzas municipales, conforme a los principios de buena regulación?",
+    "options": [
+      "Se refiere exclusivamente a la rapidez en la tramitación administrativa, sin relación con los objetivos de la norma",
+      "No tiene ninguna aplicación en el ámbito de la potestad reglamentaria local",
+      "Exige que la regulación proyectada logre los fines perseguidos, basándose en una identificación clara de los objetivos y siendo el instrumento más adecuado para garantizar su consecución"
+    ],
+    "correct": 2,
+    "exp": "El principio de eficacia (art. 129.2 Ley 39/2015) exige que la iniciativa normativa esté justificada por una identificación clara de los fines perseguidos y sea el instrumento más adecuado para garantizarlos, evitando cargas innecesarias o accesorias."
+  },
+  {
+    "q": "¿Qué papel desempeña el 'principio de transparencia' en la elaboración de una ordenanza municipal?",
+    "options": [
+      "Exige posibilitar el acceso sencillo, universal y actualizado a la normativa en vigor y a los documentos propios de su proceso de elaboración, en los términos que fija la propia Ley 39/2015",
+      "Permite a la Corporación mantener en secreto el contenido de la ordenanza hasta su publicación oficial",
+      "Sustituye completamente al trámite de información pública del art. 49 LBRL"
+    ],
+    "correct": 0,
+    "exp": "El principio de transparencia (art. 129.5 Ley 39/2015) exige posibilitar el acceso sencillo, universal y actualizado a la normativa en vigor y a los documentos propios de su proceso de elaboración, complementando (no sustituyendo) el trámite de información pública del art. 49 LBRL."
+  },
+  {
+    "q": "¿Qué relación existe entre las ordenanzas municipales de protección del medio ambiente y la competencia municipal reconocida en el art. 25.2 b) LBRL?",
+    "options": [
+      "El art. 25.2 b) LBRL prohíbe expresamente las ordenanzas de protección ambiental",
+      "Las ordenanzas medioambientales (ruido, residuos, contaminación) desarrollan, en el ámbito local, la competencia propia municipal en materia de medio ambiente urbano reconocida en el art. 25.2 b) LBRL",
+      "La competencia medioambiental municipal fue suprimida por la reforma de 2013"
+    ],
+    "correct": 1,
+    "exp": "Las ordenanzas municipales de protección del medio ambiente (ruido, contaminación acústica, gestión de residuos) desarrollan, en el ámbito local, la competencia propia municipal en materia de medio ambiente urbano reconocida en el art. 25.2 b) LBRL."
+  },
+  {
+    "q": "¿Qué relación existe entre las ordenanzas de convivencia ciudadana (o de civismo) y la potestad sancionadora local?",
+    "options": [
+      "No pueden establecer ningún tipo de sanción, al ser meramente orientativas",
+      "Sustituyen completamente al Código Penal en la persecución de conductas incívicas",
+      "Estas ordenanzas suelen tipificar infracciones relacionadas con comportamientos incívicos en el espacio público, ejerciendo la potestad sancionadora local dentro de los límites y garantías del Título XI LBRL"
+    ],
+    "correct": 2,
+    "exp": "Las ordenanzas de convivencia ciudadana o civismo tipifican, con frecuencia, infracciones relacionadas con comportamientos incívicos en el espacio público (botellón, pintadas, ruido), ejerciendo la potestad sancionadora local dentro de los límites, garantías y tipología de infracciones y sanciones del Título XI LBRL (arts. 139-141)."
+  },
+  {
+    "q": "¿Qué relación existe entre las ordenanzas municipales sobre terrazas y veladores y el régimen de utilización del dominio público local?",
+    "options": [
+      "Estas ordenanzas desarrollan el régimen de uso privativo o aprovechamiento especial del dominio público local (arts. 74 y siguientes RBEL), habitualmente sujeto a licencia y al pago de la correspondiente tasa",
+      "Se rigen exclusivamente por el Código Civil, sin ninguna intervención municipal",
+      "Están completamente excluidas de cualquier ordenanza municipal"
+    ],
+    "correct": 0,
+    "exp": "Las ordenanzas sobre terrazas y veladores desarrollan el régimen de uso privativo o aprovechamiento especial del dominio público local, habitualmente sujeto a licencia (o declaración responsable) y al pago de la tasa correspondiente conforme al art. 20.3 j) TRLRHL."
+  },
+  {
+    "q": "¿Qué relación existe entre una ordenanza municipal de vertidos y depuración de aguas residuales y las competencias propias municipales del art. 25.2 LBRL?",
+    "options": [
+      "No guarda ninguna relación con las competencias del art. 25.2 LBRL",
+      "Desarrolla la competencia propia municipal en materia de abastecimiento de agua y tratamiento de aguas residuales, reconocida expresamente en el art. 25.2 c) LBRL",
+      "Es una materia reservada en exclusiva a las Confederaciones Hidrográficas, sin intervención municipal"
+    ],
+    "correct": 1,
+    "exp": "La ordenanza de vertidos y depuración de aguas residuales desarrolla la competencia propia municipal en materia de 'Abastecimiento de agua potable a domicilio y evacuación y tratamiento de aguas residuales', reconocida en el art. 25.2 c) LBRL."
+  },
+  {
+    "q": "¿Qué relación existe entre una ordenanza reguladora de cementerios y servicios funerarios y las competencias propias municipales?",
+    "options": [
+      "Los cementerios son competencia exclusiva de la Iglesia Católica, sin intervención municipal",
+      "Es una materia reservada al Estado, sin posibilidad de ordenanza municipal",
+      "Desarrolla la competencia propia municipal en materia de cementerios y actividades funerarias, reconocida en el art. 25.2 j) LBRL"
+    ],
+    "correct": 2,
+    "exp": "La ordenanza reguladora de cementerios y servicios funerarios desarrolla la competencia propia municipal reconocida en el art. 25.2 j) LBRL: 'Cementerios y actividades funerarias.'"
+  },
+  {
+    "q": "¿Qué relación existe entre las ordenanzas de accesibilidad y supresión de barreras arquitectónicas y las competencias municipales en materia de urbanismo?",
+    "options": [
+      "Se enmarcan dentro de la competencia propia municipal de ordenación, gestión, ejecución y disciplina urbanística (art. 25.2 a LBRL), desarrollando exigencias de accesibilidad universal",
+      "No tienen ninguna relación con el urbanismo municipal",
+      "Son competencia exclusiva de las asociaciones de personas con discapacidad, sin intervención municipal"
+    ],
+    "correct": 0,
+    "exp": "Las ordenanzas de accesibilidad y supresión de barreras arquitectónicas se enmarcan dentro de la competencia propia municipal de urbanismo (art. 25.2 a LBRL), desarrollando las exigencias de accesibilidad universal en el diseño y uso del espacio urbano."
+  },
+  {
+    "q": "¿Qué relación existe entre una ordenanza de administración electrónica y la Ley 39/2015 y la Ley 40/2015?",
+    "options": [
+      "No guarda ninguna relación con estas leyes estatales",
+      "La ordenanza de administración electrónica desarrolla, en el ámbito local, las previsiones de ambas leyes sobre uso de medios electrónicos, registro electrónico, sede electrónica y relación telemática con los ciudadanos",
+      "Sustituye completamente a la Ley 39/2015 en el ámbito municipal"
+    ],
+    "correct": 1,
+    "exp": "Una ordenanza municipal de administración electrónica desarrolla, en el ámbito local, las previsiones generales de la Ley 39/2015 (procedimiento) y la Ley 40/2015 (régimen jurídico del sector público) sobre uso de medios electrónicos, sede electrónica, registro electrónico y relación telemática con la ciudadanía."
+  },
+  {
+    "q": "¿Qué relación existe entre las 'ordenanzas tipo' o 'ordenanzas modelo' elaboradas por Diputaciones Provinciales y los municipios de su ámbito territorial?",
+    "options": [
+      "Tienen aplicación automática y directa en todos los municipios de la provincia, sin necesidad de aprobación municipal",
+      "Sustituyen a cualquier ordenanza que pretenda aprobar el municipio",
+      "Constituyen un instrumento de asistencia técnica de la Diputación (art. 36 LBRL) que los municipios pueden adaptar y aprobar como propias siguiendo igualmente el procedimiento del art. 49 LBRL"
+    ],
+    "correct": 2,
+    "exp": "Las ordenanzas tipo o modelo, elaboradas por las Diputaciones Provinciales en ejercicio de su función de asistencia técnica a los municipios (art. 36 LBRL), constituyen un instrumento orientativo que cada municipio puede adaptar y aprobar como propio, siguiendo igualmente el procedimiento formal del art. 49 LBRL para su validez."
+  },
+  {
+    "q": "¿Qué relación existe entre una ordenanza municipal y un convenio urbanístico suscrito entre el Ayuntamiento y un particular?",
+    "options": [
+      "El convenio urbanístico es un instrumento de naturaleza contractual o convencional, distinto de la ordenanza, aunque debe respetar en todo caso el planeamiento y la normativa urbanística vigente, incluidas las ordenanzas aplicables",
+      "Un convenio urbanístico tiene exactamente la misma naturaleza y procedimiento que una ordenanza",
+      "El convenio urbanístico puede modificar libremente cualquier ordenanza sin seguir su procedimiento de modificación"
+    ],
+    "correct": 0,
+    "exp": "El convenio urbanístico es un instrumento de naturaleza contractual o convencional entre la Administración y un particular, distinto de la ordenanza (que es una disposición general unilateral), debiendo respetar en todo caso el planeamiento y la normativa urbanística vigente, sin poder modificarla al margen de su propio procedimiento."
+  },
+  {
+    "q": "En conclusión, ¿qué papel desempeña el conjunto normativo estudiado en este tema (arts. 4, 22, 47, 49, 55-59, 70, 139-141 LBRL/TRRL) dentro del sistema de fuentes del Derecho local?",
+    "options": [
+      "Se limita a regular exclusivamente el régimen sancionador de tráfico",
+      "Configura el marco jurídico completo de la potestad reglamentaria local: su fundamento constitucional y legal, los tipos de normas (ordenanzas, reglamentos, bandos), su procedimiento de elaboración, publicidad y entrada en vigor, y los límites derivados de la potestad sancionadora",
+      "Solo tiene aplicación en los municipios de gran población"
+    ],
+    "correct": 1,
+    "exp": "El conjunto de preceptos estudiados configura el marco jurídico completo de la potestad reglamentaria local: fundamento (art. 4), competencia orgánica (art. 22), mayorías (art. 47), procedimiento de elaboración (art. 49), tipología de normas (arts. 55-59 TRRL), publicidad y entrada en vigor (art. 70), y límites derivados del ejercicio de la potestad sancionadora (arts. 139-141), constituyendo una pieza esencial del sistema de fuentes del Derecho local."
+  },
+  {
+    "q": "¿Qué relación existe entre las ordenanzas municipales de tenencia de animales y las competencias propias municipales en materia de salubridad pública?",
+    "options": [
+      "No guardan relación alguna con las competencias sanitarias municipales",
+      "Son competencia exclusiva de la Comunidad Autónoma, sin intervención municipal",
+      "Desarrollan la competencia propia municipal en materia de protección de la salubridad pública, reconocida en el art. 25.2 j) LBRL"
+    ],
+    "correct": 2,
+    "exp": "Las ordenanzas sobre tenencia de animales desarrollan la competencia propia municipal en materia de protección de la salubridad pública, en conexión con el art. 25.2 j) LBRL, que atribuye a los municipios competencias en esta materia."
+  },
+  {
+    "q": "¿Qué relación existe entre las ordenanzas municipales reguladoras del comercio ambulante y las competencias propias del municipio en materia de abastos y mercados?",
+    "options": [
+      "Desarrollan la competencia propia municipal sobre 'Ferias, abastos, mercados, lonjas y comercio ambulante', reconocida en el art. 25.2 i) LBRL",
+      "El comercio ambulante es competencia exclusiva estatal, sin intervención municipal posible",
+      "No existe ninguna competencia municipal relacionada con el comercio ambulante"
+    ],
+    "correct": 0,
+    "exp": "Las ordenanzas de comercio ambulante desarrollan la competencia propia municipal recogida en el art. 25.2 i) LBRL: 'Ferias, abastos, mercados, lonjas y comercio ambulante.'"
+  },
+  {
+    "q": "¿Qué relación existe entre una ordenanza de vía pública (ocupación de aceras, obras, vados) y el art. 25.2 a) LBRL?",
+    "options": [
+      "No tiene relación con ninguna competencia municipal reconocida legalmente",
+      "Desarrolla la competencia municipal en materia de urbanismo y, en su caso, la regulación de usos del dominio público local",
+      "Es competencia exclusiva de la Dirección General de Tráfico"
+    ],
+    "correct": 1,
+    "exp": "Las ordenanzas de vía pública desarrollan, entre otras, la competencia municipal en materia de urbanismo (art. 25.2 a LBRL) y la regulación del uso del dominio público local, en conexión con las tasas del art. 20.3 TRLRHL."
+  },
+  {
+    "q": "¿Qué relación existe entre las ordenanzas fiscales y el principio de reserva de ley en materia tributaria (art. 133 CE)?",
+    "options": [
+      "Las ordenanzas fiscales pueden crear libremente cualquier tributo sin ninguna habilitación legal previa",
+      "Las ordenanzas fiscales tienen rango de ley orgánica",
+      "Las ordenanzas fiscales desarrollan, dentro del marco legal habilitante (TRLRHL), los elementos del tributo que la ley permite concretar a nivel local, sin poder crear ex novo tributos no previstos legalmente"
+    ],
+    "correct": 2,
+    "exp": "Conforme al art. 133 CE, las ordenanzas fiscales desarrollan, dentro del marco legal habilitante fijado por el TRLRHL, los elementos concretos del tributo (tipos, bonificaciones, gestión) que la ley permite fijar a nivel local, sin poder crear tributos no previstos legalmente, en coherencia con el principio de reserva de ley tributaria."
+  },
+  {
+    "q": "¿Qué relación existe entre una ordenanza reguladora del uso de las playas fluviales o zonas de baño municipales y las competencias en materia de protección civil?",
+    "options": [
+      "Puede desarrollar, entre otras, la competencia propia municipal de protección civil y prevención de riesgos (art. 25.2 f LBRL), estableciendo normas de seguridad y uso",
+      "No guarda relación alguna con la protección civil municipal",
+      "Es competencia exclusiva de Costas, sin intervención municipal"
+    ],
+    "correct": 0,
+    "exp": "Una ordenanza de uso de zonas de baño puede desarrollar, entre otras, la competencia municipal de protección civil y prevención de riesgos (art. 25.2 f LBRL), estableciendo normas de seguridad, señalización y comportamiento en dichas zonas."
+  },
+  {
+    "q": "¿Qué relación existe entre la ordenanza municipal de residuos y la Ley 7/2022, de residuos y suelos contaminados?",
+    "options": [
+      "No existe ninguna relación entre ambas normas",
+      "La ordenanza municipal desarrolla, en su ámbito de competencia, las obligaciones y previsiones que la legislación estatal de residuos impone a las Entidades Locales en materia de recogida, tratamiento y gestión de residuos urbanos",
+      "Solo el Estado puede regular la gestión de residuos, sin ninguna competencia municipal"
+    ],
+    "correct": 1,
+    "exp": "La ordenanza municipal de residuos desarrolla, en su ámbito competencial, las obligaciones que la legislación estatal (actualmente la Ley 7/2022, de residuos y suelos contaminados para una economía circular) impone a las Entidades Locales en materia de recogida, tratamiento y gestión de residuos urbanos, en conexión con la competencia propia del art. 25.2 b) LBRL."
+  },
+  {
+    "q": "¿Qué relación existe entre las ordenanzas de zonas de bajas emisiones y la Ley 7/2021, de cambio climático y transición energética?",
+    "options": [
+      "No guardan relación alguna con la legislación estatal de cambio climático",
+      "Son competencia exclusiva de la Unión Europea, sin intervención municipal",
+      "Desarrollan, en el ámbito local, la obligación legal de establecer zonas de bajas emisiones en municipios de más de 50.000 habitantes y territorios insulares, impuesta por dicha ley"
+    ],
+    "correct": 2,
+    "exp": "Las ordenanzas de zonas de bajas emisiones desarrollan, en el ámbito local, la obligación establecida por la Ley 7/2021, de cambio climático y transición energética, de implantar dichas zonas en municipios de más de 50.000 habitantes y determinados territorios insulares, en conexión con la tasa específica del art. 24.1 a) TRLRHL."
+  },
+  {
+    "q": "En síntesis, ¿qué característica común presentan todas las materias sectoriales mencionadas (medio ambiente, tráfico, comercio, residuos, zonas de bajas emisiones) en relación con la potestad de dictar ordenanzas municipales?",
+    "options": [
+      "Todas ellas se desarrollan, en el ámbito local, mediante ordenanzas municipales que concretan y aplican, dentro de las competencias propias municipales, las previsiones generales establecidas por la legislación sectorial estatal o autonómica",
+      "Todas estas materias son de competencia exclusiva estatal, sin ninguna intervención municipal",
+      "Las ordenanzas municipales carecen de cualquier conexión con la legislación sectorial"
+    ],
+    "correct": 0,
+    "exp": "Todas estas materias sectoriales comparten una característica común: se desarrollan, en el ámbito local, mediante ordenanzas municipales que concretan y aplican, dentro del marco de las competencias propias municipales (art. 25.2 LBRL), las previsiones generales establecidas por la legislación sectorial estatal o autonómica correspondiente."
+  },
+  {
+    "q": "Según el art. 48.1 de la Ley de Capitalidad, la elaboración, aprobación y modificación de las ordenanzas y los Reglamentos municipales de Zaragoza se ajustará a la legislación sobre procedimiento administrativo común y...",
+    "options": [
+      "a lo que en cada caso decida el Gobierno de Zaragoza",
+      "al procedimiento previsto para el planeamiento urbanístico",
+      "al procedimiento establecido en el propio artículo 48"
+    ],
+    "correct": 2,
+    "exp": "El art. 48.1 dispone que la elaboración, aprobación y modificación de ordenanzas y Reglamentos municipales se ajustará a la legislación sobre procedimiento administrativo común y al procedimiento establecido en el propio art. 48.",
+    "fuente": "Art. 48.1 Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 48.1 de la Ley de Capitalidad excluye expresamente una materia del procedimiento de elaboración, aprobación y modificación de ordenanzas y Reglamentos municipales, por regirse por su normativa específica. ¿Cuál?",
+    "options": [
+      "El planeamiento urbanístico",
+      "El Reglamento Orgánico Municipal",
+      "El presupuesto municipal"
+    ],
+    "correct": 0,
+    "exp": "El art. 48.1 excluye el planeamiento urbanístico, que se regirá por su normativa específica.",
+    "fuente": "Art. 48.1 Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 48.2 de la Ley de Capitalidad, ¿a quién corresponde la iniciativa para la aprobación de ordenanzas y Reglamentos de competencia del Pleno?",
+    "options": [
+      "Únicamente al Gobierno de Zaragoza",
+      "Al Gobierno de Zaragoza, a los grupos políticos y a la iniciativa popular",
+      "Únicamente a los grupos políticos representados en el Pleno"
+    ],
+    "correct": 1,
+    "exp": "El art. 48.2 atribuye la iniciativa a tres sujetos: el Gobierno de Zaragoza (a), los grupos políticos (b) y la iniciativa popular (c).",
+    "fuente": "Art. 48.2 Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 48.2.a) de la Ley de Capitalidad, el Gobierno de Zaragoza ejerce la iniciativa para la aprobación de ordenanzas y Reglamentos mediante...",
+    "options": [
+      "una proposición suscrita por sus miembros",
+      "una moción presentada al Pleno",
+      "la remisión del correspondiente proyecto normativo"
+    ],
+    "correct": 2,
+    "exp": "El art. 48.2.a) establece que la iniciativa del Gobierno de Zaragoza se ejerce mediante la remisión del correspondiente proyecto normativo.",
+    "fuente": "Art. 48.2.a) Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 48.2.b) de la Ley de Capitalidad, los grupos políticos ejercen la iniciativa para la aprobación de ordenanzas y Reglamentos municipales a través de...",
+    "options": [
+      "la correspondiente proposición",
+      "una moción de urgencia",
+      "un proyecto normativo"
+    ],
+    "correct": 0,
+    "exp": "El art. 48.2.b) atribuye a los grupos políticos la iniciativa a través de la correspondiente proposición (a diferencia del Gobierno de Zaragoza, que actúa mediante proyecto normativo).",
+    "fuente": "Art. 48.2.b) Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En qué términos reconoce el art. 48.2.c) de la Ley de Capitalidad la iniciativa popular para la aprobación de ordenanzas y Reglamentos municipales?",
+    "options": [
+      "En los términos que fije en cada caso la Comisión plenaria competente",
+      "En los términos previstos en la normativa básica",
+      "En los términos previstos en el Reglamento Orgánico Municipal"
+    ],
+    "correct": 1,
+    "exp": "El art. 48.2.c) remite a la normativa básica para el ejercicio de la iniciativa popular.",
+    "fuente": "Art. 48.2.c) Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 48.3 de la Ley de Capitalidad, el procedimiento que describe dicho apartado se aplica...",
+    "options": [
+      "solo a los Reglamentos que regulan el funcionamiento del Pleno",
+      "a todas las iniciativas normativas, sin distinción de su origen",
+      "en el caso de los proyectos normativos"
+    ],
+    "correct": 2,
+    "exp": "El art. 48.3 comienza precisando que, «en el caso de los proyectos normativos, se aplicará el procedimiento descrito a continuación».",
+    "fuente": "Art. 48.3 Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 48.3.a) de la Ley de Capitalidad, la aprobación del proyecto de ordenanza o Reglamento corresponde, con carácter general, a...",
+    "options": [
+      "el Gobierno de Zaragoza",
+      "el Pleno, en todo caso",
+      "el Alcalde, previa audiencia del Gobierno de Zaragoza"
+    ],
+    "correct": 0,
+    "exp": "El art. 48.3.a) atribuye la aprobación del proyecto al Gobierno de Zaragoza, salvo la excepción de los proyectos de normas reguladoras del Pleno y sus Comisiones.",
+    "fuente": "Art. 48.3.a) Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 48.3.a) de la Ley de Capitalidad, ¿qué excepción existe a la regla de que el Gobierno de Zaragoza aprueba el proyecto de ordenanza o Reglamento?",
+    "options": [
+      "Los Reglamentos de desarrollo de leyes autonómicas, que aprueba el Gobierno de Aragón",
+      "Los proyectos de normas reguladoras del Pleno y sus Comisiones, cuya aprobación corresponde al Pleno",
+      "Las ordenanzas fiscales, cuyo proyecto aprueba directamente la Comisión de Hacienda"
+    ],
+    "correct": 1,
+    "exp": "El art. 48.3.a) exceptúa de la aprobación por el Gobierno de Zaragoza los proyectos de normas reguladoras del Pleno y sus Comisiones, cuya aprobación corresponde al Pleno.",
+    "fuente": "Art. 48.3.a) Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el art. 48.3.b) de la Ley de Capitalidad, el trámite de información pública y audiencia a los interesados en el procedimiento de aprobación de ordenanzas y Reglamentos tendrá una duración mínima de...",
+    "options": [
+      "veinte días hábiles",
+      "quince días naturales",
+      "treinta días naturales"
+    ],
+    "correct": 2,
+    "exp": "El art. 48.3.b) fija un plazo mínimo de treinta días naturales para la información pública y audiencia a los interesados.",
+    "fuente": "Art. 48.3.b) Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 48.3.b) de la Ley de Capitalidad, ¿mediante qué medios se hace pública la apertura del trámite de información pública y audiencia a los interesados?",
+    "options": [
+      "Mediante anuncio en el boletín oficial correspondiente y en el tablón de anuncios municipal",
+      "Solo mediante publicación en la sede electrónica municipal",
+      "Solo mediante anuncio en el tablón de anuncios municipal"
+    ],
+    "correct": 0,
+    "exp": "El art. 48.3.b) exige anuncio en el boletín oficial correspondiente y en el tablón de anuncios municipal.",
+    "fuente": "Art. 48.3.b) Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué finalidad tiene, según el art. 48.3.b) de la Ley de Capitalidad, el plazo mínimo de treinta días naturales de información pública y audiencia a los interesados?",
+    "options": [
+      "La emisión del dictamen de la Comisión plenaria",
+      "La presentación de reclamaciones y sugerencias",
+      "La votación de enmiendas por los Concejales"
+    ],
+    "correct": 1,
+    "exp": "El art. 48.3.b) señala que ese plazo es para la presentación de reclamaciones y sugerencias.",
+    "fuente": "Art. 48.3.b) Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 48.3.c) de la Ley de Capitalidad, tras el trámite de información pública, el proyecto de ordenanza o Reglamento, junto con las reclamaciones y sugerencias recibidas, se remite a...",
+    "options": [
+      "el Justicia de Aragón, para informe preceptivo",
+      "el Gobierno de Aragón, para su toma de razón",
+      "la Comisión plenaria competente, para la emisión del oportuno dictamen"
+    ],
+    "correct": 2,
+    "exp": "El art. 48.3.c) prevé la remisión del proyecto, junto con las reclamaciones y sugerencias, a la Comisión plenaria competente, para que emita dictamen.",
+    "fuente": "Art. 48.3.c) Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 48.3.d) de la Ley de Capitalidad, la aprobación del Reglamento u ordenanza por el Pleno se produce...",
+    "options": [
+      "en acto único, con resolución de las reclamaciones y sugerencias presentadas",
+      "en dos actos sucesivos: aprobación inicial y aprobación definitiva",
+      "mediante silencio administrativo positivo si no hay dictamen de la Comisión"
+    ],
+    "correct": 0,
+    "exp": "El art. 48.3.d) dispone la aprobación en acto único del Reglamento u ordenanza por el Pleno, con resolución de las reclamaciones y sugerencias presentadas.",
+    "fuente": "Art. 48.3.d) Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué órgano aprueba en acto único el Reglamento u ordenanza, resolviendo las reclamaciones y sugerencias presentadas, según el art. 48.3.d) de la Ley de Capitalidad?",
+    "options": [
+      "El Alcalde",
+      "El Pleno",
+      "El Gobierno de Zaragoza"
+    ],
+    "correct": 1,
+    "exp": "El art. 48.3.d) atribuye al Pleno la aprobación en acto único.",
+    "fuente": "Art. 48.3.d) Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "Tras la aprobación por el Pleno, el art. 48.3.e) de la Ley de Capitalidad exige, como última fase del procedimiento de proyectos normativos, la...",
+    "options": [
+      "ratificación por el Gobierno de Aragón",
+      "notificación individual a los interesados que hubieran formulado alegaciones",
+      "publicación íntegra en el boletín oficial correspondiente"
+    ],
+    "correct": 2,
+    "exp": "El art. 48.3.e) cierra el procedimiento con la publicación íntegra en el boletín oficial correspondiente.",
+    "fuente": "Art. 48.3.e) Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "Ordene correctamente, según el art. 48.3 de la Ley de Capitalidad, las fases del procedimiento de aprobación de un proyecto normativo de ordenanza o Reglamento municipal:",
+    "options": [
+      "Aprobación del proyecto por el Gobierno de Zaragoza; información pública de 30 días; dictamen de la Comisión plenaria; aprobación en acto único por el Pleno; publicación",
+      "Aprobación por el Pleno; información pública; dictamen de la Comisión plenaria; aprobación del proyecto; publicación",
+      "Información pública; aprobación del proyecto; publicación; dictamen de la Comisión plenaria; aprobación por el Pleno"
+    ],
+    "correct": 0,
+    "exp": "El art. 48.3 establece la secuencia: a) aprobación del proyecto por el Gobierno de Zaragoza; b) información pública de 30 días naturales; c) remisión a la Comisión plenaria para dictamen; d) aprobación en acto único por el Pleno; e) publicación íntegra.",
+    "fuente": "Art. 48.3 Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes fases NO forma parte del procedimiento de aprobación de un proyecto normativo de ordenanza o Reglamento municipal regulado en el art. 48.3 de la Ley de Capitalidad?",
+    "options": [
+      "La información pública y audiencia a los interesados por plazo mínimo de treinta días naturales",
+      "La convocatoria de una encuesta ciudadana vinculante previa a la aprobación del proyecto",
+      "El dictamen de la Comisión plenaria competente"
+    ],
+    "correct": 1,
+    "exp": "El art. 48.3 no contempla ninguna encuesta ciudadana vinculante; sus fases son la aprobación del proyecto, la información pública, el dictamen de la Comisión plenaria, la aprobación en acto único por el Pleno y la publicación.",
+    "fuente": "Art. 48.3 Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 48.4 de la Ley de Capitalidad regula las especialidades del procedimiento de aprobación de ordenanzas y Reglamentos aplicables a...",
+    "options": [
+      "las ordenanzas fiscales",
+      "los proyectos normativos del Gobierno de Zaragoza",
+      "las proposiciones de los grupos políticos"
+    ],
+    "correct": 2,
+    "exp": "El art. 48.4 introduce las especialidades del procedimiento aplicables «en el caso de las proposiciones de los grupos políticos».",
+    "fuente": "Art. 48.4 Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 48.4.a) de la Ley de Capitalidad, la proposición de un grupo político para la aprobación de una ordenanza o Reglamento debe ir acompañada de...",
+    "options": [
+      "una memoria suscrita por el grupo político que la presente",
+      "un dictamen previo del Justicia de Aragón",
+      "un informe jurídico de la Secretaría General"
+    ],
+    "correct": 0,
+    "exp": "El art. 48.4.a) exige que la proposición vaya acompañada de una memoria suscrita por el grupo político que la presente.",
+    "fuente": "Art. 48.4.a) Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 48.4.a) de la Ley de Capitalidad, la proposición de un grupo político, junto con su memoria, se remite en primer lugar a...",
+    "options": [
+      "el Pleno, para su debate directo",
+      "la Comisión plenaria correspondiente, para su dictamen",
+      "el Gobierno de Zaragoza, para su aprobación"
+    ],
+    "correct": 1,
+    "exp": "El art. 48.4.a) prevé la remisión de la proposición, acompañada de la memoria, a la Comisión plenaria correspondiente, para su dictamen.",
+    "fuente": "Art. 48.4.a) Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el art. 48.4.b) de la Ley de Capitalidad, una vez dictaminada por la Comisión una proposición de un grupo político y si esta es aceptada, ¿qué trámite sigue?",
+    "options": [
+      "Se remite al Gobierno de Aragón para su ratificación",
+      "Se somete directamente a votación del Pleno, sin más trámites",
+      "Se somete al trámite de información pública y audiencia a los interesados, por un plazo mínimo de treinta días naturales"
+    ],
+    "correct": 2,
+    "exp": "El art. 48.4.b) establece que, si la Comisión acepta la proposición, esta se somete a información pública y audiencia a los interesados por un plazo mínimo de treinta días naturales.",
+    "fuente": "Art. 48.4.b) Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "En el procedimiento de una proposición de grupo político regulado en el art. 48.4 de la Ley de Capitalidad, ¿en qué momento se produce el trámite de información pública, a diferencia del procedimiento de los proyectos normativos del art. 48.3?",
+    "options": [
+      "Después del dictamen de la Comisión plenaria, si esta acepta la proposición",
+      "Antes de la aprobación del proyecto por el Gobierno de Zaragoza",
+      "No existe trámite de información pública en las proposiciones de grupos políticos"
+    ],
+    "correct": 0,
+    "exp": "A diferencia del art. 48.3 (donde la información pública precede al dictamen), en las proposiciones de grupos políticos la información pública es posterior al dictamen de la Comisión, conforme al art. 48.4.b).",
+    "fuente": "Art. 48.4.b) Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 48.4.c) de la Ley de Capitalidad, tras la información pública de una proposición de grupo político, ¿qué órgano propone al Pleno la resolución de las reclamaciones y la aprobación en acto único de la norma resultante?",
+    "options": [
+      "El Gobierno de Zaragoza",
+      "La Comisión competente",
+      "La Secretaría General del Pleno"
+    ],
+    "correct": 1,
+    "exp": "El art. 48.4.c) atribuye a la Comisión competente proponer al Pleno la resolución de las reclamaciones y sugerencias y la aprobación en acto único.",
+    "fuente": "Art. 48.4.c) Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 48.5 de la Ley de Capitalidad, la presentación de enmiendas por parte de los Concejales, así como su tramitación en Comisión y Pleno, se ajustará a lo que disponga...",
+    "options": [
+      "las bases de ejecución del presupuesto",
+      "la legislación básica de régimen local, de forma directa",
+      "el Reglamento Orgánico"
+    ],
+    "correct": 2,
+    "exp": "El art. 48.5 remite al Reglamento Orgánico la regulación de la presentación y tramitación de enmiendas por los Concejales.",
+    "fuente": "Art. 48.5 Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿A quiénes reconoce el art. 48.5 de la Ley de Capitalidad la facultad de presentar enmiendas en el procedimiento de aprobación de ordenanzas y Reglamentos municipales?",
+    "options": [
+      "A los Concejales",
+      "Únicamente a los miembros del Gobierno de Zaragoza",
+      "Únicamente a los portavoces de los grupos políticos"
+    ],
+    "correct": 0,
+    "exp": "El art. 48.5 se refiere a la presentación de enmiendas «por parte de los Concejales».",
+    "fuente": "Art. 48.5 Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 48.6 de la Ley de Capitalidad, toda proposición o enmienda que suponga aumento de los créditos o disminución de los ingresos presupuestarios del ejercicio en curso requerirá, para su tramitación...",
+    "options": [
+      "el visto bueno del Gobierno de Aragón",
+      "la conformidad del Gobierno de Zaragoza",
+      "informe favorable del Justicia de Aragón"
+    ],
+    "correct": 1,
+    "exp": "El art. 48.6 exige la conformidad del Gobierno de Zaragoza para tramitar proposiciones o enmiendas que aumenten créditos o disminuyan ingresos presupuestarios del ejercicio en curso.",
+    "fuente": "Art. 48.6 Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué tipo de proposición o enmienda queda condicionada, según el art. 48.6 de la Ley de Capitalidad, a la conformidad del Gobierno de Zaragoza para poder tramitarse?",
+    "options": [
+      "La que modifique la organización de las Juntas de Distrito",
+      "La que afecte a la plantilla de personal funcionario",
+      "La que suponga aumento de los créditos o disminución de los ingresos presupuestarios del ejercicio en curso"
+    ],
+    "correct": 2,
+    "exp": "El art. 48.6 se refiere específicamente a las proposiciones o enmiendas que supongan aumento de créditos o disminución de ingresos presupuestarios del ejercicio económico en curso.",
+    "fuente": "Art. 48.6 Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 49 de la Ley de Capitalidad, las ordenanzas fiscales se tramitarán conforme al procedimiento regulado en el artículo anterior (art. 48), con...",
+    "options": [
+      "ciertas especialidades",
+      "remisión íntegra a la legislación tributaria estatal, sin especialidad alguna",
+      "idéntico procedimiento, sin ninguna especialidad"
+    ],
+    "correct": 0,
+    "exp": "El art. 49 remite al procedimiento del art. 48 «con las siguientes especialidades», por lo que no es un procedimiento idéntico ni totalmente distinto.",
+    "fuente": "Art. 49 Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 49.a) de la Ley de Capitalidad, ¿a quién corresponde la aprobación del proyecto de ordenanza fiscal?",
+    "options": [
+      "Al Interventor municipal",
+      "Al Gobierno de Zaragoza",
+      "Al Pleno, en un único acto"
+    ],
+    "correct": 1,
+    "exp": "El art. 49.a) atribuye al Gobierno de Zaragoza la aprobación del proyecto de ordenanza fiscal.",
+    "fuente": "Art. 49.a) Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "Tras la aprobación del proyecto de ordenanza fiscal por el Gobierno de Zaragoza, el art. 49.a) de la Ley de Capitalidad prevé su remisión a la Comisión plenaria correspondiente para...",
+    "options": [
+      "su publicación directa en el boletín oficial",
+      "su sometimiento a información pública, sin dictamen previo",
+      "su dictamen y aprobación inicial"
+    ],
+    "correct": 2,
+    "exp": "El art. 49.a) dispone la remisión del proyecto a la Comisión plenaria correspondiente para su dictamen y aprobación inicial.",
+    "fuente": "Art. 49.a) Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué órgano aprueba inicialmente la ordenanza fiscal, según el art. 49.a) de la Ley de Capitalidad, a diferencia del procedimiento general del art. 48?",
+    "options": [
+      "La Comisión plenaria correspondiente",
+      "El Gobierno de Aragón",
+      "El Pleno"
+    ],
+    "correct": 0,
+    "exp": "El art. 49.a) atribuye a la Comisión plenaria correspondiente el dictamen y la aprobación inicial de la ordenanza fiscal, especialidad frente al procedimiento general.",
+    "fuente": "Art. 49.a) Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 49.b) de la Ley de Capitalidad, una vez aprobada inicialmente la ordenanza fiscal por la Comisión plenaria, ¿qué trámite sigue?",
+    "options": [
+      "Se remite al Gobierno de Aragón para su ratificación",
+      "Se expone al público, previo anuncio en el boletín oficial correspondiente, en el tablón de anuncios y en la sede electrónica municipal",
+      "Se somete directamente a votación definitiva del Pleno"
+    ],
+    "correct": 1,
+    "exp": "El art. 49.b) dispone que, aprobada inicialmente por la Comisión plenaria, la ordenanza fiscal se expondrá al público, previo anuncio en el boletín oficial, tablón de anuncios y sede electrónica municipal.",
+    "fuente": "Art. 49.b) Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál es el plazo mínimo de exposición al público de una ordenanza fiscal, una vez aprobada inicialmente por la Comisión plenaria, según el art. 49.b) de la Ley de Capitalidad?",
+    "options": [
+      "Quince días",
+      "Cuarenta y cinco días",
+      "Treinta días"
+    ],
+    "correct": 2,
+    "exp": "El art. 49.b) fija un plazo mínimo de treinta días para la exposición al público de la ordenanza fiscal aprobada inicialmente.",
+    "fuente": "Art. 49.b) Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "Durante el plazo de exposición al público previsto en el art. 49.b) de la Ley de Capitalidad para las ordenanzas fiscales, los interesados podrán...",
+    "options": [
+      "examinar el expediente y presentar las reclamaciones que estimen oportunas",
+      "votar telemáticamente la aprobación definitiva",
+      "recurrir directamente en vía contencioso-administrativa"
+    ],
+    "correct": 0,
+    "exp": "El art. 49.b) permite a los interesados, durante el plazo de exposición pública, examinar el expediente y presentar las reclamaciones que estimen oportunas.",
+    "fuente": "Art. 49.b) Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 49.b) de la Ley de Capitalidad, el anuncio del periodo de exposición al público de una ordenanza fiscal debe publicarse en el boletín oficial correspondiente, en el tablón de anuncios y, además, en...",
+    "options": [
+      "el Diario Oficial de la Unión Europea",
+      "la sede electrónica municipal",
+      "un diario de tirada nacional"
+    ],
+    "correct": 1,
+    "exp": "El art. 49.b) exige el anuncio en el boletín oficial correspondiente, en el tablón de anuncios y en la sede electrónica municipal.",
+    "fuente": "Art. 49.b) Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 49.c) de la Ley de Capitalidad, ¿qué propone la Comisión plenaria competente al Pleno una vez finalizado el periodo de exposición pública de una ordenanza fiscal?",
+    "options": [
+      "Únicamente la resolución de las reclamaciones, dejando la aprobación para un Pleno posterior",
+      "La devolución del expediente al Gobierno de Zaragoza para su reelaboración",
+      "La resolución de las reclamaciones presentadas y la aprobación en acto único de la ordenanza fiscal resultante"
+    ],
+    "correct": 2,
+    "exp": "El art. 49.c) atribuye a la Comisión plenaria proponer al Pleno la resolución de las reclamaciones presentadas y la aprobación en acto único de la ordenanza fiscal resultante.",
+    "fuente": "Art. 49.c) Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué ocurre, según el art. 49.c) de la Ley de Capitalidad, si durante el periodo de exposición al público de una ordenanza fiscal no se hubieren presentado reclamaciones?",
+    "options": [
+      "La ordenanza fiscal se entenderá definitivamente aprobada",
+      "La aprobación definitiva queda en suspenso hasta el siguiente ejercicio",
+      "La ordenanza fiscal decae y debe iniciarse de nuevo el procedimiento"
+    ],
+    "correct": 0,
+    "exp": "El art. 49.c) establece que, de no presentarse reclamaciones, la ordenanza fiscal se entenderá definitivamente aprobada (aprobación tácita).",
+    "fuente": "Art. 49.c) Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "La previsión del art. 49.c) de la Ley de Capitalidad, según la cual la ordenanza fiscal se entiende definitivamente aprobada si no se presentan reclamaciones durante la exposición pública, constituye una especialidad respecto de...",
+    "options": [
+      "el régimen de enmiendas del art. 48.5",
+      "el procedimiento de aprobación de los proyectos normativos regulado en el art. 48.3, que siempre exige acto expreso de aprobación por el Pleno",
+      "el régimen de iniciativa popular del art. 48.2.c)"
+    ],
+    "correct": 1,
+    "exp": "A diferencia del art. 48.3.d), que exige siempre aprobación expresa en acto único por el Pleno, el art. 49.c) prevé una aprobación definitiva tácita de la ordenanza fiscal si no hay reclamaciones.",
+    "fuente": "Art. 49.c) Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "Señale la afirmación correcta sobre las especialidades de la aprobación de ordenanzas fiscales frente al procedimiento general del art. 48, conforme al art. 49 de la Ley de Capitalidad:",
+    "options": [
+      "El plazo de exposición pública es de quince días y la aprobación definitiva siempre es expresa",
+      "La aprobación del proyecto corresponde a la Comisión plenaria y la aprobación inicial al Gobierno de Zaragoza",
+      "La aprobación inicial corresponde a la Comisión plenaria y, sin reclamaciones, la ordenanza se entiende definitivamente aprobada"
+    ],
+    "correct": 2,
+    "exp": "El art. 49 prevé que el Gobierno de Zaragoza apruebe el proyecto, la Comisión plenaria lo apruebe inicialmente tras dictamen, y que, de no haber reclamaciones durante la exposición pública, la ordenanza fiscal se entienda definitivamente aprobada.",
+    "fuente": "Art. 49 Ley de Capitalidad",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 55 del TRRL, ¿a quién corresponde dictar los Bandos?",
+    "options": [
+      "A los Alcaldes.",
+      "Al Pleno de la Corporación, por mayoría absoluta.",
+      "A la Junta de Gobierno Local, a propuesta del Alcalde."
+    ],
+    "correct": 0,
+    "exp": "El art. 55 TRRL distingue dos titularidades: las Entidades locales aprueban Ordenanzas y Reglamentos, y son «los Alcaldes» quienes dictan Bandos.",
+    "fuente": "Art. 55 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué expresión emplea el art. 55 del TRRL para delimitar el ámbito material en que las Entidades locales pueden aprobar Ordenanzas y Reglamentos?",
+    "options": [
+      "«En el ejercicio de sus competencias delegadas».",
+      "«En la esfera de su competencia».",
+      "«En materias de interés local que no estén reservadas a la ley»."
+    ],
+    "correct": 1,
+    "exp": "El art. 55 TRRL comienza literalmente: «En la esfera de su competencia, las Entidades locales podrán aprobar Ordenanzas y Reglamentos...».",
+    "fuente": "Art. 55 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 55 del TRRL atribuye la potestad de aprobar Ordenanzas y Reglamentos a:",
+    "options": [
+      "Exclusivamente a los Municipios y a las Provincias, con exclusión de las demás Entidades locales.",
+      "Solo a las Entidades locales que hayan aprobado previamente un Reglamento orgánico.",
+      "Las Entidades locales, sin restringirla a los Municipios."
+    ],
+    "correct": 2,
+    "exp": "El art. 55 TRRL se refiere genéricamente a «las Entidades locales», sin limitar la potestad normativa a un tipo concreto de ellas ni condicionarla a requisitos previos.",
+    "fuente": "Art. 55 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La prohibición de contener preceptos opuestos a las leyes que establece el art. 55 del TRRL alcanza a:",
+    "options": [
+      "A las Ordenanzas, los Reglamentos y los Bandos por igual.",
+      "Solo a las Ordenanzas y a los Reglamentos, quedando los Bandos al margen.",
+      "Solo a los Reglamentos orgánicos y a las ordenanzas fiscales."
+    ],
+    "correct": 0,
+    "exp": "El art. 55 TRRL cierra con «En ningún caso contendrán preceptos opuestos a las leyes», referido conjuntamente a las tres figuras enunciadas en la frase anterior: Ordenanzas, Reglamentos y Bandos.",
+    "fuente": "Art. 55 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes figuras NO aparece mencionada en el art. 55 del TRRL al enunciar la potestad normativa de las Entidades locales?",
+    "options": [
+      "Los Reglamentos.",
+      "Las Instrucciones y circulares de servicio.",
+      "Las Ordenanzas."
+    ],
+    "correct": 1,
+    "exp": "El art. 55 TRRL solo cita Ordenanzas, Reglamentos y Bandos; no menciona instrucciones ni circulares de servicio.",
+    "fuente": "Art. 55 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 55 del TRRL emplea la fórmula «podrán aprobar Ordenanzas y Reglamentos». De ello se desprende que:",
+    "options": [
+      "Toda Entidad local está obligada a aprobar al menos una Ordenanza y un Reglamento por mandato del propio precepto.",
+      "La potestad solo puede ejercerse una vez por mandato corporativo.",
+      "Se trata de una habilitación o potestad, no de un deber de aprobar tales normas impuesto por el precepto."
+    ],
+    "correct": 2,
+    "exp": "El art. 55 TRRL está redactado en términos habilitantes («podrán aprobar»), reconociendo la potestad normativa en la esfera de su competencia, sin imponer en ese precepto el deber de dictar normas concretas.",
+    "fuente": "Art. 55 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el reparto que hace el art. 55 del TRRL entre las figuras normativas locales, señale la afirmación correcta:",
+    "options": [
+      "Las Ordenanzas y los Reglamentos se aprueban por las Entidades locales y los Bandos los dictan los Alcaldes.",
+      "El Alcalde aprueba las Ordenanzas y la Entidad local dicta los Bandos.",
+      "Tanto las Ordenanzas como los Bandos son aprobados por la Entidad local."
+    ],
+    "correct": 0,
+    "exp": "El art. 55 TRRL asigna la aprobación de Ordenanzas y Reglamentos a las Entidades locales y la emisión de Bandos a los Alcaldes.",
+    "fuente": "Art. 55 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La cláusula «En ningún caso contendrán preceptos opuestos a las leyes» del art. 55 del TRRL debe entenderse:",
+    "options": [
+      "Como un límite que puede salvarse si la norma local se aprueba por mayoría absoluta del Pleno.",
+      "Como un límite absoluto, sin excepción por razones de urgencia, interés general o mayoría reforzada.",
+      "Como un límite aplicable únicamente a las leyes estatales, no a las autonómicas."
+    ],
+    "correct": 1,
+    "exp": "La expresión legal es «En ningún caso», sin salvedad alguna, y se refiere a «las leyes» sin distinguir su procedencia estatal o autonómica.",
+    "fuente": "Art. 55 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Complete conforme al art. 55 del TRRL: «En la esfera de su competencia, las Entidades locales podrán aprobar Ordenanzas y Reglamentos, y los Alcaldes dictar Bandos. En ningún caso contendrán preceptos ______».",
+    "options": [
+      "contrarios al interés general del Municipio",
+      "de carácter sancionador",
+      "opuestos a las leyes"
+    ],
+    "correct": 2,
+    "exp": "El art. 55 TRRL termina: «En ningún caso contendrán preceptos opuestos a las leyes».",
+    "fuente": "Art. 55 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 55 del TRRL, el ejercicio de la potestad normativa local:",
+    "options": [
+      "No se somete en dicho precepto a autorización ni ratificación de otra Administración.",
+      "Requiere autorización previa del órgano competente de la Comunidad Autónoma.",
+      "Requiere ratificación posterior de la Administración del Estado."
+    ],
+    "correct": 0,
+    "exp": "El art. 55 TRRL reconoce la potestad «en la esfera de su competencia» con el único límite expreso de no contener preceptos opuestos a las leyes; no exige autorización ni ratificación de otra Administración.",
+    "fuente": "Art. 55 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué precepto del TRRL reconoce conjuntamente la potestad de las Entidades locales para aprobar Ordenanzas y Reglamentos y la de los Alcaldes para dictar Bandos?",
+    "options": [
+      "El art. 54.",
+      "El art. 55.",
+      "El art. 57."
+    ],
+    "correct": 1,
+    "exp": "Es el art. 55 TRRL, incluido en el Título V (disposiciones comunes a las Entidades locales), Capítulo I, sobre régimen de funcionamiento.",
+    "fuente": "Art. 55 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Respecto de los Bandos, del art. 55 del TRRL se deduce que:",
+    "options": [
+      "Solo pueden dictarse en situaciones de emergencia expresamente declaradas por el Pleno.",
+      "Pueden contener preceptos opuestos a las leyes cuando se dicten por razones de orden público.",
+      "Al dictarlos, el Alcalde queda igualmente sujeto a la prohibición de incluir preceptos opuestos a las leyes."
+    ],
+    "correct": 2,
+    "exp": "El límite final del art. 55 TRRL («En ningún caso contendrán preceptos opuestos a las leyes») se proyecta también sobre los Bandos, mencionados en la misma frase del precepto.",
+    "fuente": "Art. 55 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Señale la afirmación INCORRECTA sobre el art. 55 del TRRL:",
+    "options": [
+      "Enumera y clasifica las infracciones a las Ordenanzas en muy graves, graves y leves.",
+      "Reconoce la potestad normativa a las Entidades locales en la esfera de su competencia.",
+      "Establece que en ningún caso las normas locales contendrán preceptos opuestos a las leyes."
+    ],
+    "correct": 0,
+    "exp": "El art. 55 TRRL no clasifica infracciones; se limita a habilitar la potestad normativa local y a fijar su límite de legalidad.",
+    "fuente": "Art. 55 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 55 del TRRL, al referirse al límite de la potestad normativa local, alude a:",
+    "options": [
+      "Los reglamentos del Estado y de las Comunidades Autónomas.",
+      "Las leyes.",
+      "Los planes y programas sectoriales aprobados por el Estado."
+    ],
+    "correct": 1,
+    "exp": "El art. 55 TRRL prohíbe que las normas locales contengan «preceptos opuestos a las leyes», sin mencionar reglamentos, planes ni convenios.",
+    "fuente": "Art. 55 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿A qué norma y precepto concretos remite el art. 56 del TRRL el procedimiento de aprobación de las Ordenanzas locales?",
+    "options": [
+      "Al art. 49 del RD 2568/1986, por el que se aprueba el ROF.",
+      "Al art. 133 de la Ley 39/2015, de 1 de octubre.",
+      "Al art. 49 de la Ley 7/1985, de 2 de abril."
+    ],
+    "correct": 2,
+    "exp": "El art. 56 TRRL dispone que «la aprobación de las Ordenanzas locales se ajustará al procedimiento establecido en el artículo 49 de la Ley 7/1985, de 2 de abril».",
+    "fuente": "Art. 56 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 56 del TRRL identifica la Ley 7/1985 con la siguiente fecha:",
+    "options": [
+      "De 2 de abril.",
+      "De 18 de abril.",
+      "De 21 de abril."
+    ],
+    "correct": 0,
+    "exp": "El art. 56 TRRL se refiere expresamente a «la Ley 7/1985, de 2 de abril» (LBRL).",
+    "fuente": "Art. 56 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al segundo párrafo del art. 56 del TRRL, la modificación de las Ordenanzas y Reglamentos exige:",
+    "options": [
+      "Solo la aprobación por el Pleno, sin necesidad de información pública.",
+      "Observar los mismos trámites que para su aprobación.",
+      "Un procedimiento abreviado con un único trámite de exposición pública de quince días."
+    ],
+    "correct": 1,
+    "exp": "El art. 56, párrafo segundo, TRRL: «Para la modificación de las Ordenanzas y Reglamentos deberán observarse los mismos trámites que para su aprobación».",
+    "fuente": "Art. 56 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En el primer párrafo del art. 56 del TRRL, la remisión al procedimiento del art. 49 de la Ley 7/1985 se hace expresamente respecto de:",
+    "options": [
+      "Las Ordenanzas, los Reglamentos y los Bandos.",
+      "Los Reglamentos orgánicos únicamente.",
+      "Las Ordenanzas locales."
+    ],
+    "correct": 2,
+    "exp": "El primer párrafo del art. 56 TRRL se refiere literalmente a «la aprobación de las Ordenanzas locales»; los Reglamentos aparecen en el párrafo segundo, y los Bandos no se mencionan en el precepto.",
+    "fuente": "Art. 56 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes figuras NO se menciona en ninguno de los dos párrafos del art. 56 del TRRL?",
+    "options": [
+      "Los Bandos.",
+      "Las Ordenanzas.",
+      "Los Reglamentos."
+    ],
+    "correct": 0,
+    "exp": "El art. 56 TRRL habla de Ordenanzas (párrafo primero y segundo) y de Reglamentos (párrafo segundo), remitiéndose a la Ley 7/1985; los Bandos no aparecen en el precepto.",
+    "fuente": "Art. 56 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Una Entidad local pretende modificar parcialmente una Ordenanza vigente mediante simple decreto de la Alcaldía, prescindiendo de los trámites seguidos para su aprobación. Conforme al art. 56 del TRRL:",
+    "options": [
+      "Es posible, siempre que la modificación no afecte a más de un tercio del articulado.",
+      "No es posible: la modificación exige observar los mismos trámites que la aprobación.",
+      "Es posible si el decreto se ratifica después por la Comisión competente."
+    ],
+    "correct": 1,
+    "exp": "El art. 56, párrafo segundo, TRRL impone para la modificación «los mismos trámites que para su aprobación», sin excepciones por razón de la extensión de la reforma.",
+    "fuente": "Art. 56 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 56 del TRRL, al regular la modificación de las normas locales:",
+    "options": [
+      "Distingue entre modificaciones totales, sujetas a los trámites de aprobación, y parciales, exentas de ellos.",
+      "Exige informe previo del Consejo de Estado para las modificaciones sustanciales.",
+      "No introduce distinción alguna entre modificaciones totales y parciales."
+    ],
+    "correct": 2,
+    "exp": "El art. 56 TRRL se limita a exigir «los mismos trámites que para su aprobación», sin distinguir entre modificaciones totales o parciales ni remitir la materia al Reglamento orgánico.",
+    "fuente": "Art. 56 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El contenido propio del art. 56 del TRRL es:",
+    "options": [
+      "El procedimiento de aprobación de las Ordenanzas locales y los trámites de su modificación.",
+      "La prescripción de las infracciones de Ordenanzas, Reglamentos y Bandos.",
+      "El límite cuantitativo de las multas por infracción de Ordenanzas."
+    ],
+    "correct": 0,
+    "exp": "El art. 56 TRRL contiene la remisión procedimental al art. 49 de la Ley 7/1985 y la regla de paralelismo de trámites para la modificación de Ordenanzas y Reglamentos.",
+    "fuente": "Art. 56 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La remisión que efectúa el art. 56 del TRRL implica que el procedimiento de aprobación de las Ordenanzas locales:",
+    "options": [
+      "Puede ser libremente configurado por el Reglamento orgánico de cada Corporación.",
+      "Está legalmente predeterminado por remisión al art. 49 de la Ley 7/1985.",
+      "Se determina en cada caso por acuerdo del Pleno al iniciar el expediente."
+    ],
+    "correct": 1,
+    "exp": "El art. 56 TRRL no deja el procedimiento a la libre determinación local: lo sujeta al establecido en el art. 49 de la Ley 7/1985, de 2 de abril.",
+    "fuente": "Art. 56 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Un Alcalde pretende dictar un Bando siguiendo el procedimiento del art. 49 de la Ley 7/1985 por entender que se lo impone el art. 56 del TRRL. ¿Es correcta esa interpretación?",
+    "options": [
+      "Sí, porque el art. 56 equipara expresamente Bandos y Ordenanzas.",
+      "Sí, porque el art. 55 remite todos los instrumentos normativos locales al art. 56.",
+      "No, porque el art. 56 refiere esa remisión a las Ordenanzas locales y no menciona los Bandos."
+    ],
+    "correct": 2,
+    "exp": "El art. 56 TRRL sujeta al procedimiento del art. 49 de la Ley 7/1985 la aprobación de «las Ordenanzas locales», y en su párrafo segundo se refiere a Ordenanzas y Reglamentos; los Bandos no están contemplados en el precepto.",
+    "fuente": "Art. 56 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 56 del TRRL, para modificar un Reglamento orgánico municipal:",
+    "options": [
+      "Deben observarse los mismos trámites que se siguieron para su aprobación.",
+      "Basta el acuerdo del Pleno, sin más trámites, por tratarse de una norma de autoorganización.",
+      "Se requiere autorización previa de la Comunidad Autónoma."
+    ],
+    "correct": 0,
+    "exp": "El párrafo segundo del art. 56 TRRL se refiere a la modificación de «las Ordenanzas y Reglamentos», exigiendo los mismos trámites que para su aprobación.",
+    "fuente": "Art. 56 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 56 del TRRL, respecto de la aprobación de las Ordenanzas locales:",
+    "options": [
+      "Regula por sí mismo y con detalle los trámites de aprobación inicial, información pública y aprobación definitiva.",
+      "No regula directamente los trámites, sino que se remite al procedimiento de otra norma.",
+      "Establece un plazo de treinta días hábiles de información pública."
+    ],
+    "correct": 1,
+    "exp": "El art. 56 TRRL opera por remisión: no describe los trámites, sino que sujeta la aprobación al procedimiento del art. 49 de la Ley 7/1985.",
+    "fuente": "Art. 56 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 57 del TRRL, los plazos de prescripción aplicables a las infracciones de las Ordenanzas, Reglamentos y Bandos son los que establece:",
+    "options": [
+      "La Ley General Tributaria para las infracciones tributarias.",
+      "El Reglamento orgánico de cada Corporación.",
+      "El Código Penal para las faltas."
+    ],
+    "correct": 2,
+    "exp": "El art. 57 TRRL remite a «los plazos de prescripción que establece el Código Penal para las faltas, sin perjuicio de lo que, en cada caso, establezcan las leyes».",
+    "fuente": "Art. 57 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El régimen de prescripción del art. 57 del TRRL se predica de las infracciones de:",
+    "options": [
+      "Las Ordenanzas, los Reglamentos y los Bandos.",
+      "Las Ordenanzas exclusivamente.",
+      "Las Ordenanzas y los Reglamentos, con exclusión de los Bandos."
+    ],
+    "correct": 0,
+    "exp": "El art. 57 TRRL menciona expresamente las tres figuras: «las infracciones de las Ordenanzas, Reglamentos y Bandos».",
+    "fuente": "Art. 57 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La cláusula final del art. 57 del TRRL, «sin perjuicio de lo que, en cada caso, establezcan las leyes», significa que:",
+    "options": [
+      "La remisión al Código Penal es absoluta y no admite excepción legal alguna.",
+      "La remisión al Código Penal cede ante lo que dispongan las leyes en cada caso.",
+      "Solo las leyes autonómicas pueden fijar plazos distintos."
+    ],
+    "correct": 1,
+    "exp": "El art. 57 TRRL formula la remisión al Código Penal «sin perjuicio de lo que, en cada caso, establezcan las leyes», de modo que la previsión legal específica prevalece; el precepto no habilita a la Ordenanza para fijar esos plazos.",
+    "fuente": "Art. 57 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Señale la afirmación INCORRECTA sobre el art. 57 del TRRL:",
+    "options": [
+      "Se refiere a los plazos de prescripción de las infracciones.",
+      "Contiene una remisión a los plazos previstos en el Código Penal para las faltas.",
+      "Enumera en su propio texto los plazos concretos de prescripción, expresados en meses y años."
+    ],
+    "correct": 2,
+    "exp": "El art. 57 TRRL no fija plazos concretos: opera exclusivamente por remisión a los que el Código Penal establece para las faltas, salvo lo que dispongan las leyes.",
+    "fuente": "Art. 57 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué artículo del TRRL se ocupa de la prescripción de las infracciones a la normativa local?",
+    "options": [
+      "El art. 57.",
+      "El art. 56.",
+      "El art. 58."
+    ],
+    "correct": 0,
+    "exp": "El art. 57 TRRL es el que regula, por remisión, los plazos de prescripción de las infracciones de Ordenanzas, Reglamentos y Bandos.",
+    "fuente": "Art. 57 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En cuanto a la prescripción de las infracciones de los Bandos de la Alcaldía, el art. 57 del TRRL:",
+    "options": [
+      "Los excluye por tratarse de actos y no de normas.",
+      "Los incluye expresamente en su ámbito, junto con Ordenanzas y Reglamentos.",
+      "Los remite a lo que disponga el Reglamento orgánico de la Corporación."
+    ],
+    "correct": 1,
+    "exp": "El art. 57 TRRL cita expresamente las infracciones de «las Ordenanzas, Reglamentos y Bandos».",
+    "fuente": "Art. 57 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál es la diferencia de objeto entre los arts. 57 y 58 del TRRL?",
+    "options": [
+      "El art. 57 fija la cuantía de las multas y el art. 58 su graduación según la población.",
+      "El art. 57 se refiere a la responsabilidad de las autoridades y el art. 58 a la de los funcionarios.",
+      "El art. 57 se refiere a los plazos de prescripción de las infracciones y el art. 58 a la exacción de las multas en defecto de pago voluntario."
+    ],
+    "correct": 2,
+    "exp": "El art. 57 TRRL trata de los plazos de prescripción de las infracciones; el art. 58 TRRL, del procedimiento de exacción de las multas impuestas cuando no hay pago voluntario.",
+    "fuente": "Art. 57 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 58 del TRRL, ¿cuál es el presupuesto que permite acudir al procedimiento previsto en dicho precepto para la exacción de multas por infracción de Ordenanzas?",
+    "options": [
+      "El defecto de pago voluntario.",
+      "Que el infractor haya interpuesto recurso contra la sanción.",
+      "Que la multa exceda de la cuantía fijada reglamentariamente."
+    ],
+    "correct": 0,
+    "exp": "El art. 58 TRRL: «Para la exacción de multas por infracción de Ordenanzas, en defecto de pago voluntario, se seguirá el procedimiento administrativo de apremio».",
+    "fuente": "Art. 58 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El procedimiento al que remite el art. 58 del TRRL para la exacción de las multas por infracción de Ordenanzas es:",
+    "options": [
+      "El procedimiento de ejecución forzosa regulado en la Ley de Enjuiciamiento Civil.",
+      "El procedimiento administrativo de apremio.",
+      "El procedimiento sancionador abreviado."
+    ],
+    "correct": 1,
+    "exp": "El art. 58 TRRL ordena seguir «el procedimiento administrativo de apremio».",
+    "fuente": "Art. 58 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 58 del TRRL circunscribe expresamente su previsión a la exacción de multas por infracción de:",
+    "options": [
+      "Reglamentos y Bandos.",
+      "Ordenanzas fiscales exclusivamente.",
+      "Ordenanzas."
+    ],
+    "correct": 2,
+    "exp": "El art. 58 TRRL habla de «multas por infracción de Ordenanzas», sin mencionar Reglamentos ni Bandos y sin limitarlo a las ordenanzas fiscales.",
+    "fuente": "Art. 58 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Señale la afirmación INCORRECTA sobre el art. 58 del TRRL:",
+    "options": [
+      "Ordena remitir el expediente a la jurisdicción civil para el cobro de la multa.",
+      "Prevé el procedimiento administrativo de apremio.",
+      "Se refiere a las multas por infracción de Ordenanzas."
+    ],
+    "correct": 0,
+    "exp": "El art. 58 TRRL no acude a la vía judicial civil: la exacción de la multa se realiza en vía administrativa, por el procedimiento de apremio.",
+    "fuente": "Art. 58 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué precepto del TRRL establece que, en defecto de pago voluntario, la exacción de las multas por infracción de Ordenanzas se realizará por el procedimiento administrativo de apremio?",
+    "options": [
+      "El art. 56.",
+      "El art. 58.",
+      "El art. 57."
+    ],
+    "correct": 1,
+    "exp": "Es el art. 58 TRRL; el art. 57 se refiere a la prescripción de las infracciones y el art. 60 a la responsabilidad de autoridades y funcionarios.",
+    "fuente": "Art. 58 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Impuesta una multa por infracción de una Ordenanza municipal, el sancionado la abona dentro del plazo concedido. Conforme al art. 58 del TRRL:",
+    "options": [
+      "Debe iniciarse en todo caso el procedimiento de apremio para formalizar el ingreso.",
+      "Procede el apremio con reducción del recargo a la mitad.",
+      "No procede el procedimiento de apremio, que el precepto reserva al defecto de pago voluntario."
+    ],
+    "correct": 2,
+    "exp": "El art. 58 TRRL condiciona el recurso al procedimiento administrativo de apremio al «defecto de pago voluntario»; satisfecha la multa voluntariamente, no hay lugar a la vía de apremio.",
+    "fuente": "Art. 58 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 58 del TRRL regula, en sentido estricto:",
+    "options": [
+      "La exacción o cobro de la multa ya impuesta, cuando no se paga voluntariamente.",
+      "La graduación de las sanciones en función de la gravedad de la infracción.",
+      "El órgano competente para imponer la multa."
+    ],
+    "correct": 0,
+    "exp": "El art. 58 TRRL no tipifica infracciones ni atribuye competencia sancionadora: se refiere a la exacción de las multas por infracción de Ordenanzas en defecto de pago voluntario, mediante el procedimiento administrativo de apremio.",
+    "fuente": "Art. 58 TRRL (RDLeg 781/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 82.1 ROF, el orden del día de las sesiones del Pleno será fijado por:",
+    "options": [
+      "El Pleno, en la sesión anterior, a propuesta de los portavoces.",
+      "El Alcalde o Presidente, asistido de la Secretaría.",
+      "El Secretario de la Corporación, con el visto bueno del Alcalde."
+    ],
+    "correct": 1,
+    "exp": "El art. 82.1 ROF dispone que «el orden del día de las sesiones será fijado por el Alcalde o Presidente asistido de la Secretaría».",
+    "fuente": "Art. 82.1 ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Al fijar el orden del día, y conforme al art. 82.1 ROF, la consulta a los portavoces de los grupos existentes en la Corporación es:",
+    "options": [
+      "Preceptiva y vinculante en cuanto al orden de los asuntos.",
+      "Preceptiva pero no vinculante, y debe constar en el expediente.",
+      "Potestativa: el Alcalde podrá consultarles si lo estima oportuno."
+    ],
+    "correct": 2,
+    "exp": "El art. 82.1 ROF permite al Alcalde recabar la asistencia de los miembros de la Comisión de Gobierno (o los Tenientes de Alcalde) y «consultar si lo estima oportuno a los portavoces de los grupos existentes en la Corporación»: es una facultad, no un trámite preceptivo.",
+    "fuente": "Art. 82.1 ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el art. 82.4 ROF, el punto de ruegos y preguntas se incluirá:",
+    "options": [
+      "Siempre en el orden del día de las sesiones ordinarias.",
+      "En el orden del día de todas las sesiones, sean ordinarias o extraordinarias.",
+      "En las sesiones extraordinarias, cuando así lo pida un grupo político."
+    ],
+    "correct": 0,
+    "exp": "El art. 82.4 ROF establece que «en el orden del día de las sesiones ordinarias se incluirá siempre el punto de ruegos y preguntas».",
+    "fuente": "Art. 82.4 ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Entre los documentos que deben constar en el expediente que se abre con la convocatoria de una sesión, el art. 81.1.a) ROF cita la relación de expedientes conclusos, que es preparada y puesta a disposición de la Alcaldía o Presidencia por:",
+    "options": [
+      "La Intervención de la Corporación.",
+      "La Secretaría.",
+      "El portavoz del grupo mayoritario."
+    ],
+    "correct": 1,
+    "exp": "El art. 81.1.a) ROF exige que en el expediente conste «la relación de expedientes conclusos que la Secretaría prepare y ponga a disposición de la Alcaldía o Presidencia».",
+    "fuente": "Art. 81.1.a) ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Siendo preceptiva la notificación del orden del día a los miembros de la Corporación, el art. 81.2 ROF exige que el cumplimiento de ese requisito quede debidamente acreditado en:",
+    "options": [
+      "El acta de la sesión, mediante diligencia del Presidente.",
+      "El Registro General de entrada de documentos.",
+      "La Secretaría General."
+    ],
+    "correct": 2,
+    "exp": "El art. 81.2 ROF dispone que «en la Secretaría General deberá quedar debidamente acreditado el cumplimiento de este requisito».",
+    "fuente": "Art. 81.2 ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 84 ROF, la documentación de los asuntos incluidos en el orden del día que ha de servir de base al debate y votación deberá estar a disposición de los miembros de la Corporación:",
+    "options": [
+      "Desde el mismo día de la convocatoria, en la Secretaría de la Corporación.",
+      "Desde los dos días hábiles anteriores a la sesión, en la Intervención.",
+      "Desde el día siguiente al de la sesión de la Comisión Informativa que dictaminó."
+    ],
+    "correct": 0,
+    "exp": "El art. 84 ROF exige que toda la documentación esté a disposición de los miembros de la Corporación «desde el mismo día de la convocatoria en la Secretaría de la misma».",
+    "fuente": "Art. 84 ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 91.3 ROF, el Alcalde o Presidente puede retirar un asunto del orden del día durante la sesión cuando:",
+    "options": [
+      "Lo solicite la cuarta parte, al menos, del número legal de miembros de la Corporación.",
+      "Su aprobación exigiera una mayoría especial y ésta no pudiera obtenerse en el momento previsto inicialmente en el orden del día.",
+      "El dictamen de la Comisión Informativa haya sido desfavorable."
+    ],
+    "correct": 1,
+    "exp": "El art. 91.3 ROF faculta al Alcalde o Presidente para alterar el orden de los temas o «retirar un asunto cuando su aprobación exigiera una mayoría especial y ésta no pudiera obtenerse en el momento previsto inicialmente en el orden del día».",
+    "fuente": "Art. 91.3 ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En las sesiones ordinarias, conforme al art. 91.4 ROF, el Presidente pregunta si algún grupo desea someter al Pleno por razones de urgencia un asunto no comprendido en el orden del día. Ese momento se sitúa:",
+    "options": [
+      "Como primer punto del orden del día, junto al pronunciamiento sobre la urgencia.",
+      "Después del turno de ruegos y preguntas y antes de levantar la sesión.",
+      "Concluido el examen de los asuntos del orden del día y antes de pasar al turno de ruegos y preguntas."
+    ],
+    "correct": 2,
+    "exp": "El art. 91.4 ROF sitúa esa pregunta del Presidente «concluido el examen de los asuntos incluidos en el orden del día y antes de pasar al turno de ruegos y preguntas».",
+    "fuente": "Art. 91.4 ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El régimen de las mociones de urgencia del art. 91.4 ROF (justificación de la urgencia por el portavoz y votación del Pleno sobre la procedencia del debate):",
+    "options": [
+      "No será de aplicación, en ningún caso, a las mociones de censura, que se rigen por el art. 108 del ROF.",
+      "Se aplica también a las mociones de censura, con la sola salvedad del quórum.",
+      "No será de aplicación a las mociones de censura salvo que lo acuerde el Pleno por mayoría absoluta."
+    ],
+    "correct": 0,
+    "exp": "El último párrafo del art. 91.4 ROF precisa que «lo dispuesto en este apartado no será de aplicación, en ningún caso, a las mociones de censura, cuya tramitación, debate y votación se regirán por lo establecido en el artículo 108 de este Reglamento».",
+    "fuente": "Art. 91.4 ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Cualquier Concejal puede pedir durante el debate que un expediente quede sobre la mesa. Según el art. 92.1 ROF, esa petición:",
+    "options": [
+      "Requerirá el voto favorable de la mayoría absoluta del número legal de miembros.",
+      "Será votada tras terminar el debate y antes de la votación sobre el fondo, y si la mayoría simple vota a favor no habrá lugar a votar la propuesta de acuerdo.",
+      "Se votará una vez celebrada la votación de fondo, a efectos de reconsiderar el acuerdo."
+    ],
+    "correct": 1,
+    "exp": "El art. 92.1 ROF establece que la petición «será votada, tras terminar el debate y antes de proceder a la votación sobre el fondo del asunto. Si la mayoría simple votase a favor de la petición no habrá lugar a votar la propuesta de acuerdo».",
+    "fuente": "Art. 92.1 ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Tratándose de asuntos no incluidos en el orden del día que requieran informe preceptivo de la Secretaría o de la Intervención, el art. 92.2 ROF dispone que, si no pueden emitirlo en el acto:",
+    "options": [
+      "El Presidente deberá retirar el asunto sin necesidad de votación alguna.",
+      "Podrán emitir el informe en el plazo de los diez días siguientes a la sesión.",
+      "Deberán solicitar del Presidente que se aplace su estudio, quedando sobre la mesa hasta la próxima sesión."
+    ],
+    "correct": 2,
+    "exp": "El art. 92.2 ROF obliga a la Secretaría o la Intervención a «solicitar del Presidente que se aplace su estudio quedando sobre la mesa hasta la próxima sesión»; si la petición no fuera atendida, el Secretario lo hará constar expresamente en el acta.",
+    "fuente": "Art. 92.2 ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 93 ROF, la consideración de cada punto del orden del día comienza con la lectura del dictamen de la Comisión Informativa correspondiente. Esa lectura:",
+    "options": [
+      "La efectúa el Secretario, íntegra o en extracto.",
+      "La efectúa el Presidente de la Comisión Informativa y ha de ser siempre íntegra.",
+      "La efectúa el ponente designado por el grupo proponente, siempre en extracto."
+    ],
+    "correct": 0,
+    "exp": "El art. 93 ROF prevé la lectura «íntegra o en extracto, por el Secretario, del dictamen formulado por la Comisión Informativa correspondiente» o, si el asunto es urgente y no dictaminado, de la proposición que se somete al Pleno.",
+    "fuente": "Art. 93 ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 93 ROF, si tras la lectura del dictamen nadie solicitare la palabra:",
+    "options": [
+      "El asunto quedará sobre la mesa para la siguiente sesión.",
+      "El asunto se someterá directamente a votación.",
+      "El dictamen se entenderá aprobado sin necesidad de votación."
+    ],
+    "correct": 1,
+    "exp": "El art. 93 ROF, párrafo segundo: «Si nadie solicitare la palabra tras la lectura, el asunto se someterá directamente a votación».",
+    "fuente": "Art. 93 ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Si se promueve debate sobre un asunto dictaminado, el art. 94.1.b) ROF establece que el debate se iniciará con la exposición y justificación de la propuesta a cargo de:",
+    "options": [
+      "El Alcalde o Presidente, en su condición de Presidente nato de la Comisión.",
+      "El portavoz del grupo que hubiera votado en contra del dictamen.",
+      "Algún miembro de la Comisión Informativa que la hubiera dictaminado."
+    ],
+    "correct": 2,
+    "exp": "El art. 94.1.b) ROF dispone que el debate se inicia «con una exposición y justificación de la propuesta, a cargo de algún miembro de la Comisión Informativa que la hubiera dictaminado» o, en los demás casos, de alguno de los miembros que suscriban la proposición o moción.",
+    "fuente": "Art. 94.1.b) ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 94.1.e) ROF, consumido el segundo turno, el Presidente puede dar por terminada la discusión, que se cerrará con:",
+    "options": [
+      "Una intervención del ponente en la que brevemente ratificará o modificará su propuesta.",
+      "Una intervención del Secretario para fijar los términos de la votación.",
+      "Una nueva lectura íntegra del dictamen por el Secretario."
+    ],
+    "correct": 0,
+    "exp": "El art. 94.1.e) ROF cierra la discusión «con una intervención del ponente en la que brevemente ratificará o modificará su propuesta».",
+    "fuente": "Art. 94.1.e) ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En los supuestos en que, conforme al art. 76 de la Ley 7/1985, un miembro de la Corporación deba abstenerse de participar en la deliberación y votación, el art. 96 ROF le obliga a:",
+    "options": [
+      "Permanecer en el Salón haciendo constar su abstención en el acta.",
+      "Abandonar el Salón mientras se discuta y vote el asunto, salvo cuando se trate de debatir su actuación como corporativo.",
+      "Abandonar el Salón en todo caso, sin excepción alguna."
+    ],
+    "correct": 1,
+    "exp": "El art. 96 ROF exige abandonar el Salón mientras se discuta y vote el asunto, «salvo cuando se trate de debatir su actuación como corporativo, en que tendrá derecho a permanecer y defenderse».",
+    "fuente": "Art. 96 ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la terminología del art. 97.2 ROF, la «proposición» es la propuesta relativa a un asunto incluido en el orden del día en virtud del art. 82.3, y respecto de ella:",
+    "options": [
+      "Puede debatirse pero no votarse hasta la sesión siguiente.",
+      "No requiere parte expositiva, bastando el acuerdo que se propone.",
+      "No procederá entrar a debatirla ni votarla sin que previamente se haya ratificado la inclusión del asunto en el orden del día."
+    ],
+    "correct": 2,
+    "exp": "El art. 97.2 ROF define la proposición y añade que «no procederá entrar a debatir ni votar una proposición sin que previamente se haya ratificado, de acuerdo con lo dispuesto en el referido artículo 82.3, la inclusión del asunto en el orden del día».",
+    "fuente": "Art. 97.2 ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El «voto particular», según el art. 97.4 ROF, es la propuesta de modificación de un dictamen formulada por un miembro que forma parte de la Comisión Informativa, y:",
+    "options": [
+      "Deberá acompañar al dictamen desde el día siguiente a su aprobación por la Comisión.",
+      "Deberá presentarse al Presidente antes de iniciarse la deliberación del asunto en el Pleno.",
+      "Sustituye al dictamen si lo suscriben al menos un tercio de los miembros de la Comisión."
+    ],
+    "correct": 0,
+    "exp": "El art. 97.4 ROF: el voto particular «deberá acompañar al dictamen desde el día siguiente a su aprobación por la Comisión».",
+    "fuente": "Art. 97.4 ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 97.5 ROF, la «enmienda» es la propuesta de modificación de un dictamen o proposición presentada:",
+    "options": [
+      "Por los miembros de la Comisión Informativa que hubiera dictaminado el asunto, en el seno de ésta.",
+      "Por cualquier miembro, mediante escrito presentado al Presidente antes de iniciarse la deliberación del asunto.",
+      "Por los portavoces de los grupos, mediante escrito presentado con veinticuatro horas de antelación."
+    ],
+    "correct": 1,
+    "exp": "El art. 97.5 ROF define la enmienda como la propuesta de modificación de un dictamen o proposición «presentada por cualquier miembro, mediante escrito presentado al Presidente antes de iniciarse la deliberación del asunto».",
+    "fuente": "Art. 97.5 ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La función de estudio, informe o consulta que el art. 123.1 ROF atribuye a las Comisiones Informativas respecto de los asuntos que hayan de ser sometidos a la decisión del Pleno se exceptúa:",
+    "options": [
+      "Cuando el asunto consista en la aprobación de ordenanzas fiscales.",
+      "Cuando el asunto haya sido informado previamente por la Secretaría y la Intervención.",
+      "Cuando hayan de adoptarse acuerdos declarados urgentes."
+    ],
+    "correct": 2,
+    "exp": "El art. 123.1 ROF cierra la definición con la salvedad «salvo cuando hayan de adoptarse acuerdos declarados urgentes».",
+    "fuente": "Art. 123.1 ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Además de los asuntos que hayan de ser sometidos a la decisión del Pleno, el art. 123.1 ROF extiende la función de estudio, informe o consulta de las Comisiones Informativas a los asuntos que hayan de someterse a:",
+    "options": [
+      "La Comisión de Gobierno, cuando ésta actúe con competencias delegadas por el Pleno.",
+      "La Comisión de Gobierno, en todo caso y cualquiera que sea el título competencial.",
+      "El Alcalde o Presidente, en el ejercicio de sus competencias propias."
+    ],
+    "correct": 0,
+    "exp": "El art. 123.1 ROF se refiere a los asuntos que hayan de ser sometidos a la decisión del Pleno «y de la Comisión de Gobierno cuando esta actúe con competencias delegadas por el Pleno».",
+    "fuente": "Art. 123.1 ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 123.2 ROF, las Comisiones Informativas informarán también los asuntos de competencia propia de la Comisión de Gobierno y del Alcalde o Presidente:",
+    "options": [
+      "Cuando lo solicite la cuarta parte de los miembros de la Comisión.",
+      "Cuando les sean sometidos a su conocimiento por expresa decisión de aquéllos.",
+      "En ningún caso, pues su función se limita a los asuntos que decide el Pleno."
+    ],
+    "correct": 1,
+    "exp": "El art. 123.2 ROF: «Igualmente informarán aquellos asuntos de la competencia propia de la Comisión de Gobierno, y del Alcalde o Presidente, que les sean sometidos a su conocimiento por expresa decisión de aquéllos».",
+    "fuente": "Art. 123.2 ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 125.c) ROF, la adscripción concreta a cada Comisión Informativa de los miembros que deban formar parte de ella en representación de cada grupo se realiza:",
+    "options": [
+      "Mediante acuerdo del Pleno adoptado por mayoría absoluta.",
+      "Mediante resolución del Alcalde, oídos los portavoces de los grupos.",
+      "Mediante escrito del portavoz del grupo dirigido al Alcalde o Presidente, del que se dará cuenta al Pleno."
+    ],
+    "correct": 2,
+    "exp": "El art. 125.c) ROF prevé la adscripción «mediante escrito del portavoz del mismo dirigido al Alcalde o Presidente, y del que se dará cuenta al Pleno», pudiendo designarse de igual forma un suplente por cada titular.",
+    "fuente": "Art. 125.c) ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Respecto de la Comisión Especial de Cuentas, el art. 127.1 ROF señala que es de existencia preceptiva según el art. 116 de la Ley 7/1985 y que su constitución, composición e integración y funcionamiento:",
+    "options": [
+      "Se ajustan a lo establecido para las demás Comisiones Informativas.",
+      "Se regulan exclusivamente por el Reglamento Orgánico de la entidad.",
+      "Se rigen por la legislación reguladora de la contabilidad de las entidades locales."
+    ],
+    "correct": 0,
+    "exp": "El art. 127.1 ROF dispone que su constitución, composición e integración y funcionamiento «se ajusta a lo establecido para las demás Comisiones Informativas».",
+    "fuente": "Art. 127.1 ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 127.3 ROF, bien a través del reglamento orgánico o mediante acuerdo del Pleno, la Comisión Especial de Cuentas podrá:",
+    "options": [
+      "Delegar en la Intervención el examen e informe de las cuentas extrapresupuestarias.",
+      "Actuar como Comisión informativa permanente para los asuntos relativos a economía y hacienda de la entidad.",
+      "Constituirse como Comisión informativa especial que se extingue tras informar las cuentas."
+    ],
+    "correct": 1,
+    "exp": "El art. 127.3 ROF permite que la Comisión Especial de Cuentas «podrá actuar como Comisión informativa permanente para los asuntos relativos a economía y hacienda de la entidad».",
+    "fuente": "Art. 127.3 ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 134.1 ROF, la periodicidad de las sesiones ordinarias de las Comisiones informativas se acuerda por:",
+    "options": [
+      "El Alcalde o Presidente mediante resolución, sin que pueda exceder del límite trimestral.",
+      "La Comisión de Gobierno, a propuesta del Presidente de cada Comisión.",
+      "El Pleno, en el momento de constituirlas, celebrándose en los días y horas que establezca el Alcalde o Presidente de la Corporación o el respectivo Presidente de la Comisión."
+    ],
+    "correct": 2,
+    "exp": "El art. 134.1 ROF: las Comisiones informativas celebrarán sesiones ordinarias «con la periodicidad que acuerde el Pleno en el momento de constituirlas, en los días y horas que establezca el Alcalde o Presidente de la Corporación, o su respectivo Presidente».",
+    "fuente": "Art. 134.1 ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 134.1 ROF, el Alcalde o Presidente de la Corporación, o el Presidente de la Comisión, está obligado a convocar sesión extraordinaria de una Comisión informativa cuando lo solicite:",
+    "options": [
+      "La cuarta parte, al menos, de los miembros de la Comisión.",
+      "La mayoría absoluta de los miembros de la Comisión.",
+      "Un tercio, al menos, de los miembros de la Comisión."
+    ],
+    "correct": 0,
+    "exp": "El art. 134.1 ROF impone la obligación de convocar sesión extraordinaria «cuando lo solicite la cuarta parte, al menos, de los miembros de la Comisión».",
+    "fuente": "Art. 134.1 ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Las convocatorias de las sesiones de las Comisiones informativas deberán notificarse a sus miembros o, en su caso, a los grupos municipales, según el art. 134.3 ROF, con una antelación de:",
+    "options": [
+      "Veinticuatro horas, salvo las urgentes.",
+      "Dos días hábiles, salvo las urgentes.",
+      "Dos días naturales, salvo las urgentes."
+    ],
+    "correct": 1,
+    "exp": "El art. 134.3 ROF exige notificar las convocatorias «con una antelación de dos días hábiles, salvo las urgentes», acompañando en todo caso el orden del día.",
+    "fuente": "Art. 134.3 ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Para la válida celebración de las sesiones de las Comisiones informativas, el art. 135.1 ROF exige:",
+    "options": [
+      "La mayoría simple de sus componentes en primera convocatoria y dos miembros en segunda, dos días después.",
+      "La presencia de la mayoría absoluta de sus componentes tanto en primera como en segunda convocatoria.",
+      "La presencia de la mayoría absoluta de sus componentes, titulares o suplentes, en primera convocatoria, y un mínimo de tres miembros en segunda convocatoria una hora más tarde."
+    ],
+    "correct": 2,
+    "exp": "El art. 135.1 ROF exige «la presencia de la mayoría absoluta de los componentes de la Comisión, ya sean titulares o suplentes, en primera convocatoria y un mínimo de tres miembros en segunda convocatoria una hora más tarde».",
+    "fuente": "Art. 135.1 ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 135.3 ROF, los dictámenes de las Comisiones informativas se aprobarán:",
+    "options": [
+      "Siempre por mayoría simple de los presentes, decidiendo los empates el Presidente con voto de calidad.",
+      "Por mayoría absoluta del número legal de componentes de la Comisión.",
+      "Por mayoría simple, resolviéndose los empates mediante nueva votación en la sesión siguiente."
+    ],
+    "correct": 0,
+    "exp": "El art. 135.3 ROF: «Los dictámenes se aprobarán siempre por mayoría simple de los presentes, decidiendo los empates el Presidente con voto de calidad».",
+    "fuente": "Art. 135.3 ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 136.1 ROF prohíbe que una Comisión informativa delibere sobre asuntos de la competencia de otra, salvo que se trate de problemas comunes, en cuyo caso podrá convocarse una sesión conjunta por:",
+    "options": [
+      "Cada uno de los Presidentes de las Comisiones afectadas, de común acuerdo.",
+      "El Presidente de la Corporación, a propuesta de los de las respectivas Comisiones.",
+      "La Comisión de Gobierno, oídos los portavoces de los grupos."
+    ],
+    "correct": 1,
+    "exp": "El art. 136.1 ROF prevé que, tratándose de problemas comunes, «podrá convocarse por el Presidente de la Corporación, a propuesta de los de las respectivas Comisiones, una sesión conjunta».",
+    "fuente": "Art. 136.1 ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el art. 136.2 ROF, el dictamen de la Comisión informativa podrá:",
+    "options": [
+      "Limitarse a devolver el expediente a los servicios administrativos para su reelaboración.",
+      "Sustituir la propuesta de los servicios administrativos por un acuerdo directamente ejecutivo.",
+      "Limitarse a mostrar su conformidad con la propuesta que le sometan los servicios administrativos competentes o bien formular una alternativa."
+    ],
+    "correct": 2,
+    "exp": "El art. 136.2 ROF: «El dictamen de la Comisión podrá limitarse a mostrar su conformidad con la propuesta que le sea sometida por los servicios administrativos competentes o bien formular una alternativa».",
+    "fuente": "Art. 136.2 ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 136.3 ROF, los miembros de la Comisión que disientan del dictamen aprobado por ésta podrán:",
+    "options": [
+      "Pedir que conste su voto en contra o formular voto particular para su defensa ante el Pleno.",
+      "Exigir que el asunto vuelva a dictaminarse en la siguiente sesión de la Comisión.",
+      "Solicitar que el dictamen se someta al Pleno como proposición urgente."
+    ],
+    "correct": 0,
+    "exp": "El art. 136.3 ROF permite a los disidentes «pedir que conste su voto en contra o formular voto particular para su defensa ante el Pleno».",
+    "fuente": "Art. 136.3 ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 137.1 ROF, ¿a las sesiones de qué Comisión asistirá en todo caso el funcionario responsable de la Intervención?",
+    "options": [
+      "A las de la Comisión Especial de Cuentas, únicamente.",
+      "A las de la Comisión de Hacienda.",
+      "A las de todas las Comisiones informativas permanentes."
+    ],
+    "correct": 1,
+    "exp": "El art. 137.1 ROF, párrafo segundo: «A las sesiones de la Comisión de Hacienda asistirá, en todo caso, el funcionario responsable de la Intervención».",
+    "fuente": "Art. 137.1 ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 137.2 ROF regula el acta de las sesiones de las Comisiones informativas. A ella se acompañarán:",
+    "options": [
+      "Los informes de la Secretaría y de la Intervención emitidos en el expediente.",
+      "Únicamente los dictámenes aprobados, sin los votos particulares.",
+      "Los dictámenes que hayan sido aprobados y los votos particulares que hayan sido formulados a aquéllos."
+    ],
+    "correct": 2,
+    "exp": "El art. 137.2 ROF exige que al acta se acompañen «los dictámenes que hayan sido aprobados y los votos particulares que hayan sido formulados a aquéllos».",
+    "fuente": "Art. 137.2 ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En todo lo no previsto en la Sección del ROF sobre reglas especiales de funcionamiento de las Comisiones informativas, el art. 138 ROF dispone que serán de aplicación:",
+    "options": [
+      "Las disposiciones sobre funcionamiento del Pleno.",
+      "Las normas de la legislación de procedimiento administrativo común sobre órganos colegiados.",
+      "Las disposiciones sobre funcionamiento de la Comisión de Gobierno."
+    ],
+    "correct": 0,
+    "exp": "El art. 138 ROF: «En todo lo no previsto en esta Sección serán de aplicación las disposiciones sobre funcionamiento del Pleno».",
+    "fuente": "Art. 138 ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 196.2 ROF, las Ordenanzas y Reglamentos, incluidas las normas de los planes urbanísticos:",
+    "options": [
+      "Se publican en el «Boletín Oficial del Estado» y entran en vigor a los veinte días.",
+      "Se publican en el «Boletín Oficial» de la Provincia y no entran en vigor hasta que se haya publicado completamente su texto y haya transcurrido el plazo previsto en el art. 65.2 de la Ley 7/1985.",
+      "Se publican en el tablón de edictos de la Corporación y entran en vigor de forma inmediata."
+    ],
+    "correct": 1,
+    "exp": "El art. 196.2 ROF exige la publicación en el «Boletín Oficial» de la Provincia y condiciona la entrada en vigor a la publicación completa del texto y al transcurso del plazo del art. 65.2 de la Ley 7/1985.",
+    "fuente": "Art. 196.2 ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Entre las atribuciones que el art. 50 ROF reconoce al Pleno del Ayuntamiento figura, en su apartado 3:",
+    "options": [
+      "Hacer cumplir las Ordenanzas y Reglamentos municipales.",
+      "Sancionar las infracciones de las Ordenanzas municipales.",
+      "Aprobar el Reglamento Orgánico, las Ordenanzas y demás disposiciones de carácter general que sean de la competencia municipal."
+    ],
+    "correct": 2,
+    "exp": "El art. 50.3 ROF atribuye al Pleno «aprobar el Reglamento Orgánico, las Ordenanzas y demás disposiciones de carácter general que sean de la competencia municipal».",
+    "fuente": "Art. 50.3 ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 129.3 ROF, el Reglamento de las Juntas Municipales de Distrito:",
+    "options": [
+      "Se considerará, a todos los efectos, parte integrante del Reglamento Orgánico.",
+      "Requiere para su aprobación el informe favorable de la Comisión de Gobierno.",
+      "Solo podrá aprobarse cuando lo prevea expresamente el Reglamento Orgánico."
+    ],
+    "correct": 0,
+    "exp": "El art. 129.3 ROF dispone que «el Reglamento de las Juntas Municipales de Distrito se considerará, a todos los efectos, parte integrante del Reglamento Orgánico».",
+    "fuente": "Art. 129.3 ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 94.1.a) y f) ROF, durante el debate plenario:",
+    "options": [
+      "Las interrupciones de los portavoces se admitirán cuando afecten a cuestiones de legalidad.",
+      "Solo podrá hacerse uso de la palabra previa autorización del Alcalde o Presidente, y no se admitirán otras interrupciones que las del Presidente para llamar al orden o a la cuestión debatida.",
+      "El Secretario autorizará el uso de la palabra conforme al orden de solicitud."
+    ],
+    "correct": 1,
+    "exp": "El art. 94.1.a) ROF exige autorización previa del Alcalde o Presidente para el uso de la palabra y la letra f) del mismo apartado sólo admite las interrupciones del Presidente «para llamar al orden o a la cuestión debatida».",
+    "fuente": "Art. 94.1.a) y f) ROF (RD 2568/1986)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 49 LBRL articula el procedimiento de aprobación de las Ordenanzas locales en:",
+    "options": [
+      "Tres fases, identificadas con las letras a), b) y c).",
+      "Cuatro fases, identificadas con las letras a), b), c) y d).",
+      "Cinco fases, la última de las cuales es la publicación en el Boletín Oficial de la Provincia."
+    ],
+    "correct": 0,
+    "exp": "El art. 49 LBRL enuncia el procedimiento en tres letras: a) aprobación inicial por el Pleno; b) información pública y audiencia a los interesados; c) resolución de reclamaciones y sugerencias y aprobación definitiva por el Pleno. A ellas se añade un párrafo final sobre el supuesto de ausencia de reclamaciones, pero no una cuarta fase numerada.",
+    "fuente": "Art. 49 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El encabezamiento del art. 49 LBRL refiere el procedimiento que regula a la aprobación de:",
+    "options": [
+      "Las ordenanzas municipales exclusivamente.",
+      "Las ordenanzas y los bandos de la Alcaldía.",
+      "Las Ordenanzas locales."
+    ],
+    "correct": 2,
+    "exp": "El art. 49 LBRL comienza literalmente: «La aprobación de las Ordenanzas locales se ajustará al siguiente procedimiento». La expresión es «Ordenanzas locales», no solo municipales, y el precepto no menciona los bandos.",
+    "fuente": "Art. 49 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El plazo de treinta días previsto en el art. 49.b) LBRL para la presentación de reclamaciones y sugerencias:",
+    "options": [
+      "Es un plazo mínimo, de modo que el acuerdo de aprobación inicial puede fijar uno más amplio.",
+      "Es un plazo máximo, que el acuerdo de aprobación inicial no puede superar.",
+      "Es un plazo mínimo que, por razones de urgencia, puede reducirse a la mitad."
+    ],
+    "correct": 0,
+    "exp": "El art. 49.b) LBRL habla de «información pública y audiencia a los interesados por el plazo mínimo de treinta días». Al ser un mínimo legal, cabe señalar un plazo superior, pero no inferior, y el precepto no contempla reducción por urgencia.",
+    "fuente": "Art. 49.b) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La letra b) del art. 49 LBRL contempla, como segunda fase del procedimiento:",
+    "options": [
+      "Únicamente el trámite de información pública.",
+      "La información pública y la audiencia a los interesados.",
+      "Únicamente el trámite de audiencia a los interesados."
+    ],
+    "correct": 1,
+    "exp": "El art. 49.b) LBRL prevé conjuntamente ambos trámites: «Información pública y audiencia a los interesados por el plazo mínimo de treinta días para la presentación de reclamaciones y sugerencias». No se trata de trámites alternativos.",
+    "fuente": "Art. 49.b) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Durante el trámite previsto en el art. 49.b) LBRL, ¿qué pueden presentar los interesados?",
+    "options": [
+      "Recursos de reposición contra el acuerdo de aprobación inicial.",
+      "Alegaciones y recursos de alzada ante la Comunidad Autónoma.",
+      "Reclamaciones y sugerencias."
+    ],
+    "correct": 2,
+    "exp": "El art. 49.b) LBRL abre el trámite «para la presentación de reclamaciones y sugerencias». Ese es el término legal; las enmiendas y votos particulares son figuras propias del debate en Comisión y Pleno, no del trámite de información pública.",
+    "fuente": "Art. 49.b) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 49.c) LBRL, en la fase de aprobación definitiva deben resolverse:",
+    "options": [
+      "Todas las reclamaciones y sugerencias presentadas dentro del plazo.",
+      "Únicamente las reclamaciones, pues las sugerencias no requieren resolución.",
+      "Todas las reclamaciones y sugerencias presentadas, incluso las presentadas fuera de plazo."
+    ],
+    "correct": 0,
+    "exp": "El art. 49.c) LBRL exige la «Resolución de todas las reclamaciones y sugerencias presentadas dentro del plazo y aprobación definitiva por el Pleno». El deber de resolver alcanza a todas ellas (reclamaciones y sugerencias), pero se limita a las presentadas dentro del plazo.",
+    "fuente": "Art. 49.c) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En el procedimiento del art. 49 LBRL, la aprobación inicial y la aprobación definitiva de la ordenanza corresponden, respectivamente:",
+    "options": [
+      "Al Pleno la inicial y al Alcalde la definitiva.",
+      "Al Pleno ambas.",
+      "A la Junta de Gobierno Local la inicial y al Pleno la definitiva."
+    ],
+    "correct": 1,
+    "exp": "Las letras a) y c) del art. 49 LBRL atribuyen las dos aprobaciones al mismo órgano: «a) Aprobación inicial por el Pleno» y «c) ... y aprobación definitiva por el Pleno».",
+    "fuente": "Art. 49.a) y c) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Si durante la información pública de una ordenanza no se hubiera presentado ninguna reclamación o sugerencia, el párrafo final del art. 49 LBRL determina que:",
+    "options": [
+      "Deberá celebrarse en todo caso nueva sesión plenaria para aprobar definitivamente el texto.",
+      "La aprobación definitiva corresponderá al Alcalde mediante decreto.",
+      "Se entenderá definitivamente adoptado el acuerdo hasta entonces provisional, sin necesidad de un nuevo acuerdo del Pleno."
+    ],
+    "correct": 2,
+    "exp": "El párrafo final del art. 49 LBRL dispone: «En el caso de que no se hubiera presentado ninguna reclamación o sugerencia, se entenderá definitivamente adoptado el acuerdo hasta entonces provisional». No es preciso, por tanto, un nuevo pronunciamiento plenario.",
+    "fuente": "Art. 49 LBRL (Ley 7/1985), párrafo final",
+    "confianza": "alta"
+  },
+  {
+    "q": "Durante la información pública de una ordenanza municipal se presenta una única sugerencia, sin ninguna reclamación. Conforme al art. 49 LBRL:",
+    "options": [
+      "Será necesario que el Pleno la resuelva y apruebe definitivamente la ordenanza.",
+      "Se entiende definitivamente adoptado el acuerdo provisional, pues solo las reclamaciones impiden la aprobación automática.",
+      "El Alcalde resolverá la sugerencia y ordenará la publicación del texto."
+    ],
+    "correct": 0,
+    "exp": "La aprobación definitiva automática del párrafo final del art. 49 LBRL exige que no se haya presentado «ninguna reclamación o sugerencia». Presentada una sola sugerencia, se aplica la letra c): resolución de la misma y aprobación definitiva por el Pleno.",
+    "fuente": "Art. 49.c) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de los siguientes trámites NO aparece recogido en el art. 49 LBRL?",
+    "options": [
+      "La información pública y audiencia a los interesados.",
+      "La publicación íntegra del texto en el Boletín Oficial de la Provincia.",
+      "La resolución de las reclamaciones y sugerencias presentadas dentro del plazo."
+    ],
+    "correct": 1,
+    "exp": "El art. 49 LBRL se limita a las tres fases de aprobación inicial, información pública y aprobación definitiva. La publicación íntegra del texto en el «Boletín Oficial» de la Provincia como requisito de entrada en vigor se regula en el art. 70.2 LBRL, no en el art. 49.",
+    "fuente": "Art. 49 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En cuanto al plazo de que dispone el Pleno para resolver las reclamaciones y sugerencias y aprobar definitivamente la ordenanza, el art. 49 LBRL:",
+    "options": [
+      "Fija un plazo de un mes desde la finalización de la información pública.",
+      "Fija un plazo de tres meses, transcurrido el cual se entiende aprobada.",
+      "No establece plazo alguno."
+    ],
+    "correct": 2,
+    "exp": "El art. 49 LBRL sólo cuantifica un plazo: el mínimo de treinta días de información pública y audiencia de su letra b). No señala plazo para la resolución de reclamaciones ni para la aprobación definitiva.",
+    "fuente": "Art. 49 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Ordene conforme al art. 49 LBRL las fases del procedimiento de aprobación de una Ordenanza local:",
+    "options": [
+      "Aprobación inicial por el Pleno; información pública y audiencia a los interesados; resolución de reclamaciones y sugerencias y aprobación definitiva por el Pleno.",
+      "Información pública y audiencia; aprobación inicial por el Pleno; aprobación definitiva por el Pleno.",
+      "Aprobación inicial por el Pleno; dictamen de la Comisión Informativa; información pública; aprobación definitiva por el Alcalde."
+    ],
+    "correct": 0,
+    "exp": "El orden legal es el de las letras a), b) y c) del art. 49 LBRL: aprobación inicial por el Pleno, información pública y audiencia a los interesados por plazo mínimo de treinta días y, finalmente, resolución de todas las reclamaciones y sugerencias presentadas en plazo con aprobación definitiva por el Pleno.",
+    "fuente": "Art. 49 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En qué letra del art. 4.1 LBRL se recogen las potestades reglamentaria y de autoorganización de los municipios, provincias e islas?",
+    "options": [
+      "En la letra c).",
+      "En la letra a).",
+      "En la letra g)."
+    ],
+    "correct": 1,
+    "exp": "El art. 4.1 LBRL enumera: a) las potestades reglamentaria y de autoorganización; b) las potestades tributaria y financiera; c) la potestad de programación o planificación; y g) la potestad de revisión de oficio de sus actos y acuerdos.",
+    "fuente": "Art. 4.1.a) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el encabezamiento del art. 4.1 LBRL, las potestades que enumera (entre ellas la reglamentaria y de autoorganización) corresponden a los municipios, provincias e islas:",
+    "options": [
+      "En su condición de entidades instrumentales de la Administración autonómica y con el alcance que ésta determine.",
+      "Con carácter supletorio y solo en defecto de regulación autonómica.",
+      "En su calidad de Administraciones públicas de carácter territorial y dentro de la esfera de sus competencias."
+    ],
+    "correct": 2,
+    "exp": "El art. 4.1 LBRL dispone: «En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, corresponden en todo caso a los municipios, las provincias y las islas: a) Las potestades reglamentaria y de autoorganización [...]».",
+    "fuente": "Art. 4.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 4.1 LBRL atribuye «en todo caso» las potestades que enumera a:",
+    "options": [
+      "Los municipios, las provincias y las islas.",
+      "Los municipios y las mancomunidades de municipios.",
+      "Los municipios, las comarcas y las áreas metropolitanas."
+    ],
+    "correct": 0,
+    "exp": "El apartado 1 del art. 4 LBRL se refiere a los municipios, las provincias y las islas. La extensión a las entidades de ámbito inferior al municipio, comarcas, áreas metropolitanas y demás entidades locales se regula en el apartado 2, y las mancomunidades en el apartado 3.",
+    "fuente": "Art. 4.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes potestades NO figura en la enumeración del art. 4.1 LBRL?",
+    "options": [
+      "La potestad de revisión de oficio de sus actos y acuerdos.",
+      "La potestad legislativa.",
+      "La potestad de programación o planificación."
+    ],
+    "correct": 1,
+    "exp": "El art. 4.1 LBRL enumera, entre otras, las potestades reglamentaria y de autoorganización, tributaria y financiera, de programación o planificación, expropiatoria y de investigación, deslinde y recuperación de oficio, de ejecución forzosa y sancionadora, y de revisión de oficio. La potestad legislativa no se atribuye a las entidades locales.",
+    "fuente": "Art. 4.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 4.2 LBRL, la aplicación de las potestades del apartado 1 (entre ellas la reglamentaria) a las comarcas, áreas metropolitanas, entidades de ámbito inferior al municipio y demás entidades locales:",
+    "options": [
+      "Es automática y con el mismo alcance que para los municipios.",
+      "Depende de lo que acuerde el Pleno del municipio en cuyo término se hallen.",
+      "Exige que las leyes de las comunidades autónomas concreten cuáles de aquellas potestades serán de aplicación."
+    ],
+    "correct": 2,
+    "exp": "El art. 4.2 LBRL prevé que lo dispuesto en el apartado 1 podrá ser de aplicación a esas entidades, «debiendo las leyes de las comunidades autónomas concretar cuáles de aquellas potestades serán de aplicación», con la excepción de las mancomunidades, regidas por el apartado 3.",
+    "fuente": "Art. 4.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 4.3 LBRL, ¿qué potestades corresponden a una mancomunidad de municipios cuyos Estatutos no contienen previsión alguna al respecto?",
+    "options": [
+      "Todas las enumeradas en el art. 4.1, siempre que sean precisas para el cumplimiento de su finalidad y de acuerdo con la legislación aplicable.",
+      "Ninguna, pues las potestades del art. 4.1 requieren atribución estatutaria expresa.",
+      "Únicamente las que le delegue cada uno de los municipios mancomunados."
+    ],
+    "correct": 0,
+    "exp": "El art. 4.3 LBRL atribuye a las mancomunidades las potestades del apartado 1 que determinen sus Estatutos y añade: «En defecto de previsión estatutaria, les corresponderán todas las potestades enumeradas en dicho apartado, siempre que sean precisas para el cumplimiento de su finalidad, y de acuerdo con la legislación aplicable a cada una de dichas potestades».",
+    "fuente": "Art. 4.3 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 22.2.d) LBRL atribuye al Pleno, en todo caso:",
+    "options": [
+      "La aprobación del reglamento orgánico y de los bandos de la Alcaldía.",
+      "La aprobación del reglamento orgánico y de las ordenanzas.",
+      "La aprobación exclusivamente de las ordenanzas fiscales."
+    ],
+    "correct": 1,
+    "exp": "El art. 22.2.d) LBRL emplea la fórmula «La aprobación del reglamento orgánico y de las ordenanzas», comprendiendo ambos tipos de normas en una sola letra. Los bandos son competencia del Alcalde, no del Pleno.",
+    "fuente": "Art. 22.2.d) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La aprobación del reglamento orgánico y de las ordenanzas del art. 22.2.d) LBRL es, conforme al art. 22.4 LBRL, una atribución que el Pleno:",
+    "options": [
+      "Puede delegar en la Junta de Gobierno Local, pero no en el Alcalde.",
+      "Puede delegar en el Alcalde, pero no en la Junta de Gobierno Local.",
+      "No puede delegar ni en el Alcalde ni en la Junta de Gobierno Local."
+    ],
+    "correct": 2,
+    "exp": "El art. 22.4 LBRL permite al Pleno delegar sus atribuciones en el Alcalde y en la Junta de Gobierno Local «salvo las enunciadas en el apartado 2, párrafos a), b), c), d), e), f), g), h), i), l) y p), y en el apartado 3». La letra d) figura entre las excluidas, por lo que es indelegable.",
+    "fuente": "Art. 22.4 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes atribuciones del art. 22.2 LBRL SÍ puede el Pleno delegar, al no figurar entre las excluidas por el art. 22.4 LBRL?",
+    "options": [
+      "La aprobación de los proyectos de obras y servicios cuando sea competente para su contratación o concesión y aún no estén previstos en los presupuestos.",
+      "La aprobación del reglamento orgánico y de las ordenanzas.",
+      "La aprobación de la plantilla de personal y de la relación de puestos de trabajo."
+    ],
+    "correct": 0,
+    "exp": "El art. 22.4 LBRL excluye de la delegación las letras a) a i), l) y p) del apartado 2, además del apartado 3. El control y fiscalización [a)], la aprobación del reglamento orgánico y las ordenanzas [d)] y la plantilla y relación de puestos de trabajo [i)] son indelegables; la aprobación de proyectos de obras y servicios de la letra ñ) no está excluida.",
+    "fuente": "Art. 22.4 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Las atribuciones enumeradas en el art. 22.2 LBRL, entre ellas la aprobación del reglamento orgánico y de las ordenanzas, corresponden al Pleno municipal en los Ayuntamientos y, en el régimen de Concejo Abierto, a:",
+    "options": [
+      "El Alcalde, asistido por la Junta Vecinal.",
+      "La Asamblea vecinal.",
+      "La Comisión Especial de Cuentas."
+    ],
+    "correct": 1,
+    "exp": "El art. 22.2 LBRL comienza: «Corresponden, en todo caso, al Pleno municipal en los Ayuntamientos, y a la Asamblea vecinal en el régimen de Concejo Abierto, las siguientes atribuciones».",
+    "fuente": "Art. 22.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En la enumeración del art. 22.2 LBRL, ¿qué atribución recoge la letra c), inmediatamente anterior a la aprobación del reglamento orgánico y de las ordenanzas?",
+    "options": [
+      "La aprobación de las formas de gestión de los servicios y de los expedientes de municipalización.",
+      "La declaración de lesividad de los actos del Ayuntamiento.",
+      "La aprobación inicial del planeamiento general y la aprobación que ponga fin a la tramitación municipal de los planes y demás instrumentos de ordenación previstos en la legislación urbanística."
+    ],
+    "correct": 2,
+    "exp": "El art. 22.2.c) LBRL atribuye al Pleno la aprobación inicial del planeamiento general y la aprobación que ponga fin a la tramitación municipal de los planes e instrumentos de ordenación urbanística, así como los convenios que tengan por objeto su alteración. La letra d) es la de reglamento orgánico y ordenanzas; la e) los recursos tributarios; la f) las formas de gestión de los servicios; y la k) la declaración de lesividad.",
+    "fuente": "Art. 22.2.c) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 47.1 LBRL, existe mayoría simple cuando:",
+    "options": [
+      "Los votos afirmativos son más que los negativos.",
+      "Los votos afirmativos superan la mitad del número legal de miembros de la corporación.",
+      "Los votos afirmativos superan la suma de los negativos y las abstenciones."
+    ],
+    "correct": 0,
+    "exp": "El art. 47.1 LBRL define: «Existe mayoría simple cuando los votos afirmativos son más que los negativos». La mayoría absoluta del número legal de miembros es la exigida en el apartado 2 para materias tasadas.",
+    "fuente": "Art. 47.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 47.1 LBRL, los acuerdos de las corporaciones locales se adoptan, como regla general:",
+    "options": [
+      "Por mayoría absoluta del número legal de miembros.",
+      "Por mayoría simple de los miembros presentes.",
+      "Por mayoría de dos tercios de los miembros presentes."
+    ],
+    "correct": 1,
+    "exp": "El art. 47.1 LBRL establece que «Los acuerdos de las corporaciones locales se adoptan, como regla general, por mayoría simple de los miembros presentes». La mayoría absoluta es la excepción del apartado 2.",
+    "fuente": "Art. 47.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 47.2.f) LBRL exige el voto favorable de la mayoría absoluta del número legal de miembros de la corporación para:",
+    "options": [
+      "La aprobación del reglamento orgánico propio, pero no para su modificación.",
+      "La aprobación del reglamento orgánico propio y de las ordenanzas fiscales.",
+      "La aprobación y modificación del reglamento orgánico propio de la corporación."
+    ],
+    "correct": 2,
+    "exp": "La letra f) del art. 47.2 LBRL se refiere a la «Aprobación y modificación del reglamento orgánico propio de la corporación». La exigencia de mayoría absoluta alcanza también a la modificación, y no se extiende a las restantes ordenanzas.",
+    "fuente": "Art. 47.2.f) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La mayoría reforzada que el art. 47.2 LBRL exige para las materias que enumera se computa sobre:",
+    "options": [
+      "El número legal de miembros de la corporación.",
+      "El número de miembros presentes en la sesión.",
+      "El número de miembros de derecho descontadas las vacantes."
+    ],
+    "correct": 0,
+    "exp": "El art. 47.2 LBRL requiere «el voto favorable de la mayoría absoluta del número legal de miembros de las corporaciones». El cómputo se hace, por tanto, sobre el número legal de miembros, no sobre los presentes ni sobre los votos emitidos.",
+    "fuente": "Art. 47.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El Pleno de un ayuntamiento con 27 miembros de número legal aprueba definitivamente una ordenanza reguladora de la convivencia ciudadana con 12 votos a favor, 10 en contra y 5 abstenciones. Conforme a los arts. 47.1 y 47.2 LBRL, el acuerdo:",
+    "options": [
+      "Es nulo, porque toda ordenanza exige el voto favorable de 14 miembros.",
+      "Es válido, por mayoría simple, ya que esta materia no figura entre las del art. 47.2.",
+      "Es nulo, porque los votos afirmativos no superan la suma de negativos y abstenciones."
+    ],
+    "correct": 1,
+    "exp": "Las ordenanzas ordinarias no figuran en la lista del art. 47.2 LBRL, por lo que rige la regla general del art. 47.1: mayoría simple de los miembros presentes, que existe cuando los votos afirmativos (12) son más que los negativos (10). Las abstenciones no se suman a los negativos.",
+    "fuente": "Art. 47.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En ese mismo ayuntamiento de 27 miembros de número legal, se somete a votación la modificación del reglamento orgánico municipal y se obtienen 12 votos a favor, 10 en contra y 5 abstenciones. Conforme al art. 47.2.f) LBRL:",
+    "options": [
+      "El acuerdo es válido, al haberse alcanzado mayoría simple.",
+      "El acuerdo es válido, porque la mayoría absoluta se computa sobre los presentes.",
+      "El acuerdo no es válido, pues se exige mayoría absoluta del número legal de miembros, es decir, 14 votos favorables."
+    ],
+    "correct": 2,
+    "exp": "La aprobación y modificación del reglamento orgánico propio figura en el art. 47.2.f) LBRL, que exige mayoría absoluta del número legal de miembros: con 27 miembros de número legal se precisan 14 votos favorables, que no se alcanzan con 12.",
+    "fuente": "Art. 47.2.f) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Con qué cláusula cierra el art. 47.2 LBRL la enumeración de materias que requieren el voto favorable de la mayoría absoluta?",
+    "options": [
+      "«Las restantes determinadas por la ley».",
+      "«Las demás que expresamente le confieran las leyes».",
+      "«Cualesquiera otras que el reglamento orgánico determine»."
+    ],
+    "correct": 0,
+    "exp": "La letra o) del art. 47.2 LBRL es la cláusula de cierre: «Las restantes determinadas por la ley». Las otras fórmulas citadas pertenecen al art. 22.2, letras p) y q), sobre atribuciones del Pleno.",
+    "fuente": "Art. 47.2.o) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 47.3 LBRL, las normas relativas a la adopción de acuerdos en los municipios señalados en el artículo 121 de la propia ley (municipios de gran población) son las contenidas en:",
+    "options": [
+      "El apartado 1 del artículo 122.",
+      "El apartado 2 del artículo 123.",
+      "El apartado 2 del artículo 70."
+    ],
+    "correct": 1,
+    "exp": "El art. 47.3 LBRL remite expresamente: «Las normas relativas a adopción de acuerdos en los municipios señalados en el artículo 121 de esta ley, son las contenidas en el apartado 2 del artículo 123».",
+    "fuente": "Art. 47.3 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En los municipios de gran población, y conforme al art. 123.2 LBRL, la aprobación y modificación de las ordenanzas y reglamentos municipales del art. 123.1.d) requiere:",
+    "options": [
+      "Mayoría de dos tercios del número legal de miembros del Pleno.",
+      "Mayoría absoluta en primera votación y simple en la segunda.",
+      "Mayoría simple de votos."
+    ],
+    "correct": 2,
+    "exp": "El art. 123.2 LBRL exige mayoría absoluta del número legal de miembros del Pleno sólo para los acuerdos de los párrafos c), e), f), j) y o) y para los relativos a la tramitación del planeamiento general, añadiendo que «Los demás acuerdos se adoptarán por mayoría simple de votos». La letra d) (ordenanzas y reglamentos municipales) queda, pues, en mayoría simple, frente a la letra c) (reglamentos de naturaleza orgánica), que exige mayoría absoluta.",
+    "fuente": "Art. 123.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Además de las ordenanzas, ¿qué otros textos menciona expresamente el art. 70.2 LBRL como objeto de la publicación en el «Boletín Oficial» de la Provincia?",
+    "options": [
+      "El articulado de las normas de los planes urbanísticos, así como los acuerdos correspondientes a éstos cuya aprobación definitiva sea competencia de los entes locales.",
+      "Los convenios interadministrativos y las bases de las convocatorias de personal.",
+      "Las resoluciones de los recursos de reposición interpuestos contra actos de aplicación de las ordenanzas."
+    ],
+    "correct": 0,
+    "exp": "El art. 70.2 LBRL se refiere a «Las ordenanzas, incluidos el articulado de las normas de los planes urbanísticos, así como los acuerdos correspondientes a éstos cuya aprobación definitiva sea competencia de los entes locales».",
+    "fuente": "Art. 70.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Un ayuntamiento publica en el Boletín Oficial de la Provincia únicamente un extracto de la ordenanza aprobada definitivamente por el Pleno. Conforme al art. 70.2 LBRL:",
+    "options": [
+      "La ordenanza entra en vigor a los veinte días de la publicación del extracto.",
+      "La ordenanza no entra en vigor, pues se exige que se haya publicado completamente su texto.",
+      "La ordenanza entra en vigor, pero sólo respecto de los preceptos efectivamente publicados."
+    ],
+    "correct": 1,
+    "exp": "El art. 70.2 LBRL dispone que las ordenanzas «no entrarán en vigor hasta que se haya publicado completamente su texto y haya transcurrido el plazo previsto en el artículo 65.2». La publicación parcial o por extracto no cumple ese requisito.",
+    "fuente": "Art. 70.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál es el plazo previsto en el art. 65.2 LBRL, al que remite el art. 70.2 para la entrada en vigor de las ordenanzas?",
+    "options": [
+      "Quince días naturales.",
+      "Treinta días hábiles.",
+      "Quince días hábiles."
+    ],
+    "correct": 2,
+    "exp": "El art. 65.2 LBRL establece que el requerimiento «se formulará en el plazo de quince días hábiles a partir de la recepción de la comunicación del acuerdo». Es ese plazo de quince días hábiles el que ha de transcurrir, tras la publicación íntegra, para que la ordenanza entre en vigor conforme al art. 70.2.",
+    "fuente": "Art. 65.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El plazo del art. 65.2 LBRL, cuyo transcurso condiciona la entrada en vigor de las ordenanzas según el art. 70.2, es el que tienen la Administración del Estado o de la Comunidad Autónoma para:",
+    "options": [
+      "Formular el requerimiento motivado de anulación del acto o acuerdo que estimen infractor del ordenamiento jurídico.",
+      "Interponer directamente recurso contencioso-administrativo sin requerimiento previo.",
+      "Emitir el informe preceptivo previo a la aprobación definitiva de la ordenanza."
+    ],
+    "correct": 0,
+    "exp": "El art. 65.1 y 2 LBRL regula el requerimiento de anulación: deberá ser motivado y expresar la normativa que se estime vulnerada, y «se formulará en el plazo de quince días hábiles a partir de la recepción de la comunicación del acuerdo». La impugnación directa sin requerimiento es la del art. 65.4.",
+    "fuente": "Art. 65.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 70.2 LBRL, ¿qué normas locales quedan exceptuadas de la regla general de publicación y entrada en vigor allí establecida?",
+    "options": [
+      "Las ordenanzas que tipifiquen infracciones y sanciones.",
+      "Los presupuestos y las ordenanzas fiscales.",
+      "Las normas de los planes urbanísticos."
+    ],
+    "correct": 1,
+    "exp": "El art. 70.2 LBRL salva expresamente «los presupuestos y las ordenanzas fiscales que se publican y entran en vigor en los términos establecidos en la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales».",
+    "fuente": "Art. 70.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿A qué norma remite el art. 70.2 LBRL la publicación y entrada en vigor de los presupuestos y de las ordenanzas fiscales?",
+    "options": [
+      "A la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.",
+      "Al Real Decreto Legislativo 781/1986 (TRRL).",
+      "A la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales."
+    ],
+    "correct": 2,
+    "exp": "El texto vigente del art. 70.2 LBRL sigue remitiéndose literalmente a la «Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales», hoy sustituida por el TRLRHL (RDLeg 2/2004), pero es esa la cita que figura en el precepto.",
+    "fuente": "Art. 70.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Señale la afirmación correcta sobre la relación entre publicación y entrada en vigor de las ordenanzas conforme al art. 70.2 LBRL:",
+    "options": [
+      "Entre la publicación completa del texto y la entrada en vigor debe mediar además el transcurso del plazo previsto en el art. 65.2.",
+      "La publicación íntegra en el Boletín Oficial de la Provincia y la entrada en vigor son simultáneas.",
+      "La ordenanza entra en vigor con la aprobación definitiva por el Pleno, siendo la publicación un requisito de mera eficacia frente a terceros."
+    ],
+    "correct": 0,
+    "exp": "El art. 70.2 LBRL acumula dos requisitos para la entrada en vigor: la publicación completa del texto en el «Boletín Oficial» de la Provincia y el transcurso del plazo del art. 65.2 (quince días hábiles). Por tanto, publicación y entrada en vigor no coinciden en el tiempo.",
+    "fuente": "Art. 70.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Con qué previsión general comienza el art. 70.2 LBRL, antes de referirse específicamente a las ordenanzas?",
+    "options": [
+      "«Las sesiones del Pleno de las corporaciones locales son públicas».",
+      "«Los acuerdos que adopten las corporaciones locales se publican o notifican en la forma prevista por la Ley».",
+      "«Todos los ciudadanos tienen derecho a obtener copias y certificaciones acreditativas de los acuerdos de las corporaciones locales»."
+    ],
+    "correct": 1,
+    "exp": "El art. 70.2 LBRL se abre con esa regla general de publicación o notificación de los acuerdos locales. La publicidad de las sesiones es el art. 70.1, el derecho a copias y certificaciones el art. 70.3, y la ejecutividad inmediata el art. 51.",
+    "fuente": "Art. 70.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 70.2 LBRL termina imponiendo a las Administraciones públicas con competencias urbanísticas el deber de:",
+    "options": [
+      "Publicar anualmente en el Boletín Oficial de la Provincia una relación de las ordenanzas vigentes.",
+      "Someter el planeamiento a informe previo de la Comunidad Autónoma antes de su publicación.",
+      "Tener a disposición de los ciudadanos que lo soliciten copias completas del planeamiento vigente en su ámbito territorial."
+    ],
+    "correct": 2,
+    "exp": "El inciso final del art. 70.2 LBRL dispone: «Las Administraciones públicas con competencias urbanísticas deberán tener, a disposición de los ciudadanos que lo soliciten, copias completas del planeamiento vigente en su ámbito territorial».",
+    "fuente": "Art. 70.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En el ámbito municipal, la atribución al Pleno de la aprobación inicial y definitiva de las ordenanzas que resulta del art. 49 LBRL se corresponde con la competencia que le reconoce, en todo caso:",
+    "options": [
+      "El art. 22.2.d) LBRL, entre las atribuciones del Pleno.",
+      "El art. 21.1 LBRL, entre las atribuciones del Alcalde.",
+      "El art. 33.2 LBRL, entre las atribuciones del Pleno de la Diputación."
+    ],
+    "correct": 0,
+    "exp": "El art. 49.a) y c) LBRL sitúa en el Pleno las dos aprobaciones, en coherencia con el art. 22.2.d) LBRL, que le atribuye «en todo caso» la aprobación del reglamento orgánico y de las ordenanzas en los ayuntamientos.",
+    "fuente": "Art. 22.2.d) LBRL (Ley 7/1985)",
+    "confianza": "alta",
+    "correccion": {
+      "campo": "q",
+      "antes": "La atribución al Pleno de la aprobación inicial y definitiva de las ordenanzas que resulta del art. 49 LBRL se corresponde con la competencia que le reconoce, en todo caso:",
+      "despues": "En el ámbito municipal, la atribución al Pleno de la aprobación inicial y definitiva de las ordenanzas que resulta del art. 49 LBRL se corresponde con la competencia que le reconoce, en todo caso:",
+      "motivo": "Ambigüedad: sin acotar el ámbito municipal, el distractor D (art. 33.2 LBRL, Pleno de la Diputación) también era defendible, porque el art. 33.2.b) atribuye «en todo caso» al Pleno provincial «La aprobación de las ordenanzas». Acotado el enunciado al ámbito municipal, la única respuesta posible es el art. 22.2.d)."
+    }
   }
 ],
 7:[
