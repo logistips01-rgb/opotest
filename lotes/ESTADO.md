@@ -872,6 +872,55 @@ material sin explotar (el lote B, por ejemplo, dejó sin usar buena parte del
 art. 37 y de los arts. 38-46). Candidata natural para una segunda vuelta antes
 de recurrir a otras normas.
 
+## Tema 1 · La Constitución Española — SEGUNDA AUDITORÍA DE ALCANCE (17-ago-2026)
+
+Disparada por el usuario: le salió en «Fallos» la pregunta «¿En qué año se
+establecen las provincias como división territorial del Estado?» (1833) y
+preguntó si entraba. No entra — el decreto de Javier de Burgos es historia
+administrativa, no está en la Constitución — y al mirarla se vio que no era un
+caso aislado: la purga de agosto (260 preguntas a
+`data/reserva/constitucion-fuera-alcance-aux-admin.json`) había dejado dentro
+un bloque entero de contenido ajeno al epígrafe.
+
+Alcance oficial, literal (CONV 4/2026, ANEXO I): «elaboración y aprobación.
+Estructura y título preliminar. La Administración pública en la Constitución.
+Organización territorial del Estado en la Constitución: principios generales y
+Administración local».
+
+Resultado: **230 → 176 preguntas**.
+
+- **52 archivadas** en `data/reserva/tema1-fuera-alcance-aux-admin.json`, por
+  grupos: organización de la AGE (LOFAGE / Ley 40/2015) 13, Ley 50/1997 del
+  Gobierno 10, relaciones Gobierno-Cortes (moción de censura y cuestión de
+  confianza, Título V) 8, comunidades autónomas 5, historia constitucional 4,
+  procedimiento legislativo y presupuesto 3, defectuosas 3, división provincial
+  histórica 2, reforma constitucional 2, Corona 1, Cortes Generales 1.
+- **2 movidas** de tema, no archivadas, porque sí entran en la oposición: el año
+  de la LBRL al tema 14 y el año del TRRL al tema 16 (en
+  `data/aux-admin-zaragoza.ampliacion.js`, con nota de procedencia en el `exp`).
+- **1 corregida** en el sitio: «¿Qué artículos comprende el Título I?» marcaba
+  «del 9 al 55» y es del **10** al 55; contradecía a otra pregunta del mismo
+  tema que sitúa el título preliminar en los arts. 1-9.
+
+Criterios que conviene no volver a discutir:
+
+- Las preguntas «¿en qué Título se regula X?» se quedan aunque X esté fuera de
+  alcance: preguntan por la **estructura** del texto, que sí entra.
+- El Título IV son los arts. **97-107**, así que investidura (99), nombramiento
+  de ministros (100), cese (101), responsabilidad penal (102), principios de la
+  Administración (103) y Consejo de Estado (107) entran. La moción de censura y
+  la cuestión de confianza son Título V (108-116) y no entran.
+- «...**en la Constitución**» excluye las normas que no son la Constitución,
+  aunque hablen de la misma materia: Ley 50/1997, LOFAGE, Ley 40/2015, reales
+  decretos de estructura ministerial.
+- El epígrafe dice «principios generales y Administración local», no
+  comunidades autónomas: el capítulo III del Título VIII queda fuera.
+
+Pendiente en este tema: las 176 que se quedan **siguen sin `fuente` citada**
+(vienen del banco original, no de lotes generados). Cuando le toque el turno al
+tema 1 en la campaña, hay que citar artículo en las que se conserven y subir de
+176 a 500.
+
 ## Temas siguientes, cuando el 20 esté cerrado
 
 Del 19 hacia atrás. Estado y déficit hasta 500:

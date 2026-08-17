@@ -1031,28 +1031,6 @@ const QUESTIONS = {
     "exp": "Art. 9.3: 'La Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas...'"
   },
   {
-    "q": "¿En qué año se aprobó la primera Constitución española?",
-    "options": [
-      "1810.",
-      "1812.",
-      "1814.",
-      "1815."
-    ],
-    "correct": 1,
-    "exp": "Pregunta 1 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "De las siguientes Constituciones españolas, ¿cuál no establece la división de poderes?",
-    "options": [
-      "La Constitución de 1837.",
-      "La Constitución de 1865.",
-      "La Constitución de 1879.",
-      "El Estatuto Real de 1834."
-    ],
-    "correct": 3,
-    "exp": "Pregunta 4 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
     "q": "¿En qué fecha fue promulgada la Ley para la Reforma Política?",
     "options": [
       "El 15 de diciembre de 1977.",
@@ -1350,28 +1328,6 @@ const QUESTIONS = {
     "exp": "Pregunta 44 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
   },
   {
-    "q": "Según el procedimiento contenido en el artículo 167 de la Constitución, ¿qué mayoría es necesaria para aprobar una reforma constitucional que afecte a un artículo del Título VIII, en primera votación?",
-    "options": [
-      "Mayoría simple.",
-      "Mayoría absoluta.",
-      "Mayoría de 3/5.",
-      "Mayoría de 2/5."
-    ],
-    "correct": 2,
-    "exp": "Pregunta 48 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿De qué plazo disponen los miembros de las Cámaras para solicitar, en el caso anterior, la celebración de un referéndum?",
-    "options": [
-      "De diez días hábiles.",
-      "De cinco días hábiles.",
-      "De quince días.",
-      "De veinte días."
-    ],
-    "correct": 2,
-    "exp": "Pregunta 49 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
     "q": "¿En cuántos Capítulos se estructura el Título I de la Constitución española de 1978?",
     "options": [
       "En cuatro.",
@@ -1438,17 +1394,6 @@ const QUESTIONS = {
     "exp": "Pregunta 102 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
   },
   {
-    "q": "¿Puede presidir el Rey el Consejo de Ministros?",
-    "options": [
-      "No, en ningún caso.",
-      "Sólo en casos excepcionales en el caso de declaración del estado de excepción.",
-      "Sí, previa petición del Presidente del Gobierno.",
-      "Sí, cuando lo estime oportuno sin más requisitos."
-    ],
-    "correct": 2,
-    "exp": "Pregunta 133 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
     "q": "¿Cuándo nombra el Rey al Presidente del Gobierno?",
     "options": [
       "En todos los casos.",
@@ -1491,17 +1436,6 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "Pregunta 151 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿Cuántos Senadores se eligen por cada provincia?",
-    "options": [
-      "Uno.",
-      "Dos.",
-      "Tres.",
-      "Cuatro."
-    ],
-    "correct": 3,
-    "exp": "Pregunta 178 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
   },
   {
     "q": "¿Qué Título de la Constitución está dedicado a la regulación del Gobierno?",
@@ -1559,17 +1493,6 @@ const QUESTIONS = {
     "exp": "Pregunta 205 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
   },
   {
-    "q": "¿Cuál de las siguientes es la Ley del Gobierno?",
-    "options": [
-      "Ley 50/ 1997, de 27 de noviembre.",
-      "Ley 50/ 1997, de 24 de noviembre.",
-      "Ley 50/ 1997, de 22 de noviembre.",
-      "Ley 50/ 1997, de 21 de noviembre."
-    ],
-    "correct": 0,
-    "exp": "Pregunta 206 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
     "q": "¿Cuál es el máximo órgano consultivo del Gobierno?",
     "options": [
       "El Consejo del Reino.",
@@ -1590,72 +1513,6 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "Pregunta 208 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿Cuál de los siguientes Ministerios no existe en la actualidad?",
-    "options": [
-      "Ministerio de Administraciones Públicas.",
-      "Ministerio de Economía y Hacienda.",
-      "Ministerio de Fomento.",
-      "Ministerio de Sanidad y Consumo."
-    ],
-    "correct": 1,
-    "exp": "Pregunta 209 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿Cuál de los siguientes órganos indicados es un órgano superior de un departamento ministerial?",
-    "options": [
-      "El Secretario de Estado.",
-      "El Director General.",
-      "El Secretario General.",
-      "El Secretario General Técnico."
-    ],
-    "correct": 0,
-    "exp": "Pregunta 210 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿Cómo se clasifican los órganos de un Ministerio según la Ley de Organización y Funcionamiento de la Administración General del Estado?",
-    "options": [
-      "En órganos superiores y directivos.",
-      "En órganos superiores y dependientes.",
-      "En órganos directivos y ejecutivos.",
-      "La Ley citada no establece ninguna clasificación al respecto."
-    ],
-    "correct": 0,
-    "exp": "Pregunta 211 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿Qué rango ostentan los Delegados del Gobierno en las Comunidades Autónomas?",
-    "options": [
-      "Subdirector General.",
-      "Subsecretario General.",
-      "Secretario de Estado.",
-      "Subsecretario."
-    ],
-    "correct": 3,
-    "exp": "Pregunta 212 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿Qué rango ostentan los Subdelegados del Gobierno?",
-    "options": [
-      "Subdirector General.",
-      "Secretario General.",
-      "Secretario General Técnico.",
-      "Subsecretario."
-    ],
-    "correct": 0,
-    "exp": "Pregunta 213 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿En qué año fue aprobada la Ley de Organización y Funcionamiento de la Administración General del Estado?",
-    "options": [
-      "1997.",
-      "1996.",
-      "1998.",
-      "1999."
-    ],
-    "correct": 0,
-    "exp": "Pregunta 214 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
   },
   {
     "q": "¿Cuántos Vicepresidentes deben existir en la composición del Gobierno?",
@@ -1735,17 +1592,6 @@ const QUESTIONS = {
     "exp": "Pregunta 221 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
   },
   {
-    "q": "¿Por medio de qué documento se nombra a un ministro?",
-    "options": [
-      "Por ley.",
-      "Por Decreto.",
-      "Por Real Decreto.",
-      "Por Orden Ministerial."
-    ],
-    "correct": 2,
-    "exp": "Pregunta 222 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
     "q": "¿En cuál de los siguientes casos no cesa el Gobierno?",
     "options": [
       "Por fallecimiento del Presidente.",
@@ -1755,39 +1601,6 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "Pregunta 223 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿Qué artículo de la Constitución recoge la institución del Gobierno en funciones?",
-    "options": [
-      "El artículo 106.",
-      "El artículo 107.",
-      "El artículo 108.",
-      "El artículo 19."
-    ],
-    "correct": 1,
-    "exp": "Pregunta 224 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿Cuál de las siguientes funciones puede ser ejercida por un Presidente del Gobierno en funciones?",
-    "options": [
-      "El planteamiento de una cuestión de confianza.",
-      "La propuesta al Rey de celebración de un referéndum consultivo.",
-      "La propuesta al Rey de disolución de las Cámaras.",
-      "La celebración de Consejos de Ministros."
-    ],
-    "correct": 3,
-    "exp": "Pregunta 225 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿Cuál de los siguientes no es un órgano de colaboración y apoyo al Gobierno?",
-    "options": [
-      "La Comisión de Secretarios de Estado y Subsecretarios.",
-      "Los Gabinetes.",
-      "Los Secretarios de Estado.",
-      "Los Secretarios Generales Técnicos."
-    ],
-    "correct": 3,
-    "exp": "Pregunta 226 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
   },
   {
     "q": "¿Ante quien es exigible la responsabilidad penal del Presidente del Gobierno?",
@@ -1810,281 +1623,6 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "Pregunta 228 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿Ante quién responde solidariamente el Gobierno de su gestión política?",
-    "options": [
-      "Ante el pueblo español.",
-      "Ante las Cortes Generales.",
-      "Ante el Congreso de los Diputados.",
-      "Ante el Rey."
-    ],
-    "correct": 2,
-    "exp": "Pregunta 229 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿Quién puede plantear una cuestión de confianza?",
-    "options": [
-      "El Congreso de los Diputados.",
-      "El Gobierno.",
-      "El Rey.",
-      "El Presidente del Gobierno."
-    ],
-    "correct": 3,
-    "exp": "Pregunta 230 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿Cuál de los siguientes trámites es necesario realizar antes de plantear una cuestión de confianza?",
-    "options": [
-      "Deliberación del Presidente del Gobierno.",
-      "Deliberación del Consejo de Ministros.",
-      "Comunicación al Jefe del Estado.",
-      "No es necesario realizar ningún trámite previo."
-    ],
-    "correct": 1,
-    "exp": "Pregunta 231 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿Qué mayoría es necesario alcanzar para entender otorgada la confianza en un proceso de cuestión de confianza?",
-    "options": [
-      "Mayoría absoluta.",
-      "Mayoría simple.",
-      "Mayoría de 1/3.",
-      "Mayoría de 2/3."
-    ],
-    "correct": 1,
-    "exp": "Pregunta 232 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿A quién debe presentar el Presidente del Gobierno su dimisión en el supuesto de que no obtenga la mayoría necesaria en una votación de cuestión de confianza?",
-    "options": [
-      "Ante el Congreso de los Diputados.",
-      "Ante el Rey.",
-      "Ante las Cortes Generales.",
-      "Ante el Consejo de Ministros."
-    ],
-    "correct": 1,
-    "exp": "Pregunta 233 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿Qué número de Diputados es necesario para interponer una moción de censura?",
-    "options": [
-      "Mayoría simple de la Cámara.",
-      "Mayoría absoluta de la Cámara.",
-      "Una décima parte de la Cámara.",
-      "Dos tercios de la Cámara."
-    ],
-    "correct": 2,
-    "exp": "Pregunta 234 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿Cuántos días deben transcurrir desde que se presente una moción de censura hasta que pueda ser votada?",
-    "options": [
-      "Dos días.",
-      "Tres días.",
-      "Cuatro días.",
-      "Cinco días."
-    ],
-    "correct": 3,
-    "exp": "Pregunta 235 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿Qué mayoría es necesaria para que se entienda aprobada una moción de censura?",
-    "options": [
-      "Mayoría simple.",
-      "Mayoría absoluta.",
-      "Mayoría de 2/3.",
-      "Mayoría de 1/3."
-    ],
-    "correct": 1,
-    "exp": "Pregunta 236 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿Cómo son nombrados los Secretarios de Estado?",
-    "options": [
-      "Por Real Decreto del Consejo de Ministros.",
-      "Por Decreto del Presidente del Gobierno.",
-      "Por Real Decreto refrendado por el Presidente del Gobierno.",
-      "Por Decreto del Consejo de Ministros."
-    ],
-    "correct": 2,
-    "exp": "Pregunta 237 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿Cómo se crean las unidades administrativas que no tengan la consideración de órganos de la Administración General del Estado?",
-    "options": [
-      "A través de las relaciones de puestos de trabajo.",
-      "Por Real Decreto del Consejo de Ministros.",
-      "Por Decreto de la Presidencia del Gobierno.",
-      "Por Orden Ministerial."
-    ],
-    "correct": 0,
-    "exp": "Pregunta 238 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿Quién actúa como Secretario de las reuniones del Consejo de Ministros?",
-    "options": [
-      "El Presidente del Gobierno.",
-      "El Ministro de la Presidencia.",
-      "El Ministro de Administraciones Públicas.",
-      "El Ministro del Interior."
-    ],
-    "correct": 1,
-    "exp": "Pregunta 239 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿Cuál de las siguientes funciones no está asignada al Consejo de Ministros?",
-    "options": [
-      "Aprobar el proyecto de ley de presupuestos generales del Estado.",
-      "Remitir al Congreso o, en su caso, al Senado proyectos de Ley.",
-      "Aprobar los decretos leyes.",
-      "Declarar el estado de sitio."
-    ],
-    "correct": 3,
-    "exp": "Pregunta 240 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿Qué carácter tienen las deliberaciones del Consejo de Ministros?",
-    "options": [
-      "Secretas.",
-      "Públicas.",
-      "Solemnes.",
-      "Solemnes y públicas."
-    ],
-    "correct": 0,
-    "exp": "Pregunta 241 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿Quién representa al Gobierno?",
-    "options": [
-      "El Presidente.",
-      "El Ministro de la Presidencia.",
-      "El Ministro portavoz del Gobierno.",
-      "Los Ministros."
-    ],
-    "correct": 0,
-    "exp": "Pregunta 242 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿Cuál de las siguientes funciones no le corresponde ejercer al Presidente del Gobierno?",
-    "options": [
-      "Interponer el recurso de inconstitucionalidad.",
-      "Proponer al Rey la celebración de referéndum consultivo.",
-      "Proponer la disolución de las Cortes Generales.",
-      "Interponer moción de confianza."
-    ],
-    "correct": 3,
-    "exp": "Pregunta 243 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿Qué rango ostentan los Secretarios Generales Técnicos?",
-    "options": [
-      "De Director General.",
-      "De Subdirector General.",
-      "De Secretario General.",
-      "De Subsecretario."
-    ],
-    "correct": 0,
-    "exp": "Pregunta 244 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿Quién nombra a los Subdelegados del Gobierno?",
-    "options": [
-      "El Delegado del Gobierno.",
-      "El Ministro de Administraciones Públicas.",
-      "El Consejo de Ministros.",
-      "El Presidente del Gobierno."
-    ],
-    "correct": 0,
-    "exp": "Pregunta 246 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿En cuál de las siguientes Comunidades Autónomas no existen Subdelegados del Gobierno?",
-    "options": [
-      "Cantabria.",
-      "Extremadura.",
-      "Cataluña.",
-      "Andalucía."
-    ],
-    "correct": 0,
-    "exp": "Pregunta 248 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿De qué año es el Real Decreto que establece la regulación de las figuras de los Delegados y Subdelegados del Gobierno?",
-    "options": [
-      "1996.",
-      "1997.",
-      "1998.",
-      "1999."
-    ],
-    "correct": 1,
-    "exp": "Pregunta 249 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿Cuántos Ministerios existen en la actualidad?",
-    "options": [
-      "14.",
-      "12.",
-      "15.",
-      "17. Tema Nº 6. La Constitución Española. Fuentes del Derecho."
-    ],
-    "correct": 2,
-    "exp": "Pregunta 250 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿En cuál de las siguientes materias el gobierno ejerce el monopolio de la iniciativa legislativa?",
-    "options": [
-      "En materia de desarrollo de derechos fundamentales.",
-      "En materia de planificación económica y presupuestaria.",
-      "En materia de desarrollo de la institución de la Corona.",
-      "El Gobierno no tiene iniciativa legislativa."
-    ],
-    "correct": 2,
-    "exp": "Pregunta 259 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿De qué plazo dispone el Rey para sancionar las leyes?",
-    "options": [
-      "Diez días.",
-      "Quince días.",
-      "Veinte días.",
-      "Treinta días."
-    ],
-    "correct": 1,
-    "exp": "Pregunta 267 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿Puede el Gobierno subdelegar la facultad de dictar legislación delegada?",
-    "options": [
-      "En ningún caso.",
-      "Sí, siempre que lo autorice la ley de delegación.",
-      "Sí, siempre que delegue en autoridades administrativas.",
-      "No, salvo que delegue en órganos administrativos."
-    ],
-    "correct": 0,
-    "exp": "Pregunta 278 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿Cómo se denominan las normas con rango de ley aprobadas por el Gobierno, que contienen legislación delegada?",
-    "options": [
-      "Decretos leyes.",
-      "Reales Decretos.",
-      "Decretos legislativos.",
-      "Decretos."
-    ],
-    "correct": 2,
-    "exp": "Pregunta 279 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿Qué artículo de la ley del Gobierno establece las normas de jerarquía de los reglamentos?",
-    "options": [
-      "El art. 23.",
-      "El art. 43.",
-      "El art. 32.",
-      "El art. 37."
-    ],
-    "correct": 0,
-    "exp": "Pregunta 289 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
   },
   {
     "q": "¿Qué Título de la Constitución española de 1978 está dedicado a la regulación del Poder Judicial?",
@@ -2131,17 +1669,6 @@ const QUESTIONS = {
     "exp": "Pregunta 403 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
   },
   {
-    "q": "¿En qué año se establecen las provincias como división territorial del Estado?",
-    "options": [
-      "1833.",
-      "1834.",
-      "1835.",
-      "1836."
-    ],
-    "correct": 0,
-    "exp": "Pregunta 404 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
-  },
-  {
     "q": "¿Cuál de los siguientes principios no se recoge en el artículo 2 de la Constitución española de 1978?",
     "options": [
       "Unidad.",
@@ -2153,61 +1680,6 @@ const QUESTIONS = {
     "exp": "Pregunta 409 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
   },
   {
-    "q": "¿Cuántos municipios debían formar parte de la iniciativa autonómica en el caso de las Comunidades que accedieron por la vía especial, en el caso de que no hubieran plesbiscitado estatutos en el pasado?",
-    "options": [
-      "2/3 partes.",
-      "1/3 parte.",
-      "2/4 partes.",
-      "¾ partes."
-    ],
-    "correct": 3,
-    "exp": "Pregunta 419 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
-  },
-  {
-    "q": "¿Cuántos municipios debían formar parte de la iniciativa autonómica en el caso de las Comunidades que accedieron por la vía especial, en el caso de que si hubieran plesbiscitado estatutos en el pasado?",
-    "options": [
-      "2/3 partes.",
-      "1/3 parte.",
-      "2/4 partes.",
-      "Ningún porcentaje."
-    ],
-    "correct": 3,
-    "exp": "Pregunta 420 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
-  },
-  {
-    "q": "¿Cuántos municipios debían formar parte de la iniciativa autonómica en el caso de las Comunidades que accedieron por la vía común, en el caso de que no tuvieran régimen provisional de autonomía?",
-    "options": [
-      "2/3 partes.",
-      "1/3 parte.",
-      "2/4 partes.",
-      "3/4 partes."
-    ],
-    "correct": 0,
-    "exp": "Pregunta 421 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
-  },
-  {
-    "q": "¿Cuántos municipios debían formar parte de la iniciativa autonómica en el caso de las Comunidades que accedieron por la vía común, en el caso de que tuvieran régimen provisional de autonomía? .",
-    "options": [
-      "2/3 partes.",
-      "1/3 parte.",
-      "2/4 partes.",
-      "Ningún porcentaje."
-    ],
-    "correct": 3,
-    "exp": "Pregunta 422 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
-  },
-  {
-    "q": "¿Cómo se denomina generalmente, al órgano de gobierno de la Comunidad Autónoma?",
-    "options": [
-      "Consejo ejecutivo.",
-      "Consejo de Gobierno.",
-      "Consejo colegiado.",
-      "Consejo."
-    ],
-    "correct": 1,
-    "exp": "Pregunta 429 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
-  },
-  {
     "q": "¿En qué Título de la Constitución se regula la Administración Local?",
     "options": [
       "El Título VII.",
@@ -2217,17 +1689,6 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "Pregunta 432 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
-  },
-  {
-    "q": "¿De qué año es la Ley Reguladora de las Bases del Régimen Local?",
-    "options": [
-      "1983.",
-      "1984.",
-      "1985.",
-      "1986."
-    ],
-    "correct": 2,
-    "exp": "Pregunta 434 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
   },
   {
     "q": "¿Qué artículo de la Constitución establece el derecho de autonomía de provincias y municipios?",
@@ -2362,28 +1823,6 @@ const QUESTIONS = {
     "exp": "Pregunta 448 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
   },
   {
-    "q": "¿De qué año es el Texto Refundido de Disposiciones legales vigentes en materia de régimen local?",
-    "options": [
-      "1985.",
-      "1986.",
-      "1987.",
-      "1988."
-    ],
-    "correct": 1,
-    "exp": "Pregunta 449 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
-  },
-  {
-    "q": "¿De qué año es la Ley de Haciendas Locales?",
-    "options": [
-      "1987.",
-      "1988.",
-      "1989.",
-      "1990. Tema Nº 10. El Municipio."
-    ],
-    "correct": 1,
-    "exp": "Pregunta 450 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
-  },
-  {
     "q": "¿Cuándo entró en vigor la Constitución Española de 1978?",
     "options": [
       "El mismo día de su publicación en el BOE, el 29 de diciembre de 1978",
@@ -2404,28 +1843,6 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "Se redactó a partir de negociaciones y acuerdos entre los distintos partidos con representación parlamentaria, por lo que ha sido calificada como la 'Constitución del consenso'."
-  },
-  {
-    "q": "¿Cuál de las siguientes Constituciones no existió en España?",
-    "options": [
-      "Constitución española de 1837.",
-      "Constitución española de 1869.",
-      "Constitución española de 1876.",
-      "Constitución española de 1875."
-    ],
-    "correct": 3,
-    "exp": "Pregunta 2 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿En qué año se aprobó la Constitución inmediata anterior a la actual de 1978?",
-    "options": [
-      "1936.",
-      "1933.",
-      "1931.",
-      "1940."
-    ],
-    "correct": 2,
-    "exp": "Pregunta 3 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
   },
   {
     "q": "¿Cuál de las siguientes características no es predicable de la Constitución española de 1978?",
@@ -2512,7 +1929,7 @@ const QUESTIONS = {
       "Del 14 al 55.",
       "Del 14 al 29."
     ],
-    "correct": 1,
+    "correct": 0,
     "exp": "Pregunta 29 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
   },
   {
@@ -2536,17 +1953,6 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "Pregunta 254 del banco de test de la Constitución Española (test real con plantilla de respuestas)."
-  },
-  {
-    "q": "¿Cuál de los siguientes nombres está relacionado con la división del territorio en provincias?",
-    "options": [
-      "Javier de Burgos.",
-      "Rafael de Burgos.",
-      "Vicente Burgos.",
-      "Manuel Burgos."
-    ],
-    "correct": 0,
-    "exp": "Pregunta 405 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
   },
   {
     "q": "¿De qué tipo de personalidad jurídica gozan las provincias?",

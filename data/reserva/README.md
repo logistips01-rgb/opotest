@@ -39,6 +39,72 @@ seguridad ni dentro ni fuera del alcance oficial; están en
 `data/pendientes/aux-admin-zaragoza-t1-dudosas-revisar.json` para revisar
 a mano.
 
+## tema1-fuera-alcance-aux-admin.json
+
+52 preguntas que seguían en el tema 1 de `aux-admin-zaragoza` después de la
+primera purga (la de las 260 de `constitucion-fuera-alcance-aux-admin.json`) y
+que tampoco entran en el alcance oficial del tema. Retiradas el 17-ago-2026 en
+una segunda pasada de auditoría, disparada porque el usuario señaló una
+pregunta concreta que le salió en el test («¿En qué año se establecen las
+provincias como división territorial del Estado?», 1833) y que no está en la
+Constitución.
+
+Alcance oficial del tema 1 (CONV 4/2026, ANEXO I): «La Constitución española:
+elaboración y aprobación. Estructura y título preliminar. La Administración
+pública en la Constitución. Organización territorial del Estado en la
+Constitución: principios generales y Administración local». Es decir:
+
+- **dentro**: elaboración y aprobación, estructura del texto, arts. 1-9
+  (título preliminar), Título IV (arts. 97-107, Gobierno y Administración) y
+  Título VIII capítulos I y II (arts. 137-142, principios generales y
+  Administración local);
+- **fuera**: historia constitucional, Título I, Corona (II), Cortes Generales
+  (III), Poder Judicial (VI), relaciones Gobierno-Cortes (V), Economía y
+  Hacienda (VII), reforma constitucional (X), el capítulo III del Título VIII
+  (comunidades autónomas) y todo lo que **no es la Constitución** (Ley 50/1997
+  del Gobierno, LOFAGE / Ley 40/2015, reales decretos de estructura).
+
+Grupos del JSON: `historia_constitucional` (4),
+`historia_division_provincial` (2), `reforma_constitucional` (2), `corona` (1),
+`cortes_generales` (1), `procedimiento_legislativo_y_presupuesto` (3),
+`relaciones_gobierno_cortes` (8), `ley_del_gobierno_50_1997` (10),
+`organizacion_age_lofage_ley40` (13), `comunidades_autonomas` (5) y
+`defectuosas` (3).
+
+`defectuosas` es distinto de los demás: **no reutilizar tal cual**. Son tres
+preguntas del banco original con la respuesta marcada mal o desfasada:
+
+- «¿Qué artículo de la Constitución recoge la institución del Gobierno en
+  funciones?» → marcaba el art. 107, que es el Consejo de Estado; el Gobierno
+  en funciones es el art. 101.2 CE, y ninguna opción lo ofrece.
+- «¿En cuál de las siguientes materias el gobierno ejerce el monopolio de la
+  iniciativa legislativa?» → marcaba «desarrollo de la institución de la
+  Corona»; el único monopolio real es el de los presupuestos (art. 134.1 CE).
+- «¿De qué año es la Ley de Haciendas Locales?» → 1988 solo vale para la Ley
+  39/1988, sustituida por el TRLRHL (RDL 2/2004); además una opción arrastra
+  basura de scraping («1990. Tema Nº 10. El Municipio.»).
+
+Cosas que **no** se archivaron, para que quede constancia de por qué:
+
+- Las preguntas del tipo «¿en qué Título se regula X?» se quedan en el tema 1
+  aunque X esté fuera de alcance: lo que preguntan es la **estructura** del
+  texto, que sí entra.
+- La investidura, el cese y la responsabilidad penal del Presidente
+  (arts. 99-102) se quedan: están en el Título IV, no en el V.
+- Dos preguntas correctas pero mal colocadas se **movieron** en lugar de
+  archivarse, porque sí entran en la oposición: el año de la LBRL al tema 14 y
+  el año del TRRL al tema 16 (van en
+  `data/aux-admin-zaragoza.ampliacion.js`).
+- Se corrigió en el sitio una respuesta falsa que se quedaba dentro de alcance:
+  «¿Qué artículos comprende el Título I?» marcaba «del 9 al 55» cuando es del
+  **10** al 55 (el art. 9 es del título preliminar, y otra pregunta del mismo
+  tema ya decía que el preliminar va del 1 al 9).
+
+Destino natural de este contenido: **Policía Nacional** y **Auxiliar
+Administrativo DGA**, cuyos temarios sí tratan por separado la Corona, las
+Cortes, el Poder Judicial y la organización de la Administración General del
+Estado — comprobar sus bases antes de importar, igual que se hizo aquí.
+
 ## prl-fuera-alcance-aux-admin.json
 
 263 preguntas de **Prevención de Riesgos Laborales** que estaban en el tema 20

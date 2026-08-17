@@ -44052,3 +44052,34 @@ window.addQuestions('aux-admin-zaragoza', 16, [
     }
   }
 ]);
+
+/* Reubicadas desde el tema 1 en la auditoría de alcance del 17-ago-2026:
+   preguntas correctas y dentro del temario de la oposición, pero que no
+   pertenecen al tema 1 («...en la Constitución»). */
+window.addQuestions("aux-admin-zaragoza", 14, [
+  {
+    "q": "¿De qué año es la Ley Reguladora de las Bases del Régimen Local?",
+    "options": [
+      "1983.",
+      "1984.",
+      "1985.",
+      "1986."
+    ],
+    "correct": 2,
+    "exp": "(Procedía del tema 1 del banco original; el tema 1 oficial solo cubre la organización territorial en la Constitución, así que la pregunta se reubicó aquí.) Pregunta 434 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  }
+]);
+
+window.addQuestions("aux-admin-zaragoza", 16, [
+  {
+    "q": "¿De qué año es el Texto Refundido de Disposiciones legales vigentes en materia de régimen local?",
+    "options": [
+      "1985.",
+      "1986.",
+      "1987.",
+      "1988."
+    ],
+    "correct": 1,
+    "exp": "(Procedía del tema 1 del banco original; el tema 1 oficial solo cubre la organización territorial en la Constitución, así que la pregunta se reubicó aquí.) Pregunta 449 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  }
+]);
