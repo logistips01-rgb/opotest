@@ -116,12 +116,11 @@
       ]
     },
     "20": {
-      "titulo": "Prevención de Riesgos Laborales",
+      "titulo": "La Ley de Urbanismo de Aragón: aspectos básicos sobre régimen urbanístico del suelo, planeamiento urbanístico, gestión urbanística, edificación y uso del suelo, y disciplina urbanística",
       "normas": [
-        "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales",
-        "Real Decreto 39/1997, de 17 de enero, Reglamento de los Servicios de Prevención",
-        "Real Decreto 486/1997, de 14 de abril, lugares de trabajo",
-        "Real Decreto 488/1997, de 14 de abril, pantallas de visualización"
+        "Decreto-Legislativo 1/2014, de 8 de julio, del Gobierno de Aragón, por el que se aprueba el texto refundido de la Ley de Urbanismo de Aragón (TRLUA). Identificador en BOE: BOA-d-2014-90410 (legislación autonómica consolidada; NO tiene identificador BOE-A-). Texto consolidado: https://www.boe.es/buscar/act.php?id=BOA-d-2014-90410 — última actualización 31/12/2024, con las modificaciones de la Ley 2/2023, de 9 de febrero (BOE-A-2023-6659) y de la Ley 5/2024, de 19 de diciembre (arts. 3.a y 40.1, BOE-A-2025-1392).",
+        "AVISO DE ALCANCE: el enunciado oficial del tema pide únicamente los «aspectos básicos» de cinco bloques — (1) régimen urbanístico del suelo, (2) planeamiento urbanístico, (3) gestión urbanística, (4) edificación y uso del suelo, y (5) disciplina urbanística. El TRLUA es una norma extensa (más de 300 artículos), así que NO hay que cubrirla íntegra: quedan fuera del alcance del tema los bloques que no encajan en esos cinco epígrafes. Verificar la numeración real de los artículos contra el consolidado antes de citar: no fiarse de numeraciones recordadas.",
+        "CONTEXTO IMPORTANTE: este tema 20 SUSTITUYE al de Prevención de Riesgos Laborales. El banco se construyó primero sobre la convocatoria de 47 plazas (BOPZ núm. 147, 30-jun-2025), cuyo tema 20 era la LPRL; la convocatoria vigente es CONV 4/2026 (85 plazas, firmada 15-jul-2026, tools/temarios/bases-aux-admin-zaragoza-2026-conv4.pdf), que cambia ese tema por Urbanismo de Aragón. Las 263 preguntas de LPRL están archivadas en data/reserva/prl-fuera-alcance-aux-admin.json."
       ]
     },
     "5": {
