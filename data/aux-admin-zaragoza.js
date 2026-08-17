@@ -23,7 +23,7 @@ const TEMAS = [
   {id:17, title:"Empleados públicos (I): clases"},
   {id:18, title:"Empleados públicos (II): situaciones"},
   {id:19, title:"Empleados públicos (III): FP local"},
-  {id:20, title:"Prevención de Riesgos Laborales"},
+  {id:20, title:"Ley de Urbanismo de Aragón"},
   {id:21, title:"📋 EXAMEN OFICIAL 1-jun-2025 (real)"}
 ];
 
@@ -4602,9 +4602,6 @@ const QUESTIONS = {
   {q:"Las peculiaridades del régimen de empleados públicos locales se derivan principalmente de:",options:["Su carácter exclusivamente laboral","La combinación de normativa básica estatal (TREBEP) con la potestad de autoorganización de cada entidad local","La ausencia total de normativa aplicable","Un régimen idéntico al de la Administración del Estado sin matices"],correct:1,exp:"Se combina la normativa básica estatal con las particularidades organizativas propias de cada entidad local dentro de su autonomía."}
 ],
 20:[
-  {q:"La Ley de Prevención de Riesgos Laborales es la:",options:["Ley 31/1995","Ley 39/2015","Ley 30/1992","Ley 33/2011"],correct:0,exp:"Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales."},
-  {q:"Según la LPRL, los trabajadores tienen derecho a:",options:["Una protección eficaz en materia de seguridad y salud en el trabajo","Elegir libremente su horario sin justificación","No usar equipos de protección individual si lo prefieren","Ausentarse del trabajo sin causa"],correct:0,exp:"Art. 14 LPRL: los trabajadores tienen derecho a una protección eficaz en materia de seguridad y salud en el trabajo."},
-  {q:"Los Servicios de Prevención pueden ser, entre otras modalidades:",options:["Propios, mancomunados o ajenos","Solo propios","Solo ajenos","No existen distintas modalidades"],correct:0,exp:"La LPRL y su normativa de desarrollo prevén modalidades de servicio de prevención propio, mancomunado o ajeno, según el caso."}
 ],
 21:[
   {q:"[EXAMEN OFICIAL 1-jun-2025, P1] El vigente Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza fue aprobado el 22 de diciembre de 2023 y, de acuerdo con su artículo 5.3, el período de vigencia del mismo será de:",options:["Dos años desde su aprobación y registro","Cuatro años desde su aprobación y registro","Cinco años desde su aprobación y registro"],correct:1,exp:"Examen oficial Auxiliar Administrativo Ayuntamiento de Zaragoza, turno libre, 1 de junio de 2025 (primera prueba, pregunta 1). Respuesta correcta según la plantilla definitiva: b) Cuatro años."},
