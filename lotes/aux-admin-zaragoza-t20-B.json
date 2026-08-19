@@ -13,7 +13,9 @@
       "correct": 2,
       "exp": "El art. 38.1 TRLUA define el plan general de ordenación urbana como instrumento de ordenación integral que «abarcará uno o varios términos municipales completos», clasificará el suelo y definirá los elementos fundamentales de la estructura general adoptada.",
       "fuente": "Art. 38.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 38.1 (bloque #a38) leído literal: el PGOU «abarcará uno o varios términos municipales completos»; los otros tres distractores no aparecen en el precepto."
     },
     {
       "q": "El plan general de ordenación urbana debe establecer un horizonte temporal de gestión. En defecto de previsión del planeamiento, ¿cuál será ese horizonte?",
@@ -26,7 +28,9 @@
       "correct": 0,
       "exp": "El art. 39.1.b) TRLUA, al fijar los criterios del modelo de evolución urbana y ocupación del territorio, dispone que el plan deberá establecer un horizonte temporal de gestión y que, «en defecto de previsión del planeamiento, será de veinte años».",
       "fuente": "Art. 39.1.b) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 39.1.b) literal: «Deberá establecer un horizonte temporal de gestión. En defecto de previsión del planeamiento, será de veinte años»."
     },
     {
       "q": "Respecto de los espacios libres públicos destinados a parques y áreas de ocio, expansión y recreo que el plan general debe reservar como sistema general, en defecto de previsión o de adecuada justificación se aplicará una ratio de:",
@@ -39,7 +43,9 @@
       "correct": 3,
       "exp": "El art. 40.1.b).1 TRLUA obliga al plan a fijar en su memoria la ratio mínima por habitante y añade que «en defecto de previsión o de adecuada justificación, se aplicará una ratio de cinco metros cuadrados por habitante».",
       "fuente": "Art. 40.1.b).1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 40.1.b).1, párrafo segundo: «En defecto de previsión o de adecuada justificación, se aplicará una ratio de cinco metros cuadrados por habitante»."
     },
     {
       "q": "El plan general debe establecer los plazos máximos para proceder a la ordenación y a la aprobación de los proyectos de urbanización de las áreas de desarrollo. En defecto de previsión en el planeamiento, esos plazos máximos serán de:",
@@ -52,7 +58,9 @@
       "correct": 1,
       "exp": "El art. 40.1.f) TRLUA, tras exigir al plan general la fijación de plazos máximos y prioridades de desarrollo, precisa que «en defecto de previsión en el planeamiento, el plazo máximo para el suelo urbanizable será de veinte años y de doce para el suelo urbano no consolidado».",
       "fuente": "Art. 40.1.f) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 40.1.f) in fine: «el plazo máximo para el suelo urbanizable será de veinte años y de doce para el suelo urbano no consolidado»; la opción 0 es el par invertido. La nota de modificación del art. 40 (letra k) añadida por Ley 5/2024) no afecta a la letra f)."
     },
     {
       "q": "¿Cuál de los siguientes documentos NO figura entre aquellos en los que se desarrollan las determinaciones del plan general de ordenación urbana?",
@@ -65,7 +73,9 @@
       "correct": 0,
       "exp": "El art. 47.1 TRLUA enumera como documentos del plan general la memoria, los planos de información y de ordenación, los catálogos urbanísticos, las normas urbanísticas, el estudio económico y la documentación ambiental. El plan de etapas no aparece ahí: es documento propio de los planes parciales (art. 55.e).",
       "fuente": "Art. 47.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 47.1 enumera a) memoria, b) planos, c) catálogos urbanísticos, d) normas urbanísticas, e) estudio económico, f) documentación ambiental: el plan de etapas no figura; sí es documento del plan parcial (art. 55.e), comprobado)."
     },
     {
       "q": "Los trabajos de elaboración del plan general comienzan por formular un avance con los criterios, objetivos y soluciones generales del planeamiento. Ese avance se expondrá al público para que cualquier persona pueda formular sugerencias y alternativas durante un plazo mínimo de:",
@@ -78,7 +88,9 @@
       "correct": 3,
       "exp": "El art. 48.1 TRLUA establece que el avance de plan general «se expondrá al público con objeto de que, durante el plazo mínimo de un mes, puedan formularse sugerencias y alternativas por cualquier persona».",
       "fuente": "Art. 48.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 48.1 (bloque #a48procedimientomunicipal, rótulo sin punto): el avance «se expondrá al público con objeto de que, durante el plazo mínimo de un mes, puedan formularse sugerencias y alternativas por cualquier persona»."
     },
     {
       "q": "¿A qué órgano corresponde la aprobación inicial del plan general de ordenación urbana?",
@@ -91,7 +103,9 @@
       "correct": 1,
       "exp": "Conforme al art. 48.3 TRLUA, una vez notificado el documento de alcance y redactado el estudio ambiental estratégico, «el Ayuntamiento Pleno podrá aprobar inicialmente el plan general de ordenación urbana», recabará los informes sectoriales y lo someterá a información pública.",
       "fuente": "Art. 48.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 48.3: «Después el Ayuntamiento Pleno podrá aprobar inicialmente el plan general de ordenación urbana»; ni Alcalde ni CPU ni Director General intervienen en esa fase."
     },
     {
       "q": "Tras la aprobación inicial del plan general de ordenación urbana, éste se someterá a información pública por un plazo mínimo de:",
@@ -104,7 +118,9 @@
       "correct": 2,
       "exp": "El art. 48.3 TRLUA dispone que el Ayuntamiento Pleno, tras la aprobación inicial, recabará los informes sectoriales y someterá el plan «a información pública por el plazo mínimo de dos meses», así como a las consultas indicadas en el documento de alcance del estudio ambiental estratégico.",
       "fuente": "Art. 48.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 48.3: tras la aprobación inicial se somete «a información pública por el plazo mínimo de dos meses»; no confundir con el mes del avance (48.1) ni con el mes de los planes parciales (57.1)."
     },
     {
       "q": "Concluido el periodo de información pública y consultas del plan general, el municipio recaba del órgano ambiental la declaración ambiental estratégica. ¿En qué plazo máximo debe remitirse al municipio esa declaración desde su solicitud?",
@@ -117,7 +133,9 @@
       "correct": 3,
       "exp": "El art. 48.5 TRLUA señala que «la declaración ambiental estratégica deberá ser remitida al municipio en el plazo máximo de tres meses desde su solicitud», simultáneamente a la consulta al Consejo Provincial de Urbanismo sobre motivos de denegación o defectos del procedimiento.",
       "fuente": "Art. 48.5 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 48.5: «La declaración ambiental estratégica deberá ser remitida al municipio en el plazo máximo de tres meses desde su solicitud»."
     },
     {
       "q": "La aprobación definitiva del plan general de ordenación urbana corresponde a:",
@@ -130,7 +148,9 @@
       "correct": 1,
       "exp": "El art. 49.1 TRLUA atribuye la aprobación definitiva del plan general al Consejo Provincial de Urbanismo; sólo si se trata de un plan conjunto de varios municipios de distintas provincias corresponde al Director General competente en materia de urbanismo, previo informe propuesta de los Consejos Provinciales afectados.",
       "fuente": "Art. 49.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 49.1: aprobación definitiva del plan general al Consejo Provincial de Urbanismo (solo el plan conjunto interprovincial va al Director General); el «Consejo de Urbanismo de Aragón» no tiene esa competencia."
     },
     {
       "q": "El órgano competente para la aprobación definitiva del plan general dictará y comunicará la resolución que proceda en un plazo máximo, contado desde la entrada del expediente completo en su registro, de:",
@@ -143,7 +163,9 @@
       "correct": 2,
       "exp": "El art. 49.5 TRLUA fija un plazo máximo de cuatro meses desde la entrada del expediente completo en el registro del órgano competente y añade que, transcurrido dicho plazo sin resolución expresa, «se entenderá producida la aprobación definitiva del plan».",
       "fuente": "Art. 49.5 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 49.5: «plazo máximo de cuatro meses desde la entrada del expediente completo en su registro. Transcurrido dicho plazo sin resolución expresa, se entenderá producida la aprobación definitiva» (silencio positivo, comprobado)."
     },
     {
       "q": "Conforme al TRLUA, los planes parciales tienen por objeto:",
@@ -156,7 +178,9 @@
       "correct": 0,
       "exp": "El art. 51.1 TRLUA define el objeto de los planes parciales como «el establecimiento, en desarrollo del plan general, de la ordenación pormenorizada precisa para la ejecución de sectores enteros en suelo urbano no consolidado y en suelo urbanizable» cuando aún no dispongan de dicha ordenación. La clasificación del suelo y la ordenación estructural son propias del plan general (arts. 38 y 40); completar o adaptar determinaciones es objeto de los estudios de detalle (art. 67).",
       "fuente": "Art. 51.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 51.1 literal; la clasificación del suelo es del plan general (arts. 38 y 40) y completar/adaptar determinaciones en suelo urbano es de los estudios de detalle (art. 67.1), por lo que ningún distractor es también válido."
     },
     {
       "q": "¿Puede aprobarse un plan parcial sin que se haya aprobado definitivamente el plan general?",
@@ -169,7 +193,9 @@
       "correct": 1,
       "exp": "El art. 51.3 TRLUA es terminante: «No podrán aprobarse planes parciales sin que, previa o simultáneamente, pero en expediente separado, se haya aprobado definitivamente el plan general».",
       "fuente": "Art. 51.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 51.3 literal: «No podrán aprobarse planes parciales sin que, previa o simultáneamente, pero en expediente separado, se haya aprobado definitivamente el plan general»."
     },
     {
       "q": "En defecto de previsión o de adecuada justificación, ¿qué parámetro máximo de densidad se aplica en los planes parciales a los sectores de uso característico residencial o turístico?",
@@ -182,7 +208,9 @@
       "correct": 2,
       "exp": "El art. 53.2.a) TRLUA establece como parámetro máximo, en defecto de previsión o de adecuada justificación, «setenta y cinco viviendas por hectárea, con la edificabilidad que establezca el plan general» en sectores de uso característico residencial o turístico; para los de uso industrial o terciario el parámetro es de medio metro cuadrado de techo por metro cuadrado de suelo (letra b).",
       "fuente": "Art. 53.2.a) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 53.2.a): «setenta y cinco viviendas por hectárea»; la letra b) fija medio m2 de techo por m2 de suelo en industrial/terciario, luego el distractor no compite."
     },
     {
       "q": "En los sectores de uso residencial, la reserva mínima que han de respetar los planes parciales para parques y jardines, espacios peatonales y áreas de juego es de:",
@@ -195,7 +223,9 @@
       "correct": 0,
       "exp": "El art. 54.3.a).1.º TRLUA fija el «diez por ciento de la superficie del sector para parques y jardines, espacios peatonales y áreas de juego», aplicándose además el módulo de dieciocho metros cuadrados por vivienda o unidad de reserva si resultare superior. El ocho por ciento corresponde a los sectores de uso industrial o terciario (letra b).1.º).",
       "fuente": "Art. 54.3.a).1.º TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 54.3.a).1.º: «Diez por ciento de la superficie del sector para parques y jardines, espacios peatonales y áreas de juego»; el ocho por ciento es el de 54.3.b).1.º (industrial/terciario)."
     },
     {
       "q": "La aprobación inicial de los planes parciales corresponde a:",
@@ -208,7 +238,9 @@
       "correct": 3,
       "exp": "El art. 57.1 TRLUA dispone que «la aprobación inicial de los planes parciales corresponde al Alcalde, dando cuenta de ello al Ayuntamiento Pleno»; una vez aprobados inicialmente se someten a informe de los órganos competentes y a información pública por el plazo mínimo de un mes.",
       "fuente": "Art. 57.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 57.1 literal: «La aprobación inicial de los planes parciales corresponde al Alcalde, dando cuenta de ello al Ayuntamiento Pleno». La modificación de 2016 sobre el art. 57 afecta solo al apartado 2."
     },
     {
       "q": "En la tramitación de un plan parcial de iniciativa municipal, el plazo para que el Consejo Provincial de Urbanismo emita y comunique al municipio su informe, transcurrido el cual se entenderá emitido en sentido favorable, es de:",
@@ -221,7 +253,9 @@
       "correct": 0,
       "exp": "El art. 57.3 TRLUA establece que el expediente completo se remite al Consejo Provincial de Urbanismo, cuyo informe es vinculante si es desfavorable, y que «el plazo para emitir y comunicar al municipio el informe del órgano autonómico será de tres meses, transcurridos los cuales se entenderá emitido en sentido favorable».",
       "fuente": "Art. 57.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 57.3: «El plazo para emitir y comunicar al municipio el informe del órgano autonómico será de tres meses, transcurridos los cuales se entenderá emitido en sentido favorable»."
     },
     {
       "q": "La aprobación definitiva de los planes parciales de iniciativa municipal corresponde a:",
@@ -234,7 +268,9 @@
       "correct": 2,
       "exp": "El art. 57.5 TRLUA atribuye al Ayuntamiento Pleno la aprobación definitiva del plan parcial, «a la vista del resultado de las actuaciones obrantes en el expediente», pronunciándose expresamente sobre las alegaciones y observaciones formuladas.",
       "fuente": "Art. 57.5 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 57.5: es el Ayuntamiento Pleno quien aprueba definitivamente el plan parcial; el CPU solo informa (57.3)."
     },
     {
       "q": "En los planes parciales de iniciativa no municipal debe incluirse un compromiso de garantía, según la evaluación económica del propio plan parcial, por importe del siguiente porcentaje del coste de la implantación de los servicios y ejecución de las obras de urbanización:",
@@ -247,7 +283,9 @@
       "correct": 1,
       "exp": "El art. 59.g) TRLUA exige un «compromiso de garantía por importe del 6 % del coste de la implantación de los servicios y ejecución de las obras de urbanización», garantía que se aporta con el proyecto de urbanización y es requisito para autorizar las obras.",
       "fuente": "Art. 59.g) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 59.g): «Compromiso de garantía por importe del 6 % del coste de la implantación de los servicios y ejecución de las obras de urbanización»."
     },
     {
       "q": "En los planes parciales de iniciativa no municipal, se entenderá otorgada la aprobación inicial por el transcurso del siguiente plazo desde la presentación de la documentación completa en el registro municipal:",
@@ -260,7 +298,9 @@
       "correct": 3,
       "exp": "El art. 60.1.a) TRLUA, tras enumerar los motivos por los que el Alcalde puede denegar la aprobación inicial, dispone que «se entenderá otorgada la aprobación inicial por el transcurso de seis meses desde la presentación de la documentación completa en el registro municipal».",
       "fuente": "Art. 60.1.a) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 60.1.a) in fine: «Se entenderá otorgada la aprobación inicial por el transcurso de seis meses desde la presentación de la documentación completa en el registro municipal». La modificación de 2016 del art. 60 afecta a la letra b), no a la a)."
     },
     {
       "q": "En relación con los planes especiales, el TRLUA establece que:",
@@ -273,7 +313,9 @@
       "correct": 3,
       "exp": "El art. 61.3 TRLUA prohíbe que los planes especiales sustituyan al plan general como instrumento de ordenación integral del territorio y, en consecuencia, que clasifiquen suelo, «sin perjuicio de las limitaciones de uso que puedan establecer». El art. 61.4 añade que no pueden alterar en modo alguno la ordenación estructural.",
       "fuente": "Art. 61.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 61.3 literal; el art. 61.4 excluye además cualquier alteración de la ordenación estructural, de modo que los tres distractores son falsos."
     },
     {
       "q": "Los planes especiales llamados «independientes», formulados en ausencia de directrices de ordenación territorial y de plan general o cuando éstos no contuviesen las previsiones detalladas oportunas, se aprueban por el procedimiento:",
@@ -286,7 +328,9 @@
       "correct": 0,
       "exp": "El art. 62.2 TRLUA remite, para los planes especiales independientes del art. 62.1, al «procedimiento establecido para los planes generales en los artículos 48 a 50», con las especialidades que el propio apartado prevé cuando el planeamiento de reservas de suelo lo promueve la Comunidad Autónoma.",
       "fuente": "Art. 62.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 62.2 en su redacción vigente (modificado por Ley 2/2022, efectos 27-8-2022): «El procedimiento de aprobación de estos planes será el establecido para los planes generales en los artículos 48 a 50»; leída también la especialidad autonómica del mismo apartado."
     },
     {
       "q": "Los planes especiales formulados en desarrollo de las previsiones contenidas en el plan general (desarrollo de sistemas generales, protección del patrimonio edificado, reforma interior, etc.) se aprueban por el procedimiento:",
@@ -299,7 +343,9 @@
       "correct": 2,
       "exp": "El art. 64.2 TRLUA dispone que «el procedimiento de aprobación de estos planes será el establecido para los planes parciales en los artículos 57 ó 60», según sean de iniciativa municipal o no municipal.",
       "fuente": "Art. 64.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 64.2 literal: «el establecido para los planes parciales en los artículos 57 ó 60»; contrastado con el art. 62.2 (planes independientes) para descartar el distractor 0."
     },
     {
       "q": "Los planes especiales de reforma interior:",
@@ -312,7 +358,9 @@
       "correct": 1,
       "exp": "El art. 65.1 TRLUA establece que los planes especiales de reforma interior «sólo podrán formularse en desarrollo del plan general en suelo urbano no consolidado» para ordenar pormenorizadamente áreas urbanas sujetas a actuaciones de intervención en suelos consolidados total o parcialmente por la edificación.",
       "fuente": "Art. 65.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 65.1: los PERI «sólo podrán formularse en desarrollo del plan general en suelo urbano no consolidado»."
     },
     {
       "q": "En la tramitación de los estudios de detalle, que cualquier persona puede formular a su costa:",
@@ -325,7 +373,9 @@
       "correct": 2,
       "exp": "El art. 68.1 TRLUA señala que cualquier persona podrá formular a su costa estudios de detalle, «cuya aprobación inicial corresponde al Alcalde, y la definitiva, al Ayuntamiento Pleno», previo sometimiento a información pública y audiencia de los interesados por plazo común de un mes como mínimo.",
       "fuente": "Art. 68.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 68.1 literal: aprobación inicial del Alcalde y definitiva del Ayuntamiento Pleno, con información pública y audiencia por plazo común mínimo de un mes."
     },
     {
       "q": "La delimitación del suelo urbano, instrumento urbanístico de los municipios que carecen de plan general de ordenación urbana:",
@@ -338,7 +388,9 @@
       "correct": 3,
       "exp": "El art. 70.2 TRLUA precisa que «la delimitación del suelo urbano no tiene la consideración de instrumento de planeamiento urbanístico a los efectos de lo establecido en la presente Ley», aunque el art. 70.1 la configure como el instrumento urbanístico de los municipios sin plan general.",
       "fuente": "Art. 70.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 70.2 literal: la delimitación de suelo urbano «no tiene la consideración de instrumento de planeamiento urbanístico a los efectos de lo establecido en la presente Ley», pese al art. 70.1."
     },
     {
       "q": "La aprobación definitiva de la delimitación del suelo urbano corresponde a:",
@@ -351,7 +403,9 @@
       "correct": 0,
       "exp": "El art. 74.3 TRLUA somete la delimitación del suelo urbano «a la aprobación definitiva del Consejo Provincial de Urbanismo, que solo podrá denegarla por motivos de legalidad», con un plazo de tres meses cuyo transcurso sin resolución expresa hace entender producida la aprobación definitiva. Las aprobaciones inicial y provisional son del Ayuntamiento Pleno (arts. 74.1 y 74.2).",
       "fuente": "Art. 74.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 74.3: aprobación definitiva del Consejo Provincial de Urbanismo, «que solo podrá denegarla por motivos de legalidad», plazo de tres meses con silencio aprobatorio; inicial y provisional son del Pleno (74.1 y 74.2)."
     },
     {
       "q": "Cuando la delimitación del suelo urbano sea formulada por la comarca, la competencia para las aprobaciones inicial y provisional corresponde a:",
@@ -364,7 +418,9 @@
       "correct": 1,
       "exp": "El art. 75.2.a) TRLUA establece, como variante del procedimiento del art. 74 cuando la delimitación la formula la comarca, que «la competencia para las aprobaciones inicial y provisional corresponderá al Consejo Comarcal», solicitándose además informe al municipio o municipios afectados. Si la formula el Departamento autonómico, la aprobación inicial es del Director General competente (art. 75.3.a).",
       "fuente": "Art. 75.2.a) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 75.2.a): «La competencia para las aprobaciones inicial y provisional corresponderá al Consejo Comarcal»; comprobado también el 75.3.a) (Director General) citado en la explicación."
     },
     {
       "q": "El acuerdo de suspensión del otorgamiento de licencias de parcelación, edificación y demolición, para áreas o usos determinados, con el fin de estudiar la formación o reforma de los planes urbanísticos o estudios de detalle, corresponde a:",
@@ -377,7 +433,9 @@
       "correct": 1,
       "exp": "El art. 77.1 TRLUA dispone que «el Ayuntamiento Pleno podrá acordar la suspensión del otorgamiento de licencias de parcelación, edificación y demolición para áreas o usos determinados con el fin de estudiar la formación o reforma de los planes urbanísticos o estudios de detalle».",
       "fuente": "Art. 77.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 77.1 literal: es el Ayuntamiento Pleno quien puede acordar la suspensión de licencias para estudiar la formación o reforma del planeamiento."
     },
     {
       "q": "La suspensión de licencias acordada con el fin de estudiar la formación o reforma del planeamiento (art. 77.1 TRLUA) se extinguirá, en todo caso, en el plazo de:",
@@ -390,7 +448,9 @@
       "correct": 0,
       "exp": "El art. 78.1 TRLUA establece que esa suspensión «se extinguirá, en todo caso, en el plazo de un año»; si dentro de ese plazo se produce la aprobación inicial, la suspensión se mantiene para las áreas afectadas y sus efectos se extinguen definitivamente transcurridos dos años desde el acuerdo de suspensión.",
       "fuente": "Art. 78.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 78.1: la suspensión del art. 77.1 «se extinguirá, en todo caso, en el plazo de un año»; los dos años del mismo apartado son el límite tras la aprobación inicial, como recoge la explicación."
     },
     {
       "q": "La fijación y la modificación del destino de los terrenos reservados en los planes para equipamiento, siempre para establecer otros equipamientos y aun tratándose de reservas del plan general, se realiza:",
@@ -403,7 +463,9 @@
       "correct": 3,
       "exp": "El art. 87 TRLUA permite esa modificación dotacional, motivadamente, «por el Ayuntamiento Pleno, previa aprobación inicial por el Alcalde e información pública de un mes»; si el equipamiento fuera educativo, asistencial o sanitario se requiere informe del departamento competente del Gobierno de Aragón, solicitado simultáneamente y por el mismo plazo.",
       "fuente": "Art. 87 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 87 (párrafo único) literal: modificación dotacional «por el Ayuntamiento Pleno, previa aprobación inicial por el Alcalde e información pública de un mes», con informe autonómico si el equipamiento es educativo, asistencial o sanitario."
     },
     {
       "q": "Las reservas de dispensación contenidas en los planes, normas y ordenanzas urbanísticos:",
@@ -416,7 +478,9 @@
       "correct": 2,
       "exp": "El art. 79.2 TRLUA declara nulas de pleno derecho «las reservas de dispensación que se contuvieren en los planes, normas y ordenanzas urbanísticos, así como las que, con independencia de ellos, se concedieren», como consecuencia de la obligatoriedad del planeamiento para particulares y Administraciones (art. 79.1).",
       "fuente": "Art. 79.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 79.2 literal: nulidad de pleno derecho de las reservas de dispensación contenidas en los planes y de las concedidas con independencia de ellos."
     },
     {
       "q": "Los planes urbanísticos serán inmediatamente ejecutivos:",
@@ -429,7 +493,9 @@
       "correct": 2,
       "exp": "El art. 80.1 TRLUA vincula la ejecutividad a la publicación: los planes «serán inmediatamente ejecutivos una vez publicada su aprobación definitiva, el texto íntegro de las normas que contengan y, en los supuestos previstos en esta Ley, el documento refundido de planeamiento».",
       "fuente": "Art. 80.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 80.1: ejecutividad «una vez publicada su aprobación definitiva, el texto íntegro de las normas que contengan y, en los supuestos previstos en esta Ley, el documento refundido»; no basta el acuerdo ni su notificación."
     },
     {
       "q": "Conforme al TRLUA, la aprobación de los planes urbanísticos implica:",
@@ -442,7 +508,9 @@
       "correct": 1,
       "exp": "El art. 81 TRLUA («Legitimación de expropiaciones») dispone que la aprobación de los planes implicará la declaración de utilidad pública de las obras y la necesidad de ocupación de los terrenos y edificios correspondientes, a los fines de expropiación o imposición de servidumbres.",
       "fuente": "Art. 81 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 81 («Legitimación de expropiaciones») literal: declaración de utilidad pública de las obras y necesidad de ocupación de terrenos y edificios."
     },
     {
       "q": "En los edificios e instalaciones calificados como fuera de ordenación podrán autorizarse obras parciales y circunstanciales de consolidación cuando no estuviere prevista la expropiación o demolición de la finca en el plazo de:",
@@ -455,7 +523,9 @@
       "correct": 3,
       "exp": "El art. 82.3 TRLUA admite obras parciales y circunstanciales de consolidación «cuando no estuviere prevista la expropiación o demolición de la finca en el plazo de quince años, a contar desde la fecha en que se pretendiere realizarlas».",
       "fuente": "Art. 82.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 82.3: obras parciales y circunstanciales de consolidación «cuando no estuviere prevista la expropiación o demolición de la finca en el plazo de quince años». La nota de modificación próxima corresponde al art. 82 bis añadido en 2022, no al 82.3."
     },
     {
       "q": "La vigencia de los planes y demás instrumentos de ordenación urbanística es:",
@@ -468,7 +538,9 @@
       "correct": 0,
       "exp": "El art. 83.1 TRLUA establece que «los planes y demás instrumentos de ordenación urbanística tendrán vigencia indefinida». Su alteración se lleva a cabo mediante revisión o modificación de alguno de sus elementos (art. 83.3).",
       "fuente": "Art. 83.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 83.1 literal: vigencia indefinida; la alteración se hace por revisión o modificación (83.3)."
     },
     {
       "q": "La revisión o modificación del plan general de ordenación urbana sólo podrá tener lugar a iniciativa:",
@@ -481,7 +553,9 @@
       "correct": 0,
       "exp": "El art. 83.4 TRLUA reserva la iniciativa de revisión o modificación del plan general al municipio, de oficio, o a la Administración de la Comunidad Autónoma cuando proceda conforme a la Ley. En cambio, la modificación del planeamiento de desarrollo puede instarla cualquier persona (art. 83.5).",
       "fuente": "Art. 83.4 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 83.4 literal: iniciativa municipal de oficio o, cuando proceda, de la Administración de la Comunidad Autónoma; el art. 83.5 (cualquier persona) se refiere solo al planeamiento de desarrollo."
     },
     {
       "q": "Tendrá la consideración de revisión del plan general de ordenación urbana:",
@@ -494,7 +568,9 @@
       "correct": 3,
       "exp": "El art. 84.2 TRLUA considera revisión «cualquier alteración del mismo que afecte sustancialmente a la ordenación estructural», entendiendo por afecciones sustanciales las que comporten alteraciones relevantes en función de factores objetivos como la superficie, los aprovechamientos o la población afectados, la alteración de sistemas generales o supralocales o la del sistema de núcleos de población.",
       "fuente": "Art. 84.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 84.2: es revisión «cualquier alteración del mismo que afecte sustancialmente a la ordenación estructural»; los factores objetivos del propio apartado descartan el umbral porcentual inventado del distractor 1."
     },
     {
       "q": "Se consideran modificaciones de menor entidad de los planes generales:",
@@ -507,7 +583,9 @@
       "correct": 2,
       "exp": "El art. 85.3 TRLUA define como modificaciones de menor entidad de los planes generales «aquellas que no afecten a las determinaciones del plan propias de la ordenación estructural conforme a las determinaciones del artículo 40 de esta Ley», siéndoles aplicable la homologación del art. 57.4, con aprobación definitiva municipal e intervención autonómica facultativa.",
       "fuente": "Art. 85.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 85.3 literal (apartado no afectado por la supresión del 85.2.a) por la Ley 2/2016): modificaciones de menor entidad son las que no afectan a las determinaciones de ordenación estructural del art. 40; la pregunta no se apoya en la enumeración del 85.2."
     },
     {
       "q": "Presentado el documento refundido de planeamiento ante el órgano que requirió su elaboración, éste deberá pronunciarse expresamente sobre su adecuación a lo requerido en el plazo de:",
@@ -520,7 +598,9 @@
       "correct": 1,
       "exp": "El art. 88.2 TRLUA fija un plazo de dos meses desde la presentación del documento refundido para que el órgano que requirió su elaboración se pronuncie expresamente sobre su adecuación, y añade que «el transcurso de dicho plazo sin pronunciamiento expreso comportará la conformidad con el documento presentado».",
       "fuente": "Art. 88.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 88.2: plazo de dos meses desde la presentación del documento refundido y «el transcurso de dicho plazo sin pronunciamiento expreso comportará la conformidad con el documento presentado» (silencio positivo, comprobado)."
     }
   ]
 }
