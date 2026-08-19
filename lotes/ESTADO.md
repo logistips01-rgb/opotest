@@ -921,6 +921,46 @@ Pendiente en este tema: las 176 que se quedan **siguen sin `fuente` citada**
 tema 1 en la campaña, hay que citar artículo en las que se conserven y subir de
 176 a 500.
 
+## Tema 1 · retirada del banco original sin verificar (17-ago-2026)
+
+Decisión del usuario, el mismo día y a continuación de la auditoría de alcance:
+«quita las del banco original si hay dudas, y genérame nuevas preguntas».
+
+De las 176 que quedaban tras la auditoría, **83 no citaban ningún artículo**
+(`exp` del tipo «Pregunta 404 del banco de test (...)»), así que no había nada
+que contrastar contra el BOE. Están archivadas en
+`data/reserva/tema1-banco-original-sin-verificar.json`, agrupadas por bloque
+del temario. **Tema 1: 176 → 93.**
+
+Las 93 que se quedan sí citan el precepto en la explicación. Se comprobaron una
+a una contra el consolidado (BOE-A-1978-31229) buscando el texto entrecomillado
+dentro del articulado: **66 casan literalmente** y 7 no casaron solo porque la
+explicación abrevia con puntos suspensivos en medio de la cita (verificadas a
+mano) o porque la «cita» es una etiqueta doctrinal, no un literal
+(«Constitución del consenso», «padres de la Constitución»).
+
+El motivo de no fiarse del material sin cita no es una sospecha genérica: de
+las 52 que se archivaron por alcance ese mismo día, **tres tenían la respuesta
+marcada mal**, y entre las que iban a quedarse había otra con la respuesta
+falsa (el Título I «del 9 al 55», cuando es del 10 al 55).
+
+Reposición en marcha: **4 lotes de 40** sobre el consolidado de la CE,
+descargado una sola vez y compartido por los cuatro redactores
+(`constitucion-consolidada.txt` en el scratchpad de la sesión).
+
+| Lote | Tramo |
+|---|---|
+| A | Elaboración y aprobación + estructura del texto |
+| B | Título preliminar, arts. 1-9 |
+| C | Título IV «Del Gobierno y de la Administración», arts. 97-107 |
+| D | Título VIII caps. I y II, arts. 137-142 |
+
+Alcance del tema escrito ya en `tools/fuentes.json` (entrada `1`), con los tres
+avisos que hacían falta: qué títulos entran y cuáles no, que «...en la
+Constitución» excluye la Ley 50/1997, la LOFAGE y la Ley 40/2015, y que las
+preguntas de «¿en qué Título se regula X?» sí valen porque preguntan por la
+estructura.
+
 ## Temas siguientes, cuando el 20 esté cerrado
 
 Del 19 hacia atrás. Estado y déficit hasta 500:

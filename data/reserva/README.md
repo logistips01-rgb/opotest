@@ -105,6 +105,39 @@ Administrativo DGA**, cuyos temarios sí tratan por separado la Corona, las
 Cortes, el Poder Judicial y la organización de la Administración General del
 Estado — comprobar sus bases antes de importar, igual que se hizo aquí.
 
+## tema1-banco-original-sin-verificar.json
+
+83 preguntas del tema 1 de `aux-admin-zaragoza` retiradas el 17-ago-2026 por
+**no poder verificarse**, no por estar fuera de alcance. Son todo el resto del
+material heredado del banco original: su `exp` es del tipo «Pregunta 404 del
+banco de test (...)» y **no dice a qué artículo corresponde**, así que no hay
+forma de contrastarlas contra el consolidado del BOE.
+
+La decisión la tomó el usuario («quita las del banco original si hay dudas, y
+genérame nuevas preguntas») después de ver que ese material tiene una tasa de
+error real medible: de las 52 que se archivaron ese mismo día por alcance,
+**tres tenían la respuesta marcada mal**, y entre las que se quedaban había
+otra —«¿Qué artículos comprende el Título I?»— que decía «del 9 al 55» cuando
+es del 10 al 55 y contradecía a otra pregunta del mismo tema.
+
+Contraste, para que quede claro por qué se separan las dos mitades: las **93
+preguntas que se quedan** en el tema 1 citan el precepto en la explicación
+(«Art. 9.3: '...'»), y se comprobaron una a una contra el consolidado del BOE
+(BOE-A-1978-31229) buscando el texto entrecomillado dentro del articulado real.
+Las 83 de este archivo no ofrecen nada que comprobar.
+
+Grupos del JSON, por bloque del temario: `estructura_del_texto` (24),
+`administracion_publica_titulo_iv` (20),
+`organizacion_territorial_titulo_viii` (15), `elaboracion_y_aprobacion` (12) y
+`titulo_preliminar_y_otros` (12).
+
+**Casi todas están dentro del alcance oficial del tema**, así que el contenido
+es aprovechable: sirven de inventario de los ángulos que un examinador
+pregunta de verdad, y se pueden rescatar de una en una si alguien las verifica
+contra el BOE y les pone la cita. Lo que no se puede es servirlas a quien
+estudia sin verificarlas. Su sustitución son los lotes nuevos del tema 1, con
+artículo y apartado citados y pasados por revisor.
+
 ## prl-fuera-alcance-aux-admin.json
 
 263 preguntas de **Prevención de Riesgos Laborales** que estaban en el tema 20
