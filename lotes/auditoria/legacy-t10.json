@@ -1,0 +1,606 @@
+{
+ "slug": "aux-admin-zaragoza",
+ "tema": 10,
+ "preguntas": [
+  {
+   "indice": 100,
+   "q": "¿En qué año fue aprobado el reglamento de bienes de las entidades locales?",
+   "options": [
+    "1988.",
+    "1987.",
+    "1986.",
+    "1990."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 951 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 101,
+   "q": "¿Cuál de las siguientes normas aprueba el reglamento de bienes de las entidades locales?",
+   "options": [
+    "Real Decreto 1372/ 1988 de 13 de junio.",
+    "Real Decreto 1372/ 1987 de 13 de junio.",
+    "Real Decreto 1372/ 1986 de 13 de junio.",
+    "Real Decreto 1372/ 1990 de 13 de junio."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 952 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 102,
+   "q": "¿Qué título de la ley 7/ 1985, de 2 de abril, está dedicado a la regulación de los bienes de las entidades locales?",
+   "options": [
+    "El Título III.",
+    "El Título IV.",
+    "El Título V.",
+    "El Título VI."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 953 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 103,
+   "q": "¿Qué artículos de la ley 7/ 1985, de 2 de abril, regulan el régimen jurídico de los bienes de las entidades locales?",
+   "options": [
+    "Del 79 al 83.",
+    "Del 83 al 93.",
+    "Del 76 al 79.",
+    "Del 79 al 87."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 954 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 104,
+   "q": "¿Qué artículos del Texto refundido sobre disposiciones vigentes en materia de régimen local, regulan el régimen jurídico de los bienes de las entidades locales?",
+   "options": [
+    "Del 74 al 87.",
+    "Del 83 al 92.",
+    "Del 76 al 81.",
+    "Del 69 al 84."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 955 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 105,
+   "q": "¿Cuál de los siguientes bienes no se considera de dominio público?",
+   "options": [
+    "Los bienes de uso público.",
+    "Los bienes de servicio público.",
+    "Los bienes comunales.",
+    "Los bienes patrimoniales."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 956 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 106,
+   "q": "¿Cuál de los siguientes bienes no se considera de uso público?",
+   "options": [
+    "Una calle.",
+    "Una plaza.",
+    "Una fuente.",
+    "La sede del Ayuntamiento."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 957 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 107,
+   "q": "¿Cuál de los siguientes bienes no se considera de servicio público?",
+   "options": [
+    "Un puente.",
+    "Un.",
+    "Una fuente.",
+    "La sede del Ayuntamiento."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 958 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 108,
+   "q": "¿Cuál de los siguientes entes locales no puede tener bienes comunales?",
+   "options": [
+    "Un municipio de menos de 5.000 habitantes.",
+    "Un municipio de menos de 3.000 habitantes.",
+    "Una entidad local de ámbito territorial inferior al municipio.",
+    "Una comarca."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 959 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 109,
+   "q": "¿Cuál de las siguientes características no es predicable de los bienes comunales?",
+   "options": [
+    "La inembargabilidad.",
+    "La inalienabilidad.",
+    "La imprescriptibilidad.",
+    "La embargabilidad."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 960 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 110,
+   "q": "¿Al pago de qué tributo están sujetos los bienes comunales?",
+   "options": [
+    "Al pago del Impuestos de Bienes Inmuebles.",
+    "Al pago del Impuesto sobre Instalaciones, construcciones y obras.",
+    "Al pago del Impuesto sobre el Patrimonio.",
+    "No están sujetos al pago de tributos."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 961 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 111,
+   "q": "¿A quién le corresponde el aprovechamiento de los bienes comunales?",
+   "options": [
+    "A todos los ciudadanos.",
+    "A los vecinos.",
+    "A los vecinos y a todos los ciudadanos.",
+    "Al Ayuntamiento."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 962 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 112,
+   "q": "¿A quién le corresponde realizar la conservación de los bienes de uso público?",
+   "options": [
+    "A los vecinos.",
+    "A los ciudadanos.",
+    "A la entidad local a la que estén adscritos.",
+    "A los vecinos y a la entidad local a la que estén adscritos."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 963 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 113,
+   "q": "¿Qué extremos hay que acreditar en el expediente de alteración de la calificación jurídica de los bienes comunales?",
+   "options": [
+    "La legalidad y la oportunidad.",
+    "La proporcionalidad y la legalidad.",
+    "La oportunidad y la proporcionalidad.",
+    "La proporcionalidad y la normatividad."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 964 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 114,
+   "q": "¿Cuál debe ser el plazo de información pública de un expediente de alteración de la calificación jurídica?",
+   "options": [
+    "Dos meses.",
+    "Un mes.",
+    "Quince días.",
+    "Diez días."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 965 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 115,
+   "q": "¿En cuál de los siguientes casos no se produce la alteración automática de la calificación de un bien?",
+   "options": [
+    "Cuando se realice la aprobación definitiva de los planes de ordenación urbana.",
+    "Cuando se realice la aprobación definitiva de los proyectos de obras y servicios.",
+    "Cuando se produzca la adscripción de bienes patrimoniales por más de veinticinco años.",
+    "Cuando se produzca la adscripción de bienes patrimoniales por más de diez años."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 966 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 116,
+   "q": "¿Puede adquirir automáticamente, una entidad local, un bien que esté destinado a un uso o servicio público comunal?",
+   "options": [
+    "Sí, por arrendamiento.",
+    "No, en ningún caso.",
+    "Sí, por usucapión.",
+    "Sí, en cualquier momento sin consentimiento del interesado."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 967 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 117,
+   "q": "¿Qué tipo de capacidad tienen las entidades locales para adquirir y poseer bienes?",
+   "options": [
+    "Jurídica plena.",
+    "Jurídica propia.",
+    "Jurídica directa.",
+    "Jurídica indirecta."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 968 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 118,
+   "q": "¿Qué tipo de acciones deben ejercer las entidades locales para la defensa de sus bienes y derechos?",
+   "options": [
+    "Las que estime oportunas.",
+    "Exclusivamente, acciones civiles.",
+    "Las que sean necesarias.",
+    "Las que se acuerden de acuerdo con los vecinos."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 969 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 119,
+   "q": "¿Quién debe emitir informe previo antes de que una entidad local ejerza una acción de defensa de un bien propio?",
+   "options": [
+    "El Alcalde.",
+    "El Secretario.",
+    "El Pleno.",
+    "La Comunidad Autónoma."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 970 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 120,
+   "q": "¿Por cual de los siguientes medios no puede, una entidad local, adquirir un bien?",
+   "options": [
+    "Por ocupación.",
+    "Por donación.",
+    "A título oneroso.",
+    "Por atribución reglamentaria."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 971 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 121,
+   "q": "¿A qué restricciones está sujeta la adquisición de bienes a título gratuito?",
+   "options": [
+    "A las derivadas de su categoría.",
+    "A las nacidas de la relación jurídica de base.",
+    "No está sujeta a restricción alguna.",
+    "A las establecidas por el Pleno en sesión extraordinaria."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 972 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 122,
+   "q": "¿Cómo se entiende hecha la aceptación de una herencia por una entidad local?",
+   "options": [
+    "A beneficio de resultas.",
+    "A beneficio de inventario.",
+    "A restos de inventario.",
+    "A inventario."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 973 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 123,
+   "q": "Si se adquiere un bien mediante una herencia por medio de condición ¿cuánto tiempo debe transcurrir para que se entienda cumplida y consumada?",
+   "options": [
+    "Diez años.",
+    "Veinte años.",
+    "Veinticinco años.",
+    "Treinta años."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 974 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 124,
+   "q": "¿Cuál de los siguientes no es un epígrafe del inventario de bienes de una entidad local?",
+   "options": [
+    "Los vehículos.",
+    "Los semovientes.",
+    "Los derechos reales.",
+    "Los derechos invertibles."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 975 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 125,
+   "q": "¿A quién le corresponde realizar la aprobación del Inventario de bienes de una entidad local?",
+   "options": [
+    "Al Alcalde.",
+    "Al Pleno.",
+    "A la Comisión de Gobierno.",
+    "A la Comunidad Autónoma respectiva."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 976 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 126,
+   "q": "¿A quién le corresponde realizar la rectificación del Inventario de bienes de una entidad local?",
+   "options": [
+    "Al Alcalde.",
+    "Al Pleno.",
+    "A la Comisión de Gobierno.",
+    "A la Comunidad Autónoma respectiva."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 977 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 127,
+   "q": "¿A quién le corresponde realizar la comprobación del Inventario de bienes de una entidad local?",
+   "options": [
+    "Al Alcalde.",
+    "Al Pleno.",
+    "A la Comisión de Gobierno.",
+    "A la Comunidad Autónoma respectiva."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 978 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 128,
+   "q": "¿Qué documento es necesario para inscribir en el Registro de la propiedad los bienes inmuebles de una entidad local?",
+   "options": [
+    "Certificación del Pleno.",
+    "Certificación expedida por el Alcalde.",
+    "Certificación expedida por el Secretario.",
+    "Certificación expedida por la Comunidad Autónoma respectiva."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 979 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 129,
+   "q": "¿Quién debe dar el visto bueno a la certificación para inscribir un bien inmueble en el registro de la propiedad?",
+   "options": [
+    "El Pleno.",
+    "El Alcalde.",
+    "El Secretario.",
+    "La Comunidad Autónoma respectiva."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 980 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 130,
+   "q": "¿Cuál de las siguientes potestades no están asignadas a las corporaciones locales en relación con sus bienes?",
+   "options": [
+    "La potestad de investigación.",
+    "La potestad de recuperación.",
+    "La potestad de autorecuperación.",
+    "La potestad de deslinde."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 981 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 131,
+   "q": "¿Qué operación consiste en practicar las operaciones técnicas de comprobación y, en su caso, de rectificación de situaciones jurídicas plenamente acreditadas, en relación con un bien?",
+   "options": [
+    "Desahucio.",
+    "Deslinde.",
+    "Investigación.",
+    "Recuperación."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 982 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 132,
+   "q": "¿De qué tiempo disponen las entidades locales para recuperar por sí mismas la tenencia de bienes de dominio público?",
+   "options": [
+    "De un año.",
+    "De dos años.",
+    "De cinco años.",
+    "No existe plazo máximo."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 983 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 133,
+   "q": "¿De qué tiempo disponen las entidades locales para recuperar por sí mismas la tenencia de bienes patrimoniales?",
+   "options": [
+    "De un año.",
+    "De dos años.",
+    "De cinco años.",
+    "No existe plazo máximo."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 984 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 134,
+   "q": "¿Se admiten interdictos contra actuaciones de agentes de la autoridad en materia de recuperación de bienes?",
+   "options": [
+    "Sí, en cualquier caso.",
+    "Sólo en casos excepcionales.",
+    "Sí, con aprobación previa del Pleno.",
+    "No, en ningún caso."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 985 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 135,
+   "q": "¿Cómo se denomina el uso que corresponde por igual a todos los ciudadanos indistintamente, de modo que el uso de unos no impida el de los demás interesados?",
+   "options": [
+    "Uso común.",
+    "Uso propio.",
+    "Uso normal.",
+    "Uso ordinario."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 986 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 136,
+   "q": "¿Cómo se denomina el uso que corresponde por igual a todos los ciudadanos indistintamente, de modo que el uso de unos no impida el de los demás interesados, pero en el que concurren circunstancias singulares?",
+   "options": [
+    "Uso común general.",
+    "Uso común especial.",
+    "Uso privativo.",
+    "Uso normal."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 987 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 137,
+   "q": "¿Cómo se denomina el uso que corresponde por igual a todos los ciudadanos indistintamente, de modo que el uso de unos no impida el de los demás interesados, pero en el que concurren circunstancias de peligrosidad?",
+   "options": [
+    "Uso común general.",
+    "Uso común especial.",
+    "Uso privativo.",
+    "Uso normal."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 988 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 138,
+   "q": "¿Cómo se denomina el uso constituido por la ocupación de una porción de dominio público de modo que excluya la utilización por los demás interesados?",
+   "options": [
+    "Uso privativo.",
+    "Uso normal.",
+    "Uso anormal.",
+    "Uso general."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 989 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 139,
+   "q": "¿Cómo se denomina el uso que es conforme con el destino principal del dominio público al que afecte?",
+   "options": [
+    "Uso especial.",
+    "Uso ordinario.",
+    "Uso normal.",
+    "Uso común."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 990 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 140,
+   "q": "¿Cómo se ejerce el uso común general de los bienes de dominio público?",
+   "options": [
+    "Por los ciudadanos que obtengan licencia.",
+    "Exclusivamente por el Ayuntamiento.",
+    "Libremente de acuerdo con la naturaleza de los bienes.",
+    "Con sometimiento a autorización previa."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 991 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 141,
+   "q": "¿Cómo se ejerce el uso especial normal de los bienes de dominio público?",
+   "options": [
+    "Por los ciudadanos que obtengan licencia.",
+    "Exclusivamente por el Ayuntamiento.",
+    "Libremente de acuerdo con la naturaleza de los bienes.",
+    "Con sometimiento a autorización previa."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 992 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 142,
+   "q": "El uso privativo de bienes de dominio público:",
+   "options": [
+    "Está sujeto a la obtención de licencia.",
+    "Se destina exclusivamente al Ayuntamiento.",
+    "Es libre de acuerdo con la naturaleza de los bienes.",
+    "está sujeto a concesión administrativa."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 993 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 143,
+   "q": "El uso anormal de bienes de dominio público:",
+   "options": [
+    "Está sujeto a la obtención de licencia.",
+    "Se destina exclusivamente al Ayuntamiento.",
+    "Es libre de acuerdo con la naturaleza de los bienes.",
+    "está sujeto a concesión administrativa."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 994 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 144,
+   "q": "¿Cómo se denominan los bienes que siendo propiedad de la entidad local, no están destinados al uso público ni afectados a ningún servicio público y pueden constituir una fuente de mejora del erario de la entidad?",
+   "options": [
+    "Bienes de dominio público.",
+    "Bienes de comunal.",
+    "Bienes patrimoniales.",
+    "Bienes demaniales."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 995 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 145,
+   "q": "¿Cómo se considera una parcela sobrante?",
+   "options": [
+    "Como bien patrimonial.",
+    "Como bien de dominio público.",
+    "Como bien demanial.",
+    "Como bien comunal."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 996 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 146,
+   "q": "¿Cómo se consideran los efectos no utilizables?",
+   "options": [
+    "Como bien patrimonial.",
+    "Como bien de dominio público.",
+    "Como bien demanial.",
+    "Como bien comunal."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 997 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 147,
+   "q": "¿En cual de los siguientes casos debe utilizarse la subasta para poder ceder un bien patrimonial?",
+   "options": [
+    "Cuando el tiempo de cesión sea superior a dos años.",
+    "Cuando el tiempo de cesión sea superior a un año.",
+    "Cuando el tiempo de cesión sea superior a tres años.",
+    "Cuando el tiempo de cesión sea superior a cinco años."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 998 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 148,
+   "q": "¿Cuándo se adjudicará el disfrute de un bien comunal por lotes?",
+   "options": [
+    "Cuando el disfrute sea impracticable en el modo común.",
+    "En cualquier caso.",
+    "En ningún caso.",
+    "Cuando lo establezca el Pleno."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 999 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 149,
+   "q": "¿Quién debe autorizar la adjudicación del disfrute de un bien comunal por un precio?",
+   "options": [
+    "El Alcalde.",
+    "El Secretario de la Corporación local.",
+    "El Pleno de la Entidad local.",
+    "La Comunidad Autónoma respectiva. Tema Nº 21. Haciendas Locales."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 1000 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  }
+ ]
+}

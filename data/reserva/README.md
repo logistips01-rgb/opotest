@@ -138,6 +138,36 @@ contra el BOE y les pone la cita. Lo que no se puede es servirlas a quien
 estudia sin verificarlas. Su sustitución son los lotes nuevos del tema 1, con
 artículo y apartado citados y pasados por revisor.
 
+## tema15-informacion-age-fuera-alcance.json
+
+50 preguntas retiradas del tema 15 de `aux-admin-zaragoza` el 19-ago-2026, en
+la campaña de dejar el banco entero con cita de artículo. Son del banco original
+importado (`exp` del tipo «Pregunta N del banco de test») y **no tratan la
+materia del tema**.
+
+El tema 15 oficial es «**El Reglamento de Órganos territoriales y Participación
+ciudadana de Zaragoza. El Manual de Atención a la ciudadanía del Ayuntamiento de
+Zaragoza**». Estas 50 tratan los servicios de información de la
+**Administración General del Estado**: comisiones ministeriales de información
+administrativa, unidades departamentales, oficinas de información de los
+departamentos ministeriales, el Centro de Información Administrativa adscrito al
+extinto Ministerio de Administraciones Públicas, y el libro de quejas y
+sugerencias de los departamentos ministeriales. Cero solape con el reglamento
+municipal de Zaragoza.
+
+Además de estar fuera de alcance, buena parte está **desfasada**: se apoyan en
+decretos de los años ochenta y noventa, en la Ley Orgánica de protección de
+datos de 1999 (derogada por la LOPDGDD 3/2018) y en un ministerio que ya no
+existe con ese nombre. Por eso este archivo se marca como **material de
+consulta, no de reutilización directa**: si algún día sirviera para una
+oposición de Administración del Estado, habría que rehacer las citas contra la
+normativa vigente antes de usarlas.
+
+Grupos del JSON: `clases_y_efectos_de_la_informacion_administrativa` (15),
+`organizacion_informacion_administrativa_age` (14), `otros` (12),
+`acceso_a_archivos_y_registros` (4), `libro_de_quejas_y_sugerencias_age` (4) y
+`proteccion_de_datos_normativa_derogada` (1).
+
 ## prl-fuera-alcance-aux-admin.json
 
 263 preguntas de **Prevención de Riesgos Laborales** que estaban en el tema 20

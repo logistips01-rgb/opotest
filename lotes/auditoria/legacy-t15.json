@@ -1,0 +1,606 @@
+{
+ "slug": "aux-admin-zaragoza",
+ "tema": 15,
+ "preguntas": [
+  {
+   "indice": 100,
+   "q": "¿Qué artículo de la Constitución española establece el acceso de los ciudadanos a los archivos y registros administrativos?",
+   "options": [
+    "El artículo 105.",
+    "El artículo 106.",
+    "El artículo 107.",
+    "El artículo 108."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 1250 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 101,
+   "q": "¿Cómo se regula según la Constitución española el derecho de acceso a archivos y registros administrativos?",
+   "options": [
+    "Por ley.",
+    "Por reglamento.",
+    "Por vía normativa.",
+    "Por vía reglamentaria y legal."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 1251 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 102,
+   "q": "¿A cuál de los siguientes archivos si tiene derecho un ciudadano?",
+   "options": [
+    "A un archivo que comprenda datos relativos a la intimidad de las personas.",
+    "A un archivo que comprenda datos relativos a la averiguación de delitos.",
+    "A un archivo que comprenda datos relativos a la seguridad del Estado.",
+    "A un archivo administrativo en determinados casos."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 1252 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 103,
+   "q": "¿Qué edad debe tener un documento para que lo consideremos parte del patrimonio histórico español?",
+   "options": [
+    "Más de veinte años.",
+    "Más de treinta años.",
+    "Más de cuarenta años.",
+    "Más de cincuenta años."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 1253 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 104,
+   "q": "¿En qué año se aprueba la primera norma reguladora de los servicios de información y reclamación administrativa?",
+   "options": [
+    "1965.",
+    "1966.",
+    "1967.",
+    "1968."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 1254 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 105,
+   "q": "¿Qué norma de las siguientes crea los servicios de información y reclamación administrativa?",
+   "options": [
+    "Decreto de 28 de enero de 1965.",
+    "Decreto de 28 de enero de 1966.",
+    "Decreto de 28 de enero de 1967.",
+    "Decreto de 28 de enero de 1968."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 1255 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 106,
+   "q": "¿En qué año fue derogado el primer Decreto que estableció servicios de información y reclamación administrativa?",
+   "options": [
+    "1995.",
+    "1996.",
+    "1997.",
+    "1998."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 1256 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 107,
+   "q": "¿Cuál de los siguientes Decretos deroga el primero que estableció servicios de información y reclamación administrativa?",
+   "options": [
+    "Real Decreto 208/ 1995.",
+    "Real Decreto de 208/1996.",
+    "Real Decreto de 208/1997.",
+    "Real Decreto de 208 /1998."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 1257 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 108,
+   "q": "¿Cómo puede ser la información administrativa?",
+   "options": [
+    "Común o especial.",
+    "Ordinaria y extraordinaria.",
+    "Singular y especial.",
+    "Particular o general."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 1258 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 109,
+   "q": "¿Qué tipo de información se facilita sin requerir al interesado ningún tipo de identificación?",
+   "options": [
+    "La información general.",
+    "La información común.",
+    "La información particular.",
+    "La información ordinaria."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 1259 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 110,
+   "q": "¿Qué tipo de información se facilita con requerimiento al interesado de su identificación?",
+   "options": [
+    "La información general.",
+    "La información común.",
+    "La información particular.",
+    "La información ordinaria."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 1260 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 111,
+   "q": "¿En qué año fue aprobada la ley orgánica de protección de datos de carácter personal?",
+   "options": [
+    "1998.",
+    "1999.",
+    "2000.",
+    "2001."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 1261 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 112,
+   "q": "¿A quién se debe facilitar la información particular?",
+   "options": [
+    "A cualquier interesado en el procedimiento.",
+    "A cualquier ciudadano que la precise.",
+    "A los ciudadanos españoles mayores de edad.",
+    "A los ciudadanos españoles y extranjeros mayores de edad."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 1262 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 113,
+   "q": "¿A quién se debe facilitar la información general?",
+   "options": [
+    "A cualquier interesado en el procedimiento.",
+    "A cualquier ciudadano que la precise.",
+    "A los ciudadanos españoles mayores de edad.",
+    "A los ciudadanos españoles y extranjeros mayores de edad."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 1263 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 114,
+   "q": "¿Quién aporta, en la Administración General del Estado, la información particular?",
+   "options": [
+    "Todas las unidades administrativas.",
+    "Los responsables de los archivos intermedios exclusivamente.",
+    "Las unidades de gestión.",
+    "Sólo los responsables de los departamentos ministeriales."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 1264 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 115,
+   "q": "¿Para difundir qué tipo de información se utilizarán los medios de comunicación cuando sea preciso?",
+   "options": [
+    "Para difundir información particular.",
+    "Para difundir información general.",
+    "Para difundir información común.",
+    "Para difundir información ordinaria."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 1265 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 116,
+   "q": "¿Cuál de las siguientes funciones no es una función comprendida dentro de los servicios de atención personalizada al ciudadano?",
+   "options": [
+    "Servicio de recepción de quejas.",
+    "Servicio de recepción de sugerencias.",
+    "Servicio de asistencia a los ciudadanos en el ejercicio del derecho de representación.",
+    "Servicio de gestión."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 1266 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 117,
+   "q": "¿Cuál de los siguientes servicios tiene por objeto recibir la documentación inicial que los interesados quieran hacer llegar a la Administración?",
+   "options": [
+    "Servicio de gestión.",
+    "Servicio de recepción de información.",
+    "Servicio de orientación.",
+    "Servicio de acogida a los ciudadanos."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 1267 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 118,
+   "q": "¿Cuál de los siguientes servicios tiene por objeto facilitar ayuda inicial a los ciudadanos?",
+   "options": [
+    "Servicio de gestión.",
+    "Servicio de recepción de información.",
+    "Servicio de orientación.",
+    "Servicio de acogida a los ciudadanos."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 1268 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 119,
+   "q": "¿Cuál de los siguientes servicios tiene por objeto ofrecer aclaraciones y ayuda práctica a los ciudadanos sobre los procedimientos y trámites que necesiten realizar?",
+   "options": [
+    "Servicio de gestión documental.",
+    "Servicio de recepción.",
+    "Servicio de orientación e información.",
+    "Servicio de acogida a los ciudadanos."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 1269 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 120,
+   "q": "En caso de que un ciudadano pretenda ejercer el derecho de petición y solicite información a los servicios administrativos ¿sobre cual de los siguientes extremos no se le podrá facilitar información?",
+   "options": [
+    "Sobre la naturaleza del derecho.",
+    "Sobre los antecedentes de ejercicio del derecho por otros ciudadanos.",
+    "Sobre las autoridades a quienes tienen que dirigir sus escritos.",
+    "Sobre el modo de ejercer el derecho."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 1270 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 121,
+   "q": "En caso de que se reciba en una unidad administrativa un documento ejercitando el derecho de petición, en el que se ha consignado erróneamente el destinatario ¿qué deberán hacer con el citado documento?",
+   "options": [
+    "Enviarlo a su remitente para que subsane el error.",
+    "Remitirlo al órgano apropiado.",
+    "Archivarlo sin más trámite.",
+    "Destruirlo para preservar el derecho a la intimidad personal."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 1271 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 122,
+   "q": "¿Dónde existen unidades departamentales de información administrativa?",
+   "options": [
+    "En todos los Ministerios.",
+    "En todas las unidades administrativas.",
+    "En todos los órganos administrativos.",
+    "En todos los entes administrativos."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 1272 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 123,
+   "q": "En el ámbito de la Administración General del Estado ¿donde existen oficinas de información y atención al ciudadano?",
+   "options": [
+    "En todos los Ministerios.",
+    "En los niveles central y periférico.",
+    "En todos los órganos administrativos centrales.",
+    "En todos los entes administrativos periféricos."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 1273 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 124,
+   "q": "En el ámbito de la Administración General del Estado ¿qué unidad dirige las oficinas de información y atención al ciudadano?",
+   "options": [
+    "Las unidades departamentales de información administrativa.",
+    "El Secretario General Técnico del departamento.",
+    "La Comisión interministerial de información administrativa.",
+    "Las comisiones ministeriales de información administrativa."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 1274 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 125,
+   "q": "¿Cuál de las siguientes funciones está encomendada a las comisiones ministeriales de información administrativa?",
+   "options": [
+    "Participar en el diseño de estrategias de las campañas publicitarias.",
+    "Informar sobre proyectos normativos.",
+    "Proponer programas formativos.",
+    "Crear y mantener bases de datos."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 1275 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 126,
+   "q": "¿Cuál de las siguientes funciones está encomendada a las unidades departamentales de información administrativa?",
+   "options": [
+    "Distribución y difusión de la información.",
+    "Actualización permanente de la información.",
+    "Proponer programas formativos.",
+    "Catalogación de publicaciones informativas."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 1276 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 127,
+   "q": "¿Cuál de las siguientes funciones no pertenece a unidades departamentales de información administrativa, en cuanto a la competencia que ejercer sobre la difusión de la imagen de la información administrativa?",
+   "options": [
+    "La promoción de la información administrativa de la unidad.",
+    "La colaboración en el diseño de la imagen de identidad en el material impreso del departamento.",
+    "La participación en campañas informativas.",
+    "El tratamiento de fuentes documentales."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 1277 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 128,
+   "q": "¿A quién le corresponde en el ámbito de la Administración General del Estado la creación y el mantenimiento de bases de datos propias?",
+   "options": [
+    "A las unidades departamentales de información.",
+    "A las comisiones departamentales de información.",
+    "A la comisión interministerial de información.",
+    "A la Secretaría General de cada Ministerio."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 1278 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 129,
+   "q": "¿Cuál de los siguientes no es un órgano colegiado relacionado con la información administrativa?",
+   "options": [
+    "La Comisión interministerial de información.",
+    "Las Comisiones Ministeriales de información.",
+    "Las oficinas de información y atención al ciudadano.",
+    "La Comisión interministerial y las Comisiones Ministeriales de información."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 1279 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 130,
+   "q": "¿Cuántos tipos de oficinas de información y atención al ciudadano existen en los servicios centrales de los departamentos ministeriales?",
+   "options": [
+    "Dos.",
+    "Una.",
+    "Tres.",
+    "Cuatro."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 1280 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 131,
+   "q": "¿De quién dependen las oficinas de información y atención al ciudadano de los órganos territoriales de la Administración General del Estado?",
+   "options": [
+    "Del Ministerio de Administraciones Públicas.",
+    "Del Delegado del Gobierno.",
+    "Del Subdelegado del Gobierno.",
+    "Del Ministerio del Interior."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 1281 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 132,
+   "q": "¿Qué instrumento es necesario para que se lleve a cabo un sistema de colaboración entre un Ayuntamiento y el Ministerio de Administraciones Públicas en materia de información administrativa?",
+   "options": [
+    "Decreto del Consejo de Ministros.",
+    "Orden del Consejo de Ministros.",
+    "Firma de un acuerdo de colaboración.",
+    "Firma de un acuerdo de cooperación."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 1282 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 133,
+   "q": "¿Cuál de los siguientes Decretos establece el libro de quejas y sugerencias?",
+   "options": [
+    "Real Decreto 208/ 1995.",
+    "Real Decreto de 208/1996.",
+    "Real Decreto de 208/1997.",
+    "Real Decreto de 208 /1998."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 1283 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 134,
+   "q": "¿Cuántos libros de quejas y sugerencias deben existir en un departamento ministerial?",
+   "options": [
+    "Uno por cada unidad.",
+    "Uno al menos.",
+    "Uno por cada órgano administrativo.",
+    "Dos al menos."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 1284 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 135,
+   "q": "¿Cuál de los siguientes datos no deben hacer constar los ciudadanos en el libro de quejas y sugerencias?",
+   "options": [
+    "El teléfono.",
+    "La dirección.",
+    "La firma.",
+    "El nombre."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 1285 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 136,
+   "q": "¿De cuántas copias consta cada hoja del libro de quejas y sugerencias?",
+   "options": [
+    "De una.",
+    "De dos.",
+    "De tres.",
+    "De cuatro."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 1286 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 137,
+   "q": "¿De qué plazo dispone la unidad afectada por una queja para informar al ciudadano de las actuaciones realizadas?",
+   "options": [
+    "5 días.",
+    "10 días.",
+    "20 días.",
+    "Un mes."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 1287 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 138,
+   "q": "¿A quién debe dar cuenta la unidad afectada por una queja de la comunicación realizada al ciudadano que la interpuso?",
+   "options": [
+    "Al ministro del departamento.",
+    "A la comisión interministerial.",
+    "A la comisión ministerial.",
+    "A la Inspección General de servicios."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 1288 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 139,
+   "q": "¿Cómo debe ser la información suministrada a un ciudadano?",
+   "options": [
+    "Clara y extensa.",
+    "Compleja y técnica.",
+    "Clara y sucinta.",
+    "Sucinta y técnica."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 1289 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 140,
+   "q": "¿Cuándo puede la información administrativa originar expectativas de derechos a los ciudadanos que la requieran?",
+   "options": [
+    "Cuando se solicite por escrito.",
+    "Cuando se envíe por escrito.",
+    "Cuando se solicite de manera formal.",
+    "En ningún caso."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 1290 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 141,
+   "q": "¿Cuándo puede la información administrativa lesionar derechos de los interesados?",
+   "options": [
+    "Cuando se solicite por escrito.",
+    "Cuando se envíe por escrito.",
+    "Cuando se solicite de manera formal.",
+    "En ningún caso."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 1291 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 142,
+   "q": "¿Cuándo puede la información administrativa servir de instrumento de notificación a los ciudadanos que la requieran?",
+   "options": [
+    "Cuando se solicite por escrito.",
+    "Cuando se envíe por escrito.",
+    "Cuando se solicite de manera formal.",
+    "En ningún caso."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 1292 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 143,
+   "q": "¿Cuándo puede la información administrativa ser invocada como mecanismo de prescripción por los ciudadanos que la requieran?",
+   "options": [
+    "Cuando se solicite por escrito formalmente.",
+    "Cuando se envíe por escrito.",
+    "Cuando se solicite de manera formal.",
+    "En ningún caso."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 1293 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 144,
+   "q": "¿Cuándo puede la información administrativa ser invocada a efectos de caducidad por los ciudadanos que la requieran?",
+   "options": [
+    "Cuando se solicite por escrito.",
+    "Cuando se envíe por escrito y formalmente.",
+    "Cuando se solicite de manera formal.",
+    "En ningún caso."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 1294 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 145,
+   "q": "¿A qué ministerio se encuentra adscrito el Centro de Información administrativa?",
+   "options": [
+    "Al Ministerio de la Presidencia.",
+    "Al Ministerio de Administraciones Públicas.",
+    "Al Ministerio del Interior.",
+    "Es un organismo autónomo no adscrito."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 1295 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 146,
+   "q": "¿Cuál de los siguientes Decretos establece las funciones del Centro de Información administrativa?",
+   "options": [
+    "Real Decreto 208/ 1995.",
+    "Real Decreto de 208/1996.",
+    "Real Decreto de 208/1997.",
+    "Real Decreto de 208 /1998."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 1296 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 147,
+   "q": "¿Qué tipo de información es la que requiere un ciudadano sobre las reglas de tramitación de los procedimientos?",
+   "options": [
+    "Información general.",
+    "Información común.",
+    "Información particular.",
+    "Información ordinaria."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 1297 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 148,
+   "q": "¿Qué tipo de información es la que requiere un ciudadano sobre la localización de una unidad administrativa?",
+   "options": [
+    "Información general.",
+    "Información común.",
+    "Información particular.",
+    "Información ordinaria."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 1298 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 149,
+   "q": "¿Qué tipo de información es la que requiere un ciudadano sobre las prestaciones que realiza la Administración?",
+   "options": [
+    "Información general.",
+    "Información común.",
+    "Información particular.",
+    "Información ordinaria. Tema Nº 27. La Informática en la Administración Pública."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 1299 del banco de test (Municipio/Régimen Local - temas 26) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  }
+ ]
+}

@@ -1,0 +1,751 @@
+{
+ "slug": "aux-admin-zaragoza",
+ "tema": 14,
+ "parte": "D",
+ "preguntas": [
+  {
+   "indice": 103,
+   "q": "¿En qué año se aprueba el estatuto municipal que aplica la descentralización a las entidades locales?",
+   "options": [
+    "1823.",
+    "1924.",
+    "1825.",
+    "1926."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 454 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 107,
+   "q": "¿En qué Título de la Constitución se regula el municipio?",
+   "options": [
+    "En el Título VII.",
+    "En el Título VIII.",
+    "En el Título IX.",
+    "En el Título III."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 458 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 111,
+   "q": "¿En qué año fue aprobado el Reglamento de Población y Demarcación territorial?",
+   "options": [
+    "1986.",
+    "1987.",
+    "1988.",
+    "1989."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 462 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 115,
+   "q": "¿En qué lengua puede denominarse un municipio?",
+   "options": [
+    "Siempre y solamente en castellano.",
+    "En castellano y/o en la lengua cooficial.",
+    "En la lengua cooficial.",
+    "Sólo en la lengua cooficial."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 466 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 119,
+   "q": "¿Quiénes constituyen la población de un municipio?",
+   "options": [
+    "Los inscritos en el Padrón municipal.",
+    "Los inscritos y los no inscritos en el Padrón municipal.",
+    "Los inscritos en el Padrón municipal que sean mayores de edad.",
+    "Los domiciliados y los transeúntes."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 470 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 123,
+   "q": "¿Qué articulo de la Ley 7/ 1985, establece los derechos de los vecinos?",
+   "options": [
+    "El art. 17.",
+    "El art. 18.",
+    "El art. 19.",
+    "El art. 20."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 474 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 127,
+   "q": "¿En qué año se modificó el artículo de la Constitución española dedicado a la regulación del ejercicio del derecho de sufragio en las elecciones municipales?",
+   "options": [
+    "1991.",
+    "1992.",
+    "1993.",
+    "1994."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 478 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 131,
+   "q": "¿A quién le corresponde la formación del Padrón Municipal?",
+   "options": [
+    "Al Ayuntamiento respectivo.",
+    "Al Ministerio del Interior.",
+    "Al Ministerio de Administraciones Públicas en colaboración con el Ayuntamiento.",
+    "A la Comunidad Autónoma en colaboración con el ayuntamiento respectivo."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 482 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 135,
+   "q": "¿Qué naturaleza tienen los datos del padrón municipal?",
+   "options": [
+    "Son públicos.",
+    "Son confidenciales.",
+    "Son secretos.",
+    "Son privados."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 486 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 139,
+   "q": "¿Qué artículo de la Ley 7/ 1985, de 2 de abril, recoge las competencias que deben ser ejercidas por los Ayuntamientos?",
+   "options": [
+    "El art. 25.1.",
+    "El art. 29.2.",
+    "El art. 21.3.",
+    "El art. 28."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 490 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 143,
+   "q": "¿A quién deben solicitar los Ayuntamientos la dispensa para no tener que prestar los servicios mínimos que les encomienda la legislación vigente?",
+   "options": [
+    "A la Diputación provincial.",
+    "A la Comunidad Autónoma.",
+    "Al Ministerio de Administraciones Públicas.",
+    "Al Ministerio del Interior."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 494 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 147,
+   "q": "¿Qué es el término municipal?",
+   "options": [
+    "El territorio donde el ayuntamiento ejerce sus competencias.",
+    "El territorio edificado de un municipio.",
+    "El territorio urbano de un municipio.",
+    "El territorio urbanizable de un municipio."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 498 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 151,
+   "q": "¿Qué tipo de órgano es el Pleno del Ayuntamiento?",
+   "options": [
+    "Complementario.",
+    "Ordinario.",
+    "Especial.",
+    "Necesario."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 502 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 155,
+   "q": "¿Cómo se denominan los concejales que ostentan aquellas atribuciones que les delegue el Alcalde dentro de sus propias competencias?",
+   "options": [
+    "Concejales delegados.",
+    "Concejales especiales.",
+    "Concejales sectoriales.",
+    "Concejales de distrito."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 507 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 159,
+   "q": "¿A qué órgano le corresponde ejercer el examen de todas las cuentas presupuestarias de la Corporación?",
+   "options": [
+    "Al Pleno.",
+    "A la Comisión sectorial correspondiente.",
+    "A la Comisión Especial de Cuentas.",
+    "Al Alcalde."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 511 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 163,
+   "q": "¿Qué tipo de competencias puede ejercer un consejo sectorial?",
+   "options": [
+    "De informe y propuesta.",
+    "Sólo de informe.",
+    "Sólo de propuesta.",
+    "Ejecutivas, informativas y de gestión."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 515 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 167,
+   "q": "¿Qué mayoría se precisa para ser elegido Alcalde en votación?",
+   "options": [
+    "Mayoría simple.",
+    "Mayoría absoluta.",
+    "Mayoría de 2/3.",
+    "Mayoría de 1/3."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 519 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 171,
+   "q": "¿Ante quién debe tomar posesión el Alcalde?",
+   "options": [
+    "Ante el órgano competente de la Comunidad Autónoma.",
+    "Ante el Pleno.",
+    "Ante la Comisión de Gobierno.",
+    "Ante el Alcalde saliente."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 523 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 175,
+   "q": "¿Qué Tratamiento ostenta el Alcalde de Madrid?",
+   "options": [
+    "Ilustrísima.",
+    "Señoría.",
+    "Vuecencia.",
+    "Excelentísimo."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 527 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 179,
+   "q": "¿Qué mayoría de concejales puede presentar una moción de censura?",
+   "options": [
+    "La mayoría simple del número legal.",
+    "La mayoría absoluta del número legal.",
+    "2/3 del número legal.",
+    "1/5 del número legal."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 531 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 183,
+   "q": "¿A cuál de las siguientes materias no puede vincularse una cuestión de confianza?",
+   "options": [
+    "A la aprobación de una ordenanza fiscal.",
+    "A la aprobación de los presupuestos anuales.",
+    "A la aprobación del reglamento orgánico.",
+    "A la aprobación de una moción de censura."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 535 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 187,
+   "q": "¿A qué órgano le corresponde ejercer las funciones de asistencia al Alcalde?",
+   "options": [
+    "Al Pleno de la Corporación.",
+    "A los Tenientes de Alcalde.",
+    "A la Comisión de Gobierno.",
+    "A las Comisiones informativas."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 539 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 191,
+   "q": "¿Qué día se constituye el Ayuntamiento?",
+   "options": [
+    "El día siguiente a la celebración de las elecciones.",
+    "El vigésimo primer día posterior a la celebración de las elecciones.",
+    "El vigésimo quinto día posterior a la celebración de las elecciones.",
+    "El vigésimo día posterior a la celebración de las elecciones."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 543 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 195,
+   "q": "¿Cuáles son los dos tipos de delegaciones que puede realizar el Alcalde?",
+   "options": [
+    "Ordinarias y extraordinarias.",
+    "Ordinarias y genéricas.",
+    "Genéricas y especiales.",
+    "Especiales y ordinarias."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 547 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 199,
+   "q": "¿En qué año se aprobó el Reglamento de organización y funcionamiento de las entidades locales?",
+   "options": [
+    "1885.",
+    "1986.",
+    "1987.",
+    "1988."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 551 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 203,
+   "q": "¿En qué tipo de sesión se acuerda la celebración de las sesiones cuya periodicidad se conoce con antelación?",
+   "options": [
+    "En sesión nominal.",
+    "En sesión ordinaria.",
+    "En sesión extraordinaria.",
+    "En sesión común."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 555 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 207,
+   "q": "¿Cuál es el primer punto del orden del día de una sesión extraordinaria urgente del Pleno?",
+   "options": [
+    "La lectura del orden del día.",
+    "La presentación de credenciales.",
+    "La apreciación de la urgencia de la sesión.",
+    "La lectura del acta de la sesión anterior."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 559 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 211,
+   "q": "¿Cuál es, en todo caso, el número de miembros de la Corporación que deben estar presentes en las sesiones del Pleno?",
+   "options": [
+    "Dos.",
+    "Cinco.",
+    "Siete.",
+    "Tres."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 563 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 215,
+   "q": "¿Cuál es la regla para la adopción de acuerdos en el Pleno?",
+   "options": [
+    "Mayoría simple.",
+    "Mayoría absoluta.",
+    "Mayoría de dos tercios.",
+    "Mayoría de tres quintos."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 567 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 219,
+   "q": "¿Cómo no pueden ser las votaciones del Pleno?",
+   "options": [
+    "Ordinarias.",
+    "Extraordinarias.",
+    "Secretas.",
+    "Nominales."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 571 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 223,
+   "q": "¿Quién debe leer el acta de la sesión anterior del Pleno?",
+   "options": [
+    "El Alcalde.",
+    "El Secretario de la Corporación.",
+    "El concejal de mayor edad.",
+    "El grupo político con mayor número de concejales."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 575 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 227,
+   "q": "¿Cuándo puede ordenarse a un concejal que abandone la sesión del Pleno?",
+   "options": [
+    "A la segunda llamada al orden.",
+    "A la tercera llamada l orden.",
+    "A la cuarta llamada al orden.",
+    "A la quinta llamada al orden."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 579 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 231,
+   "q": "¿Qué instrumento normativo se utiliza para establecer la periodicidad de las sesiones de la Comisión de Gobierno?",
+   "options": [
+    "Decreto.",
+    "Ordenanza.",
+    "Bando.",
+    "Orden."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 583 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 235,
+   "q": "¿En cuál de las siguientes sesiones se debe incluir siempre un turno de ruegos y preguntas?",
+   "options": [
+    "En las sesiones ordinarias.",
+    "En las sesiones extraordinarias.",
+    "En las sesiones urgentes.",
+    "En todas las sesiones, sin excepción."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 587 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 239,
+   "q": "¿Quién debe custodiar el Libro de Actas de la corporación?",
+   "options": [
+    "El Alcalde.",
+    "El miembro de la corporación designado por el Alcalde.",
+    "El Secretario de la Corporación.",
+    "Cualquier miembro de la Comisión de Gobierno."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 591 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 243,
+   "q": "¿Qué artículo de la Ley 7/ 1985, de 2 de abril, establece la periodicidad de las sesiones del Pleno?",
+   "options": [
+    "El art. 46.1.",
+    "El art. 46.2.",
+    "El art. 46.3.",
+    "El art. 47.2."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 595 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 247,
+   "q": "¿Quién puede acordar la interrupción de una sesión plenaria?",
+   "options": [
+    "El Alcalde.",
+    "El miembro de la corporación designado por el Alcalde.",
+    "El Secretario de la Corporación.",
+    "Cualquier miembro de la Comisión de Gobierno."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 599 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 251,
+   "q": "¿A quién corresponde el gobierno y administración de la Provincia?",
+   "options": [
+    "Al Ayuntamiento.",
+    "A la Diputación.",
+    "A la Comunidad autónoma.",
+    "A los vecinos."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 603 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 255,
+   "q": "¿Cuál de los siguientes órganos no existe en todas las Diputaciones Provinciales?",
+   "options": [
+    "El Pleno.",
+    "El Presidente.",
+    "El Vicepresidente.",
+    "Los Consejos Sectoriales."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 607 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 259,
+   "q": "¿A qué hora se celebra la sesión constitutiva de la Diputación Provincial?",
+   "options": [
+    "A las diez de la mañana.",
+    "A las doce de la mañana.",
+    "A las nueve de la mañana.",
+    "A las once de la mañana."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 611 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 263,
+   "q": "¿Ante quién debe tomar posesión el Presidente de la Diputación?",
+   "options": [
+    "Ante el Pleno.",
+    "Ante la Comisión de Gobierno.",
+    "Ante el Presidente de la Comunidad Autónoma.",
+    "Ante el Pleno y el Presidente de la Comunidad Autónoma."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 615 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 267,
+   "q": "¿Quién dirige el gobierno y administración de la provincia?",
+   "options": [
+    "El Pleno de la Diputación.",
+    "El Presidente de la Diputación.",
+    "El Presidente de la Diputación y el Pleno.",
+    "A los órganos de la Diputación."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 619 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 271,
+   "q": "En la división de la provincia en partidos judiciales, previa al reparto de escaños de la Diputación, ¿cuántos diputados se asignan a cada uno de ellos?",
+   "options": [
+    "Dos.",
+    "Tres.",
+    "Cuatro.",
+    "Uno."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 623 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 275,
+   "q": "¿Cómo pueden ser las comisiones informativas?",
+   "options": [
+    "Permanentes o especiales.",
+    "Comunes o extraordinarias.",
+    "Ordinarias o extraordinarias.",
+    "De propuesta o de resolución."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 627 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 279,
+   "q": "¿Quién debe asegurar el acceso de la población de la Provincia al conjunto de los servicios mínimos de competencia municipal?",
+   "options": [
+    "La Diputación provincial.",
+    "El Pleno de la Diputación.",
+    "La Comisión de Gobierno de la Diputación.",
+    "Los Ayuntamientos de la provincia."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 631 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 283,
+   "q": "¿Qué mayoría se precisa para que un candidato sea proclamado Presidente en segunda votación?",
+   "options": [
+    "Mayoría absoluta.",
+    "Mayoría simple.",
+    "Se resuelve por sorteo.",
+    "Mayoría de un tercio."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 635 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 287,
+   "q": "¿Cuántos diputados conforman el Pleno de la Diputación de una provincia que cuenta con tres millones de habitantes?",
+   "options": [
+    "25.",
+    "23.",
+    "31.",
+    "27."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 639 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 291,
+   "q": "¿A quién le corresponde ejercer la asistencia permanente al Presidente de la Diputación?",
+   "options": [
+    "Al Vicepresidente.",
+    "A la Comisión de Gobierno.",
+    "Al Pleno.",
+    "A la Comisión informativa correspondiente."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 643 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 295,
+   "q": "¿Cuánto tiempo debe transcurrir entre la primera y la segunda convocatoria de una sesión de la Comisión de Gobierno, en caso de que la primera no pudiera celebrarse por no existir quórum?",
+   "options": [
+    "Media hora.",
+    "Una hora.",
+    "Dos horas.",
+    "Cuatro horas."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 647 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 299,
+   "q": "¿Cuál de los siguientes artículos se encarga de establecer cuales son las entidades locales territoriales?",
+   "options": [
+    "El artículo 2.",
+    "El artículo 3.",
+    "El artículo 4.",
+    "El artículo 5."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 651 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 303,
+   "q": "¿Cuál es el origen de las entidades locales de ámbito inframunicipal?",
+   "options": [
+    "La época visigoda.",
+    "La época de la reconquista.",
+    "La época romana.",
+    "La época árabe."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 655 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 307,
+   "q": "¿Cuál de los siguientes requisitos no es necesario que se realice cuando se quiere constituir una entidad local de ámbito territorial municipal?",
+   "options": [
+    "Información pública vecinal.",
+    "Informe de la Diputación provincial.",
+    "Informe del Ayuntamiento.",
+    "En su caso, petición escrita de la mayoría de los vecinos residentes en el territorio que haya de ser base de la entidad.."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 659 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 311,
+   "q": "¿Cuál de los siguientes órganos es competente para adoptar la resolución por la que se modifique una entidad local territorial de ámbito inferior al municipio?",
+   "options": [
+    "El Consejo de Gobierno.",
+    "La Comisión de Gobierno del Ayuntamiento.",
+    "El Pleno de la Diputación.",
+    "El Consejo de Ministros."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 663 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 315,
+   "q": "¿Quién debe vigilar la conservación de los caminos de una entidad territorial inferior al municipio ?",
+   "options": [
+    "El Secretario de la corporación.",
+    "El Alcalde pedáneo.",
+    "El Teniente de alcalde designado por el alcalde.",
+    "Cualquiera de sus miembros."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 667 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 319,
+   "q": "¿A quién le corresponde la aprobación del presupuesto de una entidad local de ámbito territorial inferior al municipio?",
+   "options": [
+    "Al Alcalde pedáneo.",
+    "A la Junta vecinal.",
+    "Al Ayuntamiento respectivo .",
+    "A la Diputación provincial respectiva."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 671 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 323,
+   "q": "¿A quién le corresponde designar al sustituto del Alcalde pedáneo de una entidad local de ámbito territorial inferior al municipio?",
+   "options": [
+    "Al Alcalde pedáneo.",
+    "A la Junta vecinal.",
+    "Al Ayuntamiento respectivo .",
+    "A la Diputación provincial respectiva."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 675 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 327,
+   "q": "¿Quién debe establecer el ámbito territorial de las comarcas?",
+   "options": [
+    "La Comunidad Autónoma respectiva mediante ley.",
+    "La Diputación respectiva.",
+    "El Ministerio de Administraciones Públicas.",
+    "Los Ayuntamientos que la integren."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 679 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 331,
+   "q": "¿Cuál de las siguientes características no es predicable de las mancomunidades?",
+   "options": [
+    "Son entidades territoriales.",
+    "Son entidades privadas.",
+    "Son entidades municipales.",
+    "Son entes institucionales."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 683 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 335,
+   "q": "¿Quién realiza la elaboración de los estatutos de una mancomunidad?",
+   "options": [
+    "La Comunidad Autónoma.",
+    "La mancomunidad.",
+    "La Diputación respectiva.",
+    "Los Ayuntamientos que la integran."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 687 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 339,
+   "q": "¿Cuál de los siguientes no forma parte del órgano de gobierno de una mancomunidad?",
+   "options": [
+    "Un representante de la Comunidad Autónoma respectiva.",
+    "Un Presidente.",
+    "Un Vicepresidente.",
+    "Un Secretario."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 691 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 343,
+   "q": "¿Quién puede crear un área metropolitana?",
+   "options": [
+    "Los Ayuntamientos respectivos.",
+    "La Diputación respectiva.",
+    "La Comunidad Autónoma respectiva.",
+    "El Ministerio de Administraciones Públicas."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 695 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 347,
+   "q": "¿Quién puede establecer los servicios que puede prestar un área metropolitana?",
+   "options": [
+    "Los Ayuntamientos respectivos.",
+    "La Diputación respectiva.",
+    "La Comunidad Autónoma respectiva.",
+    "El Ministerio de Administraciones Públicas."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 699 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  }
+ ]
+}

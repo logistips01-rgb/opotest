@@ -1,0 +1,606 @@
+{
+ "slug": "aux-admin-zaragoza",
+ "tema": 6,
+ "preguntas": [
+  {
+   "indice": 100,
+   "q": "¿Cuál de los siguientes es un requisito imprescindible para que nos encontremos ante una acto administrativo?",
+   "options": [
+    "Que sea dictado por una administración pública.",
+    "Que contenga una resolución definitiva.",
+    "Que afecte a los ciudadanos.",
+    "Que contenga disposiciones sancionadoras."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 701 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 101,
+   "q": "¿Cuál de las siguientes clases de actos no existe?",
+   "options": [
+    "Actos simples.",
+    "Actos complejos.",
+    "Actos administrativos privados.",
+    "Actos firmes."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 702 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 102,
+   "q": "¿Qué es un acto de trámite?",
+   "options": [
+    "El que no decide sobre el fondo del asunto ni da lugar a la terminación del expediente sino que prepara la decisión final.",
+    "El que agota la vía administrativa en vía de recurso.",
+    "El que causa estado.",
+    "El que crea una relación jurídica."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 703 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 103,
+   "q": "¿Qué es un acto constitutivo?",
+   "options": [
+    "El que no decide sobre el fondo del asunto ni da lugar a la terminación del expediente sino que prepara la decisión final.",
+    "El que agota la vía administrativa en vía de recurso.",
+    "El que causa estado.",
+    "El que crea una relación jurídica."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 704 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 104,
+   "q": "¿Qué entendemos por acto firme?",
+   "options": [
+    "Es el que no se puede recurrir.",
+    "Es el que pone fin al procedimiento administrativo.",
+    "Es el dictado por la Administración en vía de recurso exclusivamente.",
+    "El dictado al inicio del procedimiento."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 705 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 105,
+   "q": "¿Qué es un acto definitivo?",
+   "options": [
+    "Es el que no se puede recurrir.",
+    "Es el que pone fin al procedimiento administrativo.",
+    "Es el dictado por la Administración en vía de recurso exclusivamente.",
+    "El dictado al inicio del procedimiento."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 706 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 106,
+   "q": "¿Cuál de los siguientes actos administrativos no es impugnable?",
+   "options": [
+    "Un acto definitivo.",
+    "Un acto de trámite que decida sobre el fondo del asunto.",
+    "Un acto de trámite que provoque indefensión.",
+    "Un acto que no ponga fin a la vía administrativa en determinados casos."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 707 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 107,
+   "q": "¿Qué artículo de la ley 30/ 1992, de 26 de noviembre, establece los actos que ponen fin a la vía administrativa?",
+   "options": [
+    "El 108.",
+    "El 107.",
+    "El 109.",
+    "El 110."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 708 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 108,
+   "q": "¿Cuál de los siguientes actos es impugnable?",
+   "options": [
+    "Un acto firme.",
+    "Un acto que reproduce el contenido de otro anterior definitivo y firme.",
+    "Un acto confirmatorio de un acuerdo no recurrido en tiempo y forma.",
+    "Un acto definitivo."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 709 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 109,
+   "q": "¿Qué es un acto expreso?",
+   "options": [
+    "Un acto en el que se manifiesta la voluntad expresada por la Administración y normalmente en forma escrita.",
+    "Un acto que no se produce directamente por la Administración.",
+    "Cualquier acto que agote la vía administrativa.",
+    "Un acto firme."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 710 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 110,
+   "q": "¿Cuál de los siguientes elementos no conforma un acto administrativo?",
+   "options": [
+    "El fin.",
+    "La forma.",
+    "El sujeto.",
+    "El contenido."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 711 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 111,
+   "q": "¿Qué artículo de la Ley 30/ 1992, de 26 de noviembre, establece los casos en los que debe motivarse un acto administrativo?",
+   "options": [
+    "El artículo 53.",
+    "El artículo 54.",
+    "El artículo 55.",
+    "El artículo 56."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 712 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 112,
+   "q": "¿Cuál de los siguientes actos no debe motivarse?",
+   "options": [
+    "Un acto que acuerde la aplicación del procedimiento de urgencia.",
+    "Un acto que acuerde la limitación de un interés legítimo.",
+    "Un acto que acuerde la aplicación del precedente administrativo.",
+    "Un acto que acuerde ampliar los plazos del procedimiento."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 713 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 113,
+   "q": "¿Qué artículo de la Ley 30/ 1992, de 26 de noviembre, establece los casos en los que debe notificarse un acto administrativo?",
+   "options": [
+    "El artículo 58.",
+    "El artículo 53.",
+    "El artículo 52.",
+    "El artículo 59."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 714 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 114,
+   "q": "¿Debe notificarse un acto de trámite?",
+   "options": [
+    "Sí, en cualquier caso.",
+    "No.",
+    "Sólo si lo solicita el interesado.",
+    "Sólo si se da una causa de fuerza mayor."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 715 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 115,
+   "q": "¿Qué artículo de la Ley 30/ 1992, de 26 de noviembre, establece la regulación de las notificaciones personales de un acto administrativo?",
+   "options": [
+    "El artículo 53.2.",
+    "El artículo 54.4.",
+    "El artículo 55.2.",
+    "El artículo 59."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 716 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 116,
+   "q": "¿Qué se debe hacer con la acreditación de una notificación?",
+   "options": [
+    "Incorporarla al expediente.",
+    "Remitirla al interesado.",
+    "Remitirla al registro correspondiente.",
+    "Notificarla al interesado inmediatamente."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 717 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 117,
+   "q": "¿Cómo deben practicarse las notificaciones?",
+   "options": [
+    "Siempre por escrito.",
+    "De manera directa.",
+    "De manera indirecta.",
+    "De cualquier forma que permita tener constancia de su recepción."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 718 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 118,
+   "q": "Si un interesado presenta una solicitud ¿dónde se realizarán las notificaciones?",
+   "options": [
+    "En el domicilio indicado en la misma.",
+    "En el domicilio que conste en el padrón municipal.",
+    "En el tablón de edictos del Ayuntamiento.",
+    "En la propia sede administrativa."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 719 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 119,
+   "q": "¿Cuántas veces debe intentarse una notificación?",
+   "options": [
+    "Dos veces.",
+    "Una vez.",
+    "Tres veces.",
+    "Cuantas veces sea necesario."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 720 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 120,
+   "q": "¿Cuál de los siguientes extremos es imprescindible que conste en una notificación?",
+   "options": [
+    "El texto íntegro del acto.",
+    "La fecha de inicio del expediente.",
+    "La fecha de terminación del procedimiento.",
+    "La identificación de la autoridad firmante."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 721 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 121,
+   "q": "¿Desde cuándo surten efectos los actos administrativos, como regla general?",
+   "options": [
+    "Desde el momento en que se dictan.",
+    "Desde el día siguiente al que sean dictados.",
+    "Desde que se notifiquen.",
+    "Desde el día en que se publiquen."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 722 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 122,
+   "q": "¿En qué artículo de la Ley 30/ 1992,de 26 de noviembre, se establecen los supuestos en los que queda demorada la eficacia de un acto administrativo?",
+   "options": [
+    "En el artículo 56.",
+    "En el artículo 57.",
+    "En el artículo 58.",
+    "En el artículo 59."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 723 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 123,
+   "q": "¿En qué artículo de la Ley 30/ 1992,de 26 de noviembre, se establecen los supuestos de anulabilidad de un acto administrativo?",
+   "options": [
+    "En el artículo 66.",
+    "En el artículo 62.",
+    "En el artículo 63.",
+    "En el artículo 69."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 724 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 124,
+   "q": "¿En qué artículo de la Ley 30/ 1992,de 26 de noviembre, se establecen los supuestos de nulidad de un acto administrativo?",
+   "options": [
+    "En el artículo 62.",
+    "En el artículo 63.",
+    "En el artículo 64.",
+    "En el artículo 69."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 725 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 125,
+   "q": "¿Cuál de los siguientes actos se considera nulo de pleno derecho?",
+   "options": [
+    "El que restrinja intereses legítimos.",
+    "El que tenga un contenido posible.",
+    "El que se dicte por un órgano incompetente por razón del territorio.",
+    "El que contenga un defecto de forma."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 726 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 126,
+   "q": "¿Cuál de los siguientes actos es anulable?",
+   "options": [
+    "El que incurra en desviación de poder.",
+    "El que tenga un contenido imposible.",
+    "El que se dicte prescindiendo parcialmente del procedimiento.",
+    "El que lesione un derecho susceptible de amparo."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 727 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 127,
+   "q": "¿Cuál de las siguientes características es predicable de los actos anulables?",
+   "options": [
+    "No producen efectos.",
+    "Sólo afecta a los interesados.",
+    "No puede ser convalidado.",
+    "Producen ineficacia por sí mismos."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 728 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 128,
+   "q": "¿Cuál de las siguientes características no es predicable de los actos nulos?",
+   "options": [
+    "No producen efectos.",
+    "Sólo afecta a los interesados.",
+    "No puede ser convalidado.",
+    "Producen ineficacia por sí mismos."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 729 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 129,
+   "q": "Las actuaciones administrativas realizadas fuera de plazo ¿invalidan el acto que se dicte?",
+   "options": [
+    "Sí, en cualquier caso.",
+    "No, en ningún caso.",
+    "Sólo si provocan indefensión.",
+    "Sólo si el término es esencial."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 730 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 130,
+   "q": "¿En qué artículo de la Ley 30/1992, de 26 de noviembre, se establecen los supuestos de convalidación de un acto administrativo?",
+   "options": [
+    "En el artículo 68.",
+    "En el artículo 63.",
+    "En el artículo 61.",
+    "En el artículo 67."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 731 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 131,
+   "q": "¿En qué artículo de la Ley 30/ 1992,de 26 de noviembre, se establece la regulación de la declaración de lesividad de los actos anulables?",
+   "options": [
+    "En el artículo 116.",
+    "En el artículo 106.",
+    "En el artículo 108.",
+    "En el artículo 103."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 732 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 132,
+   "q": "¿Cuál es el plazo del que dispone la Administración para declarar de oficio, la nulidad de los actos que dicte?",
+   "options": [
+    "Un año.",
+    "Dos años.",
+    "No existe plazo alguno.",
+    "Cinco años."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 733 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 133,
+   "q": "¿Cuál es el plazo de caducidad de un procedimiento de revisión de actos nulos?",
+   "options": [
+    "Dos meses.",
+    "Un mes.",
+    "Tres meses.",
+    "Quince días."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 734 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 134,
+   "q": "¿Cuál es el plazo de caducidad de un procedimiento de declaración de lesividad de actos anulables?",
+   "options": [
+    "Dos meses.",
+    "Un mes.",
+    "Tres meses.",
+    "Quince días."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 735 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 135,
+   "q": "¿Qué órgano es competente para revisar de oficio los actos dictados por un órgano dependiente de una Secretaría de Estado?",
+   "options": [
+    "El Secretario de Estado.",
+    "El Ministro del Departamento correspondiente.",
+    "El Consejo de Ministros.",
+    "El Presidente del Gobierno."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 736 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 136,
+   "q": "¿Pueden revocarse actos de gravamen por parte de la Administración?",
+   "options": [
+    "No, en ningún caso.",
+    "Sí, en cualquier momento.",
+    "Sí, pero siempre que no constituya dispensa de la ley o sea contraria al principio de igualdad, al interés público o al ordenamiento jurídico.",
+    "Sólo por el órgano superior al que lo dictó."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 737 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 137,
+   "q": "¿Cuándo puede solicitarse la revisión de errores materiales de un acto administrativo?",
+   "options": [
+    "En cualquier momento.",
+    "En el plazo de diez días desde que fuera dictado.",
+    "En el plazo de un mes desde que fuera dictado.",
+    "En el plazo de un año desde que fuera dictado."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 738 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 138,
+   "q": "¿Cuándo puede solicitarse la revisión de errores de hecho de un acto administrativo?",
+   "options": [
+    "En cualquier momento.",
+    "En el plazo de diez días desde que fuera dictado.",
+    "En el plazo de un mes desde que fuera dictado.",
+    "En el plazo de un año desde que fuera dictado."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 739 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 139,
+   "q": "¿En qué artículo de la Ley 30/ 1992,de 26 de noviembre, se establecen las causas de abstención de las autoridades y funcionarios en un procedimiento administrativo?",
+   "options": [
+    "En el artículo 26.",
+    "En el artículo 21.",
+    "En el artículo 28.",
+    "En el artículo 23."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 740 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 140,
+   "q": "¿En qué artículo de la Ley 30/ 1992, de 26 de noviembre, se establecen las causas de recusación de las autoridades y funcionarios en un procedimiento administrativo?",
+   "options": [
+    "En el artículo 26.",
+    "En el artículo 21.",
+    "En el artículo 28.",
+    "En el artículo 23."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 741 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 141,
+   "q": "¿Cuál de las siguientes no se considera causa de abstención en el procedimiento administrativo?",
+   "options": [
+    "Haber tenido intervención como perito en el procedimiento.",
+    "Haber mantenido relación de servicios con una persona interesada en el año anterior inmediato al inicio del procedimiento.",
+    "Tener parentesco de afinidad de tercer grado con un interesado en el procedimiento.",
+    "Tener parentesco de consanguinidad de cuarto grado con un interesado en el procedimiento."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 742 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 142,
+   "q": "¿Cuál de las siguientes no se considera causa de recusación en el procedimiento administrativo?",
+   "options": [
+    "Haber tenido intervención como perito en el procedimiento.",
+    "Haber mantenido relación de servicios con una persona interesada en el año anterior inmediato al inicio del procedimiento.",
+    "Tener parentesco de afinidad de tercer grado con un interesado en el procedimiento.",
+    "Tener parentesco de consanguinidad de cuarto grado con un interesado en el procedimiento."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 743 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 143,
+   "q": "¿Cuál de las siguientes características no debe reunir el contenido de un acto?",
+   "options": [
+    "Lícito.",
+    "Posible.",
+    "Indeterminado.",
+    "Determinable."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 744 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 144,
+   "q": "¿Cuál de los siguientes actos del Ayuntamiento, como regla general, agota la vía administrativa?",
+   "options": [
+    "Un acto dictado por el Alcalde.",
+    "Un acto dictado por el Pleno.",
+    "Un acto dictado por la Comisión de Gobierno.",
+    "Un acto dictado por los Tenientes de Alcalde."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 745 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 145,
+   "q": "¿Qué actos dictados por un Director General de un Ministerio agotan la vía administrativa?",
+   "options": [
+    "Los dictados en materia de gestión presupuestaria.",
+    "Los dictados en materia de autorización presupuestaria.",
+    "Los dictados en materia de personal.",
+    "Los dictados en materia organizativa."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 746 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 146,
+   "q": "¿Debe motivarse un acto administrativo que se separe del criterio administrativo precedente?",
+   "options": [
+    "En ningún caso.",
+    "Siempre.",
+    "Siempre que medie orden de un superior jerárquico.",
+    "Sólo si lo solicita expresamente el interesado."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 747 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 147,
+   "q": "¿Cómo deben motivarse los actos que pongan fin a un procedimiento selectivo?",
+   "options": [
+    "Siempre por escrito.",
+    "De manera individualizada.",
+    "En la forma que establezcan las normas que regulen su convocatoria.",
+    "En el tablón de anuncios del órgano convocante."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 748 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 148,
+   "q": "¿Cuándo deben notificarse a los interesados un acto administrativo?",
+   "options": [
+    "Cuando afecte a sus intereses.",
+    "Cuando se produzca sea de la clase que sea.",
+    "Cuando lo solicite por escrito.",
+    "Cuando lo indique en la solicitud de iniciación del procedimiento."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 749 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  },
+  {
+   "indice": 149,
+   "q": "¿Cómo se denomina el elemento del acto administrativo que es la razón justificadora del mismo?",
+   "options": [
+    "Elemento formal.",
+    "Elemento causal.",
+    "Elemento objetivo.",
+    "Elemento subjetivo. Tema Nº 16. El Procedimiento Administrativo."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 750 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."
+  }
+ ]
+}
