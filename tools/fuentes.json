@@ -162,6 +162,32 @@
         "CONTEXTO: el tema 1 se depuró dos veces (12-ago-2026 y 17-ago-2026) y después se retiró todo el material del banco original que no citaba artículo (data/reserva/tema1-banco-original-sin-verificar.json). Las 93 preguntas que quedan citan el precepto en la explicación y están verificadas contra el consolidado del BOE. Todo lo que se añada tiene que citar artículo y apartado exactos.",
         "DATO CON FECHA DE CADUCIDAD, comprobado el 19-ago-2026 en la ficha del consolidado: la Constitución se ha reformado CUATRO veces, no tres. Modificación publicada el 28/08/1992 (art. 13.2, derecho de sufragio pasivo de extranjeros), el 27/09/2011 (art. 135, estabilidad presupuestaria), el 17/02/2024 (art. 49, personas con discapacidad) y el 20/05/2026 (art. 69.3, por la Reforma de 19 de mayo de 2026, Ref. BOE-A-2026-10881: crea circunscripciones electorales separadas para Ibiza y Formentera, con eficacia pospuesta hasta la convocatoria de las primeras elecciones al Senado posteriores a su entrada en vigor, según su disposición transitoria única). Si se pregunta por el número de reformas o por la última, hay que releer la ficha del consolidado, no fiarse de este apunte ni de la memoria. Comprobado que ninguna pregunta de ningún banco afirma un número de reformas, y que las dos preguntas sobre el art. 69 CE (Policía Nacional, tema 2) van del 69.1 y del 69.2, que la reforma no toca."
       ]
+    },
+    "_identificadores_boe": {
+      "_nota": "Identificadores del consolidado, comprobados uno a uno el 19-ago-2026 descargando cada norma y leyendo su propia ficha. No fiarse de la memoria para estos: dos de los que yo di por buenos estaban mal (ver abajo).",
+      "CE": "BOE-A-1978-31229",
+      "LBRL Ley 7/1985": "BOE-A-1985-5392",
+      "TRRL RDLeg 781/1986": "BOE-A-1986-9865",
+      "RBEL RD 1372/1986": "BOE-A-1986-17958",
+      "RPDT RD 1690/1986": "BOE-A-1986-21944",
+      "ROF RD 2568/1986": "BOE-A-1986-33252",
+      "LPAP Ley 33/2003": "BOE-A-2003-20254",
+      "TRLRHL RDLeg 2/2004": "BOE-A-2004-4214",
+      "LOIEMH LO 3/2007": "BOE-A-2007-6115",
+      "Ley 4/2007 Aragón (violencia)": "BOE-A-2007-11593",
+      "EAAr LO 5/2007": "BOE-A-2007-8444",
+      "Ley 19/2013 transparencia": "BOE-A-2013-12887",
+      "RD 365/1995 situaciones administrativas": "BOE-A-1995-8730",
+      "LPAC Ley 39/2015": "BOE-A-2015-10565",
+      "LRJSP Ley 40/2015": "BOE-A-2015-10566",
+      "TREBEP RDLeg 5/2015": "BOE-A-2015-11719",
+      "LCSP Ley 9/2017": "BOE-A-2017-12902",
+      "Ley 10/2017 capitalidad de Zaragoza": "BOE-A-2018-1683",
+      "LOPDGDD LO 3/2018": "BOE-A-2018-16673",
+      "TRLUA DLeg 1/2014 Aragón": "BOA-d-2014-90410",
+      "_errores_corregidos": "BOE-A-1986-19271 NO es el RBEL (es una resolución de la Universidad Complutense) y BOE-A-1986-21606 NO es el RPDT; los dos los di yo por buenos de memoria y act.php devuelve 302 con ellos. Los buenos son 17958 y 21944.",
+      "_como_encontrar_uno_nuevo": "La vía fiable es la URL ELI con el sufijo /con: https://www.boe.es/eli/es/<tipo>/<año>/<mes>/<día>/<número>/con — por ejemplo /es/rd/1986/07/11/1690/con devuelve el RPDT con su identificador real en la ficha. Sin /con se sirve el texto ORIGINAL, no el consolidado.",
+      "_rubricas_de_articulo": "Las normas de los años ochenta (TRRL, RPDT) rotulan «Art 74.» y no «Artículo 74.», así que un grep de 'Artículo N' no encuentra nada en ellas."
     }
   },
   "policia-local-zaragoza": {

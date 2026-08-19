@@ -48262,3 +48262,97 @@ window.addQuestions('aux-admin-zaragoza', 20, [
     "confianza": "alta"
   }
 ]);
+
+/* Reubicadas en la auditoría del banco original del 19-ago-2026: correctas
+   y dentro del temario de la oposición, pero pertenecen a otro tema. Llevan
+   ya la cita verificada contra el consolidado del BOE. */
+window.addQuestions("aux-admin-zaragoza", 5, [
+  {
+    "q": "¿Cuál de las siguientes no se considera causa de abstención en el procedimiento administrativo?",
+    "options": [
+      "Haber tenido intervención como perito en el procedimiento.",
+      "Haber mantenido relación de servicios con una persona interesada en el año anterior inmediato al inicio del procedimiento.",
+      "Tener parentesco de afinidad de tercer grado con un interesado en el procedimiento.",
+      "Tener parentesco de consanguinidad de cuarto grado con un interesado en el procedimiento."
+    ],
+    "correct": 2,
+    "exp": "Art. 23.2 LRJSP (consolidado BOE-A-2015-10566): la afinidad solo alcanza al SEGUNDO grado, luego el tercer grado de afinidad no es causa de abstención; si lo son el cuarto grado de consanguinidad (23.2 b), la intervención como perito (23.2 d) y la relación de servicios (23.2 e). Correcta, pero abstención es tema 5. (Procedía del tema 6 del banco original; reubicada aquí en la auditoría del 19-ago-2026.)",
+    "fuente": "Art. 23.2 b) LRJSP (Ley 40/2015)"
+  },
+  {
+    "q": "¿Cuál de las siguientes no se considera causa de recusación en el procedimiento administrativo?",
+    "options": [
+      "Haber tenido intervención como perito en el procedimiento.",
+      "Haber mantenido relación de servicios con una persona interesada en el año anterior inmediato al inicio del procedimiento.",
+      "Tener parentesco de afinidad de tercer grado con un interesado en el procedimiento.",
+      "Tener parentesco de consanguinidad de cuarto grado con un interesado en el procedimiento."
+    ],
+    "correct": 2,
+    "exp": "Art. 24.1 LRJSP: la recusación procede 'en los casos previstos en el artículo anterior', luego las causas son las del art. 23.2, donde la afinidad se limita al segundo grado. Correcta, pero recusación es tema 5. (Procedía del tema 6 del banco original; reubicada aquí en la auditoría del 19-ago-2026.)",
+    "fuente": "Art. 24.1 en relacion con el art. 23.2 b) LRJSP (Ley 40/2015)"
+  }
+]);
+
+window.addQuestions("aux-admin-zaragoza", 8, [
+  {
+    "q": "¿Cuál de los siguientes actos es impugnable?",
+    "options": [
+      "Un acto firme.",
+      "Un acto que reproduce el contenido de otro anterior definitivo y firme.",
+      "Un acto confirmatorio de un acuerdo no recurrido en tiempo y forma.",
+      "Un acto definitivo."
+    ],
+    "correct": 3,
+    "exp": "Art. 112.1 LPAC: contra las resoluciones (actos definitivos) cabe recurso; los actos firmes, los reproductorios de otros definitivos y firmes y los confirmatorios de acuerdos no recurridos en plazo no son impugnables. Correcta, pero es materia de recursos administrativos (tema 8). (Procedía del tema 6 del banco original; reubicada aquí en la auditoría del 19-ago-2026.)",
+    "fuente": "Art. 112.1 LPAC (Ley 39/2015)"
+  },
+  {
+    "q": "¿Cuál es el plazo del que dispone la Administración para declarar de oficio, la nulidad de los actos que dicte?",
+    "options": [
+      "Un año.",
+      "Dos años.",
+      "No existe plazo alguno.",
+      "Cinco años."
+    ],
+    "correct": 2,
+    "exp": "Art. 106.1 LPAC: las Administraciones declararán de oficio la nulidad 'en cualquier momento', sin plazo. Correcta, pero es revisión de oficio (tema 8). (Procedía del tema 6 del banco original; reubicada aquí en la auditoría del 19-ago-2026.)",
+    "fuente": "Art. 106.1 LPAC (Ley 39/2015)"
+  },
+  {
+    "q": "¿Pueden revocarse actos de gravamen por parte de la Administración?",
+    "options": [
+      "No, en ningún caso.",
+      "Sí, en cualquier momento.",
+      "Sí, pero siempre que no constituya dispensa de la ley o sea contraria al principio de igualdad, al interés público o al ordenamiento jurídico.",
+      "Sólo por el órgano superior al que lo dictó."
+    ],
+    "correct": 2,
+    "exp": "Art. 109.1 LPAC: cabe revocar los actos de gravamen mientras no haya prescrito, siempre que la revocación no constituya dispensa o exención no permitida ni sea contraria al principio de igualdad, al interés público o al ordenamiento jurídico. Correcta, pero la revocación es tema 8. (Procedía del tema 6 del banco original; reubicada aquí en la auditoría del 19-ago-2026.)",
+    "fuente": "Art. 109.1 LPAC (Ley 39/2015)"
+  },
+  {
+    "q": "¿Cuándo puede solicitarse la revisión de errores materiales de un acto administrativo?",
+    "options": [
+      "En cualquier momento.",
+      "En el plazo de diez días desde que fuera dictado.",
+      "En el plazo de un mes desde que fuera dictado.",
+      "En el plazo de un año desde que fuera dictado."
+    ],
+    "correct": 0,
+    "exp": "Art. 109.2 LPAC: la Administración puede rectificar 'en cualquier momento' los errores materiales, de hecho o aritméticos. Correcta, pero es rectificación de errores (tema 8). (Procedía del tema 6 del banco original; reubicada aquí en la auditoría del 19-ago-2026.)",
+    "fuente": "Art. 109.2 LPAC (Ley 39/2015)"
+  },
+  {
+    "q": "¿Cuándo puede solicitarse la revisión de errores de hecho de un acto administrativo?",
+    "options": [
+      "En cualquier momento.",
+      "En el plazo de diez días desde que fuera dictado.",
+      "En el plazo de un mes desde que fuera dictado.",
+      "En el plazo de un año desde que fuera dictado."
+    ],
+    "correct": 0,
+    "exp": "Art. 109.2 LPAC: los errores de hecho son rectificables en cualquier momento. Correcta, pero es tema 8; prácticamente idéntica a la pregunta anterior sobre errores materiales. (Procedía del tema 6 del banco original; reubicada aquí en la auditoría del 19-ago-2026.)",
+    "fuente": "Art. 109.2 LPAC (Ley 39/2015)"
+  }
+]);
+

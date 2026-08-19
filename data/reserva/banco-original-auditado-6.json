@@ -1,0 +1,324 @@
+{
+ "no_verificable_o_defectuosa": [
+  {
+   "q": "¿Cuál de las siguientes clases de actos no existe?",
+   "options": [
+    "Actos simples.",
+    "Actos complejos.",
+    "Actos administrativos privados.",
+    "Actos firmes."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 702 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "motivoArchivo": "Clasificación puramente doctrinal (actos simples/complejos/firmes) que no aparece en ningún artículo de la LPAC: sin precepto que la respalde no es verificable.",
+   "temaOrigen": 6
+  },
+  {
+   "q": "¿Qué es un acto constitutivo?",
+   "options": [
+    "El que no decide sobre el fondo del asunto ni da lugar a la terminación del expediente sino que prepara la decisión final.",
+    "El que agota la vía administrativa en vía de recurso.",
+    "El que causa estado.",
+    "El que crea una relación jurídica."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 704 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "motivoArchivo": "Definición doctrinal de 'acto constitutivo' sin apoyo en ningún artículo de la LPAC.",
+   "temaOrigen": 6
+  },
+  {
+   "q": "¿Cómo se denomina el elemento del acto administrativo que es la razón justificadora del mismo?",
+   "options": [
+    "Elemento formal.",
+    "Elemento causal.",
+    "Elemento objetivo.",
+    "Elemento subjetivo. Tema Nº 16. El Procedimiento Administrativo."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 750 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "motivoArchivo": "Definición doctrinal (elemento causal) sin apoyo en ningún artículo de la LPAC, y una de las opciones arrastra texto corrupto del banco de origen ('Tema N.º 16. El Procedimiento Administrativo').",
+   "temaOrigen": 6
+  }
+ ],
+ "respuesta_marcada_incorrecta": [
+  {
+   "q": "¿Qué entendemos por acto firme?",
+   "options": [
+    "Es el que no se puede recurrir.",
+    "Es el que pone fin al procedimiento administrativo.",
+    "Es el dictado por la Administración en vía de recurso exclusivamente.",
+    "El dictado al inicio del procedimiento."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 705 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "motivoArchivo": "La respuesta marcada ('es el que no se puede recurrir') es imprecisa: contra los actos firmes en vía administrativa si cabe el recurso extraordinario de revisión (art. 113 LPAC).",
+   "temaOrigen": 6
+  },
+  {
+   "q": "¿Cuál de los siguientes actos administrativos no es impugnable?",
+   "options": [
+    "Un acto definitivo.",
+    "Un acto de trámite que decida sobre el fondo del asunto.",
+    "Un acto de trámite que provoque indefensión.",
+    "Un acto que no ponga fin a la vía administrativa en determinados casos."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 707 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "motivoArchivo": "La respuesta marcada es incorrecta: un acto que no pone fin a la vía administrativa si es impugnable (recurso de alzada, arts. 112.1 y 121 LPAC); segun el art. 112.1 los no impugnables son 'los restantes actos de trámite'.",
+   "temaOrigen": 6
+  },
+  {
+   "q": "¿Cuál de los siguientes elementos no conforma un acto administrativo?",
+   "options": [
+    "El fin.",
+    "La forma.",
+    "El sujeto.",
+    "El contenido."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 711 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "motivoArchivo": "La respuesta marcada es incorrecta: el contenido SI es un elemento del acto administrativo, expresamente regulado en el art. 34.2 LPAC ('el contenido de los actos... será determinado y adecuado a los fines').",
+   "temaOrigen": 6
+  },
+  {
+   "q": "¿Cuál de los siguientes actos del Ayuntamiento, como regla general, agota la vía administrativa?",
+   "options": [
+    "Un acto dictado por el Alcalde.",
+    "Un acto dictado por el Pleno.",
+    "Un acto dictado por la Comisión de Gobierno.",
+    "Un acto dictado por los Tenientes de Alcalde."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 745 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "motivoArchivo": "La respuesta marcada es incorrecta: como regla general agotan la vía administrativa los actos del Alcalde, del Pleno y de la Junta de Gobierno (órganos sin superior jerarquico, art. 114.1 c) LPAC y art. 52.2 LBRL), no los de los Tenientes de Alcalde; ademas menciona la extinta 'Comisión de Gobierno' y es materia de recursos/regimen local.",
+   "temaOrigen": 6
+  }
+ ],
+ "ley_30_1992_derogada": [
+  {
+   "q": "¿Qué artículo de la ley 30/ 1992, de 26 de noviembre, establece los actos que ponen fin a la vía administrativa?",
+   "options": [
+    "El 108.",
+    "El 107.",
+    "El 109.",
+    "El 110."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 708 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "motivoArchivo": "Pregunta por un artículo (109) de la Ley 30/1992, derogada por la Ley 39/2015 desde el 2-10-2016.",
+   "temaOrigen": 6
+  },
+  {
+   "q": "¿Qué artículo de la Ley 30/ 1992, de 26 de noviembre, establece los casos en los que debe motivarse un acto administrativo?",
+   "options": [
+    "El artículo 53.",
+    "El artículo 54.",
+    "El artículo 55.",
+    "El artículo 56."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 712 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "motivoArchivo": "Pregunta por un artículo (54) de la Ley 30/1992, derogada por la Ley 39/2015 desde el 2-10-2016.",
+   "temaOrigen": 6
+  },
+  {
+   "q": "¿Qué artículo de la Ley 30/ 1992, de 26 de noviembre, establece los casos en los que debe notificarse un acto administrativo?",
+   "options": [
+    "El artículo 58.",
+    "El artículo 53.",
+    "El artículo 52.",
+    "El artículo 59."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 714 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "motivoArchivo": "Pregunta por un artículo (58) de la Ley 30/1992, derogada por la Ley 39/2015 desde el 2-10-2016.",
+   "temaOrigen": 6
+  },
+  {
+   "q": "¿Qué artículo de la Ley 30/ 1992, de 26 de noviembre, establece la regulación de las notificaciones personales de un acto administrativo?",
+   "options": [
+    "El artículo 53.2.",
+    "El artículo 54.4.",
+    "El artículo 55.2.",
+    "El artículo 59."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 716 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "motivoArchivo": "Pregunta por un artículo (59) de la Ley 30/1992, derogada por la Ley 39/2015 desde el 2-10-2016.",
+   "temaOrigen": 6
+  },
+  {
+   "q": "¿En qué artículo de la Ley 30/ 1992,de 26 de noviembre, se establecen los supuestos en los que queda demorada la eficacia de un acto administrativo?",
+   "options": [
+    "En el artículo 56.",
+    "En el artículo 57.",
+    "En el artículo 58.",
+    "En el artículo 59."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 723 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "motivoArchivo": "Pregunta por un artículo (57) de la Ley 30/1992, derogada por la Ley 39/2015 desde el 2-10-2016.",
+   "temaOrigen": 6
+  },
+  {
+   "q": "¿En qué artículo de la Ley 30/ 1992,de 26 de noviembre, se establecen los supuestos de anulabilidad de un acto administrativo?",
+   "options": [
+    "En el artículo 66.",
+    "En el artículo 62.",
+    "En el artículo 63.",
+    "En el artículo 69."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 724 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "motivoArchivo": "Pregunta por un artículo (63) de la Ley 30/1992, derogada por la Ley 39/2015 desde el 2-10-2016.",
+   "temaOrigen": 6
+  },
+  {
+   "q": "¿En qué artículo de la Ley 30/ 1992,de 26 de noviembre, se establecen los supuestos de nulidad de un acto administrativo?",
+   "options": [
+    "En el artículo 62.",
+    "En el artículo 63.",
+    "En el artículo 64.",
+    "En el artículo 69."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 725 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "motivoArchivo": "Pregunta por un artículo (62) de la Ley 30/1992, derogada por la Ley 39/2015 desde el 2-10-2016.",
+   "temaOrigen": 6
+  },
+  {
+   "q": "¿En qué artículo de la Ley 30/1992, de 26 de noviembre, se establecen los supuestos de convalidación de un acto administrativo?",
+   "options": [
+    "En el artículo 68.",
+    "En el artículo 63.",
+    "En el artículo 61.",
+    "En el artículo 67."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 731 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "motivoArchivo": "Pregunta por un artículo (67) de la Ley 30/1992, derogada por la Ley 39/2015 desde el 2-10-2016.",
+   "temaOrigen": 6
+  },
+  {
+   "q": "¿En qué artículo de la Ley 30/ 1992,de 26 de noviembre, se establece la regulación de la declaración de lesividad de los actos anulables?",
+   "options": [
+    "En el artículo 116.",
+    "En el artículo 106.",
+    "En el artículo 108.",
+    "En el artículo 103."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 732 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "motivoArchivo": "Pregunta por un artículo (103) de la Ley 30/1992, derogada por la Ley 39/2015 desde el 2-10-2016 (y ademas la declaración de lesividad es materia del tema 8).",
+   "temaOrigen": 6
+  },
+  {
+   "q": "¿Cuál es el plazo de caducidad de un procedimiento de revisión de actos nulos?",
+   "options": [
+    "Dos meses.",
+    "Un mes.",
+    "Tres meses.",
+    "Quince días."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 734 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "motivoArchivo": "La respuesta marcada (tres meses) es incorrecta bajo la LPAC: el art. 106.5 fija en SEIS MESES la caducidad del procedimiento de revisión de oficio iniciado de oficio; el plazo de tres meses era el del art. 102.5 de la derogada Ley 30/1992 y no figura entre las opciones.",
+   "temaOrigen": 6
+  },
+  {
+   "q": "¿Cuál es el plazo de caducidad de un procedimiento de declaración de lesividad de actos anulables?",
+   "options": [
+    "Dos meses.",
+    "Un mes.",
+    "Tres meses.",
+    "Quince días."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 735 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "motivoArchivo": "La respuesta marcada (tres meses) es incorrecta bajo la LPAC: el art. 107.3 fija en SEIS MESES la caducidad del procedimiento de declaración de lesividad; el dato de tres meses procede de la derogada Ley 30/1992 y la opción correcta no existe entre las cuatro.",
+   "temaOrigen": 6
+  },
+  {
+   "q": "¿En qué artículo de la Ley 30/ 1992,de 26 de noviembre, se establecen las causas de abstención de las autoridades y funcionarios en un procedimiento administrativo?",
+   "options": [
+    "En el artículo 26.",
+    "En el artículo 21.",
+    "En el artículo 28.",
+    "En el artículo 23."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 740 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "motivoArchivo": "Pregunta por un artículo (28) de la Ley 30/1992, derogada por la Ley 39/2015 desde el 2-10-2016.",
+   "temaOrigen": 6
+  },
+  {
+   "q": "¿En qué artículo de la Ley 30/ 1992, de 26 de noviembre, se establecen las causas de recusación de las autoridades y funcionarios en un procedimiento administrativo?",
+   "options": [
+    "En el artículo 26.",
+    "En el artículo 21.",
+    "En el artículo 28.",
+    "En el artículo 23."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 741 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "motivoArchivo": "Pregunta por un artículo de la Ley 30/1992, derogada por la Ley 39/2015 desde el 2-10-2016 (y la clave marcada, el art. 28, era la abstención, no la recusación).",
+   "temaOrigen": 6
+  }
+ ],
+ "otros": [
+  {
+   "q": "¿Debe notificarse un acto de trámite?",
+   "options": [
+    "Sí, en cualquier caso.",
+    "No.",
+    "Sólo si lo solicita el interesado.",
+    "Sólo si se da una causa de fuerza mayor."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 715 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "motivoArchivo": "La respuesta categórica 'No' no se sostiene en la LPAC: el art. 40.1 obliga a notificar las resoluciones y actos administrativos a los interesados cuyos derechos e intereses sean afectados, sin excluir los actos de trámite.",
+   "temaOrigen": 6
+  },
+  {
+   "q": "¿Cuál de los siguientes actos es anulable?",
+   "options": [
+    "El que incurra en desviación de poder.",
+    "El que tenga un contenido imposible.",
+    "El que se dicte prescindiendo parcialmente del procedimiento.",
+    "El que lesione un derecho susceptible de amparo."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 727 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "motivoArchivo": "La pregunta admite dos respuestas: junto a la desviación de poder (art. 48.1), el acto dictado prescindiendo PARCIALMENTE del procedimiento es también anulable (solo la omisión total y absoluta es nulidad, art. 47.1 e).",
+   "temaOrigen": 6
+  }
+ ],
+ "fuera_del_temario": [
+  {
+   "q": "¿Qué órgano es competente para revisar de oficio los actos dictados por un órgano dependiente de una Secretaría de Estado?",
+   "options": [
+    "El Secretario de Estado.",
+    "El Ministro del Departamento correspondiente.",
+    "El Consejo de Ministros.",
+    "El Presidente del Gobierno."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 736 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "motivoArchivo": "Fuera del temario: competencia de órganos de la Administración General del Estado (Secretarías de Estado) para la revisión de oficio.",
+   "temaOrigen": 6
+  },
+  {
+   "q": "¿Qué actos dictados por un Director General de un Ministerio agotan la vía administrativa?",
+   "options": [
+    "Los dictados en materia de gestión presupuestaria.",
+    "Los dictados en materia de autorización presupuestaria.",
+    "Los dictados en materia de personal.",
+    "Los dictados en materia organizativa."
+   ],
+   "correct": 2,
+   "exp": "Pregunta 746 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "motivoArchivo": "Fuera del temario: fin de la vía administrativa en la Administración General del Estado (actos de un Director General de un Ministerio).",
+   "temaOrigen": 6
+  }
+ ]
+}

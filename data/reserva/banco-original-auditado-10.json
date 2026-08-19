@@ -1,0 +1,58 @@
+{
+ "respuesta_marcada_incorrecta": [
+  {
+   "q": "¿Qué título de la ley 7/ 1985, de 2 de abril, está dedicado a la regulación de los bienes de las entidades locales?",
+   "options": [
+    "El Título III.",
+    "El Título IV.",
+    "El Título V.",
+    "El Título VI."
+   ],
+   "correct": 1,
+   "exp": "Pregunta 953 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "motivoArchivo": "Respuesta marcada incorrecta: los bienes se regulan en el Título VI de la LBRL, no en el Título IV.",
+   "temaOrigen": 10
+  },
+  {
+   "q": "¿Cuál de los siguientes bienes no se considera de servicio público?",
+   "options": [
+    "Un puente.",
+    "Un.",
+    "Una fuente.",
+    "La sede del Ayuntamiento."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 958 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "motivoArchivo": "Respuesta marcada incorrecta: la sede del Ayuntamiento (Casa Consistorial) SÍ es bien de servicio público (art. 4 RBEL); además la opción 2 está truncada ('Un.').",
+   "temaOrigen": 10
+  },
+  {
+   "q": "¿Cómo se denomina el uso que corresponde por igual a todos los ciudadanos indistintamente, de modo que el uso de unos no impida el de los demás interesados, pero en el que concurren circunstancias singulares?",
+   "options": [
+    "Uso común general.",
+    "Uso común especial.",
+    "Uso privativo.",
+    "Uso normal."
+   ],
+   "correct": 0,
+   "exp": "Pregunta 987 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "motivoArchivo": "Respuesta marcada incorrecta: si concurren circunstancias singulares el uso común es ESPECIAL, no general (art. 75.1 RBEL).",
+   "temaOrigen": 10
+  }
+ ],
+ "otros": [
+  {
+   "q": "¿Quién debe autorizar la adjudicación del disfrute de un bien comunal por un precio?",
+   "options": [
+    "El Alcalde.",
+    "El Secretario de la Corporación local.",
+    "El Pleno de la Entidad local.",
+    "La Comunidad Autónoma respectiva. Tema Nº 21. Haciendas Locales."
+   ],
+   "correct": 3,
+   "exp": "Pregunta 1000 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "motivoArchivo": "Opción correcta con texto corrupto arrastrado del banco original ('La Comunidad Autónoma respectiva. Tema Nº 21. Haciendas Locales.'), que además la delata; necesita reredacción antes de estudiarse.",
+   "temaOrigen": 10
+  }
+ ]
+}

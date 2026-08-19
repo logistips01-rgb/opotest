@@ -1655,56 +1655,234 @@ const QUESTIONS = {
   {q:"Según el art. 40.2, entre los elementos que debe contener toda notificación se incluye la indicación de si el acto:",options:["Pone fin o no a la vía administrativa","Ha sido revisado por un superior jerárquico","Fue dictado en jornada laborable","Fue notificado por correo certificado"],correct:0,exp:"Art. 40.2 exige que la notificación contenga 'indicación de si pone fin o no a la vía administrativa'."},
   {q:"Según el art. 41.1, las notificaciones practicadas por cualquier medio deben permitir constancia de la identidad fidedigna de:",options:["El remitente y el destinatario de la notificación","Únicamente el destinatario","Únicamente el remitente","El notario que las autoriza"],correct:0,exp:"Art. 41.1: '...permitan tener constancia... de la identidad fidedigna del remitente y destinatario de la misma.'"},
   {q:"Según el art. 39.4, ¿deben los órganos administrativos observar los actos dictados por otros órganos aunque pertenezcan a otra Administración distinta?",options:["Sí, siempre que se hayan dictado en el ejercicio de su propia competencia","No, solo se observan los actos de la misma Administración","Solo si existe un convenio de colaboración previo","Solo si el acto ha sido publicado en el BOE"],correct:0,exp:"Art. 39.4: las normas y actos dictados por los órganos de las AAPP en el ejercicio de su propia competencia deben ser observados por el resto de órganos, 'aunque no dependan jerárquicamente entre sí o pertenezcan a otra Administración'."},
-  {q:"¿Cuál de los siguientes es un requisito imprescindible para que nos encontremos ante una acto administrativo?",options:["Que sea dictado por una administración pública.","Que contenga una resolución definitiva.","Que afecte a los ciudadanos.","Que contenga disposiciones sancionadoras."],correct:0,exp:"Pregunta 701 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cuál de las siguientes clases de actos no existe?",options:["Actos simples.","Actos complejos.","Actos administrativos privados.","Actos firmes."],correct:2,exp:"Pregunta 702 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Qué es un acto de trámite?",options:["El que no decide sobre el fondo del asunto ni da lugar a la terminación del expediente sino que prepara la decisión final.","El que agota la vía administrativa en vía de recurso.","El que causa estado.","El que crea una relación jurídica."],correct:0,exp:"Pregunta 703 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Qué es un acto constitutivo?",options:["El que no decide sobre el fondo del asunto ni da lugar a la terminación del expediente sino que prepara la decisión final.","El que agota la vía administrativa en vía de recurso.","El que causa estado.","El que crea una relación jurídica."],correct:3,exp:"Pregunta 704 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Qué entendemos por acto firme?",options:["Es el que no se puede recurrir.","Es el que pone fin al procedimiento administrativo.","Es el dictado por la Administración en vía de recurso exclusivamente.","El dictado al inicio del procedimiento."],correct:0,exp:"Pregunta 705 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Qué es un acto definitivo?",options:["Es el que no se puede recurrir.","Es el que pone fin al procedimiento administrativo.","Es el dictado por la Administración en vía de recurso exclusivamente.","El dictado al inicio del procedimiento."],correct:1,exp:"Pregunta 706 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cuál de los siguientes actos administrativos no es impugnable?",options:["Un acto definitivo.","Un acto de trámite que decida sobre el fondo del asunto.","Un acto de trámite que provoque indefensión.","Un acto que no ponga fin a la vía administrativa en determinados casos."],correct:3,exp:"Pregunta 707 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Qué artículo de la ley 30/ 1992, de 26 de noviembre, establece los actos que ponen fin a la vía administrativa?",options:["El 108.","El 107.","El 109.","El 110."],correct:2,exp:"Pregunta 708 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cuál de los siguientes actos es impugnable?",options:["Un acto firme.","Un acto que reproduce el contenido de otro anterior definitivo y firme.","Un acto confirmatorio de un acuerdo no recurrido en tiempo y forma.","Un acto definitivo."],correct:3,exp:"Pregunta 709 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Qué es un acto expreso?",options:["Un acto en el que se manifiesta la voluntad expresada por la Administración y normalmente en forma escrita.","Un acto que no se produce directamente por la Administración.","Cualquier acto que agote la vía administrativa.","Un acto firme."],correct:0,exp:"Pregunta 710 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cuál de los siguientes elementos no conforma un acto administrativo?",options:["El fin.","La forma.","El sujeto.","El contenido."],correct:3,exp:"Pregunta 711 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Qué artículo de la Ley 30/ 1992, de 26 de noviembre, establece los casos en los que debe motivarse un acto administrativo?",options:["El artículo 53.","El artículo 54.","El artículo 55.","El artículo 56."],correct:1,exp:"Pregunta 712 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cuál de los siguientes actos no debe motivarse?",options:["Un acto que acuerde la aplicación del procedimiento de urgencia.","Un acto que acuerde la limitación de un interés legítimo.","Un acto que acuerde la aplicación del precedente administrativo.","Un acto que acuerde ampliar los plazos del procedimiento."],correct:2,exp:"Pregunta 713 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Qué artículo de la Ley 30/ 1992, de 26 de noviembre, establece los casos en los que debe notificarse un acto administrativo?",options:["El artículo 58.","El artículo 53.","El artículo 52.","El artículo 59."],correct:0,exp:"Pregunta 714 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Debe notificarse un acto de trámite?",options:["Sí, en cualquier caso.","No.","Sólo si lo solicita el interesado.","Sólo si se da una causa de fuerza mayor."],correct:1,exp:"Pregunta 715 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Qué artículo de la Ley 30/ 1992, de 26 de noviembre, establece la regulación de las notificaciones personales de un acto administrativo?",options:["El artículo 53.2.","El artículo 54.4.","El artículo 55.2.","El artículo 59."],correct:3,exp:"Pregunta 716 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Qué se debe hacer con la acreditación de una notificación?",options:["Incorporarla al expediente.","Remitirla al interesado.","Remitirla al registro correspondiente.","Notificarla al interesado inmediatamente."],correct:0,exp:"Pregunta 717 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cómo deben practicarse las notificaciones?",options:["Siempre por escrito.","De manera directa.","De manera indirecta.","De cualquier forma que permita tener constancia de su recepción."],correct:3,exp:"Pregunta 718 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"Si un interesado presenta una solicitud ¿dónde se realizarán las notificaciones?",options:["En el domicilio indicado en la misma.","En el domicilio que conste en el padrón municipal.","En el tablón de edictos del Ayuntamiento.","En la propia sede administrativa."],correct:0,exp:"Pregunta 719 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cuántas veces debe intentarse una notificación?",options:["Dos veces.","Una vez.","Tres veces.","Cuantas veces sea necesario."],correct:0,exp:"Pregunta 720 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cuál de los siguientes extremos es imprescindible que conste en una notificación?",options:["El texto íntegro del acto.","La fecha de inicio del expediente.","La fecha de terminación del procedimiento.","La identificación de la autoridad firmante."],correct:0,exp:"Pregunta 721 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Desde cuándo surten efectos los actos administrativos, como regla general?",options:["Desde el momento en que se dictan.","Desde el día siguiente al que sean dictados.","Desde que se notifiquen.","Desde el día en que se publiquen."],correct:0,exp:"Pregunta 722 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿En qué artículo de la Ley 30/ 1992,de 26 de noviembre, se establecen los supuestos en los que queda demorada la eficacia de un acto administrativo?",options:["En el artículo 56.","En el artículo 57.","En el artículo 58.","En el artículo 59."],correct:1,exp:"Pregunta 723 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿En qué artículo de la Ley 30/ 1992,de 26 de noviembre, se establecen los supuestos de anulabilidad de un acto administrativo?",options:["En el artículo 66.","En el artículo 62.","En el artículo 63.","En el artículo 69."],correct:2,exp:"Pregunta 724 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿En qué artículo de la Ley 30/ 1992,de 26 de noviembre, se establecen los supuestos de nulidad de un acto administrativo?",options:["En el artículo 62.","En el artículo 63.","En el artículo 64.","En el artículo 69."],correct:0,exp:"Pregunta 725 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cuál de los siguientes actos se considera nulo de pleno derecho?",options:["El que restrinja intereses legítimos.","El que tenga un contenido posible.","El que se dicte por un órgano incompetente por razón del territorio.","El que contenga un defecto de forma."],correct:2,exp:"Pregunta 726 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cuál de los siguientes actos es anulable?",options:["El que incurra en desviación de poder.","El que tenga un contenido imposible.","El que se dicte prescindiendo parcialmente del procedimiento.","El que lesione un derecho susceptible de amparo."],correct:0,exp:"Pregunta 727 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cuál de las siguientes características es predicable de los actos anulables?",options:["No producen efectos.","Sólo afecta a los interesados.","No puede ser convalidado.","Producen ineficacia por sí mismos."],correct:1,exp:"Pregunta 728 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cuál de las siguientes características no es predicable de los actos nulos?",options:["No producen efectos.","Sólo afecta a los interesados.","No puede ser convalidado.","Producen ineficacia por sí mismos."],correct:1,exp:"Pregunta 729 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"Las actuaciones administrativas realizadas fuera de plazo ¿invalidan el acto que se dicte?",options:["Sí, en cualquier caso.","No, en ningún caso.","Sólo si provocan indefensión.","Sólo si el término es esencial."],correct:3,exp:"Pregunta 730 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿En qué artículo de la Ley 30/1992, de 26 de noviembre, se establecen los supuestos de convalidación de un acto administrativo?",options:["En el artículo 68.","En el artículo 63.","En el artículo 61.","En el artículo 67."],correct:3,exp:"Pregunta 731 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿En qué artículo de la Ley 30/ 1992,de 26 de noviembre, se establece la regulación de la declaración de lesividad de los actos anulables?",options:["En el artículo 116.","En el artículo 106.","En el artículo 108.","En el artículo 103."],correct:3,exp:"Pregunta 732 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cuál es el plazo del que dispone la Administración para declarar de oficio, la nulidad de los actos que dicte?",options:["Un año.","Dos años.","No existe plazo alguno.","Cinco años."],correct:2,exp:"Pregunta 733 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cuál es el plazo de caducidad de un procedimiento de revisión de actos nulos?",options:["Dos meses.","Un mes.","Tres meses.","Quince días."],correct:2,exp:"Pregunta 734 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cuál es el plazo de caducidad de un procedimiento de declaración de lesividad de actos anulables?",options:["Dos meses.","Un mes.","Tres meses.","Quince días."],correct:2,exp:"Pregunta 735 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Qué órgano es competente para revisar de oficio los actos dictados por un órgano dependiente de una Secretaría de Estado?",options:["El Secretario de Estado.","El Ministro del Departamento correspondiente.","El Consejo de Ministros.","El Presidente del Gobierno."],correct:0,exp:"Pregunta 736 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Pueden revocarse actos de gravamen por parte de la Administración?",options:["No, en ningún caso.","Sí, en cualquier momento.","Sí, pero siempre que no constituya dispensa de la ley o sea contraria al principio de igualdad, al interés público o al ordenamiento jurídico.","Sólo por el órgano superior al que lo dictó."],correct:2,exp:"Pregunta 737 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cuándo puede solicitarse la revisión de errores materiales de un acto administrativo?",options:["En cualquier momento.","En el plazo de diez días desde que fuera dictado.","En el plazo de un mes desde que fuera dictado.","En el plazo de un año desde que fuera dictado."],correct:0,exp:"Pregunta 738 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cuándo puede solicitarse la revisión de errores de hecho de un acto administrativo?",options:["En cualquier momento.","En el plazo de diez días desde que fuera dictado.","En el plazo de un mes desde que fuera dictado.","En el plazo de un año desde que fuera dictado."],correct:0,exp:"Pregunta 739 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿En qué artículo de la Ley 30/ 1992,de 26 de noviembre, se establecen las causas de abstención de las autoridades y funcionarios en un procedimiento administrativo?",options:["En el artículo 26.","En el artículo 21.","En el artículo 28.","En el artículo 23."],correct:2,exp:"Pregunta 740 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿En qué artículo de la Ley 30/ 1992, de 26 de noviembre, se establecen las causas de recusación de las autoridades y funcionarios en un procedimiento administrativo?",options:["En el artículo 26.","En el artículo 21.","En el artículo 28.","En el artículo 23."],correct:2,exp:"Pregunta 741 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cuál de las siguientes no se considera causa de abstención en el procedimiento administrativo?",options:["Haber tenido intervención como perito en el procedimiento.","Haber mantenido relación de servicios con una persona interesada en el año anterior inmediato al inicio del procedimiento.","Tener parentesco de afinidad de tercer grado con un interesado en el procedimiento.","Tener parentesco de consanguinidad de cuarto grado con un interesado en el procedimiento."],correct:2,exp:"Pregunta 742 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cuál de las siguientes no se considera causa de recusación en el procedimiento administrativo?",options:["Haber tenido intervención como perito en el procedimiento.","Haber mantenido relación de servicios con una persona interesada en el año anterior inmediato al inicio del procedimiento.","Tener parentesco de afinidad de tercer grado con un interesado en el procedimiento.","Tener parentesco de consanguinidad de cuarto grado con un interesado en el procedimiento."],correct:2,exp:"Pregunta 743 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cuál de las siguientes características no debe reunir el contenido de un acto?",options:["Lícito.","Posible.","Indeterminado.","Determinable."],correct:2,exp:"Pregunta 744 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cuál de los siguientes actos del Ayuntamiento, como regla general, agota la vía administrativa?",options:["Un acto dictado por el Alcalde.","Un acto dictado por el Pleno.","Un acto dictado por la Comisión de Gobierno.","Un acto dictado por los Tenientes de Alcalde."],correct:3,exp:"Pregunta 745 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Qué actos dictados por un Director General de un Ministerio agotan la vía administrativa?",options:["Los dictados en materia de gestión presupuestaria.","Los dictados en materia de autorización presupuestaria.","Los dictados en materia de personal.","Los dictados en materia organizativa."],correct:2,exp:"Pregunta 746 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Debe motivarse un acto administrativo que se separe del criterio administrativo precedente?",options:["En ningún caso.","Siempre.","Siempre que medie orden de un superior jerárquico.","Sólo si lo solicita expresamente el interesado."],correct:1,exp:"Pregunta 747 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cómo deben motivarse los actos que pongan fin a un procedimiento selectivo?",options:["Siempre por escrito.","De manera individualizada.","En la forma que establezcan las normas que regulen su convocatoria.","En el tablón de anuncios del órgano convocante."],correct:2,exp:"Pregunta 748 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cuándo deben notificarse a los interesados un acto administrativo?",options:["Cuando afecte a sus intereses.","Cuando se produzca sea de la clase que sea.","Cuando lo solicite por escrito.","Cuando lo indique en la solicitud de iniciación del procedimiento."],correct:0,exp:"Pregunta 749 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cómo se denomina el elemento del acto administrativo que es la razón justificadora del mismo?",options:["Elemento formal.","Elemento causal.","Elemento objetivo.","Elemento subjetivo. Tema Nº 16. El Procedimiento Administrativo."],correct:1,exp:"Pregunta 750 del banco de test (Municipio/Régimen Local - temas 15) (test real con plantilla de respuestas, contenido verificado como vigente)."}
+  {
+    "q": "¿Cuál de los siguientes es un requisito imprescindible para que nos encontremos ante una acto administrativo?",
+    "options": [
+      "Que sea dictado por una administración pública.",
+      "Que contenga una resolución definitiva.",
+      "Que afecte a los ciudadanos.",
+      "Que contenga disposiciones sancionadoras."
+    ],
+    "correct": 0,
+    "exp": "Art. 34.1 LPAC leído en el consolidado BOE-A-2015-10565: los actos administrativos son los que 'dicten las Administraciones Públicas' por el órgano competente; el elemento subjetivo (Administración Pública) es el imprescindible y descarta las otras tres opciones.",
+    "fuente": "Art. 34.1 LPAC (Ley 39/2015)"
+  },
+  {
+    "q": "¿Qué es un acto de trámite?",
+    "options": [
+      "El que no decide sobre el fondo del asunto ni da lugar a la terminación del expediente sino que prepara la decisión final.",
+      "El que agota la vía administrativa en vía de recurso.",
+      "El que causa estado.",
+      "El que crea una relación jurídica."
+    ],
+    "correct": 0,
+    "exp": "Art. 112.1 LPAC: distingue resoluciones de actos de trámite y solo permite recurrir los de trámite que 'deciden directa o indirectamente el fondo del asunto' o impiden continuar el procedimiento; a contrario, el acto de trámite ordinario ni decide el fondo ni termina el expediente, que es lo que dice la opción marcada.",
+    "fuente": "Art. 112.1 LPAC (Ley 39/2015)"
+  },
+  {
+    "q": "¿Qué es un acto definitivo?",
+    "options": [
+      "Es el que no se puede recurrir.",
+      "Es el que pone fin al procedimiento administrativo.",
+      "Es el dictado por la Administración en vía de recurso exclusivamente.",
+      "El dictado al inicio del procedimiento."
+    ],
+    "correct": 1,
+    "exp": "Art. 112.1 LPAC: el acto definitivo es la resolución que pone fin al procedimiento, frente al acto de trámite; ninguna de las otras tres opciones encaja con el texto.",
+    "fuente": "Art. 112.1 LPAC (Ley 39/2015)"
+  },
+  {
+    "q": "¿Qué es un acto expreso?",
+    "options": [
+      "Un acto en el que se manifiesta la voluntad expresada por la Administración y normalmente en forma escrita.",
+      "Un acto que no se produce directamente por la Administración.",
+      "Cualquier acto que agote la vía administrativa.",
+      "Un acto firme."
+    ],
+    "correct": 0,
+    "exp": "Art. 36.1 LPAC (forma): los actos se producen por escrito a traves de medios electrónicos salvo que su naturaleza exija otra forma; el art. 47.1 f) confirma la dicotomía actos expresos/presuntos. La opción marcada es la única compatible.",
+    "fuente": "Art. 36.1 LPAC (Ley 39/2015)"
+  },
+  {
+    "q": "¿Cuál de los siguientes actos no debe motivarse?",
+    "options": [
+      "Un acto que acuerde la aplicación del procedimiento de urgencia.",
+      "Un acto que acuerde la limitación de un interés legítimo.",
+      "Un acto que acuerde la aplicación del precedente administrativo.",
+      "Un acto que acuerde ampliar los plazos del procedimiento."
+    ],
+    "correct": 2,
+    "exp": "Art. 35.1 LPAC: se motivan los actos que limiten intereses legítimos (letra a), los de tramitación de urgencia y ampliación de plazos (letra e) y los que SE SEPAREN del criterio precedente (letra c); aplicar el precedente no exige motivación, luego la opción marcada es la correcta.",
+    "fuente": "Art. 35.1 c) LPAC (Ley 39/2015)"
+  },
+  {
+    "q": "¿Qué se debe hacer con la acreditación de una notificación?",
+    "options": [
+      "Incorporarla al expediente.",
+      "Remitirla al interesado.",
+      "Remitirla al registro correspondiente.",
+      "Notificarla al interesado inmediatamente."
+    ],
+    "correct": 0,
+    "exp": "Art. 41.1, parrafo tercero, LPAC, literal: 'La acreditación de la notificación efectuada se incorporará al expediente'.",
+    "fuente": "Art. 41.1 LPAC (Ley 39/2015)"
+  },
+  {
+    "q": "¿Cómo deben practicarse las notificaciones?",
+    "options": [
+      "Siempre por escrito.",
+      "De manera directa.",
+      "De manera indirecta.",
+      "De cualquier forma que permita tener constancia de su recepción."
+    ],
+    "correct": 3,
+    "exp": "Art. 41.1, parrafo tercero, LPAC: 'con independencia del medio utilizado, las notificaciones serán válidas siempre que permitan tener constancia de su envio o puesta a disposición, de la recepción o acceso...'. La opción marcada es la única compatible; el mismo artículo añade la preferencia por medios electrónicos.",
+    "fuente": "Art. 41.1 LPAC (Ley 39/2015)"
+  },
+  {
+    "q": "Si un interesado presenta una solicitud ¿dónde se realizarán las notificaciones?",
+    "options": [
+      "En el domicilio indicado en la misma.",
+      "En el domicilio que conste en el padrón municipal.",
+      "En el tablón de edictos del Ayuntamiento.",
+      "En la propia sede administrativa."
+    ],
+    "correct": 0,
+    "exp": "Art. 41.3 LPAC: en los procedimientos iniciados a solicitud del interesado la notificación se práctica por el medio señalado al efecto por aquel; el padrón municipal (opción 1) solo cabe en los iniciados de oficio (art. 41.4).",
+    "fuente": "Art. 41.3 LPAC (Ley 39/2015)"
+  },
+  {
+    "q": "¿Cuántas veces debe intentarse una notificación?",
+    "options": [
+      "Dos veces.",
+      "Una vez.",
+      "Tres veces.",
+      "Cuantas veces sea necesario."
+    ],
+    "correct": 0,
+    "exp": "Art. 42.2 LPAC: si nadie se hace cargo de la notificación el intento 'se repetirá por una sola vez... dentro de los tres días siguientes', es decir dos intentos en total.",
+    "fuente": "Art. 42.2 LPAC (Ley 39/2015)"
+  },
+  {
+    "q": "¿Cuál de los siguientes extremos es imprescindible que conste en una notificación?",
+    "options": [
+      "El texto íntegro del acto.",
+      "La fecha de inicio del expediente.",
+      "La fecha de terminación del procedimiento.",
+      "La identificación de la autoridad firmante."
+    ],
+    "correct": 0,
+    "exp": "Arts. 40.2 a 40.4 LPAC: la notificación debe contener el texto íntegro de la resolución; el art. 40.3 aclara que la omisión de los DEMAS requisitos no impide que surta efecto, luego el texto íntegro es el extremo imprescindible.",
+    "fuente": "Art. 40.2 LPAC (Ley 39/2015)"
+  },
+  {
+    "q": "¿Desde cuándo surten efectos los actos administrativos, como regla general?",
+    "options": [
+      "Desde el momento en que se dictan.",
+      "Desde el día siguiente al que sean dictados.",
+      "Desde que se notifiquen.",
+      "Desde el día en que se publiquen."
+    ],
+    "correct": 0,
+    "exp": "Art. 39.1 LPAC, literal: los actos 'se presumirán válidos y producirán efectos desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa'.",
+    "fuente": "Art. 39.1 LPAC (Ley 39/2015)"
+  },
+  {
+    "q": "¿Cuál de los siguientes actos se considera nulo de pleno derecho?",
+    "options": [
+      "El que restrinja intereses legítimos.",
+      "El que tenga un contenido posible.",
+      "El que se dicte por un órgano incompetente por razón del territorio.",
+      "El que contenga un defecto de forma."
+    ],
+    "correct": 2,
+    "exp": "Art. 47.1 b) LPAC: son nulos los dictados por órgano manifiestamente incompetente por razon de la materia o del territorio; el defecto de forma solo da anulabilidad (art. 48.2) y el contenido imposible es el nulo (47.1 c). La opción marcada omite el adverbio 'manifiestamente' que exige la ley.",
+    "fuente": "Art. 47.1 b) LPAC (Ley 39/2015)"
+  },
+  {
+    "q": "¿Cuál de las siguientes características es predicable de los actos anulables?",
+    "options": [
+      "No producen efectos.",
+      "Sólo afecta a los interesados.",
+      "No puede ser convalidado.",
+      "Producen ineficacia por sí mismos."
+    ],
+    "correct": 1,
+    "exp": "Arts. 48 y 52.1 LPAC: los actos anulables producen efectos mientras no se anulen y son convalidables por la Administración, lo que descarta las opciones 0, 2 y 3; la anulabilidad es un vicio relativo que solo pueden hacer valer los interesados.",
+    "fuente": "Arts. 48 y 52.1 LPAC (Ley 39/2015)"
+  },
+  {
+    "q": "¿Cuál de las siguientes características no es predicable de los actos nulos?",
+    "options": [
+      "No producen efectos.",
+      "Sólo afecta a los interesados.",
+      "No puede ser convalidado.",
+      "Producen ineficacia por sí mismos."
+    ],
+    "correct": 1,
+    "exp": "Arts. 47.1, 52.1 y 106.1 LPAC: los actos nulos no producen efectos, no son convalidables (solo lo son los anulables, art. 52.1) y su nulidad puede declararse de oficio en cualquier momento (art. 106.1), luego lo NO predicable de ellos es que 'solo afecta a los interesados'.",
+    "fuente": "Arts. 47.1, 52.1 y 106.1 LPAC (Ley 39/2015)"
+  },
+  {
+    "q": "Las actuaciones administrativas realizadas fuera de plazo ¿invalidan el acto que se dicte?",
+    "options": [
+      "Sí, en cualquier caso.",
+      "No, en ningún caso.",
+      "Sólo si provocan indefensión.",
+      "Sólo si el término es esencial."
+    ],
+    "correct": 3,
+    "exp": "Art. 48.3 LPAC, literal: 'La realización de actuaciones administrativas fuera del tiempo establecido para ellas solo implicará la anulabilidad del acto cuando así lo imponga la naturaleza del término o plazo'.",
+    "fuente": "Art. 48.3 LPAC (Ley 39/2015)"
+  },
+  {
+    "q": "¿Cuál de las siguientes características no debe reunir el contenido de un acto?",
+    "options": [
+      "Lícito.",
+      "Posible.",
+      "Indeterminado.",
+      "Determinable."
+    ],
+    "correct": 2,
+    "exp": "Art. 34.2 LPAC: el contenido 'se ajustará a lo dispuesto por el ordenamiento jurídico y será determinado y adecuado a los fines'; con el art. 47.1 c) (contenido imposible = nulo) queda claro que el contenido ha de ser licito, posible y determinado o determinable, nunca indeterminado.",
+    "fuente": "Art. 34.2 LPAC (Ley 39/2015)"
+  },
+  {
+    "q": "¿Debe motivarse un acto administrativo que se separe del criterio administrativo precedente?",
+    "options": [
+      "En ningún caso.",
+      "Siempre.",
+      "Siempre que medie orden de un superior jerárquico.",
+      "Sólo si lo solicita expresamente el interesado."
+    ],
+    "correct": 1,
+    "exp": "Art. 35.1 c) LPAC: serán motivados 'los actos que se separen del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos', sin excepción ni necesidad de petición del interesado.",
+    "fuente": "Art. 35.1 c) LPAC (Ley 39/2015)"
+  },
+  {
+    "q": "¿Cómo deben motivarse los actos que pongan fin a un procedimiento selectivo?",
+    "options": [
+      "Siempre por escrito.",
+      "De manera individualizada.",
+      "En la forma que establezcan las normas que regulen su convocatoria.",
+      "En el tablón de anuncios del órgano convocante."
+    ],
+    "correct": 2,
+    "exp": "Art. 35.2 LPAC: la motivación de los actos que ponen fin a procedimientos selectivos y de concurrencia competitiva 'se realizará de conformidad con lo que dispongan las normas que regulen sus convocatorias'.",
+    "fuente": "Art. 35.2 LPAC (Ley 39/2015)"
+  },
+  {
+    "q": "¿Cuándo deben notificarse a los interesados un acto administrativo?",
+    "options": [
+      "Cuando afecte a sus intereses.",
+      "Cuando se produzca sea de la clase que sea.",
+      "Cuando lo solicite por escrito.",
+      "Cuando lo indique en la solicitud de iniciación del procedimiento."
+    ],
+    "correct": 0,
+    "exp": "Art. 40.1 LPAC: el órgano que dicte las resoluciones y actos 'los notificará a los interesados cuyos derechos e intereses sean afectados por aquéllos'.",
+    "fuente": "Art. 40.1 LPAC (Ley 39/2015)"
+  },
 ],
 7:[
   {q:"Según el art. 53.1 a), los interesados tienen derecho a conocer, en cualquier momento, el estado de la tramitación de los procedimientos, así como:",options:["El sentido del silencio administrativo que corresponda, el órgano competente para instruir y resolver, y los actos de trámite dictados","Únicamente la fecha de inicio del expediente","El nombre completo de todos los funcionarios del organismo","El presupuesto anual de la Administración actuante"],correct:0,exp:"Art. 53.1 a): derecho a conocer el estado de la tramitación, el sentido del silencio administrativo, el órgano competente para instrucción y resolución, y los actos de trámite dictados."},
@@ -2113,56 +2291,558 @@ const QUESTIONS = {
   {q:"En conclusión, ¿qué papel desempeña el Reglamento de Bienes de las Entidades Locales (RD 1372/1986) respecto a la Ley 7/1985 (LBRL) en esta materia?",options:["El RBEL desarrolla reglamentariamente los principios básicos establecidos por la LBRL en materia de bienes, con carácter supletorio respecto a la legislación autonómica","El RBEL deroga a la LBRL en todo lo relativo a bienes locales","No existe ninguna relación de desarrollo entre ambas normas","El RBEL es jerárquicamente superior a la LBRL"],correct:0,exp:"El RBEL desarrolla reglamentariamente los principios básicos que la LBRL (arts. 79 a 83) establece con rango legal en materia de bienes de las Entidades Locales, aplicándose con carácter supletorio respecto de la legislación autonómica de desarrollo."},
   {q:"¿Qué tres grandes bloques normativos configuran, en conjunto, el régimen jurídico de los bienes de las Entidades Locales estudiado en este tema?",options:["La LBRL (arts. 79-83), el RBEL (RD 1372/1986) y, con carácter supletorio, la LPAP (Ley 33/2003)","Únicamente el Código Civil","Solo la normativa urbanística estatal","Exclusivamente las ordenanzas municipales, sin ley estatal alguna"],correct:0,exp:"El régimen jurídico de los bienes de las Entidades Locales se configura fundamentalmente por la LBRL (arts. 79 a 83, normas básicas), el RBEL (RD 1372/1986, desarrollo reglamentario) y, con carácter supletorio, la LPAP (Ley 33/2003, de Patrimonio de las Administraciones Públicas)."},
   {q:"¿Qué órgano es, típicamente, el competente para aprobar la incorporación de un nuevo bien al inventario municipal tras su adquisición?",options:["El Alcalde o el Pleno, según el tipo de adquisición y las competencias atribuidas en cada caso por la normativa de régimen local","Un notario, sin intervención administrativa alguna","El Registro de la Propiedad, de forma automática","El Tribunal de Cuentas, en todos los casos sin excepción"],correct:0,exp:"La incorporación de un nuevo bien al inventario, y su correspondiente aprobación administrativa, corresponde al Alcalde o al Pleno según el tipo de adquisición y el reparto competencial establecido en la normativa de régimen local y de contratación."},
-  {q:"¿En qué año fue aprobado el reglamento de bienes de las entidades locales?",options:["1988.","1987.","1986.","1990."],correct:2,exp:"Pregunta 951 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cuál de las siguientes normas aprueba el reglamento de bienes de las entidades locales?",options:["Real Decreto 1372/ 1988 de 13 de junio.","Real Decreto 1372/ 1987 de 13 de junio.","Real Decreto 1372/ 1986 de 13 de junio.","Real Decreto 1372/ 1990 de 13 de junio."],correct:2,exp:"Pregunta 952 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Qué título de la ley 7/ 1985, de 2 de abril, está dedicado a la regulación de los bienes de las entidades locales?",options:["El Título III.","El Título IV.","El Título V.","El Título VI."],correct:1,exp:"Pregunta 953 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Qué artículos de la ley 7/ 1985, de 2 de abril, regulan el régimen jurídico de los bienes de las entidades locales?",options:["Del 79 al 83.","Del 83 al 93.","Del 76 al 79.","Del 79 al 87."],correct:0,exp:"Pregunta 954 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Qué artículos del Texto refundido sobre disposiciones vigentes en materia de régimen local, regulan el régimen jurídico de los bienes de las entidades locales?",options:["Del 74 al 87.","Del 83 al 92.","Del 76 al 81.","Del 69 al 84."],correct:0,exp:"Pregunta 955 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cuál de los siguientes bienes no se considera de dominio público?",options:["Los bienes de uso público.","Los bienes de servicio público.","Los bienes comunales.","Los bienes patrimoniales."],correct:3,exp:"Pregunta 956 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cuál de los siguientes bienes no se considera de uso público?",options:["Una calle.","Una plaza.","Una fuente.","La sede del Ayuntamiento."],correct:3,exp:"Pregunta 957 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cuál de los siguientes bienes no se considera de servicio público?",options:["Un puente.","Un.","Una fuente.","La sede del Ayuntamiento."],correct:3,exp:"Pregunta 958 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cuál de los siguientes entes locales no puede tener bienes comunales?",options:["Un municipio de menos de 5.000 habitantes.","Un municipio de menos de 3.000 habitantes.","Una entidad local de ámbito territorial inferior al municipio.","Una comarca."],correct:3,exp:"Pregunta 959 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cuál de las siguientes características no es predicable de los bienes comunales?",options:["La inembargabilidad.","La inalienabilidad.","La imprescriptibilidad.","La embargabilidad."],correct:3,exp:"Pregunta 960 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Al pago de qué tributo están sujetos los bienes comunales?",options:["Al pago del Impuestos de Bienes Inmuebles.","Al pago del Impuesto sobre Instalaciones, construcciones y obras.","Al pago del Impuesto sobre el Patrimonio.","No están sujetos al pago de tributos."],correct:3,exp:"Pregunta 961 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿A quién le corresponde el aprovechamiento de los bienes comunales?",options:["A todos los ciudadanos.","A los vecinos.","A los vecinos y a todos los ciudadanos.","Al Ayuntamiento."],correct:1,exp:"Pregunta 962 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿A quién le corresponde realizar la conservación de los bienes de uso público?",options:["A los vecinos.","A los ciudadanos.","A la entidad local a la que estén adscritos.","A los vecinos y a la entidad local a la que estén adscritos."],correct:2,exp:"Pregunta 963 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Qué extremos hay que acreditar en el expediente de alteración de la calificación jurídica de los bienes comunales?",options:["La legalidad y la oportunidad.","La proporcionalidad y la legalidad.","La oportunidad y la proporcionalidad.","La proporcionalidad y la normatividad."],correct:0,exp:"Pregunta 964 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cuál debe ser el plazo de información pública de un expediente de alteración de la calificación jurídica?",options:["Dos meses.","Un mes.","Quince días.","Diez días."],correct:1,exp:"Pregunta 965 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿En cuál de los siguientes casos no se produce la alteración automática de la calificación de un bien?",options:["Cuando se realice la aprobación definitiva de los planes de ordenación urbana.","Cuando se realice la aprobación definitiva de los proyectos de obras y servicios.","Cuando se produzca la adscripción de bienes patrimoniales por más de veinticinco años.","Cuando se produzca la adscripción de bienes patrimoniales por más de diez años."],correct:3,exp:"Pregunta 966 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Puede adquirir automáticamente, una entidad local, un bien que esté destinado a un uso o servicio público comunal?",options:["Sí, por arrendamiento.","No, en ningún caso.","Sí, por usucapión.","Sí, en cualquier momento sin consentimiento del interesado."],correct:2,exp:"Pregunta 967 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Qué tipo de capacidad tienen las entidades locales para adquirir y poseer bienes?",options:["Jurídica plena.","Jurídica propia.","Jurídica directa.","Jurídica indirecta."],correct:0,exp:"Pregunta 968 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Qué tipo de acciones deben ejercer las entidades locales para la defensa de sus bienes y derechos?",options:["Las que estime oportunas.","Exclusivamente, acciones civiles.","Las que sean necesarias.","Las que se acuerden de acuerdo con los vecinos."],correct:2,exp:"Pregunta 969 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Quién debe emitir informe previo antes de que una entidad local ejerza una acción de defensa de un bien propio?",options:["El Alcalde.","El Secretario.","El Pleno.","La Comunidad Autónoma."],correct:1,exp:"Pregunta 970 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Por cual de los siguientes medios no puede, una entidad local, adquirir un bien?",options:["Por ocupación.","Por donación.","A título oneroso.","Por atribución reglamentaria."],correct:3,exp:"Pregunta 971 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿A qué restricciones está sujeta la adquisición de bienes a título gratuito?",options:["A las derivadas de su categoría.","A las nacidas de la relación jurídica de base.","No está sujeta a restricción alguna.","A las establecidas por el Pleno en sesión extraordinaria."],correct:2,exp:"Pregunta 972 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cómo se entiende hecha la aceptación de una herencia por una entidad local?",options:["A beneficio de resultas.","A beneficio de inventario.","A restos de inventario.","A inventario."],correct:1,exp:"Pregunta 973 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"Si se adquiere un bien mediante una herencia por medio de condición ¿cuánto tiempo debe transcurrir para que se entienda cumplida y consumada?",options:["Diez años.","Veinte años.","Veinticinco años.","Treinta años."],correct:3,exp:"Pregunta 974 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cuál de los siguientes no es un epígrafe del inventario de bienes de una entidad local?",options:["Los vehículos.","Los semovientes.","Los derechos reales.","Los derechos invertibles."],correct:3,exp:"Pregunta 975 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿A quién le corresponde realizar la aprobación del Inventario de bienes de una entidad local?",options:["Al Alcalde.","Al Pleno.","A la Comisión de Gobierno.","A la Comunidad Autónoma respectiva."],correct:1,exp:"Pregunta 976 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿A quién le corresponde realizar la rectificación del Inventario de bienes de una entidad local?",options:["Al Alcalde.","Al Pleno.","A la Comisión de Gobierno.","A la Comunidad Autónoma respectiva."],correct:1,exp:"Pregunta 977 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿A quién le corresponde realizar la comprobación del Inventario de bienes de una entidad local?",options:["Al Alcalde.","Al Pleno.","A la Comisión de Gobierno.","A la Comunidad Autónoma respectiva."],correct:1,exp:"Pregunta 978 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Qué documento es necesario para inscribir en el Registro de la propiedad los bienes inmuebles de una entidad local?",options:["Certificación del Pleno.","Certificación expedida por el Alcalde.","Certificación expedida por el Secretario.","Certificación expedida por la Comunidad Autónoma respectiva."],correct:2,exp:"Pregunta 979 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Quién debe dar el visto bueno a la certificación para inscribir un bien inmueble en el registro de la propiedad?",options:["El Pleno.","El Alcalde.","El Secretario.","La Comunidad Autónoma respectiva."],correct:1,exp:"Pregunta 980 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cuál de las siguientes potestades no están asignadas a las corporaciones locales en relación con sus bienes?",options:["La potestad de investigación.","La potestad de recuperación.","La potestad de autorecuperación.","La potestad de deslinde."],correct:2,exp:"Pregunta 981 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Qué operación consiste en practicar las operaciones técnicas de comprobación y, en su caso, de rectificación de situaciones jurídicas plenamente acreditadas, en relación con un bien?",options:["Desahucio.","Deslinde.","Investigación.","Recuperación."],correct:1,exp:"Pregunta 982 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿De qué tiempo disponen las entidades locales para recuperar por sí mismas la tenencia de bienes de dominio público?",options:["De un año.","De dos años.","De cinco años.","No existe plazo máximo."],correct:3,exp:"Pregunta 983 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿De qué tiempo disponen las entidades locales para recuperar por sí mismas la tenencia de bienes patrimoniales?",options:["De un año.","De dos años.","De cinco años.","No existe plazo máximo."],correct:0,exp:"Pregunta 984 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Se admiten interdictos contra actuaciones de agentes de la autoridad en materia de recuperación de bienes?",options:["Sí, en cualquier caso.","Sólo en casos excepcionales.","Sí, con aprobación previa del Pleno.","No, en ningún caso."],correct:3,exp:"Pregunta 985 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cómo se denomina el uso que corresponde por igual a todos los ciudadanos indistintamente, de modo que el uso de unos no impida el de los demás interesados?",options:["Uso común.","Uso propio.","Uso normal.","Uso ordinario."],correct:0,exp:"Pregunta 986 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cómo se denomina el uso que corresponde por igual a todos los ciudadanos indistintamente, de modo que el uso de unos no impida el de los demás interesados, pero en el que concurren circunstancias singulares?",options:["Uso común general.","Uso común especial.","Uso privativo.","Uso normal."],correct:0,exp:"Pregunta 987 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cómo se denomina el uso que corresponde por igual a todos los ciudadanos indistintamente, de modo que el uso de unos no impida el de los demás interesados, pero en el que concurren circunstancias de peligrosidad?",options:["Uso común general.","Uso común especial.","Uso privativo.","Uso normal."],correct:1,exp:"Pregunta 988 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cómo se denomina el uso constituido por la ocupación de una porción de dominio público de modo que excluya la utilización por los demás interesados?",options:["Uso privativo.","Uso normal.","Uso anormal.","Uso general."],correct:0,exp:"Pregunta 989 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cómo se denomina el uso que es conforme con el destino principal del dominio público al que afecte?",options:["Uso especial.","Uso ordinario.","Uso normal.","Uso común."],correct:2,exp:"Pregunta 990 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cómo se ejerce el uso común general de los bienes de dominio público?",options:["Por los ciudadanos que obtengan licencia.","Exclusivamente por el Ayuntamiento.","Libremente de acuerdo con la naturaleza de los bienes.","Con sometimiento a autorización previa."],correct:2,exp:"Pregunta 991 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cómo se ejerce el uso especial normal de los bienes de dominio público?",options:["Por los ciudadanos que obtengan licencia.","Exclusivamente por el Ayuntamiento.","Libremente de acuerdo con la naturaleza de los bienes.","Con sometimiento a autorización previa."],correct:0,exp:"Pregunta 992 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"El uso privativo de bienes de dominio público:",options:["Está sujeto a la obtención de licencia.","Se destina exclusivamente al Ayuntamiento.","Es libre de acuerdo con la naturaleza de los bienes.","está sujeto a concesión administrativa."],correct:3,exp:"Pregunta 993 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"El uso anormal de bienes de dominio público:",options:["Está sujeto a la obtención de licencia.","Se destina exclusivamente al Ayuntamiento.","Es libre de acuerdo con la naturaleza de los bienes.","está sujeto a concesión administrativa."],correct:3,exp:"Pregunta 994 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cómo se denominan los bienes que siendo propiedad de la entidad local, no están destinados al uso público ni afectados a ningún servicio público y pueden constituir una fuente de mejora del erario de la entidad?",options:["Bienes de dominio público.","Bienes de comunal.","Bienes patrimoniales.","Bienes demaniales."],correct:2,exp:"Pregunta 995 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cómo se considera una parcela sobrante?",options:["Como bien patrimonial.","Como bien de dominio público.","Como bien demanial.","Como bien comunal."],correct:0,exp:"Pregunta 996 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cómo se consideran los efectos no utilizables?",options:["Como bien patrimonial.","Como bien de dominio público.","Como bien demanial.","Como bien comunal."],correct:0,exp:"Pregunta 997 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿En cual de los siguientes casos debe utilizarse la subasta para poder ceder un bien patrimonial?",options:["Cuando el tiempo de cesión sea superior a dos años.","Cuando el tiempo de cesión sea superior a un año.","Cuando el tiempo de cesión sea superior a tres años.","Cuando el tiempo de cesión sea superior a cinco años."],correct:3,exp:"Pregunta 998 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Cuándo se adjudicará el disfrute de un bien comunal por lotes?",options:["Cuando el disfrute sea impracticable en el modo común.","En cualquier caso.","En ningún caso.","Cuando lo establezca el Pleno."],correct:0,exp:"Pregunta 999 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."},
-  {q:"¿Quién debe autorizar la adjudicación del disfrute de un bien comunal por un precio?",options:["El Alcalde.","El Secretario de la Corporación local.","El Pleno de la Entidad local.","La Comunidad Autónoma respectiva. Tema Nº 21. Haciendas Locales."],correct:3,exp:"Pregunta 1000 del banco de test (Municipio/Régimen Local - temas 20) (test real con plantilla de respuestas, contenido verificado como vigente)."}
+  {
+    "q": "¿En qué año fue aprobado el reglamento de bienes de las entidades locales?",
+    "options": [
+      "1988.",
+      "1987.",
+      "1986.",
+      "1990."
+    ],
+    "correct": 2,
+    "exp": "Ficha BOE-A-1986-17958: RD 1372/1986 fechado 'Dado en Madrid a 13 de junio de 1986', BOE 7-7-1986; el año de aprobación es 1986, como marca la opción. Texto consolidado vigente (solo deroga el Reglamento de 1955).",
+    "fuente": "Art. único RBEL (RD 1372/1986, de 13 de junio; BOE núm. 161, de 7-7-1986)"
+  },
+  {
+    "q": "¿Cuál de las siguientes normas aprueba el reglamento de bienes de las entidades locales?",
+    "options": [
+      "Real Decreto 1372/ 1988 de 13 de junio.",
+      "Real Decreto 1372/ 1987 de 13 de junio.",
+      "Real Decreto 1372/ 1986 de 13 de junio.",
+      "Real Decreto 1372/ 1990 de 13 de junio."
+    ],
+    "correct": 2,
+    "exp": "Comprobada la ficha del BOE (el id correcto del consolidado es BOE-A-1986-17958, no el 19271): la norma que aprueba el RBEL es el RD 1372/1986, de 13 de junio.",
+    "fuente": "Art. único RBEL (RD 1372/1986, de 13 de junio; BOE núm. 161, de 7-7-1986)"
+  },
+  {
+    "q": "¿Qué artículos de la ley 7/ 1985, de 2 de abril, regulan el régimen jurídico de los bienes de las entidades locales?",
+    "options": [
+      "Del 79 al 83.",
+      "Del 83 al 93.",
+      "Del 76 al 79.",
+      "Del 79 al 87."
+    ],
+    "correct": 0,
+    "exp": "Verificado en el consolidado: el Capítulo I 'Bienes' del Título VI abarca los arts. 79 (patrimonio y clasificación), 80, 81, 82 y 83, y el Capítulo II 'Actividades y servicios' arranca tras el art. 83.",
+    "fuente": "Título VI, Capítulo I, arts. 79 a 83 LBRL (Ley 7/1985)"
+  },
+  {
+    "q": "¿Qué artículos del Texto refundido sobre disposiciones vigentes en materia de régimen local, regulan el régimen jurídico de los bienes de las entidades locales?",
+    "options": [
+      "Del 74 al 87.",
+      "Del 83 al 92.",
+      "Del 76 al 81.",
+      "Del 69 al 84."
+    ],
+    "correct": 0,
+    "exp": "Verificado en el consolidado del TRRL: Título VI 'Bienes, actividades y servicios y contratación', Capítulo I 'Bienes' = arts. 74 a 87 (el Capítulo II empieza en el art. 88).",
+    "fuente": "Título VI, Capítulo I, arts. 74 a 87 TRRL (RDLeg 781/1986)"
+  },
+  {
+    "q": "¿Cuál de los siguientes bienes no se considera de dominio público?",
+    "options": [
+      "Los bienes de uso público.",
+      "Los bienes de servicio público.",
+      "Los bienes comunales.",
+      "Los bienes patrimoniales."
+    ],
+    "correct": 3,
+    "exp": "Art. 2.1: los bienes se clasifican en dominio público y patrimoniales; 2.2: los de dominio público son de uso o servicio público; 2.3: los comunales son de dominio público. Los patrimoniales son el único grupo ajeno al demanio.",
+    "fuente": "Art. 2.1 y 2.2 RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿Cuál de los siguientes bienes no se considera de uso público?",
+    "options": [
+      "Una calle.",
+      "Una plaza.",
+      "Una fuente.",
+      "La sede del Ayuntamiento."
+    ],
+    "correct": 3,
+    "exp": "Art. 3.1 enumera como bienes de uso público caminos, plazas, calles, aguas de fuentes y estanques, puentes...; el art. 4 sitúa las Casas Consistoriales entre los bienes de servicio público, luego la sede del Ayuntamiento no es de uso público.",
+    "fuente": "Art. 3.1 en relación con el art. 4 RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿Cuál de los siguientes entes locales no puede tener bienes comunales?",
+    "options": [
+      "Un municipio de menos de 5.000 habitantes.",
+      "Un municipio de menos de 3.000 habitantes.",
+      "Una entidad local de ámbito territorial inferior al municipio.",
+      "Una comarca."
+    ],
+    "correct": 3,
+    "exp": "Art. 2.4: los bienes comunales solo pueden pertenecer a los Municipios y a las Entidades locales menores; la comarca queda excluida, mientras que las tres restantes opciones son municipios o entidad local menor.",
+    "fuente": "Art. 2.4 RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿Cuál de las siguientes características no es predicable de los bienes comunales?",
+    "options": [
+      "La inembargabilidad.",
+      "La inalienabilidad.",
+      "La imprescriptibilidad.",
+      "La embargabilidad."
+    ],
+    "correct": 3,
+    "exp": "Art. 5: los comunales y demás bienes de dominio público son inalienables, inembargables e imprescriptibles; la embargabilidad es lo no predicable.",
+    "fuente": "Art. 5 RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿Al pago de qué tributo están sujetos los bienes comunales?",
+    "options": [
+      "Al pago del Impuestos de Bienes Inmuebles.",
+      "Al pago del Impuesto sobre Instalaciones, construcciones y obras.",
+      "Al pago del Impuesto sobre el Patrimonio.",
+      "No están sujetos al pago de tributos."
+    ],
+    "correct": 3,
+    "exp": "Art. 5, in fine: los bienes comunales y demás de dominio público 'no están sujetos a tributo alguno'.",
+    "fuente": "Art. 5 RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿A quién le corresponde el aprovechamiento de los bienes comunales?",
+    "options": [
+      "A todos los ciudadanos.",
+      "A los vecinos.",
+      "A los vecinos y a todos los ciudadanos.",
+      "Al Ayuntamiento."
+    ],
+    "correct": 1,
+    "exp": "Art. 2.3: son comunales los bienes de dominio público cuyo aprovechamiento corresponde al común de los vecinos; confirmado por el art. 103.1 (derecho de aprovechamiento de los vecinos, sin distinción de sexo, estado civil o edad).",
+    "fuente": "Art. 2.3 RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿A quién le corresponde realizar la conservación de los bienes de uso público?",
+    "options": [
+      "A los vecinos.",
+      "A los ciudadanos.",
+      "A la entidad local a la que estén adscritos.",
+      "A los vecinos y a la entidad local a la que estén adscritos."
+    ],
+    "correct": 2,
+    "exp": "Art. 3.1: son de uso público local las obras públicas de aprovechamiento general 'cuya conservación y policía sean de la competencia de la Entidad local' (igual en el art. 74.1 TRRL); descarta vecinos y ciudadanos.",
+    "fuente": "Art. 3.1 RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿Qué extremos hay que acreditar en el expediente de alteración de la calificación jurídica de los bienes comunales?",
+    "options": [
+      "La legalidad y la oportunidad.",
+      "La proporcionalidad y la legalidad.",
+      "La oportunidad y la proporcionalidad.",
+      "La proporcionalidad y la normatividad."
+    ],
+    "correct": 0,
+    "exp": "Art. 8.1: la alteración de la calificación jurídica de los bienes de las Entidades locales -comunales incluidos, art. 2.3- requiere expediente en el que se acrediten su oportunidad y legalidad.",
+    "fuente": "Art. 8.1 RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿Cuál debe ser el plazo de información pública de un expediente de alteración de la calificación jurídica?",
+    "options": [
+      "Dos meses.",
+      "Un mes.",
+      "Quince días.",
+      "Diez días."
+    ],
+    "correct": 1,
+    "exp": "Art. 8.2: el expediente se resuelve 'previa información pública durante un mes' y con el voto favorable de la mayoría absoluta del número legal de miembros.",
+    "fuente": "Art. 8.2 RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿En cuál de los siguientes casos no se produce la alteración automática de la calificación de un bien?",
+    "options": [
+      "Cuando se realice la aprobación definitiva de los planes de ordenación urbana.",
+      "Cuando se realice la aprobación definitiva de los proyectos de obras y servicios.",
+      "Cuando se produzca la adscripción de bienes patrimoniales por más de veinticinco años.",
+      "Cuando se produzca la adscripción de bienes patrimoniales por más de diez años."
+    ],
+    "correct": 3,
+    "exp": "Art. 8.4: la alteración es automática por aprobación definitiva de planes de ordenación urbana y de proyectos de obras y servicios (a), por adscripción de bienes patrimoniales por más de VEINTICINCO años (b) y por usucapión (c). Los diez años no figuran: opción marcada correcta.",
+    "fuente": "Art. 8.4.b RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿Puede adquirir automáticamente, una entidad local, un bien que esté destinado a un uso o servicio público comunal?",
+    "options": [
+      "Sí, por arrendamiento.",
+      "No, en ningún caso.",
+      "Sí, por usucapión.",
+      "Sí, en cualquier momento sin consentimiento del interesado."
+    ],
+    "correct": 2,
+    "exp": "Art. 8.4.c: la alteración se produce automáticamente cuando la entidad adquiere por usucapión, con arreglo al derecho civil, el dominio de una cosa que viniere estando destinada a un uso o servicio público o comunal. Enunciado de redacción tosca, pero la usucapión es el único modo recogido en la norma entre las cuatro opciones.",
+    "fuente": "Art. 8.4.c RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿Qué tipo de capacidad tienen las entidades locales para adquirir y poseer bienes?",
+    "options": [
+      "Jurídica plena.",
+      "Jurídica propia.",
+      "Jurídica directa.",
+      "Jurídica indirecta."
+    ],
+    "correct": 0,
+    "exp": "Art. 9.1: 'Las Entidades locales tendrán capacidad jurídica plena para adquirir y poseer bienes de todas las clases'.",
+    "fuente": "Art. 9.1 RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿Qué tipo de acciones deben ejercer las entidades locales para la defensa de sus bienes y derechos?",
+    "options": [
+      "Las que estime oportunas.",
+      "Exclusivamente, acciones civiles.",
+      "Las que sean necesarias.",
+      "Las que se acuerden de acuerdo con los vecinos."
+    ],
+    "correct": 2,
+    "exp": "Art. 9.2: obligación de ejercer 'las acciones necesarias' para la defensa de sus bienes y derechos (coincide con el art. 68.1 LBRL).",
+    "fuente": "Art. 9.2 RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿Quién debe emitir informe previo antes de que una entidad local ejerza una acción de defensa de un bien propio?",
+    "options": [
+      "El Alcalde.",
+      "El Secretario.",
+      "El Pleno.",
+      "La Comunidad Autónoma."
+    ],
+    "correct": 1,
+    "exp": "Art. 9.3: los acuerdos para ejercitar dichas acciones se adoptan 'previo dictamen del secretario o, en su caso, de la Asesoría Jurídica y, en defecto de ambos, de un Letrado'.",
+    "fuente": "Art. 9.3 RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿Por cual de los siguientes medios no puede, una entidad local, adquirir un bien?",
+    "options": [
+      "Por ocupación.",
+      "Por donación.",
+      "A título oneroso.",
+      "Por atribución reglamentaria."
+    ],
+    "correct": 3,
+    "exp": "Art. 10: atribución de la Ley, título oneroso, herencia/legado/donación, prescripción, ocupación y cualquier otro modo legítimo. La 'atribución reglamentaria' no figura (la atribución es de la Ley).",
+    "fuente": "Art. 10.a RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿A qué restricciones está sujeta la adquisición de bienes a título gratuito?",
+    "options": [
+      "A las derivadas de su categoría.",
+      "A las nacidas de la relación jurídica de base.",
+      "No está sujeta a restricción alguna.",
+      "A las establecidas por el Pleno en sesión extraordinaria."
+    ],
+    "correct": 2,
+    "exp": "Art. 12.1: 'La adquisición de bienes a título gratuito no estará sujeta a restricción alguna' (el 12.2 solo exige expediente si lleva aneja condición o modalidad onerosa).",
+    "fuente": "Art. 12.1 RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿Cómo se entiende hecha la aceptación de una herencia por una entidad local?",
+    "options": [
+      "A beneficio de resultas.",
+      "A beneficio de inventario.",
+      "A restos de inventario.",
+      "A inventario."
+    ],
+    "correct": 1,
+    "exp": "Art. 12.3: 'La aceptación de herencias se entenderá a beneficio de inventario'.",
+    "fuente": "Art. 12.3 RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "Si se adquiere un bien mediante una herencia por medio de condición ¿cuánto tiempo debe transcurrir para que se entienda cumplida y consumada?",
+    "options": [
+      "Diez años.",
+      "Veinte años.",
+      "Veinticinco años.",
+      "Treinta años."
+    ],
+    "correct": 3,
+    "exp": "Art. 13: la condición o modalidad de afectación permanente se entiende cumplida y consumada cuando los bienes hubieren servido a ese destino durante treinta años.",
+    "fuente": "Art. 13 RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿Cuál de los siguientes no es un epígrafe del inventario de bienes de una entidad local?",
+    "options": [
+      "Los vehículos.",
+      "Los semovientes.",
+      "Los derechos reales.",
+      "Los derechos invertibles."
+    ],
+    "correct": 3,
+    "exp": "Art. 18 enumera ocho epígrafes: inmuebles, derechos reales, muebles histórico-artísticos, valores mobiliarios/créditos, vehículos, semovientes, otros muebles y bienes y derechos REVERTIBLES. 'Derechos invertibles' no existe.",
+    "fuente": "Art. 18 RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿A quién le corresponde realizar la aprobación del Inventario de bienes de una entidad local?",
+    "options": [
+      "Al Alcalde.",
+      "Al Pleno.",
+      "A la Comisión de Gobierno.",
+      "A la Comunidad Autónoma respectiva."
+    ],
+    "correct": 1,
+    "exp": "Art. 34: 'El Pleno de la Corporación local será el órgano competente para acordar la aprobación del inventario ya formado, su rectificación y comprobación'.",
+    "fuente": "Art. 34 RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿A quién le corresponde realizar la rectificación del Inventario de bienes de una entidad local?",
+    "options": [
+      "Al Alcalde.",
+      "Al Pleno.",
+      "A la Comisión de Gobierno.",
+      "A la Comunidad Autónoma respectiva."
+    ],
+    "correct": 1,
+    "exp": "Art. 34: la rectificación (que el art. 33.1 ordena verificar anualmente) la acuerda el Pleno; el Secretario solo autoriza el inventario con el visto bueno del Presidente (art. 32.1).",
+    "fuente": "Art. 34 RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿A quién le corresponde realizar la comprobación del Inventario de bienes de una entidad local?",
+    "options": [
+      "Al Alcalde.",
+      "Al Pleno.",
+      "A la Comisión de Gobierno.",
+      "A la Comunidad Autónoma respectiva."
+    ],
+    "correct": 1,
+    "exp": "Art. 34: la comprobación (que el art. 33.2 exige siempre que se renueve la Corporación) también corresponde acordarla al Pleno.",
+    "fuente": "Art. 34 RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿Qué documento es necesario para inscribir en el Registro de la propiedad los bienes inmuebles de una entidad local?",
+    "options": [
+      "Certificación del Pleno.",
+      "Certificación expedida por el Alcalde.",
+      "Certificación expedida por el Secretario.",
+      "Certificación expedida por la Comunidad Autónoma respectiva."
+    ],
+    "correct": 2,
+    "exp": "Art. 36.2: basta 'certificación que, con relación al inventario aprobado por la respectiva Corporación, expida el Secretario, con el visto bueno del Presidente' (igual en el art. 85 TRRL).",
+    "fuente": "Art. 36.2 RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿Quién debe dar el visto bueno a la certificación para inscribir un bien inmueble en el registro de la propiedad?",
+    "options": [
+      "El Pleno.",
+      "El Alcalde.",
+      "El Secretario.",
+      "La Comunidad Autónoma respectiva."
+    ],
+    "correct": 1,
+    "exp": "Art. 85 TRRL: certificación expedida por el Secretario 'con el visto bueno del Alcalde o Presidente'; el art. 36.2 RBEL dice 'Presidente de la Corporación', que en el municipio es el Alcalde.",
+    "fuente": "Art. 85 TRRL (RDLeg 781/1986)"
+  },
+  {
+    "q": "¿Cuál de las siguientes potestades no están asignadas a las corporaciones locales en relación con sus bienes?",
+    "options": [
+      "La potestad de investigación.",
+      "La potestad de recuperación.",
+      "La potestad de autorecuperación.",
+      "La potestad de deslinde."
+    ],
+    "correct": 2,
+    "exp": "Art. 44.1 lista cuatro potestades: investigación, deslinde, recuperación de oficio y desahucio administrativo. La 'autorecuperación' no existe en la norma.",
+    "fuente": "Art. 44.1 RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿Qué operación consiste en practicar las operaciones técnicas de comprobación y, en su caso, de rectificación de situaciones jurídicas plenamente acreditadas, en relación con un bien?",
+    "options": [
+      "Desahucio.",
+      "Deslinde.",
+      "Investigación.",
+      "Recuperación."
+    ],
+    "correct": 1,
+    "exp": "Art. 57.1: 'El deslinde consistirá en practicar las operaciones técnicas de comprobación y, en su caso, de rectificación de situaciones jurídicas plenamente acreditadas'.",
+    "fuente": "Art. 57.1 RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿De qué tiempo disponen las entidades locales para recuperar por sí mismas la tenencia de bienes de dominio público?",
+    "options": [
+      "De un año.",
+      "De dos años.",
+      "De cinco años.",
+      "No existe plazo máximo."
+    ],
+    "correct": 3,
+    "exp": "Art. 70.1: las Corporaciones locales podrán recobrar por sí la tenencia de sus bienes de dominio público 'en cualquier tiempo', es decir sin plazo máximo (concuerda con el art. 82.a LBRL).",
+    "fuente": "Art. 70.1 RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿De qué tiempo disponen las entidades locales para recuperar por sí mismas la tenencia de bienes patrimoniales?",
+    "options": [
+      "De un año.",
+      "De dos años.",
+      "De cinco años.",
+      "No existe plazo máximo."
+    ],
+    "correct": 0,
+    "exp": "Art. 70.2: para los bienes patrimoniales el plazo para recobrarlos es de UN AÑO desde el día siguiente a la usurpación; después, acción ante los Tribunales ordinarios.",
+    "fuente": "Art. 70.2 RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿Se admiten interdictos contra actuaciones de agentes de la autoridad en materia de recuperación de bienes?",
+    "options": [
+      "Sí, en cualquier caso.",
+      "Sólo en casos excepcionales.",
+      "Sí, con aprobación previa del Pleno.",
+      "No, en ningún caso."
+    ],
+    "correct": 3,
+    "exp": "Art. 70.3: 'No se admiten interdictos contra las actuaciones de los Agentes de la autoridad en esta materia' (en la misma línea, art. 66 para el deslinde).",
+    "fuente": "Art. 70.3 RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿Cómo se denomina el uso que corresponde por igual a todos los ciudadanos indistintamente, de modo que el uso de unos no impida el de los demás interesados?",
+    "options": [
+      "Uso común.",
+      "Uso propio.",
+      "Uso normal.",
+      "Uso ordinario."
+    ],
+    "correct": 0,
+    "exp": "Art. 75.1 define el uso común como el correspondiente por igual a todos los ciudadanos indistintamente, de modo que el uso de unos no impida el de los demás interesados.",
+    "fuente": "Art. 75.1 RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿Cómo se denomina el uso que corresponde por igual a todos los ciudadanos indistintamente, de modo que el uso de unos no impida el de los demás interesados, pero en el que concurren circunstancias de peligrosidad?",
+    "options": [
+      "Uso común general.",
+      "Uso común especial.",
+      "Uso privativo.",
+      "Uso normal."
+    ],
+    "correct": 1,
+    "exp": "Art. 75.1.b: el uso común es especial cuando concurren circunstancias singulares 'por la peligrosidad, intensidad del uso o cualquiera otra semejante'.",
+    "fuente": "Art. 75.1.b RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿Cómo se denomina el uso constituido por la ocupación de una porción de dominio público de modo que excluya la utilización por los demás interesados?",
+    "options": [
+      "Uso privativo.",
+      "Uso normal.",
+      "Uso anormal.",
+      "Uso general."
+    ],
+    "correct": 0,
+    "exp": "Art. 75.2: uso privativo es el constituido por la ocupación de una porción del dominio público de modo que limite o excluya la utilización por los demás interesados.",
+    "fuente": "Art. 75.2 RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿Cómo se denomina el uso que es conforme con el destino principal del dominio público al que afecte?",
+    "options": [
+      "Uso especial.",
+      "Uso ordinario.",
+      "Uso normal.",
+      "Uso común."
+    ],
+    "correct": 2,
+    "exp": "Art. 75.3: uso normal es el conforme con el destino principal del dominio público a que afecte (el anormal, art. 75.4).",
+    "fuente": "Art. 75.3 RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿Cómo se ejerce el uso común general de los bienes de dominio público?",
+    "options": [
+      "Por los ciudadanos que obtengan licencia.",
+      "Exclusivamente por el Ayuntamiento.",
+      "Libremente de acuerdo con la naturaleza de los bienes.",
+      "Con sometimiento a autorización previa."
+    ],
+    "correct": 2,
+    "exp": "Art. 76: el uso común general se ejercerá libremente, con arreglo a la naturaleza de los bienes, a los actos de afectación y apertura al uso público y a las leyes y reglamentos.",
+    "fuente": "Art. 76 RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿Cómo se ejerce el uso especial normal de los bienes de dominio público?",
+    "options": [
+      "Por los ciudadanos que obtengan licencia.",
+      "Exclusivamente por el Ayuntamiento.",
+      "Libremente de acuerdo con la naturaleza de los bienes.",
+      "Con sometimiento a autorización previa."
+    ],
+    "correct": 0,
+    "exp": "Art. 77.1: 'El uso común especial normal de los bienes de dominio público se sujetará a licencia'.",
+    "fuente": "Art. 77.1 RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "El uso privativo de bienes de dominio público:",
+    "options": [
+      "Está sujeto a la obtención de licencia.",
+      "Se destina exclusivamente al Ayuntamiento.",
+      "Es libre de acuerdo con la naturaleza de los bienes.",
+      "está sujeto a concesión administrativa."
+    ],
+    "correct": 3,
+    "exp": "Art. 78.1.a: está sujeto a concesión administrativa el uso privativo de bienes de dominio público.",
+    "fuente": "Art. 78.1.a RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "El uso anormal de bienes de dominio público:",
+    "options": [
+      "Está sujeto a la obtención de licencia.",
+      "Se destina exclusivamente al Ayuntamiento.",
+      "Es libre de acuerdo con la naturaleza de los bienes.",
+      "está sujeto a concesión administrativa."
+    ],
+    "correct": 3,
+    "exp": "Art. 78.1.b: está sujeto a concesión administrativa el uso anormal de los bienes de dominio público.",
+    "fuente": "Art. 78.1.b RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿Cómo se denominan los bienes que siendo propiedad de la entidad local, no están destinados al uso público ni afectados a ningún servicio público y pueden constituir una fuente de mejora del erario de la entidad?",
+    "options": [
+      "Bienes de dominio público.",
+      "Bienes de comunal.",
+      "Bienes patrimoniales.",
+      "Bienes demaniales."
+    ],
+    "correct": 2,
+    "exp": "Art. 6.1: son patrimoniales o de propios los que siendo propiedad de la Entidad local no estén destinados a uso público ni afectados a algún servicio público y puedan constituir fuentes de ingresos para el erario (igual en el art. 76 TRRL).",
+    "fuente": "Art. 6.1 RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿Cómo se considera una parcela sobrante?",
+    "options": [
+      "Como bien patrimonial.",
+      "Como bien de dominio público.",
+      "Como bien demanial.",
+      "Como bien comunal."
+    ],
+    "correct": 0,
+    "exp": "Art. 7.1: se clasifican como patrimoniales las parcelas sobrantes y los efectos no utilizables; 7.2 define la parcela sobrante por su reducida extensión, forma irregular o emplazamiento.",
+    "fuente": "Art. 7.1 y 7.2 RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿Cómo se consideran los efectos no utilizables?",
+    "options": [
+      "Como bien patrimonial.",
+      "Como bien de dominio público.",
+      "Como bien demanial.",
+      "Como bien comunal."
+    ],
+    "correct": 0,
+    "exp": "Art. 7.1: los efectos no utilizables se clasifican como bienes patrimoniales; 7.4 los define por deterioro, depreciación o deficiente estado de conservación.",
+    "fuente": "Art. 7.1 y 7.4 RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿En cual de los siguientes casos debe utilizarse la subasta para poder ceder un bien patrimonial?",
+    "options": [
+      "Cuando el tiempo de cesión sea superior a dos años.",
+      "Cuando el tiempo de cesión sea superior a un año.",
+      "Cuando el tiempo de cesión sea superior a tres años.",
+      "Cuando el tiempo de cesión sea superior a cinco años."
+    ],
+    "correct": 3,
+    "exp": "Art. 92.1: en el arrendamiento o cualquier otra cesión de uso de bienes patrimoniales 'será necesaria la realización de subasta siempre que la duración de la cesión fuera superior a cinco años o el precio estipulado exceda del 5 por 100 de los recursos ordinarios del presupuesto'.",
+    "fuente": "Art. 92.1 RBEL (RD 1372/1986)"
+  },
+  {
+    "q": "¿Cuándo se adjudicará el disfrute de un bien comunal por lotes?",
+    "options": [
+      "Cuando el disfrute sea impracticable en el modo común.",
+      "En cualquier caso.",
+      "En ningún caso.",
+      "Cuando lo establezca el Pleno."
+    ],
+    "correct": 0,
+    "exp": "Art. 94: el disfrute de comunales es en régimen de explotación común o cultivo colectivo y 'sólo cuando tal disfrute fuere impracticable' se acude al aprovechamiento peculiar o a la adjudicación por lotes o suertes.",
+    "fuente": "Art. 94.2.b RBEL (RD 1372/1986)"
+  },
 ],
 11:[
   {q:"El Capítulo II del Título VI de la LBRL se titula:",options:["Actividades y servicios","Bienes","Contratación","Personal al servicio de las Entidades locales"],correct:0,exp:"El Capítulo II del Título VI de la Ley 7/1985 lleva por título 'Actividades y servicios' y comprende los artículos 84 a 88."},
