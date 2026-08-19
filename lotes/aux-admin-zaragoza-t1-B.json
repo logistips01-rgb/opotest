@@ -1,0 +1,606 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 1,
+  "preguntas": [
+    {
+      "q": "Según el art. 1.2 CE, la soberanía nacional reside en el pueblo español, del que emanan:",
+      "options": [
+        "Todas las instituciones del Estado y de las Comunidades Autónomas",
+        "Los poderes del Estado",
+        "Los valores superiores del ordenamiento jurídico",
+        "La potestad legislativa y la potestad reglamentaria"
+      ],
+      "correct": 1,
+      "exp": "El art. 1.2 CE dispone literalmente: «La soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado».",
+      "fuente": "Art. 1.2 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 1.2 CE literal en el consolidado BOE-A-1978-31229: «del que emanan los poderes del Estado»; opción 1 exacta, las otras tres no aparecen en el precepto."
+    },
+    {
+      "q": "¿En qué orden enumera el art. 1.1 CE los valores superiores del ordenamiento jurídico?",
+      "options": [
+        "Libertad, igualdad, justicia y pluralismo político",
+        "Justicia, libertad, igualdad y pluralismo político",
+        "Igualdad, libertad, pluralismo político y justicia",
+        "Libertad, justicia, igualdad y pluralismo político"
+      ],
+      "correct": 3,
+      "exp": "El art. 1.1 CE los enumera en este orden: «la libertad, la justicia, la igualdad y el pluralismo político».",
+      "fuente": "Art. 1.1 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Orden literal del art. 1.1 CE verificado en el consolidado: libertad, justicia, igualdad y pluralismo político; solo la opción 3 reproduce esa secuencia."
+    },
+    {
+      "q": "Según el art. 1.1 CE, la libertad, la justicia, la igualdad y el pluralismo político son valores superiores:",
+      "options": [
+        "Del ordenamiento jurídico del Estado social y democrático de Derecho en que España se constituye",
+        "De la convivencia democrática de la Nación española",
+        "Del orden político y de la paz social",
+        "De la Constitución y del resto del ordenamiento jurídico"
+      ],
+      "correct": 0,
+      "exp": "El art. 1.1 CE dice que España se constituye en un Estado social y democrático de Derecho «que propugna como valores superiores de su ordenamiento jurídico» los cuatro citados. El «fundamento del orden político y de la paz social» es la fórmula del art. 10.1 CE, no del art. 1.1.",
+      "fuente": "Art. 1.1 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 1.1 CE: «valores superiores de su ordenamiento jurídico» (el del Estado social y democrático de Derecho). CORRECCIÓN aplicada: se arregla la sintaxis de la opción 0 («en que España se constituye»), sin cambiar su sentido. Comprobado además que «fundamento del orden político y de la paz social» es del art. 10.1 CE."
+    },
+    {
+      "q": "La proclamación de que la soberanía nacional reside en el pueblo español se contiene en el artículo 1 CE, apartado:",
+      "options": [
+        "Primero",
+        "Segundo",
+        "Tercero",
+        "Cuarto"
+      ],
+      "correct": 1,
+      "exp": "El art. 1 CE tiene tres apartados: el 1 recoge la cláusula de Estado social y democrático de Derecho y los valores superiores; el 2, la soberanía nacional; y el 3, la forma política del Estado.",
+      "fuente": "Art. 1.2 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado en el consolidado que el art. 1 CE tiene tres apartados y que la soberanía nacional está en el 1.2; «Cuarto» no existe, luego no hay segunda opción válida."
+    },
+    {
+      "q": "El art. 2 CE califica de «patria común e indivisible de todos los españoles» a:",
+      "options": [
+        "El territorio nacional",
+        "El pueblo español",
+        "La Nación española",
+        "El Estado español"
+      ],
+      "correct": 2,
+      "exp": "El art. 2 CE se refiere a «la indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles».",
+      "fuente": "Art. 2 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 2 CE literal: «la indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles»; el sujeto calificado es la Nación española (opción 2)."
+    },
+    {
+      "q": "Además del derecho a la autonomía de las nacionalidades y regiones que la integran, ¿qué reconoce y garantiza el art. 2 CE?",
+      "options": [
+        "La solidaridad entre todas ellas",
+        "La igualdad de derechos y obligaciones entre todas ellas",
+        "El equilibrio económico adecuado y justo entre todas ellas",
+        "La cooperación de todas ellas con el Estado"
+      ],
+      "correct": 0,
+      "exp": "El art. 2 CE «reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas». El equilibrio económico adecuado y justo entre las partes del territorio es materia del art. 138.1 CE.",
+      "fuente": "Art. 2 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 2 CE: «...y la solidaridad entre todas ellas». Verificado también que el «equilibrio económico, adecuado y justo» es del art. 138.1 CE, usado solo como distractor."
+    },
+    {
+      "q": "¿Cuál de las siguientes previsiones sobre los partidos políticos NO figura en el art. 6 CE?",
+      "options": [
+        "Expresan el pluralismo político",
+        "Concurren a la formación y manifestación de la voluntad popular",
+        "Su estructura interna y funcionamiento deberán ser democráticos",
+        "Su régimen de financiación se establecerá mediante ley orgánica"
+      ],
+      "correct": 3,
+      "exp": "El art. 6 CE no dice nada sobre la financiación de los partidos: se limita a señalar que expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular, son instrumento fundamental para la participación política, que su creación y actividad son libres dentro del respeto a la Constitución y a la ley y que su estructura interna y funcionamiento deberán ser democráticos.",
+      "fuente": "Art. 6 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejadas las cuatro opciones con el texto íntegro del art. 6 CE: las tres primeras son literales; la financiación por ley orgánica no aparece en el precepto, luego hay una sola respuesta."
+    },
+    {
+      "q": "¿Cuál de los siguientes artículos del Título Preliminar consta de un único párrafo, sin división en apartados numerados?",
+      "options": [
+        "El artículo 3",
+        "El artículo 4",
+        "El artículo 6",
+        "El artículo 8"
+      ],
+      "correct": 2,
+      "exp": "El art. 6 CE (partidos políticos) es un único párrafo sin apartados, igual que los arts. 2, 5 y 7. En cambio el art. 3 tiene tres apartados y los arts. 4 y 8 tienen dos cada uno.",
+      "fuente": "Arts. 3, 4, 6 y 8 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Recuento de apartados en el consolidado: art. 3 (tres), art. 4 (dos), art. 8 (dos), art. 6 (párrafo único). Comprobado también que arts. 2, 5 y 7 son de párrafo único, como dice la explicación."
+    },
+    {
+      "q": "Según el art. 3.2 CE, las demás lenguas españolas serán también oficiales en las respectivas Comunidades Autónomas de acuerdo con:",
+      "options": [
+        "La ley orgánica que las declare cooficiales",
+        "Sus Estatutos",
+        "Lo que disponga la legislación básica del Estado",
+        "Los acuerdos que adopten sus Asambleas Legislativas"
+      ],
+      "correct": 1,
+      "exp": "El art. 3.2 CE remite directamente a los Estatutos: «Las demás lenguas españolas serán también oficiales en las respectivas Comunidades Autónomas de acuerdo con sus Estatutos».",
+      "fuente": "Art. 3.2 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 3.2 CE literal: «...de acuerdo con sus Estatutos»; ninguna de las otras tres normas citadas aparece en el apartado."
+    },
+    {
+      "q": "El carácter oficial que el art. 3.2 CE atribuye a las demás lenguas españolas se proyecta sobre:",
+      "options": [
+        "Todo el territorio del Estado, en pie de igualdad con el castellano",
+        "Las provincias y municipios en que dichas lenguas sean de uso tradicional",
+        "Las Comunidades Autónomas y las relaciones de estas con la Administración del Estado",
+        "Las respectivas Comunidades Autónomas"
+      ],
+      "correct": 3,
+      "exp": "El art. 3.2 CE circunscribe la oficialidad de las demás lenguas españolas a «las respectivas Comunidades Autónomas», de acuerdo con sus Estatutos. Solo el castellano es la lengua española oficial del Estado (art. 3.1 CE).",
+      "fuente": "Art. 3.2 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 3.2 CE limita la oficialidad a «las respectivas Comunidades Autónomas» (opción 3); comprobado que el art. 3.1 reserva al castellano la oficialidad estatal."
+    },
+    {
+      "q": "Según el art. 3.3 CE, la riqueza de las distintas modalidades lingüísticas de España será objeto de:",
+      "options": [
+        "Especial respeto y protección",
+        "Especial protección y fomento",
+        "Respeto y tutela por todos los poderes públicos",
+        "Protección reforzada por parte de las Comunidades Autónomas"
+      ],
+      "correct": 0,
+      "exp": "El art. 3.3 CE dice que esa riqueza «es un patrimonio cultural que será objeto de especial respeto y protección».",
+      "fuente": "Art. 3.3 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 3.3 CE literal: «será objeto de especial respeto y protección»; ni «fomento» ni «tutela» figuran en el apartado."
+    },
+    {
+      "q": "¿En qué apartado del art. 3 CE se encuentra la remisión a los Estatutos de las Comunidades Autónomas?",
+      "options": [
+        "En el apartado 1",
+        "En el apartado 2",
+        "En el apartado 3",
+        "En los apartados 2 y 3"
+      ],
+      "correct": 1,
+      "exp": "Solo el art. 3.2 CE remite a los Estatutos. El apartado 1 regula el castellano como lengua oficial del Estado y el apartado 3 las modalidades lingüísticas, sin mencionar los Estatutos.",
+      "fuente": "Art. 3.2 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Búsqueda de «Estatutos» en el art. 3 CE: solo aparece en el apartado 2; los apartados 1 y 3 no los mencionan."
+    },
+    {
+      "q": "¿Cuál de las siguientes afirmaciones se ajusta al art. 3 CE?",
+      "options": [
+        "Las modalidades lingüísticas de España se declaran patrimonio nacional de titularidad estatal",
+        "El derecho a usar el castellano solo se reconoce a los españoles residentes en Comunidades sin lengua propia",
+        "Todos los españoles tienen el deber de conocer el castellano",
+        "Las demás lenguas españolas son oficiales en todo el territorio del Estado"
+      ],
+      "correct": 2,
+      "exp": "El art. 3.1 CE impone a todos los españoles el deber de conocer el castellano y les reconoce el derecho a usarlo. Las demás lenguas son oficiales solo en sus Comunidades Autónomas (art. 3.2) y las modalidades lingüísticas se califican de «patrimonio cultural», no de patrimonio nacional (art. 3.3).",
+      "fuente": "Art. 3.1 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 3.1 CE: «Todos los españoles tienen el deber de conocerla y el derecho a usarla» (opción 2). Verificado que el art. 3.3 habla de «patrimonio cultural» y el 3.2 limita la oficialidad a las respectivas CCAA, luego los otros tres enunciados son falsos."
+    },
+    {
+      "q": "Según el art. 4.2 CE, ¿qué norma podrá reconocer banderas y enseñas propias de las Comunidades Autónomas?",
+      "options": [
+        "Los Estatutos",
+        "Una ley orgánica del Estado",
+        "Las leyes de las respectivas Asambleas Legislativas",
+        "Un real decreto aprobado a propuesta de la Comunidad Autónoma"
+      ],
+      "correct": 0,
+      "exp": "El art. 4.2 CE dispone: «Los Estatutos podrán reconocer banderas y enseñas propias de las Comunidades Autónomas».",
+      "fuente": "Art. 4.2 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 4.2 CE literal: «Los Estatutos podrán reconocer banderas y enseñas propias de las Comunidades Autónomas»."
+    },
+    {
+      "q": "Según el art. 4.2 CE, las banderas y enseñas propias de las Comunidades Autónomas se utilizarán junto a la bandera de España:",
+      "options": [
+        "En sus edificios públicos y en sus actos oficiales",
+        "En sus sedes institucionales y en los actos de carácter solemne",
+        "En sus edificios oficiales y en los actos públicos que celebren",
+        "En todos los edificios y actos que se desarrollen en su territorio"
+      ],
+      "correct": 0,
+      "exp": "El art. 4.2 CE, in fine: «Estas se utilizarán junto a la bandera de España en sus edificios públicos y en sus actos oficiales».",
+      "fuente": "Art. 4.2 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 4.2 CE in fine, literal: «en sus edificios públicos y en sus actos oficiales»; las otras tres son variantes no textuales del mismo tipo."
+    },
+    {
+      "q": "¿Cuál de las siguientes afirmaciones NO se ajusta al art. 4 CE?",
+      "options": [
+        "Las tres franjas de la bandera de España son horizontales",
+        "La franja amarilla es de doble anchura que cada una de las rojas",
+        "Los Estatutos podrán reconocer banderas y enseñas propias de las Comunidades Autónomas",
+        "Las banderas propias de las Comunidades Autónomas sustituirán a la de España en sus edificios públicos"
+      ],
+      "correct": 3,
+      "exp": "El art. 4.2 CE establece que las banderas autonómicas «se utilizarán junto a la bandera de España», no en sustitución de ella. Las otras tres afirmaciones reproducen los arts. 4.1 y 4.2 CE.",
+      "fuente": "Art. 4 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Verificadas las tres primeras opciones contra los arts. 4.1 y 4.2 CE (franjas horizontales; amarilla de doble anchura; Estatutos); el art. 4.2 dice «junto a la bandera de España», nunca en sustitución. CORRECCIÓN aplicada: la fuente pasa de «Art. 4.2 CE» a «Art. 4 CE» porque el enunciado abarca también el 4.1."
+    },
+    {
+      "q": "¿En qué artículo de la Constitución se establece que la capital del Estado es la villa de Madrid?",
+      "options": [
+        "En el artículo 3",
+        "En el artículo 4",
+        "En el artículo 6",
+        "En el artículo 5"
+      ],
+      "correct": 3,
+      "exp": "El art. 5 CE, único precepto del Título Preliminar dedicado a la capitalidad, dispone: «La capital del Estado es la villa de Madrid».",
+      "fuente": "Art. 5 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 5 CE literal: «La capital del Estado es la villa de Madrid»; comprobado que los arts. 3, 4 y 6 regulan lenguas, bandera y partidos."
+    },
+    {
+      "q": "Según el art. 6 CE, los partidos políticos concurren a la formación y manifestación de:",
+      "options": [
+        "La voluntad popular",
+        "La opinión pública",
+        "La voluntad general del Estado",
+        "La soberanía nacional"
+      ],
+      "correct": 0,
+      "exp": "El art. 6 CE: los partidos políticos «expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y son instrumento fundamental para la participación política».",
+      "fuente": "Art. 6 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 6 CE literal: «concurren a la formación y manifestación de la voluntad popular»; «opinión pública» y «soberanía nacional» no aparecen en el precepto."
+    },
+    {
+      "q": "Según el art. 6 CE, los partidos políticos son instrumento fundamental para:",
+      "options": [
+        "La formación de la voluntad del Estado",
+        "El ejercicio del derecho de sufragio",
+        "La participación política",
+        "La participación de los ciudadanos en los asuntos públicos"
+      ],
+      "correct": 2,
+      "exp": "El art. 6 CE los define como «instrumento fundamental para la participación política». La participación en los asuntos públicos es la fórmula del derecho del art. 23 CE, no del art. 6.",
+      "fuente": "Art. 6 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 6 CE literal: «instrumento fundamental para la participación política». Verificado que «participar en los asuntos públicos» es la fórmula del art. 23.1 CE, usada solo como distractor."
+    },
+    {
+      "q": "La exigencia de que «su estructura interna y funcionamiento deberán ser democráticos» se impone en el Título Preliminar de la Constitución a:",
+      "options": [
+        "Los partidos políticos y los sindicatos de trabajadores, pero no a las asociaciones empresariales",
+        "Los partidos políticos, los sindicatos de trabajadores y las asociaciones empresariales",
+        "Únicamente a los partidos políticos",
+        "Los partidos políticos, los sindicatos y los colegios profesionales"
+      ],
+      "correct": 1,
+      "exp": "La misma exigencia aparece dos veces, con idéntica redacción: en el art. 6 CE para los partidos políticos y en el art. 7 CE para los sindicatos de trabajadores y las asociaciones empresariales. Los colegios profesionales no se mencionan en el Título Preliminar.",
+      "fuente": "Arts. 6 y 7 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "La frase «Su estructura interna y funcionamiento deberán ser democráticos» aparece dos veces en los arts. 1 a 9: art. 6 (partidos) y art. 7 (sindicatos y asociaciones empresariales). Comprobado que la exigencia para los colegios profesionales está en el art. 36 CE, fuera del Título Preliminar."
+    },
+    {
+      "q": "Según el art. 7 CE, los sindicatos de trabajadores y las asociaciones empresariales contribuyen a la defensa y promoción de los intereses:",
+      "options": [
+        "Profesionales y laborales de sus afiliados",
+        "Sociales y laborales de los trabajadores",
+        "Económicos y profesionales del sector que representan",
+        "Económicos y sociales que les son propios"
+      ],
+      "correct": 3,
+      "exp": "El art. 7 CE: «contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios».",
+      "fuente": "Art. 7 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 7 CE literal: «los intereses económicos y sociales que les son propios»."
+    },
+    {
+      "q": "¿Cuál de las siguientes organizaciones se menciona expresamente en el art. 7 CE?",
+      "options": [
+        "Los colegios profesionales",
+        "Las asociaciones empresariales",
+        "Las organizaciones profesionales",
+        "Las corporaciones de derecho público"
+      ],
+      "correct": 1,
+      "exp": "El art. 7 CE se refiere exclusivamente a «los sindicatos de trabajadores y las asociaciones empresariales». Los colegios profesionales y las organizaciones profesionales se contemplan en el Título I (arts. 36 y 52 CE), no en el Título Preliminar.",
+      "fuente": "Art. 7 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "El art. 7 CE solo nombra «los sindicatos de trabajadores y las asociaciones empresariales». Verificado que colegios profesionales (art. 36) y organizaciones profesionales (art. 52) están en el Título I, usados aquí solo como opciones falsas."
+    },
+    {
+      "q": "¿En qué orden enumera el art. 8.1 CE los cuerpos que constituyen las Fuerzas Armadas?",
+      "options": [
+        "La Armada, el Ejército de Tierra y el Ejército del Aire",
+        "El Ejército de Tierra, el Ejército del Aire y la Armada",
+        "El Ejército de Tierra, la Armada y el Ejército del Aire",
+        "El Ejército de Tierra, la Armada, el Ejército del Aire y la Guardia Civil"
+      ],
+      "correct": 2,
+      "exp": "El art. 8.1 CE: «Las Fuerzas Armadas, constituidas por el Ejército de Tierra, la Armada y el Ejército del Aire...». La Guardia Civil no figura en ese artículo.",
+      "fuente": "Art. 8.1 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 8.1 CE literal: «constituidas por el Ejército de Tierra, la Armada y el Ejército del Aire»; comprobado por búsqueda que «Guardia Civil» no aparece en los arts. 1 a 9."
+    },
+    {
+      "q": "Conforme a la redacción literal del art. 8.1 CE, el tercero de los cuerpos que constituyen las Fuerzas Armadas se denomina:",
+      "options": [
+        "Ejército del Aire y del Espacio",
+        "Fuerzas Aéreas Españolas",
+        "Ejército del Aire",
+        "Ejército Aéreo"
+      ],
+      "correct": 2,
+      "exp": "El texto consolidado del art. 8.1 CE mantiene la denominación «el Ejército del Aire», que es la que hay que dar por buena al citar la Constitución.",
+      "fuente": "Art. 8.1 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "El texto consolidado a 20/05/2026 mantiene en el art. 8.1 CE «el Ejército del Aire»: búsqueda de «Espacio» en los arts. 1 a 9 sin resultados. El enunciado acota «conforme a la redacción literal», por lo que el distractor de la denominación actual no es respuesta válida."
+    },
+    {
+      "q": "¿Cuál de las siguientes NO es una misión de las Fuerzas Armadas según el art. 8.1 CE?",
+      "options": [
+        "Garantizar la soberanía e independencia de España",
+        "Defender la integridad territorial de España",
+        "Defender el ordenamiento constitucional",
+        "Proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana"
+      ],
+      "correct": 3,
+      "exp": "El art. 8.1 CE atribuye a las Fuerzas Armadas garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional. Proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana es la misión de las Fuerzas y Cuerpos de Seguridad (art. 104.1 CE).",
+      "fuente": "Art. 8.1 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Las tres primeras opciones son literales del art. 8.1 CE; la cuarta reproduce el art. 104.1 CE (Fuerzas y Cuerpos de seguridad), verificado en el consolidado, y no figura en el art. 8."
+    },
+    {
+      "q": "Según el art. 8.2 CE, la ley orgánica regulará las bases de la organización militar conforme a:",
+      "options": [
+        "Los principios de la presente Constitución",
+        "Los principios de jerarquía, disciplina y unidad",
+        "Los compromisos internacionales asumidos por España",
+        "Las directrices que fije el Gobierno en materia de defensa"
+      ],
+      "correct": 0,
+      "exp": "El art. 8.2 CE: «Una ley orgánica regulará las bases de la organización militar conforme a los principios de la presente Constitución».",
+      "fuente": "Art. 8.2 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 8.2 CE literal: «conforme a los principios de la presente Constitución»."
+    },
+    {
+      "q": "¿En qué precepto del Título Preliminar se exige expresamente una ley orgánica?",
+      "options": [
+        "En el art. 6 CE",
+        "En el art. 7 CE",
+        "En el art. 9.3 CE",
+        "En el art. 8.2 CE"
+      ],
+      "correct": 3,
+      "exp": "La única remisión a ley orgánica del Título Preliminar es la del art. 8.2 CE, sobre las bases de la organización militar.",
+      "fuente": "Art. 8.2 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Búsqueda de «ley orgánica» en el cuerpo de los arts. 1 a 9: única aparición en el art. 8.2 CE, luego la opción 3 es la única válida."
+    },
+    {
+      "q": "Según el art. 9.1 CE, están sujetos a la Constitución y al resto del ordenamiento jurídico:",
+      "options": [
+        "Los poderes públicos, sin excepción",
+        "Los españoles y los extranjeros que se encuentren en España",
+        "Los ciudadanos y los poderes públicos",
+        "Los poderes del Estado, de las Comunidades Autónomas y de las entidades locales"
+      ],
+      "correct": 2,
+      "exp": "El art. 9.1 CE: «Los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico».",
+      "fuente": "Art. 9.1 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 9.1 CE literal: «Los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico». Solo la opción 2 reproduce el precepto; las demás omiten a los ciudadanos o añaden términos («sin excepción», enumeración de poderes territoriales) que no están en el apartado."
+    },
+    {
+      "q": "Además de promover las condiciones para que la libertad y la igualdad sean reales y efectivas, el art. 9.2 CE encomienda a los poderes públicos:",
+      "options": [
+        "Remover los obstáculos que impidan o dificulten su plenitud",
+        "Adoptar medidas de acción positiva en favor de los grupos desfavorecidos",
+        "Eliminar toda forma de discriminación por razón de nacimiento, raza o sexo",
+        "Corregir las desigualdades económicas entre los ciudadanos"
+      ],
+      "correct": 0,
+      "exp": "El art. 9.2 CE ordena a los poderes públicos «remover los obstáculos que impidan o dificulten su plenitud» y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social.",
+      "fuente": "Art. 9.2 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 9.2 CE literal: «remover los obstáculos que impidan o dificulten su plenitud»; ni «acción positiva» ni la prohibición de discriminación del art. 14 CE figuran en el apartado."
+    },
+    {
+      "q": "La libertad y la igualdad cuya efectividad real deben promover los poderes públicos conforme al art. 9.2 CE se predican:",
+      "options": [
+        "De todos los ciudadanos españoles",
+        "Del individuo y de los grupos en que se integra",
+        "De las personas y de los grupos sociales organizados",
+        "De los individuos y de los pueblos de España"
+      ],
+      "correct": 1,
+      "exp": "El art. 9.2 CE se refiere a «la libertad y la igualdad del individuo y de los grupos en que se integra».",
+      "fuente": "Art. 9.2 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 9.2 CE literal: «la libertad y la igualdad del individuo y de los grupos en que se integra»."
+    },
+    {
+      "q": "¿Cuál es el primer principio que enumera el art. 9.3 CE?",
+      "options": [
+        "La jerarquía normativa",
+        "La seguridad jurídica",
+        "La publicidad de las normas",
+        "El principio de legalidad"
+      ],
+      "correct": 3,
+      "exp": "El art. 9.3 CE comienza: «La Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas...».",
+      "fuente": "Art. 9.3 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "El art. 9.3 CE empieza por «el principio de legalidad»; jerarquía normativa, publicidad y seguridad jurídica van después en la misma enumeración."
+    },
+    {
+      "q": "¿Cuántos principios garantiza expresamente el art. 9.3 CE?",
+      "options": [
+        "Cinco",
+        "Seis",
+        "Siete",
+        "Ocho"
+      ],
+      "correct": 2,
+      "exp": "El art. 9.3 CE enumera siete: principio de legalidad, jerarquía normativa, publicidad de las normas, irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, seguridad jurídica, responsabilidad e interdicción de la arbitrariedad de los poderes públicos.",
+      "fuente": "Art. 9.3 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Recuento sobre el literal del art. 9.3 CE: legalidad, jerarquía normativa, publicidad de las normas, irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, seguridad jurídica, responsabilidad e interdicción de la arbitrariedad de los poderes públicos = siete."
+    },
+    {
+      "q": "En la enumeración del art. 9.3 CE, ¿qué principio figura inmediatamente antes de la responsabilidad?",
+      "options": [
+        "La seguridad jurídica",
+        "La publicidad de las normas",
+        "La interdicción de la arbitrariedad de los poderes públicos",
+        "La jerarquía normativa"
+      ],
+      "correct": 0,
+      "exp": "El orden literal del art. 9.3 CE es: el principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos. La responsabilidad va precedida de la seguridad jurídica y seguida de la interdicción de la arbitrariedad.",
+      "fuente": "Art. 9.3 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Orden literal del art. 9.3 CE comprobado: «...la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos», luego la responsabilidad va precedida de la seguridad jurídica. CORRECCIÓN aplicada: la explicación se ajusta al literal («la responsabilidad y la interdicción»)."
+    },
+    {
+      "q": "¿En qué apartado del art. 9 CE se garantizan el principio de legalidad, la jerarquía normativa y la publicidad de las normas?",
+      "options": [
+        "En el apartado 1",
+        "En el apartado 2",
+        "En el apartado 3",
+        "En el apartado 3, salvo la publicidad de las normas, que figura en el apartado 2"
+      ],
+      "correct": 2,
+      "exp": "Los tres principios están en el art. 9.3 CE. El apartado 1 contiene la sujeción de ciudadanos y poderes públicos a la Constitución y al resto del ordenamiento; el apartado 2, los deberes de los poderes públicos en materia de libertad, igualdad y participación.",
+      "fuente": "Art. 9.3 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Los tres principios están en el art. 9.3 CE; verificado que el art. 9.1 contiene la sujeción al ordenamiento y el 9.2 los deberes de los poderes públicos, por lo que la opción compuesta que traslada la publicidad al 9.2 es falsa."
+    },
+    {
+      "q": "¿Cuál de las siguientes correspondencias entre apartado del art. 9 CE y su contenido es correcta?",
+      "options": [
+        "Art. 9.2 CE: garantía del principio de legalidad y de la jerarquía normativa",
+        "Art. 9.3 CE: remoción de los obstáculos que impidan la plenitud de la libertad y la igualdad",
+        "Art. 9.1 CE: facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social",
+        "Art. 9.1 CE: sujeción de los ciudadanos y de los poderes públicos a la Constitución y al resto del ordenamiento jurídico"
+      ],
+      "correct": 3,
+      "exp": "La sujeción de ciudadanos y poderes públicos es el art. 9.1 CE. La remoción de obstáculos y la facilitación de la participación son deberes del art. 9.2 CE, y la legalidad y la jerarquía normativa son principios del art. 9.3 CE.",
+      "fuente": "Art. 9.1 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Cotejadas las cuatro correspondencias con los tres apartados del art. 9 CE: solo la opción 3 (sujeción de ciudadanos y poderes públicos = art. 9.1) es cierta."
+    },
+    {
+      "q": "El pluralismo político se menciona en el Título Preliminar como valor superior del ordenamiento jurídico (art. 1.1 CE) y, además, en relación con:",
+      "options": [
+        "Los partidos políticos, que lo expresan",
+        "Los sindicatos de trabajadores y las asociaciones empresariales, que lo expresan",
+        "Las Cortes Generales, que lo representan",
+        "Las nacionalidades y regiones que integran la Nación española"
+      ],
+      "correct": 0,
+      "exp": "El art. 6 CE comienza afirmando que «los partidos políticos expresan el pluralismo político». El art. 7 CE, sobre sindicatos y asociaciones empresariales, no contiene esa referencia.",
+      "fuente": "Arts. 1.1 y 6 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Búsqueda de «pluralismo» en los arts. 1 a 9: solo dos apariciones, art. 1.1 (valor superior) y art. 6 («Los partidos políticos expresan el pluralismo político»); el art. 7 no lo menciona."
+    },
+    {
+      "q": "¿Cuál de los siguientes contenidos NO se encuentra en el Título Preliminar de la Constitución (arts. 1 a 9)?",
+      "options": [
+        "La capital del Estado",
+        "La dignidad de la persona como fundamento del orden político y de la paz social",
+        "La bandera de España",
+        "La sujeción de los poderes públicos al ordenamiento jurídico"
+      ],
+      "correct": 1,
+      "exp": "La dignidad de la persona como fundamento del orden político y de la paz social está en el art. 10.1 CE, ya en el Título I. La capitalidad (art. 5), la bandera (art. 4) y la sujeción al ordenamiento (art. 9.1) sí pertenecen al Título Preliminar.",
+      "fuente": "Arts. 4, 5 y 9.1 CE; art. 10.1 CE (fuera del Título Preliminar)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado que capitalidad (art. 5), bandera (art. 4) y sujeción al ordenamiento (art. 9.1) están en los arts. 1 a 9, y que «dignidad» no aparece en ese tramo: la fórmula «fundamento del orden político y de la paz social» es del art. 10.1 CE, ya en el Título I. Pregunta sobre el propio Título Preliminar, con el art. 10.1 solo como contenido excluido. CORRECCIÓN aplicada: la fuente cita ahora también los artículos del tramo que sustentan las tres opciones falsas."
+    },
+    {
+      "q": "El término «solidaridad» aparece en el Título Preliminar de la Constitución en el:",
+      "options": [
+        "Artículo 1",
+        "Artículo 2",
+        "Artículo 7",
+        "Artículo 9"
+      ],
+      "correct": 1,
+      "exp": "El art. 2 CE garantiza «la solidaridad entre todas ellas», referida a las nacionalidades y regiones. Ningún otro artículo del Título Preliminar emplea ese término.",
+      "fuente": "Art. 2 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Búsqueda de «solidaridad» en los arts. 1 a 9: única aparición en el art. 2 CE («la solidaridad entre todas ellas»); arts. 1, 7 y 9 no emplean el término."
+    },
+    {
+      "q": "En el Título Preliminar, la remisión a los Estatutos aparece en materia de:",
+      "options": [
+        "Lenguas oficiales, únicamente",
+        "Banderas y enseñas de las Comunidades Autónomas, únicamente",
+        "Lenguas oficiales y banderas y enseñas de las Comunidades Autónomas",
+        "Lenguas oficiales y capitalidad del Estado"
+      ],
+      "correct": 2,
+      "exp": "Los Estatutos se mencionan dos veces en el Título Preliminar: en el art. 3.2 CE (oficialidad de las demás lenguas españolas) y en el art. 4.2 CE (banderas y enseñas propias de las Comunidades Autónomas). El art. 5 CE, sobre la capital, no los menciona.",
+      "fuente": "Arts. 3.2 y 4.2 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Búsqueda de «Estatutos» en los arts. 1 a 9: dos apariciones, art. 3.2 (lenguas) y art. 4.2 (banderas y enseñas); el art. 5 no los menciona."
+    },
+    {
+      "q": "¿Cuál de las siguientes afirmaciones sobre el art. 2 CE es INCORRECTA?",
+      "options": [
+        "La Constitución se fundamenta en la indisoluble unidad de la Nación española",
+        "La Nación española es patria común e indivisible de todos los españoles",
+        "Se reconoce y garantiza el derecho a la autodeterminación de las nacionalidades y regiones",
+        "Se garantiza la solidaridad entre las nacionalidades y regiones que integran la Nación española"
+      ],
+      "correct": 2,
+      "exp": "El art. 2 CE reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones, no un derecho de autodeterminación. Las otras tres afirmaciones reproducen su contenido literal.",
+      "fuente": "Art. 2 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Las opciones 0, 1 y 3 son literales del art. 2 CE; el precepto reconoce «el derecho a la autonomía», no a la autodeterminación, término que no aparece en los arts. 1 a 9."
+    }
+  ]
+}

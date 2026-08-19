@@ -1,0 +1,606 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 1,
+  "preguntas": [
+    {
+      "q": "¿Con arreglo a qué ejerce el Gobierno sus potestades, según el inciso final del art. 97 CE?",
+      "options": [
+        "De acuerdo con la Constitución y las leyes",
+        "De acuerdo con la Constitución y los tratados internacionales",
+        "Con sujeción exclusiva a la Constitución",
+        "De acuerdo con las leyes y los reglamentos de organización"
+      ],
+      "correct": 0,
+      "exp": "El art. 97 CE cierra el precepto señalando que el Gobierno «ejerce la función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las leyes».",
+      "fuente": "Art. 97 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 97 CE literal: «ejerce la función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las leyes»; opción 0 correcta, las otras tres no figuran."
+    },
+    {
+      "q": "Según el art. 106.2 CE, ¿sobre qué debe recaer la lesión para que nazca el derecho a indemnización?",
+      "options": [
+        "Sobre sus derechos fundamentales, exclusivamente",
+        "Sobre su patrimonio, siempre que la lesión sea evaluable económicamente",
+        "Sobre cualquiera de sus bienes y derechos",
+        "Sobre sus bienes inmuebles y derechos de contenido patrimonial"
+      ],
+      "correct": 2,
+      "exp": "El art. 106.2 CE reconoce el derecho a ser indemnizado «por toda lesión que sufran en cualquiera de sus bienes y derechos», sin restringirlo a una categoría concreta.",
+      "fuente": "Art. 106.2 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 106.2 CE literal: «por toda lesión que sufran en cualquiera de sus bienes y derechos»; ningún otro distractor reproduce esa fórmula."
+    },
+    {
+      "q": "¿Cuál de los siguientes cargos NO se menciona expresamente en el art. 98.1 CE al enumerar la composición del Gobierno?",
+      "options": [
+        "El Presidente",
+        "Los Vicepresidentes, en su caso",
+        "Los Ministros",
+        "Los Secretarios de Estado"
+      ],
+      "correct": 3,
+      "exp": "El art. 98.1 CE enumera al Presidente, a los Vicepresidentes en su caso, a los Ministros y a «los demás miembros que establezca la ley»; los Secretarios de Estado no aparecen citados en el texto constitucional.",
+      "fuente": "Art. 98.1 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 98.1 CE enumera Presidente, Vicepresidentes en su caso, Ministros y «los demás miembros que establezca la ley»: las tres opciones descartadas sí figuran literalmente y los Secretarios de Estado no aparecen en el texto constitucional."
+    },
+    {
+      "q": "El art. 98.2 CE, al atribuir al Presidente la coordinación de las funciones de los demás miembros del Gobierno, precisa que ello se entiende:",
+      "options": [
+        "Asumiendo la responsabilidad exclusiva de la gestión de todos ellos",
+        "Sin perjuicio de las facultades de dirección del Consejo de Ministros",
+        "Salvo en las materias reservadas a la ley",
+        "Sin perjuicio de la competencia y responsabilidad directa de éstos en su gestión"
+      ],
+      "correct": 3,
+      "exp": "El art. 98.2 CE añade la cláusula «sin perjuicio de la competencia y responsabilidad directa de éstos en su gestión», que preserva la responsabilidad propia de cada miembro del Gobierno.",
+      "fuente": "Art. 98.2 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 98.2 CE literal: «sin perjuicio de la competencia y responsabilidad directa de éstos en su gestión»; coincide con la opción 3."
+    },
+    {
+      "q": "Según el art. 98.3 CE, la única función representativa que pueden ejercer los miembros del Gobierno es:",
+      "options": [
+        "La propia del mandato parlamentario",
+        "La propia de los cargos electivos de la Administración local",
+        "La representación de España ante organismos internacionales",
+        "Cualquiera que autorice expresamente el Presidente del Gobierno"
+      ],
+      "correct": 0,
+      "exp": "El art. 98.3 CE prohíbe a los miembros del Gobierno ejercer «otras funciones representativas que las propias del mandato parlamentario», además de vedarles cualquier otra función pública que no derive de su cargo y toda actividad profesional o mercantil.",
+      "fuente": "Art. 98.3 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 98.3 CE literal: «no podrán ejercer otras funciones representativas que las propias del mandato parlamentario»; opción 0 correcta."
+    },
+    {
+      "q": "Según el art. 98.4 CE, el estatuto e incompatibilidades de los miembros del Gobierno se regularán por:",
+      "options": [
+        "Ley orgánica",
+        "La ley",
+        "Real decreto acordado en Consejo de Ministros",
+        "El Reglamento del Congreso de los Diputados"
+      ],
+      "correct": 1,
+      "exp": "El art. 98.4 CE se limita a decir que «la ley regulará el estatuto e incompatibilidades de los miembros del Gobierno», sin exigir ley orgánica.",
+      "fuente": "Art. 98.4 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 98.4 CE dice «La ley regulará el estatuto e incompatibilidades»: es ley ordinaria, no orgánica; correct=1 verificado."
+    },
+    {
+      "q": "Según el art. 99.1 CE, ¿a quién corresponde proponer un candidato a la Presidencia del Gobierno?",
+      "options": [
+        "Al Presidente del Congreso de los Diputados",
+        "Al Congreso de los Diputados en pleno",
+        "Al grupo parlamentario con mayor representación",
+        "Al Rey"
+      ],
+      "correct": 3,
+      "exp": "Conforme al art. 99.1 CE es el Rey quien, previa consulta con los representantes designados por los Grupos políticos con representación parlamentaria y a través del Presidente del Congreso, propone el candidato.",
+      "fuente": "Art. 99.1 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 99.1 CE: propone el Rey; el Presidente del Congreso es solo el cauce («a través de»), por lo que la opción 0 no es respuesta válida al enunciado."
+    },
+    {
+      "q": "Según el art. 99.1 CE, la propuesta de candidato a la Presidencia del Gobierno se realiza previa consulta con:",
+      "options": [
+        "Los representantes designados por los Grupos políticos con representación parlamentaria",
+        "Los Presidentes de ambas Cámaras",
+        "Los líderes de los partidos con representación en el Senado",
+        "El Gobierno en funciones y el Consejo de Estado"
+      ],
+      "correct": 0,
+      "exp": "El art. 99.1 CE exige consulta previa «con los representantes designados por los Grupos políticos con representación parlamentaria».",
+      "fuente": "Art. 99.1 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 99.1 CE literal: «previa consulta con los representantes designados por los Grupos políticos con representación parlamentaria»; opción 0 correcta."
+    },
+    {
+      "q": "Según el art. 99.1 CE, el Rey formula su propuesta de candidato a la Presidencia del Gobierno a través de:",
+      "options": [
+        "El Presidente del Senado",
+        "El Presidente del Gobierno en funciones",
+        "El Presidente del Congreso",
+        "El Presidente del Tribunal Constitucional"
+      ],
+      "correct": 2,
+      "exp": "El art. 99.1 CE establece que la propuesta se realiza «a través del Presidente del Congreso».",
+      "fuente": "Art. 99.1 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 99.1 CE literal: «y a través del Presidente del Congreso»; opción 2 correcta, no el Presidente del Senado."
+    },
+    {
+      "q": "Conforme al art. 99.1 CE, el procedimiento de designación del Presidente del Gobierno se pone en marcha:",
+      "options": [
+        "Únicamente cuando el Gobierno pierde la confianza parlamentaria",
+        "Tras la celebración de elecciones al Senado",
+        "Después de cada renovación de las Cortes Generales, exclusivamente",
+        "Después de cada renovación del Congreso de los Diputados y en los demás supuestos constitucionales en que así proceda"
+      ],
+      "correct": 3,
+      "exp": "El art. 99.1 CE se refiere al momento «después de cada renovación del Congreso de los Diputados, y en los demás supuestos constitucionales en que así proceda».",
+      "fuente": "Art. 99.1 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 99.1 CE literal: «Después de cada renovación del Congreso de los Diputados, y en los demás supuestos constitucionales en que así proceda»; las opciones que hablan de Senado, Cortes Generales o solo pérdida de confianza son falsas."
+    },
+    {
+      "q": "Según el art. 99.2 CE, el candidato propuesto a la Presidencia del Gobierno:",
+      "options": [
+        "Expondrá ante el Congreso de los Diputados el programa político del Gobierno que pretenda formar y solicitará la confianza de la Cámara",
+        "Expondrá su programa ante las Cortes Generales reunidas en sesión conjunta",
+        "Presentará por escrito su programa al Presidente del Congreso, que lo trasladará a los Grupos",
+        "Solicitará sucesivamente la confianza del Congreso y del Senado"
+      ],
+      "correct": 0,
+      "exp": "El art. 99.2 CE prevé que el candidato exponga ante el Congreso de los Diputados el programa político del Gobierno que pretenda formar y solicite la confianza de la Cámara.",
+      "fuente": "Art. 99.2 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 99.2 CE literal: expone «ante el Congreso de los Diputados el programa político del Gobierno que pretenda formar y solicitará la confianza de la Cámara»; no interviene el Senado ni hay sesión conjunta."
+    },
+    {
+      "q": "Según el art. 99.3 CE, en la segunda votación de investidura la confianza se entenderá otorgada si el candidato obtiene:",
+      "options": [
+        "La mayoría absoluta de los miembros del Congreso",
+        "La mayoría simple",
+        "Los dos tercios de los miembros del Congreso",
+        "Los tres quintos de los miembros del Congreso"
+      ],
+      "correct": 1,
+      "exp": "El art. 99.3 CE dispone que, de no alcanzarse la mayoría absoluta, se somete la misma propuesta a nueva votación y «la confianza se entenderá otorgada si obtuviere la mayoría simple».",
+      "fuente": "Art. 99.3 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 99.3 CE: primera votación mayoría absoluta; en la nueva votación «la confianza se entenderá otorgada si obtuviere la mayoría simple»; correct=1 verificado."
+    },
+    {
+      "q": "Según el art. 99.3 CE, una vez que el Congreso otorga su confianza al candidato, el nombramiento como Presidente del Gobierno corresponde a:",
+      "options": [
+        "El Presidente del Congreso",
+        "El Pleno del Congreso, mediante acuerdo",
+        "El Rey",
+        "El Consejo de Ministros saliente"
+      ],
+      "correct": 2,
+      "exp": "El art. 99.3 CE señala que si el Congreso otorga su confianza al candidato «el Rey le nombrará Presidente».",
+      "fuente": "Art. 99.3 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 99.3 CE literal: «el Rey le nombrará Presidente»; opción 2 correcta."
+    },
+    {
+      "q": "Según el art. 99.4 CE, si efectuadas las votaciones previstas no se otorgase la confianza para la investidura:",
+      "options": [
+        "Se disolverán automáticamente ambas Cámaras",
+        "Se tramitarán sucesivas propuestas en la forma prevista en los apartados anteriores",
+        "El candidato más votado será nombrado Presidente del Gobierno",
+        "El Rey nombrará Presidente al líder del grupo parlamentario mayoritario"
+      ],
+      "correct": 1,
+      "exp": "El art. 99.4 CE prevé que, fracasadas las votaciones, «se tramitarán sucesivas propuestas en la forma prevista en los apartados anteriores».",
+      "fuente": "Art. 99.4 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 99.4 CE literal: «se tramitarán sucesivas propuestas en la forma prevista en los apartados anteriores»; la disolución automática es del 99.5 y solo tras dos meses."
+    },
+    {
+      "q": "Según el art. 99.5 CE, el plazo de dos meses cuyo transcurso sin investidura provoca la disolución de las Cámaras se computa a partir de:",
+      "options": [
+        "La constitución del Congreso de los Diputados",
+        "La propuesta del primer candidato por el Rey",
+        "La celebración de las elecciones generales",
+        "La primera votación de investidura"
+      ],
+      "correct": 3,
+      "exp": "El art. 99.5 CE fija el plazo de dos meses «a partir de la primera votación de investidura».",
+      "fuente": "Art. 99.5 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 99.5 CE literal: plazo de dos meses «a partir de la primera votación de investidura», no desde la constitución del Congreso ni desde las elecciones; correct=3 verificado."
+    },
+    {
+      "q": "Según el art. 99.5 CE, la disolución de ambas Cámaras y la convocatoria de nuevas elecciones por falta de investidura se producen con el refrendo de:",
+      "options": [
+        "El Presidente del Gobierno en funciones",
+        "El Presidente del Congreso",
+        "El Presidente del Senado",
+        "El Presidente del Tribunal Supremo"
+      ],
+      "correct": 1,
+      "exp": "El art. 99.5 CE precisa que el Rey disolverá ambas Cámaras y convocará nuevas elecciones «con el refrendo del Presidente del Congreso».",
+      "fuente": "Art. 99.5 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 99.5 CE literal: disolución y convocatoria «con el refrendo del Presidente del Congreso»; opción 1 correcta."
+    },
+    {
+      "q": "Según el art. 100 CE, el Rey nombra y separa a los demás miembros del Gobierno:",
+      "options": [
+        "A propuesta de su Presidente",
+        "Previa deliberación del Consejo de Ministros",
+        "A propuesta del Congreso de los Diputados",
+        "Oído el Consejo de Estado"
+      ],
+      "correct": 0,
+      "exp": "El art. 100 CE dispone que «los demás miembros del Gobierno serán nombrados y separados por el Rey, a propuesta de su Presidente».",
+      "fuente": "Art. 100 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 100 CE literal: «nombrados y separados por el Rey, a propuesta de su Presidente»; no exige deliberación del Consejo de Ministros ni informe del Consejo de Estado."
+    },
+    {
+      "q": "¿En qué artículo de la Constitución se regula el nombramiento y la separación de los miembros del Gobierno distintos de su Presidente?",
+      "options": [
+        "En el art. 98 CE",
+        "En el art. 99 CE",
+        "En el art. 100 CE",
+        "En el art. 101 CE"
+      ],
+      "correct": 2,
+      "exp": "El art. 100 CE, dentro del Título IV, es el que regula el nombramiento y separación de los demás miembros del Gobierno por el Rey a propuesta del Presidente.",
+      "fuente": "Art. 100 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Ubicación verificada en el consolidado: el nombramiento y separación de los demás miembros del Gobierno está en el art. 100 CE (el 98 regula composición, el 99 investidura y el 101 el cese)."
+    },
+    {
+      "q": "Según el art. 101.1 CE, en relación con los procesos electorales, el Gobierno cesa:",
+      "options": [
+        "Tras la convocatoria de elecciones generales",
+        "En el momento de la disolución de las Cámaras",
+        "Tras la proclamación oficial de los resultados electorales",
+        "Tras la celebración de elecciones generales"
+      ],
+      "correct": 3,
+      "exp": "El art. 101.1 CE utiliza la expresión «el Gobierno cesa tras la celebración de elecciones generales», no la convocatoria ni la proclamación de resultados.",
+      "fuente": "Art. 101.1 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 101.1 CE literal: «cesa tras la celebración de elecciones generales»; ni convocatoria ni proclamación de resultados ni disolución figuran en el precepto."
+    },
+    {
+      "q": "Según el art. 101.1 CE, el Gobierno cesa por dimisión o fallecimiento de:",
+      "options": [
+        "Cualquiera de sus miembros",
+        "Su Presidente",
+        "El Presidente o de alguno de los Vicepresidentes",
+        "Más de la mitad de sus miembros"
+      ],
+      "correct": 1,
+      "exp": "El art. 101.1 CE cita, junto a la celebración de elecciones generales y la pérdida de la confianza parlamentaria, la dimisión o fallecimiento «de su Presidente».",
+      "fuente": "Art. 101.1 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 101.1 CE literal: «por dimisión o fallecimiento de su Presidente»; no se menciona a Vicepresidentes ni a otros miembros."
+    },
+    {
+      "q": "Según el art. 102.2 CE, la acusación por traición o por delito contra la seguridad del Estado cometido por miembros del Gobierno en el ejercicio de sus funciones solo podrá plantearse por iniciativa de:",
+      "options": [
+        "La décima parte de los miembros del Congreso",
+        "La quinta parte de los miembros del Congreso",
+        "La cuarta parte de los miembros del Congreso",
+        "Un tercio de los miembros del Congreso"
+      ],
+      "correct": 2,
+      "exp": "El art. 102.2 CE exige la iniciativa de «la cuarta parte de los miembros del Congreso» para plantear esa acusación.",
+      "fuente": "Art. 102.2 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 102.2 CE literal: «por iniciativa de la cuarta parte de los miembros del Congreso»; correct=2 verificado, distractores del mismo tipo (fracciones)."
+    },
+    {
+      "q": "Según el art. 102.2 CE, además de la iniciativa exigida, la acusación por traición o delito contra la seguridad del Estado requiere la aprobación de:",
+      "options": [
+        "La mayoría absoluta del Congreso",
+        "La mayoría simple del Congreso",
+        "Los tres quintos del Congreso",
+        "La mayoría absoluta de cada una de las Cámaras"
+      ],
+      "correct": 0,
+      "exp": "El art. 102.2 CE exige, junto a la iniciativa de la cuarta parte de los miembros del Congreso, «la aprobación de la mayoría absoluta del mismo».",
+      "fuente": "Art. 102.2 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 102.2 CE literal: «con la aprobación de la mayoría absoluta del mismo» (del Congreso); no se exige mayoría absoluta de ambas Cámaras."
+    },
+    {
+      "q": "El régimen agravado de iniciativa y mayoría del art. 102.2 CE se aplica cuando la acusación contra miembros del Gobierno sea por:",
+      "options": [
+        "Cualquier delito cometido en el ejercicio del cargo",
+        "Traición, exclusivamente",
+        "Delitos de corrupción o contra la Hacienda Pública",
+        "Traición o cualquier delito contra la seguridad del Estado en el ejercicio de sus funciones"
+      ],
+      "correct": 3,
+      "exp": "El art. 102.2 CE circunscribe ese régimen a la acusación «por traición o por cualquier delito contra la seguridad del Estado en el ejercicio de sus funciones».",
+      "fuente": "Art. 102.2 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 102.2 CE literal: «por traición o por cualquier delito contra la seguridad del Estado en el ejercicio de sus funciones»; opción 3 reproduce el supuesto completo."
+    },
+    {
+      "q": "¿Qué establece el art. 102.3 CE sobre la prerrogativa real de gracia en los supuestos regulados en ese artículo?",
+      "options": [
+        "Que solo podrá ejercerse con autorización previa del Congreso",
+        "Que no será aplicable a ninguno de esos supuestos",
+        "Que se aplicará previo informe favorable del Tribunal Supremo",
+        "Que cabrá una vez cumplida la mitad de la pena impuesta"
+      ],
+      "correct": 1,
+      "exp": "El art. 102.3 CE establece que «la prerrogativa real de gracia no será aplicable a ninguno de los supuestos del presente artículo».",
+      "fuente": "Art. 102.3 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 102.3 CE literal: «La prerrogativa real de gracia no será aplicable a ninguno de los supuestos del presente artículo»; correct=1 verificado."
+    },
+    {
+      "q": "Los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación con que actúa la Administración Pública se recogen en:",
+      "options": [
+        "El art. 103.1 CE",
+        "El art. 103.2 CE",
+        "El art. 105 a) CE",
+        "El art. 106.1 CE"
+      ],
+      "correct": 0,
+      "exp": "Es el art. 103.1 CE el que enumera esos cinco principios, junto al servicio con objetividad a los intereses generales y el sometimiento pleno a la ley y al Derecho.",
+      "fuente": "Art. 103.1 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 103.1 CE: contados en el literal los cinco principios (eficacia, jerarquía, descentralización, desconcentración y coordinación); están en el apartado 1, no en el 2 (órganos de la Administración del Estado) ni en el 105 a) o 106.1."
+    },
+    {
+      "q": "Según el art. 99.3 CE, la segunda votación de investidura tiene por objeto:",
+      "options": [
+        "Una nueva propuesta de candidato formulada por el Rey",
+        "La candidatura alternativa que presenten los Grupos parlamentarios",
+        "La misma propuesta",
+        "Las dos candidaturas que hubieran obtenido más votos"
+      ],
+      "correct": 2,
+      "exp": "El art. 99.3 CE ordena someter «la misma propuesta» a nueva votación cuarenta y ocho horas después de la anterior, entendiéndose otorgada la confianza con mayoría simple.",
+      "fuente": "Art. 99.3 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 99.3 CE literal: «se someterá la misma propuesta a nueva votación cuarenta y ocho horas después de la anterior»; correct=2 verificado."
+    },
+    {
+      "q": "¿Cuál de las siguientes materias NO se remite expresamente a la ley en el art. 103.3 CE?",
+      "options": [
+        "El sistema de incompatibilidades de los funcionarios públicos",
+        "Las garantías para la imparcialidad en el ejercicio de sus funciones",
+        "El régimen retributivo de los funcionarios públicos",
+        "Las peculiaridades del ejercicio de su derecho a sindicación"
+      ],
+      "correct": 2,
+      "exp": "El art. 103.3 CE remite a la ley el estatuto de los funcionarios, el acceso a la función pública conforme a mérito y capacidad, las peculiaridades del derecho a sindicación, el sistema de incompatibilidades y las garantías de imparcialidad; el régimen retributivo no se menciona.",
+      "fuente": "Art. 103.3 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 103.3 CE: comprobado que las otras tres opciones (incompatibilidades, garantías de imparcialidad, peculiaridades del derecho a sindicación) sí figuran literalmente y que el régimen retributivo no se menciona; una sola respuesta correcta."
+    },
+    {
+      "q": "Según el art. 104.1 CE, las Fuerzas y Cuerpos de seguridad actúan bajo la dependencia de:",
+      "options": [
+        "El Gobierno",
+        "El Ministerio del Interior",
+        "Las Cortes Generales",
+        "El Rey, como mando supremo"
+      ],
+      "correct": 0,
+      "exp": "El art. 104.1 CE sitúa a las Fuerzas y Cuerpos de seguridad «bajo la dependencia del Gobierno».",
+      "fuente": "Art. 104.1 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 104.1 CE literal: «bajo la dependencia del Gobierno»; no menciona Ministerio del Interior, Cortes ni al Rey."
+    },
+    {
+      "q": "Según el art. 104.1 CE, ¿cuál es la misión de las Fuerzas y Cuerpos de seguridad?",
+      "options": [
+        "Garantizar la soberanía e independencia de España y defender su integridad territorial",
+        "Proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana",
+        "Defender el ordenamiento constitucional frente a cualquier ataque",
+        "Velar por el orden público y por la defensa civil del territorio"
+      ],
+      "correct": 1,
+      "exp": "El art. 104.1 CE les atribuye la misión de «proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana»; la misión descrita en la primera opción es la de las Fuerzas Armadas (art. 8.1 CE).",
+      "fuente": "Art. 104.1 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 104.1 CE literal: «proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana»; la opción 0 recoge la misión de las Fuerzas Armadas (art. 8.1 CE) y es falsa aquí."
+    },
+    {
+      "q": "Según el art. 104.2 CE, la ley orgánica determinará, respecto de las Fuerzas y Cuerpos de seguridad:",
+      "options": [
+        "Su composición, sus funciones y su régimen disciplinario",
+        "Sus funciones, sus medios materiales y sus retribuciones",
+        "Sus funciones y su dependencia orgánica",
+        "Sus funciones, principios básicos de actuación y estatutos"
+      ],
+      "correct": 3,
+      "exp": "El art. 104.2 CE remite a una ley orgánica la determinación de «las funciones, principios básicos de actuación y estatutos de las Fuerzas y Cuerpos de seguridad».",
+      "fuente": "Art. 104.2 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 104.2 CE literal: «Una ley orgánica determinará las funciones, principios básicos de actuación y estatutos de las Fuerzas y Cuerpos de seguridad»; correct=3 verificado."
+    },
+    {
+      "q": "Las tres materias enumeradas en el art. 105 CE (audiencia de los ciudadanos, acceso a archivos y registros y procedimiento de los actos administrativos) se remiten a:",
+      "options": [
+        "La ley",
+        "Una ley orgánica",
+        "Un reglamento aprobado por el Gobierno",
+        "Un real decreto-ley"
+      ],
+      "correct": 0,
+      "exp": "El art. 105 CE comienza con la fórmula «La ley regulará:» y a continuación enumera los apartados a), b) y c); no exige ley orgánica.",
+      "fuente": "Art. 105 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 105 CE encabeza «La ley regulará:» seguido de los apartados a), b) y c): ley ordinaria, no orgánica; correct=0 verificado."
+    },
+    {
+      "q": "¿Cuál de los siguientes NO es un límite al acceso de los ciudadanos a los archivos y registros administrativos según el art. 105 b) CE?",
+      "options": [
+        "La seguridad y defensa del Estado",
+        "La averiguación de los delitos",
+        "La intimidad de las personas",
+        "El interés económico de la Administración"
+      ],
+      "correct": 3,
+      "exp": "El art. 105 b) CE establece únicamente tres límites: la seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de las personas.",
+      "fuente": "Art. 105 b) CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 105 b) CE: verificado que solo prevé tres límites (seguridad y defensa del Estado, averiguación de los delitos, intimidad de las personas); el interés económico de la Administración no figura y las otras tres opciones sí."
+    },
+    {
+      "q": "¿De qué dos formas contempla el art. 105 a) CE que pueda darse audiencia a los ciudadanos?",
+      "options": [
+        "Solo a través de las organizaciones y asociaciones reconocidas por la ley",
+        "Directamente o a través de las organizaciones y asociaciones reconocidas por la ley",
+        "Únicamente de forma directa por el ciudadano afectado",
+        "A través de los partidos políticos y los sindicatos más representativos"
+      ],
+      "correct": 1,
+      "exp": "El art. 105 a) CE prevé la audiencia de los ciudadanos «directamente o a través de las organizaciones y asociaciones reconocidas por la ley».",
+      "fuente": "Art. 105 a) CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 105 a) CE literal: audiencia «directamente o a través de las organizaciones y asociaciones reconocidas por la ley»; correct=1 verificado."
+    },
+    {
+      "q": "La regulación por ley del procedimiento a través del cual deben producirse los actos administrativos, garantizando cuando proceda la audiencia del interesado, se contempla en:",
+      "options": [
+        "El art. 105 a) CE",
+        "El art. 105 b) CE",
+        "El art. 105 c) CE",
+        "El art. 106.1 CE"
+      ],
+      "correct": 2,
+      "exp": "Es el apartado c) del art. 105 CE el que remite a la ley el procedimiento de producción de los actos administrativos con garantía de audiencia del interesado cuando proceda.",
+      "fuente": "Art. 105 c) CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 105 c) CE literal: «El procedimiento a través del cual deben producirse los actos administrativos, garantizando, cuando proceda, la audiencia del interesado»; es el apartado c), no a) ni b)."
+    },
+    {
+      "q": "Además de la potestad reglamentaria y de la legalidad de la actuación administrativa, ¿qué tercer aspecto somete el art. 106.1 CE al control de los Tribunales?",
+      "options": [
+        "La oportunidad de las decisiones administrativas",
+        "La eficacia en el empleo de los recursos públicos",
+        "El cumplimiento del programa de gobierno",
+        "El sometimiento de ésta a los fines que la justifican"
+      ],
+      "correct": 3,
+      "exp": "El art. 106.1 CE añade el control del «sometimiento de ésta a los fines que la justifican», es decir, el control de la desviación de poder.",
+      "fuente": "Art. 106.1 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 106.1 CE literal: los Tribunales controlan la potestad reglamentaria, la legalidad de la actuación administrativa «así como el sometimiento de ésta a los fines que la justifican»; correct=3 verificado."
+    },
+    {
+      "q": "Según el art. 106.1 CE, ¿a quién corresponde el control de la potestad reglamentaria y de la legalidad de la actuación administrativa?",
+      "options": [
+        "Al Consejo de Estado",
+        "Al Tribunal Constitucional",
+        "A los Tribunales",
+        "Al Defensor del Pueblo"
+      ],
+      "correct": 2,
+      "exp": "El art. 106.1 CE atribuye ese control a «los Tribunales».",
+      "fuente": "Art. 106.1 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 106.1 CE literal: «Los Tribunales controlan…»; no el Consejo de Estado, el TC ni el Defensor del Pueblo."
+    },
+    {
+      "q": "Según el art. 106.2 CE, el derecho a ser indemnizado por las lesiones consecuencia del funcionamiento de los servicios públicos corresponde a:",
+      "options": [
+        "Los particulares, en los términos establecidos por la ley",
+        "Los ciudadanos españoles, en todo caso",
+        "Los interesados en el procedimiento, previa reclamación en vía administrativa",
+        "Los particulares, sin sujeción a requisito legal alguno"
+      ],
+      "correct": 0,
+      "exp": "El art. 106.2 CE reconoce el derecho a «los particulares, en los términos establecidos por la ley», por toda lesión en sus bienes y derechos, salvo fuerza mayor.",
+      "fuente": "Art. 106.2 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 106.2 CE literal: «Los particulares, en los términos establecidos por la ley, tendrán derecho a ser indemnizados»; la opción que niega todo requisito legal contradice el precepto."
+    },
+    {
+      "q": "Según el art. 107 CE, el Consejo de Estado es:",
+      "options": [
+        "El supremo órgano consultivo del Gobierno",
+        "El órgano de fiscalización de las cuentas y de la gestión económica del Estado",
+        "El supremo órgano consultivo de las Cortes Generales",
+        "El órgano superior de asesoramiento de las Comunidades Autónomas"
+      ],
+      "correct": 0,
+      "exp": "El art. 107 CE define al Consejo de Estado como «el supremo órgano consultivo del Gobierno».",
+      "fuente": "Art. 107 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 107 CE literal: «El Consejo de Estado es el supremo órgano consultivo del Gobierno» (no de las Cortes); correct=0 verificado."
+    },
+    {
+      "q": "Según el art. 107 CE, la composición y competencia del Consejo de Estado se regularán por:",
+      "options": [
+        "Una ley ordinaria",
+        "Una ley orgánica",
+        "Un real decreto del Consejo de Ministros",
+        "Su propio reglamento de organización interna"
+      ],
+      "correct": 1,
+      "exp": "El art. 107 CE remite a una ley orgánica la regulación de la composición y competencia del Consejo de Estado.",
+      "fuente": "Art. 107 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 107 CE literal: «Una ley orgánica regulará su composición y competencia»; correct=1 verificado (contrasta con el 98.4 y el 105, que son ley ordinaria)."
+    },
+    {
+      "q": "¿En qué precepto y ubicación sistemática de la Constitución se regula el Consejo de Estado?",
+      "options": [
+        "En el art. 105, dentro del Título IV",
+        "En el art. 108, primer artículo del Título V",
+        "En el art. 97, dentro del Título IV",
+        "En el art. 107, último artículo del Título IV"
+      ],
+      "correct": 3,
+      "exp": "El Consejo de Estado se regula en el art. 107 CE, que cierra el Título IV «Del Gobierno y de la Administración» (arts. 97 a 107); el Título V comienza en el art. 108.",
+      "fuente": "Art. 107 CE",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Verificado en el consolidado que el art. 107 es el último del Título IV: tras él comienza el Título V «De las relaciones entre el Gobierno y las Cortes Generales» con el art. 108; correct=3 correcto."
+    }
+  ]
+}
