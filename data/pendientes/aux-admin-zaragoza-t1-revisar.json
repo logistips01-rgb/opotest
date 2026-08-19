@@ -1,0 +1,23 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 1,
+  "fecha": "2026-08-19",
+  "preguntas": [
+    {
+      "q": "Conforme a la sistemática habitual con que se estudia la Constitución, la llamada parte dogmática está formada por:",
+      "options": [
+        "Únicamente el Título I",
+        "Únicamente el Preámbulo y el Título Preliminar",
+        "El Título Preliminar y el Título I",
+        "El Preámbulo, el Título Preliminar y los Títulos I y II"
+      ],
+      "correct": 2,
+      "exp": "Se considera parte dogmática la que fija los principios y valores y los derechos y deberes: el Título Preliminar (artículos 1 a 9) y el Título I (artículos 10 a 55). La parte orgánica, que regula los poderes e instituciones del Estado, la integran los Títulos II a X (artículos 56 a 169).",
+      "fuente": "Sistemática doctrinal sobre la estructura de la CE; los tramos de artículos citados (1-9, 10-55, 56-169) se comprueban en el índice del texto consolidado BOE-A-1978-31229. La distinción parte dogmática / parte orgánica no aparece con esos términos en el texto constitucional.",
+      "confianza": "media",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Terminología doctrinal que no aparece en el texto constitucional y sobre la que no hay un criterio único: parte de los temarios sitúan la parte dogmática en el Título Preliminar + Título I (arts. 1-55) y otra parte solo en el Título I, tratando el Título Preliminar como parte introductoria o de principios. Con ese doble criterio las opciones «Únicamente el Título I» y «El Título Preliminar y el Título I» son ambas defendibles: pregunta ambigua.",
+      "_motivo": "veredicto RECHAZADA"
+    }
+  ]
+}

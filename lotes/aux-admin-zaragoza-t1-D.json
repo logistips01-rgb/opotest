@@ -13,7 +13,9 @@
       "correct": 1,
       "exp": "El art. 137 CE dice exactamente: «El Estado se organiza territorialmente en municipios, en provincias y en las Comunidades Autónomas que se constituyan. Todas estas entidades gozan de autonomía para la gestión de sus respectivos intereses.» No menciona las islas, el orden es municipios-provincias-CCAA y la autonomía es «para la gestión de sus respectivos intereses», no «plena».",
       "fuente": "Art. 137 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comparado carácter a carácter con el art. 137 del consolidado BOE-A-1978-31229: la opción 1 coincide exactamente; las otras tres alteran el orden, añaden «islas» o cambian «respectivos» por «plena/propios»."
     },
     {
       "q": "Al enumerar la organización territorial del Estado, el artículo 137 CE se refiere a las Comunidades Autónomas con la expresión:",
@@ -26,7 +28,9 @@
       "correct": 0,
       "exp": "El art. 137 CE emplea el futuro abierto «y en las Comunidades Autónomas que se constituyan», reflejo de que en 1978 el mapa autonómico aún no existía: la Constitución no las crea, habilita su constitución.",
       "fuente": "Art. 137 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Verificado en el art. 137 del consolidado: la dicción es «y en las Comunidades Autónomas que se constituyan»; ninguna de las otras fórmulas aparece en el precepto."
     },
     {
       "q": "¿Cuál de las siguientes entidades territoriales NO se menciona en el artículo 137 CE?",
@@ -39,7 +43,9 @@
       "correct": 2,
       "exp": "El art. 137 CE solo cita municipios, provincias y Comunidades Autónomas. Las islas aparecen en la Constitución en el art. 141.4 (administración propia en forma de Cabildos o Consejos en los archipiélagos), pero no en la enumeración del art. 137.",
       "fuente": "Art. 137 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Verificado: el art. 137 solo enumera municipios, provincias y Comunidades Autónomas; «islas» solo figura en el art. 141.4 del consolidado."
     },
     {
       "q": "El artículo 137 CE, que enuncia la organización territorial del Estado, se encuentra ubicado en:",
@@ -52,7 +58,9 @@
       "correct": 2,
       "exp": "El Título VIII CE («De la Organización Territorial del Estado») se abre con el Capítulo primero, rubricado «Principios generales», que comprende los arts. 137, 138 y 139. El Capítulo segundo («De la Administración Local») empieza en el art. 140.",
       "fuente": "Art. 137 CE (Título VIII, Capítulo primero)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Verificado en el consolidado la secuencia de rúbricas: «TÍTULO VIII / De la Organización Territorial del Estado» → «CAPÍTULO PRIMERO / Principios generales» → art. 137; el Capítulo segundo empieza tras el art. 139."
     },
     {
       "q": "Según el artículo 138.1 CE, el Estado garantiza ______ del principio de solidaridad consagrado en el artículo 2 de la Constitución.",
@@ -65,7 +73,9 @@
       "correct": 2,
       "exp": "La fórmula literal del art. 138.1 CE es «El Estado garantiza la realización efectiva del principio de solidaridad consagrado en el artículo 2 de la Constitución».",
       "fuente": "Art. 138.1 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Literal del art. 138.1 comprobado: «El Estado garantiza la realización efectiva del principio de solidaridad»; los otros tres sintagmas no aparecen."
     },
     {
       "q": "El principio de solidaridad cuya garantía impone al Estado el artículo 138.1 CE aparece «consagrado», según ese mismo precepto, en:",
@@ -78,7 +88,9 @@
       "correct": 0,
       "exp": "El art. 138.1 CE remite expresamente al «principio de solidaridad consagrado en el artículo 2 de la Constitución», el mismo precepto que reconoce el derecho a la autonomía de las nacionalidades y regiones.",
       "fuente": "Art. 138.1 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado en el art. 138.1: remite expresamente al «artículo 2 de la Constitución»; leído además el art. 2, que reconoce y garantiza la autonomía y «la solidaridad entre todas ellas»."
     },
     {
       "q": "Según el artículo 138.1 CE, el equilibrio económico entre las diversas partes del territorio español por cuyo establecimiento debe velar el Estado ha de ser:",
@@ -91,7 +103,9 @@
       "correct": 3,
       "exp": "La literalidad del art. 138.1 CE es «velando por el establecimiento de un equilibrio económico, adecuado y justo entre las diversas partes del territorio español».",
       "fuente": "Art. 138.1 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Literal del art. 138.1 comprobado: «un equilibrio económico, adecuado y justo entre las diversas partes del territorio español»."
     },
     {
       "q": "Conforme al artículo 138.1 CE, el equilibrio económico que el Estado debe procurar se establece entre:",
@@ -104,7 +118,9 @@
       "correct": 0,
       "exp": "El art. 138.1 CE habla de un equilibrio económico «entre las diversas partes del territorio español», expresión más amplia que la referida solo a las Comunidades Autónomas.",
       "fuente": "Art. 138.1 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Literal del art. 138.1 comprobado: el equilibrio se predica «entre las diversas partes del territorio español», no entre Comunidades Autónomas."
     },
     {
       "q": "¿Quién es el sujeto al que el artículo 138.1 CE encomienda garantizar el principio de solidaridad y velar por el equilibrio económico entre las diversas partes del territorio?",
@@ -117,7 +133,9 @@
       "correct": 1,
       "exp": "El art. 138.1 CE comienza: «El Estado garantiza la realización efectiva del principio de solidaridad...». El sujeto es el Estado, no un órgano concreto.",
       "fuente": "Art. 138.1 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado el sujeto gramatical del art. 138.1 en el consolidado: «El Estado garantiza...»; ni Cortes, ni Gobierno, ni TC aparecen en el precepto."
     },
     {
       "q": "La expresión «hecho insular» aparece expresamente en la Constitución en:",
@@ -130,7 +148,9 @@
       "correct": 2,
       "exp": "El art. 138.1 CE cierra su redacción «atendiendo en particular a las circunstancias del hecho insular». El art. 141.4 CE se refiere a los archipiélagos y a las islas, pero no emplea la expresión «hecho insular».",
       "fuente": "Art. 138.1 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Búsqueda de la cadena «hecho insular» en todo el consolidado: aparece una sola vez, en el art. 138.1 («atendiendo en particular a las circunstancias del hecho insular»); el art. 141.4 habla de archipiélagos e islas sin usar esa expresión."
     },
     {
       "q": "Según el artículo 138.2 CE, las diferencias entre los Estatutos de las distintas Comunidades Autónomas no podrán implicar, en ningún caso:",
@@ -143,7 +163,9 @@
       "correct": 3,
       "exp": "El art. 138.2 CE prohíbe que las diferencias entre Estatutos impliquen «en ningún caso, privilegios económicos o sociales». La fórmula constitucional es esa, y no la referida a privilegios fiscales o a desigualdades jurídicas.",
       "fuente": "Art. 138.2 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Literal del art. 138.2 comprobado: «no podrán implicar, en ningún caso, privilegios económicos o sociales»."
     },
     {
       "q": "¿En qué apartado se contiene la prohibición de que las diferencias entre los Estatutos de las Comunidades Autónomas impliquen privilegios económicos o sociales?",
@@ -156,7 +178,9 @@
       "correct": 1,
       "exp": "Es el art. 138.2 CE. El art. 138 tiene solo dos apartados: el 1 recoge la solidaridad, el equilibrio económico y el hecho insular; el 2, la prohibición de privilegios económicos o sociales.",
       "fuente": "Art. 138.2 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado que el art. 138 del consolidado tiene exactamente dos apartados y que la prohibición está en el 138.2; el 138.3 no existe."
     },
     {
       "q": "El artículo 139.1 CE proclama la igualdad de derechos y obligaciones en cualquier parte del territorio del Estado respecto de:",
@@ -169,7 +193,9 @@
       "correct": 0,
       "exp": "La literalidad del art. 139.1 CE es «Todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado».",
       "fuente": "Art. 139.1 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Literal del art. 139.1 comprobado: «Todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado»."
     },
     {
       "q": "Según el artículo 139.2 CE, ninguna autoridad podrá adoptar medidas que obstaculicen la libertad de circulación y establecimiento de las personas:",
@@ -182,7 +208,9 @@
       "correct": 1,
       "exp": "El art. 139.2 CE prohíbe las medidas que «directa o indirectamente» obstaculicen esa libertad; la prohibición alcanza por tanto a los obstáculos indirectos.",
       "fuente": "Art. 139.2 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Literal del art. 139.2 comprobado: «medidas que directa o indirectamente obstaculicen...»."
     },
     {
       "q": "Respecto de los bienes, ¿qué garantiza exactamente el artículo 139.2 CE en todo el territorio español?",
@@ -195,7 +223,9 @@
       "correct": 2,
       "exp": "El art. 139.2 CE distingue: respecto de las personas, «la libertad de circulación y establecimiento»; respecto de los bienes, solo «la libre circulación de bienes en todo el territorio español». El establecimiento se predica de las personas, no de los bienes.",
       "fuente": "Art. 139.2 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Literal del art. 139.2 comprobado: para las personas «la libertad de circulación y establecimiento», para los bienes solo «la libre circulación de bienes en todo el territorio español»."
     },
     {
       "q": "El artículo 139.2 CE dirige su prohibición de adoptar medidas obstaculizadoras a:",
@@ -208,7 +238,9 @@
       "correct": 3,
       "exp": "El art. 139.2 CE emplea la fórmula «Ninguna autoridad podrá adoptar medidas que...», más amplia que la referida a una Administración o a un ente territorial determinado.",
       "fuente": "Art. 139.2 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Literal del art. 139.2 comprobado: «Ninguna autoridad podrá adoptar medidas...»; las otras tres fórmulas no figuran en el precepto."
     },
     {
       "q": "¿Qué artículos integran el Capítulo primero del Título VIII de la Constitución, rubricado «Principios generales»?",
@@ -221,7 +253,9 @@
       "correct": 0,
       "exp": "El Capítulo primero del Título VIII CE («Principios generales») comprende los arts. 137, 138 y 139. El Capítulo segundo («De la Administración Local») abarca los arts. 140 a 142 y el Capítulo tercero («De las Comunidades Autónomas») arranca en el art. 143.",
       "fuente": "Arts. 137 a 139 CE (Título VIII, Capítulo primero)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado en el índice y en el articulado del consolidado: el Capítulo primero del Título VIII agrupa los arts. 137, 138 y 139; el Capítulo segundo arranca en el 140."
     },
     {
       "q": "El Título VIII de la Constitución, que se abre con el artículo 137, se rubrica:",
@@ -234,7 +268,9 @@
       "correct": 1,
       "exp": "La rúbrica del Título VIII CE es «De la Organización Territorial del Estado», y se divide en tres capítulos: Principios generales (arts. 137-139), De la Administración Local (arts. 140-142) y De las Comunidades Autónomas (arts. 143 y ss.).",
       "fuente": "Título VIII CE, rúbrica que encabeza el art. 137 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Rúbrica comprobada literalmente en el consolidado: «TÍTULO VIII / De la Organización Territorial del Estado»."
     },
     {
       "q": "Atendiendo a la literalidad de la Constitución, los municipios gozarán de personalidad jurídica ______ (art. 140) y la provincia es una entidad local con personalidad jurídica ______ (art. 141.1). Los adjetivos que completan correctamente la frase son:",
@@ -247,7 +283,9 @@
       "correct": 1,
       "exp": "El art. 140 CE dice que los municipios «gozarán de personalidad jurídica plena»; el art. 141.1 CE define la provincia como «una entidad local con personalidad jurídica propia». Es una distinción literal que se pregunta con frecuencia.",
       "fuente": "Arts. 140 y 141.1 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Contraste literal de los dos preceptos: art. 140 «gozarán de personalidad jurídica plena»; art. 141.1 «entidad local con personalidad jurídica propia». La opción marcada respeta ese orden plena/propia."
     },
     {
       "q": "Según el artículo 140 CE, ¿qué tipo de norma regulará las condiciones en las que proceda el régimen del concejo abierto?",
@@ -260,7 +298,9 @@
       "correct": 0,
       "exp": "El art. 140 CE termina: «La ley regulará las condiciones en las que proceda el régimen del concejo abierto». La Constitución se remite a «la ley» sin reservarlo a ley orgánica; la única reserva de ley orgánica de estos capítulos es la del art. 141.1 para alterar los límites provinciales.",
       "fuente": "Art. 140 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Literal del art. 140 comprobado: «La ley regulará las condiciones en las que proceda el régimen del concejo abierto», sin mención de ley orgánica; la única reserva de ley orgánica del tramo es la del art. 141.1."
     },
     {
       "q": "¿Cuál de los siguientes caracteres NO se predica en el artículo 140 CE del sufragio por el que se eligen los Concejales?",
@@ -273,7 +313,9 @@
       "correct": 2,
       "exp": "El art. 140 CE exige sufragio «universal, igual, libre, directo y secreto». La proporcionalidad no figura en el art. 140; el art. 68.3 CE la impone para el Congreso, pero no forma parte de esta enumeración.",
       "fuente": "Art. 140 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Literal del art. 140 comprobado: sufragio «universal, igual, libre, directo y secreto»; «proporcional» no aparece. Comprobado también el art. 68.3, que sí usa «representación proporcional», como dice la explicación."
     },
     {
       "q": "Conforme al artículo 140 CE, la autonomía de los municipios es garantizada por:",
@@ -286,7 +328,9 @@
       "correct": 2,
       "exp": "El art. 140 CE se abre con la fórmula «La Constitución garantiza la autonomía de los municipios», que es el fundamento de la llamada garantía institucional de la autonomía local.",
       "fuente": "Art. 140 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Literal del art. 140 comprobado: «La Constitución garantiza la autonomía de los municipios»."
     },
     {
       "q": "La previsión de que «los Alcaldes serán elegidos por los Concejales o por los vecinos» se contiene en:",
@@ -299,7 +343,9 @@
       "correct": 1,
       "exp": "La regla figura en el art. 140 CE, precepto que consta de un único párrafo sin apartados numerados: por eso la cita correcta es «art. 140 CE» y no «art. 140.2 CE».",
       "fuente": "Art. 140 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado en el consolidado que el art. 140 es un párrafo único sin apartados numerados y que contiene «Los Alcaldes serán elegidos por los Concejales o por los vecinos»: la opción marcada es la única correcta y el «art. 140.2» de la opción 1 no existe."
     },
     {
       "q": "¿Cuál de los siguientes artículos del Título VIII CE carece de apartados numerados?",
@@ -312,7 +358,9 @@
       "correct": 3,
       "exp": "El art. 140 CE es un único párrafo sin numeración interna. El art. 138 tiene dos apartados, el art. 139 dos y el art. 141 cuatro. También carecen de apartados los arts. 137 y 142, pero no figuran entre las opciones.",
       "fuente": "Art. 140 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado apartado por apartado en el consolidado: el art. 138 tiene 2 apartados, el 139 tiene 2 y el 141 tiene 4; solo el art. 140 (opción marcada) es de párrafo único entre los ofrecidos."
     },
     {
       "q": "Según el artículo 141.1 CE, la provincia es también división territorial para el cumplimiento de:",
@@ -325,7 +373,9 @@
       "correct": 1,
       "exp": "La dicción literal del art. 141.1 CE es «...y división territorial para el cumplimiento de las actividades del Estado». La expresión constitucional es «actividades del Estado», no «fines estatales».",
       "fuente": "Art. 141.1 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Literal del art. 141.1 comprobado: «división territorial para el cumplimiento de las actividades del Estado»; la paráfrasis «fines estatales» no está en el texto."
     },
     {
       "q": "De acuerdo con el artículo 141.1 CE, cualquier alteración de los límites provinciales habrá de ser aprobada por:",
@@ -338,7 +388,9 @@
       "correct": 2,
       "exp": "El art. 141.1 CE exige la doble condición: aprobación por las Cortes Generales y forma de ley orgánica. Es la única reserva expresa de ley orgánica en los capítulos I y II del Título VIII.",
       "fuente": "Art. 141.1 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Literal del art. 141.1 comprobado: «habrá de ser aprobada por las Cortes Generales mediante ley orgánica»; la opción marcada es la única que reúne órgano y rango."
     },
     {
       "q": "De las siguientes materias reguladas en los artículos 137 a 142 CE, ¿cuál exige expresamente ley orgánica?",
@@ -351,7 +403,9 @@
       "correct": 3,
       "exp": "Solo el art. 141.1 CE impone ley orgánica (alteración de límites provinciales). El concejo abierto se remite a «la ley» (art. 140), las agrupaciones de municipios distintas de la provincia simplemente «se podrán crear» (art. 141.3) y el art. 142 no exige rango orgánico alguno.",
       "fuente": "Art. 141.1 CE (en relación con los arts. 140, 141.3 y 142 CE)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Repasados los arts. 137 a 142 del consolidado: la única exigencia expresa de ley orgánica es la del art. 141.1; el art. 140 remite a «la ley», el 141.3 dice solo «Se podrán crear» y el 142 no fija rango."
     },
     {
       "q": "Según el artículo 141.2 CE, lo que se encomienda a las Diputaciones u otras Corporaciones de carácter representativo es:",
@@ -364,7 +418,9 @@
       "correct": 0,
       "exp": "El art. 141.2 CE dispone: «El gobierno y la administración autónoma de las provincias estarán encomendados a Diputaciones u otras Corporaciones de carácter representativo». Nótese el adjetivo «autónoma», que la Constitución añade solo aquí.",
       "fuente": "Art. 141.2 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Literal del art. 141.2 comprobado: «El gobierno y la administración autónoma de las provincias estarán encomendados a Diputaciones u otras Corporaciones de carácter representativo»."
     },
     {
       "q": "En cuanto a las agrupaciones de municipios diferentes de la provincia, el artículo 141.3 CE establece que:",
@@ -377,7 +433,9 @@
       "correct": 2,
       "exp": "El art. 141.3 CE se limita a decir: «Se podrán crear agrupaciones de municipios diferentes de la provincia». Es una habilitación potestativa, sin imponer obligación ni exigir ley orgánica.",
       "fuente": "Art. 141.3 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Literal del art. 141.3 comprobado: «Se podrán crear agrupaciones de municipios diferentes de la provincia», sin obligatoriedad ni reserva de ley orgánica."
     },
     {
       "q": "Según el artículo 141.4 CE, ¿en qué ámbito territorial tendrán las islas además su administración propia?",
@@ -390,7 +448,9 @@
       "correct": 1,
       "exp": "El art. 141.4 CE dice literalmente: «En los archipiélagos, las islas tendrán además su administración propia en forma de Cabildos o Consejos». La referencia constitucional es al archipiélago, no a la Comunidad Autónoma.",
       "fuente": "Art. 141.4 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Literal del art. 141.4 comprobado: «En los archipiélagos, las islas tendrán además su administración propia en forma de Cabildos o Consejos»."
     },
     {
       "q": "¿Cuántos apartados tiene el artículo 141 de la Constitución?",
@@ -403,7 +463,9 @@
       "correct": 2,
       "exp": "El art. 141 CE consta de cuatro apartados: 1) concepto de provincia y alteración de límites; 2) gobierno y administración autónoma de las provincias; 3) agrupaciones de municipios diferentes de la provincia; 4) administración insular en los archipiélagos.",
       "fuente": "Art. 141 CE (apartados 1 a 4)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Contados en el consolidado los apartados del art. 141: son cuatro (1 concepto y límites, 2 Diputaciones, 3 agrupaciones, 4 archipiélagos)."
     },
     {
       "q": "¿Cuál de las siguientes formas de organización NO se menciona en el artículo 141 CE?",
@@ -416,7 +478,9 @@
       "correct": 2,
       "exp": "El art. 141 CE menciona «Diputaciones u otras Corporaciones de carácter representativo» (apdo. 2) y «Cabildos o Consejos» (apdo. 4). El término «mancomunidades» no aparece en el precepto: la Constitución solo habilita genéricamente «agrupaciones de municipios diferentes de la provincia» (apdo. 3).",
       "fuente": "Art. 141 CE (apartados 2, 3 y 4)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comprobado el texto del art. 141 (Diputaciones, Corporaciones de carácter representativo, Cabildos, Consejos) y búsqueda de «mancomunid» en todo el consolidado: cero ocurrencias en la Constitución."
     },
     {
       "q": "¿Cuál de las siguientes redacciones reproduce literalmente la definición de provincia del artículo 141.1 CE?",
@@ -429,7 +493,9 @@
       "correct": 2,
       "exp": "El art. 141.1 CE dice: «La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado». Personalidad «propia» (no plena, que es la del municipio en el art. 140), «entidad local» y «actividades del Estado».",
       "fuente": "Art. 141.1 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Comparación carácter a carácter con el art. 141.1: solo la opción 2 reproduce el texto; las otras cambian «propia» por «plena», «actividades» por «fines» o «entidad local» por «entidad territorial»."
     },
     {
       "q": "La Constitución califica expresamente como «entidad local», con esas palabras, a:",
@@ -442,7 +508,9 @@
       "correct": 3,
       "exp": "Solo el art. 141.1 CE usa la expresión «entidad local»: «La provincia es una entidad local con personalidad jurídica propia...». El art. 140 CE habla de municipios con personalidad jurídica plena, pero no los denomina «entidad local», y la comarca ni se menciona en el texto constitucional.",
       "fuente": "Art. 141.1 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Búsqueda de «entidad local» en todo el consolidado: única ocurrencia en el art. 141.1. Comprobado además que «comarca» no aparece en ningún lugar del texto constitucional."
     },
     {
       "q": "Según el artículo 142 CE, las Haciendas locales se nutrirán ______ de tributos propios y de participación en los del Estado y de las Comunidades Autónomas.",
@@ -455,7 +523,9 @@
       "correct": 1,
       "exp": "El adverbio del art. 142 CE es «fundamentalmente», lo que permite que existan otros recursos distintos de los tributos propios y de la participación en los del Estado y de las Comunidades Autónomas.",
       "fuente": "Art. 142 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Literal del art. 142 comprobado: «se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas»."
     },
     {
       "q": "Conforme al artículo 142 CE, ¿qué norma atribuye a las Corporaciones respectivas las funciones para cuyo desempeño deben disponer de medios suficientes?",
@@ -468,7 +538,9 @@
       "correct": 0,
       "exp": "El art. 142 CE se refiere a «las funciones que la ley atribuye a las Corporaciones respectivas». La remisión es a la ley.",
       "fuente": "Art. 142 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Literal del art. 142 comprobado: «las funciones que la ley atribuye a las Corporaciones respectivas»."
     },
     {
       "q": "¿Cuál de los siguientes recursos NO se menciona en el artículo 142 CE como fuente de la que se nutren las Haciendas locales?",
@@ -481,7 +553,9 @@
       "correct": 3,
       "exp": "El art. 142 CE cita únicamente los tributos propios y la participación en los del Estado y de las Comunidades Autónomas. Las subvenciones europeas no figuran en el precepto.",
       "fuente": "Art. 142 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Enumeración del art. 142 comprobada: solo tributos propios y participación en los del Estado y de las Comunidades Autónomas; ninguna mención a fondos o subvenciones de la Unión Europea."
     },
     {
       "q": "El principio de suficiencia de medios de las Haciendas locales se recoge en:",
@@ -494,7 +568,9 @@
       "correct": 3,
       "exp": "Es el art. 142 CE: «Las Haciendas locales deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas...».",
       "fuente": "Art. 142 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Literal del art. 142 comprobado («deberán disponer de los medios suficientes...»); los arts. 137, 138.1 y 140 del consolidado no contienen esa regla."
     },
     {
       "q": "¿Cuál de los siguientes contenidos NO se encuentra en el artículo 138 CE?",
@@ -507,7 +583,9 @@
       "correct": 0,
       "exp": "La libre circulación de bienes está en el art. 139.2 CE, no en el 138. El art. 138 contiene la solidaridad, el equilibrio económico adecuado y justo, el hecho insular (apdo. 1) y la prohibición de privilegios económicos o sociales derivados de las diferencias entre Estatutos (apdo. 2).",
       "fuente": "Art. 138 CE (apartados 1 y 2), por contraste con el art. 139.2 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Contrastados los dos preceptos en el consolidado: la libre circulación de bienes está en el art. 139.2, mientras que hecho insular, equilibrio adecuado y justo y prohibición de privilegios sí están en el art. 138, apdos. 1 y 2."
     },
     {
       "q": "¿Cuál de las siguientes materias NO se regula en los artículos 137 a 142 de la Constitución?",
@@ -520,7 +598,9 @@
       "correct": 2,
       "exp": "Los arts. 137 a 142 CE no enumeran competencias municipales: la financiación local está en el art. 142, la alteración de límites provinciales en el art. 141.1 y la remisión a la ley del concejo abierto en el art. 140. La determinación de competencias municipales es materia de la legislación de régimen local, no del texto constitucional.",
       "fuente": "Arts. 137 a 142 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Repasados los arts. 137 a 142: financiación local en el 142, alteración de límites provinciales en el 141.1 y concejo abierto en el 140; ninguno enumera competencias municipales, que quedan a la legislación de régimen local. La pregunta se mantiene dentro del tramo constitucional."
     }
   ]
 }

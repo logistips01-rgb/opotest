@@ -961,6 +961,68 @@ Constitución» excluye la Ley 50/1997, la LOFAGE y la Ley 40/2015, y que las
 preguntas de «¿en qué Título se regula X?» sí valen porque preguntan por la
 estructura.
 
+## Tema 1 · La Constitución Española — PRIMERA VUELTA CERRADA
+
+**252 preguntas** (de 93 que quedaban tras las dos depuraciones), todas de 4
+opciones. 4 lotes de 40 sobre el consolidado de la CE (BOE-A-1978-31229,
+descargado una sola vez y compartido por los cuatro redactores).
+
+| Lote | Tramo | Confirmadas | Corregidas | Rechazadas |
+|---|---|---|---|---|
+| A | Elaboración y aprobación + estructura del texto | 39 | 0 | 1 |
+| B | Título preliminar, arts. 1-9 | 40 | 4 | 0 |
+| C | Título IV «Del Gobierno y de la Administración», arts. 97-107 | 40 | 0 | 0 |
+| D | Título VIII caps. I y II, arts. 137-142 | 40 | 0 | 0 |
+
+**159 de 160 integradas.** Las 93 anteriores citan el precepto en la
+explicación pero no llevan campo `fuente`, así que en el tema conviven 159 con
+cita visible en la app y 93 sin ella.
+
+Notas:
+
+- **La única rechazada** era la única que venía con `confianza: "media"`: «la
+  parte dogmática comprende...». La terminología es doctrinal, no está en el
+  texto, y el criterio no es unánime — hay temarios que sitúan la parte
+  dogmática en título preliminar + Título I y otros solo en el Título I, con lo
+  que dos opciones eran defendibles. Está en
+  `data/pendientes/aux-admin-zaragoza-t1-revisar.json`.
+- **Las cuatro correcciones del lote B** fueron todas de cita o de literalidad,
+  no de respuesta: una `fuente` que apuntaba solo al art. 4.2 cuando dos
+  opciones venían del 4.1; una que citaba solo el art. 10.1 (el precepto de
+  *fuera*) en una pregunta de «qué NO está en el título preliminar», sin citar
+  los tres del tramo que sostienen las opciones ciertas; una explicación que
+  decía «responsabilidad e interdicción» donde el literal es «la
+  responsabilidad **y la** interdicción»; y una errata de sintaxis.
+- **Hallazgo del lote A, verificado aparte**: la Constitución se ha reformado
+  **cuatro** veces, no tres. La cuarta es la Reforma de 19 de mayo de 2026
+  (Ref. BOE-A-2026-10881), que modifica el art. 69.3 creando circunscripciones
+  electorales separadas de Ibiza y Formentera, con eficacia pospuesta a las
+  primeras elecciones al Senado posteriores. Anotado en `tools/fuentes.json`
+  como dato con fecha de caducidad. Auditados los cuatro bancos: ninguna
+  pregunta afirma un número de reformas, y las dos que tocan el art. 69 CE
+  (Policía Nacional, tema 2) van del 69.1 y del 69.2, que la reforma no cambia.
+- **Corrección de encargo**: le describí a un redactor el art. 141.1 como
+  «división territorial para el cumplimiento de fines estatales». El literal
+  dice «para el cumplimiento de **las actividades del Estado**». El redactor
+  leyó el texto, se corrigió y usó mi paráfrasis como distractor. Segunda vez
+  en la campaña que un agente enmienda una descripción mía leyendo la fuente;
+  la lección es la misma: en `fuentes.json` van los identificadores y el
+  alcance, nunca paráfrasis del articulado.
+- **Tres preguntas sobre el contenido de disposiciones** (adicional primera,
+  transitoria quinta y transitoria octava) las marcó el revisor para decisión
+  manual, por si «estructura» solo amparase la existencia y el recuento de las
+  disposiciones y no su contenido. Se aprueban, por el mismo criterio que ya se
+  fijó para «¿en qué Título se regula el Poder Judicial?»: preguntar *qué
+  materia* lleva una parte del texto es estructura, aunque esa materia caiga
+  fuera. La transitoria octava es además elaboración pura (el mandato de las
+  Cámaras constituyentes).
+- Los cuatro revisores descargaron el consolidado **cada uno por su cuenta**,
+  sin reutilizar el archivo compartido de los redactores. El ahorro de la
+  descarga compartida es real en la etapa 1, pero en la 2 la independencia vale
+  más que el `curl`, que además no cuesta contexto.
+
+Banco de Auxiliar: de 5.529 a **5.688 preguntas**.
+
 ## Temas siguientes, cuando el 20 esté cerrado
 
 Del 19 hacia atrás. Estado y déficit hasta 500:

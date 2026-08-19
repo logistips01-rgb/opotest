@@ -13,7 +13,9 @@
       "correct": 1,
       "exp": "La fórmula de cierre dice literalmente: «PALACIO DE LAS CORTES, A VEINTISIETE DE DICIEMBRE DE MIL NOVECIENTOS SETENTA Y OCHO».",
       "fuente": "Fórmula final (firma) de la CE, texto consolidado BOE-A-1978-31229",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Bloque [Firma] del consolidado BOE-A-1978-31229: «PALACIO DE LAS CORTES, A VEINTISIETE DE DICIEMBRE DE MIL NOVECIENTOS SETENTA Y OCHO»; la opción marcada es la única que figura en la fórmula."
     },
     {
       "q": "En la fórmula de promulgación, el Rey manda a todos los españoles, particulares y autoridades, que guarden y hagan guardar la Constitución como:",
@@ -26,7 +28,9 @@
       "correct": 0,
       "exp": "La fórmula literal es: «MANDO A TODOS LOS ESPAÑOLES, PARTICULARES Y AUTORIDADES, QUE GUARDEN Y HAGAN GUARDAR ESTA CONSTITUCIÓN COMO NORMA FUNDAMENTAL DEL ESTADO».",
       "fuente": "Fórmula final (firma) de la CE, texto consolidado BOE-A-1978-31229",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Bloque [Firma]: «...QUE GUARDEN Y HAGAN GUARDAR ESTA CONSTITUCIÓN COMO NORMA FUNDAMENTAL DEL ESTADO»; literal verificado, la marcada es la correcta."
     },
     {
       "q": "Junto a Juan Carlos I, la Constitución Española aparece suscrita por el Presidente de las Cortes, cargo que entonces ostentaba:",
@@ -39,7 +43,9 @@
       "correct": 2,
       "exp": "Tras la firma «JUAN CARLOS» el texto recoge «EL PRESIDENTE DE LAS CORTES, Antonio Hernández Gil». Álvarez de Miranda firma como Presidente del Congreso y Fontán Pérez como Presidente del Senado.",
       "fuente": "Fórmula final (firma) de la CE, texto consolidado BOE-A-1978-31229",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Bloque [Firma]: tras «JUAN CARLOS» consta «EL PRESIDENTE DE LAS CORTES / Antonio Hernández Gil»; también verificados Álvarez de Miranda (Congreso) y Fontán Pérez (Senado) como distractores reales."
     },
     {
       "q": "Según la disposición final de la Constitución, esta entrará en vigor:",
@@ -52,7 +58,9 @@
       "correct": 3,
       "exp": "La disposición final dispone: «Esta Constitución entrará en vigor el mismo día de la publicación de su texto oficial en el boletín oficial del Estado». Por eso entró en vigor el 29 de diciembre de 1978, fecha del BOE núm. 311.",
       "fuente": "Disposición final CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Disposición final del consolidado: «Esta Constitución entrará en vigor el mismo día de la publicación de su texto oficial en el boletín oficial del Estado»; la ficha confirma «BOE» núm. 311, de 29/12/1978, entrada en vigor 29/12/1978."
     },
     {
       "q": "Además de fijar su entrada en vigor, ¿qué otra previsión contiene la disposición final de la Constitución?",
@@ -65,7 +73,9 @@
       "correct": 0,
       "exp": "La disposición final añade, tras la cláusula de entrada en vigor: «Se publicará también en las demás lenguas de España».",
       "fuente": "Disposición final CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Disposición final, segundo inciso: «Se publicará también en las demás lenguas de España»; verificado literal."
     },
     {
       "q": "¿En qué parte del texto constitucional se regula la entrada en vigor de la Constitución?",
@@ -78,7 +88,9 @@
       "correct": 3,
       "exp": "La única disposición final de la Constitución es la que establece que entrará en vigor el mismo día de la publicación de su texto oficial en el BOE.",
       "fuente": "Disposición final CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "La entrada en vigor está en la disposición final (única) y no en ninguna adicional, transitoria ni en la derogatoria; comprobado en la parte final del consolidado."
     },
     {
       "q": "La disposición derogatoria de la Constitución declara derogada expresamente, en su apartado 1:",
@@ -91,7 +103,9 @@
       "correct": 1,
       "exp": "El apartado 1 comienza: «Queda derogada la Ley 1/1977, de 4 de enero, para la Reforma Política», y a continuación enumera las Leyes Fundamentales (Principios del Movimiento Nacional, Fuero de los Españoles, Fuero del Trabajo, Ley Constitutiva de las Cortes, Ley de Sucesión, Ley Orgánica del Estado y Ley de Referéndum Nacional). La Ley de 25 de octubre de 1839 se deroga en el apartado 2.",
       "fuente": "Disposición derogatoria 1 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Disposición derogatoria, apartado 1: empieza «Queda derogada la Ley 1/1977, de 4 de enero, para la Reforma Política»; la Ley de 25-10-1839 se deroga en el apartado 2, verificado en el texto."
     },
     {
       "q": "¿Cuántos apartados tiene la disposición derogatoria de la Constitución Española?",
@@ -104,7 +118,9 @@
       "correct": 1,
       "exp": "La disposición derogatoria consta de tres apartados numerados: el 1 (Ley para la Reforma Política y Leyes Fundamentales), el 2 (Ley de 25 de octubre de 1839 y Ley de 21 de julio de 1876) y el 3 (cláusula derogatoria general).",
       "fuente": "Disposición derogatoria CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Recuento propio en el consolidado: la disposición derogatoria tiene tres apartados numerados (1 Leyes Fundamentales, 2 Leyes de 1839 y 1876, 3 cláusula general)."
     },
     {
       "q": "El apartado 2 de la disposición derogatoria considera definitivamente derogada la Ley de 25 de octubre de 1839 en lo que pudiera afectar a las provincias de:",
@@ -117,7 +133,9 @@
       "correct": 0,
       "exp": "El apartado 2 dispone: «se considera definitivamente derogada la Ley de 25 de octubre de 1839 en lo que pudiera afectar a las provincias de Álava, Guipúzcoa y Vizcaya». En los mismos términos se deroga la Ley de 21 de julio de 1876.",
       "fuente": "Disposición derogatoria 2 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Disposición derogatoria, apartado 2: «...en lo que pudiera afectar a las provincias de Álava, Guipúzcoa y Vizcaya»; Navarra no aparece, los otros tres distractores la incluyen."
     },
     {
       "q": "¿Cuántas disposiciones transitorias tiene la Constitución Española?",
@@ -130,7 +148,9 @@
       "correct": 2,
       "exp": "El texto contiene nueve disposiciones transitorias, de la primera a la novena; la novena se refiere al sorteo para la renovación parcial del Tribunal Constitucional.",
       "fuente": "Disposiciones transitorias primera a novena CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Recuento propio en el consolidado: nueve disposiciones transitorias (primera a novena); la novena es la del sorteo de renovación del TC, como dice la explicación."
     },
     {
       "q": "Sumando todas las disposiciones que siguen al articulado de la Constitución (adicionales, transitorias, derogatoria y final), el total es de:",
@@ -143,7 +163,9 @@
       "correct": 2,
       "exp": "Cuatro disposiciones adicionales, nueve transitorias, una derogatoria y una final: 4 + 9 + 1 + 1 = 15 disposiciones en total.",
       "fuente": "Parte final del texto constitucional (disposiciones adicionales, transitorias, derogatoria y final)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Recuento propio: 4 adicionales + 9 transitorias + 1 derogatoria + 1 final = 15; contadas una a una en la parte final del consolidado."
     },
     {
       "q": "La disposición adicional primera de la Constitución ampara y respeta:",
@@ -156,7 +178,9 @@
       "correct": 3,
       "exp": "La disposición adicional primera dice: «La Constitución ampara y respeta los derechos históricos de los territorios forales», y añade que la actualización general de dicho régimen foral se llevará a cabo, en su caso, en el marco de la Constitución y de los Estatutos de Autonomía.",
       "fuente": "Disposición adicional primera CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Disposición adicional primera: «La Constitución ampara y respeta los derechos históricos de los territorios forales»; verificados además los distractores (régimen económico y fiscal canario = adicional tercera; Audiencias Territoriales = adicional cuarta). Contenido de disposición, no de un título, por lo que se mantiene en el tramo."
     },
     {
       "q": "¿A qué se refiere la disposición transitoria quinta de la Constitución?",
@@ -169,7 +193,9 @@
       "correct": 0,
       "exp": "La disposición transitoria quinta prevé que «las ciudades de Ceuta y Melilla podrán constituirse en Comunidades Autónomas si así lo deciden sus respectivos Ayuntamientos, mediante acuerdo adoptado por la mayoría absoluta de sus miembros y así lo autorizan las Cortes Generales, mediante una ley orgánica». Navarra es objeto de la transitoria cuarta, el orden de dictamen de la sexta y la disolución de los organismos preautonómicos de la séptima.",
       "fuente": "Disposición transitoria quinta CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Disposición transitoria quinta: Ceuta y Melilla, mayoría absoluta de sus Ayuntamientos y ley orgánica (art. 144); comprobado también que Navarra es la cuarta, el orden de dictamen la sexta y la disolución de organismos provisionales la séptima."
     },
     {
       "q": "Según la disposición transitoria octava, el mandato de las Cámaras que aprobaron la Constitución no podía extenderse en ningún caso más allá del:",
@@ -182,7 +208,9 @@
       "correct": 1,
       "exp": "La disposición transitoria octava, apartado 1, establece que dichas Cámaras asumirán las funciones del Congreso y del Senado «sin que en ningún caso su mandato se extienda más allá del 15 de junio de 1981».",
       "fuente": "Disposición transitoria octava.1 CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Disposición transitoria octava, apartado 1: «...sin que en ningún caso su mandato se extienda más allá del 15 de junio de 1981»; fecha verificada literal."
     },
     {
       "q": "¿Cuántas voluntades proclama la Nación española en el Preámbulo de la Constitución?",
@@ -195,7 +223,9 @@
       "correct": 2,
       "exp": "El Preámbulo enumera seis voluntades: garantizar la convivencia democrática, consolidar un Estado de Derecho, proteger a todos los españoles y pueblos de España, promover el progreso de la cultura y de la economía, establecer una sociedad democrática avanzada y colaborar en el fortalecimiento de unas relaciones pacíficas y de eficaz cooperación entre todos los pueblos de la Tierra.",
       "fuente": "Preámbulo CE",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Recuento propio en el Preámbulo del consolidado: seis voluntades (Garantizar, Consolidar, Proteger, Promover, Establecer, Colaborar); coincide con la explicación."
     },
     {
       "q": "El Título I de la Constitución, «De los derechos y deberes fundamentales», comprende los artículos:",
@@ -208,7 +238,9 @@
       "correct": 0,
       "exp": "El Título I se abre con el artículo 10 (dignidad de la persona) y se cierra con el artículo 55 (suspensión de derechos y libertades).",
       "fuente": "Rúbrica del Título I y arts. 10 a 55 CE (índice del texto consolidado BOE-A-1978-31229)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Recuento propio sobre el articulado: el Título I abarca los arts. 10 a 55 (46 artículos); el art. 9 cierra el Título Preliminar y el 56 abre el Título II."
     },
     {
       "q": "¿En cuántos capítulos se divide el Título I de la Constitución?",
@@ -221,7 +253,9 @@
       "correct": 2,
       "exp": "El Título I se divide en cinco capítulos: Primero (De los españoles y los extranjeros), Segundo (Derechos y libertades), Tercero (De los principios rectores de la política social y económica), Cuarto (De las garantías de las libertades y derechos fundamentales) y Quinto (De la suspensión de los derechos y libertades).",
       "fuente": "Rúbricas de los Capítulos Primero a Quinto del Título I CE (índice del texto consolidado BOE-A-1978-31229)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Índice y articulado del consolidado: el Título I tiene cinco capítulos (Primero a Quinto) con las rúbricas de la explicación; recuento propio."
     },
     {
       "q": "Respecto de la ubicación sistemática del artículo 10 de la Constitución, es correcto afirmar que:",
@@ -234,7 +268,9 @@
       "correct": 1,
       "exp": "El artículo 10 aparece inmediatamente después de la rúbrica del Título I y antes del Capítulo Primero, que comienza en el artículo 11. El Título Preliminar se cierra con el artículo 9 y el Capítulo Segundo comienza en el artículo 14.",
       "fuente": "Ubicación del art. 10 CE entre la rúbrica del Título I y el Capítulo Primero (índice del texto consolidado BOE-A-1978-31229)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Índice del consolidado (tn=2) y cuerpo: el art. 10 aparece bajo la rúbrica del Título I y antes del CAPÍTULO PRIMERO, que empieza en el art. 11; el Título Preliminar acaba en el art. 9 y el Cap. Segundo empieza en el 14."
     },
     {
       "q": "El Capítulo Primero del Título I, «De los españoles y los extranjeros», está integrado por los artículos:",
@@ -247,7 +283,9 @@
       "correct": 3,
       "exp": "Ese capítulo comprende los artículos 11 (nacionalidad), 12 (mayoría de edad) y 13 (extranjeros). El artículo 10 queda fuera de capítulo y el 14 abre el Capítulo Segundo.",
       "fuente": "Rúbrica del Capítulo Primero del Título I y arts. 11 a 13 CE (índice del texto consolidado BOE-A-1978-31229)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Recuento propio: Capítulo Primero del Título I = arts. 11 a 13; el 10 queda fuera de capítulo y el 14 abre el Capítulo Segundo."
     },
     {
       "q": "El Capítulo Segundo del Título I, «Derechos y libertades», se subdivide en:",
@@ -260,7 +298,9 @@
       "correct": 1,
       "exp": "El artículo 14 (igualdad ante la ley) figura tras la rúbrica del Capítulo Segundo y antes de la Sección 1.ª, que comienza en el artículo 15. El capítulo tiene solo dos secciones.",
       "fuente": "Rúbrica del Capítulo Segundo del Título I, art. 14 y Secciones 1.ª y 2.ª CE (índice del texto consolidado BOE-A-1978-31229)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Índice y cuerpo: el Capítulo Segundo del Título I tiene solo dos secciones y el art. 14 va tras la rúbrica del capítulo y antes de la Sección 1.ª (que empieza en el art. 15); solo la opción marcada es cierta, la opción similar (sección 1.ª desde el 14) es falsa."
     },
     {
       "q": "¿Cuál es la rúbrica de la Sección 1.ª del Capítulo Segundo del Título I de la Constitución?",
@@ -273,7 +313,9 @@
       "correct": 0,
       "exp": "La Sección 1.ª se titula «De los derechos fundamentales y de las libertades públicas»; la Sección 2.ª es «De los derechos y deberes de los ciudadanos». Las otras dos rúbricas corresponden a los Capítulos Cuarto y Tercero del mismo Título.",
       "fuente": "Rúbrica de la Sección 1.ª del Capítulo Segundo del Título I CE (índice del texto consolidado BOE-A-1978-31229)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Rúbrica literal en el consolidado: «Sección 1.ª De los derechos fundamentales y de las libertades públicas»; verificadas también las rúbricas usadas como distractores (Sección 2.ª y Capítulos Tercero y Cuarto)."
     },
     {
       "q": "La Sección 1.ª del Capítulo Segundo del Título I, «De los derechos fundamentales y de las libertades públicas», comprende los artículos:",
@@ -286,7 +328,9 @@
       "correct": 2,
       "exp": "Esa sección se abre con el artículo 15 (derecho a la vida) y se cierra con el artículo 29 (derecho de petición). El artículo 14 queda fuera de sección y el 30 abre la Sección 2.ª.",
       "fuente": "Sección 1.ª del Capítulo Segundo del Título I y arts. 15 a 29 CE (índice del texto consolidado BOE-A-1978-31229)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Recuento propio: Sección 1.ª = arts. 15 a 29 (15 artículos); el 14 queda fuera de sección y el 30 abre la Sección 2.ª."
     },
     {
       "q": "La Sección 2.ª del Capítulo Segundo del Título I, «De los derechos y deberes de los ciudadanos», comprende los artículos:",
@@ -299,7 +343,9 @@
       "correct": 3,
       "exp": "La Sección 2.ª va del artículo 30 (defensa de España y servicio militar) al artículo 38 (libertad de empresa). El artículo 39 ya pertenece al Capítulo Tercero.",
       "fuente": "Sección 2.ª del Capítulo Segundo del Título I y arts. 30 a 38 CE (índice del texto consolidado BOE-A-1978-31229)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Recuento propio: Sección 2.ª = arts. 30 a 38 (9 artículos); el 39 abre el Capítulo Tercero."
     },
     {
       "q": "¿Cuál es la rúbrica del Capítulo Tercero del Título I de la Constitución, que comprende los artículos 39 a 52?",
@@ -312,7 +358,9 @@
       "correct": 1,
       "exp": "El Capítulo Tercero del Título I se rubrica «De los principios rectores de la política social y económica» y va del artículo 39 al 52.",
       "fuente": "Rúbrica del Capítulo Tercero del Título I y arts. 39 a 52 CE (índice del texto consolidado BOE-A-1978-31229)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Rúbrica literal «CAPÍTULO TERCERO / De los principios rectores de la política social y económica» y recuento propio de sus artículos: 39 a 52."
     },
     {
       "q": "El Capítulo Cuarto del Título I, «De las garantías de las libertades y derechos fundamentales», está integrado por los artículos:",
@@ -325,7 +373,9 @@
       "correct": 0,
       "exp": "Ese capítulo comprende únicamente dos artículos: el 53 (garantías de los derechos) y el 54 (Defensor del Pueblo). El artículo 55 constituye por sí solo el Capítulo Quinto.",
       "fuente": "Rúbrica del Capítulo Cuarto del Título I y arts. 53 y 54 CE (índice del texto consolidado BOE-A-1978-31229)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Recuento propio: Capítulo Cuarto del Título I = arts. 53 y 54 solamente; el 55 forma por sí solo el Capítulo Quinto."
     },
     {
       "q": "El Capítulo Quinto del Título I, «De la suspensión de los derechos y libertades», está integrado por:",
@@ -338,7 +388,9 @@
       "correct": 2,
       "exp": "El Capítulo Quinto del Título I consta de un único artículo, el 55, que cierra además todo el Título I. El artículo 56 abre ya el Título II.",
       "fuente": "Rúbrica del Capítulo Quinto del Título I y art. 55 CE (índice del texto consolidado BOE-A-1978-31229)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Recuento propio: Capítulo Quinto del Título I = únicamente el art. 55, que cierra el Título I; el 56 abre el Título II."
     },
     {
       "q": "El Título II de la Constitución, «De la Corona», comprende los artículos:",
@@ -351,7 +403,9 @@
       "correct": 3,
       "exp": "El Título II se abre con el artículo 56 (el Rey como Jefe del Estado) y se cierra con el artículo 65 (Casa Real y presupuesto). El artículo 55 cierra el Título I y el 66 abre el Título III.",
       "fuente": "Rúbrica del Título II y arts. 56 a 65 CE (índice del texto consolidado BOE-A-1978-31229)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Recuento propio: Título II «De la Corona» = arts. 56 a 65 (10 artículos)."
     },
     {
       "q": "El Título III de la Constitución, «De las Cortes Generales»:",
@@ -364,7 +418,9 @@
       "correct": 1,
       "exp": "El Título III va del artículo 66 al 96 y se estructura en tres capítulos: Primero «De las Cámaras» (66 a 80), Segundo «De la elaboración de las leyes» (81 a 92) y Tercero «De los Tratados Internacionales» (93 a 96).",
       "fuente": "Rúbrica del Título III, arts. 66 a 96 y sus tres capítulos CE (índice del texto consolidado BOE-A-1978-31229)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Recuento propio: Título III = arts. 66 a 96 con tres capítulos (Primero 66-80, Segundo 81-92, Tercero 93-96); rúbricas verificadas en el consolidado."
     },
     {
       "q": "El Capítulo Segundo del Título III, «De la elaboración de las leyes», comprende los artículos:",
@@ -377,7 +433,9 @@
       "correct": 0,
       "exp": "Ese capítulo se abre con el artículo 81 (leyes orgánicas) y se cierra con el artículo 92 (referéndum consultivo). El artículo 93 abre el Capítulo Tercero.",
       "fuente": "Rúbrica del Capítulo Segundo del Título III y arts. 81 a 92 CE (índice del texto consolidado BOE-A-1978-31229)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Recuento propio: Capítulo Segundo del Título III = arts. 81 a 92 (12 artículos); el 93 abre el Capítulo Tercero."
     },
     {
       "q": "¿Cuál es la rúbrica del Capítulo Tercero del Título III de la Constitución, que comprende los artículos 93 a 96?",
@@ -390,7 +448,9 @@
       "correct": 2,
       "exp": "El Capítulo Tercero del Título III se rubrica «De los Tratados Internacionales» y comprende los artículos 93 a 96, con los que se cierra el Título III.",
       "fuente": "Rúbrica del Capítulo Tercero del Título III y arts. 93 a 96 CE (índice del texto consolidado BOE-A-1978-31229)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Rúbrica literal «CAPÍTULO TERCERO / De los Tratados Internacionales» y recuento propio: arts. 93 a 96, con los que acaba el Título III."
     },
     {
       "q": "¿Cuál es la rúbrica del Título V de la Constitución, que comprende los artículos 108 a 116?",
@@ -403,7 +463,9 @@
       "correct": 3,
       "exp": "El Título V se rubrica «De las relaciones entre el Gobierno y las Cortes Generales» y va del artículo 108 al 116. «Del Gobierno y de la Administración» es la rúbrica del Título IV.",
       "fuente": "Rúbrica del Título V y arts. 108 a 116 CE (índice del texto consolidado BOE-A-1978-31229)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Rúbrica literal «TÍTULO V / De las relaciones entre el Gobierno y las Cortes Generales» y recuento propio: arts. 108 a 116; el Título IV es «Del Gobierno y de la Administración»."
     },
     {
       "q": "El Título VI de la Constitución, «Del Poder Judicial», comprende los artículos:",
@@ -416,7 +478,9 @@
       "correct": 0,
       "exp": "El Título VI se abre con el artículo 117 (la justicia emana del pueblo) y se cierra con el artículo 127 (incompatibilidades de Jueces, Magistrados y Fiscales). El artículo 116 cierra el Título V y el 128 abre el Título VII.",
       "fuente": "Rúbrica del Título VI y arts. 117 a 127 CE (índice del texto consolidado BOE-A-1978-31229)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Recuento propio: Título VI «Del Poder Judicial» = arts. 117 a 127 (11 artículos); el 116 cierra el Título V y el 128 abre el VII."
     },
     {
       "q": "¿Cuál es la rúbrica del Título VII de la Constitución, que comprende los artículos 128 a 136?",
@@ -429,7 +493,9 @@
       "correct": 1,
       "exp": "El Título VII se rubrica simplemente «Economía y Hacienda» y comprende los artículos 128 a 136, cerrándose con el relativo al Tribunal de Cuentas.",
       "fuente": "Rúbrica del Título VII y arts. 128 a 136 CE (índice del texto consolidado BOE-A-1978-31229)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Rúbrica literal «TÍTULO VII / Economía y Hacienda» y recuento propio: arts. 128 a 136."
     },
     {
       "q": "El Título VIII de la Constitución, «De la Organización Territorial del Estado», comprende los artículos:",
@@ -442,7 +508,9 @@
       "correct": 2,
       "exp": "El Título VIII va del artículo 137 (organización territorial en municipios, provincias y Comunidades Autónomas) al artículo 158, y se divide en tres capítulos. El artículo 159 abre ya el Título IX.",
       "fuente": "Rúbrica del Título VIII y arts. 137 a 158 CE (índice del texto consolidado BOE-A-1978-31229)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Recuento propio: Título VIII = arts. 137 a 158 (22 artículos) y tres capítulos; el 159 abre el Título IX."
     },
     {
       "q": "El Capítulo Tercero del Título VIII, «De las Comunidades Autónomas», comprende los artículos:",
@@ -455,7 +523,9 @@
       "correct": 3,
       "exp": "El Capítulo Tercero del Título VIII se abre con el artículo 143 (iniciativa del proceso autonómico) y se cierra con el artículo 158 (Fondo de Compensación Interterritorial), con el que termina también el Título VIII.",
       "fuente": "Rúbrica del Capítulo Tercero del Título VIII y arts. 143 a 158 CE (índice del texto consolidado BOE-A-1978-31229)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Recuento propio: Capítulo Tercero del Título VIII «De las Comunidades Autónomas» = arts. 143 a 158; cierra también el Título VIII."
     },
     {
       "q": "El Título IX de la Constitución, «Del Tribunal Constitucional», comprende los artículos:",
@@ -468,7 +538,9 @@
       "correct": 0,
       "exp": "El Título IX va del artículo 159 (composición del Tribunal Constitucional) al artículo 165 (ley orgánica del Tribunal Constitucional). El artículo 166 abre el Título X.",
       "fuente": "Rúbrica del Título IX y arts. 159 a 165 CE (índice del texto consolidado BOE-A-1978-31229)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Recuento propio: Título IX «Del Tribunal Constitucional» = arts. 159 a 165 (7 artículos); el 166 abre el Título X."
     },
     {
       "q": "El Título X de la Constitución, «De la reforma constitucional», comprende los artículos:",
@@ -481,7 +553,9 @@
       "correct": 3,
       "exp": "El Título X, último de la Constitución, se abre con el artículo 166 (iniciativa de reforma) y se cierra con el artículo 169 (imposibilidad de iniciar la reforma en tiempo de guerra o vigencia de los estados del artículo 116), que es el último artículo del texto.",
       "fuente": "Rúbrica del Título X y arts. 166 a 169 CE (índice del texto consolidado BOE-A-1978-31229)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Recuento propio: Título X = arts. 166 a 169 y el art. 169 es el último del texto (169 artículos en total, sin saltos)."
     },
     {
       "q": "¿Cuáles son los únicos títulos de la Constitución que se subdividen en capítulos?",
@@ -494,7 +568,9 @@
       "correct": 3,
       "exp": "Solo el Título I (cinco capítulos), el Título III (tres capítulos) y el Título VIII (tres capítulos) están divididos en capítulos. El Título Preliminar y los Títulos II, IV, V, VI, VII, IX y X se componen directamente de artículos.",
       "fuente": "División en capítulos de los Títulos I, III y VIII CE (índice del texto consolidado BOE-A-1978-31229)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Recorrido completo del articulado: solo los Títulos I, III y VIII llevan capítulos; Preliminar, II, IV, V, VI, VII, IX y X van directamente por artículos."
     },
     {
       "q": "¿Cuántos capítulos tiene en total la Constitución Española?",
@@ -507,7 +583,9 @@
       "correct": 1,
       "exp": "Once capítulos: cinco en el Título I, tres en el Título III y tres en el Título VIII. Ningún otro título se divide en capítulos.",
       "fuente": "Recuento de los capítulos de los Títulos I (5), III (3) y VIII (3) CE (índice del texto consolidado BOE-A-1978-31229)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Recuento propio: 5 capítulos (Título I) + 3 (Título III) + 3 (Título VIII) = 11 capítulos en toda la Constitución."
     },
     {
       "q": "Conforme a la sistemática habitual con que se estudia la Constitución, la llamada parte dogmática está formada por:",
@@ -520,7 +598,9 @@
       "correct": 2,
       "exp": "Se considera parte dogmática la que fija los principios y valores y los derechos y deberes: el Título Preliminar (artículos 1 a 9) y el Título I (artículos 10 a 55). La parte orgánica, que regula los poderes e instituciones del Estado, la integran los Títulos II a X (artículos 56 a 169).",
       "fuente": "Sistemática doctrinal sobre la estructura de la CE; los tramos de artículos citados (1-9, 10-55, 56-169) se comprueban en el índice del texto consolidado BOE-A-1978-31229. La distinción parte dogmática / parte orgánica no aparece con esos términos en el texto constitucional.",
-      "confianza": "media"
+      "confianza": "media",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Terminología doctrinal que no aparece en el texto constitucional y sobre la que no hay un criterio único: parte de los temarios sitúan la parte dogmática en el Título Preliminar + Título I (arts. 1-55) y otra parte solo en el Título I, tratando el Título Preliminar como parte introductoria o de principios. Con ese doble criterio las opciones «Únicamente el Título I» y «El Título Preliminar y el Título I» son ambas defendibles: pregunta ambigua."
     }
   ]
 }

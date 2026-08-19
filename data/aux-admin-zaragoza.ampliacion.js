@@ -44083,3 +44083,2086 @@ window.addQuestions("aux-admin-zaragoza", 16, [
     "exp": "(Procedía del tema 1 del banco original; el tema 1 oficial solo cubre la organización territorial en la Constitución, así que la pregunta se reubicó aquí.) Pregunta 449 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
   }
 ]);
+
+/* tema 1 · lote 2026-08-19 · 39 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 1, [
+  {
+    "q": "La fórmula final con que se cierra el texto de la Constitución Española indica el lugar y la fecha de su firma. ¿Qué lugar figura en ella?",
+    "options": [
+      "Palacio de la Zarzuela",
+      "Palacio de las Cortes",
+      "Palacio Real de Madrid",
+      "Palacio de la Moncloa"
+    ],
+    "correct": 1,
+    "exp": "La fórmula de cierre dice literalmente: «PALACIO DE LAS CORTES, A VEINTISIETE DE DICIEMBRE DE MIL NOVECIENTOS SETENTA Y OCHO».",
+    "fuente": "Fórmula final (firma) de la CE, texto consolidado BOE-A-1978-31229",
+    "confianza": "alta"
+  },
+  {
+    "q": "En la fórmula de promulgación, el Rey manda a todos los españoles, particulares y autoridades, que guarden y hagan guardar la Constitución como:",
+    "options": [
+      "Norma fundamental del Estado",
+      "Ley suprema del ordenamiento jurídico",
+      "Norma suprema del Reino de España",
+      "Ley fundamental del Reino"
+    ],
+    "correct": 0,
+    "exp": "La fórmula literal es: «MANDO A TODOS LOS ESPAÑOLES, PARTICULARES Y AUTORIDADES, QUE GUARDEN Y HAGAN GUARDAR ESTA CONSTITUCIÓN COMO NORMA FUNDAMENTAL DEL ESTADO».",
+    "fuente": "Fórmula final (firma) de la CE, texto consolidado BOE-A-1978-31229",
+    "confianza": "alta"
+  },
+  {
+    "q": "Junto a Juan Carlos I, la Constitución Española aparece suscrita por el Presidente de las Cortes, cargo que entonces ostentaba:",
+    "options": [
+      "Fernando Álvarez de Miranda y Torres",
+      "Antonio Fontán Pérez",
+      "Antonio Hernández Gil",
+      "Adolfo Suárez González"
+    ],
+    "correct": 2,
+    "exp": "Tras la firma «JUAN CARLOS» el texto recoge «EL PRESIDENTE DE LAS CORTES, Antonio Hernández Gil». Álvarez de Miranda firma como Presidente del Congreso y Fontán Pérez como Presidente del Senado.",
+    "fuente": "Fórmula final (firma) de la CE, texto consolidado BOE-A-1978-31229",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la disposición final de la Constitución, esta entrará en vigor:",
+    "options": [
+      "A los veinte días de su publicación en el «Boletín Oficial del Estado»",
+      "Al día siguiente de su publicación en el «Boletín Oficial del Estado»",
+      "El 1 de enero de 1979, con independencia de la fecha de su publicación",
+      "El mismo día de la publicación de su texto oficial en el «Boletín Oficial del Estado»"
+    ],
+    "correct": 3,
+    "exp": "La disposición final dispone: «Esta Constitución entrará en vigor el mismo día de la publicación de su texto oficial en el boletín oficial del Estado». Por eso entró en vigor el 29 de diciembre de 1978, fecha del BOE núm. 311.",
+    "fuente": "Disposición final CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Además de fijar su entrada en vigor, ¿qué otra previsión contiene la disposición final de la Constitución?",
+    "options": [
+      "Que se publicará también en las demás lenguas de España",
+      "Que se remitirá a todos los Ayuntamientos para su exposición pública",
+      "Que su texto original se depositará en el Archivo del Congreso de los Diputados",
+      "Que se publicará también en el diario oficial de las Comunidades Europeas"
+    ],
+    "correct": 0,
+    "exp": "La disposición final añade, tras la cláusula de entrada en vigor: «Se publicará también en las demás lenguas de España».",
+    "fuente": "Disposición final CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En qué parte del texto constitucional se regula la entrada en vigor de la Constitución?",
+    "options": [
+      "En la disposición adicional primera",
+      "En la disposición transitoria octava",
+      "En la disposición derogatoria",
+      "En la disposición final"
+    ],
+    "correct": 3,
+    "exp": "La única disposición final de la Constitución es la que establece que entrará en vigor el mismo día de la publicación de su texto oficial en el BOE.",
+    "fuente": "Disposición final CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "La disposición derogatoria de la Constitución declara derogada expresamente, en su apartado 1:",
+    "options": [
+      "Únicamente la Ley Orgánica del Estado, de 10 de enero de 1967",
+      "La Ley 1/1977, de 4 de enero, para la Reforma Política",
+      "Únicamente la Ley de Referéndum Nacional, de 22 de octubre de 1945",
+      "La Ley de 25 de octubre de 1839"
+    ],
+    "correct": 1,
+    "exp": "El apartado 1 comienza: «Queda derogada la Ley 1/1977, de 4 de enero, para la Reforma Política», y a continuación enumera las Leyes Fundamentales (Principios del Movimiento Nacional, Fuero de los Españoles, Fuero del Trabajo, Ley Constitutiva de las Cortes, Ley de Sucesión, Ley Orgánica del Estado y Ley de Referéndum Nacional). La Ley de 25 de octubre de 1839 se deroga en el apartado 2.",
+    "fuente": "Disposición derogatoria 1 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántos apartados tiene la disposición derogatoria de la Constitución Española?",
+    "options": [
+      "Dos",
+      "Tres",
+      "Cuatro",
+      "Cinco"
+    ],
+    "correct": 1,
+    "exp": "La disposición derogatoria consta de tres apartados numerados: el 1 (Ley para la Reforma Política y Leyes Fundamentales), el 2 (Ley de 25 de octubre de 1839 y Ley de 21 de julio de 1876) y el 3 (cláusula derogatoria general).",
+    "fuente": "Disposición derogatoria CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "El apartado 2 de la disposición derogatoria considera definitivamente derogada la Ley de 25 de octubre de 1839 en lo que pudiera afectar a las provincias de:",
+    "options": [
+      "Álava, Guipúzcoa y Vizcaya",
+      "Navarra, Álava y Guipúzcoa",
+      "Vizcaya, Guipúzcoa y Navarra",
+      "Álava, Vizcaya y Navarra"
+    ],
+    "correct": 0,
+    "exp": "El apartado 2 dispone: «se considera definitivamente derogada la Ley de 25 de octubre de 1839 en lo que pudiera afectar a las provincias de Álava, Guipúzcoa y Vizcaya». En los mismos términos se deroga la Ley de 21 de julio de 1876.",
+    "fuente": "Disposición derogatoria 2 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántas disposiciones transitorias tiene la Constitución Española?",
+    "options": [
+      "Siete",
+      "Ocho",
+      "Nueve",
+      "Diez"
+    ],
+    "correct": 2,
+    "exp": "El texto contiene nueve disposiciones transitorias, de la primera a la novena; la novena se refiere al sorteo para la renovación parcial del Tribunal Constitucional.",
+    "fuente": "Disposiciones transitorias primera a novena CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Sumando todas las disposiciones que siguen al articulado de la Constitución (adicionales, transitorias, derogatoria y final), el total es de:",
+    "options": [
+      "Trece",
+      "Catorce",
+      "Quince",
+      "Dieciséis"
+    ],
+    "correct": 2,
+    "exp": "Cuatro disposiciones adicionales, nueve transitorias, una derogatoria y una final: 4 + 9 + 1 + 1 = 15 disposiciones en total.",
+    "fuente": "Parte final del texto constitucional (disposiciones adicionales, transitorias, derogatoria y final)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La disposición adicional primera de la Constitución ampara y respeta:",
+    "options": [
+      "El régimen económico y fiscal del archipiélago canario",
+      "Las Audiencias Territoriales existentes en cada Comunidad Autónoma",
+      "Los regímenes provisionales de autonomía preexistentes",
+      "Los derechos históricos de los territorios forales"
+    ],
+    "correct": 3,
+    "exp": "La disposición adicional primera dice: «La Constitución ampara y respeta los derechos históricos de los territorios forales», y añade que la actualización general de dicho régimen foral se llevará a cabo, en su caso, en el marco de la Constitución y de los Estatutos de Autonomía.",
+    "fuente": "Disposición adicional primera CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿A qué se refiere la disposición transitoria quinta de la Constitución?",
+    "options": [
+      "A la posibilidad de que Ceuta y Melilla se constituyan en Comunidades Autónomas",
+      "A la incorporación de Navarra al régimen autonómico vasco",
+      "Al orden de dictamen de los proyectos de Estatuto en la Comisión Constitucional del Congreso",
+      "A la disolución de los organismos provisionales autonómicos"
+    ],
+    "correct": 0,
+    "exp": "La disposición transitoria quinta prevé que «las ciudades de Ceuta y Melilla podrán constituirse en Comunidades Autónomas si así lo deciden sus respectivos Ayuntamientos, mediante acuerdo adoptado por la mayoría absoluta de sus miembros y así lo autorizan las Cortes Generales, mediante una ley orgánica». Navarra es objeto de la transitoria cuarta, el orden de dictamen de la sexta y la disolución de los organismos preautonómicos de la séptima.",
+    "fuente": "Disposición transitoria quinta CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la disposición transitoria octava, el mandato de las Cámaras que aprobaron la Constitución no podía extenderse en ningún caso más allá del:",
+    "options": [
+      "15 de junio de 1979",
+      "15 de junio de 1981",
+      "31 de diciembre de 1980",
+      "1 de marzo de 1982"
+    ],
+    "correct": 1,
+    "exp": "La disposición transitoria octava, apartado 1, establece que dichas Cámaras asumirán las funciones del Congreso y del Senado «sin que en ningún caso su mandato se extienda más allá del 15 de junio de 1981».",
+    "fuente": "Disposición transitoria octava.1 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántas voluntades proclama la Nación española en el Preámbulo de la Constitución?",
+    "options": [
+      "Cuatro",
+      "Cinco",
+      "Seis",
+      "Siete"
+    ],
+    "correct": 2,
+    "exp": "El Preámbulo enumera seis voluntades: garantizar la convivencia democrática, consolidar un Estado de Derecho, proteger a todos los españoles y pueblos de España, promover el progreso de la cultura y de la economía, establecer una sociedad democrática avanzada y colaborar en el fortalecimiento de unas relaciones pacíficas y de eficaz cooperación entre todos los pueblos de la Tierra.",
+    "fuente": "Preámbulo CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "El Título I de la Constitución, «De los derechos y deberes fundamentales», comprende los artículos:",
+    "options": [
+      "10 a 55",
+      "11 a 55",
+      "10 a 52",
+      "14 a 55"
+    ],
+    "correct": 0,
+    "exp": "El Título I se abre con el artículo 10 (dignidad de la persona) y se cierra con el artículo 55 (suspensión de derechos y libertades).",
+    "fuente": "Rúbrica del Título I y arts. 10 a 55 CE (índice del texto consolidado BOE-A-1978-31229)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En cuántos capítulos se divide el Título I de la Constitución?",
+    "options": [
+      "Tres",
+      "Cuatro",
+      "Cinco",
+      "Seis"
+    ],
+    "correct": 2,
+    "exp": "El Título I se divide en cinco capítulos: Primero (De los españoles y los extranjeros), Segundo (Derechos y libertades), Tercero (De los principios rectores de la política social y económica), Cuarto (De las garantías de las libertades y derechos fundamentales) y Quinto (De la suspensión de los derechos y libertades).",
+    "fuente": "Rúbricas de los Capítulos Primero a Quinto del Título I CE (índice del texto consolidado BOE-A-1978-31229)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Respecto de la ubicación sistemática del artículo 10 de la Constitución, es correcto afirmar que:",
+    "options": [
+      "Cierra el Título Preliminar",
+      "Encabeza el Título I sin estar integrado en ninguno de sus capítulos",
+      "Es el primer artículo del Capítulo Primero del Título I",
+      "Es el primer artículo del Capítulo Segundo del Título I"
+    ],
+    "correct": 1,
+    "exp": "El artículo 10 aparece inmediatamente después de la rúbrica del Título I y antes del Capítulo Primero, que comienza en el artículo 11. El Título Preliminar se cierra con el artículo 9 y el Capítulo Segundo comienza en el artículo 14.",
+    "fuente": "Ubicación del art. 10 CE entre la rúbrica del Título I y el Capítulo Primero (índice del texto consolidado BOE-A-1978-31229)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El Capítulo Primero del Título I, «De los españoles y los extranjeros», está integrado por los artículos:",
+    "options": [
+      "10 a 13",
+      "11 a 14",
+      "12 a 14",
+      "11 a 13"
+    ],
+    "correct": 3,
+    "exp": "Ese capítulo comprende los artículos 11 (nacionalidad), 12 (mayoría de edad) y 13 (extranjeros). El artículo 10 queda fuera de capítulo y el 14 abre el Capítulo Segundo.",
+    "fuente": "Rúbrica del Capítulo Primero del Título I y arts. 11 a 13 CE (índice del texto consolidado BOE-A-1978-31229)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El Capítulo Segundo del Título I, «Derechos y libertades», se subdivide en:",
+    "options": [
+      "Tres secciones",
+      "Dos secciones, precedidas por el artículo 14",
+      "Dos secciones, la primera de las cuales comienza en el artículo 14",
+      "Cuatro secciones"
+    ],
+    "correct": 1,
+    "exp": "El artículo 14 (igualdad ante la ley) figura tras la rúbrica del Capítulo Segundo y antes de la Sección 1.ª, que comienza en el artículo 15. El capítulo tiene solo dos secciones.",
+    "fuente": "Rúbrica del Capítulo Segundo del Título I, art. 14 y Secciones 1.ª y 2.ª CE (índice del texto consolidado BOE-A-1978-31229)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál es la rúbrica de la Sección 1.ª del Capítulo Segundo del Título I de la Constitución?",
+    "options": [
+      "De los derechos fundamentales y de las libertades públicas",
+      "De los derechos y deberes de los ciudadanos",
+      "De las garantías de las libertades y derechos fundamentales",
+      "De los principios rectores de la política social y económica"
+    ],
+    "correct": 0,
+    "exp": "La Sección 1.ª se titula «De los derechos fundamentales y de las libertades públicas»; la Sección 2.ª es «De los derechos y deberes de los ciudadanos». Las otras dos rúbricas corresponden a los Capítulos Cuarto y Tercero del mismo Título.",
+    "fuente": "Rúbrica de la Sección 1.ª del Capítulo Segundo del Título I CE (índice del texto consolidado BOE-A-1978-31229)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La Sección 1.ª del Capítulo Segundo del Título I, «De los derechos fundamentales y de las libertades públicas», comprende los artículos:",
+    "options": [
+      "14 a 29",
+      "15 a 30",
+      "15 a 29",
+      "14 a 28"
+    ],
+    "correct": 2,
+    "exp": "Esa sección se abre con el artículo 15 (derecho a la vida) y se cierra con el artículo 29 (derecho de petición). El artículo 14 queda fuera de sección y el 30 abre la Sección 2.ª.",
+    "fuente": "Sección 1.ª del Capítulo Segundo del Título I y arts. 15 a 29 CE (índice del texto consolidado BOE-A-1978-31229)",
+    "confianza": "alta"
+  },
+  {
+    "q": "La Sección 2.ª del Capítulo Segundo del Título I, «De los derechos y deberes de los ciudadanos», comprende los artículos:",
+    "options": [
+      "29 a 38",
+      "30 a 39",
+      "31 a 38",
+      "30 a 38"
+    ],
+    "correct": 3,
+    "exp": "La Sección 2.ª va del artículo 30 (defensa de España y servicio militar) al artículo 38 (libertad de empresa). El artículo 39 ya pertenece al Capítulo Tercero.",
+    "fuente": "Sección 2.ª del Capítulo Segundo del Título I y arts. 30 a 38 CE (índice del texto consolidado BOE-A-1978-31229)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál es la rúbrica del Capítulo Tercero del Título I de la Constitución, que comprende los artículos 39 a 52?",
+    "options": [
+      "Derechos y libertades",
+      "De los principios rectores de la política social y económica",
+      "De las garantías de las libertades y derechos fundamentales",
+      "De los derechos y deberes de los ciudadanos"
+    ],
+    "correct": 1,
+    "exp": "El Capítulo Tercero del Título I se rubrica «De los principios rectores de la política social y económica» y va del artículo 39 al 52.",
+    "fuente": "Rúbrica del Capítulo Tercero del Título I y arts. 39 a 52 CE (índice del texto consolidado BOE-A-1978-31229)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El Capítulo Cuarto del Título I, «De las garantías de las libertades y derechos fundamentales», está integrado por los artículos:",
+    "options": [
+      "53 y 54",
+      "53 a 55",
+      "54 y 55",
+      "52 y 53"
+    ],
+    "correct": 0,
+    "exp": "Ese capítulo comprende únicamente dos artículos: el 53 (garantías de los derechos) y el 54 (Defensor del Pueblo). El artículo 55 constituye por sí solo el Capítulo Quinto.",
+    "fuente": "Rúbrica del Capítulo Cuarto del Título I y arts. 53 y 54 CE (índice del texto consolidado BOE-A-1978-31229)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El Capítulo Quinto del Título I, «De la suspensión de los derechos y libertades», está integrado por:",
+    "options": [
+      "Los artículos 54 y 55",
+      "Los artículos 55 y 56",
+      "Un solo artículo, el 55",
+      "Un solo artículo, el 54"
+    ],
+    "correct": 2,
+    "exp": "El Capítulo Quinto del Título I consta de un único artículo, el 55, que cierra además todo el Título I. El artículo 56 abre ya el Título II.",
+    "fuente": "Rúbrica del Capítulo Quinto del Título I y art. 55 CE (índice del texto consolidado BOE-A-1978-31229)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El Título II de la Constitución, «De la Corona», comprende los artículos:",
+    "options": [
+      "55 a 65",
+      "56 a 64",
+      "57 a 65",
+      "56 a 65"
+    ],
+    "correct": 3,
+    "exp": "El Título II se abre con el artículo 56 (el Rey como Jefe del Estado) y se cierra con el artículo 65 (Casa Real y presupuesto). El artículo 55 cierra el Título I y el 66 abre el Título III.",
+    "fuente": "Rúbrica del Título II y arts. 56 a 65 CE (índice del texto consolidado BOE-A-1978-31229)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El Título III de la Constitución, «De las Cortes Generales»:",
+    "options": [
+      "Comprende los artículos 66 a 92 y se divide en dos capítulos",
+      "Comprende los artículos 66 a 96 y se divide en tres capítulos",
+      "Comprende los artículos 66 a 96 y no se divide en capítulos",
+      "Comprende los artículos 67 a 96 y se divide en tres capítulos"
+    ],
+    "correct": 1,
+    "exp": "El Título III va del artículo 66 al 96 y se estructura en tres capítulos: Primero «De las Cámaras» (66 a 80), Segundo «De la elaboración de las leyes» (81 a 92) y Tercero «De los Tratados Internacionales» (93 a 96).",
+    "fuente": "Rúbrica del Título III, arts. 66 a 96 y sus tres capítulos CE (índice del texto consolidado BOE-A-1978-31229)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El Capítulo Segundo del Título III, «De la elaboración de las leyes», comprende los artículos:",
+    "options": [
+      "81 a 92",
+      "80 a 91",
+      "81 a 96",
+      "82 a 92"
+    ],
+    "correct": 0,
+    "exp": "Ese capítulo se abre con el artículo 81 (leyes orgánicas) y se cierra con el artículo 92 (referéndum consultivo). El artículo 93 abre el Capítulo Tercero.",
+    "fuente": "Rúbrica del Capítulo Segundo del Título III y arts. 81 a 92 CE (índice del texto consolidado BOE-A-1978-31229)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál es la rúbrica del Capítulo Tercero del Título III de la Constitución, que comprende los artículos 93 a 96?",
+    "options": [
+      "De las Cámaras",
+      "De la elaboración de las leyes",
+      "De los Tratados Internacionales",
+      "De las relaciones internacionales del Estado"
+    ],
+    "correct": 2,
+    "exp": "El Capítulo Tercero del Título III se rubrica «De los Tratados Internacionales» y comprende los artículos 93 a 96, con los que se cierra el Título III.",
+    "fuente": "Rúbrica del Capítulo Tercero del Título III y arts. 93 a 96 CE (índice del texto consolidado BOE-A-1978-31229)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál es la rúbrica del Título V de la Constitución, que comprende los artículos 108 a 116?",
+    "options": [
+      "Del Gobierno y de la Administración",
+      "Del control parlamentario del Gobierno",
+      "De los estados de alarma, excepción y sitio",
+      "De las relaciones entre el Gobierno y las Cortes Generales"
+    ],
+    "correct": 3,
+    "exp": "El Título V se rubrica «De las relaciones entre el Gobierno y las Cortes Generales» y va del artículo 108 al 116. «Del Gobierno y de la Administración» es la rúbrica del Título IV.",
+    "fuente": "Rúbrica del Título V y arts. 108 a 116 CE (índice del texto consolidado BOE-A-1978-31229)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El Título VI de la Constitución, «Del Poder Judicial», comprende los artículos:",
+    "options": [
+      "117 a 127",
+      "116 a 127",
+      "117 a 128",
+      "118 a 127"
+    ],
+    "correct": 0,
+    "exp": "El Título VI se abre con el artículo 117 (la justicia emana del pueblo) y se cierra con el artículo 127 (incompatibilidades de Jueces, Magistrados y Fiscales). El artículo 116 cierra el Título V y el 128 abre el Título VII.",
+    "fuente": "Rúbrica del Título VI y arts. 117 a 127 CE (índice del texto consolidado BOE-A-1978-31229)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál es la rúbrica del Título VII de la Constitución, que comprende los artículos 128 a 136?",
+    "options": [
+      "Del Tribunal de Cuentas y la Hacienda Pública",
+      "Economía y Hacienda",
+      "De la Hacienda y el Presupuesto del Estado",
+      "Economía, Hacienda y Presupuestos"
+    ],
+    "correct": 1,
+    "exp": "El Título VII se rubrica simplemente «Economía y Hacienda» y comprende los artículos 128 a 136, cerrándose con el relativo al Tribunal de Cuentas.",
+    "fuente": "Rúbrica del Título VII y arts. 128 a 136 CE (índice del texto consolidado BOE-A-1978-31229)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El Título VIII de la Constitución, «De la Organización Territorial del Estado», comprende los artículos:",
+    "options": [
+      "136 a 158",
+      "137 a 155",
+      "137 a 158",
+      "137 a 159"
+    ],
+    "correct": 2,
+    "exp": "El Título VIII va del artículo 137 (organización territorial en municipios, provincias y Comunidades Autónomas) al artículo 158, y se divide en tres capítulos. El artículo 159 abre ya el Título IX.",
+    "fuente": "Rúbrica del Título VIII y arts. 137 a 158 CE (índice del texto consolidado BOE-A-1978-31229)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El Capítulo Tercero del Título VIII, «De las Comunidades Autónomas», comprende los artículos:",
+    "options": [
+      "140 a 158",
+      "143 a 155",
+      "142 a 158",
+      "143 a 158"
+    ],
+    "correct": 3,
+    "exp": "El Capítulo Tercero del Título VIII se abre con el artículo 143 (iniciativa del proceso autonómico) y se cierra con el artículo 158 (Fondo de Compensación Interterritorial), con el que termina también el Título VIII.",
+    "fuente": "Rúbrica del Capítulo Tercero del Título VIII y arts. 143 a 158 CE (índice del texto consolidado BOE-A-1978-31229)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El Título IX de la Constitución, «Del Tribunal Constitucional», comprende los artículos:",
+    "options": [
+      "159 a 165",
+      "158 a 165",
+      "159 a 166",
+      "160 a 165"
+    ],
+    "correct": 0,
+    "exp": "El Título IX va del artículo 159 (composición del Tribunal Constitucional) al artículo 165 (ley orgánica del Tribunal Constitucional). El artículo 166 abre el Título X.",
+    "fuente": "Rúbrica del Título IX y arts. 159 a 165 CE (índice del texto consolidado BOE-A-1978-31229)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El Título X de la Constitución, «De la reforma constitucional», comprende los artículos:",
+    "options": [
+      "165 a 169",
+      "166 a 168",
+      "167 a 169",
+      "166 a 169"
+    ],
+    "correct": 3,
+    "exp": "El Título X, último de la Constitución, se abre con el artículo 166 (iniciativa de reforma) y se cierra con el artículo 169 (imposibilidad de iniciar la reforma en tiempo de guerra o vigencia de los estados del artículo 116), que es el último artículo del texto.",
+    "fuente": "Rúbrica del Título X y arts. 166 a 169 CE (índice del texto consolidado BOE-A-1978-31229)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuáles son los únicos títulos de la Constitución que se subdividen en capítulos?",
+    "options": [
+      "Los Títulos I, IV y VIII",
+      "Los Títulos I, II y VIII",
+      "Los Títulos I, III, VIII y X",
+      "Los Títulos I, III y VIII"
+    ],
+    "correct": 3,
+    "exp": "Solo el Título I (cinco capítulos), el Título III (tres capítulos) y el Título VIII (tres capítulos) están divididos en capítulos. El Título Preliminar y los Títulos II, IV, V, VI, VII, IX y X se componen directamente de artículos.",
+    "fuente": "División en capítulos de los Títulos I, III y VIII CE (índice del texto consolidado BOE-A-1978-31229)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántos capítulos tiene en total la Constitución Española?",
+    "options": [
+      "Diez",
+      "Once",
+      "Doce",
+      "Trece"
+    ],
+    "correct": 1,
+    "exp": "Once capítulos: cinco en el Título I, tres en el Título III y tres en el Título VIII. Ningún otro título se divide en capítulos.",
+    "fuente": "Recuento de los capítulos de los Títulos I (5), III (3) y VIII (3) CE (índice del texto consolidado BOE-A-1978-31229)",
+    "confianza": "alta"
+  }
+]);
+
+/* tema 1 · lote 2026-08-19 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 1, [
+  {
+    "q": "Según el art. 1.2 CE, la soberanía nacional reside en el pueblo español, del que emanan:",
+    "options": [
+      "Todas las instituciones del Estado y de las Comunidades Autónomas",
+      "Los poderes del Estado",
+      "Los valores superiores del ordenamiento jurídico",
+      "La potestad legislativa y la potestad reglamentaria"
+    ],
+    "correct": 1,
+    "exp": "El art. 1.2 CE dispone literalmente: «La soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado».",
+    "fuente": "Art. 1.2 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En qué orden enumera el art. 1.1 CE los valores superiores del ordenamiento jurídico?",
+    "options": [
+      "Libertad, igualdad, justicia y pluralismo político",
+      "Justicia, libertad, igualdad y pluralismo político",
+      "Igualdad, libertad, pluralismo político y justicia",
+      "Libertad, justicia, igualdad y pluralismo político"
+    ],
+    "correct": 3,
+    "exp": "El art. 1.1 CE los enumera en este orden: «la libertad, la justicia, la igualdad y el pluralismo político».",
+    "fuente": "Art. 1.1 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 1.1 CE, la libertad, la justicia, la igualdad y el pluralismo político son valores superiores:",
+    "options": [
+      "Del ordenamiento jurídico del Estado social y democrático de Derecho en que España se constituye",
+      "De la convivencia democrática de la Nación española",
+      "Del orden político y de la paz social",
+      "De la Constitución y del resto del ordenamiento jurídico"
+    ],
+    "correct": 0,
+    "exp": "El art. 1.1 CE dice que España se constituye en un Estado social y democrático de Derecho «que propugna como valores superiores de su ordenamiento jurídico» los cuatro citados. El «fundamento del orden político y de la paz social» es la fórmula del art. 10.1 CE, no del art. 1.1.",
+    "fuente": "Art. 1.1 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "La proclamación de que la soberanía nacional reside en el pueblo español se contiene en el artículo 1 CE, apartado:",
+    "options": [
+      "Primero",
+      "Segundo",
+      "Tercero",
+      "Cuarto"
+    ],
+    "correct": 1,
+    "exp": "El art. 1 CE tiene tres apartados: el 1 recoge la cláusula de Estado social y democrático de Derecho y los valores superiores; el 2, la soberanía nacional; y el 3, la forma política del Estado.",
+    "fuente": "Art. 1.2 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 2 CE califica de «patria común e indivisible de todos los españoles» a:",
+    "options": [
+      "El territorio nacional",
+      "El pueblo español",
+      "La Nación española",
+      "El Estado español"
+    ],
+    "correct": 2,
+    "exp": "El art. 2 CE se refiere a «la indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles».",
+    "fuente": "Art. 2 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Además del derecho a la autonomía de las nacionalidades y regiones que la integran, ¿qué reconoce y garantiza el art. 2 CE?",
+    "options": [
+      "La solidaridad entre todas ellas",
+      "La igualdad de derechos y obligaciones entre todas ellas",
+      "El equilibrio económico adecuado y justo entre todas ellas",
+      "La cooperación de todas ellas con el Estado"
+    ],
+    "correct": 0,
+    "exp": "El art. 2 CE «reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas». El equilibrio económico adecuado y justo entre las partes del territorio es materia del art. 138.1 CE.",
+    "fuente": "Art. 2 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes previsiones sobre los partidos políticos NO figura en el art. 6 CE?",
+    "options": [
+      "Expresan el pluralismo político",
+      "Concurren a la formación y manifestación de la voluntad popular",
+      "Su estructura interna y funcionamiento deberán ser democráticos",
+      "Su régimen de financiación se establecerá mediante ley orgánica"
+    ],
+    "correct": 3,
+    "exp": "El art. 6 CE no dice nada sobre la financiación de los partidos: se limita a señalar que expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular, son instrumento fundamental para la participación política, que su creación y actividad son libres dentro del respeto a la Constitución y a la ley y que su estructura interna y funcionamiento deberán ser democráticos.",
+    "fuente": "Art. 6 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de los siguientes artículos del Título Preliminar consta de un único párrafo, sin división en apartados numerados?",
+    "options": [
+      "El artículo 3",
+      "El artículo 4",
+      "El artículo 6",
+      "El artículo 8"
+    ],
+    "correct": 2,
+    "exp": "El art. 6 CE (partidos políticos) es un único párrafo sin apartados, igual que los arts. 2, 5 y 7. En cambio el art. 3 tiene tres apartados y los arts. 4 y 8 tienen dos cada uno.",
+    "fuente": "Arts. 3, 4, 6 y 8 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 3.2 CE, las demás lenguas españolas serán también oficiales en las respectivas Comunidades Autónomas de acuerdo con:",
+    "options": [
+      "La ley orgánica que las declare cooficiales",
+      "Sus Estatutos",
+      "Lo que disponga la legislación básica del Estado",
+      "Los acuerdos que adopten sus Asambleas Legislativas"
+    ],
+    "correct": 1,
+    "exp": "El art. 3.2 CE remite directamente a los Estatutos: «Las demás lenguas españolas serán también oficiales en las respectivas Comunidades Autónomas de acuerdo con sus Estatutos».",
+    "fuente": "Art. 3.2 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "El carácter oficial que el art. 3.2 CE atribuye a las demás lenguas españolas se proyecta sobre:",
+    "options": [
+      "Todo el territorio del Estado, en pie de igualdad con el castellano",
+      "Las provincias y municipios en que dichas lenguas sean de uso tradicional",
+      "Las Comunidades Autónomas y las relaciones de estas con la Administración del Estado",
+      "Las respectivas Comunidades Autónomas"
+    ],
+    "correct": 3,
+    "exp": "El art. 3.2 CE circunscribe la oficialidad de las demás lenguas españolas a «las respectivas Comunidades Autónomas», de acuerdo con sus Estatutos. Solo el castellano es la lengua española oficial del Estado (art. 3.1 CE).",
+    "fuente": "Art. 3.2 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 3.3 CE, la riqueza de las distintas modalidades lingüísticas de España será objeto de:",
+    "options": [
+      "Especial respeto y protección",
+      "Especial protección y fomento",
+      "Respeto y tutela por todos los poderes públicos",
+      "Protección reforzada por parte de las Comunidades Autónomas"
+    ],
+    "correct": 0,
+    "exp": "El art. 3.3 CE dice que esa riqueza «es un patrimonio cultural que será objeto de especial respeto y protección».",
+    "fuente": "Art. 3.3 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En qué apartado del art. 3 CE se encuentra la remisión a los Estatutos de las Comunidades Autónomas?",
+    "options": [
+      "En el apartado 1",
+      "En el apartado 2",
+      "En el apartado 3",
+      "En los apartados 2 y 3"
+    ],
+    "correct": 1,
+    "exp": "Solo el art. 3.2 CE remite a los Estatutos. El apartado 1 regula el castellano como lengua oficial del Estado y el apartado 3 las modalidades lingüísticas, sin mencionar los Estatutos.",
+    "fuente": "Art. 3.2 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes afirmaciones se ajusta al art. 3 CE?",
+    "options": [
+      "Las modalidades lingüísticas de España se declaran patrimonio nacional de titularidad estatal",
+      "El derecho a usar el castellano solo se reconoce a los españoles residentes en Comunidades sin lengua propia",
+      "Todos los españoles tienen el deber de conocer el castellano",
+      "Las demás lenguas españolas son oficiales en todo el territorio del Estado"
+    ],
+    "correct": 2,
+    "exp": "El art. 3.1 CE impone a todos los españoles el deber de conocer el castellano y les reconoce el derecho a usarlo. Las demás lenguas son oficiales solo en sus Comunidades Autónomas (art. 3.2) y las modalidades lingüísticas se califican de «patrimonio cultural», no de patrimonio nacional (art. 3.3).",
+    "fuente": "Art. 3.1 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 4.2 CE, ¿qué norma podrá reconocer banderas y enseñas propias de las Comunidades Autónomas?",
+    "options": [
+      "Los Estatutos",
+      "Una ley orgánica del Estado",
+      "Las leyes de las respectivas Asambleas Legislativas",
+      "Un real decreto aprobado a propuesta de la Comunidad Autónoma"
+    ],
+    "correct": 0,
+    "exp": "El art. 4.2 CE dispone: «Los Estatutos podrán reconocer banderas y enseñas propias de las Comunidades Autónomas».",
+    "fuente": "Art. 4.2 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 4.2 CE, las banderas y enseñas propias de las Comunidades Autónomas se utilizarán junto a la bandera de España:",
+    "options": [
+      "En sus edificios públicos y en sus actos oficiales",
+      "En sus sedes institucionales y en los actos de carácter solemne",
+      "En sus edificios oficiales y en los actos públicos que celebren",
+      "En todos los edificios y actos que se desarrollen en su territorio"
+    ],
+    "correct": 0,
+    "exp": "El art. 4.2 CE, in fine: «Estas se utilizarán junto a la bandera de España en sus edificios públicos y en sus actos oficiales».",
+    "fuente": "Art. 4.2 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes afirmaciones NO se ajusta al art. 4 CE?",
+    "options": [
+      "Las tres franjas de la bandera de España son horizontales",
+      "La franja amarilla es de doble anchura que cada una de las rojas",
+      "Los Estatutos podrán reconocer banderas y enseñas propias de las Comunidades Autónomas",
+      "Las banderas propias de las Comunidades Autónomas sustituirán a la de España en sus edificios públicos"
+    ],
+    "correct": 3,
+    "exp": "El art. 4.2 CE establece que las banderas autonómicas «se utilizarán junto a la bandera de España», no en sustitución de ella. Las otras tres afirmaciones reproducen los arts. 4.1 y 4.2 CE.",
+    "fuente": "Art. 4 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En qué artículo de la Constitución se establece que la capital del Estado es la villa de Madrid?",
+    "options": [
+      "En el artículo 3",
+      "En el artículo 4",
+      "En el artículo 6",
+      "En el artículo 5"
+    ],
+    "correct": 3,
+    "exp": "El art. 5 CE, único precepto del Título Preliminar dedicado a la capitalidad, dispone: «La capital del Estado es la villa de Madrid».",
+    "fuente": "Art. 5 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 6 CE, los partidos políticos concurren a la formación y manifestación de:",
+    "options": [
+      "La voluntad popular",
+      "La opinión pública",
+      "La voluntad general del Estado",
+      "La soberanía nacional"
+    ],
+    "correct": 0,
+    "exp": "El art. 6 CE: los partidos políticos «expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y son instrumento fundamental para la participación política».",
+    "fuente": "Art. 6 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 6 CE, los partidos políticos son instrumento fundamental para:",
+    "options": [
+      "La formación de la voluntad del Estado",
+      "El ejercicio del derecho de sufragio",
+      "La participación política",
+      "La participación de los ciudadanos en los asuntos públicos"
+    ],
+    "correct": 2,
+    "exp": "El art. 6 CE los define como «instrumento fundamental para la participación política». La participación en los asuntos públicos es la fórmula del derecho del art. 23 CE, no del art. 6.",
+    "fuente": "Art. 6 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "La exigencia de que «su estructura interna y funcionamiento deberán ser democráticos» se impone en el Título Preliminar de la Constitución a:",
+    "options": [
+      "Los partidos políticos y los sindicatos de trabajadores, pero no a las asociaciones empresariales",
+      "Los partidos políticos, los sindicatos de trabajadores y las asociaciones empresariales",
+      "Únicamente a los partidos políticos",
+      "Los partidos políticos, los sindicatos y los colegios profesionales"
+    ],
+    "correct": 1,
+    "exp": "La misma exigencia aparece dos veces, con idéntica redacción: en el art. 6 CE para los partidos políticos y en el art. 7 CE para los sindicatos de trabajadores y las asociaciones empresariales. Los colegios profesionales no se mencionan en el Título Preliminar.",
+    "fuente": "Arts. 6 y 7 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 7 CE, los sindicatos de trabajadores y las asociaciones empresariales contribuyen a la defensa y promoción de los intereses:",
+    "options": [
+      "Profesionales y laborales de sus afiliados",
+      "Sociales y laborales de los trabajadores",
+      "Económicos y profesionales del sector que representan",
+      "Económicos y sociales que les son propios"
+    ],
+    "correct": 3,
+    "exp": "El art. 7 CE: «contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios».",
+    "fuente": "Art. 7 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes organizaciones se menciona expresamente en el art. 7 CE?",
+    "options": [
+      "Los colegios profesionales",
+      "Las asociaciones empresariales",
+      "Las organizaciones profesionales",
+      "Las corporaciones de derecho público"
+    ],
+    "correct": 1,
+    "exp": "El art. 7 CE se refiere exclusivamente a «los sindicatos de trabajadores y las asociaciones empresariales». Los colegios profesionales y las organizaciones profesionales se contemplan en el Título I (arts. 36 y 52 CE), no en el Título Preliminar.",
+    "fuente": "Art. 7 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En qué orden enumera el art. 8.1 CE los cuerpos que constituyen las Fuerzas Armadas?",
+    "options": [
+      "La Armada, el Ejército de Tierra y el Ejército del Aire",
+      "El Ejército de Tierra, el Ejército del Aire y la Armada",
+      "El Ejército de Tierra, la Armada y el Ejército del Aire",
+      "El Ejército de Tierra, la Armada, el Ejército del Aire y la Guardia Civil"
+    ],
+    "correct": 2,
+    "exp": "El art. 8.1 CE: «Las Fuerzas Armadas, constituidas por el Ejército de Tierra, la Armada y el Ejército del Aire...». La Guardia Civil no figura en ese artículo.",
+    "fuente": "Art. 8.1 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme a la redacción literal del art. 8.1 CE, el tercero de los cuerpos que constituyen las Fuerzas Armadas se denomina:",
+    "options": [
+      "Ejército del Aire y del Espacio",
+      "Fuerzas Aéreas Españolas",
+      "Ejército del Aire",
+      "Ejército Aéreo"
+    ],
+    "correct": 2,
+    "exp": "El texto consolidado del art. 8.1 CE mantiene la denominación «el Ejército del Aire», que es la que hay que dar por buena al citar la Constitución.",
+    "fuente": "Art. 8.1 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes NO es una misión de las Fuerzas Armadas según el art. 8.1 CE?",
+    "options": [
+      "Garantizar la soberanía e independencia de España",
+      "Defender la integridad territorial de España",
+      "Defender el ordenamiento constitucional",
+      "Proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana"
+    ],
+    "correct": 3,
+    "exp": "El art. 8.1 CE atribuye a las Fuerzas Armadas garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional. Proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana es la misión de las Fuerzas y Cuerpos de Seguridad (art. 104.1 CE).",
+    "fuente": "Art. 8.1 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 8.2 CE, la ley orgánica regulará las bases de la organización militar conforme a:",
+    "options": [
+      "Los principios de la presente Constitución",
+      "Los principios de jerarquía, disciplina y unidad",
+      "Los compromisos internacionales asumidos por España",
+      "Las directrices que fije el Gobierno en materia de defensa"
+    ],
+    "correct": 0,
+    "exp": "El art. 8.2 CE: «Una ley orgánica regulará las bases de la organización militar conforme a los principios de la presente Constitución».",
+    "fuente": "Art. 8.2 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En qué precepto del Título Preliminar se exige expresamente una ley orgánica?",
+    "options": [
+      "En el art. 6 CE",
+      "En el art. 7 CE",
+      "En el art. 9.3 CE",
+      "En el art. 8.2 CE"
+    ],
+    "correct": 3,
+    "exp": "La única remisión a ley orgánica del Título Preliminar es la del art. 8.2 CE, sobre las bases de la organización militar.",
+    "fuente": "Art. 8.2 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 9.1 CE, están sujetos a la Constitución y al resto del ordenamiento jurídico:",
+    "options": [
+      "Los poderes públicos, sin excepción",
+      "Los españoles y los extranjeros que se encuentren en España",
+      "Los ciudadanos y los poderes públicos",
+      "Los poderes del Estado, de las Comunidades Autónomas y de las entidades locales"
+    ],
+    "correct": 2,
+    "exp": "El art. 9.1 CE: «Los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico».",
+    "fuente": "Art. 9.1 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Además de promover las condiciones para que la libertad y la igualdad sean reales y efectivas, el art. 9.2 CE encomienda a los poderes públicos:",
+    "options": [
+      "Remover los obstáculos que impidan o dificulten su plenitud",
+      "Adoptar medidas de acción positiva en favor de los grupos desfavorecidos",
+      "Eliminar toda forma de discriminación por razón de nacimiento, raza o sexo",
+      "Corregir las desigualdades económicas entre los ciudadanos"
+    ],
+    "correct": 0,
+    "exp": "El art. 9.2 CE ordena a los poderes públicos «remover los obstáculos que impidan o dificulten su plenitud» y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social.",
+    "fuente": "Art. 9.2 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "La libertad y la igualdad cuya efectividad real deben promover los poderes públicos conforme al art. 9.2 CE se predican:",
+    "options": [
+      "De todos los ciudadanos españoles",
+      "Del individuo y de los grupos en que se integra",
+      "De las personas y de los grupos sociales organizados",
+      "De los individuos y de los pueblos de España"
+    ],
+    "correct": 1,
+    "exp": "El art. 9.2 CE se refiere a «la libertad y la igualdad del individuo y de los grupos en que se integra».",
+    "fuente": "Art. 9.2 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál es el primer principio que enumera el art. 9.3 CE?",
+    "options": [
+      "La jerarquía normativa",
+      "La seguridad jurídica",
+      "La publicidad de las normas",
+      "El principio de legalidad"
+    ],
+    "correct": 3,
+    "exp": "El art. 9.3 CE comienza: «La Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas...».",
+    "fuente": "Art. 9.3 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántos principios garantiza expresamente el art. 9.3 CE?",
+    "options": [
+      "Cinco",
+      "Seis",
+      "Siete",
+      "Ocho"
+    ],
+    "correct": 2,
+    "exp": "El art. 9.3 CE enumera siete: principio de legalidad, jerarquía normativa, publicidad de las normas, irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, seguridad jurídica, responsabilidad e interdicción de la arbitrariedad de los poderes públicos.",
+    "fuente": "Art. 9.3 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "En la enumeración del art. 9.3 CE, ¿qué principio figura inmediatamente antes de la responsabilidad?",
+    "options": [
+      "La seguridad jurídica",
+      "La publicidad de las normas",
+      "La interdicción de la arbitrariedad de los poderes públicos",
+      "La jerarquía normativa"
+    ],
+    "correct": 0,
+    "exp": "El orden literal del art. 9.3 CE es: el principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos. La responsabilidad va precedida de la seguridad jurídica y seguida de la interdicción de la arbitrariedad.",
+    "fuente": "Art. 9.3 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En qué apartado del art. 9 CE se garantizan el principio de legalidad, la jerarquía normativa y la publicidad de las normas?",
+    "options": [
+      "En el apartado 1",
+      "En el apartado 2",
+      "En el apartado 3",
+      "En el apartado 3, salvo la publicidad de las normas, que figura en el apartado 2"
+    ],
+    "correct": 2,
+    "exp": "Los tres principios están en el art. 9.3 CE. El apartado 1 contiene la sujeción de ciudadanos y poderes públicos a la Constitución y al resto del ordenamiento; el apartado 2, los deberes de los poderes públicos en materia de libertad, igualdad y participación.",
+    "fuente": "Art. 9.3 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes correspondencias entre apartado del art. 9 CE y su contenido es correcta?",
+    "options": [
+      "Art. 9.2 CE: garantía del principio de legalidad y de la jerarquía normativa",
+      "Art. 9.3 CE: remoción de los obstáculos que impidan la plenitud de la libertad y la igualdad",
+      "Art. 9.1 CE: facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social",
+      "Art. 9.1 CE: sujeción de los ciudadanos y de los poderes públicos a la Constitución y al resto del ordenamiento jurídico"
+    ],
+    "correct": 3,
+    "exp": "La sujeción de ciudadanos y poderes públicos es el art. 9.1 CE. La remoción de obstáculos y la facilitación de la participación son deberes del art. 9.2 CE, y la legalidad y la jerarquía normativa son principios del art. 9.3 CE.",
+    "fuente": "Art. 9.1 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "El pluralismo político se menciona en el Título Preliminar como valor superior del ordenamiento jurídico (art. 1.1 CE) y, además, en relación con:",
+    "options": [
+      "Los partidos políticos, que lo expresan",
+      "Los sindicatos de trabajadores y las asociaciones empresariales, que lo expresan",
+      "Las Cortes Generales, que lo representan",
+      "Las nacionalidades y regiones que integran la Nación española"
+    ],
+    "correct": 0,
+    "exp": "El art. 6 CE comienza afirmando que «los partidos políticos expresan el pluralismo político». El art. 7 CE, sobre sindicatos y asociaciones empresariales, no contiene esa referencia.",
+    "fuente": "Arts. 1.1 y 6 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de los siguientes contenidos NO se encuentra en el Título Preliminar de la Constitución (arts. 1 a 9)?",
+    "options": [
+      "La capital del Estado",
+      "La dignidad de la persona como fundamento del orden político y de la paz social",
+      "La bandera de España",
+      "La sujeción de los poderes públicos al ordenamiento jurídico"
+    ],
+    "correct": 1,
+    "exp": "La dignidad de la persona como fundamento del orden político y de la paz social está en el art. 10.1 CE, ya en el Título I. La capitalidad (art. 5), la bandera (art. 4) y la sujeción al ordenamiento (art. 9.1) sí pertenecen al Título Preliminar.",
+    "fuente": "Arts. 4, 5 y 9.1 CE; art. 10.1 CE (fuera del Título Preliminar)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El término «solidaridad» aparece en el Título Preliminar de la Constitución en el:",
+    "options": [
+      "Artículo 1",
+      "Artículo 2",
+      "Artículo 7",
+      "Artículo 9"
+    ],
+    "correct": 1,
+    "exp": "El art. 2 CE garantiza «la solidaridad entre todas ellas», referida a las nacionalidades y regiones. Ningún otro artículo del Título Preliminar emplea ese término.",
+    "fuente": "Art. 2 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "En el Título Preliminar, la remisión a los Estatutos aparece en materia de:",
+    "options": [
+      "Lenguas oficiales, únicamente",
+      "Banderas y enseñas de las Comunidades Autónomas, únicamente",
+      "Lenguas oficiales y banderas y enseñas de las Comunidades Autónomas",
+      "Lenguas oficiales y capitalidad del Estado"
+    ],
+    "correct": 2,
+    "exp": "Los Estatutos se mencionan dos veces en el Título Preliminar: en el art. 3.2 CE (oficialidad de las demás lenguas españolas) y en el art. 4.2 CE (banderas y enseñas propias de las Comunidades Autónomas). El art. 5 CE, sobre la capital, no los menciona.",
+    "fuente": "Arts. 3.2 y 4.2 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes afirmaciones sobre el art. 2 CE es INCORRECTA?",
+    "options": [
+      "La Constitución se fundamenta en la indisoluble unidad de la Nación española",
+      "La Nación española es patria común e indivisible de todos los españoles",
+      "Se reconoce y garantiza el derecho a la autodeterminación de las nacionalidades y regiones",
+      "Se garantiza la solidaridad entre las nacionalidades y regiones que integran la Nación española"
+    ],
+    "correct": 2,
+    "exp": "El art. 2 CE reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones, no un derecho de autodeterminación. Las otras tres afirmaciones reproducen su contenido literal.",
+    "fuente": "Art. 2 CE",
+    "confianza": "alta"
+  }
+]);
+
+/* tema 1 · lote 2026-08-19 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 1, [
+  {
+    "q": "¿Con arreglo a qué ejerce el Gobierno sus potestades, según el inciso final del art. 97 CE?",
+    "options": [
+      "De acuerdo con la Constitución y las leyes",
+      "De acuerdo con la Constitución y los tratados internacionales",
+      "Con sujeción exclusiva a la Constitución",
+      "De acuerdo con las leyes y los reglamentos de organización"
+    ],
+    "correct": 0,
+    "exp": "El art. 97 CE cierra el precepto señalando que el Gobierno «ejerce la función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las leyes».",
+    "fuente": "Art. 97 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 106.2 CE, ¿sobre qué debe recaer la lesión para que nazca el derecho a indemnización?",
+    "options": [
+      "Sobre sus derechos fundamentales, exclusivamente",
+      "Sobre su patrimonio, siempre que la lesión sea evaluable económicamente",
+      "Sobre cualquiera de sus bienes y derechos",
+      "Sobre sus bienes inmuebles y derechos de contenido patrimonial"
+    ],
+    "correct": 2,
+    "exp": "El art. 106.2 CE reconoce el derecho a ser indemnizado «por toda lesión que sufran en cualquiera de sus bienes y derechos», sin restringirlo a una categoría concreta.",
+    "fuente": "Art. 106.2 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de los siguientes cargos NO se menciona expresamente en el art. 98.1 CE al enumerar la composición del Gobierno?",
+    "options": [
+      "El Presidente",
+      "Los Vicepresidentes, en su caso",
+      "Los Ministros",
+      "Los Secretarios de Estado"
+    ],
+    "correct": 3,
+    "exp": "El art. 98.1 CE enumera al Presidente, a los Vicepresidentes en su caso, a los Ministros y a «los demás miembros que establezca la ley»; los Secretarios de Estado no aparecen citados en el texto constitucional.",
+    "fuente": "Art. 98.1 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 98.2 CE, al atribuir al Presidente la coordinación de las funciones de los demás miembros del Gobierno, precisa que ello se entiende:",
+    "options": [
+      "Asumiendo la responsabilidad exclusiva de la gestión de todos ellos",
+      "Sin perjuicio de las facultades de dirección del Consejo de Ministros",
+      "Salvo en las materias reservadas a la ley",
+      "Sin perjuicio de la competencia y responsabilidad directa de éstos en su gestión"
+    ],
+    "correct": 3,
+    "exp": "El art. 98.2 CE añade la cláusula «sin perjuicio de la competencia y responsabilidad directa de éstos en su gestión», que preserva la responsabilidad propia de cada miembro del Gobierno.",
+    "fuente": "Art. 98.2 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 98.3 CE, la única función representativa que pueden ejercer los miembros del Gobierno es:",
+    "options": [
+      "La propia del mandato parlamentario",
+      "La propia de los cargos electivos de la Administración local",
+      "La representación de España ante organismos internacionales",
+      "Cualquiera que autorice expresamente el Presidente del Gobierno"
+    ],
+    "correct": 0,
+    "exp": "El art. 98.3 CE prohíbe a los miembros del Gobierno ejercer «otras funciones representativas que las propias del mandato parlamentario», además de vedarles cualquier otra función pública que no derive de su cargo y toda actividad profesional o mercantil.",
+    "fuente": "Art. 98.3 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 98.4 CE, el estatuto e incompatibilidades de los miembros del Gobierno se regularán por:",
+    "options": [
+      "Ley orgánica",
+      "La ley",
+      "Real decreto acordado en Consejo de Ministros",
+      "El Reglamento del Congreso de los Diputados"
+    ],
+    "correct": 1,
+    "exp": "El art. 98.4 CE se limita a decir que «la ley regulará el estatuto e incompatibilidades de los miembros del Gobierno», sin exigir ley orgánica.",
+    "fuente": "Art. 98.4 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 99.1 CE, ¿a quién corresponde proponer un candidato a la Presidencia del Gobierno?",
+    "options": [
+      "Al Presidente del Congreso de los Diputados",
+      "Al Congreso de los Diputados en pleno",
+      "Al grupo parlamentario con mayor representación",
+      "Al Rey"
+    ],
+    "correct": 3,
+    "exp": "Conforme al art. 99.1 CE es el Rey quien, previa consulta con los representantes designados por los Grupos políticos con representación parlamentaria y a través del Presidente del Congreso, propone el candidato.",
+    "fuente": "Art. 99.1 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 99.1 CE, la propuesta de candidato a la Presidencia del Gobierno se realiza previa consulta con:",
+    "options": [
+      "Los representantes designados por los Grupos políticos con representación parlamentaria",
+      "Los Presidentes de ambas Cámaras",
+      "Los líderes de los partidos con representación en el Senado",
+      "El Gobierno en funciones y el Consejo de Estado"
+    ],
+    "correct": 0,
+    "exp": "El art. 99.1 CE exige consulta previa «con los representantes designados por los Grupos políticos con representación parlamentaria».",
+    "fuente": "Art. 99.1 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 99.1 CE, el Rey formula su propuesta de candidato a la Presidencia del Gobierno a través de:",
+    "options": [
+      "El Presidente del Senado",
+      "El Presidente del Gobierno en funciones",
+      "El Presidente del Congreso",
+      "El Presidente del Tribunal Constitucional"
+    ],
+    "correct": 2,
+    "exp": "El art. 99.1 CE establece que la propuesta se realiza «a través del Presidente del Congreso».",
+    "fuente": "Art. 99.1 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 99.1 CE, el procedimiento de designación del Presidente del Gobierno se pone en marcha:",
+    "options": [
+      "Únicamente cuando el Gobierno pierde la confianza parlamentaria",
+      "Tras la celebración de elecciones al Senado",
+      "Después de cada renovación de las Cortes Generales, exclusivamente",
+      "Después de cada renovación del Congreso de los Diputados y en los demás supuestos constitucionales en que así proceda"
+    ],
+    "correct": 3,
+    "exp": "El art. 99.1 CE se refiere al momento «después de cada renovación del Congreso de los Diputados, y en los demás supuestos constitucionales en que así proceda».",
+    "fuente": "Art. 99.1 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 99.2 CE, el candidato propuesto a la Presidencia del Gobierno:",
+    "options": [
+      "Expondrá ante el Congreso de los Diputados el programa político del Gobierno que pretenda formar y solicitará la confianza de la Cámara",
+      "Expondrá su programa ante las Cortes Generales reunidas en sesión conjunta",
+      "Presentará por escrito su programa al Presidente del Congreso, que lo trasladará a los Grupos",
+      "Solicitará sucesivamente la confianza del Congreso y del Senado"
+    ],
+    "correct": 0,
+    "exp": "El art. 99.2 CE prevé que el candidato exponga ante el Congreso de los Diputados el programa político del Gobierno que pretenda formar y solicite la confianza de la Cámara.",
+    "fuente": "Art. 99.2 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 99.3 CE, en la segunda votación de investidura la confianza se entenderá otorgada si el candidato obtiene:",
+    "options": [
+      "La mayoría absoluta de los miembros del Congreso",
+      "La mayoría simple",
+      "Los dos tercios de los miembros del Congreso",
+      "Los tres quintos de los miembros del Congreso"
+    ],
+    "correct": 1,
+    "exp": "El art. 99.3 CE dispone que, de no alcanzarse la mayoría absoluta, se somete la misma propuesta a nueva votación y «la confianza se entenderá otorgada si obtuviere la mayoría simple».",
+    "fuente": "Art. 99.3 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 99.3 CE, una vez que el Congreso otorga su confianza al candidato, el nombramiento como Presidente del Gobierno corresponde a:",
+    "options": [
+      "El Presidente del Congreso",
+      "El Pleno del Congreso, mediante acuerdo",
+      "El Rey",
+      "El Consejo de Ministros saliente"
+    ],
+    "correct": 2,
+    "exp": "El art. 99.3 CE señala que si el Congreso otorga su confianza al candidato «el Rey le nombrará Presidente».",
+    "fuente": "Art. 99.3 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 99.4 CE, si efectuadas las votaciones previstas no se otorgase la confianza para la investidura:",
+    "options": [
+      "Se disolverán automáticamente ambas Cámaras",
+      "Se tramitarán sucesivas propuestas en la forma prevista en los apartados anteriores",
+      "El candidato más votado será nombrado Presidente del Gobierno",
+      "El Rey nombrará Presidente al líder del grupo parlamentario mayoritario"
+    ],
+    "correct": 1,
+    "exp": "El art. 99.4 CE prevé que, fracasadas las votaciones, «se tramitarán sucesivas propuestas en la forma prevista en los apartados anteriores».",
+    "fuente": "Art. 99.4 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 99.5 CE, el plazo de dos meses cuyo transcurso sin investidura provoca la disolución de las Cámaras se computa a partir de:",
+    "options": [
+      "La constitución del Congreso de los Diputados",
+      "La propuesta del primer candidato por el Rey",
+      "La celebración de las elecciones generales",
+      "La primera votación de investidura"
+    ],
+    "correct": 3,
+    "exp": "El art. 99.5 CE fija el plazo de dos meses «a partir de la primera votación de investidura».",
+    "fuente": "Art. 99.5 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 99.5 CE, la disolución de ambas Cámaras y la convocatoria de nuevas elecciones por falta de investidura se producen con el refrendo de:",
+    "options": [
+      "El Presidente del Gobierno en funciones",
+      "El Presidente del Congreso",
+      "El Presidente del Senado",
+      "El Presidente del Tribunal Supremo"
+    ],
+    "correct": 1,
+    "exp": "El art. 99.5 CE precisa que el Rey disolverá ambas Cámaras y convocará nuevas elecciones «con el refrendo del Presidente del Congreso».",
+    "fuente": "Art. 99.5 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 100 CE, el Rey nombra y separa a los demás miembros del Gobierno:",
+    "options": [
+      "A propuesta de su Presidente",
+      "Previa deliberación del Consejo de Ministros",
+      "A propuesta del Congreso de los Diputados",
+      "Oído el Consejo de Estado"
+    ],
+    "correct": 0,
+    "exp": "El art. 100 CE dispone que «los demás miembros del Gobierno serán nombrados y separados por el Rey, a propuesta de su Presidente».",
+    "fuente": "Art. 100 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En qué artículo de la Constitución se regula el nombramiento y la separación de los miembros del Gobierno distintos de su Presidente?",
+    "options": [
+      "En el art. 98 CE",
+      "En el art. 99 CE",
+      "En el art. 100 CE",
+      "En el art. 101 CE"
+    ],
+    "correct": 2,
+    "exp": "El art. 100 CE, dentro del Título IV, es el que regula el nombramiento y separación de los demás miembros del Gobierno por el Rey a propuesta del Presidente.",
+    "fuente": "Art. 100 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 101.1 CE, en relación con los procesos electorales, el Gobierno cesa:",
+    "options": [
+      "Tras la convocatoria de elecciones generales",
+      "En el momento de la disolución de las Cámaras",
+      "Tras la proclamación oficial de los resultados electorales",
+      "Tras la celebración de elecciones generales"
+    ],
+    "correct": 3,
+    "exp": "El art. 101.1 CE utiliza la expresión «el Gobierno cesa tras la celebración de elecciones generales», no la convocatoria ni la proclamación de resultados.",
+    "fuente": "Art. 101.1 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 101.1 CE, el Gobierno cesa por dimisión o fallecimiento de:",
+    "options": [
+      "Cualquiera de sus miembros",
+      "Su Presidente",
+      "El Presidente o de alguno de los Vicepresidentes",
+      "Más de la mitad de sus miembros"
+    ],
+    "correct": 1,
+    "exp": "El art. 101.1 CE cita, junto a la celebración de elecciones generales y la pérdida de la confianza parlamentaria, la dimisión o fallecimiento «de su Presidente».",
+    "fuente": "Art. 101.1 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 102.2 CE, la acusación por traición o por delito contra la seguridad del Estado cometido por miembros del Gobierno en el ejercicio de sus funciones solo podrá plantearse por iniciativa de:",
+    "options": [
+      "La décima parte de los miembros del Congreso",
+      "La quinta parte de los miembros del Congreso",
+      "La cuarta parte de los miembros del Congreso",
+      "Un tercio de los miembros del Congreso"
+    ],
+    "correct": 2,
+    "exp": "El art. 102.2 CE exige la iniciativa de «la cuarta parte de los miembros del Congreso» para plantear esa acusación.",
+    "fuente": "Art. 102.2 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 102.2 CE, además de la iniciativa exigida, la acusación por traición o delito contra la seguridad del Estado requiere la aprobación de:",
+    "options": [
+      "La mayoría absoluta del Congreso",
+      "La mayoría simple del Congreso",
+      "Los tres quintos del Congreso",
+      "La mayoría absoluta de cada una de las Cámaras"
+    ],
+    "correct": 0,
+    "exp": "El art. 102.2 CE exige, junto a la iniciativa de la cuarta parte de los miembros del Congreso, «la aprobación de la mayoría absoluta del mismo».",
+    "fuente": "Art. 102.2 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "El régimen agravado de iniciativa y mayoría del art. 102.2 CE se aplica cuando la acusación contra miembros del Gobierno sea por:",
+    "options": [
+      "Cualquier delito cometido en el ejercicio del cargo",
+      "Traición, exclusivamente",
+      "Delitos de corrupción o contra la Hacienda Pública",
+      "Traición o cualquier delito contra la seguridad del Estado en el ejercicio de sus funciones"
+    ],
+    "correct": 3,
+    "exp": "El art. 102.2 CE circunscribe ese régimen a la acusación «por traición o por cualquier delito contra la seguridad del Estado en el ejercicio de sus funciones».",
+    "fuente": "Art. 102.2 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué establece el art. 102.3 CE sobre la prerrogativa real de gracia en los supuestos regulados en ese artículo?",
+    "options": [
+      "Que solo podrá ejercerse con autorización previa del Congreso",
+      "Que no será aplicable a ninguno de esos supuestos",
+      "Que se aplicará previo informe favorable del Tribunal Supremo",
+      "Que cabrá una vez cumplida la mitad de la pena impuesta"
+    ],
+    "correct": 1,
+    "exp": "El art. 102.3 CE establece que «la prerrogativa real de gracia no será aplicable a ninguno de los supuestos del presente artículo».",
+    "fuente": "Art. 102.3 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación con que actúa la Administración Pública se recogen en:",
+    "options": [
+      "El art. 103.1 CE",
+      "El art. 103.2 CE",
+      "El art. 105 a) CE",
+      "El art. 106.1 CE"
+    ],
+    "correct": 0,
+    "exp": "Es el art. 103.1 CE el que enumera esos cinco principios, junto al servicio con objetividad a los intereses generales y el sometimiento pleno a la ley y al Derecho.",
+    "fuente": "Art. 103.1 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 99.3 CE, la segunda votación de investidura tiene por objeto:",
+    "options": [
+      "Una nueva propuesta de candidato formulada por el Rey",
+      "La candidatura alternativa que presenten los Grupos parlamentarios",
+      "La misma propuesta",
+      "Las dos candidaturas que hubieran obtenido más votos"
+    ],
+    "correct": 2,
+    "exp": "El art. 99.3 CE ordena someter «la misma propuesta» a nueva votación cuarenta y ocho horas después de la anterior, entendiéndose otorgada la confianza con mayoría simple.",
+    "fuente": "Art. 99.3 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes materias NO se remite expresamente a la ley en el art. 103.3 CE?",
+    "options": [
+      "El sistema de incompatibilidades de los funcionarios públicos",
+      "Las garantías para la imparcialidad en el ejercicio de sus funciones",
+      "El régimen retributivo de los funcionarios públicos",
+      "Las peculiaridades del ejercicio de su derecho a sindicación"
+    ],
+    "correct": 2,
+    "exp": "El art. 103.3 CE remite a la ley el estatuto de los funcionarios, el acceso a la función pública conforme a mérito y capacidad, las peculiaridades del derecho a sindicación, el sistema de incompatibilidades y las garantías de imparcialidad; el régimen retributivo no se menciona.",
+    "fuente": "Art. 103.3 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 104.1 CE, las Fuerzas y Cuerpos de seguridad actúan bajo la dependencia de:",
+    "options": [
+      "El Gobierno",
+      "El Ministerio del Interior",
+      "Las Cortes Generales",
+      "El Rey, como mando supremo"
+    ],
+    "correct": 0,
+    "exp": "El art. 104.1 CE sitúa a las Fuerzas y Cuerpos de seguridad «bajo la dependencia del Gobierno».",
+    "fuente": "Art. 104.1 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 104.1 CE, ¿cuál es la misión de las Fuerzas y Cuerpos de seguridad?",
+    "options": [
+      "Garantizar la soberanía e independencia de España y defender su integridad territorial",
+      "Proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana",
+      "Defender el ordenamiento constitucional frente a cualquier ataque",
+      "Velar por el orden público y por la defensa civil del territorio"
+    ],
+    "correct": 1,
+    "exp": "El art. 104.1 CE les atribuye la misión de «proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana»; la misión descrita en la primera opción es la de las Fuerzas Armadas (art. 8.1 CE).",
+    "fuente": "Art. 104.1 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 104.2 CE, la ley orgánica determinará, respecto de las Fuerzas y Cuerpos de seguridad:",
+    "options": [
+      "Su composición, sus funciones y su régimen disciplinario",
+      "Sus funciones, sus medios materiales y sus retribuciones",
+      "Sus funciones y su dependencia orgánica",
+      "Sus funciones, principios básicos de actuación y estatutos"
+    ],
+    "correct": 3,
+    "exp": "El art. 104.2 CE remite a una ley orgánica la determinación de «las funciones, principios básicos de actuación y estatutos de las Fuerzas y Cuerpos de seguridad».",
+    "fuente": "Art. 104.2 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Las tres materias enumeradas en el art. 105 CE (audiencia de los ciudadanos, acceso a archivos y registros y procedimiento de los actos administrativos) se remiten a:",
+    "options": [
+      "La ley",
+      "Una ley orgánica",
+      "Un reglamento aprobado por el Gobierno",
+      "Un real decreto-ley"
+    ],
+    "correct": 0,
+    "exp": "El art. 105 CE comienza con la fórmula «La ley regulará:» y a continuación enumera los apartados a), b) y c); no exige ley orgánica.",
+    "fuente": "Art. 105 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de los siguientes NO es un límite al acceso de los ciudadanos a los archivos y registros administrativos según el art. 105 b) CE?",
+    "options": [
+      "La seguridad y defensa del Estado",
+      "La averiguación de los delitos",
+      "La intimidad de las personas",
+      "El interés económico de la Administración"
+    ],
+    "correct": 3,
+    "exp": "El art. 105 b) CE establece únicamente tres límites: la seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de las personas.",
+    "fuente": "Art. 105 b) CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿De qué dos formas contempla el art. 105 a) CE que pueda darse audiencia a los ciudadanos?",
+    "options": [
+      "Solo a través de las organizaciones y asociaciones reconocidas por la ley",
+      "Directamente o a través de las organizaciones y asociaciones reconocidas por la ley",
+      "Únicamente de forma directa por el ciudadano afectado",
+      "A través de los partidos políticos y los sindicatos más representativos"
+    ],
+    "correct": 1,
+    "exp": "El art. 105 a) CE prevé la audiencia de los ciudadanos «directamente o a través de las organizaciones y asociaciones reconocidas por la ley».",
+    "fuente": "Art. 105 a) CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "La regulación por ley del procedimiento a través del cual deben producirse los actos administrativos, garantizando cuando proceda la audiencia del interesado, se contempla en:",
+    "options": [
+      "El art. 105 a) CE",
+      "El art. 105 b) CE",
+      "El art. 105 c) CE",
+      "El art. 106.1 CE"
+    ],
+    "correct": 2,
+    "exp": "Es el apartado c) del art. 105 CE el que remite a la ley el procedimiento de producción de los actos administrativos con garantía de audiencia del interesado cuando proceda.",
+    "fuente": "Art. 105 c) CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Además de la potestad reglamentaria y de la legalidad de la actuación administrativa, ¿qué tercer aspecto somete el art. 106.1 CE al control de los Tribunales?",
+    "options": [
+      "La oportunidad de las decisiones administrativas",
+      "La eficacia en el empleo de los recursos públicos",
+      "El cumplimiento del programa de gobierno",
+      "El sometimiento de ésta a los fines que la justifican"
+    ],
+    "correct": 3,
+    "exp": "El art. 106.1 CE añade el control del «sometimiento de ésta a los fines que la justifican», es decir, el control de la desviación de poder.",
+    "fuente": "Art. 106.1 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 106.1 CE, ¿a quién corresponde el control de la potestad reglamentaria y de la legalidad de la actuación administrativa?",
+    "options": [
+      "Al Consejo de Estado",
+      "Al Tribunal Constitucional",
+      "A los Tribunales",
+      "Al Defensor del Pueblo"
+    ],
+    "correct": 2,
+    "exp": "El art. 106.1 CE atribuye ese control a «los Tribunales».",
+    "fuente": "Art. 106.1 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 106.2 CE, el derecho a ser indemnizado por las lesiones consecuencia del funcionamiento de los servicios públicos corresponde a:",
+    "options": [
+      "Los particulares, en los términos establecidos por la ley",
+      "Los ciudadanos españoles, en todo caso",
+      "Los interesados en el procedimiento, previa reclamación en vía administrativa",
+      "Los particulares, sin sujeción a requisito legal alguno"
+    ],
+    "correct": 0,
+    "exp": "El art. 106.2 CE reconoce el derecho a «los particulares, en los términos establecidos por la ley», por toda lesión en sus bienes y derechos, salvo fuerza mayor.",
+    "fuente": "Art. 106.2 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 107 CE, el Consejo de Estado es:",
+    "options": [
+      "El supremo órgano consultivo del Gobierno",
+      "El órgano de fiscalización de las cuentas y de la gestión económica del Estado",
+      "El supremo órgano consultivo de las Cortes Generales",
+      "El órgano superior de asesoramiento de las Comunidades Autónomas"
+    ],
+    "correct": 0,
+    "exp": "El art. 107 CE define al Consejo de Estado como «el supremo órgano consultivo del Gobierno».",
+    "fuente": "Art. 107 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 107 CE, la composición y competencia del Consejo de Estado se regularán por:",
+    "options": [
+      "Una ley ordinaria",
+      "Una ley orgánica",
+      "Un real decreto del Consejo de Ministros",
+      "Su propio reglamento de organización interna"
+    ],
+    "correct": 1,
+    "exp": "El art. 107 CE remite a una ley orgánica la regulación de la composición y competencia del Consejo de Estado.",
+    "fuente": "Art. 107 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En qué precepto y ubicación sistemática de la Constitución se regula el Consejo de Estado?",
+    "options": [
+      "En el art. 105, dentro del Título IV",
+      "En el art. 108, primer artículo del Título V",
+      "En el art. 97, dentro del Título IV",
+      "En el art. 107, último artículo del Título IV"
+    ],
+    "correct": 3,
+    "exp": "El Consejo de Estado se regula en el art. 107 CE, que cierra el Título IV «Del Gobierno y de la Administración» (arts. 97 a 107); el Título V comienza en el art. 108.",
+    "fuente": "Art. 107 CE",
+    "confianza": "alta"
+  }
+]);
+
+/* tema 1 · lote 2026-08-19 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 1, [
+  {
+    "q": "¿Cuál de las siguientes redacciones reproduce literalmente el artículo 137 de la Constitución?",
+    "options": [
+      "«El territorio del Estado se organiza en municipios, provincias y Comunidades Autónomas, que gozan de autonomía plena.»",
+      "«El Estado se organiza territorialmente en municipios, en provincias y en las Comunidades Autónomas que se constituyan. Todas estas entidades gozan de autonomía para la gestión de sus respectivos intereses.»",
+      "«El Estado se organiza territorialmente en municipios, provincias, islas y Comunidades Autónomas. Todas estas entidades gozan de autonomía para la gestión de sus propios intereses.»",
+      "«El Estado se organiza territorialmente en las Comunidades Autónomas, en las provincias y en los municipios que se constituyan. Todas ellas gozan de autonomía para la gestión de sus respectivos intereses.»"
+    ],
+    "correct": 1,
+    "exp": "El art. 137 CE dice exactamente: «El Estado se organiza territorialmente en municipios, en provincias y en las Comunidades Autónomas que se constituyan. Todas estas entidades gozan de autonomía para la gestión de sus respectivos intereses.» No menciona las islas, el orden es municipios-provincias-CCAA y la autonomía es «para la gestión de sus respectivos intereses», no «plena».",
+    "fuente": "Art. 137 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Al enumerar la organización territorial del Estado, el artículo 137 CE se refiere a las Comunidades Autónomas con la expresión:",
+    "options": [
+      "«las Comunidades Autónomas que se constituyan»",
+      "«las Comunidades Autónomas legalmente constituidas»",
+      "«las Comunidades Autónomas y las Ciudades con Estatuto de Autonomía»",
+      "«las Comunidades Autónomas y regiones que se constituyan»"
+    ],
+    "correct": 0,
+    "exp": "El art. 137 CE emplea el futuro abierto «y en las Comunidades Autónomas que se constituyan», reflejo de que en 1978 el mapa autonómico aún no existía: la Constitución no las crea, habilita su constitución.",
+    "fuente": "Art. 137 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes entidades territoriales NO se menciona en el artículo 137 CE?",
+    "options": [
+      "Los municipios",
+      "Las provincias",
+      "Las islas",
+      "Las Comunidades Autónomas"
+    ],
+    "correct": 2,
+    "exp": "El art. 137 CE solo cita municipios, provincias y Comunidades Autónomas. Las islas aparecen en la Constitución en el art. 141.4 (administración propia en forma de Cabildos o Consejos en los archipiélagos), pero no en la enumeración del art. 137.",
+    "fuente": "Art. 137 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 137 CE, que enuncia la organización territorial del Estado, se encuentra ubicado en:",
+    "options": [
+      "el Capítulo segundo del Título VIII, «De la Administración Local»",
+      "el Capítulo tercero del Título VIII, «De las Comunidades Autónomas»",
+      "el Capítulo primero del Título VIII, «Principios generales»",
+      "el Título VII, «Economía y Hacienda»"
+    ],
+    "correct": 2,
+    "exp": "El Título VIII CE («De la Organización Territorial del Estado») se abre con el Capítulo primero, rubricado «Principios generales», que comprende los arts. 137, 138 y 139. El Capítulo segundo («De la Administración Local») empieza en el art. 140.",
+    "fuente": "Art. 137 CE (Título VIII, Capítulo primero)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 138.1 CE, el Estado garantiza ______ del principio de solidaridad consagrado en el artículo 2 de la Constitución.",
+    "options": [
+      "la vigencia efectiva",
+      "la aplicación directa",
+      "la realización efectiva",
+      "la eficacia inmediata"
+    ],
+    "correct": 2,
+    "exp": "La fórmula literal del art. 138.1 CE es «El Estado garantiza la realización efectiva del principio de solidaridad consagrado en el artículo 2 de la Constitución».",
+    "fuente": "Art. 138.1 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "El principio de solidaridad cuya garantía impone al Estado el artículo 138.1 CE aparece «consagrado», según ese mismo precepto, en:",
+    "options": [
+      "el artículo 2 de la Constitución",
+      "el artículo 1 de la Constitución",
+      "el artículo 9.2 de la Constitución",
+      "el artículo 158 de la Constitución"
+    ],
+    "correct": 0,
+    "exp": "El art. 138.1 CE remite expresamente al «principio de solidaridad consagrado en el artículo 2 de la Constitución», el mismo precepto que reconoce el derecho a la autonomía de las nacionalidades y regiones.",
+    "fuente": "Art. 138.1 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 138.1 CE, el equilibrio económico entre las diversas partes del territorio español por cuyo establecimiento debe velar el Estado ha de ser:",
+    "options": [
+      "equitativo y suficiente",
+      "adecuado y proporcional",
+      "justo y solidario",
+      "adecuado y justo"
+    ],
+    "correct": 3,
+    "exp": "La literalidad del art. 138.1 CE es «velando por el establecimiento de un equilibrio económico, adecuado y justo entre las diversas partes del territorio español».",
+    "fuente": "Art. 138.1 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 138.1 CE, el equilibrio económico que el Estado debe procurar se establece entre:",
+    "options": [
+      "las diversas partes del territorio español",
+      "las distintas Comunidades Autónomas",
+      "los municipios y las provincias de cada Comunidad Autónoma",
+      "los territorios insulares y los peninsulares"
+    ],
+    "correct": 0,
+    "exp": "El art. 138.1 CE habla de un equilibrio económico «entre las diversas partes del territorio español», expresión más amplia que la referida solo a las Comunidades Autónomas.",
+    "fuente": "Art. 138.1 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Quién es el sujeto al que el artículo 138.1 CE encomienda garantizar el principio de solidaridad y velar por el equilibrio económico entre las diversas partes del territorio?",
+    "options": [
+      "Las Cortes Generales",
+      "El Estado",
+      "El Gobierno",
+      "El Tribunal Constitucional"
+    ],
+    "correct": 1,
+    "exp": "El art. 138.1 CE comienza: «El Estado garantiza la realización efectiva del principio de solidaridad...». El sujeto es el Estado, no un órgano concreto.",
+    "fuente": "Art. 138.1 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "La expresión «hecho insular» aparece expresamente en la Constitución en:",
+    "options": [
+      "el artículo 141.4 CE",
+      "el artículo 137 CE",
+      "el artículo 138.1 CE",
+      "el artículo 139.2 CE"
+    ],
+    "correct": 2,
+    "exp": "El art. 138.1 CE cierra su redacción «atendiendo en particular a las circunstancias del hecho insular». El art. 141.4 CE se refiere a los archipiélagos y a las islas, pero no emplea la expresión «hecho insular».",
+    "fuente": "Art. 138.1 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 138.2 CE, las diferencias entre los Estatutos de las distintas Comunidades Autónomas no podrán implicar, en ningún caso:",
+    "options": [
+      "desigualdades jurídicas o políticas",
+      "discriminaciones territoriales o competenciales",
+      "privilegios fiscales o tributarios",
+      "privilegios económicos o sociales"
+    ],
+    "correct": 3,
+    "exp": "El art. 138.2 CE prohíbe que las diferencias entre Estatutos impliquen «en ningún caso, privilegios económicos o sociales». La fórmula constitucional es esa, y no la referida a privilegios fiscales o a desigualdades jurídicas.",
+    "fuente": "Art. 138.2 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En qué apartado se contiene la prohibición de que las diferencias entre los Estatutos de las Comunidades Autónomas impliquen privilegios económicos o sociales?",
+    "options": [
+      "Art. 138.1 CE",
+      "Art. 138.2 CE",
+      "Art. 138.3 CE",
+      "Art. 139.2 CE"
+    ],
+    "correct": 1,
+    "exp": "Es el art. 138.2 CE. El art. 138 tiene solo dos apartados: el 1 recoge la solidaridad, el equilibrio económico y el hecho insular; el 2, la prohibición de privilegios económicos o sociales.",
+    "fuente": "Art. 138.2 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 139.1 CE proclama la igualdad de derechos y obligaciones en cualquier parte del territorio del Estado respecto de:",
+    "options": [
+      "todos los españoles",
+      "todos los ciudadanos",
+      "todas las personas",
+      "todos los residentes en territorio español"
+    ],
+    "correct": 0,
+    "exp": "La literalidad del art. 139.1 CE es «Todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado».",
+    "fuente": "Art. 139.1 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 139.2 CE, ninguna autoridad podrá adoptar medidas que obstaculicen la libertad de circulación y establecimiento de las personas:",
+    "options": [
+      "de forma manifiesta y desproporcionada",
+      "directa o indirectamente",
+      "de manera efectiva y actual",
+      "por razón de nacimiento, raza o territorio"
+    ],
+    "correct": 1,
+    "exp": "El art. 139.2 CE prohíbe las medidas que «directa o indirectamente» obstaculicen esa libertad; la prohibición alcanza por tanto a los obstáculos indirectos.",
+    "fuente": "Art. 139.2 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Respecto de los bienes, ¿qué garantiza exactamente el artículo 139.2 CE en todo el territorio español?",
+    "options": [
+      "La libertad de circulación y establecimiento de los bienes",
+      "La libre circulación y comercialización de los bienes",
+      "La libre circulación de bienes",
+      "La libertad de tránsito y depósito de los bienes"
+    ],
+    "correct": 2,
+    "exp": "El art. 139.2 CE distingue: respecto de las personas, «la libertad de circulación y establecimiento»; respecto de los bienes, solo «la libre circulación de bienes en todo el territorio español». El establecimiento se predica de las personas, no de los bienes.",
+    "fuente": "Art. 139.2 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "El artículo 139.2 CE dirige su prohibición de adoptar medidas obstaculizadoras a:",
+    "options": [
+      "ninguna Administración Pública",
+      "ningún poder público",
+      "ninguna Comunidad Autónoma ni entidad local",
+      "ninguna autoridad"
+    ],
+    "correct": 3,
+    "exp": "El art. 139.2 CE emplea la fórmula «Ninguna autoridad podrá adoptar medidas que...», más amplia que la referida a una Administración o a un ente territorial determinado.",
+    "fuente": "Art. 139.2 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué artículos integran el Capítulo primero del Título VIII de la Constitución, rubricado «Principios generales»?",
+    "options": [
+      "Los artículos 137 a 139",
+      "Los artículos 137 y 138",
+      "Los artículos 137 a 141",
+      "Los artículos 137 a 142"
+    ],
+    "correct": 0,
+    "exp": "El Capítulo primero del Título VIII CE («Principios generales») comprende los arts. 137, 138 y 139. El Capítulo segundo («De la Administración Local») abarca los arts. 140 a 142 y el Capítulo tercero («De las Comunidades Autónomas») arranca en el art. 143.",
+    "fuente": "Arts. 137 a 139 CE (Título VIII, Capítulo primero)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El Título VIII de la Constitución, que se abre con el artículo 137, se rubrica:",
+    "options": [
+      "«De la Administración Territorial del Estado»",
+      "«De la Organización Territorial del Estado»",
+      "«De la Organización Territorial y Local del Estado»",
+      "«De las Comunidades Autónomas y de las Entidades Locales»"
+    ],
+    "correct": 1,
+    "exp": "La rúbrica del Título VIII CE es «De la Organización Territorial del Estado», y se divide en tres capítulos: Principios generales (arts. 137-139), De la Administración Local (arts. 140-142) y De las Comunidades Autónomas (arts. 143 y ss.).",
+    "fuente": "Título VIII CE, rúbrica que encabeza el art. 137 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Atendiendo a la literalidad de la Constitución, los municipios gozarán de personalidad jurídica ______ (art. 140) y la provincia es una entidad local con personalidad jurídica ______ (art. 141.1). Los adjetivos que completan correctamente la frase son:",
+    "options": [
+      "propia / plena",
+      "plena / propia",
+      "plena / plena",
+      "propia / propia"
+    ],
+    "correct": 1,
+    "exp": "El art. 140 CE dice que los municipios «gozarán de personalidad jurídica plena»; el art. 141.1 CE define la provincia como «una entidad local con personalidad jurídica propia». Es una distinción literal que se pregunta con frecuencia.",
+    "fuente": "Arts. 140 y 141.1 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 140 CE, ¿qué tipo de norma regulará las condiciones en las que proceda el régimen del concejo abierto?",
+    "options": [
+      "La ley, sin exigencia de rango orgánico",
+      "Una ley orgánica",
+      "La legislación de la Comunidad Autónoma respectiva",
+      "El reglamento orgánico de cada Ayuntamiento"
+    ],
+    "correct": 0,
+    "exp": "El art. 140 CE termina: «La ley regulará las condiciones en las que proceda el régimen del concejo abierto». La Constitución se remite a «la ley» sin reservarlo a ley orgánica; la única reserva de ley orgánica de estos capítulos es la del art. 141.1 para alterar los límites provinciales.",
+    "fuente": "Art. 140 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de los siguientes caracteres NO se predica en el artículo 140 CE del sufragio por el que se eligen los Concejales?",
+    "options": [
+      "Directo",
+      "Secreto",
+      "Proporcional",
+      "Igual"
+    ],
+    "correct": 2,
+    "exp": "El art. 140 CE exige sufragio «universal, igual, libre, directo y secreto». La proporcionalidad no figura en el art. 140; el art. 68.3 CE la impone para el Congreso, pero no forma parte de esta enumeración.",
+    "fuente": "Art. 140 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 140 CE, la autonomía de los municipios es garantizada por:",
+    "options": [
+      "la legislación básica de régimen local",
+      "los Estatutos de Autonomía",
+      "la Constitución",
+      "la ley que regule el régimen electoral general"
+    ],
+    "correct": 2,
+    "exp": "El art. 140 CE se abre con la fórmula «La Constitución garantiza la autonomía de los municipios», que es el fundamento de la llamada garantía institucional de la autonomía local.",
+    "fuente": "Art. 140 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "La previsión de que «los Alcaldes serán elegidos por los Concejales o por los vecinos» se contiene en:",
+    "options": [
+      "el artículo 140.2 CE",
+      "el artículo 140 CE, que no está dividido en apartados",
+      "el artículo 141.2 CE",
+      "el artículo 23.1 CE"
+    ],
+    "correct": 1,
+    "exp": "La regla figura en el art. 140 CE, precepto que consta de un único párrafo sin apartados numerados: por eso la cita correcta es «art. 140 CE» y no «art. 140.2 CE».",
+    "fuente": "Art. 140 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de los siguientes artículos del Título VIII CE carece de apartados numerados?",
+    "options": [
+      "El artículo 138",
+      "El artículo 139",
+      "El artículo 141",
+      "El artículo 140"
+    ],
+    "correct": 3,
+    "exp": "El art. 140 CE es un único párrafo sin numeración interna. El art. 138 tiene dos apartados, el art. 139 dos y el art. 141 cuatro. También carecen de apartados los arts. 137 y 142, pero no figuran entre las opciones.",
+    "fuente": "Art. 140 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 141.1 CE, la provincia es también división territorial para el cumplimiento de:",
+    "options": [
+      "los fines estatales de carácter general",
+      "las actividades del Estado",
+      "las competencias delegadas por la Comunidad Autónoma",
+      "los servicios de carácter supramunicipal"
+    ],
+    "correct": 1,
+    "exp": "La dicción literal del art. 141.1 CE es «...y división territorial para el cumplimiento de las actividades del Estado». La expresión constitucional es «actividades del Estado», no «fines estatales».",
+    "fuente": "Art. 141.1 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el artículo 141.1 CE, cualquier alteración de los límites provinciales habrá de ser aprobada por:",
+    "options": [
+      "el Gobierno, mediante real decreto acordado en Consejo de Ministros",
+      "la Comunidad Autónoma afectada, mediante ley de su Asamblea",
+      "las Cortes Generales, mediante ley orgánica",
+      "las Cortes Generales, mediante ley ordinaria"
+    ],
+    "correct": 2,
+    "exp": "El art. 141.1 CE exige la doble condición: aprobación por las Cortes Generales y forma de ley orgánica. Es la única reserva expresa de ley orgánica en los capítulos I y II del Título VIII.",
+    "fuente": "Art. 141.1 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "De las siguientes materias reguladas en los artículos 137 a 142 CE, ¿cuál exige expresamente ley orgánica?",
+    "options": [
+      "La regulación de las condiciones del régimen del concejo abierto",
+      "La creación de agrupaciones de municipios diferentes de la provincia",
+      "La determinación de los tributos propios de las Haciendas locales",
+      "La alteración de los límites provinciales"
+    ],
+    "correct": 3,
+    "exp": "Solo el art. 141.1 CE impone ley orgánica (alteración de límites provinciales). El concejo abierto se remite a «la ley» (art. 140), las agrupaciones de municipios distintas de la provincia simplemente «se podrán crear» (art. 141.3) y el art. 142 no exige rango orgánico alguno.",
+    "fuente": "Art. 141.1 CE (en relación con los arts. 140, 141.3 y 142 CE)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 141.2 CE, lo que se encomienda a las Diputaciones u otras Corporaciones de carácter representativo es:",
+    "options": [
+      "el gobierno y la administración autónoma de las provincias",
+      "el gobierno y la administración de los municipios de su territorio",
+      "la coordinación y asistencia a los servicios municipales",
+      "la administración propia de las islas en los archipiélagos"
+    ],
+    "correct": 0,
+    "exp": "El art. 141.2 CE dispone: «El gobierno y la administración autónoma de las provincias estarán encomendados a Diputaciones u otras Corporaciones de carácter representativo». Nótese el adjetivo «autónoma», que la Constitución añade solo aquí.",
+    "fuente": "Art. 141.2 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "En cuanto a las agrupaciones de municipios diferentes de la provincia, el artículo 141.3 CE establece que:",
+    "options": [
+      "se crearán obligatoriamente por ley del Estado",
+      "solo podrán crearse mediante ley orgánica",
+      "se podrán crear",
+      "su creación corresponde en exclusiva a las Comunidades Autónomas"
+    ],
+    "correct": 2,
+    "exp": "El art. 141.3 CE se limita a decir: «Se podrán crear agrupaciones de municipios diferentes de la provincia». Es una habilitación potestativa, sin imponer obligación ni exigir ley orgánica.",
+    "fuente": "Art. 141.3 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 141.4 CE, ¿en qué ámbito territorial tendrán las islas además su administración propia?",
+    "options": [
+      "En las Comunidades Autónomas de carácter insular",
+      "En los archipiélagos",
+      "En todas las islas del territorio español",
+      "En las islas que superen un determinado número de habitantes fijado por ley"
+    ],
+    "correct": 1,
+    "exp": "El art. 141.4 CE dice literalmente: «En los archipiélagos, las islas tendrán además su administración propia en forma de Cabildos o Consejos». La referencia constitucional es al archipiélago, no a la Comunidad Autónoma.",
+    "fuente": "Art. 141.4 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántos apartados tiene el artículo 141 de la Constitución?",
+    "options": [
+      "Dos",
+      "Tres",
+      "Cuatro",
+      "Cinco"
+    ],
+    "correct": 2,
+    "exp": "El art. 141 CE consta de cuatro apartados: 1) concepto de provincia y alteración de límites; 2) gobierno y administración autónoma de las provincias; 3) agrupaciones de municipios diferentes de la provincia; 4) administración insular en los archipiélagos.",
+    "fuente": "Art. 141 CE (apartados 1 a 4)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes formas de organización NO se menciona en el artículo 141 CE?",
+    "options": [
+      "Diputaciones",
+      "Cabildos",
+      "Mancomunidades",
+      "Consejos"
+    ],
+    "correct": 2,
+    "exp": "El art. 141 CE menciona «Diputaciones u otras Corporaciones de carácter representativo» (apdo. 2) y «Cabildos o Consejos» (apdo. 4). El término «mancomunidades» no aparece en el precepto: la Constitución solo habilita genéricamente «agrupaciones de municipios diferentes de la provincia» (apdo. 3).",
+    "fuente": "Art. 141 CE (apartados 2, 3 y 4)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes redacciones reproduce literalmente la definición de provincia del artículo 141.1 CE?",
+    "options": [
+      "«La provincia es una entidad local con personalidad jurídica plena, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado.»",
+      "«La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de los fines del Estado.»",
+      "«La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado.»",
+      "«La provincia es una entidad territorial con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades estatales y autonómicas.»"
+    ],
+    "correct": 2,
+    "exp": "El art. 141.1 CE dice: «La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado». Personalidad «propia» (no plena, que es la del municipio en el art. 140), «entidad local» y «actividades del Estado».",
+    "fuente": "Art. 141.1 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "La Constitución califica expresamente como «entidad local», con esas palabras, a:",
+    "options": [
+      "el municipio, en el artículo 140",
+      "la isla, en el artículo 141.4",
+      "la comarca, en el artículo 141.3",
+      "la provincia, en el artículo 141.1"
+    ],
+    "correct": 3,
+    "exp": "Solo el art. 141.1 CE usa la expresión «entidad local»: «La provincia es una entidad local con personalidad jurídica propia...». El art. 140 CE habla de municipios con personalidad jurídica plena, pero no los denomina «entidad local», y la comarca ni se menciona en el texto constitucional.",
+    "fuente": "Art. 141.1 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el artículo 142 CE, las Haciendas locales se nutrirán ______ de tributos propios y de participación en los del Estado y de las Comunidades Autónomas.",
+    "options": [
+      "exclusivamente",
+      "fundamentalmente",
+      "preferentemente",
+      "básicamente"
+    ],
+    "correct": 1,
+    "exp": "El adverbio del art. 142 CE es «fundamentalmente», lo que permite que existan otros recursos distintos de los tributos propios y de la participación en los del Estado y de las Comunidades Autónomas.",
+    "fuente": "Art. 142 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al artículo 142 CE, ¿qué norma atribuye a las Corporaciones respectivas las funciones para cuyo desempeño deben disponer de medios suficientes?",
+    "options": [
+      "La ley",
+      "La propia Constitución",
+      "Los Estatutos de Autonomía",
+      "Los reglamentos orgánicos de cada Corporación"
+    ],
+    "correct": 0,
+    "exp": "El art. 142 CE se refiere a «las funciones que la ley atribuye a las Corporaciones respectivas». La remisión es a la ley.",
+    "fuente": "Art. 142 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de los siguientes recursos NO se menciona en el artículo 142 CE como fuente de la que se nutren las Haciendas locales?",
+    "options": [
+      "Los tributos propios",
+      "La participación en los tributos del Estado",
+      "La participación en los tributos de las Comunidades Autónomas",
+      "Las subvenciones procedentes de la Unión Europea"
+    ],
+    "correct": 3,
+    "exp": "El art. 142 CE cita únicamente los tributos propios y la participación en los del Estado y de las Comunidades Autónomas. Las subvenciones europeas no figuran en el precepto.",
+    "fuente": "Art. 142 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "El principio de suficiencia de medios de las Haciendas locales se recoge en:",
+    "options": [
+      "el artículo 137 CE",
+      "el artículo 140 CE",
+      "el artículo 138.1 CE",
+      "el artículo 142 CE"
+    ],
+    "correct": 3,
+    "exp": "Es el art. 142 CE: «Las Haciendas locales deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas...».",
+    "fuente": "Art. 142 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de los siguientes contenidos NO se encuentra en el artículo 138 CE?",
+    "options": [
+      "La libre circulación de bienes en todo el territorio español",
+      "La atención particular a las circunstancias del hecho insular",
+      "El equilibrio económico, adecuado y justo, entre las diversas partes del territorio español",
+      "La prohibición de que las diferencias entre Estatutos impliquen privilegios económicos o sociales"
+    ],
+    "correct": 0,
+    "exp": "La libre circulación de bienes está en el art. 139.2 CE, no en el 138. El art. 138 contiene la solidaridad, el equilibrio económico adecuado y justo, el hecho insular (apdo. 1) y la prohibición de privilegios económicos o sociales derivados de las diferencias entre Estatutos (apdo. 2).",
+    "fuente": "Art. 138 CE (apartados 1 y 2), por contraste con el art. 139.2 CE",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes materias NO se regula en los artículos 137 a 142 de la Constitución?",
+    "options": [
+      "La financiación de las Haciendas locales",
+      "La alteración de los límites provinciales",
+      "Las competencias mínimas de los municipios",
+      "El régimen del concejo abierto"
+    ],
+    "correct": 2,
+    "exp": "Los arts. 137 a 142 CE no enumeran competencias municipales: la financiación local está en el art. 142, la alteración de límites provinciales en el art. 141.1 y la remisión a la ley del concejo abierto en el art. 140. La determinación de competencias municipales es materia de la legislación de régimen local, no del texto constitucional.",
+    "fuente": "Arts. 137 a 142 CE",
+    "confianza": "alta"
+  }
+]);
