@@ -1,0 +1,526 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 20,
+  "preguntas": [
+    {
+      "q": "Conforme al artículo 118.2 de la Ley de Urbanismo de Aragón, las actuaciones aisladas son aquellas que se ejecutan de forma asistemática, sobre suelo urbano consolidado, a través de:",
+      "options": [
+        "El sistema de gestión indirecta por compensación",
+        "El sistema de gestión directa por cooperación",
+        "El sistema de urbanización de obras ordinarias",
+        "El sistema de gestión indirecta por urbanizador"
+      ],
+      "correct": 2,
+      "exp": "El art. 118.2.a) TRLUA define las actuaciones aisladas como las que «se ejecutan de forma asistemática, sobre suelo urbano consolidado, a través del sistema de urbanización de obras ordinarias», añadiendo que, si la ordenación lo requiere, será necesaria la previa normalización de fincas. Los otros tres sistemas son propios de las actuaciones integradas (art. 134.3).",
+      "fuente": "Art. 118.2.a) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 119 TRLUA, la ejecución del planeamiento urbanístico corresponde a:",
+      "options": [
+        "Los municipios",
+        "Los Consejos Provinciales de Urbanismo",
+        "Las comarcas en que se integre el municipio",
+        "El Departamento del Gobierno de Aragón competente en materia de urbanismo"
+      ],
+      "correct": 0,
+      "exp": "El art. 119.1 TRLUA dispone que «la ejecución del planeamiento urbanístico corresponde a los municipios y se desarrollará conforme a lo establecido en esta Ley». El apartado 2 solo atribuye a la Administración de la Comunidad Autónoma la ejecución de los planes y proyectos de interés general de Aragón.",
+      "fuente": "Art. 119.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Para que la propuesta del sistema de compensación formulada por los particulares en un proyecto de planeamiento de desarrollo de iniciativa privada vincule a la Administración respecto de una unidad de ejecución, el artículo 122.2 TRLUA exige que el proyecto esté suscrito por propietarios que sumen:",
+      "options": [
+        "Al menos el veinticinco por ciento de la superficie de la unidad",
+        "Más de la mitad de la superficie de la unidad",
+        "Al menos dos tercios de la superficie de la unidad",
+        "La totalidad de la superficie de la unidad"
+      ],
+      "correct": 1,
+      "exp": "El art. 122.2 TRLUA exige, para que la propuesta del sistema de compensación vincule a la Administración, que el proyecto de planeamiento «deberá estar suscrito por propietarios que sumen más de la mitad de la superficie de esa unidad» y garantizar que el desarrollo de las obras se adecue a las necesidades de crecimiento y forma de la ciudad.",
+      "fuente": "Art. 122.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "De acuerdo con el artículo 123.1 TRLUA, el plazo de garantía de las obras de urbanización, tanto en los supuestos de gestión directa como en los de gestión indirecta, no podrá en ningún caso ser inferior a:",
+      "options": [
+        "Un año",
+        "Dos años",
+        "Tres años",
+        "Cinco años"
+      ],
+      "correct": 3,
+      "exp": "El art. 123.1 TRLUA remite el procedimiento de recepción y el plazo de garantía de las obras de urbanización a la normativa de contratación del sector público, «sin que, en cualquier caso, el plazo de garantía pueda ser inferior a cinco años».",
+      "fuente": "Art. 123.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "En suelo urbano no consolidado, y conforme al artículo 127.3 TRLUA, el aprovechamiento subjetivo correspondiente al propietario será el resultante de aplicar a la propiedad:",
+      "options": [
+        "El cien por cien del aprovechamiento medio de la unidad de ejecución",
+        "El ochenta y cinco por ciento del aprovechamiento medio de la unidad de ejecución",
+        "El noventa por ciento del aprovechamiento medio de la unidad de ejecución o, en su caso, del sector",
+        "El setenta y cinco por ciento del aprovechamiento objetivo de su parcela"
+      ],
+      "correct": 2,
+      "exp": "El art. 127.3 TRLUA establece que en el suelo urbano no consolidado el aprovechamiento subjetivo del propietario es «el resultante de aplicar a la propiedad el noventa por ciento del aprovechamiento medio de la unidad de ejecución o, en su caso, del sector», correspondiendo el resto en todo caso a la Administración.",
+      "fuente": "Art. 127.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 128.1 TRLUA, en suelo urbanizable delimitado el aprovechamiento subjetivo correspondiente al propietario resulta de aplicar a la superficie aportada:",
+      "options": [
+        "El noventa por ciento del aprovechamiento medio del suelo urbanizable delimitado",
+        "El noventa por ciento del aprovechamiento medio del sector",
+        "El cien por cien del aprovechamiento medio del sector",
+        "El ochenta por ciento del aprovechamiento medio del suelo urbanizable delimitado"
+      ],
+      "correct": 0,
+      "exp": "El art. 128.1 TRLUA fija, en suelo urbanizable delimitado, «el noventa por ciento del aprovechamiento medio del suelo urbanizable delimitado». El módulo del noventa por ciento del aprovechamiento medio del sector es el propio del suelo urbanizable NO delimitado (art. 128.2).",
+      "fuente": "Art. 128.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al artículo 133.1 TRLUA, la normalización de fincas procederá siempre que:",
+      "options": [
+        "Sea necesaria la redistribución de los beneficios y cargas de la ordenación entre los propietarios afectados",
+        "No sea necesaria la redistribución de beneficios y cargas, pero sea preciso regularizar la configuración física de las fincas para adaptarla a las exigencias del planeamiento",
+        "Se delimite una unidad de ejecución discontinua en suelo urbanizable delimitado",
+        "Los propietarios se constituyan en junta de compensación para ejecutar a su costa la urbanización"
+      ],
+      "correct": 1,
+      "exp": "El art. 133.1 TRLUA condiciona la normalización de fincas a que «no sea necesaria la redistribución de los beneficios y cargas de la ordenación entre los propietarios afectados, pero sea preciso regularizar la configuración física de las fincas para adaptarla a las exigencias del planeamiento». Si hay que redistribuir beneficios y cargas, el instrumento es la reparcelación.",
+      "fuente": "Art. 133.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "La normalización de fincas se aprueba, según el artículo 133.3 TRLUA, por:",
+      "options": [
+        "El Ayuntamiento Pleno, previa información pública por plazo de un mes",
+        "El Consejo Provincial de Urbanismo, previa audiencia de quince días",
+        "El Alcalde, previa notificación a todos los afectados otorgándoles un plazo de audiencia de veinte días",
+        "La Junta de Gobierno Local, previa audiencia de los afectados por plazo de diez días"
+      ],
+      "correct": 2,
+      "exp": "El art. 133.3 TRLUA dispone que «la normalización se aprobará por el Alcalde, de oficio o a instancia de alguno de los afectados, previa notificación a todos los afectados otorgándoles un plazo de audiencia de veinte días, y se hará constar en el Registro de la Propiedad».",
+      "fuente": "Art. 133.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El artículo 134.3 TRLUA atribuye a la Administración el establecimiento del sistema o forma de gestión de las actuaciones integradas. ¿Cuáles son las modalidades que enumera dicho precepto?",
+      "options": [
+        "Gestión directa mediante compensación o cooperación, y gestión indirecta mediante expropiación o concesión de obra urbanizadora",
+        "Gestión directa mediante expropiación o compensación, y gestión indirecta mediante cooperación o agente urbanizador",
+        "Gestión directa mediante obras ordinarias o expropiación, y gestión indirecta mediante compensación o concesión administrativa",
+        "Gestión directa mediante expropiación o cooperación, y gestión indirecta mediante compensación o adjudicación a urbanizador"
+      ],
+      "correct": 3,
+      "exp": "El art. 134.3 TRLUA establece que corresponde a la Administración fijar el sistema o forma de gestión, «que podrá ser de gestión directa, mediante expropiación o cooperación, o de gestión indirecta, mediante compensación o adjudicación a urbanizador». Es el esquema básico de los sistemas de actuación en Aragón.",
+      "fuente": "Art. 134.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuál de las siguientes entidades urbanísticas colaboradoras colabora con la Administración actuante en el sistema de gestión directa por cooperación, según el artículo 136.2 TRLUA?",
+      "options": [
+        "Las asociaciones administrativas de propietarios",
+        "Las juntas de compensación",
+        "Las agrupaciones de interés urbanístico",
+        "Las entidades urbanísticas de conservación"
+      ],
+      "correct": 0,
+      "exp": "El art. 136.2.b) TRLUA identifica las «asociaciones administrativas de propietarios que colaboran con la Administración actuante en el sistema de gestión directa por cooperación». Las juntas de compensación lo hacen en la gestión indirecta por compensación (letra a) y las agrupaciones de interés urbanístico en la gestión indirecta por urbanizador (letra d).",
+      "fuente": "Art. 136.2.b) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 136.2 TRLUA, las agrupaciones de interés urbanístico son entidades urbanísticas colaboradoras que:",
+      "options": [
+        "Colaboran con la Administración actuante en el sistema de gestión directa por cooperación",
+        "Compiten por la adjudicación de programas de urbanización o colaboran con el urbanizador en el sistema de gestión indirecta por urbanizador",
+        "Se constituyen exclusivamente para la conservación de las obras de urbanización una vez recibidas por el municipio",
+        "Colaboran con la Administración actuante en el sistema de gestión indirecta por compensación"
+      ],
+      "correct": 1,
+      "exp": "El art. 136.2.d) TRLUA define las agrupaciones de interés urbanístico como aquellas «que compiten por la adjudicación de programas de urbanización o colaboran con el urbanizador en el sistema de gestión indirecta por urbanizador».",
+      "fuente": "Art. 136.2.d) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "De acuerdo con el artículo 138.1 TRLUA, las unidades de ejecución podrán ser discontinuas:",
+      "options": [
+        "En cualquier clase y categoría de suelo, sin restricción alguna",
+        "Únicamente en suelo urbanizable delimitado",
+        "En suelo urbano no consolidado, así como en las actuaciones de regeneración y renovación urbanas previstas en el artículo 183",
+        "Solo en suelo urbano consolidado y previa normalización de fincas"
+      ],
+      "correct": 2,
+      "exp": "El art. 138.1 TRLUA, tras exigir que las unidades de ejecución se delimiten de forma que permitan el cumplimiento conjunto de los deberes de equidistribución, urbanización y cesión, añade: «En suelo urbano no consolidado, así como en las actuaciones de regeneración y renovación urbanas previstas en el artículo 183, las unidades de ejecución podrán ser discontinuas».",
+      "fuente": "Art. 138.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Las cargas de urbanización se distribuyen entre los propietarios, conforme al artículo 139.2 TRLUA, en proporción a:",
+      "options": [
+        "La superficie de las fincas aportadas a la unidad de ejecución",
+        "El valor catastral de las fincas aportadas a la unidad de ejecución",
+        "El aprovechamiento subjetivo que les corresponda",
+        "El aprovechamiento objetivo de las parcelas resultantes"
+      ],
+      "correct": 2,
+      "exp": "El art. 139.2 TRLUA dispone literalmente que «las cargas de urbanización se distribuirán entre los propietarios en proporción al aprovechamiento subjetivo que les corresponda».",
+      "fuente": "Art. 139.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 139.6 TRLUA, salvo que presten su conformidad el municipio y propietarios que representen más del cincuenta por ciento de la superficie afectada, la modificación de los costes de urbanización no podrá implicar un aumento de las cargas de urbanización superior al:",
+      "options": [
+        "Cinco por ciento de las inicialmente previstas",
+        "Diez por ciento de las inicialmente previstas",
+        "Quince por ciento de las inicialmente previstas",
+        "Veinte por ciento de las inicialmente previstas"
+      ],
+      "correct": 3,
+      "exp": "El art. 139.6 TRLUA establece que, salvo conformidad del municipio y de propietarios que representen más del cincuenta por ciento de la superficie afectada, «la modificación de los costes de urbanización no podrá implicar un aumento de las cargas de urbanización superior al veinte por ciento de las inicialmente previstas».",
+      "fuente": "Art. 139.6 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El artículo 140.1 TRLUA define la reparcelación como:",
+      "options": [
+        "La agrupación de fincas comprendidas en la unidad de ejecución para su nueva división ajustada al planeamiento, con adjudicación de las parcelas resultantes a los interesados en proporción a sus respectivos derechos y de los terrenos de cesión obligatoria a favor de la Administración",
+        "La definición de los nuevos linderos de las fincas de conformidad con el planeamiento, sin redistribución de beneficios y cargas entre los propietarios",
+        "El conjunto de obras necesarias para dotar a una parcela de suelo urbano consolidado de la condición de solar",
+        "La obtención de terrenos dotacionales mediante el reconocimiento a su titular del derecho a integrarse en una unidad de ejecución excedentaria"
+      ],
+      "correct": 0,
+      "exp": "Es la definición literal del art. 140.1 TRLUA. La opción B describe la normalización de fincas (art. 133.2) y la D la ocupación directa (art. 191.1).",
+      "fuente": "Art. 140.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al artículo 140.3 TRLUA, la ejecución del planeamiento exige la reparcelación de los terrenos comprendidos en la unidad de ejecución:",
+      "options": [
+        "En todo caso, sin excepción alguna",
+        "Salvo que resulte suficientemente equitativa la distribución de beneficios y cargas para todos los propietarios",
+        "Solo cuando la unidad de ejecución se gestione por el sistema de compensación",
+        "Solo cuando lo soliciten propietarios que representen más de la mitad de la superficie de la unidad"
+      ],
+      "correct": 1,
+      "exp": "El art. 140.3 TRLUA dispone que «la ejecución del planeamiento exige la reparcelación de los terrenos comprendidos en la unidad de ejecución, salvo que resulte suficientemente equitativa la distribución de beneficios y cargas para todos los propietarios».",
+      "fuente": "Art. 140.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "De los siguientes supuestos, el artículo 141.2 TRLUA califica como propuesta de reparcelación VOLUNTARIA la presentada por:",
+      "options": [
+        "El municipio, cuando la imponga por ser necesaria para la ejecución del planeamiento",
+        "El Consejo Provincial de Urbanismo, a instancia del urbanizador",
+        "Los propietarios que representen más de un tercio de la superficie de la unidad de ejecución",
+        "La junta de compensación"
+      ],
+      "correct": 3,
+      "exp": "El art. 141.2.b) TRLUA incluye entre las propuestas de reparcelación voluntaria «la presentada por la junta de compensación». Por el contrario, según el art. 141.3, la reparcelación es forzosa cuando el municipio la impone por ser necesaria para la ejecución del planeamiento y los propietarios no han presentado propuesta voluntaria en plazo.",
+      "fuente": "Art. 141.2.b) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Salvo que los propietarios y, en la gestión indirecta por urbanizador, el urbanizador adopten por unanimidad otros criterios, el artículo 142.a) TRLUA establece que el derecho de los propietarios en el proyecto de reparcelación será proporcional a:",
+      "options": [
+        "La superficie de sus parcelas respectivas en el momento de aprobarse la delimitación de la unidad de ejecución",
+        "El valor catastral de sus parcelas en el momento de la aprobación inicial del proyecto de reparcelación",
+        "La edificabilidad materializada históricamente en sus parcelas",
+        "El aprovechamiento objetivo atribuido por el planeamiento a sus parcelas"
+      ],
+      "correct": 0,
+      "exp": "El art. 142.a) TRLUA fija como primer criterio que «el derecho de los propietarios será proporcional a la superficie de las parcelas respectivas en el momento de aprobarse la delimitación de la unidad de ejecución».",
+      "fuente": "Art. 142.a) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al artículo 142.g) TRLUA, la adjudicación pro indiviso a los propietarios de escasos derechos podrá sustituirse por una indemnización en metálico cuando la cuantía de esos derechos no alcance el siguiente porcentaje de la parcela mínima edificable:",
+      "options": [
+        "El diez por ciento",
+        "El quince por ciento",
+        "El veinte por ciento",
+        "El veinticinco por ciento"
+      ],
+      "correct": 1,
+      "exp": "El art. 142.g) TRLUA permite la adjudicación pro indiviso cuando la escasa cuantía de los derechos no permita adjudicar fincas independientes, pero añade que «si la cuantía de esos derechos no alcanzase el quince por ciento de la parcela mínima edificable, la adjudicación podrá sustituirse por una indemnización en metálico».",
+      "fuente": "Art. 142.g) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "La iniciación del expediente de reparcelación conlleva, conforme al artículo 146.1 TRLUA:",
+      "options": [
+        "La suspensión del otorgamiento de licencias de parcelación y edificación en el ámbito de la unidad de ejecución, previa declaración expresa del Ayuntamiento Pleno",
+        "La suspensión de todas las licencias urbanísticas del término municipal por plazo de un año",
+        "La suspensión del otorgamiento de licencias de primera ocupación en el ámbito del sector",
+        "La suspensión del otorgamiento de licencias de parcelación y edificación en el ámbito de la unidad de ejecución, sin necesidad de declaración expresa"
+      ],
+      "correct": 3,
+      "exp": "El art. 146.1 TRLUA establece que «la iniciación del expediente de reparcelación conlleva, sin necesidad de declaración expresa, la suspensión del otorgamiento de licencias de parcelación y edificación en el ámbito de la unidad de ejecución», entendiéndose iniciado el expediente cuando se apruebe inicialmente el proyecto de reparcelación.",
+      "fuente": "Art. 146.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Entre los efectos que el artículo 148 TRLUA atribuye al acuerdo aprobatorio del proyecto de reparcelación figura:",
+      "options": [
+        "La declaración de urgencia de la ocupación de los bienes y derechos afectados",
+        "La caducidad del programa de urbanización y la resolución de su adjudicación",
+        "La recepción automática por el municipio de las obras de urbanización ejecutadas",
+        "La transmisión a la Administración que proceda, en pleno dominio y libre de cargas, de todos los terrenos de cesión obligatoria"
+      ],
+      "correct": 3,
+      "exp": "El art. 148.a) TRLUA enumera como primer efecto la «transmisión a la Administración que proceda, en pleno dominio y libre de cargas, de todos los terrenos de cesión obligatoria para su incorporación al patrimonio público del suelo o su afectación a los usos previstos en el planeamiento», junto a la subrogación real de las parcelas (letra b) y su afectación al pago de las cargas de urbanización (letra c).",
+      "fuente": "Art. 148.a) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 149.1 TRLUA, la gestión directa por expropiación:",
+      "options": [
+        "Se aplicará por unidades de ejecución completas y comprenderá todos los bienes y derechos incluidos en las mismas",
+        "Se aplicará finca por finca, con exclusión en todo caso de los bienes de dominio público",
+        "Solo podrá aplicarse en suelo urbano consolidado, mediante actuaciones aisladas",
+        "Requiere el acuerdo previo de propietarios que representen más de la mitad de la superficie de la unidad"
+      ],
+      "correct": 0,
+      "exp": "El art. 149.1 TRLUA dispone que «la gestión directa por expropiación se aplicará por unidades de ejecución completas y comprenderá todos los bienes y derechos incluidos en las mismas», sin perjuicio de la posible liberación motivada de determinados bienes conforme al apartado 2.",
+      "fuente": "Art. 149.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "En la gestión directa por cooperación, y conforme al artículo 150.1 TRLUA:",
+      "options": [
+        "Los propietarios se constituyen en junta de compensación y ejecutan a su costa la obra pública de urbanización",
+        "El urbanizador gestiona la ejecución del planeamiento obteniendo su retribución de los propietarios afectados",
+        "Los propietarios aportan el suelo de cesión obligatoria y la Administración ejecuta las obras de urbanización",
+        "La Administración adquiere por expropiación la totalidad de los bienes y derechos de la unidad de ejecución"
+      ],
+      "correct": 2,
+      "exp": "El art. 150.1 TRLUA describe la cooperación así: «los propietarios aportan el suelo de cesión obligatoria y la Administración ejecuta las obras de urbanización», aplicándose por unidades de ejecución completas. La opción A corresponde a la compensación (art. 151.2), la B al urbanizador (art. 159) y la D a la expropiación (art. 149.1).",
+      "fuente": "Art. 150.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "En el acuerdo que determine la gestión directa por cooperación podrá otorgarse a los propietarios, conforme al artículo 150.2 TRLUA, un plazo no superior al siguiente para que presenten propuesta de reparcelación voluntaria:",
+      "options": [
+        "Tres meses",
+        "Seis meses",
+        "Un año",
+        "Dos años"
+      ],
+      "correct": 1,
+      "exp": "El art. 150.2 TRLUA, tras señalar que el expediente de reparcelación forzosa se entiende iniciado al aprobarse el planeamiento o la delimitación de la unidad que determinen la cooperación, permite otorgar a los propietarios «plazo no superior a seis meses para que presenten propuesta de reparcelación voluntaria conforme al artículo 141».",
+      "fuente": "Art. 150.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Los aplazamientos del pago de los costes de urbanización que el municipio puede convenir con los titulares de bienes y derechos en la gestión directa por cooperación no podrán exceder, según el artículo 150.3 TRLUA, de:",
+      "options": [
+        "Tres años",
+        "Cinco años",
+        "Ocho años",
+        "Diez años"
+      ],
+      "correct": 3,
+      "exp": "El art. 150.3 TRLUA permite al municipio exigir pagos a cuenta y «convenir con los mismos aplazamientos del pago por plazo nunca superior a diez años», que requerirán garantía suficiente y devengarán el interés legal desde la recepción definitiva de las obras.",
+      "fuente": "Art. 150.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al artículo 151.2 TRLUA, en la gestión indirecta por compensación:",
+      "options": [
+        "Los propietarios se constituyen en junta de compensación, aportan los terrenos de cesión obligatoria mediante reparcelación y ejecutan a su costa la obra pública de urbanización",
+        "Los propietarios aportan el suelo de cesión obligatoria y la Administración ejecuta las obras de urbanización",
+        "El municipio expropia la totalidad de los terrenos de la unidad y ejecuta por sí mismo la urbanización",
+        "Un tercero seleccionado en pública competencia ejecuta la urbanización obteniendo su retribución de los propietarios"
+      ],
+      "correct": 0,
+      "exp": "El art. 151.2 TRLUA describe la compensación: «los propietarios se constituyen en junta de compensación, aportan los terrenos de cesión obligatoria mediante reparcelación y ejecutan a su costa la obra pública de urbanización en los términos y condiciones que se determinen en el planeamiento».",
+      "fuente": "Art. 151.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 151.3 TRLUA, no será precisa la constitución de junta de compensación:",
+      "options": [
+        "Cuando los propietarios que asuman la iniciativa representen más de la mitad de la superficie de la unidad",
+        "Cuando la unidad de ejecución sea discontinua",
+        "Cuando todos los terrenos pertenezcan a un mismo titular o exista acuerdo de la totalidad de los propietarios",
+        "Cuando la Administración designe su representante en el órgano rector de la junta"
+      ],
+      "correct": 2,
+      "exp": "El art. 151.3 TRLUA exceptúa la constitución de junta «cuando todos los terrenos pertenezcan a un mismo titular o exista acuerdo de la totalidad de los propietarios», suscribiéndose entonces convenio de gestión con el municipio; el pro indiviso de la totalidad se trata como propietario único.",
+      "fuente": "Art. 151.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Los propietarios afectados deberán asumir la iniciativa de la ejecución, conforme al artículo 152.2 TRLUA, en el plazo máximo siguiente a contar desde la plena eficacia del planeamiento que establezca la ordenación pormenorizada y determine la gestión indirecta por compensación:",
+      "options": [
+        "Seis meses",
+        "Un año",
+        "Dos años",
+        "Tres años"
+      ],
+      "correct": 1,
+      "exp": "El art. 152.2 TRLUA fija «el plazo máximo de un año a contar desde la plena eficacia del planeamiento» para asumir la iniciativa; transcurrido, el órgano municipal competente adoptará, mediante acuerdo expreso y motivado, la modalidad de gestión urbanística más adecuada.",
+      "fuente": "Art. 152.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El acuerdo de aprobación definitiva de los estatutos y bases de actuación obliga, salvo los supuestos exceptuados, a constituir la junta de compensación en escritura pública en el plazo máximo, conforme al artículo 154.3 TRLUA, de:",
+      "options": [
+        "Un mes desde la notificación del acuerdo",
+        "Dos meses desde la notificación del acuerdo",
+        "Tres meses desde la notificación del acuerdo",
+        "Seis meses desde la notificación del acuerdo"
+      ],
+      "correct": 2,
+      "exp": "El art. 154.3.b) TRLUA impone «la obligación, salvo en los supuestos de propietario único, varios propietarios pro indiviso o convenio de gestión entre la totalidad de los propietarios, de constituir la junta de compensación en escritura pública en el plazo máximo de tres meses desde la notificación del acuerdo».",
+      "fuente": "Art. 154.3.b) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Con carácter previo a dar comienzo a las obras de urbanización, en el sistema de compensación debe constituirse a favor del municipio garantía de su correcta ejecución por un importe mínimo, según el artículo 154.3 TRLUA, del:",
+      "options": [
+        "Seis por ciento del total previsto en el proyecto de urbanización",
+        "Diez por ciento del total previsto en el proyecto de urbanización",
+        "Doce por ciento del total previsto en el proyecto de urbanización",
+        "Dos por ciento del total previsto en el proyecto de urbanización"
+      ],
+      "correct": 0,
+      "exp": "El art. 154.3.d) TRLUA exige, antes de comenzar las obras, garantía a favor del municipio «por un importe mínimo del seis por ciento del total previsto en el proyecto de urbanización», prorrateable por etapas cuando la ejecución incluya un plan de etapas.",
+      "fuente": "Art. 154.3.d) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El incumplimiento por los miembros de la junta de compensación de las obligaciones y cargas impuestas por la Ley habilita al municipio, conforme al artículo 158.2 TRLUA, para:",
+      "options": [
+        "Declarar la caducidad del programa de urbanización y resolver su adjudicación",
+        "Sustituir el sistema de actuación mediante acuerdo del Consejo Provincial de Urbanismo",
+        "Imponer multas coercitivas mensuales hasta que se produzca el cumplimiento",
+        "Expropiar sus respectivos derechos en favor de la junta, que tendrá la condición de beneficiaria"
+      ],
+      "correct": 3,
+      "exp": "El art. 158.2 TRLUA establece que ese incumplimiento «habilitará al municipio para expropiar sus respectivos derechos en favor de la junta, que tendrá la condición de beneficiaria». El apartado 3 añade que, con el consentimiento de la junta, el municipio puede revocarle esa condición y expropiar para sí.",
+      "fuente": "Art. 158.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al artículo 159 TRLUA, en la gestión indirecta por urbanizador:",
+      "options": [
+        "El urbanizador debe ser necesariamente propietario de más de la mitad de la superficie de la unidad de ejecución",
+        "El urbanizador gestiona la ejecución del planeamiento, obteniendo su retribución de los propietarios afectados conforme a lo establecido en el programa de urbanización",
+        "El urbanizador ejecuta las obras a cambio de la totalidad del aprovechamiento correspondiente al municipio",
+        "El urbanizador ha de ser en todo caso una sociedad urbanística de capital íntegramente público"
+      ],
+      "correct": 1,
+      "exp": "El art. 159 TRLUA define esta modalidad: «el urbanizador gestiona la ejecución del planeamiento, obteniendo su retribución de los propietarios afectados por la actuación conforme a lo establecido en el programa de urbanización». Además, el art. 165.1 aclara que el urbanizador «podrá ser o no titular del suelo afectado» y será seleccionado en pública competencia.",
+      "fuente": "Art. 159 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El beneficio empresarial del urbanizador, según el artículo 164.2 TRLUA, no podrá ser superior en ningún caso al:",
+      "options": [
+        "Cinco por ciento",
+        "Seis por ciento",
+        "Diez por ciento",
+        "Quince por ciento"
+      ],
+      "correct": 2,
+      "exp": "El art. 164.2.d) TRLUA, al enumerar las magnitudes económicas de la proposición jurídico-económica, señala que el beneficio empresarial del urbanizador se calcula en un porcentaje de la suma de los tres conceptos anteriores y «no podrá ser superior en ningún caso al diez por ciento».",
+      "fuente": "Art. 164.2.d) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Todo urbanizador ha de prestar y mantener garantía financiera o real del cumplimiento de las previsiones del programa por un importe mínimo, conforme al artículo 169.1 TRLUA, no inferior al:",
+      "options": [
+        "Dos por ciento de las cargas de urbanización",
+        "Seis por ciento de las cargas de urbanización",
+        "Ocho por ciento de las cargas de urbanización",
+        "Diez por ciento de las cargas de urbanización"
+      ],
+      "correct": 3,
+      "exp": "El art. 169.1 TRLUA exige garantía «por importe mínimo no inferior al diez por ciento de las cargas de urbanización», pudiendo el programa exigir garantías superiores hasta alcanzar la totalidad de los costes de urbanización. El dos por ciento es el de la garantía provisional (art. 164.3).",
+      "fuente": "Art. 169.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El plazo para que el Alcalde resuelva sobre la selección de una alternativa técnica de programa de urbanización es, según el artículo 178.3 TRLUA:",
+      "options": [
+        "De tres meses si sólo hubiere una alternativa técnica sin competencia, y de nueve meses en los demás supuestos",
+        "De un mes si sólo hubiere una alternativa técnica sin competencia, y de tres meses en los demás supuestos",
+        "De seis meses si sólo hubiere una alternativa técnica sin competencia, y de nueve meses en los demás supuestos",
+        "De tres meses en todo caso, prorrogables por otros tres"
+      ],
+      "correct": 0,
+      "exp": "El art. 178.3 TRLUA fija el plazo «de tres meses, si sólo hubiere una alternativa técnica sin competencia, o de nueve meses, en los demás supuestos», entendiéndose adoptado acuerdo de rechazo de todas las iniciativas si transcurre sin resolver y notificar. Los plazos de seis y nueve meses son los de la adjudicación del programa (art. 179.4).",
+      "fuente": "Art. 178.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Los terrenos destinados por el planeamiento al establecimiento de sistemas generales fuera del suelo urbano consolidado se obtendrán, conforme al artículo 188 TRLUA, por el siguiente orden:",
+      "options": [
+        "Expropiación forzosa; si fuera inviable, ocupación directa; y en último término cesión obligatoria",
+        "Cesión obligatoria derivada de su inclusión o adscripción a unidad de ejecución; cuando ello fuera inviable, ocupación directa; y si ambas fueran inviables o inconvenientes, expropiación forzosa",
+        "Ocupación directa; si fuera inviable, cesión obligatoria; y en último término permuta con bienes del patrimonio municipal del suelo",
+        "Cesión obligatoria derivada de su inclusión en unidad de ejecución; si fuera inviable, expropiación forzosa; y en último término ocupación directa"
+      ],
+      "correct": 1,
+      "exp": "El art. 188 TRLUA ordena las tres modalidades: a) cesión obligatoria derivada de la inclusión o adscripción a unidad de ejecución, cuando ello sea posible; b) cuando la anterior fuera inviable, ocupación directa asignando aprovechamientos objetivos en unidades de ejecución excedentarias; c) cuando las anteriores fuesen inviables o inconvenientes, expropiación forzosa.",
+      "fuente": "Art. 188 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el artículo 189 TRLUA, los terrenos destinados por el planeamiento al establecimiento de dotaciones locales fuera del suelo urbano consolidado se obtendrán:",
+      "options": [
+        "Mediante expropiación forzosa a cargo del municipio",
+        "Mediante ocupación directa, con reconocimiento del derecho a integrarse en una unidad de ejecución excedentaria",
+        "Mediante cesión obligatoria y gratuita derivada de la gestión sistemática de las unidades de ejecución, continuas o discontinuas, en que se incluyan",
+        "Mediante permuta con terrenos de los patrimonios públicos de suelo"
+      ],
+      "correct": 2,
+      "exp": "El art. 189 TRLUA prevé una única vía para las dotaciones locales fuera del suelo urbano consolidado: «cesión obligatoria y gratuita derivada de la gestión sistemática de las unidades de ejecución continuas o discontinuas en que se incluyan».",
+      "fuente": "Art. 189 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El artículo 191.1 TRLUA define la ocupación directa como:",
+      "options": [
+        "La obtención de terrenos afectos por el planeamiento a infraestructuras o equipamientos urbanísticos públicos mediante el reconocimiento a su titular del derecho a integrarse en una unidad de ejecución excedentaria",
+        "La ocupación temporal de terrenos autorizada para obtener la información precisa para elaborar una propuesta de programa de urbanización",
+        "La toma de posesión de las fincas expropiadas tras el pago o consignación del justiprecio",
+        "La agrupación de fincas de una unidad de ejecución para su nueva división ajustada al planeamiento"
+      ],
+      "correct": 0,
+      "exp": "Es la definición del art. 191.1 TRLUA. El apartado 2 añade que la ocupación directa requiere la previa determinación por el municipio del aprovechamiento subjetivo del titular y de la unidad de ejecución excedentaria en la que haya de hacerse efectivo.",
+      "fuente": "Art. 191.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al artículo 199.1 TRLUA, la expropiación forzosa deberá tener lugar en el plazo máximo siguiente desde la producción del supuesto determinante de su aplicación:",
+      "options": [
+        "Dos años",
+        "Cuatro años",
+        "Cinco años",
+        "Ocho años"
+      ],
+      "correct": 1,
+      "exp": "El art. 199.1 TRLUA fija un «plazo máximo de cuatro años desde la producción del supuesto determinante de su aplicación»; transcurrido sin llevarse a efecto, los interesados podrán advertir al municipio de su propósito de iniciar el expediente de justiprecio en los términos del art. 193.2 y 3.",
+      "fuente": "Art. 199.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al artículo 209.2 TRLUA, la fijación del justo precio en las expropiaciones en que la Administración expropiante sea la de la Comunidad Autónoma o cualquiera de las entidades locales de Aragón corresponde a:",
+      "options": [
+        "El Consejo Provincial de Urbanismo correspondiente",
+        "El Jurado Provincial de Expropiación Forzosa dependiente de la Administración General del Estado",
+        "El Consejo de Ordenación del Territorio de Aragón",
+        "El Jurado Aragonés de Expropiación, cuyos actos ponen fin a la vía administrativa"
+      ],
+      "correct": 3,
+      "exp": "El art. 209.2 TRLUA atribuye al Jurado Aragonés de Expropiación «la competencia para la fijación del justo precio en las expropiaciones en las que la Administración expropiante sea la de la Comunidad Autónoma o cualquiera de las entidades locales de Aragón», añadiendo que «sus actos ponen fin a la vía administrativa».",
+      "fuente": "Art. 209.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    }
+  ]
+}

@@ -1,0 +1,526 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 20,
+  "preguntas": [
+    {
+      "q": "Conforme a las normas de directa aplicación del texto refundido de la Ley de Urbanismo de Aragón, mientras no exista plan que lo autorice, ¿con qué altura máxima puede edificarse, medida en cada punto del terreno?",
+      "options": [
+        "Con una altura no superior a dos plantas.",
+        "Con una altura no superior a tres plantas.",
+        "Con una altura no superior a cuatro plantas.",
+        "Con una altura no superior a cinco plantas."
+      ],
+      "correct": 1,
+      "exp": "El art. 215.1 TRLUA dispone que, mientras no exista plan que lo autorice, no podrá edificarse con una altura superior a tres plantas, medidas en cada punto del terreno, sin perjuicio de las demás limitaciones aplicables. El apartado 2 añade que en solares enclavados en núcleos o manzanas edificados en más de dos terceras partes, los municipios sólo podrán autorizar alturas que alcancen la media de los edificios ya construidos.",
+      "fuente": "Art. 215.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "En zonas no consolidadas por la edificación y en defecto de alineaciones y rasantes establecidas por el planeamiento, las construcciones y cierres realizados con obras de fábrica u otros elementos permanentes deberán desplazarse del límite exterior de la calzada de la vía pública a que den frente un mínimo de:",
+      "options": [
+        "Dos metros.",
+        "Cinco metros.",
+        "Tres metros.",
+        "Cuatro metros."
+      ],
+      "correct": 2,
+      "exp": "El art. 216.1 TRLUA fija un desplazamiento mínimo de tres metros del límite exterior de la calzada de la vía pública, salvo que por aplicación de otra legislación proceda una distancia superior. El apartado 2 excluye de esta obligación la colocación de mojones o postes destinados a delimitar la propiedad rústica.",
+      "fuente": "Art. 216.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El propietario de solares y de construcciones en ruina o inadecuadas debe edificarlos o cesar el uso inadecuado en los plazos que fijen los instrumentos de ordenación urbanística y, en su defecto, en el plazo de:",
+      "options": [
+        "Un año contado desde que la parcela merezca la calificación de solar o desde la declaración administrativa de ruina o inadecuación.",
+        "Tres años contados desde que la parcela merezca la calificación de solar o desde la declaración administrativa de ruina o inadecuación.",
+        "Cuatro años contados desde que la parcela merezca la calificación de solar o desde la declaración administrativa de ruina o inadecuación.",
+        "Dos años contados desde que la parcela merezca la calificación de solar o desde la declaración administrativa de ruina o inadecuación."
+      ],
+      "correct": 3,
+      "exp": "El art. 217.1 TRLUA establece el plazo supletorio de dos años contados desde que la parcela merezca la calificación de solar o desde la declaración administrativa de ruina o inadecuación. El municipio puede prorrogar los plazos, por causa motivada, por un período máximo igual a los mismos (art. 217.3).",
+      "fuente": "Art. 217.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Declarado el incumplimiento del deber de edificar y requerido el propietario para que lo cumpla, ¿transcurrido qué plazo desde el requerimiento queda la parcela o solar, por ministerio de la Ley, en situación de ejecución por sustitución?",
+      "options": [
+        "Seis meses.",
+        "Dos meses.",
+        "Tres meses.",
+        "Un año."
+      ],
+      "correct": 0,
+      "exp": "El art. 220.2 TRLUA dispone que, transcurridos seis meses desde el requerimiento, la parcela o solar quedará por ministerio de la Ley en situación de ejecución por sustitución, si bien tal circunstancia deberá ser objeto de resolución expresa notificada al propietario y a las otras partes del procedimiento.",
+      "fuente": "Art. 220.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué municipios deben formar y mantener en condiciones de pública consulta un Registro de inmuebles en situación de ejecución por sustitución?",
+      "options": [
+        "Los de población igual o superior a cinco mil habitantes o que cuenten con plan general de ordenación urbana.",
+        "Los de población igual o superior a ocho mil habitantes o que cuenten con plan general de ordenación urbana.",
+        "Los de población igual o superior a veinte mil habitantes o que cuenten con plan general de ordenación urbana.",
+        "Los de población igual o superior a veinticinco mil habitantes o que cuenten con plan general de ordenación urbana."
+      ],
+      "correct": 1,
+      "exp": "Según el art. 221.1 TRLUA, la obligación recae en los municipios con población igual o superior a ocho mil habitantes o que cuenten con plan general de ordenación urbana, y el Registro se forma a los solos efectos de publicidad. La falta de inclusión no impide aplicar la expropiación ni la ejecución mediante sustitución del propietario (art. 221.2).",
+      "fuente": "Art. 221.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "De acuerdo con el texto refundido de la Ley de Urbanismo de Aragón, la licencia urbanística es el acto administrativo por el que:",
+      "options": [
+        "El Pleno del Ayuntamiento autoriza a cualquier persona para realizar un acto de transformación, construcción, edificación o uso del suelo o el subsuelo.",
+        "La Junta de Gobierno Local autoriza a cualquier persona para realizar un acto de transformación, construcción, edificación o uso del suelo o el subsuelo.",
+        "El Alcalde autoriza a cualquier persona para realizar un acto de transformación, construcción, edificación o uso del suelo o el subsuelo.",
+        "El Consejero competente en materia de urbanismo autoriza a cualquier persona para realizar un acto de transformación, construcción, edificación o uso del suelo o el subsuelo."
+      ],
+      "correct": 2,
+      "exp": "El art. 226.1 TRLUA define la licencia urbanística como el acto administrativo por el que el Alcalde autoriza a cualquier persona para realizar un acto de transformación, construcción, edificación o uso del suelo o el subsuelo, expresando su objeto y las condiciones y plazos de ejercicio.",
+      "fuente": "Art. 226.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuál de los siguientes actos está sujeto a licencia urbanística conforme al texto refundido de la Ley de Urbanismo de Aragón?",
+      "options": [
+        "La ubicación de casas prefabricadas e instalaciones similares, ya sean provisionales o permanentes.",
+        "La primera ocupación de las edificaciones de nueva planta y de las casas prefabricadas.",
+        "La renovación de instalaciones en las construcciones.",
+        "Las talas de árboles que no afecten a espacios de alto valor paisajístico o a paisajes protegidos."
+      ],
+      "correct": 0,
+      "exp": "El art. 226.2.f) TRLUA sujeta a licencia la ubicación de casas prefabricadas e instalaciones similares, ya sean provisionales o permanentes. Las otras tres opciones están sujetas a declaración responsable: primera ocupación (art. 227.2.d), renovación de instalaciones (art. 227.2.c) y talas que no afecten a espacios de alto valor paisajístico o paisajes protegidos (art. 227.2.e).",
+      "fuente": "Art. 226.2.f) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuál de los siguientes actos está sujeto a declaración responsable en materia de urbanismo?",
+      "options": [
+        "Los movimientos de tierra, explanaciones, parcelaciones o segregaciones de fincas que no formen parte de un proyecto de reparcelación.",
+        "Las obras de todo tipo en edificaciones protegidas por sus valores culturales o paisajísticos, en cuanto afecten a los elementos objeto de protección.",
+        "Las talas de masas arbóreas o de vegetación arbustiva que afecten a espacios de alto valor paisajístico o a paisajes protegidos.",
+        "La primera ocupación de las edificaciones de nueva planta y de las casas prefabricadas."
+      ],
+      "correct": 3,
+      "exp": "El art. 227.2.d) TRLUA sujeta a declaración responsable la primera ocupación de las edificaciones de nueva planta y de las casas prefabricadas. Los otros tres actos están sujetos a licencia por el art. 226.2, letras a), d) y e) respectivamente.",
+      "fuente": "Art. 227.2.d) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "La comunicación previa en materia de urbanismo es el documento en el que cualquier persona pone en conocimiento del Alcalde que reúne los requisitos para realizar un acto de transformación, construcción, edificación o uso del suelo o el subsuelo que:",
+      "options": [
+        "No está sujeto ni a declaración responsable ni a licencia en materia de urbanismo.",
+        "Está sujeto a licencia urbanística pero es de escasa entidad constructiva.",
+        "Está sujeto a declaración responsable y además a informe sectorial previo.",
+        "Está exento de todo control municipal por tratarse de obras interiores."
+      ],
+      "correct": 0,
+      "exp": "El art. 228.1 TRLUA define la comunicación previa como el documento en el que cualquier persona pone en conocimiento del Alcalde que reúne los requisitos para realizar un acto que no está sujeto ni a declaración responsable ni a licencia en materia de urbanismo.",
+      "fuente": "Art. 228.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Desde qué momento legitiman la comunicación previa y la declaración responsable para la realización de su objeto?",
+      "options": [
+        "Desde que transcurra un mes desde su presentación sin oposición municipal.",
+        "Desde el día de su presentación en el registro general del municipio.",
+        "Desde que el Alcalde dicte resolución expresa de conformidad.",
+        "Desde que transcurran quince días hábiles desde su presentación."
+      ],
+      "correct": 1,
+      "exp": "El art. 229.2 TRLUA establece que la comunicación previa y la declaración responsable legitiman para la realización de su objeto desde el día de su presentación en el registro general del municipio. La licencia, en cambio, legitima desde la fecha en que sea formalmente adoptada por el Alcalde (art. 229.1).",
+      "fuente": "Art. 229.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Cuando una licencia de edificación ya obtenida al entrar en vigor un nuevo plan resulta incompatible con las nuevas determinaciones y la edificación NO se ha iniciado, el municipio:",
+      "options": [
+        "Podrá revocar la licencia o permitir la terminación de las obras, quedando el edificio en situación de fuera de ordenación.",
+        "Deberá declarar la caducidad de la licencia sin audiencia del interesado.",
+        "Procederá a la revocación de la licencia.",
+        "Mantendrá la licencia en vigor hasta el término de su plazo de ejecución."
+      ],
+      "correct": 2,
+      "exp": "El art. 233.1.b) TRLUA ordena que, de no haberse iniciado la edificación, se proceda a la revocación de la licencia. La opción de revocar o permitir la terminación quedando el edificio fuera de ordenación es la prevista en la letra a) para el caso de edificación ya iniciada. En cualquiera de los casos se requiere audiencia del interesado y, de acordarse la revocación, se fijará en la misma resolución la indemnización que proceda (art. 233.2).",
+      "fuente": "Art. 233.1.b) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Toda parcelación rústica queda sujeta, conforme al texto refundido de la Ley de Urbanismo de Aragón, a:",
+      "options": [
+        "Licencia urbanística de parcelación en todo caso.",
+        "Comunicación previa al Alcalde con carácter potestativo.",
+        "La exigencia de la declaración previa de la innecesariedad de licencia, salvo las operaciones realizadas en procedimientos de concentración parcelaria.",
+        "Declaración responsable acompañada de proyecto técnico visado."
+      ],
+      "correct": 2,
+      "exp": "El art. 245.2 TRLUA sujeta toda parcelación rústica a la exigencia de la declaración previa de la innecesariedad de licencia, quedando exceptuadas de tal declaración las operaciones realizadas en los procedimientos de concentración parcelaria. La parcelación urbanística, en cambio, queda sujeta a licencia o a la aprobación del proyecto de reparcelación que la contenga (art. 245.1).",
+      "fuente": "Art. 245.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿En qué plazo máximo habrán de otorgarse las licencias urbanísticas?",
+      "options": [
+        "Un mes.",
+        "Dos meses.",
+        "Seis meses.",
+        "Tres meses."
+      ],
+      "correct": 3,
+      "exp": "El art. 238.3 TRLUA dispone que las licencias urbanísticas habrán de otorgarse en el plazo máximo de tres meses. Ese plazo se interrumpe desde la solicitud por el interesado de concesiones, licencias o autorizaciones previas de competencia estatal o autonómica hasta su otorgamiento (art. 231.2).",
+      "fuente": "Art. 238.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "En los supuestos de sujeción a licencia urbanística regulados en el texto refundido de la Ley de Urbanismo de Aragón, transcurrido el plazo de resolución sin haberse notificado ésta, el interesado podrá entender:",
+      "options": [
+        "Estimada su petición por silencio administrativo positivo.",
+        "Desestimada su petición por silencio administrativo.",
+        "Caducado el procedimiento, debiendo presentar nueva solicitud.",
+        "Prorrogado automáticamente el plazo por otros tres meses."
+      ],
+      "correct": 1,
+      "exp": "El art. 239 TRLUA establece que, transcurrido el plazo de resolución sin haberse notificado ésta, el interesado podrá entender desestimada su petición por silencio administrativo, en los términos establecidos en la legislación básica estatal. En las licencias de parcelación y declaraciones de innecesariedad el silencio se entiende igualmente denegatorio (art. 246.4).",
+      "fuente": "Art. 239 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El deber de los propietarios de edificios alcanza hasta la ejecución de los trabajos y obras cuyo importe tiene como límite el del contenido normal del deber de conservación, representado por:",
+      "options": [
+        "La cuarta parte del valor de una construcción de nueva planta con similares características e igual superficie útil.",
+        "Las dos terceras partes del valor de una construcción de nueva planta con similares características e igual superficie útil.",
+        "La mitad del valor de una construcción de nueva planta con similares características e igual superficie útil.",
+        "El setenta y cinco por ciento del valor de una construcción de nueva planta con similares características e igual superficie útil."
+      ],
+      "correct": 2,
+      "exp": "El art. 254.3 TRLUA fija el contenido normal del deber de conservación en la mitad del valor de una construcción de nueva planta, con similares características e igual superficie útil o, en su caso, de dimensiones equivalentes que la preexistente, realizada con las condiciones necesarias para que su ocupación sea autorizable.",
+      "fuente": "Art. 254.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "En la ejecución forzosa de las órdenes de ejecución dictadas para el cumplimiento del deber de conservación, la cuantía de cada multa coercitiva podrá alcanzar hasta:",
+      "options": [
+        "El cinco por ciento del coste estimado de las obras ordenadas.",
+        "El diez por ciento del coste estimado de las obras ordenadas.",
+        "El veinte por ciento del coste estimado de las obras ordenadas.",
+        "El cincuenta por ciento del coste estimado de las obras ordenadas."
+      ],
+      "correct": 1,
+      "exp": "El art. 259.2 TRLUA permite que cada multa coercitiva alcance hasta el diez por ciento del coste estimado de las obras ordenadas. Su periodicidad no puede ser inferior a un mes (art. 259.1) y pueden imponerse hasta alcanzar el importe del coste estimado de las obras ordenadas (art. 259.3).",
+      "fuente": "Art. 259.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Las edificaciones de uso predominantemente residencial con una antigüedad superior a cincuenta años situadas en municipios de más de veinticinco mil habitantes deberán pasar una inspección dirigida a determinar su estado de conservación:",
+      "options": [
+        "Cada cinco años.",
+        "Cada diez años.",
+        "Cada veinte años.",
+        "Cada quince años."
+      ],
+      "correct": 3,
+      "exp": "El art. 260.1 TRLUA impone la inspección periódica cada quince años a las edificaciones de uso predominantemente residencial con antigüedad superior a cincuenta años situadas en municipios de más de veinticinco mil habitantes. Los municipios pueden requerir de los propietarios los informes técnicos resultantes y, si no se han realizado, ordenar su práctica (art. 260.4).",
+      "fuente": "Art. 260.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿En cuál de los siguientes supuestos procede la declaración de la situación legal de ruina de una construcción o edificación?",
+      "options": [
+        "Cuando el coste de las reparaciones necesarias para asegurar la estabilidad, seguridad, estanqueidad y consolidación estructurales, devolver la salubridad o recuperar las condiciones mínimas de uso compatible con el planeamiento supere el límite del deber normal de conservación.",
+        "Cuando el coste de las reparaciones necesarias supere la cuarta parte del valor de la edificación, excluido el suelo.",
+        "Cuando la edificación tenga una antigüedad superior a cincuenta años y no haya pasado la inspección periódica.",
+        "Cuando el coste de las reparaciones necesarias supere el diez por ciento del valor de una construcción de nueva planta equivalente."
+      ],
+      "correct": 0,
+      "exp": "El art. 261.2.a) TRLUA prevé la declaración de la situación legal de ruina cuando el coste de las reparaciones necesarias para asegurar la estabilidad, seguridad, estanqueidad y consolidación estructurales, devolver la salubridad o calidad ambiental o recuperar las condiciones mínimas para un uso compatible con el planeamiento supere el límite del deber normal de conservación. Las letras b) y c) añaden los otros dos supuestos: acumulación con el coste de las obras de la última inspección periódica junto a tendencia al incremento de las inversiones, y necesidad de obras no autorizables por estar el edificio fuera de ordenación o en la situación del art. 269.4.",
+      "fuente": "Art. 261.2.a) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El plazo para la resolución y notificación en el procedimiento de ruina es de seis meses. A falta de notificación de la resolución expresa en dicho plazo:",
+      "options": [
+        "Se entiende declarada la ruina por silencio administrativo positivo en todo caso.",
+        "Se produce la caducidad del procedimiento si se inició de oficio, o se considera desestimada la declaración si se inició a instancia de parte.",
+        "Se produce la caducidad del procedimiento en todo caso, cualquiera que fuese su forma de iniciación.",
+        "Se entiende desestimada la declaración si se inició de oficio, o estimada si se inició a instancia de parte."
+      ],
+      "correct": 1,
+      "exp": "El art. 261.8 TRLUA fija el plazo de seis meses para resolver y notificar en el procedimiento de ruina y anuda a su incumplimiento la caducidad del procedimiento si se inició de oficio, o la desestimación de la declaración si se inició a instancia de parte.",
+      "fuente": "Art. 261.8 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Antes de declarar la ruina de una edificación, el municipio puede adoptar la resolución de rehabilitar o conservar el inmueble, iniciando u ordenando la iniciación de las obras necesarias hasta eliminar el estado físico de ruina en un plazo máximo de:",
+      "options": [
+        "Dos meses.",
+        "Tres meses.",
+        "Un año.",
+        "Seis meses."
+      ],
+      "correct": 3,
+      "exp": "El art. 263.1 TRLUA permite al municipio, antes de declarar la ruina y tanto si el expediente se inició en el procedimiento de una orden de ejecución como en cualquier otro caso, resolver rehabilitar o conservar el inmueble e iniciar u ordenar la iniciación de las obras necesarias en un plazo máximo de seis meses. El propietario sufraga el importe hasta donde alcance su deber de conservación (art. 263.2).",
+      "fuente": "Art. 263.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "En materia de inspección urbanística, los inspectores urbanísticos:",
+      "options": [
+        "Tienen la condición de agentes de la autoridad y pueden solicitar el apoyo necesario de cualquier otra autoridad en su ámbito competencial.",
+        "Tienen la consideración de personal colaborador de las Fuerzas y Cuerpos de Seguridad, sin condición de agentes de la autoridad.",
+        "Sólo pueden actuar acompañados en todo caso de la Policía Local del municipio inspeccionado.",
+        "Pueden entrar libremente en cualquier domicilio sin autorización judicial ni consentimiento del afectado."
+      ],
+      "correct": 0,
+      "exp": "El art. 265.1 TRLUA atribuye a los inspectores urbanísticos la condición de agentes de la autoridad y les permite solicitar el apoyo necesario de cualquier otra autoridad en su ámbito competencial, especialmente de las Fuerzas y Cuerpos de Seguridad del Estado, la Policía Autonómica y las Policías Locales, respetando la intimidad y la inviolabilidad del domicilio; para entrar en un domicilio se requiere autorización judicial salvo consentimiento del afectado.",
+      "fuente": "Art. 265.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Cuando se estuviera realizando un acto de transformación, construcción, edificación o uso del suelo sin título habilitante u orden de ejecución, o contra las condiciones señaladas en los mismos, ¿qué debe hacer el Alcalde?",
+      "options": [
+        "Incoar directamente expediente sancionador sin adoptar medidas cautelares.",
+        "Requerir al interesado para que legalice y, sólo si no lo hace, paralizar las obras.",
+        "Disponer su paralización inmediata y, previa la tramitación del oportuno expediente, adoptar el acuerdo de demolición o de legalización que proceda.",
+        "Dar traslado al Ministerio Fiscal antes de adoptar cualquier medida."
+      ],
+      "correct": 2,
+      "exp": "El art. 268.1 TRLUA ordena al Alcalde disponer la paralización inmediata y, previa la tramitación del oportuno expediente, adoptar alguno de los acuerdos siguientes: decretar la demolición, reconstrucción o cesación definitiva si las obras o usos fueran total o parcialmente incompatibles con la ordenación vigente (letra a), o requerir la legalización si pudieran ser compatibles (letra b).",
+      "fuente": "Art. 268.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Si las obras o usos en curso de ejecución pudieran ser compatibles con la ordenación vigente, el Alcalde requerirá al interesado para que inicie la tramitación del oportuno título habilitante o su modificación en el plazo de:",
+      "options": [
+        "Quince días.",
+        "Dos meses.",
+        "Un mes.",
+        "Tres meses."
+      ],
+      "correct": 1,
+      "exp": "El art. 268.1.b) TRLUA fija un plazo de dos meses para que el interesado inicie la tramitación del oportuno título habilitante o su modificación; en caso de no procederse a la legalización, se decretará la demolición, reconstrucción o cesación definitiva de la obra o del uso, en la parte pertinente, a costa del interesado.",
+      "fuente": "Art. 268.1.b) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Transcurrido qué plazo desde el inicio del procedimiento de protección de la legalidad urbanística sin que se hubiera dictado y notificado resolución expresa se produce la caducidad del mismo?",
+      "options": [
+        "Tres meses.",
+        "Un año.",
+        "Seis meses.",
+        "Dos años."
+      ],
+      "correct": 2,
+      "exp": "Los arts. 268.3 y 269.6 TRLUA establecen, respectivamente para obras en curso de ejecución y para obras terminadas, que transcurridos seis meses desde el inicio del procedimiento de protección de la legalidad urbanística sin haberse dictado y notificado resolución expresa se produce la caducidad del procedimiento.",
+      "fuente": "Art. 268.3 TRLUA (y art. 269.6) (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Concluido un acto de edificación o uso del suelo sin título habilitante u orden de ejecución, o contra sus condiciones, el Alcalde adoptará los acuerdos de restauración de la legalidad:",
+      "options": [
+        "En el plazo de cuatro años a contar desde la total terminación de las obras, en todo caso.",
+        "En el plazo de seis años a contar desde la total terminación de las obras, en todo caso.",
+        "Sin sujeción a plazo alguno en todos los supuestos.",
+        "Dentro del plazo de prescripción de la correspondiente infracción urbanística, a contar desde la total terminación de las obras."
+      ],
+      "correct": 3,
+      "exp": "El art. 269.1 TRLUA remite al plazo de prescripción de la correspondiente infracción urbanística, contado desde la total terminación de las obras. Salvo prueba en contrario, se presume como fecha de finalización la de comprobación de esa circunstancia por la Administración (art. 269.2).",
+      "fuente": "Art. 269.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Si la edificación terminada sin título habilitante se realizó sobre terrenos calificados en el planeamiento como sistemas generales, zonas verdes o espacios libres, o sobre suelo no urbanizable especial del art. 18 TRLUA, el Alcalde adoptará los acuerdos de restauración de la legalidad:",
+      "options": [
+        "En el plazo de diez años desde la total terminación de las obras.",
+        "En el plazo de quince años desde la total terminación de las obras.",
+        "Sin limitación alguna de plazo, sin perjuicio de dar traslado al Ministerio Fiscal por si pudieran ser constitutivos de delito.",
+        "En el plazo de cuatro años desde que aparezcan signos externos de la infracción."
+      ],
+      "correct": 2,
+      "exp": "El art. 269.3 TRLUA (en su redacción dada por el art. único.5 de la Ley 2/2023, de 9 de febrero) dispone que en esos supuestos el Alcalde adoptará los acuerdos del art. 268.1 sin limitación alguna de plazo, sin perjuicio de dar traslado al Ministerio Fiscal por si pudieran ser constitutivos de delito.",
+      "fuente": "Art. 269.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El mero transcurso del plazo para adoptar las medidas de restauración de la legalidad respecto de obras terminadas sin título habilitante:",
+      "options": [
+        "Conlleva la legalización automática de las obras realizadas.",
+        "No conlleva la legalización de las obras y, en tanto persista la transgresión del ordenamiento urbanístico, impide obras de reforma, ampliación o consolidación de lo ilegalmente construido, aunque permite las pequeñas reparaciones exigidas por razones de seguridad e higiene.",
+        "No conlleva la legalización, pero permite cualquier obra de consolidación y ampliación del inmueble.",
+        "Obliga al municipio a otorgar licencia de legalización a solicitud del interesado."
+      ],
+      "correct": 1,
+      "exp": "El art. 269.4 TRLUA precisa que el mero transcurso del plazo del apartado primero no conlleva la legalización de las obras realizadas y, en consecuencia, no podrán llevarse a cabo obras de reforma, ampliación o consolidación de lo ilegalmente construido mientras persista la transgresión del ordenamiento urbanístico, pero sí las pequeñas reparaciones exigidas por razones de seguridad e higiene.",
+      "fuente": "Art. 269.4 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuál es el plazo máximo para el cumplimiento, voluntario o forzoso, de las medidas de restablecimiento de la legalidad urbanística?",
+      "options": [
+        "Dos años desde que adquiera firmeza administrativa el acto que las acuerde.",
+        "Cuatro años desde que adquiera firmeza administrativa el acto que las acuerde.",
+        "Diez años desde que adquiera firmeza administrativa el acto que las acuerde.",
+        "Seis años desde que adquiera firmeza administrativa el acto que las acuerde."
+      ],
+      "correct": 3,
+      "exp": "El art. 270.3 TRLUA fija en seis años, desde que adquiera firmeza administrativa el acto que las acuerde, el plazo máximo para el cumplimiento voluntario o forzoso de las medidas de restablecimiento. Transcurrido ese plazo, las instalaciones, construcciones o edificaciones quedan en la situación urbanística del art. 269.4, sin que ello comporte la cancelación de la inscripción de la orden de demolición en el Registro de la Propiedad.",
+      "fuente": "Art. 270.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El Alcalde dispondrá la suspensión de los efectos de los títulos habilitantes de naturaleza urbanística, órdenes de ejecución o instrumentos de ejecución, y la paralización inmediata de las obras iniciadas a su amparo, cuando su contenido constituya manifiestamente:",
+      "options": [
+        "Una infracción urbanística grave o muy grave.",
+        "Cualquier infracción urbanística, incluidas las leves.",
+        "Únicamente una infracción urbanística muy grave.",
+        "Una infracción urbanística leve o grave."
+      ],
+      "correct": 0,
+      "exp": "El art. 271.1 TRLUA exige que el contenido de dichos actos o acuerdos constituya manifiestamente una infracción urbanística grave o muy grave. Adoptado el acuerdo de suspensión, el Alcalde debe dar traslado directo del mismo al órgano judicial competente en el plazo de diez días (art. 271.2).",
+      "fuente": "Art. 271.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Acordada la suspensión de los efectos de un título habilitante de naturaleza urbanística, ¿en qué plazo debe el Alcalde dar traslado directo del acuerdo al órgano judicial competente?",
+      "options": [
+        "Cinco días.",
+        "Un mes.",
+        "Quince días.",
+        "Diez días."
+      ],
+      "correct": 3,
+      "exp": "El art. 271.2 TRLUA obliga al Alcalde a dar traslado directo del acuerdo de suspensión al órgano judicial competente en el plazo de diez días, a los efectos previstos en la Ley reguladora de la Jurisdicción Contencioso-administrativa.",
+      "fuente": "Art. 271.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al texto refundido de la Ley de Urbanismo de Aragón, las licencias u órdenes de ejecución otorgadas con infracción de la zonificación o uso urbanístico de los terrenos destinados a sistemas generales, zonas verdes o espacios libres previstos en los planes son:",
+      "options": [
+        "Anulables, pudiendo ser convalidadas por el Ayuntamiento Pleno.",
+        "Nulas de pleno derecho.",
+        "Válidas, sin perjuicio de la responsabilidad patrimonial de la Administración.",
+        "Revocables únicamente en el plazo de cuatro años desde su otorgamiento."
+      ],
+      "correct": 1,
+      "exp": "El art. 273.3 TRLUA declara nulas de pleno derecho las licencias u órdenes de ejecución que se otorgaren con infracción de la zonificación o uso urbanístico de los terrenos destinados a sistemas generales, zonas verdes o espacios libres previstos en los planes.",
+      "fuente": "Art. 273.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Las infracciones urbanísticas leves serán sancionadas con multa de:",
+      "options": [
+        "Trescientos a tres mil euros.",
+        "Seiscientos a seis mil euros.",
+        "Mil a diez mil euros.",
+        "Seiscientos a doce mil euros."
+      ],
+      "correct": 1,
+      "exp": "El art. 277 TRLUA establece que las infracciones administrativas leves serán sancionadas con multa de seiscientos a seis mil euros, y enumera a continuación sus tipos, entre ellos la realización de actos de edificación o uso del suelo sin título habilitante cuando sean legalizables por ser conformes con el ordenamiento urbanístico o tengan escasa entidad.",
+      "fuente": "Art. 277 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Las infracciones urbanísticas graves serán sancionadas con multa de:",
+      "options": [
+        "Seis mil euros y un céntimo a treinta mil euros.",
+        "Diez mil euros y un céntimo a cien mil euros.",
+        "Seis mil euros y un céntimo a sesenta mil euros.",
+        "Seis mil euros y un céntimo a ciento cincuenta mil euros."
+      ],
+      "correct": 2,
+      "exp": "El art. 278 TRLUA sanciona las infracciones administrativas graves con multa de seis mil euros y un céntimo a sesenta mil euros. Entre ellas se incluye la ejecución de edificaciones excediéndose de la edificabilidad, de las condiciones de volumen o de la altura máxima del planeamiento en más de un diez por ciento (letra c, reglas 1.ª y 3.ª).",
+      "fuente": "Art. 278 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Las infracciones urbanísticas muy graves serán sancionadas con multa de:",
+      "options": [
+        "Sesenta mil euros y un céntimo a trescientos mil euros.",
+        "Sesenta mil euros y un céntimo a seiscientos mil euros.",
+        "Cien mil euros y un céntimo a un millón de euros.",
+        "Sesenta mil euros y un céntimo a ciento cincuenta mil euros."
+      ],
+      "correct": 0,
+      "exp": "El art. 279 TRLUA sanciona las infracciones administrativas muy graves con multa de sesenta mil euros y un céntimo a trescientos mil euros. Son muy graves, entre otras, las parcelaciones urbanísticas en suelo urbanizable no delimitado y en suelo no urbanizable que pudieran dar lugar a la constitución de un núcleo de población (letra a).",
+      "fuente": "Art. 279 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "En las infracciones en materia de urbanización, uso del suelo y edificación, ¿quiénes son responsables conforme al texto refundido de la Ley de Urbanismo de Aragón?",
+      "options": [
+        "Únicamente el promotor y el constructor.",
+        "Los propietarios de las edificaciones o instalaciones.",
+        "Las empresas suministradoras de los servicios.",
+        "La junta de compensación, el urbanizador, el promotor, el constructor y los técnicos directores."
+      ],
+      "correct": 3,
+      "exp": "El art. 280.1 TRLUA declara responsables, en las infracciones en materia de urbanización, uso del suelo y edificación, a la junta de compensación, el urbanizador, el promotor, el constructor y los técnicos directores. Los propietarios responden de las infracciones al deber de conservación (art. 280.4) y las empresas suministradoras del incumplimiento de las obligaciones de exigir licencia y suspender los suministros (art. 280.3).",
+      "fuente": "Art. 280.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Cuando se ejecutan actos de edificación o uso del suelo al amparo de actos administrativos ilegales cuyo contenido es constitutivo de una infracción urbanística grave o muy grave, ¿quiénes responden además de los sujetos ordinarios?",
+      "options": [
+        "Los facultativos y los miembros de la corporación que hubieran informado o votado a favor o adoptado el acuerdo de otorgamiento, mediando dolo, culpa o negligencia grave en su actuación.",
+        "Los facultativos y los miembros de la corporación que hubieran informado o votado a favor, con independencia de que mediara o no dolo, culpa o negligencia grave.",
+        "Exclusivamente el Alcalde que firmó el acto administrativo ilegal.",
+        "Únicamente el secretario y el interventor municipales que informaron el expediente."
+      ],
+      "correct": 0,
+      "exp": "El art. 280.6 TRLUA extiende la responsabilidad a los facultativos y a los miembros de la corporación que hubieran informado o votado a favor o adoptado el acuerdo de otorgamiento del acto administrativo ilegal, exigiendo que medie dolo, culpa o negligencia grave en su actuación.",
+      "fuente": "Art. 280.6 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Los plazos de prescripción de las infracciones urbanísticas en Aragón son:",
+      "options": [
+        "Seis meses las leves, dos años las graves y cuatro años las muy graves.",
+        "Un año las leves, dos años las graves y cuatro años las muy graves.",
+        "Un año las leves, cuatro años las graves y diez años las muy graves.",
+        "Dos años las leves, cuatro años las graves y ocho años las muy graves."
+      ],
+      "correct": 2,
+      "exp": "El art. 284.1 TRLUA fija el plazo de prescripción en un año para las infracciones leves, cuatro años para las graves y diez años para las muy graves. El plazo se computa desde la fecha en que se hubieran cometido los hechos o, si fuere desconocida, desde la fecha en que hubiera podido incoarse el procedimiento sancionador, entendiéndose que no ha podido incoarse mientras no aparezcan signos externos que permitan conocer los hechos (art. 284.2).",
+      "fuente": "Art. 284.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al texto refundido de la Ley de Urbanismo de Aragón, las sanciones impuestas por faltas urbanísticas prescriben:",
+      "options": [
+        "Las muy graves a los tres años de su imposición, las graves a los dos años y las leves al año.",
+        "Las muy graves a los cuatro años de su imposición, las graves a los dos años y las leves al año.",
+        "Las muy graves a los diez años de su imposición, las graves a los cuatro años y las leves al año.",
+        "Las muy graves a los cinco años de su imposición, las graves a los tres años y las leves a los dos años."
+      ],
+      "correct": 0,
+      "exp": "El art. 284.5 TRLUA establece que las sanciones impuestas por faltas muy graves prescriben a los tres años de su imposición, las impuestas por faltas graves a los dos años y las impuestas por faltas leves al año. No deben confundirse con los plazos de prescripción de las infracciones del art. 284.1 (uno, cuatro y diez años).",
+      "fuente": "Art. 284.5 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿A qué órgano municipal corresponde sancionar las infracciones urbanísticas graves y muy graves?",
+      "options": [
+        "Al Alcalde, correspondiendo al Ayuntamiento Pleno sancionar las leves.",
+        "A la Junta de Gobierno Local, cualquiera que sea la gravedad de la infracción.",
+        "Al Ayuntamiento Pleno, correspondiendo al Alcalde sancionar las leves.",
+        "Al Consejero competente en materia de urbanismo, en todo caso."
+      ],
+      "correct": 2,
+      "exp": "El art. 285.1 TRLUA atribuye al Alcalde la sanción de las infracciones leves y al Ayuntamiento Pleno la de las graves y muy graves. El órgano comarcal competente puede subrogarse en las competencias sancionadoras por infracciones graves y muy graves cuando, tras requerir al municipio, éste no incoe el expediente en el plazo del mes siguiente o lo mantenga paralizado más de tres meses (art. 285.2).",
+      "fuente": "Art. 285.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Si con posterioridad a la imposición de la multa, pero antes del inicio del procedimiento de apremio, el obligado procede a la completa y voluntaria reposición de la realidad física ilegalmente alterada y a la reparación de los daños causados, la Administración actuante condonará la multa en:",
+      "options": [
+        "El veinticinco por ciento de su cuantía.",
+        "El treinta por ciento de su cuantía.",
+        "El setenta y cinco por ciento de su cuantía.",
+        "El cincuenta por ciento de su cuantía."
+      ],
+      "correct": 3,
+      "exp": "El art. 287.1 TRLUA prevé la condonación del cincuenta por ciento de la cuantía de la multa, previa comprobación fehaciente del cumplimiento de las obligaciones del interesado. La condonación la acuerda, a solicitud del interesado, el órgano que dictó la resolución sancionadora (art. 287.2).",
+      "fuente": "Art. 287.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    }
+  ]
+}

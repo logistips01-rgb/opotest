@@ -1,0 +1,526 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 20,
+  "preguntas": [
+    {
+      "q": "Según el texto refundido de la Ley de Urbanismo de Aragón, la previsión de edificabilidad por la ordenación territorial y urbanística:",
+      "options": [
+        "Por sí misma no se integra en el contenido del derecho de propiedad del suelo; la patrimonialización de la edificabilidad se produce únicamente con su realización efectiva y está condicionada al cumplimiento de los deberes y al levantamiento de las cargas propias del régimen que corresponda",
+        "Se integra automáticamente en el contenido del derecho de propiedad del suelo desde la aprobación definitiva del plan",
+        "Se integra en el contenido del derecho de propiedad del suelo desde la publicación del plan en el «Boletín Oficial de Aragón»",
+        "Se integra en el contenido del derecho de propiedad del suelo desde la aprobación del proyecto de urbanización correspondiente"
+      ],
+      "correct": 0,
+      "exp": "El art. 10.2 TRLUA dispone que la previsión de edificabilidad, por sí misma, no la integra en el contenido del derecho de propiedad del suelo, y que la patrimonialización se produce únicamente con su realización efectiva, condicionada en todo caso al cumplimiento de los deberes y al levantamiento de las cargas.",
+      "fuente": "Art. 10.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuáles son las clases y categorías de suelo que establece el art. 11.1 del TRLUA?",
+      "options": [
+        "Suelo urbano (consolidado o no consolidado), suelo urbanizable (sectorizado o no sectorizado) y suelo rústico (protegido o común)",
+        "Suelo urbano (consolidado o no consolidado), suelo urbanizable (delimitado o no delimitado) y suelo no urbanizable (especial o genérico)",
+        "Suelo urbano (consolidado o no consolidado), suelo urbanizable (programado o no programado) y suelo no urbanizable (especial o genérico)",
+        "Suelo urbano (edificado o sin edificar), suelo urbanizable (delimitado o no delimitado) y suelo no urbanizable (protegido o común)"
+      ],
+      "correct": 1,
+      "exp": "El art. 11.1 TRLUA enumera: a) suelo urbano, consolidado o no consolidado; b) suelo urbanizable, delimitado o no delimitado; c) suelo no urbanizable, especial o genérico.",
+      "fuente": "Art. 11.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 11.1 del TRLUA, la clasificación de todo el suelo del término municipal, incluido el destinado a sistemas generales, corresponde:",
+      "options": [
+        "Al plan parcial",
+        "Al plan especial",
+        "Al plan general",
+        "A las directrices de ordenación del territorio"
+      ],
+      "correct": 2,
+      "exp": "El art. 11.1 TRLUA atribuye al plan general la clasificación de todo el suelo del término municipal, incluido el destinado a sistemas generales, en las clases y categorías que enumera.",
+      "fuente": "Art. 11.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "En los municipios que carezcan de plan general, el suelo que no tenga la condición de urbano tendrá la consideración de:",
+      "options": [
+        "Suelo urbanizable delimitado",
+        "Suelo urbanizable no delimitado",
+        "Suelo no urbanizable especial",
+        "Suelo no urbanizable"
+      ],
+      "correct": 3,
+      "exp": "El art. 11.3 TRLUA establece que en los municipios que carezcan de plan general, el suelo que no tenga la condición de urbano tendrá la consideración de suelo no urbanizable.",
+      "fuente": "Art. 11.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "A los efectos del art. 12.a) del TRLUA, ¿qué se entiende por servicios urbanísticos suficientes para atribuir la condición de suelo urbano?",
+      "options": [
+        "Red viaria con un nivel de consolidación suficiente para permitir la conectividad con la trama viaria básica municipal, servicios de abastecimiento y evacuación de agua, suministro de energía eléctrica, servicios de telecomunicaciones y gestión de residuos",
+        "Servicios de abastecimiento y evacuación de agua, suministro de energía eléctrica y alumbrado público, sin que sean exigibles telecomunicaciones ni gestión de residuos",
+        "Únicamente acceso rodado pavimentado, abastecimiento de agua y suministro de energía eléctrica",
+        "Red viaria, abastecimiento y evacuación de agua, energía eléctrica, telecomunicaciones, gestión de residuos y equipamientos educativos y deportivos"
+      ],
+      "correct": 0,
+      "exp": "El art. 12.a) TRLUA define los servicios urbanísticos suficientes como red viaria con nivel de consolidación suficiente para la conectividad con la trama viaria básica municipal, abastecimiento y evacuación de agua, suministro de energía eléctrica, servicios de telecomunicaciones y gestión de residuos, de características adecuadas para servir a la edificación existente o a construir.",
+      "fuente": "Art. 12.a) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Respecto de los terrenos que carecen de alguna de las infraestructuras o servicios pero pueden llegar a contar con ellos sin otras obras que las de conexión con las instalaciones preexistentes, el art. 12.b) del TRLUA precisa que, con carácter general, no podrán considerarse a estos efectos:",
+      "options": [
+        "Los caminos rurales ni las vías de servicio agrarias",
+        "Las carreteras de circunvalación ni las vías de comunicación interurbanas",
+        "Las travesías urbanas ni los viales de titularidad autonómica",
+        "Las vías pecuarias ni las carreteras de titularidad provincial"
+      ],
+      "correct": 1,
+      "exp": "El art. 12.b) TRLUA excluye expresamente, con carácter general, las carreteras de circunvalación y las vías de comunicación interurbanas a efectos de considerar la mera conexión con instalaciones preexistentes.",
+      "fuente": "Art. 12.b) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 12.c) del TRLUA permite considerar suelo urbano los terrenos que el plan general incluya en áreas consolidadas por la edificación, al menos, en:",
+      "options": [
+        "La mitad de su superficie edificable",
+        "Tres cuartas partes de su superficie edificable",
+        "Las dos terceras partes de su superficie edificable",
+        "Dos quintas partes de su superficie edificable"
+      ],
+      "correct": 2,
+      "exp": "El art. 12.c) TRLUA exige que las áreas estén consolidadas por la edificación, al menos, en las dos terceras partes de su superficie edificable, siempre que la parte edificada reúna o vaya a reunir los requisitos del apartado a) y se trate de espacios homogéneos integrados en la malla urbana.",
+      "fuente": "Art. 12.c) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 13.2 del TRLUA, tendrán la condición de suelo urbano no consolidado:",
+      "options": [
+        "Los terrenos de suelo urbano que carezcan de alguno de los servicios urbanísticos suficientes",
+        "Los terrenos de suelo urbano no edificados y que carezcan de alineaciones y rasantes señaladas",
+        "Los terrenos de suelo urbano en los que el plan general prevea actuaciones aisladas de edificación",
+        "Los terrenos de suelo urbano que soporten actuaciones urbanísticas integradas, sean de nueva urbanización o de intervención sobre suelos consolidados total o parcialmente por la edificación, conforme al artículo 118 de la Ley"
+      ],
+      "correct": 3,
+      "exp": "El art. 13.2 TRLUA define el suelo urbano no consolidado como el que soporta actuaciones urbanísticas integradas, de nueva urbanización o de intervención sobre suelos consolidados total o parcialmente por la edificación, conforme al art. 118 de la propia Ley.",
+      "fuente": "Art. 13.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El suelo urbano que el plan general no defina como no consolidado tendrá la consideración de:",
+      "options": [
+        "Suelo urbano consolidado",
+        "Suelo urbano no consolidado, por aplicación del criterio residual",
+        "Suelo urbanizable delimitado",
+        "Suelo no urbanizable genérico"
+      ],
+      "correct": 0,
+      "exp": "El art. 13.3 TRLUA establece que el suelo urbano que el plan general no defina como no consolidado tendrá la consideración de suelo urbano consolidado.",
+      "fuente": "Art. 13.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Entre los requisitos que el art. 14.1 del TRLUA exige para que una superficie de suelo urbano tenga la consideración de solar figura:",
+      "options": [
+        "Que tenga una superficie igual o superior a la parcela mínima fijada por el plan general",
+        "Que, para edificarlos, no se deban ceder terrenos para destinarlos a calles o a vías con vistas a regularizar alineaciones o a completar la red viaria",
+        "Que exista licencia de obras en vigor sobre la parcela",
+        "Que los terrenos hayan sido objeto de reparcelación aprobada e inscrita en el Registro de la Propiedad"
+      ],
+      "correct": 1,
+      "exp": "El art. 14.1.c) TRLUA incluye entre los requisitos del solar que, para edificarlo, no se deban ceder terrenos para destinarlos a calles o a vías con vistas a regularizar alineaciones o a completar la red viaria.",
+      "fuente": "Art. 14.1.c) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Cuando el planeamiento urbanístico no especifica las determinaciones y normas técnicas de urbanización, el art. 14.1.a) del TRLUA exige, para la condición de solar, que la superficie disponga de los servicios urbanísticos básicos del art. 12.a) en condiciones de caudal y potencia adecuadas a los usos permitidos, y además:",
+      "options": [
+        "De red de gas canalizado, y que confronte con una vía pavimentada",
+        "De alumbrado público, sin que sea exigible que confronte con vía pavimentada alguna",
+        "De alumbrado público, y que confronte con una vía pavimentada y adecuada para el tránsito de peatones y vehículos rodados",
+        "De zonas verdes y plazas de aparcamiento público en la propia parcela"
+      ],
+      "correct": 2,
+      "exp": "El art. 14.1.a) TRLUA exige, además de los servicios urbanísticos básicos del art. 12.a) en condiciones adecuadas de caudal y potencia, alumbrado público y que la superficie confronte con una vía pavimentada y adecuada para el tránsito de peatones y vehículos rodados.",
+      "fuente": "Art. 14.1.a) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 14.2 del TRLUA, los terrenos incluidos en suelo urbano no consolidado y en suelo urbanizable sólo podrán alcanzar la condición de solar cuando:",
+      "options": [
+        "Se haya aprobado definitivamente el plan parcial y el proyecto de reparcelación del ámbito",
+        "Se haya prestado la garantía del importe de las obras de urbanización ante el municipio",
+        "Se haya iniciado la ejecución de las obras de urbanización interiores del sector o unidad de ejecución",
+        "Se hayan ejecutado y recibido conforme al planeamiento urbanístico las obras de urbanización exigibles, incluidas las necesarias para la conexión con los sistemas generales existentes y para la ampliación o el refuerzo de éstos, en su caso"
+      ],
+      "correct": 3,
+      "exp": "El art. 14.2 TRLUA condiciona la adquisición de la condición de solar en suelo urbano no consolidado y urbanizable a la ejecución y recepción de las obras de urbanización exigibles, incluidas las de conexión con los sistemas generales existentes y las de ampliación o refuerzo de éstos.",
+      "fuente": "Art. 14.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué terrenos tendrán la consideración de suelo urbanizable conforme al art. 15.1 del TRLUA?",
+      "options": [
+        "Los clasificados como tales en el planeamiento por prever su posible transformación, a través de la dotación de servicios urbanísticos suficientes, de conformidad con el modelo de evolución urbana y ocupación del territorio resultante de la ordenación estructural",
+        "Los que cuenten con servicios urbanísticos suficientes o puedan llegar a contar con ellos sin otras obras que las de conexión con las instalaciones preexistentes",
+        "Los que el plan general, de forma motivada, no considere transformables en urbanos de acuerdo con el modelo de evolución urbana fijado",
+        "Los consolidados por la edificación, al menos, en las dos terceras partes de su superficie edificable"
+      ],
+      "correct": 0,
+      "exp": "El art. 15.1 TRLUA define el suelo urbanizable como el clasificado como tal por prever su posible transformación mediante la dotación de servicios urbanísticos suficientes, conforme al modelo de evolución urbana y ocupación del territorio resultante de la ordenación estructural. Las restantes opciones corresponden al suelo urbano (arts. 12.b) y 12.c)) y al no urbanizable (art. 16.1.d)).",
+      "fuente": "Art. 15.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 15.3 del TRLUA, tendrán la consideración de suelo urbanizable delimitado:",
+      "options": [
+        "Los sectores para los que ya se haya aprobado definitivamente el plan parcial",
+        "Los sectores de urbanización prioritaria previstos por el plan general",
+        "Los sectores incluidos en el primer cuatrienio del programa de actuación del plan general",
+        "Los sectores que cuenten con declaración municipal de viabilidad de la transformación"
+      ],
+      "correct": 1,
+      "exp": "El art. 15.3 TRLUA considera suelo urbanizable delimitado los sectores de urbanización prioritaria previstos por el plan general; todo el suelo urbanizable restante tiene la consideración de no delimitado.",
+      "fuente": "Art. 15.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 16.1 del TRLUA, se clasificarán como suelo no urbanizable, entre otros:",
+      "options": [
+        "Los terrenos que el plan general destine a sistemas generales de espacios libres",
+        "Los terrenos integrantes del patrimonio público de suelo del municipio",
+        "Los terrenos que no resulten susceptibles de transformación urbanística por la peligrosidad para la seguridad de las personas y los bienes motivada por la existencia de riesgos de cualquier índole",
+        "Los terrenos que, en ejecución del planeamiento, hayan sido urbanizados de acuerdo con el mismo"
+      ],
+      "correct": 2,
+      "exp": "El art. 16.1.b) TRLUA incluye entre las circunstancias que determinan la clasificación como suelo no urbanizable la no susceptibilidad de transformación urbanística por la peligrosidad para la seguridad de las personas y los bienes derivada de riesgos de cualquier índole. La última opción corresponde al suelo urbano (art. 12.d)).",
+      "fuente": "Art. 16.1.b) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué categorías se distinguen en el suelo no urbanizable conforme al art. 16.2 del TRLUA?",
+      "options": [
+        "Protegido y común",
+        "Delimitado y no delimitado",
+        "Consolidado y no consolidado",
+        "Genérico y especial"
+      ],
+      "correct": 3,
+      "exp": "El art. 16.2 TRLUA establece que en el suelo no urbanizable se distinguirán las categorías de suelo no urbanizable genérico y suelo no urbanizable especial.",
+      "fuente": "Art. 16.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El suelo no urbanizable genérico es, conforme al art. 17.2 del TRLUA:",
+      "options": [
+        "La clase y categoría residual",
+        "Una categoría aplicable exclusivamente en los municipios que carezcan de plan general",
+        "La categoría reservada a los terrenos protegidos por la legislación sectorial",
+        "Una subcategoría del suelo urbanizable no delimitado"
+      ],
+      "correct": 0,
+      "exp": "El art. 17.2 TRLUA declara expresamente que el suelo no urbanizable genérico será la clase y categoría residual; el art. 17.1 añade que lo constituye el clasificado y calificado como tal por el plan general de ordenación urbana.",
+      "fuente": "Art. 17.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Tendrán la consideración de suelo no urbanizable especial en todo caso los terrenos del suelo no urbanizable enumerados en:",
+      "options": [
+        "El art. 16.1, apartados c) y d)",
+        "El art. 16.1, apartados a) y b)",
+        "El art. 16.1, apartado d), exclusivamente",
+        "El art. 16.1, apartados b) y c)"
+      ],
+      "correct": 1,
+      "exp": "El art. 18 TRLUA atribuye en todo caso el carácter de suelo no urbanizable especial a los terrenos enumerados en el art. 16.1, apartados a) (suelo preservado por legislación de protección o policía del dominio público, medioambiental, de patrimonio cultural u otra sectorial) y b) (terrenos afectados por riesgos).",
+      "fuente": "Art. 18 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Los terrenos preservados de su transformación urbanística por los valores en ellos concurrentes (art. 16.1.c) TRLUA) tendrán la consideración de suelo no urbanizable especial:",
+      "options": [
+        "En todo caso, por imperativo legal directo",
+        "Cuando así lo acuerde el Consejo Provincial de Urbanismo al informar el plan general",
+        "Cuando el plan general les reconozca este carácter al haberse puesto de manifiesto los valores en ellos concurrentes en un instrumento de planificación ambiental, territorial o cultural",
+        "Cuando lo solicite el propietario y lo apruebe el Ayuntamiento Pleno"
+      ],
+      "correct": 2,
+      "exp": "El art. 18 TRLUA, tras atribuir el carácter especial en todo caso a los terrenos del art. 16.1.a) y b), añade que también lo tendrán los del art. 16.1.c) cuando el plan general les reconozca ese carácter al haberse puesto de manifiesto los valores concurrentes en un instrumento de planificación ambiental, territorial o cultural.",
+      "fuente": "Art. 18 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Entre los derechos del ciudadano cuya promoción impone el art. 19 del TRLUA a las Administraciones públicas figura:",
+      "options": [
+        "El derecho a obtener la aprobación del plan parcial que formule en el plazo máximo de tres meses",
+        "El derecho a la exención de las cargas de urbanización en suelo urbano consolidado",
+        "El derecho a percibir indemnización por la clasificación de sus terrenos como suelo no urbanizable",
+        "El derecho al ejercicio de la acción pública ante los órganos administrativos y la Jurisdicción Contencioso-administrativa, mediante los correspondientes recursos o acciones, para exigir la observancia de la legislación y el planeamiento reguladores de la actividad urbanística"
+      ],
+      "correct": 3,
+      "exp": "El art. 19.j) TRLUA reconoce entre los derechos del ciudadano el ejercicio de la acción pública ante los órganos administrativos y la Jurisdicción Contencioso-administrativa para exigir la observancia de la legislación y el planeamiento urbanísticos.",
+      "fuente": "Art. 19.j) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Las obligaciones que el art. 25 del TRLUA impone a los promotores de actuaciones de urbanización, sean o no propietarios del suelo afectado, se establecen en:",
+      "options": [
+        "Suelo urbano no consolidado y suelo urbanizable delimitado",
+        "Suelo urbano consolidado y suelo urbanizable no delimitado",
+        "Toda clase de suelo, incluido el suelo no urbanizable genérico",
+        "Suelo urbanizable delimitado y no delimitado, exclusivamente"
+      ],
+      "correct": 0,
+      "exp": "El art. 25 TRLUA encabeza la enumeración de obligaciones del promotor refiriéndolas al suelo urbano no consolidado y al suelo urbanizable delimitado, sean o no propietarios del suelo afectado.",
+      "fuente": "Art. 25 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 25.e) del TRLUA, el promotor está obligado a ceder obligatoria y gratuitamente al municipio, con destino a patrimonio público de suelo:",
+      "options": [
+        "El quince por ciento de la superficie total del sector, ya urbanizada",
+        "El suelo libre de cargas de urbanización donde se ubique el aprovechamiento subjetivo correspondiente a la Administración conforme a esta Ley y al planeamiento aplicable",
+        "Los terrenos destinados por la ordenación urbanística a las dotaciones locales y a los sistemas generales incluidos o adscritos al sector",
+        "El diez por ciento del aprovechamiento medio del área de reparto, sustituible en metálico en todo caso"
+      ],
+      "correct": 1,
+      "exp": "El art. 25.e) TRLUA obliga a ceder obligatoria y gratuitamente al municipio, con destino a patrimonio público de suelo, el suelo libre de cargas de urbanización donde se ubique el aprovechamiento subjetivo correspondiente a la Administración. La cesión de los terrenos de dotaciones locales y sistemas generales es la obligación de la letra d) del mismo artículo.",
+      "fuente": "Art. 25.e) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "La consulta al municipio sobre la viabilidad de la delimitación y transformación urbanística regulada en el art. 26 del TRLUA puede plantearse por cualesquiera interesados respecto de terrenos clasificados como:",
+      "options": [
+        "Suelo urbano no consolidado",
+        "Suelo urbanizable delimitado",
+        "Suelo urbanizable no delimitado",
+        "Suelo no urbanizable genérico"
+      ],
+      "correct": 2,
+      "exp": "El art. 26.1 TRLUA regula la consulta para la promoción de suelo urbanizable no delimitado: cualesquiera interesados en promover su transformación o urbanización podrán plantear al municipio consulta sobre la viabilidad de la delimitación y transformación pretendida.",
+      "fuente": "Art. 26.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué órgano municipal debe optar motivadamente, a los efectos de evacuar la consulta del art. 26 del TRLUA, entre declarar la viabilidad o la inviabilidad de la delimitación y transformación objeto de consulta?",
+      "options": [
+        "El Alcalde",
+        "La Junta de Gobierno Local",
+        "El Consejo Provincial de Urbanismo",
+        "El Ayuntamiento Pleno"
+      ],
+      "correct": 3,
+      "exp": "El art. 26.3 TRLUA atribuye al Ayuntamiento Pleno la valoración de la pertinencia de la transformación y la opción motivada entre la declaración de viabilidad o la declaración motivada de inviabilidad de la iniciativa objeto de consulta.",
+      "fuente": "Art. 26.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿En qué plazo debe evacuarse la consulta del art. 26 del TRLUA y qué efecto tiene su incumplimiento?",
+      "options": [
+        "Tres meses desde la presentación en debida forma de la solicitud; transcurrido el plazo sin notificación de resolución alguna, podrá entenderse resuelta la consulta, considerándose viable la delimitación y transformación",
+        "Un mes desde la presentación de la solicitud; el silencio determina la inviabilidad de la delimitación",
+        "Dos meses desde la presentación de la solicitud; el silencio obliga al interesado a reiterar la solicitud",
+        "Seis meses desde la presentación de la solicitud; el silencio determina la inviabilidad de la delimitación"
+      ],
+      "correct": 0,
+      "exp": "El art. 26.4 TRLUA fija el plazo de tres meses desde la presentación en debida forma de la solicitud y determina que, transcurrido sin notificación de resolución alguna, podrá entenderse resuelta la consulta considerándose viable la delimitación y transformación; el plazo queda suspendido si el municipio reclama informe al Consejo Provincial de Urbanismo.",
+      "fuente": "Art. 26.4 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Publicado el acuerdo municipal que declara la viabilidad de la delimitación y transformación objeto de consulta, ¿de qué plazo se dispone, a partir de la última publicación, para presentar los instrumentos precisos para la dotación de servicios urbanísticos suficientes?",
+      "options": [
+        "Tres meses",
+        "Un año",
+        "Dos años",
+        "Cuatro años"
+      ],
+      "correct": 1,
+      "exp": "El art. 26.5 TRLUA establece que el acuerdo se publicará en el «Boletín Oficial de Aragón» y en un periódico local de amplia difusión, iniciándose a partir de la última publicación un plazo de un año para presentar los instrumentos precisos, quedando el municipio vinculado por su respuesta.",
+      "fuente": "Art. 26.5 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El informe favorable del Consejo Provincial de Urbanismo recabado y obtenido por el municipio antes de responder a la consulta del art. 26 del TRLUA producirá efecto durante:",
+      "options": [
+        "Un año, salvo que antes de dicho plazo se revise el plan general",
+        "Dos años, salvo que antes de dicho plazo se revise el plan general",
+        "Cuatro años, salvo que antes de dicho plazo se revise el plan general",
+        "Seis años, salvo que antes de dicho plazo se revise el plan general"
+      ],
+      "correct": 2,
+      "exp": "El art. 26.6 TRLUA dispone que el informe del Consejo Provincial de Urbanismo deberá emitirse y notificarse en el plazo de tres meses desde que sea recabado y producirá efecto durante cuatro años, salvo que antes de dicho plazo se revise el plan general.",
+      "fuente": "Art. 26.6 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "En relación con la cédula urbanística, el art. 27 del TRLUA establece que:",
+      "options": [
+        "Se notificará al solicitante en el plazo máximo de un mes y vincula plenamente a la Administración municipal",
+        "Se notificará al solicitante en el plazo máximo de tres meses y comporta la patrimonialización del aprovechamiento urbanístico en ella reflejado",
+        "Es gratuita en todo caso y debe notificarse en el plazo máximo de quince días",
+        "Se notificará al solicitante en el plazo máximo de dos meses, su emisión podrá estar supeditada al pago de la correspondiente tasa y su contenido no comporta la patrimonialización del aprovechamiento urbanístico ni vincula a la Administración"
+      ],
+      "correct": 3,
+      "exp": "El art. 27.2 TRLUA fija el plazo máximo de dos meses para notificar el informe y permite supeditar su emisión al pago de tasa; el art. 27.3 precisa que su contenido no comporta la patrimonialización del aprovechamiento ni vincula a la Administración, sin perjuicio de la posible indemnización por vulneración de la confianza legítima.",
+      "fuente": "Arts. 27.2 y 27.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 28.2 del TRLUA, los propietarios del suelo no urbanizable tienen derecho a usar, disfrutar y disponer de los terrenos de su propiedad de conformidad con su naturaleza, debiendo destinarlos a:",
+      "options": [
+        "Fines agrícolas, forestales, ganaderos, cinegéticos, ambientales, extractivos y otros vinculados a la utilización racional de los recursos naturales, dentro de los límites que establezcan las leyes o el planeamiento",
+        "Cualquier uso no prohibido expresamente por el plan general, incluido el residencial colectivo",
+        "Los usos que autorice el Consejo Provincial de Urbanismo mediante autorización especial, sin otros límites",
+        "Fines exclusivamente agrícolas y ganaderos, quedando prohibidos los usos extractivos y cinegéticos"
+      ],
+      "correct": 0,
+      "exp": "El art. 28.2 TRLUA enumera los fines a que deben destinarse los terrenos de suelo no urbanizable: agrícolas, forestales, ganaderos, cinegéticos, ambientales, extractivos y otros vinculados a la utilización racional de los recursos naturales, dentro de los límites que en su caso establezcan las leyes o el planeamiento.",
+      "fuente": "Art. 28.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 28.3 del TRLUA prohíbe en suelo no urbanizable las parcelaciones que den lugar a núcleos de población y no permite divisiones, segregaciones o fraccionamientos contrarios al régimen de las unidades mínimas de cultivo o a lo dispuesto en la legislación forestal, agraria o de similar naturaleza, salvo:",
+      "options": [
+        "Cuando la superficie resultante de cada finca supere los diez mil metros cuadrados",
+        "Cuando se trate de concentrar propiedades colindantes o resulte indispensable para lograr la adecuada protección del patrimonio cultural aragonés",
+        "Cuando lo autorice el Consejo Provincial de Urbanismo mediante autorización especial",
+        "Cuando el plan general lo prevea expresamente en sus normas urbanísticas"
+      ],
+      "correct": 1,
+      "exp": "El art. 28.3 TRLUA establece esa prohibición con las únicas salvedades de que se trate de concentrar propiedades colindantes o de que resulte indispensable para lograr la adecuada protección del patrimonio cultural aragonés.",
+      "fuente": "Art. 28.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 29.1 del TRLUA, en suelo urbanizable y suelo urbano no podrá ser edificado terreno alguno que no merezca la condición de solar conforme al art. 14, salvo:",
+      "options": [
+        "Que el propietario preste garantía por el cien por cien del coste de las obras de urbanización",
+        "Que la edificación se destine íntegramente a vivienda protegida",
+        "Que se asegure la ejecución simultánea de la urbanización precisa para ello y la edificación conforme a lo establecido en los artículos 235 ó 236 de la Ley",
+        "Que el Consejo Provincial de Urbanismo autorice expresamente la edificación anticipada"
+      ],
+      "correct": 2,
+      "exp": "El art. 29.1 TRLUA admite como excepción a la exigencia de condición de solar que se asegure la ejecución simultánea de la urbanización precisa y la edificación conforme a los arts. 235 ó 236, sin que pueda ocuparse el edificio hasta que los servicios urbanísticos suficientes estén en condiciones de funcionamiento adecuado.",
+      "fuente": "Art. 29.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Los propietarios de suelo incluido en actuaciones integradas que no hayan de gestionarse directamente por expropiación podrán optar, conforme al art. 30.1 del TRLUA, por ejercer uno de los siguientes derechos:",
+      "options": [
+        "Participar en la ejecución de la actuación o solicitar la reclasificación de sus terrenos",
+        "Participar en la ejecución de la actuación o renunciar a su aprovechamiento sin derecho a indemnización alguna",
+        "Participar en la ejecución de la actuación o constituir obligatoriamente una junta de compensación",
+        "Participar en la ejecución de la actuación en régimen de equitativa distribución de beneficios y cargas en proporción a sus aportaciones, o no participar instando la expropiación de sus terrenos a cargo de la actuación"
+      ],
+      "correct": 3,
+      "exp": "El art. 30.1 TRLUA configura el derecho de opción entre participar en la ejecución en régimen de equitativa distribución de beneficios y cargas (letra a) y no participar, instando la expropiación de los terrenos a cargo de la actuación (letra b).",
+      "fuente": "Art. 30.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "En suelo urbano consolidado, los propietarios que promuevan la edificación deben ceder gratuitamente al municipio los terrenos afectados por las alineaciones y rasantes establecidas, en proporción no superior al:",
+      "options": [
+        "Quince por ciento de la superficie de la finca",
+        "Diez por ciento de la superficie de la finca",
+        "Cinco por ciento de la superficie de la finca",
+        "Veinte por ciento de la superficie de la finca"
+      ],
+      "correct": 0,
+      "exp": "El art. 31.4.b) TRLUA impone al propietario de suelo urbano consolidado que promueva la edificación el deber de ceder gratuitamente al municipio los terrenos afectados por las alineaciones y rasantes establecidas, en proporción no superior al quince por ciento de la superficie de la finca.",
+      "fuente": "Art. 31.4.b) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "La prestación patrimonial que puede establecerse mediante Ordenanza municipal para legitimar usos privados del suelo no incluidos en el art. 34.1.a) del TRLUA tendrá una cuantía máxima del:",
+      "options": [
+        "Diez por ciento del importe total de la inversión en obras, construcciones e instalaciones a realizar",
+        "Cinco por ciento del importe total de la inversión en obras, construcciones e instalaciones a realizar",
+        "Quince por ciento del importe total de la inversión en obras, construcciones e instalaciones a realizar",
+        "Dos por ciento del importe total de la inversión en obras, construcciones e instalaciones a realizar"
+      ],
+      "correct": 1,
+      "exp": "El art. 31.6.b) TRLUA fija la cuantía de esa prestación patrimonial como máximo en el cinco por ciento del importe total de la inversión en obras, construcciones e instalaciones a realizar, devengándose de una vez con ocasión del otorgamiento de la licencia urbanística.",
+      "fuente": "Art. 31.6.b) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "En suelo urbanizable delimitado, en tanto no se haya aprobado la correspondiente ordenación pormenorizada que permita la urbanización, el art. 32 del TRLUA establece que:",
+      "options": [
+        "Se aplicará el régimen propio del suelo no urbanizable especial",
+        "Podrán autorizarse edificios aislados destinados a vivienda unifamiliar en las condiciones del art. 34.2",
+        "No se podrán edificar ni levantar cualesquiera otras instalaciones, si bien podrán ejecutarse en todo caso las obras correspondientes a las infraestructuras del territorio o a los sistemas generales previstos en el plan general o en un plan o proyecto de interés general de Aragón",
+        "Podrá edificarse previa prestación de garantía suficiente y sin necesidad de aprobar el plan parcial"
+      ],
+      "correct": 2,
+      "exp": "El art. 32.1 TRLUA prohíbe edificar o levantar instalaciones mientras no se apruebe la ordenación pormenorizada, y el art. 32.3 permite ejecutar en todo caso las obras de las infraestructuras del territorio o de los sistemas generales previstos en el plan general o en un plan o proyecto de interés general de Aragón.",
+      "fuente": "Arts. 32.1 y 32.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "En el suelo urbanizable no delimitado, y en tanto no se haya aprobado el correspondiente plan parcial, el art. 33 del TRLUA determina que:",
+      "options": [
+        "Se aplicará el régimen del suelo no urbanizable especial del artículo 37",
+        "Se aplicará el régimen del suelo urbano no consolidado",
+        "Quedará suspendido todo otorgamiento de títulos habilitantes en el ámbito",
+        "Se aplicará el régimen establecido para el suelo no urbanizable genérico en los artículos 34 a 36, y sus propietarios tendrán los derechos y deberes a que se refiere el artículo 28"
+      ],
+      "correct": 3,
+      "exp": "El art. 33 TRLUA remite, en el suelo urbanizable no delimitado y mientras no se apruebe el plan parcial, al régimen del suelo no urbanizable genérico de los arts. 34 a 36, con los derechos y deberes del art. 28.",
+      "fuente": "Art. 33 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "A efectos de autorizar edificios aislados destinados a vivienda unifamiliar en suelo no urbanizable genérico, y salvo que el plan general o las directrices de ordenación territorial establezcan condiciones más severas, se considera que existe posibilidad de formación de núcleo de población cuando:",
+      "options": [
+        "Dentro del área definida por un círculo de 150 metros de radio con origen en el centro de la edificación proyectada existan dos o más edificaciones residenciales",
+        "Dentro del área definida por un círculo de 100 metros de radio con origen en el centro de la edificación proyectada existan tres o más edificaciones residenciales",
+        "Dentro del área definida por un círculo de 200 metros de radio con origen en el centro de la edificación proyectada existan dos o más edificaciones residenciales",
+        "Dentro del área definida por un círculo de 500 metros de radio con origen en el centro de la edificación proyectada existan cuatro o más edificaciones residenciales"
+      ],
+      "correct": 0,
+      "exp": "El art. 34.2 TRLUA, párrafo segundo, considera que existe posibilidad de formación de núcleo de población cuando, dentro del área definida por un círculo de 150 metros de radio con origen en el centro de la edificación proyectada, existan dos o más edificaciones residenciales, salvo condiciones más severas del plan general o de las directrices de ordenación territorial.",
+      "fuente": "Art. 34.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Cumplidas las condiciones sobre inexistencia de posibilidad de formación de núcleo de población, y salvo que el planeamiento establezca condiciones urbanísticas más severas, el art. 34.2 del TRLUA exige para la vivienda unifamiliar aislada en suelo no urbanizable genérico:",
+      "options": [
+        "Una sola edificación por parcela, superficie construida máxima de 200 metros cuadrados y parcela de al menos 5.000 metros cuadrados",
+        "Una sola edificación por parcela, que el edificio no rebase los 300 metros cuadrados de superficie construida y que la parcela o parcelas tengan al menos 10.000 metros cuadrados de superficie, quedando adscritas a la edificación y manteniendo el uso agrario o vinculado al medio natural",
+        "Un máximo de dos edificaciones por parcela, superficie construida máxima de 300 metros cuadrados y parcela de al menos 20.000 metros cuadrados",
+        "Una sola edificación por parcela, superficie construida máxima de 500 metros cuadrados y parcela de al menos 10.000 metros cuadrados"
+      ],
+      "correct": 1,
+      "exp": "El art. 34.2 TRLUA, párrafo tercero, exige una sola edificación por parcela, que el edificio no rebase los trescientos metros cuadrados de superficie construida y que la parcela o parcelas tengan al menos diez mil metros cuadrados, quedando adscritas a la edificación y manteniéndose el uso agrario o vinculado al medio natural.",
+      "fuente": "Art. 34.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "En el procedimiento para la autorización especial en suelo no urbanizable genérico, el art. 36.1.b) del TRLUA prevé el sometimiento simultáneo de la solicitud y su documentación a:",
+      "options": [
+        "Información pública por plazo de un mes y a informe del Consejo Provincial de Urbanismo por plazo de tres meses",
+        "Información pública por plazo de quince días hábiles y a informe del Consejo de Ordenación del Territorio de Aragón por plazo de un mes",
+        "Información pública por plazo de veinte días hábiles y a informe del Consejo Provincial de Urbanismo por plazo de dos meses",
+        "Información pública por plazo de dos meses y a informe del Consejo Provincial de Urbanismo por plazo de veinte días hábiles"
+      ],
+      "correct": 2,
+      "exp": "El art. 36.1.b) TRLUA ordena el sometimiento simultáneo de la solicitud y su documentación a información pública por plazo de veinte días hábiles y a informe del Consejo Provincial de Urbanismo por plazo de dos meses.",
+      "fuente": "Art. 36.1.b) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "En el suelo no urbanizable especial, conforme al art. 37.1 del TRLUA:",
+      "options": [
+        "Solo se admiten las construcciones vinculadas a explotaciones agrarias y a la ejecución de obras públicas",
+        "Se aplica el mismo régimen del suelo no urbanizable genérico, sin restricción adicional alguna",
+        "Cualquier uso requiere autorización del Gobierno de Aragón previa declaración de interés supramunicipal",
+        "Está prohibida cualquier construcción, actividad o cualesquiera otros usos que impliquen transformación de su destino o naturaleza, lesionen el valor específico que se quiera proteger o infrinjan el concreto régimen limitativo establecido por los instrumentos de ordenación territorial, los planes de ordenación de los recursos naturales, la legislación sectorial o el planeamiento urbanístico"
+      ],
+      "correct": 3,
+      "exp": "El art. 37.1 TRLUA prohíbe en suelo no urbanizable especial toda construcción, actividad o uso que implique transformación de su destino o naturaleza, lesione el valor específico protegido o infrinja el régimen limitativo establecido por los instrumentos de ordenación territorial, los planes de ordenación de los recursos naturales, la legislación sectorial o el planeamiento urbanístico.",
+      "fuente": "Art. 37.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    }
+  ]
+}
