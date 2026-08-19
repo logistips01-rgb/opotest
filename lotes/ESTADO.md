@@ -1034,6 +1034,98 @@ Notas:
 
 Banco de Auxiliar: de 5.529 a **5.688 preguntas**.
 
+## Tema 20 · La Ley de Urbanismo de Aragón — PRIMERA VUELTA CERRADA
+
+**160 preguntas** de cero, todas de 4 opciones y todas con artículo y apartado
+citados. **160 de 160 confirmadas: ningún rechazo y ninguna corrección** en los
+cuatro lotes, y ninguna con `confianza: "media"`. Es el mejor resultado de toda
+la campaña, y probablemente se deba a que el texto se leyó completo desde el
+consolidado y a que los cinco epígrafes encajan uno a uno con cinco títulos de
+la ley, así que ningún lote tuvo que interpretar dónde acababa su tramo.
+
+| Lote | Título | Epígrafe | Artículos | Confirmadas |
+|---|---|---|---|---|
+| A | I | Régimen urbanístico del suelo | 10-37 | 40 |
+| B | II | Planeamiento urbanístico | 38-88 | 40 |
+| C | IV | Gestión urbanística | 118-213 | 40 |
+| D | V y VI | Edificación y uso del suelo · Disciplina urbanística | 214-287 | 40 |
+
+Fuera del tema, y así se lo dijo a cada redactor: el título preliminar
+(arts. 1-9), el Título III «Instrumentos de política urbanística y de suelo»
+(89-117) y el Título VII «Régimen urbanístico simplificado» (288-294).
+
+### El intento fallido, para que no sorprenda en el historial
+
+La primera tanda de estos cuatro lotes **murió entera** por un límite de sesión
+y no dejó nada en disco: dos agentes solo habían llegado a decir que iban a leer
+las reglas. Al relanzar se añadió al encargo «escribe el archivo en cuanto
+tengas las preguntas, sin esperar a redactar el informe», y funcionó: los cuatro
+archivos estaban completos en disco antes de que sus agentes cerraran el
+informe, y se comprometieron antes de revisar. Conviene que esa frase esté en
+todos los encargos futuros.
+
+### Lo que los redactores corrigieron del encargo
+
+Tres veces gana el articulado sobre mi descripción. Van anotadas porque son
+justo el tipo de error que se propaga:
+
+1. **La nomenclatura aragonesa de la gestión no es la habitual.** La ley NO
+   organiza la ejecución en «sistemas de compensación, cooperación y
+   expropiación» como categorías paralelas. El art. 134 establece **dos formas
+   con dos modalidades cada una**: gestión **directa** (por *expropiación* o
+   *cooperación*) y gestión **indirecta** (por *compensación* o *adjudicación a
+   urbanizador*). El sujeto privado es el «**urbanizador**», no el «agente
+   urbanizador». Las actuaciones aisladas van por el «**sistema de urbanización
+   de obras ordinarias**» (art. 118.2.a). Redactor y revisor llegaron a esa
+   estructura por separado. Varias preguntas usan los cruces erróneos como
+   distractores, así que **no rechazarlas aplicando el vocabulario estatal**.
+2. **La «situación legal de fuera de ordenación» está en el art. 82**, dentro
+   del Título II (planeamiento), no en el Título V como le dije al lote D. D se
+   negó a salirse de su tramo y avisó de que quedaría sin cubrir; comprobado que
+   el lote B ya la tenía (art. 82.3). Sin hueco, pero solo porque el aviso llegó.
+3. **Dos capítulos que no mencioné en los encargos**: «Parcelaciones» en el
+   Título V (arts. 241-253, con la regularización de parcelaciones ilegales y
+   las fechas y censos asociados) y «Expropiación forzosa» en el Título IV
+   (arts. 194-209, con el Jurado Aragonés de Expropiación). Los redactores los
+   cubrieron de oficio. **Parcelaciones se queda corto: una sola pregunta**, y
+   hay material para tres o cuatro más (arts. 241.2, 243.1, 246.3-4, 247.1,
+   248.1, 250.3, 251.c) en la segunda vuelta.
+
+### Navegación del consolidado, medido
+
+Delante de cada artículo hay una marca `[Bloque N: #aNN]` y es el ancla fiable.
+**Exactamente 11 artículos** llevan el rótulo sin punto tras el número —arts. 8,
+48, 55, 109, 124, 125, 126, 134, 167, 182 y 245—, así que un
+`grep "Artículo 134\."` no los encuentra y se puede concluir por error que una
+cita es falsa. Además su ancla no es `#a134` sino `#a134modalidades`, de modo
+que hay que casar el prefijo.
+
+**Corrección de algo que afirmé y era falso**: dije a los revisores que esos
+artículos iban sin punto *porque estaban rescritos por reformas*. No hay tal
+relación — de los 11 solo uno tiene nota de modificación, mientras 17 de los 283
+restantes sí la tienen. Es un artefacto editorial del texto refundido. El
+consejo práctico no cambia, pero la causa que le atribuí no era cierta.
+
+### Vigencia
+
+La ley lleva seis reformas (2016, 2017, 2021, 2022, 2023 y 2024) y los cuatro
+revisores barrieron su tramo buscando notas de modificación:
+
+- arts. 10-37: dos (35.1.c y 37.2, Ley 2/2023) — ninguna pregunta las toca.
+- arts. 38-88: ocho, y una peligrosa — a **85.2 se le suprimió la letra a)** en
+  2016, con lo que hoy solo subsiste la b). La única pregunta del art. 85 va por
+  el apartado 3.
+- arts. 118-213: **ninguna**.
+- arts. 214-287: cuatro — 226.3 derogado y 227.2 con letras f)-h) añadidas (Ley
+  1/2021), 269.3 y 279.c) modificados (Ley 2/2023). Ninguna pregunta se apoya en
+  texto derogado.
+
+Comprobado en navegador real: 160 preguntas servidas, todas con la cita visible
+debajo de la explicación y sin errores de página.
+
+Banco de Auxiliar: de 5.688 a **5.848 preguntas**. Con esto **los 21 temas
+tienen contenido**: ya no queda ningún tema vacío.
+
 ## Temas siguientes, cuando el 20 esté cerrado
 
 Del 19 hacia atrás. Estado y déficit hasta 500:
