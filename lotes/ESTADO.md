@@ -974,9 +974,20 @@ descargado una sola vez y compartido por los cuatro redactores).
 | C | Título IV «Del Gobierno y de la Administración», arts. 97-107 | 40 | 0 | 0 |
 | D | Título VIII caps. I y II, arts. 137-142 | 40 | 0 | 0 |
 
-**159 de 160 integradas.** Las 93 anteriores citan el precepto en la
-explicación pero no llevan campo `fuente`, así que en el tema conviven 159 con
-cita visible en la app y 93 sin ella.
+**159 de 160 integradas.** Y a petición del usuario («me gustaría si que
+muestren el artículo») se rellenó después el campo `fuente` de las 93
+anteriores, que citaban el precepto dentro de la explicación pero no en el campo
+que la app muestra debajo: **las 252 del tema 1 llevan ahora la cita visible**.
+
+La cita no se inventó, se extrajo del propio `exp`: 72 empiezan literalmente por
+«Art. N.M: '...'» y salieron con una expresión regular. Las 21 que no citan
+artículo porque hablan de estructura, del Preámbulo o del proceso constituyente
+llevan cita asignada a mano, con los datos ya verificados en la revisión de los
+lotes: «Estructura CE: Título IV, arts. 97 a 107», «Preámbulo CE»,
+«Disposición final CE», «Publicación de la CE: «BOE» núm. 311, de 29-12-1978»…
+En las dos que se apoyan en un dato histórico o doctrinal que **no está en el
+texto** (los siete ponentes, la «Constitución del consenso») la propia cita lo
+dice, para no dar apariencia de precepto a lo que no lo es.
 
 Notas:
 

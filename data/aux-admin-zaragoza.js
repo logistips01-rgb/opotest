@@ -38,7 +38,8 @@ const QUESTIONS = {
       "15 de diciembre de 1978"
     ],
     "correct": 0,
-    "exp": "El referéndum se celebró el 6 de diciembre de 1978."
+    "exp": "El referéndum se celebró el 6 de diciembre de 1978.",
+    "fuente": "Elaboración de la CE: referéndum de 6-dic-1978"
   },
   {
     "q": "¿En qué fecha sancionó el Rey la Constitución Española?",
@@ -49,7 +50,8 @@ const QUESTIONS = {
       "1 de enero de 1979"
     ],
     "correct": 1,
-    "exp": "Don Juan Carlos I sancionó la Constitución el 27 de diciembre de 1978."
+    "exp": "Don Juan Carlos I sancionó la Constitución el 27 de diciembre de 1978.",
+    "fuente": "Fórmula de sanción CE (Palacio de las Cortes, 27-dic-1978)"
   },
   {
     "q": "¿En qué número del BOE se publicó la Constitución Española?",
@@ -60,7 +62,8 @@ const QUESTIONS = {
       "BOE núm. 366"
     ],
     "correct": 2,
-    "exp": "Se publicó en el «BOE» núm. 311, de 29 de diciembre de 1978."
+    "exp": "Se publicó en el «BOE» núm. 311, de 29 de diciembre de 1978.",
+    "fuente": "Publicación de la CE: «BOE» núm. 311, de 29-12-1978"
   },
   {
     "q": "¿Cuántos ponentes compusieron la ponencia constitucional encargada de redactar el anteproyecto de Constitución, conocidos popularmente como los 'padres de la Constitución'?",
@@ -71,7 +74,8 @@ const QUESTIONS = {
       "11"
     ],
     "correct": 1,
-    "exp": "La ponencia constitucional estuvo formada por siete miembros, comúnmente conocidos como los 'padres de la Constitución'."
+    "exp": "La ponencia constitucional estuvo formada por siete miembros, comúnmente conocidos como los 'padres de la Constitución'.",
+    "fuente": "Elaboración de la CE: ponencia constitucional (dato histórico, no consta en el texto)"
   },
   {
     "q": "¿Quién sancionó y promulgó la Constitución Española de 1978?",
@@ -82,7 +86,8 @@ const QUESTIONS = {
       "El Consejo del Reino"
     ],
     "correct": 1,
-    "exp": "La Constitución fue sancionada por el Rey Don Juan Carlos I, tal y como consta en su encabezamiento."
+    "exp": "La Constitución fue sancionada por el Rey Don Juan Carlos I, tal y como consta en su encabezamiento.",
+    "fuente": "Fórmula de sanción y promulgación CE"
   },
   {
     "q": "Según el Preámbulo, la Constitución fue aprobada por las Cortes y ratificada por:",
@@ -93,7 +98,8 @@ const QUESTIONS = {
       "El Tribunal Constitucional"
     ],
     "correct": 0,
-    "exp": "El texto constitucional señala: 'las Cortes aprueban y el pueblo español ratifica la siguiente Constitución.'"
+    "exp": "El texto constitucional señala: 'las Cortes aprueban y el pueblo español ratifica la siguiente Constitución.'",
+    "fuente": "Fórmula de promulgación CE"
   },
   {
     "q": "Según el artículo 1.1 CE, España se constituye en un Estado:",
@@ -104,7 +110,8 @@ const QUESTIONS = {
       "Federal de Derecho"
     ],
     "correct": 0,
-    "exp": "Art. 1.1: 'España se constituye en un Estado social y democrático de Derecho...'"
+    "exp": "Art. 1.1: 'España se constituye en un Estado social y democrático de Derecho...'",
+    "fuente": "Art. 1.1 CE"
   },
   {
     "q": "¿Cuál de los siguientes NO es uno de los valores superiores del ordenamiento jurídico recogidos en el art. 1.1 CE?",
@@ -115,7 +122,8 @@ const QUESTIONS = {
       "El pluralismo político"
     ],
     "correct": 2,
-    "exp": "El art. 1.1 recoge como valores superiores la libertad, la justicia, la igualdad y el pluralismo político; la solidaridad se menciona en el art. 2, no aquí."
+    "exp": "El art. 1.1 recoge como valores superiores la libertad, la justicia, la igualdad y el pluralismo político; la solidaridad se menciona en el art. 2, no aquí.",
+    "fuente": "Art. 1.1 CE"
   },
   {
     "q": "Según el art. 1.2 CE, ¿dónde reside la soberanía nacional?",
@@ -126,7 +134,8 @@ const QUESTIONS = {
       "En el Gobierno"
     ],
     "correct": 2,
-    "exp": "Art. 1.2: 'La soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado.'"
+    "exp": "Art. 1.2: 'La soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado.'",
+    "fuente": "Art. 1.2 CE"
   },
   {
     "q": "Según el art. 1.3 CE, ¿cuál es la forma política del Estado español?",
@@ -137,7 +146,8 @@ const QUESTIONS = {
       "Estado presidencialista"
     ],
     "correct": 1,
-    "exp": "Art. 1.3: 'La forma política del Estado español es la Monarquía parlamentaria.'"
+    "exp": "Art. 1.3: 'La forma política del Estado español es la Monarquía parlamentaria.'",
+    "fuente": "Art. 1.3 CE"
   },
   {
     "q": "Según el art. 2 CE, la Constitución se fundamenta en:",
@@ -148,7 +158,8 @@ const QUESTIONS = {
       "El pacto entre Comunidades Autónomas"
     ],
     "correct": 0,
-    "exp": "Art. 2: 'La Constitución se fundamenta en la indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles...'"
+    "exp": "Art. 2: 'La Constitución se fundamenta en la indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles...'",
+    "fuente": "Art. 2 CE"
   },
   {
     "q": "El art. 2 CE reconoce y garantiza el derecho a la autonomía de:",
@@ -159,7 +170,8 @@ const QUESTIONS = {
       "Las Fuerzas Armadas"
     ],
     "correct": 0,
-    "exp": "Art. 2: '...reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas.'"
+    "exp": "Art. 2: '...reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas.'",
+    "fuente": "Art. 2 CE"
   },
   {
     "q": "Según el art. 3.1 CE, el castellano es:",
@@ -170,7 +182,8 @@ const QUESTIONS = {
       "La lengua oficial solo en algunas CCAA"
     ],
     "correct": 1,
-    "exp": "Art. 3.1: 'El castellano es la lengua española oficial del Estado.'"
+    "exp": "Art. 3.1: 'El castellano es la lengua española oficial del Estado.'",
+    "fuente": "Art. 3.1 CE"
   },
   {
     "q": "Según el art. 3.1 CE, los españoles tienen el deber de conocer el castellano y el derecho a:",
@@ -181,7 +194,8 @@ const QUESTIONS = {
       "Eximirse de su uso oficial"
     ],
     "correct": 0,
-    "exp": "Art. 3.1: 'Todos los españoles tienen el deber de conocerla y el derecho a usarla.'"
+    "exp": "Art. 3.1: 'Todos los españoles tienen el deber de conocerla y el derecho a usarla.'",
+    "fuente": "Art. 3.1 CE"
   },
   {
     "q": "El art. 3.3 CE califica la riqueza de las distintas modalidades lingüísticas de España como:",
@@ -192,7 +206,8 @@ const QUESTIONS = {
       "Un elemento a erradicar progresivamente"
     ],
     "correct": 1,
-    "exp": "Art. 3.3: 'La riqueza de las distintas modalidades lingüísticas de España es un patrimonio cultural que será objeto de especial respeto y protección.'"
+    "exp": "Art. 3.3: 'La riqueza de las distintas modalidades lingüísticas de España es un patrimonio cultural que será objeto de especial respeto y protección.'",
+    "fuente": "Art. 3.3 CE"
   },
   {
     "q": "Según el art. 4.1 CE, ¿de qué colores son las tres franjas horizontales de la bandera de España?",
@@ -203,7 +218,8 @@ const QUESTIONS = {
       "Roja, blanca y roja"
     ],
     "correct": 0,
-    "exp": "Art. 4.1: 'La bandera de España está formada por tres franjas horizontales, roja, amarilla y roja...'"
+    "exp": "Art. 4.1: 'La bandera de España está formada por tres franjas horizontales, roja, amarilla y roja...'",
+    "fuente": "Art. 4.1 CE"
   },
   {
     "q": "Según el art. 4.1 CE, ¿qué franja de la bandera de España tiene doble anchura que las otras dos?",
@@ -214,7 +230,8 @@ const QUESTIONS = {
       "Ninguna, todas tienen igual anchura"
     ],
     "correct": 1,
-    "exp": "Art. 4.1: '...siendo la amarilla de doble anchura que cada una de las rojas.'"
+    "exp": "Art. 4.1: '...siendo la amarilla de doble anchura que cada una de las rojas.'",
+    "fuente": "Art. 4.1 CE"
   },
   {
     "q": "Según el art. 5 CE, ¿cuál es la capital del Estado?",
@@ -225,7 +242,8 @@ const QUESTIONS = {
       "Sevilla"
     ],
     "correct": 1,
-    "exp": "Art. 5: 'La capital del Estado es la villa de Madrid.'"
+    "exp": "Art. 5: 'La capital del Estado es la villa de Madrid.'",
+    "fuente": "Art. 5 CE"
   },
   {
     "q": "Según el art. 6 CE, los partidos políticos expresan:",
@@ -236,7 +254,8 @@ const QUESTIONS = {
       "El monopolio de la representación"
     ],
     "correct": 0,
-    "exp": "Art. 6: 'Los partidos políticos expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular...'"
+    "exp": "Art. 6: 'Los partidos políticos expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular...'",
+    "fuente": "Art. 6 CE"
   },
   {
     "q": "Según el art. 6 CE, la creación de partidos políticos y el ejercicio de su actividad son libres dentro del respeto a:",
@@ -247,7 +266,8 @@ const QUESTIONS = {
       "La Junta Electoral Central"
     ],
     "correct": 0,
-    "exp": "Art. 6: 'Su creación y el ejercicio de su actividad son libres dentro del respeto a la Constitución y a la ley.'"
+    "exp": "Art. 6: 'Su creación y el ejercicio de su actividad son libres dentro del respeto a la Constitución y a la ley.'",
+    "fuente": "Art. 6 CE"
   },
   {
     "q": "Según el art. 6 CE, la estructura interna y el funcionamiento de los partidos políticos deberán ser:",
@@ -258,7 +278,8 @@ const QUESTIONS = {
       "Determinados libremente sin exigencia legal"
     ],
     "correct": 1,
-    "exp": "Art. 6, última frase: 'Su estructura interna y funcionamiento deberán ser democráticos.'"
+    "exp": "Art. 6, última frase: 'Su estructura interna y funcionamiento deberán ser democráticos.'",
+    "fuente": "Art. 6 CE"
   },
   {
     "q": "Según el art. 7 CE, ¿quiénes contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios?",
@@ -269,7 +290,8 @@ const QUESTIONS = {
       "Los colegios profesionales"
     ],
     "correct": 0,
-    "exp": "Art. 7: 'Los sindicatos de trabajadores y las asociaciones empresariales contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios.'"
+    "exp": "Art. 7: 'Los sindicatos de trabajadores y las asociaciones empresariales contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios.'",
+    "fuente": "Art. 7 CE"
   },
   {
     "q": "Según el art. 8.1 CE, ¿por qué cuerpos están constituidas las Fuerzas Armadas?",
@@ -280,7 +302,8 @@ const QUESTIONS = {
       "Fuerzas y Cuerpos de Seguridad del Estado"
     ],
     "correct": 0,
-    "exp": "Art. 8.1: 'Las Fuerzas Armadas, constituidas por el Ejército de Tierra, la Armada y el Ejército del Aire...'"
+    "exp": "Art. 8.1: 'Las Fuerzas Armadas, constituidas por el Ejército de Tierra, la Armada y el Ejército del Aire...'",
+    "fuente": "Art. 8.1 CE"
   },
   {
     "q": "Según el art. 8.1 CE, la misión de las Fuerzas Armadas es garantizar la soberanía e independencia de España, defender su integridad territorial y:",
@@ -291,7 +314,8 @@ const QUESTIONS = {
       "La política exterior del Gobierno"
     ],
     "correct": 0,
-    "exp": "Art. 8.1: '...tienen como misión garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional.'"
+    "exp": "Art. 8.1: '...tienen como misión garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional.'",
+    "fuente": "Art. 8.1 CE"
   },
   {
     "q": "Según el art. 8.2 CE, ¿qué tipo de norma regula las bases de la organización militar?",
@@ -302,7 +326,8 @@ const QUESTIONS = {
       "Reglamento del Ministerio de Defensa"
     ],
     "correct": 2,
-    "exp": "Art. 8.2: 'Una ley orgánica regulará las bases de la organización militar conforme a los principios de la presente Constitución.'"
+    "exp": "Art. 8.2: 'Una ley orgánica regulará las bases de la organización militar conforme a los principios de la presente Constitución.'",
+    "fuente": "Art. 8.2 CE"
   },
   {
     "q": "Según el art. 9.1 CE, los ciudadanos y los poderes públicos están sujetos a:",
@@ -313,7 +338,8 @@ const QUESTIONS = {
       "El programa de gobierno vigente"
     ],
     "correct": 0,
-    "exp": "Art. 9.1: 'Los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico.'"
+    "exp": "Art. 9.1: 'Los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico.'",
+    "fuente": "Art. 9.1 CE"
   },
   {
     "q": "Según el art. 9.2 CE, corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad sean:",
@@ -324,7 +350,8 @@ const QUESTIONS = {
       "Excepcionales"
     ],
     "correct": 1,
-    "exp": "Art. 9.2: '...promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas...'"
+    "exp": "Art. 9.2: '...promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas...'",
+    "fuente": "Art. 9.2 CE"
   },
   {
     "q": "El art. 9.2 CE también encomienda a los poderes públicos facilitar la participación de todos los ciudadanos en la vida:",
@@ -335,7 +362,8 @@ const QUESTIONS = {
       "Militar y administrativa"
     ],
     "correct": 0,
-    "exp": "Art. 9.2: '...facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social.'"
+    "exp": "Art. 9.2: '...facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social.'",
+    "fuente": "Art. 9.2 CE"
   },
   {
     "q": "¿Cuál de los siguientes principios NO aparece expresamente en el art. 9.3 CE?",
@@ -346,7 +374,8 @@ const QUESTIONS = {
       "La irretroactividad de las disposiciones sancionadoras no favorables"
     ],
     "correct": 2,
-    "exp": "El art. 9.3 recoge legalidad, jerarquía normativa, publicidad de las normas, irretroactividad de disposiciones sancionadoras no favorables, seguridad jurídica, responsabilidad e interdicción de la arbitrariedad. La presunción de inocencia se regula en el art. 24.2."
+    "exp": "El art. 9.3 recoge legalidad, jerarquía normativa, publicidad de las normas, irretroactividad de disposiciones sancionadoras no favorables, seguridad jurídica, responsabilidad e interdicción de la arbitrariedad. La presunción de inocencia se regula en el art. 24.2.",
+    "fuente": "Art. 9.3 CE"
   },
   {
     "q": "Según el art. 9.3 CE, la irretroactividad de las disposiciones sancionadoras se predica de aquellas que sean no favorables o restrictivas de:",
@@ -357,7 +386,8 @@ const QUESTIONS = {
       "Facultades del Gobierno"
     ],
     "correct": 0,
-    "exp": "Art. 9.3: '...la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales...'"
+    "exp": "Art. 9.3: '...la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales...'",
+    "fuente": "Art. 9.3 CE"
   },
   {
     "q": "Según el art. 9.3 CE, junto a la seguridad jurídica y la responsabilidad, la Constitución garantiza la interdicción de:",
@@ -368,7 +398,8 @@ const QUESTIONS = {
       "La reforma constitucional"
     ],
     "correct": 0,
-    "exp": "Art. 9.3 in fine: '...la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos.'"
+    "exp": "Art. 9.3 in fine: '...la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos.'",
+    "fuente": "Art. 9.3 CE"
   },
   {
     "q": "¿Cuál de estos principios SÍ figura expresamente en el art. 9.3 CE?",
@@ -379,7 +410,8 @@ const QUESTIONS = {
       "La unidad de mercado"
     ],
     "correct": 1,
-    "exp": "El art. 9.3 enumera: legalidad, jerarquía normativa, publicidad de las normas, irretroactividad sancionadora desfavorable, seguridad jurídica, responsabilidad e interdicción de la arbitrariedad."
+    "exp": "El art. 9.3 enumera: legalidad, jerarquía normativa, publicidad de las normas, irretroactividad sancionadora desfavorable, seguridad jurídica, responsabilidad e interdicción de la arbitrariedad.",
+    "fuente": "Art. 9.3 CE"
   },
   {
     "q": "El Título Preliminar de la Constitución Española comprende los artículos:",
@@ -390,7 +422,8 @@ const QUESTIONS = {
       "1 a 8"
     ],
     "correct": 0,
-    "exp": "El Título Preliminar abarca los artículos 1 a 9, antes de que comience el Título I (art. 10 en adelante)."
+    "exp": "El Título Preliminar abarca los artículos 1 a 9, antes de que comience el Título I (art. 10 en adelante).",
+    "fuente": "Estructura CE: Título Preliminar, arts. 1 a 9"
   },
   {
     "q": "¿Cuántos artículos tiene la Constitución Española, sin contar disposiciones adicionales, transitorias, derogatoria y final?",
@@ -401,7 +434,8 @@ const QUESTIONS = {
       "149"
     ],
     "correct": 1,
-    "exp": "La Constitución consta de 169 artículos articulados en un Título Preliminar y diez Títulos (I a X)."
+    "exp": "La Constitución consta de 169 artículos articulados en un Título Preliminar y diez Títulos (I a X).",
+    "fuente": "Estructura CE: 169 artículos"
   },
   {
     "q": "¿En qué Título de la Constitución se regula 'De la Corona'?",
@@ -412,7 +446,8 @@ const QUESTIONS = {
       "Título IV"
     ],
     "correct": 1,
-    "exp": "El Título II (arts. 56 a 65) se dedica a 'De la Corona'."
+    "exp": "El Título II (arts. 56 a 65) se dedica a 'De la Corona'.",
+    "fuente": "Estructura CE: Título II, arts. 56 a 65"
   },
   {
     "q": "Tras el Título Preliminar, la Constitución se estructura en:",
@@ -423,7 +458,8 @@ const QUESTIONS = {
       "Cinco títulos numerados del I al V"
     ],
     "correct": 0,
-    "exp": "La Constitución tiene diez títulos (I a X) además del Título Preliminar."
+    "exp": "La Constitución tiene diez títulos (I a X) además del Título Preliminar.",
+    "fuente": "Estructura CE: Título Preliminar y Títulos I a X"
   },
   {
     "q": "¿Cuál de las siguientes NO es parte de las disposiciones finales del articulado de la Constitución?",
@@ -434,7 +470,8 @@ const QUESTIONS = {
       "Disposición inicial"
     ],
     "correct": 3,
-    "exp": "Tras el Título X, la Constitución incluye disposiciones adicionales, transitorias, una disposición derogatoria y una disposición final; no existe una 'disposición inicial'."
+    "exp": "Tras el Título X, la Constitución incluye disposiciones adicionales, transitorias, una disposición derogatoria y una disposición final; no existe una 'disposición inicial'.",
+    "fuente": "Estructura CE: parte final (4 disp. adicionales, 9 transitorias, 1 derogatoria y 1 final)"
   },
   {
     "q": "Según el Preámbulo, la Nación española proclama su voluntad de consolidar un Estado de Derecho que asegure:",
@@ -445,7 +482,8 @@ const QUESTIONS = {
       "El monopolio estatal de la economía"
     ],
     "correct": 0,
-    "exp": "El Preámbulo proclama la voluntad de 'Consolidar un Estado de Derecho que asegure el imperio de la ley como expresión de la voluntad popular.'"
+    "exp": "El Preámbulo proclama la voluntad de 'Consolidar un Estado de Derecho que asegure el imperio de la ley como expresión de la voluntad popular.'",
+    "fuente": "Preámbulo CE"
   },
   {
     "q": "Entre las voluntades que proclama el Preámbulo de la Constitución se encuentra establecer una:",
@@ -456,7 +494,8 @@ const QUESTIONS = {
       "Dictadura constitucional transitoria"
     ],
     "correct": 0,
-    "exp": "El Preámbulo proclama, entre otras voluntades, 'Establecer una sociedad democrática avanzada'."
+    "exp": "El Preámbulo proclama, entre otras voluntades, 'Establecer una sociedad democrática avanzada'.",
+    "fuente": "Preámbulo CE"
   },
   {
     "q": "¿Quién dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado, según el art. 97 CE?",
@@ -467,7 +506,8 @@ const QUESTIONS = {
       "El Congreso de los Diputados"
     ],
     "correct": 1,
-    "exp": "Art. 97: 'El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado.'"
+    "exp": "Art. 97: 'El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado.'",
+    "fuente": "Art. 97 CE"
   },
   {
     "q": "Según el art. 97 CE, además de la función ejecutiva, el Gobierno ejerce:",
@@ -478,7 +518,8 @@ const QUESTIONS = {
       "La potestad tributaria exclusiva"
     ],
     "correct": 0,
-    "exp": "Art. 97: 'Ejerce la función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las leyes.'"
+    "exp": "Art. 97: 'Ejerce la función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las leyes.'",
+    "fuente": "Art. 97 CE"
   },
   {
     "q": "Según el art. 98.1 CE, el Gobierno se compone del Presidente, de los Vicepresidentes en su caso, de los Ministros y:",
@@ -489,7 +530,8 @@ const QUESTIONS = {
       "De los Presidentes autonómicos"
     ],
     "correct": 0,
-    "exp": "Art. 98.1: '...y de los demás miembros que establezca la ley.'"
+    "exp": "Art. 98.1: '...y de los demás miembros que establezca la ley.'",
+    "fuente": "Art. 98.1 CE"
   },
   {
     "q": "Según el art. 98.2 CE, el Presidente del Gobierno dirige la acción de este y:",
@@ -500,7 +542,8 @@ const QUESTIONS = {
       "Ejerce en solitario la potestad reglamentaria"
     ],
     "correct": 0,
-    "exp": "Art. 98.2: 'El Presidente dirige la acción del Gobierno y coordina las funciones de los demás miembros del mismo, sin perjuicio de la competencia y responsabilidad directa de éstos en su gestión.'"
+    "exp": "Art. 98.2: 'El Presidente dirige la acción del Gobierno y coordina las funciones de los demás miembros del mismo, sin perjuicio de la competencia y responsabilidad directa de éstos en su gestión.'",
+    "fuente": "Art. 98.2 CE"
   },
   {
     "q": "Según el art. 98.3 CE, los miembros del Gobierno, además del mandato parlamentario, no podrán ejercer:",
@@ -511,7 +554,8 @@ const QUESTIONS = {
       "Cargos honoríficos sin remuneración"
     ],
     "correct": 0,
-    "exp": "Art. 98.3: '...ni cualquier otra función pública que no derive de su cargo, ni actividad profesional o mercantil alguna.'"
+    "exp": "Art. 98.3: '...ni cualquier otra función pública que no derive de su cargo, ni actividad profesional o mercantil alguna.'",
+    "fuente": "Art. 98.3 CE"
   },
   {
     "q": "Según el art. 99.3 CE, para ser investido Presidente del Gobierno en la primera votación, el candidato necesita el voto de:",
@@ -522,7 +566,8 @@ const QUESTIONS = {
       "La mayoría absoluta del Senado"
     ],
     "correct": 1,
-    "exp": "Art. 99.3: 'Si el Congreso de los Diputados, por el voto de la mayoría absoluta de sus miembros, otorgare su confianza a dicho candidato, el Rey le nombrará Presidente.'"
+    "exp": "Art. 99.3: 'Si el Congreso de los Diputados, por el voto de la mayoría absoluta de sus miembros, otorgare su confianza a dicho candidato, el Rey le nombrará Presidente.'",
+    "fuente": "Art. 99.3 CE"
   },
   {
     "q": "Si no se alcanza la mayoría absoluta en la primera votación de investidura, según el art. 99.3, la nueva votación se celebra:",
@@ -533,7 +578,8 @@ const QUESTIONS = {
       "Al día siguiente, exigiendo unanimidad"
     ],
     "correct": 0,
-    "exp": "Art. 99.3: 'se someterá la misma propuesta a nueva votación cuarenta y ocho horas después de la anterior, y la confianza se entenderá otorgada si obtuviere la mayoría simple.'"
+    "exp": "Art. 99.3: 'se someterá la misma propuesta a nueva votación cuarenta y ocho horas después de la anterior, y la confianza se entenderá otorgada si obtuviere la mayoría simple.'",
+    "fuente": "Art. 99.3 CE"
   },
   {
     "q": "Según el art. 99.5 CE, si transcurridos dos meses desde la primera votación de investidura ningún candidato ha obtenido la confianza del Congreso:",
@@ -544,7 +590,8 @@ const QUESTIONS = {
       "El Senado asume la propuesta de candidato"
     ],
     "correct": 0,
-    "exp": "Art. 99.5: '...el Rey disolverá ambas Cámaras y convocará nuevas elecciones con el refrendo del Presidente del Congreso.'"
+    "exp": "Art. 99.5: '...el Rey disolverá ambas Cámaras y convocará nuevas elecciones con el refrendo del Presidente del Congreso.'",
+    "fuente": "Art. 99.5 CE"
   },
   {
     "q": "Según el art. 100 CE, los Ministros son nombrados y separados por:",
@@ -555,7 +602,8 @@ const QUESTIONS = {
       "El Consejo de Ministros en pleno"
     ],
     "correct": 0,
-    "exp": "Art. 100: 'Los demás miembros del Gobierno serán nombrados y separados por el Rey, a propuesta de su Presidente.'"
+    "exp": "Art. 100: 'Los demás miembros del Gobierno serán nombrados y separados por el Rey, a propuesta de su Presidente.'",
+    "fuente": "Art. 100 CE"
   },
   {
     "q": "¿Cuál de las siguientes NO es una causa de cese del Gobierno según el art. 101.1 CE?",
@@ -566,7 +614,8 @@ const QUESTIONS = {
       "Aprobación de los Presupuestos Generales del Estado"
     ],
     "correct": 3,
-    "exp": "Art. 101.1 recoge como causas de cese: celebración de elecciones generales, pérdida de la confianza parlamentaria, dimisión o fallecimiento del Presidente. La aprobación de los PGE no es causa de cese."
+    "exp": "Art. 101.1 recoge como causas de cese: celebración de elecciones generales, pérdida de la confianza parlamentaria, dimisión o fallecimiento del Presidente. La aprobación de los PGE no es causa de cese.",
+    "fuente": "Art. 101.1 CE"
   },
   {
     "q": "Según el art. 101.2 CE, el Gobierno cesante continuará en funciones hasta:",
@@ -577,7 +626,8 @@ const QUESTIONS = {
       "Un máximo de 15 días tras el cese"
     ],
     "correct": 0,
-    "exp": "Art. 101.2: 'El Gobierno cesante continuará en funciones hasta la toma de posesión del nuevo Gobierno.'"
+    "exp": "Art. 101.2: 'El Gobierno cesante continuará en funciones hasta la toma de posesión del nuevo Gobierno.'",
+    "fuente": "Art. 101.2 CE"
   },
   {
     "q": "Según el art. 102.1 CE, la responsabilidad criminal del Presidente y de los demás miembros del Gobierno es exigible ante:",
@@ -588,7 +638,8 @@ const QUESTIONS = {
       "El Congreso de los Diputados en pleno"
     ],
     "correct": 0,
-    "exp": "Art. 102.1: 'La responsabilidad criminal del Presidente y los demás miembros del Gobierno será exigible, en su caso, ante la Sala de lo Penal del Tribunal Supremo.'"
+    "exp": "Art. 102.1: 'La responsabilidad criminal del Presidente y los demás miembros del Gobierno será exigible, en su caso, ante la Sala de lo Penal del Tribunal Supremo.'",
+    "fuente": "Art. 102.1 CE"
   },
   {
     "q": "Según el art. 103.1 CE, la Administración Pública sirve con objetividad:",
@@ -599,7 +650,8 @@ const QUESTIONS = {
       "Los intereses de sus empleados públicos"
     ],
     "correct": 0,
-    "exp": "Art. 103.1: 'La Administración Pública sirve con objetividad los intereses generales...'"
+    "exp": "Art. 103.1: 'La Administración Pública sirve con objetividad los intereses generales...'",
+    "fuente": "Art. 103.1 CE"
   },
   {
     "q": "¿Cuál de los siguientes NO es uno de los principios de actuación de la Administración Pública recogidos en el art. 103.1 CE?",
@@ -610,7 +662,8 @@ const QUESTIONS = {
       "Proporcionalidad"
     ],
     "correct": 3,
-    "exp": "El art. 103.1 recoge los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación. La proporcionalidad no figura en este artículo."
+    "exp": "El art. 103.1 recoge los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación. La proporcionalidad no figura en este artículo.",
+    "fuente": "Art. 103.1 CE"
   },
   {
     "q": "Según el art. 103.1 CE, la Administración Pública actúa con sometimiento pleno a:",
@@ -621,7 +674,8 @@ const QUESTIONS = {
       "El interés del funcionario actuante"
     ],
     "correct": 0,
-    "exp": "Art. 103.1 in fine: '...con sometimiento pleno a la ley y al Derecho.'"
+    "exp": "Art. 103.1 in fine: '...con sometimiento pleno a la ley y al Derecho.'",
+    "fuente": "Art. 103.1 CE"
   },
   {
     "q": "Según el art. 103.2 CE, los órganos de la Administración del Estado son creados, regidos y coordinados de acuerdo con:",
@@ -632,7 +686,8 @@ const QUESTIONS = {
       "Circular interna de cada organismo"
     ],
     "correct": 0,
-    "exp": "Art. 103.2: 'Los órganos de la Administración del Estado son creados, regidos y coordinados de acuerdo con la ley.'"
+    "exp": "Art. 103.2: 'Los órganos de la Administración del Estado son creados, regidos y coordinados de acuerdo con la ley.'",
+    "fuente": "Art. 103.2 CE"
   },
   {
     "q": "Según el art. 103.3 CE, el acceso a la función pública se rige por los principios de:",
@@ -643,7 +698,8 @@ const QUESTIONS = {
       "Sorteo público"
     ],
     "correct": 0,
-    "exp": "Art. 103.3: 'La ley regulará... el acceso a la función pública de acuerdo con los principios de mérito y capacidad...'"
+    "exp": "Art. 103.3: 'La ley regulará... el acceso a la función pública de acuerdo con los principios de mérito y capacidad...'",
+    "fuente": "Art. 103.3 CE"
   },
   {
     "q": "Además del estatuto de los funcionarios y el acceso por mérito y capacidad, el art. 103.3 CE encomienda a la ley regular:",
@@ -654,7 +710,8 @@ const QUESTIONS = {
       "El procedimiento legislativo ordinario"
     ],
     "correct": 0,
-    "exp": "Art. 103.3: '...las peculiaridades del ejercicio de su derecho a sindicación, el sistema de incompatibilidades y las garantías para la imparcialidad en el ejercicio de sus funciones.'"
+    "exp": "Art. 103.3: '...las peculiaridades del ejercicio de su derecho a sindicación, el sistema de incompatibilidades y las garantías para la imparcialidad en el ejercicio de sus funciones.'",
+    "fuente": "Art. 103.3 CE"
   },
   {
     "q": "Según el art. 104.1 CE, las Fuerzas y Cuerpos de Seguridad, bajo dependencia del Gobierno, tienen como misión proteger el libre ejercicio de los derechos y libertades y garantizar:",
@@ -665,7 +722,8 @@ const QUESTIONS = {
       "El orden constitucional exclusivamente en estados de excepción"
     ],
     "correct": 0,
-    "exp": "Art. 104.1: '...tendrán como misión proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana.'"
+    "exp": "Art. 104.1: '...tendrán como misión proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana.'",
+    "fuente": "Art. 104.1 CE"
   },
   {
     "q": "Según el art. 104.2 CE, ¿qué tipo de ley determina las funciones, principios básicos de actuación y estatutos de las Fuerzas y Cuerpos de Seguridad?",
@@ -676,7 +734,8 @@ const QUESTIONS = {
       "Reglamento del Ministerio del Interior"
     ],
     "correct": 0,
-    "exp": "Art. 104.2: 'Una ley orgánica determinará las funciones, principios básicos de actuación y estatutos de las Fuerzas y Cuerpos de seguridad.'"
+    "exp": "Art. 104.2: 'Una ley orgánica determinará las funciones, principios básicos de actuación y estatutos de las Fuerzas y Cuerpos de seguridad.'",
+    "fuente": "Art. 104.2 CE"
   },
   {
     "q": "Según el art. 105 a) CE, la ley regulará la audiencia de los ciudadanos en el procedimiento de elaboración de:",
@@ -687,7 +746,8 @@ const QUESTIONS = {
       "Los presupuestos generales del Estado"
     ],
     "correct": 0,
-    "exp": "Art. 105 a): 'La audiencia de los ciudadanos... en el procedimiento de elaboración de las disposiciones administrativas que les afecten.'"
+    "exp": "Art. 105 a): 'La audiencia de los ciudadanos... en el procedimiento de elaboración de las disposiciones administrativas que les afecten.'",
+    "fuente": "Art. 105 a) CE"
   },
   {
     "q": "Según el art. 105 b) CE, el acceso de los ciudadanos a los archivos y registros administrativos tiene como límite, entre otros, la seguridad y defensa del Estado, la averiguación de los delitos y:",
@@ -698,7 +758,8 @@ const QUESTIONS = {
       "La disponibilidad horaria del funcionario"
     ],
     "correct": 0,
-    "exp": "Art. 105 b): '...salvo en lo que afecte a la seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de las personas.'"
+    "exp": "Art. 105 b): '...salvo en lo que afecte a la seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de las personas.'",
+    "fuente": "Art. 105 b) CE"
   },
   {
     "q": "Según el art. 105 c) CE, la ley regulará el procedimiento a través del cual deben producirse los actos administrativos, garantizando, cuando proceda:",
@@ -709,7 +770,8 @@ const QUESTIONS = {
       "La doble instancia obligatoria"
     ],
     "correct": 0,
-    "exp": "Art. 105 c): '...garantizando, cuando proceda, la audiencia del interesado.'"
+    "exp": "Art. 105 c): '...garantizando, cuando proceda, la audiencia del interesado.'",
+    "fuente": "Art. 105 c) CE"
   },
   {
     "q": "Según el art. 106.1 CE, los Tribunales controlan la potestad reglamentaria y:",
@@ -720,7 +782,8 @@ const QUESTIONS = {
       "La actividad de los partidos políticos"
     ],
     "correct": 0,
-    "exp": "Art. 106.1: 'Los Tribunales controlan la potestad reglamentaria y la legalidad de la actuación administrativa, así como el sometimiento de ésta a los fines que la justifican.'"
+    "exp": "Art. 106.1: 'Los Tribunales controlan la potestad reglamentaria y la legalidad de la actuación administrativa, así como el sometimiento de ésta a los fines que la justifican.'",
+    "fuente": "Art. 106.1 CE"
   },
   {
     "q": "Según el art. 106.2 CE, los particulares tendrán derecho a ser indemnizados por toda lesión en sus bienes y derechos, salvo en los casos de:",
@@ -731,7 +794,8 @@ const QUESTIONS = {
       "Recurso de alzada pendiente"
     ],
     "correct": 0,
-    "exp": "Art. 106.2: '...salvo en los casos de fuerza mayor, siempre que la lesión sea consecuencia del funcionamiento de los servicios públicos.'"
+    "exp": "Art. 106.2: '...salvo en los casos de fuerza mayor, siempre que la lesión sea consecuencia del funcionamiento de los servicios públicos.'",
+    "fuente": "Art. 106.2 CE"
   },
   {
     "q": "Según el art. 106.2 CE, la lesión indemnizable debe ser consecuencia del funcionamiento de:",
@@ -742,7 +806,8 @@ const QUESTIONS = {
       "Los partidos políticos"
     ],
     "correct": 0,
-    "exp": "Art. 106.2 exige que la lesión sea 'consecuencia del funcionamiento de los servicios públicos', fundamento de la responsabilidad patrimonial de la Administración."
+    "exp": "Art. 106.2 exige que la lesión sea 'consecuencia del funcionamiento de los servicios públicos', fundamento de la responsabilidad patrimonial de la Administración.",
+    "fuente": "Art. 106.2 CE"
   },
   {
     "q": "¿Qué artículos comprende el Título IV de la Constitución, 'Del Gobierno y de la Administración'?",
@@ -753,7 +818,8 @@ const QUESTIONS = {
       "Del 103 al 116"
     ],
     "correct": 0,
-    "exp": "El Título IV abarca los artículos 97 a 107."
+    "exp": "El Título IV abarca los artículos 97 a 107.",
+    "fuente": "Estructura CE: Título IV, arts. 97 a 107"
   },
   {
     "q": "Dentro de los principios del art. 103.1 CE, el reparto de competencias hacia entes territoriales distintos del Estado se corresponde con el principio de:",
@@ -764,7 +830,8 @@ const QUESTIONS = {
       "Eficacia"
     ],
     "correct": 0,
-    "exp": "La descentralización, uno de los principios del art. 103.1, supone el traspaso de competencias hacia otros entes territoriales (CCAA, entidades locales)."
+    "exp": "La descentralización, uno de los principios del art. 103.1, supone el traspaso de competencias hacia otros entes territoriales (CCAA, entidades locales).",
+    "fuente": "Art. 103.1 CE (principio de descentralización)"
   },
   {
     "q": "Dentro de los principios del art. 103.1 CE, el traspaso de funciones dentro del mismo ente hacia órganos de rango inferior se corresponde con el principio de:",
@@ -775,7 +842,8 @@ const QUESTIONS = {
       "Objetividad"
     ],
     "correct": 0,
-    "exp": "La desconcentración implica el traspaso de competencias de órganos superiores a inferiores dentro de la misma Administración, a diferencia de la descentralización, que implica trasladarlas a otro ente."
+    "exp": "La desconcentración implica el traspaso de competencias de órganos superiores a inferiores dentro de la misma Administración, a diferencia de la descentralización, que implica trasladarlas a otro ente.",
+    "fuente": "Art. 103.1 CE (principio de desconcentración)"
   },
   {
     "q": "Según el art. 137 CE, el Estado se organiza territorialmente en:",
@@ -786,7 +854,8 @@ const QUESTIONS = {
       "Comunidades Autónomas y el Estado central únicamente"
     ],
     "correct": 0,
-    "exp": "Art. 137: 'El Estado se organiza territorialmente en municipios, en provincias y en las Comunidades Autónomas que se constituyan.'"
+    "exp": "Art. 137: 'El Estado se organiza territorialmente en municipios, en provincias y en las Comunidades Autónomas que se constituyan.'",
+    "fuente": "Art. 137 CE"
   },
   {
     "q": "Según el art. 137 CE, todas las entidades en que se organiza territorialmente el Estado gozan de autonomía para:",
@@ -797,7 +866,8 @@ const QUESTIONS = {
       "Establecer su propia moneda"
     ],
     "correct": 0,
-    "exp": "Art. 137: 'Todas estas entidades gozan de autonomía para la gestión de sus respectivos intereses.'"
+    "exp": "Art. 137: 'Todas estas entidades gozan de autonomía para la gestión de sus respectivos intereses.'",
+    "fuente": "Art. 137 CE"
   },
   {
     "q": "Según el art. 138.1 CE, el Estado garantiza la realización efectiva del principio de:",
@@ -808,7 +878,8 @@ const QUESTIONS = {
       "Reciprocidad"
     ],
     "correct": 0,
-    "exp": "Art. 138.1: 'El Estado garantiza la realización efectiva del principio de solidaridad consagrado en el artículo 2...'"
+    "exp": "Art. 138.1: 'El Estado garantiza la realización efectiva del principio de solidaridad consagrado en el artículo 2...'",
+    "fuente": "Art. 138.1 CE"
   },
   {
     "q": "Según el art. 138.1 CE, al velar por el equilibrio económico entre territorios, el Estado atiende en particular a las circunstancias de:",
@@ -819,7 +890,8 @@ const QUESTIONS = {
       "El hecho lingüístico"
     ],
     "correct": 0,
-    "exp": "Art. 138.1: '...atendiendo en particular a las circunstancias del hecho insular.'"
+    "exp": "Art. 138.1: '...atendiendo en particular a las circunstancias del hecho insular.'",
+    "fuente": "Art. 138.1 CE"
   },
   {
     "q": "Según el art. 139.1 CE, todos los españoles tienen los mismos derechos y obligaciones:",
@@ -830,7 +902,8 @@ const QUESTIONS = {
       "En función de su Comunidad Autónoma de origen"
     ],
     "correct": 0,
-    "exp": "Art. 139.1: 'Todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado.'"
+    "exp": "Art. 139.1: 'Todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado.'",
+    "fuente": "Art. 139.1 CE"
   },
   {
     "q": "Según el art. 139.2 CE, ninguna autoridad podrá adoptar medidas que obstaculicen:",
@@ -841,7 +914,8 @@ const QUESTIONS = {
       "El acceso a la función pública"
     ],
     "correct": 0,
-    "exp": "Art. 139.2: 'Ninguna autoridad podrá adoptar medidas que directa o indirectamente obstaculicen la libertad de circulación y establecimiento de las personas y la libre circulación de bienes en todo el territorio español.'"
+    "exp": "Art. 139.2: 'Ninguna autoridad podrá adoptar medidas que directa o indirectamente obstaculicen la libertad de circulación y establecimiento de las personas y la libre circulación de bienes en todo el territorio español.'",
+    "fuente": "Art. 139.2 CE"
   },
   {
     "q": "Según el art. 140 CE, la Constitución garantiza la autonomía de:",
@@ -852,7 +926,8 @@ const QUESTIONS = {
       "Las mancomunidades"
     ],
     "correct": 0,
-    "exp": "Art. 140: 'La Constitución garantiza la autonomía de los municipios.'"
+    "exp": "Art. 140: 'La Constitución garantiza la autonomía de los municipios.'",
+    "fuente": "Art. 140 CE"
   },
   {
     "q": "Según el art. 140 CE, los municipios gozarán de:",
@@ -863,7 +938,8 @@ const QUESTIONS = {
       "Personalidad jurídica derivada de la provincia"
     ],
     "correct": 0,
-    "exp": "Art. 140: 'Estos gozarán de personalidad jurídica plena.'"
+    "exp": "Art. 140: 'Estos gozarán de personalidad jurídica plena.'",
+    "fuente": "Art. 140 CE"
   },
   {
     "q": "Según el art. 140 CE, el gobierno y la administración del municipio corresponde a:",
@@ -874,7 +950,8 @@ const QUESTIONS = {
       "El Delegado del Gobierno"
     ],
     "correct": 0,
-    "exp": "Art. 140: 'Su gobierno y administración corresponde a sus respectivos Ayuntamientos.'"
+    "exp": "Art. 140: 'Su gobierno y administración corresponde a sus respectivos Ayuntamientos.'",
+    "fuente": "Art. 140 CE"
   },
   {
     "q": "Según el art. 140 CE, los Ayuntamientos están integrados por:",
@@ -885,7 +962,8 @@ const QUESTIONS = {
       "El Pleno y la Junta de Gobierno exclusivamente"
     ],
     "correct": 0,
-    "exp": "Art. 140: '...integrados por los Alcaldes y los Concejales.'"
+    "exp": "Art. 140: '...integrados por los Alcaldes y los Concejales.'",
+    "fuente": "Art. 140 CE"
   },
   {
     "q": "Según el art. 140 CE, los Concejales serán elegidos por los vecinos del municipio mediante sufragio:",
@@ -896,7 +974,8 @@ const QUESTIONS = {
       "Censitario"
     ],
     "correct": 0,
-    "exp": "Art. 140: 'Los Concejales serán elegidos por los vecinos del municipio mediante sufragio universal, igual, libre, directo y secreto, en la forma establecida por la ley.'"
+    "exp": "Art. 140: 'Los Concejales serán elegidos por los vecinos del municipio mediante sufragio universal, igual, libre, directo y secreto, en la forma establecida por la ley.'",
+    "fuente": "Art. 140 CE"
   },
   {
     "q": "Según el art. 140 CE, los Alcaldes serán elegidos por:",
@@ -907,7 +986,8 @@ const QUESTIONS = {
       "La Diputación Provincial"
     ],
     "correct": 0,
-    "exp": "Art. 140: 'Los Alcaldes serán elegidos por los Concejales o por los vecinos.'"
+    "exp": "Art. 140: 'Los Alcaldes serán elegidos por los Concejales o por los vecinos.'",
+    "fuente": "Art. 140 CE"
   },
   {
     "q": "Según el art. 140 CE, la ley regulará las condiciones en las que proceda el régimen de:",
@@ -918,7 +998,8 @@ const QUESTIONS = {
       "Fusión municipal automática"
     ],
     "correct": 0,
-    "exp": "Art. 140 in fine: 'La ley regulará las condiciones en las que proceda el régimen del concejo abierto.'"
+    "exp": "Art. 140 in fine: 'La ley regulará las condiciones en las que proceda el régimen del concejo abierto.'",
+    "fuente": "Art. 140 CE"
   },
   {
     "q": "Según el art. 141.1 CE, la provincia es una entidad local con personalidad jurídica propia, determinada por:",
@@ -929,7 +1010,8 @@ const QUESTIONS = {
       "Criterios exclusivamente poblacionales"
     ],
     "correct": 0,
-    "exp": "Art. 141.1: 'La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado.'"
+    "exp": "Art. 141.1: 'La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado.'",
+    "fuente": "Art. 141.1 CE"
   },
   {
     "q": "Según el art. 141.2 CE, el gobierno y la administración autónoma de las provincias estarán encomendados a:",
@@ -940,7 +1022,8 @@ const QUESTIONS = {
       "Las Comunidades Autónomas directamente"
     ],
     "correct": 0,
-    "exp": "Art. 141.2: 'El gobierno y la administración autónoma de las provincias estarán encomendados a Diputaciones u otras Corporaciones de carácter representativo.'"
+    "exp": "Art. 141.2: 'El gobierno y la administración autónoma de las provincias estarán encomendados a Diputaciones u otras Corporaciones de carácter representativo.'",
+    "fuente": "Art. 141.2 CE"
   },
   {
     "q": "Según el art. 141.3 CE, además de la provincia, la Constitución permite crear:",
@@ -951,7 +1034,8 @@ const QUESTIONS = {
       "Distritos electorales autónomos"
     ],
     "correct": 0,
-    "exp": "Art. 141.3: 'Se podrán crear agrupaciones de municipios diferentes de la provincia.'"
+    "exp": "Art. 141.3: 'Se podrán crear agrupaciones de municipios diferentes de la provincia.'",
+    "fuente": "Art. 141.3 CE"
   },
   {
     "q": "Según el art. 141.4 CE, en los archipiélagos, las islas tendrán además su administración propia en forma de:",
@@ -962,7 +1046,8 @@ const QUESTIONS = {
       "Juntas de Distrito"
     ],
     "correct": 0,
-    "exp": "Art. 141.4: 'En los archipiélagos, las islas tendrán además su administración propia en forma de Cabildos o Consejos.'"
+    "exp": "Art. 141.4: 'En los archipiélagos, las islas tendrán además su administración propia en forma de Cabildos o Consejos.'",
+    "fuente": "Art. 141.4 CE"
   },
   {
     "q": "Según el art. 142 CE, las Haciendas locales deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a:",
@@ -973,7 +1058,8 @@ const QUESTIONS = {
       "Los organismos autónomos estatales"
     ],
     "correct": 0,
-    "exp": "Art. 142: 'Las Haciendas locales deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas...'"
+    "exp": "Art. 142: 'Las Haciendas locales deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas...'",
+    "fuente": "Art. 142 CE"
   },
   {
     "q": "Según el art. 142 CE, las Haciendas locales se nutrirán fundamentalmente de tributos propios y de participación en los tributos de:",
@@ -984,7 +1070,8 @@ const QUESTIONS = {
       "La Unión Europea"
     ],
     "correct": 0,
-    "exp": "Art. 142: '...se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas.'"
+    "exp": "Art. 142: '...se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas.'",
+    "fuente": "Art. 142 CE"
   },
   {
     "q": "¿Qué artículos comprende el Capítulo Segundo del Título VIII CE, 'De la Administración Local'?",
@@ -995,7 +1082,8 @@ const QUESTIONS = {
       "Del 148 al 149"
     ],
     "correct": 0,
-    "exp": "El Capítulo Segundo del Título VIII, dedicado a la Administración Local, comprende los artículos 140, 141 y 142."
+    "exp": "El Capítulo Segundo del Título VIII, dedicado a la Administración Local, comprende los artículos 140, 141 y 142.",
+    "fuente": "Estructura CE: Título VIII, Capítulo Segundo, arts. 140 a 142"
   },
   {
     "q": "¿Cuántas disposiciones adicionales tiene la Constitución Española tras su articulado?",
@@ -1006,7 +1094,8 @@ const QUESTIONS = {
       "Seis"
     ],
     "correct": 2,
-    "exp": "La Constitución cuenta con cuatro disposiciones adicionales (primera a cuarta)."
+    "exp": "La Constitución cuenta con cuatro disposiciones adicionales (primera a cuarta).",
+    "fuente": "Estructura CE: disposiciones adicionales primera a cuarta"
   },
   {
     "q": "Según el Preámbulo, la Nación española proclama su voluntad 'en uso de su':",
@@ -1017,7 +1106,8 @@ const QUESTIONS = {
       "Iniciativa legislativa"
     ],
     "correct": 0,
-    "exp": "El Preámbulo comienza: 'La Nación española... en uso de su soberanía, proclama su voluntad de...'"
+    "exp": "El Preámbulo comienza: 'La Nación española... en uso de su soberanía, proclama su voluntad de...'",
+    "fuente": "Preámbulo CE"
   },
   {
     "q": "Entre los principios del art. 9.3 CE se incluye expresamente, junto a la jerarquía normativa, el principio de:",
@@ -1028,7 +1118,8 @@ const QUESTIONS = {
       "Territorialidad"
     ],
     "correct": 0,
-    "exp": "Art. 9.3: 'La Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas...'"
+    "exp": "Art. 9.3: 'La Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas...'",
+    "fuente": "Art. 9.3 CE"
   },
   {
     "q": "¿Cuándo entró en vigor la Constitución Española de 1978?",
@@ -1039,7 +1130,8 @@ const QUESTIONS = {
       "El día del referéndum"
     ],
     "correct": 0,
-    "exp": "La Constitución entró en vigor el mismo día de su publicación en el BOE: 29 de diciembre de 1978."
+    "exp": "La Constitución entró en vigor el mismo día de su publicación en el BOE: 29 de diciembre de 1978.",
+    "fuente": "Disposición final CE"
   },
   {
     "q": "La Constitución de 1978 ha sido calificada históricamente como la Constitución:",
@@ -1050,7 +1142,8 @@ const QUESTIONS = {
       "De la Transición exclusivamente militar"
     ],
     "correct": 1,
-    "exp": "Se redactó a partir de negociaciones y acuerdos entre los distintos partidos con representación parlamentaria, por lo que ha sido calificada como la 'Constitución del consenso'."
+    "exp": "Se redactó a partir de negociaciones y acuerdos entre los distintos partidos con representación parlamentaria, por lo que ha sido calificada como la 'Constitución del consenso'.",
+    "fuente": "Elaboración de la CE: proceso de consenso (calificación doctrinal, no consta en el texto)"
   },
 ],
 2:[
