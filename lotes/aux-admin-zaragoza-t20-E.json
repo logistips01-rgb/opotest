@@ -1,0 +1,396 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 20,
+  "preguntas": [
+    {
+      "q": "Conforme al texto refundido de la Ley de Urbanismo de Aragón, la división o segregación simultánea o sucesiva de terrenos en dos o más lotes cuya finalidad esté exclusivamente vinculada a la explotación agraria de la tierra constituye:",
+      "options": [
+        "Una parcelación rústica",
+        "Una parcelación urbanística",
+        "Una reparcelación agraria",
+        "Una normalización de fincas rústicas"
+      ],
+      "correct": 0,
+      "exp": "El art. 241.1 TRLUA considera parcelación rústica toda división o segregación simultánea o sucesiva de terrenos en dos o más lotes, siempre que tenga una finalidad exclusivamente vinculada a la explotación agraria de la tierra.",
+      "fuente": "Art. 241.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el texto refundido de la Ley de Urbanismo de Aragón, se considera parcelación urbanística toda división o segregación simultánea o sucesiva de terrenos en dos o más lotes cuando tenga por finalidad:",
+      "options": [
+        "Constituir un núcleo de población en suelo no urbanizable genérico",
+        "Permitir o facilitar la realización de actos de edificación o uso del suelo o del subsuelo sometidos a licencia urbanística",
+        "Adecuar la estructura de la propiedad a las unidades mínimas de cultivo",
+        "Distribuir equitativamente los beneficios y las cargas entre los propietarios de la unidad de ejecución"
+      ],
+      "correct": 1,
+      "exp": "Es la definición literal del art. 241.2 TRLUA: la finalidad de permitir o facilitar la realización de actos de edificación o uso del suelo o del subsuelo sometidos a licencia urbanística es lo que convierte la división en parcelación urbanística.",
+      "fuente": "Art. 241.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Para autorizar e inscribir, respectivamente, escrituras de división de terrenos, los Notarios y los Registradores de la Propiedad exigirán, conforme al texto refundido de la Ley de Urbanismo de Aragón, que se acredite:",
+      "options": [
+        "Únicamente el otorgamiento de la licencia municipal de parcelación, sin que quepa sustituirla por declaración alguna",
+        "La previa inscripción del proyecto de reparcelación en el Registro de la Propiedad",
+        "El informe favorable del Consejo Provincial de Urbanismo sobre la división proyectada",
+        "El otorgamiento de la licencia o la declaración municipal de su innecesariedad, que los Notarios deberán testimoniar en el documento"
+      ],
+      "correct": 3,
+      "exp": "El art. 241.3 TRLUA impone a Notarios y Registradores exigir que se acredite el otorgamiento de la licencia o la declaración municipal de su innecesariedad, «que los primeros deberán testimoniar en el documento», es decir, los Notarios.",
+      "fuente": "Art. 241.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "A efectos urbanísticos, el texto refundido de la Ley de Urbanismo de Aragón considera ilegal toda parcelación contraria a lo establecido en dicha Ley y en el planeamiento urbanístico, especialmente cuando:",
+      "options": [
+        "Afecte a fincas de superficie inferior a la unidad mínima de cultivo",
+        "Se formalice sin intervención de Notario ni acceso al Registro de la Propiedad",
+        "Pueda dar lugar a la constitución de un núcleo de población",
+        "Recaiga sobre terrenos clasificados como suelo urbano no consolidado"
+      ],
+      "correct": 2,
+      "exp": "El art. 242.1 TRLUA califica de ilegal la parcelación contraria a la Ley y al planeamiento, «especialmente cuando pueda dar lugar a la constitución de un núcleo de población».",
+      "fuente": "Art. 242.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "En defecto de caracterización más estricta en el planeamiento, el texto refundido de la Ley de Urbanismo de Aragón considera núcleo de población:",
+      "options": [
+        "La agrupación de al menos cinco viviendas unifamiliares situadas en un radio de quinientos metros",
+        "Toda agrupación de construcciones, cualquiera que sea su uso, que cuente con acceso rodado y suministro eléctrico",
+        "El conjunto de edificaciones que albergue una población superior a veinticinco habitantes",
+        "La agrupación de edificaciones residenciales, susceptibles de necesitar servicios urbanísticos y dotaciones comunes"
+      ],
+      "correct": 3,
+      "exp": "El art. 242.2 TRLUA define subsidiariamente el núcleo de población como la agrupación de edificaciones residenciales susceptibles de necesitar servicios urbanísticos y dotaciones comunes, sin fijar umbrales numéricos.",
+      "fuente": "Art. 242.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al texto refundido de la Ley de Urbanismo de Aragón, no podrá realizarse parcelación alguna que dé lugar a lotes de superficie o dimensiones inferiores a las determinadas como mínimas en el planeamiento o en la legislación sectorial, salvo que:",
+      "options": [
+        "Los lotes resultantes se destinen a usos dotacionales públicos",
+        "El Alcalde autorice expresamente la excepción, previo informe de los servicios técnicos municipales",
+        "Dichos lotes sean adquiridos simultáneamente por los propietarios de terrenos colindantes con el fin de agruparlos con sus fincas para constituir una nueva",
+        "La parcelación se formalice en escritura pública con testimonio de la declaración de innecesariedad de licencia"
+      ],
+      "correct": 2,
+      "exp": "El art. 243.1 TRLUA admite como única salvedad que los lotes inferiores a la parcela mínima sean adquiridos simultáneamente por los propietarios colindantes para agruparlos con sus fincas y constituir una nueva.",
+      "fuente": "Art. 243.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el texto refundido de la Ley de Urbanismo de Aragón, no se podrá efectuar ninguna parcelación urbanística sin que previamente:",
+      "options": [
+        "Haya sido aprobado el planeamiento urbanístico exigible según la clase de suelo de que se trate",
+        "Se haya inscrito la finca matriz en el Registro de la Propiedad",
+        "Se haya constituido la junta de compensación de la unidad de ejecución",
+        "Se haya obtenido la declaración municipal de innecesariedad de licencia"
+      ],
+      "correct": 0,
+      "exp": "Así lo exige el art. 244.1 TRLUA: la parcelación urbanística requiere la previa aprobación del planeamiento urbanístico exigible según la clase de suelo.",
+      "fuente": "Art. 244.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "De acuerdo con el texto refundido de la Ley de Urbanismo de Aragón, los lotes resultantes de una parcelación ilegal:",
+      "options": [
+        "Podrán edificarse si transcurren cuatro años sin que se adopten medidas de restauración de la legalidad",
+        "En ningún caso se consideran solares, ni se permitirá edificar en ellos",
+        "Tendrán la condición de solar cuando cuenten con los servicios urbanísticos básicos",
+        "Sólo podrán edificarse previa declaración municipal de innecesariedad de licencia"
+      ],
+      "correct": 1,
+      "exp": "El art. 244.2 TRLUA establece que en ningún caso se consideran solares los lotes resultantes de una parcelación ilegal, ni se permitirá edificar en ellos.",
+      "fuente": "Art. 244.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al texto refundido de la Ley de Urbanismo de Aragón, toda parcelación urbanística queda sujeta a:",
+      "options": [
+        "Declaración responsable presentada ante el Alcalde",
+        "Comunicación previa al municipio con quince días de antelación",
+        "Autorización especial otorgada por el Consejo Provincial de Urbanismo",
+        "Licencia o a la aprobación del proyecto de reparcelación que la contenga"
+      ],
+      "correct": 3,
+      "exp": "El art. 245.1 TRLUA sujeta toda parcelación urbanística a licencia o a la aprobación del proyecto de reparcelación que la contenga.",
+      "fuente": "Art. 245.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "La declaración previa de innecesariedad de licencia a la que quedan sujetas las parcelaciones rústicas no se exige, según el texto refundido de la Ley de Urbanismo de Aragón, respecto de:",
+      "options": [
+        "Las operaciones realizadas en los procedimientos de concentración parcelaria",
+        "Las divisiones de fincas situadas en suelo no urbanizable especial",
+        "Las segregaciones que no superen la unidad mínima de cultivo",
+        "Las operaciones formalizadas en escritura pública ante Notario"
+      ],
+      "correct": 0,
+      "exp": "El art. 245.2 TRLUA exceptúa expresamente de la declaración previa de innecesariedad las operaciones realizadas en los procedimientos de concentración parcelaria.",
+      "fuente": "Art. 245.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Además de hacer constar los objetivos de la parcelación y de acompañar un plano de situación con el emplazamiento de los terrenos que se pretende fraccionar, en las solicitudes de licencia de parcelación urbanística será necesario presentar, conforme al texto refundido de la Ley de Urbanismo de Aragón:",
+      "options": [
+        "Un estudio de detalle de la ordenación de volúmenes",
+        "Un plano a escala adecuada de las fincas resultantes de la parcelación",
+        "Certificación catastral descriptiva y gráfica de la finca matriz",
+        "Nota simple del Registro de la Propiedad de cada uno de los lotes"
+      ],
+      "correct": 1,
+      "exp": "El art. 246.2 TRLUA exige, sólo para las licencias de parcelación urbanística, presentar además un plano a escala adecuada de las fincas resultantes de la parcelación.",
+      "fuente": "Art. 246.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿A qué órgano corresponde, conforme al texto refundido de la Ley de Urbanismo de Aragón, resolver sobre el otorgamiento de la licencia de parcelación o la declaración de su innecesariedad, indicando en su caso la finalidad específica de la parcelación y las condiciones urbanísticas aplicables a las nuevas parcelas?",
+      "options": [
+        "Al Pleno del Ayuntamiento",
+        "A la Junta de Gobierno Local",
+        "Al Alcalde",
+        "Al Consejo Provincial de Urbanismo"
+      ],
+      "correct": 2,
+      "exp": "El art. 246.3 TRLUA atribuye al Alcalde resolver sobre el otorgamiento de la licencia o la declaración de su innecesariedad, indicando la finalidad específica de la parcelación y las condiciones urbanísticas de las nuevas parcelas.",
+      "fuente": "Art. 246.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "En las solicitudes de licencia de parcelación y de declaración de su innecesariedad, el texto refundido de la Ley de Urbanismo de Aragón establece que el silencio administrativo:",
+      "options": [
+        "Se entenderá estimatorio, salvo que la parcelación afecte a suelo no urbanizable",
+        "Se entenderá estimatorio transcurridos tres meses desde la solicitud",
+        "Se entenderá denegatorio sólo cuando se trate de parcelaciones rústicas",
+        "Siempre se entenderá denegatorio de la solicitud"
+      ],
+      "correct": 3,
+      "exp": "El art. 246.4 TRLUA dispone que en estos casos el silencio administrativo siempre se entenderá denegatorio de la solicitud de licencia de parcelación o de la declaración de su innecesariedad.",
+      "fuente": "Art. 246.4 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Los Ayuntamientos en cuyo término municipal existan parcelaciones ilegales podrán iniciar el procedimiento de regularización de las mismas siempre que hubieran sido constituidas con anterioridad a la fecha que fija el texto refundido de la Ley de Urbanismo de Aragón, que es:",
+      "options": [
+        "El 8 de julio de 2014",
+        "El 20 de marzo de 2009",
+        "El 20 de marzo de 2012",
+        "El 31 de diciembre de 2011"
+      ],
+      "correct": 2,
+      "exp": "El art. 247.1 TRLUA fija como fecha de corte el 20 de marzo de 2012: sólo las parcelaciones ilegales constituidas con anterioridad a esa fecha pueden ser objeto del procedimiento de regularización.",
+      "fuente": "Art. 247.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al texto refundido de la Ley de Urbanismo de Aragón, la elaboración del censo de parcelaciones existentes en el municipio que el Ayuntamiento debe aportar para iniciar el procedimiento de regularización:",
+      "options": [
+        "Corresponde en exclusiva a los servicios técnicos municipales",
+        "Podrá encomendarse a la comarca mediante los oportunos instrumentos de colaboración",
+        "Deberá encargarse a la Dirección General competente en materia de urbanismo",
+        "Podrá encomendarse a la Diputación Provincial previa delegación acordada por el Pleno"
+      ],
+      "correct": 1,
+      "exp": "El art. 247.1 TRLUA, en su último inciso, permite encomendar la elaboración de dicho censo a la comarca mediante los oportunos instrumentos de colaboración.",
+      "fuente": "Art. 247.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Además de aportar el censo de parcelaciones existentes en el municipio, ¿qué requisitos exige el texto refundido de la Ley de Urbanismo de Aragón para que un Ayuntamiento pueda iniciar el procedimiento de regularización de parcelaciones ilegales?",
+      "options": [
+        "Que cuenten con más de veinte viviendas consolidadas y con acceso rodado",
+        "Que hayan sido objeto de expediente sancionador con resolución firme",
+        "Que sean consideradas viables técnica y económicamente y que no se ubiquen en suelos objeto de protección especial conforme a la propia ley",
+        "Que los propietarios afectados presten su conformidad por unanimidad ante el Pleno"
+      ],
+      "correct": 2,
+      "exp": "El art. 247.1 TRLUA condiciona el inicio del procedimiento a que las parcelaciones sean consideradas viables técnica y económicamente y a que no se ubiquen en suelos objeto de protección especial conforme a las determinaciones de la ley.",
+      "fuente": "Art. 247.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el texto refundido de la Ley de Urbanismo de Aragón, los procedimientos de regularización de parcelaciones ilegales se materializarán:",
+      "options": [
+        "Mediante un plan especial independiente aprobado por el Consejo Provincial de Urbanismo",
+        "Mediante estudios de detalle aprobados por el Alcalde",
+        "Mediante convenios urbanísticos suscritos con los parcelistas afectados",
+        "Bien en un proceso de redacción de planeamiento general o revisión del mismo, bien mediante específicas modificaciones del planeamiento general"
+      ],
+      "correct": 3,
+      "exp": "El art. 247.2 TRLUA prevé que los procedimientos de regularización se materialicen bien en un proceso de redacción o revisión del planeamiento general, bien mediante específicas modificaciones del planeamiento general, siguiendo en todo caso las condiciones del capítulo.",
+      "fuente": "Art. 247.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al texto refundido de la Ley de Urbanismo de Aragón, el censo de las parcelaciones ilegales existentes en Aragón ha de ser elaborado por:",
+      "options": [
+        "La Dirección General competente en materia de urbanismo, en el plazo de seis años desde el 20 de marzo de 2012",
+        "El Consejo de Ordenación del Territorio de Aragón, en el plazo de cuatro años desde el 20 de marzo de 2012",
+        "Los Consejos Provinciales de Urbanismo, en el plazo de seis años desde la entrada en vigor del texto refundido",
+        "La comarca correspondiente, en el plazo de tres años desde el 20 de marzo de 2012"
+      ],
+      "correct": 0,
+      "exp": "El art. 248.1 TRLUA encomienda a la Dirección General competente en materia de urbanismo la elaboración del censo de parcelaciones ilegales existentes «en el plazo de seis años desde el 20 de marzo de 2012».",
+      "fuente": "Art. 248.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Junto al censo de parcelaciones ilegales, el texto refundido de la Ley de Urbanismo de Aragón prevé la elaboración de un censo de ámbitos degradados por la realización de actuaciones urbanísticas ilegales aisladas, en los que deberá elaborarse:",
+      "options": [
+        "Un programa de urbanización de gestión indirecta por urbanizador",
+        "Un plan especial que incorpore las medidas precisas para acelerar la reposición de la legalidad infringida al estado anterior a la infracción",
+        "Un proyecto de urbanización de iniciativa municipal",
+        "Una delimitación de suelo urbano aprobada por el Consejo Provincial de Urbanismo"
+      ],
+      "correct": 1,
+      "exp": "El art. 248.1 TRLUA exige, en los ámbitos degradados censados, un plan especial que incorpore las medidas precisas para acelerar la reposición de la legalidad infringida al estado anterior a la infracción y evitar la consolidación y extensión de las conductas infractoras.",
+      "fuente": "Art. 248.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Una vez elaborado el censo autonómico de parcelaciones ilegales, el texto refundido de la Ley de Urbanismo de Aragón determina que:",
+      "options": [
+        "Podrán acogerse al proceso de regularización todas las parcelaciones anteriores al 20 de marzo de 2012, estén o no inscritas en el censo",
+        "El censo se revisará cada cuatro años para incorporar nuevas parcelaciones",
+        "Únicamente podrán acogerse al proceso de regularización aquellas parcelaciones que se encuentren inscritas en el mismo",
+        "La inscripción en el censo produce por sí misma la legalización de las parcelaciones incluidas"
+      ],
+      "correct": 2,
+      "exp": "El art. 248.2 TRLUA precisa que, desde el momento en que se elabore el censo de parcelaciones ilegales, únicamente podrán acogerse al proceso de regularización aquellas parcelaciones que se encuentren inscritas en él.",
+      "fuente": "Art. 248.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al texto refundido de la Ley de Urbanismo de Aragón, los planes generales de ordenación urbana podrán clasificar los terrenos que soporten núcleos de población formados ilegalmente sobre suelo no urbanizable de planes generales anteriores, atendida su situación de hecho y las características del territorio afectado, como:",
+      "options": [
+        "Suelo urbano consolidado, en todo caso",
+        "Suelo urbanizable o, en su caso, suelo urbano no consolidado, siempre que no hayan de ser objeto de especial protección",
+        "Suelo no urbanizable genérico sujeto a autorización especial",
+        "Sistema general de espacios libres"
+      ],
+      "correct": 1,
+      "exp": "El art. 249 TRLUA permite clasificar tales terrenos como suelo urbanizable o, en su caso, suelo urbano no consolidado, siempre que no hayan de ser objeto de especial protección conforme a las disposiciones de la ley.",
+      "fuente": "Art. 249 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el texto refundido de la Ley de Urbanismo de Aragón, cada parcelación ilegal incluida en suelo urbano no consolidado o urbanizable:",
+      "options": [
+        "Podrá dividirse en tantos sectores como unidades de ejecución se delimiten",
+        "Se desarrollará directamente mediante proyecto de urbanización, sin necesidad de plan de desarrollo",
+        "Se ordenará mediante estudio de detalle aprobado por el Alcalde",
+        "Se incluirá en un sector de planeamiento que será objeto de un solo plan de desarrollo"
+      ],
+      "correct": 3,
+      "exp": "El art. 250.1 TRLUA cierra su párrafo estableciendo que cada parcelación ilegal incluida en suelo urbano no consolidado o urbanizable se incluirá en un sector de planeamiento que será objeto de un solo plan de desarrollo.",
+      "fuente": "Art. 250.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Hasta que se ejecute el correspondiente planeamiento de desarrollo, ¿qué consideración tienen, conforme al texto refundido de la Ley de Urbanismo de Aragón, los edificios existentes en los suelos que soportan parcelaciones ilegales incluidas en suelo urbano no consolidado o urbanizable que no contaran con la necesaria licencia?",
+      "options": [
+        "Construcciones no autorizadas disconformes con el plan",
+        "Edificaciones fuera de ordenación susceptibles de obras parciales de consolidación",
+        "Edificaciones legalizadas por el solo efecto de la nueva clasificación del suelo",
+        "Construcciones en situación legal de ruina urbanística"
+      ],
+      "correct": 0,
+      "exp": "El art. 250.2 TRLUA dispone que, hasta que se ejecute el planeamiento de desarrollo, los edificios existentes en dichos suelos que no contaran con la necesaria licencia se considerarán construcciones no autorizadas disconformes con el plan.",
+      "fuente": "Art. 250.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿En qué plazo deberán los particulares presentar a trámite los planes de desarrollo de las parcelaciones ilegales, contado desde la aprobación definitiva del plan general, o modificación aislada del mismo, que delimite el sector que comprenda la parcelación irregular?",
+      "options": [
+        "En el plazo de un año",
+        "En el plazo de dos años",
+        "En el plazo de tres años",
+        "En el plazo de cinco años"
+      ],
+      "correct": 2,
+      "exp": "El art. 250.3 TRLUA fija en tres años, desde la aprobación definitiva del plan general o de su modificación aislada delimitadora del sector, el plazo para presentar a trámite los planes de desarrollo.",
+      "fuente": "Art. 250.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Entre las determinaciones mínimas de los planes de desarrollo de las parcelaciones ilegales, el texto refundido de la Ley de Urbanismo de Aragón exige destinar a espacios libres públicos o comunitarios de uso público, al menos:",
+      "options": [
+        "El cinco por ciento de la superficie del sector que se ordene",
+        "El diez por ciento de la superficie del sector que se ordene",
+        "El quince por ciento de la superficie del sector que se ordene",
+        "El veinte por ciento de la superficie del sector que se ordene"
+      ],
+      "correct": 1,
+      "exp": "El art. 251.c) TRLUA impone destinar a espacios libres públicos o comunitarios de uso público al menos el diez por ciento de la superficie del sector que se ordene, en los términos exigibles conforme a la ley y sus disposiciones de desarrollo.",
+      "fuente": "Art. 251.c) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "En cuanto a la forma de gestión y los plazos de ejecución, el texto refundido de la Ley de Urbanismo de Aragón determina que en los planes de desarrollo de las parcelaciones ilegales:",
+      "options": [
+        "No se admitirá la ejecución parcial del planeamiento de desarrollo ni la división del sector en más de una unidad de ejecución",
+        "Se admitirá la división del sector en un máximo de dos unidades de ejecución",
+        "La ejecución podrá fraccionarse en tantas etapas como propietarios existan en el sector",
+        "La ejecución parcial se admitirá siempre que se garantice mediante aval el resto de las obras"
+      ],
+      "correct": 0,
+      "exp": "El art. 251.l) TRLUA prohíbe la ejecución parcial del planeamiento de desarrollo y la división del sector en más de una unidad de ejecución, así como la división de la etapa única en fases, salvo que la primera corresponda a la implantación completa de las redes de saneamiento y abastecimiento de agua.",
+      "fuente": "Art. 251.l) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Los planos de información de los planes de desarrollo que se tramiten en aplicación del capítulo de parcelaciones se elaborarán, conforme al texto refundido de la Ley de Urbanismo de Aragón, a escala adecuada, no inferior a:",
+      "options": [
+        "1:500",
+        "1:1000",
+        "1:2000",
+        "1:5000"
+      ],
+      "correct": 2,
+      "exp": "El art. 252.c) TRLUA exige que los planos de información se elaboren a escala adecuada, no inferior a 1:2000.",
+      "fuente": "Art. 252.c) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Desde el momento en que se proceda a la aprobación inicial de un plan general, o modificación aislada del mismo, que regule los procesos de regularización de parcelaciones ilegales, el texto refundido de la Ley de Urbanismo de Aragón establece que:",
+      "options": [
+        "Quedará en suspenso cualquier acto de parcelación en los terrenos afectados por los mismos",
+        "Quedarán en suspenso todas las licencias de obras del término municipal",
+        "Los actos de parcelación quedarán sujetos a declaración responsable en lugar de licencia",
+        "Se suspenderá la vigencia del plan general anterior en su integridad"
+      ],
+      "correct": 0,
+      "exp": "El art. 253.1 TRLUA vincula a la aprobación inicial del plan general o de su modificación aislada la suspensión de cualquier acto de parcelación en los terrenos afectados.",
+      "fuente": "Art. 253.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El plan general o, en su defecto, el planeamiento de desarrollo fijarán la parcela mínima en los ámbitos de regularización de parcelaciones ilegales. Conforme al texto refundido de la Ley de Urbanismo de Aragón, sobre cada parcela mínima se podrá construir:",
+      "options": [
+        "Hasta dos viviendas unifamiliares pareadas",
+        "Una sola vivienda",
+        "El número de viviendas que resulte de la edificabilidad asignada al sector",
+        "Una vivienda por cada quinientos metros cuadrados de parcela"
+      ],
+      "correct": 1,
+      "exp": "El art. 253.2 TRLUA, tras regular la fijación de la parcela mínima, precisa que sobre cada parcela mínima se podrá construir una sola vivienda.",
+      "fuente": "Art. 253.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    },
+    {
+      "q": "En los ámbitos de regularización de parcelaciones ilegales, el texto refundido de la Ley de Urbanismo de Aragón dispone que en ningún caso se admitirá más edificación residencial que:",
+      "options": [
+        "La vivienda colectiva en régimen de propiedad horizontal",
+        "La vivienda unifamiliar en hilera",
+        "La vivienda unifamiliar aislada o pareada, con exclusión expresa de las viviendas en hilera y de las agrupaciones en forma de propiedades horizontales tumbadas",
+        "La vivienda unifamiliar aislada, con exclusión de cualquier forma de agrupación, incluida la pareada"
+      ],
+      "correct": 2,
+      "exp": "El art. 253.3 TRLUA admite únicamente la vivienda unifamiliar aislada o pareada, excluyendo expresamente las viviendas en hilera, las agrupaciones en forma de propiedades horizontales tumbadas y, en general, más de una vivienda por parcela.",
+      "fuente": "Art. 253.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+      "confianza": "alta"
+    }
+  ]
+}
