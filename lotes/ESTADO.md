@@ -1258,6 +1258,105 @@ introducir un error donde no lo hay.** Ninguna mención huérfana: cero.
 
 Banco de Auxiliar: de 5.848 a **5.522 preguntas**, todas con cita.
 
+## Huecos de cobertura cerrados: Manual de Atención y Parcelaciones (20-ago-2026)
+
+Tres huecos detectados al cerrar la campaña de citas. **Uno no existía**: dije
+que el tema 14 no tenía nada del Título X de la LBRL ni de la ley de capitalidad,
+y tiene **55 preguntas de cada uno**. Lo que no tenía ninguna era el material
+*heredado*, que es lo único que vieron los auditores, y extendí su observación a
+todo el tema sin comprobarla. Los otros dos eran reales.
+
+### Tema 15 · el Manual de Atención a la Ciudadanía: de 0 a 39
+
+Era el hueco grave: **la mitad del epígrafe oficial del tema sin una sola
+pregunta**. Y detrás había un problema de fondo — los dos documentos del tema son
+municipales, no están en boe.es, y **el repo no guardaba ninguno**: las 136
+preguntas del Reglamento se habían generado contra fuentes web que ya no
+constaban en ningún sitio. Ahora los dos están en `tools/temarios/`:
+
+- `manual-atencion-ciudadania-zaragoza-2018.pdf` (45 páginas, versión de marzo de
+  2018, de zaragoza.es). Comprobado que las 45 tienen texto extraíble.
+- `rotpc-zaragoza-texto-vigente.txt`, de la ficha oficial de la sede.
+  **Aviso**: circula por internet un «anteproyecto de reforma» de 2017 que NO es
+  el texto vigente; es fácil coger ese por error.
+
+Resultado del lote: **39 de 40 confirmadas**. Tema 15: 300 → 339 preguntas, de
+las que 136 son del Reglamento y 39 del Manual.
+
+**Este documento no es una norma** y eso cambia lo que se le puede preguntar: no
+tiene artículos, ni plazos, ni apartados de ley. Lo preguntable son sus
+enumeraciones y denominaciones literales, y la cita apunta al **apartado y la
+página**, no al documento a secas. Redactor y revisor contaron cada enumeración
+por separado y coincidieron: 4 factores de calidad, 7 errores, 5 características,
+3 bloques de componentes de la conducta, 3 niveles de atención (acogida, recogida,
+reconocimiento), 6 fases de la curva de la hostilidad y 14 principios básicos.
+
+**Tres defectos del documento oficial**, confirmados por el revisor, que limitan
+lo que se puede preguntar y conviene no olvidar:
+
+1. En «El Ayuntamiento al servicio de la ciudadanía» el texto dice que hay **tres
+   niveles** de opinión ciudadana y luego imprime **cuatro puntos numerados**: el
+   cuarto es un comentario sobre el tercero, no un nivel. **No se puede preguntar
+   cuántos hay.**
+2. En «Causas de la baja calidad», las tres lecturas de la queja están rotuladas
+   **«A», «A», «C»**. **No se puede identificar ningún elemento por su letra.**
+3. El apartado «Principios básicos» se declara **expresamente abierto** y remite
+   a un Anexo. **No se puede preguntar el total**; sí el contenido de cada
+   principio numerado.
+
+**La única rechazada** fue la única que venía con `confianza: "media"`: cuántos
+son los factores de calidad. El Manual los presenta en un cuadro de cuatro
+recuadros pero **no escribe la cifra en ninguna parte**, a diferencia de «son
+principalmente siete» o «Cinco son las características». Y el revisor fue más
+allá: el tercer recuadro fusiona dos cualidades nombradas por separado («la
+seguridad **y** fiabilidad»), así que la opción «cinco» del propio enunciado es
+defendible leyendo el mismo cuadro — y coincide con las cinco dimensiones del
+modelo SERVQUAL del que deriva. Dos respuestas sostenibles sobre un dato que el
+documento no explicita: fuera. Las cuatro preguntas que explotan ese mismo cuadro
+**por definición literal** sí entran, porque cada definición corresponde a un
+único recuadro.
+
+Queda margen documentado para una segunda vuelta: **diez de los catorce
+principios básicos siguen sin usar**.
+
+### Tema 20 · Parcelaciones: de 1 a 31
+
+El Capítulo IV del Título Quinto del TRLUA (arts. 241-253) se había quedado con
+una sola pregunta. **30 de 30 confirmadas, sin una corrección.** Tema 20:
+160 → 190.
+
+El redactor corrigió tres cosas del encargo leyendo la ley, y el revisor las
+verificó por separado:
+
+- **La fecha de corte es una sola**, el 20 de marzo de 2012, y aparece
+  exactamente dos veces con papeles distintos: límite de constitución de la
+  parcelación regularizable (art. 247.1) y día inicial del plazo de seis años del
+  censo autonómico (art. 248.1). Barrido con expresiones regulares: no hay
+  ninguna otra fecha en los arts. 241-253.
+- **El régimen de las parcelaciones en suelo no urbanizable no está en ese
+  capítulo**: el art. 250.2 solo remite a él, y la prohibición material es el
+  art. 28.3, fuera del tramo y ya cubierto.
+- **Son tres censos, no dos**: el municipal del art. 247.1 (encomendable a la
+  comarca), el autonómico de parcelaciones ilegales del 248.1 (Dirección General,
+  seis años) y, en el mismo artículo, el de **ámbitos degradados por actuaciones
+  urbanísticas ilegales aisladas**, que obliga a un plan especial. El revisor
+  comprobó además que ninguna pregunta cruza datos entre ellos, que era el riesgo.
+
+Dos notas de método que ahorran tiempo la próxima vez:
+
+- El ancla del art. 245 no es solo que le falte el punto tras el número: el bloque
+  se llama **`#a245licenciaodeclaracion`**, con el título pegado, así que buscar
+  `#a245]` también falla. Se localiza barriendo entre los bloques del 244 y el 246.
+- El revisor no se limitó a no encontrar notas de modificación en el tramo:
+  comprobó que su conversión a texto **sí conserva** las notas de otros artículos
+  del consolidado. Es la diferencia entre «no encuentro nada» y «sé que lo
+  encontraría si estuviera».
+- **Errata en el texto oficial**: el art. 242.3 dice «se ajustará a **los**
+  establecido en los artículos 247 y siguientes» (sic). No se hizo ninguna
+  pregunta literal sobre ese apartado.
+
+Banco de Auxiliar: de 5.522 a **5.591 preguntas**, todas con cita.
+
 ## Temas siguientes, cuando el 20 esté cerrado
 
 Del 19 hacia atrás. Estado y déficit hasta 500:

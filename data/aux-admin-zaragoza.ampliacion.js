@@ -48226,3 +48226,514 @@ window.addQuestions('aux-admin-zaragoza', 20, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 15 · lote 2026-08-20 · 39 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 15, [
+  {
+    "q": "Según la Nota aclaratoria del Manual de Atención a la Ciudadanía del Ayuntamiento de Zaragoza, ¿en qué año se editó por vez primera el entonces denominado Manual de Atención al Ciudadano?",
+    "options": [
+      "En 1988",
+      "En 1994",
+      "En 1999",
+      "En 2004"
+    ],
+    "correct": 1,
+    "exp": "La Nota aclaratoria comienza: «El Manual de Atención al Ciudadano se editó por vez primera en el año 1994». El texto original está fechado en «Zaragoza, marzo de 1994».",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Nota aclaratoria», pág. 2",
+    "confianza": "alta"
+  },
+  {
+    "q": "Tras una intensa actividad formativa para las empleadas y empleados municipales en atención a la ciudadanía, ¿qué órgano concibió la idea de elaborar una publicación que recogiera los principales conceptos transmitidos en los cursos, de la que nació el Manual?",
+    "options": [
+      "El entonces Gabinete Asesor de Régimen Interior",
+      "La Comisión para la Igualdad",
+      "El Grupo de Acceso y Promoción",
+      "La Junta de Personal del Ayuntamiento"
+    ],
+    "correct": 0,
+    "exp": "«Tras una intensa actividad formativa para las empleadas y empleados municipales en atención a la ciudadanía, el entonces Gabinete Asesor de Régimen Interior concibi[ó] la idea de elaborar una publicación para recoger los principales conceptos transmitidos en los cursos de formación. Así nació el Manual».",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Nota aclaratoria», pág. 2",
+    "confianza": "alta"
+  },
+  {
+    "q": "La relectura del texto de la que resulta la versión actualizada del Manual (Zaragoza, marzo de 2018) fue propuesta por:",
+    "options": [
+      "El Gabinete Asesor del Área de Régimen Interior",
+      "El Área de Participación Ciudadana y Régimen Interior",
+      "El Grupo de Acceso y Promoción de la Comisión para la Igualdad",
+      "La Escuela Municipal de Formación"
+    ],
+    "correct": 2,
+    "exp": "«Hoy el Manual cumple, entre otras cosas, un papel en la preparación de contenidos para procesos selectivos. Por esta razón el Grupo de Acceso y Promoción de la Comisión para la Igualdad, propuso una relectura del texto». El documento está firmado por ese Grupo y por la Comisión para la Igualdad en Zaragoza, marzo de 2018.",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Nota aclaratoria», pág. 2",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Con qué dos objetivos se propuso la relectura del texto del Manual en 2018?",
+    "options": [
+      "Reducir su extensión y añadir formularios y modelos tipo",
+      "Revisar su contenido y adecuarlo a los criterios de lenguaje inclusivo",
+      "Actualizar la normativa citada y ampliar los supuestos prácticos",
+      "Incorporar la atención telefónica y la atención telemática"
+    ],
+    "correct": 1,
+    "exp": "La Nota aclaratoria señala que el Grupo de Acceso y Promoción «propuso una relectura del texto con dos objetivos: revisar su contenido y adecuarlo a los criterios de lenguaje inclusivo». Se concluyó que los conceptos «no habían perdido nada de su vigencia» y se mantuvieron «básicamente en su integridad»; el título pasó a ser Manual de Atención a la Ciudadanía.",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Nota aclaratoria», pág. 2",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la Introducción del Manual, un instrumento útil y sencillo, «de comprensión rápida y de aplicación cómoda», tiene que estar alejado sobre todo de dos cosas. ¿De cuáles?",
+    "options": [
+      "De la teoría psicológica y de la casuística municipal",
+      "De la improvisación y de la rutina",
+      "De la excesiva generalización y del lenguaje administrativo",
+      "De la excesiva estructuración y de la excesiva generalización"
+    ],
+    "correct": 3,
+    "exp": "La Introducción advierte que el Manual debe alejarse «de la excesiva estructuración: podría convertirse en un inaplicable “recetario” de comportamientos cuasi automáticos» y «de la excesiva generalización: lo que convertiría en un documento sin ningún contenido práctico».",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Introducción», pág. 4",
+    "confianza": "alta"
+  },
+  {
+    "q": "Al analizar la opinión de la ciudadanía respecto a la Administración, el Manual comprueba la existencia de tres niveles diferentes. El tercero de ellos es:",
+    "options": [
+      "El de la evaluación general de los poderes públicos según cómo les va a las personas en general",
+      "El de las preguntas concretas sobre las estructuras, procedimientos y actuación de la administración",
+      "El del puesto de contacto con las Administraciones",
+      "El de la comparación con los servicios prestados por empresas privadas"
+    ],
+    "correct": 2,
+    "exp": "«El tercer nivel es el del puesto de contacto con las Administraciones. Las imágenes y las actitudes dependen aquí de una experiencia directa del modo en que unas empleadas o empleados concretos han tratado a una persona concreta». El Manual añade que en este nivel la percepción de la ciudadanía es, en general, más positiva.",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «El Ayuntamiento al servicio de la ciudadanía», págs. 5-6",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apartado «El Ayuntamiento al servicio de la ciudadanía», el esfuerzo de transformar paso a paso nuestra manera habitual de hacer las cosas implica, por este orden, a:",
+    "options": [
+      "Al personal municipal de contacto, a los responsables de los servicios y a los responsables políticos",
+      "A los y las responsables políticos, a los y las responsables de los servicios y a los y las agentes de contacto con la ciudadanía",
+      "A la ciudadanía, al personal municipal y a los responsables políticos",
+      "A los responsables de los servicios, a los sindicatos y al personal municipal"
+    ],
+    "correct": 1,
+    "exp": "«Todo esto constituye un esfuerzo muy considerable y que implica, por este orden, a los y las responsables políticos, a los y las responsables de los servicios y también a los y las agentes de contacto con la ciudadanía: el personal municipal».",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «El Ayuntamiento al servicio de la ciudadanía», pág. 6",
+    "confianza": "alta"
+  },
+  {
+    "q": "El aspecto físico de las instalaciones (mobiliario, luz, espacios...), los materiales de comunicación (letreros, folletos, impresos, indicadores, logotipos...) y el «personal en contacto con el público» (presencia física, cantidad...) integran el factor que el Manual denomina:",
+    "options": [
+      "Capacidad de respuesta",
+      "Aspectos tangibles",
+      "La seguridad y fiabilidad",
+      "Empatía"
+    ],
+    "correct": 1,
+    "exp": "El cuadro de factores define ASPECTOS TANGIBLES como «el aspecto físico de las instalaciones (mobiliario, luz, espacios,...) los materiales de comunicación (letreros, folletos, impresos, indicadores, logotipos….) y el “personal en contacto con el público” (presencia física, cantidad…)».",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Factores según los cuales se juzga la calidad de un servicio», pág. 8",
+    "confianza": "alta"
+  },
+  {
+    "q": "«La disponibilidad, la rapidez en atender, la eficacia en escuchar y entender, la habilidad en poner en marcha soluciones» es la definición que el Manual da del factor:",
+    "options": [
+      "Aspectos tangibles",
+      "Empatía",
+      "Capacidad de respuesta",
+      "La seguridad y fiabilidad"
+    ],
+    "correct": 2,
+    "exp": "Es la descripción literal del factor CAPACIDAD DE RESPUESTA en el cuadro de factores de calidad.",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Factores según los cuales se juzga la calidad de un servicio», pág. 8",
+    "confianza": "alta"
+  },
+  {
+    "q": "«La impresión de competencia y profesionalidad, la confianza que perciben en que van a ser atendidos con exactitud por el personal del servicio, la tranquilidad de que su demanda ya empieza a ser atendida» corresponde al factor denominado:",
+    "options": [
+      "Aspectos tangibles",
+      "Capacidad de respuesta",
+      "Empatía",
+      "La seguridad y fiabilidad"
+    ],
+    "correct": 3,
+    "exp": "Es la definición literal del factor LA SEGURIDAD Y FIABILIDAD en el cuadro de factores de calidad.",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Factores según los cuales se juzga la calidad de un servicio», pág. 8",
+    "confianza": "alta"
+  },
+  {
+    "q": "«Recibir un tratamiento lo más personalizado y cortés posible, con demostraciones palpables de que el personal municipal que atiende a la ciudadanía tiene voluntad de comprender y satisfacer sus necesidades concretas» define, según el Manual, el factor:",
+    "options": [
+      "La seguridad y fiabilidad",
+      "Aspectos tangibles",
+      "Capacidad de respuesta",
+      "Empatía"
+    ],
+    "correct": 3,
+    "exp": "Es la definición literal del factor EMPATÍA en el cuadro de factores según los cuales se juzga la calidad de un servicio.",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Factores según los cuales se juzga la calidad de un servicio», pág. 8",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el «Recuerde» que cierra el apartado de los factores de calidad, ¿cuál es el factor clave en el «momento de la verdad»?",
+    "options": [
+      "El trato recibido, que no puede venir sino del personal directamente en contacto",
+      "El aspecto físico y la señalización de las instalaciones municipales",
+      "La rapidez en la tramitación del expediente",
+      "La claridad de los folletos, impresos e indicadores"
+    ],
+    "correct": 0,
+    "exp": "«La ciudadanía que se acerca a un servicio municipal valora de forma extraordinaria el TRATO recibido y éste no puede venir sino del PERSONAL DIRECTAMENTE EN CONTACTO. Ése es el FACTOR CLAVE en el MOMENTO DE LA VERDAD».",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Factores según los cuales se juzga la calidad de un servicio», Recuerde, págs. 8-9",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según los estudios que cita el Manual, los dos motivos mayoritarios que las personas usuarias consideraban al juzgar la baja calidad de un servicio público eran la «actitud del personal» y que «trabaja demasiado lento», con unos porcentajes respectivos de:",
+    "options": [
+      "44 % y 40 %",
+      "40 % y 44 %",
+      "54 % y 30 %",
+      "44 % y 22 %"
+    ],
+    "correct": 0,
+    "exp": "«Los dos motivos mayoritarios que los usuarios y usuarias consideraban a la hora de juzgar la baja calidad en un servicio público eran la “actitud del personal” (44%) y el “trabaja demasiado lento” (40%)». El Manual añade que esos porcentajes eran mucho menores en las empresas de carácter privado.",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Causas de la baja calidad en un servicio», pág. 10",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el «Recuerde» del apartado «Causas de la baja calidad en un servicio», la baja calidad de un servicio de atención directa es consecuencia fundamentalmente de dos factores relativos a quien presta su atención:",
+    "options": [
+      "La falta de formación técnica y la sobrecarga de trabajo",
+      "La falta de interés y la escasez de habilidades sociales",
+      "La rutina y la excesiva reglamentación",
+      "La falta de medios materiales y la ausencia de incentivos"
+    ],
+    "correct": 1,
+    "exp": "El «Recuerde» es literal: «La baja calidad de un servicio de atención directa es consecuencia fundamentalmente de dos factores relativos a quien presta su atención: LA FALTA DE INTERÉS / LA ESCASEZ DE HABILIDADES SOCIALES».",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Causas de la baja calidad en un servicio», Recuerde, pág. 11",
+    "confianza": "alta"
+  },
+  {
+    "q": "Para el Manual, la queja de un ciudadano o ciudadana es el síntoma de que algo ha ido mal y, «reconducida», una excelente oportunidad para:",
+    "options": [
+      "Derivar el asunto al servicio competente",
+      "Justificar ante la ciudadanía la actuación del Ayuntamiento",
+      "Descubrir nuestros déficits y demostrar nuestras competencias",
+      "Iniciar un expediente de responsabilidad patrimonial"
+    ],
+    "correct": 2,
+    "exp": "El «Recuerde» del apartado señala: «La QUEJA de un ciudadano o ciudadana es una excelente oportunidad para: DESCUBRIR NUESTROS DÉFICITS / DEMOSTRAR NUESTRAS COMPETENCIAS». En el cuerpo del texto se añade que es también «una buena fuente de información de cuáles pueden ser nuestros déficits en la presentación del servicio».",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Causas de la baja calidad en un servicio», págs. 10-11",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de los siguientes NO figura entre los «siete errores» de los servicios con atención a la ciudadanía que enumera el Manual?",
+    "options": [
+      "La apatía",
+      "La condescendencia",
+      "La improvisación",
+      "Las transferencias"
+    ],
+    "correct": 2,
+    "exp": "Los siete errores son: APATÍA, «QUITÁRSELOS» DE ENCIMA, FRIALDAD, CONDESCENDENCIA, ROBOTIZACIÓN, EXCESIVA REGLAMENTACIÓN y TRANSFERENCIAS. La improvisación no aparece en la relación.",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Los “siete errores” de los servicios con atención a la ciudadanía», pág. 12",
+    "confianza": "alta"
+  },
+  {
+    "q": "El Manual describe uno de los siete errores como «lo contrario de la simpatía y la empatía»: el personal municipal en contacto directo con el público da la imagen de no preocuparse de las necesidades de las personas usuarias y a menudo no da señales siquiera de que haya constatado su presencia. Se trata de:",
+    "options": [
+      "La frialdad",
+      "La apatía",
+      "La robotización",
+      "Las transferencias"
+    ],
+    "correct": 1,
+    "exp": "Es la definición literal de APATÍA en el cuadro de los siete errores.",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Los “siete errores” de los servicios con atención a la ciudadanía», pág. 12",
+    "confianza": "alta"
+  },
+  {
+    "q": "El error en el que la persona usuaria se percibe como un personaje molesto y así se le hace notar, como si se le transmitiera el mensaje «Si Vd. se fuera, yo podría seguir con mi trabajo», con ausencia de contacto visual, uso excesivo de monosílabos y tono seco y cortante, se denomina en el Manual:",
+    "options": [
+      "Frialdad",
+      "Apatía",
+      "Condescendencia",
+      "Excesiva reglamentación"
+    ],
+    "correct": 0,
+    "exp": "Es la definición literal de FRIALDAD, en la que «los mensajes de tipo no verbal son aquí muy relevantes: ausencia de contacto visual, uso excesivo de monosílabos, tono seco y cortante, etc.».",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Los “siete errores” de los servicios con atención a la ciudadanía», pág. 12",
+    "confianza": "alta"
+  },
+  {
+    "q": "«Se saca el “Manual de Procedimientos” y se dice algo así como: la realidad es lo que existe aquí. Si no lo pone, es que no existe». Esta falta de flexibilidad y de estar «pegado» a la norma es el error que el Manual llama:",
+    "options": [
+      "Transferencias",
+      "Robotización",
+      "«Quitárselos» de encima",
+      "Excesiva reglamentación"
+    ],
+    "correct": 3,
+    "exp": "Es la definición literal de EXCESIVA REGLAMENTACIÓN, que «provoca una gestión conflictiva en la mayoría de servicios con atención directa».",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Los “siete errores” de los servicios con atención a la ciudadanía», pág. 12",
+    "confianza": "alta"
+  },
+  {
+    "q": "Tratar a la ciudadanía de forma estereotipada, con saludos y frases de despedida mecanizados, sin aportar el mínimo de calor que las relaciones interpersonales requieren por oficiales que éstas sean, es el error denominado:",
+    "options": [
+      "Condescendencia",
+      "Robotización",
+      "Apatía",
+      "Frialdad"
+    ],
+    "correct": 1,
+    "exp": "Es la definición literal de ROBOTIZACIÓN en el cuadro de los siete errores. La CONDESCENDENCIA, en cambio, se describe con el mensaje de fondo «¡Cómo pretende saber lo que es mejor para Vd. y no lo entendería».",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Los “siete errores” de los servicios con atención a la ciudadanía», pág. 12",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuántas características de la calidad enumera el Manual como «las más relevantes» en un servicio con atención a la ciudadanía?",
+    "options": [
+      "Tres",
+      "Cuatro",
+      "Cinco",
+      "Siete"
+    ],
+    "correct": 2,
+    "exp": "«Visto lo que no debe ser, dirijamos nuestra atención a lo que debe ser: mejorar la calidad del Servicio. Cinco son las características más relevantes», que el Manual enumera del 1 al 5.",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Características de la calidad en un servicio con atención a la ciudadanía», pág. 13",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el Manual, ¿cuál es «sin duda alguna» la peor enemiga de la calidad en la atención al público?",
+    "options": [
+      "La rutina",
+      "La falta de medios materiales",
+      "El exceso de trabajo",
+      "La escasa formación del personal"
+    ],
+    "correct": 0,
+    "exp": "La quinta característica de la calidad afirma que «el objetivo es la mejora continua... La peor enemiga de la calidad en atención al público es, sin duda alguna, la rutina».",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Características de la calidad en un servicio con atención a la ciudadanía», característica 5.ª, pág. 13",
+    "confianza": "alta"
+  },
+  {
+    "q": "Entre las características de la calidad en un servicio con atención a la ciudadanía, el Manual señala que hay que pasar:",
+    "options": [
+      "De una actitud activa (prevención de errores) a una pasiva (subsanación de errores)",
+      "De una actitud pasiva (subsanar errores) a una activa (prevención de los mismos)",
+      "De la mejora continua a la dirección por objetivos",
+      "Del autocontrol emocional al control jerárquico de la atención"
+    ],
+    "correct": 1,
+    "exp": "La cuarta característica dice literalmente: «Hay que pasar de una actitud pasiva (subsanar errores) a una activa (prevención de los mismos)». El «Recuerde» del apartado resume que la mejora de la calidad se basa en el compromiso individual, el autocontrol emocional, una actitud activa y de mejora continua, y considerar a cada persona como si fuera única.",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Características de la calidad en un servicio con atención a la ciudadanía», característica 4.ª, pág. 13",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el Manual, la conducta interpersonal en el puesto de trabajo de atención directa está conformada por tres grandes bloques de componentes:",
+    "options": [
+      "Verbales, no verbales y paraverbales",
+      "Cognitivos, emocionales y conductuales",
+      "Biológicos, psicológicos y sociales",
+      "Personales, organizativos y normativos"
+    ],
+    "correct": 2,
+    "exp": "«De forma esquematizada, podemos afirmar que hay tres grandes bloques [que] conforman la conducta interpersonal en el puesto de trabajo de atención directa»: los componentes Biológicos, los componentes Psicológicos y los Componentes Sociales. El Manual precisa que «los tres componentes no funcionan por separado sino con mutua reciprocidad».",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Componentes básicos de la conducta humana», págs. 16-17",
+    "confianza": "alta"
+  },
+  {
+    "q": "Los componentes psicológicos de la conducta humana que recoge el Manual (tomados de Costa y López, 1992) son la forma de:",
+    "options": [
+      "Atender y percibir, pensar, sentir y actuar",
+      "Percibir, razonar, decidir y comunicar",
+      "Atender, memorizar, sentir y hablar",
+      "Pensar, sentir, hablar y escuchar"
+    ],
+    "correct": 0,
+    "exp": "Los componentes Psicológicos son «la forma de Atender y Percibir (AP) la realidad propia y ajena», «la forma de Pensar (P)», «la forma de Sentir (S)» y «la forma de Actuar (A)». El «Recuerde» del apartado los resume como la forma de percibir la situación, los pensamientos, los sentimientos y emociones y la actuación concreta.",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Componentes básicos de la conducta humana», págs. 16 y 19",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apartado «Mensajes verbales y no verbales», los dos grandes momentos de la comunicación humana a los que nos envían ambos códigos son:",
+    "options": [
+      "Informar y resolver",
+      "Acoger y despedir",
+      "Escuchar y hablar",
+      "Preguntar y responder"
+    ],
+    "correct": 2,
+    "exp": "«Nos comunicamos con comportamientos verbales (palabras, es decir, ideas) y comportamientos no verbales... Ambos códigos nos envían a los dos grandes momentos de la comunicación humana: ESCUCHAR / HABLAR».",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Mensajes verbales y no verbales», pág. 20",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué afirma el Manual sobre la relación entre la habilidad de escuchar y la de hablar?",
+    "options": [
+      "Que la habilidad de hablar es previa a la de escuchar",
+      "Que escuchar es una habilidad meramente receptiva y pasiva",
+      "Que ambas habilidades se adquieren de forma simultánea",
+      "Que la habilidad de escuchar es previa a la de hablar"
+    ],
+    "correct": 3,
+    "exp": "«En suma, la habilidad de escuchar es previa a la de hablar. No deberíamos olvidar esta simple observación». El propio apartado insiste en que «escuchar es algo activo y no meramente receptivo o pasivo».",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «La habilidad de escuchar», pág. 21",
+    "confianza": "alta"
+  },
+  {
+    "q": "El «Recuerde» del apartado «La habilidad de escuchar» señala que escuchar es algo activo y que no basta poner oreja (oír), sino que hay que poner:",
+    "options": [
+      "Cabeza (observación) y corazón (empatía)",
+      "Cabeza (memoria) y corazón (simpatía)",
+      "Ojos (observación) y cabeza (análisis)",
+      "Corazón (empatía) y voz (asertividad)"
+    ],
+    "correct": 0,
+    "exp": "El «Recuerde» dice: «ESCUCHAR ES ALGO ACTIVO. No basta poner oreja (OIR). Hay que poner: Cabeza (OBSERVACIÓN) [y] Corazón (EMPATÍA)».",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «La habilidad de escuchar», Recuerde, pág. 22",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apartado «La habilidad de hablar», cuando nos corresponda hablar deberemos tender a hacerlo:",
+    "options": [
+      "Con amabilidad, firmeza y rapidez",
+      "Con brevedad, claridad y precisión",
+      "Con claridad, exhaustividad y neutralidad",
+      "Con cortesía, detalle y empatía"
+    ],
+    "correct": 1,
+    "exp": "«En resumen, cuando nos toque el turno de hablar, deberemos tender a la brevedad, claridad y precisión». El apartado exige además cierta «disciplina verbal» y hace especial mención a «evitar el argot o jerga profesional de las administraciones públicas».",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «La habilidad de hablar», pág. 23",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apartado «El primer contacto: saludarse», las primeras palabras deben ir precedidas de:",
+    "options": [
+      "La comprobación de la documentación aportada",
+      "Contacto ocular, mirando fundamentalmente a los ojos y al resto de la cara",
+      "Un apretón de manos firme",
+      "Una indicación breve sobre lo que va a ocurrir a continuación"
+    ],
+    "correct": 1,
+    "exp": "«Las primeras palabras deben ir precedidas de contacto ocular: a las personas nos gusta que nos miren. Y hay que mirar fundamentalmente a los ojos y al resto de la cara». El mismo apartado añade que, salvo indicación expresa en contrario, «el trato debería ser de usted, independientemente de factores de edad, sexo o status social».",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «El primer contacto: saludarse», pág. 25",
+    "confianza": "alta"
+  },
+  {
+    "q": "El Manual distingue tres niveles de atención a la ciudadanía. Aquel en el que «nos limitamos a situar a la persona en las instalaciones municipales» se denomina:",
+    "options": [
+      "Recogida",
+      "Reconocimiento",
+      "Acogida",
+      "Orientación"
+    ],
+    "correct": 2,
+    "exp": "«Existen tres niveles de atención a la ciudadanía: 1. ACOGIDA: nos limitamos a situar a la persona en las instalaciones municipales. 2. RECOGIDA: al nivel de Acogida se añade una frase de saludo y una indicación breve sobre lo que va a ocurrir en los momentos siguientes. 3. RECONOCIMIENTO...».",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Personalizar la atención», pág. 26",
+    "confianza": "alta"
+  },
+  {
+    "q": "Siempre que sea posible, ¿en qué nivel de atención a la ciudadanía conviene situarse, según el Manual?",
+    "options": [
+      "En el primero o de acogida",
+      "En el segundo o de recogida",
+      "En un nivel intermedio entre acogida y recogida",
+      "En el tercero o de reconocimiento"
+    ],
+    "correct": 3,
+    "exp": "«Siempre que sea posible, conviene situarnos en el tercer nivel o de reconocimiento. De no poder ser así, al menos esforzarnos por mantenernos en el 2º nivel o recogida y evitar la simple acogida». En el reconocimiento, la persona que atiende «en algún sentido, le reconoce (mencionar su nombre, personalizar a su caso en concreto, etc.)».",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Personalizar la atención», pág. 26",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el apartado «Escuchar activamente», ¿cuál de las siguientes conductas hay que evitar «a toda costa»?",
+    "options": [
+      "Ofrecerle ayuda o soluciones prematuras",
+      "Emitir pequeños incentivos verbales del tipo «ya» o «entiendo»",
+      "Asentir con un ligero e intermitente movimiento de cabeza",
+      "Mantener un tono y volumen de voz ligeramente bajo y acogedor"
+    ],
+    "correct": 0,
+    "exp": "«Para conseguirlo, a toda costa hay que evitar: interrumpirle mientras habla; emitir juicios de valor u opiniones personales; ofrecerle ayuda o soluciones prematuras; hacer comentarios sobre su estado emocional». Las otras tres opciones son, por el contrario, conductas que el Manual recomienda.",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Escuchar activamente», pág. 31",
+    "confianza": "alta"
+  },
+  {
+    "q": "El Manual recomienda hacer un esfuerzo de autocontrol para evitar las «profecías negativas» si observamos que nos decimos autodiálogos de ese tipo más de:",
+    "options": [
+      "Una vez al día",
+      "Dos veces al día",
+      "Cinco veces al día",
+      "Tres veces en un día"
+    ],
+    "correct": 3,
+    "exp": "«Si observamos que nos decimos más de tres veces en un día autodiálogos como los anteriormente señalados, recomendamos hacer un esfuerzo de autocontrol para evitarlos, porque su efecto sobre nuestro comportamiento puede ser demoledor».",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Evitar las profecías negativas», pág. 30",
+    "confianza": "alta"
+  },
+  {
+    "q": "Las fases de la «curva de la hostilidad», en el orden en que las presenta el Manual, son:",
+    "options": [
+      "Racional, disparo o salida, afrontamiento, enlentecimiento, enfriamiento y solución del problema",
+      "Disparo o salida, racional, enlentecimiento, enfriamiento, afrontamiento y solución del problema",
+      "Racional, disparo o salida, enlentecimiento, enfriamiento, afrontamiento y solución del problema",
+      "Racional, disparo o salida, enlentecimiento, afrontamiento, enfriamiento y solución del problema"
+    ],
+    "correct": 3,
+    "exp": "El Manual numera seis fases: Fase 1 Racional; Fase 2 de «disparo» o salida; Fase 3 Enlentecimiento; Fase 4 Afrontamiento; Fase 5 Enfriamiento; Fase 6 Solución del problema (fuente citada: Allaire y McNeill).",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «La curva de la hostilidad», págs. 33-35",
+    "confianza": "alta"
+  },
+  {
+    "q": "En la fase de «disparo» o salida de la curva de la hostilidad, en la que cualquier intento de hacer entrar en razón a la persona suele fracasar, el Manual indica que lo más oportuno es:",
+    "options": [
+      "Defender la actuación del Ayuntamiento",
+      "Pedirle que se calme y que sea razonable",
+      "Escuchar",
+      "Invitarle a abandonar la dependencia"
+    ],
+    "correct": 2,
+    "exp": "En la Fase 2 «cualquier intento por hacerle entrar en razón suele fracasar. Lo más oportuno es escuchar». El Manual advierte además que argumentar cosas como «Cálmese, cálmese, está usted muy nervioso/a» repite la fase de disparo e impide que se complete el enlentecimiento.",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «La curva de la hostilidad», Fase 2, págs. 34 y 36",
+    "confianza": "alta"
+  },
+  {
+    "q": "El principio básico «Cada persona que se atiende es única» señala que nuestro comportamiento (acoger, recoger, reconocer) debería:",
+    "options": [
+      "Ajustarse estrictamente al Manual de Procedimientos",
+      "Ser idéntico para todas las personas, para evitar agravios comparativos",
+      "Limitarse al nivel de recogida",
+      "Adaptarse como un traje a medida, evitando la robotización de los automatismos"
+    ],
+    "correct": 3,
+    "exp": "El principio 3 dice: «CADA PERSONA QUE SE ATIENDE ES ÚNICA. Nuestro comportamiento (ACOGER, RECOGER, RECONOCER) debería adaptarse como un traje a medida. Es necesario evitar la robotización de los automatismos».",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Principios básicos en la atención a la ciudadanía», principio 3, pág. 41",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el principio básico «Hay que dar información veraz y concreta»:",
+    "options": [
+      "Es preferible reconocer nuestra ignorancia sobre un tema que dar información ambigua",
+      "Es preferible dar una información aproximada que reconocer que no se conoce el asunto",
+      "Conviene remitir siempre a la persona a otro servicio para no equivocarse",
+      "Lo que más irrita a cualquier persona es el tiempo de espera en la ventanilla"
+    ],
+    "correct": 0,
+    "exp": "El principio 9 señala: «Lo que más irrita a cualquier persona es que lo que le digamos no se cumpla o sea inexacto. Es preferible reconocer nuestra ignorancia sobre un tema que dar información ambigua».",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Principios básicos en la atención a la ciudadanía», principio 9, pág. 43",
+    "confianza": "alta"
+  },
+  {
+    "q": "El principio «Mantener un equilibrio de tratamiento entre las personas a las que atendemos» se concreta, entre otras ideas, en que:",
+    "options": [
+      "Hacer diferencias es imprescindible para personalizar la atención",
+      "Las deferencias deben reservarse para quien expresamente las solicite",
+      "Conviene emplear con todas las personas la misma fórmula estereotipada",
+      "Tener deferencias no significa necesariamente hacer diferencias"
+    ],
+    "correct": 3,
+    "exp": "El principio 10 enumera: «Evitar los posibles agravios comparativos; Tener deferencias no significa necesariamente hacer diferencias; Pedir las cosas “por favor”».",
+    "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Principios básicos en la atención a la ciudadanía», principio 10, pág. 44",
+    "confianza": "alta"
+  }
+]);

@@ -1,0 +1,23 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 15,
+  "fecha": "2026-08-20",
+  "preguntas": [
+    {
+      "q": "¿Cuántos y cuáles son los factores según los cuales se juzga la calidad de un servicio, de acuerdo con el Manual?",
+      "options": [
+        "Cuatro: aspectos tangibles, capacidad de respuesta, la seguridad y fiabilidad, y empatía",
+        "Tres: aspectos tangibles, capacidad de respuesta y empatía",
+        "Cinco: aspectos tangibles, capacidad de respuesta, seguridad, fiabilidad y empatía",
+        "Seis: aspectos tangibles, capacidad de respuesta, seguridad, fiabilidad, empatía y rapidez"
+      ],
+      "correct": 0,
+      "exp": "El apartado recoge cuatro factores, presentados en un cuadro: ASPECTOS TANGIBLES, CAPACIDAD DE RESPUESTA, LA SEGURIDAD Y FIABILIDAD y EMPATÍA. El Manual no escribe la cifra «cuatro», resulta del recuento de los bloques del cuadro.",
+      "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Factores según los cuales se juzga la calidad de un servicio», pág. 8",
+      "confianza": "media",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Pág. 8 (verificada también sobre la imagen de la página): el cuadro tiene cuatro recuadros (ASPECTOS TANGIBLES, CAPACIDAD DE RESPUESTA, LA SEGURIDAD Y FIABILIDAD, EMPATÍA) pero el Manual NO escribe en ningún sitio la cifra —a diferencia de «son principalmente siete» o «Cinco son las características»— y el tercer recuadro fusiona dos cualidades nombradas, de modo que la opción «Cinco: ...seguridad, fiabilidad...» es defendible desde el mismo cuadro (es además el modelo SERVQUAL de origen). Pregunta ambigua sobre un dato no explícito: rechazada.",
+      "_motivo": "veredicto RECHAZADA"
+    }
+  ]
+}
