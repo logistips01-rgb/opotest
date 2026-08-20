@@ -13,7 +13,10 @@
     "Las áreas metropolitanas."
    ],
    "correct": 3,
-   "exp": "Pregunta 451 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 451 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Fuera del alcance del tema 14 (clases de entidades locales) y el enunciado atribuye al art. 2 LBRL una clasificación que en realidad está en el art. 3.",
+   "nota": "Comprobado el art. 3 LBRL en el consolidado: el 3.1 enumera como territoriales municipio, provincia e isla, y el 3.2.b) sitúa las áreas metropolitanas entre las demás entidades locales; el dato marcado es correcto, pero el art. 2 no contiene esa clasificación y la materia no es la del epígrafe (municipio: territorio, población, competencias, servicios mínimos, gran población, capitalidad)."
   },
   {
    "indice": 104,
@@ -25,7 +28,11 @@
     "El art. 139."
    ],
    "correct": 1,
-   "exp": "Pregunta 455 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 455 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "MOVER",
+   "temaDestino": 1,
+   "fuente": "Art. 137 CE (Constitución de 1978)",
+   "nota": "Verificado en el consolidado de la CE: el art. 137 organiza el Estado en municipios, provincias y CCAA y les reconoce autonomía para la gestión de sus respectivos intereses; la opción marcada es correcta, pero la organización territorial en la Constitución es materia del tema 1."
   },
   {
    "indice": 108,
@@ -37,7 +44,10 @@
     "El Título IV."
    ],
    "correct": 1,
-   "exp": "Pregunta 459 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 459 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "CONSERVAR",
+   "fuente": "Título II LBRL, arts. 11 a 30 (Ley 7/1985)",
+   "nota": "Localizado en el consolidado el encabezamiento «TÍTULO II — El municipio», que abre con el art. 11 (elementos: territorio, población y organización) y llega hasta el art. 30: la opción marcada (Título II) es correcta."
   },
   {
    "indice": 112,
@@ -49,7 +59,10 @@
     "Decreto de la Asamblea Legislativa de la Comunidad Autónoma interesada."
    ],
    "correct": 2,
-   "exp": "Pregunta 463 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 463 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "CONSERVAR",
+   "fuente": "Art. 13.1 RPDT (RD 1690/1986)",
+   "nota": "Art. 13.1 RPDT: «En todos los expedientes sobre alteración de términos municipales la resolución definitiva se hará mediante Decreto aprobado por el Consejo de Gobierno de la Comunidad Autónoma correspondiente»; coincide con la opción marcada."
   },
   {
    "indice": 116,
@@ -61,7 +74,10 @@
     "El Ministerio de Administraciones Públicas."
    ],
    "correct": 0,
-   "exp": "Pregunta 467 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 467 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "CONSERVAR",
+   "fuente": "Art. 26.1 RPDT (RD 1690/1986)",
+   "nota": "Art. 26.1 RPDT: el nombre y la capitalidad de los municipios podrán alterarse «previo acuerdo del Ayuntamiento e informe de la Diputación Provincial respectiva, con la aprobación de la Comunidad Autónoma»; el informe previo es de la Diputación, como marca la respuesta."
   },
   {
    "indice": 120,
@@ -73,7 +89,10 @@
     "Con la residencia temporal o continuada."
    ],
    "correct": 2,
-   "exp": "Pregunta 471 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 471 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "CONSERVAR",
+   "fuente": "Art. 15 LBRL (Ley 7/1985)",
+   "nota": "Art. 15, último párrafo: «La condición de vecino se adquiere en el mismo momento de su inscripción en el Padrón»; opción marcada correcta."
   },
   {
    "indice": 124,
@@ -85,7 +104,10 @@
     "El derecho a ser elector."
    ],
    "correct": 0,
-   "exp": "Pregunta 475 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 475 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "CONSERVAR",
+   "fuente": "Art. 18.1 LBRL (Ley 7/1985)",
+   "nota": "Enumeración del art. 18.1: a) ser elector y elegible, c) utilizar los servicios públicos municipales, f) pedir la consulta popular; no figura ningún derecho a pedir la celebración de un referéndum, que es la opción marcada."
   },
   {
    "indice": 128,
@@ -97,7 +119,10 @@
     "La Administración del Estado en colaboración con los ayuntamientos."
    ],
    "correct": 3,
-   "exp": "Pregunta 479 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 479 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "CONSERVAR",
+   "fuente": "Art. 17.5 LBRL (Ley 7/1985)",
+   "nota": "Art. 17.5: «La Administración General del Estado, en colaboración con los Ayuntamientos y Administraciones de las Comunidades Autónomas confeccionará un Padrón de españoles residentes en el extranjero»; la opción marcada es la única compatible (aunque omite la mención a las CCAA)."
   },
   {
    "indice": 132,
@@ -109,7 +134,10 @@
     "A la Comunidad Autónoma en colaboración con el ayuntamiento respectivo."
    ],
    "correct": 0,
-   "exp": "Pregunta 483 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 483 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "CONSERVAR",
+   "fuente": "Art. 17.1 LBRL (Ley 7/1985)",
+   "nota": "Art. 17.1: «La formación, mantenimiento, revisión y custodia del Padrón municipal corresponde al Ayuntamiento, de acuerdo con lo que establezca la legislación del Estado»; opción marcada correcta."
   },
   {
    "indice": 136,
@@ -121,7 +149,10 @@
     "A la Comunidad Autónoma en colaboración con el ayuntamiento respectivo."
    ],
    "correct": 0,
-   "exp": "Pregunta 487 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 487 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "CONSERVAR",
+   "fuente": "Art. 17.1 LBRL (Ley 7/1985)",
+   "nota": "Art. 17.1, párrafo tercero: «La gestión del Padrón municipal se llevará por los Ayuntamientos con medios informáticos» (las Diputaciones solo asumen la gestión informatizada de los municipios sin capacidad); opción marcada correcta."
   },
   {
    "indice": 140,
@@ -133,7 +164,10 @@
     "Acreditación de nacionalidad."
    ],
    "correct": 3,
-   "exp": "Pregunta 491 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 491 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "CONSERVAR",
+   "fuente": "Art. 25.2 LBRL (Ley 7/1985)",
+   "nota": "Art. 25.2, redacción vigente tras la Ley 27/2013: b) medio ambiente urbano, g) transporte colectivo urbano, j) protección de la salubridad pública; la acreditación de la nacionalidad no figura en la lista, como marca la respuesta."
   },
   {
    "indice": 144,
@@ -145,7 +179,10 @@
     "La potestad legislativa."
    ],
    "correct": 3,
-   "exp": "Pregunta 495 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 495 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "CONSERVAR",
+   "fuente": "Art. 4.1 LBRL (Ley 7/1985)",
+   "nota": "Art. 4.1: potestades reglamentaria y de autoorganización a), expropiatoria d) y sancionadora f); no aparece potestad legislativa alguna, que es la opción marcada. El art. 4 está en el Título I, pero enumera las potestades de los propios municipios."
   },
   {
    "indice": 148,
@@ -157,7 +194,10 @@
     "En el art. 30."
    ],
    "correct": 0,
-   "exp": "Pregunta 499 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 499 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "El art. 28 LBRL sobre actividades complementarias fue suprimido por la Ley 27/2013 y hoy tiene un contenido distinto: la pregunta cita un precepto derogado.",
+   "nota": "Comprobado en el consolidado: el art. 28 fue «suprimido por el art. 1.11 de la Ley 27/2013» y «dotado de contenido» por el art. 128.5 del RDL 6/2023, que hoy regula sistemas de gestión colaborativa en municipios de menos de 20.000 habitantes; ya no existen las competencias complementarias del antiguo art. 28."
   },
   {
    "indice": 152,
@@ -169,7 +209,10 @@
     "Necesario."
    ],
    "correct": 0,
-   "exp": "Pregunta 503 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 503 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Los consejos sectoriales se regulan en el ROF (RD 2568/1986), norma no incluida en el tema, y la pregunta no es verificable en LBRL, RPDT ni Ley 10/2017.",
+   "nota": "Buscados «consejo sectorial» y «órgano complementario» en el consolidado de la LBRL sin resultado en los arts. 11-30 ni 121-138; la clasificación en órganos complementarios procede del ROF."
   },
   {
    "indice": 156,
@@ -181,7 +224,10 @@
     "La Comisión de Gobierno."
    ],
    "correct": 0,
-   "exp": "Pregunta 508 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 508 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "CONSERVAR",
+   "fuente": "Art. 128.2 LBRL (Ley 7/1985)",
+   "nota": "Art. 128.2: «Corresponde al Pleno de la Corporación la creación de los distritos y su regulación»; concuerda la Ley 10/2017 (art. 11.1.c.5ª, la división del municipio en distritos es reglamento orgánico aprobado por el Pleno). ATENCIÓN: el distractor «La Comisión de Gobierno» está desfasado (hoy Junta de Gobierno Local) y conviene reescribirlo."
   },
   {
    "indice": 160,
@@ -193,7 +239,10 @@
     "La Comisión de Gobierno."
    ],
    "correct": 0,
-   "exp": "Pregunta 512 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 512 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Regulación en el ROF (norma ajena al tema) y el distractor mantiene la «Comisión de Gobierno», órgano suprimido por la Ley 57/2003.",
+   "nota": "No hay respaldo en LBRL arts. 11-30 ni 121-138 para la creación de consejos sectoriales; el enunciado procede del ROF."
   },
   {
    "indice": 164,
@@ -205,7 +254,10 @@
     "La Junta Municipal de Distrito."
    ],
    "correct": 1,
-   "exp": "Pregunta 516 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 516 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Regulación en el ROF (norma ajena al tema) y el distractor mantiene la «Comisión de Gobierno», órgano suprimido por la Ley 57/2003.",
+   "nota": "Misma comprobación que las dos anteriores: los consejos sectoriales no aparecen en las normas del tema 14."
   },
   {
    "indice": 168,
@@ -217,7 +269,10 @@
     "El candidato que obtenga mayoría absoluta en segunda votación."
    ],
    "correct": 1,
-   "exp": "Pregunta 520 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 520 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "La elección del Alcalde se regula en el art. 196 de la LOREG, norma no incluida en el tema; no verificable en LBRL, RPDT ni Ley 10/2017.",
+   "nota": "Recorridos los arts. 19-24 LBRL (organización) sin encontrar el procedimiento de proclamación del Alcalde; el dato marcado responde al art. 196.c) LOREG."
   },
   {
    "indice": 172,
@@ -229,7 +284,10 @@
     "Que será requerido para que comparezca en el plazo de 72 horas."
    ],
    "correct": 1,
-   "exp": "Pregunta 524 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 524 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "El requerimiento de comparecencia en 48 horas procede del ROF (art. 40), norma ajena al tema; no verificable en las normas del tema 14.",
+   "nota": "No hay plazo alguno de comparecencia del Alcalde proclamado en los arts. 19-24 ni en el Título X de la LBRL."
   },
   {
    "indice": 176,
@@ -241,7 +299,10 @@
     "Excelentísimo."
    ],
    "correct": 3,
-   "exp": "Pregunta 528 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 528 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Trivia sobre el tratamiento protocolario del Alcalde de Barcelona: fuera del epígrafe del tema y ajeno a las normas del tema.",
+   "nota": "Ni la LBRL (arts. 11-30, 121-138) ni la Ley 10/2017 regulan tratamientos protocolarios; procede del ROF."
   },
   {
    "indice": 180,
@@ -253,7 +314,10 @@
     "El Pleno."
    ],
    "correct": 2,
-   "exp": "Pregunta 532 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 532 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "La autenticación de firmas de la moción de censura está en el art. 197.1.a) LOREG, norma no incluida en el tema.",
+   "nota": "La LBRL no regula el procedimiento de la moción de censura; la Ley 10/2017 (art. 11.1.b) se remite expresamente a la legislación electoral general."
   },
   {
    "indice": 184,
@@ -265,7 +329,10 @@
     "Todos los Concejales."
    ],
    "correct": 2,
-   "exp": "Pregunta 536 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 536 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "CONSERVAR",
+   "fuente": "Art. 21.1.b) LBRL (Ley 7/1985)",
+   "nota": "Art. 21.1: el Alcalde es el Presidente de la Corporación y le corresponde b) «Representar al ayuntamiento»; opción marcada correcta. ATENCIÓN: el distractor «La Comisión de Gobierno» está desfasado (hoy Junta de Gobierno Local) y conviene reescribirlo."
   },
   {
    "indice": 188,
@@ -277,7 +344,10 @@
     "La Comisión informativa respectiva."
    ],
    "correct": 1,
-   "exp": "Pregunta 540 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 540 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "CONSERVAR",
+   "fuente": "Art. 23.3 LBRL (Ley 7/1985)",
+   "nota": "Art. 23.3: los Tenientes de Alcalde son «libremente designados y removidos» por el Alcalde de entre los miembros de la Junta de Gobierno Local o, donde no exista, de entre los Concejales; opción marcada correcta. ATENCIÓN: el distractor «La Comisión de Gobierno» está desfasado (hoy Junta de Gobierno Local)."
   },
   {
    "indice": 192,
@@ -289,7 +359,10 @@
     "Cinco años."
    ],
    "correct": 2,
-   "exp": "Pregunta 544 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 544 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "La duración de cuatro años del mandato está en el art. 194 LOREG, norma no incluida en el tema; no verificable en las normas del tema 14.",
+   "nota": "Buscada la expresión «cuatro años» en el consolidado de la LBRL: sin resultado; y el art. 140 CE no fija duración del mandato de los concejales."
   },
   {
    "indice": 196,
@@ -301,7 +374,10 @@
     "Cinco."
    ],
    "correct": 1,
-   "exp": "Pregunta 548 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 548 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "El límite de una cuestión de confianza al año está en el art. 197 bis LOREG, norma no incluida en el tema.",
+   "nota": "La LBRL no regula la cuestión de confianza; la Ley 10/2017 se remite a la legislación electoral general."
   },
   {
    "indice": 200,
@@ -313,7 +389,10 @@
     "30 de noviembre."
    ],
    "correct": 1,
-   "exp": "Pregunta 552 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 552 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Pregunta sobre la fecha de aprobación del ROF (RD 2568/1986, de 28 de noviembre): norma ajena al tema y dato de puro calendario.",
+   "nota": "El ROF no figura entre las normas del tema 14 (LBRL, RPDT y Ley 10/2017); dato no verificable en ellas."
   },
   {
    "indice": 204,
@@ -325,7 +404,10 @@
     "No existe normativa al respecto."
    ],
    "correct": 2,
-   "exp": "Pregunta 556 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 556 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "El plazo para fijar la periodicidad de las sesiones procede del ROF (art. 38), norma ajena al tema, y el régimen de funcionamiento no está en el epígrafe.",
+   "nota": "Los arts. 19-24 y 121-138 LBRL no contienen ese plazo; el art. 46 LBRL regula la periodicidad, no el plazo para acordarla."
   },
   {
    "indice": 208,
@@ -337,7 +419,10 @@
     "Cuando se traten asuntos que puedan afectar a la intimidad de las personas."
    ],
    "correct": 3,
-   "exp": "Pregunta 560 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 560 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Régimen de publicidad de las sesiones (art. 70.1 LBRL, Título V, funcionamiento), fuera del epígrafe del tema 14; además la opción marcada omite el requisito de mayoría absoluta.",
+   "nota": "El secreto del debate y votación exige acuerdo por mayoría absoluta conforme al art. 70.1 LBRL, precepto que queda fuera de los bloques del tema (arts. 11-30 y 121-138)."
   },
   {
    "indice": 212,
@@ -349,7 +434,10 @@
     "Que la sesión no se celebrará."
    ],
    "correct": 1,
-   "exp": "Pregunta 564 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 564 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "La reconvocatoria automática a la misma hora dos días después procede del ROF (art. 90.2), norma ajena al tema; funcionamiento fuera del epígrafe.",
+   "nota": "No aparece en el art. 46 LBRL ni en el Título X; el dato es del ROF."
   },
   {
    "indice": 216,
@@ -361,7 +449,10 @@
     "Impersonal y delegable."
    ],
    "correct": 2,
-   "exp": "Pregunta 568 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 568 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Carácter personal e indelegable del voto: régimen de funcionamiento, fuera del epígrafe del tema 14 y no verificable en los bloques del tema.",
+   "nota": "Revisados los arts. 19-24 y 121-138 LBRL sin encontrar la regla; procede del ROF."
   },
   {
    "indice": 220,
@@ -373,7 +464,10 @@
     "Unanimidad."
    ],
    "correct": 1,
-   "exp": "Pregunta 572 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 572 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Clasificación doctrinal de mayorías, sin apoyo literal en las normas del tema y fuera del epígrafe (funcionamiento).",
+   "nota": "El art. 47 LBRL, que regula las mayorías, no está en los bloques del tema y no emplea las categorías «extraordinaria» ni «especial» tal como plantea la pregunta."
   },
   {
    "indice": 224,
@@ -385,7 +479,10 @@
     "En cualquier orden."
    ],
    "correct": 1,
-   "exp": "Pregunta 576 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 576 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Orden de debate de los asuntos: ROF (art. 91), norma ajena al tema; además la opción marcada está mal redactada («el orden incluido en la sesión del día»).",
+   "nota": "No verificable en LBRL arts. 11-30 ni 121-138."
   },
   {
    "indice": 228,
@@ -397,7 +494,10 @@
     "Dos veces al mes."
    ],
    "correct": 0,
-   "exp": "Pregunta 580 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 580 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Periodicidad de las sesiones del Pleno (art. 46.2.a LBRL, Título V): el dato marcado es correcto, pero el régimen de funcionamiento queda fuera del epígrafe del tema 14 y no hay tema de destino en el temario.",
+   "nota": "Verificado el art. 46.2.a LBRL: sesión ordinaria como mínimo cada mes en municipios de más de 20.000 habitantes, luego para 200.000 habitantes es mensual; el precepto está fuera de los bloques del tema."
   },
   {
    "indice": 232,
@@ -409,7 +509,10 @@
     "En cualquier lugar habilitado al efecto."
    ],
    "correct": 2,
-   "exp": "Pregunta 584 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 584 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Pregunta sobre la «Comisión de Gobierno», órgano sustituido por la Junta de Gobierno Local por la Ley 57/2003: enunciado desfasado.",
+   "nota": "El consolidado de la LBRL (arts. 20, 23 y 126-127) solo habla de Junta de Gobierno Local; la Comisión de Gobierno no existe desde 2004."
   },
   {
    "indice": 236,
@@ -421,7 +524,10 @@
     "Válido si lo acuerda el Pleno."
    ],
    "correct": 0,
-   "exp": "Pregunta 588 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 588 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Nulidad de acuerdos adoptados fuera del orden del día: regla del ROF (arts. 83 y 91), fuera del epígrafe del tema 14.",
+   "nota": "Buscada la expresión «nulos los acuerdos» en el consolidado de la LBRL sin resultado; no verificable en las normas del tema."
   },
   {
    "indice": 240,
@@ -433,7 +539,10 @@
     "Sólo por resolución judicial."
    ],
    "correct": 0,
-   "exp": "Pregunta 592 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 592 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "El Libro de Actas y su custodia se regulan en el ROF, norma ajena al tema, y la materia queda fuera del epígrafe.",
+   "nota": "No aparece en los arts. 11-30 ni 121-138 LBRL."
   },
   {
    "indice": 244,
@@ -445,7 +554,10 @@
     "La relación nominal de concejales."
    ],
    "correct": 3,
-   "exp": "Pregunta 596 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 596 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Contenido del expediente de convocatoria del Pleno: ROF, norma ajena al tema, y funcionamiento fuera del epígrafe.",
+   "nota": "No verificable en las normas del tema 14."
   },
   {
    "indice": 248,
@@ -457,7 +569,10 @@
     "Cuando lo establezca el Pleno de acuerdo con el Alcalde. Tema Nº 13. La Provincia."
    ],
    "correct": 0,
-   "exp": "Pregunta 600 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 600 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Pregunta sobre la «Comisión de Gobierno», órgano suprimido por la Ley 57/2003; además el texto de la última opción está contaminado con un encabezado de tema («Tema Nº 13. La Provincia»).",
+   "nota": "Órgano inexistente en el consolidado vigente de la LBRL; la pregunta es irrecuperable tal como está."
   },
   {
    "indice": 252,
@@ -469,7 +584,10 @@
     "Ninguna."
    ],
    "correct": 1,
-   "exp": "Pregunta 604 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 604 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Las provincias no forman parte del temario de esta oposición: el epígrafe del tema 14 es el municipio.",
+   "nota": "Comprobado el temario (tools/fuentes.json): no hay tema de la Provincia; la pregunta procede del bloque provincial del banco antiguo."
   },
   {
    "indice": 256,
@@ -481,7 +599,10 @@
     "Los Consejos Sectoriales."
    ],
    "correct": 0,
-   "exp": "Pregunta 608 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 608 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Organización de la Diputación Provincial: fuera del alcance del tema 14 y sin tema de destino en el temario; además el distractor mantiene la «Comisión de Gobierno».",
+   "nota": "Materia provincial, ajena al epígrafe del municipio."
   },
   {
    "indice": 260,
@@ -493,7 +614,10 @@
     "Los municipios de la provincia."
    ],
    "correct": 0,
-   "exp": "Pregunta 612 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 612 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Elección del Presidente de la Diputación: materia provincial, fuera del alcance del tema 14 y sin tema de destino; el distractor mantiene la «Comisión de Gobierno».",
+   "nota": "Materia provincial, ajena al epígrafe del municipio."
   },
   {
    "indice": 264,
@@ -505,7 +629,10 @@
     "A la aprobación de bandos informativos."
    ],
    "correct": 3,
-   "exp": "Pregunta 616 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 616 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Cuestión de confianza en la Diputación Provincial: materia provincial y de la LOREG, fuera del alcance del tema 14.",
+   "nota": "Materia provincial, ajena al epígrafe del municipio."
   },
   {
    "indice": 268,
@@ -517,7 +644,10 @@
     "Aprobar la oferta de empleo público."
    ],
    "correct": 2,
-   "exp": "Pregunta 620 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 620 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Atribuciones del Presidente de la Diputación: materia provincial, fuera del alcance del tema 14.",
+   "nota": "Materia provincial (art. 34 LBRL), ajena al epígrafe del municipio."
   },
   {
    "indice": 272,
@@ -529,7 +659,10 @@
     "Aprobar Bandos."
    ],
    "correct": 3,
-   "exp": "Pregunta 624 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 624 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Atribuciones del Pleno de la Diputación: materia provincial, fuera del alcance del tema 14.",
+   "nota": "Materia provincial (art. 33 LBRL), ajena al epígrafe del municipio."
   },
   {
    "indice": 276,
@@ -541,7 +674,10 @@
     "Facultativos y no vinculantes."
    ],
    "correct": 0,
-   "exp": "Pregunta 628 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 628 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Comisiones informativas de la Diputación: materia provincial y del ROF, fuera del alcance del tema 14.",
+   "nota": "Materia provincial, ajena al epígrafe del municipio."
   },
   {
    "indice": 280,
@@ -553,7 +689,10 @@
     "Ninguna."
    ],
    "correct": 0,
-   "exp": "Pregunta 632 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 632 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Número de provincias de Baleares: materia provincial, fuera del alcance del tema 14.",
+   "nota": "Materia provincial, ajena al epígrafe del municipio."
   },
   {
    "indice": 284,
@@ -565,7 +704,10 @@
     "El Diputado de mayor edad."
    ],
    "correct": 1,
-   "exp": "Pregunta 636 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 636 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Presidencia del Pleno de la Diputación: materia provincial, fuera del alcance del tema 14.",
+   "nota": "Materia provincial, ajena al epígrafe del municipio."
   },
   {
    "indice": 288,
@@ -577,7 +719,10 @@
     "37."
    ],
    "correct": 2,
-   "exp": "Pregunta 640 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 640 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Número de diputados provinciales (art. 204 LOREG): materia provincial y norma ajena al tema.",
+   "nota": "Materia provincial, ajena al epígrafe del municipio."
   },
   {
    "indice": 292,
@@ -589,7 +734,10 @@
     "Seis años."
    ],
    "correct": 2,
-   "exp": "Pregunta 644 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 644 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Mandato del Presidente de la Diputación: materia provincial y de la LOREG, fuera del alcance del tema 14.",
+   "nota": "Materia provincial, ajena al epígrafe del municipio."
   },
   {
    "indice": 296,
@@ -601,7 +749,10 @@
     "El Secretario de la Corporación."
    ],
    "correct": 2,
-   "exp": "Pregunta 648 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 648 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Dictámenes de las comisiones informativas en el bloque provincial: fuera del alcance del tema 14; el distractor mantiene además la «Comisión de Gobierno».",
+   "nota": "Materia provincial y del ROF, ajena al epígrafe del municipio."
   },
   {
    "indice": 300,
@@ -613,7 +764,10 @@
     "Depende de lo que establezca la normativa provincial en cada caso."
    ],
    "correct": 2,
-   "exp": "Pregunta 652 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 652 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Las comarcas no son materia del tema 14 (el epígrafe es el municipio).",
+   "nota": "El art. 3.2.a) LBRL las sitúa entre las entidades locales no territoriales, pero la materia queda fuera del epígrafe y no tiene tema de destino en el temario."
   },
   {
    "indice": 304,
@@ -625,7 +779,10 @@
     "Gozan de personalidad jurídica plena."
    ],
    "correct": 3,
-   "exp": "Pregunta 656 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 656 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Entidades de ámbito inferior al municipio con el marco derogado: el art. 45 LBRL fue suprimido por la Ley 27/2013 y hoy el art. 24 bis dispone que carecen de personalidad jurídica, de modo que varias opciones son a la vez falsas y la pregunta es defectuosa.",
+   "nota": "Verificado el art. 24 bis.1 LBRL: son «forma de organización desconcentrada» del municipio y «carecerán de personalidad jurídica»; con esa redacción tampoco son entes locales ni territoriales, así que la pregunta ya no tiene una única respuesta."
   },
   {
    "indice": 308,
@@ -637,7 +794,10 @@
     "El Ministerio de Administraciones públicas."
    ],
    "correct": 2,
-   "exp": "Pregunta 660 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 660 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Creación de entidades de ámbito inferior al municipio: fuera del epígrafe del tema 14 y con el marco alterado por la Ley 27/2013 (hoy remitido a la legislación autonómica, art. 24 bis LBRL).",
+   "nota": "El art. 42.d) RPDT sigue atribuyendo la resolución definitiva al Consejo de Gobierno de la CA, pero el art. 44.3 RPDT se remite al art. 45 LBRL, precepto derogado en 2013: el capítulo está descolgado del régimen vigente."
   },
   {
    "indice": 312,
@@ -649,7 +809,10 @@
     "Cualquiera de sus miembros."
    ],
    "correct": 1,
-   "exp": "Pregunta 664 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 664 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Régimen interno de las entidades de ámbito inferior al municipio (asamblea vecinal, Alcalde pedáneo): fuera del epígrafe del tema 14 y con el marco derogado.",
+   "nota": "No verificable en las normas del tema; el régimen orgánico de estas entidades es hoy autonómico (art. 24 bis LBRL)."
   },
   {
    "indice": 316,
@@ -661,7 +824,10 @@
     "Cualquiera de sus miembros."
    ],
    "correct": 1,
-   "exp": "Pregunta 668 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 668 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Régimen interno de las entidades de ámbito inferior al municipio: fuera del epígrafe del tema 14 y con el marco derogado.",
+   "nota": "Misma comprobación que la anterior."
   },
   {
    "indice": 320,
@@ -673,7 +839,10 @@
     "A la Diputación provincial respectiva."
    ],
    "correct": 1,
-   "exp": "Pregunta 672 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 672 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Censura de cuentas de las entidades de ámbito inferior al municipio: fuera del epígrafe del tema 14 y con el marco derogado.",
+   "nota": "Misma comprobación que las anteriores; además la materia contable corresponde a los temas de haciendas locales."
   },
   {
    "indice": 324,
@@ -685,7 +854,10 @@
     "El artículo 43."
    ],
    "correct": 0,
-   "exp": "Pregunta 676 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 676 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Concepto de comarca (art. 42 LBRL): fuera del epígrafe del tema 14, que es el municipio.",
+   "nota": "Verificada la ubicación de las comarcas en el Título IV LBRL, ajeno a los bloques del tema."
   },
   {
    "indice": 328,
@@ -697,7 +869,10 @@
     "Los Ayuntamientos que la integren."
    ],
    "correct": 0,
-   "exp": "Pregunta 680 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 680 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Composición y creación de comarcas: fuera del epígrafe del tema 14.",
+   "nota": "Materia comarcal (art. 42 LBRL), ajena al epígrafe del municipio."
   },
   {
    "indice": 332,
@@ -709,7 +884,10 @@
     "Sólo si existe oposición por parte de la Comunidad Autónma."
    ],
    "correct": 0,
-   "exp": "Pregunta 684 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 684 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Mancomunidades de municipios: fuera del epígrafe del tema 14 (arts. 44 LBRL y 31 y ss. RPDT, no incluidos en el alcance).",
+   "nota": "El art. 31.2 RPDT confirma el dato marcado (no es indispensable pertenecer a la misma provincia), pero la materia no está en el epígrafe ni tiene tema de destino."
   },
   {
    "indice": 336,
@@ -721,7 +899,10 @@
     "Los Ayuntamientos que la integran."
    ],
    "correct": 2,
-   "exp": "Pregunta 688 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 688 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Estatutos de las mancomunidades: fuera del epígrafe del tema 14.",
+   "nota": "El art. 35.b) RPDT confirma que la Diputación emite informe sobre el proyecto de estatutos, pero la materia queda fuera del alcance del tema."
   },
   {
    "indice": 340,
@@ -733,7 +914,10 @@
     "Área Metropolitana."
    ],
    "correct": 3,
-   "exp": "Pregunta 692 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 692 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Áreas metropolitanas (art. 43.2 LBRL): fuera del epígrafe del tema 14.",
+   "nota": "Definición verificada en el Título IV LBRL, ajeno a los bloques del tema."
   },
   {
    "indice": 344,
@@ -745,7 +929,10 @@
     "El Ministerio de Administraciones Públicas."
    ],
    "correct": 2,
-   "exp": "Pregunta 696 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 696 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Supresión de áreas metropolitanas: fuera del epígrafe del tema 14.",
+   "nota": "Materia del art. 43 LBRL, ajena al epígrafe del municipio."
   },
   {
    "indice": 348,
@@ -757,7 +944,10 @@
     "Los precios públicos. Tema Nº 15. El Acto Administrativo."
    ],
    "correct": 3,
-   "exp": "Pregunta 700 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente)."
+   "exp": "Pregunta 700 del banco de test (Municipio/Régimen Local - temas 10,11,12,13,14) (test real con plantilla de respuestas, contenido verificado como vigente).",
+   "veredicto": "ARCHIVAR",
+   "motivo": "Recursos de las áreas metropolitanas: fuera del epígrafe del tema 14 (y de los temas 12 y 13, que son de recursos municipales); además el texto de la última opción está contaminado con un encabezado de tema («Tema Nº 15. El Acto Administrativo»).",
+   "nota": "Materia metropolitana y de haciendas metropolitanas, no municipal; pregunta además defectuosa por el texto arrastrado."
   }
  ]
 }

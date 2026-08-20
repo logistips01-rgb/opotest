@@ -1126,6 +1126,138 @@ debajo de la explicación y sin errores de página.
 Banco de Auxiliar: de 5.688 a **5.848 preguntas**. Con esto **los 21 temas
 tienen contenido**: ya no queda ningún tema vacío.
 
+## Banco de Auxiliar al 100% con cita de artículo (19-ago-2026)
+
+Encargo del dueño: «la cita del artículo tiene que salir en todo. hay que
+arreglarlo y si quedan preguntas del banco hay que pasarlas por el mismo filtro
+que ya hicimos con el tema 1. no quiero fallos, ni que alma tenga que aprender
+cosas que no entren o estén obsoletas».
+
+Resultado: **5.522 preguntas, las 5.522 con cita**, y **cero explicaciones** que
+sigan diciendo «Pregunta N del banco de test». Comprobado en navegador real: 72
+preguntas jugadas en nueve temas distintos, la cita visible en las 72.
+
+### Punto de partida
+
+De las 5.848 que había, 2.080 no tenían el campo `fuente`, que es el que la app
+pinta debajo de la explicación. No eran todas lo mismo:
+
+| Qué eran | Cuántas | Qué se hizo |
+|---|---|---|
+| `exp` citaba «Art. N» | 1.381 | resolver y verificar la cita |
+| `exp` citaba norma, disposición, capítulo o preámbulo | 298 | cita fiel a lo que citan |
+| «Pregunta N del banco de test», sin nada que comprobar | 401 | el filtro del tema 1 |
+
+### Las 401 heredadas: auditoría pregunta a pregunta
+
+| Tema | Auditadas | Se quedan | Se mueven | Archivadas |
+|---|---|---|---|---|
+| 6 · actos administrativos | 50 | 19 | 7 | 24 |
+| 10 · bienes | 50 | 46 | 0 | 4 |
+| 14 · municipio y Zaragoza | 249 | 34 | 7 | 208 |
+| 15 · participación | 50 | 0 | 0 | 50 |
+
+**Trece tenían la respuesta marcada mal**, y el patrón dominante es plazos
+congelados en la Ley 30/1992: tres meses donde la LPAC dice seis, dos meses
+donde la LBRL dice quince días hábiles, una décima parte donde dice la cuarta
+parte. En varias, la respuesta correcta **no figuraba entre las cuatro
+opciones**. Detalle completo en `data/reserva/README.md`.
+
+El tema 15 se archivó entero: sus 50 trataban los servicios de información de la
+**Administración General del Estado** y el epígrafe oficial son dos documentos
+municipales de Zaragoza.
+
+### El mismo problema en contenido GENERADO
+
+Al revisar qué normas cita cada tema apareció que el tema 15 tenía **40
+preguntas generadas sobre el RD 208/1996**, norma de la AGE que ni figuraba en
+`fuentes.json`: la añadió por su cuenta el redactor de esos lotes. Archivadas.
+
+La prueba que zanjó la duda: el **examen real de 1-jun-2025** pregunta cinco
+veces por materia del tema 15 y las cinco son del **ROTPC**. Cuando haya duda de
+alcance en un tema, mirar primero qué preguntó el examen real.
+
+### Cómo se resolvieron las 1.679 citas, sin adivinar la norma
+
+El problema no era extraer «Art. 9.3» del texto: era saber **de qué ley**. Los
+temas 2, 10, 11 y 14 usan tres normas cada uno y un «Art. 3» existe en todas. La
+solución fue **verificar en vez de suponer**: las explicaciones entrecomillan el
+literal del precepto, así que se descargaron los 20 consolidados de la oposición
+y se busca ese literal en el artículo de cada norma candidata, aceptando la cita
+solo si casa.
+
+| Cómo se resolvió | Cuántas |
+|---|---|
+| el literal casa en un único artículo (verificada) | 690 |
+| la explicación nombra la sigla, junto a esa referencia | 213 |
+| solo una norma del tema tiene ese artículo | 191 |
+| desempate por solapamiento de palabras con el artículo | 59 |
+| pregunta de estructura (qué comprende un capítulo, cómo se titula) | 100 |
+| parte no articulada (disposición adicional, anexo, preámbulo) | 43 |
+| ROTPC, reglamento municipal que no está en boe.es | 94 |
+| examen oficial, Plan de Igualdad, Manual de Atención | 37 |
+| cita a nivel de norma | 233 |
+
+Verificación final sobre las resueltas: **ningún artículo citado es
+inexistente**, y de las que traen literal comprobable, 648 casan en su artículo.
+
+**Y salieron tres citas que las propias explicaciones tenían mal**: un literal
+atribuido al art. 79 TRRL que es del art. 109 RBEL, un art. 128.2 atribuido a la
+LBRL que es de la Constitución, y un art. 180.4 TRLRHL que es el 179.4.
+
+### Cinco errores míos, por si vuelven a aparecer
+
+Todos se encontraron comprobando la propia herramienta, no confiando en ella:
+
+1. **Artículos bis y ter en la misma casilla.** «Artículo 84», «84 bis» y «84
+   ter» se guardaban con la misma clave y ganaba el último, así que el cuerpo del
+   84 era el del 84 ter. La LBRL tiene 18 artículos con sufijo. Antes de
+   arreglarlo, la comprobación decía que el art. 84 LBRL no remite al 71 bis de
+   la Ley 30/1992 — y sí lo hace.
+2. **Sigla por primera aparición y no por proximidad.** «el art. 2.3 del RBEL, en
+   relación con el art. 79.3 LBRL» acababa citado como LBRL.
+3. **Sigla leída dentro de las comillas.** «Art. 27.4: '...salvo las excepciones
+   derivadas de la Ley 19/2013...'» se citaba como Ley 19/2013 y es LPAC.
+4. **Referencia y sigla de textos distintos.** El número de artículo se sacaba de
+   la explicación y la sigla del enunciado más la explicación, así que
+   «...del art. 86.2 LBRL?» + «El art. 128.2 CE establece...» pegaba LBRL al
+   128.2.
+5. **Dos veces roto el archivo del banco al escribir**: el troceador no sabía
+   encontrar el final de un bloque **vacío** (el del tema 20 lo está) y se comió
+   las 75 preguntas del tema 21; y el contador de corchetes trataba cualquier
+   comilla como cierre de cadena, así que un apóstrofo dentro de un texto entre
+   comillas dobles descuadraba la cuenta. Las dos veces se detectó comparando el
+   **recuento por tema** antes y después de escribir, y se rehízo desde el
+   commit anterior. Ese control de recuentos es obligatorio en cualquier script
+   que escriba en el banco.
+
+### Restos de normas antiguas: comprobados, no eliminados
+
+Quedan 44 menciones a la Ley 30/1992, la LOFAGE, la Ley 39/1988, la Ley 7/2007,
+la «Comisión de Gobierno» y el Ministerio de Administraciones Públicas, diez de
+ellas en la opción correcta. **Se quedan a propósito**: se comprobó una a una
+que la norma vigente conserva esa remisión sin actualizar. El art. 47.1 TRLRHL
+sigue diciendo «Comisión de Gobierno», el art. 70.2 LBRL sigue remitiendo a la
+Ley 39/1988, el art. 84.1.c) LBRL al art. 71 bis de la Ley 30/1992 y el art. 85
+bis a la Ley 6/1997. Las preguntas recogen bien esa rareza. **Corregirlas sería
+introducir un error donde no lo hay.** Ninguna mención huérfana: cero.
+
+### Huecos de cobertura detectados, pendientes de generar
+
+- **Tema 14**: de las 249 heredadas, **ninguna** tocaba el Título X de la LBRL
+  (municipios de gran población, arts. 121-138) ni la Ley 10/2017 de capitalidad
+  de Zaragoza — la mitad del epígrafe y lo único directamente aplicable al
+  Ayuntamiento. Los cuatro auditores lo señalaron por separado.
+- **Tema 15**: el Manual de Atención a la ciudadanía, uno de los dos documentos
+  oficiales del tema, tiene **una sola pregunta** en todo el banco.
+- **Tema 20**: el capítulo de Parcelaciones (arts. 241-253 TRLUA) se quedó con
+  una sola pregunta.
+- Se corrigió en `fuentes.json` el alcance de los temas 14 y 15, que estaba
+  descrito **más ancho** que las bases CONV 4/2026 y fue la causa de que se
+  generara contenido fuera de tema.
+
+Banco de Auxiliar: de 5.848 a **5.522 preguntas**, todas con cita.
+
 ## Temas siguientes, cuando el 20 esté cerrado
 
 Del 19 hacia atrás. Estado y déficit hasta 500:

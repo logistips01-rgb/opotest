@@ -17,8 +17,7 @@
 
 
 /* tema 18 · 19 preguntas */
-window.addQuestions('aux-admin-zaragoza', 18, [
-  {
+window.addQuestions('aux-admin-zaragoza', 18, [  {
     "q": "Según el artículo 85.1 del TREBEP, ¿cuál de las siguientes NO constituye una de las situaciones administrativas de los funcionarios de carrera?",
     "options": [
       "Servicio en otras Administraciones Públicas",
@@ -268,8 +267,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
 ]);
 
 /* tema 19 · 20 preguntas */
-window.addQuestions('aux-admin-zaragoza', 19, [
-  {
+window.addQuestions('aux-admin-zaragoza', 19, [  {
     "q": "Conforme al artículo 89 de la Ley 7/1985, reguladora de las Bases del Régimen Local, el personal al servicio de las entidades locales está integrado por:",
     "options": [
       "Funcionarios de carrera, funcionarios interinos y personal directivo profesional",
@@ -532,8 +530,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
 ]);
 
 /* tema 18 · 1 preguntas */
-window.addQuestions('aux-admin-zaragoza', 18, [
-  {
+window.addQuestions('aux-admin-zaragoza', 18, [  {
     "q": "Según el Reglamento de Situaciones Administrativas (RD 365/1995), cada período de excedencia voluntaria por interés particular tendrá una duración no inferior a:",
     "options": [
       "Cinco años continuados",
@@ -560,8 +557,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
 
 
 /* tema 19 · 40 preguntas */
-window.addQuestions('aux-admin-zaragoza', 19, [
-  {
+window.addQuestions('aux-admin-zaragoza', 19, [  {
     "q": "Según el artículo 90.1 de la LBRL, las plantillas de las Corporaciones locales deberán responder a los principios de:",
     "options": [
       "Racionalidad, economía y eficiencia, y establecerse de acuerdo con la ordenación general de la economía.",
@@ -1084,8 +1080,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
 ]);
 
 /* tema 19 · 40 preguntas */
-window.addQuestions('aux-admin-zaragoza', 19, [
-  {
+window.addQuestions('aux-admin-zaragoza', 19, [  {
     "q": "Según el artículo 93.1 de la LBRL, las retribuciones básicas de los funcionarios locales tendrán:",
     "options": [
       "La estructura general de la función pública, pero con cuantía fijada libremente por cada Corporación",
@@ -1608,8 +1603,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
 ]);
 
 /* tema 19 · 40 preguntas */
-window.addQuestions('aux-admin-zaragoza', 19, [
-  {
+window.addQuestions('aux-admin-zaragoza', 19, [  {
     "q": "Según el artículo 2.1 del Real Decreto 128/2018, la función pública necesaria de Intervención-Tesorería es comprensiva de:",
     "options": [
       "El control y la fiscalización interna de la gestión económico-financiera y presupuestaria, exclusivamente, pues la contabilidad se atribuye a la Secretaría",
@@ -2132,8 +2126,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
 ]);
 
 /* tema 19 · 40 preguntas */
-window.addQuestions('aux-admin-zaragoza', 19, [
-  {
+window.addQuestions('aux-admin-zaragoza', 19, [  {
     "q": "El Real Decreto 896/1991, de 7 de junio, es de aplicación a los procedimientos de selección de los funcionarios al servicio de las Entidades Locales:",
     "options": [
       "No comprendidos en el número 3 del artículo 92 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local.",
@@ -2656,8 +2649,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
 ]);
 
 /* tema 19 · 40 preguntas */
-window.addQuestions('aux-admin-zaragoza', 19, [
-  {
+window.addQuestions('aux-admin-zaragoza', 19, [  {
     "q": "Conforme al art. 126.1 TRRL, las plantillas de las Entidades locales, que deberán comprender todos los puestos de trabajo debidamente clasificados reservados a funcionarios, personal laboral y eventual, se aprobarán:",
     "options": [
       "Anualmente, con ocasión de la aprobación del Presupuesto",
@@ -3180,8 +3172,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
 ]);
 
 /* tema 19 · 43 preguntas */
-window.addQuestions('aux-admin-zaragoza', 19, [
-  {
+window.addQuestions('aux-admin-zaragoza', 19, [  {
     "q": "Conforme al RD 128/2018, el ingreso en las subescalas de la habilitación de carácter nacional se lleva a cabo conforme a las bases y programas aprobados por el Ministerio de Hacienda y Función Pública, que designará los tribunales calificadores. La gestión y ejecución de los procesos selectivos corresponde a:",
     "options": [
       "El Instituto Nacional de Administración Pública",
@@ -3743,8 +3734,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [
 ]);
 
 /* tema 18 · 40 preguntas */
-window.addQuestions('aux-admin-zaragoza', 18, [
-  {
+window.addQuestions('aux-admin-zaragoza', 18, [  {
     "q": "Los funcionarios de carrera que, en virtud de procesos de transferencias o de procedimientos de provisión de puestos de trabajo, obtienen destino en una Administración Pública distinta, serán declarados en la situación de:",
     "options": [
       "Servicio en otras Administraciones Públicas",
@@ -4267,8 +4257,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
 ]);
 
 /* tema 18 · 40 preguntas */
-window.addQuestions('aux-admin-zaragoza', 18, [
-  {
+window.addQuestions('aux-admin-zaragoza', 18, [  {
     "q": "Según el art. 93.1 TREBEP, ¿a qué régimen quedan sujetos los funcionarios públicos y el personal laboral en materia disciplinaria?",
     "options": [
       "Al régimen disciplinario establecido en el título correspondiente del TREBEP y en las normas que las leyes de Función Pública dicten en su desarrollo",
@@ -4791,8 +4780,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
 ]);
 
 /* tema 18 · 40 preguntas */
-window.addQuestions('aux-admin-zaragoza', 18, [
-  {
+window.addQuestions('aux-admin-zaragoza', 18, [  {
     "q": "¿Cuántas situaciones administrativas de los funcionarios de carrera enumera el artículo 85.1 del TREBEP?",
     "options": [
       "Cinco",
@@ -5315,8 +5303,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
 ]);
 
 /* tema 18 · 40 preguntas */
-window.addQuestions('aux-admin-zaragoza', 18, [
-  {
+window.addQuestions('aux-admin-zaragoza', 18, [  {
     "q": "¿Qué determina, con carácter general, el artículo 91 del TREBEP sobre el reingreso al servicio activo de los funcionarios de carrera?",
     "options": [
       "Que se regularán reglamentariamente los plazos, procedimientos y condiciones para solicitarlo, según las situaciones de procedencia, respetando la reserva de puesto cuando proceda.",
@@ -5839,8 +5826,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
 ]);
 
 /* tema 18 · 40 preguntas */
-window.addQuestions('aux-admin-zaragoza', 18, [
-  {
+window.addQuestions('aux-admin-zaragoza', 18, [  {
     "q": "Según el art. 1.1 del RD 365/1995, ¿a qué funcionarios resulta de aplicación este Reglamento?",
     "options": [
       "A los funcionarios de la Administración General del Estado y sus Organismos autónomos comprendidos en el ámbito de la Ley 30/1984, de 2 de agosto",
@@ -6363,8 +6349,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
 ]);
 
 /* tema 18 · 40 preguntas */
-window.addQuestions('aux-admin-zaragoza', 18, [
-  {
+window.addQuestions('aux-admin-zaragoza', 18, [  {
     "q": "Según el artículo 89.4 del TREBEP, la excedencia para el cuidado de hijos tendrá, en todo caso, una duración máxima de tres años contados desde:",
     "options": [
       "La fecha de nacimiento o de la resolución judicial de adopción",
@@ -6887,8 +6872,7 @@ window.addQuestions('aux-admin-zaragoza', 18, [
 ]);
 
 /* tema 17 · 40 preguntas */
-window.addQuestions('aux-admin-zaragoza', 17, [
-  {
+window.addQuestions('aux-admin-zaragoza', 17, [  {
     "q": "Según el art. 8.2 del TREBEP, ¿qué letra corresponde al personal laboral dentro de la clasificación de los empleados públicos?",
     "options": [
       "Letra c)",
@@ -7411,8 +7395,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
 ]);
 
 /* tema 17 · 40 preguntas */
-window.addQuestions('aux-admin-zaragoza', 17, [
-  {
+window.addQuestions('aux-admin-zaragoza', 17, [  {
     "q": "Según el artículo 31.1 del TREBEP, el derecho a la negociación colectiva, representación y participación institucional que se reconoce a los empleados públicos tiene como finalidad:",
     "options": [
       "La determinación de sus condiciones de trabajo.",
@@ -7935,8 +7918,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
 ]);
 
 /* tema 17 · 40 preguntas */
-window.addQuestions('aux-admin-zaragoza', 17, [
-  {
+window.addQuestions('aux-admin-zaragoza', 17, [  {
     "q": "Según el art. 52 TREBEP, ¿con qué deben desempeñar los empleados públicos las tareas que tengan asignadas?",
     "options": [
       "Con diligencia",
@@ -8459,8 +8441,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
 ]);
 
 /* tema 17 · 40 preguntas */
-window.addQuestions('aux-admin-zaragoza', 17, [
-  {
+window.addQuestions('aux-admin-zaragoza', 17, [  {
     "q": "Según el art. 69.1 TREBEP, ¿cuál es la finalidad de la planificación de los recursos humanos en las Administraciones Públicas?",
     "options": [
       "Contribuir a la eficacia en la prestación de servicios y a la eficiencia en la utilización de los recursos económicos disponibles",
@@ -8983,8 +8964,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
 ]);
 
 /* tema 17 · 40 preguntas */
-window.addQuestions('aux-admin-zaragoza', 17, [
-  {
+window.addQuestions('aux-admin-zaragoza', 17, [  {
     "q": "¿Cuál de las siguientes NO es una causa de pérdida de la condición de funcionario de carrera según el art. 63 TREBEP?",
     "options": [
       "La sanción disciplinaria de separación del servicio con carácter firme",
@@ -9507,8 +9487,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
 ]);
 
 /* tema 17 · 40 preguntas */
-window.addQuestions('aux-admin-zaragoza', 17, [
-  {
+window.addQuestions('aux-admin-zaragoza', 17, [  {
     "q": "Según el art. 21.1 del TREBEP, ¿qué debe reflejarse para cada ejercicio presupuestario en la correspondiente ley de presupuestos respecto de los funcionarios?",
     "options": [
       "Las cuantías de las retribuciones básicas de los funcionarios",
@@ -10031,8 +10010,7 @@ window.addQuestions('aux-admin-zaragoza', 17, [
 ]);
 
 /* tema 16 · 40 preguntas */
-window.addQuestions('aux-admin-zaragoza', 16, [
-  {
+window.addQuestions('aux-admin-zaragoza', 16, [  {
     "q": "¿A qué órgano corresponde, en los municipios de gran población, la aprobación de los proyectos de ordenanzas y de los reglamentos, incluidos los orgánicos, con la excepción de las normas reguladoras del Pleno y sus comisiones?",
     "options": [
       "La Junta de Distrito correspondiente",
@@ -10555,8 +10533,7 @@ window.addQuestions('aux-admin-zaragoza', 16, [
 ]);
 
 /* tema 15 · lote 2026-08-11 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 15, [
-  {
+window.addQuestions('aux-admin-zaragoza', 15, [  {
     "q": "Según el art. 20.1.d) de la Constitución Española, ¿qué derecho se reconoce y protege en relación con la información?",
     "options": [
       "El derecho a comunicar o recibir libremente información veraz por cualquier medio de difusión.",
@@ -11079,8 +11056,7 @@ window.addQuestions('aux-admin-zaragoza', 15, [
 ]);
 
 /* tema 15 · lote 2026-08-11 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 15, [
-  {
+window.addQuestions('aux-admin-zaragoza', 15, [  {
     "q": "Según el art. 18.1.a) de la LBRL, ¿qué derecho tienen los vecinos en relación con las elecciones municipales?",
     "options": [
       "Ser elector y elegible de acuerdo con lo dispuesto en la legislación electoral.",
@@ -11603,8 +11579,7 @@ window.addQuestions('aux-admin-zaragoza', 15, [
 ]);
 
 /* tema 15 · lote 2026-08-11 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 15, [
-  {
+window.addQuestions('aux-admin-zaragoza', 15, [  {
     "q": "¿Qué precepto de la Constitución Española desarrolla el derecho de acceso a la información pública regulado en el artículo 12 de la Ley 19/2013, de 9 de diciembre?",
     "options": [
       "Artículo 105.b)",
@@ -12127,8 +12102,7 @@ window.addQuestions('aux-admin-zaragoza', 15, [
 ]);
 
 /* tema 15 · lote 2026-08-11 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 15, [
-  {
+window.addQuestions('aux-admin-zaragoza', 15, [  {
     "q": "¿Qué instrumento permite a las personas comunicarse con las Administraciones Públicas según el art. 13.a) LPAC?",
     "options": [
       "Sede electrónica de cada organismo",
@@ -12651,532 +12625,10 @@ window.addQuestions('aux-admin-zaragoza', 15, [
 ]);
 
 /* tema 15 · lote 2026-08-11 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 15, [
-  {
-    "q": "Según el art. 1 del Real Decreto 208/1996, de 9 de febrero, la información administrativa es un cauce adecuado a través del cual los ciudadanos pueden acceder al conocimiento de:",
-    "options": [
-      "Sus derechos y obligaciones y a la utilización de los bienes y servicios públicos",
-      "Los expedientes disciplinarios en tramitación",
-      "Las bases de datos de otros ciudadanos",
-      "El contenido de las sentencias judiciales firmes"
-    ],
-    "correct": 0,
-    "exp": "El art. 1 define la información administrativa como cauce para que los ciudadanos accedan al conocimiento de sus derechos y obligaciones y a la utilización de los bienes y servicios públicos.",
-    "fuente": "Art. 1 RD 208/1996, de 9 de febrero (BOE-A-1996-4997)",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 1 del RD 208/1996, la información encomendada a las unidades y oficinas reguladas en su capítulo II podrá ser:",
-    "options": [
-      "Preceptiva o facultativa",
-      "Oral o escrita únicamente",
-      "General o particular",
-      "Pública o reservada"
-    ],
-    "correct": 2,
-    "exp": "El art. 1, párrafo segundo, dice literalmente que dicha información 'podrá ser general o particular'.",
-    "fuente": "Art. 1, párr. 2º, RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 2.1 del RD 208/1996, la información general es, entre otros extremos, la relativa a:",
-    "options": [
-      "Las retribuciones del personal funcionario de cada unidad",
-      "La identificación, fines, competencia, estructura, funcionamiento y localización de organismos y unidades administrativas",
-      "El contenido íntegro de los expedientes en tramitación de cada interesado",
-      "Los datos personales de los empleados públicos destinados en cada oficina"
-    ],
-    "correct": 1,
-    "exp": "El art. 2.1 describe la información general como la relativa a la identificación, fines, competencia, estructura, funcionamiento y localización de organismos y unidades administrativas, entre otros aspectos.",
-    "fuente": "Art. 2.1 RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 2.2 del RD 208/1996, la información general se facilitará a los ciudadanos:",
-    "options": [
-      "Solo previa acreditación de la condición de interesado",
-      "Únicamente a solicitud escrita y motivada",
-      "Obligatoriamente, sin exigir para ello la acreditación de legitimación alguna",
-      "Solo a través de representante legal"
-    ],
-    "correct": 2,
-    "exp": "El art. 2.2 establece que la información general se facilitará obligatoriamente a los ciudadanos, sin exigir para ello la acreditación de legitimación alguna.",
-    "fuente": "Art. 2.2 RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 2.3 del RD 208/1996, cuando resulte conveniente una mayor difusión, la información de carácter general deberá ofrecerse a:",
-    "options": [
-      "Los grupos sociales o instituciones que estén interesados en su conocimiento",
-      "Únicamente a los medios de comunicación social acreditados",
-      "Exclusivamente a las demás Administraciones públicas",
-      "Solo a las Cortes Generales"
-    ],
-    "correct": 0,
-    "exp": "El art. 2.3 dispone que, cuando convenga mayor difusión, la información general deberá ofrecerse a los grupos sociales o instituciones interesados en su conocimiento.",
-    "fuente": "Art. 2.3 RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 2.4 del RD 208/1996, para la difusión de la información general se potenciarán especialmente los medios que permitan:",
-    "options": [
-      "La comparecencia personal obligatoria en las oficinas",
-      "La notificación edictal en el BOE",
-      "La información a distancia (publicaciones, sistemas telefónicos u otras formas de comunicación)",
-      "La comunicación exclusivamente por vía judicial"
-    ],
-    "correct": 2,
-    "exp": "El art. 2.4 señala que se utilizarán los medios de difusión adecuados, potenciando los que permitan la información a distancia, ya se trate de publicaciones, sistemas telefónicos o cualquier otra forma de comunicación.",
-    "fuente": "Art. 2.4 RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 3.1 del RD 208/1996, la información particular sobre el estado o contenido de los procedimientos en tramitación solo podrá facilitarse a:",
-    "options": [
-      "Los medios de comunicación acreditados",
-      "Las personas que tengan la condición de interesados en cada procedimiento o a sus representantes legales",
-      "Los colegios profesionales relacionados con la materia",
-      "Cualquier ciudadano que lo solicite por escrito"
-    ],
-    "correct": 1,
-    "exp": "El art. 3.1 reserva la información particular sobre procedimientos en tramitación a quienes tengan la condición de interesados o a sus representantes legales.",
-    "fuente": "Art. 3.1 RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 3.2 del RD 208/1996, la información sobre documentos que contengan datos de carácter personal que afecten a la intimidad o privacidad de las personas físicas estará reservada a:",
-    "options": [
-      "Cualquier ciudadano que acredite un interés genérico",
-      "Las personas a que se refieran, con las limitaciones legalmente establecidas",
-      "Los medios de comunicación",
-      "Los partidos políticos con representación parlamentaria"
-    ],
-    "correct": 1,
-    "exp": "El art. 3.2 reserva esa información a las personas a que se refieran los datos, con las limitaciones y en los términos legalmente establecidos.",
-    "fuente": "Art. 3.2 RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 3.3 del RD 208/1996, ¿quién aporta la información particular?",
-    "options": [
-      "El Defensor del Pueblo",
-      "Las unidades de gestión de la Administración General del Estado",
-      "Exclusivamente el Centro de Información Administrativa",
-      "Las Cortes Generales"
-    ],
-    "correct": 1,
-    "exp": "El art. 3.3 dispone que esta información será aportada por las unidades de gestión de la Administración General del Estado.",
-    "fuente": "Art. 3.3 RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 4 del RD 208/1996, ¿cuántas funciones comprende la atención personalizada al ciudadano?",
-    "options": [
-      "Cuatro",
-      "Ocho",
-      "Seis (letras a) a f))",
-      "Diez"
-    ],
-    "correct": 2,
-    "exp": "El art. 4 enumera seis funciones, de la letra a) a la f), que comprende la atención personalizada al ciudadano.",
-    "fuente": "Art. 4 RD 208/1996 (enumeración a) a f))",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 4.a) del RD 208/1996, la función de recepción y acogida a los ciudadanos tiene como finalidad, en particular:",
-    "options": [
-      "Elaborar estadísticas de satisfacción ciudadana",
-      "Facilitar la orientación y ayuda que precisen en el momento inicial de su visita, en particular la localización de dependencias y funcionarios",
-      "Formalizar convenios de colaboración entre Administraciones",
-      "Resolver en el acto todos los procedimientos administrativos"
-    ],
-    "correct": 1,
-    "exp": "El art. 4.a) define la función de recepción y acogida como la de facilitar orientación y ayuda en el momento inicial de la visita, en particular sobre localización de dependencias y funcionarios.",
-    "fuente": "Art. 4.a) RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 4.b) del RD 208/1996, la función de orientación e información, en ningún caso podrá entrañar:",
-    "options": [
-      "La entrega de formularios normalizados",
-      "La ayuda en la cumplimentación de impresos",
-      "Una interpretación normativa, a la que se refiere el art. 37.10 de la Ley de Régimen Jurídico de las AAPP",
-      "La determinación de conceptos básicos"
-    ],
-    "correct": 2,
-    "exp": "El art. 4.b) precisa que esta forma de facilitar el ejercicio de derechos en ningún caso podrá entrañar una interpretación normativa, a la que se refiere el art. 37.10 de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.",
-    "fuente": "Art. 4.b) RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 4.c) del RD 208/1996, la función de 'gestión' de las oficinas de información y atención al ciudadano comprende la recepción de la documentación inicial de un expediente cuando así se haya dispuesto:",
-    "options": [
-      "Por costumbre administrativa",
-      "Por acuerdo verbal del interesado",
-      "Reglamentariamente",
-      "Por resolución judicial"
-    ],
-    "correct": 2,
-    "exp": "El art. 4.c) condiciona esta función de gestión a que la recepción de documentación inicial se haya dispuesto reglamentariamente.",
-    "fuente": "Art. 4.c) RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 4.d) del RD 208/1996, las iniciativas o sugerencias presentadas en las oficinas y centros de información administrativa se tramitan mediante:",
-    "options": [
-      "Un recurso de alzada",
-      "Un expediente sancionador",
-      "Las hojas del Libro de Quejas y Sugerencias",
-      "Una reclamación previa en vía administrativa"
-    ],
-    "correct": 2,
-    "exp": "El art. 4.d) remite la tramitación de iniciativas y sugerencias a las hojas del Libro de Quejas y Sugerencias, con arreglo al capítulo III del Real Decreto.",
-    "fuente": "Art. 4.d) RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 4.e) del RD 208/1996, la función de recepción de quejas y reclamaciones se refiere a las que formulen los ciudadanos por:",
-    "options": [
-      "Disconformidad con una sentencia judicial",
-      "Conflictos laborales entre empleados públicos",
-      "Discrepancias con el contenido de una ley",
-      "Tardanzas, desatenciones o cualquier otra actuación irregular en el funcionamiento de las dependencias administrativas"
-    ],
-    "correct": 3,
-    "exp": "El art. 4.e) atribuye esta función a la recepción de quejas y reclamaciones de los ciudadanos por tardanzas, desatenciones o cualquier otra actuación irregular en el funcionamiento de las dependencias administrativas.",
-    "fuente": "Art. 4.e) RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 4.f) del RD 208/1996, las unidades de información administrativa orientan a los ciudadanos sobre el ejercicio del derecho de petición reconocido en:",
-    "options": [
-      "El art. 24 de la Ley 7/1985 (LBRL)",
-      "Los arts. 23 y 105 de la Constitución",
-      "Los arts. 29 y 77 de la Constitución",
-      "El art. 43 de la Ley 30/1992"
-    ],
-    "correct": 2,
-    "exp": "El art. 4.f) atribuye a estas unidades la función de asistencia a los ciudadanos en el ejercicio del derecho de petición reconocido por los arts. 29 y 77 de la Constitución.",
-    "fuente": "Art. 4.f) RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 5.1 del RD 208/1996, la jefatura de la unidad departamental de información administrativa la ostenta:",
-    "options": [
-      "El Director del Centro de Información Administrativa",
-      "El Ministro del ramo",
-      "El titular de la Subdirección General que tenga encomendada la competencia sobre información administrativa",
-      "El Subsecretario del Departamento"
-    ],
-    "correct": 2,
-    "exp": "El art. 5.1 atribuye la jefatura de la unidad departamental al titular de la Subdirección General que tenga encomendada la competencia sobre información administrativa en cada Ministerio.",
-    "fuente": "Art. 5.1 RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 5.3.a) del RD 208/1996, entre las funciones de las unidades departamentales de información administrativa está:",
-    "options": [
-      "Ejercer la potestad sancionadora del Departamento",
-      "Dirigir las oficinas de información y atención al ciudadano del Departamento",
-      "Nombrar a los altos cargos del Ministerio",
-      "Aprobar los presupuestos generales del Departamento"
-    ],
-    "correct": 1,
-    "exp": "El art. 5.3.a) atribuye a estas unidades la función de dirigir las oficinas de información y atención al ciudadano del Departamento, incluidas las sectoriales de ámbito territorial que dependan de él.",
-    "fuente": "Art. 5.3.a) RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 5.3.b) del RD 208/1996, las unidades departamentales crean y mantienen actualizada la base de datos de información administrativa del Departamento para:",
-    "options": [
-      "Su remisión anual al Congreso",
-      "Su venta a empresas privadas",
-      "Su explotación conjunta con otros órganos administrativos",
-      "Su archivo histórico exclusivamente"
-    ],
-    "correct": 2,
-    "exp": "El art. 5.3.b) atribuye esta función con la finalidad de la explotación conjunta con otros órganos administrativos, desarrollando cooperación y colaboración en materia informativa.",
-    "fuente": "Art. 5.3.b) RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 5.4.a).1º del RD 208/1996, entre los cometidos de gestión interna de obtención, tratamiento y actualización de la información se incluye:",
-    "options": [
-      "La instrucción de expedientes disciplinarios",
-      "La relación permanente con las fuentes orgánicas de la información",
-      "La firma de convenios internacionales",
-      "La resolución de recursos de reposición"
-    ],
-    "correct": 1,
-    "exp": "El art. 5.4.a), cometido 1º, incluye la relación permanente con las fuentes orgánicas de la información entre los cometidos de gestión interna.",
-    "fuente": "Art. 5.4.a).1º RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 5.4.b) del RD 208/1996, entre los cometidos de distribución y difusión de la información está:",
-    "options": [
-      "La convocatoria de procesos selectivos",
-      "La imposición de sanciones disciplinarias",
-      "La distribución a las unidades dependientes de la propia organización y a las unidades exteriores",
-      "La aprobación de los presupuestos generales del Estado"
-    ],
-    "correct": 2,
-    "exp": "El art. 5.4.b), en sus cometidos 2º y 3º, incluye la distribución a las unidades dependientes de la propia organización y a las unidades exteriores.",
-    "fuente": "Art. 5.4.b) RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 6.1 del RD 208/1996, el Centro de Información Administrativa se halla adscrito a:",
-    "options": [
-      "El Congreso de los Diputados",
-      "El Ministerio de Justicia",
-      "La Presidencia del Gobierno directamente",
-      "La Secretaría de Estado para la Administración Pública, a través de la Inspección General de Servicios"
-    ],
-    "correct": 3,
-    "exp": "El art. 6.1 adscribe el Centro de Información Administrativa a la Secretaría de Estado para la Administración Pública, a través de la Inspección General de Servicios de la Administración Pública.",
-    "fuente": "Art. 6.1 RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 6.1 del RD 208/1996, el Centro de Información Administrativa tiene el nivel orgánico de:",
-    "options": [
-      "Subsecretaría",
-      "Secretaría General Técnica",
-      "Subdirección General",
-      "Dirección General"
-    ],
-    "correct": 2,
-    "exp": "El art. 6.1 atribuye al Centro de Información Administrativa nivel orgánico de Subdirección General.",
-    "fuente": "Art. 6.1 RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 6.2.a) del RD 208/1996, el Centro de Información Administrativa mantiene actualizadas y distribuye las bases de datos de:",
-    "options": [
-      "Los organismos internacionales",
-      "Las entidades locales exclusivamente",
-      "Las Comunidades Autónomas únicamente",
-      "La Administración General del Estado, con la colaboración de las unidades departamentales"
-    ],
-    "correct": 3,
-    "exp": "El art. 6.2.a) atribuye al Centro esta función referida a la Administración General del Estado, con colaboración de las demás unidades departamentales de información administrativa.",
-    "fuente": "Art. 6.2.a) RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 6.2.b) del RD 208/1996, el sistema de información administrativa al ciudadano que sostiene el Centro de Información Administrativa es, eminentemente:",
-    "options": [
-      "Presencial exclusivamente",
-      "Postal",
-      "Telefónico",
-      "Telegráfico"
-    ],
-    "correct": 2,
-    "exp": "El art. 6.2.b) describe este sistema de información al ciudadano como eminentemente telefónico, mediante el establecimiento y coordinación de centros y oficinas centralizadas de información.",
-    "fuente": "Art. 6.2.b) RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 6.2.c) del RD 208/1996, el Centro de Información Administrativa coopera en el desarrollo de las unidades y oficinas de información de los demás Departamentos procurando, en particular:",
-    "options": [
-      "Centralizar toda la información en un único registro secreto",
-      "Externalizar el servicio a empresas privadas",
-      "Mantener la necesaria coordinación y cohesión para lograr un nivel y un sistema homogéneos de atención al ciudadano",
-      "Suprimir las oficinas de menor actividad"
-    ],
-    "correct": 2,
-    "exp": "El art. 6.2.c) señala que esta cooperación busca mantener la necesaria coordinación y cohesión entre las oficinas para lograr un nivel y un sistema homogéneos de atención al ciudadano.",
-    "fuente": "Art. 6.2.c) RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 7.1 del RD 208/1996, todas las oficinas de información y atención al ciudadano realizan las funciones del capítulo I y los cometidos de gestión interna que les delegue o encomiende:",
-    "options": [
-      "La Comisión Nacional de la Competencia",
-      "El Centro de Información Administrativa o la unidad de información administrativa respectiva",
-      "El Ministerio de Justicia",
-      "El Tribunal de Cuentas"
-    ],
-    "correct": 1,
-    "exp": "El art. 7.1 atribuye la delegación o encomienda de estos cometidos al Centro de Información Administrativa o a la unidad de información administrativa respectiva, según los recursos disponibles.",
-    "fuente": "Art. 7.1 RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 8 del RD 208/1996, ¿cuántos tipos de oficinas de información y atención al ciudadano existen en los servicios centrales?",
-    "options": [
-      "Cuatro",
-      "Una sola",
-      "Tres",
-      "Dos"
-    ],
-    "correct": 3,
-    "exp": "El art. 8 distingue dos tipos: las oficinas centrales de información y atención al ciudadano (letra a) y las de entidades de derecho público vinculadas o dependientes (letra b).",
-    "fuente": "Art. 8 RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 8.a) del RD 208/1996, las oficinas centrales de información y atención al ciudadano radicarán, salvo circunstancias singulares, en:",
-    "options": [
-      "La sede de la Presidencia del Gobierno únicamente",
-      "La capital de cada provincia",
-      "La sede de cada Departamento ministerial",
-      "La sede del Ministerio de Hacienda exclusivamente"
-    ],
-    "correct": 2,
-    "exp": "El art. 8.a) sitúa estas oficinas centrales en la sede de cada Departamento ministerial, salvo que circunstancias singulares aconsejen otro emplazamiento.",
-    "fuente": "Art. 8.a) RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 9.1 del RD 208/1996, existirán oficinas centrales de información y atención al ciudadano dependientes de:",
-    "options": [
-      "Los Juzgados de Primera Instancia",
-      "Las Diputaciones Provinciales",
-      "Los Ayuntamientos exclusivamente",
-      "Las Delegaciones del Gobierno en las Comunidades Autónomas, los Gobiernos Civiles y las Delegaciones Insulares del Gobierno"
-    ],
-    "correct": 3,
-    "exp": "El art. 9.1 atribuye este carácter de oficinas centrales a las dependientes de las Delegaciones del Gobierno en las Comunidades Autónomas, los Gobiernos Civiles y las Delegaciones Insulares del Gobierno.",
-    "fuente": "Art. 9.1 RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 9.2 del RD 208/1996 (en su redacción conforme a la corrección de errores publicada en el BOE núm. 75, de 27 de marzo de 1996), podrán existir oficinas de carácter sectorial en los servicios y dependencias provinciales cuando:",
-    "options": [
-      "Lo solicite la Unión Europea",
-      "Lo exija una sentencia judicial firme",
-      "El volumen y la especialidad de la demanda informativa justifiquen su existencia",
-      "Lo decida el Ayuntamiento correspondiente"
-    ],
-    "correct": 2,
-    "exp": "El art. 9.2 condiciona la existencia de estas oficinas sectoriales provinciales a que el volumen y la especialidad de la demanda informativa la justifiquen.",
-    "fuente": "Art. 9.2 RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 9.3 del RD 208/1996, las oficinas de carácter central asumen, respecto a las demás oficinas de su ámbito territorial, funciones de:",
-    "options": [
-      "Potestad expropiatoria",
-      "Coordinación, apoyo y tutela propias de las unidades informativas departamentales",
-      "Régimen disciplinario",
-      "Inspección tributaria"
-    ],
-    "correct": 1,
-    "exp": "El art. 9.3 atribuye a las oficinas centrales, respecto de las demás de su ámbito territorial, las funciones de coordinación, apoyo y tutela propias de las unidades informativas departamentales.",
-    "fuente": "Art. 9.3 RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 9.4 del RD 208/1996, todas las oficinas de información y atención al ciudadano deben transmitir al Centro de Información Administrativa:",
-    "options": [
-      "La relación de puestos de trabajo vacantes",
-      "El presupuesto anual de la oficina",
-      "Las variaciones que experimenten los datos referentes a los órganos de la AGE y entidades vinculadas en su ámbito territorial",
-      "El número de quejas presentadas por cada funcionario"
-    ],
-    "correct": 2,
-    "exp": "El art. 9.4 impone a todas las oficinas la obligación de transmitir al Centro de Información Administrativa (y, en su caso, a la unidad departamental) las variaciones que experimenten esos datos.",
-    "fuente": "Art. 9.4 RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 9.5 del RD 208/1996, el Centro de Información Administrativa actúa, respecto a las unidades territoriales, como:",
-    "options": [
-      "Autoridad de protección de datos",
-      "Órgano de control presupuestario",
-      "Coordinador territorial de la información administrativa",
-      "Órgano de apelación jerárquica"
-    ],
-    "correct": 2,
-    "exp": "El art. 9.5 atribuye al Centro de Información Administrativa la función de coordinador territorial de la información administrativa, para asegurar la conexión funcional permanente entre las unidades territoriales y con el propio Centro.",
-    "fuente": "Art. 9.5 RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 10 del RD 208/1996, mediante convenio de colaboración suscrito entre distintas Administraciones públicas podrá acordarse:",
-    "options": [
-      "La supresión de las oficinas de información existentes",
-      "La delegación de la potestad legislativa",
-      "Que desde las oficinas de información de cualquiera de ellas se ofrezca al ciudadano información de las otras, incluida la creación de oficinas integradas",
-      "La cesión de la titularidad del patrimonio público"
-    ],
-    "correct": 2,
-    "exp": "El art. 10 permite, mediante convenio de colaboración, que las oficinas de una Administración ofrezcan información de otras, articulando mecanismos de comunicación e incluso oficinas integradas con participación de varias Administraciones.",
-    "fuente": "Art. 10 RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 14 del RD 208/1996, los órganos colegiados de información administrativa ajustan su régimen jurídico y actuación a lo dispuesto en la sección correspondiente y en:",
-    "options": [
-      "El Reglamento del Congreso de los Diputados",
-      "La Ley 50/1997, del Gobierno",
-      "El Título I de la Constitución Española",
-      "El capítulo II del Título II de la Ley 30/1992, de 26 de noviembre"
-    ],
-    "correct": 3,
-    "exp": "El art. 14 remite el régimen jurídico y la actuación de estos órganos colegiados al capítulo II del Título II de la Ley 30/1992, de 26 de noviembre.",
-    "fuente": "Art. 14 RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según la disposición adicional única del RD 208/1996, la regulación de la información y atención a los ciudadanos en hospitales e instituciones dependientes del INSALUD corresponde aprobarla a:",
-    "options": [
-      "Cada Comunidad Autónoma, sin excepción",
-      "El Instituto Nacional de Administración Pública",
-      "El Ministerio de Sanidad y Consumo",
-      "El Ministerio para las Administraciones Públicas"
-    ],
-    "correct": 2,
-    "exp": "La disposición adicional única reserva al Ministerio de Sanidad y Consumo la aprobación de las disposiciones que regulen la información y atención a los ciudadanos en hospitales e instituciones sanitarias del INSALUD.",
-    "fuente": "Disposición adicional única RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según la disposición transitoria única, apartado 1, del RD 208/1996, la adaptación organizativa y de funcionamiento que debe llevar a cabo cada Departamento ministerial se efectuará en el plazo de:",
-    "options": [
-      "Un mes",
-      "Tres meses",
-      "Un año",
-      "Seis meses desde su entrada en vigor"
-    ],
-    "correct": 3,
-    "exp": "La disposición transitoria única.1 fija en seis meses, desde la entrada en vigor del Real Decreto, el plazo para la adaptación organizativa y de funcionamiento de cada Departamento.",
-    "fuente": "Disposición transitoria única, apartado 1, RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según la disposición derogatoria única del RD 208/1996, queda derogado, entre otras normas:",
-    "options": [
-      "El Real Decreto 221/1987, de 20 de febrero",
-      "La Ley 30/1992, de 26 de noviembre",
-      "La Ley de Procedimiento Administrativo de 1958 en su totalidad",
-      "El Decreto 93/1965, de 28 de enero"
-    ],
-    "correct": 3,
-    "exp": "La disposición derogatoria única deroga expresamente el Decreto 93/1965, de 28 de enero, junto con las órdenes ministeriales de 22 de octubre de 1958 y de 5 de enero de 1959.",
-    "fuente": "Disposición derogatoria única RD 208/1996",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según la disposición final segunda del RD 208/1996, su entrada en vigor se produce:",
-    "options": [
-      "A los tres meses de su publicación",
-      "El 1 de enero de 1997",
-      "El día siguiente al de su publicación en el BOE",
-      "A los veinte días de su publicación"
-    ],
-    "correct": 2,
-    "exp": "La disposición final segunda establece que el Real Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Estado.",
-    "fuente": "Disposición final segunda RD 208/1996",
-    "confianza": "alta"
-  }
-]);
+window.addQuestions('aux-admin-zaragoza', 15, []);
 
 /* tema 15 · lote 2026-08-11 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 15, [
-  {
+window.addQuestions('aux-admin-zaragoza', 15, [  {
     "q": "Según el art. 17.c) del ROTPC, además del Presidente y los diez Vocales, forman parte del Pleno de la Junta Municipal:",
     "options": [
       "Los Presidentes de los Concejos Locales que se hayan nombrado conforme al Reglamento",
@@ -13700,8 +13152,7 @@ window.addQuestions('aux-admin-zaragoza', 15, [
 ]);
 
 /* tema 14 · lote 2026-08-11 · 34 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 14, [
-  {
+window.addQuestions('aux-admin-zaragoza', 14, [  {
     "q": "Según el art. 121.1 LBRL, ¿a partir de qué población se aplica el régimen de organización de los municipios de gran población a un municipio, sin necesidad de ningún otro requisito adicional?",
     "options": [
       "100.000 habitantes",
@@ -14146,8 +13597,7 @@ window.addQuestions('aux-admin-zaragoza', 14, [
 ]);
 
 /* tema 14 · lote 2026-08-11 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 14, [
-  {
+window.addQuestions('aux-admin-zaragoza', 14, [  {
     "q": "Según el art. 24 bis.1 de la LBRL, los entes de ámbito territorial inferior al municipio (caseríos, parroquias, aldeas, barrios, anteiglesias, concejos, pedanías, lugares anejos y análogos) se caracterizan por:",
     "options": [
       "Carecer de personalidad jurídica, como forma de organización desconcentrada del municipio",
@@ -14671,8 +14121,7 @@ window.addQuestions('aux-admin-zaragoza', 14, [
 ]);
 
 /* tema 14 · lote 2026-08-11 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 14, [
-  {
+window.addQuestions('aux-admin-zaragoza', 14, [  {
     "q": "Según el art. 2 de la Ley 10/2017, el municipio de Zaragoza goza, de acuerdo con la autonomía garantizada constitucionalmente:",
     "options": [
       "De personalidad jurídica propia, plena capacidad de obrar y potestades suficientes para ordenar y gestionar los asuntos de interés público que afecten a sus ciudadanos",
@@ -15195,8 +14644,7 @@ window.addQuestions('aux-admin-zaragoza', 14, [
 ]);
 
 /* tema 14 · lote 2026-08-11 · 39 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 14, [
-  {
+window.addQuestions('aux-admin-zaragoza', 14, [  {
     "q": "Según el art. 13.1 de la LBRL, la alteración de términos municipales requiere en todo caso audiencia de los municipios interesados y dictamen del Consejo de Estado (u órgano consultivo superior de la CA) e informe de la Administración que ejerza la tutela financiera. Además, esa alteración:",
     "options": [
       "No podrá suponer en ningún caso modificación de los límites provinciales",
@@ -15706,8 +15154,7 @@ window.addQuestions('aux-admin-zaragoza', 14, [
 ]);
 
 /* tema 13 · lote 2026-08-11 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 13, [
-  {
+window.addQuestions('aux-admin-zaragoza', 13, [  {
     "q": "¿Quién ordena, según el TRLRHL, la incoación del expediente de crédito extraordinario o de suplemento de crédito?",
     "options": [
       "El interventor de la entidad",
@@ -16230,8 +15677,7 @@ window.addQuestions('aux-admin-zaragoza', 13, [
 ]);
 
 /* tema 13 · lote 2026-08-11 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 13, [
-  {
+window.addQuestions('aux-admin-zaragoza', 13, [  {
     "q": "Según el art. 183 del TRLRHL, ¿conforme a qué se efectúa la ejecución de los créditos consignados en el presupuesto de gastos de las entidades locales?",
     "options": [
       "Conforme a lo dispuesto en la Sección 3.ª del Capítulo I del Título VI y, complementariamente, por las normas que dicte cada entidad, plasmadas en las bases de ejecución del presupuesto",
@@ -16754,8 +16200,7 @@ window.addQuestions('aux-admin-zaragoza', 13, [
 ]);
 
 /* tema 13 · lote 2026-08-11 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 13, [
-  {
+window.addQuestions('aux-admin-zaragoza', 13, [  {
     "q": "Según el art. 162 del TRLRHL, para que las previsiones de ingresos y gastos de una sociedad mercantil se incluyan en el presupuesto general de la entidad local, el capital social de dicha sociedad debe pertenecer a la entidad local:",
     "options": [
       "De forma mayoritaria, aunque sea parcial",
@@ -17279,8 +16724,7 @@ window.addQuestions('aux-admin-zaragoza', 13, [
 ]);
 
 /* tema 13 · lote 2026-08-11 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 13, [
-  {
+window.addQuestions('aux-admin-zaragoza', 13, [  {
     "q": "Según el art. 191.1 TRLRHL, ¿en qué fecha se liquida el presupuesto de cada ejercicio en cuanto a la recaudación de derechos y al pago de obligaciones?",
     "options": [
       "El 31 de diciembre del año natural correspondiente",
@@ -17803,8 +17247,7 @@ window.addQuestions('aux-admin-zaragoza', 13, [
 ]);
 
 /* tema 13 · lote 2026-08-11 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 13, [
-  {
+window.addQuestions('aux-admin-zaragoza', 13, [  {
     "q": "Según el art. 200.1 del TRLRHL, las entidades locales y sus organismos autónomos quedan sometidos, en materia contable, al régimen de:",
     "options": [
       "Contabilidad pública, en los términos establecidos en la propia ley",
@@ -18327,8 +17770,7 @@ window.addQuestions('aux-admin-zaragoza', 13, [
 ]);
 
 /* tema 13 · lote 2026-08-11 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 13, [
-  {
+window.addQuestions('aux-admin-zaragoza', 13, [  {
     "q": "Según el art. 169.6 del TRLRHL, cuando el presupuesto queda automáticamente prorrogado por no haber entrado en vigor el nuevo al iniciarse el ejercicio, ¿a qué créditos NO afecta esa prórroga?",
     "options": [
       "A los créditos para servicios o programas que deban concluir en el ejercicio anterior o que estén financiados con crédito u otros ingresos específicos o afectados",
@@ -18851,8 +18293,7 @@ window.addQuestions('aux-admin-zaragoza', 13, [
 ]);
 
 /* tema 12 · lote 2026-08-11 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 12, [
-  {
+window.addQuestions('aux-admin-zaragoza', 12, [  {
     "q": "¿Qué naturaleza tiene el Impuesto sobre Bienes Inmuebles (IBI) conforme al art. 60 TRLRHL?",
     "options": [
       "Tributo directo de carácter real que grava el valor de los bienes inmuebles",
@@ -19375,8 +18816,7 @@ window.addQuestions('aux-admin-zaragoza', 12, [
 ]);
 
 /* tema 12 · lote 2026-08-11 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 12, [
-  {
+window.addQuestions('aux-admin-zaragoza', 12, [  {
     "q": "¿Cuál es el hecho imponible de las contribuciones especiales conforme al TRLRHL?",
     "options": [
       "La utilización privativa o el aprovechamiento especial del dominio público local",
@@ -19899,8 +19339,7 @@ window.addQuestions('aux-admin-zaragoza', 12, [
 ]);
 
 /* tema 12 · lote 2026-08-11 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 12, [
-  {
+window.addQuestions('aux-admin-zaragoza', 12, [  {
     "q": "Según el art. 78.1 TRLRHL, el Impuesto sobre Actividades Económicas es un tributo...",
     "options": [
       "directo de carácter real, cuyo hecho imponible es el mero ejercicio de actividades empresariales, profesionales o artísticas",
@@ -20423,8 +19862,7 @@ window.addQuestions('aux-admin-zaragoza', 12, [
 ]);
 
 /* tema 12 · lote 2026-08-11 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 12, [
-  {
+window.addQuestions('aux-admin-zaragoza', 12, [  {
     "q": "Según el art. 6 TRLRHL, los tributos que establezcan las entidades locales se dictan al amparo de lo dispuesto en un artículo de la Ley 7/1985, de 2 de abril (LBRL). ¿En cuál?",
     "options": [
       "Artículo 106.1",
@@ -20947,8 +20385,7 @@ window.addQuestions('aux-admin-zaragoza', 12, [
 ]);
 
 /* tema 11 · lote 2026-08-11 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 11, [
-  {
+window.addQuestions('aux-admin-zaragoza', 11, [  {
     "q": "Según el art. 85.1 LBRL, ¿qué se consideran servicios públicos locales?",
     "options": [
       "Los que prestan las entidades locales en el ámbito de sus competencias",
@@ -21471,8 +20908,7 @@ window.addQuestions('aux-admin-zaragoza', 11, [
 ]);
 
 /* tema 11 · lote 2026-08-11 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 11, [
-  {
+window.addQuestions('aux-admin-zaragoza', 11, [  {
     "q": "¿Cuántos medios de intervención administrativa en la actividad de los ciudadanos enumera el art. 84.1 LBRL?",
     "options": [
       "Cuatro",
@@ -21995,8 +21431,7 @@ window.addQuestions('aux-admin-zaragoza', 11, [
 ]);
 
 /* tema 11 · lote 2026-08-12 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 11, [
-  {
+window.addQuestions('aux-admin-zaragoza', 11, [  {
     "q": "Según el artículo 44.1 de la Ley 7/1985, Reguladora de las Bases del Régimen Local (LBRL), ¿qué derecho se reconoce a los municipios?",
     "options": [
       "El derecho a asociarse con otros municipios en mancomunidades para la ejecución en común de obras y servicios determinados de su competencia",
@@ -22519,8 +21954,7 @@ window.addQuestions('aux-admin-zaragoza', 11, [
 ]);
 
 /* tema 11 · lote 2026-08-12 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 11, [
-  {
+window.addQuestions('aux-admin-zaragoza', 11, [  {
     "q": "¿En virtud de qué condición reconoce el art. 4.1 LBRL las potestades que enumera a municipios, provincias e islas?",
     "options": [
       "Su calidad de Administraciones públicas de carácter territorial, dentro de la esfera de sus competencias",
@@ -23043,8 +22477,7 @@ window.addQuestions('aux-admin-zaragoza', 11, [
 ]);
 
 /* tema 10 · lote 2026-08-12 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 10, [
-  {
+window.addQuestions('aux-admin-zaragoza', 10, [  {
     "q": "Según el art. 109.1 RBEL, los bienes inmuebles patrimoniales de las entidades locales no podrán enajenarse, gravarse ni permutarse sin autorización del órgano competente de la Comunidad Autónoma cuando su valor exceda de qué porcentaje de los recursos ordinarios del presupuesto anual de la Corporación.",
     "options": [
       "El 10 por 100",
@@ -23567,8 +23000,7 @@ window.addQuestions('aux-admin-zaragoza', 10, [
 ]);
 
 /* tema 10 · lote 2026-08-12 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 10, [
-  {
+window.addQuestions('aux-admin-zaragoza', 10, [  {
     "q": "Según el art. 74.1 RBEL, la utilización de los bienes de dominio y uso público se regirá por:",
     "options": [
       "Las disposiciones de la Sección 1.ª del Capítulo IV del RBEL",
@@ -24092,8 +23524,7 @@ window.addQuestions('aux-admin-zaragoza', 10, [
 ]);
 
 /* tema 10 · lote 2026-08-12 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 10, [
-  {
+window.addQuestions('aux-admin-zaragoza', 10, [  {
     "q": "Según el art. 79.1 LBRL, el patrimonio de las entidades locales está constituido por:",
     "options": [
       "El conjunto de bienes, derechos y acciones que les pertenezcan",
@@ -24616,8 +24047,7 @@ window.addQuestions('aux-admin-zaragoza', 10, [
 ]);
 
 /* tema 10 · lote 2026-08-12 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 10, [
-  {
+window.addQuestions('aux-admin-zaragoza', 10, [  {
     "q": "Según el art. 17.1 RBEL, ¿de qué bienes y derechos están obligadas a formar inventario las Corporaciones locales?",
     "options": [
       "Únicamente de los bienes inmuebles de dominio público",
@@ -25140,8 +24570,7 @@ window.addQuestions('aux-admin-zaragoza', 10, [
 ]);
 
 /* tema 9 · lote 2026-08-12 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 9, [
-  {
+window.addQuestions('aux-admin-zaragoza', 9, [  {
     "q": "Según el art. 61.1 LCSP, la representación de las entidades del sector público en materia contractual corresponde a:",
     "options": [
       "Los órganos de contratación, unipersonales o colegiados, que tengan atribuida la facultad de celebrar contratos en su nombre",
@@ -25665,8 +25094,7 @@ window.addQuestions('aux-admin-zaragoza', 9, [
 ]);
 
 /* tema 9 · lote 2026-08-12 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 9, [
-  {
+window.addQuestions('aux-admin-zaragoza', 9, [  {
     "q": "Según el art. 99.1 LCSP, el objeto de los contratos del sector público deberá ser determinado, pudiendo definirse en atención a:",
     "options": [
       "el presupuesto máximo disponible únicamente",
@@ -26189,8 +25617,7 @@ window.addQuestions('aux-admin-zaragoza', 9, [
 ]);
 
 /* tema 9 · lote 2026-08-12 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 9, [
-  {
+window.addQuestions('aux-admin-zaragoza', 9, [  {
     "q": "Según el artículo 1.1 LCSP, ¿cuál de los siguientes NO es uno de los principios que la ley garantiza en la contratación del sector público?",
     "options": [
       "Libertad de acceso a las licitaciones",
@@ -26713,8 +26140,7 @@ window.addQuestions('aux-admin-zaragoza', 9, [
 ]);
 
 /* tema 9 · lote 2026-08-12 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 9, [
-  {
+window.addQuestions('aux-admin-zaragoza', 9, [  {
     "q": "Según el art. 131.2 LCSP, la adjudicación de los contratos de las Administraciones Públicas se realizará ordinariamente utilizando el procedimiento abierto o el procedimiento restringido, salvo en el caso de:",
     "options": [
       "Los contratos de obras de cualquier importe, que se adjudicarán siempre mediante diálogo competitivo",
@@ -27237,8 +26663,7 @@ window.addQuestions('aux-admin-zaragoza', 9, [
 ]);
 
 /* tema 8 · lote 2026-08-12 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 8, [
-  {
+window.addQuestions('aux-admin-zaragoza', 8, [  {
     "q": "Según el art. 106.1 LPAC, antes de declarar de oficio la nulidad de un acto, la Administración necesita un dictamen previo y favorable de:",
     "options": [
       "El Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere",
@@ -27761,8 +27186,7 @@ window.addQuestions('aux-admin-zaragoza', 8, [
 ]);
 
 /* tema 8 · lote 2026-08-12 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 8, [
-  {
+window.addQuestions('aux-admin-zaragoza', 8, [  {
     "q": "Según el art. 112.1 LPAC, además de las resoluciones, ¿contra qué actos de trámite cabe interponer los recursos de alzada y el potestativo de reposición?",
     "options": [
       "Contra los actos de trámite que decidan directa o indirectamente el fondo del asunto, determinen la imposibilidad de continuar el procedimiento, o produzcan indefensión o perjuicio irreparable a derechos e intereses legítimos",
@@ -28285,8 +27709,7 @@ window.addQuestions('aux-admin-zaragoza', 8, [
 ]);
 
 /* tema 8 · lote 2026-08-12 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 8, [
-  {
+window.addQuestions('aux-admin-zaragoza', 8, [  {
     "q": "Según el art. 121.1 LPAC, el recurso de alzada puede interponerse contra las resoluciones y actos a que se refiere el art. 112.1 cuando:",
     "options": [
       "No pongan fin a la vía administrativa",
@@ -28809,8 +28232,7 @@ window.addQuestions('aux-admin-zaragoza', 8, [
 ]);
 
 /* tema 8 · lote 2026-08-12 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 8, [
-  {
+window.addQuestions('aux-admin-zaragoza', 8, [  {
     "q": "Según el art. 126.1 LPAC, cuando el órgano competente acuerda la inadmisión a trámite del recurso extraordinario de revisión sin recabar dictamen del Consejo de Estado, dicho acuerdo debe ser, en todo caso:",
     "options": [
       "Motivado",
@@ -29334,8 +28756,7 @@ window.addQuestions('aux-admin-zaragoza', 8, [
 ]);
 
 /* tema 7 · lote 2026-08-12 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 7, [
-  {
+window.addQuestions('aux-admin-zaragoza', 7, [  {
     "q": "¿Cómo define el artículo 70.1 LPAC el expediente administrativo?",
     "options": [
       "El conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla",
@@ -29859,8 +29280,7 @@ window.addQuestions('aux-admin-zaragoza', 7, [
 ]);
 
 /* tema 7 · lote 2026-08-12 · 39 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 7, [
-  {
+window.addQuestions('aux-admin-zaragoza', 7, [  {
     "q": "Según el art. 53.1 b) LPAC, los interesados en un procedimiento administrativo tienen derecho a identificar a las autoridades y al personal al servicio de las Administraciones Públicas:",
     "options": [
       "Bajo cuya responsabilidad se tramiten los procedimientos",
@@ -30370,8 +29790,7 @@ window.addQuestions('aux-admin-zaragoza', 7, [
 ]);
 
 /* tema 7 · lote 2026-08-12 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 7, [
-  {
+window.addQuestions('aux-admin-zaragoza', 7, [  {
     "q": "Según el art. 96.1 LPAC, ¿en qué momento puede el órgano competente para la tramitación simplificada acordar continuar con arreglo a la tramitación ordinaria?",
     "options": [
       "En cualquier momento del procedimiento anterior a su resolución",
@@ -30934,8 +30353,7 @@ window.addQuestions('aux-admin-zaragoza', 7, [
 ]);
 
 /* tema 7 · lote 2026-08-12 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 7, [
-  {
+window.addQuestions('aux-admin-zaragoza', 7, [  {
     "q": "Según el art. 85.1, iniciado un procedimiento sancionador, si el infractor reconoce su responsabilidad, la Administración podrá:",
     "options": [
       "Resolver el procedimiento con la imposición de la sanción que proceda",
@@ -31458,8 +30876,7 @@ window.addQuestions('aux-admin-zaragoza', 7, [
 ]);
 
 /* tema 6 · lote 2026-08-12 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 6, [
-  {
+window.addQuestions('aux-admin-zaragoza', 6, [  {
     "q": "Según el art. 40.1 LPAC, ¿a quiénes debe notificar el órgano que dicte resoluciones y actos administrativos?",
     "options": [
       "A los interesados cuyos derechos e intereses sean afectados por aquéllos",
@@ -31982,8 +31399,7 @@ window.addQuestions('aux-admin-zaragoza', 6, [
 ]);
 
 /* tema 6 · lote 2026-08-12 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 6, [
-  {
+window.addQuestions('aux-admin-zaragoza', 6, [  {
     "q": "Según el art. 34.1 LPAC, ¿por qué vías pueden producirse los actos administrativos que dicten las Administraciones Públicas?",
     "options": [
       "De oficio o a instancia del interesado",
@@ -32506,8 +31922,7 @@ window.addQuestions('aux-admin-zaragoza', 6, [
 ]);
 
 /* tema 6 · lote 2026-08-12 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 6, [
-  {
+window.addQuestions('aux-admin-zaragoza', 6, [  {
     "q": "Según el art. 48.1 LPAC, ¿qué actos de la Administración son anulables?",
     "options": [
       "Los que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder",
@@ -33030,8 +32445,7 @@ window.addQuestions('aux-admin-zaragoza', 6, [
 ]);
 
 /* tema 6 · lote 2026-08-12 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 6, [
-  {
+window.addQuestions('aux-admin-zaragoza', 6, [  {
     "q": "Según el art. 44 LPAC, si la Administración establece formas de notificación complementarias a través de otros medios de difusión, ¿qué obligación se mantiene en todo caso?",
     "options": [
       "La de publicar el correspondiente anuncio en el «Boletín Oficial del Estado»",
@@ -33554,8 +32968,7 @@ window.addQuestions('aux-admin-zaragoza', 6, [
 ]);
 
 /* tema 5 · lote 2026-08-12 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 5, [
-  {
+window.addQuestions('aux-admin-zaragoza', 5, [  {
     "q": "Según el art. 17.2 de la Ley 39/2015, además de garantizar la autenticidad, integridad y conservación del documento electrónico, se asegurará en todo caso la posibilidad de:",
     "options": [
       "Imprimir el documento en soporte papel de forma inmediata",
@@ -34078,8 +33491,7 @@ window.addQuestions('aux-admin-zaragoza', 5, [
 ]);
 
 /* tema 5 · lote 2026-08-12 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 5, [
-  {
+window.addQuestions('aux-admin-zaragoza', 5, [  {
     "q": "Según el art. 24.1, cuando el procedimiento tenga por objeto el acceso a actividades o su ejercicio, la ley que disponga el carácter desestimatorio del silencio deberá fundarse en:",
     "options": [
       "La concurrencia de razones imperiosas de interés general",
@@ -34602,8 +34014,7 @@ window.addQuestions('aux-admin-zaragoza', 5, [
 ]);
 
 /* tema 5 · lote 2026-08-12 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 5, [
-  {
+window.addQuestions('aux-admin-zaragoza', 5, [  {
     "q": "Conforme al artículo 29 de la LPAC, los términos y plazos establecidos en la Ley 39/2015 u otras leyes:",
     "options": [
       "Obligan a las autoridades y personal al servicio de las Administraciones Públicas competentes para la tramitación de los asuntos, así como a los interesados en los mismos.",
@@ -35126,8 +34537,7 @@ window.addQuestions('aux-admin-zaragoza', 5, [
 ]);
 
 /* tema 5 · lote 2026-08-12 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 5, [
-  {
+window.addQuestions('aux-admin-zaragoza', 5, [  {
     "q": "¿Cuántos derechos enumera expresamente el art. 13 de la Ley 39/2015 (LPAC) a favor de quienes tienen capacidad de obrar ante las Administraciones Públicas?",
     "options": [
       "Nueve",
@@ -35650,8 +35060,7 @@ window.addQuestions('aux-admin-zaragoza', 5, [
 ]);
 
 /* tema 4 · lote 2026-08-13 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 4, [
-  {
+window.addQuestions('aux-admin-zaragoza', 4, [  {
     "q": "Según el art. 6.1 LPAC, ¿qué Administraciones dispondrán de un registro electrónico general de apoderamientos?",
     "options": [
       "La Administración General del Estado, las Comunidades Autónomas y las Entidades Locales.",
@@ -36174,8 +35583,7 @@ window.addQuestions('aux-admin-zaragoza', 4, [
 ]);
 
 /* tema 4 · lote 2026-08-13 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 4, [
-  {
+window.addQuestions('aux-admin-zaragoza', 4, [  {
     "q": "Según el art. 9.1 de la LPAC, ¿mediante qué comprobación están obligadas las Administraciones Públicas a verificar la identidad de los interesados en el procedimiento administrativo?",
     "options": [
       "Su firma manuscrita cotejada con la que figura en el DNI",
@@ -36698,8 +36106,7 @@ window.addQuestions('aux-admin-zaragoza', 4, [
 ]);
 
 /* tema 4 · lote 2026-08-13 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 4, [
-  {
+window.addQuestions('aux-admin-zaragoza', 4, [  {
     "q": "Según el art. 11.1 LPAC, para realizar cualquier actuación prevista en el procedimiento administrativo, con carácter general, ¿qué es suficiente que los interesados acrediten previamente?",
     "options": [
       "Su identidad a través de cualquiera de los medios de identificación previstos en la Ley",
@@ -37222,8 +36629,7 @@ window.addQuestions('aux-admin-zaragoza', 4, [
 ]);
 
 /* tema 4 · lote 2026-08-13 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 4, [
-  {
+window.addQuestions('aux-admin-zaragoza', 4, [  {
     "q": "¿Cómo se titula el art. 3 de la Ley 39/2015, LPAC?",
     "options": [
       "Capacidad de obrar",
@@ -37746,8 +37152,7 @@ window.addQuestions('aux-admin-zaragoza', 4, [
 ]);
 
 /* tema 3 · lote 2026-08-13 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 3, [
-  {
+window.addQuestions('aux-admin-zaragoza', 3, [  {
     "q": "¿Cuál de las siguientes NO figura entre las funciones que el art. 33.1 EAA atribuye a las Cortes de Aragón?",
     "options": [
       "Nombrar a los magistrados del Tribunal Superior de Justicia de Aragón",
@@ -38270,8 +37675,7 @@ window.addQuestions('aux-admin-zaragoza', 3, [
 ]);
 
 /* tema 3 · lote 2026-08-13 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 3, [
-  {
+window.addQuestions('aux-admin-zaragoza', 3, [  {
     "q": "Según el Estatuto de Autonomía de Aragón, ¿quién nombra al Presidente de Aragón una vez elegido por las Cortes?",
     "options": [
       "El Presidente del Gobierno de España",
@@ -38794,8 +38198,7 @@ window.addQuestions('aux-admin-zaragoza', 3, [
 ]);
 
 /* tema 3 · lote 2026-08-13 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 3, [
-  {
+window.addQuestions('aux-admin-zaragoza', 3, [  {
     "q": "Según el art. 70.1 EAA, ¿qué tres clases de competencias corresponden a la Comunidad Autónoma de Aragón sobre las materias del Título V del Estatuto?",
     "options": [
       "Exclusivas, compartidas y ejecutivas",
@@ -39318,8 +38721,7 @@ window.addQuestions('aux-admin-zaragoza', 3, [
 ]);
 
 /* tema 3 · lote 2026-08-13 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 3, [
-  {
+window.addQuestions('aux-admin-zaragoza', 3, [  {
     "q": "Según el art. 1.1 del Estatuto de Autonomía de Aragón, Aragón ejerce su autogobierno en el ejercicio del derecho a la autonomía que la Constitución reconoce y garantiza a:",
     "options": [
       "Toda nacionalidad",
@@ -39842,8 +39244,7 @@ window.addQuestions('aux-admin-zaragoza', 3, [
 ]);
 
 /* tema 2 · lote 2026-08-13 · 39 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 2, [
-  {
+window.addQuestions('aux-admin-zaragoza', 2, [  {
     "q": "El art. 3 de la LO 3/2007 define el principio de igualdad de trato entre mujeres y hombres como la ausencia de toda discriminación, directa o indirecta, por razón de sexo. De las siguientes causas, ¿cuál NO cita expresamente ese artículo como especialmente derivada de tal discriminación?",
     "options": [
       "La maternidad",
@@ -40353,8 +39754,7 @@ window.addQuestions('aux-admin-zaragoza', 2, [
 ]);
 
 /* tema 2 · lote 2026-08-13 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 2, [
-  {
+window.addQuestions('aux-admin-zaragoza', 2, [  {
     "q": "Según el artículo 1.1 de la Ley 4/2007, ¿cuál es el objeto de la Ley?",
     "options": [
       "La adopción de medidas integrales dirigidas a la sensibilización, prevención y erradicación de la violencia ejercida sobre las mujeres, así como la protección, asistencia y seguimiento a las víctimas",
@@ -40877,8 +40277,7 @@ window.addQuestions('aux-admin-zaragoza', 2, [
 ]);
 
 /* tema 2 · lote 2026-08-13 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 2, [
-  {
+window.addQuestions('aux-admin-zaragoza', 2, [  {
     "q": "Según el art. 24.1 de la Ley 4/2007, ¿quién puede facilitar un dispositivo de alarma a las mujeres que se encuentren en una situación de alto riesgo?",
     "options": [
       "El Instituto Aragonés de la Mujer, directamente o en colaboración con otras Administraciones Públicas y, en su caso, entidades privadas",
@@ -41402,8 +40801,7 @@ window.addQuestions('aux-admin-zaragoza', 2, [
 ]);
 
 /* tema 2 · lote 2026-08-13 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 2, [
-  {
+window.addQuestions('aux-admin-zaragoza', 2, [  {
     "q": "Según el apartado 2.1 (Normativa Internacional) del II Plan de Igualdad de Zaragoza, ¿en qué conferencia mundial sobre la mujer se recogió la transversalidad del principio de igualdad entre hombres y mujeres (mainstreaming), seguida de exámenes quinquenales?",
     "options": [
       "Beijing (1995)",
@@ -41926,8 +41324,7 @@ window.addQuestions('aux-admin-zaragoza', 2, [
 ]);
 
 /* tema 16 · lote 2026-08-14 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 16, [
-  {
+window.addQuestions('aux-admin-zaragoza', 16, [  {
     "q": "Según el art. 48.1 de la Ley de Capitalidad, la elaboración, aprobación y modificación de las ordenanzas y los Reglamentos municipales de Zaragoza se ajustará a la legislación sobre procedimiento administrativo común y...",
     "options": [
       "al procedimiento establecido en el propio artículo 48",
@@ -42450,8 +41847,7 @@ window.addQuestions('aux-admin-zaragoza', 16, [
 ]);
 
 /* tema 16 · lote 2026-08-14 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 16, [
-  {
+window.addQuestions('aux-admin-zaragoza', 16, [  {
     "q": "Conforme al art. 55 del TRRL, ¿a quién corresponde dictar los Bandos?",
     "options": [
       "Al Pleno de la Corporación, por mayoría absoluta.",
@@ -42974,8 +42370,7 @@ window.addQuestions('aux-admin-zaragoza', 16, [
 ]);
 
 /* tema 16 · lote 2026-08-14 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 16, [
-  {
+window.addQuestions('aux-admin-zaragoza', 16, [  {
     "q": "Según el art. 82.1 ROF, el orden del día de las sesiones del Pleno será fijado por:",
     "options": [
       "La Comisión Informativa competente por razón de la materia.",
@@ -43498,8 +42893,7 @@ window.addQuestions('aux-admin-zaragoza', 16, [
 ]);
 
 /* tema 16 · lote 2026-08-15 · 42 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 16, [
-  {
+window.addQuestions('aux-admin-zaragoza', 16, [  {
     "q": "El art. 49 LBRL articula el procedimiento de aprobación de las Ordenanzas locales en:",
     "options": [
       "Dos fases, identificadas con las letras a) y b).",
@@ -44056,8 +43450,7 @@ window.addQuestions('aux-admin-zaragoza', 16, [
 /* Reubicadas desde el tema 1 en la auditoría de alcance del 17-ago-2026:
    preguntas correctas y dentro del temario de la oposición, pero que no
    pertenecen al tema 1 («...en la Constitución»). */
-window.addQuestions("aux-admin-zaragoza", 14, [
-  {
+window.addQuestions("aux-admin-zaragoza", 14, [  {
     "q": "¿De qué año es la Ley Reguladora de las Bases del Régimen Local?",
     "options": [
       "1983.",
@@ -44066,12 +43459,12 @@ window.addQuestions("aux-admin-zaragoza", 14, [
       "1986."
     ],
     "correct": 2,
-    "exp": "(Procedía del tema 1 del banco original; el tema 1 oficial solo cubre la organización territorial en la Constitución, así que la pregunta se reubicó aquí.) Pregunta 434 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    "exp": "La norma es la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, publicada en el BOE núm. 80, de 3 de abril de 1985. Comprobado en la ficha del consolidado BOE-A-1985-5392. (Procedía del tema 1 del banco original; el tema 1 oficial solo cubre la organización territorial en la Constitución, así que la pregunta se reubicó aquí.)",
+    "fuente": "Ley 7/1985, de 2 de abril (LBRL), BOE-A-1985-5392"
   }
 ]);
 
-window.addQuestions("aux-admin-zaragoza", 16, [
-  {
+window.addQuestions("aux-admin-zaragoza", 16, [  {
     "q": "¿De qué año es el Texto Refundido de Disposiciones legales vigentes en materia de régimen local?",
     "options": [
       "1985.",
@@ -44080,13 +43473,13 @@ window.addQuestions("aux-admin-zaragoza", 16, [
       "1988."
     ],
     "correct": 1,
-    "exp": "(Procedía del tema 1 del banco original; el tema 1 oficial solo cubre la organización territorial en la Constitución, así que la pregunta se reubicó aquí.) Pregunta 449 del banco de test (Municipio/Régimen Local - temas 9) (test real con plantilla de respuestas, contenido verificado como vigente)."
+    "exp": "La norma es el Real Decreto Legislativo 781/1986, de 18 de abril, por el que se aprueba el texto refundido de las disposiciones legales vigentes en materia de Régimen Local. Comprobado en la ficha del consolidado BOE-A-1986-9865. (Procedía del tema 1 del banco original; el tema 1 oficial solo cubre la organización territorial en la Constitución, así que la pregunta se reubicó aquí.)",
+    "fuente": "RDLeg 781/1986, de 18 de abril (TRRL), BOE-A-1986-9865"
   }
 ]);
 
 /* tema 1 · lote 2026-08-19 · 39 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 1, [
-  {
+window.addQuestions('aux-admin-zaragoza', 1, [  {
     "q": "La fórmula final con que se cierra el texto de la Constitución Española indica el lugar y la fecha de su firma. ¿Qué lugar figura en ella?",
     "options": [
       "Palacio de la Zarzuela",
@@ -44596,8 +43989,7 @@ window.addQuestions('aux-admin-zaragoza', 1, [
 ]);
 
 /* tema 1 · lote 2026-08-19 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 1, [
-  {
+window.addQuestions('aux-admin-zaragoza', 1, [  {
     "q": "Según el art. 1.2 CE, la soberanía nacional reside en el pueblo español, del que emanan:",
     "options": [
       "Todas las instituciones del Estado y de las Comunidades Autónomas",
@@ -45120,8 +44512,7 @@ window.addQuestions('aux-admin-zaragoza', 1, [
 ]);
 
 /* tema 1 · lote 2026-08-19 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 1, [
-  {
+window.addQuestions('aux-admin-zaragoza', 1, [  {
     "q": "¿Con arreglo a qué ejerce el Gobierno sus potestades, según el inciso final del art. 97 CE?",
     "options": [
       "De acuerdo con la Constitución y las leyes",
@@ -45644,8 +45035,7 @@ window.addQuestions('aux-admin-zaragoza', 1, [
 ]);
 
 /* tema 1 · lote 2026-08-19 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 1, [
-  {
+window.addQuestions('aux-admin-zaragoza', 1, [  {
     "q": "¿Cuál de las siguientes redacciones reproduce literalmente el artículo 137 de la Constitución?",
     "options": [
       "«El territorio del Estado se organiza en municipios, provincias y Comunidades Autónomas, que gozan de autonomía plena.»",
@@ -46168,8 +45558,7 @@ window.addQuestions('aux-admin-zaragoza', 1, [
 ]);
 
 /* tema 20 · lote 2026-08-19 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 20, [
-  {
+window.addQuestions('aux-admin-zaragoza', 20, [  {
     "q": "Según el texto refundido de la Ley de Urbanismo de Aragón, la previsión de edificabilidad por la ordenación territorial y urbanística:",
     "options": [
       "Por sí misma no se integra en el contenido del derecho de propiedad del suelo; la patrimonialización de la edificabilidad se produce únicamente con su realización efectiva y está condicionada al cumplimiento de los deberes y al levantamiento de las cargas propias del régimen que corresponda",
@@ -46692,8 +46081,7 @@ window.addQuestions('aux-admin-zaragoza', 20, [
 ]);
 
 /* tema 20 · lote 2026-08-19 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 20, [
-  {
+window.addQuestions('aux-admin-zaragoza', 20, [  {
     "q": "Conforme al texto refundido de la Ley de Urbanismo de Aragón, el plan general de ordenación urbana, como instrumento de ordenación integral, abarcará:",
     "options": [
       "Exclusivamente un único término municipal completo.",
@@ -47216,8 +46604,7 @@ window.addQuestions('aux-admin-zaragoza', 20, [
 ]);
 
 /* tema 20 · lote 2026-08-19 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 20, [
-  {
+window.addQuestions('aux-admin-zaragoza', 20, [  {
     "q": "Conforme al artículo 118.2 de la Ley de Urbanismo de Aragón, las actuaciones aisladas son aquellas que se ejecutan de forma asistemática, sobre suelo urbano consolidado, a través de:",
     "options": [
       "El sistema de gestión indirecta por compensación",
@@ -47740,8 +47127,7 @@ window.addQuestions('aux-admin-zaragoza', 20, [
 ]);
 
 /* tema 20 · lote 2026-08-19 · 40 preguntas revisadas */
-window.addQuestions('aux-admin-zaragoza', 20, [
-  {
+window.addQuestions('aux-admin-zaragoza', 20, [  {
     "q": "Conforme a las normas de directa aplicación del texto refundido de la Ley de Urbanismo de Aragón, mientras no exista plan que lo autorice, ¿con qué altura máxima puede edificarse, medida en cada punto del terreno?",
     "options": [
       "Con una altura no superior a dos plantas.",
@@ -48266,8 +47652,7 @@ window.addQuestions('aux-admin-zaragoza', 20, [
 /* Reubicadas en la auditoría del banco original del 19-ago-2026: correctas
    y dentro del temario de la oposición, pero pertenecen a otro tema. Llevan
    ya la cita verificada contra el consolidado del BOE. */
-window.addQuestions("aux-admin-zaragoza", 5, [
-  {
+window.addQuestions("aux-admin-zaragoza", 5, [  {
     "q": "¿Cuál de las siguientes no se considera causa de abstención en el procedimiento administrativo?",
     "options": [
       "Haber tenido intervención como perito en el procedimiento.",
@@ -48293,8 +47678,7 @@ window.addQuestions("aux-admin-zaragoza", 5, [
   }
 ]);
 
-window.addQuestions("aux-admin-zaragoza", 8, [
-  {
+window.addQuestions("aux-admin-zaragoza", 8, [  {
     "q": "¿Cuál de los siguientes actos es impugnable?",
     "options": [
       "Un acto firme.",
@@ -48353,6 +47737,98 @@ window.addQuestions("aux-admin-zaragoza", 8, [
     "correct": 0,
     "exp": "Art. 109.2 LPAC: los errores de hecho son rectificables en cualquier momento. Correcta, pero es tema 8; prácticamente idéntica a la pregunta anterior sobre errores materiales. (Procedía del tema 6 del banco original; reubicada aquí en la auditoría del 19-ago-2026.)",
     "fuente": "Art. 109.2 LPAC (Ley 39/2015)"
+  }
+]);
+
+
+/* Reubicadas en la auditoría del banco original del 19-ago-2026: correctas
+   y dentro del temario de la oposición, pero pertenecen a otro tema. Llevan
+   ya la cita verificada contra el consolidado del BOE. */
+window.addQuestions("aux-admin-zaragoza", 1, [  {
+    "q": "¿Qué artículo de la Constitución establece la autonomía de gestión de los intereses del municipio?",
+    "options": [
+      "El art. 136.",
+      "El art. 137.",
+      "El art. 138.",
+      "El art. 139."
+    ],
+    "correct": 1,
+    "exp": "Verificado en el consolidado de la CE: el art. 137 organiza el Estado en municipios, provincias y CCAA y les reconoce autonomía para la gestión de sus respectivos intereses; la opción marcada es correcta, pero la organización territorial en la Constitución es materia del tema 1. (Procedía del tema 14 del banco original; reubicada aquí en la auditoría del 19-ago-2026.)",
+    "fuente": "Art. 137 CE (Constitución de 1978)"
+  },
+  {
+    "q": "Según el art. 138 de la Constitución ¿quién garantiza la realización efectiva del principio de solidaridad consagrado en el art. 2 del mismo texto?",
+    "options": [
+      "Las Cortes Generales.",
+      "El Congreso de los Diputados.",
+      "El Estado.",
+      "La Ley."
+    ],
+    "correct": 2,
+    "exp": "Verificado en el consolidado de la CE: art. 138.1 'El Estado garantiza la realización efectiva del principio de solidaridad consagrado en el artículo 2'. Respuesta marcada correcta, pero la organización territorial en la Constitución es materia del tema 1. (Procedía del tema 14 del banco original; reubicada aquí en la auditoría del 19-ago-2026.)",
+    "fuente": "Art. 138.1 CE (Constitución de 1978)"
+  },
+  {
+    "q": "¿Cuál de los siguientes artículos de la Constitución está dedicado a la regulación del Municipio?",
+    "options": [
+      "138.",
+      "139.",
+      "140.",
+      "141."
+    ],
+    "correct": 2,
+    "exp": "Verificado en el consolidado BOE-A-1978-31229: el art. 140 (Título VIII, Cap. II) es el dedicado al Municipio, y el 141 a la provincia; pero los arts. 137-142 CE son alcance del tema 1, no del 14. (Procedía del tema 14 del banco original; reubicada aquí en la auditoría del 19-ago-2026.)",
+    "fuente": "Art. 140 CE (Constitución de 1978)"
+  },
+  {
+    "q": "¿En qué Título de la Constitución se regula el municipio?",
+    "options": [
+      "En el Título VII.",
+      "En el Título VIII.",
+      "En el Título IX.",
+      "En el Título III."
+    ],
+    "correct": 1,
+    "exp": "Verificado en el consolidado de la CE (BOE-A-1978-31229): el Título VIII 'De la Organización Territorial del Estado', Capítulo Segundo 'De la Administración Local', art. 140, regula el municipio. Correcta, pero es materia del tema 1. (Procedía del tema 14 del banco original; reubicada aquí en la auditoría del 19-ago-2026.)",
+    "fuente": "Art. 140 CE (Título VIII, Capítulo II, Constitución Española)"
+  },
+  {
+    "q": "¿En qué año se modificó el artículo de la Constitución española dedicado a la regulación del ejercicio del derecho de sufragio en las elecciones municipales?",
+    "options": [
+      "1991.",
+      "1992.",
+      "1993.",
+      "1994."
+    ],
+    "correct": 1,
+    "exp": "Consolidado de la CE: el art. 13.2 (sufragio activo y pasivo de extranjeros en elecciones municipales) 'se modifica por el art. único de la Reforma de 27 de agosto de 1992' (BOE-A-1992-20403). Año 1992 correcto; materia del tema 1 (Constitución). (Procedía del tema 14 del banco original; reubicada aquí en la auditoría del 19-ago-2026.)",
+    "fuente": "Art. 13.2 CE (reforma de 27 de agosto de 1992)"
+  },
+  {
+    "q": "¿Qué artículo de la Constitución regula la provincia?",
+    "options": [
+      "El art. 138.",
+      "El art. 139.",
+      "El art. 140.",
+      "El art. 141."
+    ],
+    "correct": 3,
+    "exp": "Verificado en el consolidado de la CE que el art. 141 regula la provincia. Respuesta marcada correcta, pero la organización territorial en la Constitución corresponde al tema 1. (Procedía del tema 14 del banco original; reubicada aquí en la auditoría del 19-ago-2026.)",
+    "fuente": "Art. 141 CE (Constitución de 1978)"
+  }
+]);
+
+window.addQuestions("aux-admin-zaragoza", 13, [  {
+    "q": "¿A qué órgano le corresponde ejercer el examen de todas las cuentas presupuestarias de la Corporación?",
+    "options": [
+      "Al Pleno.",
+      "A la Comisión sectorial correspondiente.",
+      "A la Comisión Especial de Cuentas.",
+      "Al Alcalde."
+    ],
+    "correct": 2,
+    "exp": "Art. 116 LBRL: 'Las cuentas anuales se someterán antes del 1 de junio a informe de la Comisión Especial de Cuentas de la entidad local...'; su existencia en todos los municipios está en el art. 20.1.e. Respuesta correcta, pero la materia (examen y rendición de cuentas) corresponde a Haciendas Locales II. (Procedía del tema 14 del banco original; reubicada aquí en la auditoría del 19-ago-2026.)",
+    "fuente": "Art. 116 LBRL (Ley 7/1985)"
   }
 ]);
 

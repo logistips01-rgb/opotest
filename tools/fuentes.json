@@ -87,25 +87,29 @@
       "aviso": "Verificar el ID BOE exacto del TRLRHL por curl antes de generar (probable BOE-A-2004-4214, pero no asumir de memoria)."
     },
     "14": {
-      "titulo": "El municipio: organización y competencias. Régimen especial de Zaragoza",
+      "titulo": "El municipio: territorio y población. Competencias de los municipios. Servicios mínimos obligatorios. Régimen de organización de los municipios de gran población. La Ley de régimen especial del municipio de Zaragoza como capital de Aragón: disposiciones generales y especialidades en materia de organización",
       "normas": [
         "Ley 7/1985, de 2 de abril (LBRL), BOE-A-1985-5392, Título II 'El Municipio': territorio y población (arts. 11-18), organización municipal (arts. 19-27: Alcalde, Tenientes de Alcalde, Pleno, Junta de Gobierno Local, órganos complementarios), regímenes especiales (arts. 29-30: Concejo Abierto), competencias municipales (arts. 25-28)",
         "Ley 7/1985 (LBRL), art. 45: entidades de ámbito territorial inferior al municipio",
         "Ley 7/1985 (LBRL), Título III 'La Provincia' (arts. 31-41): organización y competencias provinciales",
         "Ley 7/1985 (LBRL), Título X 'Régimen de organización de los municipios de gran población' (arts. 121-138)",
         "Constitución Española, arts. 137 a 142: organización territorial del Estado, autonomía de municipios y provincias",
-        "Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (Ley de Capitalidad) — BOA núm. 231 de 01/12/2017, también en BOE-A-2018-1683 (BOE núm. 35 de 08/02/2018); confirmado por dos agentes de forma independiente en agosto de 2026"
+        "Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (Ley de Capitalidad) — BOA núm. 231 de 01/12/2017, también en BOE-A-2018-1683 (BOE núm. 35 de 08/02/2018); confirmado por dos agentes de forma independiente en agosto de 2026",
+        "AVISO DE ALCANCE (19-ago-2026): esta entrada describía el tema MÁS ANCHO que las bases CONV 4/2026, e incluía la Provincia, los arts. 137-142 CE y el art. 45 LBRL. Eso provocó que se auditaran como fuera de alcance 208 de las 249 preguntas heredadas. Lo que el epígrafe cubre de verdad es: territorio y población (arts. 11-18 LBRL y el RPDT), competencias y servicios mínimos (arts. 25-28 LBRL), el Título X de la LBRL (arts. 121-138, municipios de gran población) y la Ley 10/2017 de capitalidad. QUEDAN FUERA: la Provincia y las Diputaciones, las comarcas, mancomunidades y áreas metropolitanas, las entidades de ámbito inferior al municipio, el régimen de FUNCIONAMIENTO de los órganos (sesiones, convocatorias, quórum, actas: ROF RD 2568/1986) y la materia electoral (LOREG), porque el temario de esta convocatoria no tiene ningún tema de órganos de gobierno ni de funcionamiento. Los arts. 137-142 CE son del tema 1.",
+        "HUECO DE COBERTURA detectado por los cuatro auditores por separado: de las 249 preguntas heredadas, NINGUNA tocaba el Título X de la LBRL ni la Ley 10/2017 de capitalidad, que son la mitad del epígrafe y lo único directamente aplicable al Ayuntamiento de Zaragoza. Ese bloque hay que generarlo de cero."
       ]
     },
     "15": {
-      "titulo": "Participación ciudadana y atención al ciudadano",
+      "titulo": "El Reglamento de Órganos territoriales y Participación ciudadana de Zaragoza. El Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza",
       "normas": [
+        "AVISO DE ALCANCE (19-ago-2026): el epígrafe oficial de las bases CONV 4/2026 son DOS DOCUMENTOS MUNICIPALES y nada más: el Reglamento de Órganos Territoriales y de Participación Ciudadana (ROTPC) y el Manual de Atención a la ciudadanía. Prueba de ello: el examen real de 1-jun-2025 pregunta cinco veces por materia de este tema y las CINCO son del ROTPC (arts. 2 y 51 y su modificación de 2018). Por eso se retiraron 50 preguntas heredadas y 40 generadas sobre el RD 208/1996, que regula los servicios de información de la ADMINISTRACIÓN GENERAL DEL ESTADO y que ni siquiera figuraba en esta lista: lo añadió un redactor por su cuenta. Las demás normas de esta lista (LBRL, LPAC, Ley 19/2013, CE, LOPDGDD) se conservan como marco de la atención a la ciudadanía, pero son de segunda prioridad frente al ROTPC.",
         "Ley 7/1985, de 2 de abril (LBRL): derechos de participación vecinal (art. 18), participación de asociaciones y entidades vecinales (art. 72), consejos sectoriales, iniciativa popular (art. 70 bis), información y participación ciudadanas (arts. 69 y 70)",
         "Ley 39/2015 (LPAC): derecho de acceso a archivos y registros / información pública (art. 13), registro electrónico (art. 16), obligación de resolver (art. 53.1 en relación con derechos del interesado)",
         "Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno (arts. 12 a 24: publicidad activa y derecho de acceso a la información pública)",
         "Constitución Española: art. 20 (libertad de información) y art. 105 (audiencia de los ciudadanos, acceso a archivos y registros)",
         "Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales (BOE-A-2018-16673)",
-        "Reglamento Orgánico de los Distritos y de la Participación Ciudadana del Ayuntamiento de Zaragoza (ROTPC) — no está en boe.es, buscar el texto vigente en zaragoza.es o BOPZ"
+        "Reglamento Orgánico de los Distritos y de la Participación Ciudadana del Ayuntamiento de Zaragoza (ROTPC) — no está en boe.es, buscar el texto vigente en zaragoza.es o BOPZ",
+        "HUECO DE COBERTURA: de los dos documentos oficiales del tema, el Manual de Atención a la ciudadanía tiene UNA sola pregunta en todo el banco. Hay que conseguir el texto del Manual y generar ese bloque."
       ],
       "aviso": "El ROTPC es normativa municipal propia, no estatal: no se puede verificar en boe.es. Confirmar identidad exacta y texto vigente en zaragoza.es/BOPZ antes de generar preguntas sobre él. La norma sobre 'información administrativa y atención al ciudadano' citada en temarios antiguos requiere identificar su identidad exacta antes de usarla como fuente; no asumir sin verificar."
     },

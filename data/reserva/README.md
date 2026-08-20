@@ -168,6 +168,91 @@ Grupos del JSON: `clases_y_efectos_de_la_informacion_administrativa` (15),
 `acceso_a_archivos_y_registros` (4), `libro_de_quejas_y_sugerencias_age` (4) y
 `proteccion_de_datos_normativa_derogada` (1).
 
+## banco-original-auditado-6.json · -10.json · -14.json
+
+Preguntas del banco original de los temas 6, 10 y 14 retiradas el 19-ago-2026,
+tras auditarlas **una a una contra el consolidado del BOE**. El encargo del dueño
+del proyecto fue explícito: que toda pregunta muestre su artículo y que no quede
+nada obsoleto ni fuera de alcance, porque la aplicación la usa una persona real
+para preparar el examen.
+
+De las 349 auditadas se conservan 99 (con su artículo localizado y su respuesta
+comprobada), se reubican 14 en el tema que les corresponde y se archivan 236.
+
+**tema6 (50 auditadas → 19 conservadas, 7 movidas, 24 archivadas)**
+Grupos: `ley_30_1992_derogada` (13), `respuesta_marcada_incorrecta` (4),
+`no_verificable_o_defectuosa` (3), `fuera_del_temario` (2), `otros` (2).
+
+**tema10 (50 → 46 conservadas, 4 archivadas)**
+Grupos: `respuesta_marcada_incorrecta` (3) y `otros` (1). Es el único tema donde
+el material heredado estaba casi todo bien: trataba su materia y se apoyaba en
+normas vigentes.
+
+**tema14 (249 → 34 conservadas, 7 movidas, 208 archivadas)**
+Grupos: `fuera_de_alcance_funcionamiento_y_electoral` (63),
+`fuera_de_alcance_la_provincia` (36), `organo_derogado_comision_de_gobierno` (35),
+`fuera_de_alcance_otras_entidades_locales` (31), `norma_o_regimen_derogado` (23),
+`respuesta_marcada_incorrecta` (8), `otros_fuera_de_alcance` (6),
+`defectuosa_o_ambigua` (4), `historia_del_regimen_local` (2).
+
+### Lo que la auditoría demostró
+
+**Trece preguntas tenían la respuesta marcada simplemente mal.** No eran matices:
+
+- Plazo de caducidad de la revisión de actos nulos y de la declaración de
+  lesividad: marcaban **tres meses**, que es el dato de la Ley 30/1992
+  derogada. Los arts. 106.5 y 107.3 LPAC dicen **seis meses**, y la respuesta
+  correcta no figuraba entre las cuatro opciones.
+- Plazo para celebrar una sesión extraordinaria pedida por los concejales:
+  marcaba **dos meses**; el art. 46.2.a LBRL dice **quince días hábiles**, y
+  tampoco estaba entre las opciones.
+- Número mínimo de concejales para pedirla: marcaba **una décima parte**; el
+  mismo artículo dice **la cuarta parte**.
+- El título de la LBRL dedicado a los bienes: marcaba el **IV**; es el **VI**.
+- Uso común general y especial: **dos preguntas del mismo esquema resueltas de
+  forma contradictoria entre sí**; el art. 75.1 RBEL dice lo contrario de lo que
+  marcaba una de las dos.
+- Publicación de la resolución de una alteración territorial: marcaba solo el
+  **BOE**; el art. 13.2 RPDT exige BOE **y** boletines de la comunidad autónoma
+  **y** de la provincia.
+
+**Y una capa entera de obsolescencia**, además de las 13 anteriores: la
+«Comisión de Gobierno», sustituida por la Junta de Gobierno Local en 2003; el
+art. 45 LBRL, sin contenido desde la Ley 27/2013, y el art. 24 bis, que dejó a
+las entidades inframunicipales sin personalidad jurídica; la lista de servicios
+mínimos del art. 26.1 previa a 2013; el umbral de población del concejo abierto,
+suprimido; y la dispensa de servicios mínimos, que ya no existe.
+
+Se conserva todo porque el contenido puede servir para otra oposición cuyo
+temario sí cubra la Provincia, las otras entidades locales o el funcionamiento
+de los órganos municipales — pero **con dos avisos**: hay que rehacer las citas
+contra normativa vigente, y las agrupadas en
+`respuesta_marcada_incorrecta`, `norma_o_regimen_derogado` y
+`organo_derogado_comision_de_gobierno` **no se pueden reutilizar tal cual**.
+
+## tema15-rd208-1996-informacion-age.json
+
+40 preguntas **generadas** (no heredadas) retiradas del tema 15 el 19-ago-2026,
+sobre el Real Decreto 208/1996, de 9 de febrero, de servicios de información
+administrativa y atención al ciudadano **de la Administración General del
+Estado**.
+
+Están correctamente redactadas y citan su artículo, pero **no entran en el
+tema**: el epígrafe oficial son dos documentos municipales, el Reglamento de
+Órganos Territoriales y de Participación Ciudadana de Zaragoza y el Manual de
+Atención a la ciudadanía. La prueba está en el examen real de 1-jun-2025, que
+pregunta cinco veces por materia de este tema y las cinco veces por el ROTPC.
+
+El RD 208/1996 no figuraba en la lista de normas del tema en
+`tools/fuentes.json`: lo añadió por su cuenta el redactor de esos lotes. Es la
+misma materia por la que se archivaron 50 preguntas heredadas del mismo tema
+(ver `tema15-informacion-age-fuera-alcance.json`), así que archivar estas 40 es
+lo coherente.
+
+A diferencia de esas 50, **estas sí son reutilizables tal cual** en una
+oposición de Administración del Estado: llevan artículo y apartado citados y
+verificados contra el consolidado.
+
 ## prl-fuera-alcance-aux-admin.json
 
 263 preguntas de **Prevención de Riesgos Laborales** que estaban en el tema 20
