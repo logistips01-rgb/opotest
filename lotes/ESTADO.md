@@ -2038,3 +2038,70 @@ público), una al 20 (convenios urbanísticos) y una al 8 (órgano que resuelve 
 reposición). Solo **una se archiva**, la de la ordenanza de administración
 electrónica, porque describe el contenido de las Leyes 39/2015 y 40/2015 y no
 encaja en ningún epígrafe.
+
+
+---
+
+## Tema 7 · auditado (21-ago-2026)
+
+Las 99 del banco original: **37 confirmadas, 62 corregidas, 0 descartadas y 0
+dudosas**. Las 99 caen dentro del Título IV, así que el tema estaba bien
+delimitado. Citas sin artículo: **4 → 0**, las 28 señaladas precisadas todas.
+En todo el banco: **141 → 137**.
+
+### Diez con la respuesta mal
+
+| Lo que enseñaba | Lo que dice el precepto |
+|---|---|
+| «Procedimientos que impliquen la resolución numerosa de una serie de procedimientos» | Art. 66.4: modelos y sistemas de **presentación masiva**, de uso voluntario, para presentar simultáneamente varias solicitudes |
+| No puede agravar su situación inicial «salvo excepciones legalmente previstas» | Art. 88.2: **en ningún caso**, sin perjuicio de incoar de oficio un nuevo procedimiento |
+| El art. 95 se titula «Caducidad» | Se titula **«Requisitos y efectos»**. «Caducidad» es la rúbrica de la Sección 4.ª |
+| «La Administración deberá resolver sobre la procedencia» de la tramitación simplificada | Art. 96.3: **podrá desestimarla en cinco días**, sin recurso; transcurridos, se entiende desestimada |
+| El art. 97 se titula «Título ejecutivo» | Se titula **«Título»** |
+| Los actos «constituyen título para la ejecución forzosa» | Art. 97.1: no se inicia actuación material de ejecución **sin resolución previa** que le sirva de fundamento. La explicación citaba además un «art. 38» inexistente |
+| «Normas reguladoras del procedimiento recaudatorio en vía ejecutiva» | Art. 101.1: normas reguladoras del **procedimiento de apremio** |
+| El art. 105 se titula «Prohibición de interdictos» | Se titula **«Prohibición de acciones posesorias»**. Los interdictos son terminología de la Ley 30/1992 |
+| «Indicios suficientes de la responsabilidad» para iniciar de oficio | Art. 65.1: **que no haya prescrito** el derecho a reclamar del art. 67 |
+| «Satisfacción extraprocesal / desaparición sobrevenida del objeto» | Art. 84.2: **imposibilidad material de continuar** por causas sobrevenidas, con resolución motivada en todo caso |
+
+### Los plazos: todos vigentes, ni uno congelado
+
+Comprobados uno a uno contra el consolidado: subsanación 10 días (68.1) ampliable
+5 (68.2), medidas provisionales previas confirmadas en 15 días (56.2), trámites
+del interesado 10 días (73), prueba 10-30 días más 10 extraordinario (77.2),
+informes 10 días (80.2), dictamen del Consejo de Estado 2 meses y umbral de
+50.000 € (81.2), audiencia 10-15 días (82.2), información pública mínimo 20 días
+(83.2), actuaciones complementarias 7 y 15 días (87), caducidad 3 meses (95.1),
+simplificada 30 días y 5 de alegaciones (96.3 y 96.6).
+
+**El Título IV solo tiene una modificación posterior**: el art. 77.3 bis, añadido
+por la Ley 15/2022. El art. 92 está en su redacción original.
+
+### El residuo de la Ley 30/1992 aquí es vocabulario, no cifras
+
+Seis preguntas arrastraban literales de la ley derogada: «resolución numerosa de
+una serie de procedimientos» (art. 70.4 L30/92), «comprobación de los **datos**»
+donde el art. 78.1 vigente dice «hechos» y añade «a través de medios
+electrónicos», el literal del art. 92.1 L30/92 en una explicación, el art. 97.1
+L30/92, y dos con «interdictos» y «acciones interdictales» del art. 101 L30/92.
+
+### Nueve se inventaban contenido y diez colgaban del artículo equivocado
+
+Entre las inventadas, una explicación se apoyaba expresamente en «la doctrina y
+práctica administrativa» y otra citaba un «art. 96.4» que no existe. Entre las
+mal ancladas: 56.1 en vez de 56.2, 82.4 en vez de 82.3, 102.1 en vez de 102.2,
+78.1 en vez de 78.2, y **cuatro que inventaban apartados numerados en artículos
+que no los tienen** (los arts. 57 y 87 no están divididos en apartados).
+
+Una era tautológica —preguntaba por el objeto del art. 92 y la respuesta correcta
+lo repetía— y se reformuló sobre la regla real.
+
+### Un duplicado que apareció al corregir
+
+Al reformular la del art. 92, quedó **idéntica a una generada** que ya estaba en
+la ampliación, y `addQuestions` la descartó en silencio. Lo detectó el aviso de
+`tools/validar.js`. Reconducida la del banco original al **párrafo segundo** del
+art. 92 (ámbito autonómico y local), que nadie preguntaba: así sobreviven las
+dos y cubren el artículo entero. **Lección**: después de aplicar una auditoría
+con reescrituras de enunciado, mirar el aviso de duplicados de `validar.js`, que
+es lo único que avisa de esto.
