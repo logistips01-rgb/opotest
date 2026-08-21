@@ -8926,13 +8926,13 @@ const QUESTIONS = {
   {
     "q": "Según el art. 116, ¿cuál de las siguientes es una causa de inadmisión de un recurso administrativo?",
     "options": [
-      "Ser incompetente el órgano administrativo, cuando el recurrente hubiere incurrido en incompetencia manifiesta",
+      "Ser incompetente el órgano administrativo, cuando el competente perteneciera a otra Administración Pública",
       "Haber solicitado la suspensión del acto",
       "Haber presentado el recurso dentro de plazo",
       "Haber utilizado medios electrónicos para su presentación"
     ],
     "correct": 0,
-    "exp": "Art. 116 recoge, entre las causas de inadmisión, ser incompetente el órgano administrativo que recibe el recurso, cuando el recurrente hubiere incurrido en incompetencia manifiesta.",
+    "exp": "Art. 116.a) LPAC: «Ser incompetente el órgano administrativo, cuando el competente perteneciera a otra Administración Pública». El recurso no se rechaza sin más: el propio precepto ordena remitirlo al órgano competente conforme al art. 14.1 de la Ley 40/2015. Ojo, la incompetencia que inadmite es la del ÓRGANO que recibe el recurso, no ninguna «incompetencia manifiesta del recurrente», que no existe en la ley.",
     "fuente": "Art. 116 LPAC (Ley 39/2015)"
   },
   {
@@ -9596,15 +9596,15 @@ const QUESTIONS = {
     "fuente": "Art. 117.3 LPAC (Ley 39/2015)"
   },
   {
-    "q": "Según el art. 116, ¿cuál de las siguientes es una causa de inadmisión de un recurso administrativo?",
+    "q": "El art. 116 de la Ley 39/2015 enumera cinco causas de inadmisión del recurso administrativo. ¿Cuál de las siguientes es una de ellas?",
     "options": [
-      "Haber sido ya resuelto de forma definitiva el asunto planteado",
+      "Carecer el recurso manifiestamente de fundamento",
       "Presentar el recurso en un registro electrónico",
       "Solicitar copia del expediente",
       "Haber utilizado un modelo normalizado de solicitud"
     ],
     "correct": 0,
-    "exp": "Art. 116 recoge, entre otras causas de inadmisión, haber sido ya resuelto de forma definitiva el asunto planteado por el recurso.",
+    "exp": "Art. 116.e) LPAC: «Carecer el recurso manifiestamente de fundamento». Las cinco causas del art. 116 son taxativas: incompetencia del órgano cuando el competente pertenece a otra Administración (a), falta de legitimación del recurrente (b), acto no susceptible de recurso (c), plazo transcurrido (d) y falta manifiesta de fundamento (e). No figura entre ellas que el asunto estuviera ya resuelto de forma definitiva.",
     "fuente": "Art. 116 LPAC (Ley 39/2015)"
   },
   {

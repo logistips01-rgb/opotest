@@ -329,3 +329,40 @@ de Oficial Fontanero (temas 19-20) y Oficial Polivalente Instalaciones
 Deportivas (tema 20). Si algún día se añade alguna de esas categorías al
 catálogo, estas 263 preguntas valen casi tal cual — comprobando primero el
 alcance exacto de cada tema, que es más estrecho que el que tenía Auxiliar.
+
+---
+
+## `tema13-financiacion-capitalidad-fuera-alcance.json`
+
+7 preguntas de los **arts. 56 a 59 de la Ley 10/2017** (régimen especial del
+municipio de Zaragoza como capital de Aragón), retiradas el 21-ago-2026 de un
+lote generado para el tema 13.
+
+Los cuatro artículos están en el **Capítulo VII, «Especialidades del régimen de
+financiación»**: asignaciones derivadas de la participación en los tributos de
+la Comunidad Autónoma, Convenio bilateral económico-financiero con el Gobierno
+de Aragón, competencias delegadas y su financiación, y procedimiento de pago y
+compensación de deudas.
+
+Ese capítulo **no entra por ninguna de las tres puertas** por las que el temario
+de Auxiliar Administrativo llama a la ley de capitalidad:
+
+| Tema | Lo que las bases CONV 4/2026 piden de la Ley 10/2017 | Artículos |
+|------|------------------------------------------------------|-----------|
+| 13 | «La aprobación del presupuesto municipal» | art. 50 (y los 48-49 a los que remite) |
+| 14 | «disposiciones generales y especialidades en materia de organización» | Capítulos I y II, arts. 1-18 |
+| 16 | «la aprobación de ordenanzas, ordenanzas fiscales y Reglamentos» | arts. 48 y 49 |
+
+El redactor del lote las incluyó dando el art. 57 por concordancia del art. 50,
+y el revisor discrepó con razón: el art. 57 regula el presupuesto **de la
+Comunidad Autónoma**, no la aprobación del presupuesto municipal.
+
+**Las 7 son correctas**: el revisor las verificó una a una contra el consolidado
+`BOE-A-2018-1683` y todas citan bien su artículo y apartado. Se archivan por
+alcance, no por error, y sirven tal cual si algún día el temario incorpora la
+financiación de la capitalidad. Cada una lleva su `motivoArchivo`.
+
+Del mismo lote, otras 3 preguntas (arts. 11.1.g, 14.1.h y 14.2) **no se
+archivaron**: están en el Capítulo II, «Especialidades en materia de
+organización», que es literalmente lo que pide el tema 14, y se reasignaron a
+ese tema en lugar de retirarse.

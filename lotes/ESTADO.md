@@ -1518,3 +1518,103 @@ Del 19 hacia atrás. Estado y déficit hasta 500:
 Con lotes de 40 preguntas y un revisor por lote, esto es del orden de 190 lotes
 y unos 400 agentes. Es una campaña larga: conviene hacerla tema a tema, con
 parada y revisión humana entre temas.
+
+---
+
+## Refuerzo de Haciendas Locales · cerrado el 21-ago-2026
+
+Tercer punto del diagnóstico: el TRLRHL pesaba el **21 % del examen real** de
+1-jun-2025 y solo el **11 % del banco**. Cinco lotes, **138 preguntas nuevas**,
+todas con veredicto CONFIRMADA de un revisor independiente.
+
+| Lote | Tema | Nº | Alcance |
+|------|------|----|---------|
+| `t12-F` | 12 | 40 | TRLRHL arts. 49-59 (operaciones de crédito) y 127-130 (prestación personal y de transporte) |
+| `t12-G` | 12 | 40 | TRLRHL arts. 111-126 (cesión y participación en tributos del Estado) + los doce artículos sueltos que el banco no tocaba |
+| `t13-F` | 13 | 15 | Ley 10/2017 (capitalidad), art. 50: aprobación del presupuesto municipal |
+| `t13-G` | 13 | 40 | RD 500/1990, 25 artículos, de la formación del presupuesto a la liquidación |
+| `t14-H` | 14 | 3 | Ley 10/2017, arts. 11 y 14: atribuciones del Pleno y del Gobierno de Zaragoza |
+
+Recuento por tema: tema 12 **255 → 335**, tema 13 **340 → 395**, tema 14
+**282 → 285**. Banco: **5.558 → 5.696**, las 5.696 con cita de artículo.
+Reparto de la respuesta correcta tras la fusión: 25,1 % A / 25,1 % B / 25,3 % C
+/ 24,5 % D. Sin duplicados nuevos (el único grupo que sigue saltando es el
+trío deliberado del tema 10, aprobación/rectificación/comprobación del
+inventario).
+
+### Lo que encontraron los revisores
+
+**Nada mal en los temas 12 y 13 de contenido**: 138 de 138 confirmadas, una sola
+corrección de redacción. Pero sí tres cosas que merecía la pena aprender:
+
+1. **Cifras que parecen erratas y no lo son.** El 2,0454 % del art. 125.3
+   (municipios turísticos) y el coeficiente 0,020454 del art. 117.2 no fueron
+   actualizados por la Ley 2/2012, que sí elevó los porcentajes de los arts.
+   112, 115, 116 y 117.1. Y el 110 % del art. 53.2 es el vigente: la subida al
+   125 % de la DA 46 de la Ley 26/2009 valía **solo para 2010**.
+
+2. **El 15 de octubre y los quince días de exposición NO son una especialidad
+   de la ley de capitalidad**: coinciden literalmente con los arts. 168.4 y
+   169.1 TRLRHL. Lo que de verdad cambia el art. 50 está anotado en
+   `tools/fuentes.json`, tema 13. Ojo con una trampa fina: el «acuerdo de
+   aprobación, que será único» del art. 168.5 TRLRHL significa que no cabe
+   aprobar por separado los presupuestos integrantes del general, y no tiene
+   nada que ver con la «aprobación en acto único» del art. 48.3.d) de la ley de
+   capitalidad, que es procedimental.
+
+3. **10 de las 25 preguntas del lote t13-F estaban fuera del epígrafe.** La
+   cláusula de capitalidad del tema 13 es UNA FRASE: «La aprobación del
+   presupuesto municipal en la ley de capitalidad de Zaragoza». Siete
+   (arts. 56-59, financiación) se archivaron en
+   `data/reserva/tema13-financiacion-capitalidad-fuera-alcance.json`; tres
+   (arts. 11 y 14, organización) se reasignaron al tema 14, que es donde las
+   bases las sitúan.
+
+### Dos preguntas del banco original con la respuesta mal
+
+El aviso de duplicado de `tools/validar.js` destapó dos preguntas legacy del
+**tema 8** que compartían enunciado sobre el art. 116 LPAC, y al abrirlas
+ninguna de las dos respuestas marcadas figuraba entre las cinco causas de
+inadmisión del precepto:
+
+- «Ser incompetente el órgano administrativo, cuando el **recurrente** hubiere
+  incurrido en incompetencia manifiesta» → el literal del art. 116.a) es
+  «cuando el **competente perteneciera a otra Administración Pública**». La
+  incompetencia que inadmite es la del órgano, no del recurrente, y el recurso
+  no se rechaza: se remite al competente (art. 14.1 Ley 40/2015).
+- «Haber sido ya resuelto de forma definitiva el asunto planteado» → no es
+  causa de inadmisión. Sustituida por la del art. 116.e), «carecer el recurso
+  manifiestamente de fundamento».
+
+Las dos quedan arregladas con la cita del apartado y la enumeración completa en
+la explicación. **Esto abre trabajo**: el filtro que se pasó al tema 1 y a los
+legacy de los temas 6, 10, 14 y 15 no ha llegado todavía a los ~1.300 del banco
+original que siguen en los temas 2, 3, 4, 5, 7, 8, 9, 11, 12, 13, 16 y 17.
+
+### Notas de método para el futuro
+
+- El **RD 500/1990 no ha sido modificado nunca**: última actualización
+  27/04/1990, y su selector de redacciones solo ofrece el texto inicial. Las
+  siete notas del consolidado son referencias a la corrección de errores del
+  BOE de 7-jun-1990 (arts. 22.2, 43.1.d, rúbrica de la Sección 1.ª del Cap.
+  III, 60.1, 80.b, 106.2 y 111.1). Desarrolla la derogada Ley 39/1988, así que
+  sus remisiones internas hay que leerlas contra el TRLRHL; el único desajuste
+  real es que su art. 80 lista cuatro supuestos de gasto plurianual y el art.
+  174.2 TRLRHL añade una letra e).
+- El identificador BOE de la **Ley 10/2017 de capitalidad es
+  `BOE-A-2018-1683`**, no `BOE-A-2017-15352` (ese es una resolución sobre la
+  red CIRCE). Yo di el malo en un encargo y el revisor lo cazó. Regla que ya se
+  repite: **cuando `act.php` contesta 302 hacia `doc.php`, el identificador no
+  tiene consolidado y casi siempre está equivocado.** Anotado en
+  `_identificadores_boe._errores_corregidos`.
+- Al localizar un artículo en un consolidado, buscar la **última** aparición de
+  su encabezado: la primera suele ser el índice.
+
+### Pendiente anotado, no resuelto
+
+En el lote `t13-G` hay **seis preguntas** (índices 11, 14, 17, 21, 30 y 34)
+donde la opción correcta es netamente la más larga de las cuatro, porque es la
+cita literal del precepto. Es una pista de longitud, defecto de forma frecuente
+también en exámenes reales. No se ha tocado: reescribir distractores ya
+verificados para igualar longitudes arriesga convertir uno en verdadero, y eso
+sí sería un fallo de contenido.

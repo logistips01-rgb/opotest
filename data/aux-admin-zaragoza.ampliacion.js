@@ -48515,3 +48515,1817 @@ window.addQuestions('aux-admin-zaragoza', 15, [  {
     "confianza": "alta"
   },
 ]);
+
+/* tema 12 · lote 2026-08-21 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 12, [
+  {
+    "q": "Según el art. 49.1 TRLRHL, para la financiación de sus inversiones, así como para la sustitución total o parcial de operaciones preexistentes, las entidades locales, sus organismos autónomos y los entes y sociedades mercantiles dependientes que no se financien mayoritariamente con ingresos de mercado podrán acudir al crédito público y privado:",
+    "options": [
+      "A corto plazo, en cualquiera de sus formas",
+      "A largo plazo, en cualquiera de sus formas",
+      "A corto o a largo plazo, pero exclusivamente mediante emisión pública de deuda",
+      "A largo plazo, y únicamente con entidades financieras residentes en España"
+    ],
+    "correct": 1,
+    "exp": "El art. 49.1 TRLRHL permite acudir al crédito público y privado «a largo plazo, en cualquiera de sus formas» para financiar inversiones y para sustituir total o parcialmente operaciones preexistentes. El crédito a corto plazo tiene su regulación propia y distinta en el art. 51 (necesidades transitorias de tesorería).",
+    "fuente": "Art. 49.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 49.2 TRLRHL, ¿cuál de las siguientes NO es una de las formas en que puede instrumentarse el crédito de las entidades locales?",
+    "options": [
+      "Emisión pública de deuda",
+      "Contratación de préstamos o créditos",
+      "Cesión a entidades financieras de la titularidad de los tributos propios de la entidad",
+      "Conversión y sustitución total o parcial de operaciones preexistentes"
+    ],
+    "correct": 2,
+    "exp": "El art. 49.2 TRLRHL enumera cuatro formas de instrumentar el crédito: a) emisión pública de deuda; b) contratación de préstamos o créditos; c) cualquier otra apelación al crédito público o privado; d) conversión y sustitución total o parcial de operaciones preexistentes. La cesión de la titularidad de tributos propios no figura en el precepto.",
+    "fuente": "Art. 49.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 49.5 TRLRHL, la constitución de garantía real sobre bienes patrimoniales se prevé como forma de garantizar el pago de las obligaciones derivadas de:",
+    "options": [
+      "Las operaciones de crédito a largo plazo",
+      "Las operaciones de crédito a corto plazo",
+      "Cualquier operación de crédito, indistintamente a corto o a largo plazo",
+      "Únicamente los anticipos a cuenta de impuestos liquidados por padrón o matrícula"
+    ],
+    "correct": 0,
+    "exp": "El art. 49.5 TRLRHL distingue las garantías según el plazo: en el apartado A) (operaciones a corto plazo) se admiten la afectación de los recursos tributarios objeto del anticipo, los avales de la corporación en operaciones de sus organismos autónomos y sociedades dependientes, y la afectación de ingresos de contribuciones especiales, tasas y precios públicos. La constitución de garantía real sobre bienes patrimoniales aparece solo en el apartado B).a), relativo a las operaciones de crédito a largo plazo.",
+    "fuente": "Art. 49.5.B).a) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 49.7 TRLRHL, las corporaciones locales podrán conceder avales a sociedades mercantiles participadas por personas o entidades privadas en las que tengan una cuota de participación en el capital social no inferior al:",
+    "options": [
+      "15 por ciento",
+      "25 por ciento",
+      "30 por ciento",
+      "51 por ciento"
+    ],
+    "correct": 2,
+    "exp": "El art. 49.7 TRLRHL fija la cuota mínima de participación en el capital social en el 30 por ciento, y añade que el aval no podrá garantizar un porcentaje del crédito superior al de la participación de la corporación en la sociedad.",
+    "fuente": "Art. 49.7 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 49.8 TRLRHL, los avales que las corporaciones locales concedan conforme a los apartados 6 y 7 de ese artículo están sometidos a fiscalización previa, y el importe del préstamo garantizado no podrá ser superior:",
+    "options": [
+      "Al 50 por ciento del coste total de la obra o del servicio",
+      "Al 110 por ciento de los ingresos corrientes liquidados en el ejercicio anterior",
+      "Al 10 por ciento de los recursos de carácter ordinario previstos en el presupuesto",
+      "Al que hubiere supuesto la financiación directa mediante crédito de la obra o del servicio por la propia entidad"
+    ],
+    "correct": 3,
+    "exp": "El art. 49.8 TRLRHL somete estas operaciones a fiscalización previa y establece que «el importe del préstamo garantizado no podrá ser superior al que hubiere supuesto la financiación directa mediante crédito de la obra o del servicio por la propia entidad».",
+    "fuente": "Art. 49.8 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 50 TRLRHL, la concertación de cualquiera de las modalidades de crédito previstas en la ley requiere que la corporación disponga del presupuesto aprobado para el ejercicio en curso, salvo la modalidad regulada en el:",
+    "options": [
+      "Artículo 149",
+      "Artículo 177",
+      "Artículo 193",
+      "Artículo 199"
+    ],
+    "correct": 0,
+    "exp": "El art. 50 TRLRHL exceptúa expresamente «la regulada en el artículo 149», que es la de las operaciones especiales de tesorería que pueden concertar las diputaciones provinciales para anticipar a los ayuntamientos hasta el 75 por ciento de las presumibles recaudaciones del IBI y del IAE (art. 149.2). Los arts. 177 y 193 se citan en otros preceptos de crédito (arts. 49.4 y 50.b)), pero no son la excepción del art. 50.",
+    "fuente": "Art. 50 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 50 TRLRHL, cuando se produzca la situación de prórroga del presupuesto podrán concertarse excepcionalmente:",
+    "options": [
+      "Cualquier operación de crédito, previa autorización del Ministerio de Hacienda",
+      "Únicamente emisiones públicas de deuda a plazo no superior a un año",
+      "Únicamente operaciones de crédito a largo plazo destinadas a sustituir operaciones preexistentes",
+      "Operaciones de tesorería dentro de los límites fijados por la ley, siempre que las concertadas sean reembolsadas y se justifique, y operaciones de crédito a largo plazo para financiar inversiones vinculadas directamente a modificaciones de crédito del art. 177"
+    ],
+    "correct": 3,
+    "exp": "El párrafo segundo del art. 50 TRLRHL admite en situación de prórroga presupuestaria dos modalidades: a) operaciones de tesorería, dentro de los límites fijados por la ley, siempre que las concertadas sean reembolsadas y se justifique ese extremo; y b) operaciones de crédito a largo plazo para financiar inversiones vinculadas directamente a modificaciones de crédito tramitadas conforme a los apartados 1, 2, 3 y 6 del art. 177.",
+    "fuente": "Art. 50, párrafo segundo, letras a) y b) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 51 TRLRHL, las operaciones de crédito a corto plazo que las entidades locales pueden concertar para atender necesidades transitorias de tesorería no pueden exceder de:",
+    "options": [
+      "Seis meses",
+      "Un año",
+      "Dieciocho meses",
+      "Dos años"
+    ],
+    "correct": 1,
+    "exp": "El art. 51 TRLRHL permite concertar operaciones de crédito a corto plazo «que no exceda de un año» para atender necesidades transitorias de tesorería. Coherentemente, su letra c) considera operación a corto plazo las emisiones de deuda por plazo no superior a un año.",
+    "fuente": "Art. 51 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 51 TRLRHL, las operaciones de crédito a corto plazo no podrán superar, en su conjunto, el siguiente porcentaje de los ingresos liquidados por operaciones corrientes en el ejercicio anterior:",
+    "options": [
+      "10 por ciento",
+      "15 por ciento",
+      "30 por ciento",
+      "35 por ciento"
+    ],
+    "correct": 2,
+    "exp": "El art. 51 TRLRHL fija el límite conjunto en el 30 por ciento de los ingresos liquidados por operaciones corrientes en el ejercicio anterior, salvo que la operación haya de realizarse en el primer semestre del año sin que se haya producido la liquidación de tal ejercicio, en cuyo caso se toma la liquidación del ejercicio anterior a este último. El 15 por ciento del art. 52.2 es cosa distinta: delimita la competencia del presidente, no el límite máximo de endeudamiento a corto plazo.",
+    "fuente": "Art. 51 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 51 TRLRHL, ¿cuál de las siguientes NO se enumera como operación de crédito a corto plazo?",
+    "options": [
+      "Los anticipos que se perciban de entidades financieras a cuenta de los productos recaudatorios de los impuestos devengados en cada ejercicio y liquidados a través de un padrón o matrícula",
+      "Los préstamos y créditos concedidos por entidades financieras para cubrir desfases transitorios de tesorería",
+      "Las emisiones de deuda por plazo no superior a un año",
+      "La conversión y sustitución total o parcial de operaciones de crédito preexistentes"
+    ],
+    "correct": 3,
+    "exp": "El art. 51 TRLRHL enumera, entre otras, las tres primeras (letras a, b y c). La conversión y sustitución total o parcial de operaciones preexistentes es una de las formas de instrumentar el crédito a largo plazo del art. 49.2.d), no un supuesto de operación a corto plazo.",
+    "fuente": "Art. 51.a), b) y c) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 52.2 TRLRHL, la concertación o modificación de cualesquiera operaciones de crédito deberá acordarse previo informe de:",
+    "options": [
+      "La Secretaría General de la corporación",
+      "La Tesorería de la corporación",
+      "La Intervención",
+      "El órgano competente del Ministerio de Hacienda"
+    ],
+    "correct": 2,
+    "exp": "El art. 52.2, párrafo primero, TRLRHL exige informe previo de la Intervención, en el que se analizará especialmente la capacidad de la entidad local para hacer frente en el tiempo a las obligaciones que se deriven de la operación.",
+    "fuente": "Art. 52.2, párrafo primero, TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 52.2 TRLRHL, los presidentes de las corporaciones locales podrán concertar las operaciones de crédito a largo plazo previstas en el presupuesto cuyo importe acumulado, dentro de cada ejercicio económico, no supere el siguiente porcentaje de los recursos de carácter ordinario previstos en dicho presupuesto:",
+    "options": [
+      "5 por ciento",
+      "10 por ciento",
+      "15 por ciento",
+      "30 por ciento"
+    ],
+    "correct": 1,
+    "exp": "El art. 52.2, párrafo segundo, TRLRHL atribuye al presidente las operaciones a largo plazo previstas en el presupuesto cuyo importe acumulado en el ejercicio no supere el 10 por ciento de los recursos de carácter ordinario previstos en dicho presupuesto.",
+    "fuente": "Art. 52.2, párrafo segundo, TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 52.2 TRLRHL, la concertación de operaciones de crédito a corto plazo corresponderá al presidente de la corporación cuando el importe acumulado de las operaciones vivas de esta naturaleza, incluida la nueva operación, no supere el siguiente porcentaje de los recursos corrientes liquidados en el ejercicio anterior:",
+    "options": [
+      "5 por ciento",
+      "10 por ciento",
+      "30 por ciento",
+      "15 por ciento"
+    ],
+    "correct": 3,
+    "exp": "El art. 52.2, párrafo segundo, TRLRHL sitúa el límite competencial del presidente en las operaciones a corto plazo en el 15 por ciento de los recursos corrientes liquidados en el ejercicio anterior, computando las operaciones vivas más la nueva. No debe confundirse con el 10 por ciento (largo plazo, recursos ordinarios previstos en el presupuesto) ni con el 30 por ciento del art. 51 (límite máximo del endeudamiento a corto plazo).",
+    "fuente": "Art. 52.2, párrafo segundo, TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 52.2 TRLRHL, una vez superados los límites que delimitan la competencia del presidente para concertar operaciones de crédito, la aprobación corresponderá:",
+    "options": [
+      "Al Pleno de la corporación local",
+      "A la Junta de Gobierno Local",
+      "A la comisión informativa de Hacienda",
+      "Al órgano competente de la comunidad autónoma"
+    ],
+    "correct": 0,
+    "exp": "El art. 52.2, párrafo tercero, TRLRHL dispone que «una vez superados dichos límites, la aprobación corresponderá al Pleno de la corporación local».",
+    "fuente": "Art. 52.2, párrafo tercero, TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 53.1 TRLRHL, las entidades locales no podrán concertar nuevas operaciones de crédito a largo plazo ni conceder avales sin previa autorización de los órganos competentes del Ministerio de Hacienda o, en su caso, de la comunidad autónoma con competencia en la materia, cuando de los estados financieros del último ejercicio se deduzca:",
+    "options": [
+      "Un remanente líquido de tesorería negativo",
+      "Un resultado presupuestario negativo",
+      "Un ahorro neto negativo",
+      "Un capital vivo superior al 75 por ciento de los ingresos corrientes"
+    ],
+    "correct": 2,
+    "exp": "El art. 53.1 TRLRHL condiciona la autorización previa al hecho de que de los estados financieros que reflejen la liquidación de los presupuestos, los resultados corrientes y los resultados de la actividad ordinaria del último ejercicio se deduzca un ahorro neto negativo.",
+    "fuente": "Art. 53.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 53.1 TRLRHL, el ahorro neto de las entidades locales y de sus organismos autónomos de carácter administrativo es la diferencia entre:",
+    "options": [
+      "Los derechos liquidados por los capítulos uno a cinco del estado de ingresos y las obligaciones reconocidas por los capítulos uno, dos y cuatro del estado de gastos, minorada en el importe de una anualidad teórica de amortización",
+      "Los derechos liquidados por los capítulos uno a tres del estado de ingresos y las obligaciones reconocidas por los capítulos uno a cuatro del estado de gastos",
+      "Los derechos liquidados por los capítulos uno a seis del estado de ingresos y las obligaciones reconocidas por los capítulos uno a seis del estado de gastos",
+      "Los ingresos totales liquidados y los gastos totales reconocidos en el ejercicio, incluidas las operaciones de capital"
+    ],
+    "correct": 0,
+    "exp": "El art. 53.1, párrafo segundo, TRLRHL define el ahorro neto como la diferencia entre los derechos liquidados por los capítulos uno a cinco, ambos inclusive, del estado de ingresos y las obligaciones reconocidas por los capítulos uno, dos y cuatro del estado de gastos, minorada en el importe de una anualidad teórica de amortización de la operación proyectada y de cada uno de los préstamos y empréstitos propios y avalados a terceros pendientes de reembolso.",
+    "fuente": "Art. 53.1, párrafo segundo, TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 53.1 TRLRHL, cuando el ahorro neto sea de signo negativo, el Pleno de la respectiva corporación deberá aprobar un plan de saneamiento financiero a realizar en un plazo no superior a:",
+    "options": [
+      "Dos años",
+      "Tres años",
+      "Cuatro años",
+      "Cinco años"
+    ],
+    "correct": 1,
+    "exp": "El art. 53.1 TRLRHL exige que el Pleno apruebe un plan de saneamiento financiero a realizar en un plazo no superior a tres años, con medidas de gestión, tributarias, financieras y presupuestarias que permitan como mínimo ajustar a cero el ahorro neto negativo; el plan debe presentarse junto con la solicitud de autorización.",
+    "fuente": "Art. 53.1, párrafos octavo y noveno, TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 53.2 TRLRHL, precisarán autorización las operaciones de crédito a largo plazo de cualquier naturaleza, incluido el riesgo deducido de los avales, cuando el volumen total del capital vivo de las operaciones de crédito vigentes a corto y largo plazo, incluyendo la operación proyectada, exceda del siguiente porcentaje de los ingresos corrientes liquidados o devengados en el ejercicio inmediatamente anterior:",
+    "options": [
+      "75 por ciento",
+      "100 por ciento",
+      "110 por ciento",
+      "125 por ciento"
+    ],
+    "correct": 2,
+    "exp": "El art. 53.2 TRLRHL fija el umbral en el 110 por ciento de los ingresos corrientes liquidados o devengados en el ejercicio inmediatamente anterior (o, en su defecto, en el precedente cuando el cómputo se haga en el primer semestre y no se haya liquidado el presupuesto). El consolidado incorpora una nota según la cual la disposición adicional 46 de la Ley 26/2009 elevó ese porcentaje del 110 al 125 por ciento exclusivamente para el año 2010; el porcentaje vigente en el texto es el 110 por ciento.",
+    "fuente": "Art. 53.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 53.4 TRLRHL, pueden optar por sustituir las autorizaciones previstas en los apartados 1 y 2 de dicho artículo por la presentación de un escenario de consolidación presupuestaria las entidades locales de más de:",
+    "options": [
+      "50.000 habitantes",
+      "75.000 habitantes",
+      "100.000 habitantes",
+      "200.000 habitantes"
+    ],
+    "correct": 3,
+    "exp": "El art. 53.4 TRLRHL reserva esa opción a las entidades locales de más de 200.000 habitantes. El escenario de consolidación presupuestaria contendrá el compromiso, aprobado por el Pleno, del límite máximo del déficit no financiero y del importe máximo de endeudamiento para cada uno de los tres ejercicios siguientes.",
+    "fuente": "Art. 53.4 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 53.5 TRLRHL, precisarán en todo caso autorización del Ministerio de Hacienda las operaciones de crédito a corto y largo plazo, la concesión de avales y las demás operaciones que modifiquen las condiciones contractuales o añadan garantías adicionales cuando:",
+    "options": [
+      "Se formalicen en el exterior o con entidades financieras no residentes en España, o se instrumenten mediante emisiones de deuda o cualquier otra forma de apelación al crédito público",
+      "Su importe supere el 10 por ciento de los recursos de carácter ordinario previstos en el presupuesto",
+      "Sean concertadas por organismos autónomos de carácter comercial, industrial o financiero",
+      "El plazo de amortización de la operación exceda de diez años"
+    ],
+    "correct": 0,
+    "exp": "El art. 53.5 TRLRHL reserva al Ministerio de Hacienda, en todo caso, la autorización de las operaciones de las letras a) —formalizadas en el exterior o con entidades financieras no residentes en España, cualquiera que sea la divisa— y b) —instrumentadas mediante emisiones de deuda o cualquier otra forma de apelación al crédito público—. El propio apartado precisa que no se consideran financiación exterior las operaciones en euros realizadas en el espacio territorial de la Unión Europea con entidades financieras residentes en alguno de esos países, si bien deben comunicarse previamente al Ministerio.",
+    "fuente": "Art. 53.5.a) y b) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 54 TRLRHL, para la concertación de operaciones de crédito a largo plazo, los organismos autónomos y los entes y sociedades mercantiles dependientes precisarán:",
+    "options": [
+      "Únicamente la autorización del presidente de la corporación",
+      "La previa autorización del Pleno de la corporación e informe de la Intervención",
+      "La autorización del Ministerio de Hacienda en todo caso",
+      "El informe favorable del Banco de España y la autorización de la comunidad autónoma"
+    ],
+    "correct": 1,
+    "exp": "El art. 54 TRLRHL exige, para las operaciones de crédito a largo plazo de organismos autónomos y de los entes y sociedades mercantiles dependientes, la previa autorización del Pleno de la corporación y el informe de la Intervención.",
+    "fuente": "Art. 54 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 55 TRLRHL, ¿qué órgano mantendrá una central de riesgos que provea información sobre las distintas operaciones de crédito concertadas por las entidades locales y las cargas financieras que supongan?",
+    "options": [
+      "El Banco de España, a través de su Servicio Central de Información de Riesgos",
+      "El Ministerio de Hacienda",
+      "El Tribunal de Cuentas",
+      "El Consejo de Política Fiscal y Financiera"
+    ],
+    "correct": 1,
+    "exp": "El art. 55.1 TRLRHL atribuye al Ministerio de Hacienda el mantenimiento de la central de riesgos. El Banco de España, conforme al art. 55.2, colabora con los órganos competentes del Ministerio suministrando la información que reciba a través de su Servicio Central de Información de Riesgos, pero no es quien mantiene la central del art. 55.1.",
+    "fuente": "Art. 55.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 56 TRLRHL, la hacienda de los municipios estará constituida por:",
+    "options": [
+      "Los recursos enumerados en el artículo 2 de la ley, en los términos y con las especialidades que se recogen en el título II",
+      "Exclusivamente los tributos propios y la participación en los tributos del Estado",
+      "Los recursos enumerados en el artículo 59 de la ley",
+      "Los recursos que determine cada municipio en sus ordenanzas fiscales"
+    ],
+    "correct": 0,
+    "exp": "El art. 56 TRLRHL, que abre el título II («Recursos de los municipios»), se remite a la enumeración general del art. 2 de la ley, «en los términos y con las especialidades que se recogen en este título».",
+    "fuente": "Art. 56 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 57 TRLRHL, los ayuntamientos podrán establecer y exigir tasas por la prestación de servicios o la realización de actividades de su competencia y, además, por:",
+    "options": [
+      "La realización de obras o el establecimiento o ampliación de servicios municipales",
+      "La utilización privativa o el aprovechamiento especial de los bienes del dominio público municipal",
+      "La prestación de servicios de solicitud voluntaria concurrentes con el sector privado",
+      "El otorgamiento de subvenciones y auxilios con cargo a fondos municipales"
+    ],
+    "correct": 1,
+    "exp": "El art. 57 TRLRHL contempla los dos presupuestos de hecho de la tasa municipal: la prestación de servicios o realización de actividades de competencia municipal y la utilización privativa o el aprovechamiento especial de los bienes del dominio público municipal, con remisión a la sección 3.ª del capítulo III del título I. La realización de obras o el establecimiento o ampliación de servicios es el presupuesto de las contribuciones especiales (art. 58).",
+    "fuente": "Art. 57 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 58 TRLRHL, los ayuntamientos podrán establecer y exigir contribuciones especiales por:",
+    "options": [
+      "La utilización privativa o el aprovechamiento especial del dominio público municipal",
+      "La prestación de servicios de recepción voluntaria de competencia municipal",
+      "La realización de obras o por el establecimiento o ampliación de servicios municipales",
+      "La realización de actividades administrativas de competencia municipal de solicitud obligatoria"
+    ],
+    "correct": 2,
+    "exp": "El art. 58 TRLRHL permite establecer y exigir contribuciones especiales «por la realización de obras o por el establecimiento o ampliación de servicios municipales», según las normas de la sección 4.ª del capítulo III del título I de la ley.",
+    "fuente": "Art. 58 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 59.1 TRLRHL, los ayuntamientos exigirán, de acuerdo con la ley y las disposiciones que la desarrollan, los siguientes impuestos:",
+    "options": [
+      "Impuesto sobre Bienes Inmuebles, Impuesto sobre Actividades Económicas e Impuesto sobre Construcciones, Instalaciones y Obras",
+      "Impuesto sobre Bienes Inmuebles, Impuesto sobre Vehículos de Tracción Mecánica e Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana",
+      "Impuesto sobre Bienes Inmuebles, Impuesto sobre Actividades Económicas, Impuesto sobre Vehículos de Tracción Mecánica, Impuesto sobre Construcciones, Instalaciones y Obras e Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana",
+      "Impuesto sobre Bienes Inmuebles, Impuesto sobre Actividades Económicas e Impuesto sobre Vehículos de Tracción Mecánica"
+    ],
+    "correct": 3,
+    "exp": "El art. 59.1 TRLRHL enumera los tres impuestos de exigencia obligatoria: IBI, IAE e IVTM. El ICIO y el IIVTNU son potestativos y se regulan en el apartado 2 del mismo artículo.",
+    "fuente": "Art. 59.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 59.2 TRLRHL, además de los impuestos de exigencia obligatoria, los ayuntamientos podrán establecer y exigir:",
+    "options": [
+      "El Impuesto sobre Construcciones, Instalaciones y Obras y el Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana",
+      "El Impuesto sobre Construcciones, Instalaciones y Obras y el Impuesto sobre Actividades Económicas",
+      "El Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana y el Impuesto sobre Vehículos de Tracción Mecánica",
+      "Un recargo sobre el Impuesto sobre la Renta de las Personas Físicas y el Impuesto sobre Construcciones, Instalaciones y Obras"
+    ],
+    "correct": 0,
+    "exp": "El art. 59.2 TRLRHL configura como potestativos el Impuesto sobre Construcciones, Instalaciones y Obras y el Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana, que se establecen y exigen de acuerdo con la ley, las disposiciones que la desarrollen y las respectivas ordenanzas fiscales.",
+    "fuente": "Art. 59.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 127 TRLRHL, los ayuntamientos podrán establecer y exigir precios públicos por:",
+    "options": [
+      "La utilización privativa o el aprovechamiento especial del dominio público municipal",
+      "La prestación de servicios o la realización de actividades de competencia municipal, según las normas del capítulo VI del título I de la ley",
+      "La realización de obras municipales que beneficien especialmente a personas determinadas",
+      "La imposición de prestaciones personales y de transporte para obras de competencia municipal"
+    ],
+    "correct": 1,
+    "exp": "El art. 127 TRLRHL, único del capítulo V del título II, habilita a los ayuntamientos para establecer y exigir precios públicos «por la prestación de servicios o la realización de actividades de competencia municipal», con remisión al capítulo VI del título I de la ley (arts. 41 a 47).",
+    "fuente": "Art. 127 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 128.1 TRLRHL, podrán imponer la prestación personal y de transporte para la realización de obras de la competencia municipal, o que hayan sido cedidas o transferidas por otras entidades públicas, los ayuntamientos con población de derecho no superior a:",
+    "options": [
+      "1.000 habitantes",
+      "2.000 habitantes",
+      "5.000 habitantes",
+      "20.000 habitantes"
+    ],
+    "correct": 2,
+    "exp": "El art. 128.1 TRLRHL limita esta potestad a los ayuntamientos con población de derecho no superior a 5.000 habitantes, y solo para la realización de obras de la competencia municipal o que les hayan sido cedidas o transferidas por otras entidades públicas.",
+    "fuente": "Art. 128.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 128.2 TRLRHL, las prestaciones personal y de transporte:",
+    "options": [
+      "Son incompatibles entre sí, debiendo imponerse separadamente",
+      "Solo son compatibles si lo autoriza previamente la comunidad autónoma",
+      "Son compatibles, pero no pueden aplicarse simultáneamente en el mismo ejercicio",
+      "Son compatibles entre sí y pueden aplicarse simultáneamente, de forma que los obligados a la de transporte podrán realizar la personal con sus mismos elementos de transporte"
+    ],
+    "correct": 3,
+    "exp": "El art. 128.2 TRLRHL declara expresamente compatibles ambas prestaciones y admite su aplicación simultánea, en cuyo caso los obligados a la de transporte podrán realizar la personal con sus mismos elementos de transporte.",
+    "fuente": "Art. 128.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 128.3 TRLRHL, la falta de concurrencia a la prestación, sin la previa redención y salvo caso de fuerza mayor, obligará al pago del importe de esta más:",
+    "options": [
+      "Una sanción de la misma cuantía, exigiéndose ambos conceptos por vía ejecutiva para su recaudación",
+      "Una sanción equivalente al 50 por ciento de dicho importe",
+      "Una sanción del doble de dicho importe",
+      "Los intereses de demora, sin sanción alguna"
+    ],
+    "correct": 0,
+    "exp": "El art. 128.3 TRLRHL obliga al pago del importe de la redención más «una sanción de la misma cuantía», y añade que ambos conceptos se exigirán por vía ejecutiva para su recaudación.",
+    "fuente": "Art. 128.3 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 128.4 TRLRHL, al fijar los períodos de la prestación personal y de transporte, el ayuntamiento tendrá en cuenta que estos:",
+    "options": [
+      "Se concentren preferentemente en los meses de verano",
+      "No coincidan con la época de mayor actividad laboral en el término municipal",
+      "Coincidan con el período de pago voluntario de los tributos de vencimiento periódico",
+      "No excedan en ningún caso de un mes natural"
+    ],
+    "correct": 1,
+    "exp": "El art. 128.4 TRLRHL impone al ayuntamiento tener en cuenta, al fijar los períodos de la prestación, que estos no coincidan con la época de mayor actividad laboral en el término municipal.",
+    "fuente": "Art. 128.4 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 129.1 TRLRHL, están sujetos a la prestación personal los residentes del municipio respectivo, excepto, entre otros:",
+    "options": [
+      "Los menores de dieciséis años y los mayores de sesenta y cinco",
+      "Los menores de veintiún años y los mayores de sesenta",
+      "Los menores de dieciocho años y los mayores de cincuenta y cinco",
+      "Los menores de dieciocho años y los mayores de sesenta y cinco"
+    ],
+    "correct": 2,
+    "exp": "El art. 129.1.a) TRLRHL exceptúa de la prestación personal a los menores de dieciocho años y a los mayores de cincuenta y cinco.",
+    "fuente": "Art. 129.1.a) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 129.1 TRLRHL, ¿cuál de los siguientes NO figura entre los exceptuados de la prestación personal?",
+    "options": [
+      "Los disminuidos físicos, psíquicos y sensoriales",
+      "Los reclusos en establecimientos penitenciarios",
+      "Los mozos mientras permanezcan en filas en cumplimiento del servicio militar",
+      "Los desempleados inscritos como demandantes de empleo"
+    ],
+    "correct": 3,
+    "exp": "El art. 129.1 TRLRHL enumera como exceptuados: a) menores de dieciocho años y mayores de cincuenta y cinco; b) disminuidos físicos, psíquicos y sensoriales; c) reclusos en establecimientos penitenciarios; d) mozos mientras permanezcan en filas en cumplimiento del servicio militar. Los desempleados no figuran en la relación.",
+    "fuente": "Art. 129.1.b), c) y d) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 129.2 TRLRHL, el riesgo por accidentes que puedan acaecer a los obligados a la prestación personal será cubierto por:",
+    "options": [
+      "El ayuntamiento de la imposición",
+      "El propio obligado a la prestación",
+      "La diputación provincial correspondiente",
+      "La comunidad autónoma en que radique el municipio"
+    ],
+    "correct": 0,
+    "exp": "El art. 129.2 TRLRHL dispone que «el ayuntamiento de la imposición cubrirá el riesgo por accidentes que puedan acaecer a los obligados a esta prestación».",
+    "fuente": "Art. 129.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 129.3 TRLRHL, la prestación personal no excederá de:",
+    "options": [
+      "10 días al año ni de dos consecutivos",
+      "15 días al año ni de tres consecutivos",
+      "15 días al año ni de cinco consecutivos",
+      "5 días al año, sin que pueda ser consecutivo ninguno de ellos"
+    ],
+    "correct": 1,
+    "exp": "El art. 129.3 TRLRHL establece que la prestación personal no excederá de 15 días al año ni de tres consecutivos. Los 5 días no consecutivos son el límite de la prestación de transporte para vehículos de tracción mecánica (art. 130.2) y los 10 días con máximo de dos consecutivos, el de los demás casos de esa misma prestación.",
+    "fuente": "Art. 129.3 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 129.3 TRLRHL, la prestación personal podrá ser redimida a metálico por un importe de:",
+    "options": [
+      "El salario mínimo interprofesional",
+      "La mitad del salario mínimo interprofesional",
+      "El doble del salario mínimo interprofesional",
+      "Tres veces el salario mínimo interprofesional"
+    ],
+    "correct": 2,
+    "exp": "El art. 129.3 TRLRHL permite redimir a metálico la prestación personal «por un importe del doble del salario mínimo interprofesional». Las tres veces el salario mínimo interprofesional corresponden a la reducción a metálico de la prestación de transporte (art. 130.2).",
+    "fuente": "Art. 129.3 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 130.1 TRLRHL, la obligación de la prestación de transporte:",
+    "options": [
+      "Alcanza solo a los residentes en el municipio mayores de dieciocho años y menores de cincuenta y cinco",
+      "Alcanza únicamente a las personas jurídicas con domicilio fiscal en el municipio",
+      "Alcanza a los titulares de vehículos matriculados en el municipio, con las mismas excepciones que la prestación personal",
+      "Es general, sin excepción alguna, para todas las personas físicas o jurídicas, residentes o no en el municipio, que tengan elementos de transporte en el término municipal afectos a explotaciones empresariales radicadas en este"
+    ],
+    "correct": 3,
+    "exp": "El art. 130.1 TRLRHL declara la obligación general, «sin excepción alguna», para todas las personas físicas o jurídicas, residentes o no en el municipio, que tengan elementos de transporte en el término municipal afectos a explotaciones empresariales radicadas en este. A diferencia de la prestación personal (art. 129.1), aquí no hay exenciones subjetivas.",
+    "fuente": "Art. 130.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 130.2 TRLRHL, la prestación de transporte no excederá, para los vehículos de tracción mecánica, de:",
+    "options": [
+      "Cinco días al año, sin que pueda ser consecutivo ninguno de ellos",
+      "Diez días al año ni dos consecutivos",
+      "Quince días al año ni tres consecutivos",
+      "Tres días al año, pudiendo ser consecutivos"
+    ],
+    "correct": 0,
+    "exp": "El art. 130.2 TRLRHL fija para los vehículos de tracción mecánica un máximo de cinco días al año, «sin que pueda ser consecutivo ninguno de ellos». En los demás casos la duración no será superior a 10 días al año ni a dos consecutivos.",
+    "fuente": "Art. 130.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 130.2 TRLRHL, la prestación de transporte podrá ser reducida a metálico por importe de:",
+    "options": [
+      "El salario mínimo interprofesional",
+      "El doble del salario mínimo interprofesional",
+      "Dos veces y media el salario mínimo interprofesional",
+      "Tres veces el salario mínimo interprofesional"
+    ],
+    "correct": 3,
+    "exp": "El art. 130.2 TRLRHL prevé que la prestación de transportes «podrá ser reducida a metálico, por importe de tres veces el salario mínimo interprofesional». El doble del salario mínimo interprofesional es el importe de redención de la prestación personal (art. 129.3).",
+    "fuente": "Art. 130.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  }
+]);
+
+/* tema 12 · lote 2026-08-21 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 12, [
+  {
+    "q": "Según el art. 111 TRLRHL, se cede a los municipios, en la proporción del art. 112, el rendimiento obtenido por el Estado en determinados impuestos, en favor de aquellos municipios en los que concurra alguna de estas condiciones:",
+    "options": [
+      "Que sean capitales de provincia, o de comunidad autónoma, o que tengan población de derecho igual o superior a 75.000 habitantes",
+      "Que sean capitales de provincia, o que tengan población de derecho superior a 50.000 habitantes",
+      "Que sean capitales de provincia, o de comunidad autónoma, o que tengan población de derecho igual o superior a 50.000 habitantes",
+      "Que sean capitales de comunidad autónoma, o que tengan población de derecho igual o superior a 100.000 habitantes"
+    ],
+    "correct": 0,
+    "exp": "El art. 111 delimita el ámbito subjetivo de la cesión mediante dos condiciones alternativas: a) ser capital de provincia o de comunidad autónoma; b) tener población de derecho igual o superior a 75.000 habitantes.",
+    "fuente": "Art. 111 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "A efectos del requisito de población previsto en el art. 111.b) TRLRHL para la cesión de impuestos del Estado, la población de derecho que se toma en consideración es:",
+    "options": [
+      "La aprobada por el Gobierno para el ejercicio corriente en el último padrón municipal",
+      "La resultante de la actualización del Padrón municipal de habitantes vigente a la entrada en vigor del modelo regulado en esa sección",
+      "La resultante del último Censo de Población y Viviendas publicado por el Instituto Nacional de Estadística",
+      "La media de las poblaciones de derecho de los cuatro últimos ejercicios"
+    ],
+    "correct": 1,
+    "exp": "El art. 111.b) precisa que «se considerará la población resultante de la actualización del Padrón municipal de habitantes vigente a la entrada en vigor del modelo regulado en la presente sección».",
+    "fuente": "Art. 111.b) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 112.1.a) TRLRHL, el porcentaje de la cuota líquida estatal del Impuesto sobre la Renta de las Personas Físicas que se cede a cada uno de los municipios incluidos en el ámbito subjetivo del art. 111 es del:",
+    "options": [
+      "1,6875 por 100",
+      "2,3266 por 100",
+      "2,1336 por 100",
+      "2,9220 por 100"
+    ],
+    "correct": 2,
+    "exp": "El art. 112.1.a), en la redacción dada por la disposición final 6.1 de la Ley 2/2012, cede el 2,1336 por 100 de la cuota líquida estatal del IRPF. El 2,3266 por 100 corresponde al IVA y el 2,9220 por 100 a los Impuestos Especiales.",
+    "fuente": "Art. 112.1.a) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 112.3 TRLRHL, respecto de los tributos estatales cuyo rendimiento se les cede, los municipios:",
+    "options": [
+      "Podrán asumir competencias de gestión y recaudación, pero en ningún caso normativas",
+      "Podrán asumir competencias normativas cuando así lo autorice la Ley de Presupuestos Generales del Estado",
+      "Asumirán la inspección y la revisión de los actos dictados en vía de gestión, correspondiendo al Estado solo las competencias normativas",
+      "No podrán asumir en ningún caso competencias normativas, de gestión, liquidación, recaudación e inspección, ni en materia de revisión de los actos dictados en vía de gestión, cuya titularidad y ejercicio corresponde exclusivamente al Estado"
+    ],
+    "correct": 3,
+    "exp": "El art. 112.3 excluye de raíz cualquier competencia municipal sobre los tributos cedidos —normativa, de gestión, liquidación, recaudación e inspección, y de revisión de los actos de gestión—, atribuyendo su titularidad y ejercicio exclusivamente al Estado.",
+    "fuente": "Art. 112.3 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 113.1.2.º TRLRHL, al determinar el importe de la cuota líquida del IRPF a efectos de la cesión a los municipios, las cuotas líquidas de los contribuyentes que hayan optado por tributar por el Impuesto sobre la Renta de No Residentes conforme al régimen especial de trabajadores desplazados a territorio español se computan aplicando:",
+    "options": [
+      "El 100 por ciento",
+      "El 75 por ciento",
+      "El 25 por ciento",
+      "El 50 por ciento"
+    ],
+    "correct": 3,
+    "exp": "El art. 113.1.2.º computa «el resultado de aplicar el 50 por ciento a las cuotas líquidas de los contribuyentes que hayan optado por tributar por el Impuesto sobre la Renta de No Residentes» al amparo del régimen del art. 93 de la Ley 35/2006.",
+    "fuente": "Art. 113.1.2.º TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 113.2 TRLRHL, el importe de recaudación líquida en el IVA y en los Impuestos Especiales, a efectos de la cesión a los municipios, se entiende obtenido:",
+    "options": [
+      "Con criterio de devengo, sobre la recaudación bruta imputable a cada municipio, sin descontar devoluciones",
+      "Con criterio de caja, una vez descontadas de la recaudación bruta las devoluciones y las transferencias o ajustes establecidos en el concierto y convenio con las haciendas forales del País Vasco y Navarra",
+      "Con criterio de caja, sobre la recaudación bruta, descontando únicamente las devoluciones por ingresos indebidos",
+      "Con criterio de devengo, descontando las devoluciones y los ajustes practicados con las comunidades autónomas de régimen común"
+    ],
+    "correct": 1,
+    "exp": "El art. 113.2 define la recaudación líquida como el porcentaje no cedido a las comunidades autónomas del conjunto de ingresos líquidos de la Hacienda estatal, «con criterio de caja», descontadas de la recaudación bruta las devoluciones y las transferencias o ajustes (positivos o negativos) del concierto y convenio con las haciendas forales del País Vasco y Navarra.",
+    "fuente": "Art. 113.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 114 TRLRHL, la revisión del conjunto de municipios que se incluyen en el modelo de cesión de la recaudación de impuestos del Estado se realiza con carácter:",
+    "options": [
+      "Anual, coincidiendo con la Ley de Presupuestos Generales del Estado",
+      "Bienal",
+      "Cuatrienal",
+      "Quinquenal"
+    ],
+    "correct": 2,
+    "exp": "El art. 114 establece que «con carácter cuatrienal, se revisará el conjunto de municipios que se incluirán en el modelo de cesión», atendiendo al cumplimiento de los requisitos del art. 111.",
+    "fuente": "Art. 114 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 115.2 TRLRHL, el rendimiento cedido del IRPF se considera producido en el territorio de un municipio cuando corresponda a aquellos sujetos pasivos que:",
+    "options": [
+      "Tengan su residencia habitual en aquel",
+      "Obtengan en aquel la mayor parte de sus rendimientos del trabajo",
+      "Tengan en aquel el domicilio fiscal declarado ante la Agencia Estatal de Administración Tributaria",
+      "Figuren inscritos en su padrón municipal de habitantes a 31 de diciembre"
+    ],
+    "correct": 0,
+    "exp": "El punto de conexión del art. 115.2 es la residencia habitual del sujeto pasivo en el término municipal; los criterios de los apartados 4 a 8 solo operan para concretar esa residencia.",
+    "fuente": "Art. 115.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 115.3 TRLRHL, si los sujetos pasivos integrados en una unidad familiar tuvieran su residencia habitual en municipios distintos y optasen por la tributación conjunta, el rendimiento cedido del IRPF se entiende producido en el territorio del municipio:",
+    "options": [
+      "Donde resida el miembro que figure como primer declarante en la declaración conjunta",
+      "Donde tenga su residencia habitual el miembro de la unidad familiar con mayor base liquidable, de acuerdo con las reglas de individualización del impuesto",
+      "Donde radique la vivienda familiar, con independencia de la base liquidable de cada miembro",
+      "De cada uno de los miembros, repartiéndose el rendimiento a partes iguales entre ellos"
+    ],
+    "correct": 1,
+    "exp": "El art. 115.3 atribuye el rendimiento al municipio de residencia habitual del miembro de la unidad familiar con mayor base liquidable conforme a las reglas de individualización del impuesto.",
+    "fuente": "Art. 115.3 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 115.4 TRLRHL considera que una persona física residente en territorio español lo es en el territorio de un municipio cuando permanezca en él un mayor número de días del período impositivo del IRPF. Para determinar ese período de permanencia:",
+    "options": [
+      "Se descuentan las ausencias temporales debidamente acreditadas",
+      "Solo se computan los días de presencia efectiva certificados por el ayuntamiento",
+      "Se computan las ausencias temporales",
+      "Se atiende exclusivamente al lugar donde radique la vivienda habitual, sin cómputo alguno de días"
+    ],
+    "correct": 2,
+    "exp": "El art. 115.4 dispone expresamente que «para determinar el período de permanencia se computarán las ausencias temporales», y añade la presunción, salvo prueba en contrario, del municipio donde radique la vivienda habitual.",
+    "fuente": "Art. 115.4 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 116.1 TRLRHL, el porcentaje del rendimiento no cedido a las comunidades autónomas del Impuesto sobre el Valor Añadido que se cede a cada municipio incluido en el ámbito subjetivo del art. 111 es del:",
+    "options": [
+      "2,1336 por ciento",
+      "2,0454 por ciento",
+      "2,9220 por ciento",
+      "2,3266 por ciento"
+    ],
+    "correct": 3,
+    "exp": "El art. 116.1, en la redacción resultante de la disposición final 6.2 de la Ley 2/2012, cede el 2,3266 por ciento del rendimiento del IVA no cedido a las comunidades autónomas que se impute producido en el territorio del municipio.",
+    "fuente": "Art. 116.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 116.2 TRLRHL, la imputación a cada municipio del rendimiento cedido del IVA se determina aplicando a la recaudación líquida que corresponda al Estado:",
+    "options": [
+      "El índice de consumo de la comunidad autónoma a la que pertenezca el municipio, certificado por el Instituto Nacional de Estadística, ponderando el resultado por la representatividad de la población de derecho del municipio en el ámbito de esa comunidad autónoma",
+      "El índice de consumo del propio municipio certificado por la Agencia Estatal de Administración Tributaria",
+      "El índice de esfuerzo fiscal del municipio ponderado por el inverso de su capacidad tributaria",
+      "El índice de entregas de bienes y prestaciones de servicios elaborado por el Ministerio de Hacienda para cada término municipal"
+    ],
+    "correct": 0,
+    "exp": "El art. 116.2 aplica el índice de consumo de la comunidad autónoma a la que pertenece el municipio —índice de consumo territorial certificado por el Instituto Nacional de Estadística— ponderado por la representatividad de la población de derecho del municipio en esa comunidad autónoma.",
+    "fuente": "Art. 116.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 117.1 TRLRHL cede a cada municipio del ámbito subjetivo del art. 111 el 2,9220 por ciento de los rendimientos no cedidos a las comunidades autónomas. Los Impuestos Especiales a los que se refiere ese apartado 1 son los que gravan:",
+    "options": [
+      "Los Hidrocarburos y las Labores del Tabaco, exclusivamente",
+      "La Cerveza, el Vino y Bebidas Fermentadas, los Productos Intermedios y el Alcohol y Bebidas Derivadas",
+      "La Electricidad, los Hidrocarburos y las Labores del Tabaco",
+      "Determinados Medios de Transporte, la Cerveza y el Alcohol y Bebidas Derivadas"
+    ],
+    "correct": 1,
+    "exp": "El art. 117.1 enumera los Impuestos sobre la Cerveza, sobre el Vino y Bebidas Fermentadas, sobre Productos Intermedios y sobre el Alcohol y Bebidas Derivadas. Los Impuestos sobre Hidrocarburos y sobre las Labores del Tabaco se tratan en el apartado 3 del mismo artículo, con puntos de conexión propios.",
+    "fuente": "Art. 117.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 117.3 TRLRHL, el rendimiento cedido del Impuesto sobre las Labores del Tabaco se considera producido en el territorio de un municipio conforme al índice de ventas a expendedurías de tabaco del término municipal respectivo, según datos:",
+    "options": [
+      "Del Instituto Nacional de Estadística",
+      "De la Agencia Estatal de Administración Tributaria",
+      "Del Comisionado para el Mercado de Tabacos",
+      "Del Ministerio de Economía"
+    ],
+    "correct": 2,
+    "exp": "El art. 117.3 remite, para el Impuesto sobre las Labores del Tabaco, al índice de ventas a expendedurías según datos del Comisionado para el Mercado de Tabacos, ponderadas por los tipos impositivos. Los datos del Ministerio de Economía son los que ese mismo apartado emplea para el índice de entregas de gasolinas, gasóleos y fuelóleos en el Impuesto sobre Hidrocarburos.",
+    "fuente": "Art. 117.3 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 118 TRLRHL, participan en los tributos del Estado con arreglo al modelo del Fondo Complementario de Financiación:",
+    "options": [
+      "Todos los municipios, sin distinción por razón de población",
+      "Únicamente los municipios turísticos definidos en el art. 125 de la ley",
+      "Los municipios no incluidos en el art. 111 de la ley",
+      "Los municipios a los que se refiere el art. 111 de la ley"
+    ],
+    "correct": 3,
+    "exp": "El art. 118 remite el ámbito subjetivo del Fondo Complementario de Financiación a los municipios del art. 111, es decir, capitales de provincia o de comunidad autónoma y municipios de 75.000 o más habitantes de derecho. Los no incluidos en el art. 111 se rigen por la sección 2.ª (art. 122).",
+    "fuente": "Art. 118 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la regla general del art. 119 TRLRHL, la participación en el Fondo Complementario de Financiación se determina, para cada ejercicio y para cada municipio:",
+    "options": [
+      "Aplicando un índice de evolución a la participación que le corresponda por ese concepto en el año base del modelo",
+      "Repartiendo el importe total en función del número de habitantes de derecho ponderado por coeficientes multiplicadores",
+      "Aplicando el índice de esfuerzo fiscal medio del municipio al importe de los impuestos estatales cedidos",
+      "Mediante negociación anual en el seno de la Comisión Nacional de Administración Local"
+    ],
+    "correct": 0,
+    "exp": "El art. 119 fija la fórmula PFC(t,m) = PFC(2004,m) x IE(t/2004): la participación del año base evolucionada por el índice de evolución. El año base es 2004, primero de aplicación del modelo.",
+    "fuente": "Art. 119 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 120.1 TRLRHL, la participación en el Fondo Complementario de Financiación correspondiente al año base se calcula:",
+    "options": [
+      "Sumando a la participación en tributos del Estado del año 2003 el importe de los impuestos estatales cedidos",
+      "Aplicando el índice de evolución de los ingresos tributarios del Estado a la recaudación municipal por tributos propios",
+      "Repartiendo el importe total entre los municipios en función de su población de derecho ponderada",
+      "Deduciendo el importe correspondiente a la cesión del rendimiento de impuestos estatales de la participación total que resultaría de incrementar la participación en tributos del Estado del año 2003 en el índice de evolución"
+    ],
+    "correct": 3,
+    "exp": "El art. 120.1 obtiene primero la participación total del año base evolucionando la participación en tributos del Estado de 2003, y de ella deduce los rendimientos cedidos por IRPF, IVA e Impuestos Especiales calculados conforme a los arts. 115, 116 y 117.",
+    "fuente": "Art. 120.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 121 TRLRHL, el índice de evolución se determina, en todo caso, por:",
+    "options": [
+      "El incremento del índice de precios de consumo entre el año base y el año al que corresponda la participación",
+      "El incremento que experimenten los ingresos tributarios del Estado entre el año al que corresponda la participación y el año base",
+      "El incremento del producto interior bruto nominal certificado por el Instituto Nacional de Estadística",
+      "El incremento de la recaudación por tributos propios del municipio respectivo"
+    ],
+    "correct": 1,
+    "exp": "El art. 121 define IE(t/2004) = ITE(t) / ITE(2004): el índice de evolución es el incremento de los ingresos tributarios del Estado entre el año al que corresponde la participación y el año base.",
+    "fuente": "Art. 121 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 121 TRLRHL, los ingresos tributarios del Estado (ITE) están constituidos por la recaudación estatal, excluida la susceptible de cesión a las comunidades autónomas, por:",
+    "options": [
+      "El IRPF, el Impuesto sobre Sociedades y el Impuesto sobre el Valor Añadido",
+      "La totalidad de los tributos estatales, incluidas las cotizaciones a la Seguridad Social",
+      "El IRPF, el IVA y los Impuestos Especiales sobre la Cerveza, sobre el Vino y Bebidas Fermentadas, sobre Productos Intermedios, sobre el Alcohol y Bebidas Derivadas, sobre Hidrocarburos y sobre las Labores de Tabaco",
+      "El IRPF, el IVA, los Impuestos Especiales y el Impuesto sobre el Patrimonio"
+    ],
+    "correct": 2,
+    "exp": "El art. 121 enumera como integrantes de los ITE el IRPF, el IVA y los seis Impuestos Especiales citados, quedando fuera el Impuesto sobre Sociedades. Para su concreción remite a la Ley 21/2001.",
+    "fuente": "Art. 121 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 122 TRLRHL, participan en tributos del Estado con arreglo al modelo de la sección 2.ª (participación del resto de municipios):",
+    "options": [
+      "Los municipios de población de derecho inferior a 20.000 habitantes, exclusivamente",
+      "Los municipios turísticos definidos en el art. 125 de la ley",
+      "Los municipios que sean capitales de provincia pero no de comunidad autónoma",
+      "Los municipios no incluidos en el art. 111 de la ley"
+    ],
+    "correct": 3,
+    "exp": "El art. 122 delimita el ámbito subjetivo por exclusión: los municipios que no cumplen las condiciones del art. 111. Los municipios turísticos son un subconjunto de estos, con las reglas específicas del art. 125.",
+    "fuente": "Art. 122 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 123 TRLRHL, la participación total en tributos del Estado del conjunto de municipios no incluidos en el art. 111 se determina, para cada ejercicio:",
+    "options": [
+      "Aplicando a la participación total del año base el índice de evolución, que se fija por el incremento que experimenten los ingresos tributarios del Estado entre el año al que corresponda la participación y el año base",
+      "Aplicando a la participación del ejercicio anterior el índice de precios de consumo interanual",
+      "Sumando las participaciones individuales que resulten para cada municipio conforme a los criterios del art. 124",
+      "Por acuerdo entre el Ministerio de Hacienda y la Federación Española de Municipios y Provincias"
+    ],
+    "correct": 0,
+    "exp": "El art. 123.1 fija PIE(t) = PIE(2004) x IE(t/2004) y el art. 123.2 remite, para el índice de evolución, al incremento de los ingresos tributarios del Estado en los términos del art. 121.",
+    "fuente": "Art. 123.1 y 123.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 124.1.a) TRLRHL, el porcentaje de la participación total que se distribuye en función del número de habitantes de derecho de cada municipio, ponderados por coeficientes multiplicadores, es el:",
+    "options": [
+      "50 por ciento",
+      "75 por ciento",
+      "87,5 por ciento",
+      "90 por ciento"
+    ],
+    "correct": 1,
+    "exp": "El art. 124.1 reparte el 75 por ciento por población de derecho ponderada [letra a)], el 12,5 por ciento por esfuerzo fiscal medio [letra b)] y el 12,5 por ciento por el inverso de la capacidad tributaria [letra c)].",
+    "fuente": "Art. 124.1.a) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la tabla de coeficientes multiplicadores del art. 124.1.a) TRLRHL, al estrato de municipios de más de 50.000 habitantes le corresponde el coeficiente:",
+    "options": [
+      "1,00",
+      "1,17",
+      "1,30",
+      "1,40"
+    ],
+    "correct": 3,
+    "exp": "La tabla del art. 124.1.a) asigna 1,40 al estrato 1 (de más de 50.000 habitantes), 1,30 al estrato 2 (de 20.001 a 50.000), 1,17 al estrato 3 (de 5.001 a 20.000) y 1,00 al estrato 4 (hasta 5.000).",
+    "fuente": "Art. 124.1.a) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 124.1 TRLRHL, al margen del porcentaje repartido por población de derecho ponderada, la participación total se distribuye:",
+    "options": [
+      "Un 12,5 por ciento en función del esfuerzo fiscal medio de cada municipio, ponderado por el número de habitantes de derecho, y otro 12,5 por ciento en función del inverso de la capacidad tributaria, en los términos que establezcan las Leyes de Presupuestos Generales del Estado",
+      "Un 25 por ciento en función del esfuerzo fiscal medio de cada municipio, ponderado por el número de habitantes de derecho",
+      "Un 12,5 por ciento en función del esfuerzo fiscal medio y otro 12,5 por ciento en función de la superficie del término municipal",
+      "Un 20 por ciento en función del inverso de la capacidad tributaria y un 5 por ciento en función del esfuerzo fiscal medio"
+    ],
+    "correct": 0,
+    "exp": "Las letras b) y c) del art. 124.1 reparten sendos 12,5 por ciento: por esfuerzo fiscal medio del segundo ejercicio anterior al de la Ley de Presupuestos Generales del Estado correspondiente, ponderado por habitantes de derecho, y por el inverso de la capacidad tributaria en los términos que fijen esas leyes.",
+    "fuente": "Art. 124.1.b) y c) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 125.1 TRLRHL, para ser considerado municipio turístico es preciso, además de estar comprendido en el ámbito subjetivo del art. 122:",
+    "options": [
+      "Tener una población de derecho superior a 20.000 habitantes y que el número de viviendas de segunda residencia supere al de viviendas principales, de acuerdo con los datos oficiales del último Censo de Edificios y Viviendas",
+      "Tener una población de derecho superior a 10.000 habitantes y que las viviendas de segunda residencia superen el 30 por ciento del total de viviendas del municipio",
+      "Tener una población de derecho superior a 20.000 habitantes y estar declarado municipio turístico por la comunidad autónoma respectiva",
+      "Tener una población de derecho superior a 75.000 habitantes y que el número de plazas hoteleras supere al de viviendas principales"
+    ],
+    "correct": 0,
+    "exp": "El art. 125.1 exige dos condiciones cumulativas: población de derecho superior a 20.000 habitantes y que las viviendas de segunda residencia superen a las principales según el último Censo de Edificios y Viviendas.",
+    "fuente": "Art. 125.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 125.3 TRLRHL, a cada uno de los municipios turísticos se le cede el siguiente porcentaje de los rendimientos que no hayan sido objeto de cesión a las comunidades autónomas por los Impuestos sobre Hidrocarburos y sobre las Labores del Tabaco:",
+    "options": [
+      "El 1,6875 por ciento",
+      "El 2,0454 por ciento",
+      "El 2,3266 por ciento",
+      "El 2,9220 por ciento"
+    ],
+    "correct": 1,
+    "exp": "El art. 125.3 fija la cesión a los municipios turísticos en el 2,0454 por ciento de los rendimientos no cedidos a las comunidades autónomas por los Impuestos sobre Hidrocarburos y sobre las Labores del Tabaco.",
+    "fuente": "Art. 125.3 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 126 TRLRHL, la revisión del conjunto de municipios incluidos en cada uno de los modelos de participación en los tributos del Estado del capítulo IV se efectúa:",
+    "options": [
+      "Anualmente, mediante la Ley de Presupuestos Generales del Estado",
+      "Cada tres años, por acuerdo de la Comisión Nacional de Administración Local",
+      "Con carácter cuatrienal, atendiendo al cumplimiento de los requisitos establecidos para la delimitación de los ámbitos subjetivos de los arts. 118 y 122",
+      "Con carácter quinquenal, atendiendo únicamente a los requisitos del art. 111"
+    ],
+    "correct": 2,
+    "exp": "El art. 126 impone una revisión cuatrienal del conjunto de municipios incluidos en los modelos de las dos secciones anteriores, según el cumplimiento en ese momento de los requisitos de los arts. 118 y 122.",
+    "fuente": "Art. 126 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 10 TRLRHL, en la exacción de los tributos locales y de los restantes ingresos de derecho público de las entidades locales, los recargos e intereses de demora se exigirán y determinarán:",
+    "options": [
+      "En los casos, forma y cuantía que libremente fije cada ordenanza fiscal",
+      "Conforme a la normativa tributaria propia de la comunidad autónoma respectiva",
+      "En los mismos casos, forma y cuantía que en la exacción de los tributos del Estado",
+      "Aplicando en todo caso el interés legal del dinero vigente en cada ejercicio"
+    ],
+    "correct": 2,
+    "exp": "El art. 10, párrafo primero, equipara el régimen de recargos e intereses de demora de los ingresos de derecho público locales al de la exacción de los tributos del Estado.",
+    "fuente": "Art. 10 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 10 TRLRHL, cuando las ordenanzas fiscales así lo prevean, no se exigirá interés de demora en los acuerdos de aplazamiento o fraccionamiento de pago solicitados en período voluntario, siempre que:",
+    "options": [
+      "Se refieran a deudas de vencimiento periódico y notificación colectiva y el pago total de estas se produzca en el mismo ejercicio que el de su devengo",
+      "El importe aplazado no exceda de 6.000 euros y quede garantizado con aval bancario",
+      "El obligado domicilie el pago y el aplazamiento no se extienda más allá de dos ejercicios",
+      "Se trate de deudas tributarias derivadas de actas de inspección no recurridas"
+    ],
+    "correct": 0,
+    "exp": "El art. 10, párrafo segundo, condiciona la no exigencia de intereses de demora a que la ordenanza lo prevea, a que se trate de deudas de vencimiento periódico y notificación colectiva y a que el pago total se produzca en el mismo ejercicio del devengo.",
+    "fuente": "Art. 10 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 12.2 TRLRHL, a través de sus ordenanzas fiscales las entidades locales podrán adaptar la normativa estatal sobre gestión, liquidación, inspección y recaudación de los tributos locales a su propio régimen de organización y funcionamiento interno:",
+    "options": [
+      "Siempre que la adaptación se autorice previamente por el Ministerio de Hacienda",
+      "Sin que tal adaptación pueda contravenir el contenido material de dicha normativa",
+      "Pudiendo introducir especialidades incluso en los elementos esenciales del tributo",
+      "Solo cuando se trate de tributos de gestión compartida con el Estado"
+    ],
+    "correct": 1,
+    "exp": "El art. 12.2 admite la adaptación organizativa por ordenanza fiscal con el límite expreso de no contravenir el contenido material de la Ley General Tributaria y demás leyes estatales reguladoras de la materia.",
+    "fuente": "Art. 12.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13 TRLRHL, en relación con la gestión, liquidación, inspección y recaudación de los tributos locales, la competencia para evacuar las consultas tributarias a que se refiere el art. 88 de la Ley General Tributaria corresponde a:",
+    "options": [
+      "La Dirección General de Tributos del Ministerio de Hacienda",
+      "El Pleno de la corporación local, previo dictamen del interventor",
+      "La entidad que ejerza dichas funciones",
+      "La comunidad autónoma en cuyo territorio radique la entidad local"
+    ],
+    "correct": 2,
+    "exp": "El art. 13 atribuye la competencia para evacuar las consultas del art. 88 LGT a la entidad que ejerza las funciones de gestión, liquidación, inspección y recaudación, lo que resulta relevante en los supuestos de delegación del art. 7.",
+    "fuente": "Art. 13 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 67.2 TRLRHL, tratándose de bienes inmuebles de características especiales, la reducción en la base imponible del IBI únicamente procederá cuando el valor catastral resultante de la aplicación de una nueva Ponencia de valores especial:",
+    "options": [
+      "Se incremente en más de un 20 por ciento respecto del valor catastral anterior",
+      "Supere en más del 40 por ciento el valor de mercado del inmueble",
+      "Resulte de un procedimiento de valoración colectiva de carácter parcial",
+      "Supere el doble del que, como inmueble de esa clase, tuviera previamente asignado"
+    ],
+    "correct": 3,
+    "exp": "El art. 67.2 exige que el nuevo valor catastral supere el doble del previamente asignado como inmueble de esa clase; en defecto de ese valor previo se toma como tal el 40 por ciento del que resulte de la nueva Ponencia.",
+    "fuente": "Art. 67.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 69 TRLRHL, el valor base de la reducción en la base imponible del IBI será, como regla general:",
+    "options": [
+      "La base liquidable del ejercicio inmediato anterior a la entrada en vigor del nuevo valor catastral",
+      "El valor catastral medio de todos los inmuebles de la misma clase del municipio",
+      "El 50 por ciento del nuevo valor catastral resultante de la ponencia de valores",
+      "La base imponible del primer ejercicio de aplicación del nuevo valor catastral"
+    ],
+    "correct": 0,
+    "exp": "El art. 69 fija como valor base la base liquidable del ejercicio inmediato anterior a la entrada en vigor del nuevo valor catastral, salvo las circunstancias especiales de sus letras a), b) y c).",
+    "fuente": "Art. 69 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 70.1 TRLRHL, cuando el valor catastral se altere, antes de finalizar el plazo de reducción, por un procedimiento de valoración colectiva de carácter general de los previstos en el art. 67.1.b).1.º:",
+    "options": [
+      "Se mantiene el período de reducción en curso y el coeficiente reductor que se viniera aplicando hasta su terminación",
+      "Se inicia el cómputo de un nuevo período de reducción y se extingue el derecho a la aplicación del resto de la reducción que se viniera aplicando",
+      "No se inicia nuevo período de reducción y el coeficiente reductor pasa a ser el correspondiente al resto de los inmuebles del municipio",
+      "Se pierde definitivamente el derecho a aplicar cualquier reducción sobre ese inmueble"
+    ],
+    "correct": 1,
+    "exp": "El art. 70.1 ordena iniciar un nuevo período de reducción y extinguir el derecho al resto de la reducción anterior. La solución de la letra C es la del art. 70.2, prevista para los supuestos del art. 67.1.b).2.º, 3.º y 4.º.",
+    "fuente": "Art. 70.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 76.3 TRLRHL, los ayuntamientos podrán exigir la acreditación de la presentación de la declaración catastral de nueva construcción para la tramitación del procedimiento de concesión de:",
+    "options": [
+      "La licencia de obras o licencia urbanística de nueva planta",
+      "La licencia de apertura o de actividad del establecimiento",
+      "La licencia que autorice la primera ocupación de los inmuebles",
+      "La cédula de habitabilidad expedida por la comunidad autónoma"
+    ],
+    "correct": 2,
+    "exp": "El art. 76.3 vincula la acreditación de la declaración catastral de nueva construcción a la licencia de primera ocupación; si el ayuntamiento se acogió al procedimiento de comunicación del apartado 2, puede exigir en su lugar la información complementaria necesaria.",
+    "fuente": "Art. 76.3 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 80 TRLRHL, el ejercicio de las actividades gravadas por el Impuesto sobre Actividades Económicas se probará:",
+    "options": [
+      "Exclusivamente mediante la inclusión del sujeto pasivo en la matrícula del impuesto",
+      "Mediante certificación expedida al efecto por la Agencia Estatal de Administración Tributaria",
+      "Únicamente mediante la declaración censal de alta presentada por el sujeto pasivo",
+      "Por cualquier medio admisible en derecho y, en particular, por los contemplados en el art. 3 del Código de Comercio"
+    ],
+    "correct": 3,
+    "exp": "El art. 80 admite cualquier medio de prueba admisible en derecho, con remisión expresa a los medios del art. 3 del Código de Comercio.",
+    "fuente": "Art. 80 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 83 TRLRHL, son sujetos pasivos del Impuesto sobre Actividades Económicas las personas físicas o jurídicas y las entidades del art. 35.4 de la Ley General Tributaria:",
+    "options": [
+      "Siempre que realicen en territorio nacional cualquiera de las actividades que originan el hecho imponible",
+      "Siempre que tengan su domicilio fiscal en el término municipal en el que se exige el impuesto",
+      "Que figuren inscritas en la matrícula del impuesto a 1 de enero de cada año",
+      "Que ejerzan la actividad en local determinado situado en el término municipal"
+    ],
+    "correct": 0,
+    "exp": "El art. 83 vincula la condición de sujeto pasivo a la realización en territorio nacional de cualquiera de las actividades que originan el hecho imponible, sin exigir domicilio fiscal ni local determinado.",
+    "fuente": "Art. 83 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 84 TRLRHL, la cuota tributaria del Impuesto sobre Actividades Económicas es la resultante de aplicar:",
+    "options": [
+      "El tipo de gravamen fijado en la ordenanza fiscal sobre el importe neto de la cifra de negocios del sujeto pasivo",
+      "Las tarifas del impuesto y los coeficientes y bonificaciones previstos por la ley y, en su caso, acordados por cada ayuntamiento y regulados en las ordenanzas fiscales respectivas",
+      "Exclusivamente las tarifas del impuesto aprobadas por el Estado, sin corrección municipal alguna",
+      "El coeficiente de ponderación sobre la cuota mínima municipal, sin aplicación de bonificaciones"
+    ],
+    "correct": 1,
+    "exp": "El art. 84 compone la cuota con las tarifas del impuesto más los coeficientes y bonificaciones previstos por la ley y, en su caso, acordados por el ayuntamiento en sus ordenanzas fiscales.",
+    "fuente": "Art. 84 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 90.1 TRLRHL, el Impuesto sobre Actividades Económicas se gestiona a partir de la matrícula del impuesto, la cual:",
+    "options": [
+      "Se forma cada cuatro años y su consulta queda reservada a los propios sujetos pasivos",
+      "La elabora cada ayuntamiento y en ningún caso comprende el recargo provincial",
+      "Se formará anualmente para cada término municipal y estará a disposición del público en los respectivos ayuntamientos",
+      "Se forma anualmente y comprende únicamente a los sujetos pasivos que disfrutan de exención"
+    ],
+    "correct": 2,
+    "exp": "El art. 90.1 dispone que la matrícula se forma anualmente para cada término y está constituida por censos comprensivos de las actividades económicas, sujetos pasivos, cuotas mínimas y, en su caso, del recargo provincial, y que estará a disposición del público en los respectivos ayuntamientos.",
+    "fuente": "Art. 90.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 109.2 TRLRHL, cuando se declare o reconozca judicial o administrativamente por resolución firme la nulidad, rescisión o resolución del acto o contrato determinante de la transmisión del terreno, el sujeto pasivo tendrá derecho a la devolución del impuesto satisfecho siempre que reclame la devolución en el plazo de:",
+    "options": [
+      "Un año desde que la resolución quedó firme",
+      "Dos años desde que la resolución quedó firme",
+      "Cuatro años desde que la resolución quedó firme",
+      "Cinco años desde que la resolución quedó firme"
+    ],
+    "correct": 3,
+    "exp": "El art. 109.2 exige, además de que el acto o contrato no hubiera producido efectos lucrativos, que la devolución se reclame en el plazo de cinco años desde que la resolución quedó firme.",
+    "fuente": "Art. 109.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  }
+]);
+
+/* tema 13 · lote 2026-08-21 · 15 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 13, [
+  {
+    "q": "Según el art. 50 de la Ley 10/2017, de régimen especial del municipio de Zaragoza como capital de Aragón, el presupuesto general se tramitará conforme al procedimiento regulado en:",
+    "options": [
+      "El artículo 48 de la Ley, relativo a la aprobación de ordenanzas y Reglamentos municipales, con las especialidades que el propio art. 50 establece",
+      "El artículo 49 de la Ley, relativo a la aprobación de ordenanzas fiscales, sin especialidad alguna",
+      "El artículo 51 de la Ley, relativo a la determinación de las formas de gestión de los servicios públicos",
+      "El artículo 57 de la Ley, relativo al Convenio bilateral económico-financiero con el Gobierno de Aragón"
+    ],
+    "correct": 0,
+    "exp": "El encabezamiento del art. 50 dispone que «el presupuesto general se tramitará conforme al procedimiento regulado en el artículo 48 de esta Ley, de acuerdo con las siguientes especialidades», que son las recogidas en sus letras a) a f).",
+    "fuente": "Art. 50 (párrafo introductorio) Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 50.a) de la Ley 10/2017, la iniciativa para la aprobación del proyecto de presupuesto general del Ayuntamiento de Zaragoza corresponde a:",
+    "options": [
+      "El Alcalde, que forma el presupuesto general y lo remite informado por la Intervención",
+      "El Gobierno de Zaragoza",
+      "La Comisión plenaria competente en materia de hacienda",
+      "El Pleno, a propuesta de cualquiera de los grupos políticos municipales"
+    ],
+    "correct": 1,
+    "exp": "El art. 50.a) atribuye la iniciativa para la aprobación del proyecto de presupuesto general al Gobierno de Zaragoza (denominación que la disposición adicional segunda da a la Junta de Gobierno Local). La opción del Alcalde corresponde al régimen general de las haciendas locales, no a esta Ley.",
+    "fuente": "Art. 50 a) Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 50.b) de la Ley 10/2017, ¿durante qué período se expondrá al público el proyecto de presupuesto del Ayuntamiento de Zaragoza?",
+    "options": [
+      "Durante un plazo mínimo de treinta días naturales",
+      "Durante veinte días hábiles",
+      "Durante un mes",
+      "Durante un período de quince días"
+    ],
+    "correct": 3,
+    "exp": "El art. 50.b) fija un período de quince días de exposición al público del proyecto de presupuesto. El plazo mínimo de treinta días naturales es el del trámite general de información pública del art. 48.3.b) para ordenanzas y Reglamentos, no el del presupuesto.",
+    "fuente": "Art. 50 b) Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Durante el período de exposición al público del proyecto de presupuesto previsto en el art. 50.b) de la Ley 10/2017, los interesados podrán:",
+    "options": [
+      "Examinarlo y formular enmiendas al proyecto, que se tramitarán en la Comisión plenaria correspondiente",
+      "Examinarlo y presentar reclamaciones y sugerencias",
+      "Examinarlo y presentar reclamaciones",
+      "Examinarlo, sin poder presentar escrito alguno hasta que el Pleno lo apruebe inicialmente"
+    ],
+    "correct": 2,
+    "exp": "El art. 50.b) dice literalmente que durante el período de exposición pública «los interesados podrán examinarlo y presentar reclamaciones». La fórmula «reclamaciones y sugerencias» es la del art. 48.3.b), referida a ordenanzas y Reglamentos; las enmiendas corresponden a los Concejales, no a los interesados.",
+    "fuente": "Art. 50 b) Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el art. 50.b) de la Ley 10/2017, la exposición al público del proyecto de presupuesto va precedida de anuncio:",
+    "options": [
+      "En el boletín oficial correspondiente",
+      "En el boletín oficial correspondiente y en el tablón de anuncios municipal",
+      "En el boletín oficial correspondiente, en el tablón de anuncios y en la sede electrónica municipal",
+      "En el Boletín Oficial del Estado y en el Boletín Oficial de Aragón"
+    ],
+    "correct": 0,
+    "exp": "El art. 50.b) solo exige el «previo anuncio en el boletín oficial correspondiente». La adición del tablón de anuncios municipal es la fórmula del art. 48.3.b), y la que suma además la sede electrónica municipal es la del art. 49.b) para las ordenanzas fiscales.",
+    "fuente": "Art. 50 b) Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El art. 50 de la Ley 10/2017, al regular las especialidades de la aprobación del presupuesto municipal de Zaragoza, NO contiene ninguna previsión expresa sobre:",
+    "options": [
+      "La fecha límite de remisión del proyecto de presupuesto al Pleno",
+      "El período de exposición al público del proyecto de presupuesto",
+      "La fecha límite dentro de la cual el Pleno debe aprobar definitivamente el presupuesto",
+      "La prórroga del presupuesto del ejercicio anterior"
+    ],
+    "correct": 2,
+    "exp": "El art. 50 fija la remisión al Pleno antes del día quince de octubre (letra c), el período de exposición pública de quince días (letra b) y la prórroga automática del presupuesto anterior (letra f), pero no establece ninguna fecha límite para la aprobación definitiva por el Pleno. Ojo: eso no significa que no exista tal fecha, sino que no está en el art. 50: la fija el art. 169.2 TRLRHL (antes del día 31 de diciembre del año anterior al del ejercicio en que deba aplicarse), aplicable porque el art. 50 solo introduce «especialidades» sobre el régimen general.",
+    "fuente": "Art. 50 b), c) y f) Ley 10/2017 (capitalidad de Zaragoza); cf. art. 169.2 TRLRHL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 50.d) de la Ley 10/2017, las enmiendas al proyecto de presupuesto que supongan modificación de ingresos requerirán para su tramitación:",
+    "options": [
+      "Informe favorable previo de la Intervención General municipal",
+      "Dictamen previo del Consejo Jurídico Municipal",
+      "El acuerdo favorable del Consejo Bilateral de Capitalidad",
+      "La conformidad del Gobierno de Zaragoza"
+    ],
+    "correct": 3,
+    "exp": "El art. 50.d) exige la conformidad del Gobierno de Zaragoza para la tramitación de las enmiendas que supongan modificación de ingresos.",
+    "fuente": "Art. 50 d) Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué enmiendas al proyecto de presupuesto municipal quedan sujetas, por el art. 50.d) de la Ley 10/2017, a la conformidad del Gobierno de Zaragoza para poder tramitarse?",
+    "options": [
+      "Las que supongan modificación de ingresos",
+      "Únicamente las que supongan disminución de ingresos",
+      "Únicamente las que supongan aumento de los créditos para gastos del ejercicio en curso",
+      "Todas las enmiendas al proyecto de presupuesto, sin distinción alguna"
+    ],
+    "correct": 0,
+    "exp": "El art. 50.d) se refiere a las enmiendas «que supongan modificación de ingresos», sin limitarlo a las que los disminuyan. La referencia al aumento de créditos o disminución de ingresos del ejercicio en curso es la del art. 48.6, de alcance distinto.",
+    "fuente": "Art. 50 d) Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 50.e) de la Ley 10/2017, las enmiendas que afecten a los créditos para gastos del proyecto de presupuesto deberán presentarse:",
+    "options": [
+      "Acompañadas de informe de la Intervención sobre su repercusión en la estabilidad presupuestaria",
+      "Con el respaldo de, al menos, dos grupos políticos municipales",
+      "Compensando los incrementos y minoraciones de créditos dentro de la misma área de gobierno y misma naturaleza del gasto",
+      "Sin más requisito que su presentación en plazo ante la Comisión plenaria competente"
+    ],
+    "correct": 2,
+    "exp": "El art. 50.e) obliga a que las enmiendas que afecten a créditos para gastos se presenten compensando los incrementos y minoraciones de créditos dentro de la misma área de gobierno y misma naturaleza del gasto.",
+    "fuente": "Art. 50 e) Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Un Concejal presenta una enmienda al proyecto de presupuesto que incrementa un crédito de gasto corriente de un área de gobierno, minorando en la misma cuantía un crédito de gasto corriente de otra área de gobierno distinta. Conforme al art. 50.e) de la Ley 10/2017:",
+    "options": [
+      "Es admisible, porque el importe total del presupuesto de gastos no se altera",
+      "No es admisible, porque la compensación debe producirse dentro de la misma área de gobierno",
+      "Es admisible, porque se respeta la misma naturaleza del gasto en ambos créditos",
+      "Es admisible siempre que cuente con informe favorable de la Intervención General municipal"
+    ],
+    "correct": 1,
+    "exp": "El art. 50.e) exige que la compensación de incrementos y minoraciones se produzca dentro de la misma área de gobierno y, además, respetando la misma naturaleza del gasto. Compensar entre áreas de gobierno distintas incumple el primero de los dos límites, aunque no varíe el total.",
+    "fuente": "Art. 50 e) Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 50.f) de la Ley 10/2017, el presupuesto municipal de Zaragoza entrará en vigor:",
+    "options": [
+      "El 1 de enero del ejercicio correspondiente, aunque no se haya publicado todavía",
+      "A los quince días de su aprobación por el Pleno, con independencia de su publicación",
+      "Cuando lo acuerde el Gobierno de Zaragoza mediante decreto de ejecutividad",
+      "Para el ejercicio económico correspondiente, tras su publicación oficial"
+    ],
+    "correct": 3,
+    "exp": "El art. 50.f) dispone que el presupuesto entrará en vigor para el ejercicio económico correspondiente tras su publicación oficial.",
+    "fuente": "Art. 50 f) Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 50.f) de la Ley 10/2017, si el presupuesto municipal no hubiera entrado en vigor una vez iniciado el ejercicio económico:",
+    "options": [
+      "El Gobierno de Zaragoza aprobará un presupuesto provisional por doceavas partes hasta la entrada en vigor del definitivo",
+      "Se considerará automáticamente prorrogado el del ejercicio anterior",
+      "Deberá solicitarse autorización al Gobierno de Aragón para seguir disponiendo de los créditos",
+      "El Pleno deberá aprobarlo de urgencia en el plazo de un mes desde el inicio del ejercicio"
+    ],
+    "correct": 1,
+    "exp": "El art. 50.f) prevé que, si el presupuesto no ha entrado en vigor una vez iniciado el ejercicio económico, se considerará automáticamente prorrogado el del ejercicio anterior.",
+    "fuente": "Art. 50 f) Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 11.1.h) de la Ley 10/2017, corresponde al Pleno del Ayuntamiento de Zaragoza:",
+    "options": [
+      "La aprobación del proyecto de presupuesto y de la relación de puestos de trabajo",
+      "El desarrollo de la gestión económica y la disposición de gastos previamente autorizados",
+      "La aprobación de los presupuestos y de la cuenta general del ejercicio correspondiente, de la plantilla de personal, así como la autorización de gastos en las materias de su competencia",
+      "La aprobación de las retribuciones del personal de acuerdo con el presupuesto y de la oferta de empleo público"
+    ],
+    "correct": 2,
+    "exp": "El art. 11.1.h) atribuye al Pleno la aprobación de los presupuestos y de la cuenta general del ejercicio correspondiente, de la plantilla de personal y la autorización de gastos en las materias de su competencia. La aprobación del proyecto de presupuesto, la relación de puestos de trabajo, las retribuciones y la oferta de empleo público corresponden al Gobierno de Zaragoza (art. 14.1.b, h e i).",
+    "fuente": "Art. 11.1 h) Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "De acuerdo con el art. 11.3 de la Ley 10/2017, la atribución del Pleno consistente en la aprobación de los presupuestos y de la cuenta general (art. 11.1.h):",
+    "options": [
+      "Puede delegarse en el Gobierno de Zaragoza cuando así lo acuerde la Junta de Portavoces",
+      "No puede ser objeto de delegación",
+      "Solo puede delegarse en Comisiones del Pleno",
+      "Puede delegarse en el Alcalde, salvo que su aprobación exija mayoría especial"
+    ],
+    "correct": 1,
+    "exp": "El art. 11.3 declara indelegables las competencias del Pleno de las letras a), b), c), e), f), g), h), i), j), m), ñ) y q) del apartado 1, entre las que se encuentra la letra h) relativa a los presupuestos y la cuenta general.",
+    "fuente": "Art. 11.3 Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes atribuciones en materia presupuestaria corresponde al Gobierno de Zaragoza según el art. 14.1 de la Ley 10/2017?",
+    "options": [
+      "La aprobación de la cuenta general del ejercicio correspondiente",
+      "La aprobación del proyecto de presupuesto",
+      "La determinación de los recursos propios de carácter tributario",
+      "La aprobación de la plantilla de personal"
+    ],
+    "correct": 1,
+    "exp": "El art. 14.1.b) atribuye al Gobierno de Zaragoza la aprobación del proyecto de presupuesto. La cuenta general, la plantilla de personal y los recursos propios de carácter tributario corresponden al Pleno (art. 11.1.g y h).",
+    "fuente": "Art. 14.1 b) Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  }
+]);
+
+/* tema 13 · lote 2026-08-21 · 40 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 13, [
+  {
+    "q": "Según el art. 9.2 del RD 500/1990, ¿qué debe regularse en las bases de ejecución del presupuesto en relación con las fases de ejecución del presupuesto de gastos?",
+    "options": [
+      "El número máximo de fases en que puede dividirse la ejecución de cada gasto.",
+      "La prohibición absoluta de acumular fases de ejecución en un solo acto administrativo.",
+      "Los supuestos en los que puedan acumularse varias fases de ejecución del presupuesto de gastos en un solo acto administrativo.",
+      "La obligación de tramitar cada fase de ejecución mediante expediente independiente informado por el Interventor."
+    ],
+    "correct": 2,
+    "exp": "El art. 9.2 enumera las materias que las entidades locales han de regular en las bases de ejecución; su letra i) es, literalmente, «Supuestos en los que puedan acumularse varias fases de ejecución del Presupuesto de gastos en un solo acto administrativo». Es el precepto que habilita, en cada entidad, los documentos contables AD y ADO del art. 67.",
+    "fuente": "Art. 9.2 i) RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 9.2 b) del RD 500/1990, entre las materias que las entidades locales han de regular en las bases de ejecución del presupuesto figura:",
+    "options": [
+      "La relación expresa y taxativa de los créditos que se declaren ampliables, con detalle de los recursos afectados.",
+      "La relación meramente indicativa de los créditos que podrían declararse ampliables, sin necesidad de detallar los recursos.",
+      "La relación de los créditos extraordinarios concedidos en el ejercicio inmediato anterior.",
+      "La relación de los créditos declarados no disponibles por el Pleno en el ejercicio inmediato anterior."
+    ],
+    "correct": 0,
+    "exp": "Art. 9.2 b) RD 500/1990: «Relación expresa y taxativa de los créditos que se declaren ampliables, con detalle de los recursos afectados». La exigencia de relación «expresa y taxativa» se reitera en el art. 39.1 al definir la ampliación de crédito.",
+    "fuente": "Art. 9.2 b) RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.2 del RD 500/1990, ninguno de los presupuestos podrá presentar déficit a lo largo del ejercicio; en consecuencia, todo incremento en los créditos presupuestarios o decremento en las previsiones de ingresos deberá ser compensado:",
+    "options": [
+      "en el plazo de un mes desde la adopción del acuerdo.",
+      "antes del cierre del ejercicio presupuestario.",
+      "en la liquidación del presupuesto del ejercicio.",
+      "en el mismo acto en que se acuerde."
+    ],
+    "correct": 3,
+    "exp": "Art. 16.2 RD 500/1990: «ninguno de los Presupuestos podrá presentar déficit a lo largo del ejercicio; en consecuencia todo incremento en los créditos presupuestarios o decremento en las previsiones de ingresos deberá ser compensado en el mismo acto en que se acuerde». Es una regla que el reglamento añade al principio de aprobación sin déficit inicial del apartado 1 (hoy art. 165.4 TRLRHL).",
+    "fuente": "Art. 16.2 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 18.4 del RD 500/1990, la remisión del Presupuesto General a la Intervención se efectuará de forma que pueda ser objeto de estudio durante un plazo no inferior a diez días e informado antes del:",
+    "options": [
+      "1 de octubre.",
+      "10 de octubre.",
+      "15 de octubre.",
+      "15 de septiembre."
+    ],
+    "correct": 1,
+    "exp": "Art. 18.4, párrafo segundo, RD 500/1990: «La remisión a la Intervención se efectuará de forma que el Presupuesto, con todos sus anexos y documentación complementaria, pueda ser objeto de estudio durante un plazo no inferior a diez días e informado antes del 10 de octubre». El 15 de octubre es la fecha límite de remisión al Pleno (párrafo primero) y el 15 de septiembre la de remisión de los presupuestos de organismos autónomos y sociedades (arts. 18.2 y 18.3).",
+    "fuente": "Art. 18.4 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 20.1 del RD 500/1990, el acto de aprobación provisional del Presupuesto General se anunciará en el «Boletín Oficial» de la provincia o, en su caso, de la Comunidad Autónoma uniprovincial, señalando:",
+    "options": [
+      "el número de reclamaciones presentadas contra el presupuesto del ejercicio anterior.",
+      "el importe total de los estados de gastos e ingresos aprobados provisionalmente.",
+      "el lugar y la fecha inicial del cómputo del plazo de exposición al público.",
+      "el órgano ante el que cabe interponer recurso contencioso-administrativo."
+    ],
+    "correct": 2,
+    "exp": "Art. 20.1 RD 500/1990: «El acto de aprobación provisional del Presupuesto General, señalando el lugar y fecha inicial del cómputo del plazo de exposición al público, se anunciará en el “Boletín Oficial” de la provincia...». Este detalle del contenido del anuncio es una precisión propia del reglamento que no figura en el art. 169.1 TRLRHL.",
+    "fuente": "Art. 20.1 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 21.6 del RD 500/1990, cuando haya regido un presupuesto prorrogado, el presupuesto definitivo se aprobará:",
+    "options": [
+      "con efectos de 1 de enero, y los créditos en él incluidos tendrán la consideración de créditos iniciales.",
+      "con efectos desde la fecha de su publicación, y sus créditos tendrán la consideración de modificaciones de crédito.",
+      "con efectos de 1 de enero, si bien sus créditos tendrán la consideración de créditos ampliables.",
+      "con efectos desde el día siguiente al de su aprobación definitiva, sin que sus créditos tengan la consideración de créditos iniciales."
+    ],
+    "correct": 0,
+    "exp": "Art. 21.6 RD 500/1990: «El Presupuesto definitivo se aprobará con efectos de 1 de enero y los créditos en él incluidos tendrán la consideración de créditos iniciales». El reglamento desarrolla con mucho más detalle la prórroga presupuestaria que el art. 169.6 TRLRHL, que solo enuncia la prórroga automática.",
+    "fuente": "Art. 21.6 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 21.4 del RD 500/1990, los ajustes de crédito practicados sobre el presupuesto prorrogado deberán imputarse a las correspondientes partidas mediante:",
+    "options": [
+      "acuerdo del Pleno adoptado por mayoría absoluta del número legal de miembros.",
+      "resolución del Interventor, previo informe del Presidente de la Corporación.",
+      "acuerdo de la Junta de Gobierno Local, previo dictamen de la Comisión Especial de Cuentas.",
+      "resolución motivada dictada por el Presidente de la Corporación, previo informe del Interventor."
+    ],
+    "correct": 3,
+    "exp": "Art. 21.4, párrafo último, RD 500/1990: «los ajustes de crédito determinados en los párrafos precedentes deberán ser objeto de imputación a las correspondientes partidas del Presupuesto prorrogado mediante resolución motivada dictada por el Presidente de la Corporación, previo informe del Interventor».",
+    "fuente": "Art. 21.4 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13.3 del RD 500/1990, los proyectos incluidos en el Plan de Inversiones se identificarán mediante el código que en aquél se les asigne, código que:",
+    "options": [
+      "podrá modificarse anualmente al revisar el plan.",
+      "no podrá ser alterado hasta su finalización.",
+      "será asignado por el Ministerio de Economía y Hacienda.",
+      "solo será exigible en los proyectos financiados con ingresos afectados."
+    ],
+    "correct": 1,
+    "exp": "Art. 13.3 RD 500/1990: «Los proyectos incluidos en el Plan de Inversiones se identificarán mediante el código que en aquél se les asigne y que no podrá ser alterado hasta su finalización». El «Código de identificación» es, además, la primera de las especificaciones mínimas exigidas por el art. 13.4 y por el art. 19 para el anexo de inversiones.",
+    "fuente": "Art. 13.3 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 27.1 del RD 500/1990, con carácter general los niveles de vinculación jurídica de los créditos serán los que vengan establecidos en cada momento por:",
+    "options": [
+      "las bases de ejecución del presupuesto de cada entidad local.",
+      "el Ministerio de Economía y Hacienda, mediante orden ministerial.",
+      "la legislación presupuestaria del Estado.",
+      "la legislación presupuestaria de la Comunidad Autónoma respectiva."
+    ],
+    "correct": 2,
+    "exp": "Art. 27.1 RD 500/1990: «Con carácter general, los niveles de vinculación jurídica de los créditos serán los que vengan establecidos en cada momento por la legislación presupuestaria del Estado». Sin perjuicio de ello, el art. 28.1 permite a la entidad fijar en sus bases de ejecución niveles distintos, con los límites del art. 29.",
+    "fuente": "Art. 27.1 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 29 del RD 500/1990, las entidades locales que establezcan en sus bases de ejecución la vinculación de los créditos en los niveles de desarrollo funcional y económico que consideren necesarios deberán respetar, en todo caso, los siguientes niveles como límite:",
+    "options": [
+      "el grupo de función, respecto de la clasificación funcional, y el capítulo, respecto de la clasificación económica.",
+      "la función, respecto de la clasificación funcional, y el artículo, respecto de la clasificación económica.",
+      "el subgrupo de función, respecto de la clasificación funcional, y el concepto, respecto de la clasificación económica.",
+      "el programa, respecto de la clasificación funcional, y el subconcepto, respecto de la clasificación económica."
+    ],
+    "correct": 0,
+    "exp": "Art. 29 RD 500/1990: las limitaciones en cuanto a los niveles de vinculación son «a) Respecto de la clasificación funcional, el grupo de función. b) Respecto de la clasificación económica, el capítulo».",
+    "fuente": "Art. 29 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 30.1 del RD 500/1990, los créditos consignados en el presupuesto de gastos podrán encontrarse, con carácter general, en cualquiera de estas tres situaciones:",
+    "options": [
+      "créditos disponibles, créditos comprometidos y créditos ordenados.",
+      "créditos iniciales, créditos definitivos y créditos anulados.",
+      "créditos disponibles, créditos ampliables y créditos no disponibles.",
+      "créditos disponibles, créditos retenidos pendientes de utilización y créditos no disponibles."
+    ],
+    "correct": 3,
+    "exp": "Art. 30.1 RD 500/1990: los créditos podrán encontrarse en cualquiera de las tres situaciones siguientes: «a) Créditos disponibles. b) Créditos retenidos pendientes de utilización. c) Créditos no disponibles». El apartado 2 añade que, en principio, todos los créditos se encontrarán en situación de disponibles. Esta clasificación de las situaciones del crédito no tiene equivalente en el TRLRHL.",
+    "fuente": "Art. 30.1 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 31.1 del RD 500/1990, la retención de crédito es el acto mediante el cual:",
+    "options": [
+      "se inmoviliza la totalidad o parte del saldo de crédito de una partida presupuestaria, declarándolo no susceptible de utilización.",
+      "se expide, respecto al de una partida presupuestaria, certificación de existencia de saldo suficiente para la autorización de un gasto o de una transferencia de crédito, por una cuantía determinada, produciéndose por el mismo importe una reserva para dicho gasto o transferencia.",
+      "se acuerda la realización de un gasto determinado por una cuantía cierta o aproximada, reservando a tal fin la totalidad o parte de un crédito presupuestario.",
+      "se declara la existencia de un crédito exigible contra la entidad derivado de un gasto autorizado y comprometido."
+    ],
+    "correct": 1,
+    "exp": "Art. 31.1 RD 500/1990 define así la retención de crédito. Las demás opciones son, respectivamente, la definición de la no disponibilidad de crédito (art. 33.1), la de la autorización del gasto (art. 54.1) y la del reconocimiento y liquidación de la obligación (art. 58).",
+    "fuente": "Art. 31.1 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 32.2 del RD 500/1990, ¿a quién corresponde la expedición de las certificaciones de existencia de crédito?",
+    "options": [
+      "Al Presidente de la entidad local.",
+      "Al Tesorero de la entidad local.",
+      "Al Interventor.",
+      "Al Pleno de la entidad local."
+    ],
+    "correct": 2,
+    "exp": "Art. 32.2 RD 500/1990: «Corresponderá la expedición de certificaciones de existencia de crédito al Interventor». El apartado 1 añade que en todo expediente de transferencia de crédito es requisito indispensable la previa certificación de existencia de crédito suficiente en la partida que deba ceder crédito.",
+    "fuente": "Art. 32.2 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 33.3 del RD 500/1990, la declaración de no disponibilidad de créditos, así como su reposición a disponible, corresponde:",
+    "options": [
+      "al Pleno de la entidad.",
+      "al Presidente de la entidad, previo informe del Interventor.",
+      "al Interventor de la entidad.",
+      "a la Junta de Gobierno Local, a propuesta del Presidente."
+    ],
+    "correct": 0,
+    "exp": "Art. 33.3 RD 500/1990: «Corresponderá la declaración de no disponibilidad de créditos, así como su reposición a disponible, al Pleno de la Entidad».",
+    "fuente": "Art. 33.3 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 33.2 del RD 500/1990, la declaración de no disponibilidad de un crédito:",
+    "options": [
+      "supone la anulación del crédito y su baja definitiva en cuentas.",
+      "no impide acordar transferencias de crédito con cargo al saldo declarado no disponible.",
+      "permite incorporar su importe al presupuesto del ejercicio siguiente como remanente de crédito.",
+      "no supone la anulación del crédito, pero con cargo al saldo declarado no disponible no podrán acordarse autorizaciones de gastos ni transferencias, y su importe no podrá ser incorporado al presupuesto del ejercicio siguiente."
+    ],
+    "correct": 3,
+    "exp": "Art. 33.2 RD 500/1990, literalmente. La prohibición de incorporar los créditos declarados no disponibles se reitera en los arts. 47.2 y 99.3.",
+    "fuente": "Art. 33.2 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 34 del RD 500/1990, ¿cuál de las siguientes NO es una de las modificaciones de crédito que pueden realizarse en los presupuestos de gastos de la entidad y de sus organismos autónomos?",
+    "options": [
+      "La generación de créditos por ingresos.",
+      "La retención de crédito pendiente de utilización.",
+      "La incorporación de remanentes de crédito.",
+      "Las bajas por anulación."
+    ],
+    "correct": 1,
+    "exp": "El art. 34 RD 500/1990 enumera siete modificaciones de crédito: créditos extraordinarios, suplementos de créditos, ampliaciones de crédito, transferencias de crédito, generación de créditos por ingresos, incorporación de remanentes de crédito y bajas por anulación. La retención de crédito no es una modificación de crédito, sino una situación del crédito (arts. 30.1 b) y 31).",
+    "fuente": "Art. 34 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 36.2 del RD 500/1990, los créditos extraordinarios y los suplementos de crédito para gastos de inversión podrán financiarse, además de con los recursos generales previstos en el apartado 1, con:",
+    "options": [
+      "cargo a los créditos declarados no disponibles por el Pleno.",
+      "las previsiones iniciales del capítulo de ingresos patrimoniales.",
+      "los recursos procedentes de operaciones de crédito.",
+      "los anticipos de caja fija no invertidos al cierre del ejercicio."
+    ],
+    "correct": 2,
+    "exp": "Art. 36.2 RD 500/1990: «Los créditos extraordinarios y los suplementos de crédito para gastos de inversión podrán financiarse, además de con los recursos indicados en el apartado anterior, con los procedentes de operaciones de crédito». El apartado 1 recoge los tres recursos generales (remanente líquido de tesorería, nuevos o mayores ingresos efectivamente recaudados y anulaciones o bajas de créditos no comprometidos).",
+    "fuente": "Art. 36.2 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 37.2 del RD 500/1990, a la propuesta de concesión de un crédito extraordinario o suplemento de crédito habrá de acompañarse:",
+    "options": [
+      "una memoria justificativa de la necesidad de la medida, que precise la clase de modificación a realizar, las partidas presupuestarias a las que afecta y los medios o recursos que han de financiarla.",
+      "un informe previo del Tribunal de Cuentas sobre la nivelación presupuestaria.",
+      "un dictamen preceptivo de la Comisión Nacional de Administración Local.",
+      "un certificado del Tesorero acreditativo de la existencia de fondos líquidos suficientes."
+    ],
+    "correct": 0,
+    "exp": "Art. 37.2 RD 500/1990: «A la propuesta se habrá de acompañar una Memoria justificativa de la necesidad de la medida que deberá precisar la clase de modificación a realizar, las partidas presupuestarias a las que afecta y los medios o recursos que han de financiarla», debiendo acreditarse los extremos de sus letras a) a d). El expediente se incoa por orden del Presidente (apartado 1) y se somete al Pleno previo informe de la Intervención (apartado 3).",
+    "fuente": "Art. 37.2 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 39.1 del RD 500/1990, la ampliación de crédito es la modificación al alza del presupuesto de gastos que se concreta en el aumento de crédito en alguna de las partidas ampliables relacionadas expresa y taxativamente en las bases de ejecución, y ello en función de la efectividad de:",
+    "options": [
+      "cualquier nuevo o mayor ingreso efectivamente recaudado sobre el previsto en el presupuesto.",
+      "los recursos afectados, incluidos los procedentes de operaciones de crédito.",
+      "el remanente líquido de tesorería resultante de la liquidación del ejercicio anterior.",
+      "recursos afectados no procedentes de operaciones de crédito."
+    ],
+    "correct": 3,
+    "exp": "Art. 39.1 RD 500/1990: la ampliación de crédito opera «en función de la efectividad de recursos afectados no procedentes de operaciones de crédito». El apartado 2 añade que únicamente pueden declararse ampliables las partidas correspondientes a gastos financiados con recursos expresamente afectados, y el apartado 3 exige acreditar el reconocimiento en firme de mayores derechos sobre los previstos.",
+    "fuente": "Art. 39.1 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 40.1 del RD 500/1990, la transferencia de crédito es aquella modificación del presupuesto de gastos mediante la que, sin alterar la cuantía total del mismo, se imputa el importe total o parcial de un crédito a otras partidas presupuestarias:",
+    "options": [
+      "de la misma vinculación jurídica.",
+      "con diferente vinculación jurídica.",
+      "del mismo capítulo económico, en todo caso.",
+      "pertenecientes a distinto ejercicio presupuestario."
+    ],
+    "correct": 1,
+    "exp": "Art. 40.1 RD 500/1990: la transferencia imputa el crédito «a otras partidas presupuestarias con diferente vinculación jurídica». Esta precisión (que delimita la transferencia frente a los simples reajustes internos dentro de una misma bolsa de vinculación) es una aportación del reglamento respecto del art. 179 TRLRHL.",
+    "fuente": "Art. 40.1 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 44 b) del RD 500/1990, en los supuestos de generación de crédito por prestación de servicios y por reembolsos de préstamos es requisito indispensable el reconocimiento del derecho, si bien:",
+    "options": [
+      "la generación queda condicionada al informe favorable del Interventor.",
+      "la generación requiere además acuerdo expreso del Pleno de la entidad.",
+      "la disponibilidad de dichos créditos estará condicionada a la efectiva recaudación de los derechos.",
+      "el crédito generado no podrá exceder del 50 por 100 del derecho reconocido."
+    ],
+    "correct": 2,
+    "exp": "Art. 44 b) RD 500/1990: en los supuestos de las letras c) y d) del art. 43.1 (prestación de servicios y reembolsos de préstamos) basta el reconocimiento del derecho, «si bien la disponibilidad de dichos créditos estará condicionada a la efectiva recaudación de los derechos». Los requisitos de la generación de crédito son desarrollo reglamentario sin equivalente en el art. 181 TRLRHL.",
+    "fuente": "Art. 44 b) RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 45.1 del RD 500/1990, el compromiso firme de ingreso es el acto por el que:",
+    "options": [
+      "cualesquiera entes o personas públicas o privadas se obligan, mediante un acuerdo o concierto con la entidad local, a financiar total o parcialmente un gasto determinado de forma pura o condicionada.",
+      "la entidad local se obliga frente a un tercero a la realización de un gasto concreto y determinado en su cuantía y condiciones de ejecución.",
+      "el Interventor certifica la existencia de saldo suficiente en un concepto del presupuesto de ingresos.",
+      "el Pleno acuerda afectar un recurso determinado a la financiación de un gasto específico."
+    ],
+    "correct": 0,
+    "exp": "Art. 45.1 RD 500/1990, literalmente. Añade que, cumplidas por la entidad local las obligaciones asumidas en el acuerdo, el compromiso de ingreso dará lugar a un derecho de cobro exigible; y el apartado 2 permite generar crédito hasta la cuantía del compromiso firme. La opción B es la definición de la disposición o compromiso de gasto (art. 56.2).",
+    "fuente": "Art. 45.1 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 47.2 del RD 500/1990, no serán incorporables al presupuesto del ejercicio siguiente:",
+    "options": [
+      "los créditos por operaciones de capital.",
+      "los créditos autorizados en función de la efectiva recaudación de los derechos afectados.",
+      "los créditos extraordinarios concedidos en el último trimestre del ejercicio.",
+      "los créditos declarados no disponibles ni los remanentes de créditos ya incorporados en el ejercicio precedente."
+    ],
+    "correct": 3,
+    "exp": "Art. 47.2 RD 500/1990: «No serán incorporables los créditos declarados no disponibles ni los remanentes de créditos ya incorporados en el ejercicio precedente». Las tres opciones descartadas son, por el contrario, supuestos incorporables del art. 47.1. Nota de vigencia: el art. 47.1 se remite a los apartados del «artículo 163.1 LRHL», es decir, de la Ley 39/1988; esa remisión debe entenderse hecha hoy al art. 182.1 del TRLRHL (RDLeg 2/2004), que sustituyó a la Ley 39/1988.",
+    "fuente": "Art. 47.2 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 48.2 del RD 500/1990, a los efectos de incorporación de remanentes de crédito se considerarán recursos financieros:",
+    "options": [
+      "el resultado presupuestario positivo del ejercicio y las bajas por anulación de créditos.",
+      "el remanente líquido de tesorería y los nuevos o mayores ingresos recaudados sobre los totales previstos en el presupuesto corriente.",
+      "las operaciones de crédito a largo plazo y las contribuciones especiales pendientes de liquidar.",
+      "los créditos retenidos pendientes de utilización y los créditos declarados no disponibles."
+    ],
+    "correct": 1,
+    "exp": "Art. 48.2 RD 500/1990: «a) El remanente líquido de Tesorería. b) Nuevos o mayores ingresos recaudados sobre los totales previstos en el presupuesto corriente». Para los gastos con financiación afectada, el apartado 3 da preferencia a los excesos de financiación y a los compromisos firmes de aportación afectados.",
+    "fuente": "Art. 48.2 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 49 del RD 500/1990, la aprobación de las bajas por anulación de créditos corresponde:",
+    "options": [
+      "al Presidente de la entidad, previo informe de la Intervención.",
+      "al Interventor de la entidad local.",
+      "al Pleno de la entidad.",
+      "al órgano que hubiera autorizado en su día el gasto correspondiente."
+    ],
+    "correct": 2,
+    "exp": "Art. 49 RD 500/1990 define la baja por anulación como la modificación del presupuesto de gastos que supone una disminución total o parcial en el crédito asignado a una partida, y añade: «Corresponderá al Pleno de la Entidad la aprobación de las bajas por anulación de créditos». La baja por anulación no está regulada en el TRLRHL: es una figura que aporta el reglamento (arts. 49 a 51).",
+    "fuente": "Art. 49 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 54 del RD 500/1990, la autorización del gasto es el acto mediante el cual se acuerda la realización de un gasto determinado por una cuantía cierta o aproximada, reservando a tal fin la totalidad o parte de un crédito presupuestario, y además:",
+    "options": [
+      "constituye el inicio del procedimiento de ejecución del gasto, si bien no implica relaciones con terceros externos a la entidad local.",
+      "constituye el inicio del procedimiento de ejecución del gasto y vincula ya a la entidad local frente a terceros.",
+      "presupone el previo reconocimiento de la obligación por el órgano competente.",
+      "solo puede acordarse una vez cumplidos los trámites legalmente establecidos frente al contratista."
+    ],
+    "correct": 0,
+    "exp": "Art. 54.2 RD 500/1990: «La autorización constituye el inicio del procedimiento de ejecución del gasto, si bien no implica relaciones con terceros externos a la Entidad local». Es precisamente el rasgo que la distingue de la disposición o compromiso, que sí es un acto con relevancia jurídica frente a terceros (art. 56.2). El cumplimiento de los trámites legalmente establecidos se predica de la disposición, no de la autorización.",
+    "fuente": "Art. 54.1 y 54.2 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 56.1 del RD 500/1990, la disposición o compromiso es el acto mediante el cual se acuerda, tras el cumplimiento de los trámites legalmente establecidos, la realización de gastos previamente autorizados por:",
+    "options": [
+      "una cuantía cierta o aproximada.",
+      "el importe de las obligaciones reconocidas y liquidadas.",
+      "el importe que resulte de la orden de pago expedida contra la Tesorería.",
+      "un importe exactamente determinado."
+    ],
+    "correct": 3,
+    "exp": "Art. 56.1 RD 500/1990: la disposición o compromiso acuerda la realización de gastos previamente autorizados «por un importe exactamente determinado». La «cuantía cierta o aproximada» es, en cambio, la propia de la fase de autorización (art. 54.1): esa es la diferencia clásica entre ambas fases.",
+    "fuente": "Art. 56.1 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 56.2 del RD 500/1990, ¿qué naturaleza tiene la disposición o compromiso del gasto?",
+    "options": [
+      "Es un acto de trámite interno que no implica relaciones con terceros externos a la entidad local.",
+      "Es un acto con relevancia jurídica para con terceros, que vincula a la entidad local a la realización de un gasto concreto y determinado tanto en su cuantía como en las condiciones de ejecución.",
+      "Es un acto mediante el cual se declara la existencia de un crédito exigible contra la entidad local.",
+      "Es un acto mediante el cual el ordenador de pagos expide la correspondiente orden de pago contra la Tesorería."
+    ],
+    "correct": 1,
+    "exp": "Art. 56.2 RD 500/1990, literalmente. La opción A describe la autorización (art. 54.2), la C el reconocimiento y liquidación de la obligación (art. 58) y la D la ordenación del pago (art. 61).",
+    "fuente": "Art. 56.2 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 59.1 del RD 500/1990, previamente al reconocimiento de las obligaciones habrá de acreditarse documentalmente ante el órgano competente:",
+    "options": [
+      "la existencia de fondos líquidos suficientes en la Tesorería de la entidad.",
+      "la retención previa del crédito practicada por el Interventor.",
+      "la realización de la prestación o el derecho del acreedor, de conformidad con los acuerdos que en su día autorizaron y comprometieron el gasto.",
+      "la inclusión del gasto en el plan de disposición de fondos aprobado por el Presidente."
+    ],
+    "correct": 2,
+    "exp": "Art. 59.1 RD 500/1990, literalmente. Los apartados 2 y 3 remiten a las bases de ejecución la fijación de los documentos y requisitos que, según el tipo de gasto, justifiquen el reconocimiento de la obligación, y la forma de acreditación y justificación por los perceptores de subvenciones.",
+    "fuente": "Art. 59.1 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 60.2 del RD 500/1990, corresponde al Pleno de la entidad el reconocimiento extrajudicial de créditos, siempre que:",
+    "options": [
+      "no exista dotación presupuestaria, se trate de operaciones especiales de crédito o de concesiones de quita y espera.",
+      "el importe del crédito exceda del 10 por 100 de los recursos ordinarios del presupuesto.",
+      "exista dotación presupuestaria suficiente y se emita informe favorable del Interventor.",
+      "así lo acuerde previamente el Presidente de la entidad mediante delegación expresa."
+    ],
+    "correct": 0,
+    "exp": "Art. 60.2 RD 500/1990: «Corresponderá al Pleno de la Entidad el reconocimiento extrajudicial de créditos, siempre que no exista dotación presupuestaria, operaciones especiales de crédito, o concesiones de quita y espera». El reconocimiento y liquidación ordinario de obligaciones derivadas de compromisos legalmente adquiridos corresponde, en cambio, al Presidente (art. 60.1). El reconocimiento extrajudicial de créditos no aparece en el TRLRHL: es aportación del reglamento.",
+    "fuente": "Art. 60.2 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 66.1 del RD 500/1990, el acto administrativo de la ordenación del pago se materializará en relaciones de órdenes de pago que recogerán, como mínimo y para cada una de las obligaciones en ellas incluidas:",
+    "options": [
+      "el importe bruto, la fecha de vencimiento y el número de expediente de contratación.",
+      "la identificación del acreedor y la fecha en que se acordó la autorización del gasto.",
+      "el importe líquido y la entidad financiera colaboradora encargada de ejecutar el pago.",
+      "sus importes bruto y líquido, la identificación del acreedor y la aplicación o aplicaciones presupuestarias a que deban imputarse las operaciones."
+    ],
+    "correct": 3,
+    "exp": "Art. 66.1 RD 500/1990, literalmente. El apartado 2 admite además la ordenación individual del pago respecto de obligaciones específicas y concretas. Este contenido mínimo del documento de ordenación del pago es desarrollo propio del reglamento.",
+    "fuente": "Art. 66.1 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 67.1 del RD 500/1990, un mismo acto administrativo podrá abarcar más de una de las fases de ejecución del presupuesto de gastos enumeradas en el art. 52, pudiéndose dar los siguientes casos:",
+    "options": [
+      "autorización-disposición y disposición-reconocimiento de la obligación.",
+      "autorización-disposición y autorización-disposición-reconocimiento de la obligación.",
+      "autorización-disposición-reconocimiento de la obligación y reconocimiento de la obligación-ordenación del pago.",
+      "autorización-disposición-reconocimiento de la obligación-ordenación del pago, en un único documento contable."
+    ],
+    "correct": 1,
+    "exp": "Art. 67.1 RD 500/1990: los casos previstos son «a) Autorización-disposición. b) Autorización-disposición-reconocimiento de la obligación», es decir, los documentos contables AD y ADO. El reglamento no contempla las demás combinaciones. Este precepto fue objeto de pregunta en el examen oficial de Auxiliar Administrativo del Ayuntamiento de Zaragoza de 1 de junio de 2025.",
+    "fuente": "Art. 67.1 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 67.2 del RD 500/1990, el acto administrativo que acumule dos o más fases de ejecución del presupuesto de gastos:",
+    "options": [
+      "requerirá ratificación posterior del Pleno de la entidad.",
+      "producirá efectos limitados a la primera de las fases acumuladas.",
+      "producirá los mismos efectos que si dichas fases se acordaran en actos administrativos separados.",
+      "deberá ser objeto de fiscalización previa y de convalidación posterior por el Interventor."
+    ],
+    "correct": 2,
+    "exp": "Art. 67.2 RD 500/1990: «El acto administrativo que acumule dos o más fases producirá los mismos efectos que si dichas fases se acordaran en actos administrativos separados».",
+    "fuente": "Art. 67.2 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 68.2 del RD 500/1990, cuando se acumulen varias fases de ejecución del gasto en un solo acto administrativo, el órgano o la autoridad que adopte el acuerdo deberá tener competencia:",
+    "options": [
+      "originaria, delegada o desconcentrada, para acordar todas y cada una de las fases que en aquél se incluyan.",
+      "originaria y no delegada, para acordar la primera de las fases acumuladas.",
+      "exclusivamente originaria, para acordar la totalidad de las fases acumuladas.",
+      "para acordar, al menos, la última de las fases que en aquél se incluyan."
+    ],
+    "correct": 0,
+    "exp": "Art. 68.2 RD 500/1990: «En cualquier caso, el Órgano o la Autoridad que adopte el acuerdo deberá tener competencia, originaria, delegada o desconcentrada, para acordar todas y cada una de las fases que en aquél se incluyan». El apartado 1 obliga a fijar en las bases de ejecución los supuestos de acumulación, atendiendo a la naturaleza de los gastos y a criterios de economía y agilidad administrativa.",
+    "fuente": "Art. 68.2 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 73.2 del RD 500/1990, tendrán la consideración de anticipos de caja fija:",
+    "options": [
+      "las órdenes de pago cuyos documentos justificativos no se puedan acompañar en el momento de su expedición.",
+      "las provisiones de fondos de carácter presupuestario y ocasional destinadas a atender gastos de inversión de escasa cuantía.",
+      "los fondos librados a las sociedades mercantiles municipales para financiar sus programas anuales de actuación.",
+      "las provisiones de fondos de carácter no presupuestario y permanente que se realicen a pagadurías, cajas y habilitaciones para la atención inmediata y posterior aplicación al presupuesto del año en que se realicen, de las atenciones corrientes de carácter periódico o repetitivo."
+    ],
+    "correct": 3,
+    "exp": "Art. 73.2 RD 500/1990, en relación con el apartado 1 (dietas, gastos de locomoción, material de oficina no inventariable, conservación y otros de similares características). La calificación de los anticipos de caja fija como provisiones de fondos «de carácter no presupuestario y permanente» es una precisión del reglamento que no figura en el art. 190.3 TRLRHL. La opción A define las órdenes de pago «a justificar» (art. 69.1).",
+    "fuente": "Art. 73.1 y 73.2 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 77 del RD 500/1990, tendrán la consideración de reintegros de presupuesto corriente aquellos en los que:",
+    "options": [
+      "el reintegro se produce en ejercicio distinto de aquel en que se reconoció la obligación.",
+      "el reconocimiento de la obligación, el pago material y el reintegro se producen en el mismo ejercicio presupuestario.",
+      "el reconocimiento de la obligación se produjo en el ejercicio anterior y el pago material en el corriente.",
+      "el reintegro se aplica a la agrupación de presupuestos cerrados."
+    ],
+    "correct": 1,
+    "exp": "Art. 77.1 RD 500/1990. El apartado 2 define, por contraste, los reintegros de ejercicios cerrados como los que se producen en ejercicio distinto de aquel en que se reconoció la obligación (opción A). Sus efectos difieren: los de presupuesto corriente pueden reponer crédito, mientras que los de ejercicios cerrados constituyen un recurso del presupuesto de ingresos (art. 78).",
+    "fuente": "Art. 77.1 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 85.1 del RD 500/1990, la gestión de los gastos de carácter plurianual se realizará en las siguientes fases:",
+    "options": [
+      "autorización del gasto, disposición o compromiso del gasto y reconocimiento de la obligación.",
+      "autorización del gasto y reconocimiento y liquidación de la obligación.",
+      "autorización del gasto y disposición o compromiso del gasto.",
+      "retención de crédito y autorización del gasto."
+    ],
+    "correct": 2,
+    "exp": "Art. 85.1 RD 500/1990: «a) Autorización del gasto. b) Disposición o compromiso del gasto». Solo dos fases, frente a las cuatro del gasto del ejercicio corriente (art. 52). El apartado 2 precisa que su contenido y definición es el mismo que el de sus fases correlativas y que, con carácter general, serán simultáneas a éstas; el apartado 3 permite acumularlas en un solo acto administrativo.",
+    "fuente": "Art. 85.1 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 88.1 del RD 500/1990, la autorización y disposición de los gastos plurianuales corresponde:",
+    "options": [
+      "al Pleno de la entidad.",
+      "al Presidente de la entidad, en todo caso.",
+      "al Interventor, previa certificación de los límites cuantitativos.",
+      "al órgano competente en función de la cuantía del gasto imputable al ejercicio corriente."
+    ],
+    "correct": 0,
+    "exp": "Art. 88.1 RD 500/1990: «Corresponde la autorización y disposición de los gastos plurianuales al Pleno de la Entidad», si bien el apartado 2 permite al Pleno delegar dicha competencia de acuerdo con la normativa vigente. Previamente, el art. 86 exige que el Interventor certifique que no se superan los límites cuantitativos de los arts. 82 y, en su caso, 84.",
+    "fuente": "Art. 88.1 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 98.2 del RD 500/1990, integran los remanentes de crédito los saldos de disposiciones, los saldos de autorizaciones y los saldos de crédito. Los «saldos de autorizaciones» son:",
+    "options": [
+      "la diferencia entre los gastos dispuestos o comprometidos y las obligaciones reconocidas.",
+      "la suma de los créditos disponibles, créditos no disponibles y créditos retenidos pendientes de utilizar.",
+      "la diferencia entre los créditos definitivos y los gastos autorizados.",
+      "la diferencia entre los gastos autorizados y los gastos comprometidos."
+    ],
+    "correct": 3,
+    "exp": "Art. 98.2 b) RD 500/1990: los saldos de autorizaciones son «la diferencia entre los gastos autorizados y los gastos comprometidos». La opción A corresponde a los saldos de disposiciones (letra a) y la B a los saldos de crédito (letra c). El desglose de los componentes del remanente de crédito es aportación exclusiva del reglamento.",
+    "fuente": "Art. 98.2 b) RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 104.4 del RD 500/1990, el remanente de tesorería:",
+    "options": [
+      "forma parte de las previsiones iniciales de ingresos y puede financiar los créditos iniciales del presupuesto de gastos.",
+      "en ningún caso formará parte de las previsiones iniciales de ingresos ni podrá financiar, en consecuencia, los créditos iniciales del presupuesto de gastos.",
+      "forma parte de las previsiones iniciales de ingresos, aunque no puede financiar créditos de personal.",
+      "solo puede integrarse en las previsiones iniciales de ingresos cuando resulte negativo."
+    ],
+    "correct": 1,
+    "exp": "Art. 104.4 RD 500/1990, literalmente. El remanente de tesorería positivo es un recurso para financiar modificaciones de crédito (apartado 2), y su utilización a tal fin no da lugar al reconocimiento ni a la liquidación de derechos presupuestarios (apartado 5). El remanente líquido de tesorería es el que resulta de deducir del inicial las cuantías ya destinadas a financiar modificaciones de crédito (apartado 3).",
+    "fuente": "Art. 104.4 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  }
+]);
+
+/* tema 14 · lote 2026-08-21 · 3 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 14, [
+  {
+    "q": "Según el art. 11.1.g) de la Ley 10/2017, la determinación de los recursos propios de carácter tributario del municipio de Zaragoza corresponde:",
+    "options": [
+      "Al Pleno, tratándose además de una atribución no delegable conforme al art. 11.3",
+      "Al Gobierno de Zaragoza, como parte del desarrollo de la gestión económica",
+      "Al Alcalde, mediante decreto sujeto a ratificación plenaria",
+      "A la Comisión plenaria competente en materia de hacienda, por delegación permanente del Pleno"
+    ],
+    "correct": 0,
+    "exp": "El art. 11.1.g) atribuye al Pleno la determinación de los recursos propios de carácter tributario, y el art. 11.3 incluye la letra g) entre las competencias que no pueden ser objeto de delegación.",
+    "fuente": "Art. 11.1 g) y 11.3 Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 14.1.h) de la Ley 10/2017, corresponde al Gobierno de Zaragoza, en materia económica:",
+    "options": [
+      "Aprobar los presupuestos y autorizar los gastos en las materias de competencia del Pleno",
+      "Aprobar la cuenta general y fiscalizar la ejecución del presupuesto",
+      "Determinar los recursos propios de carácter tributario y aprobar las ordenanzas fiscales",
+      "El desarrollo de la gestión económica, autorizar y disponer gastos en materia de su competencia, disponer gastos previamente autorizados por el Pleno y la gestión del personal"
+    ],
+    "correct": 3,
+    "exp": "El art. 14.1.h) atribuye al Gobierno de Zaragoza el desarrollo de la gestión económica, la autorización y disposición de gastos en materia de su competencia, la disposición de gastos previamente autorizados por el Pleno y la gestión del personal.",
+    "fuente": "Art. 14.1 h) Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 14.2 de la Ley 10/2017, la atribución del Gobierno de Zaragoza relativa al desarrollo de la gestión económica y a la autorización y disposición de gastos (art. 14.1.h):",
+    "options": [
+      "Puede delegarse o desconcentrarse, entre otros, en alguno de sus miembros, en los demás Concejales, en los órganos directivos, en las gerencias y en los órganos de los distritos",
+      "No puede delegarse ni desconcentrarse en ningún caso",
+      "Solo puede delegarse en el Alcalde",
+      "Solo puede delegarse previa autorización del Consejo Bilateral de Capitalidad"
+    ],
+    "correct": 0,
+    "exp": "El art. 14.2 incluye la letra h) del apartado 1 entre las funciones que el Gobierno de Zaragoza puede delegar o desconcentrar en alguno de sus miembros, en los demás Concejales, en los órganos directivos, en las gerencias y en los órganos de los distritos.",
+    "fuente": "Art. 14.2 Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  }
+]);

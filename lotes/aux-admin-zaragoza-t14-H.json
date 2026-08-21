@@ -1,0 +1,51 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 14,
+  "preguntas": [
+    {
+      "q": "Según el art. 11.1.g) de la Ley 10/2017, la determinación de los recursos propios de carácter tributario del municipio de Zaragoza corresponde:",
+      "options": [
+        "Al Pleno, tratándose además de una atribución no delegable conforme al art. 11.3",
+        "Al Gobierno de Zaragoza, como parte del desarrollo de la gestión económica",
+        "Al Alcalde, mediante decreto sujeto a ratificación plenaria",
+        "A la Comisión plenaria competente en materia de hacienda, por delegación permanente del Pleno"
+      ],
+      "correct": 0,
+      "exp": "El art. 11.1.g) atribuye al Pleno la determinación de los recursos propios de carácter tributario, y el art. 11.3 incluye la letra g) entre las competencias que no pueden ser objeto de delegación.",
+      "fuente": "Art. 11.1 g) y 11.3 Ley 10/2017 (capitalidad de Zaragoza)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Contenido correcto y verificado (art. 11.1.g) atribuye al Pleno «la determinación de los recursos propios de carácter tributario» y el art. 11.3 incluye la letra g) entre las indelegables), pero está FUERA del epígrafe del tema 13, cuya cláusula de capitalidad es solo «La aprobación del presupuesto municipal en la ley de capitalidad de Zaragoza» (Anexo I de las bases, CONV 4/2026). Los recursos propios de carácter tributario no son aprobación del presupuesto: material de los temas 12 y 16. Reutilizable tal cual si se decide ampliar esos temas. — Reasignada al tema 14 por mí: los arts. 11 y 14 están en el Capítulo II de la Ley 10/2017, «Especialidades en materia de organización», que es literalmente lo que el epígrafe del tema 14 de las bases CONV 4/2026 recoge de esta ley."
+    },
+    {
+      "q": "Según el art. 14.1.h) de la Ley 10/2017, corresponde al Gobierno de Zaragoza, en materia económica:",
+      "options": [
+        "Aprobar los presupuestos y autorizar los gastos en las materias de competencia del Pleno",
+        "Aprobar la cuenta general y fiscalizar la ejecución del presupuesto",
+        "Determinar los recursos propios de carácter tributario y aprobar las ordenanzas fiscales",
+        "El desarrollo de la gestión económica, autorizar y disponer gastos en materia de su competencia, disponer gastos previamente autorizados por el Pleno y la gestión del personal"
+      ],
+      "correct": 3,
+      "exp": "El art. 14.1.h) atribuye al Gobierno de Zaragoza el desarrollo de la gestión económica, la autorización y disposición de gastos en materia de su competencia, la disposición de gastos previamente autorizados por el Pleno y la gestión del personal.",
+      "fuente": "Art. 14.1 h) Ley 10/2017 (capitalidad de Zaragoza)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Contenido correcto y verificado literal (art. 14.1.h): «El desarrollo de la gestión económica, autorizar y disponer gastos en materia de su competencia, disponer gastos previamente autorizados por el Pleno y la gestión del personal». Pero es ejecución presupuestaria y gestión de personal, no aprobación del presupuesto: fuera de la cláusula de capitalidad del tema 13, que se limita a la aprobación. Encaja en el tema 14 («especialidades en materia de organización»). Salvable por reasignación de tema, no por corrección. — Reasignada al tema 14 por mí: los arts. 11 y 14 están en el Capítulo II de la Ley 10/2017, «Especialidades en materia de organización», que es literalmente lo que el epígrafe del tema 14 de las bases CONV 4/2026 recoge de esta ley."
+    },
+    {
+      "q": "Conforme al art. 14.2 de la Ley 10/2017, la atribución del Gobierno de Zaragoza relativa al desarrollo de la gestión económica y a la autorización y disposición de gastos (art. 14.1.h):",
+      "options": [
+        "Puede delegarse o desconcentrarse, entre otros, en alguno de sus miembros, en los demás Concejales, en los órganos directivos, en las gerencias y en los órganos de los distritos",
+        "No puede delegarse ni desconcentrarse en ningún caso",
+        "Solo puede delegarse en el Alcalde",
+        "Solo puede delegarse previa autorización del Consejo Bilateral de Capitalidad"
+      ],
+      "correct": 0,
+      "exp": "El art. 14.2 incluye la letra h) del apartado 1 entre las funciones que el Gobierno de Zaragoza puede delegar o desconcentrar en alguno de sus miembros, en los demás Concejales, en los órganos directivos, en las gerencias y en los órganos de los distritos.",
+      "fuente": "Art. 14.2 Ley 10/2017 (capitalidad de Zaragoza)",
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Contenido correcto y verificado (el art. 14.2 incluye la letra h) entre las funciones delegables o desconcentrables «en alguno de sus miembros, en los demás Concejales, en los órganos directivos, en las gerencias y en los órganos de los distritos»). Pero lo que se pregunta es el régimen de delegación y desconcentración del Gobierno de Zaragoza, materia de organización (tema 14), no la aprobación del presupuesto. Fuera del epígrafe del tema 13. — Reasignada al tema 14 por mí: los arts. 11 y 14 están en el Capítulo II de la Ley 10/2017, «Especialidades en materia de organización», que es literalmente lo que el epígrafe del tema 14 de las bases CONV 4/2026 recoge de esta ley."
+    }
+  ]
+}

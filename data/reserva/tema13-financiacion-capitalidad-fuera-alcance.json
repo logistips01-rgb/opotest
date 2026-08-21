@@ -1,0 +1,106 @@
+{
+  "origen": "lotes/aux-admin-zaragoza-t13-F.json (lote de agosto de 2026)",
+  "motivo": "Arts. 56 a 59 de la Ley 10/2017, Capítulo VII «Especialidades del régimen de financiación». Ese capítulo no figura en ningún epígrafe del temario de Auxiliar Administrativo: las bases CONV 4/2026 solo llaman a la ley de capitalidad en el tema 13 («La aprobación del presupuesto municipal»), el 14 («disposiciones generales y especialidades en materia de organización») y el 16 («aprobación de ordenanzas, ordenanzas fiscales y Reglamentos»). Financiación autonómica de la capitalidad, Convenio bilateral económico-financiero, competencias delegadas y pago y compensación de deudas no entran por ninguna de las tres puertas.",
+  "verificadas": "Sí. El revisor comprobó las 7 contra el consolidado BOE-A-2018-1683 y las 7 son correctas: se archivan por alcance, no por error. Sirven tal cual si algún día el temario incorpora la financiación de la capitalidad.",
+  "fecha": "2026-08-21",
+  "preguntas": [
+    {
+      "q": "Según el art. 56.3 de la Ley 10/2017, toda iniciativa de la Comunidad Autónoma que pudiera determinar la reducción de sus ingresos no financieros habrá de incluir un análisis sobre el impacto en la financiación local y, en particular:",
+      "options": [
+        "Ser autorizada por las Cortes de Aragón por mayoría absoluta",
+        "Ser compensada íntegramente en el ejercicio siguiente al Ayuntamiento de Zaragoza",
+        "Ser sometida a dictamen del Consejo Jurídico Municipal de Zaragoza",
+        "Deberá someterse a informe del Ayuntamiento de Zaragoza"
+      ],
+      "correct": 3,
+      "exp": "El art. 56.3, tras vincular la participación de los entes locales aragoneses a la evolución de los ingresos no financieros de la Comunidad Autónoma, exige que toda iniciativa que pudiera reducirlos incluya un análisis de impacto en la financiación local y se someta a informe del Ayuntamiento de Zaragoza.",
+      "fuente": "Art. 56.3 Ley 10/2017 (capitalidad de Zaragoza)",
+      "confianza": "alta",
+      "motivoArchivo": "Contenido correcto y verificado literal (art. 56.3: «Toda iniciativa de la Comunidad Autónoma que pudiera determinar la reducción de tales ingresos habrá de incluir un análisis sobre el impacto en la financiación local y, en particular, deberá someterse a informe del Ayuntamiento de Zaragoza»). Pero el art. 56 está en el Capítulo de financiación de la capitalidad, que no figura en NINGÚN epígrafe del temario de Auxiliar Administrativo (temas 13, 14 y 16 son los únicos que citan la ley de capitalidad, y ninguno menciona la financiación). Fuera de alcance."
+    },
+    {
+      "q": "Según el art. 57.1 de la Ley 10/2017, el Convenio bilateral económico-financiero se suscribe previo informe del Consejo Bilateral de Capitalidad y fija el importe de determinadas asignaciones, que:",
+      "options": [
+        "Se incluirán en el Proyecto de Ley de presupuestos de la Comunidad Autónoma de Aragón",
+        "Se incluirán en el presupuesto del Ayuntamiento de Zaragoza como ingresos afectados",
+        "Se librarán mediante anticipos de la Diputación Provincial de Zaragoza",
+        "Se determinarán anualmente por el Pleno del Ayuntamiento de Zaragoza"
+      ],
+      "correct": 0,
+      "exp": "El art. 57.1 establece que las asignaciones fijadas en el Convenio bilateral económico-financiero se incluirán en el Proyecto de Ley de presupuestos de la Comunidad Autónoma de Aragón, y que el Convenio se suscribe previo informe del Consejo Bilateral de Capitalidad.",
+      "fuente": "Art. 57.1 Ley 10/2017 (capitalidad de Zaragoza)",
+      "confianza": "alta",
+      "motivoArchivo": "Contenido correcto y verificado literal (art. 57.1: previo informe del Consejo Bilateral de Capitalidad, y «Dichas asignaciones se incluirán en el Proyecto de Ley de presupuestos de la Comunidad Autónoma de Aragón»). Fuera del epígrafe del tema 13: se refiere al presupuesto de la Comunidad Autónoma y a la financiación autonómica de Zaragoza, no a la aprobación del presupuesto municipal. Discrepo aquí del encargo, que daba el art. 57 por concordancia en alcance."
+    },
+    {
+      "q": "Conforme al art. 57.2 de la Ley 10/2017, las asignaciones fijadas en el Convenio bilateral económico-financiero entre el Gobierno de Aragón y el Ayuntamiento de Zaragoza tendrán la consideración de:",
+      "options": [
+        "Subvenciones nominativas sujetas a justificación de su destino",
+        "Transferencias de capital afectadas a inversión",
+        "Fondos incondicionados",
+        "Anticipos reintegrables a cuenta de la liquidación del ejercicio"
+      ],
+      "correct": 2,
+      "exp": "El art. 57.2 dispone expresamente que las asignaciones a que se refiere el apartado 1 tendrán la consideración de fondos incondicionados.",
+      "fuente": "Art. 57.2 Ley 10/2017 (capitalidad de Zaragoza)",
+      "confianza": "alta",
+      "motivoArchivo": "Contenido correcto y verificado literal (art. 57.2: «Las asignaciones a las que se refiere el apartado 1 tendrán la consideración de fondos incondicionados»). Fuera del epígrafe del tema 13 por la misma razón que la pregunta 19."
+    },
+    {
+      "q": "Según el art. 57.3 de la Ley 10/2017, el Convenio bilateral económico-financiero entre el Gobierno de Aragón y el Ayuntamiento de Zaragoza tendrá una vigencia mínima de:",
+      "options": [
+        "Un año, coincidente con el ejercicio presupuestario",
+        "Cuatro años",
+        "Dos años, prorrogables por otros dos",
+        "Toda la legislatura autonómica, sin plazo mínimo predeterminado"
+      ],
+      "correct": 1,
+      "exp": "El art. 57.3 fija una vigencia mínima de cuatro años para el Convenio bilateral económico-financiero, que podrá modificarse cuando se produzcan circunstancias que, a juicio del Consejo Bilateral de Capitalidad, alteren sustancialmente los supuestos básicos en que se funda.",
+      "fuente": "Art. 57.3 Ley 10/2017 (capitalidad de Zaragoza)",
+      "confianza": "alta",
+      "motivoArchivo": "Contenido correcto y verificado (art. 57.3: «vigencia mínima de cuatro años, y se podrá modificar cuando se produzcan circunstancias que, a juicio del Consejo Bilateral de Capitalidad, alteren de forma sustancial los supuestos básicos en los que se funda»; la exp parafrasea correctamente). Fuera del epígrafe del tema 13."
+    },
+    {
+      "q": "Según el art. 58.4 de la Ley 10/2017, la delegación de competencias entre el Gobierno de Aragón y el Ayuntamiento de Zaragoza habrá de ir acompañada en todo caso de la correspondiente financiación, de modo que:",
+      "options": [
+        "Podrá aceptarse sin dotación presupuestaria, si la Administración delegada asume transitoriamente el coste",
+        "La falta de dotación presupuestaria solo faculta para instar la revisión del convenio",
+        "Bastará con que la dotación se consigne en el presupuesto del ejercicio siguiente al de la delegación",
+        "Será nula sin la existencia de dotación presupuestaria adecuada y suficiente en los presupuestos de la Administración delegante o sus entidades dependientes para cada ejercicio económico"
+      ],
+      "correct": 3,
+      "exp": "El art. 58.4 exige dotación presupuestaria adecuada y suficiente en los presupuestos de la Administración delegante o sus entidades dependientes para cada ejercicio económico, «siendo nula sin dicha dotación», y faculta a la delegada para compensar automáticamente los incumplimientos financieros.",
+      "fuente": "Art. 58.4 Ley 10/2017 (capitalidad de Zaragoza)",
+      "confianza": "alta",
+      "motivoArchivo": "Contenido correcto y verificado literal (art. 58.4: «será necesaria la existencia de dotación presupuestaria adecuada y suficiente en los presupuestos de la Administración delegante o sus entidades dependientes para cada ejercicio económico, siendo nula sin dicha dotación», más la compensación automática del párrafo segundo). Pero se refiere al presupuesto de la Administración delegante y a la delegación de competencias, no a la aprobación del presupuesto municipal de Zaragoza. Fuera de alcance del tema 13."
+    },
+    {
+      "q": "Según el art. 59.1 de la Ley 10/2017, y salvo que existan previsiones o acuerdos específicos, las asignaciones a que se refieren los artículos anteriores se abonarán al Ayuntamiento de Zaragoza:",
+      "options": [
+        "Trimestralmente",
+        "Mensualmente, por doceavas partes",
+        "Semestralmente",
+        "En un único pago anual, dentro del primer trimestre del ejercicio"
+      ],
+      "correct": 0,
+      "exp": "El art. 59.1 establece el abono trimestral de las asignaciones al Ayuntamiento de Zaragoza, salvo que existan previsiones o acuerdos específicos.",
+      "fuente": "Art. 59.1 Ley 10/2017 (capitalidad de Zaragoza)",
+      "confianza": "alta",
+      "motivoArchivo": "Contenido correcto y verificado literal (art. 59.1: «se abonarán al Ayuntamiento de Zaragoza trimestralmente, salvo que existan previsiones o acuerdos específicos»). Procedimiento de pago de las asignaciones autonómicas: fuera del epígrafe del tema 13."
+    },
+    {
+      "q": "Conforme al art. 59.2 de la Ley 10/2017, la compensación de oficio por el Gobierno de Aragón de estos créditos con otras cantidades que el Ayuntamiento de Zaragoza le adeude, tratándose de deudas vencidas, líquidas y exigibles, se llevará a cabo:",
+      "options": [
+        "En cualquier momento del ejercicio, sin trámite previo alguno",
+        "En el primer trimestre del ejercicio siguiente, previa autorización de las Cortes de Aragón",
+        "En el último trimestre de cada ejercicio, previa audiencia al Ayuntamiento de Zaragoza y previo acuerdo del Consejo Bilateral de Capitalidad",
+        "Al cierre de cada trimestre natural, con simple comunicación posterior al Ayuntamiento"
+      ],
+      "correct": 2,
+      "exp": "El art. 59.2 permite al Gobierno de Aragón compensar de oficio estos créditos previa audiencia al Ayuntamiento de Zaragoza, siempre que se trate de deudas vencidas, líquidas y exigibles, y precisa que la compensación se llevará a cabo en el último trimestre de cada ejercicio y previo acuerdo del Consejo Bilateral de Capitalidad.",
+      "fuente": "Art. 59.2 Ley 10/2017 (capitalidad de Zaragoza)",
+      "confianza": "alta",
+      "motivoArchivo": "Contenido correcto y verificado literal (art. 59.2: compensación de oficio previa audiencia al Ayuntamiento, deudas vencidas, líquidas y exigibles, «en el último trimestre de cada ejercicio y previo acuerdo del Consejo Bilateral de Capitalidad»). Compensación de deudas con la Comunidad Autónoma: fuera del epígrafe del tema 13."
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+[
+  {
+    "i": 0,
+    "veredicto": "CONFIRMADA",
+    "nota": "Encabezamiento del art. 50 verificado literal en el consolidado (BOE-A-2018-1683): «El presupuesto general se tramitará conforme al procedimiento regulado en el artículo 48 de esta Ley, de acuerdo con las siguientes especialidades», seguido de las letras a) a f). Rúbricas de los arts. 48, 49, 51 y 57 comprobadas: los tres distractores son falsos (el 49 además añade «sin especialidad alguna», doblemente falso)."
+  },
+  {
+    "i": 1,
+    "veredicto": "CONFIRMADA",
+    "nota": "Art. 50.a): «La iniciativa para la aprobación del proyecto de presupuesto general corresponde al Gobierno de Zaragoza». La equivalencia Gobierno de Zaragoza = Junta de Gobierno Local que afirma la exp está en la disposición adicional segunda, verificada. El distractor del Alcalde que «forma el presupuesto general y lo remite informado por la Intervención» es literalmente el art. 168.4 TRLRHL, correctamente identificado como régimen general."
+  },
+  {
+    "i": 2,
+    "veredicto": "CONFIRMADA",
+    "nota": "Art. 50.b): «durante un período de quince días». Correcta la opción 3. Verificado también el contraste que hace la exp: los treinta días naturales son del art. 48.3.b) (ordenanzas y Reglamentos). Aviso: ese plazo de quince días coincide con el del art. 169.1 TRLRHL, pero la pregunta no atribuye exclusividad a la Ley 10/2017, así que no hay error."
+  },
+  {
+    "i": 3,
+    "veredicto": "CONFIRMADA",
+    "nota": "Art. 50.b) literal: «los interesados podrán examinarlo y presentar reclamaciones» (sin «y sugerencias», que es la fórmula del art. 48.3.b), comprobada). Las enmiendas son de los Concejales (art. 48.5), no de los interesados: el distractor 0 es inequívocamente falso."
+  },
+  {
+    "i": 4,
+    "veredicto": "CONFIRMADA",
+    "nota": "Art. 50.b): «previo anuncio en el boletín oficial correspondiente», sin más medios. Verificados los dos contrastes de la exp: art. 48.3.b) añade «y en el tablón de anuncios municipal»; art. 49.b) añade «en el tablón de anuncios y en la sede electrónica municipal». Como el art. 50.b) reformula íntegramente el trámite de publicidad, desplaza al 48.3.b) y no hay segunda opción defendible."
+  },
+  {
+    "i": 5,
+    "veredicto": "CORREGIDA",
+    "nota": "La respuesta marcada es correcta: el art. 50 no fija fecha límite de aprobación definitiva (letras verificadas: a iniciativa, b quince días, c remisión al Pleno antes del día quince de octubre, d enmiendas de ingresos, e enmiendas de gastos, f entrada en vigor y prórroga automática). Pero la exp, tal como estaba, puede hacer creer que no existe ninguna fecha límite: el art. 169.2 TRLRHL sí la fija (antes del 31 de diciembre) y sigue siendo aplicable, porque el art. 50 solo introduce «especialidades» y el art. 54 de la propia Ley 10/2017 actúa «sin perjuicio del modelo de financiación local establecido en la legislación reguladora de las haciendas locales». Se precisa exp y fuente.",
+    "correccion": {
+      "exp": "El art. 50 fija la remisión al Pleno antes del día quince de octubre (letra c), el período de exposición pública de quince días (letra b) y la prórroga automática del presupuesto anterior (letra f), pero no establece ninguna fecha límite para la aprobación definitiva por el Pleno. Ojo: eso no significa que no exista tal fecha, sino que no está en el art. 50: la fija el art. 169.2 TRLRHL (antes del día 31 de diciembre del año anterior al del ejercicio en que deba aplicarse), aplicable porque el art. 50 solo introduce «especialidades» sobre el régimen general.",
+      "fuente": "Art. 50 b), c) y f) Ley 10/2017 (capitalidad de Zaragoza); cf. art. 169.2 TRLRHL"
+    }
+  },
+  {
+    "i": 6,
+    "veredicto": "CONFIRMADA",
+    "nota": "Art. 50.d) literal: «Las enmiendas que supongan modificación de ingresos requerirán, para su tramitación, la conformidad del Gobierno de Zaragoza». Ni la Intervención, ni el Consejo Jurídico Municipal (art. 17), ni el Consejo Bilateral de Capitalidad (arts. 20-22) aparecen en el art. 50: los tres distractores son falsos."
+  },
+  {
+    "i": 7,
+    "veredicto": "CONFIRMADA",
+    "nota": "Art. 50.d) se refiere a las enmiendas «que supongan modificación de ingresos», sin restringirlo a las que los disminuyan. Verificado el contraste de la exp con el art. 48.6, que sí habla de «aumento de los créditos o disminución de los ingresos presupuestarios del ejercicio económico en curso»: la cita es exacta."
+  },
+  {
+    "i": 8,
+    "veredicto": "CONFIRMADA",
+    "nota": "Art. 50.e) literal: «deberán presentarse compensando los incrementos y minoraciones de créditos dentro de la misma área de gobierno y misma naturaleza del gasto». Coincide palabra por palabra con la opción 2."
+  },
+  {
+    "i": 9,
+    "veredicto": "CONFIRMADA",
+    "nota": "Supuesto práctico bien construido sobre el art. 50.e): la compensación entre áreas de gobierno distintas incumple el primero de los dos requisitos acumulativos (misma área de gobierno Y misma naturaleza del gasto), por lo que el respeto de la naturaleza del gasto (distractor 2) no salva la enmienda. Una sola opción defendible."
+  },
+  {
+    "i": 10,
+    "veredicto": "CONFIRMADA",
+    "nota": "Art. 50.f) primera frase: «El presupuesto entrará en vigor para el ejercicio económico correspondiente, tras su publicación oficial». La opción 3 lo reproduce. Los tres distractores (1 de enero sin publicar, quince días desde la aprobación, decreto de ejecutividad) no tienen apoyo en el texto."
+  },
+  {
+    "i": 11,
+    "veredicto": "CONFIRMADA",
+    "nota": "Art. 50.f) segunda frase: «Si el presupuesto correspondiente no hubiera entrado en vigor una vez iniciado el ejercicio económico, se considerará automáticamente prorrogado el del ejercicio anterior». Correcta la opción 1; ni el presupuesto provisional por doceavas partes ni la autorización del Gobierno de Aragón figuran en la Ley."
+  },
+  {
+    "i": 12,
+    "veredicto": "CONFIRMADA",
+    "nota": "Art. 11.1.h) literal: «La aprobación de los presupuestos y de la cuenta general del ejercicio correspondiente, de la plantilla de personal, así como la autorización de gastos en las materias de su competencia». La opción 2 lo reproduce íntegro. Verificado que los tres distractores son competencias del Gobierno de Zaragoza: proyecto de presupuesto (14.1.b), gestión económica y disposición de gastos previamente autorizados (14.1.h), RPT, retribuciones y oferta de empleo público (14.1.i). Dentro del epígrafe: el órgano que aprueba el presupuesto es núcleo de «la aprobación del presupuesto municipal en la ley de capitalidad»."
+  },
+  {
+    "i": 13,
+    "veredicto": "CONFIRMADA",
+    "nota": "Art. 11.3 verificado literal: no son delegables las letras «a), b), c), e), f), g), h), i), j), m), ñ) y q) del apartado 1», la enumeración de la exp es exacta y la h) está incluida. Los distractores son falsos: la delegación en Comisiones del Pleno solo alcanza a d), k), l), n), o) y p), y la delegación en el Alcalde y en el Gobierno de Zaragoza solo a la letra r)."
+  },
+  {
+    "i": 14,
+    "veredicto": "DESCARTADA",
+    "nota": "Contenido correcto y verificado (art. 11.1.g) atribuye al Pleno «la determinación de los recursos propios de carácter tributario» y el art. 11.3 incluye la letra g) entre las indelegables), pero está FUERA del epígrafe del tema 13, cuya cláusula de capitalidad es solo «La aprobación del presupuesto municipal en la ley de capitalidad de Zaragoza» (Anexo I de las bases, CONV 4/2026). Los recursos propios de carácter tributario no son aprobación del presupuesto: material de los temas 12 y 16. Reutilizable tal cual si se decide ampliar esos temas."
+  },
+  {
+    "i": 15,
+    "veredicto": "CONFIRMADA",
+    "nota": "Art. 14.1.b) literal: «La aprobación del proyecto de presupuesto». Verificado que los tres distractores corresponden al Pleno: cuenta general y plantilla de personal (11.1.h), recursos propios de carácter tributario (11.1.g). Ojo: el art. 14.1.i) sí atribuye al Gobierno la RPT, pero NO la plantilla, que es del Pleno, por lo que el distractor 3 es inequívocamente falso. Dentro del epígrafe por la misma razón que la pregunta 12."
+  },
+  {
+    "i": 16,
+    "veredicto": "DESCARTADA",
+    "nota": "Contenido correcto y verificado literal (art. 14.1.h): «El desarrollo de la gestión económica, autorizar y disponer gastos en materia de su competencia, disponer gastos previamente autorizados por el Pleno y la gestión del personal». Pero es ejecución presupuestaria y gestión de personal, no aprobación del presupuesto: fuera de la cláusula de capitalidad del tema 13, que se limita a la aprobación. Encaja en el tema 14 («especialidades en materia de organización»). Salvable por reasignación de tema, no por corrección."
+  },
+  {
+    "i": 17,
+    "veredicto": "DESCARTADA",
+    "nota": "Contenido correcto y verificado (el art. 14.2 incluye la letra h) entre las funciones delegables o desconcentrables «en alguno de sus miembros, en los demás Concejales, en los órganos directivos, en las gerencias y en los órganos de los distritos»). Pero lo que se pregunta es el régimen de delegación y desconcentración del Gobierno de Zaragoza, materia de organización (tema 14), no la aprobación del presupuesto. Fuera del epígrafe del tema 13."
+  },
+  {
+    "i": 18,
+    "veredicto": "DESCARTADA",
+    "nota": "Contenido correcto y verificado literal (art. 56.3: «Toda iniciativa de la Comunidad Autónoma que pudiera determinar la reducción de tales ingresos habrá de incluir un análisis sobre el impacto en la financiación local y, en particular, deberá someterse a informe del Ayuntamiento de Zaragoza»). Pero el art. 56 está en el Capítulo de financiación de la capitalidad, que no figura en NINGÚN epígrafe del temario de Auxiliar Administrativo (temas 13, 14 y 16 son los únicos que citan la ley de capitalidad, y ninguno menciona la financiación). Fuera de alcance."
+  },
+  {
+    "i": 19,
+    "veredicto": "DESCARTADA",
+    "nota": "Contenido correcto y verificado literal (art. 57.1: previo informe del Consejo Bilateral de Capitalidad, y «Dichas asignaciones se incluirán en el Proyecto de Ley de presupuestos de la Comunidad Autónoma de Aragón»). Fuera del epígrafe del tema 13: se refiere al presupuesto de la Comunidad Autónoma y a la financiación autonómica de Zaragoza, no a la aprobación del presupuesto municipal. Discrepo aquí del encargo, que daba el art. 57 por concordancia en alcance."
+  },
+  {
+    "i": 20,
+    "veredicto": "DESCARTADA",
+    "nota": "Contenido correcto y verificado literal (art. 57.2: «Las asignaciones a las que se refiere el apartado 1 tendrán la consideración de fondos incondicionados»). Fuera del epígrafe del tema 13 por la misma razón que la pregunta 19."
+  },
+  {
+    "i": 21,
+    "veredicto": "DESCARTADA",
+    "nota": "Contenido correcto y verificado (art. 57.3: «vigencia mínima de cuatro años, y se podrá modificar cuando se produzcan circunstancias que, a juicio del Consejo Bilateral de Capitalidad, alteren de forma sustancial los supuestos básicos en los que se funda»; la exp parafrasea correctamente). Fuera del epígrafe del tema 13."
+  },
+  {
+    "i": 22,
+    "veredicto": "DESCARTADA",
+    "nota": "Contenido correcto y verificado literal (art. 58.4: «será necesaria la existencia de dotación presupuestaria adecuada y suficiente en los presupuestos de la Administración delegante o sus entidades dependientes para cada ejercicio económico, siendo nula sin dicha dotación», más la compensación automática del párrafo segundo). Pero se refiere al presupuesto de la Administración delegante y a la delegación de competencias, no a la aprobación del presupuesto municipal de Zaragoza. Fuera de alcance del tema 13."
+  },
+  {
+    "i": 23,
+    "veredicto": "DESCARTADA",
+    "nota": "Contenido correcto y verificado literal (art. 59.1: «se abonarán al Ayuntamiento de Zaragoza trimestralmente, salvo que existan previsiones o acuerdos específicos»). Procedimiento de pago de las asignaciones autonómicas: fuera del epígrafe del tema 13."
+  },
+  {
+    "i": 24,
+    "veredicto": "DESCARTADA",
+    "nota": "Contenido correcto y verificado literal (art. 59.2: compensación de oficio previa audiencia al Ayuntamiento, deudas vencidas, líquidas y exigibles, «en el último trimestre de cada ejercicio y previo acuerdo del Consejo Bilateral de Capitalidad»). Compensación de deudas con la Comunidad Autónoma: fuera del epígrafe del tema 13."
+  }
+]
