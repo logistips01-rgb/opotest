@@ -1505,7 +1505,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El Capítulo I ('Disposiciones generales') de la Ley 4/2007 comprende los artículos 1 a 4.",
-    "fuente": "Capítulo I LOIEMH (LO 3/2007)"
+    "fuente": "Capítulo I Ley 4/2007 (Aragón) (violencia sobre la mujer)"
   },
   {
     "q": "Según el art. 18.1 de la Ley 4/2007, los centros de emergencia son centros de asistencia permanente e inmediata en los que se facilita a las víctimas y a sus hijas e hijos acompañantes:",
@@ -1601,7 +1601,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El Capítulo IV se divide en la Sección 1ª ('Centros de protección y apoyo', arts. 18-23) y la Sección 2ª ('Servicios de protección y apoyo', arts. 24-31).",
-    "fuente": "Capítulo IV LOIEMH (LO 3/2007)"
+    "fuente": "Capítulo IV Ley 4/2007 (Aragón) (violencia sobre la mujer)"
   },
   {
     "q": "Según el art. 24 de la Ley 4/2007, el dispositivo de alarma consiste en una unidad de teleasistencia conectada con una central receptora, destinada a mujeres que se encuentren en:",
@@ -1685,7 +1685,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "Disposición adicional segunda.1: 'Se crea el Observatorio Aragonés de Violencia sobre la Mujer, como órgano colegiado adscrito al Departamento competente en materia de mujer.'",
-    "fuente": "Disposición adicional segunda LOIEMH (LO 3/2007)"
+    "fuente": "Disposición adicional segunda Ley 4/2007 (Aragón) (violencia sobre la mujer)"
   },
   {
     "q": "Según la Disposición adicional sexta de la Ley 4/2007, el Instituto Aragonés de la Mujer fomentará la colaboración con los ayuntamientos de:",
@@ -1697,7 +1697,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "Disposición adicional sexta: 'El Instituto Aragonés de la Mujer fomentará la colaboración con los ayuntamientos de Huesca, Teruel y Zaragoza, mediante programas de actuación conjunta con las respectivas casas de la mujer.'",
-    "fuente": "Disposición adicional sexta LOIEMH (LO 3/2007)"
+    "fuente": "Disposición adicional sexta Ley 4/2007 (Aragón) (violencia sobre la mujer)"
   },
   {
     "q": "¿Cuántos capítulos, disposiciones adicionales y disposiciones finales estructuran la Ley 4/2007 de Aragón, según su propio preámbulo?",
@@ -1709,7 +1709,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "Según el preámbulo: 'La Ley se estructura en cinco capítulos, seis disposiciones adicionales y tres disposiciones finales.'",
-    "fuente": "Disposición final LOIEMH (LO 3/2007)"
+    "fuente": "Disposición final Ley 4/2007 (Aragón) (violencia sobre la mujer)"
   },
   {
     "q": "¿Cuál es el título oficial completo de la ley aragonesa que regula la violencia contra las mujeres, referenciada en el temario?",
@@ -2201,7 +2201,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El Capítulo V, que cierra el articulado de la Ley 4/2007, lleva por título 'Prestaciones económicas' (arts. 32 a 36).",
-    "fuente": "Capítulo V LOIEMH (LO 3/2007)"
+    "fuente": "Capítulo V Ley 4/2007 (Aragón) (violencia sobre la mujer)"
   },
   {
     "q": "¿Cuántos artículos comprende, en total, el articulado de la Ley 4/2007 de Aragón, antes de las disposiciones adicionales?",
@@ -2213,7 +2213,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "La Ley 4/2007 de Aragón tiene 36 artículos distribuidos en cinco capítulos, antes de sus disposiciones adicionales, derogatoria y finales.",
-    "fuente": "LOIEMH (LO 3/2007)"
+    "fuente": "Ley 4/2007 (Aragón) (violencia sobre la mujer)"
   },
   {
     "q": "Según la Disposición adicional quinta de la Ley 4/2007, los derechos laborales reconocidos por la Ley Orgánica 1/2004 a las trabajadoras y funcionarias víctimas de violencia de género son de aplicación en Aragón:",
@@ -2225,7 +2225,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "Disposición adicional quinta: 'son de aplicación directa e inmediata en la Comunidad Autónoma de Aragón, sin necesidad de desarrollo normativo específico.'",
-    "fuente": "Disposición adicional quinta LOIEMH (LO 3/2007)"
+    "fuente": "Disposición adicional quinta Ley 4/2007 (Aragón) (violencia sobre la mujer)"
   },
   {
     "q": "Según el preámbulo de la Ley 4/2007, esta norma amplía el ámbito de protección más allá del concepto legal de violencia de género de la Ley Orgánica 1/2004, incluyendo también las situaciones de:",
@@ -2237,7 +2237,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "Preámbulo: '...pretende otorgar una protección más completa y general... A estos efectos, la presente Ley incluye también las situaciones de violencia laboral o docente y de violencia social como situaciones de violencia ejercida contra las mujeres.'",
-    "fuente": "Preámbulo LOIEMH (LO 3/2007)"
+    "fuente": "Preámbulo Ley 4/2007 (Aragón) (violencia sobre la mujer)"
   },
   {
     "q": "¿Qué órgano municipal se constituyó el 9 de marzo de 2009 con el objetivo de elaborar un Plan de Igualdad para el Ayuntamiento de Zaragoza?",
@@ -10195,7 +10195,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El art. 22 LBRL atribuye al Pleno, entre otras, la competencia sobre los contratos de cuantía superior a la reservada al Alcalde, en coherencia con la Disposición adicional segunda de la LCSP.",
-    "fuente": "Disposición adicional segunda LCSP (Ley 9/2017)"
+    "fuente": "Art. 22 LBRL (Ley 7/1985)"
   },
   {
     "q": "¿Cuál es la relación entre el art. 21.1 ñ) de la LBRL y la Disposición adicional segunda de la LCSP?",
@@ -11073,7 +11073,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El Capítulo I del Título VI de la LBRL ('Bienes') comprende los artículos 79 a 83.",
-    "fuente": "Capítulo I RBEL (RD 1372/1986)"
+    "fuente": "Capítulo I LBRL (Ley 7/1985)"
   },
   {
     "q": "Según el art. 22.2 l) de la LBRL, corresponde al Pleno municipal:",
@@ -12779,7 +12779,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "Art. 85.2 B): la gestión indirecta se realiza mediante las distintas formas previstas para el contrato de gestión de servicios públicos (hoy, esencialmente, el contrato de concesión de servicios de la LCSP).",
-    "fuente": "Art. 85.2 LCSP (Ley 9/2017)"
+    "fuente": "Art. 85.2 b) LBRL (Ley 7/1985)"
   },
   {
     "q": "¿Qué principio general y ampliamente reconocido rige en cuanto a la posibilidad de gestión indirecta de los servicios públicos locales que impliquen ejercicio de autoridad?",
@@ -16529,7 +16529,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El art. 128 establece la obligatoriedad de crear distritos como divisiones territoriales desconcentradas en los municipios sometidos al régimen del Título X (municipios de gran población).",
-    "fuente": "Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza (ROTPC)"
+    "fuente": "Art. 128 LBRL (Ley 7/1985)"
   },
   {
     "q": "Según el art. 129 de la LBRL, en los municipios de gran población debe existir un órgano administrativo responsable de:",
@@ -16613,7 +16613,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "La Ley 10/2017 consta de siete capítulos, que agrupan sesenta artículos, dos disposiciones adicionales, cinco disposiciones transitorias y tres disposiciones finales.",
-    "fuente": "Disposición final LBRL (Ley 7/1985)"
+    "fuente": "Disposición final Ley 10/2017 (capitalidad de Zaragoza)"
   },
   {
     "q": "Según el art. 1 de la Ley 10/2017, el objeto de la ley es establecer:",
@@ -16661,7 +16661,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El Capítulo II de la Ley 10/2017 se titula 'Especialidades en materia de organización' y se subdivide en varias secciones dedicadas al Pleno, el Alcalde y el Gobierno de Zaragoza.",
-    "fuente": "Capítulo II LBRL (Ley 7/1985)"
+    "fuente": "Capítulo II Ley 10/2017 (capitalidad de Zaragoza)"
   },
   {
     "q": "Según la estructura del Capítulo II de la Ley 10/2017, la Sección 1ª se dedica a:",
@@ -16673,7 +16673,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "La Sección 1ª del Capítulo II de la Ley 10/2017 se titula 'Gobierno y Administración del municipio de Zaragoza' y comprende los artículos 7 a 9.",
-    "fuente": "Capítulo II LBRL (Ley 7/1985)"
+    "fuente": "Capítulo II Ley 10/2017 (capitalidad de Zaragoza)"
   },
   {
     "q": "Según el art. 7 de la Ley 10/2017, se reconoce al Ayuntamiento de Zaragoza:",
@@ -16805,7 +16805,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El art. 87 del Estatuto de Autonomía de Aragón prevé que Zaragoza, como capital de la Comunidad Autónoma, goce de un régimen especial establecido por ley de Cortes de Aragón.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 87 EAAr (LO 5/2007)"
   },
   {
     "q": "¿Zaragoza es el único municipio aragonés sometido al régimen de organización de los municipios de gran población del Título X de la LBRL?",
@@ -18571,7 +18571,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "El art. 132 LBRL exige, en los municipios de gran población como Zaragoza, la creación de una Comisión especial de Sugerencias y Reclamaciones para la defensa de los derechos de los vecinos, desarrollada en el ROTPC (Título VI).",
-    "fuente": "Art. 132 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)"
+    "fuente": "Art. 132 LBRL (Ley 7/1985)"
   },
   {
     "q": "Según la estructura del ROTPC, el Título IV se dedica a:",
@@ -18583,7 +18583,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "El Título IV del ROTPC se titula 'Información y participación ciudadana', y comprende, entre otras, las secciones de información municipal, instrumentos de participación individual y participación de la sociedad civil organizada.",
-    "fuente": "Título IV LBRL (Ley 7/1985)"
+    "fuente": "Título IV ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)"
   },
   {
     "q": "Según la estructura del ROTPC, el Título V se dedica específicamente a:",
@@ -18595,7 +18595,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El Título V del ROTPC se titula 'El Consejo de la Ciudad de Zaragoza. Funcionamiento y organización', regulando su composición, funciones y régimen jurídico.",
-    "fuente": "Título V LBRL (Ley 7/1985)"
+    "fuente": "Título V ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)"
   },
   {
     "q": "Según la estructura del ROTPC, el Título II se dedica a:",
@@ -18607,7 +18607,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El Título II del ROTPC se titula 'Entes territoriales de participación' y regula los Distritos, las Juntas Municipales, las Juntas Vecinales y los Concejos Locales.",
-    "fuente": "Título II LBRL (Ley 7/1985)"
+    "fuente": "Título II ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)"
   },
   {
     "q": "Según el art. 51 del ROTPC, la Oficina Municipal de Apoyo al Ciudadano es un servicio que el Ayuntamiento presta para:",
@@ -19365,7 +19365,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "Los Distritos son órganos de gestión desconcentrada sin personalidad jurídica propia distinta de la del municipio, por lo que no ostentan potestad normativa propia: la aprobación de ordenanzas y reglamentos sigue correspondiendo al Pleno del Ayuntamiento, sin perjuicio de que las Juntas puedan informar o proponer sobre ordenanzas que afecten a su territorio.",
-    "fuente": "Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza (ROTPC)"
+    "fuente": "Art. 128 LBRL (Ley 7/1985)"
   },
   {
     "q": "En síntesis, ¿qué tres tipos de normas locales distingue fundamentalmente la legislación de régimen local?",
@@ -21581,7 +21581,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "Pregunta 14 del examen oficial de 1 de junio de 2025. DA 2ª.4 LCSP: en municipios de gran población, la Junta de Gobierno Local ejerce las competencias de órgano de contratación, cualquiera que sea el importe o duración. Respuesta correcta: c).",
-    "fuente": "Disposición adicional segunda CE (Constitución Española)"
+    "fuente": "Disposición adicional segunda LCSP (Ley 9/2017)"
   },
   {
     "q": "[EXAMEN OFICIAL, P15] De acuerdo con el artículo 26.1 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, la biblioteca pública es un servicio que deberá prestarse:",
@@ -21779,7 +21779,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "Pregunta 32 del examen oficial de 1 de junio de 2025. Art. 51 in fine ROTPC: se exige el 10% del padrón municipal. Respuesta correcta: c).",
-    "fuente": "Art. 51 Ley 10/2017 (capitalidad de Zaragoza)"
+    "fuente": "Art. 51 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)"
   },
   {
     "q": "[EXAMEN OFICIAL, P33] De acuerdo con la disposición adicional segunda. 4. de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, en los municipios de gran población el órgano competente para aprobar los pliegos de cláusulas administrativas generales es:",
@@ -21790,7 +21790,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "Pregunta 33 del examen oficial de 1 de junio de 2025. DA 2ª.4 LCSP (en relación con el art. 121 LCSP): la aprobación de pliegos de cláusulas administrativas generales corresponde al Pleno. Respuesta correcta: a).",
-    "fuente": "Disposición adicional segunda CE (Constitución Española)"
+    "fuente": "Disposición adicional segunda LCSP (Ley 9/2017)"
   },
   {
     "q": "[EXAMEN OFICIAL, P34] De acuerdo con la disposición adicional segunda. 7. de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, en las entidades locales la Mesa de contratación estará presidida:",
@@ -21801,7 +21801,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "Pregunta 34 del examen oficial de 1 de junio de 2025. DA 2ª.7 LCSP: la Mesa de contratación estará presidida por un miembro de la Corporación o un funcionario de la misma. Respuesta correcta: b).",
-    "fuente": "Disposición adicional segunda CE (Constitución Española)"
+    "fuente": "Disposición adicional segunda LCSP (Ley 9/2017)"
   },
   {
     "q": "[EXAMEN OFICIAL, P35] De acuerdo con la disposición adicional tercera. 6. de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, tratándose de contratación pública en las entidades locales:",
@@ -21812,7 +21812,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "Pregunta 35 del examen oficial de 1 de junio de 2025. DA 3ª.6 LCSP: sí son de aplicación a las entidades locales las normas sobre supervisión de proyectos de obras. Respuesta correcta: b).",
-    "fuente": "Disposición adicional tercera CE (Constitución Española)"
+    "fuente": "Disposición adicional tercera LCSP (Ley 9/2017)"
   },
   {
     "q": "[EXAMEN OFICIAL, P36] De acuerdo con el artículo 126.2 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, en los municipios de gran población el número de miembros de la Junta de Gobierno Local:",
@@ -21922,7 +21922,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "Pregunta 45 del examen oficial de 1 de junio de 2025. Art. 224 Ley 7/1999 (Aragón): los auxilios pueden concederse a entidades públicas o privadas y a particulares que complementen o suplan actividades de la entidad local. Respuesta correcta: b).",
-    "fuente": "Art. 224 LCSP (Ley 9/2017)"
+    "fuente": "Art. 224 Ley 7/1999 (Administración Local de Aragón)"
   },
   {
     "q": "[EXAMEN OFICIAL, P46] De acuerdo con el artículo 27.1 de Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, si el Estado y las Comunidades Autónomas delegan en los Municipios el ejercicio de sus competencias la duración de la delegación no podrá ser inferior a:",
