@@ -13,7 +13,9 @@
       "correct": 0,
       "exp": "El art. 111 delimita el ámbito subjetivo de la cesión mediante dos condiciones alternativas: a) ser capital de provincia o de comunidad autónoma; b) tener población de derecho igual o superior a 75.000 habitantes.",
       "fuente": "Art. 111 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 111 TRLRHL verificado en el consolidado (sin nota de modificación): dos condiciones alternativas, capital de provincia o de CA, o población de derecho igual o superior a 75.000 habitantes; cifra literal en la norma, los tres distractores son falsos."
     },
     {
       "q": "A efectos del requisito de población previsto en el art. 111.b) TRLRHL para la cesión de impuestos del Estado, la población de derecho que se toma en consideración es:",
@@ -26,7 +28,9 @@
       "correct": 1,
       "exp": "El art. 111.b) precisa que «se considerará la población resultante de la actualización del Padrón municipal de habitantes vigente a la entrada en vigor del modelo regulado en la presente sección».",
       "fuente": "Art. 111.b) TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 111.b) literal: «la población resultante de la actualización del Padrón municipal de habitantes vigente a la entrada en vigor del modelo regulado en la presente sección»; los otros tres criterios no aparecen en el precepto."
     },
     {
       "q": "Según el art. 112.1.a) TRLRHL, el porcentaje de la cuota líquida estatal del Impuesto sobre la Renta de las Personas Físicas que se cede a cada uno de los municipios incluidos en el ámbito subjetivo del art. 111 es del:",
@@ -39,7 +43,9 @@
       "correct": 2,
       "exp": "El art. 112.1.a), en la redacción dada por la disposición final 6.1 de la Ley 2/2012, cede el 2,1336 por 100 de la cuota líquida estatal del IRPF. El 2,3266 por 100 corresponde al IVA y el 2,9220 por 100 a los Impuestos Especiales.",
       "fuente": "Art. 112.1.a) TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 112.1.a) verificado carácter a carácter: 2,1336 por 100 de la cuota líquida estatal del IRPF (porcentaje literal en el artículo tras la DF 6.1 de la Ley 2/2012, no fijado por la LPGE); los distractores 2,3266 (IVA) y 2,9220 (IIEE) son los otros porcentajes del mismo apartado."
     },
     {
       "q": "Según el art. 112.3 TRLRHL, respecto de los tributos estatales cuyo rendimiento se les cede, los municipios:",
@@ -52,7 +58,9 @@
       "correct": 3,
       "exp": "El art. 112.3 excluye de raíz cualquier competencia municipal sobre los tributos cedidos —normativa, de gestión, liquidación, recaudación e inspección, y de revisión de los actos de gestión—, atribuyendo su titularidad y ejercicio exclusivamente al Estado.",
       "fuente": "Art. 112.3 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 112.3 literal: los municipios no podrán asumir en ningún caso competencias normativas, de gestión, liquidación, recaudación e inspección, ni de revisión de los actos de gestión, de titularidad y ejercicio exclusivos del Estado; los tres distractores contradicen el precepto."
     },
     {
       "q": "Según el art. 113.1.2.º TRLRHL, al determinar el importe de la cuota líquida del IRPF a efectos de la cesión a los municipios, las cuotas líquidas de los contribuyentes que hayan optado por tributar por el Impuesto sobre la Renta de No Residentes conforme al régimen especial de trabajadores desplazados a territorio español se computan aplicando:",
@@ -65,7 +73,9 @@
       "correct": 3,
       "exp": "El art. 113.1.2.º computa «el resultado de aplicar el 50 por ciento a las cuotas líquidas de los contribuyentes que hayan optado por tributar por el Impuesto sobre la Renta de No Residentes» al amparo del régimen del art. 93 de la Ley 35/2006.",
       "fuente": "Art. 113.1.2.º TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 113.1.2.º literal: el 50 por ciento de las cuotas líquidas de quienes optan por el IRNR en el régimen de trabajadores desplazados (art. 93 Ley 35/2006). Apartado correctamente citado dentro de la enumeración 1.º a 5.º."
     },
     {
       "q": "Según el art. 113.2 TRLRHL, el importe de recaudación líquida en el IVA y en los Impuestos Especiales, a efectos de la cesión a los municipios, se entiende obtenido:",
@@ -78,7 +88,9 @@
       "correct": 1,
       "exp": "El art. 113.2 define la recaudación líquida como el porcentaje no cedido a las comunidades autónomas del conjunto de ingresos líquidos de la Hacienda estatal, «con criterio de caja», descontadas de la recaudación bruta las devoluciones y las transferencias o ajustes (positivos o negativos) del concierto y convenio con las haciendas forales del País Vasco y Navarra.",
       "fuente": "Art. 113.2 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 113.2 literal: criterio de caja, descontadas de la recaudación bruta las devoluciones y las transferencias o ajustes del concierto y convenio con las haciendas forales de País Vasco y Navarra; ningún distractor reproduce el precepto."
     },
     {
       "q": "Según el art. 114 TRLRHL, la revisión del conjunto de municipios que se incluyen en el modelo de cesión de la recaudación de impuestos del Estado se realiza con carácter:",
@@ -91,7 +103,9 @@
       "correct": 2,
       "exp": "El art. 114 establece que «con carácter cuatrienal, se revisará el conjunto de municipios que se incluirán en el modelo de cesión», atendiendo al cumplimiento de los requisitos del art. 111.",
       "fuente": "Art. 114 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 114 literal: revisión «con carácter cuatrienal» del conjunto de municipios del modelo de cesión, por referencia a los requisitos del art. 111. Artículo sin nota de modificación."
     },
     {
       "q": "Según el art. 115.2 TRLRHL, el rendimiento cedido del IRPF se considera producido en el territorio de un municipio cuando corresponda a aquellos sujetos pasivos que:",
@@ -104,7 +118,9 @@
       "correct": 0,
       "exp": "El punto de conexión del art. 115.2 es la residencia habitual del sujeto pasivo en el término municipal; los criterios de los apartados 4 a 8 solo operan para concretar esa residencia.",
       "fuente": "Art. 115.2 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 115.2 literal: el punto de conexión es la residencia habitual del sujeto pasivo en el municipio; los criterios de los apartados 4 a 8 son subsidiarios y no responden a lo preguntado."
     },
     {
       "q": "Según el art. 115.3 TRLRHL, si los sujetos pasivos integrados en una unidad familiar tuvieran su residencia habitual en municipios distintos y optasen por la tributación conjunta, el rendimiento cedido del IRPF se entiende producido en el territorio del municipio:",
@@ -117,7 +133,9 @@
       "correct": 1,
       "exp": "El art. 115.3 atribuye el rendimiento al municipio de residencia habitual del miembro de la unidad familiar con mayor base liquidable conforme a las reglas de individualización del impuesto.",
       "fuente": "Art. 115.3 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 115.3 literal: municipio de residencia habitual del miembro de la unidad familiar con mayor base liquidable según las reglas de individualización del impuesto."
     },
     {
       "q": "El art. 115.4 TRLRHL considera que una persona física residente en territorio español lo es en el territorio de un municipio cuando permanezca en él un mayor número de días del período impositivo del IRPF. Para determinar ese período de permanencia:",
@@ -130,7 +148,9 @@
       "correct": 2,
       "exp": "El art. 115.4 dispone expresamente que «para determinar el período de permanencia se computarán las ausencias temporales», y añade la presunción, salvo prueba en contrario, del municipio donde radique la vivienda habitual.",
       "fuente": "Art. 115.4 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 115.4 literal: «Para determinar el período de permanencia se computarán las ausencias temporales»; el distractor A afirma justo lo contrario."
     },
     {
       "q": "Según el art. 116.1 TRLRHL, el porcentaje del rendimiento no cedido a las comunidades autónomas del Impuesto sobre el Valor Añadido que se cede a cada municipio incluido en el ámbito subjetivo del art. 111 es del:",
@@ -143,7 +163,9 @@
       "correct": 3,
       "exp": "El art. 116.1, en la redacción resultante de la disposición final 6.2 de la Ley 2/2012, cede el 2,3266 por ciento del rendimiento del IVA no cedido a las comunidades autónomas que se impute producido en el territorio del municipio.",
       "fuente": "Art. 116.1 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 116.1 verificado carácter a carácter: 2,3266 por ciento del rendimiento del IVA no cedido a las CCAA (porcentaje literal tras la DF 6.2 de la Ley 2/2012, no fijado por la LPGE); distractores tomados de los porcentajes de los arts. 112, 117 y 125."
     },
     {
       "q": "Según el art. 116.2 TRLRHL, la imputación a cada municipio del rendimiento cedido del IVA se determina aplicando a la recaudación líquida que corresponda al Estado:",
@@ -156,7 +178,9 @@
       "correct": 0,
       "exp": "El art. 116.2 aplica el índice de consumo de la comunidad autónoma a la que pertenece el municipio —índice de consumo territorial certificado por el Instituto Nacional de Estadística— ponderado por la representatividad de la población de derecho del municipio en esa comunidad autónoma.",
       "fuente": "Art. 116.2 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 116.2 literal: índice de consumo de la CA a la que pertenece el municipio, certificado por el INE, ponderado por la representatividad de la población de derecho del municipio en esa CA; verificada también la fórmula (coeficiente 0,017897)."
     },
     {
       "q": "El art. 117.1 TRLRHL cede a cada municipio del ámbito subjetivo del art. 111 el 2,9220 por ciento de los rendimientos no cedidos a las comunidades autónomas. Los Impuestos Especiales a los que se refiere ese apartado 1 son los que gravan:",
@@ -169,7 +193,9 @@
       "correct": 1,
       "exp": "El art. 117.1 enumera los Impuestos sobre la Cerveza, sobre el Vino y Bebidas Fermentadas, sobre Productos Intermedios y sobre el Alcohol y Bebidas Derivadas. Los Impuestos sobre Hidrocarburos y sobre las Labores del Tabaco se tratan en el apartado 3 del mismo artículo, con puntos de conexión propios.",
       "fuente": "Art. 117.1 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 117.1 verificado: 2,9220 por ciento y enumeración cerrada de Cerveza, Vino y Bebidas Fermentadas, Productos Intermedios y Alcohol y Bebidas Derivadas; Hidrocarburos y Labores del Tabaco van por el apartado 3, como dice la explicación."
     },
     {
       "q": "Según el art. 117.3 TRLRHL, el rendimiento cedido del Impuesto sobre las Labores del Tabaco se considera producido en el territorio de un municipio conforme al índice de ventas a expendedurías de tabaco del término municipal respectivo, según datos:",
@@ -182,7 +208,9 @@
       "correct": 2,
       "exp": "El art. 117.3 remite, para el Impuesto sobre las Labores del Tabaco, al índice de ventas a expendedurías según datos del Comisionado para el Mercado de Tabacos, ponderadas por los tipos impositivos. Los datos del Ministerio de Economía son los que ese mismo apartado emplea para el índice de entregas de gasolinas, gasóleos y fuelóleos en el Impuesto sobre Hidrocarburos.",
       "fuente": "Art. 117.3 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 117.3 literal: índice de ventas a expendedurías de tabaco «según datos del Comisionado para el Mercado de Tabacos»; el Ministerio de Economía es la fuente del índice de entregas de gasolinas, gasóleos y fuelóleos del mismo apartado (distractor correctamente falso)."
     },
     {
       "q": "Según el art. 118 TRLRHL, participan en los tributos del Estado con arreglo al modelo del Fondo Complementario de Financiación:",
@@ -195,7 +223,9 @@
       "correct": 3,
       "exp": "El art. 118 remite el ámbito subjetivo del Fondo Complementario de Financiación a los municipios del art. 111, es decir, capitales de provincia o de comunidad autónoma y municipios de 75.000 o más habitantes de derecho. Los no incluidos en el art. 111 se rigen por la sección 2.ª (art. 122).",
       "fuente": "Art. 118 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 118 literal: el Fondo Complementario de Financiación (sección 1.ª del cap. IV) se aplica a los municipios del art. 111; comprobado que no se cruza el ámbito con el del art. 122, que es el opuesto y figura como distractor falso."
     },
     {
       "q": "Según la regla general del art. 119 TRLRHL, la participación en el Fondo Complementario de Financiación se determina, para cada ejercicio y para cada municipio:",
@@ -208,7 +238,9 @@
       "correct": 0,
       "exp": "El art. 119 fija la fórmula PFC(t,m) = PFC(2004,m) x IE(t/2004): la participación del año base evolucionada por el índice de evolución. El año base es 2004, primero de aplicación del modelo.",
       "fuente": "Art. 119 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 119 literal: PFC(t,m) = PFC(2004,m) x IE(t/2004), índice de evolución aplicado a la participación del año base 2004; el distractor B es el criterio de reparto del art. 124, ajeno al FCF."
     },
     {
       "q": "Según el art. 120.1 TRLRHL, la participación en el Fondo Complementario de Financiación correspondiente al año base se calcula:",
@@ -221,7 +253,9 @@
       "correct": 3,
       "exp": "El art. 120.1 obtiene primero la participación total del año base evolucionando la participación en tributos del Estado de 2003, y de ella deduce los rendimientos cedidos por IRPF, IVA e Impuestos Especiales calculados conforme a los arts. 115, 116 y 117.",
       "fuente": "Art. 120.1 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 120.1 literal: participación total de 2003 evolucionada por el índice del art. 121, deduciendo los rendimientos cedidos de IRPF, IVA e IIEE de los arts. 115 a 117."
     },
     {
       "q": "Según el art. 121 TRLRHL, el índice de evolución se determina, en todo caso, por:",
@@ -234,7 +268,9 @@
       "correct": 1,
       "exp": "El art. 121 define IE(t/2004) = ITE(t) / ITE(2004): el índice de evolución es el incremento de los ingresos tributarios del Estado entre el año al que corresponde la participación y el año base.",
       "fuente": "Art. 121 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 121 literal: «se determinará, en todo caso, por el incremento que experimenten los ingresos tributarios del Estado (ITE) entre el año al que corresponda la participación y el año base»; IPC, PIB y recaudación propia no figuran en el precepto."
     },
     {
       "q": "Según el art. 121 TRLRHL, los ingresos tributarios del Estado (ITE) están constituidos por la recaudación estatal, excluida la susceptible de cesión a las comunidades autónomas, por:",
@@ -247,7 +283,9 @@
       "correct": 2,
       "exp": "El art. 121 enumera como integrantes de los ITE el IRPF, el IVA y los seis Impuestos Especiales citados, quedando fuera el Impuesto sobre Sociedades. Para su concreción remite a la Ley 21/2001.",
       "fuente": "Art. 121 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 121 literal: enumeración de los ITE (IRPF, IVA y los seis Impuestos Especiales citados), con exclusión de la recaudación susceptible de cesión a las CCAA; el Impuesto sobre Sociedades y el Patrimonio quedan fuera, como marcan los distractores."
     },
     {
       "q": "Según el art. 122 TRLRHL, participan en tributos del Estado con arreglo al modelo de la sección 2.ª (participación del resto de municipios):",
@@ -260,7 +298,9 @@
       "correct": 3,
       "exp": "El art. 122 delimita el ámbito subjetivo por exclusión: los municipios que no cumplen las condiciones del art. 111. Los municipios turísticos son un subconjunto de estos, con las reglas específicas del art. 125.",
       "fuente": "Art. 122 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 122 literal: la sección 2.ª se aplica a los municipios «no incluidos en el artículo 111»; los turísticos del art. 125 son un subconjunto de estos, no el ámbito completo (distractor correctamente falso)."
     },
     {
       "q": "Según el art. 123 TRLRHL, la participación total en tributos del Estado del conjunto de municipios no incluidos en el art. 111 se determina, para cada ejercicio:",
@@ -273,7 +313,9 @@
       "correct": 0,
       "exp": "El art. 123.1 fija PIE(t) = PIE(2004) x IE(t/2004) y el art. 123.2 remite, para el índice de evolución, al incremento de los ingresos tributarios del Estado en los términos del art. 121.",
       "fuente": "Art. 123.1 y 123.2 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Arts. 123.1 y 123.2 verificados: PIE(t) = PIE(2004) x IE(t/2004) con el índice de evolución del art. 121; comprobado que el art. 124 distribuye ese total y no lo determina, por lo que el distractor C es falso."
     },
     {
       "q": "Según el art. 124.1.a) TRLRHL, el porcentaje de la participación total que se distribuye en función del número de habitantes de derecho de cada municipio, ponderados por coeficientes multiplicadores, es el:",
@@ -286,7 +328,9 @@
       "correct": 1,
       "exp": "El art. 124.1 reparte el 75 por ciento por población de derecho ponderada [letra a)], el 12,5 por ciento por esfuerzo fiscal medio [letra b)] y el 12,5 por ciento por el inverso de la capacidad tributaria [letra c)].",
       "fuente": "Art. 124.1.a) TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 124.1.a) literal: el 75 por ciento se reparte por habitantes de derecho ponderados por los coeficientes multiplicadores; porcentaje fijado en el propio artículo, no en la LPGE."
     },
     {
       "q": "Según la tabla de coeficientes multiplicadores del art. 124.1.a) TRLRHL, al estrato de municipios de más de 50.000 habitantes le corresponde el coeficiente:",
@@ -299,7 +343,9 @@
       "correct": 3,
       "exp": "La tabla del art. 124.1.a) asigna 1,40 al estrato 1 (de más de 50.000 habitantes), 1,30 al estrato 2 (de 20.001 a 50.000), 1,17 al estrato 3 (de 5.001 a 20.000) y 1,00 al estrato 4 (hasta 5.000).",
       "fuente": "Art. 124.1.a) TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Tabla del art. 124.1.a) verificada íntegra en el consolidado: estrato 1 (más de 50.000) 1,40; estrato 2 (20.001-50.000) 1,30; estrato 3 (5.001-20.000) 1,17; estrato 4 (hasta 5.000) 1,00. Coeficientes literales en la ley, no en la LPGE."
     },
     {
       "q": "Según el art. 124.1 TRLRHL, al margen del porcentaje repartido por población de derecho ponderada, la participación total se distribuye:",
@@ -312,7 +358,9 @@
       "correct": 0,
       "exp": "Las letras b) y c) del art. 124.1 reparten sendos 12,5 por ciento: por esfuerzo fiscal medio del segundo ejercicio anterior al de la Ley de Presupuestos Generales del Estado correspondiente, ponderado por habitantes de derecho, y por el inverso de la capacidad tributaria en los términos que fijen esas leyes.",
       "fuente": "Art. 124.1.b) y c) TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 124.1.b) y c) literales: sendos 12,5 por ciento, uno por esfuerzo fiscal medio ponderado por habitantes de derecho y otro por el inverso de la capacidad tributaria «en los términos que establezcan las Leyes de Presupuestos Generales del Estado»; la pregunta pregunta por la remisión, no por una cifra de la LPGE."
     },
     {
       "q": "Según el art. 125.1 TRLRHL, para ser considerado municipio turístico es preciso, además de estar comprendido en el ámbito subjetivo del art. 122:",
@@ -325,7 +373,9 @@
       "correct": 0,
       "exp": "El art. 125.1 exige dos condiciones cumulativas: población de derecho superior a 20.000 habitantes y que las viviendas de segunda residencia superen a las principales según el último Censo de Edificios y Viviendas.",
       "fuente": "Art. 125.1 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 125.1 literal: dos condiciones cumulativas, población de derecho superior a 20.000 habitantes y segundas residencias superiores a las viviendas principales según el último Censo de Edificios y Viviendas; verificado además el ámbito de partida (art. 122)."
     },
     {
       "q": "Según el art. 125.3 TRLRHL, a cada uno de los municipios turísticos se le cede el siguiente porcentaje de los rendimientos que no hayan sido objeto de cesión a las comunidades autónomas por los Impuestos sobre Hidrocarburos y sobre las Labores del Tabaco:",
@@ -338,7 +388,9 @@
       "correct": 1,
       "exp": "El art. 125.3 fija la cesión a los municipios turísticos en el 2,0454 por ciento de los rendimientos no cedidos a las comunidades autónomas por los Impuestos sobre Hidrocarburos y sobre las Labores del Tabaco.",
       "fuente": "Art. 125.3 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 125.3 verificado carácter a carácter: 2,0454 por ciento de los rendimientos no cedidos a las CCAA por Hidrocarburos y Labores del Tabaco. Este porcentaje no fue sustituido por la Ley 2/2012 (a diferencia de los arts. 112, 115, 116 y 117), y sigue literal en el consolidado."
     },
     {
       "q": "Según el art. 126 TRLRHL, la revisión del conjunto de municipios incluidos en cada uno de los modelos de participación en los tributos del Estado del capítulo IV se efectúa:",
@@ -351,7 +403,9 @@
       "correct": 2,
       "exp": "El art. 126 impone una revisión cuatrienal del conjunto de municipios incluidos en los modelos de las dos secciones anteriores, según el cumplimiento en ese momento de los requisitos de los arts. 118 y 122.",
       "fuente": "Art. 126 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 126 literal: revisión cuatrienal del conjunto de municipios de los dos modelos, por los requisitos de los ámbitos subjetivos de los arts. 118 y 122 (no del 111, como afirma el distractor D). Artículo sin nota de modificación."
     },
     {
       "q": "Según el art. 10 TRLRHL, en la exacción de los tributos locales y de los restantes ingresos de derecho público de las entidades locales, los recargos e intereses de demora se exigirán y determinarán:",
@@ -364,7 +418,9 @@
       "correct": 2,
       "exp": "El art. 10, párrafo primero, equipara el régimen de recargos e intereses de demora de los ingresos de derecho público locales al de la exacción de los tributos del Estado.",
       "fuente": "Art. 10 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 10, párrafo primero, literal: los recargos e intereses de demora se exigen y determinan «en los mismos casos, forma y cuantía que en la exacción de los tributos del Estado». Artículo sin nota de modificación y no cubierto por ninguna pregunta previa del tema."
     },
     {
       "q": "Según el art. 10 TRLRHL, cuando las ordenanzas fiscales así lo prevean, no se exigirá interés de demora en los acuerdos de aplazamiento o fraccionamiento de pago solicitados en período voluntario, siempre que:",
@@ -377,7 +433,9 @@
       "correct": 0,
       "exp": "El art. 10, párrafo segundo, condiciona la no exigencia de intereses de demora a que la ordenanza lo prevea, a que se trate de deudas de vencimiento periódico y notificación colectiva y a que el pago total se produzca en el mismo ejercicio del devengo.",
       "fuente": "Art. 10 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 10, párrafo segundo, literal: requiere previsión en la ordenanza, deudas de vencimiento periódico y notificación colectiva y pago total en el mismo ejercicio del devengo; ningún distractor tiene apoyo en el precepto."
     },
     {
       "q": "Según el art. 12.2 TRLRHL, a través de sus ordenanzas fiscales las entidades locales podrán adaptar la normativa estatal sobre gestión, liquidación, inspección y recaudación de los tributos locales a su propio régimen de organización y funcionamiento interno:",
@@ -390,7 +448,9 @@
       "correct": 1,
       "exp": "El art. 12.2 admite la adaptación organizativa por ordenanza fiscal con el límite expreso de no contravenir el contenido material de la Ley General Tributaria y demás leyes estatales reguladoras de la materia.",
       "fuente": "Art. 12.2 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 12.2 literal: la adaptación por ordenanza al régimen de organización y funcionamiento interno no puede contravenir el contenido material de la normativa estatal del apartado 1. Comprobado que no duplica la pregunta ya existente sobre el art. 15.3."
     },
     {
       "q": "Según el art. 13 TRLRHL, en relación con la gestión, liquidación, inspección y recaudación de los tributos locales, la competencia para evacuar las consultas tributarias a que se refiere el art. 88 de la Ley General Tributaria corresponde a:",
@@ -403,7 +463,9 @@
       "correct": 2,
       "exp": "El art. 13 atribuye la competencia para evacuar las consultas del art. 88 LGT a la entidad que ejerza las funciones de gestión, liquidación, inspección y recaudación, lo que resulta relevante en los supuestos de delegación del art. 7.",
       "fuente": "Art. 13 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 13 literal: la competencia para evacuar las consultas del art. 88 LGT corresponde «a la entidad que ejerza dichas funciones»; artículo sin nota de modificación y hueco no cubierto en el tema."
     },
     {
       "q": "Según el art. 67.2 TRLRHL, tratándose de bienes inmuebles de características especiales, la reducción en la base imponible del IBI únicamente procederá cuando el valor catastral resultante de la aplicación de una nueva Ponencia de valores especial:",
@@ -416,7 +478,9 @@
       "correct": 3,
       "exp": "El art. 67.2 exige que el nuevo valor catastral supere el doble del previamente asignado como inmueble de esa clase; en defecto de ese valor previo se toma como tal el 40 por ciento del que resulte de la nueva Ponencia.",
       "fuente": "Art. 67.2 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 67.2 literal: en los bienes inmuebles de características especiales la reducción solo procede si el valor catastral de la nueva Ponencia especial supera el doble del previamente asignado (en su defecto, el 40 por ciento del nuevo). Verificado que el apartado 2 vigente es el añadido por la DA 7.2 de la Ley 16/2007, con la renumeración correspondiente, por lo que la cita del apartado es correcta en el texto consolidado."
     },
     {
       "q": "Según el art. 69 TRLRHL, el valor base de la reducción en la base imponible del IBI será, como regla general:",
@@ -429,7 +493,9 @@
       "correct": 0,
       "exp": "El art. 69 fija como valor base la base liquidable del ejercicio inmediato anterior a la entrada en vigor del nuevo valor catastral, salvo las circunstancias especiales de sus letras a), b) y c).",
       "fuente": "Art. 69 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 69 literal en su regla general: el valor base es la base liquidable del ejercicio inmediato anterior a la entrada en vigor del nuevo valor catastral. El artículo fue modificado por el art. 7.2.2 de la Ley 16/2013 (letra c añadida), lo que no afecta a la regla general preguntada; el enunciado dice expresamente «como regla general», sin tratar las excepciones como cerradas."
     },
     {
       "q": "Según el art. 70.1 TRLRHL, cuando el valor catastral se altere, antes de finalizar el plazo de reducción, por un procedimiento de valoración colectiva de carácter general de los previstos en el art. 67.1.b).1.º:",
@@ -442,7 +508,9 @@
       "correct": 1,
       "exp": "El art. 70.1 ordena iniciar un nuevo período de reducción y extinguir el derecho al resto de la reducción anterior. La solución de la letra C es la del art. 70.2, prevista para los supuestos del art. 67.1.b).2.º, 3.º y 4.º.",
       "fuente": "Art. 70.1 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 70.1 literal para los casos del art. 67.1.b).1.º: nuevo período de reducción y extinción del resto de la reducción anterior; verificado que la solución contraria (opción C) es la del art. 70.2 para los supuestos 2.º, 3.º y 4.º, luego no hay dos opciones válidas."
     },
     {
       "q": "Según el art. 76.3 TRLRHL, los ayuntamientos podrán exigir la acreditación de la presentación de la declaración catastral de nueva construcción para la tramitación del procedimiento de concesión de:",
@@ -455,7 +523,9 @@
       "correct": 2,
       "exp": "El art. 76.3 vincula la acreditación de la declaración catastral de nueva construcción a la licencia de primera ocupación; si el ayuntamiento se acogió al procedimiento de comunicación del apartado 2, puede exigir en su lugar la información complementaria necesaria.",
       "fuente": "Art. 76.3 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 76.3 literal: la acreditación de la declaración catastral de nueva construcción puede exigirse para la licencia que autorice la primera ocupación. Apartado añadido por el art. 11.1 de la Ley 36/2006 y vigente en el consolidado."
     },
     {
       "q": "Según el art. 80 TRLRHL, el ejercicio de las actividades gravadas por el Impuesto sobre Actividades Económicas se probará:",
@@ -468,7 +538,9 @@
       "correct": 3,
       "exp": "El art. 80 admite cualquier medio de prueba admisible en derecho, con remisión expresa a los medios del art. 3 del Código de Comercio.",
       "fuente": "Art. 80 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 80 literal: el ejercicio de las actividades gravadas se prueba por cualquier medio admisible en derecho y, en particular, por los del art. 3 del Código de Comercio. Artículo sin nota de modificación."
     },
     {
       "q": "Según el art. 83 TRLRHL, son sujetos pasivos del Impuesto sobre Actividades Económicas las personas físicas o jurídicas y las entidades del art. 35.4 de la Ley General Tributaria:",
@@ -481,7 +553,9 @@
       "correct": 0,
       "exp": "El art. 83 vincula la condición de sujeto pasivo a la realización en territorio nacional de cualquiera de las actividades que originan el hecho imponible, sin exigir domicilio fiscal ni local determinado.",
       "fuente": "Art. 83 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 83 literal: sujetos pasivos son las personas físicas o jurídicas y las entidades del art. 35.4 LGT «siempre que realicen en territorio nacional cualquiera de las actividades que originan el hecho imponible»; ni el domicilio fiscal ni el local son requisitos."
     },
     {
       "q": "Según el art. 84 TRLRHL, la cuota tributaria del Impuesto sobre Actividades Económicas es la resultante de aplicar:",
@@ -494,7 +568,9 @@
       "correct": 1,
       "exp": "El art. 84 compone la cuota con las tarifas del impuesto más los coeficientes y bonificaciones previstos por la ley y, en su caso, acordados por el ayuntamiento en sus ordenanzas fiscales.",
       "fuente": "Art. 84 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 84 literal: tarifas del impuesto más los coeficientes y bonificaciones previstos por la ley y, en su caso, acordados por el ayuntamiento en sus ordenanzas fiscales. Artículo sin nota de modificación."
     },
     {
       "q": "Según el art. 90.1 TRLRHL, el Impuesto sobre Actividades Económicas se gestiona a partir de la matrícula del impuesto, la cual:",
@@ -507,7 +583,9 @@
       "correct": 2,
       "exp": "El art. 90.1 dispone que la matrícula se forma anualmente para cada término y está constituida por censos comprensivos de las actividades económicas, sujetos pasivos, cuotas mínimas y, en su caso, del recargo provincial, y que estará a disposición del público en los respectivos ayuntamientos.",
       "fuente": "Art. 90.1 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 90.1 literal: la matrícula se forma anualmente para cada término, con censos de actividades, sujetos pasivos, cuotas mínimas y, en su caso, recargo provincial, y está a disposición del público en los respectivos ayuntamientos; los tres distractores contradicen el apartado."
     },
     {
       "q": "Según el art. 109.2 TRLRHL, cuando se declare o reconozca judicial o administrativamente por resolución firme la nulidad, rescisión o resolución del acto o contrato determinante de la transmisión del terreno, el sujeto pasivo tendrá derecho a la devolución del impuesto satisfecho siempre que reclame la devolución en el plazo de:",
@@ -520,7 +598,9 @@
       "correct": 3,
       "exp": "El art. 109.2 exige, además de que el acto o contrato no hubiera producido efectos lucrativos, que la devolución se reclame en el plazo de cinco años desde que la resolución quedó firme.",
       "fuente": "Art. 109.2 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 109.2 literal: la devolución debe reclamarse «en el plazo de cinco años desde que la resolución quedó firme», junto con la ausencia de efectos lucrativos. Artículo sin nota de modificación (las reformas del IIVTNU de 2021 afectaron a los arts. 107 y 110, no al 109)."
     }
   ]
 }
