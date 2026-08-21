@@ -1357,6 +1357,97 @@ Dos notas de método que ahorran tiempo la próxima vez:
 
 Banco de Auxiliar: de 5.522 a **5.591 preguntas**, todas con cita.
 
+## El sesgo de posición: el peor defecto del banco (20-ago-2026)
+
+Salió de un diagnóstico pedido por el dueño («¿qué hacemos para mejorar el
+temario?»), y era **más grave que cualquier error de contenido corregido en toda
+la campaña**.
+
+### El problema
+
+Contestando **siempre la primera opción** se acertaban **3.019 de 5.591 (54%)**.
+Y en las 1.871 preguntas escritas a mano o heredadas, el **91%**.
+
+| Origen | A | B | C | D |
+|---|---|---|---|---|
+| Banco base (a mano y heredado) | **91%** | 4% | 3% | 2% |
+| Lotes generados con revisor | 35% | 25% | 20% | 20% |
+| **Examen oficial de 1-jun-2025** | 23% | **36%** | **35%** | 7% |
+
+Diecisiete de los veinte temas estaban sesgados; el 14 al **82% A**, el 11 al 76%,
+los temas 7, 8 y 9 al 65%.
+
+Por qué es peor que un dato equivocado: un dato equivocado enseña una cosa falsa,
+esto **enseña a no leer las opciones**. Entrena el reflejo «la primera suele ser»,
+que en el examen real —donde la respuesta está en la B o la C el 71% de las
+veces— se vuelve en contra. Y es indetectable desde dentro: se ven porcentajes de
+acierto altísimos y se cree que se domina la materia.
+
+Nota sobre el origen: los lotes generados salen equilibrados de cada agente
+(informan 10/10/10/10), pero el conjunto derivaba hacia la A porque el redactor
+equilibra **dentro de su lote** y no sabe nada del resto del banco. Conviene
+seguir pidiéndolo, pero **no basta como control**: el reparto hay que medirlo
+sobre el banco entero.
+
+### El arreglo
+
+Permutación de las opciones moviendo `correct` con ellas. **No cambia una palabra
+de contenido**, así que no hay nada que reverificar contra el BOE.
+
+- **5.503 preguntas barajadas**, 13 dejadas como estaban.
+- **El tema 21 no se toca**: es la reproducción del examen oficial y el orden de
+  sus opciones forma parte de su valor (su reparto real ya es 23/36/35/7).
+- Las opciones tipo «Ninguna de las otras respuestas es correcta» o «Todas las
+  anteriores» se **anclan al final**, que es donde tienen sentido. Si la correcta
+  era una de ellas, la pregunta se deja intacta: son 13.
+- El destino de la correcta se reparte **por turnos**, no al azar, para que cada
+  tema quede en 25/25/25/25 en vez de depender de la suerte.
+- Generador con **semilla fija**: dos ejecuciones dan el mismo resultado.
+
+**Antes de barajar hubo que arreglar dos explicaciones** que referenciaban la
+posición («la misión descrita en **la primera opción** es la de las Fuerzas
+Armadas», «**La primera opción** es, por tanto, falsa»): barajar las habría
+dejado sin sentido. Reescritas para nombrar el contenido y no el orden. Barrido
+completo después: cero referencias al orden en todo el banco. Y una tercera del
+tema 21 que cita «las opciones a) o b)» según la plantilla oficial, que queda a
+salvo porque ese tema no se baraja.
+
+### La comprobación
+
+La invariante que importa no es «se ha barajado», es **«la respuesta correcta
+sigue siendo la misma»**. Comparado el banco antes y después, pregunta por
+pregunta:
+
+- preguntas con la **respuesta correcta distinta: 0**
+- con el **conjunto de opciones distinto: 0**
+- con enunciado, explicación o fuente **tocados: 0**
+- que han cambiado de posición: 4.332
+
+Resultado: reparto global **25/25/25/24**, y **ningún tema barajado pasa del
+26%** en ninguna letra. Contestar siempre la primera opción baja del 54% al 25%,
+que es lo que debe ser. Comprobado además en navegador real: 72 preguntas jugadas
+en nueve temas, la cita visible en las 72, sin errores.
+
+### Lo que el mismo diagnóstico dejó pendiente
+
+1. **76 duplicados reales**: mismo enunciado reformulado y misma respuesta. Un
+   primer detector marcó 246 pares, pero 1.007 de ellos son preguntas legítimas
+   que comparten plantilla («la rúbrica del Título I» / «del Título III»): el
+   criterio que distingue es **misma respuesta correcta**, no solo parecido de
+   palabras. Ejemplo real del tema 3: «Según el art. 37.1, las Cortes de Aragón
+   tienen carácter:» y «Según el art. 37.1 EAA, ¿qué carácter tienen las Cortes de
+   Aragón?», las dos con «Unicameral».
+2. **Concentración**: el tema 4 tiene 260 preguntas sobre **12 artículos**
+   (21,7 por artículo), y los temas 5, 6 y 8 rondan las 12. Frente a 1,5 del
+   tema 20 y 2,6 del 9. Esos temas no están cortos, están **saturados**: no
+   necesitan más preguntas.
+3. **Desajuste con el examen real**: el TRLRHL fue el **21%** del examen oficial y
+   es el **11%** del banco; la LPAC fue el **8%** y es el **25%**. El banco sigue
+   la proporción del temario (cinco temas de LPAC, dos de Haciendas), no la del
+   examen. Salvedad honesta: es **un solo examen, 75 preguntas**, muestra
+   pequeña para reordenar la estrategia — pero como señal apunta a reforzar
+   Haciendas Locales (temas 12 y 13) antes que cualquier tema de LPAC.
+
 ## Temas siguientes, cuando el 20 esté cerrado
 
 Del 19 hacia atrás. Estado y déficit hasta 500:
