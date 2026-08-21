@@ -1683,14 +1683,45 @@ Y dos situaban la Sección 1.ª y la Sección 2.ª de los tipos contractuales en
 Capítulo I del Título Preliminar: están en el **Capítulo II**; el Capítulo I es
 «Objeto y ámbito de aplicación de la Ley».
 
-### Citas sin artículo: 400 → 364
+### Citas sin artículo: el recuento bueno son 254, no 364
 
-De las 400 preguntas cuya `fuente` nombraba la norma pero no el precepto quedan
-**364**. Una parte de esas 364 **no tiene artículo que citar** y está bien así:
-las 22 del tema 21 citan la pregunta del examen oficial, y algunas del tema 1
-citan el referéndum de 6-dic-1978 o la fórmula de sanción. El resto —sobre todo
-los temas 11 (51), 9 (los que faltan), 16 (33) y 7 (28)— sí necesita que se le
-localice el artículo.
+**Corrección de un número que yo mismo escribí mal aquí.** La primera medición
+daba 364 porque el filtro descartaba las citas de tipo «Título Preliminar» o
+«Capítulo III» como si les faltara el artículo. No les falta: son preguntas que
+van **sobre la estructura de la norma** («¿qué artículos comprende el Título
+II?», «¿cómo se titula el Capítulo VI?»), y su cita correcta es precisamente el
+título o el capítulo. Pedirles un artículo no tiene sentido.
+
+El reparto real de las 5.695:
+
+| | Nº |
+|---|---|
+| citan artículo | 5.170 |
+| parte no articulada, y está bien así | 201 |
+| preguntas sobre la estructura, citando título o capítulo | 70 |
+| **les falta el artículo** | **254** |
+
+Las 201 «no articuladas» son las 22 del examen oficial del tema 21, las del
+Manual de Atención que citan página, las del tema 1 que citan el referéndum de
+6-dic-1978 o la fórmula de sanción, y las que citan disposiciones adicionales,
+transitorias o finales.
+
+Las **254 que sí necesitan artículo** se concentran en los temas 11 (49), 10
+(48), 9 (41), 16 (34), 14 (22) y 17 (17).
+
+Verificadas hoy contra el consolidado y precisadas con su tramo de artículos, 22
+citas estructurales de los temas 3, 4, 5 y 12: el Título Preliminar del Estatuto
+de Aragón son los arts. 1-10, su Título II los arts. 32-60 en cuatro capítulos,
+el III los arts. 61-62 y el V los arts. 70-80; el Título I de la LPAC son los
+arts. 3-12 (Cap. I: 3-8; Cap. II: 9-12), su Título Preliminar los arts. 1-2 y su
+Título II los arts. 13-33 (Cap. I: 13-28; Cap. II «Términos y plazos»: 29-33);
+y del Título I del TRLRHL, el Cap. I es «Enumeración» (art. 2), el III
+«Tributos», el VI «Precios públicos» (arts. 41-47) y el VII «Operaciones de
+crédito» (arts. 48-55). Las 22 eran correctas.
+
+**Cuidado con automatizar esto**: «Capítulo I LPAC» significa cosas distintas en
+los temas 4, 5, 6, 7 y 8, así que hay que precisar por tema e índice, nunca por
+sustitución global de texto.
 
 ### Aviso operativo
 

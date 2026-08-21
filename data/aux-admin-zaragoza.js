@@ -2551,7 +2551,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El Título Preliminar del Estatuto de Aragón comprende los artículos 1 a 10.",
-    "fuente": "Título Preliminar EAAr (LO 5/2007)"
+    "fuente": "Título Preliminar (arts. 1-10) EAAr (LO 5/2007)"
   },
   {
     "q": "Según el art. 32, ¿cuáles son las instituciones de la Comunidad Autónoma de Aragón?",
@@ -2995,7 +2995,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "El Título II ('Organización institucional') comprende los artículos 32 a 60, distribuido en un artículo inicial (32) y cuatro capítulos: Cortes, Presidente, Gobierno y Justicia.",
-    "fuente": "Título II EAAr (LO 5/2007)"
+    "fuente": "Título II (arts. 32-60) EAAr (LO 5/2007)"
   },
   {
     "q": "¿Cuántos capítulos componen el Título II del Estatuto de Aragón, sin contar el artículo inicial sobre instituciones?",
@@ -3007,7 +3007,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El Título II se divide en cuatro capítulos: I. Las Cortes de Aragón; II. El Presidente; III. El Gobierno de Aragón; IV. El Justicia de Aragón.",
-    "fuente": "Título II EAAr (LO 5/2007)"
+    "fuente": "Título II (arts. 32-60) EAAr (LO 5/2007)"
   },
   {
     "q": "Según el art. 61.1, la Comunidad Autónoma de Aragón crea y organiza su Administración propia conforme a:",
@@ -3067,7 +3067,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El Título III ('La Administración Pública en Aragón') comprende únicamente los artículos 61 y 62.",
-    "fuente": "Título III EAAr (LO 5/2007)"
+    "fuente": "Título III (arts. 61-62) EAAr (LO 5/2007)"
   },
   {
     "q": "Según el art. 70.1 del Estatuto de Aragón, corresponden a la Comunidad Autónoma las competencias:",
@@ -3283,7 +3283,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "El art. 80 lleva por título 'Cláusula de cierre' y cierra el Título V, 'Competencias de la Comunidad Autónoma'.",
-    "fuente": "Título V EAAr (LO 5/2007)"
+    "fuente": "Título V (arts. 70-80) EAAr (LO 5/2007)"
   },
   {
     "q": "¿Qué artículos comprende el Título V del Estatuto de Aragón, 'Competencias de la Comunidad Autónoma'?",
@@ -3295,7 +3295,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El Título V, 'Competencias de la Comunidad Autónoma', comprende los artículos 70 a 80.",
-    "fuente": "Título V EAAr (LO 5/2007)"
+    "fuente": "Título V (arts. 70-80) EAAr (LO 5/2007)"
   },
   {
     "q": "Según el art. 70.3, cuando el objeto de las competencias autonómicas tiene un alcance territorial superior al de Aragón, la Comunidad Autónoma ejerce sus competencias:",
@@ -3645,7 +3645,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El Título I de la Ley 39/2015 lleva por rúbrica 'De los interesados en el procedimiento' y comprende los artículos 3 a 12.",
-    "fuente": "Título I LPAC (Ley 39/2015)"
+    "fuente": "Título I (arts. 3-12) LPAC (Ley 39/2015)"
   },
   {
     "q": "Según el art. 3 a) de la Ley 39/2015, tienen capacidad de obrar ante las Administraciones Públicas:",
@@ -4101,7 +4101,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "El Capítulo I del Título I lleva por rúbrica 'La capacidad de obrar y el concepto de interesado', y comprende los artículos 3 a 8.",
-    "fuente": "Capítulo I LPAC (Ley 39/2015)"
+    "fuente": "Título I, Capítulo I (arts. 3-8) LPAC (Ley 39/2015)"
   },
   {
     "q": "El Capítulo II del Título I de la Ley 39/2015 se titula:",
@@ -4113,7 +4113,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El Capítulo II del Título I lleva por rúbrica 'Identificación y firma de los interesados en el procedimiento administrativo', y comprende los artículos 9 a 12.",
-    "fuente": "Capítulo II LPAC (Ley 39/2015)"
+    "fuente": "Título I, Capítulo II (arts. 9-12) LPAC (Ley 39/2015)"
   },
   {
     "q": "Según el art. 9.1, las Administraciones Públicas están obligadas a verificar la identidad de los interesados mediante la comprobación de:",
@@ -4437,7 +4437,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El Capítulo I del Título I abarca los artículos 3 (capacidad de obrar), 4 (concepto de interesado), 5 (representación), 6 (registros de apoderamientos), 7 (pluralidad de interesados) y 8 (nuevos interesados).",
-    "fuente": "Capítulo I LPAC (Ley 39/2015)"
+    "fuente": "Título I, Capítulo I (arts. 3-8) LPAC (Ley 39/2015)"
   },
   {
     "q": "¿Qué artículos de la Ley 39/2015 comprende el Capítulo II del Título I, 'Identificación y firma de los interesados'?",
@@ -4449,7 +4449,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El Capítulo II del Título I abarca los artículos 9 (sistemas de identificación), 10 (sistemas de firma), 11 (uso de medios de identificación y firma) y 12 (asistencia en el uso de medios electrónicos).",
-    "fuente": "Capítulo II LPAC (Ley 39/2015)"
+    "fuente": "Título I, Capítulo II (arts. 9-12) LPAC (Ley 39/2015)"
   },
   {
     "q": "Según el art. 5.1, la Administración se entiende con el representante del interesado salvo que:",
@@ -4689,7 +4689,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El Título Preliminar de la Ley 39/2015 comprende únicamente los artículos 1 (objeto de la Ley) y 2 (ámbito subjetivo de aplicación).",
-    "fuente": "Título Preliminar LPAC (Ley 39/2015)"
+    "fuente": "Título Preliminar (arts. 1-2) LPAC (Ley 39/2015)"
   },
   {
     "q": "Según el art. 4.1 c), para tener la condición de interesado por resultar afectados intereses legítimos, además de la afectación es necesario:",
@@ -5327,7 +5327,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "El art. 22.1 recoge siete supuestos (letras a) a g) de suspensión potestativa del plazo máximo para resolver.",
-    "fuente": "LPAC (Ley 39/2015)"
+    "fuente": "Art. 22.1 LPAC (Ley 39/2015)"
   },
   {
     "q": "Según el art. 23.1, la ampliación del plazo máximo de resolución y notificación no puede ser superior a:",
@@ -5879,7 +5879,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El Título II se divide en Capítulo I ('Normas generales de actuación', arts. 13-28) y Capítulo II ('Términos y plazos', arts. 29-33).",
-    "fuente": "Título II LPAC (Ley 39/2015)"
+    "fuente": "Título II, Capítulo II (arts. 29-33) LPAC (Ley 39/2015)"
   },
   {
     "q": "¿Qué artículos comprende el Capítulo I del Título II de la Ley 39/2015, 'Normas generales de actuación'?",
@@ -5891,7 +5891,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El Capítulo I del Título II ('Normas generales de actuación') comprende los artículos 13 a 28.",
-    "fuente": "Capítulo I LPAC (Ley 39/2015)"
+    "fuente": "Título II, Capítulo I (arts. 13-28) LPAC (Ley 39/2015)"
   },
   {
     "q": "El Título II de la Ley 39/2015 se titula:",
@@ -5903,7 +5903,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "El Título II lleva por rúbrica 'De la actividad de las Administraciones Públicas' y comprende los artículos 13 a 33.",
-    "fuente": "Título II LPAC (Ley 39/2015)"
+    "fuente": "Título II (arts. 13-33) LPAC (Ley 39/2015)"
   },
   {
     "q": "Según el art. 13 b), las personas tienen derecho a ser asistidas en:",
@@ -13813,7 +13813,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El TRLRHL fue aprobado por el Real Decreto Legislativo 2/2004, de 5 de marzo, que integra en un único texto la Ley 39/1988 y sus reformas posteriores.",
-    "fuente": "TRLRHL (RDLeg 2/2004)"
+    "fuente": "Real Decreto Legislativo 2/2004, de 5 de marzo (TRLRHL), norma aprobatoria"
   },
   {
     "q": "Según el art. 2.1 del TRLRHL, la hacienda de las entidades locales está constituida, entre otros, por:",
@@ -13885,7 +13885,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "El Capítulo I del Título I ('Recursos de las haciendas locales') se titula 'Enumeración' y comprende únicamente el art. 2.",
-    "fuente": "Capítulo I TRLRHL (RDLeg 2/2004)"
+    "fuente": "Título I, Capítulo I «Enumeración» (art. 2) TRLRHL (RDLeg 2/2004)"
   },
   {
     "q": "Según el art. 3.1 del TRLRHL, constituyen ingresos de derecho privado de las entidades locales:",
@@ -14197,7 +14197,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El Capítulo III del Título I del TRLRHL se titula 'Tributos' y comprende las Secciones dedicadas a normas generales, imposición y ordenación, tasas, contribuciones especiales, e impuestos y recargos.",
-    "fuente": "Capítulo III TRLRHL (RDLeg 2/2004)"
+    "fuente": "Título I, Capítulo III «Tributos» (arts. 6-40) TRLRHL (RDLeg 2/2004)"
   },
   {
     "q": "Según el art. 20.1 del TRLRHL, las entidades locales pueden establecer tasas por:",
@@ -14509,7 +14509,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "El Capítulo VI del Título I del TRLRHL se titula 'Precios públicos' y comprende los artículos 41 a 47.",
-    "fuente": "Capítulo VI TRLRHL (RDLeg 2/2004)"
+    "fuente": "Título I, Capítulo VI «Precios públicos» (arts. 41-47) TRLRHL (RDLeg 2/2004)"
   },
   {
     "q": "Según el art. 41 del TRLRHL, las entidades locales pueden establecer precios públicos por la prestación de servicios o actividades de su competencia, siempre que:",
@@ -14629,7 +14629,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El Capítulo VII del Título I del TRLRHL se titula 'Operaciones de crédito' y regula, entre otros, los arts. 48 a 55.",
-    "fuente": "Capítulo VII TRLRHL (RDLeg 2/2004)"
+    "fuente": "Título I, Capítulo VII «Operaciones de crédito» (arts. 48-55) TRLRHL (RDLeg 2/2004)"
   },
   {
     "q": "Según el art. 48 del TRLRHL, las entidades locales pueden concertar operaciones de crédito en todas sus modalidades, tanto a corto como a largo plazo, así como operaciones:",
@@ -14689,7 +14689,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "La distinción clave (arts. 20.1.B y 41 TRLRHL) es que la tasa se exige cuando el servicio no es de recepción voluntaria o no se presta por el sector privado; el precio público se aplica en los demás casos de prestación de servicios de la competencia local.",
-    "fuente": "TRLRHL (RDLeg 2/2004)"
+    "fuente": "Arts. 20.1.B) y 41 TRLRHL (RDLeg 2/2004)"
   },
   {
     "q": "¿Cuál es la diferencia esencial entre una tasa y una contribución especial, según el TRLRHL?",
