@@ -1618,3 +1618,85 @@ cita literal del precepto. Es una pista de longitud, defecto de forma frecuente
 también en exámenes reales. No se ha tocado: reescribir distractores ya
 verificados para igualar longitudes arriesga convertir uno en verdadero, y eso
 sí sería un fallo de contenido.
+
+---
+
+## Auditoría del banco original · SEGUNDA CAMPAÑA, ABIERTA (21-ago-2026)
+
+El filtro pregunta a pregunta que se pasó al tema 1 y a los legacy de los temas
+6, 10, 14 y 15 **no había llegado al resto**. Quedaban **1.196 preguntas en el
+archivo base** (`data/aux-admin-zaragoza.js`) que nunca lo habían pasado:
+
+| Tema | En el base | Citas sin artículo | Estado |
+|------|-----------|--------------------|--------|
+| 2 · igualdad y violencia | 100 | 26 | pendiente |
+| 3 · Estatuto de Aragón | 98 | 6 | pendiente |
+| 4 · LPAC interesados | 99 | 6 | pendiente |
+| 5 · LPAC actividad | 100 | 4 | pendiente |
+| 7 · LPAC procedimiento | 99 | 28 | pendiente |
+| 8 · LPAC revisión | 100 | 21 | pendiente |
+| 9 · contratos | 100 | 37 | **40 auditadas, 60 pendientes** |
+| 11 · actividad local | 97 | 51 | pendiente |
+| 12 · haciendas I | 99 | 6 | pendiente |
+| 13 · haciendas II | 100 | 13 | pendiente |
+| 16 · reglamentos | 100 | 33 | pendiente |
+| 17 · empleados I | 100 | 18 | pendiente |
+| 18 · empleados II | 2 | 2 | **cerrado** |
+| 19 · empleados III | 2 | 2 | **cerrado** |
+
+Los archivos de trabajo se sacan con
+`scratchpad/exportar-base.js <tema> <salida.json>` y los veredictos se aplican
+con `scratchpad/aplicar-auditoria2.js <tema> [...]`, que avisa —no calla— de
+cuántas preguntas se quedaron sin veredicto.
+
+### Por qué hacía falta
+
+Lo destapó el aviso de duplicado de `tools/validar.js`: dos preguntas del
+**tema 8** compartían enunciado sobre el art. 116 LPAC y **ninguna de las dos
+respuestas marcadas figuraba entre las cinco causas de inadmisión del
+precepto**. Una se había inventado una «incompetencia manifiesta del
+recurrente»; la otra daba por causa «haber sido ya resuelto de forma definitiva
+el asunto», que no lo es.
+
+### Tema 9 · las 40 primeras
+
+21 confirmadas, 18 corregidas, 1 descartada por alcance (versaba sobre el
+procedimiento abierto simplificado del art. 159, y el epígrafe del tema son
+solo los tipos contractuales, la competencia de contratación en las entidades
+locales y las normas locales de contratación).
+
+**Tres tenían la respuesta mal, y todas por lo mismo**: se apoyaban en el
+**art. 21.1.ñ) LBRL** (contratación del Alcalde) y en el **art. 22.2.n) LBRL**
+(contratación del Pleno), **derogados los dos por la disposición derogatoria
+única.b) de la Ley 30/2007**, en vigor desde el 30-abr-2008. En el consolidado
+aparecen literalmente como «(Derogada)». Hoy la competencia como órgano de
+contratación deriva de la **DA 2.ª LCSP** y de las cláusulas residuales de los
+arts. 21.1.s) y 22.2.q) LBRL. Las tres reescritas sobre el contenido vigente,
+manteniendo la posición de la correcta para no romper el equilibrio del tema
+(quedó en 65/65/65/64).
+
+Una cuarta se apoyaba en un criterio doctrinal —finalidad esencial, relevancia
+técnica, magnitud de las obras— que no está en la ley y que convivía con la
+regla legal expresa del art. 18.1.a); reescrita sobre el literal.
+
+Y dos situaban la Sección 1.ª y la Sección 2.ª de los tipos contractuales en el
+Capítulo I del Título Preliminar: están en el **Capítulo II**; el Capítulo I es
+«Objeto y ámbito de aplicación de la Ley».
+
+### Citas sin artículo: 400 → 364
+
+De las 400 preguntas cuya `fuente` nombraba la norma pero no el precepto quedan
+**364**. Una parte de esas 364 **no tiene artículo que citar** y está bien así:
+las 22 del tema 21 citan la pregunta del examen oficial, y algunas del tema 1
+citan el referéndum de 6-dic-1978 o la fórmula de sanción. El resto —sobre todo
+los temas 11 (51), 9 (los que faltan), 16 (33) y 7 (28)— sí necesita que se le
+localice el artículo.
+
+### Aviso operativo
+
+Esta campaña se intentó con cuatro auditores en paralelo (temas 7, 9, 11 y 16) y
+**el límite de sesión mató a los cuatro**. Solo sobrevivió lo que el del tema 9
+había escrito en disco: 40 de 100. La instrucción de «escribe el archivo cada 20
+preguntas» funciona, pero conviene **lanzar de dos en dos, no de cuatro en
+cuatro**, y comprobar el disco antes de dar por perdido el trabajo de un agente
+caído.

@@ -1,0 +1,18 @@
+{
+ "9": [
+  {
+   "q": "Según la doctrina sobre la LCSP en el ámbito local, ¿qué procedimiento de contratación adquiere especial protagonismo en la contratación local tras la reforma de 2017?",
+   "options": [
+    "El diálogo competitivo exclusivamente",
+    "El procedimiento negociado sin ningún requisito",
+    "El procedimiento restringido sin publicidad",
+    "El procedimiento abierto simplificado"
+   ],
+   "correct": 3,
+   "exp": "Entre las novedades de la LCSP 2017 para el ámbito local destaca el protagonismo del procedimiento abierto simplificado, pensado para agilizar contratos de menor complejidad.",
+   "fuente": "LCSP (Ley 9/2017)",
+   "motivoArchivo": "Fuera de alcance: versa sobre los procedimientos de adjudicación (procedimiento abierto simplificado, art. 159), materia que no cae en ninguno de los tres bloques del epígrafe.",
+   "temaOrigen": 9
+  }
+ ]
+}
