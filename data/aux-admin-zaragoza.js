@@ -21376,16 +21376,16 @@ const QUESTIONS = {
 ],
 18:[
   {
-    "q": "La situación administrativa en la que un funcionario de carrera no ejerce temporalmente las funciones propias de su cuerpo pero mantiene el vínculo con la Administración se llama, con carácter general:",
+    "q": "Según el art. 85.1 del TREBEP, los funcionarios de carrera se hallarán en alguna de las siguientes situaciones administrativas:",
     "options": [
-      "Servicios especiales / excedencia (según causa)",
-      "Servicio activo",
-      "Jubilación",
-      "Suspensión firme"
+      "Servicio activo, servicios especiales, servicio en otras Administraciones Públicas, excedencia y suspensión de funciones",
+      "Servicio activo, servicios especiales, excedencia y jubilación",
+      "Servicio activo, comisión de servicios, excedencia voluntaria y suspensión provisional",
+      "Servicio activo, servicios especiales, expectativa de destino y excedencia forzosa"
     ],
     "correct": 0,
-    "exp": "Situaciones como servicios especiales o excedencia permiten mantener la relación con la Administración sin ejercicio activo del puesto, según cada modalidad.",
-    "fuente": "TREBEP (RDLeg 5/2015)"
+    "exp": "Art. 85.1 TREBEP: la lista es cerrada y son cinco: a) servicio activo, b) servicios especiales, c) servicio en otras Administraciones Públicas, d) excedencia y e) suspensión de funciones. La jubilación no es una situación administrativa, sino una causa de pérdida de la condición de funcionario (art. 63.c). La expectativa de destino y la excedencia forzosa son situaciones de la legislación anterior que el art. 85.2 permite a las leyes de función pública regular, pero que no están en la enumeración básica.",
+    "fuente": "Art. 85.1 TREBEP (RDLeg 5/2015)"
   },
   {
     "q": "Las faltas disciplinarias de los empleados públicos se clasifican en:",
@@ -21396,34 +21396,34 @@ const QUESTIONS = {
       "No se clasifican, se valoran caso a caso"
     ],
     "correct": 1,
-    "exp": "El régimen disciplinario del TREBEP distingue faltas leves, graves y muy graves, con sanciones proporcionadas a cada categoría.",
-    "fuente": "TREBEP (RDLeg 5/2015)"
+    "exp": "Art. 95.1 TREBEP: «Las faltas disciplinarias pueden ser muy graves, graves y leves». El propio artículo enumera en su apartado 2 las muy graves; las graves y las leves las establecen las leyes de función pública que se dicten en desarrollo del Estatuto (art. 95.3 y 95.4).",
+    "fuente": "Art. 95.1 TREBEP (RDLeg 5/2015)"
   },
 ],
 19:[
   {
-    "q": "La función pública local se estructura, entre otros, en torno a los llamados 'puestos reservados a funcionarios con habilitación de carácter nacional', que incluyen típicamente:",
+    "q": "Según el art. 92 bis.2 de la LBRL, la escala de funcionarios de administración local con habilitación de carácter nacional se subdivide en las subescalas de:",
     "options": [
-      "Secretaría, Intervención y Tesorería",
-      "Solo la Alcaldía",
-      "Solo la Policía Local",
-      "Los puestos de limpieza viaria"
+      "Secretaría, Intervención-tesorería y Secretaría-intervención",
+      "Secretaría, Intervención y Tesorería, como tres subescalas separadas",
+      "Secretaría-intervención y Tesorería-recaudación",
+      "Secretaría general, Intervención general y Depositaría de fondos"
     ],
     "correct": 0,
-    "exp": "Los puestos de Secretaría, Intervención y Tesorería están reservados a funcionarios de habilitación nacional en las entidades locales.",
-    "fuente": "TREBEP (RDLeg 5/2015)"
+    "exp": "Art. 92 bis.2 LBRL: las subescalas son tres, a) Secretaría (las funciones del ap. 1.a: fe pública y asesoramiento legal preceptivo), b) Intervención-tesorería (las del ap. 1.b: control y fiscalización interna de la gestión económico-financiera y presupuestaria, contabilidad, tesorería y recaudación) y c) Secretaría-intervención (las de ambos apartados). Intervención y tesorería no son dos subescalas distintas, van juntas en una sola.",
+    "fuente": "Art. 92 bis.2 LBRL (Ley 7/1985)"
   },
   {
-    "q": "Las peculiaridades del régimen de empleados públicos locales se derivan principalmente de:",
+    "q": "Conforme al art. 92 bis.3 de la LBRL, los funcionarios de las subescalas de Secretaría e Intervención-tesorería estarán integrados en una de estas dos categorías:",
     "options": [
-      "La ausencia total de normativa aplicable",
-      "La combinación de normativa básica estatal (TREBEP) con la potestad de autoorganización de cada entidad local",
-      "Su carácter exclusivamente laboral",
-      "Un régimen idéntico al de la Administración del Estado sin matices"
+      "Entrada o superior",
+      "Primera o segunda",
+      "Básica o ejecutiva",
+      "General o especial"
     ],
-    "correct": 1,
-    "exp": "Se combina la normativa básica estatal con las particularidades organizativas propias de cada entidad local dentro de su autonomía.",
-    "fuente": "TREBEP (RDLeg 5/2015)"
+    "correct": 0,
+    "exp": "Art. 92 bis.3 LBRL: «Los funcionarios de las subescalas de Secretaría e Intervención-tesorería estarán integrados en una de estas dos categorías: entrada o superior». Ojo, la subescala de Secretaría-intervención no se divide en categorías.",
+    "fuente": "Art. 92 bis.3 LBRL (Ley 7/1985)"
   },
 ],
 20:[
