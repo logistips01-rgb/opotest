@@ -13179,19 +13179,6 @@ window.addQuestions('aux-admin-zaragoza', 14, [  {
     "confianza": "alta"
   },
   {
-    "q": "Cuando un municipio alcanza, según la revisión del padrón, la población requerida para la aplicación del Título X LBRL, ¿de qué plazo máximo dispone la nueva corporación desde su constitución para adaptar su organización?",
-    "options": [
-      "Un año",
-      "Tres meses",
-      "Dos años",
-      "Seis meses"
-    ],
-    "correct": 3,
-    "exp": "El art. 121.2 LBRL establece un plazo máximo de seis meses desde la constitución de la nueva corporación para adaptar su organización al contenido del Título X.",
-    "fuente": "Art. 121.2 LBRL (Ley 7/1985)",
-    "confianza": "alta"
-  },
-  {
     "q": "Según el art. 122.1 LBRL, el Pleno de los municipios de gran población está formado por:",
     "options": [
       "El Alcalde y los Concejales",
@@ -13634,19 +13621,6 @@ window.addQuestions('aux-admin-zaragoza', 14, [  {
     "correct": 1,
     "exp": "El art. 45 LBRL aparece en el consolidado vigente como 'Sin contenido', al haber sido dejado sin contenido por el art. 1.14 de la Ley 27/2013, de 27 de diciembre; la materia de entidades de ámbito territorial inferior al municipio pasó a regularse en el art. 24 bis.",
     "fuente": "Art. 45 LBRL (Ley 7/1985), texto consolidado vigente",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 25.1 de la LBRL, el Municipio, para la gestión de sus intereses y en el ámbito de sus competencias, puede promover actividades y prestar servicios públicos que contribuyan a satisfacer:",
-    "options": [
-      "Las directrices del Plan Nacional de Reformas",
-      "Exclusivamente las necesidades declaradas de interés estatal",
-      "Las necesidades y aspiraciones de la comunidad vecinal",
-      "Únicamente las necesidades de la Diputación Provincial"
-    ],
-    "correct": 2,
-    "exp": "Art. 25.1: el Municipio puede promover actividades y prestar los servicios públicos que contribuyan a satisfacer las necesidades y aspiraciones de la comunidad vecinal.",
-    "fuente": "Art. 25.1 LBRL (Ley 7/1985)",
     "confianza": "alta"
   },
   {
@@ -17797,19 +17771,6 @@ window.addQuestions('aux-admin-zaragoza', 13, [  {
     "confianza": "alta"
   },
   {
-    "q": "Según el art. 169.7 del TRLRHL, ¿durante qué período debe hallarse a disposición del público, a efectos informativos, la copia del presupuesto y de sus modificaciones?",
-    "options": [
-      "Desde su aprobación definitiva hasta la finalización del ejercicio",
-      "Durante los 15 días de la exposición pública inicial únicamente",
-      "Desde su aprobación inicial hasta su aprobación definitiva",
-      "Solo durante el primer trimestre del ejercicio"
-    ],
-    "correct": 0,
-    "exp": "Art. 169.7: 'La copia del presupuesto y de sus modificaciones deberá hallarse a disposición del público, a efectos informativos, desde su aprobación definitiva hasta la finalización del ejercicio.'",
-    "fuente": "Art. 169.7 TRLRHL (RDLeg 2/2004)",
-    "confianza": "alta"
-  },
-  {
     "q": "Según el art. 170.1 del TRLRHL, los colegios oficiales, cámaras oficiales, sindicatos y asociaciones legalmente constituidas tienen la consideración de interesados para reclamar contra el presupuesto cuando actúen:",
     "options": [
       "Solo si acreditan más de 1.000 asociados inscritos",
@@ -19012,19 +18973,6 @@ window.addQuestions('aux-admin-zaragoza', 12, [  {
     "confianza": "alta"
   },
   {
-    "q": "Una vez determinada la cuota a satisfacer por contribuciones especiales, ¿por qué plazo máximo puede la corporación conceder el fraccionamiento o aplazamiento de aquella, según el art. 32.3 TRLRHL?",
-    "options": [
-      "Dos años",
-      "Cinco años",
-      "Un año",
-      "Diez años"
-    ],
-    "correct": 1,
-    "exp": "El art. 32.3 TRLRHL permite conceder el fraccionamiento o aplazamiento de la cuota por un plazo máximo de cinco años.",
-    "fuente": "Art. 32.3 TRLRHL",
-    "confianza": "alta"
-  },
-  {
     "q": "¿Cuándo se devengan las contribuciones especiales según el art. 33.1 TRLRHL?",
     "options": [
       "En el momento de la notificación individual de la cuota a cada sujeto pasivo",
@@ -19220,19 +19168,6 @@ window.addQuestions('aux-admin-zaragoza', 12, [  {
     "confianza": "alta"
   },
   {
-    "q": "¿Qué debe cubrir, como mínimo, el importe de los precios públicos según el art. 44.1 TRLRHL?",
-    "options": [
-      "El coste medio de servicios similares en municipios limítrofes",
-      "El coste del servicio prestado o de la actividad realizada",
-      "Un porcentaje fijado anualmente por el Ministerio de Hacienda",
-      "El doble del coste del servicio prestado"
-    ],
-    "correct": 1,
-    "exp": "El art. 44.1 TRLRHL exige que el importe del precio público cubra, como mínimo, el coste del servicio o actividad.",
-    "fuente": "Art. 44.1 TRLRHL",
-    "confianza": "alta"
-  },
-  {
     "q": "Cuando existan razones sociales, benéficas, culturales o de interés público, según el art. 44.2 TRLRHL, ¿puede la entidad local fijar precios públicos por debajo del coste del servicio?",
     "options": [
       "Sí, sin necesidad de consignar dotación presupuestaria alguna",
@@ -19308,19 +19243,6 @@ window.addQuestions('aux-admin-zaragoza', 12, [  {
     "correct": 3,
     "exp": "El art. 47.1 TRLRHL atribuye al Pleno el establecimiento o modificación de los precios públicos, sin perjuicio de la delegación en la Comisión de Gobierno.",
     "fuente": "Art. 47.1 TRLRHL",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 47.2 TRLRHL, ¿pueden las entidades locales atribuir a sus organismos autónomos la fijación de los precios públicos de los servicios a su cargo?",
-    "options": [
-      "Sí, salvo cuando los precios no cubran el coste del servicio",
-      "Sí, pero únicamente si lo autoriza previamente el Ministerio de Hacienda",
-      "No, esa competencia es indelegable y corresponde siempre al Pleno",
-      "Sí, en todo caso y sin ninguna excepción"
-    ],
-    "correct": 0,
-    "exp": "El art. 47.2 TRLRHL permite atribuir a los organismos autónomos la fijación de los precios públicos de sus servicios, salvo que no cubran el coste.",
-    "fuente": "Art. 47.2 TRLRHL",
     "confianza": "alta"
   },
   {
@@ -20110,19 +20032,6 @@ window.addQuestions('aux-admin-zaragoza', 12, [  {
     "confianza": "alta"
   },
   {
-    "q": "Según el art. 19.1 TRLRHL, contra las ordenanzas fiscales de las entidades locales no cabe otro recurso que:",
-    "options": [
-      "El de alzada ante la comunidad autónoma",
-      "El contencioso-administrativo",
-      "El de súplica ante el Tribunal Constitucional",
-      "El de reposición potestativo ante el Pleno"
-    ],
-    "correct": 1,
-    "exp": "El art. 19.1 TRLRHL establece que las ordenanzas fiscales regirán durante el plazo previsto en ellas, sin que quepa contra ellas otro recurso que el contencioso-administrativo.",
-    "fuente": "Art. 19.1 TRLRHL",
-    "confianza": "alta"
-  },
-  {
     "q": "Según el art. 20.1 TRLRHL, las entidades locales podrán establecer tasas por la utilización privativa o el aprovechamiento especial del dominio público local, así como por:",
     "options": [
       "El ejercicio del derecho de sufragio activo",
@@ -20854,19 +20763,6 @@ window.addQuestions('aux-admin-zaragoza', 11, [  {
     "confianza": "alta"
   },
   {
-    "q": "Según el art. 86.1 LBRL, corresponde la aprobación del expediente de iniciativa pública económica, que determinará la forma concreta de gestión del servicio, a:",
-    "options": [
-      "El interventor municipal",
-      "El Alcalde-Presidente",
-      "El Pleno de la respectiva Corporación local",
-      "La Junta de Gobierno Local"
-    ],
-    "correct": 2,
-    "exp": "Art. 86.1: corresponde al Pleno de la respectiva Corporación local la aprobación del expediente, que determinará la forma concreta de gestión del servicio.",
-    "fuente": "Art. 86.1 LBRL",
-    "confianza": "alta"
-  },
-  {
     "q": "Según el art. 86.2 LBRL, se declara la reserva en favor de las Entidades Locales de las siguientes actividades o servicios esenciales:",
     "options": [
       "Policía local, protección civil y extinción de incendios",
@@ -20997,19 +20893,6 @@ window.addQuestions('aux-admin-zaragoza', 11, [  {
     "correct": 0,
     "exp": "El art. 84.1.e) LBRL incluye, como último medio de intervención, las órdenes individuales constitutivas de mandato para la ejecución de un acto o la prohibición del mismo.",
     "fuente": "Art. 84.1.e) LBRL",
-    "confianza": "alta"
-  },
-  {
-    "q": "El art. 84.2 LBRL dispone que la actividad de intervención de las Entidades locales se ajustará, en todo caso, a los principios de:",
-    "options": [
-      "Publicidad, concurrencia y transparencia",
-      "Igualdad de trato, necesidad y proporcionalidad con el objetivo que se persigue",
-      "Legalidad, tipicidad y non bis in idem",
-      "Eficacia, jerarquía y descentralización"
-    ],
-    "correct": 1,
-    "exp": "El art. 84.2 LBRL establece que la actividad de intervención se ajustará, en todo caso, a los principios de igualdad de trato, necesidad y proporcionalidad con el objetivo que se persigue.",
-    "fuente": "Art. 84.2 LBRL",
     "confianza": "alta"
   },
   {
@@ -22160,19 +22043,6 @@ window.addQuestions('aux-admin-zaragoza', 11, [  {
     "correct": 0,
     "exp": "El art. 4.1 LBRL no incluye entre sus ocho letras (a-h) una 'potestad legislativa'; sí incluye la de programación o planificación (c), la de revisión de oficio (g) y la de ejecución forzosa, unida a la sancionadora (f).",
     "fuente": "Art. 4.1 LBRL",
-    "confianza": "alta"
-  },
-  {
-    "q": "¿Cuántos medios de intervención en la actividad de los ciudadanos enumera el art. 84.1 LBRL?",
-    "options": [
-      "Tres",
-      "Cinco",
-      "Cuatro",
-      "Seis"
-    ],
-    "correct": 1,
-    "exp": "El art. 84.1 LBRL enumera cinco medios, en las letras a) a e): ordenanzas y bandos; previa licencia y otros actos de control preventivo; comunicación previa o declaración responsable; control posterior; y órdenes individuales.",
-    "fuente": "Art. 84.1 LBRL",
     "confianza": "alta"
   },
   {
@@ -26768,19 +26638,6 @@ window.addQuestions('aux-admin-zaragoza', 8, [  {
     "confianza": "alta"
   },
   {
-    "q": "Según el art. 107.1 LPAC, la Administración puede impugnar ante el orden jurisdiccional contencioso-administrativo los actos favorables para los interesados que sean anulables, previa:",
-    "options": [
-      "Sentencia firme del Tribunal Constitucional",
-      "Su declaración de lesividad para el interés público",
-      "Informe del Tribunal de Cuentas",
-      "Autorización del Consejo de Estado"
-    ],
-    "correct": 1,
-    "exp": "El art. 107.1 exige que esa impugnación se realice 'previa su declaración de lesividad para el interés público'.",
-    "fuente": "Art. 107.1 LPAC",
-    "confianza": "alta"
-  },
-  {
     "q": "Según el art. 107.1 LPAC, los actos favorables para los interesados que la Administración puede impugnar mediante declaración de lesividad son los anulables conforme a lo dispuesto en:",
     "options": [
       "El artículo 106",
@@ -27788,19 +27645,6 @@ window.addQuestions('aux-admin-zaragoza', 8, [  {
     "confianza": "alta"
   },
   {
-    "q": "¿Cuál es el plazo máximo para dictar y notificar la resolución del recurso de alzada, según el art. 122.2 LPAC?",
-    "options": [
-      "Un mes",
-      "Seis meses",
-      "Tres meses",
-      "Dos meses"
-    ],
-    "correct": 2,
-    "exp": "Art. 122.2: 'El plazo máximo para dictar y notificar la resolución será de tres meses.'",
-    "fuente": "Art. 122.2 LPAC",
-    "confianza": "alta"
-  },
-  {
     "q": "Según el art. 122.2 LPAC, transcurrido el plazo máximo de tres meses sin que recaiga resolución expresa en el recurso de alzada, con carácter general:",
     "options": [
       "El recurso caduca y debe volver a interponerse",
@@ -27980,19 +27824,6 @@ window.addQuestions('aux-admin-zaragoza', 8, [  {
     "correct": 0,
     "exp": "Art. 124.1: 'Transcurrido dicho plazo, únicamente podrá interponerse recurso contencioso-administrativo, sin perjuicio, en su caso, de la procedencia del recurso extraordinario de revisión.' No se contempla la alzada como alternativa.",
     "fuente": "Art. 124.1 LPAC",
-    "confianza": "alta"
-  },
-  {
-    "q": "¿Cuál es el plazo máximo para dictar y notificar la resolución del recurso de reposición, según el art. 124.2 LPAC?",
-    "options": [
-      "Dos meses",
-      "Un mes",
-      "Tres meses",
-      "Quince días"
-    ],
-    "correct": 1,
-    "exp": "Art. 124.2: 'El plazo máximo para dictar y notificar la resolución del recurso será de un mes.'",
-    "fuente": "Art. 124.2 LPAC",
     "confianza": "alta"
   },
   {
@@ -28451,19 +28282,6 @@ window.addQuestions('aux-admin-zaragoza', 8, [  {
     "correct": 0,
     "exp": "El art. 125.1 recoge cuatro causas en total (a, b, c y d); además del error de hecho, añade otras tres: documentos esenciales sobrevenidos, falsedad declarada judicialmente y delito declarado judicialmente.",
     "fuente": "Art. 125.1 LPAC",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 113 LPAC, contra los actos firmes en vía administrativa solo procederá el recurso extraordinario de revisión cuando concurra alguna de las circunstancias previstas en:",
-    "options": [
-      "El artículo 24.1",
-      "El artículo 125.1",
-      "El artículo 47.1",
-      "El artículo 112.1"
-    ],
-    "correct": 1,
-    "exp": "Art. 113: 'sólo procederá el recurso extraordinario de revisión cuando concurra alguna de las circunstancias previstas en el artículo 125.1.'",
-    "fuente": "Art. 113 LPAC",
     "confianza": "alta"
   },
   {
@@ -31634,19 +31452,6 @@ window.addQuestions('aux-admin-zaragoza', 6, [  {
     "confianza": "alta"
   },
   {
-    "q": "Según el art. 36.2 LPAC, cuando un órgano administrativo ejerza su competencia de forma verbal, la constancia escrita del acto, cuando sea necesaria, se efectuará y firmará por:",
-    "options": [
-      "El titular del órgano inferior o funcionario que la reciba oralmente",
-      "Un notario habilitado al efecto por la Administración",
-      "El interesado que recibió la orden verbal",
-      "El secretario general de la Corporación, en todo caso"
-    ],
-    "correct": 0,
-    "exp": "El art. 36.2 LPAC atribuye esa constancia escrita 'al titular del órgano inferior o funcionario que la reciba oralmente'.",
-    "fuente": "Art. 36.2 LPAC",
-    "confianza": "alta"
-  },
-  {
     "q": "Según el art. 36.2 LPAC, si se tratara de resoluciones dictadas de forma verbal, el titular de la competencia deberá:",
     "options": [
       "Ratificarlas por escrito ante el interesado en el plazo de un mes",
@@ -31813,19 +31618,6 @@ window.addQuestions('aux-admin-zaragoza', 6, [  {
     "correct": 1,
     "exp": "El art. 39.1 LPAC dispone que los actos 'producirán efectos desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa'.",
     "fuente": "Art. 39.1 LPAC",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 39.2 LPAC, la eficacia de un acto administrativo quedará demorada cuando así lo exija su contenido o esté supeditada a:",
-    "options": [
-      "Su inscripción registral y la liquidación previa de tasas",
-      "El transcurso de seis meses desde su fecha de emisión",
-      "Su notificación, publicación o aprobación superior",
-      "Su ratificación por el órgano colegiado superior en pleno"
-    ],
-    "correct": 2,
-    "exp": "El art. 39.2 LPAC señala que la eficacia se demora cuando esté 'supeditada a su notificación, publicación o aprobación superior'.",
-    "fuente": "Art. 39.2 LPAC",
     "confianza": "alta"
   },
   {
@@ -47724,18 +47516,6 @@ window.addQuestions("aux-admin-zaragoza", 8, [  {
     ],
     "correct": 2,
     "exp": "Art. 109.2 LPAC: la Administración puede rectificar 'en cualquier momento' los errores materiales, de hecho o aritméticos. Correcta, pero es rectificación de errores (tema 8). (Procedía del tema 6 del banco original; reubicada aquí en la auditoría del 19-ago-2026.)",
-    "fuente": "Art. 109.2 LPAC (Ley 39/2015)"
-  },
-  {
-    "q": "¿Cuándo puede solicitarse la revisión de errores de hecho de un acto administrativo?",
-    "options": [
-      "En el plazo de un mes desde que fuera dictado.",
-      "En el plazo de un año desde que fuera dictado.",
-      "En el plazo de diez días desde que fuera dictado.",
-      "En cualquier momento."
-    ],
-    "correct": 3,
-    "exp": "Art. 109.2 LPAC: los errores de hecho son rectificables en cualquier momento. Correcta, pero es tema 8; prácticamente idéntica a la pregunta anterior sobre errores materiales. (Procedía del tema 6 del banco original; reubicada aquí en la auditoría del 19-ago-2026.)",
     "fuente": "Art. 109.2 LPAC (Ley 39/2015)"
   },
 ]);

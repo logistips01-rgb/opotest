@@ -1,0 +1,497 @@
+[
+ {
+  "tema": 3,
+  "seQuedaEnSuLugar": "Según el art. 37.1 EAA, ¿qué carácter tienen las Cortes de Aragón?",
+  "retirada": {
+   "q": "Según el art. 37.1, las Cortes de Aragón tienen carácter:",
+   "options": [
+    "Unicameral",
+    "Bicameral",
+    "Variable según la legislatura",
+    "Tricameral, con una cámara consultiva adicional"
+   ],
+   "fuente": "Art. 37.1 EAAr (LO 5/2007)",
+   "exp": "Art. 37.1: 'Las Cortes de Aragón tendrán carácter unicameral y estarán constituidas por Diputados y Diputadas elegidos mediante sufragio universal, igual, libre, directo y secreto.'"
+  }
+ },
+ {
+  "tema": 3,
+  "seQuedaEnSuLugar": "Según el art. 37.4 EAA, ¿cuál es la circunscripción electoral para las elecciones a Cortes de Aragón?",
+  "retirada": {
+   "q": "Según el art. 37.4, la circunscripción electoral para las elecciones a Cortes de Aragón es:",
+   "options": [
+    "Toda la Comunidad Autónoma como circunscripción única",
+    "El municipio",
+    "La provincia",
+    "La comarca"
+   ],
+   "fuente": "Art. 37.4 EAAr (LO 5/2007)",
+   "exp": "Art. 37.4: 'La circunscripción electoral será la provincia.'"
+  }
+ },
+ {
+  "tema": 4,
+  "seQuedaEnSuLugar": "Según el art. 11.1 LPAC, para realizar cualquier actuación prevista en el procedimiento administrativo, con carácter general, ¿qué es suficiente que los interesados acrediten previamente?",
+  "retirada": {
+   "q": "Según el art. 11.1, con carácter general, para realizar cualquier actuación en el procedimiento administrativo será suficiente con que los interesados acrediten previamente:",
+   "options": [
+    "Su situación económica",
+    "Su identidad a través de cualquiera de los medios de identificación previstos en la Ley",
+    "Su domicilio fiscal",
+    "Su firma electrónica cualificada en todo caso"
+   ],
+   "fuente": "Art. 11.1 LPAC (Ley 39/2015)",
+   "exp": "Art. 11.1: 'Con carácter general, para realizar cualquier actuación prevista en el procedimiento administrativo, será suficiente con que los interesados acrediten previamente su identidad...'"
+  }
+ },
+ {
+  "tema": 6,
+  "seQuedaEnSuLugar": "Según el art. 36.2, cuando un órgano ejerza su competencia de forma verbal, la constancia escrita del acto, cuando sea necesaria, se efectuará y firmará por:",
+  "retirada": {
+   "q": "Según el art. 36.2 LPAC, cuando un órgano administrativo ejerza su competencia de forma verbal, la constancia escrita del acto, cuando sea necesaria, se efectuará y firmará por:",
+   "options": [
+    "El titular del órgano inferior o funcionario que la reciba oralmente",
+    "Un notario habilitado al efecto por la Administración",
+    "El interesado que recibió la orden verbal",
+    "El secretario general de la Corporación, en todo caso"
+   ],
+   "fuente": "Art. 36.2 LPAC",
+   "exp": "El art. 36.2 LPAC atribuye esa constancia escrita 'al titular del órgano inferior o funcionario que la reciba oralmente'."
+  }
+ },
+ {
+  "tema": 6,
+  "seQuedaEnSuLugar": "Según el art. 39.2, la eficacia de un acto quedará demorada cuando así lo exija su contenido o esté supeditada a:",
+  "retirada": {
+   "q": "Según el art. 39.2 LPAC, la eficacia de un acto administrativo quedará demorada cuando así lo exija su contenido o esté supeditada a:",
+   "options": [
+    "Su inscripción registral y la liquidación previa de tasas",
+    "El transcurso de seis meses desde su fecha de emisión",
+    "Su notificación, publicación o aprobación superior",
+    "Su ratificación por el órgano colegiado superior en pleno"
+   ],
+   "fuente": "Art. 39.2 LPAC",
+   "exp": "El art. 39.2 LPAC señala que la eficacia se demora cuando esté 'supeditada a su notificación, publicación o aprobación superior'."
+  }
+ },
+ {
+  "tema": 7,
+  "seQuedaEnSuLugar": "Según el art. 80.1 LPAC, salvo disposición expresa en contrario, los informes serán...",
+  "retirada": {
+   "q": "Según el art. 80, salvo disposición expresa en contrario, los informes serán:",
+   "options": [
+    "Facultativos y no vinculantes",
+    "Obligatorios solo si el interesado los solicita",
+    "Siempre preceptivos y vinculantes",
+    "Vinculantes únicamente si son favorables al interesado"
+   ],
+   "fuente": "Art. 80.1 LPAC (Ley 39/2015)",
+   "exp": "Art. 80.1: 'Salvo disposición expresa en contrario, los informes serán facultativos y no vinculantes.'"
+  }
+ },
+ {
+  "tema": 8,
+  "seQuedaEnSuLugar": "Según el art. 107, las AAPP pueden impugnar ante el orden jurisdiccional contencioso-administrativo los actos favorables para los interesados que sean anulables, previa:",
+  "retirada": {
+   "q": "Según el art. 107.1 LPAC, la Administración puede impugnar ante el orden jurisdiccional contencioso-administrativo los actos favorables para los interesados que sean anulables, previa:",
+   "options": [
+    "Sentencia firme del Tribunal Constitucional",
+    "Su declaración de lesividad para el interés público",
+    "Informe del Tribunal de Cuentas",
+    "Autorización del Consejo de Estado"
+   ],
+   "fuente": "Art. 107.1 LPAC",
+   "exp": "El art. 107.1 exige que esa impugnación se realice 'previa su declaración de lesividad para el interés público'."
+  }
+ },
+ {
+  "tema": 8,
+  "seQuedaEnSuLugar": "Según el art. 113, contra los actos firmes en vía administrativa solo cabrá el recurso extraordinario de revisión cuando concurra alguna de las circunstancias previstas en:",
+  "retirada": {
+   "q": "Según el art. 113 LPAC, contra los actos firmes en vía administrativa solo procederá el recurso extraordinario de revisión cuando concurra alguna de las circunstancias previstas en:",
+   "options": [
+    "El artículo 24.1",
+    "El artículo 125.1",
+    "El artículo 47.1",
+    "El artículo 112.1"
+   ],
+   "fuente": "Art. 113 LPAC",
+   "exp": "Art. 113: 'sólo procederá el recurso extraordinario de revisión cuando concurra alguna de las circunstancias previstas en el artículo 125.1.'"
+  }
+ },
+ {
+  "tema": 8,
+  "seQuedaEnSuLugar": "Según el art. 122.2, el plazo máximo para dictar y notificar la resolución del recurso de alzada es de:",
+  "retirada": {
+   "q": "¿Cuál es el plazo máximo para dictar y notificar la resolución del recurso de alzada, según el art. 122.2 LPAC?",
+   "options": [
+    "Un mes",
+    "Seis meses",
+    "Tres meses",
+    "Dos meses"
+   ],
+   "fuente": "Art. 122.2 LPAC",
+   "exp": "Art. 122.2: 'El plazo máximo para dictar y notificar la resolución será de tres meses.'"
+  }
+ },
+ {
+  "tema": 8,
+  "seQuedaEnSuLugar": "Según el art. 124.2, el plazo máximo para dictar y notificar la resolución del recurso de reposición es de:",
+  "retirada": {
+   "q": "¿Cuál es el plazo máximo para dictar y notificar la resolución del recurso de reposición, según el art. 124.2 LPAC?",
+   "options": [
+    "Dos meses",
+    "Un mes",
+    "Tres meses",
+    "Quince días"
+   ],
+   "fuente": "Art. 124.2 LPAC",
+   "exp": "Art. 124.2: 'El plazo máximo para dictar y notificar la resolución del recurso será de un mes.'"
+  }
+ },
+ {
+  "tema": 8,
+  "seQuedaEnSuLugar": "¿Cuándo puede solicitarse la revisión de errores materiales de un acto administrativo?",
+  "retirada": {
+   "q": "¿Cuándo puede solicitarse la revisión de errores de hecho de un acto administrativo?",
+   "options": [
+    "En el plazo de un mes desde que fuera dictado.",
+    "En el plazo de un año desde que fuera dictado.",
+    "En el plazo de diez días desde que fuera dictado.",
+    "En cualquier momento."
+   ],
+   "fuente": "Art. 109.2 LPAC (Ley 39/2015)",
+   "exp": "Art. 109.2 LPAC: los errores de hecho son rectificables en cualquier momento. Correcta, pero es tema 8; prácticamente idéntica a la pregunta anterior sobre errores materiales. (Procedía del tema 6 del banco original; reubicada aquí en la auditoría del 19-ago-2026.)"
+  }
+ },
+ {
+  "tema": 10,
+  "seQuedaEnSuLugar": "Según el art. 79.3 LBRL, ¿qué bienes tienen la consideración de bienes de dominio público?",
+  "retirada": {
+   "q": "Según el art. 79.3 de la LBRL, son bienes de dominio público:",
+   "options": [
+    "Solo los edificios administrativos",
+    "Todos los bienes inmuebles sin excepción",
+    "Los destinados a un uso o servicio público",
+    "Los bienes adquiridos en los últimos veinticinco años"
+   ],
+   "fuente": "Art. 79.3 LBRL (Ley 7/1985)",
+   "exp": "Art. 79.3: 'Son bienes de dominio público los destinados a un uso o servicio público.'"
+  }
+ },
+ {
+  "tema": 10,
+  "seQuedaEnSuLugar": "Según el art. 80.1 LBRL, los bienes comunales y demás bienes de dominio público son:",
+  "retirada": {
+   "q": "Según el art. 80.1 de la LBRL, los bienes comunales y demás bienes de dominio público son:",
+   "options": [
+    "Inalienables, inembargables e imprescriptibles y no están sujetos a tributo alguno",
+    "Libremente enajenables por el Alcalde sin autorización",
+    "Susceptibles de embargo por cualquier acreedor municipal",
+    "Bienes sujetos al Impuesto sobre Bienes Inmuebles en todo caso"
+   ],
+   "fuente": "Art. 80.1 LBRL (Ley 7/1985)",
+   "exp": "Art. 80.1: 'Los bienes comunales y demás bienes de dominio público son inalienables, inembargables e imprescriptibles y no están sujetos a tributo alguno.'"
+  }
+ },
+ {
+  "tema": 10,
+  "seQuedaEnSuLugar": "Según el art. 83 LBRL, los montes vecinales en mano común se regulan por:",
+  "retirada": {
+   "q": "Según el art. 83 de la LBRL, los montes vecinales en mano común se regulan por:",
+   "options": [
+    "Su legislación específica",
+    "El Código Civil exclusivamente",
+    "Las ordenanzas fiscales municipales",
+    "El Reglamento de Bienes de las Entidades Locales, sin excepción"
+   ],
+   "fuente": "Art. 83 LBRL (Ley 7/1985)",
+   "exp": "Art. 83: 'Los montes vecinales en mano común se regulan por su legislación específica.'"
+  }
+ },
+ {
+  "tema": 10,
+  "seQuedaEnSuLugar": "Conforme al art. 2.4 RBEL, los bienes comunales solo podrán pertenecer a:",
+  "retirada": {
+   "q": "Según el art. 2.4 del RBEL, los bienes comunales solo podrán pertenecer a:",
+   "options": [
+    "Las Diputaciones Provinciales exclusivamente",
+    "Cualquier tipo de Entidad Local sin excepción",
+    "Los Municipios y a las Entidades locales menores",
+    "Las Comunidades Autónomas"
+   ],
+   "fuente": "Art. 2.4 RBEL (RD 1372/1986)",
+   "exp": "Art. 2.4 RBEL: 'Los bienes comunales solo podrán pertenecer a los municipios y a las entidades locales menores.'"
+  }
+ },
+ {
+  "tema": 11,
+  "seQuedaEnSuLugar": "Según el art. 84.2 LBRL, ¿a qué principios debe ajustarse en todo caso la actividad de intervención de las entidades locales?",
+  "retirada": {
+   "q": "Según el art. 84.2 de la LBRL, la actividad de intervención de las Entidades locales se ajustará, en todo caso, a los principios de:",
+   "options": [
+    "Igualdad de trato, necesidad y proporcionalidad con el objetivo que se persigue",
+    "Discrecionalidad absoluta sin ningún límite",
+    "Gratuidad obligatoria en todos los casos",
+    "Confidencialidad total frente a los interesados"
+   ],
+   "fuente": "Art. 84.2 LBRL (Ley 7/1985)",
+   "exp": "Art. 84.2: 'La actividad de intervención de las Entidades locales se ajustará, en todo caso, a los principios de igualdad de trato, necesidad y proporcionalidad con el objetivo que se persigue.'"
+  }
+ },
+ {
+  "tema": 11,
+  "seQuedaEnSuLugar": "Según el art. 84.2 LBRL, ¿a qué principios debe ajustarse en todo caso la actividad de intervención de las entidades locales?",
+  "retirada": {
+   "q": "El art. 84.2 LBRL dispone que la actividad de intervención de las Entidades locales se ajustará, en todo caso, a los principios de:",
+   "options": [
+    "Publicidad, concurrencia y transparencia",
+    "Igualdad de trato, necesidad y proporcionalidad con el objetivo que se persigue",
+    "Legalidad, tipicidad y non bis in idem",
+    "Eficacia, jerarquía y descentralización"
+   ],
+   "fuente": "Art. 84.2 LBRL",
+   "exp": "El art. 84.2 LBRL establece que la actividad de intervención se ajustará, en todo caso, a los principios de igualdad de trato, necesidad y proporcionalidad con el objetivo que se persigue."
+  }
+ },
+ {
+  "tema": 11,
+  "seQuedaEnSuLugar": "Según el art. 84.3 LBRL, las licencias o autorizaciones otorgadas por otras Administraciones Públicas:",
+  "retirada": {
+   "q": "Según el art. 84.3 de la LBRL, las licencias o autorizaciones otorgadas por otras Administraciones Públicas:",
+   "options": [
+    "Solo tienen validez si son ratificadas por el Consejo de Estado",
+    "No eximen a sus titulares de obtener las correspondientes licencias de las Entidades locales, respetándose lo dispuesto en las leyes sectoriales",
+    "Sustituyen siempre a cualquier licencia municipal",
+    "Son nulas de pleno derecho si no las expide el Ayuntamiento"
+   ],
+   "fuente": "Art. 84.3 LBRL (Ley 7/1985)",
+   "exp": "Art. 84.3: 'Las licencias o autorizaciones otorgadas por otras Administraciones Públicas no eximen a sus titulares de obtener las correspondientes licencias de las Entidades locales, respetándose en todo caso lo dispuesto en las correspondientes leyes sectoriales.'"
+  }
+ },
+ {
+  "tema": 11,
+  "seQuedaEnSuLugar": "Según el art. 85.1 LBRL, ¿qué se consideran servicios públicos locales?",
+  "retirada": {
+   "q": "Según el art. 85.1 de la LBRL, son servicios públicos locales:",
+   "options": [
+    "Solo los servicios declarados de interés estatal",
+    "Exclusivamente los servicios sanitarios y educativos",
+    "Los que prestan las entidades locales en el ámbito de sus competencias",
+    "Únicamente los servicios prestados por empresas privadas concesionarias"
+   ],
+   "fuente": "Art. 85.1 LBRL (Ley 7/1985)",
+   "exp": "Art. 85.1: 'Son servicios públicos locales los que prestan las entidades locales en el ámbito de sus competencias.'"
+  }
+ },
+ {
+  "tema": 11,
+  "seQuedaEnSuLugar": "Según el art. 86.1, la aprobación del expediente de iniciativa pública económica, que determina la forma concreta de gestión del servicio, corresponde a:",
+  "retirada": {
+   "q": "Según el art. 86.1 LBRL, corresponde la aprobación del expediente de iniciativa pública económica, que determinará la forma concreta de gestión del servicio, a:",
+   "options": [
+    "El interventor municipal",
+    "El Alcalde-Presidente",
+    "El Pleno de la respectiva Corporación local",
+    "La Junta de Gobierno Local"
+   ],
+   "fuente": "Art. 86.1 LBRL",
+   "exp": "Art. 86.1: corresponde al Pleno de la respectiva Corporación local la aprobación del expediente, que determinará la forma concreta de gestión del servicio."
+  }
+ },
+ {
+  "tema": 11,
+  "seQuedaEnSuLugar": "¿Cuántos medios de intervención administrativa en la actividad de los ciudadanos enumera el art. 84.1 LBRL?",
+  "retirada": {
+   "q": "¿Cuántos medios de intervención en la actividad de los ciudadanos enumera el art. 84.1 LBRL?",
+   "options": [
+    "Tres",
+    "Cinco",
+    "Cuatro",
+    "Seis"
+   ],
+   "fuente": "Art. 84.1 LBRL",
+   "exp": "El art. 84.1 LBRL enumera cinco medios, en las letras a) a e): ordenanzas y bandos; previa licencia y otros actos de control preventivo; comunicación previa o declaración responsable; control posterior; y órdenes individuales."
+  }
+ },
+ {
+  "tema": 12,
+  "seQuedaEnSuLugar": "Según el art. 15.1 TRLRHL, salvo en los supuestos previstos en el art. 59.1 de la ley, las entidades locales deberán acordar la imposición y supresión de sus tributos propios y aprobar:",
+  "retirada": {
+   "q": "Según el art. 15.1 del TRLRHL, salvo los supuestos del art. 59.1, las entidades locales deben acordar la imposición y supresión de sus tributos propios y aprobar:",
+   "options": [
+    "Un informe técnico exclusivamente, sin acuerdo formal",
+    "Una consulta popular vinculante en todo caso",
+    "Las correspondientes ordenanzas fiscales reguladoras de éstos",
+    "Un decreto de la Alcaldía sin más trámite"
+   ],
+   "fuente": "Art. 15.1 TRLRHL (RDLeg 2/2004)",
+   "exp": "Art. 15.1: 'las entidades locales deberán acordar la imposición y supresión de sus tributos propios, y aprobar las correspondientes ordenanzas fiscales reguladoras de estos.'"
+  }
+ },
+ {
+  "tema": 12,
+  "seQuedaEnSuLugar": "Según el art. 19.1 del TRLRHL, contra las ordenanzas fiscales de las entidades locales no cabe otro recurso que:",
+  "retirada": {
+   "q": "Según el art. 19.1 TRLRHL, contra las ordenanzas fiscales de las entidades locales no cabe otro recurso que:",
+   "options": [
+    "El de alzada ante la comunidad autónoma",
+    "El contencioso-administrativo",
+    "El de súplica ante el Tribunal Constitucional",
+    "El de reposición potestativo ante el Pleno"
+   ],
+   "fuente": "Art. 19.1 TRLRHL",
+   "exp": "El art. 19.1 TRLRHL establece que las ordenanzas fiscales regirán durante el plazo previsto en ellas, sin que quepa contra ellas otro recurso que el contencioso-administrativo."
+  }
+ },
+ {
+  "tema": 12,
+  "seQuedaEnSuLugar": "Según el art. 32.3 del TRLRHL, una vez determinada la cuota a satisfacer por contribuciones especiales, la Corporación puede conceder, a solicitud del sujeto pasivo, el fraccionamiento o aplazamiento de aquélla por un plazo máximo de:",
+  "retirada": {
+   "q": "Una vez determinada la cuota a satisfacer por contribuciones especiales, ¿por qué plazo máximo puede la corporación conceder el fraccionamiento o aplazamiento de aquella, según el art. 32.3 TRLRHL?",
+   "options": [
+    "Dos años",
+    "Cinco años",
+    "Un año",
+    "Diez años"
+   ],
+   "fuente": "Art. 32.3 TRLRHL",
+   "exp": "El art. 32.3 TRLRHL permite conceder el fraccionamiento o aplazamiento de la cuota por un plazo máximo de cinco años."
+  }
+ },
+ {
+  "tema": 12,
+  "seQuedaEnSuLugar": "Según el art. 44.1 del TRLRHL, el importe de los precios públicos debe cubrir, como mínimo:",
+  "retirada": {
+   "q": "¿Qué debe cubrir, como mínimo, el importe de los precios públicos según el art. 44.1 TRLRHL?",
+   "options": [
+    "El coste medio de servicios similares en municipios limítrofes",
+    "El coste del servicio prestado o de la actividad realizada",
+    "Un porcentaje fijado anualmente por el Ministerio de Hacienda",
+    "El doble del coste del servicio prestado"
+   ],
+   "fuente": "Art. 44.1 TRLRHL",
+   "exp": "El art. 44.1 TRLRHL exige que el importe del precio público cubra, como mínimo, el coste del servicio o actividad."
+  }
+ },
+ {
+  "tema": 12,
+  "seQuedaEnSuLugar": "Según el art. 47.2 del TRLRHL, ¿pueden las entidades locales atribuir a sus organismos autónomos la fijación de los precios públicos de los servicios a su cargo?",
+  "retirada": {
+   "q": "Según el art. 47.2 TRLRHL, ¿pueden las entidades locales atribuir a sus organismos autónomos la fijación de los precios públicos de los servicios a su cargo?",
+   "options": [
+    "Sí, salvo cuando los precios no cubran el coste del servicio",
+    "Sí, pero únicamente si lo autoriza previamente el Ministerio de Hacienda",
+    "No, esa competencia es indelegable y corresponde siempre al Pleno",
+    "Sí, en todo caso y sin ninguna excepción"
+   ],
+   "fuente": "Art. 47.2 TRLRHL",
+   "exp": "El art. 47.2 TRLRHL permite atribuir a los organismos autónomos la fijación de los precios públicos de sus servicios, salvo que no cubran el coste."
+  }
+ },
+ {
+  "tema": 13,
+  "seQuedaEnSuLugar": "Según el art. 169.7 del TRLRHL, la copia del presupuesto y de sus modificaciones deberá hallarse a disposición del público, a efectos informativos:",
+  "retirada": {
+   "q": "Según el art. 169.7 del TRLRHL, ¿durante qué período debe hallarse a disposición del público, a efectos informativos, la copia del presupuesto y de sus modificaciones?",
+   "options": [
+    "Desde su aprobación definitiva hasta la finalización del ejercicio",
+    "Durante los 15 días de la exposición pública inicial únicamente",
+    "Desde su aprobación inicial hasta su aprobación definitiva",
+    "Solo durante el primer trimestre del ejercicio"
+   ],
+   "fuente": "Art. 169.7 TRLRHL (RDLeg 2/2004)",
+   "exp": "Art. 169.7: 'La copia del presupuesto y de sus modificaciones deberá hallarse a disposición del público, a efectos informativos, desde su aprobación definitiva hasta la finalización del ejercicio.'"
+  }
+ },
+ {
+  "tema": 14,
+  "seQuedaEnSuLugar": "Según el art. 25.1 de la LBRL, el municipio, para la gestión de sus intereses y en el ámbito de sus competencias, puede promover actividades y prestar los servicios públicos que contribuyan a satisfacer:",
+  "retirada": {
+   "q": "Según el art. 25.1 de la LBRL, el Municipio, para la gestión de sus intereses y en el ámbito de sus competencias, puede promover actividades y prestar servicios públicos que contribuyan a satisfacer:",
+   "options": [
+    "Las directrices del Plan Nacional de Reformas",
+    "Exclusivamente las necesidades declaradas de interés estatal",
+    "Las necesidades y aspiraciones de la comunidad vecinal",
+    "Únicamente las necesidades de la Diputación Provincial"
+   ],
+   "fuente": "Art. 25.1 LBRL (Ley 7/1985)",
+   "exp": "Art. 25.1: el Municipio puede promover actividades y prestar los servicios públicos que contribuyan a satisfacer las necesidades y aspiraciones de la comunidad vecinal."
+  }
+ },
+ {
+  "tema": 14,
+  "seQuedaEnSuLugar": "Según el art. 26.1 b) de la LBRL, en los municipios con población superior a 5.000 habitantes, además de los servicios generales, debe prestarse:",
+  "retirada": {
+   "q": "Según el art. 26.1 b) de la LBRL, en los municipios con población superior a 5.000 habitantes, además de los servicios mínimos generales, debe prestarse:",
+   "options": [
+    "Solo servicio de matadero municipal",
+    "Únicamente servicio de bomberos",
+    "Parque público, biblioteca pública y tratamiento de residuos",
+    "Exclusivamente transporte colectivo urbano de viajeros"
+   ],
+   "fuente": "Art. 26.1 b) LBRL (Ley 7/1985)",
+   "exp": "Art. 26.1 b): en los municipios con población superior a 5.000 habitantes, además, deben prestarse los servicios de parque público, biblioteca pública, mercado y tratamiento de residuos."
+  }
+ },
+ {
+  "tema": 14,
+  "seQuedaEnSuLugar": "Según el art. 26.1 c) de la LBRL, en los municipios con población superior a 20.000 habitantes debe prestarse, además, entre otros:",
+  "retirada": {
+   "q": "Según el art. 26.1 c) de la LBRL, en los municipios con población superior a 20.000 habitantes, debe prestarse además:",
+   "options": [
+    "Exclusivamente el servicio de biblioteca escolar",
+    "Únicamente el servicio de matadero",
+    "Solo transporte urbano colectivo de viajeros",
+    "Protección civil, evaluación e información de situaciones de necesidad social, prevención y extinción de incendios, e instalaciones deportivas de uso público"
+   ],
+   "fuente": "Art. 26.1 c) LBRL (Ley 7/1985)",
+   "exp": "Art. 26.1 c): en municipios de más de 20.000 habitantes se añaden los servicios de protección civil, evaluación e información de situaciones de necesidad social, prevención y extinción de incendios e instalaciones deportivas de uso público."
+  }
+ },
+ {
+  "tema": 14,
+  "seQuedaEnSuLugar": "Según el art. 26.1 d) de la LBRL, en los municipios con población superior a 50.000 habitantes debe prestarse, además de los anteriores:",
+  "retirada": {
+   "q": "Según el art. 26.1 d) de la LBRL, en los municipios con población superior a 50.000 habitantes, debe prestarse además:",
+   "options": [
+    "Transporte colectivo urbano de viajeros y medio ambiente urbano",
+    "Solo servicio de biblioteca pública",
+    "Exclusivamente alumbrado de vías públicas",
+    "Únicamente cementerio municipal"
+   ],
+   "fuente": "Art. 26.1 d) LBRL (Ley 7/1985)",
+   "exp": "Art. 26.1 d): en los municipios de más de 50.000 habitantes se añaden, además, el transporte colectivo urbano de viajeros y la protección del medio ambiente."
+  }
+ },
+ {
+  "tema": 14,
+  "seQuedaEnSuLugar": "Según el art. 121.2 de la LBRL, cuando un municipio alcanza la población requerida para la aplicación del Título X, la nueva corporación dispone de un plazo máximo desde su constitución para adaptar su organización de:",
+  "retirada": {
+   "q": "Cuando un municipio alcanza, según la revisión del padrón, la población requerida para la aplicación del Título X LBRL, ¿de qué plazo máximo dispone la nueva corporación desde su constitución para adaptar su organización?",
+   "options": [
+    "Un año",
+    "Tres meses",
+    "Dos años",
+    "Seis meses"
+   ],
+   "fuente": "Art. 121.2 LBRL (Ley 7/1985)",
+   "exp": "El art. 121.2 LBRL establece un plazo máximo de seis meses desde la constitución de la nueva corporación para adaptar su organización al contenido del Título X."
+  }
+ },
+ {
+  "tema": 14,
+  "seQuedaEnSuLugar": "Según el art. 19.1 de la LBRL, el Gobierno y la administración municipal corresponden al ayuntamiento, integrado por el Alcalde y los Concejales, salvo en aquellos municipios que legalmente funcionen en régimen de:",
+  "retirada": {
+   "q": "Según el art. 19 de la LBRL, el gobierno y la administración municipal corresponde al Ayuntamiento, salvo en aquellos municipios que legalmente funcionen en régimen de:",
+   "options": [
+    "Junta vecinal permanente",
+    "Concejo abierto",
+    "Asamblea provincial extraordinaria",
+    "Gestión desconcentrada obligatoria"
+   ],
+   "fuente": "Art. 19.1 LBRL (Ley 7/1985)",
+   "exp": "Art. 19.1 LBRL: 'El gobierno y la administración municipal, salvo en aquellos municipios que legalmente funcionen en régimen de Concejo Abierto, corresponde al Ayuntamiento.'"
+  }
+ }
+]

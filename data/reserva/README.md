@@ -253,6 +253,51 @@ A diferencia de esas 50, **estas sí son reutilizables tal cual** en una
 oposición de Administración del Estado: llevan artículo y apartado citados y
 verificados contra el consolidado.
 
+## duplicados-retirados.json
+
+33 preguntas retiradas el 20-ago-2026 por ser **duplicados reales**: el mismo
+hecho preguntado dos veces con distintas palabras, con la misma respuesta y
+citando el mismo artículo. Cada entrada guarda la retirada completa y el
+enunciado de la que se quedó en su lugar, para poder deshacerlo.
+
+De cada grupo se conservó la que tiene la **explicación más larga**, que es la
+más útil para estudiar; a igualdad, la que ya estaba antes en el banco.
+
+El patrón de origen es claro: casi todos son un par formado por una pregunta del
+banco escrito a mano y otra de un lote generado. El redactor del lote recibe la
+lista de enunciados existentes para no repetirlos, pero **compara texto**, y una
+reformulación se le escapa: «Según el art. 37.1, las Cortes de Aragón tienen
+carácter:» y «Según el art. 37.1 EAA, ¿qué carácter tienen las Cortes de
+Aragón?», las dos con «Unicameral».
+
+### Cómo se detectaron, y el falso positivo que casi se cuela
+
+El primer detector daba **76 duplicados** y estaba mal. Dos defectos:
+
+1. Filtraba las palabras de menos de cinco letras, así que **el número del
+   artículo desaparecía** y «el art. 40 se titula» parecía idéntica a «el art. 46
+   se titula». Llegó a agrupar **siete** preguntas distintas —los arts. 40 a 46
+   de la LPAC— como si fueran una.
+2. Comparaba las respuestas con «contiene» en vez de por igualdad, y
+   «Notificación» está contenido en «Notificaciones a través de medios
+   electrónicos».
+
+El criterio corregido exige tres cosas a la vez: **misma referencia de artículo**
+en la cita, respuesta correcta **exactamente igual**, y mucho solape de palabras
+**conservando los números**. Eso bajó de 76 a 33 y dejó los grupos revisables a
+mano, que es lo que se hizo.
+
+Aun así quedó un falso positivo que hubo que excluir a mano: en el tema 10, las
+preguntas sobre quién **aprueba**, quién **rectifica** y quién **comprueba** el
+inventario de bienes comparten la respuesta («Al Pleno», art. 34 RBEL) y son casi
+idénticas en su redacción, pero son **tres hechos distintos** —y el auditor del
+tema 10 los había verificado uno a uno—. Borrar dos habría hecho perder
+información real. Las tres siguen en el banco.
+
+Lección para la próxima: un detector de duplicados que se fije solo en el
+parecido del texto **no sirve**; la clave es la respuesta correcta, y aun así
+hace falta mirar los grupos antes de borrar.
+
 ## prl-fuera-alcance-aux-admin.json
 
 263 preguntas de **Prevención de Riesgos Laborales** que estaban en el tema 20

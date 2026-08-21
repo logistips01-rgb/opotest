@@ -2638,18 +2638,6 @@ const QUESTIONS = {
     "fuente": "Art. 36.2 EAAr (LO 5/2007)"
   },
   {
-    "q": "Según el art. 37.1, las Cortes de Aragón tienen carácter:",
-    "options": [
-      "Unicameral",
-      "Bicameral",
-      "Variable según la legislatura",
-      "Tricameral, con una cámara consultiva adicional"
-    ],
-    "correct": 0,
-    "exp": "Art. 37.1: 'Las Cortes de Aragón tendrán carácter unicameral y estarán constituidas por Diputados y Diputadas elegidos mediante sufragio universal, igual, libre, directo y secreto.'",
-    "fuente": "Art. 37.1 EAAr (LO 5/2007)"
-  },
-  {
     "q": "Según el art. 37.2, las Cortes de Aragón son elegidas por un período de:",
     "options": [
       "Cinco años",
@@ -2660,18 +2648,6 @@ const QUESTIONS = {
     "correct": 1,
     "exp": "Art. 37.2: 'Las Cortes de Aragón serán elegidas por un período de cuatro años.'",
     "fuente": "Art. 37.2 EAAr (LO 5/2007)"
-  },
-  {
-    "q": "Según el art. 37.4, la circunscripción electoral para las elecciones a Cortes de Aragón es:",
-    "options": [
-      "Toda la Comunidad Autónoma como circunscripción única",
-      "El municipio",
-      "La provincia",
-      "La comarca"
-    ],
-    "correct": 2,
-    "exp": "Art. 37.4: 'La circunscripción electoral será la provincia.'",
-    "fuente": "Art. 37.4 EAAr (LO 5/2007)"
   },
   {
     "q": "Según el art. 38.1, los Diputados y Diputadas a Cortes de Aragón no están vinculados por mandato imperativo y son inviolables, incluso después de cesar en su mandato, por:",
@@ -4330,18 +4306,6 @@ const QUESTIONS = {
     "correct": 0,
     "exp": "Art. 10.3, en paralelo al art. 9.3, exige que los recursos técnicos de estos sistemas se sitúen en territorio de la Unión Europea.",
     "fuente": "Art. 10.3 LPAC (Ley 39/2015)"
-  },
-  {
-    "q": "Según el art. 11.1, con carácter general, para realizar cualquier actuación en el procedimiento administrativo será suficiente con que los interesados acrediten previamente:",
-    "options": [
-      "Su situación económica",
-      "Su identidad a través de cualquiera de los medios de identificación previstos en la Ley",
-      "Su domicilio fiscal",
-      "Su firma electrónica cualificada en todo caso"
-    ],
-    "correct": 1,
-    "exp": "Art. 11.1: 'Con carácter general, para realizar cualquier actuación prevista en el procedimiento administrativo, será suficiente con que los interesados acrediten previamente su identidad...'",
-    "fuente": "Art. 11.1 LPAC (Ley 39/2015)"
   },
   {
     "q": "Según el art. 11.2, ¿para cuál de las siguientes actuaciones exige la Ley el uso obligatorio de firma, y no solo identificación?",
@@ -7962,18 +7926,6 @@ const QUESTIONS = {
     "fuente": "Art. 80 LPAC (Ley 39/2015)"
   },
   {
-    "q": "Según el art. 80, salvo disposición expresa en contrario, los informes serán:",
-    "options": [
-      "Facultativos y no vinculantes",
-      "Obligatorios solo si el interesado los solicita",
-      "Siempre preceptivos y vinculantes",
-      "Vinculantes únicamente si son favorables al interesado"
-    ],
-    "correct": 0,
-    "exp": "Art. 80.1: 'Salvo disposición expresa en contrario, los informes serán facultativos y no vinculantes.'",
-    "fuente": "Art. 80.1 LPAC (Ley 39/2015)"
-  },
-  {
     "q": "Según el art. 80, salvo disposición expresa en contrario, los informes deben ser emitidos en el plazo de:",
     "options": [
       "Un mes",
@@ -11016,18 +10968,6 @@ const QUESTIONS = {
     "fuente": "Art. 79.2 LBRL (Ley 7/1985)"
   },
   {
-    "q": "Según el art. 79.3 de la LBRL, son bienes de dominio público:",
-    "options": [
-      "Solo los edificios administrativos",
-      "Todos los bienes inmuebles sin excepción",
-      "Los destinados a un uso o servicio público",
-      "Los bienes adquiridos en los últimos veinticinco años"
-    ],
-    "correct": 2,
-    "exp": "Art. 79.3: 'Son bienes de dominio público los destinados a un uso o servicio público.'",
-    "fuente": "Art. 79.3 LBRL (Ley 7/1985)"
-  },
-  {
     "q": "Según el art. 79.3 de la LBRL, tienen la consideración de bienes comunales aquellos cuyo aprovechamiento corresponda:",
     "options": [
       "Al Estado central en régimen de cesión",
@@ -11038,18 +10978,6 @@ const QUESTIONS = {
     "correct": 3,
     "exp": "Art. 79.3 in fine: 'Tienen la consideración de comunales aquellos cuyo aprovechamiento corresponda al común de los vecinos.'",
     "fuente": "Art. 79.3 LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "Según el art. 80.1 de la LBRL, los bienes comunales y demás bienes de dominio público son:",
-    "options": [
-      "Inalienables, inembargables e imprescriptibles y no están sujetos a tributo alguno",
-      "Libremente enajenables por el Alcalde sin autorización",
-      "Susceptibles de embargo por cualquier acreedor municipal",
-      "Bienes sujetos al Impuesto sobre Bienes Inmuebles en todo caso"
-    ],
-    "correct": 0,
-    "exp": "Art. 80.1: 'Los bienes comunales y demás bienes de dominio público son inalienables, inembargables e imprescriptibles y no están sujetos a tributo alguno.'",
-    "fuente": "Art. 80.1 LBRL (Ley 7/1985)"
   },
   {
     "q": "Según el art. 80.2 de la LBRL, los bienes patrimoniales se rigen por:",
@@ -11136,18 +11064,6 @@ const QUESTIONS = {
     "fuente": "Art. 82 b) LBRL (Ley 7/1985)"
   },
   {
-    "q": "Según el art. 83 de la LBRL, los montes vecinales en mano común se regulan por:",
-    "options": [
-      "Su legislación específica",
-      "El Código Civil exclusivamente",
-      "Las ordenanzas fiscales municipales",
-      "El Reglamento de Bienes de las Entidades Locales, sin excepción"
-    ],
-    "correct": 0,
-    "exp": "Art. 83: 'Los montes vecinales en mano común se regulan por su legislación específica.'",
-    "fuente": "Art. 83 LBRL (Ley 7/1985)"
-  },
-  {
     "q": "El Capítulo I del Título VI de la LBRL, dedicado a los bienes de las Entidades locales, comprende los artículos:",
     "options": [
       "84 al 88",
@@ -11206,18 +11122,6 @@ const QUESTIONS = {
     "correct": 1,
     "exp": "Art. 2 RBEL: 'Tienen la consideración de comunales aquellos bienes que siendo de dominio público, su aprovechamiento corresponde al común de los vecinos.'",
     "fuente": "Art. 2 RBEL (RD 1372/1986)"
-  },
-  {
-    "q": "Según el art. 2.4 del RBEL, los bienes comunales solo podrán pertenecer a:",
-    "options": [
-      "Las Diputaciones Provinciales exclusivamente",
-      "Cualquier tipo de Entidad Local sin excepción",
-      "Los Municipios y a las Entidades locales menores",
-      "Las Comunidades Autónomas"
-    ],
-    "correct": 2,
-    "exp": "Art. 2.4 RBEL: 'Los bienes comunales solo podrán pertenecer a los municipios y a las entidades locales menores.'",
-    "fuente": "Art. 2.4 RBEL (RD 1372/1986)"
   },
   {
     "q": "Según el art. 3.1 del RBEL, son bienes de uso público local:",
@@ -12794,30 +12698,6 @@ const QUESTIONS = {
     "fuente": "Art. 84.1 c) LBRL (Ley 7/1985)"
   },
   {
-    "q": "Según el art. 84.2 de la LBRL, la actividad de intervención de las Entidades locales se ajustará, en todo caso, a los principios de:",
-    "options": [
-      "Igualdad de trato, necesidad y proporcionalidad con el objetivo que se persigue",
-      "Discrecionalidad absoluta sin ningún límite",
-      "Gratuidad obligatoria en todos los casos",
-      "Confidencialidad total frente a los interesados"
-    ],
-    "correct": 0,
-    "exp": "Art. 84.2: 'La actividad de intervención de las Entidades locales se ajustará, en todo caso, a los principios de igualdad de trato, necesidad y proporcionalidad con el objetivo que se persigue.'",
-    "fuente": "Art. 84.2 LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "Según el art. 84.3 de la LBRL, las licencias o autorizaciones otorgadas por otras Administraciones Públicas:",
-    "options": [
-      "Solo tienen validez si son ratificadas por el Consejo de Estado",
-      "No eximen a sus titulares de obtener las correspondientes licencias de las Entidades locales, respetándose lo dispuesto en las leyes sectoriales",
-      "Sustituyen siempre a cualquier licencia municipal",
-      "Son nulas de pleno derecho si no las expide el Ayuntamiento"
-    ],
-    "correct": 1,
-    "exp": "Art. 84.3: 'Las licencias o autorizaciones otorgadas por otras Administraciones Públicas no eximen a sus titulares de obtener las correspondientes licencias de las Entidades locales, respetándose en todo caso lo dispuesto en las correspondientes leyes sectoriales.'",
-    "fuente": "Art. 84.3 LBRL (Ley 7/1985)"
-  },
-  {
     "q": "El art. 84 bis de la LBRL establece como regla general que el ejercicio de actividades no se someterá a:",
     "options": [
       "El pago de tasas municipales",
@@ -12864,18 +12744,6 @@ const QUESTIONS = {
     "correct": 1,
     "exp": "El art. 84 ter, introducido por la Ley 2/2011, de Economía Sostenible, desarrolla la exigencia de motivación cuando existan licencias o autorizaciones concurrentes entre una Entidad Local y otra Administración.",
     "fuente": "Art. 84 ter LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "Según el art. 85.1 de la LBRL, son servicios públicos locales:",
-    "options": [
-      "Solo los servicios declarados de interés estatal",
-      "Exclusivamente los servicios sanitarios y educativos",
-      "Los que prestan las entidades locales en el ámbito de sus competencias",
-      "Únicamente los servicios prestados por empresas privadas concesionarias"
-    ],
-    "correct": 2,
-    "exp": "Art. 85.1: 'Son servicios públicos locales los que prestan las entidades locales en el ámbito de sus competencias.'",
-    "fuente": "Art. 85.1 LBRL (Ley 7/1985)"
   },
   {
     "q": "Según el art. 85.2 de la LBRL, los servicios públicos de competencia local habrán de gestionarse de la forma:",
@@ -14258,18 +14126,6 @@ const QUESTIONS = {
     "correct": 1,
     "exp": "Art. 14.2 ñ): 'Contra la resolución del recurso de reposición no puede interponerse de nuevo este recurso, pudiendo los interesados interponer directamente recurso contencioso-administrativo.'",
     "fuente": "Art. 14.2 TRLRHL (RDLeg 2/2004)"
-  },
-  {
-    "q": "Según el art. 15.1 del TRLRHL, salvo los supuestos del art. 59.1, las entidades locales deben acordar la imposición y supresión de sus tributos propios y aprobar:",
-    "options": [
-      "Un informe técnico exclusivamente, sin acuerdo formal",
-      "Una consulta popular vinculante en todo caso",
-      "Las correspondientes ordenanzas fiscales reguladoras de éstos",
-      "Un decreto de la Alcaldía sin más trámite"
-    ],
-    "correct": 2,
-    "exp": "Art. 15.1: 'las entidades locales deberán acordar la imposición y supresión de sus tributos propios, y aprobar las correspondientes ordenanzas fiscales reguladoras de estos.'",
-    "fuente": "Art. 15.1 TRLRHL (RDLeg 2/2004)"
   },
   {
     "q": "Según el art. 16.1 del TRLRHL, las ordenanzas fiscales deben contener, al menos:",
@@ -16472,42 +16328,6 @@ const QUESTIONS = {
     "fuente": "Art. 26.1 a) LBRL (Ley 7/1985)"
   },
   {
-    "q": "Según el art. 26.1 b) de la LBRL, en los municipios con población superior a 5.000 habitantes, además de los servicios mínimos generales, debe prestarse:",
-    "options": [
-      "Solo servicio de matadero municipal",
-      "Únicamente servicio de bomberos",
-      "Parque público, biblioteca pública y tratamiento de residuos",
-      "Exclusivamente transporte colectivo urbano de viajeros"
-    ],
-    "correct": 2,
-    "exp": "Art. 26.1 b): en los municipios con población superior a 5.000 habitantes, además, deben prestarse los servicios de parque público, biblioteca pública, mercado y tratamiento de residuos.",
-    "fuente": "Art. 26.1 b) LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "Según el art. 26.1 c) de la LBRL, en los municipios con población superior a 20.000 habitantes, debe prestarse además:",
-    "options": [
-      "Exclusivamente el servicio de biblioteca escolar",
-      "Únicamente el servicio de matadero",
-      "Solo transporte urbano colectivo de viajeros",
-      "Protección civil, evaluación e información de situaciones de necesidad social, prevención y extinción de incendios, e instalaciones deportivas de uso público"
-    ],
-    "correct": 3,
-    "exp": "Art. 26.1 c): en municipios de más de 20.000 habitantes se añaden los servicios de protección civil, evaluación e información de situaciones de necesidad social, prevención y extinción de incendios e instalaciones deportivas de uso público.",
-    "fuente": "Art. 26.1 c) LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "Según el art. 26.1 d) de la LBRL, en los municipios con población superior a 50.000 habitantes, debe prestarse además:",
-    "options": [
-      "Transporte colectivo urbano de viajeros y medio ambiente urbano",
-      "Solo servicio de biblioteca pública",
-      "Exclusivamente alumbrado de vías públicas",
-      "Únicamente cementerio municipal"
-    ],
-    "correct": 0,
-    "exp": "Art. 26.1 d): en los municipios de más de 50.000 habitantes se añaden, además, el transporte colectivo urbano de viajeros y la protección del medio ambiente.",
-    "fuente": "Art. 26.1 d) LBRL (Ley 7/1985)"
-  },
-  {
     "q": "Según el art. 121.1 a) de la LBRL, el régimen de organización de los municipios de gran población (Título X) se aplica a los municipios cuya población supere:",
     "options": [
       "Los 100.000 habitantes",
@@ -17466,18 +17286,6 @@ const QUESTIONS = {
     "correct": 0,
     "exp": "El estatuto jurídico singular de Zaragoza se configura por la combinación del régimen de organización de los municipios de gran población (Título X LBRL) y las especialidades competenciales, organizativas y financieras de la Ley 10/2017, propias de su condición de capital autonómica.",
     "fuente": "LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "Según el art. 19 de la LBRL, el gobierno y la administración municipal corresponde al Ayuntamiento, salvo en aquellos municipios que legalmente funcionen en régimen de:",
-    "options": [
-      "Junta vecinal permanente",
-      "Concejo abierto",
-      "Asamblea provincial extraordinaria",
-      "Gestión desconcentrada obligatoria"
-    ],
-    "correct": 1,
-    "exp": "Art. 19.1 LBRL: 'El gobierno y la administración municipal, salvo en aquellos municipios que legalmente funcionen en régimen de Concejo Abierto, corresponde al Ayuntamiento.'",
-    "fuente": "Art. 19.1 LBRL (Ley 7/1985)"
   },
   {
     "q": "Según el art. 29 de la LBRL, funcionan en régimen de Concejo Abierto los municipios con menos de:",

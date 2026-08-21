@@ -1448,6 +1448,47 @@ en nueve temas, la cita visible en las 72, sin errores.
    pequeña para reordenar la estrategia — pero como señal apunta a reforzar
    Haciendas Locales (temas 12 y 13) antes que cualquier tema de LPAC.
 
+## Duplicados retirados (20-ago-2026)
+
+**33 preguntas fuera**, archivadas en `data/reserva/duplicados-retirados.json`
+con la que se quedó en su lugar, para poder deshacerlo. Banco: 5.591 → 5.558,
+todas con cita.
+
+Reparto por tema: T10 y T11 y T14 (6 cada uno), T8 y T12 (5), T3 (2), T6 (2),
+T4, T7 y T13 (1).
+
+De cada grupo se conservó la de **explicación más larga**; a igualdad, la que ya
+estaba. El patrón de origen es siempre el mismo: un par formado por una pregunta
+del banco escrito a mano y otra de un lote generado. El redactor recibe la lista
+de enunciados existentes, pero **compara texto**, y una reformulación se le
+escapa.
+
+### Mi primer detector daba 76 y estaba mal
+
+Dos defectos, y los dos aparecieron **al mirar los grupos antes de borrar**:
+
+1. Filtraba las palabras de menos de cinco letras, con lo que **el número del
+   artículo desaparecía**: «el art. 40 se titula» y «el art. 46 se titula»
+   parecían la misma. Agrupó **siete** preguntas distintas (arts. 40 a 46 LPAC)
+   como si fueran una sola.
+2. Comparaba respuestas con «contiene» en vez de por igualdad, y «Notificación»
+   está contenido en «Notificaciones a través de medios electrónicos».
+
+Criterio corregido, que es el que hay que usar en adelante: **misma referencia de
+artículo** en la cita + respuesta correcta **exactamente igual** + solape alto de
+palabras **conservando los números**. De 76 pasó a 33.
+
+Y aun con el criterio bueno quedó **un falso positivo**: en el tema 10, quién
+aprueba, quién rectifica y quién comprueba el inventario de bienes comparten
+respuesta («Al Pleno», art. 34 RBEL) y redacción casi idéntica, pero son tres
+hechos distintos que el auditor del tema había verificado uno a uno. Excluido a
+mano; las tres siguen. Es el único grupo que el detector marca ahora, y a
+propósito.
+
+**Regla que queda:** un detector de duplicados por parecido de texto no sirve.
+La clave discriminante es la respuesta correcta, y aun así hay que revisar los
+grupos a mano antes de borrar nada.
+
 ## Temas siguientes, cuando el 20 esté cerrado
 
 Del 19 hacia atrás. Estado y déficit hasta 500:
