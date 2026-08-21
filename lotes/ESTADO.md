@@ -1907,3 +1907,61 @@ concepto de subvención, principios, concurrencia competitiva, beneficiarios y
 entidades colaboradoras, justificación, reintegro ni control financiero. Si el
 tribunal pregunta por el fomento, este banco no prepara para ello. Es el hueco
 más claro que queda en toda la oposición y hace falta un lote propio.
+
+
+---
+
+## Tema 8 · auditado (21-ago-2026)
+
+Las 100 del banco original: **63 confirmadas, 37 corregidas, 0 descartadas y 0
+dudosas**. Ninguna salía del Título V, así que el tema estaba bien delimitado.
+Citas sin artículo en el tema: **9 → 1**. En todo el banco: **180 → 172**.
+
+### Seis con la respuesta mal, y ninguna por plazos
+
+El patrón de este tema **no** es la Ley 30/1992: es **contenido inventado**, el
+mismo defecto de las dos preguntas del art. 116 que lo destaparon.
+
+| Lo que decía la opción marcada | Lo que dice de verdad el precepto |
+|---|---|
+| El art. 120 regula «la tramitación y resolución conjunta» de los recursos | Art. 120.1: el órgano puede acordar **la suspensión del plazo para resolver** hasta que recaiga el pronunciamiento judicial |
+| «La resolución se notificará a todos los interesados» (art. 119) | Art. 119.2: **retroacción del procedimiento** al momento en que se cometió el vicio de forma |
+| El art. 119.3 da un «plazo no superior a quince días» para oír al interesado | Art. 119.3: «se les oirá previamente», **sin plazo alguno** |
+| El art. 126 impone dictamen preceptivo del Consejo de Estado | Art. 126.1: cabe inadmitir a trámite **sin necesidad de recabar dictamen** |
+| El art. 112.1 permite «los recursos procedentes en vía administrativa y jurisdiccional» | Art. 112.1: **alzada y potestativo de reposición**, fundables en los motivos de los arts. 47 y 48 |
+| Una pregunta sobre el «recurso administrativo **ordinario**» | Dejaba dos respuestas válidas: el extraordinario de revisión tampoco es ordinario. Suprimido el adjetivo |
+
+Una séptima invocaba el art. 112.2 (que regula la sustitución de la alzada) para
+una regla que está en el **112.3**: lo irrecurrible en vía administrativa son
+**las disposiciones administrativas de carácter general**. Y dos preguntas de
+tipo «se titula» transcribían mal la rúbrica: el art. 121 se titula solo
+**«Objeto»** y el art. 123 **«Objeto y naturaleza»**.
+
+### Los doce plazos del tema: todos vigentes
+
+Comprobados uno a uno contra el consolidado, ninguno venía congelado de la Ley
+30/1992: cuatro años de la lesividad (107.2), seis meses de caducidad de la
+lesividad (107.3) y de la revisión de oficio (106.5), diez días de remisión en
+alzada (121.2), un mes para interponer alzada (122.1) y reposición (124.1), tres
+meses para resolver la alzada (122.2), un mes para resolver la reposición
+(124.2), cuatro años o tres meses del extraordinario de revisión (125.2), tres
+meses de su silencio (126.3), un mes del silencio positivo de la suspensión
+(117.3) y los diez a quince días de audiencia (118.1).
+
+El único residuo de la Ley 30/1992 era una **cita**, no una cifra: una
+explicación decía «cuando se trate de la causa **1.ª**», que es el literal
+derogado. El art. 125.2 vigente dice «la causa **a)** del apartado anterior».
+
+### Dos explicaciones que colgaban el literal del artículo equivocado
+
+Una atribuía al art. 112.1 la mención del recurso extraordinario de revisión,
+que está en el **art. 113**. Otra colgaba del art. 119.3 la coletilla «sin
+perjuicio de la potestad de la Administración de incoar de oficio un nuevo
+procedimiento», que es del **art. 88.2**. Las dos tenían la respuesta bien y la
+explicación mal, que para quien estudia es casi igual de dañino.
+
+### Las dos del art. 116 que quedaban
+
+Confirmadas: reproducen el literal de las letras a) y e) y sus distractores no
+figuran entre las cinco causas de inadmisión. Son las dos que sobrevivieron al
+arreglo de las otras dos.

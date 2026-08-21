@@ -8549,7 +8549,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El art. 106 abre el Capítulo I del Título V ('Revisión de oficio') con el título 'Revisión de disposiciones y actos nulos'.",
-    "fuente": "Capítulo I LPAC (Ley 39/2015)"
+    "fuente": "Art. 106 LPAC (Ley 39/2015)"
   },
   {
     "q": "Según el art. 106, las AAPP pueden, en cualquier momento, por iniciativa propia o a solicitud del interesado, declarar de oficio la nulidad de los actos que hayan incurrido en:",
@@ -8657,7 +8657,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El art. 106 concede a la Administración la potestad de anular ella misma sus actos nulos de pleno derecho; en cambio, para los actos anulables favorables al interesado, el art. 107 exige la declaración de lesividad y acudir a la jurisdicción contencioso-administrativa.",
-    "fuente": "Art. 106 LPAC (Ley 39/2015)"
+    "fuente": "Arts. 106 y 107 LPAC (Ley 39/2015)"
   },
   {
     "q": "El art. 108 de la Ley 39/2015 se titula:",
@@ -8752,7 +8752,7 @@ const QUESTIONS = {
       "El calendario de días inhábiles vigente"
     ],
     "correct": 1,
-    "exp": "Art. 110: 'Las facultades de revisión establecidas en este Capítulo, no podrán ser ejercitadas cuando por prescripción de acciones, por el tiempo transcurrido o por otras circunstancias, su ejercicio resulte contrario a la equidad, a la buena fe, al derecho de los particulares o a las leyes.'",
+    "exp": "Art. 110: «Las facultades de revisión establecidas en este Capítulo, no podrán ser ejercidas cuando por prescripción de acciones, por el tiempo transcurrido o por otras circunstancias, su ejercicio resulte contrario a la equidad, a la buena fe, al derecho de los particulares o a las leyes.»",
     "fuente": "Art. 110 LPAC (Ley 39/2015)"
   },
   {
@@ -8765,7 +8765,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "El art. 111 lleva por título 'Competencia para la revisión de oficio de las disposiciones y de actos nulos y anulables en la Administración General del Estado', y cierra el Capítulo I del Título V.",
-    "fuente": "Capítulo I LPAC (Ley 39/2015)"
+    "fuente": "Art. 111 LPAC (Ley 39/2015)"
   },
   {
     "q": "El Capítulo I del Título V, 'Revisión de oficio', comprende los artículos:",
@@ -8777,7 +8777,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "El Capítulo I del Título V ('Revisión de oficio') abarca los artículos 106 a 111.",
-    "fuente": "Capítulo I LPAC (Ley 39/2015)"
+    "fuente": "Capítulo I del Título V LPAC (Ley 39/2015) (arts. 106 a 111)"
   },
   {
     "q": "El art. 112 de la Ley 39/2015 se titula:",
@@ -8789,18 +8789,18 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El art. 112 lleva por título 'Objeto y clases' y abre la Sección 1ª (Principios generales) del Capítulo II del Título V, 'Recursos administrativos'.",
-    "fuente": "Sección 1ª LPAC (Ley 39/2015)"
+    "fuente": "Art. 112 LPAC (Ley 39/2015)"
   },
   {
     "q": "Según el art. 112, contra las resoluciones y los actos de trámite, si estos deciden directa o indirectamente el fondo del asunto, determinan la imposibilidad de continuar el procedimiento, producen indefensión o perjuicio irreparable, los interesados podrán interponer:",
     "options": [
-      "Únicamente una queja verbal ante el superior",
-      "Los recursos procedentes, en su caso, en vía administrativa y jurisdiccional",
+      "Únicamente una queja verbal ante el superior jerárquico",
+      "Los recursos de alzada y potestativo de reposición, que cabrá fundar en cualquiera de los motivos de nulidad o anulabilidad de los arts. 47 y 48",
       "Solo una denuncia penal",
       "Un recurso ante el Tribunal de Cuentas exclusivamente"
     ],
     "correct": 1,
-    "exp": "Art. 112.1: contra resoluciones y actos de trámite que decidan directa o indirectamente el fondo del asunto, determinen la imposibilidad de continuar el procedimiento, produzcan indefensión o perjuicio irreparable, cabrá interposición de los recursos procedentes.",
+    "exp": "Art. 112.1: contra las resoluciones y los actos de trámite que decidan directa o indirectamente el fondo del asunto, determinen la imposibilidad de continuar el procedimiento, produzcan indefensión o perjuicio irreparable a derechos e intereses legítimos, «podrán interponerse por los interesados los recursos de alzada y potestativo de reposición, que cabrá fundar en cualquiera de los motivos de nulidad o anulabilidad previstos en los artículos 47 y 48 de esta Ley».",
     "fuente": "Art. 112.1 LPAC (Ley 39/2015)"
   },
   {
@@ -8812,20 +8812,20 @@ const QUESTIONS = {
       "Alzada, casación y suplicación"
     ],
     "correct": 2,
-    "exp": "Art. 112.1: 'La oposición a los restantes actos de trámite no podrá alegarse... podrán ser objeto de recurso de alzada, potestativo de reposición y extraordinario de revisión.'",
-    "fuente": "Art. 112.1 LPAC (Ley 39/2015)"
+    "exp": "El art. 112.1 contempla los recursos de alzada y potestativo de reposición; el recurso extraordinario de revisión se regula en el art. 113 y en los arts. 125-126. Son, por tanto, los tres recursos administrativos que la Ley 39/2015 regula con carácter general.",
+    "fuente": "Arts. 112.1 y 113 LPAC (Ley 39/2015)"
   },
   {
-    "q": "Según el art. 112.2, en ningún caso serán recurribles:",
+    "q": "Según el art. 112.3 de la Ley 39/2015, ¿contra qué no cabe recurso en vía administrativa?",
     "options": [
-      "Los actos de las Administraciones Locales exclusivamente",
-      "Los actos dictados por delegación",
-      "Los actos de trámite, salvo las excepciones legalmente previstas de decidir el fondo o causar indefensión",
-      "Ninguna resolución administrativa firme"
+      "Contra los actos administrativos dictados por delegación",
+      "Contra los actos de trámite que deciden directa o indirectamente el fondo del asunto",
+      "Contra las disposiciones administrativas de carácter general",
+      "Contra las resoluciones que no ponen fin a la vía administrativa"
     ],
     "correct": 2,
-    "exp": "El art. 112 excluye, con carácter general, la recurribilidad autónoma de los actos de mero trámite salvo que decidan el fondo, imposibiliten continuar el procedimiento o causen indefensión o perjuicio irreparable.",
-    "fuente": "Art. 112 LPAC (Ley 39/2015)"
+    "exp": "Art. 112.3: «Contra las disposiciones administrativas de carácter general no cabrá recurso en vía administrativa». Los recursos contra un acto administrativo que se funden únicamente en la nulidad de una disposición general podrán interponerse directamente ante el órgano que dictó dicha disposición.",
+    "fuente": "Art. 112.3 LPAC (Ley 39/2015)"
   },
   {
     "q": "El art. 113 de la Ley 39/2015 se titula:",
@@ -8873,7 +8873,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "El art. 114 enumera los actos que ponen fin a la vía administrativa, entre ellos las resoluciones de los recursos de alzada.",
-    "fuente": "Art. 114 LPAC (Ley 39/2015)"
+    "fuente": "Art. 114.1.a) LPAC (Ley 39/2015)"
   },
   {
     "q": "El art. 115 de la Ley 39/2015 se titula:",
@@ -8933,7 +8933,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "Art. 116.a) LPAC: «Ser incompetente el órgano administrativo, cuando el competente perteneciera a otra Administración Pública». El recurso no se rechaza sin más: el propio precepto ordena remitirlo al órgano competente conforme al art. 14.1 de la Ley 40/2015. Ojo, la incompetencia que inadmite es la del ÓRGANO que recibe el recurso, no ninguna «incompetencia manifiesta del recurrente», que no existe en la ley.",
-    "fuente": "Art. 116 LPAC (Ley 39/2015)"
+    "fuente": "Art. 116.a) LPAC (Ley 39/2015)"
   },
   {
     "q": "El art. 117 de la Ley 39/2015 se titula:",
@@ -8993,7 +8993,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "Art. 118: se da audiencia a los interesados por plazo no inferior a diez días ni superior a quince cuando deban tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente original.",
-    "fuente": "Art. 118 LPAC (Ley 39/2015)"
+    "fuente": "Art. 118.1 LPAC (Ley 39/2015)"
   },
   {
     "q": "El art. 119 de la Ley 39/2015 se titula:",
@@ -9020,16 +9020,16 @@ const QUESTIONS = {
     "fuente": "Art. 119.1 LPAC (Ley 39/2015)"
   },
   {
-    "q": "Según el art. 119, cuando existan varios interesados, la resolución del recurso se notificará:",
+    "q": "Según el art. 119.2, cuando existiendo vicio de forma no se estime procedente resolver sobre el fondo, el órgano que resuelve el recurso ordenará:",
     "options": [
-      "A todos ellos",
-      "Solo al recurrente que interpuso el recurso",
-      "Solo a quien resulte favorecido por la resolución",
-      "Únicamente a la Administración, sin notificación a particulares"
+      "La retroacción del procedimiento al momento en el que el vicio fue cometido",
+      "El archivo definitivo del expediente sin más trámite",
+      "La nulidad de pleno derecho de todo lo actuado",
+      "La remisión inmediata del expediente a la jurisdicción contencioso-administrativa"
     ],
     "correct": 0,
-    "exp": "Art. 119.3: cuando existan varios interesados, la resolución o desistimiento se notificará a todos ellos.",
-    "fuente": "Art. 119.3 LPAC (Ley 39/2015)"
+    "exp": "Art. 119.2: «Cuando existiendo vicio de forma no se estime procedente resolver sobre el fondo se ordenará la retroacción del procedimiento al momento en el que el vicio fue cometido», sin perjuicio de que pueda acordarse la convalidación de actuaciones por el órgano competente conforme al art. 52.",
+    "fuente": "Art. 119.2 LPAC (Ley 39/2015)"
   },
   {
     "q": "El art. 120 de la Ley 39/2015 se titula:",
@@ -9041,19 +9041,19 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El art. 120 lleva por título 'Pluralidad de recursos administrativos' y cierra la Sección 1ª del Capítulo II.",
-    "fuente": "Sección 1ª LPAC (Ley 39/2015)"
+    "fuente": "Art. 120 LPAC (Ley 39/2015)"
   },
   {
-    "q": "Según el art. 120, cuando exista una pluralidad de recursos administrativos con un mismo objeto, el órgano administrativo puede acordar:",
+    "q": "Según el art. 120.1, cuando deban resolverse una pluralidad de recursos administrativos que traigan causa de un mismo acto administrativo y se hubiera interpuesto recurso judicial contra una resolución administrativa o contra el correspondiente acto presunto desestimatorio, el órgano administrativo podrá acordar:",
     "options": [
-      "Su remisión directa a la vía judicial sin resolución previa",
-      "La suspensión indefinida hasta que se retiren voluntariamente",
-      "La tramitación y resolución conjunta de todos ellos",
-      "La inadmisión automática de todos salvo el primero"
+      "La inadmisión automática de todos los recursos salvo el primero presentado",
+      "La remisión directa de todos ellos a la vía judicial sin resolución previa",
+      "La suspensión del plazo para resolver hasta que recaiga el pronunciamiento judicial",
+      "La acumulación obligatoria de todos los recursos a un único procedimiento sancionador"
     ],
     "correct": 2,
-    "exp": "El art. 120 permite que, ante pluralidad de recursos con idéntico objeto, la Administración acuerde su tramitación y resolución conjunta.",
-    "fuente": "Art. 120 LPAC (Ley 39/2015)"
+    "exp": "Art. 120.1: ante una pluralidad de recursos que traen causa del mismo acto, habiéndose interpuesto recurso judicial, el órgano puede acordar la suspensión del plazo para resolver hasta que recaiga pronunciamiento judicial. El acuerdo de suspensión se notifica a los interesados, que pueden recurrirlo (art. 120.2), y una vez recaído el pronunciamiento judicial cabe resolver sin más trámite salvo el de audiencia cuando proceda (art. 120.3).",
+    "fuente": "Art. 120.1 LPAC (Ley 39/2015)"
   },
   {
     "q": "La Sección 1ª ('Principios generales') del Capítulo II del Título V comprende los artículos:",
@@ -9065,19 +9065,19 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "La Sección 1ª ('Principios generales') del Capítulo II ('Recursos administrativos') abarca los artículos 112 a 120.",
-    "fuente": "Sección 1ª LPAC (Ley 39/2015)"
+    "fuente": "Sección 1.ª del Capítulo II del Título V LPAC (Ley 39/2015) (arts. 112 a 120)"
   },
   {
     "q": "El art. 121 de la Ley 39/2015 se titula:",
     "options": [
-      "Objeto y ámbito de aplicación del recurso de alzada",
+      "Objeto",
       "Objeto y clases",
       "Recurso extraordinario de revisión",
       "Plazos"
     ],
     "correct": 0,
-    "exp": "El art. 121 abre la Sección 2ª (Recurso de alzada) del Capítulo II, regulando su objeto.",
-    "fuente": "Sección 2ª LPAC (Ley 39/2015)"
+    "exp": "El art. 121, titulado «Objeto», abre la Sección 2.ª (Recurso de alzada) del Capítulo II del Título V. «Objeto y clases» es el título del art. 112; «Plazos», el del art. 122.",
+    "fuente": "Art. 121 LPAC (Ley 39/2015)"
   },
   {
     "q": "Según el art. 121, el recurso de alzada puede interponerse ante el órgano que dictó el acto que se impugna o bien:",
@@ -9173,19 +9173,19 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "La Sección 2ª ('Recurso de alzada') comprende únicamente los artículos 121 y 122.",
-    "fuente": "Sección 2ª LPAC (Ley 39/2015)"
+    "fuente": "Sección 2.ª del Capítulo II del Título V LPAC (Ley 39/2015) (arts. 121 y 122)"
   },
   {
     "q": "El art. 123 de la Ley 39/2015 se titula:",
     "options": [
       "Recurso extraordinario de revisión",
-      "Objeto y naturaleza del recurso potestativo de reposición",
+      "Objeto y naturaleza",
       "Fin de la vía administrativa",
       "Plazos"
     ],
     "correct": 1,
-    "exp": "El art. 123 abre la Sección 3ª (Recurso potestativo de reposición), regulando su objeto y naturaleza.",
-    "fuente": "Sección 3ª LPAC (Ley 39/2015)"
+    "exp": "El art. 123, titulado «Objeto y naturaleza», abre la Sección 3.ª (Recurso potestativo de reposición) del Capítulo II del Título V. «Plazos» es el título del art. 124.",
+    "fuente": "Art. 123 LPAC (Ley 39/2015)"
   },
   {
     "q": "Según el art. 123, el recurso de reposición se caracteriza por ser, frente al de alzada, de naturaleza:",
@@ -9281,7 +9281,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "La Sección 3ª ('Recurso potestativo de reposición') comprende los artículos 123 y 124.",
-    "fuente": "Sección 3ª LPAC (Ley 39/2015)"
+    "fuente": "Sección 3.ª del Capítulo II del Título V LPAC (Ley 39/2015) (arts. 123 y 124)"
   },
   {
     "q": "El art. 125 de la Ley 39/2015 se titula:",
@@ -9293,7 +9293,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "El art. 125 abre la Sección 4ª (Recurso extraordinario de revisión), regulando su objeto y los plazos de interposición.",
-    "fuente": "Sección 4ª LPAC (Ley 39/2015)"
+    "fuente": "Art. 125 LPAC (Ley 39/2015)"
   },
   {
     "q": "Según el art. 125.1 a), es causa del recurso extraordinario de revisión:",
@@ -9352,7 +9352,7 @@ const QUESTIONS = {
       "Cuatro años siguientes a la fecha de notificación de la resolución impugnada"
     ],
     "correct": 3,
-    "exp": "Art. 125.2: 'Cuando se trate de la causa 1.ª, el plazo será de cuatro años, contados a partir de la notificación de la resolución impugnada.'",
+    "exp": "Art. 125.2: «El recurso extraordinario de revisión se interpondrá, cuando se trate de la causa a) del apartado anterior, dentro del plazo de cuatro años siguientes a la fecha de la notificación de la resolución impugnada.»",
     "fuente": "Art. 125.2 LPAC (Ley 39/2015)"
   },
   {
@@ -9389,19 +9389,19 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "El art. 126 lleva por título 'Resolución', referido al recurso extraordinario de revisión, y cierra el Título V de la Ley 39/2015.",
-    "fuente": "Título V LPAC (Ley 39/2015)"
+    "fuente": "Art. 126 LPAC (Ley 39/2015)"
   },
   {
-    "q": "Según el art. 126, el órgano competente para resolver el recurso extraordinario de revisión debe recabar, con carácter preceptivo, dictamen de:",
+    "q": "Según el art. 126.1, el órgano competente puede acordar motivadamente la inadmisión a trámite del recurso extraordinario de revisión, sin necesidad de recabar dictamen del Consejo de Estado u órgano consultivo de la Comunidad Autónoma, cuando:",
     "options": [
-      "El Defensor del Pueblo",
-      "La Fiscalía General del Estado",
-      "El Tribunal Constitucional en todo caso",
-      "El Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, salvo que el propio órgano acuerde la inadmisión"
+      "El recurrente no haya interpuesto previamente el recurso de alzada",
+      "El recurso se haya presentado a través de un registro electrónico",
+      "Hayan transcurrido más de seis meses desde la notificación del acto impugnado",
+      "El recurso no se funde en alguna de las causas del art. 125.1, o se hubiesen desestimado en cuanto al fondo otros recursos sustancialmente iguales"
     ],
     "correct": 3,
-    "exp": "Se recoge en el art. 126 la necesidad de recabar dictamen del Consejo de Estado u órgano consultivo equivalente, salvo que el órgano que resuelva acuerde la inadmisión a trámite.",
-    "fuente": "Art. 126 LPAC (Ley 39/2015)"
+    "exp": "Art. 126.1: «El órgano competente para la resolución del recurso podrá acordar motivadamente la inadmisión a trámite, sin necesidad de recabar dictamen del Consejo de Estado u órgano consultivo de la Comunidad Autónoma, cuando el mismo no se funde en alguna de las causas previstas en el apartado 1 del artículo anterior o en el supuesto de que se hubiesen desestimado en cuanto al fondo otros recursos sustancialmente iguales.»",
+    "fuente": "Art. 126.1 LPAC (Ley 39/2015)"
   },
   {
     "q": "Según el art. 126, el plazo máximo de resolución del recurso extraordinario de revisión es de:",
@@ -9412,8 +9412,8 @@ const QUESTIONS = {
       "Quince días naturales"
     ],
     "correct": 0,
-    "exp": "El plazo de resolución del recurso extraordinario de revisión es de tres meses; transcurrido este sin resolución expresa, se entiende desestimado (silencio negativo).",
-    "fuente": "LPAC (Ley 39/2015)"
+    "exp": "Art. 126.3: «Transcurrido el plazo de tres meses desde la interposición del recurso extraordinario de revisión sin haberse dictado y notificado la resolución, se entenderá desestimado, quedando expedita la vía jurisdiccional contencioso-administrativa.»",
+    "fuente": "Art. 126.3 LPAC (Ley 39/2015)"
   },
   {
     "q": "La Sección 4ª ('Recurso extraordinario de revisión') del Capítulo II del Título V comprende los artículos:",
@@ -9425,7 +9425,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "La Sección 4ª ('Recurso extraordinario de revisión') comprende los artículos 125 y 126, que cierran el Título V.",
-    "fuente": "Sección 4ª LPAC (Ley 39/2015)"
+    "fuente": "Sección 4.ª del Capítulo II del Título V LPAC (Ley 39/2015) (arts. 125 y 126)"
   },
   {
     "q": "El Capítulo II del Título V, 'Recursos administrativos', comprende en su conjunto los artículos:",
@@ -9437,7 +9437,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "El Capítulo II del Título V ('Recursos administrativos') abarca los artículos 112 a 126, distribuidos en cuatro secciones.",
-    "fuente": "Capítulo II LPAC (Ley 39/2015)"
+    "fuente": "Capítulo II del Título V LPAC (Ley 39/2015) (arts. 112 a 126)"
   },
   {
     "q": "¿Qué artículos comprende en su totalidad el Título V de la Ley 39/2015, 'De la revisión de los actos en vía administrativa'?",
@@ -9449,7 +9449,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "El Título V, 'De la revisión de los actos en vía administrativa', comprende los artículos 106 a 126, distribuidos en dos capítulos: Revisión de oficio (106-111) y Recursos administrativos (112-126).",
-    "fuente": "Título V LPAC (Ley 39/2015)"
+    "fuente": "Título V LPAC (Ley 39/2015) (arts. 106 a 126)"
   },
   {
     "q": "¿Cuáles son, en conjunto, los tres recursos administrativos regulados con carácter general en la Ley 39/2015?",
@@ -9461,7 +9461,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "La Ley 39/2015 regula tres recursos administrativos: el recurso de alzada (arts. 121-122), el potestativo de reposición (arts. 123-124) y el extraordinario de revisión (arts. 125-126).",
-    "fuente": "LPAC (Ley 39/2015)"
+    "fuente": "Arts. 112.1 y 113 LPAC (Ley 39/2015)"
   },
   {
     "q": "¿Cuál de los tres recursos administrativos generales tiene carácter potestativo, es decir, no es obligatorio agotarlo antes de acudir a la vía judicial?",
@@ -9473,7 +9473,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El recurso de reposición (arts. 123-124) es potestativo: el interesado puede optar por interponerlo o acudir directamente a la vía contencioso-administrativa, ya que el acto que resuelve pone fin a la vía administrativa.",
-    "fuente": "LPAC (Ley 39/2015)"
+    "fuente": "Art. 123.1 LPAC (Ley 39/2015)"
   },
   {
     "q": "¿Cuál de los tres recursos administrativos generales se interpone ante el superior jerárquico del órgano que dictó el acto?",
@@ -9484,8 +9484,8 @@ const QUESTIONS = {
       "Ninguno, todos se interponen ante el mismo órgano que dictó el acto"
     ],
     "correct": 2,
-    "exp": "El recurso de alzada se interpone ante el órgano que dictó el acto o directamente ante su superior jerárquico, que es quien tiene la competencia para resolverlo.",
-    "fuente": "LPAC (Ley 39/2015)"
+    "exp": "Art. 121.1: las resoluciones y actos del art. 112.1 que no pongan fin a la vía administrativa «podrán ser recurridos en alzada ante el órgano superior jerárquico del que los dictó». El art. 121.2 permite además presentarlo ante el propio órgano autor del acto, que debe remitirlo al competente en diez días.",
+    "fuente": "Art. 121.1 LPAC (Ley 39/2015)"
   },
   {
     "q": "¿Cuál de los tres recursos administrativos generales exige que el acto impugnado sea firme en vía administrativa y se funde en causas tasadas?",
@@ -9532,8 +9532,8 @@ const QUESTIONS = {
       "El Congreso de los Diputados"
     ],
     "correct": 2,
-    "exp": "Art. 106.1: se exige dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la CCAA, si lo hubiere, antes de declarar la nulidad.",
-    "fuente": "Art. 106.1 LPAC (Ley 39/2015)"
+    "exp": "Arts. 106.1 y 106.2: tanto para declarar la nulidad de los actos que hayan puesto fin a la vía administrativa o no recurridos en plazo (106.1) como la de las disposiciones administrativas (106.2) se exige dictamen favorable previo del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere.",
+    "fuente": "Arts. 106.1 y 106.2 LPAC (Ley 39/2015)"
   },
   {
     "q": "Según el art. 106, el plazo máximo para resolver el procedimiento de revisión de oficio de disposiciones y actos nulos es de:",
@@ -9548,7 +9548,7 @@ const QUESTIONS = {
     "fuente": "Art. 106.5 LPAC (Ley 39/2015)"
   },
   {
-    "q": "¿Cuál de los siguientes NO es un recurso administrativo ordinario regulado en la Ley 39/2015?",
+    "q": "¿Cuál de los siguientes NO es un recurso administrativo regulado en la Ley 39/2015?",
     "options": [
       "Recurso contencioso-administrativo",
       "Recurso de alzada",
@@ -9556,8 +9556,8 @@ const QUESTIONS = {
       "Recurso extraordinario de revisión"
     ],
     "correct": 0,
-    "exp": "El recurso contencioso-administrativo es jurisdiccional, no administrativo; los recursos administrativos regulados en la Ley 39/2015 son el de alzada, el potestativo de reposición y el extraordinario de revisión.",
-    "fuente": "LPAC (Ley 39/2015)"
+    "exp": "El recurso contencioso-administrativo es jurisdiccional y se rige por la Ley 29/1998, no por la Ley 39/2015. Los recursos administrativos de la LPAC son el de alzada (arts. 121-122), el potestativo de reposición (arts. 123-124) y el extraordinario de revisión (arts. 125-126).",
+    "fuente": "Arts. 112.1 y 113 LPAC (Ley 39/2015)"
   },
   {
     "q": "Según el art. 109.2, ¿existe plazo límite para que la Administración rectifique errores materiales, de hecho o aritméticos en sus actos?",
@@ -9629,19 +9629,19 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "Art. 118: el plazo de audiencia en vía de recurso, al igual que en el trámite de audiencia general del art. 82, es no inferior a diez días ni superior a quince.",
-    "fuente": "Art. 118 LPAC (Ley 39/2015)"
+    "fuente": "Art. 118.1 LPAC (Ley 39/2015)"
   },
   {
-    "q": "Según el art. 119.2, la resolución de un recurso puede decidir cuestiones no planteadas por los interesados cuando:",
+    "q": "Según el art. 119.3, el órgano que resuelve el recurso puede decidir cuestiones no alegadas por los interesados cuando:",
     "options": [
       "El recurso sea el extraordinario de revisión exclusivamente",
       "El interesado lo autorice expresamente por escrito",
-      "La Administración lo decida sin más trámite",
-      "Deriven del propio recurso, debiendo en tal caso oírse previamente a los interesados por un plazo no superior a quince días"
+      "La Administración lo decida sin más trámite y sin audiencia alguna",
+      "Se trate de cuestiones, tanto de forma como de fondo, que plantee el procedimiento, hayan sido o no alegadas, debiendo en tal caso oírse previamente a los interesados"
     ],
     "correct": 3,
-    "exp": "Art. 119.2: la resolución puede decidir cuestiones derivadas del recurso aunque no hayan sido planteadas por los interesados, en cuyo caso se les debe oír previamente por plazo no superior a quince días.",
-    "fuente": "Art. 119.2 LPAC (Ley 39/2015)"
+    "exp": "Art. 119.3: «El órgano que resuelva el recurso decidirá cuantas cuestiones, tanto de forma como de fondo, plantee el procedimiento, hayan sido o no alegadas por los interesados. En este último caso se les oirá previamente». El precepto no fija plazo concreto para esa audiencia, y la resolución debe ser congruente con las peticiones del recurrente sin agravar su situación inicial.",
+    "fuente": "Art. 119.3 LPAC (Ley 39/2015)"
   },
   {
     "q": "Según el art. 119.3, la resolución del recurso, ¿puede agravar la situación inicial del recurrente respecto a lo resuelto en primera instancia?",
@@ -9652,7 +9652,7 @@ const QUESTIONS = {
       "Sí, únicamente cuando el recurrente sea persona jurídica"
     ],
     "correct": 0,
-    "exp": "Art. 119.3: en ningún caso podrá la resolución del recurso agravar la situación inicial del recurrente, sin perjuicio de la potestad de la Administración de incoar de oficio un nuevo procedimiento.",
+    "exp": "Art. 119.3: «la resolución será congruente con las peticiones formuladas por el recurrente, sin que en ningún caso pueda agravarse su situación inicial» (prohibición de reformatio in peius). Ello no impide que la Administración incoe de oficio un nuevo procedimiento si procede, posibilidad que recoge expresamente el art. 88.2 para la resolución de los procedimientos iniciados a solicitud del interesado.",
     "fuente": "Art. 119.3 LPAC (Ley 39/2015)"
   },
   {
@@ -9737,7 +9737,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "El Título V distingue dos vías: la revisión de oficio (Cap. I, iniciativa de la propia Administración) y los recursos administrativos (Cap. II, a instancia del interesado).",
-    "fuente": "LPAC (Ley 39/2015)"
+    "fuente": "Título V LPAC (Ley 39/2015) (arts. 106 a 126: Capítulo I, arts. 106-111; Capítulo II, arts. 112-126)"
   },
 ],
 9:[
