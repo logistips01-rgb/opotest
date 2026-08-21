@@ -75,14 +75,16 @@
       "titulo": "Haciendas Locales (I): recursos, tributos propios e impuestos municipales",
       "normas": [
         "Real Decreto Legislativo 2/2004, de 5 de marzo, TRLRHL, Título I 'Recursos de las haciendas locales' (arts. 2 a 55): enumeración de recursos (art. 2), ingresos de derecho privado (arts. 3-5), tributos: normas generales (arts. 6-9), ordenanzas fiscales (arts. 15-19), tasas (arts. 20-27), contribuciones especiales (arts. 28-37), impuestos y recargos (art. 38), participación en tributos del Estado y CCAA (art. 39), subvenciones (art. 40), precios públicos (arts. 41-47). Numeración verificada por dos agentes independientes el 11-ago-2026 contra el consolidado real (la asignación original de este archivo tenía el art. 38 y el 39 cambiados de sitio).",
-        "TRLRHL, Título II 'Recursos de los municipios', Capítulo II 'Tributos propios': IBI (arts. 60-77), IAE (arts. 78-91), IVTM (arts. 92-99), ICIO (arts. 100-103), IIVTNU (arts. 104-110)"
+        "TRLRHL, Título II 'Recursos de los municipios', Capítulo II 'Tributos propios': IBI (arts. 60-77), IAE (arts. 78-91), IVTM (arts. 92-99), ICIO (arts. 100-103), IIVTNU (arts. 104-110)",
+        "MAPA DE COBERTURA (20-ago-2026), medido sobre las citas del banco. El tema abarca el Título I «Recursos de las haciendas locales» (arts. 2-55) y el Título II «Recursos de los municipios» (arts. 56-130) del TRLRHL. Quedan FUERA los Títulos III (recursos de las provincias, arts. 131-149), IV (otras entidades locales, 150-156), V (regímenes especiales, 157-161) y VI (presupuesto, 162-223, que es el tema 13). Estaban sin cubrir: los arts. 49-55 (OPERACIONES DE CRÉDITO: finalidad e instrumentos, inclusión en el presupuesto, corto plazo, competencias, autorización a largo plazo, organismos autónomos y sociedades, central de información de riesgos), los arts. 56-59 (recursos de los municipios, tasas, contribuciones especiales, enumeración de impuestos), los arts. 111-126 (CESIÓN DE IMPUESTOS DEL ESTADO y PARTICIPACIÓN EN TRIBUTOS DEL ESTADO, con el Fondo Complementario de Financiación y los municipios turísticos) y los arts. 127-130 (PRECIOS PÚBLICOS, normas comunes, PRESTACIÓN PERSONAL y prestaciones de transporte). El examen oficial de 1-jun-2025 preguntó por el art. 129.3, de ese último bloque sin cubrir."
       ],
       "aviso": "Título III (recursos de las provincias, arts. 131-149) y Títulos IV-V (otras entidades, arts. 150-161) quedan fuera de esta primera ronda por presupuesto de agentes; pendientes de una posible segunda ronda."
     },
     "13": {
       "titulo": "Haciendas Locales (II): presupuesto, gasto público, tesorería, contabilidad y control",
       "normas": [
-        "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales (TRLRHL), Título VI 'Presupuesto y gasto público' (arts. 162 a 223): presupuesto general (Cap. I, arts. 162-169), créditos y sus modificaciones (Cap. II, arts. 172-182), ejecución de los presupuestos (Cap. III, arts. 183-190), liquidación de los presupuestos (Cap. IV, arts. 191-193 bis), tesorería (Cap. V, arts. 194-199), contabilidad (Cap. VI, arts. 200-212) y control y fiscalización (Cap. VII, arts. 213-223)"
+        "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales (TRLRHL), Título VI 'Presupuesto y gasto público' (arts. 162 a 223): presupuesto general (Cap. I, arts. 162-169), créditos y sus modificaciones (Cap. II, arts. 172-182), ejecución de los presupuestos (Cap. III, arts. 183-190), liquidación de los presupuestos (Cap. IV, arts. 191-193 bis), tesorería (Cap. V, arts. 194-199), contabilidad (Cap. VI, arts. 200-212) y control y fiscalización (Cap. VII, arts. 213-223)",
+        "AVISO DE COBERTURA (20-ago-2026): el REAL DECRETO 500/1990, de 20 de abril, que desarrolla el capítulo I del título VI de la Ley de Haciendas Locales en materia de presupuestos (BOE-A-1990-9664, 118 artículos), es el reglamento que desarrolla justamente este tema —contenido, estructura, aprobación y ejecución del presupuesto y documentos contables— y el examen oficial de 1-jun-2025 preguntó DOS veces por él (arts. 56 y 67.1). Tenía cobertura CERO en el banco. Es material de examen, no accesorio."
       ],
       "aviso": "Verificar el ID BOE exacto del TRLRHL por curl antes de generar (probable BOE-A-2004-4214, pero no asumir de memoria)."
     },
@@ -192,7 +194,8 @@
       "TRLUA DLeg 1/2014 Aragón": "BOA-d-2014-90410",
       "_errores_corregidos": "BOE-A-1986-19271 NO es el RBEL (es una resolución de la Universidad Complutense) y BOE-A-1986-21606 NO es el RPDT; los dos los di yo por buenos de memoria y act.php devuelve 302 con ellos. Los buenos son 17958 y 21944.",
       "_como_encontrar_uno_nuevo": "La vía fiable es la URL ELI con el sufijo /con: https://www.boe.es/eli/es/<tipo>/<año>/<mes>/<día>/<número>/con — por ejemplo /es/rd/1986/07/11/1690/con devuelve el RPDT con su identificador real en la ficha. Sin /con se sirve el texto ORIGINAL, no el consolidado.",
-      "_rubricas_de_articulo": "Las normas de los años ochenta (TRRL, RPDT) rotulan «Art 74.» y no «Artículo 74.», así que un grep de 'Artículo N' no encuentra nada en ellas."
+      "_rubricas_de_articulo": "Las normas anteriores a los años 2000 rotulan «Art 74.» y no «Artículo 74.», así que un grep de 'Artículo N' no encuentra nada en ellas. Afecta al TRRL (BOE-A-1986-9865), al RPDT (BOE-A-1986-21944) y al RD 500/1990 (BOE-A-1990-9664).",
+      "RD 500/1990 presupuestos": "BOE-A-1990-9664"
     }
   },
   "policia-local-zaragoza": {
