@@ -13,7 +13,9 @@
       "correct": 1,
       "exp": "El art. 49.1 TRLRHL permite acudir al crédito público y privado «a largo plazo, en cualquiera de sus formas» para financiar inversiones y para sustituir total o parcialmente operaciones preexistentes. El crédito a corto plazo tiene su regulación propia y distinta en el art. 51 (necesidades transitorias de tesorería).",
       "fuente": "Art. 49.1 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 49.1: literal «podrán acudir al crédito público y privado, a largo plazo, en cualquiera de sus formas» para inversiones y sustitución total o parcial de operaciones preexistentes; los otros tres distractores no figuran (el corto plazo es el art. 51)."
     },
     {
       "q": "Según el art. 49.2 TRLRHL, ¿cuál de las siguientes NO es una de las formas en que puede instrumentarse el crédito de las entidades locales?",
@@ -26,7 +28,9 @@
       "correct": 2,
       "exp": "El art. 49.2 TRLRHL enumera cuatro formas de instrumentar el crédito: a) emisión pública de deuda; b) contratación de préstamos o créditos; c) cualquier otra apelación al crédito público o privado; d) conversión y sustitución total o parcial de operaciones preexistentes. La cesión de la titularidad de tributos propios no figura en el precepto.",
       "fuente": "Art. 49.2 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 49.2: las opciones a), b) y d) son literales del precepto (emisión pública de deuda; préstamos o créditos; conversión y sustitución de operaciones preexistentes); la cesión de titularidad de tributos propios no aparece en ninguna de las cuatro letras."
     },
     {
       "q": "Según el art. 49.5 TRLRHL, la constitución de garantía real sobre bienes patrimoniales se prevé como forma de garantizar el pago de las obligaciones derivadas de:",
@@ -39,7 +43,9 @@
       "correct": 0,
       "exp": "El art. 49.5 TRLRHL distingue las garantías según el plazo: en el apartado A) (operaciones a corto plazo) se admiten la afectación de los recursos tributarios objeto del anticipo, los avales de la corporación en operaciones de sus organismos autónomos y sociedades dependientes, y la afectación de ingresos de contribuciones especiales, tasas y precios públicos. La constitución de garantía real sobre bienes patrimoniales aparece solo en el apartado B).a), relativo a las operaciones de crédito a largo plazo.",
       "fuente": "Art. 49.5.B).a) TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 49.5: la garantía real sobre bienes patrimoniales solo figura en la letra B).a), operaciones a largo plazo; el apartado A) (corto plazo) no la contempla, luego las opciones 1 y 2 son falsas."
     },
     {
       "q": "Según el art. 49.7 TRLRHL, las corporaciones locales podrán conceder avales a sociedades mercantiles participadas por personas o entidades privadas en las que tengan una cuota de participación en el capital social no inferior al:",
@@ -52,7 +58,9 @@
       "correct": 2,
       "exp": "El art. 49.7 TRLRHL fija la cuota mínima de participación en el capital social en el 30 por ciento, y añade que el aval no podrá garantizar un porcentaje del crédito superior al de la participación de la corporación en la sociedad.",
       "fuente": "Art. 49.7 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 49.7: cuota de participación en el capital social «no inferior al 30 por ciento»; ninguna otra opción coincide con la cifra del precepto."
     },
     {
       "q": "Según el art. 49.8 TRLRHL, los avales que las corporaciones locales concedan conforme a los apartados 6 y 7 de ese artículo están sometidos a fiscalización previa, y el importe del préstamo garantizado no podrá ser superior:",
@@ -65,7 +73,9 @@
       "correct": 3,
       "exp": "El art. 49.8 TRLRHL somete estas operaciones a fiscalización previa y establece que «el importe del préstamo garantizado no podrá ser superior al que hubiere supuesto la financiación directa mediante crédito de la obra o del servicio por la propia entidad».",
       "fuente": "Art. 49.8 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 49.8: «estarán sometidas a fiscalización previa y el importe del préstamo garantizado no podrá ser superior al que hubiere supuesto la financiación directa mediante crédito de la obra o del servicio por la propia entidad»; los porcentajes de los distractores son del art. 53.2 y del art. 52.2."
     },
     {
       "q": "Según el art. 50 TRLRHL, la concertación de cualquiera de las modalidades de crédito previstas en la ley requiere que la corporación disponga del presupuesto aprobado para el ejercicio en curso, salvo la modalidad regulada en el:",
@@ -78,7 +88,9 @@
       "correct": 0,
       "exp": "El art. 50 TRLRHL exceptúa expresamente «la regulada en el artículo 149», que es la de las operaciones especiales de tesorería que pueden concertar las diputaciones provinciales para anticipar a los ayuntamientos hasta el 75 por ciento de las presumibles recaudaciones del IBI y del IAE (art. 149.2). Los arts. 177 y 193 se citan en otros preceptos de crédito (arts. 49.4 y 50.b)), pero no son la excepción del art. 50.",
       "fuente": "Art. 50 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 50, párrafo primero: la única modalidad exceptuada es «la regulada en el artículo 149»; verificado además el art. 149.2 (anticipos de hasta el 75 % de las presumibles recaudaciones de IBI e IAE), que es lo que dice la explicación."
     },
     {
       "q": "Según el art. 50 TRLRHL, cuando se produzca la situación de prórroga del presupuesto podrán concertarse excepcionalmente:",
@@ -91,7 +103,9 @@
       "correct": 3,
       "exp": "El párrafo segundo del art. 50 TRLRHL admite en situación de prórroga presupuestaria dos modalidades: a) operaciones de tesorería, dentro de los límites fijados por la ley, siempre que las concertadas sean reembolsadas y se justifique ese extremo; y b) operaciones de crédito a largo plazo para financiar inversiones vinculadas directamente a modificaciones de crédito tramitadas conforme a los apartados 1, 2, 3 y 6 del art. 177.",
       "fuente": "Art. 50, párrafo segundo, letras a) y b) TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 50, párrafo segundo: en prórroga presupuestaria solo caben a) operaciones de tesorería dentro de los límites legales, reembolsadas y justificadas, y b) crédito a largo plazo para inversiones vinculadas a modificaciones de crédito de los apartados 1, 2, 3 y 6 del art. 177; los otros tres supuestos no están en el precepto."
     },
     {
       "q": "Según el art. 51 TRLRHL, las operaciones de crédito a corto plazo que las entidades locales pueden concertar para atender necesidades transitorias de tesorería no pueden exceder de:",
@@ -104,7 +118,9 @@
       "correct": 1,
       "exp": "El art. 51 TRLRHL permite concertar operaciones de crédito a corto plazo «que no exceda de un año» para atender necesidades transitorias de tesorería. Coherentemente, su letra c) considera operación a corto plazo las emisiones de deuda por plazo no superior a un año.",
       "fuente": "Art. 51 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 51: operaciones a corto plazo «que no exceda de un año»; concuerda con la letra c) (emisiones de deuda por plazo no superior a un año)."
     },
     {
       "q": "Según el art. 51 TRLRHL, las operaciones de crédito a corto plazo no podrán superar, en su conjunto, el siguiente porcentaje de los ingresos liquidados por operaciones corrientes en el ejercicio anterior:",
@@ -117,7 +133,9 @@
       "correct": 2,
       "exp": "El art. 51 TRLRHL fija el límite conjunto en el 30 por ciento de los ingresos liquidados por operaciones corrientes en el ejercicio anterior, salvo que la operación haya de realizarse en el primer semestre del año sin que se haya producido la liquidación de tal ejercicio, en cuyo caso se toma la liquidación del ejercicio anterior a este último. El 15 por ciento del art. 52.2 es cosa distinta: delimita la competencia del presidente, no el límite máximo de endeudamiento a corto plazo.",
       "fuente": "Art. 51 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 51: límite conjunto del 30 % de los ingresos liquidados por operaciones corrientes en el ejercicio anterior. Comprobado que la cifra marcada es la de su artículo y no el 15 % del art. 52.2 (competencia del presidente), que aparece solo como distractor."
     },
     {
       "q": "Según el art. 51 TRLRHL, ¿cuál de las siguientes NO se enumera como operación de crédito a corto plazo?",
@@ -130,7 +148,9 @@
       "correct": 3,
       "exp": "El art. 51 TRLRHL enumera, entre otras, las tres primeras (letras a, b y c). La conversión y sustitución total o parcial de operaciones preexistentes es una de las formas de instrumentar el crédito a largo plazo del art. 49.2.d), no un supuesto de operación a corto plazo.",
       "fuente": "Art. 51.a), b) y c) TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 51: las letras a), b) y c) son literales; la conversión y sustitución de operaciones preexistentes es del art. 49.2.d). El enunciado está formulado como «no se enumera», compatible con el «entre otras» del precepto."
     },
     {
       "q": "Según el art. 52.2 TRLRHL, la concertación o modificación de cualesquiera operaciones de crédito deberá acordarse previo informe de:",
@@ -143,7 +163,9 @@
       "correct": 2,
       "exp": "El art. 52.2, párrafo primero, TRLRHL exige informe previo de la Intervención, en el que se analizará especialmente la capacidad de la entidad local para hacer frente en el tiempo a las obligaciones que se deriven de la operación.",
       "fuente": "Art. 52.2, párrafo primero, TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 52.2, párrafo primero: informe previo de la Intervención sobre la capacidad de la entidad para atender en el tiempo las obligaciones derivadas; ni Secretaría, ni Tesorería, ni el Ministerio figuran ahí. No se usa el art. 52.1."
     },
     {
       "q": "Según el art. 52.2 TRLRHL, los presidentes de las corporaciones locales podrán concertar las operaciones de crédito a largo plazo previstas en el presupuesto cuyo importe acumulado, dentro de cada ejercicio económico, no supere el siguiente porcentaje de los recursos de carácter ordinario previstos en dicho presupuesto:",
@@ -156,7 +178,9 @@
       "correct": 1,
       "exp": "El art. 52.2, párrafo segundo, TRLRHL atribuye al presidente las operaciones a largo plazo previstas en el presupuesto cuyo importe acumulado en el ejercicio no supere el 10 por ciento de los recursos de carácter ordinario previstos en dicho presupuesto.",
       "fuente": "Art. 52.2, párrafo segundo, TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 52.2, párrafo segundo: el presidente puede concertar el largo plazo previsto en el presupuesto hasta el 10 % de los recursos de carácter ordinario previstos en dicho presupuesto. Verificado que no se ha cruzado con el 15 % del corto plazo ni con el 30 % del art. 51."
     },
     {
       "q": "Según el art. 52.2 TRLRHL, la concertación de operaciones de crédito a corto plazo corresponderá al presidente de la corporación cuando el importe acumulado de las operaciones vivas de esta naturaleza, incluida la nueva operación, no supere el siguiente porcentaje de los recursos corrientes liquidados en el ejercicio anterior:",
@@ -169,7 +193,9 @@
       "correct": 3,
       "exp": "El art. 52.2, párrafo segundo, TRLRHL sitúa el límite competencial del presidente en las operaciones a corto plazo en el 15 por ciento de los recursos corrientes liquidados en el ejercicio anterior, computando las operaciones vivas más la nueva. No debe confundirse con el 10 por ciento (largo plazo, recursos ordinarios previstos en el presupuesto) ni con el 30 por ciento del art. 51 (límite máximo del endeudamiento a corto plazo).",
       "fuente": "Art. 52.2, párrafo segundo, TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 52.2, párrafo segundo: corto plazo del presidente hasta el 15 % de los recursos corrientes liquidados en el ejercicio anterior, computando las operaciones vivas más la nueva. Verificado que el 15 % es el de su artículo y que el 30 % del art. 51 solo actúa como distractor."
     },
     {
       "q": "Según el art. 52.2 TRLRHL, una vez superados los límites que delimitan la competencia del presidente para concertar operaciones de crédito, la aprobación corresponderá:",
@@ -182,7 +208,9 @@
       "correct": 0,
       "exp": "El art. 52.2, párrafo tercero, TRLRHL dispone que «una vez superados dichos límites, la aprobación corresponderá al Pleno de la corporación local».",
       "fuente": "Art. 52.2, párrafo tercero, TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 52.2, párrafo tercero: «una vez superados dichos límites, la aprobación corresponderá al Pleno de la corporación local»."
     },
     {
       "q": "Según el art. 53.1 TRLRHL, las entidades locales no podrán concertar nuevas operaciones de crédito a largo plazo ni conceder avales sin previa autorización de los órganos competentes del Ministerio de Hacienda o, en su caso, de la comunidad autónoma con competencia en la materia, cuando de los estados financieros del último ejercicio se deduzca:",
@@ -195,7 +223,9 @@
       "correct": 2,
       "exp": "El art. 53.1 TRLRHL condiciona la autorización previa al hecho de que de los estados financieros que reflejen la liquidación de los presupuestos, los resultados corrientes y los resultados de la actividad ordinaria del último ejercicio se deduzca un ahorro neto negativo.",
       "fuente": "Art. 53.1 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 53.1: el disparador de la autorización previa es que se deduzca «un ahorro neto negativo» de los estados financieros del último ejercicio; remanente, resultado presupuestario y capital vivo del 75 % no aparecen como disparador."
     },
     {
       "q": "Según el art. 53.1 TRLRHL, el ahorro neto de las entidades locales y de sus organismos autónomos de carácter administrativo es la diferencia entre:",
@@ -208,7 +238,9 @@
       "correct": 0,
       "exp": "El art. 53.1, párrafo segundo, TRLRHL define el ahorro neto como la diferencia entre los derechos liquidados por los capítulos uno a cinco, ambos inclusive, del estado de ingresos y las obligaciones reconocidas por los capítulos uno, dos y cuatro del estado de gastos, minorada en el importe de una anualidad teórica de amortización de la operación proyectada y de cada uno de los préstamos y empréstitos propios y avalados a terceros pendientes de reembolso.",
       "fuente": "Art. 53.1, párrafo segundo, TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 53.1, párrafo segundo: ahorro neto = derechos liquidados de los capítulos uno a cinco del estado de ingresos menos obligaciones reconocidas de los capítulos uno, dos y cuatro del estado de gastos, minorada en una anualidad teórica de amortización. Capítulos verificados uno a uno."
     },
     {
       "q": "Según el art. 53.1 TRLRHL, cuando el ahorro neto sea de signo negativo, el Pleno de la respectiva corporación deberá aprobar un plan de saneamiento financiero a realizar en un plazo no superior a:",
@@ -221,7 +253,9 @@
       "correct": 1,
       "exp": "El art. 53.1 TRLRHL exige que el Pleno apruebe un plan de saneamiento financiero a realizar en un plazo no superior a tres años, con medidas de gestión, tributarias, financieras y presupuestarias que permitan como mínimo ajustar a cero el ahorro neto negativo; el plan debe presentarse junto con la solicitud de autorización.",
       "fuente": "Art. 53.1, párrafos octavo y noveno, TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 53.1, párrafos octavo y noveno: plan de saneamiento financiero aprobado por el Pleno «en un plazo no superior a tres años», presentado junto con la solicitud de autorización. Recuento de párrafos del apartado 1 comprobado: la cita 8.º/9.º es exacta."
     },
     {
       "q": "Según el art. 53.2 TRLRHL, precisarán autorización las operaciones de crédito a largo plazo de cualquier naturaleza, incluido el riesgo deducido de los avales, cuando el volumen total del capital vivo de las operaciones de crédito vigentes a corto y largo plazo, incluyendo la operación proyectada, exceda del siguiente porcentaje de los ingresos corrientes liquidados o devengados en el ejercicio inmediatamente anterior:",
@@ -234,7 +268,9 @@
       "correct": 2,
       "exp": "El art. 53.2 TRLRHL fija el umbral en el 110 por ciento de los ingresos corrientes liquidados o devengados en el ejercicio inmediatamente anterior (o, en su defecto, en el precedente cuando el cómputo se haga en el primer semestre y no se haya liquidado el presupuesto). El consolidado incorpora una nota según la cual la disposición adicional 46 de la Ley 26/2009 elevó ese porcentaje del 110 al 125 por ciento exclusivamente para el año 2010; el porcentaje vigente en el texto es el 110 por ciento.",
       "fuente": "Art. 53.2 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 53.2: capital vivo a corto y largo plazo, incluida la operación proyectada, que exceda del 110 % de los ingresos corrientes liquidados o devengados del ejercicio inmediatamente anterior. Verificada la nota del consolidado: la DA 46 de la Ley 26/2009 lo elevó al 125 % «exclusivamente para el año 2010»; el texto vigente conserva el 110 %."
     },
     {
       "q": "Según el art. 53.4 TRLRHL, pueden optar por sustituir las autorizaciones previstas en los apartados 1 y 2 de dicho artículo por la presentación de un escenario de consolidación presupuestaria las entidades locales de más de:",
@@ -247,7 +283,9 @@
       "correct": 3,
       "exp": "El art. 53.4 TRLRHL reserva esa opción a las entidades locales de más de 200.000 habitantes. El escenario de consolidación presupuestaria contendrá el compromiso, aprobado por el Pleno, del límite máximo del déficit no financiero y del importe máximo de endeudamiento para cada uno de los tres ejercicios siguientes.",
       "fuente": "Art. 53.4 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 53.4: la opción por el escenario de consolidación presupuestaria se reserva a las entidades locales «de más de 200.000 habitantes», con compromiso plenario de déficit no financiero y endeudamiento máximo para los tres ejercicios siguientes."
     },
     {
       "q": "Según el art. 53.5 TRLRHL, precisarán en todo caso autorización del Ministerio de Hacienda las operaciones de crédito a corto y largo plazo, la concesión de avales y las demás operaciones que modifiquen las condiciones contractuales o añadan garantías adicionales cuando:",
@@ -260,7 +298,9 @@
       "correct": 0,
       "exp": "El art. 53.5 TRLRHL reserva al Ministerio de Hacienda, en todo caso, la autorización de las operaciones de las letras a) —formalizadas en el exterior o con entidades financieras no residentes en España, cualquiera que sea la divisa— y b) —instrumentadas mediante emisiones de deuda o cualquier otra forma de apelación al crédito público—. El propio apartado precisa que no se consideran financiación exterior las operaciones en euros realizadas en el espacio territorial de la Unión Europea con entidades financieras residentes en alguno de esos países, si bien deben comunicarse previamente al Ministerio.",
       "fuente": "Art. 53.5.a) y b) TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 53.5: los dos supuestos de autorización en todo caso del Ministerio son las letras a) (formalizadas en el exterior o con entidades no residentes) y b) (emisiones de deuda u otra apelación al crédito público); las otras tres condiciones no están en el apartado."
     },
     {
       "q": "Según el art. 54 TRLRHL, para la concertación de operaciones de crédito a largo plazo, los organismos autónomos y los entes y sociedades mercantiles dependientes precisarán:",
@@ -273,7 +313,9 @@
       "correct": 1,
       "exp": "El art. 54 TRLRHL exige, para las operaciones de crédito a largo plazo de organismos autónomos y de los entes y sociedades mercantiles dependientes, la previa autorización del Pleno de la corporación y el informe de la Intervención.",
       "fuente": "Art. 54 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 54: los organismos autónomos y entes y sociedades mercantiles dependientes precisan «la previa autorización del Pleno de la corporación e informe de la Intervención» para el crédito a largo plazo."
     },
     {
       "q": "Según el art. 55 TRLRHL, ¿qué órgano mantendrá una central de riesgos que provea información sobre las distintas operaciones de crédito concertadas por las entidades locales y las cargas financieras que supongan?",
@@ -286,7 +328,9 @@
       "correct": 1,
       "exp": "El art. 55.1 TRLRHL atribuye al Ministerio de Hacienda el mantenimiento de la central de riesgos. El Banco de España, conforme al art. 55.2, colabora con los órganos competentes del Ministerio suministrando la información que reciba a través de su Servicio Central de Información de Riesgos, pero no es quien mantiene la central del art. 55.1.",
       "fuente": "Art. 55.1 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 55.1: la central de riesgos la mantiene el Ministerio de Hacienda; el Banco de España solo colabora suministrando información de su Servicio Central de Información de Riesgos (art. 55.2), por lo que la opción 0 no es también válida."
     },
     {
       "q": "Según el art. 56 TRLRHL, la hacienda de los municipios estará constituida por:",
@@ -299,7 +343,9 @@
       "correct": 0,
       "exp": "El art. 56 TRLRHL, que abre el título II («Recursos de los municipios»), se remite a la enumeración general del art. 2 de la ley, «en los términos y con las especialidades que se recogen en este título».",
       "fuente": "Art. 56 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 56: remisión a los recursos enumerados en el art. 2 «en los términos y con las especialidades que se recogen en este título» (título II, Recursos de los municipios)."
     },
     {
       "q": "Según el art. 57 TRLRHL, los ayuntamientos podrán establecer y exigir tasas por la prestación de servicios o la realización de actividades de su competencia y, además, por:",
@@ -312,7 +358,9 @@
       "correct": 1,
       "exp": "El art. 57 TRLRHL contempla los dos presupuestos de hecho de la tasa municipal: la prestación de servicios o realización de actividades de competencia municipal y la utilización privativa o el aprovechamiento especial de los bienes del dominio público municipal, con remisión a la sección 3.ª del capítulo III del título I. La realización de obras o el establecimiento o ampliación de servicios es el presupuesto de las contribuciones especiales (art. 58).",
       "fuente": "Art. 57 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 57: los dos presupuestos son prestación de servicios o realización de actividades de competencia municipal y utilización privativa o aprovechamiento especial del dominio público municipal; la realización de obras es el presupuesto del art. 58."
     },
     {
       "q": "Según el art. 58 TRLRHL, los ayuntamientos podrán establecer y exigir contribuciones especiales por:",
@@ -325,7 +373,9 @@
       "correct": 2,
       "exp": "El art. 58 TRLRHL permite establecer y exigir contribuciones especiales «por la realización de obras o por el establecimiento o ampliación de servicios municipales», según las normas de la sección 4.ª del capítulo III del título I de la ley.",
       "fuente": "Art. 58 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 58: contribuciones especiales «por la realización de obras o por el establecimiento o ampliación de servicios municipales», con remisión a la sección 4.ª del capítulo III del título I."
     },
     {
       "q": "Según el art. 59.1 TRLRHL, los ayuntamientos exigirán, de acuerdo con la ley y las disposiciones que la desarrollan, los siguientes impuestos:",
@@ -338,7 +388,9 @@
       "correct": 3,
       "exp": "El art. 59.1 TRLRHL enumera los tres impuestos de exigencia obligatoria: IBI, IAE e IVTM. El ICIO y el IIVTNU son potestativos y se regulan en el apartado 2 del mismo artículo.",
       "fuente": "Art. 59.1 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 59.1: los tres impuestos de exigencia obligatoria son IBI, IAE e IVTM; ICIO e IIVTNU están en el apartado 2, luego las opciones que los incluyen son falsas."
     },
     {
       "q": "Según el art. 59.2 TRLRHL, además de los impuestos de exigencia obligatoria, los ayuntamientos podrán establecer y exigir:",
@@ -351,7 +403,9 @@
       "correct": 0,
       "exp": "El art. 59.2 TRLRHL configura como potestativos el Impuesto sobre Construcciones, Instalaciones y Obras y el Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana, que se establecen y exigen de acuerdo con la ley, las disposiciones que la desarrollen y las respectivas ordenanzas fiscales.",
       "fuente": "Art. 59.2 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 59.2: potestativos el Impuesto sobre Construcciones, Instalaciones y Obras y el Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana; ningún recargo sobre el IRPF figura en el precepto."
     },
     {
       "q": "Según el art. 127 TRLRHL, los ayuntamientos podrán establecer y exigir precios públicos por:",
@@ -364,7 +418,9 @@
       "correct": 1,
       "exp": "El art. 127 TRLRHL, único del capítulo V del título II, habilita a los ayuntamientos para establecer y exigir precios públicos «por la prestación de servicios o la realización de actividades de competencia municipal», con remisión al capítulo VI del título I de la ley (arts. 41 a 47).",
       "fuente": "Art. 127 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 127: precios públicos por la prestación de servicios o realización de actividades de competencia municipal, con remisión al capítulo VI del título I; comprobado que ese capítulo es el de precios públicos (arts. 41 a 47)."
     },
     {
       "q": "Según el art. 128.1 TRLRHL, podrán imponer la prestación personal y de transporte para la realización de obras de la competencia municipal, o que hayan sido cedidas o transferidas por otras entidades públicas, los ayuntamientos con población de derecho no superior a:",
@@ -377,7 +433,9 @@
       "correct": 2,
       "exp": "El art. 128.1 TRLRHL limita esta potestad a los ayuntamientos con población de derecho no superior a 5.000 habitantes, y solo para la realización de obras de la competencia municipal o que les hayan sido cedidas o transferidas por otras entidades públicas.",
       "fuente": "Art. 128.1 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 128.1: ayuntamientos «con población de derecho no superior a 5.000 habitantes», y solo para obras de competencia municipal o cedidas o transferidas por otras entidades públicas."
     },
     {
       "q": "Según el art. 128.2 TRLRHL, las prestaciones personal y de transporte:",
@@ -390,7 +448,9 @@
       "correct": 3,
       "exp": "El art. 128.2 TRLRHL declara expresamente compatibles ambas prestaciones y admite su aplicación simultánea, en cuyo caso los obligados a la de transporte podrán realizar la personal con sus mismos elementos de transporte.",
       "fuente": "Art. 128.2 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 128.2: literal de compatibilidad y simultaneidad, con la regla de que los obligados a la de transporte pueden realizar la personal con sus mismos elementos de transporte; las tres alternativas contradicen el precepto."
     },
     {
       "q": "Según el art. 128.3 TRLRHL, la falta de concurrencia a la prestación, sin la previa redención y salvo caso de fuerza mayor, obligará al pago del importe de esta más:",
@@ -403,7 +463,9 @@
       "correct": 0,
       "exp": "El art. 128.3 TRLRHL obliga al pago del importe de la redención más «una sanción de la misma cuantía», y añade que ambos conceptos se exigirán por vía ejecutiva para su recaudación.",
       "fuente": "Art. 128.3 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 128.3: pago del importe de la redención «más una sanción de la misma cuantía», exigiéndose ambos conceptos por vía ejecutiva, salvo fuerza mayor; ni el 50 %, ni el doble, ni los intereses de demora aparecen."
     },
     {
       "q": "Según el art. 128.4 TRLRHL, al fijar los períodos de la prestación personal y de transporte, el ayuntamiento tendrá en cuenta que estos:",
@@ -416,7 +478,9 @@
       "correct": 1,
       "exp": "El art. 128.4 TRLRHL impone al ayuntamiento tener en cuenta, al fijar los períodos de la prestación, que estos no coincidan con la época de mayor actividad laboral en el término municipal.",
       "fuente": "Art. 128.4 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 128.4: el ayuntamiento debe fijar los períodos de forma que no coincidan con «la época de mayor actividad laboral en el término municipal»; ninguna otra regla temporal figura en el artículo."
     },
     {
       "q": "Según el art. 129.1 TRLRHL, están sujetos a la prestación personal los residentes del municipio respectivo, excepto, entre otros:",
@@ -429,7 +493,9 @@
       "correct": 2,
       "exp": "El art. 129.1.a) TRLRHL exceptúa de la prestación personal a los menores de dieciocho años y a los mayores de cincuenta y cinco.",
       "fuente": "Art. 129.1.a) TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 129.1.a): exceptuados los «menores de dieciocho años y mayores de cincuenta y cinco»; verificado que no son 16/65 ni 18/65."
     },
     {
       "q": "Según el art. 129.1 TRLRHL, ¿cuál de los siguientes NO figura entre los exceptuados de la prestación personal?",
@@ -442,7 +508,9 @@
       "correct": 3,
       "exp": "El art. 129.1 TRLRHL enumera como exceptuados: a) menores de dieciocho años y mayores de cincuenta y cinco; b) disminuidos físicos, psíquicos y sensoriales; c) reclusos en establecimientos penitenciarios; d) mozos mientras permanezcan en filas en cumplimiento del servicio militar. Los desempleados no figuran en la relación.",
       "fuente": "Art. 129.1.b), c) y d) TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 129.1: la relación de exceptuados es cerrada en cuatro letras (menores de 18 y mayores de 55; disminuidos físicos, psíquicos y sensoriales; reclusos; mozos en filas); los desempleados no figuran."
     },
     {
       "q": "Según el art. 129.2 TRLRHL, el riesgo por accidentes que puedan acaecer a los obligados a la prestación personal será cubierto por:",
@@ -455,7 +523,9 @@
       "correct": 0,
       "exp": "El art. 129.2 TRLRHL dispone que «el ayuntamiento de la imposición cubrirá el riesgo por accidentes que puedan acaecer a los obligados a esta prestación».",
       "fuente": "Art. 129.2 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 129.2: «el ayuntamiento de la imposición cubrirá el riesgo por accidentes que puedan acaecer a los obligados a esta prestación»."
     },
     {
       "q": "Según el art. 129.3 TRLRHL, la prestación personal no excederá de:",
@@ -468,7 +538,9 @@
       "correct": 1,
       "exp": "El art. 129.3 TRLRHL establece que la prestación personal no excederá de 15 días al año ni de tres consecutivos. Los 5 días no consecutivos son el límite de la prestación de transporte para vehículos de tracción mecánica (art. 130.2) y los 10 días con máximo de dos consecutivos, el de los demás casos de esa misma prestación.",
       "fuente": "Art. 129.3 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 129.3: «no excederá de 15 días al año ni de tres consecutivos» (sí son consecutivos, no naturales sueltos); los 5 días no consecutivos y los 10 días con dos consecutivos son del art. 130.2 y solo actúan como distractores. Coincide en el dato con la pregunta 28 del examen oficial de 1-jun-2025 ya incluida en el banco, pero el enunciado es distinto y no duplicado."
     },
     {
       "q": "Según el art. 129.3 TRLRHL, la prestación personal podrá ser redimida a metálico por un importe de:",
@@ -481,7 +553,9 @@
       "correct": 2,
       "exp": "El art. 129.3 TRLRHL permite redimir a metálico la prestación personal «por un importe del doble del salario mínimo interprofesional». Las tres veces el salario mínimo interprofesional corresponden a la reducción a metálico de la prestación de transporte (art. 130.2).",
       "fuente": "Art. 129.3 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 129.3: redención a metálico «por un importe del doble del salario mínimo interprofesional». Verificado que es el doble y no las tres veces del art. 130.2, que aparece como distractor cruzado."
     },
     {
       "q": "Según el art. 130.1 TRLRHL, la obligación de la prestación de transporte:",
@@ -494,7 +568,9 @@
       "correct": 3,
       "exp": "El art. 130.1 TRLRHL declara la obligación general, «sin excepción alguna», para todas las personas físicas o jurídicas, residentes o no en el municipio, que tengan elementos de transporte en el término municipal afectos a explotaciones empresariales radicadas en este. A diferencia de la prestación personal (art. 129.1), aquí no hay exenciones subjetivas.",
       "fuente": "Art. 130.1 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 130.1: obligación «general, sin excepción alguna», para personas físicas o jurídicas, residentes o no, con elementos de transporte en el término municipal afectos a explotaciones empresariales radicadas en este; no hay exenciones subjetivas como las del art. 129.1."
     },
     {
       "q": "Según el art. 130.2 TRLRHL, la prestación de transporte no excederá, para los vehículos de tracción mecánica, de:",
@@ -507,7 +583,9 @@
       "correct": 0,
       "exp": "El art. 130.2 TRLRHL fija para los vehículos de tracción mecánica un máximo de cinco días al año, «sin que pueda ser consecutivo ninguno de ellos». En los demás casos la duración no será superior a 10 días al año ni a dos consecutivos.",
       "fuente": "Art. 130.2 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 130.2: para vehículos de tracción mecánica, «no excederá de cinco días al año, sin que pueda ser consecutivo ninguno de ellos»; los 10 días con dos consecutivos son los «demás casos» del mismo apartado y los 15 con tres son el art. 129.3."
     },
     {
       "q": "Según el art. 130.2 TRLRHL, la prestación de transporte podrá ser reducida a metálico por importe de:",
@@ -520,7 +598,9 @@
       "correct": 3,
       "exp": "El art. 130.2 TRLRHL prevé que la prestación de transportes «podrá ser reducida a metálico, por importe de tres veces el salario mínimo interprofesional». El doble del salario mínimo interprofesional es el importe de redención de la prestación personal (art. 129.3).",
       "fuente": "Art. 130.2 TRLRHL (RDLeg 2/2004)",
-      "confianza": "alta"
+      "confianza": "alta",
+      "veredicto": "CONFIRMADA",
+      "notaRevision": "Art. 130.2: reducción a metálico «por importe de tres veces el salario mínimo interprofesional». Verificado que es distinto del doble del SMI de la prestación personal (art. 129.3), que figura como distractor."
     }
   ]
 }
