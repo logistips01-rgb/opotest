@@ -13,6 +13,258 @@
    "fuente": "LCSP (Ley 9/2017)",
    "motivoArchivo": "Fuera de alcance: versa sobre los procedimientos de adjudicación (procedimiento abierto simplificado, art. 159), materia que no cae en ninguno de los tres bloques del epígrafe.",
    "temaOrigen": 9
+  },
+  {
+   "q": "Respecto al régimen anterior (TRLCSP 2011), ¿qué artículo de la LCSP 2017 se corresponde con el antiguo art. 5 (Calificación de los contratos)?",
+   "options": [
+    "El artículo 24",
+    "El artículo 228",
+    "El artículo 18",
+    "El artículo 12"
+   ],
+   "correct": 3,
+   "exp": "Según la tabla de equivalencias, el art. 5 del TRLCSP 2011 ('Calificación de los contratos') se corresponde con el art. 12 de la LCSP 2017.",
+   "fuente": "Art. 5 LCSP (Ley 9/2017)",
+   "motivoArchivo": "Fuera de alcance: pregunta por la numeración de una norma derogada (art. 5 TRLCSP 2011) mediante una tabla de equivalencias que no es texto normativo, y la fuente («Art. 5 LCSP») no sostiene nada. No entra en ninguno de los tres bloques del epígrafe.",
+   "temaOrigen": 9
+  },
+  {
+   "q": "Respecto al régimen anterior, ¿qué artículo del TRLCSP 2011 correspondía al actual art. 15 de la LCSP (Contrato de concesión de servicios)?",
+   "options": [
+    "El artículo 8, relativo al contrato de gestión de servicios públicos",
+    "El artículo 9, sobre el contrato de suministro",
+    "El artículo 6, relativo al contrato de obras",
+    "El artículo 11, sobre colaboración público-privada"
+   ],
+   "correct": 0,
+   "exp": "Según la tabla de equivalencias, el antiguo 'contrato de gestión de servicios públicos' (art. 8 TRLCSP) se corresponde con el actual 'contrato de concesión de servicios' (art. 15 LCSP).",
+   "fuente": "Art. 8 LCSP (Ley 9/2017)",
+   "motivoArchivo": "Fuera de alcance por el mismo motivo: equivalencias con el TRLCSP 2011 derogado (art. 8, gestión de servicios públicos). Obliga a memorizar numeración de derecho derogado.",
+   "temaOrigen": 9
+  },
+  {
+   "q": "El Título I del Libro Primero de la LCSP se dedica a:",
+   "options": [
+    "Disposiciones generales sobre la contratación del sector público",
+    "La gestión de la publicidad contractual electrónica",
+    "La ejecución de los contratos de obras",
+    "El régimen de recursos especiales"
+   ],
+   "correct": 0,
+   "exp": "El Título I del Libro Primero ('Configuración general de la contratación del sector público y elementos estructurales de los contratos') se dedica a las 'Disposiciones generales sobre la contratación del sector público'.",
+   "fuente": "Art. 27 LCSP (Ley 9/2017)",
+   "motivoArchivo": "Fuera de alcance: pregunta por la rúbrica del Título I del Libro Primero (estructura general de la Ley), materia ajena a los tres bloques del epígrafe; además la fuente citada (art. 27) no la sostiene, aunque el dato sea correcto.",
+   "temaOrigen": 9
+  },
+  {
+   "q": "Según la estructura general de la LCSP, ¿en qué Libro se regula la 'Configuración general de la contratación del sector público y elementos estructurales de los contratos'?",
+   "options": [
+    "Libro Tercero",
+    "Libro Primero",
+    "Libro Segundo",
+    "Libro Cuarto"
+   ],
+   "correct": 1,
+   "exp": "El Libro Primero de la LCSP se titula 'Configuración general de la contratación del sector público y elementos estructurales de los contratos'.",
+   "fuente": "Art. 27 LCSP (Ley 9/2017)",
+   "motivoArchivo": "Fuera de alcance: estructura en Libros de la LCSP, ajena a los tres bloques del epígrafe (el dato es correcto: Libro Primero). La fuente citada, art. 27, tampoco corresponde.",
+   "temaOrigen": 9
+  },
+  {
+   "q": "¿Cuál es el objetivo general que persigue la LCSP 2017 en su diseño del sistema de contratación pública, según su propia exposición de motivos?",
+   "options": [
+    "Reducir al mínimo la participación de pequeñas empresas",
+    "Suprimir cualquier control por parte de los órganos de fiscalización",
+    "Un sistema más eficiente, transparente e íntegro que mejore el cumplimiento de los objetivos públicos",
+    "Eliminar la publicidad de las licitaciones para agilizar los plazos"
+   ],
+   "correct": 2,
+   "exp": "La exposición de motivos señala el objetivo de diseñar 'un sistema de contratación pública más eficiente, transparente e íntegro' que mejore el cumplimiento de los objetivos públicos.",
+   "fuente": "LCSP (Ley 9/2017)",
+   "motivoArchivo": "Fuera de alcance: objetivos generales enunciados en el preámbulo de la LCSP, materia que no encaja en ninguno de los tres bloques del epígrafe y que además no puede citarse por precepto (el preámbulo no es articulado).",
+   "temaOrigen": 9
+  },
+  {
+   "q": "Según la exposición de motivos de la LCSP, este sistema más eficiente busca lograrse a través de la satisfacción de las necesidades de los órganos de contratación y, además, mediante:",
+   "options": [
+    "La eliminación total de la libre competencia entre licitadores",
+    "La reserva exclusiva de todos los contratos a empresas públicas",
+    "La supresión de cualquier recurso administrativo en materia de contratación",
+    "Una mejora de las condiciones de acceso y participación en las licitaciones de los operadores económicos"
+   ],
+   "correct": 3,
+   "exp": "La exposición de motivos señala que el objetivo se logra 'tanto a través de la satisfacción de las necesidades de los órganos de contratación, como mediante una mejora de las condiciones de acceso y participación en las licitaciones públicas de los operadores económicos'.",
+   "fuente": "LCSP (Ley 9/2017)",
+   "motivoArchivo": "Fuera de alcance por el mismo motivo: memorización literal de un párrafo del preámbulo sobre la eficiencia del sistema, ajena a los tipos contractuales y a la contratación local.",
+   "temaOrigen": 9
+  },
+  {
+   "q": "¿A qué escala numérica de municipios españoles hace referencia la doctrina al justificar la técnica normativa específica de la LCSP para las Entidades Locales por su escaso dimensionamiento?",
+   "options": [
+    "Aproximadamente 8.125 municipios",
+    "Cerca de 500 municipios en total",
+    "Solo 50 grandes ciudades",
+    "Más de 20.000 municipios"
+   ],
+   "correct": 0,
+   "exp": "La doctrina sobre la LCSP en el ámbito local justifica su regulación específica por el escaso dimensionamiento de buena parte de los 8.125 municipios españoles y su falta de recursos personales y materiales.",
+   "fuente": "LCSP (Ley 9/2017)",
+   "motivoArchivo": "Fuera de alcance y no verificable: la cifra de «8.125 municipios» es un dato doctrinal y variable que no consta en ninguna norma, de modo que la pregunta no admite fuente y no pertenece a ninguno de los tres bloques del epígrafe.",
+   "temaOrigen": 9
+  },
+  {
+   "q": "¿Cuál es el órgano habitual encargado de resolver el recurso especial en materia de contratación en el ámbito de las Entidades Locales, cuando no dispongan de un órgano propio?",
+   "options": [
+    "El Tribunal Supremo directamente",
+    "El propio Alcalde que dictó el acto impugnado",
+    "El Defensor del Pueblo",
+    "El órgano correspondiente de la Comunidad Autónoma respectiva, mediante convenio o disposición legal"
+   ],
+   "correct": 3,
+   "exp": "Las Entidades Locales que no dispongan de un órgano propio de recursos contractuales pueden atribuir esa competencia al órgano correspondiente de la Comunidad Autónoma, mediante convenio o la normativa que corresponda.",
+   "fuente": "LCSP (Ley 9/2017)",
+   "motivoArchivo": "Fuera de alcance: el recurso especial en materia de contratación (art. 46.4 LCSP) queda expresamente excluido del epígrafe. El contenido, además, es impreciso: el art. 46.4 atribuye la competencia al órgano que la Comunidad Autónoma haya creado, previo convenio, y solo «cuando no se atribuya a un órgano propio».",
+   "temaOrigen": 9
+  },
+  {
+   "q": "Según la sistemática de la LCSP, ¿en qué Título del Libro Segundo se regula específicamente el contrato de obras en detalle (más allá de su calificación inicial en el art. 13)?",
+   "options": [
+    "En el Título Preliminar exclusivamente",
+    "En el Libro Cuarto, dedicado a la organización administrativa",
+    "En las disposiciones finales de la Ley",
+    "En el Título II del Libro Segundo, dedicado a las normas especiales de los distintos contratos"
+   ],
+   "correct": 3,
+   "exp": "Más allá de su calificación general en el art. 13, el desarrollo específico del contrato de obras (ejecución, modificación, resolución) se regula en el Título correspondiente del Libro Segundo de la LCSP, dedicado a los contratos de las Administraciones Públicas.",
+   "fuente": "Art. 13 LCSP (Ley 9/2017)",
+   "motivoArchivo": "Fuera de alcance: remite al desarrollo del contrato de obras (preparación, ejecución, modificación y resolución) en el Libro Segundo, materia excluida del epígrafe. La opción marcada es además imprecisa: la rúbrica real del Título II del Libro Segundo es «De los distintos tipos de contratos de las Administraciones Públicas».",
+   "temaOrigen": 9
+  },
+  {
+   "q": "Según el art. 131 de la LCSP, la adjudicación de los contratos se realizará, ordinariamente, utilizando el procedimiento:",
+   "options": [
+    "De diálogo competitivo, como regla general",
+    "Abierto o el procedimiento restringido",
+    "Únicamente mediante contrato menor",
+    "Negociado sin publicidad, con carácter general"
+   ],
+   "correct": 1,
+   "exp": "El art. 131 LCSP establece como procedimientos ordinarios de adjudicación el abierto y el restringido, siendo el resto (negociado, diálogo competitivo, asociación para la innovación) de aplicación en los supuestos específicamente previstos.",
+   "fuente": "Art. 131 LCSP (Ley 9/2017)",
+   "motivoArchivo": "Fuera de alcance: procedimiento de adjudicación (art. 131.2 LCSP), materia expresamente excluida del epígrafe, aunque la respuesta sea correcta (abierto o restringido con carácter ordinario).",
+   "temaOrigen": 9
+  },
+  {
+   "q": "¿Qué procedimiento de adjudicación, incorporado con fuerza en la LCSP 2017, está especialmente pensado para agilizar la contratación de menor complejidad, con particular relevancia en el ámbito local?",
+   "options": [
+    "El diálogo competitivo",
+    "El procedimiento restringido con negociación",
+    "El procedimiento abierto simplificado",
+    "La subasta electrónica exclusiva"
+   ],
+   "correct": 2,
+   "exp": "El procedimiento abierto simplificado, regulado en el art. 159 LCSP, se diseñó para agilizar la tramitación de contratos de menor complejidad y cuantía, con especial relevancia en el ámbito local.",
+   "fuente": "Art. 159 LCSP (Ley 9/2017)",
+   "motivoArchivo": "Fuera de alcance: procedimiento abierto simplificado (art. 159 LCSP), materia de procedimientos de adjudicación excluida del epígrafe.",
+   "temaOrigen": 9
+  },
+  {
+   "q": "Según el art. 29 de la LCSP, la duración de los contratos del sector público debe establecerse teniendo en cuenta:",
+   "options": [
+    "La naturaleza de las prestaciones y sus características, así como los principios de programación y de eficiencia en la asignación de recursos públicos",
+    "Únicamente la voluntad discrecional del contratista",
+    "La duración del mandato del Alcalde en ejercicio",
+    "Un plazo fijo idéntico para todo tipo de contrato"
+   ],
+   "correct": 0,
+   "exp": "El art. 29 LCSP establece que la duración de los contratos debe fijarse teniendo en cuenta la naturaleza de las prestaciones, sus características y la financiación, atendiendo a los principios de programación y eficiencia.",
+   "fuente": "Art. 29 LCSP (Ley 9/2017)",
+   "motivoArchivo": "Fuera de alcance: plazo de duración de los contratos (art. 29 LCSP), elemento estructural ajeno a los tres bloques del epígrafe. Además la opción marcada parafrasea mal el precepto: el art. 29.1 habla de «la naturaleza de las prestaciones, las características de su financiación y la necesidad de someter periódicamente a concurrencia», y los principios de programación y eficiencia son del art. 28.",
+   "temaOrigen": 9
+  },
+  {
+   "q": "Según la LCSP, ¿qué prohibición afecta a las empresas o personas condenadas por sentencia firme por determinados delitos, en relación con la contratación pública?",
+   "options": [
+    "La imposibilidad de constituirse como sociedad limitada",
+    "La prohibición de contratar, regulada en el artículo 71",
+    "La imposibilidad de operar en cualquier sector económico",
+    "La obligación de disolverse inmediatamente"
+   ],
+   "correct": 1,
+   "exp": "El art. 71 LCSP regula las prohibiciones de contratar, entre las que se incluye haber sido condenado mediante sentencia firme por determinados delitos (corrupción, cohecho, fraude, entre otros).",
+   "fuente": "Art. 71 LCSP (Ley 9/2017)",
+   "motivoArchivo": "Fuera de alcance: prohibiciones de contratar (art. 71 LCSP), materia de aptitud para contratar que no encaja en los tipos contractuales ni en la contratación local, aunque la respuesta sea correcta.",
+   "temaOrigen": 9
+  },
+  {
+   "q": "Según la LCSP, ¿qué régimen de recursos existe frente a los actos de los procedimientos de adjudicación de determinados contratos de cuantía elevada o especial relevancia?",
+   "options": [
+    "El recurso especial en materia de contratación",
+    "Únicamente el recurso de alzada ordinario",
+    "El recurso extraordinario de revisión exclusivamente",
+    "Ningún recurso administrativo, solo la vía judicial directa"
+   ],
+   "correct": 0,
+   "exp": "La LCSP regula un recurso especial en materia de contratación, de carácter potestativo y sustitutivo de los recursos ordinarios, para determinados actos de los procedimientos de contratación de mayor relevancia.",
+   "fuente": "LCSP (Ley 9/2017)",
+   "motivoArchivo": "Fuera de alcance: recurso especial en materia de contratación (arts. 44 y ss. LCSP), materia expresamente excluida del epígrafe.",
+   "temaOrigen": 9
+  },
+  {
+   "q": "¿Cuál es el órgano administrativo independiente que, con carácter general, resuelve el recurso especial en materia de contratación en el ámbito de la Administración General del Estado?",
+   "options": [
+    "El Ministerio Fiscal",
+    "El Tribunal Administrativo Central de Recursos Contractuales",
+    "El Tribunal Supremo directamente",
+    "El Consejo de Ministros"
+   ],
+   "correct": 1,
+   "exp": "En el ámbito estatal, el recurso especial en materia de contratación se resuelve, con carácter general, por el Tribunal Administrativo Central de Recursos Contractuales, órgano independiente adscrito al Ministerio de Hacienda.",
+   "fuente": "LCSP (Ley 9/2017)",
+   "motivoArchivo": "Fuera de alcance por doble motivo: recurso especial en materia de contratación y ámbito estatal (art. 45.1 LCSP, Tribunal Administrativo Central de Recursos Contractuales).",
+   "temaOrigen": 9
+  },
+  {
+   "q": "Según la LCSP, en un contrato de obras, ¿qué documento técnico resulta imprescindible para definir con precisión el objeto de la prestación antes de la licitación?",
+   "options": [
+    "El acta de recepción final",
+    "El pliego de condiciones económicas exclusivamente",
+    "El certificado de fin de obra",
+    "El proyecto de obras"
+   ],
+   "correct": 3,
+   "exp": "El proyecto de obras es el documento técnico que define con precisión las características, alcance y condiciones técnicas de la obra a ejecutar, y resulta necesario, con carácter general, antes de licitar el contrato.",
+   "fuente": "LCSP (Ley 9/2017)",
+   "motivoArchivo": "Fuera de alcance: el proyecto de obras es una actuación preparatoria del contrato de obras (art. 231.1 LCSP, Libro Segundo), materia ajena a los tres bloques del epígrafe, aunque el contenido sea correcto.",
+   "temaOrigen": 9
+  },
+  {
+   "q": "¿Qué papel desempeñan los principios de transparencia e integridad en el diseño de la LCSP 2017, según se resalta reiteradamente en su exposición de motivos?",
+   "options": [
+    "Son objetivos centrales del nuevo sistema de contratación pública diseñado por la Ley",
+    "Solo se aplican a contratos de ámbito internacional",
+    "Quedan excluidos expresamente del ámbito de la Ley",
+    "Son aspectos accesorios sin relevancia práctica"
+   ],
+   "correct": 0,
+   "exp": "La exposición de motivos de la LCSP presenta la transparencia y la integridad como objetivos centrales del nuevo sistema de contratación pública, junto con la eficiencia.",
+   "fuente": "LCSP (Ley 9/2017)",
+   "motivoArchivo": "Fuera de alcance: valoración genérica de los objetivos del preámbulo (transparencia e integridad), materia que no encaja en ninguno de los tres bloques del epígrafe y que no admite cita de precepto.",
+   "temaOrigen": 9
+  },
+  {
+   "q": "Según la LCSP, ¿qué papel juega la Junta Consultiva de Contratación Administrativa (o su denominación equivalente en cada Administración) en relación con la interpretación de la normativa de contratos?",
+   "options": [
+    "Aprueba directamente los presupuestos de cada contrato",
+    "Emite informes y criterios interpretativos que orientan la aplicación práctica de la Ley por los órganos de contratación",
+    "Tiene potestad legislativa para modificar la LCSP",
+    "Sustituye a los órganos jurisdiccionales en la resolución de litigios contractuales"
+   ],
+   "correct": 1,
+   "exp": "Las Juntas Consultivas de Contratación Administrativa emiten informes y criterios interpretativos que sirven de orientación práctica a los órganos de contratación en la aplicación de la normativa.",
+   "fuente": "LCSP (Ley 9/2017)",
+   "motivoArchivo": "Fuera de alcance: la Junta Consultiva de Contratación Pública del Estado (art. 328 LCSP) pertenece a la organización administrativa estatal para la gestión de la contratación, materia excluida del epígrafe.",
+   "temaOrigen": 9
   }
  ]
 }

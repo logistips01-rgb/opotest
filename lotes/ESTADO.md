@@ -1731,3 +1731,97 @@ había escrito en disco: 40 de 100. La instrucción de «escribe el archivo cada
 preguntas» funciona, pero conviene **lanzar de dos en dos, no de cuatro en
 cuatro**, y comprobar el disco antes de dar por perdido el trabajo de un agente
 caído.
+
+
+---
+
+## Tema 9 · auditoría completa (21-ago-2026)
+
+Las 100 del banco original, en dos tandas (40 + 60). **Es el tema que peor ha
+salido de toda la campaña.**
+
+| | 1.ª tanda | 2.ª tanda | Total |
+|---|---|---|---|
+| confirmadas | 21 | 11 | 32 |
+| corregidas | 18 | 31 | 49 |
+| descartadas | 1 | 18 | 19 |
+
+Tema 9: **259 → 241** preguntas. Reparto de la correcta 59/60/63/59 (24,5 % la A).
+Citas sin artículo en el tema: **41 → 15**. Banco: **5.695 → 5.677**, las 5.677
+con cita.
+
+### La LBRL derogada por la Ley 30/2007, cuatro veces
+
+El hallazgo que se repite. La **disposición derogatoria única.b) de la Ley
+30/2007** vació las letras de la LBRL que atribuían la contratación, y el
+consolidado las muestra literalmente como **«(Derogada)»**:
+
+| Precepto | Qué decía |
+|---|---|
+| art. 21.1.ñ) | contratación por el Alcalde |
+| art. 21.1.p) | — |
+| art. 22.2.n) | contratación por el Pleno por encima de la cuantía del Alcalde |
+| art. 22.2.o) | — |
+| art. 127.1.f) | contrataciones de la Junta de Gobierno Local en gran población |
+
+Cuatro preguntas del banco enseñaban ese reparto inexistente. Hoy la competencia
+como órgano de contratación deriva de la **DA 2.ª LCSP** —apartado 1 para el
+régimen común, apartado 4 para los municipios de gran población, donde contrata
+la Junta de Gobierno Local— y de las cláusulas residuales de los arts. 21.1.s) y
+22.2.q) LBRL.
+
+### Otras dos con la respuesta mal
+
+- Una tenía como opción marcada un **no-respuesta** («existen dudas y criterios
+  doctrinales») y ninguna de las cuatro reflejaba la norma. Reescrita sobre la
+  **DA 2.ª.7 LCSP**: la Mesa la preside un miembro de la Corporación o un
+  funcionario, son vocales el Secretario y el Interventor, los miembros electos
+  no pueden exceder de un tercio y el personal eventual no puede formar parte.
+- Otra parafraseaba mal el art. 29.1 (que dice «naturaleza de las prestaciones,
+  características de su financiación y necesidad de someter periódicamente a
+  concurrencia»; programación y eficiencia son del art. 28). Estaba además fuera
+  de alcance.
+
+### Premisas falsas: la respuesta buena, el enunciado o la cita mal
+
+Seis casos, todos corregidos: la DA 2.ª.6 no cita el art. 36.1.g) LBRL —ese es
+la competencia provincial de contratación centralizada en municipios de menos de
+20.000 habitantes—; la definición funcional de las centrales de contratación es
+el art. 227.1 y 2, no el art. 228, que regula su *creación*; los vocales de la
+Mesa son la DA 2.ª.7, no la DA 3.ª; los contratos administrativos especiales se
+definen en el art. 25.1.b), no en la DA 2.ª; dos citaban «art. 1» o la
+exposición de motivos cuando el literal es el **art. 1.3**; y una no acotaba el
+régimen, dejando vivo el distractor de gran población.
+
+### Las 19 descartadas, por materia
+
+El epígrafe del tema son tres bloques: tipos contractuales, competencias de
+contratación en las entidades locales, y normas locales de contratación. Fuera
+quedan: procedimientos de adjudicación (3, arts. 131.2, 159), recurso especial
+(3, arts. 44-46), estructura de los Libros de la Ley (3, y las tres citaban el
+art. 27, que no las sostenía), equivalencias con el **TRLCSP de 2011 derogado**
+(2), preámbulo (3), prohibiciones de contratar (art. 71), duración de los
+contratos (art. 29), proyecto de obras (art. 231.1), Junta Consultiva estatal
+(art. 328) y una cifra doctrinal y variable («los 8.125 municipios») sin
+precepto que la respalde.
+
+Archivadas en `data/reserva/banco-original-auditado-9.json`.
+
+### Vigencia de la LCSP: comprobada, sin desfases
+
+- **art. 118.1** en redacción del **RDL 3/2020**: 40.000 € obras y 15.000 €
+  suministros y servicios, sin el límite de un año del texto de 2017.
+- **DA 3.ª.3** en redacción de la **Ley 31/2022**: fiscalización de las
+  repercusiones en estabilidad presupuestaria (art. 7.3 LO 2/2012).
+- La **DA 2.ª sigue en su redacción original de 2017**.
+- Los umbrales SARA de los arts. 20-22 se actualizan por reglamentos delegados
+  de la UE, así que **una pregunta que dé la cifra caduca sola**. Las que hay
+  preguntan solo por rúbricas.
+
+### Un fallo de mi herramienta, corregido
+
+`aplicar-auditoria2.js` escribía el archivo de reserva con el nombre
+`banco-original-auditado-<temas>.json` y, al auditar el mismo tema en dos
+tandas, **sobreescribía lo archivado en la primera**. Se perdió una pregunta y
+la recuperé de git. El script ahora fusiona por enunciado y avisa de cuántas
+rescata.

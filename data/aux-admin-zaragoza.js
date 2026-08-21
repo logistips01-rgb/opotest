@@ -10210,16 +10210,16 @@ const QUESTIONS = {
     "fuente": "Disposición adicional segunda, apartado 7, LCSP (Ley 9/2017)"
   },
   {
-    "q": "¿Puede el Alcalde formar parte de la Mesa de contratación cuando el órgano de contratación para esa licitación es el Pleno del Ayuntamiento?",
+    "q": "En la Mesa de contratación de una Entidad Local, ¿pueden formar parte de ella miembros electos de la Corporación?",
     "options": [
-      "Existen dudas y criterios doctrinales específicos al respecto, siendo una cuestión analizada por los órganos de recursos contractuales",
+      "Sí, pero los miembros electos no podrán suponer más de un tercio del total de miembros de la Mesa",
       "Sí, sin ninguna limitación en ningún supuesto",
       "No, está prohibido en todo caso sin excepción",
       "Solo si el contrato es de importe inferior a 1.000 euros"
     ],
     "correct": 0,
-    "exp": "La composición del Alcalde en la Mesa de contratación cuando el órgano de contratación es el Pleno ha sido objeto de análisis específico por los tribunales administrativos de recursos contractuales.",
-    "fuente": "LCSP (Ley 9/2017)"
+    "exp": "DA 2.ª.7 LCSP: la Mesa la preside un miembro de la Corporación o un funcionario y son vocales el Secretario (o el titular de la asesoría jurídica) y el Interventor; pueden integrarla miembros electos, pero sin superar un tercio del total, y en ningún caso personal eventual.",
+    "fuente": "Disposición adicional segunda, apartado 7, LCSP (Ley 9/2017)"
   },
   {
     "q": "Según la Disposición adicional segunda.5 de la LCSP, ¿quién propone los límites cuantitativos de actuación de las Juntas de Contratación en las entidades locales distintas de los municipios de gran población?",
@@ -10231,7 +10231,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "DA 2ª.5: en las entidades distintas de los municipios de gran población, esos límites se determinan por el Pleno, a propuesta del Alcalde o Presidente.",
-    "fuente": "Disposición adicional segunda LCSP (Ley 9/2017)"
+    "fuente": "Disposición adicional segunda, apartado 5, LCSP (Ley 9/2017)"
   },
   {
     "q": "¿Qué naturaleza tiene, con carácter general, la LCSP en relación con el conjunto de las Administraciones Públicas?",
@@ -10242,8 +10242,8 @@ const QUESTIONS = {
       "Norma de aplicación voluntaria para las Entidades Locales"
     ],
     "correct": 2,
-    "exp": "La LCSP se configura como una norma de carácter básico y, como tal, de aplicación al conjunto de las Administraciones Públicas, con las especialidades correspondientes según el tipo de Administración.",
-    "fuente": "LCSP (Ley 9/2017)"
+    "exp": "La DF 1.ª.3 LCSP declara que sus artículos constituyen legislación básica dictada al amparo del art. 149.1.18.ª CE sobre contratos y concesiones administrativas y, en consecuencia, «son de aplicación general a todas las Administraciones Públicas», salvo los preceptos que la propia disposición excluye del carácter básico.",
+    "fuente": "Disposición final primera, apartado 3, LCSP (Ley 9/2017), y art. 149.1.18.ª CE"
   },
   {
     "q": "¿Cuál es la fecha de publicación en el BOE de la Ley 9/2017, de Contratos del Sector Público?",
@@ -10254,11 +10254,11 @@ const QUESTIONS = {
       "9 de noviembre de 2017"
     ],
     "correct": 3,
-    "exp": "La Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, se publicó en el BOE núm. 272, de 9 de noviembre de 2017.",
-    "fuente": "LCSP (Ley 9/2017)"
+    "exp": "La Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, se publicó en el BOE núm. 272, de 9 de noviembre de 2017 (BOE-A-2017-12902), y entró en vigor el 9 de marzo de 2018.",
+    "fuente": "Ley 9/2017, de 8 de noviembre: encabezamiento y publicación oficial (BOE núm. 272, de 09/11/2017)"
   },
   {
-    "q": "Según se recoge en la exposición de motivos de la LCSP, en toda contratación pública se incorporarán de manera transversal y preceptiva criterios:",
+    "q": "Según el artículo 1.3 de la LCSP, en toda contratación pública se incorporarán de manera transversal y preceptiva criterios:",
     "options": [
       "Sociales y medioambientales, siempre que guarden relación con el objeto del contrato",
       "Exclusivamente económicos, sin más consideraciones",
@@ -10266,11 +10266,11 @@ const QUESTIONS = {
       "Únicamente técnicos de eficiencia energética"
     ],
     "correct": 0,
-    "exp": "La exposición de motivos señala que 'en toda contratación pública se incorporarán de manera transversal y preceptiva criterios sociales y medioambientales siempre que guarde relación con el objeto del contrato'.",
-    "fuente": "Art. 1 LCSP (Ley 9/2017)"
+    "exp": "Art. 1.3 LCSP: «En toda contratación pública se incorporarán de manera transversal y preceptiva criterios sociales y medioambientales siempre que guarde relación con el objeto del contrato». No es una declaración del preámbulo: es mandato del articulado.",
+    "fuente": "Art. 1.3 LCSP (Ley 9/2017)"
   },
   {
-    "q": "Según la exposición de motivos de la LCSP, uno de los objetivos de la nueva regulación es facilitar el acceso a la contratación pública de:",
+    "q": "Según el artículo 1.3 de la LCSP, se facilitará el acceso a la contratación pública de:",
     "options": [
       "Solo empresas con más de 250 trabajadores",
       "Las pequeñas y medianas empresas, así como las empresas de economía social",
@@ -10278,8 +10278,8 @@ const QUESTIONS = {
       "Únicamente las grandes corporaciones multinacionales"
     ],
     "correct": 1,
-    "exp": "La exposición de motivos indica que 'se facilitará el acceso a la contratación pública de las pequeñas y medianas empresas, así como de las empresas de economía social'.",
-    "fuente": "Art. 1 LCSP (Ley 9/2017)"
+    "exp": "Art. 1.3, inciso final, LCSP: «Igualmente se facilitará el acceso a la contratación pública de las pequeñas y medianas empresas, así como de las empresas de economía social».",
+    "fuente": "Art. 1.3 LCSP (Ley 9/2017)"
   },
   {
     "q": "¿Qué Directivas europeas transpone principalmente la Ley 9/2017 de Contratos del Sector Público?",
@@ -10291,31 +10291,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "El título completo de la Ley 9/2017 indica que transpone 'las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014'.",
-    "fuente": "LCSP (Ley 9/2017)"
-  },
-  {
-    "q": "Respecto al régimen anterior (TRLCSP 2011), ¿qué artículo de la LCSP 2017 se corresponde con el antiguo art. 5 (Calificación de los contratos)?",
-    "options": [
-      "El artículo 24",
-      "El artículo 228",
-      "El artículo 18",
-      "El artículo 12"
-    ],
-    "correct": 3,
-    "exp": "Según la tabla de equivalencias, el art. 5 del TRLCSP 2011 ('Calificación de los contratos') se corresponde con el art. 12 de la LCSP 2017.",
-    "fuente": "Art. 5 LCSP (Ley 9/2017)"
-  },
-  {
-    "q": "Respecto al régimen anterior, ¿qué artículo del TRLCSP 2011 correspondía al actual art. 15 de la LCSP (Contrato de concesión de servicios)?",
-    "options": [
-      "El artículo 8, relativo al contrato de gestión de servicios públicos",
-      "El artículo 9, sobre el contrato de suministro",
-      "El artículo 6, relativo al contrato de obras",
-      "El artículo 11, sobre colaboración público-privada"
-    ],
-    "correct": 0,
-    "exp": "Según la tabla de equivalencias, el antiguo 'contrato de gestión de servicios públicos' (art. 8 TRLCSP) se corresponde con el actual 'contrato de concesión de servicios' (art. 15 LCSP).",
-    "fuente": "Art. 8 LCSP (Ley 9/2017)"
+    "fuente": "Título de la Ley 9/2017, de 8 de noviembre (transposición de las Directivas 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014)"
   },
   {
     "q": "En el conjunto de la delimitación de tipos contractuales de la LCSP, ¿cuántos tipos de contrato \"puros\" (no mixtos) regula la Sección 1ª (arts. 13 a 17)?",
@@ -10327,7 +10303,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "La Sección 1ª regula cinco tipos contractuales básicos: obras (13), concesión de obras (14), concesión de servicios (15), suministro (16) y servicios (17), además de los contratos mixtos (18).",
-    "fuente": "LCSP (Ley 9/2017)"
+    "fuente": "Arts. 12.1 y 13 a 17 LCSP (Sección 1.ª del Capítulo II del Título Preliminar); contratos mixtos, art. 18"
   },
   {
     "q": "Según el art. 19 de la LCSP (Delimitación general), los contratos sujetos a regulación armonizada son aquellos cuyo valor estimado supere ciertos umbrales fijados atendiendo a normativa:",
@@ -10402,30 +10378,6 @@ const QUESTIONS = {
     "fuente": "Anexo II LCSP (Ley 9/2017)"
   },
   {
-    "q": "El Título I del Libro Primero de la LCSP se dedica a:",
-    "options": [
-      "Disposiciones generales sobre la contratación del sector público",
-      "La gestión de la publicidad contractual electrónica",
-      "La ejecución de los contratos de obras",
-      "El régimen de recursos especiales"
-    ],
-    "correct": 0,
-    "exp": "El Título I del Libro Primero ('Configuración general de la contratación del sector público y elementos estructurales de los contratos') se dedica a las 'Disposiciones generales sobre la contratación del sector público'.",
-    "fuente": "Art. 27 LCSP (Ley 9/2017)"
-  },
-  {
-    "q": "Según la estructura general de la LCSP, ¿en qué Libro se regula la 'Configuración general de la contratación del sector público y elementos estructurales de los contratos'?",
-    "options": [
-      "Libro Tercero",
-      "Libro Primero",
-      "Libro Segundo",
-      "Libro Cuarto"
-    ],
-    "correct": 1,
-    "exp": "El Libro Primero de la LCSP se titula 'Configuración general de la contratación del sector público y elementos estructurales de los contratos'.",
-    "fuente": "Art. 27 LCSP (Ley 9/2017)"
-  },
-  {
     "q": "Según la Disposición adicional segunda.1 de la LCSP, la competencia del Alcalde como órgano de contratación se extiende, entre otros, a los contratos administrativos especiales, además de obras, suministro, servicios, concesión de obras y:",
     "options": [
       "Convenios urbanísticos",
@@ -10446,8 +10398,8 @@ const QUESTIONS = {
       "El valor estimado del contrato, incluidas posibles prórrogas"
     ],
     "correct": 3,
-    "exp": "Con la LCSP 2017, la cifra de referencia pasó a ser el valor estimado del contrato (incluidas prórrogas), frente al criterio anterior del importe sin prórrogas y sin IVA.",
-    "fuente": "LCSP (Ley 9/2017)"
+    "exp": "DA 2.ª.1 LCSP: la competencia del Alcalde se mide por el valor estimado del contrato —no por el importe de adjudicación— e incluye las eventuales prórrogas, con el doble límite del 10 por ciento de los recursos ordinarios del presupuesto y de seis millones de euros.",
+    "fuente": "Disposición adicional segunda, apartado 1, LCSP (Ley 9/2017)"
   },
   {
     "q": "Dentro del reparto de competencias de contratación local, ¿qué principio de reparto sigue la Disposición adicional segunda entre Alcalde y Pleno?",
@@ -10470,11 +10422,11 @@ const QUESTIONS = {
       "No existe relación alguna entre ambos preceptos"
     ],
     "correct": 1,
-    "exp": "La Junta de Gobierno Local asume la condición de órgano de contratación, entre otros supuestos, por atribución legal conforme al art. 23.2 b) LBRL en relación con la Disposición adicional segunda de la LCSP.",
-    "fuente": "Disposición adicional segunda LCSP (Ley 9/2017)"
+    "exp": "El art. 23.2.b) LBRL permite que la Junta de Gobierno Local ejerza las atribuciones que le deleguen otros órganos municipales o «le atribuyan las leyes»; la DA 2.ª.4 y .11 LCSP se lo atribuye directamente en los municipios de gran población, cualquiera que sea el importe o la duración del contrato.",
+    "fuente": "Art. 23.2.b) LBRL (Ley 7/1985) y disposición adicional segunda, apartados 4 y 11, LCSP"
   },
   {
-    "q": "En los municipios de gran población (régimen del Título X LBRL), ¿qué órgano suele asumir habitualmente competencias de contratación de mayor entidad, en coherencia con su régimen organizativo especial?",
+    "q": "En los municipios de gran población (art. 121 LBRL), ¿qué órgano ejerce las competencias de órgano de contratación, cualquiera que sea el importe o la duración del contrato?",
     "options": [
       "El Secretario municipal",
       "El Pleno en todo caso, sin excepción",
@@ -10482,8 +10434,8 @@ const QUESTIONS = {
       "El Consejo Social de la Ciudad"
     ],
     "correct": 2,
-    "exp": "En los municipios de gran población, la Junta de Gobierno Local asume un papel ejecutivo reforzado, incluyendo competencias de contratación conforme a su régimen organizativo especial del Título X LBRL.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "exp": "DA 2.ª.4 LCSP: en los municipios de gran población del art. 121 LBRL las competencias del órgano de contratación se ejercen por la Junta de Gobierno Local, cualquiera que sea el importe o la duración del contrato, quedando al Pleno la aprobación de los pliegos de cláusulas administrativas generales.",
+    "fuente": "Disposición adicional segunda, apartado 4, LCSP (Ley 9/2017), en relación con el art. 121 LBRL"
   },
   {
     "q": "Según la Disposición adicional tercera de la LCSP, las nuevas funciones atribuidas a los funcionarios de habilitación nacional (Secretarios e Interventores) se justifican por su papel como:",
@@ -10494,8 +10446,8 @@ const QUESTIONS = {
       "Vocales de la Mesa de Contratación, en garantía de la adecuada formación de la voluntad del órgano colegiado"
     ],
     "correct": 3,
-    "exp": "Los Secretarios e Interventores forman parte, como vocales, de la Mesa de Contratación, en garantía de la adecuada formación de la voluntad del órgano colegiado, papel que la LCSP refuerza con nuevas funciones de informe y control.",
-    "fuente": "Disposición adicional tercera LCSP (Ley 9/2017)"
+    "exp": "DA 2.ª.7 LCSP: el Secretario (o el titular de la asesoría jurídica) y el Interventor son vocales de la Mesa de contratación, en garantía de la adecuada formación de la voluntad del órgano colegiado; la DA 3.ª.3 y .8 refuerza además sus funciones de fiscalización e informe jurídico.",
+    "fuente": "Disposición adicional segunda, apartado 7, y disposición adicional tercera, apartados 3 y 8, LCSP"
   },
   {
     "q": "¿Qué tipo de informe amplía especialmente la LCSP 2017 respecto a los Secretarios en el ámbito de la contratación local?",
@@ -10506,8 +10458,8 @@ const QUESTIONS = {
       "Un informe médico-laboral sobre el personal"
     ],
     "correct": 0,
-    "exp": "La LCSP 2017 amplía las funciones de informe de los Secretarios, previendo como preceptivo el informe jurídico en la aprobación de expedientes de contratación.",
-    "fuente": "LCSP (Ley 9/2017)"
+    "exp": "DA 3.ª.8 LCSP: los informes que la Ley asigna a los servicios jurídicos los evacúa el Secretario, y es preceptivo su informe jurídico en la aprobación de expedientes de contratación, modificación de contratos, revisión de precios, prórrogas, mantenimiento del equilibrio económico, interpretación y resolución de los contratos.",
+    "fuente": "Disposición adicional tercera, apartado 8, LCSP (Ley 9/2017)"
   },
   {
     "q": "Según el art. 214.2.d) del TRLRHL, mencionado en la Disposición adicional tercera de la LCSP, ¿a qué función del interventor se refiere en relación con los contratos locales?",
@@ -10519,46 +10471,10 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El art. 214.2.d) del TRLRHL, citado en la DA 3ª de la LCSP, se refiere a la función de comprobación material de la inversión que corresponde al órgano interventor.",
-    "fuente": "Disposición adicional tercera LCSP (Ley 9/2017)"
+    "fuente": "Disposición adicional tercera, apartado 3, LCSP (Ley 9/2017), en relación con el art. 214.2.d) TRLRHL"
   },
   {
-    "q": "¿Cuál es el objetivo general que persigue la LCSP 2017 en su diseño del sistema de contratación pública, según su propia exposición de motivos?",
-    "options": [
-      "Reducir al mínimo la participación de pequeñas empresas",
-      "Suprimir cualquier control por parte de los órganos de fiscalización",
-      "Un sistema más eficiente, transparente e íntegro que mejore el cumplimiento de los objetivos públicos",
-      "Eliminar la publicidad de las licitaciones para agilizar los plazos"
-    ],
-    "correct": 2,
-    "exp": "La exposición de motivos señala el objetivo de diseñar 'un sistema de contratación pública más eficiente, transparente e íntegro' que mejore el cumplimiento de los objetivos públicos.",
-    "fuente": "LCSP (Ley 9/2017)"
-  },
-  {
-    "q": "Según la exposición de motivos de la LCSP, este sistema más eficiente busca lograrse a través de la satisfacción de las necesidades de los órganos de contratación y, además, mediante:",
-    "options": [
-      "La eliminación total de la libre competencia entre licitadores",
-      "La reserva exclusiva de todos los contratos a empresas públicas",
-      "La supresión de cualquier recurso administrativo en materia de contratación",
-      "Una mejora de las condiciones de acceso y participación en las licitaciones de los operadores económicos"
-    ],
-    "correct": 3,
-    "exp": "La exposición de motivos señala que el objetivo se logra 'tanto a través de la satisfacción de las necesidades de los órganos de contratación, como mediante una mejora de las condiciones de acceso y participación en las licitaciones públicas de los operadores económicos'.",
-    "fuente": "LCSP (Ley 9/2017)"
-  },
-  {
-    "q": "¿A qué escala numérica de municipios españoles hace referencia la doctrina al justificar la técnica normativa específica de la LCSP para las Entidades Locales por su escaso dimensionamiento?",
-    "options": [
-      "Aproximadamente 8.125 municipios",
-      "Cerca de 500 municipios en total",
-      "Solo 50 grandes ciudades",
-      "Más de 20.000 municipios"
-    ],
-    "correct": 0,
-    "exp": "La doctrina sobre la LCSP en el ámbito local justifica su regulación específica por el escaso dimensionamiento de buena parte de los 8.125 municipios españoles y su falta de recursos personales y materiales.",
-    "fuente": "LCSP (Ley 9/2017)"
-  },
-  {
-    "q": "Según la Disposición adicional segunda.6, las centrales de contratación municipales para poblaciones inferiores a 5.000 habitantes pueden constituirse, entre otras vías, en cumplimiento de la competencia provincial establecida en:",
+    "q": "Las Entidades Locales pequeñas pueden contratar a través de centrales de contratación (DA 2.ª.6 LCSP y art. 228 LCSP). ¿En qué precepto se establece la competencia provincial de contratación centralizada de la que se sirven?",
     "options": [
       "El artículo 71 del Estatuto de Autonomía de Aragón",
       "El artículo 36.1.g) de la LBRL",
@@ -10566,8 +10482,8 @@ const QUESTIONS = {
       "El artículo 21.1 de la LBRL"
     ],
     "correct": 1,
-    "exp": "La constitución de centrales de contratación en municipios pequeños puede realizarse, entre otras vías, en cumplimiento de la competencia provincial de asistencia establecida en el art. 36.1.g) LBRL.",
-    "fuente": "Disposición adicional segunda LCSP (Ley 9/2017)"
+    "exp": "Art. 36.1.g) LBRL: es competencia propia de la Diputación «la prestación de los servicios de administración electrónica y la contratación centralizada en los municipios con población inferior a 20.000 habitantes». La DA 2.ª.6 LCSP permite a los municipios de menos de 5.000 habitantes ejercer sus competencias de contratación a través de centrales creadas conforme al art. 228 LCSP o encomendar la gestión del procedimiento a la Diputación mediante convenio.",
+    "fuente": "Art. 36.1.g) LBRL (Ley 7/1985), en relación con la DA 2.ª.6 y el art. 228.2 y 3 LCSP"
   },
   {
     "q": "En el ámbito de la contratación pública local, ¿qué papel desempeña la Diputación Provincial respecto a los municipios de menor población, en relación con las centrales de contratación?",
@@ -10579,19 +10495,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "La Diputación Provincial, en ejercicio de su función de asistencia a municipios (art. 36 LBRL), puede constituir centrales de contratación a las que se adhieran los municipios de menor población.",
-    "fuente": "Art. 36 LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "¿Cuál es el órgano habitual encargado de resolver el recurso especial en materia de contratación en el ámbito de las Entidades Locales, cuando no dispongan de un órgano propio?",
-    "options": [
-      "El Tribunal Supremo directamente",
-      "El propio Alcalde que dictó el acto impugnado",
-      "El Defensor del Pueblo",
-      "El órgano correspondiente de la Comunidad Autónoma respectiva, mediante convenio o disposición legal"
-    ],
-    "correct": 3,
-    "exp": "Las Entidades Locales que no dispongan de un órgano propio de recursos contractuales pueden atribuir esa competencia al órgano correspondiente de la Comunidad Autónoma, mediante convenio o la normativa que corresponda.",
-    "fuente": "LCSP (Ley 9/2017)"
+    "fuente": "Art. 36.1.b) y g) LBRL (Ley 7/1985), en relación con la DA 2.ª.6 y el art. 228.2 y 3 LCSP"
   },
   {
     "q": "Según el esquema general de tipos contractuales de la LCSP, ¿qué contrato del art. 17 (servicios) se diferencia del contrato de concesión de servicios del art. 15 principalmente en:",
@@ -10602,8 +10506,8 @@ const QUESTIONS = {
       "La concesión de servicios solo puede referirse a servicios sanitarios"
     ],
     "correct": 0,
-    "exp": "En el contrato de servicios del art. 17, la Administración retribuye directamente al contratista; en la concesión de servicios del art. 15, la retribución procede fundamentalmente de la explotación del servicio, asumiendo el contratista el riesgo operacional.",
-    "fuente": "LCSP (Ley 9/2017)"
+    "exp": "Art. 17 LCSP: en el contrato de servicios la Administración retribuye la prestación con un precio. Art. 15.1 y 2 LCSP: en la concesión de servicios la contrapartida es el derecho a explotar el servicio (solo o acompañado de un precio) e implica la transferencia al concesionario del riesgo operacional en los términos del art. 14.4.",
+    "fuente": "Arts. 15.1 y 2 y 17 LCSP (Ley 9/2017), con remisión al art. 14.4"
   },
   {
     "q": "Respecto a los contratos administrativos especiales mencionados en la Disposición adicional segunda.1 de la LCSP, ¿qué característica los distingue de los contratos administrativos típicos (obras, suministro, servicios)?",
@@ -10614,8 +10518,8 @@ const QUESTIONS = {
       "Están excluidos completamente del ámbito de aplicación de la LCSP"
     ],
     "correct": 1,
-    "exp": "Los contratos administrativos especiales son aquellos vinculados al giro o tráfico específico de la Administración contratante o que satisfacen de forma directa o inmediata una finalidad pública, sin encajar en los tipos contractuales típicos.",
-    "fuente": "Disposición adicional segunda LCSP (Ley 9/2017)"
+    "exp": "Art. 25.1.b) LCSP: son contratos administrativos especiales los declarados así por una Ley y los de objeto distinto a los tipos del art. 25.1.a) que tengan naturaleza administrativa especial por estar vinculados al giro o tráfico específico de la Administración contratante o por satisfacer de forma directa o inmediata una finalidad pública de su específica competencia; se les aplican en primer término sus normas específicas (art. 25.2).",
+    "fuente": "Art. 25.1.b) y 2 LCSP (Ley 9/2017); su mención en el ámbito local, DA 2.ª.1"
   },
   {
     "q": "¿Qué elemento estructural común comparten los contratos de obras, suministro y servicios de la LCSP, frente a los contratos de concesión (obras y servicios)?",
@@ -10627,19 +10531,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "En los contratos de obras, suministro y servicios, la Administración retribuye mediante el pago de un precio; en los contratos de concesión, la retribución procede, total o parcialmente, de la explotación del objeto del contrato.",
-    "fuente": "LCSP (Ley 9/2017)"
-  },
-  {
-    "q": "Según la sistemática de la LCSP, ¿en qué Título del Libro Segundo se regula específicamente el contrato de obras en detalle (más allá de su calificación inicial en el art. 13)?",
-    "options": [
-      "En el Título Preliminar exclusivamente",
-      "En el Libro Cuarto, dedicado a la organización administrativa",
-      "En las disposiciones finales de la Ley",
-      "En el Título II del Libro Segundo, dedicado a las normas especiales de los distintos contratos"
-    ],
-    "correct": 3,
-    "exp": "Más allá de su calificación general en el art. 13, el desarrollo específico del contrato de obras (ejecución, modificación, resolución) se regula en el Título correspondiente del Libro Segundo de la LCSP, dedicado a los contratos de las Administraciones Públicas.",
-    "fuente": "Art. 13 LCSP (Ley 9/2017)"
+    "fuente": "Arts. 13, 16 y 17 LCSP frente a los arts. 14.1 y 4 y 15.1 y 2 LCSP (Ley 9/2017)"
   },
   {
     "q": "¿Qué relación existe entre la Disposición adicional segunda de la LCSP y el principio de autonomía local reconocido en la Constitución (art. 140)?",
@@ -10654,30 +10546,6 @@ const QUESTIONS = {
     "fuente": "Disposición adicional segunda LCSP (Ley 9/2017)"
   },
   {
-    "q": "Según el art. 131 de la LCSP, la adjudicación de los contratos se realizará, ordinariamente, utilizando el procedimiento:",
-    "options": [
-      "De diálogo competitivo, como regla general",
-      "Abierto o el procedimiento restringido",
-      "Únicamente mediante contrato menor",
-      "Negociado sin publicidad, con carácter general"
-    ],
-    "correct": 1,
-    "exp": "El art. 131 LCSP establece como procedimientos ordinarios de adjudicación el abierto y el restringido, siendo el resto (negociado, diálogo competitivo, asociación para la innovación) de aplicación en los supuestos específicamente previstos.",
-    "fuente": "Art. 131 LCSP (Ley 9/2017)"
-  },
-  {
-    "q": "¿Qué procedimiento de adjudicación, incorporado con fuerza en la LCSP 2017, está especialmente pensado para agilizar la contratación de menor complejidad, con particular relevancia en el ámbito local?",
-    "options": [
-      "El diálogo competitivo",
-      "El procedimiento restringido con negociación",
-      "El procedimiento abierto simplificado",
-      "La subasta electrónica exclusiva"
-    ],
-    "correct": 2,
-    "exp": "El procedimiento abierto simplificado, regulado en el art. 159 LCSP, se diseñó para agilizar la tramitación de contratos de menor complejidad y cuantía, con especial relevancia en el ámbito local.",
-    "fuente": "Art. 159 LCSP (Ley 9/2017)"
-  },
-  {
     "q": "Según la LCSP, ¿qué son los contratos menores, a los que se aplica un régimen simplificado de tramitación?",
     "options": [
       "Contratos exclusivamente de suministro de material de oficina",
@@ -10686,32 +10554,8 @@ const QUESTIONS = {
       "Contratos de escasa cuantía, con umbrales específicos fijados por la propia Ley"
     ],
     "correct": 3,
-    "exp": "Los contratos menores son aquellos de escasa cuantía (con umbrales fijados por la Ley, distintos según se trate de obras o de suministros y servicios), sujetos a un régimen de tramitación simplificado.",
-    "fuente": "LCSP (Ley 9/2017)"
-  },
-  {
-    "q": "Según el art. 29 de la LCSP, la duración de los contratos del sector público debe establecerse teniendo en cuenta:",
-    "options": [
-      "La naturaleza de las prestaciones y sus características, así como los principios de programación y de eficiencia en la asignación de recursos públicos",
-      "Únicamente la voluntad discrecional del contratista",
-      "La duración del mandato del Alcalde en ejercicio",
-      "Un plazo fijo idéntico para todo tipo de contrato"
-    ],
-    "correct": 0,
-    "exp": "El art. 29 LCSP establece que la duración de los contratos debe fijarse teniendo en cuenta la naturaleza de las prestaciones, sus características y la financiación, atendiendo a los principios de programación y eficiencia.",
-    "fuente": "Art. 29 LCSP (Ley 9/2017)"
-  },
-  {
-    "q": "Según la LCSP, ¿qué prohibición afecta a las empresas o personas condenadas por sentencia firme por determinados delitos, en relación con la contratación pública?",
-    "options": [
-      "La imposibilidad de constituirse como sociedad limitada",
-      "La prohibición de contratar, regulada en el artículo 71",
-      "La imposibilidad de operar en cualquier sector económico",
-      "La obligación de disolverse inmediatamente"
-    ],
-    "correct": 1,
-    "exp": "El art. 71 LCSP regula las prohibiciones de contratar, entre las que se incluye haber sido condenado mediante sentencia firme por determinados delitos (corrupción, cohecho, fraude, entre otros).",
-    "fuente": "Art. 71 LCSP (Ley 9/2017)"
+    "exp": "Art. 118.1 LCSP (redacción del RDL 3/2020): son contratos menores los de valor estimado inferior a 40.000 euros en obras y a 15.000 euros en suministros y servicios; su expediente se tramita de forma simplificada (informe motivado del órgano de contratación, aprobación del gasto y factura, arts. 118.2 a 118.4).",
+    "fuente": "Art. 118.1 LCSP (Ley 9/2017, redacción del Real Decreto-ley 3/2020)"
   },
   {
     "q": "Según la LCSP, ¿qué es el valor estimado del contrato, magnitud clave para determinar la competencia y el procedimiento aplicable?",
@@ -10722,8 +10566,8 @@ const QUESTIONS = {
       "La media aritmética de todas las ofertas presentadas"
     ],
     "correct": 2,
-    "exp": "El valor estimado del contrato, regulado en el art. 101 LCSP, es el importe total, excluido el IVA, calculado teniendo en cuenta el importe máximo estimado, incluidas eventuales prórrogas y modificaciones previsibles.",
-    "fuente": "Art. 101 LCSP (Ley 9/2017)"
+    "exp": "Art. 101 LCSP: el valor estimado es el importe total sin IVA pagadero según las estimaciones del órgano de contratación (101.1.a); en su cálculo se computan cualquier opción eventual y las prórrogas (101.2.a) y, si el pliego previó modificaciones conforme al art. 204, el importe máximo con todas las modificaciones al alza previstas (101.2.c).",
+    "fuente": "Art. 101.1.a), 101.2.a) y 101.2.c) LCSP (Ley 9/2017)"
   },
   {
     "q": "Según la LCSP, ¿qué principio rige la actuación de los órganos de contratación en relación con la definición previa de las necesidades a satisfacer?",
@@ -10734,8 +10578,8 @@ const QUESTIONS = {
       "El principio de eficiente utilización de los fondos públicos mediante la exigencia de definición previa de las necesidades"
     ],
     "correct": 3,
-    "exp": "La contratación pública se rige por el principio de eficiente utilización de los fondos destinados a obras, bienes y servicios mediante la exigencia de definición previa de las necesidades a satisfacer.",
-    "fuente": "LCSP (Ley 9/2017)"
+    "exp": "Art. 1.1 LCSP: la Ley busca asegurar, en conexión con la estabilidad presupuestaria y el control del gasto, «una eficiente utilización de los fondos destinados a la realización de obras, la adquisición de bienes y la contratación de servicios mediante la exigencia de la definición previa de las necesidades a satisfacer».",
+    "fuente": "Art. 1.1 LCSP (Ley 9/2017)"
   },
   {
     "q": "Según la LCSP, ¿qué principio persigue salvaguardar la contratación pública frente a posibles restricciones injustificadas a la participación de empresas?",
@@ -10746,11 +10590,11 @@ const QUESTIONS = {
       "El principio de reserva exclusiva a empresas locales"
     ],
     "correct": 0,
-    "exp": "Entre los principios rectores de la contratación pública se encuentra la salvaguarda de la libre competencia y la selección de la oferta económicamente más ventajosa.",
-    "fuente": "LCSP (Ley 9/2017)"
+    "exp": "Art. 1.1 LCSP: entre los fines de la Ley figura expresamente «la salvaguarda de la libre competencia y la selección de la oferta económicamente más ventajosa» (principio reforzado, en la licitación, por el art. 132.1).",
+    "fuente": "Art. 1.1 LCSP (Ley 9/2017)"
   },
   {
-    "q": "¿Qué se entiende, en el marco de la LCSP, por 'central de contratación' regulada en el art. 228?",
+    "q": "¿Qué se entiende, en el marco de la LCSP, por «central de contratación» (art. 227)?",
     "options": [
       "Un organismo exclusivamente dedicado a la fiscalización presupuestaria",
       "Un órgano especializado que centraliza la adquisición de suministros, servicios u obras para varios poderes adjudicadores",
@@ -10758,8 +10602,8 @@ const QUESTIONS = {
       "Un banco público de financiación de infraestructuras"
     ],
     "correct": 1,
-    "exp": "Las centrales de contratación, reguladas en el art. 228 LCSP, son órganos especializados que centralizan la adquisición de obras, suministros o servicios destinados a varios poderes adjudicadores, mejorando la eficiencia.",
-    "fuente": "Art. 228 LCSP (Ley 9/2017)"
+    "exp": "Art. 227.1 y 2 LCSP: las entidades del sector público pueden centralizar la contratación de obras, servicios y suministros atribuyéndola a servicios especializados, que adquieren bienes y servicios o adjudican contratos, acuerdos marco y sistemas dinámicos para otros entes. Su creación por las Entidades Locales se acuerda por el Pleno (art. 228.2).",
+    "fuente": "Art. 227.1 y 2 LCSP; creación en el ámbito local, art. 228.2 LCSP"
   },
   {
     "q": "Según la LCSP, ¿qué finalidad persigue la existencia de centrales de contratación, especialmente relevante para las Entidades Locales de menor tamaño?",
@@ -10771,7 +10615,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "Las centrales de contratación permiten a las Entidades Locales de menor tamaño beneficiarse de mejores condiciones económicas y de una tramitación más ágil, al centralizar la demanda de varios poderes adjudicadores.",
-    "fuente": "LCSP (Ley 9/2017)"
+    "fuente": "Art. 227 LCSP, en relación con la DA 2.ª.6, el art. 228.2 y 3 y la DA 3.ª.10 LCSP"
   },
   {
     "q": "Según la LCSP, ¿cuál es el órgano de asistencia técnica que interviene habitualmente en el procedimiento de adjudicación abierto, valorando las ofertas presentadas por los licitadores?",
@@ -10782,32 +10626,8 @@ const QUESTIONS = {
       "La Mesa de contratación"
     ],
     "correct": 3,
-    "exp": "La Mesa de contratación es el órgano colegiado de asistencia técnica al órgano de contratación, encargado de valorar las ofertas y proponer la adjudicación en los procedimientos correspondientes.",
-    "fuente": "LCSP (Ley 9/2017)"
-  },
-  {
-    "q": "Según la LCSP, ¿qué régimen de recursos existe frente a los actos de los procedimientos de adjudicación de determinados contratos de cuantía elevada o especial relevancia?",
-    "options": [
-      "El recurso especial en materia de contratación",
-      "Únicamente el recurso de alzada ordinario",
-      "El recurso extraordinario de revisión exclusivamente",
-      "Ningún recurso administrativo, solo la vía judicial directa"
-    ],
-    "correct": 0,
-    "exp": "La LCSP regula un recurso especial en materia de contratación, de carácter potestativo y sustitutivo de los recursos ordinarios, para determinados actos de los procedimientos de contratación de mayor relevancia.",
-    "fuente": "LCSP (Ley 9/2017)"
-  },
-  {
-    "q": "¿Cuál es el órgano administrativo independiente que, con carácter general, resuelve el recurso especial en materia de contratación en el ámbito de la Administración General del Estado?",
-    "options": [
-      "El Ministerio Fiscal",
-      "El Tribunal Administrativo Central de Recursos Contractuales",
-      "El Tribunal Supremo directamente",
-      "El Consejo de Ministros"
-    ],
-    "correct": 1,
-    "exp": "En el ámbito estatal, el recurso especial en materia de contratación se resuelve, con carácter general, por el Tribunal Administrativo Central de Recursos Contractuales, órgano independiente adscrito al Ministerio de Hacienda.",
-    "fuente": "LCSP (Ley 9/2017)"
+    "exp": "Art. 326.1 y 2 LCSP: la mesa de contratación es el órgano colegiado de asistencia técnica que valora las ofertas y propone la adjudicación; en las Entidades Locales su composición es la de la DA 2.ª.7 LCSP (presidencia de un miembro de la Corporación o funcionario, y como vocales el Secretario y el Interventor).",
+    "fuente": "Art. 326.1 y 2 LCSP; composición en las Entidades Locales, DA 2.ª.7 LCSP"
   },
   {
     "q": "Según la LCSP, ¿qué tipo de contrato tiene por objeto que el contratista sustituya a la Administración en la explotación de un servicio de titularidad o competencia de esta, asumiendo el correspondiente riesgo operacional?",
@@ -10822,18 +10642,6 @@ const QUESTIONS = {
     "fuente": "Art. 15 LCSP (Ley 9/2017)"
   },
   {
-    "q": "Según la LCSP, en un contrato de obras, ¿qué documento técnico resulta imprescindible para definir con precisión el objeto de la prestación antes de la licitación?",
-    "options": [
-      "El acta de recepción final",
-      "El pliego de condiciones económicas exclusivamente",
-      "El certificado de fin de obra",
-      "El proyecto de obras"
-    ],
-    "correct": 3,
-    "exp": "El proyecto de obras es el documento técnico que define con precisión las características, alcance y condiciones técnicas de la obra a ejecutar, y resulta necesario, con carácter general, antes de licitar el contrato.",
-    "fuente": "LCSP (Ley 9/2017)"
-  },
-  {
     "q": "En relación con la Disposición adicional segunda de la LCSP, ¿qué naturaleza tiene la competencia del Pleno para aprobar los pliegos de cláusulas administrativas generales?",
     "options": [
       "Una competencia específica y expresa, distinta de la competencia general como órgano de contratación",
@@ -10842,8 +10650,8 @@ const QUESTIONS = {
       "Una competencia compartida obligatoriamente con la Comunidad Autónoma"
     ],
     "correct": 0,
-    "exp": "La aprobación de los pliegos de cláusulas administrativas generales (art. 121 LCSP) es una competencia específica y expresa del Pleno, distinta de su competencia general como órgano de contratación en según qué contratos.",
-    "fuente": "Disposición adicional segunda LCSP (Ley 9/2017)"
+    "exp": "DA 2.ª.2, inciso final, LCSP: además de su competencia como órgano de contratación, «corresponde al Pleno la aprobación de los pliegos de cláusulas administrativas generales a los que se refiere el artículo 121». En los municipios de gran población el Pleno conserva esta atribución aunque contrate la Junta de Gobierno Local (DA 2.ª.4), y el art. 121.2 exige dictamen previo del Consejo de Estado u órgano consultivo autonómico equivalente.",
+    "fuente": "DA 2.ª.2 y .4 LCSP, en relación con el art. 121.2 LCSP"
   },
   {
     "q": "Según la LCSP, ¿qué diferencia existe entre 'pliego de cláusulas administrativas generales' y 'pliego de cláusulas administrativas particulares'?",
@@ -10854,11 +10662,11 @@ const QUESTIONS = {
       "El particular tiene rango de ley y el general es un simple modelo orientativo"
     ],
     "correct": 1,
-    "exp": "El pliego de cláusulas administrativas generales fija condiciones aplicables a una generalidad de contratos de una misma naturaleza, mientras que el pliego de cláusulas administrativas particulares regula las condiciones específicas de cada contrato concreto.",
-    "fuente": "LCSP (Ley 9/2017)"
+    "exp": "Arts. 121 y 122 LCSP: los pliegos de cláusulas administrativas generales se aprueban para su utilización en el conjunto de los contratos de la entidad (art. 121.1 y 2, y en las Entidades Locales por el Pleno, DA 2.ª.2), mientras que los pliegos de cláusulas administrativas particulares recogen las condiciones de cada contrato concreto y se aprueban antes de su licitación (art. 122.1).",
+    "fuente": "Arts. 121 y 122 LCSP; aprobación de los generales en las Entidades Locales, DA 2.ª.2"
   },
   {
-    "q": "Según el reparto competencial de contratación local, si un Ayuntamiento pretende adjudicar un contrato de obras cuyo valor estimado supera el 10% de sus recursos ordinarios y también supera los seis millones de euros, ¿qué órgano será competente?",
+    "q": "En un municipio de régimen común, si el Ayuntamiento pretende adjudicar un contrato de obras cuyo valor estimado supera el 10 % de sus recursos ordinarios y además los seis millones de euros, ¿qué órgano será competente?",
     "options": [
       "El Alcalde en todo caso, sin excepción",
       "La Junta de Gobierno Local exclusivamente",
@@ -10866,8 +10674,8 @@ const QUESTIONS = {
       "El Secretario municipal por delegación automática"
     ],
     "correct": 2,
-    "exp": "Conforme a la Disposición adicional segunda de la LCSP, superados esos límites atribuidos al Alcalde, la competencia como órgano de contratación corresponde al Pleno de la Corporación.",
-    "fuente": "Disposición adicional segunda LCSP (Ley 9/2017)"
+    "exp": "DA 2.ª.1 y .2 LCSP: el Alcalde solo es órgano de contratación cuando el valor estimado no supera el 10 % de los recursos ordinarios del presupuesto ni los seis millones de euros; superado cualquiera de esos límites (o la duración de cuatro años), la competencia es del Pleno. En municipios de gran población la ejercería la Junta de Gobierno Local (DA 2.ª.4).",
+    "fuente": "Disposición adicional segunda, apartados 1 y 2, LCSP (Ley 9/2017)"
   },
   {
     "q": "Si un contrato de servicios en un municipio pequeño tiene un valor estimado del 3% de los recursos ordinarios del presupuesto y no alcanza los seis millones de euros, ¿qué órgano será, en principio, competente para su adjudicación?",
@@ -10882,30 +10690,6 @@ const QUESTIONS = {
     "fuente": "Disposición adicional segunda LCSP (Ley 9/2017)"
   },
   {
-    "q": "¿Qué papel desempeñan los principios de transparencia e integridad en el diseño de la LCSP 2017, según se resalta reiteradamente en su exposición de motivos?",
-    "options": [
-      "Son objetivos centrales del nuevo sistema de contratación pública diseñado por la Ley",
-      "Solo se aplican a contratos de ámbito internacional",
-      "Quedan excluidos expresamente del ámbito de la Ley",
-      "Son aspectos accesorios sin relevancia práctica"
-    ],
-    "correct": 0,
-    "exp": "La exposición de motivos de la LCSP presenta la transparencia y la integridad como objetivos centrales del nuevo sistema de contratación pública, junto con la eficiencia.",
-    "fuente": "LCSP (Ley 9/2017)"
-  },
-  {
-    "q": "Según la LCSP, ¿qué papel juega la Junta Consultiva de Contratación Administrativa (o su denominación equivalente en cada Administración) en relación con la interpretación de la normativa de contratos?",
-    "options": [
-      "Aprueba directamente los presupuestos de cada contrato",
-      "Emite informes y criterios interpretativos que orientan la aplicación práctica de la Ley por los órganos de contratación",
-      "Tiene potestad legislativa para modificar la LCSP",
-      "Sustituye a los órganos jurisdiccionales en la resolución de litigios contractuales"
-    ],
-    "correct": 1,
-    "exp": "Las Juntas Consultivas de Contratación Administrativa emiten informes y criterios interpretativos que sirven de orientación práctica a los órganos de contratación en la aplicación de la normativa.",
-    "fuente": "LCSP (Ley 9/2017)"
-  },
-  {
     "q": "En el marco de la contratación pública local, ¿qué relación guarda el principio de estabilidad presupuestaria con la contratación de obras y servicios de las Entidades Locales?",
     "options": [
       "Los contratos quedan siempre excluidos del cómputo de déficit",
@@ -10914,20 +10698,20 @@ const QUESTIONS = {
       "No existe ninguna relación entre ambas materias"
     ],
     "correct": 2,
-    "exp": "Los compromisos de gasto derivados de la contratación pública local deben respetar los límites de estabilidad presupuestaria y sostenibilidad financiera exigibles a las Entidades Locales conforme a su normativa específica.",
-    "fuente": "LCSP (Ley 9/2017)"
+    "exp": "DA 3.ª.3 LCSP: los actos de fiscalización los ejerce el órgano Interventor de la Entidad Local y esa fiscalización recae también sobre la valoración de las repercusiones de cada nuevo contrato (excepto los contratos menores) en el cumplimiento por la Entidad Local de los principios de estabilidad presupuestaria y sostenibilidad financiera que exige el art. 7.3 de la LO 2/2012.",
+    "fuente": "Disposición adicional tercera, apartado 3, LCSP (Ley 9/2017, redacción de la Ley 31/2022)"
   },
   {
-    "q": "En síntesis, ¿qué dos grandes bloques normativos configuran el marco de la contratación pública local, según lo estudiado en este tema?",
+    "q": "¿Qué dos grandes bloques normativos configuran el marco de la contratación pública local?",
     "options": [
       "Solo normativa europea, sin desarrollo estatal",
       "Únicamente el Código Civil y el Código de Comercio",
       "Exclusivamente ordenanzas municipales, sin ley estatal de referencia",
-      "La LCSP (con sus disposiciones adicionales segunda y tercera específicas) y la LBRL (arts. 21 y 22, sobre competencias del Alcalde y el Pleno)"
+      "La LCSP (con sus disposiciones adicionales segunda y tercera, específicas para las Entidades Locales) y la LBRL, que regula la organización municipal y las atribuciones de Alcalde, Pleno y Junta de Gobierno Local (arts. 21, 22 y 23)"
     ],
     "correct": 3,
-    "exp": "El marco de la contratación pública local se configura fundamentalmente por la LCSP (con sus disposiciones adicionales segunda y tercera específicas para las Entidades Locales) y por la LBRL, que atribuye las competencias generales de contratación al Alcalde (art. 21) y al Pleno (art. 22).",
-    "fuente": "Disposición adicional segunda LCSP (Ley 9/2017)"
+    "exp": "El marco lo integran la LCSP —cuya DA 2.ª determina el órgano de contratación local y cuya DA 3.ª contiene las normas específicas de contratación en las Entidades Locales— y la LBRL, que fija la organización y atribuciones de los órganos municipales (arts. 21, 22 y 23). Atención: las letras de la LBRL que atribuían expresamente la contratación al Alcalde (art. 21.1.ñ) y al Pleno (art. 22.2.n) fueron derogadas por la disposición derogatoria única.b) de la Ley 30/2007, de modo que la competencia se sustenta hoy en la DA 2.ª LCSP y en las cláusulas residuales de los arts. 21.1.s) y 22.2.q) LBRL.",
+    "fuente": "Disposiciones adicionales segunda y tercera LCSP; arts. 21.1.s), 22.2.q) y 23.2.b) LBRL"
   },
 ],
 10:[

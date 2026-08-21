@@ -366,3 +366,33 @@ Del mismo lote, otras 3 preguntas (arts. 11.1.g, 14.1.h y 14.2) **no se
 archivaron**: están en el Capítulo II, «Especialidades en materia de
 organización», que es literalmente lo que pide el tema 14, y se reasignaron a
 ese tema en lugar de retirarse.
+
+---
+
+## `banco-original-auditado-9.json`
+
+19 preguntas del **tema 9** (contratos del sector público) retiradas el
+21-ago-2026 al auditar las 100 del banco original.
+
+El epígrafe del tema son tres bloques —tipos contractuales, competencias de
+contratación en las entidades locales, y normas locales de contratación— y estas
+19 no caen en ninguno:
+
+| Materia | Nº | Preceptos |
+|---|---|---|
+| Procedimientos de adjudicación | 3 | arts. 131.2 y 159 LCSP |
+| Recurso especial en materia de contratación | 3 | arts. 44 a 46 LCSP |
+| Estructura de los Libros de la Ley | 3 | citaban el art. 27, que no las sostenía |
+| Equivalencias con el TRLCSP de 2011, derogado | 2 | arts. 5 y 8 TRLCSP |
+| Preámbulo de la Ley | 3 | objetivos generales, no articulado |
+| Prohibiciones de contratar | 1 | art. 71 LCSP |
+| Duración de los contratos | 1 | art. 29 LCSP, y con paráfrasis errónea |
+| Proyecto de obras | 1 | art. 231.1 LCSP |
+| Junta Consultiva estatal | 1 | art. 328 LCSP |
+| Cifra doctrinal sin precepto | 1 | «los 8.125 municipios», variable |
+
+De las 19, **dieciocho eran correctas** y se archivan por alcance. La de la
+duración de los contratos, además de estar fuera del epígrafe, parafraseaba mal
+el art. 29.1: si algún día se reutiliza, hay que rehacerla.
+
+Cada pregunta lleva su `motivoArchivo`.
