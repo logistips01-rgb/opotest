@@ -1,0 +1,526 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 13,
+  "preguntas": [
+    {
+      "q": "Según el art. 9.2 del RD 500/1990, ¿qué debe regularse en las bases de ejecución del presupuesto en relación con las fases de ejecución del presupuesto de gastos?",
+      "options": [
+        "El número máximo de fases en que puede dividirse la ejecución de cada gasto.",
+        "La prohibición absoluta de acumular fases de ejecución en un solo acto administrativo.",
+        "Los supuestos en los que puedan acumularse varias fases de ejecución del presupuesto de gastos en un solo acto administrativo.",
+        "La obligación de tramitar cada fase de ejecución mediante expediente independiente informado por el Interventor."
+      ],
+      "correct": 2,
+      "exp": "El art. 9.2 enumera las materias que las entidades locales han de regular en las bases de ejecución; su letra i) es, literalmente, «Supuestos en los que puedan acumularse varias fases de ejecución del Presupuesto de gastos en un solo acto administrativo». Es el precepto que habilita, en cada entidad, los documentos contables AD y ADO del art. 67.",
+      "fuente": "Art. 9.2 i) RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 9.2 b) del RD 500/1990, entre las materias que las entidades locales han de regular en las bases de ejecución del presupuesto figura:",
+      "options": [
+        "La relación expresa y taxativa de los créditos que se declaren ampliables, con detalle de los recursos afectados.",
+        "La relación meramente indicativa de los créditos que podrían declararse ampliables, sin necesidad de detallar los recursos.",
+        "La relación de los créditos extraordinarios concedidos en el ejercicio inmediato anterior.",
+        "La relación de los créditos declarados no disponibles por el Pleno en el ejercicio inmediato anterior."
+      ],
+      "correct": 0,
+      "exp": "Art. 9.2 b) RD 500/1990: «Relación expresa y taxativa de los créditos que se declaren ampliables, con detalle de los recursos afectados». La exigencia de relación «expresa y taxativa» se reitera en el art. 39.1 al definir la ampliación de crédito.",
+      "fuente": "Art. 9.2 b) RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 16.2 del RD 500/1990, ninguno de los presupuestos podrá presentar déficit a lo largo del ejercicio; en consecuencia, todo incremento en los créditos presupuestarios o decremento en las previsiones de ingresos deberá ser compensado:",
+      "options": [
+        "en el plazo de un mes desde la adopción del acuerdo.",
+        "antes del cierre del ejercicio presupuestario.",
+        "en la liquidación del presupuesto del ejercicio.",
+        "en el mismo acto en que se acuerde."
+      ],
+      "correct": 3,
+      "exp": "Art. 16.2 RD 500/1990: «ninguno de los Presupuestos podrá presentar déficit a lo largo del ejercicio; en consecuencia todo incremento en los créditos presupuestarios o decremento en las previsiones de ingresos deberá ser compensado en el mismo acto en que se acuerde». Es una regla que el reglamento añade al principio de aprobación sin déficit inicial del apartado 1 (hoy art. 165.4 TRLRHL).",
+      "fuente": "Art. 16.2 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 18.4 del RD 500/1990, la remisión del Presupuesto General a la Intervención se efectuará de forma que pueda ser objeto de estudio durante un plazo no inferior a diez días e informado antes del:",
+      "options": [
+        "1 de octubre.",
+        "10 de octubre.",
+        "15 de octubre.",
+        "15 de septiembre."
+      ],
+      "correct": 1,
+      "exp": "Art. 18.4, párrafo segundo, RD 500/1990: «La remisión a la Intervención se efectuará de forma que el Presupuesto, con todos sus anexos y documentación complementaria, pueda ser objeto de estudio durante un plazo no inferior a diez días e informado antes del 10 de octubre». El 15 de octubre es la fecha límite de remisión al Pleno (párrafo primero) y el 15 de septiembre la de remisión de los presupuestos de organismos autónomos y sociedades (arts. 18.2 y 18.3).",
+      "fuente": "Art. 18.4 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 20.1 del RD 500/1990, el acto de aprobación provisional del Presupuesto General se anunciará en el «Boletín Oficial» de la provincia o, en su caso, de la Comunidad Autónoma uniprovincial, señalando:",
+      "options": [
+        "el número de reclamaciones presentadas contra el presupuesto del ejercicio anterior.",
+        "el importe total de los estados de gastos e ingresos aprobados provisionalmente.",
+        "el lugar y la fecha inicial del cómputo del plazo de exposición al público.",
+        "el órgano ante el que cabe interponer recurso contencioso-administrativo."
+      ],
+      "correct": 2,
+      "exp": "Art. 20.1 RD 500/1990: «El acto de aprobación provisional del Presupuesto General, señalando el lugar y fecha inicial del cómputo del plazo de exposición al público, se anunciará en el “Boletín Oficial” de la provincia...». Este detalle del contenido del anuncio es una precisión propia del reglamento que no figura en el art. 169.1 TRLRHL.",
+      "fuente": "Art. 20.1 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 21.6 del RD 500/1990, cuando haya regido un presupuesto prorrogado, el presupuesto definitivo se aprobará:",
+      "options": [
+        "con efectos de 1 de enero, y los créditos en él incluidos tendrán la consideración de créditos iniciales.",
+        "con efectos desde la fecha de su publicación, y sus créditos tendrán la consideración de modificaciones de crédito.",
+        "con efectos de 1 de enero, si bien sus créditos tendrán la consideración de créditos ampliables.",
+        "con efectos desde el día siguiente al de su aprobación definitiva, sin que sus créditos tengan la consideración de créditos iniciales."
+      ],
+      "correct": 0,
+      "exp": "Art. 21.6 RD 500/1990: «El Presupuesto definitivo se aprobará con efectos de 1 de enero y los créditos en él incluidos tendrán la consideración de créditos iniciales». El reglamento desarrolla con mucho más detalle la prórroga presupuestaria que el art. 169.6 TRLRHL, que solo enuncia la prórroga automática.",
+      "fuente": "Art. 21.6 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 21.4 del RD 500/1990, los ajustes de crédito practicados sobre el presupuesto prorrogado deberán imputarse a las correspondientes partidas mediante:",
+      "options": [
+        "acuerdo del Pleno adoptado por mayoría absoluta del número legal de miembros.",
+        "resolución del Interventor, previo informe del Presidente de la Corporación.",
+        "acuerdo de la Junta de Gobierno Local, previo dictamen de la Comisión Especial de Cuentas.",
+        "resolución motivada dictada por el Presidente de la Corporación, previo informe del Interventor."
+      ],
+      "correct": 3,
+      "exp": "Art. 21.4, párrafo último, RD 500/1990: «los ajustes de crédito determinados en los párrafos precedentes deberán ser objeto de imputación a las correspondientes partidas del Presupuesto prorrogado mediante resolución motivada dictada por el Presidente de la Corporación, previo informe del Interventor».",
+      "fuente": "Art. 21.4 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 13.3 del RD 500/1990, los proyectos incluidos en el Plan de Inversiones se identificarán mediante el código que en aquél se les asigne, código que:",
+      "options": [
+        "podrá modificarse anualmente al revisar el plan.",
+        "no podrá ser alterado hasta su finalización.",
+        "será asignado por el Ministerio de Economía y Hacienda.",
+        "solo será exigible en los proyectos financiados con ingresos afectados."
+      ],
+      "correct": 1,
+      "exp": "Art. 13.3 RD 500/1990: «Los proyectos incluidos en el Plan de Inversiones se identificarán mediante el código que en aquél se les asigne y que no podrá ser alterado hasta su finalización». El «Código de identificación» es, además, la primera de las especificaciones mínimas exigidas por el art. 13.4 y por el art. 19 para el anexo de inversiones.",
+      "fuente": "Art. 13.3 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 27.1 del RD 500/1990, con carácter general los niveles de vinculación jurídica de los créditos serán los que vengan establecidos en cada momento por:",
+      "options": [
+        "las bases de ejecución del presupuesto de cada entidad local.",
+        "el Ministerio de Economía y Hacienda, mediante orden ministerial.",
+        "la legislación presupuestaria del Estado.",
+        "la legislación presupuestaria de la Comunidad Autónoma respectiva."
+      ],
+      "correct": 2,
+      "exp": "Art. 27.1 RD 500/1990: «Con carácter general, los niveles de vinculación jurídica de los créditos serán los que vengan establecidos en cada momento por la legislación presupuestaria del Estado». Sin perjuicio de ello, el art. 28.1 permite a la entidad fijar en sus bases de ejecución niveles distintos, con los límites del art. 29.",
+      "fuente": "Art. 27.1 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 29 del RD 500/1990, las entidades locales que establezcan en sus bases de ejecución la vinculación de los créditos en los niveles de desarrollo funcional y económico que consideren necesarios deberán respetar, en todo caso, los siguientes niveles como límite:",
+      "options": [
+        "el grupo de función, respecto de la clasificación funcional, y el capítulo, respecto de la clasificación económica.",
+        "la función, respecto de la clasificación funcional, y el artículo, respecto de la clasificación económica.",
+        "el subgrupo de función, respecto de la clasificación funcional, y el concepto, respecto de la clasificación económica.",
+        "el programa, respecto de la clasificación funcional, y el subconcepto, respecto de la clasificación económica."
+      ],
+      "correct": 0,
+      "exp": "Art. 29 RD 500/1990: las limitaciones en cuanto a los niveles de vinculación son «a) Respecto de la clasificación funcional, el grupo de función. b) Respecto de la clasificación económica, el capítulo».",
+      "fuente": "Art. 29 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 30.1 del RD 500/1990, los créditos consignados en el presupuesto de gastos podrán encontrarse, con carácter general, en cualquiera de estas tres situaciones:",
+      "options": [
+        "créditos disponibles, créditos comprometidos y créditos ordenados.",
+        "créditos iniciales, créditos definitivos y créditos anulados.",
+        "créditos disponibles, créditos ampliables y créditos no disponibles.",
+        "créditos disponibles, créditos retenidos pendientes de utilización y créditos no disponibles."
+      ],
+      "correct": 3,
+      "exp": "Art. 30.1 RD 500/1990: los créditos podrán encontrarse en cualquiera de las tres situaciones siguientes: «a) Créditos disponibles. b) Créditos retenidos pendientes de utilización. c) Créditos no disponibles». El apartado 2 añade que, en principio, todos los créditos se encontrarán en situación de disponibles. Esta clasificación de las situaciones del crédito no tiene equivalente en el TRLRHL.",
+      "fuente": "Art. 30.1 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 31.1 del RD 500/1990, la retención de crédito es el acto mediante el cual:",
+      "options": [
+        "se inmoviliza la totalidad o parte del saldo de crédito de una partida presupuestaria, declarándolo no susceptible de utilización.",
+        "se expide, respecto al de una partida presupuestaria, certificación de existencia de saldo suficiente para la autorización de un gasto o de una transferencia de crédito, por una cuantía determinada, produciéndose por el mismo importe una reserva para dicho gasto o transferencia.",
+        "se acuerda la realización de un gasto determinado por una cuantía cierta o aproximada, reservando a tal fin la totalidad o parte de un crédito presupuestario.",
+        "se declara la existencia de un crédito exigible contra la entidad derivado de un gasto autorizado y comprometido."
+      ],
+      "correct": 1,
+      "exp": "Art. 31.1 RD 500/1990 define así la retención de crédito. Las demás opciones son, respectivamente, la definición de la no disponibilidad de crédito (art. 33.1), la de la autorización del gasto (art. 54.1) y la del reconocimiento y liquidación de la obligación (art. 58).",
+      "fuente": "Art. 31.1 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 32.2 del RD 500/1990, ¿a quién corresponde la expedición de las certificaciones de existencia de crédito?",
+      "options": [
+        "Al Presidente de la entidad local.",
+        "Al Tesorero de la entidad local.",
+        "Al Interventor.",
+        "Al Pleno de la entidad local."
+      ],
+      "correct": 2,
+      "exp": "Art. 32.2 RD 500/1990: «Corresponderá la expedición de certificaciones de existencia de crédito al Interventor». El apartado 1 añade que en todo expediente de transferencia de crédito es requisito indispensable la previa certificación de existencia de crédito suficiente en la partida que deba ceder crédito.",
+      "fuente": "Art. 32.2 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 33.3 del RD 500/1990, la declaración de no disponibilidad de créditos, así como su reposición a disponible, corresponde:",
+      "options": [
+        "al Pleno de la entidad.",
+        "al Presidente de la entidad, previo informe del Interventor.",
+        "al Interventor de la entidad.",
+        "a la Junta de Gobierno Local, a propuesta del Presidente."
+      ],
+      "correct": 0,
+      "exp": "Art. 33.3 RD 500/1990: «Corresponderá la declaración de no disponibilidad de créditos, así como su reposición a disponible, al Pleno de la Entidad».",
+      "fuente": "Art. 33.3 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 33.2 del RD 500/1990, la declaración de no disponibilidad de un crédito:",
+      "options": [
+        "supone la anulación del crédito y su baja definitiva en cuentas.",
+        "no impide acordar transferencias de crédito con cargo al saldo declarado no disponible.",
+        "permite incorporar su importe al presupuesto del ejercicio siguiente como remanente de crédito.",
+        "no supone la anulación del crédito, pero con cargo al saldo declarado no disponible no podrán acordarse autorizaciones de gastos ni transferencias, y su importe no podrá ser incorporado al presupuesto del ejercicio siguiente."
+      ],
+      "correct": 3,
+      "exp": "Art. 33.2 RD 500/1990, literalmente. La prohibición de incorporar los créditos declarados no disponibles se reitera en los arts. 47.2 y 99.3.",
+      "fuente": "Art. 33.2 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 34 del RD 500/1990, ¿cuál de las siguientes NO es una de las modificaciones de crédito que pueden realizarse en los presupuestos de gastos de la entidad y de sus organismos autónomos?",
+      "options": [
+        "La generación de créditos por ingresos.",
+        "La retención de crédito pendiente de utilización.",
+        "La incorporación de remanentes de crédito.",
+        "Las bajas por anulación."
+      ],
+      "correct": 1,
+      "exp": "El art. 34 RD 500/1990 enumera siete modificaciones de crédito: créditos extraordinarios, suplementos de créditos, ampliaciones de crédito, transferencias de crédito, generación de créditos por ingresos, incorporación de remanentes de crédito y bajas por anulación. La retención de crédito no es una modificación de crédito, sino una situación del crédito (arts. 30.1 b) y 31).",
+      "fuente": "Art. 34 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 36.2 del RD 500/1990, los créditos extraordinarios y los suplementos de crédito para gastos de inversión podrán financiarse, además de con los recursos generales previstos en el apartado 1, con:",
+      "options": [
+        "cargo a los créditos declarados no disponibles por el Pleno.",
+        "las previsiones iniciales del capítulo de ingresos patrimoniales.",
+        "los recursos procedentes de operaciones de crédito.",
+        "los anticipos de caja fija no invertidos al cierre del ejercicio."
+      ],
+      "correct": 2,
+      "exp": "Art. 36.2 RD 500/1990: «Los créditos extraordinarios y los suplementos de crédito para gastos de inversión podrán financiarse, además de con los recursos indicados en el apartado anterior, con los procedentes de operaciones de crédito». El apartado 1 recoge los tres recursos generales (remanente líquido de tesorería, nuevos o mayores ingresos efectivamente recaudados y anulaciones o bajas de créditos no comprometidos).",
+      "fuente": "Art. 36.2 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 37.2 del RD 500/1990, a la propuesta de concesión de un crédito extraordinario o suplemento de crédito habrá de acompañarse:",
+      "options": [
+        "una memoria justificativa de la necesidad de la medida, que precise la clase de modificación a realizar, las partidas presupuestarias a las que afecta y los medios o recursos que han de financiarla.",
+        "un informe previo del Tribunal de Cuentas sobre la nivelación presupuestaria.",
+        "un dictamen preceptivo de la Comisión Nacional de Administración Local.",
+        "un certificado del Tesorero acreditativo de la existencia de fondos líquidos suficientes."
+      ],
+      "correct": 0,
+      "exp": "Art. 37.2 RD 500/1990: «A la propuesta se habrá de acompañar una Memoria justificativa de la necesidad de la medida que deberá precisar la clase de modificación a realizar, las partidas presupuestarias a las que afecta y los medios o recursos que han de financiarla», debiendo acreditarse los extremos de sus letras a) a d). El expediente se incoa por orden del Presidente (apartado 1) y se somete al Pleno previo informe de la Intervención (apartado 3).",
+      "fuente": "Art. 37.2 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 39.1 del RD 500/1990, la ampliación de crédito es la modificación al alza del presupuesto de gastos que se concreta en el aumento de crédito en alguna de las partidas ampliables relacionadas expresa y taxativamente en las bases de ejecución, y ello en función de la efectividad de:",
+      "options": [
+        "cualquier nuevo o mayor ingreso efectivamente recaudado sobre el previsto en el presupuesto.",
+        "los recursos afectados, incluidos los procedentes de operaciones de crédito.",
+        "el remanente líquido de tesorería resultante de la liquidación del ejercicio anterior.",
+        "recursos afectados no procedentes de operaciones de crédito."
+      ],
+      "correct": 3,
+      "exp": "Art. 39.1 RD 500/1990: la ampliación de crédito opera «en función de la efectividad de recursos afectados no procedentes de operaciones de crédito». El apartado 2 añade que únicamente pueden declararse ampliables las partidas correspondientes a gastos financiados con recursos expresamente afectados, y el apartado 3 exige acreditar el reconocimiento en firme de mayores derechos sobre los previstos.",
+      "fuente": "Art. 39.1 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 40.1 del RD 500/1990, la transferencia de crédito es aquella modificación del presupuesto de gastos mediante la que, sin alterar la cuantía total del mismo, se imputa el importe total o parcial de un crédito a otras partidas presupuestarias:",
+      "options": [
+        "de la misma vinculación jurídica.",
+        "con diferente vinculación jurídica.",
+        "del mismo capítulo económico, en todo caso.",
+        "pertenecientes a distinto ejercicio presupuestario."
+      ],
+      "correct": 1,
+      "exp": "Art. 40.1 RD 500/1990: la transferencia imputa el crédito «a otras partidas presupuestarias con diferente vinculación jurídica». Esta precisión (que delimita la transferencia frente a los simples reajustes internos dentro de una misma bolsa de vinculación) es una aportación del reglamento respecto del art. 179 TRLRHL.",
+      "fuente": "Art. 40.1 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 44 b) del RD 500/1990, en los supuestos de generación de crédito por prestación de servicios y por reembolsos de préstamos es requisito indispensable el reconocimiento del derecho, si bien:",
+      "options": [
+        "la generación queda condicionada al informe favorable del Interventor.",
+        "la generación requiere además acuerdo expreso del Pleno de la entidad.",
+        "la disponibilidad de dichos créditos estará condicionada a la efectiva recaudación de los derechos.",
+        "el crédito generado no podrá exceder del 50 por 100 del derecho reconocido."
+      ],
+      "correct": 2,
+      "exp": "Art. 44 b) RD 500/1990: en los supuestos de las letras c) y d) del art. 43.1 (prestación de servicios y reembolsos de préstamos) basta el reconocimiento del derecho, «si bien la disponibilidad de dichos créditos estará condicionada a la efectiva recaudación de los derechos». Los requisitos de la generación de crédito son desarrollo reglamentario sin equivalente en el art. 181 TRLRHL.",
+      "fuente": "Art. 44 b) RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 45.1 del RD 500/1990, el compromiso firme de ingreso es el acto por el que:",
+      "options": [
+        "cualesquiera entes o personas públicas o privadas se obligan, mediante un acuerdo o concierto con la entidad local, a financiar total o parcialmente un gasto determinado de forma pura o condicionada.",
+        "la entidad local se obliga frente a un tercero a la realización de un gasto concreto y determinado en su cuantía y condiciones de ejecución.",
+        "el Interventor certifica la existencia de saldo suficiente en un concepto del presupuesto de ingresos.",
+        "el Pleno acuerda afectar un recurso determinado a la financiación de un gasto específico."
+      ],
+      "correct": 0,
+      "exp": "Art. 45.1 RD 500/1990, literalmente. Añade que, cumplidas por la entidad local las obligaciones asumidas en el acuerdo, el compromiso de ingreso dará lugar a un derecho de cobro exigible; y el apartado 2 permite generar crédito hasta la cuantía del compromiso firme. La opción B es la definición de la disposición o compromiso de gasto (art. 56.2).",
+      "fuente": "Art. 45.1 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 47.2 del RD 500/1990, no serán incorporables al presupuesto del ejercicio siguiente:",
+      "options": [
+        "los créditos por operaciones de capital.",
+        "los créditos autorizados en función de la efectiva recaudación de los derechos afectados.",
+        "los créditos extraordinarios concedidos en el último trimestre del ejercicio.",
+        "los créditos declarados no disponibles ni los remanentes de créditos ya incorporados en el ejercicio precedente."
+      ],
+      "correct": 3,
+      "exp": "Art. 47.2 RD 500/1990: «No serán incorporables los créditos declarados no disponibles ni los remanentes de créditos ya incorporados en el ejercicio precedente». Las tres opciones descartadas son, por el contrario, supuestos incorporables del art. 47.1. Nota de vigencia: el art. 47.1 se remite a los apartados del «artículo 163.1 LRHL», es decir, de la Ley 39/1988; esa remisión debe entenderse hecha hoy al art. 182.1 del TRLRHL (RDLeg 2/2004), que sustituyó a la Ley 39/1988.",
+      "fuente": "Art. 47.2 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 48.2 del RD 500/1990, a los efectos de incorporación de remanentes de crédito se considerarán recursos financieros:",
+      "options": [
+        "el resultado presupuestario positivo del ejercicio y las bajas por anulación de créditos.",
+        "el remanente líquido de tesorería y los nuevos o mayores ingresos recaudados sobre los totales previstos en el presupuesto corriente.",
+        "las operaciones de crédito a largo plazo y las contribuciones especiales pendientes de liquidar.",
+        "los créditos retenidos pendientes de utilización y los créditos declarados no disponibles."
+      ],
+      "correct": 1,
+      "exp": "Art. 48.2 RD 500/1990: «a) El remanente líquido de Tesorería. b) Nuevos o mayores ingresos recaudados sobre los totales previstos en el presupuesto corriente». Para los gastos con financiación afectada, el apartado 3 da preferencia a los excesos de financiación y a los compromisos firmes de aportación afectados.",
+      "fuente": "Art. 48.2 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 49 del RD 500/1990, la aprobación de las bajas por anulación de créditos corresponde:",
+      "options": [
+        "al Presidente de la entidad, previo informe de la Intervención.",
+        "al Interventor de la entidad local.",
+        "al Pleno de la entidad.",
+        "al órgano que hubiera autorizado en su día el gasto correspondiente."
+      ],
+      "correct": 2,
+      "exp": "Art. 49 RD 500/1990 define la baja por anulación como la modificación del presupuesto de gastos que supone una disminución total o parcial en el crédito asignado a una partida, y añade: «Corresponderá al Pleno de la Entidad la aprobación de las bajas por anulación de créditos». La baja por anulación no está regulada en el TRLRHL: es una figura que aporta el reglamento (arts. 49 a 51).",
+      "fuente": "Art. 49 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 54 del RD 500/1990, la autorización del gasto es el acto mediante el cual se acuerda la realización de un gasto determinado por una cuantía cierta o aproximada, reservando a tal fin la totalidad o parte de un crédito presupuestario, y además:",
+      "options": [
+        "constituye el inicio del procedimiento de ejecución del gasto, si bien no implica relaciones con terceros externos a la entidad local.",
+        "constituye el inicio del procedimiento de ejecución del gasto y vincula ya a la entidad local frente a terceros.",
+        "presupone el previo reconocimiento de la obligación por el órgano competente.",
+        "solo puede acordarse una vez cumplidos los trámites legalmente establecidos frente al contratista."
+      ],
+      "correct": 0,
+      "exp": "Art. 54.2 RD 500/1990: «La autorización constituye el inicio del procedimiento de ejecución del gasto, si bien no implica relaciones con terceros externos a la Entidad local». Es precisamente el rasgo que la distingue de la disposición o compromiso, que sí es un acto con relevancia jurídica frente a terceros (art. 56.2). El cumplimiento de los trámites legalmente establecidos se predica de la disposición, no de la autorización.",
+      "fuente": "Art. 54.1 y 54.2 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 56.1 del RD 500/1990, la disposición o compromiso es el acto mediante el cual se acuerda, tras el cumplimiento de los trámites legalmente establecidos, la realización de gastos previamente autorizados por:",
+      "options": [
+        "una cuantía cierta o aproximada.",
+        "el importe de las obligaciones reconocidas y liquidadas.",
+        "el importe que resulte de la orden de pago expedida contra la Tesorería.",
+        "un importe exactamente determinado."
+      ],
+      "correct": 3,
+      "exp": "Art. 56.1 RD 500/1990: la disposición o compromiso acuerda la realización de gastos previamente autorizados «por un importe exactamente determinado». La «cuantía cierta o aproximada» es, en cambio, la propia de la fase de autorización (art. 54.1): esa es la diferencia clásica entre ambas fases.",
+      "fuente": "Art. 56.1 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 56.2 del RD 500/1990, ¿qué naturaleza tiene la disposición o compromiso del gasto?",
+      "options": [
+        "Es un acto de trámite interno que no implica relaciones con terceros externos a la entidad local.",
+        "Es un acto con relevancia jurídica para con terceros, que vincula a la entidad local a la realización de un gasto concreto y determinado tanto en su cuantía como en las condiciones de ejecución.",
+        "Es un acto mediante el cual se declara la existencia de un crédito exigible contra la entidad local.",
+        "Es un acto mediante el cual el ordenador de pagos expide la correspondiente orden de pago contra la Tesorería."
+      ],
+      "correct": 1,
+      "exp": "Art. 56.2 RD 500/1990, literalmente. La opción A describe la autorización (art. 54.2), la C el reconocimiento y liquidación de la obligación (art. 58) y la D la ordenación del pago (art. 61).",
+      "fuente": "Art. 56.2 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 59.1 del RD 500/1990, previamente al reconocimiento de las obligaciones habrá de acreditarse documentalmente ante el órgano competente:",
+      "options": [
+        "la existencia de fondos líquidos suficientes en la Tesorería de la entidad.",
+        "la retención previa del crédito practicada por el Interventor.",
+        "la realización de la prestación o el derecho del acreedor, de conformidad con los acuerdos que en su día autorizaron y comprometieron el gasto.",
+        "la inclusión del gasto en el plan de disposición de fondos aprobado por el Presidente."
+      ],
+      "correct": 2,
+      "exp": "Art. 59.1 RD 500/1990, literalmente. Los apartados 2 y 3 remiten a las bases de ejecución la fijación de los documentos y requisitos que, según el tipo de gasto, justifiquen el reconocimiento de la obligación, y la forma de acreditación y justificación por los perceptores de subvenciones.",
+      "fuente": "Art. 59.1 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 60.2 del RD 500/1990, corresponde al Pleno de la entidad el reconocimiento extrajudicial de créditos, siempre que:",
+      "options": [
+        "no exista dotación presupuestaria, se trate de operaciones especiales de crédito o de concesiones de quita y espera.",
+        "el importe del crédito exceda del 10 por 100 de los recursos ordinarios del presupuesto.",
+        "exista dotación presupuestaria suficiente y se emita informe favorable del Interventor.",
+        "así lo acuerde previamente el Presidente de la entidad mediante delegación expresa."
+      ],
+      "correct": 0,
+      "exp": "Art. 60.2 RD 500/1990: «Corresponderá al Pleno de la Entidad el reconocimiento extrajudicial de créditos, siempre que no exista dotación presupuestaria, operaciones especiales de crédito, o concesiones de quita y espera». El reconocimiento y liquidación ordinario de obligaciones derivadas de compromisos legalmente adquiridos corresponde, en cambio, al Presidente (art. 60.1). El reconocimiento extrajudicial de créditos no aparece en el TRLRHL: es aportación del reglamento.",
+      "fuente": "Art. 60.2 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 66.1 del RD 500/1990, el acto administrativo de la ordenación del pago se materializará en relaciones de órdenes de pago que recogerán, como mínimo y para cada una de las obligaciones en ellas incluidas:",
+      "options": [
+        "el importe bruto, la fecha de vencimiento y el número de expediente de contratación.",
+        "la identificación del acreedor y la fecha en que se acordó la autorización del gasto.",
+        "el importe líquido y la entidad financiera colaboradora encargada de ejecutar el pago.",
+        "sus importes bruto y líquido, la identificación del acreedor y la aplicación o aplicaciones presupuestarias a que deban imputarse las operaciones."
+      ],
+      "correct": 3,
+      "exp": "Art. 66.1 RD 500/1990, literalmente. El apartado 2 admite además la ordenación individual del pago respecto de obligaciones específicas y concretas. Este contenido mínimo del documento de ordenación del pago es desarrollo propio del reglamento.",
+      "fuente": "Art. 66.1 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 67.1 del RD 500/1990, un mismo acto administrativo podrá abarcar más de una de las fases de ejecución del presupuesto de gastos enumeradas en el art. 52, pudiéndose dar los siguientes casos:",
+      "options": [
+        "autorización-disposición y disposición-reconocimiento de la obligación.",
+        "autorización-disposición y autorización-disposición-reconocimiento de la obligación.",
+        "autorización-disposición-reconocimiento de la obligación y reconocimiento de la obligación-ordenación del pago.",
+        "autorización-disposición-reconocimiento de la obligación-ordenación del pago, en un único documento contable."
+      ],
+      "correct": 1,
+      "exp": "Art. 67.1 RD 500/1990: los casos previstos son «a) Autorización-disposición. b) Autorización-disposición-reconocimiento de la obligación», es decir, los documentos contables AD y ADO. El reglamento no contempla las demás combinaciones. Este precepto fue objeto de pregunta en el examen oficial de Auxiliar Administrativo del Ayuntamiento de Zaragoza de 1 de junio de 2025.",
+      "fuente": "Art. 67.1 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 67.2 del RD 500/1990, el acto administrativo que acumule dos o más fases de ejecución del presupuesto de gastos:",
+      "options": [
+        "requerirá ratificación posterior del Pleno de la entidad.",
+        "producirá efectos limitados a la primera de las fases acumuladas.",
+        "producirá los mismos efectos que si dichas fases se acordaran en actos administrativos separados.",
+        "deberá ser objeto de fiscalización previa y de convalidación posterior por el Interventor."
+      ],
+      "correct": 2,
+      "exp": "Art. 67.2 RD 500/1990: «El acto administrativo que acumule dos o más fases producirá los mismos efectos que si dichas fases se acordaran en actos administrativos separados».",
+      "fuente": "Art. 67.2 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 68.2 del RD 500/1990, cuando se acumulen varias fases de ejecución del gasto en un solo acto administrativo, el órgano o la autoridad que adopte el acuerdo deberá tener competencia:",
+      "options": [
+        "originaria, delegada o desconcentrada, para acordar todas y cada una de las fases que en aquél se incluyan.",
+        "originaria y no delegada, para acordar la primera de las fases acumuladas.",
+        "exclusivamente originaria, para acordar la totalidad de las fases acumuladas.",
+        "para acordar, al menos, la última de las fases que en aquél se incluyan."
+      ],
+      "correct": 0,
+      "exp": "Art. 68.2 RD 500/1990: «En cualquier caso, el Órgano o la Autoridad que adopte el acuerdo deberá tener competencia, originaria, delegada o desconcentrada, para acordar todas y cada una de las fases que en aquél se incluyan». El apartado 1 obliga a fijar en las bases de ejecución los supuestos de acumulación, atendiendo a la naturaleza de los gastos y a criterios de economía y agilidad administrativa.",
+      "fuente": "Art. 68.2 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 73.2 del RD 500/1990, tendrán la consideración de anticipos de caja fija:",
+      "options": [
+        "las órdenes de pago cuyos documentos justificativos no se puedan acompañar en el momento de su expedición.",
+        "las provisiones de fondos de carácter presupuestario y ocasional destinadas a atender gastos de inversión de escasa cuantía.",
+        "los fondos librados a las sociedades mercantiles municipales para financiar sus programas anuales de actuación.",
+        "las provisiones de fondos de carácter no presupuestario y permanente que se realicen a pagadurías, cajas y habilitaciones para la atención inmediata y posterior aplicación al presupuesto del año en que se realicen, de las atenciones corrientes de carácter periódico o repetitivo."
+      ],
+      "correct": 3,
+      "exp": "Art. 73.2 RD 500/1990, en relación con el apartado 1 (dietas, gastos de locomoción, material de oficina no inventariable, conservación y otros de similares características). La calificación de los anticipos de caja fija como provisiones de fondos «de carácter no presupuestario y permanente» es una precisión del reglamento que no figura en el art. 190.3 TRLRHL. La opción A define las órdenes de pago «a justificar» (art. 69.1).",
+      "fuente": "Art. 73.1 y 73.2 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 77 del RD 500/1990, tendrán la consideración de reintegros de presupuesto corriente aquellos en los que:",
+      "options": [
+        "el reintegro se produce en ejercicio distinto de aquel en que se reconoció la obligación.",
+        "el reconocimiento de la obligación, el pago material y el reintegro se producen en el mismo ejercicio presupuestario.",
+        "el reconocimiento de la obligación se produjo en el ejercicio anterior y el pago material en el corriente.",
+        "el reintegro se aplica a la agrupación de presupuestos cerrados."
+      ],
+      "correct": 1,
+      "exp": "Art. 77.1 RD 500/1990. El apartado 2 define, por contraste, los reintegros de ejercicios cerrados como los que se producen en ejercicio distinto de aquel en que se reconoció la obligación (opción A). Sus efectos difieren: los de presupuesto corriente pueden reponer crédito, mientras que los de ejercicios cerrados constituyen un recurso del presupuesto de ingresos (art. 78).",
+      "fuente": "Art. 77.1 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 85.1 del RD 500/1990, la gestión de los gastos de carácter plurianual se realizará en las siguientes fases:",
+      "options": [
+        "autorización del gasto, disposición o compromiso del gasto y reconocimiento de la obligación.",
+        "autorización del gasto y reconocimiento y liquidación de la obligación.",
+        "autorización del gasto y disposición o compromiso del gasto.",
+        "retención de crédito y autorización del gasto."
+      ],
+      "correct": 2,
+      "exp": "Art. 85.1 RD 500/1990: «a) Autorización del gasto. b) Disposición o compromiso del gasto». Solo dos fases, frente a las cuatro del gasto del ejercicio corriente (art. 52). El apartado 2 precisa que su contenido y definición es el mismo que el de sus fases correlativas y que, con carácter general, serán simultáneas a éstas; el apartado 3 permite acumularlas en un solo acto administrativo.",
+      "fuente": "Art. 85.1 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 88.1 del RD 500/1990, la autorización y disposición de los gastos plurianuales corresponde:",
+      "options": [
+        "al Pleno de la entidad.",
+        "al Presidente de la entidad, en todo caso.",
+        "al Interventor, previa certificación de los límites cuantitativos.",
+        "al órgano competente en función de la cuantía del gasto imputable al ejercicio corriente."
+      ],
+      "correct": 0,
+      "exp": "Art. 88.1 RD 500/1990: «Corresponde la autorización y disposición de los gastos plurianuales al Pleno de la Entidad», si bien el apartado 2 permite al Pleno delegar dicha competencia de acuerdo con la normativa vigente. Previamente, el art. 86 exige que el Interventor certifique que no se superan los límites cuantitativos de los arts. 82 y, en su caso, 84.",
+      "fuente": "Art. 88.1 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 98.2 del RD 500/1990, integran los remanentes de crédito los saldos de disposiciones, los saldos de autorizaciones y los saldos de crédito. Los «saldos de autorizaciones» son:",
+      "options": [
+        "la diferencia entre los gastos dispuestos o comprometidos y las obligaciones reconocidas.",
+        "la suma de los créditos disponibles, créditos no disponibles y créditos retenidos pendientes de utilizar.",
+        "la diferencia entre los créditos definitivos y los gastos autorizados.",
+        "la diferencia entre los gastos autorizados y los gastos comprometidos."
+      ],
+      "correct": 3,
+      "exp": "Art. 98.2 b) RD 500/1990: los saldos de autorizaciones son «la diferencia entre los gastos autorizados y los gastos comprometidos». La opción A corresponde a los saldos de disposiciones (letra a) y la B a los saldos de crédito (letra c). El desglose de los componentes del remanente de crédito es aportación exclusiva del reglamento.",
+      "fuente": "Art. 98.2 b) RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 104.4 del RD 500/1990, el remanente de tesorería:",
+      "options": [
+        "forma parte de las previsiones iniciales de ingresos y puede financiar los créditos iniciales del presupuesto de gastos.",
+        "en ningún caso formará parte de las previsiones iniciales de ingresos ni podrá financiar, en consecuencia, los créditos iniciales del presupuesto de gastos.",
+        "forma parte de las previsiones iniciales de ingresos, aunque no puede financiar créditos de personal.",
+        "solo puede integrarse en las previsiones iniciales de ingresos cuando resulte negativo."
+      ],
+      "correct": 1,
+      "exp": "Art. 104.4 RD 500/1990, literalmente. El remanente de tesorería positivo es un recurso para financiar modificaciones de crédito (apartado 2), y su utilización a tal fin no da lugar al reconocimiento ni a la liquidación de derechos presupuestarios (apartado 5). El remanente líquido de tesorería es el que resulta de deducir del inicial las cuantías ya destinadas a financiar modificaciones de crédito (apartado 3).",
+      "fuente": "Art. 104.4 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta"
+    }
+  ]
+}

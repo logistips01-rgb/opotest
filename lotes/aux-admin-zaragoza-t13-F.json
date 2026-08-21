@@ -1,0 +1,331 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 13,
+  "preguntas": [
+    {
+      "q": "Según el art. 50 de la Ley 10/2017, de régimen especial del municipio de Zaragoza como capital de Aragón, el presupuesto general se tramitará conforme al procedimiento regulado en:",
+      "options": [
+        "El artículo 48 de la Ley, relativo a la aprobación de ordenanzas y Reglamentos municipales, con las especialidades que el propio art. 50 establece",
+        "El artículo 49 de la Ley, relativo a la aprobación de ordenanzas fiscales, sin especialidad alguna",
+        "El artículo 51 de la Ley, relativo a la determinación de las formas de gestión de los servicios públicos",
+        "El artículo 57 de la Ley, relativo al Convenio bilateral económico-financiero con el Gobierno de Aragón"
+      ],
+      "correct": 0,
+      "exp": "El encabezamiento del art. 50 dispone que «el presupuesto general se tramitará conforme al procedimiento regulado en el artículo 48 de esta Ley, de acuerdo con las siguientes especialidades», que son las recogidas en sus letras a) a f).",
+      "fuente": "Art. 50 (párrafo introductorio) Ley 10/2017 (capitalidad de Zaragoza)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 50.a) de la Ley 10/2017, la iniciativa para la aprobación del proyecto de presupuesto general del Ayuntamiento de Zaragoza corresponde a:",
+      "options": [
+        "El Alcalde, que forma el presupuesto general y lo remite informado por la Intervención",
+        "El Gobierno de Zaragoza",
+        "La Comisión plenaria competente en materia de hacienda",
+        "El Pleno, a propuesta de cualquiera de los grupos políticos municipales"
+      ],
+      "correct": 1,
+      "exp": "El art. 50.a) atribuye la iniciativa para la aprobación del proyecto de presupuesto general al Gobierno de Zaragoza (denominación que la disposición adicional segunda da a la Junta de Gobierno Local). La opción del Alcalde corresponde al régimen general de las haciendas locales, no a esta Ley.",
+      "fuente": "Art. 50 a) Ley 10/2017 (capitalidad de Zaragoza)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 50.b) de la Ley 10/2017, ¿durante qué período se expondrá al público el proyecto de presupuesto del Ayuntamiento de Zaragoza?",
+      "options": [
+        "Durante un plazo mínimo de treinta días naturales",
+        "Durante veinte días hábiles",
+        "Durante un mes",
+        "Durante un período de quince días"
+      ],
+      "correct": 3,
+      "exp": "El art. 50.b) fija un período de quince días de exposición al público del proyecto de presupuesto. El plazo mínimo de treinta días naturales es el del trámite general de información pública del art. 48.3.b) para ordenanzas y Reglamentos, no el del presupuesto.",
+      "fuente": "Art. 50 b) Ley 10/2017 (capitalidad de Zaragoza)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Durante el período de exposición al público del proyecto de presupuesto previsto en el art. 50.b) de la Ley 10/2017, los interesados podrán:",
+      "options": [
+        "Examinarlo y formular enmiendas al proyecto, que se tramitarán en la Comisión plenaria correspondiente",
+        "Examinarlo y presentar reclamaciones y sugerencias",
+        "Examinarlo y presentar reclamaciones",
+        "Examinarlo, sin poder presentar escrito alguno hasta que el Pleno lo apruebe inicialmente"
+      ],
+      "correct": 2,
+      "exp": "El art. 50.b) dice literalmente que durante el período de exposición pública «los interesados podrán examinarlo y presentar reclamaciones». La fórmula «reclamaciones y sugerencias» es la del art. 48.3.b), referida a ordenanzas y Reglamentos; las enmiendas corresponden a los Concejales, no a los interesados.",
+      "fuente": "Art. 50 b) Ley 10/2017 (capitalidad de Zaragoza)",
+      "confianza": "alta"
+    },
+    {
+      "q": "De acuerdo con el art. 50.b) de la Ley 10/2017, la exposición al público del proyecto de presupuesto va precedida de anuncio:",
+      "options": [
+        "En el boletín oficial correspondiente",
+        "En el boletín oficial correspondiente y en el tablón de anuncios municipal",
+        "En el boletín oficial correspondiente, en el tablón de anuncios y en la sede electrónica municipal",
+        "En el Boletín Oficial del Estado y en el Boletín Oficial de Aragón"
+      ],
+      "correct": 0,
+      "exp": "El art. 50.b) solo exige el «previo anuncio en el boletín oficial correspondiente». La adición del tablón de anuncios municipal es la fórmula del art. 48.3.b), y la que suma además la sede electrónica municipal es la del art. 49.b) para las ordenanzas fiscales.",
+      "fuente": "Art. 50 b) Ley 10/2017 (capitalidad de Zaragoza)",
+      "confianza": "alta"
+    },
+    {
+      "q": "El art. 50 de la Ley 10/2017, al regular las especialidades de la aprobación del presupuesto municipal de Zaragoza, NO contiene ninguna previsión expresa sobre:",
+      "options": [
+        "La fecha límite de remisión del proyecto de presupuesto al Pleno",
+        "El período de exposición al público del proyecto de presupuesto",
+        "La fecha límite dentro de la cual el Pleno debe aprobar definitivamente el presupuesto",
+        "La prórroga del presupuesto del ejercicio anterior"
+      ],
+      "correct": 2,
+      "exp": "El art. 50 fija la remisión al Pleno antes del 15 de octubre (letra c), el período de exposición pública de quince días (letra b) y la prórroga automática (letra f), pero no establece ninguna fecha límite para la aprobación definitiva por el Pleno.",
+      "fuente": "Art. 50 b), c) y f) Ley 10/2017 (capitalidad de Zaragoza)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 50.d) de la Ley 10/2017, las enmiendas al proyecto de presupuesto que supongan modificación de ingresos requerirán para su tramitación:",
+      "options": [
+        "Informe favorable previo de la Intervención General municipal",
+        "Dictamen previo del Consejo Jurídico Municipal",
+        "El acuerdo favorable del Consejo Bilateral de Capitalidad",
+        "La conformidad del Gobierno de Zaragoza"
+      ],
+      "correct": 3,
+      "exp": "El art. 50.d) exige la conformidad del Gobierno de Zaragoza para la tramitación de las enmiendas que supongan modificación de ingresos.",
+      "fuente": "Art. 50 d) Ley 10/2017 (capitalidad de Zaragoza)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Qué enmiendas al proyecto de presupuesto municipal quedan sujetas, por el art. 50.d) de la Ley 10/2017, a la conformidad del Gobierno de Zaragoza para poder tramitarse?",
+      "options": [
+        "Las que supongan modificación de ingresos",
+        "Únicamente las que supongan disminución de ingresos",
+        "Únicamente las que supongan aumento de los créditos para gastos del ejercicio en curso",
+        "Todas las enmiendas al proyecto de presupuesto, sin distinción alguna"
+      ],
+      "correct": 0,
+      "exp": "El art. 50.d) se refiere a las enmiendas «que supongan modificación de ingresos», sin limitarlo a las que los disminuyan. La referencia al aumento de créditos o disminución de ingresos del ejercicio en curso es la del art. 48.6, de alcance distinto.",
+      "fuente": "Art. 50 d) Ley 10/2017 (capitalidad de Zaragoza)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 50.e) de la Ley 10/2017, las enmiendas que afecten a los créditos para gastos del proyecto de presupuesto deberán presentarse:",
+      "options": [
+        "Acompañadas de informe de la Intervención sobre su repercusión en la estabilidad presupuestaria",
+        "Con el respaldo de, al menos, dos grupos políticos municipales",
+        "Compensando los incrementos y minoraciones de créditos dentro de la misma área de gobierno y misma naturaleza del gasto",
+        "Sin más requisito que su presentación en plazo ante la Comisión plenaria competente"
+      ],
+      "correct": 2,
+      "exp": "El art. 50.e) obliga a que las enmiendas que afecten a créditos para gastos se presenten compensando los incrementos y minoraciones de créditos dentro de la misma área de gobierno y misma naturaleza del gasto.",
+      "fuente": "Art. 50 e) Ley 10/2017 (capitalidad de Zaragoza)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Un Concejal presenta una enmienda al proyecto de presupuesto que incrementa un crédito de gasto corriente de un área de gobierno, minorando en la misma cuantía un crédito de gasto corriente de otra área de gobierno distinta. Conforme al art. 50.e) de la Ley 10/2017:",
+      "options": [
+        "Es admisible, porque el importe total del presupuesto de gastos no se altera",
+        "No es admisible, porque la compensación debe producirse dentro de la misma área de gobierno",
+        "Es admisible, porque se respeta la misma naturaleza del gasto en ambos créditos",
+        "Es admisible siempre que cuente con informe favorable de la Intervención General municipal"
+      ],
+      "correct": 1,
+      "exp": "El art. 50.e) exige que la compensación de incrementos y minoraciones se produzca dentro de la misma área de gobierno y, además, respetando la misma naturaleza del gasto. Compensar entre áreas de gobierno distintas incumple el primero de los dos límites, aunque no varíe el total.",
+      "fuente": "Art. 50 e) Ley 10/2017 (capitalidad de Zaragoza)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 50.f) de la Ley 10/2017, el presupuesto municipal de Zaragoza entrará en vigor:",
+      "options": [
+        "El 1 de enero del ejercicio correspondiente, aunque no se haya publicado todavía",
+        "A los quince días de su aprobación por el Pleno, con independencia de su publicación",
+        "Cuando lo acuerde el Gobierno de Zaragoza mediante decreto de ejecutividad",
+        "Para el ejercicio económico correspondiente, tras su publicación oficial"
+      ],
+      "correct": 3,
+      "exp": "El art. 50.f) dispone que el presupuesto entrará en vigor para el ejercicio económico correspondiente tras su publicación oficial.",
+      "fuente": "Art. 50 f) Ley 10/2017 (capitalidad de Zaragoza)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 50.f) de la Ley 10/2017, si el presupuesto municipal no hubiera entrado en vigor una vez iniciado el ejercicio económico:",
+      "options": [
+        "El Gobierno de Zaragoza aprobará un presupuesto provisional por doceavas partes hasta la entrada en vigor del definitivo",
+        "Se considerará automáticamente prorrogado el del ejercicio anterior",
+        "Deberá solicitarse autorización al Gobierno de Aragón para seguir disponiendo de los créditos",
+        "El Pleno deberá aprobarlo de urgencia en el plazo de un mes desde el inicio del ejercicio"
+      ],
+      "correct": 1,
+      "exp": "El art. 50.f) prevé que, si el presupuesto no ha entrado en vigor una vez iniciado el ejercicio económico, se considerará automáticamente prorrogado el del ejercicio anterior.",
+      "fuente": "Art. 50 f) Ley 10/2017 (capitalidad de Zaragoza)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 11.1.h) de la Ley 10/2017, corresponde al Pleno del Ayuntamiento de Zaragoza:",
+      "options": [
+        "La aprobación del proyecto de presupuesto y de la relación de puestos de trabajo",
+        "El desarrollo de la gestión económica y la disposición de gastos previamente autorizados",
+        "La aprobación de los presupuestos y de la cuenta general del ejercicio correspondiente, de la plantilla de personal, así como la autorización de gastos en las materias de su competencia",
+        "La aprobación de las retribuciones del personal de acuerdo con el presupuesto y de la oferta de empleo público"
+      ],
+      "correct": 2,
+      "exp": "El art. 11.1.h) atribuye al Pleno la aprobación de los presupuestos y de la cuenta general del ejercicio correspondiente, de la plantilla de personal y la autorización de gastos en las materias de su competencia. La aprobación del proyecto de presupuesto, la relación de puestos de trabajo, las retribuciones y la oferta de empleo público corresponden al Gobierno de Zaragoza (art. 14.1.b, h e i).",
+      "fuente": "Art. 11.1 h) Ley 10/2017 (capitalidad de Zaragoza)",
+      "confianza": "alta"
+    },
+    {
+      "q": "De acuerdo con el art. 11.3 de la Ley 10/2017, la atribución del Pleno consistente en la aprobación de los presupuestos y de la cuenta general (art. 11.1.h):",
+      "options": [
+        "Puede delegarse en el Gobierno de Zaragoza cuando así lo acuerde la Junta de Portavoces",
+        "No puede ser objeto de delegación",
+        "Solo puede delegarse en Comisiones del Pleno",
+        "Puede delegarse en el Alcalde, salvo que su aprobación exija mayoría especial"
+      ],
+      "correct": 1,
+      "exp": "El art. 11.3 declara indelegables las competencias del Pleno de las letras a), b), c), e), f), g), h), i), j), m), ñ) y q) del apartado 1, entre las que se encuentra la letra h) relativa a los presupuestos y la cuenta general.",
+      "fuente": "Art. 11.3 Ley 10/2017 (capitalidad de Zaragoza)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 11.1.g) de la Ley 10/2017, la determinación de los recursos propios de carácter tributario del municipio de Zaragoza corresponde:",
+      "options": [
+        "Al Pleno, tratándose además de una atribución no delegable conforme al art. 11.3",
+        "Al Gobierno de Zaragoza, como parte del desarrollo de la gestión económica",
+        "Al Alcalde, mediante decreto sujeto a ratificación plenaria",
+        "A la Comisión plenaria competente en materia de hacienda, por delegación permanente del Pleno"
+      ],
+      "correct": 0,
+      "exp": "El art. 11.1.g) atribuye al Pleno la determinación de los recursos propios de carácter tributario, y el art. 11.3 incluye la letra g) entre las competencias que no pueden ser objeto de delegación.",
+      "fuente": "Art. 11.1 g) y 11.3 Ley 10/2017 (capitalidad de Zaragoza)",
+      "confianza": "alta"
+    },
+    {
+      "q": "¿Cuál de las siguientes atribuciones en materia presupuestaria corresponde al Gobierno de Zaragoza según el art. 14.1 de la Ley 10/2017?",
+      "options": [
+        "La aprobación de la cuenta general del ejercicio correspondiente",
+        "La aprobación del proyecto de presupuesto",
+        "La determinación de los recursos propios de carácter tributario",
+        "La aprobación de la plantilla de personal"
+      ],
+      "correct": 1,
+      "exp": "El art. 14.1.b) atribuye al Gobierno de Zaragoza la aprobación del proyecto de presupuesto. La cuenta general, la plantilla de personal y los recursos propios de carácter tributario corresponden al Pleno (art. 11.1.g y h).",
+      "fuente": "Art. 14.1 b) Ley 10/2017 (capitalidad de Zaragoza)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 14.1.h) de la Ley 10/2017, corresponde al Gobierno de Zaragoza, en materia económica:",
+      "options": [
+        "Aprobar los presupuestos y autorizar los gastos en las materias de competencia del Pleno",
+        "Aprobar la cuenta general y fiscalizar la ejecución del presupuesto",
+        "Determinar los recursos propios de carácter tributario y aprobar las ordenanzas fiscales",
+        "El desarrollo de la gestión económica, autorizar y disponer gastos en materia de su competencia, disponer gastos previamente autorizados por el Pleno y la gestión del personal"
+      ],
+      "correct": 3,
+      "exp": "El art. 14.1.h) atribuye al Gobierno de Zaragoza el desarrollo de la gestión económica, la autorización y disposición de gastos en materia de su competencia, la disposición de gastos previamente autorizados por el Pleno y la gestión del personal.",
+      "fuente": "Art. 14.1 h) Ley 10/2017 (capitalidad de Zaragoza)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 14.2 de la Ley 10/2017, la atribución del Gobierno de Zaragoza relativa al desarrollo de la gestión económica y a la autorización y disposición de gastos (art. 14.1.h):",
+      "options": [
+        "Puede delegarse o desconcentrarse, entre otros, en alguno de sus miembros, en los demás Concejales, en los órganos directivos, en las gerencias y en los órganos de los distritos",
+        "No puede delegarse ni desconcentrarse en ningún caso",
+        "Solo puede delegarse en el Alcalde",
+        "Solo puede delegarse previa autorización del Consejo Bilateral de Capitalidad"
+      ],
+      "correct": 0,
+      "exp": "El art. 14.2 incluye la letra h) del apartado 1 entre las funciones que el Gobierno de Zaragoza puede delegar o desconcentrar en alguno de sus miembros, en los demás Concejales, en los órganos directivos, en las gerencias y en los órganos de los distritos.",
+      "fuente": "Art. 14.2 Ley 10/2017 (capitalidad de Zaragoza)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 56.3 de la Ley 10/2017, toda iniciativa de la Comunidad Autónoma que pudiera determinar la reducción de sus ingresos no financieros habrá de incluir un análisis sobre el impacto en la financiación local y, en particular:",
+      "options": [
+        "Ser autorizada por las Cortes de Aragón por mayoría absoluta",
+        "Ser compensada íntegramente en el ejercicio siguiente al Ayuntamiento de Zaragoza",
+        "Ser sometida a dictamen del Consejo Jurídico Municipal de Zaragoza",
+        "Deberá someterse a informe del Ayuntamiento de Zaragoza"
+      ],
+      "correct": 3,
+      "exp": "El art. 56.3, tras vincular la participación de los entes locales aragoneses a la evolución de los ingresos no financieros de la Comunidad Autónoma, exige que toda iniciativa que pudiera reducirlos incluya un análisis de impacto en la financiación local y se someta a informe del Ayuntamiento de Zaragoza.",
+      "fuente": "Art. 56.3 Ley 10/2017 (capitalidad de Zaragoza)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 57.1 de la Ley 10/2017, el Convenio bilateral económico-financiero se suscribe previo informe del Consejo Bilateral de Capitalidad y fija el importe de determinadas asignaciones, que:",
+      "options": [
+        "Se incluirán en el Proyecto de Ley de presupuestos de la Comunidad Autónoma de Aragón",
+        "Se incluirán en el presupuesto del Ayuntamiento de Zaragoza como ingresos afectados",
+        "Se librarán mediante anticipos de la Diputación Provincial de Zaragoza",
+        "Se determinarán anualmente por el Pleno del Ayuntamiento de Zaragoza"
+      ],
+      "correct": 0,
+      "exp": "El art. 57.1 establece que las asignaciones fijadas en el Convenio bilateral económico-financiero se incluirán en el Proyecto de Ley de presupuestos de la Comunidad Autónoma de Aragón, y que el Convenio se suscribe previo informe del Consejo Bilateral de Capitalidad.",
+      "fuente": "Art. 57.1 Ley 10/2017 (capitalidad de Zaragoza)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 57.2 de la Ley 10/2017, las asignaciones fijadas en el Convenio bilateral económico-financiero entre el Gobierno de Aragón y el Ayuntamiento de Zaragoza tendrán la consideración de:",
+      "options": [
+        "Subvenciones nominativas sujetas a justificación de su destino",
+        "Transferencias de capital afectadas a inversión",
+        "Fondos incondicionados",
+        "Anticipos reintegrables a cuenta de la liquidación del ejercicio"
+      ],
+      "correct": 2,
+      "exp": "El art. 57.2 dispone expresamente que las asignaciones a que se refiere el apartado 1 tendrán la consideración de fondos incondicionados.",
+      "fuente": "Art. 57.2 Ley 10/2017 (capitalidad de Zaragoza)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 57.3 de la Ley 10/2017, el Convenio bilateral económico-financiero entre el Gobierno de Aragón y el Ayuntamiento de Zaragoza tendrá una vigencia mínima de:",
+      "options": [
+        "Un año, coincidente con el ejercicio presupuestario",
+        "Cuatro años",
+        "Dos años, prorrogables por otros dos",
+        "Toda la legislatura autonómica, sin plazo mínimo predeterminado"
+      ],
+      "correct": 1,
+      "exp": "El art. 57.3 fija una vigencia mínima de cuatro años para el Convenio bilateral económico-financiero, que podrá modificarse cuando se produzcan circunstancias que, a juicio del Consejo Bilateral de Capitalidad, alteren sustancialmente los supuestos básicos en que se funda.",
+      "fuente": "Art. 57.3 Ley 10/2017 (capitalidad de Zaragoza)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 58.4 de la Ley 10/2017, la delegación de competencias entre el Gobierno de Aragón y el Ayuntamiento de Zaragoza habrá de ir acompañada en todo caso de la correspondiente financiación, de modo que:",
+      "options": [
+        "Podrá aceptarse sin dotación presupuestaria, si la Administración delegada asume transitoriamente el coste",
+        "La falta de dotación presupuestaria solo faculta para instar la revisión del convenio",
+        "Bastará con que la dotación se consigne en el presupuesto del ejercicio siguiente al de la delegación",
+        "Será nula sin la existencia de dotación presupuestaria adecuada y suficiente en los presupuestos de la Administración delegante o sus entidades dependientes para cada ejercicio económico"
+      ],
+      "correct": 3,
+      "exp": "El art. 58.4 exige dotación presupuestaria adecuada y suficiente en los presupuestos de la Administración delegante o sus entidades dependientes para cada ejercicio económico, «siendo nula sin dicha dotación», y faculta a la delegada para compensar automáticamente los incumplimientos financieros.",
+      "fuente": "Art. 58.4 Ley 10/2017 (capitalidad de Zaragoza)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Según el art. 59.1 de la Ley 10/2017, y salvo que existan previsiones o acuerdos específicos, las asignaciones a que se refieren los artículos anteriores se abonarán al Ayuntamiento de Zaragoza:",
+      "options": [
+        "Trimestralmente",
+        "Mensualmente, por doceavas partes",
+        "Semestralmente",
+        "En un único pago anual, dentro del primer trimestre del ejercicio"
+      ],
+      "correct": 0,
+      "exp": "El art. 59.1 establece el abono trimestral de las asignaciones al Ayuntamiento de Zaragoza, salvo que existan previsiones o acuerdos específicos.",
+      "fuente": "Art. 59.1 Ley 10/2017 (capitalidad de Zaragoza)",
+      "confianza": "alta"
+    },
+    {
+      "q": "Conforme al art. 59.2 de la Ley 10/2017, la compensación de oficio por el Gobierno de Aragón de estos créditos con otras cantidades que el Ayuntamiento de Zaragoza le adeude, tratándose de deudas vencidas, líquidas y exigibles, se llevará a cabo:",
+      "options": [
+        "En cualquier momento del ejercicio, sin trámite previo alguno",
+        "En el primer trimestre del ejercicio siguiente, previa autorización de las Cortes de Aragón",
+        "En el último trimestre de cada ejercicio, previa audiencia al Ayuntamiento de Zaragoza y previo acuerdo del Consejo Bilateral de Capitalidad",
+        "Al cierre de cada trimestre natural, con simple comunicación posterior al Ayuntamiento"
+      ],
+      "correct": 2,
+      "exp": "El art. 59.2 permite al Gobierno de Aragón compensar de oficio estos créditos previa audiencia al Ayuntamiento de Zaragoza, siempre que se trate de deudas vencidas, líquidas y exigibles, y precisa que la compensación se llevará a cabo en el último trimestre de cada ejercicio y previo acuerdo del Consejo Bilateral de Capitalidad.",
+      "fuente": "Art. 59.2 Ley 10/2017 (capitalidad de Zaragoza)",
+      "confianza": "alta"
+    }
+  ]
+}
