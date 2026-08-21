@@ -1825,3 +1825,85 @@ Archivadas en `data/reserva/banco-original-auditado-9.json`.
 tandas, **sobreescribía lo archivado en la primera**. Se perdió una pregunta y
 la recuperé de git. El script ahora fusiona por enunciado y avisa de cuántas
 rescata.
+
+
+---
+
+## Tema 11 · auditado (21-ago-2026)
+
+Las 97 del banco original: **17 confirmadas, 70 corregidas, 9 descartadas y 1
+dudosa**. Es el tema con más correcciones de la campaña, porque más de la mitad
+de sus citas no decían el artículo. Tema 11: **254 → 244**. Banco: **5.677 →
+5.674**. Citas sin artículo en el tema: **49 → 1**.
+
+### Tres con la respuesta mal, y las tres por reformas de 2013
+
+- **El art. 84 ter no regula la motivación de licencias concurrentes**: eso es
+  el **art. 84 bis.3**, apartado añadido por la Ley 27/2013. El 84 ter regula
+  los procedimientos de **comunicación y de verificación posterior** cuando la
+  actividad no precisa autorización previa. Ninguna de las cuatro opciones era
+  correcta. Es exactamente el error que se avisaba al auditor: 84 / 84 bis /
+  84 ter mezclados en la misma casilla.
+- **Mataderos, mercados y lonjas centrales ya no son servicios reservados.**
+  Desaparecieron del art. 86.2 al reescribirlo el art. 1.23 de la Ley 27/2013.
+  La lista vigente es: abastecimiento domiciliario y depuración de aguas;
+  recogida, tratamiento y aprovechamiento de residuos; y transporte público de
+  viajeros.
+- **La sociedad mercantil local no puede tener capital «mayoritariamente»
+  público**: esa es la redacción anterior a 2013. El art. 85.2 A) d) vigente
+  dice «cuyo capital social sea **de titularidad pública**», y el art. 85 ter.2
+  exige que el capital lo aporten Administraciones Públicas o entidades de su
+  sector público. «Mayoritariamente» admitiría capital privado, incompatible con
+  la gestión directa.
+
+### Preceptos derogados o anulados encontrados
+
+| Precepto | Estado | Preguntas afectadas |
+|---|---|---|
+| **art. 87 LBRL** (consorcios) | **(Derogado)** desde 2-oct-2016, disp. derog. única.a) Ley 40/2015 | 8 — cuatro reancladas en el art. 118.1 LRJSP, cuatro que lo citaban dentro del tramo «arts. 85 a 87» |
+| **art. 85.3 LBRL** | **suprimido** por la Ley 27/2013 | 2 — una descartada por obsoleta, otra con la exp corregida |
+| **arts. 19 y 20 Ley 20/2013** | **(Anulado)** por STC 79/2017 | 1, descartada: enseñaba el «principio de eficacia en todo el territorio nacional» como derecho vigente |
+
+Al reanclar los consorcios hubo que ajustar la respuesta, no solo la cita: **la
+LRJSP ya no limita la participación privada a entidades «sin ánimo de lucro»**,
+como hacía el derogado art. 87 LBRL.
+
+Dos avisos que se comprobaron y **no** se materializaron: no hay una sola
+pregunta que cite el **RSCL de 1955**, y el art. 84 LBRL está bien reflejado en
+su redacción posterior a la Ley 25/2009. Sí había errores de *letra* dentro del
+84: las «órdenes individuales» son la **letra e)**, no la c), y una pregunta
+omitía la **letra d)** (control posterior al inicio de la actividad).
+
+### Remisiones muertas que la propia LBRL conserva
+
+Tres preguntas daban por vigente la norma que la LBRL cita sin haber actualizado
+la remisión: la **LOFAGE**, el **TRLCSP (RDLeg 3/2011)** y el **art. 71 bis de
+la Ley 30/1992** que menciona el art. 84.1.c). Ahora las explicaciones lo
+advierten en lugar de dar la norma por viva. Ojo con una consecuencia de esto:
+**la Ley 39/2015 no tiene art. 71 bis**; su equivalente es el **art. 69**.
+
+### Siete reubicadas en lugar de archivadas
+
+| Materia | Va al tema |
+|---|---|
+| Uso común general, especial y privativo del dominio público (2) | 10 · bienes |
+| Tasa por licencia y deslinde tasas/precios públicos (2) | 12 · haciendas I |
+| Órgano y mayoría para aprobar una ordenanza (2) | 16 · reglamentos |
+| Recurso frente a la denegación de una licencia (1) | 8 · revisión de actos |
+
+Solo **2 se archivaron** (`data/reserva/banco-original-auditado-11.json`) y **1
+queda pendiente de decisión humana** en `data/pendientes/`: el papel general de
+la LRSAL en el régimen local, cierto pero sin tema que lo recoja limpiamente.
+
+### HUECO DE COBERTURA: el fomento
+
+El epígrafe del tema tiene cuatro bloques —actividad, policía, **fomento**,
+servicio público— y el banco cubre tres. **De 244 preguntas, solo dos mencionan
+el fomento**, y ninguna de forma sustantiva: una lo contrapone a la intervención
+limitativa y la otra recita la tríada policía / fomento / servicio público.
+
+**Cero preguntas sobre la Ley 38/2003, General de Subvenciones**: nada de
+concepto de subvención, principios, concurrencia competitiva, beneficiarios y
+entidades colaboradoras, justificación, reintegro ni control financiero. Si el
+tribunal pregunta por el fomento, este banco no prepara para ello. Es el hueco
+más claro que queda en toda la oposición y hace falta un lote propio.

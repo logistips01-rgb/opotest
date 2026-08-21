@@ -1,0 +1,32 @@
+{
+ "11": [
+  {
+   "q": "Según la doctrina sobre la sociedad mercantil local, ¿pueden estas sociedades prestar servicios que impliquen ejercicio de autoridad?",
+   "options": [
+    "Sí, únicamente si lo autoriza el Consejo de Estado en cada caso",
+    "No, quedan excluidas junto con las demás formas de gestión indirecta",
+    "Sí, sin ninguna restricción",
+    "Sí, pero solo si su capital es íntegramente privado"
+   ],
+   "correct": 1,
+   "exp": "Conforme al criterio consolidado en la reforma del art. 85 ter, la sociedad mercantil local (junto con las formas de gestión indirecta) queda excluida de la prestación de servicios que impliquen ejercicio de autoridad.",
+   "fuente": "Art. 85 LBRL (Ley 7/1985)",
+   "motivoArchivo": "OBSOLETA. La prohibición que invoca estaba en el art. 85.3 LBRL ('en ningún caso podrán prestarse por gestión indirecta ni mediante sociedad mercantil de capital social exclusivamente local los servicios públicos que impliquen ejercicio de autoridad'), SUPRIMIDO por el art. 1.21 de la Ley 27/2013. Además la opción marcada es doblemente falsa: la sociedad mercantil local es forma de gestión DIRECTA (art. 85.2 A) d)), no indirecta. Hoy la limitación se articula por el art. 95.1 TRRL y el art. 9.2 TRLEBEP.",
+   "temaOrigen": 11
+  },
+  {
+   "q": "¿Qué papel desempeña el principio de eficacia en todo el territorio nacional, vinculado a la Ley de Unidad de Mercado, respecto a las licencias y autorizaciones concedidas por una Entidad Local?",
+   "options": [
+    "El principio de eficacia en todo el territorio nacional solo se aplica a las leyes estatales",
+    "Con carácter general, una autorización concedida conforme a dicho principio puede desplegar efectos en otras partes del territorio nacional, sin necesidad de trámites adicionales, en los términos que fija la normativa aplicable",
+    "Cada Entidad Local puede ignorar libremente las autorizaciones concedidas por otras",
+    "Las licencias municipales nunca tienen efectos fuera del término municipal que las concede"
+   ],
+   "correct": 1,
+   "exp": "El principio de eficacia en todo el territorio nacional, propio de la normativa de garantía de la unidad de mercado, permite que ciertas autorizaciones concedidas conforme a sus reglas desplieguen efectos en otras partes del territorio, evitando duplicidades de trámites entre Administraciones.",
+   "fuente": "LBRL (Ley 7/1985)",
+   "motivoArchivo": "OBSOLETA. La pregunta enseña como vigente el 'principio de eficacia en todo el territorio nacional': el art. 6 de la Ley 20/2013 que lo enunciaba fue declarado INCONSTITUCIONAL Y NULO por la STC 110/2017, de 5 de octubre, y los arts. 19 y 20, que lo instrumentaban, por la STC 79/2017, de 22 de junio. No es salvable sin invertir su sentido.",
+   "temaOrigen": 11
+  }
+ ]
+}

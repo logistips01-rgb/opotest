@@ -50329,3 +50329,103 @@ window.addQuestions('aux-admin-zaragoza', 14, [
     "confianza": "alta"
   }
 ]);
+
+/* Reubicadas en la auditoría del banco original de agosto de 2026: correctas
+   y dentro del temario, pero el epígrafe que las reclama es otro. Llevan ya la
+   cita verificada contra el consolidado del BOE. */
+window.addQuestions("aux-admin-zaragoza", 8, [
+  {
+    "q": "¿Qué papel desempeña el recurso de reposición o el recurso de alzada frente a la denegación de una licencia municipal, en función de si el acto pone fin a la vía administrativa?",
+    "options": [
+      "Si el acto pone fin a la vía administrativa, cabe recurso potestativo de reposición; si no la pone fin, cabe recurso de alzada ante el superior jerárquico",
+      "El recurso de alzada siempre es obligatorio antes de acudir a los tribunales, sin excepción",
+      "Nunca cabe recurso alguno contra la denegación de una licencia municipal",
+      "Solo cabe recurso directo ante el Tribunal Constitucional"
+    ],
+    "correct": 0,
+    "exp": "Frente a la denegación de una licencia, si el acto pone fin a la vía administrativa (como es habitual en resoluciones del Alcalde o del Pleno), cabe el recurso potestativo de reposición; si no pusiera fin a dicha vía, procedería, en su caso, el recurso de alzada. (Venía del tema 11 del banco original; reubicada aquí en la auditoría de agosto de 2026: FUERA DE ALCANCE. La pregunta versa sobre el sistema de recursos administrativos (arts. 112, 121 y 123 de la Ley 39/2015, y art. 52 LBRL), materia de revisión de actos y no de la actividad de intervención, fomento o servicio público local. Contenido correcto, reubicable.)",
+    "fuente": "LBRL (Ley 7/1985)"
+  }
+]);
+
+window.addQuestions("aux-admin-zaragoza", 10, [
+  {
+    "q": "¿Qué diferencia existe entre uso 'común general' y uso 'común especial' del dominio público local, a efectos de la técnica de intervención aplicable?",
+    "options": [
+      "El uso común general no requiere autorización y es compatible con el de cualquier otra persona; el uso común especial, por su intensidad o singularidad, se somete a licencia",
+      "El uso común especial nunca puede autorizarse en dominio público local",
+      "El uso común general siempre requiere concesión administrativa",
+      "Ambos tipos de uso están sometidos exactamente al mismo régimen de intervención"
+    ],
+    "correct": 0,
+    "exp": "El uso común general (pasear por una calle) no requiere autorización previa por ser compatible con el uso de cualquier otra persona; el uso común especial (por ejemplo, una terraza) implica cierta singularidad y se somete, con carácter general, a licencia. (Venía del tema 11 del banco original; reubicada aquí en la auditoría de agosto de 2026: FUERA DE ALCANCE. Los usos del dominio público local (uso común general, común especial, privativo) son materia del régimen de bienes de las entidades locales, expresamente excluida del epígrafe del tema 11. El contenido es correcto y aprovechable en su tema.)",
+    "fuente": "LBRL (Ley 7/1985)"
+  },
+  {
+    "q": "¿Qué tipo de acto administrativo habilita el uso privativo de dominio público local que suponga exclusión de la utilización por terceros mediante instalaciones fijas?",
+    "options": [
+      "Silencio administrativo positivo automático",
+      "Concesión administrativa",
+      "Ninguno, basta la ocupación de hecho",
+      "Simple comunicación previa del interesado"
+    ],
+    "correct": 1,
+    "exp": "El uso privativo del dominio público que excluye la utilización por terceros mediante instalaciones fijas se somete, con carácter general, al régimen de concesión administrativa. (Venía del tema 11 del banco original; reubicada aquí en la auditoría de agosto de 2026: FUERA DE ALCANCE. Uso privativo del dominio público local y concesión administrativa: régimen de bienes de las entidades locales, no de la policía administrativa ni de las formas de gestión del servicio público. Contenido correcto, reubicable.)",
+    "fuente": "LBRL (Ley 7/1985)"
+  }
+]);
+
+window.addQuestions("aux-admin-zaragoza", 12, [
+  {
+    "q": "¿Puede una Entidad Local exigir el pago de una tasa por el otorgamiento de una licencia de intervención administrativa?",
+    "options": [
+      "Sí, pero solo si el solicitante es una persona jurídica extranjera",
+      "No, salvo que lo autorice previamente el Consejo de Ministros",
+      "Sí, en concepto de tasa por prestación de servicios o realización de actividades administrativas de su competencia",
+      "No, las licencias son siempre gratuitas por mandato constitucional"
+    ],
+    "correct": 2,
+    "exp": "Las Entidades Locales pueden establecer y exigir tasas por el otorgamiento de licencias u otras actuaciones administrativas de su competencia, conforme a la legislación reguladora de las Haciendas Locales. (Venía del tema 11 del banco original; reubicada aquí en la auditoría de agosto de 2026: FUERA DE ALCANCE. La pregunta se resuelve con el art. 20.4 h) e i) del TRLRHL (RDLeg 2/2004): es materia de recursos de las Haciendas Locales, expresamente excluida del epígrafe. Contenido correcto, reubicable.)",
+    "fuente": "LBRL (Ley 7/1985)"
+  },
+  {
+    "q": "¿Qué relación existe entre la calificación de un servicio como de recepción obligatoria y el régimen de la tasa que financia su prestación?",
+    "options": [
+      "Los servicios obligatorios nunca pueden financiarse mediante ningún tipo de exacción",
+      "No existe ninguna relación entre ambos aspectos",
+      "Los servicios de recepción obligatoria se financian, con carácter general, mediante tasas, mientras que los prestados en régimen de libre concurrencia con el sector privado pueden financiarse mediante precios públicos",
+      "Los precios públicos solo se aplican a servicios prestados por el Estado, nunca por Entidades Locales"
+    ],
+    "correct": 2,
+    "exp": "Conforme a la legislación de Haciendas Locales, los servicios de recepción obligatoria y que no se presten en régimen de libre concurrencia con el sector privado se financian, con carácter general, mediante tasas; en cambio, otros servicios pueden financiarse mediante precios públicos, según las reglas de la normativa tributaria local. (Venía del tema 11 del banco original; reubicada aquí en la auditoría de agosto de 2026: FUERA DE ALCANCE. La pregunta versa sobre el deslinde entre tasas y precios públicos (arts. 20.1 B) y 41 del TRLRHL): materia de recursos de las Haciendas Locales, expresamente excluida del epígrafe. Contenido correcto, reubicable.)",
+    "fuente": "LBRL (Ley 7/1985)"
+  }
+]);
+
+window.addQuestions("aux-admin-zaragoza", 16, [
+  {
+    "q": "¿Qué órgano municipal aprueba, con carácter general, las ordenanzas municipales que desarrollan el régimen de intervención administrativa sobre actividades (por ejemplo, una ordenanza de terrazas)?",
+    "options": [
+      "El Alcalde por decreto, sin intervención del Pleno",
+      "El Secretario municipal",
+      "El Pleno del Ayuntamiento",
+      "La Junta de Gobierno Local en exclusiva"
+    ],
+    "correct": 2,
+    "exp": "Conforme al art. 22.2 d) LBRL, la aprobación del reglamento orgánico y de las ordenanzas municipales, incluidas las que desarrollan el régimen de intervención sobre actividades, corresponde al Pleno del Ayuntamiento. (Venía del tema 11 del banco original; reubicada aquí en la auditoría de agosto de 2026: FUERA DE ALCANCE. Pregunta el órgano competente para aprobar ordenanzas municipales (art. 22.2 d) LBRL): es el régimen de elaboración y aprobación de las ordenanzas, propio del tema de reglamentos y ordenanzas, no la policía administrativa. Contenido correcto, reubicable.)",
+    "fuente": "Art. 22.2 d) LBRL (Ley 7/1985)"
+  },
+  {
+    "q": "¿Qué mayoría exige, con carácter general, el Pleno para aprobar una ordenanza municipal que desarrolle el régimen de intervención sobre actividades?",
+    "options": [
+      "Mayoría absoluta en todo caso, sin excepción alguna",
+      "Unanimidad de todos los concejales sin excepción",
+      "Dos tercios de los miembros de la Corporación en todo caso",
+      "Mayoría simple de los miembros presentes, salvo que una norma exija expresamente una mayoría cualificada"
+    ],
+    "correct": 3,
+    "exp": "Con carácter general, la aprobación de ordenanzas municipales se realiza por mayoría simple de los miembros presentes, salvo que una norma legal exija expresamente una mayoría cualificada para un supuesto concreto. (Venía del tema 11 del banco original; reubicada aquí en la auditoría de agosto de 2026: FUERA DE ALCANCE. Pregunta el régimen de mayorías para aprobar una ordenanza (art. 47.1 LBRL): materia de funcionamiento de los órganos y de elaboración de ordenanzas, no de la actividad de intervención. La respuesta es correcta y reubicable.)",
+    "fuente": "LBRL (Ley 7/1985)"
+  }
+]);
+

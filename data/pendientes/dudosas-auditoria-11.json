@@ -1,0 +1,16 @@
+[
+ {
+  "q": "¿Qué papel general desempeñó la LRSAL (Ley 27/2013) en el conjunto del régimen local español, más allá de la reforma del art. 85 LBRL?",
+  "options": [
+   "Reforzó el control de la estabilidad presupuestaria y la racionalización del sector público local, entre otras medidas, reforzando el papel de las Diputaciones en servicios mínimos",
+   "Amplió sin límite las competencias propias de todos los municipios",
+   "Trasladó todas las competencias locales al Estado central",
+   "Suprimió la figura del Alcalde en todos los municipios de España"
+  ],
+  "correct": 0,
+  "exp": "La LRSAL, entre otras finalidades, reforzó el control de la estabilidad presupuestaria y la racionalización de las estructuras del sector público local, reforzando el papel de las Diputaciones Provinciales en la prestación de servicios mínimos municipales.",
+  "fuente": "LBRL (Ley 7/1985)",
+  "temaOrigen": 11,
+  "duda": "El contenido es cierto, pero la pregunta se sale del epígrafe: valora la LRSAL 'en el conjunto del régimen local' (estabilidad presupuestaria, papel de las Diputaciones en servicios mínimos), materia de competencias y organización. Decisión humana: mantenerla como pregunta de contexto o reubicarla; no hay un tema del temario que la recoja limpiamente."
+ }
+]

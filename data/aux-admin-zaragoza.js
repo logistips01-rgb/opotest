@@ -12430,19 +12430,19 @@ const QUESTIONS = {
       "Contratación"
     ],
     "correct": 0,
-    "exp": "El Capítulo II del Título VI de la Ley 7/1985 lleva por título 'Actividades y servicios' y comprende los artículos 84 a 88.",
-    "fuente": "Capítulo II LBRL (Ley 7/1985)"
+    "exp": "El Capítulo II del Título VI de la Ley 7/1985 lleva por título 'Actividades y servicios' y comprende los artículos 84 a 87 (el art. 88, sobre contratación, integra ya el Capítulo III).",
+    "fuente": "Capítulo II del Título VI LBRL, arts. 84 a 87 (Ley 7/1985)"
   },
   {
     "q": "Según el art. 84.1 de la LBRL, ¿a través de qué medios pueden las Entidades locales intervenir la actividad de los ciudadanos?",
     "options": [
       "Únicamente mediante sanciones penales directas",
-      "Ordenanzas y bandos; sometimiento a previa licencia; sometimiento a comunicación previa o declaración responsable; y órdenes individuales",
+      "Ordenanzas y bandos; previa licencia u otros actos de control preventivo; comunicación previa o declaración responsable; control posterior al inicio de la actividad; y órdenes individuales",
       "Solo a través de convenios privados con las empresas",
       "Exclusivamente mediante la expropiación forzosa"
     ],
     "correct": 1,
-    "exp": "Art. 84.1 LBRL: las Entidades locales pueden intervenir la actividad de los ciudadanos mediante ordenanzas y bandos, sometimiento a previa licencia u otros actos de control preventivo, sometimiento a comunicación previa o declaración responsable, y órdenes individuales.",
+    "exp": "Art. 84.1 LBRL: a) ordenanzas y bandos; b) sometimiento a previa licencia y otros actos de control preventivo; c) sometimiento a comunicación previa o declaración responsable; d) sometimiento a control posterior al inicio de la actividad; e) órdenes individuales constitutivas de mandato para la ejecución de un acto o su prohibición.",
     "fuente": "Art. 84.1 LBRL (Ley 7/1985)"
   },
   {
@@ -12466,8 +12466,8 @@ const QUESTIONS = {
       "La legislación del procedimiento administrativo común"
     ],
     "correct": 3,
-    "exp": "Art. 84.1 c): el sometimiento a comunicación previa o declaración responsable se ajusta a lo previsto en la legislación del procedimiento administrativo común (actualmente, Ley 39/2015).",
-    "fuente": "Art. 84.1 c) LBRL (Ley 7/1985)"
+    "exp": "Art. 84.1 c) LBRL: el sometimiento a comunicación previa o declaración responsable se realiza 'de conformidad con lo establecido en el artículo 71 bis de la Ley 30/1992'. Esa remisión literal no se ha actualizado en el consolidado, pero hoy debe entenderse hecha al art. 69 de la Ley 39/2015, es decir, a la legislación del procedimiento administrativo común.",
+    "fuente": "Art. 84.1 c) LBRL (Ley 7/1985), en relación con el art. 69 de la Ley 39/2015"
   },
   {
     "q": "El art. 84 bis de la LBRL establece como regla general que el ejercicio de actividades no se someterá a:",
@@ -12479,7 +12479,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "Art. 84 bis.1: 'con carácter general, el ejercicio de actividades no se someterá a la obtención de licencia u otro medio de control preventivo.'",
-    "fuente": "Art. 84 bis LBRL (Ley 7/1985)"
+    "fuente": "Art. 84 bis.1 LBRL (Ley 7/1985)"
   },
   {
     "q": "Según el art. 84 bis, en caso de existencia de licencias o autorizaciones concurrentes entre una Entidad Local y otra Administración, ¿qué debe hacer la Entidad Local que exige su propia autorización?",
@@ -12490,11 +12490,11 @@ const QUESTIONS = {
       "Motivar expresamente el interés general concreto que se pretende proteger y que no está ya cubierto por otra autorización existente"
     ],
     "correct": 3,
-    "exp": "Art. 84 bis: la Entidad Local debe motivar expresamente el interés general concreto que se pretende proteger y que este no se encuentra ya cubierto mediante otra autorización existente.",
-    "fuente": "Art. 84 bis LBRL (Ley 7/1985)"
+    "exp": "Art. 84 bis.3 LBRL (apartado añadido por la Ley 27/2013): en caso de licencias o autorizaciones concurrentes entre una Entidad Local y otra Administración, la Entidad Local deberá motivar expresamente el interés general concreto que se pretende proteger y que este no se encuentra ya cubierto mediante otra autorización ya existente.",
+    "fuente": "Art. 84 bis.3 LBRL (Ley 7/1985)"
   },
   {
-    "q": "Según el art. 84 bis, cuando el ejercicio de una actividad no precise autorización habilitante previa, ¿qué deben establecer las Entidades locales?",
+    "q": "Según el art. 84 ter de la LBRL, cuando el ejercicio de una actividad no precise autorización habilitante y previa, ¿qué deben establecer las Entidades locales?",
     "options": [
       "Procedimientos de comunicación y de verificación posterior del cumplimiento de los requisitos exigidos",
       "Una tasa fija anual sustitutiva de la licencia",
@@ -12502,20 +12502,20 @@ const QUESTIONS = {
       "Ninguna medida adicional, la actividad queda completamente libre de control"
     ],
     "correct": 0,
-    "exp": "Art. 84 bis: cuando no se precise autorización previa, las Entidades locales deberán establecer y planificar los procedimientos de comunicación necesarios, así como los de verificación posterior del cumplimiento de los requisitos.",
-    "fuente": "Art. 84 bis LBRL (Ley 7/1985)"
+    "exp": "Art. 84 ter LBRL: cuando el ejercicio de actividades no precise autorización habilitante y previa, las Entidades locales deberán establecer y planificar los procedimientos de comunicación necesarios, así como los de verificación posterior del cumplimiento de los requisitos previstos en la legislación sectorial.",
+    "fuente": "Art. 84 ter LBRL (Ley 7/1985)"
   },
   {
     "q": "El art. 84 ter de la LBRL, introducido por la Ley de Economía Sostenible, se refiere específicamente a:",
     "options": [
       "El régimen de arbitraje en Derecho local",
-      "La motivación en supuestos de licencias o autorizaciones concurrentes entre distintas Administraciones",
+      "Los procedimientos de comunicación y de verificación posterior cuando el ejercicio de la actividad no precise autorización habilitante y previa",
       "La creación de consorcios locales",
       "La reserva de servicios esenciales a favor de las Entidades locales"
     ],
     "correct": 1,
-    "exp": "El art. 84 ter, introducido por la Ley 2/2011, de Economía Sostenible, desarrolla la exigencia de motivación cuando existan licencias o autorizaciones concurrentes entre una Entidad Local y otra Administración.",
-    "fuente": "Art. 84 ter LBRL (Ley 7/1985)"
+    "exp": "El art. 84 ter, añadido por el art. 41.2 de la Ley 2/2011, de Economía Sostenible, obliga a las Entidades locales a establecer y planificar los procedimientos de comunicación y los de verificación posterior del cumplimiento de los requisitos cuando la actividad no precise autorización previa. La motivación en caso de licencias concurrentes es, en cambio, el art. 84 bis.3.",
+    "fuente": "Art. 84 ter LBRL (añadido por el art. 41.2 de la Ley 2/2011)"
   },
   {
     "q": "Según el art. 85.2 de la LBRL, los servicios públicos de competencia local habrán de gestionarse de la forma:",
@@ -12539,7 +12539,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "Art. 85.2 A): 'se recabará informe del interventor local quien valorará la sostenibilidad financiera de las propuestas planteadas, de conformidad con lo previsto en el artículo 4 de la Ley Orgánica 2/2012.'",
-    "fuente": "Art. 85.2 LBRL (Ley 7/1985)"
+    "fuente": "Art. 85.2 A), párrafo segundo, LBRL (Ley 7/1985), en relación con el art. 4 de la LO 2/2012"
   },
   {
     "q": "Según el art. 85.2 B) de la LBRL, la gestión indirecta de servicios públicos locales se realiza mediante:",
@@ -12550,8 +12550,8 @@ const QUESTIONS = {
       "La cesión gratuita permanente e irrevocable del servicio"
     ],
     "correct": 1,
-    "exp": "Art. 85.2 B): la gestión indirecta se realiza mediante las distintas formas previstas para el contrato de gestión de servicios públicos (hoy, esencialmente, el contrato de concesión de servicios de la LCSP).",
-    "fuente": "Art. 85.2 b) LBRL (Ley 7/1985)"
+    "exp": "Art. 85.2 B) LBRL: la gestión indirecta se realiza 'mediante las distintas formas previstas para el contrato de gestión de servicios públicos en el texto refundido de la Ley de Contratos del Sector Público, aprobado por Real Decreto Legislativo 3/2011'. Esa remisión no se ha actualizado en la LBRL, pero hoy debe entenderse hecha a la Ley 9/2017 (LCSP), cuyo contrato de concesión de servicios (art. 15) es su equivalente.",
+    "fuente": "Art. 85.2 B) LBRL (Ley 7/1985), en relación con el art. 15 de la Ley 9/2017"
   },
   {
     "q": "¿Qué principio general y ampliamente reconocido rige en cuanto a la posibilidad de gestión indirecta de los servicios públicos locales que impliquen ejercicio de autoridad?",
@@ -12562,8 +12562,8 @@ const QUESTIONS = {
       "Pueden prestarse indistintamente por gestión directa o indirecta, sin ninguna limitación"
     ],
     "correct": 2,
-    "exp": "Es un principio consolidado del régimen local (recogido tanto en la LBRL como en el art. 95.1 del TRRL) que los servicios públicos que impliquen ejercicio de autoridad solo pueden prestarse mediante gestión directa, nunca indirecta.",
-    "fuente": "Art. 95.1 TRRL (RDLeg 781/1986)"
+    "exp": "Art. 95.1 TRRL (vigente): 'Los servicios públicos locales... podrán ser gestionados directa o indirectamente. Sin embargo, los servicios que impliquen ejercicio de autoridad solo podrán ser ejercidos por gestión directa'. Ojo: el art. 85.3 LBRL, que contenía una regla equivalente, fue suprimido por la Ley 27/2013; hoy la regla se apoya en el art. 95.1 TRRL y en el art. 9.2 del TRLEBEP.",
+    "fuente": "Art. 95.1 TRRL (RDLeg 781/1986), en relación con el art. 9.2 del TRLEBEP (RDLeg 5/2015)"
   },
   {
     "q": "El art. 85 bis de la LBRL regula específicamente el régimen jurídico de:",
@@ -12586,8 +12586,8 @@ const QUESTIONS = {
       "El Código de Comercio, sin ninguna especialidad local"
     ],
     "correct": 0,
-    "exp": "Art. 85 bis.1: se rigen, en cuanto les resulte de aplicación, por lo dispuesto en los artículos 45 a 52 y 53 a 60 de la Ley 6/1997, de 14 de abril (LOFAGE), con las especialidades que la propia LBRL establece.",
-    "fuente": "Art. 85 LBRL (Ley 7/1985)"
+    "exp": "Art. 85 bis.1 LBRL: los organismos autónomos locales y las entidades públicas empresariales locales se rigen 'por lo dispuesto en los artículos 45 a 52 y 53 a 60 de la Ley 6/1997, de 14 de abril' (LOFAGE), en cuanto les resulte de aplicación, con las especialidades que el propio artículo enumera. La LBRL mantiene esa remisión literal aunque la LOFAGE fue derogada por la Ley 40/2015, cuyos arts. 98 a 108 regulan hoy estos entes en el ámbito estatal.",
+    "fuente": "Art. 85 bis.1 LBRL (Ley 7/1985)"
   },
   {
     "q": "Según el art. 85 bis, la creación, modificación, refundición y supresión de organismos autónomos locales y entidades públicas empresariales corresponde a:",
@@ -12599,7 +12599,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "Art. 85 bis.1 a): 'Su creación, modificación, refundición y supresión corresponderá al Pleno de la entidad local, quien aprobará sus estatutos.'",
-    "fuente": "Art. 85 bis LBRL (Ley 7/1985)"
+    "fuente": "Art. 85 bis.1 a) LBRL (Ley 7/1985)"
   },
   {
     "q": "El art. 85 ter de la LBRL regula específicamente:",
@@ -12611,7 +12611,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "El art. 85 ter regula el régimen de la sociedad mercantil local como forma de gestión directa de servicios públicos.",
-    "fuente": "Art. 85 LBRL (Ley 7/1985)"
+    "fuente": "Art. 85 ter LBRL (Ley 7/1985)"
   },
   {
     "q": "Según el régimen de la sociedad mercantil local (art. 85 ter), ¿en qué forma jurídica debe constituirse necesariamente esta sociedad?",
@@ -12619,11 +12619,11 @@ const QUESTIONS = {
       "Cooperativa de consumidores y usuarios exclusivamente",
       "Fundación privada sin ánimo de lucro",
       "Sociedad civil sin personalidad jurídica propia",
-      "Sociedad de responsabilidad limitada o sociedad anónima, cuyo capital social pertenezca íntegra o mayoritariamente a la Entidad Local"
+      "Una de las formas previstas en el texto refundido de la Ley de Sociedades de Capital, con el capital aportado íntegramente por Administraciones Públicas o por entidades de su sector público"
     ],
     "correct": 3,
-    "exp": "Conforme al art. 85 ter, la sociedad mercantil local debe adoptar la forma de sociedad anónima o de responsabilidad limitada, con capital social de titularidad pública, íntegra o mayoritariamente local según el caso.",
-    "fuente": "Art. 85 LBRL (Ley 7/1985)"
+    "exp": "Art. 85 ter.2 LBRL (redacción de la Ley 27/2013): 'La sociedad deberá adoptar una de las formas previstas en el texto refundido de la Ley de Sociedades de Capital aprobado por el Real Decreto Legislativo 1/2010, y en la escritura de constitución constará el capital que deberá ser aportado por las Administraciones Públicas o por las entidades del sector público dependientes de las mismas'. En concordancia, el art. 85.2 A) d) exige que el capital social sea 'de titularidad pública'.",
+    "fuente": "Art. 85 ter.2 y art. 85.2 A) d) LBRL (Ley 7/1985)"
   },
   {
     "q": "Según el art. 85 ter.3, los estatutos de la sociedad mercantil local determinarán, entre otros aspectos:",
@@ -12635,30 +12635,18 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "Art. 85 ter.3: 'Los estatutos determinarán la forma de designación y el funcionamiento de la Junta General y del Consejo de Administración, así como los máximos órganos de dirección de las mismas.'",
-    "fuente": "Art. 85 ter LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "Según la doctrina sobre la sociedad mercantil local, ¿pueden estas sociedades prestar servicios que impliquen ejercicio de autoridad?",
-    "options": [
-      "Sí, únicamente si lo autoriza el Consejo de Estado en cada caso",
-      "No, quedan excluidas junto con las demás formas de gestión indirecta",
-      "Sí, sin ninguna restricción",
-      "Sí, pero solo si su capital es íntegramente privado"
-    ],
-    "correct": 1,
-    "exp": "Conforme al criterio consolidado en la reforma del art. 85 ter, la sociedad mercantil local (junto con las formas de gestión indirecta) queda excluida de la prestación de servicios que impliquen ejercicio de autoridad.",
-    "fuente": "Art. 85 LBRL (Ley 7/1985)"
+    "fuente": "Art. 85 ter.3 LBRL (Ley 7/1985)"
   },
   {
     "q": "El art. 86.1 de la LBRL reconoce a las Entidades locales la facultad de:",
     "options": [
       "Suprimir la libre competencia en su ámbito territorial",
       "Prohibir cualquier actividad económica privada en su término municipal",
-      "Ejercer la iniciativa pública para el desarrollo de actividades económicas, conforme al artículo 128.2 de la Constitución",
+      "Ejercer la iniciativa pública para el desarrollo de actividades económicas, siempre que esté garantizado el cumplimiento del objetivo de estabilidad presupuestaria y de la sostenibilidad financiera",
       "Nacionalizar empresas privadas sin indemnización"
     ],
     "correct": 2,
-    "exp": "Art. 86.1: 'Las Entidades Locales podrán ejercer la iniciativa pública para el desarrollo de actividades económicas, siempre que esté garantizado el cumplimiento del objetivo de estabilidad presupuestaria.'",
+    "exp": "Art. 86.1 LBRL (redacción de la Ley 27/2013): 'Las Entidades Locales podrán ejercer la iniciativa pública para el desarrollo de actividades económicas, siempre que esté garantizado el cumplimiento del objetivo de estabilidad presupuestaria y de la sostenibilidad financiera del ejercicio de sus competencias'. La referencia expresa al art. 128.2 CE, que figuraba en la redacción anterior, desapareció en 2013, aunque ese precepto constitucional sigue siendo su fundamento.",
     "fuente": "Art. 86.1 LBRL (Ley 7/1985)"
   },
   {
@@ -12702,11 +12690,11 @@ const QUESTIONS = {
     "options": [
       "La producción cinematográfica",
       "La banca privada internacional",
-      "Mataderos, mercados y lonjas centrales, y el transporte público de viajeros",
+      "El transporte público de viajeros, de conformidad con lo previsto en la legislación sectorial aplicable",
       "Las telecomunicaciones vía satélite"
     ],
     "correct": 2,
-    "exp": "Art. 86.2 incluye, entre las actividades o servicios esenciales reservados a las Entidades locales, los mataderos, mercados y lonjas centrales, y el transporte público de viajeros.",
+    "exp": "Art. 86.2 LBRL (redacción de la Ley 27/2013): la reserva alcanza al 'abastecimiento domiciliario y depuración de aguas; recogida, tratamiento y aprovechamiento de residuos, y transporte público de viajeros, de conformidad con lo previsto en la legislación sectorial aplicable'. Los mataderos, mercados y lonjas centrales, que figuraban en la redacción anterior, fueron suprimidos de la lista en 2013.",
     "fuente": "Art. 86.2 LBRL (Ley 7/1985)"
   },
   {
@@ -12722,7 +12710,7 @@ const QUESTIONS = {
     "fuente": "Art. 86.2 LBRL (Ley 7/1985)"
   },
   {
-    "q": "Según el art. 86.3 de la LBRL, la efectiva ejecución de actividades reservadas en régimen de monopolio requiere, además del acuerdo del Pleno de la Corporación local:",
+    "q": "Según el art. 86.2 de la LBRL, la efectiva ejecución de actividades reservadas en régimen de monopolio requiere, además del acuerdo del Pleno de la Corporación local:",
     "options": [
       "La aprobación por el órgano competente de la Comunidad Autónoma",
       "Ningún trámite adicional, basta el acuerdo plenario",
@@ -12730,8 +12718,8 @@ const QUESTIONS = {
       "La autorización de las Cortes Generales mediante ley orgánica"
     ],
     "correct": 0,
-    "exp": "Art. 86.3: 'La efectiva ejecución de estas actividades en régimen de monopolio requiere, además del acuerdo de aprobación del pleno de la correspondiente Corporación local, la aprobación por el órgano competente de la Comunidad Autónoma.'",
-    "fuente": "Art. 86.3 LBRL (Ley 7/1985)"
+    "exp": "Art. 86.2, párrafo segundo, LBRL: 'La efectiva ejecución de estas actividades en régimen de monopolio requiere, además del acuerdo de aprobación del pleno de la correspondiente Corporación local, la aprobación por el órgano competente de la Comunidad Autónoma'. El art. 86.3 regula, en cambio, la impugnación por la Administración del Estado.",
+    "fuente": "Art. 86.2, párrafo segundo, LBRL (Ley 7/1985)"
   },
   {
     "q": "¿Qué quórum exige, con carácter general, la aprobación por el Pleno de la municipalización de actividades en régimen de monopolio?",
@@ -12742,23 +12730,23 @@ const QUESTIONS = {
       "Un tercio de los miembros de la Corporación"
     ],
     "correct": 1,
-    "exp": "Conforme al régimen de mayorías cualificadas del art. 47 LBRL, la aprobación de la municipalización o provincialización de actividades en régimen de monopolio exige mayoría absoluta del número legal de miembros de la Corporación.",
-    "fuente": "Art. 47 LBRL (Ley 7/1985)"
+    "exp": "Art. 47.2 k) LBRL: requiere el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación la 'municipalización o provincialización de actividades en régimen de monopolio y aprobación de la forma concreta de gestión del servicio correspondiente'.",
+    "fuente": "Art. 47.2 k) LBRL (Ley 7/1985)"
   },
   {
-    "q": "Según el art. 87 de la LBRL, las Entidades locales pueden constituir consorcios con:",
+    "q": "Según el art. 118.1 de la Ley 40/2015 (LRJSP), que sustituyó al derogado art. 87 LBRL, ¿quiénes pueden crear un consorcio?",
     "options": [
-      "Exclusivamente con partidos políticos",
+      "Exclusivamente los partidos políticos",
       "Únicamente empresas privadas con ánimo de lucro",
-      "Otras Administraciones Públicas para fines de interés común, o con entidades privadas sin ánimo de lucro que persigan fines de interés público concurrentes con los de las Administraciones",
-      "Solo con Estados extranjeros mediante tratado internacional"
+      "Varias Administraciones Públicas o entidades integrantes del sector público institucional, entre sí o con participación de entidades privadas, para el desarrollo de actividades de interés común a todas ellas",
+      "Solo Estados extranjeros mediante tratado internacional"
     ],
     "correct": 2,
-    "exp": "Art. 87: 'Las entidades locales pueden constituir consorcios con otras Administraciones públicas para fines de interés común, o con otras entidades privadas sin ánimo de lucro que persigan fines de interés público, concurrentes con los de las Administraciones públicas.'",
-    "fuente": "LBRL (Ley 7/1985)"
+    "exp": "Art. 118.1 Ley 40/2015: 'Los consorcios son entidades de derecho público, con personalidad jurídica propia y diferenciada, creadas por varias Administraciones Públicas o entidades integrantes del sector público institucional, entre sí o con participación de entidades privadas, para el desarrollo de actividades de interés común a todas ellas dentro del ámbito de sus competencias'. El art. 87 LBRL, que antes lo regulaba, está derogado desde el 2-10-2016.",
+    "fuente": "Art. 118.1 Ley 40/2015 (LRJSP); art. 87 LBRL derogado"
   },
   {
-    "q": "¿Qué naturaleza jurídica tiene, con carácter general, un consorcio constituido por Entidades Locales conforme al art. 87 LBRL?",
+    "q": "¿Qué naturaleza jurídica tiene un consorcio conforme al art. 118.1 de la Ley 40/2015 (LRJSP)?",
     "options": [
       "Personalidad jurídica exclusivamente mercantil de derecho privado",
       "La misma personalidad jurídica que el Estado central",
@@ -12766,8 +12754,8 @@ const QUESTIONS = {
       "Ninguna personalidad jurídica, es un mero acuerdo verbal"
     ],
     "correct": 2,
-    "exp": "El consorcio, como fórmula de cooperación interadministrativa, goza de personalidad jurídica propia, diferenciada de las de las Administraciones o entidades que lo constituyen, para el cumplimiento de los fines de interés común que motivan su creación.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "exp": "Art. 118.1 Ley 40/2015: los consorcios son 'entidades de derecho público, con personalidad jurídica propia y diferenciada' de las Administraciones o entidades que los crean. El art. 87 LBRL fue derogado por la Ley 40/2015 con efectos de 2 de octubre de 2016.",
+    "fuente": "Art. 118.1 Ley 40/2015 (LRJSP)"
   },
   {
     "q": "¿Qué finalidad general persigue la figura del consorcio en el ámbito de la Administración Local?",
@@ -12778,8 +12766,8 @@ const QUESTIONS = {
       "Sustituir por completo a los Ayuntamientos en el ejercicio de todas sus competencias"
     ],
     "correct": 0,
-    "exp": "El consorcio facilita la cooperación y la gestión conjunta y eficiente de servicios o actividades de interés común entre distintas Administraciones Públicas, o entre estas y entidades privadas sin ánimo de lucro con fines de interés público.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "exp": "Art. 118.1 y 118.2 Ley 40/2015: el consorcio se crea 'para el desarrollo de actividades de interés común' a las Administraciones o entidades que lo integran, y puede realizar 'actividades de fomento, prestacionales o de gestión común de servicios públicos'.",
+    "fuente": "Art. 118.1 y 118.2 Ley 40/2015 (LRJSP)"
   },
   {
     "q": "El Capítulo III del Título VI de la LBRL, situado tras el Capítulo de actividades y servicios, se titula:",
@@ -12790,11 +12778,11 @@ const QUESTIONS = {
       "Bienes"
     ],
     "correct": 1,
-    "exp": "El Capítulo III del Título VI de la LBRL se titula 'Contratación' (art. 88), si bien su contenido histórico fue derogado por la normativa de contratos del sector público, que hoy regula esta materia de forma autónoma.",
-    "fuente": "Capítulo III LBRL (Ley 7/1985)"
+    "exp": "El Capítulo III del Título VI de la LBRL se titula 'Contratación' y consta de un único artículo, el 88, hoy derogado por la disposición derogatoria única.b) de la Ley 30/2007; la materia se rige por la Ley 9/2017 (LCSP).",
+    "fuente": "Capítulo III del Título VI LBRL, art. 88 (derogado)"
   },
   {
-    "q": "¿Qué relación existe entre el art. 84 de la LBRL y el art. 71 bis de la (antigua) Ley 30/1992 (hoy, arts. 69 y 71 bis de la Ley 39/2015) en materia de intervención administrativa?",
+    "q": "¿Qué relación existe entre el art. 84 de la LBRL y el art. 71 bis de la derogada Ley 30/1992 (hoy, art. 69 de la Ley 39/2015) en materia de intervención administrativa?",
     "options": [
       "No existe ninguna relación entre ambos preceptos",
       "La LBRL prohíbe expresamente el uso de la declaración responsable en el ámbito local",
@@ -12802,8 +12790,8 @@ const QUESTIONS = {
       "El art. 84 LBRL deroga completamente el régimen de la Ley 39/2015"
     ],
     "correct": 2,
-    "exp": "El art. 84.1 c) LBRL remite al régimen general de comunicación previa y declaración responsable regulado en la legislación básica del procedimiento administrativo común (hoy, Ley 39/2015), para su aplicación en el ámbito de la intervención local.",
-    "fuente": "Art. 84.1 c) LBRL (Ley 7/1985)"
+    "exp": "El art. 84.1 c) LBRL remite literalmente al art. 71 bis de la Ley 30/1992; hoy esa remisión debe entenderse hecha al art. 69 de la Ley 39/2015, que regula la declaración responsable y la comunicación como régimen general del procedimiento administrativo común aplicable también en el ámbito local.",
+    "fuente": "Art. 84.1 c) LBRL (Ley 7/1985) y art. 69 Ley 39/2015"
   },
   {
     "q": "¿Cuál es la diferencia esencial entre 'licencia' y 'declaración responsable' como técnicas de intervención administrativa local?",
@@ -12815,7 +12803,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "La licencia implica un control administrativo previo antes del inicio de la actividad; la declaración responsable permite al interesado iniciar la actividad bajo su propia responsabilidad, declarando el cumplimiento de los requisitos, sujeta a comprobación posterior por la Administración.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 84.1 b) y c) LBRL (Ley 7/1985) y art. 69.1 y 69.3 Ley 39/2015"
   },
   {
     "q": "¿Por qué la LBRL, tras su reforma para adaptarse a la Directiva de Servicios (Ley 17/2009), limita el uso de la licencia como técnica de intervención?",
@@ -12827,7 +12815,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "La reforma de la LBRL, en transposición de la Directiva de Servicios, limita el recurso a la licencia previa para favorecer la libertad de establecimiento y prestación de servicios, evitando cargas administrativas desproporcionadas o injustificadas.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 84.1 b) LBRL (redacción de la Ley 25/2009) y art. 84 bis.1 LBRL; art. 1 Ley 17/2009"
   },
   {
     "q": "¿Qué papel desempeña el criterio de 'razón imperiosa de interés general' en el régimen de intervención administrativa local tras la transposición de la Directiva de Servicios?",
@@ -12839,7 +12827,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El concepto de 'razón imperiosa de interés general' (salud pública, protección del medio ambiente, seguridad pública, entre otras) constituye el fundamento que puede justificar excepcionalmente el mantenimiento de una licencia u otro medio de control preventivo, en lugar de la simple declaración responsable o comunicación.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 84 bis.1 a) LBRL (Ley 7/1985) y art. 3.11 Ley 17/2009"
   },
   {
     "q": "¿Qué relación existe entre el art. 85.2 A) de la LBRL y el principio de estabilidad presupuestaria recogido en la Ley Orgánica 2/2012?",
@@ -12851,7 +12839,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "El art. 85.2 A) exige recabar informe del interventor sobre la sostenibilidad financiera de la forma de gestión elegida, en aplicación directa del art. 4 de la Ley Orgánica 2/2012, de Estabilidad Presupuestaria y Sostenibilidad Financiera.",
-    "fuente": "Art. 85.2 LBRL (Ley 7/1985)"
+    "fuente": "Art. 85.2 A), párrafo segundo, LBRL (Ley 7/1985) y art. 4 LO 2/2012"
   },
   {
     "q": "En síntesis, ¿qué dos grandes bloques de instituciones regula el Capítulo II del Título VI de la LBRL ('Actividades y servicios')?",
@@ -12859,47 +12847,11 @@ const QUESTIONS = {
       "Exclusivamente el régimen de personal funcionario",
       "Únicamente el régimen de contratación pública local",
       "Solo las competencias tributarias de las Entidades Locales",
-      "Los medios de intervención administrativa sobre la actividad de los ciudadanos (arts. 84 a 84 ter) y las formas de gestión de los servicios públicos locales (arts. 85 a 87)"
+      "Los medios de intervención administrativa sobre la actividad de los ciudadanos (arts. 84 a 84 ter) y las formas de gestión de los servicios públicos locales y la iniciativa económica local (arts. 85 a 86)"
     ],
     "correct": 3,
-    "exp": "El Capítulo II del Título VI de la LBRL regula, por un lado, los medios de intervención administrativa sobre la actividad de los ciudadanos (arts. 84 a 84 ter) y, por otro, las formas de gestión de los servicios públicos locales, la iniciativa económica local y los consorcios (arts. 85 a 87).",
-    "fuente": "LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "¿Qué diferencia existe entre uso 'común general' y uso 'común especial' del dominio público local, a efectos de la técnica de intervención aplicable?",
-    "options": [
-      "El uso común general no requiere autorización y es compatible con el de cualquier otra persona; el uso común especial, por su intensidad o singularidad, se somete a licencia",
-      "El uso común especial nunca puede autorizarse en dominio público local",
-      "El uso común general siempre requiere concesión administrativa",
-      "Ambos tipos de uso están sometidos exactamente al mismo régimen de intervención"
-    ],
-    "correct": 0,
-    "exp": "El uso común general (pasear por una calle) no requiere autorización previa por ser compatible con el uso de cualquier otra persona; el uso común especial (por ejemplo, una terraza) implica cierta singularidad y se somete, con carácter general, a licencia.",
-    "fuente": "LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "¿Qué tipo de acto administrativo habilita el uso privativo de dominio público local que suponga exclusión de la utilización por terceros mediante instalaciones fijas?",
-    "options": [
-      "Silencio administrativo positivo automático",
-      "Concesión administrativa",
-      "Ninguno, basta la ocupación de hecho",
-      "Simple comunicación previa del interesado"
-    ],
-    "correct": 1,
-    "exp": "El uso privativo del dominio público que excluye la utilización por terceros mediante instalaciones fijas se somete, con carácter general, al régimen de concesión administrativa.",
-    "fuente": "LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "¿Puede una Entidad Local exigir el pago de una tasa por el otorgamiento de una licencia de intervención administrativa?",
-    "options": [
-      "Sí, pero solo si el solicitante es una persona jurídica extranjera",
-      "No, salvo que lo autorice previamente el Consejo de Ministros",
-      "Sí, en concepto de tasa por prestación de servicios o realización de actividades administrativas de su competencia",
-      "No, las licencias son siempre gratuitas por mandato constitucional"
-    ],
-    "correct": 2,
-    "exp": "Las Entidades Locales pueden establecer y exigir tasas por el otorgamiento de licencias u otras actuaciones administrativas de su competencia, conforme a la legislación reguladora de las Haciendas Locales.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "exp": "El Capítulo II del Título VI LBRL regula, por un lado, los medios de intervención administrativa sobre la actividad de los ciudadanos (arts. 84, 84 bis y 84 ter) y, por otro, las formas de gestión de los servicios públicos locales, la iniciativa económica local y la reserva de servicios esenciales (arts. 85, 85 bis, 85 ter y 86). El art. 87, que regulaba los consorcios, está derogado por la Ley 40/2015.",
+    "fuente": "Capítulo II del Título VI LBRL, arts. 84 a 86 (Ley 7/1985)"
   },
   {
     "q": "¿Qué relación tiene el silencio administrativo con las solicitudes de licencia urbanística en el ámbito local, con carácter general?",
@@ -12911,7 +12863,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "El efecto del silencio administrativo en materia de licencias depende de lo que determine la legislación sectorial aplicable; en materia urbanística, por ejemplo, existen límites legales importantes al silencio positivo cuando afecta a la legalidad urbanística.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 24 Ley 39/2015 y art. 11.3 y 11.4 TRLSRU (RDLeg 7/2015)"
   },
   {
     "q": "¿Qué se entiende por 'gestión directa' de un servicio público local, en contraposición a la gestión indirecta?",
@@ -12923,7 +12875,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "La gestión directa es aquella en la que la propia Entidad Local, sin intermediarios, presta el servicio y asume su propio riesgo, empleando sus propios medios personales y materiales o entes instrumentales propios.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 85.2 A) LBRL (Ley 7/1985)"
   },
   {
     "q": "¿Cuál de las siguientes NO es, con carácter general, una forma de gestión directa de un servicio público local?",
@@ -12934,8 +12886,8 @@ const QUESTIONS = {
       "Gestión por la propia Entidad Local, sin órgano especial de administración"
     ],
     "correct": 1,
-    "exp": "La concesión a una empresa privada mediante el correspondiente contrato es la forma característica de gestión indirecta, no de gestión directa (que incluye la gestión por la propia Entidad Local, organismos autónomos, entidades públicas empresariales y sociedades mercantiles de capital íntegramente público).",
-    "fuente": "LBRL (Ley 7/1985)"
+    "exp": "Art. 85.2 LBRL: la gestión directa comprende la gestión por la propia Entidad Local, el organismo autónomo local, la entidad pública empresarial local y la sociedad mercantil local de capital de titularidad pública; la gestión indirecta se realiza por las formas del contrato de gestión de servicios públicos (hoy, concesión de servicios de la LCSP).",
+    "fuente": "Art. 85.2 A) y B) LBRL (Ley 7/1985)"
   },
   {
     "q": "¿Qué elemento diferencia a un organismo autónomo local de una entidad pública empresarial local, dentro de las formas de gestión directa?",
@@ -12947,10 +12899,10 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "El organismo autónomo local se rige, con carácter general, por el Derecho administrativo, mientras que la entidad pública empresarial local ajusta su actividad, en gran medida, al Derecho privado, salvo en la formación de la voluntad de sus órganos y otros aspectos reservados al Derecho público.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 85 bis LBRL (Ley 7/1985); arts. 98 a 108 Ley 40/2015"
   },
   {
-    "q": "¿Qué régimen de personal resulta, con carácter general, aplicable a los organismos autónomos y entidades públicas empresariales locales, conforme al art. 85 bis LBRL?",
+    "q": "¿Qué debe tener en cuenta la Entidad Local al elegir la forma de gestión de un servicio público, conforme al párrafo final del art. 85.2 LBRL?",
     "options": [
       "Todo su personal debe ser necesariamente funcionario de carrera",
       "No pueden tener personal propio bajo ninguna circunstancia",
@@ -12958,8 +12910,8 @@ const QUESTIONS = {
       "Deben tener en cuenta lo dispuesto en el Estatuto Básico del Empleado Público respecto al ejercicio de funciones reservadas en exclusiva a funcionarios públicos"
     ],
     "correct": 3,
-    "exp": "El art. 85 bis remite al art. 9 del Estatuto Básico del Empleado Público en lo que respecta al ejercicio de funciones que corresponden en exclusiva a funcionarios públicos, con independencia de la forma de gestión directa elegida.",
-    "fuente": "Art. 85 LBRL (Ley 7/1985)"
+    "exp": "Art. 85.2 LBRL, párrafo final: 'La forma de gestión por la que se opte deberá tener en cuenta lo dispuesto en el artículo 9 del Estatuto Básico del Empleado Público... en lo que respecta al ejercicio de funciones que corresponden en exclusiva a funcionarios públicos'. Hoy el precepto aplicable es el art. 9.2 del TRLEBEP (RDLeg 5/2015).",
+    "fuente": "Art. 85.2, párrafo final, LBRL (Ley 7/1985) y art. 9.2 TRLEBEP (RDLeg 5/2015)"
   },
   {
     "q": "¿Qué finalidad persigue exigir, en el art. 86.1 LBRL, un análisis de mercado sobre oferta, demanda y rentabilidad antes de ejercer la iniciativa pública económica local?",
@@ -13006,11 +12958,11 @@ const QUESTIONS = {
       "El Pleno de la Corporación local"
     ],
     "correct": 3,
-    "exp": "La declaración municipal para la ejecución de actividades reservadas en régimen de monopolio corresponde al Pleno de la Corporación local, que debe adoptar el acuerdo con la mayoría cualificada exigida por la LBRL.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "exp": "El acuerdo de aprobación corresponde al Pleno de la Corporación (art. 86.2, párrafo segundo, LBRL), que debe adoptarlo por mayoría absoluta del número legal de miembros (art. 47.2 k) LBRL); la efectiva ejecución en monopolio requiere además la aprobación del órgano competente de la Comunidad Autónoma.",
+    "fuente": "Art. 86.2, párrafo segundo, y art. 47.2 k) LBRL (Ley 7/1985)"
   },
   {
-    "q": "¿Qué relación existe entre el art. 86.3 LBRL y el principio de tutela financiera de las Comunidades Autónomas sobre las Entidades Locales?",
+    "q": "¿Qué relación existe entre la aprobación autonómica que exige el art. 86.2 LBRL para ejecutar un monopolio local y el control de tutela de las Comunidades Autónomas sobre las Entidades Locales?",
     "options": [
       "La exigencia de aprobación autonómica para la efectiva ejecución del monopolio local es una manifestación del control de tutela que ejercen las Comunidades Autónomas en determinadas materias",
       "No existe ninguna relación entre ambos aspectos",
@@ -13018,8 +12970,8 @@ const QUESTIONS = {
       "Las Comunidades Autónomas nunca pueden intervenir en decisiones municipales de este tipo"
     ],
     "correct": 0,
-    "exp": "La exigencia de aprobación por el órgano competente de la Comunidad Autónoma para la efectiva ejecución de actividades reservadas en régimen de monopolio constituye una manifestación del control de tutela que, en determinadas materias, ejercen las Comunidades Autónomas sobre las Entidades Locales.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "exp": "El art. 86.2, párrafo segundo, LBRL exige la aprobación por el órgano competente de la Comunidad Autónoma para la efectiva ejecución en régimen de monopolio de las actividades reservadas: es una manifestación del control de tutela que las Comunidades Autónomas ejercen en determinadas materias sobre las Entidades Locales.",
+    "fuente": "Art. 86.2, párrafo segundo, LBRL (Ley 7/1985)"
   },
   {
     "q": "¿Puede una mancomunidad de municipios constituir, a su vez, un consorcio con otra Administración Pública?",
@@ -13031,19 +12983,19 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "Las mancomunidades, como Entidades Locales con personalidad jurídica propia, pueden participar en fórmulas de cooperación como el consorcio, siempre que sea compatible con sus fines estatutarios y las competencias atribuidas.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 118.1 Ley 40/2015 (LRJSP); arts. 44 y 4.3 LBRL"
   },
   {
     "q": "¿Qué diferencia principal existe entre un consorcio y una mancomunidad de municipios, ambas fórmulas de cooperación local?",
     "options": [
       "La mancomunidad siempre tiene ámbito internacional",
       "Ambas figuras son exactamente idénticas en composición y fines",
-      "La mancomunidad se constituye exclusivamente entre municipios para fines o servicios comunes; el consorcio puede constituirse entre distintas Administraciones Públicas, e incluso con entidades privadas sin ánimo de lucro",
+      "La mancomunidad se constituye exclusivamente entre municipios para la ejecución en común de obras y servicios de su competencia; el consorcio puede crearse entre varias Administraciones Públicas o entidades del sector público institucional, incluso con participación de entidades privadas",
       "El consorcio solo puede constituirse entre dos municipios, nunca más"
     ],
     "correct": 2,
-    "exp": "La mancomunidad se constituye entre municipios para la ejecución en común de obras o servicios de su competencia; el consorcio, en cambio, admite una composición más amplia, pudiendo integrar a distintas Administraciones Públicas y, en su caso, a entidades privadas sin ánimo de lucro de interés público.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "exp": "Art. 44.1 LBRL: los municipios pueden constituir mancomunidades 'para la ejecución en común de obras y servicios determinados de su competencia'. Art. 118.1 Ley 40/2015: el consorcio lo crean varias Administraciones Públicas o entidades del sector público institucional, entre sí o con participación de entidades privadas, para actividades de interés común.",
+    "fuente": "Art. 44 LBRL (Ley 7/1985) y art. 118.1 Ley 40/2015 (LRJSP)"
   },
   {
     "q": "¿Qué papel desempeñó la Ley 27/2013, de racionalización y sostenibilidad de la Administración Local (LRSAL), respecto al régimen de servicios públicos locales del art. 85 LBRL?",
@@ -13055,19 +13007,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "La Ley 27/2013 (LRSAL) modificó el art. 85 LBRL introduciendo el criterio de que los servicios públicos de competencia local deben gestionarse de la forma más sostenible y eficiente, exigiendo la valoración de la sostenibilidad financiera por el interventor.",
-    "fuente": "Art. 85 LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "¿Qué papel general desempeñó la LRSAL (Ley 27/2013) en el conjunto del régimen local español, más allá de la reforma del art. 85 LBRL?",
-    "options": [
-      "Reforzó el control de la estabilidad presupuestaria y la racionalización del sector público local, entre otras medidas, reforzando el papel de las Diputaciones en servicios mínimos",
-      "Amplió sin límite las competencias propias de todos los municipios",
-      "Trasladó todas las competencias locales al Estado central",
-      "Suprimió la figura del Alcalde en todos los municipios de España"
-    ],
-    "correct": 0,
-    "exp": "La LRSAL, entre otras finalidades, reforzó el control de la estabilidad presupuestaria y la racionalización de las estructuras del sector público local, reforzando el papel de las Diputaciones Provinciales en la prestación de servicios mínimos municipales.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 85.2 LBRL, en la redacción dada por el art. 1.21 de la Ley 27/2013 (LRSAL)"
   },
   {
     "q": "¿Qué diferencia práctica existe entre la 'comunicación previa' y la 'declaración responsable' como técnicas de intervención administrativa local?",
@@ -13079,19 +13019,19 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "La declaración responsable implica manifestar el cumplimiento de una serie de requisitos legales, comprometiéndose a mantenerlos y a disponer de la documentación acreditativa; la comunicación previa se limita, con carácter general, a poner en conocimiento de la Administración un hecho o dato relevante.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 69.1 y 69.2 Ley 39/2015; art. 84.1 c) LBRL"
   },
   {
     "q": "¿Qué consecuencia tiene, con carácter general, la inexactitud, falsedad u omisión de datos en una declaración responsable presentada para el ejercicio de una actividad?",
     "options": [
       "Solo genera una sanción económica simbólica de escasa cuantía",
       "Se convierte automáticamente en una licencia válida sin más trámite",
-      "Puede determinar la imposibilidad de continuar con el ejercicio del derecho o actividad, sin perjuicio de las responsabilidades penales, civiles o administrativas que procedan",
+      "Si es de carácter esencial, determina la imposibilidad de continuar con el ejercicio del derecho o actividad desde que se tenga constancia, sin perjuicio de las responsabilidades penales, civiles o administrativas que procedan",
       "Ninguna consecuencia, la declaración responsable tiene un valor meramente informativo"
     ],
     "correct": 2,
-    "exp": "Conforme al régimen general de la declaración responsable (art. 69 Ley 39/2015), la inexactitud, falsedad u omisión de datos esenciales puede determinar la imposibilidad de continuar con el ejercicio del derecho o actividad, sin perjuicio de las responsabilidades que correspondan.",
-    "fuente": "Art. 69 LPAC (Ley 39/2015)"
+    "exp": "Art. 69.4 Ley 39/2015: 'La inexactitud, falsedad u omisión, de carácter esencial, de cualquier dato o información que se incorpore a una declaración responsable o a una comunicación... determinará la imposibilidad de continuar con el ejercicio del derecho o actividad afectada desde el momento en que se tenga constancia de tales hechos, sin perjuicio de las responsabilidades penales, civiles o administrativas a que hubiera lugar'.",
+    "fuente": "Art. 69.4 Ley 39/2015"
   },
   {
     "q": "¿Qué papel desempeña el principio de proporcionalidad, mencionado en el art. 84.2 LBRL, en la actividad de intervención administrativa local?",
@@ -13103,7 +13043,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "El principio de proporcionalidad exige que la Administración elija, entre las medidas de intervención disponibles, la menos restrictiva de derechos que resulte adecuada y suficiente para alcanzar el objetivo de interés general perseguido.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 84.2 LBRL (Ley 7/1985)"
   },
   {
     "q": "¿Qué relación existe entre el principio de necesidad, mencionado en el art. 84.2 LBRL, y la exigencia de licencias municipales?",
@@ -13115,7 +13055,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El principio de necesidad exige que la intervención administrativa, como el sometimiento a licencia, esté justificada por la existencia de una razón de interés general concreta que la haga necesaria, y no resulte una exigencia superflua o desproporcionada.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 84.2 LBRL (Ley 7/1985), en relación con el art. 84 bis.1 y el art. 5 de la Ley 20/2013"
   },
   {
     "q": "¿Qué diferencia existe entre el régimen de intervención sobre actividades económicas privadas y el régimen de prestación de servicios públicos locales?",
@@ -13126,8 +13066,8 @@ const QUESTIONS = {
       "La intervención sobre actividades privadas ha sido completamente suprimida"
     ],
     "correct": 1,
-    "exp": "El régimen de intervención (arts. 84 a 84 ter LBRL) regula el control administrativo sobre la actividad de los particulares; el régimen de servicios públicos (arts. 85 a 87 LBRL) regula cómo la propia Entidad Local organiza y presta los servicios de su competencia.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "exp": "El régimen de intervención (arts. 84, 84 bis y 84 ter LBRL) regula el control administrativo sobre la actividad de los particulares; el régimen de servicios públicos (arts. 85, 85 bis, 85 ter y 86 LBRL) regula cómo la propia Entidad Local organiza y presta los servicios de su competencia. El art. 87, sobre consorcios, está derogado por la Ley 40/2015.",
+    "fuente": "Arts. 84 a 84 ter y arts. 85 a 86 LBRL (Ley 7/1985)"
   },
   {
     "q": "¿Qué forma de gestión indirecta era tradicionalmente denominada 'concesión de servicio público' antes de la reforma introducida por la LCSP de 2017?",
@@ -13151,7 +13091,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "El cambio de forma de gestión de un servicio público municipal corresponde acordarlo, con carácter general, al Pleno de la Corporación, debiendo motivarse la mayor sostenibilidad y eficiencia de la opción elegida conforme al art. 85.2 LBRL y la jurisprudencia que lo interpreta.",
-    "fuente": "Art. 85.2 LBRL (Ley 7/1985)"
+    "fuente": "Art. 85.2 A), párrafo segundo, LBRL (Ley 7/1985)"
   },
   {
     "q": "¿Qué papel desempeña el informe del interventor local en el cambio de forma de gestión de un servicio público municipal?",
@@ -13163,7 +13103,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El informe del interventor local, exigido por el art. 85.2 A) LBRL, tiene por objeto valorar la sostenibilidad financiera de la propuesta de gestión directa, en aplicación del art. 4 de la Ley Orgánica 2/2012.",
-    "fuente": "Art. 85.2 LBRL (Ley 7/1985)"
+    "fuente": "Art. 85.2 A), párrafo segundo, LBRL (Ley 7/1985) y art. 4 LO 2/2012"
   },
   {
     "q": "¿Qué relación existe entre las 'competencias propias' de los municipios (art. 25 LBRL) y las técnicas de intervención y las formas de gestión de servicios estudiadas en este tema?",
@@ -13175,19 +13115,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "Las técnicas de intervención administrativa (licencias, declaraciones) y las formas de gestión de servicios públicos (directa o indirecta) constituyen los instrumentos jurídicos mediante los cuales los municipios ejercen, en la práctica, las competencias propias y delegadas que la legislación les atribuye.",
-    "fuente": "LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "¿Qué órgano municipal aprueba, con carácter general, las ordenanzas municipales que desarrollan el régimen de intervención administrativa sobre actividades (por ejemplo, una ordenanza de terrazas)?",
-    "options": [
-      "El Alcalde por decreto, sin intervención del Pleno",
-      "El Secretario municipal",
-      "El Pleno del Ayuntamiento",
-      "La Junta de Gobierno Local en exclusiva"
-    ],
-    "correct": 2,
-    "exp": "Conforme al art. 22.2 d) LBRL, la aprobación del reglamento orgánico y de las ordenanzas municipales, incluidas las que desarrollan el régimen de intervención sobre actividades, corresponde al Pleno del Ayuntamiento.",
-    "fuente": "Art. 22.2 d) LBRL (Ley 7/1985)"
+    "fuente": "Art. 85.1 LBRL, en relación con los arts. 25 y 27 LBRL (Ley 7/1985)"
   },
   {
     "q": "¿Qué papel desempeñan las ordenanzas municipales en el desarrollo del régimen de intervención administrativa previsto en el art. 84 LBRL?",
@@ -13199,7 +13127,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "Las ordenanzas municipales desarrollan y concretan, dentro del marco legal estatal y autonómico, los requisitos, procedimientos y condiciones específicas para el sometimiento de las distintas actividades a licencia, comunicación previa o declaración responsable en el término municipal.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 84.1 a) LBRL (Ley 7/1985), en relación con el art. 4.1 a) LBRL"
   },
   {
     "q": "¿Qué es un 'bando' del Alcalde, como medio de intervención mencionado en el art. 84.1 a) LBRL?",
@@ -13211,7 +13139,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El bando es una disposición del Alcalde, de carácter general, generalmente empleada para regular asuntos puntuales o de menor entidad normativa (como medidas de orden público en fiestas locales), complementaria a las ordenanzas aprobadas por el Pleno.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 84.1 a) LBRL y art. 21.1 e) LBRL (Ley 7/1985)"
   },
   {
     "q": "¿Puede el Alcalde dictar bandos que contradigan lo establecido en una ordenanza municipal previamente aprobada por el Pleno?",
@@ -13222,8 +13150,8 @@ const QUESTIONS = {
       "No existe ninguna jerarquía entre bandos y ordenanzas"
     ],
     "correct": 1,
-    "exp": "Dado que la ordenanza es aprobada por el Pleno y tiene mayor rango normativo dentro del ordenamiento municipal, el bando del Alcalde, de naturaleza más ejecutiva y puntual, no puede contradecir lo dispuesto en una ordenanza vigente.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "exp": "El bando lo dicta el Alcalde (art. 21.1 e) LBRL) y la ordenanza la aprueba el Pleno (art. 22.2 d) LBRL); por el principio de jerarquía normativa del art. 128.3 de la Ley 39/2015, ninguna disposición administrativa puede vulnerar otra de rango superior, de modo que el bando no puede contradecir la ordenanza vigente.",
+    "fuente": "Art. 84.1 a), art. 21.1 e) y art. 22.2 d) LBRL; art. 128.3 Ley 39/2015"
   },
   {
     "q": "¿Qué relación existe entre la 'orden individual', mencionada como medio de intervención en el art. 84.1 LBRL, y los actos administrativos generales como las ordenanzas?",
@@ -13234,8 +13162,8 @@ const QUESTIONS = {
       "Ambos tipos de actos tienen exactamente el mismo alcance y destinatarios"
     ],
     "correct": 2,
-    "exp": "El art. 84.1 c) (en su versión originaria) menciona las 'órdenes individuales constitutivas de mandato para la ejecución de un acto o la prohibición del mismo', dirigidas a un destinatario concreto, a diferencia de las ordenanzas, que tienen alcance general.",
-    "fuente": "Art. 84.1 c) LBRL (Ley 7/1985)"
+    "exp": "Art. 84.1 e) LBRL: entre los medios de intervención figuran las 'órdenes individuales constitutivas de mandato para la ejecución de un acto o la prohibición del mismo', dirigidas a un destinatario concreto, frente a la ordenanza (art. 84.1 a)), que es una norma de alcance general.",
+    "fuente": "Art. 84.1 e) LBRL (Ley 7/1985)"
   },
   {
     "q": "¿Qué tipo de responsabilidad puede exigirse a una Entidad Local que deniega injustificadamente una licencia debida, causando un perjuicio económico al solicitante?",
@@ -13247,19 +13175,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "La denegación injustificada de una licencia debida, si causa un daño antijurídico al interesado y concurren los requisitos legales, puede generar responsabilidad patrimonial de la Administración, exigible conforme al régimen general de la Ley 40/2015.",
-    "fuente": "LRJSP (Ley 40/2015)"
-  },
-  {
-    "q": "¿Qué papel desempeña el recurso de reposición o el recurso de alzada frente a la denegación de una licencia municipal, en función de si el acto pone fin a la vía administrativa?",
-    "options": [
-      "Si el acto pone fin a la vía administrativa, cabe recurso potestativo de reposición; si no la pone fin, cabe recurso de alzada ante el superior jerárquico",
-      "El recurso de alzada siempre es obligatorio antes de acudir a los tribunales, sin excepción",
-      "Nunca cabe recurso alguno contra la denegación de una licencia municipal",
-      "Solo cabe recurso directo ante el Tribunal Constitucional"
-    ],
-    "correct": 0,
-    "exp": "Frente a la denegación de una licencia, si el acto pone fin a la vía administrativa (como es habitual en resoluciones del Alcalde o del Pleno), cabe el recurso potestativo de reposición; si no pusiera fin a dicha vía, procedería, en su caso, el recurso de alzada.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Arts. 32 y 34 Ley 40/2015 (LRJSP)"
   },
   {
     "q": "¿Qué tipo de control ejerce, con carácter general, la jurisdicción contencioso-administrativa sobre los actos de intervención administrativa local (licencias, órdenes, sanciones)?",
@@ -13271,7 +13187,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "Los actos de intervención administrativa local están sujetos, como cualquier acto administrativo, al control de legalidad de la jurisdicción contencioso-administrativa, que puede anularlos si son contrarios a Derecho.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 106.1 CE y art. 1 Ley 29/1998 (LJCA)"
   },
   {
     "q": "¿Qué diferencia existe entre la potestad sancionadora y la potestad de intervención administrativa (licencias, comunicaciones) de las Entidades Locales?",
@@ -13283,7 +13199,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "La potestad de intervención (licencias, comunicaciones, declaraciones) tiene una función preventiva, de control previo o posterior al inicio de una actividad; la potestad sancionadora, en cambio, reacciona represivamente ante el incumplimiento ya constatado de la normativa aplicable.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 84 y art. 4.1 f) LBRL; Título XI LBRL (arts. 139 a 141)"
   },
   {
     "q": "¿Qué papel desempeña, dentro del régimen de intervención local, el control posterior o inspección de las actividades sujetas a declaración responsable o comunicación previa?",
@@ -13295,10 +13211,10 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "El control posterior o inspección constituye un elemento esencial en el régimen de comunicación previa y declaración responsable, permitiendo a la Administración verificar a posteriori el cumplimiento efectivo de los requisitos, y adoptar las medidas correctoras o sancionadoras que procedan en caso de incumplimiento.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 84.1 d) y art. 84 ter LBRL; art. 69.3 Ley 39/2015"
   },
   {
-    "q": "¿Qué relación existe entre la Directiva de Servicios 2006/123/CE y la reforma de los arts. 84 a 84 ter de la LBRL operada por la Ley 25/2009?",
+    "q": "¿Qué relación existe entre la Directiva de Servicios 2006/123/CE y la reforma del art. 84 de la LBRL operada por la Ley 25/2009?",
     "options": [
       "La Ley 25/2009 (conocida como 'Ley Ómnibus') adaptó la LBRL a las exigencias de simplificación administrativa y libre acceso a servicios de la Directiva de Servicios",
       "La Directiva de Servicios prohíbe cualquier intervención administrativa local",
@@ -13306,11 +13222,11 @@ const QUESTIONS = {
       "No existe ninguna relación entre ambas normas"
     ],
     "correct": 0,
-    "exp": "La Ley 25/2009 ('Ley Ómnibus') adaptó diversas leyes españolas, incluida la LBRL, a las exigencias de simplificación administrativa y libre acceso a actividades de servicios derivadas de la Directiva 2006/123/CE ('Directiva de Servicios').",
-    "fuente": "CE (Constitución Española)"
+    "exp": "La Ley 25/2009 ('Ley Ómnibus') adaptó numerosas leyes españolas, entre ellas la LBRL (art. 1.2, que reescribió el art. 84), a las exigencias de simplificación administrativa y libre acceso a las actividades de servicios de la Directiva 2006/123/CE. Los arts. 84 bis y 84 ter se añadieron después, por el art. 41 de la Ley 2/2011, de Economía Sostenible.",
+    "fuente": "Art. 84 LBRL (redacción dada por el art. 1.2 de la Ley 25/2009); Directiva 2006/123/CE"
   },
   {
-    "q": "¿Qué papel desempeñan, en conjunto, los arts. 84 a 87 de la LBRL dentro de la autonomía local constitucionalmente garantizada?",
+    "q": "¿Qué papel desempeñan, en conjunto, los arts. 84 a 86 de la LBRL dentro de la autonomía local constitucionalmente garantizada?",
     "options": [
       "Solo se aplican a las Comunidades Autónomas, nunca a los municipios",
       "Concretan los instrumentos jurídicos (intervención administrativa y formas de gestión de servicios) mediante los que las Entidades Locales ejercen, de forma autónoma, sus competencias propias en beneficio de los intereses de sus vecinos",
@@ -13318,8 +13234,8 @@ const QUESTIONS = {
       "Restringen por completo cualquier margen de decisión municipal, imponiendo un modelo único y cerrado"
     ],
     "correct": 1,
-    "exp": "Los arts. 84 a 87 LBRL concretan, dentro del marco básico estatal, los instrumentos jurídicos de intervención administrativa y de gestión de servicios que permiten a cada Entidad Local ejercer con autonomía sus competencias, eligiendo las opciones organizativas más adecuadas a sus intereses y circunstancias.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "exp": "Los arts. 84 a 86 LBRL concretan, dentro del marco básico estatal y al servicio de la autonomía local que garantizan los arts. 137 y 140 CE, los instrumentos de intervención administrativa y de gestión de servicios con que cada Entidad Local ejerce sus competencias. El art. 87, sobre consorcios, está derogado por la Ley 40/2015.",
+    "fuente": "Arts. 84 a 86 LBRL (Ley 7/1985) y arts. 137 y 140 CE"
   },
   {
     "q": "¿Qué diferencia existe entre la reserva de actividades esenciales (art. 86.2 LBRL) y una simple licencia de actividad económica?",
@@ -13331,19 +13247,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "La reserva de actividades esenciales excluye, en la actividad reservada, la iniciativa privada en favor exclusivo de la titularidad pública; la licencia, en cambio, simplemente condiciona el ejercicio de una actividad que permanece, en principio, abierta a los particulares.",
-    "fuente": "LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "¿Qué mayoría exige, con carácter general, el Pleno para aprobar una ordenanza municipal que desarrolle el régimen de intervención sobre actividades?",
-    "options": [
-      "Mayoría absoluta en todo caso, sin excepción alguna",
-      "Unanimidad de todos los concejales sin excepción",
-      "Dos tercios de los miembros de la Corporación en todo caso",
-      "Mayoría simple de los miembros presentes, salvo que una norma exija expresamente una mayoría cualificada"
-    ],
-    "correct": 3,
-    "exp": "Con carácter general, la aprobación de ordenanzas municipales se realiza por mayoría simple de los miembros presentes, salvo que una norma legal exija expresamente una mayoría cualificada para un supuesto concreto.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 86.2 y art. 84.1 b) LBRL (Ley 7/1985)"
   },
   {
     "q": "¿Qué relación existe entre la Ley 20/2013, de garantía de la unidad de mercado, y el régimen de intervención administrativa de las Entidades Locales?",
@@ -13355,19 +13259,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "La Ley 20/2013, de garantía de la unidad de mercado, refuerza los principios de necesidad y proporcionalidad para el establecimiento de requisitos de acceso o ejercicio de actividades económicas, buscando evitar barreras injustificadas entre distintos territorios, incluido el ámbito local.",
-    "fuente": "LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "¿Qué papel desempeña el principio de eficacia en todo el territorio nacional, vinculado a la Ley de Unidad de Mercado, respecto a las licencias y autorizaciones concedidas por una Entidad Local?",
-    "options": [
-      "El principio de eficacia en todo el territorio nacional solo se aplica a las leyes estatales",
-      "Con carácter general, una autorización concedida conforme a dicho principio puede desplegar efectos en otras partes del territorio nacional, sin necesidad de trámites adicionales, en los términos que fija la normativa aplicable",
-      "Cada Entidad Local puede ignorar libremente las autorizaciones concedidas por otras",
-      "Las licencias municipales nunca tienen efectos fuera del término municipal que las concede"
-    ],
-    "correct": 1,
-    "exp": "El principio de eficacia en todo el territorio nacional, propio de la normativa de garantía de la unidad de mercado, permite que ciertas autorizaciones concedidas conforme a sus reglas desplieguen efectos en otras partes del territorio, evitando duplicidades de trámites entre Administraciones.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Arts. 5 y 17 Ley 20/2013, de garantía de la unidad de mercado"
   },
   {
     "q": "¿Qué naturaleza tiene, con carácter general, la actividad de fomento que pueden desarrollar las Entidades Locales (por ejemplo, mediante subvenciones), en relación con las técnicas de intervención estudiadas en este tema?",
@@ -13378,8 +13270,8 @@ const QUESTIONS = {
       "Solo puede ejercerse mediante sanciones económicas"
     ],
     "correct": 2,
-    "exp": "La actividad de fomento (subvenciones, ayudas, incentivos) constituye una técnica de intervención administrativa distinta de la limitativa (licencias, órdenes, sanciones), orientada a incentivar comportamientos socialmente deseables sin imponer obligaciones coactivas directas.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "exp": "La actividad de fomento (subvenciones, ayudas, premios, incentivos) es una de las tres formas clásicas de actividad administrativa, distinta de la de policía o limitativa: incentiva comportamientos socialmente deseables sin imponer obligaciones coactivas. Su régimen general es la Ley 38/2003, General de Subvenciones, cuyo art. 2 define la subvención como disposición dineraria sin contraprestación directa, sujeta a un objetivo o proyecto y a la realización de una actividad de utilidad pública o interés social.",
+    "fuente": "Art. 2 Ley 38/2003, General de Subvenciones; art. 25.1 LBRL"
   },
   {
     "q": "¿Qué tres grandes categorías clásicas de intervención administrativa distingue la doctrina, más allá de la clasificación concreta del art. 84 LBRL?",
@@ -13391,7 +13283,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "La doctrina administrativa clásica distingue tres grandes formas de actividad administrativa: la de policía o limitativa (licencias, órdenes, sanciones), la de fomento (subvenciones, incentivos) y la de servicio público o prestacional (prestación directa de servicios a los ciudadanos).",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Clasificación doctrinal clásica de las formas de la actividad administrativa (Jordana de Pozas), recogida en el epígrafe del tema: policía, fomento y servicio público"
   },
   {
     "q": "¿En qué categoría de la clasificación clásica de la actividad administrativa se enmarca la prestación de un servicio de recogida de basuras por parte de un Ayuntamiento?",
@@ -13403,7 +13295,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "La prestación directa de un servicio, como la recogida de basuras, se enmarca dentro de la actividad de servicio público o prestacional de la Administración, distinta de la actividad de policía (licencias) o de fomento (subvenciones).",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 85.1, art. 25.2 b) y art. 26.1 a) LBRL (Ley 7/1985)"
   },
   {
     "q": "¿En qué categoría de la clasificación clásica se enmarca la exigencia de licencia de apertura para un establecimiento comercial?",
@@ -13415,7 +13307,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "La exigencia de licencia (u otro medio de control preventivo) para el ejercicio de una actividad se enmarca dentro de la actividad de policía o limitativa de la Administración, orientada a controlar y, en su caso, restringir determinadas actividades privadas por razones de interés general.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 84.1 b) y art. 84 bis LBRL (Ley 7/1985)"
   },
   {
     "q": "¿Qué relación existe entre el art. 25.2 LBRL (competencias propias municipales) y el art. 85 LBRL (servicios públicos locales)?",
@@ -13427,7 +13319,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "Muchas de las materias enumeradas como competencias propias municipales en el art. 25.2 LBRL (abastecimiento de agua, alumbrado, recogida de residuos, etc.) se materializan, en la práctica, como servicios públicos locales que deben organizarse y gestionarse conforme al régimen del art. 85 LBRL.",
-    "fuente": "Art. 25.2 LBRL (Ley 7/1985)"
+    "fuente": "Art. 25.2 y art. 85.1 LBRL (Ley 7/1985)"
   },
   {
     "q": "¿Qué relación existe entre los servicios mínimos obligatorios del art. 26 LBRL y las formas de gestión reguladas en el art. 85 LBRL?",
@@ -13451,7 +13343,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "Las Diputaciones Provinciales, especialmente tras el reforzamiento de sus funciones de asistencia por la Ley 27/2013 (LRSAL), prestan asistencia técnica, económica y de coordinación a los municipios de menor población para garantizar la adecuada prestación de los servicios mínimos obligatorios.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Arts. 26.2 y 26.3 LBRL y art. 36.1 b) LBRL, en la redacción de la Ley 27/2013"
   },
   {
     "q": "¿Qué naturaleza tiene la potestad de las Entidades Locales para dictar ordenanzas y reglamentos, en relación con el conjunto de la actividad de intervención y prestación de servicios?",
@@ -13499,7 +13391,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El principio de seguridad jurídica exige que los requisitos y procedimientos de intervención administrativa estén previamente establecidos con claridad en las ordenanzas o normas aplicables, de manera que los ciudadanos puedan conocerlos y cumplirlos, evitando la arbitrariedad de la Administración.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 9.3 CE y art. 129.4 Ley 39/2015"
   },
   {
     "q": "¿Qué papel desempeña la publicidad de las ordenanzas municipales, exigida con carácter general por la legislación de régimen local, en relación con el régimen de intervención administrativa?",
@@ -13511,7 +13403,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "La publicación de las ordenanzas municipales en el boletín oficial correspondiente es un requisito esencial para su entrada en vigor y eficacia, garantizando que los ciudadanos puedan conocer con carácter previo los requisitos exigibles para el ejercicio de actividades sujetas a intervención administrativa.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 70.2 LBRL (Ley 7/1985), en relación con el art. 65.2 LBRL"
   },
   {
     "q": "¿Qué papel desempeñan los principios de buena regulación (necesidad, proporcionalidad, seguridad jurídica, transparencia, eficiencia) recogidos en la Ley 39/2015, en relación con las ordenanzas locales que regulan la intervención administrativa?",
@@ -13535,7 +13427,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "La evolución normativa (especialmente a partir de la transposición de la Directiva de Servicios) refleja una progresiva sustitución del control previo mediante licencia por técnicas de control posterior (comunicación previa, declaración responsable), reservando la licencia a los supuestos en que existan razones imperiosas de interés general que la justifiquen.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 84 bis.1 LBRL (Ley 7/1985); art. 84.1 c) y d) LBRL"
   },
   {
     "q": "¿Qué relación existe entre la gestión de servicios públicos locales y el derecho de los vecinos a exigir su prestación, reconocido en el art. 18.1 g) LBRL?",
@@ -13559,19 +13451,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "Un servicio de recepción obligatoria (como la recogida de basuras) debe ser utilizado por todos los destinatarios sin posibilidad de rechazo, mientras que uno de recepción voluntaria (como una instalación deportiva municipal) puede ser utilizado libremente o no por el interesado, con las implicaciones correspondientes en materia de tasas y precios públicos.",
-    "fuente": "LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "¿Qué relación existe entre la calificación de un servicio como de recepción obligatoria y el régimen de la tasa que financia su prestación?",
-    "options": [
-      "Los servicios obligatorios nunca pueden financiarse mediante ningún tipo de exacción",
-      "No existe ninguna relación entre ambos aspectos",
-      "Los servicios de recepción obligatoria se financian, con carácter general, mediante tasas, mientras que los prestados en régimen de libre concurrencia con el sector privado pueden financiarse mediante precios públicos",
-      "Los precios públicos solo se aplican a servicios prestados por el Estado, nunca por Entidades Locales"
-    ],
-    "correct": 2,
-    "exp": "Conforme a la legislación de Haciendas Locales, los servicios de recepción obligatoria y que no se presten en régimen de libre concurrencia con el sector privado se financian, con carácter general, mediante tasas; en cambio, otros servicios pueden financiarse mediante precios públicos, según las reglas de la normativa tributaria local.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 20.1 B) a) TRLRHL (RDLeg 2/2004), en relación con el art. 85.1 LBRL"
   },
   {
     "q": "¿Qué papel desempeña, en definitiva, el Capítulo II del Título VI de la LBRL dentro del conjunto del régimen jurídico de las Entidades Locales?",
@@ -13583,7 +13463,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "El Capítulo II del Título VI de la LBRL ('Actividades y servicios') constituye el marco normativo básico que articula, de un lado, el control administrativo sobre la actividad de los ciudadanos (intervención) y, de otro, la organización y gestión de los servicios públicos que corresponden a las competencias de las Entidades Locales.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Capítulo II del Título VI LBRL, arts. 84 a 86 vigentes (el art. 87, sobre consorcios, derogado por la Ley 40/2015)"
   },
 ],
 12:[
