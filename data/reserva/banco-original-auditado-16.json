@@ -1,0 +1,18 @@
+{
+ "16": [
+  {
+   "q": "¿Qué relación existe entre una ordenanza de administración electrónica y la Ley 39/2015 y la Ley 40/2015?",
+   "options": [
+    "La ordenanza de administración electrónica desarrolla, en el ámbito local, las previsiones de ambas leyes sobre uso de medios electrónicos, registro electrónico, sede electrónica y relación telemática con los ciudadanos",
+    "No guarda ninguna relación con estas leyes estatales",
+    "Sustituye completamente a la Ley 39/2015 en el ámbito municipal",
+    "Solo puede aprobarse en municipios de menos de 5.000 habitantes"
+   ],
+   "correct": 0,
+   "exp": "Una ordenanza municipal de administración electrónica desarrolla, en el ámbito local, las previsiones generales de la Ley 39/2015 (procedimiento) y la Ley 40/2015 (régimen jurídico del sector público) sobre uso de medios electrónicos, sede electrónica, registro electrónico y relación telemática con la ciudadanía.",
+   "fuente": "LPAC (Ley 39/2015)",
+   "motivoArchivo": "Fuera de alcance: describe el contenido material de una ordenanza concreta (administración electrónica) y remite a las Leyes 39/2015 y 40/2015; no aporta nada sobre la potestad normativa local ni sobre el procedimiento de aprobación.",
+   "temaOrigen": 16
+  }
+ ]
+}

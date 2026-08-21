@@ -1965,3 +1965,76 @@ explicación mal, que para quien estudia es casi igual de dañino.
 Confirmadas: reproducen el literal de las letras a) y e) y sus distractores no
 figuran entre las cinco causas de inadmisión. Son las dos que sobrevivieron al
 arreglo de las otras dos.
+
+
+---
+
+## Tema 16 · auditado (21-ago-2026)
+
+Las 100 del banco original: **31 confirmadas, 54 corregidas y 15 descartadas por
+alcance**, ninguna dudosa. Tema 16: **305 → 290**. Banco: **5.674 → 5.673**.
+Citas sin artículo en el tema: **35 → 2**. En todo el banco: **172 → 141**.
+
+### Una conclusión del auditor que NO se sostiene, y conviene que quede escrita
+
+El auditor concluyó que «ninguna de las 100 preguntas menciona la Ley 10/2017 de
+capitalidad» y que por tanto **la mitad del epígrafe está sin cubrir**. La
+primera mitad de la frase es cierta; la segunda, falsa. El auditor solo veía las
+100 del banco original, y el tema tiene **290**: al medirlo sobre el tema
+completo salen **40 preguntas de la Ley 10/2017**, que cubren los arts. 48.1,
+48.2 con sus tres letras, 48.3 con sus cinco, 48.4 con sus tres, 48.5, 48.6 y el
+art. 49 con sus tres letras. Es decir: **el bloque está cubierto, y bien**. Lo
+que no lo cubría era el material heredado.
+
+**Es el mismo error que ya cometí yo en el tema 14** —dar por descubierto un
+bloque porque los auditores solo habían mirado lo heredado— y por eso lo dejo
+anotado: cuando un auditor diga que falta cobertura, **medirlo sobre el tema
+completo antes de creerlo**.
+
+Lo que sí queda como hueco real, pequeño: el art. 123.1 c) y d) LBRL
+(competencias del Pleno en municipios de gran población) está vigente y **no lo
+usa ninguna pregunta**, aunque Zaragoza es municipio de gran población.
+
+### Seis con un dato falso en la cita o en la explicación
+
+Ninguna tenía la opción marcada materialmente falsa, pero seis enseñaban algo que
+no es. Verificado el art. 25.2 LBRL letra por letra:
+
+| Lo que decía | Lo que dice la ley |
+|---|---|
+| El tráfico es el art. 25.2 **f)** | La f) es «Policía local, protección civil, prevención y extinción de incendios». Tráfico, estacionamiento y movilidad es la **g)** |
+| Los cementerios son el art. 25.2 **j)** | La j) es «Protección de la salubridad pública». Cementerios y actividades funerarias es la **k)** |
+| Fuente «art. 129.5 **LBRL**» | Es el **art. 129.5 LPAC**. El art. 129 LBRL regula la asesoría jurídica en municipios de gran población |
+| Fuente «art. 4 **TRRL**» | El art. 4 TRRL regula la incorporación de municipios: nada que ver |
+| Citaba un «art. 141 **a)**» | El art. 141 LBRL **no tiene letras**: enumera muy graves hasta 3.000 €, graves hasta 1.500 € y leves hasta 750 € |
+| Citaba «literalmente» el art. 4.1 | Daba la redacción de 1985. La Ley 57/2003 la cambió: «En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, corresponden en todo caso...» |
+
+Además, cinco parafraseaban mal el precepto: el dictamen del art. 126.1 ROF es
+**preceptivo y no vinculante**, no «habitual»; la enumeración del art. 129.1 LPAC
+incluye la **eficacia**; la Ley 19/2013 no formula así la obligación de
+transparencia; y la **consulta pública previa del art. 133.1 LPAC sigue siendo
+básica tras la STC 55/2018**, no una «buena práctica».
+
+Una conserva la respuesta literal vigente pero se le añade una advertencia: el
+art. 57 TRRL remite a la prescripción «según el Código Penal para las faltas», y
+**las faltas desaparecieron con la LO 1/2015**; hoy rige el art. 30 de la Ley
+40/2015.
+
+### Letras derogadas: ninguna
+
+Comprobado en el consolidado. El art. 22.2 d) («La aprobación del reglamento
+orgánico y de las ordenanzas») y el art. 127.1 a) están vigentes y literales; la
+letra vaciada del art. 127.1 es la **f)**, que ninguna pregunta cita.
+
+### Las 15 descartadas: contenido material, no norma local
+
+Catorce preguntaban **qué competencia del art. 25.2 LBRL desarrolla una ordenanza
+sectorial concreta** —medio ambiente, aguas residuales, cementerios,
+accesibilidad, animales, comercio ambulante, vía pública, zonas de baño,
+residuos, zonas de bajas emisiones—, que es contenido material y no la norma
+local ni su aprobación. **Catorce se reubican**: once al tema 14 (competencias
+del municipio), una al 10 (terrazas y veladores, uso privativo del dominio
+público), una al 20 (convenios urbanísticos) y una al 8 (órgano que resuelve la
+reposición). Solo **una se archiva**, la de la ordenanza de administración
+electrónica, porque describe el contenido de las Leyes 39/2015 y 40/2015 y no
+encaja en ningún epígrafe.

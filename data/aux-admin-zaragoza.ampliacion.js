@@ -50429,3 +50429,187 @@ window.addQuestions("aux-admin-zaragoza", 16, [
   }
 ]);
 
+
+/* Reubicadas en la auditoría del banco original de agosto de 2026: correctas
+   y dentro del temario, pero el epígrafe que las reclama es otro. Llevan ya la
+   cita verificada contra el consolidado del BOE. */
+window.addQuestions("aux-admin-zaragoza", 8, [
+  {
+    "q": "¿Qué órgano resuelve, en última instancia dentro de la vía administrativa, un recurso de reposición interpuesto contra un acto de aplicación de una ordenanza municipal?",
+    "options": [
+      "El mismo órgano que dictó el acto administrativo impugnado",
+      "La Comunidad Autónoma en todo caso",
+      "El Tribunal Superior de Justicia directamente",
+      "Siempre el Pleno del Ayuntamiento, sin excepción"
+    ],
+    "correct": 0,
+    "exp": "Conforme al régimen general del recurso de reposición, es competente para resolverlo el mismo órgano que dictó el acto administrativo impugnado, sin perjuicio del posterior recurso contencioso-administrativo. (Venía del tema 16 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: no enseña nada sobre la norma local ni sobre su aprobación, sino el órgano competente para resolver un recurso administrativo (art. 123.1 LPAC: el mismo órgano que dictó el acto; art. 14.2 TRLRHL en materia tributaria local). Pertenece al tema de revisión de actos.)",
+    "fuente": "LBRL (Ley 7/1985)"
+  }
+]);
+
+window.addQuestions("aux-admin-zaragoza", 10, [
+  {
+    "q": "¿Qué relación existe entre las ordenanzas municipales sobre terrazas y veladores y el régimen de utilización del dominio público local?",
+    "options": [
+      "Estas ordenanzas desarrollan el régimen de uso privativo o aprovechamiento especial del dominio público local (arts. 74 y siguientes RBEL), habitualmente sujeto a licencia y al pago de la correspondiente tasa",
+      "Se rigen exclusivamente por el Código Civil, sin ninguna intervención municipal",
+      "Las terrazas y veladores nunca requieren ningún tipo de autorización municipal",
+      "Están completamente excluidas de cualquier ordenanza municipal"
+    ],
+    "correct": 0,
+    "exp": "Las ordenanzas sobre terrazas y veladores desarrollan el régimen de uso privativo o aprovechamiento especial del dominio público local, habitualmente sujeto a licencia (o declaración responsable) y al pago de la tasa correspondiente conforme al art. 20.3 j) TRLRHL. (Venía del tema 16 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: el contenido de la pregunta es el régimen de uso privativo y aprovechamiento especial del dominio público local (RBEL) y su tasa, no la norma local ni su procedimiento de aprobación. Pertenece al tema de bienes de las entidades locales.)",
+    "fuente": "Art. 20.3 j) TRLRHL (RDLeg 2/2004)"
+  }
+]);
+
+window.addQuestions("aux-admin-zaragoza", 14, [
+  {
+    "q": "¿Qué relación existe entre las ordenanzas municipales de protección del medio ambiente y la competencia municipal reconocida en el art. 25.2 b) LBRL?",
+    "options": [
+      "La competencia medioambiental municipal fue suprimida por la reforma de 2013",
+      "Las ordenanzas medioambientales están reservadas en exclusiva al Estado, sin que los municipios puedan regular esta materia",
+      "Las ordenanzas medioambientales (ruido, residuos, contaminación) desarrollan, en el ámbito local, la competencia propia municipal en materia de medio ambiente urbano reconocida en el art. 25.2 b) LBRL",
+      "El art. 25.2 b) LBRL prohíbe expresamente las ordenanzas de protección ambiental"
+    ],
+    "correct": 2,
+    "exp": "Las ordenanzas municipales de protección del medio ambiente (ruido, contaminación acústica, gestión de residuos) desarrollan, en el ámbito local, la competencia propia municipal en materia de medio ambiente urbano reconocida en el art. 25.2 b) LBRL. (Venía del tema 16 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: es una pregunta sobre la competencia propia municipal de medio ambiente urbano (art. 25.2 b LBRL), no sobre la norma local ni su aprobación. Encaja en el tema del municipio y sus competencias.)",
+    "fuente": "Art. 25.2 b) LBRL (Ley 7/1985)"
+  },
+  {
+    "q": "¿Qué relación existe entre una ordenanza municipal de vertidos y depuración de aguas residuales y las competencias propias municipales del art. 25.2 LBRL?",
+    "options": [
+      "No guarda ninguna relación con las competencias del art. 25.2 LBRL",
+      "Desarrolla la competencia propia municipal en materia de abastecimiento de agua y tratamiento de aguas residuales, reconocida expresamente en el art. 25.2 c) LBRL",
+      "Es una materia reservada en exclusiva a las Confederaciones Hidrográficas, sin intervención municipal",
+      "Solo puede regularse mediante ley estatal, nunca mediante ordenanza"
+    ],
+    "correct": 1,
+    "exp": "La ordenanza de vertidos y depuración de aguas residuales desarrolla la competencia propia municipal en materia de 'Abastecimiento de agua potable a domicilio y evacuación y tratamiento de aguas residuales', reconocida en el art. 25.2 c) LBRL. (Venía del tema 16 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: pregunta por la competencia propia del art. 25.2 c) LBRL (abastecimiento de agua y tratamiento de aguas residuales), contenido material ajeno a la norma local y su aprobación.)",
+    "fuente": "Art. 25.2 c) LBRL (Ley 7/1985)"
+  },
+  {
+    "q": "¿Qué relación existe entre una ordenanza reguladora de cementerios y servicios funerarios y las competencias propias municipales?",
+    "options": [
+      "Los cementerios son competencia exclusiva de la Iglesia Católica, sin intervención municipal",
+      "Es una materia reservada al Estado, sin posibilidad de ordenanza municipal",
+      "Desarrolla la competencia propia municipal en materia de cementerios y actividades funerarias, reconocida en el art. 25.2 j) LBRL",
+      "Solo puede regularse mediante convenio con una empresa privada, nunca mediante ordenanza"
+    ],
+    "correct": 2,
+    "exp": "La ordenanza reguladora de cementerios y servicios funerarios desarrolla la competencia propia municipal reconocida en el art. 25.2 j) LBRL: 'Cementerios y actividades funerarias.' (Venía del tema 16 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance (competencias del art. 25.2 LBRL) y, además, con la letra equivocada: la opción marcada y la explicación dicen «art. 25.2 j)», pero los cementerios y actividades funerarias son la letra k); la j) es «Protección de la salubridad pública».)",
+    "fuente": "Art. 25.2 j) LBRL (Ley 7/1985)"
+  },
+  {
+    "q": "¿Qué relación existe entre las ordenanzas de accesibilidad y supresión de barreras arquitectónicas y las competencias municipales en materia de urbanismo?",
+    "options": [
+      "Son competencia exclusiva de las asociaciones de personas con discapacidad, sin intervención municipal",
+      "Solo pueden aprobarse mediante ley orgánica estatal",
+      "No tienen ninguna relación con el urbanismo municipal",
+      "Se enmarcan dentro de la competencia propia municipal de ordenación, gestión, ejecución y disciplina urbanística (art. 25.2 a LBRL), desarrollando exigencias de accesibilidad universal"
+    ],
+    "correct": 3,
+    "exp": "Las ordenanzas de accesibilidad y supresión de barreras arquitectónicas se enmarcan dentro de la competencia propia municipal de urbanismo (art. 25.2 a LBRL), desarrollando las exigencias de accesibilidad universal en el diseño y uso del espacio urbano. (Venía del tema 16 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: es la competencia urbanística del art. 25.2 a) LBRL aplicada a la accesibilidad, no la norma local ni su aprobación.)",
+    "fuente": "Art. 25.2 LBRL (Ley 7/1985)"
+  },
+  {
+    "q": "¿Qué relación existe entre las ordenanzas municipales de tenencia de animales y las competencias propias municipales en materia de salubridad pública?",
+    "options": [
+      "Desarrollan la competencia propia municipal en materia de protección de la salubridad pública, reconocida en el art. 25.2 j) LBRL",
+      "No guardan relación alguna con las competencias sanitarias municipales",
+      "Son competencia exclusiva de la Comunidad Autónoma, sin intervención municipal",
+      "Solo pueden aprobarse a nivel estatal mediante ley orgánica"
+    ],
+    "correct": 0,
+    "exp": "Las ordenanzas sobre tenencia de animales desarrollan la competencia propia municipal en materia de protección de la salubridad pública, en conexión con el art. 25.2 j) LBRL, que atribuye a los municipios competencias en esta materia. (Venía del tema 16 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: pregunta por la competencia propia de protección de la salubridad pública (art. 25.2 j LBRL), no por la norma local ni su aprobación.)",
+    "fuente": "Art. 25.2 j) LBRL (Ley 7/1985)"
+  },
+  {
+    "q": "¿Qué relación existe entre las ordenanzas municipales reguladoras del comercio ambulante y las competencias propias del municipio en materia de abastos y mercados?",
+    "options": [
+      "Solo puede regularse mediante convenio con las asociaciones de comerciantes",
+      "Desarrollan la competencia propia municipal sobre 'Ferias, abastos, mercados, lonjas y comercio ambulante', reconocida en el art. 25.2 i) LBRL",
+      "El comercio ambulante es competencia exclusiva estatal, sin intervención municipal posible",
+      "No existe ninguna competencia municipal relacionada con el comercio ambulante"
+    ],
+    "correct": 1,
+    "exp": "Las ordenanzas de comercio ambulante desarrollan la competencia propia municipal recogida en el art. 25.2 i) LBRL: 'Ferias, abastos, mercados, lonjas y comercio ambulante.' (Venía del tema 16 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: competencia propia del art. 25.2 i) LBRL (ferias, abastos, mercados, lonjas y comercio ambulante), contenido material ajeno a este tema.)",
+    "fuente": "Art. 25.2 i) LBRL (Ley 7/1985)"
+  },
+  {
+    "q": "¿Qué relación existe entre una ordenanza de vía pública (ocupación de aceras, obras, vados) y el art. 25.2 a) LBRL?",
+    "options": [
+      "No tiene relación con ninguna competencia municipal reconocida legalmente",
+      "Es competencia exclusiva de la Dirección General de Tráfico",
+      "Desarrolla la competencia municipal en materia de urbanismo y, en su caso, la regulación de usos del dominio público local",
+      "Solo puede aprobarse tras autorización previa del Ministerio de Fomento"
+    ],
+    "correct": 2,
+    "exp": "Las ordenanzas de vía pública desarrollan, entre otras, la competencia municipal en materia de urbanismo (art. 25.2 a LBRL) y la regulación del uso del dominio público local, en conexión con las tasas del art. 20.3 TRLRHL. (Venía del tema 16 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: competencia urbanística y uso del dominio público (art. 25.2 a LBRL y art. 20.3 TRLRHL), no la norma local ni su procedimiento.)",
+    "fuente": "Art. 25.2 LBRL (Ley 7/1985)"
+  },
+  {
+    "q": "¿Qué relación existe entre una ordenanza reguladora del uso de las playas fluviales o zonas de baño municipales y las competencias en materia de protección civil?",
+    "options": [
+      "Puede desarrollar, entre otras, la competencia propia municipal de protección civil y prevención de riesgos (art. 25.2 f LBRL), estableciendo normas de seguridad y uso",
+      "Es competencia exclusiva de Costas, sin intervención municipal",
+      "Solo puede aprobarse mediante decreto autonómico, nunca ordenanza",
+      "No guarda relación alguna con la protección civil municipal"
+    ],
+    "correct": 0,
+    "exp": "Una ordenanza de uso de zonas de baño puede desarrollar, entre otras, la competencia municipal de protección civil y prevención de riesgos (art. 25.2 f LBRL), estableciendo normas de seguridad, señalización y comportamiento en dichas zonas. (Venía del tema 16 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: competencia propia de policía local y protección civil (art. 25.2 f LBRL) aplicada a zonas de baño; no trata de la norma local ni de su aprobación.)",
+    "fuente": "Art. 25.2 LBRL (Ley 7/1985)"
+  },
+  {
+    "q": "¿Qué relación existe entre la ordenanza municipal de residuos y la Ley 7/2022, de residuos y suelos contaminados?",
+    "options": [
+      "La Ley 7/2022 deroga completamente la posibilidad de que los municipios regulen esta materia mediante ordenanza",
+      "La ordenanza municipal desarrolla, en su ámbito de competencia, las obligaciones y previsiones que la legislación estatal de residuos impone a las Entidades Locales en materia de recogida, tratamiento y gestión de residuos urbanos",
+      "No existe ninguna relación entre ambas normas",
+      "Solo el Estado puede regular la gestión de residuos, sin ninguna competencia municipal"
+    ],
+    "correct": 1,
+    "exp": "La ordenanza municipal de residuos desarrolla, en su ámbito competencial, las obligaciones que la legislación estatal (actualmente la Ley 7/2022, de residuos y suelos contaminados para una economía circular) impone a las Entidades Locales en materia de recogida, tratamiento y gestión de residuos urbanos, en conexión con la competencia propia del art. 25.2 b) LBRL. (Venía del tema 16 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: contenido material de una ordenanza sectorial concreta (residuos, Ley 7/2022) y competencia del art. 25.2 b) LBRL.)",
+    "fuente": "Art. 25.2 b) LBRL (Ley 7/1985)"
+  },
+  {
+    "q": "¿Qué relación existe entre las ordenanzas de zonas de bajas emisiones y la Ley 7/2021, de cambio climático y transición energética?",
+    "options": [
+      "Son competencia exclusiva de la Unión Europea, sin intervención municipal",
+      "No guardan relación alguna con la legislación estatal de cambio climático",
+      "Desarrollan, en el ámbito local, la obligación legal de establecer zonas de bajas emisiones en municipios de más de 50.000 habitantes y territorios insulares, impuesta por dicha ley",
+      "Solo pueden aprobarse mediante referéndum municipal vinculante"
+    ],
+    "correct": 2,
+    "exp": "Las ordenanzas de zonas de bajas emisiones desarrollan, en el ámbito local, la obligación establecida por la Ley 7/2021, de cambio climático y transición energética, de implantar dichas zonas en municipios de más de 50.000 habitantes y determinados territorios insulares, en conexión con la tasa específica del art. 24.1 a) TRLRHL. (Venía del tema 16 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: la obligación de implantar zonas de bajas emisiones procede de la Ley 7/2021, norma que no figura en el temario, y la pregunta no versa sobre la potestad normativa local ni su procedimiento. La competencia de apoyo sería el art. 25.2 g) LBRL (tráfico y movilidad).)",
+    "fuente": "Art. 24.1 a) TRLRHL (RDLeg 2/2004)"
+  },
+  {
+    "q": "En síntesis, ¿qué característica común presentan todas las materias sectoriales mencionadas (medio ambiente, tráfico, comercio, residuos, zonas de bajas emisiones) en relación con la potestad de dictar ordenanzas municipales?",
+    "options": [
+      "Todas ellas se desarrollan, en el ámbito local, mediante ordenanzas municipales que concretan y aplican, dentro de las competencias propias municipales, las previsiones generales establecidas por la legislación sectorial estatal o autonómica",
+      "Ninguna de estas materias puede regularse mediante ordenanza municipal",
+      "Todas estas materias son de competencia exclusiva estatal, sin ninguna intervención municipal",
+      "Las ordenanzas municipales carecen de cualquier conexión con la legislación sectorial"
+    ],
+    "correct": 0,
+    "exp": "Todas estas materias sectoriales comparten una característica común: se desarrollan, en el ámbito local, mediante ordenanzas municipales que concretan y aplican, dentro del marco de las competencias propias municipales (art. 25.2 LBRL), las previsiones generales establecidas por la legislación sectorial estatal o autonómica correspondiente. (Venía del tema 16 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: es la síntesis del bloque de competencias sectoriales del art. 25.2 LBRL (preguntas 82 a 98), no del régimen de los reglamentos y ordenanzas y su aprobación.)",
+    "fuente": "Art. 25.2 LBRL (Ley 7/1985)"
+  }
+]);
+
+window.addQuestions("aux-admin-zaragoza", 20, [
+  {
+    "q": "¿Qué relación existe entre una ordenanza municipal y un convenio urbanístico suscrito entre el Ayuntamiento y un particular?",
+    "options": [
+      "Un convenio urbanístico tiene exactamente la misma naturaleza y procedimiento que una ordenanza",
+      "Los convenios urbanísticos están prohibidos por la legislación de régimen local",
+      "El convenio urbanístico es un instrumento de naturaleza contractual o convencional, distinto de la ordenanza, aunque debe respetar en todo caso el planeamiento y la normativa urbanística vigente, incluidas las ordenanzas aplicables",
+      "El convenio urbanístico puede modificar libremente cualquier ordenanza sin seguir su procedimiento de modificación"
+    ],
+    "correct": 2,
+    "exp": "El convenio urbanístico es un instrumento de naturaleza contractual o convencional entre la Administración y un particular, distinto de la ordenanza (que es una disposición general unilateral), debiendo respetar en todo caso el planeamiento y la normativa urbanística vigente, sin poder modificarla al margen de su propio procedimiento. (Venía del tema 16 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: la naturaleza y límites de los convenios urbanísticos es materia de la legislación urbanística, no del régimen de las ordenanzas y su aprobación.)",
+    "fuente": "LBRL (Ley 7/1985)"
+  }
+]);
+

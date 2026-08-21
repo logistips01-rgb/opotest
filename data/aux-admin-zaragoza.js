@@ -18624,7 +18624,7 @@ const QUESTIONS = {
 ],
 16:[
   {
-    "q": "Según el art. 4.1 a) de la LBRL, en la esfera de sus competencias, corresponde en todo caso a los municipios, las provincias y las islas:",
+    "q": "Según el art. 4.1 a) de la LBRL, en su calidad de Administraciones públicas de carácter territorial y dentro de la esfera de sus competencias, corresponden en todo caso a los municipios, las provincias y las islas:",
     "options": [
       "Las potestades reglamentaria y de autoorganización",
       "Exclusivamente la potestad expropiatoria",
@@ -18632,7 +18632,7 @@ const QUESTIONS = {
       "Solo la potestad tributaria"
     ],
     "correct": 0,
-    "exp": "Art. 4.1 a) LBRL: 'En la esfera de sus competencias, corresponde en todo caso a los municipios, las provincias y las islas: a) Las potestades reglamentaria y de autoorganización.'",
+    "exp": "Art. 4.1 LBRL (redacción de la Ley 57/2003): «En su calidad de Administraciones públicas de carácter territorial, y dentro de la esfera de sus competencias, corresponden en todo caso a los municipios, las provincias y las islas: a) Las potestades reglamentaria y de autoorganización.»",
     "fuente": "Art. 4.1 a) LBRL (Ley 7/1985)"
   },
   {
@@ -18669,7 +18669,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "Art. 56 TRRL: 'La aprobación de las Ordenanzas locales se ajustará al procedimiento establecido en el artículo 49 de la Ley 7/1985, de 2 de abril.'",
-    "fuente": "Art. 56 TRRL (RDLeg 781/1986)"
+    "fuente": "Art. 56, párrafo 1.º, TRRL (RDLeg 781/1986)"
   },
   {
     "q": "Según el art. 56 del TRRL, para la modificación de las Ordenanzas y Reglamentos:",
@@ -18681,7 +18681,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "Art. 56 TRRL: 'Para la modificación de las Ordenanzas y Reglamentos deberán observarse los mismos trámites que para su aprobación.'",
-    "fuente": "Art. 56 TRRL (RDLeg 781/1986)"
+    "fuente": "Art. 56, párrafo 2.º, TRRL (RDLeg 781/1986)"
   },
   {
     "q": "Según el art. 49 de la LBRL, la aprobación de las Ordenanzas locales se ajustará al siguiente procedimiento, en su fase a):",
@@ -18728,8 +18728,8 @@ const QUESTIONS = {
       "Debe repetirse el trámite de información pública otra vez"
     ],
     "correct": 0,
-    "exp": "Art. 49 in fine: 'En el caso de que no se hubiera presentado ninguna reclamación o sugerencia, se entenderá definitivamente adoptado el acuerdo hasta entonces provisional.'",
-    "fuente": "Art. 49 LBRL (Ley 7/1985)"
+    "exp": "Párrafo final de la letra c) del art. 49 LBRL (añadido por la Ley 11/1999): «En el caso de que no se hubiera presentado ninguna reclamación o sugerencia, se entenderá definitivamente adoptado el acuerdo hasta entonces provisional.» Ojo: esta aprobación tácita es la del régimen general; en la Ley 10/2017 de capitalidad de Zaragoza solo existe para las ordenanzas fiscales (art. 49 c), no para los reglamentos y ordenanzas ordinarios, cuyo art. 48.3 d) exige aprobación en acto único por el Pleno resolviendo las reclamaciones.",
+    "fuente": "Art. 49 c), párrafo final, LBRL (Ley 7/1985)"
   },
   {
     "q": "Según el art. 22.2 d) de la LBRL, corresponde al Pleno del Ayuntamiento, en todo caso:",
@@ -18764,8 +18764,8 @@ const QUESTIONS = {
       "Mayoría simple de los miembros presentes, salvo previsión legal expresa de mayoría cualificada"
     ],
     "correct": 3,
-    "exp": "Con carácter general, la aprobación de ordenanzas (distintas del Reglamento Orgánico) se rige por el principio de mayoría simple de los miembros presentes, salvo que una norma exija expresamente una mayoría cualificada.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "exp": "Art. 47.1 LBRL: «Los acuerdos de las corporaciones locales se adoptan, como regla general, por mayoría simple de los miembros presentes. Existe mayoría simple cuando los votos afirmativos son más que los negativos.» La mayoría absoluta solo se exige en los supuestos del art. 47.2, entre ellos la letra f) (reglamento orgánico propio).",
+    "fuente": "Art. 47.1 LBRL (Ley 7/1985), en relación con el art. 47.2 f)"
   },
   {
     "q": "Según el art. 70.2 de la LBRL, los acuerdos que aprueben ordenanzas y reglamentos se publican en:",
@@ -18789,19 +18789,19 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "Art. 70.2 LBRL: las ordenanzas y reglamentos no entrarán en vigor hasta que se haya publicado completamente su texto y haya transcurrido el plazo previsto en el art. 65.2 (15 días hábiles), salvo que se trate de presupuestos y ordenanzas fiscales, que se rigen por su propia normativa de publicación y entrada en vigor.",
-    "fuente": "Art. 70.2 LBRL (Ley 7/1985)"
+    "fuente": "Art. 70.2 LBRL en relación con el art. 65.2 LBRL (Ley 7/1985)"
   },
   {
-    "q": "¿Qué órgano tiene, con carácter general, la iniciativa para elaborar y proponer proyectos de ordenanzas y reglamentos municipales, salvo previsión distinta para municipios de gran población?",
+    "q": "En el régimen común, ¿a quién corresponde impulsar la elaboración de los proyectos de ordenanzas y reglamentos municipales, sin perjuicio del régimen especial de los municipios de gran población?",
     "options": [
-      "Exclusivamente la Comunidad Autónoma",
-      "Únicamente el Secretario municipal, en exclusiva",
-      "El Alcalde, sin perjuicio de que cualquier concejal o grupo municipal pueda presentar propuestas",
-      "Solo el Consejo de la Ciudad, sin intervención de órganos de gobierno"
+      "Exclusivamente a la Comunidad Autónoma",
+      "Únicamente al Secretario municipal, en exclusiva",
+      "Al Alcalde, que dirige el gobierno y la administración municipal, sin perjuicio de que los grupos políticos y los concejales puedan presentar proposiciones al Pleno",
+      "Solo al Consejo de la Ciudad, sin intervención de órganos de gobierno"
     ],
     "correct": 2,
-    "exp": "Con carácter general, corresponde al Alcalde impulsar la iniciativa de elaboración de ordenanzas y reglamentos, sin perjuicio de que cualquier concejal o grupo municipal pueda presentar propuestas para su tramitación por el Pleno.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "exp": "La LBRL no regula expresamente la iniciativa normativa en el régimen común: el impulso corresponde al Alcalde, a quien el art. 21.1 a) LBRL atribuye dirigir el gobierno y la administración municipal, sin perjuicio de las proposiciones de los grupos y concejales (art. 97 ROF). En los municipios de gran población sí hay regla expresa: la Junta de Gobierno Local aprueba los proyectos de ordenanzas y reglamentos (art. 127.1 a LBRL), salvo las normas reguladoras del Pleno y sus comisiones.",
+    "fuente": "Art. 21.1 a) LBRL y art. 97 ROF; art. 127.1 a) LBRL para municipios de gran población"
   },
   {
     "q": "Según el art. 127.1 a) de la LBRL, en los municipios de gran población, ¿qué órgano tiene atribuida la aprobación de los proyectos de ordenanzas y reglamentos, con carácter previo a su tramitación por el Pleno?",
@@ -18825,7 +18825,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El Reglamento Orgánico es la norma autónoma de cada Corporación Local en la que se regula su propia organización y funcionamiento, manifestando y ejerciendo así las potestades de autonomía que el ordenamiento jurídico le confiere.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Arts. 4.1 a), 20.3 y 22.2 d) LBRL (Ley 7/1985)"
   },
   {
     "q": "¿Existe una norma estatal que contenga un catálogo mínimo cerrado de materias que deba incluir necesariamente un Reglamento Orgánico municipal?",
@@ -18836,8 +18836,8 @@ const QUESTIONS = {
       "Sí, el art. 20 LBRL lo enumera de forma exhaustiva y cerrada"
     ],
     "correct": 1,
-    "exp": "No existe ninguna norma estatal que contenga un catálogo mínimo cerrado de las materias susceptibles de incluirse en el Reglamento Orgánico, quedando su contenido concreto a la potestad de autoorganización de cada Corporación.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "exp": "No hay norma estatal con un catálogo mínimo cerrado del contenido del reglamento orgánico: el art. 20.3 LBRL permite a los municipios establecer y regular en él otros órganos complementarios, dentro de lo previsto en el art. 20 y en la legislación autonómica (art. 20.2), y el ROF (RD 2568/1986) opera solo en defecto de reglamento orgánico propio. El contenido concreto queda a la potestad de autoorganización (art. 4.1 a LBRL).",
+    "fuente": "Arts. 4.1 a), 20.1 c), 20.2 y 20.3 LBRL (Ley 7/1985); ROF (RD 2568/1986) como derecho supletorio"
   },
   {
     "q": "¿Qué diferencia esencial señala la doctrina entre los efectos de las Ordenanzas y Bandos, por un lado, y los Reglamentos, por otro, en el ámbito local?",
@@ -18849,7 +18849,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "La doctrina distingue que las Ordenanzas y Bandos constituyen una forma de intervención de las Corporaciones Locales en la actividad de los ciudadanos, con efectos 'ad extra'; los Reglamentos suelen tener, en cambio, una vigencia 'ad intra' de la propia Corporación.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 55 TRRL (RDLeg 781/1986); distinción doctrinal ad extra / ad intra"
   },
   {
     "q": "¿Qué significa que una norma produzca efectos 'ad intra'?",
@@ -18861,7 +18861,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "Una norma produce efectos 'ad intra' cuando se dirige exclusivamente al personal u organización interna de la entidad que la adopta, a diferencia de los efectos 'ad extra', que vinculan a terceros ajenos a dicha entidad.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Concepto doctrinal (ad intra); art. 55 TRRL y art. 6 Ley 40/2015 para instrucciones y órdenes de servicio"
   },
   {
     "q": "¿Cuál es el valor normativo relativo entre una Ordenanza y un Reglamento local, una vez publicados y en vigor?",
@@ -18873,7 +18873,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "Una vez publicados, tanto las Ordenanzas como los Reglamentos locales tienen idéntico valor normativo, formando parte del ordenamiento jurídico y quedando sometidos igualmente al control de legalidad de los Tribunales.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 55 TRRL (RDLeg 781/1986) y art. 70.2 LBRL (Ley 7/1985)"
   },
   {
     "q": "¿Qué control jurisdiccional se ejerce sobre la legalidad de las Ordenanzas y Reglamentos locales?",
@@ -18885,7 +18885,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "La legalidad de las Ordenanzas y Reglamentos locales está controlada por los Tribunales, principalmente a través de la jurisdicción contencioso-administrativa, que puede declarar su nulidad si son contrarios a Derecho.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 25.1 LJCA (Ley 29/1998) y arts. 63 y 65 a 67 LBRL (Ley 7/1985)"
   },
   {
     "q": "Según el art. 57 del TRRL, las infracciones de las Ordenanzas, Reglamentos y Bandos se someten a los plazos de prescripción que establece:",
@@ -18896,8 +18896,8 @@ const QUESTIONS = {
       "El Código Civil para las obligaciones extracontractuales"
     ],
     "correct": 2,
-    "exp": "Art. 57 TRRL: 'Serán de aplicación a las infracciones de las Ordenanzas, Reglamentos y Bandos los plazos de prescripción que establece el Código Penal para las faltas, sin perjuicio de lo que, en cada caso, establezcan las leyes.'",
-    "fuente": "Art. 57 TRRL (RDLeg 781/1986)"
+    "exp": "Art. 57 TRRL (literal vigente): «Serán de aplicación a las infracciones de las Ordenanzas, Reglamentos y Bandos los plazos de prescripción que establece el Código Penal para las faltas, sin perjuicio de lo que, en cada caso, establezcan las leyes.» Advertencia: las faltas desaparecieron del Código Penal con la LO 1/2015, por lo que hoy la remisión está vacía y se aplican los plazos de prescripción de las infracciones y sanciones administrativas (art. 30 Ley 40/2015) o los que fije la ley sectorial.",
+    "fuente": "Art. 57 TRRL (RDLeg 781/1986); hoy, art. 30 Ley 40/2015"
   },
   {
     "q": "Según el art. 58 del TRRL, para la exacción de multas por infracción de Ordenanzas, en defecto de pago voluntario, se sigue:",
@@ -18924,7 +18924,7 @@ const QUESTIONS = {
     "fuente": "Art. 4.1 f) LBRL (Ley 7/1985)"
   },
   {
-    "q": "Según el art. 139 de la LBRL, para la adecuada ordenación de las relaciones de convivencia de interés local y del uso de sus servicios, equipamientos e instalaciones, los entes locales podrán, en defecto de normativa sectorial específica:",
+    "q": "Según el art. 139 de la LBRL, para la adecuada ordenación de las relaciones de convivencia de interés local y del uso de sus servicios, equipamientos, infraestructuras, instalaciones y espacios públicos, los entes locales podrán, en defecto de normativa sectorial específica:",
     "options": [
       "Imponer sanciones sin ningún límite ni tipificación previa",
       "Establecer los tipos de las infracciones e imponer sanciones por el incumplimiento de deberes, prohibiciones o limitaciones contenidos en las correspondientes ordenanzas",
@@ -18932,7 +18932,7 @@ const QUESTIONS = {
       "Delegar la potestad sancionadora en una empresa privada"
     ],
     "correct": 1,
-    "exp": "Art. 139 LBRL: en defecto de normativa sectorial específica, las Entidades Locales pueden establecer los tipos de las infracciones e imponer sanciones por el incumplimiento de deberes, prohibiciones o limitaciones establecidos en sus ordenanzas, con respeto a los criterios del propio Título XI de la LBRL.",
+    "exp": "Art. 139 LBRL: en defecto de normativa sectorial específica, los entes locales podrán «establecer los tipos de las infracciones e imponer sanciones por el incumplimiento de deberes, prohibiciones o limitaciones contenidos en las correspondientes ordenanzas, de acuerdo con los criterios establecidos en los artículos siguientes» (arts. 140 y 141).",
     "fuente": "Art. 139 LBRL (Ley 7/1985)"
   },
   {
@@ -18956,8 +18956,8 @@ const QUESTIONS = {
       "3.000 euros"
     ],
     "correct": 3,
-    "exp": "Art. 141 a) LBRL: con carácter general, las infracciones muy graves pueden sancionarse hasta 3.000 euros, salvo que una norma con rango de ley establezca cuantías superiores para sectores concretos.",
-    "fuente": "Art. 141 a) LBRL (Ley 7/1985)"
+    "exp": "Art. 141 LBRL: «Salvo previsión legal distinta, las multas por infracción de Ordenanzas locales deberán respetar las siguientes cuantías: Infracciones muy graves: hasta 3.000 euros. Infracciones graves: hasta 1.500 euros. Infracciones leves: hasta 750 euros.» El precepto no está dividido en letras.",
+    "fuente": "Art. 141 LBRL (Ley 7/1985)"
   },
   {
     "q": "¿Qué relación existe entre el trámite de información pública de las ordenanzas (art. 49 LBRL) y el principio de participación ciudadana?",
@@ -18969,7 +18969,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El trámite de información pública y audiencia a los interesados (art. 49 b LBRL) constituye una manifestación concreta del derecho de participación ciudadana en la gestión municipal, permitiendo a los vecinos y entidades presentar alegaciones antes de la aprobación definitiva de la norma.",
-    "fuente": "Art. 49 LBRL (Ley 7/1985)"
+    "fuente": "Art. 49 b) LBRL (Ley 7/1985) en relación con el art. 105 a) CE"
   },
   {
     "q": "¿Qué relación existe entre el art. 49 LBRL (procedimiento de ordenanzas) y el art. 17 del TRLRHL (procedimiento de ordenanzas fiscales)?",
@@ -18980,8 +18980,8 @@ const QUESTIONS = {
       "Las ordenanzas fiscales no siguen ningún procedimiento formal de aprobación"
     ],
     "correct": 1,
-    "exp": "El art. 17 TRLRHL establece, para las ordenanzas fiscales, un procedimiento con particularidades propias (publicación reforzada en diarios de mayor difusión para determinadas entidades), dentro del marco general de tramitación de ordenanzas fijado por el art. 49 LBRL.",
-    "fuente": "Art. 17 TRLRHL (RDLeg 2/2004)"
+    "exp": "El art. 17 TRLRHL fija para las ordenanzas fiscales un procedimiento propio: exposición pública en el tablón de anuncios durante treinta días como mínimo (17.1), anuncio en el boletín oficial de la provincia y, además, en un diario de los de mayor difusión en diputaciones, entidades supramunicipales y ayuntamientos de más de 10.000 habitantes (17.2), y aprobación definitiva resolviendo reclamaciones, entendiéndose definitivamente adoptado el acuerdo provisional si no se presentaron, sin necesidad de acuerdo plenario (17.3).",
+    "fuente": "Art. 17.1 a 17.4 TRLRHL (RDLeg 2/2004), en relación con el art. 49 LBRL"
   },
   {
     "q": "¿Puede una ordenanza municipal regular una materia ya regulada por una ley estatal o autonómica?",
@@ -18993,7 +18993,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "Una ordenanza municipal puede desarrollar y complementar, dentro del ámbito de las competencias municipales, una materia ya regulada por ley estatal o autonómica, siempre que no la contradiga ni invada materias reservadas constitucionalmente a la ley (como los derechos fundamentales).",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 55 TRRL (RDLeg 781/1986) y art. 128.2 LPAC (Ley 39/2015); art. 4.1 a) LBRL"
   },
   {
     "q": "¿Qué relación existe entre la potestad reglamentaria local y el principio de reserva de ley?",
@@ -19004,8 +19004,8 @@ const QUESTIONS = {
       "La potestad reglamentaria local debe respetar la reserva de ley en aquellas materias que la Constitución reserva a normas con rango legal, no pudiendo la ordenanza suplir la falta de ley habilitante en tales casos"
     ],
     "correct": 3,
-    "exp": "La potestad reglamentaria local, como toda potestad reglamentaria, debe respetar el principio de reserva de ley: en las materias que la Constitución reserva a la ley (por ejemplo, el desarrollo de derechos fundamentales), la ordenanza no puede suplir la falta de habilitación legal previa.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "exp": "El art. 128.2 LPAC prohíbe a los reglamentos y disposiciones administrativas vulnerar la Constitución o las leyes y regular materias reservadas al legislador y, sin perjuicio de su función de desarrollo de la ley, tipificar delitos, faltas o infracciones administrativas, establecer penas o sanciones, tributos o cargas patrimoniales. En la misma línea, el art. 55 TRRL: las ordenanzas «en ningún caso contendrán preceptos opuestos a las leyes».",
+    "fuente": "Art. 128.2 LPAC (Ley 39/2015) y art. 55 TRRL (RDLeg 781/1986)"
   },
   {
     "q": "¿Qué relación existe entre el art. 128 de la LBRL (Distritos en municipios de gran población) y la potestad de dictar ordenanzas?",
@@ -19017,7 +19017,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "Los Distritos son órganos de gestión desconcentrada sin personalidad jurídica propia distinta de la del municipio, por lo que no ostentan potestad normativa propia: la aprobación de ordenanzas y reglamentos sigue correspondiendo al Pleno del Ayuntamiento, sin perjuicio de que las Juntas puedan informar o proponer sobre ordenanzas que afecten a su territorio.",
-    "fuente": "Art. 128 LBRL (Ley 7/1985)"
+    "fuente": "Art. 128 LBRL en relación con el art. 123.1 c) y d) LBRL (Ley 7/1985)"
   },
   {
     "q": "En síntesis, ¿qué tres tipos de normas locales distingue fundamentalmente la legislación de régimen local?",
@@ -19041,7 +19041,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "Las ordenanzas de policía o intervención regulan el ejercicio de actividades, comportamientos o el uso del dominio público; las ordenanzas fiscales regulan específicamente los elementos esenciales de un tributo local (hecho imponible, sujeto pasivo, base, cuota, devengo), conforme al art. 16 TRLRHL.",
-    "fuente": "Art. 16 TRLRHL (RDLeg 2/2004)"
+    "fuente": "Art. 16.1 a) TRLRHL (RDLeg 2/2004)"
   },
   {
     "q": "¿Qué tipo de ordenanza regula, típicamente, aspectos como el mantenimiento de la limpieza viaria, el uso de terrazas o la tenencia de animales?",
@@ -19053,7 +19053,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "Aspectos como la limpieza viaria, el uso de terrazas o la tenencia de animales se regulan típicamente mediante ordenanzas de policía o de convivencia ciudadana, orientadas a la intervención administrativa sobre comportamientos y usos del espacio público.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 55 TRRL (RDLeg 781/1986); competencias del art. 25.2 b), f) y j) LBRL"
   },
   {
     "q": "¿Qué naturaleza tiene, dentro de la tipología de normas locales, una 'ordenanza de circulación' o de tráfico?",
@@ -19064,8 +19064,8 @@ const QUESTIONS = {
       "Una ordenanza fiscal, al implicar el pago de sanciones económicas"
     ],
     "correct": 0,
-    "exp": "La ordenanza de circulación es una ordenanza de policía o intervención, dictada en ejercicio de la competencia municipal de ordenación del tráfico de vehículos y personas en las vías urbanas (art. 25.2 f LBRL).",
-    "fuente": "Art. 25.2 LBRL (Ley 7/1985)"
+    "exp": "La ordenanza de circulación es una ordenanza de policía o intervención, dictada al amparo de la competencia propia municipal del art. 25.2 g) LBRL: «Tráfico, estacionamiento de vehículos y movilidad. Transporte colectivo urbano.»",
+    "fuente": "Art. 25.2 g) LBRL (Ley 7/1985) y art. 55 TRRL"
   },
   {
     "q": "¿Puede el Bando del Alcalde regular, con carácter permanente, una materia que exceda de asuntos puntuales o de escasa entidad normativa?",
@@ -19077,7 +19077,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El Bando, dictado por el Alcalde, se reserva habitualmente para asuntos puntuales, urgentes o de escasa entidad normativa (medidas de orden público en fiestas, por ejemplo); la regulación permanente y de mayor calado corresponde a la ordenanza, aprobada por el Pleno siguiendo el procedimiento del art. 49 LBRL.",
-    "fuente": "Art. 49 LBRL (Ley 7/1985)"
+    "fuente": "Art. 21.1 e) LBRL y art. 55 TRRL; art. 49 LBRL para el procedimiento de la ordenanza"
   },
   {
     "q": "¿Puede un Bando del Alcalde contradecir lo dispuesto en una ordenanza municipal vigente?",
@@ -19089,7 +19089,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "Al tener la ordenanza mayor rango normativo dentro del ordenamiento municipal (aprobada por el Pleno tras un procedimiento reforzado), el Bando del Alcalde no puede contradecir lo dispuesto válidamente en una ordenanza vigente.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 21.1 e) LBRL frente a los arts. 22.2 d) y 49 LBRL (Ley 7/1985); art. 55 TRRL"
   },
   {
     "q": "¿Qué requisito formal, común a ordenanzas y reglamentos, resulta imprescindible para su entrada en vigor conforme al art. 70.2 LBRL?",
@@ -19132,12 +19132,12 @@ const QUESTIONS = {
     "options": [
       "Tiene potestad para vetar de forma definitiva cualquier proyecto de ordenanza",
       "Sustituye completamente al Pleno en la aprobación de la ordenanza",
-      "Emite un dictamen previo a la aprobación inicial por el Pleno, como trámite habitual dentro del procedimiento interno de elaboración",
+      "Emite, antes de la aprobación inicial por el Pleno, un dictamen preceptivo y no vinculante sobre el proyecto de ordenanza",
       "Solo interviene después de la aprobación definitiva, nunca antes"
     ],
     "correct": 2,
-    "exp": "La Comisión Informativa (u órgano con funciones de estudio, informe o consulta) emite, con carácter habitual, un dictamen previo sobre el proyecto de ordenanza antes de su aprobación inicial por el Pleno, en coherencia con la organización de los arts. 20 y 22 LBRL.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "exp": "Las Comisiones Informativas son órganos sin atribuciones resolutorias cuya función es el estudio, informe o consulta de los asuntos que han de someterse a la decisión del Pleno (art. 123.1 ROF); sus dictámenes «tienen carácter preceptivo y no vinculante» (art. 126.1 ROF), salvo los acuerdos declarados urgentes (art. 126.2 ROF). Su existencia responde al art. 20.1 c) LBRL.",
+    "fuente": "Arts. 123.1 y 126.1 ROF (RD 2568/1986); art. 20.1 c) LBRL"
   },
   {
     "q": "¿Qué relación existe entre el trámite de información pública de una ordenanza (art. 49 b LBRL) y el derecho de los vecinos a presentar peticiones y quejas (art. 18 LBRL)?",
@@ -19149,7 +19149,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "El trámite de información pública y audiencia previsto en el art. 49 b) LBRL constituye un cauce reforzado y específico para que los vecinos ejerzan, respecto de una ordenanza concreta, su derecho general a presentar peticiones y sugerencias sobre los asuntos de interés municipal.",
-    "fuente": "Art. 49 b) LBRL (Ley 7/1985)"
+    "fuente": "Art. 49 b) LBRL en relación con el art. 18.1 b) y e) LBRL (Ley 7/1985)"
   },
   {
     "q": "¿Qué tipo de recurso cabe interponer, con carácter general, contra la aprobación definitiva de una ordenanza municipal, una vez publicada?",
@@ -19160,8 +19160,8 @@ const QUESTIONS = {
       "Recurso extraordinario de revisión ante el Consejo de Estado"
     ],
     "correct": 0,
-    "exp": "Contra la aprobación definitiva de una ordenanza municipal, una vez publicada, cabe interponer directamente recurso contencioso-administrativo, sin que sea preceptivo un recurso administrativo previo, dado su carácter de disposición general.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "exp": "El art. 112.3 LPAC establece que «contra las disposiciones administrativas de carácter general no cabrá recurso en vía administrativa»; por tanto, contra la ordenanza publicada procede directamente el recurso contencioso-administrativo (art. 25.1 LJCA), en el plazo de dos meses desde el día siguiente a su publicación (art. 46.1 LJCA).",
+    "fuente": "Art. 112.3 LPAC (Ley 39/2015) y arts. 25.1 y 46.1 LJCA (Ley 29/1998)"
   },
   {
     "q": "¿Puede un particular impugnar directamente una ordenanza municipal ante los Tribunales, sin necesidad de esperar a un acto de aplicación concreto?",
@@ -19172,8 +19172,8 @@ const QUESTIONS = {
       "Sí, pero únicamente mediante recurso de amparo constitucional"
     ],
     "correct": 1,
-    "exp": "Cabe el recurso directo contra la disposición general (la ordenanza), interponible dentro del plazo legal desde su publicación, sin perjuicio de la posibilidad adicional de impugnación indirecta a través de los actos de aplicación concretos.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "exp": "El art. 25.1 LJCA admite el recurso contencioso-administrativo directo contra las disposiciones de carácter general, que ha de interponerse en el plazo de dos meses desde el día siguiente al de la publicación de la disposición (art. 46.1 LJCA), sin perjuicio de la impugnación indirecta de los actos de aplicación (art. 26 LJCA).",
+    "fuente": "Arts. 25.1 y 46.1 LJCA (Ley 29/1998)"
   },
   {
     "q": "¿Qué es la denominada 'impugnación indirecta' de una ordenanza municipal?",
@@ -19184,8 +19184,8 @@ const QUESTIONS = {
       "Un recurso presentado antes de la aprobación definitiva de la ordenanza"
     ],
     "correct": 2,
-    "exp": "La impugnación indirecta permite recurrir un acto administrativo concreto de aplicación de una ordenanza, alegando en ese recurso la ilegalidad de la propia ordenanza en la que dicho acto se funda, aunque haya transcurrido el plazo para el recurso directo contra la disposición general.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "exp": "Art. 26.1 LJCA: «Además de la impugnación directa de las disposiciones de carácter general, también es admisible la de los actos que se produzcan en aplicación de las mismas, fundada en que tales disposiciones no son conformes a Derecho.» Y el art. 26.2 añade que la falta de impugnación directa, o la desestimación del recurso directo, no impide impugnar los actos de aplicación por ese motivo.",
+    "fuente": "Art. 26 LJCA (Ley 29/1998)"
   },
   {
     "q": "¿Qué consecuencia tiene, con carácter general, la declaración judicial de nulidad de una ordenanza municipal por sentencia firme?",
@@ -19196,8 +19196,8 @@ const QUESTIONS = {
       "La ordenanza anulada deja de producir efectos con carácter general (erga omnes), sin perjuicio de los actos firmes dictados a su amparo antes de la anulación, salvo que la sentencia disponga otra cosa"
     ],
     "correct": 3,
-    "exp": "La declaración de nulidad de una ordenanza por sentencia firme tiene efectos generales (erga omnes), dejando la norma de producir efectos, sin perjuicio, salvo disposición expresa en contrario, de que se mantengan los actos firmes o consentidos dictados a su amparo antes de la anulación.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "exp": "Art. 72.2 LJCA: las sentencias firmes que anulen una disposición general «tendrán efectos generales desde el día en que sea publicado su fallo y preceptos anulados en el mismo periódico oficial» en que se publicó la disposición. Y el art. 73 LJCA: no afectarán por sí mismas a la eficacia de las sentencias o actos administrativos firmes que la hubieran aplicado antes, salvo que la anulación suponga la exclusión o reducción de sanciones aún no ejecutadas completamente.",
+    "fuente": "Arts. 72.2 y 73 LJCA (Ley 29/1998)"
   },
   {
     "q": "¿Qué papel desempeña el principio de jerarquía normativa (art. 9.3 CE) en relación con las ordenanzas municipales?",
@@ -19221,7 +19221,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El principio de competencia exige que una ordenanza municipal solo pueda regular válidamente materias que sean de la competencia municipal (propia, delegada o atribuida), siendo nula en aquello que exceda de dicho ámbito competencial.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Arts. 4.1 a), 7 y 25.1 LBRL (Ley 7/1985) y art. 128.2 LPAC (Ley 39/2015)"
   },
   {
     "q": "¿Qué relación existe entre las 'ordenanzas de urbanismo' (planes urbanísticos) y las ordenanzas municipales en sentido estricto reguladas en el art. 49 LBRL?",
@@ -19233,7 +19233,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "Los instrumentos de planeamiento urbanístico (planes generales, parciales, etc.) siguen un procedimiento específico regulado por la legislación urbanística autonómica, que aunque comparte el principio de participación pública, tiene trámites y plazos propios, distintos del procedimiento general de ordenanzas del art. 49 LBRL.",
-    "fuente": "Art. 49 LBRL (Ley 7/1985)"
+    "fuente": "Art. 49 LBRL y art. 70.2 LBRL (que menciona expresamente el articulado de las normas de los planes urbanísticos); legislación urbanística aplicable"
   },
   {
     "q": "¿Qué tipo de ordenanza regula, típicamente, el uso y aprovechamiento de las instalaciones deportivas municipales, fijando también en su caso los precios públicos aplicables?",
@@ -19245,7 +19245,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "Las ordenanzas de utilización de servicios o instalaciones municipales combinan, con frecuencia, aspectos de policía (normas de uso, horarios, comportamiento) con aspectos económicos (fijación de tasas o precios públicos aplicables por su utilización).",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 55 TRRL (RDLeg 781/1986); arts. 20 y 41 TRLRHL para tasas y precios públicos"
   },
   {
     "q": "¿Qué relación existe entre las ordenanzas municipales y los planes de igualdad o protocolos internos de una Entidad Local (como el Plan de Igualdad municipal)?",
@@ -19276,12 +19276,12 @@ const QUESTIONS = {
     "options": [
       "Los principios de buena regulación solo se aplican a los reglamentos estatales, nunca a las ordenanzas locales",
       "No existe ninguna relación entre ambos preceptos",
-      "Los principios de buena regulación (necesidad, proporcionalidad, seguridad jurídica, transparencia, eficiencia) resultan también aplicables, en lo pertinente, a la elaboración de ordenanzas y reglamentos locales",
+      "Los principios de buena regulación (necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia) resultan también aplicables, en lo pertinente, a la elaboración de ordenanzas y reglamentos locales",
       "El art. 129 de la Ley 39/2015 deroga expresamente el art. 49 LBRL"
     ],
     "correct": 2,
-    "exp": "Los principios de buena regulación del art. 129 de la Ley 39/2015 (necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia) resultan aplicables, en lo pertinente, también a la elaboración de ordenanzas y reglamentos por las Entidades Locales, dentro del ejercicio de su potestad reglamentaria.",
-    "fuente": "Art. 129 LPAC (Ley 39/2015)"
+    "exp": "El art. 129.1 LPAC ordena que, en el ejercicio de la iniciativa legislativa y de la potestad reglamentaria, las Administraciones Públicas actúen conforme a los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia. El art. 128.1 LPAC incluye expresamente a los órganos de gobierno locales entre los titulares de la potestad reglamentaria, por lo que esos principios rigen también la elaboración de ordenanzas.",
+    "fuente": "Arts. 128.1 y 129.1 LPAC (Ley 39/2015)"
   },
   {
     "q": "¿Qué relación existe entre la memoria justificativa o memoria de impacto normativo y la elaboración de una ordenanza municipal de cierta complejidad?",
@@ -19293,7 +19293,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "La memoria justificativa o de impacto normativo, aunque no siempre exigida expresamente por la LBRL para toda ordenanza, constituye una práctica recomendable (y en ciertos casos exigida por normativa complementaria) que justifica la necesidad y oportunidad de la norma proyectada.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 129.1 LPAC (Ley 39/2015); la memoria del análisis de impacto normativo solo es preceptiva en el ámbito estatal (art. 26.3 Ley 50/1997)"
   },
   {
     "q": "¿Qué papel desempeña el Secretario de la Corporación en el procedimiento de elaboración de ordenanzas municipales?",
@@ -19305,7 +19305,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El Secretario de la Corporación, como funcionario de habilitación nacional, desempeña funciones de asesoramiento jurídico preceptivo y de control de legalidad en el procedimiento de elaboración y aprobación de ordenanzas y reglamentos.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 92 bis.1 a) LBRL y art. 3 RD 128/2018; art. 54.1 b) TRRL"
   },
   {
     "q": "¿Qué papel desempeña el Interventor en relación con una ordenanza fiscal que establece una nueva tasa municipal?",
@@ -19329,7 +19329,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "La ordenanza fiscal exige, de forma específica y adicional a los trámites generales del art. 49 LBRL, el informe técnico-económico regulado en el art. 25 TRLRHL, que no resulta exigible con carácter general para las ordenanzas de policía o de intervención.",
-    "fuente": "Art. 49 LBRL (Ley 7/1985)"
+    "fuente": "Art. 49 LBRL y art. 25 TRLRHL (RDLeg 2/2004)"
   },
   {
     "q": "¿Qué relación existe entre las ordenanzas municipales y el principio de autonomía local reconocido en el art. 137 de la Constitución?",
@@ -19352,8 +19352,8 @@ const QUESTIONS = {
       "Permite a la Comunidad Autónoma derogar libremente cualquier ordenanza municipal sin control judicial"
     ],
     "correct": 0,
-    "exp": "El control externo sobre las ordenanzas municipales se limita, con carácter general y en respeto a la autonomía local constitucionalmente garantizada, a la posibilidad de impugnación jurisdiccional por razón de legalidad (recurso contencioso-administrativo), sin que el Estado o la Comunidad Autónoma puedan derogarlas directamente por vía administrativa.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "exp": "El Estado y las Comunidades Autónomas no pueden anular por vía administrativa las normas locales: solo pueden requerir la anulación del acuerdo (art. 65.1 y 65.2 LBRL, requerimiento en quince días hábiles) e impugnarlo ante la jurisdicción contencioso-administrativa (arts. 65.3, 65.4 y 66 LBRL), en respeto de la autonomía local del art. 137 CE.",
+    "fuente": "Arts. 63, 65 y 66 LBRL (Ley 7/1985)"
   },
   {
     "q": "¿Qué relación existe entre las ordenanzas y reglamentos de las Diputaciones Provinciales y los de los municipios?",
@@ -19365,7 +19365,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "Las Diputaciones Provinciales, como Entidades Locales con potestad reglamentaria y de autoorganización propia (art. 4.1 a LBRL, aplicable a municipios, provincias e islas), pueden aprobar sus propias ordenanzas y reglamentos siguiendo un procedimiento análogo al previsto en el art. 49 LBRL para los municipios.",
-    "fuente": "Art. 4.1 LBRL (Ley 7/1985)"
+    "fuente": "Art. 4.1 a) y art. 49 LBRL (Ley 7/1985); art. 55 TRRL («las Entidades locales»)"
   },
   {
     "q": "¿Qué papel desempeña el 'Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales' (ROF, RD 2568/1986) en relación con las ordenanzas y reglamentos municipales?",
@@ -19377,7 +19377,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "El ROF (RD 2568/1986) desarrolla reglamentariamente, con carácter supletorio, aspectos organizativos y de funcionamiento de los órganos de gobierno de las Entidades Locales, aplicándose en defecto de Reglamento Orgánico propio o de la correspondiente legislación autonómica de desarrollo.",
-    "fuente": "ROF (RD 2568/1986)"
+    "fuente": "RD 2568/1986 (ROF), en relación con los arts. 20.2, 20.3 y 22.2 d) LBRL (aplicación en defecto de reglamento orgánico propio y de legislación autonómica)"
   },
   {
     "q": "Según el art. 4.1 de la LBRL, además de las potestades reglamentaria y de autoorganización, ¿qué otra potestad clásica se atribuye en todo caso a los municipios?",
@@ -19413,19 +19413,19 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "La potestad de programación o planificación (art. 4.1 c LBRL) puede articularse, en ciertos casos, mediante instrumentos de rango normativo (ordenanzas de planeamiento urbanístico, planes con eficacia reglamentaria), aprobados conforme al procedimiento formal correspondiente.",
-    "fuente": "Art. 4.1 LBRL (Ley 7/1985)"
+    "fuente": "Art. 4.1 c) LBRL (Ley 7/1985)"
   },
   {
     "q": "¿Qué relación existe entre las ordenanzas municipales y la Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno?",
     "options": [
       "La Ley 19/2013 deroga la exigencia de publicación en el Boletín Oficial de la Provincia",
-      "La Ley 19/2013 no exige ninguna publicidad adicional de las ordenanzas municipales",
-      "Las Entidades Locales deben publicar en sus portales de transparencia, entre otra información, las ordenanzas y reglamentos vigentes, en cumplimiento de las obligaciones de publicidad activa",
+      "La Ley 19/2013 no impone ninguna obligación de publicidad relacionada con la elaboración de ordenanzas",
+      "Como publicidad activa, las Entidades Locales deben publicar los proyectos de reglamento u ordenanza de su iniciativa, las memorias e informes del expediente y los documentos sometidos a información pública, sin perjuicio del acceso a la normativa en vigor",
       "Las ordenanzas quedan expresamente excluidas de las obligaciones de transparencia"
     ],
     "correct": 2,
-    "exp": "La Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno, exige a las Entidades Locales publicar en sus portales de transparencia, entre otra información de publicidad activa, las normas propias, incluidas las ordenanzas y reglamentos vigentes.",
-    "fuente": "Ley 19/2013 (transparencia)"
+    "exp": "El art. 7 de la Ley 19/2013 obliga a las Administraciones Públicas, en el ámbito de sus competencias, a publicar como información de relevancia jurídica los proyectos de Reglamentos cuya iniciativa les corresponda (letra c), las memorias e informes que conformen los expedientes de elaboración normativa (letra d) y los documentos que deban someterse a información pública (letra e). El acceso sencillo, universal y actualizado a la normativa en vigor deriva del principio de transparencia del art. 129.5 LPAC. Nada de ello sustituye la publicación en el BOP del art. 70.2 LBRL.",
+    "fuente": "Art. 7 c), d) y e) Ley 19/2013 y art. 129.5 LPAC (Ley 39/2015)"
   },
   {
     "q": "¿Qué relación existe entre la 'consulta pública previa' del art. 133 de la Ley 39/2015 y la elaboración de ordenanzas locales de cierta relevancia?",
@@ -19433,11 +19433,11 @@ const QUESTIONS = {
       "Es obligatoria únicamente para las ordenanzas de tráfico",
       "Sustituye completamente al trámite de información pública del art. 49 LBRL",
       "Es un trámite exclusivo de la Administración General del Estado, sin aplicación posible en el ámbito local",
-      "Constituye una buena práctica (y en determinados supuestos exigencia normativa complementaria) consistente en recabar la opinión de los ciudadanos y organizaciones potencialmente afectados con carácter previo a la elaboración del texto de la ordenanza"
+      "Es una consulta previa a la redacción del texto, cuya exigencia misma tiene carácter básico y alcanza también a las ordenanzas locales, aunque el detalle de su regulación no vincule a las entidades locales tras la STC 55/2018"
     ],
     "correct": 3,
-    "exp": "La consulta pública previa (art. 133 Ley 39/2015), aunque concebida originalmente para el ámbito estatal, se ha extendido como buena práctica (y, en algunos casos, exigencia de normativa de transparencia autonómica o local) a la elaboración de ordenanzas locales de cierta relevancia, recabando la opinión ciudadana antes de redactar el texto definitivo.",
-    "fuente": "Art. 133 LPAC (Ley 39/2015)"
+    "exp": "El art. 133.1 LPAC ordena sustanciar, con carácter previo a la elaboración del proyecto de reglamento, una consulta pública para recabar la opinión de los sujetos y organizaciones potencialmente afectados. La STC 55/2018 declaró el art. 133 contrario al orden constitucional de competencias salvo, precisamente, ese inciso inicial («se sustanciará una consulta pública») y el primer párrafo del apartado 4: el núcleo del trámite es básico y aplicable en el ámbito local, pero su regulación de detalle no vincula a CCAA ni entidades locales. No sustituye a la información pública del art. 49 b) LBRL, que es posterior y sobre el texto ya aprobado inicialmente.",
+    "fuente": "Art. 133.1 LPAC (Ley 39/2015), en la interpretación de la STC 55/2018"
   },
   {
     "q": "En conclusión, ¿qué papel desempeñan conjuntamente los arts. 4.1 a), 22.2 d), 47.2 f), 49 y 70.2 de la LBRL en materia de ordenanzas y reglamentos locales?",
@@ -19449,7 +19449,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "Estos artículos de la LBRL configuran, de forma sistemática y coherente, el marco jurídico completo de las ordenanzas y reglamentos locales: el fundamento de la potestad reglamentaria (art. 4.1 a), la competencia del Pleno (art. 22.2 d), el régimen de mayorías (art. 47.2 f), el procedimiento de elaboración y aprobación (art. 49), y las condiciones de publicidad y entrada en vigor (art. 70.2).",
-    "fuente": "Art. 4.1 a) LBRL (Ley 7/1985)"
+    "fuente": "Arts. 4.1 a), 22.2 d), 47.2 f), 49 y 70.2 LBRL (Ley 7/1985)"
   },
   {
     "q": "¿Qué relación existe entre el art. 105 a) de la Constitución y el procedimiento de elaboración de reglamentos administrativos, incluidos los locales?",
@@ -19508,20 +19508,20 @@ const QUESTIONS = {
       "Permite a la Corporación imponer cualquier restricción sin ninguna justificación"
     ],
     "correct": 1,
-    "exp": "El principio de proporcionalidad exige que las medidas restrictivas contenidas en una ordenanza sean adecuadas, necesarias y proporcionadas al fin de interés general que se persigue, evitando cargas o restricciones excesivas o injustificadas para los ciudadanos.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "exp": "Art. 129.3 LPAC: en virtud del principio de proporcionalidad, la iniciativa normativa contendrá «la regulación imprescindible para atender la necesidad a cubrir con la norma, tras constatar que no existen otras medidas menos restrictivas de derechos, o que impongan menos obligaciones a los destinatarios». En el ámbito local, el art. 84.2 LBRL somete además la actividad de intervención a los principios de igualdad de trato, necesidad y proporcionalidad con el objetivo perseguido.",
+    "fuente": "Art. 129.3 LPAC (Ley 39/2015) y art. 84.2 LBRL"
   },
   {
     "q": "¿Qué relación existe entre la elaboración de una ordenanza y el principio de necesidad recogido en el art. 129.1 de la Ley 39/2015?",
     "options": [
       "Solo se aplica a los reglamentos del Gobierno de la Nación",
       "Ha sido derogado por la reforma de la LBRL de 2013",
-      "Exige justificar que la ordenanza es el instrumento más adecuado para garantizar la consecución de los objetivos perseguidos, sin que existan alternativas menos restrictivas o menos costosas",
+      "Exige que la iniciativa esté justificada por una razón de interés general, se base en una identificación clara de los fines perseguidos y sea el instrumento más adecuado para garantizar su consecución",
       "Permite dictar cualquier ordenanza sin necesidad de justificación alguna"
     ],
     "correct": 2,
-    "exp": "El principio de necesidad (art. 129.1 Ley 39/2015) exige justificar en la elaboración de la ordenanza que esta es el instrumento más adecuado para garantizar la consecución de los objetivos perseguidos, tras constatar que no existen otras medidas menos restrictivas de derechos o que impongan menos obligaciones.",
-    "fuente": "Art. 129.1 LPAC (Ley 39/2015)"
+    "exp": "Art. 129.2 LPAC: «En virtud de los principios de necesidad y eficacia, la iniciativa normativa debe estar justificada por una razón de interés general, basarse en una identificación clara de los fines perseguidos y ser el instrumento más adecuado para garantizar su consecución.» La constatación de que no existen medidas menos restrictivas pertenece al principio de proporcionalidad (art. 129.3 LPAC).",
+    "fuente": "Art. 129.2 LPAC (Ley 39/2015)"
   },
   {
     "q": "¿Qué diferencia existe entre una ordenanza municipal 'de mínimos' y una ordenanza que establece requisitos más exigentes que la normativa sectorial estatal o autonómica?",
@@ -19533,19 +19533,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "Una ordenanza puede establecer requisitos adicionales o más exigentes que la normativa sectorial únicamente si esta se lo permite (expresa o tácitamente) y dentro del ámbito de la competencia municipal, respetando siempre los principios de proporcionalidad y no discriminación.",
-    "fuente": "LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "¿Qué órgano resuelve, en última instancia dentro de la vía administrativa, un recurso de reposición interpuesto contra un acto de aplicación de una ordenanza municipal?",
-    "options": [
-      "El mismo órgano que dictó el acto administrativo impugnado",
-      "La Comunidad Autónoma en todo caso",
-      "El Tribunal Superior de Justicia directamente",
-      "Siempre el Pleno del Ayuntamiento, sin excepción"
-    ],
-    "correct": 0,
-    "exp": "Conforme al régimen general del recurso de reposición, es competente para resolverlo el mismo órgano que dictó el acto administrativo impugnado, sin perjuicio del posterior recurso contencioso-administrativo.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 55 TRRL; arts. 4.1 a), 25.1 y 84.2 LBRL (Ley 7/1985)"
   },
   {
     "q": "¿Qué relación existe entre una ordenanza municipal y una 'instrucción' u 'orden de servicio' interna dictada por un órgano municipal?",
@@ -19556,8 +19544,8 @@ const QUESTIONS = {
       "Ambas figuras tienen exactamente el mismo rango y eficacia normativa externa"
     ],
     "correct": 1,
-    "exp": "La instrucción u orden de servicio tiene, con carácter general, eficacia meramente interna (ad intra) dentro de la organización administrativa, dirigida a los propios órganos y empleados públicos, sin la eficacia normativa externa (ad extra) que caracteriza a la ordenanza frente a los ciudadanos.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "exp": "El art. 6.1 de la Ley 40/2015 permite a los órganos administrativos dirigir las actividades de sus órganos jerárquicamente dependientes mediante instrucciones y órdenes de servicio: son actos de organización interna (ad intra), no disposiciones generales, y por eso no siguen el procedimiento del art. 49 LBRL ni la publicación del art. 70.2 LBRL, propios de la ordenanza (art. 55 TRRL).",
+    "fuente": "Art. 6 Ley 40/2015 (LRJSP) frente a los arts. 49 y 70.2 LBRL y art. 55 TRRL"
   },
   {
     "q": "¿Qué relación existe entre las 'circulares' administrativas y las ordenanzas municipales?",
@@ -19568,8 +19556,8 @@ const QUESTIONS = {
       "Las circulares deben aprobarse siempre por el Pleno, igual que las ordenanzas"
     ],
     "correct": 2,
-    "exp": "Las circulares son instrucciones de organización y funcionamiento interno dirigidas a órganos jerárquicamente subordinados, sin el carácter de disposición general con eficacia externa que corresponde a las ordenanzas, ni sujetas a su mismo procedimiento de aprobación.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "exp": "Las circulares e instrucciones son instrumentos de dirección de los órganos jerárquicamente dependientes (art. 6.1 Ley 40/2015), sin condición de disposición general: no se aprueban por el procedimiento del art. 49 LBRL ni se publican como las ordenanzas (art. 70.2 LBRL), y no pueden derogar una ordenanza.",
+    "fuente": "Art. 6 Ley 40/2015 (LRJSP); arts. 49 y 70.2 LBRL"
   },
   {
     "q": "¿Qué relación existe entre las ordenanzas municipales y el concepto doctrinal de 'reglamento ejecutivo' frente a 'reglamento independiente'?",
@@ -19581,7 +19569,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "Doctrinalmente, una ordenanza puede operar como reglamento ejecutivo (desarrollando y ejecutando una ley previa, como ocurre con muchas ordenanzas fiscales) o como reglamento independiente (regulando directamente materias de competencia municipal, como ocurre con muchas ordenanzas de policía), siempre dentro de los límites de la reserva de ley.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Distinción doctrinal; arts. 128.1 y 128.2 LPAC (Ley 39/2015) y art. 4.1 a) LBRL"
   },
   {
     "q": "¿Qué papel desempeña el 'principio de eficacia' en la elaboración de las ordenanzas municipales, conforme a los principios de buena regulación?",
@@ -19605,19 +19593,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El principio de transparencia (art. 129.5 Ley 39/2015) exige posibilitar el acceso sencillo, universal y actualizado a la normativa en vigor y a los documentos propios de su proceso de elaboración, complementando (no sustituyendo) el trámite de información pública del art. 49 LBRL.",
-    "fuente": "Art. 129.5 LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "¿Qué relación existe entre las ordenanzas municipales de protección del medio ambiente y la competencia municipal reconocida en el art. 25.2 b) LBRL?",
-    "options": [
-      "La competencia medioambiental municipal fue suprimida por la reforma de 2013",
-      "Las ordenanzas medioambientales están reservadas en exclusiva al Estado, sin que los municipios puedan regular esta materia",
-      "Las ordenanzas medioambientales (ruido, residuos, contaminación) desarrollan, en el ámbito local, la competencia propia municipal en materia de medio ambiente urbano reconocida en el art. 25.2 b) LBRL",
-      "El art. 25.2 b) LBRL prohíbe expresamente las ordenanzas de protección ambiental"
-    ],
-    "correct": 2,
-    "exp": "Las ordenanzas municipales de protección del medio ambiente (ruido, contaminación acústica, gestión de residuos) desarrollan, en el ámbito local, la competencia propia municipal en materia de medio ambiente urbano reconocida en el art. 25.2 b) LBRL.",
-    "fuente": "Art. 25.2 b) LBRL (Ley 7/1985)"
+    "fuente": "Art. 129.5 LPAC (Ley 39/2015)"
   },
   {
     "q": "¿Qué relación existe entre las ordenanzas de convivencia ciudadana (o de civismo) y la potestad sancionadora local?",
@@ -19629,67 +19605,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "Las ordenanzas de convivencia ciudadana o civismo tipifican, con frecuencia, infracciones relacionadas con comportamientos incívicos en el espacio público (botellón, pintadas, ruido), ejerciendo la potestad sancionadora local dentro de los límites, garantías y tipología de infracciones y sanciones del Título XI LBRL (arts. 139-141).",
-    "fuente": "LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "¿Qué relación existe entre las ordenanzas municipales sobre terrazas y veladores y el régimen de utilización del dominio público local?",
-    "options": [
-      "Estas ordenanzas desarrollan el régimen de uso privativo o aprovechamiento especial del dominio público local (arts. 74 y siguientes RBEL), habitualmente sujeto a licencia y al pago de la correspondiente tasa",
-      "Se rigen exclusivamente por el Código Civil, sin ninguna intervención municipal",
-      "Las terrazas y veladores nunca requieren ningún tipo de autorización municipal",
-      "Están completamente excluidas de cualquier ordenanza municipal"
-    ],
-    "correct": 0,
-    "exp": "Las ordenanzas sobre terrazas y veladores desarrollan el régimen de uso privativo o aprovechamiento especial del dominio público local, habitualmente sujeto a licencia (o declaración responsable) y al pago de la tasa correspondiente conforme al art. 20.3 j) TRLRHL.",
-    "fuente": "Art. 20.3 j) TRLRHL (RDLeg 2/2004)"
-  },
-  {
-    "q": "¿Qué relación existe entre una ordenanza municipal de vertidos y depuración de aguas residuales y las competencias propias municipales del art. 25.2 LBRL?",
-    "options": [
-      "No guarda ninguna relación con las competencias del art. 25.2 LBRL",
-      "Desarrolla la competencia propia municipal en materia de abastecimiento de agua y tratamiento de aguas residuales, reconocida expresamente en el art. 25.2 c) LBRL",
-      "Es una materia reservada en exclusiva a las Confederaciones Hidrográficas, sin intervención municipal",
-      "Solo puede regularse mediante ley estatal, nunca mediante ordenanza"
-    ],
-    "correct": 1,
-    "exp": "La ordenanza de vertidos y depuración de aguas residuales desarrolla la competencia propia municipal en materia de 'Abastecimiento de agua potable a domicilio y evacuación y tratamiento de aguas residuales', reconocida en el art. 25.2 c) LBRL.",
-    "fuente": "Art. 25.2 c) LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "¿Qué relación existe entre una ordenanza reguladora de cementerios y servicios funerarios y las competencias propias municipales?",
-    "options": [
-      "Los cementerios son competencia exclusiva de la Iglesia Católica, sin intervención municipal",
-      "Es una materia reservada al Estado, sin posibilidad de ordenanza municipal",
-      "Desarrolla la competencia propia municipal en materia de cementerios y actividades funerarias, reconocida en el art. 25.2 j) LBRL",
-      "Solo puede regularse mediante convenio con una empresa privada, nunca mediante ordenanza"
-    ],
-    "correct": 2,
-    "exp": "La ordenanza reguladora de cementerios y servicios funerarios desarrolla la competencia propia municipal reconocida en el art. 25.2 j) LBRL: 'Cementerios y actividades funerarias.'",
-    "fuente": "Art. 25.2 j) LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "¿Qué relación existe entre las ordenanzas de accesibilidad y supresión de barreras arquitectónicas y las competencias municipales en materia de urbanismo?",
-    "options": [
-      "Son competencia exclusiva de las asociaciones de personas con discapacidad, sin intervención municipal",
-      "Solo pueden aprobarse mediante ley orgánica estatal",
-      "No tienen ninguna relación con el urbanismo municipal",
-      "Se enmarcan dentro de la competencia propia municipal de ordenación, gestión, ejecución y disciplina urbanística (art. 25.2 a LBRL), desarrollando exigencias de accesibilidad universal"
-    ],
-    "correct": 3,
-    "exp": "Las ordenanzas de accesibilidad y supresión de barreras arquitectónicas se enmarcan dentro de la competencia propia municipal de urbanismo (art. 25.2 a LBRL), desarrollando las exigencias de accesibilidad universal en el diseño y uso del espacio urbano.",
-    "fuente": "Art. 25.2 LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "¿Qué relación existe entre una ordenanza de administración electrónica y la Ley 39/2015 y la Ley 40/2015?",
-    "options": [
-      "La ordenanza de administración electrónica desarrolla, en el ámbito local, las previsiones de ambas leyes sobre uso de medios electrónicos, registro electrónico, sede electrónica y relación telemática con los ciudadanos",
-      "No guarda ninguna relación con estas leyes estatales",
-      "Sustituye completamente a la Ley 39/2015 en el ámbito municipal",
-      "Solo puede aprobarse en municipios de menos de 5.000 habitantes"
-    ],
-    "correct": 0,
-    "exp": "Una ordenanza municipal de administración electrónica desarrolla, en el ámbito local, las previsiones generales de la Ley 39/2015 (procedimiento) y la Ley 40/2015 (régimen jurídico del sector público) sobre uso de medios electrónicos, sede electrónica, registro electrónico y relación telemática con la ciudadanía.",
-    "fuente": "LPAC (Ley 39/2015)"
+    "fuente": "Arts. 139, 140 y 141 LBRL (Título XI, Ley 7/1985)"
   },
   {
     "q": "¿Qué relación existe entre las 'ordenanzas tipo' o 'ordenanzas modelo' elaboradas por Diputaciones Provinciales y los municipios de su ámbito territorial?",
@@ -19701,19 +19617,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "Las ordenanzas tipo o modelo, elaboradas por las Diputaciones Provinciales en ejercicio de su función de asistencia técnica a los municipios (art. 36 LBRL), constituyen un instrumento orientativo que cada municipio puede adaptar y aprobar como propio, siguiendo igualmente el procedimiento formal del art. 49 LBRL para su validez.",
-    "fuente": "Art. 36 LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "¿Qué relación existe entre una ordenanza municipal y un convenio urbanístico suscrito entre el Ayuntamiento y un particular?",
-    "options": [
-      "Un convenio urbanístico tiene exactamente la misma naturaleza y procedimiento que una ordenanza",
-      "Los convenios urbanísticos están prohibidos por la legislación de régimen local",
-      "El convenio urbanístico es un instrumento de naturaleza contractual o convencional, distinto de la ordenanza, aunque debe respetar en todo caso el planeamiento y la normativa urbanística vigente, incluidas las ordenanzas aplicables",
-      "El convenio urbanístico puede modificar libremente cualquier ordenanza sin seguir su procedimiento de modificación"
-    ],
-    "correct": 2,
-    "exp": "El convenio urbanístico es un instrumento de naturaleza contractual o convencional entre la Administración y un particular, distinto de la ordenanza (que es una disposición general unilateral), debiendo respetar en todo caso el planeamiento y la normativa urbanística vigente, sin poder modificarla al margen de su propio procedimiento.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 36.1 b) LBRL (asistencia y cooperación jurídica, económica y técnica) y art. 49 LBRL"
   },
   {
     "q": "En conclusión, ¿qué papel desempeña el conjunto normativo estudiado en este tema (arts. 4, 22, 47, 49, 55-59, 70, 139-141 LBRL/TRRL) dentro del sistema de fuentes del Derecho local?",
@@ -19724,44 +19628,8 @@ const QUESTIONS = {
       "Configura el marco jurídico completo de la potestad reglamentaria local: su fundamento constitucional y legal, los tipos de normas (ordenanzas, reglamentos, bandos), su procedimiento de elaboración, publicidad y entrada en vigor, y los límites derivados de la potestad sancionadora"
     ],
     "correct": 3,
-    "exp": "El conjunto de preceptos estudiados configura el marco jurídico completo de la potestad reglamentaria local: fundamento (art. 4), competencia orgánica (art. 22), mayorías (art. 47), procedimiento de elaboración (art. 49), tipología de normas (arts. 55-59 TRRL), publicidad y entrada en vigor (art. 70), y límites derivados del ejercicio de la potestad sancionadora (arts. 139-141), constituyendo una pieza esencial del sistema de fuentes del Derecho local.",
-    "fuente": "Art. 4 TRRL (RDLeg 781/1986)"
-  },
-  {
-    "q": "¿Qué relación existe entre las ordenanzas municipales de tenencia de animales y las competencias propias municipales en materia de salubridad pública?",
-    "options": [
-      "Desarrollan la competencia propia municipal en materia de protección de la salubridad pública, reconocida en el art. 25.2 j) LBRL",
-      "No guardan relación alguna con las competencias sanitarias municipales",
-      "Son competencia exclusiva de la Comunidad Autónoma, sin intervención municipal",
-      "Solo pueden aprobarse a nivel estatal mediante ley orgánica"
-    ],
-    "correct": 0,
-    "exp": "Las ordenanzas sobre tenencia de animales desarrollan la competencia propia municipal en materia de protección de la salubridad pública, en conexión con el art. 25.2 j) LBRL, que atribuye a los municipios competencias en esta materia.",
-    "fuente": "Art. 25.2 j) LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "¿Qué relación existe entre las ordenanzas municipales reguladoras del comercio ambulante y las competencias propias del municipio en materia de abastos y mercados?",
-    "options": [
-      "Solo puede regularse mediante convenio con las asociaciones de comerciantes",
-      "Desarrollan la competencia propia municipal sobre 'Ferias, abastos, mercados, lonjas y comercio ambulante', reconocida en el art. 25.2 i) LBRL",
-      "El comercio ambulante es competencia exclusiva estatal, sin intervención municipal posible",
-      "No existe ninguna competencia municipal relacionada con el comercio ambulante"
-    ],
-    "correct": 1,
-    "exp": "Las ordenanzas de comercio ambulante desarrollan la competencia propia municipal recogida en el art. 25.2 i) LBRL: 'Ferias, abastos, mercados, lonjas y comercio ambulante.'",
-    "fuente": "Art. 25.2 i) LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "¿Qué relación existe entre una ordenanza de vía pública (ocupación de aceras, obras, vados) y el art. 25.2 a) LBRL?",
-    "options": [
-      "No tiene relación con ninguna competencia municipal reconocida legalmente",
-      "Es competencia exclusiva de la Dirección General de Tráfico",
-      "Desarrolla la competencia municipal en materia de urbanismo y, en su caso, la regulación de usos del dominio público local",
-      "Solo puede aprobarse tras autorización previa del Ministerio de Fomento"
-    ],
-    "correct": 2,
-    "exp": "Las ordenanzas de vía pública desarrollan, entre otras, la competencia municipal en materia de urbanismo (art. 25.2 a LBRL) y la regulación del uso del dominio público local, en conexión con las tasas del art. 20.3 TRLRHL.",
-    "fuente": "Art. 25.2 LBRL (Ley 7/1985)"
+    "exp": "El conjunto estudiado configura el marco de la potestad reglamentaria local: fundamento (art. 4.1 a LBRL), competencia orgánica (arts. 22.2 d y 123.1 c y d LBRL), mayorías (art. 47.1 y 47.2 f LBRL), procedimiento (art. 49 LBRL y arts. 55 a 56 TRRL), publicidad y entrada en vigor (art. 70.2 LBRL) y límites sancionadores (arts. 139 a 141 LBRL y arts. 57 a 59 TRRL).",
+    "fuente": "Arts. 4.1 a), 22.2 d), 47, 49, 70.2 y 139 a 141 LBRL; arts. 55 a 59 TRRL (RDLeg 781/1986)"
   },
   {
     "q": "¿Qué relación existe entre las ordenanzas fiscales y el principio de reserva de ley en materia tributaria (art. 133 CE)?",
@@ -19773,55 +19641,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "Conforme al art. 133 CE, las ordenanzas fiscales desarrollan, dentro del marco legal habilitante fijado por el TRLRHL, los elementos concretos del tributo (tipos, bonificaciones, gestión) que la ley permite fijar a nivel local, sin poder crear tributos no previstos legalmente, en coherencia con el principio de reserva de ley tributaria.",
-    "fuente": "Art. 133 CE (Constitución Española)"
-  },
-  {
-    "q": "¿Qué relación existe entre una ordenanza reguladora del uso de las playas fluviales o zonas de baño municipales y las competencias en materia de protección civil?",
-    "options": [
-      "Puede desarrollar, entre otras, la competencia propia municipal de protección civil y prevención de riesgos (art. 25.2 f LBRL), estableciendo normas de seguridad y uso",
-      "Es competencia exclusiva de Costas, sin intervención municipal",
-      "Solo puede aprobarse mediante decreto autonómico, nunca ordenanza",
-      "No guarda relación alguna con la protección civil municipal"
-    ],
-    "correct": 0,
-    "exp": "Una ordenanza de uso de zonas de baño puede desarrollar, entre otras, la competencia municipal de protección civil y prevención de riesgos (art. 25.2 f LBRL), estableciendo normas de seguridad, señalización y comportamiento en dichas zonas.",
-    "fuente": "Art. 25.2 LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "¿Qué relación existe entre la ordenanza municipal de residuos y la Ley 7/2022, de residuos y suelos contaminados?",
-    "options": [
-      "La Ley 7/2022 deroga completamente la posibilidad de que los municipios regulen esta materia mediante ordenanza",
-      "La ordenanza municipal desarrolla, en su ámbito de competencia, las obligaciones y previsiones que la legislación estatal de residuos impone a las Entidades Locales en materia de recogida, tratamiento y gestión de residuos urbanos",
-      "No existe ninguna relación entre ambas normas",
-      "Solo el Estado puede regular la gestión de residuos, sin ninguna competencia municipal"
-    ],
-    "correct": 1,
-    "exp": "La ordenanza municipal de residuos desarrolla, en su ámbito competencial, las obligaciones que la legislación estatal (actualmente la Ley 7/2022, de residuos y suelos contaminados para una economía circular) impone a las Entidades Locales en materia de recogida, tratamiento y gestión de residuos urbanos, en conexión con la competencia propia del art. 25.2 b) LBRL.",
-    "fuente": "Art. 25.2 b) LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "¿Qué relación existe entre las ordenanzas de zonas de bajas emisiones y la Ley 7/2021, de cambio climático y transición energética?",
-    "options": [
-      "Son competencia exclusiva de la Unión Europea, sin intervención municipal",
-      "No guardan relación alguna con la legislación estatal de cambio climático",
-      "Desarrollan, en el ámbito local, la obligación legal de establecer zonas de bajas emisiones en municipios de más de 50.000 habitantes y territorios insulares, impuesta por dicha ley",
-      "Solo pueden aprobarse mediante referéndum municipal vinculante"
-    ],
-    "correct": 2,
-    "exp": "Las ordenanzas de zonas de bajas emisiones desarrollan, en el ámbito local, la obligación establecida por la Ley 7/2021, de cambio climático y transición energética, de implantar dichas zonas en municipios de más de 50.000 habitantes y determinados territorios insulares, en conexión con la tasa específica del art. 24.1 a) TRLRHL.",
-    "fuente": "Art. 24.1 a) TRLRHL (RDLeg 2/2004)"
-  },
-  {
-    "q": "En síntesis, ¿qué característica común presentan todas las materias sectoriales mencionadas (medio ambiente, tráfico, comercio, residuos, zonas de bajas emisiones) en relación con la potestad de dictar ordenanzas municipales?",
-    "options": [
-      "Todas ellas se desarrollan, en el ámbito local, mediante ordenanzas municipales que concretan y aplican, dentro de las competencias propias municipales, las previsiones generales establecidas por la legislación sectorial estatal o autonómica",
-      "Ninguna de estas materias puede regularse mediante ordenanza municipal",
-      "Todas estas materias son de competencia exclusiva estatal, sin ninguna intervención municipal",
-      "Las ordenanzas municipales carecen de cualquier conexión con la legislación sectorial"
-    ],
-    "correct": 0,
-    "exp": "Todas estas materias sectoriales comparten una característica común: se desarrollan, en el ámbito local, mediante ordenanzas municipales que concretan y aplican, dentro del marco de las competencias propias municipales (art. 25.2 LBRL), las previsiones generales establecidas por la legislación sectorial estatal o autonómica correspondiente.",
-    "fuente": "Art. 25.2 LBRL (Ley 7/1985)"
+    "fuente": "Art. 133.1 y 133.2 CE; arts. 15 y 16 TRLRHL (RDLeg 2/2004)"
   },
 ],
 17:[
