@@ -26345,7 +26345,7 @@ window.addQuestions('aux-admin-zaragoza', 9, [  {
     ],
     "correct": 2,
     "exp": "DA 2ª.3: 'En los municipios de población inferior a 5.000 habitantes es igualmente competencia del Pleno autorizar la redacción y licitación de proyectos independientes relativos a cada una de las partes de una obra cuyo periodo de ejecución exceda al de un presupuesto anual, siempre que estas sean susceptibles de utilización separada... o puedan ser sustancialmente definidas.'",
-    "fuente": "DA 2ª.3 LCSP",
+    "fuente": "Disposición adicional segunda, apartado 3, LCSP",
     "confianza": "alta"
   },
   {
@@ -26358,7 +26358,7 @@ window.addQuestions('aux-admin-zaragoza', 9, [  {
     ],
     "correct": 3,
     "exp": "DA 2ª.4: 'las competencias del órgano de contratación... se ejercerán por la Junta de Gobierno Local, cualquiera que sea el importe del contrato o la duración del mismo, siendo el Pleno el competente para aprobar los pliegos de cláusulas administrativas generales.'",
-    "fuente": "DA 2ª.4 LCSP",
+    "fuente": "Disposición adicional segunda, apartado 4, LCSP",
     "confianza": "alta"
   },
   {
@@ -26371,7 +26371,7 @@ window.addQuestions('aux-admin-zaragoza', 9, [  {
     ],
     "correct": 0,
     "exp": "DA 2ª.5: las Juntas de Contratación actuarán como órgano de contratación 'en los contratos de obras que tengan por objeto trabajos de reparación simple, de conservación y de mantenimiento.'",
-    "fuente": "DA 2ª.5 LCSP",
+    "fuente": "Disposición adicional segunda, apartado 5, LCSP",
     "confianza": "alta"
   },
   {
@@ -26384,7 +26384,7 @@ window.addQuestions('aux-admin-zaragoza', 9, [  {
     ],
     "correct": 1,
     "exp": "DA 2ª.5: 'debiendo formar parte de las mismas necesariamente el Secretario o el titular del órgano que tenga atribuida la función de asesoramiento jurídico de la Corporación, y el Interventor de la misma.'",
-    "fuente": "DA 2ª.5 LCSP",
+    "fuente": "Disposición adicional segunda, apartado 5, LCSP",
     "confianza": "alta"
   },
   {
@@ -26397,7 +26397,7 @@ window.addQuestions('aux-admin-zaragoza', 9, [  {
     ],
     "correct": 2,
     "exp": "DA 2ª.6: 'podrán concertarse convenios en virtud de los cuales se encomiende la gestión del procedimiento de contratación a las Diputaciones provinciales o a las Comunidades Autónomas de carácter uniprovincial.'",
-    "fuente": "DA 2ª.6 LCSP",
+    "fuente": "Disposición adicional segunda, apartado 6, LCSP",
     "confianza": "alta"
   },
   {
@@ -26410,7 +26410,7 @@ window.addQuestions('aux-admin-zaragoza', 9, [  {
     ],
     "correct": 3,
     "exp": "DA 2ª.7: 'La Mesa de contratación estará presidida por un miembro de la Corporación o un funcionario de la misma...'",
-    "fuente": "DA 2ª.7 LCSP",
+    "fuente": "Disposición adicional segunda, apartado 7, LCSP",
     "confianza": "alta"
   },
   {
@@ -26423,7 +26423,7 @@ window.addQuestions('aux-admin-zaragoza', 9, [  {
     ],
     "correct": 0,
     "exp": "DA 2ª.7: 'Los miembros electos que, en su caso, formen parte de la Mesa de contratación no podrán suponer más de un tercio del total de miembros de la misma.'",
-    "fuente": "DA 2ª.7 LCSP",
+    "fuente": "Disposición adicional segunda, apartado 7, LCSP",
     "confianza": "alta"
   },
   {
@@ -26436,7 +26436,7 @@ window.addQuestions('aux-admin-zaragoza', 9, [  {
     ],
     "correct": 1,
     "exp": "DA 2ª.7: 'Podrá formar parte de la Mesa personal funcionario interino únicamente cuando no existan funcionarios de carrera suficientemente cualificados y así se acredite en el expediente.'",
-    "fuente": "DA 2ª.7 LCSP",
+    "fuente": "Disposición adicional segunda, apartado 7, LCSP",
     "confianza": "alta"
   },
   {
@@ -26449,7 +26449,7 @@ window.addQuestions('aux-admin-zaragoza', 9, [  {
     ],
     "correct": 2,
     "exp": "DA 2ª.7: 'La composición de la Mesa se publicará en el perfil de contratante del órgano de contratación correspondiente. Se podrán constituir Mesas de Contratación permanentes.'",
-    "fuente": "DA 2ª.7 LCSP",
+    "fuente": "Disposición adicional segunda, apartado 7, LCSP",
     "confianza": "alta"
   },
   {
@@ -26462,7 +26462,7 @@ window.addQuestions('aux-admin-zaragoza', 9, [  {
     ],
     "correct": 3,
     "exp": "DA 2ª.8: 'En todo caso, entre este personal deberá formar parte un técnico jurista especializado en contratación pública.'",
-    "fuente": "DA 2ª.8 LCSP",
+    "fuente": "Disposición adicional segunda, apartado 8, LCSP",
     "confianza": "alta"
   },
   {
@@ -26475,7 +26475,7 @@ window.addQuestions('aux-admin-zaragoza', 9, [  {
     ],
     "correct": 0,
     "exp": "DA 2ª.9: corresponde al Alcalde 'cuando el presupuesto base de licitación... no supere el 10 por ciento de los recursos ordinarios del presupuesto ni el importe de tres millones de euros'; nótese que este límite (3 millones) es distinto del de los contratos administrativos ordinarios (6 millones, DA 2ª.1).",
-    "fuente": "DA 2ª.9 LCSP",
+    "fuente": "Disposición adicional segunda, apartado 9, LCSP",
     "confianza": "alta"
   },
   {
@@ -26488,7 +26488,7 @@ window.addQuestions('aux-admin-zaragoza', 9, [  {
     ],
     "correct": 1,
     "exp": "DA 2ª.10: corresponde al Pleno esa competencia 'cuando no estén atribuidas al Alcalde o al Presidente, y de los bienes declarados de valor histórico o artístico cualquiera que sea su valor.'",
-    "fuente": "DA 2ª.10 LCSP",
+    "fuente": "Disposición adicional segunda, apartado 10, LCSP",
     "confianza": "alta"
   },
   {
@@ -26501,7 +26501,7 @@ window.addQuestions('aux-admin-zaragoza', 9, [  {
     ],
     "correct": 2,
     "exp": "DA 2ª.11: 'las competencias que se describen en los apartados anteriores se ejercerán por la Junta de Gobierno Local, cualquiera que sea el importe del contrato o la duración del mismo.'",
-    "fuente": "DA 2ª.11 LCSP",
+    "fuente": "Disposición adicional segunda, apartado 11, LCSP",
     "confianza": "alta"
   },
   {
@@ -26514,7 +26514,7 @@ window.addQuestions('aux-admin-zaragoza', 9, [  {
     ],
     "correct": 3,
     "exp": "DA 2ª.12: 'Las referencias a las Diputaciones provinciales contenidas en esta Ley también se entenderán efectuadas a los entes locales supramunicipales previstos en los correspondientes Estatutos de Autonomía con competencias en materia de asistencia y de cooperación a los municipios, y de prestación de servicios públicos locales.'",
-    "fuente": "DA 2ª.12 LCSP",
+    "fuente": "Disposición adicional segunda, apartado 12, LCSP",
     "confianza": "alta"
   },
   {
@@ -26527,7 +26527,7 @@ window.addQuestions('aux-admin-zaragoza', 9, [  {
     ],
     "correct": 0,
     "exp": "DA 2ª.7: 'En las Entidades locales municipales, mancomunidades y consorcios locales, podrán integrarse en la Mesa personal al servicio de las correspondientes Diputaciones Provinciales o Comunidades Autónomas uniprovinciales.'",
-    "fuente": "DA 2ª.7 LCSP",
+    "fuente": "Disposición adicional segunda, apartado 7, LCSP",
     "confianza": "alta"
   },
 ]);
@@ -43266,7 +43266,7 @@ window.addQuestions("aux-admin-zaragoza", 16, [  {
     ],
     "correct": 2,
     "exp": "La norma es el Real Decreto Legislativo 781/1986, de 18 de abril, por el que se aprueba el texto refundido de las disposiciones legales vigentes en materia de Régimen Local. Comprobado en la ficha del consolidado BOE-A-1986-9865. (Procedía del tema 1 del banco original; el tema 1 oficial solo cubre la organización territorial en la Constitución, así que la pregunta se reubicó aquí.)",
-    "fuente": "RDLeg 781/1986, de 18 de abril (TRRL), BOE-A-1986-9865"
+    "fuente": "Real Decreto Legislativo 781/1986, de 18 de abril (TRRL), norma aprobatoria — BOE-A-1986-9865"
   },
 ]);
 
@@ -43762,7 +43762,7 @@ window.addQuestions('aux-admin-zaragoza', 1, [  {
     ],
     "correct": 0,
     "exp": "Solo el Título I (cinco capítulos), el Título III (tres capítulos) y el Título VIII (tres capítulos) están divididos en capítulos. El Título Preliminar y los Títulos II, IV, V, VI, VII, IX y X se componen directamente de artículos.",
-    "fuente": "División en capítulos de los Títulos I, III y VIII CE (índice del texto consolidado BOE-A-1978-31229)",
+    "fuente": "Estructura de la CE: solo los Títulos I, III y VIII se dividen en capítulos (índice del consolidado BOE-A-1978-31229)",
     "confianza": "alta"
   },
   {
@@ -43775,7 +43775,7 @@ window.addQuestions('aux-admin-zaragoza', 1, [  {
     ],
     "correct": 1,
     "exp": "Once capítulos: cinco en el Título I, tres en el Título III y tres en el Título VIII. Ningún otro título se divide en capítulos.",
-    "fuente": "Recuento de los capítulos de los Títulos I (5), III (3) y VIII (3) CE (índice del texto consolidado BOE-A-1978-31229)",
+    "fuente": "Estructura de la CE: once capítulos, cinco en el Título I, tres en el III y tres en el VIII (índice del consolidado BOE-A-1978-31229)",
     "confianza": "alta"
   },
 ]);
@@ -50344,7 +50344,7 @@ window.addQuestions("aux-admin-zaragoza", 8, [
     ],
     "correct": 0,
     "exp": "Frente a la denegación de una licencia, si el acto pone fin a la vía administrativa (como es habitual en resoluciones del Alcalde o del Pleno), cabe el recurso potestativo de reposición; si no pusiera fin a dicha vía, procedería, en su caso, el recurso de alzada. (Venía del tema 11 del banco original; reubicada aquí en la auditoría de agosto de 2026: FUERA DE ALCANCE. La pregunta versa sobre el sistema de recursos administrativos (arts. 112, 121 y 123 de la Ley 39/2015, y art. 52 LBRL), materia de revisión de actos y no de la actividad de intervención, fomento o servicio público local. Contenido correcto, reubicable.)",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Arts. 112.1, 121.1 y 123.1 LPAC (Ley 39/2015)"
   }
 ]);
 
@@ -50425,7 +50425,7 @@ window.addQuestions("aux-admin-zaragoza", 16, [
     ],
     "correct": 3,
     "exp": "Con carácter general, la aprobación de ordenanzas municipales se realiza por mayoría simple de los miembros presentes, salvo que una norma legal exija expresamente una mayoría cualificada para un supuesto concreto. (Venía del tema 11 del banco original; reubicada aquí en la auditoría de agosto de 2026: FUERA DE ALCANCE. Pregunta el régimen de mayorías para aprobar una ordenanza (art. 47.1 LBRL): materia de funcionamiento de los órganos y de elaboración de ordenanzas, no de la actividad de intervención. La respuesta es correcta y reubicable.)",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 47.1 LBRL (Ley 7/1985)"
   }
 ]);
 
@@ -50444,7 +50444,7 @@ window.addQuestions("aux-admin-zaragoza", 8, [
     ],
     "correct": 0,
     "exp": "Conforme al régimen general del recurso de reposición, es competente para resolverlo el mismo órgano que dictó el acto administrativo impugnado, sin perjuicio del posterior recurso contencioso-administrativo. (Venía del tema 16 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: no enseña nada sobre la norma local ni sobre su aprobación, sino el órgano competente para resolver un recurso administrativo (art. 123.1 LPAC: el mismo órgano que dictó el acto; art. 14.2 TRLRHL en materia tributaria local). Pertenece al tema de revisión de actos.)",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 123.1 LPAC (Ley 39/2015)"
   }
 ]);
 
@@ -50609,7 +50609,7 @@ window.addQuestions("aux-admin-zaragoza", 20, [
     ],
     "correct": 2,
     "exp": "El convenio urbanístico es un instrumento de naturaleza contractual o convencional entre la Administración y un particular, distinto de la ordenanza (que es una disposición general unilateral), debiendo respetar en todo caso el planeamiento y la normativa urbanística vigente, sin poder modificarla al margen de su propio procedimiento. (Venía del tema 16 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: la naturaleza y límites de los convenios urbanísticos es materia de la legislación urbanística, no del régimen de las ordenanzas y su aprobación.)",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 100.1 y 2 TRLUA (Decreto-Legislativo 1/2014, Aragón), en relación con el art. 4.1.a) LBRL"
   }
 ]);
 

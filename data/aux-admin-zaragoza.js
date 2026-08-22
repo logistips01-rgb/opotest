@@ -435,7 +435,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "La Constitución consta de 169 artículos articulados en un Título Preliminar y diez Títulos (I a X).",
-    "fuente": "Estructura CE: 169 artículos"
+    "fuente": "Estructura de la CE: 169 artículos (Título Preliminar y Títulos I a X), BOE-A-1978-31229"
   },
   {
     "q": "¿En qué Título de la Constitución se regula 'De la Corona'?",
@@ -459,7 +459,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "La Constitución tiene diez títulos (I a X) además del Título Preliminar.",
-    "fuente": "Estructura CE: Título Preliminar y Títulos I a X"
+    "fuente": "Estructura de la CE: Título Preliminar y Títulos I a X, BOE-A-1978-31229"
   },
   {
     "q": "¿Cuál de las siguientes NO es parte de las disposiciones finales del articulado de la Constitución?",
@@ -471,7 +471,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "Tras el Título X, la Constitución incluye disposiciones adicionales, transitorias, una disposición derogatoria y una disposición final; no existe una 'disposición inicial'.",
-    "fuente": "Estructura CE: parte final (4 disp. adicionales, 9 transitorias, 1 derogatoria y 1 final)"
+    "fuente": "Estructura de la CE: parte final (4 disposiciones adicionales, 9 transitorias, 1 derogatoria y 1 final), BOE-A-1978-31229"
   },
   {
     "q": "Según el Preámbulo, la Nación española proclama su voluntad de consolidar un Estado de Derecho que asegure:",
@@ -6876,8 +6876,8 @@ const QUESTIONS = {
       "Evitar repetir innecesariamente los trámites que no se vieron afectados por el vicio que originó la nulidad"
     ],
     "correct": 3,
-    "exp": "El principio de conservación busca eficiencia: mantener válidos los actos y trámites no afectados por la causa de nulidad o anulación, evitando repetir todo el procedimiento desde el inicio.",
-    "fuente": "LPAC (Ley 39/2015)"
+    "exp": "Art. 51 LPAC, «Conservación de actos y trámites»: «El órgano que declare la nulidad o anule las actuaciones dispondrá siempre la conservación de aquellos actos y trámites cuyo contenido se hubiera mantenido igual de no haberse cometido la infracción». La finalidad es no repetir lo que el vicio no contaminó.",
+    "fuente": "Art. 51 LPAC (Ley 39/2015)"
   },
   {
     "q": "Según el art. 52, la Administración podrá convalidar los actos anulables:",
@@ -6937,7 +6937,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El Título III, 'De los actos administrativos', comprende los artículos 34 a 52, distribuidos en tres capítulos.",
-    "fuente": "Título III LPAC (Ley 39/2015)"
+    "fuente": "Título III (arts. 34-52) LPAC (Ley 39/2015)"
   },
   {
     "q": "Según el art. 39.1, ¿qué carácter tienen, con carácter general, los actos administrativos desde que se dictan?",
@@ -13283,7 +13283,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "La doctrina administrativa clásica distingue tres grandes formas de actividad administrativa: la de policía o limitativa (licencias, órdenes, sanciones), la de fomento (subvenciones, incentivos) y la de servicio público o prestacional (prestación directa de servicios a los ciudadanos).",
-    "fuente": "Clasificación doctrinal clásica de las formas de la actividad administrativa (Jordana de Pozas), recogida en el epígrafe del tema: policía, fomento y servicio público"
+    "fuente": "Clasificación doctrinal clásica de la actividad administrativa (policía, fomento y servicio público), que es la que recoge el propio epígrafe del tema; cf. art. 84 LBRL para la enumeración legal de los medios de intervención"
   },
   {
     "q": "¿En qué categoría de la clasificación clásica de la actividad administrativa se enmarca la prestación de un servicio de recogida de basuras por parte de un Ayuntamiento?",
@@ -18463,7 +18463,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "El ROTPC fue aprobado definitivamente por el Ayuntamiento Pleno el 28 de julio de 2005, siendo publicado en el BOPZ número 288 el 17 de diciembre de 2005.",
-    "fuente": "Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza (ROTPC)"
+    "fuente": "ROTPC de Zaragoza: acuerdo de aprobación definitiva del Ayuntamiento Pleno de 28-jul-2005 (BOPZ núm. 288, de 17-dic-2005)"
   },
   {
     "q": "¿Qué modificación relevante ha sufrido el ROTPC, aprobada por el Pleno el 22 de diciembre de 2017?",
@@ -18487,7 +18487,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El ROTPC distingue, de un lado, instrumentos de participación individual (iniciativa ciudadana, audiencia pública, consulta popular, encuesta ciudadana) y, de otro, instrumentos de participación colectiva a través de la organización territorial (Distritos, Juntas) y de las entidades ciudadanas inscritas en el Censo Municipal.",
-    "fuente": "Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza (ROTPC)"
+    "fuente": "ROTPC de Zaragoza, Títulos II a IV: entes territoriales de participación (Título II), órganos territoriales de gestión (Título III) e información y participación ciudadana (Título IV)"
   },
   {
     "q": "Según el art. 33 del ROTPC, los Vocales de las Juntas Vecinales son nombrados por el Alcalde a propuesta de los grupos políticos con representación municipal, salvo que las normas que regulen el proceso democrático de consulta de Alcalde de Barrio establezcan:",
@@ -21052,7 +21052,7 @@ const QUESTIONS = {
       "La Junta de Gobierno Local, cualquiera que sea el importe del contrato o la duración del mismo"
     ],
     "correct": 2,
-    "exp": "Pregunta 14 del examen oficial de 1 de junio de 2025. DA 2ª.4 LCSP: en municipios de gran población, la Junta de Gobierno Local ejerce las competencias de órgano de contratación, cualquiera que sea el importe o duración. Respuesta correcta: c).",
+    "exp": "Pregunta 14 del examen oficial de 1 de junio de 2025. Disposición adicional segunda, apartado 4, LCSP: en municipios de gran población, la Junta de Gobierno Local ejerce las competencias de órgano de contratación, cualquiera que sea el importe o duración. Respuesta correcta: c).",
     "fuente": "Disposición adicional segunda LCSP (Ley 9/2017)"
   },
   {
@@ -21261,7 +21261,7 @@ const QUESTIONS = {
       "El Alcalde"
     ],
     "correct": 0,
-    "exp": "Pregunta 33 del examen oficial de 1 de junio de 2025. DA 2ª.4 LCSP (en relación con el art. 121 LCSP): la aprobación de pliegos de cláusulas administrativas generales corresponde al Pleno. Respuesta correcta: a).",
+    "exp": "Pregunta 33 del examen oficial de 1 de junio de 2025. Disposición adicional segunda, apartado 4, LCSP (en relación con el art. 121 LCSP): la aprobación de pliegos de cláusulas administrativas generales corresponde al Pleno. Respuesta correcta: a).",
     "fuente": "Disposición adicional segunda LCSP (Ley 9/2017)"
   },
   {
@@ -21272,7 +21272,7 @@ const QUESTIONS = {
       "Por el Alcalde o Presidente de la entidad local"
     ],
     "correct": 1,
-    "exp": "Pregunta 34 del examen oficial de 1 de junio de 2025. DA 2ª.7 LCSP: la Mesa de contratación estará presidida por un miembro de la Corporación o un funcionario de la misma. Respuesta correcta: b).",
+    "exp": "Pregunta 34 del examen oficial de 1 de junio de 2025. Disposición adicional segunda, apartado 7, LCSP: la Mesa de contratación estará presidida por un miembro de la Corporación o un funcionario de la misma. Respuesta correcta: b).",
     "fuente": "Disposición adicional segunda LCSP (Ley 9/2017)"
   },
   {
@@ -21283,7 +21283,7 @@ const QUESTIONS = {
       "Serán de aplicación a los contratos de obras las normas sobre supervisión de proyectos establecidas en esa ley, únicamente cuando se trate de municipios de gran población"
     ],
     "correct": 1,
-    "exp": "Pregunta 35 del examen oficial de 1 de junio de 2025. DA 3ª.6 LCSP: sí son de aplicación a las entidades locales las normas sobre supervisión de proyectos de obras. Respuesta correcta: b).",
+    "exp": "Pregunta 35 del examen oficial de 1 de junio de 2025. Disposición adicional tercera, apartado 6, LCSP: sí son de aplicación a las entidades locales las normas sobre supervisión de proyectos de obras. Respuesta correcta: b).",
     "fuente": "Disposición adicional tercera LCSP (Ley 9/2017)"
   },
   {
