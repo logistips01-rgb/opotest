@@ -36,29 +36,13 @@
       // los archivos de ampliación cuando los crea
       files:['data/policia-local-zaragoza.js'],
       preguntas:4690
-    },
-    {
-      slug:'policia-nacional',
-      title:'Policía Nacional · Escala Básica',
-      org:'Ministerio del Interior',
-      emoji:'🚔',
-      color:'#0b4f9e',
-      // el primero es el banco base; tools/fusionar.js añade aquí
-      // los archivos de ampliación cuando los crea
-      files:['data/policia-nacional.js'],
-      preguntas:68
-    },
-    {
-      slug:'aux-admin-dga',
-      title:'Auxiliar Administrativo',
-      org:'Gobierno de Aragón (DGA)',
-      emoji:'🗂️',
-      color:'#2a9d8f',
-      // el primero es el banco base; tools/fusionar.js añade aquí
-      // los archivos de ampliación cuando los crea
-      files:['data/aux-admin-dga.js'],
-      preguntas:58
     }
+    /* Policía Nacional · Escala Básica y Auxiliar Administrativo (DGA) se
+       retiraron del catálogo el 22-ago-2026 a petición del usuario. Los
+       archivos de datos (data/policia-nacional.js, data/aux-admin-dga.js)
+       se dejan en el repositorio sin tocar: son bancos pequeños (68 y 58
+       preguntas) y no hay motivo para borrarlos si algún día se retoman.
+       Para reactivarlas basta con volver a añadir sus entradas aquí. */
   ];
 
   window.getOposicion = function(slug){
