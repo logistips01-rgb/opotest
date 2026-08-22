@@ -1,5 +1,5 @@
 /* =======================================================
-   OpoTest · catálogo de oposiciones
+   Almitest · catálogo de oposiciones
    -------------------------------------------------------
    Para añadir una oposición nueva:
      1. Crea data/<slug>.js copiando el formato de cualquier

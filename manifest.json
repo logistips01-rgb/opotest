@@ -1,6 +1,6 @@
 {
-  "name": "OpoTest · Tus oposiciones",
-  "short_name": "OpoTest",
+  "name": "Almitest · Tus oposiciones",
+  "short_name": "Almitest",
   "description": "Tests de oposiciones con progreso guardado en el dispositivo",
   "start_url": "./index.html",
   "scope": "./",

@@ -1,4 +1,4 @@
-# OpoTest
+# Almitest
 
 Tests de oposiciones, sin registro y sin servidor. Es una web estática: se puede
 abrir directamente desde el disco (doble clic en `index.html`) o publicarla en

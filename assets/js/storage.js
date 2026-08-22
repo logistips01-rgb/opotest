@@ -1,5 +1,5 @@
 /* =======================================================
-   OpoTest · capa de persistencia
+   Almitest · capa de persistencia
    -------------------------------------------------------
    Toda la app guarda y lee el progreso SOLO a través de
    window.OpoStore. Si algún día se quiere sincronizar entre
@@ -136,7 +136,7 @@
       try{ data = JSON.parse(json); }
       catch(e){ throw new Error('El archivo no es un JSON válido.'); }
       if(!data || data.app !== 'opotest' || !data.oposiciones){
-        throw new Error('El archivo no es una copia de OpoTest.');
+        throw new Error('El archivo no es una copia de Almitest.');
       }
       let n = 0;
       for(const slug of Object.keys(data.oposiciones)){

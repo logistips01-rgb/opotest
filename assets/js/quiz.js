@@ -1,5 +1,5 @@
 /* =======================================================
-   OpoTest · motor de test
+   Almitest · motor de test
    Recibe la oposición por querystring: test.html?opo=<slug>
    ======================================================= */
 (function(){
@@ -468,7 +468,7 @@
       return;
     }
 
-    document.title = 'OpoTest · ' + meta.title;
+    document.title = 'Almitest · ' + meta.title;
     document.getElementById('opo-title').textContent = meta.emoji + ' ' + meta.title;
     document.getElementById('opo-sub').textContent = meta.org;
     document.documentElement.style.setProperty('--acento', meta.color);

@@ -1,5 +1,5 @@
 /* =======================================================
-   OpoTest · pantalla de inicio (selector de oposiciones)
+   Almitest · pantalla de inicio (selector de oposiciones)
    ======================================================= */
 (function(){
   'use strict';
