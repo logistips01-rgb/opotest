@@ -372,19 +372,6 @@ window.addQuestions('aux-admin-zaragoza', 19, [  {
     "confianza": "alta"
   },
   {
-    "q": "La escala de funcionarios de administración local con habilitación de carácter nacional se subdivide, conforme al artículo 92 bis.2 LBRL, en las siguientes subescalas:",
-    "options": [
-      "Secretaría, Intervención y Tesorería",
-      "Secretaría, Intervención-tesorería, Secretaría-intervención y Depositaría",
-      "Administración General y Administración Especial",
-      "Secretaría, Intervención-tesorería y Secretaría-intervención"
-    ],
-    "correct": 3,
-    "exp": "El art. 92 bis.2 LBRL prevé tres subescalas: Secretaría (funciones del apartado 1.a), Intervención-tesorería (funciones del apartado 1.b) y Secretaría-intervención (funciones de ambos apartados).",
-    "fuente": "Art. 92 bis.2 LBRL (Ley 7/1985)",
-    "confianza": "alta"
-  },
-  {
     "q": "La aprobación de la oferta de empleo público, la selección, la formación y la habilitación de los funcionarios de administración local con habilitación de carácter nacional corresponde a:",
     "options": [
       "El Estado, a través del Ministerio competente en materia de Hacienda y Administraciones Públicas",
@@ -711,19 +698,6 @@ window.addQuestions('aux-admin-zaragoza', 19, [  {
     "correct": 3,
     "exp": "El art. 92 bis.1, párrafo final, LBRL remite a la Ley 22/2006, de 4 de julio, de Capitalidad y de Régimen Especial de Madrid, y a la Ley 1/2006, de 13 de marzo, por la que se regula el Régimen Especial del municipio de Barcelona.",
     "fuente": "Art. 92 bis.1 LBRL (Ley 7/1985)",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el artículo 92 bis.3 de la LBRL, los funcionarios de las subescalas de Secretaría e Intervención-tesorería estarán integrados en una de estas categorías:",
-    "options": [
-      "Entrada o superior.",
-      "Superior, media o de entrada, según antigüedad.",
-      "Básica, media o superior.",
-      "Primera, segunda o tercera."
-    ],
-    "correct": 0,
-    "exp": "El art. 92 bis.3 LBRL dispone que los funcionarios de las subescalas de Secretaría e Intervención-tesorería estarán integrados en una de estas dos categorías: entrada o superior.",
-    "fuente": "Art. 92 bis.3 LBRL (Ley 7/1985)",
     "confianza": "alta"
   },
   {
@@ -16592,19 +16566,6 @@ window.addQuestions('aux-admin-zaragoza', 13, [  {
     "confianza": "alta"
   },
   {
-    "q": "Según el art. 168.2 del TRLRHL, el presupuesto de cada organismo autónomo integrante del presupuesto general, propuesto inicialmente por su órgano competente, debe remitirse a la Entidad Local de la que dependa antes del:",
-    "options": [
-      "1 de enero del ejercicio siguiente",
-      "15 de octubre de cada año",
-      "15 de septiembre de cada año",
-      "31 de diciembre del propio ejercicio"
-    ],
-    "correct": 2,
-    "exp": "Art. 168.2: el presupuesto de cada organismo autónomo 'será remitido a la Entidad Local de la que dependan antes del 15 de septiembre de cada año, acompañado de la documentación detallada en el apartado anterior'.",
-    "fuente": "Art. 168.2 TRLRHL (RDLeg 2/2004)",
-    "confianza": "alta"
-  },
-  {
     "q": "Según el art. 168.3 del TRLRHL, las sociedades mercantiles, incluso aquellas en cuyo capital sea mayoritaria la participación de la Entidad Local, deben remitir a esta, antes del 15 de septiembre de cada año:",
     "options": [
       "El balance definitivo del ejercicio en curso",
@@ -17050,19 +17011,6 @@ window.addQuestions('aux-admin-zaragoza', 13, [  {
     "confianza": "alta"
   },
   {
-    "q": "Según el art. 195 TRLRHL, las disponibilidades de la tesorería local y sus variaciones quedan sujetas a...",
-    "options": [
-      "Aprobación previa del Pleno en cada operación de tesorería",
-      "Intervención y al régimen de la contabilidad pública",
-      "Fiscalización previa exclusiva del Tribunal de Cuentas",
-      "Auditoría externa exclusivamente"
-    ],
-    "correct": 1,
-    "exp": "El art. 195 TRLRHL dispone que las disponibilidades de la tesorería y sus variaciones quedan sujetas a intervención y al régimen de la contabilidad pública.",
-    "fuente": "Art. 195 TRLRHL (RDLeg 2/2004)",
-    "confianza": "alta"
-  },
-  {
     "q": "¿Cuál de las siguientes NO figura entre las funciones de la tesorería de las entidades locales que enumera el art. 196.1 TRLRHL?",
     "options": [
       "Responder de los avales contraídos",
@@ -17138,19 +17086,6 @@ window.addQuestions('aux-admin-zaragoza', 13, [  {
     "correct": 3,
     "exp": "El art. 197.1.c) TRLRHL incluye entre los tipos de cuenta las cuentas restringidas de pagos.",
     "fuente": "Art. 197.1.c) TRLRHL (RDLeg 2/2004)",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 197.2 TRLRHL, las entidades locales podrán autorizar la existencia de cajas de efectivo para...",
-    "options": [
-      "Los fondos de las operaciones diarias, sujetas a las limitaciones que reglamentariamente se establezcan",
-      "La custodia de valores mobiliarios a largo plazo",
-      "El pago de subvenciones plurianuales",
-      "La gestión de operaciones de crédito a largo plazo"
-    ],
-    "correct": 0,
-    "exp": "El art. 197.2 TRLRHL permite autorizar cajas de efectivo para los fondos de las operaciones diarias, sujetas a las limitaciones reglamentarias.",
-    "fuente": "Art. 197.2 TRLRHL (RDLeg 2/2004)",
     "confianza": "alta"
   },
   {
@@ -17430,19 +17365,6 @@ window.addQuestions('aux-admin-zaragoza', 13, [  {
     "confianza": "alta"
   },
   {
-    "q": "Según el art. 207 del TRLRHL, la Intervención de la entidad local remitirá al Pleno, por conducto de la presidencia, información de la ejecución de los presupuestos y del movimiento de la tesorería:",
-    "options": [
-      "Cada cuatro años, coincidiendo con el mandato corporativo",
-      "Solo cuando lo solicite expresamente el Tribunal de Cuentas",
-      "En los plazos y con la periodicidad que el Pleno establezca",
-      "Únicamente una vez al año, coincidiendo con la Cuenta General"
-    ],
-    "correct": 2,
-    "exp": "Art. 207: la Intervención remitirá dicha información al Pleno, por conducto de la presidencia, 'en los plazos y con la periodicidad que el Pleno establezca.'",
-    "fuente": "Art. 207 TRLRHL (RDLeg 2/2004)",
-    "confianza": "alta"
-  },
-  {
     "q": "Según el art. 208 del TRLRHL, la cuenta general que forman las entidades locales a la terminación del ejercicio presupuestario pone de manifiesto la gestión realizada en los aspectos:",
     "options": [
       "Únicamente el aspecto presupuestario",
@@ -17505,32 +17427,6 @@ window.addQuestions('aux-admin-zaragoza', 13, [  {
     "correct": 3,
     "exp": "Art. 209.4: 'Las entidades locales unirán a la Cuenta General los estados consolidados que determine el Ministro de Hacienda y Función Pública, en los términos previstos en las normas de consolidación que apruebe para el sector público local...'",
     "fuente": "Art. 209.4 TRLRHL (RDLeg 2/2004)",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 210 del TRLRHL, el contenido, estructura y normas de elaboración de las cuentas de la propia entidad y de sus organismos autónomos se determinan por:",
-    "options": [
-      "El Ministerio de Hacienda, a propuesta de la Intervención General de la Administración del Estado",
-      "Cada Comunidad Autónoma, con carácter exclusivo",
-      "El Tribunal de Cuentas mediante instrucción anual",
-      "El Pleno de cada Corporación, sin sujeción a norma estatal"
-    ],
-    "correct": 0,
-    "exp": "Art. 210: 'El contenido, estructura y normas de elaboración de las cuentas a que se refieren los párrafos a) y b) del apartado 1 del artículo anterior, se determinarán por el Ministerio de Hacienda, a propuesta de la Intervención General de la Administración del Estado.'",
-    "fuente": "Art. 210 TRLRHL (RDLeg 2/2004)",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 211 a) del TRLRHL, los municipios de más de 50.000 habitantes y las demás entidades locales de ámbito superior deben acompañar a la cuenta general:",
-    "options": [
-      "Un dictamen del Consejo de Estado",
-      "Una memoria justificativa del coste y rendimiento de los servicios públicos",
-      "Una certificación bancaria de solvencia municipal",
-      "Un informe favorable del Tribunal Constitucional"
-    ],
-    "correct": 1,
-    "exp": "Art. 211 a): dichas entidades acompañarán a la cuenta general 'Una memoria justificativa del coste y rendimiento de los servicios públicos.'",
-    "fuente": "Art. 211 a) TRLRHL (RDLeg 2/2004)",
     "confianza": "alta"
   },
   {
@@ -20788,19 +20684,6 @@ window.addQuestions('aux-admin-zaragoza', 11, [  {
     "fuente": "Art. 86.2 LBRL",
     "confianza": "alta"
   },
-  {
-    "q": "Según el art. 86.2 LBRL, la efectiva ejecución en régimen de monopolio de las actividades reservadas requiere, además del acuerdo de aprobación del Pleno de la Corporación local:",
-    "options": [
-      "La ratificación de las Cortes Generales",
-      "La aprobación por el órgano competente de la Comunidad Autónoma",
-      "La autorización previa del Consejo de Ministros",
-      "Un referéndum municipal vinculante"
-    ],
-    "correct": 1,
-    "exp": "Art. 86.2: la efectiva ejecución de estas actividades en régimen de monopolio requiere, además del acuerdo de aprobación del pleno de la correspondiente Corporación local, la aprobación por el órgano competente de la Comunidad Autónoma.",
-    "fuente": "Art. 86.2 LBRL",
-    "confianza": "alta"
-  },
 ]);
 
 /* tema 11 · lote 2026-08-11 · 40 preguntas revisadas */
@@ -20854,19 +20737,6 @@ window.addQuestions('aux-admin-zaragoza', 11, [  {
     "correct": 1,
     "exp": "El art. 84.1.b) LBRL dispone que, tratándose de actividades de servicios incluidas en la Ley 17/2009, se estará a lo dispuesto en la misma.",
     "fuente": "Art. 84.1.b) LBRL",
-    "confianza": "alta"
-  },
-  {
-    "q": "El sometimiento a comunicación previa o a declaración responsable, conforme al art. 84.1.c) LBRL, se rige de conformidad con lo establecido en:",
-    "options": [
-      "El artículo 4 de la Ley 17/2009, de 23 de noviembre",
-      "El artículo 69 de la Ley 39/2015, de 1 de octubre",
-      "El artículo 71 bis de la Ley 30/1992, de 26 de noviembre",
-      "El artículo 84 bis de la propia LBRL"
-    ],
-    "correct": 2,
-    "exp": "El art. 84.1.c) LBRL remite, de forma expresa, al artículo 71 bis de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.",
-    "fuente": "Art. 84.1.c) LBRL",
     "confianza": "alta"
   },
   {
@@ -28155,19 +28025,6 @@ window.addQuestions('aux-admin-zaragoza', 8, [  {
     "confianza": "alta"
   },
   {
-    "q": "Según el art. 126.1 LPAC, el órgano competente puede acordar motivadamente la inadmisión a trámite del recurso extraordinario de revisión, sin necesidad de recabar dictamen del Consejo de Estado, cuando:",
-    "options": [
-      "Hayan transcurrido más de dos años desde el acto",
-      "El expediente supere las cien páginas",
-      "El recurso no se funde en alguna de las causas del art. 125.1 o se hubiesen desestimado en cuanto al fondo otros recursos sustancialmente iguales",
-      "El recurrente sea una persona jurídica"
-    ],
-    "correct": 2,
-    "exp": "Art. 126.1: '...cuando el mismo no se funde en alguna de las causas previstas en el apartado 1 del artículo anterior o en el supuesto de que se hubiesen desestimado en cuanto al fondo otros recursos sustancialmente iguales.'",
-    "fuente": "Art. 126.1 LPAC",
-    "confianza": "alta"
-  },
-  {
     "q": "Según el art. 126.1 LPAC, ¿ante qué órgano consultivo debe recabarse dictamen, con carácter general, antes de resolver el recurso extraordinario de revisión, salvo las excepciones previstas?",
     "options": [
       "El Consejo General del Poder Judicial",
@@ -31569,19 +31426,6 @@ window.addQuestions('aux-admin-zaragoza', 6, [  {
     "confianza": "alta"
   },
   {
-    "q": "Según el art. 39.1 LPAC, los actos de las Administraciones Públicas sujetos al Derecho Administrativo se presumirán válidos y producirán efectos:",
-    "options": [
-      "Desde que adquieran firmeza en vía administrativa",
-      "Desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa",
-      "Desde su publicación en el diario oficial correspondiente, en todo caso",
-      "Desde su notificación al interesado, sin excepción alguna"
-    ],
-    "correct": 1,
-    "exp": "El art. 39.1 LPAC dispone que los actos 'producirán efectos desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa'.",
-    "fuente": "Art. 39.1 LPAC",
-    "confianza": "alta"
-  },
-  {
     "q": "Según el art. 39.3 LPAC, podrá otorgarse eficacia retroactiva a los actos administrativos, excepcionalmente, cuando se dicten en sustitución de actos anulados o cuando:",
     "options": [
       "Lo solicite el interesado y la Administración lo estime conveniente",
@@ -32861,19 +32705,6 @@ window.addQuestions('aux-admin-zaragoza', 5, [  {
     ],
     "correct": 0,
     "exp": "Art. 19.1: 'La comparecencia de las personas ante las oficinas públicas, ya sea presencialmente o por medios electrónicos, sólo será obligatoria cuando así esté previsto en una norma con rango de ley.'",
-    "fuente": "Art. 19.1 LPAC",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 19.1 de la Ley 39/2015, la comparecencia ante las oficinas públicas será obligatoria únicamente cuando:",
-    "options": [
-      "El procedimiento supere los tres meses de duración",
-      "Así esté previsto en una norma con rango de ley",
-      "El interesado sea una persona jurídica",
-      "Lo decida el jefe de la unidad administrativa"
-    ],
-    "correct": 1,
-    "exp": "Art. 19.1: '...sólo será obligatoria cuando así esté previsto en una norma con rango de ley.'",
     "fuente": "Art. 19.1 LPAC",
     "confianza": "alta"
   },
@@ -38904,19 +38735,6 @@ window.addQuestions('aux-admin-zaragoza', 3, [  {
     "confianza": "alta"
   },
   {
-    "q": "Según el art. 62.1 del Estatuto de Aragón, en paralelo al art. 103.1 de la Constitución Española, la Administración de la Comunidad Autónoma sirve con objetividad a los intereses generales con:",
-    "options": [
-      "Autonomía plena respecto al ordenamiento jurídico",
-      "Sometimiento a los principios de jerarquía y descentralización, exclusivamente",
-      "Sujeción a las directrices del partido en el Gobierno",
-      "Sometimiento pleno a la Ley y al Derecho"
-    ],
-    "correct": 3,
-    "exp": "Art. 62.1: 'La Administración de la Comunidad Autónoma sirve con objetividad a los intereses generales con sometimiento pleno a la Ley y al Derecho.'",
-    "fuente": "Art. 62.1 EAA",
-    "confianza": "alta"
-  },
-  {
     "q": "Según el art. 62.2 del Estatuto de Aragón, en su actuación, la Administración aragonesa respetará los principios de buena fe y de confianza legítima, y se relacionará con el resto de Administraciones Públicas españolas con arreglo al principio de:",
     "options": [
       "Lealtad institucional",
@@ -39164,19 +38982,6 @@ window.addQuestions('aux-admin-zaragoza', 2, [  {
     "correct": 2,
     "exp": "El art. 7.3 dispone: 'Se considerarán en todo caso discriminatorios el acoso sexual y el acoso por razón de sexo.'",
     "fuente": "Art. 7.3 LO 3/2007",
-    "confianza": "alta"
-  },
-  {
-    "q": "El art. 7.4 de la LO 3/2007 dispone que el condicionamiento de un derecho o de una expectativa de derecho a la aceptación de una situación constitutiva de acoso sexual o de acoso por razón de sexo se considerará:",
-    "options": [
-      "Un supuesto de nulidad radical del contrato de trabajo exclusivamente",
-      "Una infracción penal autónoma tipificada en dicho artículo",
-      "Causa de responsabilidad patrimonial de la Administración únicamente",
-      "También acto de discriminación por razón de sexo"
-    ],
-    "correct": 3,
-    "exp": "El art. 7.4 establece que ese condicionamiento 'se considerará también acto de discriminación por razón de sexo'.",
-    "fuente": "Art. 7.4 LO 3/2007",
     "confianza": "alta"
   },
   {

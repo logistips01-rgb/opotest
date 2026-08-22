@@ -1520,18 +1520,6 @@ const QUESTIONS = {
     "fuente": "Art. 18.1 Ley 4/2007 (Aragón) (violencia sobre la mujer)"
   },
   {
-    "q": "Según el art. 18.3, ¿cuántos centros de emergencia debe haber, como mínimo, en la Comunidad Autónoma de Aragón?",
-    "options": [
-      "Al menos uno en cada comarca",
-      "Al menos cinco en total, sin distribución territorial fija",
-      "Al menos uno en cada provincia",
-      "Uno único para toda la Comunidad Autónoma"
-    ],
-    "correct": 2,
-    "exp": "Art. 18.3: 'Se establecerá, al menos, un centro de emergencia en cada provincia de la Comunidad Autónoma de Aragón.'",
-    "fuente": "Art. 18.3 Ley 4/2007 (Aragón) (violencia sobre la mujer)"
-  },
-  {
     "q": "Según el art. 19.1 de la Ley 4/2007, las casas de acogida son un servicio social especializado destinado a acoger, por un período determinado, a:",
     "options": [
       "Empresarias en situación de insolvencia",
@@ -2554,18 +2542,6 @@ const QUESTIONS = {
     "fuente": "Art. 36.2 EAAr (LO 5/2007)"
   },
   {
-    "q": "Según el art. 37.2, las Cortes de Aragón son elegidas por un período de:",
-    "options": [
-      "Cinco años",
-      "Cuatro años",
-      "Tres años",
-      "Seis años"
-    ],
-    "correct": 1,
-    "exp": "Art. 37.2: 'Las Cortes de Aragón serán elegidas por un período de cuatro años.'",
-    "fuente": "Art. 37.2 EAAr (LO 5/2007)"
-  },
-  {
     "q": "Según el art. 38.1, los Diputados y Diputadas a Cortes de Aragón no están vinculados por mandato imperativo y son inviolables, incluso después de cesar en su mandato, por:",
     "options": [
       "Actuaciones ajenas a su cargo parlamentario",
@@ -3007,18 +2983,6 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "El Título V del Estatuto distingue tres tipos de competencias: exclusivas (art. 71), compartidas (art. 75) y ejecutivas (art. 77).",
-    "fuente": "Art. 71 EAAr (LO 5/2007)"
-  },
-  {
-    "q": "Según el art. 71, en el ámbito de las competencias exclusivas, la Comunidad Autónoma de Aragón ejerce:",
-    "options": [
-      "La potestad legislativa, la potestad reglamentaria, la función ejecutiva y el establecimiento de políticas propias",
-      "Competencias delegadas revisables anualmente por el Estado",
-      "Solo la potestad reglamentaria de desarrollo",
-      "Únicamente la función ejecutiva, sin capacidad legislativa"
-    ],
-    "correct": 0,
-    "exp": "Art. 71: 'la Comunidad Autónoma de Aragón ejercerá la potestad legislativa, la potestad reglamentaria, la función ejecutiva y el establecimiento de políticas propias.'",
     "fuente": "Art. 71 EAAr (LO 5/2007)"
   },
   {
@@ -6520,18 +6484,6 @@ const QUESTIONS = {
     "fuente": "Art. 48.1 LPAC (Ley 39/2015)"
   },
   {
-    "q": "Según el art. 48.2, el defecto de forma solo determina la anulabilidad del acto cuando:",
-    "options": [
-      "El funcionario firmante esté de vacaciones",
-      "El acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados",
-      "El acto se dicte en fin de semana",
-      "Se trate de cualquier error ortográfico"
-    ],
-    "correct": 1,
-    "exp": "Art. 48.2: 'el defecto de forma sólo determinará la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados.'",
-    "fuente": "Art. 48.2 LPAC (Ley 39/2015)"
-  },
-  {
     "q": "Según el art. 48.3, la realización de actuaciones administrativas fuera del tiempo establecido para ellas solo implica la anulabilidad del acto cuando:",
     "options": [
       "Se trate de un procedimiento sancionador",
@@ -8444,18 +8396,6 @@ const QUESTIONS = {
     "fuente": "Art. 107.2 LPAC (Ley 39/2015)"
   },
   {
-    "q": "Según el art. 107.3, si transcurren seis meses desde la iniciación del procedimiento de declaración de lesividad sin que esta se declare, se producirá:",
-    "options": [
-      "La nulidad de pleno derecho del acto",
-      "La estimación automática de la lesividad",
-      "La prórroga automática por otros seis meses",
-      "La caducidad del procedimiento"
-    ],
-    "correct": 3,
-    "exp": "Art. 107.3: 'Transcurrido el plazo de seis meses desde la iniciación del procedimiento sin que se hubiera declarado la lesividad, se producirá la caducidad del mismo.'",
-    "fuente": "Art. 107.3 LPAC (Ley 39/2015)"
-  },
-  {
     "q": "Según el art. 107, si el acto proviene de una entidad de la Administración Local, ¿quién adopta la declaración de lesividad?",
     "options": [
       "El Pleno de la Corporación o, en su defecto, el órgano colegiado superior de la entidad",
@@ -8514,18 +8454,6 @@ const QUESTIONS = {
     "correct": 0,
     "exp": "El art. 109 lleva por título 'Revocación de actos y rectificación de errores'.",
     "fuente": "Art. 109 LPAC (Ley 39/2015)"
-  },
-  {
-    "q": "Según el art. 109.1, las AAPP pueden revocar sus actos de gravamen o desfavorables mientras no haya transcurrido el plazo de:",
-    "options": [
-      "Un año fijo desde la notificación",
-      "Prescripción",
-      "Seis meses desde su firmeza",
-      "Diez años en todo caso"
-    ],
-    "correct": 1,
-    "exp": "Art. 109.1: 'Las Administraciones Públicas podrán revocar, mientras no haya transcurrido el plazo de prescripción, sus actos de gravamen o desfavorables.'",
-    "fuente": "Art. 109.1 LPAC (Ley 39/2015)"
   },
   {
     "q": "Según el art. 109.1, la revocación de actos de gravamen o desfavorables no puede constituir dispensa o exención no permitida por las leyes, ni ser contraria:",

@@ -2370,3 +2370,46 @@ de 6-dic-1978. No tienen artículo que citar.
 Las **77 que faltan** están localizadas: **48 en el tema 10** (preguntas que
 citan el Reglamento de Bienes sin precepto), **21 en el tema 14**, 4 en el 1, 2
 en el 12 y 1 en el 15 y el 18.
+
+---
+
+## Segunda pasada de duplicados (22-ago-2026)
+
+El primer detector de duplicados (mismo artículo citado + misma respuesta
+correcta, sin más) daba **48 candidatos** y era demasiado agresivo: el art. 92
+bis.11 LBRL da «seis años / tres años» tanto a la destitución como a la
+suspensión de funciones, dos preguntas **distintas** que comparten respuesta por
+casualidad. Un solo criterio no basta.
+
+Se le añadió un segundo filtro — parecido entre los ENUNCIADOS, quitando la
+coletilla «Según el art. X…» antes de comparar — y con los dos criterios el
+resultado fue: 36 candidatos de parecido alto, 23 en una franja media que hubo
+que leer uno a uno, y 31 que resultaron ser preguntas distintas con la misma
+respuesta por coincidencia del precepto.
+
+**Comprobados a mano los 21 pares de parecido alto, uno por uno, leyendo el par
+completo**: los 21 eran duplicados reales, el mismo hecho parafraseado. Se
+retiró siempre la copia con la explicación más corta. Repartidos por tema: 2 (2),
+3 (2), 5 (1), 6 (2), 8 (3), 11 (2), 13 (6), 19 (2).
+
+**Dos grupos que el criterio señalaba y NO eran duplicados**, verificados contra
+el texto legal antes de descartar la sospecha:
+
+- El **trío del art. 34 RBEL** (tema 10): aprobación, rectificación y
+  comprobación del inventario son tres funciones distintas que el propio
+  precepto separa, con la misma respuesta —el Pleno— porque las tres son
+  competencia del Pleno. Se mantiene.
+- El **quinteto del art. 17.1 LBRL** (tema 14): formación, mantenimiento,
+  revisión, custodia y gestión del Padrón Municipal. El artículo literal dice
+  «La formación, mantenimiento, revisión y custodia del Padrón municipal
+  corresponde al Ayuntamiento» y añade en frase separada «La gestión del Padrón
+  municipal se llevará por los Ayuntamientos». Son cinco palabras de una
+  enumeración legal, no cinco redacciones de la misma pregunta. Se mantiene.
+
+**Regla para el futuro**: antes de retirar un duplicado por (artículo + misma
+respuesta), comprobar si el propio precepto enumera varios supuestos distintos
+que comparten la misma consecuencia jurídica. Si es así, no es un duplicado:
+está bien que cada supuesto tenga su pregunta.
+
+Banco: 5.652 → 5.631, las 5.631 con cita. Reparto de la correcta 25,1/25,0/25,4/
+24,5 %.

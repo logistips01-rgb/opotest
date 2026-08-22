@@ -1,0 +1,295 @@
+{
+ "motivo": "Duplicados detectados por (mismo artículo citado + misma respuesta correcta) y VERIFICADOS a mano, leyendo el par completo, antes de retirar: mismo hecho parafraseado, no una coincidencia de artículo que da la misma consecuencia a dos supuestos distintos. Se conserva siempre la copia con la explicación más completa.",
+ "no_confundir_con": "El trío del art. 34 RBEL (aprobación/rectificación/comprobación del inventario, tema 10) y el quinteto del art. 17.1 LBRL (formación/mantenimiento/revisión/custodia/gestión del Padrón, tema 14) NO son duplicados: el propio precepto enumera esas palabras como funciones distintas, y cada pregunta testea una letra de la enumeración. No se tocan.",
+ "fecha": "2026-08-22",
+ "preguntas": [
+  {
+   "q": "El art. 7.4 de la LO 3/2007 dispone que el condicionamiento de un derecho o de una expectativa de derecho a la aceptación de una situación constitutiva de acoso sexual o de acoso por razón de sexo se considerará:",
+   "options": [
+    "Un supuesto de nulidad radical del contrato de trabajo exclusivamente",
+    "Una infracción penal autónoma tipificada en dicho artículo",
+    "Causa de responsabilidad patrimonial de la Administración únicamente",
+    "También acto de discriminación por razón de sexo"
+   ],
+   "correct": 3,
+   "exp": "El art. 7.4 establece que ese condicionamiento 'se considerará también acto de discriminación por razón de sexo'.",
+   "fuente": "Art. 7.4 LO 3/2007",
+   "confianza": "alta",
+   "temaOrigen": 2
+  },
+  {
+   "q": "Según el art. 62.1 del Estatuto de Aragón, en paralelo al art. 103.1 de la Constitución Española, la Administración de la Comunidad Autónoma sirve con objetividad a los intereses generales con:",
+   "options": [
+    "Autonomía plena respecto al ordenamiento jurídico",
+    "Sometimiento a los principios de jerarquía y descentralización, exclusivamente",
+    "Sujeción a las directrices del partido en el Gobierno",
+    "Sometimiento pleno a la Ley y al Derecho"
+   ],
+   "correct": 3,
+   "exp": "Art. 62.1: 'La Administración de la Comunidad Autónoma sirve con objetividad a los intereses generales con sometimiento pleno a la Ley y al Derecho.'",
+   "fuente": "Art. 62.1 EAA",
+   "confianza": "alta",
+   "temaOrigen": 3
+  },
+  {
+   "q": "Según el art. 19.1 de la Ley 39/2015, la comparecencia ante las oficinas públicas será obligatoria únicamente cuando:",
+   "options": [
+    "El procedimiento supere los tres meses de duración",
+    "Así esté previsto en una norma con rango de ley",
+    "El interesado sea una persona jurídica",
+    "Lo decida el jefe de la unidad administrativa"
+   ],
+   "correct": 1,
+   "exp": "Art. 19.1: '...sólo será obligatoria cuando así esté previsto en una norma con rango de ley.'",
+   "fuente": "Art. 19.1 LPAC",
+   "confianza": "alta",
+   "temaOrigen": 5
+  },
+  {
+   "q": "Según el art. 39.1 LPAC, los actos de las Administraciones Públicas sujetos al Derecho Administrativo se presumirán válidos y producirán efectos:",
+   "options": [
+    "Desde que adquieran firmeza en vía administrativa",
+    "Desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa",
+    "Desde su publicación en el diario oficial correspondiente, en todo caso",
+    "Desde su notificación al interesado, sin excepción alguna"
+   ],
+   "correct": 1,
+   "exp": "El art. 39.1 LPAC dispone que los actos 'producirán efectos desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa'.",
+   "fuente": "Art. 39.1 LPAC",
+   "confianza": "alta",
+   "temaOrigen": 6
+  },
+  {
+   "q": "Según el art. 126.1 LPAC, el órgano competente puede acordar motivadamente la inadmisión a trámite del recurso extraordinario de revisión, sin necesidad de recabar dictamen del Consejo de Estado, cuando:",
+   "options": [
+    "Hayan transcurrido más de dos años desde el acto",
+    "El expediente supere las cien páginas",
+    "El recurso no se funde en alguna de las causas del art. 125.1 o se hubiesen desestimado en cuanto al fondo otros recursos sustancialmente iguales",
+    "El recurrente sea una persona jurídica"
+   ],
+   "correct": 2,
+   "exp": "Art. 126.1: '...cuando el mismo no se funde en alguna de las causas previstas en el apartado 1 del artículo anterior o en el supuesto de que se hubiesen desestimado en cuanto al fondo otros recursos sustancialmente iguales.'",
+   "fuente": "Art. 126.1 LPAC",
+   "confianza": "alta",
+   "temaOrigen": 8
+  },
+  {
+   "q": "Según el art. 86.2 LBRL, la efectiva ejecución en régimen de monopolio de las actividades reservadas requiere, además del acuerdo de aprobación del Pleno de la Corporación local:",
+   "options": [
+    "La ratificación de las Cortes Generales",
+    "La aprobación por el órgano competente de la Comunidad Autónoma",
+    "La autorización previa del Consejo de Ministros",
+    "Un referéndum municipal vinculante"
+   ],
+   "correct": 1,
+   "exp": "Art. 86.2: la efectiva ejecución de estas actividades en régimen de monopolio requiere, además del acuerdo de aprobación del pleno de la correspondiente Corporación local, la aprobación por el órgano competente de la Comunidad Autónoma.",
+   "fuente": "Art. 86.2 LBRL",
+   "confianza": "alta",
+   "temaOrigen": 11
+  },
+  {
+   "q": "El sometimiento a comunicación previa o a declaración responsable, conforme al art. 84.1.c) LBRL, se rige de conformidad con lo establecido en:",
+   "options": [
+    "El artículo 4 de la Ley 17/2009, de 23 de noviembre",
+    "El artículo 69 de la Ley 39/2015, de 1 de octubre",
+    "El artículo 71 bis de la Ley 30/1992, de 26 de noviembre",
+    "El artículo 84 bis de la propia LBRL"
+   ],
+   "correct": 2,
+   "exp": "El art. 84.1.c) LBRL remite, de forma expresa, al artículo 71 bis de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.",
+   "fuente": "Art. 84.1.c) LBRL",
+   "confianza": "alta",
+   "temaOrigen": 11
+  },
+  {
+   "q": "Según el art. 211 a) del TRLRHL, los municipios de más de 50.000 habitantes y las demás entidades locales de ámbito superior deben acompañar a la cuenta general:",
+   "options": [
+    "Un dictamen del Consejo de Estado",
+    "Una memoria justificativa del coste y rendimiento de los servicios públicos",
+    "Una certificación bancaria de solvencia municipal",
+    "Un informe favorable del Tribunal Constitucional"
+   ],
+   "correct": 1,
+   "exp": "Art. 211 a): dichas entidades acompañarán a la cuenta general 'Una memoria justificativa del coste y rendimiento de los servicios públicos.'",
+   "fuente": "Art. 211 a) TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "temaOrigen": 13
+  },
+  {
+   "q": "Según el art. 168.2 del TRLRHL, el presupuesto de cada organismo autónomo integrante del presupuesto general, propuesto inicialmente por su órgano competente, debe remitirse a la Entidad Local de la que dependa antes del:",
+   "options": [
+    "1 de enero del ejercicio siguiente",
+    "15 de octubre de cada año",
+    "15 de septiembre de cada año",
+    "31 de diciembre del propio ejercicio"
+   ],
+   "correct": 2,
+   "exp": "Art. 168.2: el presupuesto de cada organismo autónomo 'será remitido a la Entidad Local de la que dependan antes del 15 de septiembre de cada año, acompañado de la documentación detallada en el apartado anterior'.",
+   "fuente": "Art. 168.2 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "temaOrigen": 13
+  },
+  {
+   "q": "Según el art. 195 TRLRHL, las disponibilidades de la tesorería local y sus variaciones quedan sujetas a...",
+   "options": [
+    "Aprobación previa del Pleno en cada operación de tesorería",
+    "Intervención y al régimen de la contabilidad pública",
+    "Fiscalización previa exclusiva del Tribunal de Cuentas",
+    "Auditoría externa exclusivamente"
+   ],
+   "correct": 1,
+   "exp": "El art. 195 TRLRHL dispone que las disponibilidades de la tesorería y sus variaciones quedan sujetas a intervención y al régimen de la contabilidad pública.",
+   "fuente": "Art. 195 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "temaOrigen": 13
+  },
+  {
+   "q": "Según el art. 197.2 TRLRHL, las entidades locales podrán autorizar la existencia de cajas de efectivo para...",
+   "options": [
+    "Los fondos de las operaciones diarias, sujetas a las limitaciones que reglamentariamente se establezcan",
+    "La custodia de valores mobiliarios a largo plazo",
+    "El pago de subvenciones plurianuales",
+    "La gestión de operaciones de crédito a largo plazo"
+   ],
+   "correct": 0,
+   "exp": "El art. 197.2 TRLRHL permite autorizar cajas de efectivo para los fondos de las operaciones diarias, sujetas a las limitaciones reglamentarias.",
+   "fuente": "Art. 197.2 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "temaOrigen": 13
+  },
+  {
+   "q": "Según el art. 207 del TRLRHL, la Intervención de la entidad local remitirá al Pleno, por conducto de la presidencia, información de la ejecución de los presupuestos y del movimiento de la tesorería:",
+   "options": [
+    "Cada cuatro años, coincidiendo con el mandato corporativo",
+    "Solo cuando lo solicite expresamente el Tribunal de Cuentas",
+    "En los plazos y con la periodicidad que el Pleno establezca",
+    "Únicamente una vez al año, coincidiendo con la Cuenta General"
+   ],
+   "correct": 2,
+   "exp": "Art. 207: la Intervención remitirá dicha información al Pleno, por conducto de la presidencia, 'en los plazos y con la periodicidad que el Pleno establezca.'",
+   "fuente": "Art. 207 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "temaOrigen": 13
+  },
+  {
+   "q": "Según el art. 210 del TRLRHL, el contenido, estructura y normas de elaboración de las cuentas de la propia entidad y de sus organismos autónomos se determinan por:",
+   "options": [
+    "El Ministerio de Hacienda, a propuesta de la Intervención General de la Administración del Estado",
+    "Cada Comunidad Autónoma, con carácter exclusivo",
+    "El Tribunal de Cuentas mediante instrucción anual",
+    "El Pleno de cada Corporación, sin sujeción a norma estatal"
+   ],
+   "correct": 0,
+   "exp": "Art. 210: 'El contenido, estructura y normas de elaboración de las cuentas a que se refieren los párrafos a) y b) del apartado 1 del artículo anterior, se determinarán por el Ministerio de Hacienda, a propuesta de la Intervención General de la Administración del Estado.'",
+   "fuente": "Art. 210 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "temaOrigen": 13
+  },
+  {
+   "q": "La escala de funcionarios de administración local con habilitación de carácter nacional se subdivide, conforme al artículo 92 bis.2 LBRL, en las siguientes subescalas:",
+   "options": [
+    "Secretaría, Intervención y Tesorería",
+    "Secretaría, Intervención-tesorería, Secretaría-intervención y Depositaría",
+    "Administración General y Administración Especial",
+    "Secretaría, Intervención-tesorería y Secretaría-intervención"
+   ],
+   "correct": 3,
+   "exp": "El art. 92 bis.2 LBRL prevé tres subescalas: Secretaría (funciones del apartado 1.a), Intervención-tesorería (funciones del apartado 1.b) y Secretaría-intervención (funciones de ambos apartados).",
+   "fuente": "Art. 92 bis.2 LBRL (Ley 7/1985)",
+   "confianza": "alta",
+   "temaOrigen": 19
+  },
+  {
+   "q": "Según el artículo 92 bis.3 de la LBRL, los funcionarios de las subescalas de Secretaría e Intervención-tesorería estarán integrados en una de estas categorías:",
+   "options": [
+    "Entrada o superior.",
+    "Superior, media o de entrada, según antigüedad.",
+    "Básica, media o superior.",
+    "Primera, segunda o tercera."
+   ],
+   "correct": 0,
+   "exp": "El art. 92 bis.3 LBRL dispone que los funcionarios de las subescalas de Secretaría e Intervención-tesorería estarán integrados en una de estas dos categorías: entrada o superior.",
+   "fuente": "Art. 92 bis.3 LBRL (Ley 7/1985)",
+   "confianza": "alta",
+   "temaOrigen": 19
+  },
+  {
+   "q": "Según el art. 18.3, ¿cuántos centros de emergencia debe haber, como mínimo, en la Comunidad Autónoma de Aragón?",
+   "options": [
+    "Al menos uno en cada comarca",
+    "Al menos cinco en total, sin distribución territorial fija",
+    "Al menos uno en cada provincia",
+    "Uno único para toda la Comunidad Autónoma"
+   ],
+   "correct": 2,
+   "exp": "Art. 18.3: 'Se establecerá, al menos, un centro de emergencia en cada provincia de la Comunidad Autónoma de Aragón.'",
+   "fuente": "Art. 18.3 Ley 4/2007 (Aragón) (violencia sobre la mujer)",
+   "temaOrigen": 2
+  },
+  {
+   "q": "Según el art. 37.2, las Cortes de Aragón son elegidas por un período de:",
+   "options": [
+    "Cinco años",
+    "Cuatro años",
+    "Tres años",
+    "Seis años"
+   ],
+   "correct": 1,
+   "exp": "Art. 37.2: 'Las Cortes de Aragón serán elegidas por un período de cuatro años.'",
+   "fuente": "Art. 37.2 EAAr (LO 5/2007)",
+   "temaOrigen": 3
+  },
+  {
+   "q": "Según el art. 71, en el ámbito de las competencias exclusivas, la Comunidad Autónoma de Aragón ejerce:",
+   "options": [
+    "La potestad legislativa, la potestad reglamentaria, la función ejecutiva y el establecimiento de políticas propias",
+    "Competencias delegadas revisables anualmente por el Estado",
+    "Solo la potestad reglamentaria de desarrollo",
+    "Únicamente la función ejecutiva, sin capacidad legislativa"
+   ],
+   "correct": 0,
+   "exp": "Art. 71: 'la Comunidad Autónoma de Aragón ejercerá la potestad legislativa, la potestad reglamentaria, la función ejecutiva y el establecimiento de políticas propias.'",
+   "fuente": "Art. 71 EAAr (LO 5/2007)",
+   "temaOrigen": 3
+  },
+  {
+   "q": "Según el art. 48.2, el defecto de forma solo determina la anulabilidad del acto cuando:",
+   "options": [
+    "El funcionario firmante esté de vacaciones",
+    "El acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados",
+    "El acto se dicte en fin de semana",
+    "Se trate de cualquier error ortográfico"
+   ],
+   "correct": 1,
+   "exp": "Art. 48.2: 'el defecto de forma sólo determinará la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados.'",
+   "fuente": "Art. 48.2 LPAC (Ley 39/2015)",
+   "temaOrigen": 6
+  },
+  {
+   "q": "Según el art. 107.3, si transcurren seis meses desde la iniciación del procedimiento de declaración de lesividad sin que esta se declare, se producirá:",
+   "options": [
+    "La nulidad de pleno derecho del acto",
+    "La estimación automática de la lesividad",
+    "La prórroga automática por otros seis meses",
+    "La caducidad del procedimiento"
+   ],
+   "correct": 3,
+   "exp": "Art. 107.3: 'Transcurrido el plazo de seis meses desde la iniciación del procedimiento sin que se hubiera declarado la lesividad, se producirá la caducidad del mismo.'",
+   "fuente": "Art. 107.3 LPAC (Ley 39/2015)",
+   "temaOrigen": 8
+  },
+  {
+   "q": "Según el art. 109.1, las AAPP pueden revocar sus actos de gravamen o desfavorables mientras no haya transcurrido el plazo de:",
+   "options": [
+    "Un año fijo desde la notificación",
+    "Prescripción",
+    "Seis meses desde su firmeza",
+    "Diez años en todo caso"
+   ],
+   "correct": 1,
+   "exp": "Art. 109.1: 'Las Administraciones Públicas podrán revocar, mientras no haya transcurrido el plazo de prescripción, sus actos de gravamen o desfavorables.'",
+   "fuente": "Art. 109.1 LPAC (Ley 39/2015)",
+   "temaOrigen": 8
+  }
+ ]
+}
