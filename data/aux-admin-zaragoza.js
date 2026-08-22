@@ -99,7 +99,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El texto constitucional señala: 'las Cortes aprueban y el pueblo español ratifica la siguiente Constitución.'",
-    "fuente": "Fórmula de promulgación CE"
+    "fuente": "Preámbulo CE (fórmula de aprobación y ratificación), BOE-A-1978-31229"
   },
   {
     "q": "Según el artículo 1.1 CE, España se constituye en un Estado:",
@@ -10857,7 +10857,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "La disposición final primera, letra e), de la LBRL ordenó actualizar 'el Reglamento de Bienes de las Entidades locales, aprobado por Decreto de 27 de mayo de 1955', y la disposición adicional segunda.1 del RBEL lo deroga expresamente. De 1952 son, en cambio, el Reglamento de Población y Demarcación Territorial y el ROF.",
-    "fuente": "DF 1.ª.e) LBRL (Ley 7/1985) y DA 2.ª.1 RBEL (RD 1372/1986)"
+    "fuente": "Disposición final primera, letra e), LBRL (Ley 7/1985) y disposición adicional segunda, apartado 1, RBEL (RD 1372/1986)"
   },
   {
     "q": "Según el art. 2.3 del RBEL, en relación con el art. 79.3 LBRL, ¿qué característica adicional se atribuye a los bienes comunales, más allá de ser bienes de dominio público?",
@@ -15545,7 +15545,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "Art. 12.2: 'La creación o supresión de municipios, así como la alteración de términos municipales, se regulará por la legislación de las Comunidades Autónomas sobre régimen local.'",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 12.2 LBRL (Ley 7/1985)"
   },
   {
     "q": "Según el art. 15 de la LBRL, el Estado y las Comunidades Autónomas, cuando en aplicación de sus respectivas competencias impongan a los municipios la prestación de servicios, deben tener en cuenta:",
@@ -15557,7 +15557,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "Art. 15: al imponer nuevos servicios, el Estado y las CCAA deben tener en cuenta la capacidad de gestión de la Administración municipal, atendiendo a los principios de descentralización y proximidad.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 15 LBRL (Ley 7/1985)"
   },
   {
     "q": "Según el art. 16.1 de la LBRL, el padrón municipal es:",
@@ -15761,7 +15761,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El art. 125 regula a los Tenientes de Alcalde en los municipios de gran población, siendo nombrados y cesados libremente por el Alcalde de entre los miembros de la Junta de Gobierno Local.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 125 LBRL (Ley 7/1985)"
   },
   {
     "q": "Según el art. 126.2 de la LBRL, la Junta de Gobierno Local de un municipio de gran población está integrada por el Alcalde y un número de concejales:",
@@ -15881,7 +15881,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "El Capítulo III del Título X de la LBRL se dedica a la 'Gestión económico-financiera' de los municipios de gran población, comprendiendo los arts. 133 y siguientes.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Capítulo III (arts. 133-137) del Título X LBRL (Ley 7/1985)"
   },
   {
     "q": "¿Cuál es la ley que establece el régimen especial del municipio de Zaragoza como capital de la Comunidad Autónoma de Aragón?",
@@ -15893,7 +15893,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "La Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, es la norma autonómica específica que desarrolla las particularidades de Zaragoza.",
-    "fuente": "Ley 10/2017 (capitalidad de Zaragoza)"
+    "fuente": "Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón (norma aprobatoria)"
   },
   {
     "q": "Según la estructura de la Ley 10/2017, esta consta de:",
@@ -16013,7 +16013,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El art. 10 de la Ley 10/2017, dentro de la Sección 2ª ('El Pleno'), se dedica a la 'Organización' del Pleno del Ayuntamiento de Zaragoza.",
-    "fuente": "Ley 10/2017 (capitalidad de Zaragoza)"
+    "fuente": "Art. 10 Ley 10/2017 (capitalidad de Zaragoza)"
   },
   {
     "q": "Según la Sección 3ª del Capítulo II de la Ley 10/2017 ('El Alcalde'), el art. 12 regula específicamente:",
@@ -16025,7 +16025,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "El art. 12 de la Ley 10/2017, dentro de la Sección 3ª ('El Alcalde'), regula específicamente la figura del Alcalde de Zaragoza en el marco del régimen especial.",
-    "fuente": "Ley 10/2017 (capitalidad de Zaragoza)"
+    "fuente": "Art. 12 Ley 10/2017 (capitalidad de Zaragoza)"
   },
   {
     "q": "Según la Sección 4ª del Capítulo II de la Ley 10/2017, denominada 'El Gobierno de Zaragoza', el art. 13 regula:",
@@ -16073,7 +16073,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "La Ley 10/2017 prevé que la Diputación Provincial de Zaragoza pueda colaborar con el municipio en la financiación de infraestructuras y servicios de competencia municipal en sus barrios rurales o de interés general, mediante convenio.",
-    "fuente": "Ley 10/2017 (capitalidad de Zaragoza)"
+    "fuente": "Art. 60 Ley 10/2017 (capitalidad de Zaragoza)"
   },
   {
     "q": "Según la doctrina sobre la Ley 10/2017, esta ley tiene su antecedente directo en la previsión contenida en el art. 61 de:",
@@ -16085,7 +16085,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "La Ley 7/1999, de 9 de abril, de Administración Local de Aragón, ya preveía en su art. 61 que podría establecerse un régimen especial competencial y financiero para el municipio de Zaragoza en atención a su condición de capital.",
-    "fuente": "Ley 10/2017 (capitalidad de Zaragoza)"
+    "fuente": "Art. 61 Ley 7/1999, de 9 de abril, de Administración Local de Aragón (BOE-A-1999-10151)"
   },
   {
     "q": "Según el art. 87 del Estatuto de Autonomía de Aragón, en relación con el régimen especial de Zaragoza, se prevé que dicho régimen se establezca:",
@@ -16109,7 +16109,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "Según la doctrina especializada, Zaragoza es el único municipio aragonés que se rige por el régimen de organización de los municipios de gran población, regulado en el Título X de la LBRL.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 121.1 c) LBRL (Ley 7/1985): ámbito de aplicación del Título X a los municipios capitales autonómicas"
   },
   {
     "q": "¿Qué Ley introdujo el Título X en la LBRL, estableciendo el régimen de organización de los municipios de gran población?",
@@ -16121,7 +16121,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "El Título X de la LBRL fue introducido por el apartado 4 del artículo primero de la Ley 57/2003, de 16 de diciembre, de medidas para la modernización del gobierno local.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. primero, apartado 4, Ley 57/2003, de 16 de diciembre (introduce el Título X en la LBRL)"
   },
   {
     "q": "¿Qué sentencia del Tribunal Constitucional confirmó el carácter básico del Título X de la LBRL sobre municipios de gran población?",
@@ -16133,7 +16133,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "La STC 103/2013, de 25 de abril, confirmó el carácter básico del régimen de organización de los municipios de gran población establecido en el Título X de la LBRL.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "STC 103/2013, de 25 de abril"
   },
   {
     "q": "¿Qué ley introdujo modificaciones organizativas relevantes en el Ayuntamiento de Zaragoza al aplicar el régimen del Título X de la LBRL, según recoge la propia página oficial municipal?",
@@ -16145,7 +16145,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "Según la información oficial del Ayuntamiento de Zaragoza, la Ley 57/2003 introdujo en la LBRL el Título X, dedicado a establecer un régimen orgánico específico para los municipios de gran población, como el de Zaragoza.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. primero, apartado 4, Ley 57/2003, de 16 de diciembre (introduce el Título X en la LBRL)"
   },
   {
     "q": "¿Qué relación existe entre el Reglamento Orgánico Municipal (ROM) de Zaragoza y el Título X de la LBRL?",
@@ -16157,7 +16157,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El Reglamento Orgánico Municipal de Zaragoza desarrolla, dentro del marco básico fijado por el Título X de la LBRL y las especialidades de la Ley 10/2017, la organización y funcionamiento interno concreto del Ayuntamiento.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Título X LBRL (Ley 7/1985) y Ley 10/2017 (capitalidad de Zaragoza), en relación con el Reglamento Orgánico Municipal de Zaragoza"
   },
   {
     "q": "En síntesis, ¿qué dos grandes bloques normativos configuran el régimen especial y organizativo de Zaragoza estudiado en este tema?",
@@ -16169,7 +16169,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "El régimen especial y organizativo de Zaragoza se configura, de un lado, por el Título X de la LBRL (aplicable por su condición de municipio de gran población) y, de otro, por la Ley 10/2017 de régimen especial de Zaragoza como capital de Aragón, que añade especialidades competenciales, organizativas y financieras propias.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Título X (arts. 121-138) LBRL (Ley 7/1985) y Ley 10/2017 (capitalidad de Zaragoza)"
   },
   {
     "q": "Según el art. 13.2 de la LBRL, la creación de nuevos municipios solo puede realizarse sobre la base de núcleos de población territorialmente diferenciados, y siempre que:",
@@ -16481,7 +16481,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El régimen de los municipios de gran población mantiene la Intervención General como órgano de control y fiscalización interna, en línea con el régimen general de control económico-financiero de las Entidades Locales.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 136 LBRL (Ley 7/1985): Intervención general municipal"
   },
   {
     "q": "Según el art. 128.1 de la LBRL, la creación de distritos en los municipios de gran población busca, entre otros fines, la mejora de:",
@@ -16541,7 +16541,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "La Ley 10/2017 complementa, con especialidades propias de Zaragoza (organizativas, competenciales y financieras), el régimen básico estatal del Título X de la LBRL, sin sustituirlo íntegramente, dado el carácter básico de este último confirmado por la STC 103/2013.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Título X (arts. 121-138) LBRL (Ley 7/1985) y Ley 10/2017 (capitalidad de Zaragoza)"
   },
   {
     "q": "¿Qué papel desempeña la Comunidad Autónoma de Aragón en relación con el régimen especial de Zaragoza, más allá de la propia aprobación de la Ley 10/2017?",
@@ -16553,7 +16553,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "Más allá de aprobar la Ley 10/2017, la Comunidad Autónoma de Aragón participa activamente en la financiación de Zaragoza y colabora institucionalmente mediante el convenio bilateral económico-financiero previsto en la propia norma.",
-    "fuente": "Ley 10/2017 (capitalidad de Zaragoza)"
+    "fuente": "Art. 57 Ley 10/2017 (capitalidad de Zaragoza)"
   },
   {
     "q": "¿Qué otras ciudades españolas cuentan, al igual que Zaragoza, con una ley autonómica de régimen especial en atención a su importancia como capital o gran ciudad?",
@@ -16565,7 +16565,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "La técnica de establecer una ley de régimen especial por razón de la importancia de una ciudad tiene precedentes en el ordenamiento español, como las leyes específicas para Madrid, Barcelona o Santiago de Compostela, entre otras.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Técnica legislativa comparada: leyes de régimen especial de Madrid (Ley 22/2006), Barcelona (Ley 1/2006) y Santiago de Compostela (Ley 8/2013)"
   },
   {
     "q": "En conclusión, ¿qué elementos distinguen el estatuto jurídico de Zaragoza frente al de un municipio ordinario de Aragón?",
@@ -16577,7 +16577,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El estatuto jurídico singular de Zaragoza se configura por la combinación del régimen de organización de los municipios de gran población (Título X LBRL) y las especialidades competenciales, organizativas y financieras de la Ley 10/2017, propias de su condición de capital autonómica.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Título X (arts. 121-138) LBRL (Ley 7/1985) y Ley 10/2017 (capitalidad de Zaragoza)"
   },
   {
     "q": "Según el art. 29 de la LBRL, funcionan en régimen de Concejo Abierto los municipios con menos de:",
@@ -18127,7 +18127,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El ROTPC distingue, de un lado, instrumentos de participación individual (iniciativa ciudadana, audiencia pública, consulta popular, encuesta ciudadana) y, de otro, instrumentos de participación colectiva a través de la organización territorial (Distritos, Juntas) y de las entidades ciudadanas inscritas en el Censo Municipal.",
-    "fuente": "ROTPC de Zaragoza, Títulos II a IV: entes territoriales de participación (Título II), órganos territoriales de gestión (Título III) e información y participación ciudadana (Título IV)"
+    "fuente": "ROTPC de Zaragoza, Títulos II a IV (entes territoriales de participación, órganos territoriales de gestión e información y participación ciudadana)"
   },
   {
     "q": "Según el art. 33 del ROTPC, los Vocales de las Juntas Vecinales son nombrados por el Alcalde a propuesta de los grupos políticos con representación municipal, salvo que las normas que regulen el proceso democrático de consulta de Alcalde de Barrio establezcan:",

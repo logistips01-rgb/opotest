@@ -2502,3 +2502,62 @@ Banco final: **5.623 preguntas**, todas con `fuente` citando artículo o la part
 de la norma que corresponda. Reparto de la respuesta correcta: **25,1 / 25,0 /
 25,4 / 24,5 %**. Citas a las que aún les falta el artículo: **30**, casi todas
 en el tema 14 (21), que no ha tenido su propia pasada de citación.
+
+---
+
+## Cierre de las citas: 30 → 2 legítimas sin patrón reconocido (22-ago-2026)
+
+Cerradas las 30 preguntas del banco que aún no decían el artículo. Se verificó
+cada precepto contra el consolidado antes de escribirlo:
+
+- **Tema 1 (4)**: la fórmula de promulgación y la fórmula final de la
+  Constitución no tienen artículo — se precisó qué parte de la norma citan
+  (Preámbulo, fórmula final, fórmula de promulgación).
+- **Tema 10 (1)**: se deletreó «DF 1.ª.e) LBRL» y «DA 2.ª.1 RBEL» a texto
+  completo (disposición final primera, letra e; disposición adicional segunda,
+  apartado 1), mismo criterio que ya se aplicó a las citas del tema 9.
+- **Tema 12 (2)**: dos preguntas reubicadas desde el tema 11 se habían quedado
+  con la cita antigua («LBRL») aunque su propia `exp` ya decía el precepto real
+  (arts. 20.4 h) e i) y arts. 20.1 B) y 41 TRLRHL). Corregida la `fuente` para
+  que coincida con lo que la explicación ya decía.
+- **Tema 14 (21, el grueso)**: verificados contra el BOE uno a uno.
+  - **Art. 121.1.c) LBRL**, confirmado: el Título X se aplica a los municipios
+    que sean «capitales de provincia, capitales autonómicas o sedes de las
+    instituciones autonómicas» — la base de por qué Zaragoza es el único
+    municipio aragonés sometido a ese régimen.
+  - **Art. 136 LBRL**: la Intervención general municipal, dentro del Capítulo
+    III del Título X («Gestión económico-financiera», arts. 133-137).
+  - **Art. primero, apartado 4, de la Ley 57/2003**: confirmado en el propio
+    texto de la ley («4. Se adicionan dos nuevos Títulos, el X y el XI...»),
+    es el precepto que introdujo el Título X en la LBRL.
+  - **Arts. 10, 12, 57 y 60 de la Ley 10/2017**: el Pleno, el Alcalde, el
+    Convenio bilateral económico-financiero y la participación de la Diputación
+    Provincial en la financiación de los barrios rurales.
+  - **Art. 61 de la Ley 7/1999, de Administración Local de Aragón**
+    (**BOE-A-1999-10151**, identificador que el repositorio no tenía todavía
+    registrado): confirmado el antecedente directo de la Ley 10/2017 — «Podrá
+    establecerse un régimen especial competencial y financiero para el
+    municipio de Zaragoza, en atención a su condición de capital...».
+  - Las preguntas de síntesis y comparación («en conclusión, qué elementos
+    distinguen...», «qué otras ciudades cuentan con...») se dejan con una cita
+    descriptiva que nombra las normas o la técnica comparada de las que sale la
+    respuesta, en vez de acortarlas a un solo artículo que no las sostiene por
+    sí solo.
+- **Tema 15 (1) y tema 18 (1)**: la del ROTPC (síntesis sobre sus Títulos II a
+  IV) y la del TREBEP (relación entre los arts. 55 y 59) vivían en la
+  ampliación con la cita vieja; localizadas por enunciado y corregidas.
+
+Extendido `scratchpad/citas.js` con los patrones de las partes de una norma que
+legítimamente no llevan artículo: fórmula final, fórmula de promulgación,
+sentencias del Tribunal Constitucional, técnica legislativa comparada y norma
+aprobatoria.
+
+**Quedan 2** con una cita ya correcta pero que el clasificador no reconoce por
+su redacción en prosa («Título X LBRL y Ley 10/2017, en relación con el
+Reglamento Orgánico Municipal de Zaragoza»; «ROTPC, Títulos II a IV»): no se ha
+forzado el patrón porque el contenido ya es exacto y forzar el regex a base de
+casos sueltos es como se llegó a medir mal esta cifra tres veces.
+
+Banco: **5.623 preguntas, todas con fuente citando artículo, precepto o la
+parte de la norma que corresponda**. Verificado en navegador que las citas
+aparecen en pantalla en los temas 1, 14 y 15.

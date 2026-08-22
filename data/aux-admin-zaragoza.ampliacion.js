@@ -43018,7 +43018,7 @@ window.addQuestions("aux-admin-zaragoza", 14, [  {
     ],
     "correct": 1,
     "exp": "La norma es la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, publicada en el BOE núm. 80, de 3 de abril de 1985. Comprobado en la ficha del consolidado BOE-A-1985-5392. (Procedía del tema 1 del banco original; el tema 1 oficial solo cubre la organización territorial en la Constitución, así que la pregunta se reubicó aquí.)",
-    "fuente": "Ley 7/1985, de 2 de abril (LBRL), BOE-A-1985-5392"
+    "fuente": "Ley 7/1985, de 2 de abril (LBRL), norma aprobatoria — BOE-A-1985-5392"
   },
 ]);
 
@@ -50140,7 +50140,7 @@ window.addQuestions("aux-admin-zaragoza", 12, [
     ],
     "correct": 2,
     "exp": "Las Entidades Locales pueden establecer y exigir tasas por el otorgamiento de licencias u otras actuaciones administrativas de su competencia, conforme a la legislación reguladora de las Haciendas Locales. (Venía del tema 11 del banco original; reubicada aquí en la auditoría de agosto de 2026: FUERA DE ALCANCE. La pregunta se resuelve con el art. 20.4 h) e i) del TRLRHL (RDLeg 2/2004): es materia de recursos de las Haciendas Locales, expresamente excluida del epígrafe. Contenido correcto, reubicable.)",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Art. 20.4 h) e i) TRLRHL (RDLeg 2/2004)"
   },
   {
     "q": "¿Qué relación existe entre la calificación de un servicio como de recepción obligatoria y el régimen de la tasa que financia su prestación?",
@@ -50152,7 +50152,7 @@ window.addQuestions("aux-admin-zaragoza", 12, [
     ],
     "correct": 2,
     "exp": "Conforme a la legislación de Haciendas Locales, los servicios de recepción obligatoria y que no se presten en régimen de libre concurrencia con el sector privado se financian, con carácter general, mediante tasas; en cambio, otros servicios pueden financiarse mediante precios públicos, según las reglas de la normativa tributaria local. (Venía del tema 11 del banco original; reubicada aquí en la auditoría de agosto de 2026: FUERA DE ALCANCE. La pregunta versa sobre el deslinde entre tasas y precios públicos (arts. 20.1 B) y 41 del TRLRHL): materia de recursos de las Haciendas Locales, expresamente excluida del epígrafe. Contenido correcto, reubicable.)",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Arts. 20.1 B) y 41 TRLRHL (RDLeg 2/2004)"
   }
 ]);
 
@@ -50550,7 +50550,7 @@ window.addQuestions("aux-admin-zaragoza", 18, [
     ],
     "correct": 0,
     "exp": "La reserva de plazas para personas con discapacidad constituye una medida de discriminación positiva, compatible con el principio de mérito y capacidad, orientada a garantizar la igualdad real de oportunidades en el acceso al empleo público. (Venía del tema 17 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: versa sobre los arts. 55 y 59 TREBEP, mérito y capacidad frente a la reserva de plazas para personas con discapacidad, materia del Título IV TREBEP (adquisición y pérdida de la relación de servicio), propia del tema 18 y ajena al epígrafe de clases, derechos y deberes del tema 17.)",
-    "fuente": "TREBEP (RDLeg 5/2015)"
+    "fuente": "Arts. 55 y 59 TREBEP (RDLeg 5/2015)"
   }
 ]);
 
