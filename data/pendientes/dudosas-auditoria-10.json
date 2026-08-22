@@ -1,0 +1,16 @@
+[
+ {
+  "q": "¿Qué régimen de responsabilidad tiene, con carácter general, la Entidad Local frente a los daños causados por el mal estado de un bien de dominio público de uso público (por ejemplo, una acera en mal estado)?",
+  "options": [
+   "Responsabilidad únicamente civil del contratista de mantenimiento, nunca de la Administración",
+   "Responsabilidad exclusivamente penal del Alcalde en persona",
+   "Responsabilidad patrimonial de la Administración por el funcionamiento de los servicios públicos",
+   "Ninguna responsabilidad, el riesgo lo asume siempre el usuario"
+  ],
+  "correct": 2,
+  "exp": "Los daños causados por el mal estado de conservación de bienes de dominio público local dan lugar, en su caso, a responsabilidad patrimonial de la Administración por el funcionamiento normal o anormal de los servicios públicos.",
+  "fuente": "Arts. 32 y 34 Ley 40/2015 (LRJSP); art. 54 LBRL (Ley 7/1985); arts. 3 y 5 RBEL (contexto: bienes de uso público)",
+  "temaOrigen": 10,
+  "duda": "El contenido es correcto, pero su precepto es el art. 32 de la Ley 40/2015 (responsabilidad patrimonial por el funcionamiento de los servicios públicos), materia que no figura en el epígrafe del tema 10 ni tiene tema propio en el programa de esta convocatoria; ni el RBEL ni la LBRL regulan este supuesto. Decisión humana: reubicarla o suprimirla. Si se conserva aquí, la cita correcta sería la que se propone."
+ }
+]

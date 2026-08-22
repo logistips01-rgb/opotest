@@ -22686,19 +22686,6 @@ window.addQuestions('aux-admin-zaragoza', 10, [  {
     "confianza": "alta"
   },
   {
-    "q": "El art. 110.1 LPAP dispone que los efectos y la extinción de los negocios jurídicos patrimoniales se rigen por...",
-    "options": [
-      "El Código de Comercio",
-      "Exclusivamente la legislación de contratos públicos",
-      "El Reglamento Hipotecario",
-      "Esta ley y las normas de derecho privado"
-    ],
-    "correct": 3,
-    "exp": "El art. 110.1 LPAP, in fine, establece que los efectos y extinción de estos negocios se rigen por la propia ley y por las normas de derecho privado.",
-    "fuente": "Art. 110.1 LPAP",
-    "confianza": "alta"
-  },
-  {
     "q": "Según el art. 110.3 LPAP, ¿qué orden jurisdiccional es el competente para resolver las controversias que surjan entre las partes sobre los contratos patrimoniales?",
     "options": [
       "El orden civil",
@@ -23525,19 +23512,6 @@ window.addQuestions('aux-admin-zaragoza', 10, [  {
     "confianza": "alta"
   },
   {
-    "q": "Respecto de los bienes de dominio público, el art. 82.a) LBRL permite a las entidades locales recuperar su posesión:",
-    "options": [
-      "En el plazo de treinta días desde la usurpación",
-      "Solo en el plazo de un año, igual que los patrimoniales",
-      "Previa autorización judicial, en el plazo de tres meses",
-      "En cualquier momento"
-    ],
-    "correct": 3,
-    "exp": "El art. 82.a) LBRL distingue: los bienes de dominio público pueden recuperarse 'en cualquier momento', mientras que los patrimoniales solo en el plazo de un año.",
-    "fuente": "Art. 82.a) LBRL",
-    "confianza": "alta"
-  },
-  {
     "q": "La prerrogativa de deslinde de sus bienes, reconocida a las entidades locales en el art. 82.b) LBRL, se ajustará a:",
     "options": [
       "Lo dispuesto en la legislación del Patrimonio del Estado y, en su caso, en la legislación de los montes",
@@ -23600,19 +23574,6 @@ window.addQuestions('aux-admin-zaragoza', 10, [  {
     "correct": 0,
     "exp": "El art. 1.3 RBEL remite al 'artículo 149.3 de la Constitución'.",
     "fuente": "Art. 1.3 RBEL",
-    "confianza": "alta"
-  },
-  {
-    "q": "El art. 2.1 RBEL clasifica los bienes de las Entidades locales en:",
-    "options": [
-      "Bienes propios, comunales y de aprovechamiento común, como categorías independientes",
-      "Bienes de dominio público y bienes patrimoniales",
-      "Bienes muebles, inmuebles y derechos",
-      "Bienes afectos y bienes libres"
-    ],
-    "correct": 1,
-    "exp": "El art. 2.1 RBEL dispone que 'los bienes de las Entidades locales se clasificarán en bienes de dominio público y bienes patrimoniales'.",
-    "fuente": "Art. 2.1 RBEL",
     "confianza": "alta"
   },
   {
@@ -50359,20 +50320,8 @@ window.addQuestions("aux-admin-zaragoza", 10, [
     ],
     "correct": 0,
     "exp": "El uso común general (pasear por una calle) no requiere autorización previa por ser compatible con el uso de cualquier otra persona; el uso común especial (por ejemplo, una terraza) implica cierta singularidad y se somete, con carácter general, a licencia. (Venía del tema 11 del banco original; reubicada aquí en la auditoría de agosto de 2026: FUERA DE ALCANCE. Los usos del dominio público local (uso común general, común especial, privativo) son materia del régimen de bienes de las entidades locales, expresamente excluida del epígrafe del tema 11. El contenido es correcto y aprovechable en su tema.)",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Arts. 75.1.a), 75.1.b), 76 y 77.1 RBEL (RD 1372/1986)"
   },
-  {
-    "q": "¿Qué tipo de acto administrativo habilita el uso privativo de dominio público local que suponga exclusión de la utilización por terceros mediante instalaciones fijas?",
-    "options": [
-      "Silencio administrativo positivo automático",
-      "Concesión administrativa",
-      "Ninguno, basta la ocupación de hecho",
-      "Simple comunicación previa del interesado"
-    ],
-    "correct": 1,
-    "exp": "El uso privativo del dominio público que excluye la utilización por terceros mediante instalaciones fijas se somete, con carácter general, al régimen de concesión administrativa. (Venía del tema 11 del banco original; reubicada aquí en la auditoría de agosto de 2026: FUERA DE ALCANCE. Uso privativo del dominio público local y concesión administrativa: régimen de bienes de las entidades locales, no de la policía administrativa ni de las formas de gestión del servicio público. Contenido correcto, reubicable.)",
-    "fuente": "LBRL (Ley 7/1985)"
-  }
 ]);
 
 window.addQuestions("aux-admin-zaragoza", 12, [

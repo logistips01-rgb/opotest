@@ -3561,7 +3561,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El Título I de la Ley 39/2015 lleva por rúbrica 'De los interesados en el procedimiento' y comprende los artículos 3 a 12.",
-    "fuente": "Título I (arts. 3-12) LPAC (Ley 39/2015)"
+    "fuente": "Título I LPAC (Ley 39/2015), arts. 3 a 12"
   },
   {
     "q": "Según el art. 3 a) de la Ley 39/2015, tienen capacidad de obrar ante las Administraciones Públicas:",
@@ -4017,7 +4017,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "El Capítulo I del Título I lleva por rúbrica 'La capacidad de obrar y el concepto de interesado', y comprende los artículos 3 a 8.",
-    "fuente": "Título I, Capítulo I (arts. 3-8) LPAC (Ley 39/2015)"
+    "fuente": "Capítulo I del Título I LPAC (Ley 39/2015), arts. 3 a 8"
   },
   {
     "q": "El Capítulo II del Título I de la Ley 39/2015 se titula:",
@@ -4029,7 +4029,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El Capítulo II del Título I lleva por rúbrica 'Identificación y firma de los interesados en el procedimiento administrativo', y comprende los artículos 9 a 12.",
-    "fuente": "Título I, Capítulo II (arts. 9-12) LPAC (Ley 39/2015)"
+    "fuente": "Capítulo II del Título I LPAC (Ley 39/2015), arts. 9 a 12"
   },
   {
     "q": "Según el art. 9.1, las Administraciones Públicas están obligadas a verificar la identidad de los interesados mediante la comprobación de:",
@@ -4100,7 +4100,7 @@ const QUESTIONS = {
       "Exclusivamente en España"
     ],
     "correct": 2,
-    "exp": "Art. 9.3: '...se establece la obligatoriedad de que los recursos técnicos necesarios... se encuentren situados en territorio de la Unión Europea.'",
+    "exp": "Art. 9.3: los recursos técnicos necesarios para la recogida, almacenamiento, tratamiento y gestión de los sistemas de la letra c) deben situarse en territorio de la Unión Europea; solo cuando se trate de categorías especiales de datos del art. 9 del Reglamento (UE) 2016/679 han de estar en territorio español.",
     "fuente": "Art. 9.3 LPAC (Ley 39/2015)"
   },
   {
@@ -4126,18 +4126,6 @@ const QUESTIONS = {
     "correct": 0,
     "exp": "El art. 9 se titula 'Sistemas de identificación de los interesados en el procedimiento'.",
     "fuente": "Art. 9 LPAC (Ley 39/2015)"
-  },
-  {
-    "q": "Según el art. 9.1, ¿qué documento sirve de referencia principal para verificar la identidad de un interesado persona física?",
-    "options": [
-      "La tarjeta sanitaria",
-      "El Documento Nacional de Identidad o documento identificativo equivalente",
-      "El carné de conducir",
-      "El pasaporte exclusivamente"
-    ],
-    "correct": 1,
-    "exp": "Art. 9.1 hace referencia expresa al 'Documento Nacional de Identidad o documento identificativo equivalente'.",
-    "fuente": "Art. 9.1 LPAC (Ley 39/2015)"
   },
   {
     "q": "Según el art. 10.1, los interesados podrán firmar a través de cualquier medio que permita acreditar:",
@@ -4220,7 +4208,7 @@ const QUESTIONS = {
       "Cualquier lugar del mundo"
     ],
     "correct": 0,
-    "exp": "Art. 10.3, en paralelo al art. 9.3, exige que los recursos técnicos de estos sistemas se sitúen en territorio de la Unión Europea.",
+    "exp": "Art. 10.3: los recursos técnicos necesarios para la recogida, almacenamiento, tratamiento y gestión de los sistemas de firma de la letra c) del art. 10.2 deben situarse en territorio de la Unión Europea, y en territorio español cuando se trate de categorías especiales de datos del art. 9 del Reglamento (UE) 2016/679.",
     "fuente": "Art. 10.3 LPAC (Ley 39/2015)"
   },
   {
@@ -4280,7 +4268,7 @@ const QUESTIONS = {
       "Gestión de tributos autonómicos"
     ],
     "correct": 2,
-    "exp": "Art. 12.2: la asistencia se prestará 'especialmente en lo referente a la identificación y firma electrónica, presentación de solicitudes a través del registro electrónico general y obtención de copias auténticas.'",
+    "exp": "Art. 12.2: las Administraciones asistirán en el uso de medios electrónicos a los interesados no incluidos en los apartados 2 y 3 del artículo 14 que así lo soliciten, «especialmente en lo referente a la identificación y firma electrónica, presentación de solicitudes a través del registro electrónico general y obtención de copias auténticas».",
     "fuente": "Art. 12.2 LPAC (Ley 39/2015)"
   },
   {
@@ -4353,7 +4341,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El Capítulo I del Título I abarca los artículos 3 (capacidad de obrar), 4 (concepto de interesado), 5 (representación), 6 (registros de apoderamientos), 7 (pluralidad de interesados) y 8 (nuevos interesados).",
-    "fuente": "Título I, Capítulo I (arts. 3-8) LPAC (Ley 39/2015)"
+    "fuente": "Capítulo I del Título I LPAC (Ley 39/2015), arts. 3 a 8"
   },
   {
     "q": "¿Qué artículos de la Ley 39/2015 comprende el Capítulo II del Título I, 'Identificación y firma de los interesados'?",
@@ -4365,43 +4353,19 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El Capítulo II del Título I abarca los artículos 9 (sistemas de identificación), 10 (sistemas de firma), 11 (uso de medios de identificación y firma) y 12 (asistencia en el uso de medios electrónicos).",
-    "fuente": "Título I, Capítulo II (arts. 9-12) LPAC (Ley 39/2015)"
+    "fuente": "Capítulo II del Título I LPAC (Ley 39/2015), arts. 9 a 12"
   },
   {
-    "q": "Según el art. 5.1, la Administración se entiende con el representante del interesado salvo que:",
+    "q": "Según el art. 4.1 a) de la Ley 39/2015, los derechos o intereses legítimos de quienes promueven el procedimiento pueden ser:",
     "options": [
-      "El representante no tenga estudios universitarios",
-      "El procedimiento sea sancionador",
-      "Exista manifestación expresa en contra del interesado",
-      "El trámite sea de carácter urgente"
-    ],
-    "correct": 2,
-    "exp": "Art. 5.1: '...entendiéndose con éste las actuaciones administrativas, salvo manifestación expresa en contra del interesado.'",
-    "fuente": "Art. 5.1 LPAC (Ley 39/2015)"
-  },
-  {
-    "q": "Según el art. 4.1 a), la promoción de un procedimiento como titular de derechos o intereses legítimos puede ser:",
-    "options": [
-      "Únicamente individual",
-      "Solo mediante representación legal obligatoria",
-      "Únicamente colectiva y a través de sindicatos",
-      "Individual o colectiva"
+      "Únicamente individuales",
+      "Solo los que hayan sido reconocidos previamente por sentencia firme",
+      "Únicamente colectivos y ejercidos a través de un sindicato o asociación",
+      "Individuales o colectivos"
     ],
     "correct": 3,
-    "exp": "Art. 4.1 a): '...titulares de derechos o intereses legítimos individuales o colectivos.'",
+    "exp": "Art. 4.1 a): son interesados «quienes lo promuevan como titulares de derechos o intereses legítimos individuales o colectivos».",
     "fuente": "Art. 4.1 a) LPAC (Ley 39/2015)"
-  },
-  {
-    "q": "Según el art. 3, ¿la capacidad de obrar de personas jurídicas se determina con arreglo a qué normas, salvo previsión especial de la propia Ley 39/2015?",
-    "options": [
-      "Las normas civiles",
-      "Las normas de la Unión Europea directamente aplicables",
-      "Las normas penales",
-      "Las normas laborales exclusivamente"
-    ],
-    "correct": 0,
-    "exp": "Art. 3 a): tienen capacidad de obrar 'las personas físicas o jurídicas que ostenten capacidad de obrar con arreglo a las normas civiles.'",
-    "fuente": "Art. 3 a) LPAC (Ley 39/2015)"
   },
   {
     "q": "Según el art. 6.2, además de entre Administraciones, ¿con qué otros registros deben ser interoperables los registros de apoderamientos?",
@@ -4452,18 +4416,6 @@ const QUESTIONS = {
     "fuente": "Art. 6.1 LPAC (Ley 39/2015)"
   },
   {
-    "q": "Según el art. 4.2, ¿en qué medida son titulares de intereses legítimos colectivos las asociaciones y organizaciones representativas?",
-    "options": [
-      "Siempre, sin ninguna limitación legal",
-      "En los términos que la Ley reconozca",
-      "Solo si tienen ánimo de lucro",
-      "Nunca, solo las personas físicas tienen intereses legítimos"
-    ],
-    "correct": 1,
-    "exp": "Art. 4.2: '...serán titulares de intereses legítimos colectivos en los términos que la Ley reconozca.'",
-    "fuente": "Art. 4.2 LPAC (Ley 39/2015)"
-  },
-  {
     "q": "¿Cuántos apartados (letras) componen la enumeración del sector público del art. 2.1 de la Ley 39/2015?",
     "options": [
       "Tres",
@@ -4474,18 +4426,6 @@ const QUESTIONS = {
     "correct": 2,
     "exp": "Art. 2.1 enumera cuatro letras: a) AGE; b) Administraciones de las CCAA; c) Entidades de la Administración Local; d) sector público institucional.",
     "fuente": "Art. 2.1 LPAC (Ley 39/2015)"
-  },
-  {
-    "q": "Según el art. 2.1, ¿a qué letra corresponde 'Las Entidades que integran la Administración Local'?",
-    "options": [
-      "Letra a)",
-      "Letra d)",
-      "Letra b)",
-      "Letra c)"
-    ],
-    "correct": 3,
-    "exp": "Art. 2.1 c): 'Las Entidades que integran la Administración Local.'",
-    "fuente": "Art. 2.1 c) LPAC (Ley 39/2015)"
   },
   {
     "q": "Según el art. 5.2, además de las personas jurídicas cuyos Estatutos lo prevean, ¿quién más puede actuar en representación de otras personas ante las Administraciones Públicas?",
@@ -4560,18 +4500,6 @@ const QUESTIONS = {
     "fuente": "Art. 9.2 c) LPAC (Ley 39/2015)"
   },
   {
-    "q": "Según el art. 10.2 c), al igual que en materia de identificación, ¿qué plazo debe transcurrir desde la comunicación de un nuevo sistema de firma antes de su eficacia jurídica?",
-    "options": [
-      "Quince días",
-      "Un mes",
-      "Dos meses",
-      "Seis meses"
-    ],
-    "correct": 2,
-    "exp": "Art. 10.2 c), en paralelo al art. 9.2 c): 'De forma previa a la eficacia jurídica del sistema, habrán de transcurrir dos meses desde dicha comunicación.'",
-    "fuente": "Art. 10.2 c) LPAC (Ley 39/2015)"
-  },
-  {
     "q": "Según el art. 12.1, además de los canales de acceso necesarios, ¿qué otro elemento deben poner las Administraciones a disposición de los interesados?",
     "options": [
       "Un teléfono de atención 24 horas obligatorio",
@@ -4606,30 +4534,6 @@ const QUESTIONS = {
     "correct": 1,
     "exp": "El Título Preliminar de la Ley 39/2015 comprende únicamente los artículos 1 (objeto de la Ley) y 2 (ámbito subjetivo de aplicación).",
     "fuente": "Título Preliminar (arts. 1-2) LPAC (Ley 39/2015)"
-  },
-  {
-    "q": "Según el art. 4.1 c), para tener la condición de interesado por resultar afectados intereses legítimos, además de la afectación es necesario:",
-    "options": [
-      "Ser funcionario de la Administración instructora",
-      "Presentar aval económico",
-      "Personarse en el procedimiento en tanto no haya recaído resolución definitiva",
-      "Tener nacionalidad española"
-    ],
-    "correct": 2,
-    "exp": "Art. 4.1 c): '...puedan resultar afectados por la resolución y se personen en el procedimiento en tanto no haya recaído resolución definitiva.'",
-    "fuente": "Art. 4.1 c) LPAC (Ley 39/2015)"
-  },
-  {
-    "q": "Según el art. 2.1, ¿a qué letra corresponde 'La Administración General del Estado' dentro de la enumeración del sector público?",
-    "options": [
-      "Letra d)",
-      "Letra b)",
-      "Letra c)",
-      "Letra a)"
-    ],
-    "correct": 3,
-    "exp": "Art. 2.1 a): 'La Administración General del Estado' encabeza la enumeración del sector público al que se aplica la Ley.",
-    "fuente": "Art. 2.1 a) LPAC (Ley 39/2015)"
   },
 ],
 5:[
@@ -10761,7 +10665,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El Capítulo I del Título VI de la LBRL ('Bienes') comprende los artículos 79 a 83.",
-    "fuente": "Capítulo I LBRL (Ley 7/1985)"
+    "fuente": "Cap. I del Título VI LBRL (Ley 7/1985), arts. 79 a 83"
   },
   {
     "q": "Según el art. 22.2 l) de la LBRL, corresponde al Pleno municipal:",
@@ -10881,7 +10785,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El Capítulo I del Título Primero del RBEL ('Bienes') lleva por título 'Concepto y clasificación de los bienes' y comprende los artículos 1 a 8.",
-    "fuente": "Capítulo I RBEL (RD 1372/1986)"
+    "fuente": "Cap. I del Título Primero RBEL (RD 1372/1986), arts. 1 a 8"
   },
   {
     "q": "El Capítulo II del Título Primero del RBEL se titula:",
@@ -10893,7 +10797,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El Capítulo II del Título Primero del RBEL lleva por título 'Del patrimonio de las Entidades Locales' y comprende los artículos 9 a 16.",
-    "fuente": "Capítulo II RBEL (RD 1372/1986)"
+    "fuente": "Cap. II del Título Primero RBEL (RD 1372/1986), arts. 9 a 16"
   },
   {
     "q": "El Capítulo III del Título Primero del RBEL, 'Conservación y tutela de bienes', incluye entre sus secciones:",
@@ -10908,7 +10812,7 @@ const QUESTIONS = {
     "fuente": "Art. 16 RBEL (RD 1372/1986)"
   },
   {
-    "q": "Según la práctica del RBEL, en el libro de inventarios y balances se reflejarán anualmente:",
+    "q": "Según el art. 35 del RBEL, en el libro de inventarios y balances se reflejarán anualmente:",
     "options": [
       "Los expedientes sancionadores tramitados",
       "Solo los ingresos tributarios del ejercicio",
@@ -10917,7 +10821,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "El RBEL prevé que en el libro de inventarios y balances se reflejen anualmente los bienes, derechos y acciones de la Entidad local y sus alteraciones, así como la situación del activo y pasivo, para determinar el verdadero patrimonio en cada ejercicio.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "fuente": "Art. 35 RBEL (RD 1372/1986)"
   },
   {
     "q": "Según el art. 36 del RBEL, las Corporaciciones locales deberán inscribir en el Registro de la Propiedad:",
@@ -10941,7 +10845,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El Capítulo IV se divide en Sección 1ª (Utilización de los bienes de dominio público, arts. 74-91), Sección 2ª (Utilización de los bienes patrimoniales, arts. 92-93) y Sección 3ª (Aprovechamiento y disfrute de los bienes comunales, arts. 94-108).",
-    "fuente": "Capítulo IV RBEL (RD 1372/1986)"
+    "fuente": "Cap. IV del Título Primero RBEL (RD 1372/1986), arts. 74 a 108 (Secc. 1.ª arts. 74-91; Secc. 2.ª arts. 92-93; Secc. 3.ª arts. 94-108)"
   },
   {
     "q": "El Capítulo V del Título Primero del RBEL se titula:",
@@ -10952,8 +10856,8 @@ const QUESTIONS = {
       "Conservación y tutela de bienes"
     ],
     "correct": 2,
-    "exp": "El Capítulo V del Título Primero del RBEL lleva por título 'Enajenación' y comprende los artículos 109 a 118.",
-    "fuente": "Capítulo V RBEL (RD 1372/1986)"
+    "exp": "El Capítulo V del Título Primero del RBEL lleva por título 'Enajenación' y comprende los artículos 109 a 119 (el art. 119 cierra el capítulo: la falsedad o tergiversación sobre el carácter y naturaleza jurídica de los bienes que se pretenda enajenar o permutar es punible con arreglo al Código Penal).",
+    "fuente": "Cap. V del Título Primero RBEL (RD 1372/1986), arts. 109 a 119"
   },
   {
     "q": "Según el art. 109.1 del RBEL, las enajenaciones de bienes patrimoniales habrán de realizarse, como regla general, por:",
@@ -11040,7 +10944,7 @@ const QUESTIONS = {
     "fuente": "Art. 109 RBEL (RD 1372/1986)"
   },
   {
-    "q": "Según esta misma regulación sobre bienes patrimoniales, los bienes inmuebles patrimoniales no pueden cederse gratuitamente salvo a:",
+    "q": "Según el RBEL, los bienes inmuebles patrimoniales no pueden cederse gratuitamente sino a:",
     "options": [
       "Un particular elegido libremente por el Alcalde",
       "Cualquier empresa privada con fines lucrativos",
@@ -11049,7 +10953,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "'Los bienes inmuebles patrimoniales no podrán cederse gratuitamente sino a entidades o instituciones públicas para fines que redunden en beneficio de los habitantes del término municipal, así como a las instituciones privadas de interés público sin ánimo de lucro.'",
-    "fuente": "RBEL (RD 1372/1986)"
+    "fuente": "Art. 109.2 RBEL (RD 1372/1986); art. 79.2 TRRL (RDLeg 781/1986)"
   },
   {
     "q": "Según el art. 110.1 de la Ley 33/2003, de Patrimonio de las Administraciones Públicas (LPAP), de aplicación general y supletoria a las Entidades Locales, los contratos, convenios y demás negocios jurídicos sobre bienes y derechos patrimoniales se rigen, en su preparación y adjudicación, por:",
@@ -11085,7 +10989,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "La gestión de los bienes y derechos patrimoniales debe ajustarse a los principios de publicidad, transparencia, concurrencia y objetividad en su adquisición, explotación y enajenación.",
-    "fuente": "LPAP (Ley 33/2003)"
+    "fuente": "Art. 8.1.c) LPAP (Ley 33/2003); precepto básico ex DF 2.ª.5 LPAP"
   },
   {
     "q": "¿Qué naturaleza jurídica tiene, con carácter general, el RBEL (Real Decreto 1372/1986) respecto a la legislación autonómica en materia de bienes locales?",
@@ -11097,7 +11001,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "El RBEL es una norma reglamentaria sin carácter básico, que cede ante la legislación autonómica de desarrollo, pero conserva aplicabilidad supletoria en defecto de dicha legislación.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "fuente": "Art. 1.2 y 1.3 RBEL (RD 1372/1986); art. 149.3 CE"
   },
   {
     "q": "¿A qué Decreto anterior vino a sustituir el Reglamento de Bienes de las Entidades Locales de 1986, en cumplimiento de la disposición final primera de la LBRL?",
@@ -11105,11 +11009,11 @@ const QUESTIONS = {
       "El Estatuto Municipal de 1924",
       "El Real Decreto Legislativo 781/1986",
       "La Ley de Régimen Local de 1955",
-      "El Reglamento de Bienes de las Entidades Locales aprobado por Decreto de 27 de mayo de 1952"
+      "El Reglamento de Bienes de las Entidades Locales aprobado por Decreto de 27 de mayo de 1955"
     ],
     "correct": 3,
-    "exp": "La disposición final primera de la LBRL ordenó actualizar 'el reglamento de bienes de las entidades locales, aprobado por decreto de 27 de mayo de 1952', dando lugar al vigente RD 1372/1986.",
-    "fuente": "Disposición final RBEL (RD 1372/1986)"
+    "exp": "La disposición final primera, letra e), de la LBRL ordenó actualizar 'el Reglamento de Bienes de las Entidades locales, aprobado por Decreto de 27 de mayo de 1955', y la disposición adicional segunda.1 del RBEL lo deroga expresamente. De 1952 son, en cambio, el Reglamento de Población y Demarcación Territorial y el ROF.",
+    "fuente": "DF 1.ª.e) LBRL (Ley 7/1985) y DA 2.ª.1 RBEL (RD 1372/1986)"
   },
   {
     "q": "Según el art. 2.3 del RBEL, en relación con el art. 79.3 LBRL, ¿qué característica adicional se atribuye a los bienes comunales, más allá de ser bienes de dominio público?",
@@ -11133,10 +11037,10 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El derecho al aprovechamiento y disfrute de los bienes comunales corresponde simultáneamente a los vecinos sin distinción de sexo, estado civil o edad, y también a los extranjeros domiciliados en el término municipal.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "fuente": "Art. 103.1 RBEL (RD 1372/1986)"
   },
   {
-    "q": "Según la sistemática legal (arts. 22.l), 47.i) n) y 79-81 LBRL, junto con arts. 74-75 RBEL), ¿qué normativa se aplica supletoriamente en materia de bienes comunales cuando la legislación estatal y autonómica no cubre un supuesto?",
+    "q": "En materia de aprovechamiento de bienes comunales, cuando la legislación estatal y autonómica no cubre un supuesto, ¿qué normativa se aplica para concretar cada forma de aprovechamiento?",
     "options": [
       "La legislación urbanística estatal, sin excepción",
       "El Derecho romano clásico sin adaptación",
@@ -11144,8 +11048,8 @@ const QUESTIONS = {
       "Ninguna, queda un vacío normativo insalvable"
     ],
     "correct": 2,
-    "exp": "En defecto de legislación estatal y autonómica específica, se aplican las normas consuetudinarias y las Ordenanzas propias de cada Entidad Local en materia de bienes comunales.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "exp": "El art. 95 RBEL ordena que cada forma de aprovechamiento comunal se ajuste en su detalle a las Ordenanzas locales o a las normas consuetudinarias tradicionalmente observadas; en el mismo sentido, el art. 75.2 TRRL remite a la costumbre u Ordenanza local. El art. 1.2.e) RBEL sitúa además las Ordenanzas propias de cada Entidad en el orden de fuentes.",
+    "fuente": "Art. 95 RBEL (RD 1372/1986); art. 75.2 TRRL (RDLeg 781/1986); art. 1.2.e) RBEL"
   },
   {
     "q": "¿Cuál es la diferencia esencial, en cuanto a régimen jurídico, entre los bienes demaniales (de dominio público) y los bienes patrimoniales de una Entidad Local?",
@@ -11157,7 +11061,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "Los bienes demaniales se rigen por un régimen jurídico especial vinculado a la satisfacción directa de necesidades públicas (inalienabilidad, inembargabilidad, imprescriptibilidad); los patrimoniales, en cambio, se rigen por su legislación específica y, en su defecto, por el Derecho privado.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "fuente": "Arts. 5 y 6.2 RBEL (RD 1372/1986); art. 80 LBRL (Ley 7/1985)"
   },
   {
     "q": "¿Qué tipo de bienes integran, junto con los de uso público y los comunales, la categoría más amplia de 'bienes de dominio público' de las Entidades Locales?",
@@ -11169,19 +11073,19 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "Dentro del dominio público local se distinguen los bienes de uso público (calles, plazas, parques) y los bienes de servicio público (destinados directamente al cumplimiento de fines públicos, como edificios administrativos o instalaciones de servicios), junto con los comunales.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "fuente": "Arts. 2.2, 2.3 y 4 RBEL (RD 1372/1986); art. 79.3 LBRL"
   },
   {
-    "q": "¿Qué órgano es, con carácter general, el competente para acordar la enajenación de un bien patrimonial cuya cuantía supere los límites atribuidos a la Alcaldía como órgano de contratación?",
+    "q": "¿Qué órgano es competente para acordar la enajenación de un bien patrimonial de una Entidad local cuando su cuantía excede del 20 por 100 de los recursos ordinarios del presupuesto?",
     "options": [
       "La Diputación Provincial en sustitución del municipio",
-      "El Pleno de la Corporación",
+      "El Pleno de la Corporación, con el voto favorable de la mayoría absoluta del número legal de miembros",
       "El Secretario municipal por delegación automática",
       "El Defensor del Pueblo"
     ],
     "correct": 1,
-    "exp": "Al igual que en la contratación general, cuando la cuantía de la enajenación supera los límites competenciales de la Alcaldía, la competencia corresponde al Pleno de la Corporación.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "exp": "El art. 47.2.m) LBRL exige el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación para la enajenación de bienes cuando su cuantía exceda del 20 por 100 de los recursos ordinarios del presupuesto, y el art. 22.2.p) atribuye al Pleno, en todo caso, los asuntos que exigen mayoría especial. El art. 114 RBEL mantiene un umbral del 10 por 100, desplazado por la redacción vigente del art. 47.2.m) LBRL (Ley 57/2003). Si además el valor excede del 25 por 100 se requiere autorización previa de la Comunidad Autónoma (art. 109.1 RBEL).",
+    "fuente": "Arts. 22.2.p) y 47.2.m) LBRL (Ley 7/1985); art. 114 RBEL (RD 1372/1986)"
   },
   {
     "q": "En síntesis, ¿qué dos grandes categorías de bienes distingue el régimen jurídico patrimonial de las Entidades Locales español, y qué principal diferencia práctica tienen entre sí?",
@@ -11193,7 +11097,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "El régimen distingue bienes de dominio público (inalienables, inembargables e imprescriptibles, afectados a un uso o servicio público) de bienes patrimoniales (que la Entidad Local posee en régimen similar al de la propiedad privada y que, en general, pueden enajenarse siguiendo el procedimiento legal, ordinariamente mediante subasta pública).",
-    "fuente": "RBEL (RD 1372/1986)"
+    "fuente": "Arts. 2.1, 5, 6.2 y 112 RBEL (RD 1372/1986); art. 80 TRRL (RDLeg 781/1986)"
   },
   {
     "q": "Según el art. 74 del RBEL (que abre la Sección 1ª del Capítulo IV, Utilización de los bienes de dominio público), el uso de estos bienes puede ser:",
@@ -11217,7 +11121,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El uso privativo de bienes de dominio público que implique una transformación o exclusión de la utilización por terceros (ocupación con instalaciones fijas) se somete, con carácter general, a concesión administrativa.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "fuente": "Arts. 75.2.º y 78.1.a) RBEL (RD 1372/1986)"
   },
   {
     "q": "Según la sistemática del RBEL, el uso común especial de un bien de dominio público local (por ejemplo, una terraza de un bar en la vía pública) se somete, con carácter general, a:",
@@ -11229,7 +11133,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El uso común especial de los bienes de dominio público (uso diferenciado que no excluye a otros usuarios de forma permanente, como una terraza) se sujeta, con carácter general, al régimen de licencia.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "fuente": "Arts. 75.1.b) y 77.1 RBEL (RD 1372/1986)"
   },
   {
     "q": "La Sección 2ª del Capítulo IV del RBEL, 'Utilización de los bienes patrimoniales', comprende los artículos:",
@@ -11241,7 +11145,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "La Sección 2ª ('Utilización de los bienes patrimoniales') del Capítulo IV comprende únicamente los artículos 92 y 93.",
-    "fuente": "Sección 2ª RBEL (RD 1372/1986)"
+    "fuente": "Sección 2.ª del Cap. IV del Título Primero RBEL (RD 1372/1986), arts. 92 y 93"
   },
   {
     "q": "La Sección 3ª del Capítulo IV del RBEL, 'Del aprovechamiento y disfrute de los bienes comunales', comprende los artículos:",
@@ -11253,19 +11157,19 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "La Sección 3ª ('Del aprovechamiento y disfrute de los bienes comunales') del Capítulo IV comprende los artículos 94 a 108.",
-    "fuente": "Sección 3ª RBEL (RD 1372/1986)"
+    "fuente": "Sección 3.ª del Cap. IV del Título Primero RBEL (RD 1372/1986), arts. 94 a 108"
   },
   {
-    "q": "¿Qué forma de aprovechamiento de los bienes comunales es la más tradicional y extendida entre los vecinos, según la práctica administrativa del RBEL?",
+    "q": "Según el art. 96 del RBEL, ¿qué implica la explotación común o cultivo colectivo de los bienes comunales?",
     "options": [
-      "El aprovechamiento en régimen de explotación común o cultivo, o mediante adjudicación por lotes o suertes entre los vecinos",
-      "La expropiación forzosa a favor de la Diputación",
-      "La venta directa a terceros ajenos al municipio",
-      "La cesión gratuita a una empresa multinacional"
+      "El disfrute general y simultáneo de los bienes por quienes ostenten en cada momento la cualidad de vecino",
+      "La expropiación forzosa de los aprovechamientos a favor de la Diputación Provincial",
+      "La venta directa de los aprovechamientos a terceros ajenos al municipio",
+      "La cesión gratuita del disfrute a una sociedad mercantil designada por el Alcalde"
     ],
     "correct": 0,
-    "exp": "El RBEL regula distintas modalidades de aprovechamiento comunal, siendo tradicionales el aprovechamiento común (pastos, leñas) y el aprovechamiento por lotes o suertes entre los vecinos con derecho reconocido.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "exp": "El art. 96 RBEL define la explotación común o cultivo colectivo —forma preferente y 'precisa' de aprovechamiento comunal según el art. 94.1— como el disfrute general y simultáneo de los bienes por quienes ostenten en cada momento la cualidad de vecino. Sólo si tal disfrute fuere impracticable se acude al aprovechamiento peculiar o a la adjudicación por lotes o suertes (art. 94.2) y, en último término, a la adjudicación mediante precio (art. 94.3).",
+    "fuente": "Art. 96 RBEL (RD 1372/1986), en relación con el art. 94"
   },
   {
     "q": "Según los principios generales del régimen de bienes comunales, ¿puede una Entidad Local desafectar un bien comunal para convertirlo en patrimonial?",
@@ -11301,7 +11205,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "El RBEL exige que en el inventario conste, entre otros datos, la naturaleza de dominio público o patrimonial del bien, especificando si se trata de uso público, servicio público, patrimonial o comunal, así como su título de adquisición y situación registral.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "fuente": "Art. 20, letras i), j) y k), RBEL (RD 1372/1986)"
   },
   {
     "q": "Según el RBEL, respecto a las vías públicas, el inventario debe incluir datos necesarios para su individualización, con especial referencia a:",
@@ -11313,19 +11217,19 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El RBEL exige que, tratándose de vías públicas, el inventario recoja los datos necesarios para su individualización, con especial referencia a sus límites, longitud y anchura.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "fuente": "Art. 20.g) RBEL (RD 1372/1986)"
   },
   {
     "q": "¿Con qué periodicidad debe procederse a la rectificación del inventario de bienes de una Entidad Local, según la práctica habitual derivada del RBEL?",
     "options": [
       "Solo tras un cambio de Alcalde",
-      "Anualmente, y siempre que se produzca alguna alteración en los bienes inventariados",
+      "Anualmente, debiendo además comprobarse siempre que se renueve la Corporación",
       "Nunca, el inventario es un documento fijo e inmodificable",
       "Cada cincuenta años exactamente"
     ],
     "correct": 1,
-    "exp": "El inventario de bienes debe rectificarse anualmente y comprobarse siempre que se renueve la Corporación, reflejando cualquier alteración producida en los bienes.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "exp": "El art. 33.1 RBEL ordena verificar la rectificación del inventario anualmente, reflejando las vicisitudes de toda índole de los bienes y derechos; el art. 33.2 añade que la comprobación se efectuará siempre que se renueve la Corporación, consignando el resultado al final del documento. En el mismo sentido, el art. 86 TRRL.",
+    "fuente": "Art. 33 RBEL (RD 1372/1986); art. 86 TRRL (RDLeg 781/1986)"
   },
   {
     "q": "¿Quién tiene la obligación legal de formar, mantener y rectificar el inventario de bienes de cada Entidad Local?",
@@ -11337,7 +11241,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "Cada Entidad Local tiene la obligación de formar, mantener actualizado y custodiar su propio inventario de bienes, derechos y acciones, bajo la responsabilidad de sus órganos competentes.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "fuente": "Arts. 17.1, 32.1 y 34 RBEL (RD 1372/1986); art. 86 TRRL (RDLeg 781/1986)"
   },
   {
     "q": "¿Qué relación guarda el Secretario de la Corporación con la conservación y tutela de los bienes de la Entidad Local, según la práctica administrativa?",
@@ -11345,11 +11249,11 @@ const QUESTIONS = {
       "Sustituye al Pleno en la toma de decisiones sobre bienes",
       "No tiene ninguna función relacionada con los bienes municipales",
       "Es el único que puede vender un bien patrimonial sin intervención de ningún otro órgano",
-      "Suele desempeñar funciones de custodia documental y asesoramiento jurídico en los expedientes relativos a bienes, en su condición de funcionario de habilitación nacional"
+      "Desempeña funciones de custodia documental, autorización del inventario y asesoramiento jurídico en los expedientes relativos a bienes, como funcionario de administración local con habilitación de carácter nacional"
     ],
     "correct": 3,
-    "exp": "El Secretario de la Corporación, como funcionario de habilitación nacional, desempeña funciones de asesoramiento jurídico y custodia documental en los expedientes relativos a la conservación, tutela y disposición de los bienes municipales.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "exp": "El RBEL atribuye expresamente al Secretario el dictamen previo para el ejercicio de acciones en defensa de los bienes (art. 9.3), el archivo separado de los títulos y documentos patrimoniales (art. 30), la autorización del inventario con el visto bueno del Presidente (art. 32.1), el informe previo a la resolución del expediente de investigación (art. 53) y la redacción del acta de apeo en el deslinde (art. 64.4). Ejerce estas funciones como funcionario de administración local con habilitación de carácter nacional (art. 92 bis LBRL).",
+    "fuente": "Arts. 9.3, 30, 32.1, 53 y 64.4 RBEL (RD 1372/1986); art. 92 bis LBRL (Ley 7/1985)"
   },
   {
     "q": "¿Qué tipo de responsabilidad puede derivarse para los miembros de una Corporación Local que dispongan irregularmente de un bien de dominio público sin la debida desafectación previa?",
@@ -11361,7 +11265,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "La disposición irregular de un bien de dominio público sin la previa desafectación puede generar responsabilidad administrativa, patrimonial o incluso penal para los responsables, dado el carácter inalienable e imprescriptible de estos bienes.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "fuente": "Arts. 5, 8 y 119 RBEL (RD 1372/1986); art. 80.1 LBRL (Ley 7/1985)"
   },
   {
     "q": "¿Qué diferencia existe entre la 'afectación' y la 'desafectación' de un bien en el régimen patrimonial local?",
@@ -11373,19 +11277,19 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "La afectación es el acto por el cual un bien patrimonial se destina a un uso o servicio público, adquiriendo la condición de bien de dominio público; la desafectación es el proceso inverso, que devuelve al bien su condición patrimonial.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "fuente": "Art. 8 RBEL (RD 1372/1986); art. 81 LBRL (Ley 7/1985)"
   },
   {
     "q": "Según el régimen general aplicable, ¿puede una Entidad Local adquirir bienes mediante donación de un particular?",
     "options": [
       "No, salvo autorización previa del Consejo de Ministros",
       "No, las donaciones a Entidades Locales están prohibidas por ley",
-      "Sí, mediante el correspondiente expediente de aceptación, que deberá acreditar su oportunidad y legalidad",
+      "Sí; la adquisición a título gratuito no está sujeta a restricción alguna, salvo que lleve aneja una condición o modalidad onerosa, supuesto en el que se exige expediente previo",
       "Sí, pero solo si el donante es otra Administración Pública"
     ],
     "correct": 2,
-    "exp": "Las Entidades Locales pueden adquirir bienes por donación, mediante el correspondiente expediente de aceptación, en el que se acredite su oportunidad y conveniencia para los intereses públicos.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "exp": "El art. 10.c) RBEL incluye la donación entre los modos de adquirir de las Corporaciones locales y el art. 12.1 precisa que la adquisición a título gratuito 'no estará sujeta a restricción alguna'. Sólo si la adquisición lleva aneja alguna condición o modalidad onerosa se exige expediente previo que acredite que el valor del gravamen no excede del de lo adquirido (art. 12.2); la aceptación de herencias se entiende siempre a beneficio de inventario (art. 12.3).",
+    "fuente": "Arts. 10.c) y 12 RBEL (RD 1372/1986)"
   },
   {
     "q": "¿Qué órgano municipal ostenta, con carácter general, las competencias reglamentarias de organización interna en materia de gestión y custodia del patrimonio local, sin perjuicio de las competencias del Pleno en materia de disposición?",
@@ -11421,7 +11325,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El Patrimonio Municipal del Suelo tiene como finalidad facilitar la ejecución del planeamiento urbanístico y regular el mercado de terrenos, en particular para atender necesidades de vivienda protegida y equipamientos públicos.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "fuente": "Art. 16 RBEL (RD 1372/1986); arts. 51.1 y 52.1 TRLSRU (RDLeg 7/2015)"
   },
   {
     "q": "Según la lógica del sistema, ¿por qué se exige subasta pública como regla general para la enajenación de bienes patrimoniales de una Entidad Local?",
@@ -11433,7 +11337,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "La exigencia de subasta pública como procedimiento ordinario de enajenación responde a la necesidad de garantizar los principios de publicidad, transparencia, concurrencia y objetividad que deben regir la gestión del patrimonio de las Administraciones Públicas.",
-    "fuente": "Ley 19/2013 (transparencia)"
+    "fuente": "Art. 8.1.c) LPAP (Ley 33/2003); art. 80 TRRL (RDLeg 781/1986); art. 112 RBEL (RD 1372/1986)"
   },
   {
     "q": "¿Qué excepciones al procedimiento general de subasta pública prevé el RBEL para la enajenación de bienes patrimoniales?",
@@ -11457,7 +11361,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "En materia de negocios jurídicos sobre bienes patrimoniales, la legislación de contratos del sector público (LCSP) se aplica con carácter supletorio, en lo no previsto por la LPAP y la normativa específica de bienes de las Entidades Locales.",
-    "fuente": "LPAP (Ley 33/2003)"
+    "fuente": "Art. 110.1 LPAP (Ley 33/2003); art. 9.2 LCSP (Ley 9/2017); art. 112.1 RBEL (RD 1372/1986)"
   },
   {
     "q": "¿Cuál es el fundamento constitucional que sustenta la existencia de un régimen especial y protector para los bienes de dominio público de las Entidades Locales?",
@@ -11469,7 +11373,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El régimen especial de protección de los bienes de dominio público (inalienabilidad, inembargabilidad, imprescriptibilidad) se fundamenta en la necesidad de garantizar su afectación permanente a la satisfacción de los intereses generales y los servicios públicos que constitucionalmente corresponde prestar a las Administraciones.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "fuente": "Art. 132.1 CE; art. 5 RBEL (RD 1372/1986); art. 80.1 LBRL (Ley 7/1985)"
   },
   {
     "q": "¿Puede un particular adquirir por usucapión (prescripción adquisitiva) un bien de dominio público de una Entidad Local?",
@@ -11508,7 +11412,7 @@ const QUESTIONS = {
     "fuente": "Art. 80.1 LBRL (Ley 7/1985)"
   },
   {
-    "q": "Según el art. 6 del RBEL (en línea con la clasificación general), ¿qué tipo de bienes se destinan directamente al cumplimiento de fines públicos administrativos, como sedes de oficinas municipales?",
+    "q": "Según el art. 4 del RBEL, ¿qué tipo de bienes se destinan directamente al cumplimiento de fines públicos de responsabilidad de las Entidades locales, como las sedes de las oficinas municipales?",
     "options": [
       "Los bienes patrimoniales o de propios",
       "Los bienes de servicio público, integrados dentro del dominio público local",
@@ -11517,19 +11421,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "Los bienes de servicio público (como los edificios administrativos, colegios o mercados de titularidad municipal) forman parte del dominio público local, junto con los bienes de uso público y los comunales.",
-    "fuente": "RBEL (RD 1372/1986)"
-  },
-  {
-    "q": "¿Qué régimen de responsabilidad tiene, con carácter general, la Entidad Local frente a los daños causados por el mal estado de un bien de dominio público de uso público (por ejemplo, una acera en mal estado)?",
-    "options": [
-      "Responsabilidad únicamente civil del contratista de mantenimiento, nunca de la Administración",
-      "Responsabilidad exclusivamente penal del Alcalde en persona",
-      "Responsabilidad patrimonial de la Administración por el funcionamiento de los servicios públicos",
-      "Ninguna responsabilidad, el riesgo lo asume siempre el usuario"
-    ],
-    "correct": 2,
-    "exp": "Los daños causados por el mal estado de conservación de bienes de dominio público local dan lugar, en su caso, a responsabilidad patrimonial de la Administración por el funcionamiento normal o anormal de los servicios públicos.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "fuente": "Arts. 2.2 y 4 RBEL (RD 1372/1986)"
   },
   {
     "q": "¿Qué relación existe entre el concepto de 'bien mostrenco' y el patrimonio de las Entidades Locales?",
@@ -11541,7 +11433,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "Los bienes inmuebles vacantes y sin dueño conocido (mostrencos) pueden corresponder, según la legislación patrimonial aplicable, a la Administración competente, integrándose ordinariamente en su patrimonio (bienes patrimoniales), salvo afectación posterior a un uso o servicio público.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "fuente": "Arts. 16 y 17.1 LPAP (Ley 33/2003); art. 10.e) RBEL (RD 1372/1986)"
   },
   {
     "q": "¿Cómo se denomina el negocio jurídico por el cual una Entidad Local intercambia un bien patrimonial de su titularidad por otro de un particular, sin mediar subasta pública?",
@@ -11565,7 +11457,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El arrendamiento de un bien patrimonial tiene naturaleza de contrato privado, cuya preparación se sujeta a la normativa patrimonial (y supletoriamente a la de contratos), mientras que sus efectos y extinción se rigen por el Derecho privado.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "fuente": "Art. 92.1 RBEL (RD 1372/1986); art. 83 TRRL (RDLeg 781/1986); art. 110.1 LPAP; art. 9.2 LCSP"
   },
   {
     "q": "¿Qué diferencia existe, en cuanto a naturaleza jurídica, entre el uso privativo de un bien de dominio público (mediante concesión) y el arrendamiento de un bien patrimonial?",
@@ -11577,7 +11469,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "La concesión sobre un bien de dominio público es un acto administrativo que otorga un derecho de uso privativo sobre un bien demanial; el arrendamiento de un bien patrimonial es, en cambio, un contrato de naturaleza privada sobre un bien no afectado a uso o servicio público.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "fuente": "Arts. 75.2.º, 78.1.a) y 92.1 RBEL (RD 1372/1986); art. 110.1 LPAP (Ley 33/2003)"
   },
   {
     "q": "¿Qué tipo de acto administrativo habilita, con carácter general, el uso privativo continuado de una porción de dominio público local mediante la instalación de un quiosco?",
@@ -11589,7 +11481,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "La instalación de un quiosco en dominio público local se habilita, según su carácter más o menos permanente y la intensidad de la ocupación, mediante concesión administrativa o, en supuestos de menor entidad, mediante autorización.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "fuente": "Arts. 75, 77.1 y 78.1.a) RBEL (RD 1372/1986)"
   },
   {
     "q": "¿Qué consecuencia tiene, con carácter general, el incumplimiento por el concesionario de las condiciones de una concesión demanial sobre un bien de dominio público local?",
@@ -11601,7 +11493,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El incumplimiento de las condiciones de una concesión sobre dominio público puede dar lugar a su resolución o revocación por la Administración concedente, sin perjuicio de las responsabilidades y sanciones que, en su caso, correspondan.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "fuente": "Art. 80, cláusulas 10.ª, 12.ª y 13.ª, y art. 120 RBEL (RD 1372/1986)"
   },
   {
     "q": "¿Qué es, técnicamente, la 'reversión' en relación con las concesiones sobre bienes de dominio público local que incluyen la construcción de infraestructuras?",
@@ -11613,7 +11505,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "La reversión es el mecanismo por el cual, al extinguirse la concesión, las instalaciones y obras construidas por el concesionario en el dominio público pasan a integrarse en el patrimonio de la Administración concedente, ordinariamente sin contraprestación.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "fuente": "Art. 80, cláusula 9.ª, y arts. 28 y 90.2 RBEL (RD 1372/1986)"
   },
   {
     "q": "¿Qué régimen especial de protección tienen los bienes integrantes del Patrimonio Histórico Español que sean, a su vez, de titularidad de una Entidad Local?",
@@ -11625,7 +11517,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "Los bienes integrantes del Patrimonio Histórico Español de titularidad local están sujetos a un régimen especial y reforzado de protección conforme a su legislación específica (Ley de Patrimonio Histórico), con independencia de su calificación patrimonial o demanial ordinaria dentro del régimen de bienes locales.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "fuente": "Arts. 22 y 117 RBEL (RD 1372/1986); art. 81 TRRL (RDLeg 781/1986); Ley 16/1985 del PHE"
   },
   {
     "q": "¿Qué papel desempeña la Comunidad Autónoma respecto a la enajenación de bienes patrimoniales de un municipio cuando el valor del bien supera el umbral legal establecido?",
@@ -11637,7 +11529,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "Cuando el valor del bien patrimonial a enajenar supera el umbral legalmente establecido (25% de los recursos ordinarios del presupuesto), es necesaria la autorización previa del órgano competente de la Comunidad Autónoma, en ejercicio de su función de tutela financiera.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "fuente": "Art. 109.1 RBEL (RD 1372/1986); art. 79.1 TRRL (RDLeg 781/1986)"
   },
   {
     "q": "¿Se aplica el mismo régimen de tutela autonómica (autorización previa por razón de cuantía) tanto a los municipios como a las provincias en materia de enajenación de bienes patrimoniales?",
@@ -11649,7 +11541,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El régimen de tutela financiera sobre la enajenación de bienes patrimoniales de especial cuantía se aplica, con las adaptaciones correspondientes, tanto a municipios como a otras Entidades Locales, conforme a la legislación básica estatal y su desarrollo autonómico.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "fuente": "Arts. 1.2 y 109.1 RBEL (RD 1372/1986); art. 79.1 TRRL (RDLeg 781/1986)"
   },
   {
     "q": "¿Qué relación existe entre la calificación jurídica de un bien (demanial o patrimonial) y su tratamiento contable en la Entidad Local?",
@@ -11661,7 +11553,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "La calificación jurídica (demanial o patrimonial) y el tratamiento contable son aspectos distintos pero relacionados: ambos bienes se registran en el inventario y en la contabilidad patrimonial de la Entidad Local, si bien con las particularidades propias de cada categoría.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "fuente": "Arts. 20.i), 33, 35 y 43 RBEL (RD 1372/1986)"
   },
   {
     "q": "¿Qué exige, con carácter general, la normativa patrimonial para poder ceder gratuitamente un bien inmueble patrimonial de una Entidad Local a una asociación cultural sin ánimo de lucro?",
@@ -11673,7 +11565,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "La cesión gratuita de bienes inmuebles patrimoniales exige acreditar el fin de interés público que la justifica (beneficio para los vecinos o entidades de interés público sin ánimo de lucro) y, en su caso, dar cuenta de ella a la autoridad competente de la Comunidad Autónoma.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "fuente": "Arts. 109.2 y 110.1 RBEL (RD 1372/1986); art. 47.2.ñ) LBRL"
   },
   {
     "q": "¿Qué tipo de bien es, típicamente, un cementerio municipal, a efectos de su calificación jurídico-patrimonial?",
@@ -11685,7 +11577,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "El cementerio municipal es, con carácter general, un bien de servicio público integrado en el dominio público local, dada su afectación directa a la prestación de un servicio público esencial.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "fuente": "Arts. 2.2 y 4 RBEL (RD 1372/1986)"
   },
   {
     "q": "¿Qué naturaleza tiene, a efectos patrimoniales, un edificio destinado a colegio público de titularidad municipal?",
@@ -11697,7 +11589,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "Un edificio destinado a colegio público de titularidad municipal es un bien de servicio público, integrado en el dominio público local por su afectación directa a la prestación del servicio educativo.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "fuente": "Arts. 2.2 y 4 RBEL (RD 1372/1986)"
   },
   {
     "q": "¿Qué naturaleza tiene, a efectos patrimoniales, un local comercial de propiedad municipal que se arrienda a un particular para uso privado, sin estar afectado a ningún servicio público?",
@@ -11709,7 +11601,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "Un local comercial de titularidad municipal no afectado a uso ni servicio público, susceptible de explotación en régimen de arrendamiento privado, tiene la naturaleza de bien patrimonial.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "fuente": "Art. 6.1 RBEL (RD 1372/1986); art. 76 TRRL (RDLeg 781/1986)"
   },
   {
     "q": "¿Puede una Entidad Local hipotecar un bien de dominio público para obtener financiación?",
@@ -11733,7 +11625,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "Los bienes patrimoniales, al regirse por su legislación específica y, en su defecto, por el Derecho privado, pueden en principio ser objeto de gravamen (incluida la hipoteca), sin perjuicio de las autorizaciones y controles de tutela financiera que, en su caso, resulten aplicables.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "fuente": "Arts. 5, 6.2 y 109.1 RBEL (RD 1372/1986); art. 80 LBRL (Ley 7/1985)"
   },
   {
     "q": "¿Qué diferencia de fondo explica que los bienes de dominio público no puedan gravarse mientras que los patrimoniales sí puedan, en principio?",
@@ -11745,7 +11637,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "La razón de fondo es que los bienes de dominio público están directamente afectados a la satisfacción de un uso o servicio público de interés general, por lo que su disponibilidad (venta, embargo, gravamen) comprometería esa función; los bienes patrimoniales, al no tener esa afectación directa, pueden ser objeto de tráfico jurídico ordinario.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "fuente": "Arts. 2.2, 5 y 6 RBEL (RD 1372/1986); art. 80 LBRL; art. 132.1 CE"
   },
   {
     "q": "En conclusión, ¿qué papel desempeña el Reglamento de Bienes de las Entidades Locales (RD 1372/1986) respecto a la Ley 7/1985 (LBRL) en esta materia?",
@@ -11757,7 +11649,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El RBEL desarrolla reglamentariamente los principios básicos que la LBRL (arts. 79 a 83) establece con rango legal en materia de bienes de las Entidades Locales, aplicándose con carácter supletorio respecto de la legislación autonómica de desarrollo.",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Arts. 1.2 y 1.3 RBEL (RD 1372/1986); DF 1.ª.e) y arts. 79 a 83 LBRL (Ley 7/1985)"
   },
   {
     "q": "¿Qué tres grandes bloques normativos configuran, en conjunto, el régimen jurídico de los bienes de las Entidades Locales estudiado en este tema?",
@@ -11769,7 +11661,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "El régimen jurídico de los bienes de las Entidades Locales se configura fundamentalmente por la LBRL (arts. 79 a 83, normas básicas), el RBEL (RD 1372/1986, desarrollo reglamentario) y, con carácter supletorio, la LPAP (Ley 33/2003, de Patrimonio de las Administraciones Públicas).",
-    "fuente": "LBRL (Ley 7/1985)"
+    "fuente": "Arts. 79 a 83 LBRL (Ley 7/1985); art. 1.2 RBEL (RD 1372/1986); art. 2.2 y DF 2.ª LPAP (Ley 33/2003)"
   },
   {
     "q": "¿Qué órgano es, típicamente, el competente para aprobar la incorporación de un nuevo bien al inventario municipal tras su adquisición?",
@@ -11777,11 +11669,11 @@ const QUESTIONS = {
       "Un notario, sin intervención administrativa alguna",
       "El Tribunal de Cuentas, en todos los casos sin excepción",
       "El Registro de la Propiedad, de forma automática",
-      "El Alcalde o el Pleno, según el tipo de adquisición y las competencias atribuidas en cada caso por la normativa de régimen local"
+      "El Pleno de la Corporación, al que corresponde acordar la aprobación del inventario ya formado, su rectificación y su comprobación"
     ],
     "correct": 3,
-    "exp": "La incorporación de un nuevo bien al inventario, y su correspondiente aprobación administrativa, corresponde al Alcalde o al Pleno según el tipo de adquisición y el reparto competencial establecido en la normativa de régimen local y de contratación.",
-    "fuente": "RBEL (RD 1372/1986)"
+    "exp": "El art. 34 RBEL reserva al Pleno de la Corporación la aprobación del inventario ya formado, su rectificación y su comprobación; la incorporación de un nuevo bien se materializa precisamente en la rectificación anual del art. 33.1. El inventario lo autoriza el Secretario con el visto bueno del Presidente (art. 32.1), pero la aprobación es plenaria.",
+    "fuente": "Arts. 32.1, 33 y 34 RBEL (RD 1372/1986)"
   },
   {
     "q": "¿En qué año fue aprobado el reglamento de bienes de las entidades locales?",
@@ -11793,7 +11685,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "Ficha BOE-A-1986-17958: RD 1372/1986 fechado 'Dado en Madrid a 13 de junio de 1986', BOE 7-7-1986; el año de aprobación es 1986, como marca la opción. Texto consolidado vigente (solo deroga el Reglamento de 1955).",
-    "fuente": "Art. único RBEL (RD 1372/1986, de 13 de junio; BOE núm. 161, de 7-7-1986)"
+    "fuente": "RD 1372/1986, de 13 de junio: art. único y fecha de disposición (BOE núm. 161, de 7-7-1986; BOE-A-1986-17958)"
   },
   {
     "q": "¿Cuál de las siguientes normas aprueba el reglamento de bienes de las entidades locales?",
@@ -11805,7 +11697,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "Comprobada la ficha del BOE (el id correcto del consolidado es BOE-A-1986-17958, no el 19271): la norma que aprueba el RBEL es el RD 1372/1986, de 13 de junio.",
-    "fuente": "Art. único RBEL (RD 1372/1986, de 13 de junio; BOE núm. 161, de 7-7-1986)"
+    "fuente": "Art. único del RD 1372/1986, de 13 de junio (BOE núm. 161, de 7-7-1986; BOE-A-1986-17958)"
   },
   {
     "q": "¿Qué artículos de la ley 7/ 1985, de 2 de abril, regulan el régimen jurídico de los bienes de las entidades locales?",

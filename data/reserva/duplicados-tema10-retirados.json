@@ -1,0 +1,59 @@
+{
+ "motivo": "Duplicados reales del tema 10 retirados el 22-ago-2026: cada una repetía, con otras palabras, una pregunta del archivo base con el MISMO artículo citado y la MISMA respuesta correcta. Se conservó la copia cuya explicación cita el precepto literalmente.",
+ "detectadas_por": "Agrupación por respuesta correcta idéntica dentro del tema, tras la pasada de citación que dejó a la vista qué artículo sostiene cada una.",
+ "conservadas": "Se mantiene el trío deliberado de los arts. 34 RBEL (aprobación, rectificación y comprobación del inventario), que son tres preguntas distintas con la misma respuesta, y las parejas que citan normas distintas para el mismo hecho (art. 79.3 LBRL y art. 2 RBEL sobre bienes comunales).",
+ "fecha": "2026-08-22",
+ "preguntas": [
+  {
+   "q": "Respecto de los bienes de dominio público, el art. 82.a) LBRL permite a las entidades locales recuperar su posesión:",
+   "options": [
+    "En el plazo de treinta días desde la usurpación",
+    "Solo en el plazo de un año, igual que los patrimoniales",
+    "Previa autorización judicial, en el plazo de tres meses",
+    "En cualquier momento"
+   ],
+   "correct": 3,
+   "exp": "El art. 82.a) LBRL distingue: los bienes de dominio público pueden recuperarse 'en cualquier momento', mientras que los patrimoniales solo en el plazo de un año.",
+   "fuente": "Art. 82.a) LBRL",
+   "confianza": "alta"
+  },
+  {
+   "q": "El art. 2.1 RBEL clasifica los bienes de las Entidades locales en:",
+   "options": [
+    "Bienes propios, comunales y de aprovechamiento común, como categorías independientes",
+    "Bienes de dominio público y bienes patrimoniales",
+    "Bienes muebles, inmuebles y derechos",
+    "Bienes afectos y bienes libres"
+   ],
+   "correct": 1,
+   "exp": "El art. 2.1 RBEL dispone que 'los bienes de las Entidades locales se clasificarán en bienes de dominio público y bienes patrimoniales'.",
+   "fuente": "Art. 2.1 RBEL",
+   "confianza": "alta"
+  },
+  {
+   "q": "El art. 110.1 LPAP dispone que los efectos y la extinción de los negocios jurídicos patrimoniales se rigen por...",
+   "options": [
+    "El Código de Comercio",
+    "Exclusivamente la legislación de contratos públicos",
+    "El Reglamento Hipotecario",
+    "Esta ley y las normas de derecho privado"
+   ],
+   "correct": 3,
+   "exp": "El art. 110.1 LPAP, in fine, establece que los efectos y extinción de estos negocios se rigen por la propia ley y por las normas de derecho privado.",
+   "fuente": "Art. 110.1 LPAP",
+   "confianza": "alta"
+  },
+  {
+   "q": "¿Qué tipo de acto administrativo habilita el uso privativo de dominio público local que suponga exclusión de la utilización por terceros mediante instalaciones fijas?",
+   "options": [
+    "Silencio administrativo positivo automático",
+    "Concesión administrativa",
+    "Ninguno, basta la ocupación de hecho",
+    "Simple comunicación previa del interesado"
+   ],
+   "correct": 1,
+   "exp": "El uso privativo del dominio público que excluye la utilización por terceros mediante instalaciones fijas se somete, con carácter general, al régimen de concesión administrativa. (Venía del tema 11 del banco original; reubicada aquí en la auditoría de agosto de 2026: FUERA DE ALCANCE. Uso privativo del dominio público local y concesión administrativa: régimen de bienes de las entidades locales, no de la policía administrativa ni de las formas de gestión del servicio público. Contenido correcto, reubicable.)",
+   "fuente": "Arts. 75.2.º, 78.1.a) y 79 RBEL (RD 1372/1986)"
+  }
+ ]
+}

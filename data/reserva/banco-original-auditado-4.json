@@ -1,0 +1,116 @@
+{
+ "4": [
+  {
+   "q": "Según el art. 9.1, ¿qué documento sirve de referencia principal para verificar la identidad de un interesado persona física?",
+   "options": [
+    "La tarjeta sanitaria",
+    "El Documento Nacional de Identidad o documento identificativo equivalente",
+    "El carné de conducir",
+    "El pasaporte exclusivamente"
+   ],
+   "correct": 1,
+   "exp": "Art. 9.1 hace referencia expresa al 'Documento Nacional de Identidad o documento identificativo equivalente'.",
+   "fuente": "Art. 9.1 LPAC (Ley 39/2015)",
+   "motivoArchivo": "Casi-duplicada del índice 49: el DNI o documento identificativo equivalente ya figura dentro de la opción correcta de aquélla, y el enunciado usa una categoría («documento de referencia principal») que el art. 9.1 no emplea.",
+   "temaOrigen": 4
+  },
+  {
+   "q": "Según el art. 5.1, la Administración se entiende con el representante del interesado salvo que:",
+   "options": [
+    "El representante no tenga estudios universitarios",
+    "El procedimiento sea sancionador",
+    "Exista manifestación expresa en contra del interesado",
+    "El trámite sea de carácter urgente"
+   ],
+   "correct": 2,
+   "exp": "Art. 5.1: '...entendiéndose con éste las actuaciones administrativas, salvo manifestación expresa en contra del interesado.'",
+   "fuente": "Art. 5.1 LPAC (Ley 39/2015)",
+   "motivoArchivo": "Duplicada del índice 21: ambas preguntan por la misma salvedad del art. 5.1 («salvo manifestación expresa en contra del interesado»), que ya es la opción correcta del índice 21.",
+   "temaOrigen": 4
+  },
+  {
+   "q": "Según el art. 3, ¿la capacidad de obrar de personas jurídicas se determina con arreglo a qué normas, salvo previsión especial de la propia Ley 39/2015?",
+   "options": [
+    "Las normas civiles",
+    "Las normas de la Unión Europea directamente aplicables",
+    "Las normas penales",
+    "Las normas laborales exclusivamente"
+   ],
+   "correct": 0,
+   "exp": "Art. 3 a): tienen capacidad de obrar 'las personas físicas o jurídicas que ostenten capacidad de obrar con arreglo a las normas civiles.'",
+   "fuente": "Art. 3 a) LPAC (Ley 39/2015)",
+   "motivoArchivo": "Casi-duplicada del índice 10: las dos comprueban que la capacidad de obrar de personas físicas y jurídicas se rige por las normas civiles (art. 3 a). Además el enunciado introduce una salvedad («salvo previsión especial de la propia Ley 39/2015») que el art. 3 no formula.",
+   "temaOrigen": 4
+  },
+  {
+   "q": "Según el art. 4.2, ¿en qué medida son titulares de intereses legítimos colectivos las asociaciones y organizaciones representativas?",
+   "options": [
+    "Siempre, sin ninguna limitación legal",
+    "En los términos que la Ley reconozca",
+    "Solo si tienen ánimo de lucro",
+    "Nunca, solo las personas físicas tienen intereses legítimos"
+   ],
+   "correct": 1,
+   "exp": "Art. 4.2: '...serán titulares de intereses legítimos colectivos en los términos que la Ley reconozca.'",
+   "fuente": "Art. 4.2 LPAC (Ley 39/2015)",
+   "motivoArchivo": "Casi-duplicada del índice 18: ambas giran sobre la misma cláusula del art. 4.2 («en los términos que la Ley reconozca»), que ya es el núcleo de la opción correcta del índice 18.",
+   "temaOrigen": 4
+  },
+  {
+   "q": "Según el art. 2.1, ¿a qué letra corresponde 'Las Entidades que integran la Administración Local'?",
+   "options": [
+    "Letra a)",
+    "Letra d)",
+    "Letra b)",
+    "Letra c)"
+   ],
+   "correct": 3,
+   "exp": "Art. 2.1 c): 'Las Entidades que integran la Administración Local.'",
+   "fuente": "Art. 2.1 c) LPAC (Ley 39/2015)",
+   "motivoArchivo": "DESCARTADA por calidad, no por alcance: pregunta «¿a qué letra corresponde...?» de la enumeración del art. 2.1. Memorizar el orden de las letras no enseña derecho y no es lo que pregunta un examen. Correcta de contenido.",
+   "temaOrigen": 4
+  },
+  {
+   "q": "Según el art. 10.2 c), al igual que en materia de identificación, ¿qué plazo debe transcurrir desde la comunicación de un nuevo sistema de firma antes de su eficacia jurídica?",
+   "options": [
+    "Quince días",
+    "Un mes",
+    "Dos meses",
+    "Seis meses"
+   ],
+   "correct": 2,
+   "exp": "Art. 10.2 c), en paralelo al art. 9.2 c): 'De forma previa a la eficacia jurídica del sistema, habrán de transcurrir dos meses desde dicha comunicación.'",
+   "fuente": "Art. 10.2 c) LPAC (Ley 39/2015)",
+   "motivoArchivo": "Casi-duplicada del índice 81: mismo plazo (dos meses) y el propio enunciado lo regala al decir «al igual que en materia de identificación», de modo que no comprueba nada del art. 10.2 c) que no se sepa ya.",
+   "temaOrigen": 4
+  },
+  {
+   "q": "Según el art. 4.1 c), para tener la condición de interesado por resultar afectados intereses legítimos, además de la afectación es necesario:",
+   "options": [
+    "Ser funcionario de la Administración instructora",
+    "Presentar aval económico",
+    "Personarse en el procedimiento en tanto no haya recaído resolución definitiva",
+    "Tener nacionalidad española"
+   ],
+   "correct": 2,
+   "exp": "Art. 4.1 c): '...puedan resultar afectados por la resolución y se personen en el procedimiento en tanto no haya recaído resolución definitiva.'",
+   "fuente": "Art. 4.1 c) LPAC (Ley 39/2015)",
+   "motivoArchivo": "Duplicada del índice 17: mismo precepto (art. 4.1 c), misma respuesta (personarse en tanto no haya recaído resolución definitiva) y distractores equivalentes (aval, condición de funcionario).",
+   "temaOrigen": 4
+  },
+  {
+   "q": "Según el art. 2.1, ¿a qué letra corresponde 'La Administración General del Estado' dentro de la enumeración del sector público?",
+   "options": [
+    "Letra d)",
+    "Letra b)",
+    "Letra c)",
+    "Letra a)"
+   ],
+   "correct": 3,
+   "exp": "Art. 2.1 a): 'La Administración General del Estado' encabeza la enumeración del sector público al que se aplica la Ley.",
+   "fuente": "Art. 2.1 a) LPAC (Ley 39/2015)",
+   "motivoArchivo": "DESCARTADA por calidad, no por alcance: pregunta «¿a qué letra corresponde...?» de la enumeración del art. 2.1. Memorizar el orden de las letras no enseña derecho y no es lo que pregunta un examen. Correcta de contenido.",
+   "temaOrigen": 4
+  }
+ ]
+}
