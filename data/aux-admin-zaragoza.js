@@ -14666,8 +14666,8 @@ const QUESTIONS = {
       "Únicamente ordenanzas fiscales"
     ],
     "correct": 0,
-    "exp": "El Título VI del TRLRHL comprende el Capítulo I (Presupuesto), el Capítulo II (Ejecución y liquidación), el Capítulo III (De la contabilidad) y el Capítulo IV (Control y fiscalización).",
-    "fuente": "Título VI TRLRHL (RDLeg 2/2004)"
+    "exp": "El Título VI del TRLRHL (arts. 162-223) comprende el Capítulo I (De los presupuestos, arts. 162-193 bis), el Capítulo II (De la tesorería de las entidades locales, arts. 194-199), el Capítulo III (De la contabilidad, arts. 200-212) y el Capítulo IV (Control y fiscalización, arts. 213-223).",
+    "fuente": "Título VI TRLRHL, arts. 162-223 (RDLeg 2/2004)"
   },
   {
     "q": "Según el art. 162 del TRLRHL, los presupuestos generales de las entidades locales constituyen:",
@@ -14727,7 +14727,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "Art. 164.1 a) y b): se integran 'El presupuesto de la propia entidad' y 'Los de los organismos autónomos dependientes de esta.'",
-    "fuente": "Art. 164.1 a) TRLRHL (RDLeg 2/2004)"
+    "fuente": "Art. 164.1 a) y b) TRLRHL (RDLeg 2/2004)"
   },
   {
     "q": "Según el art. 164.1 c), el presupuesto general también integra los estados de previsión de gastos e ingresos de:",
@@ -14826,7 +14826,7 @@ const QUESTIONS = {
     "fuente": "Art. 169.2 TRLRHL (RDLeg 2/2004)"
   },
   {
-    "q": "Según los arts. 163 y 169.6 del TRLRHL, si al iniciarse el ejercicio no hubiera entrado en vigor el nuevo presupuesto, se considera automáticamente prorrogado:",
+    "q": "Según el art. 169.6 del TRLRHL, si al iniciarse el ejercicio económico no hubiese entrado en vigor el presupuesto correspondiente, se considera automáticamente prorrogado:",
     "options": [
       "Se aplica un presupuesto mínimo fijado por la Comunidad Autónoma",
       "No existe posibilidad de prórroga, la entidad queda sin presupuesto",
@@ -14834,8 +14834,8 @@ const QUESTIONS = {
       "El presupuesto se sustituye por el del Estado"
     ],
     "correct": 2,
-    "exp": "La prórroga presupuestaria (arts. 163 y 169.6 TRLRHL) opera de forma automática, sin necesidad de acuerdo expreso, prorrogándose el presupuesto del ejercicio anterior hasta la aprobación del nuevo.",
-    "fuente": "TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 169.6: «Si al iniciarse el ejercicio económico no hubiese entrado en vigor el presupuesto correspondiente, se considerará automáticamente prorrogado el del anterior, con sus créditos iniciales, sin perjuicio de las modificaciones que se realicen conforme a lo dispuesto en los artículos 177, 178 y 179 de esta ley y hasta la entrada en vigor del nuevo presupuesto.» La prórroga no afecta a los créditos para servicios o programas que deban concluir en el ejercicio anterior o que estén financiados con crédito u otros ingresos específicos o afectados.",
+    "fuente": "Art. 169.6 TRLRHL (RDLeg 2/2004)"
   },
   {
     "q": "Según el art. 170.1 del TRLRHL, tienen la consideración de interesados a efectos de presentar reclamaciones contra el presupuesto, entre otros:",
@@ -14898,16 +14898,16 @@ const QUESTIONS = {
     "fuente": "Art. 171 TRLRHL (RDLeg 2/2004)"
   },
   {
-    "q": "El Capítulo I del Título VI del TRLRHL, sobre presupuesto, se divide en dos secciones: 'Contenido y aprobación' y:",
+    "q": "El Capítulo I del Título VI del TRLRHL («De los presupuestos») se divide en tres secciones: «Contenido y aprobación», «Ejecución y liquidación» y:",
     "options": [
       "De los créditos y sus modificaciones",
-      "Control interno",
-      "Ejecución del presupuesto",
-      "Cuenta general de las entidades locales"
+      "Control interno de la gestión económica",
+      "Estados de cuentas anuales de las entidades locales",
+      "De la tesorería de las entidades locales"
     ],
     "correct": 0,
-    "exp": "El Capítulo I ('Presupuesto') se divide en la Sección 1ª ('Contenido y aprobación', arts. 162-171) y la Sección 2ª ('De los créditos y sus modificaciones', arts. 172-182).",
-    "fuente": "Capítulo I TRLRHL (RDLeg 2/2004)"
+    "exp": "El Capítulo I del Título VI («De los presupuestos») consta de tres secciones: Sección 1.ª «Contenido y aprobación» (arts. 162-171), Sección 2.ª «De los créditos y sus modificaciones» (arts. 172-182) y Sección 3.ª «Ejecución y liquidación» (arts. 183-193 bis).",
+    "fuente": "Capítulo I del Título VI TRLRHL, arts. 162-193 bis (RDLeg 2/2004)"
   },
   {
     "q": "Según el art. 172 del TRLRHL, los créditos para gasto se destinan exclusivamente a:",
@@ -14946,16 +14946,16 @@ const QUESTIONS = {
     "fuente": "Art. 174 TRLRHL (RDLeg 2/2004)"
   },
   {
-    "q": "Según el art. 179 del TRLRHL (transferencias de crédito), estas consisten en:",
+    "q": "Según el art. 40.1 del RD 500/1990, la transferencia de crédito es:",
     "options": [
-      "Aquella modificación del presupuesto de gastos mediante la que, sin alterar la cuantía total del mismo, se imputa el importe total o parcial de un crédito a otras partidas presupuestarias",
+      "Aquella modificación del presupuesto de gastos mediante la que, sin alterar la cuantía total del mismo, se imputa el importe total o parcial de un crédito a otras partidas presupuestarias con diferente vinculación jurídica",
       "La eliminación completa de una partida sin sustitución",
       "La ampliación automática de cualquier partida sin límite",
       "La creación de un nuevo tributo municipal"
     ],
     "correct": 0,
-    "exp": "El art. 179 define la transferencia de crédito como la modificación presupuestaria que, sin alterar la cuantía total del presupuesto de gastos, traslada el importe de un crédito a otra u otras partidas presupuestarias.",
-    "fuente": "Art. 179 TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 40.1 RD 500/1990: «Transferencia de crédito es aquella modificación del Presupuesto de gastos mediante la que, sin alterar la cuantía total del mismo, se imputa el importe total o parcial de un crédito a otras partidas presupuestarias con diferente vinculación jurídica.» El TRLRHL no la define: su art. 179 solo fija la competencia (bases de ejecución y, entre distintos grupos de función, el Pleno) y su art. 180 los límites objetivos.",
+    "fuente": "Art. 40.1 RD 500/1990 (BOE-A-1990-9664)"
   },
   {
     "q": "Según el art. 180 a) del TRLRHL, las transferencias de crédito no pueden afectar a:",
@@ -14970,7 +14970,7 @@ const QUESTIONS = {
     "fuente": "Art. 180 a) TRLRHL (RDLeg 2/2004)"
   },
   {
-    "q": "Según el art. 180.4 del TRLRHL, las modificaciones presupuestarias aprobadas por el Pleno deben seguir las mismas normas sobre información, reclamaciones, recursos y publicidad que rigen para:",
+    "q": "Según el art. 179.4 del TRLRHL, las transferencias de crédito aprobadas por el Pleno deben seguir las mismas normas sobre información, reclamaciones, recursos y publicidad que rigen para:",
     "options": [
       "Las ordenanzas fiscales exclusivamente",
       "Las actas de las sesiones plenarias",
@@ -14978,7 +14978,7 @@ const QUESTIONS = {
       "El inventario de bienes"
     ],
     "correct": 2,
-    "exp": "Art. 180.4: 'Las modificaciones presupuestarias a que se refiere este artículo, en cuanto sean aprobadas por el Pleno, seguirán las normas sobre información, reclamaciones, recursos y publicidad a que se refieren los artículos 169, 170 y 171 de la ley.'",
+    "exp": "Art. 179.4: «Las modificaciones presupuestarias a que se refiere este artículo, en cuanto sean aprobadas por el Pleno, seguirán las normas sobre información, reclamaciones, recursos y publicidad a que se refieren los artículos 169, 170 y 171 de la ley.» El art. 180 solo tiene dos apartados, de modo que no existe un «art. 180.4».",
     "fuente": "Art. 179.4 TRLRHL (RDLeg 2/2004)"
   },
   {
@@ -15006,7 +15006,7 @@ const QUESTIONS = {
     "fuente": "Art. 193.5 TRLRHL (RDLeg 2/2004)"
   },
   {
-    "q": "El Capítulo II del Título VI del TRLRHL se dedica a la ejecución y liquidación del presupuesto, mientras que el Capítulo III se dedica a:",
+    "q": "En el Título VI del TRLRHL, el Capítulo II se dedica a la tesorería de las entidades locales, mientras que el Capítulo III se dedica a:",
     "options": [
       "Los recursos de las Haciendas Locales",
       "La contabilidad",
@@ -15014,11 +15014,11 @@ const QUESTIONS = {
       "Las tasas y precios públicos"
     ],
     "correct": 1,
-    "exp": "El Capítulo III del Título VI del TRLRHL se dedica a 'De la contabilidad', que comprende las secciones sobre la Cuenta General y otros aspectos contables.",
-    "fuente": "TRLRHL (RDLeg 2/2004)"
+    "exp": "El Capítulo II del Título VI se titula «De la tesorería de las entidades locales» (arts. 194-199) y el Capítulo III «De la contabilidad» (arts. 200-212), con una Sección 1.ª de disposiciones generales y una Sección 2.ª sobre los estados de cuentas anuales. La ejecución y liquidación del presupuesto no es un capítulo, sino la Sección 3.ª del Capítulo I (arts. 183-193 bis).",
+    "fuente": "Capítulos II y III del Título VI TRLRHL, arts. 194-212 (RDLeg 2/2004)"
   },
   {
-    "q": "Según el art. 208 del TRLRHL, la formación de la Cuenta General de la entidad local corresponde a:",
+    "q": "Según el art. 212.2 del TRLRHL, la cuenta general de la entidad local es formada por:",
     "options": [
       "El Alcalde en solitario, sin intervención técnica",
       "El Tribunal de Cuentas europeo",
@@ -15026,8 +15026,8 @@ const QUESTIONS = {
       "Un auditor privado externo obligatoriamente"
     ],
     "correct": 2,
-    "exp": "Art. 208 regula la formación de la Cuenta General, correspondiendo su elaboración al órgano de la entidad local que tenga atribuidas las funciones de contabilidad (habitualmente la Intervención).",
-    "fuente": "Art. 208 TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 212.2: «La cuenta general formada por la Intervención será sometida antes del día 1 de junio a informe de la Comisión Especial de Cuentas de la entidad local, que estará constituida por miembros de los distintos grupos políticos integrantes de la corporación.» El art. 208 se limita a disponer que las entidades locales, a la terminación del ejercicio presupuestario, formarán la cuenta general.",
+    "fuente": "Art. 212.2 TRLRHL (RDLeg 2/2004)"
   },
   {
     "q": "Según el art. 209 del TRLRHL, la Cuenta General de las entidades locales está formada, entre otros documentos, por:",
@@ -15075,7 +15075,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "El Capítulo IV del Título VI del TRLRHL se titula 'Control y fiscalización' y comprende los artículos 213 a 223.",
-    "fuente": "Capítulo IV TRLRHL (RDLeg 2/2004)"
+    "fuente": "Capítulo IV del Título VI TRLRHL, arts. 213-223 (RDLeg 2/2004)"
   },
   {
     "q": "Según el art. 213 del TRLRHL, el control interno de la gestión económica de las entidades locales se ejerce mediante:",
@@ -15083,11 +15083,11 @@ const QUESTIONS = {
       "Exclusivamente la fiscalización del Tribunal de Cuentas",
       "Solo el control político del Pleno",
       "Únicamente auditorías externas contratadas anualmente",
-      "La función interventora y el control financiero"
+      "La función interventora, la función de control financiero y la función de control de la eficacia"
     ],
     "correct": 3,
-    "exp": "Art. 213 regula el control interno de la actividad económico-financiera de las entidades locales, ejercido a través de la función interventora y de las modalidades de control financiero.",
-    "fuente": "Art. 213 TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 213, párrafo primero: el control interno respecto de la gestión económica de la entidad local, de sus organismos autónomos y de sus sociedades mercantiles dependientes se ejerce «en sus modalidades de función interventora, función de control financiero, incluida la auditoría de cuentas de las entidades que se determinen reglamentariamente, y función de control de la eficacia».",
+    "fuente": "Art. 213, párrafo primero, TRLRHL (RDLeg 2/2004)"
   },
   {
     "q": "Según el art. 214 del TRLRHL, la función interventora tiene por objeto fiscalizar todos los actos que den lugar al reconocimiento de derechos y obligaciones de contenido económico, así como:",
@@ -15110,7 +15110,7 @@ const QUESTIONS = {
       "Una denuncia penal automática"
     ],
     "correct": 1,
-    "exp": "Art. 215: 'El órgano interventor, en el ejercicio de la función interventora, si se manifestare en desacuerdo con el fondo o con la forma de los actos, documentos o expedientes examinados, deberá formular sus reparos.'",
+    "exp": "Art. 215: «Si en el ejercicio de la función interventora el órgano interventor se manifestara en desacuerdo con el fondo o con la forma de los actos, documentos o expedientes examinados, deberá formular sus reparos por escrito antes de la adopción del acuerdo o resolución.»",
     "fuente": "Art. 215 TRLRHL (RDLeg 2/2004)"
   },
   {
@@ -15122,8 +15122,8 @@ const QUESTIONS = {
       "La paralización definitiva del presupuesto general"
     ],
     "correct": 2,
-    "exp": "Art. 216: cuando el reparo afecte al reconocimiento de obligaciones o a la ordenación de pagos, se produce la suspensión de la tramitación del expediente hasta que el reparo sea solventado en los términos previstos en la propia ley.",
-    "fuente": "Art. 216 TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 216.2: si el reparo afecta a la disposición de gastos, reconocimiento de obligaciones u ordenación de pagos, se suspende la tramitación del expediente hasta que aquel sea solventado, pero solo en cuatro casos: a) insuficiencia de crédito o crédito no adecuado; b) actos no fiscalizados que dieron origen a las órdenes de pago; c) omisión en el expediente de requisitos o trámites esenciales; d) reparo derivado de comprobaciones materiales de obras, suministros, adquisiciones y servicios. Si la disconformidad se refiere al reconocimiento o liquidación de derechos (art. 216.1), la nota de reparo no suspende en ningún caso la tramitación.",
+    "fuente": "Art. 216.2 TRLRHL (RDLeg 2/2004)"
   },
   {
     "q": "Según el art. 217 del TRLRHL, cuando el órgano gestor no acepte el reparo formulado por la Intervención, puede plantear:",
@@ -15138,7 +15138,7 @@ const QUESTIONS = {
     "fuente": "Art. 217 TRLRHL (RDLeg 2/2004)"
   },
   {
-    "q": "Según el art. 219 del TRLRHL, la fiscalización previa se realiza sobre los actos, documentos o expedientes susceptibles de producir:",
+    "q": "Según el art. 214.2 a) del TRLRHL, la intervención crítica o previa se ejerce sobre todo acto, documento o expediente susceptible de producir:",
     "options": [
       "Derechos u obligaciones de contenido económico o movimiento de fondos y valores",
       "Exclusivamente actos relativos a personal eventual",
@@ -15146,20 +15146,20 @@ const QUESTIONS = {
       "Solo resoluciones sancionadoras"
     ],
     "correct": 0,
-    "exp": "Art. 219 regula la fiscalización previa, ejercida sobre los actos susceptibles de producir derechos u obligaciones de contenido económico o movimiento de fondos y valores.",
-    "fuente": "Art. 219 TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 214.2 a): el ejercicio de la función interventora comprende «la intervención crítica o previa de todo acto, documento o expediente susceptible de producir derechos u obligaciones de contenido económico o movimiento de fondos de valores». El art. 219, en cambio, enumera los gastos no sometidos a intervención previa y regula la fiscalización limitada previa.",
+    "fuente": "Art. 214.2 a) TRLRHL (RDLeg 2/2004)"
   },
   {
     "q": "Según el art. 220 del TRLRHL, el control financiero tiene por objeto comprobar el funcionamiento de los servicios de la entidad local en el aspecto económico-financiero para verificar:",
     "options": [
       "Solo el estado de conservación del mobiliario municipal",
-      "El cumplimiento de la normativa y directrices que los rigen, y en general, que su gestión se ajusta a los principios de buena gestión financiera",
+      "La adecuada presentación de la información financiera, el cumplimiento de las normas y directrices que sean de aplicación y el grado de eficacia y eficiencia en la consecución de los objetivos previstos",
       "Exclusivamente la limpieza de las oficinas administrativas",
       "Únicamente si el personal cumple el horario laboral"
     ],
     "correct": 1,
-    "exp": "Art. 220 regula el control financiero, orientado a comprobar el funcionamiento económico-financiero de los servicios de la entidad, verificando el cumplimiento normativo y los principios de buena gestión financiera.",
-    "fuente": "Art. 220 TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 220.1 y 2: el control financiero comprueba el funcionamiento en el aspecto económico-financiero de los servicios de la entidad local, de sus organismos autónomos y de sus sociedades mercantiles dependientes, e informa «acerca de la adecuada presentación de la información financiera, del cumplimiento de las normas y directrices que sean de aplicación y del grado de eficacia y eficiencia en la consecución de los objetivos previstos». Se realiza por procedimientos de auditoría (art. 220.3).",
+    "fuente": "Art. 220.1 y 2 TRLRHL (RDLeg 2/2004)"
   },
   {
     "q": "Según el art. 221 del TRLRHL, el control de eficacia tiene por objeto la comprobación periódica del grado de cumplimiento de:",
@@ -15182,8 +15182,8 @@ const QUESTIONS = {
       "Elaboración y aprobación, ejecución y liquidación, y control y fiscalización"
     ],
     "correct": 3,
-    "exp": "El Título VI del TRLRHL regula, de forma sistemática, la elaboración y aprobación del presupuesto (Cap. I), su ejecución y liquidación (Cap. II), la contabilidad (Cap. III) y el control y fiscalización de la gestión económica (Cap. IV).",
-    "fuente": "TRLRHL (RDLeg 2/2004)"
+    "exp": "El Título VI del TRLRHL (arts. 162-223) regula de forma sistemática la elaboración y aprobación del presupuesto (Cap. I, Secciones 1.ª y 2.ª), su ejecución y liquidación (Cap. I, Sección 3.ª, arts. 183-193 bis), la tesorería (Cap. II), la contabilidad y la cuenta general (Cap. III) y el control y fiscalización de la gestión económica (Cap. IV).",
+    "fuente": "Título VI TRLRHL, arts. 162-223 (RDLeg 2/2004)"
   },
   {
     "q": "Según el art. 165 del TRLRHL, el presupuesto de la entidad local debe contener, entre otros documentos, un estado de gastos, un estado de ingresos y:",
@@ -15214,12 +15214,12 @@ const QUESTIONS = {
     "options": [
       "Exclusivamente el organigrama fotográfico del personal",
       "Únicamente el listado de vehículos oficiales",
-      "Los convenios suscritos con otras Administraciones Públicas para la gestión y recaudación de tributos y otros ingresos de derecho público, así como las plantillas de personal",
+      "El estado de consolidación del presupuesto de la propia entidad con el de todos los presupuestos y estados de previsión de sus organismos autónomos y sociedades mercantiles",
       "Solo el calendario de fiestas locales del año"
     ],
     "correct": 2,
-    "exp": "El art. 166 enumera los anexos que deben acompañar al presupuesto general, entre ellos información sobre convenios de colaboración en materia tributaria y la plantilla de personal de la entidad.",
-    "fuente": "Art. 166 TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 166.1: al presupuesto general se unirán como anexos a) los planes y programas de inversión y financiación a cuatro años; b) los programas anuales de actuación, inversiones y financiación de las sociedades mercantiles de capital total o mayoritariamente local; c) el estado de consolidación del presupuesto de la propia entidad con el de todos los presupuestos y estados de previsión de sus organismos autónomos y sociedades mercantiles; y d) el estado de previsión de movimientos y situación de la deuda.",
+    "fuente": "Art. 166.1 c) TRLRHL (RDLeg 2/2004)"
   },
   {
     "q": "Según el art. 167 del TRLRHL, la estructura de los estados de gastos e ingresos del presupuesto se establece teniendo en cuenta:",
@@ -15230,35 +15230,35 @@ const QUESTIONS = {
       "La organización de la entidad local, la naturaleza económica y las finalidades u objetivos que se pretendan conseguir"
     ],
     "correct": 3,
-    "exp": "El art. 167 remite la estructura de los estados de gastos e ingresos a las clasificaciones orgánica, económica y por programas, atendiendo a la organización de la entidad, la naturaleza económica y las finalidades perseguidas.",
-    "fuente": "Art. 167 TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 167.1: el Ministerio establece con carácter general la estructura de los presupuestos locales «teniendo en cuenta la naturaleza económica de los ingresos y de los gastos, las finalidades u objetivos que con estos últimos se propongan conseguir»; el art. 167.2 permite además a las entidades locales clasificar gastos e ingresos atendiendo a su propia estructura. Los estados de gastos aplican obligatoriamente las clasificaciones por programas y económica (art. 167.3); la clasificación orgánica es opcional (art. 167.4).",
+    "fuente": "Art. 167.1, 2 y 3 TRLRHL (RDLeg 2/2004)"
   },
   {
-    "q": "Según el art. 168.1 del TRLRHL, corresponde a cada entidad local aprobar el presupuesto anual, atendiendo, en su elaboración, a:",
+    "q": "Según el art. 168.1 del TRLRHL, el presupuesto de la entidad local es formado por su presidente, y a él debe unirse, entre otros documentos:",
     "options": [
-      "Los principios de estabilidad presupuestaria y sostenibilidad financiera, de conformidad con lo dispuesto en la legislación correspondiente",
-      "Un criterio discrecional sin vinculación legal alguna",
-      "Solo el resultado de la última liquidación disponible, sin proyección futura",
-      "Exclusivamente el criterio de la mayoría del grupo de gobierno, sin más límites"
+      "Memoria explicativa de su contenido, liquidación del presupuesto del ejercicio anterior y avance de la del corriente, anexo de personal, anexo de las inversiones a realizar e informe económico-financiero",
+      "Únicamente el acta de la sesión plenaria en que se acordó su elaboración",
+      "Solo el inventario general de bienes y derechos de la entidad",
+      "Exclusivamente el padrón municipal de habitantes actualizado"
     ],
     "correct": 0,
-    "exp": "El art. 168.1, en línea con la LO 2/2012, exige que la elaboración de los presupuestos locales se ajuste a los principios de estabilidad presupuestaria y sostenibilidad financiera.",
+    "exp": "Art. 168.1: al presupuesto formado por el presidente se unen a) memoria explicativa; b) liquidación del presupuesto anterior y avance de la del corriente referida al menos a seis meses; c) anexo de personal; d) anexo de las inversiones a realizar en el ejercicio; e) anexo de beneficios fiscales en tributos locales; f) anexo de convenios suscritos con las comunidades autónomas en materia de gasto social; y g) informe económico-financiero.",
     "fuente": "Art. 168.1 TRLRHL (RDLeg 2/2004)"
   },
   {
-    "q": "Según el art. 168.2 del TRLRHL, el presidente de cada entidad local debe remitir el presupuesto de la propia entidad, formado por él mismo, así como los presupuestos de los organismos autónomos, con la documentación correspondiente, para su tramitación conforme a lo dispuesto en el propio artículo, dentro de:",
+    "q": "Según el art. 168.2 del TRLRHL, el presupuesto de cada organismo autónomo integrante del general, propuesto inicialmente por su órgano competente, debe remitirse a la entidad local de la que dependa antes del:",
     "options": [
-      "El primer trimestre del ejercicio en curso, una vez iniciado",
-      "El plazo establecido para su remisión al Pleno, previo informe de la Intervención",
-      "Un plazo abierto, sin fecha límite alguna",
-      "Los tres primeros días del ejercicio siguiente"
+      "1 de enero del ejercicio a que se refiera",
+      "15 de septiembre de cada año",
+      "31 de diciembre de cada año",
+      "1 de marzo del ejercicio siguiente"
     ],
     "correct": 1,
-    "exp": "El art. 168 articula el procedimiento interno de formación del presupuesto por cada organismo o servicio, culminando con la remisión al Pleno antes del 15 de octubre conforme al apartado 4.",
-    "fuente": "Art. 168 TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 168.2: el presupuesto de cada organismo autónomo integrante del general «será remitido a la Entidad Local de la que dependan antes del 15 de septiembre de cada año, acompañado de la documentación detallada en el apartado anterior». El mismo plazo rige para las previsiones de gastos e ingresos de las sociedades mercantiles (art. 168.3).",
+    "fuente": "Art. 168.2 TRLRHL (RDLeg 2/2004)"
   },
   {
-    "q": "Según el art. 172.1 del TRLRHL (especialidad de los créditos), los créditos del presupuesto de gastos son limitativos y vinculantes:",
+    "q": "Según el art. 172.2 del TRLRHL y los arts. 27 a 29 del RD 500/1990, los créditos del presupuesto de gastos tienen carácter limitativo y vinculante:",
     "options": [
       "Únicamente a nivel de cada concepto individual, sin excepción",
       "Solo respecto al capítulo de personal",
@@ -15266,8 +15266,8 @@ const QUESTIONS = {
       "Exclusivamente respecto a operaciones de crédito"
     ],
     "correct": 2,
-    "exp": "El art. 172 establece que los créditos son limitativos y vinculantes, correspondiendo a las bases de ejecución del presupuesto determinar el nivel concreto de vinculación jurídica de dichos créditos.",
-    "fuente": "Art. 172 TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 172.2 TRLRHL: «Los créditos autorizados tienen carácter limitativo y vinculante. Los niveles de vinculación serán los que vengan establecidos en cada momento por la legislación presupuestaria del Estado, salvo que reglamentariamente se disponga otra cosa.» El art. 28.1 del RD 500/1990 permite que las bases de ejecución establezcan la vinculación en los niveles de desarrollo que la entidad considere necesarios, con los límites mínimos del art. 29 (grupo de función y capítulo); el art. 9.2 a) del mismo reglamento incluye los niveles de vinculación jurídica entre el contenido obligatorio de las bases de ejecución.",
+    "fuente": "Art. 172.2 TRLRHL (RDLeg 2/2004) y arts. 27 a 29 RD 500/1990"
   },
   {
     "q": "Según el art. 173.5 del TRLRHL, no pueden comprometerse gastos por cuantía superior al importe autorizado en los estados de gastos, siendo nulos de pleno derecho los acuerdos, resoluciones y actos administrativos que infrinjan la norma, sin perjuicio de:",
@@ -15282,7 +15282,7 @@ const QUESTIONS = {
     "fuente": "Art. 173 TRLRHL (RDLeg 2/2004)"
   },
   {
-    "q": "Según el art. 175 del TRLRHL (créditos extraordinarios y suplementos de crédito), estos proceden cuando haya de realizarse algún gasto que no pueda demorarse hasta el ejercicio siguiente y:",
+    "q": "Según el art. 177.1 del TRLRHL, los créditos extraordinarios y los suplementos de crédito proceden cuando haya de realizarse algún gasto que no pueda demorarse hasta el ejercicio siguiente y:",
     "options": [
       "No exista crédito, o el consignado sea insuficiente y no ampliable",
       "El presupuesto presente superávit en cualquier partida",
@@ -15290,20 +15290,20 @@ const QUESTIONS = {
       "Se trate de un gasto de mera conservación ordinaria"
     ],
     "correct": 0,
-    "exp": "El art. 175 regula los créditos extraordinarios (para gastos que no pueden demorarse y para los que no existe crédito) y los suplementos de crédito (cuando el crédito existente resulta insuficiente y no es ampliable).",
-    "fuente": "Art. 175 TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 177.1: cuando haya de realizarse un gasto que no pueda demorarse al ejercicio siguiente y no exista crédito, procede el crédito extraordinario; si el crédito consignado es insuficiente o no ampliable, el suplemento de crédito. En los mismos términos, art. 35 del RD 500/1990.",
+    "fuente": "Art. 177.1 TRLRHL (RDLeg 2/2004) y art. 35 RD 500/1990"
   },
   {
     "q": "Según el art. 177 del TRLRHL, la tramitación de los expedientes de concesión de créditos extraordinarios y de suplementos de crédito corresponde al Pleno de la Corporación, con sujeción a los mismos trámites y requisitos que:",
     "options": [
       "Un simple decreto de Alcaldía, sin necesidad de acuerdo plenario",
-      "Los presupuestos, siendo asimismo inmediatamente ejecutivos",
+      "Los presupuestos, aplicándose asimismo las normas sobre información, reclamación y publicidad del art. 169",
       "Una consulta popular previa y vinculante",
       "La declaración de un estado de excepción financiera"
     ],
     "correct": 1,
-    "exp": "El art. 177 exige que la tramitación de créditos extraordinarios y suplementos de crédito se sujete a los mismos trámites y requisitos que los presupuestos regulados en el propio Capítulo.",
-    "fuente": "Art. 177 TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 177.2: el expediente, previamente informado por la Intervención, se somete a la aprobación del Pleno «con sujeción a los mismos trámites y requisitos que los presupuestos», siendo de aplicación las normas sobre información, reclamación y publicidad del art. 169. Solo son inmediatamente ejecutivos los acuerdos de habilitación o suplemento de créditos en casos de calamidades públicas o de naturaleza análoga de excepcional interés general (art. 177.6).",
+    "fuente": "Art. 177.2 TRLRHL (RDLeg 2/2004)"
   },
   {
     "q": "Según el art. 178 del TRLRHL, la ampliación de créditos consiste en el incremento de crédito presupuestario en aquellas partidas que, por su naturaleza, están legalmente establecidas como:",
@@ -15314,8 +15314,8 @@ const QUESTIONS = {
       "Todas las partidas del presupuesto sin excepción"
     ],
     "correct": 2,
-    "exp": "El art. 178 regula la ampliación de créditos, que solo puede aplicarse a las partidas que las propias bases de ejecución del presupuesto hayan calificado expresamente como ampliables.",
-    "fuente": "Art. 178 TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 178 TRLRHL: tienen la condición de ampliables los créditos que de modo taxativo y debidamente explicitados se relacionen en las bases de ejecución del presupuesto, pudiendo incrementarse su cuantía «previo cumplimiento de los requisitos exigidos por vía reglamentaria, en función de la efectividad de los recursos afectados». El art. 39 RD 500/1990 añade que solo pueden declararse ampliables las partidas correspondientes a gastos financiados con recursos expresamente afectados no procedentes de operaciones de crédito.",
+    "fuente": "Art. 178 TRLRHL (RDLeg 2/2004) y art. 39 RD 500/1990"
   },
   {
     "q": "Según el art. 181 del TRLRHL, las generaciones de crédito son las modificaciones presupuestarias mediante las que se incrementa el crédito como consecuencia de la realización de determinados ingresos no previstos o superiores a los contemplados en el presupuesto inicial, entre otros supuestos, por:",
@@ -15338,11 +15338,11 @@ const QUESTIONS = {
       "Correspondan a gastos ya pagados en el propio ejercicio"
     ],
     "correct": 0,
-    "exp": "El art. 182 regula la incorporación de remanentes de crédito, que procede, entre otros casos, respecto de créditos que amparen compromisos de gasto adquiridos que a fin de ejercicio no hubieran dado lugar al reconocimiento de la obligación.",
-    "fuente": "Art. 182 TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 98.1 RD 500/1990: «Los remanentes de crédito están constituidos por los saldos de créditos definitivos no afectados al cumplimiento de obligaciones reconocidas.» El art. 182.1 b) TRLRHL permite incorporar los créditos que amparen los compromisos de gasto del art. 176.2 b) —compromisos debidamente adquiridos en ejercicios anteriores—, en los mismos términos que el art. 47.1 b) del reglamento; la incorporación exige siempre suficientes recursos financieros (art. 182.1 y art. 48 RD 500/1990).",
+    "fuente": "Art. 182.1 b) TRLRHL (RDLeg 2/2004); arts. 47.1 b) y 98.1 RD 500/1990"
   },
   {
-    "q": "Según el art. 183 del TRLRHL (Capítulo II, Sección 1ª, ejecución del presupuesto de gastos), la gestión del presupuesto de gastos comprende, entre otras, las fases de:",
+    "q": "Según el art. 184.1 del TRLRHL, la gestión del presupuesto de gastos se realiza en las siguientes fases:",
     "options": [
       "Exclusivamente la fase de rendición de cuentas",
       "Autorización del gasto, disposición o compromiso del gasto, reconocimiento y liquidación de la obligación, y ordenación del pago",
@@ -15350,11 +15350,11 @@ const QUESTIONS = {
       "Solo la fase de fiscalización previa por la Intervención"
     ],
     "correct": 1,
-    "exp": "El art. 183 (en línea con la sistemática general del gasto público) regula las fases del procedimiento de ejecución del gasto: autorización, disposición o compromiso, reconocimiento de la obligación y ordenación del pago.",
-    "fuente": "Art. 183 TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 184.1: a) autorización de gasto; b) disposición o compromiso de gasto; c) reconocimiento o liquidación de la obligación; d) ordenación de pago. Su contenido se establece reglamentariamente (art. 52 RD 500/1990). El art. 184.2 permite abarcar en un solo acto administrativo dos o más fases.",
+    "fuente": "Art. 184.1 TRLRHL (RDLeg 2/2004) y art. 52 RD 500/1990"
   },
   {
-    "q": "Según el art. 184 del TRLRHL, la autorización es el acto mediante el cual se acuerda:",
+    "q": "Según el art. 54.1 del RD 500/1990, la autorización es el acto mediante el cual se acuerda:",
     "options": [
       "La rendición de la cuenta general del ejercicio",
       "El pago material y efectivo de una obligación ya reconocida",
@@ -15362,35 +15362,35 @@ const QUESTIONS = {
       "La recaudación en vía ejecutiva de un tributo"
     ],
     "correct": 2,
-    "exp": "El art. 184 define la autorización del gasto como el acto por el que se acuerda la realización de un gasto determinado, reservando a tal fin, total o parcialmente, un crédito presupuestario.",
-    "fuente": "Art. 184 TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 54.1 RD 500/1990: «La autorización es el acto mediante el cual se acuerda la realización de un gasto determinado por una cuantía cierta o aproximada, reservando a tal fin la totalidad o parte de un crédito presupuestario.» Constituye el inicio del procedimiento de ejecución del gasto y no implica relaciones con terceros externos a la entidad (art. 54.2). El TRLRHL solo enumera las fases (art. 184.1).",
+    "fuente": "Art. 54.1 RD 500/1990 (BOE-A-1990-9664)"
   },
   {
-    "q": "Según el art. 185 del TRLRHL, la disposición o compromiso de gasto es el acto mediante el cual se acuerda, tras el cumplimiento de los trámites legalmente establecidos, la realización de:",
+    "q": "Según el art. 56.1 del RD 500/1990, la disposición o compromiso de gasto es el acto mediante el cual se acuerda, tras el cumplimiento de los trámites legalmente establecidos, la realización de:",
     "options": [
       "Exclusivamente inversiones financieramente sostenibles",
       "Solo gastos de personal fijo, sin más categorías",
       "Cualquier gasto sin necesidad de autorización previa",
-      "Gastos previamente autorizados, por un importe determinado o determinable"
+      "Gastos previamente autorizados, por un importe exactamente determinado"
     ],
     "correct": 3,
-    "exp": "El art. 185 define la disposición o compromiso de gasto como el acto por el que se acuerda la realización de gastos previamente autorizados, por un importe exactamente determinado.",
-    "fuente": "Art. 185 TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 56.1 RD 500/1990: «La disposición o compromiso es el acto mediante el cual se acuerda, tras el cumplimiento de los trámites legalmente establecidos, la realización de gastos, previamente autorizados, por un importe exactamente determinado.» Es un acto con relevancia jurídica frente a terceros (art. 56.2).",
+    "fuente": "Art. 56.1 RD 500/1990 (BOE-A-1990-9664)"
   },
   {
-    "q": "Según el art. 186 del TRLRHL, la fase de reconocimiento y liquidación de la obligación es el acto mediante el cual se declara la existencia de un crédito exigible contra la entidad, derivado de:",
+    "q": "Según el art. 58 del RD 500/1990, el reconocimiento y liquidación de la obligación es el acto mediante el cual se declara la existencia de un crédito exigible contra la entidad, derivado de:",
     "options": [
-      "Un gasto autorizado y comprometido que, previa la acreditación documental ante el órgano competente, comporta la propuesta de pago correspondiente",
+      "Un gasto autorizado y comprometido, previa acreditación documental de la prestación ante el órgano competente",
       "Una previsión estadística sin base documental",
       "Un acuerdo verbal entre el proveedor y el funcionario responsable",
       "La mera intención de gastar, sin ninguna acreditación"
     ],
     "correct": 0,
-    "exp": "El art. 186 define el reconocimiento de la obligación como el acto mediante el que se declara la existencia de un crédito exigible contra la entidad, derivado de un gasto autorizado y comprometido, previa acreditación documental ante el órgano competente.",
-    "fuente": "Art. 186 TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 58 RD 500/1990: «El reconocimiento y liquidación de la obligación es el acto mediante el cual se declara la existencia de un crédito exigible contra la Entidad derivado de un gasto autorizado y comprometido.» Con carácter previo hay que acreditar documentalmente ante el órgano competente la realización de la prestación o el derecho del acreedor (art. 59.1 RD 500/1990 y art. 189.1 TRLRHL).",
+    "fuente": "Art. 58 RD 500/1990 (BOE-A-1990-9664)"
   },
   {
-    "q": "Según el art. 187 del TRLRHL, la ordenación del pago es el acto mediante el cual el ordenador de pagos, en base a una obligación reconocida y liquidada, expide la correspondiente:",
+    "q": "Según el art. 61 del RD 500/1990, la ordenación del pago es el acto mediante el cual el ordenador de pagos, en base a una obligación reconocida y liquidada, expide la correspondiente:",
     "options": [
       "Autorización de un nuevo tributo",
       "Orden de pago contra la Tesorería de la entidad",
@@ -15398,32 +15398,32 @@ const QUESTIONS = {
       "Certificación de residencia del contratista"
     ],
     "correct": 1,
-    "exp": "El art. 187 define la ordenación del pago como el acto por el que el ordenador de pagos, sobre la base de una obligación reconocida y liquidada, expide la correspondiente orden de pago contra la Tesorería de la entidad.",
-    "fuente": "Art. 187 TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 61 RD 500/1990: «La ordenación del pago es el acto mediante el cual el ordenador de pagos, en base a una obligación reconocida y liquidada, expide la correspondiente orden de pago contra la Tesorería de la Entidad.» Las funciones de ordenación de pagos competen al presidente (art. 186.1 TRLRHL).",
+    "fuente": "Art. 61 RD 500/1990 (BOE-A-1990-9664)"
   },
   {
-    "q": "Según el art. 188 del TRLRHL, el pago material de las obligaciones se rige, en cuanto a su régimen jurídico, por:",
+    "q": "Según el art. 188 del TRLRHL, ¿quién responde personalmente de todo gasto que se autorice y de toda obligación que se reconozca, liquide o pague sin crédito suficiente?",
     "options": [
-      "Exclusivamente el Derecho civil de obligaciones y contratos",
-      "El Derecho canónico, con carácter supletorio",
-      "Lo dispuesto en la propia Ley, en la Ley General Presupuestaria y en sus disposiciones de desarrollo",
-      "Solo la costumbre local de cada entidad"
+      "Únicamente el proveedor o acreedor que emitió la factura",
+      "Solo el Pleno de la corporación, de forma colegiada",
+      "Los ordenadores de gastos y de pagos, en todo caso, y los interventores cuando no adviertan por escrito su improcedencia",
+      "Nadie a título personal: responde siempre la entidad local como persona jurídica"
     ],
     "correct": 2,
-    "exp": "El art. 188 regula el régimen jurídico del pago material de las obligaciones, remitiendo a la propia Ley, a la Ley General Presupuestaria y a sus disposiciones de desarrollo.",
+    "exp": "Art. 188: «Los ordenadores de gastos y de pagos, en todo caso, y los interventores de las entidades locales, cuando no adviertan por escrito su improcedencia, serán personalmente responsables de todo gasto que autoricen y de toda obligación que reconozcan, liquiden o paguen sin crédito suficiente.»",
     "fuente": "Art. 188 TRLRHL (RDLeg 2/2004)"
   },
   {
-    "q": "Según el art. 189 del TRLRHL, las órdenes de pago que se refieran a obligaciones ya reconocidas y liquidadas se aplican, con carácter general, al ejercicio presupuestario:",
+    "q": "Según el art. 189.2 del TRLRHL, los perceptores de subvenciones concedidas con cargo a los presupuestos de las entidades locales están obligados a:",
     "options": [
-      "Cualquiera de los últimos cinco ejercicios, a elección del ordenador",
-      "Anterior al de la expedición, sin excepción",
-      "Del año siguiente al de su expedición, en todo caso",
-      "Vigente en el momento de su expedición"
+      "Reintegrar íntegramente la subvención al cierre del ejercicio, en todo caso",
+      "Depositar una fianza equivalente al doble del importe concedido",
+      "Someterse a una auditoría privada previa contratada por el Tribunal de Cuentas",
+      "Acreditar, antes de su percepción, que se encuentran al corriente de sus obligaciones fiscales con la entidad y, posteriormente, justificar la aplicación de los fondos recibidos"
     ],
     "correct": 3,
-    "exp": "El art. 189 (referido a los pagos a justificar y otras cuestiones sobre la ordenación del pago) parte de la regla general de que las órdenes de pago se aplican al ejercicio presupuestario vigente en el momento de su expedición.",
-    "fuente": "Art. 189 TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 189.2: «Los perceptores de subvenciones concedidas con cargo a los presupuestos de las entidades locales y de los organismos autónomos vendrán obligados a acreditar, antes de su percepción, que se encuentran al corriente de sus obligaciones fiscales con la entidad, así como, posteriormente, a justificar la aplicación de los fondos recibidos.» El art. 189.1 exige, con carácter previo a la expedición de las órdenes de pago, acreditar documentalmente la realización de la prestación o el derecho del acreedor.",
+    "fuente": "Art. 189.2 TRLRHL (RDLeg 2/2004)"
   },
   {
     "q": "Según el art. 190 del TRLRHL, los pagos a justificar son las cantidades libradas para atenciones cuyo cumplimiento no puede acreditarse documentalmente antes de:",
@@ -15450,19 +15450,19 @@ const QUESTIONS = {
     "fuente": "Art. 191.1 TRLRHL (RDLeg 2/2004)"
   },
   {
-    "q": "Según el art. 191.2 del TRLRHL, en la contabilización del presupuesto de gastos, a 31 de diciembre quedan a cargo de la Tesorería local:",
+    "q": "Según el art. 191.1 del TRLRHL y el art. 92.2 del RD 500/1990, al liquidarse el presupuesto quedan a cargo de la Tesorería de la entidad local, según sus respectivas contracciones:",
     "options": [
       "Exclusivamente las obligaciones inferiores a mil euros",
       "Solo las obligaciones derivadas de convenios internacionales",
-      "Las obligaciones reconocidas y liquidadas no pagadas",
+      "Las obligaciones reconocidas y liquidadas pendientes de pago y los derechos liquidados pendientes de cobro",
       "Únicamente las obligaciones ya prescritas por el transcurso del tiempo"
     ],
     "correct": 2,
-    "exp": "Art. 191.2: a 31 de diciembre quedan a cargo de la Tesorería de la entidad local las obligaciones reconocidas y liquidadas no satisfechas y los derechos pendientes de cobro, según sus respectivas contracciones.",
-    "fuente": "Art. 191.2 TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 191.1: el presupuesto se liquida el 31 de diciembre «quedando a cargo de la Tesorería local los ingresos y pagos pendientes, según sus respectivas contracciones»; el art. 92.2 RD 500/1990 lo concreta: «Los derechos liquidados pendientes de cobro y las obligaciones reconocidas pendientes de pago quedarán a cargo de la Tesorería de la Entidad local.» El remanente de tesorería del art. 191.2 lo integran esas obligaciones, esos derechos y los fondos líquidos a 31 de diciembre.",
+    "fuente": "Art. 191.1 TRLRHL (RDLeg 2/2004) y art. 92.2 RD 500/1990"
   },
   {
-    "q": "Según el art. 192 del TRLRHL, la liquidación del presupuesto pone de manifiesto, respecto al presupuesto de gastos, para cada partida presupuestaria, los créditos iniciales, sus modificaciones y los créditos definitivos, así como:",
+    "q": "Según el art. 93.1 a) del RD 500/1990, la liquidación del presupuesto pone de manifiesto, respecto del presupuesto de gastos y para cada partida presupuestaria, los créditos iniciales, sus modificaciones y los créditos definitivos, así como:",
     "options": [
       "Exclusivamente el remanente de tesorería del ejercicio anterior",
       "Únicamente el saldo de la cuenta corriente bancaria de la entidad",
@@ -15470,11 +15470,11 @@ const QUESTIONS = {
       "Los gastos autorizados y comprometidos, las obligaciones reconocidas, los pagos ordenados y los realizados"
     ],
     "correct": 3,
-    "exp": "El art. 192 regula el contenido de la liquidación del presupuesto de gastos, que debe reflejar los créditos, sus modificaciones, los gastos autorizados y comprometidos, las obligaciones reconocidas y los pagos ordenados y realizados.",
-    "fuente": "Art. 192 TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 93.1 a) RD 500/1990: respecto del presupuesto de gastos y para cada partida, «los créditos iniciales, sus modificaciones y los créditos definitivos, los gastos autorizados y comprometidos, las obligaciones reconocidas, los pagos ordenados y los pagos realizados». Como consecuencia de la liquidación deben determinarse además los derechos y obligaciones pendientes a 31 de diciembre, el resultado presupuestario, los remanentes de crédito y el remanente de tesorería (art. 93.2).",
+    "fuente": "Art. 93.1 a) RD 500/1990 (BOE-A-1990-9664)"
   },
   {
-    "q": "Según el art. 193 del TRLRHL, corresponde a cada Entidad Local aprobar la liquidación de su presupuesto, previo informe de la Intervención, y dicha aprobación se realiza por:",
+    "q": "Según los arts. 191.3 y 193.4 del TRLRHL, la aprobación de la liquidación del presupuesto de la entidad local, previo informe de la Intervención, corresponde a:",
     "options": [
       "El Presidente de la Entidad, dando cuenta al Pleno en la primera sesión que celebre",
       "El Pleno exclusivamente, sin intervención de la Alcaldía",
@@ -15482,107 +15482,107 @@ const QUESTIONS = {
       "La Comunidad Autónoma, sin intervención de órganos municipales"
     ],
     "correct": 0,
-    "exp": "Art. 193.4: 'Corresponde al Presidente de la Entidad Local aprobar la liquidación del presupuesto de la propia entidad... dando cuenta al Pleno en la primera sesión que celebre.'",
-    "fuente": "Art. 193.4 TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 191.3, párrafo segundo: «La aprobación de la liquidación del presupuesto corresponde al presidente de la entidad local, previo informe de la Intervención» (igual, art. 90.1 RD 500/1990). El art. 193.4 añade que de la liquidación de cada uno de los presupuestos integrantes del general, una vez aprobada, se dará cuenta al Pleno en la primera sesión que celebre.",
+    "fuente": "Art. 191.3 TRLRHL (RDLeg 2/2004); art. 193.4 TRLRHL y art. 90 RD 500/1990"
   },
   {
-    "q": "Según el art. 193 bis del TRLRHL, adicionalmente a la liquidación, las entidades locales deben calcular, en los términos que reglamentariamente se determinen, indicadores relativos a:",
+    "q": "Según el art. 193 bis del TRLRHL, las entidades locales deben informar al Ministerio de Hacienda y a su Pleno del resultado de la aplicación de los criterios determinantes de:",
     "options": [
       "El consumo de papel de las oficinas municipales",
-      "El período medio de pago a proveedores",
+      "Los derechos de difícil o imposible recaudación, con unos límites mínimos de minoración crecientes según la antigüedad de los derechos pendientes de cobro",
       "El número de días de vacaciones del personal",
       "El coste de los actos protocolarios anuales"
     ],
     "correct": 1,
-    "exp": "El art. 193 bis exige el cálculo del período medio de pago a proveedores por parte de las entidades locales, en los términos y con la periodicidad que se determinen reglamentariamente.",
-    "fuente": "Art. 193 TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 193 bis (añadido por la Ley 27/2013): las entidades locales informarán al Ministerio de Hacienda y a su Pleno del resultado de la aplicación de los criterios determinantes de los derechos de difícil o imposible recaudación, con estos límites mínimos: 25 % para los liquidados en los dos ejercicios anteriores, 50 % para el tercero anterior, 75 % para los ejercicios cuarto y quinto anteriores y 100 % para los restantes.",
+    "fuente": "Art. 193 bis TRLRHL (RDLeg 2/2004)"
   },
   {
-    "q": "Según el art. 194 del TRLRHL (Capítulo II, régimen jurídico de la Tesorería), las funciones de la Tesorería de las entidades locales comprenden, entre otras:",
+    "q": "Según el art. 196.1 del TRLRHL, son funciones encomendadas a la tesorería de las entidades locales, entre otras:",
     "options": [
       "Exclusivamente el diseño de la web municipal",
       "Únicamente la elaboración de las ordenanzas fiscales",
-      "El manejo y custodia de fondos, valores y efectos de la entidad, de conformidad con las disposiciones legales vigentes",
+      "Recaudar los derechos y pagar las obligaciones, y servir al principio de unidad de caja mediante la centralización de todos los fondos y valores generados por operaciones presupuestarias y extrapresupuestarias",
       "Solo la selección del personal funcionario"
     ],
     "correct": 2,
-    "exp": "El art. 194 y siguientes regulan la Tesorería local, atribuyéndole, entre otras funciones, el manejo y custodia de fondos, valores y efectos.",
-    "fuente": "Art. 194 TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 196.1: son funciones de la tesorería a) recaudar los derechos y pagar las obligaciones; b) servir al principio de unidad de caja mediante la centralización de todos los fondos y valores generados por operaciones presupuestarias y extrapresupuestarias; c) distribuir en el tiempo las disponibilidades dinerarias; d) responder de los avales contraídos; y e) realizar las demás que se deriven o relacionen con las anteriores. El art. 194.1 define la tesorería como el conjunto de recursos financieros de la entidad, sean dinero, valores o créditos.",
+    "fuente": "Art. 196.1 TRLRHL (RDLeg 2/2004)"
   },
   {
-    "q": "Según el art. 195 del TRLRHL, con carácter general, las funciones de contabilidad y las de ordenación de pagos y las de contraer obligaciones en nombre de la Corporación deben estar:",
+    "q": "Según el art. 195 del TRLRHL, las disponibilidades de la tesorería de la entidad local y sus variaciones quedan sujetas a:",
     "options": [
-      "Suprimidas en los municipios pequeños",
-      "Delegadas obligatoriamente en un tercero externo",
-      "Concentradas siempre en una única persona",
-      "Debidamente separadas en sus respectivos titulares"
+      "Ningún control, por su carácter extrapresupuestario",
+      "Únicamente la auditoría anual del Tribunal de Cuentas",
+      "Solo el control político del Pleno, sin intervención técnica",
+      "Intervención y al régimen de la contabilidad pública"
     ],
     "correct": 3,
-    "exp": "El art. 195, en la regulación de la Tesorería y la contabilidad local, recoge el principio de separación de funciones entre quienes ordenan el gasto, quienes lo contabilizan y quienes gestionan la tesorería, como garantía de control interno.",
+    "exp": "Art. 195 («Control y régimen contable»): «Las disponibilidades de la tesorería y sus variaciones quedan sujetas a intervención y al régimen de la contabilidad pública.»",
     "fuente": "Art. 195 TRLRHL (RDLeg 2/2004)"
   },
   {
-    "q": "Según el art. 196 del TRLRHL, la responsabilidad de la gestión de los fondos y valores locales corresponde, con carácter general, a:",
+    "q": "Según el art. 197.1 del TRLRHL, las entidades locales pueden concertar los servicios financieros de su tesorería con entidades de crédito y ahorro mediante la apertura de los siguientes tipos de cuentas:",
     "options": [
-      "El Tesorero de la Entidad Local",
-      "Un banco privado por delegación total",
-      "Cualquier funcionario que voluntariamente lo solicite",
-      "El Presidente de la Diputación Provincial en todo caso"
+      "Cuentas operativas de ingresos y pagos, cuentas restringidas de recaudación, cuentas restringidas de pagos y cuentas financieras de colocación de excedentes de tesorería",
+      "Únicamente una cuenta corriente operativa, sin más modalidades",
+      "Exclusivamente cuentas de valores abiertas en el Banco de España",
+      "Solo cuentas a plazo fijo con vencimiento superior a cinco años"
     ],
     "correct": 0,
-    "exp": "El art. 196 atribuye al Tesorero de la Entidad Local la responsabilidad sobre la gestión de los fondos y valores locales, sin perjuicio de la responsabilidad que corresponda a otros órganos en el ámbito de sus respectivas competencias.",
-    "fuente": "Art. 196 TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 197.1: a) cuentas operativas de ingresos y pagos; b) cuentas restringidas de recaudación; c) cuentas restringidas de pagos; d) cuentas financieras de colocación de excedentes de tesorería.",
+    "fuente": "Art. 197.1 TRLRHL (RDLeg 2/2004)"
   },
   {
-    "q": "Según el art. 197 del TRLRHL, el régimen de personal de las funciones de Tesorería en las entidades locales corresponde, según los casos, a funcionarios de administración local con habilitación de carácter nacional, sin perjuicio de:",
+    "q": "Según el art. 197.2 del TRLRHL, las entidades locales pueden autorizar la existencia de cajas de efectivo para:",
     "options": [
-      "Su sustitución permanente por personal laboral eventual",
-      "Las especialidades previstas para determinados tipos de entidades locales",
-      "La posibilidad de que cualquier ciudadano lo desempeñe libremente",
-      "Su supresión total en municipios de menos de mil habitantes"
+      "Sustituir por completo las cuentas bancarias de la entidad",
+      "Los fondos de las operaciones diarias, sujetas a las limitaciones que reglamentariamente se establezcan",
+      "Custodiar exclusivamente valores mobiliarios a largo plazo",
+      "Realizar pagos sin ningún tipo de límite ni control"
     ],
     "correct": 1,
-    "exp": "El art. 197 remite, con carácter general, la responsabilidad de las funciones de Tesorería a funcionarios de Administración Local con habilitación de carácter nacional, sin perjuicio de las especialidades que la propia normativa prevé para ciertos tipos de entidades.",
-    "fuente": "Art. 197 TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 197.2: «Asimismo las entidades locales podrán autorizar la existencia de cajas de efectivo, para los fondos de las operaciones diarias, las cuales estarán sujetas a las limitaciones que reglamentariamente se establezcan.»",
+    "fuente": "Art. 197.2 TRLRHL (RDLeg 2/2004)"
   },
   {
-    "q": "Según el art. 198 del TRLRHL, se establece la obligación de rendir cuentas de las operaciones que se realicen en materia de Tesorería, sujeta al procedimiento de:",
+    "q": "Según el art. 198.1 del TRLRHL, el ingreso del producto de la recaudación de los recursos de la entidad local podrá realizarse en las cajas de efectivo o en las entidades de crédito colaboradoras mediante:",
     "options": [
-      "Aprobación exclusivamente verbal por el Alcalde",
-      "Ratificación directa por el Estado central sin intervención local",
-      "Fiscalización que corresponda, conforme a la normativa contable y presupuestaria aplicable",
-      "Consulta popular vinculante en cada operación de tesorería"
+      "Únicamente efectivo en metálico, sin ningún otro medio",
+      "Exclusivamente cheque bancario nominativo",
+      "Efectivo, transferencias, cheques o cualquier otro medio o documento de pago, sean o no bancarios, que se establezcan",
+      "Solo domiciliación bancaria, con carácter obligatorio"
     ],
     "correct": 2,
-    "exp": "El art. 198 exige la rendición de cuentas de las operaciones de Tesorería, sujeta al procedimiento de fiscalización correspondiente conforme a la normativa contable y presupuestaria aplicable a las entidades locales.",
-    "fuente": "Art. 198 TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 198.1: las entidades locales podrán dictar reglas especiales para el ingreso del producto de la recaudación de sus recursos, «que podrán realizarse en las cajas de efectivo o en las entidades de crédito colaboradoras mediante efectivo, transferencias, cheques o cualquier otro medio o documento de pago, sean o no bancarios, que se establezcan». El art. 198.2 permite pagar las obligaciones por cualquiera de esos mismos medios.",
+    "fuente": "Art. 198.1 TRLRHL (RDLeg 2/2004)"
   },
   {
-    "q": "Según el art. 199 del TRLRHL, las entidades locales pueden concertar los servicios de caja y recaudación de sus fondos con:",
+    "q": "Según el art. 199.1 del TRLRHL, las entidades locales pueden concertar con cualesquiera entidades financieras operaciones de tesorería para:",
     "options": [
-      "Cualquier particular sin ningún requisito de solvencia",
-      "Exclusivamente el Estado central, sin ninguna otra opción",
-      "Únicamente entidades sin ánimo de lucro",
-      "Entidades de crédito y ahorro sometidas a supervisión del Banco de España, mediante los procedimientos que se establezcan"
+      "Financiar los créditos iniciales del presupuesto de gastos",
+      "Sustituir la aprobación del presupuesto general del ejercicio",
+      "Financiar gastos de inversión a plazos superiores a veinte años",
+      "Cubrir déficit temporales de liquidez derivados de las diferencias de vencimientos de sus pagos e ingresos"
     ],
     "correct": 3,
-    "exp": "El art. 199 permite a las entidades locales concertar los servicios de caja y de recaudación de sus fondos con entidades de crédito y ahorro sujetas a la supervisión del Banco de España, siguiendo los procedimientos legalmente establecidos.",
-    "fuente": "Art. 199 TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 199.1: las entidades locales, de acuerdo con lo establecido en el art. 51 de la ley, podrán concertar con cualesquiera entidades financieras «operaciones de tesorería para cubrir déficit temporales de liquidez derivados de las diferencias de vencimientos de sus pagos e ingresos». El art. 199.2 les permite rentabilizar sus excedentes temporales mediante inversiones que reúnan condiciones de liquidez y seguridad.",
+    "fuente": "Art. 199.1 TRLRHL (RDLeg 2/2004)"
   },
   {
-    "q": "Según el art. 200 del TRLRHL (Capítulo III, contabilidad), el sistema de contabilidad de las entidades locales tiene por objeto, entre otros fines:",
+    "q": "Según el art. 200 del TRLRHL, las entidades locales y sus organismos autónomos quedan sometidos a:",
     "options": [
-      "Establecer el balance de la entidad local y el resultado económico-patrimonial del ejercicio",
-      "Únicamente registrar las quejas ciudadanas recibidas",
-      "Exclusivamente gestionar el padrón de habitantes",
-      "Solo controlar el consumo energético municipal"
+      "El régimen de contabilidad pública, en los términos establecidos en la propia ley",
+      "El Plan General de Contabilidad de la empresa española, con exclusión de toda norma contable pública",
+      "Un régimen contable de libre diseño por cada entidad, sin marco común alguno",
+      "Ningún régimen contable específico, al bastar la aprobación del presupuesto"
     ],
     "correct": 0,
-    "exp": "El art. 200 recoge los fines del sistema de contabilidad de las entidades locales, entre los que se incluye establecer el balance de la entidad y el resultado económico-patrimonial del ejercicio.",
-    "fuente": "Art. 200 TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 200.1: «Las entidades locales y sus organismos autónomos quedan sometidos al régimen de contabilidad pública en los términos establecidos en esta ley.» El art. 200.2 somete también a ese régimen a las sociedades mercantiles con participación total o mayoritaria local, sin perjuicio de su adaptación al Código de Comercio y al Plan General de Contabilidad de la empresa española. La sujeción al régimen de contabilidad pública conlleva la obligación de rendir cuentas al Tribunal de Cuentas (art. 201).",
+    "fuente": "Art. 200.1 TRLRHL (RDLeg 2/2004)"
   },
   {
-    "q": "Según el art. 201 del TRLRHL, la competencia para establecer los principios y normas de contabilidad, así como los planes de cuentas que han de aplicar las entidades locales, corresponde a:",
+    "q": "Según el art. 203.1 del TRLRHL, la competencia para aprobar las normas contables generales y la adaptación del Plan General de Contabilidad Pública a las entidades locales corresponde a:",
     "options": [
       "Cada Comunidad Autónoma de forma independiente",
       "El Ministerio de Hacienda",
@@ -15590,55 +15590,55 @@ const QUESTIONS = {
       "El Tribunal de Cuentas exclusivamente"
     ],
     "correct": 1,
-    "exp": "El art. 201 atribuye al Ministerio de Hacienda la competencia para determinar, con carácter general, los principios y normas de contabilidad aplicables a las entidades locales, así como la estructura de sus cuentas.",
-    "fuente": "Art. 201 TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 203.1: corresponde al Ministerio de Hacienda, a propuesta de la Intervención General de la Administración del Estado, aprobar las normas contables de carácter general, aprobar la adaptación del Plan General de Contabilidad Pública para las entidades locales, establecer los libros obligatorios y determinar la estructura y justificación de las cuentas, estados y demás documentos de la contabilidad pública.",
+    "fuente": "Art. 203.1 TRLRHL (RDLeg 2/2004)"
   },
   {
-    "q": "Según el art. 204 del TRLRHL, las entidades locales, sus organismos autónomos y las entidades públicas empresariales locales deben remitir al Tribunal de Cuentas la información relativa a:",
+    "q": "Según el art. 204.1 del TRLRHL, ¿a quién corresponde llevar y desarrollar la contabilidad financiera y el seguimiento, en términos financieros, de la ejecución de los presupuestos de la entidad local?",
     "options": [
-      "Exclusivamente los contratos menores del último trimestre",
-      "Solo el listado de proveedores extranjeros",
-      "Su actividad económico-financiera, en los términos y con la periodicidad que dicho órgano determine",
-      "Únicamente el número de empleados a tiempo parcial"
+      "Exclusivamente a una empresa auditora externa contratada al efecto",
+      "Al Tribunal de Cuentas, de forma directa",
+      "A la Intervención de la entidad local, de acuerdo con las normas generales y las dictadas por el Pleno de la corporación",
+      "A la Secretaría General, sin intervención del órgano interventor"
     ],
     "correct": 2,
-    "exp": "El art. 204 obliga a remitir al Tribunal de Cuentas la información sobre la actividad económico-financiera de las entidades locales, sus organismos autónomos y entidades públicas empresariales, conforme a la periodicidad y contenido que dicho órgano determine.",
-    "fuente": "Art. 204 TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 204.1: «A la Intervención de las entidades locales le corresponde llevar y desarrollar la contabilidad financiera y el seguimiento, en términos financieros, de la ejecución de los presupuestos de acuerdo con las normas generales y las dictadas por el Pleno de la corporación.» El art. 204.2 le atribuye además la inspección de la contabilidad de los organismos autónomos y de las sociedades mercantiles dependientes.",
+    "fuente": "Art. 204.1 TRLRHL (RDLeg 2/2004)"
   },
   {
-    "q": "Según el art. 205 del TRLRHL, la contabilidad de las entidades locales debe permitir rendir cuentas comprensibles y que reflejen la imagen fiel de:",
+    "q": "Según el art. 205 del TRLRHL, la contabilidad de los entes locales está organizada, entre otros fines, para:",
     "options": [
-      "Exclusivamente las horas extraordinarias del personal",
-      "Únicamente el estado del parque de vehículos municipal",
-      "Solo el número de expedientes tramitados en el año",
-      "El patrimonio, la situación financiera, los resultados y la ejecución del presupuesto"
+      "Controlar exclusivamente las horas extraordinarias del personal",
+      "Registrar únicamente el estado del parque de vehículos municipal",
+      "Contabilizar solo el número de expedientes tramitados en el año",
+      "Establecer el balance de la entidad local, determinar los resultados económico-patrimoniales y analíticos y registrar la ejecución de los presupuestos generales"
     ],
     "correct": 3,
-    "exp": "El art. 205 exige que la contabilidad de las entidades locales permita rendir cuentas que reflejen la imagen fiel del patrimonio, de la situación financiera, de los resultados y de la ejecución del presupuesto.",
-    "fuente": "Art. 205 TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 205 a) a d): la contabilidad local se organiza para establecer el balance de la entidad, poniendo de manifiesto la composición y situación de su patrimonio y sus variaciones; determinar los resultados desde un punto de vista económico-patrimonial; determinar los resultados analíticos, con el coste y rendimiento de los servicios; y registrar la ejecución de los presupuestos generales, poniendo de manifiesto los resultados presupuestarios. El artículo enumera once fines en total, hasta la letra k).",
+    "fuente": "Art. 205 a) a d) TRLRHL (RDLeg 2/2004)"
   },
   {
-    "q": "Según el art. 206 del TRLRHL, las entidades locales de ámbito territorial con población superior a un determinado número de habitantes deben aplicar el principio de contabilidad de:",
+    "q": "Según el art. 206 del TRLRHL, la contabilidad pública local se llevará en libros, registros y cuentas:",
     "options": [
-      "Devengo, de acuerdo con la normativa que se determine reglamentariamente",
-      "Ambos sistemas simultáneamente sin jerarquía entre ellos",
-      "Caja exclusivamente, sin ninguna excepción",
-      "Ninguno, la contabilidad local no está sujeta a principios generales"
+      "Según los procedimientos técnicos que sean más convenientes por la índole de las operaciones y situaciones que en ellos deban anotarse, de forma que facilite el cumplimiento de los fines del art. 205",
+      "Conforme a un único modelo en soporte papel, obligatorio para todas las entidades",
+      "Con el criterio que en cada caso decida el proveedor informático de la entidad",
+      "Según las instrucciones que dicte anualmente el Tribunal de Cuentas"
     ],
     "correct": 0,
-    "exp": "El art. 206, en línea con la normativa contable pública general, exige la aplicación del principio de devengo en la contabilidad de las entidades locales, conforme a las normas de desarrollo correspondientes.",
-    "fuente": "Art. 206 TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 206.1: «La contabilidad pública se llevará en libros, registros y cuentas según los procedimientos técnicos que sean más convenientes por la índole de las operaciones y de las situaciones que en ellos deban anotarse y de forma que facilite el cumplimiento de los fines señalados en el artículo anterior.» El art. 206.2 exige contabilizar la totalidad de los actos u operaciones con repercusión financiera, patrimonial o económica.",
+    "fuente": "Art. 206.1 TRLRHL (RDLeg 2/2004)"
   },
   {
-    "q": "Según el art. 207 del TRLRHL, la información contable de las entidades locales debe elaborarse con criterios homogéneos que permitan su:",
+    "q": "Según el art. 207 del TRLRHL, la Intervención de la entidad local remite al Pleno, por conducto de la presidencia, información de la ejecución de los presupuestos y del movimiento de la tesorería:",
     "options": [
-      "Modificación libre y discrecional por cada Interventor",
-      "Consolidación y agregación con otros niveles de la Administración Pública",
-      "Ocultación selectiva frente a la ciudadanía",
-      "Exclusión completa de cualquier auditoría externa"
+      "Nunca, por tratarse de información reservada",
+      "En los plazos y con la periodicidad que el Pleno establezca",
+      "Únicamente cada cuatro años, al renovarse la corporación",
+      "Solo cuando lo requiera el Ministerio de Hacienda"
     ],
     "correct": 1,
-    "exp": "El art. 207 exige la homogeneidad de la información contable local, con el fin de permitir su consolidación y agregación con la de otros niveles de la Administración Pública, en el marco de la contabilidad nacional.",
+    "exp": "Art. 207: «La Intervención de la entidad local remitirá al Pleno de la entidad, por conducto de la presidencia, información de la ejecución de los presupuestos y del movimiento de la tesorería por operaciones presupuestarias independientes y auxiliares del presupuesto y de su situación, en los plazos y con la periodicidad que el Pleno establezca.»",
     "fuente": "Art. 207 TRLRHL (RDLeg 2/2004)"
   },
   {
@@ -15650,19 +15650,19 @@ const QUESTIONS = {
       "Exclusivamente la enajenación de bienes patrimoniales"
     ],
     "correct": 2,
-    "exp": "El Capítulo III del Título VI del TRLRHL incluye la Sección 2ª ('Estados de cuentas anuales de las entidades locales'), que regula la Cuenta General y sus documentos anexos (arts. 208-212).",
-    "fuente": "Art. 207 TRLRHL (RDLeg 2/2004)"
+    "exp": "El Capítulo III del Título VI («De la contabilidad») se divide en la Sección 1.ª «Disposiciones generales» (arts. 200-207) y la Sección 2.ª «Estados de cuentas anuales de las entidades locales» (arts. 208-212), que regula la formación, contenido, memorias, rendición, publicidad y aprobación de la cuenta general.",
+    "fuente": "Capítulo III del Título VI TRLRHL, Sección 2.ª, arts. 208-212 (RDLeg 2/2004)"
   },
   {
-    "q": "Según el art. 210 del TRLRHL, la competencia para formar la Cuenta General corresponde, en las entidades locales, a la Intervención, correspondiendo su rendición a:",
+    "q": "Según el art. 210 del TRLRHL, el contenido, la estructura y las normas de elaboración de las cuentas de la propia entidad local y de sus organismos autónomos se determinan por:",
     "options": [
-      "Un notario designado ad hoc",
-      "El último funcionario que gestionó el expediente",
-      "Directamente al Tribunal de Cuentas, sin intervención municipal",
-      "El Presidente de la Entidad Local"
+      "Un notario designado ad hoc por la corporación",
+      "El último funcionario que gestionó el expediente contable",
+      "El Tribunal de Cuentas, directamente y sin intervención estatal",
+      "El Ministerio de Hacienda, a propuesta de la Intervención General de la Administración del Estado"
     ],
     "correct": 3,
-    "exp": "El art. 210, relativo a la competencia sobre la Cuenta General, atribuye a la Intervención su formación técnica y al Presidente de la Entidad su rendición, dentro de los plazos y trámites legalmente establecidos.",
+    "exp": "Art. 210: «El contenido, estructura y normas de elaboración de las cuentas a que se refieren los párrafos a) y b) del apartado 1 del artículo anterior, se determinarán por el Ministerio de Hacienda, a propuesta de la Intervención General de la Administración del Estado.»",
     "fuente": "Art. 210 TRLRHL (RDLeg 2/2004)"
   },
   {
@@ -15690,7 +15690,7 @@ const QUESTIONS = {
     "fuente": "Art. 212.4 TRLRHL (RDLeg 2/2004)"
   },
   {
-    "q": "Según el art. 212.5 del TRLRHL, las cuentas de las entidades locales, una vez aprobadas por el Pleno, se rinden al:",
+    "q": "Según el art. 212.5 del TRLRHL, una vez que el Pleno se ha pronunciado sobre la cuenta general, aprobándola o rechazándola, el presidente de la corporación la rendirá al:",
     "options": [
       "Consejo de Ministros",
       "Defensor del Pueblo",
@@ -15698,7 +15698,7 @@ const QUESTIONS = {
       "Banco de España"
     ],
     "correct": 2,
-    "exp": "Art. 212.5: las cuentas de las entidades locales y de todos los organismos y sociedades mercantiles dependientes de las mismas, una vez aprobadas por el Pleno, se rinden al Tribunal de Cuentas.",
+    "exp": "Art. 212.5 (redacción de la Ley 11/2020): «Una vez que el Pleno se haya pronunciado sobre la Cuenta General, aprobándola o rechazándola, el presidente de la corporación la rendirá al Tribunal de Cuentas.» La rendición procede por tanto también si el Pleno rechaza la cuenta.",
     "fuente": "Art. 212.5 TRLRHL (RDLeg 2/2004)"
   },
   {
@@ -15710,23 +15710,23 @@ const QUESTIONS = {
       "Intervención material del pago"
     ],
     "correct": 3,
-    "exp": "El art. 214.2 enumera las modalidades de ejercicio de la función interventora: intervención crítica o previa, intervención formal de la ordenación del pago e intervención material del pago (comprobación material de la inversión).",
-    "fuente": "Art. 214.2 TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 214.2: el ejercicio de la función interventora comprende a) la intervención crítica o previa de todo acto, documento o expediente susceptible de producir derechos u obligaciones de contenido económico o movimiento de fondos de valores; b) la intervención formal de la ordenación del pago; c) la intervención material del pago; y d) la intervención y comprobación material de las inversiones y de la aplicación de las subvenciones. Son cuatro modalidades, y la c) y la d) son distintas.",
+    "fuente": "Art. 214.2 c) TRLRHL (RDLeg 2/2004)"
   },
   {
     "q": "Según el art. 214.2 d) del TRLRHL, la función interventora comprende también la comprobación de:",
     "options": [
-      "La inversión, en relación con las obras, suministros, adquisiciones y servicios que se hayan contratado",
+      "La intervención y comprobación material de las inversiones y de la aplicación de las subvenciones",
       "Solo la puntualidad del personal directivo",
       "Exclusivamente la limpieza de los edificios municipales",
       "Únicamente la asistencia a las sesiones plenarias"
     ],
     "correct": 0,
-    "exp": "Art. 214.2 d): la función interventora comprende la comprobación material de la inversión, en relación con las obras, suministros, adquisiciones de bienes y servicios que hayan sido objeto de contratación.",
+    "exp": "Art. 214.2 d): el ejercicio de la función interventora comprende «la intervención y comprobación material de las inversiones y de la aplicación de las subvenciones». Las obras, suministros, adquisiciones y servicios aparecen, en cambio, en el art. 216.2 d), como supuesto en que el reparo suspende la tramitación del expediente.",
     "fuente": "Art. 214.2 d) TRLRHL (RDLeg 2/2004)"
   },
   {
-    "q": "Según el art. 218 del TRLRHL, el órgano interventor debe remitir anualmente al Pleno un informe resumen de los resultados del:",
+    "q": "Según el art. 213 del TRLRHL, los órganos interventores de las entidades locales deben remitir con carácter anual a la Intervención General de la Administración del Estado un informe resumen de los resultados del:",
     "options": [
       "Inventario general de bienes",
       "Control interno",
@@ -15734,8 +15734,8 @@ const QUESTIONS = {
       "Presupuesto del año siguiente"
     ],
     "correct": 1,
-    "exp": "El art. 218 exige que el órgano interventor eleve al Pleno, con carácter anual, un informe resumen de los resultados del control interno ejercido en el ejercicio correspondiente.",
-    "fuente": "Art. 218 TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 213, párrafo tercero: «Los órganos interventores de las Entidades Locales remitirán con carácter anual a la Intervención General de la Administración del Estado un informe resumen de los resultados de los citados controles desarrollados en cada ejercicio, en el plazo y con el contenido que se regulen en las normas indicadas en el párrafo anterior.» Distinto es el informe del art. 218.1, que se eleva al Pleno y versa sobre las resoluciones del presidente contrarias a los reparos y las principales anomalías en materia de ingresos.",
+    "fuente": "Art. 213, párrafo tercero, TRLRHL (RDLeg 2/2004)"
   },
   {
     "q": "Según el art. 222 del TRLRHL, el personal que realice funciones de control tiene derecho a recabar de las entidades sujetas a control:",
@@ -15746,7 +15746,7 @@ const QUESTIONS = {
       "Exclusivamente los datos ya publicados en el BOE"
     ],
     "correct": 2,
-    "exp": "El art. 222 reconoce al personal controlador el derecho a recabar cuantos datos, antecedentes o documentos sean necesarios para el ejercicio de las funciones de control, así como a acceder a los locales y dependencias correspondientes.",
+    "exp": "Art. 222: los funcionarios con la función interventora y los designados para los controles financiero y de eficacia ejercen su función con plena independencia y «podrán recabar cuantos antecedentes consideren necesarios, efectuar el examen y comprobación de los libros, cuentas y documentos que consideren precisos, verificar arqueos y recuentos y solicitar de quien corresponda, cuando la naturaleza del acto, documento o expediente que deba ser intervenido lo requiera, los informes técnicos y asesoramientos que estimen necesarios».",
     "fuente": "Art. 222 TRLRHL (RDLeg 2/2004)"
   },
   {
@@ -15771,7 +15771,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El control interno (función interventora y control financiero) se ejerce dentro de la propia Administración local de forma continua y preventiva; el control externo (Tribunal de Cuentas y, en su caso, órganos autonómicos equivalentes) se ejerce desde fuera de la entidad, generalmente con posterioridad, sobre las cuentas ya rendidas.",
-    "fuente": "TRLRHL (RDLeg 2/2004)"
+    "fuente": "Arts. 213 a 222 (control interno) y art. 223 (control externo) TRLRHL (RDLeg 2/2004)"
   },
   {
     "q": "¿Qué relación existe entre la aprobación del presupuesto (art. 168-169 TRLRHL) y el principio de estabilidad presupuestaria de la LO 2/2012?",
@@ -15782,8 +15782,8 @@ const QUESTIONS = {
       "El principio de estabilidad presupuestaria fue derogado por el TRLRHL"
     ],
     "correct": 1,
-    "exp": "La elaboración y aprobación del presupuesto de las Entidades Locales debe ajustarse a los objetivos de estabilidad presupuestaria, deuda pública y regla de gasto establecidos conforme a la Ley Orgánica 2/2012, de Estabilidad Presupuestaria y Sostenibilidad Financiera.",
-    "fuente": "TRLRHL (RDLeg 2/2004)"
+    "exp": "El art. 165.1 del TRLRHL exige que el presupuesto general atienda al cumplimiento del principio de estabilidad presupuestaria (el texto consolidado sigue remitiendo a la derogada Ley 18/2001, remisión que debe entenderse hecha a la Ley Orgánica 2/2012, de Estabilidad Presupuestaria y Sostenibilidad Financiera). Conforme a ella, la elaboración y aprobación del presupuesto de las entidades locales (arts. 168 y 169 TRLRHL) debe respetar los objetivos de estabilidad presupuestaria y de deuda pública y la regla de gasto.",
+    "fuente": "Art. 165.1 TRLRHL (RDLeg 2/2004) y arts. 3, 4 y 11 a 13 LO 2/2012"
   },
   {
     "q": "¿Qué papel desempeña el remanente de tesorería en la gestión presupuestaria de una entidad local?",
@@ -15794,8 +15794,8 @@ const QUESTIONS = {
       "Solo se calcula en los municipios de más de un millón de habitantes"
     ],
     "correct": 2,
-    "exp": "El remanente de tesorería, calculado en la liquidación del presupuesto, es un indicador clave de la situación financiera de la entidad, que puede aplicarse, entre otros destinos, a la financiación de determinadas modificaciones de crédito, conforme a la normativa presupuestaria.",
-    "fuente": "TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 191.2 TRLRHL: el remanente de tesorería lo configuran las obligaciones reconocidas y liquidadas no satisfechas el último día del ejercicio, los derechos pendientes de cobro y los fondos líquidos a 31 de diciembre, minorando los derechos de difícil o imposible recaudación. Arts. 101 a 104 del RD 500/1990: su cuantificación y, en particular, el art. 104.2, «El remanente de Tesorería positivo constituye un recurso para la financiación de modificaciones de créditos en el presupuesto»; el art. 104.4 prohíbe que forme parte de las previsiones iniciales de ingresos.",
+    "fuente": "Art. 191.2 TRLRHL (RDLeg 2/2004) y arts. 101 a 104 RD 500/1990"
   },
   {
     "q": "¿Qué relación existe entre la 'liquidación del presupuesto' (arts. 191-193 TRLRHL) y la 'Cuenta General' (arts. 208-212 TRLRHL)?",
@@ -15807,7 +15807,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "La liquidación del presupuesto es el acto técnico-contable que cierra la ejecución presupuestaria de un ejercicio (antes del 1 de marzo siguiente); sus resultados se integran, junto con otra documentación contable y patrimonial, en la Cuenta General, que se somete a informe de la Comisión Especial de Cuentas, exposición pública y aprobación por el Pleno, y posterior rendición al Tribunal de Cuentas.",
-    "fuente": "TRLRHL (RDLeg 2/2004)"
+    "fuente": "Arts. 191 a 193 y 208 a 212 TRLRHL (RDLeg 2/2004)"
   },
   {
     "q": "En conclusión, ¿qué ciclo completo describe el conjunto del Título VI del TRLRHL en relación con la gestión económico-financiera local?",
@@ -15818,8 +15818,8 @@ const QUESTIONS = {
       "Únicamente la recaudación de tributos, sin ninguna otra fase"
     ],
     "correct": 0,
-    "exp": "El Título VI del TRLRHL describe el ciclo presupuestario completo de las Entidades Locales: elaboración y aprobación del presupuesto (Cap. I), su ejecución a través de las fases del gasto y su liquidación (Cap. II), su reflejo en la contabilidad y la Cuenta General (Cap. III), y su control interno (función interventora, control financiero) y externo (Tribunal de Cuentas) posterior (Cap. IV).",
-    "fuente": "TRLRHL (RDLeg 2/2004)"
+    "exp": "El Título VI del TRLRHL (arts. 162-223) describe el ciclo presupuestario completo: elaboración y aprobación del presupuesto (Cap. I, Secciones 1.ª y 2.ª), su ejecución mediante las fases del gasto y su liquidación (Cap. I, Sección 3.ª, arts. 183-193 bis), la tesorería (Cap. II), su reflejo en la contabilidad y en la cuenta general (Cap. III) y el control interno y externo posterior (Cap. IV).",
+    "fuente": "Título VI TRLRHL, arts. 162-223 (RDLeg 2/2004)"
   },
   {
     "q": "¿Qué órgano tiene la competencia para aprobar las bases de ejecución del presupuesto de una entidad local?",
@@ -15830,8 +15830,8 @@ const QUESTIONS = {
       "La Comunidad Autónoma en todo caso"
     ],
     "correct": 1,
-    "exp": "Las bases de ejecución del presupuesto forman parte del expediente de presupuesto general y se aprueban por el Pleno de la Corporación junto con el propio presupuesto, conforme al procedimiento de los arts. 168 y 169 TRLRHL.",
-    "fuente": "TRLRHL (RDLeg 2/2004)"
+    "exp": "Art. 165.1 TRLRHL: el presupuesto general incluirá las bases de ejecución, que contienen la adaptación de las disposiciones generales en materia presupuestaria a la organización y circunstancias de la entidad. Al formar parte del presupuesto, se aprueban con él por el Pleno (arts. 168.4 y 169.1 y 2). El art. 9 del RD 500/1990 detalla su contenido mínimo: niveles de vinculación jurídica, créditos ampliables, transferencias, tramitación de ampliaciones, generaciones e incorporaciones, delegaciones en materia de autorización y disposición de gastos, pagos a justificar y anticipos de caja fija, y compromisos plurianuales, entre otras materias.",
+    "fuente": "Art. 165.1 TRLRHL (RDLeg 2/2004) y art. 9 RD 500/1990"
   },
   {
     "q": "¿Qué finalidad general persigue el principio de especialidad presupuestaria recogido en el art. 172 del TRLRHL?",
@@ -15854,8 +15854,8 @@ const QUESTIONS = {
       "Las modificaciones de crédito son los cauces legalmente previstos para alterar, de forma controlada y con las garantías procedimentales oportunas, la aplicación inicial de los créditos aprobados en el presupuesto"
     ],
     "correct": 3,
-    "exp": "Las distintas modificaciones de crédito (créditos extraordinarios, suplementos, transferencias, generaciones, incorporación de remanentes) constituyen los cauces legalmente tasados que permiten alterar la aplicación inicial de los créditos, respetando en todo caso el principio de especialidad y las garantías procedimentales del TRLRHL.",
-    "fuente": "TRLRHL (RDLeg 2/2004)"
+    "exp": "Las modificaciones de crédito son los cauces legalmente tasados para alterar la aplicación inicial de los créditos sin quebrar el principio de especialidad del art. 172.1 TRLRHL. El art. 34 del RD 500/1990 las enumera: créditos extraordinarios, suplementos de crédito, ampliaciones de crédito, transferencias de crédito, generación de créditos por ingresos, incorporación de remanentes de crédito y bajas por anulación (arts. 175 y 177 a 182 TRLRHL).",
+    "fuente": "Arts. 172.1, 175 y 177 a 182 TRLRHL (RDLeg 2/2004) y art. 34 RD 500/1990"
   },
 ],
 14:[

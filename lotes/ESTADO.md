@@ -2190,3 +2190,76 @@ datos que más se preguntan y el banco no lo tiene. Hace falta un lote del art.
 Otra novedad que conviene incorporar: la **letra m) del art. 48**, añadida por el
 art. 3 de la **Ley 6/2024**, sobre el tiempo indispensable para los actos
 preparatorios de la donación de órganos o tejidos.
+
+
+---
+
+## Tema 13 · auditado (22-ago-2026)
+
+Las 100 del banco original: **39 confirmadas, 61 corregidas, 0 descartadas y 0
+dudosas**. Nada era irrecuperable y ninguna se salía del Título VI. Citas sin
+artículo en el tema: **10 → 0**. En todo el banco: **89 → 79**.
+
+### Siete en las que ninguna de las cuatro opciones era cierta
+
+| Lo que enseñaba | Lo que dice el precepto |
+|---|---|
+| El art. 193 bis regula el período medio de pago a proveedores | Regula los **derechos de difícil o imposible recaudación**, con minoraciones mínimas del 25 % (dos ejercicios anteriores), 50 % (tercero), 75 % (cuarto y quinto) y 100 % (los restantes). El período medio de pago es la LO 2/2012 y el RD 635/2014 |
+| El art. 206 impone el principio de devengo y distingue por población | Es el **soporte de las anotaciones contables**: libros, registros y cuentas según los procedimientos técnicos más convenientes. La palabra «devengo» no aparece en todo el Título VI |
+| El art. 207 exige homogeneidad y consolidación con otros niveles de la Administración | Es la **información periódica de la Intervención al Pleno**, en los plazos y con la periodicidad que el Pleno establezca |
+| Los anexos del art. 166 incluyen convenios de gestión y recaudación de tributos y plantillas de personal | Son: planes y programas de inversión a cuatro años, programas de las sociedades mercantiles, **estado de consolidación** y estado de previsión de la deuda |
+| Los expedientes de crédito extraordinario y suplemento son «inmediatamente ejecutivos» | Solo lo son los de **calamidades públicas o de naturaleza análoga** (art. 177.6). El art. 38.1 RD 500/1990 solo pide que sean ejecutivos dentro del mismo ejercicio |
+| La disposición o compromiso exige un importe «determinado o determinable» | Art. 56.1 RD 500/1990: «**exactamente determinado**» |
+| El art. 214.2 d) habla de «obras, suministros, adquisiciones y servicios contratados» | Dice «intervención y comprobación material de **las inversiones y de la aplicación de las subvenciones**». Esa otra lista es del art. 216.2 d), sobre el origen del reparo |
+
+### Y catorce que atribuían al artículo citado algo que no dice
+
+No es azar: **todo el tramo de tesorería (arts. 194-199) y casi todo el de
+contabilidad (arts. 200-210) estaba desplazado o inventado**. El «manejo y
+custodia de fondos, valores y efectos» no está en el Título VI; el art. 195 no
+recoge ningún principio de separación de funciones; el art. 197 no regula el
+régimen de personal ni la habilitación nacional; la competencia contable no es
+del art. 201 sino del **203.1**; y los «principios de buena gestión financiera»
+no están en el art. 220.
+
+### La confusión ley/reglamento, que es el riesgo propio del tema
+
+**Quince preguntas la sufrían.** En **seis**, la respuesta la sostiene únicamente
+el RD 500/1990 y se citaba el TRLRHL: la definición de transferencia de crédito
+(art. 40.1), la autorización (54.1), la disposición (56.1), el reconocimiento de
+la obligación (58), la ordenación del pago (61) y el contenido de la liquidación
+(93.1 a). En las otras nueve se completó la cita con el precepto reglamentario
+que aporta el detalle.
+
+Dato que mide el problema: **antes de esta auditoría, ninguna de las 100 citaba
+el RD 500/1990**, aunque seis solo se sostienen en él. Ahora el tema tiene 56
+preguntas que lo citan, contando las 40 del lote t13-G.
+
+Ninguna enseñaba como vigente algo que el TRLRHL hubiera cambiado, y ninguna
+caía en el único desajuste conocido (art. 80 del RD frente al art. 174.2 e)
+TRLRHL).
+
+### La trampa del «acuerdo único»: no había caído nadie
+
+Ninguna pregunta cruzaba el «acuerdo de aprobación, que será único» del art.
+168.5 TRLRHL —que significa que no cabe aprobar por separado los presupuestos
+integrantes del general— con la «aprobación en acto único» del art. 48.3 d) de la
+ley de capitalidad, que es procedimental. La pregunta que trata el art. 168.5 lo
+hace limpiamente y ahora lleva la advertencia en su explicación.
+
+### Cuatro errores estructurales, y uno convertía un distractor en respuesta
+
+Cuatro preguntas daban el **Capítulo II del Título VI como «Ejecución y
+liquidación»**. El Capítulo II es «**De la tesorería de las entidades locales**»
+(arts. 194-199); la ejecución y liquidación es la Sección 3.ª del Capítulo I. Una
+de ellas afirmaba además que el Capítulo I tiene dos secciones cuando tiene
+tres, y eso **convertía un distractor en respuesta válida**. Y una citaba un
+«art. 180.4» inexistente: el art. 180 solo tiene dos apartados y el precepto
+buscado era el 179.4.
+
+### Cobertura de capitalidad: comprobada sobre el tema completo
+
+El auditor observó que ninguna de las 100 toca el art. 50 de la ley de
+capitalidad. Es cierto, y **medido sobre el tema completo hay 15**, las del lote
+`t13-F`. El bloque está cubierto; lo que no lo cubría era el material heredado.
+Misma comprobación y mismo resultado que en el tema 16.
