@@ -19766,7 +19766,7 @@ const QUESTIONS = {
     "fuente": "Art. 11.1 TREBEP (RDLeg 5/2015)"
   },
   {
-    "q": "Según el art. 12.1 del TREBEP, es personal eventual el que, en virtud de nombramiento y con carácter no permanente, ocupa un puesto de trabajo considerado como de:",
+    "q": "Según el art. 12.1 del TREBEP, es personal eventual el que, en virtud de nombramiento y con carácter no permanente, sólo realiza funciones expresamente calificadas como de:",
     "options": [
       "Habilitación de carácter nacional",
       "Máxima antigüedad en la plantilla",
@@ -19786,11 +19786,11 @@ const QUESTIONS = {
       "Se produzca el cese o expire el mandato de la autoridad a la que preste su función de confianza o asesoramiento"
     ],
     "correct": 3,
-    "exp": "Art. 12.3 TREBEP: 'El personal eventual cesará automáticamente cuando se produzca el cese o expire el mandato de la autoridad a la que preste su función de confianza o asesoramiento.'",
+    "exp": "Art. 12.3 TREBEP: 'El nombramiento y cese serán libres. El cese tendrá lugar, en todo caso, cuando se produzca el de la autoridad a la que se preste la función de confianza o asesoramiento.' En términos análogos, art. 104.2 LBRL.",
     "fuente": "Art. 12.3 TREBEP (RDLeg 5/2015)"
   },
   {
-    "q": "Según el art. 12.5 del TREBEP, la condición de personal eventual no puede constituir:",
+    "q": "Según el art. 12.4 del TREBEP, la condición de personal eventual no puede constituir:",
     "options": [
       "Mérito para el acceso a la función pública o para la promoción interna",
       "Antecedente para la percepción de complementos de productividad",
@@ -19798,8 +19798,8 @@ const QUESTIONS = {
       "Motivo de incompatibilidad con cualquier otra actividad"
     ],
     "correct": 0,
-    "exp": "Art. 12.5 TREBEP: 'La condición de personal eventual no podrá constituir mérito para el acceso a la Función Pública o para la promoción interna.'",
-    "fuente": "Art. 12.5 TREBEP (RDLeg 5/2015)"
+    "exp": "Art. 12.4 TREBEP: 'La condición de personal eventual no podrá constituir mérito para el acceso a la Función Pública o para la promoción interna.'",
+    "fuente": "Art. 12.4 TREBEP (RDLeg 5/2015)"
   },
   {
     "q": "Según el art. 13 del TREBEP, el personal directivo profesional se rige por:",
@@ -19882,7 +19882,7 @@ const QUESTIONS = {
       "El acoso sexual, por razón de sexo, moral y laboral"
     ],
     "correct": 3,
-    "exp": "Art. 14 h) TREBEP: derecho al respeto de su intimidad y dignidad en el trabajo, 'especialmente frente al acoso sexual y por razón de sexo, moral y laboral.'",
+    "exp": "Art. 14 h) TREBEP, en la redacción dada por la Ley 4/2023: derecho 'al respeto de su intimidad, orientación e identidad sexual, expresión de género, características sexuales, propia imagen y dignidad en el trabajo, especialmente frente al acoso sexual y por razón de sexo, de orientación e identidad sexual, expresión de género o características sexuales, moral y laboral'.",
     "fuente": "Art. 14 h) TREBEP (RDLeg 5/2015)"
   },
   {
@@ -19918,8 +19918,8 @@ const QUESTIONS = {
       "Falta disciplinaria muy grave"
     ],
     "correct": 2,
-    "exp": "El TREBEP establece que la deducción de haberes por el ejercicio de la huelga no tendrá carácter de sanción, ni afectará al régimen de las prestaciones sociales.",
-    "fuente": "TREBEP (RDLeg 5/2015)"
+    "exp": "Art. 30.2 TREBEP: quienes ejerciten el derecho de huelga no devengarán ni percibirán las retribuciones correspondientes al tiempo en que hayan permanecido en esa situación, 'sin que la deducción de haberes que se efectúe tenga carácter de sanción, ni afecte al régimen respectivo de sus prestaciones sociales'.",
+    "fuente": "Art. 30.2 TREBEP (RDLeg 5/2015)"
   },
   {
     "q": "¿Cómo se denomina el Capítulo I del Título III del TREBEP, que contiene el art. 14?",
@@ -19931,7 +19931,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "El Capítulo I del Título III del TREBEP se titula 'Derechos de los empleados públicos' y comprende los arts. 14 y 15.",
-    "fuente": "Capítulo I TREBEP (RDLeg 5/2015)"
+    "fuente": "Capítulo I del Título III TREBEP, arts. 14 y 15 (RDLeg 5/2015)"
   },
   {
     "q": "¿En qué Título del TREBEP se regulan las clases de personal al servicio de las Administraciones Públicas (arts. 8 a 13)?",
@@ -19943,7 +19943,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "Las clases de personal (arts. 8 a 13) se regulan en el Título II del TREBEP, dedicado al 'Personal al servicio de las Administraciones Públicas.'",
-    "fuente": "TREBEP (RDLeg 5/2015)"
+    "fuente": "Título II TREBEP, arts. 8 a 13 (RDLeg 5/2015)"
   },
   {
     "q": "¿Qué relación existe entre el funcionario de carrera y el funcionario interino, en cuanto al tipo de vínculo jurídico?",
@@ -19955,7 +19955,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "Tanto el funcionario de carrera como el interino tienen una relación estatutaria regulada por el Derecho Administrativo; la diferencia esencial radica en el carácter permanente (carrera) o temporal y justificado por necesidad y urgencia (interino) de dicha relación.",
-    "fuente": "TREBEP (RDLeg 5/2015)"
+    "fuente": "Arts. 9.1, 10.1 y 10.5 TREBEP (RDLeg 5/2015)"
   },
   {
     "q": "¿Puede el personal eventual ejercer funciones que impliquen participación directa o indirecta en el ejercicio de las potestades públicas?",
@@ -19967,7 +19967,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "El personal eventual, al desempeñar únicamente funciones de confianza o asesoramiento especial, no puede ejercer, con carácter general, funciones que impliquen participación directa o indirecta en el ejercicio de las potestades públicas, reservadas a los funcionarios.",
-    "fuente": "TREBEP (RDLeg 5/2015)"
+    "fuente": "Arts. 9.2 y 12.1 TREBEP (RDLeg 5/2015)"
   },
   {
     "q": "¿Qué relación existe entre el art. 9.2 del TREBEP y las funciones reservadas a funcionarios públicos?",
@@ -19991,7 +19991,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El TREBEP distingue el régimen estatutario (Derecho Administrativo) propio de los funcionarios de carrera e interinos, del régimen contractual laboral del personal laboral, y del régimen de nombramiento de confianza, no permanente, propio del personal eventual.",
-    "fuente": "TREBEP (RDLeg 5/2015)"
+    "fuente": "Arts. 8.2, 9.1, 11.1 y 12.1 TREBEP (RDLeg 5/2015)"
   },
   {
     "q": "En síntesis, ¿qué dos grandes bloques regula el Título II del TREBEP en relación con el personal al servicio de las Administraciones Públicas?",
@@ -20003,187 +20003,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El Título II del TREBEP se estructura en el Capítulo I ('Clases de personal', arts. 8 a 12) y el Capítulo II ('Personal directivo', art. 13).",
-    "fuente": "Título II TREBEP (RDLeg 5/2015)"
-  },
-  {
-    "q": "Según el art. 55.1 del TREBEP, todos los ciudadanos tienen derecho al acceso al empleo público de acuerdo con los principios constitucionales de:",
-    "options": [
-      "Antigüedad y confianza política",
-      "Concurso de méritos exclusivamente",
-      "Igualdad, mérito y capacidad",
-      "Nacionalidad exclusivamente"
-    ],
-    "correct": 2,
-    "exp": "Art. 55.1 TREBEP: 'Todos los ciudadanos tienen derecho al acceso al empleo público de acuerdo con los principios constitucionales de igualdad, mérito y capacidad.'",
-    "fuente": "Art. 55.1 TREBEP (RDLeg 5/2015)"
-  },
-  {
-    "q": "Según el art. 55.2 del TREBEP, las Administraciones Públicas seleccionarán a su personal, entre otros principios, con arreglo a los de:",
-    "options": [
-      "Discrecionalidad y confidencialidad absoluta",
-      "Proporcionalidad retributiva y jerarquía funcional",
-      "Antigüedad exclusiva del solicitante",
-      "Publicidad, transparencia y objetividad"
-    ],
-    "correct": 3,
-    "exp": "Art. 55.2 TREBEP: las Administraciones Públicas seleccionan a su personal con arreglo a los principios de publicidad, transparencia, objetividad e igualdad de oportunidades, entre otros.",
-    "fuente": "Art. 55.2 TREBEP (RDLeg 5/2015)"
-  },
-  {
-    "q": "Según el art. 56.1 del TREBEP, para participar en los procesos selectivos, entre otros requisitos, se exige tener la nacionalidad española o cumplir:",
-    "options": [
-      "Los requisitos previstos para el acceso al empleo público de nacionales de otros Estados",
-      "Únicamente el requisito de residencia continuada de diez años",
-      "Un permiso de residencia y trabajo vigente de cualquier tipo",
-      "Solo haber prestado servicio militar previo"
-    ],
-    "correct": 0,
-    "exp": "Art. 56.1 a) TREBEP: se exige poseer la nacionalidad española, sin perjuicio de lo dispuesto en el art. 57 sobre acceso de nacionales de otros Estados.",
-    "fuente": "Art. 56.1 a) TREBEP (RDLeg 5/2015)"
-  },
-  {
-    "q": "Según el art. 56.1 del TREBEP, entre los requisitos generales para participar en procesos selectivos se exige poseer la capacidad funcional para el desempeño de las tareas, y no haber sido separado mediante:",
-    "options": [
-      "Un simple acuerdo verbal sin ningún expediente",
-      "Expediente disciplinario del servicio de cualquier Administración Pública",
-      "Un despido disciplinario en el sector privado",
-      "Una excedencia voluntaria por interés particular"
-    ],
-    "correct": 1,
-    "exp": "Art. 56.1 d) TREBEP: se exige no haber sido separado mediante expediente disciplinario del servicio de cualquiera de las Administraciones Públicas.",
-    "fuente": "Art. 56.1 d) TREBEP (RDLeg 5/2015)"
-  },
-  {
-    "q": "Según el art. 56.1 c) del TREBEP, se exige tener cumplida la edad mínima de:",
-    "options": [
-      "Diecinueve años",
-      "Veinticinco años",
-      "Dieciséis años",
-      "Dieciocho años en todo caso, sin excepción"
-    ],
-    "correct": 2,
-    "exp": "Art. 56.1 c) TREBEP: se exige tener cumplidos dieciséis años y no exceder, en su caso, de la edad máxima de jubilación forzosa.",
-    "fuente": "Art. 56.1 c) TREBEP (RDLeg 5/2015)"
-  },
-  {
-    "q": "Según el art. 57.1 del TREBEP, tienen acceso al empleo público, en igualdad de condiciones que los españoles, los nacionales de:",
-    "options": [
-      "Los países de la Commonwealth británica",
-      "Cualquier país sin ninguna limitación",
-      "Únicamente países con convenio bilateral vigente",
-      "Los Estados miembros de la Unión Europea"
-    ],
-    "correct": 3,
-    "exp": "Art. 57.1 TREBEP: tienen acceso, en igualdad de condiciones que los españoles, los nacionales de los Estados miembros de la Unión Europea.",
-    "fuente": "Art. 57.1 TREBEP (RDLeg 5/2015)"
-  },
-  {
-    "q": "Según el art. 57.4 del TREBEP, por razones de interés general, puede eximirse del requisito de la nacionalidad para el acceso a la condición de personal funcionario, salvo para aquellos que impliquen participación directa o indirecta en el ejercicio de potestades públicas, mediante:",
-    "options": [
-      "Ley de las Cortes Generales o de las Asambleas Legislativas de las Comunidades Autónomas",
-      "Convenio internacional ratificado por España sin necesidad de ley",
-      "Decreto del Gobierno sin más trámite",
-      "Resolución del Secretario de Estado de Función Pública"
-    ],
-    "correct": 0,
-    "exp": "Art. 57.4 TREBEP: la exención del requisito de nacionalidad, en su caso, se realiza mediante ley de las Cortes Generales o de las Asambleas Legislativas de las Comunidades Autónomas.",
-    "fuente": "Art. 57.4 TREBEP (RDLeg 5/2015)"
-  },
-  {
-    "q": "Según el art. 59.1 del TREBEP, en las ofertas de empleo público se reservará un cupo no inferior al:",
-    "options": [
-      "Cinco por ciento de las vacantes",
-      "Siete por ciento de las vacantes para personas con discapacidad",
-      "Quince por ciento de las vacantes",
-      "Tres por ciento de las vacantes"
-    ],
-    "correct": 1,
-    "exp": "Art. 59.1 TREBEP: se reservará un cupo no inferior al siete por ciento de las vacantes para ser cubiertas entre personas con discapacidad.",
-    "fuente": "Art. 59.1 TREBEP (RDLeg 5/2015)"
-  },
-  {
-    "q": "Según el art. 59.1 del TREBEP, de ese cupo del siete por ciento, al menos el dos por ciento de las plazas ofertadas debe reservarse para personas que acrediten discapacidad:",
-    "options": [
-      "Sensorial auditiva únicamente",
-      "discapacidad visual",
-      "Intelectual",
-      "Física exclusivamente"
-    ],
-    "correct": 2,
-    "exp": "Art. 59.1 TREBEP: al menos el dos por ciento de las plazas ofertadas debe reservarse para personas que acrediten discapacidad intelectual, y el resto para cualquier otro tipo de discapacidad.",
-    "fuente": "Art. 59.1 TREBEP (RDLeg 5/2015)"
-  },
-  {
-    "q": "Según el art. 60.1 del TREBEP, los órganos de selección deben ajustar su actuación a los principios de imparcialidad y profesionalidad, y tender a la paridad entre:",
-    "options": [
-      "Funcionarios de carrera e interinos",
-      "Personal laboral y personal eventual",
-      "Personal funcionario y personal directivo",
-      "Mujeres y hombres"
-    ],
-    "correct": 3,
-    "exp": "Art. 60.1 TREBEP: los órganos de selección serán colegiados y su composición deberá ajustarse a los principios de imparcialidad y profesionalidad, tendiendo a la paridad entre mujer y hombre.",
-    "fuente": "Art. 60.1 TREBEP (RDLeg 5/2015)"
-  },
-  {
-    "q": "Según el art. 61.1 del TREBEP, los procesos selectivos deben tener carácter abierto y garantizar la libre concurrencia, sin perjuicio de lo establecido para la promoción interna y las medidas de:",
-    "options": [
-      "Discriminación positiva previstas en el propio Estatuto",
-      "Reserva exclusiva para personal eventual",
-      "Exclusión de personas con discapacidad",
-      "Movilidad interadministrativa prevista en la normativa de función pública"
-    ],
-    "correct": 0,
-    "exp": "Art. 61.1 TREBEP: los procesos selectivos tendrán carácter abierto y garantizarán la libre concurrencia, sin perjuicio de lo establecido para la promoción interna y de las medidas de discriminación positiva previstas en este Estatuto.",
-    "fuente": "Art. 61.1 TREBEP (RDLeg 5/2015)"
-  },
-  {
-    "q": "Según el art. 61.2 del TREBEP, los sistemas selectivos de funcionarios de carrera serán, con carácter general, la oposición o el:",
-    "options": [
-      "Concurso exclusivo de méritos, como sistema general",
-      "Concurso-oposición, con las fases que se establezcan reglamentariamente",
-      "Sorteo público entre los candidatos presentados",
-      "Nombramiento directo por la autoridad competente"
-    ],
-    "correct": 1,
-    "exp": "Art. 61.2 TREBEP: los sistemas selectivos de funcionarios de carrera serán, con carácter general, la oposición o el concurso-oposición, que deberán incluir, en todo caso, una o varias pruebas.",
-    "fuente": "Art. 61.2 TREBEP (RDLeg 5/2015)"
-  },
-  {
-    "q": "Según el art. 62.1 del TREBEP, la condición de funcionario de carrera se adquiere por el cumplimiento sucesivo de los requisitos de superar el proceso selectivo, ser nombrado por el órgano competente, y además:",
-    "options": [
-      "Superar un período de prácticas tutorizado de seis meses",
-      "Superar un examen médico adicional posterior al nombramiento",
-      "Prestar juramento o promesa y acatamiento a la Constitución y al resto del ordenamiento jurídico, y tomar posesión dentro del plazo establecido",
-      "Obtener la aprobación expresa de una autoridad distinta a la que efectuó el nombramiento"
-    ],
-    "correct": 2,
-    "exp": "Art. 62.1 TREBEP: la condición de funcionario de carrera se adquiere sucesivamente por la superación del proceso selectivo, el nombramiento por el órgano competente, la prestación de juramento o promesa de acatamiento a la Constitución y al resto del ordenamiento jurídico, y la toma de posesión dentro del plazo establecido.",
-    "fuente": "Art. 62.1 TREBEP (RDLeg 5/2015)"
-  },
-  {
-    "q": "¿En qué Título del TREBEP se regula el acceso al empleo público y la adquisición de la relación de servicio (arts. 55 a 62)?",
-    "options": [
-      "Título II",
-      "Título V",
-      "Título III",
-      "Título IV"
-    ],
-    "correct": 3,
-    "exp": "El acceso al empleo público (Capítulo I, arts. 55 a 62) se regula dentro del Título IV del TREBEP, 'Adquisición y pérdida de la relación de servicio.'",
-    "fuente": "Art. 54 TREBEP (RDLeg 5/2015)"
-  },
-  {
-    "q": "¿Qué relación existe entre el principio de mérito y capacidad (art. 55 TREBEP) y la reserva de plazas para personas con discapacidad (art. 59 TREBEP)?",
-    "options": [
-      "La reserva de plazas es una medida de discriminación positiva compatible con el principio de mérito y capacidad, garantizando la igualdad real de oportunidades en el acceso al empleo público",
-      "La reserva de plazas contradice y anula por completo el principio de mérito y capacidad",
-      "La reserva de plazas del art. 59 solo se aplica en el ámbito de la Administración General del Estado",
-      "El art. 59 TREBEP deroga tácitamente el principio general del art. 55"
-    ],
-    "correct": 0,
-    "exp": "La reserva de plazas para personas con discapacidad constituye una medida de discriminación positiva, compatible con el principio de mérito y capacidad, orientada a garantizar la igualdad real de oportunidades en el acceso al empleo público.",
-    "fuente": "TREBEP (RDLeg 5/2015)"
+    "fuente": "Título II TREBEP: Capítulo I, arts. 8 a 12, y Capítulo II, art. 13 (RDLeg 5/2015)"
   },
   {
     "q": "Según el art. 22.1 del TREBEP, las retribuciones de los funcionarios de carrera se clasifican en:",
@@ -20339,7 +20159,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "Las retribuciones (arts. 21 a 30) se regulan en el Capítulo III del Título III del TREBEP, dedicado a los 'Derechos retributivos.'",
-    "fuente": "TREBEP (RDLeg 5/2015)"
+    "fuente": "Capítulo III del Título III TREBEP, arts. 21 a 30 (RDLeg 5/2015)"
   },
   {
     "q": "¿Qué relación existe entre el 'sueldo' y los 'trienios', ambos como componentes de las retribuciones básicas del art. 23 TREBEP?",
@@ -20351,7 +20171,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "El sueldo retribuye la pertenencia a un Subgrupo o Grupo de clasificación profesional; los trienios retribuyen específicamente la antigüedad, devengándose una cantidad igual para todo el Subgrupo o Grupo cada tres años de servicio.",
-    "fuente": "TREBEP (RDLeg 5/2015)"
+    "fuente": "Art. 23 a) y b) TREBEP (RDLeg 5/2015)"
   },
   {
     "q": "¿Qué relación existe entre las retribuciones complementarias del art. 24 TREBEP y el puesto de trabajo concreto que ocupa el funcionario?",
@@ -20363,7 +20183,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "A diferencia de las retribuciones básicas (vinculadas al Subgrupo/Grupo y a la antigüedad), las retribuciones complementarias están vinculadas a las características del puesto de trabajo concreto, la carrera profesional y el desempeño, rendimiento o resultados del funcionario.",
-    "fuente": "TREBEP (RDLeg 5/2015)"
+    "fuente": "Arts. 22.2, 22.3 y 24 TREBEP (RDLeg 5/2015)"
   },
   {
     "q": "Según el art. 48 a) del TREBEP, el permiso por accidente o enfermedad graves del cónyuge, pareja de hecho o parientes hasta el primer grado de consanguinidad o afinidad, cuando precise reposo domiciliario, es de:",
@@ -20374,7 +20194,7 @@ const QUESTIONS = {
       "Dos días hábiles"
     ],
     "correct": 0,
-    "exp": "Art. 48 a) TREBEP: el permiso en estos casos es de cinco días hábiles cuando el suceso se produzca en la misma localidad.",
+    "exp": "Art. 48 a), párrafo primero, TREBEP (redacción del RDL 5/2023): cinco días hábiles por accidente o enfermedad graves, hospitalización o intervención quirúrgica sin hospitalización que precise reposo domiciliario del cónyuge, pareja de hecho o parientes hasta el primer grado, sin que este permiso distinga según la localidad en que se produzca el suceso (esa distinción sólo opera en el permiso por fallecimiento).",
     "fuente": "Art. 48 a) TREBEP (RDLeg 5/2015)"
   },
   {
@@ -20386,7 +20206,7 @@ const QUESTIONS = {
       "Un día hábil"
     ],
     "correct": 1,
-    "exp": "Art. 48 a) TREBEP: para parientes de segundo grado de consanguinidad o afinidad, el permiso es de cuatro días hábiles (en la misma localidad; se ampliaría en distinta localidad).",
+    "exp": "Art. 48 a), párrafo segundo, TREBEP: cuando el accidente o enfermedad graves, la hospitalización o la intervención quirúrgica sin hospitalización que precise reposo domiciliario afecten a un familiar dentro del segundo grado de consanguinidad o afinidad, el permiso será de cuatro días hábiles, sin distinción según la localidad.",
     "fuente": "Art. 48 a) TREBEP (RDLeg 5/2015)"
   },
   {
@@ -20410,8 +20230,8 @@ const QUESTIONS = {
       "Durante los días de su celebración"
     ],
     "correct": 3,
-    "exp": "Art. 48 TREBEP: 'Para concurrir a exámenes finales y demás pruebas definitivas de aptitud, durante los días de su celebración.'",
-    "fuente": "Art. 48 TREBEP (RDLeg 5/2015)"
+    "exp": "Art. 48 d) TREBEP: 'Para concurrir a exámenes finales y demás pruebas definitivas de aptitud, durante los días de su celebración.'",
+    "fuente": "Art. 48 d) TREBEP (RDLeg 5/2015)"
   },
   {
     "q": "Según el art. 48 del TREBEP, el permiso por lactancia de un hijo menor de doce meses da derecho a una ausencia del trabajo de:",
@@ -20422,8 +20242,8 @@ const QUESTIONS = {
       "Una hora y media, que solo podrá disfrutarse de forma continuada."
     ],
     "correct": 0,
-    "exp": "Art. 48 TREBEP: el permiso de lactancia da derecho a una hora de ausencia del trabajo, que se podrá dividir en dos fracciones.",
-    "fuente": "Art. 48 TREBEP (RDLeg 5/2015)"
+    "exp": "Art. 48 f) TREBEP: por lactancia de un hijo menor de doce meses, una hora de ausencia del trabajo que podrá dividirse en dos fracciones, sustituible por una reducción de jornada de media hora al inicio y al final o de una hora al inicio o al final.",
+    "fuente": "Art. 48 f) TREBEP (RDLeg 5/2015)"
   },
   {
     "q": "Según el art. 48 del TREBEP, el derecho al permiso de lactancia constituye un derecho individual de los funcionarios que:",
@@ -20434,19 +20254,19 @@ const QUESTIONS = {
       "Solo puede transferirse su ejercicio cuando ambos progenitores presten servicio en la misma Administración."
     ],
     "correct": 1,
-    "exp": "Art. 48 TREBEP: el permiso de lactancia constituye un derecho individual de los funcionarios, sin que pueda transferirse su ejercicio al otro progenitor, adoptante, guardador o acogedor.",
-    "fuente": "Art. 48 TREBEP (RDLeg 5/2015)"
+    "exp": "Art. 48 f), párrafo segundo, TREBEP: el permiso por lactancia 'constituye un derecho individual de los funcionarios, sin que pueda transferirse su ejercicio al otro progenitor, adoptante, guardador o acogedor'.",
+    "fuente": "Art. 48 f) TREBEP (RDLeg 5/2015)"
   },
   {
-    "q": "Según el art. 48 k) del TREBEP, los días de permiso por asuntos particulares no pueden acumularse a:",
+    "q": "El art. 48 k) del TREBEP reconoce el permiso por asuntos particulares con una duración anual de:",
     "options": [
-      "Los permisos por accidente o enfermedad grave de un familiar.",
-      "Los permisos por lactancia",
-      "Las vacaciones anuales",
-      "Los permisos por matrimonio"
+      "Tres días",
+      "Nueve días",
+      "Seis días",
+      "Cuatro días, más uno por cada trienio de servicio"
     ],
     "correct": 2,
-    "exp": "Art. 48 k) TREBEP: los días de permiso por asuntos particulares no podrán acumularse a las vacaciones anuales retribuidas.",
+    "exp": "Art. 48 k) TREBEP: 'Por asuntos particulares, seis días al año.' El precepto no fija ninguna limitación de acumulación a las vacaciones, que en su caso deriva de las instrucciones sobre jornada y horarios de cada Administración.",
     "fuente": "Art. 48 k) TREBEP (RDLeg 5/2015)"
   },
   {
@@ -20458,7 +20278,7 @@ const QUESTIONS = {
       "Quince días"
     ],
     "correct": 3,
-    "exp": "Art. 48 l) TREBEP: 'El permiso por matrimonio será de quince días.'",
+    "exp": "Art. 48 l) TREBEP, en la redacción dada por el RDL 5/2023: 'Por matrimonio o registro o constitución formalizada por documento público de pareja de hecho, quince días.'",
     "fuente": "Art. 48 l) TREBEP (RDLeg 5/2015)"
   },
   {
@@ -20470,8 +20290,8 @@ const QUESTIONS = {
       "Con un máximo tasado de tres días en todo caso"
     ],
     "correct": 0,
-    "exp": "Art. 48 TREBEP: se concede permiso 'por el tiempo indispensable para el cumplimiento de un deber inexcusable de carácter público o personal.'",
-    "fuente": "Art. 48 TREBEP (RDLeg 5/2015)"
+    "exp": "Art. 48 j) TREBEP: permiso 'por tiempo indispensable para el cumplimiento de un deber inexcusable de carácter público o personal y por deberes relacionados con la conciliación de la vida familiar y laboral'.",
+    "fuente": "Art. 48 j) TREBEP (RDLeg 5/2015)"
   },
   {
     "q": "¿En qué artículo del TREBEP se regulan específicamente los permisos por motivos de conciliación de la vida personal, familiar y laboral, por razón de violencia de género o violencia sexual, y para víctimas de terrorismo?",
@@ -20486,7 +20306,7 @@ const QUESTIONS = {
     "fuente": "Art. 49 TREBEP (RDLeg 5/2015)"
   },
   {
-    "q": "Según el art. 50 del TREBEP, los funcionarios tendrán derecho a disfrutar, durante cada año completo de servicio activo, de unas vacaciones retribuidas de:",
+    "q": "Según el art. 50.1 del TREBEP, los funcionarios públicos tendrán derecho a disfrutar, durante cada año natural, de unas vacaciones retribuidas de:",
     "options": [
       "Veinticinco días hábiles, con independencia del tiempo de servicios prestados.",
       "Treinta días naturales sin excepción",
@@ -20494,32 +20314,32 @@ const QUESTIONS = {
       "Quince días hábiles improrrogables"
     ],
     "correct": 2,
-    "exp": "Art. 50.1 TREBEP: los funcionarios tendrán derecho a disfrutar, durante cada año completo de servicio activo, de una vacación retribuida de veintidós días hábiles, o de los días que correspondan proporcionalmente al tiempo de servicios efectivos.",
+    "exp": "Art. 50.1 TREBEP: 'Los funcionarios públicos tendrán derecho a disfrutar, durante cada año natural, de unas vacaciones retribuidas de veintidós días hábiles, o de los días que correspondan proporcionalmente si el tiempo de servicio durante el año fue menor.' No se consideran días hábiles los sábados.",
     "fuente": "Art. 50.1 TREBEP (RDLeg 5/2015)"
   },
   {
-    "q": "Según el art. 50 del TREBEP, además de los días de vacación ordinaria, se puede tener derecho a días adicionales de vacación en función de:",
+    "q": "Según la disposición adicional decimocuarta del TREBEP, cada Administración Pública podrá establecer días adicionales de vacaciones en función de:",
     "options": [
       "El número de hijos a cargo del funcionario",
       "La titulación académica obtenida",
-      "El grado de discapacidad reconocido, con independencia de la antigüedad.",
-      "Los años de servicio prestados, conforme a la escala que se determine"
+      "El grado de discapacidad reconocido, con independencia de la antigüedad",
+      "El tiempo de servicios prestados por los funcionarios públicos, hasta un máximo de cuatro días"
     ],
     "correct": 3,
-    "exp": "El art. 50 TREBEP (en relación con la disposición adicional decimocuarta) prevé el disfrute de días adicionales de vacación en función de los años de servicio prestados.",
-    "fuente": "Art. 50 TREBEP (RDLeg 5/2015)"
+    "exp": "Disposición adicional decimocuarta TREBEP: 'Cada Administración Pública podrá establecer hasta un máximo de cuatro días adicionales de vacaciones en función del tiempo de servicios prestados por los funcionarios públicos.' El art. 50 no regula estos días.",
+    "fuente": "Disposición adicional decimocuarta TREBEP (RDLeg 5/2015)"
   },
   {
-    "q": "Según el art. 47 del TREBEP, las Administraciones Públicas establecen la jornada general y las especiales de trabajo de sus funcionarios públicos, respetando en todo caso:",
+    "q": "Según el art. 47.1 del TREBEP, la jornada de trabajo de los funcionarios públicos que establezcan las Administraciones Públicas podrá ser:",
     "options": [
-      "La duración máxima de la jornada de trabajo establecida en la normativa sobre incompatibilidades",
-      "El límite de treinta y cinco horas semanales fijado con carácter general para todas las Administraciones Públicas.",
-      "Un mínimo de cuarenta y ocho horas semanales",
-      "La ausencia de cualquier límite máximo, según necesidades del servicio"
+      "A tiempo completo o a tiempo parcial",
+      "Únicamente a tiempo completo, con un mínimo de treinta y siete horas y media semanales",
+      "A tiempo completo, salvo para los funcionarios interinos, cuya jornada será siempre a tiempo parcial",
+      "Fijada libremente por cada funcionario en función de las necesidades del servicio"
     ],
     "correct": 0,
-    "exp": "Art. 47 TREBEP: las Administraciones Públicas establecerán la jornada general y las especiales de trabajo, respetando la duración máxima de la jornada de trabajo que establezca la normativa aplicable.",
-    "fuente": "Art. 47 TREBEP (RDLeg 5/2015)"
+    "exp": "Art. 47.1 TREBEP: 'Las Administraciones Públicas establecerán la jornada general y las especiales de trabajo de sus funcionarios públicos. La jornada de trabajo podrá ser a tiempo completo o a tiempo parcial.'",
+    "fuente": "Art. 47.1 TREBEP (RDLeg 5/2015)"
   },
   {
     "q": "Según el art. 51 del TREBEP, la jornada de trabajo, los permisos y las vacaciones del personal laboral se rigen, en primer término, por:",
@@ -20542,8 +20362,8 @@ const QUESTIONS = {
       "El permiso por traslado de domicilio es más extenso que el de matrimonio"
     ],
     "correct": 2,
-    "exp": "El permiso por matrimonio o constitución de pareja de hecho (quince días) es sustancialmente más extenso que el permiso por traslado de domicilio sin cambio de residencia (un día), reflejando la distinta naturaleza y trascendencia de cada supuesto.",
-    "fuente": "TREBEP (RDLeg 5/2015)"
+    "exp": "El permiso por matrimonio o registro o constitución formalizada por documento público de pareja de hecho (art. 48 l, quince días) es sustancialmente más extenso que el permiso por traslado de domicilio sin cambio de residencia (art. 48 b, un día).",
+    "fuente": "Art. 48 b) y l) TREBEP (RDLeg 5/2015)"
   },
   {
     "q": "¿Qué relación existe entre la duración del permiso por accidente o enfermedad grave según el grado de parentesco (art. 48 a TREBEP) y el criterio de proximidad familiar?",
@@ -20554,32 +20374,20 @@ const QUESTIONS = {
       "A mayor proximidad de parentesco (primer grado) corresponde una mayor duración del permiso (cinco días) que en el segundo grado (cuatro días)"
     ],
     "correct": 3,
-    "exp": "El TREBEP establece una duración mayor del permiso (cinco días hábiles) para el primer grado de consanguinidad o afinidad, frente a los cuatro días hábiles previstos para el segundo grado, reflejando el criterio de proximidad familiar.",
-    "fuente": "TREBEP (RDLeg 5/2015)"
+    "exp": "Art. 48 a) TREBEP: cinco días hábiles cuando el accidente o enfermedad graves afectan al cónyuge, pareja de hecho o parientes hasta el primer grado, y cuatro días hábiles cuando afectan a un familiar dentro del segundo grado, reflejando el criterio de proximidad familiar.",
+    "fuente": "Art. 48 a) TREBEP (RDLeg 5/2015)"
   },
   {
     "q": "¿Qué relación existe entre los 'días de asuntos particulares' del art. 48 k) TREBEP y las 'vacaciones anuales' del art. 50 TREBEP?",
     "options": [
-      "Son conceptos jurídicamente distintos, no pudiendo acumularse los días de asuntos particulares a las vacaciones anuales retribuidas",
+      "Son conceptos jurídicamente distintos: los asuntos particulares son un permiso del art. 48 k) de seis días al año, mientras que las vacaciones son un derecho anual retribuido de veintidós días hábiles del art. 50.1",
       "Los días de asuntos particulares sustituyen automáticamente a las vacaciones anuales",
       "Son exactamente el mismo concepto con dos nombres distintos",
       "Los días de asuntos particulares se computan como parte integrante de las vacaciones anuales retribuidas."
     ],
     "correct": 0,
-    "exp": "El TREBEP distingue claramente los días de asuntos particulares (permiso específico del art. 48 k) de las vacaciones anuales retribuidas (art. 50), estableciendo expresamente que no pueden acumularse entre sí.",
-    "fuente": "Art. 48 k) TREBEP (RDLeg 5/2015)"
-  },
-  {
-    "q": "¿Qué relación existe, con carácter general, entre la duración de la jornada de trabajo (art. 47 TREBEP) y la normativa sobre incompatibilidades del personal al servicio de las Administraciones Públicas?",
-    "options": [
-      "No existe ninguna relación entre ambas normativas",
-      "La jornada máxima establecida debe respetar los límites fijados por la normativa sobre incompatibilidades, que limita la posibilidad de desempeñar actividades adicionales",
-      "La normativa sobre incompatibilidades deroga tácitamente el artículo 47 TREBEP en materia de jornada.",
-      "La normativa de incompatibilidades permite superar libremente cualquier límite de jornada"
-    ],
-    "correct": 1,
-    "exp": "El art. 47 TREBEP remite expresamente a la normativa sobre incompatibilidades para fijar la duración máxima de la jornada de trabajo, en coherencia con los límites que dicha normativa impone al desempeño de actividades adicionales por los empleados públicos.",
-    "fuente": "Art. 47 TREBEP (RDLeg 5/2015)"
+    "exp": "El TREBEP distingue el permiso por asuntos particulares (art. 48 k, seis días al año) del derecho a vacaciones retribuidas (art. 50.1: veintidós días hábiles por año natural, o los proporcionales si el servicio fue menor). Son títulos jurídicos distintos; el art. 48 k) no establece ninguna prohibición de acumulación.",
+    "fuente": "Arts. 48 k) y 50.1 TREBEP (RDLeg 5/2015)"
   },
   {
     "q": "En conclusión, ¿qué tres grandes bloques temáticos, relacionados con las clases y derechos de los empleados públicos, se han estudiado en este tema a partir del TREBEP?",
@@ -20591,7 +20399,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "Este tema ha abordado las clases de empleados públicos (arts. 8 a 13 TREBEP), sus derechos individuales y colectivos (arts. 14 y 15), y sus derechos retributivos, de jornada, permisos y vacaciones (arts. 21 a 30 y 47 a 51), constituyendo el núcleo básico del régimen de personal al servicio de las Administraciones Públicas.",
-    "fuente": "TREBEP (RDLeg 5/2015)"
+    "fuente": "Títulos II y III TREBEP: arts. 8 a 13, 14 y 15, 21 a 30 y 47 a 51 (RDLeg 5/2015)"
   },
   {
     "q": "Según el art. 16.2 del TREBEP, la carrera profesional es el conjunto ordenado de oportunidades de ascenso y expectativas de progreso profesional conforme a los principios de:",
@@ -20678,7 +20486,7 @@ const QUESTIONS = {
     "fuente": "Art. 20.1 TREBEP (RDLeg 5/2015)"
   },
   {
-    "q": "Según el art. 20.1 del TREBEP, los sistemas de evaluación del desempeño deben adecuarse a criterios de transparencia, objetividad y:",
+    "q": "Según el art. 20.2 del TREBEP, los sistemas de evaluación del desempeño deben adecuarse a criterios de transparencia, objetividad y:",
     "options": [
       "Confidencialidad absoluta frente al evaluado",
       "Discrecionalidad exclusiva del superior jerárquico",
@@ -20686,8 +20494,8 @@ const QUESTIONS = {
       "Proporcionalidad presupuestaria"
     ],
     "correct": 2,
-    "exp": "Art. 20.1 TREBEP: los sistemas de evaluación deben adecuarse a criterios de transparencia, objetividad, imparcialidad y no discriminación, sin menoscabar los derechos de los empleados públicos.",
-    "fuente": "Art. 20.1 TREBEP (RDLeg 5/2015)"
+    "exp": "Art. 20.2 TREBEP: 'Los sistemas de evaluación del desempeño se adecuarán, en todo caso, a criterios de transparencia, objetividad, imparcialidad y no discriminación y se aplicarán sin menoscabo de los derechos de los empleados públicos.'",
+    "fuente": "Art. 20.2 TREBEP (RDLeg 5/2015)"
   },
   {
     "q": "Según el art. 20.3 del TREBEP, las Administraciones Públicas determinarán los efectos de la evaluación del desempeño en, entre otros aspectos, la percepción de:",
@@ -20723,7 +20531,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El Capítulo II del Título III del TREBEP se titula 'Derecho a la carrera profesional y a la promoción interna. La evaluación del desempeño' y comprende los arts. 16 a 20.",
-    "fuente": "Título III TREBEP (RDLeg 5/2015)"
+    "fuente": "Capítulo II del Título III TREBEP, arts. 16 a 20 (RDLeg 5/2015)"
   },
   {
     "q": "¿Qué relación existe entre la carrera horizontal (art. 16.3 a TREBEP) y la carrera vertical (art. 16.3 b TREBEP)?",
@@ -20735,7 +20543,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "La diferencia esencial radica en que la carrera horizontal implica progreso de grado o categoría sin cambiar de puesto de trabajo, mientras que la carrera vertical implica el ascenso efectivo en la estructura de puestos mediante los procedimientos de provisión (concurso, libre designación, etc.).",
-    "fuente": "TREBEP (RDLeg 5/2015)"
+    "fuente": "Art. 16.3 a) y b) TREBEP (RDLeg 5/2015)"
   },
   {
     "q": "¿Qué relación existe entre la 'promoción interna vertical' y la 'promoción interna horizontal' reguladas en el art. 16.3 TREBEP?",
@@ -20747,7 +20555,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "La promoción interna vertical implica el ascenso a un Subgrupo o Grupo de clasificación superior; la promoción interna horizontal implica el acceso a cuerpos o escalas distintos dentro del mismo Subgrupo profesional, sin cambio de nivel.",
-    "fuente": "TREBEP (RDLeg 5/2015)"
+    "fuente": "Art. 16.3 c) y d) TREBEP (RDLeg 5/2015)"
   },
   {
     "q": "¿Qué papel desempeña la evaluación del desempeño (art. 20 TREBEP) en relación con la carrera profesional horizontal de un funcionario?",
@@ -20758,8 +20566,8 @@ const QUESTIONS = {
       "Sustituye completamente al requisito de antigüedad para cualquier tipo de progresión"
     ],
     "correct": 0,
-    "exp": "La evaluación del desempeño constituye uno de los elementos que las Administraciones Públicas deben valorar, junto con la trayectoria y actuación profesional, para determinar la progresión dentro de la carrera profesional horizontal, conforme al art. 20.3 TREBEP.",
-    "fuente": "Art. 20.3 TREBEP (RDLeg 5/2015)"
+    "exp": "El resultado de la evaluación del desempeño es uno de los factores que han de valorarse para la progresión en la carrera horizontal, junto con la trayectoria y actuación profesional, la calidad de los trabajos y los conocimientos adquiridos (art. 17 b) TREBEP); y los arts. 20.3 y 20.5 TREBEP determinan sus efectos y exigen la aprobación previa de sistemas objetivos de evaluación.",
+    "fuente": "Arts. 17 b), 20.3 y 20.5 TREBEP (RDLeg 5/2015)"
   },
   {
     "q": "En síntesis, ¿qué cuatro modalidades de progresión profesional distingue el art. 16.3 del TREBEP para los funcionarios de carrera?",
@@ -20822,16 +20630,16 @@ const QUESTIONS = {
     "fuente": "Art. 18 TREBEP (RDLeg 5/2015)"
   },
   {
-    "q": "¿Qué papel desempeña la disposición adicional cuarta del TREBEP en relación con los arts. 16 a 20 sobre carrera profesional?",
+    "q": "¿Qué papel desempeña la disposición final cuarta del TREBEP en relación con los arts. 16 a 20 sobre carrera profesional?",
     "options": [
       "Atribuye competencia exclusiva al Ministerio de Hacienda para el desarrollo reglamentario de dichos artículos",
       "Amplía el ámbito de aplicación de estos artículos a todas las Administraciones sin excepción",
-      "Establece que dichos artículos quedan en suspenso hasta la entrada en vigor de las leyes de Función Pública que los desarrollen",
+      "Establece que lo dispuesto en el Capítulo II del Título III (arts. 16 a 20) producirá efectos a partir de la entrada en vigor de las leyes de Función Pública que se dicten en desarrollo del Estatuto",
       "Deroga completamente los arts. 16 a 20 sin posibilidad de aplicación futura"
     ],
     "correct": 2,
-    "exp": "La disposición adicional cuarta del TREBEP establece que los arts. 16 a 20, relativos a la carrera profesional, quedan en suspenso hasta la entrada en vigor de las leyes de Función Pública que se dicten en su desarrollo.",
-    "fuente": "Disposición adicional cuarta TREBEP (RDLeg 5/2015)"
+    "exp": "Disposición final cuarta.1 TREBEP: 'Lo establecido en los capítulos II y III del título III, excepto el artículo 25.2, y en el capítulo III del título V producirá efectos a partir de la entrada en vigor de las leyes de Función Pública que se dicten en desarrollo de este Estatuto.' Comprende, por tanto, los arts. 16 a 20 sobre carrera profesional y evaluación del desempeño.",
+    "fuente": "Disposición final cuarta.1 TREBEP (RDLeg 5/2015)"
   },
   {
     "q": "En definitiva, ¿qué papel desempeña conjuntamente el bloque de arts. 8 a 20 del TREBEP dentro del régimen general del empleo público?",
@@ -20843,7 +20651,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "El conjunto de los arts. 8 a 20 del TREBEP configura el marco básico y transversal aplicable a todas las Administraciones Públicas en materia de clases de personal, derechos de los empleados públicos y sistema de carrera profesional y evaluación del desempeño.",
-    "fuente": "TREBEP (RDLeg 5/2015)"
+    "fuente": "Títulos II y III TREBEP, arts. 8 a 20 (RDLeg 5/2015)"
   },
 ],
 18:[

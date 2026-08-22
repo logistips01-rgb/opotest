@@ -1,0 +1,18 @@
+{
+ "17": [
+  {
+   "q": "¿Qué relación existe, con carácter general, entre la duración de la jornada de trabajo (art. 47 TREBEP) y la normativa sobre incompatibilidades del personal al servicio de las Administraciones Públicas?",
+   "options": [
+    "No existe ninguna relación entre ambas normativas",
+    "La jornada máxima establecida debe respetar los límites fijados por la normativa sobre incompatibilidades, que limita la posibilidad de desempeñar actividades adicionales",
+    "La normativa sobre incompatibilidades deroga tácitamente el artículo 47 TREBEP en materia de jornada.",
+    "La normativa de incompatibilidades permite superar libremente cualquier límite de jornada"
+   ],
+   "correct": 1,
+   "exp": "El art. 47 TREBEP remite expresamente a la normativa sobre incompatibilidades para fijar la duración máxima de la jornada de trabajo, en coherencia con los límites que dicha normativa impone al desempeño de actividades adicionales por los empleados públicos.",
+   "fuente": "Art. 47 TREBEP (RDLeg 5/2015)",
+   "motivoArchivo": "No es salvable por contenido inventado: toda la pregunta (opción marcada y explicación incluidas) se construye sobre una remisión del art. 47 TREBEP a la normativa sobre incompatibilidades que no existe. El art. 47 sólo regula jornada general y especiales, tiempo completo o parcial (ap. 1) y las medidas de flexibilización horaria para la conciliación (ap. 2, redacción del RDL 2/2024).",
+   "temaOrigen": 17
+  }
+ ]
+}

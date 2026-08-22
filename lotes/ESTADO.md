@@ -2105,3 +2105,88 @@ art. 92 (ámbito autonómico y local), que nadie preguntaba: así sobreviven las
 dos y cubren el artículo entero. **Lección**: después de aplicar una auditoría
 con reescrituras de enunciado, mirar el aviso de duplicados de `validar.js`, que
 es lo único que avisa de esto.
+
+
+---
+
+## Tema 17 · auditado (22-ago-2026)
+
+Las 100 del banco original: **48 confirmadas, 36 corregidas, 16 descartadas y 0
+dudosas**. Tema 17: **340 → 324** y tema 18: **262 → 277**, porque quince se
+reubican. Banco: **5.673 → 5.672**. Citas sin artículo en el tema: **17 → 0**.
+
+### Un bloque entero de quince preguntas que estaba en el tema equivocado
+
+Los índices 30 a 44 eran todas del **Título IV del TREBEP** —acceso al empleo
+público y adquisición de la relación de servicio: arts. 55 a 62—, y el epígrafe
+del tema 17 son «clases, derechos y deberes». Van al **tema 18**, que es el que
+pide «adquisición y pérdida de la relación de servicio». No es un error de
+contenido: es un bloque colocado en el cajón de al lado.
+
+### Cuatro daban por buena una regla que el TREBEP no contiene
+
+Ninguna tenía marcada una opción distinta de la buena entre las cuatro, pero
+cuatro enseñaban una regla inventada, que para quien estudia es igual de dañino:
+
+- **«Los días de asuntos particulares no pueden acumularse a las vacaciones
+  anuales»** (dos preguntas). El art. 48 k) dice solo «Por asuntos particulares,
+  seis días al año». Esa limitación, donde exista, viene de las instrucciones de
+  jornada de cada Administración, no del Estatuto. Reescritas sobre el deslinde
+  real: seis días del art. 48 k) frente a los veintidós días hábiles del art.
+  50.1.
+- **«El art. 47 respeta la duración máxima de jornada de la normativa sobre
+  incompatibilidades»** (dos preguntas). El art. 47.1 solo dice que la jornada
+  podrá ser a tiempo completo o a tiempo parcial: **no hay ninguna remisión a
+  incompatibilidades en el precepto**. Una se reescribió; la otra se apoyaba
+  entera en esa remisión inexistente y se descarta.
+
+### Cinco colgaban la respuesta del precepto equivocado
+
+| Citaba | Es |
+|---|---|
+| art. 12.5 | **art. 12.4** — el 12.5 es la aplicación supletoria del régimen de los funcionarios de carrera |
+| art. 50 | **disposición adicional decimocuarta** — los hasta cuatro días adicionales por antigüedad no están en el art. 50 |
+| art. 20.1 | **art. 20.2** — transparencia, objetividad, imparcialidad y no discriminación |
+| art. 20.3 | **art. 17 b)** — la valoración de la trayectoria y actuación profesional es de la carrera horizontal |
+| disposición adicional cuarta | **disposición final cuarta.1** — la DA 4.ª va de autoridades administrativas independientes |
+
+Y una explicación presentaba como cita literal del art. 12.3 TREBEP un texto que
+es del **art. 104.2 LBRL**.
+
+### Redacción anterior a las reformas: cuatro
+
+- Una explicación con la letra h) del art. 14 **previa a la Ley 4/2023**, sin la
+  expresión de género, las características sexuales, la propia imagen ni el
+  acoso por orientación e identidad sexual.
+- Dos añadían al permiso por accidente o enfermedad grave un «cuando el suceso se
+  produzca en la misma localidad… se ampliaría en distinta localidad»: eso es el
+  art. 48 a) **anterior al RDL 5/2023**. Hoy son **cinco días hábiles** en primer
+  grado y **cuatro** en segundo, **sin distinción de localidad**; la localidad
+  solo opera en el fallecimiento (tres o cinco días en primer grado, dos o cuatro
+  en segundo).
+- Una con «El permiso por matrimonio será de quince días», redacción previa al
+  RDL 5/2023, que extendió la letra l) al **registro o constitución formalizada
+  de pareja de hecho**.
+
+Y una transcribía mal el art. 50.1: «cada año completo de servicio activo» y
+«tiempo de servicios efectivos» en lugar de «cada año natural» y «si el tiempo de
+servicio durante el año fue menor».
+
+### Lo que se temía y NO estaba
+
+- **Ninguna arrastra la redacción vieja del art. 10** (funcionarios interinos):
+  las tres de interinidad son compatibles con el texto de la Ley 20/2021.
+- **Ninguna dice las 16 semanas** del antiguo permiso por nacimiento.
+
+### Pero ahí hay un hueco: el permiso por nacimiento no está en el banco
+
+Medido sobre las 5.672 preguntas: **cero mencionan las 16 semanas y cero las
+19**. El art. 49 a) vigente, en la redacción del **RDL 9/2025**, da **diecinueve
+semanas** para la madre biológica y **treinta y dos en monoparentalidad**, con
+hasta trece semanas adicionales por hospitalización del neonato. Es uno de los
+datos que más se preguntan y el banco no lo tiene. Hace falta un lote del art.
+49 completo.
+
+Otra novedad que conviene incorporar: la **letra m) del art. 48**, añadida por el
+art. 3 de la **Ley 6/2024**, sobre el tiempo indispensable para los actos
+preparatorios de la donación de órganos o tejidos.

@@ -50613,3 +50613,190 @@ window.addQuestions("aux-admin-zaragoza", 20, [
   }
 ]);
 
+
+/* Reubicadas en la auditoría del banco original de agosto de 2026: correctas
+   y dentro del temario, pero el epígrafe que las reclama es otro. Llevan ya la
+   cita verificada contra el consolidado del BOE. */
+window.addQuestions("aux-admin-zaragoza", 18, [
+  {
+    "q": "Según el art. 55.1 del TREBEP, todos los ciudadanos tienen derecho al acceso al empleo público de acuerdo con los principios constitucionales de:",
+    "options": [
+      "Antigüedad y confianza política",
+      "Concurso de méritos exclusivamente",
+      "Igualdad, mérito y capacidad",
+      "Nacionalidad exclusivamente"
+    ],
+    "correct": 2,
+    "exp": "Art. 55.1 TREBEP: 'Todos los ciudadanos tienen derecho al acceso al empleo público de acuerdo con los principios constitucionales de igualdad, mérito y capacidad.' (Venía del tema 17 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: versa sobre el art. 55.1 TREBEP, principios rectores del acceso al empleo público, materia del Título IV TREBEP (adquisición y pérdida de la relación de servicio), propia del tema 18 y ajena al epígrafe de clases, derechos y deberes del tema 17.)",
+    "fuente": "Art. 55.1 TREBEP (RDLeg 5/2015)"
+  },
+  {
+    "q": "Según el art. 55.2 del TREBEP, las Administraciones Públicas seleccionarán a su personal, entre otros principios, con arreglo a los de:",
+    "options": [
+      "Discrecionalidad y confidencialidad absoluta",
+      "Proporcionalidad retributiva y jerarquía funcional",
+      "Antigüedad exclusiva del solicitante",
+      "Publicidad, transparencia y objetividad"
+    ],
+    "correct": 3,
+    "exp": "Art. 55.2 TREBEP: las Administraciones Públicas seleccionan a su personal con arreglo a los principios de publicidad, transparencia, objetividad e igualdad de oportunidades, entre otros. (Venía del tema 17 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: versa sobre el art. 55.2 TREBEP, principios con arreglo a los cuales se selecciona al personal, materia del Título IV TREBEP (adquisición y pérdida de la relación de servicio), propia del tema 18 y ajena al epígrafe de clases, derechos y deberes del tema 17.)",
+    "fuente": "Art. 55.2 TREBEP (RDLeg 5/2015)"
+  },
+  {
+    "q": "Según el art. 56.1 del TREBEP, para participar en los procesos selectivos, entre otros requisitos, se exige tener la nacionalidad española o cumplir:",
+    "options": [
+      "Los requisitos previstos para el acceso al empleo público de nacionales de otros Estados",
+      "Únicamente el requisito de residencia continuada de diez años",
+      "Un permiso de residencia y trabajo vigente de cualquier tipo",
+      "Solo haber prestado servicio militar previo"
+    ],
+    "correct": 0,
+    "exp": "Art. 56.1 a) TREBEP: se exige poseer la nacionalidad española, sin perjuicio de lo dispuesto en el art. 57 sobre acceso de nacionales de otros Estados. (Venía del tema 17 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: versa sobre el art. 56.1 a) TREBEP, requisito de nacionalidad para participar en procesos selectivos, materia del Título IV TREBEP (adquisición y pérdida de la relación de servicio), propia del tema 18 y ajena al epígrafe de clases, derechos y deberes del tema 17.)",
+    "fuente": "Art. 56.1 a) TREBEP (RDLeg 5/2015)"
+  },
+  {
+    "q": "Según el art. 56.1 del TREBEP, entre los requisitos generales para participar en procesos selectivos se exige poseer la capacidad funcional para el desempeño de las tareas, y no haber sido separado mediante:",
+    "options": [
+      "Un simple acuerdo verbal sin ningún expediente",
+      "Expediente disciplinario del servicio de cualquier Administración Pública",
+      "Un despido disciplinario en el sector privado",
+      "Una excedencia voluntaria por interés particular"
+    ],
+    "correct": 1,
+    "exp": "Art. 56.1 d) TREBEP: se exige no haber sido separado mediante expediente disciplinario del servicio de cualquiera de las Administraciones Públicas. (Venía del tema 17 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: versa sobre el art. 56.1 d) TREBEP, requisito de no haber sido separado por expediente disciplinario, materia del Título IV TREBEP (adquisición y pérdida de la relación de servicio), propia del tema 18 y ajena al epígrafe de clases, derechos y deberes del tema 17.)",
+    "fuente": "Art. 56.1 d) TREBEP (RDLeg 5/2015)"
+  },
+  {
+    "q": "Según el art. 56.1 c) del TREBEP, se exige tener cumplida la edad mínima de:",
+    "options": [
+      "Diecinueve años",
+      "Veinticinco años",
+      "Dieciséis años",
+      "Dieciocho años en todo caso, sin excepción"
+    ],
+    "correct": 2,
+    "exp": "Art. 56.1 c) TREBEP: se exige tener cumplidos dieciséis años y no exceder, en su caso, de la edad máxima de jubilación forzosa. (Venía del tema 17 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: versa sobre el art. 56.1 c) TREBEP, edad mínima de dieciséis años, materia del Título IV TREBEP (adquisición y pérdida de la relación de servicio), propia del tema 18 y ajena al epígrafe de clases, derechos y deberes del tema 17.)",
+    "fuente": "Art. 56.1 c) TREBEP (RDLeg 5/2015)"
+  },
+  {
+    "q": "Según el art. 57.1 del TREBEP, tienen acceso al empleo público, en igualdad de condiciones que los españoles, los nacionales de:",
+    "options": [
+      "Los países de la Commonwealth británica",
+      "Cualquier país sin ninguna limitación",
+      "Únicamente países con convenio bilateral vigente",
+      "Los Estados miembros de la Unión Europea"
+    ],
+    "correct": 3,
+    "exp": "Art. 57.1 TREBEP: tienen acceso, en igualdad de condiciones que los españoles, los nacionales de los Estados miembros de la Unión Europea. (Venía del tema 17 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: versa sobre el art. 57.1 TREBEP, acceso al empleo público de nacionales de la Unión Europea, materia del Título IV TREBEP (adquisición y pérdida de la relación de servicio), propia del tema 18 y ajena al epígrafe de clases, derechos y deberes del tema 17.)",
+    "fuente": "Art. 57.1 TREBEP (RDLeg 5/2015)"
+  },
+  {
+    "q": "Según el art. 57.4 del TREBEP, por razones de interés general, puede eximirse del requisito de la nacionalidad para el acceso a la condición de personal funcionario, salvo para aquellos que impliquen participación directa o indirecta en el ejercicio de potestades públicas, mediante:",
+    "options": [
+      "Ley de las Cortes Generales o de las Asambleas Legislativas de las Comunidades Autónomas",
+      "Convenio internacional ratificado por España sin necesidad de ley",
+      "Decreto del Gobierno sin más trámite",
+      "Resolución del Secretario de Estado de Función Pública"
+    ],
+    "correct": 0,
+    "exp": "Art. 57.4 TREBEP: la exención del requisito de nacionalidad, en su caso, se realiza mediante ley de las Cortes Generales o de las Asambleas Legislativas de las Comunidades Autónomas. (Venía del tema 17 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: versa sobre el art. 57.4 TREBEP, exención del requisito de nacionalidad por ley, materia del Título IV TREBEP (adquisición y pérdida de la relación de servicio), propia del tema 18 y ajena al epígrafe de clases, derechos y deberes del tema 17.)",
+    "fuente": "Art. 57.4 TREBEP (RDLeg 5/2015)"
+  },
+  {
+    "q": "Según el art. 59.1 del TREBEP, en las ofertas de empleo público se reservará un cupo no inferior al:",
+    "options": [
+      "Cinco por ciento de las vacantes",
+      "Siete por ciento de las vacantes para personas con discapacidad",
+      "Quince por ciento de las vacantes",
+      "Tres por ciento de las vacantes"
+    ],
+    "correct": 1,
+    "exp": "Art. 59.1 TREBEP: se reservará un cupo no inferior al siete por ciento de las vacantes para ser cubiertas entre personas con discapacidad. (Venía del tema 17 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: versa sobre el art. 59.1 TREBEP, cupo de reserva para personas con discapacidad, materia del Título IV TREBEP (adquisición y pérdida de la relación de servicio), propia del tema 18 y ajena al epígrafe de clases, derechos y deberes del tema 17.)",
+    "fuente": "Art. 59.1 TREBEP (RDLeg 5/2015)"
+  },
+  {
+    "q": "Según el art. 59.1 del TREBEP, de ese cupo del siete por ciento, al menos el dos por ciento de las plazas ofertadas debe reservarse para personas que acrediten discapacidad:",
+    "options": [
+      "Sensorial auditiva únicamente",
+      "discapacidad visual",
+      "Intelectual",
+      "Física exclusivamente"
+    ],
+    "correct": 2,
+    "exp": "Art. 59.1 TREBEP: al menos el dos por ciento de las plazas ofertadas debe reservarse para personas que acrediten discapacidad intelectual, y el resto para cualquier otro tipo de discapacidad. (Venía del tema 17 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: versa sobre el art. 59.1 TREBEP, reserva del dos por ciento para personas con discapacidad intelectual, materia del Título IV TREBEP (adquisición y pérdida de la relación de servicio), propia del tema 18 y ajena al epígrafe de clases, derechos y deberes del tema 17.)",
+    "fuente": "Art. 59.1 TREBEP (RDLeg 5/2015)"
+  },
+  {
+    "q": "Según el art. 60.1 del TREBEP, los órganos de selección deben ajustar su actuación a los principios de imparcialidad y profesionalidad, y tender a la paridad entre:",
+    "options": [
+      "Funcionarios de carrera e interinos",
+      "Personal laboral y personal eventual",
+      "Personal funcionario y personal directivo",
+      "Mujeres y hombres"
+    ],
+    "correct": 3,
+    "exp": "Art. 60.1 TREBEP: los órganos de selección serán colegiados y su composición deberá ajustarse a los principios de imparcialidad y profesionalidad, tendiendo a la paridad entre mujer y hombre. (Venía del tema 17 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: versa sobre el art. 60.1 TREBEP, composición de los órganos de selección, materia del Título IV TREBEP (adquisición y pérdida de la relación de servicio), propia del tema 18 y ajena al epígrafe de clases, derechos y deberes del tema 17.)",
+    "fuente": "Art. 60.1 TREBEP (RDLeg 5/2015)"
+  },
+  {
+    "q": "Según el art. 61.1 del TREBEP, los procesos selectivos deben tener carácter abierto y garantizar la libre concurrencia, sin perjuicio de lo establecido para la promoción interna y las medidas de:",
+    "options": [
+      "Discriminación positiva previstas en el propio Estatuto",
+      "Reserva exclusiva para personal eventual",
+      "Exclusión de personas con discapacidad",
+      "Movilidad interadministrativa prevista en la normativa de función pública"
+    ],
+    "correct": 0,
+    "exp": "Art. 61.1 TREBEP: los procesos selectivos tendrán carácter abierto y garantizarán la libre concurrencia, sin perjuicio de lo establecido para la promoción interna y de las medidas de discriminación positiva previstas en este Estatuto. (Venía del tema 17 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: versa sobre el art. 61.1 TREBEP, carácter abierto de los procesos selectivos, materia del Título IV TREBEP (adquisición y pérdida de la relación de servicio), propia del tema 18 y ajena al epígrafe de clases, derechos y deberes del tema 17.)",
+    "fuente": "Art. 61.1 TREBEP (RDLeg 5/2015)"
+  },
+  {
+    "q": "Según el art. 61.2 del TREBEP, los sistemas selectivos de funcionarios de carrera serán, con carácter general, la oposición o el:",
+    "options": [
+      "Concurso exclusivo de méritos, como sistema general",
+      "Concurso-oposición, con las fases que se establezcan reglamentariamente",
+      "Sorteo público entre los candidatos presentados",
+      "Nombramiento directo por la autoridad competente"
+    ],
+    "correct": 1,
+    "exp": "Art. 61.2 TREBEP: los sistemas selectivos de funcionarios de carrera serán, con carácter general, la oposición o el concurso-oposición, que deberán incluir, en todo caso, una o varias pruebas. (Venía del tema 17 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: versa sobre el art. 61.2 TREBEP, sistemas selectivos de los funcionarios de carrera, materia del Título IV TREBEP (adquisición y pérdida de la relación de servicio), propia del tema 18 y ajena al epígrafe de clases, derechos y deberes del tema 17.)",
+    "fuente": "Art. 61.2 TREBEP (RDLeg 5/2015)"
+  },
+  {
+    "q": "Según el art. 62.1 del TREBEP, la condición de funcionario de carrera se adquiere por el cumplimiento sucesivo de los requisitos de superar el proceso selectivo, ser nombrado por el órgano competente, y además:",
+    "options": [
+      "Superar un período de prácticas tutorizado de seis meses",
+      "Superar un examen médico adicional posterior al nombramiento",
+      "Prestar juramento o promesa y acatamiento a la Constitución y al resto del ordenamiento jurídico, y tomar posesión dentro del plazo establecido",
+      "Obtener la aprobación expresa de una autoridad distinta a la que efectuó el nombramiento"
+    ],
+    "correct": 2,
+    "exp": "Art. 62.1 TREBEP: la condición de funcionario de carrera se adquiere sucesivamente por la superación del proceso selectivo, el nombramiento por el órgano competente, la prestación de juramento o promesa de acatamiento a la Constitución y al resto del ordenamiento jurídico, y la toma de posesión dentro del plazo establecido. (Venía del tema 17 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: versa sobre el art. 62.1 TREBEP, adquisición de la condición de funcionario de carrera, materia del Título IV TREBEP (adquisición y pérdida de la relación de servicio), propia del tema 18 y ajena al epígrafe de clases, derechos y deberes del tema 17.)",
+    "fuente": "Art. 62.1 TREBEP (RDLeg 5/2015)"
+  },
+  {
+    "q": "¿En qué Título del TREBEP se regula el acceso al empleo público y la adquisición de la relación de servicio (arts. 55 a 62)?",
+    "options": [
+      "Título II",
+      "Título V",
+      "Título III",
+      "Título IV"
+    ],
+    "correct": 3,
+    "exp": "El acceso al empleo público (Capítulo I, arts. 55 a 62) se regula dentro del Título IV del TREBEP, 'Adquisición y pérdida de la relación de servicio.' (Venía del tema 17 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: versa sobre la ubicación sistemática del Título IV TREBEP; además su fuente citaba erróneamente el art. 54, materia del Título IV TREBEP (adquisición y pérdida de la relación de servicio), propia del tema 18 y ajena al epígrafe de clases, derechos y deberes del tema 17.)",
+    "fuente": "Art. 54 TREBEP (RDLeg 5/2015)"
+  },
+  {
+    "q": "¿Qué relación existe entre el principio de mérito y capacidad (art. 55 TREBEP) y la reserva de plazas para personas con discapacidad (art. 59 TREBEP)?",
+    "options": [
+      "La reserva de plazas es una medida de discriminación positiva compatible con el principio de mérito y capacidad, garantizando la igualdad real de oportunidades en el acceso al empleo público",
+      "La reserva de plazas contradice y anula por completo el principio de mérito y capacidad",
+      "La reserva de plazas del art. 59 solo se aplica en el ámbito de la Administración General del Estado",
+      "El art. 59 TREBEP deroga tácitamente el principio general del art. 55"
+    ],
+    "correct": 0,
+    "exp": "La reserva de plazas para personas con discapacidad constituye una medida de discriminación positiva, compatible con el principio de mérito y capacidad, orientada a garantizar la igualdad real de oportunidades en el acceso al empleo público. (Venía del tema 17 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: versa sobre los arts. 55 y 59 TREBEP, mérito y capacidad frente a la reserva de plazas para personas con discapacidad, materia del Título IV TREBEP (adquisición y pérdida de la relación de servicio), propia del tema 18 y ajena al epígrafe de clases, derechos y deberes del tema 17.)",
+    "fuente": "TREBEP (RDLeg 5/2015)"
+  }
+]);
+
