@@ -1,0 +1,102 @@
+{
+ "3": [
+  {
+   "q": "Según el art. 61.1, la Comunidad Autónoma de Aragón crea y organiza su Administración propia conforme a:",
+   "options": [
+    "Decisión exclusiva del Presidente",
+    "La ley",
+    "Un reglamento interno sin rango de ley",
+    "Convenio con el Estado en cada caso"
+   ],
+   "correct": 1,
+   "exp": "Art. 61.1: 'La Comunidad Autónoma de Aragón crea y organiza su Administración propia conforme a la ley.'",
+   "fuente": "Art. 61.1 EAAr (LO 5/2007)",
+   "motivoArchivo": "Fuera de alcance: el art. 61 pertenece al Título III ('La Administración Pública en Aragón', arts. 61-62), expresamente excluido del epígrafe del tema 3, que solo cubre Título Preliminar, Título II y Título V.",
+   "temaOrigen": 3
+  },
+  {
+   "q": "Según el art. 61.2, la Administración aragonesa ostenta la condición de:",
+   "options": [
+    "Administración subsidiaria del Estado en todo caso",
+    "Administración temporal sujeta a revisión anual",
+    "Administración ordinaria en el ejercicio de sus competencias",
+    "Administración meramente consultiva"
+   ],
+   "correct": 2,
+   "exp": "Art. 61.2: 'La Administración aragonesa ostenta la condición de Administración ordinaria en el ejercicio de sus competencias.'",
+   "fuente": "Art. 61.2 EAAr (LO 5/2007)",
+   "motivoArchivo": "Fuera de alcance: el art. 61 pertenece al Título III, excluido del epígrafe del tema 3.",
+   "temaOrigen": 3
+  },
+  {
+   "q": "Según el art. 62.1, la Administración de la Comunidad Autónoma sirve con objetividad a los intereses generales con:",
+   "options": [
+    "Autonomía total respecto al ordenamiento jurídico",
+    "Sometimiento exclusivo a las directrices del partido gobernante",
+    "Sujeción únicamente a criterios de oportunidad política",
+    "Sometimiento pleno a la Ley y al Derecho"
+   ],
+   "correct": 3,
+   "exp": "Art. 62.1: 'La Administración de la Comunidad Autónoma sirve con objetividad a los intereses generales con sometimiento pleno a la Ley y al Derecho.'",
+   "fuente": "Art. 62.1 EAAr (LO 5/2007)",
+   "motivoArchivo": "Fuera de alcance: el art. 62 pertenece al Título III, excluido del epígrafe del tema 3.",
+   "temaOrigen": 3
+  },
+  {
+   "q": "Según el art. 62.3, la Administración Pública aragonesa ajusta su actividad a los principios de:",
+   "options": [
+    "Eficacia, eficiencia, racionalización, transparencia y servicio efectivo a los ciudadanos",
+    "Exclusivamente rapidez y bajo coste",
+    "Solo jerarquía y disciplina interna",
+    "Confidencialidad absoluta de toda actuación"
+   ],
+   "correct": 0,
+   "exp": "Art. 62.3: 'La Administración Pública aragonesa ajustará su actividad a los principios de eficacia, eficiencia, racionalización, transparencia y servicio efectivo a los ciudadanos.'",
+   "fuente": "Art. 62.3 EAAr (LO 5/2007)",
+   "motivoArchivo": "Fuera de alcance: el art. 62 pertenece al Título III, excluido del epígrafe del tema 3.",
+   "temaOrigen": 3
+  },
+  {
+   "q": "El Título III del Estatuto de Aragón, 'La Administración Pública en Aragón', comprende los artículos:",
+   "options": [
+    "70 al 80",
+    "61 y 62",
+    "32 al 60",
+    "1 al 10"
+   ],
+   "correct": 1,
+   "exp": "El Título III ('La Administración Pública en Aragón') comprende únicamente los artículos 61 y 62.",
+   "fuente": "Título III (arts. 61-62) EAAr (LO 5/2007)",
+   "motivoArchivo": "Fuera de alcance: pregunta explícitamente sobre el Título III ('La Administración Pública en Aragón', arts. 61-62), que no forma parte del epígrafe del tema 3 (aunque el contenido citado, 61-62, es correcto).",
+   "temaOrigen": 3
+  },
+  {
+   "q": "¿Cuáles son las tres clases de competencias que distingue el Estatuto de Autonomía de Aragón?",
+   "options": [
+    "Ordinarias, extraordinarias y de urgencia",
+    "Legislativas, ejecutivas y judiciales",
+    "Estatales, autonómicas y locales",
+    "Exclusivas, compartidas y ejecutivas"
+   ],
+   "correct": 3,
+   "exp": "El Título V del Estatuto distingue tres tipos de competencias: exclusivas (art. 71), compartidas (art. 75) y ejecutivas (art. 77).",
+   "fuente": "Art. 71 EAAr (LO 5/2007)",
+   "motivoArchivo": "Duplicada de #60: mismo hecho parafraseado (las tres clases de competencias del Estatuto), misma respuesta correcta. Se conserva #60, que cita correctamente el art. 70.1, de donde sale el dato literal; #61 citaba «Art. 71» a secas, que no contiene esa frase.",
+   "temaOrigen": 3
+  },
+  {
+   "q": "Según el art. 63.1, el Tribunal Superior de Justicia de Aragón es el órgano jurisdiccional en que culmina la organización judicial en Aragón, sin perjuicio de las competencias de:",
+   "options": [
+    "El Tribunal Superior de Justicia de otra Comunidad Autónoma",
+    "El Justicia de Aragón",
+    "El Consejo Consultivo de Aragón",
+    "El Tribunal Supremo"
+   ],
+   "correct": 3,
+   "exp": "Art. 63.1: 'es el órgano jurisdiccional en que culmina la organización judicial en Aragón... y sin perjuicio de las competencias del Tribunal Supremo.'",
+   "fuente": "Art. 63.1 EAAr (LO 5/2007)",
+   "motivoArchivo": "Fuera de alcance: el art. 63 pertenece al Título IV ('La Justicia', arts. 63-69), expresamente excluido del epígrafe del tema 3, aunque el contenido citado sobre el Tribunal Superior de Justicia de Aragón es correcto.",
+   "temaOrigen": 3
+  }
+ ]
+}

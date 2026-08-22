@@ -2413,3 +2413,92 @@ está bien que cada supuesto tenga su pregunta.
 
 Banco: 5.652 → 5.631, las 5.631 con cita. Reparto de la correcta 25,1/25,0/25,4/
 24,5 %.
+
+---
+
+## Tema 3 · auditado, con incidente de índices corregido (22-ago-2026)
+
+Las 98 del banco original: **88 confirmadas, 1 corregida, 9 descartadas** (7 por
+alcance más 2 duplicados internos), 0 dudosas. Tema 3: **258 → 248**.
+
+**Ninguna tenía la respuesta mal**, y **ninguna arrastra la redacción anterior a
+la actualización del Estatuto de 2022** — el banco ya usaba correctamente la
+redacción vigente de los arts. 36.2 y 55.2, que la LO 15/2022 tocó.
+
+Las 7 descartadas por alcance caen todas en Títulos excluidos del epígrafe: el
+Título III, «La Administración Pública en Aragón» (arts. 61-62, 5 preguntas) y
+el Título IV, «La Justicia» (art. 63.1, 1 pregunta), más una estructural sobre
+el propio Título III. **No hay ningún tema del temario de Auxiliar dedicado a la
+Administración Pública o a la Justicia en Aragón** — comprobado contra los 21
+temas—, así que quedan archivadas sin destino, no reubicadas.
+
+Dos preguntas eran duplicado interno de otras dos del propio lote (mismo hecho
+parafraseado: «las tres clases de competencias del Estatuto son exclusivas,
+compartidas y ejecutivas»), y se descartó la de peor cita.
+
+### Un incidente de índices, detectado y corregido antes de dejarlo mal
+
+Este tema estuvo a punto de aplicarse mal. El detector de duplicados de la
+sesión anterior había retirado dos preguntas del **archivo base** del tema 3
+(índices originales 24 y 62) *antes* de que se aplicara la auditoría de este
+tema, cuyo veredicto seguía numerado sobre el archivo de **98** preguntas
+original. Al aplicar sin remapear, la corrección destinada al art. 56 (cese del
+Gobierno de Aragón) habría quedado escrita sobre la pregunta del art. 58.1
+(Consejo Consultivo de Aragón) — una fuente completamente ajena al contenido.
+
+Se detectó comparando la pregunta que debía citar el art. 56 con la que
+realmente había en esa posición antes de aplicar, se revirtió la aplicación
+entera, se remapearon los 96 veredictos restantes descontando las dos posiciones
+ya retiradas, y se reaplicó. Verificado después que la corrección del art. 56
+cayó en la pregunta correcta y que el archivo de descartadas no arrastraba
+ninguna entrada mezclada de la aplicación fallida.
+
+**Regla que queda anotada para `aplicar-auditoria2.js`**: antes de aplicar el
+veredicto de un tema, comprobar si ese tema ha sufrido alguna retirada de
+duplicados en su archivo base desde que se exportó el lote de auditoría. Si la
+ha sufrido, los índices del veredicto no coinciden con las posiciones actuales y
+hay que remapearlos restando, para cada índice, cuántas posiciones anteriores a
+él ya se retiraron.
+
+## Tema 12 · auditado, el más limpio de la campaña (22-ago-2026)
+
+Las 99 del banco original: **90 confirmadas, 8 corregidas, 1 descartada**, 0
+dudosas. Tema 12: **335 → 336** (con las once reubicadas del tema 16 ya
+sumadas). Este tema **no tuvo ningún duplicado retirado antes** de su propia
+auditoría, así que se aplicó sin el incidente del tema 3.
+
+**Ninguna tenía la respuesta mal.** Ninguna confundía el TRLRHL con la LGT o una
+ordenanza. Ninguna afirmaba una cuantía que en realidad fija la Ley de
+Presupuestos: los porcentajes y plazos del tramo están todos en el propio
+TRLRHL.
+
+Solo una tenía contenido inventado: afirmaba que la tasa por uso del dominio
+público se exige «incluso cuando el sujeto pasivo obtenga un beneficio
+particular... con independencia de que el bien sea de dominio público», una
+elaboración que el art. 20.1 A) no contiene. Reescrita para testar la
+diferencia real entre el apartado A) (dominio público, sin condicionantes) y el
+B) (servicios, con los condicionantes de recepción no voluntaria o ausencia de
+sector privado).
+
+Las otras siete corregidas son todas del mismo tipo: **fuente incompleta**, no
+respuesta errónea — la cita nombraba el artículo pero le faltaba la letra o el
+apartado exacto que sostiene la respuesta (el art. 14.2 sin la letra ñ), el art.
+20.1 sin el B) a), el art. 34.1 sin el 34.2, el art. 20.4 sin la letra ñ)...).
+
+Una descartada por duplicado interno: dos preguntas sobre la misma clasificación
+del art. 2.1 b) (tributos propios en tasas, contribuciones especiales e
+impuestos), con distinto envoltorio y la misma respuesta.
+
+---
+
+## Los catorce temas del banco original, auditados
+
+Con estos dos se cierra la campaña abierta el 21 de agosto. Los catorce temas
+que quedaban sin pasar el filtro pregunta a pregunta —2, 3, 4, 5, 7, 8, 9, 11,
+12, 13, 16, 17, más los ya cerrados 1, 6, 10, 14, 15, 18, 19, 20, 21 en la
+primera campaña— están verificados uno a uno contra el BOE.
+
+Banco final: **5.623 preguntas**, todas con `fuente` citando artículo o la parte
+de la norma que corresponda. Reparto de la respuesta correcta: **25,1 / 25,0 /
+25,4 / 24,5 %**. Citas a las que aún les falta el artículo: **30**, casi todas
+en el tema 14 (21), que no ha tenido su propia pasada de citación.

@@ -1,0 +1,18 @@
+{
+ "12": [
+  {
+   "q": "En síntesis, ¿qué gran categoría de tributos propios distingue el art. 2.1 b) del TRLRHL como recursos tributarios de las entidades locales?",
+   "options": [
+    "Solo impuestos directos e indirectos",
+    "Tasas, contribuciones especiales e impuestos",
+    "Únicamente tasas y precios públicos",
+    "Exclusivamente recargos autonómicos"
+   ],
+   "correct": 1,
+   "exp": "El art. 2.1 b) TRLRHL clasifica los tributos propios de las entidades locales en tasas, contribuciones especiales e impuestos, constituyendo la columna vertebral del sistema tributario local.",
+   "fuente": "Art. 2.1 b) TRLRHL (RDLeg 2/2004)",
+   "motivoArchivo": "Duplicada de la pregunta de índice 2: ambas preguntan, con distinto envoltorio ('según el art. 2.1 b)...' vs 'en síntesis, ¿qué gran categoría...'), por la misma clasificación de los tributos propios del art. 2.1 b) (tasas, contribuciones especiales e impuestos), con la misma respuesta correcta. Se descarta esta por tener un enunciado más confuso ('distingue... como recursos tributarios') que el de la pregunta 2.",
+   "temaOrigen": 12
+  }
+ ]
+}

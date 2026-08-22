@@ -2839,7 +2839,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "Art. 56: 'El Gobierno de Aragón cesa cuando lo hace su Presidente. El Gobierno de Aragón cesante continuará en funciones hasta la toma de posesión del nuevo.'",
-    "fuente": "Art. 56 EAAr (LO 5/2007)"
+    "fuente": "Art. 56.1 y 56.2 EAAr (LO 5/2007)"
   },
   {
     "q": "Según el art. 58.1, el Consejo Consultivo de Aragón es:",
@@ -2902,66 +2902,6 @@ const QUESTIONS = {
     "fuente": "Título II (arts. 32-60) EAAr (LO 5/2007)"
   },
   {
-    "q": "Según el art. 61.1, la Comunidad Autónoma de Aragón crea y organiza su Administración propia conforme a:",
-    "options": [
-      "Decisión exclusiva del Presidente",
-      "La ley",
-      "Un reglamento interno sin rango de ley",
-      "Convenio con el Estado en cada caso"
-    ],
-    "correct": 1,
-    "exp": "Art. 61.1: 'La Comunidad Autónoma de Aragón crea y organiza su Administración propia conforme a la ley.'",
-    "fuente": "Art. 61.1 EAAr (LO 5/2007)"
-  },
-  {
-    "q": "Según el art. 61.2, la Administración aragonesa ostenta la condición de:",
-    "options": [
-      "Administración subsidiaria del Estado en todo caso",
-      "Administración temporal sujeta a revisión anual",
-      "Administración ordinaria en el ejercicio de sus competencias",
-      "Administración meramente consultiva"
-    ],
-    "correct": 2,
-    "exp": "Art. 61.2: 'La Administración aragonesa ostenta la condición de Administración ordinaria en el ejercicio de sus competencias.'",
-    "fuente": "Art. 61.2 EAAr (LO 5/2007)"
-  },
-  {
-    "q": "Según el art. 62.1, la Administración de la Comunidad Autónoma sirve con objetividad a los intereses generales con:",
-    "options": [
-      "Autonomía total respecto al ordenamiento jurídico",
-      "Sometimiento exclusivo a las directrices del partido gobernante",
-      "Sujeción únicamente a criterios de oportunidad política",
-      "Sometimiento pleno a la Ley y al Derecho"
-    ],
-    "correct": 3,
-    "exp": "Art. 62.1: 'La Administración de la Comunidad Autónoma sirve con objetividad a los intereses generales con sometimiento pleno a la Ley y al Derecho.'",
-    "fuente": "Art. 62.1 EAAr (LO 5/2007)"
-  },
-  {
-    "q": "Según el art. 62.3, la Administración Pública aragonesa ajusta su actividad a los principios de:",
-    "options": [
-      "Eficacia, eficiencia, racionalización, transparencia y servicio efectivo a los ciudadanos",
-      "Exclusivamente rapidez y bajo coste",
-      "Solo jerarquía y disciplina interna",
-      "Confidencialidad absoluta de toda actuación"
-    ],
-    "correct": 0,
-    "exp": "Art. 62.3: 'La Administración Pública aragonesa ajustará su actividad a los principios de eficacia, eficiencia, racionalización, transparencia y servicio efectivo a los ciudadanos.'",
-    "fuente": "Art. 62.3 EAAr (LO 5/2007)"
-  },
-  {
-    "q": "El Título III del Estatuto de Aragón, 'La Administración Pública en Aragón', comprende los artículos:",
-    "options": [
-      "70 al 80",
-      "61 y 62",
-      "32 al 60",
-      "1 al 10"
-    ],
-    "correct": 1,
-    "exp": "El Título III ('La Administración Pública en Aragón') comprende únicamente los artículos 61 y 62.",
-    "fuente": "Título III (arts. 61-62) EAAr (LO 5/2007)"
-  },
-  {
     "q": "Según el art. 70.1 del Estatuto de Aragón, corresponden a la Comunidad Autónoma las competencias:",
     "options": [
       "Solo exclusivas, sin más clasificación",
@@ -2972,18 +2912,6 @@ const QUESTIONS = {
     "correct": 2,
     "exp": "Art. 70.1: 'Corresponde a la Comunidad Autónoma de Aragón las competencias exclusivas, compartidas y ejecutivas sobre las materias incluidas en el presente título.'",
     "fuente": "Art. 70.1 EAAr (LO 5/2007)"
-  },
-  {
-    "q": "¿Cuáles son las tres clases de competencias que distingue el Estatuto de Autonomía de Aragón?",
-    "options": [
-      "Ordinarias, extraordinarias y de urgencia",
-      "Legislativas, ejecutivas y judiciales",
-      "Estatales, autonómicas y locales",
-      "Exclusivas, compartidas y ejecutivas"
-    ],
-    "correct": 3,
-    "exp": "El Título V del Estatuto distingue tres tipos de competencias: exclusivas (art. 71), compartidas (art. 75) y ejecutivas (art. 77).",
-    "fuente": "Art. 71 EAAr (LO 5/2007)"
   },
   {
     "q": "Según el art. 71.1ª, es competencia exclusiva de Aragón la creación, organización, régimen y funcionamiento de:",
@@ -3344,18 +3272,6 @@ const QUESTIONS = {
     "correct": 2,
     "exp": "Art. 59.2 a): el Justicia puede supervisar 'la actividad de la Administración de la Comunidad Autónoma, constituida a estos efectos por el conjunto de órganos integrados en el Gobierno de Aragón.'",
     "fuente": "Art. 59.2 a) EAAr (LO 5/2007)"
-  },
-  {
-    "q": "Según el art. 63.1, el Tribunal Superior de Justicia de Aragón es el órgano jurisdiccional en que culmina la organización judicial en Aragón, sin perjuicio de las competencias de:",
-    "options": [
-      "El Tribunal Superior de Justicia de otra Comunidad Autónoma",
-      "El Justicia de Aragón",
-      "El Consejo Consultivo de Aragón",
-      "El Tribunal Supremo"
-    ],
-    "correct": 3,
-    "exp": "Art. 63.1: 'es el órgano jurisdiccional en que culmina la organización judicial en Aragón... y sin perjuicio de las competencias del Tribunal Supremo.'",
-    "fuente": "Art. 63.1 EAAr (LO 5/2007)"
   },
   {
     "q": "Según el art. 70.2, el ejercicio de las competencias autonómicas de Aragón despliega su eficacia, con carácter general, en:",
@@ -13261,7 +13177,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "Art. 2.1 f) y g): 'El producto de las operaciones de crédito' y 'El producto de las multas y sanciones en el ámbito de sus competencias.'",
-    "fuente": "Art. 2.1 f) TRLRHL (RDLeg 2/2004)"
+    "fuente": "Art. 2.1 f) y g) TRLRHL (RDLeg 2/2004)"
   },
   {
     "q": "Según el art. 2.2 del TRLRHL, para la cobranza de los tributos y demás ingresos de derecho público, la Hacienda de las entidades locales ostentará:",
@@ -13444,7 +13360,7 @@ const QUESTIONS = {
     "fuente": "Art. 11 TRLRHL (RDLeg 2/2004)"
   },
   {
-    "q": "Según el art. 14.2 c) del TRLRHL, contra los actos de aplicación y efectividad de los tributos y restantes ingresos de derecho público locales, solo podrá interponerse:",
+    "q": "Según el art. 14.2 del TRLRHL, contra los actos de aplicación y efectividad de los tributos y restantes ingresos de derecho público locales, solo podrá interponerse:",
     "options": [
       "El recurso de reposición regulado en el propio artículo 14",
       "Recurso de amparo ante el Tribunal Constitucional",
@@ -13513,7 +13429,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "Art. 14.2 ñ): 'Contra la resolución del recurso de reposición no puede interponerse de nuevo este recurso, pudiendo los interesados interponer directamente recurso contencioso-administrativo.'",
-    "fuente": "Art. 14.2 TRLRHL (RDLeg 2/2004)"
+    "fuente": "Art. 14.2 ñ) TRLRHL (RDLeg 2/2004)"
   },
   {
     "q": "Según el art. 16.1 del TRLRHL, las ordenanzas fiscales deben contener, al menos:",
@@ -13621,7 +13537,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "Art. 20.1 B) a): no se considera voluntaria cuando venga impuesta por disposiciones legales o reglamentarias, o cuando los bienes, servicios o actividades requeridos sean imprescindibles para la vida privada o social del solicitante.",
-    "fuente": "Art. 20.1 TRLRHL (RDLeg 2/2004)"
+    "fuente": "Art. 20.1 B) a) TRLRHL (RDLeg 2/2004)"
   },
   {
     "q": "Según el art. 20.4 del TRLRHL, ¿cuál de los siguientes es un supuesto expresamente enumerado en el que las entidades locales pueden establecer tasas por prestación de servicios?",
@@ -13837,7 +13753,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "Art. 34.1 y 34.2: la exacción precisa la previa adopción del acuerdo de imposición en cada caso concreto, y la obra no podrá ejecutarse hasta que se haya aprobado la ordenación concreta de las contribuciones.",
-    "fuente": "Art. 34.1 TRLRHL (RDLeg 2/2004)"
+    "fuente": "Art. 34.1 y 34.2 TRLRHL (RDLeg 2/2004)"
   },
   {
     "q": "Según el art. 36.1 del TRLRHL, los propietarios o titulares afectados por unas obras pueden constituirse en:",
@@ -14068,18 +13984,6 @@ const QUESTIONS = {
     "fuente": "Art. 48 bis TRLRHL (RDLeg 2/2004)"
   },
   {
-    "q": "En síntesis, ¿qué gran categoría de tributos propios distingue el art. 2.1 b) del TRLRHL como recursos tributarios de las entidades locales?",
-    "options": [
-      "Solo impuestos directos e indirectos",
-      "Tasas, contribuciones especiales e impuestos",
-      "Únicamente tasas y precios públicos",
-      "Exclusivamente recargos autonómicos"
-    ],
-    "correct": 1,
-    "exp": "El art. 2.1 b) TRLRHL clasifica los tributos propios de las entidades locales en tasas, contribuciones especiales e impuestos, constituyendo la columna vertebral del sistema tributario local.",
-    "fuente": "Art. 2.1 b) TRLRHL (RDLeg 2/2004)"
-  },
-  {
     "q": "¿Cuál es la diferencia esencial entre una tasa y un precio público, según el sistema del TRLRHL?",
     "options": [
       "El precio público siempre es superior en cuantía a la tasa",
@@ -14101,19 +14005,19 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "La tasa (art. 20) retribuye directamente la prestación de un servicio o el uso del dominio público; la contribución especial (art. 28) grava el beneficio o plusvalía que obtiene el sujeto pasivo por una obra pública o el establecimiento/ampliación de un servicio, siendo ambas figuras compatibles entre sí conforme al art. 22.",
-    "fuente": "Art. 20 TRLRHL (RDLeg 2/2004)"
+    "fuente": "Arts. 20, 22 y 28 TRLRHL (RDLeg 2/2004)"
   },
   {
-    "q": "Según el art. 20.1 A) del TRLRHL, la utilización privativa o el aprovechamiento especial del dominio público local puede gravarse mediante tasa incluso cuando:",
+    "q": "Según el art. 20.1 del TRLRHL, a diferencia de las tasas por prestación de servicios (apartado B), la tasa por utilización privativa o aprovechamiento especial del dominio público local (apartado A) se exige:",
     "options": [
-      "El sujeto pasivo obtenga un beneficio particular derivado de dicha utilización, con independencia de que el bien afectado sea de dominio público",
-      "El uso sea exclusivamente estacional y de escasa duración",
-      "Se trate de un uso puramente común y general sin beneficio particular alguno",
-      "La ocupación no supere los tres metros cuadrados"
+      "Sin que sea necesario que concurra ninguna de las circunstancias exigidas para las tasas de servicios (recepción no voluntaria o ausencia de prestación por el sector privado)",
+      "Solo cuando el aprovechamiento se prolongue por un plazo superior a un año",
+      "Únicamente cuando el servicio lo preste una empresa concesionaria del Ayuntamiento",
+      "Solo si el Ayuntamiento carece de otras fuentes de financiación"
     ],
     "correct": 0,
-    "exp": "El art. 20.1 A) permite gravar con tasa la utilización privativa o el aprovechamiento especial del dominio público local, precisamente porque el sujeto pasivo obtiene un beneficio particular derivado de esa ocupación diferenciada.",
-    "fuente": "Art. 20.1 TRLRHL (RDLeg 2/2004)"
+    "exp": "El art. 20.1 distingue el apartado A) —utilización privativa o aprovechamiento especial del dominio público local, que puede gravarse con tasa sin más requisitos— del apartado B) —prestación de servicios, que exige además que no sea de recepción voluntaria o que no se preste por el sector privado (art. 20.1.B.a) y b))—. Esas condiciones adicionales solo operan para las tasas de servicios, no para las de dominio público.",
+    "fuente": "Art. 20.1 A) y B) TRLRHL (RDLeg 2/2004)"
   },
   {
     "q": "Según el art. 20.3 del TRLRHL, entre los supuestos concretos de utilización privativa o aprovechamiento especial del dominio público sujetos a tasa se incluye:",
@@ -14149,7 +14053,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "Art. 20.4 ñ): entre los supuestos de tasas por servicios se incluyen las 'Asistencias y estancias en hogares y residencias de ancianos, guarderías infantiles, albergues y otros establecimientos de naturaleza análoga.'",
-    "fuente": "Art. 20.4 TRLRHL (RDLeg 2/2004)"
+    "fuente": "Art. 20.4 ñ) TRLRHL (RDLeg 2/2004)"
   },
   {
     "q": "Según el art. 20.4 del TRLRHL, también puede exigirse tasa por servicios de:",
