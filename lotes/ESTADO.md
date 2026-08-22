@@ -2263,3 +2263,110 @@ El auditor observó que ninguna de las 100 toca el art. 50 de la ley de
 capitalidad. Es cierto, y **medido sobre el tema completo hay 15**, las del lote
 `t13-F`. El bloque está cubierto; lo que no lo cubría era el material heredado.
 Misma comprobación y mismo resultado que en el tema 16.
+
+
+---
+
+## Tema 2 · auditado (22-ago-2026)
+
+Las 100 del banco original: **62 confirmadas, 31 corregidas, 7 descartadas por
+alcance y 0 dudosas**. Tema 2: **259 → 252**. Banco: **5.672 → 5.665**.
+
+### Es el bloque heredado más limpio de la campaña
+
+**Ninguna tenía la respuesta mal.** Las 100 llevaban la opción correcta bien
+marcada según el texto vigente. Después de once temas donde el patrón era
+justo el contrario, conviene decirlo.
+
+Y dos sospechas que se comprobaron y **no se materializaron**:
+
+- **Cero confusiones entre la Ley 4/2007 aragonesa y la LO 1/2004 estatal**, que
+  era el riesgo propio del tema. Las dos preguntas que mencionan la LO 1/2004 lo
+  hacen porque la propia ley aragonesa la cita: su DA quinta declara de
+  aplicación directa en Aragón los derechos laborales de la ley estatal, y su
+  preámbulo explica que la ley aragonesa amplía el ámbito más allá del concepto
+  de violencia de género de la LO 1/2004. Las dos exactas.
+- **Ninguna pregunta se sale del Título I de la LO 3/2007** hacia las políticas
+  públicas, el empleo o la organización institucional, que es lo que el epígrafe
+  recorta. Las cuatro del Título Preliminar (objeto y ámbito, arts. 1-2) se
+  mantienen porque delimitan la norma cuyo Título I es el epígrafe.
+
+Dato de vigencia que conviene guardar: **el Título I de la LO 3/2007 no ha sido
+modificado nunca**. Las reformas de esa ley afectan a los arts. 45.2 y 46 (RDL
+6/2019), 37.1.d), 38.1.d), 48, 66 y 68 (LO 10/2022) y 71.1 (Ley 11/2013), todos
+fuera del epígrafe. Y **la Ley 15/2022 no modificó la LO 3/2007** en absoluto. La
+Ley 4/2007 de Aragón sigue en su texto inicial.
+
+### Una referencia derogada dentro de una opción
+
+La única pregunta con la opción marcada defectuosa citaba «la Disposición
+Adicional Octava de la **Ley 7/2007** del Estatuto Básico del Empleado Público»,
+que está derogada. Desde el RDL 5/2015, la obligación de que las
+Administraciones aprueben un plan de igualdad está en la **disposición adicional
+séptima del TREBEP**, que es justamente la que invoca el Plan de Zaragoza. Su
+explicación colgaba además del art. 45.2 LO 3/2007, que va de los planes de las
+empresas, cuando el Plan municipal se ampara en el **art. 64**.
+
+### El Plan de Igualdad estaba solo nombrado
+
+Sus **doce preguntas citaban «Plan de Igualdad para empleadas y empleados del
+Ayuntamiento de Zaragoza» sin eje, medida ni página** — y dos, peor, un artículo
+de la LO 3/2007. El auditor extrajo el texto del PDF del repositorio
+(`tools/temarios/plan-igualdad-zaragoza-2024-2027.pdf`, 67 páginas) y ahora todas
+apuntan a apartado, eje, línea, fase u objetivo específico, con página.
+
+Cuatro se inventaban contenido, y las cuatro en este bloque: una fabricaba un
+«Pacto-Convenio 2012-2015» con «artículos 64 y 74» y una aprobación «en junio de
+2012» —el Plan solo menciona el Pacto-Convenio 2008-2011 (arts. 68 y 76) y el
+2016-2019 (art. 65)—; otra entrecomillaba un texto que no existe en el Plan; y
+otra llamaba «línea» a lo que es el **objetivo específico B.1.2** de la Línea B.1
+«Acceso».
+
+Aviso sobre la vigencia: **el Plan no dice «2024-2027» en ninguna parte**. Dice
+«cuatro años desde su aprobación y registro» (apdo. 5.3) y se aprobó y publicó en
+el **BOPZ núm. 16, de 20 de enero de 2024**. La pregunta se conserva, pero la
+explicación dice ahora de dónde sale el periodo, para que nadie crea que lee un
+rótulo literal del documento.
+
+### Las 7 descartadas: el epígrafe cita rúbricas de capítulo
+
+Comprobado en el consolidado que las dos frases del epígrafe **coinciden
+literalmente** con dos rúbricas de la Ley 4/2007: «disposiciones generales» es el
+Capítulo I (arts. 1-4) y «medidas de protección y apoyo a las víctimas» es el
+Capítulo IV (arts. 18-31). Quedan fuera el Capítulo II (prevención y
+sensibilización), el III (información y asesoramiento) y el V (prestaciones
+económicas).
+
+Se archivan por eso siete: dos del Capítulo III, dos del V y tres de
+disposiciones adicionales. **Las siete son correctas** y quedan en
+`data/reserva/banco-original-auditado-2.json` listas para volver tal cual si
+algún día se lee el epígrafe con más manga ancha.
+
+Efecto secundario que conviene anotar: al salir siete preguntas cuya correcta
+estaba en la D, el reparto del tema queda en 64/64/67/57, o sea 22,6 % en la D
+frente al 25 % objetivo. Es poco, pero si el tema se amplía conviene compensarlo.
+
+---
+
+## El recuento de citas, con un criterio por fin estable
+
+Este número lo he dado mal dos veces —400 primero, 364 después, 254 en la
+corrección— porque reescribía la expresión de medida a mano en cada tema y no
+salían cifras comparables. Ahora está en un script,
+`scratchpad/citas.js`, que clasifica en cuatro cajones:
+
+| | Nº |
+|---|---|
+| citan artículo y número | 5.338 |
+| parte no articulada de la norma, y está bien así | 226 |
+| preguntas sobre la estructura, citando título o capítulo | 24 |
+| **les falta el artículo** | **77** |
+
+Las 226 «no articuladas» son el examen oficial del tema 21, los apartados del
+Plan de Igualdad, las páginas del Manual de Atención, las disposiciones
+adicionales, transitorias y finales, los preámbulos y datos como el referéndum
+de 6-dic-1978. No tienen artículo que citar.
+
+Las **77 que faltan** están localizadas: **48 en el tema 10** (preguntas que
+citan el Reglamento de Bienes sin precepto), **21 en el tema 14**, 4 en el 1, 2
+en el 12 y 1 en el 15 y el 18.

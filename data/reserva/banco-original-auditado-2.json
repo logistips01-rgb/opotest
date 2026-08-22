@@ -1,0 +1,102 @@
+{
+ "2": [
+  {
+   "q": "Según la Disposición adicional segunda de la Ley 4/2007, se crea el Observatorio Aragonés de Violencia sobre la Mujer como:",
+   "options": [
+    "Un juzgado especializado de nueva creación",
+    "Una empresa pública de servicios sociales",
+    "Un cuerpo policial específico",
+    "Un órgano colegiado adscrito al Departamento competente en materia de mujer"
+   ],
+   "correct": 3,
+   "exp": "Disposición adicional segunda.1: 'Se crea el Observatorio Aragonés de Violencia sobre la Mujer, como órgano colegiado adscrito al Departamento competente en materia de mujer.'",
+   "fuente": "Disposición adicional segunda Ley 4/2007 (Aragón) (violencia sobre la mujer)",
+   "motivoArchivo": "Fuera de alcance: la Disposición adicional segunda (Observatorio Aragonés de Violencia sobre la Mujer) no está ni en el Capítulo I 'Disposiciones generales' ni en el Capítulo IV 'Medidas de protección y apoyo a las víctimas', los dos únicos bloques que el epígrafe del tema recorta de la Ley 4/2007. El dato en sí es correcto.",
+   "temaOrigen": 2
+  },
+  {
+   "q": "Según la Disposición adicional sexta de la Ley 4/2007, el Instituto Aragonés de la Mujer fomentará la colaboración con los ayuntamientos de:",
+   "options": [
+    "Huesca, Teruel y Zaragoza",
+    "Solo Zaragoza capital",
+    "Ayuntamientos de más de 50.000 habitantes",
+    "Todas las capitales de comarca sin excepción"
+   ],
+   "correct": 0,
+   "exp": "Disposición adicional sexta: 'El Instituto Aragonés de la Mujer fomentará la colaboración con los ayuntamientos de Huesca, Teruel y Zaragoza, mediante programas de actuación conjunta con las respectivas casas de la mujer.'",
+   "fuente": "Disposición adicional sexta Ley 4/2007 (Aragón) (violencia sobre la mujer)",
+   "motivoArchivo": "Fuera de alcance: Disposición adicional sexta (colaboración con los ayuntamientos de Huesca, Teruel y Zaragoza), ajena al Capítulo I y al Capítulo IV. El dato es correcto pero no entra en el epígrafe.",
+   "temaOrigen": 2
+  },
+  {
+   "q": "Según el art. 12 de la Ley 4/2007, el Servicio Social Integral y Especializado en Violencia contra la Mujer depende de:",
+   "options": [
+    "El Ayuntamiento de Zaragoza en exclusiva",
+    "Las comarcas aragonesas de forma independiente",
+    "El Ministerio de Igualdad del Gobierno de España",
+    "El Instituto Aragonés de la Mujer"
+   ],
+   "correct": 3,
+   "exp": "Art. 12.1: 'El Gobierno de Aragón creará un Servicio Social Integral y Especializado en Violencia contra la Mujer, dependiente del Instituto Aragonés de la Mujer.'",
+   "fuente": "Art. 12.1 Ley 4/2007 (Aragón) (violencia sobre la mujer)",
+   "motivoArchivo": "Fuera de alcance: el art. 12 (Servicio Social Integral y Especializado) pertenece al Capítulo III 'Medidas de información y asesoramiento', que el epígrafe del tema no incluye. El dato (dependencia del Instituto Aragonés de la Mujer) es correcto.",
+   "temaOrigen": 2
+  },
+  {
+   "q": "Según el art. 17 de la Ley 4/2007, el servicio de guardia presta asistencia jurídica y social de emergencia a las víctimas durante:",
+   "options": [
+    "Las veinticuatro horas del día, a través de un teléfono gratuito",
+    "Un máximo de dos horas diarias",
+    "Los fines de semana exclusivamente",
+    "Solo el horario de oficina de 9 a 14 horas"
+   ],
+   "correct": 0,
+   "exp": "Art. 17.1: 'prestará asistencia jurídica y social de emergencia a las mujeres víctimas de violencia durante las veinticuatro horas del día, a través de un teléfono gratuito.'",
+   "fuente": "Art. 17.1 Ley 4/2007 (Aragón) (violencia sobre la mujer)",
+   "motivoArchivo": "Fuera de alcance: el art. 17 (servicio de guardia) está en el Capítulo III 'Medidas de información y asesoramiento', ajeno al recorte del epígrafe. El dato de las 24 horas es correcto.",
+   "temaOrigen": 2
+  },
+  {
+   "q": "Según el art. 32 de la Ley 4/2007 (Capítulo V, prestaciones económicas), el Ingreso Aragonés de Inserción se abonará, tras la solicitud, en un plazo máximo de:",
+   "options": [
+    "Tres meses",
+    "Diez días hábiles",
+    "Un año",
+    "Cuarenta y cinco días naturales"
+   ],
+   "correct": 3,
+   "exp": "Art. 32: 'el reconocimiento del derecho a la prestación y su abono efectivo se efectuarán en el plazo máximo de cuarenta y cinco días naturales desde la solicitud formulada por la interesada.'",
+   "fuente": "Art. 32 Ley 4/2007 (Aragón) (violencia sobre la mujer)",
+   "motivoArchivo": "Fuera de alcance: el art. 32 (Ingreso Aragonés de Inserción) está en el Capítulo V 'Prestaciones económicas', que el epígrafe del tema no recoge. El plazo de 45 días naturales es correcto.",
+   "temaOrigen": 2
+  },
+  {
+   "q": "Según el art. 33 de la Ley 4/2007, las comarcas aragonesas destinarán, dentro de las ayudas de urgente necesidad, una partida económica específica para atender de manera inmediata:",
+   "options": [
+    "Situaciones de emergencia social de mujeres víctimas de violencia sin medios económicos",
+    "Solo gastos de infraestructura comarcal",
+    "Cualquier necesidad municipal sin distinción",
+    "Exclusivamente ayudas al comercio local"
+   ],
+   "correct": 0,
+   "exp": "Art. 33: 'destinarán, dentro de las ayudas de urgente necesidad, una partida económica específica cuya finalidad será la de atender de manera inmediata situaciones de emergencia social en que se encuentren las mujeres víctimas de violencia.'",
+   "fuente": "Art. 33 Ley 4/2007 (Aragón) (violencia sobre la mujer)",
+   "motivoArchivo": "Fuera de alcance: el art. 33 (ayudas de urgente necesidad) pertenece al Capítulo V 'Prestaciones económicas', ajeno al recorte del epígrafe. El contenido es correcto.",
+   "temaOrigen": 2
+  },
+  {
+   "q": "Según la Disposición adicional quinta de la Ley 4/2007, los derechos laborales reconocidos por la Ley Orgánica 1/2004 a las trabajadoras y funcionarias víctimas de violencia de género son de aplicación en Aragón:",
+   "options": [
+    "Únicamente si lo solicita expresamente la interesada por escrito",
+    "Solo tras la aprobación de un decreto autonómico de desarrollo",
+    "Con un retraso mínimo de seis meses desde su reconocimiento estatal",
+    "Directa e inmediata, sin necesidad de desarrollo normativo específico"
+   ],
+   "correct": 3,
+   "exp": "Disposición adicional quinta: 'son de aplicación directa e inmediata en la Comunidad Autónoma de Aragón, sin necesidad de desarrollo normativo específico.'",
+   "fuente": "Disposición adicional quinta Ley 4/2007 (Aragón) (violencia sobre la mujer)",
+   "motivoArchivo": "Fuera de alcance: Disposición adicional quinta, que no forma parte del Capítulo I ni del Capítulo IV. El contenido es correcto y, además, es el único punto en que la ley aragonesa remite legítimamente a la LO 1/2004, por lo que no hay confusión de normas.",
+   "temaOrigen": 2
+  }
+ ]
+}

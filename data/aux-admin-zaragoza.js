@@ -1373,7 +1373,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "El Título I de la LO 3/2007 ('El principio de igualdad y la tutela contra la discriminación') comprende los artículos 3 a 13.",
-    "fuente": "Título I LOIEMH (LO 3/2007)"
+    "fuente": "Título I (arts. 3 a 13) LO 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres"
   },
   {
     "q": "Según el art. 1.1 de la LO 3/2007, esta Ley tiene por objeto hacer efectivo el derecho de igualdad de trato y de oportunidades entre mujeres y hombres mediante, en particular:",
@@ -1409,7 +1409,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El art. 1 ('Objeto de la Ley') pertenece al Título Preliminar de la LO 3/2007, junto con el art. 2 ('Ámbito de aplicación').",
-    "fuente": "LOIEMH (LO 3/2007)"
+    "fuente": "Título Preliminar (arts. 1 y 2) LO 3/2007"
   },
   {
     "q": "Según el art. 1.1 de la Ley 4/2007 de Aragón, el objeto de esta Ley es la adopción de medidas integrales dirigidas a:",
@@ -1505,7 +1505,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El Capítulo I ('Disposiciones generales') de la Ley 4/2007 comprende los artículos 1 a 4.",
-    "fuente": "Capítulo I Ley 4/2007 (Aragón) (violencia sobre la mujer)"
+    "fuente": "Capítulo I 'Disposiciones generales' (arts. 1 a 4) Ley 4/2007, de 22 de marzo, de Aragón"
   },
   {
     "q": "Según el art. 18.1 de la Ley 4/2007, los centros de emergencia son centros de asistencia permanente e inmediata en los que se facilita a las víctimas y a sus hijas e hijos acompañantes:",
@@ -1601,7 +1601,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "El Capítulo IV se divide en la Sección 1ª ('Centros de protección y apoyo', arts. 18-23) y la Sección 2ª ('Servicios de protección y apoyo', arts. 24-31).",
-    "fuente": "Capítulo IV Ley 4/2007 (Aragón) (violencia sobre la mujer)"
+    "fuente": "Capítulo IV 'Medidas de protección y apoyo a las víctimas' (arts. 18 a 31) Ley 4/2007 de Aragón: Sección 1.ª, arts. 18-23; Sección 2.ª, arts. 24-31"
   },
   {
     "q": "Según el art. 24 de la Ley 4/2007, el dispositivo de alarma consiste en una unidad de teleasistencia conectada con una central receptora, destinada a mujeres que se encuentren en:",
@@ -1676,30 +1676,6 @@ const QUESTIONS = {
     "fuente": "Art. 31 Ley 4/2007 (Aragón) (violencia sobre la mujer)"
   },
   {
-    "q": "Según la Disposición adicional segunda de la Ley 4/2007, se crea el Observatorio Aragonés de Violencia sobre la Mujer como:",
-    "options": [
-      "Un juzgado especializado de nueva creación",
-      "Una empresa pública de servicios sociales",
-      "Un cuerpo policial específico",
-      "Un órgano colegiado adscrito al Departamento competente en materia de mujer"
-    ],
-    "correct": 3,
-    "exp": "Disposición adicional segunda.1: 'Se crea el Observatorio Aragonés de Violencia sobre la Mujer, como órgano colegiado adscrito al Departamento competente en materia de mujer.'",
-    "fuente": "Disposición adicional segunda Ley 4/2007 (Aragón) (violencia sobre la mujer)"
-  },
-  {
-    "q": "Según la Disposición adicional sexta de la Ley 4/2007, el Instituto Aragonés de la Mujer fomentará la colaboración con los ayuntamientos de:",
-    "options": [
-      "Huesca, Teruel y Zaragoza",
-      "Solo Zaragoza capital",
-      "Ayuntamientos de más de 50.000 habitantes",
-      "Todas las capitales de comarca sin excepción"
-    ],
-    "correct": 0,
-    "exp": "Disposición adicional sexta: 'El Instituto Aragonés de la Mujer fomentará la colaboración con los ayuntamientos de Huesca, Teruel y Zaragoza, mediante programas de actuación conjunta con las respectivas casas de la mujer.'",
-    "fuente": "Disposición adicional sexta Ley 4/2007 (Aragón) (violencia sobre la mujer)"
-  },
-  {
     "q": "¿Cuántos capítulos, disposiciones adicionales y disposiciones finales estructuran la Ley 4/2007 de Aragón, según su propio preámbulo?",
     "options": [
       "Un único capítulo con veinte artículos",
@@ -1709,7 +1685,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "Según el preámbulo: 'La Ley se estructura en cinco capítulos, seis disposiciones adicionales y tres disposiciones finales.'",
-    "fuente": "Disposición final Ley 4/2007 (Aragón) (violencia sobre la mujer)"
+    "fuente": "Preámbulo, apartado V, Ley 4/2007, de 22 de marzo, de Aragón"
   },
   {
     "q": "¿Cuál es el título oficial completo de la ley aragonesa que regula la violencia contra las mujeres, referenciada en el temario?",
@@ -1721,31 +1697,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "El título oficial es 'Ley 4/2007, de 22 de marzo, de Prevención y Protección Integral a las Mujeres Víctimas de Violencia en Aragón', publicada en el BOA y en el BOE.",
-    "fuente": "LOIEMH (LO 3/2007)"
-  },
-  {
-    "q": "Según el art. 12 de la Ley 4/2007, el Servicio Social Integral y Especializado en Violencia contra la Mujer depende de:",
-    "options": [
-      "El Ayuntamiento de Zaragoza en exclusiva",
-      "Las comarcas aragonesas de forma independiente",
-      "El Ministerio de Igualdad del Gobierno de España",
-      "El Instituto Aragonés de la Mujer"
-    ],
-    "correct": 3,
-    "exp": "Art. 12.1: 'El Gobierno de Aragón creará un Servicio Social Integral y Especializado en Violencia contra la Mujer, dependiente del Instituto Aragonés de la Mujer.'",
-    "fuente": "Art. 12.1 Ley 4/2007 (Aragón) (violencia sobre la mujer)"
-  },
-  {
-    "q": "Según el art. 17 de la Ley 4/2007, el servicio de guardia presta asistencia jurídica y social de emergencia a las víctimas durante:",
-    "options": [
-      "Las veinticuatro horas del día, a través de un teléfono gratuito",
-      "Un máximo de dos horas diarias",
-      "Los fines de semana exclusivamente",
-      "Solo el horario de oficina de 9 a 14 horas"
-    ],
-    "correct": 0,
-    "exp": "Art. 17.1: 'prestará asistencia jurídica y social de emergencia a las mujeres víctimas de violencia durante las veinticuatro horas del día, a través de un teléfono gratuito.'",
-    "fuente": "Art. 17.1 Ley 4/2007 (Aragón) (violencia sobre la mujer)"
+    "fuente": "Título de la norma: Ley 4/2007, de 22 de marzo, de Prevención y Protección Integral a las Mujeres Víctimas de Violencia en Aragón (BOA núm. 41, de 09/04/2007; BOE núm. 141, de 13/06/2007; BOE-A-2007-11593)"
   },
   {
     "q": "El Primer Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (PIEEM) se elaboró en 2010 tras un primer diagnóstico de la plantilla, siendo su vigencia prevista para el período:",
@@ -1757,7 +1709,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El Primer Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza se elaboró en 2010, con vigencia prevista para el período 2011-2015 (aprobado finalmente el 18 de abril de 2013).",
-    "fuente": "Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza"
+    "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ núm. 16, de 20/01/2024), apdo. 1 'Introducción', pág. 7"
   },
   {
     "q": "La Mesa para la Igualdad del Ayuntamiento de Zaragoza, prevista en los artículos 68 y 76 del Pacto-Convenio 2008-2011, se constituyó con fecha:",
@@ -1769,7 +1721,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "'Con fecha 9 de marzo de 2009 se constituyó la Mesa para la Igualdad prevista en los artículos 68 y 76 del Pacto Convenio 2008-2011.'",
-    "fuente": "Art. 68 LOIEMH (LO 3/2007)"
+    "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza, apdo. 1 'Introducción', pág. 7 (Mesa para la Igualdad prevista en los arts. 68 y 76 del Pacto-Convenio 2008-2011)"
   },
   {
     "q": "¿Cuáles son los cuatro ejes de actuación del II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (2024-2027)?",
@@ -1781,7 +1733,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "El II PIEEM se estructura en cuatro ejes: A) Cultura de la organización; B) Gestión de recursos humanos; C) Conciliación y corresponsabilidad; D) Prevención, salud laboral y protección frente al acoso sexual, por razón de sexo y por orientación sexual.",
-    "fuente": "Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza"
+    "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza, apdo. 8 'Objetivos', pág. 21 (Ejes A, B, C y D)"
   },
   {
     "q": "Según la información pública del II Plan de Igualdad del Ayuntamiento de Zaragoza (2024-2027), este cuenta, en resumen, con 4 ejes de actuación, 12 líneas de actuación, 21 objetivos específicos y:",
@@ -1793,7 +1745,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "Según la difusión oficial del II PIEEM: '4 Ejes de actuación con un objetivo cada uno, 12 Líneas de Actuación, 21 objetivos específicos y 44 acciones.'",
-    "fuente": "Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza"
+    "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza, apdo. 8 'Objetivos', pág. 22 (resumen final del apartado)"
   },
   {
     "q": "El Eje A del II Plan de Igualdad del Ayuntamiento de Zaragoza, 'Cultura de la organización', tiene como objetivo:",
@@ -1805,7 +1757,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El Eje A ('Cultura de la organización') tiene como objetivo garantizar la igualdad de trato y oportunidades entre mujeres y hombres como uno de los valores fundamentales de la organización municipal.",
-    "fuente": "Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza"
+    "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza, apdo. 8 'Objetivos', Eje A 'Cultura de la organización', pág. 21"
   },
   {
     "q": "El Eje C del II Plan de Igualdad del Ayuntamiento de Zaragoza, 'Conciliación y corresponsabilidad', tiene como objetivo garantizar el derecho a la conciliación de la vida laboral, familiar y personal e impulsar:",
@@ -1817,7 +1769,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "El Eje C tiene como objetivo garantizar el derecho a la conciliación de la vida laboral, familiar y personal a toda la plantilla municipal e impulsar la corresponsabilidad en hombres y mujeres en el ámbito familiar y doméstico.",
-    "fuente": "Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza"
+    "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza, apdo. 8 'Objetivos', Eje C 'Conciliación y corresponsabilidad', pág. 21"
   },
   {
     "q": "El Eje D del II Plan de Igualdad del Ayuntamiento de Zaragoza se dedica a la prevención, salud laboral y protección frente al acoso sexual, por razón de sexo y:",
@@ -1829,19 +1781,19 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "El Eje D se titula 'Prevención, salud laboral y protección frente al acoso sexual, por razón de sexo y por orientación sexual', para garantizar un entorno laboral que mejore la calidad de vida de la plantilla.",
-    "fuente": "Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza"
+    "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza, apdo. 8 'Objetivos', Eje D 'Prevención, salud laboral y protección frente al acoso sexual, acoso por razón de sexo y acoso por orientación sexual', pág. 21"
   },
   {
     "q": "¿Qué norma estatal establece la obligación de las Administraciones Públicas de elaborar y aplicar un Plan de Igualdad, según se recoge en la documentación del Ayuntamiento de Zaragoza?",
     "options": [
-      "La Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, y la Disposición Adicional Octava de la Ley del Estatuto Básico del Empleado Público",
+      "La Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres (art. 64), y la disposición adicional séptima del texto refundido de la Ley del Estatuto Básico del Empleado Público (Real Decreto Legislativo 5/2015)",
       "El Reglamento de Régimen Interior del propio Ayuntamiento",
       "La Ley de Contratos del Sector Público",
       "El Estatuto de los Trabajadores exclusivamente"
     ],
     "correct": 0,
-    "exp": "La obligación deriva de la Ley Orgánica 3/2007 (art. 45.2, planes de igualdad en empresas) y de la Disposición Adicional Octava del EBEP (Ley 7/2007), que impone esta obligación específicamente a las Administraciones Públicas.",
-    "fuente": "Disposición adicional Octava LOIEMH (LO 3/2007)"
+    "exp": "El II PIEEM (apdo. 1, Introducción) señala que los planes de igualdad en las Administraciones Públicas 'son una obligación recogida en normas, como en el art. 64 de la Ley Orgánica 3/2007... así como en el texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015... de conformidad con lo dispuesto en la disposición adicional séptima'. En el ámbito autonómico añade el art. 51 de la Ley 7/2018 de Aragón.",
+    "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza, apdo. 1 'Introducción', pág. 6"
   },
   {
     "q": "Según la documentación municipal, ¿qué es un Plan de Igualdad, tal como lo recoge el propio Ayuntamiento de Zaragoza siguiendo la definición legal?",
@@ -1853,19 +1805,19 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "'Un plan de igualdad es un conjunto ordenado de medidas, adoptadas después de realizar un diagnóstico de situación, tendentes a alcanzar en la empresa la igualdad de trato y de oportunidades entre mujeres y hombres y a eliminar la discriminación por razón de sexo.'",
-    "fuente": "Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza"
+    "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza, apdo. 3 'Marco conceptual', voz 'Plan de Igualdad', pág. 15 (definición del art. 46.1 LO 3/2007)"
   },
   {
-    "q": "Según los artículos 64 y 74 del Pacto-Convenio 2012-2015 del Ayuntamiento de Zaragoza, la Corporación y los sindicatos firmantes se comprometieron a elevar a aprobación el Plan de Igualdad del Ayuntamiento en el mes de:",
+    "q": "Según el apartado de Normativa Municipal del II Plan de Igualdad del Ayuntamiento de Zaragoza, ¿en qué artículo del Pacto-Convenio 2016-2019 se recoge el impulso del Plan de Igualdad para las empleadas y empleados municipales?",
     "options": [
-      "Diciembre de 2015",
-      "Enero de 2013",
-      "Junio de 2012",
-      "Marzo de 2011"
+      "En el artículo 76",
+      "En el artículo 51",
+      "En el artículo 65",
+      "En el artículo 46"
     ],
     "correct": 2,
-    "exp": "Los arts. 64 y 74 del Pacto-Convenio 2012-2015 recogen el compromiso de elevar a aprobación el Plan de Igualdad 'en el mes de junio de 2012'.",
-    "fuente": "Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza"
+    "exp": "El II PIEEM, apdo. 2.5 'Normativa Municipal', reproduce que 'el Pacto Convenio 2016-2019 en su art. 65 recoge: Mediante la Comisión para la Igualdad, por la representación de la Corporación y de los sindicatos se impulsará el Plan de Igualdad para las empleadas y empleados del Ayuntamiento de Zaragoza aprobado por el Gobierno de Zaragoza el 18 de abril de 2013...'.",
+    "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza, apdo. 2.5 'Normativa Municipal', pág. 12"
   },
   {
     "q": "Según el art. 1.2 de la LO 3/2007, la Ley establece principios de actuación de los Poderes Públicos, regula derechos y deberes de las personas y prevé medidas destinadas a:",
@@ -1937,7 +1889,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "El art. 11 de la LO 3/2007 lleva por título 'Acciones positivas'.",
-    "fuente": "LOIEMH (LO 3/2007)"
+    "fuente": "Art. 11 LO 3/2007 ('Acciones positivas'), Título I"
   },
   {
     "q": "¿En qué artículo de la LO 3/2007 se regula la 'tutela judicial efectiva' del derecho a la igualdad?",
@@ -2033,7 +1985,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "El título completo y exacto es 'Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres'.",
-    "fuente": "LOIEMH (LO 3/2007)"
+    "fuente": "Encabezamiento de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres (BOE núm. 71, de 23/03/2007; BOE-A-2007-6115)"
   },
   {
     "q": "¿En qué fecha entró en vigor la LO 3/2007, para la igualdad efectiva de mujeres y hombres?",
@@ -2044,8 +1996,8 @@ const QUESTIONS = {
       "23 de marzo de 2007"
     ],
     "correct": 0,
-    "exp": "La LO 3/2007 se publicó en el BOE núm. 71, de 23 de marzo de 2007, y entró en vigor el 24 de marzo de 2007.",
-    "fuente": "LOIEMH (LO 3/2007)"
+    "exp": "La disposición final octava de la LO 3/2007 establece que 'la presente Ley entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Estado, con excepción de lo previsto en el artículo 71.2, que lo hará el 31 de diciembre de 2008'. Publicada en el BOE núm. 71, de 23 de marzo de 2007, entró en vigor el 24 de marzo de 2007.",
+    "fuente": "Disposición final octava LO 3/2007 (BOE núm. 71, de 23/03/2007)"
   },
   {
     "q": "Según el art. 4 de la Ley 4/2007 de Aragón (ámbito de aplicación), las medidas de esta Ley se aplican a las mujeres víctimas de violencia dentro de:",
@@ -2168,30 +2120,6 @@ const QUESTIONS = {
     "fuente": "Art. 30.2 Ley 4/2007 (Aragón) (violencia sobre la mujer)"
   },
   {
-    "q": "Según el art. 32 de la Ley 4/2007 (Capítulo V, prestaciones económicas), el Ingreso Aragonés de Inserción se abonará, tras la solicitud, en un plazo máximo de:",
-    "options": [
-      "Tres meses",
-      "Diez días hábiles",
-      "Un año",
-      "Cuarenta y cinco días naturales"
-    ],
-    "correct": 3,
-    "exp": "Art. 32: 'el reconocimiento del derecho a la prestación y su abono efectivo se efectuarán en el plazo máximo de cuarenta y cinco días naturales desde la solicitud formulada por la interesada.'",
-    "fuente": "Art. 32 Ley 4/2007 (Aragón) (violencia sobre la mujer)"
-  },
-  {
-    "q": "Según el art. 33 de la Ley 4/2007, las comarcas aragonesas destinarán, dentro de las ayudas de urgente necesidad, una partida económica específica para atender de manera inmediata:",
-    "options": [
-      "Situaciones de emergencia social de mujeres víctimas de violencia sin medios económicos",
-      "Solo gastos de infraestructura comarcal",
-      "Cualquier necesidad municipal sin distinción",
-      "Exclusivamente ayudas al comercio local"
-    ],
-    "correct": 0,
-    "exp": "Art. 33: 'destinarán, dentro de las ayudas de urgente necesidad, una partida económica específica cuya finalidad será la de atender de manera inmediata situaciones de emergencia social en que se encuentren las mujeres víctimas de violencia.'",
-    "fuente": "Art. 33 Ley 4/2007 (Aragón) (violencia sobre la mujer)"
-  },
-  {
     "q": "El Capítulo V de la Ley 4/2007 de Aragón se titula:",
     "options": [
       "Medidas de información y asesoramiento",
@@ -2201,7 +2129,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El Capítulo V, que cierra el articulado de la Ley 4/2007, lleva por título 'Prestaciones económicas' (arts. 32 a 36).",
-    "fuente": "Capítulo V Ley 4/2007 (Aragón) (violencia sobre la mujer)"
+    "fuente": "Capítulo V 'Prestaciones económicas' (arts. 32 a 36) Ley 4/2007 de Aragón"
   },
   {
     "q": "¿Cuántos artículos comprende, en total, el articulado de la Ley 4/2007 de Aragón, antes de las disposiciones adicionales?",
@@ -2213,19 +2141,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "La Ley 4/2007 de Aragón tiene 36 artículos distribuidos en cinco capítulos, antes de sus disposiciones adicionales, derogatoria y finales.",
-    "fuente": "Ley 4/2007 (Aragón) (violencia sobre la mujer)"
-  },
-  {
-    "q": "Según la Disposición adicional quinta de la Ley 4/2007, los derechos laborales reconocidos por la Ley Orgánica 1/2004 a las trabajadoras y funcionarias víctimas de violencia de género son de aplicación en Aragón:",
-    "options": [
-      "Únicamente si lo solicita expresamente la interesada por escrito",
-      "Solo tras la aprobación de un decreto autonómico de desarrollo",
-      "Con un retraso mínimo de seis meses desde su reconocimiento estatal",
-      "Directa e inmediata, sin necesidad de desarrollo normativo específico"
-    ],
-    "correct": 3,
-    "exp": "Disposición adicional quinta: 'son de aplicación directa e inmediata en la Comunidad Autónoma de Aragón, sin necesidad de desarrollo normativo específico.'",
-    "fuente": "Disposición adicional quinta Ley 4/2007 (Aragón) (violencia sobre la mujer)"
+    "fuente": "Ley 4/2007 de Aragón: arts. 1 a 36, distribuidos en cinco capítulos (Preámbulo, apartado V)"
   },
   {
     "q": "Según el preámbulo de la Ley 4/2007, esta norma amplía el ámbito de protección más allá del concepto legal de violencia de género de la Ley Orgánica 1/2004, incluyendo también las situaciones de:",
@@ -2237,7 +2153,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "Preámbulo: '...pretende otorgar una protección más completa y general... A estos efectos, la presente Ley incluye también las situaciones de violencia laboral o docente y de violencia social como situaciones de violencia ejercida contra las mujeres.'",
-    "fuente": "Preámbulo Ley 4/2007 (Aragón) (violencia sobre la mujer)"
+    "fuente": "Preámbulo, apartado III, Ley 4/2007 de Aragón"
   },
   {
     "q": "¿Qué órgano municipal se constituyó el 9 de marzo de 2009 con el objetivo de elaborar un Plan de Igualdad para el Ayuntamiento de Zaragoza?",
@@ -2249,7 +2165,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "'Con fecha 9 de marzo de 2009 se constituyó la Mesa para la Igualdad prevista en los artículos 68 y 76 del Pacto Convenio 2008-2011.'",
-    "fuente": "Art. 68 LOIEMH (LO 3/2007)"
+    "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza, apdo. 1 'Introducción', pág. 7"
   },
   {
     "q": "¿En qué año se aprobó finalmente el Primer Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (PIEEM), pese a haber sido elaborado en 2010?",
@@ -2261,7 +2177,7 @@ const QUESTIONS = {
     ],
     "correct": 2,
     "exp": "El PIEEM se elaboró en 2010, pero 'fue aprobado el 18 de abril de 2013', tras diversos retrasos organizativos.",
-    "fuente": "Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza"
+    "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza, apdo. 1 'Introducción', pág. 7"
   },
   {
     "q": "Según la documentación del II Plan de Igualdad del Ayuntamiento de Zaragoza, ¿qué proceso se inició en 2019 respecto al nuevo plan?",
@@ -2273,7 +2189,7 @@ const QUESTIONS = {
     ],
     "correct": 3,
     "exp": "Según la cronología documentada: 'Fase I. Puesta en marcha en 2019 del proceso de elaboración del nuevo plan.'",
-    "fuente": "Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza"
+    "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza, apdo. 1 'Introducción', Fase I, pág. 8"
   },
   {
     "q": "Según la documentación del II Plan de Igualdad del Ayuntamiento de Zaragoza, ¿en qué año se realizó el Diagnóstico de la plantilla municipal como parte de su elaboración?",
@@ -2285,7 +2201,7 @@ const QUESTIONS = {
     ],
     "correct": 0,
     "exp": "Según la cronología: 'Fase II: Realización en 2020 del Diagnóstico de la plantilla municipal, según la Ley...'",
-    "fuente": "Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza"
+    "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza, apdo. 1 'Introducción', Fase II, pág. 8"
   },
   {
     "q": "El II Plan de Igualdad para Empleadas y Empleados del Ayuntamiento de Zaragoza (II PIEEM) tiene como objetivo general garantizar la igualdad real y efectiva de oportunidades entre mujeres y hombres y evitar:",
@@ -2297,7 +2213,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "'El II PIEEM tiene como objetivo general garantizar la igualdad real y efectiva de oportunidades entre mujeres y hombres y evitar cualquier tipo de discriminación por razón de sexo en el seno del Ayuntamiento de Zaragoza.'",
-    "fuente": "Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza"
+    "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza, apdo. 8 'Objetivos', objetivo general, pág. 20"
   },
   {
     "q": "¿Cuál es la vigencia temporal establecida para el II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza?",
@@ -2308,11 +2224,11 @@ const QUESTIONS = {
       "2018-2021"
     ],
     "correct": 2,
-    "exp": "El II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza tiene una vigencia de 2024 a 2027.",
-    "fuente": "Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza"
+    "exp": "El apdo. 5.3 'Ámbito temporal' del II PIEEM dispone que 'el periodo de vigencia del presente Plan será de cuatro años desde su aprobación y registro' y que entra en vigor al ser aprobado por el Gobierno de Zaragoza y publicado en el BOP. Aprobado y publicado en el BOPZ núm. 16, de 20 de enero de 2024, su vigencia es 2024-2027.",
+    "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza, apdo. 5.3 'Ámbito temporal', pág. 17 (aprobación publicada en el BOPZ núm. 16, de 20/01/2024)"
   },
   {
-    "q": "El II Plan de Igualdad del Ayuntamiento de Zaragoza fue negociado entre representantes de las Áreas de Gobierno municipal y la representación de empleadas y empleados en fechas cercanas a:",
+    "q": "Según la Fase IV de elaboración del II Plan de Igualdad del Ayuntamiento de Zaragoza, ¿en qué fechas se constituyó la Comisión Negociadora del Plan y se aprobó su texto definitivo?",
     "options": [
       "1 de enero de 2024",
       "30 de abril de 2013",
@@ -2320,11 +2236,11 @@ const QUESTIONS = {
       "20 de febrero y 1 de marzo de 2023"
     ],
     "correct": 3,
-    "exp": "'se negoció en fechas 20 de febrero y 1 de marzo de 2023, entre las personas representantes de las diferentes Áreas de Gobierno municipal y la representación de los empleadas y empleados municipales.'",
-    "fuente": "Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza"
+    "exp": "Apdo. 1 del II PIEEM, Fase IV: 'Negociación, aprobación y registro. Con fecha 20 de febrero de 2023 se constituyó la Comisión Negociadora de este Plan que aprobó el 1 de marzo de 2023 el texto definitivo'. Esa Comisión estuvo compuesta de forma paritaria por representantes de la Administración municipal y de las organizaciones sindicales (apdo. 4, 'Partes suscriptoras').",
+    "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza, apdo. 1 'Introducción', Fase IV, pág. 9"
   },
   {
-    "q": "Según el Eje B del II Plan de Igualdad del Ayuntamiento de Zaragoza, 'Gestión de Recursos Humanos', una de sus líneas es promover la paridad en:",
+    "q": "En el Eje B del II Plan de Igualdad del Ayuntamiento de Zaragoza, 'Gestión de Recursos Humanos', uno de los objetivos específicos de la Línea B.1 'Acceso' consiste en promover la paridad en:",
     "options": [
       "Los órganos de selección",
       "La distribución del mobiliario de oficina",
@@ -2332,8 +2248,8 @@ const QUESTIONS = {
       "El régimen de vacaciones"
     ],
     "correct": 0,
-    "exp": "Entre las medidas del Eje B se incluye: 'B.1.2. Promover la paridad en los órganos de selección.'",
-    "fuente": "Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza"
+    "exp": "II PIEEM, Eje de actuación B 'Gestión de Recursos Humanos', Línea B.1 'Acceso': 'Objetivo específico B.1.2. Promover la paridad en los órganos de selección', del que se derivan las acciones B.1.2.1 y B.1.2.2.",
+    "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza, apdo. 9 'Acciones de igualdad', Eje B, Línea B.1 'Acceso', objetivo específico B.1.2, pág. 36"
   },
   {
     "q": "El Título I de la LO 3/2007 regula, entre otras cuestiones, el principio de igualdad de trato, la discriminación directa e indirecta, el acoso sexual, la discriminación por embarazo, la indemnidad frente a represalias, las consecuencias jurídicas, las acciones positivas, la tutela judicial efectiva y:",
@@ -2345,7 +2261,7 @@ const QUESTIONS = {
     ],
     "correct": 1,
     "exp": "El Título I ('El principio de igualdad y la tutela contra la discriminación') cierra con el art. 13, dedicado a la regla especial de prueba en los procedimientos por discriminación por razón de sexo.",
-    "fuente": "Título I LOIEMH (LO 3/2007)"
+    "fuente": "Título I (arts. 3 a 13) LO 3/2007, en particular art. 13 ('Prueba')"
   },
 ],
 3:[
