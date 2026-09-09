@@ -24,7 +24,7 @@ const TEMAS = [
   {id:18, title:"Empleados públicos (II): situaciones"},
   {id:19, title:"Empleados públicos (III): FP local"},
   {id:20, title:"Ley de Urbanismo de Aragón"},
-  {id:21, title:"📋 EXAMEN OFICIAL 1-jun-2025 (real)"}
+  {id:21, title:"Test Oficiales"}
 ];
 
 const QUESTIONS = {
