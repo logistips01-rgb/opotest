@@ -50554,3 +50554,825 @@ window.addQuestions("aux-admin-zaragoza", 18, [
   }
 ]);
 
+
+/* Examen oficial del 31 de mayo de 2026, oposición Auxiliar Administrativo (TL),
+   Ayuntamiento de Zaragoza, convocatoria CONV 4/2026 (la misma de este banco).
+   Transcrito de los cuestionarios y plantillas definitivas de respuestas publicados
+   por el Ayuntamiento: zaragoza.es/oferta, oferta id=1681, anuncios idAnuncio=16905
+   (cuestionarios y plantillas provisionales) y idAnuncio=17089 (plantillas definitivas,
+   tras resolver los recursos de alzada). Primer ejercicio: 50 preguntas de tres opciones
+   más 5 de reserva (excluidas la 41 y la 42, ANULADAS en la plantilla). Segundo ejercicio:
+   20 preguntas de cuatro opciones en dos supuestos prácticos (excluida la 17, ANULADA). */
+window.addQuestions("aux-admin-zaragoza", 21, [
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P1] La Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, enumera en su artículo 6 los títulos honoríficos de la ciudad de Zaragoza. Dos de esos títulos son:",
+    "options": [
+      "Invicta y Muy Benéfica.",
+      "Siempre Heroica e Inmortal.",
+      "Las dos respuestas anteriores son correctas."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 1 del examen oficial de 31 de mayo de 2026. El artículo 6 de la Ley 10/2017 recoge entre los títulos honoríficos de Zaragoza los de \"Siempre Heroica\" e \"Inmortal\".",
+    "fuente": "Art. 6 Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P2] De acuerdo con el artículo 12.2 y 12.3 de la Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón:",
+    "options": [
+      "El Alcalde no puede delegar la atribución de dictar bandos.",
+      "El Alcalde puede delegar en el Gobierno de Zaragoza la dirección y otras funciones relativas a la Policía Local.",
+      "Las dos respuestas anteriores son correctas."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 2 del examen oficial de 31 de mayo de 2026. El artículo 12.2 de la Ley 10/2017 excluye de la delegación la atribución de dictar bandos, que es indelegable del Alcalde.",
+    "fuente": "Art. 12.2 y 12.3 Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P3] ¿Qué título de la Constitución española de 1978 tiene como epígrafe \"Hacienda Pública\"?",
+    "options": [
+      "El Título VII.",
+      "El Título IX.",
+      "Ninguna de las respuestas anteriores es correcta."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 3 del examen oficial de 31 de mayo de 2026. El epígrafe \"Economía y Hacienda\" corresponde al Título VII de la Constitución, no exactamente denominado \"Hacienda Pública\", por lo que ninguna opción literal es correcta.",
+    "fuente": "Constitución Española de 1978, Título VII"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P4] La Ley 4/2007, de 22 de marzo, de Prevención y Protección Integral a las Mujeres Víctimas de Violencia en Aragón, dice en su artículo 19.4 que se establecerá, al menos, una casa de acogida:",
+    "options": [
+      "En cada comarca de la Comunidad Autónoma de Aragón.",
+      "En cada provincia de la Comunidad Autónoma de Aragón.",
+      "En cada Servicio Social de Base de la Comunidad Autónoma de Aragón."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 4 del examen oficial de 31 de mayo de 2026. El artículo 19.4 de la Ley 4/2007 exige el establecimiento de, al menos, una casa de acogida en cada provincia de la Comunidad Autónoma de Aragón.",
+    "fuente": "Art. 19.4 Ley 4/2007, de 22 de marzo (Aragón)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P5] El Título V del Estatuto de Autonomía de Aragón clasifica las competencias de la Comunidad Autónoma en exclusivas, compartidas y ejecutivas. ¿En el ámbito de qué competencia/s ejerce la Comunidad Autónoma una función legislativa?",
+    "options": [
+      "En el ámbito de las competencias exclusivas y en el ámbito de las competencias compartidas.",
+      "En el ámbito de las competencias exclusivas, en el ámbito de las competencias compartidas y en el ámbito de las competencias ejecutivas.",
+      "En el ámbito de las competencias exclusivas."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 5 del examen oficial de 31 de mayo de 2026. La función legislativa la ejerce la Comunidad Autónoma en el ámbito de las competencias exclusivas y en el de las compartidas, no en las ejecutivas.",
+    "fuente": "Título V Estatuto de Autonomía de Aragón (LO 5/2007)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P6] De acuerdo con el artículo 12.1 de Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, es una atribución del Alcalde:",
+    "options": [
+      "Representar al municipio de Zaragoza.",
+      "Responder de su gestión política ante el Pleno.",
+      "Las dos respuestas anteriores son correctas."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 6 del examen oficial de 31 de mayo de 2026. El artículo 12.1 incluye entre las atribuciones del Alcalde tanto representar al municipio como responder de su gestión política ante el Pleno.",
+    "fuente": "Art. 12.1 Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P7] La actual Constitución española:",
+    "options": [
+      "Fue elaborada y aprobada por las Cortes resultantes de las elecciones generales celebradas el 15 de junio de 1977.",
+      "Fue sancionada y promulgada el 27 de diciembre de 1978.",
+      "Las respuestas a) y b) son correctas."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 7 del examen oficial de 31 de mayo de 2026. La Constitución fue elaborada por las Cortes surgidas de las elecciones del 15 de junio de 1977 y fue sancionada y promulgada el 27 de diciembre de 1978, siendo ambas afirmaciones correctas.",
+    "fuente": "Constitución Española de 1978"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P8] De acuerdo con el artículo 129.2 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local:",
+    "options": [
+      "Una persona que no ostente la condición de funcionario no puede ser nombrado titular de la asesoría jurídica en un municipio de gran población.",
+      "Para ser nombrado titular de la asesoría jurídica en un municipio de gran población es requisito suficiente estar en posesión del título de licenciado en derecho.",
+      "Las dos respuestas anteriores son correctas."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 8 del examen oficial de 31 de mayo de 2026. El artículo 129.2 LBRL exige la condición de funcionario para ser titular de la asesoría jurídica en municipios de gran población, sin que baste solo el título de licenciado en derecho.",
+    "fuente": "Art. 129.2 LBRL (Ley 7/1985)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P9] De acuerdo con el artículo 121.1 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, ¿por qué le resulta de aplicación al municipio de Zaragoza el régimen de organización de los municipios de gran población?",
+    "options": [
+      "Porque es capital de provincia, capital autonómica y sede de las instituciones autonómicas.",
+      "Por cualquiera de estas dos razones: la primera, porque su población supera los 250.000 habitantes y, la segunda, porque es capital de provincia y su población es superior a los 175.000 habitantes.",
+      "Porque es capital de provincia y así lo decidió las Cortes de Aragón a iniciativa del Ayuntamiento de Zaragoza."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 9 del examen oficial de 31 de mayo de 2026. El artículo 121.1 LBRL aplica el régimen de gran población a los municipios con más de 250.000 habitantes o a las capitales de provincia con más de 175.000, ambos supuestos cumplidos por Zaragoza.",
+    "fuente": "Art. 121.1 LBRL (Ley 7/1985)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P10] Una entidad ciudadana de Zaragoza solicita al Ayuntamiento la cesión de espacio en un centro cívico para organizar actividades. De acuerdo con los artículos 72 y 78 del Reglamento de Órganos Territoriales y Participación Ciudadana:",
+    "options": [
+      "Si la entidad tiene la declaración de interés ciudadano tiene preferencia para obtener esa cesión respecto de aquellas otras entidades que no tengan dicha declaración.",
+      "Requisito necesario para obtener la cesión es que la entidad esté inscrita en el Censo Municipal de Entidades Ciudadanas.",
+      "Las dos respuestas anteriores son correctas."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 10 del examen oficial de 31 de mayo de 2026. Los artículos 72 y 78 del ROTPC exigen la inscripción en el Censo Municipal de Entidades Ciudadanas y otorgan preferencia a las entidades con declaración de interés ciudadano.",
+    "fuente": "Arts. 72 y 78 Reglamento de Órganos Territoriales y Participación Ciudadana (Ayto. Zaragoza)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P11] De acuerdo con la disposición adicional tercera. 8. de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la emisión de los informes que dicho apartado atribuye al Secretario de la entidad local corresponderá tratándose de municipios de gran población:",
+    "options": [
+      "Al titular del Órgano de Apoyo a la Junta de Gobierno.",
+      "Al titular de la asesoría jurídica.",
+      "Al titular del Órgano de Apoyo a la Junta de Gobierno o al titular de la asesoría jurídica según cual sea el importe del contrato o la duración del mismo."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 11 del examen oficial de 31 de mayo de 2026. La disposición adicional tercera.8 de la Ley 9/2017 distribuye la emisión de esos informes entre el Órgano de Apoyo a la Junta de Gobierno y la asesoría jurídica en función del importe o duración del contrato.",
+    "fuente": "Disp. adicional 3ª.8 Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P12] De acuerdo con los artículos 11,14 y 50 de la Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón:",
+    "options": [
+      "La aprobación inicial del presupuesto corresponde al Gobierno de Zaragoza y la aprobación definitiva corresponde al Pleno.",
+      "Corresponde al Pleno la aprobación inicial y la aprobación definitiva del presupuesto.",
+      "Ninguna de las respuestas anteriores es correcta."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 12 del examen oficial de 31 de mayo de 2026. Conforme a los artículos 11, 14 y 50 de la Ley 10/2017 el reparto de la aprobación del presupuesto no coincide con ninguna de las dos opciones descritas.",
+    "fuente": "Arts. 11, 14 y 50 Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P13] El Reglamento de Órganos Territoriales y Participación Ciudadana, en su Disposición Adicional Tercera, reconoce a la Unión Vecinal Cesaraugusta y a la Federación de Asociaciones de Barrios de Zaragoza:",
+    "options": [
+      "La declaración de entidad ciudadana.",
+      "La declaración de interés público municipal.",
+      "Las respuestas a) y b) son correctas."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 13 del examen oficial de 31 de mayo de 2026. La Disposición Adicional Tercera del ROTPC reconoce a ambas entidades tanto la declaración de entidad ciudadana como la de interés público municipal.",
+    "fuente": "Disp. Adicional 3ª Reglamento de Órganos Territoriales y Participación Ciudadana (Ayto. Zaragoza)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P14] De acuerdo con el artículo 48 bis. 1. del Real Decreto Legislativo 2/2004, de 5 de marzo, que aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, todas las operaciones financieras que suscriban las Corporaciones Locales están sujetas:",
+    "options": [
+      "Al principio de sostenibilidad financiera.",
+      "Al principio de prudencia financiera.",
+      "Al principio de estabilidad presupuestaria."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 14 del examen oficial de 31 de mayo de 2026. El artículo 48 bis.1 TRLHL somete todas las operaciones financieras de las Corporaciones Locales al principio de prudencia financiera.",
+    "fuente": "Art. 48 bis.1 TRLHL (RDL 2/2004)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P15] El Manual de Atención a la Ciudadanía del Ayuntamiento de Zaragoza concluye con quince principios básicos. En uno de ellos, el número 9, que denomina «Hay que dar información veraz y concreta», se dice que:",
+    "options": [
+      "Lo que más irrita a cualquier persona es que lo que le digamos no se cumpla o sea inexacto.",
+      "Es preferible reconocer nuestra ignorancia sobre un tema que dar información ambigua.",
+      "Las dos respuestas anteriores son correctas."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 15 del examen oficial de 31 de mayo de 2026. El principio 9 del Manual de Atención a la Ciudadanía recoge ambas ideas: que lo que más irrita es el incumplimiento o la inexactitud, y que es preferible reconocer la ignorancia antes que dar información ambigua.",
+    "fuente": "Manual de Atención a la Ciudadanía del Ayuntamiento de Zaragoza, principio 9"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P16] De acuerdo con el artículo 125 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el plazo de interposición del recurso extraordinario de revisión por concurrir la circunstancia de que al dictar el acto se hubiera incurrido en error de hecho, que resulte de los propios documentos incorporados al expediente es de cuatro años:",
+    "options": [
+      "A contar desde el conocimiento de los documentos.",
+      "Desde la fecha de la notificación de la resolución impugnada.",
+      "Ninguna de las respuestas anteriores es correcta."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 16 del examen oficial de 31 de mayo de 2026. El artículo 125 LPACAP fija el plazo de cuatro años para este supuesto de recurso extraordinario de revisión desde la fecha de notificación de la resolución impugnada.",
+    "fuente": "Art. 125 LPACAP (Ley 39/2015)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P17] La Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, dice en su artículo 8 que todo trato desfavorable a las mujeres relacionado con el embarazo o la maternidad:",
+    "options": [
+      "Se considerará en todo caso discriminatorio.",
+      "Constituye discriminación directa por razón de sexo.",
+      "Constituye discriminación indirecta por razón de sexo."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 17 del examen oficial de 31 de mayo de 2026. El artículo 8 de la LO 3/2007 califica expresamente como discriminación directa por razón de sexo todo trato desfavorable relacionado con el embarazo o la maternidad.",
+    "fuente": "Art. 8 LO 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P18] La Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, dice en su artículo 48.2 b) que la iniciativa para la aprobación de ordenanzas y Reglamentos de competencia del Pleno corresponderá a los grupos políticos:",
+    "options": [
+      "Mediante la remisión del correspondiente proyecto normativo.",
+      "A través de la correspondiente proposición.",
+      "En los términos previstos en la normativa básica."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 18 del examen oficial de 31 de mayo de 2026. El artículo 48.2 b) de la Ley 10/2017 atribuye a los grupos políticos la iniciativa mediante la correspondiente proposición.",
+    "fuente": "Art. 48.2 b) Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P19] De acuerdo con el artículo 2º del Real Decreto 896/1991, de 7 de junio, por el que se establecen las reglas básicas y los programas mínimos a que debe ajustarse el procedimiento de selección de los funcionarios de Administración Local, el ingreso en la Función Pública Local se realizará, con carácter general:",
+    "options": [
+      "A través del sistema de oposición, salvo que por la naturaleza de las plazas o de las funciones a desempeñar, sea más adecuada la utilización del sistema de concurso-oposición o concurso.",
+      "A través del sistema de oposición o concurso-oposición, salvo que por naturaleza de las plazas o de las funciones a desempeñar, sea más adecuada la utilización del sistema de concurso.",
+      "A través los sistemas de oposición, concurso-oposición o concurso."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 19 del examen oficial de 31 de mayo de 2026. El artículo 2º del RD 896/1991 establece la oposición como sistema general de ingreso, salvo que la naturaleza de las plazas o funciones aconseje el concurso-oposición o el concurso.",
+    "fuente": "Art. 2 RD 896/1991, de 7 de junio"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P20] ¿Qué contrato define el artículo 15 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, como aquel en cuya virtud uno o varios poderes adjudicadores encomiendan a título oneroso a una o varias personas, naturales o jurídicas, la gestión de un servicio cuya prestación sea de su titularidad o competencia, y cuya contrapartida venga constituida bien por el derecho a explotar los servicios objeto del contrato o bien por dicho derecho acompañado del de percibir un precio?",
+    "options": [
+      "Contrato de arrendamiento de servicios.",
+      "Contrato de servicios.",
+      "Ninguna de las respuestas anteriores es correcta."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 20 del examen oficial de 31 de mayo de 2026. La definición transcrita corresponde en realidad al contrato de concesión de servicios del artículo 15 de la Ley 9/2017, categoría no recogida en ninguna de las opciones a) o b).",
+    "fuente": "Art. 15 Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P21] De acuerdo con el artículo 180 del Decreto 347/2002, de 19 de noviembre, por el que se aprueba el Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, una exención fiscal:",
+    "options": [
+      "Es una subvención directa o propia.",
+      "Es una subvención indirecta o impropia.",
+      "Ninguna de las respuestas anteriores es correcta."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 21 del examen oficial de 31 de mayo de 2026. El artículo 180 del Decreto 347/2002 califica la exención fiscal como una subvención indirecta o impropia.",
+    "fuente": "Art. 180 Decreto 347/2002, de 19 de noviembre (Reglamento de Bienes de las EELL de Aragón)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P22] De acuerdo con el artículo 92 bis. 2 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, la escala de funcionarios de administración local con habilitación de carácter nacional se divide en las siguientes subescalas:",
+    "options": [
+      "Secretaría, Intervención-tesorería y Secretaría-intervención.",
+      "Secretaría, Intervención y Tesorería.",
+      "Secretaría, Secretaría-intervención y Tesorería."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 22 del examen oficial de 31 de mayo de 2026. El artículo 92 bis.2 LBRL divide la escala de habilitación nacional en las subescalas de Secretaría, Intervención-tesorería y Secretaría-intervención.",
+    "fuente": "Art. 92 bis.2 LBRL (Ley 7/1985)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P23] De acuerdo con el artículo 30.6 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se considerará inhábil en todo caso un día:",
+    "options": [
+      "Cuando fuese hábil en el municipio o Comunidad Autónoma en que residiese el interesado, e inhábil en la sede del órgano administrativo.",
+      "Cuando fuese inhábil en el municipio o Comunidad Autónoma en que residiese el interesado y hábil en la sede del órgano administrativo.",
+      "Las respuestas a) y b) son correctas."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 23 del examen oficial de 31 de mayo de 2026. El artículo 30.6 LPACAP considera inhábil en todo caso el día inhábil en el municipio o Comunidad Autónoma del interesado aunque sea hábil en la sede del órgano administrativo.",
+    "fuente": "Art. 30.6 LPACAP (Ley 39/2015)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P24] Según el artículo 170 de la Ley 7/1999, de 9 de abril de Administración Local de Aragón, los mercados:",
+    "options": [
+      "No son bienes de servicio público.",
+      "Son bienes de uso público.",
+      "Ninguna de las respuestas anteriores es correcta."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 24 del examen oficial de 31 de mayo de 2026. El artículo 170 de la Ley 7/1999 califica los mercados como bienes de uso público.",
+    "fuente": "Art. 170 Ley 7/1999, de 9 de abril, de Administración Local de Aragón"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P25] De acuerdo con el artículo 104 bis.1 g), párrafo primero, de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, los Ayuntamientos de Municipios con población superior a 500.000 habitantes podrán incluir en sus plantillas puestos de trabajo de personal eventual por un número que no podrá exceder:",
+    "options": [
+      "Al 0,7 por ciento del número total de puestos de trabajo de la plantilla de las respectivas Entidades Locales.",
+      "Al 0,5 por ciento del número total de puestos de trabajo de la plantilla de las respectivas Entidades Locales.",
+      "Al 0,3 por ciento del número total de puestos de trabajo de la plantilla de las respectivas Entidades Locales."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 25 del examen oficial de 31 de mayo de 2026. El artículo 104 bis.1 g), párrafo primero, LBRL fija en el 0,7 por ciento el límite de personal eventual para municipios de más de 500.000 habitantes.",
+    "fuente": "Art. 104 bis.1 g) LBRL (Ley 7/1985)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P26] El artículo 119.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
+    "options": [
+      "Dice que si la propuesta de resolución de un recurso agrava la situación inicial del recurrente se le oirá previamente.",
+      "Dice que la resolución de un recurso no puede agravar la situación inicial del recurrente.",
+      "Dice que la resolución de un recurso puede agravar la situación inicial del recurrente."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 26 del examen oficial de 31 de mayo de 2026. El artículo 119.3 LPACAP exige oír previamente al recurrente cuando la propuesta de resolución de su recurso vaya a agravar su situación inicial.",
+    "fuente": "Art. 119.3 LPACAP (Ley 39/2015)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P27] De acuerdo con el artículo 52.2 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, ponen fin a la vía administrativa, entre otras resoluciones:",
+    "options": [
+      "Las resoluciones del Pleno, los Alcaldes y las Juntas de Gobierno.",
+      "Las resoluciones del Pleno y los Alcaldes.",
+      "Las resoluciones del Pleno."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 27 del examen oficial de 31 de mayo de 2026. El artículo 52.2 LBRL atribuye fin de la vía administrativa a las resoluciones del Pleno, los Alcaldes y las Juntas de Gobierno, entre otras.",
+    "fuente": "Art. 52.2 LBRL (Ley 7/1985)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P28] De acuerdo con el artículo 85.2 A) de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, entre otros supuestos, debe quedar acreditado mediante memoria justificativa elaborada al efecto que resulta más sostenible y eficiente la forma de gestión directa de un servicio público local elegida de entre las enumeradas en dicho artículo:",
+    "options": [
+      "Cuando para la gestión de un servicio público local va a hacerse uso de una entidad pública empresarial local y no de un organismo autónomo local.",
+      "Cuando para la gestión de un servicio público local va a hacerse uso de una sociedad mercantil local cuyo capital social sea de titularidad pública y no de una entidad pública empresarial local.",
+      "Las dos respuestas anteriores son correctas."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 28 del examen oficial de 31 de mayo de 2026. El artículo 85.2 A) LBRL exige esa memoria justificativa tanto cuando se opta por entidad pública empresarial frente a organismo autónomo como cuando se opta por sociedad mercantil de capital público frente a entidad pública empresarial.",
+    "fuente": "Art. 85.2 A) LBRL (Ley 7/1985)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P29] Según el artículo 31 del Reglamento de Órganos Territoriales y Participación Ciudadana el Presidente de cada Barrio Rural recibe la denominación tradicional de:",
+    "options": [
+      "Alcalde pedáneo.",
+      "Alcalde del Barrio.",
+      "Representante vecinal."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 29 del examen oficial de 31 de mayo de 2026. El artículo 31 del ROTPC otorga al Presidente de cada Barrio Rural la denominación tradicional de Alcalde pedáneo.",
+    "fuente": "Art. 31 Reglamento de Órganos Territoriales y Participación Ciudadana (Ayto. Zaragoza)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P30] De acuerdo con el artículo 171 del Real Decreto Legislativo 781/1986, de 18 de abril, por el que se aprueba el texto refundido de las disposiciones legales vigentes en materia de Régimen Local, se dividen en Técnicos Superiores, Medios y Auxiliares:",
+    "options": [
+      "Los funcionarios pertenecientes a la Subescala Técnica de Administración Especial.",
+      "Los funcionarios pertenecientes a la Subescala Técnica de Administración General.",
+      "Los funcionarios pertenecientes a la Subescala de Servicios Especiales."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 30 del examen oficial de 31 de mayo de 2026. El artículo 171 del RDL 781/1986 divide en Técnicos Superiores, Medios y Auxiliares a los funcionarios de la Subescala Técnica de Administración Especial.",
+    "fuente": "Art. 171 TRRL (RDL 781/1986)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P31] El artículo 32 del Estatuto de Autonomía de Aragón enumera las instituciones de la Comunidad Autónoma. Entre ellas no figura:",
+    "options": [
+      "El Tribunal Superior de Justicia de Aragón.",
+      "El Consejo Consultivo de Aragón.",
+      "Las dos respuestas anteriores son correctas."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 31 del examen oficial de 31 de mayo de 2026. El artículo 32 del Estatuto de Autonomía de Aragón no incluye entre las instituciones propias de la Comunidad Autónoma ni al Tribunal Superior de Justicia de Aragón ni al Consejo Consultivo de Aragón.",
+    "fuente": "Art. 32 Estatuto de Autonomía de Aragón (LO 5/2007)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P32] El artículo 130.1. B) de la Ley 7/1985, de abril, reguladora de las Bases del Régimen Local, enumera los órganos directivos municipales de los municipios de gran población. Entre ellos no figura:",
+    "options": [
+      "El titular del órgano de gestión tributaria.",
+      "El Presidente del órgano para la resolución de las reclamaciones económico-administrativas.",
+      "Las dos respuestas anteriores son correctas."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 32 del examen oficial de 31 de mayo de 2026. El artículo 130.1 B) LBRL no incluye entre los órganos directivos municipales al Presidente del órgano de resolución de reclamaciones económico-administrativas.",
+    "fuente": "Art. 130.1 B) LBRL (Ley 7/1985)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P33] De acuerdo con el artículo 107.1 del Real Decreto Legislativo 2/2004, de 5 de marzo, que aprueba el texto refundido de la Ley reguladora de las Haciendas Locales, la base imponible del Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana está constituida por el incremento del valor de los terrenos puesto de manifiesto en el momento del devengo y experimentado a lo largo de un periodo máximo:",
+    "options": [
+      "De diez años.",
+      "De veinte años.",
+      "De treinta años."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 33 del examen oficial de 31 de mayo de 2026. El artículo 107.1 TRLHL fija en veinte años el periodo máximo de generación del incremento de valor gravado por el IIVTNU.",
+    "fuente": "Art. 107.1 TRLHL (RDL 2/2004)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P34] De acuerdo con el artículo 117.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la interposición de cualquier recurso no suspenderá la ejecución del acto impugnado:",
+    "options": [
+      "Excepto en los casos en que una disposición establezca lo contrario.",
+      "Salvo que la ejecución pudiera causar perjuicios de imposible o difícil reparación.",
+      "Salvo que la impugnación se fundamente en alguna de las causas de nulidad de pleno derecho."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 34 del examen oficial de 31 de mayo de 2026. El artículo 117.1 LPACAP establece la regla general de no suspensión salvo que una disposición establezca lo contrario.",
+    "fuente": "Art. 117.1 LPACAP (Ley 39/2015)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P35] De acuerdo con el artículo 40.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las notificaciones que, conteniendo el texto íntegro del acto, omitiesen alguno de los demás requisitos previstos en el apartado anterior de dicho artículo:",
+    "options": [
+      "Surtirán efecto a partir de la fecha en que el interesado realice actuaciones que supongan el conocimiento del contenido y alcance de la resolución o acto objeto de la notificación.",
+      "Surtirán efecto a partir de la fecha en que el interesado interponga cualquier recurso que proceda.",
+      "Las dos respuestas anteriores son correctas."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 35 del examen oficial de 31 de mayo de 2026. El artículo 40.3 LPACAP hace surtir efecto a esas notificaciones defectuosas tanto cuando el interesado realiza actuaciones que denoten conocimiento como cuando interpone el recurso que proceda.",
+    "fuente": "Art. 40.3 LPACAP (Ley 39/2015)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P36] La Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, establece en su artículo 13.5 que:",
+    "options": [
+      "Las deliberaciones del Gobierno de Zaragoza son públicas.",
+      "Las deliberaciones del Gobierno de Zaragoza son secretas, excepto en las decisiones relativas a las atribuciones delegadas por el Pleno.",
+      "Las deliberaciones del Gobierno de Zaragoza son secretas."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 36 del examen oficial de 31 de mayo de 2026. El artículo 13.5 de la Ley 10/2017 declara secretas las deliberaciones del Gobierno de Zaragoza, salvo en las decisiones relativas a atribuciones delegadas por el Pleno.",
+    "fuente": "Art. 13.5 Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P37] La Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, establece en su artículo 49, relativo a la aprobación de ordenanzas fiscales, que:",
+    "options": [
+      "Corresponde al Gobierno de Zaragoza la aprobación del proyecto, a la Comisión plenaria correspondiente la aprobación inicial y al Pleno la aprobación.",
+      "Corresponde al Gobierno de Zaragoza la aprobación inicial y al Pleno la aprobación definitiva.",
+      "Corresponde al Gobierno de Zaragoza la aprobación definitiva del proyecto y al Pleno la ratificación."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 37 del examen oficial de 31 de mayo de 2026. El artículo 49 de la Ley 10/2017 reparte la aprobación de ordenanzas fiscales entre el Gobierno de Zaragoza (proyecto), la Comisión plenaria correspondiente (aprobación inicial) y el Pleno (aprobación).",
+    "fuente": "Art. 49 Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P38] De acuerdo con el artículo 48 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el defecto de forma de un acto:",
+    "options": [
+      "Determinará la nulidad del acto cuando ese defecto dé lugar a la indefensión de los interesados.",
+      "Determinará la anulabilidad del acto únicamente cuando este carezca de los requisitos formales indispensables para alcanzar su fin.",
+      "Ninguna de las respuestas anteriores es correcta."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 38 del examen oficial de 31 de mayo de 2026. El artículo 48 LPACAP vincula el defecto de forma a la anulabilidad, no a la nulidad, cuando dé lugar a indefensión, por lo que ninguna de las opciones formuladas es literalmente correcta.",
+    "fuente": "Art. 48 LPACAP (Ley 39/2015)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P39] El sistema de prelación de fuentes normativas en materia de función pública local se establece en el artículo 92.1 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local. De dicho precepto se desprende:",
+    "options": [
+      "Que los funcionarios al servicio de la Administración local se rigen en primer lugar por la Ley de Bases del Régimen Local y, en lo no dispuesto en ella, por el Estatuto Básico del Empleado Público.",
+      "Que los funcionarios al servicio de la Administración local se rigen en primer lugar por el Estatuto Básico del Empleado Público y, en lo no dispuesto en él, por la Ley de Bases del Régimen Local.",
+      "Que los funcionarios al servicio de la Administración local se rigen en primer lugar por el Estatuto Básico del Empleado Público y, en lo no dispuesto en él, por por la legislación de las Comunidades Autónomas."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 39 del examen oficial de 31 de mayo de 2026. Del artículo 92.1 LBRL se desprende que los funcionarios locales se rigen en primer lugar por la Ley de Bases del Régimen Local y, en lo no previsto en ella, por el Estatuto Básico del Empleado Público.",
+    "fuente": "Art. 92.1 LBRL (Ley 7/1985)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P40] De acuerdo con el artículo 92.3 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, el ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de las potestades públicas corresponde exclusivamente:",
+    "options": [
+      "A los empleados públicos.",
+      "A los funcionarios de carrera.",
+      "A los funcionarios públicos."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 40 del examen oficial de 31 de mayo de 2026. El artículo 92.3 LBRL reserva en exclusiva a los funcionarios de carrera el ejercicio de las funciones que impliquen participación en las potestades públicas.",
+    "fuente": "Art. 92.3 LBRL (Ley 7/1985)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P43] De acuerdo con el artículo 26.1 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, y el artículo 21.1 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, el alcantarillado:",
+    "options": [
+      "Es un servicio de prestación obligatoria en todos los municipios.",
+      "Es un servicio por el que las entidades locales no podrán exigir tasas.",
+      "Las dos respuestas anteriores son correctas."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 43 del examen oficial de 31 de mayo de 2026. El artículo 26.1 LBRL incluye el alcantarillado entre los servicios de prestación obligatoria en todos los municipios, mientras que el TRLHL sí permite exigir tasa por ese servicio.",
+    "fuente": "Art. 26.1 LBRL (Ley 7/1985) y art. 21.1 TRLHL (RDL 2/2004)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P44] De acuerdo con el artículo 20.5 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales:",
+    "options": [
+      "Los Ayuntamientos podrán establecer un precio público para la celebración de matrimonios civiles.",
+      "Los Ayuntamientos podrán establecer una tasa para la celebración de los matrimonios civiles.",
+      "Los Ayuntamientos no podrán exigir tasa por la celebración de matrimonios civiles."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 44 del examen oficial de 31 de mayo de 2026. El artículo 20.5 TRLHL permite a los Ayuntamientos establecer una tasa por la celebración de matrimonios civiles.",
+    "fuente": "Art. 20.5 TRLHL (RDL 2/2004)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P45] De acuerdo con el artículo 5º. 1 del Real Decreto 861/1986, de 25 de abril, por el que se establece el régimen de las retribuciones de los funcionarios de Administración Local. ¿Qué concepto retributivo está destinado a retribuir el especial rendimiento, la actividad extraordinaria y el interés e iniciativa con que el funcionario desempeña su trabajo?",
+    "options": [
+      "El complemento específico.",
+      "El complemento de productividad.",
+      "Las gratificaciones."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 45 del examen oficial de 31 de mayo de 2026. El artículo 5.1 del RD 861/1986 define el complemento de productividad como el destinado a retribuir el especial rendimiento, la actividad extraordinaria y el interés e iniciativa del funcionario.",
+    "fuente": "Art. 5.1 RD 861/1986, de 25 de abril"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P46] De acuerdo con el artículo 13.4 de la Ley 7/1985, de 2 de abril Reguladora de las Bases del Régimen Local, para que los municipios puedan acordar su fusión es preciso:",
+    "options": [
+      "Que sean colindantes dentro de la misma provincia.",
+      "Que se trate de municipios de al menos 4.000 habitantes.",
+      "Las dos respuestas anteriores son correctas."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 46 del examen oficial de 31 de mayo de 2026. El artículo 13.4 LBRL exige que los municipios que acuerden su fusión sean colindantes dentro de la misma provincia.",
+    "fuente": "Art. 13.4 LBRL (Ley 7/1985)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P47] De acuerdo con el artículo 16.1 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, el Padrón municipal es el registro administrativo donde constan los vecinos de un municipio. Sus datos constituyen prueba:",
+    "options": [
+      "De la residencia en el municipio.",
+      "Del domicilio habitual en el mismo.",
+      "Las dos respuestas anteriores son correctas."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 47 del examen oficial de 31 de mayo de 2026. El artículo 16.1 LBRL establece que los datos del Padrón municipal constituyen prueba tanto de la residencia en el municipio como del domicilio habitual.",
+    "fuente": "Art. 16.1 LBRL (Ley 7/1985)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P48] De acuerdo con el artículo 81.2 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, la alteración de la calificación jurídica de los bienes de las entidades locales se produce automáticamente en el supuesto de:",
+    "options": [
+      "Aprobación definitiva de los planes de ordenación urbana y de los proyectos de obras y servicios.",
+      "Adscripción de bienes patrimoniales por más de veinte años a un uso o servicios públicos.",
+      "Las dos respuestas anteriores son correctas."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 48 del examen oficial de 31 de mayo de 2026. El artículo 81.2 LBRL prevé la alteración automática de la calificación jurídica tanto por aprobación definitiva de planes y proyectos como por adscripción de bienes patrimoniales por más de veinte años a un uso o servicio público.",
+    "fuente": "Art. 81.2 LBRL (Ley 7/1985)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P49] De acuerdo con el artículo 206 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, la sociedad mercantil:",
+    "options": [
+      "Es una forma de gestión de los servicios públicos locales que será directa o indirecta según cual sea la participación de la entidad local en el capital social.",
+      "Es una forma de gestión indirecta de los servicios públicos locales.",
+      "Es una forma de gestión directa de los servicios públicos locales."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 49 del examen oficial de 31 de mayo de 2026. El artículo 206 de la Ley 7/1999 califica la sociedad mercantil como forma de gestión directa o indirecta según la participación de la entidad local en su capital social.",
+    "fuente": "Art. 206 Ley 7/1999, de 9 de abril, de Administración Local de Aragón"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, P50] De acuerdo con el artículo 76.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los interesados podrán aducir alegaciones y aportar documentos u otros elementos de juicio:",
+    "options": [
+      "En cualquier momento del procedimiento anterior al trámite de audiencia.",
+      "En cualquier momento del procedimiento anterior a la propuesta de resolución.",
+      "En cualquier momento del procedimiento."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 50 del examen oficial de 31 de mayo de 2026. El artículo 76.1 LPACAP permite a los interesados aducir alegaciones y aportar documentos en cualquier momento del procedimiento anterior al trámite de audiencia, límite que la plantilla oficial marca en la opción b) (anterior a la propuesta de resolución).",
+    "fuente": "Art. 76.1 LPACAP (Ley 39/2015)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, Reserva 1] De acuerdo con el artículo 95.6 del Real Decreto Legislativo 2/2004, de 5 de marzo, que aprueba el texto refundido de la Ley reguladora de las Haciendas Locales, las ordenanzas fiscales podrán regular sobre la cuota del Impuesto sobre Vehículos de Tracción Mecánica una bonificación:",
+    "options": [
+      "De hasta el 90 por ciento en función de la clase de carburante que consuma el vehículo, en razón a la incidencia de la combustión de dicho carburante en el medio ambiente.",
+      "De hasta el 75 por ciento en función de las características de los motores de los vehículos y su incidencia en el medio ambiente.",
+      "Ninguna de las respuestas anteriores es correcta."
+    ],
+    "correct": 1,
+    "exp": "Pregunta de reserva 1 del examen oficial de 31 de mayo de 2026. El artículo 95.6 TRLHL permite una bonificación de hasta el 75 por ciento en función de las características de los motores de los vehículos y su incidencia en el medio ambiente.",
+    "fuente": "Art. 95.6 TRLHL (RDL 2/2004)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, Reserva 2] El Real Decreto Legislativo 5/2015, de 30 de octubre, que aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, establece en su artículo 39.5 el número de representantes que compone cada Junta de Personal en función del número de funcionarios de la Unidad electoral correspondiente, correspondiendo 15 miembros a una unidad electoral:",
+    "options": [
+      "De 251 a 500 funcionarios.",
+      "De 501 a 750 funcionarios.",
+      "Ninguna de las respuestas anteriores es correcta."
+    ],
+    "correct": 2,
+    "exp": "Pregunta de reserva 2 del examen oficial de 31 de mayo de 2026. Según el artículo 39.5 TREBEP, el tramo de 15 miembros no coincide con ninguno de los intervalos ofrecidos en las opciones a) y b).",
+    "fuente": "Art. 39.5 TREBEP (RDL 5/2015)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, Reserva 3] De acuerdo con el artículo 30.1 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, en cumplimiento del deber de prevención de riesgos profesionales:",
+    "options": [
+      "El empresario designará uno o varios trabajadores para ocuparse de dicha actividad o constituirá un servicio de prevención.",
+      "El empresario designará uno o varios trabajadores para ocuparse de dicha actividad, constituirá un servicio de prevención o concertará dicho servicio con una entidad especializada ajena a la empresa.",
+      "El empresario constituirá un servicio de prevención o concertará dicho servicio con una entidad especializada ajena a la empresa."
+    ],
+    "correct": 1,
+    "exp": "Pregunta de reserva 3 del examen oficial de 31 de mayo de 2026. El artículo 30.1 LPRL ofrece al empresario tres alternativas equivalentes: designar trabajadores, constituir un servicio de prevención propio o concertarlo con una entidad especializada ajena.",
+    "fuente": "Art. 30.1 Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, Reserva 4] El Estatuto de Autonomía de Aragón establece en el apartado 1 de su artículo 36 que las Cortes de Aragón estarán integradas por un número de escaños comprendido entre sesenta y cinco y ochenta. El apartado 2 del mismo artículo dice que cada provincia estará representada, en todo caso, por un mínimo de:",
+    "options": [
+      "12 escaños.",
+      "14 escaños.",
+      "16 escaños."
+    ],
+    "correct": 1,
+    "exp": "Pregunta de reserva 4 del examen oficial de 31 de mayo de 2026. El artículo 36.2 del Estatuto de Autonomía de Aragón garantiza a cada provincia una representación mínima de 14 escaños.",
+    "fuente": "Art. 36.2 Estatuto de Autonomía de Aragón (LO 5/2007)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, Reserva 5] De acuerdo con el artículo 142 de la Constitución, las Haciendas locales deberán disponer:",
+    "options": [
+      "De los medios necesarios para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas.",
+      "De los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas.",
+      "De los medios adecuados para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas."
+    ],
+    "correct": 1,
+    "exp": "Pregunta de reserva 5 del examen oficial de 31 de mayo de 2026. El artículo 142 de la Constitución exige que las Haciendas locales dispongan de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas.",
+    "fuente": "Art. 142 Constitución Española de 1978"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, SEGUNDO EJERCICIO, Supuesto 1, P1] El Ayuntamiento de Zaragoza es propietario de tres inmuebles patrimoniales (1, 2 y 3) no afectados a un uso o servicio público, y su plan es vender el inmueble núm. 1. De conformidad con el artículo 109.1 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, por el que se aprueba el Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, la venta que el Ayuntamiento quiere realizar del inmueble núm. 1 habrá de realizarse, como regla general:",
+    "options": [
+      "Por subasta pública.",
+      "Mediante enajenación directa.",
+      "Por concurso.",
+      "Mediante permuta."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 1 del segundo ejercicio (supuesto práctico 1) del examen oficial de 31 de mayo de 2026. El artículo 109.1 del Decreto 347/2002 establece que la enajenación de bienes patrimoniales se realizará, como regla general, por subasta pública.",
+    "fuente": "Art. 109.1 Decreto 347/2002 (Gobierno de Aragón)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, SEGUNDO EJERCICIO, Supuesto 1, P2] El Ayuntamiento de Zaragoza es propietario de tres inmuebles patrimoniales (1, 2 y 3) no afectados a un uso o servicio público, y su plan es arrendar el inmueble núm. 2. De conformidad con el artículo 100 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, por el que se aprueba el Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, el arrendamiento que el Ayuntamiento quiere realizar del inmueble núm. 2:",
+    "options": [
+      "Se regirá por la normativa general de la contratación.",
+      "Es un caso de utilización directa por parte del Ayuntamiento.",
+      "Es una forma de utilización de acuerdo con criterios de rentabilidad social.",
+      "Ninguna de las respuestas anteriores es correcta."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 2 del segundo ejercicio (supuesto práctico 1) del examen oficial de 31 de mayo de 2026. El artículo 100 del Decreto 347/2002 califica el arrendamiento de bienes patrimoniales por el Ayuntamiento como un supuesto de utilización directa.",
+    "fuente": "Art. 100 Decreto 347/2002 (Gobierno de Aragón)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, SEGUNDO EJERCICIO, Supuesto 1, P3] El Ayuntamiento de Zaragoza es propietario de tres inmuebles patrimoniales (1, 2 y 3) no afectados a un uso o servicio público, y su plan es arrendar el inmueble núm. 2. En relación con el arrendamiento del inmueble núm. 2 que pretende hacer el Ayuntamiento, el artículo 100 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, por el que se aprueba el Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón:",
+    "options": [
+      "No establece ninguna norma respecto de la contraprestación a abonar por el arrendatario.",
+      "Establece que, como regla general, el usuario habrá de satisfacer un precio que no podrá ser inferior al seis por ciento del valor en venta del inmueble.",
+      "Señala que el precio será el que libremente convengan las partes.",
+      "Ninguna de las respuestas anteriores es correcta."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 3 del segundo ejercicio (supuesto práctico 1) del examen oficial de 31 de mayo de 2026. El artículo 100 del Decreto 347/2002 exige, como regla general, un precio no inferior al seis por ciento del valor en venta del inmueble.",
+    "fuente": "Art. 100 Decreto 347/2002 (Gobierno de Aragón)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, SEGUNDO EJERCICIO, Supuesto 1, P4] El Ayuntamiento de Zaragoza es propietario de tres inmuebles patrimoniales (1, 2 y 3) no afectados a un uso o servicio público, y su plan es vender el inmueble núm. 1. Del artículo 110 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, por el que se aprueba el Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, se desprende que:",
+    "options": [
+      "No hay limitación de destino a los ingresos del Ayuntamiento obtenidos por la enajenación del inmueble núm. 1.",
+      "Los ingresos del Ayuntamiento obtenidos por la enajenación del inmueble núm. 1 no podrán destinarse a la financiación de gastos corrientes.",
+      "Los ingresos del Ayuntamiento obtenidos por la enajenación del inmueble núm. 1 no podrán destinarse a la financiación de gastos de capital.",
+      "Los ingresos del Ayuntamiento obtenidos por la enajenación del inmueble núm. 1 no podrán destinarse a la financiación de gastos financieros."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 4 del segundo ejercicio (supuesto práctico 1) del examen oficial de 31 de mayo de 2026. El artículo 110 del Decreto 347/2002 destina los ingresos por enajenación de patrimonio a operaciones de capital, excluyendo su aplicación a gastos corrientes.",
+    "fuente": "Art. 110 Decreto 347/2002 (Gobierno de Aragón)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, SEGUNDO EJERCICIO, Supuesto 1, P5] El Ayuntamiento de Zaragoza es propietario de tres inmuebles patrimoniales (1, 2 y 3) no afectados a un uso o servicio público; su plan es vender el inmueble núm. 1 y arrendar el inmueble núm. 2. Del artículo 4 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, se desprende que la efectividad de los derechos de la hacienda del Ayuntamiento de Zaragoza derivados de la enajenación del inmueble núm. 1 y del arrendamiento del inmueble núm. 2 se llevará a cabo con sujeción a las normas y procedimientos:",
+    "options": [
+      "Del derecho administrativo.",
+      "Del derecho privado.",
+      "Del derecho tributario.",
+      "Del derecho público."
+    ],
+    "correct": 0,
+    "exp": "Pregunta 5 del segundo ejercicio (supuesto práctico 1) del examen oficial de 31 de mayo de 2026. El artículo 4 del RDLeg 2/2004 atribuye a las entidades locales, para hacer efectivos sus derechos de hacienda de naturaleza patrimonial, las prerrogativas propias del derecho administrativo.",
+    "fuente": "Art. 4 Real Decreto Legislativo 2/2004 (TRLRHL)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, SEGUNDO EJERCICIO, Supuesto 1, P6] El Ayuntamiento de Zaragoza es propietario de tres inmuebles patrimoniales (1, 2 y 3) no afectados a un uso o servicio público. Una entidad privada solicita la cesión gratuita del inmueble núm. 3. De acuerdo con el artículo 102 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, por el que se aprueba el Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, para poder otorgar la cesión gratuita del inmueble núm. 3 a la entidad privada que lo solicita es preciso:",
+    "options": [
+      "Que la entidad privada carezca de ánimo de lucro.",
+      "Que el inmueble se destine a fines de utilidad pública o de interés social.",
+      "Las respuestas a) y b) son correctas.",
+      "Ninguna de las respuestas anteriores es correcta."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 6 del segundo ejercicio (supuesto práctico 1) del examen oficial de 31 de mayo de 2026. El artículo 102 del Decreto 347/2002 exige conjuntamente que la entidad carezca de ánimo de lucro y que el bien se destine a fines de utilidad pública o interés social.",
+    "fuente": "Art. 102 Decreto 347/2002 (Gobierno de Aragón)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, SEGUNDO EJERCICIO, Supuesto 1, P7] El Ayuntamiento de Zaragoza es propietario de tres inmuebles patrimoniales (1, 2 y 3) no afectados a un uso o servicio público. Una entidad privada solicita la cesión gratuita del inmueble núm. 3. De acuerdo con el artículo 102 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, por el que se aprueba el Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón, el acuerdo de cesión gratuita del inmueble núm. 3 a la entidad privada que lo solicita:",
+    "options": [
+      "Deberá determinar el plazo de duración, que no podrá ser superior a cuatro años.",
+      "Deberá determinar el plazo de duración o su carácter de cesión en precario.",
+      "Deberá determinar el plazo de duración.",
+      "Deberá determinar el plazo de duración y, caso de no hacerlo, se entenderá realizada en precario."
+    ],
+    "correct": 3,
+    "exp": "Pregunta 7 del segundo ejercicio (supuesto práctico 1) del examen oficial de 31 de mayo de 2026. El artículo 102 del Decreto 347/2002 exige fijar el plazo de duración de la cesión y, si no se determina, la cesión se entiende otorgada en precario.",
+    "fuente": "Art. 102 Decreto 347/2002 (Gobierno de Aragón)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, SEGUNDO EJERCICIO, Supuesto 1, P8] El Ayuntamiento de Zaragoza es propietario de tres inmuebles patrimoniales (1, 2 y 3) no afectados a un uso o servicio público, y ha cedido gratuitamente el uso del inmueble núm. 3 a una entidad privada. La entidad usuaria del inmueble núm. 3, que lo utiliza gratuitamente, incumple la finalidad concreta a que debía destinarse aquel dando lugar dicho incumplimiento a la finalización de la cesión de uso con la consiguiente obligación de reintegrar el inmueble. Como quiera que la asociación no lo desaloja, y de acuerdo con los artículos 47 y siguientes del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, por el que se aprueba el Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón:",
+    "options": [
+      "El Ayuntamiento podrá ejercer la potestad de recuperación de oficio en cualquier momento.",
+      "El Ayuntamiento podrá ejercer la potestad de desahucio administrativo.",
+      "El Ayuntamiento podrá ejercer la potestad de recuperación de oficio en cualquier momento o la potestad de desahucio administrativo.",
+      "Ninguna de las respuestas anteriores es correcta."
+    ],
+    "correct": 3,
+    "exp": "Pregunta 8 del segundo ejercicio (supuesto práctico 1) del examen oficial de 31 de mayo de 2026. Según la plantilla definitiva, ninguna de las opciones a), b) o c) es correcta conforme a los artículos 47 y siguientes del Decreto 347/2002.",
+    "fuente": "Arts. 47 y siguientes Decreto 347/2002 (Gobierno de Aragón)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, SEGUNDO EJERCICIO, Supuesto 1, P9] El Ayuntamiento de Zaragoza es propietario de tres inmuebles patrimoniales (1, 2 y 3) no afectados a un uso o servicio público: el inmueble núm. 1 se quiere vender, el inmueble núm. 2 se quiere arrendar y una entidad privada solicita la cesión gratuita del inmueble núm. 3. Se sigue un procedimiento contra el Ayuntamiento de Zaragoza. Según se desprende del artículo 173.2 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, contra los tres inmuebles citados en el enunciado:",
+    "options": [
+      "Se podrá despachar mandamientos de ejecución.",
+      "Se podrá dictar providencias de embargo.",
+      "Las respuestas a) y b) son correctas.",
+      "No se podrá despachar mandamientos de ejecución ni dictar providencias de embargo."
+    ],
+    "correct": 3,
+    "exp": "Pregunta 9 del segundo ejercicio (supuesto práctico 1) del examen oficial de 31 de mayo de 2026. El artículo 173.2 del RDLeg 2/2004 declara inembargables los bienes de las entidades locales, por lo que no cabe despachar mandamientos de ejecución ni dictar providencias de embargo contra ellos.",
+    "fuente": "Art. 173.2 Real Decreto Legislativo 2/2004 (TRLRHL)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, SEGUNDO EJERCICIO, Supuesto 1, P10] ¿A qué órgano corresponden, según el artículo 14 de la Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, las competencias ejecutivas y de gestión, en todos sus aspectos, relativas a la adquisición, gestión, administración, aprovechamiento y enajenación del patrimonio municipal (...)?",
+    "options": [
+      "Al Pleno.",
+      "Al Alcalde.",
+      "Al Alcalde, que puede delegar o desconcentrar esas funciones.",
+      "Al Gobierno de Zaragoza."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 10 del segundo ejercicio (supuesto práctico 1) del examen oficial de 31 de mayo de 2026. El artículo 14 de la Ley 10/2017 atribuye estas competencias ejecutivas y de gestión al Alcalde, quien puede delegarlas o desconcentrarlas.",
+    "fuente": "Art. 14 Ley 10/2017, de 30 de noviembre (régimen especial de Zaragoza)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, SEGUNDO EJERCICIO, Supuesto 2, P11] El Ayuntamiento de Zaragoza notifica liquidaciones tributarias del Impuesto sobre Bienes Inmuebles (IBI); sobre uno de los inmuebles existe un derecho de usufructo que corresponde a una persona, correspondiendo el derecho de propiedad a otra. De acuerdo con el artículo 61 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, en esos casos:",
+    "options": [
+      "La liquidación debe practicarse al propietario.",
+      "La liquidación debe practicarse al usufructuario.",
+      "Propietario y usufructuario determinan a quien debe practicarse la liquidación.",
+      "El Ayuntamiento puede practicar la liquidación al propietario o al usufructuario."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 11 del segundo ejercicio (supuesto práctico 2) del examen oficial de 31 de mayo de 2026. El artículo 61 del TRLRHL considera sujeto pasivo del IBI, cuando existe un derecho de usufructo, al usufructuario y no al propietario.",
+    "fuente": "Art. 61 Real Decreto Legislativo 2/2004 (TRLRHL)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, SEGUNDO EJERCICIO, Supuesto 2, P12] El Ayuntamiento de Zaragoza notifica liquidaciones tributarias del Impuesto sobre Bienes Inmuebles (IBI). En razón de criterios de eficiencia y economía en la gestión recaudatoria del tributo, un inmueble está exento al no alcanzar la cuota líquida una cuantía determinada. Dicha exención se funda en el artículo 62.4 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales. Dicho artículo:",
+    "options": [
+      "Establece la obligatoriedad de esa exención y remite a los ayuntamientos la determinación de la cuantía.",
+      "Permite que los ayuntamientos establezcan dicha exención y determinen la cuantía.",
+      "Prevé esa exención únicamente para los inmuebles urbanos.",
+      "Las respuestas b) y c) son correctas."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 12 del segundo ejercicio (supuesto práctico 2) del examen oficial de 31 de mayo de 2026. El artículo 62.4 del TRLRHL es de carácter potestativo: permite (no obliga) a los ayuntamientos establecer esta exención y fijar la cuantía por debajo de la cual no se exigen las liquidaciones.",
+    "fuente": "Art. 62.4 Real Decreto Legislativo 2/2004 (TRLRHL)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, SEGUNDO EJERCICIO, Supuesto 2, P13] El Ayuntamiento de Zaragoza notifica liquidaciones tributarias del Impuesto sobre Bienes Inmuebles (IBI). En uno de los inmuebles se plantea la cuestión del valor del bien que constituye la base imponible del impuesto. De acuerdo con el artículo 65 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, la base imponible estará constituida por:",
+    "options": [
+      "El valor de mercado.",
+      "El valor hipotecario.",
+      "El valor catastral.",
+      "El valor de referencia."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 13 del segundo ejercicio (supuesto práctico 2) del examen oficial de 31 de mayo de 2026. El artículo 65 del TRLRHL establece que la base imponible del IBI está constituida por el valor catastral.",
+    "fuente": "Art. 65 Real Decreto Legislativo 2/2004 (TRLRHL)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, SEGUNDO EJERCICIO, Supuesto 2, P14] La Ordenanza Fiscal del Impuesto sobre Bienes Inmuebles del Ayuntamiento de Zaragoza establece que el tipo de gravamen será el 0,4 % cuando se trate de bienes inmuebles urbanos y el 0,7 % cuando se trate de bienes inmuebles rústicos. De acuerdo con el artículo 72.1 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales:",
+    "options": [
+      "El Ayuntamiento aplica el tipo mínimo de los previstos en la ley para los inmuebles rústicos.",
+      "El Ayuntamiento no aplica ni el tipo máximo ni el tipo mínimo de los previstos en la ley para los inmuebles urbanos.",
+      "El Ayuntamiento aplica el tipo mínimo de los previstos en la ley para los inmuebles urbanos.",
+      "Ninguna de las respuestas anteriores es correcta."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 14 del segundo ejercicio (supuesto práctico 2) del examen oficial de 31 de mayo de 2026. El tipo de gravamen del 0,4 % aplicado a los inmuebles urbanos coincide con el tipo mínimo previsto en el artículo 72.1 del TRLRHL para dichos bienes.",
+    "fuente": "Art. 72.1 Real Decreto Legislativo 2/2004 (TRLRHL)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, SEGUNDO EJERCICIO, Supuesto 2, P15] Un inmueble es de carácter residencial y se encuentra desocupado con carácter permanente. De acuerdo con el artículo 72.4, párrafos tercero y cuarto, del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, en esos casos los ayuntamientos podrán exigir un recargo:",
+    "options": [
+      "Ese recargo será de hasta el 50 por ciento de la cuota líquida del impuesto.",
+      "Tendrá la consideración de inmueble desocupado con carácter permanente aquel que permanezca desocupado, de forma continuada y sin causa justificada, por un plazo superior a cinco años.",
+      "Las respuestas a) y b) son correctas.",
+      "Ninguna de las respuestas anteriores es correcta."
+    ],
+    "correct": 3,
+    "exp": "Pregunta 15 del segundo ejercicio (supuesto práctico 2) del examen oficial de 31 de mayo de 2026. Según la plantilla definitiva, ninguna de las opciones a) o b) recoge correctamente el contenido del artículo 72.4, párrafos tercero y cuarto, del TRLRHL.",
+    "fuente": "Art. 72.4 Real Decreto Legislativo 2/2004 (TRLRHL)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, SEGUNDO EJERCICIO, Supuesto 2, P16] El Ayuntamiento de Zaragoza notifica liquidaciones tributarias del Impuesto sobre Bienes Inmuebles (IBI), susceptibles de impugnación mediante recurso de reposición y reclamación económico-administrativa. De conformidad con los artículos 108 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local y 14 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, contra una liquidación tributaria puede interponerse recurso de reposición. La interposición de dicho recurso:",
+    "options": [
+      "Producirá automáticamente la suspensión de la liquidación impugnada.",
+      "Dará lugar a la suspensión de la liquidación impugnada si así lo acuerda, a solicitud del interesado, el órgano que la dictó.",
+      "Producirá la suspensión del acto impugnado siempre que el interesado lo solicite.",
+      "No producirá en ningún caso la suspensión del acto impugnado."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 16 del segundo ejercicio (supuesto práctico 2) del examen oficial de 31 de mayo de 2026. Conforme a los artículos 108 de la Ley 7/1985 y 14 del RDLeg 2/2004, la suspensión no es automática: procede si el órgano que dictó el acto la acuerda a solicitud del interesado.",
+    "fuente": "Art. 108 Ley 7/1985 y Art. 14 Real Decreto Legislativo 2/2004 (TRLRHL)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, SEGUNDO EJERCICIO, Supuesto 2, P18] El Ayuntamiento de Zaragoza notifica liquidaciones tributarias del Impuesto sobre Bienes Inmuebles (IBI), susceptibles de impugnación mediante recurso de reposición y reclamación económico-administrativa ante la Junta Municipal de Reclamaciones Económico-Administrativas. De conformidad con los artículos 108 y 137 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, y con el artículo 4.2 del Reglamento Regulador de las Reclamaciones Económico-Administrativas Municipales, contra una liquidación tributaria puede interponerse reclamación económico-administrativa ante la Junta Municipal de Reclamaciones Económico-Administrativas teniendo en cuenta:",
+    "options": [
+      "Que previamente debe interponerse recurso de reposición ante el órgano que dictó el acto.",
+      "Que previamente debe interponerse recurso de reposición ante la Junta de Reclamaciones económico-administrativas.",
+      "Que no es necesario interponer previamente recurso de reposición pero si utiliza ese recurso no se podrá formular reclamación económico-administrativa hasta que el recurso de reposición haya sido resuelto en forma expresa o presunta.",
+      "Que no es necesario interponer previamente recurso de reposición, según se desprende del artículo 15 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales."
+    ],
+    "correct": 2,
+    "exp": "Pregunta 18 del segundo ejercicio (supuesto práctico 2) del examen oficial de 31 de mayo de 2026. El recurso de reposición previo es potestativo, pero si se interpone no cabe formular reclamación económico-administrativa hasta que aquel se resuelva expresa o presuntamente.",
+    "fuente": "Arts. 108 y 137 Ley 7/1985 y Art. 4.2 Reglamento Regulador de las Reclamaciones Económico-Administrativas Municipales"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, SEGUNDO EJERCICIO, Supuesto 2, P19] El Ayuntamiento de Zaragoza notifica liquidaciones tributarias del Impuesto sobre Bienes Inmuebles (IBI), impugnables mediante recurso de reposición y reclamación económico-administrativa. De acuerdo con el artículo 222.2 de la Ley 58/2003, de 17 de diciembre, General Tributaria, si en el plazo establecido para recurrir se hubiera interpuesto contra la liquidación tributaria recurso de reposición y reclamación económico-administrativa:",
+    "options": [
+      "Se tramitarán simultáneamente ambas impugnaciones.",
+      "Se tramitará la presentada en primer lugar y se declarará inadmisible la segunda.",
+      "Se advertirá al interesado que debe indicar el orden de tramitación de sus impugnaciones.",
+      "Se declarará la inadmisión de ambas impugnaciones."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 19 del segundo ejercicio (supuesto práctico 2) del examen oficial de 31 de mayo de 2026. El artículo 222.2 de la Ley 58/2003 dispone que se tramitará la impugnación presentada en primer lugar y se declarará inadmisible la segunda.",
+    "fuente": "Art. 222.2 Ley 58/2003, de 17 de diciembre (LGT)"
+  },
+  {
+    "q": "[EXAMEN OFICIAL 31-may-2026, SEGUNDO EJERCICIO, Supuesto 2, P20] El Ayuntamiento de Zaragoza notifica liquidaciones tributarias del Impuesto sobre Bienes Inmuebles (IBI), impugnables ante la Junta Municipal de Reclamaciones Económico-Administrativas. De conformidad con el artículo 137.2 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, contra la resolución de la Junta Municipal de Reclamaciones Económico-Administrativas:",
+    "options": [
+      "Puede interponerse recurso potestativo de reposición y posteriormente recurso contencioso-administrativo.",
+      "Solo cabrá la interposición de recurso contencioso-administrativo.",
+      "No puede interponerse directamente recurso contencioso administrativo.",
+      "No cabe recurso extraordinario de revisión."
+    ],
+    "correct": 1,
+    "exp": "Pregunta 20 del segundo ejercicio (supuesto práctico 2) del examen oficial de 31 de mayo de 2026. El artículo 137.2 de la Ley 7/1985 establece que contra la resolución de la Junta Municipal de Reclamaciones Económico-Administrativas solo cabrá recurso contencioso-administrativo.",
+    "fuente": "Art. 137.2 Ley 7/1985, de 2 de abril (LRBRL)"
+  }
+]);

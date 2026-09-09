@@ -2561,3 +2561,56 @@ casos sueltos es como se llegó a medir mal esta cifra tres veces.
 Banco: **5.623 preguntas, todas con fuente citando artículo, precepto o la
 parte de la norma que corresponda**. Verificado en navegador que las citas
 aparecen en pantalla en los temas 1, 14 y 15.
+
+---
+
+## Tema 21 «Test Oficiales»: renombrado y examen 31-may-2026 integrado (9-sep-2026)
+
+Dos cambios pedidos por el usuario, sin tocar el objetivo de las 500 preguntas
+por tema (el 21 sigue fuera de ese objetivo, es el banco de exámenes reales):
+
+**1. Renombrado.** El tema pasa de titularse "📋 EXAMEN OFICIAL 1-jun-2025
+(real)" a **"Test Oficiales"**, porque ya no contiene un único examen sino
+varios (ver punto 2) y el título antiguo dejaba de describirlo.
+
+**2. Examen oficial del 31-may-2026 integrado: +72 preguntas.**
+
+Localizado en zaragoza.es (Oferta Pública de Empleo, `id=1681`), con los
+cuestionarios y plantillas definitivas de los dos ejercicios:
+
+- **Primer ejercicio** (`idAnuncio=16905`): el cuestionario tiene **50
+  preguntas numeradas + 5 de reserva** (no 100 como se asumió al lanzar la
+  transcripción por una extrapolación incorrecta de un resultado de búsqueda
+  genérico — el propio agente transcriptor detectó la discrepancia, la
+  verificó por tres vías independientes —número de páginas, salida previa de
+  `pdftotext`, filas en blanco 51-100 de la plantilla— y la reportó en vez de
+  inventar las preguntas que faltaban). Se excluyeron las preguntas **41 y 42
+  (ANULADAS** en la plantilla definitiva). Resultado: **53 preguntas** (P1-40,
+  P43-50, R1-R5), formato de 3 opciones como el resto del examen real.
+- **Segundo ejercicio** (`idAnuncio=17089`): 20 preguntas repartidas en 2
+  supuestos prácticos; excluida la **17 (ANULADA)**. Resultado: **19
+  preguntas**, formato de 4 opciones.
+- Total integrado: **72 preguntas**, citadas `[EXAMEN OFICIAL 31-may-2026,
+  P<N>]`, siguiendo la misma convención ya usada para el examen de 2025.
+- `pdftotext` volvió a dar texto corrupto en estos PDFs (mismo problema de
+  codificación de fuente ya conocido de otros exámenes del Ayuntamiento); se
+  transcribió leyendo las imágenes de página con el lector de PDF, no con
+  `pdftotext`.
+- Aplicado con `window.addQuestions("aux-admin-zaragoza", 21, [...])` en
+  `data/aux-admin-zaragoza.ampliacion.js`. `tools/validar.js` → correcto.
+  Comprobado que no introduce duplicados con la pasada de dos filtros
+  (artículo+respuesta y similitud textual) ya usada en la campaña de
+  auditoría. Verificado en navegador: el tema abre, las 6 primeras preguntas
+  muestran su `fuente` correctamente y no hay errores de consola.
+
+Tema 21: 75 → **147 preguntas**. Banco total: 5.623 → **5.695 preguntas**
+(`catalog.js` actualizado). Reparto de la respuesta correcta se mantiene
+equilibrado (1.430 / 1.436 / 1.449 / 1.380, sobre 5.695).
+
+Con esto se agota el material real de exámenes MCQ localizable en
+zaragoza.es para esta convocatoria: los ejercicios de la "prueba adicional"
+(informática/ofimática) de las convocatorias recientes son prácticos, no
+tipo test (ver siguiente entrada), y el examen de 9-mayo-2018 solo aporta un
+supuesto de LPAC (5 preguntas, aún vigente pero no integrado) y un supuesto
+de ofimática/Linux que se usa como referencia de estilo para el documento de
+validación de ofimática.
