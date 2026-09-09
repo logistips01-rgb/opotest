@@ -2614,3 +2614,64 @@ tipo test (ver siguiente entrada), y el examen de 9-mayo-2018 solo aporta un
 supuesto de LPAC (5 preguntas, aún vigente pero no integrado) y un supuesto
 de ofimática/Linux que se usa como referencia de estilo para el documento de
 validación de ofimática.
+
+---
+
+## Tema 22 «Ofimática (prueba adicional)»: nuevo, 50 preguntas (9-sep-2026)
+
+El usuario validó el borrador de 24 preguntas (`lotes/aux-admin-
+zaragoza-ofimatica-borrador.md`) y pidió integrarlo, ampliándolo. Resultado:
+**tema 22 nuevo, "Ofimática (prueba adicional)", con 50 preguntas**.
+
+Contexto (ya explicado en el borrador, se repite aquí por ser la entrada de
+cierre): la prueba adicional real de informática (base 7.4.D del TRBGTL,
+CONV 4/2026) es un **ejercicio práctico manual** con LibreOffice Writer y
+Calc, no un test, así que no hay examen real que transcribir. Estas 50
+preguntas son una redacción propia sobre las **materias oficiales** de esa
+misma base (cita literal):
+
+> *Sistemas operativos para PC. Software libre: conceptos generales,
+> libertades, marco jurídico y licencias. Manejo a nivel de usuario de
+> Windows 11 y distribución Ubuntu 24 de GNU/Linux o versiones en vigor.*
+> *Ofimática e Internet. Aplicaciones de ofimática: tratamiento de textos,
+> hoja de cálculo, base de datos y presentaciones. LibreOffice Writer y
+> Calc. Internet: conceptos básicos, navegación y uso del correo
+> electrónico.*
+
+Reparto por bloque:
+
+| Bloque | Preguntas |
+|---|---|
+| Software libre y sistemas operativos (Windows 11, Ubuntu 24, GNU/Linux) | 12 |
+| LibreOffice Writer | 13 |
+| LibreOffice Calc | 13 |
+| Internet y correo electrónico | 12 |
+
+Notas sobre el formato, distinto del resto del banco por la propia
+naturaleza del contenido:
+- No hay artículo de ley que citar: el campo `fuente` de cada pregunta
+  nombra en su lugar la función, comando o concepto técnico real en el que
+  se basa (p. ej. «Función SUMA() de LibreOffice Calc», «Snap Layouts de
+  Windows 11», «Las cuatro libertades del software libre (FSF)»), en vez de
+  una cita legal.
+- Hechos verificados uno a uno contra el funcionamiento real de LibreOffice
+  24.2, Windows 11 y Ubuntu 24/GNOME — nada inventado ni supuesto por
+  extrapolación de versiones distintas.
+- Estilo tomado del único precedente real en formato test: el Supuesto
+  práctico n.º 2 del examen de 9-mayo-2018 (escenario de trabajo corto +
+  cuatro opciones + una correcta).
+
+Aplicado con `window.addQuestions('aux-admin-zaragoza', 22, [...])` en
+`data/aux-admin-zaragoza.ampliacion.js`; añadido el tema 22 al array
+`TEMAS` de `data/aux-admin-zaragoza.js`. `tools/validar.js` → correcto (0
+errores, 0 avisos). Comprobado que no hay enunciados duplicados en todo el
+banco (ni dentro del tema nuevo ni contra el resto). Verificado en
+navegador: el tema 22 aparece como el vigésimo segundo de la lista, abre
+correctamente, las preguntas salen en orden aleatorio y sus citas se
+muestran sin errores de consola.
+
+Banco total: 5.695 → **5.745 preguntas** (`catalog.js` actualizado), **22
+temas** en total (20 legales + tema 21 "Test Oficiales" + tema 22
+"Ofimática"). El archivo `lotes/aux-admin-zaragoza-ofimatica-borrador.md`
+se conserva como registro del borrador y del criterio de estilo acordado
+con el usuario antes de ampliarlo e integrarlo.

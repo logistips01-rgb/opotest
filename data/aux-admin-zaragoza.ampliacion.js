@@ -51376,3 +51376,662 @@ window.addQuestions("aux-admin-zaragoza", 21, [
     "fuente": "Art. 137.2 Ley 7/1985, de 2 de abril (LRBRL)"
   }
 ]);
+
+/* tema 22 · Ofimática (prueba adicional) · 50 preguntas
+   Borrador validado por el usuario (ver lotes/aux-admin-zaragoza-ofimatica-borrador.md).
+   No son examen oficial transcrito (la prueba adicional real es un ejercicio
+   práctico manual, no un test) sino preguntas redactadas sobre las materias
+   oficiales de la base 7.4.D del TRBGTL, verificadas contra el funcionamiento
+   real de LibreOffice 24.2, Windows 11 y Ubuntu 24 GNU/Linux. */
+window.addQuestions('aux-admin-zaragoza', 22, [
+  {
+    "q": "El Departamento decide migrar los puestos de Auxiliar Administrativo a software libre. Un compañero pregunta qué significa exactamente que un programa sea \"software libre\". ¿Cuál de estas afirmaciones es correcta?",
+    "options": [
+      "Que el programa es siempre gratuito",
+      "Que el usuario tiene libertad para ejecutarlo, estudiarlo, modificarlo y redistribuirlo, con o sin modificaciones",
+      "Que solo puede instalarse en sistemas operativos GNU/Linux",
+      "Que su código fuente no puede consultarse, solo usarse"
+    ],
+    "correct": 1,
+    "exp": "Son las cuatro libertades del software libre (ejecutar, estudiar/adaptar, redistribuir copias, distribuir versiones modificadas). \"Libre\" se refiere a la libertad de uso, no al precio: un programa puede ser libre y de pago a la vez, y uno gratuito puede no ser libre.",
+    "fuente": "Las cuatro libertades del software libre (definición de la Free Software Foundation)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes es la diferencia habitual entre \"software libre\" y \"software gratuito\" (freeware)?",
+    "options": [
+      "No hay diferencia, son sinónimos",
+      "El software libre nunca puede cobrarse; el gratuito sí",
+      "El software gratuito se puede usar sin pagar, pero puede no dar acceso al código fuente ni permitir modificarlo o redistribuirlo; el software libre sí garantiza esas libertades, con independencia del precio",
+      "El software libre solo existe para sistemas operativos, el gratuito solo para aplicaciones"
+    ],
+    "correct": 2,
+    "exp": "\"Libre\" alude a las libertades de uso, no al coste (\"free as in freedom\", no \"free as in free beer\").",
+    "fuente": "Distinción software libre / freeware (FSF)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En su equipo de trabajo tiene instalado Windows 11. Necesita ver dos ventanas (por ejemplo, un expediente en PDF y un formulario en Writer) una al lado de la otra en la misma pantalla sin cambiar de tamaño a mano. ¿Qué función de Windows 11 le permite hacerlo de forma rápida?",
+    "options": [
+      "El Administrador de tareas",
+      "Los Diseños/Ajustes rápidos (Snap Layouts), disponibles al mantener el puntero sobre el botón de maximizar de una ventana",
+      "El Panel de control",
+      "El Explorador de archivos"
+    ],
+    "correct": 1,
+    "exp": "Es una función propia de Windows 11 (evolución del \"Snap\" de versiones anteriores) para organizar varias ventanas en mosaico sin redimensionarlas a mano.",
+    "fuente": "Función Snap Layouts de Windows 11",
+    "confianza": "alta"
+  },
+  {
+    "q": "Trabaja con un ordenador que tiene instalada la distribución Ubuntu 24 de GNU/Linux con su entorno de escritorio de fábrica. ¿Cómo se llama la aplicación con la que, por defecto, se navega por carpetas y archivos (el equivalente al Explorador de archivos de Windows)?",
+    "options": [
+      "Terminal",
+      "Archivos (Nautilus)",
+      "Software",
+      "Ajustes"
+    ],
+    "correct": 1,
+    "exp": "Ubuntu usa por defecto el escritorio GNOME, cuyo gestor de archivos se llama \"Archivos\" (nombre del proyecto: Nautilus).",
+    "fuente": "Gestor de archivos por defecto de GNOME en Ubuntu",
+    "confianza": "alta"
+  },
+  {
+    "q": "Necesita instalar una aplicación nueva en un equipo con Ubuntu 24. Sin usar la terminal, ¿desde qué aplicación del propio sistema puede buscarla e instalarla de forma gráfica?",
+    "options": [
+      "Desde el Centro/Tienda de software de Ubuntu (\"Software\")",
+      "Solo es posible instalar aplicaciones nuevas escribiendo comandos",
+      "Descargando un archivo .exe desde cualquier página web",
+      "Desde el Panel de control de Windows"
+    ],
+    "correct": 0,
+    "exp": "Ubuntu incluye una aplicación gráfica de gestión de paquetes para instalar software sin usar la terminal.",
+    "fuente": "Centro de software de Ubuntu",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de estas licencias es un ejemplo real de licencia de software libre?",
+    "options": [
+      "La GPL (Licencia Pública General de GNU)",
+      "La licencia de un programa de prueba (\"trial\") de 30 días",
+      "La licencia OEM que acompaña a un ordenador nuevo con Windows",
+      "Un acuerdo de confidencialidad (NDA)"
+    ],
+    "correct": 0,
+    "exp": "La GPL es la licencia libre más extendida y la que usa el propio núcleo Linux.",
+    "fuente": "Licencia GPL de GNU",
+    "confianza": "alta"
+  },
+  {
+    "q": "En sentido estricto, dentro del sistema operativo que se conoce popularmente como \"Linux\", ¿a qué se refiere exactamente la palabra \"Linux\"?",
+    "options": [
+      "Al escritorio gráfico del sistema",
+      "Al núcleo (kernel) del sistema operativo, que junto a las herramientas del proyecto GNU forma el sistema completo (GNU/Linux)",
+      "Al paquete ofimático instalado por defecto",
+      "Al navegador de Internet incluido de serie"
+    ],
+    "correct": 1,
+    "exp": "Linux es, en sentido estricto, el núcleo (kernel); buena parte de las herramientas del sistema completo proceden del proyecto GNU, de ahí que se le llame también GNU/Linux.",
+    "fuente": "Distinción kernel Linux / sistema GNU/Linux",
+    "confianza": "alta"
+  },
+  {
+    "q": "Quiere tener un escritorio con las ventanas de un expediente y otro escritorio distinto para el correo, y cambiar entre ellos sin cerrar nada. ¿Qué función de Windows 11 usaría?",
+    "options": [
+      "Vista de tareas (Task View) y escritorios virtuales",
+      "La Papelera de reciclaje",
+      "El Panel de control",
+      "El Explorador de archivos"
+    ],
+    "correct": 0,
+    "exp": "La Vista de tareas de Windows 11 permite crear varios escritorios virtuales independientes y cambiar entre ellos sin cerrar las ventanas abiertas en cada uno.",
+    "fuente": "Vista de tareas y escritorios virtuales de Windows 11",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué comando de la terminal de Ubuntu se usa para listar el contenido de una carpeta?",
+    "options": [
+      "cd",
+      "ls",
+      "rm",
+      "mkdir"
+    ],
+    "correct": 1,
+    "exp": "\"ls\" lista el contenido de una carpeta; \"cd\" cambia de carpeta, \"rm\" elimina archivos y \"mkdir\" crea una carpeta nueva.",
+    "fuente": "Comandos básicos de la terminal GNU/Linux",
+    "confianza": "alta"
+  },
+  {
+    "q": "El \"copyleft\" de la licencia GPL implica que:",
+    "options": [
+      "Cualquier versión modificada y redistribuida del programa debe mantenerse también bajo una licencia libre compatible",
+      "El autor original renuncia a cualquier derecho sobre el programa",
+      "El programa deja automáticamente de poder cobrarse",
+      "Solo se puede usar en entornos académicos"
+    ],
+    "correct": 0,
+    "exp": "El copyleft obliga a que las versiones derivadas y redistribuidas se sigan licenciando en términos libres compatibles, para que las libertades no se pierdan en el camino.",
+    "fuente": "Concepto de copyleft (licencia GPL)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En el Explorador de archivos de Windows 11, por configuración habitual (de fábrica), las extensiones de archivos conocidos (.docx, .pdf...):",
+    "options": [
+      "Se muestran siempre, no se pueden ocultar",
+      "Están ocultas, aunque puede activarse su visualización desde las opciones de vista",
+      "No existen en Windows",
+      "Solo se ven en modo administrador"
+    ],
+    "correct": 1,
+    "exp": "Windows oculta por defecto las extensiones de los tipos de archivo conocidos; puede mostrarse activando la opción correspondiente en las opciones de vista del Explorador.",
+    "fuente": "Opciones de vista del Explorador de archivos de Windows",
+    "confianza": "alta"
+  },
+  {
+    "q": "En Ubuntu, la instalación y actualización de programas desde los repositorios oficiales se gestiona mediante un sistema de:",
+    "options": [
+      "Paquetes (por ejemplo, con APT o el Centro de software)",
+      "Licencias OEM",
+      "Macros",
+      "Máquinas virtuales obligatorias"
+    ],
+    "correct": 0,
+    "exp": "Ubuntu, como el resto de distribuciones basadas en Debian, gestiona la instalación y actualización de software mediante paquetes, a través de herramientas como APT o el Centro de software.",
+    "fuente": "Gestión de paquetes en Ubuntu (APT)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Va a redactar un decreto en su puesto de trabajo usando LibreOffice Writer y quiere guardarlo con el formato propio (nativo) de este programa. ¿Qué extensión tendrá el archivo por defecto?",
+    "options": [
+      ".docx",
+      ".odt",
+      ".pdf",
+      ".txt"
+    ],
+    "correct": 1,
+    "exp": ".odt es el formato de documento de texto del estándar OpenDocument, el nativo de Writer (puede además abrir y guardar en .docx por compatibilidad, pero ese no es su formato propio).",
+    "fuente": "Formato nativo de LibreOffice Writer (OpenDocument .odt)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Ha terminado de redactar un informe en Writer y quiere entregarlo de forma que el destinatario pueda leerlo pero no modificar fácilmente el contenido ni depender de tener LibreOffice instalado. ¿Qué debería hacer?",
+    "options": [
+      "Enviar el archivo .odt tal cual",
+      "Exportarlo a PDF desde el propio Writer (Archivo > Exportar como PDF)",
+      "Hacer una captura de pantalla de cada página",
+      "Cambiarle la extensión del archivo a mano"
+    ],
+    "correct": 1,
+    "exp": "Writer incluye una función de exportación directa a PDF, sin necesidad de instalar nada más.",
+    "fuente": "Exportar como PDF en LibreOffice Writer",
+    "confianza": "alta"
+  },
+  {
+    "q": "Está redactando un documento largo y quiere que en la parte inferior de cada página aparezca automáticamente el número de página. ¿Qué elemento de Writer debe usar?",
+    "options": [
+      "Un pie de página con el campo \"Número de página\"",
+      "Escribir el número a mano en cada página",
+      "Una tabla al final del documento",
+      "Los comentarios"
+    ],
+    "correct": 0,
+    "exp": "El pie de página (Insertar > Pie de página) admite campos automáticos como el número de página, que se actualiza solo.",
+    "fuente": "Pie de página y campos automáticos en LibreOffice Writer",
+    "confianza": "alta"
+  },
+  {
+    "q": "Antes de dar por bueno un escrito para su firma, quiere comprobar que no tiene faltas de ortografía. ¿Qué herramienta de Writer usaría?",
+    "options": [
+      "Buscar y reemplazar",
+      "El corrector ortográfico (revisión ortográfica)",
+      "Contar palabras",
+      "Control de cambios"
+    ],
+    "correct": 1,
+    "exp": "El control de cambios sirve para registrar ediciones, no para detectar errores ortográficos; la herramienta específica es el corrector ortográfico.",
+    "fuente": "Corrector ortográfico de LibreOffice Writer",
+    "confianza": "alta"
+  },
+  {
+    "q": "Tiene que enviar la misma carta a 40 interesados distintos, cambiando solo el nombre y la dirección de cada uno, a partir de un listado que ya tiene en una hoja de cálculo. ¿Qué función de Writer está pensada precisamente para esto?",
+    "options": [
+      "Control de cambios",
+      "Combinar correspondencia (mailing)",
+      "Tablas de contenido",
+      "Notas al pie"
+    ],
+    "correct": 1,
+    "exp": "\"Combinar correspondencia\" une una plantilla de Writer con una fuente de datos (por ejemplo, una hoja de Calc) para generar un documento personalizado por cada destinatario.",
+    "fuente": "Combinar correspondencia en LibreOffice Writer",
+    "confianza": "alta"
+  },
+  {
+    "q": "Quiere que todos los títulos de apartado de un documento tengan el mismo formato (tamaño, negrita, color) y que además puedan usarse luego para generar un índice automático. ¿Qué debería usar?",
+    "options": [
+      "Cambiar la fuente y el tamaño manualmente en cada título",
+      "Los estilos de párrafo (por ejemplo, \"Título 1\", \"Título 2\")",
+      "Insertar una imagen delante de cada título",
+      "Los comentarios"
+    ],
+    "correct": 1,
+    "exp": "Los estilos de párrafo aplican formato consistente y son, además, la base a partir de la que se genera automáticamente un índice.",
+    "fuente": "Estilos de párrafo en LibreOffice Writer",
+    "confianza": "alta"
+  },
+  {
+    "q": "Antes de deshacer por error un cambio en Writer, ¿qué combinación de teclas habitual deshace la última acción realizada?",
+    "options": [
+      "Ctrl+Z",
+      "Ctrl+P",
+      "Ctrl+S",
+      "Ctrl+X"
+    ],
+    "correct": 0,
+    "exp": "Ctrl+Z es el atajo habitual para deshacer la última acción; Ctrl+P imprime, Ctrl+S guarda y Ctrl+X corta.",
+    "fuente": "Atajo de teclado \"Deshacer\" en LibreOffice",
+    "confianza": "alta"
+  },
+  {
+    "q": "Quiere localizar todas las apariciones de la palabra \"Ayuntamiento\" en un documento largo y sustituirlas por \"Consistorio\". ¿Qué herramienta de Writer usaría?",
+    "options": [
+      "Buscar y reemplazar",
+      "Ortografía",
+      "Estilos",
+      "Control de cambios"
+    ],
+    "correct": 0,
+    "exp": "\"Buscar y reemplazar\" localiza un texto y permite sustituirlo por otro, de una vez o en todas sus apariciones.",
+    "fuente": "Buscar y reemplazar en LibreOffice Writer",
+    "confianza": "alta"
+  },
+  {
+    "q": "Dos compañeros van a revisar un borrador de escrito y quiere que cada corrección que hagan quede marcada (con posibilidad de aceptar o rechazar cada cambio) en vez de modificarse el texto directamente. ¿Qué función de Writer debe activar?",
+    "options": [
+      "Control de cambios (Editar > Seguimiento de cambios)",
+      "Numeración de páginas",
+      "Combinar correspondencia",
+      "Notas al pie"
+    ],
+    "correct": 0,
+    "exp": "El control de cambios registra cada edición como una propuesta visible, que después puede aceptarse o rechazarse sin perder el texto original.",
+    "fuente": "Control de cambios en LibreOffice Writer",
+    "confianza": "alta"
+  },
+  {
+    "q": "Ha aplicado estilos de título a los apartados de un documento largo y quiere generar automáticamente un índice al principio con esos apartados y su número de página. ¿Qué debe insertar?",
+    "options": [
+      "Una tabla normal escrita a mano",
+      "Un índice/tabla de contenidos generado a partir de los estilos de título",
+      "Una nota al pie",
+      "Un hipervínculo"
+    ],
+    "correct": 1,
+    "exp": "Writer genera automáticamente un índice/tabla de contenidos a partir de los párrafos marcados con estilos de título, actualizable si el documento cambia.",
+    "fuente": "Tabla de contenidos en LibreOffice Writer",
+    "confianza": "alta"
+  },
+  {
+    "q": "Necesita que una página de un informe se imprima apaisada (horizontal) mientras el resto del documento sigue en vertical. ¿Cómo puede conseguirlo en Writer?",
+    "options": [
+      "Insertando un salto de página con un estilo de página distinto, con orientación horizontal, para esa página",
+      "Girando la hoja al meterla en la impresora",
+      "Solo es posible cambiando la orientación de todo el documento",
+      "No es posible en LibreOffice Writer"
+    ],
+    "correct": 0,
+    "exp": "Writer permite combinar orientaciones dentro de un mismo documento mediante saltos de página asociados a un estilo de página distinto (por ejemplo, uno en horizontal para una tabla ancha).",
+    "fuente": "Estilos de página y orientación mixta en LibreOffice Writer",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Dónde debe insertar el nombre del expediente para que aparezca repetido automáticamente en la parte superior de todas las páginas del documento?",
+    "options": [
+      "En un pie de página",
+      "En un encabezado (cabecera)",
+      "En una nota al pie",
+      "En un comentario"
+    ],
+    "correct": 1,
+    "exp": "El encabezado (cabecera) se repite en la parte superior de todas las páginas del documento; el pie de página se repite en la parte inferior.",
+    "fuente": "Encabezado y pie de página en LibreOffice Writer",
+    "confianza": "alta"
+  },
+  {
+    "q": "Le envían un archivo con extensión .docx (de Microsoft Word) y solo tiene instalado LibreOffice. ¿Qué ocurre?",
+    "options": [
+      "No puede abrirlo bajo ningún concepto",
+      "LibreOffice Writer puede abrirlo y editarlo, aunque su formato nativo sea .odt",
+      "Debe convertirlo antes en otro ordenador",
+      "Solo puede leerlo, no editarlo"
+    ],
+    "correct": 1,
+    "exp": "LibreOffice Writer es compatible con el formato .docx: puede abrirlo, editarlo y volver a guardarlo en ese mismo formato o convertirlo a .odt.",
+    "fuente": "Compatibilidad de LibreOffice Writer con formatos de Microsoft Word",
+    "confianza": "alta"
+  },
+  {
+    "q": "Va a hacer un control de gastos de material de oficina en LibreOffice Calc y quiere guardarlo en el formato nativo del programa. ¿Qué extensión tendrá el archivo?",
+    "options": [
+      ".xlsx",
+      ".ods",
+      ".odt",
+      ".csv"
+    ],
+    "correct": 1,
+    "exp": ".ods es el formato de hoja de cálculo del estándar OpenDocument, el nativo de Calc.",
+    "fuente": "Formato nativo de LibreOffice Calc (OpenDocument .ods)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En una hoja de Calc tiene en las celdas B2 a B10 los importes de varias facturas y quiere obtener el total en la celda B11. ¿Qué fórmula usaría?",
+    "options": [
+      "=TOTAL(B2:B10)",
+      "=SUMA(B2:B10)",
+      "SUMA(B2-B10)",
+      "=CONTAR(B2:B10)"
+    ],
+    "correct": 1,
+    "exp": "Toda fórmula en Calc empieza por \"=\"; SUMA() es la función de suma y el rango se expresa con dos puntos, no con un guion. CONTAR() cuenta celdas, no suma sus valores.",
+    "fuente": "Función SUMA() de LibreOffice Calc",
+    "confianza": "alta"
+  },
+  {
+    "q": "Tiene una columna con 60 expedientes y quiere ver solo los que están en un estado concreto (por ejemplo, \"pendiente\"), sin borrar ni mover el resto de filas. ¿Qué herramienta de Calc es la más adecuada?",
+    "options": [
+      "Ordenar de la A a la Z",
+      "Un filtro (Autofiltro / Filtro estándar)",
+      "Combinar y centrar celdas",
+      "Formato condicional"
+    ],
+    "correct": 1,
+    "exp": "El filtro oculta temporalmente las filas que no cumplen el criterio, sin alterar los datos ni el orden original.",
+    "fuente": "Autofiltro de LibreOffice Calc",
+    "confianza": "alta"
+  },
+  {
+    "q": "Ha escrito una fórmula en la celda C2 y quiere copiarla a las celdas C3 a C20 conservando la misma lógica (que cada fila calcule con sus propias celdas de esa fila). ¿Qué forma es la habitual para hacerlo sin volver a escribir la fórmula cada vez?",
+    "options": [
+      "Escribirla de nuevo en cada celda",
+      "Arrastrar el controlador de relleno (la esquina inferior derecha de la celda) hacia abajo hasta C20",
+      "Borrar la columna y empezar de cero",
+      "Copiar la celda como imagen"
+    ],
+    "correct": 1,
+    "exp": "El controlador de relleno copia la fórmula ajustando las referencias relativas a cada fila.",
+    "fuente": "Controlador de relleno de LibreOffice Calc",
+    "confianza": "alta"
+  },
+  {
+    "q": "En una fórmula de Calc necesita que, al copiarla a otras celdas, una de las referencias (por ejemplo, un porcentaje de IVA que está siempre en la celda A1) NO cambie nunca, aunque las demás sí se ajusten. ¿Cómo se escribe esa referencia para \"fijarla\"?",
+    "options": [
+      "IVA",
+      "$A$1",
+      "[A1]",
+      "A1!"
+    ],
+    "correct": 1,
+    "exp": "El símbolo $ delante de la letra de columna y del número de fila convierte la referencia en absoluta, de modo que no cambia al copiar la fórmula a otras celdas.",
+    "fuente": "Referencias absolutas en LibreOffice Calc",
+    "confianza": "alta"
+  },
+  {
+    "q": "Quiere calcular cuántas facturas de una lista superan los 500 €, sin sumar sus importes, solo contarlas. ¿Qué función de Calc usaría?",
+    "options": [
+      "=SUMA.SI(rango; \">500\")",
+      "=CONTAR.SI(rango; \">500\")",
+      "=PROMEDIO(rango)",
+      "=BUSCARV(rango; 500; 1; 0)"
+    ],
+    "correct": 1,
+    "exp": "CONTAR.SI() cuenta las celdas de un rango que cumplen una condición; SUMA.SI() sumaría los importes en lugar de contarlos.",
+    "fuente": "Función CONTAR.SI() de LibreOffice Calc",
+    "confianza": "alta"
+  },
+  {
+    "q": "Quiere calcular la media de las notas de un curso de formación que están en las celdas D2:D30. ¿Qué función usaría?",
+    "options": [
+      "=PROMEDIO(D2:D30)",
+      "=SUMA(D2:D30)",
+      "=MAX(D2:D30)",
+      "=CONTAR(D2:D30)"
+    ],
+    "correct": 0,
+    "exp": "PROMEDIO() calcula la media aritmética de un rango de celdas.",
+    "fuente": "Función PROMEDIO() de LibreOffice Calc",
+    "confianza": "alta"
+  },
+  {
+    "q": "Necesita saber cuál es el importe más alto de una columna de facturas. ¿Qué función usaría?",
+    "options": [
+      "=MAX(rango)",
+      "=PROMEDIO(rango)",
+      "=CONTARA(rango)",
+      "=MIN(rango)"
+    ],
+    "correct": 0,
+    "exp": "MAX() devuelve el valor más alto de un rango; MIN() devolvería el más bajo.",
+    "fuente": "Función MAX() de LibreOffice Calc",
+    "confianza": "alta"
+  },
+  {
+    "q": "Tiene una lista de 100 expedientes con su fecha de entrada y quiere verlos ordenados de la fecha más antigua a la más reciente. ¿Qué debe usar?",
+    "options": [
+      "Ordenar (por la columna de fecha, ascendente)",
+      "Formato condicional",
+      "Combinar celdas",
+      "Validez de datos"
+    ],
+    "correct": 0,
+    "exp": "La función Ordenar reorganiza las filas de una lista según los valores de la columna elegida, en orden ascendente o descendente.",
+    "fuente": "Ordenar datos en LibreOffice Calc",
+    "confianza": "alta"
+  },
+  {
+    "q": "Quiere representar gráficamente la evolución mensual de expedientes tramitados a lo largo del año. ¿Qué elemento de Calc usaría?",
+    "options": [
+      "Un gráfico (Insertar > Gráfico)",
+      "Una macro",
+      "Un filtro",
+      "Un estilo de celda"
+    ],
+    "correct": 0,
+    "exp": "Calc permite insertar gráficos (de líneas, barras, etc.) a partir de un rango de datos para representarlos visualmente.",
+    "fuente": "Gráficos en LibreOffice Calc",
+    "confianza": "alta"
+  },
+  {
+    "q": "Al copiar una fórmula que contiene la referencia B4 (sin símbolo $) una fila hacia abajo, ¿qué ocurre con esa referencia?",
+    "options": [
+      "Se mantiene igual, en B4",
+      "Se ajusta automáticamente a B5, siguiendo la nueva posición",
+      "Se convierte en un error",
+      "Se convierte en absoluta"
+    ],
+    "correct": 1,
+    "exp": "Una referencia relativa (sin $) se ajusta automáticamente según la posición a la que se copia la fórmula.",
+    "fuente": "Referencias relativas en LibreOffice Calc",
+    "confianza": "alta"
+  },
+  {
+    "q": "Quiere que el título de una tabla ocupe visualmente el ancho de varias columnas, como una única celda centrada. ¿Qué opción usaría?",
+    "options": [
+      "Combinar y centrar celdas",
+      "Autofiltro",
+      "Formato condicional",
+      "Validez de datos"
+    ],
+    "correct": 0,
+    "exp": "Combinar y centrar celdas une varias celdas adyacentes en una sola y centra su contenido, típico para títulos de tabla.",
+    "fuente": "Combinar celdas en LibreOffice Calc",
+    "confianza": "alta"
+  },
+  {
+    "q": "Quiere que una columna de una hoja solo admita como valor \"Sí\" o \"No\", para evitar errores al rellenarla. ¿Qué herramienta de Calc emplearía?",
+    "options": [
+      "Validez de datos (con una lista de valores permitidos)",
+      "Formato condicional",
+      "Autofiltro",
+      "Combinar celdas"
+    ],
+    "correct": 0,
+    "exp": "La validez de datos restringe lo que puede escribirse en una celda, por ejemplo limitándolo a una lista cerrada de valores.",
+    "fuente": "Validez de datos en LibreOffice Calc",
+    "confianza": "alta"
+  },
+  {
+    "q": "Va a enviar un correo a varios interesados y quiere que cada uno reciba el mensaje sin ver las direcciones de correo del resto de destinatarios. ¿Qué campo debe usar para escribirlos?",
+    "options": [
+      "Para (To)",
+      "CC (con copia)",
+      "CCO / BCC (con copia oculta)",
+      "Asunto"
+    ],
+    "correct": 2,
+    "exp": "Los destinatarios en CCO no son visibles para el resto; los de Para y CC sí se ven entre ellos.",
+    "fuente": "Campo CCO (BCC) en clientes de correo electrónico",
+    "confianza": "alta"
+  },
+  {
+    "q": "Recibe un correo de un remitente desconocido pidiéndole que abra un archivo adjunto o pinche en un enlace para \"verificar sus datos\" con urgencia. ¿Cuál es la actuación correcta?",
+    "options": [
+      "Abrir el adjunto inmediatamente, por si es importante",
+      "Reenviarlo a todos los compañeros del departamento",
+      "Desconfiar, no abrir el adjunto ni pinchar en el enlace, y seguir el protocolo de la organización para correos sospechosos (phishing)",
+      "Responder pidiendo más información al remitente"
+    ],
+    "correct": 2,
+    "exp": "Es la pauta básica de seguridad frente a intentos de phishing: no interactuar con adjuntos o enlaces de origen no fiable.",
+    "fuente": "Buenas prácticas de seguridad frente al phishing",
+    "confianza": "alta"
+  },
+  {
+    "q": "En la barra de direcciones del navegador ve que una página empieza por \"https://\" y muestra un icono de candado. ¿Qué indica esto?",
+    "options": [
+      "Que la página es necesariamente del Ayuntamiento",
+      "Que la conexión entre el navegador y esa web está cifrada",
+      "Que la página no tiene publicidad",
+      "Que la página se ha guardado en Favoritos"
+    ],
+    "correct": 1,
+    "exp": "\"https\" (la \"s\" de \"seguro\") indica que los datos viajan cifrados entre el navegador y el servidor; no garantiza por sí solo quién es el titular de la web.",
+    "fuente": "Protocolo HTTPS en navegadores web",
+    "confianza": "alta"
+  },
+  {
+    "q": "Encuentra una página del Ayuntamiento que consulta a menudo para su trabajo y quiere poder volver a ella rápidamente sin escribir la dirección cada vez. ¿Qué función del navegador usaría?",
+    "options": [
+      "El historial de descargas",
+      "Añadirla a Favoritos/Marcadores",
+      "Borrar las cookies",
+      "Abrir una ventana de navegación privada"
+    ],
+    "correct": 1,
+    "exp": "Favoritos/Marcadores guarda un acceso directo permanente a una página, a diferencia del historial, que registra lo ya visitado y puede borrarse.",
+    "fuente": "Favoritos/Marcadores del navegador",
+    "confianza": "alta"
+  },
+  {
+    "q": "Quiere enviar un correo con un archivo Writer adjunto, pero el archivo pesa demasiado y el servidor de correo del Ayuntamiento rechaza adjuntos de ese tamaño. ¿Cuál sería una solución razonable?",
+    "options": [
+      "Enviar el correo sin el archivo y no decir nada más",
+      "Comprimir el archivo (por ejemplo, en un .zip) o exportarlo a PDF si el tamaño lo permite, y si aun así es demasiado grande, compartirlo por un medio habilitado para archivos grandes",
+      "Cambiarle la extensión del archivo para que pese menos",
+      "Enviarlo igualmente varias veces seguidas hasta que llegue"
+    ],
+    "correct": 1,
+    "exp": "Comprimir o convertir a un formato más ligero reduce el tamaño real del archivo; cambiar solo la extensión no reduce nada.",
+    "fuente": "Compresión de archivos adjuntos de correo",
+    "confianza": "alta"
+  },
+  {
+    "q": "En su cliente de correo, ¿qué diferencia hay entre \"Responder\" y \"Responder a todos\" al contestar un mensaje que tenía varios destinatarios en el campo Para/CC?",
+    "options": [
+      "Ninguna, hacen lo mismo",
+      "\"Responder\" envía la respuesta solo al remitente original; \"Responder a todos\" la envía también al resto de destinatarios que aparecían en el mensaje",
+      "\"Responder a todos\" borra el mensaje original",
+      "\"Responder\" solo funciona con el remitente en copia oculta"
+    ],
+    "correct": 1,
+    "exp": "Conviene usar \"Responder a todos\" solo cuando de verdad interese a todo el grupo, para no saturar de correos innecesarios a los demás destinatarios.",
+    "fuente": "Diferencia entre Responder y Responder a todos en clientes de correo",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes afirmaciones distingue correctamente un navegador de un buscador?",
+    "options": [
+      "Son sinónimos exactos",
+      "El navegador es el programa con el que se accede a Internet (por ejemplo, para ver páginas web); el buscador es un servicio que se usa dentro del navegador para encontrar información entre las páginas indexadas",
+      "El buscador solo funciona sin conexión a Internet",
+      "El navegador solo sirve para el correo electrónico"
+    ],
+    "correct": 1,
+    "exp": "El navegador es la aplicación con la que se accede a Internet; el buscador es un servicio web (accedido desde el navegador) que indexa páginas y permite encontrarlas.",
+    "fuente": "Diferencia entre navegador y buscador web",
+    "confianza": "alta"
+  },
+  {
+    "q": "Antes de abrir un archivo adjunto que no esperaba recibir, aunque el remitente parezca conocido, ¿qué es recomendable hacer?",
+    "options": [
+      "Abrirlo directamente, si el remitente aparece en la lista de contactos",
+      "Verificar por otro medio (llamada, mensaje aparte) que esa persona realmente lo ha enviado, ya que las direcciones se pueden suplantar",
+      "Reenviarlo a otros compañeros para que lo comprueben ellos",
+      "Ignorar siempre cualquier adjunto, aunque sea un documento de trabajo esperado"
+    ],
+    "correct": 1,
+    "exp": "Una dirección de correo puede suplantarse (spoofing); ante un adjunto inesperado, aunque el remitente parezca conocido, conviene confirmar por otro canal antes de abrirlo.",
+    "fuente": "Buenas prácticas de seguridad frente a la suplantación de remitente",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué diferencia principal hay entre acceder al correo mediante webmail (desde el navegador) y mediante un cliente de correo instalado (como Thunderbird)?",
+    "options": [
+      "Ninguna, funcionan exactamente igual en todos los casos",
+      "El webmail se consulta desde cualquier navegador sin instalar nada, iniciando sesión en la web del proveedor; el cliente de correo es una aplicación instalada que se configura para descargar y gestionar los mensajes",
+      "El cliente de correo no permite adjuntar archivos",
+      "El webmail no permite enviar correos, solo leerlos"
+    ],
+    "correct": 1,
+    "exp": "Ambas vías dan acceso al mismo correo, pero el webmail no requiere instalación (se usa desde el navegador) mientras que un cliente instalado se configura una vez y gestiona los mensajes localmente.",
+    "fuente": "Webmail frente a cliente de correo instalado",
+    "confianza": "alta"
+  },
+  {
+    "q": "En la dirección https://www.zaragoza.es/oferta/, ¿qué parte identifica el dominio del sitio web?",
+    "options": [
+      "https://",
+      "www.zaragoza.es",
+      "/oferta/",
+      "Ninguna de las anteriores"
+    ],
+    "correct": 1,
+    "exp": "\"https://\" es el protocolo, \"www.zaragoza.es\" es el dominio del sitio y \"/oferta/\" es la ruta dentro de ese sitio.",
+    "fuente": "Estructura de una URL",
+    "confianza": "alta"
+  },
+  {
+    "q": "Va a descargar el programa LibreOffice para instalarlo en un equipo. ¿Cuál es la práctica más segura?",
+    "options": [
+      "Descargarlo del primer enlace que aparezca en un buscador, sea cual sea la página",
+      "Descargarlo desde la página oficial del proyecto (o el repositorio oficial del sistema operativo)",
+      "Pedirlo por correo a un desconocido que se ofrezca a enviarlo",
+      "Da igual el origen, todos los archivos son iguales"
+    ],
+    "correct": 1,
+    "exp": "Descargar software desde la fuente oficial (la web del proyecto o el repositorio del sistema operativo) reduce el riesgo de instalar versiones alteradas o con software malicioso.",
+    "fuente": "Buenas prácticas de descarga segura de software",
+    "confianza": "alta"
+  },
+  {
+    "q": "Recibe un correo con información importante para un compañero de otro departamento que no estaba entre los destinatarios originales. ¿Qué opción del cliente de correo usaría para hacérselo llegar sin volver a escribir el mensaje entero?",
+    "options": [
+      "Responder",
+      "Responder a todos",
+      "Reenviar (Forward)",
+      "Marcar como leído"
+    ],
+    "correct": 2,
+    "exp": "\"Reenviar\" envía el mensaje recibido (con sus adjuntos) a un destinatario nuevo que no estaba en el mensaje original; \"Responder\" y \"Responder a todos\" contestan a quien ya participaba en el hilo.",
+    "fuente": "Función Reenviar en clientes de correo",
+    "confianza": "alta"
+  }
+]);

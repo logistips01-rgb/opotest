@@ -24,7 +24,8 @@ const TEMAS = [
   {id:18, title:"Empleados públicos (II): situaciones"},
   {id:19, title:"Empleados públicos (III): FP local"},
   {id:20, title:"Ley de Urbanismo de Aragón"},
-  {id:21, title:"Test Oficiales"}
+  {id:21, title:"Test Oficiales"},
+  {id:22, title:"Ofimática (prueba adicional)"}
 ];
 
 const QUESTIONS = {

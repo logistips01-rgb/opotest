@@ -1,4 +1,13 @@
-# Borrador · Prueba adicional (ofimática) — PARA VALIDAR, NO INTEGRADO
+# Borrador · Prueba adicional (ofimática) — INTEGRADO (9-sep-2026)
+
+**Actualización:** el usuario validó el estilo y el enfoque de este borrador
+y pidió integrarlo, ampliándolo. Las 24 preguntas de este documento más 26
+nuevas (50 en total) están ya en el banco, en un tema nuevo: **tema 22,
+"Ofimática (prueba adicional)"**, en `data/aux-admin-zaragoza.ampliacion.js`.
+Este archivo se conserva como registro del borrador original y del criterio
+de estilo acordado; no hace falta seguir usándolo para nada más.
+
+---
 
 Este documento **no forma parte del banco de preguntas**. Es un borrador para
 que Alma y tú lo reviséis y digáis si el nivel, el tono y el enfoque son los
