@@ -48,7 +48,10 @@
       files:['data/tecnico-rrhh-prevencion-zaragoza.js'],
       // temario cargado (90 temas, BOPZ 170/27-jul-2026); banco de
       // preguntas todavía sin empezar
-      preguntas:0
+      preguntas:0,
+      // sin preguntas todavía: la tarjeta del hub lleva a esta página de
+      // resumen de la convocatoria en vez de al test (ver hub.js)
+      infoPage:'convocatoria-tecnico-rrhh-prevencion.html'
     }
     /* Policía Nacional · Escala Básica y Auxiliar Administrativo (DGA) se
        retiraron del catálogo el 22-ago-2026 a petición del usuario. Los

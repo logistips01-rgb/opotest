@@ -2746,3 +2746,30 @@ temas, con su título oficial exacto)**, sin preguntas — el banco de
 preguntas está pendiente, será la siguiente fase si el usuario confirma
 que Alma cumple el requisito de titulación y decide presentarse.
 `tools/validar.js` → correcto (0 errores).
+
+### Página de convocatoria en vez de test (9-sep-2026)
+
+Como todavía no hay preguntas, se pidió colgar la propia convocatoria en
+Almitest para que Alma la lea y decida antes de invertir en redactar
+preguntas — una excepción puntual, no el patrón habitual de la app.
+
+- **`convocatoria-tecnico-rrhh-prevencion.html`**: página nueva, con el
+  mismo estilo visual del resto de la app (`assets/css/base.css`), que
+  resume plazas, requisito de titulación (destacado en rojo/amarillo por
+  ser el punto que hay que confirmar), plazo de instancias, y un resumen
+  de las 4 partes del temario. Incluye un botón para abrir el PDF oficial
+  completo.
+- **`assets/docs/bopz170-a1-tecnico-superior-rrhh-prevencion.pdf`**: el
+  PDF oficial (BOPZ 170, sección quinta núm. 5075) añadido como recurso
+  estático de la app, para no depender de un enlace externo que pueda
+  caerse (como ha pasado esta sesión con zaragoza.es).
+- **`assets/js/catalog.js`**: la entrada de esta oposición añade un campo
+  `infoPage` con la URL de esa página.
+- **`assets/js/hub.js`**: la tarjeta del hub, al pulsarla, comprueba si la
+  oposición tiene `infoPage` definido y en ese caso navega ahí en vez de a
+  `test.html` (que con 0 preguntas no tendría nada que mostrar). El resto
+  de oposiciones no se ven afectadas, no tienen ese campo.
+
+Verificado en navegador: desde el hub, la tarjeta lleva a la página de
+convocatoria, el botón del PDF apunta al recurso correcto y el enlace de
+"volver" regresa al hub. Sin errores de consola.

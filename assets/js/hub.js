@@ -87,6 +87,8 @@
 
     screen.querySelectorAll('.opo-card').forEach(card=>{
       card.addEventListener('click', ()=>{
+        const o = opos.find(x=>x.slug===card.dataset.slug);
+        if(o && o.infoPage){ location.href = o.infoPage; return; }
         location.href = 'test.html?opo=' + encodeURIComponent(card.dataset.slug);
       });
     });
