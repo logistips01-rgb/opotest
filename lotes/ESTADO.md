@@ -2675,3 +2675,74 @@ temas** en total (20 legales + tema 21 "Test Oficiales" + tema 22
 "Ofimática"). El archivo `lotes/aux-admin-zaragoza-ofimatica-borrador.md`
 se conserva como registro del borrador y del criterio de estilo acordado
 con el usuario antes de ampliarlo e integrarlo.
+
+---
+
+## Nueva oposición: Técnico Superior RRHH, especialidad Prevención (9-sep-2026)
+
+El usuario detectó una convocatoria nueva del Ayuntamiento de Zaragoza que
+coincide con la formación universitaria de Alma (grado + capacitación en
+Prevención de Riesgos Laborales) y pidió preparar el temario en Almitest.
+
+**Contexto verificado con fuentes oficiales primarias** (zaragoza.es estuvo
+caído durante toda la búsqueda; todo lo de abajo viene de BOE y BOPZ/BOA,
+no de blogs de academias):
+
+- **Convocatoria**: 3 plazas de Técnica/o Superior de Recursos Humanos,
+  especialidad Prevención, grupo **A1**, escala de Administración Especial,
+  sistema de oposición (2 turno libre ordinario + 1 turno libre de reserva
+  para mujeres víctimas de violencia de género).
+- **Requisito de titulación** (verificado en el propio texto de las
+  bases): título universitario oficial de Licenciada/o o Grado equivalente
+  **Y ADEMÁS** título de Técnico/a Superior de Prevención de Riesgos
+  Laborales, o Máster oficial en Prevención de Riesgos Laborales. No basta
+  con el grado solo.
+- **Bases específicas**: BOPZ núm. 170, de 27-jul-2026 (Sección Quinta,
+  núm. 5075) — documento con las bases de TODO el grupo A1 de la OEP
+  2026/2025/2024 del Ayuntamiento (Técnico Adm. General, Economista,
+  Ingeniero Industrial, Médicos, Letrado, Técnico Superior Informática,
+  Técnico Superior RRHH-Prevención, etc.), cada categoría con su propio
+  temario dentro del mismo `Anexo I`.
+- **Extracto en BOE**: BOE-A-2026-19150, publicado el **14-sep-2026**
+  (misma resolución que también extracta las 85 plazas de Auxiliar
+  Administrativo — de ahí que ambos procesos compartan fecha límite).
+- **Plazo de instancias: 4 de octubre de 2026** (20 días naturales desde
+  el día siguiente a la publicación en el BOE, 15-sep a 4-oct). Esto
+  **corrige** una cifra dada antes en la conversación (5-oct) para el
+  proceso de Auxiliar Administrativo: al ser la misma resolución y el
+  mismo cómputo de plazo, el límite real para AMBOS procesos es el 4 de
+  octubre, no el 5.
+- **Presentación**: instancia normalizada de autoliquidación en
+  www.zaragoza.es/oferta, con el itinerario telemático descrito en
+  www.zaragoza.es/contenidos/oferta/tramitacion-electronica.pdf (misma
+  mecánica que el resto de procesos de esta OEP).
+
+**Temario**: localizado el documento completo de bases del grupo A1 (BOPZ
+170) tras varios intentos — el BOPZ de ese número reparte el contenido en
+más de veinte anuncios distintos, uno por cada categoría o grupo de
+plazas afines (el de Auxiliar Administrativo, el de Bombero-Conductor, el
+de la Agrupación Profesional, el del grupo A1 completo, etc.), así que
+hubo que descargar varios candidatos del mismo número de boletín hasta
+dar con el correcto. El de "Técnica/o Superior Recursos Humanos
+Especialidad Prevención" tiene **90 temas** en 4 partes:
+- Parte primera (temas 1-18): temario común a todo el grupo A1 de esta
+  convocatoria (Constitución, LPAC, Estatuto de Autonomía, Haciendas
+  Locales, empleados públicos, etc.) — muy similar al de los demás temas
+  del banco de Auxiliar Administrativo, pero no idéntico literalmente.
+- Parte segunda (temas 19-30): estructura de la función pública y marco
+  general de la Ley 31/1995 de PRL.
+- Parte tercera (temas 31-60): la parte más técnica — EPIs, accidentes de
+  trabajo, lugares de trabajo, incendios, máquinas, recurso preventivo,
+  espacios confinados, etc.
+- Parte cuarta (temas 61-90): riesgo eléctrico, atmósferas explosivas,
+  obras de construcción, higiene industrial, agentes químicos/biológicos,
+  ruido, vibraciones, ergonomía, carga mental, riesgos psicosociales,
+  estrés laboral y mobbing.
+
+**Nueva oposición creada en Almitest**: `tecnico-rrhh-prevencion-zaragoza`
+(`data/tecnico-rrhh-prevencion-zaragoza.js`, registrada en
+`assets/js/catalog.js`). De momento solo tiene el **temario cargado (90
+temas, con su título oficial exacto)**, sin preguntas — el banco de
+preguntas está pendiente, será la siguiente fase si el usuario confirma
+que Alma cumple el requisito de titulación y decide presentarse.
+`tools/validar.js` → correcto (0 errores).

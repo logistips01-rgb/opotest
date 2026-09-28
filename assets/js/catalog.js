@@ -36,6 +36,19 @@
       // los archivos de ampliación cuando los crea
       files:['data/policia-local-zaragoza.js'],
       preguntas:4690
+    },
+    {
+      slug:'tecnico-rrhh-prevencion-zaragoza',
+      title:'Técnico Superior RRHH · Prevención',
+      org:'Ayuntamiento de Zaragoza',
+      emoji:'🦺',
+      color:'#2a9d8f',
+      // el primero es el banco base; tools/fusionar.js añade aquí
+      // los archivos de ampliación cuando los crea
+      files:['data/tecnico-rrhh-prevencion-zaragoza.js'],
+      // temario cargado (90 temas, BOPZ 170/27-jul-2026); banco de
+      // preguntas todavía sin empezar
+      preguntas:0
     }
     /* Policía Nacional · Escala Básica y Auxiliar Administrativo (DGA) se
        retiraron del catálogo el 22-ago-2026 a petición del usuario. Los
