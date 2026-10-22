@@ -106,7 +106,7 @@ registerEsquema('aux-admin-zaragoza', 7, {
         ]},
         {titulo: 'Medidas provisionales: antes de iniciar · 56.2', reglas: [
           'Solo en <b>urgencia inaplazable</b>. Las adopta el órgano competente para <b>iniciar o instruir</b>.',
-          'Se confirman, modifican o levantan en el acuerdo de iniciación, dentro de los <b>15 días</b> siguientes. Si no, <b>quedan sin efecto</b>.'
+          'Se confirman, modifican o levantan en el acuerdo de iniciación, que debe dictarse dentro de los <b>15 días</b> siguientes a su adopción. Si no, <b>quedan sin efecto</b>.'
         ]}
       ]},
       {tipo: 'lista', tinte: true, items: [
@@ -124,7 +124,7 @@ registerEsquema('aux-admin-zaragoza', 7, {
           'Lugar y fecha',
           'Firma o acreditación de la voluntad',
           'Órgano, centro o unidad destinataria y su código de identificación'
-        ], reglas: ['Pretensiones idénticas o sustancialmente similares de varias personas: <b>una única solicitud</b>, salvo norma en contrario.']},
+        ], reglas: ['Pretensiones de varias personas con contenido y fundamento idéntico o sustancialmente similar: <b>pueden</b> formularse en <b>una única solicitud</b>, salvo norma en contrario.']},
         {titulo: 'Subsanación y mejora · 68', reglas: [
           '<b>10 días</b> para subsanar, avisando de que si no, se le tendrá por <b>desistido</b> (previa resolución).',
           'Ampliable <b>hasta 5 días</b>, salvo procedimientos <b>selectivos o de concurrencia competitiva</b>.',
@@ -143,14 +143,14 @@ registerEsquema('aux-admin-zaragoza', 7, {
         {t: 'Ambas permiten el derecho o la actividad <b>desde el día de su presentación</b>, sin perjuicio de comprobación, control e inspección.', a: '69.3'},
         {t: 'Se exige una u otra, <b>nunca las dos</b> acumulativamente.', a: '69.6'},
         {t: 'Inexactitud, falsedad u omisión <b>esencial</b>: impide seguir con la actividad desde que se tiene constancia.', a: '69.4'},
-        {t: 'Responsabilidad patrimonial: el derecho a reclamar prescribe al <b>año</b>; en daños físicos o psíquicos, desde la curación o la determinación de las secuelas.', a: '67.1'}
+        {t: 'Responsabilidad patrimonial: el derecho a reclamar prescribe al <b>año</b>; en daños físicos o psíquicos, desde la curación o la determinación del alcance de las secuelas.', a: '67.1'}
       ]}
     ]},
 
     {titulo: 'Ordenación', a: 'arts. 70-74', bloques: [
       {tipo: 'lista', items: [
         {t: 'Expediente: conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución, y diligencias para ejecutarla. <b>Formato electrónico</b> e índice numerado.', a: '70.1-2'},
-        {t: 'No forman parte: notas, borradores, opiniones, resúmenes, informes internos y juicios de valor, salvo informes preceptivos y facultativos solicitados antes de la resolución.', a: '70.4'},
+        {t: 'No forma parte la información auxiliar o de apoyo (entre otras: aplicaciones y bases de datos, notas, borradores, opiniones, resúmenes, comunicaciones e informes internos, juicios de valor), salvo informes preceptivos y facultativos solicitados antes de la resolución.', a: '70.4'},
         {t: 'Impulso <b>de oficio</b> en todos los trámites (principio de celeridad). <b>Orden riguroso de incoación</b> en asuntos homogéneos, salvo orden motivada del titular de la unidad.', a: '71.1-2'},
         {t: 'Incumplir ese orden: <b>responsabilidad disciplinaria</b> y, en su caso, remoción del puesto.', a: '71.2'},
         {t: 'Concentración: en un solo acto los trámites que admitan impulso simultáneo.', a: '72.1'},
@@ -169,7 +169,7 @@ registerEsquema('aux-admin-zaragoza', 7, {
         ['Prueba · 77', '<b>10 a 30 días</b>. Extraordinario: no más de 10 días', 'La abre el instructor si no tiene por ciertos los hechos alegados o lo exige el procedimiento. Solo rechaza pruebas <b>manifiestamente improcedentes o innecesarias</b>, con resolución motivada.'],
         ['Informes · 79-80', '<b>10 días</b>', 'Salvo disposición expresa, <b>facultativos y no vinculantes</b>. Si no llegan, se sigue; si es preceptivo, se puede suspender el plazo para resolver.'],
         ['Audiencia · 82', '<b>10 a 15 días</b>', 'Instruido el procedimiento e inmediatamente <b>antes de redactar la propuesta</b>. Se puede prescindir si no figuran ni cuentan otros hechos, alegaciones o pruebas que los del interesado.'],
-        ['Información pública · 83', '<b>Mínimo 20 días</b>', 'La puede acordar el órgano que resuelve. Anuncio en el diario oficial. Comparecer <b>no da la condición de interesado</b>, pero sí derecho a respuesta razonada.']
+        ['Información pública · 83', '<b>Mínimo 20 días</b>', 'La puede acordar el órgano que resuelve. Anuncio en el diario oficial. Comparecer <b>no da, por sí mismo, la condición de interesado</b>; quien presenta alegaciones u observaciones tiene derecho a una respuesta razonada.']
       ]},
       {tipo: 'lista', tinte: true, items: [
         {t: 'Hechos declarados probados por <b>sentencia penal firme</b>: vinculan en el procedimiento sancionador.', a: '77.4'},
