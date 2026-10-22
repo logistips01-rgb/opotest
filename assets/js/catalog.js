@@ -24,7 +24,7 @@
       // los archivos de ampliación cuando los crea
       files:['data/aux-admin-zaragoza.js', 'data/aux-admin-zaragoza.ampliacion.js'],
       // nº aproximado de preguntas; se corrige solo al abrir la oposición
-      preguntas:5820,
+      preguntas:5872,
       // temas con esquema de estudio en data/esquemas/<slug>/tNN.js
       // (tools/validar-esquemas.js avisa si esta lista no coincide)
       esquemas:[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
@@ -36,7 +36,7 @@
       // el primero es el banco base; tools/fusionar.js añade aquí
       // los archivos de ampliación cuando los crea
       files:['data/policia-local-zaragoza.js'],
-      preguntas:5820,
+      preguntas:4690,
       // oculta en el inicio desde el 22-oct-2026 a petición del usuario
       // (de momento no se usa); el banco y el progreso se conservan
       oculta:true
@@ -50,7 +50,7 @@
       files:['data/tecnico-rrhh-prevencion-zaragoza.js'],
       // temario cargado (90 temas, BOPZ 170/27-jul-2026); banco de
       // preguntas todavía sin empezar
-      preguntas:5820,
+      preguntas:0,
       // sin preguntas todavía: la tarjeta del hub lleva a esta página de
       // resumen de la convocatoria en vez de al test (ver hub.js)
       infoPage:'convocatoria-tecnico-rrhh-prevencion.html',

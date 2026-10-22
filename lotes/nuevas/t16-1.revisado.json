@@ -1,0 +1,457 @@
+{
+ "slug": "aux-admin-zaragoza",
+ "tema": 16,
+ "lote": "t16-1",
+ "preguntas": [
+  {
+   "q": "Según el art. 139.2 de la Ley 7/1999, de Administración Local de Aragón, las ordenanzas y reglamentos de las entidades locales se integran en el ordenamiento jurídico con sujeción a los principios de:",
+   "options": [
+    "Jerarquía normativa y competencia",
+    "Autonomía local y suficiencia financiera",
+    "Proporcionalidad y eficiencia",
+    "Descentralización y desconcentración"
+   ],
+   "correct": 0,
+   "exp": "El art. 139.2 de la Ley 7/1999 dice que las ordenanzas y reglamentos locales «se integran en el ordenamiento jurídico con sujeción a los principios de jerarquía normativa y competencia». Ninguno de los otros pares de principios aparece en ese apartado.",
+   "fuente": "Art. 139.2 Ley 7/1999 (Administración Local de Aragón)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado en el consolidado BOE-A-1999-10151 (últ. act. 25/10/2022): art. 139.2 literal «con sujeción a los principios de jerarquía normativa y competencia». Los otros tres pares no figuran. Sin diferencia para Zaragoza (la Ley 10/2017 no regula esto; DA 1.ª.3 la remite a la legislación aragonesa). Dentro del epígrafe (el examen de 1-jun-2025 preguntó el art. 139.1). No repite: el banco solo tiene el 139.1 (tema 21). | Revisor 2 (CONFIRMADA): Art. 139.2 Ley 7/1999 (consolidado BOE-A-1999-10151, últ. act. 25/10/2022) dice literalmente «con sujeción a los principios de jerarquía normativa y competencia». Distractores falsos según ese apartado. Cita literal correcta. No repite: el banco solo tiene 139.1 (examen) y preguntas sobre el art. 9.3 CE."
+  },
+  {
+   "q": "Conforme al art. 139.3 de la Ley 7/1999, de Administración Local de Aragón, lo dispuesto en las ordenanzas y reglamentos de una entidad local:",
+   "options": [
+    "Vincula a los ciudadanos, pero la entidad local puede dispensar individualmente de su observancia mediante resolución motivada",
+    "Vincula por igual a los ciudadanos y a la entidad local, sin que esta pueda dispensar individualmente de su observancia",
+    "Vincula a los ciudadanos y a la entidad local, salvo que el Pleno acuerde por mayoría absoluta una dispensa individual",
+    "Vincula solo a los ciudadanos, ya que la entidad local puede apartarse de ello por razones de interés público"
+   ],
+   "correct": 1,
+   "exp": "El art. 139.3 establece que lo dispuesto en las ordenanzas y reglamentos «vinculará por igual a los ciudadanos y a la entidad local, sin que pueda ésta dispensar individualmente de su observancia». No hay dispensa individual posible, ni por resolución motivada ni por acuerdo plenario con mayoría reforzada.",
+   "fuente": "Art. 139.3 Ley 7/1999 (Administración Local de Aragón)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 139.3 Ley 7/1999 literal: «vinculará por igual a los ciudadanos y a la entidad local, sin que pueda ésta dispensar individualmente de su observancia». Los tres distractores admiten dispensa o desvinculan a la entidad, y son falsos. Ninguna especialidad para Zaragoza. No repite ninguna pregunta de los temas 16 ni 21. | Revisor 2 (CONFIRMADA): Art. 139.3 Ley 7/1999 literal: «vinculará por igual a los ciudadanos y a la entidad local, sin que pueda ésta dispensar individualmente de su observancia». Coherente con el art. 37.1 LPAC; las tres dispensas de los distractores son falsas. Sin duplicado en el banco."
+  },
+  {
+   "q": "Según el art. 140.1.b) de la Ley 7/1999, de Administración Local de Aragón, la información pública de una ordenanza aprobada inicialmente se abre previo anuncio del acuerdo de aprobación inicial en:",
+   "options": [
+    "El «Boletín Oficial» de la provincia y un diario de los de mayor difusión de la provincia",
+    "El «Boletín Oficial del Estado» y la sede electrónica de la entidad",
+    "La sección correspondiente del «Boletín Oficial de Aragón» y el tablón de anuncios de la entidad",
+    "Únicamente el tablón de anuncios de la entidad"
+   ],
+   "correct": 2,
+   "exp": "El art. 140.1.b) regula la «Información pública, previo anuncio en la sección correspondiente del «Boletín Oficial de Aragón» y en el tablón de anuncios de la entidad del acuerdo de aprobación inicial, por el plazo mínimo de treinta días». Es una diferencia con el art. 49 LBRL, que no dice dónde se anuncia. El boletín de la provincia es donde se publica después el texto íntegro para su entrada en vigor (art. 141.1), y el diario de mayor difusión es propio de las ordenanzas fiscales (art. 17.2 TRLRHL).",
+   "fuente": "Art. 140.1.b) Ley 7/1999 (Administración Local de Aragón)",
+   "confianza": "alta",
+   "veredicto": "DUDOSA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 140.1.b) Ley 7/1999 literal: anuncio «en la sección correspondiente del Boletín Oficial de Aragón y en el tablón de anuncios de la entidad». Los distractores son falsos: no hay diario, ni BOE, ni basta el tablón. La explicación es exacta. Nota para la sesión principal: en Zaragoza rige el art. 48.3.b) Ley 10/2017 («boletín oficial correspondiente y tablón de anuncios municipal»). Es compatible con la respuesta, porque la DA 4.ª Ley 7/1999 integra los BOP como secciones del BOA. No induce a error. | Revisor 2 (DUDOSA): La respuesta marcada es literal del art. 140.1.b) Ley 7/1999 y coincide con el art. 48.3.b) Ley 10/2017 («boletín oficial correspondiente y tablón»). Pero la explicación es inexacta: según la disp. adic. 4.ª de la Ley 7/1999, los BOP de Huesca, Teruel y Zaragoza se integran como secciones del BOA, y toda referencia legal al BOP se entiende hecha a esas secciones. Así, el distractor «BOP y un diario» es medio cierto (solo lo falsea el diario) y la explicación lo contrapone al BOA como si fueran boletines distintos. Arreglo: reescribir la exp citando la DA 4.ª y cambiar ese distractor por uno sin el BOP (p. ej. «El BOE y un diario de los de mayor difusión de la provincia»)."
+  },
+  {
+   "q": "Durante el trámite de información pública del art. 140.1.b) de la Ley 7/1999, de Administración Local de Aragón, ¿quiénes pueden examinar el expediente de la ordenanza y qué pueden formular?",
+   "options": [
+    "Solo los concejales, que pueden formular enmiendas al texto",
+    "Solo las asociaciones vecinales inscritas, que pueden emitir informe sobre el proyecto",
+    "Solo los vecinos con derecho de sufragio activo, que pueden presentar un texto alternativo",
+    "Los vecinos e interesados legítimos, que pueden formular reclamaciones, reparos u observaciones"
+   ],
+   "correct": 3,
+   "exp": "Según el art. 140.1.b), durante el plazo mínimo de treinta días de información pública «los vecinos e interesados legítimos podrán examinar el expediente y formular reclamaciones, reparos u observaciones». El trámite no se limita a concejales, asociaciones ni electores. El art. 49.b) LBRL habla de «reclamaciones y sugerencias».",
+   "fuente": "Art. 140.1.b) Ley 7/1999 (Administración Local de Aragón)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 140.1.b) Ley 7/1999 literal: «los vecinos e interesados legítimos podrán examinar el expediente y formular reclamaciones, reparos u observaciones». Los distractores (solo concejales, solo asociaciones, solo electores) son falsos. En Zaragoza, el art. 48.3.b) habla de «interesados» y de «reclamaciones y sugerencias», pero ninguna opción pasa a ser correcta por eso. No repite nada: en el banco no hay ninguna pregunta sobre «reparos u observaciones». | Revisor 2 (CONFIRMADA): Art. 140.1.b) Ley 7/1999 literal: «los vecinos e interesados legítimos podrán examinar el expediente y formular reclamaciones, reparos u observaciones». Los tres «Solo…» son falsos. No contradice el régimen de Zaragoza (art. 48.3.b Ley 10/2017: información pública y audiencia, reclamaciones y sugerencias). La exp sobre el art. 49.b) LBRL es exacta."
+  },
+  {
+   "q": "¿Cuál de los siguientes requisitos NO exige el art. 140.1.c) de la Ley 7/1999, de Administración Local de Aragón, a las asociaciones vecinales y de defensa de los consumidores y usuarios para darles audiencia previa en la elaboración de una ordenanza?",
+   "options": [
+    "Haber sido declaradas de utilidad pública",
+    "Estar establecidas en el ámbito territorial de la entidad local",
+    "Estar inscritas en el Registro correspondiente de asociaciones vecinales",
+    "Tener fines que guarden relación directa con el objeto de la disposición"
+   ],
+   "correct": 0,
+   "exp": "El art. 140.1.c) prevé la «Audiencia previa a las asociaciones vecinales y de defensa de los consumidores y usuarios establecidos en su ámbito territorial que estén inscritos en el Registro correspondiente de asociaciones vecinales y cuyos fines guarden relación directa con el objeto de la disposición». Pide, por tanto, ámbito territorial, inscripción registral y relación directa de fines. La declaración de utilidad pública no figura entre los requisitos.",
+   "fuente": "Art. 140.1.c) Ley 7/1999 (Administración Local de Aragón)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 140.1.c) Ley 7/1999 verificado: exige que las asociaciones estén establecidas en su ámbito territorial, inscritas en el Registro correspondiente de asociaciones vecinales y con fines directamente relacionados con la disposición. No exige la declaración de utilidad pública. Una sola negación en el enunciado, que se admite. No hay pregunta igual en el banco. | Revisor 2 (CONFIRMADA): Art. 140.1.c) Ley 7/1999: los requisitos son el ámbito territorial, la inscripción en el Registro de asociaciones vecinales y fines con relación directa con el objeto; la utilidad pública no figura. Las tres opciones restantes sí están en el texto. Nota: en Zaragoza el art. 48 Ley 10/2017 desplaza este procedimiento, pero la pregunta se ancla en la Ley 7/1999 y su respuesta no es falsa para Zaragoza."
+  },
+  {
+   "q": "¿Qué trámite del procedimiento de aprobación de ordenanzas y reglamentos del art. 140.1 de la Ley 7/1999, de Administración Local de Aragón, NO aparece en el art. 49 de la LBRL?",
+   "options": [
+    "La aprobación inicial por el Pleno",
+    "La audiencia previa a las asociaciones vecinales y de defensa de los consumidores y usuarios",
+    "La información pública por un plazo mínimo de treinta días",
+    "La aprobación definitiva por el Pleno, resolviendo las reclamaciones presentadas"
+   ],
+   "correct": 1,
+   "exp": "El art. 140.1 de la Ley 7/1999 tiene cuatro trámites: a) aprobación inicial por el Pleno; b) información pública de treinta días como mínimo; c) «Audiencia previa a las asociaciones vecinales y de defensa de los consumidores y usuarios…»; y d) resolución de reclamaciones y aprobación definitiva por el Pleno. El art. 49 LBRL recoge la aprobación inicial por el Pleno, la información pública y audiencia a los interesados durante treinta días como mínimo y la aprobación definitiva por el Pleno, pero no la audiencia específica a esas asociaciones.",
+   "fuente": "Art. 140.1.c) Ley 7/1999 (Administración Local de Aragón) y art. 49 LBRL (Ley 7/1985)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Contrastados el art. 140.1 a)-d) Ley 7/1999 y el art. 49 LBRL (BOE-A-1985-5392). El art. 49 recoge la aprobación inicial, la información pública de 30 días como mínimo y la aprobación definitiva con resolución de reclamaciones, pero no la audiencia específica a las asociaciones vecinales y de consumidores. La respuesta es única y la explicación exacta. | Revisor 2 (CONFIRMADA): Comprobado: el art. 49 LBRL (aprobación inicial por el Pleno; información pública y audiencia a los interesados durante 30 días como mínimo; resolución y aprobación definitiva por el Pleno) no recoge la audiencia previa a las asociaciones vecinales y de consumidores del art. 140.1.c) Ley 7/1999. Los otros tres trámites están en ambos artículos. La exp es exacta."
+  },
+  {
+   "q": "Según el art. 141.1 de la Ley 7/1999, de Administración Local de Aragón, los reglamentos y las ordenanzas no producirán efectos jurídicos en tanto no hayan transcurrido:",
+   "options": [
+    "Quince días hábiles contados desde que la Administración del Estado o de la Comunidad Autónoma recibe la comunicación del acuerdo",
+    "Veinte días contados desde el siguiente al de su publicación en el «Boletín Oficial de Aragón»",
+    "Quince días contados desde el siguiente al de la publicación de su texto íntegro en el «Boletín Oficial» de la provincia",
+    "Un mes contado desde su aprobación definitiva por el Pleno"
+   ],
+   "correct": 2,
+   "exp": "El art. 141.1 dispone que los reglamentos y las ordenanzas, incluidos los contenidos normativos de los planes urbanísticos, «no producirán efectos jurídicos en tanto no hayan transcurrido quince días contados desde el siguiente al de la publicación de su texto íntegro en el «Boletín Oficial» de la provincia». La ley aragonesa cuenta el plazo desde la publicación. El primer distractor reproduce la fórmula de los arts. 70.2 y 65.2 LBRL (quince días hábiles desde la recepción de la comunicación del acuerdo), no la del art. 141.1.",
+   "fuente": "Art. 141.1 Ley 7/1999 (Administración Local de Aragón)",
+   "confianza": "alta",
+   "veredicto": "DUDOSA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 141.1 Ley 7/1999 literal: «quince días contados desde el siguiente al de la publicación de su texto íntegro en el Boletín Oficial de la provincia». Los distractores son falsos según ese artículo, y la explicación advierte bien que el primero es la fórmula de los arts. 70.2 y 65.2 LBRL. AVISO a la sesión principal: el art. 141.1 no coincide con la regla básica de los arts. 70.2 y 65.2 LBRL, que prevalece en todos los municipios. La pregunta es correcta porque está anclada al art. 141.1 y la explicación lo aclara. Esto no es una especialidad de Zaragoza como municipio de gran población. | Revisor 2 (DUDOSA): La respuesta es literal del art. 141.1 Ley 7/1999 («quince días contados desde el siguiente al de la publicación de su texto íntegro en el BOP»; sin calificar los días). Pero el primer distractor reproduce la regla del art. 70.2 en relación con el 65.2 LBRL (quince días hábiles desde la recepción de la comunicación), que es legislación básica y rige también en Zaragoza, y el banco ya la enseña como correcta (pregunta del art. 70.2 con «Quince días hábiles»). Un distractor que es la norma aplicable en Zaragoza es una trampa, aunque el enunciado cite la ley aragonesa. Arreglo: sustituirlo por uno ajeno a cualquier norma aplicable (p. ej. «Un mes contado desde el siguiente al de su publicación en el BOA») y advertir en la exp de que la regla convive con el art. 70.2 LBRL."
+  },
+  {
+   "q": "Según el art. 141.1 de la Ley 7/1999, de Administración Local de Aragón, el plazo de quince días que debe transcurrir antes de que una ordenanza produzca efectos jurídicos es el plazo en el que:",
+   "options": [
+    "Los vecinos pueden presentar reclamaciones contra el texto definitivamente aprobado",
+    "El Alcalde puede devolver la ordenanza al Pleno para una nueva deliberación",
+    "La Comisión Jurídica Asesora debe emitir dictamen sobre la legalidad de la ordenanza",
+    "La Administración del Estado o de la Comunidad Autónoma pueden ejercer sus facultades de requerimiento a las entidades locales en orden a la anulación del reglamento u ordenanza"
+   ],
+   "correct": 3,
+   "exp": "El art. 141.1 explica que esos quince días son el «plazo en el que la Administración del Estado o de la Comunidad Autónoma podrán ejercer sus facultades de requerimiento a las entidades locales, en orden a la anulación del reglamento u ordenanza». Las reclamaciones de los vecinos se presentan antes, en la información pública (art. 140.1.b). La ley no prevé ningún veto del Alcalde ni dictamen de la Comisión Jurídica Asesora en ese plazo.",
+   "fuente": "Art. 141.1 Ley 7/1999 (Administración Local de Aragón)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): Correcta según el texto: el art. 141.1 Ley 7/1999 dice «plazo en el que la Administración del Estado o de la Comunidad Autónoma podrán ejercer sus facultades de requerimiento… en orden a la anulación». Pero repite una pregunta que ya está en el tema 16: «El plazo del art. 65.2 LBRL, cuyo transcurso condiciona la entrada en vigor de las ordenanzas según el art. 70.2, es el que tienen la Administración del Estado o de la Comunidad Autónoma para: Formular el requerimiento motivado de anulación…». Pregunta lo mismo con otras palabras (regla 6). | Revisor 2 (RECHAZADA): El contenido es correcto (art. 141.1 Ley 7/1999: plazo para que el Estado o la Comunidad Autónoma ejerzan sus facultades de requerimiento en orden a la anulación), pero repite en sustancia una pregunta del tema 16: «El plazo del art. 65.2 LBRL, cuyo transcurso condiciona la entrada en vigor de las ordenanzas según el art. 70.2, es el que tienen la Administración del Estado o de la Comunidad Autónoma para: formular el requerimiento…». Es el mismo concepto con otra cita."
+  },
+  {
+   "q": "Según el art. 141.2 de la Ley 7/1999, de Administración Local de Aragón, las ordenanzas fiscales entrarán en vigor:",
+   "options": [
+    "Una vez que se haya publicado íntegramente el acuerdo definitivo y su texto en el «Boletín Oficial» de la provincia, a no ser que se demore su aplicación a una fecha posterior",
+    "Cuando hayan transcurrido quince días desde el siguiente al de la publicación de su texto íntegro en el «Boletín Oficial» de la provincia",
+    "Al día siguiente de su aprobación definitiva por el Pleno, sin necesidad de publicación",
+    "El 1 de enero del ejercicio siguiente al de su publicación, en todo caso"
+   ],
+   "correct": 0,
+   "exp": "El art. 141.2 dice: «Las ordenanzas fiscales entrarán en vigor una vez que se haya publicado íntegramente el acuerdo definitivo y el texto de las mismas en dicho boletín, a no ser que se demore su aplicación a una fecha posterior». «Dicho boletín» es el «Boletín Oficial» de la provincia citado en el apartado 1. El plazo de quince días es la regla general del art. 141.1, que no se aplica a las ordenanzas fiscales. Tampoco hay una fecha fija de entrada en vigor.",
+   "fuente": "Art. 141.2 Ley 7/1999 (Administración Local de Aragón)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 141.2 Ley 7/1999 literal: las ordenanzas fiscales «entrarán en vigor una vez que se haya publicado íntegramente el acuerdo definitivo y el texto de las mismas en dicho boletín, a no ser que se demore su aplicación a una fecha posterior». «Dicho boletín» es el BOP del apartado 1. Los distractores son falsos. En Zaragoza rige lo mismo (art. 17.4 TRLRHL; art. 48.3.e) por remisión del art. 49 Ley 10/2017). Nota: coincide en el fondo con dos preguntas del tema 12 sobre el art. 17.4 TRLRHL, pero aquí la norma es otra y se pregunta por la cláusula de demora y por la exclusión del plazo de 15 días. | Revisor 2 (CONFIRMADA): Art. 141.2 Ley 7/1999 literal, con «dicho boletín» = el «Boletín Oficial» de la provincia del apartado 1. Coincide con el art. 17.4 TRLRHL, así que no es falsa para Zaragoza. Los quince días del 141.1 no se aplican a las fiscales; los otros distractores son falsos."
+  },
+  {
+   "q": "Según el art. 142.1 de la Ley 7/1999, de Administración Local de Aragón, ¿cuál de las siguientes es una de las finalidades de los bandos dictados por los Alcaldes?",
+   "options": [
+    "Tipificar infracciones y sanciones por el incumplimiento de las ordenanzas",
+    "Efectuar convocatorias populares con motivo de acontecimientos ciudadanos",
+    "Regular con carácter permanente el uso de los espacios públicos",
+    "Aprobar los precios públicos de los servicios municipales"
+   ],
+   "correct": 1,
+   "exp": "El art. 142.1 asigna a los bandos tres finalidades: «exhortar a los ciudadanos a la observancia de las obligaciones y deberes establecidos en las leyes y en las ordenanzas y reglamentos municipales, recordarles el contenido preciso de dichas obligaciones y los plazos establecidos para su cumplimiento, así como efectuar convocatorias populares con motivo de acontecimientos ciudadanos». Tipificar infracciones, regular con carácter permanente el uso de los espacios públicos o fijar precios no es función del bando.",
+   "fuente": "Art. 142.1 Ley 7/1999 (Administración Local de Aragón)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 142.1 Ley 7/1999 verificado: los bandos sirven para exhortar a cumplir las obligaciones, recordar su contenido y plazos y «efectuar convocatorias populares con motivo de acontecimientos ciudadanos». Tipificar infracciones, regular con carácter permanente o fijar precios no son funciones del bando. No repite la pregunta del examen sobre el 142.1 (tema 21), que pregunta cómo se publican los bandos y no para qué sirven. | Revisor 2 (CONFIRMADA): Art. 142.1 Ley 7/1999 literal (exhortar, recordar obligaciones y plazos, efectuar convocatorias populares con motivo de acontecimientos ciudadanos). Tipificar infracciones, regular con carácter permanente o aprobar precios no son finalidades del bando. La pregunta del examen sobre el 142.1 trata de la publicación, no de las finalidades, así que no hay duplicado."
+  },
+  {
+   "q": "Según el art. 142.2 de la Ley 7/1999, de Administración Local de Aragón, en los casos de catástrofe o infortunio públicos o grave riesgo, los Alcaldes podrán adoptar las medidas necesarias y adecuadas:",
+   "options": [
+    "Previa autorización del Pleno en sesión extraordinaria urgente",
+    "Dando cuenta al Gobierno de Aragón en el plazo de diez días",
+    "Dando cuenta inmediata al Pleno",
+    "Previo dictamen de la Comisión informativa competente"
+   ],
+   "correct": 2,
+   "exp": "El art. 142.2 dispone: «No obstante, en los casos de catástrofe o infortunio públicos o grave riesgo, los Alcaldes podrán adoptar las medidas necesarias y adecuadas, dando cuenta inmediata al Pleno». No hace falta autorización ni dictamen previo; basta con dar cuenta inmediata al Pleno, y no al Gobierno de Aragón.",
+   "fuente": "Art. 142.2 Ley 7/1999 (Administración Local de Aragón)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 142.2 Ley 7/1999 literal: «los Alcaldes podrán adoptar las medidas necesarias y adecuadas, dando cuenta inmediata al Pleno». En Zaragoza la solución es la misma: el art. 124.4.h) LBRL y la atribución equivalente del Alcalde en la Ley 10/2017 dicen «dando cuenta inmediata al Pleno». Está dentro del epígrafe porque es el artículo de los Bandos. No hay pregunta igual en los temas 14, 16 ni 21. | Revisor 2 (CONFIRMADA): Art. 142.2 Ley 7/1999 literal: «dando cuenta inmediata al Pleno». Coincide con el art. 12.1.h) Ley 10/2017 para el Alcalde de Zaragoza y con el art. 124.4.h) LBRL. Los distractores (autorización previa, Gobierno de Aragón en diez días, dictamen de comisión) son falsos."
+  },
+  {
+   "q": "Según el art. 126.4 de la Ley 7/1999, de Administración Local de Aragón, ¿cuál de los siguientes acuerdos requiere el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación?",
+   "options": [
+    "La aprobación del presupuesto anual",
+    "La aprobación de la plantilla de personal",
+    "La aprobación de la cuenta general",
+    "La aprobación de las ordenanzas fiscales"
+   ],
+   "correct": 3,
+   "exp": "El art. 126.4.k) de la Ley 7/1999 exige mayoría absoluta del número legal de miembros para «La creación e imposición de recursos propios de carácter tributario, así como la aprobación de las ordenanzas fiscales». El presupuesto, la plantilla y la cuenta general no están en la lista del art. 126.4, de modo que se rigen por la regla general de la mayoría simple de los presentes (art. 126.1). Ojo: es una exigencia de la ley aragonesa, porque el art. 47.2 LBRL no incluye las ordenanzas fiscales. En los municipios de gran población, como Zaragoza, la LBRL remite a las mayorías del art. 123.2 (art. 47.3 LBRL).",
+   "fuente": "Art. 126.4.k) Ley 7/1999 (Administración Local de Aragón)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): Según el art. 126.4.k) Ley 7/1999 la pregunta es correcta, pero INDUCE A ERROR SOBRE ZARAGOZA. En Zaragoza, el art. 11.2 de la Ley 10/2017 (mayoría simple como regla, y mayoría absoluta solo para los acuerdos que exija la legislación básica) y los arts. 47.3 y 123.2 LBRL hacen que la ordenanza fiscal se apruebe por mayoría simple. La Ley 10/2017 sí regula las mayorías, así que la Ley 7/1999 no se le aplica como supletoria en este punto (DA 1.ª.3). Además, contradice una pregunta del tema 16 que da por buena la «mayoría simple de votos» para las ordenanzas en los municipios de gran población (art. 123.2 LBRL). Para Zaragoza, ninguna de las cuatro opciones exigiría mayoría absoluta. | Revisor 2 (RECHAZADA): Es literal del art. 126.4.k) Ley 7/1999, pero la respuesta es FALSA para Zaragoza. En los municipios de gran población las mayorías son las del art. 123.2 LBRL (art. 47.3 LBRL), y el art. 11.2 Ley 10/2017 fija la mayoría simple como regla y la absoluta solo para los acuerdos de la legislación básica. El art. 123.2 exige mayoría absoluta solo para las letras c), e), f), j) y o) y el planeamiento general, no para la g) (recursos tributarios) ni para las ordenanzas. En Zaragoza, pues, una ordenanza fiscal se aprueba por mayoría simple, y el banco ya enseña la mayoría simple del 123.2 para las ordenanzas en gran población. La propia exp lo reconoce."
+  },
+  {
+   "q": "Según el art. 126.4 de la Ley 7/1999, de Administración Local de Aragón, la aprobación de las ordenanzas reguladoras de los aprovechamientos de bienes comunales requiere:",
+   "options": [
+    "El voto favorable de la mayoría absoluta del número legal de miembros de la Corporación",
+    "La mayoría simple de los miembros presentes",
+    "El voto favorable de las dos terceras partes del número de hecho y, en todo caso, de la mayoría absoluta del número legal de miembros",
+    "El voto favorable de las tres quintas partes del número legal de miembros"
+   ],
+   "correct": 0,
+   "exp": "El art. 126.4 exige «el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación» para, entre otros, «g) La aprobación de las ordenanzas reguladoras de los aprovechamientos de bienes comunales, así como la cesión, por cualquier título, de su aprovechamiento». La mayoría de dos tercios del número de hecho del art. 126.3 se reserva para la creación y supresión de municipios, las entidades locales menores, la delimitación del término y el cambio de nombre o capitalidad. La ley no prevé una mayoría de tres quintos.",
+   "fuente": "Art. 126.4.g) Ley 7/1999 (Administración Local de Aragón)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): Según el art. 126.4.g) Ley 7/1999 la pregunta es correcta, pero la respuesta es distinta para Zaragoza. Por los arts. 47.3 y 123.2 LBRL y el art. 11.2 de la Ley 10/2017, en un municipio de gran población estas ordenanzas no figuran entre los acuerdos de mayoría absoluta y se aprueban por mayoría simple. Para Zaragoza, la opción correcta sería el distractor «mayoría simple». Tiene el mismo defecto que la P12. | Revisor 2 (RECHAZADA): Es literal del art. 126.4.g) Ley 7/1999, pero la respuesta es falsa para Zaragoza, municipio de gran población: arts. 47.3 y 123.2 LBRL y art. 11.2 Ley 10/2017. Las ordenanzas de aprovechamiento de bienes comunales no están entre los acuerdos que el art. 123.2 somete a mayoría absoluta, de modo que en Zaragoza basta la mayoría simple. Contradice lo que el banco enseña para gran población."
+  },
+  {
+   "q": "Según el art. 197.1 de la Ley 7/1999, de Administración Local de Aragón, respecto del sistema de infracciones y sanciones establecido en las leyes sectoriales, las ordenanzas locales podrán:",
+   "options": [
+    "Elevar las cuantías máximas de las sanciones fijadas en la ley sectorial",
+    "Complementarlo y adaptarlo, introduciendo especificaciones o graduaciones, sin que supongan nuevas infracciones o sanciones ni alteren su naturaleza o límites",
+    "Sustituirlo íntegramente por un régimen sancionador propio de la entidad local",
+    "Suspender su aplicación en el término municipal por razones de interés local"
+   ],
+   "correct": 1,
+   "exp": "El art. 197.1 dispone: «Las ordenanzas locales podrán complementar y adaptar el sistema de infracciones y sanciones establecido en las leyes sectoriales, introduciendo las especificaciones o graduaciones que consideren conveniente, sin que, en ningún caso, supongan nuevas infracciones o sanciones, ni alteren su naturaleza o límites». Elevar las cuantías alteraría sus límites, y sustituir o suspender el régimen legal va contra el propio precepto.",
+   "fuente": "Art. 197.1 Ley 7/1999 (Administración Local de Aragón)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): El texto es correcto (art. 197.1 Ley 7/1999, literal). Pero queda FUERA DEL EPÍGRAFE del tema 16. El art. 197 está en el Título VII, capítulo I, «Intervención administrativa en la actividad privada», de la Ley 7/1999: es materia de policía administrativa, que corresponde al tema 11 («La actividad de las entidades Locales. Policía…»). El epígrafe del tema 16 no menciona la potestad sancionadora. Si se quiere aprovechar, propongo pasarla al tema 11, previa revisión allí; ese tema no tiene ninguna pregunta de la Ley 7/1999. | Revisor 2 (CONFIRMADA): Art. 197.1 Ley 7/1999 literal. Coincide con la regla de las especificaciones o graduaciones del art. 27.3 LRJSP y es compatible con los arts. 139-141 LBRL. Los distractores (elevar cuantías, sustituir o suspender el régimen legal) son contrarios al precepto. No hay duplicado en el banco."
+  },
+  {
+   "q": "En los municipios de gran población, según el art. 123.1.c) de la LBRL, ¿cuál de las siguientes materias tiene en todo caso naturaleza orgánica?",
+   "options": [
+    "La regulación de la tasa por la recogida de residuos",
+    "La regulación del uso de las terrazas de hostelería en la vía pública",
+    "La regulación del órgano para la resolución de las reclamaciones económico-administrativas",
+    "La regulación de la tenencia de animales de compañía"
+   ],
+   "correct": 2,
+   "exp": "El art. 123.1.c) LBRL atribuye al Pleno «La aprobación y modificación de los reglamentos de naturaleza orgánica» y enumera las materias que «Tendrán en todo caso naturaleza orgánica»: la regulación del Pleno, del Consejo Social de la ciudad, de la Comisión Especial de Sugerencias y Reclamaciones, de los órganos complementarios y procedimientos de participación ciudadana, la división en distritos, los niveles esenciales de la organización municipal y «La regulación del órgano para la resolución de las reclamaciones económico-administrativas». Una tasa se regula en una ordenanza fiscal, y las terrazas o los animales en ordenanzas que no están en esa lista.",
+   "fuente": "Art. 123.1.c) LBRL (Ley 7/1985)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 123.1.c) LBRL verificado: entre las materias de naturaleza orgánica figura «La regulación del órgano para la resolución de las reclamaciones económico-administrativas». Las otras tres materias se regulan por ordenanza. Para Zaragoza la lista es idéntica (art. 11.1.c) 7.ª Ley 10/2017). Cubre un hueco que señala ESTADO.md (el art. 123.1.c y d sin preguntas en el tema 16). No repite las del tema 14, que preguntan por el Consejo Social. | Revisor 2 (CONFIRMADA): El art. 123.1.c) LBRL incluye literalmente «La regulación del órgano para la resolución de las reclamaciones económico-administrativas» entre las materias de naturaleza orgánica en todo caso; también el art. 11.1.c) 7.ª Ley 10/2017, así que es cierta para Zaragoza. Tasa de residuos, terrazas y animales no están en la lista. Sin duplicado."
+  },
+  {
+   "q": "En los municipios de gran población, según el art. 123.3 de la LBRL, la competencia del Pleno para aprobar y modificar las ordenanzas y reglamentos municipales (art. 123.1.d):",
+   "options": [
+    "Puede delegarse en la Junta de Gobierno Local",
+    "Puede delegarse en el Alcalde",
+    "No puede delegarse en ningún caso",
+    "Solo puede delegarse en las comisiones del Pleno a que se refiere el art. 122.4"
+   ],
+   "correct": 3,
+   "exp": "El art. 123.3 LBRL dispone: «Únicamente pueden delegarse las competencias del Pleno referidas en los párrafos d), k), m) y ñ) a favor de las comisiones referidas en el apartado 4 del artículo anterior». La letra d) es la aprobación y modificación de las ordenanzas y reglamentos municipales. Por tanto es delegable, pero solo en las comisiones del Pleno (art. 122.4), nunca en el Alcalde ni en la Junta de Gobierno Local. En el régimen común, en cambio, el art. 22.4 LBRL no permite delegarla.",
+   "fuente": "Art. 123.3 LBRL (Ley 7/1985)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 123.3 LBRL literal: solo se delegan las letras d), k), m) y ñ), y solo en las comisiones del art. 122.4. La letra d) es la de ordenanzas y reglamentos. En Zaragoza la regla es la misma (art. 11.3 Ley 10/2017: la letra d) solo puede delegarse en Comisiones del Pleno). La comparación con el art. 22.4 LBRL es exacta. No repite la pregunta del art. 22.4, que se refiere al régimen común. | Revisor 2 (CONFIRMADA): Art. 123.3 LBRL literal: solo son delegables las letras d), k), m) y ñ), y únicamente en las comisiones del art. 122.4. Coincide con el art. 11.3 Ley 10/2017 (letra d, solo en Comisiones del Pleno), así que es cierta para Zaragoza. Los tres distractores son falsos. La mención del art. 22.4 LBRL en la exp es exacta (la letra d está excluida de la delegación en el Alcalde y en la JGL)."
+  },
+  {
+   "q": "Si se comparan el art. 70.2 de la LBRL y el art. 17.4 del TRLRHL, ¿qué condición para entrar en vigor se exige a una ordenanza no fiscal y no a una ordenanza fiscal?",
+   "options": [
+    "Que, además de publicarse, transcurra el plazo previsto en el art. 65.2 LBRL",
+    "Que su texto se publique íntegramente",
+    "Que se publique en el boletín oficial de la provincia",
+    "Que se publique el acuerdo de aprobación definitiva"
+   ],
+   "correct": 0,
+   "exp": "El art. 70.2 LBRL dispone que las ordenanzas se publicarán en el «Boletín Oficial» de la Provincia «y no entrarán en vigor hasta que se haya publicado completamente su texto y haya transcurrido el plazo previsto en el artículo 65.2 salvo los presupuestos y las ordenanzas fiscales», que se rigen por la ley de haciendas locales. El art. 17.4 TRLRHL exige publicar en el boletín oficial de la provincia los acuerdos definitivos y el texto íntegro de las ordenanzas fiscales, «sin que entren en vigor hasta que se haya llevado a cabo dicha publicación», sin añadir el plazo del art. 65.2. La publicación íntegra y en el boletín de la provincia se exige a ambas, y la del acuerdo definitivo la pide expresamente el art. 17.4 para las fiscales.",
+   "fuente": "Art. 70.2 LBRL (Ley 7/1985) y art. 17.4 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Contrastados el art. 70.2 LBRL («haya transcurrido el plazo previsto en el artículo 65.2 salvo los presupuestos y las ordenanzas fiscales») y el art. 17.4 TRLRHL (entran en vigor con la publicación, sin plazo adicional). Las otras tres condiciones se exigen también a las fiscales, o solo a ellas, así que la respuesta es única. Para Zaragoza rige lo mismo, porque la Ley 10/2017 no regula la entrada en vigor y el art. 70.2 LBRL es básico. Comparada con las del art. 70.2 del tema 16, esta añade la comparación y no repite ninguna. | Revisor 2 (CONFIRMADA): El art. 70.2 LBRL exige para las ordenanzas la publicación completa del texto y el transcurso del plazo del art. 65.2, salvo presupuestos y ordenanzas fiscales. El art. 17.4 TRLRHL exige para las fiscales la publicación del acuerdo definitivo y del texto íntegro en el BOP, sin plazo adicional (lo mismo dice el art. 141.2 Ley 7/1999). La publicación íntegra y en el BOP se exige a ambas, y la del acuerdo definitivo la pide el 17.4 a las fiscales, así que los tres distractores son falsos. Es cierta también para Zaragoza."
+  },
+  {
+   "q": "Según el art. 15.2 del TRLRHL, respecto de los impuestos previstos en el art. 59.1 (IBI, IAE e impuesto sobre vehículos de tracción mecánica), los ayuntamientos deben aprobar las oportunas ordenanzas fiscales:",
+   "options": [
+    "En todo caso, porque sin ordenanza fiscal no pueden exigir esos impuestos",
+    "Cuando decidan hacer uso de las facultades que les confiere la ley para fijar los elementos necesarios para determinar las cuotas tributarias",
+    "Solo cuando su población supere los 20.000 habitantes",
+    "Solo cuando la gestión del impuesto esté delegada en la diputación provincial"
+   ],
+   "correct": 1,
+   "exp": "El art. 15.2 TRLRHL dice: «Respecto de los impuestos previstos en el artículo 59.1, los ayuntamientos que decidan hacer uso de las facultades que les confiere esta ley en orden a la fijación de los elementos necesarios para la determinación de las respectivas cuotas tributarias, deberán acordar el ejercicio de tales facultades, y aprobar las oportunas ordenanzas fiscales». Esos impuestos los exigen los ayuntamientos «de acuerdo con esta ley» (art. 59.1), y el art. 15.1 excluye expresamente los supuestos del art. 59.1 del deber general de acordar la imposición y aprobar ordenanza. La población y la delegación de la gestión no tienen nada que ver.",
+   "fuente": "Art. 15.2 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 15.2 TRLRHL literal (BOE-A-2004-4214, sin modificar). El art. 59.1 recoge el IBI, el IAE y el IVTM, y el art. 15.1 los excluye del deber general de acordar la imposición. Los distractores son falsos. En el banco hay preguntas del tema 12 sobre los arts. 15.1 y 15.3, pero ninguna del 15.2. | Revisor 2 (CONFIRMADA): Art. 15.2 TRLRHL literal (consolidado BOE-A-2004-4214). En relación con los arts. 15.1 y 59.1, los impuestos obligatorios se exigen sin ordenanza, y la ordenanza solo hace falta si el ayuntamiento usa sus facultades. Los criterios de población y de delegación son inventados."
+  },
+  {
+   "q": "Según el art. 16.1 del TRLRHL, los acuerdos de aprobación de las ordenanzas fiscales de los tributos propios a que se refiere el art. 15.1 deberán adoptarse:",
+   "options": [
+    "Dentro del mes siguiente al acuerdo de imposición del tributo",
+    "Antes del acuerdo de imposición, que debe remitirse a la ordenanza ya aprobada",
+    "Simultáneamente a los de imposición de los respectivos tributos",
+    "Junto con la aprobación del presupuesto general del ejercicio"
+   ],
+   "correct": 2,
+   "exp": "El art. 16.1 TRLRHL, tras enumerar el contenido mínimo de estas ordenanzas, dispone: «Los acuerdos de aprobación de estas ordenanzas fiscales deberán adoptarse simultáneamente a los de imposición de los respectivos tributos». Ni después ni antes del acuerdo de imposición, ni ligados al presupuesto.",
+   "fuente": "Art. 16.1 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 16.1 TRLRHL literal: «Los acuerdos de aprobación de estas ordenanzas fiscales deberán adoptarse simultáneamente a los de imposición de los respectivos tributos». Los distractores son falsos. No repite ninguna pregunta: las del tema 12 sobre el art. 16.1 preguntan por el contenido mínimo y la modificación. | Revisor 2 (CONFIRMADA): Art. 16.1 TRLRHL literal: «deberán adoptarse simultáneamente a los de imposición de los respectivos tributos». Los otros momentos son falsos."
+  },
+  {
+   "q": "Según el art. 16.2 del TRLRHL, las ordenanzas fiscales que aprueban los ayuntamientos para ejercer las facultades que la ley les confiere en los impuestos del art. 59.1 (art. 15.2) contendrán:",
+   "options": [
+    "Únicamente las normas de gestión, liquidación, inspección y recaudación de esos impuestos",
+    "Únicamente la fecha de comienzo de su aplicación, pues el resto lo fija la ley",
+    "El acuerdo de imposición del impuesto y la relación nominal de los sujetos pasivos",
+    "Los elementos necesarios para la determinación de las cuotas tributarias de los respectivos impuestos y las fechas de su aprobación y del comienzo de su aplicación"
+   ],
+   "correct": 3,
+   "exp": "El art. 16.2 TRLRHL dispone que estas ordenanzas «contendrán, además de los elementos necesarios para la determinación de las cuotas tributarias de los respectivos impuestos, las fechas de su aprobación y el comienzo de su aplicación». Las normas de gestión, liquidación, inspección y recaudación del art. 15.3 son un contenido posible («podrán contener»), no el único. No hay acuerdo de imposición, porque esos impuestos se exigen por ley (art. 59.1), y la ley no pide ninguna relación de sujetos pasivos.",
+   "fuente": "Art. 16.2 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 16.2 TRLRHL literal: «contendrán, además de los elementos necesarios para la determinación de las cuotas tributarias de los respectivos impuestos, las fechas de su aprobación y el comienzo de su aplicación». Las normas del art. 15.3 son potestativas, así que el primer distractor es falso. No hay ninguna pregunta del art. 16.2 en el banco. | Revisor 2 (CONFIRMADA): Art. 16.2 TRLRHL literal (elementos para determinar las cuotas, fecha de aprobación y comienzo de aplicación). Las normas de gestión del 15.3 son contenido potestativo, no único. Los demás distractores son falsos. La exp es exacta."
+  },
+  {
+   "q": "Según el art. 17.2 del TRLRHL, además de los ayuntamientos de población superior a 10.000 habitantes, ¿qué entidades deben publicar también el anuncio de exposición de las ordenanzas fiscales en un diario de los de mayor difusión de la provincia?",
+   "options": [
+    "Las diputaciones provinciales y los órganos de gobierno de las entidades supramunicipales",
+    "Las entidades locales menores, cuando gestionen tributos propios",
+    "Los municipios en régimen de concejo abierto",
+    "Los ayuntamientos que hayan delegado la gestión tributaria en otra Administración"
+   ],
+   "correct": 0,
+   "exp": "El art. 17.2 TRLRHL obliga a todas las entidades locales a publicar los anuncios de exposición en el boletín oficial de la provincia, y añade: «Las diputaciones provinciales, los órganos de gobierno de las entidades supramunicipales y los ayuntamientos de población superior a 10.000 habitantes deberán publicarlos, además, en un diario de los de mayor difusión de la provincia». Las entidades locales menores, los concejos abiertos y los ayuntamientos que han delegado la gestión tributaria no figuran como categoría en el precepto.",
+   "fuente": "Art. 17.2 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): El texto es correcto (art. 17.2 TRLRHL), pero hay dos problemas. (1) La respuesta trata de las diputaciones provinciales y de las entidades supramunicipales, que no son municipios, cuando el epígrafe se refiere a las ordenanzas «de los municipios». La provincia está fuera de alcance según fuentes.json. (2) En cuanto a la duda del redactor: no la repite al pie de la letra, pero pregunta por la misma frase del art. 17.2 que ya tiene dos preguntas en el tema 12 («Según el art. 17.2 del TRLRHL, los Ayuntamientos de población superior a 10.000 habitantes deben publicar… además… en: Un diario…» y «¿qué ayuntamientos deben publicarlo también en un diario…?»), y el enunciado da la respuesta de esas dos. Lo único nuevo es el dato de las diputaciones. | Revisor 2 (CONFIRMADA): Art. 17.2 TRLRHL literal: diputaciones provinciales, órganos de gobierno de las entidades supramunicipales y ayuntamientos de más de 10.000 habitantes. Las otras tres categorías no figuran. Compatible con Zaragoza."
+  },
+  {
+   "q": "Una ordenanza fiscal se expone al público y nadie presenta reclamaciones, por lo que el acuerdo provisional queda elevado automáticamente a definitivo. Según el art. 17.4 del TRLRHL:",
+   "options": [
+    "No es necesaria ninguna nueva publicación, porque ya se publicó el anuncio de exposición",
+    "El acuerdo y el texto íntegro de la ordenanza deben publicarse en el boletín oficial de la provincia, y la ordenanza no entra en vigor hasta esa publicación",
+    "Basta con publicar un extracto del acuerdo en el tablón de anuncios de la entidad",
+    "La ordenanza entra en vigor al día siguiente de finalizar el período de exposición pública"
+   ],
+   "correct": 1,
+   "exp": "El art. 17.4 TRLRHL dispone: «En todo caso, los acuerdos definitivos a que se refiere el apartado anterior, incluyendo los provisionales elevados automáticamente a tal categoría, y el texto íntegro de las ordenanzas o de sus modificaciones, habrán de ser publicados en el boletín oficial de la provincia […], sin que entren en vigor hasta que se haya llevado a cabo dicha publicación». La elevación automática (art. 17.3) no dispensa de la publicación íntegra.",
+   "fuente": "Art. 17.4 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 17.4 TRLRHL literal: «incluyendo los provisionales elevados automáticamente a tal categoría, y el texto íntegro… habrán de ser publicados en el boletín oficial de la provincia… sin que entren en vigor hasta que se haya llevado a cabo dicha publicación». Los distractores son falsos. En Zaragoza también hay elevación automática (art. 49.c) Ley 10/2017) y publicación íntegra (art. 48.3.e). Nota: el tema 12 tiene dos preguntas generales sobre el art. 17.4. Esta se centra en el caso de la elevación automática, que aquellas no tocan. | Revisor 2 (CONFIRMADA): Art. 17.4 TRLRHL literal: incluye los provisionales elevados automáticamente a definitivos y el texto íntegro, que se publican en el BOP sin entrar en vigor hasta esa publicación. Coherente con el art. 141.2 Ley 7/1999 y el art. 49.c) Ley 10/2017. No repite las preguntas sobre el 49.c), que tratan de la aprobación tácita y no de la publicación."
+  },
+  {
+   "q": "Según el art. 17.5 del TRLRHL, ¿qué obligación tienen en todo caso todas las entidades locales, sea cual sea su población, respecto de sus ordenanzas fiscales publicadas?",
+   "options": [
+    "Remitir una copia a cada sujeto pasivo junto con la primera liquidación del tributo",
+    "Publicarlas cada año en un diario de los de mayor difusión de la provincia",
+    "Expedir copias de ellas a quienes las demanden",
+    "Editar su texto íntegro dentro del primer cuatrimestre del ejercicio"
+   ],
+   "correct": 2,
+   "exp": "El párrafo segundo del art. 17.5 TRLRHL dice: «En todo caso, las entidades locales habrán de expedir copias de las ordenanzas fiscales publicadas a quienes las demanden». La edición del texto íntegro en el primer cuatrimestre la exige el párrafo primero solo a las diputaciones, consejos y cabildos y a las demás entidades locales de más de 20.000 habitantes, no a todas. El envío de copias a cada sujeto pasivo y la publicación anual en un diario no están previstos.",
+   "fuente": "Art. 17.5 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 17.5, párrafo segundo, TRLRHL literal: «En todo caso, las entidades locales habrán de expedir copias de las ordenanzas fiscales publicadas a quienes las demanden». La edición en el primer cuatrimestre no se exige a todas: solo a las diputaciones, consejos y cabildos y a las entidades de más de 20.000 habitantes. Por eso el cuarto distractor es falso para «todas, sea cual sea su población». La pregunta del tema 12 es sobre el párrafo primero, así que no la repite. | Revisor 2 (CONFIRMADA): Art. 17.5, párrafo 2.º, TRLRHL literal: «En todo caso, las entidades locales habrán de expedir copias…». La edición en el primer cuatrimestre se exige a diputaciones, consejos, cabildos y entidades de más de 20.000 habitantes (Zaragoza incluida), pero no «sea cual sea su población», que es lo que pregunta el enunciado. Los otros dos distractores son inventados."
+  },
+  {
+   "q": "Según el art. 18.a) del TRLRHL, a efectos de reclamar contra los acuerdos provisionales de imposición y ordenación de tributos y de aprobación de ordenanzas fiscales, tienen la consideración de interesados:",
+   "options": [
+    "Solo los sujetos pasivos que figuren en el padrón del tributo del ejercicio anterior",
+    "Solo los vecinos empadronados en el municipio que sean mayores de edad",
+    "Solo quienes acrediten un derecho subjetivo lesionado por el acuerdo",
+    "Los que tuvieran un interés directo o resulten afectados por tales acuerdos"
+   ],
+   "correct": 3,
+   "exp": "El art. 18 TRLRHL considera interesados, en su letra a), a «Los que tuvieran un interés directo o resulten afectados por tales acuerdos», y en su letra b) a los colegios oficiales, cámaras oficiales, asociaciones y demás entidades legalmente constituidas, cuando actúen en defensa de sus intereses. No limita la condición de interesado a los sujetos pasivos del padrón, a los vecinos mayores de edad ni a los titulares de un derecho subjetivo.",
+   "fuente": "Art. 18.a) TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 18.a) TRLRHL literal: «Los que tuvieran un interés directo o resulten afectados por tales acuerdos». Los distractores restrictivos son falsos. No la repite la pregunta del tema 12 sobre el art. 18, que se refiere a la letra b). | Revisor 2 (CONFIRMADA): Art. 18.a) TRLRHL literal: «Los que tuvieran un interés directo o resulten afectados por tales acuerdos». Las tres restricciones de los distractores son falsas, y la exp cita bien la letra b)."
+  },
+  {
+   "q": "Según el art. 19.1 del TRLRHL, las ordenanzas fiscales de las entidades locales a que se refiere el art. 17.3 regirán:",
+   "options": [
+    "Durante el plazo, determinado o indefinido, previsto en ellas",
+    "Durante un solo ejercicio económico, por lo que deben aprobarse de nuevo cada año",
+    "Durante un máximo de cuatro años, coincidiendo con el mandato de la Corporación",
+    "Hasta la aprobación del siguiente presupuesto general de la entidad"
+   ],
+   "correct": 0,
+   "exp": "El art. 19.1 TRLRHL dispone que las ordenanzas fiscales «regirán durante el plazo, determinado o indefinido, previsto en ellas, sin que quepa contra ellas otro recurso que el contencioso-administrativo». Es la propia ordenanza la que fija su vigencia. La ley no impone aprobarlas cada año ni las liga al mandato corporativo ni al presupuesto.",
+   "fuente": "Art. 19.1 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 19.1 TRLRHL literal: «regirán durante el plazo, determinado o indefinido, previsto en ellas». Los distractores son falsos. No hay pregunta igual en el banco: la del tema 12 sobre el art. 19.1 pregunta por el tipo de recurso. | Revisor 2 (CONFIRMADA): Art. 19.1 TRLRHL literal: «regirán durante el plazo, determinado o indefinido, previsto en ellas». Los distractores son falsos. No se solapa con la pregunta 27, que es otro inciso del mismo apartado."
+  },
+  {
+   "q": "Según el art. 19.2 del TRLRHL, si por resolución judicial firme resultaren anulados o modificados los acuerdos locales o el texto de las ordenanzas fiscales, la entidad local vendrá obligada a adecuar a los términos de la sentencia:",
+   "options": [
+    "Todas las actuaciones realizadas desde la entrada en vigor de la ordenanza anulada",
+    "Todas las actuaciones que lleve a cabo con posterioridad a la fecha en que le sea notificada la sentencia",
+    "Solo las actuaciones que lleve a cabo a partir del ejercicio económico siguiente",
+    "Solo las liquidaciones que hayan sido recurridas en vía administrativa"
+   ],
+   "correct": 1,
+   "exp": "El art. 19.2 TRLRHL dispone que la entidad local «vendrá obligada a adecuar a los términos de la sentencia todas las actuaciones que lleve a cabo con posterioridad a la fecha en que aquélla le sea notificada». El mismo apartado añade que, salvo que la sentencia lo prohíba expresamente, «se mantendrán los actos firmes o consentidos dictados al amparo de la ordenanza». Por eso la adecuación no alcanza a todo lo actuado desde la entrada en vigor de la ordenanza.",
+   "fuente": "Art. 19.2 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 19.2 TRLRHL literal: hay que adecuar «todas las actuaciones que lleve a cabo con posterioridad a la fecha en que aquélla le sea notificada», y se mantienen los actos firmes o consentidos salvo que la sentencia lo prohíba. La respuesta es única y la explicación exacta. No repite la pregunta de la LJCA del tema 16, que trata de los efectos erga omnes. | Revisor 2 (CONFIRMADA): Art. 19.2 TRLRHL literal: se adecuan las actuaciones posteriores a la notificación de la sentencia y se mantienen los actos firmes o consentidos salvo que la sentencia lo prohíba. Distinta de la pregunta del banco sobre los arts. 72-73 LJCA."
+  },
+  {
+   "q": "Según el art. 19.1 del TRLRHL, el recurso contencioso-administrativo contra las ordenanzas fiscales se podrá interponer a partir de:",
+   "options": [
+    "La finalización del período de exposición pública del acuerdo provisional",
+    "La notificación de la primera liquidación del tributo regulado",
+    "Su publicación en el boletín oficial de la provincia o, en su caso, de la comunidad autónoma uniprovincial",
+    "La resolución expresa por el Pleno de las reclamaciones presentadas"
+   ],
+   "correct": 2,
+   "exp": "El art. 19.1 TRLRHL dice que contra las ordenanzas fiscales no cabe otro recurso que «el contencioso-administrativo que se podrá interponer, a partir de su publicación en el boletín oficial de la provincia, o, en su caso, de la comunidad autónoma uniprovincial, en la forma y plazos que establecen las normas reguladoras de dicha jurisdicción». El momento lo marca la publicación, no la exposición pública, la primera liquidación ni la resolución de las reclamaciones.",
+   "fuente": "Art. 19.1 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 19.1 TRLRHL literal: el contencioso «se podrá interponer, a partir de su publicación en el boletín oficial de la provincia, o, en su caso, de la comunidad autónoma uniprovincial». Los distractores son falsos. Se pregunta por el momento, y no por la clase de recurso como en la del tema 12, así que no la repite. | Revisor 2 (CONFIRMADA): Art. 19.1 TRLRHL literal: el contencioso «se podrá interponer, a partir de su publicación en el boletín oficial de la provincia, o, en su caso, de la comunidad autónoma uniprovincial». Los otros momentos son falsos."
+  },
+  {
+   "q": "Según el art. 10.4.b) de la Ley 10/2017, de régimen especial del municipio de Zaragoza como capital de Aragón, el dictamen de las ordenanzas y Reglamentos municipales, incluidos los de naturaleza orgánica, con carácter previo a su aprobación por el Pleno, corresponde a:",
+   "options": [
+    "El Gobierno de Zaragoza",
+    "El Consejo Social de la ciudad",
+    "El Secretario General del Pleno",
+    "Las Comisiones del Pleno"
+   ],
+   "correct": 3,
+   "exp": "El art. 10.4 de la Ley 10/2017 atribuye a las Comisiones del Pleno, entre otras funciones, «b) El dictamen de las ordenanzas y Reglamentos municipales, incluidos los de naturaleza orgánica, con carácter previo a su aprobación por el Pleno». Al Gobierno de Zaragoza le corresponde aprobar los proyectos (arts. 14.1.a y 48.3.a), no dictaminarlos.",
+   "fuente": "Art. 10.4.b) Ley 10/2017 (capitalidad de Zaragoza)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): El texto es correcto (art. 10.4.b) Ley 10/2017, BOE-A-2018-1683, literal). Pero REPITE en el fondo preguntas que ya están en el tema 16, como la del art. 48.3.c) («…se remite a… la Comisión plenaria competente, para la emisión del oportuno dictamen») y las del art. 48.4.a) (dictamen de la Comisión plenaria). El matiz nuevo («incluidos los de naturaleza orgánica») no lo examina ninguna opción. Si se quiere aprovechar el art. 10.4.b), habría que preguntar precisamente por ese matiz. | Revisor 2 (DUDOSA): Art. 10.4.b) Ley 10/2017 literal (consolidado BOE-A-2018-1683) y respuesta correcta, con distractores falsos (el Gobierno aprueba los proyectos según el art. 14.1.a; el Consejo Social y el Secretario General no dictaminan). Pero roza el duplicado: el banco ya pregunta, por el art. 48.3.c), a quién se remite el proyecto «para la emisión del oportuno dictamen» (Comisión plenaria) y, por el 48.4.a) y el 49.a), el dictamen de la Comisión. Solo aporta el inciso «incluidos los de naturaleza orgánica». Arreglo: centrar la pregunta en ese inciso (si el dictamen alcanza también a los reglamentos orgánicos) o descartarla."
+  },
+  {
+   "q": "Según el art. 11.3 de la Ley 10/2017, de régimen especial del municipio de Zaragoza como capital de Aragón, la competencia del Pleno para aprobar y modificar los Reglamentos de naturaleza orgánica (art. 11.1.c):",
+   "options": [
+    "No puede ser objeto de delegación",
+    "Solo puede delegarse en las Comisiones del Pleno",
+    "Puede delegarse en el Gobierno de Zaragoza",
+    "Puede delegarse en el Alcalde, salvo que su aprobación exija una mayoría especial"
+   ],
+   "correct": 0,
+   "exp": "El art. 11.3 de la Ley 10/2017 dispone: «No podrán ser objeto de delegación las competencias del Pleno referidas en las letras a), b), c), e), f), g), h), i), j), m), ñ) y q) del apartado 1». La letra c) es la de los Reglamentos de naturaleza orgánica. La delegación solo en Comisiones del Pleno es la regla de las letras d), k), l), n), o) y p), entre ellas la aprobación de ordenanzas y Reglamentos no orgánicos (letra d). La delegación en el Alcalde y en el Gobierno de Zaragoza, salvo mayoría especial, se refiere solo a la letra r).",
+   "fuente": "Art. 11.3 Ley 10/2017 (capitalidad de Zaragoza)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 11.3 Ley 10/2017 literal: la letra c) (Reglamentos orgánicos) es indelegable; las letras d), k), l), n), o) y p) solo pueden delegarse en Comisiones, y en el Alcalde o el Gobierno de Zaragoza solo la letra r), salvo mayoría especial. La explicación es exacta. Dentro del epígrafe (aprobación de Reglamentos en la ley de capitalidad). No repite la pregunta del art. 11.3 del tema 14, que se refiere a la letra g). | Revisor 2 (CONFIRMADA): Art. 11.3 Ley 10/2017 literal: la letra c) (Reglamentos orgánicos) está entre las no delegables. Coincide con el art. 123.3 LBRL, que no incluye la letra c) entre las delegables. Los distractores reproducen bien las reglas de las letras d) y r), que no se aplican a la c). Sin duplicado."
+  },
+  {
+   "q": "¿Qué medio de publicidad del anuncio de exposición al público de una ordenanza fiscal exige el art. 49.b) de la Ley 10/2017 (capitalidad de Zaragoza) y NO menciona el art. 17 del TRLRHL?",
+   "options": [
+    "El tablón de anuncios",
+    "La sede electrónica municipal",
+    "El boletín oficial",
+    "Un diario de los de mayor difusión de la provincia"
+   ],
+   "correct": 1,
+   "exp": "El art. 49.b) de la Ley 10/2017 ordena exponer al público la ordenanza fiscal aprobada inicialmente, «previo anuncio en el boletín oficial correspondiente, en el tablón de anuncios y en la sede electrónica municipal». El art. 17 TRLRHL prevé la exposición en el tablón de anuncios (17.1) y el anuncio en el boletín oficial de la provincia y, en ayuntamientos de más de 10.000 habitantes, en un diario de los de mayor difusión de la provincia (17.2), pero no menciona la sede electrónica. El tablón, el boletín y el diario están todos en el art. 17.",
+   "fuente": "Art. 49.b) Ley 10/2017 (capitalidad de Zaragoza) y art. 17.1 y 17.2 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): El texto es correcto (art. 49.b) Ley 10/2017; el art. 17 TRLRHL no menciona la sede electrónica). Pero REPITE una pregunta que ya está en el tema 16: «Según el art. 49.b) de la Ley de Capitalidad, el anuncio del periodo de exposición al público de una ordenanza fiscal debe publicarse en el boletín oficial correspondiente, en el tablón de anuncios y, además, en… la sede electrónica municipal». Examina el mismo dato con otra redacción (regla 6). | Revisor 2 (RECHAZADA): El contenido es correcto (el art. 49.b) Ley 10/2017 menciona la sede electrónica y el art. 17 TRLRHL no; el tablón está en el 17.1 y el boletín y el diario en el 17.2), pero repite preguntas del banco: «Según el art. 49.b)… boletín, tablón y, además, en… → la sede electrónica municipal» y «Según el art. 49.b)… ¿qué trámite sigue? → anuncio en boletín, tablón y sede electrónica». La comparación con el TRLRHL no cambia el dato que se pregunta."
+  }
+ ]
+}

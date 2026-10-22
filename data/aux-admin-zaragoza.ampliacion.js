@@ -53031,3 +53031,687 @@ window.addQuestions('aux-admin-zaragoza', 20, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 13 · lote 2026-10-22 · 31 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 13, [
+  {
+    "q": "Según la Instrucción del modelo normal de contabilidad local (Orden HAP/1781/2013), ¿quién establece los documentos contables que, en su caso, se utilicen para registrar las operaciones?",
+    "options": [
+      "La propia entidad local, en función de sus necesidades de información y de cómo tramite cada tipo de operación",
+      "La Intervención General de la Administración del Estado, con modelos de uso obligatorio para todas las entidades locales",
+      "El Tribunal de Cuentas, al aprobar los formatos de rendición de la cuenta general",
+      "La comunidad autónoma que ejerza la tutela financiera sobre la entidad local"
+    ],
+    "correct": 0,
+    "exp": "La regla 36.3 de la Instrucción dispone que los documentos contables que, en su caso, se utilicen «se establecerán por la propia entidad local en función de sus necesidades de información y de la operatoria que se siga en la tramitación de los diferentes tipos de operaciones». La Instrucción no impone modelos oficiales de documento contable: no los fija la IGAE, ni el Tribunal de Cuentas, ni la comunidad autónoma.",
+    "fuente": "Regla 36.3 ICAL normal (Orden HAP/1781/2013)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la regla 38.1 de la Instrucción del modelo normal de contabilidad local (Orden HAP/1781/2013), la diligencia de toma de razón que debe figurar en todo documento que haya producido anotaciones en contabilidad acreditará, como mínimo:",
+    "options": [
+      "La fecha, el órgano que autorizó el gasto y la aplicación presupuestaria a la que se imputa",
+      "El número de expediente, el tercero afectado y la firma del ordenador de pagos",
+      "Los importes bruto y líquido, la identificación del acreedor y la aplicación presupuestaria",
+      "La fecha, el número de asiento y el importe con que el documento quedó registrado individualizadamente"
+    ],
+    "correct": 3,
+    "exp": "La regla 38.1 exige en todo documento que haya producido anotaciones una diligencia de toma de razón, certificada por el responsable de la contabilidad, «acreditativa, como mínimo, de la fecha, el número de asiento y el importe con que dicho documento hubiese quedado registrado individualizadamente». Los importes bruto y líquido, el acreedor y la aplicación presupuestaria son el contenido mínimo de las relaciones de órdenes de pago (art. 66.1 RD 500/1990), no de la toma de razón.",
+    "fuente": "Regla 38.1 ICAL normal (Orden HAP/1781/2013)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la regla 38.1 de la Instrucción del modelo normal de contabilidad local (Orden HAP/1781/2013), ¿quién certifica la diligencia de toma de razón?",
+    "options": [
+      "El Presidente de la entidad, siempre mediante firma manuscrita",
+      "El Tesorero, una vez realizado el pago material",
+      "El responsable de la contabilidad, y cabe hacerla mediante certificación mecánica del equipo informático",
+      "El Secretario de la corporación, como fedatario público"
+    ],
+    "correct": 2,
+    "exp": "La regla 38.1 dice que en todo documento que haya producido anotaciones «deberá figurar una diligencia de toma de razón, certificada por el responsable de la contabilidad», y añade que «podrá realizarse mediante certificación mecánica efectuada por el propio equipo informático en que esté soportado el SICAL-Normal». No la certifican el Presidente, el Tesorero ni el Secretario.",
+    "fuente": "Regla 38.1 ICAL normal (Orden HAP/1781/2013)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la regla 38.2 de la Instrucción del modelo normal de contabilidad local (Orden HAP/1781/2013), cuando las operaciones se registran a partir de datos contenidos en soportes electrónicos, informáticos o telemáticos, la diligencia de toma de razón:",
+    "options": [
+      "Debe extenderse además en papel y conservarse junto al justificante de la operación",
+      "Se sustituye por procesos de validación en el sistema que dejan referenciadas las operaciones con las anotaciones que han producido",
+      "Desaparece, sin que la Instrucción prevea ningún otro mecanismo que la sustituya",
+      "Se sustituye por un informe trimestral de la Intervención al Pleno de la corporación"
+    ],
+    "correct": 1,
+    "exp": "La regla 38.2 establece que, en ese caso, «la diligencia de toma de razón se sustituirá por los oportunos procesos de validación en el sistema, mediante los cuales dichas operaciones queden referenciadas en relación con las anotaciones contables que hayan producido». No se exige duplicado en papel, no queda sin sustituto, y la información periódica al Pleno es otra cosa (art. 207 TRLRHL).",
+    "fuente": "Regla 38.2 ICAL normal (Orden HAP/1781/2013)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la regla 39.3 de la Instrucción del modelo normal de contabilidad local (Orden HAP/1781/2013), ¿durante cuánto tiempo deben conservarse, con carácter general, los justificantes de las operaciones?",
+    "options": [
+      "Cuatro años desde la aprobación de la cuenta general por el Pleno",
+      "Cinco años desde la fecha del asiento contable de la operación",
+      "Diez años desde el cierre del ejercicio al que correspondan las operaciones",
+      "Seis años desde la remisión al órgano de control externo de las cuentas anuales donde figuren las operaciones"
+    ],
+    "correct": 3,
+    "exp": "La regla 39.3 obliga a conservar los justificantes, en papel o en soporte electrónico, «durante un plazo de seis años contados desde la fecha de remisión, al órgano u órganos de control externo, de las cuentas anuales donde se pongan de manifiesto las respectivas operaciones». Hay dos salvedades: que la justificación esté sometida a otros plazos o que se haya interrumpido la prescripción de la posible responsabilidad contable. Los registros contables se conservan también seis años (regla 40.1).",
+    "fuente": "Regla 39.3 ICAL normal (Orden HAP/1781/2013)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la regla 39.3 de la Instrucción del modelo normal de contabilidad local (Orden HAP/1781/2013), la documentación justificativa de las valoraciones asignadas a activos y pasivos deberá conservarse:",
+    "options": [
+      "Seis años desde su emisión, igual que el resto de los justificantes",
+      "Hasta la aprobación por el Pleno de la cuenta general del ejercicio siguiente",
+      "Al menos durante el período en que esos activos y pasivos figuren en el balance",
+      "Indefinidamente, con envío obligatorio a un archivo histórico de documentos"
+    ],
+    "correct": 2,
+    "exp": "El segundo párrafo de la regla 39.3 establece que, sin perjuicio del plazo general de seis años, «la documentación justificativa de las valoraciones asignadas a activos y pasivos deberá conservarse, al menos, durante el período en que dichos activos y pasivos figuren en balance». El envío a un archivo histórico no es obligatorio en todo caso: solo impide la destrucción cuando esté establecido (regla 39.4).",
+    "fuente": "Regla 39.3 ICAL normal (Orden HAP/1781/2013)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la regla 39.4 de la Instrucción del modelo normal de contabilidad local (Orden HAP/1781/2013), cumplidos los plazos de conservación, ¿qué se requiere para destruir los justificantes de las operaciones?",
+    "options": [
+      "Un acuerdo expreso del Pleno, previo informe de la Intervención",
+      "Comunicarlo antes al órgano u órganos de control externo que hubieran debido actuar, sin que estos hayan puesto impedimentos",
+      "La autorización de la Intervención General de la Administración del Estado",
+      "Nada: una vez transcurrido el plazo, la destrucción procede de forma automática"
+    ],
+    "correct": 1,
+    "exp": "La regla 39.4 permite destruir los justificantes cumplidos los plazos, «previa comunicación al órgano u órganos de control externo a que hubiese correspondido actuar y sin que estos hayan manifestado impedimentos al respecto». No pide acuerdo del Pleno ni autorización de la IGAE, y la destrucción no es automática. Además, no procede destruirlos cuando, por su naturaleza, esté establecido su envío a un archivo histórico de documentos.",
+    "fuente": "Regla 39.4 ICAL normal (Orden HAP/1781/2013)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la regla 39.2 de la Instrucción del modelo normal de contabilidad local (Orden HAP/1781/2013), si los justificantes y documentos contables se conservan en soportes electrónicos, informáticos o telemáticos, las copias obtenidas de esos soportes:",
+    "options": [
+      "Gozarán de la validez y eficacia de los originales, si queda garantizada su autenticidad, integridad, calidad, protección y conservación",
+      "Tienen solo valor informativo, porque únicamente hace fe el original en papel",
+      "Necesitan una compulsa del Secretario de la corporación para tener validez",
+      "Solo valen si el original se extendió desde el principio en soporte electrónico"
+    ],
+    "correct": 0,
+    "exp": "La regla 39.2 admite la conservación en esos soportes «con independencia del tipo de soporte en que originalmente se hubieran plasmado, siempre que quede garantizada su autenticidad, integridad, calidad, protección y conservación», y añade: «En estos casos, las copias obtenidas de dichos soportes gozarán de la validez y eficacia de los documentos originales». No hace falta compulsa, y da igual que el original fuera en papel.",
+    "fuente": "Regla 39.2 ICAL normal (Orden HAP/1781/2013)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la regla 36.2 de la Instrucción del modelo normal de contabilidad local (Orden HAP/1781/2013), el registro de las operaciones en el SICAL-Normal:",
+    "options": [
+      "Solo puede hacerse por captura directa de los datos del justificante en papel",
+      "Debe hacerse siempre operación por operación, cada una con su propio documento contable",
+      "Se hace una sola vez, al cierre del ejercicio, con los datos de la liquidación",
+      "Podrá hacerse de forma individual por cada operación o mediante incorporación masiva de datos de grupos de operaciones"
+    ],
+    "correct": 3,
+    "exp": "La regla 36.2 admite dos procedimientos, la captura directa de los datos del justificante o del documento contable y la incorporación por procedimientos o soportes electrónicos, informáticos o telemáticos, y añade que en ambos «el registro de las operaciones en el SICAL-Normal podrá realizarse de forma individual por cada operación o, en su caso, mediante incorporación masiva de datos relativos a grupos de operaciones». No exige un documento contable por operación: los documentos contables se usan «en su caso» (regla 36.3).",
+    "fuente": "Regla 36.2 ICAL normal (Orden HAP/1781/2013)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la quinta parte del Plan General de Contabilidad Pública adaptado a la Administración local, anexo a la Instrucción del modelo normal (Orden HAP/1781/2013), las cuentas del grupo 0, «Cuentas de control presupuestario»:",
+    "options": [
+      "Recogen las obligaciones y los derechos ya reconocidos, y su uso es obligatorio para todas las entidades",
+      "Registran los cobros y pagos de la tesorería, y su uso es obligatorio en los municipios de gran población",
+      "Reflejan los créditos y previsiones en las fases anteriores al reconocimiento de la obligación o del derecho, y su uso es facultativo",
+      "Recogen el inmovilizado y el endeudamiento de la entidad, y su uso es facultativo"
+    ],
+    "correct": 2,
+    "exp": "La quinta parte del Plan (definiciones y relaciones contables) dice del grupo 0: «Reflejan el movimiento de los créditos y previsiones que figuran en el presupuesto en aquellas fases que precedan al reconocimiento de la obligación o del derecho, efectos estos que se recogen en cuentas del grupo 4. La utilización de este grupo es facultativa por parte de la entidad». El reconocimiento de obligaciones y derechos va, por tanto, al grupo 4, no al 0.",
+    "fuente": "Quinta parte, grupo 0, PGCP adaptado a la Administración local (anexo de la Instrucción del modelo normal de contabilidad local, Orden HAP/1781/2013)",
+    "confianza": "alta"
+  },
+  {
+    "q": "El Plan General de Contabilidad Pública adaptado a la Administración local, anexo a la Instrucción del modelo normal (Orden HAP/1781/2013), llama «fase A de la ejecución del presupuesto» a:",
+    "options": [
+      "Los anticipos de caja fija librados",
+      "Las autorizaciones de gasto aprobadas",
+      "Las anulaciones de créditos por baja",
+      "La aprobación inicial del presupuesto"
+    ],
+    "correct": 1,
+    "exp": "En la quinta parte del Plan, la cuenta 004 «Presupuesto de gastos: gastos autorizados» se abona por «las autorizaciones de gasto aprobadas –fase A de la ejecución del presupuesto– cuando no se haya realizado retención de crédito». La autorización es la primera de las cuatro fases de gestión del gasto (art. 184.1 TRLRHL y art. 52 RD 500/1990). En el mismo Plan, los créditos dispuestos son la «fase D» (cuenta 005).",
+    "fuente": "Quinta parte, cuenta 004, PGCP adaptado a la Administración local (anexo de la Instrucción del modelo normal de contabilidad local, Orden HAP/1781/2013)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 10.2 del RD 500/1990, ¿qué recursos pueden afectarse a fines determinados?",
+    "options": [
+      "Solo los que, por su naturaleza o condiciones específicas, tengan una relación objetiva y directa con el gasto a financiar, salvo lo que dispongan las leyes",
+      "Cualquier recurso, siempre que así lo acuerde el Pleno en las bases de ejecución del presupuesto",
+      "Solo los recursos procedentes de operaciones de crédito concertadas en el ejercicio",
+      "Ninguno, porque todos los recursos de la entidad se destinan al conjunto de sus obligaciones sin excepción"
+    ],
+    "correct": 0,
+    "exp": "El art. 10.2 del RD 500/1990 dispone: «Sólo podrán afectarse a fines determinados aquellos recursos que, por su naturaleza o condiciones específicas, tengan una relación objetiva y directa con el gasto a financiar, salvo en los supuestos expresamente establecidos en las Leyes». La regla general (art. 10.1 y art. 165.2 TRLRHL) es que los recursos se destinan al conjunto de las obligaciones, pero con la excepción de los ingresos afectados; por eso no es cierto que no quepa afectar ninguno. Tampoco basta un acuerdo del Pleno.",
+    "fuente": "Art. 10.2 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 21.3 del RD 500/1990, ¿cuál de las siguientes circunstancias debe concurrir para hacer ajustes al alza en los créditos del presupuesto prorrogado?",
+    "options": [
+      "Que el Pleno haya aprobado inicialmente el presupuesto del nuevo ejercicio",
+      "Que haya compromisos firmes de gasto en el ejercicio corriente por mayores cargas financieras de operaciones de crédito autorizadas en ejercicios anteriores",
+      "Que se trate de créditos financiados con ingresos afectados que solo iban a percibirse en el ejercicio anterior",
+      "Que el aumento se destine a gastos de personal derivados de nuevas contrataciones"
+    ],
+    "correct": 1,
+    "exp": "El art. 21.3 del RD 500/1990 permite ajustes al alza en el prorrogado, dentro del margen que deje el límite global de créditos iniciales, cuando concurran simultáneamente dos circunstancias: a) «Que existan compromisos firmes de gastos a realizar en el ejercicio corriente que correspondan a unas mayores cargas financieras anuales generadas por operaciones de crédito autorizadas en los ejercicios anteriores», y b) que el margen de los créditos no incorporables de servicios o programas concluidos permita el ajuste. Los créditos financiados con ingresos afectados que solo iban a percibirse en el ejercicio anterior ni siquiera son prorrogables (art. 21.2).",
+    "fuente": "Art. 21.3 a) RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 31.2 del RD 500/1990, en las retenciones de crédito para transferencias a otras partidas presupuestarias, la suficiencia del saldo de crédito debe verificarse:",
+    "options": [
+      "Al nivel de la vinculación jurídica del crédito y, además, al de la propia partida contra la que se certifique",
+      "Solo al nivel en que esté establecida la vinculación jurídica del crédito",
+      "Solo al nivel del capítulo de la clasificación económica",
+      "Solo al nivel del área de gasto, porque la transferencia corresponde al Pleno"
+    ],
+    "correct": 0,
+    "exp": "El art. 31.2 del RD 500/1990 exige verificar el saldo «a) En todo caso, al nivel a que esté establecida la vinculación jurídica del crédito» y «b) En el caso de retenciones para transferencias de créditos a otras partidas presupuestarias, además de la indicada en el apartado anterior, al nivel de la propia partida presupuestaria contra la que se certifique». En las transferencias la comprobación es doble.",
+    "fuente": "Art. 31.2 b) RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 32.1 del RD 500/1990, en todo expediente de transferencia de crédito es requisito indispensable para su tramitación:",
+    "options": [
+      "El informe previo del Tribunal de Cuentas sobre la nivelación presupuestaria",
+      "La exposición al público del expediente durante quince días, en todo caso",
+      "La aprobación por el Pleno con el voto favorable de la mayoría absoluta",
+      "La previa certificación de la existencia de crédito suficiente en la partida presupuestaria que deba ceder crédito"
+    ],
+    "correct": 3,
+    "exp": "El párrafo segundo del art. 32.1 del RD 500/1990 dispone: «En todo expediente de transferencia de crédito será requisito indispensable para su tramitación la previa certificación de la existencia de crédito suficiente en la partida presupuestaria que deba ceder crédito». Esa certificación la expide el Interventor (art. 32.2). La exposición pública solo se aplica a las transferencias que aprueba el Pleno (art. 42.1), y el órgano competente lo fijan las bases de ejecución (art. 40.2).",
+    "fuente": "Art. 32.1 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 38.1 del RD 500/1990, los expedientes de crédito extraordinario y de suplemento de crédito aprobados por el Pleno deberán ser ejecutivos:",
+    "options": [
+      "En el plazo de tres meses desde su publicación",
+      "En el ejercicio siguiente, una vez incorporados como remanentes",
+      "Dentro del mismo ejercicio en que se autoricen",
+      "Desde su aprobación inicial, sin esperar a la definitiva"
+    ],
+    "correct": 2,
+    "exp": "El art. 38.1 del RD 500/1990 dispone que la aprobación de estos expedientes por el Pleno se hará con los mismos trámites y requisitos que los presupuestos, «debiendo ser ejecutivos dentro del mismo ejercicio en que se autoricen». Solo los acuerdos por calamidad pública o de naturaleza análoga, de excepcional interés general, son inmediatamente ejecutivos (art. 38.4 RD 500/1990 y art. 177.6 TRLRHL).",
+    "fuente": "Art. 38.1 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 39.3 del RD 500/1990, en los expedientes de ampliación de crédito, los recursos que financian el mayor gasto deben acreditarse con:",
+    "options": [
+      "Un informe de la Tesorería con la previsión de cobros del ejercicio",
+      "El reconocimiento en firme de mayores derechos sobre los previstos en el presupuesto de ingresos, afectados al crédito que se amplía",
+      "La concertación de una operación de crédito por el importe de la ampliación",
+      "La baja por anulación de otra partida del presupuesto de gastos"
+    ],
+    "correct": 1,
+    "exp": "El art. 39.3 del RD 500/1990 exige especificar los recursos que financian el mayor gasto, «Extremo que deberá acreditarse con el reconocimiento en firme de mayores derechos sobre los previstos en el Presupuesto de ingresos que se encuentren afectados al crédito que se pretende ampliar». La ampliación se financia con recursos afectados no procedentes de operaciones de crédito (art. 39.1), y la baja de otras partidas es una fuente de los créditos extraordinarios y suplementos (art. 36.1 c), no de la ampliación.",
+    "fuente": "Art. 39.3 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 44 a) del RD 500/1990, para generar crédito con aportaciones de personas físicas o jurídicas o con enajenaciones de bienes de la entidad local es requisito indispensable:",
+    "options": [
+      "El reconocimiento del derecho o la existencia formal del compromiso firme de aportación",
+      "La efectiva recaudación del ingreso en la tesorería de la entidad",
+      "La aprobación del Pleno con exposición pública durante quince días",
+      "La previa liquidación del presupuesto del ejercicio anterior"
+    ],
+    "correct": 0,
+    "exp": "El art. 44 a) del RD 500/1990 exige, en los supuestos de aportaciones y de enajenaciones (art. 43.1 a y b), «el reconocimiento del derecho o la existencia formal del compromiso firme de aportación». La recaudación efectiva se exige en otros casos: en la prestación de servicios y el reembolso de préstamos condiciona la disponibilidad de los créditos (art. 44 b), y en los reintegros de presupuesto corriente se exige la efectividad del cobro (art. 44 c).",
+    "fuente": "Art. 44 a) RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 46 del RD 500/1990, los compromisos firmes de aportación que hayan de extenderse a ejercicios posteriores a aquel en que se conciertan:",
+    "options": [
+      "No pueden formalizarse, porque los compromisos de ingreso se limitan al ejercicio corriente",
+      "Se imputan íntegramente al presupuesto de ingresos del ejercicio en que se conciertan",
+      "Se registran como operaciones no presupuestarias hasta que se cobren por completo",
+      "Se contabilizan de forma adecuada e independiente, imputando secuencialmente los recursos al presupuesto de ingresos del año en que deban hacerse efectivos"
+    ],
+    "correct": 3,
+    "exp": "El art. 46 del RD 500/1990 admite que se formalicen compromisos firmes de aportación que se extiendan a ejercicios posteriores, y dispone: «Estos compromisos de ingreso serán objeto de adecuada e independiente contabilización, imputando secuencialmente los recursos al presupuesto de ingresos del año en que deban hacerse efectivos». No se imputan todos al primer año ni quedan fuera del presupuesto.",
+    "fuente": "Art. 46 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 48.3 del RD 500/1990, en la incorporación de remanentes de crédito para gastos con financiación afectada se consideran recursos financieros suficientes, con carácter preferente:",
+    "options": [
+      "El remanente líquido de tesorería destinado a gastos generales",
+      "Los nuevos o mayores ingresos recaudados sobre los previstos en el presupuesto corriente",
+      "Los excesos de financiación y los compromisos firmes de aportación afectados a los remanentes que se pretende incorporar",
+      "Las operaciones de crédito a corto plazo concertadas para ese fin"
+    ],
+    "correct": 2,
+    "exp": "El art. 48.3 del RD 500/1990 considera recursos suficientes para estos remanentes «a) Preferentemente, los excesos de financiación y los compromisos firmes de aportación afectados a los remanentes que se pretende incorporar» y «b) En su defecto», los recursos genéricos del art. 48.2 (remanente líquido de tesorería y nuevos o mayores ingresos), solo para la parte del gasto financiable con recursos no afectados. Esos recursos genéricos son, por tanto, subsidiarios, no preferentes.",
+    "fuente": "Art. 48.3 a) RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 51 del RD 500/1990, ¿cuál de los siguientes supuestos puede dar lugar a una baja de créditos?",
+    "options": [
+      "La reposición de crédito por reintegros de pagos indebidos del presupuesto corriente",
+      "La financiación de remanentes de tesorería negativos",
+      "La incorporación de remanentes de crédito al ejercicio siguiente",
+      "La ampliación de los créditos declarados ampliables en las bases"
+    ],
+    "correct": 1,
+    "exp": "El art. 51 del RD 500/1990 enumera tres supuestos que pueden dar lugar a una baja de créditos: «a) La financiación de remanentes de tesorería negativos», «b) La financiación de créditos extraordinarios y suplementos de crédito» y «c) La ejecución de otros acuerdos del Pleno de la Entidad local». Los reintegros de pagos indebidos del presupuesto corriente generan crédito (art. 43.1 e); la incorporación y la ampliación son modificaciones al alza.",
+    "fuente": "Art. 51 a) RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 53.2 del RD 500/1990, si el Pleno aprueba Reglamentos o Normas generales que desarrollen los procedimientos de ejecución del presupuesto:",
+    "options": [
+      "No es necesario reiterar esas normas en las bases de ejecución: basta una remisión expresa a ellas",
+      "Las bases de ejecución quedan sin efecto y no tienen que aprobarse",
+      "Esas normas deben reproducirse íntegras cada año en las bases de ejecución",
+      "Esas normas solo se aplican a los organismos autónomos de la entidad"
+    ],
+    "correct": 0,
+    "exp": "El art. 53.2 del RD 500/1990 permite al Pleno aprobar Reglamentos o Normas generales que desarrollen los procedimientos de ejecución del presupuesto y añade: «en este supuesto no será necesario reiterar dichas normas en las bases de ejecución del presupuesto, bastando una remisión expresa a aquéllas». Las bases siguen siendo obligatorias, porque forman parte del presupuesto general (art. 165.1 TRLRHL).",
+    "fuente": "Art. 53.2 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 66.3 del RD 500/1990, cuando la identificación de los acreedores y sus importes se recoge en relaciones adicionales para pagarles por transferencia bancaria, ¿quién figura como perceptor en la orden de pago?",
+    "options": [
+      "Cada uno de los acreedores incluidos en las relaciones adicionales",
+      "El Tesorero de la entidad local, como responsable de los pagos",
+      "El ordenador de pagos que firma la orden acumulada",
+      "El Banco o Entidad financiera colaboradora encargada de ejecutar las órdenes de transferencia"
+    ],
+    "correct": 3,
+    "exp": "El art. 66.3 del RD 500/1990 permite reflejar acreedores e importes bruto y líquido en relaciones adicionales cuando las obligaciones se imputan a las mismas partidas y son de igual naturaleza, y precisa: «En este caso, en la orden de pago respectiva figurará como perceptor el Banco o Entidad financiera colaboradora encargada de ejecutar las órdenes de transferencia». La orden acumulada con sus relaciones adicionales tiene, frente a los acreedores, la misma eficacia que las órdenes singularizadas.",
+    "fuente": "Art. 66.3 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 69.2 del RD 500/1990, las órdenes de pago «a justificar» se expedirán en base a resolución de:",
+    "options": [
+      "El Interventor, una vez fiscalizado el expediente",
+      "El Tesorero, de acuerdo con el plan de disposición de fondos",
+      "La autoridad competente para autorizar el gasto a que se refieran",
+      "El Pleno de la corporación, en todo caso"
+    ],
+    "correct": 2,
+    "exp": "El art. 69.2 del RD 500/1990 dispone: «Las órdenes de pago «a justificar» se expedirán en base a resolución de la Autoridad competente para autorizar el gasto a que se refieran y se aplicarán a los correspondientes créditos presupuestarios». El Interventor fiscaliza y el Tesorero paga, pero ninguno de los dos dicta esa resolución, y no se reserva al Pleno.",
+    "fuente": "Art. 69.2 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 69.3 del RD 500/1990, la expedición de órdenes de pago «a justificar» puede apartarse del plan de disposición de fondos de la Tesorería cuando se trate de:",
+    "options": [
+      "Atender gastos de personal y obligaciones contraídas en ejercicios anteriores",
+      "Paliar las consecuencias de acontecimientos catastróficos, situaciones de grave peligro o necesidades que afecten directamente a la seguridad pública",
+      "Adquirir material de oficina no inventariable y otros gastos repetitivos",
+      "Pagos de cuantía inferior a 3.005,06 euros, por su escasa importancia"
+    ],
+    "correct": 1,
+    "exp": "El art. 69.3 del RD 500/1990 exige que estas órdenes se acomoden al plan de disposición de fondos del Presidente, «salvo en el caso de que se trate de paliar las consecuencias de acontecimientos catastróficos, situaciones que supongan grave peligro o necesidades que afecten directamente a la seguridad pública». Los gastos de personal y las obligaciones de ejercicios anteriores no son una excepción al plan: son la prioridad que el plan debe recoger (art. 65.2 RD 500/1990 y art. 187 TRLRHL).",
+    "fuente": "Art. 69.3 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 74.3 del RD 500/1990, los fondos de anticipos de caja fija no invertidos que, a fin de ejercicio, estén en poder de los cajeros, pagadores o habilitados:",
+    "options": [
+      "Se utilizarán por estos en el nuevo ejercicio para las atenciones para las que se concedió el anticipo",
+      "Deben reintegrarse a la Tesorería antes del 31 de diciembre",
+      "Se aplican como remanente de crédito incorporable al ejercicio siguiente",
+      "Pasan a considerarse derechos de difícil o imposible recaudación"
+    ],
+    "correct": 0,
+    "exp": "El art. 74.3 del RD 500/1990 dispone: «Los fondos no invertidos que, en fin de ejercicio, se hallen en poder de los respectivos cajeros, pagadores o habilitados, se utilizarán por éstos, en el nuevo ejercicio, para las atenciones para las que el anticipo se concedió». Eso no les exime de justificar dentro del ejercicio lo que hayan gastado: al menos en diciembre deben rendir cuentas (art. 74.4).",
+    "fuente": "Art. 74.3 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 86 del RD 500/1990, antes de autorizar gastos con imputación a ejercicios futuros, ¿quién debe certificar que no se superan los límites cuantitativos de los gastos plurianuales?",
+    "options": [
+      "El Tesorero",
+      "El Secretario de la corporación",
+      "La Comisión Especial de Cuentas",
+      "El Interventor"
+    ],
+    "correct": 3,
+    "exp": "El art. 86 del RD 500/1990 dispone: «Previamente a la autorización de gastos con imputación a ejercicios futuros, el Interventor deberá certificar que no se superan los límites cuantitativos regulados en el artículo 82, y, en su caso, 84». Esos límites son los porcentajes del 70, 60 y 50 % y, en su caso, los que fije el Pleno en casos excepcionales.",
+    "fuente": "Art. 86 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 94 del RD 500/1990, los derechos pendientes de cobro y las obligaciones reconocidas pendientes de pago a 31 de diciembre:",
+    "options": [
+      "Se anulan de pleno derecho y no pasan al ejercicio siguiente",
+      "Se incorporan como créditos iniciales del presupuesto del ejercicio siguiente",
+      "Integran la agrupación de Presupuestos cerrados y se consideran operaciones de la Tesorería local",
+      "Se registran como remanentes de crédito comprometidos"
+    ],
+    "correct": 2,
+    "exp": "El art. 94 del RD 500/1990 dispone que esos derechos y obligaciones «integrarán la agrupación de Presupuestos cerrados y tendrán la consideración de operaciones de la Tesorería local». Las operaciones de esta agrupación se contabilizan con independencia de las del presupuesto corriente (art. 95.2). Lo que se anula de pleno derecho a fin de ejercicio son los créditos no afectados a obligaciones reconocidas (art. 175 TRLRHL), no las obligaciones ya reconocidas.",
+    "fuente": "Art. 94 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 102.1 del RD 500/1990, en los gastos con financiación afectada en que los derechos afectados reconocidos superan a las obligaciones que financian, el remanente de Tesorería disponible para gastos generales:",
+    "options": [
+      "Debe minorarse en el exceso de financiación producido",
+      "Se incrementa en el exceso de financiación producido",
+      "No se ve afectado, porque los ingresos afectados no computan en él",
+      "Se anula por el importe del exceso, que se da de baja en cuentas"
+    ],
+    "correct": 0,
+    "exp": "El art. 102.1 del RD 500/1990 dispone que, en ese caso, «el remanente de Tesorería disponible para la financiación de gastos generales de la Entidad deberá minorarse en el exceso de financiación producido». Según el art. 102.2, ese exceso puede financiar la incorporación de los remanentes de crédito de los gastos con financiación afectada a que se imputa.",
+    "fuente": "Art. 102.1 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 103.4 del RD 500/1990, la consideración de un derecho como de difícil o imposible recaudación:",
+    "options": [
+      "Implica su anulación y su baja en cuentas",
+      "Obliga a declarar de oficio su prescripción",
+      "Lo excluye de la agrupación de presupuestos cerrados",
+      "No implica su anulación ni produce su baja en cuentas"
+    ],
+    "correct": 3,
+    "exp": "El art. 103.4 del RD 500/1990 dispone: «En cualquier caso, la consideración de un derecho como de difícil o imposible recaudación no implicará su anulación ni producirá su baja en cuentas». Esos derechos solo se deducen al cuantificar el remanente de tesorería (art. 103.1), de forma individualizada o mediante un porcentaje a tanto alzado (art. 103.2), con los mínimos del art. 193 bis TRLRHL.",
+    "fuente": "Art. 103.4 RD 500/1990 (presupuestos de las entidades locales)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 206.2 del TRLRHL, en los libros, registros y cuentas de la contabilidad pública local se contabilizará:",
+    "options": [
+      "La totalidad de los actos u operaciones de carácter administrativo, civil o mercantil con repercusión financiera, patrimonial o económica en general",
+      "Solo las operaciones de ejecución de los presupuestos de gastos e ingresos",
+      "Solo los actos que den lugar a cobros o pagos de la tesorería",
+      "Solo las operaciones de carácter administrativo, excluidas las de naturaleza civil o mercantil"
+    ],
+    "correct": 0,
+    "exp": "El art. 206.2 del TRLRHL dispone que en los libros, registros y cuentas «se contabilizarán la totalidad de los actos u operaciones de carácter administrativo, civil o mercantil, con repercusión financiera, patrimonial o económica en general». La contabilidad no se limita a la ejecución presupuestaria ni a la tesorería, y abarca también las operaciones civiles y mercantiles.",
+    "fuente": "Art. 206.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  }
+]);
+
+/* tema 16 · lote 2026-10-22 · 21 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 16, [
+  {
+    "q": "Según el art. 139.2 de la Ley 7/1999, de Administración Local de Aragón, las ordenanzas y reglamentos de las entidades locales se integran en el ordenamiento jurídico con sujeción a los principios de:",
+    "options": [
+      "Jerarquía normativa y competencia",
+      "Autonomía local y suficiencia financiera",
+      "Proporcionalidad y eficiencia",
+      "Descentralización y desconcentración"
+    ],
+    "correct": 0,
+    "exp": "El art. 139.2 de la Ley 7/1999 dice que las ordenanzas y reglamentos locales «se integran en el ordenamiento jurídico con sujeción a los principios de jerarquía normativa y competencia». Ninguno de los otros pares de principios aparece en ese apartado.",
+    "fuente": "Art. 139.2 Ley 7/1999 (Administración Local de Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 139.3 de la Ley 7/1999, de Administración Local de Aragón, lo dispuesto en las ordenanzas y reglamentos de una entidad local:",
+    "options": [
+      "Vincula a los ciudadanos, pero la entidad local puede dispensar individualmente de su observancia mediante resolución motivada",
+      "Vincula por igual a los ciudadanos y a la entidad local, sin que esta pueda dispensar individualmente de su observancia",
+      "Vincula a los ciudadanos y a la entidad local, salvo que el Pleno acuerde por mayoría absoluta una dispensa individual",
+      "Vincula solo a los ciudadanos, ya que la entidad local puede apartarse de ello por razones de interés público"
+    ],
+    "correct": 1,
+    "exp": "El art. 139.3 establece que lo dispuesto en las ordenanzas y reglamentos «vinculará por igual a los ciudadanos y a la entidad local, sin que pueda ésta dispensar individualmente de su observancia». No hay dispensa individual posible, ni por resolución motivada ni por acuerdo plenario con mayoría reforzada.",
+    "fuente": "Art. 139.3 Ley 7/1999 (Administración Local de Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Durante el trámite de información pública del art. 140.1.b) de la Ley 7/1999, de Administración Local de Aragón, ¿quiénes pueden examinar el expediente de la ordenanza y qué pueden formular?",
+    "options": [
+      "Solo los concejales, que pueden formular enmiendas al texto",
+      "Solo las asociaciones vecinales inscritas, que pueden emitir informe sobre el proyecto",
+      "Solo los vecinos con derecho de sufragio activo, que pueden presentar un texto alternativo",
+      "Los vecinos e interesados legítimos, que pueden formular reclamaciones, reparos u observaciones"
+    ],
+    "correct": 3,
+    "exp": "Según el art. 140.1.b), durante el plazo mínimo de treinta días de información pública «los vecinos e interesados legítimos podrán examinar el expediente y formular reclamaciones, reparos u observaciones». El trámite no se limita a concejales, asociaciones ni electores. El art. 49.b) LBRL habla de «reclamaciones y sugerencias».",
+    "fuente": "Art. 140.1.b) Ley 7/1999 (Administración Local de Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de los siguientes requisitos NO exige el art. 140.1.c) de la Ley 7/1999, de Administración Local de Aragón, a las asociaciones vecinales y de defensa de los consumidores y usuarios para darles audiencia previa en la elaboración de una ordenanza?",
+    "options": [
+      "Haber sido declaradas de utilidad pública",
+      "Estar establecidas en el ámbito territorial de la entidad local",
+      "Estar inscritas en el Registro correspondiente de asociaciones vecinales",
+      "Tener fines que guarden relación directa con el objeto de la disposición"
+    ],
+    "correct": 0,
+    "exp": "El art. 140.1.c) prevé la «Audiencia previa a las asociaciones vecinales y de defensa de los consumidores y usuarios establecidos en su ámbito territorial que estén inscritos en el Registro correspondiente de asociaciones vecinales y cuyos fines guarden relación directa con el objeto de la disposición». Pide, por tanto, ámbito territorial, inscripción registral y relación directa de fines. La declaración de utilidad pública no figura entre los requisitos.",
+    "fuente": "Art. 140.1.c) Ley 7/1999 (Administración Local de Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué trámite del procedimiento de aprobación de ordenanzas y reglamentos del art. 140.1 de la Ley 7/1999, de Administración Local de Aragón, NO aparece en el art. 49 de la LBRL?",
+    "options": [
+      "La aprobación inicial por el Pleno",
+      "La audiencia previa a las asociaciones vecinales y de defensa de los consumidores y usuarios",
+      "La información pública por un plazo mínimo de treinta días",
+      "La aprobación definitiva por el Pleno, resolviendo las reclamaciones presentadas"
+    ],
+    "correct": 1,
+    "exp": "El art. 140.1 de la Ley 7/1999 tiene cuatro trámites: a) aprobación inicial por el Pleno; b) información pública de treinta días como mínimo; c) «Audiencia previa a las asociaciones vecinales y de defensa de los consumidores y usuarios…»; y d) resolución de reclamaciones y aprobación definitiva por el Pleno. El art. 49 LBRL recoge la aprobación inicial por el Pleno, la información pública y audiencia a los interesados durante treinta días como mínimo y la aprobación definitiva por el Pleno, pero no la audiencia específica a esas asociaciones.",
+    "fuente": "Art. 140.1.c) Ley 7/1999 (Administración Local de Aragón) y art. 49 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 141.2 de la Ley 7/1999, de Administración Local de Aragón, las ordenanzas fiscales entrarán en vigor:",
+    "options": [
+      "Una vez que se haya publicado íntegramente el acuerdo definitivo y su texto en el «Boletín Oficial» de la provincia, a no ser que se demore su aplicación a una fecha posterior",
+      "Cuando hayan transcurrido quince días desde el siguiente al de la publicación de su texto íntegro en el «Boletín Oficial» de la provincia",
+      "Al día siguiente de su aprobación definitiva por el Pleno, sin necesidad de publicación",
+      "El 1 de enero del ejercicio siguiente al de su publicación, en todo caso"
+    ],
+    "correct": 0,
+    "exp": "El art. 141.2 dice: «Las ordenanzas fiscales entrarán en vigor una vez que se haya publicado íntegramente el acuerdo definitivo y el texto de las mismas en dicho boletín, a no ser que se demore su aplicación a una fecha posterior». «Dicho boletín» es el «Boletín Oficial» de la provincia citado en el apartado 1. El plazo de quince días es la regla general del art. 141.1, que no se aplica a las ordenanzas fiscales. Tampoco hay una fecha fija de entrada en vigor.",
+    "fuente": "Art. 141.2 Ley 7/1999 (Administración Local de Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 142.1 de la Ley 7/1999, de Administración Local de Aragón, ¿cuál de las siguientes es una de las finalidades de los bandos dictados por los Alcaldes?",
+    "options": [
+      "Tipificar infracciones y sanciones por el incumplimiento de las ordenanzas",
+      "Efectuar convocatorias populares con motivo de acontecimientos ciudadanos",
+      "Regular con carácter permanente el uso de los espacios públicos",
+      "Aprobar los precios públicos de los servicios municipales"
+    ],
+    "correct": 1,
+    "exp": "El art. 142.1 asigna a los bandos tres finalidades: «exhortar a los ciudadanos a la observancia de las obligaciones y deberes establecidos en las leyes y en las ordenanzas y reglamentos municipales, recordarles el contenido preciso de dichas obligaciones y los plazos establecidos para su cumplimiento, así como efectuar convocatorias populares con motivo de acontecimientos ciudadanos». Tipificar infracciones, regular con carácter permanente el uso de los espacios públicos o fijar precios no es función del bando.",
+    "fuente": "Art. 142.1 Ley 7/1999 (Administración Local de Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 142.2 de la Ley 7/1999, de Administración Local de Aragón, en los casos de catástrofe o infortunio públicos o grave riesgo, los Alcaldes podrán adoptar las medidas necesarias y adecuadas:",
+    "options": [
+      "Previa autorización del Pleno en sesión extraordinaria urgente",
+      "Dando cuenta al Gobierno de Aragón en el plazo de diez días",
+      "Dando cuenta inmediata al Pleno",
+      "Previo dictamen de la Comisión informativa competente"
+    ],
+    "correct": 2,
+    "exp": "El art. 142.2 dispone: «No obstante, en los casos de catástrofe o infortunio públicos o grave riesgo, los Alcaldes podrán adoptar las medidas necesarias y adecuadas, dando cuenta inmediata al Pleno». No hace falta autorización ni dictamen previo; basta con dar cuenta inmediata al Pleno, y no al Gobierno de Aragón.",
+    "fuente": "Art. 142.2 Ley 7/1999 (Administración Local de Aragón)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En los municipios de gran población, según el art. 123.1.c) de la LBRL, ¿cuál de las siguientes materias tiene en todo caso naturaleza orgánica?",
+    "options": [
+      "La regulación de la tasa por la recogida de residuos",
+      "La regulación del uso de las terrazas de hostelería en la vía pública",
+      "La regulación del órgano para la resolución de las reclamaciones económico-administrativas",
+      "La regulación de la tenencia de animales de compañía"
+    ],
+    "correct": 2,
+    "exp": "El art. 123.1.c) LBRL atribuye al Pleno «La aprobación y modificación de los reglamentos de naturaleza orgánica» y enumera las materias que «Tendrán en todo caso naturaleza orgánica»: la regulación del Pleno, del Consejo Social de la ciudad, de la Comisión Especial de Sugerencias y Reclamaciones, de los órganos complementarios y procedimientos de participación ciudadana, la división en distritos, los niveles esenciales de la organización municipal y «La regulación del órgano para la resolución de las reclamaciones económico-administrativas». Una tasa se regula en una ordenanza fiscal, y las terrazas o los animales en ordenanzas que no están en esa lista.",
+    "fuente": "Art. 123.1.c) LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En los municipios de gran población, según el art. 123.3 de la LBRL, la competencia del Pleno para aprobar y modificar las ordenanzas y reglamentos municipales (art. 123.1.d):",
+    "options": [
+      "Puede delegarse en la Junta de Gobierno Local",
+      "Puede delegarse en el Alcalde",
+      "No puede delegarse en ningún caso",
+      "Solo puede delegarse en las comisiones del Pleno a que se refiere el art. 122.4"
+    ],
+    "correct": 3,
+    "exp": "El art. 123.3 LBRL dispone: «Únicamente pueden delegarse las competencias del Pleno referidas en los párrafos d), k), m) y ñ) a favor de las comisiones referidas en el apartado 4 del artículo anterior». La letra d) es la aprobación y modificación de las ordenanzas y reglamentos municipales. Por tanto es delegable, pero solo en las comisiones del Pleno (art. 122.4), nunca en el Alcalde ni en la Junta de Gobierno Local. En el régimen común, en cambio, el art. 22.4 LBRL no permite delegarla.",
+    "fuente": "Art. 123.3 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Si se comparan el art. 70.2 de la LBRL y el art. 17.4 del TRLRHL, ¿qué condición para entrar en vigor se exige a una ordenanza no fiscal y no a una ordenanza fiscal?",
+    "options": [
+      "Que, además de publicarse, transcurra el plazo previsto en el art. 65.2 LBRL",
+      "Que su texto se publique íntegramente",
+      "Que se publique en el boletín oficial de la provincia",
+      "Que se publique el acuerdo de aprobación definitiva"
+    ],
+    "correct": 0,
+    "exp": "El art. 70.2 LBRL dispone que las ordenanzas se publicarán en el «Boletín Oficial» de la Provincia «y no entrarán en vigor hasta que se haya publicado completamente su texto y haya transcurrido el plazo previsto en el artículo 65.2 salvo los presupuestos y las ordenanzas fiscales», que se rigen por la ley de haciendas locales. El art. 17.4 TRLRHL exige publicar en el boletín oficial de la provincia los acuerdos definitivos y el texto íntegro de las ordenanzas fiscales, «sin que entren en vigor hasta que se haya llevado a cabo dicha publicación», sin añadir el plazo del art. 65.2. La publicación íntegra y en el boletín de la provincia se exige a ambas, y la del acuerdo definitivo la pide expresamente el art. 17.4 para las fiscales.",
+    "fuente": "Art. 70.2 LBRL (Ley 7/1985) y art. 17.4 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 15.2 del TRLRHL, respecto de los impuestos previstos en el art. 59.1 (IBI, IAE e impuesto sobre vehículos de tracción mecánica), los ayuntamientos deben aprobar las oportunas ordenanzas fiscales:",
+    "options": [
+      "En todo caso, porque sin ordenanza fiscal no pueden exigir esos impuestos",
+      "Cuando decidan hacer uso de las facultades que les confiere la ley para fijar los elementos necesarios para determinar las cuotas tributarias",
+      "Solo cuando su población supere los 20.000 habitantes",
+      "Solo cuando la gestión del impuesto esté delegada en la diputación provincial"
+    ],
+    "correct": 1,
+    "exp": "El art. 15.2 TRLRHL dice: «Respecto de los impuestos previstos en el artículo 59.1, los ayuntamientos que decidan hacer uso de las facultades que les confiere esta ley en orden a la fijación de los elementos necesarios para la determinación de las respectivas cuotas tributarias, deberán acordar el ejercicio de tales facultades, y aprobar las oportunas ordenanzas fiscales». Esos impuestos los exigen los ayuntamientos «de acuerdo con esta ley» (art. 59.1), y el art. 15.1 excluye expresamente los supuestos del art. 59.1 del deber general de acordar la imposición y aprobar ordenanza. La población y la delegación de la gestión no tienen nada que ver.",
+    "fuente": "Art. 15.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.1 del TRLRHL, los acuerdos de aprobación de las ordenanzas fiscales de los tributos propios a que se refiere el art. 15.1 deberán adoptarse:",
+    "options": [
+      "Dentro del mes siguiente al acuerdo de imposición del tributo",
+      "Antes del acuerdo de imposición, que debe remitirse a la ordenanza ya aprobada",
+      "Simultáneamente a los de imposición de los respectivos tributos",
+      "Junto con la aprobación del presupuesto general del ejercicio"
+    ],
+    "correct": 2,
+    "exp": "El art. 16.1 TRLRHL, tras enumerar el contenido mínimo de estas ordenanzas, dispone: «Los acuerdos de aprobación de estas ordenanzas fiscales deberán adoptarse simultáneamente a los de imposición de los respectivos tributos». Ni después ni antes del acuerdo de imposición, ni ligados al presupuesto.",
+    "fuente": "Art. 16.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.2 del TRLRHL, las ordenanzas fiscales que aprueban los ayuntamientos para ejercer las facultades que la ley les confiere en los impuestos del art. 59.1 (art. 15.2) contendrán:",
+    "options": [
+      "Únicamente las normas de gestión, liquidación, inspección y recaudación de esos impuestos",
+      "Únicamente la fecha de comienzo de su aplicación, pues el resto lo fija la ley",
+      "El acuerdo de imposición del impuesto y la relación nominal de los sujetos pasivos",
+      "Los elementos necesarios para la determinación de las cuotas tributarias de los respectivos impuestos y las fechas de su aprobación y del comienzo de su aplicación"
+    ],
+    "correct": 3,
+    "exp": "El art. 16.2 TRLRHL dispone que estas ordenanzas «contendrán, además de los elementos necesarios para la determinación de las cuotas tributarias de los respectivos impuestos, las fechas de su aprobación y el comienzo de su aplicación». Las normas de gestión, liquidación, inspección y recaudación del art. 15.3 son un contenido posible («podrán contener»), no el único. No hay acuerdo de imposición, porque esos impuestos se exigen por ley (art. 59.1), y la ley no pide ninguna relación de sujetos pasivos.",
+    "fuente": "Art. 16.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Una ordenanza fiscal se expone al público y nadie presenta reclamaciones, por lo que el acuerdo provisional queda elevado automáticamente a definitivo. Según el art. 17.4 del TRLRHL:",
+    "options": [
+      "No es necesaria ninguna nueva publicación, porque ya se publicó el anuncio de exposición",
+      "El acuerdo y el texto íntegro de la ordenanza deben publicarse en el boletín oficial de la provincia, y la ordenanza no entra en vigor hasta esa publicación",
+      "Basta con publicar un extracto del acuerdo en el tablón de anuncios de la entidad",
+      "La ordenanza entra en vigor al día siguiente de finalizar el período de exposición pública"
+    ],
+    "correct": 1,
+    "exp": "El art. 17.4 TRLRHL dispone: «En todo caso, los acuerdos definitivos a que se refiere el apartado anterior, incluyendo los provisionales elevados automáticamente a tal categoría, y el texto íntegro de las ordenanzas o de sus modificaciones, habrán de ser publicados en el boletín oficial de la provincia […], sin que entren en vigor hasta que se haya llevado a cabo dicha publicación». La elevación automática (art. 17.3) no dispensa de la publicación íntegra.",
+    "fuente": "Art. 17.4 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 17.5 del TRLRHL, ¿qué obligación tienen en todo caso todas las entidades locales, sea cual sea su población, respecto de sus ordenanzas fiscales publicadas?",
+    "options": [
+      "Remitir una copia a cada sujeto pasivo junto con la primera liquidación del tributo",
+      "Publicarlas cada año en un diario de los de mayor difusión de la provincia",
+      "Expedir copias de ellas a quienes las demanden",
+      "Editar su texto íntegro dentro del primer cuatrimestre del ejercicio"
+    ],
+    "correct": 2,
+    "exp": "El párrafo segundo del art. 17.5 TRLRHL dice: «En todo caso, las entidades locales habrán de expedir copias de las ordenanzas fiscales publicadas a quienes las demanden». La edición del texto íntegro en el primer cuatrimestre la exige el párrafo primero solo a las diputaciones, consejos y cabildos y a las demás entidades locales de más de 20.000 habitantes, no a todas. El envío de copias a cada sujeto pasivo y la publicación anual en un diario no están previstos.",
+    "fuente": "Art. 17.5 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 18.a) del TRLRHL, a efectos de reclamar contra los acuerdos provisionales de imposición y ordenación de tributos y de aprobación de ordenanzas fiscales, tienen la consideración de interesados:",
+    "options": [
+      "Solo los sujetos pasivos que figuren en el padrón del tributo del ejercicio anterior",
+      "Solo los vecinos empadronados en el municipio que sean mayores de edad",
+      "Solo quienes acrediten un derecho subjetivo lesionado por el acuerdo",
+      "Los que tuvieran un interés directo o resulten afectados por tales acuerdos"
+    ],
+    "correct": 3,
+    "exp": "El art. 18 TRLRHL considera interesados, en su letra a), a «Los que tuvieran un interés directo o resulten afectados por tales acuerdos», y en su letra b) a los colegios oficiales, cámaras oficiales, asociaciones y demás entidades legalmente constituidas, cuando actúen en defensa de sus intereses. No limita la condición de interesado a los sujetos pasivos del padrón, a los vecinos mayores de edad ni a los titulares de un derecho subjetivo.",
+    "fuente": "Art. 18.a) TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 19.1 del TRLRHL, las ordenanzas fiscales de las entidades locales a que se refiere el art. 17.3 regirán:",
+    "options": [
+      "Durante el plazo, determinado o indefinido, previsto en ellas",
+      "Durante un solo ejercicio económico, por lo que deben aprobarse de nuevo cada año",
+      "Durante un máximo de cuatro años, coincidiendo con el mandato de la Corporación",
+      "Hasta la aprobación del siguiente presupuesto general de la entidad"
+    ],
+    "correct": 0,
+    "exp": "El art. 19.1 TRLRHL dispone que las ordenanzas fiscales «regirán durante el plazo, determinado o indefinido, previsto en ellas, sin que quepa contra ellas otro recurso que el contencioso-administrativo». Es la propia ordenanza la que fija su vigencia. La ley no impone aprobarlas cada año ni las liga al mandato corporativo ni al presupuesto.",
+    "fuente": "Art. 19.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 19.2 del TRLRHL, si por resolución judicial firme resultaren anulados o modificados los acuerdos locales o el texto de las ordenanzas fiscales, la entidad local vendrá obligada a adecuar a los términos de la sentencia:",
+    "options": [
+      "Todas las actuaciones realizadas desde la entrada en vigor de la ordenanza anulada",
+      "Todas las actuaciones que lleve a cabo con posterioridad a la fecha en que le sea notificada la sentencia",
+      "Solo las actuaciones que lleve a cabo a partir del ejercicio económico siguiente",
+      "Solo las liquidaciones que hayan sido recurridas en vía administrativa"
+    ],
+    "correct": 1,
+    "exp": "El art. 19.2 TRLRHL dispone que la entidad local «vendrá obligada a adecuar a los términos de la sentencia todas las actuaciones que lleve a cabo con posterioridad a la fecha en que aquélla le sea notificada». El mismo apartado añade que, salvo que la sentencia lo prohíba expresamente, «se mantendrán los actos firmes o consentidos dictados al amparo de la ordenanza». Por eso la adecuación no alcanza a todo lo actuado desde la entrada en vigor de la ordenanza.",
+    "fuente": "Art. 19.2 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 19.1 del TRLRHL, el recurso contencioso-administrativo contra las ordenanzas fiscales se podrá interponer a partir de:",
+    "options": [
+      "La finalización del período de exposición pública del acuerdo provisional",
+      "La notificación de la primera liquidación del tributo regulado",
+      "Su publicación en el boletín oficial de la provincia o, en su caso, de la comunidad autónoma uniprovincial",
+      "La resolución expresa por el Pleno de las reclamaciones presentadas"
+    ],
+    "correct": 2,
+    "exp": "El art. 19.1 TRLRHL dice que contra las ordenanzas fiscales no cabe otro recurso que «el contencioso-administrativo que se podrá interponer, a partir de su publicación en el boletín oficial de la provincia, o, en su caso, de la comunidad autónoma uniprovincial, en la forma y plazos que establecen las normas reguladoras de dicha jurisdicción». El momento lo marca la publicación, no la exposición pública, la primera liquidación ni la resolución de las reclamaciones.",
+    "fuente": "Art. 19.1 TRLRHL (RDLeg 2/2004)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 11.3 de la Ley 10/2017, de régimen especial del municipio de Zaragoza como capital de Aragón, la competencia del Pleno para aprobar y modificar los Reglamentos de naturaleza orgánica (art. 11.1.c):",
+    "options": [
+      "No puede ser objeto de delegación",
+      "Solo puede delegarse en las Comisiones del Pleno",
+      "Puede delegarse en el Gobierno de Zaragoza",
+      "Puede delegarse en el Alcalde, salvo que su aprobación exija una mayoría especial"
+    ],
+    "correct": 0,
+    "exp": "El art. 11.3 de la Ley 10/2017 dispone: «No podrán ser objeto de delegación las competencias del Pleno referidas en las letras a), b), c), e), f), g), h), i), j), m), ñ) y q) del apartado 1». La letra c) es la de los Reglamentos de naturaleza orgánica. La delegación solo en Comisiones del Pleno es la regla de las letras d), k), l), n), o) y p), entre ellas la aprobación de ordenanzas y Reglamentos no orgánicos (letra d). La delegación en el Alcalde y en el Gobierno de Zaragoza, salvo mayoría especial, se refiere solo a la letra r).",
+    "fuente": "Art. 11.3 Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  }
+]);

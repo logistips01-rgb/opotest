@@ -1,0 +1,151 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 13,
+  "fecha": "2026-10-22",
+  "preguntas": [
+    {
+      "q": "Según la regla 37 de la Instrucción del modelo normal de contabilidad local (Orden HAP/1781/2013), cuando las operaciones se incorporan al sistema mediante soportes electrónicos, informáticos o telemáticos, la autorización mediante diligencias, firmas manuscritas o sellos:",
+      "options": [
+        "Podrá sustituirse por autorizaciones y controles de las propias aplicaciones informáticas que garanticen la identificación y la competencia de quien autoriza",
+        "Sigue siendo obligatoria en todo caso, aunque los documentos lleven firma electrónica",
+        "Solo puede sustituirse si lo autoriza expresamente la Intervención General de la Administración del Estado",
+        "Se sustituye siempre por la diligencia de toma de razón del responsable de la contabilidad"
+      ],
+      "correct": 0,
+      "exp": "La regla 37.2 dispone que, en ese caso, los procedimientos de autorización y control mediante diligencias, firmas manuscritas, sellos u otros medios manuales «podrán ser sustituidos por autorizaciones y controles establecidos en las propias aplicaciones informáticas que garanticen la identificación y el ejercicio de la competencia por quien la tenga atribuida». La firma manuscrita solo es necesaria en la captura directa de datos de documentos (regla 37.1). La toma de razón (regla 38) es un trámite distinto de la autorización.",
+      "fuente": "Regla 37.2 ICAL normal (Orden HAP/1781/2013)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (DUDOSA): Orden HAP/1781/2013 (BOE-A-2013-10268), consolidado descargado el 22-oct-2026: vigente, sin derogación, última actualización 03/08/2021 (Orden HAC/836/2021); en vigor desde 1-ene-2015. Regla 37.2 literal y la opción marcada es la única correcta; los distractores son falsos. Pero la explicación no es exacta: dice que «la firma manuscrita solo es necesaria en la captura directa de datos (regla 37.1)», y la regla 37.1 no exige firma manuscrita, sino autorización «mediante diligencias, firmas manuscritas, sellos u otros medios manuales» (cualquiera de ellos). Arreglo propuesto: sustituir esa frase por «En la captura directa de datos, en cambio, los documentos deben estar autorizados mediante diligencias, firmas manuscritas, sellos u otros medios manuales por quien tenga facultades para ello (regla 37.1)». | Revisor 2 (DUDOSA): La respuesta es correcta y los distractores son falsos según la regla 37.2 ICAL normal («podrán ser sustituidos por autorizaciones y controles establecidos en las propias aplicaciones informáticas...»). Pero la explicación no es exacta: «La firma manuscrita solo es necesaria en la captura directa (regla 37.1)». La regla 37.1 no exige firma manuscrita, sino autorización «mediante diligencias, firmas manuscritas, sellos u otros medios manuales», a elegir. Propuesta de arreglo: «En la captura directa (regla 37.1) los documentos deben estar autorizados por medios manuales (diligencias, firmas manuscritas, sellos u otros)». Además, el enunciado cita la regla 37 sin apartado y la fuente dice 37.2; mejor poner «regla 37.2» también en el enunciado.",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "Según el art. 18.1 b) del RD 500/1990, la liquidación del presupuesto del ejercicio anterior y el avance de la del corriente que se unen al presupuesto irán suscritas por:",
+      "options": [
+        "El Presidente de la entidad, junto con la memoria explicativa",
+        "El Tesorero, con el visto bueno del Presidente",
+        "El Secretario de la corporación, como fedatario público",
+        "El Interventor, y confeccionadas conforme dispone la Instrucción de Contabilidad"
+      ],
+      "correct": 3,
+      "exp": "El art. 18.1 b) del RD 500/1990 exige unir al presupuesto la «Liquidación del Presupuesto del ejercicio anterior y avance de la del corriente, referida, al menos, a seis meses del mismo, suscritas, una y otro, por el Interventor y confeccionados conforme dispone la Instrucción de Contabilidad». Lo que suscribe el Presidente es la memoria (letra a) y el anexo de inversiones (letra d).",
+      "fuente": "Art. 18.1 b) RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (CONFIRMADA): RD 500/1990 (BOE-A-1990-9664), consolidado descargado el 22-oct-2026, sin modificaciones desde 1990. Art. 18.1 b) literal: «suscritas, una y otro, por el Interventor y confeccionados conforme dispone la Instrucción de Contabilidad». El art. 168.1 b) TRLRHL (redacción del RDL 17/2014) no menciona la firma pero no la contradice: el reglamento la completa. Memoria (letra a) y anexo de inversiones (letra d) suscritos por el Presidente: exacto. No duplica las del art. 168.1 b) TRLRHL (que preguntan por los seis meses). | Revisor 2 (RECHAZADA): Literalmente correcta según el art. 18.1 b) RD 500/1990 («suscritas, una y otro, por el Interventor»), pero la respuesta cambia para Zaragoza. Como municipio de gran población, separa las funciones de contabilidad y de fiscalización (art. 133.b LBRL) y encomienda la contabilidad a un órgano propio que fija el Reglamento orgánico (art. 134.1 LBRL; disposición adicional 4.ª RD 128/2018). El art. 4.2.h) RD 128/2018 (BOE-A-2018-3760) atribuye expresamente a la función de contabilidad «Elaborar el avance de la liquidación del presupuesto corriente que debe unirse al presupuesto ... a que se refiere el artículo 18.b) del Real Decreto 500/1990». En Zaragoza, por tanto, no lo suscribe el Interventor general. Además, el art. 168.1 b) TRLRHL vigente ya no dice quién lo suscribe.",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "Según el art. 18.1 d) del RD 500/1990, el anexo de las inversiones a realizar en el ejercicio, que se une al presupuesto, irá:",
+      "options": [
+        "Suscrito por el Interventor y fiscalizado previamente",
+        "Firmado por los técnicos municipales y acompañado de los proyectos de obra",
+        "Suscrito por el Presidente y debidamente codificado",
+        "Informado por la Comisión Especial de Cuentas"
+      ],
+      "correct": 2,
+      "exp": "El art. 18.1 d) del RD 500/1990 incluye entre la documentación del presupuesto el «Anexo de las inversiones a realizar en el ejercicio, suscrito por el Presidente y debidamente codificado». Su contenido por proyecto (código, denominación, años de inicio y fin, importe de la anualidad, financiación, vinculación y órgano gestor) lo detalla el art. 19. La Comisión Especial de Cuentas informa la cuenta general (art. 212.2 TRLRHL), no el presupuesto.",
+      "fuente": "Art. 18.1 d) RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (CONFIRMADA): RD 500/1990 (BOE-A-1990-9664), consolidado descargado el 22-oct-2026, sin modificaciones desde 1990. Art. 18.1 d) literal: «suscrito por el Presidente y debidamente codificado». Art. 19 (contenido por proyecto) y art. 212.2 TRLRHL (Comisión Especial de Cuentas) comprobados. El art. 168.1 d) TRLRHL solo dice «Anexo de las inversiones a realizar en el ejercicio», sin contradicción. | Revisor 2 (RECHAZADA): Literalmente correcta según el art. 18.1 d) RD 500/1990, pero dudosa para Zaragoza. El art. 168.1 d) TRLRHL vigente solo dice «Anexo de las inversiones a realizar en el ejercicio», sin «suscrito por el Presidente». Y en Zaragoza el presupuesto no lo forma el Presidente: la aprobación del proyecto corresponde a la Junta de Gobierno (art. 127.1.b LBRL) y la iniciativa al Gobierno de Zaragoza (art. 50.a Ley 10/2017, BOE-A-2018-1683, comprobado). No se puede afirmar que en Zaragoza el anexo lo suscriba el Alcalde-Presidente. Ante la duda, rechazo.",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "Según el art. 97 del RD 500/1990, el resultado presupuestario deberá ajustarse, en su caso, en función de:",
+      "options": [
+        "Los derechos de difícil o imposible recaudación y los fondos líquidos a 31 de diciembre",
+        "Las obligaciones financiadas con remanentes de Tesorería y las diferencias de financiación de los gastos con financiación afectada",
+        "Los créditos no disponibles y las modificaciones de crédito no prorrogables",
+        "Los pagos ordenados pendientes de realizar y las relaciones de órdenes de pago"
+      ],
+      "correct": 1,
+      "exp": "El art. 97 del RD 500/1990 dispone: «El resultado presupuestario deberá, en su caso, ajustarse en función de las obligaciones financiadas con remanentes de Tesorería y de las diferencias de financiación derivadas de gastos con financiación afectada». Para los organismos autónomos no administrativos se ajusta además por el resultado de operaciones comerciales. Los derechos de difícil recaudación y los fondos líquidos intervienen en el cálculo del remanente de tesorería (arts. 101 y 103), no en el del resultado presupuestario.",
+      "fuente": "Art. 97 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (DUDOSA): RD 500/1990 (BOE-A-1990-9664), consolidado descargado el 22-oct-2026, sin modificaciones desde 1990. Art. 97, párrafo primero, literal, y coincide con la regulación vigente del resultado presupuestario en la Instrucción (PGCP, tercera parte, normas del estado de liquidación: ajuste por «obligaciones financiadas con remanente de tesorería para gastos generales» y «desviaciones de financiación del ejercicio»). Opción marcada correcta y distractores falsos. Pero la explicación añade, como vigente, que «para los organismos autónomos no administrativos se ajusta además por el resultado de operaciones comerciales» (párrafo segundo del art. 97): la Instrucción de 2013, que según su preámbulo es hoy la que regula el resultado presupuestario, no recoge ese ajuste ni ningún resultado de operaciones comerciales. Arreglo propuesto: suprimir esa frase de la explicación. | Revisor 2 (CONFIRMADA): Art. 97 RD 500/1990 literal. Coincide con el resultado presupuestario ajustado de la ICAL normal: créditos financiados con remanente para gastos generales y desviaciones de financiación. Los derechos de difícil recaudación y los fondos líquidos son del remanente de tesorería (arts. 101 y 103 RD 500/1990, comprobados). Los otros dos distractores son falsos.",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "Según el art. 106 del RD 500/1990, a los presupuestos de los organismos autónomos comerciales, industriales, financieros o análogos se acompañarán los estados de previsión de:",
+      "options": [
+        "La cuenta de otros resultados, la cuenta de pérdidas y ganancias y el presupuesto de capital",
+        "El balance de situación, la memoria y el informe de auditoría",
+        "La cuenta de explotación, la cuenta resumen de operaciones comerciales y el cuadro de financiación",
+        "El estado de consolidación, el anexo de personal y el anexo de inversiones"
+      ],
+      "correct": 2,
+      "exp": "El art. 106 del RD 500/1990 dispone que a esos presupuestos se acompañen los estados de previsión de «a) La cuenta de explotación», «b) La cuenta resumen de operaciones comerciales» y «c) El cuadro de financiación». La cuenta de otros resultados, la de pérdidas y ganancias y el presupuesto de capital son estados de previsión de las sociedades mercantiles (art. 112). El estado de consolidación es un anexo del presupuesto general (art. 166.1 c TRLRHL).",
+      "fuente": "Art. 106 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): RD 500/1990 (BOE-A-1990-9664), consolidado descargado el 22-oct-2026, sin modificaciones desde 1990. El texto del art. 106 es el que dice la pregunta y está dentro del epígrafe (contenido del presupuesto general), pero es uno de los artículos del RD que SE HAN QUEDADO ANTIGUOS: los estados de previsión que enumera (cuenta de explotación, cuenta resumen de operaciones comerciales, cuadro de financiación) responden al marco contable de 1990; la Instrucción vigente (Orden HAP/1781/2013), que se aplica a todos los organismos autónomos, no contiene ninguno de esos estados ni el «resultado de operaciones comerciales» (búsqueda en el consolidado: cero resultados), y desde la Ley 57/2003 el art. 85.2 LBRL solo conoce el «organismo autónomo local», sin distinguir comerciales o industriales (aunque el art. 164.2 TRLRHL conserve la clasificación). La pregunta enseña como vigente un régimen documental superado. Ante la duda, rechazo. | Revisor 2 (CONFIRMADA): Art. 106 RD 500/1990 literal (cuenta de explotación, cuenta resumen de operaciones comerciales, cuadro de financiación). Comprobé que esa categoría de organismos autónomos no está desplazada: el art. 164.2 TRLRHL vigente sigue clasificando los organismos autónomos, «a efectos de su régimen presupuestario y contable», en administrativos y «de carácter comercial, industrial, financiero o análogo». Los distractores son falsos: uno es el art. 112, otro el anexo del art. 166.1 c) TRLRHL, comprobado.",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "Según el art. 112 del RD 500/1990, los estados de previsión de gastos e ingresos de las sociedades mercantiles que se integran en el presupuesto general son los de:",
+      "options": [
+        "Unos estados de gastos e ingresos con la misma estructura que el presupuesto de la entidad",
+        "La cuenta de explotación, la cuenta de otros resultados, la cuenta de pérdidas y ganancias y el presupuesto de capital",
+        "La cuenta resumen de operaciones comerciales y el cuadro de financiación, únicamente",
+        "El balance, la memoria y el estado de cambios en el patrimonio neto"
+      ],
+      "correct": 1,
+      "exp": "El art. 112 del RD 500/1990 dispone que, a efectos de su integración en el presupuesto general, los estados de previsión de las sociedades mercantiles serán los de «a) La cuenta de explotación», «b) La cuenta de otros resultados», «c) La cuenta de pérdidas y ganancias» y «d) El presupuesto de capital». La cuenta resumen de operaciones comerciales y el cuadro de financiación acompañan a los presupuestos de los organismos autónomos comerciales, industriales, financieros o análogos (art. 106).",
+      "fuente": "Art. 112 RD 500/1990 (presupuestos de las entidades locales)",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): RD 500/1990 (BOE-A-1990-9664), consolidado descargado el 22-oct-2026, sin modificaciones desde 1990. El texto del art. 112 es el que dice la pregunta y está dentro del epígrafe, pero el artículo SE HA QUEDADO ANTIGUO: remite al art. 145.1 c) de la derogada Ley 39/1988 y enumera «cuenta de explotación» y «cuenta de otros resultados», que el art. 113.1 manda elaborar «de acuerdo con el Plan General de Contabilidad vigente para las Empresas españolas»; el PGC vigente (RD 1514/2007) ya no tiene esos estados, solo la cuenta de pérdidas y ganancias. Además, el distractor «balance, memoria y estado de cambios en el patrimonio neto» describe parte de las cuentas que hoy elaboran de verdad esas sociedades según la normativa mercantil (art. 209.3 TRLRHL), lo que lo hace engañoso. La pregunta da por vigente algo superado. Rechazada. | Revisor 2 (CONFIRMADA): Art. 112 RD 500/1990 literal (cuenta de explotación, de otros resultados, de pérdidas y ganancias y presupuesto de capital). El precepto no ha cambiado y el TRLRHL (arts. 164.1.c y 168.3) no lo contradice. Aviso: la «cuenta de explotación» y la «cuenta de otros resultados» son terminología contable antigua, pero la pregunta es literal y está vigente. Los distractores son falsos, y uno corresponde al art. 106. Esta pregunta y la anterior se complementan sin delatarse.",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "Según el art. 218.3 del TRLRHL, ¿qué debe remitir anualmente el órgano interventor al Tribunal de Cuentas?",
+      "options": [
+        "El presupuesto general aprobado inicialmente y las reclamaciones que se hayan presentado",
+        "Las relaciones de órdenes de pago expedidas durante el ejercicio",
+        "Los justificantes de todos los pagos a justificar y anticipos de caja fija del ejercicio",
+        "Las resoluciones y acuerdos del Presidente y del Pleno contrarios a los reparos formulados y un resumen de las principales anomalías en materia de ingresos"
+      ],
+      "correct": 3,
+      "exp": "El art. 218.3 del TRLRHL dispone: «El órgano interventor remitirá anualmente al Tribunal de Cuentas todas las resoluciones y acuerdos adoptados por el Presidente de la Entidad Local y por el Pleno de la Corporación contrarios a los reparos formulados, así como un resumen de las principales anomalías detectadas en materia de ingresos». Debe acompañar, en su caso, los informes justificativos de la corporación. Es distinto del informe al Pleno sobre las resoluciones del Presidente contrarias a los reparos (art. 218.1).",
+      "fuente": "Art. 218.3 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): TRLRHL (BOE-A-2004-4214), consolidado descargado el 22-oct-2026 (última actualización 07/10/2026). Contenido correcto: art. 218.3 (redacción de la Ley 27/2013) literal y opción marcada cierta, distractores falsos, sin duplicado (la existente es del 218.1). FUERA DEL EPÍGRAFE: el epígrafe oficial del tema 13 (anexo I, BOPZ 170/2026) es «el presupuesto de las entidades locales: (contenido, estructura, aprobación y ejecución. Documentos contables)» más la aprobación del presupuesto en la ley de capitalidad. El control interno y externo (Cap. IV del Título VI, arts. 213-223) y la cuenta general no aparecen en ese epígrafe ni en ningún otro del anexo I (búsqueda de «control», «fiscaliz», «cuenta general», «Tribunal de Cuentas» y «contabilidad» en el anexo: cero resultados). Nota para la sesión principal: esto choca con el criterio anterior del banco (lote t13 F, arts. 200-219, y fuentes.json, que toman todo el Título VI como tema 13). Si se mantiene ese criterio, el contenido de la pregunta está verificado y sería confirmable; con la regla de octubre de 2026 («No se pregunta nada fuera de él»), y ante la duda, la rechazo. | Revisor 2 (CONFIRMADA): Art. 218.3 TRLRHL literal, en la redacción de la Ley 27/2013, vigente desde 31/12/2013. Los distractores son falsos. La pregunta del banco sobre el art. 218.1 da como respuesta el resumen de anomalías de ingresos, que vuelve a aparecer aquí, pero esta pregunta es sobre la remisión anual al Tribunal de Cuentas y no la repite. Entra en el alcance del título VI, cap. VII.",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "Según el art. 219.4 del TRLRHL, las entidades locales pueden acordar en Pleno sustituir la fiscalización previa de derechos por:",
+      "options": [
+        "Un informe anual del Tesorero sobre la recaudación del ejercicio",
+        "La fiscalización externa que realiza el Tribunal de Cuentas",
+        "La inherente a la toma de razón en contabilidad y actuaciones comprobatorias posteriores con técnicas de muestreo o auditoría",
+        "El control de eficacia de los servicios de recaudación"
+      ],
+      "correct": 2,
+      "exp": "El art. 219.4 del TRLRHL permite determinar, mediante acuerdo del Pleno, «la sustitución de la fiscalización previa de derechos por la inherente a la toma de razón en contabilidad y por actuaciones comprobatorias posteriores mediante la utilización de técnicas de muestreo o auditoría». La toma de razón es la diligencia que acredita el registro contable de cada documento (regla 38 de la Instrucción del modelo normal de contabilidad local).",
+      "fuente": "Art. 219.4 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): TRLRHL (BOE-A-2004-4214), consolidado descargado el 22-oct-2026 (última actualización 07/10/2026). Contenido correcto: art. 219.4 literal y opción marcada cierta, distractores falsos, sin duplicado. El vínculo con la toma de razón de la regla 38 de la Instrucción es real, pero el objeto del precepto es la fiscalización previa de derechos (control interno). FUERA DEL EPÍGRAFE: el epígrafe oficial del tema 13 (anexo I, BOPZ 170/2026) es «el presupuesto de las entidades locales: (contenido, estructura, aprobación y ejecución. Documentos contables)» más la aprobación del presupuesto en la ley de capitalidad. El control interno y externo (Cap. IV del Título VI, arts. 213-223) y la cuenta general no aparecen en ese epígrafe ni en ningún otro del anexo I (búsqueda de «control», «fiscaliz», «cuenta general», «Tribunal de Cuentas» y «contabilidad» en el anexo: cero resultados). Nota para la sesión principal: esto choca con el criterio anterior del banco (lote t13 F, arts. 200-219, y fuentes.json, que toman todo el Título VI como tema 13). Si se mantiene ese criterio, el contenido de la pregunta está verificado y sería confirmable; con la regla de octubre de 2026 («No se pregunta nada fuera de él»), y ante la duda, la rechazo. | Revisor 2 (CONFIRMADA): Art. 219.4 TRLRHL literal y vigente: lo acuerda el Pleno, y la fiscalización se sustituye por la toma de razón en contabilidad y comprobaciones posteriores por muestreo o auditoría. Los distractores son falsos. Las preguntas del banco tratan de los arts. 219.1 y 219.2, no del 219.4.",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "Según el art. 223.2 del TRLRHL, ¿antes de qué fecha deben rendir las entidades locales al Tribunal de Cuentas la cuenta general del ejercicio económico anterior?",
+      "options": [
+        "Antes del 15 de mayo de cada año",
+        "Antes del 15 de octubre de cada año",
+        "Antes del 1 de junio de cada año",
+        "Antes del 1 de octubre de cada año"
+      ],
+      "correct": 1,
+      "exp": "El art. 223.2 del TRLRHL dispone que las entidades locales «rendirán al citado Tribunal, antes del día 15 de octubre de cada año, la cuenta general a que se refiere el artículo 209 de esta ley correspondiente al ejercicio económico anterior». Las otras fechas son de la tramitación interna del art. 212: el Presidente rinde los estados y cuentas antes del 15 de mayo, la Comisión Especial de Cuentas informa antes del 1 de junio y el Pleno puede aprobar la cuenta general antes del 1 de octubre.",
+      "fuente": "Art. 223.2 TRLRHL (RDLeg 2/2004)",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): TRLRHL (BOE-A-2004-4214), consolidado descargado el 22-oct-2026 (última actualización 07/10/2026). Contenido correcto: art. 223.2 literal («antes del día 15 de octubre de cada año»), fechas del art. 212 de los distractores bien explicadas, sin duplicado. Es control externo y rendición de la cuenta general. FUERA DEL EPÍGRAFE: el epígrafe oficial del tema 13 (anexo I, BOPZ 170/2026) es «el presupuesto de las entidades locales: (contenido, estructura, aprobación y ejecución. Documentos contables)» más la aprobación del presupuesto en la ley de capitalidad. El control interno y externo (Cap. IV del Título VI, arts. 213-223) y la cuenta general no aparecen en ese epígrafe ni en ningún otro del anexo I (búsqueda de «control», «fiscaliz», «cuenta general», «Tribunal de Cuentas» y «contabilidad» en el anexo: cero resultados). Nota para la sesión principal: esto choca con el criterio anterior del banco (lote t13 F, arts. 200-219, y fuentes.json, que toman todo el Título VI como tema 13). Si se mantiene ese criterio, el contenido de la pregunta está verificado y sería confirmable; con la regla de octubre de 2026 («No se pregunta nada fuera de él»), y ante la duda, la rechazo. | Revisor 2 (CONFIRMADA): Art. 223.2 TRLRHL literal: antes del 15 de octubre. Los distractores son las fechas del art. 212.1, 212.2 y 212.4, que he comprobado (15 de mayo, 1 de junio, 1 de octubre), y ninguna es la de rendición al Tribunal de Cuentas. Zaragoza no tiene especialidad. El banco tiene el art. 223.1 (alcance) y el 212.5, pero no esta fecha.",
+      "_motivo": "veredicto RECHAZADA"
+    }
+  ]
+}

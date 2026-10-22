@@ -1,0 +1,607 @@
+{
+ "slug": "aux-admin-zaragoza",
+ "tema": 13,
+ "lote": "t13-1",
+ "preguntas": [
+  {
+   "q": "Según la Instrucción del modelo normal de contabilidad local (Orden HAP/1781/2013), ¿quién establece los documentos contables que, en su caso, se utilicen para registrar las operaciones?",
+   "options": [
+    "La propia entidad local, en función de sus necesidades de información y de cómo tramite cada tipo de operación",
+    "La Intervención General de la Administración del Estado, con modelos de uso obligatorio para todas las entidades locales",
+    "El Tribunal de Cuentas, al aprobar los formatos de rendición de la cuenta general",
+    "La comunidad autónoma que ejerza la tutela financiera sobre la entidad local"
+   ],
+   "correct": 0,
+   "exp": "La regla 36.3 de la Instrucción dispone que los documentos contables que, en su caso, se utilicen «se establecerán por la propia entidad local en función de sus necesidades de información y de la operatoria que se siga en la tramitación de los diferentes tipos de operaciones». La Instrucción no impone modelos oficiales de documento contable: no los fija la IGAE, ni el Tribunal de Cuentas, ni la comunidad autónoma.",
+   "fuente": "Regla 36.3 ICAL normal (Orden HAP/1781/2013)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Orden HAP/1781/2013 (BOE-A-2013-10268), consolidado descargado el 22-oct-2026: vigente, sin derogación, última actualización 03/08/2021 (Orden HAC/836/2021); en vigor desde 1-ene-2015. Regla 36.3 literal: los documentos contables «se establecerán por la propia entidad local en función de sus necesidades de información y de la operatoria...». Las otras tres son falsas: la Instrucción no impone modelos, y el art. 203.1 d) TRLRHL atribuye la estructura de los documentos contables al Ministerio, no a la IGAE ni al Tribunal de Cuentas ni a la CA. Dentro del epígrafe («Documentos contables»), sin duplicado en temas 13 y 21. | Revisor 2 (CONFIRMADA): Regla 36.3 ICAL normal (Orden HAP/1781/2013, BOE-A-2013-10268, comprobado por la API de datos abiertos; consolidado actualizado el 03/08/2021) dice literalmente que los documentos contables los establece la propia entidad local. Los otros tres órganos no aparecen en la regla. Es el núcleo de «Documentos contables» del epígrafe. Zaragoza aplica el modelo normal. No hay pregunta igual en el banco."
+  },
+  {
+   "q": "Según la regla 38.1 de la Instrucción del modelo normal de contabilidad local (Orden HAP/1781/2013), la diligencia de toma de razón que debe figurar en todo documento que haya producido anotaciones en contabilidad acreditará, como mínimo:",
+   "options": [
+    "La fecha, el órgano que autorizó el gasto y la aplicación presupuestaria a la que se imputa",
+    "El número de expediente, el tercero afectado y la firma del ordenador de pagos",
+    "Los importes bruto y líquido, la identificación del acreedor y la aplicación presupuestaria",
+    "La fecha, el número de asiento y el importe con que el documento quedó registrado individualizadamente"
+   ],
+   "correct": 3,
+   "exp": "La regla 38.1 exige en todo documento que haya producido anotaciones una diligencia de toma de razón, certificada por el responsable de la contabilidad, «acreditativa, como mínimo, de la fecha, el número de asiento y el importe con que dicho documento hubiese quedado registrado individualizadamente». Los importes bruto y líquido, el acreedor y la aplicación presupuestaria son el contenido mínimo de las relaciones de órdenes de pago (art. 66.1 RD 500/1990), no de la toma de razón.",
+   "fuente": "Regla 38.1 ICAL normal (Orden HAP/1781/2013)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Orden HAP/1781/2013 (BOE-A-2013-10268), consolidado descargado el 22-oct-2026: vigente, sin derogación, última actualización 03/08/2021 (Orden HAC/836/2021); en vigor desde 1-ene-2015. Regla 38.1 literal: diligencia «acreditativa, como mínimo, de la fecha, el número de asiento y el importe con que dicho documento hubiese quedado registrado individualizadamente». Distractores falsos; la mención del art. 66.1 RD 500/1990 en la explicación es exacta (importes bruto y líquido, acreedor y aplicación presupuestaria). Sin duplicado. | Revisor 2 (CONFIRMADA): Regla 38.1 ICAL normal: la toma de razón acredita «como mínimo, de la fecha, el número de asiento y el importe». El distractor de importes bruto y líquido, acreedor y aplicación presupuestaria es el contenido del art. 66.1 RD 500/1990, que he comprobado; los otros dos son inventados. La explicación es exacta. No hay ninguna pregunta de toma de razón en el banco."
+  },
+  {
+   "q": "Según la regla 38.1 de la Instrucción del modelo normal de contabilidad local (Orden HAP/1781/2013), ¿quién certifica la diligencia de toma de razón?",
+   "options": [
+    "El Presidente de la entidad, siempre mediante firma manuscrita",
+    "El Tesorero, una vez realizado el pago material",
+    "El responsable de la contabilidad, y cabe hacerla mediante certificación mecánica del equipo informático",
+    "El Secretario de la corporación, como fedatario público"
+   ],
+   "correct": 2,
+   "exp": "La regla 38.1 dice que en todo documento que haya producido anotaciones «deberá figurar una diligencia de toma de razón, certificada por el responsable de la contabilidad», y añade que «podrá realizarse mediante certificación mecánica efectuada por el propio equipo informático en que esté soportado el SICAL-Normal». No la certifican el Presidente, el Tesorero ni el Secretario.",
+   "fuente": "Regla 38.1 ICAL normal (Orden HAP/1781/2013)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Orden HAP/1781/2013 (BOE-A-2013-10268), consolidado descargado el 22-oct-2026: vigente, sin derogación, última actualización 03/08/2021 (Orden HAC/836/2021); en vigor desde 1-ene-2015. Regla 38.1: «certificada por el responsable de la contabilidad» y «podrá realizarse mediante certificación mecánica efectuada por el propio equipo informático en que esté soportado el SICAL-Normal». Presidente, Tesorero y Secretario no aparecen. Complementa sin solaparse con la pregunta anterior de la misma regla. | Revisor 2 (CONFIRMADA): Regla 38.1, último inciso, comprobada: la diligencia la certifica «el responsable de la contabilidad» y «podrá realizarse mediante certificación mecánica». Presidente, Tesorero y Secretario no aparecen. La respuesta no cambia en un municipio de gran población, donde la contabilidad está separada de la fiscalización (art. 133.b LBRL), porque la regla habla del responsable de la contabilidad y no del Interventor. Pregunta por otro aspecto que la anterior y no la delata."
+  },
+  {
+   "q": "Según la regla 38.2 de la Instrucción del modelo normal de contabilidad local (Orden HAP/1781/2013), cuando las operaciones se registran a partir de datos contenidos en soportes electrónicos, informáticos o telemáticos, la diligencia de toma de razón:",
+   "options": [
+    "Debe extenderse además en papel y conservarse junto al justificante de la operación",
+    "Se sustituye por procesos de validación en el sistema que dejan referenciadas las operaciones con las anotaciones que han producido",
+    "Desaparece, sin que la Instrucción prevea ningún otro mecanismo que la sustituya",
+    "Se sustituye por un informe trimestral de la Intervención al Pleno de la corporación"
+   ],
+   "correct": 1,
+   "exp": "La regla 38.2 establece que, en ese caso, «la diligencia de toma de razón se sustituirá por los oportunos procesos de validación en el sistema, mediante los cuales dichas operaciones queden referenciadas en relación con las anotaciones contables que hayan producido». No se exige duplicado en papel, no queda sin sustituto, y la información periódica al Pleno es otra cosa (art. 207 TRLRHL).",
+   "fuente": "Regla 38.2 ICAL normal (Orden HAP/1781/2013)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Orden HAP/1781/2013 (BOE-A-2013-10268), consolidado descargado el 22-oct-2026: vigente, sin derogación, última actualización 03/08/2021 (Orden HAC/836/2021); en vigor desde 1-ene-2015. Regla 38.2 literal: «la diligencia de toma de razón se sustituirá por los oportunos procesos de validación en el sistema...». Distractores falsos; la referencia al art. 207 TRLRHL (información periódica al Pleno) es correcta. | Revisor 2 (CONFIRMADA): Regla 38.2 ICAL normal literal: la toma de razón «se sustituirá por los oportunos procesos de validación en el sistema». Los otros tres distractores son falsos. La referencia al art. 207 TRLRHL de la explicación es correcta (información de la Intervención al Pleno)."
+  },
+  {
+   "q": "Según la regla 37 de la Instrucción del modelo normal de contabilidad local (Orden HAP/1781/2013), cuando las operaciones se incorporan al sistema mediante soportes electrónicos, informáticos o telemáticos, la autorización mediante diligencias, firmas manuscritas o sellos:",
+   "options": [
+    "Podrá sustituirse por autorizaciones y controles de las propias aplicaciones informáticas que garanticen la identificación y la competencia de quien autoriza",
+    "Sigue siendo obligatoria en todo caso, aunque los documentos lleven firma electrónica",
+    "Solo puede sustituirse si lo autoriza expresamente la Intervención General de la Administración del Estado",
+    "Se sustituye siempre por la diligencia de toma de razón del responsable de la contabilidad"
+   ],
+   "correct": 0,
+   "exp": "La regla 37.2 dispone que, en ese caso, los procedimientos de autorización y control mediante diligencias, firmas manuscritas, sellos u otros medios manuales «podrán ser sustituidos por autorizaciones y controles establecidos en las propias aplicaciones informáticas que garanticen la identificación y el ejercicio de la competencia por quien la tenga atribuida». La firma manuscrita solo es necesaria en la captura directa de datos de documentos (regla 37.1). La toma de razón (regla 38) es un trámite distinto de la autorización.",
+   "fuente": "Regla 37.2 ICAL normal (Orden HAP/1781/2013)",
+   "confianza": "alta",
+   "veredicto": "DUDOSA",
+   "notaRevision": "Revisor 1 (DUDOSA): Orden HAP/1781/2013 (BOE-A-2013-10268), consolidado descargado el 22-oct-2026: vigente, sin derogación, última actualización 03/08/2021 (Orden HAC/836/2021); en vigor desde 1-ene-2015. Regla 37.2 literal y la opción marcada es la única correcta; los distractores son falsos. Pero la explicación no es exacta: dice que «la firma manuscrita solo es necesaria en la captura directa de datos (regla 37.1)», y la regla 37.1 no exige firma manuscrita, sino autorización «mediante diligencias, firmas manuscritas, sellos u otros medios manuales» (cualquiera de ellos). Arreglo propuesto: sustituir esa frase por «En la captura directa de datos, en cambio, los documentos deben estar autorizados mediante diligencias, firmas manuscritas, sellos u otros medios manuales por quien tenga facultades para ello (regla 37.1)». | Revisor 2 (DUDOSA): La respuesta es correcta y los distractores son falsos según la regla 37.2 ICAL normal («podrán ser sustituidos por autorizaciones y controles establecidos en las propias aplicaciones informáticas...»). Pero la explicación no es exacta: «La firma manuscrita solo es necesaria en la captura directa (regla 37.1)». La regla 37.1 no exige firma manuscrita, sino autorización «mediante diligencias, firmas manuscritas, sellos u otros medios manuales», a elegir. Propuesta de arreglo: «En la captura directa (regla 37.1) los documentos deben estar autorizados por medios manuales (diligencias, firmas manuscritas, sellos u otros)». Además, el enunciado cita la regla 37 sin apartado y la fuente dice 37.2; mejor poner «regla 37.2» también en el enunciado."
+  },
+  {
+   "q": "Según la regla 39.3 de la Instrucción del modelo normal de contabilidad local (Orden HAP/1781/2013), ¿durante cuánto tiempo deben conservarse, con carácter general, los justificantes de las operaciones?",
+   "options": [
+    "Cuatro años desde la aprobación de la cuenta general por el Pleno",
+    "Cinco años desde la fecha del asiento contable de la operación",
+    "Diez años desde el cierre del ejercicio al que correspondan las operaciones",
+    "Seis años desde la remisión al órgano de control externo de las cuentas anuales donde figuren las operaciones"
+   ],
+   "correct": 3,
+   "exp": "La regla 39.3 obliga a conservar los justificantes, en papel o en soporte electrónico, «durante un plazo de seis años contados desde la fecha de remisión, al órgano u órganos de control externo, de las cuentas anuales donde se pongan de manifiesto las respectivas operaciones». Hay dos salvedades: que la justificación esté sometida a otros plazos o que se haya interrumpido la prescripción de la posible responsabilidad contable. Los registros contables se conservan también seis años (regla 40.1).",
+   "fuente": "Regla 39.3 ICAL normal (Orden HAP/1781/2013)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Orden HAP/1781/2013 (BOE-A-2013-10268), consolidado descargado el 22-oct-2026: vigente, sin derogación, última actualización 03/08/2021 (Orden HAC/836/2021); en vigor desde 1-ene-2015. Regla 39.3 literal: seis años «contados desde la fecha de remisión, al órgano u órganos de control externo, de las cuentas anuales...», con las dos salvedades que recoge la explicación. Regla 40.1 (registros, también seis años) comprobada. Distractores (4, 5 y 10 años con otros cómputos) falsos. | Revisor 2 (CONFIRMADA): Regla 39.3, párrafo primero, comprobada: seis años contados desde la remisión de las cuentas anuales al órgano u órganos de control externo, con las dos salvedades que cita la explicación. Ninguno de los distractores (cuatro años desde la aprobación, cinco desde el asiento, diez desde el cierre) aparece en la Instrucción. Lo que dice la explicación de la regla 40.1 (seis años para los registros) es exacto."
+  },
+  {
+   "q": "Según la regla 39.3 de la Instrucción del modelo normal de contabilidad local (Orden HAP/1781/2013), la documentación justificativa de las valoraciones asignadas a activos y pasivos deberá conservarse:",
+   "options": [
+    "Seis años desde su emisión, igual que el resto de los justificantes",
+    "Hasta la aprobación por el Pleno de la cuenta general del ejercicio siguiente",
+    "Al menos durante el período en que esos activos y pasivos figuren en el balance",
+    "Indefinidamente, con envío obligatorio a un archivo histórico de documentos"
+   ],
+   "correct": 2,
+   "exp": "El segundo párrafo de la regla 39.3 establece que, sin perjuicio del plazo general de seis años, «la documentación justificativa de las valoraciones asignadas a activos y pasivos deberá conservarse, al menos, durante el período en que dichos activos y pasivos figuren en balance». El envío a un archivo histórico no es obligatorio en todo caso: solo impide la destrucción cuando esté establecido (regla 39.4).",
+   "fuente": "Regla 39.3 ICAL normal (Orden HAP/1781/2013)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Orden HAP/1781/2013 (BOE-A-2013-10268), consolidado descargado el 22-oct-2026: vigente, sin derogación, última actualización 03/08/2021 (Orden HAC/836/2021); en vigor desde 1-ene-2015. Regla 39.3, párrafo segundo, literal: «deberá conservarse, al menos, durante el período en que dichos activos y pasivos figuren en balance». El distractor de los seis años desde su emisión es falso (el cómputo general es desde la remisión de las cuentas y esta documentación tiene regla propia); el del archivo histórico también (regla 39.4 solo impide destruir cuando ese envío esté establecido). | Revisor 2 (CONFIRMADA): Regla 39.3, párrafo segundo, literal: la documentación de las valoraciones se conserva «al menos, durante el período en que dichos activos y pasivos figuren en balance». Los distractores son falsos, y la matización de la explicación sobre el archivo histórico (regla 39.4, párrafo segundo) es exacta. Pregunta por otra cosa que la anterior."
+  },
+  {
+   "q": "Según la regla 39.4 de la Instrucción del modelo normal de contabilidad local (Orden HAP/1781/2013), cumplidos los plazos de conservación, ¿qué se requiere para destruir los justificantes de las operaciones?",
+   "options": [
+    "Un acuerdo expreso del Pleno, previo informe de la Intervención",
+    "Comunicarlo antes al órgano u órganos de control externo que hubieran debido actuar, sin que estos hayan puesto impedimentos",
+    "La autorización de la Intervención General de la Administración del Estado",
+    "Nada: una vez transcurrido el plazo, la destrucción procede de forma automática"
+   ],
+   "correct": 1,
+   "exp": "La regla 39.4 permite destruir los justificantes cumplidos los plazos, «previa comunicación al órgano u órganos de control externo a que hubiese correspondido actuar y sin que estos hayan manifestado impedimentos al respecto». No pide acuerdo del Pleno ni autorización de la IGAE, y la destrucción no es automática. Además, no procede destruirlos cuando, por su naturaleza, esté establecido su envío a un archivo histórico de documentos.",
+   "fuente": "Regla 39.4 ICAL normal (Orden HAP/1781/2013)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Orden HAP/1781/2013 (BOE-A-2013-10268), consolidado descargado el 22-oct-2026: vigente, sin derogación, última actualización 03/08/2021 (Orden HAC/836/2021); en vigor desde 1-ene-2015. Regla 39.4 literal: «previa comunicación al órgano u órganos de control externo a que hubiese correspondido actuar y sin que estos hayan manifestado impedimentos al respecto». No se exige acuerdo plenario ni autorización de la IGAE y no es automática. Explicación exacta (incluida la excepción del archivo histórico). | Revisor 2 (CONFIRMADA): Regla 39.4 ICAL normal literal: hace falta comunicarlo antes al órgano u órganos de control externo, sin que estos pongan impedimentos. No se pide acuerdo del Pleno ni autorización de la IGAE, y la destrucción no es automática. La salvedad del archivo histórico que recoge la explicación es correcta."
+  },
+  {
+   "q": "Según la regla 39.2 de la Instrucción del modelo normal de contabilidad local (Orden HAP/1781/2013), si los justificantes y documentos contables se conservan en soportes electrónicos, informáticos o telemáticos, las copias obtenidas de esos soportes:",
+   "options": [
+    "Gozarán de la validez y eficacia de los originales, si queda garantizada su autenticidad, integridad, calidad, protección y conservación",
+    "Tienen solo valor informativo, porque únicamente hace fe el original en papel",
+    "Necesitan una compulsa del Secretario de la corporación para tener validez",
+    "Solo valen si el original se extendió desde el principio en soporte electrónico"
+   ],
+   "correct": 0,
+   "exp": "La regla 39.2 admite la conservación en esos soportes «con independencia del tipo de soporte en que originalmente se hubieran plasmado, siempre que quede garantizada su autenticidad, integridad, calidad, protección y conservación», y añade: «En estos casos, las copias obtenidas de dichos soportes gozarán de la validez y eficacia de los documentos originales». No hace falta compulsa, y da igual que el original fuera en papel.",
+   "fuente": "Regla 39.2 ICAL normal (Orden HAP/1781/2013)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Orden HAP/1781/2013 (BOE-A-2013-10268), consolidado descargado el 22-oct-2026: vigente, sin derogación, última actualización 03/08/2021 (Orden HAC/836/2021); en vigor desde 1-ene-2015. Regla 39.2 literal: conservación en soportes electrónicos «con independencia del tipo de soporte en que originalmente se hubieran plasmado, siempre que quede garantizada su autenticidad, integridad, calidad, protección y conservación», y «las copias obtenidas de dichos soportes gozarán de la validez y eficacia de los documentos originales». Distractores falsos. | Revisor 2 (CONFIRMADA): Regla 39.2 ICAL normal literal: las copias «gozarán de la validez y eficacia de los documentos originales», siempre que se garanticen autenticidad, integridad, calidad, protección y conservación, «con independencia del tipo de soporte en que originalmente se hubieran plasmado». Por eso el distractor del original electrónico es falso. Los demás distractores también lo son."
+  },
+  {
+   "q": "Según la regla 36.2 de la Instrucción del modelo normal de contabilidad local (Orden HAP/1781/2013), el registro de las operaciones en el SICAL-Normal:",
+   "options": [
+    "Solo puede hacerse por captura directa de los datos del justificante en papel",
+    "Debe hacerse siempre operación por operación, cada una con su propio documento contable",
+    "Se hace una sola vez, al cierre del ejercicio, con los datos de la liquidación",
+    "Podrá hacerse de forma individual por cada operación o mediante incorporación masiva de datos de grupos de operaciones"
+   ],
+   "correct": 3,
+   "exp": "La regla 36.2 admite dos procedimientos, la captura directa de los datos del justificante o del documento contable y la incorporación por procedimientos o soportes electrónicos, informáticos o telemáticos, y añade que en ambos «el registro de las operaciones en el SICAL-Normal podrá realizarse de forma individual por cada operación o, en su caso, mediante incorporación masiva de datos relativos a grupos de operaciones». No exige un documento contable por operación: los documentos contables se usan «en su caso» (regla 36.3).",
+   "fuente": "Regla 36.2 ICAL normal (Orden HAP/1781/2013)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Orden HAP/1781/2013 (BOE-A-2013-10268), consolidado descargado el 22-oct-2026: vigente, sin derogación, última actualización 03/08/2021 (Orden HAC/836/2021); en vigor desde 1-ene-2015. Regla 36.2, párrafo final, literal: registro «de forma individual por cada operación o, en su caso, mediante incorporación masiva de datos relativos a grupos de operaciones». Los dos procedimientos de las letras a) y b) excluyen la exclusividad de la captura en papel; distractores falsos. | Revisor 2 (CONFIRMADA): Regla 36.2, párrafo final, literal: el registro puede ser individual o «mediante incorporación masiva de datos relativos a grupos de operaciones». La regla admite tanto la captura directa como la vía electrónica, así que el distractor de «solo captura directa» es falso. El de un documento contable por operación cae por la regla 36.3, y el del registro único al cierre no tiene base."
+  },
+  {
+   "q": "Según la quinta parte del Plan General de Contabilidad Pública adaptado a la Administración local, anexo a la Instrucción del modelo normal (Orden HAP/1781/2013), las cuentas del grupo 0, «Cuentas de control presupuestario»:",
+   "options": [
+    "Recogen las obligaciones y los derechos ya reconocidos, y su uso es obligatorio para todas las entidades",
+    "Registran los cobros y pagos de la tesorería, y su uso es obligatorio en los municipios de gran población",
+    "Reflejan los créditos y previsiones en las fases anteriores al reconocimiento de la obligación o del derecho, y su uso es facultativo",
+    "Recogen el inmovilizado y el endeudamiento de la entidad, y su uso es facultativo"
+   ],
+   "correct": 2,
+   "exp": "La quinta parte del Plan (definiciones y relaciones contables) dice del grupo 0: «Reflejan el movimiento de los créditos y previsiones que figuran en el presupuesto en aquellas fases que precedan al reconocimiento de la obligación o del derecho, efectos estos que se recogen en cuentas del grupo 4. La utilización de este grupo es facultativa por parte de la entidad». El reconocimiento de obligaciones y derechos va, por tanto, al grupo 4, no al 0.",
+   "fuente": "Quinta parte, grupo 0, PGCP adaptado a la Administración local (anexo de la Instrucción del modelo normal de contabilidad local, Orden HAP/1781/2013)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Orden HAP/1781/2013 (BOE-A-2013-10268), consolidado descargado el 22-oct-2026: vigente, sin derogación, última actualización 03/08/2021 (Orden HAC/836/2021); en vigor desde 1-ene-2015. Anexo (PGCP adaptado a la Administración local, que el art. único de la Orden y la propia Instrucción integran como anexo), quinta parte, grupo 0, literal: «Reflejan el movimiento de los créditos y previsiones ... en aquellas fases que precedan al reconocimiento de la obligación o del derecho, efectos estos que se recogen en cuentas del grupo 4. La utilización de este grupo es facultativa por parte de la entidad». Confirmado también en la introducción («el grupo 0 ... tiene carácter opcional»). Distractores falsos. Dentro del epígrafe: son las cuentas de control de la ejecución del presupuesto. | Revisor 2 (CONFIRMADA): Quinta parte del PGCP adaptado (anexo de la ICAL normal), grupo 0, comprobada: «Reflejan el movimiento de los créditos y previsiones ... en aquellas fases que precedan al reconocimiento de la obligación o del derecho ... La utilización de este grupo es facultativa». La introducción de la Orden también lo califica de «opcional». Los tres distractores son falsos, también el de «obligatorio en municipios de gran población». Entra en el epígrafe como contabilidad de la ejecución del presupuesto, aunque está en el límite."
+  },
+  {
+   "q": "El Plan General de Contabilidad Pública adaptado a la Administración local, anexo a la Instrucción del modelo normal (Orden HAP/1781/2013), llama «fase A de la ejecución del presupuesto» a:",
+   "options": [
+    "Los anticipos de caja fija librados",
+    "Las autorizaciones de gasto aprobadas",
+    "Las anulaciones de créditos por baja",
+    "La aprobación inicial del presupuesto"
+   ],
+   "correct": 1,
+   "exp": "En la quinta parte del Plan, la cuenta 004 «Presupuesto de gastos: gastos autorizados» se abona por «las autorizaciones de gasto aprobadas –fase A de la ejecución del presupuesto– cuando no se haya realizado retención de crédito». La autorización es la primera de las cuatro fases de gestión del gasto (art. 184.1 TRLRHL y art. 52 RD 500/1990). En el mismo Plan, los créditos dispuestos son la «fase D» (cuenta 005).",
+   "fuente": "Quinta parte, cuenta 004, PGCP adaptado a la Administración local (anexo de la Instrucción del modelo normal de contabilidad local, Orden HAP/1781/2013)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Orden HAP/1781/2013 (BOE-A-2013-10268), consolidado descargado el 22-oct-2026: vigente, sin derogación, última actualización 03/08/2021 (Orden HAC/836/2021); en vigor desde 1-ene-2015. Quinta parte del PGCP, cuenta 004, movimiento a.1): «por las autorizaciones de gasto aprobadas –fase A de la ejecución del presupuesto– cuando no se haya realizado retención de crédito»; y cuenta 005: «créditos dispuestos –fase D de la ejecución del presupuesto». Art. 184.1 TRLRHL y art. 52 RD 500/1990 comprobados. No duplica la pregunta existente «primera fase de la gestión del gasto (art. 184.1 a)», porque pregunta por la denominación contable de la fase. | Revisor 2 (CONFIRMADA): Quinta parte del PGCP, cuenta 004, apartado a.1) literal: «por las autorizaciones de gasto aprobadas –fase A de la ejecución del presupuesto–». La cuenta 005 habla de la «fase D», y el art. 52 RD 500/1990 recoge las cuatro fases; las dos cosas están comprobadas. El banco ya tiene una pregunta sobre el art. 184.1.a) TRLRHL (primera fase = autorización), muy cercana pero no idéntica: esta pregunta por el nombre «fase A» del Plan contable. Que la letra A delate la respuesta es un defecto menor."
+  },
+  {
+   "q": "Según el art. 10.2 del RD 500/1990, ¿qué recursos pueden afectarse a fines determinados?",
+   "options": [
+    "Solo los que, por su naturaleza o condiciones específicas, tengan una relación objetiva y directa con el gasto a financiar, salvo lo que dispongan las leyes",
+    "Cualquier recurso, siempre que así lo acuerde el Pleno en las bases de ejecución del presupuesto",
+    "Solo los recursos procedentes de operaciones de crédito concertadas en el ejercicio",
+    "Ninguno, porque todos los recursos de la entidad se destinan al conjunto de sus obligaciones sin excepción"
+   ],
+   "correct": 0,
+   "exp": "El art. 10.2 del RD 500/1990 dispone: «Sólo podrán afectarse a fines determinados aquellos recursos que, por su naturaleza o condiciones específicas, tengan una relación objetiva y directa con el gasto a financiar, salvo en los supuestos expresamente establecidos en las Leyes». La regla general (art. 10.1 y art. 165.2 TRLRHL) es que los recursos se destinan al conjunto de las obligaciones, pero con la excepción de los ingresos afectados; por eso no es cierto que no quepa afectar ninguno. Tampoco basta un acuerdo del Pleno.",
+   "fuente": "Art. 10.2 RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): RD 500/1990 (BOE-A-1990-9664), consolidado descargado el 22-oct-2026, sin modificaciones desde 1990. Art. 10.2 literal. Art. 10.1 y art. 165.2 TRLRHL comprobados (regla general con excepción de ingresos afectados). Distractores falsos. No choca con el TRLRHL. Sin duplicado (la existente del art. 165.2 pregunta por la excepción, no por qué recursos pueden afectarse). | Revisor 2 (CONFIRMADA): Art. 10.2 RD 500/1990 literal (el texto no ha cambiado desde 27/04/1990). La regla general del art. 10.1 coincide con el art. 165.2 TRLRHL vigente, que he comprobado, así que el TRLRHL no lo desplaza. Los distractores son falsos. El banco solo tiene el art. 165.2 TRLRHL (cuál es la excepción), que no es lo mismo."
+  },
+  {
+   "q": "Según el art. 18.1 b) del RD 500/1990, la liquidación del presupuesto del ejercicio anterior y el avance de la del corriente que se unen al presupuesto irán suscritas por:",
+   "options": [
+    "El Presidente de la entidad, junto con la memoria explicativa",
+    "El Tesorero, con el visto bueno del Presidente",
+    "El Secretario de la corporación, como fedatario público",
+    "El Interventor, y confeccionadas conforme dispone la Instrucción de Contabilidad"
+   ],
+   "correct": 3,
+   "exp": "El art. 18.1 b) del RD 500/1990 exige unir al presupuesto la «Liquidación del Presupuesto del ejercicio anterior y avance de la del corriente, referida, al menos, a seis meses del mismo, suscritas, una y otro, por el Interventor y confeccionados conforme dispone la Instrucción de Contabilidad». Lo que suscribe el Presidente es la memoria (letra a) y el anexo de inversiones (letra d).",
+   "fuente": "Art. 18.1 b) RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): RD 500/1990 (BOE-A-1990-9664), consolidado descargado el 22-oct-2026, sin modificaciones desde 1990. Art. 18.1 b) literal: «suscritas, una y otro, por el Interventor y confeccionados conforme dispone la Instrucción de Contabilidad». El art. 168.1 b) TRLRHL (redacción del RDL 17/2014) no menciona la firma pero no la contradice: el reglamento la completa. Memoria (letra a) y anexo de inversiones (letra d) suscritos por el Presidente: exacto. No duplica las del art. 168.1 b) TRLRHL (que preguntan por los seis meses). | Revisor 2 (RECHAZADA): Literalmente correcta según el art. 18.1 b) RD 500/1990 («suscritas, una y otro, por el Interventor»), pero la respuesta cambia para Zaragoza. Como municipio de gran población, separa las funciones de contabilidad y de fiscalización (art. 133.b LBRL) y encomienda la contabilidad a un órgano propio que fija el Reglamento orgánico (art. 134.1 LBRL; disposición adicional 4.ª RD 128/2018). El art. 4.2.h) RD 128/2018 (BOE-A-2018-3760) atribuye expresamente a la función de contabilidad «Elaborar el avance de la liquidación del presupuesto corriente que debe unirse al presupuesto ... a que se refiere el artículo 18.b) del Real Decreto 500/1990». En Zaragoza, por tanto, no lo suscribe el Interventor general. Además, el art. 168.1 b) TRLRHL vigente ya no dice quién lo suscribe."
+  },
+  {
+   "q": "Según el art. 18.1 d) del RD 500/1990, el anexo de las inversiones a realizar en el ejercicio, que se une al presupuesto, irá:",
+   "options": [
+    "Suscrito por el Interventor y fiscalizado previamente",
+    "Firmado por los técnicos municipales y acompañado de los proyectos de obra",
+    "Suscrito por el Presidente y debidamente codificado",
+    "Informado por la Comisión Especial de Cuentas"
+   ],
+   "correct": 2,
+   "exp": "El art. 18.1 d) del RD 500/1990 incluye entre la documentación del presupuesto el «Anexo de las inversiones a realizar en el ejercicio, suscrito por el Presidente y debidamente codificado». Su contenido por proyecto (código, denominación, años de inicio y fin, importe de la anualidad, financiación, vinculación y órgano gestor) lo detalla el art. 19. La Comisión Especial de Cuentas informa la cuenta general (art. 212.2 TRLRHL), no el presupuesto.",
+   "fuente": "Art. 18.1 d) RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): RD 500/1990 (BOE-A-1990-9664), consolidado descargado el 22-oct-2026, sin modificaciones desde 1990. Art. 18.1 d) literal: «suscrito por el Presidente y debidamente codificado». Art. 19 (contenido por proyecto) y art. 212.2 TRLRHL (Comisión Especial de Cuentas) comprobados. El art. 168.1 d) TRLRHL solo dice «Anexo de las inversiones a realizar en el ejercicio», sin contradicción. | Revisor 2 (RECHAZADA): Literalmente correcta según el art. 18.1 d) RD 500/1990, pero dudosa para Zaragoza. El art. 168.1 d) TRLRHL vigente solo dice «Anexo de las inversiones a realizar en el ejercicio», sin «suscrito por el Presidente». Y en Zaragoza el presupuesto no lo forma el Presidente: la aprobación del proyecto corresponde a la Junta de Gobierno (art. 127.1.b LBRL) y la iniciativa al Gobierno de Zaragoza (art. 50.a Ley 10/2017, BOE-A-2018-1683, comprobado). No se puede afirmar que en Zaragoza el anexo lo suscriba el Alcalde-Presidente. Ante la duda, rechazo."
+  },
+  {
+   "q": "Según el art. 21.3 del RD 500/1990, ¿cuál de las siguientes circunstancias debe concurrir para hacer ajustes al alza en los créditos del presupuesto prorrogado?",
+   "options": [
+    "Que el Pleno haya aprobado inicialmente el presupuesto del nuevo ejercicio",
+    "Que haya compromisos firmes de gasto en el ejercicio corriente por mayores cargas financieras de operaciones de crédito autorizadas en ejercicios anteriores",
+    "Que se trate de créditos financiados con ingresos afectados que solo iban a percibirse en el ejercicio anterior",
+    "Que el aumento se destine a gastos de personal derivados de nuevas contrataciones"
+   ],
+   "correct": 1,
+   "exp": "El art. 21.3 del RD 500/1990 permite ajustes al alza en el prorrogado, dentro del margen que deje el límite global de créditos iniciales, cuando concurran simultáneamente dos circunstancias: a) «Que existan compromisos firmes de gastos a realizar en el ejercicio corriente que correspondan a unas mayores cargas financieras anuales generadas por operaciones de crédito autorizadas en los ejercicios anteriores», y b) que el margen de los créditos no incorporables de servicios o programas concluidos permita el ajuste. Los créditos financiados con ingresos afectados que solo iban a percibirse en el ejercicio anterior ni siquiera son prorrogables (art. 21.2).",
+   "fuente": "Art. 21.3 a) RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): RD 500/1990 (BOE-A-1990-9664), consolidado descargado el 22-oct-2026, sin modificaciones desde 1990. Art. 21.3 a) literal; la explicación recoge bien la concurrencia simultánea con la letra b) y el art. 21.2. No choca con el art. 169.6 TRLRHL, y la propia Instrucción vigente (PGCP, cuenta 002) remite a «los ajustes al alza del Presupuesto prorrogado previstos en el artículo 21.3 del Real Decreto 500/1990», lo que confirma que sigue aplicándose. Distractores falsos. | Revisor 2 (CONFIRMADA): Art. 21.3 a) RD 500/1990 literal. No lo desplaza el TRLRHL: la propia ICAL normal (cuenta 002 y subcuenta 0027 «Ajustes por prórroga presupuestaria») remite a los «ajustes al alza del Presupuesto prorrogado previstos en el artículo 21.3 del Real Decreto 500/1990». El distractor de los créditos financiados con ingresos afectados de un solo ejercicio es falso: el art. 21.2 los excluye de la prórroga, y lo mismo el art. 169.6 TRLRHL. En Zaragoza, el art. 50.f) Ley 10/2017 solo dice que la prórroga es automática, sin regular los ajustes, así que la respuesta no cambia. El banco tiene los arts. 21.4 y 21.6, pero no el 21.3."
+  },
+  {
+   "q": "Según el art. 31.2 del RD 500/1990, en las retenciones de crédito para transferencias a otras partidas presupuestarias, la suficiencia del saldo de crédito debe verificarse:",
+   "options": [
+    "Al nivel de la vinculación jurídica del crédito y, además, al de la propia partida contra la que se certifique",
+    "Solo al nivel en que esté establecida la vinculación jurídica del crédito",
+    "Solo al nivel del capítulo de la clasificación económica",
+    "Solo al nivel del área de gasto, porque la transferencia corresponde al Pleno"
+   ],
+   "correct": 0,
+   "exp": "El art. 31.2 del RD 500/1990 exige verificar el saldo «a) En todo caso, al nivel a que esté establecida la vinculación jurídica del crédito» y «b) En el caso de retenciones para transferencias de créditos a otras partidas presupuestarias, además de la indicada en el apartado anterior, al nivel de la propia partida presupuestaria contra la que se certifique». En las transferencias la comprobación es doble.",
+   "fuente": "Art. 31.2 b) RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): RD 500/1990 (BOE-A-1990-9664), consolidado descargado el 22-oct-2026, sin modificaciones desde 1990. Art. 31.2 a) y b) literal: doble verificación (vinculación jurídica y, además, la propia partida). Distractores falsos. Observación menor, no invalidante: «partida presupuestaria» es la terminología del RD (hoy «aplicación presupuestaria», art. 167.4 TRLRHL); la pregunta se ciñe al texto citado. Sin duplicado (las existentes son del art. 31.1). | Revisor 2 (CONFIRMADA): Art. 31.2 a) y b) RD 500/1990 literal: en las transferencias la comprobación es doble (nivel de vinculación y la propia partida). Los distractores con «solo» son falsos. El banco solo tiene la definición del art. 31.1."
+  },
+  {
+   "q": "Según el art. 32.1 del RD 500/1990, en todo expediente de transferencia de crédito es requisito indispensable para su tramitación:",
+   "options": [
+    "El informe previo del Tribunal de Cuentas sobre la nivelación presupuestaria",
+    "La exposición al público del expediente durante quince días, en todo caso",
+    "La aprobación por el Pleno con el voto favorable de la mayoría absoluta",
+    "La previa certificación de la existencia de crédito suficiente en la partida presupuestaria que deba ceder crédito"
+   ],
+   "correct": 3,
+   "exp": "El párrafo segundo del art. 32.1 del RD 500/1990 dispone: «En todo expediente de transferencia de crédito será requisito indispensable para su tramitación la previa certificación de la existencia de crédito suficiente en la partida presupuestaria que deba ceder crédito». Esa certificación la expide el Interventor (art. 32.2). La exposición pública solo se aplica a las transferencias que aprueba el Pleno (art. 42.1), y el órgano competente lo fijan las bases de ejecución (art. 40.2).",
+   "fuente": "Art. 32.1 RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): RD 500/1990 (BOE-A-1990-9664), consolidado descargado el 22-oct-2026, sin modificaciones desde 1990. Art. 32.1, párrafo segundo, literal; art. 32.2 (Interventor), 40.2 y 42.1 comprobados. Distractores falsos (la exposición pública solo para las aprobadas por el Pleno; ni Tribunal de Cuentas ni mayoría absoluta). | Revisor 2 (CONFIRMADA): Art. 32.1, párrafo segundo, RD 500/1990 literal. Los distractores son falsos: no interviene el Tribunal de Cuentas; la exposición pública solo procede si aprueba el Pleno (art. 42.1 RD 500/1990 y art. 179.4 TRLRHL), y no se exige mayoría absoluta. Matiz de la explicación: además del art. 40.2, el art. 179.2 TRLRHL reserva al Pleno las transferencias entre distintas áreas de gasto (grupos de función). Mencionarlo mejoraría la explicación, pero no la vuelve inexacta. El banco tiene el art. 32.2, que trata otra cuestión."
+  },
+  {
+   "q": "Según el art. 38.1 del RD 500/1990, los expedientes de crédito extraordinario y de suplemento de crédito aprobados por el Pleno deberán ser ejecutivos:",
+   "options": [
+    "En el plazo de tres meses desde su publicación",
+    "En el ejercicio siguiente, una vez incorporados como remanentes",
+    "Dentro del mismo ejercicio en que se autoricen",
+    "Desde su aprobación inicial, sin esperar a la definitiva"
+   ],
+   "correct": 2,
+   "exp": "El art. 38.1 del RD 500/1990 dispone que la aprobación de estos expedientes por el Pleno se hará con los mismos trámites y requisitos que los presupuestos, «debiendo ser ejecutivos dentro del mismo ejercicio en que se autoricen». Solo los acuerdos por calamidad pública o de naturaleza análoga, de excepcional interés general, son inmediatamente ejecutivos (art. 38.4 RD 500/1990 y art. 177.6 TRLRHL).",
+   "fuente": "Art. 38.1 RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): RD 500/1990 (BOE-A-1990-9664), consolidado descargado el 22-oct-2026, sin modificaciones desde 1990. Art. 38.1 literal: «debiendo ser ejecutivos dentro del mismo ejercicio en que se autoricen». Coherente con el art. 177.2 TRLRHL; la excepción de calamidad pública (art. 38.4 RD y art. 177.6 TRLRHL) está bien explicada. Distractores falsos. El banco ya corrigió una antigua pregunta que decía «inmediatamente ejecutivos»; esta no la repite, la refuerza. | Revisor 2 (CONFIRMADA): Art. 38.1 RD 500/1990 literal: «debiendo ser ejecutivos dentro del mismo ejercicio en que se autoricen». El art. 177 TRLRHL vigente no lo contradice. El distractor de «desde su aprobación inicial» solo se acercaría al supuesto excepcional de calamidad pública (art. 38.4 RD 500/1990 y art. 177.6 TRLRHL), que el enunciado excluye al citar el art. 38.1, y la explicación lo aclara bien. No hay pregunta igual en el banco."
+  },
+  {
+   "q": "Según el art. 39.3 del RD 500/1990, en los expedientes de ampliación de crédito, los recursos que financian el mayor gasto deben acreditarse con:",
+   "options": [
+    "Un informe de la Tesorería con la previsión de cobros del ejercicio",
+    "El reconocimiento en firme de mayores derechos sobre los previstos en el presupuesto de ingresos, afectados al crédito que se amplía",
+    "La concertación de una operación de crédito por el importe de la ampliación",
+    "La baja por anulación de otra partida del presupuesto de gastos"
+   ],
+   "correct": 1,
+   "exp": "El art. 39.3 del RD 500/1990 exige especificar los recursos que financian el mayor gasto, «Extremo que deberá acreditarse con el reconocimiento en firme de mayores derechos sobre los previstos en el Presupuesto de ingresos que se encuentren afectados al crédito que se pretende ampliar». La ampliación se financia con recursos afectados no procedentes de operaciones de crédito (art. 39.1), y la baja de otras partidas es una fuente de los créditos extraordinarios y suplementos (art. 36.1 c), no de la ampliación.",
+   "fuente": "Art. 39.3 RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): RD 500/1990 (BOE-A-1990-9664), consolidado descargado el 22-oct-2026, sin modificaciones desde 1990. Art. 39.3 literal; arts. 39.1 (recursos afectados no procedentes de operaciones de crédito) y 36.1 c) comprobados. Coherente con el art. 178 TRLRHL. Distractores falsos. No duplica la existente del art. 39.1. | Revisor 2 (CONFIRMADA): Art. 39.3 RD 500/1990 literal: se acredita «con el reconocimiento en firme de mayores derechos ... afectados al crédito que se pretende ampliar». Los distractores son falsos: el art. 39.1 excluye las operaciones de crédito, y la baja de otras partidas es una fuente del art. 36.1 c), que he comprobado. El banco tiene el art. 39.1 (definición), que es otra cuestión."
+  },
+  {
+   "q": "Según el art. 44 a) del RD 500/1990, para generar crédito con aportaciones de personas físicas o jurídicas o con enajenaciones de bienes de la entidad local es requisito indispensable:",
+   "options": [
+    "El reconocimiento del derecho o la existencia formal del compromiso firme de aportación",
+    "La efectiva recaudación del ingreso en la tesorería de la entidad",
+    "La aprobación del Pleno con exposición pública durante quince días",
+    "La previa liquidación del presupuesto del ejercicio anterior"
+   ],
+   "correct": 0,
+   "exp": "El art. 44 a) del RD 500/1990 exige, en los supuestos de aportaciones y de enajenaciones (art. 43.1 a y b), «el reconocimiento del derecho o la existencia formal del compromiso firme de aportación». La recaudación efectiva se exige en otros casos: en la prestación de servicios y el reembolso de préstamos condiciona la disponibilidad de los créditos (art. 44 b), y en los reintegros de presupuesto corriente se exige la efectividad del cobro (art. 44 c).",
+   "fuente": "Art. 44 a) RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): RD 500/1990 (BOE-A-1990-9664), consolidado descargado el 22-oct-2026, sin modificaciones desde 1990. Art. 44 a) literal; letras b) y c) bien descritas en la explicación. Coherente con el art. 181 TRLRHL. No duplica la existente del art. 44 b). | Revisor 2 (CONFIRMADA): Art. 44 a) RD 500/1990 literal, en relación con el art. 43.1 a) y b) y con el art. 181 a) y b) TRLRHL, que coinciden. La recaudación efectiva se exige en otros supuestos (art. 44 b y c), así que ese distractor es falso; los otros dos no tienen base. El banco tiene el art. 44 b), no el a)."
+  },
+  {
+   "q": "Según el art. 46 del RD 500/1990, los compromisos firmes de aportación que hayan de extenderse a ejercicios posteriores a aquel en que se conciertan:",
+   "options": [
+    "No pueden formalizarse, porque los compromisos de ingreso se limitan al ejercicio corriente",
+    "Se imputan íntegramente al presupuesto de ingresos del ejercicio en que se conciertan",
+    "Se registran como operaciones no presupuestarias hasta que se cobren por completo",
+    "Se contabilizan de forma adecuada e independiente, imputando secuencialmente los recursos al presupuesto de ingresos del año en que deban hacerse efectivos"
+   ],
+   "correct": 3,
+   "exp": "El art. 46 del RD 500/1990 admite que se formalicen compromisos firmes de aportación que se extiendan a ejercicios posteriores, y dispone: «Estos compromisos de ingreso serán objeto de adecuada e independiente contabilización, imputando secuencialmente los recursos al presupuesto de ingresos del año en que deban hacerse efectivos». No se imputan todos al primer año ni quedan fuera del presupuesto.",
+   "fuente": "Art. 46 RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): RD 500/1990 (BOE-A-1990-9664), consolidado descargado el 22-oct-2026, sin modificaciones desde 1990. Art. 46 literal. Distractores falsos. Sin duplicado. | Revisor 2 (CONFIRMADA): Art. 46 RD 500/1990 literal: «adecuada e independiente contabilización, imputando secuencialmente los recursos al presupuesto de ingresos del año en que deban hacerse efectivos». El primer inciso admite que se formalicen, así que el distractor «no pueden formalizarse» es falso. Los otros dos también lo son. No se repite: el art. 174.6 TRLRHL del banco trata de compromisos de gasto, no de ingreso."
+  },
+  {
+   "q": "Según el art. 48.3 del RD 500/1990, en la incorporación de remanentes de crédito para gastos con financiación afectada se consideran recursos financieros suficientes, con carácter preferente:",
+   "options": [
+    "El remanente líquido de tesorería destinado a gastos generales",
+    "Los nuevos o mayores ingresos recaudados sobre los previstos en el presupuesto corriente",
+    "Los excesos de financiación y los compromisos firmes de aportación afectados a los remanentes que se pretende incorporar",
+    "Las operaciones de crédito a corto plazo concertadas para ese fin"
+   ],
+   "correct": 2,
+   "exp": "El art. 48.3 del RD 500/1990 considera recursos suficientes para estos remanentes «a) Preferentemente, los excesos de financiación y los compromisos firmes de aportación afectados a los remanentes que se pretende incorporar» y «b) En su defecto», los recursos genéricos del art. 48.2 (remanente líquido de tesorería y nuevos o mayores ingresos), solo para la parte del gasto financiable con recursos no afectados. Esos recursos genéricos son, por tanto, subsidiarios, no preferentes.",
+   "fuente": "Art. 48.3 a) RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): RD 500/1990 (BOE-A-1990-9664), consolidado descargado el 22-oct-2026, sin modificaciones desde 1990. Art. 48.3 a) y b) literal; la explicación sitúa bien los recursos genéricos del art. 48.2 como subsidiarios. Distractores falsos por no ser «preferentes». No duplica la existente del art. 48.2. | Revisor 2 (CONFIRMADA): Art. 48.3 a) RD 500/1990 literal («Preferentemente...»). El remanente líquido de tesorería y los nuevos o mayores ingresos solo valen «en su defecto» (art. 48.3 b), así que no son preferentes y los distractores quedan bien descartados por el «con carácter preferente» del enunciado. Concuerda con el art. 182.3 TRLRHL. El banco tiene el art. 48.2, no el 48.3."
+  },
+  {
+   "q": "Según el art. 51 del RD 500/1990, ¿cuál de los siguientes supuestos puede dar lugar a una baja de créditos?",
+   "options": [
+    "La reposición de crédito por reintegros de pagos indebidos del presupuesto corriente",
+    "La financiación de remanentes de tesorería negativos",
+    "La incorporación de remanentes de crédito al ejercicio siguiente",
+    "La ampliación de los créditos declarados ampliables en las bases"
+   ],
+   "correct": 1,
+   "exp": "El art. 51 del RD 500/1990 enumera tres supuestos que pueden dar lugar a una baja de créditos: «a) La financiación de remanentes de tesorería negativos», «b) La financiación de créditos extraordinarios y suplementos de crédito» y «c) La ejecución de otros acuerdos del Pleno de la Entidad local». Los reintegros de pagos indebidos del presupuesto corriente generan crédito (art. 43.1 e); la incorporación y la ampliación son modificaciones al alza.",
+   "fuente": "Art. 51 a) RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): RD 500/1990 (BOE-A-1990-9664), consolidado descargado el 22-oct-2026, sin modificaciones desde 1990. Art. 51 a) literal; los tres supuestos de la explicación son exactos; art. 43.1 e) comprobado. Coherente con el art. 193.1 TRLRHL (reducción de gastos por remanente negativo). Distractores falsos. | Revisor 2 (CONFIRMADA): Art. 51 RD 500/1990 literal: remanentes de tesorería negativos, créditos extraordinarios y suplementos, y otros acuerdos del Pleno. Los distractores son falsos: la reposición por reintegros es una generación de crédito (art. 43.1 e RD 500/1990 y art. 181 e TRLRHL), y la incorporación y la ampliación son modificaciones al alza."
+  },
+  {
+   "q": "Según el art. 53.2 del RD 500/1990, si el Pleno aprueba Reglamentos o Normas generales que desarrollen los procedimientos de ejecución del presupuesto:",
+   "options": [
+    "No es necesario reiterar esas normas en las bases de ejecución: basta una remisión expresa a ellas",
+    "Las bases de ejecución quedan sin efecto y no tienen que aprobarse",
+    "Esas normas deben reproducirse íntegras cada año en las bases de ejecución",
+    "Esas normas solo se aplican a los organismos autónomos de la entidad"
+   ],
+   "correct": 0,
+   "exp": "El art. 53.2 del RD 500/1990 permite al Pleno aprobar Reglamentos o Normas generales que desarrollen los procedimientos de ejecución del presupuesto y añade: «en este supuesto no será necesario reiterar dichas normas en las bases de ejecución del presupuesto, bastando una remisión expresa a aquéllas». Las bases siguen siendo obligatorias, porque forman parte del presupuesto general (art. 165.1 TRLRHL).",
+   "fuente": "Art. 53.2 RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): RD 500/1990 (BOE-A-1990-9664), consolidado descargado el 22-oct-2026, sin modificaciones desde 1990. Art. 53.2 literal. Distractores falsos; la referencia al art. 165.1 TRLRHL es exacta. | Revisor 2 (CONFIRMADA): Art. 53.2 RD 500/1990 literal: «no será necesario reiterar dichas normas en las bases de ejecución del presupuesto, bastando una remisión expresa a aquéllas». Los distractores son falsos; las bases siguen siendo obligatorias (art. 165.1 TRLRHL, comprobado). En Zaragoza esos reglamentos siguen correspondiendo al Pleno (art. 48 Ley 10/2017), así que la respuesta no cambia."
+  },
+  {
+   "q": "Según el art. 66.3 del RD 500/1990, cuando la identificación de los acreedores y sus importes se recoge en relaciones adicionales para pagarles por transferencia bancaria, ¿quién figura como perceptor en la orden de pago?",
+   "options": [
+    "Cada uno de los acreedores incluidos en las relaciones adicionales",
+    "El Tesorero de la entidad local, como responsable de los pagos",
+    "El ordenador de pagos que firma la orden acumulada",
+    "El Banco o Entidad financiera colaboradora encargada de ejecutar las órdenes de transferencia"
+   ],
+   "correct": 3,
+   "exp": "El art. 66.3 del RD 500/1990 permite reflejar acreedores e importes bruto y líquido en relaciones adicionales cuando las obligaciones se imputan a las mismas partidas y son de igual naturaleza, y precisa: «En este caso, en la orden de pago respectiva figurará como perceptor el Banco o Entidad financiera colaboradora encargada de ejecutar las órdenes de transferencia». La orden acumulada con sus relaciones adicionales tiene, frente a los acreedores, la misma eficacia que las órdenes singularizadas.",
+   "fuente": "Art. 66.3 RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): RD 500/1990 (BOE-A-1990-9664), consolidado descargado el 22-oct-2026, sin modificaciones desde 1990. Art. 66.3, párrafo segundo, literal. Explicación exacta (incluida la eficacia de la orden acumulada). Distractores falsos. | Revisor 2 (CONFIRMADA): Art. 66.3, párrafo segundo, RD 500/1990 literal: figura como perceptor «el Banco o Entidad financiera colaboradora encargada de ejecutar las órdenes de transferencia». Los otros tres perceptores son falsos. El banco tiene el art. 66.1, que es otra cuestión."
+  },
+  {
+   "q": "Según el art. 69.2 del RD 500/1990, las órdenes de pago «a justificar» se expedirán en base a resolución de:",
+   "options": [
+    "El Interventor, una vez fiscalizado el expediente",
+    "El Tesorero, de acuerdo con el plan de disposición de fondos",
+    "La autoridad competente para autorizar el gasto a que se refieran",
+    "El Pleno de la corporación, en todo caso"
+   ],
+   "correct": 2,
+   "exp": "El art. 69.2 del RD 500/1990 dispone: «Las órdenes de pago «a justificar» se expedirán en base a resolución de la Autoridad competente para autorizar el gasto a que se refieran y se aplicarán a los correspondientes créditos presupuestarios». El Interventor fiscaliza y el Tesorero paga, pero ninguno de los dos dicta esa resolución, y no se reserva al Pleno.",
+   "fuente": "Art. 69.2 RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): RD 500/1990 (BOE-A-1990-9664), consolidado descargado el 22-oct-2026, sin modificaciones desde 1990. Art. 69.2 literal. Coherente con el art. 190.1 TRLRHL. Distractores falsos (el Pleno «en todo caso» no). No duplica las del art. 190 TRLRHL. | Revisor 2 (CONFIRMADA): Art. 69.2 RD 500/1990 literal: resolución de «la Autoridad competente para autorizar el gasto a que se refieran». Interventor, Tesorero y Pleno «en todo caso» son falsos. El art. 190 TRLRHL no lo contradice, y la fórmula genérica sirve igual para Zaragoza. Las preguntas del banco sobre el art. 190 TRLRHL tratan de otros aspectos."
+  },
+  {
+   "q": "Según el art. 69.3 del RD 500/1990, la expedición de órdenes de pago «a justificar» puede apartarse del plan de disposición de fondos de la Tesorería cuando se trate de:",
+   "options": [
+    "Atender gastos de personal y obligaciones contraídas en ejercicios anteriores",
+    "Paliar las consecuencias de acontecimientos catastróficos, situaciones de grave peligro o necesidades que afecten directamente a la seguridad pública",
+    "Adquirir material de oficina no inventariable y otros gastos repetitivos",
+    "Pagos de cuantía inferior a 3.005,06 euros, por su escasa importancia"
+   ],
+   "correct": 1,
+   "exp": "El art. 69.3 del RD 500/1990 exige que estas órdenes se acomoden al plan de disposición de fondos del Presidente, «salvo en el caso de que se trate de paliar las consecuencias de acontecimientos catastróficos, situaciones que supongan grave peligro o necesidades que afecten directamente a la seguridad pública». Los gastos de personal y las obligaciones de ejercicios anteriores no son una excepción al plan: son la prioridad que el plan debe recoger (art. 65.2 RD 500/1990 y art. 187 TRLRHL).",
+   "fuente": "Art. 69.3 RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): RD 500/1990 (BOE-A-1990-9664), consolidado descargado el 22-oct-2026, sin modificaciones desde 1990. Art. 69.3 literal; art. 65.2 RD y art. 187 TRLRHL comprobados (prioridad de gastos de personal y obligaciones de ejercicios anteriores). Distractores falsos. | Revisor 2 (CONFIRMADA): Art. 69.3 RD 500/1990 literal (acontecimientos catastróficos, grave peligro, seguridad pública). El distractor de gastos de personal y obligaciones de ejercicios anteriores es falso: es la prioridad que el plan debe recoger, según el art. 65.2 RD 500/1990 y el art. 187 TRLRHL vigente, comprobados. Los otros dos distractores no tienen base para esta excepción. No hay pregunta igual en el banco."
+  },
+  {
+   "q": "Según el art. 74.3 del RD 500/1990, los fondos de anticipos de caja fija no invertidos que, a fin de ejercicio, estén en poder de los cajeros, pagadores o habilitados:",
+   "options": [
+    "Se utilizarán por estos en el nuevo ejercicio para las atenciones para las que se concedió el anticipo",
+    "Deben reintegrarse a la Tesorería antes del 31 de diciembre",
+    "Se aplican como remanente de crédito incorporable al ejercicio siguiente",
+    "Pasan a considerarse derechos de difícil o imposible recaudación"
+   ],
+   "correct": 0,
+   "exp": "El art. 74.3 del RD 500/1990 dispone: «Los fondos no invertidos que, en fin de ejercicio, se hallen en poder de los respectivos cajeros, pagadores o habilitados, se utilizarán por éstos, en el nuevo ejercicio, para las atenciones para las que el anticipo se concedió». Eso no les exime de justificar dentro del ejercicio lo que hayan gastado: al menos en diciembre deben rendir cuentas (art. 74.4).",
+   "fuente": "Art. 74.3 RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): RD 500/1990 (BOE-A-1990-9664), consolidado descargado el 22-oct-2026, sin modificaciones desde 1990. Art. 74.3 literal y art. 74.4 (rendición al menos en diciembre) comprobado. Coherente con el art. 190.3 TRLRHL. Distractores falsos. | Revisor 2 (CONFIRMADA): Art. 74.3 RD 500/1990 literal. El art. 190.3 TRLRHL vigente solo exige justificar dentro del ejercicio y no obliga a reintegrar los fondos a 31 de diciembre, así que no lo desplaza. Los distractores son falsos. La explicación sobre el art. 74.4 (rendir cuentas al menos en diciembre) es exacta. No se repite con las preguntas del art. 190.3 TRLRHL del banco."
+  },
+  {
+   "q": "Según el art. 86 del RD 500/1990, antes de autorizar gastos con imputación a ejercicios futuros, ¿quién debe certificar que no se superan los límites cuantitativos de los gastos plurianuales?",
+   "options": [
+    "El Tesorero",
+    "El Secretario de la corporación",
+    "La Comisión Especial de Cuentas",
+    "El Interventor"
+   ],
+   "correct": 3,
+   "exp": "El art. 86 del RD 500/1990 dispone: «Previamente a la autorización de gastos con imputación a ejercicios futuros, el Interventor deberá certificar que no se superan los límites cuantitativos regulados en el artículo 82, y, en su caso, 84». Esos límites son los porcentajes del 70, 60 y 50 % y, en su caso, los que fije el Pleno en casos excepcionales.",
+   "fuente": "Art. 86 RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): RD 500/1990 (BOE-A-1990-9664), consolidado descargado el 22-oct-2026, sin modificaciones desde 1990. Art. 86 literal: certifica el Interventor. Porcentajes 70/60/50 del art. 82 coinciden con el art. 174.3 TRLRHL, y el art. 84 con el 174.5. Distractores falsos. No toca el único desajuste conocido (art. 80 RD frente al 174.2 e) TRLRHL). | Revisor 2 (CONFIRMADA): Art. 86 RD 500/1990 literal: certifica el Interventor; los límites del art. 82 (70, 60 y 50 %) coinciden con el art. 174.3 TRLRHL vigente y los del art. 84 con el 174.5. En Zaragoza, como municipio de gran población, la respuesta no cambia: la emisión de «informes y certificados en materia económico-financiera y presupuestaria» forma parte del control interno (art. 4.1.b) 6.º RD 128/2018), que en esos municipios corresponde a la Intervención general municipal (art. 136 LBRL). La contabilidad separada del art. 134 no tiene esa función. Tesorero, Secretario y Comisión Especial de Cuentas son falsos en cualquier régimen."
+  },
+  {
+   "q": "Según el art. 94 del RD 500/1990, los derechos pendientes de cobro y las obligaciones reconocidas pendientes de pago a 31 de diciembre:",
+   "options": [
+    "Se anulan de pleno derecho y no pasan al ejercicio siguiente",
+    "Se incorporan como créditos iniciales del presupuesto del ejercicio siguiente",
+    "Integran la agrupación de Presupuestos cerrados y se consideran operaciones de la Tesorería local",
+    "Se registran como remanentes de crédito comprometidos"
+   ],
+   "correct": 2,
+   "exp": "El art. 94 del RD 500/1990 dispone que esos derechos y obligaciones «integrarán la agrupación de Presupuestos cerrados y tendrán la consideración de operaciones de la Tesorería local». Las operaciones de esta agrupación se contabilizan con independencia de las del presupuesto corriente (art. 95.2). Lo que se anula de pleno derecho a fin de ejercicio son los créditos no afectados a obligaciones reconocidas (art. 175 TRLRHL), no las obligaciones ya reconocidas.",
+   "fuente": "Art. 94 RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): RD 500/1990 (BOE-A-1990-9664), consolidado descargado el 22-oct-2026, sin modificaciones desde 1990. Art. 94 literal; art. 95.2 y art. 175 TRLRHL comprobados. Distractores falsos. | Revisor 2 (CONFIRMADA): Art. 94 RD 500/1990 literal: «integrarán la agrupación de Presupuestos cerrados y tendrán la consideración de operaciones de la Tesorería local». Los distractores son falsos. La explicación es exacta: el art. 95.2 RD 500/1990 y el art. 175 TRLRHL, comprobados, anulan los créditos, no las obligaciones reconocidas."
+  },
+  {
+   "q": "Según el art. 97 del RD 500/1990, el resultado presupuestario deberá ajustarse, en su caso, en función de:",
+   "options": [
+    "Los derechos de difícil o imposible recaudación y los fondos líquidos a 31 de diciembre",
+    "Las obligaciones financiadas con remanentes de Tesorería y las diferencias de financiación de los gastos con financiación afectada",
+    "Los créditos no disponibles y las modificaciones de crédito no prorrogables",
+    "Los pagos ordenados pendientes de realizar y las relaciones de órdenes de pago"
+   ],
+   "correct": 1,
+   "exp": "El art. 97 del RD 500/1990 dispone: «El resultado presupuestario deberá, en su caso, ajustarse en función de las obligaciones financiadas con remanentes de Tesorería y de las diferencias de financiación derivadas de gastos con financiación afectada». Para los organismos autónomos no administrativos se ajusta además por el resultado de operaciones comerciales. Los derechos de difícil recaudación y los fondos líquidos intervienen en el cálculo del remanente de tesorería (arts. 101 y 103), no en el del resultado presupuestario.",
+   "fuente": "Art. 97 RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "DUDOSA",
+   "notaRevision": "Revisor 1 (DUDOSA): RD 500/1990 (BOE-A-1990-9664), consolidado descargado el 22-oct-2026, sin modificaciones desde 1990. Art. 97, párrafo primero, literal, y coincide con la regulación vigente del resultado presupuestario en la Instrucción (PGCP, tercera parte, normas del estado de liquidación: ajuste por «obligaciones financiadas con remanente de tesorería para gastos generales» y «desviaciones de financiación del ejercicio»). Opción marcada correcta y distractores falsos. Pero la explicación añade, como vigente, que «para los organismos autónomos no administrativos se ajusta además por el resultado de operaciones comerciales» (párrafo segundo del art. 97): la Instrucción de 2013, que según su preámbulo es hoy la que regula el resultado presupuestario, no recoge ese ajuste ni ningún resultado de operaciones comerciales. Arreglo propuesto: suprimir esa frase de la explicación. | Revisor 2 (CONFIRMADA): Art. 97 RD 500/1990 literal. Coincide con el resultado presupuestario ajustado de la ICAL normal: créditos financiados con remanente para gastos generales y desviaciones de financiación. Los derechos de difícil recaudación y los fondos líquidos son del remanente de tesorería (arts. 101 y 103 RD 500/1990, comprobados). Los otros dos distractores son falsos."
+  },
+  {
+   "q": "Según el art. 102.1 del RD 500/1990, en los gastos con financiación afectada en que los derechos afectados reconocidos superan a las obligaciones que financian, el remanente de Tesorería disponible para gastos generales:",
+   "options": [
+    "Debe minorarse en el exceso de financiación producido",
+    "Se incrementa en el exceso de financiación producido",
+    "No se ve afectado, porque los ingresos afectados no computan en él",
+    "Se anula por el importe del exceso, que se da de baja en cuentas"
+   ],
+   "correct": 0,
+   "exp": "El art. 102.1 del RD 500/1990 dispone que, en ese caso, «el remanente de Tesorería disponible para la financiación de gastos generales de la Entidad deberá minorarse en el exceso de financiación producido». Según el art. 102.2, ese exceso puede financiar la incorporación de los remanentes de crédito de los gastos con financiación afectada a que se imputa.",
+   "fuente": "Art. 102.1 RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): RD 500/1990 (BOE-A-1990-9664), consolidado descargado el 22-oct-2026, sin modificaciones desde 1990. Art. 102.1 literal y 102.2 comprobado. Coherente con el art. 191.2 TRLRHL (ingresos afectados en el remanente) y con la Instrucción vigente (exceso de financiación afectada). Distractores falsos. | Revisor 2 (CONFIRMADA): Art. 102.1 RD 500/1990 literal: el remanente para gastos generales «deberá minorarse en el exceso de financiación producido». Los otros tres distractores son falsos. La referencia de la explicación al art. 102.2 es exacta."
+  },
+  {
+   "q": "Según el art. 103.4 del RD 500/1990, la consideración de un derecho como de difícil o imposible recaudación:",
+   "options": [
+    "Implica su anulación y su baja en cuentas",
+    "Obliga a declarar de oficio su prescripción",
+    "Lo excluye de la agrupación de presupuestos cerrados",
+    "No implica su anulación ni produce su baja en cuentas"
+   ],
+   "correct": 3,
+   "exp": "El art. 103.4 del RD 500/1990 dispone: «En cualquier caso, la consideración de un derecho como de difícil o imposible recaudación no implicará su anulación ni producirá su baja en cuentas». Esos derechos solo se deducen al cuantificar el remanente de tesorería (art. 103.1), de forma individualizada o mediante un porcentaje a tanto alzado (art. 103.2), con los mínimos del art. 193 bis TRLRHL.",
+   "fuente": "Art. 103.4 RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): RD 500/1990 (BOE-A-1990-9664), consolidado descargado el 22-oct-2026, sin modificaciones desde 1990. Art. 103.4 literal; arts. 103.1 y 103.2 y art. 193 bis TRLRHL (mínimos 25/50/75/100 %) comprobados. Distractores falsos. No duplica las existentes del art. 193 bis. | Revisor 2 (CONFIRMADA): Art. 103.4 RD 500/1990 literal: «no implicará su anulación ni producirá su baja en cuentas». El art. 193 bis TRLRHL fija mínimos pero no lo contradice. Los distractores son falsos. Las preguntas del banco sobre el art. 193 bis tratan de los porcentajes, no de esto."
+  },
+  {
+   "q": "Según el art. 106 del RD 500/1990, a los presupuestos de los organismos autónomos comerciales, industriales, financieros o análogos se acompañarán los estados de previsión de:",
+   "options": [
+    "La cuenta de otros resultados, la cuenta de pérdidas y ganancias y el presupuesto de capital",
+    "El balance de situación, la memoria y el informe de auditoría",
+    "La cuenta de explotación, la cuenta resumen de operaciones comerciales y el cuadro de financiación",
+    "El estado de consolidación, el anexo de personal y el anexo de inversiones"
+   ],
+   "correct": 2,
+   "exp": "El art. 106 del RD 500/1990 dispone que a esos presupuestos se acompañen los estados de previsión de «a) La cuenta de explotación», «b) La cuenta resumen de operaciones comerciales» y «c) El cuadro de financiación». La cuenta de otros resultados, la de pérdidas y ganancias y el presupuesto de capital son estados de previsión de las sociedades mercantiles (art. 112). El estado de consolidación es un anexo del presupuesto general (art. 166.1 c TRLRHL).",
+   "fuente": "Art. 106 RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): RD 500/1990 (BOE-A-1990-9664), consolidado descargado el 22-oct-2026, sin modificaciones desde 1990. El texto del art. 106 es el que dice la pregunta y está dentro del epígrafe (contenido del presupuesto general), pero es uno de los artículos del RD que SE HAN QUEDADO ANTIGUOS: los estados de previsión que enumera (cuenta de explotación, cuenta resumen de operaciones comerciales, cuadro de financiación) responden al marco contable de 1990; la Instrucción vigente (Orden HAP/1781/2013), que se aplica a todos los organismos autónomos, no contiene ninguno de esos estados ni el «resultado de operaciones comerciales» (búsqueda en el consolidado: cero resultados), y desde la Ley 57/2003 el art. 85.2 LBRL solo conoce el «organismo autónomo local», sin distinguir comerciales o industriales (aunque el art. 164.2 TRLRHL conserve la clasificación). La pregunta enseña como vigente un régimen documental superado. Ante la duda, rechazo. | Revisor 2 (CONFIRMADA): Art. 106 RD 500/1990 literal (cuenta de explotación, cuenta resumen de operaciones comerciales, cuadro de financiación). Comprobé que esa categoría de organismos autónomos no está desplazada: el art. 164.2 TRLRHL vigente sigue clasificando los organismos autónomos, «a efectos de su régimen presupuestario y contable», en administrativos y «de carácter comercial, industrial, financiero o análogo». Los distractores son falsos: uno es el art. 112, otro el anexo del art. 166.1 c) TRLRHL, comprobado."
+  },
+  {
+   "q": "Según el art. 112 del RD 500/1990, los estados de previsión de gastos e ingresos de las sociedades mercantiles que se integran en el presupuesto general son los de:",
+   "options": [
+    "Unos estados de gastos e ingresos con la misma estructura que el presupuesto de la entidad",
+    "La cuenta de explotación, la cuenta de otros resultados, la cuenta de pérdidas y ganancias y el presupuesto de capital",
+    "La cuenta resumen de operaciones comerciales y el cuadro de financiación, únicamente",
+    "El balance, la memoria y el estado de cambios en el patrimonio neto"
+   ],
+   "correct": 1,
+   "exp": "El art. 112 del RD 500/1990 dispone que, a efectos de su integración en el presupuesto general, los estados de previsión de las sociedades mercantiles serán los de «a) La cuenta de explotación», «b) La cuenta de otros resultados», «c) La cuenta de pérdidas y ganancias» y «d) El presupuesto de capital». La cuenta resumen de operaciones comerciales y el cuadro de financiación acompañan a los presupuestos de los organismos autónomos comerciales, industriales, financieros o análogos (art. 106).",
+   "fuente": "Art. 112 RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): RD 500/1990 (BOE-A-1990-9664), consolidado descargado el 22-oct-2026, sin modificaciones desde 1990. El texto del art. 112 es el que dice la pregunta y está dentro del epígrafe, pero el artículo SE HA QUEDADO ANTIGUO: remite al art. 145.1 c) de la derogada Ley 39/1988 y enumera «cuenta de explotación» y «cuenta de otros resultados», que el art. 113.1 manda elaborar «de acuerdo con el Plan General de Contabilidad vigente para las Empresas españolas»; el PGC vigente (RD 1514/2007) ya no tiene esos estados, solo la cuenta de pérdidas y ganancias. Además, el distractor «balance, memoria y estado de cambios en el patrimonio neto» describe parte de las cuentas que hoy elaboran de verdad esas sociedades según la normativa mercantil (art. 209.3 TRLRHL), lo que lo hace engañoso. La pregunta da por vigente algo superado. Rechazada. | Revisor 2 (CONFIRMADA): Art. 112 RD 500/1990 literal (cuenta de explotación, de otros resultados, de pérdidas y ganancias y presupuesto de capital). El precepto no ha cambiado y el TRLRHL (arts. 164.1.c y 168.3) no lo contradice. Aviso: la «cuenta de explotación» y la «cuenta de otros resultados» son terminología contable antigua, pero la pregunta es literal y está vigente. Los distractores son falsos, y uno corresponde al art. 106. Esta pregunta y la anterior se complementan sin delatarse."
+  },
+  {
+   "q": "Según el art. 206.2 del TRLRHL, en los libros, registros y cuentas de la contabilidad pública local se contabilizará:",
+   "options": [
+    "La totalidad de los actos u operaciones de carácter administrativo, civil o mercantil con repercusión financiera, patrimonial o económica en general",
+    "Solo las operaciones de ejecución de los presupuestos de gastos e ingresos",
+    "Solo los actos que den lugar a cobros o pagos de la tesorería",
+    "Solo las operaciones de carácter administrativo, excluidas las de naturaleza civil o mercantil"
+   ],
+   "correct": 0,
+   "exp": "El art. 206.2 del TRLRHL dispone que en los libros, registros y cuentas «se contabilizarán la totalidad de los actos u operaciones de carácter administrativo, civil o mercantil, con repercusión financiera, patrimonial o económica en general». La contabilidad no se limita a la ejecución presupuestaria ni a la tesorería, y abarca también las operaciones civiles y mercantiles.",
+   "fuente": "Art. 206.2 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): TRLRHL (BOE-A-2004-4214), consolidado descargado el 22-oct-2026 (última actualización 07/10/2026). Art. 206.2 literal. Distractores falsos (la contabilidad no se limita a presupuesto, tesorería ni operaciones administrativas). Dentro del epígrafe por «Documentos contables»: el art. 206 es el «soporte de las anotaciones contables» que desarrollan las reglas 34-40 de la Instrucción. No duplica la existente del art. 206.1. | Revisor 2 (CONFIRMADA): Art. 206.2 TRLRHL literal y vigente. Los distractores con «solo» son falsos. El banco solo tiene el art. 206.1, que trata de otra cosa. Entra en el alcance del tema 13 fijado en tools/fuentes.json (título VI, cap. VI)."
+  },
+  {
+   "q": "Según el art. 218.3 del TRLRHL, ¿qué debe remitir anualmente el órgano interventor al Tribunal de Cuentas?",
+   "options": [
+    "El presupuesto general aprobado inicialmente y las reclamaciones que se hayan presentado",
+    "Las relaciones de órdenes de pago expedidas durante el ejercicio",
+    "Los justificantes de todos los pagos a justificar y anticipos de caja fija del ejercicio",
+    "Las resoluciones y acuerdos del Presidente y del Pleno contrarios a los reparos formulados y un resumen de las principales anomalías en materia de ingresos"
+   ],
+   "correct": 3,
+   "exp": "El art. 218.3 del TRLRHL dispone: «El órgano interventor remitirá anualmente al Tribunal de Cuentas todas las resoluciones y acuerdos adoptados por el Presidente de la Entidad Local y por el Pleno de la Corporación contrarios a los reparos formulados, así como un resumen de las principales anomalías detectadas en materia de ingresos». Debe acompañar, en su caso, los informes justificativos de la corporación. Es distinto del informe al Pleno sobre las resoluciones del Presidente contrarias a los reparos (art. 218.1).",
+   "fuente": "Art. 218.3 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): TRLRHL (BOE-A-2004-4214), consolidado descargado el 22-oct-2026 (última actualización 07/10/2026). Contenido correcto: art. 218.3 (redacción de la Ley 27/2013) literal y opción marcada cierta, distractores falsos, sin duplicado (la existente es del 218.1). FUERA DEL EPÍGRAFE: el epígrafe oficial del tema 13 (anexo I, BOPZ 170/2026) es «el presupuesto de las entidades locales: (contenido, estructura, aprobación y ejecución. Documentos contables)» más la aprobación del presupuesto en la ley de capitalidad. El control interno y externo (Cap. IV del Título VI, arts. 213-223) y la cuenta general no aparecen en ese epígrafe ni en ningún otro del anexo I (búsqueda de «control», «fiscaliz», «cuenta general», «Tribunal de Cuentas» y «contabilidad» en el anexo: cero resultados). Nota para la sesión principal: esto choca con el criterio anterior del banco (lote t13 F, arts. 200-219, y fuentes.json, que toman todo el Título VI como tema 13). Si se mantiene ese criterio, el contenido de la pregunta está verificado y sería confirmable; con la regla de octubre de 2026 («No se pregunta nada fuera de él»), y ante la duda, la rechazo. | Revisor 2 (CONFIRMADA): Art. 218.3 TRLRHL literal, en la redacción de la Ley 27/2013, vigente desde 31/12/2013. Los distractores son falsos. La pregunta del banco sobre el art. 218.1 da como respuesta el resumen de anomalías de ingresos, que vuelve a aparecer aquí, pero esta pregunta es sobre la remisión anual al Tribunal de Cuentas y no la repite. Entra en el alcance del título VI, cap. VII."
+  },
+  {
+   "q": "Según el art. 219.4 del TRLRHL, las entidades locales pueden acordar en Pleno sustituir la fiscalización previa de derechos por:",
+   "options": [
+    "Un informe anual del Tesorero sobre la recaudación del ejercicio",
+    "La fiscalización externa que realiza el Tribunal de Cuentas",
+    "La inherente a la toma de razón en contabilidad y actuaciones comprobatorias posteriores con técnicas de muestreo o auditoría",
+    "El control de eficacia de los servicios de recaudación"
+   ],
+   "correct": 2,
+   "exp": "El art. 219.4 del TRLRHL permite determinar, mediante acuerdo del Pleno, «la sustitución de la fiscalización previa de derechos por la inherente a la toma de razón en contabilidad y por actuaciones comprobatorias posteriores mediante la utilización de técnicas de muestreo o auditoría». La toma de razón es la diligencia que acredita el registro contable de cada documento (regla 38 de la Instrucción del modelo normal de contabilidad local).",
+   "fuente": "Art. 219.4 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): TRLRHL (BOE-A-2004-4214), consolidado descargado el 22-oct-2026 (última actualización 07/10/2026). Contenido correcto: art. 219.4 literal y opción marcada cierta, distractores falsos, sin duplicado. El vínculo con la toma de razón de la regla 38 de la Instrucción es real, pero el objeto del precepto es la fiscalización previa de derechos (control interno). FUERA DEL EPÍGRAFE: el epígrafe oficial del tema 13 (anexo I, BOPZ 170/2026) es «el presupuesto de las entidades locales: (contenido, estructura, aprobación y ejecución. Documentos contables)» más la aprobación del presupuesto en la ley de capitalidad. El control interno y externo (Cap. IV del Título VI, arts. 213-223) y la cuenta general no aparecen en ese epígrafe ni en ningún otro del anexo I (búsqueda de «control», «fiscaliz», «cuenta general», «Tribunal de Cuentas» y «contabilidad» en el anexo: cero resultados). Nota para la sesión principal: esto choca con el criterio anterior del banco (lote t13 F, arts. 200-219, y fuentes.json, que toman todo el Título VI como tema 13). Si se mantiene ese criterio, el contenido de la pregunta está verificado y sería confirmable; con la regla de octubre de 2026 («No se pregunta nada fuera de él»), y ante la duda, la rechazo. | Revisor 2 (CONFIRMADA): Art. 219.4 TRLRHL literal y vigente: lo acuerda el Pleno, y la fiscalización se sustituye por la toma de razón en contabilidad y comprobaciones posteriores por muestreo o auditoría. Los distractores son falsos. Las preguntas del banco tratan de los arts. 219.1 y 219.2, no del 219.4."
+  },
+  {
+   "q": "Según el art. 223.2 del TRLRHL, ¿antes de qué fecha deben rendir las entidades locales al Tribunal de Cuentas la cuenta general del ejercicio económico anterior?",
+   "options": [
+    "Antes del 15 de mayo de cada año",
+    "Antes del 15 de octubre de cada año",
+    "Antes del 1 de junio de cada año",
+    "Antes del 1 de octubre de cada año"
+   ],
+   "correct": 1,
+   "exp": "El art. 223.2 del TRLRHL dispone que las entidades locales «rendirán al citado Tribunal, antes del día 15 de octubre de cada año, la cuenta general a que se refiere el artículo 209 de esta ley correspondiente al ejercicio económico anterior». Las otras fechas son de la tramitación interna del art. 212: el Presidente rinde los estados y cuentas antes del 15 de mayo, la Comisión Especial de Cuentas informa antes del 1 de junio y el Pleno puede aprobar la cuenta general antes del 1 de octubre.",
+   "fuente": "Art. 223.2 TRLRHL (RDLeg 2/2004)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): TRLRHL (BOE-A-2004-4214), consolidado descargado el 22-oct-2026 (última actualización 07/10/2026). Contenido correcto: art. 223.2 literal («antes del día 15 de octubre de cada año»), fechas del art. 212 de los distractores bien explicadas, sin duplicado. Es control externo y rendición de la cuenta general. FUERA DEL EPÍGRAFE: el epígrafe oficial del tema 13 (anexo I, BOPZ 170/2026) es «el presupuesto de las entidades locales: (contenido, estructura, aprobación y ejecución. Documentos contables)» más la aprobación del presupuesto en la ley de capitalidad. El control interno y externo (Cap. IV del Título VI, arts. 213-223) y la cuenta general no aparecen en ese epígrafe ni en ningún otro del anexo I (búsqueda de «control», «fiscaliz», «cuenta general», «Tribunal de Cuentas» y «contabilidad» en el anexo: cero resultados). Nota para la sesión principal: esto choca con el criterio anterior del banco (lote t13 F, arts. 200-219, y fuentes.json, que toman todo el Título VI como tema 13). Si se mantiene ese criterio, el contenido de la pregunta está verificado y sería confirmable; con la regla de octubre de 2026 («No se pregunta nada fuera de él»), y ante la duda, la rechazo. | Revisor 2 (CONFIRMADA): Art. 223.2 TRLRHL literal: antes del 15 de octubre. Los distractores son las fechas del art. 212.1, 212.2 y 212.4, que he comprobado (15 de mayo, 1 de junio, 1 de octubre), y ninguna es la de rendición al Tribunal de Cuentas. Zaragoza no tiene especialidad. El banco tiene el art. 223.1 (alcance) y el 212.5, pero no esta fecha."
+  }
+ ]
+}
