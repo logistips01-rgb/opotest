@@ -42,3 +42,9 @@ Los índices han cambiado tras retirar 19 preguntas: búscalas por su contenido.
 - #85: el art. 122.5 no dice que el Pleno elija a los presidentes de las Comisiones; en Zaragoza los nombra el Alcalde (art. 12.1.e de la Ley 10/2017).
 - #3 y #57: número de artículo equivocado en la cita (12.2 y 14, cuando el contenido es del 13).
 - #93: la «dispensa de servicios mínimos» no figura en el art. 26 vigente (ya está en la ronda 2).
+
+## Tema 8 (redactor del lote t08-1)
+- La #90 aprox. (art. 119.3): la opción correcta añade «sin perjuicio de la potestad de la Administración de incoar de oficio un nuevo procedimiento», que no está en el 119.3 (procede del art. 88.2).
+
+## Tema 4 (redactor del lote t04-1)
+- Las #138 y #159 aprox. dan como respuesta el «Ministerio de Asuntos Económicos y Transformación Digital», que es literal de los arts. 9.2 c) y 10.2 c) LPAC, pero el ministerio ya no se llama así. Hay que valorar si añadir un aviso en la explicación.
