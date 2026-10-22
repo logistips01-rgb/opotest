@@ -75,7 +75,7 @@ registerEsquema('aux-admin-zaragoza', 11, {
         {t: 'La función de policía (RSCL 1.1.º): intervenir cuando hay perturbación o <b>peligro de perturbación grave</b> de la tranquilidad, seguridad, salubridad o moralidad ciudadanas.', a: 'RSCL 1'},
         {t: 'Licencia excepcional para actividades económicas: <b>orden público, seguridad pública, salud pública o protección del medio ambiente</b> en el lugar concreto, si no bastan la declaración responsable o la comunicación.', a: 'LBRL 84 bis.1.a'},
         {t: 'También cuando el número de operadores es limitado: <b>escasez de recursos naturales</b>, uso del <b>dominio público</b>, impedimentos técnicos o servicios públicos con <b>tarifas reguladas</b>.', a: 'LBRL 84 bis.1.b'},
-        {t: 'Instalaciones o infraestructuras físicas: autorización solo si la establece una <b>ley</b> y pueden dañar el medio ambiente, el entorno urbano, la seguridad, la salud o el patrimonio histórico.', a: 'LBRL 84 bis.2'},
+        {t: 'Instalaciones o infraestructuras físicas: autorización solo si la establece una <b>ley</b> y pueden dañar el medio ambiente y el entorno urbano, la seguridad o la salud públicas y el patrimonio histórico, y resulta proporcionado.', a: 'LBRL 84 bis.2'},
         {t: 'Sin autorización previa: la entidad debe planificar los procedimientos de <b>comunicación</b> y de <b>verificación posterior</b>.', a: 'LBRL 84 ter'}
       ]}
     ]},
@@ -114,7 +114,7 @@ registerEsquema('aux-admin-zaragoza', 11, {
         ['<b>Concesión directa</b>', 'a) Previstas <b>nominativamente</b> en los presupuestos. b) Impuestas por una norma con <b>rango de ley</b>. c) Excepcionalmente, por razones de interés público, social, económico o humanitario que dificulten la convocatoria (LGS 22.2).']
       ]},
       {tipo: 'lista', tinte: true, items: [
-        {t: 'RSCL: pueden subvencionarse entidades u organismos cuyos servicios o actividades <b>complementen o suplan</b> los de competencia local.', a: 'RSCL 23.1'},
+        {t: 'RSCL: pueden subvencionarse entidades, organismos o particulares cuyos servicios o actividades <b>complementen o suplan</b> los de competencia local.', a: 'RSCL 23.1'},
         {t: 'RSCL: carácter <b>voluntario y eventual</b>; <b>no son invocables como precedente</b>.', a: 'RSCL 26.1'},
         {t: 'RSCL: son <b>nulos</b> los acuerdos de subvención por <b>mera liberalidad</b>.', a: 'RSCL 27.1'}
       ]}
@@ -123,11 +123,12 @@ registerEsquema('aux-admin-zaragoza', 11, {
     {titulo: 'Servicio público local y formas de gestión', a: 'LBRL 85; LCSP 284.1 y DA 34.ª', bloques: [
       {tipo: 'lista', items: [
         {t: 'Son servicios públicos locales los que prestan las entidades locales <b>en el ámbito de sus competencias</b>.', a: 'LBRL 85.1'},
-        {t: 'Se gestionan de la forma <b>más sostenible y eficiente</b> de las enumeradas.', a: 'LBRL 85.2'}
+        {t: 'Se gestionan de la forma <b>más sostenible y eficiente</b> de las enumeradas.', a: 'LBRL 85.2'},
+        {t: 'Cualquiera que sea la forma, hay que respetar las funciones reservadas en exclusiva a <b>funcionarios públicos</b> (art. 9 EBEP).', a: 'LBRL 85.2, último párrafo'}
       ]},
       {tipo: 'columnas', cols: [
-        {titulo: 'Gestión directa · 85.2.A {{examen:2025}}', items: [
-          'a) Por la <b>propia entidad local</b>',
+        {titulo: 'Gestión directa · 85.2.A', items: [
+          'a) Por la <b>propia entidad local</b> {{examen:2025}}',
           'b) <b>Organismo autónomo</b> local',
           'c) <b>Entidad pública empresarial</b> local',
           'd) <b>Sociedad mercantil local</b> con capital de titularidad pública'
@@ -138,8 +139,7 @@ registerEsquema('aux-admin-zaragoza', 11, {
         {titulo: 'Gestión indirecta · 85.2.B', reglas: [
           'La ley remite a las formas del antiguo contrato de <b>gestión de servicios públicos</b>.',
           'La LCSP dispone que esas referencias se entienden hechas al contrato de <b>concesión de servicios</b> (DA 34.ª).',
-          'Nunca por concesión los servicios que impliquen <b>ejercicio de la autoridad</b> (LCSP 284.1).',
-          'La forma elegida debe respetar las funciones reservadas a <b>funcionarios públicos</b> (art. 9 EBEP).'
+          'Nunca por concesión los servicios que impliquen <b>ejercicio de la autoridad</b> (LCSP 284.1).'
         ]}
       ]},
       {tipo: 'ejemplo', t: 'Un ayuntamiento quiere gestionar las piscinas con una sociedad mercantil 100 % municipal. Es gestión directa, pero antes necesita una memoria justificativa de que es más sostenible y eficiente que gestionarlas él mismo o con un organismo autónomo. Si las adjudica a una empresa privada que asume el riesgo, es gestión indirecta (concesión de servicios).'}

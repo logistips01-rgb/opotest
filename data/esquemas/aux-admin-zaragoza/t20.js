@@ -12,7 +12,7 @@ registerEsquema('aux-admin-zaragoza', 20, {
   esencial: [
     {t: 'Tres clases de suelo, con dos categorías cada una: <b>urbano</b> (consolidado o no consolidado), <b>urbanizable</b> (delimitado o no delimitado) y <b>no urbanizable</b> (especial o genérico). Clasifica el <b>plan general</b>.', a: 'art. 11.1'},
     {t: 'El plan general lo formula el <b>Ayuntamiento</b> y lo aprueba definitivamente el <b>Consejo Provincial de Urbanismo</b> en 4 meses; si no resuelve, queda aprobado.', a: 'arts. 48-49'},
-    {t: 'Gestión por actuaciones <b>aisladas</b> (suelo urbano consolidado) o <b>integradas</b> (unidad de ejecución). Sistemas: gestión <b>directa</b> (expropiación o cooperación) o <b>indirecta</b> (compensación o urbanizador).', a: 'arts. 118.2 y 134.3'},
+    {t: 'Gestión, sobre todo, por actuaciones <b>aisladas</b> (suelo urbano consolidado) o <b>integradas</b> (unidad de ejecución). Sistemas: gestión <b>directa</b> (expropiación o cooperación) o <b>indirecta</b> (compensación o urbanizador).', a: 'arts. 118.2 y 134.3'},
     {t: 'Tres títulos habilitantes: <b>licencia</b>, <b>declaración responsable</b> y <b>comunicación previa</b>. La licencia la da el Alcalde en <b>3 meses</b> y el silencio es <b>desestimatorio</b>.', a: 'arts. 225-239'},
     {t: 'Infracciones leves, graves y muy graves: multas de hasta 6.000, 60.000 y 300.000 euros. Prescriben a <b>1, 4 y 10 años</b>.', a: 'arts. 277-279 y 284'}
   ],
@@ -74,7 +74,7 @@ registerEsquema('aux-admin-zaragoza', 20, {
     {titulo: 'Régimen de la propiedad del suelo', a: 'arts. 28-37', bloques: [
       {tipo: 'columnas', cols: [
         {titulo: 'No urbanizable genérico · arts. 34-36', reglas: [
-          'Con título habilitante: construcciones de <b>explotaciones agrarias</b> o ganaderas y las vinculadas a <b>obras públicas</b> (34.1).',
+          'Con título habilitante: construcciones de <b>explotaciones agrarias</b> o ganaderas (y, en general, de explotación de recursos naturales o protección del medio ambiente) y las vinculadas a <b>obras públicas</b> (34.1).',
           'Vivienda unifamiliar aislada: sin posibilidad de núcleo de población (no <b>dos o más</b> edificaciones residenciales en un círculo de <b>150 m</b> de radio). Una por parcela, máximo <b>300 m²</b> construidos y parcela de al menos <b>10.000 m²</b>, salvo condiciones más severas (34.2).',
           'Autorización especial (interés público o social, vivienda aislada en municipios sin plan general, rehabilitación de edificios rurales tradicionales): información pública de <b>20 días hábiles</b> e informe del Consejo Provincial de Urbanismo en <b>2 meses</b>; el municipio resuelve en <b>2 meses</b> (35-36).',
           'Si no resuelve: con informe favorable del Consejo, autorización obtenida; con informe desfavorable, desestimada (36.2).'
@@ -95,7 +95,7 @@ registerEsquema('aux-admin-zaragoza', 20, {
 
     {titulo: 'Instrumentos de planeamiento', a: 'arts. 38-76', bloques: [
       {tipo: 'tabla', cab: ['Instrumento', 'Para qué', 'Aprobación'], filas: [
-        ['Plan general', 'Ordenación integral de uno o varios términos municipales completos. <b>Clasifica</b> el suelo. Fija la ordenación estructural y la pormenorizada.', 'Inicial y provisional: <b>Pleno</b>. Definitiva: <b>Consejo Provincial de Urbanismo</b>.'],
+        ['Plan general', 'Ordenación integral de uno o varios términos municipales completos. <b>Clasifica</b> el suelo. Fija la ordenación estructural y, en todo caso en urbano consolidado, la pormenorizada.', 'Inicial y provisional: <b>Pleno</b>. Definitiva: <b>Consejo Provincial de Urbanismo</b>.'],
         ['Plan parcial', 'Ordenación pormenorizada de <b>sectores enteros</b> en urbano no consolidado y urbanizable. Exige plan general aprobado definitivamente.', 'Inicial: <b>Alcalde</b>, dando cuenta al Pleno. Información pública mínima de 1 mes. Informe del Consejo Provincial (3 meses). Definitiva: <b>Pleno</b>.'],
         ['Plan especial', 'Independiente o en desarrollo de directrices o del plan general: infraestructuras, protección, reforma interior… <b>No puede clasificar suelo</b>.', 'Según el caso, procedimiento del plan general o del plan parcial.'],
         ['Estudio de detalle', 'Completa o adapta alineaciones y rasantes, volúmenes y condiciones estéticas. No altera el destino del suelo ni el aprovechamiento.', 'Lo formula cualquier persona. Inicial: <b>Alcalde</b>. Definitiva: <b>Pleno</b>, tras información pública mínima de 1 mes.'],
@@ -104,7 +104,7 @@ registerEsquema('aux-admin-zaragoza', 20, {
       {tipo: 'lista', tinte: true, items: [
         {t: 'Sector: ámbito propio de un plan parcial o de un plan especial de reforma interior.', a: '45.1'},
         {t: 'Plan especial de reforma interior: solo en suelo urbano no consolidado, en desarrollo del plan general.', a: '65.1'},
-        {t: 'Ordenanzas de edificación y urbanización: aspectos morfológicos y estéticos. <b>No pueden alterar</b> el plan general. Se aprueban por la legislación de régimen local.', a: '69'}
+        {t: 'Ordenanzas de edificación y urbanización: regulan, entre otras materias, los aspectos morfológicos y estéticos. <b>No pueden alterar</b> el plan general. Se aprueban con las reglas de competencia y procedimiento de la legislación de régimen local.', a: '69'}
       ]}
     ]},
 
@@ -154,17 +154,18 @@ registerEsquema('aux-admin-zaragoza', 20, {
       ]},
       {tipo: 'lista', tinte: true, items: [
         {t: '<b>Reparcelación</b>: agrupa las fincas de la unidad y las divide de nuevo según el plan, adjudicando parcelas en proporción a los derechos y los terrenos de cesión a la Administración. Voluntaria o forzosa.', a: '140-141'},
-        {t: 'Aprovechamiento del propietario: en urbano consolidado, el <b>objetivo</b> del plan; en urbano no consolidado y urbanizable, el <b>90 %</b> del aprovechamiento medio. El resto, para la Administración.', a: '127-128'},
+        {t: 'Aprovechamiento del propietario: en urbano consolidado, el <b>objetivo</b> del plan; en urbano no consolidado y urbanizable, el <b>90 %</b> del aprovechamiento medio. El resto, para la Administración. Excepcionalmente y de forma motivada, el plan general puede elevar la parte municipal hasta el <b>20 %</b>.', a: '127.3, 127.5.c y 128'},
         {t: 'Fuera del suelo urbano consolidado, las dotaciones locales se obtienen por <b>cesión obligatoria y gratuita</b>; los sistemas generales, por cesión, ocupación directa o expropiación.', a: '188-189'},
         {t: 'Expropiación forzosa: en <b>4 años</b> como máximo. El justiprecio en expropiaciones autonómicas y locales lo fija el <b>Jurado Aragonés de Expropiación</b>.', a: '199.1 y 209.2'},
-        {t: 'Recibe las obras de urbanización el <b>municipio</b>. Plazo de garantía no inferior a <b>5 años</b>.', a: '123.1'}
+        {t: 'Recibe las obras de urbanización el <b>municipio</b>. Plazo de garantía no inferior a <b>5 años</b>.', a: '123.1'},
+        {t: 'Además de las aisladas y las integradas, hay actuaciones para obtener <b>sistemas generales</b> y actuaciones en <b>suelo no urbanizable</b>.', a: '118.2.c-d'}
       ]}
     ]},
 
     {titulo: 'Títulos habilitantes y parcelaciones', a: 'arts. 214-253', bloques: [
       {tipo: 'tabla', cab: ['Título', 'Qué es', 'Para qué actos', 'Desde cuándo legitima'], filas: [
-        ['<b>Licencia</b> (226)', 'Acto por el que el <b>Alcalde</b> autoriza.', 'Movimientos de tierra, parcelaciones y segregaciones; obras de nueva planta; reformas que alteren la configuración arquitectónica o cambien el uso característico; obras en edificios protegidos; talas en espacios de alto valor paisajístico; casas prefabricadas.', 'Desde que la adopta formalmente el Alcalde.'],
-        ['<b>Declaración responsable</b> (227)', 'El interesado manifiesta al Alcalde, <b>bajo su responsabilidad</b>, que cumple los requisitos.', 'Nueva planta de escasa entidad (no residencial ni pública, en una planta); reformas sin variación esencial; renovación de instalaciones; <b>primera ocupación</b>; otras talas; placas solares de autoconsumo; puntos de recarga en edificios colectivos.', 'Desde su <b>presentación</b> en el registro.'],
+        ['<b>Licencia</b> (226)', 'Acto por el que el <b>Alcalde</b> autoriza.', 'Movimientos de tierra, parcelaciones y segregaciones; obras de nueva planta; reformas que alteren la configuración arquitectónica o cambien el uso característico; obras en edificios protegidos; talas en espacios de alto valor paisajístico; casas prefabricadas; otros supuestos que fije el plan general.', 'Desde que la adopta formalmente el Alcalde.'],
+        ['<b>Declaración responsable</b> (227)', 'El interesado manifiesta al Alcalde, <b>bajo su responsabilidad</b>, que cumple los requisitos.', 'Nueva planta de escasa entidad (no residencial ni pública, en una planta); reformas sin variación esencial; renovación de instalaciones; <b>primera ocupación</b>; otras talas; placas solares de autoconsumo en cubiertas; instalaciones solares en pérgolas de aparcamiento y espacios libres privados; puntos de recarga en edificios colectivos.', 'Desde su <b>presentación</b> en el registro.'],
         ['<b>Comunicación previa</b> (228)', 'Pone en conocimiento del Alcalde que reúne los requisitos.', 'Actos no sujetos ni a licencia ni a declaración responsable.', 'Desde su <b>presentación</b> en el registro.']
       ]},
       {tipo: 'lista', items: [
@@ -196,7 +197,7 @@ registerEsquema('aux-admin-zaragoza', 20, {
         {t: 'Declarado el incumplimiento y requerido el propietario, a los <b>6 meses</b> el solar queda en <b>ejecución por sustitución</b>. Concurso en 1 año como máximo.', a: '220.2 y 220.5'},
         {t: '<b>Deber de conservación</b>: seguridad, salubridad, ornato público y calidad ambiental, cultural y turística. Límite: la <b>mitad</b> del valor de una construcción nueva equivalente.', a: '254'},
         {t: '<b>Órdenes de ejecución</b>: las dicta el Alcalde. Lo que exceda del deber normal de conservación lo paga quien lo ordena.', a: '255'},
-        {t: 'Si la orden supera la cuarta parte del valor de la edificación, el municipio puede subvencionar hasta el <b>10 %</b>.', a: '256.1'},
+        {t: 'Si el presupuesto de la orden supera la cuarta parte del valor de la edificación (sin el suelo), el municipio puede subvencionar hasta el <b>10 %</b> de ese presupuesto.', a: '256.1'},
         {t: 'Multas coercitivas: periodicidad de <b>1 mes</b> como mínimo, cada una hasta el <b>10 %</b> del coste de las obras, con tope en el coste total.', a: '259'},
         {t: 'Inspección periódica: edificios de uso predominantemente residencial de más de <b>50 años</b>, en municipios de más de <b>25.000 habitantes</b>, cada <b>15 años</b>.', a: '260.1'}
       ]},
