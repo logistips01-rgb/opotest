@@ -1,0 +1,17 @@
+[
+ {
+  "q": "Según el art. 25.2 de la LBRL, el municipio ejerce competencias propias en materia de policía local, ordenación del tráfico de vehículos y personas en:",
+  "options": [
+   "Las vías urbanas",
+   "Exclusivamente las autopistas de peaje",
+   "Los aeropuertos de interés general",
+   "Todas las carreteras nacionales sin excepción"
+  ],
+  "correct": 0,
+  "exp": "Art. 25.2 f) LBRL: el municipio ejerce competencias propias en 'Policía local, ordenación del tráfico de vehículos y personas en las vías urbanas.'",
+  "fuente": "Art. 25.2 f) LBRL (Ley 7/1985)",
+  "tema": 14,
+  "_retirada": "2026-10-22",
+  "_motivo": "Error antiguo, no viene de la reforma de 2026: el enunciado mezcla la «policía local» de la letra f) vigente con la antigua letra b) anterior a la Ley 27/2013 («Ordenación del tráfico de vehículos y personas en las vías urbanas»). Hoy la f) es «Policía local, protección civil, prevención y extinción de incendios» y la g) es «Tráfico, estacionamiento de vehículos y movilidad. Transporte colectivo urbano»: ninguna menciona las vías urbanas, así que la opción correcta («Las vías urbanas») no está en el art. 25.2 y ninguna otra opción puede serlo. No tiene arreglo sin cambiar el enunciado y la respuesta, es decir, sin hacer otra pregunta. La f) ya la pregunta la 14.167; la g) no tiene pregunta directa en el tema 14 (solo la cita la explicación de la 16.36)."
+ }
+]

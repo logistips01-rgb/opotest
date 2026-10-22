@@ -12971,8 +12971,8 @@ const QUESTIONS = {
       "Las competencias del art. 25.2 nunca pueden prestarse como servicio público"
     ],
     "correct": 2,
-    "exp": "Muchas de las materias enumeradas como competencias propias municipales en el art. 25.2 LBRL (abastecimiento de agua, alumbrado, recogida de residuos, etc.) se materializan, en la práctica, como servicios públicos locales que deben organizarse y gestionarse conforme al régimen del art. 85 LBRL.",
-    "fuente": "Art. 25.2 y art. 85.1 LBRL (Ley 7/1985)"
+    "exp": "Muchas de las materias que el art. 25.2 LBRL enumera como competencias propias municipales (abastecimiento de agua potable y tratamiento de aguas residuales, gestión de los residuos sólidos urbanos, cementerios, etc.) se materializan, en la práctica, como servicios públicos locales que deben organizarse y gestionarse conforme al régimen del art. 85 LBRL. El alumbrado público no está en el art. 25.2: es uno de los servicios obligatorios del art. 26.1 a).",
+    "fuente": "Art. 25.2, art. 26.1 a) y art. 85.1 LBRL (Ley 7/1985)"
   },
   {
     "q": "¿Qué relación existe entre los servicios mínimos obligatorios del art. 26 LBRL y las formas de gestión reguladas en el art. 85 LBRL?",
@@ -15593,20 +15593,20 @@ const QUESTIONS = {
       "Medio ambiente urbano: gestión de residuos sólidos urbanos y protección contra la contaminación"
     ],
     "correct": 3,
-    "exp": "Art. 25.2 b): entre las materias en que el municipio ejerce competencias propias se incluye el 'Medio ambiente urbano: en particular, parques y jardines públicos, gestión de los residuos sólidos urbanos y protección contra la contaminación acústica.'",
+    "exp": "Art. 25.2 b) LBRL: entre las materias en que el municipio ejerce competencias propias está el «Medio ambiente urbano: en particular, parques y jardines públicos, gestión de los residuos sólidos urbanos y protección contra la contaminación acústica, lumínica y atmosférica en las zonas urbanas.»",
     "fuente": "Art. 25.2 b) LBRL (Ley 7/1985)"
   },
   {
-    "q": "Según el art. 25.2 del LBRL, también es competencia propia municipal, entre otras:",
+    "q": "Según el art. 25.2 de la LBRL, también es competencia propia municipal, entre otras:",
     "options": [
-      "Alumbrado público, cementerios y actividades funerarias",
+      "Cementerios y actividades funerarias",
       "El sistema penitenciario",
       "La gestión de aeropuertos internacionales",
       "La política monetaria nacional"
     ],
     "correct": 0,
-    "exp": "Art. 25.2 j): el municipio ejerce competencias propias en materia de 'Cementerios y actividades funerarias.', junto con otras materias como el alumbrado público.",
-    "fuente": "Art. 25.2 j) LBRL (Ley 7/1985)"
+    "exp": "Art. 25.2 k) LBRL: el municipio ejerce competencias propias en materia de «Cementerios y actividades funerarias». Desde la Ley 27/2013, el alumbrado público ya no figura en el art. 25.2. Es uno de los servicios que todos los municipios deben prestar según el art. 26.1 a): «En todos los Municipios: alumbrado público, cementerio, recogida de residuos...».",
+    "fuente": "Art. 25.2 k) y art. 26.1 a) LBRL (Ley 7/1985)"
   },
   {
     "q": "Según el art. 26.1 a) de la LBRL, todos los municipios, cualquiera que sea su población, deben prestar el servicio de:",
@@ -16603,18 +16603,6 @@ const QUESTIONS = {
     "correct": 3,
     "exp": "Art. 29.2 LBRL: en el Concejo Abierto, el gobierno y la administración corresponden a un Alcalde, elegido directamente por los vecinos, y a una Asamblea vecinal de la que forman parte todos los electores.",
     "fuente": "Art. 29.2 LBRL (Ley 7/1985)"
-  },
-  {
-    "q": "Según el art. 25.2 de la LBRL, el municipio ejerce competencias propias en materia de policía local, ordenación del tráfico de vehículos y personas en:",
-    "options": [
-      "Las vías urbanas",
-      "Exclusivamente las autopistas de peaje",
-      "Los aeropuertos de interés general",
-      "Todas las carreteras nacionales sin excepción"
-    ],
-    "correct": 0,
-    "exp": "Art. 25.2 f) LBRL: el municipio ejerce competencias propias en 'Policía local, ordenación del tráfico de vehículos y personas en las vías urbanas.'",
-    "fuente": "Art. 25.2 f) LBRL (Ley 7/1985)"
   },
   {
     "q": "Según el art. 25.2 de la LBRL, el municipio ejerce competencias propias en materia de protección de la salubridad pública y, entre otras, en:",

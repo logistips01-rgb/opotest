@@ -11163,14 +11163,14 @@ window.addQuestions('aux-admin-zaragoza', 15, [  {
   {
     "q": "Según el art. 69.1 de la LBRL, las Corporaciones locales facilitarán:",
     "options": [
-      "La más amplia información sobre su actividad y la participación de todos los ciudadanos en la vida local.",
+      "La más amplia información sobre su actividad y la participación de toda la ciudadanía en la vida local.",
       "Información únicamente a los vecinos empadronados con más de cinco años de antigüedad.",
       "La participación exclusivamente de las asociaciones inscritas en el registro municipal.",
       "Información solo sobre los acuerdos del Pleno, no sobre el resto de su actividad."
     ],
     "correct": 0,
-    "exp": "Art. 69.1 LBRL: 'Las Corporaciones locales facilitarán la más amplia información sobre su actividad y la participación de todos los ciudadanos en la vida local.'",
-    "fuente": "Art. 69.1 LBRL (Ley 7/1985)",
+    "exp": "Art. 69.1 LBRL, en la redacción de la Ley 4/2026, de 1 de octubre, que rige desde el 23 de octubre de 2026: «Las Corporaciones locales facilitarán la más amplia información sobre su actividad y la participación de toda la ciudadanía en la vida local. A tal fin la información se ofrecerá en formatos accesibles, siguiendo las reglas marcadas por el principio del diseño universal, de manera que resulten comprensibles para todas las personas.» Hasta el 22 de octubre de 2026 decía «la participación de todos los ciudadanos»; la reforma cambia esa expresión y añade la segunda frase, sobre formatos accesibles y diseño universal.",
+    "fuente": "Art. 69.1 LBRL (Ley 7/1985), redacción dada por la disposición final 3.2 de la Ley 4/2026, de 1 de octubre",
     "confianza": "alta"
   },
   {
@@ -18398,7 +18398,7 @@ window.addQuestions('aux-admin-zaragoza', 12, [  {
     "confianza": "alta"
   },
   {
-    "q": "El recargo que los ayuntamientos pueden exigir sobre la cuota líquida del IBI a inmuebles de uso residencial desocupados con carácter permanente por un plazo superior a dos años puede alcanzar, según el art. 72.4 TRLRHL, hasta el 50 por ciento, pudiendo llegar hasta:",
+    "q": "El recargo que los ayuntamientos pueden exigir sobre la cuota líquida del IBI a inmuebles de uso residencial desocupados con carácter permanente por un plazo superior a dos años, en municipios que no estén en una zona de mercado residencial tensionado, puede alcanzar, según el art. 72.4 bis TRLRHL, hasta el 50 por ciento, pudiendo llegar hasta:",
     "options": [
       "El 100 por ciento desde el primer año de desocupación",
       "El 100 por ciento si la desocupación supera los tres años",
@@ -18406,8 +18406,8 @@ window.addQuestions('aux-admin-zaragoza', 12, [  {
       "El 75 por ciento en todo caso"
     ],
     "correct": 1,
-    "exp": "El art. 72.4 TRLRHL permite un recargo de hasta el 50 por ciento por desocupación superior a dos años, que puede llegar hasta el 100 por ciento cuando la desocupación supera los tres años.",
-    "fuente": "Art. 72.4 TRLRHL",
+    "exp": "Desde el Real Decreto-ley 29/2026, de 6 de octubre, este recargo está en el art. 72.4 bis TRLRHL (antes estaba en el art. 72.4). El cambio rige desde el 8 de octubre de 2026, pero solo para los períodos impositivos que empiecen desde esa fecha; como el período impositivo del IBI es el año natural (art. 75.2), se aplica desde el IBI de 2027. En los municipios que no están en una zona de mercado residencial tensionado, la regla es la de siempre: el recargo es «de hasta el 50 por ciento de la cuota líquida del impuesto»; se considera desocupado con carácter permanente el inmueble vacío «de forma continuada y sin causa justificada, por un plazo superior a dos años», que pertenezca a titulares de cuatro o más inmuebles de uso residencial; y «El recargo podrá ser de hasta el 100 por ciento de la cuota líquida del impuesto cuando el periodo de desocupación sea superior a tres años». Además, el ayuntamiento puede aumentar el recargo que corresponda en hasta 50 puntos porcentuales si el titular tiene dos o más inmuebles de uso residencial desocupados en el mismo término municipal. En las zonas tensionadas (Ley 12/2023) el mismo apartado fija un régimen propio: hasta el 50 por ciento para cualquier titular, hasta el 100 por ciento si el titular tiene cuatro o más inmuebles de uso residencial y hasta 50 puntos más si, además, la desocupación supera los tres años. El nuevo art. 72.4 ter regula otro recargo distinto, para los alojamientos de uso turístico en zonas tensionadas.",
+    "fuente": "Art. 72.4 bis TRLRHL (RDLeg 2/2004), redacción dada por el art. 8 del RDL 29/2026, de 6 de octubre (antes, art. 72.4); art. 75.2 TRLRHL",
     "confianza": "alta"
   },
   {
@@ -19616,13 +19616,13 @@ window.addQuestions('aux-admin-zaragoza', 12, [  {
     "q": "Según la tabla del art. 107.4 TRLRHL, el coeficiente máximo aplicable cuando el periodo de generación del incremento de valor sea igual o superior a 20 años es...",
     "options": [
       "0,20",
-      "0,40",
+      "0,30",
       "0,23",
       "0,15"
     ],
     "correct": 1,
-    "exp": "La tabla del art. 107.4 TRLRHL asigna el coeficiente 0,40 al periodo de generación igual o superior a 20 años.",
-    "fuente": "Art. 107.4 TRLRHL",
+    "exp": "El art. 10 del Real Decreto-ley 29/2026, de 6 de octubre, fija los nuevos coeficientes máximos del art. 107.4 TRLRHL «Con efectos desde el 1 de diciembre de 2026». Para un periodo de generación «Igual o superior a 20 años», el coeficiente es 0,30. Hasta el 30 de noviembre de 2026 era 0,40. Estos máximos «serán actualizados anualmente mediante norma con rango legal», así que conviene comprobar la tabla vigente antes del examen.",
+    "fuente": "Art. 107.4 TRLRHL (RDLeg 2/2004); coeficientes fijados por el art. 10 del RDL 29/2026, con efectos desde el 01/12/2026",
     "confianza": "alta"
   },
   {
@@ -50247,12 +50247,12 @@ window.addQuestions("aux-admin-zaragoza", 14, [
     "options": [
       "Los cementerios son competencia exclusiva de la Iglesia Católica, sin intervención municipal",
       "Es una materia reservada al Estado, sin posibilidad de ordenanza municipal",
-      "Desarrolla la competencia propia municipal en materia de cementerios y actividades funerarias, reconocida en el art. 25.2 j) LBRL",
+      "Desarrolla la competencia propia municipal en materia de cementerios y actividades funerarias, reconocida en el art. 25.2 k) LBRL",
       "Solo puede regularse mediante convenio con una empresa privada, nunca mediante ordenanza"
     ],
     "correct": 2,
-    "exp": "La ordenanza reguladora de cementerios y servicios funerarios desarrolla la competencia propia municipal reconocida en el art. 25.2 j) LBRL: 'Cementerios y actividades funerarias.' (Venía del tema 16 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance (competencias del art. 25.2 LBRL) y, además, con la letra equivocada: la opción marcada y la explicación dicen «art. 25.2 j)», pero los cementerios y actividades funerarias son la letra k); la j) es «Protección de la salubridad pública».)",
-    "fuente": "Art. 25.2 j) LBRL (Ley 7/1985)"
+    "exp": "La ordenanza reguladora de cementerios y servicios funerarios desarrolla la competencia propia municipal del art. 25.2 k) LBRL: «Cementerios y actividades funerarias.» La letra j) es otra materia: «Protección de la salubridad pública». (Venía del tema 16 del banco original; reubicada aquí en la auditoría de agosto de 2026. En octubre de 2026 se corrigió la letra, que antes decía j).)",
+    "fuente": "Art. 25.2 k) LBRL (Ley 7/1985)"
   },
   {
     "q": "¿Qué relación existe entre las ordenanzas de accesibilidad y supresión de barreras arquitectónicas y las competencias municipales en materia de urbanismo?",
@@ -50260,11 +50260,11 @@ window.addQuestions("aux-admin-zaragoza", 14, [
       "Son competencia exclusiva de las asociaciones de personas con discapacidad, sin intervención municipal",
       "Solo pueden aprobarse mediante ley orgánica estatal",
       "No tienen ninguna relación con el urbanismo municipal",
-      "Se enmarcan dentro de la competencia propia municipal de ordenación, gestión, ejecución y disciplina urbanística (art. 25.2 a LBRL), desarrollando exigencias de accesibilidad universal"
+      "Se enmarcan dentro de la competencia propia municipal de urbanismo: planeamiento, gestión, ejecución y disciplina urbanística (art. 25.2 a LBRL), desarrollando exigencias de accesibilidad universal"
     ],
     "correct": 3,
-    "exp": "Las ordenanzas de accesibilidad y supresión de barreras arquitectónicas se enmarcan dentro de la competencia propia municipal de urbanismo (art. 25.2 a LBRL), desarrollando las exigencias de accesibilidad universal en el diseño y uso del espacio urbano. (Venía del tema 16 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: es la competencia urbanística del art. 25.2 a) LBRL aplicada a la accesibilidad, no la norma local ni su aprobación.)",
-    "fuente": "Art. 25.2 LBRL (Ley 7/1985)"
+    "exp": "Las ordenanzas de accesibilidad y supresión de barreras arquitectónicas se enmarcan en la competencia propia municipal de urbanismo del art. 25.2 a) LBRL («Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística»), y desarrollan las exigencias de accesibilidad universal en el diseño y uso del espacio urbano. Además, desde el 23 de octubre de 2026, la Ley 4/2026, de 1 de octubre, añade al art. 25.2 una letra q) directamente relacionada con estas ordenanzas: «Promoción de actuaciones en materia de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad». (Venía del tema 16 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: es la competencia urbanística del art. 25.2 a) LBRL aplicada a la accesibilidad, no la norma local ni su aprobación.)",
+    "fuente": "Art. 25.2 a) y q) LBRL (Ley 7/1985); la letra q) la añade la disposición final 3.1 de la Ley 4/2026, de 1 de octubre"
   },
   {
     "q": "¿Qué relación existe entre las ordenanzas municipales de tenencia de animales y las competencias propias municipales en materia de salubridad pública?",

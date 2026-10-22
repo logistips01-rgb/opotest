@@ -6,6 +6,132 @@
 window.ACTUALIZACIONES = window.ACTUALIZACIONES || {};
 window.ACTUALIZACIONES["aux-admin-zaragoza"] = [
  {
+  "id": "2026-10-22-ley-4",
+  "fecha": "2026-10-22",
+  "tipo": "ley",
+  "titulo": "Cambios de ley de octubre de 2026",
+  "texto": "Reformas publicadas en el BOE en octubre de 2026: competencias municipales y derecho a la información (arts. 25.2 y 69 LBRL, en vigor desde el 23-oct-2026), recargo del IBI sobre viviendas desocupadas (art. 72.4 bis TRLRHL) y coeficientes de la plusvalía (art. 107.4 TRLRHL, desde el 1-dic-2026). Estos dos últimos vienen del Real Decreto-ley 29/2026, que el Congreso aún tiene que convalidar: si no lo hace, se deshará el cambio y lo verás aquí. Al revisar el art. 25.2 se corrigieron también preguntas que arrastraban la redacción anterior a 2013.",
+  "preguntas": [
+   {
+    "tema": 15,
+    "q": "Según el art. 69.1 de la LBRL, las Corporaciones locales facilitarán:",
+    "options": [
+     "La más amplia información sobre su actividad y la participación de toda la ciudadanía en la vida local.",
+     "Información únicamente a los vecinos empadronados con más de cinco años de antigüedad.",
+     "La participación exclusivamente de las asociaciones inscritas en el registro municipal.",
+     "Información solo sobre los acuerdos del Pleno, no sobre el resto de su actividad."
+    ],
+    "antes": "La más amplia información sobre su actividad y la participación de todos los ciudadanos en la vida local.",
+    "ahora": "La más amplia información sobre su actividad y la participación de toda la ciudadanía en la vida local.",
+    "nota": "Desde el 23 de octubre de 2026, el art. 69.1 LBRL dice «toda la ciudadanía» en lugar de «todos los ciudadanos» y obliga a ofrecer la información en formatos accesibles y con diseño universal."
+   },
+   {
+    "tema": 14,
+    "q": "¿Qué relación existe entre las ordenanzas de accesibilidad y supresión de barreras arquitectónicas y las competencias municipales en materia de urbanismo?",
+    "options": [
+     "Son competencia exclusiva de las asociaciones de personas con discapacidad, sin intervención municipal",
+     "Solo pueden aprobarse mediante ley orgánica estatal",
+     "No tienen ninguna relación con el urbanismo municipal",
+     "Se enmarcan dentro de la competencia propia municipal de urbanismo: planeamiento, gestión, ejecución y disciplina urbanística (art. 25.2 a LBRL), desarrollando exigencias de accesibilidad universal"
+    ],
+    "antes": "Se enmarcan dentro de la competencia propia municipal de ordenación, gestión, ejecución y disciplina urbanística (art. 25.2 a LBRL), desarrollando exigencias de accesibilidad universal",
+    "ahora": "Se enmarcan dentro de la competencia propia municipal de urbanismo: planeamiento, gestión, ejecución y disciplina urbanística (art. 25.2 a LBRL), desarrollando exigencias de accesibilidad universal",
+    "nota": "Desde el 23 de octubre de 2026, el art. 25.2 LBRL tiene una nueva letra q): la promoción de la igualdad de oportunidades, la no discriminación y la accesibilidad universal de las personas con discapacidad es competencia propia municipal."
+   },
+   {
+    "tema": 12,
+    "q": "El recargo que los ayuntamientos pueden exigir sobre la cuota líquida del IBI a inmuebles de uso residencial desocupados con carácter permanente por un plazo superior a dos años, en municipios que no estén en una zona de mercado residencial tensionado, puede alcanzar, según el art. 72.4 bis TRLRHL, hasta el 50 por ciento, pudiendo llegar hasta:",
+    "options": [
+     "El 100 por ciento desde el primer año de desocupación",
+     "El 100 por ciento si la desocupación supera los tres años",
+     "El 60 por ciento como máximo absoluto",
+     "El 75 por ciento en todo caso"
+    ],
+    "antes": "El 100 por ciento si la desocupación supera los tres años",
+    "ahora": "El 100 por ciento si la desocupación supera los tres años",
+    "nota": "El RDL 29/2026 traslada el recargo del IBI por vivienda vacía al nuevo art. 72.4 bis: fuera de zonas tensionadas sigue igual (hasta el 50 %, o el 100 % si la vivienda lleva más de tres años vacía). Añade un régimen propio para las zonas tensionadas y un recargo para los pisos turísticos (art. 72.4 ter). Se aplica desde el IBI de 2027."
+   },
+   {
+    "tema": 12,
+    "q": "Según la tabla del art. 107.4 TRLRHL, el coeficiente máximo aplicable cuando el periodo de generación del incremento de valor sea igual o superior a 20 años es...",
+    "options": [
+     "0,20",
+     "0,30",
+     "0,23",
+     "0,15"
+    ],
+    "antes": "0,40",
+    "ahora": "0,30",
+    "nota": "Desde el 1 de diciembre de 2026, el coeficiente máximo de la plusvalía municipal (IIVTNU) para 20 años o más baja de 0,40 a 0,30. El RDL 29/2026 cambia toda la tabla."
+   },
+   {
+    "tema": 14,
+    "q": "Según el art. 25.2 de la LBRL, también es competencia propia municipal, entre otras:",
+    "options": [
+     "Cementerios y actividades funerarias",
+     "El sistema penitenciario",
+     "La gestión de aeropuertos internacionales",
+     "La política monetaria nacional"
+    ],
+    "antes": "Alumbrado público, cementerios y actividades funerarias",
+    "ahora": "Cementerios y actividades funerarias",
+    "nota": "Error antiguo, no viene de la reforma de 2026: desde la Ley 27/2013, el alumbrado público no está en la lista de competencias propias del art. 25.2, sino entre los servicios obligatorios del art. 26.1 a). Además, los cementerios son la letra k), no la j)."
+   },
+   {
+    "tema": 14,
+    "q": "¿Qué relación existe entre una ordenanza reguladora de cementerios y servicios funerarios y las competencias propias municipales?",
+    "options": [
+     "Los cementerios son competencia exclusiva de la Iglesia Católica, sin intervención municipal",
+     "Es una materia reservada al Estado, sin posibilidad de ordenanza municipal",
+     "Desarrolla la competencia propia municipal en materia de cementerios y actividades funerarias, reconocida en el art. 25.2 k) LBRL",
+     "Solo puede regularse mediante convenio con una empresa privada, nunca mediante ordenanza"
+    ],
+    "antes": "Desarrolla la competencia propia municipal en materia de cementerios y actividades funerarias, reconocida en el art. 25.2 j) LBRL",
+    "ahora": "Desarrolla la competencia propia municipal en materia de cementerios y actividades funerarias, reconocida en el art. 25.2 k) LBRL",
+    "nota": "Error antiguo, no viene de la reforma de 2026: la respuesta citaba la letra j) del art. 25.2 para los cementerios, pero desde la Ley 27/2013 están en la k). La j) es la protección de la salubridad pública."
+   },
+   {
+    "tema": 14,
+    "q": "Según el art. 25.2 de la LBRL, el municipio ejerce competencias propias en materia de policía local, ordenación del tráfico de vehículos y personas en:",
+    "options": [
+     "Las vías urbanas",
+     "Exclusivamente las autopistas de peaje",
+     "Los aeropuertos de interés general",
+     "Todas las carreteras nacionales sin excepción"
+    ],
+    "antes": "Las vías urbanas",
+    "ahora": "(pregunta retirada)",
+    "nota": "Error antiguo, no viene de la reforma de 2026: el enunciado mezcla la «policía local» de la letra f) vigente con la antigua letra b) anterior a la Ley 27/2013 («Ordenación del tráfico de vehículos y personas en las vías urbanas»). Hoy la f) es «Policía local, protección civil, prevención y extinción de incendios» y la g) es «Tráfico, estacionamiento de vehículos y movilidad. Transporte colectivo urbano»: ninguna menciona las vías urbanas, así que la opción correcta («Las vías urbanas») no está en el art. 25.2 y ninguna otra opción puede serlo. No tiene arreglo sin cambiar el enunciado y la respuesta, es decir, sin hacer otra pregunta. La f) ya la pregunta la 14.167; la g) no tiene pregunta directa en el tema 14 (solo la cita la explicación de la 16.36)."
+   },
+   {
+    "tema": 14,
+    "q": "Según el art. 25.2 de la LBRL, ¿cuál de las siguientes es una competencia propia municipal expresamente enumerada?",
+    "options": [
+     "La emisión de moneda",
+     "La política exterior del Estado",
+     "La declaración de un estado de sitio",
+     "Medio ambiente urbano: gestión de residuos sólidos urbanos y protección contra la contaminación"
+    ],
+    "antes": "Medio ambiente urbano: gestión de residuos sólidos urbanos y protección contra la contaminación",
+    "ahora": "Medio ambiente urbano: gestión de residuos sólidos urbanos y protección contra la contaminación",
+    "nota": "Error antiguo, no viene de la reforma de 2026: la explicación cortaba la cita de la letra b) en «contaminación acústica», pero el texto vigente desde 2013 sigue con «lumínica y atmosférica en las zonas urbanas»."
+   },
+   {
+    "tema": 11,
+    "q": "¿Qué relación existe entre el art. 25.2 LBRL (competencias propias municipales) y el art. 85 LBRL (servicios públicos locales)?",
+    "options": [
+     "No existe ninguna relación entre ambos preceptos",
+     "El art. 85 deroga tácitamente al art. 25.2",
+     "Muchas de las materias listadas como competencias propias en el art. 25.2 se traducen, en la práctica, en servicios públicos que el municipio debe organizar y gestionar conforme al art. 85",
+     "Las competencias del art. 25.2 nunca pueden prestarse como servicio público"
+    ],
+    "antes": "Muchas de las materias listadas como competencias propias en el art. 25.2 se traducen, en la práctica, en servicios públicos que el municipio debe organizar y gestionar conforme al art. 85",
+    "ahora": "Muchas de las materias listadas como competencias propias en el art. 25.2 se traducen, en la práctica, en servicios públicos que el municipio debe organizar y gestionar conforme al art. 85",
+    "nota": "Error antiguo, no viene de la reforma de 2026: la explicación ponía el alumbrado público como ejemplo del art. 25.2. Desde la Ley 27/2013 no está en esa lista, sino entre los servicios obligatorios del art. 26.1 a)."
+   }
+  ]
+ },
+ {
   "id": "2026-10-22-examen-2026",
   "fecha": "2026-10-22",
   "tipo": "correccion",
