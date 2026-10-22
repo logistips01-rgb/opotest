@@ -57,6 +57,17 @@ Archivo `lotes/nuevas/<id-lote>.json`:
 7. Reparte la opción correcta entre las cuatro posiciones (más o menos un cuarto en cada una).
 7 bis. **La correcta no puede delatarse por la forma.** Las cuatro opciones deben tener longitud y nivel de detalle parecidos. Si la correcta necesita un matiz, los distractores también llevan uno, igual de plausible. Comprueba que en el lote la correcta no sea la más larga en más de un tercio de las preguntas. Los revisores marcan DUDOSA cualquier pregunta que se acierte solo por la longitud.
 8. Frases claras, sin dobles negaciones ni trampas de redacción.
+9. **Zaragoza es municipio de gran población y tiene ley de capitalidad.** Esto vale para toda
+   pregunta sobre qué órgano decide (Pleno, Alcalde, Junta o Gobierno), qué mayoría se exige o qué
+   procedimiento se sigue. La respuesta tiene que ser cierta también en Zaragoza: LBRL arts. 121-138
+   (en especial 123 y 127) y Ley 10/2017 (BOE-A-2018-1683), arts. 11 (Pleno) y 14 (Gobierno de
+   Zaragoza: patrimonio, concesiones, licencias, bases de subvenciones, personal, etc.).
+   - Si la norma general dice otra cosa, no se pregunta así.
+   - Si se pregunta, el enunciado se ciñe a esa norma y la explicación avisa de lo que rige en
+     Zaragoza. Fue el motivo de rechazo más frecuente en la primera tanda.
+10. **Preceptos desplazados.** No se presenta como vigente una regla desplazada por legislación
+    básica posterior (TREBEP, LPAP, LCSP, TRLRHL…) ni declarada inconstitucional, aunque siga
+    escrita en el texto. Comprueba las notas del consolidado y las sentencias del TC citadas.
 
 ## Reglas de revisión (cada revisor, por su cuenta)
 
