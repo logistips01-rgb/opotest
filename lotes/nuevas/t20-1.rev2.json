@@ -1,0 +1,302 @@
+[
+ {
+  "q": "Según el art. 10.1 del TRLUA, el régimen urbanístico del suelo será el establecido:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 10.1 TRLUA (Título I) comprobado en el consolidado BOE (últ. act. 31/12/2024): las tres fuentes coinciden. Los otros tres distractores (solo el PGOU, ordenanzas supletorias, DOT y convenios) son falsos. Cita literal. No repite la pregunta existente del 10.2."
+ },
+ {
+  "q": "Entre los deberes de los ciudadanos en relación con la actividad urbanística de las Administraciones públicas que enumera el art. 20 del TRLUA figura:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 20.b) comprobado: «Preservar el patrimonio cultural aragonés» es un deber. La acción pública es un derecho (art. 19.j). Ni la cédula urbanística (art. 27) ni formular el planeamiento figuran entre los deberes del art. 20. Explicación exacta. No repite la del 19.j)."
+ },
+ {
+  "q": "Conforme al art. 23 del TRLUA, el planeamiento de desarrollo podrá ser formulado por:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 23.2 comprobado. El 23.1 reserva a los municipios el plan general, no el planeamiento de desarrollo. La mayoría de más de la mitad de la superficie es un criterio de preferencia del art. 58.1, no un requisito. Distractores falsos."
+ },
+ {
+  "q": "Según el art. 25.c) del TRLUA, entre las obras de urbanización que los promotores de actuaciones de urbanización deben costear y, en su caso, ejecutar, se entienden incluidas:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 25.c), párrafo 2.º, literal. La letra c) incluye expresamente las conexiones exteriores. El art. 25 no incluye la edificación de vivienda protegida ni una conservación de diez años. Sin repetición con las existentes del 25 y del 25.e)."
+ },
+ {
+  "q": "¿Cuál de las siguientes es una obligación de los promotores de actuaciones de urbanización en suelo urbano no consolidado y urbanizable delimitado, según el art. 25 del TRLUA?",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 25.f) literal. El art. 25 no recoge un plazo de un año para edificar, ni una cesión del 20 % «en todo caso» (la regla general es el 10 %: arts. 127.3, 128.1 y 128.3), ni la constitución de una entidad de conservación. Explicación correcta en lo sustancial."
+ },
+ {
+  "q": "El documento o memoria mediante el que se formula la consulta sobre la viabilidad de la transformación de suelo urbanizable no delimitado (art. 26 TRLUA) debe incluir, como contenido mínimo:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 26.2.b) literal. El contenido mínimo son solo las letras a) a c). Ni el proyecto de urbanización, ni el de reparcelación, ni la DAE forman parte de él. No coincide con las existentes de los apartados 26.1, 26.3, 26.4, 26.5 y 26.6."
+ },
+ {
+  "q": "Si el municipio reclama informe al Consejo Provincial de Urbanismo antes de responder a la consulta sobre viabilidad del art. 26 del TRLUA, el plazo de tres meses para evacuar la consulta:",
+  "veredicto": "DUDOSA",
+  "notaRevision": "La respuesta marcada es correcta: según el art. 26.4, el plazo de tres meses «quedará suspendido durante el plazo previsto en el apartado 6», que es de tres meses para el informe del CPU. El problema es el distractor «Se amplía automáticamente a seis meses»: como la suspensión dura el plazo previsto (3 meses), el efecto práctico es que la consulta puede tardar en total 3+3 = 6 meses, y un opositor podría defender esa opción. Arreglo: sustituirlo por un distractor claramente falso, p. ej. «Se reduce a la mitad» o «Queda interrumpido y el municipio debe resolver en un mes desde la recepción del informe». Lo demás es correcto (silencio positivo, art. 26.4)."
+ },
+ {
+  "q": "La respuesta municipal a la consulta sobre viabilidad de la delimitación y transformación de suelo urbanizable no delimitado vincula a la Administración de la Comunidad Autónoma:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 26.6 literal y distractores falsos. Precisión menor en la explicación: según el art. 26.5, al municipio lo vincula su respuesta a la consulta, que además debe publicarse en el BOA. No lo vincula la publicación como tal. Convendría redactarlo así, aunque el error no afecta a la pregunta. No repite la existente del 26.6 (vigencia de cuatro años)."
+ },
+ {
+  "q": "Conforme al art. 29.3 del TRLUA, la autorización de usos y obras de carácter provisional que no dificulten la ejecución del planeamiento:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 29.3 literal: en cualquier clase de suelo, sin indemnización, por acuerdo del órgano municipal competente. La ley no limita estos usos al suelo no urbanizable genérico ni exige al CPU. Distractores falsos."
+ },
+ {
+  "q": "En las obras de rehabilitación de bordas, torres u otros edificios rurales tradicionales en suelo no urbanizable genérico (art. 35.1.c TRLUA), el porcentaje máximo de incremento de volumen o de superficie edificable que establezca el plan general no podrá ser superior al:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 35.1.c), en la redacción de la Ley 2/2023 (en vigor desde el 28/04/2023): el plan general fija un tope de «cien por cien». El 20 % es la regla para municipios sin planeamiento ni regulación, así que no sirve como respuesta a una pregunta sobre lo que establece el plan general. Explicación exacta."
+ },
+ {
+  "q": "Las construcciones e instalaciones en suelo no urbanizable genérico que deban someterse a evaluación de impacto ambiental o a autorización ambiental integrada:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 35.2 comprobado: estas construcciones no pasan por la autorización especial. El órgano ambiental consulta al CPU, cuyo informe es vinculante en los aspectos tasados, y si hay discrepancia puede resolver el Gobierno de Aragón. Distractores falsos."
+ },
+ {
+  "q": "En el procedimiento de autorización especial en suelo no urbanizable genérico, si el Consejo Provincial de Urbanismo ha emitido informe favorable y el órgano municipal competente no resuelve y notifica en el plazo de dos meses:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 36.2, párrafo 2.º, literal: con informe favorable del CPU, el silencio es positivo. Con informe desfavorable, es negativo. No hay caducidad ni subrogación. No repite la existente del 36.1.b)."
+ },
+ {
+  "q": "En las capitales de provincia, en los sectores cuya edificabilidad total residencial supere los cien mil metros cuadrados, ¿qué porcentaje mínimo de esa edificabilidad debe destinarse a cubrir, mediante alquiler u otras fórmulas similares, las necesidades residenciales, en especial de los sectores más vulnerables?",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 40.1.d).1 literal: en capitales de provincia, en sectores de más de 100.000 m² de edificabilidad residencial, al menos el 2 %. El 10, el 5 y el 20 % son falsos. La Ley 5/2024 solo añadió la letra k), así que no afecta a la letra d)."
+ },
+ {
+  "q": "Según el art. 40.3 del TRLUA, el incumplimiento de los plazos fijados por el plan general para el desarrollo de sectores y unidades de ejecución, salvo que se deba a causas imputables a la Administración, habilita al Ayuntamiento para:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 40.3 literal: desclasificación por acuerdo plenario, previo informe técnico. Ninguno de los tres distractores está previsto en la ley."
+ },
+ {
+  "q": "Conforme al art. 45.1 del TRLUA, el sector es:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 45.1 literal (sector = ámbito propio del plan parcial o del PERI). Distractores falsos."
+ },
+ {
+  "q": "En suelo no urbanizable, los usos que no estén expresamente permitidos ni prohibidos por el planeamiento se considerarán, según el art. 46.3 del TRLUA:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 46.3, en el artículo que regula la ordenación pormenorizada en suelo no urbanizable, literal: «autorizables». Distractores falsos."
+ },
+ {
+  "q": "El art. 49 del TRLUA distingue entre motivos de alcance supralocal y motivos de legalidad para denegar la aprobación definitiva del plan general. ¿Cuál de los siguientes es un motivo de legalidad?",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 49.4.d) comprobado. Las otras tres opciones reproducen literalmente las letras c), d) y b) del art. 49.3, que son motivos de alcance supralocal. Alguien podría acercar la opción sobre «adecuación a instrumentos de ordenación territorial» al 49.4.a), pero su redacción es literalmente la del 49.3.d), así que no hay ambigüedad."
+ },
+ {
+  "q": "Cuando en la aprobación definitiva del plan general se suspende una parte objeto de reparos y el Ayuntamiento comunica las rectificaciones al órgano autonómico, la suspensión queda levantada por resolución expresa de ese órgano o por el transcurso, sin que formule objeciones, de:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 50.3 literal: dos meses desde la comunicación. Uno, tres y seis meses son falsos."
+ },
+ {
+  "q": "Si concurren varios proyectos de plan parcial de iniciativa no municipal, ¿cuál tiene preferencia en la tramitación según el art. 58.1 del TRLUA?",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 58.1 literal. Ninguno de los otros criterios figura en la ley."
+ },
+ {
+  "q": "En la aprobación de los planes especiales independientes del art. 62 del TRLUA, ¿de qué plazo máximo dispone el órgano competente para dictar y notificar la resolución desde la entrada del expediente completo en su registro?",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 62.3, añadido por la Ley 2/2022 (en vigor desde el 27/08/2022): tres meses. Los cuatro meses son el plazo del 49.5 para el plan general, y la norma especial del 62.3 prevalece. Sin repetición con la existente del 62.2."
+ },
+ {
+  "q": "Según el art. 67.3 del TRLUA, los estudios de detalle:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 67.3 literal. Los estudios de detalle no clasifican suelo, no incrementan el aprovechamiento y no afectan a la ordenación estructural (67.2.a). Distractores falsos."
+ },
+ {
+  "q": "En la tramitación de estudios de detalle de iniciativa privada, la aprobación inicial se entenderá otorgada por el transcurso, desde la presentación de la documentación completa en el registro municipal, de:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 68.2.b) literal: un mes. Los dos meses corresponden al 68.2.d) y los seis al 60.1.a), ambos comprobados. Pregunta distinta de la existente del 60.1.a) (planes parciales, seis meses) y de la del 68.1."
+ },
+ {
+  "q": "Extinguidos los efectos de una suspensión del otorgamiento de licencias acordada para estudiar o reformar el planeamiento, ¿durante qué plazo no podrán acordarse nuevas suspensiones por idéntica finalidad?",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 78.3 literal: cuatro años. Uno y dos años son las duraciones del 78.1 y del 78.2. Distinta de la existente del 78.1."
+ },
+ {
+  "q": "En caso de invalidez de parte de un planeamiento urbanístico, el art. 82 bis del TRLUA dispone que las partes e instrumentos de gestión independientes de ella:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 82 bis (ancla a8-2), añadido por la Ley 2/2022 con efectos desde el 27/08/2022, literal. Distractores falsos."
+ },
+ {
+  "q": "Cuando el Gobierno de Aragón, por grave incumplimiento municipal de competencias urbanísticas, suspende la eficacia de instrumentos de planeamiento y atribuye al Departamento competente la potestad de planeamiento municipal, ¿qué límites temporales fija el art. 83.2 del TRLUA?",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 83.2, párrafo 2.º, literal: suspensión de un año como máximo y atribución de cinco. Los trámites previos que enumera la explicación (audiencia, CPU, COTA, Consejo Consultivo y Cortes) son exactos."
+ },
+ {
+  "q": "Cuando una modificación del plan tenga por objeto incrementar la edificabilidad o la densidad o modifique los usos del suelo, el expediente debe hacer constar la identidad de todos los propietarios o titulares de otros derechos reales sobre las fincas afectadas durante:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 86.7 literal: cinco años anteriores, según el Registro de la Propiedad o el catastro. Distractores falsos."
+ },
+ {
+  "q": "Según el art. 123.4 del TRLUA, las entidades urbanísticas de conservación:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 123.4 literal. Distractores falsos (las entidades no son privadas, la tutela no es del CPU y sí pueden acudir a la vía de apremio)."
+ },
+ {
+  "q": "Las obras de urbanización de unidades funcionales, correctamente finalizadas y puestas a disposición de la Administración, se entenderán recibidas si esta no se pronuncia en el plazo, contado desde la presentación del acta de comprobación de las obras y de la documentación necesaria para su conservación, de:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 123.6 literal: tres meses. Los cinco años son el plazo mínimo de garantía (123.1), como dice la explicación. Distinta de la existente del 123.1."
+ },
+ {
+  "q": "No podrán delimitarse unidades de ejecución en las que la diferencia entre el aprovechamiento objetivo de cada unidad y el que resulta de aplicar sobre su superficie el aprovechamiento medio del sector, cuando exista, sea superior al:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 125.2, que en el consolidado lleva el rótulo «Artículo 125» sin punto (ancla a125aprovechamientomedio), literal: quince por ciento. Distractores falsos."
+ },
+ {
+  "q": "A efectos del cálculo del aprovechamiento, el art. 126.2 del TRLUA considera uso característico:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 126.2 (ancla a126coeficientesdehomogeneizacion) literal: el uso característico es el de mayor edificabilidad. Los valores de repercusión sirven para los coeficientes (126.1). Distractores falsos."
+ },
+ {
+  "q": "En suelo urbanizable, respecto del porcentaje de aprovechamiento correspondiente al municipio, el art. 128.3 del TRLUA dispone que:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 128.3 literal: puede incrementarse hasta el 20 % y no puede reducirse en ningún caso. La reducción solo existe en el suelo urbano no consolidado (127.5.b). La opción correcta omite el requisito de que el valor de las parcelas sea «sensiblemente superior», pero lo que dice no es falso."
+ },
+ {
+  "q": "En las actuaciones aisladas, gestionadas mediante proyectos de obras ordinarias, el art. 131.2.a) del TRLUA exige en todo caso que sus características generales sean aprobadas:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 131.2.a) literal: aprobación por el Ayuntamiento Pleno con información pública de veinte días. Distractores falsos."
+ },
+ {
+  "q": "Según el art. 137.2 del TRLUA, los proyectos de urbanización:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 137.2 literal. Los proyectos de urbanización tampoco pueden modificar el planeamiento ni establecer ordenación, y pueden abarcar una o varias unidades. Distractores falsos."
+ },
+ {
+  "q": "¿En qué momento adquiere la junta de compensación personalidad jurídica y plena capacidad de obrar, según el art. 155.1 del TRLUA?",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 155.1 literal: personalidad jurídica con la escritura. La inscripción solo da publicidad y la aprobación de los estatutos es anterior a la constitución. Distractores falsos."
+ },
+ {
+  "q": "Respecto de las fincas pertenecientes a los propietarios miembros, las juntas de compensación actuarán, según el art. 157.1 del TRLUA, como:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 157.1 literal. Distractores falsos."
+ },
+ {
+  "q": "Si transcurre el plazo para que el Alcalde resuelva sobre la adjudicación del programa de urbanización sin que se haya resuelto y notificado, el art. 179.4 del TRLUA dispone que:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 179.4 literal: silencio negativo, que supone el rechazo de todas las proposiciones. Plazos de 6 y 9 meses correctos. Distinta de la existente del 178.3."
+ },
+ {
+  "q": "Transcurridos cuatro años desde una ocupación directa sin aprobación definitiva del proyecto de reparcelación, los interesados pueden advertir al municipio de su propósito de iniciar el expediente de justiprecio. ¿Cuándo podrá llevarse a cabo ese expediente por ministerio de la Ley?",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 193.2 literal: seis meses desde la advertencia. Los tres meses son del 193.3 (aceptación de la hoja de aprecio)."
+ },
+ {
+  "q": "Los sectores concertados de urbanización prioritaria que autoricen la promoción de vivienda, cuando se delimiten y ordenen mediante modificación del plan general vigente, deberán reservar para la construcción de vivienda protegida al menos:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 210.3 (Título IV) literal: al menos el doble. Distractores falsos."
+ },
+ {
+  "q": "A efectos del deber de edificar, el art. 217.5 del TRLUA entiende por construcciones inadecuadas:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 217.5 literal: «más de la mitad». Distractores falsos. Los arts. 260 y 82 que cita la explicación son correctos. Distinta de la existente del 217.1."
+ },
+ {
+  "q": "En el concurso convocado de oficio para sustituir al propietario que incumple el deber de edificar, si la primera licitación queda desierta, el precio a satisfacer por el adjudicatario podrá reducirse hasta alcanzar:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 222.1.a) literal: tres cuartas partes del valor expropiatorio. Distractores falsos."
+ },
+ {
+  "q": "Las instalaciones de paneles fotovoltaicos para autoconsumo sobre cubierta, fuera de edificios protegidos y dejando aparte el caso de la cubierta inclinada, quedan sujetas a declaración responsable cuando no superen, desde el plano de la cubierta, una altura de:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 227.2.f), añadido por la Ley 1/2021 (en vigor desde el 23/02/2021): un metro y medio. El metro de la cubierta inclinada queda excluido por el enunciado y no figura entre las opciones."
+ },
+ {
+  "q": "Según el art. 232.1 del TRLUA, las licencias se otorgarán de acuerdo con las previsiones de la legislación y el planeamiento urbanístico vigentes:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 232.1 literal: el momento de la resolución, si se dicta en plazo. Distractores falsos."
+ },
+ {
+  "q": "Si al entrar en vigor un nuevo plan una licencia de edificación ya obtenida resulta incompatible con las nuevas determinaciones y la edificación ya se ha iniciado, el municipio:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 233.1.a) literal. Es complementaria de la existente del 233.1.b) (obra no iniciada), así que no la repite. Distractores falsos."
+ },
+ {
+  "q": "Para obtener licencia de edificación con realización simultánea de la urbanización pendiente, los solicitantes deben acreditar que edificarán la parcela, urbanizando o completando la urbanización, en el plazo que establezca la licencia o, en su defecto, en un plazo:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 234.2 literal: plazo inferior a tres años. Distractores falsos."
+ },
+ {
+  "q": "Para autorizar la edificación y urbanización simultáneas en suelo urbano fuera de unidad de ejecución, la garantía que debe prestar el interesado para las obras de urbanización no puede ser inferior al:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 235.1.b) literal: no inferior al 50 %. El 6 % (154.3.d) y el 10 % (169.1) están bien atribuidos en la explicación."
+ },
+ {
+  "q": "Cuando el Consejero competente remite al municipio un proyecto de la Administración de la Comunidad Autónoma por razones de urgencia o excepcional interés público, el municipio debe notificar su conformidad o disconformidad con el planeamiento en el plazo de:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 240.2 literal: un mes, y si no hay disconformidad expresa se entiende que hay conformidad. Distractores falsos. El 240.3 de la explicación es correcto."
+ },
+ {
+  "q": "En los planes de desarrollo que regularizan parcelaciones ilegales, en cuanto al mantenimiento de la urbanización, el art. 251.m) del TRLUA permite al municipio:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 251.m) literal (Título V, regularización de parcelaciones ilegales). Distractores falsos. Distinta de las existentes del 251.c) y del 251.l)."
+ },
+ {
+  "q": "En los ámbitos de regularización de parcelaciones ilegales, el art. 253.3 del TRLUA establece que los únicos usos lucrativos admisibles son:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 253.3, primera frase, literal. La existente del 253.3 pregunta otra cosa (unifamiliar aislada o pareada), así que no hay repetición. Distractores falsos: plurifamiliar, exclusión del uso residencial, uso industrial."
+ },
+ {
+  "q": "Cuando el presupuesto de las obras exigidas por una orden de ejecución supera la cuarta parte del valor de las edificaciones, excluido el suelo, el municipio podrá subvencionar:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 256.1 literal: hasta el 10 %. Distractores falsos. El 256.2 de la explicación es correcto."
+ },
+ {
+  "q": "Cuando una edificación amenaza con derruirse de modo inminente, la adopción por el Alcalde de medidas como el apuntalamiento, el desalojo o la demolición total o parcial:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 262.3 literal. Distractores falsos: el 262.2 no exime al propietario y quien actúa es el Alcalde, no el Pleno."
+ },
+ {
+  "q": "¿Cuál de las siguientes conductas se considera obstrucción de la actividad de inspección urbanística según el art. 265.3 del TRLUA?",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 265.3.c) literal. El supuesto del primer distractor está expresamente excluido en el 265.3.a). Pedir la credencial es legítimo (265.1). Distractores falsos."
+ },
+ {
+  "q": "Según el art. 266.3 del TRLUA, las actas de inspección que carezcan de un requisito formal relevante o que no procedan de un inspector urbanístico o funcionario dotado de fe pública:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 266.3 literal: valen como denuncias. Distractores falsos (el valor de documento público es solo para las actas válidas, 266.1)."
+ },
+ {
+  "q": "Si el planeamiento vigente al incoarse el expediente de legalización difiere del vigente cuando se ejecutaron las obras, el art. 269.5 del TRLUA ordena aplicar:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 269.5, literal: se aplica el más favorable a las obras. Distractores falsos. Distinta de las existentes de los apartados 269.1, 269.3 y 269.4."
+ },
+ {
+  "q": "El órgano comarcal competente puede subrogarse en las competencias de protección de la legalidad urbanística del Alcalde, previo requerimiento, en caso de inactividad municipal durante:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 272.1 literal: un mes. El contraste con el 285.2 que hace la explicación es exacto (un mes para incoar, tres meses de paralización)."
+ },
+ {
+  "q": "La suspensión de los suministros de energía, agua, gas y telefonía ordenada junto con una orden de paralización de obras solo podrá levantarse, según el art. 274.3 del TRLUA:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 274.3 literal. El distractor de los seis meses no se confunde con la caducidad del 269.6, que se cuenta desde el inicio del procedimiento y no levanta la suspensión de suministros según el 274.3. Distractores falsos."
+ },
+ {
+  "q": "Se considera infracción urbanística grave la ejecución de edificaciones sobre una parcela excediéndose de la edificabilidad o de las condiciones de volumen determinadas en el instrumento de planeamiento en más de un:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 278.c).1.ª literal: más de un 10 %. La multa de 6.000,01 a 60.000 € está comprobada. Distinta de la existente del 278 (cuantía)."
+ },
+ {
+  "q": "¿Cuál de las siguientes conductas constituye infracción urbanística muy grave según el TRLUA?",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 279.a) literal. Los distractores son el 277.a) (leve), el 278.f) (grave) y el 278.d) (grave), todos comprobados."
+ },
+ {
+  "q": "En las infracciones en materia de parcelaciones, el art. 280.2 del TRLUA declara responsables a:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 280.2 literal. Distractores falsos (las suministradoras responden por el 280.3). Distinta de las existentes del 280.1 y del 280.6."
+ },
+ {
+  "q": "La completa y voluntaria reposición de la realidad física ilegalmente alterada y la reparación de los posibles daños, realizada antes del inicio del procedimiento sancionador, es según el art. 282.5 del TRLUA:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 282.5 literal: es eximente. Los arts. 282.7.d) (atenuante) y 287.1 (condonación del 50 %) que cita la explicación son correctos. Distinta de la existente del 287.1."
+ },
+ {
+  "q": "Por infracciones graves o muy graves cometidas por un agente urbanizador en el ejercicio de sus funciones, podrá imponerse como sanción accesoria la inhabilitación para actuar como agente urbanizador durante:",
+  "veredicto": "CONFIRMADA",
+  "notaRevision": "Art. 283.3 literal: mínimo de un año y máximo de cinco. Distractores falsos."
+ }
+]
