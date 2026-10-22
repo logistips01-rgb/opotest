@@ -1,0 +1,87 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 19,
+  "fecha": "2026-10-22",
+  "preguntas": [
+    {
+      "q": "Conforme al artículo 8.3 del RD 896/1991, el número mínimo de temas para el ingreso en la subescala del grupo B es de:",
+      "options": [
+        "40 temas",
+        "75 temas",
+        "90 temas",
+        "60 temas"
+      ],
+      "correct": 3,
+      "exp": "El art. 8.3 del RD 896/1991 exige como mínimo 60 temas para el grupo B. Los 90 temas son del grupo A y los 40, del grupo C; 75 no figura en el precepto. (El antiguo grupo B equivale hoy al subgrupo A2: disposición transitoria tercera.2 del TREBEP.)",
+      "fuente": "Art. 8.3 RD 896/1991",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (DUDOSA): La cifra es correcta: el art. 8.3 RD 896/1991 fija 60 temas para el grupo B, y 40, 75 y 90 son falsos. Pero el enunciado no es inequívoco: dice «grupo B» sin aclarar que es el grupo B antiguo del RD, que hoy equivale al subgrupo A2 (DT 3.ª.2 TREBEP: «Grupo B: Subgrupo A2»). Hoy existe además un grupo B distinto, el de Técnico Superior del art. 76 TREBEP, y quien estudia puede entender que los 60 temas valen para ese grupo. La aclaración solo está en la explicación. Arreglo: redactar el enunciado como en la pregunta del grupo D, por ejemplo «…en la subescala del grupo B (el antiguo grupo B, equivalente hoy al subgrupo A2 según la disposición transitoria tercera del TREBEP, no el actual grupo B de Técnico Superior)…». | Revisor 2 (CONFIRMADA): Art. 8.3 RD 896/1991: grupo B, 60 temas. DT 3.ª.2 TREBEP: grupo B = subgrupo A2 (comprobado). 40, 75 y 90 falsos para el grupo B. No repite las existentes (grupos A y C).",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "De acuerdo con la disposición final primera del RD 896/1991, ¿cuál de los siguientes preceptos tiene carácter supletorio respecto de la legislación específica de las Comunidades Autónomas?",
+      "options": [
+        "El artículo 6, sobre la publicación de las bases y las convocatorias",
+        "El artículo 2, sobre los sistemas de acceso",
+        "El artículo 7, sobre la resolución de las pruebas",
+        "El artículo 8, sobre los ejercicios teóricos"
+      ],
+      "correct": 0,
+      "exp": "La disposición final primera del RD 896/1991 declara básicos todos sus preceptos excepto el art. 4, letras a), b), c), d), f), g), h) e i), el art. 6 y las disposiciones adicionales primera (párrafos segundo y tercero), segunda y tercera, que se aplican con carácter supletorio respecto de la legislación específica de las Comunidades Autónomas. Los arts. 2, 7 y 8 no están entre las excepciones, así que son básicos.",
+      "fuente": "Disposición final primera RD 896/1991",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (DUDOSA): La respuesta es correcta: según la DF 1.ª RD 896/1991, el art. 6 es supletorio, y los arts. 2, 7 y 8 no están entre las excepciones (cita literal comprobada). El problema está en la explicación, que concluye «Los arts. 2, 7 y 8 […] son básicos» sin advertir que el contenido de dos de ellos lo ha desplazado el TREBEP: el art. 2 (ingreso por concurso) choca con el art. 61.6 TREBEP (el concurso solo cabe, excepcionalmente, en virtud de ley), y la regla absoluta del art. 7 (nunca más aprobados que plazas) con el art. 61.8 TREBEP («excepto cuando así lo prevea la propia convocatoria»). Así, quien estudia puede tomar como vigentes y básicas reglas desplazadas. Arreglo: añadir a la explicación «aunque el contenido de los arts. 2 y 7 ha quedado desplazado en parte por el art. 61.6 y 61.8 TREBEP», o sustituir esos dos distractores por otros preceptos básicos no afectados (por ejemplo, el art. 1, el 3 o el 9). | Revisor 2 (CONFIRMADA): DF 1.ª RD 896/1991 comprobada: son supletorios el art. 4 (salvo letra e), el art. 6 y las DA 1.ª (párr. 2.º y 3.º), 2.ª y 3.ª; los arts. 2, 7 y 8 son básicos. Única correcta: art. 6.",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "De acuerdo con el artículo 4.2 del RD 861/1986, el establecimiento o la modificación del complemento específico exigirá, con carácter previo:",
+      "options": [
+        "Un informe favorable de la Comunidad Autónoma",
+        "Que la Corporación efectúe una valoración del puesto de trabajo",
+        "La autorización del Ministerio competente en materia de Administración Local",
+        "La aprobación previa de la oferta de empleo público del ejercicio"
+      ],
+      "correct": 1,
+      "exp": "El art. 4.2 del RD 861/1986 dispone que el establecimiento o modificación del complemento específico «exigirá, con carácter previo, que por la Corporación se efectúe una valoración del puesto de trabajo», atendiendo a las circunstancias del art. 4.1. Después, el Pleno, al aprobar la relación de puestos de trabajo, determina los puestos con complemento específico y su cuantía (art. 4.3). No se exige informe autonómico, autorización ministerial ni la oferta de empleo.",
+      "fuente": "Art. 4.2 RD 861/1986",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (DUDOSA): La respuesta es correcta: el art. 4.2 RD 861/1986 exige una valoración previa del puesto (cita literal comprobada), y los demás distractores son falsos. Pero la explicación añade como paso siguiente «el Pleno, al aprobar la relación de puestos de trabajo, determina los puestos con complemento específico y su cuantía (art. 4.3)». En Zaragoza, municipio de gran población, la RPT y las retribuciones del personal las aprueba la Junta de Gobierno Local (art. 127.1.h LBRL, competencia indelegable según el art. 127.2), no el Pleno. Así, la explicación enseña para el municipio del examen un órgano que no es el competente. Arreglo: añadir «(en los municipios de gran población, como Zaragoza, la RPT la aprueba la Junta de Gobierno Local: art. 127.1.h LBRL)» o quitar esa frase. | Revisor 2 (CONFIRMADA): Art. 4.2 RD 861/1986 literal: valoración previa del puesto por la Corporación. Distractores falsos. Nota menor: la explicación atribuye al Pleno la aprobación de la RPT (art. 4.3 RD); en Zaragoza, como gran población, la RPT y las retribuciones las aprueba la Junta de Gobierno Local (art. 127.1.h LBRL). Conviene añadir esa precisión, aunque no afecta a la respuesta.",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "Según el artículo 5.5 del RD 861/1986, ¿a quién corresponde determinar en el presupuesto la cantidad global destinada al complemento de productividad de los funcionarios?",
+      "options": [
+        "Al Alcalde o Presidente de la Corporación",
+        "A la Comunidad Autónoma",
+        "Al Pleno de cada Corporación",
+        "Al Ministerio de Hacienda"
+      ],
+      "correct": 2,
+      "exp": "El art. 5.5 del RD 861/1986 atribuye al Pleno de cada Corporación determinar en el presupuesto la cantidad global destinada al complemento de productividad, dentro del límite máximo del art. 7.2.b). Al Alcalde o Presidente le corresponde después distribuir esa cuantía entre programas o áreas y hacer la asignación individual, con sujeción a los criterios que haya fijado el Pleno (art. 5.6).",
+      "fuente": "Art. 5.5 RD 861/1986",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (DUDOSA): La respuesta es correcta, también en Zaragoza: el art. 5.5 RD 861/1986 atribuye al Pleno la cantidad global en el presupuesto (cita literal comprobada), el Pleno aprueba el presupuesto también en los municipios de gran población (art. 123.1.h LBRL) y el art. 93.2 LBRL le atribuye la cuantía global. El problema está en la explicación: dice sin matiz que «al Alcalde o Presidente le corresponde después distribuir esa cuantía […] y hacer la asignación individual» (art. 5.6). En un municipio de gran población, las retribuciones del personal las aprueba la Junta de Gobierno Local (art. 127.1.h LBRL, indelegable según el art. 127.2). En una pregunta precisamente sobre el órgano competente, esa frase puede enseñar un reparto de competencias que no es el de Zaragoza. Arreglo: añadir «en los municipios de gran población, la aprobación de las retribuciones del personal corresponde a la Junta de Gobierno Local (art. 127.1.h LBRL)» o limitar la explicación al art. 5.5. | Revisor 2 (DUDOSA): Respuesta correcta y vigente (art. 5.5 RD 861/1986; también art. 93.2 LBRL y, en gran población, el Pleno aprueba el presupuesto, art. 123.1.h LBRL), así que no cambia para Zaragoza. Pero, como la pregunta versa sobre reparto de competencias entre órganos, la explicación afirma sin matiz que al Alcalde le corresponde distribuir la cuantía y la asignación individual (art. 5.6 RD); en Zaragoza, municipio de gran población, la aprobación de las retribuciones del personal es de la Junta de Gobierno Local (art. 127.1.h LBRL, indelegable según 127.2). Arreglo: añadir a la explicación «en los municipios de gran población, como Zaragoza, las retribuciones del personal las aprueba la Junta de Gobierno Local (art. 127.1.h LBRL)», o suprimir la frase sobre el Alcalde.",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "Según el artículo 130.1 del TRRL, son funcionarios de la Administración Local las personas vinculadas a ella por una relación de servicios profesionales y retribuidos regulada por:",
+      "options": [
+        "El Derecho Laboral",
+        "El Derecho Civil",
+        "El convenio colectivo de la Corporación",
+        "El Derecho Administrativo"
+      ],
+      "correct": 3,
+      "exp": "El art. 130.1 TRRL define a los funcionarios de la Administración Local como «las personas vinculadas a ella por una relación de servicios profesionales y retribuidos, regulada por el Derecho Administrativo». El régimen laboral es el del personal contratado, que se rige íntegramente por el Derecho Laboral (art. 177.2 TRRL).",
+      "fuente": "Art. 130.1 TRRL (RDLeg 781/1986)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Art. 130.1 TRRL, cita literal comprobada. Concuerda con el art. 9.1 TREBEP. El art. 177.2 TRRL, que cita la explicación, es correcto. No repite la existente sobre el art. 130.2. | Revisor 2 (DUDOSA): Respuesta correcta: art. 130.1 TRRL literal, coherente con art. 9.1 TREBEP. Pero la explicación presenta como vigente algo superado: dice que el personal laboral «se rige íntegramente por el Derecho Laboral (art. 177.2 TRRL)», y el art. 7 TREBEP dispone que el personal laboral se rige, además de por la legislación laboral y los convenios, por los preceptos del Estatuto que así lo dispongan (y en ciertos permisos, por el propio Estatuto). Arreglo: sustituir esa frase por «el personal laboral se rige por la legislación laboral, los convenios aplicables y los preceptos del TREBEP que así lo dispongan (art. 7 TREBEP)».",
+      "_motivo": "veredicto DUDOSA"
+    }
+  ]
+}

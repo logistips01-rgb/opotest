@@ -1,0 +1,607 @@
+{
+ "slug": "aux-admin-zaragoza",
+ "tema": 19,
+ "lote": "t19-1",
+ "preguntas": [
+  {
+   "q": "Según el artículo 4.c) del RD 896/1991, ¿qué carácter tendrán las pruebas de la fase de oposición?",
+   "options": [
+    "Eliminatorio solo en el ejercicio de carácter práctico",
+    "Eliminatorio",
+    "No eliminatorio, salvo que la convocatoria disponga otra cosa",
+    "Eliminatorio únicamente cuando el sistema selectivo sea el concurso-oposición"
+   ],
+   "correct": 1,
+   "exp": "El art. 4.c) del RD 896/1991 dispone que las pruebas de la fase de oposición «tendrán carácter eliminatorio». El carácter no eliminatorio lo tiene, en el concurso-oposición, la fase de concurso; y en la oposición y el concurso-oposición pueden añadirse pruebas voluntarias no eliminatorias, pero eso no cambia el carácter eliminatorio de las pruebas de la oposición. El precepto no limita ese carácter al ejercicio práctico ni al concurso-oposición.",
+   "fuente": "Art. 4.c) RD 896/1991",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 4.c) RD 896/1991 (BOE-A-1991-15126, texto único sin modificaciones): «Las de la fase de oposición tendrán carácter eliminatorio». Los otros tres son falsos: el precepto no limita el carácter al ejercicio práctico ni al concurso-oposición, ni lo deja a la convocatoria. El TREBEP (art. 61) no lo contradice. No repite la existente sobre la fase de concurso no eliminatoria, que pregunta otra cosa. | Revisor 2 (CONFIRMADA): Art. 4.c) RD 896/1991 (consolidado BOE, sin modificaciones desde 1991): «Las de la fase de oposición tendrán carácter eliminatorio». Los tres distractores son falsos (lo no eliminatorio es la fase de concurso y las pruebas voluntarias). Precepto supletorio de la legislación autonómica (DF 1.ª), pero la pregunta se ciñe al texto del RD; compatible con el art. 61 TREBEP. No repite las preguntas existentes sobre el 4.c) (práctico, anonimato, fase de concurso, entrevistas, voluntarias)."
+  },
+  {
+   "q": "Conforme al artículo 4.c) del RD 896/1991, en los procesos selectivos de funcionarios de Administración local:",
+   "options": [
+    "Deberá establecerse en todo caso un curso de formación de carácter eliminatorio",
+    "Solo podrá establecerse un período de prácticas cuando el sistema sea el concurso",
+    "No podrá exigirse la superación de un período de prácticas",
+    "Podrá establecerse la superación de un período de prácticas o de un curso de formación"
+   ],
+   "correct": 3,
+   "exp": "El art. 4.c) del RD 896/1991 dice que «en los procesos selectivos podrán establecerse la superación de un período de prácticas o de un curso de formación». Es una posibilidad, no una obligación, y no se limita a ningún sistema selectivo. Si se prevé, las bases deben recoger sus características generales (art. 4.d).",
+   "fuente": "Art. 4.c) RD 896/1991",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 4.c) RD 896/1991: «En los procesos selectivos podrán establecerse la superación de un período de prácticas o de un curso de formación». Es una facultad («podrán»), no una obligación ni algo limitado al concurso, así que los tres distractores son falsos. Concuerda con el art. 61.5 TREBEP («las pruebas podrán completarse con la superación de cursos, de periodos de prácticas…»). No está repetida. | Revisor 2 (CONFIRMADA): Art. 4.c), párrafo cuarto, RD 896/1991: «podrán establecerse la superación de un período de prácticas o de un curso de formación»; facultativo y sin limitarse a un sistema. Coherente con el art. 61.5 TREBEP. Distractores falsos. Cita literal comprobada."
+  },
+  {
+   "q": "¿Cuál de los siguientes extremos figura expresamente entre el contenido mínimo que deben tener las bases de las convocatorias según el artículo 4 del RD 896/1991?",
+   "options": [
+    "Los sistemas de calificación de los ejercicios",
+    "La fecha y el lugar de celebración del primer ejercicio",
+    "Las retribuciones complementarias de las plazas convocadas",
+    "La relación de aspirantes admitidos y excluidos"
+   ],
+   "correct": 0,
+   "exp": "El art. 4 del RD 896/1991 enumera lo que las bases «deberán contener al menos», y su letra g) incluye «los sistemas de calificación de los ejercicios». La fecha y el lugar del primer ejercicio, las retribuciones complementarias de las plazas y la lista de admitidos y excluidos no figuran en esa enumeración.",
+   "fuente": "Art. 4.g) RD 896/1991",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 4.g) RD 896/1991: «Los sistemas de calificación de los ejercicios». En el art. 4 no figuran la fecha y el lugar del primer ejercicio, las retribuciones complementarias ni la lista de admitidos y excluidos. Cita literal comprobada. No está repetida. | Revisor 2 (CONFIRMADA): Art. 4.g) RD 896/1991: «Los sistemas de calificación de los ejercicios». Ni la fecha/lugar del primer ejercicio, ni las retribuciones complementarias, ni la lista de admitidos figuran en las letras a) a i) del art. 4. Correcta y única."
+  },
+  {
+   "q": "Según el artículo 4.a) del RD 896/1991, al recoger la naturaleza y características de las plazas convocadas, las bases deben determinar expresamente:",
+   "options": [
+    "El puesto de trabajo concreto que ocupará cada aspirante aprobado",
+    "El nivel de complemento de destino y la cuantía del complemento específico de cada plaza",
+    "La Escala, subescala y clase a que pertenezcan, con indicación del grupo de titulación que les corresponda",
+    "La unidad administrativa a la que quedarán adscritas las plazas"
+   ],
+   "correct": 2,
+   "exp": "El art. 4.a) del RD 896/1991 exige que las bases contengan «la naturaleza y características de las plazas convocadas, con determinación expresa de la Escala, subescala y clase a que pertenezcan, con indicación del grupo de titulación que correspondan a cada una de ellas», y también, en su caso, las que correspondan a promoción interna. No exige identificar el puesto concreto, los complementos ni la unidad de adscripción.",
+   "fuente": "Art. 4.a) RD 896/1991",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 4.a) RD 896/1991, cita literal comprobada. El precepto no exige el puesto concreto, los complementos ni la unidad de adscripción. Pregunta literal sobre el contenido de las bases: «grupo de titulación» es el término del RD, y no se da por vigente nada que el TREBEP haya desplazado. No está repetida. | Revisor 2 (CONFIRMADA): Art. 4.a) RD 896/1991 comprobado literalmente. El art. 4 no exige puesto concreto, niveles/complementos ni unidad de adscripción. Distractores falsos."
+  },
+  {
+   "q": "Según el artículo 8.1 del RD 896/1991, los programas de los ejercicios teóricos de selección:",
+   "options": [
+    "Serán aprobados por la Administración del Estado con carácter uniforme para todas las Corporaciones",
+    "Serán aprobados por la Comunidad Autónoma y contendrán materias comunes y específicas a partes iguales",
+    "Serán aprobados por cada Corporación y contendrán materias comunes y específicas en la proporción que determine la convocatoria",
+    "Serán aprobados por cada Corporación y versarán exclusivamente sobre materias específicas"
+   ],
+   "correct": 2,
+   "exp": "El art. 8.1 del RD 896/1991 establece que los programas de los ejercicios teóricos «serán aprobados por cada Corporación y contendrán materias comunes y materias específicas en la proporción que determine la convocatoria». El Estado fija solo los contenidos mínimos (art. 8.2), entre ellos materias comunes que deben ser al menos una quinta parte del programa.",
+   "fuente": "Art. 8.1 RD 896/1991",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 8.1 RD 896/1991, cita literal comprobada: los aprueba cada Corporación y contienen materias comunes y específicas «en la proporción que determine la convocatoria». Los distractores (aprobación estatal, autonómica o a partes iguales, o solo materias específicas) son falsos. La explicación (mínimos del art. 8.2, materias comunes de al menos una quinta parte) es exacta. Vale igual en un municipio de gran población, porque solo dice «cada Corporación». No está repetida. | Revisor 2 (CONFIRMADA): Art. 8.1 RD 896/1991 literal: aprobados por cada Corporación, materias comunes y específicas en la proporción que determine la convocatoria. Art. 8 es básico (DF 1.ª). Explicación exacta (materias comunes al menos una quinta parte, art. 8.2.A)."
+  },
+  {
+   "q": "Conforme al artículo 8.2.B).a) del RD 896/1991, las materias específicas de los programas de selección versarán sobre:",
+   "options": [
+    "El contenido de las funciones y tareas atribuidas legalmente a la Escala, subescala o clase a que se refieren las pruebas",
+    "La Constitución Española, la organización del Estado y el Estatuto de Autonomía",
+    "El Régimen Local y el Derecho Administrativo General",
+    "La Hacienda Pública y la Administración Tributaria"
+   ],
+   "correct": 0,
+   "exp": "Según el art. 8.2.B).a) del RD 896/1991, las materias específicas «versarán sobre el contenido de las funciones y tareas atribuidas legalmente a la Escala, subescala o clase a que se refieren las pruebas». La Constitución, la organización del Estado, el Estatuto de Autonomía, el Régimen Local, el Derecho Administrativo General y la Hacienda Pública y Administración Tributaria son las materias comunes del art. 8.2.A).",
+   "fuente": "Art. 8.2.B).a) RD 896/1991",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 8.2.B).a) RD 896/1991, cita literal comprobada. Los tres distractores son materias comunes del art. 8.2.A) (letras a a f). No repite las existentes sobre 8.2.A), 8.2.B).b) y 8.2.B).c). | Revisor 2 (CONFIRMADA): Art. 8.2.B).a) RD 896/1991 literal. Los distractores reproducen materias comunes del art. 8.2.A) (letras a-f), por tanto falsos como materias específicas."
+  },
+  {
+   "q": "Según el artículo 8.3 del RD 896/1991, la extensión y profundidad de los programas de selección se adecuará a:",
+   "options": [
+    "El número de plazas convocadas y de aspirantes admitidos",
+    "La población del municipio y el volumen de su presupuesto",
+    "Lo que acuerde el Tribunal una vez constituido",
+    "Los niveles de titulación exigidos y a la especialidad profesional de la correspondiente Escala, subescala o clase"
+   ],
+   "correct": 3,
+   "exp": "El art. 8.3 del RD 896/1991 dispone que «la extensión y profundidad de los programas se adecuará a los niveles de titulación exigidos y a la especialidad profesional de la correspondiente Escala, subescala o clase de funcionarios». No menciona el número de plazas o aspirantes, la población o el presupuesto, ni deja la decisión al Tribunal; los programas los aprueba cada Corporación (art. 8.1).",
+   "fuente": "Art. 8.3 RD 896/1991",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 8.3, párrafo primero, RD 896/1991, cita literal comprobada. Ningún distractor aparece en el precepto. No está repetida (el banco solo tenía las cifras de temas de los grupos A y C). | Revisor 2 (CONFIRMADA): Art. 8.3, párrafo primero, RD 896/1991 literal. Distractores sin apoyo en el texto; explicación exacta."
+  },
+  {
+   "q": "Según el artículo 8.3 del RD 896/1991, el número mínimo de temas para el ingreso en la subescala del grupo D (equivalente hoy al subgrupo C2, conforme a la disposición transitoria tercera del TREBEP) es de:",
+   "options": [
+    "10 temas",
+    "20 temas",
+    "30 temas",
+    "40 temas"
+   ],
+   "correct": 1,
+   "exp": "El art. 8.3 del RD 896/1991 fija estos mínimos: grupo A, 90 temas; grupo B, 60; grupo C, 40; grupo D, 20; y grupo E, 10. Los 10 temas son el mínimo del grupo E y los 40, el del grupo C; 30 no corresponde a ningún grupo. La disposición transitoria tercera.2 del TREBEP integra el antiguo grupo D en el subgrupo C2.",
+   "fuente": "Art. 8.3 RD 896/1991",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 8.3 RD 896/1991: «Para el ingreso en la subescala del grupo D: 20 temas». Es inequívoca: el enunciado aclara que se trata del antiguo grupo D, y la DT 3.ª.2 TREBEP dice textualmente «Grupo D: Subgrupo C2» (comprobado). Los distractores 10 (grupo E) y 40 (grupo C) son de otros grupos y 30 no figura. El art. 8.3 no está derogado. No está repetida (el banco tenía los grupos A y C). | Revisor 2 (CONFIRMADA): Art. 8.3 RD 896/1991: grupo D, 20 temas (A 90, B 60, C 40, D 20, E 10). Equivalencia D=C2 comprobada en la DT 3.ª.2 TREBEP. No repite las existentes (grupos A y C)."
+  },
+  {
+   "q": "Conforme al artículo 8.3 del RD 896/1991, el número mínimo de temas para el ingreso en la subescala del grupo B es de:",
+   "options": [
+    "40 temas",
+    "75 temas",
+    "90 temas",
+    "60 temas"
+   ],
+   "correct": 3,
+   "exp": "El art. 8.3 del RD 896/1991 exige como mínimo 60 temas para el grupo B. Los 90 temas son del grupo A y los 40, del grupo C; 75 no figura en el precepto. (El antiguo grupo B equivale hoy al subgrupo A2: disposición transitoria tercera.2 del TREBEP.)",
+   "fuente": "Art. 8.3 RD 896/1991",
+   "confianza": "alta",
+   "veredicto": "DUDOSA",
+   "notaRevision": "Revisor 1 (DUDOSA): La cifra es correcta: el art. 8.3 RD 896/1991 fija 60 temas para el grupo B, y 40, 75 y 90 son falsos. Pero el enunciado no es inequívoco: dice «grupo B» sin aclarar que es el grupo B antiguo del RD, que hoy equivale al subgrupo A2 (DT 3.ª.2 TREBEP: «Grupo B: Subgrupo A2»). Hoy existe además un grupo B distinto, el de Técnico Superior del art. 76 TREBEP, y quien estudia puede entender que los 60 temas valen para ese grupo. La aclaración solo está en la explicación. Arreglo: redactar el enunciado como en la pregunta del grupo D, por ejemplo «…en la subescala del grupo B (el antiguo grupo B, equivalente hoy al subgrupo A2 según la disposición transitoria tercera del TREBEP, no el actual grupo B de Técnico Superior)…». | Revisor 2 (CONFIRMADA): Art. 8.3 RD 896/1991: grupo B, 60 temas. DT 3.ª.2 TREBEP: grupo B = subgrupo A2 (comprobado). 40, 75 y 90 falsos para el grupo B. No repite las existentes (grupos A y C)."
+  },
+  {
+   "q": "Según el artículo 8.4 del RD 896/1991, respecto de los contenidos mínimos de los programas de selección, las Corporaciones Locales:",
+   "options": [
+    "No podrán añadir temas a los contenidos mínimos fijados por el Estado",
+    "Podrán añadir los temas que consideren necesarios para garantizar la selección de los aspirantes más cualificados",
+    "Podrán reducirlos cuando se convoquen menos de cinco plazas",
+    "Solo podrán añadir temas con autorización previa de la Comunidad Autónoma"
+   ],
+   "correct": 1,
+   "exp": "El art. 8.4 del RD 896/1991 dice que las Corporaciones Locales «podrán adicionar a los contenidos mínimos […] los temas que consideren necesarios para garantizar en todo caso la selección de los aspirantes más cualificados para el desempeño de las plazas convocadas». Los contenidos son mínimos: se pueden ampliar, pero no reducir, y no hace falta autorización de la Comunidad Autónoma.",
+   "fuente": "Art. 8.4 RD 896/1991",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 8.4 RD 896/1991, cita literal comprobada: «podrán adicionar… los temas que consideren necesarios para garantizar en todo caso la selección de los aspirantes más cualificados». No hay prohibición de añadir, ni reducción por pocas plazas, ni autorización autonómica. No está repetida. | Revisor 2 (CONFIRMADA): Art. 8.4 RD 896/1991 literal («podrán adicionar ... los temas que consideren necesarios...»). Distractores falsos; explicación exacta."
+  },
+  {
+   "q": "Según la disposición adicional tercera del RD 896/1991, la selección de los funcionarios de los Cuerpos de Policía Local y de Bomberos se regirá por lo establecido en ese Real Decreto:",
+   "options": [
+    "En todo caso, con preferencia sobre sus normas específicas",
+    "Únicamente en lo relativo a la composición de los Tribunales",
+    "En cuanto no se oponga a sus normas específicas",
+    "En ningún caso, porque quedan excluidos de su ámbito de aplicación"
+   ],
+   "correct": 2,
+   "exp": "La disposición adicional tercera del RD 896/1991 establece que la selección de los funcionarios de los Cuerpos de Policía Local y de Bomberos «se regirá por lo establecido en el presente Real Decreto en cuanto no se oponga a sus normas específicas». El Real Decreto se les aplica, pero cede ante su normativa propia; no se limita a los Tribunales.",
+   "fuente": "Disposición adicional tercera RD 896/1991",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Disposición adicional tercera RD 896/1991, cita literal comprobada: se aplica «en cuanto no se oponga a sus normas específicas». Los otros tres son falsos. No contradice el art. 3.2 TREBEP (la Policía Local se rige también por el Estatuto y por la legislación autonómica), y la pregunta solo recoge el carácter subsidiario del RD. Está dentro del epígrafe y no está repetida. | Revisor 2 (CONFIRMADA): Disposición adicional tercera RD 896/1991 literal: «en cuanto no se oponga a sus normas específicas». Distractores falsos."
+  },
+  {
+   "q": "De acuerdo con la disposición final primera del RD 896/1991, ¿cuál de los siguientes preceptos tiene carácter supletorio respecto de la legislación específica de las Comunidades Autónomas?",
+   "options": [
+    "El artículo 6, sobre la publicación de las bases y las convocatorias",
+    "El artículo 2, sobre los sistemas de acceso",
+    "El artículo 7, sobre la resolución de las pruebas",
+    "El artículo 8, sobre los ejercicios teóricos"
+   ],
+   "correct": 0,
+   "exp": "La disposición final primera del RD 896/1991 declara básicos todos sus preceptos excepto el art. 4, letras a), b), c), d), f), g), h) e i), el art. 6 y las disposiciones adicionales primera (párrafos segundo y tercero), segunda y tercera, que se aplican con carácter supletorio respecto de la legislación específica de las Comunidades Autónomas. Los arts. 2, 7 y 8 no están entre las excepciones, así que son básicos.",
+   "fuente": "Disposición final primera RD 896/1991",
+   "confianza": "alta",
+   "veredicto": "DUDOSA",
+   "notaRevision": "Revisor 1 (DUDOSA): La respuesta es correcta: según la DF 1.ª RD 896/1991, el art. 6 es supletorio, y los arts. 2, 7 y 8 no están entre las excepciones (cita literal comprobada). El problema está en la explicación, que concluye «Los arts. 2, 7 y 8 […] son básicos» sin advertir que el contenido de dos de ellos lo ha desplazado el TREBEP: el art. 2 (ingreso por concurso) choca con el art. 61.6 TREBEP (el concurso solo cabe, excepcionalmente, en virtud de ley), y la regla absoluta del art. 7 (nunca más aprobados que plazas) con el art. 61.8 TREBEP («excepto cuando así lo prevea la propia convocatoria»). Así, quien estudia puede tomar como vigentes y básicas reglas desplazadas. Arreglo: añadir a la explicación «aunque el contenido de los arts. 2 y 7 ha quedado desplazado en parte por el art. 61.6 y 61.8 TREBEP», o sustituir esos dos distractores por otros preceptos básicos no afectados (por ejemplo, el art. 1, el 3 o el 9). | Revisor 2 (CONFIRMADA): DF 1.ª RD 896/1991 comprobada: son supletorios el art. 4 (salvo letra e), el art. 6 y las DA 1.ª (párr. 2.º y 3.º), 2.ª y 3.ª; los arts. 2, 7 y 8 son básicos. Única correcta: art. 6."
+  },
+  {
+   "q": "Según el artículo 1 del RD 861/1986, ¿pueden los funcionarios de Administración Local percibir participación o premio en las multas impuestas?",
+   "options": [
+    "No, aunque estuviesen normativamente atribuidas a los mismos",
+    "Sí, cuando estén normativamente atribuidas a los mismos",
+    "Sí, hasta el límite que fije el Pleno de la Corporación",
+    "Solo los funcionarios de la Policía Local, por las multas que ellos mismos denuncien"
+   ],
+   "correct": 0,
+   "exp": "El art. 1 del RD 861/1986 establece que los funcionarios de Administración Local no podrán percibir «participación o premio en multas impuestas, aun cuando estuviesen normativamente atribuidas a los mismos». La prohibición no admite excepciones por acuerdo del Pleno ni para ningún colectivo. En el mismo sentido, el art. 153.2 TRRL prohíbe participar en la distribución de fondos de cualquier clase.",
+   "fuente": "Art. 1 RD 861/1986",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 1, párrafo segundo, RD 861/1986 (BOE-A-1986-10798), cita literal comprobada: no pueden percibir «participación o premio en multas impuestas, aun cuando estuviesen normativamente atribuidas a los mismos». Los otros tres son falsos. El art. 22.5 TREBEP dice lo mismo. El art. 153.2 TRRL que cita la explicación es correcto. No está repetida. | Revisor 2 (CONFIRMADA): Art. 1, párrafo segundo, RD 861/1986 literal («ni participación o premio en multas impuestas, aun cuando estuviesen normativamente atribuidas a los mismos»). Sin excepciones; distractores falsos. Art. 153.2 TRRL comprobado («fondos de ninguna clase»)."
+  },
+  {
+   "q": "Según el artículo 3.2 del RD 861/1986, para asignar el nivel de complemento de destino a cada puesto de trabajo se atenderá a criterios de:",
+   "options": [
+    "Especial dificultad técnica, dedicación, incompatibilidad, peligrosidad o penosidad",
+    "Especial rendimiento, actividad extraordinaria e interés e iniciativa del funcionario",
+    "Especialización, responsabilidad, competencia y mando, así como a la complejidad territorial y funcional de los servicios en que esté situado el puesto",
+    "Antigüedad del funcionario y grado personal consolidado"
+   ],
+   "correct": 2,
+   "exp": "El art. 3.2 del RD 861/1986 dispone que el Pleno, dentro de los límites máximo y mínimo, asignará nivel a cada puesto «atendiendo a criterios de especialización, responsabilidad, competencia y mando, así como a la complejidad territorial y funcional de los servicios en que esté situado el puesto». La dificultad técnica, la dedicación, la incompatibilidad, la peligrosidad o la penosidad son condiciones que retribuye el complemento específico (art. 4.1); el especial rendimiento, la actividad extraordinaria y el interés e iniciativa, el complemento de productividad (art. 5.1). En un municipio de gran población como Zaragoza, la relación de puestos de trabajo y las retribuciones del personal las aprueba la Junta de Gobierno Local (art. 127.1.h LBRL); los criterios del art. 3.2 son los mismos.",
+   "fuente": "Art. 3.2 RD 861/1986",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 3.2 RD 861/1986, cita literal comprobada. Los distractores corresponden a los arts. 4.1, 5.1 y a criterios ajenos al complemento de destino. La pregunta versa sobre los criterios, y estos no cambian en Zaragoza. Observación, no impide confirmar: la explicación reproduce que el Pleno asigna el nivel, como dice el RD; en un municipio de gran población, la RPT y las retribuciones las aprueba la Junta de Gobierno Local (art. 127.1.h LBRL). Convendría añadirlo. No está repetida. | Revisor 2 (CONFIRMADA): Art. 3.2 RD 861/1986 (redacción RD 158/1996) literal. El distractor de dificultad técnica/dedicación... es el complemento específico (art. 4.1) y omite además «responsabilidad», por lo que no coincide con la correcta. Nota: en Zaragoza (gran población) la RPT la aprueba la Junta de Gobierno Local (art. 127.1.h LBRL), lo que no altera la respuesta, que versa sobre criterios."
+  },
+  {
+   "q": "Conforme al artículo 4.1 del RD 861/1986, ¿cuántos complementos específicos pueden asignarse a cada puesto de trabajo?",
+   "options": [
+    "Uno por cada condición particular que concurra en el puesto",
+    "Uno como máximo, aunque al fijarlo pueden considerarse conjuntamente dos o más de las condiciones particulares del puesto",
+    "Hasta dos, si concurren peligrosidad y penosidad",
+    "Tantos como determine el Pleno al aprobar el presupuesto"
+   ],
+   "correct": 1,
+   "exp": "Según el art. 4.1 del RD 861/1986, «en ningún caso podrá asignarse más de un complemento específico a cada puesto de trabajo, aunque al fijarlo podrán tomarse en consideración conjuntamente dos o más de las condiciones particulares mencionadas que puedan concurrir en un puesto de trabajo». Por eso no cabe un complemento por cada condición, ni dos por peligrosidad y penosidad, ni los que decida el Pleno.",
+   "fuente": "Art. 4.1 RD 861/1986",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 4.1, inciso segundo, RD 861/1986, cita literal comprobada: «En ningún caso podrá asignarse más de un complemento específico a cada puesto de trabajo…». Los otros tres son falsos. No está repetida. | Revisor 2 (CONFIRMADA): Art. 4.1, inciso segundo, RD 861/1986 literal. Distractores falsos."
+  },
+  {
+   "q": "Según el artículo 4.1 del RD 861/1986, el complemento específico está destinado a retribuir las condiciones particulares de algunos puestos de trabajo en atención a su:",
+   "options": [
+    "Especial rendimiento, actividad extraordinaria e interés e iniciativa",
+    "Especialización, competencia y mando, y complejidad territorial y funcional",
+    "Prestación de servicios extraordinarios fuera de la jornada normal de trabajo",
+    "Especial dificultad técnica, dedicación, incompatibilidad, responsabilidad, peligrosidad o penosidad"
+   ],
+   "correct": 3,
+   "exp": "El art. 4.1 del RD 861/1986 define el complemento específico como el destinado a retribuir las condiciones particulares de algunos puestos «en atención a su especial dificultad técnica, dedicación, incompatibilidad, responsabilidad, peligrosidad o penosidad». El especial rendimiento y la actividad extraordinaria son propios del complemento de productividad (art. 5.1); la especialización, la competencia, el mando y la complejidad territorial y funcional son criterios para asignar el nivel de complemento de destino (art. 3.2); los servicios extraordinarios fuera de la jornada se retribuyen con gratificaciones (art. 6.3).",
+   "fuente": "Art. 4.1 RD 861/1986",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 4.1, inciso primero, RD 861/1986, cita literal comprobada. Los distractores corresponden al complemento de productividad (art. 5.1), al de destino (art. 3.2) y a las gratificaciones (art. 6.3), como dice la explicación. Concuerda con el art. 24.b) TREBEP. No repite la existente del tema 21 sobre el art. 5.1. | Revisor 2 (CONFIRMADA): Art. 4.1, inciso primero, RD 861/1986 literal. Distractores corresponden a productividad (5.1), destino (3.2) y gratificaciones (6.3): falsos. No repite la pregunta del examen sobre art. 5.1 (productividad)."
+  },
+  {
+   "q": "De acuerdo con el artículo 4.2 del RD 861/1986, el establecimiento o la modificación del complemento específico exigirá, con carácter previo:",
+   "options": [
+    "Un informe favorable de la Comunidad Autónoma",
+    "Que la Corporación efectúe una valoración del puesto de trabajo",
+    "La autorización del Ministerio competente en materia de Administración Local",
+    "La aprobación previa de la oferta de empleo público del ejercicio"
+   ],
+   "correct": 1,
+   "exp": "El art. 4.2 del RD 861/1986 dispone que el establecimiento o modificación del complemento específico «exigirá, con carácter previo, que por la Corporación se efectúe una valoración del puesto de trabajo», atendiendo a las circunstancias del art. 4.1. Después, el Pleno, al aprobar la relación de puestos de trabajo, determina los puestos con complemento específico y su cuantía (art. 4.3). No se exige informe autonómico, autorización ministerial ni la oferta de empleo.",
+   "fuente": "Art. 4.2 RD 861/1986",
+   "confianza": "alta",
+   "veredicto": "DUDOSA",
+   "notaRevision": "Revisor 1 (DUDOSA): La respuesta es correcta: el art. 4.2 RD 861/1986 exige una valoración previa del puesto (cita literal comprobada), y los demás distractores son falsos. Pero la explicación añade como paso siguiente «el Pleno, al aprobar la relación de puestos de trabajo, determina los puestos con complemento específico y su cuantía (art. 4.3)». En Zaragoza, municipio de gran población, la RPT y las retribuciones del personal las aprueba la Junta de Gobierno Local (art. 127.1.h LBRL, competencia indelegable según el art. 127.2), no el Pleno. Así, la explicación enseña para el municipio del examen un órgano que no es el competente. Arreglo: añadir «(en los municipios de gran población, como Zaragoza, la RPT la aprueba la Junta de Gobierno Local: art. 127.1.h LBRL)» o quitar esa frase. | Revisor 2 (CONFIRMADA): Art. 4.2 RD 861/1986 literal: valoración previa del puesto por la Corporación. Distractores falsos. Nota menor: la explicación atribuye al Pleno la aprobación de la RPT (art. 4.3 RD); en Zaragoza, como gran población, la RPT y las retribuciones las aprueba la Junta de Gobierno Local (art. 127.1.h LBRL). Conviene añadir esa precisión, aunque no afecta a la respuesta."
+  },
+  {
+   "q": "Según el artículo 5.2 del RD 861/1986, la apreciación de la productividad deberá realizarse en función de:",
+   "options": [
+    "Circunstancias objetivas relacionadas directamente con el desempeño del puesto de trabajo y los objetivos asignados al mismo",
+    "La antigüedad del funcionario en la Corporación",
+    "El grupo de titulación en que esté clasificada la Escala del funcionario",
+    "La valoración discrecional del Alcalde, sin necesidad de criterios previos"
+   ],
+   "correct": 0,
+   "exp": "El art. 5.2 del RD 861/1986 exige que la apreciación de la productividad se haga «en función de circunstancias objetivas relacionadas directamente con el desempeño del puesto de trabajo y objetivos asignados al mismo». La antigüedad y el grupo de titulación no son criterios de este complemento, y la asignación individual por el Alcalde se sujeta a los criterios que haya fijado el Pleno (art. 5.6). En un municipio de gran población como Zaragoza, las retribuciones del personal corresponden a la Junta de Gobierno Local (art. 127.1.h LBRL).",
+   "fuente": "Art. 5.2 RD 861/1986",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 5.2 RD 861/1986, cita literal comprobada. Los otros tres son falsos: el art. 5.2 exige circunstancias objetivas, lo que excluye la valoración discrecional sin criterios. Observación: la mención a la asignación individual por el Alcalde (art. 5.6) es literal del RD; en Zaragoza puede corresponder a la Junta de Gobierno Local (art. 127.1.h LBRL), y convendría matizarlo. No repite la existente del tema 21 sobre el art. 5.1. | Revisor 2 (CONFIRMADA): Art. 5.2 RD 861/1986 literal. Distractores falsos (el de «valoración discrecional del Alcalde sin criterios» también lo es en gran población). Nota menor: la explicación cita la asignación individual por el Alcalde (art. 5.6); en Zaragoza las retribuciones del personal corresponden a la Junta de Gobierno Local (art. 127.1.h LBRL). Recomendable matizarlo."
+  },
+  {
+   "q": "Conforme al artículo 5.3 del RD 861/1986, las cuantías asignadas por complemento de productividad durante un período de tiempo:",
+   "options": [
+    "Se consolidarán tras dos años de percepción ininterrumpida",
+    "Darán derecho a percibir al menos la misma cuantía en el período siguiente",
+    "Se integrarán en el complemento específico del puesto al año siguiente",
+    "No originarán ningún tipo de derecho individual respecto a las valoraciones de períodos sucesivos"
+   ],
+   "correct": 3,
+   "exp": "El art. 5.3 del RD 861/1986 dispone que «en ningún caso las cuantías asignadas por complemento de productividad durante un período de tiempo originarán ningún tipo de derecho individual respecto a las valoraciones o apreciaciones correspondientes a períodos sucesivos». No se consolidan, no garantizan una cuantía mínima futura y no se incorporan al complemento específico.",
+   "fuente": "Art. 5.3 RD 861/1986",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 5.3 RD 861/1986, cita literal comprobada. Ninguna de las otras opciones tiene base: el precepto excluye cualquier derecho individual para los periodos sucesivos. En el mismo sentido, el art. 156 TRRL. No repite la existente sobre el art. 156 TRRL, que pregunta por las retribuciones complementarias en general. | Revisor 2 (CONFIRMADA): Art. 5.3 RD 861/1986 literal. Distractores falsos; coherente con art. 156 TRRL."
+  },
+  {
+   "q": "Según el artículo 5.4 del RD 861/1986, las cantidades que perciba cada funcionario por complemento de productividad:",
+   "options": [
+    "Tendrán carácter reservado y solo podrá conocerlas el propio interesado",
+    "Solo podrá conocerlas el Pleno de la Corporación",
+    "Serán de conocimiento público, tanto de los demás funcionarios de la Corporación como de los representantes sindicales",
+    "Solo serán públicas si lo solicitan los representantes sindicales"
+   ],
+   "correct": 2,
+   "exp": "El art. 5.4 del RD 861/1986 establece que las cantidades que perciba cada funcionario por productividad «serán de conocimiento público, tanto de los demás funcionarios de la Corporación como de los representantes sindicales». La publicidad es la regla y no depende de ninguna solicitud.",
+   "fuente": "Art. 5.4 RD 861/1986",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 5.4 RD 861/1986, cita literal comprobada: conocimiento público tanto de los demás funcionarios como de los representantes sindicales. Los otros tres son falsos. No está repetida. | Revisor 2 (CONFIRMADA): Art. 5.4 RD 861/1986 literal: conocimiento público de funcionarios y representantes sindicales, sin condición. Distractores falsos."
+  },
+  {
+   "q": "Según el artículo 5.5 del RD 861/1986, ¿a quién corresponde determinar en el presupuesto la cantidad global destinada al complemento de productividad de los funcionarios?",
+   "options": [
+    "Al Alcalde o Presidente de la Corporación",
+    "A la Comunidad Autónoma",
+    "Al Pleno de cada Corporación",
+    "Al Ministerio de Hacienda"
+   ],
+   "correct": 2,
+   "exp": "El art. 5.5 del RD 861/1986 atribuye al Pleno de cada Corporación determinar en el presupuesto la cantidad global destinada al complemento de productividad, dentro del límite máximo del art. 7.2.b). Al Alcalde o Presidente le corresponde después distribuir esa cuantía entre programas o áreas y hacer la asignación individual, con sujeción a los criterios que haya fijado el Pleno (art. 5.6).",
+   "fuente": "Art. 5.5 RD 861/1986",
+   "confianza": "alta",
+   "veredicto": "DUDOSA",
+   "notaRevision": "Revisor 1 (DUDOSA): La respuesta es correcta, también en Zaragoza: el art. 5.5 RD 861/1986 atribuye al Pleno la cantidad global en el presupuesto (cita literal comprobada), el Pleno aprueba el presupuesto también en los municipios de gran población (art. 123.1.h LBRL) y el art. 93.2 LBRL le atribuye la cuantía global. El problema está en la explicación: dice sin matiz que «al Alcalde o Presidente le corresponde después distribuir esa cuantía […] y hacer la asignación individual» (art. 5.6). En un municipio de gran población, las retribuciones del personal las aprueba la Junta de Gobierno Local (art. 127.1.h LBRL, indelegable según el art. 127.2). En una pregunta precisamente sobre el órgano competente, esa frase puede enseñar un reparto de competencias que no es el de Zaragoza. Arreglo: añadir «en los municipios de gran población, la aprobación de las retribuciones del personal corresponde a la Junta de Gobierno Local (art. 127.1.h LBRL)» o limitar la explicación al art. 5.5. | Revisor 2 (DUDOSA): Respuesta correcta y vigente (art. 5.5 RD 861/1986; también art. 93.2 LBRL y, en gran población, el Pleno aprueba el presupuesto, art. 123.1.h LBRL), así que no cambia para Zaragoza. Pero, como la pregunta versa sobre reparto de competencias entre órganos, la explicación afirma sin matiz que al Alcalde le corresponde distribuir la cuantía y la asignación individual (art. 5.6 RD); en Zaragoza, municipio de gran población, la aprobación de las retribuciones del personal es de la Junta de Gobierno Local (art. 127.1.h LBRL, indelegable según 127.2). Arreglo: añadir a la explicación «en los municipios de gran población, como Zaragoza, las retribuciones del personal las aprueba la Junta de Gobierno Local (art. 127.1.h LBRL)», o suprimir la frase sobre el Alcalde."
+  },
+  {
+   "q": "Según el artículo 6.3 del RD 861/1986, las gratificaciones de los funcionarios de Administración Local:",
+   "options": [
+    "Podrán ser fijas en su cuantía si así lo acuerda el Pleno",
+    "Se devengarán mensualmente junto con las retribuciones básicas",
+    "Retribuyen el especial rendimiento y la iniciativa del funcionario dentro de su jornada",
+    "No podrán ser fijas en su cuantía ni periódicas en su devengo, y habrán de responder a servicios extraordinarios realizados fuera de la jornada normal"
+   ],
+   "correct": 3,
+   "exp": "El art. 6.3 del RD 861/1986 dispone que las gratificaciones «en ningún caso podrán ser fijas en su cuantía ni periódicas en su devengo» y «habrán de responder a servicios extraordinarios realizados fuera de la jornada normal de trabajo». El especial rendimiento y la iniciativa se retribuyen con el complemento de productividad (art. 5.1).",
+   "fuente": "Art. 6.3 RD 861/1986",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 6.3 RD 861/1986, cita literal comprobada. Los distractores son falsos: las gratificaciones no pueden ser fijas ni periódicas, y el especial rendimiento es propio de la productividad (art. 5.1). Concuerda con el art. 24.d) TREBEP. No está repetida. | Revisor 2 (CONFIRMADA): Art. 6.3 RD 861/1986 literal. Distractores falsos (el de especial rendimiento es productividad)."
+  },
+  {
+   "q": "Conforme al artículo 7.2 del RD 861/1986, de la cantidad disponible para complementos específicos, de productividad y gratificaciones, ¿qué porcentaje máximo puede destinarse al complemento de productividad?",
+   "options": [
+    "Hasta un máximo del 30 por 100",
+    "Hasta un máximo del 10 por 100",
+    "Hasta un máximo del 50 por 100",
+    "Hasta un máximo del 75 por 100"
+   ],
+   "correct": 0,
+   "exp": "El art. 7.2 del RD 861/1986 reparte la cantidad resultante del art. 7.1 con estos topes: hasta el 75 por 100 para complemento específico (letra a), hasta el 30 por 100 para complemento de productividad (letra b) y hasta el 10 por 100 para gratificaciones (letra c). El 50 por 100 no figura en el precepto.",
+   "fuente": "Art. 7.2.b) RD 861/1986",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 7.2.b) RD 861/1986: «Hasta un máximo del 30 por 100 para complemento de productividad». El 75 % es del específico, el 10 % de las gratificaciones y el 50 % no figura. No está repetida. | Revisor 2 (CONFIRMADA): Art. 7.2.b) RD 861/1986: hasta el 30 por 100 para productividad (a: 75 específico; c: 10 gratificaciones). 50 no figura. Correcta y única."
+  },
+  {
+   "q": "Según el artículo 7.1 del RD 861/1986, los créditos para complemento específico, complemento de productividad, gratificaciones y, en su caso, complementos personales transitorios son los que resultan de restar a la masa retributiva global presupuestada, excluida la del personal laboral, la suma de:",
+   "options": [
+    "Las retribuciones básicas del personal funcionario y del personal laboral",
+    "Las retribuciones básicas, la ayuda familiar y el complemento de destino del personal funcionario",
+    "El complemento de destino y las gratificaciones del personal funcionario",
+    "Las retribuciones del personal eventual y del personal laboral"
+   ],
+   "correct": 1,
+   "exp": "El art. 7.1 del RD 861/1986 dispone que esos créditos son los que resultan de restar a la masa retributiva global presupuestada para cada ejercicio, «excluida la referida al personal laboral», la suma de lo que corresponde al personal funcionario «por los conceptos de retribuciones básicas, ayuda familiar y complemento de destino». El personal laboral queda fuera del cálculo, y las gratificaciones no se restan: se pagan con el resultado.",
+   "fuente": "Art. 7.1 RD 861/1986",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 7.1 RD 861/1986, cita literal comprobada: se excluye la masa del personal laboral y se restan las retribuciones básicas, la ayuda familiar y el complemento de destino del personal funcionario. Los otros tres son falsos. No está repetida. | Revisor 2 (CONFIRMADA): Art. 7.1 RD 861/1986 literal: se resta lo de retribuciones básicas, ayuda familiar y complemento de destino del personal funcionario, excluida la masa del personal laboral. Distractores falsos."
+  },
+  {
+   "q": "Además de las funciones que implican participación en las potestades públicas o en la salvaguardia de los intereses generales, el artículo 92.3 de la LBRL reserva a los funcionarios de carrera las funciones que impliquen:",
+   "options": [
+    "Dirección de servicios técnicos municipales",
+    "Gestión de servicios públicos de contenido económico",
+    "Confianza o asesoramiento especial",
+    "Ejercicio de autoridad"
+   ],
+   "correct": 3,
+   "exp": "El art. 92.3 LBRL añade que «igualmente son funciones públicas, cuyo cumplimiento queda reservado a funcionarios de carrera, las que impliquen ejercicio de autoridad» y, en general, las que se reserven a los funcionarios para garantizar mejor la objetividad, la imparcialidad y la independencia. La confianza o el asesoramiento especial son los puestos propios del personal eventual (art. 89 LBRL).",
+   "fuente": "Art. 92.3 LBRL (Ley 7/1985)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 92.3 LBRL (redacción de la Ley 27/2013, vigente), cita literal comprobada: «…las que impliquen ejercicio de autoridad». La confianza o asesoramiento especial es propia del personal eventual (art. 89), y las otras dos opciones no figuran en el precepto. No repite la existente sobre el art. 92.3, que pregunta por las potestades públicas, ni la del examen de 2026. | Revisor 2 (CONFIRMADA): Art. 92.3 LBRL (redacción Ley 27/2013, vigente) literal: «las que impliquen ejercicio de autoridad». Ningún distractor está en el precepto; personal eventual = confianza o asesoramiento especial (art. 89 LBRL, comprobado). No repite las existentes sobre el inciso primero del 92.3."
+  },
+  {
+   "q": "El artículo 92 bis.6 de la LBRL, en su redacción vigente (dada por el Real Decreto-ley 13/2026), permite cubrir excepcionalmente por libre designación los puestos con funciones reservadas de determinadas entidades. ¿Qué otros puestos permite cubrir también por ese sistema?",
+   "options": [
+    "Los de Secretaría de las Entidades Locales con Secretaría de clase tercera",
+    "Los de Intervención de todos los municipios de más de 20.000 habitantes",
+    "Los de los titulares de los órganos directivos del artículo 130 de la LBRL a los que no correspondan funciones reservadas",
+    "Los de Secretaría de las agrupaciones de municipios para el sostenimiento en común del puesto"
+   ],
+   "correct": 2,
+   "exp": "Tras enumerar las entidades donde los puestos con funciones reservadas pueden cubrirse por libre designación (las de los arts. 111 y 135 TRLRHL, Diputaciones, Áreas Metropolitanas, Cabildos y Consejos Insulares, Ceuta y Melilla), el art. 92 bis.6 LBRL añade: «También se podrán cubrir por este sistema los puestos de trabajo de los titulares de los órganos directivos a los que se refiere el artículo 130 de esta Ley, a los que no correspondan aquellas funciones reservadas». Es la redacción del RDL 13/2026, en vigor desde el 4 de junio de 2026. Fuera de esas entidades, el concurso es el sistema normal de provisión, también en las Secretarías de clase tercera, en las agrupaciones y en los municipios de más de 20.000 habitantes no incluidos en ellas.",
+   "fuente": "Art. 92 bis.6 LBRL (Ley 7/1985)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 92 bis.6, párrafo cuarto, LBRL, en la redacción de la DF 1.ª RDL 13/2026 (BOE-A-2026-11848, en vigor desde el 4-6-2026; convalidado por Resolución de 18-6-2026, según la nota del BOE). Cita literal comprobada en el consolidado de la LBRL (actualizado el 03/10/2026). Las otras tres opciones no figuran como supuestos de libre designación. No repite la existente sobre el art. 92 bis.6, que pregunta por las entidades. | Revisor 2 (CONFIRMADA): Art. 92 bis.6, párrafo cuarto, LBRL en la redacción de la DF 1.ª del RDL 13/2026, de 2 de junio (BOE-A-2026-11848), en vigor el 04/06/2026 (DF 6.ª) y convalidado por Resolución de 18-jun-2026 (BOE-A-2026-13462); consolidado de la LBRL actualizado a 03/10/2026 sin cambios posteriores en el apartado. Cita literal comprobada. Distractores falsos (art. 111 TRLRHL abarca capitales y >75.000 hab., no todos los >20.000). No repite las existentes del 92 bis.6."
+  },
+  {
+   "q": "Según el artículo 92 bis.10 de la LBRL, ¿qué órgano es competente para incoar expediente disciplinario a un funcionario con habilitación de carácter nacional de una corporación local situada en el territorio de una Comunidad Autónoma, por hechos que pudieran constituir falta grave?",
+   "options": [
+    "El Ministerio de Hacienda y Administraciones Públicas",
+    "La Comunidad Autónoma",
+    "El Pleno de la Corporación",
+    "El órgano correspondiente de la Corporación donde se cometieron los hechos"
+   ],
+   "correct": 1,
+   "exp": "El art. 92 bis.10.b) LBRL atribuye la incoación a «la Comunidad Autónoma respecto a funcionarios de corporaciones locales en su ámbito territorial, salvo cuando los hechos denunciados pudieran ser constitutivos de faltas muy graves tipificadas en la normativa básica estatal». La Corporación donde ocurrieron los hechos incoa solo por falta leve (letra a), y el Ministerio, por las faltas muy graves de la normativa básica estatal (letra c). El Pleno no aparece en el precepto.",
+   "fuente": "Art. 92 bis.10.b) LBRL (Ley 7/1985)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 92 bis.10.b) LBRL, cita literal comprobada: para la falta grave incoa la Comunidad Autónoma; la Corporación solo para la leve (letra a) y el Ministerio para las muy graves de la normativa básica estatal (letra c). El Pleno no aparece. Completa las existentes sobre las letras a) y c) sin repetirlas. Observación de estilo: en «de una corporación local de su territorio», el «su» no tiene antecedente y apunta a la respuesta; convendría «de una corporación local situada en el territorio de una Comunidad Autónoma». | Revisor 2 (CONFIRMADA): Art. 92 bis.10.b) LBRL literal: la CA incoa salvo faltas muy graves de la normativa básica estatal; la Corporación solo por leve (a) y el Ministerio por muy grave (c). Para falta grave, solo la CA. No repite las existentes (10.a y 10.c). Redacción del enunciado («de su territorio») algo forzada pero no ambigua."
+  },
+  {
+   "q": "Conforme al artículo 100.2 de la LBRL, respecto de los funcionarios cuya selección corresponde a cada Corporación local, la Administración del Estado debe establecer reglamentariamente:",
+   "options": [
+    "Los títulos académicos requeridos para tomar parte en las pruebas selectivas",
+    "Las bases concretas de cada convocatoria de selección",
+    "La composición de cada tribunal de selección",
+    "La oferta de empleo público de cada Corporación"
+   ],
+   "correct": 0,
+   "exp": "El art. 100.2 LBRL reserva al Estado establecer reglamentariamente las reglas básicas y los programas mínimos de la selección y formación (letra a) y «los títulos académicos requeridos para tomar parte en las pruebas selectivas», así como los diplomas complementarios que puedan exigirse (letra b). Las bases y la convocatoria corresponden al Presidente de la Corporación (art. 102.1 LBRL); en municipios de gran población, la Junta de Gobierno Local aprueba las bases (art. 127.1.h). La oferta de empleo la forma cada Corporación (art. 91.1).",
+   "fuente": "Art. 100.2.b) LBRL (Ley 7/1985)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 100.2.b) LBRL, cita literal comprobada. Las bases y la convocatoria no las fija el Estado (art. 102.1 LBRL), ni la composición de cada tribunal ni la oferta de empleo (art. 91.1). La explicación ya señala que en los municipios de gran población las bases las aprueba la Junta de Gobierno Local (art. 127.1.h, comprobado). No repite la existente sobre el art. 100, que pregunta por las reglas básicas y programas mínimos. | Revisor 2 (CONFIRMADA): Art. 100.2.b) LBRL literal. Distractores falsos; la explicación es exacta, incluida la precisión de gran población (bases por la Junta de Gobierno Local, art. 127.1.h; en régimen común, Presidente, art. 102.1, comprobado) y la oferta por cada Corporación (art. 91.1)."
+  },
+  {
+   "q": "Según el artículo 101 de la LBRL, en las convocatorias de provisión de puestos de trabajo de una entidad local, la participación de funcionarios que pertenezcan a otras Administraciones públicas:",
+   "options": [
+    "Es posible, pero queda supeditada a lo que establezcan las relaciones de puestos de trabajo",
+    "Está prohibida: solo pueden participar los funcionarios propios de la entidad convocante",
+    "Requiere en cada caso autorización expresa de la Comunidad Autónoma",
+    "Solo es posible en el sistema de libre designación"
+   ],
+   "correct": 0,
+   "exp": "El art. 101 LBRL establece que, además de los funcionarios propios de la entidad convocante, «podrán participar los funcionarios que pertenezcan a cualquiera de las Administraciones públicas, quedando en este caso supeditada la participación a lo que al respecto establezcan las relaciones de puestos de trabajo». No exige autorización autonómica ni limita esa participación a la libre designación: vale para el concurso de méritos y para la libre designación.",
+   "fuente": "Art. 101 LBRL (Ley 7/1985)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 101, párrafo segundo, LBRL (redacción de la Ley 55/1999), cita literal comprobada. Los otros tres son falsos. No repite la existente sobre el art. 101, que pregunta por los procedimientos de concurso o libre designación. | Revisor 2 (CONFIRMADA): Art. 101, párrafo segundo, LBRL (redacción Ley 55/1999) literal. Distractores falsos. No repite la existente sobre el párrafo primero (procedimientos de provisión)."
+  },
+  {
+   "q": "Según el artículo 90.1 de la LBRL, las plantillas de las Corporaciones locales deben establecerse sin que los gastos de personal puedan rebasar:",
+   "options": [
+    "El 50 por ciento de los gastos corrientes del Presupuesto",
+    "Los límites que se fijen con carácter general",
+    "El importe de los ingresos tributarios propios de la Corporación",
+    "La cuantía de los gastos de personal del ejercicio anterior"
+   ],
+   "correct": 1,
+   "exp": "El art. 90.1 LBRL dispone que las plantillas deben responder a los principios de racionalidad, economía y eficiencia y establecerse de acuerdo con la ordenación general de la economía, «sin que los gastos de personal puedan rebasar los límites que se fijen con carácter general». El precepto no fija un porcentaje ni toma como referencia los ingresos tributarios o el gasto del año anterior.",
+   "fuente": "Art. 90.1 LBRL (Ley 7/1985)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 90.1, párrafo segundo, LBRL, cita literal comprobada: «sin que los gastos de personal puedan rebasar los límites que se fijen con carácter general». Los distractores no figuran en el precepto. No repite la existente sobre los principios de racionalidad, economía y eficiencia, que pregunta otra cosa. | Revisor 2 (CONFIRMADA): Art. 90.1, párrafo segundo, LBRL literal: «sin que los gastos de personal puedan rebasar los límites que se fijen con carácter general». Distractores sin apoyo. No repite la existente sobre los principios del 90.1."
+  },
+  {
+   "q": "Según el artículo 126.3 del TRRL, la modificación de las plantillas durante la vigencia del Presupuesto requerirá:",
+   "options": [
+    "Solo un decreto del Alcalde, dando cuenta al Pleno",
+    "La autorización previa de la Comunidad Autónoma",
+    "El cumplimiento de los trámites establecidos para la modificación del Presupuesto",
+    "Esperar a la aprobación del Presupuesto del ejercicio siguiente"
+   ],
+   "correct": 2,
+   "exp": "El art. 126.3 TRRL dispone que «la modificación de las plantillas durante la vigencia del Presupuesto requerirá el cumplimiento de los trámites establecidos para la modificación de aquél». Como la plantilla se aprueba con el Presupuesto (art. 126.1), su modificación sigue los mismos trámites que la del Presupuesto.",
+   "fuente": "Art. 126.3 TRRL (RDLeg 781/1986)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 126.3 TRRL (BOE-A-1986-9865), cita literal comprobada. Los otros tres son falsos. La respuesta no cambia en Zaragoza: en los municipios de gran población, el Pleno aprueba el presupuesto y la plantilla (art. 123.1.h LBRL). El art. 126 está en el capítulo I del título VII TRRL, no en el capítulo III que deroga el TREBEP. No repite las existentes sobre el art. 126, apartados 1, 2.b) y 4. | Revisor 2 (CONFIRMADA): Art. 126.3 TRRL (cap. I del tít. VII, no derogado) literal. Coherente con art. 90.1 LBRL; en Zaragoza también la plantilla se aprueba con el presupuesto por el Pleno (art. 123.1.h LBRL), luego la respuesta no cambia. Distractores falsos. No repite 126.1, 126.2 ni 126.4."
+  },
+  {
+   "q": "Según el artículo 130.1 del TRRL, son funcionarios de la Administración Local las personas vinculadas a ella por una relación de servicios profesionales y retribuidos regulada por:",
+   "options": [
+    "El Derecho Laboral",
+    "El Derecho Civil",
+    "El convenio colectivo de la Corporación",
+    "El Derecho Administrativo"
+   ],
+   "correct": 3,
+   "exp": "El art. 130.1 TRRL define a los funcionarios de la Administración Local como «las personas vinculadas a ella por una relación de servicios profesionales y retribuidos, regulada por el Derecho Administrativo». El régimen laboral es el del personal contratado, que se rige íntegramente por el Derecho Laboral (art. 177.2 TRRL).",
+   "fuente": "Art. 130.1 TRRL (RDLeg 781/1986)",
+   "confianza": "alta",
+   "veredicto": "DUDOSA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 130.1 TRRL, cita literal comprobada. Concuerda con el art. 9.1 TREBEP. El art. 177.2 TRRL, que cita la explicación, es correcto. No repite la existente sobre el art. 130.2. | Revisor 2 (DUDOSA): Respuesta correcta: art. 130.1 TRRL literal, coherente con art. 9.1 TREBEP. Pero la explicación presenta como vigente algo superado: dice que el personal laboral «se rige íntegramente por el Derecho Laboral (art. 177.2 TRRL)», y el art. 7 TREBEP dispone que el personal laboral se rige, además de por la legislación laboral y los convenios, por los preceptos del Estatuto que así lo dispongan (y en ciertos permisos, por el propio Estatuto). Arreglo: sustituir esa frase por «el personal laboral se rige por la legislación laboral, los convenios aplicables y los preceptos del TREBEP que así lo dispongan (art. 7 TREBEP)»."
+  },
+  {
+   "q": "Según el artículo 141.1 del TRRL, ¿qué funcionarios de las Entidades locales tienen derecho a la inamovilidad en la residencia?",
+   "options": [
+    "Solo los funcionarios con habilitación de carácter nacional, sin que el derecho alcance nunca a los demás",
+    "Los funcionarios con habilitación de carácter nacional; los demás, en cuanto el servicio lo consienta",
+    "Todos los funcionarios de carrera, sin limitación alguna",
+    "Ninguno: el precepto solo les asegura el derecho al cargo"
+   ],
+   "correct": 1,
+   "exp": "El art. 141.1 TRRL asegura a los funcionarios de carrera el derecho al cargo y añade que los funcionarios con habilitación de carácter nacional «gozarán, asimismo, del derecho a la inamovilidad en la residencia», del que también estarán asistidos «los demás funcionarios, en cuanto el servicio lo consienta». Para los demás funcionarios, por tanto, el derecho existe, pero condicionado a lo que permita el servicio.",
+   "fuente": "Art. 141.1 TRRL (RDLeg 781/1986)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 141.1 TRRL, cita literal comprobada: los funcionarios con habilitación nacional gozan de inamovilidad en la residencia, y los demás «en cuanto el servicio lo consienta». Las otras tres opciones contradicen el texto. No está repetida. | Revisor 2 (CONFIRMADA): Art. 141.1 TRRL (cap. II del tít. VII, no derogado por la DDU TREBEP, que solo alcanza al cap. III) literal. No contradice el art. 14.a) TREBEP (inamovilidad en la condición, cosa distinta). Distractores falsos."
+  },
+  {
+   "q": "Según el artículo 145 del TRRL, el régimen de incompatibilidades de los funcionarios de la Administración local es el establecido con carácter general para la función pública en:",
+   "options": [
+    "El reglamento de incompatibilidades que apruebe el Pleno de cada Corporación",
+    "La legislación de la Comunidad Autónoma respectiva, con exclusión de la estatal",
+    "Exclusivamente la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local",
+    "La Ley 53/1984, de 26 de diciembre, y en las normas que dicte el Estado para su aplicación a los funcionarios locales"
+   ],
+   "correct": 3,
+   "exp": "El art. 145 TRRL remite al régimen de incompatibilidades «establecido con carácter general para la función pública en la Ley 53/1984, de 26 de diciembre, y en las normas que se dicten por el Estado para su aplicación a los funcionarios de la Administración local». No lo deja a cada Pleno ni solo a la legislación autonómica, y la LBRL no lo regula.",
+   "fuente": "Art. 145 TRRL (RDLeg 781/1986)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 145 TRRL, cita literal comprobada (remite a la Ley 53/1984 y a las normas estatales de aplicación). Los otros tres son falsos. Es coherente con la DF 4.ª.1 TREBEP, según la cual la autorización de compatibilidades sigue rigiéndose por la normativa actual. No está repetida. | Revisor 2 (CONFIRMADA): Art. 145 TRRL literal; la Ley 53/1984 sigue vigente y aplicable (DF 4.ª.1 TREBEP mantiene la normativa de compatibilidades). Distractores falsos."
+  },
+  {
+   "q": "El artículo 153.2 del TRRL prohíbe a los funcionarios de Administración local participar en la distribución de fondos de ninguna clase. Según ese mismo apartado, las cantidades procedentes de esos fondos:",
+   "options": [
+    "Se repartirán a partes iguales entre todo el personal de la Corporación",
+    "Se ingresarán en el Tesoro Público estatal",
+    "Se incluirán en el presupuesto de ingresos de las Corporaciones",
+    "Se destinarán íntegramente al complemento de productividad"
+   ],
+   "correct": 2,
+   "exp": "El art. 153.2 TRRL, tras prohibir que los funcionarios participen en la distribución de fondos o perciban remuneraciones distintas de las legales (ni siquiera por proyectos, dirección o inspección de obras, presupuestos, asesorías, dictámenes o informes), dispone: «Las cantidades procedentes de los indicados fondos se incluirán en el presupuesto de ingresos de las Corporaciones». No se reparten entre el personal ni van al Tesoro estatal o a la productividad.",
+   "fuente": "Art. 153.2 TRRL (RDLeg 781/1986)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 153.2, párrafo segundo, TRRL, cita literal comprobada: «se incluirán en el presupuesto de ingresos de las Corporaciones». Los otros tres son falsos. No está repetida. | Revisor 2 (CONFIRMADA): Art. 153.2, párrafo segundo, TRRL literal. Distractores falsos. Sin desplazamiento por el TREBEP."
+  },
+  {
+   "q": "Conforme al artículo 155.2 del TRRL, cuando un funcionario cambie de subescala, clase o categoría antes de completar un trienio, la fracción de tiempo transcurrido:",
+   "options": [
+    "Se considerará tiempo de servicio prestado en la nueva subescala, clase o categoría",
+    "Se perderá a efectos de trienios",
+    "Solo se computará si supera los dieciocho meses",
+    "Se abonará como un trienio completo de la subescala de origen"
+   ],
+   "correct": 0,
+   "exp": "El art. 155.2 TRRL dispone que, si el funcionario cambia de cuerpo o de subescala, clase o categoría antes de completar un trienio, «la fracción de tiempo transcurrido se considerará como tiempo de servicio prestado en el nuevo a que pase a pertenecer». El tiempo no se pierde, no exige un mínimo y no se convierte en un trienio completo. Los trienios ya devengados se siguen percibiendo (art. 155.1).",
+   "fuente": "Art. 155.2 TRRL (RDLeg 781/1986)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 155.2 TRRL, cita literal comprobada. Los otros tres son falsos. Complementa sin repetir la existente sobre el art. 155.1. | Revisor 2 (CONFIRMADA): Art. 155.2 TRRL literal. Regla coherente con la normativa general de trienios; no desplazada. Distractores falsos. No repite la existente sobre el 155.1."
+  },
+  {
+   "q": "Según el artículo 172.1 del TRRL, pertenecen a la Subescala de Servicios Especiales los funcionarios que desarrollen tareas:",
+   "options": [
+    "Que son objeto de una carrera para cuyo ejercicio las leyes exigen determinados títulos académicos o profesionales",
+    "Comunes al ejercicio de la actividad administrativa",
+    "Que requieran una aptitud específica y para cuyo ejercicio no se exija, con carácter general, la posesión de títulos académicos o profesionales determinados",
+    "De vigilancia y custodia interior de oficinas"
+   ],
+   "correct": 2,
+   "exp": "El art. 172.1 TRRL incluye en la Subescala de Servicios Especiales a los funcionarios que desarrollen tareas «que requieran una aptitud específica, y para cuyo ejercicio no se exija, con carácter general, la posesión de títulos académicos o profesionales determinados». Las tareas objeto de una carrera con título legalmente exigido son de la Subescala Técnica de Administración Especial (art. 171.1); las comunes a la actividad administrativa, de la Escala de Administración General (art. 169.1); y la vigilancia y custodia interior de oficinas, de su Subescala Subalterna (art. 169.1.e).",
+   "fuente": "Art. 172.1 TRRL (RDLeg 781/1986)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 172.1 TRRL, cita literal comprobada. Las tareas que son objeto de una carrera con título legalmente exigido son de la subescala Técnica de Administración Especial (art. 171.1); las funciones comunes, de Administración General (art. 169.1); y la vigilancia y custodia de oficinas, de la subescala Subalterna (art. 169.1.e). No repite las existentes sobre los arts. 172.2 y 171.1. | Revisor 2 (CONFIRMADA): Art. 172.1 TRRL literal (artículo modificado por Ley 4/2024 en el apartado 2, vigente). Distractores corresponden a arts. 171.1, 169.1 y 169.1.e): falsos. Explicación exacta."
+  },
+  {
+   "q": "Según el artículo 173 del TRRL, la Policía Local ejercerá sus funciones de acuerdo con lo previsto en:",
+   "options": [
+    "El Título V de la Ley Orgánica de Fuerzas y Cuerpos de Seguridad",
+    "El Título VII de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local",
+    "Exclusivamente el reglamento orgánico de cada Corporación",
+    "La Ley Orgánica de protección de la seguridad ciudadana"
+   ],
+   "correct": 0,
+   "exp": "El art. 173 TRRL dispone que «la Policía Local ejercerá sus funciones de acuerdo con lo previsto en el Título V de la Ley Orgánica de Fuerzas y Cuerpos de Seguridad» (LO 2/1986, cuyo Título V se titula «De las Policías Locales»). En el TRRL, la Policía Local y sus auxiliares son una clase de la Subescala de Servicios Especiales (art. 172.2.a).",
+   "fuente": "Art. 173 TRRL (RDLeg 781/1986)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 173 TRRL, cita literal comprobada. He comprobado en el consolidado de la LO 2/1986 (BOE-A-1986-6859) que su Título V se titula «De las Policías Locales». Los otros tres son falsos: el Título VII LBRL trata del personal y no de las funciones policiales. No está repetida. | Revisor 2 (CONFIRMADA): Art. 173 TRRL literal; comprobado que el Título V de la LO 2/1986 se titula «De las Policías Locales». Distractores falsos. Explicación exacta (art. 172.2.a)."
+  },
+  {
+   "q": "Según el artículo 170.3 del TRRL, el personal de los Servicios de Informática de las Corporaciones locales que no resulte incluido en las Subescalas de Administración General se clasificará:",
+   "options": [
+    "En todo caso, en la Subescala Administrativa de Administración General",
+    "Según la naturaleza de su especialidad y los títulos exigidos para su ingreso, en la clase que corresponda de las Subescalas Técnicas o de Servicios Especiales",
+    "Como personal laboral, al margen de las escalas de funcionarios",
+    "En una Subescala de Informática propia de la Escala de Administración General"
+   ],
+   "correct": 1,
+   "exp": "El art. 170.3 TRRL dispone que ese personal «será clasificado según la naturaleza de su especialidad y los títulos exigidos para su ingreso, en la clase que corresponda de las Subescalas Técnicas o de Servicios Especiales», es decir, en la Escala de Administración Especial. La Escala de Administración General no tiene una subescala de Informática: sus subescalas son Técnica, de Gestión, Administrativa, Auxiliar y Subalterna (art. 167.2).",
+   "fuente": "Art. 170.3 TRRL (RDLeg 781/1986)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 170.3 TRRL, cita literal comprobada. La Escala de Administración General no tiene subescala de Informática (art. 167.2), y los otros dos distractores contradicen el texto. No repite la existente sobre el art. 170.1. | Revisor 2 (CONFIRMADA): Art. 170.3 TRRL literal. La EAG solo tiene las subescalas Técnica, de Gestión, Administrativa, Auxiliar y Subalterna (art. 167.2, redacción Ley 53/2002). Distractores falsos."
+  },
+  {
+   "q": "Según el artículo 177.3 del TRRL, el contrato laboral por tiempo indefinido que una Entidad local celebre con una persona incursa en alguna de las causas de incapacidad específica aplicables a los funcionarios y al personal interino será:",
+   "options": [
+    "Anulable a instancia del Pleno durante el plazo de un año",
+    "Válido, aunque el trabajador deberá ser trasladado a otro puesto",
+    "Válido, si la causa de incapacidad se subsana antes de que acabe el período de prueba",
+    "Nulo"
+   ],
+   "correct": 3,
+   "exp": "El art. 177.3 TRRL establece: «Será nulo el contrato laboral por tiempo indefinido celebrado por una Entidad local con persona incursa en alguna de las causas de incapacidad específica que sean de aplicación a los funcionarios y al personal interino». Es la misma consecuencia que el art. 136.2 TRRL prevé para el nombramiento de funcionarios e interinos.",
+   "fuente": "Art. 177.3 TRRL (RDLeg 781/1986)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 177.3 TRRL, cita literal comprobada: «Será nulo». El paralelo con el art. 136.2 TRRL (nulidad del nombramiento de funcionarios e interinos) es exacto. No está repetida. | Revisor 2 (CONFIRMADA): Art. 177.3 TRRL literal: «Será nulo». Explicación exacta (art. 136.2 TRRL comprobado). Distractores falsos."
+  }
+ ]
+}
