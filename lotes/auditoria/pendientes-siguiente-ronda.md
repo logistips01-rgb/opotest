@@ -31,3 +31,14 @@ Según la Ley 10/2017, la regla de estas preguntas tampoco es la de Zaragoza:
 - 144, 161 y 216 aprox.: cesiones acordadas por el Pleno con mayoría absoluta;
 - 63 aprox.: el Alcalde gestiona el patrimonio.
 Los índices han cambiado tras retirar 19 preguntas: búscalas por su contenido.
+
+## Tema 14: preguntas existentes con errores (redactor del lote t14-1)
+Índices aproximados; búscalas por su contenido.
+- #22: la clave dice «además de los concejales» y debería decir «además del Alcalde».
+- #24: pregunta por el art. 127.1.f LBRL, derogado por la Ley 30/2007.
+- #72: el art. 26.3 no dice eso; el texto pertenece al 26.2, en un inciso anulado por la STC 111/2016.
+- #73: usa la redacción del art. 27.1 anterior a 2013.
+- #74 y #75: las citas no coinciden (deberían ser el 27.6 y el 27.1).
+- #85: el art. 122.5 no dice que el Pleno elija a los presidentes de las Comisiones; en Zaragoza los nombra el Alcalde (art. 12.1.e de la Ley 10/2017).
+- #3 y #57: número de artículo equivocado en la cita (12.2 y 14, cuando el contenido es del 13).
+- #93: la «dispensa de servicios mínimos» no figura en el art. 26 vigente (ya está en la ronda 2).
