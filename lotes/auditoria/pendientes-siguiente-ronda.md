@@ -48,3 +48,7 @@ Los índices han cambiado tras retirar 19 preguntas: búscalas por su contenido.
 
 ## Tema 4 (redactor del lote t04-1)
 - Las #138 y #159 aprox. dan como respuesta el «Ministerio de Asuntos Económicos y Transformación Digital», que es literal de los arts. 9.2 c) y 10.2 c) LPAC, pero el ministerio ya no se llama así. Hay que valorar si añadir un aviso en la explicación.
+
+## Añadido 22-oct (revisor 1 de t14-1)
+- Tema 14, pregunta existente «Según el art. 122.5 de la LBRL, corresponde al Pleno… elegir de entre sus miembros al que haya de presidir determinadas comisiones…»: el art. 122.5 no dice eso, y en Zaragoza los presidentes de comisión los nombra el Alcalde (art. 12.1.e Ley 10/2017). Revisar o retirar.
+- Tema 14, nuevo lote: pregunta del art. 11.3 letra r) (delegación de la propuesta de iniciativa legislativa) apartada por choque con el art. 123.3 LBRL.

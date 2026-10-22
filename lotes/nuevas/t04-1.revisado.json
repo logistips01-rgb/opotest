@@ -1,0 +1,307 @@
+{
+ "slug": "aux-admin-zaragoza",
+ "tema": 4,
+ "lote": "t04-1",
+ "preguntas": [
+  {
+   "q": "Según el art. 4.1 de la Ley 39/2015, ¿qué diferencia a los interesados de la letra b) de los de la letra c)?",
+   "options": [
+    "Los de la b) tienen intereses legítimos y deben personarse; los de la c) tienen derechos que pueden verse afectados y no necesitan personarse",
+    "Los de la b) han promovido el procedimiento como titulares de derechos; los de la c) no lo han promovido y deben personarse en él",
+    "Los de la b) tienen derechos que pueden verse afectados y no necesitan personarse; los de la c) tienen intereses legítimos y deben personarse",
+    "Los de la b) solo pueden invocar intereses individuales; los de la c) solo pueden invocar intereses colectivos y deben personarse"
+   ],
+   "correct": 2,
+   "exp": "El art. 4.1 b) considera interesados a «los que, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte», sin exigirles ningún otro acto. La letra c) se refiere a quienes tienen «intereses legítimos, individuales o colectivos» que puedan resultar afectados, y solo les da esa condición si «se personen en el procedimiento en tanto no haya recaído resolución definitiva». La opción que atribuye los intereses a la b) y los derechos a la c) invierte las dos letras; quien promueve el procedimiento es el interesado de la letra a), no el de la b); y la letra c) admite intereses individuales o colectivos, no solo colectivos.",
+   "fuente": "Art. 4.1 b) y c) LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): Texto correcto (art. 4.1 b y c verificados en el consolidado BOE; distractores falsos), pero no aporta nada nuevo: que la letra b) son derechos sin más requisito y la c) intereses legítimos con personación ya se aprende con las existentes de 4.1 b) («tengan derechos que puedan resultar afectados»), 4.1 c) («siempre que se personen») y la que identifica la letra b) por tener derechos; además ya hay una comparativa a) frente a c). Es la yuxtaposición de dos letras ya preguntadas. | Revisor 2 (CONFIRMADA): Art. 4.1 b) y c) comprobados en el consolidado (BOE-A-2015-10565, redacción original vigente): b) derechos afectados sin exigir personación; c) intereses legítimos individuales o colectivos y personación mientras no haya resolución definitiva. Las tres alternativas son falsas (inversión de letras; la b) no promueve, eso es la a); la c) admite intereses individuales y colectivos). No repite: el banco compara a) con c) (T4#227) y pregunta b) y c) por separado, no b) frente a c). Explicación exacta."
+  },
+  {
+   "q": "Según el art. 4.1 c) de la Ley 39/2015, los intereses legítimos cuya posible afectación por la resolución permite ser interesado a quien se persona en el procedimiento pueden ser:",
+   "options": [
+    "Individuales o colectivos",
+    "Solo individuales y directos",
+    "Solo colectivos, si los defiende una asociación",
+    "Solo económicos o sociales"
+   ],
+   "correct": 0,
+   "exp": "El art. 4.1 c) se refiere a «aquellos cuyos intereses legítimos, individuales o colectivos, puedan resultar afectados por la resolución y se personen en el procedimiento». Admite, por tanto, las dos clases de intereses legítimos. La exigencia de que los intereses sean «directos» aparece en el art. 8 (nuevos interesados), no en el 4.1 c); y los intereses «económicos y sociales» son los que representan las asociaciones y organizaciones del art. 4.2, que no limitan la letra c).",
+   "fuente": "Art. 4.1 c) LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 4.1 c) LPAC verificado: «intereses legítimos, individuales o colectivos». Correcta la marcada; los tres distractores son falsos («directos» es del art. 8; económicos y sociales es del 4.2). Dato nuevo: las existentes solo preguntan «individuales o colectivos» para la letra a) y las de la c) omiten esa precisión. Explicación exacta. Dentro del epígrafe. | Revisor 2 (RECHAZADA): El contenido es cierto (art. 4.1 c): «intereses legítimos, individuales o colectivos»), pero repite en el fondo T4#76, que hace la misma pregunta con la misma respuesta («Individuales o colectivos») y distractores casi idénticos sobre la letra a); además el dato ya queda cubierto en este lote por la pregunta que compara b) y c). Y la correcta se delata por la forma: es la más corta y la única sin «Solo», que llevan los tres distractores (regla 7 bis)."
+  },
+  {
+   "q": "Una organización representativa de intereses económicos y sociales no ha iniciado un procedimiento, pero la resolución que se dicte puede afectar a los intereses legítimos colectivos que defiende. Según el art. 4 de la Ley 39/2015, ¿qué necesita para tener la condición de interesada?",
+   "options": [
+    "Nada más: la tiene desde el inicio por ser titular de intereses colectivos",
+    "Obtener la autorización previa del órgano que instruye el procedimiento",
+    "Acreditar que la resolución afecta a derechos individuales de sus socios",
+    "Personarse en el procedimiento antes de que recaiga resolución definitiva"
+   ],
+   "correct": 3,
+   "exp": "El art. 4.2 dice que estas asociaciones y organizaciones «serán titulares de intereses legítimos colectivos en los términos que la Ley reconozca», pero no las convierte por sí solo en interesadas en cualquier procedimiento. Si no lo han promovido (letra a) y lo que puede verse afectado no son derechos (letra b) sino intereses legítimos, encajan en el art. 4.1 c), que exige que «se personen en el procedimiento en tanto no haya recaído resolución definitiva». La ley no pide autorización del instructor ni que se acrediten derechos individuales de los socios.",
+   "fuente": "Art. 4.1 c) y 4.2 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Arts. 4.1 c) y 4.2 LPAC verificados. Relación nueva: el 4.2 solo hace a estas organizaciones titulares de intereses legítimos colectivos, no interesadas automáticas; si no promueven y no tienen derechos afectados, entran por la c) y deben personarse antes de la resolución definitiva. Las existentes del 4.2 solo repiten «en los términos que la Ley reconozca» y ninguna vincula 4.2 con la personación. Distractores falsos; explicación exacta. | Revisor 2 (CONFIRMADA): Arts. 4.1 c) y 4.2 comprobados: la organización es titular de intereses legítimos colectivos «en los términos que la Ley reconozca», y si no promovió el procedimiento ni tiene derechos afectados necesita personarse «en tanto no haya recaído resolución definitiva» (equivalente a «antes de que recaiga»). Distractores falsos (la ley no le da la condición sin personarse, no pide autorización del instructor ni derechos individuales de los socios). Caso práctico nuevo frente a T4#17, #18, #222 y #224. Longitudes parejas."
+  },
+  {
+   "q": "Durante la instrucción de un procedimiento que no ha tenido publicidad, el expediente permite identificar a una vecina que no lo inició y cuyos derechos pueden resultar directamente afectados por la resolución. Según los arts. 4.1 y 8 de la Ley 39/2015:",
+   "options": [
+    "Solo será interesada si se persona, y la Administración no tiene que comunicarle nada",
+    "Es interesada sin necesidad de personarse, y debe comunicársele la tramitación del procedimiento",
+    "No es interesada por no haber iniciado el procedimiento; solo se le notificará la resolución final",
+    "Es interesada, pero solo se le comunicará la tramitación si lo solicita por escrito"
+   ],
+   "correct": 1,
+   "exp": "Por el art. 4.1 b), quien sin haber iniciado el procedimiento tiene «derechos que puedan resultar afectados por la decisión que en el mismo se adopte» es interesado; la personación solo se exige en la letra c), a quien tiene intereses legítimos. Además, el art. 8 ordena que, si durante la instrucción de un procedimiento «que no haya tenido publicidad» se advierte la existencia de titulares de derechos o intereses legítimos y directos cuya identificación resulte del expediente y que puedan resultar afectados, «se comunicará a dichas personas la tramitación del procedimiento», de oficio y sin esperar a que lo pidan.",
+   "fuente": "Arts. 4.1 b) y 8 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): Correcta en Derecho (art. 4.1 b: interesado sin personarse; art. 8: «se comunicará a dichas personas la tramitación», procedimiento sin publicidad, identificación resultante del expediente), pero redundante: el art. 8 ya tiene diez preguntas que cubren exactamente esos requisitos y el deber de comunicar, y el 4.1 b) tres. El caso no exige ninguna inferencia que no salga de cada precepto por separado. | Revisor 2 (DUDOSA): Fondo correcto: arts. 4.1 b) (interesado sin personarse) y 8 (en procedimiento sin publicidad se comunicará la tramitación a titulares de derechos o intereses legítimos y directos identificados en el expediente), comprobados. Pero la correcta se delata por la forma (regla 7 bis): los tres distractores llevan «solo» («Solo será interesada…», «solo se le notificará…», «solo se le comunicará…») y la correcta no. Arreglo: quitar el «solo» de los distractores, p. ej. «Será interesada si se persona, y la Administración no tiene que comunicarle nada»; «No es interesada por no haber iniciado el procedimiento, y se le notificará la resolución final»; «Es interesada, y se le comunicará la tramitación si lo pide por escrito»."
+  },
+  {
+   "q": "Según la Ley 39/2015, ¿qué se exige a los grupos de afectados sin personalidad jurídica para tener capacidad de obrar (art. 3 c) y a las personas jurídicas para representar a otras (art. 5.2)?",
+   "options": [
+    "A los grupos, que una Ley lo declare expresamente; a las personas jurídicas, que lo prevean sus Estatutos",
+    "A los grupos, que lo prevean sus Estatutos; a las personas jurídicas, que una Ley lo declare expresamente",
+    "A los grupos, que se inscriban en un registro público; a las personas jurídicas, que lo prevean sus Estatutos",
+    "A los grupos, que una Ley lo declare expresamente; a las personas jurídicas, que inscriban el poder en un registro"
+   ],
+   "correct": 0,
+   "exp": "El art. 3 c) reconoce capacidad de obrar, «cuando la Ley así lo declare expresamente», a los grupos de afectados, las uniones y entidades sin personalidad jurídica y los patrimonios independientes o autónomos. El art. 5.2 permite representar a otras personas a las personas físicas con capacidad de obrar y a las personas jurídicas «siempre que ello esté previsto en sus Estatutos». La opción que intercambia los requisitos es falsa; la ley no exige a los grupos inscribirse en un registro público, y la inscripción en el registro de apoderamientos es una forma de acreditar la representación (art. 5.4), no un requisito para poder representar.",
+   "fuente": "Arts. 3 c) y 5.2 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): Verificado: 3 c) «Cuando la Ley así lo declare expresamente»; 5.2 «siempre que ello esté previsto en sus Estatutos». Correcta y distractores falsos, pero son dos datos inconexos ya preguntados cada uno varias veces (3 c: dos preguntas; 5.2 personas jurídicas/Estatutos: tres). Emparejarlos no enseña ninguna relación real entre ambos preceptos. | Revisor 2 (CONFIRMADA): Art. 3 c) («Cuando la Ley así lo declare expresamente») y art. 5.2 (personas jurídicas «siempre que ello esté previsto en sus Estatutos») comprobados. Distractores falsos: intercambio de requisitos, inscripción registral de los grupos (no existe) e inscripción del poder como requisito para representar (el art. 5.4 la trata como medio de acreditación). Los dos datos ya están en T4#13 y T4#22/#231, pero la pregunta mide no confundirlos (distractor de intercambio), así que no la considero repetición. Explicación exacta."
+  },
+  {
+   "q": "Las actuaciones para las que el art. 5.3 de la Ley 39/2015 exige acreditar la representación coinciden con las que enumera:",
+   "options": [
+    "El art. 12.2, como ámbitos de especial asistencia en medios electrónicos",
+    "El art. 6.7, como solicitudes que pueden dirigirse a cualquier registro",
+    "El art. 11.2, como casos en que se exige el uso obligatorio de firma",
+    "El art. 6.4, como tipos de poder inscribibles en los registros"
+   ],
+   "correct": 2,
+   "exp": "El art. 5.3 exige acreditar la representación para «formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos en nombre de otra persona». El art. 11.2 dice que las Administraciones «sólo requerirán a los interesados el uso obligatorio de firma» para esas mismas cinco actuaciones: formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos. El art. 12.2 menciona la identificación y firma electrónica, la presentación de solicitudes por el registro electrónico general y la obtención de copias auténticas; el 6.7, la inscripción, revocación, prórroga o denuncia del poder; y el 6.4, tres tipos de poder.",
+   "fuente": "Arts. 5.3 y 11.2 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado en el consolidado: las cinco actuaciones del art. 5.3 (formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones, renunciar a derechos) son exactamente las cinco letras del art. 11.2. Distractores falsos (12.2 ámbitos de asistencia; 6.7 inscripción/revocación/prórroga/denuncia; 6.4 tres tipologías). Relación nueva, no preguntada en el tema ni en otros. Longitudes equilibradas. | Revisor 2 (CONFIRMADA): Comprobado palabra por palabra: art. 5.3 (formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos) coincide con las cinco letras del art. 11.2. Los arts. 12.2 (identificación y firma, solicitudes por el registro electrónico general, copias auténticas), 6.7 (inscripción, revocación, prórroga o denuncia del poder) y 6.4 (tres tipos de poder) no coinciden, y están bien descritos. No existe en el banco."
+  },
+  {
+   "q": "Un representante va a renunciar a un derecho en nombre del interesado. Según los arts. 5.3 y 11.2 de la Ley 39/2015:",
+   "options": [
+    "Basta con que se identifique, porque la representación se presume siempre",
+    "Debe acreditar la representación, pero basta con identificarse",
+    "Debe firmar, pero la representación se presume y no se acredita",
+    "Debe acreditar la representación y firmar; no basta con identificarse"
+   ],
+   "correct": 3,
+   "exp": "Renunciar a derechos en nombre de otra persona es una de las actuaciones para las que el art. 5.3 dice que «deberá acreditarse la representación»; la presunción de representación solo opera en «los actos y gestiones de mero trámite». Y el art. 11.2 e) incluye «Renunciar a derechos» entre los casos en que las Administraciones requieren el uso obligatorio de firma, como excepción a la regla del art. 11.1, según la cual basta con acreditar la identidad. Por eso fallan las opciones que se conforman con la identificación o que presumen la representación.",
+   "fuente": "Arts. 5.3 y 11.2 e) LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): Correcta (5.3 exige acreditar la representación para renunciar a derechos; 11.2 e) exige firma), pero redundante con la pregunta 6 de este mismo lote (coincidencia 5.3/11.2), con las existentes de 11.2 e) («Renunciar a derechos» exige firma, dos preguntas) y con las de 5.3 (acreditar representación para renunciar/desistir). Si entra la 6, esta no añade nada. | Revisor 2 (CONFIRMADA): Art. 5.3 (renunciar a derechos en nombre de otro exige acreditar la representación; la presunción es solo para actos de mero trámite) y art. 11.2 e) (firma obligatoria para renunciar a derechos, excepción a la regla del 11.1) comprobados. Las otras tres opciones son falsas. Caso práctico que combina dos preceptos; no repite ninguna pregunta del banco. Longitudes parejas."
+  },
+  {
+   "q": "¿Qué diferencia a las personas habilitadas del art. 5.7 de la Ley 39/2015 del funcionario que actúa conforme al art. 12.2?",
+   "options": [
+    "Las del 5.7 han de ser funcionarios públicos; el funcionario del 12.2 puede ser cualquier persona física o jurídica que la Administración habilite al efecto",
+    "Las del 5.7 hacen transacciones electrónicas como representantes; el funcionario identifica o firma por un interesado sin medios, con su consentimiento expreso",
+    "Las del 5.7 necesitan el consentimiento expreso del interesado en cada trámite; el funcionario del 12.2 necesita un poder inscrito en el registro",
+    "Las del 5.7 solo representan a personas jurídicas; el funcionario del 12.2 solo actúa por quienes están obligados a relacionarse electrónicamente"
+   ],
+   "correct": 1,
+   "exp": "El art. 5.7 permite habilitar «a personas físicas o jurídicas autorizadas para la realización de determinadas transacciones electrónicas en representación de los interesados», y la habilitación determina la presunción de validez de esa representación. El art. 12.2 prevé que, si un interesado no obligado a relacionarse electrónicamente no dispone de los medios necesarios, su identificación o firma «podrá ser válidamente realizada por un funcionario público» con su propio sistema de firma, siempre que el interesado se identifique ante él y preste su «consentimiento expreso». Los habilitados del 5.7 no tienen que ser funcionarios ni representan solo a personas jurídicas; el funcionario del 12.2 no necesita un poder inscrito y actúa precisamente por quienes no están obligados.",
+   "fuente": "Arts. 5.7 y 12.2 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Arts. 5.7 y 12.2 LPAC verificados. Distingue dos figuras confundibles (ambas «habilitadas» y ambas para actuaciones electrónicas): personas físicas o jurídicas habilitadas que representan en transacciones electrónicas (5.7) frente al funcionario que identifica o firma por el interesado no obligado sin medios, previa identificación y consentimiento expreso (12.2). Ninguna existente las compara. Los tres distractores son falsos (5.7 no exige ser funcionario ni se limita a personas jurídicas; el 12.2 no exige poder inscrito y es para no obligados). La correcta es la más larga (159) pero por muy poco (156 la siguiente): no se delata. | Revisor 2 (CONFIRMADA): Art. 5.7 (personas físicas o jurídicas habilitadas para transacciones electrónicas en representación de los interesados) y art. 12.2, segundo párrafo (funcionario que identifica o firma por el interesado no obligado y sin medios, que se identifica ante él y da su consentimiento expreso) comprobados. Los distractores son falsos: el 5.7 no exige que sean funcionarios ni se limita a personas jurídicas, no hay consentimiento por trámite, y el 12.2 no exige poder inscrito ni se refiere a los obligados. Comparación nueva. Longitudes parejas."
+  },
+  {
+   "q": "¿Cuántos datos enumera el art. 6.3 de la Ley 39/2015 como información que, al menos, deben contener los asientos de los registros electrónicos de apoderamientos?",
+   "options": [
+    "Tres",
+    "Cuatro",
+    "Cinco",
+    "Seis"
+   ],
+   "correct": 2,
+   "exp": "El art. 6.3 dice que los asientos «deberán contener, al menos, la siguiente información» y la enumera en cinco letras: a) identificación del poderdante (nombre y apellidos o denominación o razón social, DNI, NIF o documento equivalente); b) los mismos datos del apoderado; c) fecha de inscripción; d) período de tiempo por el cual se otorga el poder; y e) tipo de poder según las facultades que otorgue.",
+   "fuente": "Art. 6.3 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "DUDOSA",
+   "notaRevision": "Revisor 1 (DUDOSA): Art. 6.3 verificado: cinco letras a)-e). Dato no preguntado como recuento. Pero el enunciado es ambiguo: «¿Cuántos datos...?» y las letras a) y b) contienen varios datos cada una (nombre y apellidos o razón social, DNI, NIF o equivalente); contando datos sueltos no salen cinco. Arreglo: «¿En cuántas letras enumera el art. 6.3 ... la información que, al menos, deben contener los asientos...?». Valor bajo; no debe entrar tal como está. | Revisor 2 (DUDOSA): El art. 6.3 tiene cinco letras (a-e), comprobado. Pero el enunciado pregunta cuántos «datos» enumera, y las letras a) y b) contienen varios datos cada una (nombre y apellidos o razón social, y DNI, NIF o documento equivalente, del poderdante y del apoderado). Contados como datos son más de cinco, así que la pregunta es ambigua, y la propia explicación los desglosa. Arreglo: «¿En cuántas letras enumera el art. 6.3 de la Ley 39/2015 la información que, al menos, deben contener los asientos de los registros electrónicos de apoderamientos?». No repite: el banco cuenta las letras del 6.4 (T4#35, #104), no las del 6.3."
+  },
+  {
+   "q": "El Título I de la Ley 39/2015 obliga expresamente a la Administración General del Estado, a las Comunidades Autónomas y a las Entidades Locales a contar con dos registros. ¿Cuáles?",
+   "options": [
+    "Un registro electrónico general de apoderamientos y un registro, u otro sistema equivalente, de funcionarios habilitados",
+    "Un registro electrónico general de apoderamientos y un registro de los sistemas de identificación y de firma de la letra c)",
+    "Un registro de personas habilitadas para transacciones electrónicas y un registro de funcionarios habilitados",
+    "Un registro de interesados personados en cada procedimiento y un registro electrónico general de apoderamientos"
+   ],
+   "correct": 0,
+   "exp": "El art. 6.1 dispone que la Administración General del Estado, las Comunidades Autónomas y las Entidades Locales «dispondrán de un registro electrónico general de apoderamientos», y el art. 12.3 que esas mismas Administraciones «mantendrán actualizado un registro, u otro sistema equivalente, donde constarán los funcionarios habilitados para la identificación o firma». Para los sistemas de la letra c) de los arts. 9.2 y 10.2 la ley exige una comunicación a la Secretaría General de Administración Digital, no un registro; y el Título I no crea registros de personas habilitadas del art. 5.7 ni de interesados personados.",
+   "fuente": "Arts. 6.1 y 12.3 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): Verificado: 6.1 (registro electrónico general de apoderamientos) y 12.3 (registro u otro sistema equivalente de funcionarios habilitados), ambos para AGE, CCAA y EELL; distractores falsos. Pero redundante: ambos registros y el trío de Administraciones están ya preguntados (6.1: nueve preguntas; 12.3: nueve, incluida la de qué Administraciones lo mantienen). Además se solapa con las preguntas 11 y 12 de este lote, que combinan de nuevo 6.x y 12.3. | Revisor 2 (CONFIRMADA): Art. 6.1 (AGE, CCAA y Entidades Locales «dispondrán de un registro electrónico general de apoderamientos») y art. 12.3 (las mismas «mantendrán actualizado un registro, u otro sistema equivalente» de funcionarios habilitados) comprobados. En los arts. 3-12 no hay otro registro obligatorio para esas Administraciones: los registros particulares del 6.1 son potestativos, los sistemas de la letra c) de los arts. 9.2 y 10.2 solo exigen comunicarse a la SGAD, y no hay registro de habilitados del 5.7 ni de personados. Combinación nueva de T4#30 y #200."
+  },
+  {
+   "q": "¿Qué papel atribuye el Título I de la Ley 39/2015 a las oficinas de asistencia en materia de registros?",
+   "options": [
+    "Ante ellas se otorga el apud acta por comparecencia electrónica, y sus funcionarios actúan como representantes habilitados del art. 5.7 de la Ley",
+    "En ellas se hace el bastanteo de todos los poderes, y sus funcionarios deben inscribirse en el registro electrónico de apoderamientos",
+    "En ellas se comunican a la SGAD los nuevos sistemas de identificación, y sus funcionarios emiten el informe sobre su seguridad",
+    "Ante ellas se otorga el apud acta por comparecencia personal, y sus funcionarios deben constar en el registro de funcionarios habilitados"
+   ],
+   "correct": 3,
+   "exp": "El art. 6.5 dice que el apoderamiento apud acta se otorga por comparecencia electrónica en la sede electrónica «o bien mediante comparecencia personal en las oficinas de asistencia en materia de registros». El art. 12.3 añade que en el registro de funcionarios habilitados «al menos, constarán los funcionarios que presten servicios en las oficinas de asistencia en materia de registros». La comparecencia electrónica es en la sede electrónica, no en la oficina; la ley exige que el bastanteo conste en el registro de apoderamientos (art. 6.1), pero no lo atribuye a estas oficinas; y el informe sobre los sistemas de la letra c) es de la Secretaría de Estado de Seguridad.",
+   "fuente": "Arts. 6.5 y 12.3 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): Verificado: 6.5 (apud acta por comparecencia personal en las oficinas de asistencia en materia de registros) y 12.3 párr. 2 (en el registro constarán, al menos, los funcionarios de esas oficinas). Correcta y distractores falsos, pero ambos datos ya están preguntados literalmente (6.5: dos preguntas que mencionan las oficinas; 12.3: la de quiénes deben constar al menos). No aporta relación nueva. | Revisor 2 (CONFIRMADA): Art. 6.5 (apud acta «mediante comparecencia personal en las oficinas de asistencia en materia de registros»; la comparecencia electrónica es en la sede electrónica) y art. 12.3, último párrafo (en el registro de habilitados «al menos, constarán los funcionarios que presten servicios en las oficinas de asistencia en materia de registros») comprobados. Distractores falsos (el bastanteo consta en el registro de apoderamientos según el 6.1, pero la ley no lo asigna a las oficinas; el informe de seguridad es de la Secretaría de Estado de Seguridad). Une T4#37 y #205 desde un enfoque nuevo."
+  },
+  {
+   "q": "Los arts. 6.2 y 12.3 de la Ley 39/2015 exigen que los registros de apoderamientos y los de funcionarios habilitados sean interoperables. ¿Qué permite comprobar cada uno?",
+   "options": [
+    "Los de apoderamientos, la validez de las habilitaciones de los funcionarios; los de funcionarios, la representación de quien actúa por otro",
+    "Los de apoderamientos, la representación de quien actúa en nombre de un tercero; los de funcionarios, la validez de sus habilitaciones",
+    "Los de apoderamientos, la identidad de los interesados; los de funcionarios, la firma electrónica de los interesados sin medios propios",
+    "Los de apoderamientos, la capacidad de obrar del poderdante; los de funcionarios, el consentimiento expreso de los interesados atendidos"
+   ],
+   "correct": 1,
+   "exp": "Según el art. 6.2, los registros electrónicos generales y particulares de apoderamientos «permitirán comprobar válidamente la representación de quienes actúen ante las Administraciones Públicas en nombre de un tercero». Según el art. 12.3, los registros o sistemas de funcionarios habilitados deben ser interoperables e interconectados «a los efectos de comprobar la validez de las citadas habilitaciones». La opción que intercambia las finalidades es falsa, y la ley no asigna a estos registros la comprobación de la identidad, la firma, la capacidad de obrar ni el consentimiento de los interesados.",
+   "fuente": "Arts. 6.2 y 12.3 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): Verificado: 6.2 («permitirán comprobar válidamente la representación de quienes actúen ... en nombre de un tercero») y 12.3 («a los efectos de comprobar la validez de las citadas habilitaciones»). Correcta, pero redundante: la finalidad del 12.3 ya está preguntada (comprobar la validez de las habilitaciones) y la comprobación de la representación por los registros de apoderamientos también (6.2, consulta a registros y protocolos). El distractor que intercambia finalidades no añade contenido. | Revisor 2 (CONFIRMADA): Art. 6.2, segundo párrafo (los registros de apoderamientos «permitirán comprobar válidamente la representación de quienes actúen… en nombre de un tercero») y art. 12.3 (interoperables «a los efectos de comprobar la validez de las citadas habilitaciones») comprobados. Distractor de intercambio y otros dos sin apoyo en la ley: falsos. Contraste nuevo, aunque cada dato está por separado en T4#97 y #204."
+  },
+  {
+   "q": "En el Título I de la Ley 39/2015, ¿qué dos plazos son de diez días?",
+   "options": [
+    "El de aportación o subsanación de la representación y el de espera previo a la eficacia de los sistemas de la letra c)",
+    "El de validez de las prórrogas de los poderes inscritos y el del informe de la Secretaría de Estado de Seguridad",
+    "El de aportación o subsanación de la representación y el del informe de la Secretaría de Estado de Seguridad",
+    "El de personación de quienes tienen intereses legítimos y el de aportación o subsanación de la representación"
+   ],
+   "correct": 2,
+   "exp": "El art. 5.6 fija para aportar o subsanar la acreditación de la representación el «plazo de diez días que deberá conceder al efecto el órgano administrativo» (o uno superior si las circunstancias lo requieren). Los arts. 9.2 c) y 10.2 c) prevén el informe vinculante de la Secretaría de Estado de Seguridad, «que deberá emitir en el plazo de diez días desde su solicitud». En cambio, la espera previa a la eficacia de los sistemas de la letra c) es de dos meses; las prórrogas de los poderes inscritos valen como máximo cinco años (art. 6.6); y quien tiene intereses legítimos puede personarse «en tanto no haya recaído resolución definitiva» (art. 4.1 c), sin un plazo en días.",
+   "fuente": "Arts. 5.6, 9.2 c) y 10.2 c) LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): Verificado: 5.6 (diez días para aportar o subsanar la representación) y 9.2 c)/10.2 c) (informe vinculante de la SES en diez días); dos meses de espera, cinco años de prórroga y personación sin plazo en días, por lo que los distractores son falsos. Pero cada plazo ya está preguntado por separado (5.6 diez días: dos preguntas; informe SES diez días: dos; dos meses: tres; cinco años: tres). La recopilación no enseña nada nuevo. | Revisor 2 (CONFIRMADA): Los únicos plazos de diez días de los arts. 3-12 son el del art. 5.6 (subsanación de la representación, o uno superior) y el del informe de la Secretaría de Estado de Seguridad de los arts. 9.2 c) y 10.2 c); revisado buscando todos los plazos del Título I. La espera de la letra c) es de dos meses, las prórrogas valen cinco años como máximo (6.6) y la personación del 4.1 c) no tiene plazo en días. Las otras tres opciones son falsas. Pregunta nueva de comparación de plazos."
+  },
+  {
+   "q": "Según el art. 9.2 c) de la Ley 39/2015, los sistemas de identificación de esa letra deben contar con un registro previo como usuario. ¿Qué debe permitir ese registro?",
+   "options": [
+    "Garantizar la identidad del interesado",
+    "Acreditar la representación del interesado",
+    "Comprobar la capacidad de obrar del interesado",
+    "Fijar el domicilio para las notificaciones"
+   ],
+   "correct": 0,
+   "exp": "El art. 9.2 c) admite «cualquier otro sistema que las Administraciones públicas consideren válido», siempre que cuente con «un registro previo como usuario que permita garantizar su identidad» y previa comunicación a la Secretaría General de Administración Digital. El art. 10.2 c) exige lo mismo para los sistemas de firma. La representación se acredita por los medios del art. 5.4; la ley no vincula ese registro previo con la capacidad de obrar ni con las notificaciones.",
+   "fuente": "Art. 9.2 c) LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 9.2 c) verificado: «registro previo como usuario que permita garantizar su identidad». Dato nuevo: las existentes mencionan el registro previo como requisito, pero ninguna pregunta su finalidad. Distractores falsos (la representación se acredita por el art. 5.4; nada sobre capacidad ni notificaciones). La correcta es la más corta: no se delata. Explicación exacta (incluye que el 10.2 c) dice lo mismo). | Revisor 2 (CONFIRMADA): Art. 9.2 c): «un registro previo como usuario que permita garantizar su identidad», comprobado; el 10.2 c) dice lo mismo. Los distractores (representación, capacidad de obrar, domicilio para notificaciones) son falsos. El banco pregunta por la existencia del registro previo (T4#52, #138), no por su finalidad. Longitudes parejas."
+  },
+  {
+   "q": "¿Cuántos sistemas de identificación electrónica enumera el art. 9.2 de la Ley 39/2015 en sus letras?",
+   "options": [
+    "Dos",
+    "Tres",
+    "Cuatro",
+    "Cinco"
+   ],
+   "correct": 1,
+   "exp": "El art. 9.2 dice que los interesados «podrán identificarse electrónicamente ante las Administraciones Públicas a través de los sistemas siguientes» y enumera tres: a) sistemas basados en certificados electrónicos cualificados de firma electrónica; b) sistemas basados en certificados electrónicos cualificados de sello electrónico, en ambos casos de prestadores incluidos en la «Lista de confianza de prestadores de servicios de certificación»; y c) cualquier otro sistema que las Administraciones consideren válido, con registro previo como usuario y previa comunicación a la Secretaría General de Administración Digital.",
+   "fuente": "Art. 9.2 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): Correcto (9.2 enumera tres sistemas: a, b, c), pero no aporta nada: las existentes ya preguntan por separado las letras a), b) y c) del 9.2 y otras dos hablan expresamente de «los sistemas de las letras a) y b)» frente a «la letra c)», con lo que el recuento ya se sabe. Recuento de bajo valor. | Revisor 2 (CONFIRMADA): El art. 9.2 enumera tres sistemas en las letras a), b) y c), comprobado. En el banco no hay pregunta de recuento sobre el 9.2 (los recuentos existentes son del 3, 4.1, 5, 6, 6.4 y 11.2). Enunciado inequívoco («en sus letras»)."
+  },
+  {
+   "q": "Según los arts. 9.2 a) y 10.2 a) de la Ley 39/2015, los sistemas basados en certificados electrónicos cualificados de firma electrónica, expedidos por prestadores de la «Lista de confianza», sirven:",
+   "options": [
+    "Solo para identificarse; para firmar se exige sello",
+    "Solo para firmar; para identificarse se exige registro previo",
+    "Solo a las personas jurídicas, para identificarse y sellar",
+    "Para identificarse y también para firmar"
+   ],
+   "correct": 3,
+   "exp": "El art. 9.2 a) incluye entre los sistemas de identificación los «basados en certificados electrónicos cualificados de firma electrónica expedidos por prestadores incluidos en la ‘‘Lista de confianza de prestadores de servicios de certificación’’», y el art. 10.2 a) considera válidos a efectos de firma los «sistemas de firma electrónica cualificada y avanzada basados en certificados electrónicos cualificados de firma electrónica» de esos prestadores. El sello electrónico es la letra b) de ambos artículos, el registro previo como usuario se exige a los sistemas de la letra c), y la ley no reserva estos certificados a las personas jurídicas.",
+   "fuente": "Arts. 9.2 a) y 10.2 a) LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): Verificado: 9.2 a) (identificación con certificados cualificados de firma electrónica) y 10.2 a) (firma cualificada y avanzada basada en esos certificados). Correcta, pero redundante: ambas letras a) están preguntadas ya cuatro veces cada una con el mismo contenido. El enunciado se responde juntando esas preguntas y no plantea relación nueva (la relación identificación/firma está en el 10.5, ya preguntado). | Revisor 2 (DUDOSA): El fondo es correcto: el art. 9.2 a) admite para identificarse los certificados cualificados de firma electrónica de la «Lista de confianza», y el art. 10.2 a) admite para firmar la firma electrónica cualificada y avanzada basada en esos mismos certificados. Pero la correcta se delata por la forma (regla 7 bis): es la más corta y la única sin «Solo», que llevan los tres distractores. Además, cada letra ya está preguntada (T4#50, #58, #134, #155), así que la aportación es pequeña. Arreglo: redactar los distractores sin «Solo» y con la misma longitud, p. ej. «Para identificarse; para firmar hace falta además un sello electrónico» o «Para firmar; para identificarse hace falta un registro previo como usuario»."
+  },
+  {
+   "q": "Comparados con los requisitos del art. 9.2 c) de la Ley 39/2015 para admitir otro sistema de identificación, los que fija el art. 10.2 c) para admitir otro sistema de firma son:",
+   "options": [
+    "Los mismos: registro previo como usuario, comunicación a la SGAD con declaración responsable y dos meses de espera",
+    "Más exigentes: además de comunicarlo a la SGAD, hace falta su autorización expresa dentro de los dos meses",
+    "Menos exigentes: basta comunicarlo a la SGAD, sin registro previo como usuario ni declaración responsable",
+    "Distintos: la espera es de un mes y el informe vinculante lo emite la propia SGAD en diez días"
+   ],
+   "correct": 0,
+   "exp": "Las letras c) de los arts. 9.2 y 10.2 tienen el mismo texto: el sistema debe contar con «un registro previo como usuario que permita garantizar su identidad» y con la previa comunicación a la Secretaría General de Administración Digital, que «vendrá acompañada de una declaración responsable»; antes de su eficacia jurídica «habrán de transcurrir dos meses», durante los cuales el órgano estatal competente por motivos de seguridad pública puede acudir a la vía jurisdiccional, previo informe vinculante de la Secretaría de Estado de Seguridad en diez días. No hay autorización de la SGAD, ni se suprimen requisitos para la firma, ni la espera es de un mes.",
+   "fuente": "Arts. 9.2 c) y 10.2 c) LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): Verificado: el texto de 9.2 c) y 10.2 c) es idéntico tras la Ley 11/2022 (registro previo, comunicación a la SGAD con declaración responsable, dos meses, informe vinculante de la SES en diez días). Correcta, pero redundante: cada requisito ya está preguntado por separado para la identificación (seis preguntas) y para la firma (cuatro). Que coincidan se ve ya al estudiar ambas series. | Revisor 2 (CONFIRMADA): Las letras c) de los arts. 9.2 y 10.2 tienen texto idéntico en el consolidado vigente (Ley 11/2022): registro previo como usuario, comunicación a la SGAD acompañada de declaración responsable, dos meses antes de la eficacia jurídica, y la vía jurisdiccional del órgano estatal con informe vinculante de la Secretaría de Estado de Seguridad en diez días. No hay autorización de la SGAD, no se suprimen requisitos y la espera no es de un mes. Comparación nueva; cada elemento ya está en T4#138-143 y #159-162, pero no se había preguntado si coinciden."
+  },
+  {
+   "q": "Según los apartados 4 y 5 del art. 10 de la Ley 39/2015, ¿cómo se relacionan la identificación y la firma?",
+   "options": [
+    "Quien se identifica queda habilitado para firmar; un sistema de firma solo acredita la identidad si la normativa reguladora lo dispone expresamente",
+    "Quien firma tiene que identificarse además por separado; cualquier sistema de identificación vale como firma sin necesidad de previsión normativa",
+    "Quien firma con un sistema del art. 10 queda identificado; un sistema de identificación solo vale como firma si la normativa reguladora lo dispone expresamente",
+    "Quien se identifica ya ha firmado a todos los efectos; un sistema de firma nunca sirve por sí solo para acreditar la identidad del interesado"
+   ],
+   "correct": 2,
+   "exp": "El art. 10.5 dice que, cuando los interesados utilicen un sistema de firma de los previstos en el artículo, «su identidad se entenderá ya acreditada mediante el propio acto de la firma». En sentido inverso, el art. 10.4 solo permite admitir los sistemas de identificación como sistema de firma «cuando así lo disponga expresamente la normativa reguladora aplicable» y siempre que permitan acreditar la autenticidad de la expresión de la voluntad y consentimiento de los interesados. Las demás opciones invierten o suprimen esa relación.",
+   "fuente": "Art. 10.4 y 10.5 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): Verificado: 10.5 («su identidad se entenderá ya acreditada mediante el propio acto de la firma») y 10.4 (identificación como firma solo si lo dispone expresamente la normativa reguladora). Correcta, pero ambos apartados ya están preguntados (10.4: tres preguntas; 10.5: tres, incluida una que explica sus consecuencias). Une dos preguntas existentes sin dato nuevo. | Revisor 2 (CONFIRMADA): Art. 10.5 (con un sistema de firma del artículo, la identidad «se entenderá ya acreditada mediante el propio acto de la firma») y art. 10.4 (los sistemas de identificación solo valen como firma «cuando así lo disponga expresamente la normativa reguladora aplicable») comprobados. Los distractores invierten o suprimen esa relación y son falsos. Cada apartado está preguntado por separado (T4#60, #61, #167, #169, #170); esta pregunta mide la dirección de la relación, que es nueva. Longitudes parejas."
+  },
+  {
+   "q": "¿En qué se diferencian las enumeraciones de los arts. 11.2 y 12.2 de la Ley 39/2015?",
+   "options": [
+    "La del 11.2, de casos de firma obligatoria, es abierta («especialmente»); la del 12.2, de ámbitos de asistencia, es cerrada («sólo»)",
+    "Las dos son cerradas: solo puede exigirse firma o prestarse asistencia en los casos que cada una enumera expresamente",
+    "Las dos son abiertas: cada Administración puede añadir libremente otros casos de firma obligatoria y de asistencia",
+    "La del 11.2, de casos de firma obligatoria, es cerrada («sólo»); la del 12.2, de ámbitos de asistencia, es abierta («especialmente»)"
+   ],
+   "correct": 3,
+   "exp": "El art. 11.2 dice que las Administraciones «sólo requerirán a los interesados el uso obligatorio de firma» para cinco actuaciones tasadas: es una lista cerrada, coherente con la regla del art. 11.1 de que basta con identificarse. El art. 12.2 dice que asistirán a los interesados no obligados que lo soliciten, «especialmente en lo referente a la identificación y firma electrónica, presentación de solicitudes a través del registro electrónico general y obtención de copias auténticas»: esos ámbitos se citan como ejemplos, no como límite.",
+   "fuente": "Arts. 11.2 y 12.2 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Arts. 11.2 y 12.2 verificados: «sólo requerirán ... el uso obligatorio de firma» (lista tasada) frente a «especialmente en lo referente a...» (ámbitos enunciativos). Aporta un dato nuevo: ninguna existente pregunta si la lista de ámbitos de asistencia del 12.2 es limitativa; el carácter tasado del 11.2 se usa como contraste. Distractores falsos; correcta y distractor invertido de igual longitud. Explicación exacta. | Revisor 2 (CONFIRMADA): Art. 11.2 («sólo requerirán… el uso obligatorio de firma para», lista cerrada) y art. 12.2 («especialmente en lo referente a…», lista abierta) comprobados. Las otras tres opciones (intercambio, ambas cerradas, ambas abiertas) son falsas. Contraste nuevo en el banco. Longitudes parejas, y la correcta empata con el distractor de intercambio."
+  },
+  {
+   "q": "Según el art. 12 de la Ley 39/2015, ¿a quién se dirigen, respectivamente, la garantía del apartado 1 (canales, sistemas y aplicaciones) y la asistencia del apartado 2?",
+   "options": [
+    "La del 1, solo a los obligados a relacionarse electrónicamente; la del 2, a todos los interesados, de oficio",
+    "La del 1, a los interesados en general; la del 2, a los no obligados a relacionarse electrónicamente que la soliciten",
+    "La del 1, solo a quienes la soliciten expresamente; la del 2, de oficio a todos los no obligados",
+    "La del 1, solo a las personas jurídicas; la del 2, solo a las personas físicas obligadas que la soliciten"
+   ],
+   "correct": 1,
+   "exp": "El art. 12.1 obliga a las Administraciones a «garantizar que los interesados pueden relacionarse con la Administración a través de medios electrónicos», poniendo a su disposición los canales de acceso, sistemas y aplicaciones necesarios, sin distinguir entre interesados ni exigir solicitud. El art. 12.2, en cambio, limita la asistencia a «los interesados no incluidos en los apartados 2 y 3 del artículo 14 que así lo soliciten», es decir, a quienes no están obligados a relacionarse electrónicamente y la piden.",
+   "fuente": "Art. 12.1 y 12.2 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): Verificado: 12.1 (garantía a «los interesados», sin distinción) y 12.2 (asistencia a los no incluidos en el art. 14.2 y 14.3 «que así lo soliciten»). Correcta, pero redundante: el art. 12.2 tiene diecisiete preguntas y las que preguntan a qué interesados se asiste y que es a solicitud ya cubren el dato; el 12.1 tiene seis preguntas sobre a quién garantiza. Sin relación nueva. | Revisor 2 (DUDOSA): El fondo es correcto: el art. 12.1 obliga a garantizar a los interesados, sin distinción ni solicitud, que puedan relacionarse electrónicamente, y el art. 12.2 limita la asistencia a los no incluidos en los apartados 2 y 3 del art. 14 que la soliciten, que son los no obligados. Pero la correcta se delata por la forma (regla 7 bis): los tres distractores llevan «solo» en el primer miembro y la correcta no. Además se apoya mucho en T4#184, #188 y #189. Arreglo: quitar el «solo» de los distractores, p. ej. «La del 1, a los obligados a relacionarse electrónicamente; la del 2, a todos los interesados, de oficio»."
+  }
+ ]
+}

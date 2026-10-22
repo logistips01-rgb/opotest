@@ -56906,3 +56906,730 @@ window.addQuestions('aux-admin-zaragoza', 2, [
     "confianza": "alta"
   }
 ]);
+
+/* tema 1 · lote 2026-10-22 · 16 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 1, [
+  {
+    "q": "Según el Real Decreto 2560/1978, ¿en qué fecha aprobaron las Cortes el proyecto de Constitución en sesiones plenarias del Congreso de los Diputados y del Senado?",
+    "options": [
+      "El 3 de noviembre de 1978",
+      "El 6 de diciembre de 1978",
+      "El 31 de octubre de 1978",
+      "El 15 de junio de 1978"
+    ],
+    "correct": 2,
+    "exp": "El preámbulo del Real Decreto 2560/1978 empieza: «Aprobado por las Cortes en sesiones plenarias del Congreso de los Diputados y del Senado celebradas el pasado treinta y uno de octubre el proyecto de Constitución, procede someterlo a Referéndum de la Nación», y su art. 1 repite la fecha. El 3 de noviembre de 1978 es la fecha del propio Real Decreto y el 6 de diciembre la del referéndum (art. 2). El 15 de junio no es un hito de 1978: las elecciones a las Cortes que aprobaron la Constitución se celebraron el 15 de junio de 1977 (RD 679/1977).",
+    "fuente": "Preámbulo y art. 1 RD 2560/1978 (Real Decreto 2560/1978, de 3 de noviembre)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿De qué fecha es el Real Decreto 2560/1978, por el que se sometió a Referéndum de la Nación el proyecto de Constitución?",
+    "options": [
+      "3 de noviembre de 1978",
+      "31 de octubre de 1978",
+      "6 de diciembre de 1978",
+      "27 de diciembre de 1978"
+    ],
+    "correct": 0,
+    "exp": "Es el «Real Decreto 2560/1978, de 3 de noviembre, por el que se somete a Referéndum de la Nación el proyecto de Constitución», publicado en el «BOE» núm. 265, de 6 de noviembre de 1978, y firmado «en Madrid a tres de noviembre de mil novecientos setenta y ocho». El 31 de octubre es la fecha en que las Cortes aprobaron el proyecto, el 6 de diciembre la del referéndum que el propio Real Decreto convoca (art. 2) y el 27 de diciembre la de la sanción de la Constitución por el Rey.",
+    "fuente": "Título y fórmula final RD 2560/1978 (Real Decreto 2560/1978, de 3 de noviembre)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 3 del Real Decreto 2560/1978, ¿qué pregunta se formuló en el referéndum del 6 de diciembre de 1978?",
+    "options": [
+      "«¿Ratifica la Constitución aprobada por las Cortes?»",
+      "«¿Aprueba la Constitución Española de 1978?»",
+      "«¿Está de acuerdo con el texto constitucional?»",
+      "«¿Aprueba el proyecto de Constitución?»"
+    ],
+    "correct": 3,
+    "exp": "El art. 3 del RD 2560/1978 dispone: «La consulta se llevará a cabo formulando la siguiente pregunta: «¿Aprueba el proyecto de Constitución?»». Lo que se sometió a votación fue el «proyecto de Constitución», que es como lo llama todo el Real Decreto. Ninguna de las otras tres fórmulas aparece en él.",
+    "fuente": "Art. 3 RD 2560/1978 (Real Decreto 2560/1978, de 3 de noviembre)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el preámbulo del Real Decreto 2560/1978, el proyecto de Constitución aprobado por las Cortes debía someterse a Referéndum de la Nación de acuerdo con lo que disponía:",
+    "options": [
+      "La Ley de Referéndum Nacional, de 22 de octubre de 1945",
+      "La Ley 1/1977, de 4 de enero, para la Reforma Política",
+      "La Ley Orgánica del Estado, de 10 de enero de 1967",
+      "La Ley Constitutiva de las Cortes, de 17 de julio de 1942"
+    ],
+    "correct": 1,
+    "exp": "El preámbulo del RD 2560/1978 dice que «procede someterlo a Referéndum de la Nación, de acuerdo con lo que dispone el número tres del artículo tercero de la Ley para la Reforma Política». Es la Ley 1/1977, de 4 de enero: la ficha del Real Decreto en el BOE indica «DE CONFORMIDAD con la Ley 1/1977, de 4 de enero». La Ley de Referéndum Nacional, la Ley Orgánica del Estado y la Ley Constitutiva de las Cortes son leyes anteriores que la propia Constitución deroga en su disposición derogatoria, apartado 1.",
+    "fuente": "Preámbulo RD 2560/1978 (Real Decreto 2560/1978, de 3 de noviembre)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Al final del texto de la Constitución, después de la firma del Rey, figuran las de otras autoridades. ¿Cuál de las siguientes NO está entre ellas?",
+    "options": [
+      "El Presidente de las Cortes",
+      "El Presidente del Senado",
+      "El Presidente del Gobierno",
+      "El Presidente del Congreso de los Diputados"
+    ],
+    "correct": 2,
+    "exp": "Tras «PALACIO DE LAS CORTES, A VEINTISIETE DE DICIEMBRE DE MIL NOVECIENTOS SETENTA Y OCHO. JUAN CARLOS», el texto oficial recoge tres firmas más: «EL PRESIDENTE DE LAS CORTES, Antonio Hernández Gil», «EL PRESIDENTE DEL CONGRESO DE LOS DIPUTADOS, Fernando Álvarez de Miranda y Torres» y «EL PRESIDENTE DEL SENADO, Antonio Fontán Pérez». No firma el Presidente del Gobierno.",
+    "fuente": "Fórmula final y firmas CE (Constitución Española de 1978)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál es el orden cronológico correcto de las siguientes fases de la aprobación de la Constitución?",
+    "options": [
+      "Aprobación por las Cortes, referéndum, sanción por el Rey y publicación en el BOE",
+      "Referéndum, aprobación por las Cortes, sanción por el Rey y publicación en el BOE",
+      "Aprobación por las Cortes, sanción por el Rey, referéndum y publicación en el BOE",
+      "Aprobación por las Cortes, referéndum, publicación en el BOE y sanción por el Rey"
+    ],
+    "correct": 0,
+    "exp": "Las Cortes aprobaron el proyecto el 31 de octubre de 1978 (RD 2560/1978, art. 1). El referéndum se celebró el 6 de diciembre de 1978 (art. 2 del mismo Real Decreto). El Rey sancionó la Constitución el 27 de diciembre de 1978 («PALACIO DE LAS CORTES, A VEINTISIETE DE DICIEMBRE DE MIL NOVECIENTOS SETENTA Y OCHO»). Se publicó en el «BOE» núm. 311, de 29 de diciembre de 1978, y entró en vigor ese mismo día (disposición final). El preámbulo lo resume así: «las Cortes aprueban y el pueblo español ratifica la siguiente Constitución».",
+    "fuente": "Arts. 1 y 2 RD 2560/1978; fórmula final y disposición final CE (Constitución Española de 1978)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el comienzo del Preámbulo de la Constitución, la Nación española proclama su voluntad deseando establecer:",
+    "options": [
+      "La justicia, la libertad y la seguridad",
+      "La libertad, la justicia y la igualdad",
+      "La paz, la libertad y la democracia",
+      "La igualdad, la seguridad y el progreso"
+    ],
+    "correct": 0,
+    "exp": "El Preámbulo empieza: «La Nación española, deseando establecer la justicia, la libertad y la seguridad y promover el bien de cuantos la integran, en uso de su soberanía, proclama su voluntad de…». No hay que confundirlo con los valores superiores del art. 1.1, que son la libertad, la justicia, la igualdad y el pluralismo político.",
+    "fuente": "Preámbulo CE (Constitución Española de 1978)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Entre las voluntades que proclama el Preámbulo de la Constitución figura la de promover el progreso de la cultura y de la economía para:",
+    "options": [
+      "Garantizar a todos un trabajo digno y suficiente",
+      "Asegurar a todos una digna calidad de vida",
+      "Lograr el pleno empleo y una justa distribución de la renta",
+      "Hacer efectiva la igualdad de todos los españoles"
+    ],
+    "correct": 1,
+    "exp": "El Preámbulo dice: «Promover el progreso de la cultura y de la economía para asegurar a todos una digna calidad de vida». El trabajo, el pleno empleo, la distribución de la renta y la igualdad no se mencionan en el Preámbulo.",
+    "fuente": "Preámbulo CE (Constitución Española de 1978)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el Preámbulo de la Constitución, la Nación española proclama su voluntad de colaborar en el fortalecimiento de unas relaciones pacíficas y de eficaz cooperación entre:",
+    "options": [
+      "Los Estados miembros de las Comunidades Europeas",
+      "Las naciones de la comunidad iberoamericana",
+      "Todos los pueblos de la Tierra",
+      "Todos los pueblos de España"
+    ],
+    "correct": 2,
+    "exp": "La última voluntad del Preámbulo es «Colaborar en el fortalecimiento de unas relaciones pacíficas y de eficaz cooperación entre todos los pueblos de la Tierra». Los «pueblos de España» aparecen en otra voluntad, la de protegerlos en el ejercicio de los derechos humanos. El Preámbulo no menciona las Comunidades Europeas ni la comunidad iberoamericana.",
+    "fuente": "Preámbulo CE (Constitución Española de 1978)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el Preámbulo de la Constitución, la Nación española proclama su voluntad de proteger a todos los españoles y pueblos de España en el ejercicio de:",
+    "options": [
+      "Los derechos fundamentales, sus libertades públicas y sus derechos históricos",
+      "Su derecho a la autonomía, sus Estatutos y sus instituciones propias",
+      "Sus derechos forales, sus lenguas oficiales y sus símbolos propios",
+      "Los derechos humanos, sus culturas y tradiciones, lenguas e instituciones"
+    ],
+    "correct": 3,
+    "exp": "El Preámbulo dice: «Proteger a todos los españoles y pueblos de España en el ejercicio de los derechos humanos, sus culturas y tradiciones, lenguas e instituciones». Los derechos históricos de los territorios forales están en la disposición adicional primera; el derecho a la autonomía, en el art. 2, y los derechos fundamentales, en el Título I. Ninguno aparece en esta frase del Preámbulo.",
+    "fuente": "Preámbulo CE (Constitución Española de 1978)",
+    "confianza": "alta"
+  },
+  {
+    "q": "En el texto de la Constitución, ¿cuál de los siguientes títulos aparece sin una rúbrica que describa su contenido?",
+    "options": [
+      "El Título II",
+      "El Título preliminar",
+      "El Título VII",
+      "El Título X"
+    ],
+    "correct": 1,
+    "exp": "En el texto oficial, el Título preliminar aparece solo como «TÍTULO PRELIMINAR» y pasa directamente al art. 1. Todos los demás títulos llevan rúbrica: el Título II, «De la Corona»; el Título VII, «Economía y Hacienda» (sin la preposición «De», pero con rúbrica), y el Título X, «De la reforma constitucional».",
+    "fuente": "Rúbricas de los títulos CE (Constitución Española de 1978) (índice del texto consolidado BOE-A-1978-31229)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál es la rúbrica del Capítulo primero del Título III de la Constitución, que comprende los artículos 66 a 80?",
+    "options": [
+      "De las Cámaras",
+      "De las Cortes Generales",
+      "Disposiciones generales",
+      "Del Congreso y del Senado"
+    ],
+    "correct": 0,
+    "exp": "El Título III, «De las Cortes Generales», se divide en tres capítulos: el primero, «De las Cámaras» (arts. 66 a 80); el segundo, «De la elaboración de las leyes» (arts. 81 a 92), y el tercero, «De los Tratados Internacionales» (arts. 93 a 96). «De las Cortes Generales» es la rúbrica del Título, no la del capítulo.",
+    "fuente": "Rúbrica del Capítulo primero del Título III CE (Constitución Española de 1978) (índice del texto consolidado BOE-A-1978-31229)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el Preámbulo de la Constitución, la Nación española proclama su voluntad de garantizar la convivencia democrática dentro de la Constitución y de las leyes conforme a:",
+    "options": [
+      "Los valores superiores del ordenamiento jurídico",
+      "Los principios del Estado social y democrático",
+      "Un orden económico y social justo",
+      "Un reparto equitativo de la riqueza nacional"
+    ],
+    "correct": 2,
+    "exp": "La primera voluntad que proclama el Preámbulo es «Garantizar la convivencia democrática dentro de la Constitución y de las leyes conforme a un orden económico y social justo». Los valores superiores del ordenamiento y el Estado social y democrático de Derecho aparecen en el art. 1.1, no en esta frase del Preámbulo, que tampoco habla del reparto de la riqueza.",
+    "fuente": "Preámbulo CE (Constitución Española de 1978)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Cuál de las siguientes previsiones del Título preliminar se refiere a los partidos políticos, pero NO a los sindicatos de trabajadores ni a las asociaciones empresariales?",
+    "options": [
+      "Concurren a la formación y manifestación de la voluntad popular",
+      "Su estructura interna y funcionamiento deberán ser democráticos",
+      "Su creación y el ejercicio de su actividad son libres dentro del respeto a la Constitución y a la ley",
+      "Contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios"
+    ],
+    "correct": 0,
+    "exp": "Solo el art. 6 dice de los partidos que «concurren a la formación y manifestación de la voluntad popular». Los arts. 6 y 7 repiten con las mismas palabras dos previsiones: «Su creación y el ejercicio de su actividad son libres dentro del respeto a la Constitución y a la ley» y «Su estructura interna y funcionamiento deberán ser democráticos». Contribuir a la defensa y promoción de los intereses económicos y sociales propios es lo que el art. 7 atribuye a los sindicatos y a las asociaciones empresariales, no a los partidos.",
+    "fuente": "Arts. 6 y 7 CE (Constitución Española de 1978)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Al enumerar la composición del Gobierno, ¿a qué miembros se refiere el art. 98.1 de la Constitución con la expresión «en su caso»?",
+    "options": [
+      "A los Ministros",
+      "A los Vicepresidentes",
+      "A los Secretarios de Estado",
+      "A los demás miembros que establezca la ley"
+    ],
+    "correct": 1,
+    "exp": "Art. 98.1: «El Gobierno se compone del Presidente, de los Vicepresidentes, en su caso, de los Ministros y de los demás miembros que establezca la ley». La expresión «en su caso» va detrás de los Vicepresidentes: la Constitución no exige que los haya. Los Secretarios de Estado no se mencionan en el art. 98.1.",
+    "fuente": "Art. 98.1 CE (Constitución Española de 1978)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 101.1 de la Constitución, el Gobierno cesa en los casos de pérdida de la confianza parlamentaria:",
+    "options": [
+      "Que determine una ley orgánica",
+      "Que regule el Reglamento del Congreso",
+      "Que aprecie el Rey, oído el Presidente del Congreso",
+      "Previstos en la Constitución"
+    ],
+    "correct": 3,
+    "exp": "Art. 101.1: «El Gobierno cesa tras la celebración de elecciones generales, en los casos de pérdida de la confianza parlamentaria previstos en la Constitución, o por dimisión o fallecimiento de su Presidente». Los casos los fija la propia Constitución, no una ley orgánica ni el Reglamento del Congreso, y no los aprecia el Rey.",
+    "fuente": "Art. 101.1 CE (Constitución Española de 1978)",
+    "confianza": "alta"
+  }
+]);
+
+/* tema 14 · lote 2026-10-22 · 34 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 14, [
+  {
+    "q": "Según el art. 3 de la Ley 10/2017, de régimen especial del municipio de Zaragoza como capital de Aragón, la alteración del término municipal de Zaragoza corresponde:",
+    "options": [
+      "Al Gobierno de Aragón, de acuerdo con el procedimiento de la legislación de régimen local",
+      "A las Cortes de Aragón, mediante una ley específica para cada alteración del término",
+      "Al Gobierno de Zaragoza, previo informe del Consejo Bilateral de Capitalidad",
+      "A la Diputación Provincial de Zaragoza, previo dictamen del Consejo de Estado"
+    ],
+    "correct": 0,
+    "exp": "El art. 3 de la Ley 10/2017 dispone que Zaragoza ejerce sus competencias en su término municipal, «cuya alteración corresponde al Gobierno de Aragón de acuerdo con el procedimiento establecido en la legislación de régimen local, sin perjuicio de las competencias municipales en cuanto a su delimitación y modificación». No hace falta una ley de las Cortes para cada alteración, y no la deciden ni el Gobierno de Zaragoza ni la Diputación Provincial. Dentro del Ayuntamiento, los acuerdos municipales sobre delimitación y alteración del término son del Pleno (art. 11.1.e).",
+    "fuente": "Art. 3 Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 6 de la Ley 10/2017, salvo en los documentos solemnes, ¿qué título de la ciudad de Zaragoza se utilizará habitualmente?",
+    "options": [
+      "El de Siempre Heroica",
+      "El de Muy Noble",
+      "El de Inmortal",
+      "El de Muy Heroica"
+    ],
+    "correct": 2,
+    "exp": "El art. 6 enumera los títulos de Muy Noble, Muy Leal, Muy Heroica, Siempre Heroica, Muy Benéfica e Inmortal, además del de «Sitio Emblemático de la Cultura de Paz» otorgado por la UNESCO. En los documentos solemnes se consignan todos; «habitualmente se utilizará el título de Inmortal». Siempre Heroica, Muy Noble y Muy Heroica son también títulos de la ciudad, pero no el de uso habitual.",
+    "fuente": "Art. 6 Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 7.1 de la Ley 10/2017, las prescripciones de esa Ley en materia de organización serán desarrolladas y concretadas a través de:",
+    "options": [
+      "Un decreto del Gobierno de Aragón, previo informe del Consejo Bilateral de Capitalidad",
+      "Los Reglamentos de naturaleza orgánica municipales y sus normas complementarias y de desarrollo",
+      "Las ordenanzas fiscales y las bases de ejecución del presupuesto general municipal",
+      "Las instrucciones que dicte la Secretaría General del Pleno en interpretación de esta Ley especial"
+    ],
+    "correct": 1,
+    "exp": "El art. 7.1 dispone que las prescripciones de la Ley en materia de organización «serán desarrolladas y concretadas a través de los Reglamentos de naturaleza orgánica municipales y sus eventuales normas complementarias y de desarrollo». Es una manifestación de la potestad de autoorganización del Ayuntamiento: no se desarrollan por decreto autonómico, ni por ordenanzas fiscales o bases de ejecución, ni por instrucciones de la Secretaría General del Pleno.",
+    "fuente": "Art. 7.1 Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Conforme al art. 7.4 de la Ley 10/2017, el Ayuntamiento de Zaragoza puede desconcentrar competencias entre sus órganos:",
+    "options": [
+      "Solo si lo autoriza previamente el Gobierno de Aragón",
+      "Solo si lo acuerda el Pleno por mayoría de dos tercios",
+      "Solo durante el primer año de cada mandato corporativo",
+      "Salvo que exista una prohibición legal expresa"
+    ],
+    "correct": 3,
+    "exp": "El art. 7.4 establece: «Salvo prohibición legal expresa, el Ayuntamiento de Zaragoza puede desconcentrar competencias entre sus órganos, así como delegar funciones concretas respecto de ciertas competencias a través de los mecanismos establecidos para ello en esta Ley». La regla general es la posibilidad de desconcentrar, con el único límite de la prohibición legal expresa; la Ley no exige autorización autonómica, ni una mayoría de dos tercios, ni limita la desconcentración a un periodo del mandato.",
+    "fuente": "Art. 7.4 Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 8.1.b) de la Ley 10/2017, ¿cuál de los siguientes es uno de los órganos ejecutivos de dirección política y administrativa del Ayuntamiento de Zaragoza?",
+    "options": [
+      "El Secretario General del Pleno",
+      "La Junta de Portavoces",
+      "El Consejo Social de la Ciudad",
+      "El Vicealcalde"
+    ],
+    "correct": 3,
+    "exp": "El art. 8.1.b) enumera como órganos ejecutivos de dirección política y administrativa al Alcalde, el Gobierno de Zaragoza, el Vicealcalde, los Tenientes de Alcalde, los Concejales con responsabilidades de gobierno y los que determine el Reglamento orgánico. El Secretario General del Pleno es un órgano directivo (art. 130.1.B.e LBRL); la Junta de Portavoces la forman los portavoces de los grupos (art. 16 de la Ley 10/2017), y el Consejo Social de la Ciudad es un órgano de participación de las organizaciones económicas, sociales, profesionales y vecinales (art. 131 LBRL).",
+    "fuente": "Art. 8.1.b Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 9.2 de la Ley 10/2017, la atribución de competencias a órganos municipales que haga la legislación autonómica se aplicará en el municipio de Zaragoza:",
+    "options": [
+      "En todo caso, con preferencia sobre lo que dispongan esta Ley y el Reglamento orgánico municipal",
+      "En defecto de previsión expresa en esta Ley, en el Reglamento orgánico municipal o en las ordenanzas sectoriales",
+      "Solo cuando así lo acuerde expresamente el Pleno por mayoría absoluta de sus miembros",
+      "Solo cuando lo ratifique el Consejo Bilateral de Capitalidad en su primera reunión anual"
+    ],
+    "correct": 1,
+    "exp": "El art. 9.2 dispone que la atribución de competencias a órganos municipales en la legislación autonómica «será de aplicación en el municipio de Zaragoza en defecto de previsión expresa en esta Ley o en el Reglamento orgánico municipal u ordenanzas sectoriales si las hay», que podrán asignar las competencias respetando la normativa básica estatal. Es, por tanto, una aplicación subsidiaria, no preferente, y no depende de un acuerdo plenario ni de una ratificación del Consejo Bilateral de Capitalidad.",
+    "fuente": "Art. 9.2 Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 10.2 de la Ley 10/2017, el funcionamiento del Pleno de Zaragoza se ajustará a la legislación básica estatal de régimen local y se regirá por su Reglamento orgánico y por:",
+    "options": [
+      "Los acuerdos de la Junta de Portavoces adoptados por mayoría absoluta de sus miembros",
+      "Los informes vinculantes del Consejo Jurídico Municipal sobre el citado Reglamento",
+      "Las resoluciones dictadas por su Presidente en interpretación de dicho Reglamento",
+      "Las instrucciones del Secretario General del Pleno en interpretación del Reglamento"
+    ],
+    "correct": 2,
+    "exp": "El art. 10.2 establece que el funcionamiento del Pleno se ajustará a la legislación básica estatal de régimen local «y se regirá por lo previsto en su Reglamento orgánico y por las resoluciones dictadas por su Presidente en interpretación de dicho Reglamento». La interpretación corresponde al Presidente del Pleno, no a la Junta de Portavoces ni al Secretario General. El Consejo Jurídico Municipal, además, solo emite informes y dictámenes no vinculantes (art. 17).",
+    "fuente": "Art. 10.2 Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según los arts. 11.1 y 11.3 de la Ley 10/2017, la aprobación del código ético de actuación de los miembros del Pleno y del personal municipal:",
+    "options": [
+      "Corresponde al Pleno, que no puede delegarla en ningún caso",
+      "Corresponde al Gobierno de Zaragoza, que puede delegarla en sus miembros",
+      "Corresponde al Pleno, que solo puede delegarla en sus Comisiones",
+      "Corresponde al Alcalde, que puede delegarla en el Gobierno de Zaragoza"
+    ],
+    "correct": 2,
+    "exp": "El art. 11.1.o) atribuye al Pleno «la aprobación del código ético de actuación de los miembros del Pleno y del personal municipal», y el art. 11.3 dispone que las competencias de las letras d), k), l), n), o) y p) «sólo podrán ser delegadas en Comisiones del Pleno». No es una atribución indelegable (esas son las del primer inciso del art. 11.3), ni corresponde al Gobierno de Zaragoza o al Alcalde.",
+    "fuente": "Art. 11.1.o y 11.3 Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 11.1.ñ) de la Ley 10/2017, además del régimen retributivo de los miembros del Pleno, de su Secretario General, del Alcalde, de los miembros del Gobierno de Zaragoza y de los órganos directivos, corresponde al Pleno establecer:",
+    "options": [
+      "Las retribuciones del personal funcionario y laboral del Ayuntamiento",
+      "La relación de puestos de trabajo de los órganos directivos municipales",
+      "Las indemnizaciones por razón del servicio de todo el personal municipal",
+      "El régimen de la dotación económica a los grupos políticos municipales"
+    ],
+    "correct": 3,
+    "exp": "El art. 11.1.ñ) atribuye al Pleno el establecimiento del régimen retributivo de esos cargos, «así como del régimen de la dotación económica a los grupos políticos municipales». Las retribuciones del personal (de acuerdo con el presupuesto aprobado por el Pleno) y la relación de puestos de trabajo corresponden al Gobierno de Zaragoza (art. 14.1.i). El art. 11.1.ñ) no menciona las indemnizaciones por razón del servicio.",
+    "fuente": "Art. 11.1.ñ Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 12.1.e) de la Ley 10/2017, el nombramiento y cese de los Presidentes o Vicepresidentes de las Comisiones del Pleno corresponde:",
+    "options": [
+      "Al Pleno",
+      "Al Alcalde",
+      "A la Junta de Portavoces",
+      "Al Gobierno de Zaragoza"
+    ],
+    "correct": 1,
+    "exp": "El art. 12.1.e) atribuye al Alcalde «nombrar y cesar a los miembros del Gobierno de Zaragoza, los Tenientes de Alcalde, los Concejales con responsabilidades de gobierno y los Presidentes o Vicepresidentes de las Comisiones del Pleno», así como a los Presidentes de los distritos y a los Alcaldes de barrio. Además, es una atribución indelegable (art. 12.2). No corresponde al Pleno, ni a la Junta de Portavoces, ni al Gobierno de Zaragoza.",
+    "fuente": "Art. 12.1.e Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 12 de la Ley 10/2017, la creación, modificación o supresión de las Áreas de Gobierno y de las Concejalías Delegadas corresponde:",
+    "options": [
+      "Al Alcalde, que puede delegarla en cualquier Concejal",
+      "Al Alcalde, que solo puede delegarla en el Gobierno de Zaragoza",
+      "Al Alcalde, que no puede delegarla en ningún órgano",
+      "Al Gobierno de Zaragoza, que puede delegarla en cualquiera de sus miembros"
+    ],
+    "correct": 1,
+    "exp": "El art. 12.1.k) atribuye al Alcalde establecer la organización y estructura de la Administración municipal ejecutiva y, en particular, «crear, modificar o suprimir las Áreas de Gobierno, las Concejalías Delegadas y los órganos directivos». El art. 12.3 añade que las atribuciones de las letras c) y k) «solo serán delegables en el Gobierno de Zaragoza». Por eso no es indelegable, no puede delegarse en cualquier Concejal y no es una atribución propia del Gobierno de Zaragoza.",
+    "fuente": "Art. 12.1.k y 12.3 Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 12.2 de la Ley 10/2017, ¿cuál de las siguientes atribuciones del Alcalde de Zaragoza NO puede delegar?",
+    "options": [
+      "Ordenar la publicación, ejecución y cumplimiento de los acuerdos de los órganos ejecutivos",
+      "Ejercer la superior dirección del personal al servicio de la Administración municipal",
+      "Autorizar y disponer gastos en las materias de su competencia",
+      "Adoptar las medidas necesarias en casos de extraordinaria y urgente necesidad"
+    ],
+    "correct": 3,
+    "exp": "El art. 12.2 permite al Alcalde delegar o desconcentrar sus competencias «con excepción de las señaladas en las letras b), e), h) y j) del apartado anterior», además de convocar y presidir el Gobierno de Zaragoza, el voto de calidad y dictar bandos. La letra h) es adoptar las medidas necesarias y adecuadas en casos de extraordinaria y urgente necesidad, dando cuenta inmediata al Pleno. Ordenar la publicación y ejecución de acuerdos (letra f), la superior dirección del personal (letra i) y autorizar y disponer gastos (letra n) sí son delegables.",
+    "fuente": "Art. 12.2 Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13.4 de la Ley 10/2017, la Secretaría del Gobierno de Zaragoza, que redacta las actas de las sesiones y certifica sobre sus acuerdos, corresponde a:",
+    "options": [
+      "El Secretario General del Pleno, por razón de su cargo",
+      "El titular del órgano de apoyo, con habilitación nacional",
+      "Uno de sus miembros, designado por el Alcalde",
+      "El Vicealcalde, que la ejerce en todo caso por ley"
+    ],
+    "correct": 2,
+    "exp": "El art. 13.4 dispone que «la Secretaría del Gobierno de Zaragoza corresponderá a uno de sus miembros, designado por el Alcalde, quien redactará las actas de las sesiones y certificará sobre sus acuerdos». Existe además un órgano de apoyo al Gobierno y a su Secretario, cuyo titular es un funcionario con habilitación de carácter nacional, pero su función es asistir al Secretario, no ejercer la Secretaría. El Secretario General del Pleno es secretario del Pleno y de sus comisiones, y la Ley no reserva la Secretaría al Vicealcalde.",
+    "fuente": "Art. 13.4 Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13.5 de la Ley 10/2017, ¿quiénes pueden asistir a las sesiones del Gobierno de Zaragoza sin ser miembros de él?",
+    "options": [
+      "Los Concejales no miembros y los titulares de órganos directivos, si los convoca expresamente el Alcalde",
+      "Cualquier Concejal que lo solicite y los portavoces de los grupos, sin necesidad de convocatoria",
+      "Solo el Secretario General del Pleno y el Interventor general, con voz pero sin voto en las deliberaciones",
+      "Los representantes vecinales de los distritos, cuando se traten atribuciones delegadas por el Pleno"
+    ],
+    "correct": 0,
+    "exp": "El art. 13.5 establece que las deliberaciones del Gobierno de Zaragoza son secretas, salvo en las decisiones sobre atribuciones delegadas por el Pleno, y añade: «A sus sesiones podrán asistir los Concejales no pertenecientes al Gobierno de Zaragoza y los titulares de los órganos directivos, en ambos supuestos cuando sean convocados expresamente por el Alcalde». No basta con solicitarlo, la asistencia no se limita al Secretario General y al Interventor, y la Ley no prevé la asistencia de representantes vecinales.",
+    "fuente": "Art. 13.5 Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 14.1.e) de la Ley 10/2017, el otorgamiento o la concesión de cualquier tipo de licencia en el municipio de Zaragoza corresponde:",
+    "options": [
+      "Al Alcalde, salvo que las ordenanzas municipales la atribuyan expresamente al Pleno o a sus Comisiones",
+      "Al Pleno, que puede delegarla en el Gobierno de Zaragoza y en cualquiera de sus miembros",
+      "A la Comisión del Pleno competente por razón de la materia, previo informe de los servicios técnicos",
+      "Al Gobierno de Zaragoza, salvo que la legislación sectorial estatal la atribuya expresamente a otro órgano"
+    ],
+    "correct": 3,
+    "exp": "El art. 14.1.e) atribuye al Gobierno de Zaragoza «el otorgamiento o la concesión de cualquier tipo de licencia salvo que la legislación sectorial estatal la atribuya expresamente a otro órgano». Coincide con la regla de la Junta de Gobierno Local en los municipios de gran población (art. 127.1.e LBRL). En el régimen común de la LBRL las licencias son del Alcalde, pero en Zaragoza no. El art. 14.2 permite al Gobierno de Zaragoza delegar o desconcentrar esta atribución.",
+    "fuente": "Art. 14.1.e Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 14.2 de la Ley 10/2017, ¿cuál de las siguientes atribuciones del Gobierno de Zaragoza puede delegar o desconcentrar en alguno de sus miembros, en los demás Concejales o en los órganos directivos?",
+    "options": [
+      "La aprobación del proyecto de presupuesto municipal",
+      "La aprobación de los proyectos de ordenanzas y de Reglamentos",
+      "La resolución de los procedimientos de responsabilidad patrimonial",
+      "El nombramiento y cese de los titulares de los órganos directivos"
+    ],
+    "correct": 2,
+    "exp": "El art. 14.2 permite al Gobierno de Zaragoza delegar o desconcentrar solo las funciones de las letras e), f), g), h), i) (con excepciones), m), o), q), r) y t) del art. 14.1, y la aprobación de los proyectos de obra ordinaria de la letra d). La letra t) es «la resolución de los procedimientos de responsabilidad patrimonial por el funcionamiento de los servicios públicos municipales», así que es delegable. No están en esa lista la aprobación de los proyectos de ordenanzas y Reglamentos (letra a), la del proyecto de presupuesto (letra b) ni el nombramiento y cese de los titulares de los órganos directivos (letra j).",
+    "fuente": "Art. 14.1.t y 14.2 Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según la disposición adicional segunda de la Ley 10/2017, las menciones a la Junta de Gobierno Local que aparezcan en las normas vigentes:",
+    "options": [
+      "Se entenderán hechas al Pleno del Ayuntamiento",
+      "Se entenderán hechas al Gobierno de Zaragoza",
+      "Se entenderán hechas al Alcalde de Zaragoza",
+      "Se entenderán hechas al Gobierno de Aragón"
+    ],
+    "correct": 1,
+    "exp": "La disposición adicional segunda dispone que la Junta de Gobierno Local del municipio de Zaragoza se denomina, por efecto de la Ley, Gobierno de Zaragoza, y que «las menciones que aparezcan en las normas vigentes referidas a la Junta de Gobierno Local se entenderán hechas al Gobierno de Zaragoza». Por eso, las atribuciones que la LBRL da a la Junta de Gobierno Local de los municipios de gran población (art. 127) las ejerce en Zaragoza el Gobierno de Zaragoza.",
+    "fuente": "Disposición adicional segunda Ley 10/2017 (capitalidad de Zaragoza)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 121.2 de la LBRL, para saber si un municipio alcanza la población requerida para aplicar el régimen de gran población se tienen en cuenta las cifras oficiales resultantes de la revisión del padrón referidas:",
+    "options": [
+      "Al 1 de enero del año anterior al del inicio de cada mandato de su ayuntamiento",
+      "Al 1 de enero del mismo año en que se celebran las elecciones municipales ordinarias",
+      "A la media de las revisiones anuales del padrón de todo el mandato anterior",
+      "Al último censo de población y viviendas que elabora el INE cada diez años"
+    ],
+    "correct": 0,
+    "exp": "El art. 121.2 toma como referencia las cifras oficiales de población resultantes de la revisión del padrón aprobadas por el Gobierno «con referencia al 1 de enero del año anterior al del inicio de cada mandato de su ayuntamiento», y añade que se tiene en cuenta exclusivamente esa revisión, no las de otros años del mandato. Si se alcanza la población, la nueva corporación tiene seis meses desde su constitución para adaptar su organización.",
+    "fuente": "Art. 121.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 122.2 de la LBRL, en un municipio de gran población el Alcalde, respecto del Pleno, puede delegar:",
+    "options": [
+      "La convocatoria, la presidencia y el voto de calidad, en un Teniente de Alcalde",
+      "Solo la presidencia de las sesiones, en el secretario general del Pleno",
+      "La convocatoria y la presidencia, en la Junta de Gobierno Local como órgano",
+      "Exclusivamente la convocatoria y la presidencia, en uno de los concejales"
+    ],
+    "correct": 3,
+    "exp": "El art. 122.2 dispone que el Pleno es convocado y presidido por el Alcalde, al que corresponde decidir los empates con voto de calidad, y que «el Alcalde podrá delegar exclusivamente la convocatoria y la presidencia del Pleno, cuando lo estime oportuno, en uno de los concejales». El voto de calidad no se incluye en esa delegación, y no cabe delegar en el secretario general ni en la Junta de Gobierno Local. En Zaragoza, el art. 10.1 de la Ley 10/2017 recoge también la delegación de la presidencia del Pleno en un concejal.",
+    "fuente": "Art. 122.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 122.5.e) de la LBRL, el asesoramiento legal del secretario general del Pleno es preceptivo cuando, en el ejercicio de la función de control y fiscalización de los órganos de gobierno, lo solicite el Presidente o, al menos:",
+    "options": [
+      "La quinta parte de los Concejales",
+      "La décima parte de los Concejales",
+      "La sexta parte de los Concejales",
+      "La cuarta parte de los Concejales"
+    ],
+    "correct": 3,
+    "exp": "El art. 122.5.e) enumera los supuestos en que el asesoramiento legal al Pleno y a las comisiones es preceptivo. El 4.º es: «Cuando, en el ejercicio de la función de control y fiscalización de los órganos de gobierno, lo solicite el Presidente o la cuarta parte, al menos, de los Concejales». La quinta, la sexta o la décima parte no alcanzan ese mínimo. Fuera de la función de control, el supuesto 1.º exige que lo ordene el Presidente o lo solicite un tercio de los miembros.",
+    "fuente": "Art. 122.5.e LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 123.2 de la LBRL, en un municipio de gran población, ¿cuál de los siguientes acuerdos del Pleno requiere el voto favorable de la mayoría absoluta del número legal de miembros?",
+    "options": [
+      "Los acuerdos relativos a la participación en organizaciones supramunicipales",
+      "La aprobación de los presupuestos y de la plantilla de personal",
+      "El establecimiento del régimen retributivo de los órganos directivos",
+      "El ejercicio de las facultades de revisión de oficio de sus propios actos y disposiciones"
+    ],
+    "correct": 0,
+    "exp": "El art. 123.2 exige mayoría absoluta del número legal de miembros para los acuerdos de los párrafos c), e), f), j) y o) del art. 123.1 y para los acuerdos plenarios en la tramitación del planeamiento general; «los demás acuerdos se adoptarán por mayoría simple de votos». La letra f) es la participación en organizaciones supramunicipales. Los presupuestos y la plantilla (letra h), el régimen retributivo (letra n) y la revisión de oficio (letra l) se aprueban por mayoría simple. En Zaragoza rige lo mismo: el art. 11.2 de la Ley 10/2017 remite a la legislación básica para la mayoría absoluta.",
+    "fuente": "Art. 123.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 125.2 de la LBRL, los Tenientes de Alcalde de los municipios de gran población tendrán el tratamiento de:",
+    "options": [
+      "Excelencia",
+      "Ilustrísima",
+      "Señoría",
+      "Muy Ilustre"
+    ],
+    "correct": 1,
+    "exp": "El art. 125.2 establece que «los Tenientes de Alcalde tendrán el tratamiento de Ilustrísima». El de Excelencia corresponde al Alcalde (art. 124.3). La ley no atribuye a los Tenientes de Alcalde los tratamientos de Señoría ni de Muy Ilustre.",
+    "fuente": "Art. 125.2 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 135.3 de la LBRL, si el Pleno de un municipio de gran población crea un órgano de gestión tributaria, la función de recaudación y su titular:",
+    "options": [
+      "Siguen adscritos a la Tesorería municipal, que coordina su ejercicio con el nuevo órgano tributario",
+      "Pasan a depender directamente de la Intervención general municipal, que asume la recaudación",
+      "Quedan adscritos a ese órgano, y deja de aplicarse lo previsto en el art. 134.1 para la recaudación",
+      "Se transfieren a la Diputación provincial mediante un convenio de delegación de la recaudación"
+    ],
+    "correct": 2,
+    "exp": "El art. 135.3 dispone: «En el caso de que el Pleno haga uso de la habilitación prevista en el apartado 1, la función de recaudación y su titular quedarán adscritos a este órgano, quedando sin efecto lo dispuesto en el artículo 134.1 en lo que respecta a la función de recaudación». El art. 134.1 deja la presupuestación, contabilidad, tesorería y recaudación a los órganos que determine el Reglamento orgánico. La Intervención general municipal ejerce el control y la fiscalización interna (art. 136), no la recaudación, y la ley no prevé transferirla a la Diputación.",
+    "fuente": "Art. 135.3 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 130.3 de la LBRL, salvo que el Reglamento Orgánico Municipal permita otra cosa, los coordinadores generales y los directores generales se nombran entre funcionarios de carrera del Estado, de las comunidades autónomas, de las entidades locales o con habilitación nacional que pertenezcan a cuerpos o escalas clasificados en el subgrupo:",
+    "options": [
+      "A2",
+      "A1",
+      "A1 o A2",
+      "C1"
+    ],
+    "correct": 1,
+    "exp": "El art. 130.3 exige que el nombramiento de los coordinadores generales y directores generales se haga, atendiendo a criterios de competencia profesional y experiencia, entre funcionarios de carrera del Estado, de las comunidades autónomas, de las entidades locales o con habilitación de carácter nacional «que pertenezcan a cuerpos o escalas clasificados en el subgrupo A1». La excepción es que el Reglamento Orgánico Municipal permita que el titular no sea funcionario, en atención a las características específicas de sus funciones. No basta el subgrupo A2 ni el C1.",
+    "fuente": "Art. 130.3 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 132.3 de la LBRL, la Comisión especial de Sugerencias y Reclamaciones da cuenta al Pleno mediante un informe anual y, además:",
+    "options": [
+      "Debe presentar un informe trimestral a la Junta de Gobierno Local sobre las quejas recibidas",
+      "Puede anular los actos municipales que hayan dado lugar a quejas reiteradas de los vecinos",
+      "Debe remitir cada informe al Defensor del Pueblo para que lo incluya en su memoria anual",
+      "Puede realizar informes extraordinarios cuando la gravedad o la urgencia de los hechos lo aconsejen"
+    ],
+    "correct": 3,
+    "exp": "El art. 132.3 dispone que la Comisión podrá supervisar la actividad de la Administración municipal y deberá dar cuenta al Pleno, mediante un informe anual, de las quejas y deficiencias observadas. Añade: «No obstante, también podrá realizar informes extraordinarios cuando la gravedad o la urgencia de los hechos lo aconsejen». La ley no prevé informes trimestrales a la Junta de Gobierno Local, ni que la Comisión anule actos, ni la remisión de sus informes al Defensor del Pueblo.",
+    "fuente": "Art. 132.3 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 137.5 de la LBRL, el funcionamiento del órgano para la resolución de las reclamaciones económico-administrativas de los municipios de gran población se basará en criterios de:",
+    "options": [
+      "Independencia técnica, celeridad y gratuidad",
+      "Jerarquía, eficacia y coordinación con la Intervención",
+      "Oralidad, inmediación y doble instancia",
+      "Dependencia del Alcalde, publicidad y gratuidad"
+    ],
+    "correct": 0,
+    "exp": "El art. 137.5 establece: «Su funcionamiento se basará en criterios de independencia técnica, celeridad y gratuidad». Su composición, competencias, organización, funcionamiento y procedimiento se regulan por reglamento aprobado por el Pleno, de acuerdo con la Ley General Tributaria y la normativa estatal de reclamaciones económico-administrativas. La dependencia del Alcalde o la jerarquía son contrarias a la independencia técnica que exige la ley.",
+    "fuente": "Art. 137.5 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 136.1 de la LBRL, la función de control y fiscalización interna que corresponde a la Intervención general municipal en los municipios de gran población comprende una triple acepción:",
+    "options": [
+      "Función interventora, función de control financiero y función de control de eficacia",
+      "Función de contabilidad, función de tesorería y función de recaudación tributaria",
+      "Función de presupuestación, función de auditoría externa y función de control de legalidad",
+      "Función de asesoramiento jurídico, función de fe pública y función de control de eficacia"
+    ],
+    "correct": 0,
+    "exp": "El art. 136.1 atribuye a la Intervención general municipal la función pública de control y fiscalización interna de la gestión económico-financiera y presupuestaria, «en su triple acepción de función interventora, función de control financiero y función de control de eficacia». Presupuestación, contabilidad, tesorería y recaudación son funciones de gestión que ejercen los órganos que determine el Reglamento orgánico (art. 134.1). El asesoramiento jurídico corresponde a la asesoría jurídica (art. 129), y la auditoría externa no es control interno.",
+    "fuente": "Art. 136.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13.4 de la LBRL, tras la fusión de municipios mediante convenio, el órgano de gobierno del nuevo municipio resultante estará constituido transitoriamente por:",
+    "options": [
+      "Una comisión gestora designada por la Diputación provincial",
+      "La suma de los concejales de los municipios fusionados",
+      "Los alcaldes de los municipios fusionados y un concejal por cada uno",
+      "Los concejales del municipio fusionado con mayor población"
+    ],
+    "correct": 1,
+    "exp": "Entre los efectos de la fusión, el art. 13.4 dispone que «el órgano del gobierno del nuevo municipio resultante estará constituido transitoriamente por la suma de los concejales de los municipios fusionados en los términos previstos en la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General». No se prevé una comisión gestora de la Diputación, ni una representación reducida, ni que se mantengan solo los concejales del municipio más poblado.",
+    "fuente": "Art. 13.4 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 13.4.g) de la LBRL, el municipio resultante de una fusión tendrá preferencia en la asignación de planes de cooperación local, subvenciones, convenios u otros instrumentos basados en la concurrencia durante, al menos:",
+    "options": [
+      "Los diez primeros años desde la adopción del convenio de fusión",
+      "Los dos primeros años desde la constitución de la nueva corporación",
+      "Los tres primeros años desde la publicación de la fusión en el BOE",
+      "Los cinco primeros años desde la adopción del convenio de fusión"
+    ],
+    "correct": 3,
+    "exp": "El art. 13.4.g) establece que el municipio resultante, «durante, al menos, los cinco primeros años desde la adopción del convenio de fusión, tendrá preferencia en la asignación de planes de cooperación local, subvenciones, convenios u otros instrumentos basados en la concurrencia», y que ese plazo puede prorrogarse por la Ley de Presupuestos Generales del Estado. Los diez años son otro plazo del mismo artículo: el periodo durante el que el municipio resultante no puede segregarse.",
+    "fuente": "Art. 13.4.g LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 17.5 de la LBRL, las personas inscritas en el Padrón de españoles residentes en el extranjero se considerarán vecinos del municipio español que figura en los datos de su inscripción:",
+    "options": [
+      "A todos los efectos, y computan como población del municipio para el régimen de gran población",
+      "A efectos de sufragio y de acceso a los aprovechamientos comunales, y computan como población",
+      "Únicamente a efectos del ejercicio del derecho de sufragio, sin constituir población del municipio",
+      "Solo a efectos estadísticos, y computan como población a efectos de los servicios mínimos"
+    ],
+    "correct": 2,
+    "exp": "El art. 17.5 dispone que las personas inscritas en el Padrón de españoles residentes en el extranjero «se considerarán vecinos del municipio español que figura en los datos de su inscripción únicamente a efectos del ejercicio del derecho de sufragio, no constituyendo, en ningún caso, población del municipio». Por eso no computan como población del municipio para ningún efecto, y su vecindad se limita al sufragio.",
+    "fuente": "Art. 17.5 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 16.1 de la LBRL, cuando un extranjero obligado a renovar periódicamente su inscripción padronal no la renueva en plazo, la caducidad de la inscripción:",
+    "options": [
+      "Solo podrá declararse previa audiencia del interesado por diez días",
+      "Requiere un informe previo y vinculante del Consejo de Empadronamiento",
+      "Podrá declararse sin necesidad de audiencia previa del interesado",
+      "Solo podrá acordarla el Instituto Nacional de Estadística, de oficio"
+    ],
+    "correct": 2,
+    "exp": "El art. 16.1 exige renovar cada dos años la inscripción de los extranjeros sin autorización de residencia de larga duración que no sean de la UE, del Espacio Económico Europeo ni de Estados con convenio equivalente. Añade que el transcurso de ese plazo sin renovar «será causa para acordar la caducidad de las inscripciones», y que «en este caso, la caducidad podrá declararse sin necesidad de audiencia previa del interesado». La ley no exige audiencia, ni informe del Consejo de Empadronamiento, ni reserva la declaración al INE.",
+    "fuente": "Art. 16.1 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 25.2 de la LBRL, en la redacción que entra en vigor el 23 de octubre de 2026, ¿cuál de las siguientes materias ejercerá el municipio en todo caso como competencia propia, en los términos de la legislación del Estado y de las comunidades autónomas?",
+    "options": [
+      "Gestión de los centros de valoración y reconocimiento del grado de discapacidad situados en su término municipal",
+      "Reconocimiento y pago de las prestaciones económicas de dependencia a las personas con discapacidad y sus familias",
+      "Acreditación y registro de los centros especiales de empleo para personas con discapacidad de su término municipal",
+      "Promoción de actuaciones de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad"
+    ],
+    "correct": 3,
+    "exp": "La disposición final 3.1 de la Ley 4/2026, de 1 de octubre, añade al art. 25.2 LBRL la letra q): «Promoción de actuaciones en materia de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad». Según el consolidado del BOE, esta redacción entra en vigor el 23 de octubre de 2026. Las otras tres opciones no figuran entre las materias del art. 25.2.",
+    "fuente": "Art. 25.2.q LBRL (Ley 7/1985), letra añadida por la disposición final 3.1 de la Ley 4/2026, de 1 de octubre (en vigor desde el 23-10-2026)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 27.7 de la LBRL, el acuerdo por el que una entidad local renuncia a una competencia que le han delegado el Estado o una comunidad autónoma se adoptará por:",
+    "options": [
+      "El Alcalde, dando cuenta posterior al Pleno",
+      "El Pleno de la respectiva entidad local",
+      "La Junta de Gobierno Local de la entidad",
+      "La Administración delegante, a petición municipal"
+    ],
+    "correct": 1,
+    "exp": "El art. 27.7 dispone que la disposición o acuerdo de delegación establecerá las causas de revocación o renuncia, entre ellas el incumplimiento de las obligaciones financieras de la Administración delegante, y que «el acuerdo de renuncia se adoptará por el Pleno de la respectiva Entidad Local». No lo adopta el Alcalde ni la Junta de Gobierno Local, y la renuncia es un acto de la entidad delegada, no de la delegante. En Zaragoza el Pleno es también quien acepta las delegaciones de otras Administraciones, y no puede delegar esa atribución (art. 11.1.j y 11.3 de la Ley 10/2017).",
+    "fuente": "Art. 27.7 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 28 de la LBRL, la aplicación efectiva de un sistema de gestión colaborativa a un municipio de menos de 20.000 habitantes requiere:",
+    "options": [
+      "Decisión de la comunidad autónoma, con la conformidad previa del municipio y el informe de las entidades locales afectadas",
+      "Acuerdo del Pleno municipal por mayoría absoluta, con el informe favorable de la Diputación provincial respectiva",
+      "Resolución del Ministerio de Hacienda, a propuesta de la Diputación provincial y oída la comunidad autónoma",
+      "Convenio entre la Diputación y el municipio, aprobado después por el Consejo de Gobierno de la comunidad autónoma"
+    ],
+    "correct": 0,
+    "exp": "El art. 28, en la redacción dada por el Real Decreto-ley 6/2023, dispone que «la aplicación efectiva a un municipio de la gestión colaborativa requerirá decisión en tal sentido de la Comunidad Autónoma respectiva, adoptada conforme a su legislación de régimen local propia, y en todo caso, con la conformidad previa del municipio afectado y el informe de las entidades locales afectadas». No la decide el Pleno municipal, ni el Ministerio de Hacienda, ni se articula mediante un convenio con la Diputación.",
+    "fuente": "Art. 28 LBRL (Ley 7/1985)",
+    "confianza": "alta"
+  }
+]);
+
+/* tema 4 · lote 2026-10-22 · 5 preguntas revisadas */
+window.addQuestions('aux-admin-zaragoza', 4, [
+  {
+    "q": "Una organización representativa de intereses económicos y sociales no ha iniciado un procedimiento, pero la resolución que se dicte puede afectar a los intereses legítimos colectivos que defiende. Según el art. 4 de la Ley 39/2015, ¿qué necesita para tener la condición de interesada?",
+    "options": [
+      "Nada más: la tiene desde el inicio por ser titular de intereses colectivos",
+      "Obtener la autorización previa del órgano que instruye el procedimiento",
+      "Acreditar que la resolución afecta a derechos individuales de sus socios",
+      "Personarse en el procedimiento antes de que recaiga resolución definitiva"
+    ],
+    "correct": 3,
+    "exp": "El art. 4.2 dice que estas asociaciones y organizaciones «serán titulares de intereses legítimos colectivos en los términos que la Ley reconozca», pero no las convierte por sí solo en interesadas en cualquier procedimiento. Si no lo han promovido (letra a) y lo que puede verse afectado no son derechos (letra b) sino intereses legítimos, encajan en el art. 4.1 c), que exige que «se personen en el procedimiento en tanto no haya recaído resolución definitiva». La ley no pide autorización del instructor ni que se acrediten derechos individuales de los socios.",
+    "fuente": "Art. 4.1 c) y 4.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Las actuaciones para las que el art. 5.3 de la Ley 39/2015 exige acreditar la representación coinciden con las que enumera:",
+    "options": [
+      "El art. 12.2, como ámbitos de especial asistencia en medios electrónicos",
+      "El art. 6.7, como solicitudes que pueden dirigirse a cualquier registro",
+      "El art. 11.2, como casos en que se exige el uso obligatorio de firma",
+      "El art. 6.4, como tipos de poder inscribibles en los registros"
+    ],
+    "correct": 2,
+    "exp": "El art. 5.3 exige acreditar la representación para «formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos en nombre de otra persona». El art. 11.2 dice que las Administraciones «sólo requerirán a los interesados el uso obligatorio de firma» para esas mismas cinco actuaciones: formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos. El art. 12.2 menciona la identificación y firma electrónica, la presentación de solicitudes por el registro electrónico general y la obtención de copias auténticas; el 6.7, la inscripción, revocación, prórroga o denuncia del poder; y el 6.4, tres tipos de poder.",
+    "fuente": "Arts. 5.3 y 11.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿Qué diferencia a las personas habilitadas del art. 5.7 de la Ley 39/2015 del funcionario que actúa conforme al art. 12.2?",
+    "options": [
+      "Las del 5.7 han de ser funcionarios públicos; el funcionario del 12.2 puede ser cualquier persona física o jurídica que la Administración habilite al efecto",
+      "Las del 5.7 hacen transacciones electrónicas como representantes; el funcionario identifica o firma por un interesado sin medios, con su consentimiento expreso",
+      "Las del 5.7 necesitan el consentimiento expreso del interesado en cada trámite; el funcionario del 12.2 necesita un poder inscrito en el registro",
+      "Las del 5.7 solo representan a personas jurídicas; el funcionario del 12.2 solo actúa por quienes están obligados a relacionarse electrónicamente"
+    ],
+    "correct": 1,
+    "exp": "El art. 5.7 permite habilitar «a personas físicas o jurídicas autorizadas para la realización de determinadas transacciones electrónicas en representación de los interesados», y la habilitación determina la presunción de validez de esa representación. El art. 12.2 prevé que, si un interesado no obligado a relacionarse electrónicamente no dispone de los medios necesarios, su identificación o firma «podrá ser válidamente realizada por un funcionario público» con su propio sistema de firma, siempre que el interesado se identifique ante él y preste su «consentimiento expreso». Los habilitados del 5.7 no tienen que ser funcionarios ni representan solo a personas jurídicas; el funcionario del 12.2 no necesita un poder inscrito y actúa precisamente por quienes no están obligados.",
+    "fuente": "Arts. 5.7 y 12.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "Según el art. 9.2 c) de la Ley 39/2015, los sistemas de identificación de esa letra deben contar con un registro previo como usuario. ¿Qué debe permitir ese registro?",
+    "options": [
+      "Garantizar la identidad del interesado",
+      "Acreditar la representación del interesado",
+      "Comprobar la capacidad de obrar del interesado",
+      "Fijar el domicilio para las notificaciones"
+    ],
+    "correct": 0,
+    "exp": "El art. 9.2 c) admite «cualquier otro sistema que las Administraciones públicas consideren válido», siempre que cuente con «un registro previo como usuario que permita garantizar su identidad» y previa comunicación a la Secretaría General de Administración Digital. El art. 10.2 c) exige lo mismo para los sistemas de firma. La representación se acredita por los medios del art. 5.4; la ley no vincula ese registro previo con la capacidad de obrar ni con las notificaciones.",
+    "fuente": "Art. 9.2 c) LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  },
+  {
+    "q": "¿En qué se diferencian las enumeraciones de los arts. 11.2 y 12.2 de la Ley 39/2015?",
+    "options": [
+      "La del 11.2, de casos de firma obligatoria, es abierta («especialmente»); la del 12.2, de ámbitos de asistencia, es cerrada («sólo»)",
+      "Las dos son cerradas: solo puede exigirse firma o prestarse asistencia en los casos que cada una enumera expresamente",
+      "Las dos son abiertas: cada Administración puede añadir libremente otros casos de firma obligatoria y de asistencia",
+      "La del 11.2, de casos de firma obligatoria, es cerrada («sólo»); la del 12.2, de ámbitos de asistencia, es abierta («especialmente»)"
+    ],
+    "correct": 3,
+    "exp": "El art. 11.2 dice que las Administraciones «sólo requerirán a los interesados el uso obligatorio de firma» para cinco actuaciones tasadas: es una lista cerrada, coherente con la regla del art. 11.1 de que basta con identificarse. El art. 12.2 dice que asistirán a los interesados no obligados que lo soliciten, «especialmente en lo referente a la identificación y firma electrónica, presentación de solicitudes a través del registro electrónico general y obtención de copias auténticas»: esos ámbitos se citan como ejemplos, no como límite.",
+    "fuente": "Arts. 11.2 y 12.2 LPAC (Ley 39/2015)",
+    "confianza": "alta"
+  }
+]);
