@@ -90,8 +90,8 @@ registerEsquema('aux-admin-zaragoza', 10, {
         {t: 'Un bien desafectado sigue siendo dominio público hasta su <b>recepción formal</b> por el órgano competente.', a: 'RBEL 8.3'}
       ]},
       {tipo: 'columnas', cols: [
-        {titulo: 'Alteración automática · LBRL 81.2 {{examen:2026}}', items: [
-          'Aprobación definitiva de los <b>planes de ordenación urbana</b> y de los <b>proyectos de obras y servicios</b>',
+        {titulo: 'Alteración automática · LBRL 81.2', items: [
+          'Aprobación definitiva de los <b>planes de ordenación urbana</b> y de los <b>proyectos de obras y servicios</b> {{examen:2026}}',
           'Adscripción de bienes patrimoniales <b>por más de veinticinco años</b> a un uso o servicio públicos'
         ]},
         {titulo: 'Añade el RBEL · 8.4.c', items: [
@@ -132,7 +132,7 @@ registerEsquema('aux-admin-zaragoza', 10, {
         ['<b>Investigación</b> (45-55)', 'Averiguar la titularidad de bienes que se presumen propios.', 'De oficio o por denuncia. Anuncio en el tablón <b>15 días</b>; alegaciones <b>un mes</b>. Premio al denunciante: <b>10 %</b>.'],
         ['<b>Deslinde</b> (56-69)', 'Delimitar fincas de límites imprecisos o con indicios de usurpación.', 'Anuncio con <b>60 días</b> de antelación. Documentos hasta <b>20 días</b> antes. El acuerdo es ejecutivo; recurso contencioso-administrativo.'],
         ['<b>Recuperación de oficio</b> (70-71)', 'Recobrar por sí la tenencia de sus bienes.', 'Dominio público: <b>en cualquier tiempo</b>. Patrimoniales: <b>un año</b> desde el día siguiente a la usurpación; después, tribunales ordinarios.'],
-        ['<b>Desahucio administrativo</b> (44.1.d)', 'Desalojar a ocupantes sin título.', 'Por ejemplo, viviendas cedidas a su personal (93).']
+        ['<b>Desahucio administrativo</b> (44.1.d)', 'La Corporación acuerda y ejecuta por sí misma el desahucio.', 'Ejemplo del RBEL: viviendas cedidas a su personal cuando termina la ocupación (93).']
       ]},
       {tipo: 'lista', tinte: true, items: [
         {t: 'Las tienen <b>en todo caso</b> municipios, provincias e islas; las demás entidades territoriales, si lo prevén las leyes autonómicas.', a: 'RBEL 44.1'},
@@ -188,7 +188,7 @@ registerEsquema('aux-admin-zaragoza', 10, {
       {tipo: 'lista', items: [
         {t: 'Forma preferente: <b>explotación común o cultivo colectivo</b>. Si es impracticable: aprovechamiento peculiar según costumbre, o <b>lotes o suertes</b>. Si tampoco: <b>adjudicación mediante precio</b>.', a: 'RBEL 94'},
         {t: 'Lotes: en proporción <b>directa</b> a las personas a cargo e <b>inversa</b> a la situación económica.', a: 'RBEL 97'},
-        {t: 'Adjudicación por precio: autorización de la Comunidad Autónoma, <b>subasta</b> con preferencia de los vecinos; la Corporación no puede quedarse más del <b>5 %</b>.', a: 'RBEL 98'},
+        {t: 'Adjudicación por precio: autorización de la Comunidad Autónoma, <b>subasta</b> con preferencia de los vecinos; la Corporación no puede detraer más del <b>5 %</b> del producto.', a: 'RBEL 98'},
         {t: 'Derecho de todos los vecinos sin distinción de sexo, estado civil o edad; también los <b>extranjeros domiciliados</b>.', a: 'RBEL 103.1'},
         {t: 'Más de <b>10 años</b> sin disfrute comunal: pueden perder ese carácter (información pública, mayoría absoluta y aprobación de la Comunidad Autónoma).', a: 'RBEL 100.1'},
         {t: 'Ceder el aprovechamiento: <b>Pleno</b> con <b>mayoría absoluta</b>.', a: 'RBEL 102; LBRL 47.2.i'}

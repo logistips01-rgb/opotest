@@ -15,7 +15,7 @@ registerEsquema('aux-admin-zaragoza', 2, {
 
   esencial: [
     {t: 'Igualdad de trato: <b>ausencia de toda discriminación</b>, directa o indirecta, por razón de sexo, en especial por <b>maternidad, obligaciones familiares y estado civil</b>. Es principio informador del ordenamiento.', a: 'LO 3/2007, arts. 3-4'},
-    {t: 'Son discriminación por razón de sexo: la orden de discriminar, el <b>acoso sexual</b> y el <b>acoso por razón de sexo</b>, el trato desfavorable por <b>embarazo o maternidad</b> (discriminación <b>directa</b>) y las represalias por reclamar. Los actos discriminatorios son <b>nulos</b>.', a: 'LO 3/2007, arts. 6-10'},
+    {t: 'Son discriminación por razón de sexo: la orden de discriminar, el <b>acoso sexual</b> y el <b>acoso por razón de sexo</b> (y condicionar un derecho a aceptarlos), el trato desfavorable por <b>embarazo o maternidad</b> (discriminación <b>directa</b>) y las represalias por reclamar. Los actos discriminatorios son <b>nulos</b>.', a: 'LO 3/2007, arts. 6-10'},
     {t: 'En juicio, la <b>persona demandada</b> prueba que no discriminó (salvo en el proceso penal). En acoso, solo está legitimada la <b>persona acosada</b>.', a: 'LO 3/2007, arts. 12.3 y 13'},
     {t: 'La Ley 4/2007 protege a las mujeres que, <b>dentro de Aragón</b>, sufran cualquiera de las formas de violencia del art. 2. Hay al menos <b>un centro de emergencia y una casa de acogida por provincia</b>.', a: 'Ley 4/2007, arts. 4, 18.3 y 19.4'},
     {t: 'El II Plan de Igualdad municipal dura <b>4 años</b> desde su aprobación y registro, se organiza en <b>4 ejes</b> (A-D), lo sigue y evalúa la <b>Comisión de Igualdad</b> e incluye el Protocolo frente al acoso.', a: 'Plan, apdos. 5.3, 8 y 10; Anexo II'}
@@ -53,14 +53,14 @@ registerEsquema('aux-admin-zaragoza', 2, {
 
   cifras: [
     {v: '4 años', d: 'Vigencia del Plan, desde su aprobación y registro {{examen:2025}}', a: 'Plan, apdo. 5.3'},
-    {v: '4 ejes', d: 'Del Plan, con 12 líneas, 21 objetivos específicos y 44 acciones', a: 'Plan, apdo. 8'},
+    {v: '4 ejes', d: 'Del Plan, con 12 líneas, 21 objetivos específicos y 44 acciones (cifra que da el propio Plan; en el apdo. 9 solo aparecen 43 numeradas)', a: 'Plan, apdo. 8'},
     {v: '5.019', d: 'Personas en plantilla a 30-6-2019 (63,3 % hombres, 36,7 % mujeres)', a: 'Plan, apdo. 7'},
     {v: '1 por provincia', d: 'Centros de emergencia, como mínimo', a: 'Ley 4/2007, art. 18.3'},
     {v: '1 por provincia', d: 'Casas de acogida, como mínimo {{examen:2026}}', a: 'Ley 4/2007, art. 19.4'},
     {v: '10 letras', d: 'Formas de violencia del art. 2 (a-j); la j) es cláusula abierta', a: 'Ley 4/2007, art. 2'},
     {v: '3 situaciones', d: 'De violencia: doméstica, laboral o docente, y social', a: 'Ley 4/2007, art. 3'},
     {v: '10 personas', d: 'Máximo de la Asesoría Confidencial', a: 'Plan, Anexo II.VII.1'},
-    {v: '7 personas', d: 'Comité de Asesoramiento: 2 de Prevención, 1 de la Asesoría Confidencial, 1 abogado/a, 1 psicólogo/a, 2 sindicales', a: 'Plan, Anexo II.VII.2'},
+    {v: '7 personas', d: 'Comité de Asesoramiento (suma de su composición; el Plan no da el total): 2 técnicos/as de Prevención y Salud Laboral, 1 de la Asesoría Confidencial, 1 abogado/a, 1 psicólogo/a y 2 representantes sindicales', a: 'Plan, Anexo II.VII.2'},
     {v: '5 días laborables', d: 'Plazo máximo para alegar contra la resolución del Comité', a: 'Plan, Anexo II.VIII.E'}
   ],
 
@@ -91,7 +91,7 @@ registerEsquema('aux-admin-zaragoza', 2, {
         ]}
       ]},
       {tipo: 'lista', items: [
-        {t: 'Ambos acosos se consideran <b>en todo caso discriminatorios</b>. Todo ello sin perjuicio del Código Penal.', a: '7.1 y 7.3'},
+        {t: 'Ambos acosos se consideran <b>en todo caso discriminatorios</b>. La definición de acoso sexual se da sin perjuicio del Código Penal.', a: '7.1 y 7.3'},
         {t: 'Condicionar un derecho o una expectativa de derecho a aceptar el acoso también es discriminación por razón de sexo.', a: '7.4'},
         {t: 'Todo trato desfavorable a las mujeres por <b>embarazo o maternidad</b> es discriminación <b>directa</b> por razón de sexo.', a: '8', examen: '2026'},
         {t: '<b>Indemnidad</b>: es discriminación cualquier trato adverso por presentar queja, reclamación, denuncia, demanda o recurso contra la discriminación.', a: '9'}
@@ -138,9 +138,9 @@ registerEsquema('aux-admin-zaragoza', 2, {
       ]},
       {tipo: 'lista', tinte: true, items: [
         {t: 'Las formas del art. 2 cuentan <b>estén o no tipificadas</b> como delito, falta o infracción administrativa.', a: '2'},
-        {t: '<b>Doméstica (3.a)</b>: vínculo afectivo, conyugal, de pareja, paterno-filial o semejante, actual o pasado, <b>aun sin convivencia</b>; también descendientes, ascendientes o hermanas, y menores o incapaces que convivan con él o estén bajo potestad, tutela o guarda del cónyuge o conviviente.', a: '3.a'},
+        {t: '<b>Doméstica (3.a)</b>: vínculo afectivo, conyugal, de pareja, paterno-filial o semejante, actual o pasado, <b>aun sin convivencia</b>; también descendientes, ascendientes o hermanas, y menores o incapaces que convivan con él o estén bajo autoridad familiar, potestad, tutela, curatela, acogimiento o guarda de hecho del cónyuge o conviviente.', a: '3.a'},
         {t: '<b>Laboral o docente (3.b)</b>: vínculo laboral, docente o de prestación de servicios, por dependencia o por proximidad.', a: '3.b'},
-        {t: '<b>Social (3.c)</b>: sin ninguno de los vínculos anteriores; incluye a las personas bajo custodia o guarda en centros públicos o privados.', a: '3.c'}
+        {t: '<b>Social (3.c)</b>: quien carece de los vínculos anteriores. Incluye en todo caso a quienes tengan con ella una relación distinta de la del apartado a) por la que esté integrada en su núcleo de convivencia familiar, y a las personas que, por su especial vulnerabilidad, están bajo custodia o guarda en centros públicos o privados.', a: '3.c'}
       ]},
       {tipo: 'ejemplo', t: 'Un compañero de trabajo acosa a una empleada aprovechando la proximidad del puesto: violencia laboral o docente (3.b). Si quien la agrede es su expareja, aunque nunca hayan convivido: violencia doméstica (3.a).'}
     ]},
@@ -180,7 +180,7 @@ registerEsquema('aux-admin-zaragoza', 2, {
         {t: 'Objetivo general: igualdad <b>real y efectiva</b> de oportunidades y evitar cualquier discriminación por razón de sexo en el Ayuntamiento.', a: '8'}
       ]},
       {tipo: 'tabla', cab: ['Eje', 'Objetivo', 'Líneas'], filas: [
-        ['A · Cultura de la organización', 'La igualdad como valor fundamental de la organización municipal.', 'A.1 Comunicación y sensibilización · A.2 Participación y negociación · A.3 Formación · A.4 Estructura y órganos de seguimiento'],
+        ['A · Cultura de la organización', 'La igualdad de trato y oportunidades como <b>uno de los valores fundamentales</b> de la organización municipal.', 'A.1 Comunicación y sensibilización · A.2 Participación y negociación · A.3 Formación · A.4 Estructura y órganos municipales para el seguimiento del Plan'],
         ['B · Gestión de Recursos Humanos', 'Perspectiva de género en la gestión de personal.', 'B.1 Acceso · B.2 Plantilla, RPT y promoción profesional · B.3 Retribuciones'],
         ['C · Conciliación y corresponsabilidad', 'Derecho a conciliar para toda la plantilla y corresponsabilidad en el ámbito familiar y doméstico.', 'C.1 Conciliación · C.2 Corresponsabilidad'],
         ['D · Prevención, salud laboral y protección frente al acoso', 'Entorno laboral adecuado para mejorar la calidad de vida.', 'D.1 Prevención y salud laboral · D.2 Clima laboral · D.3 Protección frente al acoso sexual, por razón de sexo y por orientación sexual']
@@ -206,7 +206,7 @@ registerEsquema('aux-admin-zaragoza', 2, {
         ]},
         {titulo: 'Comité de Asesoramiento · VII.2', reglas: [
           'Órgano colegiado que desarrolla el procedimiento <b>formal</b>.',
-          'Dos técnicos/as de Prevención, una persona de la Asesoría Confidencial (que no haya intervenido en el informal), un abogado/a, un psicólogo/a y dos representantes sindicales.',
+          'Dos técnicos/as del Servicio de Prevención y Salud Laboral, una persona de la Asesoría Confidencial (que no haya intervenido en el informal), un abogado/a de la Asesoría Jurídica, un psicólogo/a del Servicio de Igualdad y dos representantes sindicales.',
           'A ambos órganos los nombra la <b>Presidencia de la Comisión de Igualdad</b>.'
         ]}
       ]},

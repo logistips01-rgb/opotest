@@ -11,7 +11,7 @@ registerEsquema('aux-admin-zaragoza', 4, {
   esencial: [
     {t: 'Interesados son <b>tres</b>: quien promueve el procedimiento, quien tiene <b>derechos</b> que pueden verse afectados y quien tiene <b>intereses legítimos</b> afectados <b>y se persona</b> antes de la resolución definitiva.', a: 'art. 4.1'},
     {t: 'La representación <b>se acredita</b> para solicitar, presentar declaraciones responsables o comunicaciones, recurrir, desistir y renunciar. En los actos de <b>mero trámite se presume</b>.', a: 'art. 5.3'},
-    {t: 'Si falta o es insuficiente, el acto vale si se subsana en <b>10 días</b> (o plazo superior) que debe conceder el órgano.', a: 'art. 5.6'},
+    {t: 'Si falta o es insuficiente, el acto vale si se aporta o se subsana el defecto en <b>10 días</b> (o plazo superior) que debe conceder el órgano.', a: 'art. 5.6'},
     {t: 'Los poderes inscritos en el registro de apoderamientos valen <b>como máximo 5 años</b> desde la inscripción.', a: 'art. 6.6'},
     {t: 'Para actuar basta con <b>identificarse</b>. La <b>firma</b> solo es obligatoria en 5 casos: solicitudes, declaraciones responsables o comunicaciones, recursos, desistimiento y renuncia.', a: 'art. 11'}
   ],
@@ -26,7 +26,7 @@ registerEsquema('aux-admin-zaragoza', 4, {
       ['9', 'Sistemas de identificación'], ['10', 'Sistemas de firma'],
       ['11', 'Uso de medios de identificación y firma'], ['12', 'Asistencia en el uso de medios electrónicos']
     ]},
-    {titulo: 'Complemento · Título preliminar', rango: 'arts. 1-2', items: [
+    {titulo: 'Complemento (fuera del epígrafe) · Título preliminar', rango: 'arts. 1-2', items: [
       ['1', 'Objeto de la Ley'], ['2', 'Ámbito subjetivo de aplicación']
     ]}
   ],
@@ -77,7 +77,7 @@ registerEsquema('aux-admin-zaragoza', 4, {
         ], reglas: ['Actos y gestiones de <b>mero trámite</b>: la representación <b>se presume</b>.']},
         {titulo: 'Cómo se acredita · 5.4-5.5', items: [
           'Cualquier medio válido en Derecho que deje <b>constancia fidedigna</b>',
-          'Apoderamiento <b>apud acta</b>, por comparecencia personal o electrónica en la sede',
+          'Apoderamiento <b>apud acta</b>, por comparecencia personal o por comparecencia electrónica en la sede electrónica',
           'Inscripción en el <b>registro electrónico de apoderamientos</b> de la Administración competente'
         ], reglas: ['El órgano que tramita incorpora al expediente la acreditación de la condición de representante y de sus poderes.']}
       ]},
@@ -153,16 +153,16 @@ registerEsquema('aux-admin-zaragoza', 4, {
     {titulo: 'Asistencia en el uso de medios electrónicos', a: 'art. 12', bloques: [
       {tipo: 'lista', items: [
         {t: 'Las Administraciones deben garantizar que los interesados puedan relacionarse por medios electrónicos, con los canales, sistemas y aplicaciones necesarios.', a: '12.1'},
-        {t: 'Asisten a los interesados <b>no obligados</b> (no incluidos en el art. 14.2 y 14.3) que lo soliciten: identificación y firma electrónica, presentación en el registro electrónico general y copias auténticas.', a: '12.2'},
+        {t: 'Asisten a los interesados <b>no obligados</b> (no incluidos en el art. 14.2 y 14.3) que lo soliciten, <b>especialmente</b> en identificación y firma electrónica, presentación de solicitudes en el registro electrónico general y obtención de copias auténticas.', a: '12.2'},
         {t: 'Si no tienen medios, un <b>funcionario habilitado</b> puede identificarles o firmar por ellos con su propio sistema de firma. El interesado se identifica ante él y da su <b>consentimiento expreso</b>; queda constancia.', a: '12.2'},
         {t: 'AGE, CCAA y Entidades Locales mantienen un <b>registro de funcionarios habilitados</b>, interoperable. Constan al menos los de las oficinas de asistencia en materia de registros.', a: '12.3'}
       ]}
     ]},
 
-    {titulo: 'Complemento: objeto y ámbito de la Ley', a: 'arts. 1-2', bloques: [
+    {titulo: 'Complemento (fuera del epígrafe): objeto y ámbito de la Ley', a: 'arts. 1-2', bloques: [
       {tipo: 'lista', items: [
-        {t: 'Objeto: requisitos de validez y eficacia de los actos, procedimiento común (incluidos el <b>sancionador</b> y el de <b>responsabilidad</b> patrimonial) y principios de la iniciativa legislativa y la potestad reglamentaria.', a: '1.1'},
-        {t: 'Trámites adicionales o distintos: <b>solo mediante ley</b>, de forma motivada y si es eficaz, proporcionado y necesario. Por <b>reglamento</b>, solo especialidades: órganos competentes, plazos por razón de la materia, formas de iniciación y terminación, publicación e informes.', a: '1.2'}
+        {t: 'Objeto: requisitos de validez y eficacia de los actos, procedimiento administrativo común (incluidos el <b>sancionador</b> y el de reclamación de <b>responsabilidad</b> de las Administraciones Públicas) y principios de la iniciativa legislativa y la potestad reglamentaria.', a: '1.1'},
+        {t: 'Trámites adicionales o distintos: <b>solo mediante ley</b>, de forma motivada y si es eficaz, proporcionado y necesario. Por <b>reglamento</b> pueden establecerse especialidades del procedimiento referidas a: órganos competentes, plazos propios por razón de la materia, formas de iniciación y terminación, publicación e informes a recabar.', a: '1.2'}
       ]},
       {tipo: 'columnas', cols: [
         {titulo: 'Sector público · 2.1', items: [
@@ -170,7 +170,7 @@ registerEsquema('aux-admin-zaragoza', 4, {
           'Administraciones de las Comunidades Autónomas',
           'Entidades que integran la Administración Local',
           'Sector público institucional'
-        ], reglas: ['Son <b>Administraciones Públicas</b> las tres primeras y los organismos públicos y entidades de derecho público del 2.2.a.']},
+        ], reglas: ['Son <b>Administraciones Públicas</b> las tres primeras y los organismos públicos y entidades de derecho público del 2.2.a (2.3).']},
         {titulo: 'Sector público institucional · 2.2', items: [
           'Organismos públicos y entidades de derecho público vinculados o dependientes',
           'Entidades de derecho privado vinculadas o dependientes: las normas que se refieran a ellas y, en todo caso, cuando ejerzan <b>potestades administrativas</b>',
