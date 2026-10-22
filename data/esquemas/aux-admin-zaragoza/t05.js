@@ -105,6 +105,10 @@ registerEsquema('aux-admin-zaragoza', 5, {
     ]},
 
     {titulo: 'Personas y Administración', a: 'arts. 13-20', bloques: [
+      {tipo: 'lista', items: [
+        {t: '<b>Derechos de las personas</b> (quienes tienen capacidad de obrar ante las AAPP): comunicarse por el <b>Punto de Acceso General electrónico</b>; ser asistidos en el uso de medios electrónicos; usar las lenguas oficiales de su Comunidad Autónoma; acceder a la información pública, archivos y registros (Ley 19/2013); ser tratados con <b>respeto y deferencia</b>; exigir responsabilidades; obtener y usar medios de identificación y firma electrónica; protección de datos personales; y los demás que reconozcan la Constitución y las leyes.', a: 'art. 13'},
+        {t: 'Son sin perjuicio de los derechos de los <b>interesados</b> en el procedimiento, que están en el art. 53.', a: 'art. 13'}
+      ]},
       {tipo: 'columnas', cols: [
         {titulo: 'Obligados a relación electrónica · 14.2', items: [
           'Personas jurídicas',
