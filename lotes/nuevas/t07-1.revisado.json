@@ -1,0 +1,607 @@
+{
+ "slug": "aux-admin-zaragoza",
+ "tema": 7,
+ "lote": "t07-1",
+ "preguntas": [
+  {
+   "q": "Según el art. 66.1 LPAC, si el interesado desconoce el código de identificación del órgano, centro o unidad administrativa al que dirige su solicitud:",
+   "options": [
+    "Deberá pedirlo por escrito al órgano destinatario antes de presentar la solicitud",
+    "La solicitud se inadmitirá, sin posibilidad de subsanar después esa omisión",
+    "Las oficinas de asistencia en materia de registros están obligadas a facilitárselo",
+    "Deberá consultarlo en el boletín oficial de la provincia, donde se publica cada año"
+   ],
+   "correct": 2,
+   "exp": "El art. 66.1 exige que la solicitud indique el órgano, centro o unidad a la que se dirige y su código de identificación, y añade: «Las oficinas de asistencia en materia de registros estarán obligadas a facilitar a los interesados el código de identificación si el interesado lo desconoce». Además, las Administraciones deben mantener y actualizar en la sede electrónica un listado con los códigos vigentes, no en un boletín. La ley no obliga a pedirlo antes al órgano destinatario, y la falta de un requisito de la solicitud se subsana conforme al art. 68.",
+   "fuente": "Art. 66.1, párrafo final, LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado en el consolidado BOE-A-2015-10565 (últ. act. 06/11/2024): art. 66.1, párrafo final de la letra f), «Las oficinas de asistencia en materia de registros estarán obligadas a facilitar a los interesados el código de identificación si el interesado lo desconoce». Distractores falsos (no hay petición previa obligatoria, la omisión es subsanable por el art. 68, el listado está en la sede electrónica, no en el BOP). No repite: 7#25 pregunta por el contenido general de la solicitud, no por el código; tema 15 trata el art. 16, no esto. | Revisor 2 (CONFIRMADA): Art. 66.1, párrafo tras la letra f), LPAC (consolidado BOE, últ. act. 06/11/2024): «Las oficinas de asistencia en materia de registros estarán obligadas a facilitar a los interesados el código de identificación si el interesado lo desconoce». Los tres distractores son falsos (no hay que pedirlo antes, no hay inadmisión sin subsanación, el listado está en la sede electrónica y no en el BOP). Sin repetición en T7/T15/T21 (la de 66.3 y la de 115.1.d del T8 tratan otra cosa)."
+  },
+  {
+   "q": "Según el art. 75.2 LPAC, las aplicaciones y sistemas de información utilizados para la instrucción de los procedimientos deberán garantizar:",
+   "options": [
+    "El control de los tiempos y plazos, la identificación de los órganos responsables y la tramitación ordenada de los expedientes",
+    "La resolución automatizada de todos los procedimientos, sin intervención alguna de los empleados públicos que los tramitan",
+    "El acceso libre de cualquier ciudadano, sea o no interesado, al contenido íntegro de los expedientes en tramitación",
+    "La conservación de una copia en papel de cada expediente durante un plazo mínimo de cinco años desde su resolución"
+   ],
+   "correct": 0,
+   "exp": "El art. 75.2 dispone que esas aplicaciones y sistemas «deberán garantizar el control de los tiempos y plazos, la identificación de los órganos responsables y la tramitación ordenada de los expedientes, así como facilitar la simplificación y la publicidad de los procedimientos». No impone la resolución automatizada, el acceso de cualquier persona al expediente ni la conservación en papel; los expedientes tienen formato electrónico (art. 70.2).",
+   "fuente": "Art. 75.2 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 75.2 literal: «deberán garantizar el control de los tiempos y plazos, la identificación de los órganos responsables y la tramitación ordenada de los expedientes». Distractores sin base legal. No repite: en el tema 7 solo hay preguntas sobre el 75.1, 75.3 y 75.4. | Revisor 2 (CONFIRMADA): Art. 75.2 LPAC literal: control de tiempos y plazos, identificación de órganos responsables y tramitación ordenada. Distractores falsos. En T7 hay preguntas de 75.1, 75.3 y 75.4, ninguna de 75.2."
+  },
+  {
+   "q": "Según el art. 55.2 LPAC, en los procedimientos sancionadores, si no hay órganos con funciones de investigación, averiguación e inspección en la materia, las actuaciones previas las realizará:",
+   "options": [
+    "En todo caso el órgano superior jerárquico del competente para la iniciación del procedimiento",
+    "El Ministerio Fiscal, a instancia del órgano competente para la resolución del procedimiento",
+    "Las Fuerzas y Cuerpos de Seguridad con competencia en el lugar donde ocurrieron los hechos investigados",
+    "La persona u órgano que determine el órgano competente para iniciar o resolver el procedimiento"
+   ],
+   "correct": 3,
+   "exp": "El art. 55.2, párrafo segundo, atribuye las actuaciones previas a los órganos con funciones de investigación, averiguación e inspección en la materia «y, en defecto de éstos, por la persona u órgano administrativo que se determine por el órgano competente para la iniciación o resolución del procedimiento». No las asigna por ley al superior jerárquico, al Ministerio Fiscal ni a las fuerzas de seguridad.",
+   "fuente": "Art. 55.2, párrafo segundo, LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 55.2, párrafo segundo literal: «en defecto de éstos, por la persona u órgano administrativo que se determine por el órgano competente para la iniciación o resolución del procedimiento». Frente a la n.º 146 del tema 7 (quién las hace «en primer término»): no repite, porque esta pregunta por el órgano subsidiario, que aquella no recoge ni como opción. Distractores falsos. | Revisor 2 (CONFIRMADA): Art. 55.2, párr. 2.º LPAC: «en defecto de éstos, por la persona u órgano administrativo que se determine por el órgano competente para la iniciación o resolución del procedimiento». Distractores falsos. La pregunta existente de 55.2 en T7 pregunta por quién actúa «en primer término»; esta pregunta por el sustituto, así que es un dato distinto y no la repite."
+  },
+  {
+   "q": "Según el art. 56.2 LPAC, antes de la iniciación del procedimiento y en los casos de urgencia inaplazable, las medidas provisionales puede adoptarlas:",
+   "options": [
+    "Únicamente el órgano competente para resolver el procedimiento",
+    "El órgano competente para iniciar o instruir el procedimiento",
+    "El órgano superior jerárquico del competente para resolver",
+    "El juzgado de lo contencioso-administrativo, a petición del órgano"
+   ],
+   "correct": 1,
+   "exp": "El art. 56.2 dice que, antes de la iniciación, «el órgano competente para iniciar o instruir el procedimiento» podrá adoptar las medidas provisionales necesarias y proporcionadas. El órgano competente para resolver es quien las adopta una vez iniciado el procedimiento (art. 56.1). La ley no las atribuye al superior jerárquico ni a un juzgado.",
+   "fuente": "Art. 56.2 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 56.2 literal: antes de la iniciación, «el órgano competente para iniciar o instruir el procedimiento ... en los casos de urgencia inaplazable». Frente a la n.º 12 del tema 7, que pregunta en qué casos (urgencia inaplazable y protección provisional de los intereses): esta pregunta por el órgano, un dato distinto, así que no repite en el fondo. El órgano competente para resolver es el del 56.1 (ya iniciado). Distractores falsos. | Revisor 2 (CONFIRMADA): Art. 56.2 LPAC: antes de la iniciación, «el órgano competente para iniciar o instruir el procedimiento». El órgano para resolver lo hace una vez iniciado (56.1). El «Únicamente» del primer distractor lo hace falso. Las preguntas existentes de 56.2 tratan la urgencia inaplazable y los quince días, no el órgano. La regla 9 no se aplica: no se pregunta por Pleno, Alcalde ni Gobierno."
+  },
+  {
+   "q": "Según el art. 56.2 LPAC, las medidas provisionales adoptadas antes de iniciar el procedimiento quedarán sin efecto, en todo caso:",
+   "options": [
+    "Solo si el interesado las recurre y su recurso se estima antes de que se dicte el acuerdo de iniciación",
+    "Si no se inicia el procedimiento en plazo o si el acuerdo de iniciación no contiene un pronunciamiento expreso sobre ellas",
+    "Al mes de su adopción, aunque el procedimiento ya se haya iniciado y el acuerdo de iniciación las haya confirmado",
+    "Únicamente cuando lo acuerde de forma expresa el órgano competente para resolver en la resolución que ponga fin al procedimiento"
+   ],
+   "correct": 1,
+   "exp": "El art. 56.2, párrafo segundo, dispone: «En todo caso, dichas medidas quedarán sin efecto si no se inicia el procedimiento en dicho plazo o cuando el acuerdo de iniciación no contenga un pronunciamiento expreso acerca de las mismas». El plazo es el de quince días desde su adopción para dictar el acuerdo de iniciación. No dependen de un recurso, no caducan al mes si se confirmaron y no hace falta esperar a la resolución final.",
+   "fuente": "Art. 56.2, párrafo segundo, LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 56.2, párrafo segundo literal: «En todo caso, dichas medidas quedarán sin efecto si no se inicia el procedimiento en dicho plazo o cuando el acuerdo de iniciación no contenga un pronunciamiento expreso acerca de las mismas». El plazo es de quince días siguientes a la adopción, como dice la explicación. No repite la 7#148, que pregunta el plazo de quince días y no la consecuencia. | Revisor 2 (CONFIRMADA): Art. 56.2, párr. 2.º LPAC literal. El plazo es de quince días desde su adopción (párr. 1.º), como dice la explicación. Distractores falsos. No repite la existente sobre los quince días."
+  },
+  {
+   "q": "Según el art. 56.3 LPAC, las medidas provisionales que enumera (suspensión temporal de actividades, prestación de fianzas, embargo preventivo, etc.) podrán acordarse en los términos previstos en:",
+   "options": [
+    "La Ley de Enjuiciamiento Criminal",
+    "La Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "La Ley 40/2015, de Régimen Jurídico del Sector Público",
+    "La Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil"
+   ],
+   "correct": 3,
+   "exp": "El art. 56.3 dice que podrán acordarse las medidas provisionales que enumera «en los términos previstos en la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil». No remite a la Ley de Enjuiciamiento Criminal, a la Ley General Tributaria ni a la Ley 40/2015.",
+   "fuente": "Art. 56.3 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 56.3 literal: «podrán acordarse las siguientes medidas provisionales, en los términos previstos en la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil» (en el HTML del BOE hay un salto de línea por el enlace a la LEC, pero el texto es ese). Distractores falsos. No repite: la 7#118 también responde LEC, pero sobre la valoración de la prueba (art. 77.1), no sobre las medidas provisionales; la 7#149 pregunta por una medida de la lista. | Revisor 2 (CONFIRMADA): Art. 56.3 LPAC remite expresamente a la Ley 1/2000, de Enjuiciamiento Civil. Distractores falsos. La pregunta existente sobre la LEC es del art. 77.1 (valoración de la prueba) y la de 56.3.c) pregunta por una medida concreta: no hay repetición."
+  },
+  {
+   "q": "Según el art. 56.4 LPAC, no se podrán adoptar medidas provisionales que:",
+   "options": [
+    "Puedan causar a los interesados perjuicio de difícil o imposible reparación o impliquen violación de derechos amparados por las leyes",
+    "Supongan la suspensión temporal de actividades o el cierre temporal del establecimiento por razones de sanidad, higiene o seguridad",
+    "Se adopten de oficio, sin que medie una solicitud previa de alguno de los interesados personados en el procedimiento",
+    "Consistan en la prestación de fianzas o en el embargo preventivo de bienes, rentas y cosas fungibles del interesado"
+   ],
+   "correct": 0,
+   "exp": "El art. 56.4 prohíbe las medidas provisionales «que puedan causar perjuicio de difícil o imposible reparación a los interesados o que impliquen violación de derechos amparados por las leyes». La suspensión temporal de actividades, el cierre temporal, las fianzas y el embargo preventivo figuran entre las medidas que sí pueden acordarse (art. 56.3), y las medidas pueden adoptarse de oficio (art. 56.1 y 2).",
+   "fuente": "Art. 56.4 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 56.4 literal: «No se podrán adoptar medidas provisionales que puedan causar perjuicio de difícil o imposible reparación a los interesados o que impliquen violación de derechos amparados por las leyes». Las opciones con la suspensión o el cierre temporal y con fianzas o embargo son medidas permitidas por el 56.3.a)-d); la adopción de oficio está permitida por el 56.1 y el 56.2. No repite. | Revisor 2 (CONFIRMADA): Art. 56.4 LPAC literal. Los distractores de suspensión de actividades o cierre, y de fianzas o embargo, son medidas admitidas por el 56.3.a), b), c) y d), y la adopción de oficio la prevén el 56.1 y el 56.2: todos falsos como prohibiciones. Sin pregunta previa de 56.4."
+  },
+  {
+   "q": "Según el art. 56.5 LPAC, durante la tramitación del procedimiento las medidas provisionales:",
+   "options": [
+    "Solo podrán ser alzadas a instancia de parte, previo informe preceptivo del órgano instructor y audiencia de los demás interesados",
+    "No podrán alzarse ni modificarse durante la tramitación, ni siquiera por circunstancias sobrevenidas, hasta la resolución que ponga fin al procedimiento",
+    "Podrán ser alzadas o modificadas, de oficio o a instancia de parte, por circunstancias sobrevenidas o que no pudieron tenerse en cuenta al adoptarlas",
+    "Solo podrán modificarse de oficio, y siempre que lo autorice expresamente el órgano superior jerárquico del que las adoptó"
+   ],
+   "correct": 2,
+   "exp": "El art. 56.5 dice que las medidas provisionales «podrán ser alzadas o modificadas durante la tramitación del procedimiento, de oficio o a instancia de parte, en virtud de circunstancias sobrevenidas o que no pudieron ser tenidas en cuenta en el momento de su adopción», y que se extinguen cuando surta efectos la resolución que ponga fin al procedimiento. No exige informe del instructor ni autorización del superior, y no impide modificarlas antes de resolver.",
+   "fuente": "Art. 56.5 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 56.5 literal: «podrán ser alzadas o modificadas durante la tramitación del procedimiento, de oficio o a instancia de parte, en virtud de circunstancias sobrevenidas o que no pudieron ser tenidas en cuenta en el momento de su adopción». Distractores falsos. No repite. | Revisor 2 (CONFIRMADA): Art. 56.5 LPAC literal (de oficio o a instancia de parte, por circunstancias sobrevenidas o no tenidas en cuenta). Distractores falsos. Longitudes equilibradas. Sin pregunta previa de 56.5."
+  },
+  {
+   "q": "Según el art. 61.4 LPAC, en los procedimientos de responsabilidad patrimonial, la petición razonada de otros órganos deberá:",
+   "options": [
+    "Identificar al empleado público causante del daño y proponer la sanción disciplinaria que deba imponérsele por su actuación",
+    "Acompañar en todo caso el dictamen del órgano consultivo competente y una valoración pericial definitiva del daño causado al particular afectado",
+    "Contar con la conformidad escrita del perjudicado y fijar la cuantía exacta de la indemnización que deba abonarse a este",
+    "Individualizar la lesión, su relación de causalidad con el servicio público, su evaluación económica si fuera posible y el momento en que se produjo"
+   ],
+   "correct": 3,
+   "exp": "El art. 61.4 exige que, en responsabilidad patrimonial, la petición «deberá individualizar la lesión producida en una persona o grupo de personas, su relación de causalidad con el funcionamiento del servicio público, su evaluación económica si fuera posible, y el momento en que la lesión efectivamente se produjo». No pide identificar a un empleado ni proponer sanciones, ni aportar dictamen o valoración definitiva, ni la conformidad del perjudicado.",
+   "fuente": "Art. 61.4 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): El texto es exacto: el art. 61.4 dice «la petición deberá individualizar la lesión producida..., su relación de causalidad con el funcionamiento del servicio público, su evaluación económica si fuera posible, y el momento en que la lesión efectivamente se produjo». Pero en el fondo repite la n.º 169 del tema 7 (art. 67.2): pregunta la misma lista (lesión, causalidad con el servicio público, evaluación económica si es posible) y sus distractores son igual de inverosímiles, así que se acierta reconociendo la respuesta de aquella. Si se quiere cubrir el 61.4, que sea con otro dato: por ejemplo, el contraste con el 61.3, preguntando en qué procedimientos la petición razonada debe individualizar la lesión (responsabilidad patrimonial) frente a especificar a los responsables y la tipificación (sancionadores). | Revisor 2 (CONFIRMADA): Art. 61.4 LPAC literal. Distractores falsos. El contenido coincide con el del art. 67.2, que ya tiene pregunta en T7, pero aquí se pregunta por la petición razonada de otros órganos (61.4) y no por la solicitud del interesado. Es otro precepto, no una repetición."
+  },
+  {
+   "q": "Según el art. 62.3 LPAC, cuando la denuncia invoque un perjuicio en el patrimonio de las Administraciones Públicas:",
+   "options": [
+    "El denunciante adquiere por ese solo hecho la condición de interesado en el procedimiento que se inicie",
+    "La Administración está obligada a iniciar el procedimiento en todo caso, sin margen de apreciación",
+    "La no iniciación del procedimiento deberá ser motivada y se notificará a los denunciantes si se ha iniciado o no",
+    "La denuncia deberá ratificarse ante el órgano competente en el plazo de diez días desde su presentación en el registro"
+   ],
+   "correct": 2,
+   "exp": "El art. 62.3 dispone que, en ese caso, «la no iniciación del procedimiento deberá ser motivada y se notificará a los denunciantes la decisión de si se ha iniciado o no el procedimiento». La denuncia no confiere por sí sola la condición de interesado (art. 62.5), la ley no obliga a iniciar en todo caso y no exige ratificar la denuncia.",
+   "fuente": "Art. 62.3 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 62.3 literal: «la no iniciación del procedimiento deberá ser motivada y se notificará a los denunciantes la decisión de si se ha iniciado o no el procedimiento». Distractores falsos: el 62.5 dice que la denuncia no da la condición de interesado; la ley no obliga a iniciar ni pide ratificar. No repite. | Revisor 2 (CONFIRMADA): Art. 62.3 LPAC literal. Distractores falsos: la denuncia no da la condición de interesado (62.5), no obliga a iniciar y no hay que ratificarla. La pregunta existente de 62.5 trata otro apartado."
+  },
+  {
+   "q": "Según el art. 62.4 LPAC, para que el denunciante que participó en la infracción obtenga la exención o la reducción de la multa, en ambos casos será necesario que:",
+   "options": [
+    "Renuncie a cualquier acción o recurso en vía administrativa contra la resolución que ponga fin al procedimiento sancionador",
+    "Cese en la participación de la infracción y no haya destruido elementos de prueba relacionados con el objeto de la denuncia",
+    "Reconozca su responsabilidad antes del acuerdo de iniciación y abone voluntariamente la mitad de la multa",
+    "Sea el único infractor y la infracción que denuncia esté tipificada como leve en la normativa sectorial"
+   ],
+   "correct": 1,
+   "exp": "El art. 62.4, párrafo tercero, dice: «En ambos casos será necesario que el denunciante cese en la participación de la infracción y no haya destruido elementos de prueba relacionados con el objeto de la denuncia». La renuncia a recursos es la condición de las reducciones del art. 85.3; el reconocimiento y pago no se exigen aquí, y el art. 62.4 parte precisamente de que «existan otros infractores».",
+   "fuente": "Art. 62.4, párrafo tercero, LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 62.4, párrafo tercero literal: «En ambos casos será necesario que el denunciante cese en la participación de la infracción y no haya destruido elementos de prueba relacionados con el objeto de la denuncia». Distractores falsos (la renuncia a recursos es la del 85.3; el 62.4 presupone «otros infractores»). No repite la 7#157, que trata los requisitos propios de la exención. | Revisor 2 (CONFIRMADA): Art. 62.4, párr. 3.º LPAC literal: cese en la participación y no destrucción de pruebas. Distractores falsos: la renuncia a recursos es del 85.3, y el 62.4 presupone «otros infractores». La pregunta existente de 62.4 trata los requisitos de la exención, no esta condición común."
+  },
+  {
+   "q": "Según el art. 63.3 LPAC, cuando el infractor persista de forma continuada en la comisión de hechos tipificados como infracción, no se podrán iniciar nuevos procedimientos sancionadores por esos hechos:",
+   "options": [
+    "En tanto no haya recaído una primera resolución sancionadora, con carácter ejecutivo",
+    "Hasta que pase un año desde la notificación del primer acuerdo de iniciación",
+    "Mientras no se haya dictado sentencia firme en el orden contencioso-administrativo",
+    "Hasta que el primer procedimiento haya sido declarado caducado o archivado"
+   ],
+   "correct": 0,
+   "exp": "El art. 63.3 prohíbe iniciar nuevos procedimientos sancionadores por infracciones en cuya comisión el infractor persista de forma continuada «en tanto no haya recaído una primera resolución sancionadora, con carácter ejecutivo». No fija un plazo de un año ni exige sentencia firme, y el límite no se levanta por caducidad o archivo del primero.",
+   "fuente": "Art. 63.3 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "DUDOSA",
+   "notaRevision": "Revisor 1 (DUDOSA): La correcta es literal del art. 63.3 («en tanto no haya recaído una primera resolución sancionadora, con carácter ejecutivo»), pero hay dos problemas. (1) El distractor «Hasta que el primer procedimiento haya sido declarado caducado o archivado» no es claramente falso: por el art. 95.3, si el primer procedimiento caduca y la infracción no ha prescrito, puede iniciarse otro por los mismos hechos. (2) La explicación afirma que «el límite no se levanta por caducidad o archivo del primero», y esa afirmación no está en la ley y choca con el 95.3. Arreglo: sustituir ese distractor por uno sin base legal (p. ej., «Hasta que el infractor haya sido requerido formalmente para que cese en la conducta») y quitar esa frase de la explicación. | Revisor 2 (DUDOSA): La respuesta marcada reproduce el art. 63.3 LPAC («en tanto no haya recaído una primera resolución sancionadora, con carácter ejecutivo»). Falla el distractor «Hasta que el primer procedimiento haya sido declarado caducado o archivado» y la explicación, que afirma que «el límite no se levanta por caducidad o archivo del primero». El art. 95.3 permite iniciar un nuevo procedimiento tras la caducidad si no ha prescrito la acción, así que esa afirmación no es exacta y el distractor puede defenderse. Arreglo: cambiar ese distractor por uno claramente falso (p. ej., «Mientras no haya prescrito la primera de las infracciones cometidas») y quitar esa frase de la explicación."
+  },
+  {
+   "q": "Según el art. 64.1 LPAC, la incoación de un procedimiento sancionador se comunicará al denunciante:",
+   "options": [
+    "Cuando las normas reguladoras del procedimiento así lo prevean",
+    "En todo caso, porque la denuncia le da la condición de interesado",
+    "Solo cuando lo haya pedido expresamente en el escrito de denuncia",
+    "Únicamente si la infracción denunciada está tipificada como muy grave"
+   ],
+   "correct": 0,
+   "exp": "El art. 64.1, párrafo segundo, dice: «Asimismo, la incoación se comunicará al denunciante cuando las normas reguladoras del procedimiento así lo prevean». El acuerdo de iniciación sí se notifica siempre a los interesados, entendiendo en todo caso por tal al inculpado. La denuncia no confiere por sí sola la condición de interesado (art. 62.5), y la ley no condiciona la comunicación a la petición del denunciante ni a la gravedad de la infracción.",
+   "fuente": "Art. 64.1, párrafo segundo, LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 64.1, párrafo segundo literal: «Asimismo, la incoación se comunicará al denunciante cuando las normas reguladoras del procedimiento así lo prevean». Distractores falsos (62.5; no depende de la petición ni de la gravedad). No repite: la 7#21 pregunta el título y la 7#22 el contenido del 64.2. | Revisor 2 (CONFIRMADA): Art. 64.1, párr. 2.º LPAC literal. La explicación es exacta: el acuerdo se notifica a los interesados, entendiendo siempre por tal al inculpado, y el 62.5 dice que la denuncia no da por sí sola la condición de interesado. Distractores falsos. Sin pregunta previa de 64.1."
+  },
+  {
+   "q": "Según el art. 64.2.c) LPAC, el acuerdo de iniciación de un procedimiento sancionador identificará al instructor y, en su caso, al Secretario del procedimiento, con expresa indicación de:",
+   "options": [
+    "Su grupo de clasificación y su número de registro de personal",
+    "El régimen de recusación de los mismos",
+    "La fecha prevista para la conclusión de la fase de instrucción",
+    "El cuerpo o escala al que pertenecen y su forma de provisión"
+   ],
+   "correct": 1,
+   "exp": "El art. 64.2.c) exige la «identificación del instructor y, en su caso, Secretario del procedimiento, con expresa indicación del régimen de recusación de los mismos». No pide su grupo, cuerpo, registro de personal ni una fecha de fin de la instrucción.",
+   "fuente": "Art. 64.2.c) LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 64.2.c) literal: «Identificación del instructor y, en su caso, Secretario del procedimiento, con expresa indicación del régimen de recusación de los mismos». Distractores sin base. No repite: las preguntas existentes cubren el 64.2 a), b), d) y f) y el 64.3. | Revisor 2 (CONFIRMADA): Art. 64.2.c) LPAC literal: «con expresa indicación del régimen de recusación de los mismos». Distractores falsos. En T7 hay preguntas de 64.2 (genérica), d) y f), ninguna de la c)."
+  },
+  {
+   "q": "Según el art. 65.2 LPAC, si en un procedimiento de responsabilidad patrimonial iniciado de oficio los particulares presuntamente lesionados no se personan en el plazo establecido:",
+   "options": [
+    "Se les tendrá por desistidos y se archivará el procedimiento",
+    "El procedimiento quedará suspendido hasta que se personen",
+    "El procedimiento iniciado se instruirá igualmente",
+    "Se declarará la caducidad del procedimiento, previa advertencia"
+   ],
+   "correct": 2,
+   "exp": "El art. 65.2 concede a los presuntos lesionados diez días para alegar y proponer pruebas y añade: «El procedimiento iniciado se instruirá aunque los particulares presuntamente lesionados no se personen en el plazo establecido». No hay desistimiento, suspensión ni caducidad por esa falta de personación.",
+   "fuente": "Art. 65.2 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 65.2, inciso final literal: «El procedimiento iniciado se instruirá aunque los particulares presuntamente lesionados no se personen en el plazo establecido» (el plazo es de diez días). No repite la 7#164, que pregunta el plazo de diez días y no la consecuencia de no personarse. Distractores falsos. | Revisor 2 (CONFIRMADA): Art. 65.2, inciso final, LPAC: «El procedimiento iniciado se instruirá aunque los particulares presuntamente lesionados no se personen». Distractores falsos (no hay desistimiento, suspensión ni caducidad). La pregunta existente de 65.2 trata el plazo de diez días: es otro dato."
+  },
+  {
+   "q": "Según el art. 67.1 LPAC, cuando proceda reconocer derecho a indemnización por la anulación, en vía administrativa o contencioso-administrativa, de un acto o disposición de carácter general, el derecho a reclamar prescribirá:",
+   "options": [
+    "A los cuatro años de haberse dictado el acto o la disposición que luego se anuló",
+    "Al año de la publicación del acto o la disposición anulados en el diario oficial",
+    "A los seis meses de la firmeza de la resolución administrativa o de la sentencia",
+    "Al año de haberse notificado la resolución administrativa o la sentencia definitiva"
+   ],
+   "correct": 3,
+   "exp": "El art. 67.1, párrafo segundo, dispone que en esos casos «el derecho a reclamar prescribirá al año de haberse notificado la resolución administrativa o la sentencia definitiva». No cuenta desde que se dictó o publicó el acto anulado, y el plazo no es de cuatro años ni de seis meses.",
+   "fuente": "Art. 67.1, párrafo segundo, LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 67.1, párrafo segundo literal: «el derecho a reclamar prescribirá al año de haberse notificado la resolución administrativa o la sentencia definitiva». Plazo (un año) y momento inicial (la notificación) comprobados; los distractores cambian el plazo (cuatro años, seis meses) o el momento inicial (cuando se dictó o publicó el acto, la firmeza). No repite la 7#168 (regla general: un año desde el hecho o la manifestación del efecto lesivo). | Revisor 2 (CONFIRMADA): Art. 67.1, párr. 2.º LPAC literal: al año de notificarse la resolución administrativa o la sentencia definitiva. Distractores falsos. La pregunta existente de 67.1 trata la regla general del párr. 1.º."
+  },
+  {
+   "q": "Según el art. 67.1 LPAC, en la responsabilidad patrimonial derivada de una norma declarada inconstitucional o contraria al Derecho de la Unión Europea (art. 32.4 y 5 LRJSP), el derecho a reclamar prescribirá al año de:",
+   "options": [
+    "La notificación al perjudicado de la sentencia que declare la inconstitucionalidad o la contrariedad",
+    "La entrada en vigor de la norma que después se declara inconstitucional o contraria al Derecho de la Unión",
+    "La publicación, en el BOE o en el Diario Oficial de la Unión Europea, de la sentencia que así lo declare",
+    "La producción del daño, con independencia de la fecha en que se dicte la sentencia que lo declare"
+   ],
+   "correct": 2,
+   "exp": "El art. 67.1, párrafo tercero, dice que en esos casos «el derecho a reclamar prescribirá al año de la publicación en el “Boletín Oficial del Estado” o en el “Diario Oficial de la Unión Europea”, según el caso, de la sentencia que declare la inconstitucionalidad de la norma o su carácter contrario al Derecho de la Unión Europea». No cuenta desde la notificación al perjudicado, la entrada en vigor de la norma ni la producción del daño.",
+   "fuente": "Art. 67.1, párrafo tercero, LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 67.1, párrafo tercero literal: prescribe «al año de la publicación en el “Boletín Oficial del Estado” o en el “Diario Oficial de la Unión Europea”, según el caso, de la sentencia que declare la inconstitucionalidad de la norma o su carácter contrario al Derecho de la Unión Europea». Distractores falsos. No repite. | Revisor 2 (CONFIRMADA): Art. 67.1, párr. 3.º LPAC literal: al año de la publicación en el BOE o en el DOUE de la sentencia. Distractores falsos. No repite la regla general ya preguntada."
+  },
+  {
+   "q": "Según el art. 69.3 LPAC, la comunicación podrá presentarse dentro de un plazo posterior al inicio de la actividad:",
+   "options": [
+    "Siempre que se presente dentro del mes siguiente al inicio",
+    "Nunca: debe presentarse siempre antes de iniciar la actividad",
+    "Cuando lo autorice el órgano competente mediante resolución",
+    "Cuando la legislación correspondiente lo prevea expresamente"
+   ],
+   "correct": 3,
+   "exp": "El art. 69.3, párrafo segundo, dispone: «No obstante lo dispuesto en el párrafo anterior, la comunicación podrá presentarse dentro de un plazo posterior al inicio de la actividad cuando la legislación correspondiente lo prevea expresamente». No hay un plazo general de un mes ni depende de una resolución administrativa, y la ley sí admite la presentación posterior en ese caso.",
+   "fuente": "Art. 69.3, párrafo segundo, LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 69.3, párrafo segundo literal: «la comunicación podrá presentarse dentro de un plazo posterior al inicio de la actividad cuando la legislación correspondiente lo prevea expresamente». Distractores falsos (no hay plazo general de un mes). No repite la 7#175 (párrafo primero) ni las del tema 11. | Revisor 2 (CONFIRMADA): Art. 69.3, párr. 2.º LPAC literal. Distractores falsos. La pregunta existente de 69.3 trata el párr. 1.º (efectos desde la presentación)."
+  },
+  {
+   "q": "Según el art. 69.4 LPAC, la resolución que declare la inexactitud, falsedad u omisión esencial de datos de una declaración responsable podrá determinar, conforme a las normas sectoriales:",
+   "options": [
+    "La obligación de restituir la situación jurídica previa y la imposibilidad de instar un nuevo procedimiento con el mismo objeto durante el período que fije la ley",
+    "La inhabilitación del interesado para relacionarse con la Administración por medios electrónicos durante un año",
+    "La pérdida definitiva del derecho a ejercer cualquier otra actividad sujeta a declaración responsable o a comunicación previa, sin excepción alguna, en todo el territorio nacional",
+    "La imposición automática de una multa coercitiva del doble del valor de la actividad realizada sin cumplir los requisitos"
+   ],
+   "correct": 0,
+   "exp": "El art. 69.4, párrafo segundo, dice que esa resolución «podrá determinar la obligación del interesado de restituir la situación jurídica al momento previo al reconocimiento o al ejercicio del derecho o al inicio de la actividad correspondiente, así como la imposibilidad de instar un nuevo procedimiento con el mismo objeto durante un período de tiempo determinado por la ley». No prevé inhabilitaciones para la relación electrónica, pérdidas definitivas de otras actividades ni multas automáticas.",
+   "fuente": "Art. 69.4, párrafo segundo, LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 69.4, párrafo segundo literal: la resolución «podrá determinar la obligación del interesado de restituir la situación jurídica al momento previo ... así como la imposibilidad de instar un nuevo procedimiento con el mismo objeto durante un período de tiempo determinado por la ley», conforme a las normas sectoriales. Distractores sin base. No repite: la 7#176 y la 11#50 tratan el párrafo primero (imposibilidad de continuar la actividad). La correcta no es la opción más larga. | Revisor 2 (CONFIRMADA): Art. 69.4, párr. 2.º LPAC: «podrá determinar la obligación del interesado de restituir la situación jurídica ... así como la imposibilidad de instar un nuevo procedimiento con el mismo objeto durante un período de tiempo determinado por la ley». Distractores falsos. Las preguntas existentes de 69.4 (T7 y T11) tratan el párr. 1.º."
+  },
+  {
+   "q": "Según el art. 70.2 LPAC, además de los documentos que lo integran y del índice numerado cuando se remita, en el expediente administrativo deberá constar:",
+   "options": [
+    "El original en papel de la solicitud firmada por el interesado",
+    "Copia electrónica certificada de la resolución adoptada",
+    "Un informe de conformidad del órgano de control interno",
+    "Una diligencia notarial que acredite la integridad del expediente"
+   ],
+   "correct": 1,
+   "exp": "El art. 70.2 termina así: «Asimismo, deberá constar en el expediente copia electrónica certificada de la resolución adoptada». Los expedientes tienen formato electrónico, y la ley no exige originales en papel, informes de control interno ni diligencias notariales.",
+   "fuente": "Art. 70.2 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 70.2, inciso final literal: «Asimismo, deberá constar en el expediente copia electrónica certificada de la resolución adoptada». Distractores sin base. No repite la 7#33, sobre cómo se forma el expediente. | Revisor 2 (CONFIRMADA): Art. 70.2, inciso final, LPAC: «deberá constar en el expediente copia electrónica certificada de la resolución adoptada». Distractores falsos. Las preguntas existentes de 70.2 tratan la formación del expediente, no este dato."
+  },
+  {
+   "q": "Según el art. 77.3 bis LPAC, cuando el interesado alegue discriminación y aporte indicios fundados sobre su existencia, el órgano administrativo podrá recabar informe de:",
+   "options": [
+    "El Ministerio Fiscal, como garante de los derechos fundamentales",
+    "Los organismos públicos competentes en materia de igualdad",
+    "El Defensor del Pueblo o la institución autonómica equivalente",
+    "El Consejo de Estado u órgano consultivo de la Comunidad Autónoma"
+   ],
+   "correct": 1,
+   "exp": "El apartado 3 bis del art. 77, añadido por la Ley 15/2022 (en vigor desde el 14 de julio de 2022), traslada la carga de la prueba a quien se imputa la discriminación y añade: «A los efectos de lo dispuesto en el párrafo anterior, el órgano administrativo podrá recabar informe de los organismos públicos competentes en materia de igualdad». No menciona al Ministerio Fiscal, al Defensor del Pueblo ni al órgano consultivo.",
+   "fuente": "Art. 77.3 bis, párrafo segundo, LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): El art. 77.3 bis existe en el consolidado: lo añadió la disposición final 4 de la Ley 15/2022 (BOE-A-2022-11589), publicada el 13/07/2022 y en vigor desde el 14/07/2022, como dice la explicación. Párrafo segundo literal: «el órgano administrativo podrá recabar informe de los organismos públicos competentes en materia de igualdad». No repite la 7#121, que pregunta por la carga de la prueba del párrafo primero. La 2#121 se parece, pero es el art. 13.1 de la LO 3/2007 (órgano judicial), otra norma y otro tema. | Revisor 2 (CONFIRMADA): Art. 77.3 bis, párr. 2.º LPAC, añadido por la DF 4.ª de la Ley 15/2022 (en vigor desde el 14/07/2022, según la nota del BOE). Literal: «informe de los organismos públicos competentes en materia de igualdad». Distractores falsos. La pregunta existente de 77.3 bis trata la carga de la prueba (párr. 1.º)."
+  },
+  {
+   "q": "Según el art. 77.4 LPAC, en los procedimientos de carácter sancionador vincularán a las Administraciones Públicas:",
+   "options": [
+    "Los hechos declarados probados por resoluciones judiciales penales firmes",
+    "Las calificaciones jurídicas de cualquier sentencia firme, sea cual sea su orden",
+    "Los hechos que el denunciante relate en la denuncia que motiva la incoación",
+    "Las conclusiones del informe del órgano de asesoramiento jurídico de la entidad"
+   ],
+   "correct": 0,
+   "exp": "El art. 77.4 dispone que «los hechos declarados probados por resoluciones judiciales penales firmes vincularán a las Administraciones Públicas respecto de los procedimientos sancionadores que substancien». Vinculan los hechos probados en resoluciones penales firmes, no las calificaciones jurídicas de cualquier sentencia, el relato del denunciante ni los informes jurídicos internos.",
+   "fuente": "Art. 77.4 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 77.4 literal: «los hechos declarados probados por resoluciones judiciales penales firmes vincularán a las Administraciones Públicas respecto de los procedimientos sancionadores que substancien». Distractores falsos. No repite en el tema 7 (la 18#72 es el art. 94.3 del TREBEP, de otro tema). | Revisor 2 (CONFIRMADA): Art. 77.4 LPAC literal: vinculan los hechos declarados probados por resoluciones judiciales penales firmes. Distractores falsos. Sin pregunta previa de 77.4."
+  },
+  {
+   "q": "Según el art. 77.6 LPAC, cuando la prueba consista en la emisión de un informe de un órgano administrativo, organismo público o entidad de derecho público, se entenderá que ese informe tiene carácter:",
+   "options": [
+    "Facultativo y no vinculante",
+    "Vinculante, pero no preceptivo",
+    "Facultativo, pero vinculante",
+    "Preceptivo"
+   ],
+   "correct": 3,
+   "exp": "El art. 77.6 dice que en ese caso «se entenderá que éste tiene carácter preceptivo». Es una excepción a la regla general del art. 80.1, según la cual los informes son facultativos y no vinculantes salvo disposición expresa. El art. 77.6 no les da carácter vinculante.",
+   "fuente": "Art. 77.6 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 77.6 literal: «se entenderá que éste tiene carácter preceptivo». No dice nada de que sea vinculante; la regla general (art. 80.1) es facultativo y no vinculante. Distractores falsos. No repite: la 7#128 es la regla general del 80.1. | Revisor 2 (CONFIRMADA): Art. 77.6 LPAC literal: «se entenderá que éste tiene carácter preceptivo». No le da carácter vinculante, así que los tres distractores son falsos. La pregunta existente de 80.1 trata la regla general, no esta especialidad."
+  },
+  {
+   "q": "Según el art. 77.7 LPAC, cuando la valoración de las pruebas practicadas pueda constituir el fundamento básico de la decisión, por ser pieza imprescindible para evaluar correctamente los hechos, deberá incluirse en:",
+   "options": [
+    "El acuerdo de iniciación del procedimiento",
+    "El acta de práctica de cada una de las pruebas",
+    "La propuesta de resolución",
+    "La notificación de apertura del trámite de audiencia"
+   ],
+   "correct": 2,
+   "exp": "El art. 77.7 dispone que esa valoración «deberá incluirse en la propuesta de resolución». No se exige en el acuerdo de iniciación, que es anterior a la prueba, ni en el acta de cada prueba ni en la notificación de la audiencia.",
+   "fuente": "Art. 77.7 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 77.7 literal: esa valoración «deberá incluirse en la propuesta de resolución». Distractores falsos. No repite: las 7#115 y 21#122 responden también «propuesta de resolución», pero sobre las alegaciones del art. 76.1, otro precepto y otro supuesto. | Revisor 2 (CONFIRMADA): Art. 77.7 LPAC literal: «deberá incluirse en la propuesta de resolución». Distractores falsos (ninguno es «la resolución», que podría chocar con el 90.1). Sin pregunta previa de 77.7."
+  },
+  {
+   "q": "Según el art. 80.4 LPAC, si el informe debe emitirlo una Administración Pública distinta de la que tramita, para expresar el punto de vista de sus competencias, y el plazo transcurre sin que se haya emitido:",
+   "options": [
+    "Se suspenderá necesariamente el procedimiento hasta su recepción, aunque se supere el plazo máximo para resolver",
+    "Se entenderá emitido en sentido favorable y tendrá carácter vinculante para el órgano que deba resolver",
+    "Deberá reiterarse la petición y, si tampoco se emite, el procedimiento caducará a los tres meses",
+    "Se podrán proseguir las actuaciones, y el informe emitido fuera de plazo podrá no ser tenido en cuenta al resolver"
+   ],
+   "correct": 3,
+   "exp": "El art. 80.4 dispone que en ese caso «se podrán proseguir las actuaciones» y que «el informe emitido fuera de plazo podrá no ser tenido en cuenta al adoptar la correspondiente resolución». La ley no impone la suspensión, no presume un informe favorable y vinculante ni prevé la caducidad del procedimiento por esa causa.",
+   "fuente": "Art. 80.4 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 80.4 literal: «se podrán proseguir las actuaciones. El informe emitido fuera de plazo podrá no ser tenido en cuenta al adoptar la correspondiente resolución». Distractores falsos: incluso el 80.3, para los preceptivos, dice que la suspensión del plazo «podrá» acordarse, no que sea obligatoria. No repite la 7#130 (80.3). | Revisor 2 (CONFIRMADA): Art. 80.4 LPAC, párrafos 1.º y 2.º, literal. Distractores falsos: la suspensión del 80.3 es potestativa y solo para informes preceptivos, no hay presunción favorable ni caducidad. La pregunta existente de 80.3 trata otro supuesto."
+  },
+  {
+   "q": "Según el art. 81.2 LPAC, cuando en un procedimiento de responsabilidad patrimonial sea preceptivo el dictamen del Consejo de Estado u órgano consultivo autonómico, el instructor remitirá una propuesta de resolución al órgano competente para solicitarlo en el plazo de:",
+   "options": [
+    "Quince días desde la finalización del período de prueba",
+    "Diez días desde la finalización del trámite de audiencia",
+    "Un mes desde la presentación de la reclamación",
+    "Diez días desde la recepción del informe del servicio"
+   ],
+   "correct": 1,
+   "exp": "El art. 81.2, párrafo segundo, dice que «el órgano instructor, en el plazo de diez días a contar desde la finalización del trámite de audiencia, remitirá al órgano competente para solicitar el dictamen una propuesta de resolución», o, en su caso, la propuesta de acuerdo de terminación convencional. El plazo no es de quince días ni de un mes, y no cuenta desde la prueba, la reclamación ni el informe del servicio.",
+   "fuente": "Art. 81.2, párrafo segundo, LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 81.2, párrafo segundo literal: «el órgano instructor, en el plazo de diez días a contar desde la finalización del trámite de audiencia, remitirá ... una propuesta de resolución». Plazo (diez días; hábiles por el art. 30.2, aunque la pregunta no lo plantea) y momento inicial comprobados. El distractor de los diez días desde el informe del servicio es falso. No repite las 7#94 y 7#132 (cuantía de 50.000 euros y dictamen en dos meses). | Revisor 2 (CONFIRMADA): Art. 81.2, párr. 2.º LPAC literal: diez días desde la finalización del trámite de audiencia. Distractores falsos. Las preguntas existentes de 81.2 tratan la cuantía de 50.000 euros y el plazo del dictamen, no este plazo."
+  },
+  {
+   "q": "Según el art. 81.3 LPAC, en las reclamaciones de responsabilidad patrimonial del Estado por el funcionamiento anormal de la Administración de Justicia es preceptivo el informe de:",
+   "options": [
+    "El Ministerio Fiscal, que se emitirá en el plazo máximo de diez días desde su solicitud",
+    "El Tribunal Supremo, que se emitirá en el plazo máximo de un mes",
+    "El Consejo General del Poder Judicial, que se emitirá en el plazo máximo de dos meses",
+    "El Consejo de Estado, que se emitirá en el plazo máximo de quince días hábiles"
+   ],
+   "correct": 2,
+   "exp": "El art. 81.3 dice que en esas reclamaciones «será preceptivo el informe del Consejo General del Poder Judicial que será evacuado en el plazo máximo de dos meses». Mientras tanto, el plazo para resolver queda suspendido, con un máximo de esos dos meses. La ley no atribuye ese informe al Ministerio Fiscal, al Tribunal Supremo ni al Consejo de Estado.",
+   "fuente": "Art. 81.3 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 81.3 literal: «será preceptivo el informe del Consejo General del Poder Judicial que será evacuado en el plazo máximo de dos meses». Órgano y plazo (dos meses) comprobados. Distractores falsos. No repite. | Revisor 2 (CONFIRMADA): Art. 81.3 LPAC literal: informe preceptivo del CGPJ, en el plazo máximo de dos meses. Distractores falsos en órgano y plazo. Sin pregunta previa de 81.3."
+  },
+  {
+   "q": "Según el art. 82.5 LPAC, en los procedimientos de responsabilidad patrimonial a que se refiere el art. 32.9 de la Ley de Régimen Jurídico del Sector Público, será necesario en todo caso dar audiencia a:",
+   "options": [
+    "El contratista",
+    "La entidad aseguradora de la Administración",
+    "El Ministerio Fiscal",
+    "El órgano de contratación"
+   ],
+   "correct": 0,
+   "exp": "El art. 82.5 dispone que en esos procedimientos «será necesario en todo caso dar audiencia al contratista, notificándole cuantas actuaciones se realicen en el procedimiento», para que se persone, alegue y proponga prueba. No se refiere a la aseguradora, al Ministerio Fiscal ni al órgano de contratación.",
+   "fuente": "Art. 82.5 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 82.5 literal: en los procedimientos del art. 32.9 LRJSP «será necesario en todo caso dar audiencia al contratista, notificándole cuantas actuaciones se realicen en el procedimiento». Distractores falsos. No repite las preguntas del 82.1 a 82.4. | Revisor 2 (CONFIRMADA): Art. 82.5 LPAC literal: «será necesario en todo caso dar audiencia al contratista». Distractores falsos. Sin pregunta previa de 82.5."
+  },
+  {
+   "q": "Según el art. 83.3 LPAC, la incomparecencia en el trámite de información pública:",
+   "options": [
+    "No impedirá a los interesados interponer los recursos procedentes contra la resolución definitiva",
+    "Supondrá para los interesados la pérdida de esa condición en el resto del procedimiento",
+    "Impedirá recurrir la resolución definitiva en vía administrativa, pero no en vía judicial",
+    "Equivaldrá a la conformidad con el contenido del expediente sometido a información pública"
+   ],
+   "correct": 0,
+   "exp": "El art. 83.3, párrafo primero, dice: «La incomparecencia en este trámite no impedirá a los interesados interponer los recursos procedentes contra la resolución definitiva del procedimiento». No priva de la condición de interesado, no limita los recursos y no equivale a conformidad.",
+   "fuente": "Art. 83.3, párrafo primero, LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 83.3, párrafo primero literal: «La incomparecencia en este trámite no impedirá a los interesados interponer los recursos procedentes contra la resolución definitiva del procedimiento». Distractores falsos. No repite la 7#138 (la comparecencia no da la condición de interesado), que es el párrafo segundo. | Revisor 2 (CONFIRMADA): Art. 83.3, párr. 1.º LPAC literal. Distractores falsos. La pregunta existente de 83.3 trata la comparecencia (no da la condición de interesado) y usa este dato solo como distractor; esta pregunta lo pregunta directamente. Dato distinto, no repetición."
+  },
+  {
+   "q": "Según el art. 88.1 LPAC, si el órgano competente quiere pronunciarse sobre cuestiones conexas que no hayan planteado los interesados, deberá ponerlo antes de manifiesto a estos por un plazo:",
+   "options": [
+    "De diez días, para que aleguen, sin posibilidad de aportar nuevos medios de prueba",
+    "No inferior a veinte días, mediante un anuncio publicado en el diario oficial",
+    "No superior a quince días, para que aleguen y aporten, en su caso, medios de prueba",
+    "De un mes, prorrogable por otros quince días a petición de los interesados"
+   ],
+   "correct": 2,
+   "exp": "El art. 88.1, párrafo segundo, permite pronunciarse sobre cuestiones conexas no planteadas «poniéndolo antes de manifiesto a aquéllos por un plazo no superior a quince días, para que formulen las alegaciones que estimen pertinentes y aporten, en su caso, los medios de prueba». El plazo mínimo de veinte días y el anuncio en diario oficial son propios de la información pública (art. 83.2), y la ley no prevé un mes prorrogable ni impide aportar pruebas.",
+   "fuente": "Art. 88.1, párrafo segundo, LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 88.1, párrafo segundo literal: «por un plazo no superior a quince días, para que formulen las alegaciones que estimen pertinentes y aporten, en su caso, los medios de prueba». Plazo comprobado: máximo, no mínimo. Los veinte días mínimos son del art. 83.2. Distractores falsos. No repite la 7#63 (88.1, párrafo primero). | Revisor 2 (CONFIRMADA): Art. 88.1, párr. 2.º LPAC literal: «por un plazo no superior a quince días, para que formulen las alegaciones ... y aporten, en su caso, los medios de prueba». Distractores falsos (el plazo mínimo de veinte días es el de la información pública del 83.2). Sin pregunta previa de cuestiones conexas."
+  },
+  {
+   "q": "¿Cuál de las siguientes circunstancias NO figura en el art. 89.1 LPAC entre las que permiten al órgano instructor acordar el archivo del procedimiento sancionador sin formular propuesta de resolución?",
+   "options": [
+    "Que los hechos no resulten acreditados en la instrucción",
+    "Que el presunto responsable reconozca voluntariamente su responsabilidad",
+    "Que se concluya, en cualquier momento, que ha prescrito la infracción",
+    "Que no se haya podido identificar a la persona o personas responsables"
+   ],
+   "correct": 1,
+   "exp": "El art. 89.1 permite el archivo sin propuesta de resolución por: a) inexistencia de los hechos; b) hechos no acreditados; c) hechos probados que no constituyan, de modo manifiesto, infracción; d) inexistencia o falta de identificación de los responsables, o que aparezcan exentos de responsabilidad; e) prescripción de la infracción, apreciada en cualquier momento. El reconocimiento de la responsabilidad no lleva al archivo: según el art. 85.1, permite resolver imponiendo la sanción que proceda.",
+   "fuente": "Art. 89.1 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 89.1: las causas de archivo sin propuesta son las letras a) a e); las opciones de los hechos no acreditados, la prescripción y la falta de identificación coinciden con las letras b), e) y d). El reconocimiento de responsabilidad no figura (art. 85.1: permite resolver imponiendo la sanción). No repite la 7#240, que pide señalar una causa que sí figura (inexistencia de los hechos) entre distractores inventados; esta pregunta la contraria y con causas reales como distractores. Por longitud no se delata. | Revisor 2 (CONFIRMADA): Art. 89.1 LPAC, letras a) a e): el reconocimiento de la responsabilidad no figura (lleva al 85.1, no al archivo). Las otras tres opciones reproducen las letras b), d) y e). La pregunta existente de 89.1 pregunta por la letra a); esta, de formato negativo, comprueba otras letras. Sin opciones que remitan a otras."
+  },
+  {
+   "q": "Según el art. 90.2 LPAC, en la resolución de un procedimiento sancionador:",
+   "options": [
+    "Se podrán aceptar hechos nuevos no determinados en el curso del procedimiento, siempre que se notifiquen al inculpado antes de dictar la resolución",
+    "Solo se podrán aceptar hechos distintos de los fijados en la propuesta cuando favorezcan al presunto responsable",
+    "Se podrán aceptar hechos distintos de los determinados en el procedimiento si así lo propone motivadamente el instructor",
+    "No se podrán aceptar hechos distintos de los determinados en el curso del procedimiento, con independencia de su diferente valoración jurídica"
+   ],
+   "correct": 3,
+   "exp": "El art. 90.2 dispone: «En la resolución no se podrán aceptar hechos distintos de los determinados en el curso del procedimiento, con independencia de su diferente valoración jurídica». Lo que puede cambiar es la valoración: si el órgano aprecia mayor gravedad que la de la propuesta, lo notifica al inculpado para que alegue en quince días. No cabe introducir hechos nuevos ni siquiera notificándolos, favoreciendo al inculpado o a propuesta del instructor.",
+   "fuente": "Art. 90.2 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 90.2, primer inciso literal: «En la resolución no se podrán aceptar hechos distintos de los determinados en el curso del procedimiento, con independencia de su diferente valoración jurídica». Distractores falsos. No repite la 7#244 (mayor gravedad, quince días). | Revisor 2 (CONFIRMADA): Art. 90.2, primer inciso, LPAC literal. Distractores falsos: la notificación al inculpado solo procede cuando se aprecia mayor gravedad. La pregunta existente de 90.2 trata el segundo inciso (mayor gravedad, quince días)."
+  },
+  {
+   "q": "Según el art. 90.3 LPAC, una resolución sancionadora ya ejecutiva se podrá suspender cautelarmente si el interesado:",
+   "options": [
+    "Interpone recurso extraordinario de revisión dentro del plazo legal, aunque no haya solicitado expresamente la suspensión",
+    "Abona voluntariamente el veinte por ciento del importe de la sanción impuesta antes de su vencimiento",
+    "Manifiesta su intención de recurrir en vía contencioso-administrativa la resolución firme en vía administrativa",
+    "Solicita la revisión de oficio de la resolución alegando una causa de nulidad de pleno derecho"
+   ],
+   "correct": 2,
+   "exp": "El art. 90.3, párrafo segundo, dice: «Cuando la resolución sea ejecutiva, se podrá suspender cautelarmente, si el interesado manifiesta a la Administración su intención de interponer recurso contencioso-administrativo contra la resolución firme en vía administrativa». Esa suspensión termina si pasa el plazo sin recurrir, si al recurrir no se pide la suspensión o cuando el juez se pronuncia sobre ella. La ley no la liga al recurso de revisión, a un pago parcial ni a una solicitud de revisión de oficio.",
+   "fuente": "Art. 90.3, párrafo segundo, LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "DUDOSA",
+   "notaRevision": "Revisor 1 (DUDOSA): La correcta es literal del art. 90.3, párrafo segundo («si el interesado manifiesta a la Administración su intención de interponer recurso contencioso-administrativo contra la resolución firme en vía administrativa»). Pero el enunciado («se podrá suspender cautelarmente si...») deja dos distractores que la propia LPAC hace posibles. El art. 117.2 permite al órgano que resuelve cualquier recurso, el extraordinario de revisión incluido, suspender la ejecución de oficio o a solicitud si hay perjuicio de imposible o difícil reparación o nulidad del 47.1; eso hace defendible la opción del recurso extraordinario «aunque no haya solicitado expresamente la suspensión». El art. 108 permite suspender la ejecución una vez iniciada la revisión de oficio, que puede instarse a solicitud del interesado (art. 106.1). La premisa «Según el art. 90.3» los descarta, pero un opositor que conozca los arts. 108 y 117 puede dudar. Arreglo: cambiar las opciones del recurso extraordinario y de la revisión de oficio por otras sin apoyo en la ley (p. ej., «Presenta alegaciones ante el órgano instructor en el plazo de diez días» o «Solicita por escrito el aplazamiento del pago de la multa»). | Revisor 2 (DUDOSA): La respuesta marcada reproduce el art. 90.3, párr. 2.º LPAC. Pero el enunciado pregunta en qué caso la resolución «se podrá suspender», y dos distractores describen supuestos en que la propia LPAC también permite suspender: al interponer un recurso (incluido el extraordinario de revisión), el art. 117.2 permite al órgano suspender incluso de oficio, y una vez iniciada la revisión de oficio por nulidad el art. 108 permite suspender la ejecución. Con el «según el art. 90.3» la marcada sigue siendo la única literal, pero esos distractores pueden defenderse. Arreglo: cambiar los distractores del recurso extraordinario de revisión y de la revisión de oficio por otros sin respaldo en la LPAC (p. ej., «Presenta una queja ante el Defensor del Pueblo contra la sanción» o «Solicita el aplazamiento del pago alegando dificultades económicas»)."
+  },
+  {
+   "q": "Según el art. 90.4 LPAC, la resolución del procedimiento complementario que fija la indemnización de los daños causados a la Administración por la conducta sancionada:",
+   "options": [
+    "Pondrá fin a la vía administrativa",
+    "Será recurrible en alzada ante el órgano superior",
+    "Requerirá dictamen previo del órgano consultivo",
+    "Solo agotará la vía administrativa si el infractor la acepta"
+   ],
+   "correct": 0,
+   "exp": "El art. 90.4 dice que la cuantía de esos daños, si no quedó determinada en el expediente, se fija en un procedimiento complementario «cuya resolución será inmediatamente ejecutiva», y termina: «La resolución del procedimiento pondrá fin a la vía administrativa». Por eso no cabe alzada, y la ley no exige dictamen ni la aceptación del infractor.",
+   "fuente": "Art. 90.4 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 90.4, inciso final literal: «La resolución del procedimiento pondrá fin a la vía administrativa»; además es «inmediatamente ejecutiva». Distractores falsos (no cabe alzada contra lo que agota la vía, no hay dictamen, la aceptación del infractor no influye). No repite las 7#246 y 7#247, que tratan otros incisos del 90.4. | Revisor 2 (CONFIRMADA): Art. 90.4, inciso final, LPAC: «La resolución del procedimiento pondrá fin a la vía administrativa». Distractores falsos. Las preguntas existentes de 90.4 tratan el procedimiento complementario y la terminación convencional, no este efecto."
+  },
+  {
+   "q": "Según el art. 92 LPAC, en el caso de las Entidades de Derecho Público, los procedimientos de responsabilidad patrimonial los resolverán:",
+   "options": [
+    "En todo caso el Consejo de Ministros, sea cual sea la Administración de la que dependan",
+    "Siempre el titular del departamento al que estén adscritas, sin que sus normas reguladoras puedan disponer otra cosa",
+    "El órgano consultivo que haya emitido el dictamen preceptivo sobre la reclamación",
+    "Los órganos que fijen las normas de su régimen jurídico y, en su defecto, los que señala ese mismo artículo"
+   ],
+   "correct": 3,
+   "exp": "El art. 92, párrafo tercero, dice: «En el caso de las Entidades de Derecho Público, las normas que determinen su régimen jurídico podrán establecer los órganos a quien corresponde la resolución de los procedimientos de responsabilidad patrimonial. En su defecto, se aplicarán las normas previstas en este artículo». El Consejo de Ministros solo resuelve en los casos del art. 32.3 LRJSP o cuando una ley lo disponga, y el órgano consultivo dictamina pero no resuelve.",
+   "fuente": "Art. 92, párrafo tercero, LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 92, párrafo tercero literal: las normas del régimen jurídico de las Entidades de Derecho Público «podrán establecer los órganos a quien corresponde la resolución ... En su defecto, se aplicarán las normas previstas en este artículo». Distractores falsos. Regla 9: no nombra ningún órgano municipal concreto, así que vale también para Zaragoza. El consolidado no trae notas del TC sobre el art. 92. No repite las 7#96, 7#251 y 7#252 (párrafos primero y segundo). | Revisor 2 (CONFIRMADA): Art. 92, párr. 3.º LPAC literal. Distractores falsos (el Consejo de Ministros solo actúa en el ámbito de la AGE, en los casos del 32.3 LRJSP o por ley). Las preguntas existentes de 92 tratan los párrs. 1.º y 2.º. No choca con la regla 9: no atribuye la competencia a ningún órgano municipal."
+  },
+  {
+   "q": "Según el art. 94.3 LPAC, el desistimiento y la renuncia de los interesados podrán hacerse:",
+   "options": [
+    "Únicamente por escrito presentado en el registro electrónico del órgano que tramita",
+    "Por cualquier medio que permita su constancia, siempre que incorpore las firmas que correspondan",
+    "Solo mediante comparecencia personal ante el instructor del procedimiento, de la que se levantará la correspondiente acta",
+    "Exclusivamente en documento público notarial o en documento con firma legitimada"
+   ],
+   "correct": 1,
+   "exp": "El art. 94.3 dispone: «Tanto el desistimiento como la renuncia podrán hacerse por cualquier medio que permita su constancia, siempre que incorpore las firmas que correspondan de acuerdo con lo previsto en la normativa aplicable». No se limita a un escrito en registro electrónico, a una comparecencia ni a un documento notarial.",
+   "fuente": "Art. 94.3 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 94.3 literal: «podrán hacerse por cualquier medio que permita su constancia, siempre que incorpore las firmas que correspondan de acuerdo con lo previsto en la normativa aplicable». Distractores falsos. No repite las 7#254 y 7#255 (94.2 y 94.4). | Revisor 2 (CONFIRMADA): Art. 94.3 LPAC literal. Distractores falsos. Sin pregunta previa de 94.3."
+  },
+  {
+   "q": "Según el art. 94.5 LPAC, si la cuestión suscitada por la incoación del procedimiento entraña interés general, ante el desistimiento o la renuncia del interesado la Administración:",
+   "options": [
+    "Deberá rechazarlos y exigir al interesado que continúe en el procedimiento",
+    "Podrá limitar sus efectos al interesado y seguir el procedimiento",
+    "Deberá declarar concluso el procedimiento e iniciar otro de oficio",
+    "Solo podrá aceptarlos previo dictamen del órgano consultivo competente"
+   ],
+   "correct": 1,
+   "exp": "El art. 94.5 dice que en ese caso «la Administración podrá limitar los efectos del desistimiento o la renuncia al interesado y seguirá el procedimiento». No rechaza el desistimiento ni obliga al interesado a seguir, no tiene que cerrar el procedimiento para abrir otro y no necesita un dictamen.",
+   "fuente": "Art. 94.5 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 94.5 literal: «la Administración podrá limitar los efectos del desistimiento o la renuncia al interesado y seguirá el procedimiento». Distractores falsos. No repite: la 7#257 se parece en el supuesto (interés general), pero es la caducidad del 95.4. | Revisor 2 (CONFIRMADA): Art. 94.5 LPAC literal: «podrá limitar los efectos del desistimiento o la renuncia al interesado y seguirá el procedimiento». Distractores falsos. La pregunta existente de 95.4 (caducidad) es parecida, pero trata otra institución."
+  },
+  {
+   "q": "Según el art. 95.1 LPAC, contra la resolución que declare la caducidad del procedimiento:",
+   "options": [
+    "No procederá recurso alguno",
+    "Solo procederá el recurso extraordinario de revisión",
+    "Solo procederá recurso si se acredita que la paralización no era imputable al interesado",
+    "Procederán los recursos pertinentes"
+   ],
+   "correct": 3,
+   "exp": "El art. 95.1 termina así: «Contra la resolución que declare la caducidad procederán los recursos pertinentes». La ley no excluye el recurso, no lo limita al extraordinario de revisión y no lo condiciona a acreditar nada sobre la causa de la paralización.",
+   "fuente": "Art. 95.1 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 95.1, inciso final literal: «Contra la resolución que declare la caducidad procederán los recursos pertinentes». Distractores falsos. No repite la 7#66 (tres meses). | Revisor 2 (CONFIRMADA): Art. 95.1, inciso final, LPAC literal: «Contra la resolución que declare la caducidad procederán los recursos pertinentes». Distractores falsos. Sin pregunta previa de este inciso."
+  },
+  {
+   "q": "Según el art. 95.3 LPAC, si tras la caducidad se inicia un nuevo procedimiento por no haber prescrito la acción, pueden incorporarse los actos y trámites cuyo contenido se habría mantenido igual, pero en todo caso deberán cumplimentarse:",
+   "options": [
+    "Los trámites de alegaciones, proposición de prueba y audiencia al interesado",
+    "Los trámites de información pública, informe jurídico y dictamen del órgano consultivo",
+    "Todos los trámites del procedimiento caducado, sin que pueda incorporarse ninguno",
+    "Únicamente la audiencia al interesado, justo antes de redactar la propuesta de resolución"
+   ],
+   "correct": 0,
+   "exp": "El art. 95.3, párrafo segundo, permite incorporar al nuevo procedimiento los actos y trámites cuyo contenido se hubiera mantenido igual de no haberse producido la caducidad, y añade: «En todo caso, en el nuevo procedimiento deberán cumplimentarse los trámites de alegaciones, proposición de prueba y audiencia al interesado». No exige información pública, informe jurídico ni dictamen, permite incorporar actos y trámites, y no basta con la audiencia.",
+   "fuente": "Art. 95.3, párrafo segundo, LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 95.3, párrafo segundo literal: «En todo caso, en el nuevo procedimiento deberán cumplimentarse los trámites de alegaciones, proposición de prueba y audiencia al interesado»; se pueden incorporar los actos cuyo contenido no habría cambiado. Distractores falsos. No repite la 7#67 (95.3, párrafo primero). | Revisor 2 (CONFIRMADA): Art. 95.3, párr. 2.º LPAC literal: alegaciones, proposición de prueba y audiencia. Distractores falsos. La pregunta existente de 95.3 trata el párr. 1.º (prescripción)."
+  },
+  {
+   "q": "Según el art. 96.6.g) LPAC, cuando el Dictamen del Consejo de Estado u órgano equivalente es contrario al fondo de la propuesta y el procedimiento simplificado pasa a tramitarse de forma ordinaria, ¿qué actuaciones de la tramitación simplificada se entienden convalidadas?",
+   "options": [
+    "Ninguna: hay que volver al acuerdo de iniciación",
+    "Solo la iniciación y la subsanación de la solicitud",
+    "Todas las realizadas, salvo el propio Dictamen",
+    "Todas, incluido el Dictamen, que no se vuelve a pedir"
+   ],
+   "correct": 2,
+   "exp": "El art. 96.6.g), párrafo tercero, dispone que en ese caso «se entenderán convalidadas todas las actuaciones que se hubieran realizado durante la tramitación simplificada del procedimiento, a excepción del Dictamen del Consejo de Estado u órgano consultivo equivalente». No hay que empezar de nuevo, la convalidación no se limita a la iniciación y la subsanación, y el Dictamen queda fuera.",
+   "fuente": "Art. 96.6.g), párrafo tercero, LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 96.6.g), párrafo tercero literal: «se entenderán convalidadas todas las actuaciones que se hubieran realizado durante la tramitación simplificada del procedimiento, a excepción del Dictamen del Consejo de Estado u órgano consultivo equivalente». No repite la 7#190, que pregunta qué acuerda el órgano (seguir por la tramitación ordinaria) y no qué queda convalidado. | Revisor 2 (CONFIRMADA): Art. 96.6.g), párr. 3.º LPAC literal: se convalidan todas las actuaciones salvo el Dictamen. Distractores falsos. Las tres preguntas existentes de 96.6.g) tratan la suspensión del plazo, los quince días y el paso a la tramitación ordinaria, no la convalidación."
+  }
+ ]
+}
