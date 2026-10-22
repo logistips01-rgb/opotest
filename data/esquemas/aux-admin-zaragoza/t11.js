@@ -1,7 +1,7 @@
 /* Esquema · Auxiliar Administrativo · Tema 11
    Fuentes: LBRL (BOE-A-1985-5392) arts. 84-87, 44 y 47.2.k; Ley 40/2015 (BOE-A-2015-10566)
    arts. 118-127; Reglamento de Servicios de las Corporaciones locales de 1955
-   (BOE-A-1955-10057) Títulos I y II; Ley 38/2003 General de Subvenciones (BOE-A-2003-20977);
+   (BOE-A-1955-10057) art. 6, supletorio en Aragón; Ley 38/2003 General de Subvenciones (BOE-A-2003-20977);
    LCSP (BOE-A-2017-12902) art. 284.1 y DA 34.ª; Ley 7/1999 de Administración Local de Aragón
    (BOE-A-1999-10151); Decreto 347/2002 del Gobierno de Aragón (BOA núm. 139, 25/11/2002);
    TR de la Ley de Subvenciones de Aragón (BOE-A-2023-12919).
@@ -46,9 +46,9 @@ registerEsquema('aux-admin-zaragoza', 11, {
       ['193-198', 'Intervención en la actividad privada (policía)'], ['199-217', 'Servicios públicos locales y formas de gestión'],
       ['218-219', 'Consorcios'], ['224-228', 'Acción de fomento']
     ]},
-    {titulo: 'Decreto 347/2002 (RBASO) · Títulos II a VI', rango: 'arts. 122-…', items: [
+    {titulo: 'Decreto 347/2002 (RBASO) · Títulos II a VI', rango: 'arts. 122-328', items: [
       ['122-175', 'Intervención en la actividad privada'], ['176-197', 'Fomento: subvenciones y acción concertada'],
-      ['198-204', 'Actividad económica'], ['205-230', 'Servicios públicos'], ['231 y ss.', 'Formas de gestión']
+      ['198-204', 'Actividad económica'], ['205-230', 'Servicios públicos'], ['231-328', 'Formas de gestión']
     ]},
     {titulo: 'Ley General de Subvenciones', rango: 'arts. 2-22', items: [
       ['2', 'Concepto de subvención'], ['3', 'Ámbito: incluye la Administración local'], ['8', 'Plan estratégico y principios'],
@@ -131,7 +131,7 @@ registerEsquema('aux-admin-zaragoza', 11, {
       ]}
     ]},
 
-    {titulo: 'Servicio público local y formas de gestión', a: 'LBRL 85; LCSP 284.1 y DA 34.ª', bloques: [
+    {titulo: 'Servicio público local y formas de gestión', a: 'LBRL 85; LCSP 284.1 y DA 34.ª; Ley 7/1999 206', bloques: [
       {tipo: 'lista', items: [
         {t: 'Son servicios públicos locales los que prestan las entidades locales <b>en el ámbito de sus competencias</b>.', a: 'LBRL 85.1'},
         {t: 'Se gestionan de la forma <b>más sostenible y eficiente</b> de las enumeradas.', a: 'LBRL 85.2'},
@@ -177,13 +177,14 @@ registerEsquema('aux-admin-zaragoza', 11, {
       ]}
     ]},
 
-    {titulo: 'Iniciativa económica y reserva de servicios', a: 'LBRL 86 y 47.2.k', bloques: [
+    {titulo: 'Iniciativa económica y reserva de servicios', a: 'LBRL 86 y 47.2.k; Ley 7/1999 205', bloques: [
       {tipo: 'lista', items: [
         {t: 'Las entidades locales <b>pueden</b> ejercer la iniciativa pública en actividades económicas si se garantiza la <b>estabilidad presupuestaria</b> y la <b>sostenibilidad financiera</b>.', a: '86.1'},
         {t: 'El expediente de conveniencia y oportunidad incluye un <b>análisis del mercado</b> (oferta, demanda, rentabilidad y efectos sobre la concurrencia). Lo aprueba el <b>Pleno</b>, que fija la forma de gestión.', a: '86.1'},
         {t: 'Reservados: <b>abastecimiento domiciliario y depuración de aguas</b>; <b>recogida, tratamiento y aprovechamiento de residuos</b>; <b>transporte público de viajeros</b>. El Estado y las CCAA pueden reservar otros por <b>ley</b>.', a: '86.2'},
         {t: 'Ejecutarlos en <b>monopolio</b>: acuerdo del Pleno más <b>aprobación de la Comunidad Autónoma</b>.', a: '86.2'},
-        {t: 'La municipalización en monopolio y la forma concreta de gestión requieren <b>mayoría absoluta</b>.', a: '47.2.k'},
+        {t: 'La municipalización en monopolio y la forma concreta de gestión requieren <b>mayoría absoluta</b> (régimen común).', a: '47.2.k'},
+        {t: 'Ley aragonesa: servicios reservados en monopolio, acuerdo del Pleno por <b>mayoría absoluta</b> y aprobación del <b>Gobierno de Aragón</b>, que resuelve en <b>3 meses</b>; si no resuelve, se entiende aprobado.', a: 'Ley 7/1999 205.4'},
         {t: 'El Estado puede impugnar estos actos si incumplen la legislación de estabilidad presupuestaria.', a: '86.3'}
       ]}
     ]},
