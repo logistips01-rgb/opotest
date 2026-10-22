@@ -1,0 +1,202 @@
+[
+  {
+    "q": "Según el art. 12.2 de la LCSP, los contratos del sector público que no sean de obras, concesión de obras, concesión de servicios, suministro o servicios se calificarán:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 12.2 LCSP verificado en el consolidado (últ. act. 09/04/2026): «se calificarán según las normas de derecho administrativo o de derecho privado que les sean de aplicación». Los tres distractores (administrativo especial salvo ley, mixto, privado en todo caso) no son lo que dice el precepto. Sin solapamiento con las preguntas existentes del art. 12 (título y 12.1)."
+  },
+  {
+    "q": "Según el art. 13.1.b) de la LCSP, también es contrato de obras el que tiene por objeto la realización, por cualquier medio, de una obra que cumpla los requisitos fijados por la entidad del sector público contratante que ejerza:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 13.1.b) LCSP verificado literalmente («influencia decisiva en el tipo o el proyecto de la obra»). Dirección facultativa, propiedad del terreno y financiación no figuran. No repite preguntas existentes."
+  },
+  {
+    "q": "Según el art. 13.3 de la LCSP, podrán contratarse obras definidas mediante proyectos independientes relativos a cada una de las partes de una obra completa siempre que esas partes sean susceptibles de utilización independiente o puedan ser sustancialmente definidas y, además:",
+    "veredicto": "DUDOSA",
+    "notaRevision": "Respuesta correcta según el art. 13.3, párr. 2.º LCSP («y preceda autorización administrativa del órgano de contratación que funde la conveniencia de la referida contratación») y los tres distractores son falsos. Pero la explicación no es exacta: rebate un distractor que no existe («La ley no pone un límite de 50.000 euros por parte») y no menciona el que sí está (informe favorable de la Intervención). Arreglo: sustituir esa frase por «La ley no exige un informe previo de la Intervención, que todas las partes las ejecute el mismo contratista mediante procedimiento abierto ni que la obra se financie en un solo ejercicio»."
+  },
+  {
+    "q": "Según el art. 13.3 de la LCSP, se podrán celebrar contratos de obras sin referirse a una obra completa:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 13.3, párr. 3.º LCSP verificado: obras sin referirse a obra completa «en los supuestos previstos en el apartado 4 del artículo 30 ... ejecución de obras por la propia Administración Pública». El art. 30.4 existe y regula la colaboración con empresarios. Importe de contrato menor, subvención parcial y acuerdo de la Mesa no son causas legales."
+  },
+  {
+    "q": "Según el art. 14.2 de la LCSP, el contrato de concesión de obras podrá comprender, además de su objeto propio:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 14.2.b) LCSP verificado («actuaciones de reposición y gran reparación ... para mantenerse apta»). Garantía de recuperar la inversión contradice el riesgo operacional del 14.4; transmisión de la propiedad y servicios ajenos a la obra no figuran en el 14.2."
+  },
+  {
+    "q": "Según el art. 14.3 de la LCSP, cuando las obras accesorias o vinculadas a la obra principal de una concesión de obras puedan ser objeto de explotación o aprovechamiento económico, estos corresponderán:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 14.3 LCSP, último inciso, verificado: la explotación de las obras accesorias «corresponderán al concesionario conjuntamente con la explotación de la obra principal, en la forma determinada por los pliegos respectivos». Los otros tres repartos son falsos."
+  },
+  {
+    "q": "Según el art. 14.4 de la LCSP, al que remite también el art. 15.2 para la concesión de servicios, ¿qué se entiende por «riesgo de suministro»?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 14.4, párr. 1.º LCSP verificado: definición literal del riesgo de suministro; el art. 15.2 remite al 14.4. Distractores (precio de materias primas, retraso en pagos, incumplimiento de proveedores) falsos. Complementa sin repetir la pregunta existente sobre el riesgo de demanda."
+  },
+  {
+    "q": "Según el art. 14.4 de la LCSP, la parte de los riesgos transferidos al concesionario debe suponer una exposición real a las incertidumbres del mercado, de modo que cualquier pérdida potencial estimada en que incurra el concesionario:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 14.4, párr. 2.º LCSP verificado: «no es meramente nominal o desdeñable». Compensación, tope en la garantía y seguro obligatorio no figuran. No repite la pregunta existente sobre «no esté garantizado... recuperar las inversiones»."
+  },
+  {
+    "q": "Según el art. 16.2 de la LCSP, y sin perjuicio de lo previsto para los programas de ordenador, no tendrán la consideración de contrato de suministro los contratos relativos a:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 16.2 LCSP verificado: no son suministro los contratos relativos a «propiedades incorporales o valores negociables» (salvo programas de ordenador, 16.3.b). Bienes consumibles (16.1), energía (16.3.d) y fabricación (16.3.c) sí son suministro, así que los distractores son falsos."
+  },
+  {
+    "q": "Según el art. 16.3.a) de la LCSP, el contrato en que el empresario se obliga a entregar una pluralidad de bienes de forma sucesiva y por precio unitario, sin que la cuantía total se defina con exactitud al celebrarlo por estar subordinadas las entregas a las necesidades del adquirente, se considera:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 16.3.a) LCSP verificado: «En todo caso, se considerarán contratos de suministro» los de entregas sucesivas por precio unitario subordinadas a las necesidades del adquirente. Servicio, mixto y compraventa privada no son la calificación legal."
+  },
+  {
+    "q": "Según el art. 16.3.b) de la LCSP, los contratos de adquisición de programas de ordenador desarrollados a medida se consideran:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 16.3.b) LCSP verificado: los programas de ordenador desarrollados a medida «se considerarán contratos de servicios». Distractores falsos."
+  },
+  {
+    "q": "Según el art. 16.3.c) de la LCSP, los contratos de fabricación, en los que las cosas que ha de entregar el empresario deben elaborarse con arreglo a características peculiares fijadas previamente por la entidad contratante, son contratos de suministro:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 16.3.c) LCSP verificado: fabricación según características fijadas por la entidad es suministro «aun cuando esta se obligue a aportar, total o parcialmente, los materiales precisos». Los tres «solo si» no figuran en la ley."
+  },
+  {
+    "q": "Según el art. 17 de la LCSP, el contrato en que el adjudicatario se obliga a ejecutar un servicio de forma sucesiva y por precio unitario es:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 17, párr. 1.º LCSP verificado: el servicio de ejecución sucesiva y por precio unitario es contrato de servicios. Suministro (16.3.a exige entrega de bienes), concesión (15.1 exige derecho de explotación) y mixto son falsos. No repite las preguntas existentes del art. 17 (objeto; autoridad inherente)."
+  },
+  {
+    "q": "Según el art. 18.1.a) de la LCSP, en un contrato mixto compuesto en parte por servicios y en parte por suministros, el objeto principal se determina en función de:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 18.1.a), párr. 2.º LCSP verificado: en mixtos de servicios y suministros, el objeto principal se fija por «el mayor de los valores estimados de los respectivos servicios o suministros». La pregunta existente del 18.1.a) trata el párrafo primero (prestación principal), así que no la repite."
+  },
+  {
+    "q": "Según el art. 18.1.b) de la LCSP, si un contrato mixto reúne prestaciones de obras, suministros o servicios y prestaciones de una concesión, las prestaciones son separables y se decide adjudicar un contrato único, se aplicarán:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 18.1.b).2.º LCSP verificado: prestaciones separables y contrato único implican normas de obras, suministros o servicios si su valor estimado supera las cuantías de los arts. 20, 21 y 22; «en otro caso», las de concesión. Duración, aplicación siempre de las normas de la concesión y libre elección son falsas."
+  },
+  {
+    "q": "Según el art. 18.3 de la LCSP, el contrato mixto que contenga elementos de una concesión de obras o de una concesión de servicios deberá acompañarse:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Art. 18.3, párr. 2.º LCSP verificado: el mixto con elementos de concesión «deberá acompañarse del correspondiente estudio de viabilidad y, en su caso, del anteproyecto» (arts. 247, 248 y 285). Distractores falsos. La pregunta existente del 18.3 trata el párr. 1.º (proyecto si la obra supera 50.000 €)."
+  },
+  {
+    "q": "En un municipio que no es de gran población, la DA 2.ª.1 de la LCSP atribuye al Alcalde los contratos plurianuales de hasta cuatro años (prórrogas incluidas) si el importe acumulado de todas sus anualidades no supera seis millones de euros ni el 10 % de los recursos ordinarios del presupuesto:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "DA 2.ª.1 LCSP verificada: porcentaje «referido a los recursos ordinarios del presupuesto del primer ejercicio»; 4 años con prórrogas, 6 M€ y 10 % exactos. Cumple la regla 9: el enunciado se ciñe al régimen común y la explicación avisa de que en los municipios de gran población contrata la Junta de Gobierno Local (DA 2.ª.4; en Zaragoza, el Gobierno de Zaragoza, art. 14.1.f Ley 10/2017). La DA 2.ª es básica (DF 1.ª.3), así que desplaza al art. 30.1.m) de la Ley 7/1999 de Aragón. La pregunta existente de la DA 2.ª.1 pregunta por los cuatro años, no por el ejercicio de referencia."
+  },
+  {
+    "q": "Según la DA 2.ª.7 de la LCSP, en la Mesa de contratación de una Entidad Local actuará como Secretario de la Mesa:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "DA 2.ª.7, párr. 1.º LCSP verificada: «Actuará como Secretario un funcionario de la Corporación». Miembro electo, eventual (excluido por el párr. 3.º) y representante empresarial son falsos. Vale también para Zaragoza."
+  },
+  {
+    "q": "Según la DA 2.ª.7 de la LCSP, el personal eventual de una Entidad Local:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "DA 2.ª.7, párr. 3.º LCSP verificada: el personal eventual «en ningún caso» forma parte de la Mesa ni emite informes de valoración. La salvedad por falta de funcionarios de carrera es la del interino; la voz sin voto y los informes de valoración no se admiten. La pregunta existente trata del interino, no del eventual."
+  },
+  {
+    "q": "Según la DA 2.ª.7 de la LCSP, forman parte de la Mesa de contratación de una Entidad Local, como vocales, el Secretario, el Interventor y los que designe el órgano de contratación, sin que su número, en total, sea inferior a:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "DA 2.ª.7, párr. 1.º LCSP verificada: «sin que su número, en total, sea inferior a tres». Dos, cuatro y cinco son falsos. No hay pregunta existente sobre este número mínimo."
+  },
+  {
+    "q": "Según la DA 2.ª.8 de la LCSP, el comité de expertos que valora los criterios que dependen de un juicio de valor podrá estar integrado, en las Entidades Locales, por:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "DA 2.ª.8 LCSP verificada: personal funcionario de carrera o laboral fijo con cualificación apropiada que no haya participado en la redacción de la documentación técnica. El eventual no puede emitir informes de valoración (DA 2.ª.7), la regla del tercio de electos es de la Mesa y los redactores están excluidos. La pregunta existente de la DA 2.ª.8 trata del técnico jurista, así que no la repite."
+  },
+  {
+    "q": "Según la DA 2.ª.5 de la LCSP, las Juntas de Contratación que potestativamente constituyan las Entidades Locales actuarán como órgano de contratación en los contratos de suministro que se refieran a:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "DA 2.ª.5, párr. 1.º LCSP verificada: en suministros, las Juntas de Contratación actúan en los «que se refieran a bienes consumibles o de fácil deterioro por el uso». Equipos informáticos, energía y fabricación no están en la lista. La pregunta existente de la DA 2.ª.5 trata las obras, así que no la repite. Vale también para Zaragoza."
+  },
+  {
+    "q": "En un municipio que no es de gran población, la DA 2.ª.9 de la LCSP atribuye al Alcalde la celebración de contratos privados y la adquisición de bienes inmuebles hasta el 10 % de los recursos ordinarios del presupuesto y tres millones de euros. ¿Qué magnitud se compara con esos límites?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "DA 2.ª.9 LCSP verificada: la magnitud es «el presupuesto base de licitación, en los términos definidos en el artículo 100.1»; 10 % y 3 M€ exactos. Cumple la regla 9: el enunciado se ciñe al régimen común y la explicación remite a la DA 2.ª.11 para gran población (en Zaragoza, art. 14.1.g Ley 10/2017). Aviso: la pregunta existente de la DA 2.ª.9 (respuesta «tres millones») ya menciona en su enunciado el presupuesto base de licitación. Pregunta otro dato y no es duplicado, pero conviene tenerlo en cuenta."
+  },
+  {
+    "q": "Según la DA 3.ª.2 de la LCSP, las Entidades Locales podrán tramitar anticipadamente los contratos:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "DA 3.ª.2 LCSP verificada: tramitación anticipada de contratos cuya ejecución empiece en el ejercicio siguiente o cuya financiación dependa de préstamo, crédito o subvención. Emergencia, contratos menores de menos de 15.000 € y plurianuales de más de 4 años no son los supuestos del precepto."
+  },
+  {
+    "q": "Según la DA 3.ª.2 de la LCSP, cuando una Entidad Local tramita anticipadamente un contrato cuya financiación depende de un préstamo o de una subvención solicitada, la adjudicación se somete a:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "DA 3.ª.2 LCSP verificada: «condición suspensiva de la efectiva consolidación de los recursos». La condición resolutoria, la autorización autonómica y el informe del Tribunal de Cuentas son falsos."
+  },
+  {
+    "q": "Según la DA 3.ª.3 de la LCSP, la fiscalización del órgano Interventor de la Entidad Local recae también sobre la valoración de las repercusiones de cada nuevo contrato en el cumplimiento de los principios de estabilidad presupuestaria y sostenibilidad financiera, excepto en:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "DA 3.ª.3 LCSP en la redacción de la DF 27.13 de la Ley 31/2022 (en vigor desde el 01/01/2023), verificada: «excepto los contratos menores». Las otras tres excepciones no existen."
+  },
+  {
+    "q": "Según la DA 3.ª.3 de la LCSP, en la comprobación material de la inversión, el órgano interventor de la Entidad Local podrá estar asistido en la recepción por:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "DA 3.ª.3 LCSP vigente verificada: «técnico especializado en el objeto del contrato, que deberá ser diferente del director de obra y del responsable del contrato». Los distractores son falsos. No repite la pregunta existente (quién hace la comprobación material). Nota menor: la correcta nombra a dos distractores, pero las longitudes son homogéneas y no se acierta por la forma."
+  },
+  {
+    "q": "Según la DA 3.ª.4 de la LCSP, en los contratos celebrados en los municipios de menos de 5.000 habitantes, la aprobación del gasto podrá sustituirse por:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "DA 3.ª.4 LCSP verificada: en municipios de menos de 5.000 habitantes, la aprobación del gasto puede sustituirse por certificación de existencia de crédito del Secretario-Interventor o del Interventor. Distractores falsos. La explicación avisa de que no se aplica en Zaragoza."
+  },
+  {
+    "q": "Según la DA 3.ª.5 de la LCSP, en los contratos de concesión de obras y de servicios de las Entidades Locales, el expediente que acredita la conveniencia y oportunidad de la medida exigido por el art. 86.1 de la LBRL se tramitará conjuntamente con:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "DA 3.ª.5 LCSP verificada: el expediente del art. 86.1 LBRL «se tramitará conjuntamente con el estudio de viabilidad regulado en esta Ley». Distractores falsos."
+  },
+  {
+    "q": "Según la DA 3.ª.6 de la LCSP, cuando un municipio carezca de oficinas o unidades propias de supervisión de proyectos, la supervisión de sus proyectos de obras podrá efectuarse por:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "DA 3.ª.6 LCSP verificada: los municipios sin oficinas propias pueden supervisar por las de la Diputación provincial o la Administración autonómica uniprovincial. La OIReScon, el director facultativo y la Junta Consultiva no figuran. En Aragón, el art. 231 de la Ley 7/1999 y la DA 2.ª.12 LCSP extienden la referencia a las comarcas, lo que no hace cierto ningún distractor. Zaragoza tiene unidades propias, así que no le afecta. No repite la pregunta del examen sobre la DA 3.ª.6 (si se aplican las normas de supervisión)."
+  },
+  {
+    "q": "Según la DA 3.ª.6 de la LCSP, en el acuerdo por el que una Entidad Local aprueba un proyecto de obras se recogerá expresamente:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "DA 3.ª.6, última frase, LCSP verificada: «se recogerá expresamente la referencia a la supervisión favorable del mismo». Distractores falsos."
+  },
+  {
+    "q": "Según la DA 3.ª.7 de la LCSP, en los municipios de menos de 5.000 habitantes, cuando la financiación de una obra exceda de un presupuesto anual y se redacten proyectos independientes para cada una de sus partes, la ejecución de cada proyecto:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "DA 3.ª.7 LCSP verificada: en municipios de menos de 5.000 habitantes, cada proyecto «podrá ser objeto de un contrato diferente, sin perjuicio de la aplicación de los artículos 99 y 101». Distractores falsos. La explicación remite bien a la DA 2.ª.3 (autoriza el Pleno)."
+  },
+  {
+    "q": "Según la DA 3.ª.8 de la LCSP, el informe jurídico (del Secretario o, en los municipios de gran población, del titular de la asesoría jurídica) es preceptivo, entre otros casos, en:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "DA 3.ª.8, párr. 1.º LCSP verificada: el informe jurídico preceptivo incluye revisión de precios y prórrogas. Formalización, devolución de garantía y designación de vocales no están en la lista. El paréntesis sobre los municipios de gran población (asesoría jurídica, párr. 2.º) es exacto y vale para Zaragoza."
+  },
+  {
+    "q": "En un municipio de gran población como Zaragoza, ¿a quién corresponde, según la DA 3.ª.8 de la LCSP, la coordinación de las obligaciones de publicidad e información establecidas en la Ley 19/2013, de Transparencia?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "DA 3.ª.8, párr. 2.º LCSP verificada: en los municipios del Título X LBRL, la coordinación de la publicidad de la Ley 19/2013 «corresponderá al titular del Órgano de Apoyo a la Junta de Gobierno». Asesoría jurídica (que emite los informes), Secretario General del Pleno e Intervención son falsos. En Zaragoza ese órgano existe como «órgano de apoyo al Gobierno de Zaragoza» (art. 13.4 Ley 10/2017); conviene añadirlo a la explicación, aunque no es imprescindible. Es la pregunta inversa de la del examen 31-may-2026 P11 (informes: asesoría jurídica), pero pregunta otro dato y no es duplicado."
+  },
+  {
+    "q": "En un municipio que no es de gran población, ¿a quién atribuye la DA 3.ª.8 de la LCSP la coordinación de las obligaciones de publicidad e información que establece la Ley 19/2013, de Transparencia?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "DA 3.ª.8, párr. 1.º LCSP verificada: «Corresponderá también al Secretario la coordinación...». Cumple la regla 9: el enunciado se ciñe al régimen común y la explicación avisa del régimen de Zaragoza. Interventor, Alcalde y Tesorero son falsos."
+  },
+  {
+    "q": "Según la DA 3.ª.9 de la LCSP, en los contratos de las Entidades Locales que tengan por objeto la adquisición de bienes inmuebles, el importe de la adquisición podrá aplazarse:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "DA 3.ª.9 LCSP verificada: aplazamiento «de hasta cuatro años», con los trámites de las Haciendas Locales para gastos futuros. 2, 6 y 10 años con sus requisitos son falsos. No hallé en la Ley 7/1999 de Aragón ninguna regla de aplazamiento que la contradiga, y la DA 3.ª es básica."
+  },
+  {
+    "q": "Según la DA 3.ª.9 de la LCSP, el aplazamiento de pago previsto para la adquisición de bienes inmuebles por las Entidades Locales también podrá utilizarse para:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "DA 3.ª.9, inciso final, LCSP verificada: también vale para adquirir títulos del capital de entidades del sector público local para su reestructuración. Distractores falsos."
+  },
+  {
+    "q": "Según la DA 3.ª.10 de la LCSP, además de al sistema estatal de contratación centralizada y a las centrales de las Comunidades Autónomas y de otras Entidades Locales, las Entidades Locales podrán adherirse a las centrales de contratación que creen:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "DA 3.ª.10 LCSP verificada: las centrales de las asociaciones de entidades locales de la DA 5.ª LBRL (y las de la AGE, que no figuran entre las opciones). Cámaras de comercio, empresas privadas y colegios profesionales son falsos. La pregunta existente sobre la DA 3.ª.10 responde con las CCAA y otras EELL, que este enunciado da por supuestas, así que no la repite."
+  },
+  {
+    "q": "Según la DA 3.ª.11 de la LCSP, pueden licitar un contrato de concesión de servicios no sujeto a regulación armonizada que abarque la gestión de dos o más servicios públicos diferentes los municipios de población inferior a:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "DA 3.ª.11 LCSP verificada: «Los Municipios de población inferior a 20.000 habitantes». 5.000, 10.000 y 50.000 son falsos. No afecta a Zaragoza, ni el enunciado lo sugiere."
+  },
+  {
+    "q": "Según la DA 3.ª.11 de la LCSP, un municipio de menos de 20.000 habitantes puede licitar un único contrato de concesión de servicios no sujeto a regulación armonizada para gestionar dos o más servicios públicos diferentes, siempre que la anualidad media del contrato no supere:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "DA 3.ª.11 LCSP verificada: «la anualidad media del contrato no supere los 200.000 euros». 100.000, 500.000 y 1.000.000 son falsos."
+  }
+]
