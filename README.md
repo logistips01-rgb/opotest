@@ -70,8 +70,6 @@ window.registerOposicion({slug:'mi-oposicion', temas:TEMAS, questions:QUESTIONS}
   slug:'mi-oposicion',
   title:'Nombre de la oposición',
   org:'Organismo',
-  emoji:'📗',
-  color:'#c8102e',
   files:['data/mi-oposicion.js'],   // el primero es el banco base
   preguntas:0            // orientativo; se corrige solo al abrir la oposición
 }

@@ -48,6 +48,8 @@
       failHistory: [], // [{tema, q}]
       streak: 0,       // aciertos seguidos ahora mismo
       bestStreak: 0,   // récord de aciertos seguidos
+      last: null,      // {tema, title, at}: último tema practicado
+      today: null,     // {date:'AAAA-MM-DD', n}: preguntas respondidas ese día
       updatedAt: null
     };
   }
@@ -62,6 +64,8 @@
     if(Number.isFinite(raw.streak) && raw.streak >= 0) s.streak = raw.streak;
     if(Number.isFinite(raw.bestStreak) && raw.bestStreak >= 0) s.bestStreak = raw.bestStreak;
     if(s.bestStreak < s.streak) s.bestStreak = s.streak;
+    if(raw.last && Number.isFinite(raw.last.tema)) s.last = raw.last;
+    if(raw.today && typeof raw.today.date === 'string' && Number.isFinite(raw.today.n)) s.today = raw.today;
     s.updatedAt = raw.updatedAt || null;
     return s;
   }
@@ -72,8 +76,15 @@
     try{ return JSON.parse(raw); }catch(e){ return null; }
   }
 
+  /* Fecha local (no UTC): "hoy" es el día del móvil de quien estudia. */
+  function hoy(){
+    const d = new Date();
+    return d.getFullYear() + '-' + String(d.getMonth()+1).padStart(2,'0') + '-' + String(d.getDate()).padStart(2,'0');
+  }
+
   const OpoStore = {
     backend: adapter.name,
+    hoy,
 
     /* Estado de una oposición concreta. */
     async load(slug){

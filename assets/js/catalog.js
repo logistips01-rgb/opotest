@@ -18,8 +18,6 @@
       slug:'aux-admin-zaragoza',
       title:'Auxiliar Administrativo',
       org:'Ayuntamiento de Zaragoza',
-      emoji:'📘',
-      color:'#c8102e',
       // el primero es el banco base; tools/fusionar.js añade aquí
       // los archivos de ampliación cuando los crea
       files:['data/aux-admin-zaragoza.js', 'data/aux-admin-zaragoza.ampliacion.js'],
@@ -30,8 +28,6 @@
       slug:'policia-local-zaragoza',
       title:'Policía Local',
       org:'Ayuntamiento de Zaragoza',
-      emoji:'👮',
-      color:'#1d3557',
       // el primero es el banco base; tools/fusionar.js añade aquí
       // los archivos de ampliación cuando los crea
       files:['data/policia-local-zaragoza.js'],
@@ -41,8 +37,6 @@
       slug:'tecnico-rrhh-prevencion-zaragoza',
       title:'Técnico Superior RRHH · Prevención',
       org:'Ayuntamiento de Zaragoza',
-      emoji:'🦺',
-      color:'#2a9d8f',
       // el primero es el banco base; tools/fusionar.js añade aquí
       // los archivos de ampliación cuando los crea
       files:['data/tecnico-rrhh-prevencion-zaragoza.js'],

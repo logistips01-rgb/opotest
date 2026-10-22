@@ -2773,3 +2773,40 @@ preguntas — una excepción puntual, no el patrón habitual de la app.
 Verificado en navegador: desde el hub, la tarjeta lleva a la página de
 convocatoria, el botón del PDF apunta al recurso correcto y el enlace de
 "volver" regresa al hub. Sin errores de consola.
+
+---
+
+## Rediseño "Ritmo" (propuesta B) aplicado (22-oct-2026)
+
+El usuario pidió cambiar el diseño, sin emojis ("le quitan profesionalidad").
+Se le presentaron dos propuestas (A "Expediente", institucional; B "Ritmo",
+app de estudio moderna) y eligió la B.
+
+- **Estilo** (`assets/css/base.css`, reescrito): blanco y verde azulado como
+  color principal, ámbar para la racha, tipografías Plus Jakarta Sans
+  (títulos) y Atkinson Hyperlegible (lectura), modo oscuro automático según
+  el ajuste del móvil. Se deja de usar el color propio de cada oposición.
+- **Sin emojis** en toda la app: inicio, test, rachas, resultados,
+  navegación inferior (ahora iconos de trazo en SVG) y página de
+  convocatoria. Se quitan los campos `emoji` y `color` de `catalog.js` y
+  del README.
+- **Inicio**: saludo, "Seguir donde lo dejaste" (lleva al último tema
+  practicado, `test.html?opo=…&tema=N`), aciertos seguidos, fallos por
+  repasar y anillo de aciertos por oposición.
+- **Temas**: filtro Todos / Por repasar / Dominados y nivel en tres puntos
+  (1 = empezado; 2 = 60 % o más con al menos 10 respondidas; 3 = 85 % o
+  más con al menos 30).
+- **Pregunta**: barra por segmentos (hasta 30 preguntas), etiquetas
+  "Correcta" / "Tu respuesta" en las opciones, cita de la norma encima de
+  la explicación.
+- **Datos nuevos en el progreso guardado** (`storage.js`): `last` (último
+  tema) y `today` (preguntas respondidas hoy). Las copias de seguridad
+  antiguas se siguen importando sin problema.
+- **Icono de la app** nuevo: "a." sobre verde azulado (sustituye la diana).
+- Pieza compartida nueva: `assets/js/ui.js` (formato de números, anillo,
+  iconos).
+
+Verificado en navegador (claro y oscuro, 390 px): inicio, temas, pregunta
+contestada, "Seguir donde lo dejaste", examen mezclado completo hasta
+resultados, fallos, progreso y página de convocatoria, sin errores de
+consola. El banco de preguntas no cambia (`tools/validar.js` correcto).

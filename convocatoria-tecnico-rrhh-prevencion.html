@@ -5,53 +5,44 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <title>Almitest · Convocatoria RRHH Prevención</title>
 <link rel="manifest" href="manifest.json">
-<meta name="theme-color" content="#1d3557">
+<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0d1412" media="(prefers-color-scheme: dark)">
 <link rel="icon" href="assets/icons/favicon-32.png" sizes="32x32">
 <link rel="icon" href="assets/icons/favicon-48.png" sizes="48x48">
 <link rel="apple-touch-icon" href="assets/icons/apple-touch-icon.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="Almitest">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Plus+Jakarta+Sans:wght@500;700;800&display=swap">
 <link rel="stylesheet" href="assets/css/base.css">
 <style>
-  .conv-screen{padding:16px 18px 28px;}
-  .conv-screen h2.section-title{margin-top:22px;}
-  .conv-screen h2.section-title:first-child{margin-top:4px;}
-  .conv-card{
-    background:var(--azul-claro);
-    border-radius:14px;
-    padding:14px 16px;
-    margin-bottom:10px;
-  }
-  .conv-card b{color:var(--azul);}
-  .conv-card.warn{background:#fff6e6;}
-  .conv-card.ok{background:#e6f7f2;}
-  .conv-list{margin:6px 0 0;padding-left:20px;}
-  .conv-list li{margin-bottom:6px;line-height:1.4;}
+  .conv-screen{gap:10px;}
+  .conv-screen h2.section-title{margin-top:14px;margin-bottom:0;}
+  .conv-card{background:var(--surface);border-radius:16px;padding:14px 16px;font-size:14.5px;line-height:1.5;}
+  .conv-card.warn{background:var(--amber-soft);}
+  .conv-list{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px;}
   .pdf-btn{
-    display:block;
-    text-align:center;
-    text-decoration:none;
-    background:var(--azul);
-    color:#fff;
-    font-weight:700;
-    padding:14px 16px;
-    border-radius:12px;
-    margin:10px 0 4px;
+    display:flex;align-items:center;justify-content:center;gap:8px;
+    text-decoration:none;background:var(--teal);color:var(--on-teal);
+    font-family:var(--display);font-weight:700;font-size:15px;
+    padding:15px 16px;border-radius:999px;margin-top:6px;
   }
+  .pdf-btn svg{width:18px;height:18px;}
   .pdf-btn:active{transform:scale(.98);}
-  .pdf-note{font-size:12px;color:var(--gris);text-align:center;margin-bottom:18px;}
-  .parte{margin-bottom:8px;}
-  .parte b{display:block;color:var(--azul);}
-  .fuentes{font-size:12px;color:var(--gris);margin-top:20px;line-height:1.5;}
+  .pdf-note{font-size:13px;color:var(--muted);text-align:center;line-height:1.45;}
+  .parte + .parte{margin-top:10px;}
+  .parte b{display:block;font-family:var(--display);}
+  .fuentes{font-size:12px;color:var(--muted);margin-top:14px;line-height:1.5;}
 </style>
 </head>
 <body>
 <div id="app">
   <header>
-    <a class="back-btn" href="index.html" title="Volver a mis oposiciones">←</a>
+    <a class="back-btn" href="index.html" title="Volver a mis oposiciones" aria-label="Volver a mis oposiciones"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg></a>
     <div class="htext">
-      <h1>🦺 Técnico Superior RRHH · Prevención</h1>
+      <h1>Técnico Superior RRHH · Prevención</h1>
       <div class="sub">Ayuntamiento de Zaragoza · convocatoria 2026</div>
     </div>
   </header>
@@ -132,7 +123,7 @@
 
     <h2 class="section-title">Bases oficiales completas</h2>
     <a class="pdf-btn" href="assets/docs/bopz170-a1-tecnico-superior-rrhh-prevencion.pdf" target="_blank" rel="noopener">
-      📄 Abrir el PDF oficial (BOPZ 170)
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 3H7a1 1 0 0 0-1 1v16a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V7z"/><path d="M14 3v4h4M9 13h6M9 17h6"/></svg>Abrir el PDF oficial (BOPZ 170)
     </a>
     <div class="pdf-note">
       Documento de 65 páginas: agrupa todas las categorías del grupo A1 de

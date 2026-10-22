@@ -5,22 +5,23 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <title>Almitest · Tus oposiciones</title>
 <link rel="manifest" href="manifest.json">
-<meta name="theme-color" content="#1d3557">
+<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0d1412" media="(prefers-color-scheme: dark)">
 <link rel="icon" href="assets/icons/favicon-32.png" sizes="32x32">
 <link rel="icon" href="assets/icons/favicon-48.png" sizes="48x48">
 <link rel="apple-touch-icon" href="assets/icons/apple-touch-icon.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="Almitest">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Plus+Jakarta+Sans:wght@500;700;800&display=swap">
 <link rel="stylesheet" href="assets/css/base.css">
 </head>
 <body>
 <div id="app">
   <header>
-    <div class="htext">
-      <h1>🎯 Almitest</h1>
-      <div class="sub">Tests de oposiciones · progreso guardado en tu dispositivo</div>
-    </div>
+    <div class="htext"><p class="logo">almitest<span>.</span></p></div>
   </header>
 
   <div id="screen-hub" class="screen">
@@ -30,6 +31,7 @@
 
 <script src="assets/js/storage.js"></script>
 <script src="assets/js/catalog.js"></script>
+<script src="assets/js/ui.js"></script>
 <script src="assets/js/hub.js"></script>
 <script>
 if('serviceWorker' in navigator){

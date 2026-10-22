@@ -20,9 +20,7 @@
   };
 
   /* ---------------- utilidades ---------------- */
-  function esc(s){
-    return String(s).replace(/[&<>"]/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-  }
+  const { esc, fmt, ring } = window.UI;
   function shuffle(arr){
     const a=[...arr];
     for(let i=a.length-1;i>0;i--){
@@ -58,47 +56,95 @@
   }
 
   /* ---------------- HOME de la oposición ---------------- */
+  let filtro = 'todos';
+
+  /* Nivel de un tema en tres puntos. Hace falta volumen además de
+     porcentaje: acertar 3 de 3 no es dominar un tema de 250 preguntas. */
+  function nivelTema(id){
+    const s = getTemaStats(id);
+    if(!s.seen) return {puntos:0, pct:null, s};
+    const pct = Math.round((s.correct/s.seen)*100);
+    let puntos = 1;
+    if(pct >= 60 && s.seen >= 10) puntos = 2;
+    if(pct >= 85 && s.seen >= 30) puntos = 3;
+    return {puntos, pct, s};
+  }
+  function tieneFallos(id){
+    return state.failHistory.some(f=>f.tema===id);
+  }
+
   function renderHome(){
     showScreen('home');
     document.querySelector('[data-nav="home"]').classList.add('active');
 
     let totalSeen=0, totalCorrect=0;
     TEMAS.forEach(t=>{ const s=getTemaStats(t.id); totalSeen+=s.seen; totalCorrect+=s.correct; });
-    const pct = totalSeen ? Math.round((totalCorrect/totalSeen)*100) : 0;
+    const pct = totalSeen ? Math.round((totalCorrect/totalSeen)*100) : null;
     const totalQ = window.countQuestions(QUESTIONS);
 
-    let html = `
-      <div class="stats-row">
-        <div class="stat-card"><div class="num">${totalSeen}</div><div class="lbl">Preguntas hechas</div></div>
-        <div class="stat-card"><div class="num">${pct}%</div><div class="lbl">Aciertos</div></div>
-        <div class="stat-card"><div class="num">${state.failHistory.length}</div><div class="lbl">Fallos guardados</div></div>
+    screens.home.innerHTML = `
+      <div class="chips three">
+        <div class="chip"><b>${fmt(totalSeen)}</b><small>Respondidas</small></div>
+        <div class="chip"><b>${pct===null?'—':pct+' %'}</b><small>Aciertos</small></div>
+        <div class="chip"><b>${fmt(state.failHistory.length)}</b><small>Fallos guardados</small></div>
       </div>
-      <button class="mode-btn" id="btn-mix">🎲 Examen mezclado (${Math.min(MIX_SIZE,totalQ)} preguntas)</button>
-      <button class="mode-btn secondary" id="btn-repaso-fallos">🔁 Repasar solo mis fallos</button>
-      <h2 class="section-title">Elige un tema</h2>
-      <div class="tema-list">
+      <button class="mode-btn" id="btn-mix">Examen mezclado <span class="sub">${Math.min(MIX_SIZE,totalQ)} preguntas</span></button>
+      <button class="mode-btn secondary" id="btn-repaso-fallos">Repasar mis fallos</button>
+      <h2 class="section-title">Temas</h2>
+      <div class="seg" role="tablist">
+        <button data-f="todos" role="tab">Todos</button>
+        <button data-f="repasar" role="tab">Por repasar</button>
+        <button data-f="dominados" role="tab">Dominados</button>
+      </div>
+      <div class="tema-list" id="tema-list"></div>
     `;
-
-    TEMAS.forEach(t=>{
-      const s = getTemaStats(t.id);
-      const pctT = s.seen ? Math.round((s.correct/s.seen)*100) : null;
-      const total = QUESTIONS[t.id] ? QUESTIONS[t.id].length : 0;
-      html += `
-        <button class="tema-item" data-tema="${t.id}" ${total===0?'disabled':''}>
-          <span class="t-title">Tema ${t.id}. ${esc(t.title)}</span>
-          <span class="t-right">
-            <span class="t-count">${total===0?'sin preguntas':total+' preg.'}</span>
-            ${pctT!==null ? `<span class="t-progress ${pctT>=70?'ok-color':'warn-color'}">${pctT}%</span>` : ''}
-          </span>
-        </button>
-      `;
-    });
-    html += `</div>`;
-    screens.home.innerHTML = html;
 
     document.getElementById('btn-mix').addEventListener('click', ()=>startQuiz('mix'));
     document.getElementById('btn-repaso-fallos').addEventListener('click', ()=>startQuiz('fails'));
-    screens.home.querySelectorAll('.tema-item[data-tema]').forEach(el=>{
+    screens.home.querySelectorAll('.seg button').forEach(b=>{
+      b.addEventListener('click', ()=>{ filtro = b.dataset.f; pintarTemas(); });
+    });
+    pintarTemas();
+  }
+
+  function pintarTemas(){
+    screens.home.querySelectorAll('.seg button').forEach(b=>{
+      const on = b.dataset.f === filtro;
+      b.classList.toggle('on', on);
+      b.setAttribute('aria-selected', on);
+    });
+
+    const lista = TEMAS.filter(t=>{
+      const n = nivelTema(t.id);
+      if(filtro === 'repasar') return n.s.seen > 0 && (n.pct < 70 || tieneFallos(t.id));
+      if(filtro === 'dominados') return n.puntos === 3;
+      return true;
+    });
+
+    let html = '';
+    lista.forEach(t=>{
+      const n = nivelTema(t.id);
+      const total = QUESTIONS[t.id] ? QUESTIONS[t.id].length : 0;
+      let detalle = total===0 ? 'Sin preguntas todavía' : fmt(total)+' preguntas';
+      if(total && n.pct !== null) detalle += ' · ' + n.pct + ' % de aciertos';
+      else if(total) detalle += ' · sin empezar';
+      const dots = [0,1,2].map(i=>`<i class="${i<n.puntos?'f':''}"></i>`).join('');
+      html += `
+        <button class="tema-item" data-tema="${t.id}" ${total===0?'disabled':''}>
+          <span class="n">${t.id}</span>
+          <span><span class="tt">${esc(t.title)}</span><span class="mm">${detalle}</span></span>
+          <span class="dots${n.pct!==null && n.pct<50 ? ' warn':''}" aria-label="Nivel ${n.puntos} de 3">${dots}</span>
+        </button>
+      `;
+    });
+    if(!lista.length){
+      html = `<div class="empty-list">${filtro==='dominados'
+        ? 'Todavía no hay temas dominados. Un tema cuenta como dominado con al menos 30 preguntas respondidas y un 85 % de aciertos.'
+        : 'No hay temas pendientes de repaso. Los temas con fallos guardados o por debajo del 70 % aparecerán aquí.'}</div>`;
+    }
+    const cont = document.getElementById('tema-list');
+    cont.innerHTML = html;
+    cont.querySelectorAll('.tema-item[data-tema]').forEach(el=>{
       if(el.disabled) return;
       el.addEventListener('click', ()=>startQuiz('tema', parseInt(el.dataset.tema)));
     });
@@ -130,6 +176,11 @@
       return;
     }
 
+    if(mode==='tema'){
+      state.last = {tema:temaId, title:temaTitle(temaId), at:new Date().toISOString()};
+      saveState();
+    }
+
     quizState = {
       mode, temaId,
       questions: shuffle(pool),
@@ -149,19 +200,24 @@
     quizState.answered = false;
 
     const pct = Math.round((i/qs.length)*100);
+    // Hasta 30 preguntas se ve un segmento por pregunta; con más (un tema
+    // entero), una barra continua.
+    const barra = qs.length <= 30
+      ? `<div class="progress-bar">${qs.map((_,k)=>`<i class="${k<i?'d':k===i?'c':''}"></i>`).join('')}</div>`
+      : `<div class="progress-bar cont"><div class="fill" style="width:${pct}%"></div></div>`;
 
     const optOrder = shuffle(q.options.map((opt,idx)=>({opt,idx})));
     let optHtml = '';
     optOrder.forEach(o=>{
-      optHtml += `<button class="option" data-idx="${o.idx}">${esc(o.opt)}</button>`;
+      optHtml += `<button class="option" data-idx="${o.idx}"><span>${esc(o.opt)}</span></button>`;
     });
 
     screens.quiz.innerHTML = `
+      ${barra}
       <div class="quiz-top">
-        <span>Pregunta ${i+1} de ${qs.length}</span>
-        <span>${rachaHtml()}✅ ${quizState.correctCount}</span>
+        <span>${i+1} de ${qs.length} · ${quizState.correctCount} acierto${quizState.correctCount===1?'':'s'}</span>
+        ${rachaHtml()}
       </div>
-      <div class="progress-bar"><div class="fill" style="width:${pct}%"></div></div>
       <div class="question-box">
         <div class="question-tema">Tema ${q.tema} · ${esc(temaTitle(q.tema))}</div>
         <div class="question-text">${esc(q.q)}</div>
@@ -184,8 +240,8 @@
     screens.quiz.querySelectorAll('.option').forEach(o=>{
       o.classList.add('disabled');
       const idx = parseInt(o.dataset.idx);
-      if(idx === q.correct) o.classList.add('correct');
-      else if(idx === chosenIdx) o.classList.add('wrong');
+      if(idx === q.correct){ o.classList.add('correct'); o.insertAdjacentHTML('beforeend','<em>Correcta</em>'); }
+      else if(idx === chosenIdx){ o.classList.add('wrong'); o.insertAdjacentHTML('beforeend','<em>Tu respuesta</em>'); }
     });
 
     if(isCorrect) quizState.correctCount++;
@@ -206,6 +262,10 @@
     s.seen++; if(isCorrect) s.correct++;
     state.progress[q.tema] = s;
 
+    const hoy = window.OpoStore.hoy();
+    if(!state.today || state.today.date !== hoy) state.today = {date:hoy, n:0};
+    state.today.n++;
+
     // histórico de fallos (una entrada por pregunta)
     const solucion = q.options[q.correct];
     if(!isCorrect){
@@ -221,10 +281,11 @@
        la explicación para que quepa, el artículo citado no debe perderse. */
     document.getElementById('explain-box').innerHTML = `
       <div class="explain">
-        <div class="explain-text">${isCorrect ? '✅ ¡Correcto! ' : '❌ Incorrecto. '}${esc(q.exp||'')}</div>
-        ${q.fuente ? `<div class="fuente">📖 ${esc(q.fuente)}</div>` : ''}
+        <div class="verdict ${isCorrect?'ok':'ko'}">${isCorrect ? 'Correcto' : 'Incorrecto'}</div>
+        ${q.fuente ? `<div class="fuente">${esc(q.fuente)}</div>` : ''}
+        <div class="explain-text">${esc(q.exp||'')}</div>
       </div>
-      <button class="next-btn" id="btn-next">${quizState.index+1 < quizState.questions.length ? 'Siguiente →' : 'Ver resultados'}</button>
+      <button class="next-btn" id="btn-next">${quizState.index+1 < quizState.questions.length ? 'Siguiente' : 'Ver resultados'}</button>
     `;
     document.getElementById('btn-next').addEventListener('click', nextQuestion);
 
@@ -273,16 +334,15 @@
      celebrar cada 100, para que una racha muy larga siga teniendo premio. */
   function hitoDeRacha(n){
     const HITOS = {
-      10:  {emoji:'🔥', titulo:'¡10 seguidas!',  frase:'Estás entrando en racha. Sigue así.',        fiesta:false},
-      25:  {emoji:'⚡', titulo:'¡25 seguidas!',  frase:'Esto ya no es suerte: te lo sabes.',          fiesta:false},
-      50:  {emoji:'🏆', titulo:'¡50 seguidas!',  frase:'Media centena sin fallar. Vas muy en serio.', fiesta:false}
+      10:  {titulo:'10 seguidas',  frase:'Estás entrando en racha. Sigue así.',        fiesta:false},
+      25:  {titulo:'25 seguidas',  frase:'Esto ya no es suerte: te lo sabes.',          fiesta:false},
+      50:  {titulo:'50 seguidas',  frase:'Media centena sin fallar. Vas muy en serio.', fiesta:false}
     };
     if(HITOS[n]) return Object.assign({n}, HITOS[n]);
     if(n >= 100 && n % 100 === 0){
       return {
         n,
-        emoji:'🎉',
-        titulo:`¡${n} SEGUIDAS!`,
+        titulo:`${n} seguidas`,
         frase: n === 100
           ? 'Cien aciertos sin un solo fallo. Esto hay que celebrarlo.'
           : `${n} aciertos seguidos. Esto ya es de otro nivel.`,
@@ -295,7 +355,7 @@
   function rachaHtml(){
     const n = state.streak || 0;
     if(n < 3) return '';                       // por debajo de 3 no es una racha
-    return `<span class="racha" title="Aciertos seguidos">🔥 ${n}</span> `;
+    return `<span class="racha" title="Aciertos seguidos">${n} seguidas</span>`;
   }
 
   function celebrarRacha(hito){
@@ -310,12 +370,11 @@
     overlay.innerHTML = `
       ${hito.fiesta ? '<div class="confeti" aria-hidden="true"></div>' : ''}
       <div class="racha-card" role="alert">
-        <div class="racha-emoji">${hito.emoji}</div>
         <div class="racha-num">${hito.n}</div>
         <div class="racha-titulo">${esc(hito.titulo)}</div>
         <div class="racha-frase">${esc(hito.frase)}</div>
-        ${state.bestStreak > hito.n ? `<div class="racha-record">Tu récord: ${state.bestStreak}</div>` : '<div class="racha-record">¡Nuevo récord!</div>'}
-        <button class="racha-btn" type="button">${hito.fiesta ? '¡Vamos! 🚀' : 'Seguir'}</button>
+        ${state.bestStreak > hito.n ? `<div class="racha-record">Tu récord: ${state.bestStreak}</div>` : '<div class="racha-record">Nuevo récord</div>'}
+        <button class="racha-btn" type="button">${hito.fiesta ? 'Seguir con la racha' : 'Seguir'}</button>
       </div>
     `;
     document.body.appendChild(overlay);
@@ -339,7 +398,7 @@
 
   function lanzarConfeti(contenedor){
     if(!contenedor) return;
-    const COLORES = ['#c8102e','#ffd200','#2a9d8f','#1d3557','#ff7b00','#7b5cff'];
+    const COLORES = ['#0f766e','#2bb3a6','#b45309','#f0a14a','#15803d','#d6eeea'];
     let html = '';
     for(let i=0;i<110;i++){
       const izq = Math.random()*100;
@@ -372,24 +431,22 @@
     if(quizState.sessionFails.length){
       failHtml = `<h2 class="section-title">Preguntas a repasar</h2><div class="fail-list">`;
       quizState.sessionFails.forEach(f=>{
-        failHtml += `<div class="fitem"><b>T${f.tema}:</b> ${esc(f.q)}<br><span style="color:#a3182b;">Tu respuesta: ${esc(f.chosen)}</span><br><span style="color:#1a6b5c;">Correcta: ${esc(f.correct)}</span></div>`;
+        failHtml += `<div class="fitem"><span><b>Tema ${f.tema}.</b> ${esc(f.q)}</span><span class="tu">Tu respuesta: ${esc(f.chosen)}</span><span class="ok">Correcta: ${esc(f.correct)}</span></div>`;
       });
       failHtml += `</div>`;
     }
 
     screens.result.innerHTML = `
-      <div class="result-circle" style="border-color:${pct>=70?'#2a9d8f':pct>=50?'#ffb703':'#c8102e'}">
-        <div class="pct">${pct}%</div>
-        <div class="lbl">${correct}/${total} correctas</div>
-      </div>
-      <div class="result-summary">${pct>=80?'¡Excelente dominio del tema! 🎉':pct>=60?'Vas bien, sigue repasando 💪':'Toca repasar más este bloque 📖'}</div>
+      ${ring(pct, {cls:'ring result-ring'}).replace(/<text[^>]*>\d+<\/text>/,
+        `<text class="pct" x="20" y="21" text-anchor="middle" font-size="9">${pct} %</text><text class="lbl" x="20" y="27.5" text-anchor="middle" font-size="3.6">${correct} de ${total}</text>`)}
+      <div class="result-summary">${pct>=80?'Excelente dominio del tema':pct>=60?'Vas bien, sigue repasando':'Toca repasar más este bloque'}</div>
       <div class="racha-resumen">
-        <span>🔥 Racha actual: <b>${state.streak||0}</b></span>
-        <span>🏅 Tu récord: <b>${state.bestStreak||0}</b></span>
+        <span>Racha actual <b>${state.streak||0}</b></span>
+        <span>Tu récord <b>${state.bestStreak||0}</b></span>
       </div>
       ${failHtml}
-      <button class="mode-btn" id="btn-again">🔁 Repetir</button>
-      <button class="mode-btn secondary" id="btn-home">🏠 Volver al inicio</button>
+      <button class="mode-btn" id="btn-again">Repetir</button>
+      <button class="mode-btn secondary" id="btn-home">Volver a los temas</button>
     `;
     document.getElementById('btn-again').addEventListener('click', ()=>{
       if(quizState.mode==='tema') startQuiz('tema', quizState.temaId);
@@ -404,12 +461,12 @@
     document.querySelector('[data-nav="repaso"]').classList.add('active');
     let html = `<h2 class="section-title">Tus fallos guardados (${state.failHistory.length})</h2>`;
     if(state.failHistory.length===0){
-      html += `<div class="loading">Aún no tienes fallos guardados.<br>¡Empieza a practicar!</div>`;
+      html += `<div class="empty-list">Aún no tienes fallos guardados. Las preguntas que falles se guardan aquí para repasarlas.</div>`;
     } else {
-      html += `<button class="mode-btn" id="btn-start-fails">🔁 Repasar ${state.failHistory.length} fallos</button>`;
+      html += `<button class="mode-btn" id="btn-start-fails">Repasar ${state.failHistory.length} fallos</button>`;
       html += `<div class="tema-list">`;
       state.failHistory.forEach(f=>{
-        html += `<div class="tema-item" style="cursor:default;"><span class="t-title">T${f.tema}: ${esc(f.q)}</span></div>`;
+        html += `<div class="tema-item plain"><span><span class="mm">Tema ${f.tema}</span><span class="tt">${esc(f.q)}</span></span></div>`;
       });
       html += `</div>`;
     }
@@ -423,17 +480,18 @@
     document.querySelector('[data-nav="stats"]').classList.add('active');
     let html = `<h2 class="section-title">Progreso por tema</h2><div class="tema-list">`;
     TEMAS.forEach(t=>{
-      const s = getTemaStats(t.id);
-      const pct = s.seen ? Math.round((s.correct/s.seen)*100) : null;
+      const n = nivelTema(t.id);
+      const dots = [0,1,2].map(i=>`<i class="${i<n.puntos?'f':''}"></i>`).join('');
       html += `
         <div class="tema-item" style="cursor:default;">
-          <span class="t-title">Tema ${t.id}. ${esc(t.title)}</span>
-          <span class="t-progress ${pct===null?'':(pct>=70?'ok-color':'warn-color')}">${pct===null?'Sin datos':pct+'% ('+s.correct+'/'+s.seen+')'}</span>
+          <span class="n">${t.id}</span>
+          <span><span class="tt">${esc(t.title)}</span><span class="mm">${n.pct===null?'Sin datos':n.pct+' % · '+n.s.correct+' de '+n.s.seen}</span></span>
+          <span class="dots${n.pct!==null && n.pct<50 ? ' warn':''}">${dots}</span>
         </div>
       `;
     });
     html += `</div>
-      <button class="mode-btn secondary" id="btn-reset" style="margin-top:16px;">🗑️ Borrar mi progreso en esta oposición</button>`;
+      <button class="mode-btn danger" id="btn-reset">Borrar mi progreso en esta oposición</button>`;
     screens.home.innerHTML = html;
 
     document.getElementById('btn-reset').addEventListener('click', async ()=>{
@@ -464,14 +522,13 @@
     if(!meta){
       document.getElementById('opo-title').textContent = 'Oposición no encontrada';
       screens.home.innerHTML = `<div class="loading">No se ha indicado una oposición válida.<br><br>
-        <button class="mode-btn" onclick="location.href='index.html'">🏠 Ir a mis oposiciones</button></div>`;
+        <button class="mode-btn" onclick="location.href='index.html'">Ir a mis oposiciones</button></div>`;
       return;
     }
 
     document.title = 'Almitest · ' + meta.title;
-    document.getElementById('opo-title').textContent = meta.emoji + ' ' + meta.title;
+    document.getElementById('opo-title').textContent = meta.title;
     document.getElementById('opo-sub').textContent = meta.org;
-    document.documentElement.style.setProperty('--acento', meta.color);
 
     try{
       const data = await window.loadOposicionData(meta.slug);
@@ -484,6 +541,11 @@
 
     state = await window.OpoStore.load(meta.slug);
     window.OpoStore.setCount(meta.slug, window.countQuestions(QUESTIONS));
+    document.getElementById('opo-sub').textContent = meta.org + ' · ' + fmt(window.countQuestions(QUESTIONS)) + ' preguntas';
     renderHome();
+
+    // test.html?opo=...&tema=N viene de "Seguir donde lo dejaste" en el inicio.
+    const temaPedido = parseInt(new URLSearchParams(location.search).get('tema'));
+    if(temaPedido && (QUESTIONS[temaPedido]||[]).length) startQuiz('tema', temaPedido);
   })();
 })();
