@@ -1,0 +1,41 @@
+{
+  "_comentario": [
+    "Normas del temario de Auxiliar Administrativo que vigila tools/vigilar-normas.js.",
+    "Las bases (BOPZ 170, 27-jul-2026) exigen las normas «vigentes en el momento de celebración de los ejercicios».",
+    "alias: expresiones regulares (sin distinguir mayúsculas) con las que el banco cita la norma en el campo «fuente».",
+    "temas: temas del banco y de los esquemas que se apoyan en la norma.",
+    "La foto de cada artículo (fecha de su última versión) se guarda en tools/normas-foto.json."
+  ],
+  "slug": "aux-admin-zaragoza",
+  "normas": [
+    {"id": "BOE-A-1978-31229", "nombre": "Constitución Española", "alias": ["\\bCE\\b", "Constituci[oó]n"], "temas": [1, 21]},
+    {"id": "BOE-A-2007-6115", "nombre": "LO 3/2007, igualdad efectiva de mujeres y hombres", "alias": ["LOIEMH", "LO 3/2007"], "temas": [2, 21]},
+    {"id": "BOE-A-2007-11593", "nombre": "Ley 4/2007 de Aragón, víctimas de violencia", "alias": ["Ley 4/2007"], "temas": [2, 21]},
+    {"id": "BOE-A-2007-8444", "nombre": "Estatuto de Autonomía de Aragón (LO 5/2007)", "alias": ["\\bEAAr?\\b", "LO 5/2007", "Estatuto de Autonom"], "temas": [3, 21]},
+    {"id": "BOE-A-2015-10565", "nombre": "Ley 39/2015, del Procedimiento Administrativo Común (LPAC)", "alias": ["LPAC", "Ley 39/2015"], "temas": [4, 5, 6, 7, 8, 21]},
+    {"id": "BOE-A-2015-10566", "nombre": "Ley 40/2015, de Régimen Jurídico del Sector Público", "alias": ["LRJSP", "Ley 40/2015"], "temas": [11, 21]},
+    {"id": "BOE-A-2017-12902", "nombre": "Ley 9/2017, de Contratos del Sector Público (LCSP)", "alias": ["LCSP", "Ley 9/2017"], "temas": [9, 11, 21]},
+    {"id": "BOE-A-1985-5392", "nombre": "Ley 7/1985, Reguladora de las Bases del Régimen Local (LBRL)", "alias": ["LBRL", "Ley 7/1985"], "temas": [10, 11, 14, 15, 16, 19, 21]},
+    {"id": "BOE-A-1986-17958", "nombre": "RD 1372/1986, Reglamento de Bienes (RBEL)", "alias": ["RBEL", "RD 1372/1986"], "temas": [10, 21]},
+    {"id": "BOE-A-2003-20254", "nombre": "Ley 33/2003, del Patrimonio de las AAPP (LPAP)", "alias": ["LPAP", "Ley 33/2003"], "temas": [10, 21]},
+    {"id": "BOE-A-1955-10057", "nombre": "Reglamento de Servicios de las Corporaciones Locales (1955)", "alias": ["RSCL", "Reglamento de Servicios"], "temas": [11, 21]},
+    {"id": "BOE-A-2003-20977", "nombre": "Ley 38/2003, General de Subvenciones", "alias": ["LGS", "Ley 38/2003"], "temas": [11, 21]},
+    {"id": "BOE-A-2023-12919", "nombre": "DLeg 2/2023 de Aragón, de subvenciones", "alias": ["DLeg 2/2023", "Decreto Legislativo 2/2023"], "temas": [11]},
+    {"id": "BOE-A-1999-10151", "nombre": "Ley 7/1999, de Administración Local de Aragón", "alias": ["Ley 7/1999", "LALA"], "temas": [10, 11, 16, 21]},
+    {"id": "BOE-A-2004-4214", "nombre": "RDLeg 2/2004, Ley Reguladora de las Haciendas Locales (TRLRHL)", "alias": ["TRLRHL", "RDLeg 2/2004"], "temas": [12, 13, 16, 21]},
+    {"id": "BOE-A-1990-9664", "nombre": "RD 500/1990, presupuestos de las entidades locales", "alias": ["RD 500/1990"], "temas": [13, 21]},
+    {"id": "BOE-A-2018-1683", "nombre": "Ley 10/2017, de capitalidad de Zaragoza", "alias": ["Ley 10/2017", "[Cc]apitalidad"], "temas": [13, 14, 16, 21]},
+    {"id": "BOE-A-1986-9865", "nombre": "RDLeg 781/1986, Texto Refundido de Régimen Local (TRRL)", "alias": ["TRRL", "RDLeg 781/1986"], "temas": [16, 19, 21]},
+    {"id": "BOE-A-1986-33252", "nombre": "RD 2568/1986, Reglamento de Organización y Funcionamiento (ROF)", "alias": ["\\bROF\\b", "RD 2568/1986"], "temas": [14, 16, 19]},
+    {"id": "BOE-A-2015-11719", "nombre": "RDLeg 5/2015, Estatuto Básico del Empleado Público (TREBEP)", "alias": ["TREBEP", "RDLeg 5/2015"], "temas": [17, 18, 19, 21]},
+    {"id": "BOA-d-2014-90410", "nombre": "DLeg 1/2014, Ley de Urbanismo de Aragón (TRLUA)", "alias": ["TRLUA", "Decreto-Legislativo 1/2014"], "temas": [20]},
+    {"id": "BOE-A-2013-12887", "nombre": "Ley 19/2013, de transparencia", "alias": ["Ley 19/2013"], "temas": [5, 9, 15]},
+    {"id": "BOE-A-2018-16673", "nombre": "LO 3/2018, de protección de datos", "alias": ["LO 3/2018", "LOPDGDD"], "temas": [5, 15]}
+  ],
+  "sin_consolidado": [
+    {"nombre": "Decreto 347/2002 de Aragón, Reglamento de Bienes, Actividades, Servicios y Obras", "donde": "BOA nº 139, 25-nov-2002 (corrección BOA nº 9, 24-ene-2003)", "temas": [10, 11], "como": "Buscar en boa.aragon.es (sección I) disposiciones que lo modifiquen o deroguen."},
+    {"nombre": "Reglamento de Órganos Territoriales y de Participación Ciudadana (ROTPC)", "donde": "https://www.zaragoza.es/sede/servicio/normativa/109", "temas": [15], "como": "Comprobar en la ficha de normativa municipal si hay modificaciones nuevas."},
+    {"nombre": "Manual de Atención a la Ciudadanía (2018)", "donde": "zaragoza.es, calidad", "temas": [15], "como": "Comprobar si hay una edición posterior a marzo de 2018."},
+    {"nombre": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027", "donde": "BOPZ nº 16, 20-ene-2024", "temas": [2], "como": "Comprobar en el BOPZ si hay modificación o un plan nuevo."}
+  ]
+}

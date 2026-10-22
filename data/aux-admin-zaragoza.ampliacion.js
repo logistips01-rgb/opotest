@@ -50626,8 +50626,8 @@ window.addQuestions("aux-admin-zaragoza", 21, [
       "Responder de su gestión política ante el Pleno.",
       "Las dos respuestas anteriores son correctas."
     ],
-    "correct": 2,
-    "exp": "Pregunta 6 del examen oficial de 31 de mayo de 2026. El artículo 12.1 incluye entre las atribuciones del Alcalde tanto representar al municipio como responder de su gestión política ante el Pleno.",
+    "correct": 0,
+    "exp": "Pregunta 6 del examen oficial de 31 de mayo de 2026. La plantilla definitiva da por buena «Representar al municipio de Zaragoza». El art. 12.1 de la Ley 10/2017 dice en su encabezado que el Alcalde «ostenta la máxima representación del Municipio y responde de su gestión política ante el Pleno», y a continuación: «Corresponde al Alcalde el ejercicio de las siguientes atribuciones», la primera de las cuales es «Representar al municipio de Zaragoza». Responder de su gestión política ante el Pleno es una responsabilidad del Alcalde, no una de las atribuciones de la lista. Para estudiar: la primera atribución del art. 12.1 es representar al municipio.",
     "fuente": "Art. 12.1 Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza"
   },
   {
@@ -50681,8 +50681,8 @@ window.addQuestions("aux-admin-zaragoza", 21, [
       "Al titular de la asesoría jurídica.",
       "Al titular del Órgano de Apoyo a la Junta de Gobierno o al titular de la asesoría jurídica según cual sea el importe del contrato o la duración del mismo."
     ],
-    "correct": 2,
-    "exp": "Pregunta 11 del examen oficial de 31 de mayo de 2026. La disposición adicional tercera.8 de la Ley 9/2017 distribuye la emisión de esos informes entre el Órgano de Apoyo a la Junta de Gobierno y la asesoría jurídica en función del importe o duración del contrato.",
+    "correct": 1,
+    "exp": "Pregunta 11 del examen oficial de 31 de mayo de 2026. La plantilla definitiva da por buena «Al titular de la asesoría jurídica». La disposición adicional tercera, apartado 8, LCSP dice que en los municipios de gran población «corresponderá al titular de la asesoría jurídica la emisión de los informes atribuidos al Secretario en el presente apartado», y deja al titular del Órgano de Apoyo a la Junta de Gobierno solo la coordinación de las obligaciones de publicidad e información. El reparto no depende del importe ni de la duración del contrato. Para estudiar: en gran población, los informes del Secretario los emite el titular de la asesoría jurídica.",
     "fuente": "Disp. adicional 3ª.8 Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público"
   },
   {
@@ -50703,8 +50703,8 @@ window.addQuestions("aux-admin-zaragoza", 21, [
       "La declaración de interés público municipal.",
       "Las respuestas a) y b) son correctas."
     ],
-    "correct": 2,
-    "exp": "Pregunta 13 del examen oficial de 31 de mayo de 2026. La Disposición Adicional Tercera del ROTPC reconoce a ambas entidades tanto la declaración de entidad ciudadana como la de interés público municipal.",
+    "correct": 1,
+    "exp": "Pregunta 13 del examen oficial de 31 de mayo de 2026. La plantilla definitiva da por buena «La declaración de interés público municipal». La disposición adicional tercera del Reglamento de Órganos Territoriales y Participación Ciudadana dice: «Se reconoce a la Unión Vecinal Cesaraugusta y a la Federación de Asociaciones de Barrios de Zaragoza la declaración de Interés público municipal en los términos señalados en este Reglamento». No habla de «declaración de entidad ciudadana». Para estudiar: a esas dos entidades se les reconoce la declaración de interés público municipal.",
     "fuente": "Disp. Adicional 3ª Reglamento de Órganos Territoriales y Participación Ciudadana (Ayto. Zaragoza)"
   },
   {
@@ -50781,7 +50781,7 @@ window.addQuestions("aux-admin-zaragoza", 21, [
       "Ninguna de las respuestas anteriores es correcta."
     ],
     "correct": 2,
-    "exp": "Pregunta 20 del examen oficial de 31 de mayo de 2026. La definición transcrita corresponde en realidad al contrato de concesión de servicios del artículo 15 de la Ley 9/2017, categoría no recogida en ninguna de las opciones a) o b).",
+    "exp": "Pregunta 20 del examen oficial de 31 de mayo de 2026. Respuesta de la plantilla: «Ninguna de las respuestas anteriores es correcta». La definición transcrita es literal del art. 15.1 LCSP y corresponde al «contrato de concesión de servicios», que no figura entre las opciones; el contrato de servicios es otro (art. 17) y la LCSP no regula un «contrato de arrendamiento de servicios». Para estudiar: gestión de un servicio retribuida con el derecho a explotarlo, contrato de concesión de servicios.",
     "fuente": "Art. 15 Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público"
   },
   {
@@ -50813,8 +50813,8 @@ window.addQuestions("aux-admin-zaragoza", 21, [
       "Cuando fuese inhábil en el municipio o Comunidad Autónoma en que residiese el interesado y hábil en la sede del órgano administrativo.",
       "Las respuestas a) y b) son correctas."
     ],
-    "correct": 1,
-    "exp": "Pregunta 23 del examen oficial de 31 de mayo de 2026. El artículo 30.6 LPACAP considera inhábil en todo caso el día inhábil en el municipio o Comunidad Autónoma del interesado aunque sea hábil en la sede del órgano administrativo.",
+    "correct": 2,
+    "exp": "Pregunta 23 del examen oficial de 31 de mayo de 2026. La plantilla definitiva da por buena la opción que admite los dos casos. El art. 30.6 LPAC dice: «Cuando un día fuese hábil en el municipio o Comunidad Autónoma en que residiese el interesado, e inhábil en la sede del órgano administrativo, o a la inversa, se considerará inhábil en todo caso». Basta con que el día sea inhábil en uno de los dos sitios, sea el del interesado o la sede del órgano. Para estudiar: inhábil en cualquiera de los dos lugares, inhábil en todo caso («o a la inversa»).",
     "fuente": "Art. 30.6 LPACAP (Ley 39/2015)"
   },
   {
@@ -50824,8 +50824,8 @@ window.addQuestions("aux-admin-zaragoza", 21, [
       "Son bienes de uso público.",
       "Ninguna de las respuestas anteriores es correcta."
     ],
-    "correct": 1,
-    "exp": "Pregunta 24 del examen oficial de 31 de mayo de 2026. El artículo 170 de la Ley 7/1999 califica los mercados como bienes de uso público.",
+    "correct": 2,
+    "exp": "Pregunta 24 del examen oficial de 31 de mayo de 2026. La plantilla definitiva da por buena «Ninguna de las respuestas anteriores es correcta». El art. 170.3 de la Ley 7/1999, de Administración Local de Aragón, dice: «Son bienes de servicio público los destinados al cumplimiento de fines públicos de competencia de las entidades locales, tales como las Casas Consistoriales, mataderos, mercados, lonjas…». Los mercados son bienes de servicio público, no de uso público, así que fallan las dos afirmaciones. Para estudiar: mercados, bienes de servicio público (art. 170.3).",
     "fuente": "Art. 170 Ley 7/1999, de 9 de abril, de Administración Local de Aragón"
   },
   {
@@ -50846,8 +50846,8 @@ window.addQuestions("aux-admin-zaragoza", 21, [
       "Dice que la resolución de un recurso no puede agravar la situación inicial del recurrente.",
       "Dice que la resolución de un recurso puede agravar la situación inicial del recurrente."
     ],
-    "correct": 0,
-    "exp": "Pregunta 26 del examen oficial de 31 de mayo de 2026. La plantilla oficial da por buena «si la propuesta de resolución de un recurso agrava la situación inicial del recurrente se le oirá previamente». OJO, el texto literal del art. 119.3 LPACAP dice otra cosa: el órgano decide todas las cuestiones que plantee el procedimiento, se hayan alegado o no, y si no se alegaron «se les oirá previamente»; pero la resolución será congruente con lo pedido «sin que en ningún caso pueda agravarse su situación inicial». Para estudiar, quédate con la ley: la resolución de un recurso no puede agravar la situación inicial del recurrente (así lo preguntó el examen de 2025).",
+    "correct": 1,
+    "exp": "Pregunta 26 del examen oficial de 31 de mayo de 2026. La plantilla definitiva da por buena «Dice que la resolución de un recurso no puede agravar la situación inicial del recurrente». Es lo que dice el art. 119.3 LPAC: el órgano decide todas las cuestiones que plantee el procedimiento, se hayan alegado o no, y en este último caso «se les oirá previamente»; pero «la resolución será congruente con las peticiones formuladas por el recurrente, sin que en ningún caso pueda agravarse su situación inicial». El trámite de oír al interesado se refiere a las cuestiones no alegadas, no a una agravación, que está prohibida. Para estudiar: nunca puede agravarse la situación inicial del recurrente.",
     "fuente": "Art. 119.3 LPACAP (Ley 39/2015)"
   },
   {
@@ -50868,8 +50868,8 @@ window.addQuestions("aux-admin-zaragoza", 21, [
       "Cuando para la gestión de un servicio público local va a hacerse uso de una sociedad mercantil local cuyo capital social sea de titularidad pública y no de una entidad pública empresarial local.",
       "Las dos respuestas anteriores son correctas."
     ],
-    "correct": 2,
-    "exp": "Pregunta 28 del examen oficial de 31 de mayo de 2026. El artículo 85.2 A) LBRL exige esa memoria justificativa tanto cuando se opta por entidad pública empresarial frente a organismo autónomo como cuando se opta por sociedad mercantil de capital público frente a entidad pública empresarial.",
+    "correct": 0,
+    "exp": "Pregunta 28 del examen oficial de 31 de mayo de 2026. La plantilla definitiva da por buena la opción de la entidad pública empresarial frente al organismo autónomo. El art. 85.2.A LBRL dice que la entidad pública empresarial y la sociedad mercantil local de capital público solo podrán usarse «cuando quede acreditado mediante memoria justificativa elaborada al efecto que resultan más sostenibles y eficientes» que la gestión por la propia entidad y el organismo autónomo. La comparación es siempre con esas dos formas. Elegir la entidad pública empresarial en lugar del organismo autónomo encaja en el precepto; elegir la sociedad mercantil «y no» la entidad pública empresarial, no, porque la ley no compara esas dos entre sí. Para estudiar: memoria justificativa para entidad pública empresarial o sociedad mercantil, comparándolas con la gestión propia y el organismo autónomo.",
     "fuente": "Art. 85.2 A) LBRL (Ley 7/1985)"
   },
   {
@@ -50879,8 +50879,8 @@ window.addQuestions("aux-admin-zaragoza", 21, [
       "Alcalde del Barrio.",
       "Representante vecinal."
     ],
-    "correct": 0,
-    "exp": "Pregunta 29 del examen oficial de 31 de mayo de 2026. El artículo 31 del ROTPC otorga al Presidente de cada Barrio Rural la denominación tradicional de Alcalde pedáneo.",
+    "correct": 1,
+    "exp": "Pregunta 29 del examen oficial de 31 de mayo de 2026. La plantilla definitiva da por buena «Alcalde del Barrio». El art. 31 del Reglamento de Órganos Territoriales y Participación Ciudadana dice: «Son órganos necesarios de cada Barrio Rural los siguientes: El Presidente, que recibe el nombre tradicional de Alcalde del Barrio». El término «Alcalde pedáneo» no aparece en el Reglamento. Para estudiar: el presidente del Barrio Rural es el Alcalde del Barrio.",
     "fuente": "Art. 31 Reglamento de Órganos Territoriales y Participación Ciudadana (Ayto. Zaragoza)"
   },
   {
@@ -51066,8 +51066,8 @@ window.addQuestions("aux-admin-zaragoza", 21, [
       "Adscripción de bienes patrimoniales por más de veinte años a un uso o servicios públicos.",
       "Las dos respuestas anteriores son correctas."
     ],
-    "correct": 2,
-    "exp": "Pregunta 48 del examen oficial de 31 de mayo de 2026. El artículo 81.2 LBRL prevé la alteración automática de la calificación jurídica tanto por aprobación definitiva de planes y proyectos como por adscripción de bienes patrimoniales por más de veinte años a un uso o servicio público.",
+    "correct": 0,
+    "exp": "Pregunta 48 del examen oficial de 31 de mayo de 2026. La plantilla definitiva da por buena «Aprobación definitiva de los planes de ordenación urbana y de los proyectos de obras y servicios». El art. 81.2 LBRL prevé dos supuestos de alteración automática: la aprobación definitiva de planes y proyectos y la «adscripción de bienes patrimoniales por más de veinticinco años a un uso o servicio públicos». La otra opción dice «veinte años» y por eso no es correcta. Para estudiar: más de veinticinco años de adscripción.",
     "fuente": "Art. 81.2 LBRL (Ley 7/1985)"
   },
   {
@@ -51088,8 +51088,8 @@ window.addQuestions("aux-admin-zaragoza", 21, [
       "En cualquier momento del procedimiento anterior a la propuesta de resolución.",
       "En cualquier momento del procedimiento."
     ],
-    "correct": 1,
-    "exp": "Pregunta 50 del examen oficial de 31 de mayo de 2026. La plantilla oficial da por buena «anterior a la propuesta de resolución». OJO: el texto literal del art. 76.1 LPACAP dice «en cualquier momento del procedimiento anterior al trámite de audiencia». Para estudiar, quédate con la ley: anterior al trámite de audiencia.",
+    "correct": 0,
+    "exp": "Pregunta 50 del examen oficial de 31 de mayo de 2026. La plantilla definitiva da por buena «En cualquier momento del procedimiento anterior al trámite de audiencia», que es literal del art. 76.1 LPAC: «Los interesados podrán, en cualquier momento del procedimiento anterior al trámite de audiencia, aducir alegaciones y aportar documentos u otros elementos de juicio». Lo que se relaciona con la propuesta de resolución es que esas alegaciones «serán tenidas en cuenta por el órgano competente al redactar la correspondiente propuesta de resolución». Para estudiar: alegaciones, hasta el trámite de audiencia.",
     "fuente": "Art. 76.1 LPACAP (Ley 39/2015)"
   },
   {
@@ -51111,7 +51111,7 @@ window.addQuestions("aux-admin-zaragoza", 21, [
       "Ninguna de las respuestas anteriores es correcta."
     ],
     "correct": 2,
-    "exp": "Pregunta de reserva 2 del examen oficial de 31 de mayo de 2026. Según el artículo 39.5 TREBEP, el tramo de 15 miembros no coincide con ninguno de los intervalos ofrecidos en las opciones a) y b).",
+    "exp": "Reserva 2 del examen oficial de 31 de mayo de 2026. Respuesta de la plantilla: «Ninguna de las respuestas anteriores es correcta». La escala del art. 39.5 TREBEP es: de 50 a 100 funcionarios, 5; de 101 a 250, 9; de 251 a 500, 13; de 501 a 750, 17; de 751 a 1.000, 21; y desde 1.001, dos por cada mil o fracción, con un máximo de 75. Ningún tramo tiene 15 miembros. Para estudiar: 5, 9, 13, 17, 21.",
     "fuente": "Art. 39.5 TREBEP (RDL 5/2015)"
   },
   {
@@ -51167,8 +51167,8 @@ window.addQuestions("aux-admin-zaragoza", 21, [
       "Es una forma de utilización de acuerdo con criterios de rentabilidad social.",
       "Ninguna de las respuestas anteriores es correcta."
     ],
-    "correct": 1,
-    "exp": "Pregunta 2 del segundo ejercicio (supuesto práctico 1) del examen oficial de 31 de mayo de 2026. El artículo 100 del Decreto 347/2002 califica el arrendamiento de bienes patrimoniales por el Ayuntamiento como un supuesto de utilización directa.",
+    "correct": 0,
+    "exp": "Segundo ejercicio, supuesto 1, pregunta 2 del examen oficial de 31 de mayo de 2026. La plantilla definitiva da por buena «Se regirá por la normativa general de la contratación». Art. 100.1 del Decreto 347/2002: «El arrendamiento y cualquier otra forma de cesión de uso de bienes patrimoniales se regirán por la normativa general de la contratación, salvo regulación específica de aplicación preferente». Arrendar no es utilizar directamente: el art. 99.2 distingue la utilización directa por la entidad de la cesión a particulares mediante contrato. Para estudiar: el arrendamiento de patrimoniales es una cesión a terceros y se rige por la normativa de contratación.",
     "fuente": "Art. 100 Decreto 347/2002 (Gobierno de Aragón)"
   },
   {
@@ -51203,8 +51203,8 @@ window.addQuestions("aux-admin-zaragoza", 21, [
       "Del derecho tributario.",
       "Del derecho público."
     ],
-    "correct": 0,
-    "exp": "Pregunta 5 del segundo ejercicio (supuesto práctico 1) del examen oficial de 31 de mayo de 2026. El artículo 4 del RDLeg 2/2004 atribuye a las entidades locales, para hacer efectivos sus derechos de hacienda de naturaleza patrimonial, las prerrogativas propias del derecho administrativo.",
+    "correct": 1,
+    "exp": "Segundo ejercicio, supuesto 1, pregunta 5 del examen oficial de 31 de mayo de 2026. La plantilla definitiva da por buena «Del derecho privado». El art. 4 TRLRHL, sobre los ingresos de derecho privado (capítulo I del título I), dice: «La efectividad de los derechos de la hacienda local comprendidos en este capítulo se llevará a cabo con sujeción a las normas y procedimientos del derecho privado». La venta y el arrendamiento de un inmueble patrimonial producen ingresos de derecho privado. Para estudiar: ingresos patrimoniales, normas y procedimientos del derecho privado.",
     "fuente": "Art. 4 Real Decreto Legislativo 2/2004 (TRLRHL)"
   },
   {
@@ -51227,8 +51227,8 @@ window.addQuestions("aux-admin-zaragoza", 21, [
       "Deberá determinar el plazo de duración.",
       "Deberá determinar el plazo de duración y, caso de no hacerlo, se entenderá realizada en precario."
     ],
-    "correct": 3,
-    "exp": "Pregunta 7 del segundo ejercicio (supuesto práctico 1) del examen oficial de 31 de mayo de 2026. El artículo 102 del Decreto 347/2002 exige fijar el plazo de duración de la cesión y, si no se determina, la cesión se entiende otorgada en precario.",
+    "correct": 1,
+    "exp": "Segundo ejercicio, supuesto 1, pregunta 7 del examen oficial de 31 de mayo de 2026. La plantilla definitiva da por buena «Deberá determinar el plazo de duración o su carácter de cesión en precario». Art. 102.2 del Decreto 347/2002: «El acuerdo deberá determinar la finalidad concreta a que habrán de destinarse los bienes, el plazo de duración, o su carácter de cesión en precario». El reglamento no fija un máximo de cuatro años ni dice que, a falta de plazo, la cesión se entienda en precario. Para estudiar: el acuerdo fija la finalidad y el plazo, o declara la cesión en precario.",
     "fuente": "Art. 102 Decreto 347/2002 (Gobierno de Aragón)"
   },
   {
@@ -51240,8 +51240,8 @@ window.addQuestions("aux-admin-zaragoza", 21, [
       "Ninguna de las respuestas anteriores es correcta."
     ],
     "correct": 3,
-    "exp": "Pregunta 8 del segundo ejercicio (supuesto práctico 1) del examen oficial de 31 de mayo de 2026. Según la plantilla definitiva, ninguna de las opciones a), b) o c) es correcta conforme a los artículos 47 y siguientes del Decreto 347/2002.",
-    "fuente": "Arts. 47 y siguientes Decreto 347/2002 (Gobierno de Aragón)"
+    "exp": "Segundo ejercicio, supuesto 1, pregunta 8 del examen oficial de 31 de mayo de 2026. Respuesta de la plantilla: «Ninguna de las respuestas anteriores es correcta». El inmueble es patrimonial. Según el art. 62.2 del Decreto 347/2002, los bienes patrimoniales solo pueden recuperarse de oficio «en el plazo de un año contado desde el día siguiente a la fecha en que se haya producido la usurpación»; después hay que acudir a los tribunales ordinarios. Recuperar de oficio «en cualquier momento» solo cabe en el dominio público (art. 62.1). El desahucio administrativo se refiere a derechos constituidos «sobre los bienes de dominio público» (art. 64). Ninguna de las tres afirmaciones se ajusta al caso. Para estudiar: patrimoniales, recuperación de oficio en un año; desahucio administrativo, solo en el dominio público.",
+    "fuente": "Arts. 47, 62 y 64 Decreto 347/2002, de 19 de noviembre (Reglamento de Bienes de las Entidades Locales de Aragón)"
   },
   {
     "q": "[EXAMEN OFICIAL 31-may-2026, SEGUNDO EJERCICIO, Supuesto 1, P9] El Ayuntamiento de Zaragoza es propietario de tres inmuebles patrimoniales (1, 2 y 3) no afectados a un uso o servicio público: el inmueble núm. 1 se quiere vender, el inmueble núm. 2 se quiere arrendar y una entidad privada solicita la cesión gratuita del inmueble núm. 3. Se sigue un procedimiento contra el Ayuntamiento de Zaragoza. Según se desprende del artículo 173.2 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, contra los tres inmuebles citados en el enunciado:",
@@ -51251,8 +51251,8 @@ window.addQuestions("aux-admin-zaragoza", 21, [
       "Las respuestas a) y b) son correctas.",
       "No se podrá despachar mandamientos de ejecución ni dictar providencias de embargo."
     ],
-    "correct": 3,
-    "exp": "Pregunta 9 del segundo ejercicio (supuesto práctico 1) del examen oficial de 31 de mayo de 2026. El artículo 173.2 del RDLeg 2/2004 declara inembargables los bienes de las entidades locales, por lo que no cabe despachar mandamientos de ejecución ni dictar providencias de embargo contra ellos.",
+    "correct": 2,
+    "exp": "Segundo ejercicio, supuesto 1, pregunta 9 del examen oficial de 31 de mayo de 2026. La plantilla definitiva da por buena la opción que admite las dos cosas: despachar mandamientos de ejecución y dictar providencias de embargo. El art. 173.2 TRLRHL prohíbe hacerlo contra los bienes de la hacienda local, «excepto cuando se trate de bienes patrimoniales no afectados a un uso o servicio público», que es justo lo que dice el enunciado de los tres inmuebles. Para estudiar: los bienes locales son inembargables salvo los patrimoniales no afectados a un uso o servicio público.",
     "fuente": "Art. 173.2 Real Decreto Legislativo 2/2004 (TRLRHL)"
   },
   {
@@ -51263,8 +51263,8 @@ window.addQuestions("aux-admin-zaragoza", 21, [
       "Al Alcalde, que puede delegar o desconcentrar esas funciones.",
       "Al Gobierno de Zaragoza."
     ],
-    "correct": 2,
-    "exp": "Pregunta 10 del segundo ejercicio (supuesto práctico 1) del examen oficial de 31 de mayo de 2026. El artículo 14 de la Ley 10/2017 atribuye estas competencias ejecutivas y de gestión al Alcalde, quien puede delegarlas o desconcentrarlas.",
+    "correct": 3,
+    "exp": "Segundo ejercicio, supuesto 1, pregunta 10 del examen oficial de 31 de mayo de 2026. La plantilla definitiva da por buena «Al Gobierno de Zaragoza». El art. 14.1 de la Ley 10/2017 atribuye al Gobierno de Zaragoza «las competencias ejecutivas y de gestión, en todos sus aspectos, relativas a la adquisición, gestión, administración, aprovechamiento y enajenación del patrimonio municipal», y el art. 14.2 permite al Gobierno delegarlas o desconcentrarlas. No es una atribución del Alcalde. Para estudiar: patrimonio municipal, Gobierno de Zaragoza (art. 14.1).",
     "fuente": "Art. 14 Ley 10/2017, de 30 de noviembre (régimen especial de Zaragoza)"
   },
   {
@@ -51323,9 +51323,9 @@ window.addQuestions("aux-admin-zaragoza", 21, [
       "Las respuestas a) y b) son correctas.",
       "Ninguna de las respuestas anteriores es correcta."
     ],
-    "correct": 3,
-    "exp": "Pregunta 15 del segundo ejercicio (supuesto práctico 2) del examen oficial de 31 de mayo de 2026. Según la plantilla definitiva, ninguna de las opciones a) o b) recoge correctamente el contenido del artículo 72.4, párrafos tercero y cuarto, del TRLRHL.",
-    "fuente": "Art. 72.4 Real Decreto Legislativo 2/2004 (TRLRHL)"
+    "correct": 0,
+    "exp": "Segundo ejercicio, supuesto 2, pregunta 15 del examen oficial de 31 de mayo de 2026. La plantilla definitiva da por buena «Ese recargo será de hasta el 50 por ciento de la cuota líquida del impuesto». El art. 72.4 TRLRHL, en la redacción vigente en el examen (Ley 12/2023), decía en su párrafo tercero: «los ayuntamientos podrán exigir un recargo de hasta el 50 por ciento de la cuota líquida del impuesto», y en el cuarto que es desocupado permanente el que lo esté «por un plazo superior a dos años», no cinco. OJO: tras el Real Decreto-ley 29/2026, de 6 de octubre, esa regulación está en el art. 72.4 bis, que mantiene el recargo de hasta el 50 por ciento y los dos años, con recargos mayores en los supuestos que detalla. Para estudiar: recargo de hasta el 50 por ciento y más de dos años de desocupación.",
+    "fuente": "Art. 72.4 bis TRLRHL (RDLeg 2/2004), redacción dada por el RDL 29/2026 (antes, art. 72.4, párrafos tercero y cuarto)"
   },
   {
     "q": "[EXAMEN OFICIAL 31-may-2026, SEGUNDO EJERCICIO, Supuesto 2, P16] El Ayuntamiento de Zaragoza notifica liquidaciones tributarias del Impuesto sobre Bienes Inmuebles (IBI), susceptibles de impugnación mediante recurso de reposición y reclamación económico-administrativa. De conformidad con los artículos 108 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local y 14 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, contra una liquidación tributaria puede interponerse recurso de reposición. La interposición de dicho recurso:",

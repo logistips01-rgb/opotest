@@ -20358,8 +20358,8 @@ const QUESTIONS = {
       "Cinco años desde su aprobación y registro"
     ],
     "correct": 1,
-    "exp": "Examen oficial Auxiliar Administrativo Ayuntamiento de Zaragoza, turno libre, 1 de junio de 2025 (primera prueba, pregunta 1). Respuesta correcta según la plantilla definitiva: b) Cuatro años.",
-    "fuente": "Examen oficial de Auxiliar Administrativo del Ayuntamiento de Zaragoza, 1-jun-2025, pregunta 1"
+    "exp": "Pregunta 1 del examen oficial de 1 de junio de 2025. Respuesta oficial: «Cuatro años desde su aprobación y registro». Es literal del apartado 5.3 («Ámbito temporal») del II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza: «El periodo de vigencia del presente Plan será de cuatro años desde su aprobación y registro, sin perjuicio de los plazos que se establezcan para su seguimiento y revisión». Para estudiar: cuatro años desde su aprobación y registro.",
+    "fuente": "Apartado 5.3 del II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (2024-2027)"
   },
   {
     "q": "[EXAMEN OFICIAL, P2] De acuerdo con el artículo 85.2 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, no es una forma de gestión directa de los servicios públicos locales:",
@@ -20369,7 +20369,7 @@ const QUESTIONS = {
       "Entidad pública empresarial local"
     ],
     "correct": 1,
-    "exp": "Pregunta 2 del examen oficial de 1 de junio de 2025. La concesión es una forma de gestión INDIRECTA, no directa, conforme al art. 85.2 LBRL. Respuesta correcta: b) Concesión.",
+    "exp": "Pregunta 2 del examen oficial de 1 de junio de 2025. Respuesta oficial: «Concesión». El art. 85.2 LBRL enumera como formas de gestión directa la gestión por la propia entidad local, el organismo autónomo local, la entidad pública empresarial local y la sociedad mercantil local de capital íntegramente público; la gestión indirecta se hace «mediante las distintas formas previstas para el contrato de gestión de servicios públicos», entre ellas la concesión. Para estudiar: la concesión es gestión indirecta; organismo autónomo y entidad pública empresarial son gestión directa.",
     "fuente": "Art. 85.2 LBRL (Ley 7/1985)"
   },
   {
@@ -20380,7 +20380,7 @@ const QUESTIONS = {
       "La competencia ejecutiva"
     ],
     "correct": 0,
-    "exp": "Pregunta 3 del examen oficial de 1 de junio de 2025. El art. 71.9.ª EAAr califica la competencia en materia de urbanismo como exclusiva. Respuesta correcta: a) La competencia exclusiva.",
+    "exp": "Pregunta 3 del examen oficial de 1 de junio de 2025. Respuesta oficial: «La competencia exclusiva». El art. 71 del Estatuto de Autonomía de Aragón dice: «Corresponde a la Comunidad Autónoma la competencia exclusiva en las siguientes materias: […] 9.ª Urbanismo, que comprende, en todo caso, el régimen urbanístico del suelo, su planeamiento y gestión…». Para estudiar: el urbanismo es competencia exclusiva de Aragón (art. 71.9.ª).",
     "fuente": "Art. 71.9 EAAr (LO 5/2007)"
   },
   {
@@ -20391,7 +20391,7 @@ const QUESTIONS = {
       "No"
     ],
     "correct": 2,
-    "exp": "Pregunta 4 del examen oficial de 1 de junio de 2025. El art. 13.4 f) LBRL no establece plazo de duración para esa dispensa. Respuesta correcta: c) No.",
+    "exp": "Pregunta 4 del examen oficial de 1 de junio de 2025. Respuesta oficial: «No». El art. 13.4 LBRL dice que al municipio resultante de la fusión le será de aplicación que «queda dispensado de prestar nuevos servicios mínimos de los previstos en el artículo 26 que le corresponda por razón de su aumento poblacional», sin fijar plazo para esa dispensa. Los plazos que sí aparecen en el mismo apartado son otros: no podrá segregarse hasta transcurridos diez años desde el convenio de fusión, y tendrá preferencia en planes y subvenciones durante, al menos, los cinco primeros años. Para estudiar: la dispensa de nuevos servicios mínimos no tiene plazo.",
     "fuente": "Art. 13.4 f) LBRL (Ley 7/1985)"
   },
   {
@@ -20402,7 +20402,7 @@ const QUESTIONS = {
       "La aprobación por las Cortes de Aragón y, posteriormente, por las Cortes Generales del Estado"
     ],
     "correct": 0,
-    "exp": "Pregunta 5 del examen oficial de 1 de junio de 2025. El art. 10 EAAr exige aprobación por las Cortes de Aragón y, posteriormente, por las Cortes Generales del Estado, mediante ley orgánica. Respuesta correcta: a).",
+    "exp": "Pregunta 5 del examen oficial de 1 de junio de 2025. Respuesta oficial: «La aprobación por las Cortes de Aragón y, posteriormente, por las Cortes Generales del Estado, mediante ley orgánica». Es literal del art. 10 del Estatuto de Autonomía de Aragón, que exige además que lo soliciten los ayuntamientos interesados y que lo acuerden los habitantes mediante consulta. Para estudiar: Cortes de Aragón y después Cortes Generales, «mediante ley orgánica»; sin esa coletilla la afirmación queda incompleta.",
     "fuente": "Art. 10 EAAr (LO 5/2007)"
   },
   {
@@ -20413,8 +20413,8 @@ const QUESTIONS = {
       "Las respuestas a) y b) son correctas"
     ],
     "correct": 2,
-    "exp": "Pregunta 6 del examen oficial de 1 de junio de 2025. La limpieza de la vía pública está excluida de tasa (art. 21.1 TRLRHL) pero puede financiarse mediante precio público. Respuesta correcta: c).",
-    "fuente": "Art. 21.1 TRLRHL (RDLeg 2/2004)"
+    "exp": "Pregunta 6 del examen oficial de 1 de junio de 2025, con la respuesta oficial del examen: la que da por buenas las dos afirmaciones («no podrán exigir tasas» y «podrán exigir precios públicos»). OJO: la ley vigente dice otra cosa. El art. 21.1 TRLRHL dispone que «las entidades locales no podrán exigir tasas» por la «limpieza de la vía pública», y el art. 42 añade que «no podrán exigirse precios públicos por los servicios y actividades enumerados en el artículo 21 de esta ley». Por tanto, por la limpieza de la vía pública no se puede exigir ni tasa ni precio público. Para estudiar, quédate con la ley: ni tasa (art. 21.1) ni precio público (art. 42).",
+    "fuente": "Arts. 21.1 y 42 TRLRHL (RDLeg 2/2004)"
   },
   {
     "q": "[EXAMEN OFICIAL, P7] De acuerdo con el artículo 31.1 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, la base imponible de las contribuciones especiales está constituida, como máximo, por un porcentaje del coste que la entidad local soporte por la realización de las obras o por el establecimiento o ampliación de los servicios. Dicho porcentaje es:",
@@ -20424,7 +20424,7 @@ const QUESTIONS = {
       "El 90 por ciento"
     ],
     "correct": 2,
-    "exp": "Pregunta 7 del examen oficial de 1 de junio de 2025. Art. 31.1 TRLRHL: la base imponible es, como máximo, el 90 por ciento del coste. Respuesta correcta: c).",
+    "exp": "Pregunta 7 del examen oficial de 1 de junio de 2025. Respuesta oficial: «El 90 por ciento». Art. 31.1 TRLRHL: «La base imponible de las contribuciones especiales está constituida, como máximo, por el 90 por ciento del coste que la entidad local soporte por la realización de las obras o por el establecimiento o ampliación de los servicios». Para estudiar: como máximo, el 90 por ciento del coste.",
     "fuente": "Art. 31.1 TRLRHL (RDLeg 2/2004)"
   },
   {
@@ -20435,7 +20435,7 @@ const QUESTIONS = {
       "A la inamovilidad en la condición de funcionario de carrera"
     ],
     "correct": 2,
-    "exp": "Pregunta 8 del examen oficial de 1 de junio de 2025. Art. 14 a) TREBEP: derecho a la inamovilidad en la condición de funcionario de carrera. Respuesta correcta: c).",
+    "exp": "Pregunta 8 del examen oficial de 1 de junio de 2025. Respuesta oficial: «A la inamovilidad en la condición de funcionario de carrera». Es literal del art. 14 TREBEP, primer derecho individual de la lista. Para estudiar: la inamovilidad se predica de la condición de funcionario de carrera; las otras dos opciones recortan el texto legal.",
     "fuente": "Art. 14 a) TREBEP (RDLeg 5/2015)"
   },
   {
@@ -20457,7 +20457,7 @@ const QUESTIONS = {
       "100 funcionarios"
     ],
     "correct": 1,
-    "exp": "Pregunta 10 del examen oficial de 1 de junio de 2025. Art. 39.3 TREBEP: censo mínimo de 50 funcionarios para constituir Junta de Personal. Respuesta correcta: b).",
+    "exp": "Pregunta 10 del examen oficial de 1 de junio de 2025. Respuesta oficial: «50 funcionarios». Art. 39.3 TREBEP: «Las Juntas de Personal se constituirán en unidades electorales que cuenten con un censo mínimo de 50 funcionarios». Por debajo de 50 (y desde 6) la representación corresponde a los Delegados de Personal (art. 39.2). Para estudiar: Junta de Personal desde 50 funcionarios.",
     "fuente": "Art. 39.3 TREBEP (RDLeg 5/2015)"
   },
   {
@@ -20468,8 +20468,8 @@ const QUESTIONS = {
       "Acoso sexual"
     ],
     "correct": 2,
-    "exp": "Pregunta 11 del examen oficial de 1 de junio de 2025. Según el protocolo del Plan de Igualdad de Zaragoza, el acoso de intercambio o chantaje sexual es un tipo de acoso sexual. Respuesta correcta: c).",
-    "fuente": "Examen oficial de Auxiliar Administrativo del Ayuntamiento de Zaragoza, 1-jun-2025, pregunta 11"
+    "exp": "Pregunta 11 del examen oficial de 1 de junio de 2025. Respuesta oficial: «Acoso sexual». El apartado IV («Definiciones») del protocolo de actuación frente al acoso incluido en el II Plan de Igualdad del Ayuntamiento de Zaragoza dice: «El acoso sexual contempla dos tipos diferenciados: el acoso de intercambio o chantaje sexual y el acoso ambiental». Para estudiar: el chantaje sexual es una modalidad de acoso sexual, junto con el acoso ambiental.",
+    "fuente": "Apartado IV («Definiciones») del protocolo frente al acoso del II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza"
   },
   {
     "q": "[EXAMEN OFICIAL, P12] El Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, establece en el apartado 1 de su artículo 72 (relativo al tipo de gravamen en el Impuesto sobre Bienes Inmuebles) que el tipo de gravamen mínimo y supletorio cuando se trate de bienes inmuebles urbanos será:",
@@ -20479,7 +20479,7 @@ const QUESTIONS = {
       "Ninguna de las respuestas anteriores es correcta"
     ],
     "correct": 0,
-    "exp": "Pregunta 12 del examen oficial de 1 de junio de 2025. Art. 72.1 TRLRHL: tipo mínimo y supletorio del IBI urbano es el 0,4 por ciento. Respuesta correcta: a).",
+    "exp": "Pregunta 12 del examen oficial de 1 de junio de 2025. Respuesta oficial: «El 0,4 por ciento». Art. 72.1 TRLRHL: «El tipo de gravamen mínimo y supletorio será el 0,4 por ciento cuando se trate de bienes inmuebles urbanos y el 0,3 por ciento cuando se trate de bienes inmuebles rústicos, y el máximo será el 1,10 por ciento para los urbanos y 0,90 por ciento para los rústicos». El 0,6 por ciento es el tipo supletorio de los inmuebles de características especiales (art. 72.2). Para estudiar: urbanos 0,4 mínimo y supletorio.",
     "fuente": "Art. 72.1 TRLRHL (RDLeg 2/2004)"
   },
   {
@@ -20490,7 +20490,7 @@ const QUESTIONS = {
       "Las respuestas a) y b) son correctas"
     ],
     "correct": 0,
-    "exp": "Pregunta 13 del examen oficial de 1 de junio de 2025. Art. 35.1 c) Ley 39/2015: deben motivarse los actos que se separen del criterio seguido en actuaciones precedentes. Respuesta correcta: a).",
+    "exp": "Pregunta 13 del examen oficial de 1 de junio de 2025, con la respuesta oficial del examen: «Los actos que se separen del criterio seguido en actuaciones precedentes». OJO con el matiz: el art. 35.1 LPAC obliga a motivar «los actos que se separen del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos», sin distinguir entre dictámenes preceptivos y facultativos. Separarse de un dictamen preceptivo también exige motivación, así que, por la ley, las dos afirmaciones son ciertas. La segunda añade la palabra «preceptivo», que no está en el precepto, y la respuesta oficial no la da por buena. Para estudiar, quédate con la ley: se motivan los actos que se separen del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos, sin más adjetivos.",
     "fuente": "Art. 35.1 c) LPAC (Ley 39/2015)"
   },
   {
@@ -20501,8 +20501,8 @@ const QUESTIONS = {
       "La Junta de Gobierno Local, cualquiera que sea el importe del contrato o la duración del mismo"
     ],
     "correct": 2,
-    "exp": "Pregunta 14 del examen oficial de 1 de junio de 2025. Disposición adicional segunda, apartado 4, LCSP: en municipios de gran población, la Junta de Gobierno Local ejerce las competencias de órgano de contratación, cualquiera que sea el importe o duración. Respuesta correcta: c).",
-    "fuente": "Disposición adicional segunda LCSP (Ley 9/2017)"
+    "exp": "Pregunta 14 del examen oficial de 1 de junio de 2025. Respuesta oficial: «La Junta de Gobierno Local, cualquiera que sea el importe del contrato o la duración del mismo». La disposición adicional segunda, apartado 4, LCSP dice que en los municipios de gran población las competencias del órgano de contratación «se ejercerán por la Junta de Gobierno Local, cualquiera que sea el importe del contrato o la duración del mismo, siendo el Pleno el competente para aprobar los pliegos de cláusulas administrativas generales». Para estudiar: en gran población contrata siempre la Junta de Gobierno Local.",
+    "fuente": "Disposición adicional segunda, apartado 4, LCSP (Ley 9/2017)"
   },
   {
     "q": "[EXAMEN OFICIAL, P15] De acuerdo con el artículo 26.1 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, la biblioteca pública es un servicio que deberá prestarse:",
@@ -20512,7 +20512,7 @@ const QUESTIONS = {
       "En los municipios con población superior a 20.000 habitantes"
     ],
     "correct": 0,
-    "exp": "Pregunta 15 del examen oficial de 1 de junio de 2025. Art. 26.1 b) LBRL: la biblioteca pública es servicio mínimo obligatorio en municipios de más de 5.000 habitantes. Respuesta correcta: a).",
+    "exp": "Pregunta 15 del examen oficial de 1 de junio de 2025. Respuesta oficial: «En los municipios con población superior a 5.000 habitantes». El art. 26.1 LBRL obliga a prestar, en los municipios de más de 5.000 habitantes, además de los servicios generales: «parque público, biblioteca pública y tratamiento de residuos». Para estudiar: biblioteca pública, más de 5.000 habitantes.",
     "fuente": "Art. 26.1 b) LBRL (Ley 7/1985)"
   },
   {
@@ -20523,8 +20523,8 @@ const QUESTIONS = {
       "Ninguna de las respuestas anteriores es correcta"
     ],
     "correct": 2,
-    "exp": "Pregunta 16 del examen oficial de 1 de junio de 2025. Según la plantilla oficial, ninguna de las opciones a) o b) es correcta (la modificación de 2018 en realidad creó el Distrito Sur, no Valdespartera ni Arcosur). Respuesta correcta: c).",
-    "fuente": "Examen oficial de Auxiliar Administrativo del Ayuntamiento de Zaragoza, 1-jun-2025, pregunta 16"
+    "exp": "Pregunta 16 del examen oficial de 1 de junio de 2025. Respuesta oficial: «Ninguna de las respuestas anteriores es correcta». La modificación del Reglamento de Órganos Territoriales y Participación Ciudadana publicada en el BOPZ n.º 44, de 23 de febrero de 2018, creó el «nuevo Distrito Sur», y desde entonces el art. 2 enumera dieciséis distritos, entre ellos «Sur». Ni Valdespartera ni Arcosur son distritos. Para estudiar: el distrito creado en 2018 es el Distrito Sur.",
+    "fuente": "Art. 2 ROTPC, en la redacción dada por la modificación de creación del Distrito Sur (BOPZ n.º 44, de 23-feb-2018)"
   },
   {
     "q": "[EXAMEN OFICIAL, P17] De acuerdo con el artículo 121.1 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, el régimen de organización de los municipios de gran población se aplica a un municipio capital de provincia:",
@@ -20534,7 +20534,7 @@ const QUESTIONS = {
       "Las respuestas a) y b) son correctas"
     ],
     "correct": 1,
-    "exp": "Pregunta 17 del examen oficial de 1 de junio de 2025. El art. 121.1 LBRL fija el umbral en 175.000 habitantes (no 75.000), pero también permite la decisión de la Asamblea Legislativa correspondiente. Respuesta correcta según plantilla: b).",
+    "exp": "Pregunta 17 del examen oficial de 1 de junio de 2025. Respuesta oficial: «Si independientemente de su población así lo decide la Asamblea Legislativa correspondiente». El art. 121.1 LBRL aplica el régimen de gran población a las capitales de provincia de más de 175.000 habitantes y también a «los municipios que sean capitales de provincia, capitales autonómicas o sedes de las instituciones autonómicas», en este último caso cuando «así lo decidan las Asambleas Legislativas correspondientes a iniciativa de los respectivos ayuntamientos». La cifra de 75.000 habitantes corresponde a otro supuesto (municipios con circunstancias especiales, también con decisión de la Asamblea), no a las capitales. Para estudiar: capital de provincia, automático si supera 175.000; si no, por decisión de la Asamblea Legislativa a iniciativa del ayuntamiento.",
     "fuente": "Art. 121.1 LBRL (Ley 7/1985)"
   },
   {
@@ -20545,7 +20545,7 @@ const QUESTIONS = {
       "Delito o falta"
     ],
     "correct": 1,
-    "exp": "Pregunta 18 del examen oficial de 1 de junio de 2025. Art. 95.2 i) TREBEP: salvo que constituyan infracción manifiesta del ordenamiento jurídico. Respuesta correcta: b).",
+    "exp": "Pregunta 18 del examen oficial de 1 de junio de 2025. Respuesta oficial: «Infracción manifiesta del ordenamiento jurídico». Art. 95.2 TREBEP: es falta muy grave «la desobediencia abierta a las órdenes o instrucciones de un superior, salvo que constituyan infracción manifiesta del Ordenamiento jurídico». Para estudiar: la excepción es la infracción manifiesta del ordenamiento jurídico.",
     "fuente": "Art. 95.2 i) TREBEP (RDLeg 5/2015)"
   },
   {
@@ -20556,7 +20556,7 @@ const QUESTIONS = {
       "El exceso o acumulación de tareas por plazo máximo de nueve meses, dentro de un periodo de dieciocho meses"
     ],
     "correct": 2,
-    "exp": "Pregunta 19 del examen oficial de 1 de junio de 2025. Art. 10.1 d) TREBEP: exceso o acumulación de tareas por plazo máximo de nueve meses, dentro de un periodo de dieciocho meses. Respuesta correcta: c).",
+    "exp": "Pregunta 19 del examen oficial de 1 de junio de 2025. Respuesta oficial: «El exceso o acumulación de tareas por plazo máximo de nueve meses, dentro de un periodo de dieciocho meses». Es literal del art. 10.1 TREBEP. Para estudiar: nueve meses dentro de dieciocho.",
     "fuente": "Art. 10.1 d) TREBEP (RDLeg 5/2015)"
   },
   {
@@ -20567,7 +20567,7 @@ const QUESTIONS = {
       "El dos por ciento"
     ],
     "correct": 0,
-    "exp": "Pregunta 20 del examen oficial de 1 de junio de 2025. Art. 59.1 TREBEP: al menos el 2% para discapacidad intelectual, por lo que el resto (hasta el 7% del cupo) corresponde al 5% para otras discapacidades. Respuesta correcta: a).",
+    "exp": "Pregunta 20 del examen oficial de 1 de junio de 2025. Respuesta oficial: «El cinco por ciento». Art. 59.1 TREBEP: el cupo es «no inferior al siete por ciento» y la reserva se hará de manera que «al menos, el dos por ciento de las plazas ofertadas lo sea para ser cubiertas por personas que acrediten discapacidad intelectual y el resto de las plazas ofertadas lo sea para personas que acrediten cualquier otro tipo de discapacidad». Del siete, al menos dos son para discapacidad intelectual y el resto, cinco, para otras discapacidades. Para estudiar: 7 % de cupo, con al menos un 2 % para discapacidad intelectual.",
     "fuente": "Art. 59.1 TREBEP (RDLeg 5/2015)"
   },
   {
@@ -20578,8 +20578,8 @@ const QUESTIONS = {
       "Ninguna de las respuestas anteriores es correcta"
     ],
     "correct": 2,
-    "exp": "Pregunta 21 del examen oficial de 1 de junio de 2025. Ni la infracción del ordenamiento jurídico en general (que es anulabilidad, art. 48) ni la desviación de poder (también anulabilidad) constituyen, por sí solas, causa de nulidad de pleno derecho del art. 47. Respuesta correcta: c).",
-    "fuente": "Examen oficial de Auxiliar Administrativo del Ayuntamiento de Zaragoza, 1-jun-2025, pregunta 21"
+    "exp": "Pregunta 21 del examen oficial de 1 de junio de 2025. Respuesta oficial: «Ninguna de las respuestas anteriores es correcta». Art. 48.1 LPAC: «Son anulables los actos de la Administración que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder». Ninguno de esos dos supuestos figura entre las causas de nulidad de pleno derecho del art. 47.1. Para estudiar: la infracción del ordenamiento jurídico y la desviación de poder son causas de anulabilidad, no de nulidad.",
+    "fuente": "Arts. 47.1 y 48.1 LPAC (Ley 39/2015)"
   },
   {
     "q": "[EXAMEN OFICIAL, P22] La Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local dice en su artículo 137 que en los municipios de gran población existirá un órgano para la resolución de las reclamaciones económico-administrativas, estableciendo en su apartado 2. que contra las resoluciones de este órgano:",
@@ -20589,7 +20589,7 @@ const QUESTIONS = {
       "Podrá interponerse recurso de alzada ante el Pleno"
     ],
     "correct": 1,
-    "exp": "Pregunta 22 del examen oficial de 1 de junio de 2025. Art. 137.2 LBRL: contra las resoluciones de este órgano solo cabrá recurso contencioso-administrativo. Respuesta correcta: b).",
+    "exp": "Pregunta 22 del examen oficial de 1 de junio de 2025. Respuesta oficial: «Sólo cabrá la interposición del recurso contencioso-administrativo». Art. 137.2 LBRL: «La resolución que se dicte pone fin a la vía administrativa y contra ella sólo cabrá la interposición del recurso contencioso-administrativo». La reposición potestativa del art. 137.3 se interpone antes de la reclamación, contra el acto de gestión tributaria, no contra la resolución del órgano. Para estudiar: contra lo que resuelve el órgano económico-administrativo, solo contencioso.",
     "fuente": "Art. 137.2 LBRL (Ley 7/1985)"
   },
   {
@@ -20600,7 +20600,7 @@ const QUESTIONS = {
       "El artículo 140"
     ],
     "correct": 1,
-    "exp": "Pregunta 23 del examen oficial de 1 de junio de 2025. El art. 142 CE establece el principio de suficiencia de las Haciendas locales. Respuesta correcta: b).",
+    "exp": "Pregunta 23 del examen oficial de 1 de junio de 2025. Respuesta oficial: «El artículo 142». Art. 142 CE: «Las Haciendas locales deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas…». Para estudiar: suficiencia de las Haciendas locales, art. 142 CE (el 140 es la autonomía municipal).",
     "fuente": "Art. 142 CE (Constitución Española)"
   },
   {
@@ -20611,8 +20611,8 @@ const QUESTIONS = {
       "Siempre que desarrolle de forma habitual su actividad en el centro de trabajo y tenga la capacidad necesaria, en función de los riesgos a que estén expuestos los trabajadores y la peligrosidad de las actividades"
     ],
     "correct": 2,
-    "exp": "Pregunta 24 del examen oficial de 1 de junio de 2025. Art. 30.5 LPRL exige ambos requisitos conjuntamente: actividad habitual en el centro y capacidad necesaria. Respuesta correcta: c).",
-    "fuente": "Examen oficial de Auxiliar Administrativo del Ayuntamiento de Zaragoza, 1-jun-2025, pregunta 24"
+    "exp": "Pregunta 24 del examen oficial de 1 de junio de 2025. Respuesta oficial: la que exige los dos requisitos a la vez. Art. 30.5 LPRL: en las empresas de hasta diez trabajadores el empresario podrá asumir personalmente esas funciones «siempre que desarrolle de forma habitual su actividad en el centro de trabajo y tenga la capacidad necesaria, en función de los riesgos a que estén expuestos los trabajadores y la peligrosidad de las actividades». Para estudiar: actividad habitual en el centro y capacidad necesaria, las dos cosas.",
+    "fuente": "Art. 30.5 Ley 31/1995, de Prevención de Riesgos Laborales"
   },
   {
     "q": "[EXAMEN OFICIAL, P25] De acuerdo con el artículo 139.1 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, las disposiciones generales aprobadas por las entidades locales en el ejercicio de la potestad reglamentaria y en el ámbito de su competencia adoptarán la denominación de:",
@@ -20622,8 +20622,8 @@ const QUESTIONS = {
       "Reglamentos u ordenanzas según cual sea su objeto"
     ],
     "correct": 2,
-    "exp": "Pregunta 25 del examen oficial de 1 de junio de 2025. Art. 139.1 Ley 7/1999 de Administración Local de Aragón: la denominación depende del objeto de la disposición. Respuesta correcta: c).",
-    "fuente": "Art. 139.1 TRLRHL (RDLeg 2/2004)"
+    "exp": "Pregunta 25 del examen oficial de 1 de junio de 2025. Respuesta oficial: «Reglamentos u ordenanzas según cual sea su objeto». Art. 139.1 de la Ley 7/1999, de Administración Local de Aragón: las disposiciones generales «adoptarán la denominación de reglamentos, si tuvieren por objeto regular la organización y funcionamiento de la entidad local y, en otro caso, la de ordenanzas». Para estudiar: reglamento si regula organización y funcionamiento; ordenanza en los demás casos.",
+    "fuente": "Art. 139.1 Ley 7/1999, de 9 de abril, de Administración Local de Aragón"
   },
   {
     "q": "[EXAMEN OFICIAL, P26] De acuerdo con el artículo 142.1 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón, los bandos dictados por los Alcaldes se publicarán:",
@@ -20633,8 +20633,8 @@ const QUESTIONS = {
       "En el tablón de anuncios de la Corporación"
     ],
     "correct": 1,
-    "exp": "Pregunta 26 del examen oficial de 1 de junio de 2025. Art. 142.1 Ley 7/1999 de Administración Local de Aragón: los bandos se publican conforme a los usos y costumbres de la localidad. Respuesta correcta: b).",
-    "fuente": "Examen oficial de Auxiliar Administrativo del Ayuntamiento de Zaragoza, 1-jun-2025, pregunta 26"
+    "exp": "Pregunta 26 del examen oficial de 1 de junio de 2025. Respuesta oficial: «Conforme a los usos y costumbre de la localidad». Art. 142.1 de la Ley 7/1999, de Administración Local de Aragón, sobre los bandos de los Alcaldes: «Se publicarán conforme a los usos y costumbre de la localidad». Para estudiar: los bandos, según los usos y costumbre de la localidad.",
+    "fuente": "Art. 142.1 Ley 7/1999, de 9 de abril, de Administración Local de Aragón"
   },
   {
     "q": "[EXAMEN OFICIAL, P27] El Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, no incluye en su Título III (\"Recursos de las provincias\"):",
@@ -20644,8 +20644,8 @@ const QUESTIONS = {
       "Las respuestas a) y b) son correctas"
     ],
     "correct": 2,
-    "exp": "Pregunta 27 del examen oficial de 1 de junio de 2025. Ni los impuestos ni la prestación personal y de transporte se incluyen entre los recursos propios de las provincias del Título III TRLRHL (a diferencia de los municipios). Respuesta correcta: c).",
-    "fuente": "Examen oficial de Auxiliar Administrativo del Ayuntamiento de Zaragoza, 1-jun-2025, pregunta 27"
+    "exp": "Pregunta 27 del examen oficial de 1 de junio de 2025. Respuesta oficial: la que da por buenas las dos exclusiones (ni los impuestos ni la prestación personal y de transporte). El Título III TRLRHL («Recursos de las provincias») regula como recursos tributarios propios de las provincias las tasas (art. 132), las contribuciones especiales (art. 133) y el recargo sobre el Impuesto sobre Actividades Económicas (art. 134), además de la cesión de recaudación de impuestos del Estado; no les atribuye impuestos propios. La prestación personal y de transporte solo pueden imponerla los ayuntamientos de hasta 5.000 habitantes (art. 128.1). Para estudiar: las provincias no tienen impuestos propios ni prestación personal y de transporte.",
+    "fuente": "Título III TRLRHL (arts. 131 a 134) y art. 128.1 TRLRHL (RDLeg 2/2004)"
   },
   {
     "q": "[EXAMEN OFICIAL, P28] De acuerdo con el artículo 129.3 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales:",
@@ -20655,7 +20655,7 @@ const QUESTIONS = {
       "Las respuestas a) y b) son correctas"
     ],
     "correct": 2,
-    "exp": "Pregunta 28 del examen oficial de 1 de junio de 2025. Art. 129.3 TRLRHL: la prestación personal no excede de 15 días al año ni de 3 días consecutivos. Respuesta correcta: c).",
+    "exp": "Pregunta 28 del examen oficial de 1 de junio de 2025. Respuesta oficial: la que da por buenos los dos límites. Art. 129.3 TRLRHL: «La prestación personal no excederá de 15 días al año ni de tres consecutivos y podrá ser redimida a metálico por un importe del doble del salario mínimo interprofesional». Para estudiar: 15 días al año y no más de 3 consecutivos.",
     "fuente": "Art. 129.3 TRLRHL (RDLeg 2/2004)"
   },
   {
@@ -20666,7 +20666,7 @@ const QUESTIONS = {
       "De las participaciones en los tributos del Estado"
     ],
     "correct": 1,
-    "exp": "Pregunta 29 del examen oficial de 1 de junio de 2025. Art. 147.2 TRLRHL: dichas participaciones tienen naturaleza de subvención. Respuesta correcta: b).",
+    "exp": "Pregunta 29 del examen oficial de 1 de junio de 2025. Respuesta oficial: «De las subvenciones». Art. 147.2 TRLRHL: «Participan de la naturaleza de las subvenciones las participaciones que las Diputaciones Provinciales tienen actualmente en las Apuestas Mutuas Deportivas del Estado». Para estudiar: naturaleza de subvención.",
     "fuente": "Art. 147.2 TRLRHL (RDLeg 2/2004)"
   },
   {
@@ -20677,8 +20677,8 @@ const QUESTIONS = {
       "Se asientan quince distritos. Uno de ellos, el Distrito Rural, comprende los quince barrios rurales"
     ],
     "correct": 1,
-    "exp": "Pregunta 30 del examen oficial de 1 de junio de 2025. Art. 2 ROTPC: 16 distritos en total, siendo el Distrito Rural el que comprende los 14 barrios rurales. Respuesta correcta: b).",
-    "fuente": "Examen oficial de Auxiliar Administrativo del Ayuntamiento de Zaragoza, 1-jun-2025, pregunta 30"
+    "exp": "Pregunta 30 del examen oficial de 1 de junio de 2025. Respuesta oficial: «Se asientan dieciséis distritos. Uno de ellos, el Distrito Rural, comprende los catorce barrios rurales». Art. 2 del Reglamento de Órganos Territoriales y Participación Ciudadana: «En el término municipal de Zaragoza se asientan dieciséis distritos: […] y el Distrito Rural, que comprende los catorce barrios rurales». Para estudiar: 16 distritos y 14 barrios rurales.",
+    "fuente": "Art. 2, párrafo segundo, ROTPC (Ayuntamiento de Zaragoza)"
   },
   {
     "q": "[EXAMEN OFICIAL, P31] De acuerdo con el artículo 2, párrafo segundo, del Reglamento de Órganos Territoriales y Participación Ciudadana:",
@@ -20688,8 +20688,8 @@ const QUESTIONS = {
       "Los Distritos se rigen por las Juntas de Distrito y los Barrios Rurales por las Juntas de Barrio"
     ],
     "correct": 0,
-    "exp": "Pregunta 31 del examen oficial de 1 de junio de 2025. Art. 2 ROTPC: Distritos = Juntas Municipales; Barrios Rurales = Juntas Vecinales. Respuesta correcta: a).",
-    "fuente": "Examen oficial de Auxiliar Administrativo del Ayuntamiento de Zaragoza, 1-jun-2025, pregunta 31"
+    "exp": "Pregunta 31 del examen oficial de 1 de junio de 2025. Respuesta oficial: «Los Distritos se rigen por las Juntas Municipales y los Barrios Rurales por las Juntas Vecinales». Es literal del art. 2, párrafo segundo, del Reglamento de Órganos Territoriales y Participación Ciudadana. Para estudiar: Distrito, Junta Municipal; Barrio Rural, Junta Vecinal.",
+    "fuente": "Art. 2, párrafo segundo, ROTPC (Ayuntamiento de Zaragoza)"
   },
   {
     "q": "[EXAMEN OFICIAL, P32] De acuerdo con el artículo 51, último párrafo, del Reglamento de Órganos Territoriales y Participación Ciudadana, se reconoce la iniciativa para proponer al Ayuntamiento la aprobación de reglamentos y ordenanzas cuando sea promovida por un número de ciudadanos, mayores de edad, empadronados en la ciudad, que represente:",
@@ -20699,7 +20699,7 @@ const QUESTIONS = {
       "El 10% del padrón municipal"
     ],
     "correct": 2,
-    "exp": "Pregunta 32 del examen oficial de 1 de junio de 2025. Art. 51 in fine ROTPC: se exige el 10% del padrón municipal. Respuesta correcta: c).",
+    "exp": "Pregunta 32 del examen oficial de 1 de junio de 2025. Respuesta oficial: «El 10% del padrón municipal». Art. 51 del Reglamento de Órganos Territoriales y Participación Ciudadana, último párrafo: se reconoce la iniciativa para proponer la aprobación de reglamentos y ordenanzas «cuando sea promovida por un número de ciudadanos, mayores de edad, empadronados en la ciudad, que represente el 10% del padrón municipal». Para estudiar: 10 % del padrón.",
     "fuente": "Art. 51 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)"
   },
   {
@@ -20710,8 +20710,8 @@ const QUESTIONS = {
       "El Alcalde"
     ],
     "correct": 0,
-    "exp": "Pregunta 33 del examen oficial de 1 de junio de 2025. Disposición adicional segunda, apartado 4, LCSP (en relación con el art. 121 LCSP): la aprobación de pliegos de cláusulas administrativas generales corresponde al Pleno. Respuesta correcta: a).",
-    "fuente": "Disposición adicional segunda LCSP (Ley 9/2017)"
+    "exp": "Pregunta 33 del examen oficial de 1 de junio de 2025. Respuesta oficial: «El Pleno». La disposición adicional segunda, apartado 4, LCSP atribuye en los municipios de gran población las competencias de contratación a la Junta de Gobierno Local, «siendo el Pleno el competente para aprobar los pliegos de cláusulas administrativas generales». Para estudiar: los pliegos de cláusulas administrativas generales los aprueba el Pleno.",
+    "fuente": "Disposición adicional segunda, apartado 4, LCSP (Ley 9/2017)"
   },
   {
     "q": "[EXAMEN OFICIAL, P34] De acuerdo con la disposición adicional segunda. 7. de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, en las entidades locales la Mesa de contratación estará presidida:",
@@ -20721,8 +20721,8 @@ const QUESTIONS = {
       "Por el Alcalde o Presidente de la entidad local"
     ],
     "correct": 1,
-    "exp": "Pregunta 34 del examen oficial de 1 de junio de 2025. Disposición adicional segunda, apartado 7, LCSP: la Mesa de contratación estará presidida por un miembro de la Corporación o un funcionario de la misma. Respuesta correcta: b).",
-    "fuente": "Disposición adicional segunda LCSP (Ley 9/2017)"
+    "exp": "Pregunta 34 del examen oficial de 1 de junio de 2025. Respuesta oficial: «Por un miembro de la Corporación o un funcionario de la misma». Disposición adicional segunda, apartado 7, LCSP: «La Mesa de contratación estará presidida por un miembro de la Corporación o un funcionario de la misma». Para estudiar: miembro de la Corporación o funcionario de la misma.",
+    "fuente": "Disposición adicional segunda, apartado 7, LCSP (Ley 9/2017)"
   },
   {
     "q": "[EXAMEN OFICIAL, P35] De acuerdo con la disposición adicional tercera. 6. de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, tratándose de contratación pública en las entidades locales:",
@@ -20732,8 +20732,8 @@ const QUESTIONS = {
       "Serán de aplicación a los contratos de obras las normas sobre supervisión de proyectos establecidas en esa ley, únicamente cuando se trate de municipios de gran población"
     ],
     "correct": 1,
-    "exp": "Pregunta 35 del examen oficial de 1 de junio de 2025. Disposición adicional tercera, apartado 6, LCSP: sí son de aplicación a las entidades locales las normas sobre supervisión de proyectos de obras. Respuesta correcta: b).",
-    "fuente": "Disposición adicional tercera LCSP (Ley 9/2017)"
+    "exp": "Pregunta 35 del examen oficial de 1 de junio de 2025. Respuesta oficial: «Serán de aplicación a los contratos de obras las normas sobre supervisión de proyectos establecidas en esa ley». Disposición adicional tercera, apartado 6, LCSP: «Serán de aplicación a los contratos de obras las normas sobre supervisión de proyectos establecidas en el artículo 235», sin limitarlo a los municipios de gran población; la supervisión puede hacerla la propia entidad o, si carece de oficinas, la Diputación o la comunidad uniprovincial. Para estudiar: se aplican en todas las entidades locales.",
+    "fuente": "Disposición adicional tercera, apartado 6, LCSP (Ley 9/2017)"
   },
   {
     "q": "[EXAMEN OFICIAL, P36] De acuerdo con el artículo 126.2 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, en los municipios de gran población el número de miembros de la Junta de Gobierno Local:",
@@ -20743,7 +20743,7 @@ const QUESTIONS = {
       "No podrá exceder de la mitad del número legal de miembros del Pleno"
     ],
     "correct": 1,
-    "exp": "Pregunta 36 del examen oficial de 1 de junio de 2025. Art. 126.2 LBRL: el número de miembros de la Junta de Gobierno Local no excederá de un tercio del número legal de miembros del Pleno, además del Alcalde. Respuesta correcta: b).",
+    "exp": "Pregunta 36 del examen oficial de 1 de junio de 2025. Respuesta oficial: «No podrá exceder de un tercio del número legal de miembros del Pleno, además del Alcalde». Es literal del art. 126.2 LBRL. Para estudiar: un tercio del número legal de miembros del Pleno, más el Alcalde.",
     "fuente": "Art. 126.2 LBRL (Ley 7/1985)"
   },
   {
@@ -20754,8 +20754,8 @@ const QUESTIONS = {
       "El Pleno, que puede delegar esa condición en la Junta de Gobierno Local"
     ],
     "correct": 0,
-    "exp": "Pregunta 37 del examen oficial de 1 de junio de 2025. Arts. 122.1 y 124.1 LBRL: el Pleno es el órgano de máxima representación política, sin posibilidad de delegar esa condición. Respuesta correcta: a).",
-    "fuente": "Examen oficial de Auxiliar Administrativo del Ayuntamiento de Zaragoza, 1-jun-2025, pregunta 37"
+    "exp": "Pregunta 37 del examen oficial de 1 de junio de 2025. Respuesta oficial: «El Pleno». Art. 122.1 LBRL: «El Pleno, formado por el Alcalde y los Concejales, es el órgano de máxima representación política de los ciudadanos en el gobierno municipal». No es delegable y no hay que confundirlo con el art. 124.1: «El Alcalde ostenta la máxima representación del municipio». Para estudiar: el Pleno, máxima representación política de los ciudadanos; el Alcalde, máxima representación del municipio.",
+    "fuente": "Arts. 122.1 y 124.1 LBRL (Ley 7/1985)"
   },
   {
     "q": "[EXAMEN OFICIAL, P38] De acuerdo con el artículo 30.2. párrafo primero, de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, siempre que por Ley o en el Derecho de la Unión Europea no se exprese otro cómputo, cuando los plazos se señalen por días, se entiende que éstos son hábiles, excluyéndose del cómputo:",
@@ -20765,7 +20765,7 @@ const QUESTIONS = {
       "Los sábados y los declarados festivos"
     ],
     "correct": 1,
-    "exp": "Pregunta 38 del examen oficial de 1 de junio de 2025. Art. 30.2 Ley 39/2015: se excluyen del cómputo los sábados, los domingos y los declarados festivos. Respuesta correcta: b).",
+    "exp": "Pregunta 38 del examen oficial de 1 de junio de 2025. Respuesta oficial: «Los sábados, los domingos y los declarados festivos». Es literal del art. 30.2 LPAC. Para estudiar: los días hábiles excluyen sábados, domingos y festivos.",
     "fuente": "Art. 30.2 LPAC (Ley 39/2015)"
   },
   {
@@ -20776,7 +20776,7 @@ const QUESTIONS = {
       "Las respuestas a) y b) son correctas"
     ],
     "correct": 0,
-    "exp": "Pregunta 39 del examen oficial de 1 de junio de 2025. Art. 109.2 Ley 39/2015: la rectificación de errores materiales puede hacerse de oficio o a instancia de los interesados. Respuesta correcta: a).",
+    "exp": "Pregunta 39 del examen oficial de 1 de junio de 2025. Respuesta oficial: «De oficio o a instancia de los interesados». Art. 109.2 LPAC: las Administraciones podrán «rectificar en cualquier momento, de oficio o a instancia de los interesados, los errores materiales, de hecho o aritméticos existentes en sus actos». El límite del plazo de prescripción es del art. 109.1, para la revocación de actos de gravamen. Para estudiar: rectificación de errores, en cualquier momento, de oficio o a instancia.",
     "fuente": "Art. 109.2 LPAC (Ley 39/2015)"
   },
   {
@@ -20787,8 +20787,8 @@ const QUESTIONS = {
       "Es causa de desestimación del recurso"
     ],
     "correct": 1,
-    "exp": "Pregunta 40 del examen oficial de 1 de junio de 2025. Art. 116 Ley 39/2015: la falta de legitimación es causa de inadmisión del recurso. Respuesta correcta: b).",
-    "fuente": "Examen oficial de Auxiliar Administrativo del Ayuntamiento de Zaragoza, 1-jun-2025, pregunta 40"
+    "exp": "Pregunta 40 del examen oficial de 1 de junio de 2025. Respuesta oficial: «Es causa de inadmisión del recurso». El art. 116 LPAC enumera las causas de inadmisión y entre ellas está «carecer de legitimación el recurrente». Para estudiar: la falta de legitimación del recurrente lleva a la inadmisión.",
+    "fuente": "Art. 116 LPAC (Ley 39/2015)"
   },
   {
     "q": "[EXAMEN OFICIAL, P41] De acuerdo con los artículos 167 y siguientes del Real Decreto legislativo 781/1986, de 18 de abril, que aprueba el texto refundido de las disposiciones legales vigentes en materia de Régimen Local, Personal de Oficios es una clase comprendida:",
@@ -20798,8 +20798,8 @@ const QUESTIONS = {
       "En la Escala de Administración Especial, Subescala Técnica, Técnicos Auxiliares"
     ],
     "correct": 1,
-    "exp": "Pregunta 41 del examen oficial de 1 de junio de 2025. Arts. 167 y ss. TRRL: Personal de Oficios se encuadra en la Escala de Administración Especial, Subescala de Servicios Especiales. Respuesta correcta: b).",
-    "fuente": "Examen oficial de Auxiliar Administrativo del Ayuntamiento de Zaragoza, 1-jun-2025, pregunta 41"
+    "exp": "Pregunta 41 del examen oficial de 1 de junio de 2025. Respuesta oficial: «En la Escala de Administración Especial, Subescala de Servicios Especiales». El art. 167.3 TRRL divide la Escala de Administración Especial en las Subescalas Técnica y de Servicios Especiales, y el art. 172.2 incluye en la de Servicios Especiales la clase «Personal de Oficios», junto a Policía Local, Extinción de Incendios, Cometidos Especiales y Agentes forestales y medioambientales. Para estudiar: Personal de Oficios, Administración Especial, Servicios Especiales.",
+    "fuente": "Arts. 167.3 y 172.2 TRRL (RDLeg 781/1986)"
   },
   {
     "q": "[EXAMEN OFICIAL, P42] De acuerdo con el artículo 76 del Real Decreto Legislativo 5/2015, de 30 de octubre, que aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, la titulación exigida para el ingreso en el grupo A, Subgrupo A2, es:",
@@ -20809,7 +20809,7 @@ const QUESTIONS = {
       "Título de Bachiller o Técnico"
     ],
     "correct": 1,
-    "exp": "Pregunta 42 del examen oficial de 1 de junio de 2025. Art. 76 TREBEP: para el Subgrupo A2 se exige título universitario de Grado. Respuesta correcta: b).",
+    "exp": "Pregunta 42 del examen oficial de 1 de junio de 2025. Respuesta oficial: «Título universitario de Grado». Art. 76 TREBEP: para el Grupo A, dividido en A1 y A2, «se exigirá estar en posesión del título universitario de Grado». El de Técnico Superior es para el Grupo B, y el de Bachiller o Técnico para el C1. Para estudiar: A1 y A2, Grado.",
     "fuente": "Art. 76 TREBEP (RDLeg 5/2015)"
   },
   {
@@ -20820,7 +20820,7 @@ const QUESTIONS = {
       "A la Junta de Gobierno Local"
     ],
     "correct": 2,
-    "exp": "Pregunta 43 del examen oficial de 1 de junio de 2025. Art. 127.1 b) LBRL: la aprobación del proyecto de presupuesto (no la definitiva, que es del Pleno) corresponde a la Junta de Gobierno Local. Respuesta correcta: c).",
+    "exp": "Pregunta 43 del examen oficial de 1 de junio de 2025. Respuesta oficial: «A la Junta de Gobierno Local». Art. 127.1 LBRL: corresponde a la Junta de Gobierno Local «la aprobación del proyecto de presupuesto»; la aprobación del presupuesto corresponde al Pleno. Para estudiar: proyecto, Junta de Gobierno Local; presupuesto, Pleno.",
     "fuente": "Art. 127.1 b) LBRL (Ley 7/1985)"
   },
   {
@@ -20831,8 +20831,8 @@ const QUESTIONS = {
       "De rentabilidad social"
     ],
     "correct": 1,
-    "exp": "Pregunta 44 del examen oficial de 1 de junio de 2025. Art. 99.1 Decreto 347/2002 (Aragón): criterios de rentabilidad económica o social. Respuesta correcta: b).",
-    "fuente": "Examen oficial de Auxiliar Administrativo del Ayuntamiento de Zaragoza, 1-jun-2025, pregunta 44"
+    "exp": "Pregunta 44 del examen oficial de 1 de junio de 2025. Respuesta oficial: «De rentabilidad económica o social». Art. 99.1 del Decreto 347/2002 (Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón): «Corresponde a las Entidades locales regular la forma de utilización de sus bienes patrimoniales, de acuerdo con criterios de rentabilidad económica o social». Para estudiar: rentabilidad económica o social.",
+    "fuente": "Art. 99.1 Decreto 347/2002, de 19 de noviembre (Reglamento de Bienes de las Entidades Locales de Aragón)"
   },
   {
     "q": "[EXAMEN OFICIAL, P45] De acuerdo con el artículo 224 de la Ley 7/1999, de 9 de abril, de Administración Local de Aragón:",
@@ -20842,7 +20842,7 @@ const QUESTIONS = {
       "Las entidades locales podrán otorgar auxilios económicos a entidades públicas o privadas y a los particulares que realicen actividades de interés público"
     ],
     "correct": 1,
-    "exp": "Pregunta 45 del examen oficial de 1 de junio de 2025. Art. 224 Ley 7/1999 (Aragón): los auxilios pueden concederse a entidades públicas o privadas y a particulares que complementen o suplan actividades de la entidad local. Respuesta correcta: b).",
+    "exp": "Pregunta 45 del examen oficial de 1 de junio de 2025. Respuesta oficial: la que incluye a «los particulares» y la coletilla «que complementen o suplan las de la entidad local». Art. 224 de la Ley 7/1999: «Las entidades locales podrán otorgar auxilios económicos a entidades públicas o privadas y a los particulares que realicen actividades de interés público que complementen o suplan las de la entidad local». Para estudiar: también a particulares, y siempre que complementen o suplan la actividad de la entidad local.",
     "fuente": "Art. 224 Ley 7/1999 (Administración Local de Aragón)"
   },
   {
@@ -20853,7 +20853,7 @@ const QUESTIONS = {
       "Ninguna de las respuestas anteriores es correcta"
     ],
     "correct": 1,
-    "exp": "Pregunta 46 del examen oficial de 1 de junio de 2025. Art. 27.1 LBRL: la duración de la delegación no podrá ser inferior a cinco años. Respuesta correcta: b).",
+    "exp": "Pregunta 46 del examen oficial de 1 de junio de 2025. Respuesta oficial: «Cinco años». Art. 27.1 LBRL: la delegación deberá determinar su duración, «que no podrá ser inferior a cinco años». Para estudiar: mínimo cinco años.",
     "fuente": "Art. 27.1 LBRL (Ley 7/1985)"
   },
   {
@@ -20864,8 +20864,8 @@ const QUESTIONS = {
       "Las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general"
     ],
     "correct": 1,
-    "exp": "Pregunta 47 del examen oficial de 1 de junio de 2025. Art. 37.1 Ley 39/2015: la prohibición rige incluso si la resolución particular procede de un órgano de igual o superior jerarquía al que dictó la disposición general. Respuesta correcta: b).",
-    "fuente": "Examen oficial de Auxiliar Administrativo del Ayuntamiento de Zaragoza, 1-jun-2025, pregunta 47"
+    "exp": "Pregunta 47 del examen oficial de 1 de junio de 2025. Respuesta oficial: la versión completa, con «aunque aquéllas procedan de un órgano de igual o superior jerarquía». Art. 37.1 LPAC: «Las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general, aunque aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general». Para estudiar: inderogabilidad singular, «aunque» (no «salvo que») procedan de órgano de igual o superior jerarquía.",
+    "fuente": "Art. 37.1 LPAC (Ley 39/2015)"
   },
   {
     "q": "[EXAMEN OFICIAL, P48] De acuerdo con el artículo 40.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
@@ -20875,8 +20875,8 @@ const QUESTIONS = {
       "Las respuestas a) y b) son correctas"
     ],
     "correct": 2,
-    "exp": "Pregunta 48 del examen oficial de 1 de junio de 2025. La respuesta que figura como correcta en el examen es «Las respuestas a) y b) son correctas». OJO: el art. 40.2 de la Ley 39/2015 vigente fija un plazo de DIEZ días desde que se dicta el acto, no quince como decía una de las opciones. La exigencia del texto íntegro de la resolución sí es literal. Para estudiar, quédate con la ley: diez días.",
-    "fuente": "Examen oficial de Auxiliar Administrativo del Ayuntamiento de Zaragoza, 1-jun-2025, pregunta 48"
+    "exp": "Pregunta 48 del examen oficial de 1 de junio de 2025, con la respuesta oficial del examen: la que da por buenas las dos afirmaciones (notificación cursada «dentro del plazo de quince días» y con «el texto íntegro de la resolución»). OJO: el art. 40.2 LPAC vigente dice «Toda notificación deberá ser cursada dentro del plazo de diez días a partir de la fecha en que el acto haya sido dictado, y deberá contener el texto íntegro de la resolución». La exigencia del texto íntegro es literal, pero el plazo es de diez días, no de quince. Para estudiar, quédate con la ley: diez días desde que se dicta el acto, y texto íntegro.",
+    "fuente": "Art. 40.2 LPAC (Ley 39/2015)"
   },
   {
     "q": "[EXAMEN OFICIAL, P49] De acuerdo con el artículo 119.3. de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas ¿Puede la resolución de un recurso administrativo agravar la situación inicial del recurrente?",
@@ -20886,7 +20886,7 @@ const QUESTIONS = {
       "No, en ningún caso"
     ],
     "correct": 2,
-    "exp": "Pregunta 49 del examen oficial de 1 de junio de 2025. Art. 119.3 Ley 39/2015: la resolución del recurso no puede agravar la situación inicial del recurrente (principio de interdicción de la reformatio in peius). Respuesta correcta: c).",
+    "exp": "Pregunta 49 del examen oficial de 1 de junio de 2025. Respuesta oficial: «No, en ningún caso». Art. 119.3 LPAC: la resolución «será congruente con las peticiones formuladas por el recurrente, sin que en ningún caso pueda agravarse su situación inicial» (prohibición de la reformatio in peius). Para estudiar: nunca puede agravarse la situación inicial del recurrente.",
     "fuente": "Art. 119.3 LPAC (Ley 39/2015)"
   },
   {
@@ -20897,7 +20897,7 @@ const QUESTIONS = {
       "Las respuestas a) y b) son correctas"
     ],
     "correct": 2,
-    "exp": "Pregunta 50 del examen oficial de 1 de junio de 2025. Art. 76.3 EAAr: corresponden a la Comunidad Autónoma ambas coordinaciones. Respuesta correcta: c).",
+    "exp": "Pregunta 50 del examen oficial de 1 de junio de 2025, con la respuesta oficial del examen: la que da por buenas las dos coordinaciones (la de las Policías locales aragonesas y la de la Policía autonómica con las Policías locales). OJO: el art. 76.3 del Estatuto de Autonomía de Aragón solo dice «Corresponde a la Comunidad Autónoma la coordinación de la actuación de las Policías locales aragonesas». La coordinación de la Policía autonómica con las Policías locales no figura en ese apartado; el 76.4 prevé una Junta de Seguridad para coordinar la Policía autonómica con los Cuerpos y Fuerzas de Seguridad del Estado. Para estudiar, quédate con la ley: el 76.3 atribuye a Aragón la coordinación de la actuación de las Policías locales aragonesas.",
     "fuente": "Art. 76.3 EAAr (LO 5/2007)"
   },
   {
@@ -20908,8 +20908,8 @@ const QUESTIONS = {
       "Las respuestas a) y b) son correctas"
     ],
     "correct": 2,
-    "exp": "Pregunta de reserva 1 del examen oficial de 1 de junio de 2025. Art. 30 TRLRHL (en relación con el art. 30.2 c) TRLRHL): ambos son sujetos pasivos especialmente beneficiados. Respuesta correcta: c).",
-    "fuente": "Art. 30 TRLRHL (RDLeg 2/2004)"
+    "exp": "Reserva 1 del examen oficial de 1 de junio de 2025, con la respuesta oficial del examen: la que da por buenos a los dos sujetos (titulares de derechos sobre los bienes afectados y compañías de seguros). OJO con el matiz: el art. 30.2 TRLRHL dice que en las contribuciones especiales por servicios de extinción de incendios son personas especialmente beneficiadas, «además de los propietarios de los bienes afectados, las compañías de seguros que desarrollen su actividad en el ramo, en el término municipal correspondiente». La ley habla de «propietarios», no de cualquier «titular de derechos» sobre los bienes. Para estudiar, quédate con la ley: propietarios de los bienes afectados y compañías de seguros del ramo en el término municipal.",
+    "fuente": "Art. 30.2 TRLRHL (RDLeg 2/2004)"
   },
   {
     "q": "[EXAMEN OFICIAL, Reserva 2] De acuerdo con el artículo 98.1 b) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los actos de las Administraciones Públicas sujetos al Derecho Administrativo serán inmediatamente ejecutivos, salvo que:",
@@ -20919,7 +20919,7 @@ const QUESTIONS = {
       "Se trate de una resolución de un procedimiento contra la que quepa algún recurso en vía administrativa"
     ],
     "correct": 0,
-    "exp": "Pregunta de reserva 2 del examen oficial de 1 de junio de 2025. Art. 98.1 b) Ley 39/2015: la excepción de ejecutividad inmediata se refiere a resoluciones sancionadoras recurribles en vía administrativa, incluido el potestativo de reposición. Respuesta correcta: a).",
+    "exp": "Reserva 2 del examen oficial de 1 de junio de 2025. Respuesta oficial: la resolución sancionadora «contra la que quepa algún recurso en vía administrativa, incluido el potestativo de reposición». Es literal del art. 98.1 LPAC. Para estudiar: la sanción no es ejecutiva mientras quepa recurso administrativo, incluida la reposición potestativa.",
     "fuente": "Art. 98.1 b) LPAC (Ley 39/2015)"
   },
   {
@@ -20930,7 +20930,7 @@ const QUESTIONS = {
       "Salvo que la norma reguladora del correspondiente procedimiento establezca uno diferente"
     ],
     "correct": 1,
-    "exp": "Pregunta de reserva 3 del examen oficial de 1 de junio de 2025. Art. 96.6 Ley 39/2015: el plazo de 30 días se aplica salvo que reste menos tiempo para la tramitación ordinaria. Respuesta correcta: b).",
+    "exp": "Reserva 3 del examen oficial de 1 de junio de 2025. Respuesta oficial: «Salvo que reste menos para su tramitación ordinaria». Art. 96.6 LPAC: «Salvo que reste menos para su tramitación ordinaria, los procedimientos administrativos tramitados de manera simplificada deberán ser resueltos en treinta días, a contar desde el siguiente al que se notifique al interesado el acuerdo de tramitación simplificada». Para estudiar: treinta días, salvo que reste menos para la tramitación ordinaria.",
     "fuente": "Art. 96.6 LPAC (Ley 39/2015)"
   },
   {
@@ -20941,7 +20941,7 @@ const QUESTIONS = {
       "Ninguna de las respuestas anteriores es correcta"
     ],
     "correct": 1,
-    "exp": "Pregunta de reserva 4 del examen oficial de 1 de junio de 2025. Art. 100.1 TRLRHL: el hecho imponible se produce con independencia de que se haya obtenido o no la licencia, y de a quién corresponda expedirla. Respuesta correcta: b).",
+    "exp": "Reserva 4 del examen oficial de 1 de junio de 2025, con la respuesta oficial del examen: la definición que termina «independientemente de que la expedición de la licencia corresponda al ayuntamiento de la imposición». OJO: el art. 100.1 TRLRHL dice lo contrario. El hecho imponible es la realización de la obra «para la que se exija obtención de la correspondiente licencia de obras o urbanística, se haya obtenido o no dicha licencia, o para la que se exija presentación de declaración responsable o comunicación previa, siempre que la expedición de la licencia o la actividad de control corresponda al ayuntamiento de la imposición». Por la ley, ninguna de las dos definiciones es correcta. Para estudiar, quédate con la ley: se haya obtenido o no la licencia, y «siempre que» su expedición o el control corresponda al ayuntamiento que impone el ICIO.",
     "fuente": "Art. 100.1 TRLRHL (RDLeg 2/2004)"
   },
   {
@@ -20952,8 +20952,8 @@ const QUESTIONS = {
       "Durante más de veinticinco años, aunque en alguno de ellos se haya producido acto aislado de aprovechamiento"
     ],
     "correct": 1,
-    "exp": "Pregunta de reserva 5 del examen oficial de 1 de junio de 2025. Art. 179.1 Ley 7/1999 (Aragón): más de veinte años. Respuesta correcta: b).",
-    "fuente": "Examen oficial de Auxiliar Administrativo del Ayuntamiento de Zaragoza, 1-jun-2025"
+    "exp": "Reserva 5 del examen oficial de 1 de junio de 2025, con la respuesta oficial del examen: «Durante más de veinte años». OJO: el art. 179.1 de la Ley 7/1999, de Administración Local de Aragón, dice «durante más de diez años, aunque en alguno de ellos se haya producido acto aislado de aprovechamiento». El precepto no ha sido modificado y coincide con el art. 100.1 del Reglamento estatal de Bienes. Para estudiar, quédate con la ley: más de diez años sin disfrute comunal.",
+    "fuente": "Art. 179.1 Ley 7/1999, de 9 de abril, de Administración Local de Aragón"
   },
   {
     "q": "[EXAMEN OFICIAL 1-jun-2025, SEGUNDA PRUEBA, caso 1, P1] Como el municipio tiene organismos autónomos dependientes y hay sociedades mercantiles cuyo capital social le pertenece íntegramente o en el que participa en parte, en el presupuesto general se integrarán de acuerdo con el artículo 164.1 del Real Decreto Legislativo 2/2004, de 5 de marzo, que aprueba el texto refundido de la Ley reguladora de las Haciendas Locales:",
@@ -20964,7 +20964,7 @@ const QUESTIONS = {
       "El presupuesto de la propia entidad, los estados de previsión de gastos e ingresos de los organismos autónomos dependientes de esta y los estados de previsión de gastos e ingresos de las sociedades mercantiles en las que la participación de la entidad local sea mayoritaria o minoritaria"
     ],
     "correct": 0,
-    "exp": "Segunda prueba, primer supuesto práctico, pregunta 1 del examen oficial de 1 de junio de 2025. Art. 164.1 TRLRHL. Respuesta correcta: a).",
+    "exp": "Segunda prueba, supuesto 1, pregunta 1 del examen oficial de 1 de junio de 2025. Respuesta oficial: el presupuesto de la propia entidad, los presupuestos de los organismos autónomos y los estados de previsión de las sociedades de capital íntegramente local. Art. 164.1 TRLRHL: en el presupuesto general se integran «el presupuesto de la propia entidad», «los de los organismos autónomos dependientes de esta» y «los estados de previsión de gastos e ingresos de las sociedades mercantiles cuyo capital social pertenezca íntegramente a la entidad local». Las sociedades de participación mayoritaria o minoritaria no se integran (las de capital mayoritario van como anexo, art. 166.1). Para estudiar: entidad, organismos autónomos y sociedades íntegramente locales.",
     "fuente": "Art. 164.1 TRLRHL (RDLeg 2/2004)"
   },
   {
@@ -20976,7 +20976,7 @@ const QUESTIONS = {
       "Ninguna de las anteriores es correcta"
     ],
     "correct": 2,
-    "exp": "Pregunta 2 del primer supuesto práctico (segunda prueba) del examen oficial de 1 de junio de 2025. Art. 166.1 a) TRLRHL: plazo de cuatro años. Respuesta correcta: c).",
+    "exp": "Segunda prueba, supuesto 1, pregunta 2 del examen oficial de 1 de junio de 2025. Respuesta oficial: «Para un plazo de cuatro años». Art. 166.1 TRLRHL: se unen como anexos «los planes y programas de inversión y financiación que, para un plazo de cuatro años, podrán formular los municipios y demás entidades locales de ámbito supramunicipal». Para estudiar: cuatro años.",
     "fuente": "Art. 166.1 a) TRLRHL (RDLeg 2/2004)"
   },
   {
@@ -20988,7 +20988,7 @@ const QUESTIONS = {
       "Ninguna de las respuestas anteriores es correcta"
     ],
     "correct": 0,
-    "exp": "Pregunta 3 del primer supuesto práctico (segunda prueba) del examen oficial de 1 de junio de 2025. Art. 167.3 b) TRLRHL: los intereses se incluyen en gastos corrientes, no de capital, por lo que solo a) es correcta. Respuesta correcta: a).",
+    "exp": "Segunda prueba, supuesto 1, pregunta 3 del examen oficial de 1 de junio de 2025. Respuesta oficial: solo la de los gastos de funcionamiento en los créditos corrientes. Art. 167.3 TRLRHL: «En los créditos para gastos corrientes se incluirán los de funcionamiento de los servicios, los de intereses y las transferencias corrientes. En los créditos para gastos de capital, los de inversiones reales, las transferencias de capital y las variaciones de activos y pasivos financieros». Los intereses son gasto corriente, no de capital. Para estudiar: intereses, gasto corriente.",
     "fuente": "Art. 167.3 b) TRLRHL (RDLeg 2/2004)"
   },
   {
@@ -21000,8 +21000,8 @@ const QUESTIONS = {
       "Las tres respuestas anteriores son correctas"
     ],
     "correct": 3,
-    "exp": "Pregunta 4 del primer supuesto práctico (segunda prueba) del examen oficial de 1 de junio de 2025. Arts. 169 y 170 TRLRHL confirman las tres afirmaciones. Respuesta correcta: d).",
-    "fuente": "Examen oficial de Auxiliar Administrativo del Ayuntamiento de Zaragoza, 1-jun-2025, pregunta 4"
+    "exp": "Segunda prueba, supuesto 1, pregunta 4 del examen oficial de 1 de junio de 2025, con la respuesta oficial del examen: la que da por buenas las tres afirmaciones. OJO: la primera dice que «solo» son interesados los habitantes y los directamente afectados, y el art. 170.1 TRLRHL añade un tercer grupo: «los colegios oficiales, cámaras oficiales, sindicatos, asociaciones y demás entidades legalmente constituidas para velar por intereses profesionales o económicos y vecinales, cuando actúen en defensa de los que les son propios». Las otras dos sí se ajustan a la ley: el plazo de exposición es de 15 días (art. 169.1) y una de las causas de reclamación es «no haberse ajustado su elaboración y aprobación a los trámites establecidos en esta ley» (art. 170.2). Para estudiar, quédate con la ley: tres grupos de interesados, tres causas tasadas de reclamación y 15 días de exposición.",
+    "fuente": "Arts. 169.1 y 170 TRLRHL (RDLeg 2/2004)"
   },
   {
     "q": "[EXAMEN OFICIAL, SEGUNDA PRUEBA, caso 1, P5] De acuerdo con el artículo 169.6 del Real Decreto Legislativo 2/2004, de 5 de marzo:",
@@ -21012,7 +21012,7 @@ const QUESTIONS = {
       "Si el presupuesto no fuera aprobado antes del primer día del ejercicio económico correspondiente, quedará automáticamente prorrogada la vigencia del anterior"
     ],
     "correct": 2,
-    "exp": "Pregunta 5 del primer supuesto práctico (segunda prueba) del examen oficial de 1 de junio de 2025. Art. 169.6 TRLRHL: prórroga automática con los créditos iniciales del presupuesto anterior. Respuesta correcta: c).",
+    "exp": "Segunda prueba, supuesto 1, pregunta 5 del examen oficial de 1 de junio de 2025. Respuesta oficial: la redacción literal, con «no hubiese entrado en vigor» y «con sus créditos iniciales». Art. 169.6 TRLRHL: «Si al iniciarse el ejercicio económico no hubiese entrado en vigor el presupuesto correspondiente, se considerará automáticamente prorrogado el del anterior, con sus créditos iniciales…». Para estudiar: el supuesto es que no haya entrado en vigor (no que no esté aprobado) y la prórroga es con los créditos iniciales.",
     "fuente": "Art. 169.6 TRLRHL (RDLeg 2/2004)"
   },
   {
@@ -21024,8 +21024,8 @@ const QUESTIONS = {
       "Al principio de estabilidad presupuestaria o al principio de sostenibilidad financiera"
     ],
     "correct": 3,
-    "exp": "Pregunta 6 del primer supuesto práctico (segunda prueba) del examen oficial de 1 de junio de 2025. Art. 171 TRLRHL: informe previo del Tribunal de Cuentas cuando la impugnación afecte al principio de estabilidad presupuestaria o de sostenibilidad financiera. Respuesta correcta: d).",
-    "fuente": "Art. 171 TRLRHL (RDLeg 2/2004)"
+    "exp": "Segunda prueba, supuesto 1, pregunta 6 del examen oficial de 1 de junio de 2025, con la respuesta oficial del examen: «Al principio de estabilidad presupuestaria o al principio de sostenibilidad financiera». OJO: el art. 171.2 TRLRHL dice «El Tribunal de Cuentas deberá informar previamente a la resolución del recurso cuando la impugnación afecte o se refiera a la nivelación presupuestaria», que es otra de las opciones. Para estudiar, quédate con la ley: informe previo del Tribunal de Cuentas cuando la impugnación afecte a la nivelación presupuestaria.",
+    "fuente": "Art. 171.2 TRLRHL (RDLeg 2/2004)"
   },
   {
     "q": "[EXAMEN OFICIAL, SEGUNDA PRUEBA, caso 1, P7] Como después de la entrada en vigor del presupuesto el Ayuntamiento quiere reparar el centro cultural y dicha reparación supone la realización de un gasto que no puede demorarse hasta el ejercicio siguiente y no existe crédito en el presupuesto, el presidente, de conformidad con el artículo 177.1 del Real Decreto Legislativo 2/2004, de 5 de marzo, ordenará la incoación de expediente de:",
@@ -21036,7 +21036,7 @@ const QUESTIONS = {
       "Ninguna de las respuestas anteriores es correcta"
     ],
     "correct": 1,
-    "exp": "Pregunta 7 del primer supuesto práctico (segunda prueba) del examen oficial de 1 de junio de 2025. Art. 177.1 TRLRHL: al no existir crédito, corresponde un crédito extraordinario o, si existiera crédito insuficiente, un suplemento de crédito; aquí, dado el planteamiento, procede el expediente de suplemento de crédito. Respuesta correcta: b).",
+    "exp": "Segunda prueba, supuesto 1, pregunta 7 del examen oficial de 1 de junio de 2025, con la respuesta oficial del examen: «Suplemento de crédito». OJO: el enunciado dice que «no existe crédito», y el art. 177.1 TRLRHL dispone que, cuando no exista crédito o sea insuficiente o no ampliable el consignado, el presidente ordenará «la incoación del expediente de concesión de crédito extraordinario, en el primer caso, o de suplemento de crédito, en el segundo». Sin crédito procede el crédito extraordinario, que no figura entre las opciones, así que por la ley la respuesta sería «Ninguna de las respuestas anteriores es correcta». Para estudiar, quédate con la ley: no hay crédito, crédito extraordinario; crédito insuficiente o no ampliable, suplemento de crédito.",
     "fuente": "Art. 177.1 TRLRHL (RDLeg 2/2004)"
   },
   {
@@ -21048,8 +21048,8 @@ const QUESTIONS = {
       "Ninguna de las respuestas anteriores es correcta"
     ],
     "correct": 2,
-    "exp": "Pregunta 8 del primer supuesto práctico (segunda prueba) del examen oficial de 1 de junio de 2025. Art. 56 RD 500/1990: la disposición o compromiso de gasto es un acto con relevancia jurídica para con terceros. Respuesta correcta: c).",
-    "fuente": "Examen oficial de Auxiliar Administrativo del Ayuntamiento de Zaragoza, 1-jun-2025, pregunta 8"
+    "exp": "Segunda prueba, supuesto 1, pregunta 8 del examen oficial de 1 de junio de 2025. Respuesta oficial: «Es un acto con relevancia jurídica para con terceros». Art. 56.2 RD 500/1990: «La disposición o compromiso es un acto con relevancia jurídica para con terceros, vinculando a la Entidad local a la realización de un gasto concreto y determinado». Según el art. 56.1, el gasto se compromete «por un importe exactamente determinado», no aproximado, y el inicio del procedimiento de ejecución del gasto es la autorización (art. 54). Para estudiar: la disposición vincula frente a terceros y por importe exacto.",
+    "fuente": "Art. 56 RD 500/1990, de 20 de abril"
   },
   {
     "q": "[EXAMEN OFICIAL, SEGUNDA PRUEBA, caso 1, P9] El Real Decreto 500/1990, de 20 de abril, en materia de presupuestos establece en su artículo 67.1 que un mismo acto administrativo podrá abarcar más de una de las fases de ejecución del presupuesto de gastos, pudiéndose dar los siguientes casos:",
@@ -21060,8 +21060,8 @@ const QUESTIONS = {
       "Autorización-disposición-reconocimiento de la obligación y disposición-reconocimiento de la obligación-ordenación del pago"
     ],
     "correct": 1,
-    "exp": "Pregunta 9 del primer supuesto práctico (segunda prueba) del examen oficial de 1 de junio de 2025. Art. 67.1 RD 500/1990. Respuesta correcta: b).",
-    "fuente": "Art. 67.1 TRLRHL (RDLeg 2/2004)"
+    "exp": "Segunda prueba, supuesto 1, pregunta 9 del examen oficial de 1 de junio de 2025. Respuesta oficial: «Autorización-disposición y autorización-disposición-reconocimiento de la obligación». Art. 67.1 RD 500/1990: un mismo acto podrá abarcar más de una fase, pudiéndose dar dos casos: «Autorización-disposición» y «Autorización-disposición-reconocimiento de la obligación». Para estudiar: solo esas dos acumulaciones (AD y ADO).",
+    "fuente": "Art. 67.1 RD 500/1990, de 20 de abril"
   },
   {
     "q": "[EXAMEN OFICIAL, SEGUNDA PRUEBA, caso 1, P10] De acuerdo con el artículo 188 del Real Decreto Legislativo 2/2004, de 5 de marzo, serán personalmente responsables de todo gasto que autoricen y de toda obligación que reconozcan, liquiden o paguen sin crédito suficiente:",
@@ -21072,7 +21072,7 @@ const QUESTIONS = {
       "Los interventores de las entidades locales, en todo caso, y los ordenadores de gastos y de pagos, cuando no adviertan por escrito su improcedencia"
     ],
     "correct": 2,
-    "exp": "Pregunta 10 del primer supuesto práctico (segunda prueba) del examen oficial de 1 de junio de 2025. Art. 188 TRLRHL. Respuesta correcta: c).",
+    "exp": "Segunda prueba, supuesto 1, pregunta 10 del examen oficial de 1 de junio de 2025. Respuesta oficial: los ordenadores de gastos y de pagos en todo caso, y los interventores cuando no adviertan por escrito su improcedencia. Es literal del art. 188 TRLRHL. Para estudiar: ordenadores siempre; interventores, solo si no advierten por escrito.",
     "fuente": "Art. 188 TRLRHL (RDLeg 2/2004)"
   },
   {
@@ -21084,8 +21084,8 @@ const QUESTIONS = {
       "Es un bien de dominio público por estar destinada al uso público"
     ],
     "correct": 3,
-    "exp": "Pregunta 11 del segundo supuesto práctico (segunda prueba) del examen oficial de 1 de junio de 2025. Art. 3.2 Decreto 347/2002 (Aragón): una plaza está destinada al uso público. Respuesta correcta: d).",
-    "fuente": "Examen oficial de Auxiliar Administrativo del Ayuntamiento de Zaragoza, 1-jun-2025, pregunta 11"
+    "exp": "Segunda prueba, supuesto 2, pregunta 11 del examen oficial de 1 de junio de 2025. Respuesta oficial: «Es un bien de dominio público por estar destinada al uso público». Art. 3.2 del Decreto 347/2002: «Son bienes de uso público local aquellos destinados a ser utilizados directamente por los particulares, como los caminos y carreteras, plazas, calles, paseos…». Para estudiar: las plazas son bienes de dominio público de uso público.",
+    "fuente": "Arts. 1.1 y 3 Decreto 347/2002, de 19 de noviembre (Reglamento de Bienes de las Entidades Locales de Aragón)"
   },
   {
     "q": "[EXAMEN OFICIAL, SEGUNDA PRUEBA, caso 2, P12] De conformidad con el artículo 75 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, ¿qué modalidad de uso va a hacer el Ayuntamiento de la plaza en el caso del aparcamiento subterráneo?",
@@ -21096,8 +21096,8 @@ const QUESTIONS = {
       "Un uso privativo"
     ],
     "correct": 2,
-    "exp": "Pregunta 12 del segundo supuesto práctico (segunda prueba) del examen oficial de 1 de junio de 2025. Art. 75 Decreto 347/2002 (Aragón). Respuesta correcta: c) Un uso privativo agravado.",
-    "fuente": "Art. 75 LBRL (Ley 7/1985)"
+    "exp": "Segunda prueba, supuesto 2, pregunta 12 del examen oficial de 1 de junio de 2025. Respuesta oficial: «Un uso privativo agravado». Art. 75.2 del Decreto 347/2002: «El uso privativo reviste mayor intensidad cuando requiere la implantación de instalaciones fijas y permanentes, en cuyo caso se considerará como uso privativo agravado». Hay instalaciones fijas y permanentes, así que es privativo agravado. Para estudiar: privativo con instalaciones fijas y permanentes, privativo agravado.",
+    "fuente": "Art. 75 Decreto 347/2002, de 19 de noviembre (Reglamento de Bienes de las Entidades Locales de Aragón)"
   },
   {
     "q": "[EXAMEN OFICIAL, SEGUNDA PRUEBA, caso 2, P13] De conformidad con el artículo 8.1.c) de la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, la gestión y administración de los bienes y derechos patrimoniales por las Administraciones Públicas se ajustará a los siguientes principios:",
@@ -21108,8 +21108,8 @@ const QUESTIONS = {
       "Todas las anteriores son correctas"
     ],
     "correct": 1,
-    "exp": "Pregunta 13 del segundo supuesto práctico (segunda prueba) del examen oficial de 1 de junio de 2025. Art. 8.1 c) Ley 33/2003. Respuesta correcta: b).",
-    "fuente": "Art. 8.1 c) Ley 10/2017 (capitalidad de Zaragoza)"
+    "exp": "Segunda prueba, supuesto 2, pregunta 13 del examen oficial de 1 de junio de 2025. Respuesta oficial: «Publicidad, transparencia, concurrencia y objetividad en la adquisición, explotación y enajenación de estos bienes». Es literal del art. 8.1 de la Ley 33/2003, de Patrimonio de las Administraciones Públicas, para los bienes patrimoniales. La cooperación y colaboración entre Administraciones y el ejercicio diligente de las prerrogativas son principios del art. 6, propios de los bienes demaniales. Para estudiar: patrimoniales, art. 8; demaniales, art. 6.",
+    "fuente": "Art. 8.1 Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas"
   },
   {
     "q": "[EXAMEN OFICIAL, SEGUNDA PRUEBA, caso 2, P14] De conformidad con el artículo 81 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, y el artículo 9 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, ¿qué título habilitante precisa la empresa \"Parking J.A., S.L.\" para usar las instalaciones necesarias para la gestión y explotación del aparcamiento subterráneo en la plaza?",
@@ -21120,8 +21120,8 @@ const QUESTIONS = {
       "Contrato administrativo de servicios"
     ],
     "correct": 2,
-    "exp": "Pregunta 14 del segundo supuesto práctico (segunda prueba) del examen oficial de 1 de junio de 2025. Art. 81 Decreto 347/2002 (Aragón) y art. 9 LCSP. Respuesta correcta: c) Concesión administrativa.",
-    "fuente": "Art. 81 LCSP (Ley 9/2017)"
+    "exp": "Segunda prueba, supuesto 2, pregunta 14 del examen oficial de 1 de junio de 2025. Respuesta oficial: «Concesión administrativa». Art. 81 del Decreto 347/2002: están sujetas a concesión administrativa «la utilización privativa normal de los bienes de dominio y uso público, cuando requiera obras o instalaciones de carácter permanente». El art. 9.1 LCSP excluye de esa ley «las autorizaciones y concesiones sobre bienes de dominio público», así que no es un contrato de concesión de servicios. Para estudiar: uso privativo con instalaciones permanentes, concesión demanial, fuera de la LCSP.",
+    "fuente": "Art. 81 Decreto 347/2002 (Reglamento de Bienes de las Entidades Locales de Aragón) y art. 9.1 LCSP (Ley 9/2017)"
   },
   {
     "q": "[EXAMEN OFICIAL, SEGUNDA PRUEBA, caso 2, P15] De conformidad con el artículo 83 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, ¿es correcto el plazo de 40 años previsto por el Ayuntamiento para la gestión y explotación de un aparcamiento subterráneo en la plaza por parte de la empresa?",
@@ -21132,8 +21132,8 @@ const QUESTIONS = {
       "Si se precisa licencia, sí porque el plazo máximo es de cuarenta años"
     ],
     "correct": 0,
-    "exp": "Pregunta 15 del segundo supuesto práctico (segunda prueba) del examen oficial de 1 de junio de 2025. Art. 83 Decreto 347/2002 (Aragón): el plazo máximo de la concesión administrativa es de cincuenta años. Respuesta correcta: a).",
-    "fuente": "Examen oficial de Auxiliar Administrativo del Ayuntamiento de Zaragoza, 1-jun-2025, pregunta 15"
+    "exp": "Segunda prueba, supuesto 2, pregunta 15 del examen oficial de 1 de junio de 2025. Respuesta oficial: «Si se precisa concesión administrativa, sí porque el plazo máximo es de cincuenta años». Art. 83.2 del Decreto 347/2002: «El plazo máximo de la concesión será de cincuenta años, salvo que disposiciones especiales señalen otro plazo menor». Las licencias no pueden superar diez años (art. 80.3). Para estudiar: concesión, máximo 50 años; licencia, máximo 10.",
+    "fuente": "Art. 83.2 Decreto 347/2002, de 19 de noviembre (Reglamento de Bienes de las Entidades Locales de Aragón)"
   },
   {
     "q": "[EXAMEN OFICIAL, SEGUNDA PRUEBA, caso 2, P16] De conformidad con los artículos 47 y siguientes del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, ¿qué potestad ejercerá el Ayuntamiento en el caso de que la empresa proceda a usar la plaza y las instalaciones para la explotación del aparcamiento sin el correspondiente título habilitante para ello?",
@@ -21144,8 +21144,8 @@ const QUESTIONS = {
       "Las potestades de recuperación de oficio y de desahucio administrativo"
     ],
     "correct": 2,
-    "exp": "Pregunta 16 del segundo supuesto práctico (segunda prueba) del examen oficial de 1 de junio de 2025. Arts. 47 y ss. Decreto 347/2002 (Aragón). Respuesta correcta: c).",
-    "fuente": "Examen oficial de Auxiliar Administrativo del Ayuntamiento de Zaragoza, 1-jun-2025, pregunta 16"
+    "exp": "Segunda prueba, supuesto 2, pregunta 16 del examen oficial de 1 de junio de 2025. Respuesta oficial: «Las potestades de recuperación de oficio y sancionadora». El art. 47 del Decreto 347/2002 enumera las potestades de investigación, deslinde, recuperación de oficio, desahucio administrativo y sancionadora. Sobre bienes de dominio público, las entidades locales «podrán recuperar por sí mismas la posesión […] en cualquier momento» (art. 62.1) y pueden sancionar el uso indebido (art. 71.2). El desahucio administrativo presupone que se extinga un derecho previamente otorgado (art. 64), y aquí no había título. Para estudiar: ocupación sin título, recuperación de oficio y sanción.",
+    "fuente": "Arts. 47, 62 y 71 Decreto 347/2002, de 19 de noviembre (Reglamento de Bienes de las Entidades Locales de Aragón)"
   },
   {
     "q": "[EXAMEN OFICIAL, SEGUNDA PRUEBA, caso 2, P17] La Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, establece en el apartado 1 de su artículo 93, que:",
@@ -21156,8 +21156,8 @@ const QUESTIONS = {
       "Las concesiones podrán ser revocadas unilateralmente por la Administración concedente en cualquier momento por razones de interés público"
     ],
     "correct": 0,
-    "exp": "Pregunta 17 del segundo supuesto práctico (segunda prueba) del examen oficial de 1 de junio de 2025. Art. 93.1 Ley 33/2003: el otorgamiento de concesiones demaniales se efectúa en régimen de concurrencia, salvo excepciones legales. Respuesta correcta: a).",
-    "fuente": "Examen oficial de Auxiliar Administrativo del Ayuntamiento de Zaragoza, 1-jun-2025, pregunta 17"
+    "exp": "Segunda prueba, supuesto 2, pregunta 17 del examen oficial de 1 de junio de 2025. Respuesta oficial: «El otorgamiento de concesiones sobre bienes de dominio público se efectuará en régimen de concurrencia». Es literal del art. 93.1 de la Ley 33/2003, que admite el otorgamiento directo solo en supuestos tasados. El plazo máximo de las concesiones es de 75 años (art. 93.3), no de cuatro. Para estudiar: concesión demanial, en régimen de concurrencia y hasta 75 años.",
+    "fuente": "Art. 93 Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas"
   },
   {
     "q": "[EXAMEN OFICIAL, SEGUNDA PRUEBA, caso 2, P18] El artículo 16 del Decreto 347/2002, de 19 de noviembre, del Gobierno de Aragón, señala que las Entidades locales pueden adquirir bienes y derechos por cualquier título, oneroso o lucrativo, de derecho público o de derecho privado, de conformidad con el ordenamiento jurídico, y en particular, la adquisición podrá tener lugar:",
@@ -21168,8 +21168,8 @@ const QUESTIONS = {
       "Todas las respuestas anteriores son correctas"
     ],
     "correct": 3,
-    "exp": "Pregunta 18 del segundo supuesto práctico (segunda prueba) del examen oficial de 1 de junio de 2025. Art. 16 Decreto 347/2002 (Aragón) enumera todas estas formas de adquisición. Respuesta correcta: d).",
-    "fuente": "Art. 16 LBRL (Ley 7/1985)"
+    "exp": "Segunda prueba, supuesto 2, pregunta 18 del examen oficial de 1 de junio de 2025. Respuesta oficial: «Todas las respuestas anteriores son correctas». El art. 16.2 del Decreto 347/2002 enumera, entre otros títulos de adquisición, «a título oneroso, a través de contrato, por expropiación y por ejercicio de los derechos de tanteo y retracto», «por cesión de naturaleza urbanística» y «por sucesión administrativa, especialmente como consecuencia de alteraciones de términos municipales o de transferencia de competencias de otras Administraciones». Para estudiar: los tres son títulos de adquisición del art. 16.2.",
+    "fuente": "Art. 16 Decreto 347/2002, de 19 de noviembre (Reglamento de Bienes de las Entidades Locales de Aragón)"
   },
   {
     "q": "[EXAMEN OFICIAL, SEGUNDA PRUEBA, caso 2, P19] De conformidad con el artículo 126.2 del Real Decreto Legislativo 781/1986, de 18 de abril, la plantilla podrá ser ampliada:",
@@ -21180,7 +21180,7 @@ const QUESTIONS = {
       "Todas las respuestas anteriores son correctas"
     ],
     "correct": 3,
-    "exp": "Pregunta 19 del segundo supuesto práctico (segunda prueba) del examen oficial de 1 de junio de 2025. Art. 126.2 TRRL: todos los supuestos son correctos. Respuesta correcta: d).",
+    "exp": "Segunda prueba, supuesto 2, pregunta 19 del examen oficial de 1 de junio de 2025, con la respuesta oficial del examen: «Todas las respuestas anteriores son correctas». OJO: el art. 126.2 TRRL solo admite dos supuestos de ampliación de la plantilla: «Cuando el incremento del gasto quede compensado mediante la reducción de otras unidades o capítulos de gastos corrientes no ampliables» y «Siempre que el incremento de las dotaciones sea consecuencia del establecimiento o ampliación de servicios de carácter obligatorio que resulten impuestos por disposiciones legales». La opción del examen habla de «establecimiento o reducción» de servicios impuestos por disposiciones «legales o reglamentarias», y la de las necesidades de urgencia y necesidad no aparece en el precepto. Para estudiar, quédate con la ley: compensación con otros gastos corrientes no ampliables, o establecimiento o ampliación de servicios obligatorios impuestos por ley.",
     "fuente": "Art. 126.2 TRRL (RDLeg 781/1986)"
   },
   {
@@ -21192,7 +21192,7 @@ const QUESTIONS = {
       "Las respuestas b) y c) son correctas"
     ],
     "correct": 0,
-    "exp": "Pregunta 20 del segundo supuesto práctico (segunda prueba) del examen oficial de 1 de junio de 2025. Art. 10.3 TREBEP: la causa citada expresamente es la cobertura reglada del puesto por personal funcionario. Respuesta correcta: a).",
+    "exp": "Segunda prueba, supuesto 2, pregunta 20 del examen oficial de 1 de junio de 2025. Respuesta oficial: «Por la cobertura reglada del puesto por personal funcionario a través de cualquiera de los procedimientos legalmente establecidos». El art. 10.3 TREBEP enumera cuatro causas de cese de oficio: «Por la cobertura reglada del puesto por personal funcionario de carrera…», «Por razones organizativas que den lugar a la supresión o a la amortización de los puestos asignados», «Por la finalización del plazo autorizado expresamente recogido en su nombramiento» y «Por la finalización de la causa que dio lugar a su nombramiento». OJO: la finalización del plazo autorizado también es causa legal, aunque el examen no la diera por buena; lo que no es causa es la «creación» de puestos (la ley dice supresión o amortización). Para estudiar: las cuatro causas del art. 10.3.",
     "fuente": "Art. 10.3 TREBEP (RDLeg 5/2015)"
   },
 ],

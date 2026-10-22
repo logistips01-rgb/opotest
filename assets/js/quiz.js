@@ -219,7 +219,12 @@
       ? `<div class="progress-bar">${qs.map((_,k)=>`<i class="${k<i?'d':k===i?'c':''}"></i>`).join('')}</div>`
       : `<div class="progress-bar cont"><div class="fill" style="width:${pct}%"></div></div>`;
 
-    const optOrder = shuffle(q.options.map((opt,idx)=>({opt,idx})));
+    // Si alguna opción remite a otras («Las respuestas a) y b) son
+    // correctas», «Ninguna de las anteriores»), barajar la dejaría sin
+    // sentido: esas preguntas se muestran en su orden original.
+    const remite = q.options.some(o=>/^\s*(las|ninguna|todas)\b/i.test(o) && /anteriores|respuestas [a-d]\) y [a-d]\)/i.test(o));
+    const base = q.options.map((opt,idx)=>({opt,idx}));
+    const optOrder = remite ? base : shuffle(base);
     let optHtml = '';
     optOrder.forEach((o,k)=>{
       optHtml += `<button class="option" data-idx="${o.idx}"><span class="letra">${'ABCD'[k]}</span><span>${esc(o.opt)}</span></button>`;
