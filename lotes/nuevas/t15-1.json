@@ -132,7 +132,7 @@
   {
    "q": "Según el art. 114 del ROTPC, cuando una queja o reclamación presentada en la Comisión Especial de Sugerencias y Reclamaciones esté tramitándose por el Justicia de Aragón, la Comisión:",
    "options": [
-    "Se abstendrá de continuar sus actuaciones a resultas de la decisión del Justicia",
+    "Se abstendrá de continuar, a resultas de la decisión del Justicia",
     "Continuará sus actuaciones y dará traslado de su resolución al Justicia",
     "Requerirá al Justicia para que se inhiba a favor de la Comisión",
     "Acumulará la queja a la del Justicia para resolver ambos conjuntamente"
@@ -205,7 +205,7 @@
     "Dos días hábiles",
     "Quince días naturales",
     "Diez días hábiles",
-    "Un mes"
+    "Treinta días naturales"
    ],
    "correct": 1,
    "exp": "El art. 94 ROTPC establece que «La convocatoria para las sesiones ordinarias se hará por el Presidente con una antelación de quince días naturales», acompañada del orden del día y, si procede, de la documentación. Para las sesiones extraordinarias la antelación mínima es de dos días.",
@@ -218,7 +218,7 @@
    "options": [
     "Presentar cada año una memoria de las actividades de la entidad a la que representan",
     "Solicitar la inclusión de asuntos en el orden del día de las sesiones del Pleno del Consejo",
-    "Comunicar a la Secretaría cualquier modificación de los estatutos de la entidad que representan",
+    "Comunicar a la Secretaría del Consejo cualquier modificación de los estatutos o de los cargos directivos de la entidad que representan",
     "Abstenerse cuando los asuntos que se traten afecten a intereses particulares de las entidades que representan"
    ],
    "correct": 3,
@@ -250,7 +250,7 @@
     "La designación de quien actuará como Secretario de la sesión"
    ],
    "correct": 0,
-   "exp": "El art. 22.3 ROTPC dispone: «En estas sesiones el primer punto del orden del día será el pronunciamiento sobre la urgencia de la convocatoria, y si ésta no resulta apreciada mediante voto favorable de la mayoría simple de los miembros asistentes se levantará acto seguido la sesión». Las convoca el Concejal Presidente o el Alcalde de Barrio cuando la urgencia no permite respetar la antelación mínima.",
+   "exp": "El art. 22.3 ROTPC dispone: «En estas sesiones el primer punto del orden del día será el pronunciamiento sobre la urgencia de la convocatoria, y si ésta no resulta apreciada mediante voto favorable de la mayoría simple de los miembros asistentes se levantará acto seguido la sesión». Las convoca el Concejal Presidente o el Alcalde de Barrio cuando la urgencia no permite respetar la antelación mínima. Es una regla especial para estas sesiones: con carácter general, el primer punto del orden del día es la aprobación del acta de la sesión anterior (art. 25.2).",
    "fuente": "Art. 22.3 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
    "confianza": "alta",
    "cita": "En estas sesiones el primer punto del orden del día será el pronunciamiento sobre la urgencia de la convocatoria"
@@ -306,7 +306,7 @@
     "Convocará, en el plazo máximo de tres meses, nuevas elecciones municipales en el barrio"
    ],
    "correct": 0,
-   "exp": "El art. 32 ROTPC distingue dos casos. Si el cese o la renuncia se produce dentro de los últimos doce meses del mandato, asume el cargo el Concejal Presidente. Si se produce antes, «el Alcalde convocará, en el plazo máximo de un mes, un nuevo proceso de consulta a los vecinos», igual que para el primer nombramiento. El Alcalde de Barrio no se nombra libremente: tiene que ser el vecino que obtenga más votos en esa consulta.",
+   "exp": "El art. 32 ROTPC distingue dos casos. Si el cese o la renuncia se produce dentro de los últimos doce meses del mandato, «asumirá el cargo el Concejal Presidente del Consejo Rural» (así lo dice el texto). Si se produce antes, «el Alcalde convocará, en el plazo máximo de un mes, un nuevo proceso de consulta a los vecinos», igual que para el primer nombramiento. El Alcalde de Barrio no se nombra libremente: tiene que ser el vecino que obtenga más votos en esa consulta.",
    "fuente": "Art. 32 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
    "confianza": "alta",
    "cita": "Cuando el cese o renuncia del Alcalde del Barrio se produzca antes de este período, el Alcalde convocará, en el plazo máximo de un mes, un nuevo proceso de consulta a los vecinos"
@@ -384,10 +384,10 @@
   {
    "q": "Según el art. 74 del ROTPC, si una entidad declarada de Interés ciudadano no presenta antes del 1 de marzo la actualización anual de los documentos presentados para su solicitud:",
    "options": [
-    "Pierde la declaración de forma automática",
-    "Causa baja automática en el Censo Municipal",
+    "La declaración se pierde de forma automática",
+    "La entidad causa baja automática en el Censo Municipal",
     "La declaración queda suspendida durante un año",
-    "La falta de presentación podrá hacerle perder la declaración"
+    "La declaración podrá perderse"
    ],
    "correct": 3,
    "exp": "El art. 74 ROTPC dice: «La falta de presentación podrá dar lugar a la pérdida de esta declaración». Es una pérdida potestativa. En cambio, para las entidades de Interés público municipal la falta de presentación «dará lugar a la pérdida automática de esta declaración» (art. 70).",
@@ -426,10 +426,10 @@
   {
    "q": "Según el apartado «La ciudadanía necesita al Ayuntamiento» del Manual, los problemas que surgen en el contacto entre el personal municipal y la ciudadanía (malentendidos, errores, omisiones, despistes...) son superables siempre que se den dos condiciones:",
    "options": [
-    "Disponer de más personal en los puestos de atención y reducir los tiempos de espera",
-    "Aplicar con rigor el procedimiento establecido y remitir cada caso al servicio competente",
-    "Tener la firme voluntad de dar solución y tener en cuenta indicaciones técnicas y prácticas sobre las relaciones interpersonales",
-    "Contar con instalaciones adecuadas y con materiales de comunicación claros y comprensibles"
+    "Disponer de más personal en los puestos de atención directa y reducir al mínimo los tiempos de espera en las ventanillas",
+    "Aplicar con rigor el procedimiento establecido y remitir cada caso, sin demora, al servicio municipal que sea competente",
+    "Tener la firme voluntad de dar solución y tener en cuenta indicaciones técnicas y prácticas sobre relaciones interpersonales",
+    "Contar con instalaciones adecuadas y con materiales de comunicación (letreros, folletos, impresos) claros y comprensibles"
    ],
    "correct": 2,
    "exp": "El Manual (pág. 7) dice que estas dificultades son superables siempre que se den dos condiciones: «1. Que tengamos la firme voluntad de dar solución a la situación planteada» y «2. Que tengamos en cuenta algunas indicaciones técnicas y prácticas relativas a las relaciones interpersonales». Añade que el Manual quiere aportar indicaciones sobre ambos puntos, sobre todo el segundo.",
@@ -440,10 +440,10 @@
   {
    "q": "Según el apartado «La habilidad de hablar» del Manual de Atención a la Ciudadanía, que el habla sea precisa significa:",
    "options": [
-    "Emplear los términos técnicos exactos, aunque sean propios de la jerga administrativa",
+    "Emplear siempre los términos técnicos exactos, aunque sean propios de la jerga administrativa",
     "Repetir el mensaje varias veces para asegurarse de que la persona lo ha entendido",
     "Citar siempre la norma aplicable para que la información sea jurídicamente exacta",
-    "No usar más términos que los estrictamente necesarios, no divagar y adaptarse a la persona"
+    "No usar más términos de los necesarios, no divagar y adaptarse al nivel de la persona"
    ],
    "correct": 3,
    "exp": "El Manual (pág. 23) dice que «La segunda cualidad del habla es que sea precisa, es decir, no utilizar más términos que los estrictamente necesarios, no divagar ni irse por las ramas y, en todo momento, adaptarse al nivel de la persona con la que nos toca hablar». La primera cualidad, la expresión clara, exige precisamente evitar el argot o jerga profesional de las administraciones públicas.",
@@ -455,7 +455,7 @@
    "q": "Según el apartado «El primer contacto: saludarse» del Manual de Atención a la Ciudadanía, el trato a la persona atendida debería ser:",
    "options": [
     "De usted, salvo indicación expresa en contrario, sea cual sea su edad, sexo o status social",
-    "De tú con las personas jóvenes y de usted con las mayores, para adaptarse a cada caso",
+    "De tú con las personas jóvenes y de usted con las personas mayores, para adaptarse a cada caso",
     "El mismo que emplee la persona atendida, de tú o de usted, desde el primer saludo",
     "De tú, para crear cercanía, salvo que la persona pida expresamente el trato de usted"
    ],
@@ -498,7 +498,7 @@
    "options": [
     "Darle la razón aunque no la tenga, para calmarla y evitar un conflicto mayor",
     "Suspender la atención hasta que se calme y remitirla al servicio de quejas",
-    "No dar importancia a su forma de expresarse y limitarnos a tramitar su solicitud",
+    "No dar importancia a su forma de expresarse y limitarnos a tramitar su solicitud con la mayor rapidez posible",
     "Criticar el modo en que se ha expresado, para potenciar que proteste de forma legítima y correcta"
    ],
    "correct": 3,
@@ -511,9 +511,9 @@
    "q": "Entre las recomendaciones del Manual de Atención a la Ciudadanía sobre «qué no hacer» ante una persona irritada figura:",
    "options": [
     "Mantenerse de pie si tenemos oportunidad de sentar a nuestro interlocutor",
-    "Invitarla amablemente a un área privada, si es posible",
+    "Invitarla amablemente, si es posible, a pasar a un área privada y ofrecerle asiento",
     "Mantener un tono de voz pausado, bajando el volumen",
-    "Pedir ayuda a otra persona si no podemos afrontar la situación"
+    "Pedir ayuda a otra persona si percibimos que no podemos afrontar la situación"
    ],
    "correct": 0,
    "exp": "En el cuadro «Qué hacer / Qué no hacer» del apartado «El autocontrol de las emociones» (pág. 39), la columna «qué no hacer» incluye «Mantenerse de pie si tenemos oportunidad de sentar a nuestro/a interlocutor/a». Las otras tres conductas están en la columna «qué hacer»: invitarla a un área privada, mantener un tono de voz pausado bajando el volumen y pedir ayuda a otra persona si no podemos afrontar la situación.",
