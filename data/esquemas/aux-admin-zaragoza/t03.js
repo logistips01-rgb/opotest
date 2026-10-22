@@ -1,11 +1,15 @@
 /* Esquema · Auxiliar Administrativo · Tema 3
-   Fuente única: Estatuto de Autonomía de Aragón (LO 5/2007), texto consolidado BOE-A-2007-8444,
-   arts. 1-10, 32-62 y 70-80. Formato: ver data/esquemas/FORMATO.md */
+   Fuentes: Estatuto de Autonomía de Aragón (LO 5/2007), texto consolidado BOE-A-2007-8444,
+   arts. 1-10, 32-62 y 70-80; LO 15/2022 (BOE-A-2022-22677) para la redacción de los arts. 36, 38.2
+   y 55. Formato: ver data/esquemas/FORMATO.md */
 registerEsquema('aux-admin-zaragoza', 3, {
   titulo: 'Estatuto de Autonomía de Aragón: título preliminar, instituciones y competencias',
   epigrafe: 'El Estatuto de Autonomía de Aragón: título preliminar, aspectos básicos de la organización institucional de la Comunidad Autónoma y clases de competencias.',
   etiquetas: ['LO 5/2007 · arts. 1-10, 32-62 y 70-80', 'Títulos preliminar, II, III y V'],
-  fuentes: ['Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón. Texto consolidado BOE-A-2007-8444 (última actualización publicada el 28/12/2022), arts. 1 a 10, 32 a 62 y 70 a 80.'],
+  fuentes: [
+    'Ley Orgánica 5/2007, de 20 de abril, de reforma del Estatuto de Autonomía de Aragón. Texto consolidado BOE-A-2007-8444 (última actualización publicada el 28/12/2022), arts. 1 a 10, 32 a 62 y 70 a 80.',
+    'Ley Orgánica 15/2022, de 27 de diciembre, de reforma del Estatuto (BOE-A-2022-22677): nueva redacción de los arts. 36, 38.2 y 55.'
+  ],
 
   esencial: [
     {t: 'Aragón es <b>nacionalidad histórica</b>. Sus poderes emanan del <b>pueblo aragonés y de la Constitución</b>.', a: 'art. 1'},
@@ -30,7 +34,7 @@ registerEsquema('aux-admin-zaragoza', 3, {
       ['7', 'Lenguas y modalidades lingüísticas propias'], ['8', 'Comunidades aragonesas en el exterior'],
       ['9', 'Eficacia de las normas'], ['10', 'Incorporación de otros territorios o municipios']
     ]},
-    {titulo: 'Título II · Cap. I · Las Cortes de Aragón', rango: 'arts. 32-45', items: [
+    {titulo: 'Título II · Art. 32 y Cap. I · Las Cortes de Aragón', rango: 'arts. 32-45', items: [
       ['32', 'Instituciones'], ['33', 'Disposiciones generales'], ['34', 'Autonomía parlamentaria'], ['35', 'Sede'],
       ['36', 'Composición'], ['37', 'Régimen electoral'], ['38', 'Estatuto de los diputados'], ['39', 'Organización'],
       ['40', 'Funcionamiento'], ['41', 'Funciones'], ['42', 'Potestad legislativa'], ['43', 'Delegación legislativa'],
@@ -39,7 +43,7 @@ registerEsquema('aux-admin-zaragoza', 3, {
     {titulo: 'Título II · Caps. II a IV · Presidente, Gobierno y Justicia', rango: 'arts. 46-60', items: [
       ['46', 'Presidente: disposiciones generales'], ['47', 'Estatuto personal'], ['48', 'Investidura'],
       ['49', 'Cuestión de confianza'], ['50', 'Moción de censura'], ['51', 'Cese'], ['52', 'Disolución de las Cortes'],
-      ['53', 'Gobierno: disposiciones generales'], ['54', 'Sede'], ['55', 'Estatuto personal de los miembros'],
+      ['53', 'Gobierno: disposiciones generales'], ['54', 'Sede'], ['55', 'Estatuto de las personas miembros del Gobierno'],
       ['56', 'Cese'], ['57', 'Procedimientos ante el Tribunal Constitucional'], ['58', 'Consejo Consultivo'],
       ['59', 'Justicia de Aragón'], ['60', 'Ley del Justicia']
     ]},
@@ -70,7 +74,7 @@ registerEsquema('aux-admin-zaragoza', 3, {
         ['1', 'Aragón, <b>nacionalidad histórica</b>, ejerce su autogobierno según el Estatuto. Poderes: emanan del <b>pueblo aragonés y de la Constitución</b>. Identidad propia por sus instituciones tradicionales, el Derecho foral y su cultura.'],
         ['2', 'Territorio: el histórico de Aragón. Municipios, comarcas y provincias de <b>Huesca, Teruel y Zaragoza</b>.'],
         ['3', 'Bandera: <b>cuatro barras rojas horizontales</b> sobre fondo amarillo. Escudo de cuatro cuarteles en el centro. Capital: <b>Zaragoza</b>. Día de Aragón: <b>23 de abril</b>.'],
-        ['4', 'Aragoneses: los españoles con <b>vecindad administrativa</b> en un municipio de Aragón. También los residentes en el extranjero cuya última vecindad administrativa fue Aragón, y sus descendientes si lo solicitan.'],
+        ['4', 'Condición política de aragonés: los españoles con <b>vecindad administrativa</b> en un municipio de Aragón. También los residentes en el extranjero cuya última vecindad administrativa fue Aragón, y sus descendientes si lo solicitan.'],
         ['5', 'Organización territorial: <b>municipios, comarcas y provincias</b>.'],
         ['6', 'Derechos: los de la Constitución, la Declaración Universal y los tratados ratificados por España, y los del Estatuto. El Título I <b>no altera</b> el reparto de competencias.'],
         ['7', 'Lenguas y modalidades propias: una <b>ley de Cortes</b> fija las zonas de uso predominante. Nadie puede ser discriminado por razón de la lengua.'],
@@ -90,7 +94,7 @@ registerEsquema('aux-admin-zaragoza', 3, {
         {t: 'Reglamento propio, aprobado por <b>mayoría absoluta</b>. La ley electoral también exige mayoría absoluta.', a: 'arts. 34 y 37.6'},
         {t: 'Sede: Zaragoza, <b>Palacio de la Aljafería</b>. Pueden reunirse en otros lugares de Aragón.', a: 'art. 35'},
         {t: 'Unicamerales. Representación proporcional que asegure la de las diversas zonas del territorio. Circunscripción: la <b>provincia</b>.', a: 'art. 37'},
-        {t: 'Diputados: sin mandato imperativo, inviolables por sus votos y opiniones, y no pueden ser detenidos ni retenidos <b>salvo flagrante delito</b>.', a: 'art. 38'},
+        {t: 'Diputados: sin mandato imperativo e inviolables, aun después de cesar, por sus votos y opiniones. Durante su mandato no pueden ser detenidos ni retenidos <b>salvo flagrante delito</b>.', a: 'art. 38'},
         {t: 'Eligen Presidente, Mesa y Diputación Permanente. Funcionan en Pleno y en Comisiones.', a: 'art. 39'},
         {t: 'Periodos ordinarios: <b>septiembre-diciembre</b> y <b>febrero-junio</b>. Sesiones extraordinarias: las convoca el Presidente de las Cortes a petición de la Diputación Permanente, de <b>una quinta parte</b> de los diputados, de los grupos que fije el Reglamento o del Gobierno.', a: 'art. 40'},
         {t: 'Funciones destacadas: elegir al Presidente de Aragón, elegir y cesar al Justicia, designar los senadores autonómicos (art. 69.5 CE), aprobar el programa del Gobierno, interponer recurso de inconstitucionalidad y convalidar decretos-leyes.', a: 'art. 41'},
@@ -183,7 +187,7 @@ registerEsquema('aux-admin-zaragoza', 3, {
       {tipo: 'lista', tinte: true, items: [
         {t: 'Función legislativa: solo en competencias <b>exclusivas y compartidas</b>, nunca en las ejecutivas.', a: 'arts. 71, 75 y 77', examen: '2026'},
         {t: 'Las competencias se ejercen con eficacia en el <b>territorio de Aragón</b>, salvo excepciones expresas.', a: 'art. 70.2'},
-        {t: 'Policía autonómica: Aragón <b>podrá crearla</b>. Le corresponde coordinar la actuación de las <b>Policías locales aragonesas</b>. Junta de Seguridad paritaria Estado-Comunidad.', a: 'art. 76', examen: '2025'},
+        {t: 'Policía autonómica: Aragón <b>podrá crearla</b> (76.1). Le corresponde la coordinación de la actuación de las <b>Policías locales aragonesas</b> (76.3) {{examen:2025}}. Se creará, en su caso, una Junta de Seguridad paritaria Estado-Comunidad que coordina la Policía autonómica y los Cuerpos y Fuerzas de Seguridad del Estado (76.4).', a: 'art. 76'},
         {t: 'Fomento: subvenciones con fondos propios. Las territorializables del Estado y la UE: en exclusivas fija objetivos, regula el otorgamiento y las gestiona; en compartidas precisa objetivos, completa las condiciones y asume toda la gestión; en ejecutivas, las gestiona.', a: 'art. 79'},
         {t: 'Cláusula de cierre: en competencias exclusivas, el Derecho propio de Aragón se aplica <b>con preferencia</b> a cualquier otro.', a: 'art. 80.2'}
       ]}
@@ -200,13 +204,13 @@ registerEsquema('aux-admin-zaragoza', 3, {
     {x: 'Cualquier diputado puede presentar una moción de censura', ok: 'Al menos el 15 % de los diputados, con candidato. Se aprueba por mayoría absoluta.', a: 'art. 50'},
     {x: 'Urbanismo es competencia compartida', ok: 'Es competencia exclusiva {{examen:2025}}.', a: 'art. 71.9.ª'},
     {x: 'En las competencias ejecutivas Aragón también legisla', ok: 'Solo dicta reglamentos de organización y aplica la legislación estatal {{examen:2026}}.', a: 'art. 77'},
-    {x: 'Los diputados y miembros del Gobierno de Aragón están aforados ante el Tribunal Superior de Justicia', ok: 'La LO 15/2022 suprimió el aforamiento. Solo queda que no pueden ser detenidos ni retenidos salvo flagrante delito.', a: 'arts. 38.2 y 55.1'}
+    {x: 'Los diputados y miembros del Gobierno de Aragón están aforados ante el Tribunal Superior de Justicia', ok: 'La LO 15/2022 suprimió el aforamiento. Durante su mandato no pueden ser detenidos ni retenidos salvo en caso de flagrante delito.', a: 'arts. 38.2 y 55.1'}
   ],
 
   examenes: [
     'Art. 10 (incorporación de territorios: ley orgánica de las Cortes Generales): examen oficial 1-jun-2025, pregunta 5.',
     'Art. 71.9.ª (urbanismo, competencia exclusiva): examen oficial 1-jun-2025, pregunta 3.',
-    'Art. 76.3 (coordinación de las Policías locales): examen oficial 1-jun-2025, pregunta 50.',
+    'Art. 76.3 (coordinación de la actuación de las Policías locales aragonesas): examen oficial 1-jun-2025, pregunta 50. La plantilla dio por correcta la opción c), «Las respuestas a) y b) son correctas». El art. 76.3 solo recoge la a): «Corresponde a la Comunidad Autónoma la coordinación de la actuación de las Policías locales aragonesas». La b), coordinación de la Policía autonómica con las Policías locales, no aparece con esa redacción en el Estatuto. El esquema sigue el texto del Estatuto.',
     'Título V (función legislativa solo en exclusivas y compartidas): examen oficial 31-may-2026, pregunta 5.',
     'Art. 32 (instituciones; no lo son el TSJ ni el Consejo Consultivo): examen oficial 31-may-2026, pregunta 31.',
     'Art. 36.2 (mínimo de 14 escaños por provincia): examen oficial 31-may-2026, reserva 4.'

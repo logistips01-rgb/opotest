@@ -50847,7 +50847,7 @@ window.addQuestions("aux-admin-zaragoza", 21, [
       "Dice que la resolución de un recurso puede agravar la situación inicial del recurrente."
     ],
     "correct": 0,
-    "exp": "Pregunta 26 del examen oficial de 31 de mayo de 2026, con la respuesta que da la plantilla oficial: a). OJO, el texto literal del art. 119.3 LPACAP dice otra cosa: el órgano decide todas las cuestiones que plantee el procedimiento, se hayan alegado o no, y si no se alegaron «se les oirá previamente»; pero la resolución será congruente con lo pedido «sin que en ningún caso pueda agravarse su situación inicial». Es decir, por ley la resolución no puede agravar la situación del recurrente, que es lo que afirma la opción b) y lo que preguntó el examen de 2025.",
+    "exp": "Pregunta 26 del examen oficial de 31 de mayo de 2026. La plantilla oficial da por buena «si la propuesta de resolución de un recurso agrava la situación inicial del recurrente se le oirá previamente». OJO, el texto literal del art. 119.3 LPACAP dice otra cosa: el órgano decide todas las cuestiones que plantee el procedimiento, se hayan alegado o no, y si no se alegaron «se les oirá previamente»; pero la resolución será congruente con lo pedido «sin que en ningún caso pueda agravarse su situación inicial». Para estudiar, quédate con la ley: la resolución de un recurso no puede agravar la situación inicial del recurrente (así lo preguntó el examen de 2025).",
     "fuente": "Art. 119.3 LPACAP (Ley 39/2015)"
   },
   {
@@ -51089,7 +51089,7 @@ window.addQuestions("aux-admin-zaragoza", 21, [
       "En cualquier momento del procedimiento."
     ],
     "correct": 1,
-    "exp": "Pregunta 50 del examen oficial de 31 de mayo de 2026, con la respuesta que da la plantilla oficial: b). OJO: el texto literal del art. 76.1 LPACAP dice «en cualquier momento del procedimiento anterior al trámite de audiencia», que es la opción a). Para estudiar, quédate con la ley: anterior al trámite de audiencia.",
+    "exp": "Pregunta 50 del examen oficial de 31 de mayo de 2026. La plantilla oficial da por buena «anterior a la propuesta de resolución». OJO: el texto literal del art. 76.1 LPACAP dice «en cualquier momento del procedimiento anterior al trámite de audiencia». Para estudiar, quédate con la ley: anterior al trámite de audiencia.",
     "fuente": "Art. 76.1 LPACAP (Ley 39/2015)"
   },
   {
