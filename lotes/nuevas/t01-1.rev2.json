@@ -1,0 +1,202 @@
+[
+  {
+    "q": "Según el Real Decreto 2560/1978, ¿en qué fecha aprobaron las Cortes el proyecto de Constitución en sesiones plenarias del Congreso de los Diputados y del Senado?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en BOE-A-1978-27525: el preámbulo dice «celebradas el pasado treinta y uno de octubre» y el art. 1 da «treinta y uno de octubre de mil novecientos setenta y ocho». Distractores falsos (3-nov es la fecha del RD; 6-dic, el referéndum del art. 2; 15-jun-1978 no es hito). La cita es literal. No hay en los temas 1 y 21 ninguna pregunta sobre la fecha de aprobación por las Cortes."
+  },
+  {
+    "q": "¿De qué fecha es el Real Decreto 2560/1978, por el que se sometió a Referéndum de la Nación el proyecto de Constitución?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en BOE-A-1978-27525: el título es «Real Decreto 2560/1978, de 3 de noviembre», está publicado en el «BOE» núm. 265, de 6-nov-1978, y termina «Dado en Madrid a tres de noviembre de mil novecientos setenta y ocho». Los distractores son falsos (31-oct, 6-dic y 27-dic son otros hitos). Hay un aviso menor: la fecha aparece en la opción «El Real Decreto 2560/1978, de 3 de noviembre» de la pregunta sobre el RD 679/1977 y en la fuente de las demás; el fondo no se repite."
+  },
+  {
+    "q": "Según el art. 3 del Real Decreto 2560/1978, ¿qué pregunta se formuló en el referéndum del 6 de diciembre de 1978?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado el art. 3 del RD 2560/1978 (BOE-A-1978-27525): «La consulta se llevará a cabo formulando la siguiente pregunta: «¿Aprueba el proyecto de Constitución?»». Las otras tres fórmulas no aparecen. Es un dato nuevo en el banco."
+  },
+  {
+    "q": "Según el preámbulo del Real Decreto 2560/1978, el proyecto de Constitución aprobado por las Cortes debía someterse a Referéndum de la Nación de acuerdo con lo que disponía:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en BOE-A-1978-27525: el preámbulo dice «de acuerdo con lo que dispone el número tres del artículo tercero de la Ley para la Reforma Política», y en las referencias anteriores del análisis figura «DE CONFORMIDAD con la Ley 1/1977, de 4 de enero». Los distractores no aparecen en el preámbulo, y la disposición derogatoria.1 de la CE los deroga (lo he comprobado). Pregunta nueva, dentro de la elaboración y aprobación."
+  },
+  {
+    "q": "Al final del texto de la Constitución, después de la firma del Rey, figuran las de otras autoridades. ¿Cuál de las siguientes NO está entre ellas?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado al final del consolidado BOE-A-1978-31229: tras «JUAN CARLOS» firman EL PRESIDENTE DE LAS CORTES (Hernández Gil), EL PRESIDENTE DEL CONGRESO DE LOS DIPUTADOS (Álvarez de Miranda) y EL PRESIDENTE DEL SENADO (Fontán). No firma el Presidente del Gobierno. La pregunta existente del tema 1 «...suscrita por el Presidente de las Cortes, cargo que entonces ostentaba» pregunta otro dato (quién ocupaba el cargo), así que no la repite."
+  },
+  {
+    "q": "¿Qué norma convocó las elecciones generales del 15 de junio de 1977, de las que salieron las Cortes que aprobaron la Constitución?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en BOE-A-1977-9545: el artículo único dice «Se convocan elecciones generales...» y «La votación se celebrará el día quince de junio de mil novecientos setenta y siete, con sujeción a cuanto se establece en el Real Decreto-ley veinte/mil novecientos setenta y siete». Según el preámbulo y el análisis, el RDL 20/1977 fija las normas electorales y no convoca. La Ley 1/1977 no convoca, y el RD 2560/1978 es posterior. La DT 8.ª.1 respalda el enlace con las Cámaras constituyentes. Alcance: entra en el proceso constituyente; el examen de 31-may-2026 (tema 21) preguntó por las Cortes del 15-jun-1977. Aun así es un detalle de baja rentabilidad."
+  },
+  {
+    "q": "¿Cuál es el orden cronológico correcto de las siguientes fases de la aprobación de la Constitución?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado: Cortes el 31-oct-1978 (RD 2560/1978, art. 1), referéndum el 6-dic-1978 (art. 2), sanción el 27-dic-1978 (fórmula final «PALACIO DE LAS CORTES, A VEINTISIETE DE DICIEMBRE...») y publicación en el «BOE» núm. 311, de 29-12-1978 (ficha del consolidado). El preámbulo dice literalmente «las Cortes aprueban y el pueblo español ratifica la siguiente CONSTITUCIÓN». Las otras tres secuencias son falsas. Las fechas sueltas ya se preguntan en el tema 1 (referéndum, sanción, entrada en vigor), pero el orden de las fases es otro enfoque y lo doy por bueno."
+  },
+  {
+    "q": "A octubre de 2026, ¿cuántas reformas ha tenido el texto de la Constitución Española de 1978, según su ficha en el BOE?",
+    "veredicto": "RECHAZADA",
+    "notaRevision": "Los datos son exactos: el análisis de BOE-A-1978-31229 recoge cuatro «SE MODIFICA» (13.2 en 1992; 135 en 2011; 49 en 2024; 69.3 por la Reforma de 19-may-2026, BOE-A-2026-10881, «BOE» núm. 123, de 20-may-2026, comprobado). Pero el número de reformas no es elaboración, aprobación ni estructura del texto: es materia de reforma constitucional (Título X), que fuentes.json deja FUERA del alcance estrecho. Además es un dato que caduca, con el examen en 2027. Ante la duda, rechazo."
+  },
+  {
+    "q": "Según el comienzo del Preámbulo de la Constitución, la Nación española proclama su voluntad deseando establecer:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en el Preámbulo (BOE-A-1978-31229): «La Nación española, deseando establecer la justicia, la libertad y la seguridad y promover el bien de cuantos la integran». Los distractores no coinciden. Las preguntas existentes sobre el Preámbulo («en uso de su soberanía», número de voluntades, imperio de la ley, sociedad democrática avanzada) no la repiten."
+  },
+  {
+    "q": "Entre las voluntades que proclama el Preámbulo de la Constitución figura la de promover el progreso de la cultura y de la economía para:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en el Preámbulo: «Promover el progreso de la cultura y de la economía para asegurar a todos una digna calidad de vida». He confirmado que el Preámbulo no habla de trabajo, pleno empleo, renta ni igualdad. No repite ninguna pregunta existente."
+  },
+  {
+    "q": "Según el Preámbulo de la Constitución, la Nación española proclama su voluntad de colaborar en el fortalecimiento de unas relaciones pacíficas y de eficaz cooperación entre:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en el Preámbulo: «Colaborar en el fortalecimiento de unas relaciones pacíficas y de eficaz cooperación entre todos los pueblos de la Tierra». Los «pueblos de España» aparecen en otra voluntad, y el Preámbulo no menciona Comunidades Europeas ni comunidad iberoamericana. No repite ninguna pregunta existente."
+  },
+  {
+    "q": "Según el Preámbulo de la Constitución, la Nación española proclama su voluntad de proteger a todos los españoles y pueblos de España en el ejercicio de:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en el Preámbulo: «Proteger a todos los españoles y pueblos de España en el ejercicio de los derechos humanos, sus culturas y tradiciones, lenguas e instituciones». Las otras tres opciones no coinciden y la explicación es exacta (DA 1.ª, art. 2, Título I). No repite ninguna pregunta existente."
+  },
+  {
+    "q": "En el texto de la Constitución, ¿cuál de los siguientes títulos aparece sin una rúbrica que describa su contenido?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en el consolidado: «TÍTULO PRELIMINAR» pasa directamente al art. 1, sin rúbrica. Llevan rúbrica el Título II («De la Corona»), el VII («Economía y Hacienda») y el X («De la reforma constitucional»). Es una pregunta de estructura y es nueva."
+  },
+  {
+    "q": "¿Cuál es la rúbrica del Capítulo primero del Título III de la Constitución, que comprende los artículos 66 a 80?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en el consolidado: el Título III, «De las Cortes Generales», tiene el CAPÍTULO PRIMERO «De las Cámaras» (arts. 66-80), el segundo «De la elaboración de las leyes» y el tercero «De los Tratados Internacionales». «Disposiciones generales» y «Del Congreso y del Senado» no existen. Es estructura (matiz admitido en fuentes.json). El banco ya pregunta la rúbrica del capítulo 3.º y los artículos del 2.º, pero no la del 1.º."
+  },
+  {
+    "q": "Según el Preámbulo de la Constitución, la Nación española proclama su voluntad de garantizar la convivencia democrática dentro de la Constitución y de las leyes conforme a:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en el Preámbulo: «Garantizar la convivencia democrática dentro de la Constitución y de las leyes conforme a un orden económico y social justo». Distractores falsos. No repite ninguna pregunta existente."
+  },
+  {
+    "q": "¿Qué establece el apartado 3 de la disposición derogatoria de la Constitución?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en la disposición derogatoria: el apartado 3 dice «Asimismo quedan derogadas cuantas disposiciones se opongan a lo establecido en esta Constitución». La Ley 1/1977 está en el apartado 1, la Ley de 1839 en el 2 y la publicación en otras lenguas en la disposición final. El banco ya pregunta los apartados 1 y 2 y el número de apartados, pero no el contenido del 3. Encaja en la parte final y en la estructura del texto, como las preguntas existentes sobre esa disposición."
+  },
+  {
+    "q": "¿Cuál de las siguientes normas NO figura entre las que la disposición derogatoria de la Constitución declara derogadas?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en la disposición derogatoria.1: figuran Principios del Movimiento Nacional (17-may-1958), Ley Constitutiva de las Cortes (17-jul-1942) y Ley de Sucesión (26-jul-1947). El RDL 20/1977 no figura, y siguió aplicándose a las elecciones según la DT 8.ª.3. El apartado 3 es genérico, pero el enunciado pregunta qué norma «figura», y eso deja la pregunta sin ambigüedad. La pregunta existente sobre el apartado 1 pregunta otro dato (la derogación expresa de la Ley 1/1977)."
+  },
+  {
+    "q": "Según la disposición transitoria octava, apartado 1, de la Constitución, ¿qué ocurrió con las Cámaras que la habían aprobado una vez que entró en vigor?",
+    "veredicto": "RECHAZADA",
+    "notaRevision": "La opción marcada coincide con la DT 8.ª.1, pero el distractor «Quedaron disueltas y el Rey convocó nuevas elecciones en el plazo de treinta días» es históricamente cierto. El Real Decreto 3073/1978, de 29 de diciembre (BOE-A-1979-1, «BOE» núm. 1 de 1979; lo he comprobado), dispone «Quedan disueltos el Congreso de los Diputados y Senado elegidos el día quince de junio de mil novecientos setenta y siete» y convoca elecciones para el 1-mar-1979. Lo dicta dentro del periodo de treinta días de la DT 8.ª.2, en uso del art. 115. El enunciado pregunta «qué ocurrió», y la explicación afirma erróneamente «No quedaron disueltas». Si se rehiciera, debería preguntar solo qué dispone la DT 8.ª.1 y no llevar ningún distractor de disolución."
+  },
+  {
+    "q": "¿Cuál de las siguientes descripciones de la bandera de España se ajusta al art. 4.1 de la Constitución?",
+    "veredicto": "RECHAZADA",
+    "notaRevision": "Es correcta (art. 4.1, comprobado), pero repite en el fondo las preguntas existentes del tema 1 «...¿de qué colores son las tres franjas horizontales de la bandera?», «...¿qué franja tiene doble anchura?» y «¿Cuál NO se ajusta al art. 4 CE?» (franjas horizontales y amarilla de doble anchura). Además se solapa con la pregunta del lote sobre el artículo que describe la bandera."
+  },
+  {
+    "q": "¿Con qué término se refiere literalmente el art. 5 de la Constitución a Madrid como capital del Estado?",
+    "veredicto": "RECHAZADA",
+    "notaRevision": "Es correcta (art. 5: «La capital del Estado es la villa de Madrid»), pero repite en el fondo las preguntas existentes «Según el art. 5 CE, ¿cuál es la capital del Estado?» y «¿En qué artículo... se establece que la capital del Estado es la villa de Madrid?». Esta última trae en el enunciado la expresión literal que aquí se pregunta."
+  },
+  {
+    "q": "¿Qué artículo del Título preliminar de la Constitución se dedica a los sindicatos de trabajadores y a las asociaciones empresariales?",
+    "veredicto": "RECHAZADA",
+    "notaRevision": "Es correcta (art. 7), pero es la pregunta existente al revés: «Según el art. 7 CE, ¿quiénes contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios?». También se solapa con «¿Cuál de las siguientes organizaciones se menciona expresamente en el art. 7 CE?»."
+  },
+  {
+    "q": "¿Cuál de las siguientes previsiones del Título preliminar se refiere a los partidos políticos, pero NO a los sindicatos de trabajadores ni a las asociaciones empresariales?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado en los arts. 6 y 7: solo el art. 6 dice «concurren a la formación y manifestación de la voluntad popular». Las frases sobre libertad de creación y estructura democrática son idénticas en ambos artículos, y «contribuyen a la defensa y promoción...» solo aparece en el art. 7. Una sola opción correcta. Se solapa en parte con la pregunta existente sobre a quién se exige estructura democrática, pero pregunta otro dato (lo que distingue a los partidos), así que no la considero repetición."
+  },
+  {
+    "q": "¿Qué artículo de la Constitución reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que integran la Nación española?",
+    "veredicto": "RECHAZADA",
+    "notaRevision": "Es correcta (art. 2), pero es la pregunta existente al revés: «El art. 2 CE reconoce y garantiza el derecho a la autonomía de: las nacionalidades y regiones que integran España»."
+  },
+  {
+    "q": "¿En qué precepto de la Constitución se proclaman como valores superiores del ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político?",
+    "veredicto": "RECHAZADA",
+    "notaRevision": "Es correcta (art. 1.1), pero es la pregunta existente al revés de «¿Cuál NO es uno de los valores superiores... recogidos en el art. 1.1 CE?», «¿En qué orden enumera el art. 1.1 CE los valores superiores?» y «Según el art. 1.1 CE, la libertad, la justicia, la igualdad y el pluralismo político son valores superiores...»."
+  },
+  {
+    "q": "¿En qué parte de la Constitución se regulan los partidos políticos?",
+    "veredicto": "RECHAZADA",
+    "notaRevision": "Es correcta (art. 6), pero es al revés de varias preguntas existentes: «Según el art. 6 CE, los partidos políticos expresan: el pluralismo político», «...concurren a la formación y manifestación de...» y «...son instrumento fundamental para...». La pregunta del lote sobre partidos y sindicatos también se apoya en el art. 6."
+  },
+  {
+    "q": "¿Qué artículo de la Constitución describe la bandera de España?",
+    "veredicto": "RECHAZADA",
+    "notaRevision": "Es correcta (art. 4), pero es al revés de las preguntas existentes «Según el art. 4.1 CE, ¿de qué colores son las tres franjas...?» y «Según el art. 4.1 CE, ¿qué franja... tiene doble anchura?». Además se solapa con la pregunta del lote sobre la descripción de la bandera."
+  },
+  {
+    "q": "¿Cuál de los siguientes ámbitos NO menciona el art. 97 de la Constitución entre los que dirige el Gobierno?",
+    "veredicto": "RECHAZADA",
+    "notaRevision": "Es correcta según el art. 97, pero es la pregunta existente al revés: «¿Quién dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado, según el art. 97 CE?». Ese enunciado da completa la enumeración que aquí se pregunta. Ante la duda, rechazo."
+  },
+  {
+    "q": "Al enumerar la composición del Gobierno, ¿a qué miembros se refiere el art. 98.1 de la Constitución con la expresión «en su caso»?",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado el art. 98.1: «del Presidente, de los Vicepresidentes, en su caso, de los Ministros y de los demás miembros que establezca la ley». «En su caso» va detrás de los Vicepresidentes, y los Secretarios de Estado no se mencionan. Las preguntas existentes sobre el 98.1 preguntan el último elemento y el cargo no mencionado, no cuál es eventual. Aviso: la expresión aparece en el enunciado de una de ellas."
+  },
+  {
+    "q": "¿Qué artículo de la Constitución regula el procedimiento de investidura del Presidente del Gobierno?",
+    "veredicto": "RECHAZADA",
+    "notaRevision": "Es correcta (art. 99), pero es al revés de la serie existente sobre la investidura: «Según el art. 99.3 CE, para ser investido Presidente...», «Según el art. 99.5 CE, si transcurridos dos meses desde la primera votación de investidura...» y las preguntas sobre el 99.1 a 99.5. El vínculo investidura-art. 99 ya está preguntado."
+  },
+  {
+    "q": "Según el art. 101.1 de la Constitución, el Gobierno cesa en los casos de pérdida de la confianza parlamentaria:",
+    "veredicto": "CONFIRMADA",
+    "notaRevision": "Comprobado el art. 101.1: «en los casos de pérdida de la confianza parlamentaria previstos en la Constitución». Los distractores (ley orgánica, Reglamento del Congreso, apreciación del Rey) son falsos. La pregunta existente sobre las causas de cese no pregunta este inciso. La cita es literal aunque está cortada."
+  },
+  {
+    "q": "¿En qué precepto de la Constitución se establece que el Gobierno cesante continuará en funciones hasta la toma de posesión del nuevo Gobierno?",
+    "veredicto": "RECHAZADA",
+    "notaRevision": "Es correcta (art. 101.2), pero es la pregunta existente al revés: «Según el art. 101.2 CE, el Gobierno cesante continuará en funciones hasta: la toma de posesión del nuevo Gobierno»."
+  },
+  {
+    "q": "¿Qué artículo de la Constitución regula la responsabilidad criminal del Presidente y de los demás miembros del Gobierno?",
+    "veredicto": "RECHAZADA",
+    "notaRevision": "Es correcta (art. 102), pero es la pregunta existente al revés: «Según el art. 102.1 CE, la responsabilidad criminal del Presidente y de los demás miembros del Gobierno es exigible ante...». Las del 102.2 y el 102.3 también ubican la materia."
+  },
+  {
+    "q": "¿En qué precepto de la Constitución se remite a la ley la regulación del acceso a la función pública de acuerdo con los principios de mérito y capacidad?",
+    "veredicto": "RECHAZADA",
+    "notaRevision": "Es correcta (art. 103.3), pero es la pregunta existente al revés: «Según el art. 103.3 CE, el acceso a la función pública se rige por los principios de: mérito y capacidad». También se solapa con las otras dos existentes sobre el 103.3."
+  },
+  {
+    "q": "¿Cuál de las siguientes materias remite la Constitución a «la ley», sin exigir que sea ley orgánica?",
+    "veredicto": "RECHAZADA",
+    "notaRevision": "Es correcta (98.4 remite a «la ley»; 107, 104.2 y 8.2 exigen ley orgánica), pero repite en el fondo la existente «Según el art. 98.4 CE, el estatuto e incompatibilidades de los miembros del Gobierno se regularán por: la ley» (con «ley orgánica» como distractor). Los tres distractores también son preguntas existentes: art. 107 ley orgánica, art. 104.2 ley orgánica y art. 8.2 ley orgánica."
+  },
+  {
+    "q": "¿En qué parte de la Constitución se regulan las Fuerzas y Cuerpos de seguridad?",
+    "veredicto": "RECHAZADA",
+    "notaRevision": "Es correcta (art. 104, Título IV), pero es al revés de las existentes «Según el art. 104.1 CE, las Fuerzas y Cuerpos de Seguridad... tienen como misión...», «...actúan bajo la dependencia de...» y de la del 104.2."
+  },
+  {
+    "q": "¿En qué precepto remite la Constitución a la ley la regulación del acceso de los ciudadanos a los archivos y registros administrativos?",
+    "veredicto": "RECHAZADA",
+    "notaRevision": "Es correcta (art. 105 b), pero es la pregunta existente al revés: «Según el art. 105 b) CE, el acceso de los ciudadanos a los archivos y registros administrativos tiene como límite...». También se solapa con «¿Cuál NO es un límite al acceso... según el art. 105 b)?»."
+  },
+  {
+    "q": "¿Qué precepto de la Constitución reconoce a los particulares el derecho a ser indemnizados por las lesiones que sean consecuencia del funcionamiento de los servicios públicos?",
+    "veredicto": "RECHAZADA",
+    "notaRevision": "Es correcta (art. 106.2), pero es al revés de varias existentes: «Según el art. 106.2 CE, los particulares tendrán derecho a ser indemnizados... salvo en los casos de...», «...la lesión indemnizable debe ser consecuencia del funcionamiento de...», y las del 106.2 sobre el objeto de la lesión y sobre quién tiene el derecho."
+  },
+  {
+    "q": "¿En qué precepto de la Constitución se prevé que las islas tengan su administración propia en forma de Cabildos o Consejos?",
+    "veredicto": "RECHAZADA",
+    "notaRevision": "Es correcta (art. 141.4), pero es la pregunta existente al revés: «Según el art. 141.4 CE, en los archipiélagos, las islas tendrán además su administración propia en forma de: Cabildos o Consejos». Se solapa además con «¿en qué ámbito territorial tendrán las islas...?» y con «La expresión «hecho insular» aparece en...»."
+  },
+  {
+    "q": "Según el art. 140 de la Constitución, los Concejales son elegidos por los vecinos del municipio mediante sufragio universal, igual, libre, directo y secreto, en la forma establecida por:",
+    "veredicto": "DUDOSA",
+    "notaRevision": "El fondo es correcto. El art. 140 dice «en la forma establecida por la ley», y lo he comprobado. Es un dato nuevo frente a las preguntas existentes sobre el sufragio y el concejo abierto. También vale para Zaragoza. Pero incumple la regla 7 bis: la correcta, «La ley» (6 caracteres), tiene mucha menos longitud y detalle que los distractores (26-40). Además es la fórmula genérica que se adivina sin saber el artículo. Arreglo propuesto: igualar la forma, con opciones del tipo «La ley» / «El Estatuto» / «La ordenanza» / «El reglamento orgánico», o bien «Lo que establezca la ley» frente a distractores de longitud similar."
+  },
+  {
+    "q": "¿Qué precepto de la Constitución proclama que todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado?",
+    "veredicto": "RECHAZADA",
+    "notaRevision": "Es correcta (art. 139.1), pero es la pregunta existente al revés: «Según el art. 139.1 CE, todos los españoles tienen los mismos derechos y obligaciones: en cualquier parte del territorio del Estado». También se solapa con «El artículo 139.1 CE proclama la igualdad... respecto de: todos los españoles»."
+  }
+]

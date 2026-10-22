@@ -1,0 +1,287 @@
+{
+ "slug": "aux-admin-zaragoza",
+ "tema": 4,
+ "lote": "t04-1",
+ "preguntas": [
+  {
+   "q": "Según el art. 4.1 de la Ley 39/2015, ¿qué diferencia a los interesados de la letra b) de los de la letra c)?",
+   "options": [
+    "Los de la b) tienen intereses legítimos y deben personarse; los de la c) tienen derechos que pueden verse afectados y no necesitan personarse",
+    "Los de la b) han promovido el procedimiento como titulares de derechos; los de la c) no lo han promovido y deben personarse en él",
+    "Los de la b) tienen derechos que pueden verse afectados y no necesitan personarse; los de la c) tienen intereses legítimos y deben personarse",
+    "Los de la b) solo pueden invocar intereses individuales; los de la c) solo pueden invocar intereses colectivos y deben personarse"
+   ],
+   "correct": 2,
+   "exp": "El art. 4.1 b) considera interesados a «los que, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte», sin exigirles ningún otro acto. La letra c) se refiere a quienes tienen «intereses legítimos, individuales o colectivos» que puedan resultar afectados, y solo les da esa condición si «se personen en el procedimiento en tanto no haya recaído resolución definitiva». La opción que atribuye los intereses a la b) y los derechos a la c) invierte las dos letras; quien promueve el procedimiento es el interesado de la letra a), no el de la b); y la letra c) admite intereses individuales o colectivos, no solo colectivos.",
+   "fuente": "Art. 4.1 b) y c) LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "cita": "Los que, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte."
+  },
+  {
+   "q": "Según el art. 4.1 c) de la Ley 39/2015, los intereses legítimos cuya posible afectación por la resolución permite ser interesado a quien se persona en el procedimiento pueden ser:",
+   "options": [
+    "Individuales o colectivos",
+    "Solo individuales y directos",
+    "Solo colectivos, si los defiende una asociación",
+    "Solo económicos o sociales"
+   ],
+   "correct": 0,
+   "exp": "El art. 4.1 c) se refiere a «aquellos cuyos intereses legítimos, individuales o colectivos, puedan resultar afectados por la resolución y se personen en el procedimiento». Admite, por tanto, las dos clases de intereses legítimos. La exigencia de que los intereses sean «directos» aparece en el art. 8 (nuevos interesados), no en el 4.1 c); y los intereses «económicos y sociales» son los que representan las asociaciones y organizaciones del art. 4.2, que no limitan la letra c).",
+   "fuente": "Art. 4.1 c) LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "cita": "Aquellos cuyos intereses legítimos, individuales o colectivos, puedan resultar afectados por la resolución"
+  },
+  {
+   "q": "Una organización representativa de intereses económicos y sociales no ha iniciado un procedimiento, pero la resolución que se dicte puede afectar a los intereses legítimos colectivos que defiende. Según el art. 4 de la Ley 39/2015, ¿qué necesita para tener la condición de interesada?",
+   "options": [
+    "Nada más: la tiene desde el inicio por ser titular de intereses colectivos",
+    "Obtener la autorización previa del órgano que instruye el procedimiento",
+    "Acreditar que la resolución afecta a derechos individuales de sus socios",
+    "Personarse en el procedimiento antes de que recaiga resolución definitiva"
+   ],
+   "correct": 3,
+   "exp": "El art. 4.2 dice que estas asociaciones y organizaciones «serán titulares de intereses legítimos colectivos en los términos que la Ley reconozca», pero no las convierte por sí solo en interesadas en cualquier procedimiento. Si no lo han promovido (letra a) y lo que puede verse afectado no son derechos (letra b) sino intereses legítimos, encajan en el art. 4.1 c), que exige que «se personen en el procedimiento en tanto no haya recaído resolución definitiva». La ley no pide autorización del instructor ni que se acrediten derechos individuales de los socios.",
+   "fuente": "Art. 4.1 c) y 4.2 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "cita": "Las asociaciones y organizaciones representativas de intereses económicos y sociales serán titulares de intereses legítimos colectivos en los términos que la Ley reconozca."
+  },
+  {
+   "q": "Durante la instrucción de un procedimiento que no ha tenido publicidad, el expediente permite identificar a una vecina que no lo inició y cuyos derechos pueden resultar directamente afectados por la resolución. Según los arts. 4.1 y 8 de la Ley 39/2015:",
+   "options": [
+    "Solo será interesada si se persona, y la Administración no tiene que comunicarle nada",
+    "Es interesada sin necesidad de personarse, y debe comunicársele la tramitación del procedimiento",
+    "No es interesada por no haber iniciado el procedimiento; solo se le notificará la resolución final",
+    "Es interesada, pero solo se le comunicará la tramitación si lo solicita por escrito"
+   ],
+   "correct": 1,
+   "exp": "Por el art. 4.1 b), quien sin haber iniciado el procedimiento tiene «derechos que puedan resultar afectados por la decisión que en el mismo se adopte» es interesado; la personación solo se exige en la letra c), a quien tiene intereses legítimos. Además, el art. 8 ordena que, si durante la instrucción de un procedimiento «que no haya tenido publicidad» se advierte la existencia de titulares de derechos o intereses legítimos y directos cuya identificación resulte del expediente y que puedan resultar afectados, «se comunicará a dichas personas la tramitación del procedimiento», de oficio y sin esperar a que lo pidan.",
+   "fuente": "Arts. 4.1 b) y 8 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "cita": "se comunicará a dichas personas la tramitación del procedimiento"
+  },
+  {
+   "q": "Según la Ley 39/2015, ¿qué se exige a los grupos de afectados sin personalidad jurídica para tener capacidad de obrar (art. 3 c) y a las personas jurídicas para representar a otras (art. 5.2)?",
+   "options": [
+    "A los grupos, que una Ley lo declare expresamente; a las personas jurídicas, que lo prevean sus Estatutos",
+    "A los grupos, que lo prevean sus Estatutos; a las personas jurídicas, que una Ley lo declare expresamente",
+    "A los grupos, que se inscriban en un registro público; a las personas jurídicas, que lo prevean sus Estatutos",
+    "A los grupos, que una Ley lo declare expresamente; a las personas jurídicas, que inscriban el poder en un registro"
+   ],
+   "correct": 0,
+   "exp": "El art. 3 c) reconoce capacidad de obrar, «cuando la Ley así lo declare expresamente», a los grupos de afectados, las uniones y entidades sin personalidad jurídica y los patrimonios independientes o autónomos. El art. 5.2 permite representar a otras personas a las personas físicas con capacidad de obrar y a las personas jurídicas «siempre que ello esté previsto en sus Estatutos». La opción que intercambia los requisitos es falsa; la ley no exige a los grupos inscribirse en un registro público, y la inscripción en el registro de apoderamientos es una forma de acreditar la representación (art. 5.4), no un requisito para poder representar.",
+   "fuente": "Arts. 3 c) y 5.2 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "cita": "Cuando la Ley así lo declare expresamente, los grupos de afectados, las uniones y entidades sin personalidad jurídica y los patrimonios independientes o autónomos."
+  },
+  {
+   "q": "Las actuaciones para las que el art. 5.3 de la Ley 39/2015 exige acreditar la representación coinciden con las que enumera:",
+   "options": [
+    "El art. 12.2, como ámbitos de especial asistencia en medios electrónicos",
+    "El art. 6.7, como solicitudes que pueden dirigirse a cualquier registro",
+    "El art. 11.2, como casos en que se exige el uso obligatorio de firma",
+    "El art. 6.4, como tipos de poder inscribibles en los registros"
+   ],
+   "correct": 2,
+   "exp": "El art. 5.3 exige acreditar la representación para «formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos en nombre de otra persona». El art. 11.2 dice que las Administraciones «sólo requerirán a los interesados el uso obligatorio de firma» para esas mismas cinco actuaciones: formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos. El art. 12.2 menciona la identificación y firma electrónica, la presentación de solicitudes por el registro electrónico general y la obtención de copias auténticas; el 6.7, la inscripción, revocación, prórroga o denuncia del poder; y el 6.4, tres tipos de poder.",
+   "fuente": "Arts. 5.3 y 11.2 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "cita": "Para formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos en nombre de otra persona, deberá acreditarse la representación."
+  },
+  {
+   "q": "Un representante va a renunciar a un derecho en nombre del interesado. Según los arts. 5.3 y 11.2 de la Ley 39/2015:",
+   "options": [
+    "Basta con que se identifique, porque la representación se presume siempre",
+    "Debe acreditar la representación, pero basta con identificarse",
+    "Debe firmar, pero la representación se presume y no se acredita",
+    "Debe acreditar la representación y firmar; no basta con identificarse"
+   ],
+   "correct": 3,
+   "exp": "Renunciar a derechos en nombre de otra persona es una de las actuaciones para las que el art. 5.3 dice que «deberá acreditarse la representación»; la presunción de representación solo opera en «los actos y gestiones de mero trámite». Y el art. 11.2 e) incluye «Renunciar a derechos» entre los casos en que las Administraciones requieren el uso obligatorio de firma, como excepción a la regla del art. 11.1, según la cual basta con acreditar la identidad. Por eso fallan las opciones que se conforman con la identificación o que presumen la representación.",
+   "fuente": "Arts. 5.3 y 11.2 e) LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "cita": "Las Administraciones Públicas sólo requerirán a los interesados el uso obligatorio de firma para:"
+  },
+  {
+   "q": "¿Qué diferencia a las personas habilitadas del art. 5.7 de la Ley 39/2015 del funcionario que actúa conforme al art. 12.2?",
+   "options": [
+    "Las del 5.7 han de ser funcionarios públicos; el funcionario del 12.2 puede ser cualquier persona física o jurídica que la Administración habilite al efecto",
+    "Las del 5.7 hacen transacciones electrónicas como representantes; el funcionario identifica o firma por un interesado sin medios, con su consentimiento expreso",
+    "Las del 5.7 necesitan el consentimiento expreso del interesado en cada trámite; el funcionario del 12.2 necesita un poder inscrito en el registro",
+    "Las del 5.7 solo representan a personas jurídicas; el funcionario del 12.2 solo actúa por quienes están obligados a relacionarse electrónicamente"
+   ],
+   "correct": 1,
+   "exp": "El art. 5.7 permite habilitar «a personas físicas o jurídicas autorizadas para la realización de determinadas transacciones electrónicas en representación de los interesados», y la habilitación determina la presunción de validez de esa representación. El art. 12.2 prevé que, si un interesado no obligado a relacionarse electrónicamente no dispone de los medios necesarios, su identificación o firma «podrá ser válidamente realizada por un funcionario público» con su propio sistema de firma, siempre que el interesado se identifique ante él y preste su «consentimiento expreso». Los habilitados del 5.7 no tienen que ser funcionarios ni representan solo a personas jurídicas; el funcionario del 12.2 no necesita un poder inscrito y actúa precisamente por quienes no están obligados.",
+   "fuente": "Arts. 5.7 y 12.2 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "cita": "personas físicas o jurídicas autorizadas para la realización de determinadas transacciones electrónicas en representación de los interesados"
+  },
+  {
+   "q": "¿Cuántos datos enumera el art. 6.3 de la Ley 39/2015 como información que, al menos, deben contener los asientos de los registros electrónicos de apoderamientos?",
+   "options": [
+    "Tres",
+    "Cuatro",
+    "Cinco",
+    "Seis"
+   ],
+   "correct": 2,
+   "exp": "El art. 6.3 dice que los asientos «deberán contener, al menos, la siguiente información» y la enumera en cinco letras: a) identificación del poderdante (nombre y apellidos o denominación o razón social, DNI, NIF o documento equivalente); b) los mismos datos del apoderado; c) fecha de inscripción; d) período de tiempo por el cual se otorga el poder; y e) tipo de poder según las facultades que otorgue.",
+   "fuente": "Art. 6.3 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "cita": "deberán contener, al menos, la siguiente información:"
+  },
+  {
+   "q": "El Título I de la Ley 39/2015 obliga expresamente a la Administración General del Estado, a las Comunidades Autónomas y a las Entidades Locales a contar con dos registros. ¿Cuáles?",
+   "options": [
+    "Un registro electrónico general de apoderamientos y un registro, u otro sistema equivalente, de funcionarios habilitados",
+    "Un registro electrónico general de apoderamientos y un registro de los sistemas de identificación y de firma de la letra c)",
+    "Un registro de personas habilitadas para transacciones electrónicas y un registro de funcionarios habilitados",
+    "Un registro de interesados personados en cada procedimiento y un registro electrónico general de apoderamientos"
+   ],
+   "correct": 0,
+   "exp": "El art. 6.1 dispone que la Administración General del Estado, las Comunidades Autónomas y las Entidades Locales «dispondrán de un registro electrónico general de apoderamientos», y el art. 12.3 que esas mismas Administraciones «mantendrán actualizado un registro, u otro sistema equivalente, donde constarán los funcionarios habilitados para la identificación o firma». Para los sistemas de la letra c) de los arts. 9.2 y 10.2 la ley exige una comunicación a la Secretaría General de Administración Digital, no un registro; y el Título I no crea registros de personas habilitadas del art. 5.7 ni de interesados personados.",
+   "fuente": "Arts. 6.1 y 12.3 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "cita": "mantendrán actualizado un registro, u otro sistema equivalente, donde constarán los funcionarios habilitados para la identificación o firma regulada en este artículo"
+  },
+  {
+   "q": "¿Qué papel atribuye el Título I de la Ley 39/2015 a las oficinas de asistencia en materia de registros?",
+   "options": [
+    "Ante ellas se otorga el apud acta por comparecencia electrónica, y sus funcionarios actúan como representantes habilitados del art. 5.7 de la Ley",
+    "En ellas se hace el bastanteo de todos los poderes, y sus funcionarios deben inscribirse en el registro electrónico de apoderamientos",
+    "En ellas se comunican a la SGAD los nuevos sistemas de identificación, y sus funcionarios emiten el informe sobre su seguridad",
+    "Ante ellas se otorga el apud acta por comparecencia personal, y sus funcionarios deben constar en el registro de funcionarios habilitados"
+   ],
+   "correct": 3,
+   "exp": "El art. 6.5 dice que el apoderamiento apud acta se otorga por comparecencia electrónica en la sede electrónica «o bien mediante comparecencia personal en las oficinas de asistencia en materia de registros». El art. 12.3 añade que en el registro de funcionarios habilitados «al menos, constarán los funcionarios que presten servicios en las oficinas de asistencia en materia de registros». La comparecencia electrónica es en la sede electrónica, no en la oficina; la ley exige que el bastanteo conste en el registro de apoderamientos (art. 6.1), pero no lo atribuye a estas oficinas; y el informe sobre los sistemas de la letra c) es de la Secretaría de Estado de Seguridad.",
+   "fuente": "Arts. 6.5 y 12.3 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "cita": "constarán los funcionarios que presten servicios en las oficinas de asistencia en materia de registros"
+  },
+  {
+   "q": "Los arts. 6.2 y 12.3 de la Ley 39/2015 exigen que los registros de apoderamientos y los de funcionarios habilitados sean interoperables. ¿Qué permite comprobar cada uno?",
+   "options": [
+    "Los de apoderamientos, la validez de las habilitaciones de los funcionarios; los de funcionarios, la representación de quien actúa por otro",
+    "Los de apoderamientos, la representación de quien actúa en nombre de un tercero; los de funcionarios, la validez de sus habilitaciones",
+    "Los de apoderamientos, la identidad de los interesados; los de funcionarios, la firma electrónica de los interesados sin medios propios",
+    "Los de apoderamientos, la capacidad de obrar del poderdante; los de funcionarios, el consentimiento expreso de los interesados atendidos"
+   ],
+   "correct": 1,
+   "exp": "Según el art. 6.2, los registros electrónicos generales y particulares de apoderamientos «permitirán comprobar válidamente la representación de quienes actúen ante las Administraciones Públicas en nombre de un tercero». Según el art. 12.3, los registros o sistemas de funcionarios habilitados deben ser interoperables e interconectados «a los efectos de comprobar la validez de las citadas habilitaciones». La opción que intercambia las finalidades es falsa, y la ley no asigna a estos registros la comprobación de la identidad, la firma, la capacidad de obrar ni el consentimiento de los interesados.",
+   "fuente": "Arts. 6.2 y 12.3 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "cita": "permitirán comprobar válidamente la representación de quienes actúen ante las Administraciones Públicas en nombre de un tercero"
+  },
+  {
+   "q": "En el Título I de la Ley 39/2015, ¿qué dos plazos son de diez días?",
+   "options": [
+    "El de aportación o subsanación de la representación y el de espera previo a la eficacia de los sistemas de la letra c)",
+    "El de validez de las prórrogas de los poderes inscritos y el del informe de la Secretaría de Estado de Seguridad",
+    "El de aportación o subsanación de la representación y el del informe de la Secretaría de Estado de Seguridad",
+    "El de personación de quienes tienen intereses legítimos y el de aportación o subsanación de la representación"
+   ],
+   "correct": 2,
+   "exp": "El art. 5.6 fija para aportar o subsanar la acreditación de la representación el «plazo de diez días que deberá conceder al efecto el órgano administrativo» (o uno superior si las circunstancias lo requieren). Los arts. 9.2 c) y 10.2 c) prevén el informe vinculante de la Secretaría de Estado de Seguridad, «que deberá emitir en el plazo de diez días desde su solicitud». En cambio, la espera previa a la eficacia de los sistemas de la letra c) es de dos meses; las prórrogas de los poderes inscritos valen como máximo cinco años (art. 6.6); y quien tiene intereses legítimos puede personarse «en tanto no haya recaído resolución definitiva» (art. 4.1 c), sin un plazo en días.",
+   "fuente": "Arts. 5.6, 9.2 c) y 10.2 c) LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "cita": "que deberá emitir en el plazo de diez días desde su solicitud"
+  },
+  {
+   "q": "Según el art. 9.2 c) de la Ley 39/2015, los sistemas de identificación de esa letra deben contar con un registro previo como usuario. ¿Qué debe permitir ese registro?",
+   "options": [
+    "Garantizar la identidad del interesado",
+    "Acreditar la representación del interesado",
+    "Comprobar la capacidad de obrar del interesado",
+    "Fijar el domicilio para las notificaciones"
+   ],
+   "correct": 0,
+   "exp": "El art. 9.2 c) admite «cualquier otro sistema que las Administraciones públicas consideren válido», siempre que cuente con «un registro previo como usuario que permita garantizar su identidad» y previa comunicación a la Secretaría General de Administración Digital. El art. 10.2 c) exige lo mismo para los sistemas de firma. La representación se acredita por los medios del art. 5.4; la ley no vincula ese registro previo con la capacidad de obrar ni con las notificaciones.",
+   "fuente": "Art. 9.2 c) LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "cita": "registro previo como usuario que permita garantizar su identidad"
+  },
+  {
+   "q": "¿Cuántos sistemas de identificación electrónica enumera el art. 9.2 de la Ley 39/2015 en sus letras?",
+   "options": [
+    "Dos",
+    "Tres",
+    "Cuatro",
+    "Cinco"
+   ],
+   "correct": 1,
+   "exp": "El art. 9.2 dice que los interesados «podrán identificarse electrónicamente ante las Administraciones Públicas a través de los sistemas siguientes» y enumera tres: a) sistemas basados en certificados electrónicos cualificados de firma electrónica; b) sistemas basados en certificados electrónicos cualificados de sello electrónico, en ambos casos de prestadores incluidos en la «Lista de confianza de prestadores de servicios de certificación»; y c) cualquier otro sistema que las Administraciones consideren válido, con registro previo como usuario y previa comunicación a la Secretaría General de Administración Digital.",
+   "fuente": "Art. 9.2 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "cita": "Los interesados podrán identificarse electrónicamente ante las Administraciones Públicas a través de los sistemas siguientes:"
+  },
+  {
+   "q": "Según los arts. 9.2 a) y 10.2 a) de la Ley 39/2015, los sistemas basados en certificados electrónicos cualificados de firma electrónica, expedidos por prestadores de la «Lista de confianza», sirven:",
+   "options": [
+    "Solo para identificarse; para firmar se exige sello",
+    "Solo para firmar; para identificarse se exige registro previo",
+    "Solo a las personas jurídicas, para identificarse y sellar",
+    "Para identificarse y también para firmar"
+   ],
+   "correct": 3,
+   "exp": "El art. 9.2 a) incluye entre los sistemas de identificación los «basados en certificados electrónicos cualificados de firma electrónica expedidos por prestadores incluidos en la ‘‘Lista de confianza de prestadores de servicios de certificación’’», y el art. 10.2 a) considera válidos a efectos de firma los «sistemas de firma electrónica cualificada y avanzada basados en certificados electrónicos cualificados de firma electrónica» de esos prestadores. El sello electrónico es la letra b) de ambos artículos, el registro previo como usuario se exige a los sistemas de la letra c), y la ley no reserva estos certificados a las personas jurídicas.",
+   "fuente": "Arts. 9.2 a) y 10.2 a) LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "cita": "Sistemas de firma electrónica cualificada y avanzada basados en certificados electrónicos cualificados de firma electrónica"
+  },
+  {
+   "q": "Comparados con los requisitos del art. 9.2 c) de la Ley 39/2015 para admitir otro sistema de identificación, los que fija el art. 10.2 c) para admitir otro sistema de firma son:",
+   "options": [
+    "Los mismos: registro previo como usuario, comunicación a la SGAD con declaración responsable y dos meses de espera",
+    "Más exigentes: además de comunicarlo a la SGAD, hace falta su autorización expresa dentro de los dos meses",
+    "Menos exigentes: basta comunicarlo a la SGAD, sin registro previo como usuario ni declaración responsable",
+    "Distintos: la espera es de un mes y el informe vinculante lo emite la propia SGAD en diez días"
+   ],
+   "correct": 0,
+   "exp": "Las letras c) de los arts. 9.2 y 10.2 tienen el mismo texto: el sistema debe contar con «un registro previo como usuario que permita garantizar su identidad» y con la previa comunicación a la Secretaría General de Administración Digital, que «vendrá acompañada de una declaración responsable»; antes de su eficacia jurídica «habrán de transcurrir dos meses», durante los cuales el órgano estatal competente por motivos de seguridad pública puede acudir a la vía jurisdiccional, previo informe vinculante de la Secretaría de Estado de Seguridad en diez días. No hay autorización de la SGAD, ni se suprimen requisitos para la firma, ni la espera es de un mes.",
+   "fuente": "Arts. 9.2 c) y 10.2 c) LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "cita": "Esta comunicación vendrá acompañada de una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente."
+  },
+  {
+   "q": "Según los apartados 4 y 5 del art. 10 de la Ley 39/2015, ¿cómo se relacionan la identificación y la firma?",
+   "options": [
+    "Quien se identifica queda habilitado para firmar; un sistema de firma solo acredita la identidad si la normativa reguladora lo dispone expresamente",
+    "Quien firma tiene que identificarse además por separado; cualquier sistema de identificación vale como firma sin necesidad de previsión normativa",
+    "Quien firma con un sistema del art. 10 queda identificado; un sistema de identificación solo vale como firma si la normativa reguladora lo dispone expresamente",
+    "Quien se identifica ya ha firmado a todos los efectos; un sistema de firma nunca sirve por sí solo para acreditar la identidad del interesado"
+   ],
+   "correct": 2,
+   "exp": "El art. 10.5 dice que, cuando los interesados utilicen un sistema de firma de los previstos en el artículo, «su identidad se entenderá ya acreditada mediante el propio acto de la firma». En sentido inverso, el art. 10.4 solo permite admitir los sistemas de identificación como sistema de firma «cuando así lo disponga expresamente la normativa reguladora aplicable» y siempre que permitan acreditar la autenticidad de la expresión de la voluntad y consentimiento de los interesados. Las demás opciones invierten o suprimen esa relación.",
+   "fuente": "Art. 10.4 y 10.5 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "cita": "su identidad se entenderá ya acreditada mediante el propio acto de la firma"
+  },
+  {
+   "q": "¿En qué se diferencian las enumeraciones de los arts. 11.2 y 12.2 de la Ley 39/2015?",
+   "options": [
+    "La del 11.2, de casos de firma obligatoria, es abierta («especialmente»); la del 12.2, de ámbitos de asistencia, es cerrada («sólo»)",
+    "Las dos son cerradas: solo puede exigirse firma o prestarse asistencia en los casos que cada una enumera expresamente",
+    "Las dos son abiertas: cada Administración puede añadir libremente otros casos de firma obligatoria y de asistencia",
+    "La del 11.2, de casos de firma obligatoria, es cerrada («sólo»); la del 12.2, de ámbitos de asistencia, es abierta («especialmente»)"
+   ],
+   "correct": 3,
+   "exp": "El art. 11.2 dice que las Administraciones «sólo requerirán a los interesados el uso obligatorio de firma» para cinco actuaciones tasadas: es una lista cerrada, coherente con la regla del art. 11.1 de que basta con identificarse. El art. 12.2 dice que asistirán a los interesados no obligados que lo soliciten, «especialmente en lo referente a la identificación y firma electrónica, presentación de solicitudes a través del registro electrónico general y obtención de copias auténticas»: esos ámbitos se citan como ejemplos, no como límite.",
+   "fuente": "Arts. 11.2 y 12.2 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "cita": "que así lo soliciten, especialmente en lo referente a la identificación y firma electrónica"
+  },
+  {
+   "q": "Según el art. 12 de la Ley 39/2015, ¿a quién se dirigen, respectivamente, la garantía del apartado 1 (canales, sistemas y aplicaciones) y la asistencia del apartado 2?",
+   "options": [
+    "La del 1, solo a los obligados a relacionarse electrónicamente; la del 2, a todos los interesados, de oficio",
+    "La del 1, a los interesados en general; la del 2, a los no obligados a relacionarse electrónicamente que la soliciten",
+    "La del 1, solo a quienes la soliciten expresamente; la del 2, de oficio a todos los no obligados",
+    "La del 1, solo a las personas jurídicas; la del 2, solo a las personas físicas obligadas que la soliciten"
+   ],
+   "correct": 1,
+   "exp": "El art. 12.1 obliga a las Administraciones a «garantizar que los interesados pueden relacionarse con la Administración a través de medios electrónicos», poniendo a su disposición los canales de acceso, sistemas y aplicaciones necesarios, sin distinguir entre interesados ni exigir solicitud. El art. 12.2, en cambio, limita la asistencia a «los interesados no incluidos en los apartados 2 y 3 del artículo 14 que así lo soliciten», es decir, a quienes no están obligados a relacionarse electrónicamente y la piden.",
+   "fuente": "Art. 12.1 y 12.2 LPAC (Ley 39/2015)",
+   "confianza": "alta",
+   "cita": "Las Administraciones Públicas asistirán en el uso de medios electrónicos a los interesados no incluidos en los apartados 2 y 3 del artículo 14 que así lo soliciten"
+  }
+ ]
+}
