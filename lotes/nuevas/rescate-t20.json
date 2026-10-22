@@ -1,0 +1,245 @@
+{
+ "slug": "aux-admin-zaragoza",
+ "tema": 20,
+ "lote": "rescate-t20",
+ "preguntas": [
+  {
+   "q": "Según el art. 25.c) del TRLUA, entre las obras de urbanización que los promotores de actuaciones de urbanización deben costear y, en su caso, ejecutar, se entienden incluidas:",
+   "options": [
+    "Solo las interiores de la actuación, nunca las de conexión exterior",
+    "Las de potabilización, suministro y depuración de agua que se requieran",
+    "Las de edificación de las viviendas protegidas reservadas por el planeamiento",
+    "Las de conservación de la urbanización durante diez años desde su recepción"
+   ],
+   "correct": 1,
+   "exp": "El art. 25.c) TRLUA obliga al promotor a costear todas las obras de urbanización de la actuación, incluidas las de conexión con los sistemas generales exteriores y su ampliación o refuerzo, y precisa: «Entre tales obras se entenderán incluidas las de potabilización, suministro y depuración de agua que se requieran», así como las infraestructuras y servicios de transporte público que exija el planeamiento. No se limita a las obras interiores, y el art. 25 no incluye la edificación de viviendas ni la conservación de la urbanización durante diez años.",
+   "fuente": "Art. 25.c) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+   "confianza": "alta",
+   "cita": "Entre tales obras se entenderán incluidas las de potabilización, suministro y depuración de agua que se requieran, conforme a su legislación reguladora, y las infraestructuras y servicios de transporte público que el planeamiento exija para garantizar una movilidad sostenible en función de los nuevos tráficos que genere."
+  },
+  {
+   "q": "¿Cuál de las siguientes es una obligación de los promotores de actuaciones de urbanización en suelo urbano no consolidado y urbanizable delimitado, según el art. 25 del TRLUA?",
+   "options": [
+    "Edificar los solares resultantes en el plazo máximo de un año desde la recepción de las obras de urbanización",
+    "Ceder gratuitamente al municipio, en todo caso, el veinte por ciento del aprovechamiento medio",
+    "Garantizar el realojamiento de los ocupantes legales desalojados que tengan allí su residencia habitual",
+    "Constituir por tiempo indefinido una entidad urbanística de conservación de la urbanización"
+   ],
+   "correct": 2,
+   "exp": "El art. 25.f) TRLUA impone al promotor garantizar el realojamiento de los ocupantes legales desalojados que tengan allí su residencia habitual y el retorno cuando proceda. El art. 25 no fija un plazo de un año para edificar ni obliga a constituir una entidad de conservación. La cesión de aprovechamiento es la del suelo donde se ubique el aprovechamiento subjetivo de la Administración (art. 25.e), que con carácter general es el 10 % y solo excepcionalmente puede llegar al 20 % (arts. 127 y 128); no es un 20 % en todo caso.",
+   "fuente": "Art. 25.f) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+   "confianza": "alta",
+   "cita": "f) Garantizar el realojamiento de los ocupantes legales que se precise desalojar de inmuebles situados en el ámbito de la actuación y que constituyan su residencia habitual, así como el retorno cuando tengan derecho a él"
+  },
+  {
+   "q": "El documento o memoria mediante el que se formula la consulta sobre la viabilidad de la transformación de suelo urbanizable no delimitado (art. 26 TRLUA) debe incluir, como contenido mínimo:",
+   "options": [
+    "El proyecto de urbanización del sector, con su presupuesto y su pliego de condiciones técnicas",
+    "El proyecto de reparcelación del ámbito, con la cuenta de liquidación provisional",
+    "La declaración ambiental estratégica emitida por el órgano ambiental autonómico",
+    "Una propuesta de plazos indicativos y forma de gestión de la actividad de ejecución"
+   ],
+   "correct": 3,
+   "exp": "El art. 26.2 TRLUA fija el contenido mínimo de la consulta: una propuesta de ámbito, con anticipo de la gestión en una o varias unidades de ejecución; una propuesta de plazos indicativos y forma de gestión de la actividad de ejecución, con la acreditación de la cualificación técnica y económica de los consultantes, y un avance de la ordenación propuesta. La consulta es previa a cualquier instrumento, por lo que no exige proyectos de urbanización o de reparcelación ni la declaración ambiental estratégica.",
+   "fuente": "Art. 26.2.b) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+   "confianza": "alta",
+   "cita": "b) Propuesta de plazos indicativos y forma de gestión de la actividad de ejecución, así como acreditación de la cualificación técnica y económica de la persona o personas consultantes para garantizar la ejecución del planeamiento."
+  },
+  {
+   "q": "Si el municipio reclama informe al Consejo Provincial de Urbanismo antes de responder a la consulta sobre viabilidad del art. 26 del TRLUA, el plazo de tres meses para evacuar la consulta:",
+   "options": [
+    "Queda suspendido durante el plazo previsto para la emisión de ese informe",
+    "No se ve afectado, porque el informe se emite dentro de esos tres meses",
+    "Sigue corriendo, y su transcurso sin respuesta determina la inviabilidad de la propuesta",
+    "Vuelve a computarse íntegramente desde la recepción del informe"
+   ],
+   "correct": 0,
+   "exp": "El art. 26.4 TRLUA establece que el plazo de tres meses para evacuar la consulta «quedará suspendido durante el plazo previsto en el apartado 6 si el municipio reclama informe al Consejo Provincial de Urbanismo» (ese informe debe emitirse y notificarse en tres meses). No sigue corriendo ni se reinicia. Además, el silencio en la consulta tiene sentido positivo: se considera viable la delimitación y transformación.",
+   "fuente": "Art. 26.4 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+   "confianza": "alta",
+   "cita": "Este plazo quedará suspendido durante el plazo previsto en el apartado 6 si el municipio reclama informe al Consejo Provincial de Urbanismo."
+  },
+  {
+   "q": "La respuesta municipal a la consulta sobre viabilidad de la delimitación y transformación de suelo urbanizable no delimitado vincula a la Administración de la Comunidad Autónoma:",
+   "options": [
+    "En todo caso, desde la publicación del acuerdo municipal de respuesta en el «Boletín Oficial de Aragón»",
+    "Solo si el municipio obtuvo antes informe favorable del Consejo Provincial de Urbanismo",
+    "Nunca: la respuesta a la consulta solo vincula al municipio que la adopta",
+    "Solo cuando la consulta municipal se haya entendido resuelta por silencio"
+   ],
+   "correct": 1,
+   "exp": "Según el art. 26.6 TRLUA, la Administración autonómica solo queda vinculada si el municipio, antes de responder, recabó y obtuvo informe favorable del Consejo Provincial de Urbanismo. Ese informe produce efecto durante cuatro años, salvo revisión anterior del plan general. Al municipio lo vincula su respuesta a la consulta, que debe publicarse en el «Boletín Oficial de Aragón» y en un periódico local (art. 26.5); esa publicación no vincula a la Comunidad Autónoma. Por eso es falso que no la vincule nunca y también que la vincule el silencio en la consulta.",
+   "fuente": "Art. 26.6 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+   "confianza": "alta",
+   "cita": "La Administración de la Comunidad Autónoma sólo estará vinculada cuando, antes de la respuesta municipal a la consulta, el municipio hubiese recabado y obtenido informe favorable del Consejo Provincial de Urbanismo competente"
+  },
+  {
+   "q": "Según el art. 29.3 del TRLUA, los usos y obras de carácter provisional que no dificulten la ejecución del planeamiento, autorizados de forma excepcional y motivada, habrán de cesar y ser demolidos cuando lo acuerde el órgano municipal competente:",
+   "options": [
+    "Con indemnización del valor de las obras",
+    "Con indemnización solo si duran más de cinco años",
+    "Sin derecho a indemnización alguna",
+    "Con indemnización a cargo de la Comunidad Autónoma"
+   ],
+   "correct": 2,
+   "exp": "El art. 29.3 TRLUA permite autorizar en cualquier clase de suelo, de forma excepcional y motivada, usos y obras provisionales que no dificulten la ejecución del planeamiento, y que «habrán de cesar en todo caso y ser demolidas sin indemnización alguna cuando lo acordare el órgano municipal competente». Esas condiciones, aceptadas por el propietario, se hacen constar en el Registro de la Propiedad. La ley no reconoce indemnización por el valor de las obras ni por el tiempo transcurrido, ni la pone a cargo de nadie.",
+   "fuente": "Art. 29.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+   "confianza": "alta",
+   "cita": "En cualquier clase de suelo y, de forma excepcional y motivada, podrá otorgarse autorización administrativa para usos y obras de carácter provisional que no dificulten la ejecución del planeamiento, y que habrán de cesar en todo caso y ser demolidas sin indemnización alguna cuando lo acordare el órgano municipal competente."
+  },
+  {
+   "q": "Las construcciones e instalaciones en suelo no urbanizable genérico que deban someterse a evaluación de impacto ambiental o a autorización ambiental integrada:",
+   "options": [
+    "Requieren la autorización especial antes de la evaluación ambiental",
+    "Están prohibidas en todo caso en el suelo no urbanizable genérico",
+    "Se autorizan por el Pleno sin informe del Consejo Provincial de Urbanismo",
+    "No se someten al procedimiento de autorización especial"
+   ],
+   "correct": 3,
+   "exp": "El art. 35.2 TRLUA excluye estas construcciones del procedimiento de autorización especial. En su lugar, el órgano ambiental consulta al Consejo Provincial de Urbanismo, y su informe es vinculante en cuanto a las afecciones supralocales, la justificación del emplazamiento en el medio rural, la posibilidad de formación de núcleo de población, la rehabilitación y los parámetros urbanísticos. Si discrepan, el Consejero competente puede requerir que resuelva el Gobierno de Aragón.",
+   "fuente": "Art. 35.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+   "confianza": "alta",
+   "cita": "No se someterán al procedimiento de autorización especial en suelo no urbanizable regulado en este artículo las construcciones e instalaciones que deban someterse al procedimiento de Evaluación de Impacto Ambiental o de autorización ambiental integrada conforme a la normativa sectorial correspondiente."
+  },
+  {
+   "q": "En suelo no urbanizable, los usos que no estén expresamente permitidos ni prohibidos por el planeamiento se considerarán, según el art. 46.3 del TRLUA:",
+   "options": [
+    "Autorizables, con las condiciones de la Ley y de la legislación sectorial",
+    "Prohibidos, mientras el planeamiento no los permita expresamente",
+    "Permitidos directamente, sin necesidad de obtener título habilitante municipal alguno",
+    "Sujetos a la previa modificación del plan general que los regule"
+   ],
+   "correct": 0,
+   "exp": "El art. 46.3 TRLUA establece que, en suelo no urbanizable, los usos no expresamente permitidos ni prohibidos se consideran autorizables, con las condiciones de la Ley y de la legislación sectorial, en especial la ambiental. No se presumen prohibidos, no quedan libres de título habilitante y no exigen modificar el plan.",
+   "fuente": "Art. 46.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+   "confianza": "alta",
+   "cita": "Los usos que no estén expresamente permitidos ni prohibidos por el planeamiento se considerarán autorizables con las condiciones establecidas por esta Ley y por la legislación sectorial, en especial, la relativa a protección ambiental."
+  },
+  {
+   "q": "Si concurren varios proyectos de plan parcial de iniciativa no municipal, ¿cuál tiene preferencia en la tramitación según el art. 58.1 del TRLUA?",
+   "options": [
+    "El que proponga una mayor cesión de aprovechamiento al municipio",
+    "El suscrito por propietarios de más de la mitad de la superficie del sector",
+    "El que obtenga antes el informe favorable del Consejo Provincial de Urbanismo",
+    "El presentado por el titular de la mayor finca individual del sector"
+   ],
+   "correct": 1,
+   "exp": "El art. 58.1 TRLUA da preferencia al proyecto suscrito por propietarios que representen más de la mitad de la superficie de los terrenos del sector y, en su defecto, al primero formulado ante el municipio en expediente completo. La mayor cesión, el orden de los informes del Consejo Provincial de Urbanismo o el tamaño de la finca de un propietario no son criterios legales.",
+   "fuente": "Art. 58.1 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+   "confianza": "alta",
+   "cita": "Tendrá preferencia en la tramitación, en caso de concurrencia de varios proyectos, el que haya sido suscrito por propietarios que representen más de la mitad de la superficie de los terrenos del sector o, en su defecto, el que primero se hubiera formulado ante el municipio en expediente completo."
+  },
+  {
+   "q": "Cuando el Gobierno de Aragón, por grave incumplimiento municipal de competencias urbanísticas, suspende la eficacia de instrumentos de planeamiento y atribuye al Departamento competente la potestad de planeamiento municipal, ¿qué límites temporales fija el art. 83.2 del TRLUA?",
+   "options": [
+    "La suspensión no podrá superar dos años ni la atribución cuatro",
+    "Ambas medidas tienen una duración máxima de un año",
+    "La suspensión no podrá superar seis meses ni la atribución tres años",
+    "La suspensión no podrá ser superior a un año ni la atribución a cinco"
+   ],
+   "correct": 3,
+   "exp": "El art. 83.2 TRLUA permite al Gobierno de Aragón suspender el planeamiento y, excepcionalmente, atribuir al Departamento la potestad de planeamiento. Antes debe dar audiencia al municipio y obtener los informes del Consejo Provincial de Urbanismo y del Consejo de Ordenación del Territorio de Aragón, el dictamen del Consejo Consultivo y el acuerdo de las Cortes de Aragón. La suspensión no puede superar un año y la atribución, cinco, contados desde la adopción del acuerdo.",
+   "fuente": "Art. 83.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+   "confianza": "alta",
+   "cita": "La suspensión no podrá ser superior a un año ni la atribución a cinco, contados desde la adopción del acuerdo correspondiente."
+  },
+  {
+   "q": "Según el art. 123.4 del TRLUA, las entidades urbanísticas de conservación:",
+   "options": [
+    "Tienen naturaleza privada, están sujetas a la tutela del municipio y pueden pedirle la vía de apremio",
+    "Tienen naturaleza administrativa, están sujetas a la tutela del Consejo Provincial de Urbanismo y no tienen vía de apremio",
+    "Tienen naturaleza administrativa, están sujetas a la tutela del municipio y pueden pedirle la vía de apremio",
+    "Tienen naturaleza administrativa, están sujetas a la tutela del municipio y solo reclaman las cuotas ante la jurisdicción civil"
+   ],
+   "correct": 2,
+   "exp": "El art. 123.4 TRLUA dispone que las entidades urbanísticas de conservación «tienen naturaleza administrativa, están sujetas a la tutela del municipio y pueden solicitar de éste la aplicación de la vía de apremio para la exigencia de las cuotas de conservación». Por eso es falso calificarlas de privadas, someterlas a la tutela del Consejo Provincial de Urbanismo, negarles la vía de apremio o remitir el cobro de las cuotas a la jurisdicción civil.",
+   "fuente": "Art. 123.4 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+   "confianza": "alta",
+   "cita": "Las entidades urbanísticas de conservación tienen naturaleza administrativa, están sujetas a la tutela del municipio y pueden solicitar de éste la aplicación de la vía de apremio para la exigencia de las cuotas de conservación."
+  },
+  {
+   "q": "Según el art. 128.3 del TRLUA, en suelo urbanizable el plan general puede incrementar excepcionalmente, de forma específicamente motivada y con estudio económico-financiero, el porcentaje de aprovechamiento correspondiente al municipio hasta un máximo del:",
+   "options": [
+    "Veinte por ciento del aprovechamiento medio de referencia",
+    "Quince por ciento del aprovechamiento medio de referencia",
+    "Veinticinco por ciento del aprovechamiento medio de referencia",
+    "Treinta por ciento del aprovechamiento medio de referencia"
+   ],
+   "correct": 0,
+   "exp": "El art. 128.3 TRLUA permite al plan general incrementar excepcionalmente el porcentaje de aprovechamiento del municipio «hasta alcanzar un máximo del veinte por ciento del aprovechamiento medio de referencia», solo en sectores donde el valor de las parcelas resultantes sea sensiblemente superior al medio en el resto del suelo urbanizable. El mismo precepto prohíbe reducir ese porcentaje en ningún caso; la reducción solo está prevista para el suelo urbano no consolidado (art. 127.5.b).",
+   "fuente": "Art. 128.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+   "confianza": "alta",
+   "cita": "podrá incrementar excepcionalmente y de forma específicamente motivada, incluyendo un estudio económico-financiero, el porcentaje de aprovechamiento correspondiente al municipio hasta alcanzar un máximo del veinte por ciento del aprovechamiento medio de referencia"
+  },
+  {
+   "q": "Según el art. 137.2 del TRLUA, los proyectos de urbanización:",
+   "options": [
+    "Pueden modificar las previsiones del planeamiento que desarrollan si lo aprueba el Pleno municipal",
+    "Pueden establecer la ordenación pormenorizada del sector en defecto de plan parcial",
+    "Solo pueden comprender las obras de una única unidad de ejecución completa",
+    "No pueden contener determinaciones sobre ordenación ni régimen del suelo y de la edificación"
+   ],
+   "correct": 3,
+   "exp": "El art. 137.2 TRLUA prohíbe que los proyectos de urbanización contengan determinaciones sobre ordenación o régimen del suelo y de la edificación o modifiquen el planeamiento. Solo permite las adaptaciones que exija la ejecución material de las obras. Pueden abarcar una o varias unidades de ejecución, o la ejecución directa de sistemas generales.",
+   "fuente": "Art. 137.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+   "confianza": "alta",
+   "cita": "en ningún caso podrán contener determinaciones sobre ordenación ni régimen del suelo y de la edificación."
+  },
+  {
+   "q": "En los planes de desarrollo que regularizan parcelaciones ilegales, en cuanto al mantenimiento de la urbanización, el art. 251.m) del TRLUA permite al municipio:",
+   "options": [
+    "Exigir una entidad de conservación de todos los propietarios durante un máximo de cinco años",
+    "Exigir por tiempo indefinido una entidad de conservación que integre a todos los propietarios",
+    "Exigir una entidad de conservación integrada solo por los propietarios de parcelas edificadas",
+    "Encomendar la conservación de la urbanización al Consejo Provincial de Urbanismo"
+   ],
+   "correct": 1,
+   "exp": "El art. 251.m) TRLUA exige un documento de garantías y compromisos para la ejecución y conservación de la urbanización. Permite al municipio exigir, aunque reciba cesiones de suelo de sistemas, una entidad de conservación por tiempo indefinido que integre a todos los propietarios de terrenos. No hay un plazo máximo de cinco años, no se limita a los propietarios de parcelas edificadas ni interviene el Consejo Provincial de Urbanismo.",
+   "fuente": "Art. 251.m) TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+   "confianza": "alta",
+   "cita": "Aun cuando el municipio reciba cesiones de suelo de sistemas por efecto de la ejecución del plan, podrá exigir la constitución por tiempo indefinido de una entidad de conservación en la que se integren todos los propietarios de terrenos para el mantenimiento de la urbanización."
+  },
+  {
+   "q": "En los ámbitos de regularización de parcelaciones ilegales, el art. 253.3 del TRLUA establece que los únicos usos lucrativos admisibles son:",
+   "options": [
+    "Vivienda unifamiliar, agrícolas de explotación familiar y ganaderos compatibles con la residencia",
+    "Vivienda unifamiliar y plurifamiliar, usos terciarios de proximidad y talleres artesanales familiares",
+    "Vivienda unifamiliar, industriales de pequeña entidad y terciarios de proximidad",
+    "Solo los agrícolas de explotación familiar y los ganaderos, sin ningún uso residencial"
+   ],
+   "correct": 0,
+   "exp": "El art. 253.3 TRLUA limita los usos lucrativos a tres: la vivienda unifamiliar, los agrícolas vinculados a la explotación familiar (con posibilidad de invernaderos y viveros) y los ganaderos compatibles con la dedicación residencial. Solo se admite la vivienda unifamiliar aislada o pareada, nunca la plurifamiliar. Quedan fuera los usos terciarios, artesanales e industriales, y el uso residencial no está excluido.",
+   "fuente": "Art. 253.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+   "confianza": "alta",
+   "cita": "Los únicos usos lucrativos admisibles en los ámbitos a que se refiere esta disposición son los de la vivienda unifamiliar, los agrícolas vinculados a la explotación familiar, con posibilidad de construcción de invernaderos y viveros, y los ganaderos compatibles con la dedicación residencial."
+  },
+  {
+   "q": "La suspensión de los suministros de energía, agua, gas y telefonía ordenada junto con una orden de paralización de obras solo podrá levantarse, según el art. 274.3 del TRLUA:",
+   "options": [
+    "Por caducidad, transcurridos seis meses desde la orden",
+    "Cuando el interesado abone la multa impuesta",
+    "Una vez legalizadas las obras, usos o edificaciones",
+    "A solicitud de la empresa suministradora, con certificado técnico"
+   ],
+   "correct": 2,
+   "exp": "El art. 274.3 TRLUA solo permite levantar la suspensión de suministros «una vez que se haya procedido a la legalización de las obras, usos o edificaciones respectivas», mediante notificación expresa de la Administración a las empresas suministradoras. Los costes de suspender y reanudar el suministro corren solidariamente a cargo de la empresa suministradora y del solicitante del suministro (art. 274.2).",
+   "fuente": "Art. 274.3 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+   "confianza": "alta",
+   "cita": "La suspensión de los suministros sólo podrá levantarse una vez que se haya procedido a la legalización de las obras, usos o edificaciones respectivas, mediante notificación expresa en tal sentido de la Administración a las empresas suministradoras."
+  },
+  {
+   "q": "En las infracciones en materia de parcelaciones, el art. 280.2 del TRLUA declara responsables a:",
+   "options": [
+    "Únicamente los adquirentes de los lotes resultantes de la división",
+    "El notario y el registrador que autorizaron e inscribieron la división de los terrenos",
+    "Exclusivamente las empresas suministradoras que dieron servicio a los lotes",
+    "Los propietarios iniciales de los terrenos divididos y el promotor de la actividad"
+   ],
+   "correct": 3,
+   "exp": "El art. 280.2 TRLUA hace responsables de las infracciones en materia de parcelaciones a los propietarios iniciales de los terrenos posteriormente divididos y al promotor de la actividad, «considerando por tal al agente o intermediario que intervenga en la operación». Las empresas suministradoras responden por no exigir la licencia o no suspender los suministros (art. 280.3), no por la parcelación en sí, y el precepto no menciona a los adquirentes, al notario ni al registrador.",
+   "fuente": "Art. 280.2 TRLUA (Decreto-Legislativo 1/2014, Aragón)",
+   "confianza": "alta",
+   "cita": "En las infracciones en materia de parcelaciones serán responsables los propietarios iniciales de los terrenos posteriormente divididos y también el promotor de la actividad, considerando por tal al agente o intermediario que intervenga en la operación."
+  }
+ ]
+}

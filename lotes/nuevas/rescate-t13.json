@@ -1,0 +1,35 @@
+{
+ "slug": "aux-admin-zaragoza",
+ "tema": 13,
+ "lote": "rescate-t13",
+ "preguntas": [
+  {
+   "q": "Según la regla 37.2 de la Instrucción del modelo normal de contabilidad local (Orden HAP/1781/2013), cuando las operaciones se incorporan al sistema mediante soportes electrónicos, informáticos o telemáticos, la autorización mediante diligencias, firmas manuscritas o sellos:",
+   "options": [
+    "Podrá sustituirse por autorizaciones y controles de las propias aplicaciones informáticas",
+    "Sigue siendo obligatoria en todo caso, aunque los documentos lleven firma electrónica",
+    "Solo puede sustituirse si lo autoriza expresamente la Intervención General del Estado",
+    "Se sustituye siempre por la diligencia de toma de razón del responsable de la contabilidad"
+   ],
+   "correct": 0,
+   "exp": "La regla 37.2 dispone que, en ese caso, los procedimientos de autorización y control mediante diligencias, firmas manuscritas, sellos u otros medios manuales «podrán ser sustituidos por autorizaciones y controles establecidos en las propias aplicaciones informáticas que garanticen la identificación y el ejercicio de la competencia por quien la tenga atribuida». Es una posibilidad, no una obligación, y no depende de una autorización de la Intervención General. En la captura directa de datos, en cambio, los documentos deben estar autorizados mediante diligencias, firmas manuscritas, sellos u otros medios manuales por quien tenga facultades para ello (regla 37.1). La toma de razón (regla 38) es un trámite distinto de la autorización.",
+   "fuente": "Regla 37.2 ICAL normal (Orden HAP/1781/2013)",
+   "confianza": "alta",
+   "cita": "podrán ser sustituidos por autorizaciones y controles establecidos en las propias aplicaciones informáticas que garanticen la identificación y el ejercicio de la competencia por quien la tenga atribuida"
+  },
+  {
+   "q": "Según el art. 97 del RD 500/1990, el resultado presupuestario deberá ajustarse, en su caso, en función de:",
+   "options": [
+    "Los derechos de difícil o imposible recaudación y los fondos líquidos a 31 de diciembre del ejercicio",
+    "Las obligaciones financiadas con remanentes de Tesorería y las diferencias de financiación afectada",
+    "Los créditos declarados no disponibles y las modificaciones de crédito que no pueden prorrogarse",
+    "Los pagos ordenados pendientes de realizar y las relaciones contables de órdenes de pago"
+   ],
+   "correct": 1,
+   "exp": "El art. 97 del RD 500/1990 dispone: «El resultado presupuestario deberá, en su caso, ajustarse en función de las obligaciones financiadas con remanentes de Tesorería y de las diferencias de financiación derivadas de gastos con financiación afectada». Los derechos de difícil o imposible recaudación y los fondos líquidos intervienen en el cálculo del remanente de tesorería (arts. 101 y 103), no en el del resultado presupuestario; los créditos no disponibles y los pagos ordenados pendientes tampoco son ajustes de ese resultado.",
+   "fuente": "Art. 97 RD 500/1990 (presupuestos de las entidades locales)",
+   "confianza": "alta",
+   "cita": "El resultado presupuestario deberá, en su caso, ajustarse en función de las obligaciones financiadas con remanentes de Tesorería y de las diferencias de financiación derivadas de gastos con financiación afectada."
+  }
+ ]
+}

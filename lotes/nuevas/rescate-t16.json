@@ -1,0 +1,35 @@
+{
+ "slug": "aux-admin-zaragoza",
+ "tema": 16,
+ "lote": "rescate-t16",
+ "preguntas": [
+  {
+   "q": "Según el art. 140.1.b) de la Ley 7/1999, de Administración Local de Aragón, la información pública de una ordenanza aprobada inicialmente se abre previo anuncio del acuerdo de aprobación inicial en:",
+   "options": [
+    "El «Boletín Oficial del Estado» y un diario de los de mayor difusión de la provincia",
+    "La sección correspondiente del «Boletín Oficial de Aragón» y el tablón de anuncios",
+    "Un diario de los de mayor difusión de la provincia y la sede electrónica",
+    "Únicamente el tablón de anuncios y la sede electrónica de la entidad"
+   ],
+   "correct": 1,
+   "exp": "El art. 140.1.b) regula la «Información pública, previo anuncio en la sección correspondiente del «Boletín Oficial de Aragón» y en el tablón de anuncios de la entidad del acuerdo de aprobación inicial, por el plazo mínimo de treinta días». Desde 2000, los boletines oficiales de las provincias de Huesca, Teruel y Zaragoza son secciones del «Boletín Oficial de Aragón», y las referencias legales a ellos se entienden hechas a esas secciones (disposición adicional cuarta de la Ley 7/1999). No se exige anuncio en el BOE ni en un diario, y no basta con el tablón y la sede electrónica. En Zaragoza, el art. 48.3.b) de la Ley 10/2017 abre la información pública, tras la aprobación del proyecto por el Gobierno de Zaragoza, mediante anuncio «en el boletín oficial correspondiente y en el tablón de anuncios municipal», por un plazo mínimo de treinta días naturales.",
+   "fuente": "Art. 140.1.b) Ley 7/1999 (Administración Local de Aragón)",
+   "confianza": "alta",
+   "cita": "Información pública, previo anuncio en la sección correspondiente del «Boletín Oficial de Aragón» y en el tablón de anuncios de la entidad del acuerdo de aprobación inicial, por el plazo mínimo de treinta días"
+  },
+  {
+   "q": "Según el art. 141.1 de la Ley 7/1999, de Administración Local de Aragón, los reglamentos y las ordenanzas no producirán efectos jurídicos en tanto no hayan transcurrido:",
+   "options": [
+    "Diez días hábiles contados desde el siguiente al de la publicación de su texto íntegro en el «Boletín Oficial» de la provincia",
+    "Veinte días contados desde el siguiente al de su publicación en el «Boletín Oficial de Aragón»",
+    "Quince días contados desde el siguiente al de la publicación de su texto íntegro en el «Boletín Oficial» de la provincia",
+    "Un mes contado desde el siguiente al de su aprobación definitiva por el Pleno de la entidad"
+   ],
+   "correct": 2,
+   "exp": "El art. 141.1 dispone que los reglamentos y las ordenanzas, incluidos los contenidos normativos de los planes urbanísticos, «no producirán efectos jurídicos en tanto no hayan transcurrido quince días contados desde el siguiente al de la publicación de su texto íntegro en el «Boletín Oficial» de la provincia», que hoy es una sección del «Boletín Oficial de Aragón» (disposición adicional cuarta). La ley aragonesa no prevé diez ni veinte días ni cuenta el plazo desde la aprobación. Esta regla convive con la básica del art. 70.2 LBRL, que rige también en Zaragoza: las ordenanzas no entran en vigor hasta que se publica completamente su texto y transcurre el plazo del art. 65.2 (quince días hábiles desde la recepción de la comunicación del acuerdo).",
+   "fuente": "Art. 141.1 Ley 7/1999 (Administración Local de Aragón)",
+   "confianza": "alta",
+   "cita": "no producirán efectos jurídicos en tanto no hayan transcurrido quince días contados desde el siguiente al de la publicación de su texto íntegro en el «Boletín Oficial» de la provincia"
+  }
+ ]
+}

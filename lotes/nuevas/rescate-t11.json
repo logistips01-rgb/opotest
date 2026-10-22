@@ -1,0 +1,91 @@
+{
+ "slug": "aux-admin-zaragoza",
+ "tema": 11,
+ "lote": "rescate-t11",
+ "preguntas": [
+  {
+   "q": "Según el art. 202.1 de la Ley 7/1999, de Administración Local de Aragón, en un servicio público gestionado de forma indirecta, si la entidad local incumple sus obligaciones, el contratista:",
+   "options": [
+    "Podrá suspender la prestación desde el momento en que denuncie el incumplimiento",
+    "Podrá interrumpir la prestación si el incumplimiento dura más de tres meses",
+    "Podrá interrumpir la prestación, pero perderá el derecho a ser indemnizado",
+    "No podrá interrumpirla, sin perjuicio de su derecho a ser resarcido de los daños"
+   ],
+   "correct": 3,
+   "exp": "El art. 202.1 de la Ley 7/1999 garantiza la continuidad del servicio: en la gestión indirecta, el contratista «no podrá interrumpirla a causa del incumplimiento en que haya podido incurrir la entidad local, sin menoscabo de su derecho al resarcimiento de los daños y perjuicios ocasionados». La ley aragonesa no prevé la suspensión desde la denuncia ni un plazo de tres meses que habilite a interrumpir, y el derecho a la indemnización se mantiene. Matiz de la legislación básica: en los contratos administrativos, si la demora de la Administración en el pago supera cuatro meses, el contratista puede suspender el cumplimiento del contrato avisando con un mes de antelación (art. 198.5 de la Ley 9/2017, de Contratos del Sector Público); en ese caso concreto la regla autonómica cede.",
+   "fuente": "Art. 202.1 Ley de Administración Local de Aragón (Ley 7/1999)",
+   "confianza": "alta",
+   "cita": "En los supuestos de gestión indirecta, el contratista no podrá interrumpirla a causa del incumplimiento en que haya podido incurrir la entidad local, sin menoscabo de su derecho al resarcimiento de los daños y perjuicios ocasionados."
+  },
+  {
+   "q": "Según el art. 205.2 de la Ley 7/1999, de Administración Local de Aragón, en el expediente para la prestación de servicios o el ejercicio de actividades económicas por una entidad local, la exposición pública a efectos de reclamaciones y alegaciones durará:",
+   "options": [
+    "No menos de un mes",
+    "No menos de diez días",
+    "No menos de quince días hábiles",
+    "No menos de tres meses"
+   ],
+   "correct": 0,
+   "exp": "El art. 205.2 de la Ley 7/1999 fija tres trámites: el acuerdo inicial del Pleno, previa memoria de una comisión nombrada al efecto; la «exposición pública, por plazo no inferior a un mes, a efectos de reclamaciones y alegaciones», y la aprobación del proyecto por el Pleno. En Zaragoza rige un procedimiento propio, y la Ley 7/1999 solo se aplica supletoriamente (disposición adicional primera.3 de la Ley 10/2017). Según el art. 51.1 de la Ley 10/2017, el ejercicio de actividades económicas y la determinación de las formas de gestión de los servicios exigen memoria de una comisión especial designada por el Alcalde, informe del Interventor, aprobación del proyecto por el Gobierno de Zaragoza, información pública «por un plazo mínimo de treinta días naturales» y aprobación por el Pleno en acto único.",
+   "fuente": "Art. 205.2.b) Ley de Administración Local de Aragón (Ley 7/1999)",
+   "confianza": "alta",
+   "cita": "b) Exposición pública, por plazo no inferior a un mes, a efectos de reclamaciones y alegaciones."
+  },
+  {
+   "q": "Según el art. 205.4 de la Ley 7/1999, de Administración Local de Aragón, cuando el Pleno acuerda prestar en régimen de monopolio un servicio reservado y el Gobierno de Aragón no resuelve expresamente, el acuerdo:",
+   "options": [
+    "Se entiende denegado a los tres meses de la recepción del expediente completo",
+    "Se entiende aprobado a los seis meses del acuerdo del Pleno",
+    "Se entiende aprobado a los tres meses de la recepción del expediente completo",
+    "Se entiende denegado al mes de la remisión del expediente"
+   ],
+   "correct": 2,
+   "exp": "El art. 205.4 de la Ley 7/1999 exige la aprobación del Gobierno de Aragón, que debe resolver «en el plazo de tres meses desde la recepción del expediente completo, entendiéndose aprobada si no hay resolución expresa en dicho plazo». El silencio es, por tanto, positivo, y el plazo se cuenta desde la recepción del expediente completo. El mismo precepto exige para el acuerdo plenario la mayoría absoluta del número legal de miembros, como el art. 47.2.k) LBRL, pero esa es la regla del régimen común: en los municipios de gran población las mayorías son las del art. 123.2 LBRL (art. 47.3), que no incluye este acuerdo, y en Zaragoza el art. 11.2 de la Ley 10/2017 fija como regla general la mayoría simple.",
+   "fuente": "Art. 205.4 Ley de Administración Local de Aragón (Ley 7/1999)",
+   "confianza": "alta",
+   "cita": "La resolución del Gobierno de Aragón deberá adoptarse en el plazo de tres meses desde la recepción del expediente completo, entendiéndose aprobada si no hay resolución expresa en dicho plazo."
+  },
+  {
+   "q": "Según el art. 206.3 de la Ley 7/1999, de Administración Local de Aragón, ¿cuál de las siguientes es una forma de gestión indirecta de los servicios públicos locales?",
+   "options": [
+    "El concierto",
+    "El organismo autónomo local",
+    "La gestión por la propia entidad mediante órgano especial de administración",
+    "La sociedad mercantil cuyo capital pertenezca íntegramente a la entidad local"
+   ],
+   "correct": 0,
+   "exp": "El art. 206.3 de la Ley 7/1999 enumera las formas de gestión indirecta: concesión, gestión interesada, arrendamiento, concierto y sociedad mercantil o cooperativa con participación local minoritaria. El organismo autónomo, la gestión por la propia entidad (con sus órganos ordinarios o con órgano especial) y la sociedad de capital íntegramente local son formas de gestión directa (art. 206.2). Es la enumeración de la ley aragonesa, que el tribunal ha preguntado de forma literal. Con la legislación de contratos vigente, sin embargo, el concierto ya no existe como modalidad contractual: las referencias al antiguo contrato de gestión de servicios públicos se entienden hechas al contrato de concesión de servicios (disposición adicional trigésima cuarta de la Ley 9/2017, de Contratos del Sector Público), y a esa legislación remite el art. 85.2.B) LBRL para la gestión indirecta.",
+   "fuente": "Art. 206.3.d) Ley de Administración Local de Aragón (Ley 7/1999)",
+   "confianza": "alta",
+   "cita": "La gestión indirecta adoptará alguna de las siguientes formas: a) Concesión. b) Gestión interesada. c) Arrendamiento. d) Concierto."
+  },
+  {
+   "q": "Según el art. 212.1 de la Ley 7/1999, de Administración Local de Aragón, ¿qué caracteriza a la gestión interesada de un servicio público local?",
+   "options": [
+    "La entidad local paga un precio alzado predeterminado e inalterable por la totalidad del servicio o por unidades o actos",
+    "La entidad local arrienda instalaciones de su pertenencia para que el arrendatario preste con ellas el servicio",
+    "La entidad local participa de forma minoritaria en el capital de una sociedad que presta el servicio",
+    "La entidad local y el empresario participan en los resultados de la explotación en la proporción que establezca el contrato"
+   ],
+   "correct": 3,
+   "exp": "En la gestión interesada (art. 212.1 de la Ley 7/1999) el servicio lo presta una empresa gestora, y la entidad local y el empresario participan en los resultados de la explotación en la proporción del contrato. El precio alzado e inalterable es propio del concierto (art. 213); el uso de instalaciones locales, del arrendamiento (art. 214), y la participación minoritaria en el capital, de la sociedad de gestión indirecta (art. 215). Es la definición de la ley aragonesa (y del art. 231.3 del Decreto 347/2002). La Ley 9/2017, de Contratos del Sector Público, ya no regula la gestión interesada como modalidad contractual: las referencias al antiguo contrato de gestión de servicios públicos se entienden hechas al contrato de concesión de servicios (disposición adicional trigésima cuarta), y a esa legislación remite el art. 85.2.B) LBRL para la gestión indirecta.",
+   "fuente": "Art. 212.1 Ley de Administración Local de Aragón (Ley 7/1999)",
+   "confianza": "alta",
+   "cita": "En la gestión interesada, el servicio se prestará a través de una empresa gestora, participando la entidad local y el empresario en los resultados de la explotación del servicio en la proporción que se establezca en el contrato."
+  },
+  {
+   "q": "Según el art. 11.2 del texto refundido de la Ley de Subvenciones de Aragón (Decreto Legislativo 2/2023), las bases reguladoras de las subvenciones de las entidades locales se aprueban:",
+   "options": [
+    "Por orden del titular del departamento competente del Gobierno de Aragón",
+    "Mediante una ordenanza general de subvenciones o una ordenanza específica",
+    "Exclusivamente mediante decreto de la Alcaldía-Presidencia",
+    "Mediante convenio con la Diputación Provincial correspondiente"
+   ],
+   "correct": 1,
+   "exp": "El art. 11.2 del texto refundido dispone que las bases reguladoras de las subvenciones de las entidades locales «se deberán aprobar en el marco de las bases de ejecución del presupuesto, a través de una ordenanza general de subvenciones o mediante una ordenanza específica para las distintas modalidades de subvenciones», igual que el art. 17.2 de la Ley 38/2003, General de Subvenciones, que es básico. La orden del consejero es el cauce de las subvenciones de los departamentos autonómicos, no de las locales. En Zaragoza, la aprobación de las ordenanzas corresponde al Pleno (art. 11.1.d de la Ley 10/2017), y la de las bases reguladoras de las subvenciones en régimen de concurrencia competitiva, al Gobierno de Zaragoza (art. 14.1.o).",
+   "fuente": "Art. 11.2 TR de la Ley de Subvenciones de Aragón (Decreto Legislativo 2/2023)",
+   "confianza": "alta",
+   "cita": "Las bases reguladoras de las subvenciones de las entidades locales se deberán aprobar en el marco de las bases de ejecución del presupuesto, a través de una ordenanza general de subvenciones o mediante una ordenanza específica para las distintas modalidades de subvenciones."
+  }
+ ]
+}
