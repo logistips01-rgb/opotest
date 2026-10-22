@@ -60,7 +60,7 @@ registerEsquema('aux-admin-zaragoza', 12, {
           'Beneficios fiscales: solo los de <b>normas con rango de ley</b> o tratados. La ordenanza puede bonificar <b>hasta el 5 %</b> de la cuota por domiciliar, anticipar pagos o colaborar en la recaudación.'
         ]},
         {titulo: 'Recurso de reposición · art. 14.2', reglas: [
-          '<b>Único recurso</b> contra los actos de aplicación de tributos e ingresos de derecho público locales. Lo resuelve el órgano que dictó el acto.',
+          '<b>Único recurso</b> contra los actos de aplicación de tributos e ingresos de derecho público locales; si la ley prevé reclamación económico-administrativa, va antes. Lo resuelve el órgano que dictó el acto.',
           'Plazo: <b>un mes</b> desde la notificación o desde el fin de la exposición de padrones o matrículas. Sin abogado ni procurador obligatorios.',
           '<b>No suspende</b> la ejecución. Puede suspenderse; decide el órgano que dictó el acto {{examen:2026}}. Las sanciones tributarias se suspenden automáticamente.',
           'Se resuelve en <b>un mes</b>; si no, se entiende <b>desestimado</b>. Después, contencioso-administrativo directamente.'
@@ -142,7 +142,7 @@ registerEsquema('aux-admin-zaragoza', 12, {
         {titulo: 'IBI e IAE', reglas: [
           'IBI: el primer derecho del orden excluye los siguientes. Si hay usufructo, tributa el <b>usufructuario</b> {{examen:2026}}.',
           'IBI: base imponible = <b>valor catastral</b> {{examen:2026}}. Se devenga el primer día del período impositivo, que es el <b>año natural</b>.',
-          'IBI: exención de recibos de cuota líquida pequeña: <b>potestativa</b>; la cuantía la fija la ordenanza {{examen:2026}}.',
+          'IBI: exención de inmuebles con cuota líquida pequeña: <b>potestativa</b>; la cuantía la fija la ordenanza {{examen:2026}}.',
           'IBI: viviendas de protección oficial, bonificación del <b>50 %</b> durante 3 períodos tras la calificación definitiva, a petición.',
           'IAE: exentos las <b>personas físicas</b>, las entidades con cifra de negocios <b>inferior a 1.000.000 €</b> y quien inicia actividad, en los <b>dos primeros</b> períodos.',
           'IAE: matrícula y gestión censal, Administración del Estado. Liquidación y recaudación, ayuntamientos.'
@@ -164,7 +164,7 @@ registerEsquema('aux-admin-zaragoza', 12, {
         {t: 'Corto plazo, para necesidades transitorias de tesorería: <b>no más de un año</b> y, en conjunto, <b>no más del 30 %</b> de los ingresos corrientes liquidados del ejercicio anterior.', a: '51'},
         {t: 'Hace falta <b>presupuesto aprobado</b>. Con presupuesto prorrogado solo caben operaciones de tesorería y ciertas operaciones a largo plazo para inversiones.', a: '50'},
         {t: 'Con informe previo de la Intervención, concierta el <b>Presidente</b>: largo plazo previsto en el presupuesto hasta el <b>10 %</b> de los recursos ordinarios; corto plazo hasta el <b>15 %</b> de los recursos corrientes liquidados. Por encima, el <b>Pleno</b>.', a: '52.2'},
-        {t: 'Necesitan autorización del Ministerio de Hacienda o de la CA competente: ahorro neto negativo, o capital vivo por encima del <b>110 %</b> de los ingresos corrientes liquidados.', a: '53.1-2'}
+        {t: 'Necesitan autorización del Ministerio de Hacienda o de la CA competente: ahorro neto negativo, o capital vivo por encima del <b>110 %</b> de los ingresos corrientes liquidados o devengados.', a: '53.1-2'}
       ]}
     ]},
 
