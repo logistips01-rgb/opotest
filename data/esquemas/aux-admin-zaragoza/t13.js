@@ -1,6 +1,6 @@
 /* Esquema · Auxiliar Administrativo · Tema 13
    Fuentes: TRLRHL (RDLeg 2/2004), consolidado BOE-A-2004-4214, Título VI (arts. 162-193 bis y 208-212);
-   RD 500/1990, BOE-A-1990-9664 (sin modificaciones); Ley 10/2017 de capitalidad, consolidado
+   RD 500/1990, BOE-A-1990-9664 (sin modificaciones; una corrección de errores de 1990); Ley 10/2017 de capitalidad, consolidado
    BOE-A-2018-1683, arts. 11.1.h, 14.1.b y 48-50.
    Formato: ver data/esquemas/FORMATO.md */
 registerEsquema('aux-admin-zaragoza', 13, {
@@ -9,7 +9,7 @@ registerEsquema('aux-admin-zaragoza', 13, {
   etiquetas: ['TRLRHL · arts. 162 a 193 bis', 'RD 500/1990 · arts. 2 a 105', 'Ley 10/2017 · arts. 48 a 50'],
   fuentes: [
     'Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales. Texto consolidado BOE-A-2004-4214 (última actualización publicada el 07/10/2026), Título VI, arts. 162 a 193 bis y 208 a 212.',
-    'Real Decreto 500/1990, de 20 de abril, por el que se desarrolla el capítulo primero del título sexto de la Ley 39/1988, Reguladora de las Haciendas Locales, en materia de presupuestos. BOE-A-1990-9664 (sin modificaciones desde su publicación).',
+    'Real Decreto 500/1990, de 20 de abril, por el que se desarrolla el capítulo primero del título sexto de la Ley 39/1988, Reguladora de las Haciendas Locales, en materia de presupuestos. BOE-A-1990-9664 (sin modificaciones desde su publicación; solo una corrección de errores, BOE núm. 136, de 7 de junio de 1990).',
     'Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón. BOA núm. 231, de 01/12/2017; texto consolidado BOE-A-2018-1683, arts. 11.1.h, 14.1.b y 48 a 50.'
   ],
 
@@ -44,7 +44,7 @@ registerEsquema('aux-admin-zaragoza', 13, {
       ['34-51', 'Modificaciones'], ['52-78', 'Ejecución del gasto'], ['79-88', 'Gastos plurianuales'],
       ['89-105', 'Liquidación'], ['106-118', 'Normas específicas']
     ]},
-    {titulo: 'Ley 10/2017 · Cap. V Especialidades procedimentales', rango: 'arts. 48-50', items: [
+    {titulo: 'Ley 10/2017 · Cap. V Especialidades en materia procedimental (extracto; el cap. llega al art. 51)', rango: 'arts. 48-50', items: [
       ['48', 'Ordenanzas y Reglamentos'], ['49', 'Ordenanzas fiscales'], ['50', 'Presupuesto municipal']
     ]}
   ],
@@ -52,7 +52,7 @@ registerEsquema('aux-admin-zaragoza', 13, {
   cifras: [
     {v: '15 de septiembre', d: 'Organismos autónomos y sociedades remiten a la entidad sus presupuestos y previsiones', a: 'art. 168.2-3'},
     {v: '15 de octubre', d: 'El presupuesto general llega al Pleno (igual en Zaragoza, art. 50.c Ley 10/2017)', a: 'art. 168.4'},
-    {v: '15 días', d: 'Exposición al público tras la aprobación inicial (hábiles, según el RD 500/1990) {{examen:2025}}', a: 'art. 169.1; RD 20.1'},
+    {v: '15 días', d: 'Exposición al público tras la aprobación inicial (hábiles, según el RD 500/1990)', a: 'art. 169.1; RD 20.1'},
     {v: '1 mes', d: 'Para que el Pleno resuelva las reclamaciones', a: 'art. 169.1'},
     {v: '31 de diciembre', d: 'Límite para la aprobación definitiva (del año anterior al ejercicio)', a: 'art. 169.2'},
     {v: '4 años', d: 'Plazo de los planes y programas de inversión y financiación anexos {{examen:2025}}', a: 'art. 166.1.a'},
@@ -126,7 +126,7 @@ registerEsquema('aux-admin-zaragoza', 13, {
     {titulo: 'Créditos y modificaciones', a: 'arts. 172-182; RD 500/1990, arts. 24-51', bloques: [
       {tipo: 'lista', items: [
         {t: 'Los créditos son <b>limitativos y vinculantes</b> y solo sirven para su finalidad. Comprometer por encima del crédito es <b>nulo de pleno derecho</b>.', a: '172 y 173.5'},
-        {t: 'No cabe <b>embargo</b> ni mandamiento de ejecución contra los bienes y fondos de la hacienda local, salvo bienes patrimoniales no afectados a un uso o servicio público.', a: '173.2', examen: '2026'},
+        {t: 'No cabe <b>embargo</b> ni mandamiento de ejecución contra los bienes y fondos de la hacienda local, salvo bienes patrimoniales no afectados a un uso o servicio público.', a: '173.2'},
         {t: 'Situación de los créditos: disponibles, retenidos pendientes de utilización y no disponibles. La no disponibilidad la declara el <b>Pleno</b>.', a: 'RD 30 y 33.3'},
         {t: 'Créditos no afectados a obligaciones reconocidas el último día del ejercicio: quedan <b>anulados</b>, salvo incorporación.', a: '175'}
       ]},
@@ -193,15 +193,15 @@ registerEsquema('aux-admin-zaragoza', 13, {
       ]}
     ]},
 
-    {titulo: 'Zaragoza: aprobación del presupuesto', a: 'Ley 10/2017, arts. 11.1.h, 14.1.b, 48 y 50', bloques: [
+    {titulo: 'Zaragoza: aprobación del presupuesto', a: 'Ley 10/2017, arts. 11.1.h, 14.1.b y 48 a 50', bloques: [
       {tipo: 'tabla', cab: ['', 'Régimen general (TRLRHL)', 'Zaragoza (Ley 10/2017)'], filas: [
         ['Iniciativa', 'El <b>Presidente</b> forma el presupuesto (168.1 y 4)', 'El <b>Gobierno de Zaragoza</b> aprueba el proyecto (50.a y 14.1.b)'],
         ['Llegada al Pleno', 'Antes del <b>15 de octubre</b> (168.4)', 'Antes del <b>15 de octubre</b> (50.c): igual'],
         ['Exposición pública', 'Del presupuesto <b>aprobado inicialmente</b>: 15 días, anuncio en el boletín de la provincia (169.1)', 'Del <b>proyecto</b>: 15 días, anuncio en el boletín oficial correspondiente (50.b)'],
         ['Aprobación', 'Inicial y definitiva por el Pleno. <b>Definitiva automática</b> si no hay reclamaciones (169.1)', '<b>Pleno</b>, en <b>acto único</b>, resolviendo las reclamaciones (48.3.d y 11.1.h) {{examen:2026}}. Sin aprobación tácita'],
-        ['Fecha límite', 'Antes del <b>31 de diciembre</b> (169.2)', 'El art. 50 no fija fecha'],
+        ['Fecha límite', 'Antes del <b>31 de diciembre</b> (169.2)', 'El art. 50 no fija fecha, pero rige igual el <b>31 de diciembre</b> del 169.2 TRLRHL, que es básico y se aplica en todo el territorio (art. 1 TRLRHL). No es una diferencia'],
         ['Enmiendas', 'El Pleno puede enmendar (168.4)', 'Si cambian ingresos: conformidad del Gobierno de Zaragoza. Si afectan a gastos: compensadas en la misma área de gobierno y naturaleza del gasto (50.d-e)'],
-        ['Vigor y prórroga', 'Vigor al publicarse; prórroga automática con créditos iniciales (169.5-6)', 'Vigor tras su publicación oficial; prórroga automática del anterior (50.f)']
+        ['Vigor y prórroga', 'Vigor al publicarse; prórroga automática con créditos iniciales (169.5-6)', 'Vigor tras su publicación oficial; prórroga automática del anterior (50.f). El art. 50 no da el detalle, pero rige el 169.6 TRLRHL (créditos iniciales). No es una diferencia']
       ]},
       {tipo: 'lista', tinte: true, items: [
         {t: 'No confundir: el <b>acuerdo único</b> del art. 168.5 TRLRHL impide aprobar por separado los presupuestos del general. El <b>acto único</b> del art. 48.3.d Ley 10/2017 es un trámite: el Pleno aprueba una sola vez y resuelve a la vez las reclamaciones.', a: '168.5; Ley 10/2017, 48.3.d'},
@@ -228,13 +228,13 @@ registerEsquema('aux-admin-zaragoza', 13, {
     'Art. 164.1 (qué integra el presupuesto general): examen oficial 1-jun-2025, segunda prueba, caso 1, pregunta 1.',
     'Art. 166.1.a (planes de inversión para cuatro años): examen oficial 1-jun-2025, segunda prueba, caso 1, pregunta 2.',
     'Art. 167.3.b (gastos corrientes): examen oficial 1-jun-2025, segunda prueba, caso 1, pregunta 3.',
-    'Art. 169.1 (exposición de 15 días): examen oficial 1-jun-2025, segunda prueba, caso 1, pregunta 4.',
+    'Arts. 169.1 y 170 (exposición de 15 días y reclamaciones): examen oficial 1-jun-2025, segunda prueba, caso 1, pregunta 4. Ojo: la plantilla da por correctas las tres opciones, pero la a) («solo» habitantes y directamente afectados) omite a los colegios, cámaras, sindicatos y asociaciones del art. 170.1.c. El dato de los 15 días sí es exacto.',
     'Art. 169.6 (prórroga con créditos iniciales): examen oficial 1-jun-2025, segunda prueba, caso 1, pregunta 5.',
     'RD 500/1990, art. 56 (disposición con relevancia para con terceros): examen oficial 1-jun-2025, segunda prueba, caso 1, pregunta 8.',
     'RD 500/1990, art. 67.1 (acumulación de fases): examen oficial 1-jun-2025, segunda prueba, caso 1, pregunta 9.',
     'Art. 188 (responsabilidad personal): examen oficial 1-jun-2025, segunda prueba, caso 1, pregunta 10.',
     'Ley 10/2017, arts. 11, 14 y 50 (quién aprueba el presupuesto en Zaragoza): examen oficial 31-may-2026, pregunta 12.',
     'Ley 10/2017, art. 49 (ordenanzas fiscales en Zaragoza): examen oficial 31-may-2026, pregunta 37.',
-    'Art. 173.2 (inembargabilidad): examen oficial 31-may-2026, segundo ejercicio, supuesto 1, pregunta 9.'
+    'Art. 173.2 (inembargabilidad): examen oficial 31-may-2026, segundo ejercicio, supuesto 1, pregunta 9. Ojo: la plantilla da que no cabe embargo, pero los tres inmuebles del enunciado son patrimoniales no afectados a un uso o servicio público, que es justo la excepción del art. 173.2. Quédate con la ley.'
   ]
 });

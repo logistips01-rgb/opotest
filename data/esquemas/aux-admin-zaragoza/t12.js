@@ -57,7 +57,7 @@ registerEsquema('aux-admin-zaragoza', 12, {
         {titulo: 'Principios y beneficios fiscales · arts. 6 y 9', reglas: [
           'No gravar bienes, actividades, rendimientos ni gastos de <b>fuera del territorio</b> de la entidad.',
           'No obstaculizar la libre circulación de personas, mercancías, servicios y capitales.',
-          'Beneficios fiscales: solo los de <b>normas con rango de ley</b> o tratados. La ordenanza puede bonificar <b>hasta el 5 %</b> de la cuota por domiciliar, anticipar pagos o colaborar en la recaudación.'
+          'Beneficios fiscales: solo los de <b>normas con rango de ley</b> o tratados, y los de las ordenanzas en los supuestos que prevea la ley. En particular, la ordenanza puede bonificar <b>hasta el 5 %</b> de la cuota por domiciliar, anticipar pagos o colaborar en la recaudación.'
         ]},
         {titulo: 'Recurso de reposición · art. 14.2', reglas: [
           '<b>Único recurso</b> contra los actos de aplicación de tributos e ingresos de derecho público locales; si la ley prevé reclamación económico-administrativa, va antes. Lo resuelve el órgano que dictó el acto.',
@@ -97,12 +97,12 @@ registerEsquema('aux-admin-zaragoza', 12, {
         {titulo: 'Precios públicos · arts. 41-47', reglas: [
           'Por servicios o actividades de competencia local cuando <b>no concurre</b> ninguna circunstancia del art. 20.1.B.',
           'Importe: cubre <b>como mínimo</b> el coste. Puede bajar por razones sociales, benéficas, culturales o de interés público, consignando la diferencia en el presupuesto.',
-          'Se debe desde que empieza el servicio; cabe depósito previo. Cobro por <b>vía de apremio</b>.',
+          'Se debe desde que empieza el servicio; cabe depósito previo. Puede exigirse por <b>vía de apremio</b>.',
           'Los fija el <b>Pleno</b> (delegable). Puede atribuirse a organismos autónomos y consorcios, salvo si no cubren el coste.'
         ]}
       ]},
       {tipo: 'lista', tinte: true, items: [
-        {t: 'Sin tasa (21.1) ni precio público (42): agua en <b>fuentes públicas</b>, <b>alumbrado</b> de vías públicas, vigilancia pública general, <b>protección civil</b>, <b>limpieza de la vía pública</b> {{examen:2025}} y enseñanza obligatoria.', a: '21.1 y 42'},
+        {t: 'Sin tasa (21.1) ni precio público (42): agua en <b>fuentes públicas</b>, <b>alumbrado</b> de vías públicas, vigilancia pública general, <b>protección civil</b>, <b>limpieza de la vía pública</b> y enseñanza obligatoria.', a: '21.1 y 42'},
         {t: 'Alcantarillado y recogida de residuos <b>sí</b> pueden tener tasa: están en la lista del art. 20.4 {{examen:2026}}.', a: '20.4.r y s'},
         {t: 'Tasa de empresas de suministros por el suelo, subsuelo o vuelo de vías municipales: <b>1,5 %</b> de los ingresos brutos de facturación. No incluye telefonía móvil.', a: '24.1.c'},
         {t: 'Devengo: al iniciarse el uso o el servicio, o al presentar la solicitud. Si es periódica: <b>1 de enero</b> y año natural, con prorrateo en altas y bajas.', a: '26'},
@@ -126,8 +126,8 @@ registerEsquema('aux-admin-zaragoza', 12, {
 
     {titulo: 'Impuestos municipales: cuadro comparativo', a: 'arts. 59-110', bloques: [
       {tipo: 'tabla', cab: ['Impuesto', 'Exigencia y naturaleza', 'Hecho imponible', 'Tipo o cuota (límites legales)'], filas: [
-        ['<b>IBI</b> (60-77)', '<b>Obligatorio</b>. Directo, real.', 'Titularidad sobre inmuebles rústicos, urbanos y de características especiales de: concesión administrativa, derecho de superficie, usufructo o propiedad, por este orden.', 'Urbanos: mínimo y supletorio <b>0,4 %</b>, máximo <b>1,10 %</b>. Rústicos: 0,3 % y 0,90 %. Características especiales: supletorio 0,6 %, entre 0,4 % y 1,3 %.'],
-        ['<b>IAE</b> (78-91)', '<b>Obligatorio</b>. Directo, real.', 'Mero ejercicio en territorio nacional de actividades empresariales, profesionales o artísticas, con o sin local y estén o no en las tarifas.', 'Sin tipo: cuotas de las tarifas, con coeficiente de ponderación (86) y de situación entre <b>0,4 y 3,8</b> (87).'],
+        ['<b>IBI</b> (60-77)', '<b>Obligatorio</b>. Directo, real.', 'Titularidad sobre inmuebles rústicos, urbanos y de características especiales de: concesión administrativa, derecho de superficie, usufructo o propiedad, por este orden.', 'Urbanos: mínimo y supletorio <b>0,4 %</b>, máximo <b>1,10 %</b> (72.1; el 72.3 permite sumar algunos puntos). Rústicos: 0,3 % y 0,90 %. Características especiales: supletorio 0,6 %, entre 0,4 % y 1,3 %.'],
+        ['<b>IAE</b> (78-91)', '<b>Obligatorio</b>. Directo, real.', 'Mero ejercicio en territorio nacional de actividades empresariales, profesionales o artísticas, con o sin local y estén o no en las tarifas.', 'Sin tipo: cuotas de las tarifas, con coeficiente de ponderación (86) y, si lo fija el ayuntamiento, de situación entre <b>0,4 y 3,8</b> (87).'],
         ['<b>IVTM</b> (92-99)', '<b>Obligatorio</b>. Directo.', 'Titularidad de vehículos de tracción mecánica aptos para circular por las vías públicas.', 'Cuadro de tarifas legal. El ayuntamiento puede aplicar un coeficiente de hasta <b>2</b>.'],
         ['<b>ICIO</b> (100-103)', '<b>Potestativo</b>. <b>Indirecto</b>.', 'Realizar en el término una construcción, instalación u obra que exija licencia (obtenida o no), declaración responsable o comunicación previa, si la licencia o el control corresponde al ayuntamiento de la imposición.', 'Máximo <b>4 %</b> sobre el coste de ejecución material.'],
         ['<b>IIVTNU</b> (104-110)', '<b>Potestativo</b>. Directo.', 'Incremento de valor de terrenos urbanos que se pone de manifiesto al transmitir su propiedad o al constituir o transmitir un derecho real de goce limitativo del dominio.', 'Máximo <b>30 %</b>.']
@@ -144,13 +144,13 @@ registerEsquema('aux-admin-zaragoza', 12, {
           'IBI: base imponible = <b>valor catastral</b> {{examen:2026}}. Se devenga el primer día del período impositivo, que es el <b>año natural</b>.',
           'IBI: exención de inmuebles con cuota líquida pequeña: <b>potestativa</b>; la cuantía la fija la ordenanza {{examen:2026}}.',
           'IBI: viviendas de protección oficial, bonificación del <b>50 %</b> durante 3 períodos tras la calificación definitiva, a petición.',
-          'IAE: exentos las <b>personas físicas</b>, las entidades con cifra de negocios <b>inferior a 1.000.000 €</b> y quien inicia actividad, en los <b>dos primeros</b> períodos.',
+          'IAE: exentos, entre otros, las <b>personas físicas</b>, las entidades con cifra de negocios <b>inferior a 1.000.000 €</b> y quien inicia actividad, en los <b>dos primeros</b> períodos.',
           'IAE: matrícula y gestión censal, Administración del Estado. Liquidación y recaudación, ayuntamientos.'
         ]},
         {titulo: 'IVTM, ICIO e IIVTNU', reglas: [
           'IVTM: paga el titular que figura en el <b>permiso de circulación</b>; lo gestiona el ayuntamiento de ese domicilio. Bonificaciones potestativas: hasta 75 % por carburante, hasta <b>75 %</b> por motor {{examen:2026}}, hasta 100 % históricos o de 25 años o más.',
           'ICIO: contribuyente, el <b>dueño</b> de la obra (quien soporta su coste). Base: <b>coste de ejecución material</b>, sin IVA, tasas, honorarios ni beneficio del contratista. Se devenga al <b>iniciar</b> la obra, aunque no haya licencia.',
-          'IIVTNU: no sujetos los terrenos <b>rústicos</b> ni las transmisiones en que se acredite que <b>no hay incremento</b> de valor.',
+          'IIVTNU: no sujetos, entre otros, los terrenos <b>rústicos</b> ni las transmisiones en que se acredite que <b>no hay incremento</b> de valor.',
           'IIVTNU: base = valor del terreno al devengo × coeficiente según los años de generación (máximo <b>20 años</b>). Si el incremento real es menor, se toma este.',
           'IIVTNU: contribuyente a título lucrativo, el <b>adquirente</b>; a título oneroso, el <b>transmitente</b>. Declaración: <b>30 días hábiles</b> inter vivos; <b>6 meses</b>, prorrogables a un año, por causa de muerte.'
         ]}
@@ -200,7 +200,7 @@ registerEsquema('aux-admin-zaragoza', 12, {
   ],
 
   examenes: [
-    'Art. 21.1 (limpieza de la vía pública, sin tasa): examen oficial 1-jun-2025, pregunta 6.',
+    'Arts. 21.1 y 42 (limpieza de la vía pública): examen oficial 1-jun-2025, pregunta 6. Ojo: la plantilla da por buena también la opción de que caben precios públicos, y el art. 42 lo prohíbe. Quédate con la ley.',
     'Art. 31.1 (90 % del coste en contribuciones especiales): examen oficial 1-jun-2025, pregunta 7.',
     'Art. 72.1 (IBI urbano, 0,4 %): examen oficial 1-jun-2025, pregunta 12, y 31-may-2026, segundo ejercicio, supuesto 2, pregunta 14.',
     'Art. 129.3 (15 días al año y 3 consecutivos): examen oficial 1-jun-2025, pregunta 28.',
@@ -212,6 +212,6 @@ registerEsquema('aux-admin-zaragoza', 12, {
     'Art. 95.6 (IVTM, bonificación de hasta el 75 % por motor): examen oficial 31-may-2026, reserva 1.',
     'Arts. 61, 62.4 y 65 (IBI: usufructuario, exención potestativa, valor catastral): examen oficial 31-may-2026, segundo ejercicio, supuesto 2, preguntas 11, 12 y 13.',
     'Art. 14.2.i (la reposición no suspende por sí sola): examen oficial 31-may-2026, segundo ejercicio, supuesto 2, pregunta 16.',
-    'Art. 72.4 (recargo del IBI por vivienda desocupada): examen oficial 31-may-2026, segundo ejercicio, supuesto 2, pregunta 15, con la redacción anterior. El Real Decreto-ley 29/2026 ha llevado el recargo al art. 72.4 bis con otro contenido.'
+    'Art. 72.4 (recargo del IBI por vivienda desocupada): examen oficial 31-may-2026, segundo ejercicio, supuesto 2, pregunta 15. Ojo: la plantilla da «ninguna es correcta», pero el párrafo tercero del art. 72.4 entonces vigente decía «hasta el 50 por ciento» (opción a). Desde el 08/10/2026 el recargo está en el art. 72.4 bis (Real Decreto-ley 29/2026), con efectos para los períodos impositivos que empiecen desde esa fecha: en el IBI, desde 2027.'
   ]
 });

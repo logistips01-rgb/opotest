@@ -16,12 +16,12 @@ registerEsquema('aux-admin-zaragoza', 14, {
     {t: 'Elementos del municipio: <b>territorio, población y organización</b>. Los inscritos en el Padrón son los <b>vecinos</b>.', a: 'arts. 11 y 15'},
     {t: 'Servicios mínimos por tramos que se suman: todos los municipios, <b>más de 5.000</b>, <b>más de 20.000</b> y <b>más de 50.000</b> habitantes.', a: 'art. 26.1'},
     {t: 'El Estado y las CCAA pueden delegar competencias en los municipios por un plazo <b>no inferior a 5 años</b>. Hace falta aceptación del municipio y financiación.', a: 'art. 27', examen: '2025'},
-    {t: 'Gran población: más de <b>250.000</b> habitantes o capital de provincia de más de <b>175.000</b>. Otras capitales y municipios de más de 75.000 con circunstancias especiales, solo si lo decide la <b>Asamblea Legislativa</b>.', a: 'art. 121.1'},
+    {t: 'Gran población: más de <b>250.000</b> habitantes o capital de provincia de más de <b>175.000</b>. Capitales de provincia, capitales autonómicas o sedes de instituciones autonómicas, y municipios de más de 75.000 con circunstancias especiales: solo si lo decide la <b>Asamblea Legislativa</b>, a iniciativa del ayuntamiento.', a: 'art. 121.1'},
     {t: 'Zaragoza tiene régimen especial: su Junta de Gobierno Local se llama <b>Gobierno de Zaragoza</b> y el Alcalde no puede delegar la facultad de <b>dictar bandos</b>.', a: 'DA 2.ª y art. 12.2 Ley 10/2017'}
   ],
 
   mapa: [
-    {titulo: 'LBRL · Título II, cap. I · Territorio y población', rango: 'arts. 11-18', items: [
+    {titulo: 'LBRL · Título II (art. 11) y cap. I · Territorio y población', rango: 'arts. 11-18', items: [
       ['11', 'El municipio y sus elementos'], ['12', 'Término municipal'], ['13', 'Creación, supresión y fusión'],
       ['14', 'Denominación'], ['15', 'Empadronamiento y vecindad'], ['16', 'El Padrón'],
       ['17', 'Gestión del Padrón'], ['18', 'Derechos y deberes de los vecinos']
@@ -48,7 +48,7 @@ registerEsquema('aux-admin-zaragoza', 14, {
   cifras: [
     {v: '4.000 hab.', d: 'Núcleo mínimo para crear un municipio nuevo', a: 'art. 13.2'},
     {v: '10 años', d: 'Sin poder segregarse el municipio resultante de una fusión', a: 'art. 13.4'},
-    {v: '2 años', d: 'Renovación del padrón de extranjeros no comunitarios sin residencia de larga duración', a: 'art. 16.1'},
+    {v: '2 años', d: 'Renovación del padrón de extranjeros de fuera de la UE y del EEE sin residencia de larga duración', a: 'art. 16.1'},
     {v: '5 años', d: 'Duración mínima de la delegación de competencias en un municipio', a: 'art. 27.1'},
     {v: '250.000', d: 'Habitantes para aplicar el régimen de gran población', a: 'art. 121.1.a'},
     {v: '175.000', d: 'Habitantes de una capital de provincia para ser gran población', a: 'art. 121.1.b'},
@@ -71,10 +71,10 @@ registerEsquema('aux-admin-zaragoza', 14, {
       {tipo: 'columnas', cols: [
         {titulo: 'Padrón · arts. 15-17', reglas: [
           'Toda persona que viva en España se inscribe en el municipio donde resida habitualmente; si vive en varios, en el que habite <b>más tiempo al año</b>.',
-          'Los inscritos son los <b>vecinos</b>. La vecindad se adquiere en el momento de la inscripción.',
+          'El conjunto de inscritos es la <b>población</b> del municipio y los inscritos son los <b>vecinos</b>. La vecindad se adquiere en el momento de la inscripción.',
           'Sus datos prueban la <b>residencia</b> en el municipio y el <b>domicilio habitual</b> {{examen:2026}}. Sus certificaciones son documento público y fehaciente.',
-          'Extranjeros no comunitarios sin autorización de residencia de larga duración: renovación <b>cada 2 años</b>; si no se renueva, caducidad sin audiencia previa.',
-          'Formación, mantenimiento, revisión y custodia: el <b>Ayuntamiento</b>, con medios informáticos.'
+          'Extranjeros de fuera de la UE y del Espacio Económico Europeo sin autorización de residencia de larga duración: renovación <b>cada 2 años</b>; si no se renueva, caducidad sin audiencia previa.',
+          'Formación, mantenimiento, revisión y custodia: el <b>Ayuntamiento</b>, con medios informáticos. Si un municipio no puede mantenerlo informatizado, asume esa gestión la <b>Diputación</b> (o Cabildo o Consejo insular).'
         ]},
         {titulo: 'Derechos y deberes de los vecinos · art. 18', items: [
           'Ser elector y elegible',
@@ -84,14 +84,15 @@ registerEsquema('aux-admin-zaragoza', 14, {
           'Ser informado, previa petición razonada, y dirigir solicitudes',
           'Pedir la consulta popular',
           'Exigir el servicio si es competencia propia obligatoria',
-          'Ejercer la iniciativa popular (art. 70 bis)'
+          'Ejercer la iniciativa popular (art. 70 bis)',
+          'Los demás establecidos en las leyes'
         ], reglas: ['La inscripción de extranjeros en el padrón <b>no prueba su residencia legal</b> en España.']}
       ]}
     ]},
 
     {titulo: 'Competencias municipales', a: 'arts. 25, 27 y 28 LBRL', bloques: [
       {tipo: 'lista', items: [
-        {t: 'Competencias <b>propias</b> «en todo caso», en los términos de la legislación estatal y autonómica: urbanismo y vivienda protegida; medio ambiente urbano; agua y aguas residuales; infraestructura viaria; atención inmediata a personas en riesgo de exclusión social; policía local, protección civil e incendios; tráfico y transporte colectivo urbano; turismo; ferias, abastos, mercados; salubridad pública; cementerios; deporte; cultura; escolaridad obligatoria y edificios escolares; TIC; igualdad y violencia de género; comunidades de energía; igualdad y accesibilidad de las personas con discapacidad (letra q, en vigor desde el 23-10-2026).', a: '25.2'},
+        {t: 'Competencias <b>propias</b> «en todo caso», en los términos de la legislación estatal y autonómica: urbanismo y vivienda protegida; medio ambiente urbano; agua y aguas residuales; infraestructura viaria; evaluación e información de situaciones de necesidad social y atención inmediata a personas en situación o riesgo de exclusión social; policía local, protección civil e incendios; tráfico y transporte colectivo urbano; turismo; ferias, abastos, mercados; salubridad pública; cementerios; deporte; cultura; escolaridad obligatoria y edificios escolares; TIC; igualdad y violencia de género; comunidades de energía. Letra q (igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad): la añade la Ley 4/2026 y <b>entra en vigor el 23-10-2026</b>; hasta entonces la lista acaba en la p.', a: '25.2'},
         {t: 'Las competencias propias se determinan <b>por ley</b>, con memoria económica, y sin atribuir la misma competencia a la vez a otra Administración.', a: '25.3-25.5'}
       ]},
       {tipo: 'columnas', cols: [
@@ -192,12 +193,12 @@ registerEsquema('aux-admin-zaragoza', 14, {
         ['Pleno (10-11)', 'Lo preside el Alcalde, salvo legislación electoral o delegación en un concejal. Sus Comisiones dictaminan las <b>ordenanzas y Reglamentos</b> antes del Pleno. Aprueba presupuestos {{examen:2026}}, ordenanzas, Reglamentos orgánicos y el código ético. Regla general: mayoría simple.'],
         ['Alcalde (12)', 'Dirige el Gobierno de Zaragoza, ostenta la máxima representación del municipio y <b>responde ante el Pleno</b> {{examen:2026}}. Nombra a los miembros del Gobierno, Tenientes de Alcalde y Presidentes de distritos. Jefatura de la Policía Local.'],
         ['Gobierno de Zaragoza (13-14)', 'Órgano colegiado ejecutivo. Máximo <b>un tercio</b> del número legal del Pleno, además del Alcalde. Deliberaciones <b>secretas, salvo</b> en atribuciones delegadas por el Pleno {{examen:2026}}. Aprueba los proyectos de ordenanzas, Reglamentos y presupuesto {{examen:2026}}; licencias, contratación, patrimonio, RPT y oferta de empleo.'],
-        ['Otros (15-18)', 'Grupos municipales con portavoz; <b>Junta de Portavoces</b>, presidida por el Alcalde o el Teniente en quien delegue. El Gobierno de Zaragoza puede crear un Consejo Jurídico Municipal (informes y dictámenes no vinculantes) y fija en el acuerdo de creación las comisiones específicas de asesoramiento para dictaminar recursos.']
+        ['Otros (15-18)', 'Grupos municipales con portavoz; <b>Junta de Portavoces</b>, presidida por el Alcalde o el Teniente en quien delegue. El Gobierno de Zaragoza puede crear un Consejo Jurídico Municipal (informes y dictámenes no vinculantes). Puede haber comisiones específicas de asesoramiento para dictaminar recursos administrativos; sus funciones, composición y funcionamiento los fija el Gobierno de Zaragoza en el acuerdo de creación.']
       ]},
       {tipo: 'columnas', cols: [
         {titulo: 'Delegaciones del Alcalde · 12.2-12.3', reglas: [
           'Puede delegar o desconcentrar por decreto en el Gobierno, sus miembros, concejales, órganos directivos, gerencias y órganos de los distritos.',
-          'Indelegables: dirigir la política, los nombramientos del 12.1.e, medidas urgentes, Jefatura de la Policía Local, convocar y presidir el Gobierno, voto de calidad y <b>dictar bandos</b> {{examen:2026}}.',
+          'Indelegables: dirigir la política, los nombramientos del 12.1.e, medidas de extraordinaria y urgente necesidad, Jefatura de la Policía Local, convocar y presidir el Gobierno, voto de calidad y <b>dictar bandos</b> {{examen:2026}}.',
           'Directrices generales y organización: solo en el <b>Gobierno de Zaragoza</b>. La dirección de la Policía Local, salvo la superior Jefatura, puede delegarse en un Concejal.'
         ]},
         {titulo: 'Delegaciones del Pleno · 11.3', reglas: [
