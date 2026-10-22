@@ -36,7 +36,7 @@ registerEsquema('aux-admin-zaragoza', 12, {
     {v: '30 días', d: 'Exposición mínima, en el tablón, de los acuerdos provisionales sobre ordenanzas fiscales', a: 'art. 17.1'},
     {v: '1 mes', d: 'Para interponer el recurso de reposición, y también para resolverlo', a: 'art. 14.2.c y l'},
     {v: '1,5 %', d: 'Tasa de empresas de suministros por ocupar vías públicas: ingresos brutos de facturación', a: 'art. 24.1.c'},
-    {v: '0,4 % y 1,10 %', d: 'IBI urbano: tipo mínimo y supletorio, y tipo máximo {{examen:2025}}', a: 'art. 72.1'},
+    {v: '0,4 % y 1,10 %', d: 'IBI urbano: tipo mínimo y supletorio, y tipo máximo {{examen:2025}} {{examen:2026}}', a: 'art. 72.1'},
     {v: '4 %', d: 'Tipo máximo del ICIO', a: 'art. 102.3'},
     {v: '30 %', d: 'Tipo máximo del IIVTNU', a: 'art. 108.1'},
     {v: '20 años', d: 'Periodo máximo de generación del incremento en el IIVTNU {{examen:2026}}', a: 'art. 107.1'},
@@ -49,7 +49,7 @@ registerEsquema('aux-admin-zaragoza', 12, {
       {tipo: 'lista', items: [
         {t: 'Recursos: ingresos de <b>patrimonio</b> y demás de derecho privado; <b>tributos propios</b> y recargos sobre impuestos de la CA o de otras entidades locales; <b>participaciones</b> en tributos del Estado y de las CCAA; <b>subvenciones</b>; <b>precios públicos</b>; operaciones de <b>crédito</b>; <b>multas</b> y sanciones; demás prestaciones de derecho público.', a: '2.1'},
         {t: 'Para cobrar tributos y demás ingresos de derecho público, la hacienda local tiene las <b>prerrogativas de la hacienda del Estado</b>.', a: '2.2'},
-        {t: 'Ingresos de derecho privado: rendimientos del <b>patrimonio</b> y adquisiciones por herencia, legado o donación. Nunca los que procedan de bienes de <b>dominio público</b>. Se hacen efectivos con normas y procedimientos del <b>derecho privado</b>.', a: '3 y 4'},
+        {t: 'Ingresos de derecho privado: rendimientos del <b>patrimonio</b> y adquisiciones por herencia, legado o donación. Nunca los que procedan de bienes de <b>dominio público</b>. Se hacen efectivos con normas y procedimientos del <b>derecho privado</b>.', a: '3 y 4', examen: '2026'},
         {t: 'Lo obtenido al vender o gravar bienes patrimoniales <b>no puede financiar gasto corriente</b>, salvo parcelas sobrantes de vías públicas no edificables o efectos no utilizables.', a: '5'},
         {t: 'Delegación de gestión, liquidación, inspección y recaudación en la CA o en otras entidades locales: acuerdo del <b>Pleno</b>.', a: '7'}
       ]},
@@ -115,7 +115,7 @@ registerEsquema('aux-admin-zaragoza', 12, {
         {t: 'Hecho imponible: obtener un <b>beneficio o aumento de valor</b> de los bienes por obras públicas o por establecer o ampliar servicios públicos locales.', a: '28'},
         {t: 'Lo recaudado solo puede pagar la obra o servicio que lo motivó.', a: '29.3'},
         {t: 'Base imponible: <b>como máximo el 90 %</b> del coste que soporta la entidad (coste total menos subvenciones recibidas).', a: '31.1 y 31.5', examen: '2025'},
-        {t: 'Sujetos pasivos: los especialmente beneficiados. En extinción de incendios, además de los propietarios, las <b>compañías de seguros</b> del ramo en el municipio.', a: '30.2.c', examen: '2025'},
+        {t: 'Sujetos pasivos: los especialmente beneficiados. En extinción de incendios, además de los propietarios, las <b>compañías de seguros</b> del ramo en el municipio.', a: '30.2.c'},
         {t: 'Aplazamiento o fraccionamiento a solicitud: <b>máximo 5 años</b>.', a: '32.3'},
         {t: 'Devengo: al ejecutarse la obra o empezar el servicio. Cabe exigir <b>anticipo</b> del coste previsto para el año siguiente.', a: '33.1-2'},
         {t: 'Acuerdo de <b>imposición</b> en cada caso y acuerdo de <b>ordenación</b> de inexcusable adopción.', a: '34'},
@@ -200,18 +200,20 @@ registerEsquema('aux-admin-zaragoza', 12, {
   ],
 
   examenes: [
-    'Arts. 21.1 y 42 (limpieza de la vía pública): examen oficial 1-jun-2025, pregunta 6. Ojo: la plantilla da por buena también la opción de que caben precios públicos, y el art. 42 lo prohíbe. Quédate con la ley.',
+    'Arts. 21.1 y 42 (limpieza de la vía pública: ni tasa ni precio público): examen oficial 1-jun-2025, pregunta 6. La respuesta tomada como oficial (la plantilla de ese examen no está publicada) da por buenas las dos opciones, también «Las entidades locales podrán exigir precios públicos». El art. 42 dice: «No podrán exigirse precios públicos por los servicios y actividades enumerados en el artículo 21 de esta ley». El esquema sigue la ley y no marca este punto.',
     'Art. 31.1 (90 % del coste en contribuciones especiales): examen oficial 1-jun-2025, pregunta 7.',
     'Art. 72.1 (IBI urbano, 0,4 %): examen oficial 1-jun-2025, pregunta 12, y 31-may-2026, segundo ejercicio, supuesto 2, pregunta 14.',
     'Art. 129.3 (15 días al año y 3 consecutivos): examen oficial 1-jun-2025, pregunta 28.',
-    'Art. 30.2.c (compañías de seguros en extinción de incendios): examen oficial 1-jun-2025, reserva 1.',
+    'Art. 30.2.c (sujetos pasivos de las contribuciones especiales por extinción de incendios): examen oficial 1-jun-2025, reserva 1. La respuesta tomada como oficial (la plantilla de ese examen no está publicada) da por buenas las dos opciones: «Los titulares de derechos sobre los bienes afectados» y «Las compañías de seguros que desarrollen su actividad en el ramo, en el término municipal correspondiente». El art. 30.2.c dice «los propietarios de los bienes afectados», no los titulares de derechos; lo de las compañías de seguros sí es literal. El esquema sigue la ley y no marca este punto.',
+    'Art. 100.1 (hecho imponible del ICIO): examen oficial 1-jun-2025, reserva 4. La respuesta tomada como oficial (la plantilla de ese examen no está publicada) dice «independientemente de que la expedición de la licencia corresponda al ayuntamiento de la imposición». El art. 100.1 dice «siempre que la expedición de la licencia o la actividad de control corresponda al ayuntamiento de la imposición». El esquema sigue la ley y no marca este punto.',
     'Art. 48 bis.1 (prudencia financiera): examen oficial 31-may-2026, pregunta 14.',
     'Art. 107.1 (20 años en el IIVTNU): examen oficial 31-may-2026, pregunta 33.',
     'Arts. 20.4 y 21.1 (alcantarillado: cabe tasa): examen oficial 31-may-2026, pregunta 43.',
     'Art. 20.5 (tasa por matrimonio civil): examen oficial 31-may-2026, pregunta 44.',
     'Art. 95.6 (IVTM, bonificación de hasta el 75 % por motor): examen oficial 31-may-2026, reserva 1.',
+    'Art. 4 (los ingresos de derecho privado se hacen efectivos con normas y procedimientos del derecho privado): examen oficial 31-may-2026, segundo ejercicio, supuesto 1, pregunta 5.',
     'Arts. 61, 62.4 y 65 (IBI: usufructuario, exención potestativa, valor catastral): examen oficial 31-may-2026, segundo ejercicio, supuesto 2, preguntas 11, 12 y 13.',
     'Art. 14.2.i (la reposición no suspende por sí sola): examen oficial 31-may-2026, segundo ejercicio, supuesto 2, pregunta 16.',
-    'Art. 72.4 (recargo del IBI por vivienda desocupada): examen oficial 31-may-2026, segundo ejercicio, supuesto 2, pregunta 15. Ojo: la plantilla da «ninguna es correcta», pero el párrafo tercero del art. 72.4 entonces vigente decía «hasta el 50 por ciento» (opción a). Desde el 08/10/2026 el recargo está en el art. 72.4 bis (Real Decreto-ley 29/2026), con efectos para los períodos impositivos que empiecen desde esa fecha: en el IBI, desde 2027.'
+    'Art. 72.4, párrafos tercero y cuarto (recargo de hasta el 50 % de la cuota líquida en inmuebles de uso residencial desocupados con carácter permanente): examen oficial 31-may-2026, segundo ejercicio, supuesto 2, pregunta 15. Desde el 08/10/2026 el recargo está en el art. 72.4 bis (Real Decreto-ley 29/2026), con efectos para los períodos impositivos que empiecen desde esa fecha: en el IBI, desde 2027.'
   ]
 });

@@ -193,5 +193,5 @@ registerEsquema('aux-admin-zaragoza', 4, {
     {x: 'Para cualquier actuación se exige firma', ok: 'Basta identificarse. La firma solo para 5 actuaciones tasadas.', a: '11'}
   ],
 
-  examenes: ['Ninguna pregunta de los exámenes oficiales de 1-jun-2025 y 31-may-2026 (tema 21 del banco) recae sobre los arts. 1 a 12 de la Ley 39/2015.']
+  examenes: ['Ninguna pregunta de los exámenes oficiales de 1-jun-2025 y 31-may-2026 recae sobre los arts. 1 a 12 de la Ley 39/2015.']
 });

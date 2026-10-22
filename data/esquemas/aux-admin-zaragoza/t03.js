@@ -210,7 +210,7 @@ registerEsquema('aux-admin-zaragoza', 3, {
   examenes: [
     'Art. 10 (incorporación de territorios: ley orgánica de las Cortes Generales): examen oficial 1-jun-2025, pregunta 5.',
     'Art. 71.9.ª (urbanismo, competencia exclusiva): examen oficial 1-jun-2025, pregunta 3.',
-    'Art. 76.3 (coordinación de la actuación de las Policías locales aragonesas): examen oficial 1-jun-2025, pregunta 50. La respuesta tomada como oficial (clave del banco, a falta de plantilla) da por buenas las dos opciones, también «La coordinación de la actuación de la Policía autonómica con la de las Policías locales aragonesas». El art. 76.3 solo dice: «Corresponde a la Comunidad Autónoma la coordinación de la actuación de las Policías locales aragonesas». El esquema sigue el texto del Estatuto y no marca este punto.',
+    'Art. 76.3 (coordinación de la actuación de las Policías locales aragonesas): examen oficial 1-jun-2025, pregunta 50. La respuesta tomada como oficial (la plantilla de ese examen no está publicada) da por buenas las dos opciones, también «La coordinación de la actuación de la Policía autonómica con la de las Policías locales aragonesas». El art. 76.3 solo dice: «Corresponde a la Comunidad Autónoma la coordinación de la actuación de las Policías locales aragonesas». El esquema sigue el texto del Estatuto y no marca este punto.',
     'Título V (función legislativa solo en exclusivas y compartidas): examen oficial 31-may-2026, pregunta 5.',
     'Art. 32 (instituciones; no lo son el TSJ ni el Consejo Consultivo): examen oficial 31-may-2026, pregunta 31.',
     'Art. 36.2 (mínimo de 14 escaños por provincia): examen oficial 31-may-2026, reserva 4.'

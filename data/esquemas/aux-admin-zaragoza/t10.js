@@ -50,7 +50,7 @@ registerEsquema('aux-admin-zaragoza', 10, {
     {v: '1 año', d: 'Plazo para recuperar de oficio la posesión de los patrimoniales', a: 'LBRL 82.a; RBASO 62.2'},
     {v: '1 mes', d: 'Información pública del procedimiento de alteración expresa de la calificación', a: 'RBASO 10; Ley 7/1999 177.2'},
     {v: '50 años', d: 'Plazo máximo de la concesión demanial en Aragón, salvo norma especial con plazo menor {{examen:2025}}', a: 'RBASO 83.2'},
-    {v: '10 años', d: 'Sin disfrute comunal durante más de 10 años: el comunal puede pasar a patrimonial {{examen:2025}}', a: 'Ley 7/1999 179.1; RBASO 12.1'},
+    {v: '10 años', d: 'Sin disfrute comunal durante más de 10 años: el comunal puede pasar a patrimonial', a: 'Ley 7/1999 179.1; RBASO 12.1'},
     {v: '6 %', d: 'Del valor en venta: precio mínimo, como regla general, por arrendar o ceder el uso de un patrimonial {{examen:2026}}', a: 'RBASO 100.2'},
     {v: '25 %', d: 'De los recursos ordinarios: por encima, enajenar, gravar o permutar inmuebles exige aprobación previa de la Comunidad Autónoma', a: 'RBASO 121; Ley 7/1999 186.1'},
     {v: '20 %', d: 'De los recursos ordinarios: por encima, enajenar bienes exige mayoría absoluta (régimen común: en los municipios de gran población rige el art. 123.2 LBRL)', a: 'LBRL 47.2.m y 47.3; Ley 7/1999 126.4.ll'},
@@ -110,12 +110,12 @@ registerEsquema('aux-admin-zaragoza', 10, {
       {tipo: 'columnas', cols: [
         {titulo: 'Adquisición · RBASO 16.2', items: [
           'Por atribución legal',
-          'A título oneroso: contrato, expropiación y derechos de <b>tanteo y retracto</b>',
+          'A título oneroso: contrato, expropiación y derechos de <b>tanteo y retracto</b> {{examen:2025}}',
           'Por herencia, legado o donación',
-          'Por <b>cesión de naturaleza urbanística</b>',
+          'Por <b>cesión de naturaleza urbanística</b> {{examen:2025}}',
           'Por prescripción y por ocupación',
-          'Por <b>sucesión administrativa</b> (alteración de términos o transferencia de competencias)',
-          'Por cualquier otro modo legítimo {{examen:2025}}'
+          'Por <b>sucesión administrativa</b> (alteración de términos o transferencia de competencias) {{examen:2025}}',
+          'Por cualquier otro modo legítimo'
         ], reglas: [
           'A título gratuito: <b>sin restricción</b>; si lleva una carga, solo si no supera el valor de lo adquirido. Herencias: <b>a beneficio de inventario</b> (RBASO 18).',
           'Inmuebles a título oneroso: <b>informe previo pericial</b> de su valor (RBASO 17.2).'
@@ -171,7 +171,7 @@ registerEsquema('aux-admin-zaragoza', 10, {
       {tipo: 'columnas', cols: [
         {titulo: 'Utilización · RBASO 99-101', reglas: [
           'Criterios de <b>rentabilidad económica o social</b> {{examen:2025}}',
-          'La usa directamente la entidad o la cede a particulares <b>mediante contrato</b> (99.2). Arrendamiento y cesión de uso: normativa general de <b>contratación</b>, salvo regulación específica (100.1).',
+          'La usa directamente la entidad o la cede a particulares <b>mediante contrato</b> (99.2). Arrendamiento y cesión de uso: normativa general de <b>contratación</b>, salvo regulación específica (100.1) {{examen:2026}}.',
           'Precio no inferior al <b>6 %</b> del valor en venta, salvo el art. 102 {{examen:2026}}',
           '<b>Subasta</b> si la cesión dura <b>más de 5 años</b> o el precio supera el <b>5 %</b> de los recursos ordinarios (101.1).'
         ]},
@@ -199,7 +199,7 @@ registerEsquema('aux-admin-zaragoza', 10, {
         {t: 'Lotes: en proporción <b>directa</b> al número de familiares a cargo e <b>inversa</b> a la situación económica.', a: 'RBASO 96.3'},
         {t: 'Si tampoco caben lotes: el <b>Gobierno de Aragón</b> puede autorizar la <b>subasta</b> mediante precio, con preferencia de los vecinos; si queda desierta, procedimiento negociado.', a: 'RBASO 97'},
         {t: 'Las ordenanzas pueden exigir residencia; si excluyen a vecinos, las aprueba el Gobierno de Aragón, previo dictamen de la Comisión Jurídica Asesora.', a: 'RBASO 96.4-5'},
-        {t: 'Más de <b>10 años</b> sin disfrute comunal: pueden pasar a patrimoniales (información pública de un mes, <b>mayoría absoluta</b> del Pleno y aprobación del Consejero del Gobierno de Aragón).', a: 'Ley 7/1999 179.1; RBASO 12', examen: '2025'},
+        {t: 'Más de <b>10 años</b> sin disfrute comunal: pueden pasar a patrimoniales (información pública de un mes, <b>mayoría absoluta</b> del Pleno y aprobación del Consejero del Gobierno de Aragón).', a: 'Ley 7/1999 179.1; RBASO 12'},
         {t: 'Desafectarlos para transmitirlos o permutarlos: aprobación provisional por <b>dos tercios</b> del número legal y aprobación del <b>Gobierno de Aragón</b>.', a: 'RBASO 13; Ley 7/1999 180'},
         {t: 'Ceder por cualquier título el aprovechamiento: <b>mayoría absoluta</b>.', a: 'LBRL 47.2.i; Ley 7/1999 126.4.g'}
       ]}
@@ -211,7 +211,7 @@ registerEsquema('aux-admin-zaragoza', 10, {
     {x: 'Basta adscribir un patrimonial 20 años a un servicio público para que sea demanial', ok: 'Hacen falta más de 25 años.', a: 'LBRL 81.2.b'},
     {x: 'Los patrimoniales se recuperan de oficio en cualquier momento', ok: 'Solo en el plazo de un año; el dominio público, en cualquier momento.', a: 'LBRL 82.a'},
     {x: 'Los patrimoniales se rigen solo por el Derecho privado', ok: 'Primero por su legislación específica; el Derecho privado, en su defecto.', a: 'LBRL 80.2'},
-    {x: 'Los mercados son bienes de uso público', ok: 'Son bienes de servicio público, como las Casas Consistoriales o las lonjas.', a: 'Ley 7/1999 170.3; RBASO 3.3'},
+    {x: 'Los mercados son bienes de uso público', ok: 'Son bienes de servicio público, como las Casas Consistoriales o las lonjas {{examen:2026}}.', a: 'Ley 7/1999 170.3; RBASO 3.3'},
     {x: 'Todo uso privativo del dominio público requiere concesión', ok: 'Solo el agravado (instalaciones fijas y permanentes) y el anormal; el privativo sin instalaciones fijas, licencia.', a: 'RBASO 78 y 81'},
     {x: 'En Aragón una concesión demanial puede durar hasta 75 años', ok: 'Máximo 50 años (RBASO). Los 75 años son el tope básico de la LPAP, que admite plazos menores.', a: 'RBASO 83.2; LPAP 93.3'},
     {x: 'El desahucio administrativo sirve para recuperar cualquier bien local', ok: 'Solo bienes de dominio público, al extinguirse el título que permitía usarlos.', a: 'RBASO 64'},
@@ -220,13 +220,13 @@ registerEsquema('aux-admin-zaragoza', 10, {
   ],
 
   examenes: [
-    'LBRL art. 81.2 (alteración automática): examen oficial 31-may-2026, pregunta 48. Ojo: en el banco la opción b) dice «más de veinte años»; el texto legal dice «veinticinco».',
+    'LBRL art. 81.2 (alteración automática por la aprobación definitiva de planes y proyectos; la adscripción exige más de veinticinco años): examen oficial 31-may-2026, pregunta 48.',
     'LPAP art. 8.1.c (publicidad, transparencia, concurrencia y objetividad): examen oficial 1-jun-2025, segunda prueba, supuesto 2, pregunta 13.',
     'LPAP art. 93.1 (concesiones en régimen de concurrencia): examen oficial 1-jun-2025, segunda prueba, supuesto 2, pregunta 17.',
     'RBASO arts. 3.2 (la plaza es de uso público), 75 (uso privativo agravado), 81 (concesión), 83 (50 años), 47 y ss. (recuperación de oficio y sancionadora) y 16 (títulos de adquisición): examen oficial 1-jun-2025, segunda prueba, supuesto 2, preguntas 11, 12, 14, 15, 16 y 18.',
     'RBASO art. 99.1 (rentabilidad económica o social): examen oficial 1-jun-2025, pregunta 44.',
-    'Ley 7/1999 art. 179.1 (desafectación de comunales): examen oficial 1-jun-2025, reserva 5. Ojo: el banco da por buena «más de veinte años»; la ley dice «más de diez años».',
-    'Ley 7/1999 art. 170 (mercados): examen oficial 31-may-2026, pregunta 24. Ojo: el banco da por buena «son bienes de uso público»; el art. 170.3 los incluye entre los de servicio público.',
-    'RBASO arts. 109.1 (subasta), 100 (arrendamiento y 6 %), 110 (ingresos), 102 (cesión por motivos sociales) y 47 y ss. (prerrogativas): examen oficial 31-may-2026, segundo ejercicio, supuesto 1, preguntas 1 a 4 y 6 a 8. Ojo en P2 y P7: la respuesta del banco no coincide con la letra de los arts. 99.2, 100.1 y 102.2.'
+    'Ley 7/1999 art. 179.1 (desafectación de comunales): examen oficial 1-jun-2025, reserva 5. La respuesta tomada como oficial (la plantilla de ese examen no está publicada) es «Durante más de veinte años». El art. 179.1 de la Ley 7/1999 y el art. 12.1 del RBASO dicen «durante más de diez años». El esquema sigue la ley y no marca este punto.',
+    'Ley 7/1999 art. 170.3 (los mercados son bienes de servicio público): examen oficial 31-may-2026, pregunta 24.',
+    'RBASO arts. 109.1 (subasta), 100 (el arrendamiento se rige por la normativa general de la contratación; precio mínimo del 6 %), 110 (ingresos), 102 (cesión por motivos sociales: plazo de duración o cesión en precario) y 47 y ss. (prerrogativas): examen oficial 31-may-2026, segundo ejercicio, supuesto 1, preguntas 1 a 4 y 6 a 8.'
   ]
 });

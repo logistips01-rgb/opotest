@@ -126,7 +126,7 @@ registerEsquema('aux-admin-zaragoza', 13, {
     {titulo: 'Créditos y modificaciones', a: 'arts. 172-182; RD 500/1990, arts. 24-51', bloques: [
       {tipo: 'lista', items: [
         {t: 'Los créditos son <b>limitativos y vinculantes</b> y solo sirven para su finalidad. Comprometer por encima del crédito es <b>nulo de pleno derecho</b>.', a: '172 y 173.5'},
-        {t: 'No cabe <b>embargo</b> ni mandamiento de ejecución contra los bienes y fondos de la hacienda local, salvo bienes patrimoniales no afectados a un uso o servicio público.', a: '173.2'},
+        {t: 'No cabe <b>embargo</b> ni mandamiento de ejecución contra los bienes y fondos de la hacienda local, salvo bienes patrimoniales no afectados a un uso o servicio público.', a: '173.2', examen: '2026'},
         {t: 'Situación de los créditos: disponibles, retenidos pendientes de utilización y no disponibles. La no disponibilidad la declara el <b>Pleno</b>.', a: 'RD 30 y 33.3'},
         {t: 'Créditos no afectados a obligaciones reconocidas el último día del ejercicio: quedan <b>anulados</b>, salvo incorporación.', a: '175'}
       ]},
@@ -228,13 +228,15 @@ registerEsquema('aux-admin-zaragoza', 13, {
     'Art. 164.1 (qué integra el presupuesto general): examen oficial 1-jun-2025, segunda prueba, caso 1, pregunta 1.',
     'Art. 166.1.a (planes de inversión para cuatro años): examen oficial 1-jun-2025, segunda prueba, caso 1, pregunta 2.',
     'Art. 167.3.b (gastos corrientes): examen oficial 1-jun-2025, segunda prueba, caso 1, pregunta 3.',
-    'Arts. 169.1 y 170 (exposición de 15 días y reclamaciones): examen oficial 1-jun-2025, segunda prueba, caso 1, pregunta 4. Ojo: la plantilla da por correctas las tres opciones, pero la a) («solo» habitantes y directamente afectados) omite a los colegios, cámaras, sindicatos y asociaciones del art. 170.1.c. El dato de los 15 días sí es exacto.',
+    'Arts. 169.1 y 170 (exposición de 15 días y reclamaciones): examen oficial 1-jun-2025, segunda prueba, caso 1, pregunta 4. La respuesta tomada como oficial (la plantilla de ese examen no está publicada) da por correctas las tres afirmaciones, también «Solo tendrán la condición de interesados los habitantes en el territorio de la respectiva entidad local y los que resulten directamente afectados». El art. 170.1.c añade a los colegios oficiales, cámaras oficiales, sindicatos, asociaciones y demás entidades legalmente constituidas para velar por intereses profesionales o económicos y vecinales. El dato de los 15 días sí es exacto. El esquema sigue la ley y no marca este punto.',
     'Art. 169.6 (prórroga con créditos iniciales): examen oficial 1-jun-2025, segunda prueba, caso 1, pregunta 5.',
+    'Art. 171.2 (informe previo del Tribunal de Cuentas): examen oficial 1-jun-2025, segunda prueba, caso 1, pregunta 6. La respuesta tomada como oficial (la plantilla de ese examen no está publicada) es «Al principio de estabilidad presupuestaria o al principio de sostenibilidad financiera». El art. 171.2 dice «cuando la impugnación afecte o se refiera a la nivelación presupuestaria». El esquema sigue la ley y no marca este punto.',
+    'Art. 177.1 (crédito extraordinario o suplemento de crédito): examen oficial 1-jun-2025, segunda prueba, caso 1, pregunta 7. El enunciado dice que no existe crédito, y la respuesta tomada como oficial (la plantilla de ese examen no está publicada) es «Suplemento de crédito». El art. 177.1 reserva el suplemento para el crédito insuficiente y no ampliable; si no existe crédito, procede el crédito extraordinario, que no figuraba entre las opciones. El esquema sigue la ley y no marca este punto.',
     'RD 500/1990, art. 56 (disposición con relevancia para con terceros): examen oficial 1-jun-2025, segunda prueba, caso 1, pregunta 8.',
     'RD 500/1990, art. 67.1 (acumulación de fases): examen oficial 1-jun-2025, segunda prueba, caso 1, pregunta 9.',
     'Art. 188 (responsabilidad personal): examen oficial 1-jun-2025, segunda prueba, caso 1, pregunta 10.',
     'Ley 10/2017, arts. 11, 14 y 50 (quién aprueba el presupuesto en Zaragoza): examen oficial 31-may-2026, pregunta 12.',
     'Ley 10/2017, art. 49 (ordenanzas fiscales en Zaragoza): examen oficial 31-may-2026, pregunta 37.',
-    'Art. 173.2 (inembargabilidad): examen oficial 31-may-2026, segundo ejercicio, supuesto 1, pregunta 9. Ojo: la plantilla da que no cabe embargo, pero los tres inmuebles del enunciado son patrimoniales no afectados a un uso o servicio público, que es justo la excepción del art. 173.2. Quédate con la ley.'
+    'Art. 173.2 (cabe embargo y mandamiento de ejecución sobre bienes patrimoniales no afectados a un uso o servicio público): examen oficial 31-may-2026, segundo ejercicio, supuesto 1, pregunta 9.'
   ]
 });

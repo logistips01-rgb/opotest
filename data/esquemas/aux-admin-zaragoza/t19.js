@@ -87,8 +87,8 @@ registerEsquema('aux-admin-zaragoza', 19, {
       ]},
       {tipo: 'columnas', cols: [
         {titulo: 'Ampliar la plantilla · TRRL 126.2', reglas: [
-          {t: 'a) Si el mayor gasto se <b>compensa</b> reduciendo otras unidades o capítulos de gastos corrientes no ampliables.', examen: '2025'},
-          {t: 'b) Si deriva de servicios <b>obligatorios</b> impuestos por disposiciones legales.', examen: '2025'}
+          {t: 'a) Si el mayor gasto se <b>compensa</b> reduciendo otras unidades o capítulos de gastos corrientes no ampliables.'},
+          {t: 'b) Si deriva de servicios <b>obligatorios</b> impuestos por disposiciones legales.'}
         ]},
         {titulo: 'Oferta de empleo e interinos · LBRL 91 y TRRL 128', reglas: [
           'Oferta pública, según la normativa básica estatal. Se aprueba y publica en <b>1 mes</b> desde el Presupuesto.',
@@ -223,6 +223,6 @@ registerEsquema('aux-admin-zaragoza', 19, {
     'Art. 104 bis.1.g LBRL (0,7 % de eventuales en municipios de más de 500.000 habitantes): examen oficial 31-may-2026, pregunta 25.',
     'Art. 171 TRRL (Técnicos Superiores, Medios y Auxiliares de la Subescala Técnica de Administración Especial): examen oficial 31-may-2026, pregunta 30.',
     'Arts. 167 y ss. TRRL (Personal de Oficios, en Servicios Especiales de Administración Especial): examen oficial 1-jun-2025, pregunta 41.',
-    'Art. 126.2 TRRL (ampliación de la plantilla): examen oficial 1-jun-2025, segunda prueba, supuesto 2, pregunta 19. La clave del banco es «Todas las respuestas anteriores son correctas». El art. 126.2 recoge dos supuestos: a) gasto compensado con reducción de otras unidades o capítulos de gastos corrientes no ampliables; b) establecimiento o ampliación de servicios obligatorios impuestos por disposiciones legales. La opción de urgencia y necesidad no figura en el texto, y la b) del examen dice «establecimiento o reducción» y «disposiciones legales o reglamentarias».'
+    'Art. 126.2 TRRL (ampliación de la plantilla): examen oficial 1-jun-2025, segunda prueba, supuesto 2, pregunta 19. La respuesta tomada como oficial (la plantilla de ese examen no está publicada) es «Todas las respuestas anteriores son correctas». El art. 126.2 solo recoge dos supuestos: que el incremento del gasto quede compensado mediante la reducción de otras unidades o capítulos de gastos corrientes no ampliables, y que sea consecuencia del establecimiento o ampliación de servicios de carácter obligatorio impuestos por disposiciones legales. La urgencia y necesidad no figura, y la opción sobre servicios obligatorios dice «establecimiento o reducción» y «disposiciones legales o reglamentarias». El esquema sigue la ley y no marca este punto.'
   ]
 });

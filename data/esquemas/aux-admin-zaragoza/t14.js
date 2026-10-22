@@ -169,7 +169,7 @@ registerEsquema('aux-admin-zaragoza', 14, {
         ['Consejo Social de la Ciudad (131)', 'Organizaciones económicas, sociales, profesionales y de vecinos más representativas. Informes sobre desarrollo económico local, planificación estratégica y grandes proyectos urbanos.'],
         ['Comisión de Sugerencias y Reclamaciones (132)', 'La crea el Pleno, con todos los grupos en proporción. Da cuenta al Pleno en un <b>informe anual</b>.'],
         ['Gestión económico-financiera (133-136)', 'Titulares de habilitación nacional, salvo el de presupuestación. El Pleno puede crear un órgano de gestión tributaria. <b>Intervención general municipal</b> con plena autonomía.'],
-        ['Reclamaciones económico-administrativas (137)', 'Resuelve reclamaciones sobre tributos e ingresos de derecho público y dictamina los proyectos de ordenanzas fiscales. Su resolución pone fin a la vía administrativa: <b>solo cabe contencioso-administrativo</b> {{examen:2025}}. Reposición previa potestativa. Número impar, mínimo 3, nombrados por el Pleno por mayoría absoluta.'],
+        ['Reclamaciones económico-administrativas (137)', 'Resuelve reclamaciones sobre tributos e ingresos de derecho público y dictamina los proyectos de ordenanzas fiscales. Su resolución pone fin a la vía administrativa: <b>solo cabe contencioso-administrativo</b> {{examen:2025}} {{examen:2026}}. Reposición previa potestativa {{examen:2026}}. Número impar, mínimo 3, nombrados por el Pleno por mayoría absoluta.'],
         ['Conferencia de Ciudades (138)', 'En la Conferencia sectorial para asuntos locales: AGE, comunidades autónomas y alcaldes de gran población.']
       ]}
     ]},
@@ -191,8 +191,8 @@ registerEsquema('aux-admin-zaragoza', 14, {
     {titulo: 'Ley de capitalidad: Pleno, Alcalde y Gobierno', a: 'arts. 10-18 Ley 10/2017', bloques: [
       {tipo: 'tabla', cab: ['Órgano', 'Lo que hay que saber'], filas: [
         ['Pleno (10-11)', 'Lo preside el Alcalde, salvo legislación electoral o delegación en un concejal. Sus Comisiones dictaminan las <b>ordenanzas y Reglamentos</b> antes del Pleno. Aprueba presupuestos {{examen:2026}}, ordenanzas, Reglamentos orgánicos y el código ético. Regla general: mayoría simple.'],
-        ['Alcalde (12)', 'Dirige el Gobierno de Zaragoza, ostenta la máxima representación del municipio y <b>responde ante el Pleno</b> {{examen:2026}}. Nombra a los miembros del Gobierno, Tenientes de Alcalde y Presidentes de distritos. Jefatura de la Policía Local.'],
-        ['Gobierno de Zaragoza (13-14)', 'Órgano colegiado ejecutivo. Máximo <b>un tercio</b> del número legal del Pleno, además del Alcalde. Deliberaciones <b>secretas, salvo</b> en atribuciones delegadas por el Pleno {{examen:2026}}. Aprueba los proyectos de ordenanzas, Reglamentos y presupuesto {{examen:2026}}; licencias, contratación, patrimonio, RPT y oferta de empleo.'],
+        ['Alcalde (12)', 'Dirige el Gobierno de Zaragoza, ostenta la <b>máxima representación del municipio</b> {{examen:2026}} y responde ante el Pleno. Nombra a los miembros del Gobierno, Tenientes de Alcalde y Presidentes de distritos. Jefatura de la Policía Local.'],
+        ['Gobierno de Zaragoza (13-14)', 'Órgano colegiado ejecutivo. Máximo <b>un tercio</b> del número legal del Pleno, además del Alcalde. Deliberaciones <b>secretas, salvo</b> en atribuciones delegadas por el Pleno {{examen:2026}}. Aprueba los proyectos de ordenanzas, Reglamentos y presupuesto {{examen:2026}}; licencias, contratación, patrimonio {{examen:2026}}, RPT y oferta de empleo.'],
         ['Otros (15-18)', 'Grupos municipales con portavoz; <b>Junta de Portavoces</b>, presidida por el Alcalde o el Teniente en quien delegue. El Gobierno de Zaragoza puede crear un Consejo Jurídico Municipal (informes y dictámenes no vinculantes). Puede haber comisiones específicas de asesoramiento para dictaminar recursos administrativos; sus funciones, composición y funcionamiento los fija el Gobierno de Zaragoza en el acuerdo de creación.']
       ]},
       {tipo: 'columnas', cols: [
@@ -227,14 +227,14 @@ registerEsquema('aux-admin-zaragoza', 14, {
     'Art. 13.4.f LBRL (dispensa de nuevos servicios mínimos tras una fusión, sin plazo): examen oficial 1-jun-2025, pregunta 4.',
     'Art. 26.1.b LBRL (biblioteca pública, más de 5.000 habitantes): examen oficial 1-jun-2025, pregunta 15.',
     'Art. 121.1 LBRL (capital de provincia: decide la Asamblea Legislativa): examen oficial 1-jun-2025, pregunta 17.',
-    'Art. 137.2 LBRL (solo recurso contencioso-administrativo): examen oficial 1-jun-2025, pregunta 22.',
+    'Art. 137.2 LBRL (solo recurso contencioso-administrativo): examen oficial 1-jun-2025, pregunta 22, y examen oficial 31-may-2026, segundo ejercicio, supuesto 2, pregunta 20.',
     'Art. 126.2 LBRL (un tercio del Pleno, además del Alcalde): examen oficial 1-jun-2025, pregunta 36.',
     'Arts. 122.1 y 124.1 LBRL (el Pleno, máxima representación política): examen oficial 1-jun-2025, pregunta 37.',
     'Art. 127.1.b LBRL (la JGL aprueba el proyecto de presupuesto): examen oficial 1-jun-2025, pregunta 43.',
     'Art. 27.1 LBRL (delegación no inferior a cinco años): examen oficial 1-jun-2025, pregunta 46.',
     'Art. 6 Ley 10/2017 (títulos de la ciudad): examen oficial 31-may-2026, pregunta 1.',
     'Art. 12.2-12.3 Ley 10/2017 (bandos indelegables): examen oficial 31-may-2026, pregunta 2.',
-    'Art. 12.1 Ley 10/2017 (el Alcalde representa al municipio y responde ante el Pleno): examen oficial 31-may-2026, pregunta 6.',
+    'Art. 12.1 Ley 10/2017 (representar al municipio es atribución del Alcalde; responder ante el Pleno no figura entre sus atribuciones): examen oficial 31-may-2026, pregunta 6.',
     'Art. 129.2 LBRL (asesoría jurídica: hay que ser funcionario): examen oficial 31-may-2026, pregunta 8.',
     'Art. 121.1 LBRL (por qué Zaragoza es gran población): examen oficial 31-may-2026, pregunta 9.',
     'Arts. 11 y 14 Ley 10/2017 (presupuesto: proyecto del Gobierno, aprobación del Pleno): examen oficial 31-may-2026, pregunta 12.',
@@ -242,6 +242,8 @@ registerEsquema('aux-admin-zaragoza', 14, {
     'Art. 13.5 Ley 10/2017 (deliberaciones del Gobierno de Zaragoza): examen oficial 31-may-2026, pregunta 36.',
     'Art. 26.1.a LBRL (alcantarillado en todos los municipios): examen oficial 31-may-2026, pregunta 43.',
     'Art. 13.4 LBRL (fusión de municipios colindantes de la misma provincia): examen oficial 31-may-2026, pregunta 46.',
-    'Art. 16.1 LBRL (el padrón prueba residencia y domicilio habitual): examen oficial 31-may-2026, pregunta 47.'
+    'Art. 16.1 LBRL (el padrón prueba residencia y domicilio habitual): examen oficial 31-may-2026, pregunta 47.',
+    'Art. 14.1.g Ley 10/2017 (las competencias ejecutivas y de gestión sobre el patrimonio municipal son del Gobierno de Zaragoza): examen oficial 31-may-2026, segundo ejercicio, supuesto 1, pregunta 10.',
+    'Arts. 108 y 137 LBRL (la reposición previa a la reclamación económico-administrativa es potestativa): examen oficial 31-may-2026, segundo ejercicio, supuesto 2, pregunta 18.'
   ]
 });

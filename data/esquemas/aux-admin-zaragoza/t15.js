@@ -236,8 +236,8 @@ registerEsquema('aux-admin-zaragoza', 15, {
     'Art. 2 ROTPC (Juntas Municipales y Juntas Vecinales): examen oficial 1-jun-2025, pregunta 31.',
     'Art. 51 ROTPC (10 % del padrón para proponer reglamentos y ordenanzas): examen oficial 1-jun-2025, pregunta 32.',
     'Arts. 72 y 78 ROTPC (Censo e Interés ciudadano para usar Centros Cívicos): examen oficial 31-may-2026, pregunta 10.',
-    'DA 3.ª ROTPC (Unión Vecinal Cesaraugusta y Federación de Asociaciones de Barrios): examen oficial 31-may-2026, pregunta 13. Ojo: la plantilla oficial dio por buena la opción c), «Las respuestas a) y b) son correctas», es decir, también la a), «La declaración de entidad ciudadana». La DA 3.ª solo dice: «Se reconoce a la Unión Vecinal Cesaraugusta y a la Federación de Asociaciones de Barrios de Zaragoza la declaración de Interés público municipal» (opción b). El Reglamento no regula ninguna «declaración de entidad ciudadana». El esquema sigue el texto.',
-    'Manual, principio 9 (información veraz y concreta): examen oficial 31-may-2026, pregunta 15. Ojo: el enunciado dice que el Manual «concluye con quince principios básicos», pero el Manual numera 14 (págs. 40-45). La respuesta correcta, c), sí coincide con el texto del principio 9.',
-    'Art. 31 ROTPC (nombre tradicional del Presidente de cada Barrio Rural): examen oficial 31-may-2026, pregunta 29. Ojo: la plantilla oficial dio por buena la opción a), «Alcalde pedáneo», pero el art. 31 dice «El Presidente, que recibe el nombre tradicional de Alcalde del Barrio» (opción b). La palabra «pedáneo» no aparece en el Reglamento. El esquema sigue el texto.'
+    'DA 3.ª ROTPC (la Unión Vecinal Cesaraugusta y la Federación de Asociaciones de Barrios tienen la declaración de Interés público municipal): examen oficial 31-may-2026, pregunta 13.',
+    'Manual, principio 9 (información veraz y concreta): examen oficial 31-may-2026, pregunta 15. El enunciado dice que el Manual «concluye con quince principios básicos», pero el Manual numera 14 (págs. 40-45). La respuesta oficial, que da por buenas las dos afirmaciones, sí coincide con el texto del principio 9.',
+    'Art. 31 ROTPC (el Presidente de cada Barrio Rural recibe el nombre tradicional de Alcalde del Barrio): examen oficial 31-may-2026, pregunta 29.'
   ]
 });

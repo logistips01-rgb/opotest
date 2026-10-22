@@ -187,7 +187,7 @@ registerEsquema('aux-admin-zaragoza', 9, {
     'DA 2.ª.4 (gran población: el Pleno aprueba los pliegos de cláusulas administrativas generales): examen oficial 1-jun-2025, pregunta 33.',
     'DA 2.ª.7 (presidencia de la Mesa de contratación): examen oficial 1-jun-2025, pregunta 34.',
     'DA 3.ª.6 (supervisión de proyectos en las entidades locales): examen oficial 1-jun-2025, pregunta 35.',
-    'DA 3.ª.8 (informes del Secretario en municipios de gran población): examen oficial 31-may-2026, pregunta 11. Ojo: la respuesta que consta como correcta es la c), «Al titular del Órgano de Apoyo a la Junta de Gobierno o al titular de la asesoría jurídica según cual sea el importe del contrato o la duración del mismo». La redacción vigente de la DA 3.ª.8 no reparte por importe ni por duración: atribuye esos informes al titular de la asesoría jurídica (opción b) y al titular del Órgano de Apoyo le da la coordinación de las obligaciones de publicidad e información. El esquema sigue la ley.',
+    'DA 3.ª.8 (en gran población, los informes atribuidos al Secretario los emite el titular de la asesoría jurídica): examen oficial 31-may-2026, pregunta 11.',
     'Art. 15 (definición del contrato de concesión de servicios): examen oficial 31-may-2026, pregunta 20.'
   ]
 });

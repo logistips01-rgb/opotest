@@ -205,10 +205,10 @@ registerEsquema('aux-admin-zaragoza', 6, {
   ],
 
   examenes: [
-    'Art. 35.1.c (actos que se separan del criterio de actuaciones precedentes o del dictamen de órganos consultivos): examen oficial 1-jun-2025, pregunta 13. La respuesta tomada como oficial (clave del banco, a falta de plantilla) es solo «Los actos que se separen del criterio seguido en actuaciones precedentes» y deja fuera «Los actos que se separen del dictamen preceptivo de órganos consultivos». El art. 35.1.c recoge los dos casos («o del dictamen de órganos consultivos») sin distinguir si el dictamen es preceptivo. El esquema sigue la ley y no marca este punto.',
+    'Art. 35.1.c (actos que se separan del criterio de actuaciones precedentes o del dictamen de órganos consultivos): examen oficial 1-jun-2025, pregunta 13. La respuesta tomada como oficial (la plantilla de ese examen no está publicada) es solo «Los actos que se separen del criterio seguido en actuaciones precedentes» y deja fuera «Los actos que se separen del dictamen preceptivo de órganos consultivos». El art. 35.1.c recoge los dos casos («o del dictamen de órganos consultivos») sin distinguir si el dictamen es preceptivo. El esquema sigue la ley y no marca este punto.',
     'Arts. 47 y 48 (la infracción del ordenamiento y la desviación de poder no son nulidad): examen oficial 1-jun-2025, pregunta 21.',
     'Art. 37.1 (inderogabilidad singular, «aunque» proceda de órgano de igual o superior jerarquía): examen oficial 1-jun-2025, pregunta 47.',
-    'Art. 40.2 (plazo y contenido de la notificación): examen oficial 1-jun-2025, pregunta 48. La respuesta tomada como oficial (clave del banco, a falta de plantilla) da por buenas las dos afirmaciones, también «Toda notificación deberá ser cursada dentro del plazo de quince días a partir de la fecha en que el acto haya sido dictado». El art. 40.2 dice <b>diez días</b>. El esquema sigue la ley y no marca este punto.',
+    'Art. 40.2 (plazo y contenido de la notificación): examen oficial 1-jun-2025, pregunta 48. La respuesta tomada como oficial (la plantilla de ese examen no está publicada) da por buenas las dos afirmaciones, también «Toda notificación deberá ser cursada dentro del plazo de quince días a partir de la fecha en que el acto haya sido dictado». El art. 40.2 dice <b>diez días</b>. El esquema sigue la ley y no marca este punto.',
     'Art. 40.3 (notificación con texto íntegro a la que faltan otros requisitos): examen oficial 31-may-2026, pregunta 35.',
     'Art. 48.2 (defecto de forma): examen oficial 31-may-2026, pregunta 38.'
   ]
