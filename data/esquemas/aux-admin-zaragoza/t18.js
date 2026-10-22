@@ -40,7 +40,7 @@ registerEsquema('aux-admin-zaragoza', 18, {
   cifras: [
     {v: '16 años', d: 'Edad mínima para participar en procesos selectivos', a: 'art. 56.1.c'},
     {v: '7 %', d: 'Cupo mínimo de vacantes para personas con discapacidad (al menos un 2 % para discapacidad intelectual) {{examen:2025}}', a: 'art. 59.1'},
-    {v: '65 años', d: 'Jubilación forzosa; prolongación posible hasta los 70', a: 'art. 67.3'},
+    {v: '65 años', d: 'Jubilación forzosa, de oficio; prolongación posible hasta los 70. Si está en el Régimen General de la Seguridad Social: la edad de su pensión contributiva sin coeficiente reductor (67.4)', a: 'art. 67.3-4'},
     {v: '5 años', d: 'Servicios previos para la excedencia voluntaria por interés particular {{examen:2025}}', a: 'art. 89.2'},
     {v: '3 años', d: 'Máximo de excedencia por cuidado de cada hijo o de un familiar', a: 'art. 89.4'},
     {v: '2 años', d: 'Reserva del puesto en la excedencia por cuidado de familiares (como mínimo)', a: 'art. 89.4'},
@@ -74,7 +74,7 @@ registerEsquema('aux-admin-zaragoza', 18, {
         {t: 'Nacionales de la UE: acceso como <b>funcionarios</b>, salvo empleos con participación en el poder público o salvaguardia de los intereses del Estado.', a: '57.1'},
         {t: 'También su cónyuge no separado de derecho y los descendientes <b>menores de 21 años</b> o mayores dependientes.', a: '57.2'},
         {t: 'Extranjeros con residencia legal: solo como <b>personal laboral</b>. Eximir de la nacionalidad para ser funcionario: <b>solo por ley</b> de las Cortes o de un parlamento autonómico.', a: '57.4-5'},
-        {t: 'Discapacidad: cupo <b>no inferior al 7 %</b> de las vacantes; de él, al menos el <b>2 %</b> de las plazas para discapacidad intelectual y el resto para otras discapacidades.', a: '59.1', examen: '2025'}
+        {t: 'Discapacidad: cupo <b>no inferior al 7 %</b> de las vacantes; de él, al menos el <b>2 %</b> de las plazas para discapacidad intelectual y el resto para otras discapacidades (con los mínimos: 2 % + <b>5 %</b>). Objetivo: llegar progresivamente al 2 % de los efectivos totales de cada Administración.', a: '59.1', examen: '2025'}
       ]},
       {tipo: 'columnas', cols: [
         {titulo: 'Órganos de selección · art. 60', reglas: [
@@ -111,7 +111,7 @@ registerEsquema('aux-admin-zaragoza', 18, {
         {t: '<b>Renuncia</b>: por escrito y aceptada expresamente. No se acepta si hay expediente disciplinario o auto de procesamiento o de apertura de juicio oral. No impide volver a ingresar por un nuevo proceso.', a: '64'},
         {t: '<b>Nacionalidad</b>: no se pierde la condición si a la vez se adquiere la de otro Estado de los que dan acceso.', a: '65'},
         {t: '<b>Inhabilitación</b>: la absoluta afecta a todos los empleos o cargos; la especial, solo a los que diga la sentencia.', a: '66'},
-        {t: '<b>Jubilación</b>: voluntaria, forzosa (65 años, de oficio; prolongación hasta 70 según las leyes de desarrollo) o por incapacidad permanente.', a: '67'},
+        {t: '<b>Jubilación</b>: voluntaria, forzosa (65 años, de oficio; prolongación hasta 70 según las leyes de desarrollo) o por incapacidad permanente. En el Régimen General de la Seguridad Social, la forzosa es a la edad de la pensión contributiva sin coeficiente reductor.', a: '67'},
         {t: '<b>Rehabilitación</b>: por nacionalidad o incapacidad, desaparecida la causa, <b>se concede</b>. Por inhabilitación, es excepcional; sin resolución expresa en plazo, se entiende <b>desestimada</b>.', a: '68'}
       ]}
     ]},
@@ -250,7 +250,7 @@ registerEsquema('aux-admin-zaragoza', 18, {
   ],
 
   examenes: [
-    'Art. 59.1 (cupo del 7 % con al menos el 2 % para discapacidad intelectual): examen oficial 1-jun-2025, pregunta 20.',
+    'Art. 59.1 (cupo del 7 %: al menos el 2 % para discapacidad intelectual y el resto, el 5 %, para otras discapacidades): examen oficial 1-jun-2025, pregunta 20.',
     'Art. 89.2 (cinco años para la excedencia por interés particular): examen oficial 1-jun-2025, pregunta 9.',
     'Art. 95.2.i (desobediencia abierta, salvo infracción manifiesta del ordenamiento jurídico): examen oficial 1-jun-2025, pregunta 18.'
   ]

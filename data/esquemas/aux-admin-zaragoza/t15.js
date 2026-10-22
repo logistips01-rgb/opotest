@@ -82,7 +82,7 @@ registerEsquema('aux-admin-zaragoza', 15, {
         {titulo: 'Órganos · arts. 14-17', reglas: [
           'Necesarios: el <b>Presidente</b> y el <b>Pleno</b>. Potestativos: el Consejo Rector y los grupos de trabajo.',
           'El <b>Alcalde</b> es Presidente nato de todas las Juntas Municipales y puede delegar la Presidencia efectiva en un Concejal.',
-          'Pleno de la Junta: el Presidente, <b>10 vocales</b> nombrados por el Alcalde a propuesta de los grupos, los Presidentes de Concejos Locales y, con voz y sin voto, un representante de cada Asociación de Vecinos inscrita en el Censo.',
+          'Pleno de la Junta: el Presidente, <b>10 vocales</b> nombrados por el Alcalde a propuesta de los grupos y los Presidentes de Concejos Locales. Con voz y sin voto: un representante de cada Asociación de Vecinos del territorio inscrita en el Censo y un representante por cada uno de estos grupos: padres de alumnos, juveniles, mayores, empresarios y comerciantes, y resto de entidades.',
           'El cargo de vocal es <b>honorífico</b> y dura lo que el mandato de la Corporación.'
         ]},
         {titulo: 'Funcionamiento · arts. 18-28', reglas: [
@@ -99,7 +99,7 @@ registerEsquema('aux-admin-zaragoza', 15, {
     {titulo: 'Barrios rurales y Concejos Locales', a: 'arts. 29-36', bloques: [
       {tipo: 'lista', items: [
         {t: 'El Alcalde puede delegar en un concejal la presidencia efectiva del <b>Distrito Rural</b>. Ese Concejal Presidente debe conformar los acuerdos de las Juntas Vecinales antes de su ejecución.', a: 'art. 29'},
-        {t: 'Órganos necesarios de cada Barrio Rural: el Presidente, con el nombre tradicional de <b>Alcalde del Barrio</b>, y el Pleno.', a: 'art. 31'},
+        {t: 'Órganos necesarios de cada Barrio Rural: el Presidente, con el nombre tradicional de <b>Alcalde del Barrio</b>, y el Pleno.', a: 'art. 31', examen: '2026'},
         {t: 'El <b>Alcalde de Barrio</b> es representante personal del Alcalde: vecino mayor de edad que obtiene más votos en un proceso de consulta a los vecinos. Cargo <b>retribuido</b>; dura el mandato de la Corporación.', a: 'art. 32'},
         {t: 'Vocales de la Junta Vecinal: <b>4</b> si tiene menos de 2.000 habitantes; <b>6</b> las demás.', a: 'art. 33'},
         {t: 'Consejo Territorial de Alcaldes de Barrio: coordinación, información y propuesta. Lo preside el Concejal Presidente del Distrito Rural; sesión ordinaria como mínimo una vez al trimestre.', a: 'art. 30'}
@@ -118,7 +118,7 @@ registerEsquema('aux-admin-zaragoza', 15, {
       ]},
       {tipo: 'tabla', cab: ['Instrumento', 'Qué es', 'Quién la pide y requisitos'], filas: [
         ['Iniciativa Ciudadana (51)', 'Los ciudadanos piden una actividad de interés municipal aportando medios, bienes, derechos o trabajo. Decide la JGL o el Pleno.', 'Para proponer reglamentos y ordenanzas: mayores de edad empadronados que sean el <b>10 % del padrón</b> {{examen:2025}}.'],
-        ['Audiencia Pública (52)', 'Oral y en unidad de acto, para proponer acuerdos o recibir información. Ámbito de ciudad o de Junta.', 'Juntas, Consejo de la Ciudad, Comisión de Sugerencias, entidades o el <b>10 % del padrón</b> (en una Junta, nunca hace falta aportar más de 300 firmas en las Vecinales ni más de 3.000 en las Municipales). Se convoca en un mes como máximo, con 15 días de antelación.'],
+        ['Audiencia Pública (52)', 'Oral y en unidad de acto, para proponer acuerdos o recibir información. Ámbito de ciudad o de Junta.', 'De ciudad: Juntas, Consejo de la Ciudad, Comisión de Sugerencias, entidades o el <b>10 % del padrón</b>. De Junta: los mismos salvo las Juntas, con el 10 % del padrón de la Junta (nunca más de 300 firmas en las Vecinales ni de 3.000 en las Municipales). Se convoca en un mes como máximo, con 15 días de antelación.'],
         ['Consulta Popular (53)', 'Asuntos de competencia propia de especial importancia, <b>salvo los de Haciendas Locales</b>.', 'La somete el Alcalde, previo acuerdo del Pleno por <b>mayoría absoluta</b>. La autoriza el <b>Gobierno del Estado</b>. Se celebra entre 30 y 60 días después de publicar la convocatoria en el BOA.'],
         ['Encuesta ciudadana (54)', 'Opinión de vecinos y entidades. La recoge el Observatorio Urbano.', 'Mayores de 16 años empadronados: <b>3 %</b> del padrón para la ciudad; 10 % en un Distrito; 25 % en un Barrio Rural.']
       ]},
@@ -236,7 +236,8 @@ registerEsquema('aux-admin-zaragoza', 15, {
     'Art. 2 ROTPC (Juntas Municipales y Juntas Vecinales): examen oficial 1-jun-2025, pregunta 31.',
     'Art. 51 ROTPC (10 % del padrón para proponer reglamentos y ordenanzas): examen oficial 1-jun-2025, pregunta 32.',
     'Arts. 72 y 78 ROTPC (Censo e Interés ciudadano para usar Centros Cívicos): examen oficial 31-may-2026, pregunta 10.',
-    'DA 3.ª ROTPC (Unión Vecinal Cesaraugusta y Federación de Asociaciones de Barrios): examen oficial 31-may-2026, pregunta 13.',
-    'Manual, principio 9 (información veraz y concreta): examen oficial 31-may-2026, pregunta 15.'
+    'DA 3.ª ROTPC (Unión Vecinal Cesaraugusta y Federación de Asociaciones de Barrios): examen oficial 31-may-2026, pregunta 13. Ojo: la plantilla oficial dio por buena la opción c), «Las respuestas a) y b) son correctas», es decir, también la a), «La declaración de entidad ciudadana». La DA 3.ª solo dice: «Se reconoce a la Unión Vecinal Cesaraugusta y a la Federación de Asociaciones de Barrios de Zaragoza la declaración de Interés público municipal» (opción b). El Reglamento no regula ninguna «declaración de entidad ciudadana». El esquema sigue el texto.',
+    'Manual, principio 9 (información veraz y concreta): examen oficial 31-may-2026, pregunta 15. Ojo: el enunciado dice que el Manual «concluye con quince principios básicos», pero el Manual numera 14 (págs. 40-45). La respuesta correcta, c), sí coincide con el texto del principio 9.',
+    'Art. 31 ROTPC (nombre tradicional del Presidente de cada Barrio Rural): examen oficial 31-may-2026, pregunta 29. Ojo: la plantilla oficial dio por buena la opción a), «Alcalde pedáneo», pero el art. 31 dice «El Presidente, que recibe el nombre tradicional de Alcalde del Barrio» (opción b). La palabra «pedáneo» no aparece en el Reglamento. El esquema sigue el texto.'
   ]
 });

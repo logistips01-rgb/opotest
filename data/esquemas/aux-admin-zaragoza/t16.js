@@ -1,17 +1,20 @@
 /* Esquema · Auxiliar Administrativo · Tema 16
    Fuentes: Ley 7/1985 (LBRL), BOE-A-1985-5392, art. 49 y concordantes; RDLeg 781/1986 (TRRL),
    BOE-A-1986-9865, arts. 55-58; RDLeg 2/2004 (TRLRHL), BOE-A-2004-4214, arts. 15-19;
-   Ley 10/2017 de capitalidad de Zaragoza, BOE-A-2018-1683, arts. 48-49 (y 10.4, 14.1).
+   Ley 10/2017 de capitalidad de Zaragoza, BOE-A-2018-1683, arts. 48-49 (y 10.4, 14.1);
+   Ley 7/1999 de Administración Local de Aragón, BOE-A-1999-10151, arts. 139.1 y 142.1
+   (preguntados en el examen de 1-jun-2025).
    Formato: ver data/esquemas/FORMATO.md */
 registerEsquema('aux-admin-zaragoza', 16, {
   titulo: 'Reglamentos y ordenanzas municipales',
   epigrafe: 'Reglamentos y ordenanzas de los municipios. La aprobación de ordenanzas, ordenanzas fiscales y Reglamentos en la ley de capitalidad de Zaragoza.',
   etiquetas: ['LBRL art. 49 · TRRL arts. 55-58', 'TRLRHL arts. 15-19', 'Ley 10/2017 arts. 48-49'],
   fuentes: [
-    'Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local. Texto consolidado BOE-A-1985-5392 (última actualización publicada el 03/10/2026), arts. 4, 22, 47, 49, 65, 70, 70 bis, 123 y 127.',
+    'Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local. Texto consolidado BOE-A-1985-5392 (última actualización publicada el 03/10/2026), arts. 4, 20, 22, 47, 49, 65, 70, 70 bis, 122, 123 y 127.',
     'Real Decreto Legislativo 781/1986, de 18 de abril, texto refundido de las disposiciones legales vigentes en materia de Régimen Local. Texto consolidado BOE-A-1986-9865 (última actualización publicada el 09/11/2024), arts. 55 a 58.',
     'Real Decreto Legislativo 2/2004, de 5 de marzo, texto refundido de la Ley Reguladora de las Haciendas Locales. Texto consolidado BOE-A-2004-4214 (última actualización publicada el 07/10/2026), arts. 15 a 19.',
-    'Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón. Texto consolidado BOE-A-2018-1683 (última actualización publicada el 15/01/2019), arts. 10, 14, 48 y 49.'
+    'Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón. Texto consolidado BOE-A-2018-1683 (última actualización publicada el 15/01/2019), arts. 10, 14, 48 y 49.',
+    'Ley 7/1999, de 9 de abril, de Administración Local de Aragón. Texto consolidado BOE-A-1999-10151 (última actualización publicada el 25/10/2022), arts. 139 y 142.'
   ],
 
   esencial: [
@@ -40,6 +43,9 @@ registerEsquema('aux-admin-zaragoza', 16, {
     {titulo: 'Ley 10/2017 (capitalidad)', rango: 'cap. V, arts. 48-49', items: [
       ['10.4.b', 'Comisiones: dictamen de ordenanzas'], ['14.1.a', 'Gobierno: proyectos de ordenanzas'],
       ['48', 'Ordenanzas y Reglamentos'], ['49', 'Ordenanzas fiscales']
+    ]},
+    {titulo: 'Ley 7/1999 (Administración Local de Aragón)', rango: 'tít. V, cap. III', items: [
+      ['139', 'Reglamentos y ordenanzas'], ['142', 'Bandos']
     ]}
   ],
 
@@ -55,13 +61,17 @@ registerEsquema('aux-admin-zaragoza', 16, {
   ],
 
   secciones: [
-    {titulo: 'Potestad normativa local', a: 'art. 4.1.a LBRL y arts. 55-58 TRRL', bloques: [
+    {titulo: 'Potestad normativa local', a: 'art. 4.1.a LBRL, arts. 55-58 TRRL y arts. 139 y 142 Ley 7/1999', bloques: [
       {tipo: 'lista', items: [
         {t: 'Los municipios tienen, en la esfera de sus competencias, la <b>potestad reglamentaria</b> y de autoorganización.', a: 'art. 4.1.a LBRL'},
         {t: 'Las entidades locales aprueban <b>Ordenanzas y Reglamentos</b>; los <b>Alcaldes</b> dictan <b>Bandos</b>. Nunca pueden contener preceptos opuestos a las leyes.', a: 'art. 55 TRRL'},
         {t: 'Las Ordenanzas se aprueban por el procedimiento del art. 49 LBRL. Para <b>modificar</b> Ordenanzas y Reglamentos hay que seguir los <b>mismos trámites</b> que para aprobarlos.', a: 'art. 56 TRRL'},
         {t: 'Las infracciones de Ordenanzas, Reglamentos y Bandos <b>prescriben</b> en los plazos que el Código Penal fija para las faltas, salvo lo que establezcan las leyes.', a: 'art. 57 TRRL'},
         {t: 'Multas por infracción de Ordenanzas no pagadas voluntariamente: procedimiento administrativo de <b>apremio</b>.', a: 'art. 58 TRRL'}
+      ]},
+      {tipo: 'lista', tinte: true, items: [
+        {t: 'Aragón: las disposiciones generales locales se llaman <b>reglamentos</b> si regulan la organización y funcionamiento de la entidad local y, en otro caso, <b>ordenanzas</b>.', a: 'art. 139.1 Ley 7/1999', examen: '2025'},
+        {t: 'Los <b>bandos</b> de los Alcaldes se publican <b>conforme a los usos y costumbre de la localidad</b>.', a: 'art. 142.1 Ley 7/1999', examen: '2025'}
       ]}
     ]},
 
@@ -149,11 +159,12 @@ registerEsquema('aux-admin-zaragoza', 16, {
 
     {titulo: 'Régimen general frente a ley de capitalidad', a: 'art. 49 LBRL, art. 17 TRLRHL y arts. 48-49 Ley 10/2017', bloques: [
       {tipo: 'tabla', cab: ['Trámite', 'Régimen general', 'Zaragoza (Ley 10/2017)'], filas: [
-        ['Iniciativa', 'El art. 49 LBRL empieza en la aprobación inicial. En gran población, la JGL aprueba los proyectos (127.1.a LBRL).', 'Gobierno (proyecto), grupos políticos (proposición) o iniciativa popular (48.2).'],
+        ['Iniciativa', 'El art. 49 LBRL empieza en la aprobación inicial. En gran población, la JGL aprueba los proyectos (127.1.a LBRL). Los vecinos pueden presentar proyectos de reglamentos por iniciativa popular (70 bis.2 LBRL).', 'Gobierno (proyecto), grupos políticos (proposición) o iniciativa popular «en los términos previstos en la normativa básica» (48.2).'],
         ['Primer acuerdo', 'Aprobación inicial por el <b>Pleno</b> (49.a).', 'Aprobación del proyecto por el <b>Gobierno de Zaragoza</b> (48.3.a).'],
         ['Información pública', 'Mínimo <b>30 días</b> (49.b).', 'Mínimo <b>30 días naturales</b>, con anuncio en el boletín oficial y el tablón (48.3.b).'],
-        ['Antes del Pleno', 'El art. 49 LBRL no menciona dictamen.', 'Dictamen de la <b>Comisión plenaria</b>, con las reclamaciones (48.3.c).'],
+        ['Antes del Pleno', 'El art. 49 LBRL no menciona dictamen. Las comisiones estudian e informan los asuntos que decide el Pleno (20.1.c y 122.4.a LBRL).', 'Dictamen de la <b>Comisión plenaria</b>, con las reclamaciones (48.3.c y 10.4.b).'],
         ['Aprobación final', 'Resolución de reclamaciones y <b>aprobación definitiva</b> por el Pleno (49.c).', 'Aprobación en <b>acto único</b> por el Pleno, resolviendo las reclamaciones (48.3.d).'],
+        ['Sin reclamaciones', 'El acuerdo provisional se entiende <b>definitivamente adoptado</b> (49, párrafo final).', 'El art. 48 no prevé aprobación tácita: el Pleno aprueba siempre en acto único (48.3.d). Solo las ordenanzas fiscales se entienden aprobadas sin reclamaciones (49.c).'],
         ['Ordenanza fiscal', 'Acuerdo provisional; exposición en el tablón 30 días como mínimo; acuerdo definitivo. Sin reclamaciones, definitivo sin acuerdo plenario (17 TRLRHL).', 'Proyecto del Gobierno; <b>aprobación inicial por la Comisión plenaria</b>; exposición 30 días como mínimo; Pleno en acto único. Sin reclamaciones, definitivamente aprobada (49).']
       ]}
     ]}
@@ -173,6 +184,8 @@ registerEsquema('aux-admin-zaragoza', 16, {
   ],
 
   examenes: [
+    'Art. 139.1 Ley 7/1999 de Administración Local de Aragón (reglamentos u ordenanzas según su objeto): examen oficial 1-jun-2025, pregunta 25.',
+    'Art. 142.1 Ley 7/1999 de Administración Local de Aragón (los bandos se publican conforme a los usos y costumbre de la localidad): examen oficial 1-jun-2025, pregunta 26.',
     'Art. 48.2.b Ley 10/2017 (los grupos políticos, mediante proposición): examen oficial 31-may-2026, pregunta 18.',
     'Art. 49 Ley 10/2017 (ordenanzas fiscales: proyecto del Gobierno, aprobación inicial de la Comisión plenaria y aprobación del Pleno): examen oficial 31-may-2026, pregunta 37.'
   ]

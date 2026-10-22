@@ -1,5 +1,6 @@
 /* Esquema · Auxiliar Administrativo · Tema 19
-   Fuentes: LBRL (Ley 7/1985) BOE-A-1985-5392, Título VII (arts. 89-104 bis);
+   Fuentes: LBRL (Ley 7/1985) BOE-A-1985-5392, Título VII (arts. 89-104 bis; 92 bis.6 en la redacción
+   del RDL 13/2026, en vigor desde el 04/06/2026) y art. 127.1.h;
    TRRL (RDLeg 781/1986) BOE-A-1986-9865, Título VII (arts. 126-177);
    TREBEP (RDLeg 5/2015) BOE-A-2015-11719, art. 3, DA 2.ª, DD única y DF 4.ª.
    Formato: ver data/esquemas/FORMATO.md */
@@ -8,7 +9,7 @@ registerEsquema('aux-admin-zaragoza', 19, {
   epigrafe: 'Los empleados públicos (III): la función pública local.',
   etiquetas: ['LBRL · arts. 89 a 104 bis', 'TRRL · arts. 126 a 177', 'TREBEP · art. 3'],
   fuentes: [
-    'Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local (LBRL). Texto consolidado BOE-A-1985-5392, Título VII, arts. 89 a 104 bis.',
+    'Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local (LBRL). Texto consolidado BOE-A-1985-5392, Título VII, arts. 89 a 104 bis, y art. 127.1.h (municipios de gran población).',
     'Real Decreto Legislativo 781/1986, de 18 de abril, texto refundido de las disposiciones legales vigentes en materia de Régimen Local (TRRL). Texto consolidado BOE-A-1986-9865, Título VII, arts. 126 a 177.',
     'Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido de la Ley del Estatuto Básico del Empleado Público (TREBEP). Texto consolidado BOE-A-2015-11719, art. 3, disposición adicional segunda, disposición derogatoria única y disposición final cuarta.'
   ],
@@ -18,7 +19,7 @@ registerEsquema('aux-admin-zaragoza', 19, {
     {t: 'Las funciones con <b>potestades públicas</b> o de salvaguardia de los intereses generales son <b>exclusivas de funcionarios de carrera</b>. Con carácter general, los puestos son de funcionarios.', a: 'LBRL art. 92.2-3', examen: '2026'},
     {t: 'Habilitación de carácter nacional: <b>Secretaría</b> (fe pública y asesoramiento legal) y <b>control interno, contabilidad, tesorería y recaudación</b>. Tres subescalas.', a: 'LBRL art. 92 bis'},
     {t: 'Los demás funcionarios se integran en la Escala de <b>Administración General</b> (5 subescalas) o de <b>Administración Especial</b> (Técnica y Servicios Especiales).', a: 'TRRL art. 167'},
-    {t: 'Personal eventual: número, características y retribuciones los fija el <b>Pleno</b> al comienzo del mandato; nombra y cesa libremente el <b>Alcalde</b>. Topes por población.', a: 'LBRL arts. 104 y 104 bis'}
+    {t: 'Personal eventual: número, características y retribuciones los fija el <b>Pleno</b> al comienzo del mandato (en municipios de gran población, como Zaragoza, el número y régimen los aprueba la <b>Junta de Gobierno Local</b>: art. 127.1.h); nombra y cesa libremente el <b>Alcalde</b>. Topes por población.', a: 'LBRL arts. 104, 104 bis y 127.1.h'}
   ],
 
   mapa: [
@@ -70,7 +71,8 @@ registerEsquema('aux-admin-zaragoza', 19, {
         {titulo: 'Qué está derogado', reglas: [
           'LBRL, Título VII, cap. III (arts. 98-99): derogado por el TREBEP, DD única.d.',
           'TRRL, Título VII, cap. III (arts. 158-166): derogado por el TREBEP, DD única.e.',
-          'Con el alcance de la DF 4.ª.2: las normas anteriores siguen vigentes <b>en tanto no se opongan</b> al Estatuto.'
+          'Esa derogación tiene el alcance de la DF 4.ª.2: hasta que se dicten las leyes de función pública y sus reglamentos, siguen en vigor las normas sobre ordenación, planificación y gestión de recursos humanos <b>en tanto no se opongan</b> al Estatuto.',
+          'LBRL art. 104 bis, apartados 3 y 4: <b>anulados</b> por la STC 54/2017.'
         ]}
       ]}
     ]},
@@ -103,6 +105,7 @@ registerEsquema('aux-admin-zaragoza', 19, {
         {t: 'Convocatorias siempre libres; hasta el <b>50 %</b> de las plazas puede reservarse a promoción interna.', a: 'TRRL 134.1'},
         {t: 'Publicación: <b>anuncios</b> de convocatorias en el <b>BOE</b>; <b>bases</b> en el <b>BOP</b> (las de habilitación nacional, en el BOE).', a: 'LBRL 97'},
         {t: 'El <b>Presidente</b> aprueba las bases y convoca; el tribunal le eleva la relación de aprobados y él nombra. También resuelve los concursos de provisión.', a: 'LBRL 102'},
+        {t: 'Municipios de gran población, como Zaragoza: la <b>Junta de Gobierno Local</b> aprueba la RPT, la oferta de empleo público, las bases de las convocatorias de selección y provisión y el número y régimen del personal eventual.', a: 'LBRL 127.1.h'},
         {t: 'Provisión de puestos: convocatoria pública por <b>concurso de méritos</b> o <b>libre designación</b>. Pueden participar funcionarios de otras Administraciones si lo prevé la RPT.', a: 'LBRL 101'}
       ]}
     ]},
@@ -189,12 +192,13 @@ registerEsquema('aux-admin-zaragoza', 19, {
       {tipo: 'tabla', cab: ['Materia', 'Texto del TRRL (1986)', 'TREBEP (básico)'], filas: [
         ['Edad mínima de acceso', '18 años (135.b)', '<b>16 años</b> (56.1.c)'],
         ['Cuarto requisito de ingreso', 'Juramento o promesa (137.c)', 'Acatamiento de la Constitución (62.1.c)'],
-        ['Situaciones', 'Incluye servicio en CCAA y excedencia forzosa (140.1)', 'Cinco situaciones del art. 85.1'],
+        ['Situaciones', 'Incluye servicio en CCAA y excedencia forzosa (140.1)', 'Cinco situaciones del art. 85.1; las leyes de función pública pueden regular otras (85.2). El servicio en otras AAPP es el art. 88'],
         ['Prescripción de faltas', 'Leves 1 mes, graves 2 años, muy graves 6 años (146.2)', 'Leves <b>6 meses</b>, graves 2 años, muy graves <b>3 años</b> (97.1)'],
-        ['Sanciones', 'Incluye deducción de retribuciones y destitución (148.1)', 'Lista del art. 96.1']
+        ['Sanciones', 'Incluye deducción de retribuciones y destitución (148.1)', 'Lista del art. 96.1, más «cualquier otra que se establezca por ley» (96.1.g). La destitución sigue prevista para los habilitados nacionales (LBRL 92 bis.11)']
       ]},
       {tipo: 'lista', tinte: true, items: [
-        {t: 'Estos artículos del TRRL figuran en el BOE sin nota de derogación. Pero el TREBEP deroga las normas de igual o inferior rango que se le opongan (DD única.f) y solo mantiene las anteriores <b>en tanto no se opongan</b> (DF 4.ª.2).', a: 'TREBEP DD única.f y DF 4.ª.2'}
+        {t: 'Estos artículos del TRRL figuran en el BOE sin nota de derogación. El TREBEP deroga las normas de igual o inferior rango que se le opongan (DD única.f) y solo mantiene las anteriores <b>en tanto no se opongan</b> (DF 4.ª.2). La oposición es clara en la edad (56.1.c) y en la prescripción (97.1).', a: 'TREBEP DD única.f y DF 4.ª.2'},
+        {t: 'En el test: si la pregunta cita el artículo del TRRL, responde con su texto; si cita el TREBEP, con el TREBEP.'}
       ]}
     ]}
   ],
@@ -205,11 +209,11 @@ registerEsquema('aux-admin-zaragoza', 19, {
     {x: 'Las subescalas de habilitación nacional son Secretaría, Intervención y Tesorería', ok: 'Secretaría, Intervención-tesorería y Secretaría-intervención.', a: 'LBRL 92 bis.2'},
     {x: 'El Personal de Oficios es de la Subescala Subalterna de Administración General', ok: 'Es una clase de la Subescala de Servicios Especiales (Administración Especial).', a: 'TRRL 172.2.d'},
     {x: 'Técnicos Superiores, Medios y Auxiliares forman la Subescala Técnica de Administración General', ok: 'Son de la Subescala Técnica de Administración Especial.', a: 'TRRL 171.1'},
-    {x: 'El número de eventuales lo decide el Alcalde', ok: 'Lo fija el Pleno al comienzo del mandato; el Alcalde nombra y cesa.', a: 'LBRL 104.1-2'},
+    {x: 'El número de eventuales lo decide el Alcalde', ok: 'Lo fija el Pleno al comienzo del mandato (en gran población, la Junta de Gobierno Local: 127.1.h); el Alcalde nombra y cesa.', a: 'LBRL 104.1-2'},
     {x: 'La cuantía global de las complementarias la fija el Alcalde', ok: 'La fija el Pleno, dentro de los límites del Estado.', a: 'LBRL 93.2'},
     {x: 'Las bases de las convocatorias locales se publican en el BOE', ok: 'En el BOE van los anuncios; las bases, en el BOP (salvo habilitación nacional).', a: 'LBRL 97'},
-    {x: 'La plantilla puede ampliarse por urgencia', ok: 'Solo si se compensa el gasto o por servicios obligatorios impuestos por disposiciones legales.', a: 'TRRL 126.2'},
-    {x: 'Para opositar en un ayuntamiento hay que tener 18 años', ok: 'El TREBEP, básico, exige 16 años y deroga lo que se le oponga.', a: 'TREBEP 56.1.c y DD única.f'}
+    {x: 'La plantilla puede ampliarse por urgencia', ok: 'El art. 126.2 solo prevé dos supuestos: gasto compensado o servicios obligatorios impuestos por disposiciones legales. Ver la nota de 2025, segunda prueba, P19.', a: 'TRRL 126.2'},
+    {x: 'Según el TREBEP, para opositar en un ayuntamiento hay que tener 18 años', ok: 'El TREBEP (56.1.c), básico, exige 16 años. Los 18 años son el texto del art. 135.b TRRL, que se opone al Estatuto.', a: 'TREBEP 56.1.c y DD única.f'}
   ],
 
   examenes: [
@@ -219,6 +223,6 @@ registerEsquema('aux-admin-zaragoza', 19, {
     'Art. 104 bis.1.g LBRL (0,7 % de eventuales en municipios de más de 500.000 habitantes): examen oficial 31-may-2026, pregunta 25.',
     'Art. 171 TRRL (Técnicos Superiores, Medios y Auxiliares de la Subescala Técnica de Administración Especial): examen oficial 31-may-2026, pregunta 30.',
     'Arts. 167 y ss. TRRL (Personal de Oficios, en Servicios Especiales de Administración Especial): examen oficial 1-jun-2025, pregunta 41.',
-    'Art. 126.2 TRRL (ampliación de la plantilla): examen oficial 1-jun-2025, segunda prueba, supuesto 2, pregunta 19. El banco da por buena «todas las anteriores», pero el texto solo recoge los dos supuestos del esquema.'
+    'Art. 126.2 TRRL (ampliación de la plantilla): examen oficial 1-jun-2025, segunda prueba, supuesto 2, pregunta 19. La clave del banco es «Todas las respuestas anteriores son correctas». El art. 126.2 recoge dos supuestos: a) gasto compensado con reducción de otras unidades o capítulos de gastos corrientes no ampliables; b) establecimiento o ampliación de servicios obligatorios impuestos por disposiciones legales. La opción de urgencia y necesidad no figura en el texto, y la b) del examen dice «establecimiento o reducción» y «disposiciones legales o reglamentarias».'
   ]
 });

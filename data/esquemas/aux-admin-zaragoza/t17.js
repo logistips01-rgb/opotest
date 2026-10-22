@@ -1,6 +1,7 @@
 /* Esquema · Auxiliar Administrativo · Tema 17
    Fuente única: TREBEP (RDLeg 5/2015), texto consolidado BOE-A-2015-11719, arts. 8-54.
-   Redacción vigente a 22-oct-2026 (última modificación en vigor: RDL 9/2025, en vigor 31-jul-2025).
+   Redacción en vigor desde el 23-oct-2026: última actualización publicada el 03/10/2026 (Ley 4/2026,
+   DF 11.ª: dos párrafos nuevos en el art. 49.e). La anterior, RDL 9/2025, en vigor el 31-jul-2025.
    Formato: ver data/esquemas/FORMATO.md */
 registerEsquema('aux-admin-zaragoza', 17, {
   titulo: 'Empleados públicos (I): clases, derechos y deberes',
@@ -88,7 +89,7 @@ registerEsquema('aux-admin-zaragoza', 17, {
       ]},
       {tipo: 'lista', tinte: true, items: [
         {t: 'Selección pública: igualdad, mérito, capacidad, publicidad y <b>celeridad</b>. Finalidad: cobertura inmediata del puesto.', a: '10.2'},
-        {t: 'Vacante: a los 3 años termina la interinidad. Excepción: si la convocatoria se publicó en esos 3 años, sigue hasta que se resuelva, sin compensación.', a: '10.4'},
+        {t: 'Vacante: a los 3 años termina la interinidad. Excepción: si la convocatoria se publicó en esos 3 años (y se resuelve en los plazos del art. 70), sigue hasta que se resuelva, sin compensación.', a: '10.4'},
         {t: 'Se le aplica el régimen general de los funcionarios de carrera en lo adecuado, salvo los derechos inherentes a la condición de funcionario de carrera.', a: '10.5'}
       ]}
     ]},
@@ -143,7 +144,7 @@ registerEsquema('aux-admin-zaragoza', 17, {
           '<b>Sueldo</b> de cada subgrupo o grupo.',
           '<b>Trienios</b>: cantidad igual para cada subgrupo por cada tres años de servicio.'
         ]},
-        {titulo: 'Complementarias · art. 24 (factores)', items: [
+        {titulo: 'Complementarias · art. 24 (factores, entre otros)', items: [
           'a) Progresión en la carrera.',
           'b) Dificultad técnica, responsabilidad, dedicación, incompatibilidad o condiciones del puesto.',
           'c) Interés, iniciativa o esfuerzo y rendimiento o resultados.',
@@ -168,7 +169,7 @@ registerEsquema('aux-admin-zaragoza', 17, {
         ['Fallecimiento de familiar de segundo grado', '<b>2 días hábiles</b> en la misma localidad; <b>4</b> en otra'],
         ['Traslado de domicilio sin cambio de residencia', '1 día'],
         ['Exámenes finales y pruebas definitivas de aptitud', 'Los días de su celebración'],
-        ['Lactancia de hijo menor de 12 meses', '1 hora de ausencia (en dos fracciones) o reducción equivalente. Se puede acumular en jornadas completas.'],
+        ['Lactancia de hijo menor de 12 meses', '1 hora de ausencia (divisible en dos fracciones) o reducción de jornada equivalente. Se puede acumular en jornadas completas.'],
         ['Hijo prematuro u hospitalizado tras el parto', 'Hasta 2 horas diarias retribuidas, más reducción de hasta 2 horas con descuento'],
         ['Familiar de primer grado con enfermedad muy grave', 'Reducción de hasta el <b>50 %</b>, <b>retribuida</b>, máximo <b>1 mes</b>'],
         ['Asuntos particulares', '<b>6 días</b> al año'],
@@ -186,12 +187,12 @@ registerEsquema('aux-admin-zaragoza', 17, {
         ['b) Adopción, guarda o acogimiento', '19 semanas por adoptante (32 si monoparental). Internacional: además hasta <b>2 meses</b> solo con básicas; puede empezar hasta 4 semanas antes.'],
         ['c) Progenitor distinto de la madre biológica', '<b>19 semanas</b> (32 si monoparental).'],
         ['d) Violencia de género o sexual', 'Faltas justificadas. Reducción o reordenación de jornada; retribución íntegra si reduce <b>un tercio o menos</b>.'],
-        ['e) Hijo con cáncer o enfermedad grave', 'Reducción de <b>al menos la mitad</b> con retribución íntegra, hasta los <b>23 años</b> (26 con discapacidad de al menos el 65 % acreditada antes de los 23).'],
+        ['e) Hijo con cáncer o enfermedad grave', 'Si trabajan ambos progenitores: reducción de <b>al menos la mitad</b> con retribución íntegra, hasta los <b>23 años</b> (26 con discapacidad de al menos el 65 % acreditada antes de los 23).<br>Desde el 23-oct-2026 (Ley 4/2026): con <b>gran discapacidad o gran dependencia</b>, excepcionalmente, puede prorrogarse <b>más allá de esos límites de edad</b>, y ambos progenitores pueden repartirse la reducción hasta el <b>100 %</b>.'],
         ['g) Permiso parental', '<b>No retribuido</b>, hasta <b>8 semanas</b>, hasta que el menor cumpla 8 años. Preaviso de 15 días.']
       ]},
       {tipo: 'lista', items: [
         {t: 'Discapacidad del hijo: <b>+2 semanas</b> para ambos progenitores. Parto o adopción múltiple: +1 semana por hijo a partir del segundo, para cada uno.', a: '49.a-c'},
-        {t: 'Jornada general y especiales: la fija cada Administración, a tiempo completo o parcial. Flexibilidad horaria para quien tenga hijos <b>menores de 12 años</b>.', a: '47'},
+        {t: 'Jornada general y especiales: la fija cada Administración, a tiempo completo o parcial. Flexibilidad horaria para quien tenga hijos <b>menores de 12 años</b> o necesidades de cuidado de hijos mayores, cónyuge o pareja, familiares hasta el segundo grado o convivientes que no puedan valerse.', a: '47'},
         {t: 'Teletrabajo: autorizado expresamente, compatible con la modalidad presencial, <b>voluntario y reversible</b> salvo excepción justificada. La Administración da los medios.', a: '47 bis'}
       ]},
       {tipo: 'columnas', cols: [
