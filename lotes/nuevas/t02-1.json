@@ -1,0 +1,567 @@
+{
+ "slug": "aux-admin-zaragoza",
+ "tema": 2,
+ "lote": "t02-1",
+ "preguntas": [
+  {
+   "q": "Según el art. 5 de la LO 3/2007, además del acceso al empleo, la formación, la promoción y las condiciones de trabajo, el principio de igualdad de trato y de oportunidades se garantiza también en:",
+   "options": [
+    "La concesión de licencias y autorizaciones administrativas municipales",
+    "La inscripción en los registros públicos de asociaciones y fundaciones",
+    "La afiliación y participación en organizaciones sindicales y empresariales",
+    "La participación en las juntas de las comunidades de propietarios"
+   ],
+   "correct": 2,
+   "exp": "El art. 5, párrafo primero, extiende la garantía a «la afiliación y participación en las organizaciones sindicales y empresariales, o en cualquier organización cuyos miembros ejerzan una profesión concreta, incluidas las prestaciones concedidas por las mismas». Las licencias municipales, los registros de asociaciones y fundaciones y las comunidades de propietarios no figuran en ese artículo.",
+   "fuente": "Art. 5, párrafo primero, LO 3/2007 (Ley Orgánica 3/2007, de 22 de marzo)",
+   "confianza": "alta",
+   "cita": "y en la afiliación y participación en las organizaciones sindicales y empresariales, o en cualquier organización cuyos miembros ejerzan una profesión concreta, incluidas las prestaciones concedidas por las mismas"
+  },
+  {
+   "q": "Según el art. 5 de la LO 3/2007, una diferencia de trato basada en una característica relacionada con el sexo no es discriminatoria en el acceso al empleo cuando esa característica constituye un requisito profesional esencial y determinante debido a:",
+   "options": [
+    "La naturaleza de las actividades profesionales concretas o al contexto en que se lleven a cabo",
+    "La situación económica de la empresa o a la necesidad de reducir sus costes laborales globales",
+    "Las preferencias manifestadas por la clientela o a los usos tradicionales del sector de actividad",
+    "Lo pactado en el convenio colectivo o en un acuerdo con la representación sindical"
+   ],
+   "correct": 0,
+   "exp": "El art. 5, párrafo segundo, admite la excepción cuando, «debido a la naturaleza de las actividades profesionales concretas o al contexto en el que se lleven a cabo», la característica sea un requisito profesional esencial y determinante, siempre que el objetivo sea legítimo y el requisito proporcionado. Los costes de la empresa, las preferencias de la clientela o lo pactado en convenio no justifican esa diferencia de trato.",
+   "fuente": "Art. 5, párrafo segundo, LO 3/2007 (Ley Orgánica 3/2007, de 22 de marzo)",
+   "confianza": "alta",
+   "cita": "debido a la naturaleza de las actividades profesionales concretas o al contexto en el que se lleven a cabo, dicha característica constituya un requisito profesional esencial y determinante"
+  },
+  {
+   "q": "En materia de acciones positivas, ¿cómo formula el art. 11 de la LO 3/2007 la actuación de los Poderes Públicos y la de las personas físicas y jurídicas privadas?",
+   "options": [
+    "Los Poderes Públicos «podrán» adoptarlas y las personas privadas «deberán» adoptarlas",
+    "Los Poderes Públicos y las personas privadas «podrán» adoptarlas, sin distinción alguna",
+    "Los Poderes Públicos y las personas privadas «deberán» adoptarlas, sin distinción alguna",
+    "Los Poderes Públicos «adoptarán» las medidas y las personas privadas «podrán» adoptarlas"
+   ],
+   "correct": 3,
+   "exp": "Para los Poderes Públicos el art. 11.1 es imperativo: «adoptarán medidas específicas en favor de las mujeres para corregir situaciones patentes de desigualdad de hecho». Para los particulares el art. 11.2 es potestativo: «También las personas físicas y jurídicas privadas podrán adoptar este tipo de medidas en los términos establecidos en la presente Ley». Por eso fallan las opciones que tratan a ambos por igual o que invierten los términos.",
+   "fuente": "Art. 11.1 y 11.2 LO 3/2007 (Ley Orgánica 3/2007, de 22 de marzo)",
+   "confianza": "alta",
+   "cita": "los Poderes Públicos adoptarán medidas específicas en favor de las mujeres para corregir situaciones patentes de desigualdad de hecho respecto de los hombres"
+  },
+  {
+   "q": "Según el art. 12.2 de la LO 3/2007, la capacidad y legitimación de las personas físicas y jurídicas con interés legítimo se refiere a los procesos sobre defensa del derecho a la igualdad de los órdenes:",
+   "options": [
+    "Penal, civil y contencioso-administrativo",
+    "Civil, social y contencioso-administrativo",
+    "Penal, social y contencioso-administrativo",
+    "Civil, penal y social"
+   ],
+   "correct": 1,
+   "exp": "El art. 12.2 habla de «los procesos civiles, sociales y contencioso-administrativos que versen sobre la defensa de este derecho». El orden penal no se menciona; de hecho, el art. 13.2 excluye también los procesos penales de la regla especial de prueba.",
+   "fuente": "Art. 12.2 LO 3/2007 (Ley Orgánica 3/2007, de 22 de marzo)",
+   "confianza": "alta",
+   "cita": "La capacidad y legitimación para intervenir en los procesos civiles, sociales y contencioso-administrativos que versen sobre la defensa de este derecho corresponden a las personas físicas y jurídicas con interés legítimo"
+  },
+  {
+   "q": "Según el art. 2 de la Ley 4/2007 de Aragón, las conductas que enumera se consideran formas de violencia contra las mujeres a efectos de esa Ley:",
+   "options": [
+    "Solo si están tipificadas como delito en el Código Penal vigente",
+    "Solo si han sido declaradas probadas por una sentencia firme",
+    "Estén o no tipificadas como delito, falta o infracción administrativa",
+    "Solo si están tipificadas como delito o como infracción administrativa"
+   ],
+   "correct": 2,
+   "exp": "El párrafo inicial del art. 2 dice que las formas de violencia se consideran tales «con independencia de que las mismas estén o no tipificadas como delito, falta o infracción administrativa por la legislación vigente en cada momento». No exige tipificación penal o administrativa ni sentencia firme.",
+   "fuente": "Art. 2, párrafo inicial, Ley 4/2007 de Aragón (Ley 4/2007, de 22 de marzo)",
+   "confianza": "alta",
+   "cita": "con independencia de que las mismas estén o no tipificadas como delito, falta o infracción administrativa por la legislación vigente en cada momento"
+  },
+  {
+   "q": "Según el art. 2 de la Ley 4/2007 de Aragón, las formas de violencia contra las mujeres se distinguen en función de:",
+   "options": [
+    "La conducta realizada, el medio empleado y el resultado perseguido",
+    "La gravedad del daño causado, su duración y su reiteración en el tiempo",
+    "La edad de la víctima, su situación familiar y su dependencia económica",
+    "El lugar de los hechos, su publicidad y el número de personas agresoras"
+   ],
+   "correct": 0,
+   "exp": "El art. 2 empieza así: «En función de la conducta realizada, del medio empleado y del resultado perseguido […] se consideran, a los efectos de esta Ley, formas de violencia contra las mujeres» las de las letras a) a j). La gravedad, la edad o el lugar de los hechos no son los criterios de la Ley.",
+   "fuente": "Art. 2, párrafo inicial, Ley 4/2007 de Aragón (Ley 4/2007, de 22 de marzo)",
+   "confianza": "alta",
+   "cita": "En función de la conducta realizada, del medio empleado y del resultado perseguido"
+  },
+  {
+   "q": "Según el art. 3 de la Ley 4/2007 de Aragón, las situaciones de violencia contra las mujeres (doméstica, laboral o docente y social) se clasifican en función de:",
+   "options": [
+    "La gravedad de la agresión y el resultado lesivo que se ha producido en la víctima",
+    "El lugar en que se producen los hechos y el momento de su comisión",
+    "La forma de violencia empleada y su tipificación en el Código Penal",
+    "El ámbito y la naturaleza de la relación que une al agresor con la víctima"
+   ],
+   "correct": 3,
+   "exp": "El art. 3 dice: «En función del ámbito y naturaleza de la relación que une al agresor con la víctima, las situaciones de violencia contra las mujeres se clasifican en» doméstica, laboral o docente y social. No se clasifican por la gravedad, el lugar o la tipificación penal.",
+   "fuente": "Art. 3, párrafo inicial, Ley 4/2007 de Aragón (Ley 4/2007, de 22 de marzo)",
+   "confianza": "alta",
+   "cita": "En función del ámbito y naturaleza de la relación que une al agresor con la víctima, las situaciones de violencia contra las mujeres se clasifican en"
+  },
+  {
+   "q": "Conforme al art. 3 de la Ley 4/2007 de Aragón, la violencia que un hombre ejerce sobre la hermana de su cónyuge se clasifica como situación de violencia:",
+   "options": [
+    "Social, por no existir entre ambos vínculo conyugal ni de pareja",
+    "Doméstica, aunque la víctima no sea su cónyuge ni su pareja",
+    "Laboral o docente, por existir una situación de proximidad",
+    "Doméstica, pero solo si la víctima convive en el mismo domicilio"
+   ],
+   "correct": 1,
+   "exp": "El art. 3.a incluye en la violencia doméstica «la violencia ejercida sobre las descendientes, ascendientes o hermanas por naturaleza, adopción o afinidad, propias o del cónyuge o conviviente». La hermana del cónyuge entra en ese supuesto y la Ley no exige que conviva con el agresor (la convivencia solo se menciona para menores o incapaces). No es violencia social, porque existe el vínculo del apartado a), ni laboral o docente, que requiere un vínculo laboral, docente o de prestación de servicios.",
+   "fuente": "Art. 3.a) Ley 4/2007 de Aragón (Ley 4/2007, de 22 de marzo)",
+   "confianza": "alta",
+   "cita": "y la violencia ejercida sobre las descendientes, ascendientes o hermanas por naturaleza, adopción o afinidad, propias o del cónyuge o conviviente"
+  },
+  {
+   "q": "Según el art. 3.a de la Ley 4/2007 de Aragón, la violencia doméstica comprende también la ejercida sobre las menores o incapaces que convivan con el agresor o que se hallen sujetas, respecto del cónyuge o conviviente, a:",
+   "options": [
+    "Patria potestad o tutela, siempre que hayan sido declaradas por resolución judicial",
+    "Autoridad familiar, potestad, tutela, curatela, acogimiento o guarda de hecho",
+    "Tutela o curatela, pero no a acogimiento familiar ni a guarda de hecho",
+    "Acogimiento familiar formalizado ante la entidad pública de protección"
+   ],
+   "correct": 1,
+   "exp": "El art. 3.a termina con la violencia ejercida «sobre las menores o incapaces que con él convivan o que se hallen sujetas a autoridad familiar, potestad, tutela, curatela, acogimiento o guarda de hecho del cónyuge o conviviente». La lista incluye la guarda de hecho y el acogimiento, y no exige declaración judicial ni formalización.",
+   "fuente": "Art. 3.a) Ley 4/2007 de Aragón (Ley 4/2007, de 22 de marzo)",
+   "confianza": "alta",
+   "cita": "o sobre las menores o incapaces que con él convivan o que se hallen sujetas a autoridad familiar, potestad, tutela, curatela, acogimiento o guarda de hecho del cónyuge o conviviente"
+  },
+  {
+   "q": "Según el art. 2.g de la Ley 4/2007 de Aragón, los procedimientos que eliminan total o parcialmente los genitales externos femeninos o lesionan los órganos genitales femeninos NO constituyen mutilación genital femenina cuando obedecen a razones:",
+   "options": [
+    "Culturales o religiosas propias de la comunidad de origen",
+    "Estéticas, si la mujer es mayor de edad y lo solicita",
+    "De cualquier tipo, si consta el consentimiento de la víctima",
+    "De orden estrictamente terapéutico"
+   ],
+   "correct": 3,
+   "exp": "El art. 2.g comprende esos procedimientos «por razones culturales o, en general, cualquiera otra que no sea una de orden estrictamente terapéutico, aun cuando se realicen con el consentimiento, expreso o tácito, de la víctima». Solo queda fuera la razón estrictamente terapéutica; las razones culturales, estéticas o el consentimiento de la víctima no excluyen la mutilación.",
+   "fuente": "Art. 2.g) Ley 4/2007 de Aragón (Ley 4/2007, de 22 de marzo)",
+   "confianza": "alta",
+   "cita": "por razones culturales o, en general, cualquiera otra que no sea una de orden estrictamente terapéutico, aun cuando se realicen con el consentimiento, expreso o tácito, de la víctima"
+  },
+  {
+   "q": "Según el art. 28.1 de la Ley 4/2007 de Aragón, el protocolo de pautas uniformes para profesionales sanitarios busca desarrollar una acción coordinada que permita, en la asistencia a las mujeres víctimas de violencia:",
+   "options": [
+    "Un tratamiento global e integral",
+    "Un tratamiento exclusivamente hospitalario",
+    "Un tratamiento confidencial y anónimo",
+    "Un tratamiento preferente y gratuito"
+   ],
+   "correct": 0,
+   "exp": "El art. 28.1 dice que el Departamento competente en materia de salud elaborará un protocolo con pautas uniformes de actuación para profesionales sanitarios, «de manera que desarrolle una acción coordinada que permita un tratamiento global e integral en la asistencia a las mujeres víctimas de violencia».",
+   "fuente": "Art. 28.1 Ley 4/2007 de Aragón (Ley 4/2007, de 22 de marzo)",
+   "confianza": "alta",
+   "cita": "de manera que desarrolle una acción coordinada que permita un tratamiento global e integral en la asistencia a las mujeres víctimas de violencia"
+  },
+  {
+   "q": "Según el art. 19.2 de la Ley 4/2007 de Aragón, las casas de acogida atenderán, además de a las mujeres víctimas de violencia doméstica, a las que se encuentren en situación de:",
+   "options": [
+    "Alto riesgo, siempre que dispongan de dispositivo de alarma",
+    "Exclusión social, aunque no hayan sufrido actos de violencia",
+    "Riesgo inminente, y también a las hijas e hijos a su cargo",
+    "Desempleo, si están inscritas como demandantes de empleo"
+   ],
+   "correct": 2,
+   "exp": "El art. 19.2 dice que las casas de acogida «no solo atenderán a las mujeres víctimas de violencia doméstica o que se encuentren en situación de riesgo inminente, sino también a las hijas e hijos a su cargo». El «alto riesgo» es el presupuesto del dispositivo de alarma (art. 24.1), y la inscripción como demandante de empleo se exige para la preferencia en programas de formación e inserción (art. 30.2).",
+   "fuente": "Art. 19.2 Ley 4/2007 de Aragón (Ley 4/2007, de 22 de marzo)",
+   "confianza": "alta",
+   "cita": "Las casas de acogida no solo atenderán a las mujeres víctimas de violencia doméstica o que se encuentren en situación de riesgo inminente, sino también a las hijas e hijos a su cargo"
+  },
+  {
+   "q": "Según el apdo. VIII.E del Protocolo frente al acoso (Anexo II del II Plan de Igualdad del Ayuntamiento de Zaragoza), ¿en qué plazo máximo pueden las partes alegar contra la resolución del Comité de Asesoramiento?",
+   "options": [
+    "Diez días hábiles",
+    "Quince días naturales",
+    "Siete días laborables",
+    "Cinco días laborables"
+   ],
+   "correct": 3,
+   "exp": "El apdo. VIII.E («Resolución de alegaciones») dispone que de la resolución del Comité de Asesoramiento se dará traslado a la persona denunciada y a la presunta víctima, y que «las partes implicadas podrán alegar en el plazo máximo de cinco días laborables, presentando nuevas pruebas o argumentaciones».",
+   "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, Anexo II (Protocolo frente al acoso), apdo. VIII.E, pág. 64 de 67",
+   "confianza": "alta",
+   "cita": "Las partes implicadas podrán alegar en el plazo máximo de cinco días laborables, presentando nuevas pruebas o argumentaciones."
+  },
+  {
+   "q": "Según el Protocolo frente al acoso del II Plan de Igualdad del Ayuntamiento de Zaragoza (Anexo II, apdo. VII.3), ¿quién nombra a las personas que forman parte de la Asesoría Confidencial y del Comité de Asesoramiento?",
+   "options": [
+    "La Jefatura del Servicio de Relaciones Laborales",
+    "La Presidencia de la Comisión de Igualdad",
+    "El Gobierno de Zaragoza, a propuesta de la Alcaldía",
+    "La Junta de Personal y el Comité de Empresa"
+   ],
+   "correct": 1,
+   "exp": "El apdo. VII.3 («Nombramientos») dice: «La Presidencia de la Comisión de Igualdad nombrará a las personas que forman parte de la Asesoría Confidencial y del Comité de Asesoramiento». El Servicio de Relaciones Laborales interviene en las medidas cautelares y en el expediente disciplinario, pero no hace estos nombramientos.",
+   "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, Anexo II (Protocolo frente al acoso), apdo. VII.3, pág. 59 de 67",
+   "confianza": "alta",
+   "cita": "La Presidencia de la Comisión de Igualdad nombrará a las personas que forman parte de la Asesoría Confidencial y del Comité de Asesoramiento."
+  },
+  {
+   "q": "Según el apdo. VII.2 del Protocolo frente al acoso (Anexo II del II Plan de Igualdad del Ayuntamiento de Zaragoza), la persona de la Asesoría Confidencial que forma parte del Comité de Asesoramiento:",
+   "options": [
+    "Será la misma que haya llevado el procedimiento informal del caso",
+    "Será designada por los representantes sindicales del propio Comité",
+    "No podrá haber participado en el procedimiento informal del caso",
+    "Será elegida por la persona denunciante entre las asesoras y asesores"
+   ],
+   "correct": 2,
+   "exp": "El apdo. VII.2 establece: «La persona nombrada como Asesor/a Confidencial en el Comité de Asesoramiento no podrá haber participado en el procedimiento informal sobre el que se esté actuando». Además, a todos los miembros del Comité los nombra la Presidencia de la Comisión de Igualdad (apdo. VII.3), no los representantes sindicales ni la persona denunciante.",
+   "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, Anexo II (Protocolo frente al acoso), apdo. VII.2, pág. 59 de 67",
+   "confianza": "alta",
+   "cita": "La persona nombrada como Asesor/a Confidencial en el Comité de Asesoramiento no podrá haber participado en el procedimiento informal sobre el que se esté actuando."
+  },
+  {
+   "q": "Según el apdo. VII.1 del Protocolo frente al acoso (Anexo II del II Plan de Igualdad del Ayuntamiento de Zaragoza), ¿quiénes son designados inicialmente como Asesoras/es Confidenciales?",
+   "options": [
+    "Los Agentes de Igualdad y los Delegados de Prevención formados voluntariamente",
+    "Las jefaturas de servicio y los mandos intermedios que lo soliciten por escrito",
+    "Los miembros de la Junta de Personal y del Comité de Empresa del Ayuntamiento",
+    "Los técnicos del Servicio de Prevención y los abogados de la Asesoría Jurídica"
+   ],
+   "correct": 0,
+   "exp": "El apdo. VII.1 dice: «Las personas designadas inicialmente como Asesoras/es Confidenciales serán las/los Agentes de Igualdad y aquellas Delegadas/os de Prevención que de forma voluntaria reciban formación» en igualdad, acoso y aplicación del Protocolo. También puede optar el personal municipal con la formación y condiciones requeridas, hasta un máximo de diez personas. Los técnicos de Prevención y el abogado de la Asesoría Jurídica forman parte del Comité de Asesoramiento, no de la Asesoría Confidencial.",
+   "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, Anexo II (Protocolo frente al acoso), apdo. VII.1, pág. 57 de 67",
+   "confianza": "alta",
+   "cita": "Las personas designadas inicialmente como Asesoras/es Confidenciales serán las/los Agentes de Igualdad y aquellas Delegadas/os de Prevención que de forma voluntaria reciban formación sobre materia de Igualdad entre hombres y mujeres"
+  },
+  {
+   "q": "Según el apdo. VIII.A del Protocolo frente al acoso (Anexo II del II Plan de Igualdad del Ayuntamiento de Zaragoza), cuando la denuncia la formula una empleada o empleado público distinto de la presunta víctima:",
+   "options": [
+    "Debe ser motivada y la presunta víctima debe ratificar el acoso",
+    "Debe presentarse de forma anónima para proteger su identidad",
+    "Solo puede hacerlo si es superior jerárquico de la presunta víctima",
+    "Necesita la autorización previa de la representación sindical"
+   ],
+   "correct": 0,
+   "exp": "Según el apdo. VIII.A, la denuncia puede formularla «cualquier empleada o empleado público de forma motivada. En este caso la presunta víctima deberá ratificar la existencia del acoso». Las denuncias anónimas no se admiten a trámite, y la autorización previa se exige a la representación sindical (que necesita la de la persona presuntamente acosada), no a quien denuncia.",
+   "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, Anexo II (Protocolo frente al acoso), apdo. VIII.A, págs. 59-60 de 67",
+   "confianza": "alta",
+   "cita": "Cualquier empleada o empleado público de forma motivada. En este caso la presunta víctima deberá ratificar la existencia del acoso."
+  },
+  {
+   "q": "Según el apdo. VIII.A del Protocolo frente al acoso (Anexo II del II Plan de Igualdad del Ayuntamiento de Zaragoza), el procedimiento se inicia con la presentación de la queja o denuncia interna ante:",
+   "options": [
+    "El Comité de Asesoramiento o la Oficina de Recursos Humanos del Ayuntamiento de Zaragoza",
+    "La Concejalía delegada de Personal o la jefatura del servicio en que trabaja la víctima",
+    "Una persona de la Asesoría Confidencial o el Servicio de Prevención y Salud Laboral",
+    "La Junta de Personal o el Comité de Empresa, según el régimen jurídico de la víctima"
+   ],
+   "correct": 2,
+   "exp": "El apdo. VIII.A dice: «El procedimiento se iniciará con la presentación de la queja o denuncia interna a una persona de la Asesoría Confidencial o a través del Servicio de Prevención y Salud Laboral». El Comité de Asesoramiento interviene después, en el procedimiento formal.",
+   "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, Anexo II (Protocolo frente al acoso), apdo. VIII.A, pág. 59 de 67",
+   "confianza": "alta",
+   "cita": "El procedimiento se iniciará con la presentación de la queja o denuncia interna a una persona de la Asesoría Confidencial o a través del Servicio de Prevención y Salud Laboral."
+  },
+  {
+   "q": "Según el apdo. VIII.B del Protocolo frente al acoso (Anexo II del II Plan de Igualdad del Ayuntamiento de Zaragoza), tras su análisis inicial la Asesoría Confidencial podrá no admitir a trámite la denuncia cuando:",
+   "options": [
+    "La persona denunciada lleve más de diez años en la plantilla municipal",
+    "Considere que la situación denunciada no pertenece al ámbito del Protocolo",
+    "La persona denunciante haya tardado más de un mes en presentar su denuncia",
+    "La persona denunciante no aporte pruebas documentales de los hechos"
+   ],
+   "correct": 1,
+   "exp": "El apdo. VIII.B permite a la Asesoría Confidencial «no admitir a trámite dicha denuncia si se considera que la situación denunciada no pertenece al ámbito de este Protocolo», remitiendo un escrito a la persona denunciante con los motivos. Las otras dos salidas son iniciar el procedimiento informal o el formal. El Protocolo no prevé la inadmisión por antigüedad del denunciado, por el horario de los hechos ni por falta de prueba documental.",
+   "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, Anexo II (Protocolo frente al acoso), apdo. VIII.B, pág. 60 de 67",
+   "confianza": "alta",
+   "cita": "No admitir a trámite dicha denuncia si se considera que la situación denunciada no pertenece al ámbito de este Protocolo."
+  },
+  {
+   "q": "Según el apdo. VIII.B del Protocolo frente al acoso (Anexo II del II Plan de Igualdad del Ayuntamiento de Zaragoza), para impedir que continúe la presunta situación de acoso y preservar la seguridad y salud de la persona denunciante, la Asesoría Confidencial podrá:",
+   "options": [
+    "Suspender de funciones a la persona denunciada durante un mes",
+    "Acordar por sí misma el traslado definitivo de la persona denunciada",
+    "Imponer a la persona denunciada una sanción disciplinaria provisional",
+    "Proponer a Relaciones Laborales las medidas cautelares necesarias"
+   ],
+   "correct": 3,
+   "exp": "El apdo. VIII.B dice que, si se estima conveniente, la Asesoría Confidencial «podrá proponer a Relaciones Laborales las medidas cautelares necesarias, con especial atención a la separación de la presunta víctima y de la persona denunciada». Solo propone: la adopción de las medidas cautelares corresponde al Servicio de Relaciones Laborales u órgano competente (apdo. VIII.D), y el Protocolo no le da a la Asesoría potestad para suspender, trasladar o sancionar.",
+   "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, Anexo II (Protocolo frente al acoso), apdo. VIII.B, pág. 60 de 67",
+   "confianza": "alta",
+   "cita": "podrá proponer a Relaciones Laborales las medidas cautelares necesarias, con especial atención a la separación de la presunta víctima y de la persona denunciada."
+  },
+  {
+   "q": "Según el apdo. VIII.D del Protocolo frente al acoso (Anexo II del II Plan de Igualdad del Ayuntamiento de Zaragoza), ¿cuál de los siguientes es uno de los supuestos en que se inicia el procedimiento formal?",
+   "options": [
+    "Que la persona denunciada lo solicite para defender su inocencia",
+    "Que la persona denunciada reitere la conducta que motivó la denuncia",
+    "Que pasen diez días sin que se resuelva el procedimiento informal",
+    "Que la representación sindical denuncie sin autorización de la víctima"
+   ],
+   "correct": 1,
+   "exp": "El apdo. VIII.D enumera cuatro supuestos: que las actuaciones denunciadas se valoren como indicios de acoso; que no se alcance acuerdo en el procedimiento informal; que «se reitere la conducta que ha motivado la denuncia por parte de la persona denunciada»; o que la persona denunciante no considere adecuado el procedimiento informal y haya indicios de acoso. El Protocolo no fija un plazo de diez días para el informal (se resuelve «a la mayor celeridad posible»), y la representación sindical solo puede denunciar con autorización previa de la víctima.",
+   "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, Anexo II (Protocolo frente al acoso), apdo. VIII.D, pág. 61 de 67",
+   "confianza": "alta",
+   "cita": "Se reitere la conducta que ha motivado la denuncia por parte de la persona denunciada."
+  },
+  {
+   "q": "Según el apdo. VIII.D del Protocolo frente al acoso (Anexo II del II Plan de Igualdad del Ayuntamiento de Zaragoza), en el escrito de citación a la persona denunciada se le advierte de que su no comparecencia:",
+   "options": [
+    "Supondrá el archivo automático de la denuncia presentada",
+    "Equivaldrá al reconocimiento de los hechos denunciados",
+    "Será sancionada directamente como falta disciplinaria grave",
+    "Podría considerarse un acto de obstrucción en la investigación"
+   ],
+   "correct": 3,
+   "exp": "El apdo. VIII.D dice que el Comité citará por escrito a la persona denunciada y que «se le advertirá de que su no comparecencia pudiera ser considerada como un acto de obstrucción en la investigación de los hechos». El Protocolo no establece el archivo, el reconocimiento de los hechos ni una sanción automática.",
+   "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, Anexo II (Protocolo frente al acoso), apdo. VIII.D, pág. 61 de 67",
+   "confianza": "alta",
+   "cita": "se le advertirá de que su no comparecencia pudiera ser considerada como un acto de obstrucción en la investigación de los hechos."
+  },
+  {
+   "q": "Según el apdo. VIII.D del Protocolo frente al acoso (Anexo II del II Plan de Igualdad del Ayuntamiento de Zaragoza), cuando del informe del Comité de Asesoramiento se deduce con claridad la existencia de acoso, ese informe de valoración tiene, a todos los efectos, carácter de:",
+   "options": [
+    "Iniciación de un Expediente Informativo que resuelve Relaciones Laborales",
+    "Resolución sancionadora firme dictada por el propio Comité de Asesoramiento",
+    "Denuncia formal ante la Inspección de Trabajo y Seguridad Social",
+    "Propuesta de resolución definitiva del expediente disciplinario"
+   ],
+   "correct": 0,
+   "exp": "El apdo. VIII.D.c dice que, en ese caso, el Comité instará al Servicio de Relaciones Laborales a incoar un expediente informativo y a adoptar medidas correctoras y, si es necesario, sancionadoras, y que «el informe de valoración del Comité de Asesoramiento tendrá, a todos los efectos, carácter de iniciación de Expediente Informativo a resolver por el Servicio de Relaciones Laborales u órgano competente». El Comité no sanciona.",
+   "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, Anexo II (Protocolo frente al acoso), apdo. VIII.D.c), pág. 62 de 67",
+   "confianza": "alta",
+   "cita": "El informe de valoración del Comité de Asesoramiento tendrá, a todos los efectos, carácter de iniciación de Expediente Informativo a resolver por el Servicio de Relaciones Laborales u órgano competente."
+  },
+  {
+   "q": "Según el apdo. IX del Protocolo frente al acoso (Anexo II del II Plan de Igualdad del Ayuntamiento de Zaragoza), está prevista la evaluación del propio Protocolo como herramienta de prevención y actuación:",
+   "options": [
+    "Cada cuatro años, coincidiendo con la aprobación de un nuevo Plan de Igualdad",
+    "Solo cuando lo solicite la mayoría de la representación sindical municipal",
+    "Tras la tramitación de las tres primeras denuncias o al año de su implantación",
+    "Después de cada procedimiento formal que acabe en sanción disciplinaria"
+   ],
+   "correct": 2,
+   "exp": "El apdo. IX prevé «la evaluación del propio protocolo como herramienta de prevención y actuación contra el acoso sexual, por razón de sexo o por orientación sexual, tras la tramitación de las tres primeras denuncias o al año de su implantación, y siempre que se produzcan cambios legales o mejoras en los conocimientos técnicos al respecto».",
+   "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, Anexo II (Protocolo frente al acoso), apdo. IX, pág. 65 de 67",
+   "confianza": "alta",
+   "cita": "tras la tramitación de las tres primeras denuncias o al año de su implantación, y siempre que se produzcan cambios legales o mejoras en los conocimientos técnicos al respecto."
+  },
+  {
+   "q": "Según el apdo. VI del Protocolo frente al acoso (Anexo II del II Plan de Igualdad del Ayuntamiento de Zaragoza), para preservar la confidencialidad, desde el momento en que se formula la denuncia:",
+   "options": [
+    "Se archiva en el expediente personal de la persona denunciada",
+    "Se tramita solo de forma verbal, sin constancia por escrito",
+    "Se le asigna un código numérico que la identifica",
+    "Se publica sin datos personales en la intranet municipal"
+   ],
+   "correct": 2,
+   "exp": "La garantía de confidencialidad (apdo. VI.1) dispone que «desde el momento en que se formule la denuncia, se asignará un código numérico que se utilizará para identificar la denuncia concreta tratando de preservar la identidad de las personas». Quienes intervienen quedan sujetos al deber de secreto. Además, la denuncia verbal debe ratificarse por escrito (apdo. VIII.A).",
+   "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, Anexo II (Protocolo frente al acoso), apdo. VI.1, pág. 56 de 67",
+   "confianza": "alta",
+   "cita": "desde el momento en que se formule la denuncia, se asignará un código numérico que se utilizará para identificar la denuncia concreta"
+  },
+  {
+   "q": "Según el apdo. VI del Protocolo frente al acoso (Anexo II del II Plan de Igualdad del Ayuntamiento de Zaragoza), una denuncia presentada de buena fe cuya veracidad no se ha podido constatar:",
+   "options": [
+    "No se considera falsa ni calumniosa por ese motivo",
+    "Se considera falsa y da lugar a sanción a quien la presentó",
+    "Obliga a quien la presentó a indemnizar a la persona denunciada",
+    "Se considera temeraria y se remite a la Asesoría Jurídica"
+   ],
+   "correct": 0,
+   "exp": "El apdo. VI.7 sanciona las denuncias intencionadamente fraudulentas o dolosas, pero añade: «No se considerará falsa o calumniosa la denuncia presentada de buena fe aunque no se haya podido constatar la veracidad de la misma».",
+   "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, Anexo II (Protocolo frente al acoso), apdo. VI.7, pág. 57 de 67",
+   "confianza": "alta",
+   "cita": "No se considerará falsa o calumniosa la denuncia presentada de buena fe aunque no se haya podido constatar la veracidad de la misma."
+  },
+  {
+   "q": "Según la Declaración de principios del Protocolo frente al acoso (Anexo II, apdo. I, del II Plan de Igualdad del Ayuntamiento de Zaragoza), los comportamientos de acoso sexual, por razón de sexo y por orientación sexual, con independencia de lo que establezca la legislación penal, pueden ser considerados:",
+   "options": [
+    "Falta leve, salvo reincidencia",
+    "Falta grave en todo caso",
+    "Falta grave o leve, según su duración",
+    "Falta muy grave"
+   ],
+   "correct": 3,
+   "exp": "El apdo. I dice que queda expresamente prohibido cualquier comportamiento de esta naturaleza, «pudiendo ser consideradas, con independencia de lo establecido en la legislación penal, como falta muy grave». El Protocolo cita la Ley 7/2007 (EBEP), hoy sustituida por el texto refundido del TREBEP (RDLeg 5/2015), cuyo art. 95.2.b) sigue calificando como falta muy grave el acoso por razón de sexo, por orientación sexual o por expresión de género y el acoso sexual.",
+   "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, Anexo II (Protocolo frente al acoso), apdo. I, pág. 52 de 67; art. 95.2.b) TREBEP (RDLeg 5/2015)",
+   "confianza": "alta",
+   "cita": "pudiendo ser consideradas, con independencia de lo establecido en la legislación penal, como falta muy grave"
+  },
+  {
+   "q": "Según las definiciones del Protocolo frente al acoso (Anexo II, apdo. IV, del II Plan de Igualdad del Ayuntamiento de Zaragoza), el acoso por razón de sexo es el comportamiento que tiene como causa:",
+   "options": [
+    "Una conducta de naturaleza sexual dirigida a obtener provecho sexual",
+    "Los estereotipos de género, desarrollado de forma sistemática",
+    "Las diferencias de categoría profesional entre las personas implicadas",
+    "Un conflicto laboral puntual entre personas de distinto sexo"
+   ],
+   "correct": 1,
+   "exp": "El apdo. IV define el acoso por razón de sexo como «todo comportamiento en relación o que tiene como causa los estereotipos de género (prejuicios, ideas preconcebidas y trato discriminatorio a mujeres y hombres por razón de su sexo), desarrollado de forma sistemática». La conducta de naturaleza sexual para obtener provecho sexual corresponde a la definición de acoso sexual. Un conflicto puntual no es sistemático.",
+   "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, Anexo II (Protocolo frente al acoso), apdo. IV, pág. 55 de 67",
+   "confianza": "alta",
+   "cita": "ACOSO POR RAZÓN DE SEXO es todo comportamiento en relación o que tiene como causa los estereotipos de género"
+  },
+  {
+   "q": "Según el Protocolo frente al acoso (Anexo II, apdo. IV, del II Plan de Igualdad del Ayuntamiento de Zaragoza), el acoso por orientación sexual es cualquier comportamiento basado en:",
+   "options": [
+    "El sexo de la persona y los estereotipos sobre maternidad y cuidados",
+    "La orientación sexual, siempre que se produzca de forma reiterada",
+    "La conducta de naturaleza sexual de un superior jerárquico",
+    "La orientación sexual, la identidad de género y/o la expresión de género"
+   ],
+   "correct": 3,
+   "exp": "El apdo. IV define el acoso por orientación sexual como «cualquier comportamiento basado en la orientación sexual, identidad de género y/o expresión de género de una persona» que atente contra su dignidad o integridad o cree un entorno intimidatorio, hostil, degradante, humillante, ofensivo o molesto. No exige reiteración. Los estereotipos sobre maternidad y cuidados aparecen en el acoso por razón de sexo, y la conducta sexual de un superior encaja en el chantaje sexual.",
+   "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, Anexo II (Protocolo frente al acoso), apdo. IV, pág. 55 de 67",
+   "confianza": "alta",
+   "cita": "ACOSO POR ORIENTACIÓN SEXUAL es cualquier comportamiento basado en la orientación sexual, identidad de género y/o expresión de género de una persona"
+  },
+  {
+   "q": "Según el apartado 10 del II Plan de Igualdad del Ayuntamiento de Zaragoza, la representación en la Comisión de Igualdad:",
+   "options": [
+    "Corresponde en dos tercios a la corporación y en un tercio a las secciones sindicales",
+    "Es paritaria entre corporación y secciones sindicales y tiende al equilibrio entre sexos",
+    "Es proporcional a los resultados de cada sindicato en las últimas elecciones sindicales",
+    "Está formada al menos en un 60 % por mujeres y excluye a los cargos de la corporación"
+   ],
+   "correct": 1,
+   "exp": "El apartado 10 dice: «La representación será paritaria entre la corporación y las distintas secciones sindicales y tenderá al equilibrio entre mujeres y hombres siempre que sea posible». La Comisión está formada por representantes del equipo de Gobierno, de los servicios municipales implicados, de todos los sindicatos con derecho a la negociación colectiva y por las personas que ocupen los puestos de agente de igualdad.",
+   "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 10, pág. 45 de 67",
+   "confianza": "alta",
+   "cita": "La representación será paritaria entre la corporación y las distintas secciones sindicales y tenderá al equilibrio entre mujeres y hombres siempre que sea posible."
+  },
+  {
+   "q": "Según el apartado 10 del II Plan de Igualdad del Ayuntamiento de Zaragoza, ¿quién lleva a cabo la evaluación final del Plan, que servirá de base para definir el siguiente Plan de igualdad?",
+   "options": [
+    "La Unidad Municipal de Igualdad",
+    "La Oficina de Recursos Humanos",
+    "La Comisión de Igualdad",
+    "La Comisión Negociadora del Plan"
+   ],
+   "correct": 2,
+   "exp": "El apartado 10 («Evaluación final») dice: «La evaluación final la llevará a cabo la Comisión de Igualdad y permitirá conocer y valorar hasta que punto se han logrado los objetivos establecidos en el II Plan y […] será la base para definir el siguiente Plan de igualdad». La Unidad Municipal de Igualdad elabora el informe de seguimiento anual, no la evaluación final.",
+   "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 10, pág. 47 de 67",
+   "confianza": "alta",
+   "cita": "La evaluación final la llevará a cabo la Comisión de Igualdad y permitirá conocer y valorar hasta que punto se han logrado los objetivos establecidos en el II Plan"
+  },
+  {
+   "q": "Según el apartado 11 (Calendario de actuaciones) del II Plan de Igualdad del Ayuntamiento de Zaragoza, las medidas del Plan con temporalización permanente:",
+   "options": [
+    "Se incorporarán a la actividad habitual de las unidades responsables",
+    "Se revisarán cada año y decaerán si no se renuevan expresamente",
+    "Quedarán sin efecto al terminar los cuatro años de vigencia del Plan",
+    "Pasarán a depender directamente de la Alcaldía-Presidencia"
+   ],
+   "correct": 0,
+   "exp": "El apartado 11 dice: «Las medidas incluidas en el Plan que tienen una temporalización permanente se incorporarán a la actividad habitual de las unidades responsables de su implantación». No decaen al terminar la vigencia del Plan ni cambian de órgano responsable.",
+   "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 11, pág. 48 de 67",
+   "confianza": "alta",
+   "cita": "Las medidas incluidas en el Plan que tienen una temporalización permanente se incorporarán a la actividad habitual de las unidades responsables de su implantación."
+  },
+  {
+   "q": "Según las medidas en proceso permanente del I PIEEM (Anexo I del II Plan de Igualdad del Ayuntamiento de Zaragoza), ¿cuántos temas sobre la normativa vigente en materia de igualdad de género deben contener los temarios de las pruebas selectivas?",
+   "options": [
+    "Uno para A.P., C2 y C1, y dos para A2 y A1",
+    "Uno para todos los grupos, sin distinción",
+    "Dos para A.P., C2 y C1, y uno para A2 y A1",
+    "Dos para todos los grupos, sin distinción"
+   ],
+   "correct": 0,
+   "exp": "La medida 2 del Área de Trabajo «Acceso» del Anexo I dice que todos los temarios de las pruebas selectivas «deberán contener uno o dos temas, según el grupo de la plaza objeto de la convocatoria (1 tema para: A.P., C2 y C1; y 2 temas para: A2 y A1), relativos a la normativa vigente en materia de Igualdad de género».",
+   "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, Anexo I, Área de Trabajo 1 «Acceso», medida 2, pág. 50 de 67",
+   "confianza": "alta",
+   "cita": "(1 tema para: A.P., C2 y C1; y 2 temas para: A2 y A1), relativos a la normativa vigente en materia de Igualdad de género."
+  },
+  {
+   "q": "Según el apartado 8 del II Plan de Igualdad del Ayuntamiento de Zaragoza, el Eje B «Gestión de Recursos Humanos» tiene como objetivo:",
+   "options": [
+    "Garantizar la igualdad de trato como uno de los valores fundamentales de la organización",
+    "Garantizar el derecho a la conciliación e impulsar la corresponsabilidad familiar",
+    "Garantizar la implementación de la perspectiva de género en la gestión de personal",
+    "Garantizar la paridad absoluta en todas las categorías y puestos de la plantilla"
+   ],
+   "correct": 2,
+   "exp": "El apartado 8 dice: «Eje B) GESTIÓN DE RECURSOS HUMANOS. Tiene como objetivo garantizar la implementación de la perspectiva de género en la gestión de personal, velando para que en todos los procesos se garanticen la igualdad de trato y oportunidades entre mujeres y hombres». La igualdad como uno de los valores fundamentales es el objetivo del Eje A, y la conciliación y corresponsabilidad, el del Eje C.",
+   "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 8, pág. 20 de 67",
+   "confianza": "alta",
+   "cita": "Tiene como objetivo garantizar la implementación de la perspectiva de género en la gestión de personal, velando para que en todos los procesos se garanticen la igualdad de trato y oportunidades entre mujeres y hombres."
+  },
+  {
+   "q": "Según el apartado 8 del II Plan de Igualdad del Ayuntamiento de Zaragoza, el Eje D «Prevención, salud laboral y protección frente al acoso sexual, acoso por razón de sexo y acoso por orientación sexual» tiene como objetivo:",
+   "options": [
+    "Garantizar la igualdad de trato como uno de los valores de la organización",
+    "Garantizar un entorno laboral adecuado para mejorar la calidad de vida",
+    "Garantizar el derecho a la conciliación e impulsar la corresponsabilidad",
+    "Garantizar la reducción a la mitad de las bajas por enfermedad común"
+   ],
+   "correct": 1,
+   "exp": "El apartado 8 dice que el Eje D «tiene como objetivo garantizar un entorno laboral adecuado para mejorar la calidad de la vida de las personas trabajadoras». La igualdad como uno de los valores fundamentales es el objetivo del Eje A, y la conciliación y corresponsabilidad, el del Eje C. El Plan no fija ninguna reducción porcentual de bajas.",
+   "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 8, pág. 20 de 67",
+   "confianza": "alta",
+   "cita": "Tiene como objetivo garantizar un entorno laboral adecuado para mejorar la calidad de la vida de las personas trabajadoras."
+  },
+  {
+   "q": "Según el apartado 5.2 del II Plan de Igualdad del Ayuntamiento de Zaragoza, su ámbito territorial comprende:",
+   "options": [
+    "Los centros de trabajo del término municipal, salvo los de los organismos autónomos",
+    "Los centros de trabajo del Ayuntamiento y los de todas sus empresas contratistas",
+    "Solo las dependencias de la Casa Consistorial y de las Juntas Municipales de Distrito",
+    "Todos los centros de trabajo del Ayuntamiento de Zaragoza y sus organismos autónomos"
+   ],
+   "correct": 3,
+   "exp": "El apartado 5.2 dice: «El ámbito territorial del presente Plan son todos los centros de trabajo del Ayuntamiento de Zaragoza y sus organismos autónomos». A las empresas contratadas solo se les da traslado del Plan para su conocimiento y aplicación si procede (apartado 5.1).",
+   "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 5.2, pág. 16 de 67",
+   "confianza": "alta",
+   "cita": "El ámbito territorial del presente Plan son todos los centros de trabajo del Ayuntamiento de Zaragoza y sus organismos autónomos."
+  },
+  {
+   "q": "Según la acción A.2.2.2 del II Plan de Igualdad del Ayuntamiento de Zaragoza (objetivo específico «Introducir la perspectiva de género en el Pacto-Convenio»), ¿qué debe realizarse antes de aprobar el Pacto-Convenio?",
+   "options": [
+    "Una consulta a toda la plantilla municipal",
+    "Un informe de impacto de género",
+    "Un dictamen de la Asesoría Jurídica",
+    "Una auditoría retributiva externa"
+   ],
+   "correct": 1,
+   "exp": "La acción A.2.2.2 consiste en «Realizar un informe de impacto de género previo a la aprobación del Pacto – Convenio», con temporalización «Previo a la aprobación del Pacto Convenio» y como responsables el Servicio de Mujer e Igualdad y el Servicio de Relaciones Laborales.",
+   "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 9, Eje A, Línea A.2, acción A.2.2.2, pág. 30 de 67",
+   "confianza": "alta",
+   "cita": "Realizar un informe de impacto de género previo a la aprobación del Pacto – Convenio."
+  },
+  {
+   "q": "Según la acción B.1.1.3 del II Plan de Igualdad del Ayuntamiento de Zaragoza, ¿qué bases de acceso deben revisarse para introducir, si procede, medidas de acción positiva?",
+   "options": [
+    "Las de todas las plazas de los subgrupos A1 y A2 convocadas por concurso-oposición",
+    "Las de plazas de libre designación en las que la presencia de hombres sea mayoritaria",
+    "Las de plazas de personal laboral temporal convocadas por razones de urgencia",
+    "Las de plazas que incluyan pruebas físicas en las que la presencia de mujeres sea escasa"
+   ],
+   "correct": 3,
+   "exp": "La acción B.1.1.3 (Línea B.1 «Acceso») consiste en «Revisar las bases de acceso a aquellas plazas que incluyan pruebas físicas donde la presencia de mujeres sea escasa, para introducir medidas de acción positiva si procede».",
+   "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 9, Eje B, Línea B.1, acción B.1.1.3, pág. 34 de 67",
+   "confianza": "alta",
+   "cita": "Revisar las bases de acceso a aquellas plazas que incluyan pruebas físicas donde la presencia de mujeres sea escasa, para introducir medidas de acción positiva si procede."
+  },
+  {
+   "q": "Según los datos del Diagnóstico recogidos en el apartado 7 del II Plan de Igualdad del Ayuntamiento de Zaragoza, ¿qué colectivo presenta un 67 % de hombres y un 33 % de mujeres?",
+   "options": [
+    "El personal directivo",
+    "El Gobierno de Zaragoza",
+    "El personal eventual",
+    "El Comité de Empresa"
+   ],
+   "correct": 0,
+   "exp": "El apartado 7 dice que el Gobierno de Zaragoza (9 personas) tiene una composición paritaria con mayor presencia de mujeres, que el personal eventual tiene una representación equilibrada y que «el personal directivo es el grupo más desequilibrado de los que se ha analizado con un 67% de hombres y un 33% de mujeres». En el Comité de Empresa la mayoría es de mujeres (77,8 %).",
+   "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 7, pág. 18 de 67",
+   "confianza": "alta",
+   "cita": "el personal directivo es el grupo más desequilibrado de los que se ha analizado con un 67% de hombres y un 33% de mujeres."
+  },
+  {
+   "q": "Según el apartado 6 (Metodología) del II Plan de Igualdad del Ayuntamiento de Zaragoza, el Plan se califica como «colectivo» porque:",
+   "options": [
+    "Comprende a todas las Áreas del Ayuntamiento y a la totalidad de la plantilla",
+    "Su diseño responde al análisis de la realidad sociolaboral de la plantilla",
+    "Su impacto mejora la situación de las mujeres de la plantilla y también la de los hombres",
+    "Mantiene sus acciones mientras no se elimine la desigualdad detectada"
+   ],
+   "correct": 2,
+   "exp": "El apartado 6 dice: «Es un plan colectivo, porque su impacto resulta positivo para mejorar no solo la situación laboral y personal de las mujeres del Ayuntamiento de Zaragoza, sino también la de los hombres que la integran». Comprender a todas las Áreas y a toda la plantilla lo hace «transversal»; responder a la realidad de la plantilla, «específico»; y mantener sus acciones hasta eliminar la desigualdad, «en proceso continuo».",
+   "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, apdo. 6, pág. 17 de 67",
+   "confianza": "alta",
+   "cita": "Es un plan colectivo, porque su impacto resulta positivo para mejorar no solo la situación laboral y personal de las mujeres del Ayuntamiento de Zaragoza, sino también la de los hombres que la integran."
+  }
+ ]
+}
