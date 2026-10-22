@@ -47,7 +47,7 @@ registerEsquema('aux-admin-zaragoza', 9, {
   secciones: [
     {titulo: 'Los tipos contractuales', a: 'arts. 12-17', bloques: [
       {tipo: 'tabla', cab: ['Contrato', 'Objeto', 'Para no confundir'], filas: [
-        ['<b>Obras</b> (13)', 'Ejecutar una obra, sola o con la redacción del proyecto, o los trabajos del Anexo I.', '«Obra»: trabajos de construcción o ingeniería civil sobre un <b>bien inmueble</b>. Debe ser una <b>obra completa</b>, susceptible de entregarse al uso general o al servicio.'],
+        ['<b>Obras</b> (13)', 'Ejecutar una obra, sola o con la redacción del proyecto, o los trabajos del Anexo I.', '«Obra»: trabajos de construcción o ingeniería civil sobre un <b>bien inmueble</b>. Se refiere a una <b>obra completa</b> (susceptible de entregarse al uso general o al servicio), salvo excepciones.'],
         ['<b>Concesión de obras</b> (14)', 'Realizar obras (también restaurar, reparar, conservar y mantener).', 'Se paga con el <b>derecho a explotar la obra</b>, o con ese derecho más un precio.'],
         ['<b>Concesión de servicios</b> (15)', 'Encomendar a título oneroso la <b>gestión de un servicio</b> de titularidad o competencia del poder adjudicador. {{examen:2026}}', 'Se paga con el <b>derecho a explotar el servicio</b>, o con ese derecho más un precio.'],
         ['<b>Suministro</b> (16)', 'Adquirir, arrendar (con o sin opción de compra) o arrendamiento financiero de <b>productos o bienes muebles</b>.', 'No lo son los contratos sobre propiedades incorporales o valores negociables.'],
@@ -93,7 +93,7 @@ registerEsquema('aux-admin-zaragoza', 9, {
         {t: 'Mixto: contiene prestaciones de otro u otros contratos de <b>distinta clase</b>.', a: '18.1'},
         {t: 'Solo se admite si las prestaciones están <b>directamente vinculadas</b> y son complementarias, como una <b>unidad funcional</b>.', a: '34.2'},
         {t: 'Varios de obras, suministros o servicios: manda la <b>prestación principal</b>. Si son servicios y suministros, o servicios especiales del Anexo IV y otros, manda el <b>mayor valor estimado</b>.', a: '18.1.a'},
-        {t: 'Con una concesión: si no son separables, la principal; si son separables y se hace un contrato único, rigen las normas de obras, suministros o servicios cuando su valor supere los umbrales de los arts. 20 a 22.', a: '18.1.b'},
+        {t: 'Con una concesión: si no son separables, la principal; si son separables y se hace un contrato único, rigen las normas de obras, suministros o servicios cuando su valor estimado supere los umbrales de los arts. 20 a 22; si no, las de la concesión.', a: '18.1.b'},
         {t: 'Si la obra supera <b>50.000 euros</b>: proyecto. Si hay concesión: estudio de viabilidad.', a: '18.3'}
       ]},
       {tipo: 'columnas', cols: [
@@ -111,7 +111,7 @@ registerEsquema('aux-admin-zaragoza', 9, {
 
     {titulo: 'Órgano de contratación en las entidades locales', a: 'DA 2.ª.1-4 y 9-11', bloques: [
       {tipo: 'tabla', cab: ['Órgano', 'Contratos', 'Cuándo'], filas: [
-        ['<b>Alcalde / Presidente</b>', 'Obras, suministro, servicios, concesión de obras, concesión de servicios y administrativos especiales', 'Valor estimado hasta el <b>10 %</b> de los recursos ordinarios y nunca más de <b>6 millones</b>. Plurianuales: hasta <b>4 años</b> con prórrogas, sumando todas las anualidades.'],
+        ['<b>Alcalde / Presidente</b>', 'Obras, suministro, servicios, concesión de obras, concesión de servicios y administrativos especiales', 'Valor estimado hasta el <b>10 %</b> de los recursos ordinarios y nunca más de <b>6 millones</b>. Plurianuales: hasta <b>4 años</b> con prórrogas, y la suma de todas las anualidades dentro de esos límites (el porcentaje, sobre el primer ejercicio).'],
         ['<b>Pleno</b>', 'Los mismos', 'Cuando por valor o duración no correspondan al Alcalde. Además, aprueba los <b>pliegos de cláusulas administrativas generales</b>.'],
         ['<b>Alcalde / Presidente</b>', 'Privados, concesiones sobre bienes, adquisición de inmuebles y derechos, enajenación del patrimonio', 'Hasta el <b>10 %</b> de los recursos ordinarios y <b>3 millones</b>.'],
         ['<b>Pleno</b>', 'Los mismos', 'Cuando no correspondan al Alcalde, y siempre los bienes de <b>valor histórico o artístico</b>.']
@@ -134,7 +134,7 @@ registerEsquema('aux-admin-zaragoza', 9, {
         ]},
         {titulo: 'Juntas de Contratación · DA 2.ª.5', reglas: [
           'Son <b>potestativas</b>. Las crea el <b>Pleno</b>, que fija su composición (siempre Secretario o asesoría jurídica, e Interventor).',
-          'Actúan como órgano de contratación en obras de reparación simple, conservación y mantenimiento; suministros de bienes consumibles o de fácil deterioro; y servicios hasta el 10 % de los recursos ordinarios (o más, si están previstos en el presupuesto).',
+          'Actúan como órgano de contratación en obras de reparación simple, conservación y mantenimiento; suministros de bienes consumibles o de fácil deterioro; y servicios, cuando no superen el <b>10 %</b> de los recursos ordinarios o, si lo superan, estén previstos en el presupuesto y se ajusten a sus bases de ejecución.',
           'Límites: en gran población, la <b>Junta de Gobierno Local</b>; en el resto, el <b>Pleno</b>.',
           'Cuando actúan, <b>no interviene la Mesa</b>.'
         ]}

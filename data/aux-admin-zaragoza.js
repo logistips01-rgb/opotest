@@ -20875,7 +20875,7 @@ const QUESTIONS = {
       "Las respuestas a) y b) son correctas"
     ],
     "correct": 2,
-    "exp": "Pregunta 48 del examen oficial de 1 de junio de 2025. Art. 40.2 Ley 39/2015: ambos requisitos (plazo de 15 días y texto íntegro) son correctos. Respuesta correcta: c).",
+    "exp": "Pregunta 48 del examen oficial de 1 de junio de 2025, con la respuesta que figura como correcta en el examen: c). OJO: el art. 40.2 de la Ley 39/2015 vigente fija un plazo de DIEZ días desde que se dicta el acto, no quince. La exigencia del texto íntegro de la resolución sí es literal. Para el examen, estudia los diez días.",
     "fuente": "Examen oficial de Auxiliar Administrativo del Ayuntamiento de Zaragoza, 1-jun-2025, pregunta 48"
   },
   {
