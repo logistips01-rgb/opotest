@@ -1,23 +1,71 @@
 {
   "slug": "aux-admin-zaragoza",
   "tema": 2,
-  "fecha": "2026-08-13",
+  "fecha": "2026-10-22",
   "preguntas": [
     {
-      "q": "Según el art. 8 de la LO 3/2007, constituye discriminación directa por razón de sexo:",
+      "q": "Según el art. 12.2 de la LO 3/2007, la capacidad y legitimación de las personas físicas y jurídicas con interés legítimo se refiere a los procesos sobre defensa del derecho a la igualdad de los órdenes:",
       "options": [
-        "Cualquier trato desfavorable relacionado con la conciliación familiar en general",
-        "Todo trato desfavorable a las mujeres relacionado con el embarazo o la maternidad",
-        "El trato desfavorable a los hombres por asumir permisos de paternidad",
-        "Únicamente el despido durante el embarazo"
+        "Penal, civil y contencioso-administrativo",
+        "Civil, social y contencioso-administrativo",
+        "Penal, social y contencioso-administrativo",
+        "Civil, penal y social"
       ],
       "correct": 1,
-      "exp": "El art. 8 dice literalmente: 'Constituye discriminación directa por razón de sexo todo trato desfavorable a las mujeres relacionado con el embarazo o la maternidad.'",
-      "fuente": "Art. 8 LO 3/2007",
+      "exp": "El art. 12.2 habla de «los procesos civiles, sociales y contencioso-administrativos que versen sobre la defensa de este derecho». El orden penal no se menciona; de hecho, el art. 13.2 excluye también los procesos penales de la regla especial de prueba.",
+      "fuente": "Art. 12.2 LO 3/2007 (Ley Orgánica 3/2007, de 22 de marzo)",
       "confianza": "alta",
-      "veredicto": "CONFIRMADA",
-      "notaRevision": "Cotejado con art. 8: 'Constituye discriminación directa por razón de sexo todo trato desfavorable a las mujeres relacionado con el embarazo o la maternidad', coincide con la opción marcada.",
-      "_motivo": "ya está en el banco"
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): Correcta según el texto (art. 12.2: «procesos civiles, sociales y contencioso-administrativos»), pero repite contenido ya presente en el banco: T2#66 y T2#117 ponen en el propio enunciado «los procesos civiles, sociales y contencioso-administrativos» del art. 12.2, T2#119 compara 12.2 y 12.3, y T2#122 pregunta la exclusión de los procesos penales (art. 13.2), que es lo que distingue aquí la correcta de los distractores. No aporta ningún dato nuevo, y el art. 12.2 ya tiene tres preguntas (regla 6). | Revisor 2 (CONFIRMADA): Art. 12.2 LO 3/2007: «procesos civiles, sociales y contencioso-administrativos». Las tres opciones que incluyen el orden penal son falsas. Las existentes del 12.2 preguntan quién está legitimado, no los órdenes. Título I.",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "Según el art. 3.a de la Ley 4/2007 de Aragón, la violencia doméstica comprende también la ejercida sobre las menores o incapaces que convivan con el agresor o que se hallen sujetas, respecto del cónyuge o conviviente, a:",
+      "options": [
+        "Patria potestad o tutela, siempre que hayan sido declaradas por resolución judicial",
+        "Autoridad familiar, potestad, tutela, curatela, acogimiento o guarda de hecho",
+        "Tutela o curatela, pero no a acogimiento familiar ni a guarda de hecho",
+        "Acogimiento familiar formalizado ante la entidad pública de protección"
+      ],
+      "correct": 1,
+      "exp": "El art. 3.a termina con la violencia ejercida «sobre las menores o incapaces que con él convivan o que se hallen sujetas a autoridad familiar, potestad, tutela, curatela, acogimiento o guarda de hecho del cónyuge o conviviente». La lista incluye la guarda de hecho y el acogimiento, y no exige declaración judicial ni formalización.",
+      "fuente": "Art. 3.a) Ley 4/2007 de Aragón (Ley 4/2007, de 22 de marzo)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (DUDOSA): La correcta es literal (art. 3.a: «autoridad familiar, potestad, tutela, curatela, acogimiento o guarda de hecho del cónyuge o conviviente»). Pero el distractor «Acogimiento familiar formalizado ante la entidad pública de protección» no es falso: una menor en acogimiento formalizado del cónyuge está comprendida en «acogimiento», y la opción no lleva ningún «solo» ni ninguna exclusión, a diferencia de los otros dos distractores («siempre que...», «pero no a...»). Hay dos opciones defendibles. Arreglo: «Únicamente a acogimiento familiar formalizado ante la entidad pública de protección» o «Acogimiento, siempre que se haya formalizado ante la entidad pública de protección». | Revisor 2 (DUDOSA): La correcta es exacta (art. 3.a Ley 4/2007). Pero el distractor «Acogimiento familiar formalizado ante la entidad pública de protección» también es cierto: un menor en acogimiento formalizado del cónyuge o conviviente está incluido, porque la ley dice «acogimiento» sin más. Ese distractor no pone ninguna restricción («solo», «siempre que»), a diferencia del de la patria potestad. Arreglo: redactarlo como «Solo acogimiento familiar formalizado ante la entidad pública, no la guarda de hecho» o cambiarlo por otro claramente falso.",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "Según el art. 19.2 de la Ley 4/2007 de Aragón, las casas de acogida atenderán, además de a las mujeres víctimas de violencia doméstica, a las que se encuentren en situación de:",
+      "options": [
+        "Alto riesgo, siempre que dispongan de dispositivo de alarma",
+        "Exclusión social, aunque no hayan sufrido actos de violencia",
+        "Riesgo inminente, y también a las hijas e hijos a su cargo",
+        "Desempleo, si están inscritas como demandantes de empleo"
+      ],
+      "correct": 2,
+      "exp": "El art. 19.2 dice que las casas de acogida «no solo atenderán a las mujeres víctimas de violencia doméstica o que se encuentren en situación de riesgo inminente, sino también a las hijas e hijos a su cargo». El «alto riesgo» es el presupuesto del dispositivo de alarma (art. 24.1), y la inscripción como demandante de empleo se exige para la preferencia en programas de formación e inserción (art. 30.2).",
+      "fuente": "Art. 19.2 Ley 4/2007 de Aragón (Ley 4/2007, de 22 de marzo)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Art. 19.2 Ley 4/2007: las casas de acogida atienden a las víctimas de violencia doméstica «o que se encuentren en situación de riesgo inminente, sino también a las hijas e hijos a su cargo». Distractores falsos. La explicación sobre el «alto riesgo» del art. 24.1 y la inscripción como demandante del art. 30.2 es exacta. El dato nuevo es el riesgo inminente: T2#155 y T2#159 tratan las hijas e hijos y la autonomía personal, no este supuesto. | Revisor 2 (DUDOSA): El texto es correcto (art. 19.2 Ley 4/2007: «o que se encuentren en situación de riesgo inminente, sino también a las hijas e hijos a su cargo»), y los distractores son falsos. Pero repite en parte y se delata: el banco ya pregunta en dos ocasiones que las casas de acogida atienden «también a las hijas e hijos a su cargo» (art. 19.2), y la correcta es la única opción que añade a los hijos, así que se acierta sin conocer el dato nuevo, el riesgo inminente. Arreglo: dejar la correcta en «Riesgo inminente» y que las cuatro opciones sean situaciones parecidas, sin mencionar a los hijos.",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "Según el apdo. VIII.B del Protocolo frente al acoso (Anexo II del II Plan de Igualdad del Ayuntamiento de Zaragoza), tras su análisis inicial la Asesoría Confidencial podrá no admitir a trámite la denuncia cuando:",
+      "options": [
+        "La persona denunciada lleve más de diez años en la plantilla municipal",
+        "Considere que la situación denunciada no pertenece al ámbito del Protocolo",
+        "La persona denunciante haya tardado más de un mes en presentar su denuncia",
+        "La persona denunciante no aporte pruebas documentales de los hechos"
+      ],
+      "correct": 1,
+      "exp": "El apdo. VIII.B permite a la Asesoría Confidencial «no admitir a trámite dicha denuncia si se considera que la situación denunciada no pertenece al ámbito de este Protocolo», remitiendo un escrito a la persona denunciante con los motivos. Las otras dos salidas son iniciar el procedimiento informal o el formal. El Protocolo no prevé la inadmisión por antigüedad del denunciado, por el horario de los hechos ni por falta de prueba documental.",
+      "fuente": "II Plan de Igualdad del Ayuntamiento de Zaragoza 2024-2027, Anexo II (Protocolo frente al acoso), apdo. VIII.B, pág. 60 de 67",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (DUDOSA): Pregunta correcta: según el apdo. VIII.B, letra a), cabe no admitir a trámite «si se considera que la situación denunciada no pertenece al ámbito de este Protocolo», y los tres distractores son falsos. Pero la explicación no es exacta respecto de las opciones: descarta la inadmisión «por el horario de los hechos», que no figura en ninguna opción, y omite el distractor real del retraso de más de un mes en denunciar. Arreglo: cambiar en la explicación «por el horario de los hechos» por «por el tiempo transcurrido hasta la denuncia». | Revisor 2 (DUDOSA): La correcta es exacta (VIII.B a, pág. 60) y los tres distractores son falsos. Pero la explicación no cuadra con las opciones: dice que el Protocolo no prevé la inadmisión «por el horario de los hechos», que no es ninguna opción, y no menciona el distractor real «haya tardado más de un mes en presentar su denuncia». Arreglo: cambiar en la explicación «por el horario de los hechos» por «por el tiempo transcurrido hasta la denuncia».",
+      "_motivo": "veredicto DUDOSA"
     }
   ]
 }
