@@ -1,0 +1,707 @@
+{
+ "slug": "aux-admin-zaragoza",
+ "tema": 10,
+ "lote": "t10-aragon-1",
+ "preguntas": [
+  {
+   "q": "Según el art. 4.3 del Decreto 347/2002 del Gobierno de Aragón (RBASO), si no consta la afectación de un bien local a un uso o servicio público ni su naturaleza comunal, se presume que es un bien:",
+   "options": [
+    "De uso público",
+    "De servicio público",
+    "Patrimonial",
+    "Comunal"
+   ],
+   "correct": 2,
+   "exp": "El art. 4.3 RBASO establece una presunción a favor del carácter patrimonial: «Si no consta la afectación de un bien a un uso o servicio público o su naturaleza comunal se presume su carácter patrimonial». Uso público, servicio público y comunal son precisamente las clases de dominio público cuya afectación o naturaleza no consta.",
+   "fuente": "Art. 4.3 RBASO (Decreto 347/2002 de Aragón)",
+   "confianza": "alta",
+   "cita": "Si no consta la afectación de un bien a un uso o servicio público o su naturaleza comunal se presume su carácter patrimonial."
+  },
+  {
+   "q": "Según el art. 5.1 del Decreto 347/2002 del Gobierno de Aragón (RBASO), para declarar un terreno de la entidad local como parcela sobrante se requiere:",
+   "options": [
+    "Resolución del Presidente de la entidad local, previo informe técnico, del Interventor y del Secretario",
+    "Procedimiento de calificación jurídica como tal, salvo que ese carácter resulte de la aprobación de planes de ordenación o de proyectos de obras y servicios",
+    "Autorización previa del Departamento competente del Gobierno de Aragón",
+    "Únicamente su inclusión en el epígrafe de inmuebles del inventario, sin procedimiento alguno"
+   ],
+   "correct": 1,
+   "exp": "El art. 5.1 RBASO exige «procedimiento de calificación jurídica como tal, conforme a lo dispuesto en el artículo 10», salvo cuando el carácter de parcela sobrante resulte de planes de ordenación o proyectos de obras y servicios. La resolución del Presidente con informes del Interventor y del Secretario es el régimen de la declaración de bien no utilizable (art. 5.2), no el de la parcela sobrante.",
+   "fuente": "Art. 5.1 RBASO (Decreto 347/2002 de Aragón)",
+   "confianza": "alta",
+   "cita": "Para declarar un terreno parcela sobrante se requerirá procedimiento de calificación jurídica como tal, conforme a lo dispuesto en el artículo 10 de este Reglamento, salvo cuando este carácter resulte de la aprobación de planes de ordenación o de proyectos de obras y servicios."
+  },
+  {
+   "q": "Según el art. 5.2 del Decreto 347/2002 del Gobierno de Aragón (RBASO), ¿quién resuelve el procedimiento para declarar no utilizable un bien de la entidad local?",
+   "options": [
+    "El Presidente de la entidad local, previo informe del Interventor y del Secretario o de los Letrados de los Servicios Jurídicos",
+    "El Pleno, por mayoría absoluta del número legal de miembros, previa información pública de un mes",
+    "El Pleno, por mayoría simple, previo informe del Interventor",
+    "El Departamento de Presidencia y Relaciones Institucionales del Gobierno de Aragón"
+   ],
+   "correct": 0,
+   "exp": "El art. 5.2 RBASO dispone que la declaración de bien no utilizable requiere procedimiento con informe técnico «que será resuelto por el Presidente de la Entidad local, previo informe del Interventor y del Secretario o de los Letrados de los Servicios Jurídicos». No interviene el Pleno ni la Comunidad Autónoma.",
+   "fuente": "Art. 5.2 RBASO (Decreto 347/2002 de Aragón)",
+   "confianza": "alta",
+   "cita": "será resuelto por el Presidente de la Entidad local, previo informe del Interventor y del Secretario o de los Letrados de los Servicios Jurídicos de dicha Entidad."
+  },
+  {
+   "q": "Según el art. 6.3 del Decreto 347/2002 del Gobierno de Aragón (RBASO), los bienes que, teniendo la calificación de patrimoniales, vengan siendo destinados materialmente a un servicio o función pública:",
+   "options": [
+    "Son inembargables",
+    "Pueden ser embargados como cualquier otro bien patrimonial",
+    "Pueden enajenarse por venta directa, sin necesidad de subasta",
+    "Quedan sujetos a las normas de aprovechamiento de los bienes comunales"
+   ],
+   "correct": 0,
+   "exp": "El art. 6.3 RBASO, tras decir que los patrimoniales se rigen por su legislación específica y, en su defecto, por el Derecho privado, añade: «No obstante, aquellos bienes que, teniendo la calificación de patrimoniales, vengan siendo destinados materialmente a un servicio o función pública, serán inembargables».",
+   "fuente": "Art. 6.3 RBASO (Decreto 347/2002 de Aragón)",
+   "confianza": "alta",
+   "cita": "aquellos bienes que, teniendo la calificación de patrimoniales, vengan siendo destinados materialmente a un servicio o función pública, serán inembargables."
+  },
+  {
+   "q": "Según el art. 8 del Decreto 347/2002 del Gobierno de Aragón (RBASO), los bienes adquiridos por expropiación forzosa quedan afectados a los fines que la motivaron. Concluida esa afectación, esos bienes:",
+   "options": [
+    "Pasan a ser bienes comunales",
+    "Siguen siendo de dominio público mientras el Pleno no los desafecte por mayoría de dos tercios",
+    "Pasan a ser bienes patrimoniales, sin perjuicio, en su caso, del derecho de reversión",
+    "Deben devolverse en todo caso a su antiguo propietario, sin que quepa darles otro destino"
+   ],
+   "correct": 2,
+   "exp": "El art. 8.3 RBASO dispone: «Concluida la afectación, pasarán a ser bienes patrimoniales, sin perjuicio, en su caso, del derecho de reversión en los términos de la legislación de expropiación forzosa». La reversión no es automática «en todo caso», y el art. 8.2 permite incluso acordar una nueva afectación a otro fin de utilidad pública o interés social.",
+   "fuente": "Art. 8.3 RBASO (Decreto 347/2002 de Aragón)",
+   "confianza": "alta",
+   "cita": "Concluida la afectación, pasarán a ser bienes patrimoniales, sin perjuicio, en su caso, del derecho de reversión en los términos de la legislación de expropiación forzosa."
+  },
+  {
+   "q": "Según el art. 177.2 de la Ley 7/1999, de Administración Local de Aragón, el expediente de alteración expresa de la calificación jurídica de los bienes lo resuelve el Pleno, previa información pública de un mes. ¿Cuándo debe adoptarse el acuerdo por mayoría absoluta del número legal de miembros?",
+   "options": [
+    "En todo caso, cualquiera que sea la clase de bien",
+    "Solo cuando el valor del bien exceda del 25 % de los recursos ordinarios del presupuesto",
+    "Solo cuando la alteración se refiere a parcelas sobrantes o bienes no utilizables",
+    "Cuando la alteración se refiere a bienes de dominio público"
+   ],
+   "correct": 3,
+   "exp": "El art. 177.2 de la Ley 7/1999 (y en los mismos términos el art. 10 RBASO) dice: «Si la alteración de la calificación jurídica se refiere a bienes de dominio público, el acuerdo habrá de adoptarse por mayoría absoluta del número legal de miembros de la Corporación». La mayoría absoluta no se exige en todo caso ni depende del valor del bien.",
+   "fuente": "Art. 177.2 LALA (Ley 7/1999 de Aragón)",
+   "confianza": "alta",
+   "cita": "Si la alteración de la calificación jurídica se refiere a bienes de dominio público, el acuerdo habrá de adoptarse por mayoría absoluta del número legal de miembros de la Corporación."
+  },
+  {
+   "q": "Según el art. 14.1 del Decreto 347/2002 del Gobierno de Aragón (RBASO), la mutación demanial que consiste en cambiar el destino de un bien de dominio público, sin alterar su calificación jurídica y dentro del ámbito competencial y la estructura orgánica de la propia entidad local, requiere acuerdo del Pleno adoptado por:",
+   "options": [
+    "Mayoría absoluta del número legal de miembros, previa información pública de un mes",
+    "Mayoría simple, acreditando la utilidad pública del cambio de destino",
+    "Mayoría de dos tercios del número legal de miembros",
+    "Mayoría absoluta, con aprobación posterior del Gobierno de Aragón"
+   ],
+   "correct": 1,
+   "exp": "El art. 14.1 RBASO exige, previa iniciación e instrucción de procedimiento, «acuerdo del Pleno de la Corporación local, adoptado por mayoría simple, en que se acredite la utilidad pública del cambio de destino». La mayoría absoluta se reserva para la mutación que cede la titularidad del bien a otra Administración (art. 14.2).",
+   "fuente": "Art. 14.1 RBASO (Decreto 347/2002 de Aragón)",
+   "confianza": "alta",
+   "cita": "acuerdo del Pleno de la Corporación local, adoptado por mayoría simple, en que se acredite la utilidad pública del cambio de destino."
+  },
+  {
+   "q": "Según el art. 14.2 del Decreto 347/2002 del Gobierno de Aragón (RBASO), la mutación demanial que consiste en ceder la titularidad de un bien a otra Administración pública, manteniendo su afección al uso o servicio público, requiere acuerdo del Pleno con:",
+   "options": [
+    "Mayoría simple",
+    "El voto favorable de la mayoría absoluta del número legal de sus miembros",
+    "Mayoría de dos tercios del número legal de miembros y aprobación del Gobierno de Aragón",
+    "Mayoría de tres quintos del número legal de miembros"
+   ],
+   "correct": 1,
+   "exp": "El art. 14.2 RBASO somete esta mutación al mismo procedimiento que la del apartado 1, «si bien el acuerdo del Pleno requerirá el voto favorable de la mayoría absoluta del número legal de sus miembros». La mayoría simple es la del simple cambio de destino dentro de la propia entidad (art. 14.1).",
+   "fuente": "Art. 14.2 RBASO (Decreto 347/2002 de Aragón)",
+   "confianza": "alta",
+   "cita": "si bien el acuerdo del Pleno requerirá el voto favorable de la mayoría absoluta del número legal de sus miembros."
+  },
+  {
+   "q": "Según el art. 178.1 de la Ley 7/1999, de Administración Local de Aragón, ¿cuál de los siguientes supuestos produce automáticamente la alteración de la calificación jurídica y la afectación de los bienes al dominio público?",
+   "options": [
+    "La adscripción de bienes patrimoniales durante más de diez años a un uso o servicio público",
+    "La compra de un inmueble por la entidad local mediante contrato",
+    "La adquisición por cesión obligatoria con el fin de destinar el bien al uso público o a la prestación de un servicio público determinado",
+    "La inclusión del bien en el inventario como bien de servicio público por resolución del Alcalde"
+   ],
+   "correct": 2,
+   "exp": "El art. 178.1 de la Ley 7/1999 recoge tres supuestos de alteración tácita: a) aprobación definitiva de los planes de ordenación urbana y de los proyectos de obras y servicios; b) adscripción de bienes patrimoniales por más de veinticinco años (no diez) a un uso o servicio público, o al aprovechamiento comunal; y c) «Adquisición por cesión obligatoria con el fin de ser destinados al uso público o a la prestación de un servicio público determinado».",
+   "fuente": "Art. 178.1.c) LALA (Ley 7/1999 de Aragón)",
+   "confianza": "alta",
+   "cita": "c) Adquisición por cesión obligatoria con el fin de ser destinados al uso público o a la prestación de un servicio público determinado."
+  },
+  {
+   "q": "Según el art. 12.2 del Decreto 347/2002 del Gobierno de Aragón (RBASO), la desafectación de bienes comunales que no han sido objeto de disfrute comunal durante más de diez años requiere información pública de un mes, acuerdo del Pleno por mayoría absoluta del número legal de miembros y, después:",
+   "options": [
+    "Aprobación por ley de las Cortes de Aragón",
+    "Ratificación por la Diputación Provincial",
+    "Ninguna otra aprobación, porque el acuerdo del Pleno es definitivo",
+    "Aprobación del Consejero de Presidencia y Relaciones Institucionales del Gobierno de Aragón"
+   ],
+   "correct": 3,
+   "exp": "El art. 12.2 RBASO (en el mismo sentido, el art. 179.1 de la Ley 7/1999) exige procedimiento con información pública de un mes, acuerdo plenario por mayoría absoluta del número legal de miembros «y posterior aprobación del Consejero de Presidencia y Relaciones Institucionales del Gobierno de Aragón» (denominación del departamento que usa la norma).",
+   "fuente": "Art. 12.2 RBASO (Decreto 347/2002 de Aragón)",
+   "confianza": "alta",
+   "cita": "posterior aprobación del Consejero de Presidencia y Relaciones Institucionales del Gobierno de Aragón."
+  },
+  {
+   "q": "Según el art. 13.1 del Decreto 347/2002 del Gobierno de Aragón (RBASO), la desafectación de bienes comunales para transmitir después su dominio o para permutarlos con otros inmuebles exige, entre otros requisitos, aprobación provisional por el Pleno por:",
+   "options": [
+    "Mayoría absoluta del número legal de miembros",
+    "Mayoría simple de los miembros presentes",
+    "Mayoría de tres quintos del número legal de miembros",
+    "Mayoría de los dos tercios del número legal de miembros de la Corporación"
+   ],
+   "correct": 3,
+   "exp": "El art. 13.1 RBASO (y el art. 180.1 de la Ley 7/1999) exige: acuerdo inicial motivado del Pleno, información pública de un mes, resolución de reclamaciones y «aprobación provisional por el Pleno por mayoría de los dos tercios del número legal de miembros de la Corporación», y aprobación del Gobierno de Aragón con declaración de utilidad pública o social. La mayoría absoluta es la de la desafectación por falta de disfrute del art. 12.",
+   "fuente": "Art. 13.1.c) RBASO (Decreto 347/2002 de Aragón)",
+   "confianza": "alta",
+   "cita": "aprobación provisional por el Pleno por mayoría de los dos tercios del número legal de miembros de la Corporación"
+  },
+  {
+   "q": "Según el art. 180.3 de la Ley 7/1999, de Administración Local de Aragón, los acuerdos de cesión de uso o de transmisión del dominio de bienes comunales desafectados deben incluir siempre una cláusula de reversión. Producida la reversión, esos bienes vuelven a formar parte del patrimonio de la entidad local como:",
+   "options": [
+    "Bienes comunales",
+    "Bienes patrimoniales",
+    "Bienes de servicio público",
+    "Bienes del Patrimonio Municipal del Suelo"
+   ],
+   "correct": 0,
+   "exp": "El art. 180.3 de la Ley 7/1999 exige una cláusula de reversión para el caso de que desaparezcan los fines o se incumplan las condiciones, y añade: «Producida la reversión, en su caso, volverán a formar parte del patrimonio de la entidad local correspondiente como bienes comunales».",
+   "fuente": "Art. 180.3 LALA (Ley 7/1999 de Aragón)",
+   "confianza": "alta",
+   "cita": "Producida la reversión, en su caso, volverán a formar parte del patrimonio de la entidad local correspondiente como bienes comunales."
+  },
+  {
+   "q": "Según el art. 15 del Decreto 347/2002 del Gobierno de Aragón (RBASO), la adscripción de bienes demaniales a organismos autónomos o empresas públicas locales, sin alterar su calificación jurídica, requiere:",
+   "options": [
+    "Su previa desafectación y conversión en bienes patrimoniales",
+    "Autorización previa del Gobierno de Aragón y aprobación del Pleno por mayoría de dos tercios",
+    "Acuerdo del Pleno, previo procedimiento, en el que se acrediten su utilidad pública y las condiciones de la adscripción",
+    "Una simple resolución del Presidente, sin necesidad de procedimiento"
+   ],
+   "correct": 2,
+   "exp": "El art. 15 RBASO dispone que la adscripción de bienes demaniales, sin alteración de su calificación jurídica, a organismos autónomos o empresas públicas locales «requerirá, previa iniciación e instrucción de procedimiento, acuerdo del Pleno de la Corporación local en que se acredite su utilidad pública y las condiciones de la adscripción». No hay desafectación, porque el bien conserva su calificación.",
+   "fuente": "Art. 15 RBASO (Decreto 347/2002 de Aragón)",
+   "confianza": "alta",
+   "cita": "requerirá, previa iniciación e instrucción de procedimiento, acuerdo del Pleno de la Corporación local en que se acredite su utilidad pública y las condiciones de la adscripción."
+  },
+  {
+   "q": "Según el art. 181.1 de la Ley 7/1999, de Administración Local de Aragón, los bienes y derechos que una entidad local adscribe directamente a sus organismos autónomos:",
+   "options": [
+    "Pasan a ser propiedad del organismo autónomo",
+    "Se convierten necesariamente en bienes patrimoniales del organismo",
+    "Se integran en el patrimonio del organismo como aportación no dineraria",
+    "Conservan su calificación jurídica originaria, sin que el organismo que los recibe adquiera su propiedad"
+   ],
+   "correct": 3,
+   "exp": "El art. 181.1 de la Ley 7/1999 dispone que los bienes y derechos adscritos «conservarán la calificación jurídica originaria que les corresponda como bienes del patrimonio de la entidad local, sin que los organismos que los reciban adquieran su propiedad»; solo se les atribuyen facultades de conservación y utilización para los fines de la adscripción.",
+   "fuente": "Art. 181.1 LALA (Ley 7/1999 de Aragón)",
+   "confianza": "alta",
+   "cita": "Los bienes y derechos adscritos conservarán la calificación jurídica originaria que les corresponda como bienes del patrimonio de la entidad local, sin que los organismos que los reciban adquieran su propiedad"
+  },
+  {
+   "q": "Según el art. 17.3 del Decreto 347/2002 del Gobierno de Aragón (RBASO), ¿cuál es la forma ordinaria para la adquisición de bienes a título oneroso por las entidades locales?",
+   "options": [
+    "La subasta",
+    "El procedimiento negociado",
+    "El concurso",
+    "La adjudicación directa"
+   ],
+   "correct": 2,
+   "exp": "El art. 17.3 RBASO dice: «El concurso será la forma ordinaria para la adquisición de bienes a título oneroso». El procedimiento negociado solo cabe en los supuestos tasados del mismo apartado (singularidad del bien, emplazamiento determinante, circunstancias imprevisibles o escasa cuantía).",
+   "fuente": "Art. 17.3 RBASO (Decreto 347/2002 de Aragón)",
+   "confianza": "alta",
+   "cita": "El concurso será la forma ordinaria para la adquisición de bienes a título oneroso."
+  },
+  {
+   "q": "Según el art. 18.3 del Decreto 347/2002 del Gobierno de Aragón (RBASO), la renuncia de una entidad local a una herencia ofrecida en firme, cuando el valor de los bienes supera el 10 % de los recursos ordinarios del presupuesto vigente, debe aprobarla:",
+   "options": [
+    "El Pleno, por mayoría simple",
+    "El Pleno, con el voto favorable de la mayoría absoluta",
+    "El Presidente, previo informe del Interventor y del Secretario",
+    "El Gobierno de Aragón, a propuesta del Pleno"
+   ],
+   "correct": 1,
+   "exp": "El art. 18.3 RBASO exige procedimiento con informes del Interventor y del Secretario que demuestren una causa justificada y añade: si el valor «supere el diez por ciento de los recursos ordinarios del Presupuesto vigente, la renuncia deberá ser aprobada por el Pleno, con el voto favorable de la mayoría absoluta. En los demás supuestos, bastará acuerdo del Pleno adoptado con mayoría simple».",
+   "fuente": "Art. 18.3 RBASO (Decreto 347/2002 de Aragón)",
+   "confianza": "alta",
+   "cita": "la renuncia deberá ser aprobada por el Pleno, con el voto favorable de la mayoría absoluta."
+  },
+  {
+   "q": "Un vecino requiere a su Ayuntamiento para que ejercite las acciones necesarias en defensa de un bien municipal. Según el art. 44.2 del Decreto 347/2002 del Gobierno de Aragón (RBASO), si la entidad no acuerda ejercitarlas, los vecinos podrán hacerlo en nombre e interés de la entidad cuando falte un mes para que termine el plazo de la acción o, en todo caso, cuando hayan transcurrido desde el requerimiento:",
+   "options": [
+    "Quince días hábiles",
+    "Treinta días hábiles",
+    "Tres meses",
+    "Seis meses"
+   ],
+   "correct": 1,
+   "exp": "El art. 44.2 RBASO permite a los vecinos ejercitar la acción en nombre e interés de la entidad «Cuando falte un mes para finalizar el plazo del ejercicio de las correspondientes acciones o, en todo caso, transcurridos treinta días hábiles desde el requerimiento vecinal sin que la Entidad local acuerde el ejercicio de las acciones solicitadas».",
+   "fuente": "Art. 44.2 RBASO (Decreto 347/2002 de Aragón)",
+   "confianza": "alta",
+   "cita": "transcurridos treinta días hábiles desde el requerimiento vecinal sin que la Entidad local acuerde el ejercicio de las acciones solicitadas"
+  },
+  {
+   "q": "Según el art. 45 del Decreto 347/2002 del Gobierno de Aragón (RBASO), si una entidad local no atiende en el plazo de tres meses el requerimiento del Departamento de Presidencia y Relaciones Institucionales para defender o recuperar sus bienes de dominio público:",
+   "options": [
+    "El Gobierno de Aragón recuperará los bienes, que se integrarán en el patrimonio de la Comunidad Autónoma",
+    "El Gobierno de Aragón podrá deducir recurso contencioso-administrativo contra dicha inactividad",
+    "La Diputación Provincial se subrogará en la titularidad de los bienes",
+    "Los bienes quedarán desafectados de forma automática"
+   ],
+   "correct": 1,
+   "exp": "El art. 45.3 RBASO dispone: «Si en el plazo de tres meses desde el requerimiento éste no fuera atendido por la Entidad local, el Gobierno de Aragón podrá deducir recurso contencioso-administrativo contra dicha inactividad». La norma no prevé ningún cambio de titularidad ni de calificación de los bienes.",
+   "fuente": "Art. 45.3 RBASO (Decreto 347/2002 de Aragón)",
+   "confianza": "alta",
+   "cita": "Si en el plazo de tres meses desde el requerimiento éste no fuera atendido por la Entidad local, el Gobierno de Aragón podrá deducir recurso contencioso-administrativo contra dicha inactividad."
+  },
+  {
+   "q": "Según el art. 46.2 del Decreto 347/2002 del Gobierno de Aragón (RBASO), una transacción sobre bienes patrimoniales disponibles, por no servir de soporte material a un servicio o función pública, requiere:",
+   "options": [
+    "Nada: está prohibida en todo caso, igual que el allanamiento a las demandas sobre su dominio",
+    "Procedimiento con informe del Secretario o de Letrado y acuerdo del Pleno por mayoría absoluta del número legal de miembros",
+    "Resolución del Presidente, previo informe del Interventor",
+    "Acuerdo del Pleno por mayoría simple, sin necesidad de informe jurídico"
+   ],
+   "correct": 1,
+   "exp": "El art. 46.2 RBASO admite la transacción sobre bienes patrimoniales disponibles, pero exige «tramitación de procedimiento en el que constará informe de Secretario o de Letrado, y su resolución por acuerdo del Pleno adoptado por mayoría absoluta del número legal de miembros de la Corporación». Lo prohibido es el allanamiento a las demandas que afecten al dominio (art. 46.1), no la transacción.",
+   "fuente": "Art. 46.2 RBASO (Decreto 347/2002 de Aragón)",
+   "confianza": "alta",
+   "cita": "requerirá tramitación de procedimiento en el que constará informe de Secretario o de Letrado, y su resolución por acuerdo del Pleno adoptado por mayoría absoluta del número legal de miembros de la Corporación."
+  },
+  {
+   "q": "Según el art. 50.1 del Decreto 347/2002 del Gobierno de Aragón (RBASO), el acuerdo de iniciación del procedimiento de investigación se publica en el «Boletín Oficial de Aragón» y se expone en el tablón de anuncios para que los afectados puedan alegar por escrito durante un plazo de:",
+   "options": [
+    "Quince días",
+    "Diez días",
+    "Un mes",
+    "Sesenta días"
+   ],
+   "correct": 0,
+   "exp": "El art. 50.1 RBASO prevé la publicación en el «Boletín Oficial de Aragón» y la exposición en el tablón de anuncios «por plazo de quince días, al objeto de que las personas afectadas por el procedimiento puedan alegar por escrito». El plazo de un mes para alegar es el del art. 50 del Reglamento estatal de 1986, desplazado en Aragón.",
+   "fuente": "Art. 50.1 RBASO (Decreto 347/2002 de Aragón)",
+   "confianza": "alta",
+   "cita": "por plazo de quince días, al objeto de que las personas afectadas por el procedimiento puedan alegar por escrito ante la Entidad local"
+  },
+  {
+   "q": "Según el art. 52 del Decreto 347/2002 del Gobierno de Aragón (RBASO), la resolución del procedimiento de investigación de bienes corresponde:",
+   "options": [
+    "Al Pleno de la Corporación, previo informe del Secretario",
+    "Al Presidente de la Corporación, previo informe del Interventor",
+    "Al Departamento de Presidencia y Relaciones Institucionales del Gobierno de Aragón",
+    "Al Registrador de la Propiedad del lugar donde radique el bien"
+   ],
+   "correct": 0,
+   "exp": "El art. 52 RBASO dice: «La resolución del procedimiento de investigación corresponde al Pleno de la Corporación, previo informe del Secretario». Si declara la titularidad de la entidad, se tasa el bien, se incluye en el inventario y se adoptan las medidas para hacer efectivos sus derechos.",
+   "fuente": "Art. 52 RBASO (Decreto 347/2002 de Aragón)",
+   "confianza": "alta",
+   "cita": "La resolución del procedimiento de investigación corresponde al Pleno de la Corporación, previo informe del Secretario."
+  },
+  {
+   "q": "Según el art. 60.1 del Decreto 347/2002 del Gobierno de Aragón (RBASO), ¿a quién corresponde la aprobación definitiva de los deslindes?",
+   "options": [
+    "Al Pleno del Ayuntamiento u órgano superior de gobierno de la entidad local",
+    "Al técnico que dirige el apeo",
+    "Al Presidente de la Corporación, a la vista del acta de apeo",
+    "Al Registrador de la Propiedad"
+   ],
+   "correct": 0,
+   "exp": "El art. 60.1 RBASO establece: «Corresponde al Pleno del Ayuntamiento u órgano superior de gobierno de la Entidad local la aprobación definitiva de los deslindes». Una vez aprobado, el deslinde se inscribe en el Registro de la Propiedad (art. 60.2) y, firme el acuerdo, se procede al amojonamiento (art. 61).",
+   "fuente": "Art. 60.1 RBASO (Decreto 347/2002 de Aragón)",
+   "confianza": "alta",
+   "cita": "Corresponde al Pleno del Ayuntamiento u órgano superior de gobierno de la Entidad local la aprobación definitiva de los deslindes."
+  },
+  {
+   "q": "Según el art. 63.2 del Decreto 347/2002 del Gobierno de Aragón (RBASO), ¿cuándo se entiende iniciada la recuperación posesoria de un bien en vía administrativa?",
+   "options": [
+    "Con la notificación al ocupante del acuerdo que la resuelve",
+    "Con la incoación del procedimiento de recuperación",
+    "Con la ejecución material del desalojo",
+    "Con la inscripción del acuerdo en el Registro de la Propiedad"
+   ],
+   "correct": 1,
+   "exp": "El art. 63.2 RBASO dispone: «La recuperación posesoria se entenderá iniciada con la incoación del procedimiento a que se refiere el párrafo anterior», es decir, el procedimiento con audiencia al interesado e informe del Secretario o de la Asesoría jurídica del art. 63.1. Recuérdese que los bienes patrimoniales solo pueden recuperarse de oficio en el plazo de un año (art. 62.2).",
+   "fuente": "Art. 63.2 RBASO (Decreto 347/2002 de Aragón)",
+   "confianza": "alta",
+   "cita": "La recuperación posesoria se entenderá iniciada con la incoación del procedimiento a que se refiere el párrafo anterior."
+  },
+  {
+   "q": "Según el art. 65.1 del Decreto 347/2002 del Gobierno de Aragón (RBASO), el desahucio administrativo requiere acuerdo previo:",
+   "options": [
+    "Del Presidente de la Corporación, sin necesidad de audiencia a los interesados",
+    "Del Pleno de la Corporación, que declare extinguidos los derechos sobre los bienes y determine si la extinción da lugar o no a indemnización",
+    "Del juez de lo contencioso-administrativo, que declare extinguidos los derechos",
+    "Del Gobierno de Aragón, a solicitud de la entidad local"
+   ],
+   "correct": 1,
+   "exp": "El art. 65.1 RBASO dispone: «El desahucio por vía administrativa requerirá acuerdo previo del Pleno de la Corporación declarando extinguidos los derechos constituidos sobre los bienes de que se trate. Dicho acuerdo determinará si la extinción da lugar o no a indemnización». El art. 65.2 exige además audiencia a los interesados.",
+   "fuente": "Art. 65.1 RBASO (Decreto 347/2002 de Aragón)",
+   "confianza": "alta",
+   "cita": "El desahucio por vía administrativa requerirá acuerdo previo del Pleno de la Corporación declarando extinguidos los derechos constituidos sobre los bienes de que se trate."
+  },
+  {
+   "q": "Según el art. 66 del Decreto 347/2002 del Gobierno de Aragón (RBASO), cuando la extinción de los derechos sobre un bien de dominio público no da lugar a indemnización, se requiere a los interesados para que desalojen la finca en el plazo que señale la Corporación, que no será inferior a:",
+   "options": [
+    "Cinco días",
+    "Quince días",
+    "Cuatro meses",
+    "Un mes"
+   ],
+   "correct": 3,
+   "exp": "El art. 66 RBASO: si no hay lugar a indemnización, se requiere a los interesados «para que desalojen la finca en el plazo señalado por la Corporación, que no será inferior a un mes». Los cuatro meses son el plazo máximo para desalojar cuando sí hay indemnización (art. 67.1) y los cinco días, el del apercibimiento de lanzamiento (art. 68.1).",
+   "fuente": "Art. 66 RBASO (Decreto 347/2002 de Aragón)",
+   "confianza": "alta",
+   "cita": "se les requerirá para que desalojen la finca en el plazo señalado por la Corporación, que no será inferior a un mes."
+  },
+  {
+   "q": "Según el art. 67.1 del Decreto 347/2002 del Gobierno de Aragón (RBASO), cuando el desahucio administrativo da lugar a indemnización, se requiere a los interesados para que propongan su cuantía y el plazo que necesitan para desalojar, advirtiéndoles de que, en todo caso, deberán desalojar la finca en el plazo de:",
+   "options": [
+    "Cuatro meses",
+    "Un mes",
+    "Seis meses",
+    "Un año"
+   ],
+   "correct": 0,
+   "exp": "El art. 67.1 RBASO prevé que, si procede indemnización, se intente fijarla por avenencia: los interesados formulan propuesta en quince días «con advertencia de que, en todo caso, deberán desalojarla en el plazo de cuatro meses». Sin avenencia, la indemnización se fija según la legislación de expropiación forzosa (art. 67.3).",
+   "fuente": "Art. 67.1 RBASO (Decreto 347/2002 de Aragón)",
+   "confianza": "alta",
+   "cita": "con advertencia de que, en todo caso, deberán desalojarla en el plazo de cuatro meses."
+  },
+  {
+   "q": "Según el art. 71.3 del Decreto 347/2002 del Gobierno de Aragón (RBASO), las sanciones que imponen las entidades locales para la defensa de su patrimonio:",
+   "options": [
+    "Sustituyen a la obligación de reparar el daño causado",
+    "Excluyen cualquier otra responsabilidad en que haya podido incurrirse",
+    "Son independientes de la obligación de reparar el daño causado y de restituir lo usurpado",
+    "Solo pueden imponerse si el infractor no restituye lo usurpado en el plazo de un mes"
+   ],
+   "correct": 2,
+   "exp": "El art. 71.3 RBASO dice: «Las sanciones serán independientes de la obligación de reparar el daño causado y de restituir lo que se hubiese usurpado, y de otras responsabilidades en que haya podido incurrirse».",
+   "fuente": "Art. 71.3 RBASO (Decreto 347/2002 de Aragón)",
+   "confianza": "alta",
+   "cita": "Las sanciones serán independientes de la obligación de reparar el daño causado y de restituir lo que se hubiese usurpado, y de otras responsabilidades en que haya podido incurrirse."
+  },
+  {
+   "q": "El art. 75 del Decreto 347/2002 del Gobierno de Aragón (RBASO) no considera instalaciones fijas y permanentes, a efectos del uso privativo agravado, las desmontables. Según su apartado 4, son instalaciones desmontables, entre otros requisitos, las que:",
+   "options": [
+    "Se construyan con elaboración de materiales en obra y empleo de soldaduras",
+    "Solo puedan levantarse mediante su demolición",
+    "Precisen a lo sumo obras puntuales de cimentación, que en todo caso no sobresaldrán del terreno",
+    "Ocupen una superficie inferior a veinte metros cuadrados"
+   ],
+   "correct": 2,
+   "exp": "El art. 75.4 RBASO entiende por desmontables las instalaciones que: a) «Precisen a lo sumo obras puntuales de cimentación, que en todo caso no sobresaldrán del terreno»; b) estén constituidas por elementos de serie prefabricados, sin elaboración de materiales en obra ni soldaduras; y c) se monten y desmonten por procesos secuenciales, pudiendo levantarse sin demolición. La superficie ocupada no es un criterio.",
+   "fuente": "Art. 75.4.a) RBASO (Decreto 347/2002 de Aragón)",
+   "confianza": "alta",
+   "cita": "Precisen a lo sumo obras puntuales de cimentación, que en todo caso no sobresaldrán del terreno."
+  },
+  {
+   "q": "Un particular quiere ocupar una porción de una calle de modo que limita o excluye su uso por los demás, pero sin instalaciones fijas ni permanentes. Según el art. 78 del Decreto 347/2002 del Gobierno de Aragón (RBASO), esa utilización privativa normal está sujeta a:",
+   "options": [
+    "Concesión administrativa",
+    "Licencia",
+    "Contrato de arrendamiento",
+    "Ningún título, por tratarse de un uso común general"
+   ],
+   "correct": 1,
+   "exp": "El art. 78 RBASO sujeta a licencia «a) la utilización común especial; b) la utilización privativa normal, cuando no requiera instalaciones fijas o permanentes». La concesión se reserva para la utilización privativa con obras o instalaciones de carácter permanente y para la anormal (art. 81). No es uso común general, porque excluye la utilización de otros (art. 75.1).",
+   "fuente": "Art. 78.b) RBASO (Decreto 347/2002 de Aragón)",
+   "confianza": "alta",
+   "cita": "b) la utilización privativa normal, cuando no requiera instalaciones fijas o permanentes."
+  },
+  {
+   "q": "Según el art. 79 del Decreto 347/2002 del Gobierno de Aragón (RBASO), la competencia para otorgar licencias de utilización de los bienes de dominio y uso público corresponde:",
+   "options": [
+    "Al Pleno, en todo caso",
+    "Al Pleno, salvo delegación expresa en el Presidente",
+    "Al Departamento competente del Gobierno de Aragón",
+    "Al Presidente de la Corporación, salvo que la legislación sectorial la atribuya expresamente al Pleno o a la Comisión de Gobierno"
+   ],
+   "correct": 3,
+   "exp": "El art. 79 RBASO atribuye esta competencia «al Presidente de la Corporación, salvo que la legislación sectorial la atribuya expresamente al Pleno o a la Comisión de Gobierno».",
+   "fuente": "Art. 79 RBASO (Decreto 347/2002 de Aragón)",
+   "confianza": "alta",
+   "cita": "corresponderá al Presidente de la Corporación, salvo que la legislación sectorial la atribuya expresamente al Pleno o a la Comisión de Gobierno."
+  },
+  {
+   "q": "Si las ordenanzas no determinan si las licencias de utilización del dominio público son transmisibles, según el art. 80.2 del Decreto 347/2002 del Gobierno de Aragón (RBASO):",
+   "options": [
+    "Se consideran transmisibles, salvo las concedidas en atención a las cualidades personales del sujeto o cuyo número esté limitado",
+    "Se consideran intransmisibles en todo caso",
+    "Solo son transmisibles con autorización expresa del Pleno",
+    "Son transmisibles todas, incluidas las de número limitado"
+   ],
+   "correct": 0,
+   "exp": "El art. 80.2 RBASO: «Las Ordenanzas determinarán el carácter transmisible o intransmisible de las licencias. Si no lo determinaran, se considerarán transmisibles. En ningún caso serán transmisibles las licencias concedidas en atención a las cualidades personales del sujeto o cuyo número estuviese limitado».",
+   "fuente": "Art. 80.2 RBASO (Decreto 347/2002 de Aragón)",
+   "confianza": "alta",
+   "cita": "Si no lo determinaran, se considerarán transmisibles. En ningún caso serán transmisibles las licencias concedidas en atención a las cualidades personales del sujeto o cuyo número estuviese limitado."
+  },
+  {
+   "q": "Según el art. 80.3 del Decreto 347/2002 del Gobierno de Aragón (RBASO), las licencias de utilización del dominio y uso público no podrán otorgarse por plazo superior a:",
+   "options": [
+    "Cinco años",
+    "Diez años",
+    "Veinticinco años",
+    "Cincuenta años"
+   ],
+   "correct": 1,
+   "exp": "El art. 80.3 RBASO dice: «No podrán otorgarse licencias por plazo superior a diez años». Los cincuenta años son el plazo máximo de la concesión demanial (art. 83.2). Además, las licencias pueden revocarse en cualquier momento por motivos de interés público (art. 80.4).",
+   "fuente": "Art. 80.3 RBASO (Decreto 347/2002 de Aragón)",
+   "confianza": "alta",
+   "cita": "No podrán otorgarse licencias por plazo superior a diez años."
+  },
+  {
+   "q": "Según el art. 82.2 del Decreto 347/2002 del Gobierno de Aragón (RBASO), otorgar una concesión demanial de duración superior a cinco años exige el voto favorable de la mayoría absoluta del número legal de miembros cuando su cuantía exceda de un porcentaje de los recursos ordinarios del presupuesto. ¿Cuál?",
+   "options": [
+    "El 5 %",
+    "El 10 %",
+    "El 25 %",
+    "El 20 %"
+   ],
+   "correct": 3,
+   "exp": "El art. 82.2 RBASO exige mayoría absoluta «cuando la concesión tenga una duración superior a cinco años, siempre que su cuantía exceda del veinte por ciento de los recursos ordinarios del presupuesto de la Entidad». El 10 % era la cifra del art. 89 del Reglamento estatal de 1986, desplazado en Aragón.",
+   "fuente": "Art. 82.2 RBASO (Decreto 347/2002 de Aragón)",
+   "confianza": "alta",
+   "cita": "cuando la concesión tenga una duración superior a cinco años, siempre que su cuantía exceda del veinte por ciento de los recursos ordinarios"
+  },
+  {
+   "q": "Según el art. 90.1 del Decreto 347/2002 del Gobierno de Aragón (RBASO), el proyecto que ha de servir de base a una concesión demanial y las bases de esta se someten a información pública por un plazo no inferior a:",
+   "options": [
+    "Diez días",
+    "Treinta días",
+    "Veinte días",
+    "Dos meses"
+   ],
+   "correct": 2,
+   "exp": "El art. 90.1 RBASO dispone que el proyecto y las bases «se someterán a información pública por plazo no inferior a veinte días»; después, la Corporación aprueba el proyecto y convoca licitación. Los treinta días eran la cifra del art. 87.4 del Reglamento estatal de 1986, desplazado en Aragón.",
+   "fuente": "Art. 90.1 RBASO (Decreto 347/2002 de Aragón)",
+   "confianza": "alta",
+   "cita": "se someterán a información pública por plazo no inferior a veinte días."
+  },
+  {
+   "q": "Según los arts. 91.1 y 94 del Decreto 347/2002 del Gobierno de Aragón (RBASO), la garantía definitiva que debe constituir el adjudicatario de una concesión sobre bienes de dominio público es:",
+   "options": [
+    "El 3 % en la utilización normal y el 5 % en la anormal",
+    "El 2 % en ambos casos",
+    "El 6 % del valor en venta del bien ocupado",
+    "El 4 % del valor del dominio público ocupado y, en su caso, del presupuesto de las obras, tanto en la utilización normal como en la anormal"
+   ],
+   "correct": 3,
+   "exp": "El art. 91.1 RBASO fija la garantía definitiva en «el cuatro por ciento del valor del dominio público ocupado y, en su caso, del presupuesto de las obras que haya de ejecutar», y el art. 94.d) aplica a la utilización anormal la misma cifra («la garantía definitiva será el cuatro por ciento sobre las anteriores bases»). El 2 % es la garantía provisional (arts. 90.3 y 94.c); el 3 % y el 5 % eran las cifras del Reglamento estatal de 1986.",
+   "fuente": "Arts. 91.1 y 94.d) RBASO (Decreto 347/2002 de Aragón)",
+   "confianza": "alta",
+   "cita": "consistirá en el cuatro por ciento del valor del dominio público ocupado y, en su caso, del presupuesto de las obras que haya de ejecutar."
+  },
+  {
+   "q": "Según el art. 93.1 del Decreto 347/2002 del Gobierno de Aragón (RBASO), ¿cuál de las siguientes es una causa de extinción de las concesiones demaniales?",
+   "options": [
+    "La desafectación del bien",
+    "La renovación de la Corporación tras unas elecciones locales",
+    "La revisión de las tarifas aprobada por la entidad local",
+    "El cambio de denominación social del concesionario"
+   ],
+   "correct": 0,
+   "exp": "El art. 93.1 RBASO enumera las causas de extinción: vencimiento del plazo, desaparición del bien, «desafectación del bien», renuncia del concesionario, revocación, rescate y resolución judicial. Si la desafectación se hace para enajenar el bien, la extinción se produce por rescate (art. 93.2).",
+   "fuente": "Art. 93.1.c) RBASO (Decreto 347/2002 de Aragón)",
+   "confianza": "alta",
+   "cita": "c) por desafectación del bien;"
+  },
+  {
+   "q": "Según el art. 183.2 de la Ley 7/1999, de Administración Local de Aragón, el aprovechamiento y disfrute de los bienes comunales se efectuará:",
+   "options": [
+    "Preferentemente en régimen de explotación colectiva o comunal",
+    "Necesariamente mediante adjudicación de lotes o suertes entre los vecinos",
+    "Preferentemente mediante arrendamiento adjudicado en pública subasta",
+    "Exclusivamente mediante concesión administrativa"
+   ],
+   "correct": 0,
+   "exp": "El art. 183.2 de la Ley 7/1999 dice: «El aprovechamiento y disfrute de los bienes comunales se efectuará preferentemente en régimen de explotación colectiva o comunal». Si es impracticable, rige la costumbre u ordenanza local y, en su defecto, la adjudicación de lotes o suertes (art. 183.3); la subasta solo cabe si esto también es imposible y la autoriza el Gobierno de Aragón (art. 183.4).",
+   "fuente": "Art. 183.2 LALA (Ley 7/1999 de Aragón)",
+   "confianza": "alta",
+   "cita": "El aprovechamiento y disfrute de los bienes comunales se efectuará preferentemente en régimen de explotación colectiva o comunal."
+  },
+  {
+   "q": "Según el art. 96 del Decreto 347/2002 del Gobierno de Aragón (RBASO), las ordenanzas locales pueden exigir residencia habitual y efectiva para acceder al disfrute de los bienes comunales. Si esas condiciones excluyen del aprovechamiento a determinados vecinos, las ordenanzas deben ser aprobadas por:",
+   "options": [
+    "El Gobierno de Aragón, previo dictamen de la Comisión Jurídica Asesora",
+    "El Pleno por mayoría de dos tercios, sin intervención autonómica",
+    "Las Cortes de Aragón",
+    "La Diputación Provincial, previo informe del Justicia de Aragón"
+   ],
+   "correct": 0,
+   "exp": "El art. 96.5 RBASO (igual que el art. 183.3 de la Ley 7/1999) dispone: «Si estas condiciones supusieran la exclusión del aprovechamiento de determinados vecinos, las Ordenanzas deberán ser aprobadas por el Gobierno de Aragón, previo dictamen de la Comisión Jurídica Asesora».",
+   "fuente": "Art. 96.5 RBASO (Decreto 347/2002 de Aragón)",
+   "confianza": "alta",
+   "cita": "Si estas condiciones supusieran la exclusión del aprovechamiento de determinados vecinos, las Ordenanzas deberán ser aprobadas por el Gobierno de Aragón, previo dictamen de la Comisión Jurídica Asesora."
+  },
+  {
+   "q": "Según el art. 183.5 de la Ley 7/1999, de Administración Local de Aragón, en casos extraordinarios puede fijarse una cuota anual que deben abonar los vecinos por la utilización de los lotes de bienes comunales que se les adjudiquen. Ese acuerdo municipal requiere:",
+   "options": [
+    "La mayoría absoluta legal de miembros de la Corporación",
+    "La mayoría simple",
+    "La mayoría de dos tercios del número legal de miembros",
+    "La aprobación del Gobierno de Aragón, sin acuerdo municipal"
+   ],
+   "correct": 0,
+   "exp": "El art. 183.5 de la Ley 7/1999 (y el art. 98 RBASO) permite fijar la cuota «por acuerdo municipal adoptado por la mayoría absoluta legal de miembros de la Corporación», para compensar estrictamente los gastos de custodia, conservación y administración de los bienes.",
+   "fuente": "Art. 183.5 LALA (Ley 7/1999 de Aragón)",
+   "confianza": "alta",
+   "cita": "por acuerdo municipal adoptado por la mayoría absoluta legal de miembros de la Corporación, podrá fijarse una cuota anual"
+  },
+  {
+   "q": "Según el art. 100.3 del Decreto 347/2002 del Gobierno de Aragón (RBASO), el procedimiento de adjudicación de la utilización onerosa de los bienes patrimoniales de las entidades locales podrá ser:",
+   "options": [
+    "Únicamente la subasta pública",
+    "Únicamente el concurso",
+    "La subasta, el concurso o el procedimiento negociado sin publicidad",
+    "La adjudicación directa, en todo caso"
+   ],
+   "correct": 2,
+   "exp": "El art. 100.3 RBASO dice que ese procedimiento «podrá ser el de subasta, concurso o procedimiento negociado sin publicidad». La subasta es obligatoria solo cuando la cesión dura más de cinco años o el precio supera el 5 % de los recursos ordinarios (art. 101.1).",
+   "fuente": "Art. 100.3 RBASO (Decreto 347/2002 de Aragón)",
+   "confianza": "alta",
+   "cita": "podrá ser el de subasta, concurso o procedimiento negociado sin publicidad."
+  },
+  {
+   "q": "Según el art. 101.2 del Decreto 347/2002 del Gobierno de Aragón (RBASO), excepcionalmente y de forma justificada, la cesión de uso de un bien patrimonial por más de cinco años y por precio superior al 5 % de los recursos ordinarios puede adjudicarse por concurso, y no por subasta, cuando:",
+   "options": [
+    "Tenga por objeto el fomento o ejercicio de actividades económicas que redunden notoriamente en la satisfacción del interés general de los vecinos",
+    "El arrendatario sea vecino empadronado en el municipio",
+    "El bien tenga la consideración de parcela sobrante",
+    "Lo autorice el Gobierno de Aragón por razón de la cuantía"
+   ],
+   "correct": 0,
+   "exp": "El art. 101.2 RBASO admite el concurso, aunque se superen los cinco años y el 5 %, «cuando el arrendamiento o cesión de uso tenga por objeto el fomento o ejercicio de actividades económicas que redunden notoriamente en la satisfacción del interés general de los vecinos».",
+   "fuente": "Art. 101.2 RBASO (Decreto 347/2002 de Aragón)",
+   "confianza": "alta",
+   "cita": "cuando el arrendamiento o cesión de uso tenga por objeto el fomento o ejercicio de actividades económicas que redunden notoriamente en la satisfacción del interés general de los vecinos."
+  },
+  {
+   "q": "Según el art. 185.1 de la Ley 7/1999, de Administración Local de Aragón, las entidades locales pueden establecer mediante ordenanza un régimen específico de los aprovechamientos derivados de sus bienes o derechos. ¿Qué aprovechamientos cita expresamente el precepto?",
+   "options": [
+    "Los mineros, los de hidrocarburos, los eólicos y los solares",
+    "Los micológicos, las plantas aromáticas, la caza y los pastos",
+    "Las aguas subterráneas, termales y minerales y los saltos hidroeléctricos",
+    "Las canteras, las graveras, las salinas y los áridos"
+   ],
+   "correct": 1,
+   "exp": "El art. 185.1 de la Ley 7/1999 (y el art. 103.1 RBASO) permite regular por ordenanza los aprovechamientos de los bienes o derechos locales, «incluidos, entre otros, los aprovechamientos micológicos, las plantas aromáticas, la caza, los pastos y otros semejantes». Ese régimen puede consistir en acotar terrenos y regular el acceso a su aprovechamiento (art. 185.2).",
+   "fuente": "Art. 185.1 LALA (Ley 7/1999 de Aragón)",
+   "confianza": "alta",
+   "cita": "incluidos, entre otros, los aprovechamientos micológicos, las plantas aromáticas, la caza, los pastos y otros semejantes"
+  },
+  {
+   "q": "Según el art. 189.1 de la Ley 7/1999, de Administración Local de Aragón, la permuta de bienes patrimoniales puede efectuarse aunque no haya equivalencia de valores si se establece la compensación económica pertinente y la diferencia de valor no supera un porcentaje del bien de valor más alto. ¿Cuál?",
+   "options": [
+    "El 40 %",
+    "El 25 %",
+    "El 50 %",
+    "El 10 %"
+   ],
+   "correct": 2,
+   "exp": "El art. 189.1 de la Ley 7/1999 (y el art. 115.2 RBASO) dice: «La permuta podrá también efectuarse si la diferencia de valores entre los bienes no es superior al 50 por 100 del que tenga el valor más alto y se establece la compensación económica pertinente». El 40 % era la cifra del art. 112.2 del Reglamento estatal de 1986, desplazado en Aragón.",
+   "fuente": "Art. 189.1 LALA (Ley 7/1999 de Aragón)",
+   "confianza": "alta",
+   "cita": "La permuta podrá también efectuarse si la diferencia de valores entre los bienes no es superior al 50 por 100 del que tenga el valor más alto y se establece la compensación económica pertinente."
+  },
+  {
+   "q": "Según el art. 121 del Decreto 347/2002 del Gobierno de Aragón (RBASO), en la redacción que le dio su corrección de errores, toda enajenación, gravamen o permuta de bienes inmuebles debe comunicarse, con el expediente, al Departamento de Presidencia y Relaciones Institucionales del Gobierno de Aragón para su toma de conocimiento:",
+   "options": [
+    "Antes de iniciar el expediente",
+    "Dentro del mes siguiente a la ejecución del acuerdo",
+    "Solo si el valor del bien excede del 25 % de los recursos ordinarios del presupuesto",
+    "Una vez adoptado el acuerdo que la aprueba y antes de ejecutarlo"
+   ],
+   "correct": 3,
+   "exp": "La corrección de errores del Decreto 347/2002 (BOA nº 9, de 24-1-2003) dio al art. 121 esta redacción: la operación «habrá de comunicarse una vez adoptado el acuerdo correspondiente de su aprobación y previamente a la ejecución de dicho acuerdo». La comunicación se exige siempre; si el valor del bien excede del 25 % de los recursos ordinarios, se necesita además aprobación previa mediante Orden del Consejero.",
+   "fuente": "Art. 121 RBASO (Decreto 347/2002 de Aragón); corrección de errores en BOA nº 9, de 24-1-2003",
+   "confianza": "alta",
+   "cita": "habrá de comunicarse una vez adoptado el acuerdo correspondiente de su aprobación y previamente a la ejecución de dicho acuerdo"
+  },
+  {
+   "q": "Según la disposición adicional única del Decreto 347/2002 del Gobierno de Aragón, los edificios de las entidades locales destinados a centros educativos:",
+   "options": [
+    "Pueden desafectarse por acuerdo del Pleno con un simple trámite de audiencia a la Administración educativa",
+    "Son bienes patrimoniales y pueden arrendarse sin necesidad de desafectación",
+    "Pueden desafectarse libremente por resolución del Alcalde",
+    "No pueden desafectarse y destinarse a otros servicios o finalidades sin autorización previa de la Administración educativa"
+   ],
+   "correct": 3,
+   "exp": "La disposición adicional única.1 del Decreto 347/2002 dice: «Los edificios de las Entidades locales destinados a centros educativos no podrán desafectarse y destinarse a otros servicios o finalidades sin autorización previa de la Administración educativa». El simple trámite de audiencia es el régimen de las viviendas de profesores (apartado 2), no el de los edificios escolares.",
+   "fuente": "Disposición adicional única.1 Decreto 347/2002 de Aragón",
+   "confianza": "alta",
+   "cita": "Los edificios de las Entidades locales destinados a centros educativos no podrán desafectarse y destinarse a otros servicios o finalidades sin autorización previa de la Administración educativa."
+  },
+  {
+   "q": "¿Qué parte de la Ley 7/1999, de Administración Local de Aragón, regula los bienes de las entidades locales?",
+   "options": [
+    "El título VI, artículos 170 a 190",
+    "El título VII, artículos 169 a 192",
+    "El título V, artículos 79 a 83",
+    "El título VI, artículos 169 a 192"
+   ],
+   "correct": 3,
+   "exp": "El título VI de la Ley 7/1999 se rubrica «Bienes de las entidades locales» y va del art. 169 (bienes de las entidades locales) al art. 192 (fomento de la reforestación); el título VII empieza en el art. 193. El preámbulo del Decreto 347/2002 lo confirma: su título I desarrolla «el Título VI (arts. 169 a 192) de la Ley de Administración Local de Aragón». Los arts. 79 a 83 son los de la LBRL.",
+   "fuente": "Título VI (arts. 169 a 192) LALA (Ley 7/1999 de Aragón)",
+   "confianza": "alta",
+   "cita": "desarrollando el Título VI (arts. 169 a 192) de la Ley de Administración Local de Aragón."
+  },
+  {
+   "q": "Según el art. 120 del Decreto 347/2002 del Gobierno de Aragón (RBASO), los acuerdos sobre disposición de bienes que adopten los órganos de gobierno de las entidades locales menores:",
+   "options": [
+    "Deben ser aprobados por la comarca correspondiente",
+    "Son definitivos sin necesidad de ratificación municipal",
+    "Deben ser ratificados por el Pleno o el Alcalde del municipio al que pertenezcan, en función del valor de los bienes",
+    "Deben ser autorizados en todo caso por Orden del Consejero competente del Gobierno de Aragón"
+   ],
+   "correct": 2,
+   "exp": "El art. 120 RBASO dispone que esos acuerdos «deberán ser ratificados por el Pleno o el Alcalde del municipio a que pertenezcan, en función del valor de los bienes», de conformidad con los arts. 29 y 30 de la Ley 7/1999. La aprobación por Orden del Consejero solo se exige para inmuebles cuyo valor exceda del 25 % de los recursos ordinarios (art. 121).",
+   "fuente": "Art. 120 RBASO (Decreto 347/2002 de Aragón)",
+   "confianza": "alta",
+   "cita": "deberán ser ratificados por el Pleno o el Alcalde del municipio a que pertenezcan, en función del valor de los bienes"
+  },
+  {
+   "q": "Según el art. 55 del Reglamento de Bienes de las Entidades Locales (RD 1372/1986), en relación con el procedimiento de investigación de bienes:",
+   "options": [
+    "Todas las cuestiones, incluidas las de naturaleza civil, se resuelven en vía contencioso-administrativa",
+    "Las cuestiones de naturaleza civil corresponden a la jurisdicción ordinaria, y la resolución del expediente puede impugnarse en vía contencioso-administrativa",
+    "La resolución del expediente solo puede impugnarse ante la jurisdicción civil",
+    "La resolución del expediente es firme y no admite impugnación judicial"
+   ],
+   "correct": 1,
+   "exp": "El art. 55 RBEL dispone: «1. El conocimiento de las cuestiones de naturaleza civil que se susciten con ocasión de la investigación practicada corresponderá a la jurisdicción ordinaria. 2. Los afectados por la resolución del expediente de investigación podrán impugnarla en vía contencioso-administrativa». El Reglamento aragonés (arts. 48 a 53) no regula este punto, por lo que se aplica el estatal como supletorio.",
+   "fuente": "Art. 55.1 y 55.2 RBEL (RD 1372/1986)",
+   "confianza": "alta",
+   "cita": "El conocimiento de las cuestiones de naturaleza civil que se susciten con ocasión de la investigación practicada corresponderá a la jurisdicción ordinaria."
+  },
+  {
+   "q": "Según el art. 65 del Reglamento de Bienes de las Entidades Locales (RD 1372/1986), el acuerdo resolutorio del deslinde:",
+   "options": [
+    "No es ejecutivo hasta que lo confirme una sentencia firme",
+    "Solo puede impugnarse ante la jurisdicción civil",
+    "Es ejecutivo y solo puede impugnarse en vía contencioso-administrativa, sin perjuicio de que quienes se estimen lesionados hagan valer sus derechos ante la jurisdicción ordinaria",
+    "Necesita la aprobación del órgano competente de la Comunidad Autónoma para ser ejecutivo"
+   ],
+   "correct": 2,
+   "exp": "El art. 65 RBEL dice: «El acuerdo resolutorio de deslinde será ejecutivo y sólo podrá ser impugnado en vía contencioso-administrativa, sin perjuicio de que cuantos se estimen lesionados en sus derechos pueden hacerlos valer ante la jurisdicción ordinaria». El Reglamento aragonés atribuye la aprobación al Pleno (art. 60) pero no regula su ejecutividad ni su impugnación, por lo que se aplica el estatal como supletorio.",
+   "fuente": "Art. 65 RBEL (RD 1372/1986)",
+   "confianza": "alta",
+   "cita": "El acuerdo resolutorio de deslinde será ejecutivo y sólo podrá ser impugnado en vía contencioso-administrativa, sin perjuicio de que cuantos se estimen lesionados en sus derechos pueden hacerlos valer ante la jurisdicción ordinaria."
+  },
+  {
+   "q": "Según el art. 72 del Reglamento de Bienes de las Entidades Locales (RD 1372/1986), cuando los bienes de una Corporación local están situados fuera de su término municipal, la investigación, el deslinde y la reivindicación en vía administrativa:",
+   "options": [
+    "Corresponden en exclusiva a la entidad en cuyo territorio radican los bienes, que adquiere su titularidad",
+    "Solo pueden ejercerse mediante acción ante los tribunales civiles",
+    "Requieren autorización previa de la Diputación Provincial",
+    "Pueden ejecutarse mediante exhorto a la entidad en cuyo territorio radiquen, para que por su mediación se desarrollen los actos correspondientes"
+   ],
+   "correct": 3,
+   "exp": "El art. 72 RBEL dispone que las Corporaciones locales «podrán ejecutar en vía administrativa la investigación, el deslinde y reivindicación de los bienes situados fuera del término de su jurisdicción, mediante exhorto a la Entidad en cuyo territorio radicaren, para que, por su mediación, se desarrollen los actos correspondientes». El Reglamento aragonés no contiene una regla equivalente.",
+   "fuente": "Art. 72 RBEL (RD 1372/1986)",
+   "confianza": "alta",
+   "cita": "Las Corporaciones locales podrán ejecutar en vía administrativa la investigación, el deslinde y reivindicación de los bienes situados fuera del término de su jurisdicción, mediante exhorto a la Entidad en cuyo territorio radicaren, para que, por su mediación, se desarrollen los actos correspondientes."
+  }
+ ]
+}
