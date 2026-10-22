@@ -61,7 +61,7 @@
     html += `
       <div class="chips">
         <div class="chip amber"><b>${fmt(racha)}</b><small>Aciertos seguidos</small></div>
-        <div class="chip"><b>${fmt(fallos)}</b><small>Fallos por repasar</small></div>
+        <div class="chip rose"><b>${fmt(fallos)}</b><small>Fallos por repasar</small></div>
       </div>
       <h2 class="section-title">Tus oposiciones</h2>
       <div class="opo-list">

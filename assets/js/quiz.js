@@ -86,7 +86,7 @@
       <div class="chips three">
         <div class="chip"><b>${fmt(totalSeen)}</b><small>Respondidas</small></div>
         <div class="chip"><b>${pct===null?'—':pct+' %'}</b><small>Aciertos</small></div>
-        <div class="chip"><b>${fmt(state.failHistory.length)}</b><small>Fallos guardados</small></div>
+        <div class="chip rose"><b>${fmt(state.failHistory.length)}</b><small>Fallos guardados</small></div>
       </div>
       <button class="mode-btn" id="btn-mix">Examen mezclado <span class="sub">${Math.min(MIX_SIZE,totalQ)} preguntas</span></button>
       <button class="mode-btn secondary" id="btn-repaso-fallos">Repasar mis fallos</button>
@@ -208,8 +208,8 @@
 
     const optOrder = shuffle(q.options.map((opt,idx)=>({opt,idx})));
     let optHtml = '';
-    optOrder.forEach(o=>{
-      optHtml += `<button class="option" data-idx="${o.idx}"><span>${esc(o.opt)}</span></button>`;
+    optOrder.forEach((o,k)=>{
+      optHtml += `<button class="option" data-idx="${o.idx}"><span class="letra">${'ABCD'[k]}</span><span>${esc(o.opt)}</span></button>`;
     });
 
     screens.quiz.innerHTML = `
