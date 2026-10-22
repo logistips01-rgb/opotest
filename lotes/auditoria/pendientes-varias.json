@@ -1,0 +1,196 @@
+[
+  {
+    "tema": 19,
+    "q": "Conforme al artículo 2 del RD 896/1991, el ingreso en la Función Pública Local se realizará, con carácter general, a través del sistema de:",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "Art. 2 del RD 896/1991: «El ingreso en la Función Pública Local se realizará, con carácter general, a través del sistema de oposición, salvo que, por la naturaleza de las plazas o de las funciones a desempeñar, sea más adecuada la utilización del sistema de concurso-oposición o concurso». Hoy esta regla hay que leerla con el art. 61.6 TREBEP, que es legislación básica posterior: «Los sistemas selectivos de funcionarios de carrera serán los de oposición y concurso-oposición» y «Sólo en virtud de ley podrá aplicarse, con carácter excepcional, el sistema de concurso». Es decir, oposición y concurso-oposición son los dos sistemas ordinarios, y el concurso ya no puede elegirse por la naturaleza de las plazas: necesita una ley. El Ayuntamiento de Zaragoza convoca las plazas de Auxiliar Administrativo por el sistema selectivo de oposición.",
+      "fuente": "Art. 2 RD 896/1991; art. 61.6 TREBEP (RDLeg 5/2015)"
+    },
+    "motivo": "La clave («Oposición») es literal del art. 2 del RD 896/1991 y el enunciado ya acota la pregunta a ese artículo, así que la pregunta vale. Pero la explicación presenta como vigente que el concurso cabe «salvo que resulte más adecuado» por la naturaleza de las plazas, cuando el art. 61.6 TREBEP (básico y posterior) solo admite el concurso en virtud de ley y con carácter excepcional, y coloca el concurso-oposición al mismo nivel que la oposición. La Ley 7/1999 de Administración Local de Aragón no tiene regla propia sobre el sistema (su art. 246.1 remite a la normativa básica estatal).",
+    "resumen": "Se completa la explicación: el TREBEP solo admite el concurso por ley y con carácter excepcional.",
+    "cita": "TREBEP 61.6: «Los sistemas selectivos de funcionarios de carrera serán los de oposición y concurso-oposición que deberán incluir, en todo caso, una o varias pruebas para determinar la capacidad de los aspirantes y establecer el orden de prelación. Sólo en virtud de ley podrá aplicarse, con carácter excepcional, el sistema de concurso que consistirá únicamente en la valoración de méritos.»"
+  },
+  {
+    "tema": 19,
+    "q": "Según el artículo 2 del RD 896/1991, la utilización del sistema de concurso-oposición o de concurso, en lugar de la oposición, procede cuando sea más adecuada por razón de:",
+    "accion": "enunciado",
+    "nuevo": {
+      "q": "Según el artículo 2 del RD 896/1991 (desplazado en cuanto al concurso por el art. 61.6 TREBEP, que solo lo admite en virtud de ley y con carácter excepcional), la utilización del sistema de concurso-oposición o de concurso, en lugar de la oposición, procede cuando sea más adecuada por razón de:",
+      "exp": "El art. 2 del RD 896/1991 admite el concurso-oposición o el concurso cuando, «por la naturaleza de las plazas o de las funciones a desempeñar», sea más adecuada su utilización. En cuanto al concurso, esa regla está desplazada por el art. 61.6 TREBEP, que es legislación básica posterior: «Sólo en virtud de ley podrá aplicarse, con carácter excepcional, el sistema de concurso que consistirá únicamente en la valoración de méritos». El concurso-oposición, en cambio, es hoy un sistema ordinario junto a la oposición (art. 61.6, párrafo primero). Ni la complejidad técnica de las pruebas, ni la urgencia, ni el número de plazas o la población del municipio son el criterio que da el art. 2.",
+      "fuente": "Art. 2 RD 896/1991; art. 61.6 TREBEP (RDLeg 5/2015)"
+    },
+    "motivo": "La clave es literal del art. 2 del RD 896/1991, pero la pregunta enseña, sin advertencia, que el concurso puede elegirse por la naturaleza de las plazas. El art. 61.6 TREBEP (básico y posterior) solo lo admite «en virtud de ley» y «con carácter excepcional». La pregunta sigue teniendo sentido como pregunta sobre el RD si el enunciado advierte del desplazamiento; opciones y clave no cambian.",
+    "resumen": "Se aclara en el enunciado que el TREBEP solo admite el concurso por ley y con carácter excepcional.",
+    "cita": "RD 896/1991, art. 2: «salvo que, por la naturaleza de las plazas o de las funciones a desempeñar, sea más adecuada la utilización del sistema de concurso-oposición o concurso». TREBEP 61.6: «Sólo en virtud de ley podrá aplicarse, con carácter excepcional, el sistema de concurso que consistirá únicamente en la valoración de méritos.»"
+  },
+  {
+    "tema": 19,
+    "q": "A tenor del artículo 4.f) del RD 896/1991, actuará como Presidente del Tribunal:",
+    "accion": "enunciado",
+    "nuevo": {
+      "q": "El artículo 4.f) del RD 896/1991 dispone que actuará como Presidente del Tribunal «el de la Corporación o miembro de la misma en quien delegue». Según el artículo 60.2 del TREBEP, ¿puede hoy el Alcalde o un concejal formar parte de un órgano de selección?",
+      "options": [
+        "No, porque el personal de elección o de designación política no puede formar parte de ellos.",
+        "Sí, pero solo para ejercer la presidencia, con voz y sin voto, en nombre de la Corporación.",
+        "Sí, siempre que las bases de la convocatoria lo prevean expresamente y lo motiven.",
+        "Sí, siempre que los miembros electos no superen un tercio de los integrantes del Tribunal."
+      ],
+      "correct": 0,
+      "exp": "El art. 60.2 TREBEP, que es legislación básica, dispone: «El personal de elección o de designación política, los funcionarios interinos y el personal eventual no podrán formar parte de los órganos de selección». El Alcalde y los concejales son cargos electos, así que no pueden presidir ni integrar el tribunal, ni con voz y sin voto, ni aunque lo prevean las bases, ni en una proporción limitada. Por eso han quedado desplazadas las normas anteriores que decían otra cosa: el art. 4.f) del RD 896/1991; el art. 247.1 de la Ley 7/1999, de Administración Local de Aragón, según el cual el presidente del tribunal «será el Presidente de la Corporación o miembro de la misma en quien delegue»; y el art. 127.1.h) LBRL, que para los municipios de gran población dice que el presidente «podrá ser nombrado entre los miembros de la Corporación o entre el personal al servicio de las Administraciones públicas», de modo que tras el TREBEP solo cabe la segunda posibilidad. Las bases generales del Ayuntamiento de Zaragoza exigen que los miembros del tribunal, salvo quien ejerza la secretaría, sean funcionarios de carrera.",
+      "fuente": "Art. 60.2 TREBEP (RDLeg 5/2015); art. 4.f) RD 896/1991"
+    },
+    "motivo": "La clave («el de la Corporación o miembro de la misma en quien delegue») es literal del art. 4.f) del RD 896/1991, pero esa regla es hoy contraria al art. 60.2 TREBEP (básico y posterior), que excluye de los órganos de selección al personal de elección o de designación política. Preguntar qué decía un texto inaplicable no tiene sentido en un examen sobre normativa vigente, y retirarla dejaría el banco sin ninguna pregunta sobre el art. 60.2 TREBEP (no hay ninguna en los temas 17, 18 ni 19). Se reconvierte manteniendo la referencia al RD en el enunciado. Atención: la misma regla sigue escrita en el art. 247.1 de la Ley 7/1999 de Aragón y, como posibilidad, en el art. 127.1.h) LBRL; por eso el distractor «solo en los municipios de régimen común» se ha evitado. Alternativa si el revisor prefiere no reconvertir: retirar.",
+    "resumen": "Se reconvierte: el TREBEP prohíbe que cargos electos formen parte de los tribunales, así que el Alcalde ya no puede presidirlos.",
+    "cita": "TREBEP 60.2: «El personal de elección o de designación política, los funcionarios interinos y el personal eventual no podrán formar parte de los órganos de selección.» LBRL 127.1.h), párrafo segundo: «Su presidente podrá ser nombrado entre los miembros de la Corporación o entre el personal al servicio de las Administraciones públicas.»"
+  },
+  {
+    "tema": 19,
+    "q": "De acuerdo con el artículo 4.f) del RD 896/1991, entre los Vocales del Tribunal figurará:",
+    "accion": "enunciado",
+    "nuevo": {
+      "q": "El artículo 4.f) del RD 896/1991 dispone que entre los Vocales del Tribunal «figurará un representante de la Comunidad Autónoma». Según el artículo 60.3 del TREBEP, la pertenencia a los órganos de selección:",
+      "options": [
+        "Podrá ostentarse en representación de la Comunidad Autónoma cuando así lo prevean las bases.",
+        "Será siempre a título individual, sin que pueda ostentarse en representación o por cuenta de nadie.",
+        "Será a título individual, salvo la del Presidente, que actúa en representación de la Corporación.",
+        "Podrá ostentarse en representación de las organizaciones sindicales cuando exista Junta de Personal."
+      ],
+      "correct": 1,
+      "exp": "Art. 60.3 TREBEP: «La pertenencia a los órganos de selección será siempre a título individual, no pudiendo ostentarse ésta en representación o por cuenta de nadie». No hay excepciones: ni para la Comunidad Autónoma, ni para la Corporación, ni para los sindicatos. Por eso no cabe hoy un vocal «en representación» de la Comunidad Autónoma, como preveían el art. 4.f) del RD 896/1991 y el art. 247.2.b) de la Ley 7/1999, de Administración Local de Aragón («Uno de los vocales lo será en representación de la Comunidad Autónoma»): el TREBEP es legislación básica posterior y los desplaza. Las bases generales del Ayuntamiento de Zaragoza lo recogen en los mismos términos: la pertenencia al tribunal calificador «será siempre a título individual».",
+      "fuente": "Art. 60.3 TREBEP (RDLeg 5/2015); art. 4.f) RD 896/1991"
+    },
+    "motivo": "La clave («Un representante de la Comunidad Autónoma») es literal del art. 4.f) del RD 896/1991, pero es contraria al art. 60.3 TREBEP (básico y posterior): nadie puede formar parte del tribunal en representación de otro. La misma regla sigue escrita en el art. 247.2.b) de la Ley 7/1999 de Aragón, también desplazada; las bases del Ayuntamiento de Zaragoza siguen el TREBEP. Como en la anterior, el banco no tiene ninguna pregunta sobre el art. 60.3 TREBEP, así que se reconvierte manteniendo la referencia al RD en el enunciado. Alternativa: retirar.",
+    "resumen": "Se reconvierte: según el TREBEP, nadie forma parte de un tribunal en representación de otro, tampoco de la Comunidad Autónoma.",
+    "cita": "TREBEP 60.3: «La pertenencia a los órganos de selección será siempre a título individual, no pudiendo ostentarse ésta en representación o por cuenta de nadie.» Ley 7/1999 de Aragón, art. 247.2.b): «Uno de los vocales lo será en representación de la Comunidad Autónoma, nombrado a propuesta del Instituto Aragonés de Administración Pública.»"
+  },
+  {
+    "tema": 19,
+    "q": "Conforme al artículo 7 del RD 896/1991, en ningún caso podrá aprobarse ni declararse que ha superado las pruebas selectivas:",
+    "accion": "enunciado",
+    "nuevo": {
+      "q": "Conforme al artículo 7 del RD 896/1991, con la excepción que hoy añade el artículo 61.8 del TREBEP para cuando la propia convocatoria lo prevea, no podrá aprobarse ni declararse que ha superado las pruebas selectivas:",
+      "exp": "El art. 7 del RD 896/1991 dice que «en ningún caso» podrá aprobarse ni declararse que ha superado las pruebas selectivas «un número de aspirantes superior al de las plazas convocadas» (en los mismos términos, el art. 247.4 de la Ley 7/1999, de Administración Local de Aragón). El art. 61.8 TREBEP, que es legislación básica posterior, mantiene la regla pero la matiza: los órganos de selección no podrán proponer un número superior de aprobados al de plazas convocadas, «excepto cuando así lo prevea la propia convocatoria». Además, si han propuesto tantos aspirantes como plazas y hay renuncias antes del nombramiento o de la toma de posesión, el órgano convocante puede pedirles una relación complementaria de los aspirantes que sigan a los propuestos. Lo prohibido es aprobar de más: proponer menos aspirantes que plazas no lo está, y ni un empate ni la nota de un ejercicio concreto impiden por sí solos superar el proceso.",
+      "fuente": "Art. 7 RD 896/1991; art. 61.8 TREBEP (RDLeg 5/2015)"
+    },
+    "motivo": "La clave es la regla general y sigue siendo correcta, pero el enunciado afirma que la prohibición rige «en ningún caso», cuando el art. 61.8 TREBEP (básico y posterior) la exceptúa si la convocatoria lo prevé y añade la relación complementaria por renuncias. Se quita «en ningún caso» del enunciado, se advierte de la excepción y se completa la explicación; opciones y clave no cambian. El art. 247.4 de la Ley 7/1999 de Aragón repite la regla absoluta y queda igualmente matizado por el TREBEP.",
+    "resumen": "Se aclara que el TREBEP permite aprobar más aspirantes que plazas si la convocatoria lo prevé.",
+    "cita": "TREBEP 61.8: «Los órganos de selección no podrán proponer el acceso a la condición de funcionario de un número superior de aprobados al de plazas convocadas, excepto cuando así lo prevea la propia convocatoria.»"
+  },
+  {
+    "tema": 19,
+    "q": "Conforme al artículo 5 del RD 896/1991, las convocatorias determinarán el número y características de las plazas que deban ser provistas, con referencia a las bases aprobadas por:",
+    "accion": "enunciado",
+    "nuevo": {
+      "q": "En el Ayuntamiento de Zaragoza, ¿a qué órgano corresponde aprobar las bases de las convocatorias de selección de personal a las que se refiere el artículo 5 del RD 896/1991?",
+      "options": [
+        "El Presidente de la Corporación.",
+        "El Tribunal calificador, una vez constituido.",
+        "El Gobierno de Zaragoza, que es su Junta de Gobierno Local.",
+        "El Pleno."
+      ],
+      "correct": 2,
+      "exp": "El art. 5 del RD 896/1991 habla de las «bases aprobadas por el Pleno», pero esa atribución está superada por la LBRL. En los municipios de gran población, como Zaragoza, el art. 127.1.h) LBRL atribuye a la Junta de Gobierno Local aprobar «las bases de las convocatorias de selección y provisión de puestos de trabajo», y el art. 14.1.i) de la Ley 10/2017, de régimen especial del municipio de Zaragoza como capital de Aragón, lo repite para el Gobierno de Zaragoza, que es el nombre que esa ley da a la Junta de Gobierno Local (disposición adicional segunda). Es una atribución delegable (art. 14.2 de la Ley 10/2017); de hecho, el texto refundido de las bases generales del Ayuntamiento lo aprobó por decreto la Concejalía delegada de Personal. En los municipios de régimen común las bases las aprueba el Alcalde (art. 21.1.g LBRL). El Pleno ya no las aprueba, aunque lo sigan diciendo el art. 5 del RD 896/1991 y el art. 246.1 de la Ley 7/1999, de Administración Local de Aragón, y el tribunal calificador aplica las bases, no las aprueba.",
+      "fuente": "Art. 127.1.h) LBRL (Ley 7/1985); art. 14.1.i) Ley 10/2017 de capitalidad de Zaragoza; art. 5 RD 896/1991"
+    },
+    "motivo": "La clave («El Pleno») es literal del art. 5 del RD 896/1991, pero es falsa hoy en cualquier municipio. En los de gran población, como Zaragoza, aprueba las bases la Junta de Gobierno Local (art. 127.1.h LBRL; en Zaragoza, el Gobierno de Zaragoza, según el art. 14.1.i y la disposición adicional segunda de la Ley 10/2017, que está en el epígrafe del tema 14). En los de régimen común las aprueba el Alcalde (art. 21.1.g LBRL). Dos de los distractores eran, por tanto, las respuestas correctas hoy. La misma atribución al Pleno sigue escrita en el art. 246.1 de la Ley 7/1999 de Aragón, también desplazada por la legislación básica. Se reformula a la regla vigente en Zaragoza, manteniendo las opciones salvo el texto de la de la Junta de Gobierno Local, que se adapta a su nombre en Zaragoza.",
+    "resumen": "Se corrige: en Zaragoza las bases de selección las aprueba el Gobierno de Zaragoza (Junta de Gobierno Local), no el Pleno.",
+    "cita": "LBRL 127.1.h): corresponde a la Junta de Gobierno Local «Aprobar la relación de puestos de trabajo, las retribuciones del personal de acuerdo con el presupuesto aprobado por el Pleno, la oferta de empleo público, las bases de las convocatorias de selección y provisión de puestos de trabajo». Ley 10/2017, DA 2.ª: «La Junta de Gobierno Local del municipio de Zaragoza se denomina, por efecto de esta Ley, Gobierno de Zaragoza.»"
+  },
+  {
+    "tema": 19,
+    "q": "De acuerdo con la disposición adicional segunda del RD 896/1991, la selección del personal laboral fijo de nuevo ingreso de las Entidades Locales se hará por:",
+    "accion": "respuesta",
+    "nuevo": {
+      "options": [
+        "Concurso, concurso-oposición u oposición libre, teniendo en cuenta las condiciones que requiera la naturaleza de los puestos de trabajo a desempeñar.",
+        "Exclusivamente por concurso de traslados entre personal laboral de otras Administraciones.",
+        "Oposición libre en todo caso, con bases aprobadas por el Presidente de la Corporación.",
+        "Convocatoria pública resuelta por el Tribunal mediante libre designación."
+      ],
+      "exp": "La disposición adicional segunda, apartado 2, del RD 896/1991 prevé que la selección del personal laboral fijo se haga «por concurso, concurso-oposición u oposición libre, teniendo en cuenta las condiciones que requiera la naturaleza de los puestos de trabajo a desempeñar». El art. 61.7 TREBEP confirma esos tres sistemas para el personal laboral fijo: «oposición, concurso-oposición, con las características establecidas en el apartado anterior, o concurso de valoración de méritos». La misma disposición se refiere a «las bases aprobadas por el Pleno de la Corporación», pero esa atribución está superada: en los municipios de gran población, como Zaragoza, las bases de las convocatorias de selección las aprueba la Junta de Gobierno Local, que allí se llama Gobierno de Zaragoza (art. 127.1.h LBRL y art. 14.1.i de la Ley 10/2017), y en los de régimen común, el Alcalde (art. 21.1.g LBRL). No se exige la oposición en todo caso, y ni el concurso de traslados ni la libre designación son sistemas de selección de personal laboral fijo.",
+      "fuente": "Disposición adicional segunda, apartado 2, RD 896/1991; art. 61.7 TREBEP (RDLeg 5/2015); art. 127.1.h) LBRL"
+    },
+    "motivo": "Mismo problema que la pregunta del art. 5: la opción correcta afirma que las bases las aprueba «el Pleno de la Corporación», lo que hoy es falso (Junta de Gobierno Local en Zaragoza, art. 127.1.h LBRL y 14.1.i Ley 10/2017; Alcalde en régimen común, art. 21.1.g LBRL). Los sistemas de selección sí siguen siendo correctos (art. 61.7 TREBEP). Se sustituye el final de la opción correcta por otro inciso literal de la misma disposición («teniendo en cuenta las condiciones que requiera la naturaleza de los puestos de trabajo a desempeñar») y se explica en la explicación por qué ya no aprueba el Pleno. Clave y enunciado no cambian.",
+    "resumen": "Se quita de la opción correcta que las bases las aprueba el Pleno, que ya no es así.",
+    "cita": "RD 896/1991, DA 2.ª.2: «La selección de este personal se hará por concurso, concurso-oposición u oposición libre, teniendo en cuenta las condiciones que requiera la naturaleza de los puestos de trabajo a desempeñar de conformidad con las bases aprobadas por el Pleno de la Corporación». TREBEP 61.7: «Los sistemas selectivos de personal laboral fijo serán los de oposición, concurso-oposición, con las características establecidas en el apartado anterior, o concurso de valoración de méritos.»"
+  },
+  {
+    "tema": 19,
+    "q": "Las bases de las pruebas de selección y de los concursos para la provisión de puestos de trabajo en las entidades locales se aprueban, y su convocatoria corresponde, a:",
+    "accion": "enunciado",
+    "nuevo": {
+      "q": "Según el artículo 102 de la LBRL, las bases de las pruebas de selección y de los concursos para la provisión de puestos de trabajo en las entidades locales se aprueban, y su convocatoria corresponde, a:",
+      "exp": "Art. 102.1 LBRL: las pruebas de selección y los concursos de provisión «se regirán por las bases que apruebe el Presidente de la Corporación, a quien corresponderá su convocatoria»; y el art. 102.2 añade que el tribunal u órgano similar «elevará la correspondiente relación de aprobados al Presidente de la Corporación para hacer el nombramiento», a quien también corresponde la resolución motivada de los concursos, previa propuesta del órgano de selección. Es la regla de los municipios de régimen común, coherente con el art. 21.1.g) LBRL, que atribuye al Alcalde «aprobar las bases de las pruebas para la selección del personal». En los municipios de gran población, como Zaragoza, aprobar las bases corresponde a la Junta de Gobierno Local (art. 127.1.h LBRL), que en Zaragoza se llama Gobierno de Zaragoza (art. 14.1.i y disposición adicional segunda de la Ley 10/2017) y que puede delegar esta atribución. El Pleno no aprueba las bases ni nombra a los aprobados, y el Secretario no tiene esa competencia.",
+      "fuente": "Art. 102 LBRL (Ley 7/1985); arts. 21.1.g) y 127.1.h) LBRL"
+    },
+    "motivo": "Encontrada al buscar otras preguntas del tema 19 sobre quién aprueba las bases. La clave es literal del art. 102 LBRL, pero el enunciado es general («en las entidades locales») y no cita el artículo, cuando en Zaragoza, municipio de gran población, las bases las aprueba la Junta de Gobierno Local (art. 127.1.h LBRL; art. 14.1.i Ley 10/2017). Basta acotar el enunciado al art. 102 y explicar la regla de Zaragoza. El distractor de la Junta de Gobierno Local sigue siendo falso porque añade que el nombramiento corresponde al Pleno.",
+    "resumen": "Se acota la pregunta al art. 102 LBRL y se explica que en Zaragoza las bases las aprueba el Gobierno de Zaragoza.",
+    "cita": "LBRL 102.1: «Las pruebas de selección y los concursos para la provisión de puestos de trabajo, a que se refiere el presente Capítulo, se regirán por las bases que apruebe el Presidente de la Corporación, a quien corresponderá su convocatoria.» Ley 10/2017, art. 14.1: «Corresponden al Gobierno de Zaragoza las siguientes atribuciones: […] i) La aprobación de la relación de puestos de trabajo; las retribuciones del personal de acuerdo con el presupuesto aprobado por el Pleno; la oferta de empleo público; las bases de las convocatorias de selección y provisión de puestos de trabajo»"
+  },
+  {
+    "tema": 14,
+    "q": "Según el art. 25.2 de la LBRL, el municipio ejerce competencias propias en materia de protección de la salubridad pública y, entre otras, en:",
+    "accion": "respuesta",
+    "nuevo": {
+      "options": [
+        "La regulación del sistema nacional de salud",
+        "Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística",
+        "La homologación de títulos universitarios de medicina",
+        "La gestión de hospitales de titularidad estatal"
+      ],
+      "exp": "Art. 25.2 LBRL, en la redacción dada por la Ley 27/2013: el municipio ejerce como competencias propias, entre otras, la de la letra a), «Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística», y la de la letra j), «Protección de la salubridad pública». La fórmula «Ordenación, gestión, ejecución y disciplina urbanística» era la de la redacción original de 1985, en la letra d) del mismo apartado, y ya no está vigente. La regulación del sistema nacional de salud, la homologación de títulos universitarios y la gestión de hospitales estatales no son competencias municipales."
+    },
+    "motivo": "Señalada como índice 93; por contenido es la de índice 92 (la de índice 93 trata de la dispensa de servicios mínimos). La opción correcta reproduce la redacción original de 1985 (entonces letra d: «Ordenación, gestión, ejecución y disciplina urbanística; promoción y gestión de viviendas…»). La vigente letra a), desde la Ley 27/2013, dice «Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística». La explicación ya citaba la redacción vigente, de modo que opción y explicación no coincidían. Se cambia solo el texto de la opción correcta (misma posición). Aviso: tras el cambio, la clave coincide con la de la pregunta de índice 165 del mismo tema («Según el art. 25.2 de la LBRL, entre las materias en que el Municipio ejerce en todo caso competencias propias figura:»); el revisor puede valorar si son redundantes.",
+    "resumen": "Se actualiza la opción correcta a la redacción vigente del art. 25.2.a) LBRL: «Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística».",
+    "cita": "LBRL 25.2.a) vigente: «Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística.» Texto original de 1985, art. 25.2.d): «Ordenación, gestión, ejecución y disciplina urbanística; promoción y gestión de viviendas; parques y jardines, pavimentación de vías públicas urbanas y conservación de caminos y vías rurales.»"
+  },
+  {
+    "tema": 14,
+    "q": "¿Qué relación existe entre una ordenanza reguladora del uso de las playas fluviales o zonas de baño municipales y las competencias en materia de protección civil?",
+    "accion": "respuesta",
+    "nuevo": {
+      "options": [
+        "Puede desarrollar, entre otras, la competencia propia municipal de protección civil (art. 25.2 f LBRL), estableciendo normas de seguridad y uso",
+        "Es competencia exclusiva de Costas, sin intervención municipal",
+        "Solo puede aprobarse mediante decreto autonómico, nunca ordenanza",
+        "No guarda relación alguna con la protección civil municipal"
+      ],
+      "exp": "Una ordenanza de uso de zonas de baño puede desarrollar, entre otras, la competencia municipal de protección civil del art. 25.2.f) LBRL, que dice: «Policía local, protección civil, prevención y extinción de incendios». Con ella se fijan normas de seguridad, señalización y comportamiento en esas zonas. También puede apoyarse en otras letras del mismo apartado, como la protección de la salubridad pública (letra j). La letra f) no habla de «prevención de riesgos» en general: la única prevención que menciona es la de incendios. (Venía del tema 16 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: competencia propia de policía local y protección civil (art. 25.2 f LBRL) aplicada a zonas de baño; no trata de la norma local ni de su aprobación.)",
+      "fuente": "Art. 25.2.f) LBRL (Ley 7/1985)"
+    },
+    "motivo": "Señalada como índice 292; por contenido es la de índice 291 (la de índice 292 trata de la ordenanza de residuos y no menciona la letra f). La opción correcta y la explicación atribuyen al art. 25.2.f) LBRL la «prevención de riesgos», que esa letra no menciona (vigente: «Policía local, protección civil, prevención y extinción de incendios»; tampoco la redacción de 1985, letra c: «Protección civil, prevención y extinción de incendios»). Se quita «y prevención de riesgos» de la opción correcta, se corrige la explicación (conservando la nota de procedencia) y se precisa la `fuente`. Clave y distractores no cambian.",
+    "resumen": "Se quita de la respuesta la «prevención de riesgos», que el art. 25.2.f) LBRL no menciona.",
+    "cita": "LBRL 25.2.f): «Policía local, protección civil, prevención y extinción de incendios.»"
+  },
+  {
+    "tema": 15,
+    "q": "Los artículos 69 a 72 de la LBRL, relativos a la información y participación ciudadanas, se ubican dentro de:",
+    "accion": "respuesta",
+    "nuevo": {
+      "options": [
+        "El Capítulo IV del Título V, rubricado 'Información y participación ciudadanas'.",
+        "El Título Preliminar de la Ley.",
+        "El Capítulo I del Título II, rubricado 'Organización'.",
+        "El Capítulo V del Título II, rubricado 'Estatuto de los miembros de las Corporaciones locales'."
+      ],
+      "exp": "En el texto consolidado de la LBRL, los arts. 69 a 72 forman el Capítulo IV, «Información y participación ciudadanas», del Título V, «Disposiciones comunes a las Entidades locales». El Capítulo V de ese mismo Título, «Estatuto de los miembros de las Corporaciones locales», empieza en el art. 73. La LBRL no tiene Título Preliminar: empieza por el Título I, «Disposiciones generales». El Título II, «El municipio», solo tiene cuatro capítulos: Territorio y población (el I), Organización (el II), Competencias (el III) y Regímenes especiales (el IV).",
+      "fuente": "LBRL (Ley 7/1985), Título V, Capítulo IV (arts. 69 a 72)"
+    },
+    "motivo": "La opción correcta sitúa los arts. 69 a 72 en el «Capítulo IV del Título II». Según el índice del texto consolidado del BOE, el Título II («El municipio») tiene cuatro capítulos y su Capítulo IV es «Regímenes Especiales»; los arts. 69 a 72 están en el Capítulo IV del Título V («Disposiciones comunes a las Entidades locales»). La explicación además decía que el Capítulo IV encabeza «los arts. 69 a 72 (y siguientes)», cuando el art. 73 ya pertenece al Capítulo V. Se corrige el texto de la opción correcta (misma posición), la explicación y la `fuente`. Los tres distractores siguen siendo falsos.",
+    "resumen": "Se corrige la ubicación: los arts. 69 a 72 LBRL están en el Capítulo IV del Título V, no del Título II.",
+    "cita": "Índice del BOE (BOE-A-1985-5392): «TÍTULO V Disposiciones comunes a las Entidades locales» … «CAPÍTULO IV Información y participación ciudadanas» (arts. 69 a 72) … «CAPÍTULO V Estatuto de los miembros de las Corporaciones locales» (desde el art. 73)."
+  },
+  {
+    "tema": 17,
+    "q": "Según el art. 20.1 del TREBEP, las Administraciones Públicas pueden establecer sistemas de evaluación del desempeño para medir y valorar la conducta profesional y el rendimiento o logro de:",
+    "accion": "enunciado",
+    "nuevo": {
+      "q": "Según el art. 20.1 del TREBEP, las Administraciones Públicas establecerán sistemas de evaluación del desempeño, que es el procedimiento mediante el cual se mide y valora la conducta profesional y el rendimiento o el logro de:",
+      "exp": "Art. 20.1 TREBEP: «Las Administraciones Públicas establecerán sistemas que permitan la evaluación del desempeño de sus empleados». Es un mandato, no una facultad. El párrafo segundo la define: «La evaluación del desempeño es el procedimiento mediante el cual se mide y valora la conducta profesional y el rendimiento o el logro de resultados». No mide la titulación académica, ni las horas de presencia, ni la antigüedad."
+    },
+    "motivo": "El enunciado dice que las Administraciones «pueden establecer» sistemas de evaluación del desempeño, y el art. 20.1 TREBEP dice «establecerán»: es una obligación. La explicación ya lo decía bien. Se corrige el verbo del enunciado y se ajusta su final a la definición literal del párrafo segundo; opciones y clave («Resultados») no cambian. (El art. 20 está en el Capítulo II del Título III, cuyos efectos la disposición final cuarta.1 TREBEP difiere a las leyes de función pública de desarrollo, pero eso no convierte el mandato en facultad.)",
+    "resumen": "Se corrige el enunciado: el TREBEP dice que las Administraciones «establecerán» la evaluación del desempeño, no que «pueden».",
+    "cita": "TREBEP 20.1: «Las Administraciones Públicas establecerán sistemas que permitan la evaluación del desempeño de sus empleados. La evaluación del desempeño es el procedimiento mediante el cual se mide y valora la conducta profesional y el rendimiento o el logro de resultados.»"
+  }
+]

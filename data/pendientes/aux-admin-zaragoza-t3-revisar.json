@@ -1,0 +1,87 @@
+{
+  "slug": "aux-admin-zaragoza",
+  "tema": 3,
+  "fecha": "2026-10-22",
+  "preguntas": [
+    {
+      "q": "Según el art. 32 del Estatuto de Autonomía de Aragón, ¿con qué otra denominación figura el Gobierno entre las instituciones de la Comunidad Autónoma?",
+      "options": [
+        "Junta de Aragón",
+        "Consejo de Gobierno de Aragón",
+        "Diputación General",
+        "Generalidad de Aragón"
+      ],
+      "correct": 2,
+      "exp": "El art. 32 dice: «Son instituciones de la Comunidad Autónoma de Aragón las Cortes, el Presidente, el Gobierno o la Diputación General y el Justicia». Por eso el capítulo III del Título II se titula «El Gobierno de Aragón o la Diputación General de Aragón». Junta, Consejo de Gobierno y Generalidad son denominaciones de otras comunidades autónomas.",
+      "fuente": "Art. 32 EAA (LO 5/2007)",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 32 «el Gobierno o la Diputación General». Ningún otro nombre (Junta, Consejo de Gobierno, Generalidad) aparece en el Estatuto como denominación del Gobierno; el cap. III se titula «El Gobierno de Aragón o la Diputación General de Aragón». Inequívoca. La existente sobre el art. 32 pregunta la lista de instituciones, cuyos distractores no ponen a prueba la denominación alternativa; no la repite. | Revisor 2 (RECHAZADA): Dato correcto (art. 32: «el Gobierno o la Diputación General»), pero repite en lo sustancial la pregunta existente del tema 3 «Según el art. 32, ¿cuáles son las instituciones…?», cuya respuesta correcta es literalmente «Las Cortes, el Presidente, el Gobierno o Diputación General y el Justicia»; el art. 32 también está en el tema 21 (examen 31-may-2026, P31). Además la explicación atribuye las denominaciones distractoras a otras CCAA sin fuente del texto descargado.",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "¿En qué lugar del Estatuto de Autonomía de Aragón se encuentra el art. 32, que enumera las instituciones de la Comunidad Autónoma?",
+      "options": [
+        "En el Título II, antes del capítulo I",
+        "En el capítulo I del Título II, «Las Cortes de Aragón»",
+        "En el Título preliminar",
+        "En el Título III, «La Administración Pública en Aragón»"
+      ],
+      "correct": 0,
+      "exp": "El Título II, «Organización institucional de la Comunidad Autónoma de Aragón», se abre con el art. 32 («Instituciones»), que va antes de los capítulos. El capítulo I, «Las Cortes de Aragón», empieza en el art. 33. El Título preliminar abarca los arts. 1 a 10 y el Título III, los arts. 61 y 62.",
+      "fuente": "Art. 32 EAA (LO 5/2007), Título II",
+      "confianza": "alta",
+      "veredicto": "RECHAZADA",
+      "notaRevision": "Revisor 1 (RECHAZADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): el dato es correcto e inequívoco (en el consolidado, el art. 32 va bajo el rótulo del Título II y antes del rótulo «CAPÍTULO I. Las Cortes de Aragón», que empieza en el art. 33; Título preliminar 1-10, Título III 61-62). Se rechaza por repetición (regla 6): el banco ya tiene «El Título II … comprende los artículos: 32 al 60» y «¿Cuántos capítulos componen el Título II …, sin contar el artículo inicial sobre instituciones?», que juntas dan exactamente esta respuesta (art. 32 en el Título II, fuera de los capítulos). Pregunta de estructura de poco valor añadido. | Revisor 2 (RECHAZADA): Dato correcto (el art. 32 abre el Título II antes del capítulo I, que empieza en el art. 33), pero pregunta lo mismo con otras palabras que las existentes del tema 3 sobre la estructura del Título II («comprende los artículos 32 al 60» y «¿Cuántos capítulos… sin contar el artículo inicial sobre instituciones?»). Aporta poco y se solapa.",
+      "_motivo": "veredicto RECHAZADA"
+    },
+    {
+      "q": "Según el art. 42.2 del Estatuto de Autonomía de Aragón, ¿cómo se regulará la iniciativa legislativa popular?",
+      "options": [
+        "Por ley de Cortes de Aragón",
+        "Por el Reglamento de las Cortes de Aragón",
+        "Por decreto del Gobierno de Aragón",
+        "Por ley orgánica de las Cortes Generales"
+      ],
+      "correct": 0,
+      "exp": "El art. 42.2 atribuye la iniciativa legislativa a los miembros de las Cortes y al Gobierno de Aragón, y añade: «Por ley de Cortes de Aragón se regulará la iniciativa legislativa popular». No la remite al Reglamento de la Cámara, a un decreto ni a una ley orgánica estatal.",
+      "fuente": "Art. 42.2 EAA (LO 5/2007)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 42.2 «Por ley de Cortes de Aragón se regulará la iniciativa legislativa popular». El Reglamento se cita en el 42.2 solo para la iniciativa de diputados y Gobierno, no para la popular; decreto y ley orgánica, falsos. Las existentes sobre el 42.2 preguntan a quién corresponde la iniciativa, otro dato. | Revisor 2 (DUDOSA): Art. 42.2 verificado: «Por ley de Cortes de Aragón se regulará la iniciativa legislativa popular». Pero el distractor «Por el Reglamento de las Cortes de Aragón» no es claramente falso: el art. 15.2 EAA dice que los aragoneses presentan iniciativas legislativas «de acuerdo con lo que establezcan la ley y el Reglamento de las Cortes». Arreglo: sustituirlo por un distractor sin apoyo en el Estatuto (p. ej., «Por decreto del Presidente de Aragón» o «Por acuerdo de la Mesa de las Cortes»).",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "Según el art. 57 del Estatuto de Autonomía de Aragón, el Gobierno de Aragón podrá interponer recursos de inconstitucionalidad, plantear conflictos de competencias y personarse en el Tribunal Constitucional en los supuestos y términos previstos en:",
+      "options": [
+        "La Constitución y la Ley Orgánica del Tribunal Constitucional",
+        "El Estatuto de Autonomía y el Reglamento de las Cortes de Aragón",
+        "La ley de las Cortes de Aragón que regule el Gobierno",
+        "La Ley Orgánica del Poder Judicial"
+      ],
+      "correct": 0,
+      "exp": "El art. 57 remite a «los supuestos y términos previstos en la Constitución y en la Ley Orgánica del Tribunal Constitucional». Los procesos ante el Tribunal Constitucional los regulan esas dos normas, no el Reglamento de las Cortes, una ley autonómica ni la Ley Orgánica del Poder Judicial.",
+      "fuente": "Art. 57 EAA (LO 5/2007)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 57 «en los supuestos y términos previstos en la Constitución y en la Ley Orgánica del Tribunal Constitucional». Distractores falsos. La existente sobre el art. 57 pregunta ante qué órgano, no el marco normativo. Nota menor: la `cita` se corta en «previstos en» y no incluye la respuesta (el texto sigue con «la Constitución y en la Ley Orgánica del Tribunal Constitucional»); convendría completarla. | Revisor 2 (DUDOSA): Art. 57 verificado: «en los supuestos y términos previstos en la Constitución y en la Ley Orgánica del Tribunal Constitucional». Contenido exacto, pero la correcta se delata por la forma: es la única opción que repite «Tribunal Constitucional» del enunciado, y la existente del art. 57 ya pregunta ante qué órgano (el TC). Arreglo: distractores del mismo tipo, como «La Constitución y la Ley Orgánica del Poder Judicial» o «El Estatuto de Autonomía y la Ley Orgánica del Tribunal Constitucional».",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "Según el Estatuto de Autonomía de Aragón, la protección civil, que incluye la regulación, la planificación, la coordinación y la ejecución de medidas relativas a emergencias y seguridad civil, es una competencia de la Comunidad Autónoma de carácter:",
+      "options": [
+        "Compartido",
+        "Ejecutivo",
+        "Exclusivo",
+        "Concurrente"
+      ],
+      "correct": 2,
+      "exp": "La protección civil figura entre las competencias exclusivas del art. 71, materia 57.ª: «Protección civil, que incluye, en todo caso, la regulación, la planificación, la coordinación y la ejecución de medidas relativas a emergencias y seguridad civil ante incendios, catástrofes naturales, accidentes y otras situaciones de necesidad». No está en las listas de competencias compartidas (art. 75) ni ejecutivas (art. 77), y «concurrente» no es una de las tres clases que establece el art. 70.1.",
+      "fuente": "Art. 71.57.ª EAA (LO 5/2007)",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (DUDOSA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): la protección civil está SOLO en el art. 71 (EXCLUSIVAS), materia 57.ª, con el texto citado; no figura en el art. 75 ni en el 77 (el 77.15.ª es seguridad ciudadana y privada, otra materia). La respuesta marcada es correcta. El problema es el distractor «Concurrente». Según el Estatuto es falso, porque la palabra no aparece en todo el texto y el art. 70.1 solo distingue exclusivas, compartidas y ejecutivas. Pero no es CLARAMENTE falso para quien estudia: en la doctrina constitucional la protección civil es el ejemplo típico de materia en la que concurren competencias estatales y autonómicas, y «concurrente» se usa a menudo como sinónimo de «compartida». Un opositor con esa formación puede dudar con razón. Arreglo propuesto: sustituir «Concurrente» por una opción inequívocamente falsa del mismo tipo, por ejemplo «Ninguna, por estar reservada al Estado», y quitar de la explicación la frase sobre «concurrente» (o adaptarla). | Revisor 2 (CONFIRMADA): Art. 71.57.ª verificado: la protección civil es competencia exclusiva. Comprobado que la materia no aparece en los arts. 75 ni 77 (el 77.15.ª es seguridad ciudadana y privada, otra materia). «Concurrente» no es clase del art. 70.1. Sin duplicados.",
+      "_motivo": "veredicto DUDOSA"
+    }
+  ]
+}

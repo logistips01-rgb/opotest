@@ -1,0 +1,607 @@
+{
+ "slug": "aux-admin-zaragoza",
+ "tema": 3,
+ "lote": "t03-1",
+ "preguntas": [
+  {
+   "q": "Según el art. 4.2 del Estatuto de Autonomía de Aragón, los ciudadanos españoles residentes en el extranjero que hayan tenido su última vecindad administrativa en Aragón gozan, como aragoneses, de los derechos políticos del Estatuto si acreditan esa condición:",
+   "options": [
+    "En el correspondiente Consulado de España o cumpliendo los requisitos de la legislación estatal",
+    "Ante el Justicia de Aragón, mediante certificado expedido por esta institución",
+    "Ante la Delegación del Gobierno en Aragón, mediante declaración responsable anual",
+    "Ante el Ayuntamiento aragonés de su última vecindad, mediante inscripción en el padrón"
+   ],
+   "correct": 0,
+   "exp": "El art. 4.2 exige que «acrediten esta condición en el correspondiente Consulado de España o cumplan los requisitos establecidos en la legislación estatal». El Estatuto no atribuye esa acreditación al Justicia, a la Delegación del Gobierno ni al Ayuntamiento de la última vecindad.",
+   "fuente": "Art. 4.2 EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 4.2 dice literalmente «acrediten esta condición en el correspondiente Consulado de España o cumplan los requisitos establecidos en la legislación estatal». Justicia, Delegación del Gobierno y Ayuntamiento/padrón no aparecen: los tres distractores son falsos. Las preguntas existentes sobre el 4.2 (qué colectivo; descendientes) preguntan otra cosa. Longitudes equilibradas. | Revisor 2 (CONFIRMADA): Art. 4.2 EAA verificado en el consolidado BOE-A-2007-8444 (última act. 28/12/2022): «acrediten esta condición en el correspondiente Consulado de España o cumplan los requisitos establecidos en la legislación estatal». Justicia, Delegación del Gobierno y padrón municipal no figuran. Distinta de las preguntas existentes del art. 4.2 (colectivo y descendientes)."
+  },
+  {
+   "q": "Según el art. 8.1 del Estatuto de Autonomía de Aragón, ¿qué norma regulará el alcance, el contenido y la forma de ejercicio del derecho de las comunidades aragonesas del exterior a participar, colaborar y compartir la vida social y cultural del pueblo aragonés?",
+   "options": [
+    "Un decreto del Gobierno de Aragón",
+    "El Reglamento de las Cortes de Aragón",
+    "Una ley de las Cortes de Aragón",
+    "Un tratado internacional celebrado por el Estado"
+   ],
+   "correct": 2,
+   "exp": "El art. 8.1 dispone que «Una ley de las Cortes de Aragón regulará el alcance, el contenido y la forma de ejercicio de este derecho, sin perjuicio de las competencias del Estado». No lo remite a un decreto, al Reglamento de la Cámara ni a un tratado; los tratados aparecen en el art. 8.2, que permite al Gobierno de Aragón solicitar del Estado su celebración.",
+   "fuente": "Art. 8.1 EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 8.1 «Una ley de las Cortes de Aragón regulará el alcance, el contenido y la forma de ejercicio de este derecho». Decreto, Reglamento de las Cortes y tratado son falsos (el tratado es del 8.2, que solo permite solicitarlo al Estado). Las existentes sobre el 8.1 preguntan con quién se fomentan vínculos y qué derecho; no repite. | Revisor 2 (CONFIRMADA): Art. 8.1 verificado: «Una ley de las Cortes de Aragón regulará el alcance, el contenido y la forma de ejercicio de este derecho». Los tratados son del art. 8.2 (solicitud al Estado). No repite las existentes del art. 8 (vínculos, derecho a participar, tratados)."
+  },
+  {
+   "q": "Según el art. 32 del Estatuto de Autonomía de Aragón, ¿con qué otra denominación figura el Gobierno entre las instituciones de la Comunidad Autónoma?",
+   "options": [
+    "Junta de Aragón",
+    "Consejo de Gobierno de Aragón",
+    "Diputación General",
+    "Generalidad de Aragón"
+   ],
+   "correct": 2,
+   "exp": "El art. 32 dice: «Son instituciones de la Comunidad Autónoma de Aragón las Cortes, el Presidente, el Gobierno o la Diputación General y el Justicia». Por eso el capítulo III del Título II se titula «El Gobierno de Aragón o la Diputación General de Aragón». Junta, Consejo de Gobierno y Generalidad son denominaciones de otras comunidades autónomas.",
+   "fuente": "Art. 32 EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 32 «el Gobierno o la Diputación General». Ningún otro nombre (Junta, Consejo de Gobierno, Generalidad) aparece en el Estatuto como denominación del Gobierno; el cap. III se titula «El Gobierno de Aragón o la Diputación General de Aragón». Inequívoca. La existente sobre el art. 32 pregunta la lista de instituciones, cuyos distractores no ponen a prueba la denominación alternativa; no la repite. | Revisor 2 (RECHAZADA): Dato correcto (art. 32: «el Gobierno o la Diputación General»), pero repite en lo sustancial la pregunta existente del tema 3 «Según el art. 32, ¿cuáles son las instituciones…?», cuya respuesta correcta es literalmente «Las Cortes, el Presidente, el Gobierno o Diputación General y el Justicia»; el art. 32 también está en el tema 21 (examen 31-may-2026, P31). Además la explicación atribuye las denominaciones distractoras a otras CCAA sin fuente del texto descargado."
+  },
+  {
+   "q": "¿En qué lugar del Estatuto de Autonomía de Aragón se encuentra el art. 32, que enumera las instituciones de la Comunidad Autónoma?",
+   "options": [
+    "En el Título II, antes del capítulo I",
+    "En el capítulo I del Título II, «Las Cortes de Aragón»",
+    "En el Título preliminar",
+    "En el Título III, «La Administración Pública en Aragón»"
+   ],
+   "correct": 0,
+   "exp": "El Título II, «Organización institucional de la Comunidad Autónoma de Aragón», se abre con el art. 32 («Instituciones»), que va antes de los capítulos. El capítulo I, «Las Cortes de Aragón», empieza en el art. 33. El Título preliminar abarca los arts. 1 a 10 y el Título III, los arts. 61 y 62.",
+   "fuente": "Art. 32 EAA (LO 5/2007), Título II",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): el dato es correcto e inequívoco (en el consolidado, el art. 32 va bajo el rótulo del Título II y antes del rótulo «CAPÍTULO I. Las Cortes de Aragón», que empieza en el art. 33; Título preliminar 1-10, Título III 61-62). Se rechaza por repetición (regla 6): el banco ya tiene «El Título II … comprende los artículos: 32 al 60» y «¿Cuántos capítulos componen el Título II …, sin contar el artículo inicial sobre instituciones?», que juntas dan exactamente esta respuesta (art. 32 en el Título II, fuera de los capítulos). Pregunta de estructura de poco valor añadido. | Revisor 2 (RECHAZADA): Dato correcto (el art. 32 abre el Título II antes del capítulo I, que empieza en el art. 33), pero pregunta lo mismo con otras palabras que las existentes del tema 3 sobre la estructura del Título II («comprende los artículos 32 al 60» y «¿Cuántos capítulos… sin contar el artículo inicial sobre instituciones?»). Aporta poco y se solapa."
+  },
+  {
+   "q": "Según el art. 37.3 del Estatuto de Autonomía de Aragón, la elección de las Cortes de Aragón se verificará atendiendo a criterios de:",
+   "options": [
+    "Sistema mayoritario, con una circunscripción uninominal por cada comarca aragonesa",
+    "Igual número de escaños por provincia, sin atender a su población respectiva",
+    "Representación proporcional en una circunscripción única para toda la Comunidad Autónoma",
+    "Representación proporcional que asegure también la de las diversas zonas del territorio"
+   ],
+   "correct": 3,
+   "exp": "El art. 37.3 dispone: «La elección se verificará atendiendo a criterios de representación proporcional, que asegure, además, la representación de las diversas zonas del territorio». No es un sistema mayoritario ni reparte los escaños por igual. Tampoco hay circunscripción única: según el art. 37.4, la circunscripción es la provincia.",
+   "fuente": "Art. 37.3 EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 37.3 «criterios de representación proporcional, que asegure, además, la representación de las diversas zonas del territorio». Distractores falsos: no hay sistema mayoritario ni reparto igual (art. 36 fija mínimo de 14 escaños por provincia y reparto según población) y la circunscripción es la provincia (37.4), no única. No hay preguntas existentes sobre el 37.3. | Revisor 2 (CONFIRMADA): Art. 37.3 verificado literalmente. Distractores falsos: no hay sistema mayoritario ni reparto igual, y la circunscripción es la provincia (art. 37.4), no única. Sin preguntas existentes sobre el 37.3."
+  },
+  {
+   "q": "Según el art. 37.5 del Estatuto de Autonomía de Aragón, ¿quiénes son elegibles a Cortes de Aragón, de acuerdo con lo previsto en la ley electoral?",
+   "options": [
+    "Quienes tengan vecindad civil aragonesa, aunque residan habitualmente fuera de Aragón",
+    "Quienes hayan nacido en Aragón, cualquiera que sea su vecindad administrativa actual",
+    "Quienes tengan la condición política de aragoneses y estén en pleno uso de sus derechos políticos",
+    "Quienes hayan residido en Aragón durante al menos cinco años antes de la elección"
+   ],
+   "correct": 2,
+   "exp": "El art. 37.5 declara elegibles a «los ciudadanos y ciudadanas que, teniendo la condición política de aragoneses, y de acuerdo con lo previsto en la ley electoral, estén en el pleno uso de sus derechos políticos». La condición política de aragonés (art. 4) depende de la vecindad administrativa, no de la vecindad civil ni del lugar de nacimiento, y el Estatuto no fija años mínimos de residencia.",
+   "fuente": "Art. 37.5 EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 37.5 «teniendo la condición política de aragoneses, y de acuerdo con lo previsto en la ley electoral, estén en el pleno uso de sus derechos políticos». La condición política depende de la vecindad administrativa (art. 4.1), no de la vecindad civil ni del nacimiento, y el Estatuto no exige años de residencia. No hay existentes sobre el 37.5. | Revisor 2 (CONFIRMADA): Art. 37.5 verificado: elegibles quienes, «teniendo la condición política de aragoneses… estén en el pleno uso de sus derechos políticos». Vecindad civil, nacimiento y cinco años de residencia no son el criterio (art. 4.1 usa vecindad administrativa). Sin duplicados."
+  },
+  {
+   "q": "Según el art. 39.3 del Estatuto de Autonomía de Aragón, ¿cuál es la función fundamental, entre otras, de las Comisiones permanentes de las Cortes de Aragón?",
+   "options": [
+    "Dictaminar los proyectos y proposiciones de ley, para su posterior debate y aprobación en el Pleno",
+    "Aprobar definitivamente las leyes, sin necesidad de que pasen después por el Pleno",
+    "Asumir las funciones de las Cortes cuando hayan sido disueltas o haya expirado su mandato",
+    "Elegir de entre sus miembros al Presidente, la Mesa y la Diputación Permanente"
+   ],
+   "correct": 0,
+   "exp": "El art. 39.3 dice que las Comisiones permanentes «tendrán como función fundamental, entre otras, dictaminar los proyectos y proposiciones de ley, para su posterior debate y aprobación en el Pleno». La aprobación corresponde al Pleno. Cuando las Cortes están disueltas actúa la Diputación Permanente (art. 39.4), y al Presidente, la Mesa y la Diputación Permanente los eligen las Cortes (art. 39.1).",
+   "fuente": "Art. 39.3 EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 39.3 «Las Comisiones permanentes tendrán como función fundamental, entre otras, dictaminar los proyectos y proposiciones de ley, para su posterior debate y aprobación en el Pleno». Aprobar sin Pleno no es lo que dice el 39.3; la sustitución de las Cortes disueltas es de la Diputación Permanente (39.4) y la elección de Presidente, Mesa y Diputación Permanente es de las Cortes (39.1). Existentes sobre 39.1/39.2/39.4/39.5, ninguna sobre 39.3. | Revisor 2 (CONFIRMADA): Art. 39.3 verificado literalmente. Distractores: la aprobación es del Pleno; la Diputación Permanente actúa con Cortes disueltas (39.4); Presidente, Mesa y Diputación Permanente los eligen las Cortes (39.1). Sin duplicados (las existentes del 39 tratan 39.1, 39.2, 39.4 y 39.5)."
+  },
+  {
+   "q": "Según el art. 41 c) del Estatuto de Autonomía de Aragón, la designación por las Cortes de Aragón de los Senadores a que se refiere el art. 69.5 de la Constitución deberá hacerse:",
+   "options": [
+    "Por mayoría absoluta del Pleno, a propuesta del Presidente de Aragón y oída la Mesa",
+    "En proporción al número de diputados de cada grupo parlamentario, según establezca una ley de Cortes",
+    "A partes iguales entre las tres provincias, según establezca el Reglamento de las Cortes",
+    "Por sorteo entre los diputados de cada grupo parlamentario que se presenten voluntarios"
+   ],
+   "correct": 1,
+   "exp": "El art. 41 c) atribuye a las Cortes la designación de esos Senadores y precisa: «Esta designación deberá hacerse en proporción al número de diputados de cada grupo parlamentario, en los términos que establezca una ley de Cortes de Aragón». No hay propuesta del Presidente de Aragón, reparto por provincias ni sorteo.",
+   "fuente": "Art. 41 c) EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 41 c) «Esta designación deberá hacerse en proporción al número de diputados de cada grupo parlamentario, en los términos que establezca una ley de Cortes de Aragón». Propuesta del Presidente, reparto provincial y sorteo no existen. No hay existentes sobre el 41 c). La correcta es la más larga, pero por poco (100 frente a 83-88 caracteres). | Revisor 2 (CONFIRMADA): Art. 41 c) verificado: «en proporción al número de diputados de cada grupo parlamentario, en los términos que establezca una ley de Cortes de Aragón». Distractores falsos. No repite. Aviso al margen: la pregunta existente del tema 3 sobre el art. 41.a) usa como distractor «La designación de los Senadores en representación de Aragón», que también es función de las Cortes (41 c)."
+  },
+  {
+   "q": "Según el art. 41 del Estatuto de Autonomía de Aragón, ¿a qué órgano corresponden el ejercicio de la potestad tributaria y la autorización del recurso al crédito?",
+   "options": [
+    "Al Gobierno de Aragón",
+    "A las Cortes de Aragón",
+    "Al Presidente de Aragón",
+    "Al Consejero competente en materia de Hacienda"
+   ],
+   "correct": 1,
+   "exp": "El art. 41 m) incluye entre las funciones de las Cortes de Aragón «El ejercicio de la potestad tributaria y la autorización del recurso al crédito». Por su parte, el art. 44.1 no permite que la regulación de los tributos se haga por Decreto-ley.",
+   "fuente": "Art. 41 m) EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 41 m) atribuye a las Cortes «El ejercicio de la potestad tributaria y la autorización del recurso al crédito». El art. 105 habla de la potestad tributaria de «la Comunidad Autónoma» sin atribuirla a otro órgano, así que Gobierno, Presidente y Consejero son falsos. Matiz menor en la explicación: el «Por eso» que enlaza con el art. 44.1 (que efectivamente excluye los tributos del Decreto-ley) es una inferencia, no lo dice el texto; convendría cambiarlo por «Además». | Revisor 2 (CONFIRMADA): Art. 41 m) verificado: «El ejercicio de la potestad tributaria y la autorización del recurso al crédito» corresponde a las Cortes. El enunciado se ancla en el art. 41, así que Gobierno, Presidente y Consejero son falsos. (La frase de la explicación «Por eso el art. 44.1…» es una inferencia, no texto; el art. 44.1 sí excluye los tributos del Decreto-ley.) Sin duplicados."
+  },
+  {
+   "q": "¿Cuál de las siguientes funciones corresponde a las Cortes de Aragón según el art. 41 del Estatuto de Autonomía de Aragón?",
+   "options": [
+    "El nombramiento y la separación de los Consejeros del Gobierno de Aragón",
+    "El control de los medios de comunicación social de titularidad autonómica",
+    "La dirección y coordinación de la acción del Gobierno de Aragón",
+    "La disolución anticipada de las Cortes antes del término de la legislatura"
+   ],
+   "correct": 1,
+   "exp": "El art. 41 n) atribuye a las Cortes «El control de los medios de comunicación social cuya titularidad corresponda a la Comunidad Autónoma». Las demás funciones son del Presidente: nombra y separa libremente a los Consejeros (art. 53.2), dirige y coordina la acción del Gobierno (art. 46.2) y acuerda la disolución anticipada de las Cortes (art. 52.1).",
+   "fuente": "Art. 41 n) EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 41 n) «El control de los medios de comunicación social cuya titularidad corresponda a la Comunidad Autónoma». Los distractores son del Presidente: nombra y separa a los Consejeros (53.2), dirige y coordina la acción del Gobierno (46.2) y acuerda la disolución anticipada (52.1). Las existentes sobre el art. 41 son de las letras a, b, g, h, i, j y o. | Revisor 2 (CONFIRMADA): Art. 41 n) verificado. Distractores atribuidos al Presidente: nombra y separa Consejeros (53.2), dirige y coordina la acción del Gobierno (46.2), disolución anticipada (52.1). Ninguna de ellas está en el art. 41. Sin duplicados."
+  },
+  {
+   "q": "Según el art. 42.2 del Estatuto de Autonomía de Aragón, ¿cómo se regulará la iniciativa legislativa popular?",
+   "options": [
+    "Por ley de Cortes de Aragón",
+    "Por el Reglamento de las Cortes de Aragón",
+    "Por decreto del Gobierno de Aragón",
+    "Por ley orgánica de las Cortes Generales"
+   ],
+   "correct": 0,
+   "exp": "El art. 42.2 atribuye la iniciativa legislativa a los miembros de las Cortes y al Gobierno de Aragón, y añade: «Por ley de Cortes de Aragón se regulará la iniciativa legislativa popular». No la remite al Reglamento de la Cámara, a un decreto ni a una ley orgánica estatal.",
+   "fuente": "Art. 42.2 EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "DUDOSA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 42.2 «Por ley de Cortes de Aragón se regulará la iniciativa legislativa popular». El Reglamento se cita en el 42.2 solo para la iniciativa de diputados y Gobierno, no para la popular; decreto y ley orgánica, falsos. Las existentes sobre el 42.2 preguntan a quién corresponde la iniciativa, otro dato. | Revisor 2 (DUDOSA): Art. 42.2 verificado: «Por ley de Cortes de Aragón se regulará la iniciativa legislativa popular». Pero el distractor «Por el Reglamento de las Cortes de Aragón» no es claramente falso: el art. 15.2 EAA dice que los aragoneses presentan iniciativas legislativas «de acuerdo con lo que establezcan la ley y el Reglamento de las Cortes». Arreglo: sustituirlo por un distractor sin apoyo en el Estatuto (p. ej., «Por decreto del Presidente de Aragón» o «Por acuerdo de la Mesa de las Cortes»)."
+  },
+  {
+   "q": "Según el art. 43.3 del Estatuto de Autonomía de Aragón, ¿en qué situación no puede hacerse uso de la delegación legislativa?",
+   "options": [
+    "Cuando esté en trámite una moción de censura contra el Presidente",
+    "Fuera de los periodos ordinarios de sesiones de las Cortes de Aragón",
+    "Cuando el Gobierno se encuentra en funciones por disolución de las Cortes",
+    "Mientras esté pendiente una cuestión de confianza planteada por el Presidente"
+   ],
+   "correct": 2,
+   "exp": "El art. 43.3 dispone: «No puede hacerse uso de la delegación cuando el Gobierno se encuentra en funciones por disolución de las Cortes». La moción de censura en trámite impide la disolución de las Cortes (art. 52.3), no el uso de la delegación. El Estatuto no limita la delegación por estar fuera del periodo de sesiones ni por una cuestión de confianza.",
+   "fuente": "Art. 43.3 EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 43.3 «No puede hacerse uso de la delegación cuando el Gobierno se encuentra en funciones por disolución de las Cortes». La moción de censura en trámite impide la disolución (52.3), no la delegación; nada sobre periodos de sesiones ni cuestión de confianza. La existente sobre el 43.3 pregunta los requisitos de la delegación, no esta prohibición. | Revisor 2 (CONFIRMADA): Art. 43.3 verificado: «No puede hacerse uso de la delegación cuando el Gobierno se encuentra en funciones por disolución de las Cortes». La moción en trámite impide la disolución (52.3), no la delegación; periodos de sesiones y cuestión de confianza no limitan. Distinta de la existente del 43.3 (requisitos de la delegación)."
+  },
+  {
+   "q": "Según el art. 43.4 del Estatuto de Autonomía de Aragón, cuando las Cortes autorizan al Gobierno de Aragón a formular un nuevo texto articulado, las leyes de delegación deberán:",
+   "options": [
+    "Determinar el alcance y los criterios de la refundición de los textos legales",
+    "Fijar con precisión las bases y criterios a los que debe ajustarse el Gobierno",
+    "Fijar solo el plazo de la delegación, dejando el contenido a la decisión del Gobierno",
+    "Limitarse a enumerar las leyes que quedarán derogadas por el texto articulado"
+   ],
+   "correct": 1,
+   "exp": "El art. 43.4 distingue dos supuestos. Para un nuevo texto articulado, «las leyes de delegación fijarán con precisión las bases y criterios a las que debe ajustarse el Gobierno». Determinar «el alcance y los criterios de la refundición» corresponde a la ley habilitante cuando se trata de refundir textos legales, no de articularlos. Fijar solo el plazo o enumerar derogaciones no basta.",
+   "fuente": "Art. 43.4 EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 43.4: para un texto articulado «las leyes de delegación fijarán con precisión las bases y criterios»; «el alcance y los criterios de la refundición» es la otra hipótesis (refundir textos), por lo que ese distractor es falso para el supuesto preguntado. Los otros dos son falsos. No hay existentes sobre el 43.4. | Revisor 2 (CONFIRMADA): Art. 43.4 verificado: texto articulado → «fijarán con precisión las bases y criterios»; refundición → «alcance y los criterios de la refundición». Distractores falsos para el supuesto preguntado. Sin duplicados."
+  },
+  {
+   "q": "Según el art. 44.2 del Estatuto de Autonomía de Aragón, ¿cómo deben convalidar las Cortes de Aragón un Decreto-ley para que no quede derogado?",
+   "options": [
+    "Mediante una votación de totalidad, sin debate previo",
+    "Expresamente, después de un debate y una votación de totalidad",
+    "Mediante la votación separada de cada uno de sus artículos",
+    "Por mayoría de dos tercios, previo dictamen del Consejo Consultivo"
+   ],
+   "correct": 1,
+   "exp": "El art. 44.2 dispone que los Decretos-leyes quedarán derogados si en el plazo improrrogable de treinta días desde su publicación «no fuesen convalidados expresamente por las Cortes de Aragón después de un debate y una votación de totalidad». Hay debate, la votación es de totalidad y no artículo por artículo, y el Estatuto no exige mayoría cualificada ni dictamen del Consejo Consultivo.",
+   "fuente": "Art. 44.2 EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 44.2 «no fuesen convalidados expresamente por las Cortes de Aragón después de un debate y una votación de totalidad». Sin debate, votación por artículos y dos tercios con dictamen del Consejo Consultivo son falsos. Las existentes sobre el 44.2 preguntan el plazo de 30 días; esta pregunta el modo, no repite. | Revisor 2 (CONFIRMADA): Art. 44.2 verificado: «convalidados expresamente por las Cortes de Aragón después de un debate y una votación de totalidad». No se exige mayoría cualificada ni dictamen del Consejo Consultivo. Distinta de las existentes del 44.2 (plazo de treinta días) y del 41 o)."
+  },
+  {
+   "q": "Según el art. 48.1 del Estatuto de Autonomía de Aragón, antes de proponer un candidato a Presidente del Gobierno de Aragón, el Presidente de las Cortes debe consultar con las fuerzas políticas representadas parlamentariamente y oír a:",
+   "options": [
+    "La Diputación Permanente",
+    "El Justicia de Aragón",
+    "El Consejo Consultivo de Aragón",
+    "La Mesa de las Cortes"
+   ],
+   "correct": 3,
+   "exp": "El art. 48.1 dice: «El Presidente de las Cortes de Aragón, previa consulta con las fuerzas políticas representadas parlamentariamente, y oída la Mesa, propondrá un candidato a Presidente del Gobierno de Aragón». No interviene la Diputación Permanente, el Justicia ni el Consejo Consultivo.",
+   "fuente": "Art. 48.1 EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 48.1 «previa consulta con las fuerzas políticas representadas parlamentariamente, y oída la Mesa». La existente sobre el 48.1 pregunta quién propone el candidato (el Presidente de las Cortes), no a quién oye; no repite. | Revisor 2 (CONFIRMADA): Art. 48.1 verificado: «previa consulta con las fuerzas políticas representadas parlamentariamente, y oída la Mesa». Distractores falsos. La existente del 48.1 pregunta quién propone; esta, a quién se oye."
+  },
+  {
+   "q": "Según el art. 48.2 del Estatuto de Autonomía de Aragón, si el candidato a Presidente no obtiene la confianza, se tramitan sucesivas propuestas. ¿Qué plazo debe mediar entre cada una de ellas?",
+   "options": [
+    "Un plazo no superior a quince días",
+    "Un plazo no superior a un mes",
+    "Un plazo no inferior a dos meses",
+    "Un plazo no superior a diez días"
+   ],
+   "correct": 3,
+   "exp": "El art. 48.2 establece que, si no se consigue la mayoría, «se tramitarán sucesivas propuestas en la forma prevista anteriormente, debiendo mediar entre cada una de ellas un plazo no superior a diez días». Los dos meses son otra cosa: el plazo desde la constitución de las Cortes tras el cual, sin investidura, quedan disueltas (art. 48.3).",
+   "fuente": "Art. 48.2 EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 48.2 «debiendo mediar entre cada una de ellas un plazo no superior a diez días». Quince días, un mes y dos meses (48.3, disolución) son falsos. Las existentes sobre el 48.2 preguntan mayorías y las 24 horas; no repite. | Revisor 2 (CONFIRMADA): Art. 48.2 verificado: «un plazo no superior a diez días» entre propuestas. Dos meses es el plazo del 48.3. Las existentes del 48.2 tratan mayorías y las 24 horas; no repite."
+  },
+  {
+   "q": "Según el art. 57 del Estatuto de Autonomía de Aragón, el Gobierno de Aragón podrá interponer recursos de inconstitucionalidad, plantear conflictos de competencias y personarse en el Tribunal Constitucional en los supuestos y términos previstos en:",
+   "options": [
+    "La Constitución y la Ley Orgánica del Tribunal Constitucional",
+    "El Estatuto de Autonomía y el Reglamento de las Cortes de Aragón",
+    "La ley de las Cortes de Aragón que regule el Gobierno",
+    "La Ley Orgánica del Poder Judicial"
+   ],
+   "correct": 0,
+   "exp": "El art. 57 remite a «los supuestos y términos previstos en la Constitución y en la Ley Orgánica del Tribunal Constitucional». Los procesos ante el Tribunal Constitucional los regulan esas dos normas, no el Reglamento de las Cortes, una ley autonómica ni la Ley Orgánica del Poder Judicial.",
+   "fuente": "Art. 57 EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "DUDOSA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 57 «en los supuestos y términos previstos en la Constitución y en la Ley Orgánica del Tribunal Constitucional». Distractores falsos. La existente sobre el art. 57 pregunta ante qué órgano, no el marco normativo. Nota menor: la `cita` se corta en «previstos en» y no incluye la respuesta (el texto sigue con «la Constitución y en la Ley Orgánica del Tribunal Constitucional»); convendría completarla. | Revisor 2 (DUDOSA): Art. 57 verificado: «en los supuestos y términos previstos en la Constitución y en la Ley Orgánica del Tribunal Constitucional». Contenido exacto, pero la correcta se delata por la forma: es la única opción que repite «Tribunal Constitucional» del enunciado, y la existente del art. 57 ya pregunta ante qué órgano (el TC). Arreglo: distractores del mismo tipo, como «La Constitución y la Ley Orgánica del Poder Judicial» o «El Estatuto de Autonomía y la Ley Orgánica del Tribunal Constitucional»."
+  },
+  {
+   "q": "Según el art. 58.1 del Estatuto de Autonomía de Aragón, ¿cómo ejerce sus funciones el Consejo Consultivo de Aragón?",
+   "options": [
+    "Con autonomía orgánica y funcional, con el fin de garantizar su objetividad e independencia",
+    "Bajo la dependencia jerárquica del Presidente de Aragón, que dirige su actuación",
+    "Bajo la dirección de la Mesa de las Cortes de Aragón, ante la que rinde cuentas",
+    "Como órgano integrado en el departamento del Gobierno de Aragón competente en materia de Presidencia"
+   ],
+   "correct": 0,
+   "exp": "El art. 58.1, tras definirlo como supremo órgano consultivo del Gobierno y la Administración de la Comunidad Autónoma, añade: «Ejerce sus funciones con autonomía orgánica y funcional, con el fin de garantizar su objetividad e independencia». Esa autonomía excluye la dependencia jerárquica del Presidente, la dirección de la Mesa de las Cortes y la integración en un departamento.",
+   "fuente": "Art. 58.1 EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 58.1 «Ejerce sus funciones con autonomía orgánica y funcional, con el fin de garantizar su objetividad e independencia». Dependencia jerárquica del Presidente, dirección de la Mesa e integración en un departamento contradicen esa autonomía. Las existentes sobre el 58.1 preguntan su naturaleza (supremo órgano consultivo); no repite. | Revisor 2 (CONFIRMADA): Art. 58.1 verificado: «Ejerce sus funciones con autonomía orgánica y funcional, con el fin de garantizar su objetividad e independencia». Distractores falsos. Las existentes del 58.1 preguntan su naturaleza (supremo órgano consultivo); no repite."
+  },
+  {
+   "q": "¿En qué capítulo del Título II del Estatuto de Autonomía de Aragón se regula el Consejo Consultivo de Aragón (art. 58)?",
+   "options": [
+    "En el capítulo I, dedicado a las Cortes de Aragón",
+    "En el capítulo II, dedicado al Presidente",
+    "En el capítulo IV, dedicado al Justicia de Aragón",
+    "En el capítulo III, dedicado al Gobierno de Aragón"
+   ],
+   "correct": 3,
+   "exp": "El capítulo III del Título II, «El Gobierno de Aragón o la Diputación General de Aragón», abarca los arts. 53 a 58, y el art. 58 es «El Consejo Consultivo de Aragón». Las Cortes van en el capítulo I (arts. 33-45), el Presidente en el II (arts. 46-52) y el Justicia en el IV (arts. 59-60). Aunque se regule ahí, el Consejo Consultivo no es una de las instituciones del art. 32.",
+   "fuente": "Art. 58 EAA (LO 5/2007), Título II, cap. III",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): en el consolidado, el rótulo «CAPÍTULO III. El Gobierno de Aragón o la Diputación General de Aragón» precede al art. 53 y el «CAPÍTULO IV. El Justicia de Aragón» al art. 59, de modo que el art. 58 está en el capítulo III; cap. I Cortes (33-45), cap. II Presidente (46-52). Inequívoca: una sola opción coincide con la estructura oficial. Ninguna existente pregunta la ubicación del Consejo Consultivo. | Revisor 2 (CONFIRMADA): Estructura verificada en el consolidado: el capítulo III del Título II («El Gobierno de Aragón o la Diputación General de Aragón») abarca los arts. 53-58, y el art. 58 es el Consejo Consultivo. Cap. I Cortes (33-45), II Presidente (46-52) y IV Justicia (59-60). No hay pregunta existente sobre su ubicación."
+  },
+  {
+   "q": "Según el art. 59.2 b) del Estatuto de Autonomía de Aragón, el Justicia de Aragón podrá supervisar la actividad de los entes locales aragoneses y de las comarcas, sus organismos autónomos y demás entes que de ellos dependan, en los términos que establezca:",
+   "options": [
+    "La Ley de Administración Local de Aragón",
+    "La legislación estatal de régimen local",
+    "La ley del Justicia de Aragón",
+    "El Reglamento de las Cortes"
+   ],
+   "correct": 2,
+   "exp": "El art. 59.2 b) permite supervisar «La actividad de los entes locales aragoneses y de las comarcas, sus organismos autónomos y demás entes que de ellos dependan, en los términos que establezca la ley del Justicia». La remisión es a la ley del Justicia, que el art. 60 encarga a las Cortes, no a la legislación de régimen local ni al Reglamento de la Cámara.",
+   "fuente": "Art. 59.2 b) EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 59.2 b) «en los términos que establezca la ley del Justicia». La Ley de Administración Local, la legislación estatal de régimen local y el Reglamento de las Cortes no se mencionan. La existente sobre el 59.2 es de la letra a). | Revisor 2 (CONFIRMADA): Art. 59.2 b) verificado: «en los términos que establezca la ley del Justicia». Distractores (Ley de Administración Local de Aragón, legislación estatal de régimen local, Reglamento de las Cortes) falsos según el texto. La existente trata el 59.2 a)."
+  },
+  {
+   "q": "Según el art. 59.2 c) del Estatuto de Autonomía de Aragón, ¿qué servicios públicos puede supervisar el Justicia de Aragón?",
+   "options": [
+    "Los prestados directamente por la Administración General del Estado en territorio aragonés",
+    "Los gestionados por empresas privadas sin ninguna vinculación con una Administración pública",
+    "Únicamente los servicios municipales gestionados directamente por el Ayuntamiento de Zaragoza",
+    "Los gestionados mediante concesión administrativa bajo control o tutela de una institución aragonesa"
+   ],
+   "correct": 3,
+   "exp": "El art. 59.2 c) incluye «Los servicios públicos gestionados por personas físicas o jurídicas mediante concesión administrativa, sometidos a control o tutela administrativa de alguna institución de la Comunidad Autónoma de Aragón». La Administración del Estado no está entre lo supervisable, hace falta el vínculo de la concesión y el control autonómico, y la supervisión no se limita a un municipio.",
+   "fuente": "Art. 59.2 c) EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 59.2 c) «Los servicios públicos gestionados por personas físicas o jurídicas mediante concesión administrativa, sometidos a control o tutela administrativa de alguna institución de la Comunidad Autónoma de Aragón». La AGE queda fuera del 59.2; las empresas sin vínculo con una Administración no están incluidas; «Únicamente» los servicios municipales de Zaragoza es falso. Longitudes parecidas (90-100). | Revisor 2 (CONFIRMADA): Art. 59.2 c) verificado: servicios públicos «gestionados por personas físicas o jurídicas mediante concesión administrativa, sometidos a control o tutela administrativa de alguna institución de la Comunidad Autónoma». Los distractores son falsos; el de los servicios municipales de Zaragoza lo es por «Únicamente»."
+  },
+  {
+   "q": "Según el art. 60 del Estatuto de Autonomía de Aragón, ¿qué norma concretará el alcance de las funciones del Justicia de Aragón, el procedimiento de su elección y su régimen de incompatibilidades?",
+   "options": [
+    "El Reglamento de las Cortes de Aragón",
+    "Una ley de las Cortes de Aragón",
+    "Una ley orgánica de las Cortes Generales",
+    "Un decreto del Gobierno de Aragón"
+   ],
+   "correct": 1,
+   "exp": "El art. 60 dispone: «Una ley de las Cortes de Aragón concretará el alcance de las funciones del Justicia, así como el procedimiento de su elección por aquéllas y el régimen de incompatibilidades». No es el Reglamento de la Cámara, una ley orgánica estatal ni un decreto del Gobierno.",
+   "fuente": "Art. 60 EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 60 «Una ley de las Cortes de Aragón concretará el alcance de las funciones del Justicia, así como el procedimiento de su elección por aquéllas y el régimen de incompatibilidades». Sobre la repetición: la existente («Además del alcance de las funciones…, ¿qué debe concretar la ley del Justicia según el art. 60?») pregunta el CONTENIDO de la ley y da la norma por sabida («la ley del Justicia», sin decir de quién ni de qué rango); esta pregunta el RANGO y el AUTOR de la norma (ley de las Cortes de Aragón frente a Reglamento de la Cámara, ley orgánica estatal o decreto). Son complementarias y no repiten el mismo dato. Inconveniente menor: el enunciado nuevo enumera los contenidos y destripa la respuesta de la existente, cosa que la sesión principal puede valorar. | Revisor 2 (CONFIRMADA): Art. 60 verificado: «Una ley de las Cortes de Aragón concretará el alcance de las funciones del Justicia, así como el procedimiento de su elección… y el régimen de incompatibilidades». La existente del art. 60 pregunta qué contenidos concreta la ley, y esta qué tipo de norma: dato distinto, aunque próximo."
+  },
+  {
+   "q": "Según el art. 61.2 del Estatuto de Autonomía de Aragón, en el ejercicio de sus competencias, la Administración aragonesa ostenta la condición de:",
+   "options": [
+    "Administración periférica del Estado",
+    "Administración ordinaria",
+    "Administración delegada del Estado",
+    "Administración especial o extraordinaria"
+   ],
+   "correct": 1,
+   "exp": "El art. 61.2 dice: «La Administración aragonesa ostenta la condición de Administración ordinaria en el ejercicio de sus competencias». Es la Administración propia de la Comunidad Autónoma (art. 61.1), no periférica ni delegada del Estado, ni una Administración especial.",
+   "fuente": "Art. 61.2 EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 61.2 «La Administración aragonesa ostenta la condición de Administración ordinaria en el ejercicio de sus competencias». Periférica, delegada y especial son falsas. Las existentes sobre el art. 61 preguntan su título, el 61.1 y el número de apartados; ninguna el 61.2. | Revisor 2 (CONFIRMADA): Art. 61.2 verificado literalmente: «Administración ordinaria en el ejercicio de sus competencias». Título III, que el banco ya trata dentro del tema 3. La existente del 61 pregunta por el 61.1 (la ley)."
+  },
+  {
+   "q": "Según el art. 62.1 del Estatuto de Autonomía de Aragón, la Administración de la Comunidad Autónoma sirve con objetividad a los intereses generales con:",
+   "options": [
+    "Sujeción exclusiva a los reglamentos del Gobierno de Aragón",
+    "Subordinación jerárquica a la Administración General del Estado",
+    "Sometimiento pleno a la Ley y al Derecho",
+    "Sometimiento a las instrucciones del Justicia de Aragón"
+   ],
+   "correct": 2,
+   "exp": "El art. 62.1 dispone: «La Administración de la Comunidad Autónoma sirve con objetividad a los intereses generales con sometimiento pleno a la Ley y al Derecho». El sometimiento es al ordenamiento entero, no solo a los reglamentos. No hay subordinación jerárquica al Estado, y el Justicia supervisa (art. 59.2), pero no da instrucciones.",
+   "fuente": "Art. 62.1 EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 62.1 «sirve con objetividad a los intereses generales con sometimiento pleno a la Ley y al Derecho». Distractores claramente falsos. Ninguna existente pregunta el 62.1 (las hay del 62.2 al 62.5, del título y del número de apartados). | Revisor 2 (CONFIRMADA): Art. 62.1 verificado literalmente: «con sometimiento pleno a la Ley y al Derecho». Distractores falsos. Sin duplicados (las existentes del 62 tratan 62.2, 62.3 (número), 62.4 y 62.5)."
+  },
+  {
+   "q": "¿Cuál de los siguientes principios NO figura entre aquellos a los que, según el art. 62.3 del Estatuto de Autonomía de Aragón, debe ajustar su actividad la Administración Pública aragonesa?",
+   "options": [
+    "Servicio efectivo a los ciudadanos",
+    "Descentralización",
+    "Racionalización",
+    "Transparencia"
+   ],
+   "correct": 1,
+   "exp": "El art. 62.3 enumera cinco principios: «eficacia, eficiencia, racionalización, transparencia y servicio efectivo a los ciudadanos». La descentralización no está en esa lista, aunque sí en el art. 103.1 de la Constitución, y por eso es una confusión habitual.",
+   "fuente": "Art. 62.3 EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 62.3 enumera exactamente cinco principios: «eficacia, eficiencia, racionalización, transparencia y servicio efectivo a los ciudadanos». Servicio efectivo, racionalización y transparencia están; descentralización no está, y tampoco aparece en ningún otro apartado del art. 62 (en el Estatuto solo sale en el art. 73, referida al sistema universitario). La negación es simple, en mayúsculas y acotada al 62.3: hay una sola respuesta posible, es inequívoca. La existente sobre el 62.3 pregunta cuántos principios hay, otro dato. Que la descentralización figure en el art. 103.1 CE es correcto. | Revisor 2 (CONFIRMADA): Art. 62.3 verificado: «eficacia, eficiencia, racionalización, transparencia y servicio efectivo a los ciudadanos». La descentralización no figura (sí en el art. 103.1 CE). La existente pregunta cuántos son; esta, cuál falta. Ángulo distinto."
+  },
+  {
+   "q": "Según el art. 71.5.ª del Estatuto de Autonomía de Aragón, en materia de régimen local, la competencia exclusiva de la Comunidad Autónoma comprende, entre otros aspectos:",
+   "options": [
+    "La fijación de las competencias de los municipios en las materias de competencia del Estado",
+    "El régimen de los bienes locales y las modalidades de prestación de los servicios públicos locales",
+    "La aprobación de los presupuestos anuales de los municipios aragoneses y de sus comarcas",
+    "El establecimiento de las bases del régimen jurídico de todas las Administraciones públicas"
+   ],
+   "correct": 1,
+   "exp": "El art. 71.5.ª incluye «la determinación de las competencias de los municipios y demás entes locales en las materias de competencias de la Comunidad Autónoma de Aragón; el régimen de los bienes locales y las modalidades de prestación de los servicios públicos locales». La competencia se limita a las materias autonómicas, no a las del Estado. Los presupuestos municipales los aprueba cada entidad local, y las bases del régimen jurídico de las Administraciones son estatales (Aragón solo las desarrolla, art. 75.11.ª).",
+   "fuente": "Art. 71.5.ª EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 71 (lista de competencias EXCLUSIVAS), materia 5.ª: «el régimen de los bienes locales y las modalidades de prestación de los servicios públicos locales». Comprobado que ese contenido no está en las listas de los arts. 75 ni 77 (el 75.11.ª, desarrollo de las bases del art. 149.1.18.ª CE, y el 75.13.ª, función pública local, son otros contenidos). Distractores falsos: el 71.5.ª se limita a las materias de competencia autonómica, y las bases del régimen jurídico son estatales (Aragón solo las desarrolla, 75.11.ª). La afirmación sobre los presupuestos municipales viene de fuera del Estatuto, pero es correcta. | Revisor 2 (CONFIRMADA): Art. 71.5.ª verificado: incluye «el régimen de los bienes locales y las modalidades de prestación de los servicios públicos locales». Competencias municipales solo «en las materias de competencias de la Comunidad Autónoma»; las bases del 149.1.18.ª son estatales (75.11.ª solo desarrollo). Sin duplicados."
+  },
+  {
+   "q": "Según el art. 71.27.ª del Estatuto de Autonomía de Aragón, la competencia exclusiva de la Comunidad Autónoma en materia de consultas populares se extiende a todos sus instrumentos, con excepción de:",
+   "options": [
+    "Las consultas convocadas por los entes locales en el ámbito de sus competencias",
+    "Las encuestas y sondeos de opinión que encargue la Administración autonómica",
+    "Las consultas sobre materias que sean de competencia exclusiva de la Comunidad Autónoma",
+    "La regulación del referéndum y lo previsto en el art. 149.1.32.ª de la Constitución"
+   ],
+   "correct": 3,
+   "exp": "El art. 71.27.ª atribuye a Aragón el régimen de las consultas populares convocadas «por la Comunidad Autónoma o por los entes locales en el ámbito de sus competencias», mediante «encuestas, audiencias públicas, foros de participación y cualquier otro instrumento de consulta popular, con excepción de la regulación del referéndum y de lo previsto en el artículo 149.1.32.ª de la Constitución». Las consultas locales, las encuestas y las consultas sobre materias autonómicas están incluidas, no excluidas.",
+   "fuente": "Art. 71.27.ª EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 71 (EXCLUSIVAS), materia 27.ª: comprende las consultas convocadas por la Comunidad Autónoma o por los entes locales mediante encuestas, audiencias públicas y foros, «con excepción de la regulación del referéndum y de lo previsto en el artículo 149.1.32.ª de la Constitución». Las consultas populares no figuran en los arts. 75 ni 77. Los distractores (consultas locales, encuestas, consultas en el ámbito de sus competencias) están incluidos, no exceptuados. | Revisor 2 (CONFIRMADA): Art. 71.27.ª verificado: «con excepción de la regulación del referéndum y de lo previsto en el artículo 149.1.32.ª de la Constitución». Consultas locales y encuestas están incluidas. Sin duplicados."
+  },
+  {
+   "q": "Según el Estatuto de Autonomía de Aragón, la protección civil, que incluye la regulación, la planificación, la coordinación y la ejecución de medidas relativas a emergencias y seguridad civil, es una competencia de la Comunidad Autónoma de carácter:",
+   "options": [
+    "Compartido",
+    "Ejecutivo",
+    "Exclusivo",
+    "Concurrente"
+   ],
+   "correct": 2,
+   "exp": "La protección civil figura entre las competencias exclusivas del art. 71, materia 57.ª: «Protección civil, que incluye, en todo caso, la regulación, la planificación, la coordinación y la ejecución de medidas relativas a emergencias y seguridad civil ante incendios, catástrofes naturales, accidentes y otras situaciones de necesidad». No está en las listas de competencias compartidas (art. 75) ni ejecutivas (art. 77), y «concurrente» no es una de las tres clases que establece el art. 70.1.",
+   "fuente": "Art. 71.57.ª EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "DUDOSA",
+   "notaRevision": "Revisor 1 (DUDOSA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): la protección civil está SOLO en el art. 71 (EXCLUSIVAS), materia 57.ª, con el texto citado; no figura en el art. 75 ni en el 77 (el 77.15.ª es seguridad ciudadana y privada, otra materia). La respuesta marcada es correcta. El problema es el distractor «Concurrente». Según el Estatuto es falso, porque la palabra no aparece en todo el texto y el art. 70.1 solo distingue exclusivas, compartidas y ejecutivas. Pero no es CLARAMENTE falso para quien estudia: en la doctrina constitucional la protección civil es el ejemplo típico de materia en la que concurren competencias estatales y autonómicas, y «concurrente» se usa a menudo como sinónimo de «compartida». Un opositor con esa formación puede dudar con razón. Arreglo propuesto: sustituir «Concurrente» por una opción inequívocamente falsa del mismo tipo, por ejemplo «Ninguna, por estar reservada al Estado», y quitar de la explicación la frase sobre «concurrente» (o adaptarla). | Revisor 2 (CONFIRMADA): Art. 71.57.ª verificado: la protección civil es competencia exclusiva. Comprobado que la materia no aparece en los arts. 75 ni 77 (el 77.15.ª es seguridad ciudadana y privada, otra materia). «Concurrente» no es clase del art. 70.1. Sin duplicados."
+  },
+  {
+   "q": "Según el art. 73 del Estatuto de Autonomía de Aragón, la competencia compartida en enseñanza incluye la ordenación, coordinación y descentralización del sistema universitario de Aragón con respeto al principio de:",
+   "options": [
+    "Libertad de cátedra",
+    "Unidad de mercado",
+    "Gratuidad de la enseñanza",
+    "Autonomía universitaria"
+   ],
+   "correct": 3,
+   "exp": "El art. 73 incluye en la competencia compartida en enseñanza «la ordenación, coordinación y descentralización del sistema universitario de Aragón con respeto al principio de autonomía universitaria». No menciona ahí la libertad de cátedra, la unidad de mercado ni la gratuidad.",
+   "fuente": "Art. 73 EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 73 (competencia COMPARTIDA en enseñanza) termina «la ordenación, coordinación y descentralización del sistema universitario de Aragón con respeto al principio de autonomía universitaria». El sistema universitario no aparece en otra lista (el 71.41.ª, exclusiva, es la coordinación de la actividad investigadora, otra materia). Las existentes sobre el art. 73 preguntan el tipo de competencia y los criterios de admisión; no repite. | Revisor 2 (CONFIRMADA): Art. 73 verificado: «…sistema universitario de Aragón con respeto al principio de autonomía universitaria». Ni libertad de cátedra, ni unidad de mercado, ni gratuidad. Las existentes del 73 tratan la clase de competencia y los criterios de admisión."
+  },
+  {
+   "q": "Según el art. 75.6.ª del Estatuto de Autonomía de Aragón, dentro de la competencia compartida en políticas de integración de inmigrantes, la Comunidad Autónoma tiene en particular una participación preceptiva previa en:",
+   "options": [
+    "La determinación, en su caso, del contingente de trabajadores extranjeros",
+    "La concesión de la nacionalidad española por residencia",
+    "La expedición de visados a extranjeros que vayan a residir en Aragón",
+    "Las resoluciones de expulsión de los extranjeros que se encuentren en territorio aragonés"
+   ],
+   "correct": 0,
+   "exp": "El art. 75.6.ª prevé la participación y colaboración con el Estado en las políticas de inmigración «y, en particular, la participación preceptiva previa en la determinación, en su caso, del contingente de trabajadores extranjeros». No reconoce esa participación en la nacionalidad, los visados ni las expulsiones.",
+   "fuente": "Art. 75.6.ª EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 75 (COMPARTIDAS), materia 6.ª: «y, en particular, la participación preceptiva previa en la determinación, en su caso, del contingente de trabajadores extranjeros». La integración de inmigrantes no figura en los arts. 71 ni 77. Nacionalidad, visados y expulsiones no se mencionan. Ninguna existente sobre esta materia. | Revisor 2 (CONFIRMADA): Art. 75.6.ª verificado: «la participación preceptiva previa en la determinación, en su caso, del contingente de trabajadores extranjeros». Distractores falsos. Sin duplicados."
+  },
+  {
+   "q": "Según el art. 75.7.ª del Estatuto de Autonomía de Aragón, ¿sobre qué instalaciones radiactivas tiene la Comunidad Autónoma competencia compartida?",
+   "options": [
+    "Las de primera categoría",
+    "Las de primera y segunda categoría",
+    "Las de todas las categorías",
+    "Las de segunda y tercera categoría"
+   ],
+   "correct": 3,
+   "exp": "La materia 7.ª del art. 75 dice literalmente: «Instalaciones radiactivas de segunda y tercera categoría». Las de primera categoría no están entre las competencias compartidas de Aragón.",
+   "fuente": "Art. 75.7.ª EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 75 (COMPARTIDAS), materia 7.ª: «Instalaciones radiactivas de segunda y tercera categoría». No figuran en los arts. 71 ni 77, y en el Estatuto no aparecen las de primera categoría. Las otras tres opciones son falsas. Ninguna existente. | Revisor 2 (CONFIRMADA): Art. 75.7.ª verificado: «Instalaciones radiactivas de segunda y tercera categoría». Comprobado que la materia no está en otra lista. Sin duplicados."
+  },
+  {
+   "q": "Según el art. 75.11.ª del Estatuto de Autonomía de Aragón, la competencia compartida para el desarrollo de las bases del Estado previstas en el art. 149.1.18.ª de la Constitución se refiere a:",
+   "options": [
+    "Las Administraciones Públicas aragonesas, incluidas las Entidades Locales",
+    "Únicamente la Administración de la Comunidad Autónoma, sin incluir a las Entidades Locales",
+    "Todas las Administraciones con sede en Aragón, incluida la Administración periférica del Estado",
+    "Solo las Entidades Locales aragonesas de más de 20.000 habitantes"
+   ],
+   "correct": 0,
+   "exp": "El art. 75.11.ª atribuye a Aragón «El desarrollo de las bases del Estado previstas en el artículo 149.1.18.ª de la Constitución para las Administraciones Públicas aragonesas, incluidas las Entidades Locales». Abarca a todas las Entidades Locales aragonesas, sin límite de población, pero no a la Administración periférica del Estado.",
+   "fuente": "Art. 75.11.ª EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 75 (COMPARTIDAS), materia 11.ª: «El desarrollo de las bases del Estado previstas en el artículo 149.1.18.ª de la Constitución para las Administraciones Públicas aragonesas, incluidas las Entidades Locales». No está en los arts. 71 ni 77. «Únicamente la Administración autonómica», «incluida la periférica del Estado» y «solo las de más de 20.000 habitantes» son falsas. Ninguna existente. | Revisor 2 (CONFIRMADA): Art. 75.11.ª verificado: «para las Administraciones Públicas aragonesas, incluidas las Entidades Locales». Distractores falsos según el texto. Sin duplicados."
+  },
+  {
+   "q": "¿Qué clase de competencia corresponde a la Comunidad Autónoma de Aragón en trabajo y relaciones laborales, incluidas las políticas activas de ocupación, la prevención de riesgos laborales y la seguridad y salud en el trabajo?",
+   "options": [
+    "Exclusiva",
+    "Compartida",
+    "Ninguna",
+    "Ejecutiva"
+   ],
+   "correct": 3,
+   "exp": "El art. 77, materia 2.ª, incluye entre las competencias ejecutivas «Trabajo y relaciones laborales, incluyendo las políticas activas de ocupación, la intermediación laboral, así como la prevención de riesgos laborales y la seguridad y salud en el trabajo». En las ejecutivas, Aragón aplica la legislación estatal y puede dictar reglamentos de organización, pero no legisla. No es exclusiva ni compartida, y tampoco le falta toda competencia.",
+   "fuente": "Art. 77.2.ª EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 77 (EJECUTIVAS), materia 2.ª: «Trabajo y relaciones laborales, incluyendo las políticas activas de ocupación, la intermediación laboral, así como la prevención de riesgos laborales y la seguridad y salud en el trabajo». Comprobado que no está en el art. 71 ni en el 75 (el 75.1.ª, Seguridad Social, y el 75.13.ª, especialidades del personal laboral de la Administración, son otras materias). Exclusiva, compartida y ninguna son falsas. Las existentes sobre el art. 77 (77.1.ª, 77.11.ª, 77.14.ª, régimen general) no tratan esta materia. | Revisor 2 (CONFIRMADA): Art. 77.2.ª verificado: trabajo y relaciones laborales, políticas activas de ocupación, intermediación, prevención de riesgos y seguridad y salud en el trabajo son competencia ejecutiva. Comprobado que no figuran en los arts. 71 ni 75 (el art. 26 es principio rector, no competencia). Sin duplicados."
+  },
+  {
+   "q": "Según el art. 77.10.ª del Estatuto de Autonomía de Aragón, ¿qué corresponde a la Comunidad Autónoma en materia de catastro?",
+   "options": [
+    "La gestión íntegra del catastro inmobiliario, como competencia exclusiva",
+    "El desarrollo legislativo de la normativa catastral estatal, como competencia compartida",
+    "La colaboración con el Estado en la gestión del catastro, como competencia ejecutiva",
+    "Nada, porque el catastro está reservado al Estado sin colaboración autonómica"
+   ],
+   "correct": 2,
+   "exp": "La materia 10.ª de las competencias ejecutivas del art. 77 es la «Colaboración con el Estado en la gestión del catastro». No es exclusiva ni compartida, y tampoco excluye a la Comunidad Autónoma, porque el Estatuto le reconoce esa colaboración.",
+   "fuente": "Art. 77.10.ª EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 77 (EJECUTIVAS), materia 10.ª: «Colaboración con el Estado en la gestión del catastro». El catastro no aparece en los arts. 71 ni 75. Gestión íntegra exclusiva, desarrollo legislativo compartido y «nada» son falsas. Ninguna existente. | Revisor 2 (CONFIRMADA): Art. 77.10.ª verificado: «Colaboración con el Estado en la gestión del catastro» (concordante con el art. 109.2 g). Solo aparece en la lista de ejecutivas. Sin duplicados."
+  },
+  {
+   "q": "Según el art. 77.16.ª del Estatuto de Autonomía de Aragón, la competencia ejecutiva en materia de expropiación forzosa incluye, en todo caso:",
+   "options": [
+    "La aprobación de la legislación básica sobre expropiación forzosa aplicable en Aragón",
+    "La expropiación de bienes de titularidad estatal sin necesidad de acuerdo con el Estado",
+    "La creación y regulación de un órgano propio que determine el justiprecio, y su procedimiento",
+    "La atribución al Justicia de Aragón de la fijación del justiprecio en cada expediente"
+   ],
+   "correct": 2,
+   "exp": "El art. 77.16.ª incluye, entre otros aspectos, «la creación y regulación de un órgano propio para la determinación del justiprecio, así como la fijación de su procedimiento». Al ser una competencia ejecutiva, la legislación sobre expropiación es del Estado, y el Estatuto no prevé expropiar bienes del Estado ni encargar el justiprecio al Justicia.",
+   "fuente": "Art. 77.16.ª EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 77 (EJECUTIVAS), materia 16.ª, incluye «la creación y regulación de un órgano propio para la determinación del justiprecio, así como la fijación de su procedimiento». La expropiación forzosa no figura en los arts. 71 ni 75. Distractores falsos. Matiz en la explicación: en una competencia ejecutiva al Estado le corresponde toda la legislación, no solo la básica; la frase «la legislación básica es estatal» es cierta, pero se queda corta. No invalida la pregunta. | Revisor 2 (CONFIRMADA): Art. 77.16.ª verificado: incluye «la creación y regulación de un órgano propio para la determinación del justiprecio, así como la fijación de su procedimiento». Distractores falsos. Sin duplicados."
+  },
+  {
+   "q": "Según el art. 78.1 del Estatuto de Autonomía de Aragón, ¿quién nombra a los notarios y a los registradores de la propiedad y mercantiles en Aragón?",
+   "options": [
+    "El Ministerio de Justicia, sin intervención de la Comunidad Autónoma",
+    "El Consejo General del Notariado y el Colegio de Registradores",
+    "La Comunidad Autónoma, de conformidad con las leyes del Estado",
+    "El Tribunal Superior de Justicia de Aragón"
+   ],
+   "correct": 2,
+   "exp": "El art. 78.1 dispone que los notarios y registradores «serán nombrados por la Comunidad Autónoma, de conformidad con las leyes del Estado». Los nombra la Comunidad Autónoma, no el Ministerio, las corporaciones profesionales ni el Tribunal Superior de Justicia. El mismo apartado fija como mérito preferente el conocimiento del Derecho propio de Aragón.",
+   "fuente": "Art. 78.1 EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 78.1 «serán nombrados por la Comunidad Autónoma, de conformidad con las leyes del Estado». Ministerio sin intervención autonómica, corporaciones profesionales y TSJ son falsos. La existente sobre el 78.1 pregunta el mérito preferente; no repite. | Revisor 2 (CONFIRMADA): Art. 78.1 verificado: «serán nombrados por la Comunidad Autónoma, de conformidad con las leyes del Estado». La existente del 78.1 pregunta el mérito preferente; esta, quién nombra."
+  },
+  {
+   "q": "Según el art. 78.2 del Estatuto de Autonomía de Aragón, ¿qué papel tiene la Comunidad Autónoma en la fijación de las demarcaciones de las Notarías y de los Registros de la propiedad y mercantiles en Aragón?",
+   "options": [
+    "Las fija por sí sola, mediante una ley de las Cortes de Aragón",
+    "Participa en su fijación, de acuerdo con las leyes generales del Estado",
+    "Ninguno, porque su fijación corresponde exclusivamente al Estado",
+    "Emite un informe vinculante, pero no participa en la decisión final"
+   ],
+   "correct": 1,
+   "exp": "El art. 78.2 dice: «La Comunidad Autónoma participará en la fijación de las demarcaciones correspondientes a las Notarías y a los Registros de la propiedad y mercantiles en Aragón, de acuerdo con lo previsto en las leyes generales del Estado». Participa, pero no las fija en exclusiva, y el Estatuto no habla de un informe vinculante.",
+   "fuente": "Art. 78.2 EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 78.2 «La Comunidad Autónoma participará en la fijación de las demarcaciones…, de acuerdo con lo previsto en las leyes generales del Estado». Fijarlas por sí sola, ningún papel e informe vinculante sin participación son falsos. Ninguna existente sobre el 78.2. | Revisor 2 (CONFIRMADA): Art. 78.2 verificado: «La Comunidad Autónoma participará en la fijación de las demarcaciones… de acuerdo con lo previsto en las leyes generales del Estado». No las fija en exclusiva ni emite un informe vinculante. Sin duplicados (la existente es del 78.3)."
+  },
+  {
+   "q": "Según el art. 79.2 del Estatuto de Autonomía de Aragón, en el ámbito de las competencias compartidas, ¿qué corresponde a la Comunidad Autónoma respecto de las subvenciones territorializables de la Administración central y de la Unión Europea?",
+   "options": [
+    "Precisar normativamente sus objetivos, completar sus condiciones de otorgamiento y asumir toda su gestión",
+    "Únicamente su gestión y tramitación, sin capacidad normativa sobre sus objetivos ni sus condiciones",
+    "Ninguna intervención, porque su regulación y su gestión corresponden a la Administración central",
+    "Determinar por sí sola su carácter no territorializable y regular después su concesión"
+   ],
+   "correct": 0,
+   "exp": "El art. 79.2 dispone que en las competencias compartidas la Comunidad Autónoma «precisará normativamente los objetivos de las subvenciones territorializables de la Administración central y de la Unión Europea, completando las condiciones de otorgamiento, y asumiendo toda la gestión incluyendo la tramitación y la concesión». La mera gestión es lo que le corresponde en las competencias ejecutivas. En el carácter no territorializable solo participa, en los términos que fije el Estado (art. 79.3).",
+   "fuente": "Art. 79.2 EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 79.2, inciso de las compartidas: «precisará normativamente los objetivos…, completando las condiciones de otorgamiento, y asumiendo toda la gestión incluyendo la tramitación y la concesión». Mera gestión (régimen de las ejecutivas), ninguna intervención y determinar por sí sola el carácter no territorializable (79.3 solo prevé participar) son falsos. La correcta es la más larga, pero por poco (105 frente a 86-99 caracteres). | Revisor 2 (CONFIRMADA): Art. 79.2, segunda frase, verificado: en compartidas «precisará normativamente los objetivos… completando las condiciones de otorgamiento, y asumiendo toda la gestión». La mera gestión es de las ejecutivas; el carácter no territorializable es una participación según el 79.3. La existente es del 79.1."
+  },
+  {
+   "q": "Según el art. 79.2 del Estatuto de Autonomía de Aragón, en el ámbito de las competencias ejecutivas, ¿qué corresponde a la Comunidad Autónoma respecto de las subvenciones territorializables?",
+   "options": [
+    "Su gestión, que incluye su tramitación y concesión",
+    "Especificar sus objetivos y regular sus condiciones de otorgamiento",
+    "Precisar normativamente sus objetivos y completar sus condiciones",
+    "Nada, porque las gestiona íntegramente el Estado"
+   ],
+   "correct": 0,
+   "exp": "El art. 79.2 termina así: «En las competencias ejecutivas, corresponderá a la Comunidad Autónoma la gestión de las subvenciones territorializables, que incluye su tramitación y concesión». Especificar objetivos y regular las condiciones corresponde en las competencias exclusivas. Precisar normativamente los objetivos y completar las condiciones corresponde en las compartidas.",
+   "fuente": "Art. 79.2 EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 79.2, inciso final: «En las competencias ejecutivas, corresponderá a la Comunidad Autónoma la gestión de las subvenciones territorializables, que incluye su tramitación y concesión». Los distractores reproducen el régimen de las exclusivas y de las compartidas, o son «nada»: falsos para las ejecutivas. Complementa a la anterior sin repetirla. La existente sobre el art. 79 es del 79.1 (fondos propios). | Revisor 2 (CONFIRMADA): Art. 79.2, última frase, verificado: en ejecutivas, «la gestión de las subvenciones territorializables, que incluye su tramitación y concesión». Los distractores reproducen los regímenes de exclusivas y compartidas. Es compatible con la pregunta 38 (pregunta otro supuesto)."
+  },
+  {
+   "q": "Según el art. 79.3 del Estatuto de Autonomía de Aragón, la Comunidad Autónoma participa en la determinación del carácter no territorializable de las subvenciones estatales y comunitarias, y en su gestión y tramitación, en los términos que fije:",
+   "options": [
+    "La Unión Europea",
+    "Las Cortes de Aragón",
+    "El Gobierno de Aragón",
+    "El Estado"
+   ],
+   "correct": 3,
+   "exp": "El art. 79.3 dispone: «La Comunidad Autónoma participa, en los términos que fije el Estado, en la determinación del carácter no territorializable de las subvenciones estatales y comunitarias y en su gestión y tramitación». Los términos no los fijan la Unión Europea ni las instituciones aragonesas.",
+   "fuente": "Art. 79.3 EAA (LO 5/2007)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Verificado contra el consolidado BOE-A-2007-8444 (última actualización 28/12/2022, LO 15/2022, que solo toca arts. 36, 38.2 y 55, ajenos a esta pregunta): art. 79.3 «La Comunidad Autónoma participa, en los términos que fije el Estado, en la determinación del carácter no territorializable…». La Unión Europea, las Cortes y el Gobierno de Aragón son falsos. Ninguna existente. | Revisor 2 (CONFIRMADA): Art. 79.3 verificado: «La Comunidad Autónoma participa, en los términos que fije el Estado…». Distractores falsos. Sin duplicados."
+  }
+ ]
+}
