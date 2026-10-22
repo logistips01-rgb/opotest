@@ -21,3 +21,6 @@ propuesta, revisor independiente y `tools/aplicar-cambios.js --tipo correccion`.
 ## Cupo de discapacidad en Aragón (revisor 1 del lote t18-1)
 - Según el revisor, el art. 27.2 de la Ley aragonesa 5/2019, de derechos de las personas con discapacidad, eleva el cupo de reserva al 8 %. Hay que comprobar si se aplica a las entidades locales aragonesas (Zaragoza). Si se aplica, las preguntas y el esquema del tema 18 que dan el 7 % del art. 59.1 TREBEP como cifra deben avisar de la regla aragonesa.
 - Tema 19: hay una pregunta que da por vigente el art. 4.f RD 896/1991 (preside el tribunal el Presidente de la Corporación); choca con el TREBEP 60.2-3. Se incluye en las correcciones en curso (lotes/auditoria/pendientes-varias).
+
+## Tema 2 (redactor del lote t02-1)
+- La pregunta 213 del tema 2 da como correcta «Ley 6/2019, de 1 de marzo». El apdo. 2.3 del Plan dice «Real Decreto-ley 6/2019». Hay que comprobarlo y corregirlo.
