@@ -6,6 +6,960 @@
 window.ACTUALIZACIONES = window.ACTUALIZACIONES || {};
 window.ACTUALIZACIONES["aux-admin-zaragoza"] = [
  {
+  "id": "2026-10-22-correccion-6",
+  "fecha": "2026-10-22",
+  "tipo": "correccion",
+  "titulo": "Función pública local, competencias municipales y otros ajustes",
+  "texto": "Preguntas de los temas 14, 15, 17 y 19 que daban por vigentes reglas superadas por el TREBEP (composición de los tribunales, concurso, aprobados por encima de las plazas), que no tenían en cuenta que en Zaragoza las bases de selección las aprueba el Gobierno de Zaragoza, o que usaban redacciones antiguas de la LBRL.",
+  "preguntas": [
+   {
+    "tema": 19,
+    "q": "Conforme al artículo 2 del RD 896/1991, el ingreso en la Función Pública Local se realizará, con carácter general, a través del sistema de:",
+    "options": [
+     "Concurso-oposición.",
+     "Oposición.",
+     "Concurso libre reservado a promoción interna.",
+     "Concurso."
+    ],
+    "antes": "Oposición.",
+    "ahora": "Oposición.",
+    "nota": "Se completa la explicación: el TREBEP solo admite el concurso por ley y con carácter excepcional."
+   },
+   {
+    "tema": 19,
+    "q": "Según el artículo 2 del RD 896/1991 (desplazado en cuanto al concurso por el art. 61.6 TREBEP, que solo lo admite en virtud de ley y con carácter excepcional), la utilización del sistema de concurso-oposición o de concurso, en lugar de la oposición, procede cuando sea más adecuada por razón de:",
+    "options": [
+     "El grado de complejidad técnica de las pruebas selectivas previstas en las bases.",
+     "La urgencia en la cobertura de las plazas apreciada por el Pleno.",
+     "La naturaleza de las plazas o de las funciones a desempeñar.",
+     "El número de plazas convocadas y la población del municipio."
+    ],
+    "antes": "La naturaleza de las plazas o de las funciones a desempeñar.",
+    "ahora": "La naturaleza de las plazas o de las funciones a desempeñar.",
+    "nota": "Se aclara en el enunciado que el TREBEP solo admite el concurso por ley y con carácter excepcional."
+   },
+   {
+    "tema": 19,
+    "q": "El artículo 4.f) del RD 896/1991 dispone que actuará como Presidente del Tribunal «el de la Corporación o miembro de la misma en quien delegue». Según el artículo 60.2 del TREBEP, ¿puede hoy el Alcalde o un concejal formar parte de un órgano de selección?",
+    "options": [
+     "No, porque el personal de elección o de designación política no puede formar parte de ellos.",
+     "Sí, pero solo para ejercer la presidencia, con voz y sin voto, en nombre de la Corporación.",
+     "Sí, siempre que las bases de la convocatoria lo prevean expresamente y lo motiven.",
+     "Sí, siempre que los miembros electos no superen un tercio de los integrantes del Tribunal."
+    ],
+    "antes": "El de la Corporación o miembro de la misma en quien delegue.",
+    "ahora": "No, porque el personal de elección o de designación política no puede formar parte de ellos.",
+    "nota": "Se reconvierte: el TREBEP prohíbe que cargos electos formen parte de los tribunales, así que el Alcalde ya no puede presidirlos."
+   },
+   {
+    "tema": 19,
+    "q": "El artículo 4.f) del RD 896/1991 dispone que entre los Vocales del Tribunal «figurará un representante de la Comunidad Autónoma». Conforme al artículo 60.3 del TREBEP, ¿puede hoy un vocal formar parte del tribunal de selección de un ayuntamiento en representación de la Comunidad Autónoma?",
+    "options": [
+     "Sí, cuando lo prevean las bases y lo proponga el Instituto Aragonés de Administración Pública.",
+     "Sí, aunque solo con voz y sin voto, para velar por la legalidad del proceso.",
+     "No, porque la pertenencia a los órganos de selección es siempre a título individual.",
+     "Sí, siempre que sea funcionario de carrera y tenga la titulación exigida."
+    ],
+    "antes": "Un representante de la Comunidad Autónoma.",
+    "ahora": "No, porque la pertenencia a los órganos de selección es siempre a título individual.",
+    "nota": "Se reconvierte: según el TREBEP, nadie forma parte de un tribunal en representación de otro, tampoco de la Comunidad Autónoma."
+   },
+   {
+    "tema": 19,
+    "q": "Conforme al artículo 7 del RD 896/1991, con la excepción que hoy añade el artículo 61.8 del TREBEP para cuando la propia convocatoria lo prevea, no podrá aprobarse ni declararse que ha superado las pruebas selectivas:",
+    "options": [
+     "Un número de aspirantes inferior al de las plazas convocadas.",
+     "Un aspirante que no haya obtenido la máxima calificación en el ejercicio práctico.",
+     "Un aspirante que hubiera obtenido igual puntuación que otro en el último ejercicio.",
+     "Un número de aspirantes superior al de las plazas convocadas."
+    ],
+    "antes": "Un número de aspirantes superior al de las plazas convocadas.",
+    "ahora": "Un número de aspirantes superior al de las plazas convocadas.",
+    "nota": "Se aclara que el TREBEP permite aprobar más aspirantes que plazas si la convocatoria lo prevé."
+   },
+   {
+    "tema": 19,
+    "q": "En el Ayuntamiento de Zaragoza, ¿a qué órgano corresponde aprobar las bases de las convocatorias de selección de personal a las que se refiere el artículo 5 del RD 896/1991?",
+    "options": [
+     "El Presidente de la Corporación.",
+     "El Tribunal calificador, una vez constituido.",
+     "El Gobierno de Zaragoza, que es su Junta de Gobierno Local.",
+     "El Pleno."
+    ],
+    "antes": "El Pleno.",
+    "ahora": "El Gobierno de Zaragoza, que es su Junta de Gobierno Local.",
+    "nota": "Se corrige: en Zaragoza las bases de selección las aprueba el Gobierno de Zaragoza (Junta de Gobierno Local), no el Pleno."
+   },
+   {
+    "tema": 19,
+    "q": "De acuerdo con la disposición adicional segunda del RD 896/1991, la selección del personal laboral fijo de nuevo ingreso de las Entidades Locales se hará por:",
+    "options": [
+     "Concurso, concurso-oposición u oposición libre, teniendo en cuenta las condiciones que requiera la naturaleza de los puestos de trabajo a desempeñar.",
+     "Exclusivamente por concurso de traslados entre personal laboral de otras Administraciones.",
+     "Oposición libre en todo caso, con bases aprobadas por el Presidente de la Corporación.",
+     "Convocatoria pública resuelta por el Tribunal mediante libre designación."
+    ],
+    "antes": "Concurso, concurso-oposición u oposición libre, de conformidad con las bases aprobadas por el Pleno de la Corporación.",
+    "ahora": "Concurso, concurso-oposición u oposición libre, teniendo en cuenta las condiciones que requiera la naturaleza de los puestos de trabajo a desempeñar.",
+    "nota": "Se quita de la opción correcta que las bases las aprueba el Pleno, que ya no es así."
+   },
+   {
+    "tema": 19,
+    "q": "Según el artículo 102 de la LBRL, las bases de las pruebas de selección y de los concursos para la provisión de puestos de trabajo en las entidades locales se aprueban, y su convocatoria corresponde, a:",
+    "options": [
+     "La Junta de Gobierno Local, correspondiendo el nombramiento al Pleno",
+     "El Presidente de la Corporación, a quien el tribunal elevará la relación de aprobados para efectuar el nombramiento",
+     "El Pleno de la Corporación, que también efectúa los nombramientos",
+     "El Secretario de la Corporación, por su condición de funcionario con habilitación de carácter nacional"
+    ],
+    "antes": "El Presidente de la Corporación, a quien el tribunal elevará la relación de aprobados para efectuar el nombramiento",
+    "ahora": "El Presidente de la Corporación, a quien el tribunal elevará la relación de aprobados para efectuar el nombramiento",
+    "nota": "Se acota la pregunta al art. 102 LBRL y se explica que en Zaragoza las bases las aprueba el Gobierno de Zaragoza."
+   },
+   {
+    "tema": 14,
+    "q": "Según el art. 25.2 de la LBRL, el municipio ejerce competencias propias en materia de protección de la salubridad pública y, entre otras, en:",
+    "options": [
+     "La regulación del sistema nacional de salud",
+     "Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística",
+     "La homologación de títulos universitarios de medicina",
+     "La gestión de hospitales de titularidad estatal"
+    ],
+    "antes": "Ordenación, gestión, ejecución y disciplina urbanística",
+    "ahora": "Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística",
+    "nota": "Se actualiza la opción correcta a la redacción vigente del art. 25.2.a) LBRL: «Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística»."
+   },
+   {
+    "tema": 14,
+    "q": "¿Qué relación existe entre una ordenanza reguladora del uso de las playas fluviales o zonas de baño municipales y las competencias en materia de protección civil?",
+    "options": [
+     "Puede desarrollar, entre otras, la competencia propia municipal de protección civil (art. 25.2 f LBRL), estableciendo normas de seguridad y uso",
+     "Es competencia exclusiva de Costas, sin intervención municipal",
+     "Solo puede aprobarse mediante decreto autonómico, nunca ordenanza",
+     "No guarda relación alguna con la protección civil municipal"
+    ],
+    "antes": "Puede desarrollar, entre otras, la competencia propia municipal de protección civil y prevención de riesgos (art. 25.2 f LBRL), estableciendo normas de seguridad y uso",
+    "ahora": "Puede desarrollar, entre otras, la competencia propia municipal de protección civil (art. 25.2 f LBRL), estableciendo normas de seguridad y uso",
+    "nota": "Se quita de la respuesta la «prevención de riesgos», que el art. 25.2.f) LBRL no menciona."
+   },
+   {
+    "tema": 15,
+    "q": "Los artículos 69 a 72 de la LBRL, relativos a la información y participación ciudadanas, se ubican dentro de:",
+    "options": [
+     "El Capítulo IV del Título V, rubricado 'Información y participación ciudadanas'.",
+     "El Título Preliminar de la Ley.",
+     "El Capítulo I del Título II, rubricado 'Organización'.",
+     "El Capítulo V del Título II, rubricado 'Estatuto de los miembros de las Corporaciones locales'."
+    ],
+    "antes": "El Capítulo IV del Título II, rubricado 'Información y participación ciudadanas'.",
+    "ahora": "El Capítulo IV del Título V, rubricado 'Información y participación ciudadanas'.",
+    "nota": "Se corrige la ubicación: los arts. 69 a 72 LBRL están en el Capítulo IV del Título V, no del Título II."
+   },
+   {
+    "tema": 17,
+    "q": "Según el art. 20.1 del TREBEP, las Administraciones Públicas establecerán sistemas de evaluación del desempeño, que es el procedimiento mediante el cual se mide y valora la conducta profesional y el rendimiento o el logro de:",
+    "options": [
+     "Titulación académica del funcionario",
+     "Resultados",
+     "Horas de presencia efectiva en el puesto de trabajo",
+     "Antigüedad exclusivamente"
+    ],
+    "antes": "Resultados",
+    "ahora": "Resultados",
+    "nota": "Se corrige el enunciado: el TREBEP dice que las Administraciones «establecerán» la evaluación del desempeño, no que «pueden»."
+   }
+  ]
+ },
+ {
+  "id": "2026-10-22-correccion-5",
+  "fecha": "2026-10-22",
+  "tipo": "correccion",
+  "titulo": "Bienes y servicios locales: normativa aragonesa y Zaragoza",
+  "texto": "En Zaragoza, la gestión de los bienes y los servicios locales se rige por la normativa aragonesa (Ley 7/1999 de Administración Local de Aragón y Decreto 347/2002), que desplaza al Reglamento de Bienes estatal de 1986, y por la Ley 10/2017 de capitalidad, que atribuye al Gobierno de Zaragoza buena parte de las decisiones que la norma general da al Pleno. Muchas preguntas de los temas 10 y 11 estaban escritas con la norma estatal: se han corregido explicaciones y respuestas, y se han retirado (archivadas) las que daban cifras estatales que en Aragón son otras, como la concesión máxima de 99 o 75 años (en Aragón, 50) o la permuta con diferencia del 40 % (en Aragón, 50 %).",
+  "preguntas": [
+   {
+    "tema": 10,
+    "q": "Según el art. 22.2 l) de la LBRL, corresponde al Pleno municipal:",
+    "options": [
+     "La gestión diaria del inventario municipal",
+     "El nombramiento del personal eventual",
+     "La alteración de la calificación jurídica de los bienes de dominio público",
+     "La firma de contratos menores de escasa cuantía"
+    ],
+    "antes": "La alteración de la calificación jurídica de los bienes de dominio público",
+    "ahora": "La alteración de la calificación jurídica de los bienes de dominio público",
+    "nota": "Se mantiene la respuesta (Pleno, art. 22.2.l LBRL, régimen común) y la explicación añade que en Zaragoza esa competencia es del Gobierno de Zaragoza."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 4.1 del Decreto 347/2002 del Gobierno de Aragón (RBASO), tienen la consideración de bienes patrimoniales o de propios los que, siendo propiedad de la Entidad local:",
+    "options": [
+     "Formen parte del dominio público marítimo-terrestre",
+     "No estén destinados directamente al uso público ni afectados a algún servicio público ni sean comunales",
+     "Estén destinados exclusivamente a servicio público",
+     "Sean bienes comunales de aprovechamiento vecinal"
+    ],
+    "antes": "No estén destinados a uso público ni afectados a algún servicio público",
+    "ahora": "No estén destinados directamente al uso público ni afectados a algún servicio público ni sean comunales",
+    "nota": "Se conserva la pregunta citando la norma aplicable (art. 4.1 del Decreto 347/2002) y la respuesta reproduce su definición literal."
+   },
+   {
+    "tema": 10,
+    "q": "El Capítulo III del Título Primero del RBEL, 'Conservación y tutela de bienes', incluye entre sus secciones:",
+    "options": [
+     "Solo el aprovechamiento de bienes comunales",
+     "Únicamente la enajenación de bienes",
+     "Del inventario y registro de los bienes",
+     "La organización del Pleno municipal"
+    ],
+    "antes": "Del inventario y registro de los bienes",
+    "ahora": "Del inventario y registro de los bienes",
+    "nota": "Se corrige la fuente y la explicación: el capítulo III del RBEL tiene tres secciones; la respuesta no cambia."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 109.1 del Decreto 347/2002 del Gobierno de Aragón (RBASO), las enajenaciones de bienes patrimoniales habrán de realizarse, como regla general, por:",
+    "options": [
+     "Sorteo público entre interesados",
+     "Adjudicación directa al mejor postor sin publicidad",
+     "Venta directa sin ningún requisito formal",
+     "Subasta pública, salvo que se trate de una permuta o de otros supuestos previstos legalmente"
+    ],
+    "antes": "Subasta pública, salvo que se trate de una permuta o de otros supuestos previstos legalmente",
+    "ahora": "Subasta pública, salvo que se trate de una permuta o de otros supuestos previstos legalmente",
+    "nota": "Se conserva la pregunta citando el art. 109.1 del Decreto 347/2002, que es donde está literalmente esta regla."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 109.2 del Decreto 347/2002 del Gobierno de Aragón (RBASO), las parcelas sobrantes y los bienes no utilizables pueden ser enajenados por:",
+    "options": [
+     "Venta directa, con arreglo a su valoración pericial",
+     "Cesión al Estado sin contraprestación",
+     "Donación gratuita automática a cualquier tercero",
+     "Subasta obligatoria en todo caso, sin excepción"
+    ],
+    "antes": "Venta directa, con arreglo a su valoración pericial",
+    "ahora": "Venta directa, con arreglo a su valoración pericial",
+    "nota": "Se conserva la pregunta citando el art. 109.2 del Decreto 347/2002, que es donde está literalmente esta regla."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 109.2 del Decreto 347/2002 del Gobierno de Aragón (RBASO), las parcelas sobrantes serán ofrecidas a:",
+    "options": [
+     "El primer postor en una subasta pública",
+     "El propietario o propietarios colindantes",
+     "Cualquier empresa constructora que lo solicite",
+     "El Ministerio de Hacienda"
+    ],
+    "antes": "El propietario o propietarios colindantes",
+    "ahora": "El propietario o propietarios colindantes",
+    "nota": "Se conserva la pregunta citando el art. 109.2 del Decreto 347/2002 y se quita del enunciado un «preferentemente» que la norma no dice."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 110 del Decreto 347/2002 del Gobierno de Aragón (RBASO), los ingresos obtenidos por la enajenación de bienes patrimoniales no podrán destinarse, con carácter general, a:",
+    "options": [
+     "Adquirir otros bienes inmuebles para el patrimonio municipal",
+     "Invertirse en nuevas infraestructuras municipales",
+     "Financiar gastos corrientes, salvo las excepciones previstas",
+     "Amortizar deuda pública local"
+    ],
+    "antes": "Financiar gastos corrientes, salvo las excepciones previstas",
+    "ahora": "Financiar gastos corrientes, salvo las excepciones previstas",
+    "nota": "Se conserva la pregunta citando el art. 110 del Decreto 347/2002 y se cambia un distractor que también podía considerarse prohibido."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 111 del Decreto 347/2002 del Gobierno de Aragón (RBASO), la enajenación de bienes del Patrimonio Municipal del Suelo se ajustará a:",
+    "options": [
+     "Las mismas reglas que cualquier otro bien patrimonial, sin especialidad alguna",
+     "La normativa de contratos del Estado, con exclusión de la urbanística",
+     "El Código Civil exclusivamente",
+     "Su normativa específica prevista en la legislación urbanística"
+    ],
+    "antes": "Su normativa específica prevista en la legislación urbanística",
+    "ahora": "Su normativa específica prevista en la legislación urbanística",
+    "nota": "Se conserva la pregunta citando el art. 111 del Decreto 347/2002, que es donde está literalmente esta regla."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 79.1 TRRL y el art. 109.1 RBEL, los bienes inmuebles patrimoniales no pueden enajenarse, gravarse ni permutarse sin autorización del órgano competente de la Comunidad Autónoma cuando su valor exceda del:",
+    "options": [
+     "25 por 100 de los recursos ordinarios del presupuesto anual de la corporación",
+     "100 por 100 de la deuda viva del municipio",
+     "50 por 100 del presupuesto total municipal",
+     "10 por 100 de los recursos ordinarios del presupuesto"
+    ],
+    "antes": "25 por 100 de los recursos ordinarios del presupuesto anual de la corporación",
+    "ahora": "25 por 100 de los recursos ordinarios del presupuesto anual de la corporación",
+    "nota": "Se mantiene la respuesta (25 %); se precisa el enunciado y la explicación añade que en Aragón el control es una aprobación previa por Orden del Consejero."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 79.1 TRRL y el art. 109.1 RBEL, aun sin superar el umbral del 25 % que exige autorización autonómica, ¿qué obligación de información subsiste respecto a toda enajenación de bienes inmuebles locales?",
+    "options": [
+     "Solo se comunica si lo solicita expresamente un vecino",
+     "Se dará cuenta al órgano competente de la Comunidad Autónoma de toda enajenación que se produzca",
+     "Se comunica únicamente al Tribunal de Cuentas europeo",
+     "Ninguna, no existe obligación de comunicación en absoluto"
+    ],
+    "antes": "Se dará cuenta al órgano competente de la Comunidad Autónoma de toda enajenación que se produzca",
+    "ahora": "Se dará cuenta al órgano competente de la Comunidad Autónoma de toda enajenación que se produzca",
+    "nota": "Se mantiene la respuesta; el enunciado ya no remite a «la misma regulación» de otra pregunta y la explicación recoge la regla aragonesa."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 2.3 del RBEL, en relación con el art. 79.3 LBRL, ¿qué característica adicional se atribuye a los bienes comunales, más allá de ser bienes de dominio público?",
+    "options": [
+     "Que son inalienables, inembargables e imprescriptibles y no sujetos a tributo alguno",
+     "Que se transmiten por herencia a los descendientes de los vecinos",
+     "Que pierden su carácter demanial tras diez años de desuso",
+     "Que pueden ser libremente hipotecados por el Ayuntamiento"
+    ],
+    "antes": "Que son inalienables, inembargables e imprescriptibles y no sujetos a tributo alguno",
+    "ahora": "(pregunta retirada)",
+    "nota": "Se retira: atribuye la regla a un artículo equivocado y la misma pregunta, bien citada, ya existe (art. 80.1 LBRL)."
+   },
+   {
+    "tema": 10,
+    "q": "¿Qué órgano es competente para acordar la enajenación de un bien patrimonial de una Entidad local cuando su cuantía excede del 20 por 100 de los recursos ordinarios del presupuesto?",
+    "options": [
+     "La Diputación Provincial en sustitución del municipio",
+     "El Pleno de la Corporación, con el voto favorable de la mayoría absoluta del número legal de miembros",
+     "El Secretario municipal por delegación automática",
+     "El Defensor del Pueblo"
+    ],
+    "antes": "El Pleno de la Corporación, con el voto favorable de la mayoría absoluta del número legal de miembros",
+    "ahora": "El Pleno de la Corporación, con el voto favorable de la mayoría absoluta del número legal de miembros",
+    "nota": "Se mantiene la respuesta (régimen común) y la explicación añade que en Zaragoza enajenar el patrimonio corresponde al Gobierno de Zaragoza."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 72 del Decreto 347/2002 del Gobierno de Aragón (RBASO), la utilización de los bienes de dominio y uso público puede adoptar las modalidades de:",
+    "options": [
+     "Exclusivamente gratuito para los vecinos",
+     "Únicamente privativo, nunca común",
+     "Solo de carácter oneroso, sin excepción",
+     "Uso común, general o especial, y uso privativo"
+    ],
+    "antes": "Común o privativo, general o especial",
+    "ahora": "Uso común, general o especial, y uso privativo",
+    "nota": "Se conserva la pregunta citando el art. 72 del Decreto 347/2002, que es donde está la clasificación de usos aplicable en Zaragoza."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 96 del RBEL, ¿qué implica la explotación común o cultivo colectivo de los bienes comunales?",
+    "options": [
+     "El disfrute general y simultáneo de los bienes por quienes ostenten en cada momento la cualidad de vecino",
+     "La expropiación forzosa de los aprovechamientos a favor de la Diputación Provincial",
+     "La venta directa de los aprovechamientos a terceros ajenos al municipio",
+     "La cesión gratuita del disfrute a una sociedad mercantil designada por el Alcalde"
+    ],
+    "antes": "El disfrute general y simultáneo de los bienes por quienes ostenten en cada momento la cualidad de vecino",
+    "ahora": "El disfrute general y simultáneo de los bienes por quienes ostenten en cada momento la cualidad de vecino",
+    "nota": "Se mantiene la respuesta y la explicación advierte que en Aragón la explotación colectiva es «preferente», no obligatoria."
+   },
+   {
+    "tema": 10,
+    "q": "Según los principios generales del régimen de bienes comunales, ¿puede una Entidad Local desafectar un bien comunal para convertirlo en patrimonial?",
+    "options": [
+     "No, salvo que lo autorice directamente el Rey",
+     "Sí, mediante el correspondiente expediente de alteración de la calificación jurídica, acreditando su oportunidad y legalidad",
+     "Sí, pero solo mediante ley orgánica estatal",
+     "No, los bienes comunales son inmodificables para siempre"
+    ],
+    "antes": "Sí, mediante el correspondiente expediente de alteración de la calificación jurídica, acreditando su oportunidad y legalidad",
+    "ahora": "Sí, mediante el correspondiente expediente de alteración de la calificación jurídica, acreditando su oportunidad y legalidad",
+    "nota": "Se mantiene la respuesta y la explicación describe los dos procedimientos aragoneses para desafectar comunales y quién decide en Zaragoza."
+   },
+   {
+    "tema": 10,
+    "q": "En relación con el patrimonio municipal del suelo, ¿qué característica especial tiene su enajenación respecto al régimen general de los bienes patrimoniales?",
+    "options": [
+     "Se ajusta a su normativa específica prevista en la legislación urbanística, en lugar de al régimen general de subasta",
+     "Se rige exactamente por las mismas reglas que cualquier otro bien patrimonial, sin especialidad",
+     "Solo puede realizarse mediante sorteo público entre los vecinos",
+     "Está completamente prohibida en todo caso"
+    ],
+    "antes": "Se ajusta a su normativa específica prevista en la legislación urbanística, en lugar de al régimen general de subasta del RBEL",
+    "ahora": "Se ajusta a su normativa específica prevista en la legislación urbanística, en lugar de al régimen general de subasta",
+    "nota": "Se mantiene la respuesta, se quita de ella la mención al RBEL y se corrige la fuente (art. 111 del Decreto 347/2002)."
+   },
+   {
+    "tema": 10,
+    "q": "¿Qué excepciones al procedimiento general de subasta pública prevé el art. 109 del Decreto 347/2002 del Gobierno de Aragón (RBASO) para la enajenación de bienes patrimoniales?",
+    "options": [
+     "Exclusivamente cuando el bien tenga más de cien años de antigüedad",
+     "Solo cuando el comprador sea un familiar del Alcalde",
+     "La permuta y otros supuestos previstos legalmente, como la venta directa de parcelas sobrantes o efectos no utilizables",
+     "Ninguna excepción, la subasta es obligatoria siempre sin excepción alguna"
+    ],
+    "antes": "La permuta y otros supuestos previstos legalmente, como la venta directa de parcelas sobrantes o efectos no utilizables",
+    "ahora": "La permuta y otros supuestos previstos legalmente, como la venta directa de parcelas sobrantes o efectos no utilizables",
+    "nota": "Se mantiene la respuesta pero la pregunta pasa a citar el art. 109 del Decreto 347/2002, porque la venta directa de bienes no utilizables no está en el RBEL."
+   },
+   {
+    "tema": 10,
+    "q": "¿Cómo se denomina el negocio jurídico por el cual una Entidad Local intercambia un bien patrimonial de su titularidad por otro de un particular, sin mediar subasta pública?",
+    "options": [
+     "Permuta",
+     "Arrendamiento con opción de compra",
+     "Comodato",
+     "Expropiación forzosa"
+    ],
+    "antes": "Permuta",
+    "ahora": "Permuta",
+    "nota": "Se mantiene la respuesta (permuta) y se corrige la fuente: art. 115 del Decreto 347/2002 y art. 189 de la Ley 7/1999."
+   },
+   {
+    "tema": 10,
+    "q": "¿Qué papel desempeña la Comunidad Autónoma respecto a la enajenación de bienes patrimoniales de un municipio cuando el valor del bien supera el umbral legal establecido?",
+    "options": [
+     "Debe adquirir obligatoriamente el bien antes de cualquier subasta",
+     "Debe expropiar directamente el bien en cuestión",
+     "Ninguno, la Comunidad Autónoma nunca interviene en materia de bienes locales",
+     "Debe autorizar previamente la enajenación, al tratarse de un acto de disposición patrimonial de especial relevancia"
+    ],
+    "antes": "Debe autorizar previamente la enajenación, al tratarse de un acto de disposición patrimonial de especial relevancia",
+    "ahora": "Debe autorizar previamente la enajenación, al tratarse de un acto de disposición patrimonial de especial relevancia",
+    "nota": "Se mantiene la respuesta y la explicación precisa que en Aragón el control es una aprobación previa por Orden del Consejero."
+   },
+   {
+    "tema": 10,
+    "q": "¿Qué tres grandes bloques normativos configuran, en conjunto, el régimen jurídico de los bienes de las Entidades Locales estudiado en este tema?",
+    "options": [
+     "Únicamente el Código Civil",
+     "Solo la normativa urbanística estatal",
+     "La legislación básica estatal (LBRL y preceptos básicos de la LPAP), la legislación aragonesa de régimen local (Ley 7/1999 y Decreto 347/2002) y, con carácter supletorio, el RBEL",
+     "Exclusivamente las ordenanzas municipales, sin ley estatal alguna"
+    ],
+    "antes": "La LBRL (arts. 79-83), el RBEL (RD 1372/1986) y, con carácter supletorio, la LPAP (Ley 33/2003)",
+    "ahora": "La legislación básica estatal (LBRL y preceptos básicos de la LPAP), la legislación aragonesa de régimen local (Ley 7/1999 y Decreto 347/2002) y, con carácter supletorio, el RBEL",
+    "nota": "Cambia la respuesta: en Zaragoza los bienes locales se rigen por la legislación básica estatal, la ley y el reglamento aragoneses y, como supletorio, el RBEL."
+   },
+   {
+    "tema": 10,
+    "q": "¿Cuál debe ser el plazo de información pública de un expediente de alteración de la calificación jurídica?",
+    "options": [
+     "Un mes.",
+     "Diez días.",
+     "Dos meses.",
+     "Quince días."
+    ],
+    "antes": "Un mes.",
+    "ahora": "Un mes.",
+    "nota": "Se mantiene la respuesta (un mes) y la explicación corrige la mayoría y quién decide en Zaragoza."
+   },
+   {
+    "tema": 10,
+    "q": "¿Cuál de las siguientes potestades no están asignadas a las corporaciones locales en relación con sus bienes?",
+    "options": [
+     "La potestad de autorecuperación.",
+     "La potestad de recuperación.",
+     "La potestad de investigación.",
+     "La potestad de deslinde."
+    ],
+    "antes": "La potestad de autorecuperación.",
+    "ahora": "La potestad de autorecuperación.",
+    "nota": "Se mantiene la respuesta y la explicación añade la quinta potestad que reconoce Aragón: la sancionadora."
+   },
+   {
+    "tema": 10,
+    "q": "¿Se admiten interdictos contra actuaciones de agentes de la autoridad en materia de recuperación de bienes?",
+    "options": [
+     "No, siempre que la actuación se ajuste al procedimiento establecido.",
+     "Sí, con aprobación previa del Pleno.",
+     "Sí, siempre que la usurpación tenga menos de un año.",
+     "Sí, en cualquier caso."
+    ],
+    "antes": "No, en ningún caso.",
+    "ahora": "No, siempre que la actuación se ajuste al procedimiento establecido.",
+    "nota": "Cambia la respuesta: no caben interdictos contra la recuperación posesoria siempre que la actuación se ajuste al procedimiento; la vía de hecho es recurrible."
+   },
+   {
+    "tema": 10,
+    "q": "El uso privativo de bienes de dominio público:",
+    "options": [
+     "Es libre de acuerdo con la naturaleza de los bienes.",
+     "Está sujeto siempre a licencia, aunque requiera instalaciones fijas y permanentes.",
+     "Se destina exclusivamente al Ayuntamiento.",
+     "Está sujeto a concesión si requiere instalaciones fijas y permanentes; si no, a licencia."
+    ],
+    "antes": "está sujeto a concesión administrativa.",
+    "ahora": "Está sujeto a concesión si requiere instalaciones fijas y permanentes; si no, a licencia.",
+    "nota": "Cambia la respuesta: en Zaragoza el uso privativo va a concesión si requiere instalaciones fijas y permanentes y, si no, a licencia."
+   },
+   {
+    "tema": 10,
+    "q": "¿Cuándo se adjudicará el disfrute de un bien comunal por lotes?",
+    "options": [
+     "En cualquier caso.",
+     "Cuando el disfrute sea impracticable en el modo común.",
+     "En ningún caso.",
+     "Cuando lo establezca el Pleno."
+    ],
+    "antes": "Cuando el disfrute sea impracticable en el modo común.",
+    "ahora": "Cuando el disfrute sea impracticable en el modo común.",
+    "nota": "Se mantiene la respuesta y la explicación añade el orden aragonés: explotación colectiva, costumbre u ordenanza y, en su defecto, lotes."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 109.1 RBEL, los bienes inmuebles patrimoniales de las entidades locales no podrán enajenarse, gravarse ni permutarse sin autorización del órgano competente de la Comunidad Autónoma cuando su valor exceda de qué porcentaje de los recursos ordinarios del presupuesto anual de la Corporación.",
+    "options": [
+     "El 40 por 100",
+     "El 25 por 100",
+     "El 50 por 100",
+     "El 10 por 100"
+    ],
+    "antes": "El 25 por 100",
+    "ahora": "El 25 por 100",
+    "nota": "Se mantiene la respuesta (25 %) y la explicación añade que en Aragón el control es una aprobación previa por Orden del Consejero."
+   },
+   {
+    "tema": 10,
+    "q": "Conforme al art. 109.1 RBEL, con independencia de que sea necesaria autorización autonómica por razón de la cuantía, ¿qué obligación existe respecto de toda enajenación de bienes inmuebles de la entidad local?",
+    "options": [
+     "Comunicarla al Ministerio de Hacienda",
+     "Publicarla en el Boletín Oficial del Estado",
+     "Dar cuenta al órgano competente de la Comunidad Autónoma",
+     "Solicitar dictamen previo del Consejo de Estado"
+    ],
+    "antes": "Dar cuenta al órgano competente de la Comunidad Autónoma",
+    "ahora": "Dar cuenta al órgano competente de la Comunidad Autónoma",
+    "nota": "Se mantiene la respuesta y la explicación precisa cuándo y para qué se comunica en Aragón."
+   },
+   {
+    "tema": 10,
+    "q": "El dictamen técnico exigido en el art. 110.1.e RBEL para la cesión gratuita de bienes debe asevear que estos no son necesarios para la Entidad local ni es previsible que lo sean en los próximos...",
+    "options": [
+     "Veinte años",
+     "Cinco años",
+     "Treinta años",
+     "Diez años"
+    ],
+    "antes": "Diez años",
+    "ahora": "(pregunta retirada)",
+    "nota": "Se retira: los diez años del RBEL no rigen en Aragón, donde el dictamen de la cesión gratuita no fija plazo."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 112.2 RBEL, no será necesaria la subasta en la enajenación mediante permuta con otros bienes de carácter inmobiliario cuando, previo expediente que acredite la necesidad, la diferencia de valor entre los bienes a permutar no sea superior al...",
+    "options": [
+     "30 por 100 del que tenga mayor valor",
+     "50 por 100 del que tenga mayor valor",
+     "40 por 100 del que tenga mayor valor",
+     "25 por 100 del que tenga mayor valor"
+    ],
+    "antes": "40 por 100 del que tenga mayor valor",
+    "ahora": "(pregunta retirada)",
+    "nota": "Se retira: el 40 % del RBEL no rige en Aragón (allí es el 50 %), y esa cifra ya se pregunta citando la Ley 7/1999."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 114 RBEL, las enajenaciones de bienes cuyo valor exceda del ___ de los recursos ordinarios del presupuesto deberán ser acordadas con el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación.",
+    "options": [
+     "10 por 100",
+     "5 por 100",
+     "20 por 100",
+     "25 por 100"
+    ],
+    "antes": "10 por 100",
+    "ahora": "(pregunta retirada)",
+    "nota": "Se retira: el 10 % del RBEL no rige; además, en Zaragoza la enajenación corresponde al Gobierno de Zaragoza."
+   },
+   {
+    "tema": 10,
+    "q": "Conforme al art. 153 LPAP, los bienes y derechos patrimoniales podrán permutarse, por razones de interés público debidamente justificadas, cuando la diferencia de valor entre los bienes, según tasación, no sea superior al...",
+    "options": [
+     "50 por ciento del que tenga mayor valor",
+     "40 por ciento del que tenga mayor valor",
+     "25 por ciento del que tenga mayor valor",
+     "60 por ciento del que tenga mayor valor"
+    ],
+    "antes": "50 por ciento del que tenga mayor valor",
+    "ahora": "50 por ciento del que tenga mayor valor",
+    "nota": "Se mantiene la respuesta (50 %) y la explicación aclara que en Aragón también es el 50 %, no el 40 % del RBEL."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 78.1 RBEL, estarán sujetos a concesión administrativa:",
+    "options": [
+     "Únicamente los bienes patrimoniales cedidos en arrendamiento",
+     "El uso privativo de bienes de dominio público y el uso anormal de los mismos",
+     "Los bienes comunales en régimen de explotación común",
+     "El uso común general y el uso común especial normal"
+    ],
+    "antes": "El uso privativo de bienes de dominio público y el uso anormal de los mismos",
+    "ahora": "(pregunta retirada)",
+    "nota": "Se retira: en Aragón no todo uso privativo va a concesión; el que no tiene instalaciones fijas va a licencia."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 83.2 del Decreto 347/2002 del Gobierno de Aragón (RBASO), el plazo de duración máximo de las concesiones sobre bienes de dominio público será, con carácter general, de:",
+    "options": [
+     "Veinticinco años",
+     "Cincuenta años",
+     "Noventa y nueve años",
+     "Setenta y cinco años"
+    ],
+    "antes": "Noventa y nueve años",
+    "ahora": "Cincuenta años",
+    "nota": "Se conserva la pregunta citando el Decreto 347/2002: en Aragón el plazo máximo de la concesión demanial es de cincuenta años, no noventa y nueve."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 86.1 RBEL, en caso de discordia entre los peritos que tasaren el proyecto elegido en concurso, la discordia la resolverá:",
+    "options": [
+     "El Consejo de Estado",
+     "El Jurado Provincial de Expropiación",
+     "El Delegado del Gobierno",
+     "El Tribunal Superior de Justicia"
+    ],
+    "antes": "El Jurado Provincial de Expropiación",
+    "ahora": "(pregunta retirada)",
+    "nota": "Se retira: en Aragón la discordia de peritos no la resuelve el Jurado de Expropiación, sino la Corporación."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 87.4 RBEL, el proyecto y las bases de la licitación de una concesión de dominio público se someterán a información pública durante:",
+    "options": [
+     "Treinta días",
+     "Quince días",
+     "Veinte días",
+     "Cuarenta y cinco días"
+    ],
+    "antes": "Treinta días",
+    "ahora": "(pregunta retirada)",
+    "nota": "Se retira: en Aragón el plazo es de veinte días como mínimo, y esa pregunta ya existe citando el Decreto 347/2002."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 88.1 RBEL, el peticionario inicial de una concesión tendrá derecho de tanteo si participa en la licitación y la diferencia entre su propuesta económica y la elegida no es superior a:",
+    "options": [
+     "Un 5 por 100",
+     "Un 10 por 100",
+     "Un 25 por 100",
+     "Un 50 por 100"
+    ],
+    "antes": "Un 10 por 100",
+    "ahora": "(pregunta retirada)",
+    "nota": "Se retira: en Aragón el peticionario inicial no tiene derecho de tanteo."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 88.3 RBEL, el derecho de tanteo podrá ejercerse en el acto de apertura de plicas, que se prolongará al efecto:",
+    "options": [
+     "Una hora después de la adjudicación provisional",
+     "Quince minutos después de la adjudicación provisional",
+     "Treinta minutos después de la adjudicación provisional",
+     "Veinticuatro horas después de la adjudicación provisional"
+    ],
+    "antes": "Treinta minutos después de la adjudicación provisional",
+    "ahora": "(pregunta retirada)",
+    "nota": "Se retira: en Aragón el tanteo no se ejerce «treinta minutos después de la adjudicación provisional»."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 89 RBEL, será necesario el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación para otorgar una concesión sobre bienes de dominio público cuando ésta dure más de cinco años y, además:",
+    "options": [
+     "Afecte a más de cien vecinos",
+     "Su cuantía exceda del 25 por 100 de los recursos ordinarios del presupuesto",
+     "Se trate de un bien inmueble urbano",
+     "Su cuantía exceda del 10 por 100 de los recursos ordinarios del presupuesto"
+    ],
+    "antes": "Su cuantía exceda del 10 por 100 de los recursos ordinarios del presupuesto",
+    "ahora": "(pregunta retirada)",
+    "nota": "Se retira: en Aragón el umbral es el 20 %, y en Zaragoza las concesiones las otorga el Gobierno de Zaragoza."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 90.1 RBEL, la garantía definitiva de la concesión, que debe constituirse dentro del plazo de los quince días siguientes a la notificación, consistirá en:",
+    "options": [
+     "El 3 por 100 del valor del dominio público ocupado, más el presupuesto de las obras en su caso",
+     "El 2 por 100 del valor del dominio público ocupado",
+     "El 5 por 100 del valor del dominio público ocupado",
+     "El 10 por 100 del valor del dominio público ocupado"
+    ],
+    "antes": "El 3 por 100 del valor del dominio público ocupado, más el presupuesto de las obras en su caso",
+    "ahora": "(pregunta retirada)",
+    "nota": "Se retira: en Aragón la garantía definitiva de la concesión es del 4 %, no del 3 %."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 91.d) RBEL, en el supuesto de ocupación anormal de bienes de dominio público, la garantía definitiva será:",
+    "options": [
+     "El 3 por 100, igual que en la ocupación normal",
+     "El 5 por 100 sobre las anteriores bases de valoración y presupuesto de obras",
+     "El 2 por 100",
+     "El 1 por 100"
+    ],
+    "antes": "El 5 por 100 sobre las anteriores bases de valoración y presupuesto de obras",
+    "ahora": "(pregunta retirada)",
+    "nota": "Se retira: en Aragón la garantía definitiva del uso anormal es del 4 %, no del 5 %."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 92.2 RBEL, en la cesión de uso de bienes patrimoniales, el usuario habrá de satisfacer un canon no inferior a:",
+    "options": [
+     "El 10 por 100 del valor en venta de los bienes",
+     "El 4 por 100 del valor en venta de los bienes",
+     "El 3 por 100 del valor en venta de los bienes",
+     "El 6 por 100 del valor en venta de los bienes"
+    ],
+    "antes": "El 6 por 100 del valor en venta de los bienes",
+    "ahora": "El 6 por 100 del valor en venta de los bienes",
+    "nota": "Se mantiene la respuesta (6 %) y la explicación advierte que en Aragón hay una excepción para la cesión por motivos sociales."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 93.2 RBEL, corresponderá a la Corporación:",
+    "options": [
+     "Esperar a que el funcionario abandone voluntariamente la vivienda",
+     "Acordar y ejecutar por sí misma el desahucio",
+     "Delegar el desahucio en la autoridad autonómica",
+     "Solicitar el desahucio ante los tribunales ordinarios de forma obligatoria"
+    ],
+    "antes": "Acordar y ejecutar por sí misma el desahucio",
+    "ahora": "Acordar y ejecutar por sí misma el desahucio",
+    "nota": "Se mantiene la respuesta y la explicación aclara cómo es el desahucio administrativo en Aragón."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 94.1 RBEL, el aprovechamiento y disfrute de los bienes comunales se efectuará precisamente en régimen de:",
+    "options": [
+     "Concesión administrativa",
+     "Arrendamiento a terceros",
+     "Explotación común o cultivo colectivo",
+     "Subasta pública permanente"
+    ],
+    "antes": "Explotación común o cultivo colectivo",
+    "ahora": "Explotación común o cultivo colectivo",
+    "nota": "Se mantiene la respuesta y la explicación advierte que en Aragón la explotación colectiva es «preferente», no «precisa»."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 8.2 RBEL, el expediente de alteración de la calificación jurídica de los bienes deberá resolverse, previa información pública durante un mes, por la Corporación local mediante acuerdo adoptado con:",
+    "options": [
+     "La unanimidad de todos los miembros de la Corporación",
+     "El voto favorable de la mayoría absoluta del número legal de miembros de la Corporación",
+     "El voto favorable de las dos terceras partes del número legal de miembros",
+     "El voto favorable de la mayoría simple de los miembros presentes"
+    ],
+    "antes": "El voto favorable de la mayoría absoluta del número legal de miembros de la Corporación",
+    "ahora": "(pregunta retirada)",
+    "nota": "Se retira: en Aragón la mayoría absoluta solo se exige si la alteración afecta a bienes de dominio público, y en Zaragoza decide el Gobierno de Zaragoza."
+   },
+   {
+    "tema": 10,
+    "q": "Conforme al art. 11.1 RBEL, se requerirá informe del órgano estatal o autonómico competente para adquirir onerosamente bienes de valor histórico o artístico cuando su importe exceda:",
+    "options": [
+     "Del 50 por 100 del valor catastral del bien",
+     "De 100.000 euros, en todo caso",
+     "Del 10 por 100 del Presupuesto total de la Corporación",
+     "Del 1 por 100 de los recursos ordinarios del Presupuesto de la Corporación o del límite general de contratación directa en suministros"
+    ],
+    "antes": "Del 1 por 100 de los recursos ordinarios del Presupuesto de la Corporación o del límite general de contratación directa en suministros",
+    "ahora": "(pregunta retirada)",
+    "nota": "Se retira: el umbral del 1 % del RBEL no rige en Aragón."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 16.2 RBEL, los bienes patrimoniales que resultaren calificados como suelo urbano o urbanizable programado en el planeamiento urbanístico quedarán:",
+    "options": [
+     "Afectos al Patrimonio Municipal del Suelo",
+     "Sujetos a expropiación forzosa automática",
+     "Convertidos en bienes de dominio público de forma automática",
+     "Excluidos del Inventario de bienes de la Entidad"
+    ],
+    "antes": "Afectos al Patrimonio Municipal del Suelo",
+    "ahora": "(pregunta retirada)",
+    "nota": "Se retira: en Aragón los bienes del patrimonio municipal del suelo los determina la legislación urbanística aragonesa, y el «urbanizable programado» ya no existe."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 31 RBEL, de los inventarios separados previstos en el art. 17, párrafo segundo, deben conservarse ejemplares en:",
+    "options": [
+     "Exclusivamente en el Boletín Oficial del Estado",
+     "La Entidad respectiva, las oficinas de la Corporación, y en poder de la Administración del Estado y de la Comunidad Autónoma",
+     "Únicamente en el Registro de la Propiedad",
+     "Solo en las oficinas de la Corporación"
+    ],
+    "antes": "La Entidad respectiva, las oficinas de la Corporación, y en poder de la Administración del Estado y de la Comunidad Autónoma",
+    "ahora": "(pregunta retirada)",
+    "nota": "Se retira: en Aragón el inventario separado no se envía al Estado."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 44.1 RBEL, ¿cuáles son las potestades que corresponden a los Municipios, Provincias e Islas en relación con sus bienes?",
+    "options": [
+     "Investigación, deslinde, recuperación de oficio y desahucio administrativo",
+     "Recuperación de oficio, deslinde, sanción y confiscación",
+     "Desahucio administrativo, expropiación, sanción e investigación",
+     "Investigación, deslinde, expropiación forzosa y ejecución subsidiaria"
+    ],
+    "antes": "Investigación, deslinde, recuperación de oficio y desahucio administrativo",
+    "ahora": "(pregunta retirada)",
+    "nota": "Se retira: en Aragón las potestades sobre los bienes son cinco (se añade la sancionadora), no cuatro."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 47 RBEL, para que se admita la denuncia presentada por un particular en un expediente de investigación, este debe anticipar el importe de los gastos en una cuantía que:",
+    "options": [
+     "Se fijará libremente por el denunciante sin límite alguno",
+     "No podrá superar las 10.000 pesetas",
+     "Deberá ser exactamente 50.000 pesetas",
+     "No será menor de 10.000 pesetas ni excederá de 100.000"
+    ],
+    "antes": "No será menor de 10.000 pesetas ni excederá de 100.000",
+    "ahora": "(pregunta retirada)",
+    "nota": "Se retira: las cuantías en pesetas del RBEL no rigen en Aragón."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 49.1 RBEL, el acuerdo de iniciación del expediente de investigación se publicará en el Boletín Oficial de la provincia y del municipio, exponiéndose además en el tablón de anuncios de la Corporación durante:",
+    "options": [
+     "Quince días",
+     "Diez días",
+     "Un mes",
+     "Sesenta días"
+    ],
+    "antes": "Quince días",
+    "ahora": "Quince días",
+    "nota": "Se mantiene la respuesta (quince días) y la explicación aclara que en Aragón se publica en el BOA y esos quince días son ya el plazo de alegaciones."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 50 RBEL, ¿de qué plazo disponen las personas afectadas por el expediente de investigación para alegar por escrito ante la Corporación, contado desde que termine la publicación de anuncios en el tablón?",
+    "options": [
+     "Quince días",
+     "Un mes",
+     "Veinte días",
+     "Dos meses"
+    ],
+    "antes": "Un mes",
+    "ahora": "(pregunta retirada)",
+    "nota": "Se retira: en Aragón no hay un mes de alegaciones, y el plazo aragonés de quince días ya se pregunta citando el Decreto 347/2002."
+   },
+   {
+    "tema": 10,
+    "q": "Según el art. 61.1 RBEL, el deslinde se anunciará en el Boletín Oficial de la provincia, del municipio y en el tablón de anuncios del Ayuntamiento, con qué antelación a la fecha fijada para iniciar las operaciones:",
+    "options": [
+     "Quince días",
+     "Un mes",
+     "Noventa días",
+     "Sesenta días"
+    ],
+    "antes": "Sesenta días",
+    "ahora": "Sesenta días",
+    "nota": "Se mantiene la respuesta (sesenta días) y la explicación advierte que en Aragón el anuncio va al BOA."
+   },
+   {
+    "tema": 11,
+    "q": "¿Qué principio general y ampliamente reconocido rige en cuanto a la posibilidad de gestión indirecta de los servicios públicos locales que impliquen ejercicio de autoridad?",
+    "options": [
+     "Deben prestarse exclusivamente por una sociedad mercantil mixta",
+     "Solo pueden prestarse por gestión indirecta, nunca directa",
+     "No pueden prestarse por gestión indirecta, debiendo prestarse siempre mediante gestión directa",
+     "Pueden prestarse indistintamente por gestión directa o indirecta, sin ninguna limitación"
+    ],
+    "antes": "No pueden prestarse por gestión indirecta, debiendo prestarse siempre mediante gestión directa",
+    "ahora": "No pueden prestarse por gestión indirecta, debiendo prestarse siempre mediante gestión directa",
+    "nota": "Se mantiene la respuesta y la explicación añade la regla aragonesa: estos servicios los presta la propia entidad, sin órgano especial."
+   },
+   {
+    "tema": 11,
+    "q": "Según el art. 86.2 de la LBRL, la efectiva ejecución de actividades reservadas en régimen de monopolio requiere, además del acuerdo del Pleno de la Corporación local:",
+    "options": [
+     "La aprobación por el órgano competente de la Comunidad Autónoma",
+     "Ningún trámite adicional, basta el acuerdo plenario",
+     "Un referéndum estatal vinculante",
+     "La autorización de las Cortes Generales mediante ley orgánica"
+    ],
+    "antes": "La aprobación por el órgano competente de la Comunidad Autónoma",
+    "ahora": "La aprobación por el órgano competente de la Comunidad Autónoma",
+    "nota": "Se mantiene la respuesta y la explicación concreta que en Aragón aprueba el Gobierno de Aragón, en tres meses y con silencio positivo."
+   },
+   {
+    "tema": 11,
+    "q": "¿Qué quórum exige, con carácter general, la aprobación por el Pleno de la municipalización de actividades en régimen de monopolio?",
+    "options": [
+     "Unanimidad de todos los concejales",
+     "Mayoría absoluta del número legal de miembros de la Corporación",
+     "Mayoría simple de los presentes en la sesión",
+     "Un tercio de los miembros de la Corporación"
+    ],
+    "antes": "Mayoría absoluta del número legal de miembros de la Corporación",
+    "ahora": "Mayoría absoluta del número legal de miembros de la Corporación",
+    "nota": "Se mantiene la respuesta (mayoría absoluta, regla general) y la explicación advierte del régimen distinto de los municipios de gran población como Zaragoza."
+   },
+   {
+    "tema": 11,
+    "q": "¿Qué órgano tiene competencia, dentro de la Entidad Local, para adoptar el acuerdo inicial de reserva de una actividad o servicio esencial en régimen de monopolio?",
+    "options": [
+     "Un juzgado de lo contencioso-administrativo",
+     "El Alcalde en solitario, sin intervención del Pleno",
+     "El Secretario municipal",
+     "El Pleno de la Corporación local"
+    ],
+    "antes": "El Pleno de la Corporación local",
+    "ahora": "El Pleno de la Corporación local",
+    "nota": "Se mantiene la respuesta (Pleno) y la explicación recoge la regulación aragonesa y la de Zaragoza."
+   },
+   {
+    "tema": 11,
+    "q": "¿Qué es un 'bando' del Alcalde, como medio de intervención mencionado en el art. 84.1 a) LBRL?",
+    "options": [
+     "Una disposición de carácter general dictada por el Alcalde, generalmente para asuntos puntuales, urgentes o de escasa entidad normativa",
+     "Un tipo de licencia urbanística especial",
+     "Un contrato administrativo típico de obras",
+     "Un recurso administrativo específico contra actos del Pleno"
+    ],
+    "antes": "Una disposición de carácter general dictada por el Alcalde, generalmente para asuntos puntuales, urgentes o de escasa entidad normativa",
+    "ahora": "Una disposición de carácter general dictada por el Alcalde, generalmente para asuntos puntuales, urgentes o de escasa entidad normativa",
+    "nota": "Se mantiene la respuesta y la explicación concreta, con el Decreto 347/2002, para qué sirven los bandos y quién los dicta en Zaragoza."
+   },
+   {
+    "tema": 11,
+    "q": "La letra d) del art. 85.2.A) LBRL prevé como forma de gestión directa la sociedad mercantil local cuyo capital social sea:",
+    "options": [
+     "De titularidad pública",
+     "Íntegramente privado",
+     "Mayoritariamente público",
+     "Mixto, público y privado"
+    ],
+    "antes": "De titularidad pública",
+    "ahora": "De titularidad pública",
+    "nota": "Se mantiene la respuesta y la explicación advierte que la Ley 7/1999 admite también la sociedad «mayoritariamente» de la entidad."
+   },
+   {
+    "tema": 11,
+    "q": "Según el art. 84.1.a) LBRL, uno de los medios mediante los que las Entidades locales pueden intervenir la actividad de los ciudadanos es:",
+    "options": [
+     "Las circulares internas de servicio",
+     "Las instrucciones técnicas municipales",
+     "Los decretos de necesidad del Alcalde",
+     "Ordenanzas y bandos"
+    ],
+    "antes": "Ordenanzas y bandos",
+    "ahora": "Ordenanzas y bandos",
+    "nota": "Se mantiene la respuesta y la explicación advierte que la ley aragonesa dice «Ordenanzas y Decretos normativos de emergencia»."
+   },
+   {
+    "tema": 11,
+    "q": "Según el art. 84.2 LBRL, ¿a qué principios debe ajustarse en todo caso la actividad de intervención de las entidades locales?",
+    "options": [
+     "Publicidad, concurrencia y transparencia",
+     "Buena fe, confianza legítima y non bis in idem",
+     "Igualdad de trato, necesidad y proporcionalidad con el objetivo que se persigue",
+     "Eficacia, jerarquía y descentralización"
+    ],
+    "antes": "Igualdad de trato, necesidad y proporcionalidad con el objetivo que se persigue",
+    "ahora": "Igualdad de trato, necesidad y proporcionalidad con el objetivo que se persigue",
+    "nota": "Se mantiene la respuesta y la explicación añade los principios que enumera la ley aragonesa."
+   }
+  ]
+ },
+ {
   "id": "2026-10-22-ley-4",
   "fecha": "2026-10-22",
   "tipo": "ley",

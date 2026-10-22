@@ -1,0 +1,906 @@
+[
+  {
+    "tema": 10,
+    "q": "Según el art. 22.2 l) de la LBRL, corresponde al Pleno municipal:",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "Art. 22.2.l) LBRL: corresponde al Pleno «la alteración de la calificación jurídica de los bienes de dominio público». Es una atribución del régimen común, que en Aragón repite el art. 29.2.n) de la Ley 7/1999, de Administración Local de Aragón. Zaragoza, municipio de gran población, tiene otro reparto: las atribuciones de su Pleno son las del art. 123 LBRL y del art. 11 de la Ley 10/2017, de régimen especial del municipio de Zaragoza como capital de Aragón, que no incluyen esta materia, y el art. 14.1.g) de esa Ley atribuye al Gobierno de Zaragoza «los acuerdos relativos a la aceptación de bienes, alteración de la calificación jurídica de los bienes, mutaciones demaniales, desafectación de bienes comunales, aprobación del inventario y sus rectificaciones anuales». La gestión del inventario, el nombramiento del personal eventual y los contratos menores no son atribuciones del Pleno.",
+      "fuente": "Art. 22.2.l) LBRL (Ley 7/1985); art. 29.2.n) Ley 7/1999; en Zaragoza, art. 14.1.g) Ley 10/2017"
+    },
+    "motivo": "La respuesta es literal del art. 22.2.l) LBRL (régimen común) y es correcta como pregunta sobre ese precepto. En Zaragoza, municipio de gran población con régimen especial, la alteración de la calificación jurídica corresponde al Gobierno de Zaragoza (art. 14.1.g Ley 10/2017), no al Pleno.",
+    "resumen": "Se mantiene la respuesta (Pleno, art. 22.2.l LBRL, régimen común) y la explicación añade que en Zaragoza esa competencia es del Gobierno de Zaragoza.",
+    "revisor": "aprobada con cambios: la explicación propuesta daba la competencia al Pleno en Zaragoza por la Ley 7/1999 y el RBASO, pero el art. 14.1.g) de la Ley 10/2017 la atribuye al Gobierno de Zaragoza (y su DA 1.ª hace prevalecer esa Ley sobre las leyes sectoriales autonómicas).",
+    "antes_respuesta": "La alteración de la calificación jurídica de los bienes de dominio público",
+    "ahora_respuesta": "La alteración de la calificación jurídica de los bienes de dominio público",
+    "cita": "Ley 10/2017, art. 14.1.g): «Las competencias ejecutivas y de gestión, en todos sus aspectos, relativas a la adquisición, gestión, administración, aprovechamiento y enajenación del patrimonio municipal y concesiones sobre los bienes, así como los acuerdos relativos a la aceptación de bienes, alteración de la calificación jurídica de los bienes, mutaciones demaniales, desafectación de bienes comunales, aprobación del inventario y sus rectificaciones anuales, y adscripción y aportación de bienes a organismos autónomos, entidades públicas empresariales y sociedades mercantiles municipales.» (corresponden al Gobierno de Zaragoza)"
+  },
+  {
+    "tema": 10,
+    "q": "Según el art. 5 del RBEL (según se recoge en la práctica administrativa), tienen la consideración de bienes patrimoniales o de propios los que, siendo propiedad de la Entidad Local:",
+    "accion": "respuesta",
+    "nuevo": {
+      "q": "Según el art. 4.1 del Decreto 347/2002 del Gobierno de Aragón (RBASO), tienen la consideración de bienes patrimoniales o de propios los que, siendo propiedad de la Entidad local:",
+      "options": [
+        "Formen parte del dominio público marítimo-terrestre",
+        "No estén destinados directamente al uso público ni afectados a algún servicio público ni sean comunales",
+        "Estén destinados exclusivamente a servicio público",
+        "Sean bienes comunales de aprovechamiento vecinal"
+      ],
+      "correct": 1,
+      "exp": "Art. 4.1 RBASO: «Son bienes patrimoniales o de propios los que, siendo propiedad de la Entidad local, no estén destinados directamente al uso público ni afectados a algún servicio público ni sean comunales». Los destinados a un uso o servicio público y los comunales son bienes de dominio público (art. 3.1 RBASO). El dominio público marítimo-terrestre es del Estado, no de la Entidad local. El art. 6.1 RBEL, supletorio en Aragón, da una definición parecida y añade que puedan constituir fuentes de ingresos para el erario de la Entidad.",
+      "fuente": "Art. 4.1 RBASO (Decreto 347/2002 de Aragón); art. 3.1 RBASO"
+    },
+    "motivo": "El enunciado atribuía al art. 5 RBEL la definición de bienes patrimoniales, que está en el art. 6.1 RBEL; la regla aplicable en Aragón es el art. 4.1 RBASO. Se cambia la norma citada y la clave se ajusta al texto literal (añade «directamente» y «ni sean comunales»), lo que hace todavía más claramente falso el distractor de los comunales.",
+    "resumen": "Se conserva la pregunta citando la norma aplicable (art. 4.1 del Decreto 347/2002) y la respuesta reproduce su definición literal.",
+    "revisor": "aprobada con cambios: se conserva como «respuesta» cambiando la norma del enunciado (art. 5 RBEL, que no dice eso, por art. 4.1 RBASO) y ajustando la clave al texto literal del art. 4.1 RBASO.",
+    "antes_respuesta": "No estén destinados a uso público ni afectados a algún servicio público",
+    "ahora_respuesta": "No estén destinados directamente al uso público ni afectados a algún servicio público ni sean comunales",
+    "cita": "RBASO 4.1: «Son bienes patrimoniales o de propios los que, siendo propiedad de la Entidad local, no estén destinados directamente al uso público ni afectados a algún servicio público ni sean comunales.» RBASO 3.1: «Son bienes de dominio público los destinados a un uso o servicio público, así como los comunales.»"
+  },
+  {
+    "tema": 10,
+    "q": "El Capítulo III del Título Primero del RBEL, 'Conservación y tutela de bienes', incluye entre sus secciones:",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "El Capítulo III del Título Primero del RBEL («Conservación y tutela de bienes», arts. 17 a 73) tiene tres secciones: 1.ª «Del inventario y registro de los bienes» (arts. 17 a 36), 2.ª «Administración» (arts. 37 a 43) y 3.ª «Prerrogativas de las Entidades locales respecto a sus bienes» (arts. 44 a 73). En Aragón el inventario se regula en el Capítulo IV del Título I del Decreto 347/2002 (RBASO), «Inventario y registro de bienes y derechos» (arts. 25 a 42).",
+      "fuente": "Cap. III del Título Primero RBEL (RD 1372/1986), arts. 17 a 73; Cap. IV del Título I RBASO (Decreto 347/2002), arts. 25 a 42"
+    },
+    "motivo": "La fuente («Art. 16 RBEL») no corresponde: el art. 16 pertenece al Capítulo II. La explicación omite la Sección 3.ª del capítulo.",
+    "resumen": "Se corrige la fuente y la explicación: el capítulo III del RBEL tiene tres secciones; la respuesta no cambia.",
+    "revisor": "aprobada",
+    "antes_respuesta": "Del inventario y registro de los bienes",
+    "ahora_respuesta": "Del inventario y registro de los bienes",
+    "cita": "RBASO, Título I, «CAPITULO IV Inventario y registro de bienes y derechos» (arts. 25 a 42)."
+  },
+  {
+    "tema": 10,
+    "q": "Según el art. 109.1 del RBEL, las enajenaciones de bienes patrimoniales habrán de realizarse, como regla general, por:",
+    "accion": "respuesta",
+    "nuevo": {
+      "q": "Según el art. 109.1 del Decreto 347/2002 del Gobierno de Aragón (RBASO), las enajenaciones de bienes patrimoniales habrán de realizarse, como regla general, por:",
+      "exp": "Art. 109.1 RBASO: «Las enajenaciones de bienes patrimoniales habrán de realizarse, como regla general, por subasta pública, salvo que se trate de una permuta o de otros supuestos previstos legalmente». El art. 188.1 de la Ley 7/1999, de Administración Local de Aragón, dice lo mismo. Entre esos otros supuestos está la venta directa de las parcelas sobrantes y de los bienes no utilizables, con arreglo a su valoración pericial (art. 109.2 RBASO). Ni el sorteo, ni la adjudicación sin publicidad, ni la venta sin requisitos son la regla general.",
+      "fuente": "Art. 109.1 RBASO (Decreto 347/2002 de Aragón); art. 188.1 LALA (Ley 7/1999 de Aragón)"
+    },
+    "motivo": "El art. 109.1 RBEL regula la tutela autonómica, no la subasta; el texto de la pregunta es literal del art. 109.1 RBASO, de igual número. Basta cambiar la norma citada.",
+    "resumen": "Se conserva la pregunta citando el art. 109.1 del Decreto 347/2002, que es donde está literalmente esta regla.",
+    "revisor": "aprobada con cambios: se conserva como «respuesta» cambiando «del RBEL» por la norma aragonesa (texto literal del art. 109.1 RBASO); opciones y clave sin cambios.",
+    "antes_respuesta": "Subasta pública, salvo que se trate de una permuta o de otros supuestos previstos legalmente",
+    "ahora_respuesta": "Subasta pública, salvo que se trate de una permuta o de otros supuestos previstos legalmente",
+    "cita": "RBASO 109.1: «Las enajenaciones de bienes patrimoniales habrán de realizarse, como regla general, por subasta pública, salvo que se trate de una permuta o de otros supuestos previstos legalmente.»"
+  },
+  {
+    "tema": 10,
+    "q": "Según el art. 109.2 del RBEL, las parcelas sobrantes y los bienes no utilizables pueden ser enajenados por:",
+    "accion": "respuesta",
+    "nuevo": {
+      "q": "Según el art. 109.2 del Decreto 347/2002 del Gobierno de Aragón (RBASO), las parcelas sobrantes y los bienes no utilizables pueden ser enajenados por:",
+      "exp": "Art. 109.2 RBASO: «En todo caso, las parcelas sobrantes y los bienes no utilizables podrán ser enajenados por venta directa, con arreglo a su valoración pericial». Lo mismo dice el art. 188.2 de la Ley 7/1999, de Administración Local de Aragón. Es una excepción a la subasta, que no es obligatoria en este caso. No se trata de una cesión gratuita al Estado ni de una donación.",
+      "fuente": "Art. 109.2 RBASO (Decreto 347/2002 de Aragón); art. 188.2 LALA (Ley 7/1999 de Aragón)"
+    },
+    "motivo": "El art. 109.2 RBEL regula la cesión gratuita; la venta directa de parcelas sobrantes y bienes no utilizables es literal del art. 109.2 RBASO. Basta cambiar la norma citada.",
+    "resumen": "Se conserva la pregunta citando el art. 109.2 del Decreto 347/2002, que es donde está literalmente esta regla.",
+    "revisor": "aprobada con cambios: se conserva como «respuesta» cambiando «del RBEL» por la norma aragonesa (texto literal del art. 109.2 RBASO); opciones y clave sin cambios.",
+    "antes_respuesta": "Venta directa, con arreglo a su valoración pericial",
+    "ahora_respuesta": "Venta directa, con arreglo a su valoración pericial",
+    "cita": "RBASO 109.2: «En todo caso, las parcelas sobrantes y los bienes no utilizables podrán ser enajenados por venta directa, con arreglo a su valoración pericial. Las parcelas sobrantes serán ofrecidas al propietario o propietarios colindantes o permutadas con terrenos de los mismos; si fueren varios, la venta o permuta se hará de forma que las parcelas resultantes se ajusten al más racional criterio de ordenación del suelo, según dictamen técnico.»"
+  },
+  {
+    "tema": 10,
+    "q": "Según el art. 109.2 del RBEL, las parcelas sobrantes serán ofrecidas preferentemente a:",
+    "accion": "respuesta",
+    "nuevo": {
+      "q": "Según el art. 109.2 del Decreto 347/2002 del Gobierno de Aragón (RBASO), las parcelas sobrantes serán ofrecidas a:",
+      "exp": "Art. 109.2 RBASO: «Las parcelas sobrantes serán ofrecidas al propietario o propietarios colindantes o permutadas con terrenos de los mismos; si fueren varios, la venta o permuta se hará de forma que las parcelas resultantes se ajusten al más racional criterio de ordenación del suelo, según dictamen técnico». En el RBEL la regla equivalente está en el art. 115.1. No se ofrecen al primer postor de una subasta, a empresas constructoras ni al Ministerio de Hacienda.",
+      "fuente": "Art. 109.2 RBASO (Decreto 347/2002 de Aragón); art. 115.1 RBEL (RD 1372/1986)"
+    },
+    "motivo": "El art. 109.2 RBEL regula la cesión gratuita; la oferta de las parcelas sobrantes a los colindantes está en el art. 109.2 RBASO (y en el art. 115.1 RBEL). Se cambia la norma citada. Solapa en parte con la pregunta del art. 115.1 RBEL (índice 157), pero esta cita la norma aplicable en Zaragoza.",
+    "resumen": "Se conserva la pregunta citando el art. 109.2 del Decreto 347/2002 y se quita del enunciado un «preferentemente» que la norma no dice.",
+    "revisor": "aprobada con cambios: se conserva como «respuesta» cambiando la norma citada y suprimiendo «preferentemente», que no figura en el art. 109.2 RBASO; opciones y clave sin cambios.",
+    "antes_respuesta": "El propietario o propietarios colindantes",
+    "ahora_respuesta": "El propietario o propietarios colindantes",
+    "cita": "RBASO 109.2: «En todo caso, las parcelas sobrantes y los bienes no utilizables podrán ser enajenados por venta directa, con arreglo a su valoración pericial. Las parcelas sobrantes serán ofrecidas al propietario o propietarios colindantes o permutadas con terrenos de los mismos; si fueren varios, la venta o permuta se hará de forma que las parcelas resultantes se ajusten al más racional criterio de ordenación del suelo, según dictamen técnico.»"
+  },
+  {
+    "tema": 10,
+    "q": "Según el art. 110 del RBEL, los ingresos obtenidos por la enajenación de bienes patrimoniales no podrán destinarse, con carácter general, a:",
+    "accion": "respuesta",
+    "nuevo": {
+      "q": "Según el art. 110 del Decreto 347/2002 del Gobierno de Aragón (RBASO), los ingresos obtenidos por la enajenación de bienes patrimoniales no podrán destinarse, con carácter general, a:",
+      "options": [
+        "Adquirir otros bienes inmuebles para el patrimonio municipal",
+        "Invertirse en nuevas infraestructuras municipales",
+        "Financiar gastos corrientes, salvo las excepciones previstas",
+        "Amortizar deuda pública local"
+      ],
+      "correct": 2,
+      "exp": "Art. 110 RBASO: «Los ingresos obtenidos por la enajenación de bienes patrimoniales no podrán destinarse a financiar gastos corrientes, salvo que se trate de las parcelas sobrantes o efectos no utilizables a que se refiere el artículo 5 de este Reglamento». La misma regla, con excepciones equivalentes, está en el art. 5 TRLRHL. Comprar otros inmuebles, invertir en infraestructuras o amortizar deuda no son gastos corrientes, así que esos destinos están permitidos.",
+      "fuente": "Art. 110 RBASO (Decreto 347/2002 de Aragón); art. 5 TRLRHL (RDLeg 2/2004)"
+    },
+    "motivo": "El art. 110 RBEL regula la cesión gratuita; el texto de la pregunta es literal del art. 110 RBASO. Se cambia la norma citada y se sustituye un distractor dudoso (el reparto entre vecinos sería también gasto corriente).",
+    "resumen": "Se conserva la pregunta citando el art. 110 del Decreto 347/2002 y se cambia un distractor que también podía considerarse prohibido.",
+    "revisor": "aprobada con cambios: se conserva como «respuesta» cambiando la norma citada; además se sustituye el distractor «Ser repartidos entre los vecinos del municipio», que sería un gasto corriente y por tanto también estaría prohibido, por uno claramente permitido.",
+    "antes_respuesta": "Financiar gastos corrientes, salvo las excepciones previstas",
+    "ahora_respuesta": "Financiar gastos corrientes, salvo las excepciones previstas",
+    "cita": "RBASO 110: «Los ingresos obtenidos por la enajenación de bienes patrimoniales no podrán destinarse a financiar gastos corrientes, salvo que se trate de las parcelas sobrantes o efectos no utilizables a que se refiere el artículo 5 de este Reglamento.» TRLRHL 5: «Los ingresos procedentes de la enajenación o gravamen de bienes y derechos que tengan la consideración de patrimoniales no podrán destinarse a la financiación de gastos corrientes, salvo que se trate de parcelas sobrantes de vías públicas no edificables o de efectos no utilizables en servicios municipales o provinciales.»"
+  },
+  {
+    "tema": 10,
+    "q": "Según el art. 111 del RBEL, la enajenación de bienes del Patrimonio Municipal del Suelo se ajustará a:",
+    "accion": "respuesta",
+    "nuevo": {
+      "q": "Según el art. 111 del Decreto 347/2002 del Gobierno de Aragón (RBASO), la enajenación de bienes del Patrimonio Municipal del Suelo se ajustará a:",
+      "exp": "Art. 111 RBASO: «La enajenación de bienes del Patrimonio Municipal del Suelo de los municipios se ajustará a su normativa específica prevista en la legislación urbanística». El art. 6.4 RBASO añade que estos patrimonios separados se regulan, en cuanto a su constitución, bienes que lo integran, destino y cesiones, por la legislación urbanística de Aragón. No se rigen por las reglas generales de los bienes patrimoniales, ni solo por el Código Civil ni por la normativa de contratos.",
+      "fuente": "Art. 111 RBASO (Decreto 347/2002 de Aragón); art. 6.4 RBASO"
+    },
+    "motivo": "El art. 111 RBEL regula la reversión de cesiones gratuitas; el texto de la pregunta es literal del art. 111 RBASO. Basta cambiar la norma citada. Solapa con la pregunta índice 64, que pregunta lo mismo sin citar artículo.",
+    "resumen": "Se conserva la pregunta citando el art. 111 del Decreto 347/2002, que es donde está literalmente esta regla.",
+    "revisor": "aprobada con cambios: se conserva como «respuesta» cambiando «del RBEL» por la norma aragonesa (texto literal del art. 111 RBASO); opciones y clave sin cambios.",
+    "antes_respuesta": "Su normativa específica prevista en la legislación urbanística",
+    "ahora_respuesta": "Su normativa específica prevista en la legislación urbanística",
+    "cita": "RBASO 111: «La enajenación de bienes del Patrimonio Municipal del Suelo de los municipios se ajustará a su normativa específica prevista en la legislación urbanística.»"
+  },
+  {
+    "tema": 10,
+    "q": "Según la regulación básica sobre bienes patrimoniales locales (art. 79 TRRL, en línea con el art. 109 RBEL), los bienes inmuebles patrimoniales no pueden enajenarse, gravarse ni permutarse sin autorización del órgano competente de la Comunidad Autónoma cuando su valor exceda del:",
+    "accion": "enunciado",
+    "nuevo": {
+      "exp": "El art. 79.1 TRRL y el art. 109.1 RBEL exigen autorización de la Comunidad Autónoma cuando el valor del inmueble exceda del 25 por 100 de los recursos ordinarios del presupuesto anual de la Corporación. En Aragón el umbral es el mismo: el art. 186.1 de la Ley 7/1999, de Administración Local de Aragón, exige en ese caso «aprobación de la Administración de la Comunidad Autónoma de Aragón», y el art. 121 del Decreto 347/2002 (RBASO) concreta que es una «aprobación previa mediante Orden del Consejero». Además, toda enajenación, gravamen o permuta de inmuebles, cualquiera que sea su valor, se comunica al Gobierno de Aragón una vez adoptado el acuerdo y antes de ejecutarlo, para su toma de conocimiento (art. 121 RBASO, en la redacción de su corrección de errores, BOA de 24-1-2003).",
+      "fuente": "Art. 79.1 TRRL (RDLeg 781/1986); art. 109.1 RBEL (RD 1372/1986); en Aragón, art. 186.1 Ley 7/1999 y art. 121 RBASO (Decreto 347/2002)",
+      "q": "Según el art. 79.1 TRRL y el art. 109.1 RBEL, los bienes inmuebles patrimoniales no pueden enajenarse, gravarse ni permutarse sin autorización del órgano competente de la Comunidad Autónoma cuando su valor exceda del:"
+    },
+    "motivo": "Respuesta correcta (25 %). El enunciado califica de «regulación básica» el art. 79 TRRL, cuyo carácter básico no está declarado; se cita el precepto sin calificarlo. La explicación del banco atribuía al art. 79 TRRL el texto del art. 109.1 RBEL y no recogía la regla aragonesa.",
+    "resumen": "Se mantiene la respuesta (25 %); se precisa el enunciado y la explicación añade que en Aragón el control es una aprobación previa por Orden del Consejero.",
+    "revisor": "aprobada con cambios: se reformula el enunciado (el carácter básico del art. 79 TRRL es discutible: su DF 7.ª no lo enumera y para el Título VI remite a la legislación estatal vigente) y se reescribe la explicación sin la frase «la cifra es la misma» fuera de contexto.",
+    "antes_respuesta": "25 por 100 de los recursos ordinarios del presupuesto anual de la corporación",
+    "ahora_respuesta": "25 por 100 de los recursos ordinarios del presupuesto anual de la corporación",
+    "cita": "TRRL 79.1: «Toda enajenación, gravamen o permuta de bienes inmuebles habrá de comunicarse al órgano competente de la Comunidad Autónoma. Si su valor excediera del 25 por 100 de los recursos ordinarios del presupuesto anual de la Corporación requerirá, además, autorización de aquél.» RBASO 121 (corrección de errores, BOA núm. 9, 24-1-2003): «Toda enajenación, gravamen o permuta de bienes inmuebles habrá de comunicarse una vez adoptado el acuerdo correspondiente de su aprobación y previamente a la ejecución de dicho acuerdo, junto con el expediente instruido al efecto al Departamento de Presidencia y Relaciones Institucionales del Gobierno de Aragón para su toma de conocimiento»; RBASO 121 (BOA núm. 139, 25-11-2002): «cuando el valor del bien exceda del veinticinco por ciento de los recursos ordinarios del presupuesto anual de la Entidad Local, requerirá aprobación previa mediante Orden del Consejero de dicho Departamento.»"
+  },
+  {
+    "tema": 10,
+    "q": "Según la misma regulación, aun sin superar ese umbral del 25%, ¿qué obligación de información subsiste respecto a toda enajenación de bienes inmuebles locales?",
+    "accion": "enunciado",
+    "nuevo": {
+      "exp": "El art. 109.1 RBEL dispone que «se dará cuenta al órgano competente de la Comunidad Autónoma de toda enajenación de bienes inmuebles que se produzca», aunque no se supere el umbral que exige autorización; el art. 79.1 TRRL extiende la comunicación a todo gravamen o permuta. En Aragón la comunicación es igualmente general: toda enajenación, gravamen o permuta de inmuebles se comunica al Gobierno de Aragón (art. 186.1 de la Ley 7/1999) una vez adoptado el acuerdo y antes de ejecutarlo, para su toma de conocimiento (art. 121 del Decreto 347/2002, RBASO, en la redacción de su corrección de errores, BOA de 24-1-2003). Si el valor excede del 25 por 100 de los recursos ordinarios del presupuesto anual, hace falta además «aprobación previa mediante Orden del Consejero». La comunicación no depende de que la pida un vecino ni se dirige al Tribunal de Cuentas Europeo.",
+      "fuente": "Art. 79.1 TRRL (RDLeg 781/1986); art. 109.1 RBEL (RD 1372/1986); en Aragón, art. 186.1 Ley 7/1999 y art. 121 RBASO (Decreto 347/2002)",
+      "q": "Según el art. 79.1 TRRL y el art. 109.1 RBEL, aun sin superar el umbral del 25 % que exige autorización autonómica, ¿qué obligación de información subsiste respecto a toda enajenación de bienes inmuebles locales?"
+    },
+    "motivo": "Respuesta correcta y compatible con la norma aragonesa. El enunciado dependía de la pregunta anterior («la misma regulación», «ese umbral»).",
+    "resumen": "Se mantiene la respuesta; el enunciado ya no remite a «la misma regulación» de otra pregunta y la explicación recoge la regla aragonesa.",
+    "revisor": "aprobada con cambios: el enunciado decía «Según la misma regulación», que remite a otra pregunta y no se entiende al barajar; se cita la norma. Explicación reescrita.",
+    "antes_respuesta": "Se dará cuenta al órgano competente de la Comunidad Autónoma de toda enajenación que se produzca",
+    "ahora_respuesta": "Se dará cuenta al órgano competente de la Comunidad Autónoma de toda enajenación que se produzca",
+    "cita": "RBEL 109.1: «No obstante, se dará cuenta al órgano competente de la Comunidad Autónoma de toda enajenación de bienes inmuebles que se produzca.» RBASO 121 (corrección de errores, BOA núm. 9, 24-1-2003): «Toda enajenación, gravamen o permuta de bienes inmuebles habrá de comunicarse una vez adoptado el acuerdo correspondiente de su aprobación y previamente a la ejecución de dicho acuerdo, junto con el expediente instruido al efecto al Departamento de Presidencia y Relaciones Institucionales del Gobierno de Aragón para su toma de conocimiento»; RBASO 121 (BOA núm. 139, 25-11-2002): «cuando el valor del bien exceda del veinticinco por ciento de los recursos ordinarios del presupuesto anual de la Entidad Local, requerirá aprobación previa mediante Orden del Consejero de dicho Departamento.»"
+  },
+  {
+    "tema": 10,
+    "q": "Según el art. 2.3 del RBEL, en relación con el art. 79.3 LBRL, ¿qué característica adicional se atribuye a los bienes comunales, más allá de ser bienes de dominio público?",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "El art. 2.3 RBEL solo define los comunales; la inalienabilidad, inembargabilidad e imprescriptibilidad están en el art. 5 RBEL (y en el art. 80.1 LBRL; en Aragón, arts. 6.1 y 6.2 RBASO y 172 Ley 7/1999). El enunciado atribuye la regla a otro artículo y la materia ya la cubren otras preguntas del tema.",
+    "resumen": "Se retira: atribuye la regla a un artículo equivocado y la misma pregunta, bien citada, ya existe (art. 80.1 LBRL).",
+    "revisor": "aprobada: el art. 2.3 RBEL solo define los comunales. Podría salvarse citando el art. 80.1 LBRL, pero entonces repetiría la pregunta índice 224 («Según el art. 80.1 LBRL, los bienes comunales y demás bienes de dominio público son:»).",
+    "antes_respuesta": "Que son inalienables, inembargables e imprescriptibles y no sujetos a tributo alguno",
+    "ahora_respuesta": "",
+    "cita": "RBASO 6.1: «Los bienes de dominio público, mientras conserven este carácter, son inalienables, inembargables e imprescriptibles y no están sujetos a tributo alguno.» RBASO 6.2: «A los bienes comunales les será aplicable el régimen jurídico de los bienes de dominio público, sin perjuicio de las normas específicas que regulen su aprovechamiento.»"
+  },
+  {
+    "tema": 10,
+    "q": "¿Qué órgano es competente para acordar la enajenación de un bien patrimonial de una Entidad local cuando su cuantía excede del 20 por 100 de los recursos ordinarios del presupuesto?",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "La mayoría absoluta del número legal de miembros para enajenar bienes cuyo valor exceda del 20 por 100 de los recursos ordinarios del presupuesto la exigen el art. 47.2.m) LBRL y, en Aragón, el art. 126.4.ll) de la Ley 7/1999, de Administración Local de Aragón, al que remite el art. 108.3 del Decreto 347/2002 (RBASO). El 10 por 100 del art. 114 RBEL no rige. Si el valor excede además del 25 por 100, hace falta la aprobación previa de la Comunidad Autónoma (art. 186.1 Ley 7/1999; art. 121 RBASO). Esa es la regla del régimen común. En Zaragoza, municipio de gran población, la enajenación del patrimonio corresponde al Gobierno de Zaragoza (art. 14.1.g de la Ley 10/2017, de régimen especial del municipio de Zaragoza; disposición adicional segunda, apartado 11, de la LCSP, «cualquiera que sea el importe del contrato»), y el art. 47.3 LBRL remite la adopción de acuerdos al art. 123.2 LBRL, que no incluye esta mayoría. Ni la Diputación, ni el Secretario, ni el Defensor del Pueblo enajenan bienes municipales.",
+      "fuente": "Art. 47.2.m) LBRL (Ley 7/1985); art. 126.4.ll) Ley 7/1999; arts. 108.3 y 121 RBASO (Decreto 347/2002); en Zaragoza, art. 14.1.g) Ley 10/2017, art. 47.3 LBRL y DA 2.ª.11 LCSP (Ley 9/2017)"
+    },
+    "motivo": "Respuesta correcta como regla general (la pregunta habla de «una Entidad local»). La explicación debe advertir que en Zaragoza enajena el Gobierno de Zaragoza.",
+    "resumen": "Se mantiene la respuesta (régimen común) y la explicación añade que en Zaragoza enajenar el patrimonio corresponde al Gobierno de Zaragoza.",
+    "revisor": "aprobada con cambios: se añade la regla de Zaragoza (art. 14.1.g Ley 10/2017; DA 2.ª.11 LCSP) y se precisa que la mayoría del art. 47.2.m LBRL no rige en los municipios de gran población.",
+    "antes_respuesta": "El Pleno de la Corporación, con el voto favorable de la mayoría absoluta del número legal de miembros",
+    "ahora_respuesta": "El Pleno de la Corporación, con el voto favorable de la mayoría absoluta del número legal de miembros",
+    "cita": "Ley 7/1999, art. 126.4.ll): «La enajenación de bienes, si su cuantía excede del 20 por 100 de los recursos ordinarios del presupuesto.» LCSP, DA 2.ª.11: «En los municipios de gran población a que se refiere el artículo 121 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, las competencias que se describen en los apartados anteriores se ejercerán por la Junta de Gobierno Local, cualquiera que sea el importe del contrato o la duración del mismo.» Ley 10/2017, art. 14.1.g): «Las competencias ejecutivas y de gestión, en todos sus aspectos, relativas a la adquisición, gestión, administración, aprovechamiento y enajenación del patrimonio municipal y concesiones sobre los bienes, así como los acuerdos relativos a la aceptación de bienes, alteración de la calificación jurídica de los bienes, mutaciones demaniales, desafectación de bienes comunales, aprobación del inventario y sus rectificaciones anuales, y adscripción y aportación de bienes a organismos autónomos, entidades públicas empresariales y sociedades mercantiles municipales.» (corresponden al Gobierno de Zaragoza)"
+  },
+  {
+    "tema": 10,
+    "q": "Según el art. 74 del RBEL (que abre la Sección 1ª del Capítulo IV, Utilización de los bienes de dominio público), el uso de estos bienes puede ser:",
+    "accion": "respuesta",
+    "nuevo": {
+      "q": "Según el art. 72 del Decreto 347/2002 del Gobierno de Aragón (RBASO), la utilización de los bienes de dominio y uso público puede adoptar las modalidades de:",
+      "options": [
+        "Exclusivamente gratuito para los vecinos",
+        "Únicamente privativo, nunca común",
+        "Solo de carácter oneroso, sin excepción",
+        "Uso común, general o especial, y uso privativo"
+      ],
+      "correct": 3,
+      "exp": "Art. 72 RBASO: «La utilización de los bienes de dominio y uso público podrá adoptar las siguientes modalidades: a) uso común, general o especial; b) uso privativo». Igual el art. 182.1 de la Ley 7/1999, de Administración Local de Aragón. En el RBEL la clasificación de los usos está en el art. 75. El uso no es necesariamente gratuito ni oneroso, y el común es una de las modalidades.",
+      "fuente": "Art. 72 RBASO (Decreto 347/2002 de Aragón); art. 182.1 LALA (Ley 7/1999 de Aragón)"
+    },
+    "motivo": "El art. 74 RBEL no clasifica los usos; la clasificación aplicable en Zaragoza está en el art. 72 RBASO y en el art. 182.1 Ley 7/1999. Se cambia la norma citada y la clave se ajusta al texto («Común o privativo, general o especial» podía leerse como si el privativo fuera general o especial).",
+    "resumen": "Se conserva la pregunta citando el art. 72 del Decreto 347/2002, que es donde está la clasificación de usos aplicable en Zaragoza.",
+    "revisor": "aprobada con cambios: se conserva como «respuesta» citando el art. 72 RBASO (el art. 74 RBEL no clasifica los usos), se quita del enunciado la referencia a la estructura del RBEL y la clave se ajusta al texto literal.",
+    "antes_respuesta": "Común o privativo, general o especial",
+    "ahora_respuesta": "Uso común, general o especial, y uso privativo",
+    "cita": "RBASO 72: «La utilización de los bienes de dominio y uso público podrá adoptar las siguientes modalidades: a) uso común, general o especial; b) uso privativo.»"
+  },
+  {
+    "tema": 10,
+    "q": "Según el art. 96 del RBEL, ¿qué implica la explotación común o cultivo colectivo de los bienes comunales?",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "El art. 96 RBEL define la explotación común o cultivo colectivo como el disfrute general y simultáneo de los bienes por quienes ostenten en cada momento la cualidad de vecino; el art. 94.1 RBEL la impone «precisamente». En Aragón es la forma preferente, no la obligatoria: el aprovechamiento se efectuará «preferentemente en régimen de explotación colectiva y comunal» (art. 96.2 del Decreto 347/2002, RBASO; el art. 183.2 de la Ley 7/1999 dice «colectiva o comunal»). Si es impracticable, rige la costumbre u ordenanza local y, en su defecto, la adjudicación por lotes o suertes; si tampoco es posible, el Gobierno de Aragón puede autorizar la subasta (art. 97 RBASO). La expropiación, la venta a terceros o la cesión a una sociedad no son explotación común.",
+      "fuente": "Art. 96 RBEL (RD 1372/1986), en relación con el art. 94; en Aragón, arts. 96 y 97 RBASO (Decreto 347/2002) y art. 183 Ley 7/1999"
+    },
+    "motivo": "La explicación presenta como regla el «precisamente» del RBEL; la norma aragonesa dice «preferentemente» y ordena las alternativas de otra forma.",
+    "resumen": "Se mantiene la respuesta y la explicación advierte que en Aragón la explotación colectiva es «preferente», no obligatoria.",
+    "revisor": "aprobada con cambios: la explicación atribuía la cita «colectiva y comunal» también a la Ley 7/1999, que dice «colectiva o comunal».",
+    "antes_respuesta": "El disfrute general y simultáneo de los bienes por quienes ostenten en cada momento la cualidad de vecino",
+    "ahora_respuesta": "El disfrute general y simultáneo de los bienes por quienes ostenten en cada momento la cualidad de vecino",
+    "cita": "RBASO 96.2: «El aprovechamiento y disfrute de los bienes comunales se efectuará preferentemente en régimen de explotación colectiva y comunal.» RBASO 96.3: «Cuando este aprovechamiento y disfrute general simultáneo de bienes comunales fuere impracticable, regirá la costumbre u ordenanza local al respecto, y, en su defecto, se efectuarán adjudicaciones de lotes o suertes a los vecinos en proporción directa al número de familiares a su cargo e inversa a su situación económica.»"
+  },
+  {
+    "tema": 10,
+    "q": "Según los principios generales del régimen de bienes comunales, ¿puede una Entidad Local desafectar un bien comunal para convertirlo en patrimonial?",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "Sí. Toda alteración de la calificación jurídica requiere expediente en el que se acrediten su oportunidad y legalidad (art. 81.1 LBRL). Para los comunales la norma aragonesa prevé dos procedimientos. Los que no hayan sido objeto de disfrute comunal durante más de diez años pueden calificarse como patrimoniales con información pública de un mes, acuerdo del Pleno por mayoría absoluta del número legal de miembros y posterior aprobación del Consejero competente (art. 12 del Decreto 347/2002, RBASO; art. 179.1 Ley 7/1999). La desafectación para transmitir su dominio, permutarlos o ceder su uso exige acuerdo inicial del Pleno, información pública de un mes, aprobación provisional por mayoría de dos tercios del número legal de miembros y aprobación del Gobierno de Aragón (art. 13 RBASO; art. 180 Ley 7/1999). En Zaragoza, el art. 14.1.g) de la Ley 10/2017 atribuye al Gobierno de Zaragoza los acuerdos relativos a la desafectación de bienes comunales. No hace falta una ley orgánica ni la intervención del Rey.",
+      "fuente": "Art. 81.1 LBRL (Ley 7/1985); arts. 12 y 13 RBASO (Decreto 347/2002); arts. 179 y 180 Ley 7/1999; art. 14.1.g) Ley 10/2017"
+    },
+    "motivo": "La explicación trata el comunal «al igual que cualquier otro bien de dominio público»; en Aragón su desafectación tiene un procedimiento específico más exigente.",
+    "resumen": "Se mantiene la respuesta y la explicación describe los dos procedimientos aragoneses para desafectar comunales y quién decide en Zaragoza.",
+    "revisor": "aprobada con cambios: la explicación propuesta decía que «solo» pueden desafectarse los comunales sin disfrute durante diez años, pero el art. 13 RBASO prevé otra vía para transmitirlos o cederlos; se añade además que en Zaragoza decide el Gobierno de Zaragoza (art. 14.1.g Ley 10/2017).",
+    "antes_respuesta": "Sí, mediante el correspondiente expediente de alteración de la calificación jurídica, acreditando su oportunidad y legalidad",
+    "ahora_respuesta": "Sí, mediante el correspondiente expediente de alteración de la calificación jurídica, acreditando su oportunidad y legalidad",
+    "cita": "RBASO 12.2: «La desafectación requerirá tramitación de procedimiento, con información pública por plazo de un mes, acuerdo del Pleno de la Corporación adoptado con el voto favorable de la mayoría absoluta del número legal de sus miembros y posterior aprobación del Consejero de Presidencia y Relaciones Institucionales del Gobierno de Aragón.» RBASO 13.1.c): «resolución de reclamaciones y aprobación provisional por el Pleno por mayoría de los dos tercios del número legal de miembros de la Corporación». Ley 10/2017, art. 14.1.g): «Las competencias ejecutivas y de gestión, en todos sus aspectos, relativas a la adquisición, gestión, administración, aprovechamiento y enajenación del patrimonio municipal y concesiones sobre los bienes, así como los acuerdos relativos a la aceptación de bienes, alteración de la calificación jurídica de los bienes, mutaciones demaniales, desafectación de bienes comunales, aprobación del inventario y sus rectificaciones anuales, y adscripción y aportación de bienes a organismos autónomos, entidades públicas empresariales y sociedades mercantiles municipales.» (corresponden al Gobierno de Zaragoza)"
+  },
+  {
+    "tema": 10,
+    "q": "En relación con el patrimonio municipal del suelo, ¿qué característica especial tiene su enajenación respecto al régimen general de los bienes patrimoniales?",
+    "accion": "respuesta",
+    "nuevo": {
+      "exp": "La enajenación del patrimonio municipal del suelo se rige por la legislación urbanística, no por las reglas generales de los bienes patrimoniales. En Aragón lo dice el art. 111 del Decreto 347/2002 (RBASO): «La enajenación de bienes del Patrimonio Municipal del Suelo de los municipios se ajustará a su normativa específica prevista en la legislación urbanística»; el art. 6.4 RBASO remite a la legislación urbanística de Aragón, y el art. 188.3 de la Ley 7/1999 dice lo mismo de la cesión de estos bienes. En el RBEL la remisión está en el art. 16.1 (su art. 111 trata de la reversión de los bienes cedidos gratuitamente). No es un régimen idéntico al general, ni se reduce a un sorteo, ni la enajenación está prohibida.",
+      "fuente": "Arts. 111 y 6.4 RBASO (Decreto 347/2002); art. 188.3 Ley 7/1999; art. 16.1 RBEL (RD 1372/1986)",
+      "options": [
+        "Se ajusta a su normativa específica prevista en la legislación urbanística, en lugar de al régimen general de subasta",
+        "Se rige exactamente por las mismas reglas que cualquier otro bien patrimonial, sin especialidad",
+        "Solo puede realizarse mediante sorteo público entre los vecinos",
+        "Está completamente prohibida en todo caso"
+      ],
+      "correct": 0
+    },
+    "motivo": "Fuente mal citada: el art. 111 RBEL regula la reversión; el texto es del art. 111 RBASO. La clave mencionaba el «régimen general de subasta del RBEL», que en Aragón no es la norma aplicable.",
+    "resumen": "Se mantiene la respuesta, se quita de ella la mención al RBEL y se corrige la fuente (art. 111 del Decreto 347/2002).",
+    "revisor": "aprobada con cambios: la clave decía «régimen general de subasta del RBEL», cuando en Zaragoza la subasta general la fija el art. 109.1 RBASO; se suprime «del RBEL» y se precisa que el art. 188.3 Ley 7/1999 habla de la «cesión».",
+    "antes_respuesta": "Se ajusta a su normativa específica prevista en la legislación urbanística, en lugar de al régimen general de subasta del RBEL",
+    "ahora_respuesta": "Se ajusta a su normativa específica prevista en la legislación urbanística, en lugar de al régimen general de subasta",
+    "cita": "RBASO 111: «La enajenación de bienes del Patrimonio Municipal del Suelo de los municipios se ajustará a su normativa específica prevista en la legislación urbanística.»"
+  },
+  {
+    "tema": 10,
+    "q": "¿Qué excepciones al procedimiento general de subasta pública prevé el RBEL para la enajenación de bienes patrimoniales?",
+    "accion": "enunciado",
+    "nuevo": {
+      "exp": "El art. 109.1 RBASO establece la subasta pública como regla general, «salvo que se trate de una permuta o de otros supuestos previstos legalmente», y el art. 109.2 añade que «en todo caso, las parcelas sobrantes y los bienes no utilizables podrán ser enajenados por venta directa, con arreglo a su valoración pericial». La Ley 7/1999 dice lo mismo en su art. 188.1 y 188.2. En el RBEL las excepciones están en el art. 112.2 (permuta) y en el art. 115.1 (venta directa de las parcelas sobrantes a los colindantes). Ni la antigüedad del bien ni el parentesco del comprador son excepciones, y la subasta no es obligatoria en todo caso.",
+      "fuente": "Art. 109 RBASO (Decreto 347/2002 de Aragón); art. 188.1 y 188.2 LALA (Ley 7/1999 de Aragón)",
+      "q": "¿Qué excepciones al procedimiento general de subasta pública prevé el art. 109 del Decreto 347/2002 del Gobierno de Aragón (RBASO) para la enajenación de bienes patrimoniales?"
+    },
+    "motivo": "El enunciado atribuye al RBEL una lista de excepciones que incluye la venta directa de efectos no utilizables, que el RBEL no prevé; es literal del art. 109 RBASO. Fuente mal citada («Art. 109.1 RBEL», que regula la tutela autonómica).",
+    "resumen": "Se mantiene la respuesta pero la pregunta pasa a citar el art. 109 del Decreto 347/2002, porque la venta directa de bienes no utilizables no está en el RBEL.",
+    "revisor": "aprobada con cambios: con el enunciado actual («prevé el RBEL») la clave no es exacta, como reconoce la propia propuesta; se cambia la norma del enunciado al art. 109 RBASO, que recoge literalmente la permuta, los otros supuestos legales y la venta directa de parcelas sobrantes y bienes no utilizables.",
+    "antes_respuesta": "La permuta y otros supuestos previstos legalmente, como la venta directa de parcelas sobrantes o efectos no utilizables",
+    "ahora_respuesta": "La permuta y otros supuestos previstos legalmente, como la venta directa de parcelas sobrantes o efectos no utilizables",
+    "cita": "RBASO 109.1: «Las enajenaciones de bienes patrimoniales habrán de realizarse, como regla general, por subasta pública, salvo que se trate de una permuta o de otros supuestos previstos legalmente.» RBASO 109.2: «En todo caso, las parcelas sobrantes y los bienes no utilizables podrán ser enajenados por venta directa, con arreglo a su valoración pericial. Las parcelas sobrantes serán ofrecidas al propietario o propietarios colindantes o permutadas con terrenos de los mismos; si fueren varios, la venta o permuta se hará de forma que las parcelas resultantes se ajusten al más racional criterio de ordenación del suelo, según dictamen técnico.»"
+  },
+  {
+    "tema": 10,
+    "q": "¿Cómo se denomina el negocio jurídico por el cual una Entidad Local intercambia un bien patrimonial de su titularidad por otro de un particular, sin mediar subasta pública?",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "Es la permuta: intercambio de un bien patrimonial por otro, que no exige subasta. En el RBEL la regula el art. 112.2 (diferencia de valor no superior al 40 por 100). En Aragón la regulan el art. 115 del Decreto 347/2002 (RBASO) y el art. 189 de la Ley 7/1999: requiere procedimiento que acredite su necesidad o conveniencia y la equivalencia de valores, y cabe también con una diferencia de valor no superior al 50 por 100 del bien de mayor valor si se establece la compensación económica pertinente. El arrendamiento, el comodato o la expropiación no son intercambios de bienes.",
+      "fuente": "Art. 112.2 RBEL (RD 1372/1986); en Aragón, art. 115 RBASO (Decreto 347/2002) y art. 189 Ley 7/1999"
+    },
+    "motivo": "Fuente mal citada (la permuta no está en el art. 109.1 RBEL sino en el 112.2). En Aragón, además, la diferencia de valor admitida es del 50 %.",
+    "resumen": "Se mantiene la respuesta (permuta) y se corrige la fuente: art. 115 del Decreto 347/2002 y art. 189 de la Ley 7/1999.",
+    "revisor": "aprobada",
+    "antes_respuesta": "Permuta",
+    "ahora_respuesta": "Permuta",
+    "cita": "RBASO 115.2: «La permuta podrá también efectuarse si la diferencia de valores entre los bienes no es superior al cincuenta por ciento del que tenga el valor más alto y se establece la contraprestación económica pertinente.» Ley 7/1999, art. 189.1: «La permuta podrá también efectuarse si la diferencia de valores entre los bienes no es superior al 50 por 100 del que tenga el valor más alto y se establece la compensación económica pertinente.»"
+  },
+  {
+    "tema": 10,
+    "q": "¿Qué papel desempeña la Comunidad Autónoma respecto a la enajenación de bienes patrimoniales de un municipio cuando el valor del bien supera el umbral legal establecido?",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "Cuando el valor del bien supera el 25 por 100 de los recursos ordinarios del presupuesto anual, la enajenación requiere autorización previa de la Comunidad Autónoma (art. 79.1 TRRL; art. 109.1 RBEL). En Aragón el umbral es el mismo: el art. 186.1 de la Ley 7/1999, de Administración Local de Aragón, exige en ese caso «aprobación de la Administración de la Comunidad Autónoma de Aragón», y el art. 121 del Decreto 347/2002 (RBASO) concreta que es una «aprobación previa mediante Orden del Consejero». Además, toda enajenación, gravamen o permuta de inmuebles, cualquiera que sea su valor, se comunica al Gobierno de Aragón una vez adoptado el acuerdo y antes de ejecutarlo, para su toma de conocimiento (art. 121 RBASO, en la redacción de su corrección de errores, BOA de 24-1-2003). La Comunidad Autónoma no adquiere ni expropia el bien.",
+      "fuente": "Art. 79.1 TRRL (RDLeg 781/1986); art. 109.1 RBEL (RD 1372/1986); en Aragón, art. 186.1 Ley 7/1999 y art. 121 RBASO (Decreto 347/2002)"
+    },
+    "motivo": "Respuesta compatible, pero la explicación no recoge la forma aragonesa del control (aprobación previa por Orden del Consejero; toma de conocimiento en los demás casos).",
+    "resumen": "Se mantiene la respuesta y la explicación precisa que en Aragón el control es una aprobación previa por Orden del Consejero.",
+    "revisor": "aprobada con cambios: explicación reescrita para no decir «la cifra es la misma» de forma confusa y distinguir aprobación (más del 25 %) y toma de conocimiento (todas).",
+    "antes_respuesta": "Debe autorizar previamente la enajenación, al tratarse de un acto de disposición patrimonial de especial relevancia",
+    "ahora_respuesta": "Debe autorizar previamente la enajenación, al tratarse de un acto de disposición patrimonial de especial relevancia",
+    "cita": "Ley 7/1999, art. 186.1: «Toda enajenación, gravamen o permuta de bienes inmuebles habrá de comunicarse a la Diputación General de Aragón. Si su valor excediera del 25 por 100 de los recursos ordinarios del presupuesto anual de la Corporación, requerirá aprobación de la Administración de la Comunidad Autónoma de Aragón.» RBASO 121 (corrección de errores, BOA núm. 9, 24-1-2003): «Toda enajenación, gravamen o permuta de bienes inmuebles habrá de comunicarse una vez adoptado el acuerdo correspondiente de su aprobación y previamente a la ejecución de dicho acuerdo, junto con el expediente instruido al efecto al Departamento de Presidencia y Relaciones Institucionales del Gobierno de Aragón para su toma de conocimiento»; RBASO 121 (BOA núm. 139, 25-11-2002): «cuando el valor del bien exceda del veinticinco por ciento de los recursos ordinarios del presupuesto anual de la Entidad Local, requerirá aprobación previa mediante Orden del Consejero de dicho Departamento.»"
+  },
+  {
+    "tema": 10,
+    "q": "¿Qué tres grandes bloques normativos configuran, en conjunto, el régimen jurídico de los bienes de las Entidades Locales estudiado en este tema?",
+    "accion": "respuesta",
+    "nuevo": {
+      "options": [
+        "Únicamente el Código Civil",
+        "Solo la normativa urbanística estatal",
+        "La legislación básica estatal (LBRL y preceptos básicos de la LPAP), la legislación aragonesa de régimen local (Ley 7/1999 y Decreto 347/2002) y, con carácter supletorio, el RBEL",
+        "Exclusivamente las ordenanzas municipales, sin ley estatal alguna"
+      ],
+      "correct": 2,
+      "exp": "En Aragón, y por tanto en Zaragoza, el régimen de los bienes locales lo forman la legislación básica del Estado (arts. 79 a 83 LBRL y los preceptos de la LPAP que su disposición final segunda declara básicos), la legislación aragonesa (Título VI de la Ley 7/1999, de Administración Local de Aragón, y Título I del Decreto 347/2002, Reglamento de Bienes, Actividades, Servicios y Obras de las Entidades Locales de Aragón) y, solo donde esta no dice nada, el RBEL de 1986, que es supletorio. El propio art. 1.2 RBEL sitúa la legislación autonómica por delante de la estatal no básica, y el preámbulo del Decreto 347/2002 afirma que su regulación supone «el desplazamiento de los Reglamentos estatales correspondientes: el de Bienes del año 1986 y el de Servicios, aprobado en 1955». El Código Civil, la normativa urbanística o las ordenanzas, por sí solos, no configuran ese régimen.",
+      "fuente": "Arts. 79 a 83 LBRL (Ley 7/1985); DF 2.ª LPAP (Ley 33/2003); Título VI Ley 7/1999; Título I y preámbulo del Decreto 347/2002 (RBASO); art. 1.2 RBEL (RD 1372/1986)"
+    },
+    "motivo": "La opción marcada omite la legislación aragonesa, que es la que desplaza al RBEL en Zaragoza, y presenta la LPAP solo como supletoria, cuando parte de ella es básica.",
+    "resumen": "Cambia la respuesta: en Zaragoza los bienes locales se rigen por la legislación básica estatal, la ley y el reglamento aragoneses y, como supletorio, el RBEL.",
+    "revisor": "aprobada",
+    "antes_respuesta": "La LBRL (arts. 79-83), el RBEL (RD 1372/1986) y, con carácter supletorio, la LPAP (Ley 33/2003)",
+    "ahora_respuesta": "La legislación básica estatal (LBRL y preceptos básicos de la LPAP), la legislación aragonesa de régimen local (Ley 7/1999 y Decreto 347/2002) y, con carácter supletorio, el RBEL",
+    "cita": "Preámbulo del Decreto 347/2002: «Esa regulación propia va a suponer el desplazamiento de los Reglamentos estatales correspondientes: el de Bienes del año 1986 y el de Servicios, aprobado en 1955 y que no ha sido actualizado». RBEL 1.2: «c) Por la legislación que en el ámbito de sus competencias dicten las Comunidades Autónomas. d) En defecto de la legislación a que se refieren los apartados anteriores, por la legislación estatal no básica en materia de régimen local y bienes públicos.»"
+  },
+  {
+    "tema": 10,
+    "q": "¿Cuál debe ser el plazo de información pública de un expediente de alteración de la calificación jurídica?",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "Un mes. Lo exigen el art. 8.2 RBEL y, en Aragón, el art. 177.2 de la Ley 7/1999 y el art. 10 del Decreto 347/2002 (RBASO), que piden resolver el expediente «previa información pública por plazo de un mes». En el régimen común aragonés lo resuelve el Pleno, y la mayoría absoluta del número legal de miembros solo se exige si la alteración se refiere a bienes de dominio público (el RBEL la exigía en todo caso). En Zaragoza, el art. 14.1.g) de la Ley 10/2017 atribuye al Gobierno de Zaragoza los acuerdos relativos a la alteración de la calificación jurídica de los bienes.",
+      "fuente": "Art. 8.2 RBEL (RD 1372/1986); art. 10 RBASO (Decreto 347/2002); art. 177.2 Ley 7/1999; art. 14.1.g) Ley 10/2017"
+    },
+    "motivo": "Respuesta correcta, pero la explicación afirma que siempre hace falta mayoría absoluta, regla del RBEL que no rige en Aragón.",
+    "resumen": "Se mantiene la respuesta (un mes) y la explicación corrige la mayoría y quién decide en Zaragoza.",
+    "revisor": "aprobada con cambios: la explicación propuesta daba la resolución al Pleno; en Zaragoza corresponde al Gobierno de Zaragoza (art. 14.1.g Ley 10/2017).",
+    "antes_respuesta": "Un mes.",
+    "ahora_respuesta": "Un mes.",
+    "cita": "RBASO 10: «La alteración expresa de la calificación jurídica de los bienes de las Entidades locales requerirá procedimiento en el que se acredite su legalidad y oportunidad, que deberá ser resuelto por el Pleno de la Corporación, previa información pública por plazo de un mes. Si la alteración de la calificación jurídica se refiere a bienes de dominio público el acuerdo habrá de adoptarse por mayoría absoluta del número legal de miembros de la Corporación.» Ley 10/2017, art. 14.1.g): «Las competencias ejecutivas y de gestión, en todos sus aspectos, relativas a la adquisición, gestión, administración, aprovechamiento y enajenación del patrimonio municipal y concesiones sobre los bienes, así como los acuerdos relativos a la aceptación de bienes, alteración de la calificación jurídica de los bienes, mutaciones demaniales, desafectación de bienes comunales, aprobación del inventario y sus rectificaciones anuales, y adscripción y aportación de bienes a organismos autónomos, entidades públicas empresariales y sociedades mercantiles municipales.» (corresponden al Gobierno de Zaragoza)"
+  },
+  {
+    "tema": 10,
+    "q": "¿Cuál de las siguientes potestades no están asignadas a las corporaciones locales en relación con sus bienes?",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "La «autorecuperación» no figura en ninguna norma; la potestad es de recuperación de oficio. El art. 44.1 RBEL enumera cuatro potestades (investigación, deslinde, recuperación de oficio y desahucio administrativo). En Aragón son cinco: el art. 47 del Decreto 347/2002 (RBASO) y el art. 173.1 de la Ley 7/1999 añaden la potestad sancionadora.",
+      "fuente": "Art. 44.1 RBEL (RD 1372/1986); art. 47 RBASO (Decreto 347/2002); art. 173.1 Ley 7/1999"
+    },
+    "motivo": "La explicación da como completa la lista de cuatro potestades del RBEL; en Aragón son cinco (preguntado en 2025 y 2026, según t10-revision.md).",
+    "resumen": "Se mantiene la respuesta y la explicación añade la quinta potestad que reconoce Aragón: la sancionadora.",
+    "revisor": "aprobada",
+    "antes_respuesta": "La potestad de autorecuperación.",
+    "ahora_respuesta": "La potestad de autorecuperación.",
+    "cita": "RBASO 47: «Las Entidades locales gozan, respecto de sus bienes, de las siguientes potestades y prerrogativas: a) La potestad de investigación. b) La potestad de deslinde. c) La potestad de recuperación de oficio. d) La potestad de desahucio administrativo. e) La potestad sancionadora.» Ley 7/1999, art. 173.1.d): «ejercer la potestad sancionadora para la defensa de su patrimonio y para asegurar la adecuada utilización del mismo»."
+  },
+  {
+    "tema": 10,
+    "q": "¿Se admiten interdictos contra actuaciones de agentes de la autoridad en materia de recuperación de bienes?",
+    "accion": "respuesta",
+    "nuevo": {
+      "options": [
+        "No, siempre que la actuación se ajuste al procedimiento establecido.",
+        "Sí, con aprobación previa del Pleno.",
+        "Sí, siempre que la usurpación tenga menos de un año.",
+        "Sí, en cualquier caso."
+      ],
+      "correct": 0,
+      "exp": "En Aragón lo regula el art. 62.3 del Decreto 347/2002 (RBASO): «No se admitirán demandas que pretendan la tutela sumaria de la tenencia o posesión contra las actuaciones de las Entidades locales en el ejercicio de la recuperación posesoria, siempre que éstas se ajusten al procedimiento establecido». Si la actuación constituye vía de hecho, cabe recurso en los términos de la Ley de la Jurisdicción Contencioso-administrativa. En el mismo sentido, el art. 105 de la Ley 39/2015 dispone que «No se admitirán a trámite acciones posesorias contra las actuaciones de los órganos administrativos realizadas en materia de su competencia y de acuerdo con el procedimiento legalmente establecido». Esas demandas de tutela sumaria de la posesión son los antiguos interdictos. El art. 70.3 RBEL, que los excluía sin matices, es supletorio y queda desplazado. Ni la aprobación del Pleno ni el plazo de un año abren la vía de los interdictos: el año solo limita la recuperación de oficio de los bienes patrimoniales.",
+      "fuente": "Art. 62.3 RBASO (Decreto 347/2002); art. 105 Ley 39/2015; art. 70.3 RBEL (RD 1372/1986), supletorio"
+    },
+    "motivo": "La pregunta no se limita al RBEL. En Aragón la exclusión no es absoluta: solo protege las actuaciones que se ajustan al procedimiento; la vía de hecho es recurrible.",
+    "resumen": "Cambia la respuesta: no caben interdictos contra la recuperación posesoria siempre que la actuación se ajuste al procedimiento; la vía de hecho es recurrible.",
+    "revisor": "aprobada con cambios: se añade a la explicación el art. 105 de la Ley 39/2015, básico, que dice lo mismo; opciones y clave como en la propuesta.",
+    "antes_respuesta": "No, en ningún caso.",
+    "ahora_respuesta": "No, siempre que la actuación se ajuste al procedimiento establecido.",
+    "cita": "RBASO 62.3: «No se admitirán demandas que pretendan la tutela sumaria de la tenencia o posesión contra las actuaciones de las Entidades locales en el ejercicio de la recuperación posesoria, siempre que éstas se ajusten al procedimiento establecido. En el caso de que dichas actuaciones constituyan vía de hecho, serán susceptibles de recurso en los términos previstos en la Ley Reguladora de la Jurisdicción Contencioso-administrativa.» Ley 39/2015, art. 105: «No se admitirán a trámite acciones posesorias contra las actuaciones de los órganos administrativos realizadas en materia de su competencia y de acuerdo con el procedimiento legalmente establecido.»"
+  },
+  {
+    "tema": 10,
+    "q": "El uso privativo de bienes de dominio público:",
+    "accion": "respuesta",
+    "nuevo": {
+      "options": [
+        "Es libre de acuerdo con la naturaleza de los bienes.",
+        "Está sujeto siempre a licencia, aunque requiera instalaciones fijas y permanentes.",
+        "Se destina exclusivamente al Ayuntamiento.",
+        "Está sujeto a concesión si requiere instalaciones fijas y permanentes; si no, a licencia."
+      ],
+      "correct": 3,
+      "exp": "En Aragón no todo uso privativo exige concesión. El uso privativo que requiere instalaciones fijas y permanentes es el «uso privativo agravado» (art. 75.2 del Decreto 347/2002, RBASO) y está sujeto a concesión administrativa (art. 81.a RBASO); la utilización privativa normal que no requiere instalaciones fijas o permanentes está sujeta a licencia (art. 78.b RBASO). Las instalaciones desmontables o con bienes muebles no se consideran fijas y permanentes (art. 75.3 RBASO). La Ley 7/1999 lo dice en su art. 182.4: el uso privativo «está sujeto a concesión administrativa cuando requiera la implantación de instalaciones fijas y permanentes. En otro caso, podrá sujetarse a mera licencia». El art. 78.1.a) RBEL, que sometía a concesión todo uso privativo, es supletorio y no rige en este punto. El uso privativo no es libre ni queda reservado al Ayuntamiento.",
+      "fuente": "Arts. 75, 78 y 81 RBASO (Decreto 347/2002); art. 182.4 Ley 7/1999; art. 78.1.a) RBEL (RD 1372/1986), desplazado"
+    },
+    "motivo": "El enunciado es general. La respuesta marcada («sujeto a concesión») reproduce el RBEL y es falsa en Zaragoza para el uso privativo sin instalaciones fijas, que va a licencia; el distractor «licencia» era en parte cierto. Preguntado en el examen de 2025 (segunda prueba, P12 y P14, según t10-revision.md).",
+    "resumen": "Cambia la respuesta: en Zaragoza el uso privativo va a concesión si requiere instalaciones fijas y permanentes y, si no, a licencia.",
+    "revisor": "aprobada",
+    "antes_respuesta": "está sujeto a concesión administrativa.",
+    "ahora_respuesta": "Está sujeto a concesión si requiere instalaciones fijas y permanentes; si no, a licencia.",
+    "cita": "RBASO 78: «Estarán sujetas a licencia: a) la utilización común especial; b) la utilización privativa normal, cuando no requiera instalaciones fijas o permanentes.» RBASO 81: «Estarán sujetas a concesión administrativa: a) la utilización privativa normal de los bienes de dominio y uso público, cuando requiera obras o instalaciones de carácter permanente. b) la utilización anormal de los bienes.» Ley 7/1999, art. 182.4: «Está sujeto a concesión administrativa cuando requiera la implantación de instalaciones fijas y permanentes. En otro caso, podrá sujetarse a mera licencia.»"
+  },
+  {
+    "tema": 10,
+    "q": "¿Cuándo se adjudicará el disfrute de un bien comunal por lotes?",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "La adjudicación por lotes o suertes es subsidiaria del aprovechamiento común. Según el art. 94 RBEL, solo cuando el disfrute en explotación común fuere impracticable se acude al aprovechamiento peculiar o a los lotes. En Aragón el orden es: aprovechamiento preferentemente en explotación colectiva y comunal; si es impracticable, la costumbre u ordenanza local; y, en su defecto, adjudicación de lotes o suertes en proporción directa al número de familiares a cargo e inversa a la situación económica (art. 96.2 y 96.3 del Decreto 347/2002, RBASO; art. 183 Ley 7/1999).",
+      "fuente": "Art. 94.2.b) RBEL (RD 1372/1986); art. 96.2 y 96.3 RBASO (Decreto 347/2002); art. 183.2 y 183.3 Ley 7/1999"
+    },
+    "motivo": "Respuesta válida, pero en Aragón los lotes solo proceden en defecto de costumbre u ordenanza local; la explicación da la regla del RBEL («precisamente»).",
+    "resumen": "Se mantiene la respuesta y la explicación añade el orden aragonés: explotación colectiva, costumbre u ordenanza y, en su defecto, lotes.",
+    "revisor": "aprobada",
+    "antes_respuesta": "Cuando el disfrute sea impracticable en el modo común.",
+    "ahora_respuesta": "Cuando el disfrute sea impracticable en el modo común.",
+    "cita": "RBASO 96.2: «El aprovechamiento y disfrute de los bienes comunales se efectuará preferentemente en régimen de explotación colectiva y comunal.» RBASO 96.3: «Cuando este aprovechamiento y disfrute general simultáneo de bienes comunales fuere impracticable, regirá la costumbre u ordenanza local al respecto, y, en su defecto, se efectuarán adjudicaciones de lotes o suertes a los vecinos en proporción directa al número de familiares a su cargo e inversa a su situación económica.»"
+  },
+  {
+    "tema": 10,
+    "q": "Según el art. 109.1 RBEL, los bienes inmuebles patrimoniales de las entidades locales no podrán enajenarse, gravarse ni permutarse sin autorización del órgano competente de la Comunidad Autónoma cuando su valor exceda de qué porcentaje de los recursos ordinarios del presupuesto anual de la Corporación.",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "El art. 109.1 RBEL exige autorización de la Comunidad Autónoma cuando el valor del bien inmueble patrimonial exceda del 25 por 100 de los recursos ordinarios del presupuesto anual de la Corporación (igual el art. 79.1 TRRL). En Aragón el umbral es el mismo: el art. 186.1 de la Ley 7/1999, de Administración Local de Aragón, exige en ese caso «aprobación de la Administración de la Comunidad Autónoma de Aragón», y el art. 121 del Decreto 347/2002 (RBASO) concreta que es una «aprobación previa mediante Orden del Consejero». Además, toda enajenación, gravamen o permuta de inmuebles, cualquiera que sea su valor, se comunica al Gobierno de Aragón una vez adoptado el acuerdo y antes de ejecutarlo, para su toma de conocimiento (art. 121 RBASO, en la redacción de su corrección de errores, BOA de 24-1-2003).",
+      "fuente": "Art. 79.1 TRRL (RDLeg 781/1986); art. 109.1 RBEL (RD 1372/1986); en Aragón, art. 186.1 Ley 7/1999 y art. 121 RBASO (Decreto 347/2002)"
+    },
+    "motivo": "Respuesta correcta según el RBEL y con la misma cifra en Aragón, pero en Zaragoza el control es una aprobación previa por Orden del Consejero (art. 121 RBASO), y conviene decirlo.",
+    "resumen": "Se mantiene la respuesta (25 %) y la explicación añade que en Aragón el control es una aprobación previa por Orden del Consejero.",
+    "revisor": "aprobada con cambios: explicación reescrita con el mismo contenido que la del índice 32, sin la expresión confusa «la cifra es la misma, pero el control…».",
+    "antes_respuesta": "El 25 por 100",
+    "ahora_respuesta": "El 25 por 100",
+    "cita": "Ley 7/1999, art. 186.1: «Toda enajenación, gravamen o permuta de bienes inmuebles habrá de comunicarse a la Diputación General de Aragón. Si su valor excediera del 25 por 100 de los recursos ordinarios del presupuesto anual de la Corporación, requerirá aprobación de la Administración de la Comunidad Autónoma de Aragón.» RBASO 121 (corrección de errores, BOA núm. 9, 24-1-2003): «Toda enajenación, gravamen o permuta de bienes inmuebles habrá de comunicarse una vez adoptado el acuerdo correspondiente de su aprobación y previamente a la ejecución de dicho acuerdo, junto con el expediente instruido al efecto al Departamento de Presidencia y Relaciones Institucionales del Gobierno de Aragón para su toma de conocimiento»; RBASO 121 (BOA núm. 139, 25-11-2002): «cuando el valor del bien exceda del veinticinco por ciento de los recursos ordinarios del presupuesto anual de la Entidad Local, requerirá aprobación previa mediante Orden del Consejero de dicho Departamento.»"
+  },
+  {
+    "tema": 10,
+    "q": "Conforme al art. 109.1 RBEL, con independencia de que sea necesaria autorización autonómica por razón de la cuantía, ¿qué obligación existe respecto de toda enajenación de bienes inmuebles de la entidad local?",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "El art. 109.1 RBEL dispone que «se dará cuenta al órgano competente de la Comunidad Autónoma de toda enajenación de bienes inmuebles que se produzca», haga falta o no autorización. En Aragón la obligación es más amplia y más precisa: toda enajenación, gravamen o permuta de inmuebles se comunica al Gobierno de Aragón (art. 186.1 de la Ley 7/1999) una vez adoptado el acuerdo y antes de ejecutarlo, junto con el expediente, para su toma de conocimiento (art. 121 del Decreto 347/2002, RBASO, en la redacción de su corrección de errores, BOA de 24-1-2003); si el valor excede del 25 por 100 de los recursos ordinarios del presupuesto anual, hace falta además «aprobación previa mediante Orden del Consejero». No se comunica al Ministerio de Hacienda ni se publica en el BOE, y no se pide dictamen al Consejo de Estado.",
+      "fuente": "Art. 79.1 TRRL (RDLeg 781/1986); art. 109.1 RBEL (RD 1372/1986); en Aragón, art. 186.1 Ley 7/1999 y art. 121 RBASO (Decreto 347/2002)"
+    },
+    "motivo": "Respuesta correcta; la norma aragonesa precisa el momento (tras el acuerdo y antes de ejecutarlo) y la finalidad (toma de conocimiento), y extiende la comunicación a gravámenes y permutas.",
+    "resumen": "Se mantiene la respuesta y la explicación precisa cuándo y para qué se comunica en Aragón.",
+    "revisor": "aprobada con cambios: la explicación propuesta decía «En Aragón la cifra es la misma» en una pregunta que no trata de cifras; se reescribe.",
+    "antes_respuesta": "Dar cuenta al órgano competente de la Comunidad Autónoma",
+    "ahora_respuesta": "Dar cuenta al órgano competente de la Comunidad Autónoma",
+    "cita": "RBEL 109.1: «No obstante, se dará cuenta al órgano competente de la Comunidad Autónoma de toda enajenación de bienes inmuebles que se produzca.» RBASO 121 (corrección de errores, BOA núm. 9, 24-1-2003): «Toda enajenación, gravamen o permuta de bienes inmuebles habrá de comunicarse una vez adoptado el acuerdo correspondiente de su aprobación y previamente a la ejecución de dicho acuerdo, junto con el expediente instruido al efecto al Departamento de Presidencia y Relaciones Institucionales del Gobierno de Aragón para su toma de conocimiento»; RBASO 121 (BOA núm. 139, 25-11-2002): «cuando el valor del bien exceda del veinticinco por ciento de los recursos ordinarios del presupuesto anual de la Entidad Local, requerirá aprobación previa mediante Orden del Consejero de dicho Departamento.»"
+  },
+  {
+    "tema": 10,
+    "q": "El dictamen técnico exigido en el art. 110.1.e RBEL para la cesión gratuita de bienes debe asevear que estos no son necesarios para la Entidad local ni es previsible que lo sean en los próximos...",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Pregunta literal del art. 110.1.e) RBEL. En Aragón el dictamen técnico de la cesión gratuita no lleva el horizonte de diez años: el art. 119.1.d) RBASO exige que los bienes no sean precisos para planes o proyectos aprobados o en trámite ni sea previsible que sean necesarios para la Entidad local, sin plazo. La cifra que enseña no rige en Zaragoza y el enunciado no se puede adaptar.",
+    "resumen": "Se retira: los diez años del RBEL no rigen en Aragón, donde el dictamen de la cesión gratuita no fija plazo.",
+    "revisor": "aprobada",
+    "antes_respuesta": "Diez años",
+    "ahora_respuesta": "",
+    "cita": "RBASO 119.1.d): «Dictamen suscrito por técnico que asevere que los bienes no son precisos para la ejecución de planes o proyectos aprobados o en trámite ni es previsible que sean necesarios para la Entidad local.»"
+  },
+  {
+    "tema": 10,
+    "q": "Según el art. 112.2 RBEL, no será necesaria la subasta en la enajenación mediante permuta con otros bienes de carácter inmobiliario cuando, previo expediente que acredite la necesidad, la diferencia de valor entre los bienes a permutar no sea superior al...",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Pregunta literal del art. 112.2 RBEL (40 %). En Aragón la permuta cabe con una diferencia de valor de hasta el 50 % y compensación económica (art. 115.2 RBASO; art. 189.1 Ley 7/1999). Enseña una cifra que no rige en Zaragoza y que es justo la trampa del examen.",
+    "resumen": "Se retira: el 40 % del RBEL no rige en Aragón (allí es el 50 %), y esa cifra ya se pregunta citando la Ley 7/1999.",
+    "revisor": "aprobada: además, el 50 % aragonés ya se pregunta en el índice 320 (art. 189.1 Ley 7/1999).",
+    "antes_respuesta": "40 por 100 del que tenga mayor valor",
+    "ahora_respuesta": "",
+    "cita": "RBASO 115.2: «La permuta podrá también efectuarse si la diferencia de valores entre los bienes no es superior al cincuenta por ciento del que tenga el valor más alto y se establece la contraprestación económica pertinente.» Ley 7/1999, art. 189.1: «La permuta podrá también efectuarse si la diferencia de valores entre los bienes no es superior al 50 por 100 del que tenga el valor más alto y se establece la compensación económica pertinente.»"
+  },
+  {
+    "tema": 10,
+    "q": "Según el art. 114 RBEL, las enajenaciones de bienes cuyo valor exceda del ___ de los recursos ordinarios del presupuesto deberán ser acordadas con el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación.",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Pregunta literal del art. 114 RBEL (10 %). El umbral vigente para exigir mayoría absoluta en la enajenación es el 20 %: art. 47.2.m) LBRL y, en Aragón, art. 126.4.ll) Ley 7/1999, al que remite el art. 108.3 RBASO.",
+    "resumen": "Se retira: el 10 % del RBEL no rige; además, en Zaragoza la enajenación corresponde al Gobierno de Zaragoza.",
+    "revisor": "aprobada: no se salva cambiando la norma (la cifra aplicable sería el 20 %), y en Zaragoza tampoco rige esa mayoría del Pleno (art. 47.3 LBRL; arts. 11.2 y 14.1.g Ley 10/2017).",
+    "antes_respuesta": "10 por 100",
+    "ahora_respuesta": "",
+    "cita": "Ley 7/1999, art. 126.4: «Será necesario el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación para la adopción de los acuerdos siguientes: [...] ll) La enajenación de bienes, si su cuantía excede del 20 por 100 de los recursos ordinarios del presupuesto.»"
+  },
+  {
+    "tema": 10,
+    "q": "Conforme al art. 153 LPAP, los bienes y derechos patrimoniales podrán permutarse, por razones de interés público debidamente justificadas, cuando la diferencia de valor entre los bienes, según tasación, no sea superior al...",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "El art. 153 LPAP admite la permuta cuando la diferencia de valor, según tasación, no sea superior al 50 por ciento de los bienes que lo tengan mayor; si es mayor, el expediente se tramita como enajenación con pago de parte del precio en especie. Para las entidades locales aragonesas la cifra coincide: el art. 115.2 del Decreto 347/2002 (RBASO) y el art. 189.1 de la Ley 7/1999 admiten la permuta con una diferencia de valores no superior al cincuenta por ciento del bien de mayor valor, con la compensación económica pertinente. El 40 por 100 del art. 112.2 RBEL no rige en Aragón.",
+      "fuente": "Art. 153 LPAP (Ley 33/2003); en Aragón, art. 115.2 RBASO (Decreto 347/2002) y art. 189.1 Ley 7/1999"
+    },
+    "motivo": "La explicación presenta el 40 % del RBEL como el límite local; en Zaragoza el límite es el 50 %.",
+    "resumen": "Se mantiene la respuesta (50 %) y la explicación aclara que en Aragón también es el 50 %, no el 40 % del RBEL.",
+    "revisor": "aprobada",
+    "antes_respuesta": "50 por ciento del que tenga mayor valor",
+    "ahora_respuesta": "50 por ciento del que tenga mayor valor",
+    "cita": "RBASO 115.2: «La permuta podrá también efectuarse si la diferencia de valores entre los bienes no es superior al cincuenta por ciento del que tenga el valor más alto y se establece la contraprestación económica pertinente.» Ley 7/1999, art. 189.1: «La permuta podrá también efectuarse si la diferencia de valores entre los bienes no es superior al 50 por 100 del que tenga el valor más alto y se establece la compensación económica pertinente.»"
+  },
+  {
+    "tema": 10,
+    "q": "Según el art. 78.1 RBEL, estarán sujetos a concesión administrativa:",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Pregunta literal del art. 78.1 RBEL: «uso privativo» y «uso anormal» a concesión. En Aragón solo el uso privativo con instalaciones fijas y permanentes y el anormal van a concesión; el privativo sin instalaciones fijas va a licencia (arts. 78 y 81 RBASO; art. 182.4 Ley 7/1999). Es la trampa «todo uso privativo requiere concesión» del esquema del tema y no se puede corregir sin cambiar el enunciado.",
+    "resumen": "Se retira: en Aragón no todo uso privativo va a concesión; el que no tiene instalaciones fijas va a licencia.",
+    "revisor": "aprobada",
+    "antes_respuesta": "El uso privativo de bienes de dominio público y el uso anormal de los mismos",
+    "ahora_respuesta": "",
+    "cita": "RBASO 81: «Estarán sujetas a concesión administrativa: a) la utilización privativa normal de los bienes de dominio y uso público, cuando requiera obras o instalaciones de carácter permanente. b) la utilización anormal de los bienes.»"
+  },
+  {
+    "tema": 10,
+    "q": "Según el art. 79 RBEL, el plazo de duración máximo de las concesiones sobre bienes de dominio público será, con carácter general, de:",
+    "accion": "respuesta",
+    "nuevo": {
+      "q": "Según el art. 83.2 del Decreto 347/2002 del Gobierno de Aragón (RBASO), el plazo de duración máximo de las concesiones sobre bienes de dominio público será, con carácter general, de:",
+      "correct": 1,
+      "exp": "Art. 83.2 RBASO: «El plazo máximo de la concesión será de cincuenta años, salvo que disposiciones especiales señalen otro plazo menor». Es la regla de las concesiones demaniales de las entidades locales aragonesas. No hay que confundirla con los noventa y nueve años del art. 79 RBEL, que en Aragón no rige, ni con los setenta y cinco del art. 93.3 LPAP, límite máximo básico «salvo que se establezca otro menor en las normas especiales».",
+      "fuente": "Art. 83.2 RBASO (Decreto 347/2002 de Aragón); art. 93.3 LPAP (Ley 33/2003)"
+    },
+    "motivo": "Pregunta literal del art. 79 RBEL (99 años), cifra que no rige en Zaragoza. Se salva citando el art. 83.2 RBASO, cuya cifra (cincuenta años) ya figura entre las opciones.",
+    "resumen": "Se conserva la pregunta citando el Decreto 347/2002: en Aragón el plazo máximo de la concesión demanial es de cincuenta años, no noventa y nueve.",
+    "revisor": "aprobada con cambios: en vez de retirarla se conserva como «respuesta» citando el art. 83.2 RBASO; la nueva clave («Cincuenta años») ya es una de las opciones y las demás (25, 99 y 75 años) son falsas. No hay en el tema otra pregunta sobre este artículo.",
+    "antes_respuesta": "Noventa y nueve años",
+    "ahora_respuesta": "Cincuenta años",
+    "cita": "RBASO 83.2: «El plazo máximo de la concesión será de cincuenta años, salvo que disposiciones especiales señalen otro plazo menor.» LPAP 93.3: «Su plazo máximo de duración, incluidas las prórrogas, no podrá exceder de 75 años, salvo que se establezca otro menor en las normas especiales que sean de aplicación.»"
+  },
+  {
+    "tema": 10,
+    "q": "Según el art. 86.1 RBEL, en caso de discordia entre los peritos que tasaren el proyecto elegido en concurso, la discordia la resolverá:",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Pregunta literal del art. 86.1 RBEL (discordia de peritos → Jurado Provincial de Expropiación). En Aragón la discrepancia la completa un perito del Colegio Profesional y resuelve motivadamente la Corporación (art. 89.1 RBASO).",
+    "resumen": "Se retira: en Aragón la discordia de peritos no la resuelve el Jurado de Expropiación, sino la Corporación.",
+    "revisor": "aprobada",
+    "antes_respuesta": "El Jurado Provincial de Expropiación",
+    "ahora_respuesta": "",
+    "cita": "RBASO 89.1: «el proyecto elegido será tasado contradictoriamente por peritos, nombrados uno por la Corporación y otro por el adjudicatario. A la vista de los informes periciales que, en caso de discrepancias sustanciales, podrán ser completados por otro emitido por perito designado por el Colegio Profesional correspondiente, resolverá motivadamente la Corporación.»"
+  },
+  {
+    "tema": 10,
+    "q": "Según el art. 87.4 RBEL, el proyecto y las bases de la licitación de una concesión de dominio público se someterán a información pública durante:",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Pregunta literal del art. 87.4 RBEL (30 días). En Aragón la información pública del proyecto y de las bases de la concesión es por plazo no inferior a veinte días (art. 90.1 RBASO).",
+    "resumen": "Se retira: en Aragón el plazo es de veinte días como mínimo, y esa pregunta ya existe citando el Decreto 347/2002.",
+    "revisor": "aprobada: el art. 90.1 RBASO ya se pregunta en el índice 316.",
+    "antes_respuesta": "Treinta días",
+    "ahora_respuesta": "",
+    "cita": "RBASO 90.1: «El proyecto que hubiere de servir de base a la concesión y las bases de la misma se someterán a información pública por plazo no inferior a veinte días.»"
+  },
+  {
+    "tema": 10,
+    "q": "Según el art. 88.1 RBEL, el peticionario inicial de una concesión tendrá derecho de tanteo si participa en la licitación y la diferencia entre su propuesta económica y la elegida no es superior a:",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Pregunta literal del art. 88.1 RBEL (tanteo del peticionario inicial). En Aragón el derecho de tanteo solo puede ofrecerse en las bases del concurso de proyectos al adjudicatario de ese concurso (art. 86.2.c RBASO); el peticionario inicial no lo tiene por ley.",
+    "resumen": "Se retira: en Aragón el peticionario inicial no tiene derecho de tanteo.",
+    "revisor": "aprobada",
+    "antes_respuesta": "Un 10 por 100",
+    "ahora_respuesta": "",
+    "cita": "RBASO 86.2.c): «Derecho de tanteo sobre la adjudicación de la concesión, si el adjudicatario del concurso de proyectos participare en la licitación y entre la valoración de su propuesta y la de la que hubiere resultado la proposición más ventajosa no existiere diferencia superior al diez por ciento.»"
+  },
+  {
+    "tema": 10,
+    "q": "Según el art. 88.3 RBEL, el derecho de tanteo podrá ejercerse en el acto de apertura de plicas, que se prolongará al efecto:",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Pregunta literal del art. 88.3 RBEL (treinta minutos después de la adjudicación provisional). En Aragón el acto se prolonga «después de la propuesta de adjudicación», sin fijar minutos (art. 86.2.c RBASO).",
+    "resumen": "Se retira: en Aragón el tanteo no se ejerce «treinta minutos después de la adjudicación provisional».",
+    "revisor": "aprobada",
+    "antes_respuesta": "Treinta minutos después de la adjudicación provisional",
+    "ahora_respuesta": "",
+    "cita": "RBASO 86.2.c): «Podrá ejercerse este derecho en el acto de apertura de proposiciones, que se prolongará al efecto después de la propuesta de adjudicación. En el acta de la Mesa de contratación se hará constar si se hizo uso o no del derecho de tanteo.»"
+  },
+  {
+    "tema": 10,
+    "q": "Según el art. 89 RBEL, será necesario el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación para otorgar una concesión sobre bienes de dominio público cuando ésta dure más de cinco años y, además:",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Pregunta literal del art. 89 RBEL (10 %). En Aragón la mayoría absoluta para concesiones de más de cinco años se exige cuando su cuantía excede del 20 % de los recursos ordinarios (art. 82.2 RBASO; art. 126.4.h Ley 7/1999).",
+    "resumen": "Se retira: en Aragón el umbral es el 20 %, y en Zaragoza las concesiones las otorga el Gobierno de Zaragoza.",
+    "revisor": "aprobada: la cifra aplicable (20 %, art. 82.2 RBASO) no está entre las opciones; además, en Zaragoza la mayoría del Pleno no rige (art. 47.3 LBRL; art. 11.2 Ley 10/2017) y las concesiones sobre bienes son del Gobierno de Zaragoza (art. 14.1.g Ley 10/2017).",
+    "antes_respuesta": "Su cuantía exceda del 10 por 100 de los recursos ordinarios del presupuesto",
+    "ahora_respuesta": "",
+    "cita": "RBASO 82.2: «Será necesario el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación cuando la concesión tenga una duración superior a cinco años, siempre que su cuantía exceda del veinte por ciento de los recursos ordinarios del presupuesto de la Entidad.»"
+  },
+  {
+    "tema": 10,
+    "q": "Según el art. 90.1 RBEL, la garantía definitiva de la concesión, que debe constituirse dentro del plazo de los quince días siguientes a la notificación, consistirá en:",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Pregunta literal del art. 90.1 RBEL (3 %). En Aragón la garantía definitiva es del 4 % (art. 91.1 RBASO).",
+    "resumen": "Se retira: en Aragón la garantía definitiva de la concesión es del 4 %, no del 3 %.",
+    "revisor": "aprobada",
+    "antes_respuesta": "El 3 por 100 del valor del dominio público ocupado, más el presupuesto de las obras en su caso",
+    "ahora_respuesta": "",
+    "cita": "RBASO 91.1: «La garantía definitiva que habrá de constituir el adjudicatario de la concesión consistirá en el cuatro por ciento del valor del dominio público ocupado y, en su caso, del presupuesto de las obras que haya de ejecutar.»"
+  },
+  {
+    "tema": 10,
+    "q": "Según el art. 91.d) RBEL, en el supuesto de ocupación anormal de bienes de dominio público, la garantía definitiva será:",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Pregunta literal del art. 91.d) RBEL (5 % en la ocupación anormal). En Aragón la garantía definitiva del uso anormal también es del 4 % (art. 94.d RBASO).",
+    "resumen": "Se retira: en Aragón la garantía definitiva del uso anormal es del 4 %, no del 5 %.",
+    "revisor": "aprobada",
+    "antes_respuesta": "El 5 por 100 sobre las anteriores bases de valoración y presupuesto de obras",
+    "ahora_respuesta": "",
+    "cita": "RBASO 94.d): «la garantía definitiva será el cuatro por ciento sobre las anteriores bases.»"
+  },
+  {
+    "tema": 10,
+    "q": "Según el art. 92.2 RBEL, en la cesión de uso de bienes patrimoniales, el usuario habrá de satisfacer un canon no inferior a:",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "El art. 92.2 RBEL fija un canon «en todo caso» no inferior al 6 por 100 del valor en venta. En Aragón la cifra es la misma, pero como regla general y con excepción: el art. 100.2 del Decreto 347/2002 (RBASO) exige un precio no inferior al seis por ciento del valor en venta y exceptúa la cesión por motivos sociales del art. 102, que puede ser gratuita o con la contraprestación que se convenga, a favor de Administraciones y entidades públicas o privadas sin ánimo de lucro para fines de utilidad pública o interés social.",
+      "fuente": "Art. 92.2 RBEL (RD 1372/1986); arts. 100.2 y 102 RBASO (Decreto 347/2002)"
+    },
+    "motivo": "Respuesta correcta (6 %), pero la explicación dice «en todo caso»; en Aragón hay una excepción expresa, preguntada en el examen de 2026 (segundo ejercicio, P3, según t10-revision.md).",
+    "resumen": "Se mantiene la respuesta (6 %) y la explicación advierte que en Aragón hay una excepción para la cesión por motivos sociales.",
+    "revisor": "aprobada",
+    "antes_respuesta": "El 6 por 100 del valor en venta de los bienes",
+    "ahora_respuesta": "El 6 por 100 del valor en venta de los bienes",
+    "cita": "RBASO 100.2: «Como regla general, el usuario habrá de satisfacer un precio que no podrá ser inferior al seis por ciento del valor en venta de los bienes. Se exceptúa el supuesto previsto en el artículo 102 de este Reglamento.»"
+  },
+  {
+    "tema": 10,
+    "q": "Según el art. 93.2 RBEL, corresponderá a la Corporación:",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "El art. 93.2 RBEL atribuye a la Corporación acordar y ejecutar por sí misma el desahucio de las viviendas cedidas a su personal. El Decreto 347/2002 (RBASO) no regula este supuesto, así que el precepto se aplica como supletorio. En Aragón la potestad de desahucio administrativo se configura, con carácter general, para recuperar bienes de dominio público cuando se extinguen los derechos constituidos sobre ellos «en virtud de autorización, concesión o cualquier otro título» (art. 173.1.e de la Ley 7/1999; art. 64 RBASO); requiere audiencia de los interesados y el plazo para desalojar no puede ser inferior a un mes (arts. 65 y 66 RBASO). La Corporación no tiene que esperar al abandono voluntario, ni acudir a los tribunales, ni delegar en la Comunidad Autónoma.",
+      "fuente": "Art. 93.2 RBEL (RD 1372/1986), supletorio; art. 173.1.e) Ley 7/1999; arts. 64 a 66 RBASO (Decreto 347/2002)"
+    },
+    "motivo": "La pregunta es literal del RBEL y no se contradice, pero la explicación no advierte de que en Aragón el desahucio administrativo está previsto para bienes de dominio público.",
+    "resumen": "Se mantiene la respuesta y la explicación aclara cómo es el desahucio administrativo en Aragón.",
+    "revisor": "aprobada con cambios: se quita «El acuerdo lo adopta el Pleno» (en Zaragoza la gestión patrimonial es del Gobierno de Zaragoza, art. 14.1.g Ley 10/2017, y no es necesario para la pregunta) y se precisa que el RBASO no regula el desahucio de las viviendas del personal.",
+    "antes_respuesta": "Acordar y ejecutar por sí misma el desahucio",
+    "ahora_respuesta": "Acordar y ejecutar por sí misma el desahucio",
+    "cita": "RBASO 64: «Cuando se extingan los derechos constituidos sobre los bienes de dominio público en virtud de autorización, concesión o cualquier otro título, las Entidades locales podrán recuperar la posesión de dichos bienes por vía administrativa, mediante el ejercicio de sus facultades coercitivas a través del desahucio administrativo.»"
+  },
+  {
+    "tema": 10,
+    "q": "Según el art. 94.1 RBEL, el aprovechamiento y disfrute de los bienes comunales se efectuará precisamente en régimen de:",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "El art. 94.1 RBEL dice que el aprovechamiento de los comunales se efectuará «precisamente en régimen de explotación común o cultivo colectivo». En Aragón la fórmula es otra: «preferentemente en régimen de explotación colectiva y comunal» (art. 96.2 del Decreto 347/2002, RBASO; el art. 183.2 de la Ley 7/1999 dice «colectiva o comunal»). Si es impracticable, rige la costumbre u ordenanza local y, en su defecto, los lotes o suertes. La concesión, el arrendamiento a terceros o la subasta permanente no son la forma ordinaria de aprovechamiento.",
+      "fuente": "Art. 94.1 RBEL (RD 1372/1986); art. 96.2 RBASO (Decreto 347/2002); art. 183.2 Ley 7/1999"
+    },
+    "motivo": "El enunciado recoge el «precisamente» del RBEL; la norma aplicable en Zaragoza dice «preferentemente». La clave sirve, pero hay que advertir la diferencia, que es una trampa habitual.",
+    "resumen": "Se mantiene la respuesta y la explicación advierte que en Aragón la explotación colectiva es «preferente», no «precisa».",
+    "revisor": "aprobada con cambios: la explicación atribuía la cita «colectiva y comunal» también a la Ley 7/1999, que dice «colectiva o comunal».",
+    "antes_respuesta": "Explotación común o cultivo colectivo",
+    "ahora_respuesta": "Explotación común o cultivo colectivo",
+    "cita": "RBASO 96.2: «El aprovechamiento y disfrute de los bienes comunales se efectuará preferentemente en régimen de explotación colectiva y comunal.» RBASO 96.3: «Cuando este aprovechamiento y disfrute general simultáneo de bienes comunales fuere impracticable, regirá la costumbre u ordenanza local al respecto, y, en su defecto, se efectuarán adjudicaciones de lotes o suertes a los vecinos en proporción directa al número de familiares a su cargo e inversa a su situación económica.»"
+  },
+  {
+    "tema": 10,
+    "q": "Según el art. 8.2 RBEL, el expediente de alteración de la calificación jurídica de los bienes deberá resolverse, previa información pública durante un mes, por la Corporación local mediante acuerdo adoptado con:",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Pregunta literal del art. 8.2 RBEL (mayoría absoluta para toda alteración de calificación). En Aragón la resuelve el Pleno y la mayoría absoluta solo se exige si afecta a bienes de dominio público (art. 10 RBASO; art. 177.2 Ley 7/1999; también art. 47.2.n LBRL). La clave enseña una regla que no rige en Zaragoza para los bienes patrimoniales.",
+    "resumen": "Se retira: en Aragón la mayoría absoluta solo se exige si la alteración afecta a bienes de dominio público, y en Zaragoza decide el Gobierno de Zaragoza.",
+    "revisor": "aprobada: no se salva cambiando la norma (el art. 10 RBASO limita la mayoría a los bienes de dominio público); además, en Zaragoza el acuerdo es del Gobierno de Zaragoza (art. 14.1.g Ley 10/2017).",
+    "antes_respuesta": "El voto favorable de la mayoría absoluta del número legal de miembros de la Corporación",
+    "ahora_respuesta": "",
+    "cita": "RBASO 10: «La alteración expresa de la calificación jurídica de los bienes de las Entidades locales requerirá procedimiento en el que se acredite su legalidad y oportunidad, que deberá ser resuelto por el Pleno de la Corporación, previa información pública por plazo de un mes. Si la alteración de la calificación jurídica se refiere a bienes de dominio público el acuerdo habrá de adoptarse por mayoría absoluta del número legal de miembros de la Corporación.»"
+  },
+  {
+    "tema": 10,
+    "q": "Conforme al art. 11.1 RBEL, se requerirá informe del órgano estatal o autonómico competente para adquirir onerosamente bienes de valor histórico o artístico cuando su importe exceda:",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Pregunta literal del art. 11.1 RBEL (umbral del 1 %). En Aragón el informe autonómico se exige al adquirir bienes históricos o artísticos cuya transmisión deba notificarse según la legislación del patrimonio cultural aragonés, sin ese umbral (art. 17.4 RBASO).",
+    "resumen": "Se retira: el umbral del 1 % del RBEL no rige en Aragón.",
+    "revisor": "aprobada",
+    "antes_respuesta": "Del 1 por 100 de los recursos ordinarios del Presupuesto de la Corporación o del límite general de contratación directa en suministros",
+    "ahora_respuesta": "",
+    "cita": "RBASO 17.4: «Cuando se trate de adquisición de bienes históricos o artísticos cuya transmisión deba ser notificada a la Administración autonómica, según la legislación del patrimonio cultural aragonés, deberá solicitarse informe del órgano autonómico correspondiente.»"
+  },
+  {
+    "tema": 10,
+    "q": "Según el art. 16.2 RBEL, los bienes patrimoniales que resultaren calificados como suelo urbano o urbanizable programado en el planeamiento urbanístico quedarán:",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Pregunta literal del art. 16.2 RBEL («suelo urbano o urbanizable programado»). En Aragón los bienes que integran el patrimonio municipal del suelo los determina la legislación urbanística aragonesa (art. 6.4 RBASO), y la categoría «urbanizable programado» ya no existe.",
+    "resumen": "Se retira: en Aragón los bienes del patrimonio municipal del suelo los determina la legislación urbanística aragonesa, y el «urbanizable programado» ya no existe.",
+    "revisor": "aprobada",
+    "antes_respuesta": "Afectos al Patrimonio Municipal del Suelo",
+    "ahora_respuesta": "",
+    "cita": "RBASO 6.4: «Los Patrimonios Municipales del Suelo, como patrimonios separados, se regulan en cuanto a su constitución, bienes que lo integran, destino y cesiones por lo dispuesto en la legislación urbanística de Aragón.»"
+  },
+  {
+    "tema": 10,
+    "q": "Según el art. 31 RBEL, de los inventarios separados previstos en el art. 17, párrafo segundo, deben conservarse ejemplares en:",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Pregunta literal del art. 31 RBEL (ejemplares en la Entidad, en la Corporación, en el Estado y en la Comunidad Autónoma). En Aragón el inventario separado se une como anexo al general de la Entidad local y otro ejemplar queda en la entidad respectiva; no se prevé ejemplar para el Estado (art. 25.3 RBASO).",
+    "resumen": "Se retira: en Aragón el inventario separado no se envía al Estado.",
+    "revisor": "aprobada",
+    "antes_respuesta": "La Entidad respectiva, las oficinas de la Corporación, y en poder de la Administración del Estado y de la Comunidad Autónoma",
+    "ahora_respuesta": "",
+    "cita": "RBASO 25.3: «Un ejemplar de los inventarios separados se unirá como anexo al general de la Entidad local, y otro quedará en la entidad respectiva.»"
+  },
+  {
+    "tema": 10,
+    "q": "Según el art. 44.1 RBEL, ¿cuáles son las potestades que corresponden a los Municipios, Provincias e Islas en relación con sus bienes?",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Pregunta literal del art. 44.1 RBEL (cuatro potestades). En Aragón son cinco: se añade la sancionadora (art. 47 RBASO; art. 173.1 Ley 7/1999), y es justo lo que se preguntó en 2025 y 2026. La clave enseña una lista incompleta para Zaragoza.",
+    "resumen": "Se retira: en Aragón las potestades sobre los bienes son cinco (se añade la sancionadora), no cuatro.",
+    "revisor": "aprobada",
+    "antes_respuesta": "Investigación, deslinde, recuperación de oficio y desahucio administrativo",
+    "ahora_respuesta": "",
+    "cita": "RBASO 47: «Las Entidades locales gozan, respecto de sus bienes, de las siguientes potestades y prerrogativas: a) La potestad de investigación. b) La potestad de deslinde. c) La potestad de recuperación de oficio. d) La potestad de desahucio administrativo. e) La potestad sancionadora.» Ley 7/1999, art. 173.1.d): «ejercer la potestad sancionadora para la defensa de su patrimonio y para asegurar la adecuada utilización del mismo»."
+  },
+  {
+    "tema": 10,
+    "q": "Según el art. 47 RBEL, para que se admita la denuncia presentada por un particular en un expediente de investigación, este debe anticipar el importe de los gastos en una cuantía que:",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Pregunta literal del art. 47 RBEL (entre 10.000 y 100.000 pesetas). En Aragón el anticipo es «en la cuantía que se estime necesaria, según valoración técnica», sin límites (art. 49.1.b RBASO).",
+    "resumen": "Se retira: las cuantías en pesetas del RBEL no rigen en Aragón.",
+    "revisor": "aprobada",
+    "antes_respuesta": "No será menor de 10.000 pesetas ni excederá de 100.000",
+    "ahora_respuesta": "",
+    "cita": "RBASO 49.1.b): «por denuncia de los particulares, que sólo será admisible si el denunciante anticipa el importe de los gastos en la cuantía que se estime necesaria, según valoración técnica que se realice al efecto, a reserva de la obligación de la Entidad local de justificar detalladamente los gastos efectuados.»"
+  },
+  {
+    "tema": 10,
+    "q": "Según el art. 49.1 RBEL, el acuerdo de iniciación del expediente de investigación se publicará en el Boletín Oficial de la provincia y del municipio, exponiéndose además en el tablón de anuncios de la Corporación durante:",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "El art. 49.1 RBEL ordena publicar el acuerdo de iniciación en el Boletín Oficial de la provincia y en el del municipio y exponerlo en el tablón de anuncios durante quince días; después, su art. 50 abre un mes de alegaciones. En Aragón el plazo es también de quince días, pero cambia lo demás: el acuerdo se publica en el «Boletín Oficial de Aragón» y se expone en el tablón de anuncios por plazo de quince días, «al objeto de que las personas afectadas por el procedimiento puedan alegar por escrito ante la Entidad local cuanto estimen conveniente a su derecho» (art. 50.1 del Decreto 347/2002, RBASO). Es decir, en Aragón esos quince días son ya el plazo de alegaciones.",
+      "fuente": "Art. 49.1 RBEL (RD 1372/1986); art. 50.1 RBASO (Decreto 347/2002)"
+    },
+    "motivo": "La cifra coincide, pero en Aragón el boletín es el BOA y los quince días son ya el plazo de alegaciones; la explicación del RBEL induce a sumar un mes más.",
+    "resumen": "Se mantiene la respuesta (quince días) y la explicación aclara que en Aragón se publica en el BOA y esos quince días son ya el plazo de alegaciones.",
+    "revisor": "aprobada con cambios: se quita «Resuelve el Pleno» (art. 52 RBASO), que no hace falta y en Zaragoza es dudoso por la Ley 10/2017.",
+    "antes_respuesta": "Quince días",
+    "ahora_respuesta": "Quince días",
+    "cita": "RBASO 50.1: «El acuerdo de iniciación del procedimiento de investigación [...] se publicará en el «Boletín Oficial de Aragón», exponiéndose un ejemplar en el tablón de anuncios y, en su caso, en el Boletín informativo de la Entidad local en que radiquen los bienes o derechos, por plazo de quince días, al objeto de que las personas afectadas por el procedimiento puedan alegar por escrito ante la Entidad local cuanto estimen conveniente a su derecho [...]»"
+  },
+  {
+    "tema": 10,
+    "q": "Según el art. 50 RBEL, ¿de qué plazo disponen las personas afectadas por el expediente de investigación para alegar por escrito ante la Corporación, contado desde que termine la publicación de anuncios en el tablón?",
+    "accion": "retirar",
+    "nuevo": {},
+    "motivo": "Pregunta literal del art. 50 RBEL (un mes de alegaciones tras la exposición). En Aragón las alegaciones se presentan dentro de los quince días de exposición del anuncio (art. 50.1 RBASO); la cifra que enseña no rige en Zaragoza.",
+    "resumen": "Se retira: en Aragón no hay un mes de alegaciones, y el plazo aragonés de quince días ya se pregunta citando el Decreto 347/2002.",
+    "revisor": "aprobada: el art. 50.1 RBASO ya se pregunta en el índice 309.",
+    "antes_respuesta": "Un mes",
+    "ahora_respuesta": "",
+    "cita": "RBASO 50.1: «El acuerdo de iniciación del procedimiento de investigación [...] se publicará en el «Boletín Oficial de Aragón», exponiéndose un ejemplar en el tablón de anuncios y, en su caso, en el Boletín informativo de la Entidad local en que radiquen los bienes o derechos, por plazo de quince días, al objeto de que las personas afectadas por el procedimiento puedan alegar por escrito ante la Entidad local cuanto estimen conveniente a su derecho [...]»"
+  },
+  {
+    "tema": 10,
+    "q": "Según el art. 61.1 RBEL, el deslinde se anunciará en el Boletín Oficial de la provincia, del municipio y en el tablón de anuncios del Ayuntamiento, con qué antelación a la fecha fijada para iniciar las operaciones:",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "El art. 61.1 RBEL exige anunciar el deslinde en el Boletín Oficial de la provincia, en el del municipio y en el tablón de anuncios con sesenta días de antelación a la fecha fijada para iniciar las operaciones. En Aragón la antelación es también de sesenta días como mínimo, pero el anuncio se publica en el «Boletín Oficial de Aragón» y en el tablón de anuncios de la Entidad local (art. 57.1 del Decreto 347/2002, RBASO).",
+      "fuente": "Art. 61.1 RBEL (RD 1372/1986); art. 57.1 RBASO (Decreto 347/2002)"
+    },
+    "motivo": "Respuesta correcta (sesenta días); conviene advertir que en Aragón el boletín es el BOA.",
+    "resumen": "Se mantiene la respuesta (sesenta días) y la explicación advierte que en Aragón el anuncio va al BOA.",
+    "revisor": "aprobada con cambios: se quita «La aprobación definitiva del deslinde corresponde al Pleno» (art. 60.1 RBASO), innecesaria y dudosa en Zaragoza, y se añade que la antelación es «mínima».",
+    "antes_respuesta": "Sesenta días",
+    "ahora_respuesta": "Sesenta días",
+    "cita": "RBASO 57.1: «el deslinde se anunciará en el «Boletín Oficial de Aragón» y en el tablón de anuncios de la Entidad local, con sesenta días de antelación mínima a la fecha fijada para el inicio de las operaciones.»"
+  },
+  {
+    "tema": 11,
+    "q": "¿Qué principio general y ampliamente reconocido rige en cuanto a la posibilidad de gestión indirecta de los servicios públicos locales que impliquen ejercicio de autoridad?",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "Los servicios que implican ejercicio de autoridad solo pueden gestionarse de forma directa. Lo dice el art. 95.1 TRRL y, en Aragón, el art. 206.1 de la Ley 7/1999, de Administración Local de Aragón: «En ningún caso podrán prestarse por gestión indirecta los servicios públicos que impliquen ejercicio de autoridad». El Decreto 347/2002 (RBASO) va más allá en su art. 232.2: se prestan «por gestión directa de la propia Entidad sin órgano especial». El art. 85.3 LBRL, que contenía una regla equivalente, fue suprimido por la Ley 27/2013; el art. 9.2 TRLEBEP reserva a los funcionarios las funciones que implican ejercicio de potestades públicas. Ni la sociedad mixta ni la gestión indirecta caben para estos servicios.",
+      "fuente": "Art. 95.1 TRRL (RDLeg 781/1986); art. 206.1 Ley 7/1999; art. 232.2 RBASO (Decreto 347/2002); art. 9.2 TRLEBEP (RDLeg 5/2015)"
+    },
+    "motivo": "Respuesta correcta; falta la norma aragonesa, que lo dice expresamente y añade que estos servicios los presta la propia Entidad sin órgano especial.",
+    "resumen": "Se mantiene la respuesta y la explicación añade la regla aragonesa: estos servicios los presta la propia entidad, sin órgano especial.",
+    "revisor": "aprobada",
+    "antes_respuesta": "No pueden prestarse por gestión indirecta, debiendo prestarse siempre mediante gestión directa",
+    "ahora_respuesta": "No pueden prestarse por gestión indirecta, debiendo prestarse siempre mediante gestión directa",
+    "cita": "Ley 7/1999, art. 206.1: «En ningún caso podrán prestarse por gestión indirecta los servicios públicos que impliquen ejercicio de autoridad.» RBASO 232.2: «Los servicios que impliquen ejercicio de autoridad serán prestados por gestión directa de la propia Entidad sin órgano especial.»"
+  },
+  {
+    "tema": 11,
+    "q": "Según el art. 86.2 de la LBRL, la efectiva ejecución de actividades reservadas en régimen de monopolio requiere, además del acuerdo del Pleno de la Corporación local:",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "Art. 86.2, párrafo segundo, LBRL: la efectiva ejecución de las actividades reservadas en régimen de monopolio requiere, además del acuerdo del Pleno, «la aprobación por el órgano competente de la Comunidad Autónoma». En Aragón ese órgano es el Gobierno de Aragón, que debe resolver en el plazo de tres meses desde la recepción del expediente completo; si no resuelve, se entiende aprobado (art. 205.4 de la Ley 7/1999; art. 227 del Decreto 347/2002, RBASO). Su decisión versa sobre la concurrencia de las circunstancias de interés público que justifican excluir la iniciativa privada. El acuerdo plenario por sí solo no basta, y no intervienen ni las Cortes Generales ni un referéndum.",
+      "fuente": "Art. 86.2, párrafo segundo, LBRL (Ley 7/1985); art. 205.4 Ley 7/1999; art. 227 RBASO (Decreto 347/2002)"
+    },
+    "motivo": "Respuesta correcta; en Zaragoza el órgano autonómico es el Gobierno de Aragón, con plazo de tres meses y silencio positivo.",
+    "resumen": "Se mantiene la respuesta y la explicación concreta que en Aragón aprueba el Gobierno de Aragón, en tres meses y con silencio positivo.",
+    "revisor": "aprobada con cambios: se quita la mención a la mayoría absoluta del Pleno, que no hace falta para la pregunta y en Zaragoza es dudosa (art. 47.3 LBRL; art. 11.2 Ley 10/2017).",
+    "antes_respuesta": "La aprobación por el órgano competente de la Comunidad Autónoma",
+    "ahora_respuesta": "La aprobación por el órgano competente de la Comunidad Autónoma",
+    "cita": "Ley 7/1999, art. 205.4: «Cuando los servicios reservados se presten en régimen de monopolio, el acuerdo del Pleno deberá adoptarse por mayoría absoluta del número legal de miembros de la Corporación, y requerirá la aprobación del Gobierno de Aragón [...] La resolución del Gobierno de Aragón deberá adoptarse en el plazo de tres meses desde la recepción del expediente completo, entendiéndose aprobada si no hay resolución expresa en dicho plazo.» RBASO 226.2: «El acuerdo de aprobación por el Pleno de la Corporación habrá de adoptarse por mayoría absoluta del número legal de sus miembros.»"
+  },
+  {
+    "tema": 11,
+    "q": "¿Qué quórum exige, con carácter general, la aprobación por el Pleno de la municipalización de actividades en régimen de monopolio?",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "Mayoría absoluta del número legal de miembros. La exigen el art. 47.2.k) LBRL y, en Aragón, los arts. 126.4.i) y 205.4 de la Ley 7/1999 y el art. 226.2 del Decreto 347/2002 (RBASO); además hace falta la aprobación del Gobierno de Aragón, que se entiende otorgada si no resuelve en tres meses. Es la regla general. En los municipios de gran población, como Zaragoza, el art. 47.3 LBRL remite al art. 123.2 LBRL, que no incluye esta materia, y el art. 11.2 de la Ley 10/2017, de régimen especial del municipio de Zaragoza, solo exige la mayoría absoluta del Pleno «para la adopción de los acuerdos establecidos en la legislación básica».",
+      "fuente": "Art. 47.2.k) LBRL (Ley 7/1985); arts. 126.4.i) y 205.4 Ley 7/1999; art. 226.2 RBASO (Decreto 347/2002); para Zaragoza, art. 47.3 LBRL y art. 11.2 Ley 10/2017"
+    },
+    "motivo": "La explicación solo cita el art. 47.2.k) LBRL, que no rige en los municipios de gran población. En Zaragoza la mayoría absoluta viene de la Ley 7/1999 y del RBASO.",
+    "resumen": "Se mantiene la respuesta (mayoría absoluta, regla general) y la explicación advierte del régimen distinto de los municipios de gran población como Zaragoza.",
+    "revisor": "aprobada con cambios: la explicación propuesta daba a entender que en Zaragoza la mayoría absoluta la impone la Ley 7/1999; pero el art. 11.2 de la Ley 10/2017 (que prevalece sobre las leyes sectoriales autonómicas, DA 1.ª.1) solo exige mayoría absoluta para los acuerdos de la legislación básica. Se presenta como regla general y se citan literalmente las normas de Zaragoza.",
+    "antes_respuesta": "Mayoría absoluta del número legal de miembros de la Corporación",
+    "ahora_respuesta": "Mayoría absoluta del número legal de miembros de la Corporación",
+    "cita": "Ley 7/1999, art. 126.4.i): «El ejercicio de actividades económicas en régimen de monopolio y la aprobación de la forma concreta de gestión del servicio correspondiente.» RBASO 226.2: «El acuerdo de aprobación por el Pleno de la Corporación habrá de adoptarse por mayoría absoluta del número legal de sus miembros.» Ley 10/2017, art. 11.2: «Con carácter general los acuerdos se adoptarán por mayoría simple de votos. Se requerirá el voto favorable de la mayoría absoluta del número legal de miembros del Pleno, para la adopción de los acuerdos establecidos en la legislación básica.»"
+  },
+  {
+    "tema": 11,
+    "q": "¿Qué órgano tiene competencia, dentro de la Entidad Local, para adoptar el acuerdo inicial de reserva de una actividad o servicio esencial en régimen de monopolio?",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "Corresponde al Pleno: la efectiva ejecución en monopolio requiere el «acuerdo de aprobación del pleno» y la aprobación del órgano competente de la Comunidad Autónoma (art. 86.2, párrafo segundo, LBRL). En Aragón el procedimiento empieza con el «Acuerdo inicial del Pleno» (art. 205.2.a de la Ley 7/1999), y la ejecución en monopolio requiere la aprobación del Gobierno de Aragón (art. 205.4 de la Ley 7/1999; art. 227 del Decreto 347/2002, RBASO). En Zaragoza, el art. 11.1.k) de la Ley 10/2017 atribuye al Pleno «la aprobación de los expedientes de municipalización», y su art. 51 regula un procedimiento propio para el ejercicio de actividades económicas y la determinación de las formas de gestión, en el que el proyecto lo aprueba el Gobierno de Zaragoza y la aprobación final corresponde al Pleno. Ni el Alcalde en solitario, ni el Secretario, ni un juzgado adoptan este acuerdo.",
+      "fuente": "Art. 86.2 LBRL (Ley 7/1985); art. 205.2.a) y 205.4 Ley 7/1999; art. 227 RBASO (Decreto 347/2002); arts. 11.1.k) y 51 Ley 10/2017"
+    },
+    "motivo": "Respuesta correcta; la explicación se apoya en el art. 47.2.k) LBRL, que no rige en Zaragoza, y omite la regulación aragonesa.",
+    "resumen": "Se mantiene la respuesta (Pleno) y la explicación recoge la regulación aragonesa y la de Zaragoza.",
+    "revisor": "aprobada con cambios: se quita que «el Pleno designa la comisión especial» (art. 226.1.a RBASO): en Zaragoza el art. 51 de la Ley 10/2017 prevé una comisión designada por el Alcalde y la aprobación del proyecto por el Gobierno de Zaragoza; también se quita la mayoría absoluta, dudosa en Zaragoza.",
+    "antes_respuesta": "El Pleno de la Corporación local",
+    "ahora_respuesta": "El Pleno de la Corporación local",
+    "cita": "Ley 7/1999, art. 205.2.a): «Acuerdo inicial del Pleno.» Ley 10/2017, art. 11.1.k): «La determinación de las formas de gestión de los servicios, así como el acuerdo de creación de organismos autónomos, de entidades públicas empresariales y de sociedades mercantiles para la gestión de los servicios de competencia municipal, y la aprobación de los expedientes de municipalización.» Ley 10/2017, art. 51.1.c) y f): «Aprobación del proyecto por el Gobierno de Zaragoza.» «Aprobación por el Pleno, en acto único, con resolución de las reclamaciones y alegaciones presentadas.»"
+  },
+  {
+    "tema": 11,
+    "q": "¿Qué es un 'bando' del Alcalde, como medio de intervención mencionado en el art. 84.1 a) LBRL?",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "El bando lo dicta el Alcalde: art. 21.1.e) LBRL en el régimen común y, en Zaragoza, municipio de gran población, art. 124.4.g) LBRL y art. 12.1.g) de la Ley 10/2017 («Dictar bandos, decretos e instrucciones»). Es una competencia indelegable (art. 124.5 LBRL; art. 12.2 Ley 10/2017; art. 135 del Decreto 347/2002, RBASO, salvo sustitución o suplencia). El art. 134 RBASO concreta su objeto: «exhortar a los ciudadanos a la observancia de las obligaciones y deberes establecidos en las leyes y en las ordenanzas y reglamentos municipales, actualizar sus mandatos cuando se produzcan las situaciones que contemplen, recordar el contenido preciso de dichas obligaciones y los plazos establecidos para su cumplimiento, así como efectuar convocatorias populares con motivo de acontecimientos ciudadanos o, en su caso, hacer frente a situaciones de catástrofe o extraordinarias». Hay bandos ordinarios y extraordinarios; estos se dictan en casos de catástrofe o infortunio públicos o grave riesgo, y de ellos se da cuenta inmediata al Pleno (art. 136 RBASO). No es una licencia, un contrato ni un recurso.",
+      "fuente": "Arts. 84.1.a), 21.1.e), 124.4.g) y 124.5 LBRL (Ley 7/1985); art. 12.1.g) y 12.2 Ley 10/2017; arts. 134 a 136 RBASO (Decreto 347/2002)"
+    },
+    "motivo": "La explicación presenta el bando como instrumento para «regular» asuntos menores; la norma aragonesa lo configura sobre todo como recordatorio y concreción de obligaciones ya establecidas, o como medida extraordinaria.",
+    "resumen": "Se mantiene la respuesta y la explicación concreta, con el Decreto 347/2002, para qué sirven los bandos y quién los dicta en Zaragoza.",
+    "revisor": "aprobada con cambios: se añade que en Zaragoza la competencia viene de los arts. 124.4.g) LBRL y 12.1.g) Ley 10/2017 (el art. 21.1.e LBRL y el 30.1.g Ley 7/1999 son del régimen común) y que es indelegable también por esas normas.",
+    "antes_respuesta": "Una disposición de carácter general dictada por el Alcalde, generalmente para asuntos puntuales, urgentes o de escasa entidad normativa",
+    "ahora_respuesta": "Una disposición de carácter general dictada por el Alcalde, generalmente para asuntos puntuales, urgentes o de escasa entidad normativa",
+    "cita": "RBASO 134: «Los bandos tienen como finalidad exhortar a los ciudadanos a la observancia de las obligaciones y deberes establecidos en las leyes y en las ordenanzas y reglamentos municipales, actualizar sus mandatos cuando se produzcan las situaciones que contemplen, recordar el contenido preciso de dichas obligaciones y los plazos establecidos para su cumplimiento, así como efectuar convocatorias populares con motivo de acontecimientos ciudadanos o, en su caso, hacer frente a situaciones de catástrofe o extraordinarias.» RBASO 135: «La aprobación de los bandos corresponde al Alcalde que no podrá delegar esta competencia en ningún miembro de la Corporación, salvo los supuestos de sustitución o suplencia.»"
+  },
+  {
+    "tema": 11,
+    "q": "La letra d) del art. 85.2.A) LBRL prevé como forma de gestión directa la sociedad mercantil local cuyo capital social sea:",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "Art. 85.2.A).d) LBRL: «Sociedad mercantil local, cuyo capital social sea de titularidad pública». Es la regla básica, y la que sigue en Aragón el art. 231.2.c) del Decreto 347/2002 (RBASO): «Sociedad mercantil cuyo capital social pertenezca íntegramente a la Entidad». Cuidado con la Ley 7/1999, de Administración Local de Aragón, que es anterior: su art. 206.2.c) incluye en la gestión directa la «sociedad mercantil cuyo capital social pertenezca íntegramente o mayoritariamente a la entidad». El preámbulo del Decreto 347/2002 explica que se aparta de ella por el cambio de la legislación básica. Si una pregunta cita expresamente el art. 206 de la Ley 7/1999, la respuesta es «íntegra o mayoritariamente».",
+      "fuente": "Art. 85.2.A).d) LBRL (Ley 7/1985); art. 231.2.c) RBASO (Decreto 347/2002); art. 206.2.c) Ley 7/1999"
+    },
+    "motivo": "Respuesta correcta según la LBRL, pero el distractor «mayoritariamente público» coincide con la letra del art. 206.2.c) de la Ley 7/1999, que se preguntó en el examen de 2026 (P49, según t11-revision.md). Hay que advertir la diferencia.",
+    "resumen": "Se mantiene la respuesta y la explicación advierte que la Ley 7/1999 admite también la sociedad «mayoritariamente» de la entidad.",
+    "revisor": "aprobada",
+    "antes_respuesta": "De titularidad pública",
+    "ahora_respuesta": "De titularidad pública",
+    "cita": "Ley 7/1999, art. 206.2.c): «Sociedad mercantil cuyo capital social pertenezca íntegramente o mayoritariamente a la entidad.» RBASO 231.2.c): «Sociedad mercantil cuyo capital social pertenezca íntegramente a la Entidad.»"
+  },
+  {
+    "tema": 11,
+    "q": "Según el art. 84.1.a) LBRL, uno de los medios mediante los que las Entidades locales pueden intervenir la actividad de los ciudadanos es:",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "El art. 84.1.a) LBRL cita, como primer medio de intervención, las «ordenanzas y bandos». Ojo en Aragón: el art. 193.1.a) de la Ley 7/1999, de Administración Local de Aragón (redacción del Decreto-ley 1/2010), dice «Ordenanzas y Decretos normativos de emergencia», mientras que el art. 122.1.a) del Decreto 347/2002 (RBASO) mantiene «Ordenanzas y bandos». Si la pregunta cita la ley aragonesa, el primer medio son las ordenanzas y los decretos normativos de emergencia. Las circulares e instrucciones internas no son medios de intervención sobre la actividad de los ciudadanos.",
+      "fuente": "Art. 84.1.a) LBRL (Ley 7/1985); art. 193.1.a) Ley 7/1999; art. 122.1.a) RBASO (Decreto 347/2002)"
+    },
+    "motivo": "Respuesta correcta según la LBRL, pero la ley aragonesa usa otra fórmula, parecida al distractor «decretos de necesidad del Alcalde». Hay que advertirlo.",
+    "resumen": "Se mantiene la respuesta y la explicación advierte que la ley aragonesa dice «Ordenanzas y Decretos normativos de emergencia».",
+    "revisor": "aprobada",
+    "antes_respuesta": "Ordenanzas y bandos",
+    "ahora_respuesta": "Ordenanzas y bandos",
+    "cita": "Ley 7/1999, art. 193.1: «Las Entidades locales podrán intervenir la actividad de los ciudadanos a través de los siguientes medios: a) Ordenanzas y Decretos normativos de emergencia.» RBASO 122.1.a): «Ordenanzas y bandos.»"
+  },
+  {
+    "tema": 11,
+    "q": "Según el art. 84.2 LBRL, ¿a qué principios debe ajustarse en todo caso la actividad de intervención de las entidades locales?",
+    "accion": "explicacion",
+    "nuevo": {
+      "exp": "El art. 84.2 LBRL dispone que «la actividad de intervención de las Entidades locales se ajustará, en todo caso, a los principios de igualdad de trato, necesidad y proporcionalidad con el objetivo que se persigue». La ley aragonesa formula otra lista: el art. 193.2 de la Ley 7/1999 habla de «igualdad de trato, congruencia con los motivos y fines justificativos, respeto a la libertad individual y proporcionalidad». El art. 123 del Decreto 347/2002 (RBASO) añade legalidad e igualdad ante la ley, congruencia, y la elección del medio menos restrictivo de la libertad individual. Publicidad, concurrencia, buena fe o jerarquía no figuran en el art. 84.2.",
+      "fuente": "Art. 84.2 LBRL (Ley 7/1985); art. 193.2 Ley 7/1999; art. 123 RBASO (Decreto 347/2002)"
+    },
+    "motivo": "Respuesta correcta según la LBRL; la norma aragonesa enumera principios distintos (no menciona la «necesidad» y añade congruencia y respeto a la libertad individual), y conviene advertirlo.",
+    "resumen": "Se mantiene la respuesta y la explicación añade los principios que enumera la ley aragonesa.",
+    "revisor": "aprobada",
+    "antes_respuesta": "Igualdad de trato, necesidad y proporcionalidad con el objetivo que se persigue",
+    "ahora_respuesta": "Igualdad de trato, necesidad y proporcionalidad con el objetivo que se persigue",
+    "cita": "Ley 7/1999, art. 193.2: «La actividad de intervención se ajustará a los principios de igualdad de trato, congruencia con los motivos y fines justificativos, respeto a la libertad individual y proporcionalidad.» RBASO 123.3: «Cuando existan varios medios de tutelar los intereses públicos locales, se elegirá el menos restrictivo de la libertad individual y cuyo cumplimiento resulte menos gravoso para los ciudadanos.»"
+  }
+]

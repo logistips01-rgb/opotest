@@ -24,3 +24,10 @@ propuesta, revisor independiente y `tools/aplicar-cambios.js --tipo correccion`.
 
 ## Tema 2 (redactor del lote t02-1)
 - La pregunta 213 del tema 2 da como correcta «Ley 6/2019, de 1 de marzo». El apdo. 2.3 del Plan dice «Real Decreto-ley 6/2019». Hay que comprobarlo y corregirlo.
+
+## Tema 10: competencias en Zaragoza (revisor de la auditoría aragonesa)
+Según la Ley 10/2017, la regla de estas preguntas tampoco es la de Zaragoza:
+- índices 94, 118, 119, 120 y 269 aprox.: el Pleno aprueba y rectifica el inventario (en Zaragoza, el Gobierno de Zaragoza, art. 14.1.g);
+- 144, 161 y 216 aprox.: cesiones acordadas por el Pleno con mayoría absoluta;
+- 63 aprox.: el Alcalde gestiona el patrimonio.
+Los índices han cambiado tras retirar 19 preguntas: búscalas por su contenido.

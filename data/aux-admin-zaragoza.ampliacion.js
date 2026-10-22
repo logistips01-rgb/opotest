@@ -437,7 +437,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [  {
     "confianza": "alta"
   },
   {
-    "q": "Las bases de las pruebas de selección y de los concursos para la provisión de puestos de trabajo en las entidades locales se aprueban, y su convocatoria corresponde, a:",
+    "q": "Según el artículo 102 de la LBRL, las bases de las pruebas de selección y de los concursos para la provisión de puestos de trabajo en las entidades locales se aprueban, y su convocatoria corresponde, a:",
     "options": [
       "La Junta de Gobierno Local, correspondiendo el nombramiento al Pleno",
       "El Presidente de la Corporación, a quien el tribunal elevará la relación de aprobados para efectuar el nombramiento",
@@ -445,8 +445,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [  {
       "El Secretario de la Corporación, por su condición de funcionario con habilitación de carácter nacional"
     ],
     "correct": 1,
-    "exp": "El art. 102 LBRL atribuye al Presidente de la Corporación la aprobación de las bases y la convocatoria; el tribunal u órgano similar le eleva la relación de aprobados para el nombramiento, y también le corresponde la resolución motivada de los concursos, previa propuesta del órgano de selección.",
-    "fuente": "Art. 102 LBRL (Ley 7/1985)",
+    "exp": "Art. 102.1 LBRL: las pruebas de selección y los concursos de provisión «se regirán por las bases que apruebe el Presidente de la Corporación, a quien corresponderá su convocatoria»; y el art. 102.2 añade que el tribunal u órgano similar «elevará la correspondiente relación de aprobados al Presidente de la Corporación para hacer el nombramiento», a quien también corresponde la resolución motivada de los concursos, previa propuesta del órgano de selección. Es la regla de los municipios de régimen común, coherente con el art. 21.1.g) LBRL, que atribuye al Alcalde «aprobar las bases de las pruebas para la selección del personal». En los municipios de gran población, como Zaragoza, aprobar las bases corresponde a la Junta de Gobierno Local (art. 127.1.h LBRL), que en Zaragoza se llama Gobierno de Zaragoza (art. 14.1.i y disposición adicional segunda de la Ley 10/2017) y que puede delegar esta atribución. El Pleno no aprueba las bases ni nombra a los aprobados, y el Secretario no tiene esa competencia.",
+    "fuente": "Art. 102 LBRL (Ley 7/1985); arts. 21.1.g) y 127.1.h) LBRL",
     "confianza": "alta"
   },
   {
@@ -2122,12 +2122,12 @@ window.addQuestions('aux-admin-zaragoza', 19, [  {
       "Concurso."
     ],
     "correct": 1,
-    "exp": "Art. 2: «El ingreso en la Función Pública Local se realizará, con carácter general, a través del sistema de oposición», salvo que resulte más adecuado el concurso-oposición o el concurso.",
-    "fuente": "Art. 2 RD 896/1991",
+    "exp": "Art. 2 del RD 896/1991: «El ingreso en la Función Pública Local se realizará, con carácter general, a través del sistema de oposición, salvo que, por la naturaleza de las plazas o de las funciones a desempeñar, sea más adecuada la utilización del sistema de concurso-oposición o concurso». Hoy esta regla hay que leerla con el art. 61.6 TREBEP, que es legislación básica posterior: «Los sistemas selectivos de funcionarios de carrera serán los de oposición y concurso-oposición» y «Sólo en virtud de ley podrá aplicarse, con carácter excepcional, el sistema de concurso». Es decir, oposición y concurso-oposición son los dos sistemas ordinarios, y el concurso ya no puede elegirse por la naturaleza de las plazas: necesita una ley. El Ayuntamiento de Zaragoza convoca las plazas de Auxiliar Administrativo por el sistema selectivo de oposición.",
+    "fuente": "Art. 2 RD 896/1991; art. 61.6 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
   },
   {
-    "q": "Según el artículo 2 del RD 896/1991, la utilización del sistema de concurso-oposición o de concurso, en lugar de la oposición, procede cuando sea más adecuada por razón de:",
+    "q": "Según el artículo 2 del RD 896/1991 (desplazado en cuanto al concurso por el art. 61.6 TREBEP, que solo lo admite en virtud de ley y con carácter excepcional), la utilización del sistema de concurso-oposición o de concurso, en lugar de la oposición, procede cuando sea más adecuada por razón de:",
     "options": [
       "El grado de complejidad técnica de las pruebas selectivas previstas en las bases.",
       "La urgencia en la cobertura de las plazas apreciada por el Pleno.",
@@ -2135,8 +2135,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [  {
       "El número de plazas convocadas y la población del municipio."
     ],
     "correct": 2,
-    "exp": "El art. 2 admite el concurso-oposición o el concurso «por la naturaleza de las plazas o de las funciones a desempeñar».",
-    "fuente": "Art. 2 RD 896/1991",
+    "exp": "El art. 2 del RD 896/1991 admite el concurso-oposición o el concurso cuando, «por la naturaleza de las plazas o de las funciones a desempeñar», sea más adecuada su utilización. En cuanto al concurso, esa regla está desplazada por el art. 61.6 TREBEP, que es legislación básica posterior: «Sólo en virtud de ley podrá aplicarse, con carácter excepcional, el sistema de concurso que consistirá únicamente en la valoración de méritos». El concurso-oposición, en cambio, es hoy un sistema ordinario junto a la oposición (art. 61.6, párrafo primero). Ni la complejidad técnica de las pruebas, ni la urgencia, ni el número de plazas o la población del municipio son el criterio que da el art. 2.",
+    "fuente": "Art. 2 RD 896/1991; art. 61.6 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
   },
   {
@@ -2257,29 +2257,29 @@ window.addQuestions('aux-admin-zaragoza', 19, [  {
     "confianza": "alta"
   },
   {
-    "q": "A tenor del artículo 4.f) del RD 896/1991, actuará como Presidente del Tribunal:",
+    "q": "El artículo 4.f) del RD 896/1991 dispone que actuará como Presidente del Tribunal «el de la Corporación o miembro de la misma en quien delegue». Según el artículo 60.2 del TREBEP, ¿puede hoy el Alcalde o un concejal formar parte de un órgano de selección?",
     "options": [
-      "El de la Corporación o miembro de la misma en quien delegue.",
-      "El Secretario de la Corporación o funcionario en quien delegue.",
-      "El vocal de mayor titulación y, en caso de empate, el de mayor antigüedad.",
-      "El representante de la Comunidad Autónoma designado en el Tribunal."
+      "No, porque el personal de elección o de designación política no puede formar parte de ellos.",
+      "Sí, pero solo para ejercer la presidencia, con voz y sin voto, en nombre de la Corporación.",
+      "Sí, siempre que las bases de la convocatoria lo prevean expresamente y lo motiven.",
+      "Sí, siempre que los miembros electos no superen un tercio de los integrantes del Tribunal."
     ],
     "correct": 0,
-    "exp": "Art. 4.f): «Actuará como Presidente el de la Corporación o miembro de la misma en quien delegue».",
-    "fuente": "Art. 4.f) RD 896/1991",
+    "exp": "El art. 60.2 TREBEP, que es legislación básica, dispone: «El personal de elección o de designación política, los funcionarios interinos y el personal eventual no podrán formar parte de los órganos de selección». El Alcalde y los concejales son cargos electos, así que no pueden presidir ni integrar el tribunal, ni con voz y sin voto, ni aunque lo prevean las bases, ni en una proporción limitada. Por eso han quedado desplazadas las normas anteriores que decían otra cosa: el art. 4.f) del RD 896/1991; el art. 247.1 de la Ley 7/1999, de Administración Local de Aragón, según el cual el presidente del tribunal «será el Presidente de la Corporación o miembro de la misma en quien delegue»; y el art. 127.1.h) LBRL, que para los municipios de gran población dice que el presidente «podrá ser nombrado entre los miembros de la Corporación o entre el personal al servicio de las Administraciones públicas», de modo que tras el TREBEP solo cabe la segunda posibilidad. Las bases generales del Ayuntamiento de Zaragoza exigen que los miembros del tribunal, salvo quien ejerza la secretaría, sean funcionarios de carrera.",
+    "fuente": "Art. 60.2 TREBEP (RDLeg 5/2015); art. 4.f) RD 896/1991",
     "confianza": "alta"
   },
   {
-    "q": "De acuerdo con el artículo 4.f) del RD 896/1991, entre los Vocales del Tribunal figurará:",
+    "q": "El artículo 4.f) del RD 896/1991 dispone que entre los Vocales del Tribunal «figurará un representante de la Comunidad Autónoma». Conforme al artículo 60.3 del TREBEP, ¿puede hoy un vocal formar parte del tribunal de selección de un ayuntamiento en representación de la Comunidad Autónoma?",
     "options": [
-      "Un representante de la Diputación Provincial.",
-      "Un representante de la Comunidad Autónoma.",
-      "Un representante del Ministerio para las Administraciones Públicas.",
-      "Un representante de los funcionarios de carrera de la propia Corporación, designado por sorteo."
+      "Sí, cuando lo prevean las bases y lo proponga el Instituto Aragonés de Administración Pública.",
+      "Sí, aunque solo con voz y sin voto, para velar por la legalidad del proceso.",
+      "No, porque la pertenencia a los órganos de selección es siempre a título individual.",
+      "Sí, siempre que sea funcionario de carrera y tenga la titulación exigida."
     ],
-    "correct": 1,
-    "exp": "Art. 4.f), párrafo segundo: «Entre los Vocales figurará un representante de la Comunidad Autónoma».",
-    "fuente": "Art. 4.f) RD 896/1991",
+    "correct": 2,
+    "exp": "Art. 60.3 TREBEP: «La pertenencia a los órganos de selección será siempre a título individual, no pudiendo ostentarse ésta en representación o por cuenta de nadie». Por tanto, nadie puede formar parte de un tribunal en representación de la Comunidad Autónoma: ni aunque lo prevean las bases o lo proponga el Instituto Aragonés de Administración Pública, ni con voz y sin voto. Ser funcionario de carrera y tener la titulación exigida son requisitos para ser miembro del tribunal, pero no permiten actuar en nombre de otro. El art. 4.f) del RD 896/1991 y el art. 247.2.b) de la Ley 7/1999, de Administración Local de Aragón («Uno de los vocales lo será en representación de la Comunidad Autónoma, nombrado a propuesta del Instituto Aragonés de Administración Pública»), siguen diciendo lo contrario en su texto, pero son anteriores al TREBEP, que es legislación básica, y han quedado desplazados por él. Las bases generales del Ayuntamiento de Zaragoza siguen el TREBEP: la pertenencia al tribunal calificador «será siempre a título individual».",
+    "fuente": "Art. 60.3 TREBEP (RDLeg 5/2015); art. 4.f) RD 896/1991",
     "confianza": "alta"
   },
   {
@@ -2296,16 +2296,16 @@ window.addQuestions('aux-admin-zaragoza', 19, [  {
     "confianza": "alta"
   },
   {
-    "q": "Conforme al artículo 5 del RD 896/1991, las convocatorias determinarán el número y características de las plazas que deban ser provistas, con referencia a las bases aprobadas por:",
+    "q": "En el Ayuntamiento de Zaragoza, ¿a qué órgano corresponde aprobar las bases de las convocatorias de selección de personal a las que se refiere el artículo 5 del RD 896/1991?",
     "options": [
       "El Presidente de la Corporación.",
       "El Tribunal calificador, una vez constituido.",
-      "La Junta de Gobierno Local.",
+      "El Gobierno de Zaragoza, que es su Junta de Gobierno Local.",
       "El Pleno."
     ],
-    "correct": 3,
-    "exp": "Art. 5, párrafo segundo: las convocatorias se harán «con referencia a las bases aprobadas por el Pleno», especificando las plazas de promoción interna.",
-    "fuente": "Art. 5 RD 896/1991",
+    "correct": 2,
+    "exp": "El art. 5 del RD 896/1991 habla de las «bases aprobadas por el Pleno», pero esa atribución está superada por la LBRL. En los municipios de gran población, como Zaragoza, el art. 127.1.h) LBRL atribuye a la Junta de Gobierno Local aprobar «las bases de las convocatorias de selección y provisión de puestos de trabajo», y el art. 14.1.i) de la Ley 10/2017, de régimen especial del municipio de Zaragoza como capital de Aragón, lo repite para el Gobierno de Zaragoza, que es el nombre que esa ley da a la Junta de Gobierno Local (disposición adicional segunda). Es una atribución delegable (art. 14.2 de la Ley 10/2017); de hecho, el texto refundido de las bases generales del Ayuntamiento lo aprobó por decreto la Concejalía delegada de Personal. En los municipios de régimen común las bases las aprueba el Alcalde (art. 21.1.g LBRL). El Pleno ya no las aprueba, aunque lo sigan diciendo el art. 5 del RD 896/1991 y el art. 246.1 de la Ley 7/1999, de Administración Local de Aragón, y el tribunal calificador aplica las bases, no las aprueba.",
+    "fuente": "Art. 127.1.h) LBRL (Ley 7/1985); art. 14.1.i) Ley 10/2017 de capitalidad de Zaragoza; art. 5 RD 896/1991",
     "confianza": "alta"
   },
   {
@@ -2348,7 +2348,7 @@ window.addQuestions('aux-admin-zaragoza', 19, [  {
     "confianza": "alta"
   },
   {
-    "q": "Conforme al artículo 7 del RD 896/1991, en ningún caso podrá aprobarse ni declararse que ha superado las pruebas selectivas:",
+    "q": "Conforme al artículo 7 del RD 896/1991, con la excepción que hoy añade el artículo 61.8 del TREBEP para cuando la propia convocatoria lo prevea, no podrá aprobarse ni declararse que ha superado las pruebas selectivas:",
     "options": [
       "Un número de aspirantes inferior al de las plazas convocadas.",
       "Un aspirante que no haya obtenido la máxima calificación en el ejercicio práctico.",
@@ -2356,8 +2356,8 @@ window.addQuestions('aux-admin-zaragoza', 19, [  {
       "Un número de aspirantes superior al de las plazas convocadas."
     ],
     "correct": 3,
-    "exp": "Art. 7: no podrá declararse que han superado las pruebas «un número de aspirantes superior al de las plazas convocadas».",
-    "fuente": "Art. 7 RD 896/1991",
+    "exp": "El art. 7 del RD 896/1991 dice que «en ningún caso» podrá aprobarse ni declararse que ha superado las pruebas selectivas «un número de aspirantes superior al de las plazas convocadas» (la misma regla, sin excepciones, está en el art. 247.4 de la Ley 7/1999, de Administración Local de Aragón). El art. 61.8 TREBEP, que es legislación básica posterior, mantiene la regla pero la matiza: los órganos de selección no podrán proponer un número superior de aprobados al de plazas convocadas, «excepto cuando así lo prevea la propia convocatoria». Además, si han propuesto tantos aspirantes como plazas y hay renuncias antes del nombramiento o de la toma de posesión, el órgano convocante puede pedirles una relación complementaria de los aspirantes que sigan a los propuestos. Lo prohibido es aprobar de más: proponer menos aspirantes que plazas no lo está, y ni un empate ni la nota de un ejercicio concreto impiden por sí solos superar el proceso.",
+    "fuente": "Art. 7 RD 896/1991; art. 61.8 TREBEP (RDLeg 5/2015)",
     "confianza": "alta"
   },
   {
@@ -2467,14 +2467,14 @@ window.addQuestions('aux-admin-zaragoza', 19, [  {
   {
     "q": "De acuerdo con la disposición adicional segunda del RD 896/1991, la selección del personal laboral fijo de nuevo ingreso de las Entidades Locales se hará por:",
     "options": [
-      "Concurso, concurso-oposición u oposición libre, de conformidad con las bases aprobadas por el Pleno de la Corporación.",
+      "Concurso, concurso-oposición u oposición libre, teniendo en cuenta las condiciones que requiera la naturaleza de los puestos de trabajo a desempeñar.",
       "Exclusivamente por concurso de traslados entre personal laboral de otras Administraciones.",
       "Oposición libre en todo caso, con bases aprobadas por el Presidente de la Corporación.",
       "Convocatoria pública resuelta por el Tribunal mediante libre designación."
     ],
     "correct": 0,
-    "exp": "La DA 2ª.2 prevé la selección por «concurso, concurso-oposición u oposición libre», de conformidad con las bases aprobadas por el Pleno de la Corporación y respetando los sistemas de promoción profesional.",
-    "fuente": "Disposición adicional segunda, apartado 2, RD 896/1991",
+    "exp": "La disposición adicional segunda, apartado 2, del RD 896/1991 prevé que la selección del personal laboral fijo se haga «por concurso, concurso-oposición u oposición libre, teniendo en cuenta las condiciones que requiera la naturaleza de los puestos de trabajo a desempeñar». El art. 61.7 TREBEP confirma esos tres sistemas para el personal laboral fijo: «oposición, concurso-oposición, con las características establecidas en el apartado anterior, o concurso de valoración de méritos». La misma disposición se refiere a «las bases aprobadas por el Pleno de la Corporación», pero esa atribución está superada: en los municipios de gran población, como Zaragoza, las bases de las convocatorias de selección las aprueba la Junta de Gobierno Local, que allí se llama Gobierno de Zaragoza (art. 127.1.h LBRL y art. 14.1.i de la Ley 10/2017), y en los de régimen común, el Alcalde (art. 21.1.g LBRL). No se exige la oposición en todo caso, y ni el concurso de traslados ni la libre designación son sistemas de selección de personal laboral fijo.",
+    "fuente": "Disposición adicional segunda, apartado 2, RD 896/1991; art. 61.7 TREBEP (RDLeg 5/2015); art. 127.1.h) LBRL",
     "confianza": "alta"
   },
   {
@@ -11527,14 +11527,14 @@ window.addQuestions('aux-admin-zaragoza', 15, [  {
   {
     "q": "Los artículos 69 a 72 de la LBRL, relativos a la información y participación ciudadanas, se ubican dentro de:",
     "options": [
-      "El Capítulo IV del Título II, rubricado 'Información y participación ciudadanas'.",
+      "El Capítulo IV del Título V, rubricado 'Información y participación ciudadanas'.",
       "El Título Preliminar de la Ley.",
       "El Capítulo I del Título II, rubricado 'Organización'.",
       "El Capítulo V del Título II, rubricado 'Estatuto de los miembros de las Corporaciones locales'."
     ],
     "correct": 0,
-    "exp": "En el consolidado de la LBRL, la rúbrica que precede al art. 69 es 'CAPÍTULO IV. Información y participación ciudadanas', encabezando los arts. 69 a 72 (y siguientes).",
-    "fuente": "LBRL (Ley 7/1985), rúbrica del Capítulo IV, antes del art. 69",
+    "exp": "En el texto consolidado de la LBRL, los arts. 69 a 72 forman el Capítulo IV, «Información y participación ciudadanas», del Título V, «Disposiciones comunes a las Entidades locales». El Capítulo V de ese mismo Título, «Estatuto de los miembros de las Corporaciones locales», empieza en el art. 73. La LBRL no tiene Título Preliminar: empieza por el Título I, «Disposiciones generales». El Título II, «El municipio», solo tiene cuatro capítulos: Territorio y población (el I), Organización (el II), Competencias (el III) y Regímenes especiales (el IV).",
+    "fuente": "LBRL (Ley 7/1985), Título V, Capítulo IV (arts. 69 a 72)",
     "confianza": "alta"
   },
   {
@@ -20277,8 +20277,8 @@ window.addQuestions('aux-admin-zaragoza', 11, [  {
       "Mixto, público y privado"
     ],
     "correct": 0,
-    "exp": "Art. 85.2.A).d) LBRL: 'Sociedad mercantil local, cuyo capital social sea de titularidad pública.'",
-    "fuente": "Art. 85.2.A).d) LBRL",
+    "exp": "Art. 85.2.A).d) LBRL: «Sociedad mercantil local, cuyo capital social sea de titularidad pública». Es la regla básica, y la que sigue en Aragón el art. 231.2.c) del Decreto 347/2002 (RBASO): «Sociedad mercantil cuyo capital social pertenezca íntegramente a la Entidad». Cuidado con la Ley 7/1999, de Administración Local de Aragón, que es anterior: su art. 206.2.c) incluye en la gestión directa la «sociedad mercantil cuyo capital social pertenezca íntegramente o mayoritariamente a la entidad». El preámbulo del Decreto 347/2002 explica que se aparta de ella por el cambio de la legislación básica. Si una pregunta cita expresamente el art. 206 de la Ley 7/1999, la respuesta es «íntegra o mayoritariamente».",
+    "fuente": "Art. 85.2.A).d) LBRL (Ley 7/1985); art. 231.2.c) RBASO (Decreto 347/2002); art. 206.2.c) Ley 7/1999",
     "confianza": "alta"
   },
   {
@@ -20709,8 +20709,8 @@ window.addQuestions('aux-admin-zaragoza', 11, [  {
       "Ordenanzas y bandos"
     ],
     "correct": 3,
-    "exp": "El art. 84.1.a) LBRL cita, como primer medio de intervención administrativa, las 'ordenanzas y bandos'.",
-    "fuente": "Art. 84.1.a) LBRL",
+    "exp": "El art. 84.1.a) LBRL cita, como primer medio de intervención, las «ordenanzas y bandos». Ojo en Aragón: el art. 193.1.a) de la Ley 7/1999, de Administración Local de Aragón (redacción del Decreto-ley 1/2010), dice «Ordenanzas y Decretos normativos de emergencia», mientras que el art. 122.1.a) del Decreto 347/2002 (RBASO) mantiene «Ordenanzas y bandos». Si la pregunta cita la ley aragonesa, el primer medio son las ordenanzas y los decretos normativos de emergencia. Las circulares e instrucciones internas no son medios de intervención sobre la actividad de los ciudadanos.",
+    "fuente": "Art. 84.1.a) LBRL (Ley 7/1985); art. 193.1.a) Ley 7/1999; art. 122.1.a) RBASO (Decreto 347/2002)",
     "confianza": "alta"
   },
   {
@@ -22028,8 +22028,8 @@ window.addQuestions('aux-admin-zaragoza', 11, [  {
       "Eficacia, jerarquía y descentralización"
     ],
     "correct": 2,
-    "exp": "El art. 84.2 LBRL dispone que 'la actividad de intervención de las Entidades locales se ajustará, en todo caso, a los principios de igualdad de trato, necesidad y proporcionalidad con el objetivo que se persigue'.",
-    "fuente": "Art. 84.2 LBRL",
+    "exp": "El art. 84.2 LBRL dispone que «la actividad de intervención de las Entidades locales se ajustará, en todo caso, a los principios de igualdad de trato, necesidad y proporcionalidad con el objetivo que se persigue». La ley aragonesa formula otra lista: el art. 193.2 de la Ley 7/1999 habla de «igualdad de trato, congruencia con los motivos y fines justificativos, respeto a la libertad individual y proporcionalidad». El art. 123 del Decreto 347/2002 (RBASO) añade legalidad e igualdad ante la ley, congruencia, y la elección del medio menos restrictivo de la libertad individual. Publicidad, concurrencia, buena fe o jerarquía no figuran en el art. 84.2.",
+    "fuente": "Art. 84.2 LBRL (Ley 7/1985); art. 193.2 Ley 7/1999; art. 123 RBASO (Decreto 347/2002)",
     "confianza": "alta"
   },
   {
@@ -22226,8 +22226,8 @@ window.addQuestions('aux-admin-zaragoza', 10, [  {
       "El 10 por 100"
     ],
     "correct": 1,
-    "exp": "El art. 109.1 RBEL exige autorización de la Comunidad Autónoma cuando el valor del bien inmueble patrimonial exceda del 25 por 100 de los recursos ordinarios del presupuesto anual de la Corporación.",
-    "fuente": "Art. 109.1 RBEL",
+    "exp": "El art. 109.1 RBEL exige autorización de la Comunidad Autónoma cuando el valor del bien inmueble patrimonial exceda del 25 por 100 de los recursos ordinarios del presupuesto anual de la Corporación (igual el art. 79.1 TRRL). En Aragón el umbral es el mismo: el art. 186.1 de la Ley 7/1999, de Administración Local de Aragón, exige en ese caso «aprobación de la Administración de la Comunidad Autónoma de Aragón», y el art. 121 del Decreto 347/2002 (RBASO) concreta que es una «aprobación previa mediante Orden del Consejero». Además, toda enajenación, gravamen o permuta de inmuebles, cualquiera que sea su valor, se comunica al Gobierno de Aragón una vez adoptado el acuerdo y antes de ejecutarlo, para su toma de conocimiento (art. 121 RBASO, en la redacción de su corrección de errores, BOA de 24-1-2003).",
+    "fuente": "Art. 79.1 TRRL (RDLeg 781/1986); art. 109.1 RBEL (RD 1372/1986); en Aragón, art. 186.1 Ley 7/1999 y art. 121 RBASO (Decreto 347/2002)",
     "confianza": "alta"
   },
   {
@@ -22239,8 +22239,8 @@ window.addQuestions('aux-admin-zaragoza', 10, [  {
       "Solicitar dictamen previo del Consejo de Estado"
     ],
     "correct": 2,
-    "exp": "El art. 109.1 RBEL establece que, no obstante lo anterior, se dará cuenta al órgano competente de la Comunidad Autónoma de toda enajenación de bienes inmuebles que se produzca.",
-    "fuente": "Art. 109.1 RBEL",
+    "exp": "El art. 109.1 RBEL dispone que «se dará cuenta al órgano competente de la Comunidad Autónoma de toda enajenación de bienes inmuebles que se produzca», haga falta o no autorización. En Aragón la obligación es más amplia y más precisa: toda enajenación, gravamen o permuta de inmuebles se comunica al Gobierno de Aragón (art. 186.1 de la Ley 7/1999) una vez adoptado el acuerdo y antes de ejecutarlo, junto con el expediente, para su toma de conocimiento (art. 121 del Decreto 347/2002, RBASO, en la redacción de su corrección de errores, BOA de 24-1-2003); si el valor excede del 25 por 100 de los recursos ordinarios del presupuesto anual, hace falta además «aprobación previa mediante Orden del Consejero». No se comunica al Ministerio de Hacienda ni se publica en el BOE, y no se pide dictamen al Consejo de Estado.",
+    "fuente": "Art. 79.1 TRRL (RDLeg 781/1986); art. 109.1 RBEL (RD 1372/1986); en Aragón, art. 186.1 Ley 7/1999 y art. 121 RBASO (Decreto 347/2002)",
     "confianza": "alta"
   },
   {
@@ -22293,19 +22293,6 @@ window.addQuestions('aux-admin-zaragoza', 10, [  {
     "correct": 2,
     "exp": "El art. 110.1.d RBEL requiere informe del Interventor de fondos en el que pruebe no haber deuda pendiente de liquidación con cargo al presupuesto municipal.",
     "fuente": "Art. 110.1.d RBEL",
-    "confianza": "alta"
-  },
-  {
-    "q": "El dictamen técnico exigido en el art. 110.1.e RBEL para la cesión gratuita de bienes debe asevear que estos no son necesarios para la Entidad local ni es previsible que lo sean en los próximos...",
-    "options": [
-      "Veinte años",
-      "Cinco años",
-      "Treinta años",
-      "Diez años"
-    ],
-    "correct": 3,
-    "exp": "El art. 110.1.e RBEL exige dictamen técnico que asevere que los bienes no son necesarios ni es previsible que lo sean en los diez años inmediatos.",
-    "fuente": "Art. 110.1.e RBEL",
     "confianza": "alta"
   },
   {
@@ -22387,19 +22374,6 @@ window.addQuestions('aux-admin-zaragoza', 10, [  {
     "confianza": "alta"
   },
   {
-    "q": "Según el art. 112.2 RBEL, no será necesaria la subasta en la enajenación mediante permuta con otros bienes de carácter inmobiliario cuando, previo expediente que acredite la necesidad, la diferencia de valor entre los bienes a permutar no sea superior al...",
-    "options": [
-      "30 por 100 del que tenga mayor valor",
-      "50 por 100 del que tenga mayor valor",
-      "40 por 100 del que tenga mayor valor",
-      "25 por 100 del que tenga mayor valor"
-    ],
-    "correct": 2,
-    "exp": "El art. 112.2 RBEL exceptúa la subasta cuando la diferencia de valor entre los bienes permutados no supere el 40 por 100 del que tenga mayor valor.",
-    "fuente": "Art. 112.2 RBEL",
-    "confianza": "alta"
-  },
-  {
     "q": "Antes de iniciar los trámites conducentes a la enajenación de un inmueble, el art. 113 RBEL exige depurar su situación física y jurídica, lo que comprende, en su caso...",
     "options": [
       "Solicitar informe del Consejo Consultivo autonómico",
@@ -22410,19 +22384,6 @@ window.addQuestions('aux-admin-zaragoza', 10, [  {
     "correct": 3,
     "exp": "El art. 113 RBEL exige depurar la situación física y jurídica del inmueble, practicando su deslinde si fuese necesario e inscribiéndolo en el Registro de la Propiedad si no lo estuviese.",
     "fuente": "Art. 113 RBEL",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 114 RBEL, las enajenaciones de bienes cuyo valor exceda del ___ de los recursos ordinarios del presupuesto deberán ser acordadas con el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación.",
-    "options": [
-      "10 por 100",
-      "5 por 100",
-      "20 por 100",
-      "25 por 100"
-    ],
-    "correct": 0,
-    "exp": "El art. 114 RBEL fija en el 10 por 100 de los recursos ordinarios del presupuesto el umbral a partir del cual la enajenación exige mayoría absoluta del número legal de miembros de la Corporación.",
-    "fuente": "Art. 114 RBEL",
     "confianza": "alta"
   },
   {
@@ -22668,8 +22629,8 @@ window.addQuestions('aux-admin-zaragoza', 10, [  {
       "60 por ciento del que tenga mayor valor"
     ],
     "correct": 0,
-    "exp": "El art. 153 LPAP admite la permuta cuando la diferencia de valor, según tasación, no sea superior al 50 por ciento de los bienes que tengan mayor valor; norma supletoria respecto del régimen local, que en el art. 112.2 RBEL fija un límite distinto (40 por 100) para la excepción de subasta.",
-    "fuente": "Art. 153 LPAP",
+    "exp": "El art. 153 LPAP admite la permuta cuando la diferencia de valor, según tasación, no sea superior al 50 por ciento de los bienes que lo tengan mayor; si es mayor, el expediente se tramita como enajenación con pago de parte del precio en especie. Para las entidades locales aragonesas la cifra coincide: el art. 115.2 del Decreto 347/2002 (RBASO) y el art. 189.1 de la Ley 7/1999 admiten la permuta con una diferencia de valores no superior al cincuenta por ciento del bien de mayor valor, con la compensación económica pertinente. El 40 por 100 del art. 112.2 RBEL no rige en Aragón.",
+    "fuente": "Art. 153 LPAP (Ley 33/2003); en Aragón, art. 115.2 RBASO (Decreto 347/2002) y art. 189.1 Ley 7/1999",
     "confianza": "alta"
   },
   {
@@ -22832,29 +22793,16 @@ window.addQuestions('aux-admin-zaragoza', 10, [  {
     "confianza": "alta"
   },
   {
-    "q": "Según el art. 78.1 RBEL, estarán sujetos a concesión administrativa:",
-    "options": [
-      "Únicamente los bienes patrimoniales cedidos en arrendamiento",
-      "El uso privativo de bienes de dominio público y el uso anormal de los mismos",
-      "Los bienes comunales en régimen de explotación común",
-      "El uso común general y el uso común especial normal"
-    ],
-    "correct": 1,
-    "exp": "Art. 78.1 RBEL: 'Estarán sujetos a concesión administrativa: a) El uso privativo de bienes de dominio público. b) El uso anormal de los mismos.'",
-    "fuente": "Art. 78.1 RBEL",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 79 RBEL, el plazo de duración máximo de las concesiones sobre bienes de dominio público será, con carácter general, de:",
+    "q": "Según el art. 83.2 del Decreto 347/2002 del Gobierno de Aragón (RBASO), el plazo de duración máximo de las concesiones sobre bienes de dominio público será, con carácter general, de:",
     "options": [
       "Veinticinco años",
       "Cincuenta años",
       "Noventa y nueve años",
       "Setenta y cinco años"
     ],
-    "correct": 2,
-    "exp": "Art. 79 RBEL: 'En ningún caso podrá otorgarse concesión o licencia alguna por tiempo indefinido. El plazo de duración máximo de las concesiones será de noventa y nueve años, a no ser que por la normativa especial se señale otro menor.'",
-    "fuente": "Art. 79 RBEL",
+    "correct": 1,
+    "exp": "Art. 83.2 RBASO: «El plazo máximo de la concesión será de cincuenta años, salvo que disposiciones especiales señalen otro plazo menor». Es la regla de las concesiones demaniales de las entidades locales aragonesas. No hay que confundirla con los noventa y nueve años del art. 79 RBEL, que en Aragón no rige, ni con los setenta y cinco del art. 93.3 LPAP, límite máximo básico «salvo que se establezca otro menor en las normas especiales».",
+    "fuente": "Art. 83.2 RBASO (Decreto 347/2002 de Aragón); art. 93.3 LPAP (Ley 33/2003)",
     "confianza": "alta"
   },
   {
@@ -22936,19 +22884,6 @@ window.addQuestions('aux-admin-zaragoza', 10, [  {
     "confianza": "alta"
   },
   {
-    "q": "Según el art. 86.1 RBEL, en caso de discordia entre los peritos que tasaren el proyecto elegido en concurso, la discordia la resolverá:",
-    "options": [
-      "El Consejo de Estado",
-      "El Jurado Provincial de Expropiación",
-      "El Delegado del Gobierno",
-      "El Tribunal Superior de Justicia"
-    ],
-    "correct": 1,
-    "exp": "Art. 86.1 RBEL: '...y, si mediare discordia, la resolverá el Jurado Provincial de Expropiación.'",
-    "fuente": "Art. 86.1 RBEL",
-    "confianza": "alta"
-  },
-  {
     "q": "Según el art. 86.2 RBEL, en la tasación contradictoria del proyecto se incluirá, además de gastos y honorarios, un beneficio del:",
     "options": [
       "20 por 100",
@@ -22975,84 +22910,6 @@ window.addQuestions('aux-admin-zaragoza', 10, [  {
     "confianza": "alta"
   },
   {
-    "q": "Según el art. 87.4 RBEL, el proyecto y las bases de la licitación de una concesión de dominio público se someterán a información pública durante:",
-    "options": [
-      "Treinta días",
-      "Quince días",
-      "Veinte días",
-      "Cuarenta y cinco días"
-    ],
-    "correct": 0,
-    "exp": "Art. 87.4 RBEL: 'Habrá una información pública, durante treinta días, del proyecto que hubiere de servir para la concesión y de las bases de la licitación.'",
-    "fuente": "Art. 87.4 RBEL",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 88.1 RBEL, el peticionario inicial de una concesión tendrá derecho de tanteo si participa en la licitación y la diferencia entre su propuesta económica y la elegida no es superior a:",
-    "options": [
-      "Un 5 por 100",
-      "Un 10 por 100",
-      "Un 25 por 100",
-      "Un 50 por 100"
-    ],
-    "correct": 1,
-    "exp": "Art. 88.1 RBEL: '...tendrá derecho de tanteo si participare en la licitación y entre su propuesta económica y la que hubiere resultado elegida no existiere diferencia superior a un 10 por 100.'",
-    "fuente": "Art. 88.1 RBEL",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 88.3 RBEL, el derecho de tanteo podrá ejercerse en el acto de apertura de plicas, que se prolongará al efecto:",
-    "options": [
-      "Una hora después de la adjudicación provisional",
-      "Quince minutos después de la adjudicación provisional",
-      "Treinta minutos después de la adjudicación provisional",
-      "Veinticuatro horas después de la adjudicación provisional"
-    ],
-    "correct": 2,
-    "exp": "Art. 88.3 RBEL: 'Podrá ejercerse este derecho en el acto de la apertura de plicas, que se prolongará al efecto treinta minutos después de la adjudicación provisional.'",
-    "fuente": "Art. 88.3 RBEL",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 89 RBEL, será necesario el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación para otorgar una concesión sobre bienes de dominio público cuando ésta dure más de cinco años y, además:",
-    "options": [
-      "Afecte a más de cien vecinos",
-      "Su cuantía exceda del 25 por 100 de los recursos ordinarios del presupuesto",
-      "Se trate de un bien inmueble urbano",
-      "Su cuantía exceda del 10 por 100 de los recursos ordinarios del presupuesto"
-    ],
-    "correct": 3,
-    "exp": "Art. 89 RBEL: 'Será necesario el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación cuando la concesión dure más de cinco años, siempre que su cuantía exceda del 10 por 100 de los recursos ordinarios del presupuesto.'",
-    "fuente": "Art. 89 RBEL",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 90.1 RBEL, la garantía definitiva de la concesión, que debe constituirse dentro del plazo de los quince días siguientes a la notificación, consistirá en:",
-    "options": [
-      "El 3 por 100 del valor del dominio público ocupado, más el presupuesto de las obras en su caso",
-      "El 2 por 100 del valor del dominio público ocupado",
-      "El 5 por 100 del valor del dominio público ocupado",
-      "El 10 por 100 del valor del dominio público ocupado"
-    ],
-    "correct": 0,
-    "exp": "Art. 90.1 RBEL: 'La garantía definitiva... consistirá en el 3 por 100 del valor del dominio público ocupado y, en su caso, del presupuesto de las obras que hayan de ejecutar.'",
-    "fuente": "Art. 90.1 RBEL",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 91.d) RBEL, en el supuesto de ocupación anormal de bienes de dominio público, la garantía definitiva será:",
-    "options": [
-      "El 3 por 100, igual que en la ocupación normal",
-      "El 5 por 100 sobre las anteriores bases de valoración y presupuesto de obras",
-      "El 2 por 100",
-      "El 1 por 100"
-    ],
-    "correct": 1,
-    "exp": "Art. 91.d) RBEL: 'La garantía definitiva será el 5 por 100 sobre las anteriores bases.'",
-    "fuente": "Art. 91.d) RBEL",
-    "confianza": "alta"
-  },
-  {
     "q": "Según el art. 92.1 RBEL, será necesaria la subasta para el arrendamiento o cesión de uso de bienes patrimoniales cuando la duración de la cesión sea superior a:",
     "options": [
       "Un año, en todo caso",
@@ -23074,8 +22931,8 @@ window.addQuestions('aux-admin-zaragoza', 10, [  {
       "El 6 por 100 del valor en venta de los bienes"
     ],
     "correct": 3,
-    "exp": "Art. 92.2 RBEL: 'En todo caso, el usuario habrá de satisfacer un canon no inferior al 6 por 100 del valor en venta de los bienes.'",
-    "fuente": "Art. 92.2 RBEL",
+    "exp": "El art. 92.2 RBEL fija un canon «en todo caso» no inferior al 6 por 100 del valor en venta. En Aragón la cifra es la misma, pero como regla general y con excepción: el art. 100.2 del Decreto 347/2002 (RBASO) exige un precio no inferior al seis por ciento del valor en venta y exceptúa la cesión por motivos sociales del art. 102, que puede ser gratuita o con la contraprestación que se convenga, a favor de Administraciones y entidades públicas o privadas sin ánimo de lucro para fines de utilidad pública o interés social.",
+    "fuente": "Art. 92.2 RBEL (RD 1372/1986); arts. 100.2 y 102 RBASO (Decreto 347/2002)",
     "confianza": "alta"
   },
   {
@@ -23100,8 +22957,8 @@ window.addQuestions('aux-admin-zaragoza', 10, [  {
       "Solicitar el desahucio ante los tribunales ordinarios de forma obligatoria"
     ],
     "correct": 1,
-    "exp": "Art. 93.2 RBEL: 'Corresponderá a la Corporación acordar y ejecutar por sí misma el desahucio.'",
-    "fuente": "Art. 93.2 RBEL",
+    "exp": "El art. 93.2 RBEL atribuye a la Corporación acordar y ejecutar por sí misma el desahucio de las viviendas cedidas a su personal. El Decreto 347/2002 (RBASO) no regula este supuesto, así que el precepto se aplica como supletorio. En Aragón la potestad de desahucio administrativo se configura, con carácter general, para recuperar bienes de dominio público cuando se extinguen los derechos constituidos sobre ellos «en virtud de autorización, concesión o cualquier otro título» (art. 173.1.e de la Ley 7/1999; art. 64 RBASO); requiere audiencia de los interesados y el plazo para desalojar no puede ser inferior a un mes (arts. 65 y 66 RBASO). La Corporación no tiene que esperar al abandono voluntario, ni acudir a los tribunales, ni delegar en la Comunidad Autónoma.",
+    "fuente": "Art. 93.2 RBEL (RD 1372/1986), supletorio; art. 173.1.e) Ley 7/1999; arts. 64 a 66 RBASO (Decreto 347/2002)",
     "confianza": "alta"
   },
   {
@@ -23113,8 +22970,8 @@ window.addQuestions('aux-admin-zaragoza', 10, [  {
       "Subasta pública permanente"
     ],
     "correct": 2,
-    "exp": "Art. 94.1 RBEL: 'El aprovechamiento y disfrute de bienes comunales se efectuará precisamente en régimen de explotación común o cultivo colectivo.'",
-    "fuente": "Art. 94.1 RBEL",
+    "exp": "El art. 94.1 RBEL dice que el aprovechamiento de los comunales se efectuará «precisamente en régimen de explotación común o cultivo colectivo». En Aragón la fórmula es otra: «preferentemente en régimen de explotación colectiva y comunal» (art. 96.2 del Decreto 347/2002, RBASO; el art. 183.2 de la Ley 7/1999 dice «colectiva o comunal»). Si es impracticable, rige la costumbre u ordenanza local y, en su defecto, los lotes o suertes. La concesión, el arrendamiento a terceros o la subasta permanente no son la forma ordinaria de aprovechamiento.",
+    "fuente": "Art. 94.1 RBEL (RD 1372/1986); art. 96.2 RBASO (Decreto 347/2002); art. 183.2 Ley 7/1999",
     "confianza": "alta"
   },
   {
@@ -23538,19 +23395,6 @@ window.addQuestions('aux-admin-zaragoza', 10, [  {
     "confianza": "alta"
   },
   {
-    "q": "Según el art. 8.2 RBEL, el expediente de alteración de la calificación jurídica de los bienes deberá resolverse, previa información pública durante un mes, por la Corporación local mediante acuerdo adoptado con:",
-    "options": [
-      "La unanimidad de todos los miembros de la Corporación",
-      "El voto favorable de la mayoría absoluta del número legal de miembros de la Corporación",
-      "El voto favorable de las dos terceras partes del número legal de miembros",
-      "El voto favorable de la mayoría simple de los miembros presentes"
-    ],
-    "correct": 1,
-    "exp": "El art. 8.2 RBEL exige que el expediente 'deberá ser resuelto, previa información pública durante un mes, por la Corporación local respectiva, mediante \"acuerdo adoptado\" con el voto favorable de la mayoría absoluta del número legal de miembros de la misma'.",
-    "fuente": "Art. 8.2 RBEL",
-    "confianza": "alta"
-  },
-  {
     "q": "Además de los supuestos previstos en la LBRL, el art. 8.4.c) RBEL añade como causa de alteración automática de la calificación jurídica:",
     "options": [
       "Que transcurran veinte años desde la última actualización del Inventario",
@@ -23612,19 +23456,6 @@ window.addQuestions('aux-admin-zaragoza', 10, [  {
     ],
     "correct": 2,
     "exp": "El art. 11.1 RBEL exige que, tratándose de inmuebles, 'se exigirá, además, informe previo pericial'.",
-    "fuente": "Art. 11.1 RBEL",
-    "confianza": "alta"
-  },
-  {
-    "q": "Conforme al art. 11.1 RBEL, se requerirá informe del órgano estatal o autonómico competente para adquirir onerosamente bienes de valor histórico o artístico cuando su importe exceda:",
-    "options": [
-      "Del 50 por 100 del valor catastral del bien",
-      "De 100.000 euros, en todo caso",
-      "Del 10 por 100 del Presupuesto total de la Corporación",
-      "Del 1 por 100 de los recursos ordinarios del Presupuesto de la Corporación o del límite general de contratación directa en suministros"
-    ],
-    "correct": 3,
-    "exp": "El art. 11.1 RBEL exige ese informe 'siempre que su importe exceda del 1 por 100 de los recursos ordinarios del Presupuesto de la Corporación o del límite general establecido para la contratación directa en materia de suministros'.",
     "fuente": "Art. 11.1 RBEL",
     "confianza": "alta"
   },
@@ -23732,19 +23563,6 @@ window.addQuestions('aux-admin-zaragoza', 10, [  {
     "fuente": "Art. 15.3 RBEL",
     "confianza": "alta"
   },
-  {
-    "q": "Según el art. 16.2 RBEL, los bienes patrimoniales que resultaren calificados como suelo urbano o urbanizable programado en el planeamiento urbanístico quedarán:",
-    "options": [
-      "Afectos al Patrimonio Municipal del Suelo",
-      "Sujetos a expropiación forzosa automática",
-      "Convertidos en bienes de dominio público de forma automática",
-      "Excluidos del Inventario de bienes de la Entidad"
-    ],
-    "correct": 0,
-    "exp": "El art. 16.2 RBEL dispone que dichos bienes patrimoniales 'quedarán afectos al Patrimonio Municipal del Suelo'.",
-    "fuente": "Art. 16.2 RBEL",
-    "confianza": "alta"
-  },
 ]);
 
 /* tema 10 · lote 2026-08-12 · 40 preguntas revisadas */
@@ -23850,19 +23668,6 @@ window.addQuestions('aux-admin-zaragoza', 10, [  {
     "correct": 0,
     "exp": "Art. 28.2: 'Se relacionarán en esta parte del inventario, entre otros bienes, los cedidos por la Corporación condicionalmente o a plazo, las concesiones y los arrendamientos otorgados sobre bienes municipales o provinciales.'",
     "fuente": "Art. 28.2 RBEL (RD 1372/1986)",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 31 RBEL, de los inventarios separados previstos en el art. 17, párrafo segundo, deben conservarse ejemplares en:",
-    "options": [
-      "Exclusivamente en el Boletín Oficial del Estado",
-      "La Entidad respectiva, las oficinas de la Corporación, y en poder de la Administración del Estado y de la Comunidad Autónoma",
-      "Únicamente en el Registro de la Propiedad",
-      "Solo en las oficinas de la Corporación"
-    ],
-    "correct": 1,
-    "exp": "Art. 31: '...quedara, en todo caso, un ejemplar en la Entidad respectiva, otro en las oficinas de la Corporación y otro en poder de la Administración del Estado y de la Comunidad Autónoma...'",
-    "fuente": "Art. 31 RBEL (RD 1372/1986)",
     "confianza": "alta"
   },
   {
@@ -23996,19 +23801,6 @@ window.addQuestions('aux-admin-zaragoza', 10, [  {
     "confianza": "alta"
   },
   {
-    "q": "Según el art. 44.1 RBEL, ¿cuáles son las potestades que corresponden a los Municipios, Provincias e Islas en relación con sus bienes?",
-    "options": [
-      "Investigación, deslinde, recuperación de oficio y desahucio administrativo",
-      "Recuperación de oficio, deslinde, sanción y confiscación",
-      "Desahucio administrativo, expropiación, sanción e investigación",
-      "Investigación, deslinde, expropiación forzosa y ejecución subsidiaria"
-    ],
-    "correct": 0,
-    "exp": "Art. 44.1: 'a) La potestad de investigación. b) La potestad de deslinde. c) La potestad de recuperación de oficio. d) La potestad de desahucio administrativo.'",
-    "fuente": "Art. 44.1 RBEL (RD 1372/1986)",
-    "confianza": "alta"
-  },
-  {
     "q": "Según el art. 45 RBEL, la facultad de investigar la situación de los bienes y derechos que se presuman de su propiedad corresponde a las Corporaciones locales:",
     "options": [
       "Únicamente respecto de bienes inmuebles urbanos",
@@ -24035,19 +23827,6 @@ window.addQuestions('aux-admin-zaragoza', 10, [  {
     "confianza": "alta"
   },
   {
-    "q": "Según el art. 47 RBEL, para que se admita la denuncia presentada por un particular en un expediente de investigación, este debe anticipar el importe de los gastos en una cuantía que:",
-    "options": [
-      "Se fijará libremente por el denunciante sin límite alguno",
-      "No podrá superar las 10.000 pesetas",
-      "Deberá ser exactamente 50.000 pesetas",
-      "No será menor de 10.000 pesetas ni excederá de 100.000"
-    ],
-    "correct": 3,
-    "exp": "Art. 47: 'Para que se admita la denuncia presentada por el particular es preciso que el mismo anticipe el importe de los gastos en la cuantía que se estime necesaria, que no será menor de 10.000 pesetas ni excederá de 100.000.'",
-    "fuente": "Art. 47 RBEL (RD 1372/1986)",
-    "confianza": "alta"
-  },
-  {
     "q": "Según el art. 49.1 RBEL, el acuerdo de iniciación del expediente de investigación se publicará en el Boletín Oficial de la provincia y del municipio, exponiéndose además en el tablón de anuncios de la Corporación durante:",
     "options": [
       "Quince días",
@@ -24056,21 +23835,8 @@ window.addQuestions('aux-admin-zaragoza', 10, [  {
       "Sesenta días"
     ],
     "correct": 0,
-    "exp": "Art. 49.1: '...Un ejemplar de dichos boletines se expondrá en el tablón de anuncios de la Corporación en que radiquen los bienes, durante quince días.'",
-    "fuente": "Art. 49.1 RBEL (RD 1372/1986)",
-    "confianza": "alta"
-  },
-  {
-    "q": "Según el art. 50 RBEL, ¿de qué plazo disponen las personas afectadas por el expediente de investigación para alegar por escrito ante la Corporación, contado desde que termine la publicación de anuncios en el tablón?",
-    "options": [
-      "Quince días",
-      "Un mes",
-      "Veinte días",
-      "Dos meses"
-    ],
-    "correct": 1,
-    "exp": "Art. 50: 'En el plazo de un mes, contado desde el día siguiente al que deba darse por terminada la publicación de los anuncios en el tablón de la Corporación, podrán las personas afectadas...alegar por escrito...'",
-    "fuente": "Art. 50 RBEL (RD 1372/1986)",
+    "exp": "El art. 49.1 RBEL ordena publicar el acuerdo de iniciación en el Boletín Oficial de la provincia y en el del municipio y exponerlo en el tablón de anuncios durante quince días; después, su art. 50 abre un mes de alegaciones. En Aragón el plazo es también de quince días, pero cambia lo demás: el acuerdo se publica en el «Boletín Oficial de Aragón» y se expone en el tablón de anuncios por plazo de quince días, «al objeto de que las personas afectadas por el procedimiento puedan alegar por escrito ante la Entidad local cuanto estimen conveniente a su derecho» (art. 50.1 del Decreto 347/2002, RBASO). Es decir, en Aragón esos quince días son ya el plazo de alegaciones.",
+    "fuente": "Art. 49.1 RBEL (RD 1372/1986); art. 50.1 RBASO (Decreto 347/2002)",
     "confianza": "alta"
   },
   {
@@ -24147,8 +23913,8 @@ window.addQuestions('aux-admin-zaragoza', 10, [  {
       "Sesenta días"
     ],
     "correct": 3,
-    "exp": "Art. 61.1: '...el deslinde se anunciara...con sesenta días de antelación a la fecha fijada para iniciar las operaciones.'",
-    "fuente": "Art. 61.1 RBEL (RD 1372/1986)",
+    "exp": "El art. 61.1 RBEL exige anunciar el deslinde en el Boletín Oficial de la provincia, en el del municipio y en el tablón de anuncios con sesenta días de antelación a la fecha fijada para iniciar las operaciones. En Aragón la antelación es también de sesenta días como mínimo, pero el anuncio se publica en el «Boletín Oficial de Aragón» y en el tablón de anuncios de la Entidad local (art. 57.1 del Decreto 347/2002, RBASO).",
+    "fuente": "Art. 61.1 RBEL (RD 1372/1986); art. 57.1 RBASO (Decreto 347/2002)",
     "confianza": "alta"
   },
   {
@@ -50305,14 +50071,14 @@ window.addQuestions("aux-admin-zaragoza", 14, [
   {
     "q": "¿Qué relación existe entre una ordenanza reguladora del uso de las playas fluviales o zonas de baño municipales y las competencias en materia de protección civil?",
     "options": [
-      "Puede desarrollar, entre otras, la competencia propia municipal de protección civil y prevención de riesgos (art. 25.2 f LBRL), estableciendo normas de seguridad y uso",
+      "Puede desarrollar, entre otras, la competencia propia municipal de protección civil (art. 25.2 f LBRL), estableciendo normas de seguridad y uso",
       "Es competencia exclusiva de Costas, sin intervención municipal",
       "Solo puede aprobarse mediante decreto autonómico, nunca ordenanza",
       "No guarda relación alguna con la protección civil municipal"
     ],
     "correct": 0,
-    "exp": "Una ordenanza de uso de zonas de baño puede desarrollar, entre otras, la competencia municipal de protección civil y prevención de riesgos (art. 25.2 f LBRL), estableciendo normas de seguridad, señalización y comportamiento en dichas zonas. (Venía del tema 16 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: competencia propia de policía local y protección civil (art. 25.2 f LBRL) aplicada a zonas de baño; no trata de la norma local ni de su aprobación.)",
-    "fuente": "Art. 25.2 LBRL (Ley 7/1985)"
+    "exp": "Una ordenanza de uso de zonas de baño puede desarrollar, entre otras, la competencia municipal de protección civil del art. 25.2.f) LBRL, que dice: «Policía local, protección civil, prevención y extinción de incendios». Con ella se fijan normas de seguridad, señalización y comportamiento en esas zonas. También puede apoyarse en otras letras del mismo apartado, como la protección de la salubridad pública (letra j). La letra f) no habla de «prevención de riesgos» en general: la única prevención que menciona es la de incendios. (Venía del tema 16 del banco original; reubicada aquí en la auditoría de agosto de 2026: Fuera de alcance: competencia propia de policía local y protección civil (art. 25.2 f LBRL) aplicada a zonas de baño; no trata de la norma local ni de su aprobación.)",
+    "fuente": "Art. 25.2.f) LBRL (Ley 7/1985)"
   },
   {
     "q": "¿Qué relación existe entre la ordenanza municipal de residuos y la Ley 7/2022, de residuos y suelos contaminados?",

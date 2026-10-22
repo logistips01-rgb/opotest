@@ -13,5 +13,308 @@
   "tema": 14,
   "_retirada": "2026-10-22",
   "_motivo": "Error antiguo, no viene de la reforma de 2026: el enunciado mezcla la «policía local» de la letra f) vigente con la antigua letra b) anterior a la Ley 27/2013 («Ordenación del tráfico de vehículos y personas en las vías urbanas»). Hoy la f) es «Policía local, protección civil, prevención y extinción de incendios» y la g) es «Tráfico, estacionamiento de vehículos y movilidad. Transporte colectivo urbano»: ninguna menciona las vías urbanas, así que la opción correcta («Las vías urbanas») no está en el art. 25.2 y ninguna otra opción puede serlo. No tiene arreglo sin cambiar el enunciado y la respuesta, es decir, sin hacer otra pregunta. La f) ya la pregunta la 14.167; la g) no tiene pregunta directa en el tema 14 (solo la cita la explicación de la 16.36)."
+ },
+ {
+  "q": "Según el art. 2.3 del RBEL, en relación con el art. 79.3 LBRL, ¿qué característica adicional se atribuye a los bienes comunales, más allá de ser bienes de dominio público?",
+  "options": [
+   "Que son inalienables, inembargables e imprescriptibles y no sujetos a tributo alguno",
+   "Que se transmiten por herencia a los descendientes de los vecinos",
+   "Que pierden su carácter demanial tras diez años de desuso",
+   "Que pueden ser libremente hipotecados por el Ayuntamiento"
+  ],
+  "correct": 0,
+  "exp": "El art. 2.3 RBEL, en coherencia con el art. 79.3 y 80.1 LBRL, señala que los bienes comunales, al ser bienes de dominio público, son inalienables, inembargables e imprescriptibles y no sujetos a tributo alguno.",
+  "fuente": "Art. 2.3 RBEL (RD 1372/1986)",
+  "tema": 10,
+  "_retirada": "2026-10-22",
+  "_motivo": "Se retira: atribuye la regla a un artículo equivocado y la misma pregunta, bien citada, ya existe (art. 80.1 LBRL)."
+ },
+ {
+  "q": "El dictamen técnico exigido en el art. 110.1.e RBEL para la cesión gratuita de bienes debe asevear que estos no son necesarios para la Entidad local ni es previsible que lo sean en los próximos...",
+  "options": [
+   "Veinte años",
+   "Cinco años",
+   "Treinta años",
+   "Diez años"
+  ],
+  "correct": 3,
+  "exp": "El art. 110.1.e RBEL exige dictamen técnico que asevere que los bienes no son necesarios ni es previsible que lo sean en los diez años inmediatos.",
+  "fuente": "Art. 110.1.e RBEL",
+  "confianza": "alta",
+  "tema": 10,
+  "_retirada": "2026-10-22",
+  "_motivo": "Se retira: los diez años del RBEL no rigen en Aragón, donde el dictamen de la cesión gratuita no fija plazo."
+ },
+ {
+  "q": "Según el art. 112.2 RBEL, no será necesaria la subasta en la enajenación mediante permuta con otros bienes de carácter inmobiliario cuando, previo expediente que acredite la necesidad, la diferencia de valor entre los bienes a permutar no sea superior al...",
+  "options": [
+   "30 por 100 del que tenga mayor valor",
+   "50 por 100 del que tenga mayor valor",
+   "40 por 100 del que tenga mayor valor",
+   "25 por 100 del que tenga mayor valor"
+  ],
+  "correct": 2,
+  "exp": "El art. 112.2 RBEL exceptúa la subasta cuando la diferencia de valor entre los bienes permutados no supere el 40 por 100 del que tenga mayor valor.",
+  "fuente": "Art. 112.2 RBEL",
+  "confianza": "alta",
+  "tema": 10,
+  "_retirada": "2026-10-22",
+  "_motivo": "Se retira: el 40 % del RBEL no rige en Aragón (allí es el 50 %), y esa cifra ya se pregunta citando la Ley 7/1999."
+ },
+ {
+  "q": "Según el art. 114 RBEL, las enajenaciones de bienes cuyo valor exceda del ___ de los recursos ordinarios del presupuesto deberán ser acordadas con el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación.",
+  "options": [
+   "10 por 100",
+   "5 por 100",
+   "20 por 100",
+   "25 por 100"
+  ],
+  "correct": 0,
+  "exp": "El art. 114 RBEL fija en el 10 por 100 de los recursos ordinarios del presupuesto el umbral a partir del cual la enajenación exige mayoría absoluta del número legal de miembros de la Corporación.",
+  "fuente": "Art. 114 RBEL",
+  "confianza": "alta",
+  "tema": 10,
+  "_retirada": "2026-10-22",
+  "_motivo": "Se retira: el 10 % del RBEL no rige; además, en Zaragoza la enajenación corresponde al Gobierno de Zaragoza."
+ },
+ {
+  "q": "Según el art. 78.1 RBEL, estarán sujetos a concesión administrativa:",
+  "options": [
+   "Únicamente los bienes patrimoniales cedidos en arrendamiento",
+   "El uso privativo de bienes de dominio público y el uso anormal de los mismos",
+   "Los bienes comunales en régimen de explotación común",
+   "El uso común general y el uso común especial normal"
+  ],
+  "correct": 1,
+  "exp": "Art. 78.1 RBEL: 'Estarán sujetos a concesión administrativa: a) El uso privativo de bienes de dominio público. b) El uso anormal de los mismos.'",
+  "fuente": "Art. 78.1 RBEL",
+  "confianza": "alta",
+  "tema": 10,
+  "_retirada": "2026-10-22",
+  "_motivo": "Se retira: en Aragón no todo uso privativo va a concesión; el que no tiene instalaciones fijas va a licencia."
+ },
+ {
+  "q": "Según el art. 86.1 RBEL, en caso de discordia entre los peritos que tasaren el proyecto elegido en concurso, la discordia la resolverá:",
+  "options": [
+   "El Consejo de Estado",
+   "El Jurado Provincial de Expropiación",
+   "El Delegado del Gobierno",
+   "El Tribunal Superior de Justicia"
+  ],
+  "correct": 1,
+  "exp": "Art. 86.1 RBEL: '...y, si mediare discordia, la resolverá el Jurado Provincial de Expropiación.'",
+  "fuente": "Art. 86.1 RBEL",
+  "confianza": "alta",
+  "tema": 10,
+  "_retirada": "2026-10-22",
+  "_motivo": "Se retira: en Aragón la discordia de peritos no la resuelve el Jurado de Expropiación, sino la Corporación."
+ },
+ {
+  "q": "Según el art. 87.4 RBEL, el proyecto y las bases de la licitación de una concesión de dominio público se someterán a información pública durante:",
+  "options": [
+   "Treinta días",
+   "Quince días",
+   "Veinte días",
+   "Cuarenta y cinco días"
+  ],
+  "correct": 0,
+  "exp": "Art. 87.4 RBEL: 'Habrá una información pública, durante treinta días, del proyecto que hubiere de servir para la concesión y de las bases de la licitación.'",
+  "fuente": "Art. 87.4 RBEL",
+  "confianza": "alta",
+  "tema": 10,
+  "_retirada": "2026-10-22",
+  "_motivo": "Se retira: en Aragón el plazo es de veinte días como mínimo, y esa pregunta ya existe citando el Decreto 347/2002."
+ },
+ {
+  "q": "Según el art. 88.1 RBEL, el peticionario inicial de una concesión tendrá derecho de tanteo si participa en la licitación y la diferencia entre su propuesta económica y la elegida no es superior a:",
+  "options": [
+   "Un 5 por 100",
+   "Un 10 por 100",
+   "Un 25 por 100",
+   "Un 50 por 100"
+  ],
+  "correct": 1,
+  "exp": "Art. 88.1 RBEL: '...tendrá derecho de tanteo si participare en la licitación y entre su propuesta económica y la que hubiere resultado elegida no existiere diferencia superior a un 10 por 100.'",
+  "fuente": "Art. 88.1 RBEL",
+  "confianza": "alta",
+  "tema": 10,
+  "_retirada": "2026-10-22",
+  "_motivo": "Se retira: en Aragón el peticionario inicial no tiene derecho de tanteo."
+ },
+ {
+  "q": "Según el art. 88.3 RBEL, el derecho de tanteo podrá ejercerse en el acto de apertura de plicas, que se prolongará al efecto:",
+  "options": [
+   "Una hora después de la adjudicación provisional",
+   "Quince minutos después de la adjudicación provisional",
+   "Treinta minutos después de la adjudicación provisional",
+   "Veinticuatro horas después de la adjudicación provisional"
+  ],
+  "correct": 2,
+  "exp": "Art. 88.3 RBEL: 'Podrá ejercerse este derecho en el acto de la apertura de plicas, que se prolongará al efecto treinta minutos después de la adjudicación provisional.'",
+  "fuente": "Art. 88.3 RBEL",
+  "confianza": "alta",
+  "tema": 10,
+  "_retirada": "2026-10-22",
+  "_motivo": "Se retira: en Aragón el tanteo no se ejerce «treinta minutos después de la adjudicación provisional»."
+ },
+ {
+  "q": "Según el art. 89 RBEL, será necesario el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación para otorgar una concesión sobre bienes de dominio público cuando ésta dure más de cinco años y, además:",
+  "options": [
+   "Afecte a más de cien vecinos",
+   "Su cuantía exceda del 25 por 100 de los recursos ordinarios del presupuesto",
+   "Se trate de un bien inmueble urbano",
+   "Su cuantía exceda del 10 por 100 de los recursos ordinarios del presupuesto"
+  ],
+  "correct": 3,
+  "exp": "Art. 89 RBEL: 'Será necesario el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación cuando la concesión dure más de cinco años, siempre que su cuantía exceda del 10 por 100 de los recursos ordinarios del presupuesto.'",
+  "fuente": "Art. 89 RBEL",
+  "confianza": "alta",
+  "tema": 10,
+  "_retirada": "2026-10-22",
+  "_motivo": "Se retira: en Aragón el umbral es el 20 %, y en Zaragoza las concesiones las otorga el Gobierno de Zaragoza."
+ },
+ {
+  "q": "Según el art. 90.1 RBEL, la garantía definitiva de la concesión, que debe constituirse dentro del plazo de los quince días siguientes a la notificación, consistirá en:",
+  "options": [
+   "El 3 por 100 del valor del dominio público ocupado, más el presupuesto de las obras en su caso",
+   "El 2 por 100 del valor del dominio público ocupado",
+   "El 5 por 100 del valor del dominio público ocupado",
+   "El 10 por 100 del valor del dominio público ocupado"
+  ],
+  "correct": 0,
+  "exp": "Art. 90.1 RBEL: 'La garantía definitiva... consistirá en el 3 por 100 del valor del dominio público ocupado y, en su caso, del presupuesto de las obras que hayan de ejecutar.'",
+  "fuente": "Art. 90.1 RBEL",
+  "confianza": "alta",
+  "tema": 10,
+  "_retirada": "2026-10-22",
+  "_motivo": "Se retira: en Aragón la garantía definitiva de la concesión es del 4 %, no del 3 %."
+ },
+ {
+  "q": "Según el art. 91.d) RBEL, en el supuesto de ocupación anormal de bienes de dominio público, la garantía definitiva será:",
+  "options": [
+   "El 3 por 100, igual que en la ocupación normal",
+   "El 5 por 100 sobre las anteriores bases de valoración y presupuesto de obras",
+   "El 2 por 100",
+   "El 1 por 100"
+  ],
+  "correct": 1,
+  "exp": "Art. 91.d) RBEL: 'La garantía definitiva será el 5 por 100 sobre las anteriores bases.'",
+  "fuente": "Art. 91.d) RBEL",
+  "confianza": "alta",
+  "tema": 10,
+  "_retirada": "2026-10-22",
+  "_motivo": "Se retira: en Aragón la garantía definitiva del uso anormal es del 4 %, no del 5 %."
+ },
+ {
+  "q": "Según el art. 8.2 RBEL, el expediente de alteración de la calificación jurídica de los bienes deberá resolverse, previa información pública durante un mes, por la Corporación local mediante acuerdo adoptado con:",
+  "options": [
+   "La unanimidad de todos los miembros de la Corporación",
+   "El voto favorable de la mayoría absoluta del número legal de miembros de la Corporación",
+   "El voto favorable de las dos terceras partes del número legal de miembros",
+   "El voto favorable de la mayoría simple de los miembros presentes"
+  ],
+  "correct": 1,
+  "exp": "El art. 8.2 RBEL exige que el expediente 'deberá ser resuelto, previa información pública durante un mes, por la Corporación local respectiva, mediante \"acuerdo adoptado\" con el voto favorable de la mayoría absoluta del número legal de miembros de la misma'.",
+  "fuente": "Art. 8.2 RBEL",
+  "confianza": "alta",
+  "tema": 10,
+  "_retirada": "2026-10-22",
+  "_motivo": "Se retira: en Aragón la mayoría absoluta solo se exige si la alteración afecta a bienes de dominio público, y en Zaragoza decide el Gobierno de Zaragoza."
+ },
+ {
+  "q": "Conforme al art. 11.1 RBEL, se requerirá informe del órgano estatal o autonómico competente para adquirir onerosamente bienes de valor histórico o artístico cuando su importe exceda:",
+  "options": [
+   "Del 50 por 100 del valor catastral del bien",
+   "De 100.000 euros, en todo caso",
+   "Del 10 por 100 del Presupuesto total de la Corporación",
+   "Del 1 por 100 de los recursos ordinarios del Presupuesto de la Corporación o del límite general de contratación directa en suministros"
+  ],
+  "correct": 3,
+  "exp": "El art. 11.1 RBEL exige ese informe 'siempre que su importe exceda del 1 por 100 de los recursos ordinarios del Presupuesto de la Corporación o del límite general establecido para la contratación directa en materia de suministros'.",
+  "fuente": "Art. 11.1 RBEL",
+  "confianza": "alta",
+  "tema": 10,
+  "_retirada": "2026-10-22",
+  "_motivo": "Se retira: el umbral del 1 % del RBEL no rige en Aragón."
+ },
+ {
+  "q": "Según el art. 16.2 RBEL, los bienes patrimoniales que resultaren calificados como suelo urbano o urbanizable programado en el planeamiento urbanístico quedarán:",
+  "options": [
+   "Afectos al Patrimonio Municipal del Suelo",
+   "Sujetos a expropiación forzosa automática",
+   "Convertidos en bienes de dominio público de forma automática",
+   "Excluidos del Inventario de bienes de la Entidad"
+  ],
+  "correct": 0,
+  "exp": "El art. 16.2 RBEL dispone que dichos bienes patrimoniales 'quedarán afectos al Patrimonio Municipal del Suelo'.",
+  "fuente": "Art. 16.2 RBEL",
+  "confianza": "alta",
+  "tema": 10,
+  "_retirada": "2026-10-22",
+  "_motivo": "Se retira: en Aragón los bienes del patrimonio municipal del suelo los determina la legislación urbanística aragonesa, y el «urbanizable programado» ya no existe."
+ },
+ {
+  "q": "Según el art. 31 RBEL, de los inventarios separados previstos en el art. 17, párrafo segundo, deben conservarse ejemplares en:",
+  "options": [
+   "Exclusivamente en el Boletín Oficial del Estado",
+   "La Entidad respectiva, las oficinas de la Corporación, y en poder de la Administración del Estado y de la Comunidad Autónoma",
+   "Únicamente en el Registro de la Propiedad",
+   "Solo en las oficinas de la Corporación"
+  ],
+  "correct": 1,
+  "exp": "Art. 31: '...quedara, en todo caso, un ejemplar en la Entidad respectiva, otro en las oficinas de la Corporación y otro en poder de la Administración del Estado y de la Comunidad Autónoma...'",
+  "fuente": "Art. 31 RBEL (RD 1372/1986)",
+  "confianza": "alta",
+  "tema": 10,
+  "_retirada": "2026-10-22",
+  "_motivo": "Se retira: en Aragón el inventario separado no se envía al Estado."
+ },
+ {
+  "q": "Según el art. 44.1 RBEL, ¿cuáles son las potestades que corresponden a los Municipios, Provincias e Islas en relación con sus bienes?",
+  "options": [
+   "Investigación, deslinde, recuperación de oficio y desahucio administrativo",
+   "Recuperación de oficio, deslinde, sanción y confiscación",
+   "Desahucio administrativo, expropiación, sanción e investigación",
+   "Investigación, deslinde, expropiación forzosa y ejecución subsidiaria"
+  ],
+  "correct": 0,
+  "exp": "Art. 44.1: 'a) La potestad de investigación. b) La potestad de deslinde. c) La potestad de recuperación de oficio. d) La potestad de desahucio administrativo.'",
+  "fuente": "Art. 44.1 RBEL (RD 1372/1986)",
+  "confianza": "alta",
+  "tema": 10,
+  "_retirada": "2026-10-22",
+  "_motivo": "Se retira: en Aragón las potestades sobre los bienes son cinco (se añade la sancionadora), no cuatro."
+ },
+ {
+  "q": "Según el art. 47 RBEL, para que se admita la denuncia presentada por un particular en un expediente de investigación, este debe anticipar el importe de los gastos en una cuantía que:",
+  "options": [
+   "Se fijará libremente por el denunciante sin límite alguno",
+   "No podrá superar las 10.000 pesetas",
+   "Deberá ser exactamente 50.000 pesetas",
+   "No será menor de 10.000 pesetas ni excederá de 100.000"
+  ],
+  "correct": 3,
+  "exp": "Art. 47: 'Para que se admita la denuncia presentada por el particular es preciso que el mismo anticipe el importe de los gastos en la cuantía que se estime necesaria, que no será menor de 10.000 pesetas ni excederá de 100.000.'",
+  "fuente": "Art. 47 RBEL (RD 1372/1986)",
+  "confianza": "alta",
+  "tema": 10,
+  "_retirada": "2026-10-22",
+  "_motivo": "Se retira: las cuantías en pesetas del RBEL no rigen en Aragón."
+ },
+ {
+  "q": "Según el art. 50 RBEL, ¿de qué plazo disponen las personas afectadas por el expediente de investigación para alegar por escrito ante la Corporación, contado desde que termine la publicación de anuncios en el tablón?",
+  "options": [
+   "Quince días",
+   "Un mes",
+   "Veinte días",
+   "Dos meses"
+  ],
+  "correct": 1,
+  "exp": "Art. 50: 'En el plazo de un mes, contado desde el día siguiente al que deba darse por terminada la publicación de los anuncios en el tablón de la Corporación, podrán las personas afectadas...alegar por escrito...'",
+  "fuente": "Art. 50 RBEL (RD 1372/1986)",
+  "confianza": "alta",
+  "tema": 10,
+  "_retirada": "2026-10-22",
+  "_motivo": "Se retira: en Aragón no hay un mes de alegaciones, y el plazo aragonés de quince días ya se pregunta citando el Decreto 347/2002."
  }
 ]
