@@ -10,7 +10,7 @@ registerEsquema('aux-admin-zaragoza', 9, {
   fuentes: ['Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP). Texto consolidado BOE-A-2017-12902: arts. 12 a 18 (con los arts. 25, 26 y 34.2 como apoyo) y disposiciones adicionales segunda y tercera.'],
 
   esencial: [
-    {t: 'Cinco contratos típicos: <b>obras, concesión de obras, concesión de servicios, suministro y servicios</b>. Se califican por los arts. 12 a 17; el resto, por el Derecho administrativo o privado que les toque.', a: 'art. 12'},
+    {t: 'Cinco contratos típicos: <b>obras, concesión de obras, concesión de servicios, suministro y servicios</b>. Se califican por las normas de la sección 1.ª (arts. 12 a 18); el resto, por el Derecho administrativo o privado que les toque.', a: 'art. 12'},
     {t: 'La <b>concesión</b> se reconoce porque se paga con el <b>derecho a explotar</b> (solo o con un precio) y el concesionario asume el <b>riesgo operacional</b>.', a: 'arts. 14-15'},
     {t: 'Órgano de contratación: el <b>Alcalde</b> hasta el <b>10 %</b> de los recursos ordinarios y <b>6 millones</b> (plurianuales hasta <b>4 años</b>); por encima, el <b>Pleno</b>.', a: 'DA 2.ª.1-2'},
     {t: 'Municipios de gran población: contrata la <b>Junta de Gobierno Local</b>, sea cual sea el importe o la duración. Los pliegos de cláusulas administrativas generales los aprueba el <b>Pleno</b>.', a: 'DA 2.ª.4', examen: '2025'},
@@ -41,16 +41,16 @@ registerEsquema('aux-admin-zaragoza', 9, {
     {v: '1/3', d: 'Máximo de miembros electos en la Mesa de contratación', a: 'DA 2.ª.7'},
     {v: '50.000 €', d: 'Si la obra de un contrato mixto los supera, hay que hacer proyecto', a: 'art. 18.3'},
     {v: '4 años', d: 'Aplazamiento máximo del pago en la compra de bienes inmuebles', a: 'DA 3.ª.9'},
-    {v: '20.000 hab. / 200.000 €', d: 'Municipios menores pueden licitar una concesión de servicios de varios servicios si la anualidad media no supera esa cifra', a: 'DA 3.ª.11'}
+    {v: '20.000 hab. / 200.000 €', d: 'Municipios de menos de 20.000 hab.: una concesión de servicios no armonizada puede abarcar dos o más servicios públicos si la anualidad media no supera 200.000 €', a: 'DA 3.ª.11'}
   ],
 
   secciones: [
     {titulo: 'Los tipos contractuales', a: 'arts. 12-17', bloques: [
       {tipo: 'tabla', cab: ['Contrato', 'Objeto', 'Para no confundir'], filas: [
-        ['<b>Obras</b> (13)', 'Ejecutar una obra, sola o con la redacción del proyecto, o los trabajos del Anexo I.', '«Obra»: trabajos de construcción o ingeniería civil sobre un <b>bien inmueble</b>. Se refiere a una <b>obra completa</b> (susceptible de entregarse al uso general o al servicio), salvo excepciones.'],
+        ['<b>Obras</b> (13)', 'Ejecutar una obra, sola o con la redacción del proyecto, o los trabajos del Anexo I. También realizar, por cualquier medio, una obra que cumpla los requisitos fijados por la entidad contratante.', '«Obra»: trabajos de construcción o ingeniería civil sobre un <b>bien inmueble</b>. Se refiere a una <b>obra completa</b> (susceptible de entregarse al uso general o al servicio), salvo excepciones.'],
         ['<b>Concesión de obras</b> (14)', 'Realizar obras (también restaurar, reparar, conservar y mantener).', 'Se paga con el <b>derecho a explotar la obra</b>, o con ese derecho más un precio.'],
         ['<b>Concesión de servicios</b> (15)', 'Encomendar a título oneroso la <b>gestión de un servicio</b> de titularidad o competencia del poder adjudicador. {{examen:2026}}', 'Se paga con el <b>derecho a explotar el servicio</b>, o con ese derecho más un precio.'],
-        ['<b>Suministro</b> (16)', 'Adquirir, arrendar (con o sin opción de compra) o arrendamiento financiero de <b>productos o bienes muebles</b>.', 'No lo son los contratos sobre propiedades incorporales o valores negociables.'],
+        ['<b>Suministro</b> (16)', 'Adquisición, arrendamiento financiero o arrendamiento (con o sin opción de compra) de <b>productos o bienes muebles</b>.', 'No lo son los contratos sobre propiedades incorporales o valores negociables (salvo lo dicho para los programas de ordenador en el 16.3.b).'],
         ['<b>Servicios</b> (17)', '<b>Prestaciones de hacer</b>: una actividad o un resultado distinto de una obra o un suministro.', 'Nunca servicios que impliquen <b>ejercicio de la autoridad</b> inherente a los poderes públicos.']
       ]},
       {tipo: 'columnas', cols: [
@@ -98,8 +98,8 @@ registerEsquema('aux-admin-zaragoza', 9, {
       ]},
       {tipo: 'columnas', cols: [
         {titulo: 'Administrativos · 25 (si los celebra una Administración Pública)', items: [
-          'Obras, concesiones, suministro y servicios (salvo algunos servicios financieros, artísticos y suscripciones)',
-          '<b>Administrativos especiales</b>: los declarados por ley o vinculados al giro o tráfico de la Administración'
+          'Obras, concesiones, suministro y servicios (salvo algunos servicios financieros, de creación artística y literaria y de espectáculos, y las suscripciones a revistas, publicaciones periódicas y bases de datos)',
+          'Los declarados así por una ley y los <b>administrativos especiales</b>: vinculados al giro o tráfico específico de la Administración o que satisfacen de forma directa o inmediata una finalidad pública de su específica competencia'
         ]},
         {titulo: 'Privados · 26', items: [
           'Los de una Administración con otro objeto',
@@ -113,7 +113,7 @@ registerEsquema('aux-admin-zaragoza', 9, {
       {tipo: 'tabla', cab: ['Órgano', 'Contratos', 'Cuándo'], filas: [
         ['<b>Alcalde / Presidente</b>', 'Obras, suministro, servicios, concesión de obras, concesión de servicios y administrativos especiales', 'Valor estimado hasta el <b>10 %</b> de los recursos ordinarios y nunca más de <b>6 millones</b>. Plurianuales: hasta <b>4 años</b> con prórrogas, y la suma de todas las anualidades dentro de esos límites (el porcentaje, sobre el primer ejercicio).'],
         ['<b>Pleno</b>', 'Los mismos', 'Cuando por valor o duración no correspondan al Alcalde. Además, aprueba los <b>pliegos de cláusulas administrativas generales</b>.'],
-        ['<b>Alcalde / Presidente</b>', 'Privados, concesiones sobre bienes, adquisición de inmuebles y derechos, enajenación del patrimonio', 'Hasta el <b>10 %</b> de los recursos ordinarios y <b>3 millones</b>.'],
+        ['<b>Alcalde / Presidente</b>', 'Privados, concesiones sobre bienes, adquisición de inmuebles y derechos, enajenación del patrimonio', 'Presupuesto base de licitación (en la enajenación, su valor) hasta el <b>10 %</b> de los recursos ordinarios y <b>3 millones</b>.'],
         ['<b>Pleno</b>', 'Los mismos', 'Cuando no correspondan al Alcalde, y siempre los bienes de <b>valor histórico o artístico</b>.']
       ]},
       {tipo: 'lista', tinte: true, items: [
@@ -151,7 +151,7 @@ registerEsquema('aux-admin-zaragoza', 9, {
         {t: '<b>Fiscalización</b>: el <b>Interventor</b>. Incluye la valoración de la estabilidad presupuestaria de cada contrato, <b>salvo los menores</b>, y la comprobación material de la inversión.', a: 'DA 3.ª.3'},
         {t: 'Concesiones de obras y servicios: el expediente del art. 86.1 LBRL se tramita <b>junto con el estudio de viabilidad</b>.', a: 'DA 3.ª.5'},
         {t: 'Se aplican las normas de <b>supervisión de proyectos</b> del art. 235. Si no hay oficina propia, la de la Diputación o la Comunidad uniprovincial.', a: 'DA 3.ª.6', examen: '2025'},
-        {t: 'Los informes de los servicios jurídicos los emite el <b>Secretario</b>. Informe jurídico preceptivo en aprobación de expedientes, modificación, revisión de precios, prórrogas, equilibrio económico, interpretación y resolución.', a: 'DA 3.ª.8'},
+        {t: 'Los informes de los servicios jurídicos los emite el <b>Secretario</b>. Informe jurídico preceptivo en aprobación de expedientes, modificación, revisión de precios, prórrogas, equilibrio económico, interpretación y resolución. También coordina las obligaciones de publicidad e información de la Ley 19/2013.', a: 'DA 3.ª.8'},
         {t: 'En gran población (Título X LBRL): esos informes, el <b>titular de la asesoría jurídica</b>; la coordinación de publicidad (Ley 19/2013), el <b>titular del Órgano de Apoyo a la Junta de Gobierno</b>.', a: 'DA 3.ª.8', examen: '2026'},
         {t: 'Compra de inmuebles: pago aplazable hasta <b>4 años</b>.', a: 'DA 3.ª.9'},
         {t: 'Pueden adherirse a centrales de contratación del Estado, las CCAA, otras entidades locales y las asociaciones de entidades locales.', a: 'DA 3.ª.10'}
@@ -187,7 +187,7 @@ registerEsquema('aux-admin-zaragoza', 9, {
     'DA 2.ª.4 (gran población: el Pleno aprueba los pliegos de cláusulas administrativas generales): examen oficial 1-jun-2025, pregunta 33.',
     'DA 2.ª.7 (presidencia de la Mesa de contratación): examen oficial 1-jun-2025, pregunta 34.',
     'DA 3.ª.6 (supervisión de proyectos en las entidades locales): examen oficial 1-jun-2025, pregunta 35.',
-    'DA 3.ª.8 (informes del Secretario en municipios de gran población): examen oficial 31-may-2026, pregunta 11.',
+    'DA 3.ª.8 (informes del Secretario en municipios de gran población): examen oficial 31-may-2026, pregunta 11. Ojo: la respuesta que consta como correcta es la c), «Al titular del Órgano de Apoyo a la Junta de Gobierno o al titular de la asesoría jurídica según cual sea el importe del contrato o la duración del mismo». La redacción vigente de la DA 3.ª.8 no reparte por importe ni por duración: atribuye esos informes al titular de la asesoría jurídica (opción b) y al titular del Órgano de Apoyo le da la coordinación de las obligaciones de publicidad e información. El esquema sigue la ley.',
     'Art. 15 (definición del contrato de concesión de servicios): examen oficial 31-may-2026, pregunta 20.'
   ]
 });
