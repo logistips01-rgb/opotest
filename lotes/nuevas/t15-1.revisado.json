@@ -1,0 +1,607 @@
+{
+ "slug": "aux-admin-zaragoza",
+ "tema": 15,
+ "lote": "t15-1",
+ "preguntas": [
+  {
+   "q": "Según el art. 102 del ROTPC, ¿quién es el Secretario de la Comisión Especial de Sugerencias y Reclamaciones?",
+   "options": [
+    "El Secretario General del Pleno o funcionario en quien delegue",
+    "El titular de la Oficina Técnica de la Comisión o funcionario en quien delegue",
+    "El Coordinador del Área de Participación Ciudadana o funcionario en quien delegue",
+    "El Concejal de menor edad de los que integran la propia Comisión"
+   ],
+   "correct": 0,
+   "exp": "El art. 102 ROTPC dispone que «Será Secretario de la Comisión Especial de Sugerencias y Reclamaciones el Secretario General del Pleno o funcionario en quien delegue». La Oficina Técnica de la Comisión (art. 108) le presta apoyo técnico y administrativo, pero no ejerce la secretaría; tampoco la ejercen el Área de Participación Ciudadana, a la que la Comisión está adscrita, ni un Concejal de la Comisión.",
+   "fuente": "Art. 102 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): ROTPC (texto consolidado de zaragoza.es, comprobado también en descarga propia de la sede: única modificación, Distrito Sur, BOPZ 44 de 23-feb-2018), art. 102 párr. 4: «Será Secretario … el Secretario General del Pleno o funcionario en quien delegue». Distractores falsos: la Oficina Técnica (art. 108) solo presta apoyo; el Área de Participación es a la que está adscrita; ningún Concejal es secretario. Compatible con art. 132 LBRL y art. 122.5 LBRL. No repite (la existente sobre la Comisión trata el art. 132 LBRL). | Revisor 2 (CONFIRMADA): Art. 102 ROTPC (texto vigente zaragoza.es): «Será Secretario de la Comisión Especial de Sugerencias y Reclamaciones el Secretario General del Pleno o funcionario en quien delegue». Distractores falsos: la Oficina Técnica (art. 108) solo presta apoyo; ni el Área ni un Concejal ejercen la secretaría. Sin conflicto con LBRL 132 ni Ley 10/2017. No repetida."
+  },
+  {
+   "q": "Según el art. 102 del ROTPC, ¿quiénes son miembros de la Comisión Especial de Sugerencias y Reclamaciones con voz pero sin voto?",
+   "options": [
+    "Un representante de cada Asociación de Vecinos de la ciudad inscrita en el Censo Municipal de Entidades Ciudadanas",
+    "Un representante de cada una de las federaciones de asociaciones de vecinos y de las uniones vecinales de la ciudad",
+    "Los Concejales Presidentes de todas las Juntas Municipales y los Alcaldes de todos los Barrios Rurales",
+    "Un representante del Consejo de la Ciudad y otro de cada uno de los Consejos Sectoriales existentes"
+   ],
+   "correct": 1,
+   "exp": "El art. 102 ROTPC dice: «Serán miembros de la Comisión, a propuesta del Alcalde, con voz pero sin voto, un representante de cada una de las federaciones de asociaciones de vecinos y de las uniones vecinales de la ciudad». Los miembros con voto son Concejales de todos los grupos del Pleno, en proporción a su representación. El representante de cada Asociación de Vecinos con voz y sin voto es propio del Pleno de las Juntas Municipales y Vecinales (arts. 17 y 33), no de esta Comisión.",
+   "fuente": "Art. 102 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 102 párr. 3 literal. Los representantes de cada Asociación de Vecinos con voz y sin voto son de los Plenos de Junta (arts. 17.d y 33); los Concejales Presidentes, Alcaldes de Barrio y Consejos no figuran. Longitud equilibrada (115 frente a 114). No repetida. | Revisor 2 (CONFIRMADA): Art. 102 ROTPC, párr. 3: con voz y sin voto, un representante de cada federación de AAVV y de las uniones vecinales. El representante de cada Asociación de Vecinos es del Pleno de Juntas (arts. 17.d y 33); los otros dos distractores no figuran. No repetida."
+  },
+  {
+   "q": "Según el art. 103 del ROTPC, ¿cuál de las siguientes circunstancias impide admitir a trámite una queja o reclamación ante la Comisión Especial de Sugerencias y Reclamaciones?",
+   "options": [
+    "Que la presente una persona jurídica y no una persona física",
+    "Que se refiera a retrasos o desatenciones de los servicios municipales",
+    "Que se trate de una queja o reclamación anónima",
+    "Que se haya presentado en soporte papel y no por medios electrónicos"
+   ],
+   "correct": 2,
+   "exp": "Entre las circunstancias por las que el art. 103 ROTPC no admite a trámite las quejas o reclamaciones figura que «Se trate de quejas o reclamaciones anónimas». Las demás no son causa de inadmisión: puede presentarlas «toda persona, natural o jurídica», con capacidad de obrar e interés legítimo (art. 109.2); los retrasos, desatenciones o deficiencias de los servicios municipales son precisamente su objeto (art. 103), y las presentadas en papel se tramitan en la Oficina Técnica de la Comisión (art. 111).",
+   "fuente": "Art. 103 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 103, lista de causas de inadmisión: «Se trate de quejas o reclamaciones anónimas». Personas jurídicas pueden presentar (art. 109.2), retrasos/desatenciones son el objeto (art. 103 a), el papel se tramita en la Oficina Técnica (art. 111). No repetida. | Revisor 2 (CONFIRMADA): Art. 103 ROTPC: inadmisión de «quejas o reclamaciones anónimas». Distractores falsos: art. 109.2 admite persona natural o jurídica; retrasos/desatenciones son el objeto (art. 103); el papel se tramita en la Oficina Técnica (art. 111). Ninguno figura en la lista de inadmisión. No repetida."
+  },
+  {
+   "q": "Según el art. 103 del ROTPC, ¿qué efecto tiene la presentación de una queja o reclamación ante la Comisión Especial de Sugerencias y Reclamaciones sobre los plazos legales de tramitación y resolución de los procedimientos correspondientes?",
+   "options": [
+    "Los suspende hasta que la Comisión emita su contestación",
+    "Los interrumpe y vuelven a contarse desde la contestación",
+    "Los amplía en quince días a favor del interesado",
+    "No los paraliza ni los interrumpe"
+   ],
+   "correct": 3,
+   "exp": "El art. 103 ROTPC establece que las quejas o reclamaciones y sugerencias no tienen, en ningún caso, la consideración de recurso administrativo ni de reclamación previa, «ni su presentación paralizará o interrumpirá los plazos establecidos en la legislación vigente, para la tramitación y resolución de los correspondientes procedimientos». Por eso no cabe suspensión, interrupción ni ampliación de plazos.",
+   "fuente": "Art. 103 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 103 párr. 3 literal: no paraliza ni interrumpe plazos. Los otros tres efectos (suspensión, interrupción, ampliación) quedan excluidos por el texto. No repetida. | Revisor 2 (CONFIRMADA): Art. 103 ROTPC: «ni su presentación paralizará o interrumpirá los plazos». Suspensión, interrupción con recómputo y ampliación de 15 días son falsos. La correcta es la más corta y la única negativa, pero no se delata por longitud excesiva. No repetida."
+  },
+  {
+   "q": "Según el art. 103 del ROTPC, contra las contestaciones o decisiones emanadas de la Comisión Especial de Sugerencias y Reclamaciones:",
+   "options": [
+    "Cabe recurso de alzada ante el Alcalde",
+    "No cabe recurso alguno",
+    "Cabe recurso potestativo de reposición",
+    "Cabe recurso ante el Pleno del Ayuntamiento"
+   ],
+   "correct": 1,
+   "exp": "El art. 103 ROTPC es tajante: «Las contestaciones o decisiones emanadas de la Comisión Especial de Sugerencias y Reclamaciones no serán susceptibles de recurso alguno». Encaja con el art. 105: sus resoluciones no modifican ni anulan por sí mismas actos o resoluciones administrativas.",
+   "fuente": "Art. 103 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 103: «no serán susceptibles de recurso alguno». Coherente con art. 105 (sus resoluciones no modifican ni anulan actos). Distractores falsos. No repetida. | Revisor 2 (CONFIRMADA): Art. 103 ROTPC: las contestaciones o decisiones de la Comisión «no serán susceptibles de recurso alguno». Distractores falsos. No repetida."
+  },
+  {
+   "q": "Según el art. 104 del ROTPC, ¿cuál de las siguientes es causa de cese de los miembros de la Comisión Especial de Sugerencias y Reclamaciones?",
+   "options": [
+    "Haber sido procesado por cualquier delito, aunque no haya sentencia firme",
+    "Haber sido nombrado Concejal Presidente de una Junta Municipal",
+    "Haber sido condenado, mediante sentencia firme, por delito doloso",
+    "Haber recibido una queja de un vecino sobre su actuación como Concejal"
+   ],
+   "correct": 2,
+   "exp": "El art. 104 ROTPC enumera las causas de cese: renuncia; pérdida de la condición de miembro del Pleno; expiración del plazo del nombramiento; muerte, inhabilitación o incapacidad sobrevenida; notoria negligencia; condena, «mediante sentencia firme, por delito doloso», y reprobación del Pleno por mayoría de sus Concejales. No basta el procesamiento sin sentencia firme, y ni la presidencia de una Junta Municipal ni una queja vecinal figuran en la lista.",
+   "fuente": "Art. 104 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 104: «Por haber sido condenado, mediante sentencia firme, por delito doloso». El procesamiento, la presidencia de Junta o una queja vecinal no son causas. No repetida. | Revisor 2 (CONFIRMADA): Art. 104 ROTPC: «Por haber sido condenado, mediante sentencia firme, por delito doloso». Procesamiento sin sentencia firme, presidir una Junta o recibir una queja no son causas. No repetida."
+  },
+  {
+   "q": "Según el art. 105 del ROTPC, si la aplicación de una norma legítimamente acordada condujera a resultados injustos o dañosos, la Comisión Especial de Sugerencias y Reclamaciones podrá:",
+   "options": [
+    "Recomendar su modificación o derogación",
+    "Anularla mediante resolución motivada",
+    "Suspender su aplicación hasta que resuelva el Pleno",
+    "Impugnarla ante los Juzgados y Tribunales"
+   ],
+   "correct": 0,
+   "exp": "El art. 105 ROTPC dice que en ese caso «la Comisión podrá recomendar su modificación o derogación». El mismo artículo añade que sus resoluciones «no supondrán por sí mismas, en ningún caso, la modificación o anulación de actos o resoluciones administrativas, ni podrá interponer acciones judiciales ante Juzgados y Tribunales», lo que descarta anular, suspender o impugnar.",
+   "fuente": "Art. 105 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 105 párr. 3 y 4 literales: recomendar modificación o derogación; no anula, no modifica actos ni ejerce acciones judiciales. No repetida. | Revisor 2 (CONFIRMADA): Art. 105 ROTPC, párr. 3: «podrá recomendar su modificación o derogación»; el párr. 4 excluye anular actos e interponer acciones judiciales; la suspensión no está prevista. No repetida."
+  },
+  {
+   "q": "Según el art. 106.2 del ROTPC, si no se alcanza el quórum de un tercio de sus miembros para la válida constitución de la Comisión Especial de Sugerencias y Reclamaciones, esta se constituirá en segunda convocatoria:",
+   "options": [
+    "Quince minutos después, con un mínimo de tres miembros",
+    "Una hora después, con la presencia de la cuarta parte de sus miembros",
+    "Al día siguiente hábil, con la presencia de al menos dos miembros",
+    "Media hora después, cualquiera que sea el número de asistentes"
+   ],
+   "correct": 3,
+   "exp": "El art. 106.2 ROTPC exige para la válida constitución de la Comisión la asistencia de un tercio de sus miembros y añade: «De no producirse éste quórum, se constituirá media hora después, en segunda convocatoria, cualquiera que sea el número de asistentes». Los quince minutos y el mínimo de tres son la regla de los órganos colegiados de las Juntas (art. 21.2), no la de esta Comisión.",
+   "fuente": "Art. 106.2 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 106.2 literal: un tercio; «media hora después, en segunda convocatoria, cualquiera que sea el número de asistentes». Quince minutos/mínimo tres corresponde a las Juntas (arts. 21.2 y 24.2). Explicación exacta. No repetida. | Revisor 2 (CONFIRMADA): Art. 106.2 ROTPC: quórum de un tercio; si no, «media hora después, en segunda convocatoria, cualquiera que sea el número de asistentes». Distractores falsos (15 minutos y mínimo de tres proceden del art. 21.2 para las Juntas). No repetida."
+  },
+  {
+   "q": "Según el art. 113.1 del ROTPC, ¿en qué plazo, contado desde la presentación de la queja, reclamación o sugerencia en la Oficina Técnica de la Comisión, se recabará la información precisa y se realizarán las investigaciones pertinentes?",
+   "options": [
+    "En el plazo de quince días",
+    "En el plazo de un mes",
+    "En el plazo de diez días",
+    "En el plazo de tres días"
+   ],
+   "correct": 2,
+   "exp": "El art. 113.1 ROTPC fija diez días: «En el plazo de diez días, a contar desde la presentación de las quejas o reclamaciones y sugerencias en la Oficina Técnica de la Comisión, ésta, por resolución de su Presidente, recabará la información precisa y realizará las investigaciones pertinentes». Los quince días son otros dos plazos del mismo artículo: el de los servicios para responder al interesado (113.2) y el del interesado para manifestar su disconformidad (113.3).",
+   "fuente": "Art. 113.1 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 113.1: diez días desde la presentación en la Oficina Técnica. Los quince días son 113.2 y 113.3, como dice la explicación; el enunciado acota bien el plazo. No repetida. | Revisor 2 (CONFIRMADA): Art. 113.1 ROTPC: diez días desde la presentación en la Oficina Técnica. Los 15 días son de los apdos. 2 y 3 (respuesta de los servicios y disconformidad del interesado), y el enunciado los descarta con claridad. No repetida."
+  },
+  {
+   "q": "Según el art. 114 del ROTPC, cuando una queja o reclamación presentada en la Comisión Especial de Sugerencias y Reclamaciones esté tramitándose por el Justicia de Aragón, la Comisión:",
+   "options": [
+    "Se abstendrá de continuar, a resultas de la decisión del Justicia",
+    "Continuará sus actuaciones y dará traslado de su resolución al Justicia",
+    "Requerirá al Justicia para que se inhiba a favor de la Comisión",
+    "Acumulará la queja a la del Justicia para resolver ambos conjuntamente"
+   ],
+   "correct": 0,
+   "exp": "El art. 114 ROTPC prevé una estrecha colaboración con el Justicia de Aragón y dispone que, cuando una queja presentada en la Comisión esté tramitándose por el Justicia, «aquélla se abstendrá de continuar sus actuaciones a resultas de la decisión tomada por el Justicia».",
+   "fuente": "Art. 114 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 114 literal: «aquélla se abstendrá de continuar sus actuaciones a resultas de la decisión tomada por el Justicia». Distractores falsos. No repetida. | Revisor 2 (CONFIRMADA): Art. 114 ROTPC: la Comisión «se abstendrá de continuar sus actuaciones a resultas de la decisión tomada por el Justicia». Distractores falsos. No repetida."
+  },
+  {
+   "q": "Según el art. 115.1 del ROTPC, la Comisión Especial de Sugerencias y Reclamaciones da cuenta al Pleno de la gestión realizada:",
+   "options": [
+    "En la primera sesión ordinaria de cada año, como un punto más del orden del día",
+    "En una sesión extraordinaria convocada al efecto, mediante el informe o memoria anual",
+    "En una sesión ordinaria cada trimestre, mediante un informe escrito de su Presidente",
+    "En la sesión de aprobación del Presupuesto municipal, junto con la cuenta general"
+   ],
+   "correct": 1,
+   "exp": "El art. 115.1 ROTPC dice que la Comisión «dará cuenta al Pleno de la gestión realizada, en una sesión extraordinaria convocada al efecto». A través de su Presidente se presenta el informe o memoria anual, del que hace además una exposición verbal resumida.",
+   "fuente": "Art. 115.1 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 115.1 literal: sesión extraordinaria convocada al efecto, con informe o memoria anual presentado por el Presidente. Coherente con art. 132.2 LBRL (informe anual al Pleno). Correcta apenas más larga (85 frente a 84). No repetida. | Revisor 2 (CONFIRMADA): Art. 115.1 ROTPC: da cuenta al Pleno «en una sesión extraordinaria convocada al efecto», con el informe o memoria anual que presenta el Presidente. Distractores falsos; la correcta es la más larga por solo 1 carácter. Sin conflicto con LBRL 132. No repetida."
+  },
+  {
+   "q": "Según el art. 89 del ROTPC, la Presidencia del Consejo de la Ciudad de Zaragoza corresponde al Alcalde, que:",
+   "options": [
+    "Solo podrá delegar el cargo en un Teniente de Alcalde",
+    "Solo podrá delegar el cargo en el Secretario General del Pleno",
+    "No podrá delegar el cargo en ningún caso",
+    "Podrá delegar el cargo en cualquier miembro del Consejo"
+   ],
+   "correct": 3,
+   "exp": "El art. 89 ROTPC dice: «Corresponde la Presidencia al Alcalde de la Corporación, si bien podrá delegar el cargo en cualquier miembro del Consejo de la Ciudad si así lo estima». La delegación no está limitada a un Teniente de Alcalde, y el Secretario General del Pleno no es miembro del Consejo: asiste a sus órganos (art. 87).",
+   "fuente": "Art. 89 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 89 literal: delegación «en cualquier miembro del Consejo de la Ciudad». El Secretario General del Pleno asiste a los órganos (art. 87), no es miembro; el art. 91 (Vicepresidente) no limita la delegación. Nada en LBRL 131 ni Ley 10/2017 lo contradice. No repetida. | Revisor 2 (CONFIRMADA): Art. 89 ROTPC: el Alcalde «podrá delegar el cargo en cualquier miembro del Consejo de la Ciudad». Los tres distractores lo contradicen (el Secretario General del Pleno asiste a sus órganos, art. 87, y no es miembro, art. 92). No repetida."
+  },
+  {
+   "q": "Según el art. 92 del ROTPC, de los nueve representantes de la sociedad civil en el Pleno del Consejo de la Ciudad, ¿cuántos son elegidos y/o propuestos directamente por la Asamblea Ciudadana?",
+   "options": [
+    "Dos",
+    "Tres",
+    "Cinco",
+    "Nueve"
+   ],
+   "correct": 2,
+   "exp": "El art. 92 ROTPC reparte así los nueve representantes de la sociedad civil: cinco elegidos y/o propuestos directamente por la Asamblea Ciudadana, que se reúne una vez cada dos años; hasta dos reservados a las entidades reconocidas de Interés público municipal, y los dos restantes para las federaciones y uniones vecinales más representativas con ese reconocimiento.",
+   "fuente": "Art. 92 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 92: cinco por la Asamblea Ciudadana (cada dos años), hasta dos Interés público municipal, dos federaciones/uniones. La errata «la el Asamblea» de la cita es literal del texto oficial. No repetida. | Revisor 2 (CONFIRMADA): Art. 92 ROTPC: nueve representantes de la sociedad civil, cinco elegidos y/o propuestos por la Asamblea Ciudadana, hasta dos para entidades de Interés público municipal y dos para federaciones y uniones vecinales. No repetida."
+  },
+  {
+   "q": "Según el art. 92 del ROTPC, ¿quiénes forman parte del Consejo de la Ciudad de Zaragoza con voz y sin voto?",
+   "options": [
+    "Los Coordinadores de Área y los Directores Generales del Ayuntamiento",
+    "El Rector de la Universidad y el Concejal Delegado de la Agenda Local 21",
+    "Los nueve representantes de la Corporación designados por el Alcalde",
+    "Los representantes de las federaciones y uniones vecinales más representativas"
+   ],
+   "correct": 0,
+   "exp": "El art. 92 ROTPC dispone: «Forman parte del Consejo de la Ciudad, con voz y sin voto, los Coordinadores de Área y los Directores Generales del Ayuntamiento de Zaragoza». La Universidad (por su Rector o persona en quien delegue), la Agenda Local 21 (por su Concejal Delegado o persona en quien delegue), los nueve representantes de la Corporación y los representantes de las federaciones y uniones vecinales forman parte del Pleno del Consejo con voz y voto.",
+   "fuente": "Art. 92 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 92 penúltimo párrafo literal: Coordinadores de Área y Directores Generales con voz y sin voto. Universidad, Agenda Local 21, representantes de la Corporación y federaciones vecinales tienen voz y voto. No repetida. | Revisor 2 (CONFIRMADA): Art. 92 ROTPC: con voz y sin voto, «los Coordinadores de Área y los Directores Generales». Rector, Concejal de la Agenda Local 21, los nueve representantes de la Corporación y las federaciones vecinales tienen voz y voto. No repetida."
+  },
+  {
+   "q": "Según el art. 94 del ROTPC, la convocatoria de las sesiones ordinarias del Pleno del Consejo de la Ciudad se hará por el Presidente con una antelación de:",
+   "options": [
+    "Dos días hábiles",
+    "Quince días naturales",
+    "Diez días hábiles",
+    "Treinta días naturales"
+   ],
+   "correct": 1,
+   "exp": "El art. 94 ROTPC establece que «La convocatoria para las sesiones ordinarias se hará por el Presidente con una antelación de quince días naturales», acompañada del orden del día y, si procede, de la documentación. Para las sesiones extraordinarias la antelación mínima es de dos días.",
+   "fuente": "Art. 94 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 94: ordinarias «quince días naturales»; extraordinarias dos días (sin calificar como hábiles). Distractores falsos. No repetida. | Revisor 2 (CONFIRMADA): Art. 94 ROTPC: ordinarias con antelación de «quince días naturales»; extraordinarias, dos días. Distractores falsos para las ordinarias. No repetida (la existente del art. 24 trata de las Juntas)."
+  },
+  {
+   "q": "Según el art. 100 del ROTPC, es un deber de los miembros de los órganos del Consejo de la Ciudad:",
+   "options": [
+    "Presentar cada año una memoria de las actividades de la entidad a la que representan",
+    "Solicitar la inclusión de asuntos en el orden del día de las sesiones del Pleno del Consejo",
+    "Comunicar a la Secretaría del Consejo cualquier modificación de los estatutos o de los cargos directivos de la entidad que representan",
+    "Abstenerse cuando los asuntos que se traten afecten a intereses particulares de las entidades que representan"
+   ],
+   "correct": 3,
+   "exp": "El art. 100 ROTPC recoge tres deberes: asistir a las reuniones, «Abstenerse cuando los asuntos que se traten afecten a intereses particulares de las entidades que representan» y guardar la confidencialidad precisa. Solicitar la inclusión de asuntos en el orden del día es un derecho (art. 99), no un deber. La memoria de actividades y la comunicación de modificaciones de datos son obligaciones de las entidades inscritas en el Censo (arts. 63 y 64), no de los miembros del Consejo.",
+   "fuente": "Art. 100 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 100: tres deberes (asistir, abstenerse, confidencialidad). Solicitar inclusión en el orden del día es un derecho (art. 99); memoria y comunicación de modificaciones son obligaciones de las entidades del Censo (arts. 63-64). No repetida. | Revisor 2 (CONFIRMADA): Art. 100 ROTPC: deberes = asistir, abstenerse si afecta a intereses particulares de la entidad representada, confidencialidad. Solicitar inclusión en el orden del día es derecho (art. 99); memoria y comunicación de modificaciones no son deberes de los miembros del Consejo. No repetida."
+  },
+  {
+   "q": "Según el art. 13 del ROTPC, salvo que el propio decreto o acuerdo de delegación disponga otra cosa, las competencias que el órgano municipal competente otorgue a las Juntas surten efectos:",
+   "options": [
+    "Desde el día de su publicación en el Boletín Oficial de la Provincia",
+    "A los quince días de su publicación en el Boletín Oficial de Aragón",
+    "Desde el día siguiente al de la fecha del decreto o acuerdo de delegación",
+    "Desde que el Pleno de la Junta Municipal toma conocimiento de ellas"
+   ],
+   "correct": 2,
+   "exp": "El art. 13 ROTPC dice que las competencias que se otorguen por el órgano municipal competente «surten efectos desde el día siguiente al de la fecha del decreto o acuerdo de delegación, salvo que en el mismo se disponga otra cosa, sin perjuicio de su publicación oficial». La publicación, por tanto, no marca el inicio de los efectos, ni tampoco la toma de conocimiento por la Junta.",
+   "fuente": "Art. 13 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 13 penúltimo párrafo literal: efectos desde el día siguiente a la fecha del decreto o acuerdo, salvo otra cosa, sin perjuicio de su publicación. La existente del art. 13 trata otra cosa (atribución general). No repetida. | Revisor 2 (CONFIRMADA): Art. 13 ROTPC, penúltimo párr.: las competencias «surten efectos desde el día siguiente al de la fecha del decreto o acuerdo de delegación, salvo que en el mismo se disponga otra cosa, sin perjuicio de su publicación oficial». Distractores falsos. La existente del art. 13 trata otra cosa (atribución general a todos los Distritos)."
+  },
+  {
+   "q": "Según el art. 22.3 del ROTPC, en las sesiones extraordinarias de carácter urgente de las Juntas Municipales y Vecinales, el primer punto del orden del día será:",
+   "options": [
+    "El pronunciamiento sobre la urgencia de la convocatoria",
+    "La lectura del escrito de solicitud de los miembros de la Junta",
+    "La ratificación de la convocatoria por el Alcalde de la ciudad",
+    "La designación de quien actuará como Secretario de la sesión"
+   ],
+   "correct": 0,
+   "exp": "El art. 22.3 ROTPC dispone: «En estas sesiones el primer punto del orden del día será el pronunciamiento sobre la urgencia de la convocatoria, y si ésta no resulta apreciada mediante voto favorable de la mayoría simple de los miembros asistentes se levantará acto seguido la sesión». Las convoca el Concejal Presidente o el Alcalde de Barrio cuando la urgencia no permite respetar la antelación mínima. Es una regla especial para estas sesiones: con carácter general, el primer punto del orden del día es la aprobación del acta de la sesión anterior (art. 25.2).",
+   "fuente": "Art. 22.3 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Duda (3) resuelta: el art. 22.3 contiene una regla especial para las sesiones extraordinarias urgentes (primer punto: pronunciamiento sobre la urgencia; si no se aprecia por mayoría simple se levanta la sesión). El art. 25.2 (aprobación del acta como primer punto) es la regla general, y ninguna opción la recoge, así que no hay ambigüedad. La explicación lo dice bien. La existente del 25.2 pregunta la regla general, no esta. No repetida. | Revisor 2 (CONFIRMADA): Art. 22.3 ROTPC: en las extraordinarias urgentes el primer punto es el pronunciamiento sobre la urgencia. Distractores falsos. Distinta de la existente sobre el art. 25.2 (acta como primer punto en general), que la explicación cita correctamente."
+  },
+  {
+   "q": "Según el art. 25.3 del ROTPC, los Grupos, o un mínimo de tres Vocales, pueden presentar mociones en la sede administrativa de la Junta para su debate y votación con una antelación mínima, respecto de la sesión correspondiente, de:",
+   "options": [
+    "Dos días hábiles",
+    "Tres días hábiles",
+    "Cinco días hábiles",
+    "Diez días naturales"
+   ],
+   "correct": 1,
+   "exp": "El art. 25.3 ROTPC permite a los Grupos, o a un mínimo de tres Vocales, presentar en la sede administrativa de la Junta, «con una antelación mínima de tres días hábiles respecto de la sesión correspondiente», propuestas de resolución que se denominan mociones y que deben incluirse en el orden del día. Los dos días hábiles son la antelación mínima de la convocatoria de las sesiones plenarias (art. 24.1).",
+   "fuente": "Art. 25.3 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 25.3 literal: «antelación mínima de tres días hábiles». Los dos días hábiles son los del art. 24.1. La existente del 25.3 pregunta el nombre (mociones), no el plazo. No repetida. | Revisor 2 (CONFIRMADA): Art. 25.3 ROTPC: «con una antelación mínima de tres días hábiles». Distractores falsos (dos días hábiles es la convocatoria, art. 24.1). La existente del art. 25 pregunta la denominación (mociones), no el plazo."
+  },
+  {
+   "q": "Según el art. 25.5 del ROTPC, en las sesiones extraordinarias de las Juntas solo pueden tratarse asuntos no incluidos en el orden del día si son de carácter urgente y, además:",
+   "options": [
+    "Así lo acuerda la mayoría simple de los miembros presentes con derecho a voto",
+    "Así lo acuerda la mayoría absoluta del número legal de miembros de la Junta",
+    "Lo autoriza el Presidente, dando cuenta al Alcalde en el plazo de veinticuatro horas",
+    "Están presentes todos los miembros del Pleno de la Junta y así se acuerda por unanimidad"
+   ],
+   "correct": 3,
+   "exp": "El art. 25.5 ROTPC dice que en las sesiones extraordinarias no se tratarán otros asuntos que los del orden del día, «a no ser que sean de carácter urgente, estén presentes todos los miembros del Pleno de la Junta y así se acuerde por unanimidad». La ratificación por mayoría simple de una urgencia motivada es la regla de las sesiones ordinarias, recogida en el mismo apartado.",
+   "fuente": "Art. 25.5 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 25.5 literal: en extraordinarias, urgencia + todos los miembros presentes + unanimidad. La mayoría simple con urgencia motivada es la regla de las ordinarias (mismo apartado). Correcta un poco más larga (88 frente a 84), no se delata. No repetida. | Revisor 2 (CONFIRMADA): Art. 25.5 ROTPC: en extraordinarias, solo si son urgentes, están presentes todos los miembros del Pleno de la Junta y se acuerda por unanimidad. La mayoría simple es la regla de las ordinarias. Diferencia de longitud mínima (88 frente a 84). No repetida."
+  },
+  {
+   "q": "Según el art. 26.3 del ROTPC, cuando algún miembro del Pleno de una Junta formula observaciones al acta de la sesión anterior:",
+   "options": [
+    "Puede modificarse el fondo de los acuerdos si lo aprueba la mayoría absoluta de los miembros",
+    "Puede denegarse la aprobación del acta por disconformidad con los acuerdos adoptados por mayoría",
+    "Solo cabe subsanar los meros errores materiales o de hecho, sin modificar el fondo de los acuerdos",
+    "Puede modificarse el fondo de los acuerdos si lo solicita al menos un tercio de los Vocales"
+   ],
+   "correct": 2,
+   "exp": "El art. 26.3 ROTPC dispone que, si hay observaciones al acta, se debaten y deciden las rectificaciones que procedan, pero «En ningún caso podrá modificarse el fondo de los acuerdos adoptados y solo cabrá subsanar los meros errores materiales o de hecho». Añade que «No se podrá invocar, para la no aprobación del acta, la disconformidad con los acuerdos adoptados por mayoría».",
+   "fuente": "Art. 26.3 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 26.3 literal: no puede modificarse el fondo; solo errores materiales o de hecho; no cabe invocar la disconformidad con lo acordado para no aprobar el acta. Distractores falsos. No repetida. | Revisor 2 (CONFIRMADA): Art. 26.3 ROTPC: «En ningún caso podrá modificarse el fondo de los acuerdos adoptados y solo cabrá subsanar los meros errores materiales o de hecho»; tampoco cabe invocar la disconformidad con lo acordado por mayoría. Distractores falsos. No repetida."
+  },
+  {
+   "q": "Según el art. 32 del ROTPC, cuando el cese o renuncia del Alcalde del Barrio se produce antes de los últimos doce meses del mandato de la Corporación, el Alcalde:",
+   "options": [
+    "Convocará, en el plazo máximo de un mes, un nuevo proceso de consulta a los vecinos",
+    "Nombrará libremente a un vecino del barrio, previa consulta a los grupos municipales",
+    "Encargará la Alcaldía del Barrio al Concejal Presidente hasta el final del mandato",
+    "Convocará, en el plazo máximo de tres meses, nuevas elecciones municipales en el barrio"
+   ],
+   "correct": 0,
+   "exp": "El art. 32 ROTPC distingue dos casos. Si el cese o la renuncia se produce dentro de los últimos doce meses del mandato, «asumirá el cargo el Concejal Presidente del Consejo Rural» (así lo dice el texto). Si se produce antes, «el Alcalde convocará, en el plazo máximo de un mes, un nuevo proceso de consulta a los vecinos», igual que para el primer nombramiento. El Alcalde de Barrio no se nombra libremente: tiene que ser el vecino que obtenga más votos en esa consulta.",
+   "fuente": "Art. 32 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Duda (2) resuelta: el art. 32 dice literalmente «Concejal Presidente del Consejo Rural» (también en la sede de zaragoza.es), aunque parece una errata por Distrito Rural. La pregunta no lo usa: pregunta el otro supuesto (cese antes de los últimos doce meses: el Alcalde convoca en un mes como máximo una nueva consulta a los vecinos), que es literal. El distractor «Encargará la Alcaldía … al Concejal Presidente» corresponde al otro supuesto, luego es falso aquí. La explicación señala la literalidad («así lo dice el texto»). Compatible con art. 13 de la Ley 10/2017 (el Alcalde nombra y cesa a los Alcaldes de barrio en los términos del reglamento orgánico). La existente del art. 32 trata el nombramiento/retribución. No repetida. | Revisor 2 (CONFIRMADA): Art. 32 ROTPC: si el cese es antes de los últimos doce meses, «el Alcalde convocará, en el plazo máximo de un mes, un nuevo proceso de consulta a los vecinos». Asumir el cargo el Concejal Presidente es el supuesto de los últimos doce meses. Existentes del art. 32 tratan la elección y la retribución, no el cese."
+  },
+  {
+   "q": "Según el art. 36.2 del ROTPC, los acuerdos y resoluciones adoptados por el Concejo Local y su Presidente son susceptibles de impugnación mediante recurso ante:",
+   "options": [
+    "El Pleno de la Junta Municipal o Vecinal a la que pertenezca",
+    "El Alcalde de la Ciudad",
+    "El Concejal Presidente del Consejo de Distrito",
+    "La Comisión Especial de Sugerencias y Reclamaciones"
+   ],
+   "correct": 1,
+   "exp": "El art. 36.2 ROTPC dispone: «En todo caso, los acuerdos y resoluciones adoptados por el Concejo Local y su Presidente serán susceptibles de impugnación mediante recurso ante el Alcalde de la Ciudad». La Comisión Especial de Sugerencias y Reclamaciones no resuelve recursos: las quejas que recibe no tienen la consideración de recurso administrativo (art. 103).",
+   "fuente": "Art. 36.2 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 36.2 literal: recurso ante el Alcalde de la Ciudad. Distractores falsos; la Comisión de Sugerencias no resuelve recursos (art. 103). Nada en LBRL ni en la Ley 10/2017 lo contradice. No repetida (las existentes del 36 tratan iniciativa y composición). | Revisor 2 (CONFIRMADA): Art. 36.2 ROTPC: los acuerdos del Concejo Local y de su Presidente son impugnables «mediante recurso ante el Alcalde de la Ciudad». Distractores falsos. No choca con Ley 10/2017 ni LBRL. Las existentes del art. 36 tratan la iniciativa y la composición."
+  },
+  {
+   "q": "Según el art. 54 del ROTPC, cuando se pide una encuesta ciudadana para un Distrito o un Barrio Rural, el número de firmas exigible tiene un tope. ¿Cuál?",
+   "options": [
+    "3.000 firmas para las Juntas Municipales y 300 para las Juntas Vecinales",
+    "10.000 firmas para las Juntas Municipales y 1.000 para las Juntas Vecinales",
+    "2.000 firmas para las Juntas Municipales y 200 para las Juntas Vecinales",
+    "5.000 firmas para las Juntas Municipales y 500 para las Juntas Vecinales"
+   ],
+   "correct": 3,
+   "exp": "El art. 54 ROTPC exige, para pedir la encuesta en un Distrito o en un Barrio Rural, el 10 % o el 25 % de su padrón, respectivamente, y añade: «No será necesario aportar más de 5.000 firmas en el caso de las Juntas Municipales ni más de 500 en el de las Juntas Vecinales». Los topes de 3.000 y 300 firmas corresponden a la Audiencia Pública de ámbito de Junta (art. 52).",
+   "fuente": "Art. 54 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 54 último párrafo literal: topes de 5.000 (Juntas Municipales) y 500 (Juntas Vecinales). Los de 3.000/300 son de la Audiencia Pública (art. 52). Las existentes del 54 preguntan los porcentajes 3 % y 25 %, no los topes. No repetida. | Revisor 2 (CONFIRMADA): Art. 54 ROTPC, último párr.: «No será necesario aportar más de 5.000 firmas en el caso de las Juntas Municipales ni más de 500 en el de las Juntas Vecinales». 3.000/300 es el tope de la Audiencia Pública (art. 52). Distinta de las existentes del art. 54 (3 %, 25 % del Barrio Rural) y del art. 52 (300/3.000)."
+  },
+  {
+   "q": "Según el art. 56 del ROTPC, las preguntas que formule el público en el turno de ruegos y preguntas abierto por el Alcalde al terminar la sesión ordinaria del Pleno de la Corporación se contestarán, salvo que el preguntado quiera dar respuesta inmediata:",
+   "options": [
+    "Por escrito en el plazo máximo de quince días",
+    "Oralmente en la siguiente sesión ordinaria del Pleno",
+    "Por escrito en el plazo máximo de treinta días",
+    "Por escrito en el plazo máximo de tres meses"
+   ],
+   "correct": 2,
+   "exp": "El art. 56 ROTPC dispone: «Las preguntas serán contestadas por escrito en el plazo máximo de treinta días, salvo que el preguntado quiera dar respuesta inmediata». Para intervenir en ese turno hay que pedirlo por escrito al Alcalde con una antelación mínima de 24 horas.",
+   "fuente": "Art. 56 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 56 literal: por escrito en treinta días como máximo, salvo respuesta inmediata. La existente del 56 pregunta las 24 horas de antelación. No repetida. | Revisor 2 (CONFIRMADA): Art. 56 ROTPC: «Las preguntas serán contestadas por escrito en el plazo máximo de treinta días, salvo que el preguntado quiera dar respuesta inmediata». Distractores falsos. La existente del art. 56 pregunta la antelación de 24 h, no el plazo de respuesta."
+  },
+  {
+   "q": "Según el art. 62 del ROTPC, la inscripción en el Censo Municipal de Entidades Ciudadanas de las entidades que no tengan fines estatutarios de interés social o un funcionamiento democrático podrá denegarse por resolución motivada del Alcalde o del Teniente de Alcalde competente y previo informe de:",
+   "options": [
+    "El Consejo de la Ciudad de Zaragoza",
+    "La Comisión Especial de Sugerencias y Reclamaciones",
+    "La Junta Municipal o Vecinal de su domicilio social",
+    "La Secretaría General del Pleno del Ayuntamiento"
+   ],
+   "correct": 0,
+   "exp": "El art. 62 ROTPC dispone que «Por resolución motivada del Alcalde o del Teniente de Alcalde competente y previo informe del Consejo de la Ciudad de Zaragoza podrá denegarse la inscripción de las entidades que no tengan fines estatutarios de interés social o un funcionamiento democrático».",
+   "fuente": "Art. 62 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 62 párr. 3 literal: denegación por resolución motivada, previo informe del Consejo de la Ciudad. La existente del 62 pregunta el plazo de 30 días. No repetida. | Revisor 2 (CONFIRMADA): Art. 62 ROTPC, último párr.: denegación por resolución motivada del Alcalde o Teniente de Alcalde «previo informe del Consejo de la Ciudad de Zaragoza». Distractores falsos. La existente del art. 62 trata el plazo de 30 días."
+  },
+  {
+   "q": "Según el art. 63 del ROTPC, las entidades inscritas en el Censo Municipal de Entidades Ciudadanas deben comunicar al Ayuntamiento cualquier modificación de los datos que sirvieron de base para su inscripción:",
+   "options": [
+    "Antes del 1 de marzo del año siguiente al de la modificación",
+    "Dentro del mes siguiente al de la fecha en que se haya producido",
+    "Dentro de los diez días siguientes a su aprobación por la asamblea",
+    "Solo cuando el Censo Municipal se lo requiera de forma expresa"
+   ],
+   "correct": 1,
+   "exp": "El art. 63 ROTPC obliga a las entidades inscritas a comunicar cualquier modificación de esos datos «dentro del mes siguiente al de la fecha en que dicha modificación se haya producido». La fecha del 1 de marzo es la de la actualización anual de documentos de las entidades declaradas de Interés público municipal o de Interés ciudadano (arts. 70 y 74).",
+   "fuente": "Art. 63 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 63 literal: dentro del mes siguiente. El 1 de marzo es de los arts. 70 y 74. No repetida. | Revisor 2 (CONFIRMADA): Art. 63 ROTPC: comunicar las modificaciones «dentro del mes siguiente al de la fecha en que dicha modificación se haya producido». El 1 de marzo es de los arts. 70 y 74; el «solo cuando se le requiera» es la memoria del art. 64. No repetida."
+  },
+  {
+   "q": "Según el art. 74 del ROTPC, si una entidad declarada de Interés ciudadano no presenta antes del 1 de marzo la actualización anual de los documentos presentados para su solicitud:",
+   "options": [
+    "La declaración se pierde de forma automática",
+    "La entidad causa baja automática en el Censo Municipal",
+    "La declaración queda suspendida durante un año",
+    "La declaración podrá perderse"
+   ],
+   "correct": 3,
+   "exp": "El art. 74 ROTPC dice: «La falta de presentación podrá dar lugar a la pérdida de esta declaración». Es una pérdida potestativa. En cambio, para las entidades de Interés público municipal la falta de presentación «dará lugar a la pérdida automática de esta declaración» (art. 70).",
+   "fuente": "Art. 74 ROTPC (Reglamento de Órganos Territoriales y de Participación Ciudadana de Zaragoza)",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Art. 74 literal: «podrá dar lugar a la pérdida». Pérdida automática solo para el Interés público municipal (art. 70). No repetida (la existente del art. 70 pregunta la fecha). | Revisor 2 (CONFIRMADA): Art. 74 ROTPC: «La falta de presentación podrá dar lugar a la pérdida de esta declaración» (potestativa), frente a la pérdida automática del art. 70 para Interés público municipal. Distractores falsos. La existente del art. 70 pregunta la fecha, no la consecuencia."
+  },
+  {
+   "q": "Según el Manual de Atención a la Ciudadanía, decir a las personas que sus necesidades no pueden ser atendidas ni por el personal municipal disponible ni por los procedimientos previstos, sin ofrecerles la alternativa de otro lugar donde sí puedan ayudarles, es el error denominado:",
+   "options": [
+    "«Quitárselos» de encima",
+    "Transferencias",
+    "Excesiva reglamentación",
+    "Condescendencia"
+   ],
+   "correct": 0,
+   "exp": "En «Los “siete errores” de los servicios con atención a la ciudadanía» (pág. 12), el error «“Quitárselos” de encima» consiste en «Decirles que sus necesidades no pueden ser atendidas ni por el personal municipal disponible ni por los procedimientos que la organización ha previsto, y no ofrecerles la alternativa de otro lugar donde sí puedan ayudarles». En las transferencias, en cambio, sí se traslada a la persona a otras partes de la organización.",
+   "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Los “siete errores” de los servicios con atención a la ciudadanía», pág. 12",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Manual de Atención a la Ciudadanía (PDF 2018 de tools/temarios, 45 págs.; página comprobada), pág. 12: definición literal de «Quitárselos de encima». Transferencias, excesiva reglamentación y condescendencia tienen definiciones distintas. Las existentes cubren apatía, frialdad, excesiva reglamentación, robotización y el «no figura» (improvisación); esta no repite. | Revisor 2 (CONFIRMADA): Manual 2018, «Los siete errores» (pág. 12): definición literal de «Quitárselos» de encima. Transferencias sí trasladan a otra parte; excesiva reglamentación y condescendencia tienen otras definiciones. Única respuesta. Las existentes cubren apatía, frialdad, excesiva reglamentación, robotización y la improvisación como intruso, no este error."
+  },
+  {
+   "q": "En la relación de los «siete errores» del Manual de Atención a la Ciudadanía, trasladar las preguntas y necesidades de las personas atendidas a otras partes de la Organización, que en ocasiones tampoco son las adecuadas, es el error llamado:",
+   "options": [
+    "Apatía",
+    "Transferencias",
+    "«Quitárselos» de encima",
+    "Robotización"
+   ],
+   "correct": 1,
+   "exp": "El Manual (pág. 12) define las transferencias así: «Se trasladan las preguntas y necesidades de las personas atendidas a otras partes de la Organización, que en ocasiones tampoco son las adecuadas. El resultado es una ciudadanía molesta, irritada y agotada, en definitiva, poco proclive al diálogo». En «quitárselos de encima» no se ofrece ningún otro lugar; la apatía es no preocuparse de las necesidades de la persona, y la robotización, tratarla de forma estereotipada.",
+   "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Los “siete errores” de los servicios con atención a la ciudadanía», pág. 12",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Manual de Atención a la Ciudadanía (PDF 2018 de tools/temarios, 45 págs.; página comprobada), pág. 12: definición literal de «Transferencias». Apatía y robotización son otros errores; «quitárselos de encima» no traslada a ningún sitio. No repetida. | Revisor 2 (CONFIRMADA): Manual 2018 (pág. 12): «Se trasladan las preguntas y necesidades de las personas atendidas a otras partes de la Organización, que en ocasiones tampoco son las adecuadas» = Transferencias. Distractores con definición distinta. No repetida."
+  },
+  {
+   "q": "Según el apartado «La ciudadanía necesita al Ayuntamiento» del Manual, los problemas que surgen en el contacto entre el personal municipal y la ciudadanía (malentendidos, errores, omisiones, despistes...) son superables siempre que se den dos condiciones:",
+   "options": [
+    "Disponer de más personal en los puestos de atención directa y reducir al mínimo los tiempos de espera en las ventanillas",
+    "Aplicar con rigor el procedimiento establecido y remitir cada caso, sin demora, al servicio municipal que sea competente",
+    "Tener la firme voluntad de dar solución y tener en cuenta indicaciones técnicas y prácticas sobre relaciones interpersonales",
+    "Contar con instalaciones adecuadas y con materiales de comunicación (letreros, folletos, impresos) claros y comprensibles"
+   ],
+   "correct": 2,
+   "exp": "El Manual (pág. 7) dice que estas dificultades son superables siempre que se den dos condiciones: «1. Que tengamos la firme voluntad de dar solución a la situación planteada» y «2. Que tengamos en cuenta algunas indicaciones técnicas y prácticas relativas a las relaciones interpersonales». Añade que el Manual quiere aportar indicaciones sobre ambos puntos, sobre todo el segundo.",
+   "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «La ciudadanía necesita al Ayuntamiento», pág. 7",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Manual de Atención a la Ciudadanía (PDF 2018 de tools/temarios, 45 págs.; página comprobada), pág. 7 («La ciudadanía necesita al Ayuntamiento»): dos condiciones literales (firme voluntad de dar solución; indicaciones técnicas y prácticas sobre relaciones interpersonales). Distractores inventados y falsos. Longitudes equilibradas. No repetida. | Revisor 2 (CONFIRMADA): Manual 2018, «La ciudadanía necesita al Ayuntamiento» (pág. 7): dos condiciones, la firme voluntad de dar solución y las indicaciones técnicas y prácticas sobre relaciones interpersonales. Distractores no figuran. Longitudes parejas. No repetida."
+  },
+  {
+   "q": "Según el apartado «La habilidad de hablar» del Manual de Atención a la Ciudadanía, que el habla sea precisa significa:",
+   "options": [
+    "Emplear siempre los términos técnicos exactos, aunque sean propios de la jerga administrativa",
+    "Repetir el mensaje varias veces para asegurarse de que la persona lo ha entendido",
+    "Citar siempre la norma aplicable para que la información sea jurídicamente exacta",
+    "No usar más términos de los necesarios, no divagar y adaptarse al nivel de la persona"
+   ],
+   "correct": 3,
+   "exp": "El Manual (pág. 23) dice que «La segunda cualidad del habla es que sea precisa, es decir, no utilizar más términos que los estrictamente necesarios, no divagar ni irse por las ramas y, en todo momento, adaptarse al nivel de la persona con la que nos toca hablar». La primera cualidad, la expresión clara, exige precisamente evitar el argot o jerga profesional de las administraciones públicas.",
+   "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «La habilidad de hablar», pág. 23",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Manual de Atención a la Ciudadanía (PDF 2018 de tools/temarios, 45 págs.; página comprobada), pág. 23 literal: precisa = no usar más términos de los necesarios, no divagar, adaptarse al nivel. La expresión clara exige evitar la jerga. La existente (brevedad, claridad y precisión) no pregunta qué significa «precisa». No repetida. | Revisor 2 (CONFIRMADA): Manual 2018, «La habilidad de hablar»: precisa = no utilizar más términos de los necesarios, no divagar y adaptarse al nivel de la persona. La jerga se excluye expresamente; los otros dos no figuran. Distinta de la existente («brevedad, claridad y precisión»)."
+  },
+  {
+   "q": "Según el apartado «El primer contacto: saludarse» del Manual de Atención a la Ciudadanía, el trato a la persona atendida debería ser:",
+   "options": [
+    "De usted, salvo indicación expresa en contrario, sea cual sea su edad, sexo o status social",
+    "De tú con las personas jóvenes y de usted con las personas mayores, para adaptarse a cada caso",
+    "El mismo que emplee la persona atendida, de tú o de usted, desde el primer saludo",
+    "De tú, para crear cercanía, salvo que la persona pida expresamente el trato de usted"
+   ],
+   "correct": 0,
+   "exp": "El Manual (pág. 25) dice: «En todo momento, y a no ser que se nos indique expresamente lo contrario, el trato debería ser de usted, independientemente de factores de edad, sexo o status social». No hace depender el trato de la edad ni de cómo nos hable la persona atendida.",
+   "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «El primer contacto: saludarse», pág. 25",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Manual de Atención a la Ciudadanía (PDF 2018 de tools/temarios, 45 págs.; página comprobada), pág. 25 literal: trato de usted salvo indicación expresa, sea cual sea la edad, el sexo o el status social. La existente de esa página pregunta el contacto ocular. No repetida. | Revisor 2 (CONFIRMADA): Manual 2018, «El primer contacto»: «a no ser que se nos indique expresamente lo contrario, el trato debería ser de usted, independientemente de factores de edad, sexo o status social». Distractores falsos. La existente del mismo apartado pregunta el contacto ocular."
+  },
+  {
+   "q": "En el Manual de Atención a la Ciudadanía, el nivel de atención en el que, al nivel de acogida, «se añade una frase de saludo y una indicación breve sobre lo que va a ocurrir en los momentos siguientes» se denomina:",
+   "options": [
+    "Reconocimiento",
+    "Recogida",
+    "Orientación",
+    "Personalización"
+   ],
+   "correct": 1,
+   "exp": "En el apartado «Personalizar la atención» (pág. 26), el Manual distingue tres niveles: acogida (situar a la persona en las instalaciones), «RECOGIDA: al nivel de Acogida se añade una frase de saludo y una indicación breve sobre lo que va a ocurrir en los momentos siguientes» y reconocimiento (la persona atendida siente que se la reconoce: se menciona su nombre, se personaliza su caso). Orientación y personalización no son niveles del Manual.",
+   "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Personalizar la atención», pág. 26",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Manual de Atención a la Ciudadanía (PDF 2018 de tools/temarios, 45 págs.; página comprobada), pág. 26 literal: «RECOGIDA: al nivel de Acogida se añade una frase de saludo…». Orientación y Personalización no son niveles; Reconocimiento es el tercero. Las existentes preguntan Acogida y en qué nivel situarse; esta pregunta otro nivel. No repetida. | Revisor 2 (CONFIRMADA): Manual 2018, «Personalizar la atención»: «RECOGIDA: al nivel de Acogida se añade una frase de saludo y una indicación breve...». Reconocimiento es el tercer nivel; Orientación y Personalización no son niveles. Pregunta hermana de la existente sobre la Acogida, pero sobre otro nivel: no es repetición."
+  },
+  {
+   "q": "Según el Manual de Atención a la Ciudadanía, ¿en qué fase de la curva de la hostilidad se puede facilitar el proceso de enfriar o calentar aún más a la persona dominada por un estado emocional de hostilidad o irritación?",
+   "options": [
+    "En la fase 2, de disparo o salida",
+    "En la fase 3, de enlentecimiento",
+    "En la fase 4, de afrontamiento",
+    "En la fase 5, de enfriamiento"
+   ],
+   "correct": 2,
+   "exp": "El Manual (pág. 36) afirma: «Parece bastante claro que es en la Fase 4 en la que se puede facilitar el proceso de enfriar o calentar aún más a la persona que está dominada por un estado emocional de hostilidad o irritación». La fase 4 es la de afrontamiento (pág. 34). Si en ese punto intentamos defender nuestra actuación o al Ayuntamiento, lo probable es que se repita la fase de disparo o salida.",
+   "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «La curva de la hostilidad», págs. 34 y 36",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Manual de Atención a la Ciudadanía (PDF 2018 de tools/temarios, 45 págs.; página comprobada), págs. 34 (Fase 4. Afrontamiento) y 36 («Parece bastante claro que es en la Fase 4…») literales. Fases 2, 3 y 5 bien nombradas y falsas aquí. Las existentes preguntan el orden de las fases y qué hacer en la fase de disparo. No repetida. | Revisor 2 (CONFIRMADA): Manual 2018, «La curva de la hostilidad»: «es en la Fase 4 en la que se puede facilitar el proceso de enfriar o calentar aún más»; la fase 4 es Afrontamiento. Numeración y nombres de las fases 2, 3 y 5 comprobados. Distinta de las existentes (orden de fases, qué hacer en el disparo)."
+  },
+  {
+   "q": "Según el apartado «El autocontrol de las emociones» del Manual, cuando una persona expresa de modo hostil e inadecuado su disconformidad con la gestión realizada, nuestra obligación es:",
+   "options": [
+    "Darle la razón aunque no la tenga, para calmarla y evitar un conflicto mayor",
+    "Suspender la atención hasta que se calme y remitirla al servicio de quejas",
+    "No dar importancia a su forma de expresarse y limitarnos a tramitar su solicitud con la mayor rapidez posible",
+    "Criticar el modo en que se ha expresado, para potenciar que proteste de forma legítima y correcta"
+   ],
+   "correct": 3,
+   "exp": "El Manual (pág. 38) dice que, cuando otras personas expresan de modo hostil e inadecuado su disconformidad con la gestión, «es nuestra obligación criticar el modo en que se han expresado, orientando nuestra intervención a potenciar su capacidad de protestar legítima y correctamente». Darle la razón no es lo indicado: incluso el comentario empatizador de la fase de enfriamiento «en ningún caso es darle razón» (pág. 34).",
+   "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «El autocontrol de las emociones», pág. 38",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Manual de Atención a la Ciudadanía (PDF 2018 de tools/temarios, 45 págs.; página comprobada), pág. 38 literal: «es nuestra obligación criticar el modo en que se han expresado…». Darle la razón queda excluido (pág. 34: «en ningún caso es darle razón»); las otras opciones no están en el Manual. No repetida. | Revisor 2 (CONFIRMADA): Manual 2018, «El autocontrol de las emociones»: «es nuestra obligación criticar el modo en que se han expresado, orientando nuestra intervención a potenciar su capacidad de protestar legítima y correctamente». Distractores contrarios al texto (darle la razón, suspender la atención, no dar importancia a la forma). El distractor C es el más largo. No repetida."
+  },
+  {
+   "q": "Entre las recomendaciones del Manual de Atención a la Ciudadanía sobre «qué no hacer» ante una persona irritada figura:",
+   "options": [
+    "Mantenerse de pie si tenemos oportunidad de sentar a nuestro interlocutor",
+    "Invitarla amablemente, si es posible, a pasar a un área privada y ofrecerle asiento",
+    "Mantener un tono de voz pausado, bajando el volumen",
+    "Pedir ayuda a otra persona si percibimos que no podemos afrontar la situación"
+   ],
+   "correct": 0,
+   "exp": "En el cuadro «Qué hacer / Qué no hacer» del apartado «El autocontrol de las emociones» (pág. 39), la columna «qué no hacer» incluye «Mantenerse de pie si tenemos oportunidad de sentar a nuestro/a interlocutor/a». Las otras tres conductas están en la columna «qué hacer»: invitarla a un área privada, mantener un tono de voz pausado bajando el volumen y pedir ayuda a otra persona si no podemos afrontar la situación.",
+   "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «El autocontrol de las emociones», cuadro «Qué hacer / Qué no hacer», pág. 39",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Manual de Atención a la Ciudadanía (PDF 2018 de tools/temarios, 45 págs.; página comprobada), pág. 39: comprobado en la imagen renderizada del cuadro de dos columnas. «Mantenerse de pie…» está en «QUÉ NO HACER»; área privada con asiento, tono pausado bajando el volumen y pedir ayuda a otra persona están en «QUE HACER». No repetida. | Revisor 2 (CONFIRMADA): Manual 2018, cuadro de la pág. 39 (comprobado en la imagen de la página): «Mantenerse de pie si tenemos oportunidad de sentar a nuestro/a interlocutor/a» está en QUÉ NO HACER; invitar a un área privada ofreciendo asiento, tono pausado bajando el volumen y pedir ayuda a otra persona están en QUÉ HACER. No repetida."
+  },
+  {
+   "q": "Según el primer principio básico del Manual de Atención a la Ciudadanía («Para la ciudadanía»), lo único tangible de una organización abstracta e inasible como el Ayuntamiento es:",
+   "options": [
+    "Las normas y los procedimientos que aplica en cada servicio",
+    "El soporte físico y, sobre todo, la persona de contacto",
+    "Los impresos, folletos y letreros que ofrece al público",
+    "Los resultados de las encuestas de satisfacción ciudadana"
+   ],
+   "correct": 1,
+   "exp": "El principio 1 (pág. 40) dice que el Ayuntamiento es una organización y, por tanto, algo abstracto e inasible, y que «Lo único tangible es EL SOPORTE FÍSICO Y, sobre todo, LA PERSONA DE CONTACTO». Ambos dan el rostro del servicio y, por tanto, «SON EL SERVICIO».",
+   "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Principios básicos en la atención a la ciudadanía», principio 1, pág. 40",
+   "confianza": "alta",
+   "veredicto": "DUDOSA",
+   "notaRevision": "Revisor 1 (DUDOSA): Manual de Atención a la Ciudadanía (PDF 2018 de tools/temarios, 45 págs.; página comprobada), pág. 40: la respuesta marcada (soporte físico y, sobre todo, persona de contacto) es literal del principio 1. Pero el distractor «Los impresos, folletos y letreros que ofrece al público» no es claramente falso: el propio Manual (pág. 8) incluye letreros, folletos e impresos entre los «aspectos tangibles», y se pueden entender como parte del «soporte físico». Un opositor que conozca el Manual puede dudar. Arreglo: sustituir ese distractor por algo ajeno a lo tangible, p. ej. «Los acuerdos y resoluciones que adoptan sus órganos de gobierno». Por lo demás no repite (la existente de pág. 8 pregunta el factor «aspectos tangibles», no el principio 1). | Revisor 2 (CONFIRMADA): Manual 2018, principio 1: «Lo único tangible es EL SOPORTE FÍSICO Y, sobre todo, LA PERSONA DE CONTACTO». Nota: impresos, folletos y letreros forman parte de los «aspectos tangibles» del apartado de calidad, pero como «lo único tangible» la opción es falsa, porque omite a la persona de contacto, que es lo esencial. Sin ambigüedad real. No repetida."
+  },
+  {
+   "q": "Según el principio básico 8 del Manual de Atención a la Ciudadanía («No tenemos que preocuparnos pensando que estamos ofreciendo demasiada atención a la ciudadanía»), la forma de «malacostumbrar» al público es:",
+   "options": [
+    "Atenderle con demasiada amabilidad y cortesía",
+    "Dedicar a cada persona todo el tiempo que necesite",
+    "Recompensar un comportamiento indeseable",
+    "Darle información completa sin que la pida"
+   ],
+   "correct": 2,
+   "exp": "El principio 8 (pág. 43) dice: «La forma de “malacostumbrar” al público es recompensando un comportamiento indeseable». Por eso no hay que preocuparse por ofrecer demasiada atención: la amabilidad, el tiempo o la información no malacostumbran.",
+   "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Principios básicos en la atención a la ciudadanía», principio 8, pág. 43",
+   "confianza": "alta",
+   "veredicto": "CONFIRMADA",
+   "notaRevision": "Revisor 1 (CONFIRMADA): Manual de Atención a la Ciudadanía (PDF 2018 de tools/temarios, 45 págs.; página comprobada), pág. 43 literal: «recompensando un comportamiento indeseable». Los distractores (amabilidad, tiempo, información) no aparecen como formas de malacostumbrar. No repetida. | Revisor 2 (CONFIRMADA): Manual 2018, principio 8: «La forma de “malacostumbrar” al público es recompensando un comportamiento indeseable». Distractores falsos. No repetida."
+  },
+  {
+   "q": "¿Cuántos principios numerados recoge el apartado «Principios básicos en la atención a la ciudadanía», con el que concluye el Manual de Atención a la Ciudadanía?",
+   "options": [
+    "Diez",
+    "Doce",
+    "Dieciséis",
+    "Catorce"
+   ],
+   "correct": 3,
+   "exp": "El apartado (págs. 40-45) numera catorce principios, del «1. Para la ciudadanía» al «14. Para cambiar se necesita mucho tiempo y esfuerzo», tras el cual el Manual termina («FIN»). Ojo: el enunciado de la pregunta 15 del examen oficial de 31-may-2026 decía que el Manual «concluye con quince principios básicos», pero el texto numera catorce.",
+   "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Principios básicos en la atención a la ciudadanía», págs. 40-45",
+   "confianza": "alta",
+   "veredicto": "RECHAZADA",
+   "notaRevision": "Revisor 1 (RECHAZADA): Duda (1): el texto (págs. 40-45) numera 14 principios y termina en «FIN», así que la respuesta es literalmente cierta. Pero no es segura. El tribunal, en la P15 del examen oficial de 31-may-2026, afirmó en el enunciado que el Manual «concluye con quince principios básicos». Esto indica que el tribunal cuenta de otra forma o maneja otra versión, y no he podido descartarlo. Si vuelve a caer, la cifra «oficial» puede ser 15 y enseñar «14» llevaría al error. Además, un recuento de epígrafes aporta poco. Las opciones esquivan deliberadamente «Quince», lo que confirma el conflicto. La explicación incluye una nota editorial sobre el examen. Ante la duda, rechazo. | Revisor 2 (RECHAZADA): El PDF de 2018 numera 14 principios (del 1 al 14, y después FIN), pero el propio tribunal, en la P15 del examen oficial de 31-may-2026 que ya está en el banco (tema 21), parte de que el Manual «concluye con quince principios básicos». Enseñar «catorce» como dato de examen contradice la premisa del tribunal: o usa otra edición o cuenta de otra forma. Si cae «¿cuántos principios?», la respuesta que esperaría el tribunal no coincide con esta. Además, en la app la explicación contradice una pregunta oficial. Riesgo de perjudicar al opositor: se rechaza."
+  }
+ ]
+}

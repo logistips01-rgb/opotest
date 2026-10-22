@@ -20,6 +20,13 @@ Banco: `aux-admin-zaragoza`. Fecha: 22-oct-2026. No se ha modificado ningún arc
 
 **Bloque B: secciones nuevas.** Mientras trabajaba, otros agentes añadieron a `pendientes-siguiente-ronda.md` tres secciones nuevas: tema 2, tema 10 y tema 14 del redactor del lote t14-1. Se han incluido porque el encargo pedía «la lista completa», pero van separadas. Si otro agente las tiene asignadas, basta con quitar del JSON las 18 entradas del bloque B (las 18 últimas: de 2-213 a 10-62).
 
+**No incluidas.** Al cerrar el trabajo (18:15), la lista tenía estas secciones aún más recientes, que no he tratado:
+- tema 8, #90 aprox. (art. 119.3 LPAC);
+- tema 4, #138 y #159 aprox. (denominación del ministerio en los arts. 9.2.c y 10.2.c LPAC);
+- tema 5, #136 (art. 23.1 LPAC).
+
+De la sección «Añadido 22-oct (revisor 1 de t14-1)», la pregunta del art. 122.5 es la 14-85, que ya está en el bloque B. La otra nota de esa sección es sobre un lote nuevo, no sobre una pregunta existente.
+
 ## Resumen
 
 ### Bloque A (11 entradas)

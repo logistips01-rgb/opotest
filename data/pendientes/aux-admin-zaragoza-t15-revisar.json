@@ -1,22 +1,38 @@
 {
   "slug": "aux-admin-zaragoza",
   "tema": 15,
-  "fecha": "2026-08-20",
+  "fecha": "2026-10-22",
   "preguntas": [
     {
-      "q": "¿Cuántos y cuáles son los factores según los cuales se juzga la calidad de un servicio, de acuerdo con el Manual?",
+      "q": "Según el primer principio básico del Manual de Atención a la Ciudadanía («Para la ciudadanía»), lo único tangible de una organización abstracta e inasible como el Ayuntamiento es:",
       "options": [
-        "Cuatro: aspectos tangibles, capacidad de respuesta, la seguridad y fiabilidad, y empatía",
-        "Tres: aspectos tangibles, capacidad de respuesta y empatía",
-        "Cinco: aspectos tangibles, capacidad de respuesta, seguridad, fiabilidad y empatía",
-        "Seis: aspectos tangibles, capacidad de respuesta, seguridad, fiabilidad, empatía y rapidez"
+        "Las normas y los procedimientos que aplica en cada servicio",
+        "El soporte físico y, sobre todo, la persona de contacto",
+        "Los impresos, folletos y letreros que ofrece al público",
+        "Los resultados de las encuestas de satisfacción ciudadana"
       ],
-      "correct": 0,
-      "exp": "El apartado recoge cuatro factores, presentados en un cuadro: ASPECTOS TANGIBLES, CAPACIDAD DE RESPUESTA, LA SEGURIDAD Y FIABILIDAD y EMPATÍA. El Manual no escribe la cifra «cuatro», resulta del recuento de los bloques del cuadro.",
-      "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Factores según los cuales se juzga la calidad de un servicio», pág. 8",
-      "confianza": "media",
+      "correct": 1,
+      "exp": "El principio 1 (pág. 40) dice que el Ayuntamiento es una organización y, por tanto, algo abstracto e inasible, y que «Lo único tangible es EL SOPORTE FÍSICO Y, sobre todo, LA PERSONA DE CONTACTO». Ambos dan el rostro del servicio y, por tanto, «SON EL SERVICIO».",
+      "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Principios básicos en la atención a la ciudadanía», principio 1, pág. 40",
+      "confianza": "alta",
+      "veredicto": "DUDOSA",
+      "notaRevision": "Revisor 1 (DUDOSA): Manual de Atención a la Ciudadanía (PDF 2018 de tools/temarios, 45 págs.; página comprobada), pág. 40: la respuesta marcada (soporte físico y, sobre todo, persona de contacto) es literal del principio 1. Pero el distractor «Los impresos, folletos y letreros que ofrece al público» no es claramente falso: el propio Manual (pág. 8) incluye letreros, folletos e impresos entre los «aspectos tangibles», y se pueden entender como parte del «soporte físico». Un opositor que conozca el Manual puede dudar. Arreglo: sustituir ese distractor por algo ajeno a lo tangible, p. ej. «Los acuerdos y resoluciones que adoptan sus órganos de gobierno». Por lo demás no repite (la existente de pág. 8 pregunta el factor «aspectos tangibles», no el principio 1). | Revisor 2 (CONFIRMADA): Manual 2018, principio 1: «Lo único tangible es EL SOPORTE FÍSICO Y, sobre todo, LA PERSONA DE CONTACTO». Nota: impresos, folletos y letreros forman parte de los «aspectos tangibles» del apartado de calidad, pero como «lo único tangible» la opción es falsa, porque omite a la persona de contacto, que es lo esencial. Sin ambigüedad real. No repetida.",
+      "_motivo": "veredicto DUDOSA"
+    },
+    {
+      "q": "¿Cuántos principios numerados recoge el apartado «Principios básicos en la atención a la ciudadanía», con el que concluye el Manual de Atención a la Ciudadanía?",
+      "options": [
+        "Diez",
+        "Doce",
+        "Dieciséis",
+        "Catorce"
+      ],
+      "correct": 3,
+      "exp": "El apartado (págs. 40-45) numera catorce principios, del «1. Para la ciudadanía» al «14. Para cambiar se necesita mucho tiempo y esfuerzo», tras el cual el Manual termina («FIN»). Ojo: el enunciado de la pregunta 15 del examen oficial de 31-may-2026 decía que el Manual «concluye con quince principios básicos», pero el texto numera catorce.",
+      "fuente": "Manual de Atención a la ciudadanía del Ayuntamiento de Zaragoza (2018), «Principios básicos en la atención a la ciudadanía», págs. 40-45",
+      "confianza": "alta",
       "veredicto": "RECHAZADA",
-      "notaRevision": "Pág. 8 (verificada también sobre la imagen de la página): el cuadro tiene cuatro recuadros (ASPECTOS TANGIBLES, CAPACIDAD DE RESPUESTA, LA SEGURIDAD Y FIABILIDAD, EMPATÍA) pero el Manual NO escribe en ningún sitio la cifra —a diferencia de «son principalmente siete» o «Cinco son las características»— y el tercer recuadro fusiona dos cualidades nombradas, de modo que la opción «Cinco: ...seguridad, fiabilidad...» es defendible desde el mismo cuadro (es además el modelo SERVQUAL de origen). Pregunta ambigua sobre un dato no explícito: rechazada.",
+      "notaRevision": "Revisor 1 (RECHAZADA): Duda (1): el texto (págs. 40-45) numera 14 principios y termina en «FIN», así que la respuesta es literalmente cierta. Pero no es segura. El tribunal, en la P15 del examen oficial de 31-may-2026, afirmó en el enunciado que el Manual «concluye con quince principios básicos». Esto indica que el tribunal cuenta de otra forma o maneja otra versión, y no he podido descartarlo. Si vuelve a caer, la cifra «oficial» puede ser 15 y enseñar «14» llevaría al error. Además, un recuento de epígrafes aporta poco. Las opciones esquivan deliberadamente «Quince», lo que confirma el conflicto. La explicación incluye una nota editorial sobre el examen. Ante la duda, rechazo. | Revisor 2 (RECHAZADA): El PDF de 2018 numera 14 principios (del 1 al 14, y después FIN), pero el propio tribunal, en la P15 del examen oficial de 31-may-2026 que ya está en el banco (tema 21), parte de que el Manual «concluye con quince principios básicos». Enseñar «catorce» como dato de examen contradice la premisa del tribunal: o usa otra edición o cuenta de otra forma. Si cae «¿cuántos principios?», la respuesta que esperaría el tribunal no coincide con esta. Además, en la app la explicación contradice una pregunta oficial. Riesgo de perjudicar al opositor: se rechaza.",
       "_motivo": "veredicto RECHAZADA"
     }
   ]
