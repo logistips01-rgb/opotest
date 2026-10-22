@@ -172,7 +172,8 @@ registerEsquema('aux-admin-zaragoza', 7, {
         ['Información pública · 83', '<b>Mínimo 20 días</b>', 'La puede acordar el órgano que resuelve. Anuncio en el diario oficial. Comparecer <b>no da, por sí mismo, la condición de interesado</b>; quien presenta alegaciones u observaciones tiene derecho a una respuesta razonada.']
       ]},
       {tipo: 'lista', tinte: true, items: [
-        {t: 'Hechos declarados probados por <b>sentencia penal firme</b>: vinculan en el procedimiento sancionador.', a: '77.4'},
+        {t: 'Discriminación: si el interesado la alega y aporta <b>indicios fundados</b>, corresponde a quien se imputa la situación discriminatoria aportar una justificación objetiva y razonable, suficientemente probada, de las medidas y de su proporcionalidad (apartado añadido por la Ley 15/2022).', a: '77.3 bis'},
+        {t: 'Hechos declarados probados por <b>resoluciones judiciales penales firmes</b>: vinculan en el procedimiento sancionador.', a: '77.4'},
         {t: 'Documentos de funcionarios con condición de <b>autoridad</b>: prueban los hechos que constatan, salvo prueba en contrario.', a: '77.5'},
         {t: 'Prueba consistente en un informe de un órgano administrativo: se entiende <b>preceptivo</b>.', a: '77.6'},
         {t: 'La audiencia va <b>antes</b> del informe jurídico y del dictamen del Consejo de Estado u órgano consultivo autonómico.', a: '82.1'},
@@ -187,8 +188,8 @@ registerEsquema('aux-admin-zaragoza', 7, {
       {tipo: 'columnas', cols: [
         {titulo: 'Sancionadores · 85', reglas: [
           'Si el infractor <b>reconoce</b> su responsabilidad, se puede resolver imponiendo la sanción.',
-          'Sanción solo pecuniaria: el <b>pago voluntario</b> antes de la resolución termina el procedimiento.',
-          'Reducciones de <b>al menos el 20 %</b>, acumulables, condicionadas a desistir o renunciar a recursos en vía administrativa.'
+          'Sanción solo pecuniaria (o pecuniaria y no pecuniaria, justificada la improcedencia de la segunda): el <b>pago voluntario</b> antes de la resolución termina el procedimiento, salvo en la reposición de la situación alterada y la indemnización de daños.',
+          'Sanción solo pecuniaria: reducciones de <b>al menos el 20 %</b>, acumulables, fijadas en la notificación de iniciación y condicionadas a desistir o renunciar a cualquier acción o recurso en vía administrativa. El porcentaje puede incrementarse reglamentariamente.'
         ]},
         {titulo: 'Terminación convencional · 86', reglas: [
           'Acuerdos, pactos, convenios o contratos no contrarios al ordenamiento ni sobre materias no susceptibles de transacción.',
