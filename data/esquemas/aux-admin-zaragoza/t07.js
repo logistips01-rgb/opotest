@@ -287,7 +287,7 @@ registerEsquema('aux-admin-zaragoza', 7, {
   ],
 
   examenes: [
-    'Art. 76.1 (alegaciones en cualquier momento anterior al trámite de audiencia): examen oficial 31-may-2026, pregunta 50. Ojo: la plantilla oficial dio por buena la opción b), «En cualquier momento del procedimiento anterior a la propuesta de resolución», pero el texto literal del art. 76.1 dice «en cualquier momento del procedimiento anterior al trámite de audiencia» (opción a). El esquema sigue la ley.',
+    'Art. 76.1 (alegaciones en cualquier momento anterior al trámite de audiencia): examen oficial 31-may-2026, pregunta 50.',
     'Art. 96.6 (30 días, salvo que reste menos para la tramitación ordinaria): examen oficial 1-jun-2025, pregunta de reserva 3.',
     'Art. 98.1.b (sanción recurrible en vía administrativa, incluso en reposición, no es inmediatamente ejecutiva): examen oficial 1-jun-2025, pregunta de reserva 2.'
   ]

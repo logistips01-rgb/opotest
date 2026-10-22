@@ -125,6 +125,7 @@
 
       <footer class="es-foot">
         <p><b>Fuentes:</b> ${e.fuentes.map(marcas).join(' · ')}</p>
+        ${window.NORMATIVA ? `<p><b>Normativa comprobada</b> contra el BOE el ${window.UI.fechaCorta(window.NORMATIVA.comprobado)}.</p>` : ''}
         ${e.examenes && e.examenes.length ? `<p><b>En exámenes oficiales:</b> ${e.examenes.map(marcas).join(' · ')}</p>` : ''}
       </footer>
     </article>`;

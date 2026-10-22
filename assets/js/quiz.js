@@ -20,7 +20,7 @@
   };
 
   /* ---------------- utilidades ---------------- */
-  const { esc, fmt, ring, icon } = window.UI;
+  const { esc, fmt, ring, icon, fechaCorta } = window.UI;
   function shuffle(arr){
     const a=[...arr];
     for(let i=a.length-1;i>0;i--){
@@ -95,6 +95,7 @@
       </div>
       <button class="mode-btn" id="btn-mix">Examen mezclado <span class="sub">${Math.min(MIX_SIZE,totalQ)} preguntas</span></button>
       <button class="mode-btn secondary" id="btn-repaso-fallos">Repasar mis fallos</button>
+      ${window.NORMATIVA ? `<a class="mode-btn secondary esq-link" href="actualizaciones.html?opo=${encodeURIComponent(meta.slug)}">${icon('bell')}Actualizaciones <span class="sub">normativa comprobada a ${fechaCorta(window.NORMATIVA.comprobado)}</span></a>` : ''}
       ${(meta.esquemas||[]).length ? `<a class="mode-btn secondary esq-link" href="esquema.html?opo=${encodeURIComponent(meta.slug)}">${icon('doc')}Esquemas de estudio <span class="sub">${meta.esquemas.length} tema${meta.esquemas.length===1?"":"s"} · ver o imprimir</span></a>` : ''}
       </div>
       <div class="col-b">
@@ -183,6 +184,16 @@
         alert('Aún no tienes fallos guardados en esta oposición. ¡Sigue practicando!');
         return;
       }
+    } else if(mode==='cambios'){
+      // preguntas cambiadas por actualización de ley o corregidas
+      // (data/actualizaciones.js, ver actualizaciones.html)
+      const lista = ((window.ACTUALIZACIONES||{})[meta.slug]) || [];
+      const vistas = new Set();
+      lista.forEach(e=>(e.preguntas||[]).forEach(p=>{
+        if(vistas.has(p.q)) return;
+        const q = (QUESTIONS[p.tema]||[]).find(x=>x.q===p.q);
+        if(q){ vistas.add(p.q); pool.push({...q, tema:p.tema}); }
+      }));
     }
     if(pool.length===0){
       alert('Todavía no hay preguntas en este bloque.');
@@ -586,5 +597,7 @@
     // test.html?opo=...&tema=N viene de "Seguir donde lo dejaste" en el inicio.
     const temaPedido = parseInt(new URLSearchParams(location.search).get('tema'));
     if(temaPedido && (QUESTIONS[temaPedido]||[]).length) startQuiz('tema', temaPedido);
+    // test.html?opo=...&modo=cambios viene de la página de actualizaciones
+    if(new URLSearchParams(location.search).get('modo') === 'cambios') startQuiz('cambios');
   })();
 })();

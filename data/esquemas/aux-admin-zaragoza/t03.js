@@ -187,7 +187,7 @@ registerEsquema('aux-admin-zaragoza', 3, {
       {tipo: 'lista', tinte: true, items: [
         {t: 'Función legislativa: solo en competencias <b>exclusivas y compartidas</b>, nunca en las ejecutivas.', a: 'arts. 71, 75 y 77', examen: '2026'},
         {t: 'Las competencias se ejercen con eficacia en el <b>territorio de Aragón</b>, salvo excepciones expresas.', a: 'art. 70.2'},
-        {t: 'Policía autonómica: Aragón <b>podrá crearla</b> (76.1). Le corresponde la coordinación de la actuación de las <b>Policías locales aragonesas</b> (76.3) {{examen:2025}}. Se creará, en su caso, una Junta de Seguridad paritaria Estado-Comunidad que coordina la Policía autonómica y los Cuerpos y Fuerzas de Seguridad del Estado (76.4).', a: 'art. 76'},
+        {t: 'Policía autonómica: Aragón <b>podrá crearla</b> (76.1). Le corresponde la coordinación de la actuación de las <b>Policías locales aragonesas</b> (76.3). Se creará, en su caso, una Junta de Seguridad paritaria Estado-Comunidad que coordina la Policía autonómica y los Cuerpos y Fuerzas de Seguridad del Estado (76.4).', a: 'art. 76'},
         {t: 'Fomento: subvenciones con fondos propios. Las territorializables del Estado y la UE: en exclusivas fija objetivos, regula el otorgamiento y las gestiona; en compartidas precisa objetivos, completa las condiciones y asume toda la gestión; en ejecutivas, las gestiona.', a: 'art. 79'},
         {t: 'Cláusula de cierre: en competencias exclusivas, el Derecho propio de Aragón se aplica <b>con preferencia</b> a cualquier otro.', a: 'art. 80.2'}
       ]}
@@ -210,7 +210,7 @@ registerEsquema('aux-admin-zaragoza', 3, {
   examenes: [
     'Art. 10 (incorporación de territorios: ley orgánica de las Cortes Generales): examen oficial 1-jun-2025, pregunta 5.',
     'Art. 71.9.ª (urbanismo, competencia exclusiva): examen oficial 1-jun-2025, pregunta 3.',
-    'Art. 76.3 (coordinación de la actuación de las Policías locales aragonesas): examen oficial 1-jun-2025, pregunta 50. La plantilla dio por correcta la opción c), «Las respuestas a) y b) son correctas». El art. 76.3 solo recoge la a): «Corresponde a la Comunidad Autónoma la coordinación de la actuación de las Policías locales aragonesas». La b), coordinación de la Policía autonómica con las Policías locales, no aparece con esa redacción en el Estatuto. El esquema sigue el texto del Estatuto.',
+    'Art. 76.3 (coordinación de la actuación de las Policías locales aragonesas): examen oficial 1-jun-2025, pregunta 50. La respuesta tomada como oficial (clave del banco, a falta de plantilla) da por buenas las dos opciones, también «La coordinación de la actuación de la Policía autonómica con la de las Policías locales aragonesas». El art. 76.3 solo dice: «Corresponde a la Comunidad Autónoma la coordinación de la actuación de las Policías locales aragonesas». El esquema sigue el texto del Estatuto y no marca este punto.',
     'Título V (función legislativa solo en exclusivas y compartidas): examen oficial 31-may-2026, pregunta 5.',
     'Art. 32 (instituciones; no lo son el TSJ ni el Consejo Consultivo): examen oficial 31-may-2026, pregunta 31.',
     'Art. 36.2 (mínimo de 14 escaños por provincia): examen oficial 31-may-2026, reserva 4.'

@@ -183,9 +183,8 @@ registerEsquema('aux-admin-zaragoza', 8, {
   examenes: [
     'Art. 109.2 (rectificación de errores de oficio o a instancia de los interesados): examen oficial 1-jun-2025, pregunta 39.',
     'Art. 116 (falta de legitimación: causa de inadmisión): examen oficial 1-jun-2025, pregunta 40.',
-    'Art. 119.3 (la resolución no puede agravar en ningún caso la situación inicial del recurrente): examen oficial 1-jun-2025, pregunta 49.',
+    'Art. 119.3 (la resolución no puede agravar en ningún caso la situación inicial del recurrente): examen oficial 1-jun-2025, pregunta 49, y examen oficial 31-may-2026, pregunta 26.',
     'Art. 125.2 (error de hecho: 4 años desde la notificación de la resolución): examen oficial 31-may-2026, pregunta 16.',
-    'Art. 119.3: examen oficial 31-may-2026, pregunta 26. Ojo: la plantilla oficial dio por buena la opción a), «si la propuesta de resolución de un recurso agrava la situación inicial del recurrente se le oirá previamente». El texto literal dice que sobre las cuestiones no alegadas por los interesados «se les oirá previamente» y que la resolución será congruente con las peticiones del recurrente, «sin que en ningún caso pueda agravarse su situación inicial» (opción b). El esquema sigue la ley.',
     'Art. 117.1 (el recurso no suspende la ejecución, excepto si una disposición establece lo contrario): examen oficial 31-may-2026, pregunta 34.'
   ]
 });

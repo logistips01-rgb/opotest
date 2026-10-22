@@ -661,6 +661,39 @@ a.mode-btn{text-decoration:none;}
 .tema-esq:hover{background:var(--teal-soft);}
 .kbd-hint{display:none;}
 
+/* ===== Actualizaciones ===== */
+.act-norm{background:var(--hero);color:var(--on-hero);border-radius:20px;padding:16px 18px;display:flex;flex-direction:column;gap:4px;}
+.act-norm .k{margin:0;font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;opacity:.72;}
+.act-norm .t{margin:0;font-family:var(--display);font-weight:800;font-size:22px;}
+.act-norm .d{margin:4px 0 0;font-size:13px;line-height:1.5;opacity:.9;}
+.act-norm details{margin-top:6px;font-size:13px;}
+.act-norm summary{cursor:pointer;font-weight:700;}
+.act-norm ul{list-style:none;margin:8px 0 0;padding:0;display:flex;flex-direction:column;gap:4px;}
+.act-norm li{display:flex;justify-content:space-between;gap:12px;border-top:1px solid rgba(255,255,255,.12);padding-top:4px;}
+.act-norm li b{white-space:nowrap;font-variant-numeric:tabular-nums;}
+.act-entry{background:var(--card);border-radius:16px;padding:14px 16px;display:flex;flex-direction:column;gap:8px;box-shadow:var(--shadow);}
+.act-head{display:flex;justify-content:space-between;align-items:center;gap:8px;}
+.act-tipo{font-family:var(--display);font-size:11.5px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;border-radius:6px;padding:2px 8px;background:var(--teal-soft);color:var(--teal);}
+.act-tipo.rose{background:var(--rose-soft);color:var(--rose);}
+.act-tipo.amber{background:var(--amber-soft);color:var(--amber);}
+.act-fecha{font-size:12.5px;color:var(--muted);}
+.act-entry h3{margin:0;font-family:var(--display);font-size:16px;font-weight:800;line-height:1.3;text-wrap:balance;}
+.act-txt{margin:0;font-size:14px;line-height:1.5;color:var(--muted);}
+.act-entry details summary{cursor:pointer;font-family:var(--display);font-weight:700;font-size:14px;color:var(--teal);}
+.act-q{border-top:1px solid var(--line);padding-top:10px;margin-top:10px;display:flex;flex-direction:column;gap:8px;}
+.act-enun{margin:0;font-size:14.5px;line-height:1.45;font-weight:700;}
+.act-ops{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:6px;}
+.act-ops li{display:flex;justify-content:space-between;gap:10px;font-size:14px;line-height:1.4;background:var(--surface);border-radius:10px;padding:8px 10px;}
+.act-ops li em{font-style:normal;font-size:11.5px;font-weight:700;white-space:nowrap;}
+.act-ops li.ahora{background:var(--ok-soft);}
+.act-ops li.ahora em{color:var(--ok);}
+.act-ops li.antes{background:var(--bad-soft);}
+.act-ops li.antes span{text-decoration:line-through;text-decoration-color:var(--bad);}
+.act-ops li.antes em{color:var(--bad);}
+.act-ops li.oficial{background:var(--amber-soft);}
+.act-ops li.oficial em{color:var(--amber);}
+.act-ley{margin:0;font-size:14px;line-height:1.5;background:var(--ok-soft);border-radius:10px;padding:8px 10px;}
+
 /* ===== Ordenador =====
    A partir de 960 px la app deja de ser una columna de móvil: menú lateral
    en el test, inicio y temas a dos columnas, y la pregunta centrada a un
@@ -731,7 +764,8 @@ a.mode-btn{text-decoration:none;}
   .kbd-hint{display:block;font-size:12px;color:var(--muted);}
 
   /* esquemas */
-  .pg-esquema #app{max-width:980px;}
+  .pg-esquema #app,.pg-act #app{max-width:980px;}
+  .pg-act .screen > *{width:100%;max-width:820px;margin-left:auto;margin-right:auto;}
   .pg-esquema .screen > *{width:100%;max-width:880px;margin-left:auto;margin-right:auto;}
 }
 @media (min-width:960px) and (hover:none){ .kbd-hint{display:none;} }

@@ -35,7 +35,7 @@ registerEsquema('aux-admin-zaragoza', 6, {
 
   cifras: [
     {v: '9', d: 'Supuestos de actos que deben motivarse (letras a a i)', a: 'art. 35.1'},
-    {v: '10 días', d: 'Para cursar la notificación desde que se dicta el acto {{examen:2025}}', a: 'art. 40.2'},
+    {v: '10 días', d: 'Para cursar la notificación desde que se dicta el acto', a: 'art. 40.2'},
     {v: '14 años', d: 'Edad mínima de quien recoge en el domicilio una notificación en papel', a: 'art. 42.2'},
     {v: '3 días', d: 'Plazo para el segundo y único intento de notificación en papel', a: 'art. 42.2'},
     {v: '15 horas', d: 'Si el primer intento fue antes, el segundo va después, y viceversa', a: 'art. 42.2'},
@@ -52,7 +52,7 @@ registerEsquema('aux-admin-zaragoza', 6, {
       {tipo: 'tabla', cab: ['35.1', 'Se motivan, con sucinta referencia de hechos y fundamentos de derecho'], filas: [
         ['a)', 'Los que <b>limiten</b> derechos subjetivos o intereses legítimos'],
         ['b)', 'Los que resuelvan revisión de oficio, <b>recursos</b> administrativos y arbitraje, y los que declaren su inadmisión'],
-        ['c)', 'Los que se separen del <b>criterio seguido en actuaciones precedentes</b> o del dictamen de órganos consultivos {{examen:2025}}'],
+        ['c)', 'Los que se separen del <b>criterio seguido en actuaciones precedentes</b> o del dictamen de órganos consultivos'],
         ['d)', 'Suspensión de actos, cualquiera que sea el motivo, y medidas provisionales del art. 56'],
         ['e)', 'Tramitación de urgencia, ampliación de plazos y actuaciones complementarias'],
         ['f)', 'Los que <b>rechacen pruebas</b> propuestas por los interesados'],
@@ -86,7 +86,7 @@ registerEsquema('aux-admin-zaragoza', 6, {
     {titulo: 'Notificación: plazo y contenido', a: 'art. 40', bloques: [
       {tipo: 'lista', items: [
         {t: 'Notifica el <b>órgano que dicta</b> el acto, a los interesados cuyos derechos e intereses resulten afectados.', a: '40.1'},
-        {t: 'Se cursa en <b>10 días</b> desde que el acto se dicta. Contiene: <b>texto íntegro</b>, si pone fin o no a la vía administrativa, recursos que procedan en vía administrativa y judicial, órgano ante el que presentarlos y plazo.', a: '40.2', examen: '2025'},
+        {t: 'Se cursa en <b>10 días</b> desde que el acto se dicta. Contiene: <b>texto íntegro</b>, si pone fin o no a la vía administrativa, recursos que procedan en vía administrativa y judicial, órgano ante el que presentarlos y plazo.', a: '40.2'},
         {t: 'Con texto íntegro pero sin algún otro requisito: surte efecto desde que el interesado realiza actuaciones que suponen <b>conocer</b> el contenido y alcance del acto, <b>o</b> interpone cualquier recurso que proceda.', a: '40.3', examen: '2026'},
         {t: 'A los solos efectos de cumplir la obligación de notificar dentro del plazo máximo de duración del procedimiento, basta la notificación con el <b>texto íntegro</b> y el <b>intento</b> debidamente acreditado.', a: '40.4'},
         {t: 'Con más de un interesado, se pueden adoptar medidas para proteger los datos personales.', a: '40.5'}
@@ -192,7 +192,7 @@ registerEsquema('aux-admin-zaragoza', 6, {
   ],
 
   trampas: [
-    {x: 'El art. 35.1.c habla del dictamen <i>preceptivo</i> de órganos consultivos', ok: 'Dice solo «del dictamen de órganos consultivos», sin «preceptivo». En la P13 de 2025, la opción que reproducía el texto era la del criterio seguido en actuaciones precedentes. {{examen:2025}}', a: '35.1.c'},
+    {x: 'El art. 35.1.c habla del dictamen <i>preceptivo</i> de órganos consultivos', ok: 'Dice solo «del dictamen de órganos consultivos», sin «preceptivo».', a: '35.1.c'},
     {x: 'Un órgano superior puede dictar una resolución particular que se aparte de un reglamento', ok: 'No, aunque sea de igual o superior jerarquía al que dictó la disposición general.', a: '37.1'},
     {x: 'La notificación se cursa en 15 días', ok: 'En 10 días desde que se dicta el acto.', a: '40.2'},
     {x: 'Sin indicación de recursos, la notificación nunca produce efectos', ok: 'Si contiene el texto íntegro, los produce desde que el interesado actúa conociendo el acto o recurre.', a: '40.3'},
@@ -205,10 +205,10 @@ registerEsquema('aux-admin-zaragoza', 6, {
   ],
 
   examenes: [
-    'Art. 35.1.c (separarse del criterio de actuaciones precedentes): examen oficial 1-jun-2025, pregunta 13.',
+    'Art. 35.1.c (actos que se separan del criterio de actuaciones precedentes o del dictamen de órganos consultivos): examen oficial 1-jun-2025, pregunta 13. La respuesta tomada como oficial (clave del banco, a falta de plantilla) es solo «Los actos que se separen del criterio seguido en actuaciones precedentes» y deja fuera «Los actos que se separen del dictamen preceptivo de órganos consultivos». El art. 35.1.c recoge los dos casos («o del dictamen de órganos consultivos») sin distinguir si el dictamen es preceptivo. El esquema sigue la ley y no marca este punto.',
     'Arts. 47 y 48 (la infracción del ordenamiento y la desviación de poder no son nulidad): examen oficial 1-jun-2025, pregunta 21.',
     'Art. 37.1 (inderogabilidad singular, «aunque» proceda de órgano de igual o superior jerarquía): examen oficial 1-jun-2025, pregunta 47.',
-    'Art. 40.2 (plazo y contenido de la notificación): examen oficial 1-jun-2025, pregunta 48. La opción a) del cuestionario decía «quince días»; el art. 40.2 vigente dice <b>diez días</b>.',
+    'Art. 40.2 (plazo y contenido de la notificación): examen oficial 1-jun-2025, pregunta 48. La respuesta tomada como oficial (clave del banco, a falta de plantilla) da por buenas las dos afirmaciones, también «Toda notificación deberá ser cursada dentro del plazo de quince días a partir de la fecha en que el acto haya sido dictado». El art. 40.2 dice <b>diez días</b>. El esquema sigue la ley y no marca este punto.',
     'Art. 40.3 (notificación con texto íntegro a la que faltan otros requisitos): examen oficial 31-may-2026, pregunta 35.',
     'Art. 48.2 (defecto de forma): examen oficial 31-may-2026, pregunta 38.'
   ]
