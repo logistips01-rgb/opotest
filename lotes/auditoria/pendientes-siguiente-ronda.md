@@ -14,3 +14,6 @@ propuesta, revisor independiente y `tools/aplicar-cambios.js --tipo correccion`.
 - Tema 13: falta la Orden HAP/1781/2013 (BOE-A-2013-10268).
 - Tema 3: los capítulos del Título II del Estatuto están mal descritos.
 - Tema 20: el aviso de navegación habla de 11 artículos sin punto (son 10) y de 294 artículos (hay un 82 bis).
+
+## Tema 3 (revisor 2 del lote t03-1)
+- La pregunta existente sobre el art. 41 a) EAA usa como distractor «La designación de los Senadores en representación de Aragón», que también es función de las Cortes (art. 41 c). Hay que cambiar ese distractor.
