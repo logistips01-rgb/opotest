@@ -27,7 +27,7 @@
       preguntas:5745,
       // temas con esquema de estudio en data/esquemas/<slug>/tNN.js
       // (tools/validar-esquemas.js avisa si esta lista no coincide)
-      esquemas:[1, 2, 3, 4, 5, 6, 7, 8, 20]
+      esquemas:[1, 2, 3, 4, 5, 6, 7, 8, 9, 20]
     },
     {
       slug:'policia-local-zaragoza',
